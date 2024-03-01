@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 21:17:24**
+As of **2024-03-01 21:33:16**
 
 ## Newspaper Stats
 
-*Scraped **10,318** Articles*
+*Scraped **10,322** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
-bbccomsinhala | 124
+bbccomsinhala | 125
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 542
 dailyftlk | 542
 islandlk | 544
-adalk | 875
-adaderanalk | 1,251
+adalk | 876
+adaderanalk | 1,253
 tamilmirrorlk | 1,256
 virakesarilk | 1,404
 dailymirrorlk | 1,565
@@ -26,63 +26,107 @@ adaderanasinhalalk | 1,585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,311 (99.9%) of 10,318 articles have been extended.
+10,318 (100.0%) of 10,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### ඇලෙක්සි නවල්නිගේ සිරුර මිහිදන් කෙරේ
+### Alexei Navalny buried in Moscow as thousands chant his name
+
+*2024-03-01 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97671/alexei-navalny-buried-in-moscow-as-thousands-chant-his-name) · `en`
+
+Thousands of Russians chanted Alexei Navalny’s name and said they would not forgive the authorities for his death as the opposition leader was laid to rest in Moscow on Friday.
+
+In video streamed from the Borisovskyoe cemetery, Navalny’s mother Lyudmila and father Anatoly stooped over his open coffin to kiss him for the last time as a small group of musicians played.
+
+Crossing themselves, mourners stepped forward to caress his face before a priest gently placed a white shroud over him and the coffin was closed.
+
+Navalny, President Vladimir Putin’s fiercest critic inside Russia, died at the age of 47 in an Arctic penal colony on Feb. 16., sparking accusations from his supporters that he had been murdered. The Kremlin has denied any state involvement in his death.
+
+The authorities have outlawed his movement as extremist and cast his supporters as U.S.-backed troublemakers out to foment revolution. Kremlin spokesman Dmitry Peskov said he had nothing to say to Navalny’s family.
+
+...
+
+[Data](articles/769ee496.json)
+
+---
+
+### President promises to safeguard Sri Lanka’s economic initiatives in Indian Ocean
+
+*2024-03-01 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97670/president-promises-to-safeguard-sri-lankas-economic-initiatives-in-indian-ocean) · `en`
+
+President Ranil Wickremesinghe says Sri Lanka Navy is entrusted with the responsibility of safeguarding Sri Lanka’s oceanic territories, including the Indian Ocean region. He underscored that the nation’s economic initiatives will not be permitted to suffer any harm in the Indian Ocean.
+
+Additionally, the President highlighted the historical context of the closure of the Suez Canal for a decade during the 1967 Israeli-Arab war and its effects on the Colombo port’s operations. He emphasized the imperative of ensuring the security of the Suez Canal and the Red Sea to safeguard the economic interests of the country’s ports.
+
+President Wickremesinghe made these remarks while delivering a speech at the Presidential Fleet Review of the Sri Lanka Navy held this morning (March 01) at the Trincomalee Harbour.
+
+As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a guard of honour by the Sri Lanka Navy upon his arrival at the Trincomalee Naval Base.
+
+...
+
+[Data](articles/b9d08e02.json)
+
+---
+
+### Alexi Navalni's body to be buried
 
 *2024-03-01 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194024) · `si`
 
-පසුගියදා අභිරහස් ලෙස මරණය ට පත්වූ රුසියානු විපක්ෂ නායක ඇලෙක්සි නවල්නි ගේ සිරුර අද (01) මිහිදන් කර තිබේ.
+The body of the Russian opposition leader Alexi Navealney has been buried today (01).
 
-විදෙස් මාධ්‍ය සඳහන් කළේ මොස්කව් නුවර ට ආසන්නව පිහිටි කනත්තක ඔහුගේ සිරුර මිහිදන් කළ බවයි.
+Foreign media stated that his body was buried in a cemetery close to Moscow.
 
-එම අවස්ථාව ට එක්වූ ජනතාව පුටින් විරෝධී ප්‍රකාශ කළ බව සඳහන් ය.
+The people who joined the occasion were anti-Putin.
 
-සිරුර මිහිදන් කිරීමේ අවස්ථාව ට ඔහුගේ මව එක්වුවද ආරක්ෂක හේතු මත ඔහුගේ බිරිඳ ඊට එක්වී නැත.
+His mother had not joined the burial of the body, but for security reasons.
 
 ◼️
 
 [Data](articles/14d2969c.json)
 
+[Extended Data](ext_articles/14d2969c.ext.json)
+
 ---
 
-### PHIගේ ඝාතන සැකකරුවන් පළා ගිය හැටි -CCTV
+### How to flee the murder suspects - CCTV
 
 *2024-03-01 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194023) · `si`
 
-ඇල්පිටිය ප්‍රදේශයේදී මහජන ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රෝෂන් කුමාර මහතා ඝාතනයෙන් පසුව වෙඩික්කරුවන් යතුරුපැදියකින් පළා යන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් අප වෙත ලැබී තිබේ.
+We have received a CCTV footage of Treasurer Roshan Kumara, Treasurer Roshan Kumara, after the assassination of Treasurer's motorcycle after the assassination in Elpitiya area.
 
-විමර්ශන නිලධාරීන් පවසන්නේ, මොවුන් දෙදෙනා මහඌර ප්‍රදේශයට මෙම යතුරුපැදියෙන් ගමන් කර ඇති අතර සිද්ධිය සිදු වූ දින පෙරවරු 7.28න් පසුව ඔවුන් දෙදෙනා සහ යතුරුපැදිය පිළිබඳ කිසිඳු තොරතුරක් CCTV දර්ශනවල නොමැති බවය.
+Investigation Officers have traveled from this motorcycle to the general area and there is no information on the cctv scenes after 7.28 am.
 
-මේ අතර ඊයේ දිනයේදී ගිනි තබා විනාශ කර තිබූ යතුරුපැදියේ අනන්‍යතාව තහවුරු කරගැනීම සඳහා රස පරීක්ෂකවරයා වෙත යොමුකර තිබේ.
+Meanwhile, the Tastekerator has been forwarded to the analyst to ensure the identity of the motorcycle that was destroyed yesterday.
 
 ◼️
 
 [Data](articles/3324a0ec.json)
 
+[Extended Data](ext_articles/3324a0ec.ext.json)
+
 ---
 
-### රොනී ද මෙල් දැයෙන් සමුගනී
+### Ronnie de Mel is good
 
 *2024-03-01 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194022) · `si`
 
-හිටපු මුදල් අමාත්‍යවරයෙකු වූ රොනී ද මෙල් මහතාගේ අවසන් කටයුතු අද (01) රුහුණු විශ්වවිද්‍යාලයීය ක්‍රීඩාංගණයේ දී අද සිදු කෙරිණි.
+Ronn De Mel, a former Finance Minister Ronni De Mel, was held at the University of Ruhunu today (01).
 
-මෙරට දේශපාලන ඉතිහාසයේ වැඩිම අයවැය ගණනක් ඉදිරිපත් කළ මුදල් අමාත්‍යවරයා ලෙස වාර්තා අතරට එක් ව සිටි කෘතහස්ත දේශපාලනඥයකු වූ රොනී ද මෙල් මහතා කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී පසුගිය සඳුදා අභාවප්‍රාප්ත විය.
+Ronnay de Mel, who was the highest budgetary minister in Sri Lanka, has passed away with the death to be treated at a private hospital in Colombo.
 
-ඒ මහතාගේ දේහය කොළඹ පිහිටි නිවසේ තැන්පත් කර තිබූ අතර, පසු ව ඊයේ සවස රුහුණු විශ්වවිද්‍යාලයේ ගෘහස්ථ ක්‍රීඩාංගණයේ තැන්පත් කරනු ලැබිණි.
+His remains were placed at the house in Colombo and then placed at the domestic stadium at the University of Ruhuna yesterday evening.
 
-අනතුරු ව අවසන් කටයුතු සඳහා රොනී ද මැල් මහතාගේ දේහය අද සවස රුහුණු විශ්වවිද්‍යාලයේ ක්‍රීඩාංගණය වෙත රැගෙන එන ලදි.
+Ronni De Mel's body was taken to the Grounds at the Ruhunu University this evening for the end of the accident.
 
-මෙහි දී රොනී ද මෙල් මහතාගේ අවසන් කැමති පත්‍රෙයහි සඳහන් පරිදි අවමංගල්‍ය උත්සවයේ දී කතා පැවත්විණි.
+In the lasting ceremony, Ronnie de Mel was given talks at the funeral.
 
 ◼️
 
 [Data](articles/edd4f45b.json)
+
+[Extended Data](ext_articles/edd4f45b.ext.json)
 
 ---
 
@@ -160,59 +204,67 @@ Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has been arre
 
 ---
 
-### பாதசாரி கடவைக்கு அண்மித்த பகுதியில் வீதியை கடக்க முற்பட்ட முதியவர் மோட்டார் சைக்கிள் மோதி உயிரிழப்பு - உரும்பிராயில் சம்பவம்
+### An elderly man who tried to cross the road near the pedestrian crossing
 
 *2024-03-01 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177710) · `ta`
 
-பாதசாரி கடவைக்கு அருகாமையில் வெள்ளிக்கிழமை (1) வீதியைக் கடக்க முற்பட்ட முதியவர் ஒருவர் மோட்டார் சைக்கிள் மோதி உயிரிழந்தார். இச்சம்பவத்தில் உரும்பிராய் வடக்கு பகுதியைச் சேர்ந்த சின்னத்தம்பி அருமைநாயகம் (வயது 80) என்பவரே இவ்வாறு உயிரிழந்தார்.
+An elderly man who tried to cross the road on Friday (1) near the pedestrian cross. Chinathambi Arumanayagam (age 80) from Urumpirai north of Urumpirai died in the incident.
 
-வெள்ளிக்கிழமை (1) காலை குறித்த முதியவர் வீட்டிற்கு அருகாமையில் உள்ள பகுதியில் குப்பையை கொட்டிவிட்டு வீட்டுக்கு வருவதற்காக வீதியைக் கடக்க முற்பட்டபோது, பலாலியில் இருந்து யாழ்ப்பாணம் நோக்கிப் பயணித்த மோட்டார் சைக்கிள் மோதி படுகாயமடைந்துள்ளார்.
+On Friday morning (1), the elderly man was injured when a motorcycle traveling from Palali was hit by a motorcycle from Palali when he was trying to cross the street to get home.
 
-இந்நிலையில் அவரை மீட்டு யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சேர்ப்பித்தவேளை அவர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+He was rescued and enrolled at the Jaffna Teaching Hospital and died without treatment.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது. விபத்தில் காயமடைந்த மோட்டார் சைக்கிள் சாரதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார்.
+Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination. A motorcycle driver who was injured in the accident has been admitted to the Jaffna Teaching Hospital and is being treated.
 
 ◼️
 
 [Data](articles/11453b85.json)
 
+[Extended Data](ext_articles/11453b85.ext.json)
+
 ---
 
-### திருகோணமலை டொக்கியாட் கடற்கரையில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் கரை ஒதுங்கியது
+### The body of an unidentified male on the beach of Trincomalee
 
 *2024-03-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177709) · `ta`
 
-திருகோணமலை டொக்கியாட் கடற்கரையில் வெள்ளிக்கிழமை (01) மாலை அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் கரை ஒதுங்கியுள்ளதாக பொலிசார் தெரிவிக்கின்றனர்.
+Police say the body of an unidentified man has been left in the shore on Friday evening (01) at Tokkat beach in Trincomalee.
 
-திருகோணமலை கடலில் மிதந்துகொண்டிருந்த நிலையில் குறித்த சடலத்தினை அவதானித்த காவல்துறையின் உயிர் காக்கும் படையினர் கடலுக்குச் சென்று குறித்த சடலத்தினை கரைக்கு எடுத்து வந்துள்ளனர்.
+The body of the police, who observed the body as floating in the sea of Trincomalee, went to the sea and took the body to shore.
 
-இதுவரை இனங்காணப்படாத நிலையில் இடது கால் இழக்கப்பட்ட அங்கவீனமான ஒருவரே இவ்வாறு மீட்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுவரும் நிலையில் இதுவரை மரணத்திற்கான காரணம் தெரியவில்லை எனவும் குறிப்பிடப்படுகின்றது.
+The cause of the death is not known as a person who has lost his left leg has been reported to have been recovered.
 
-சடலத்தை இனம் காண்பதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாகவும் தெரிவிக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணைகளை துறைமுக பொலிசார் மேற்கொண்டு வருகின்றனர்.
+It has been reported that the body is being carried out and the port police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1a35dbc4.json)
 
+[Extended Data](ext_articles/1a35dbc4.ext.json)
+
 ---
 
-### நாட்டுக்கு கொண்டுவரப்பட்டது சாந்தனின் பூதவுடல்; நீர்கொழும்பில் பிரேத பரிசோதனை
+### Shantan's bodies brought to the country;Autopsy
 
 *2024-03-01 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177708) · `ta`
 
-55 வயதான தில்லையம்பலம் சுதேந்திரராஜா என்ற இயற்பெயரைக் கொண்ட சாந்தன் கல்லீரல் செயலிழப்பால் மரணமடைந்த நிலையில் அவரது பூதவுடல் வெள்ளிக்கிழமை (1) நாட்டுக்கு கொண்டுவரப்பட்டுள்ளது.
+55 -year -old Thillaiyambalam Sudhendraraja, a nickname, has been brought to the country on Friday (1).
 
-இந்நிலையில் அவரது பூதவுடன் நீண்ட நேர தமதத்துக்குப் பின்னர் கட்டுநாயக்க விமானநிலையத்திலிருந்து பெறப்பட்ட நிலையில் உடலம் மீதான பிரேத பரிசோதனைக்கு அறிவுறுத்தல் வழங்கப்பட்டுள்ளதால்  பிரேத பரிசோதனைக்காக நீர் கொழும்பு வைத்தியசாலையில் உடலம் கையளிக்கப்பட்டுள்ளது.
+In this case, the body of the water has been handed over to the Colombo Hospital for autopsy as the autopsy has been instructed from the Katunayake airport after a long time.
 
-பிரேத பரிசோதனையின் பின்னராக உடலத்தை கையேற்றப் பின்னராக யாழ்ப்பாணம் நோக்கி கொண்டு செல்லப்படவுள்ளதாக அவரது உறவினர்கள் அறிவித்துள்ளனர்.
+His relatives have announced that the body will be taken to Jaffna after the autopsy.
 
-சாந்தன் கடந்த 28ஆம் திகதி சென்னை ராஜீவ் காந்தி மருத்துவமனையில்  சிகிச்சைகள் பலனின்றி மரணமடைந்திருந்த நிலையில் அவரது பூதவுடல் வெள்ளிக்கிழமை (1) விமானம் மூலம் சென்னையில் இருந்து கட்டுநாயக்கவுக்கு கொண்டுவரப்பட்டது.
+Shantan died at Rajiv Gandhi Hospital in Chennai on the 28th of this month.
 
-இதேவேளை, அவரது உடலம் யாழ்ப்பாணத்துக்கு கொண்டு சென்றதன் பின்னர் பொதுமக்களின் அஞ்சலிக்காக வைக்கப்பட்டு இறுதிக் கிரியைகள் அவரது உடுப்பிட்டியில் உள்ள இல்லத்தில் நடைபெறவுள்ளது.
+Meanwhile, after his body was taken to Jaffna, the funeral will be held at his residence in Udupitiya.
 
-...
+It is reported that the Jaffna University Students Union and the Welfare of the Foreign Trade Fighters have made arrangements to make special tributes.
+
+◼️
 
 [Data](articles/982aa332.json)
+
+[Extended Data](ext_articles/982aa332.ext.json)
 
 ---
 
@@ -266,6 +318,22 @@ The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 mo
 
 ---
 
+### කිසිම ඖෂධ වංචාවකට ඉඩක් නෑ
+
+*2024-03-01 19:05:18* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-ඖෂධ-වංචාවකට-ඉඩක්-නෑ/11-408378) · `si`
+
+කිසිදු ඖෂධ වංචාවක්  සිදුවීමට ඉඩ නොතබන බව සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා අවධාරණය  කරයි. අමාත්‍යවරයා මේ බව අවධාරණය කරන ලද්දේ අද දින (01) ගම්පහ දිස්ත්‍රික් මහ රෝහලේ විශේෂ නිරීක්ෂණ චාරිකාවකට එක් වෙමින් අනතුරුව මාධ්‍ය  වෙත අදහස් දක්වමින්ය.
+
+වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා කියා සිටියේ දැනට හිඟව පවතින ඖෂධ ඉදිරි මාස 06 ක වැනි කාලසීමාව තුල යථාවත් වනු ඇති බවය. නියමිත ප්‍රසම්පාදන ක්‍රියාවලිය පමණක් අනුගමනය කරන බවත්, දීර්ඝ කාලයක් ගත වන ප්‍රසම්පාදන ක්‍රියාවලියට  විවිධ පාර්ශ්ව ගණනාවක් සම්බන්ධ වන බවත්, මේ සියල්ල විනිවිදභාවයකින් සිදුවන බවද පැවසීය.
+
+රෝහල් වල ස්කෑන් යන්ත්‍ර අබලන්වීම පිළිබදව අදහස් දක්වමින් සෞඛ්‍ය අමාත්‍යවරයා කියා  සිටියේ එම ස්කෑන් යන්ත්‍රයට අවශ්‍ය උපකරණ ලංකාවට ගෙන්වීමට පියවර ගෙන ඇති බවත්, ඉදිරි සති දෙකක කාලය ඇතුලත එම ගැටළුව නිරාකරණය වෙනු ඇති බවයි. මෙරට තිබෙන සීටි ස්තෑන් යන්ත්‍ර 46 ක වැනි ප්‍රමාණයකින් 03 ක පමණ ගැටළු ඇති බවත්, එම ගැටළු නිරාකරණය කරගෙන යන බවද කීහ.
+
+...
+
+[Data](articles/5b20b8cb.json)
+
+---
+
 ### The death of a schoolgirl in an accident
 
 *2024-03-01 19:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விபத்தில்-பாடசாலை-மாணவன்-மரணம்/71-334058) · `ta`
@@ -304,21 +372,27 @@ It is reported that when children are playing, they have found a tire meeting, a
 
 ---
 
-### சாந்தன் சொந்த நாட்டுக்கு திரும்புவதில் ஏற்பட்ட தாமதத்துக்கு மத்திய, தமிழக அரசுகளே காரணம் - சட்டத்தரணி புகழேந்திப்பாண்டியன்
+### Central and Tamil Nadu governments are responsible for the delay in returning to Santhan's home country
 
 *2024-03-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177705) · `ta`
 
-சாந்தன் சொந்த நாட்டுக்குத் திரும்புவதில் ஏற்பட்ட தாமதத்துக்கு மத்திய, தமிழக அரசுகளே காரணமாக உள்ளதாக அவரது சட்டத்தரணி புகழேந்திப்பாண்டியன் தெரிவித்துள்ளார்.
+His lawyer Prasanthipandian said the central and Tamil Nadu governments were responsible for the delay in returning to Santhan's home country.
 
-55வயதான தில்லையம்பலம் சுதேந்திரராஜா என்ற இயற்பெயரைக் கொண்ட சாந்தன் கடந்த 28ஆம் திகதி சென்னை ராஜீவ்காந்தி மருத்துவமனையில் கல்லீரல் செயலிழப்பால் மரணமடைந்தார். அவரது பூதவுடல் நேற்றையதினம் விமானம் மூலம் கொண்டுவரப்பட்ட நிலையில், அவரது சட்டத்தரணியான புகழேந்தி பாண்டியனும் வருகை தந்திருந்தார்.
+55 -year -old Dillaiyambalam Sudhendrarajah died of liver failure at Rajiv Gandhi Hospital in Chennai on the 28th of this month.. His lawyer, Prasanthi Pandiyan, was also present as his body was brought by plane yesterday.
 
-இந்நிலையில், சாந்தன் இலங்கை திரும்புவதில் ஏற்பட்ட தாமதங்கள் மற்றும் அவரது மரணத்துக்கான காரணம் தொடர்பில் வீரகேசரியிடம் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+In this case, he said this while commenting on Weerakesari on the delays of Santhan's return to Sri Lanka and the cause of his death.
 
-ராஜீவ்காந்தி கொலை வழக்கில் மரணதண்டனை வழங்கப்பாட்டிருந்த சாந்தனுக்கு பின்னர் மனுத்தாக்கல் செய்யப்பட்ட நிலையில், அவரது தண்டனை ஆயுள் தண்டனையாகக் குறைக்கப்பட்டது. அதன்பின்னர் அவர் 2022ஆம் ஆண்டு நவம்பர் மாதம் 11ஆம் திகதி உச்சநீதிமன்றத்தின் தீர்ப்புக்கு அமைவாக விடுவிக்கப்பட்டார்.
+Santhan, who was sentenced to death in the Rajiv Gandhi murder case, was submitted to life imprisonment. He was later released on November 11, 2022, in accordance with the Supreme Court's verdict.
+
+However, he was locked in the Open Open Trichy Open Trichy on December 12, 2022. Although he was staying there, the central government did not show any signals to send him to Sri Lanka.
+
+In this case, he sent several letters to the central and state governments by 2023, but there were no formal response.
 
 ...
 
 [Data](articles/7d242d87.json)
+
+[Extended Data](ext_articles/7d242d87.ext.json)
 
 ---
 
@@ -1812,6 +1886,28 @@ Police also mentioned that they were planning to buy the house in question as we
 
 ---
 
+### 'මම ලියන හැටි' : චන්දි කොඩිකාර
+
+*2024-03-01 12:19:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4lye1rqrpo) · `si`
+
+චන්දි කොඩිකාර යනු සිංහල පාඨකයන්ගේ සුවිශාල ආදරයකට ලක් වන නවකතාකාරියකි. හිම යායක මල් පිපිලා නවකතාවෙන් ඇරඹෙන ඇගේ නවකතාකරණය සාහිත්‍ය වෙත එක් කර ඇති නවකතා ගණන මෙහි සඳහන් කළ නොහැකි තරමට සුවිශාලය.
+
+මා ඇය සමග කතාබහක යෙදෙන්නේ නවකතාකාරියක ලෙස ඇය ලේඛනයේ යෙදෙන විට ඇයට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඇයට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+පළමු සංවාදය-'මම ලියන හැටි':නෝබට් අයගමගේදෙවන සංවාදය : 'මම ලියන හැටි': සුරත් ද මැල්තුන්වන සංවාදය: 'මම ලියන හැටි': කත්‍යානා අමරසිංහ
+
+...
+
+[Data](articles/0c0b2fe1.json)
+
+---
+
 ### Parate execution law suspended to help one party: Mayantha
 
 *2024-03-01 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parate-execution-law-suspended-to-help-one-party-Mayantha/108-278030) · `en`
@@ -1953,87 +2049,5 @@ It has been decided at the Committee on Parliamentary Business (01).
 [Data](articles/c5146fbe.json)
 
 [Extended Data](ext_articles/c5146fbe.ext.json)
-
----
-
-### Sri Lanka imports rise in Jan as tourism, remittances boost dollar incomes
-
-*2024-03-01 11:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-imports-rise-in-jan-as-tourism-remittances-boost-dollar-incomes-152591/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s imports rose to 1,512 million US dollars, in January 2023 even as exports faltered, official data shows as people got more dollars to spend from tourism.
-
-Exports fell to 0.8 percent from a year ago to 971 million US dollars in January 2024, but remittances grew to 488 million US dollars from 437 million.
-
-In December remittances were 570 million dollars. Sri Lanka also does not settle fuel imports made new players including Sinopec.
-
-The trade deficit expanded to 541 million US dollars from 445 million as non-Merchandise incomes were spent.
-
-Tourism receipts were estimated to have risen to 342 million US dollars in January from 154 million dollars last year. Outward tourism was estimated at 15 million dollars up from 13 last year.
-
-Computer and IT related incomes were 43 million US dollars down from 62 million last year, sea transport incomes were 54 million dollars and air passenger incomes were 29 million dollars.
-
-...
-
-[Data](articles/54e90c84.json)
-
-[Extended Data](ext_articles/54e90c84.ext.json)
-
----
-
-### Saharan's brother-in-law seized
-
-*2024-03-01 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193998) · `si`
-
-When the police were conducting sudden raid in Kattankudi, the wife was arrested.
-
-According to the police, the police had raided a tip off received by the police that a illegal meeting would be held.
-
-◼️
-
-[Data](articles/02258513.json)
-
-[Extended Data](ext_articles/02258513.ext.json)
-
----
-
-### CBSL officials summoned to party leaders’ meeting next week over recent salary hike
-
-*2024-03-01 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97651/cbsl-officials-summoned-to-party-leaders-meeting-next-week-over-recent-salary-hike) · `en`
-
-The officials of the Central Bank of Sri Lanka (CBSL) will be summoned to the party leaders’ meeting scheduled to be convened on Tuesday (March 05), the Department of Communication of Parliament says.
-
-This was decided at the meeting of Committee on Parliamentary Business held this morning (March 01).
-
-The CBSL officials will be inquired about the process and rationale behind the recent salary hike for its employees.
-
-Next week’s parliamentary sessions will be convened from Tuesday to Thursday.
-
-◼️
-
-[Data](articles/0e594a8a.json)
-
-[Extended Data](ext_articles/0e594a8a.ext.json)
-
----
-
-### Salary hike: CBSL officials summoned to party leaders’ meeting next week
-
-*2024-03-01 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97651/salary-hike-cbsl-officials-summoned-to-party-leaders-meeting-next-week) · `en`
-
-The officials of the Central Bank of Sri Lanka (CBSL) will be summoned to the party leaders’ meeting scheduled to be convened at 10.30 a.m. on Tuesday (March 05), the Department of Communication of Parliament says.
-
-There, the CBSL officials will be inquired about the process and rationale behind the recent salary hike given to its employees.
-
-This was decided at the meeting of Committee on Parliamentary Business held this morning (March 01).
-
-Next week’s parliamentary sessions are slated to be held from Tuesday to Thursday.
-
-Earlier this week, the CBSL requested the President, in his capacity as the Minister of Finance, for an opportunity to apprise the Members of Parliament, through an appropriate Parliamentary Committee, of the recent salary increment which came under fire. The request was made in writing by CBSL Governor Dr. Nandalal Weerasinghe.
-
-...
-
-[Data](articles/e8f608b4.json)
-
-[Extended Data](ext_articles/e8f608b4.ext.json)
 
 ---

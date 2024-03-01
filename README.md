@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 20:17:19**
+As of **2024-03-01 20:33:17**
 
 ## Newspaper Stats
 
@@ -26,33 +26,37 @@ adaderanasinhalalk | 1,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,303 (100.0%) of 10,304 articles have been extended.
+10,304 (100.0%) of 10,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### විදුලි ගාස්තු අඩුකිරීමේ තීරණය දෙවැනි දිනටත් කල්යයි
+### Electricity tariff reduces the decline in the second day
 
 *2024-03-01 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194020) · `si`
 
-ලංකා විදුලිබල මණ්ඩලය විසින් යෝජිත විදුලි ගාස්තු අඩුකිරීමට අදාළව මහජන උපයෝගිතා කොමිසම සමඟ පැවති සාකච්ඡා අද (01) දෙවැනි දිනටත් විසඳුමකින් තොරව අවසන්වී තිබේ.
+The discussions with the Public Utilities Commission of Ceylon Electricity Board have ended today (01).
 
-මණ්ඩලය ඊට අදාළ දත්ත ප්‍රමාණවත් පරිදි ලබා නොදීම හේතුවෙන් මේ තත්ත්වය නිර්මාණය වූ බව මහජන උපයෝගිතා කොමිසම පවසයි.
+The Public Utilities Commission states that this situation was created as a result of the board was not provided with relevant data.
 
-මෙලෙස කල්යමින් තිබෙන්නේ මේ වසරේ ජනවාරි මාසයේ සිට ක්‍රියාත්මක කිරීමට නියමිතව තිබූ විදුලි ගාස්තු සංශෝධනයයි.
+This is the revision of the electricity tariff from January this year.
 
-මාස තුනකට වරක් විදුලි ගාස්තු සංශෝධනය කිරීමේ රජයේ නව ප්‍රතිපත්තිය අනුව 2023 වසරේ අවස්ථා 3කදී විදුලි ගාස්තු සංශෝධනය කෙරුණි.
+The government's new tariff was revised in the year 20, 2023, as the government's new policy of revision of electricity tariffs.
 
-ඒ අනුව පෙබරවාරි 15 ගාස්තු වැඩිකිරීමකට, ජුලි 01 ගාස්තු අඩුකිරීමකට සහ ඔක්තෝබර් 20 නැවතත් ගාස්තු වැඩිකිරීමකට මහජන උපයෝගීතා කොමිසම ලංකා විදුලිබල මණ්ඩලයට අවසර ලබා දුන්නේය.
+Accordingly, a fee reduction in fees on February 15, and the Public Utilities Commission allowed the Ceylon Electricity Board to increase the fees again.
 
-අවසන් සංශෝධනය කළ ඔක්තෝබර් මාසයේ ගෘහස්ථ කාණ්ඩය සඳහා විදුලි ගාස්තුව ඉහළ නැංවුණේ සියයට 18 ක ප්‍රතිශතයකිනි.
+The electricity tariff has increased by 18 percent to the domestic category of the final revised.
 
-කෙසේ වෙතත් යහපත් ජල විදුලි ධාරිතාව සහ ලාභදායි තත්ත්වය සැලකිල්ලට ගනිමින් විදුලි ගාස්තු අඩුකිරීමට මණ්ඩලය මෙවර යෝජනාවක් ඉදිරිපත් කළත්, ඔවුන්ගේ දත්තවල සඳහන් වියදම් තවදුරටත් කප්පාදු කර නැවත වාර්තාවක් ලබාදෙන ලෙස උපයෝගිතා කොමිසම දැනුම්දී තිබිණි.
+However, this year's proposal to reduce the electricity capacity and profitability and the proposal, the Utilities Commission had informed the repair of the costs.
+
+The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 months of Rs. 156.9 billion in the last 3 months of Rs.
 
 ...
 
 [Data](articles/aa226575.json)
+
+[Extended Data](ext_articles/aa226575.ext.json)
 
 ---
 

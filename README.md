@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 08:33:13**
+As of **2024-03-01 08:51:54**
 
 ## Newspaper Stats
 
-*Scraped **10,161** Articles*
+*Scraped **10,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ dailyftlk | 535
 islandlk | 543
 adalk | 865
 adaderanalk | 1,225
-tamilmirrorlk | 1,234
+tamilmirrorlk | 1,235
 virakesarilk | 1,394
-dailymirrorlk | 1,539
+dailymirrorlk | 1,541
 adaderanasinhalalk | 1,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,161 (100.0%) of 10,161 articles have been extended.
+10,164 (100.0%) of 10,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Bangladesh fire: At least 43 dead in Dhaka building blaze
+
+*2024-03-01 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-fire-At-least-43-dead-in-Dhaka-building-blaze/108-278005) · `en`
+
+Bangladesh, March 1 (BBC) - At least 43 people have been killed after a fire broke out in a multi-storey building in Bangladesh, the country's health minister says.
+
+According to local media, the blaze began in a restaurant at around 22:00 local time (16:00 GMT) on Thursday in the capital, Dhaka.
+
+Seventy-five people were rescued and dozens were brought to hospital.
+
+The fire was bought under control after two hours, according to fire officials, and the cause is being investigated.
+
+Bangladesh's Health Minister, Samanta Lal Sen, said that at least 33 people, including women and children, had been declared dead at the Dhaka Medical College Hospital.
+
+At least 10 others died at the city's main burns hospital. Twenty-two were in critical condition, Mr Sen said.
+
+The emergency services were called to the Kacchi Bhai restaurant which, according to the Daily Bangladesh newspaper, is in a building that has seven floors.
+
+...
+
+[Data](articles/527bf01a.json)
+
+[Extended Data](ext_articles/527bf01a.ext.json)
+
+---
 
 ### A female body near a deserted house
 
@@ -342,6 +368,26 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 
 ---
 
+### The National Cyber Security Act will be introduced
+
+*2024-03-01 04:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-சைபர்-பாதுகாப்புச்-சட்டத்தை-கொண்டுவரப்படும்/175-334032) · `ta`
+
+Technology Minister Kanaka Herath said that the National Cyber Protection Act is expected to be introduced within this year and will then establish the Cyber Security Authority.
+
+He said this at a press conference held at the Presidential Media Center yesterday. He further stated that
+
+The digital economy, which has been 4.73 percent in the past, has grown to 5 percent today. So the economy is also strengthened. The digital economic conference will be held in Sri Lanka at the end of July to strengthen it. It has been decided to attract domestic and foreign investors. The work will be carried out by the Ministry of Foreign Embassies, the Ministry of Foreign Affairs and the Ministry of Investment Promotion.
+
+Similarly, the National Cyber Protection Act is expected to bring in this year through Sri Lanka Stert.. He said the Cyber Security Authority would soon be established. (A)
+
+◼️
+
+[Data](articles/afce37ff.json)
+
+[Extended Data](ext_articles/afce37ff.ext.json)
+
+---
+
 ### Gold smuggling MP’s secretary attempts to influence NMRA officials
 
 *2024-03-01 04:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-smuggling-MPs-secretary-attempts-to-influence-NMRA-officials/108-278002) · `en`
@@ -489,6 +535,26 @@ The progress in meeting the key commitments under the IMF-backed programme is se
 [Data](articles/04547b6d.json)
 
 [Extended Data](ext_articles/04547b6d.ext.json)
+
+---
+
+### Sri Lanka expects “smooth” second IMF review
+
+*2024-03-01 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-expects-smooth-second-IMF-review/155-277995) · `en`
+
+The government on Wednesday expressed confidence in the upcoming International Monetary Fund (IMF) review going “smooth”.
+
+Despite the concerns about the progress of debt restructuring with private bondholders still remaining, Sri Lanka is certain that it will be able to successfully implement the reform agenda.
+
+“The second review will commence from March 7 and we are very confident that it will be a smoother review than the first review,” Finance State Minister Shehan Semasinghe said during a press briefing held at the Presidential Media Centre on Wednesday.
+
+The progress in meeting the key commitments under the IMF-backed programme is set to be formally assessed in the context of the second review of the Extended Fund Facility arrangement, alongside the forthcoming 2024 Article IV consultation assessing Sri Lanka’s economic health.
+
+...
+
+[Data](articles/5d3c5e26.json)
+
+[Extended Data](ext_articles/5d3c5e26.ext.json)
 
 ---
 
@@ -1887,73 +1953,5 @@ Commercial Bank of Ceylon Plc, which announced a scrip dividend yesterday, also 
 [Data](articles/25c4b037.json)
 
 [Extended Data](ext_articles/25c4b037.ext.json)
-
----
-
-### 10 -year -old girl murdered: Investigate Ivar
-
-*2024-02-29 16:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/10-வயது-சிறுமி-கொலை-ஐவரிடம்-விசாரணை/72-334007) · `ta`
-
-A 10 -year -old girl in the village of Talaimannar has been extended till the 7th of this month.
-
-A 10 -year -old girl was found dead on the morning of February 16 in the village of Talaimannar.
-
-A 52 -year -old suspect from Kuchchaveli, Trincomalee, who was arrested in connection with the incident, was produced before the Mannar court.
-
-The Mannar Magistrate, who conducted the inquiry, ordered to be kept in detention until the 29th.
-
-The suspect was produced before the Mannar Magistrate KLM Sajeed again on Thursday (29).
-
-The magistrate's mother, father and mother, who died, were investigated by the magistrate.
-
-The magistrate ordered the suspect to be remanded until the 7th of this month.
-
-◼️
-
-[Data](articles/969eb0ae.json)
-
-[Extended Data](ext_articles/969eb0ae.ext.json)
-
----
-
-### Sri Lanka inflation rises 5.9-pct over 17 -months, food down
-
-*2024-02-29 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-rises-5-9-pct-over-17-months-food-down-152537/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation measured by the Colombo Consumer Price Index rose 5.9 percent in the 12-months to February 2024, down from 6.4 percent in January, with food prices down 2.1 percent, data from the state statistics office show.
-
-Food prices were down 1.6-pct over 17-months despite a hike in value added tax
-
-The CCPI Index was unchanged in February 2024 at 200.6 points in February 2024, down from 200.7 point in January.
-
-Though the 12-month inflation was higher than the 5-pct inflation target the central bank has promised, the agency had created maintained monetary stability and created little inflation since September 2022 based on the index.
-
-The revised CCPI Index was up 5.9 from September 2022 when monetary stability was reached and the central bank generated a balance of payments surplus, signaling the end of inflationary policy.
-
-...
-
-[Data](articles/3b74da0a.json)
-
-[Extended Data](ext_articles/3b74da0a.ext.json)
-
----
-
-### S.C. Muthukumarana appointed to fill MP seat vacated by Premarathne
-
-*2024-02-29 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97630/sc-muthukumarana-appointed-to-fill-mp-seat-vacated-by-premarathne) · `en`
-
-The Election Commission has informed that S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was appointed to fill the MP seat left vacant due to the resignation of Uddika Premarathne.
-
-The Secretary General of the Parliament, Mrs. Kushani Rohanadeera had informed the Chairman of the Election Commission in writing that the Member of Parliament representing the Anuradhapura Constituency Uddika Premarathne has tendered his letter of resignation as a Member of Parliament and thus a vacancy has been created following the resignation.
-
-On Tuesday (27), the SLPP parliamentarian handed over the letter of resignation to the Deputy General Secretary of Parliament Mr. Chaminda Kularatne, for reasons yet to be made public.
-
-In 2020, the popular actor was announced as a candidate for the 2020 parliamentary election from the Anuradhapura District as a member of the Sri Lanka People’s Freedom Alliance, a political alliance led by the SLPP formed in 2019.
-
-...
-
-[Data](articles/55f47663.json)
-
-[Extended Data](ext_articles/55f47663.ext.json)
 
 ---

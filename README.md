@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 10:17:31**
+As of **2024-03-01 10:33:57**
 
 ## Newspaper Stats
 
-*Scraped **10,186** Articles*
+*Scraped **10,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 526
 dailyftlk | 542
 islandlk | 543
-adalk | 866
+adalk | 867
 adaderanalk | 1,228
 tamilmirrorlk | 1,239
 virakesarilk | 1,394
@@ -26,27 +26,29 @@ adaderanasinhalalk | 1,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,179 (99.9%) of 10,186 articles have been extended.
+10,186 (100.0%) of 10,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### පානදුර කැලඹූ ගින්න
+### Toping down fire in Panadura
 
 *2024-03-01 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193991) · `si`
 
-පානදුර සමගි මාවත ප්‍රදේශයේ තීන්ත නිෂ්පාදන කර්මාන්ත ශාලාවක ඇති වූ ගින්නකින් එය සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+It was completely destroyed by a fire at a fire production factory in Samagi Mawatha, Panadura.
 
-පානදුර උතුර සමගි මාවත ප්‍රදේශයේ පිහිටි තීන්ත නිෂ්පාදන කර්මාන්ත ශාලාවක ඊයේ (29) රාත්‍රියේ ගින්න හටගෙන තිබුණි.
+The fire had erupted at a paint production factory in Samagi Mawatha, Panadura yesterday (29).
 
-මොරටුව මහනගර සභාවේ ගිනි නිවීම් ඒකකය මගින් ගින්න මැඩපවත්වා තිබේ.
+The fire brigade of the Moratuwa Municipal Council has been suppressed.
 
-ගින්නෙන් සිදුවූ හානිය පිළිබඳ මෙතෙක් තක්සේරු කර නොමැති අතර ගින්නට හේතුව සොයා විමර්ශන සිදුකරයි.
+No evaluation of the damage caused by the fire, but the fire is conducting investigations.
 
 ◼️
 
 [Data](articles/7328dd0d.json)
+
+[Extended Data](ext_articles/7328dd0d.ext.json)
 
 ---
 
@@ -82,27 +84,31 @@ Meanwhile, internal sources from Lanka IOC and Sinopec Fuel Oil Sales Company Lt
 
 [Data](articles/86aec77f.json)
 
+[Extended Data](ext_articles/86aec77f.ext.json)
+
 ---
 
-### சகோதரியை ஏற்றி வந்த வான் சகோதனுக்கு எமனானது
+### Eman to the sister who loaded the sister
 
 *2024-03-01 09:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/சகோதரியை-ஏற்றி-வந்த-வான்-சகோதனுக்கு-எமனானது/74-334036) · `ta`
 
-பாடசாலை மாணவர்களை ஏற்றி செல்லும்  வான் ஒன்று மோதியதில் உயிரிழந்த சிறுவனின் சடலம் குடும்பத்தினிடம் ஒப்படைக்கப்பட்டுள்ளது.
+The body of a boy who died after a van carrying school children has been handed over to the family.
 
-அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட வீடு ஒன்றின்  முற்றத்தில் நேற்று  விளையாடிக்கொண்டிருந்த சிறுவன் வீட்டின்  கதவு தற்செயலாக திறந்த நிலையில் வீதியை நோக்கி ஓடியுள்ளான்.
+The boy, who was playing in the courtyard of a house in the Ampara district, was playing on the road yesterday.
 
-இதன்போது, அவ்வழியால் வந்த பாடசாலை மாணவர்களை ஏற்றி செல்லும்  வான் மோதியதில் படுகாயமடைந்த சிறுவன்  கல்முனை ஆதார வைத்தியசாலைக்கு சிகிச்சைக்காக எடுத்து சென்ற நிலையில் உயிரிழந்துள்ளார்.
+In the meantime, a boy who was injured when a van crashed into the school, was taken to Kalmunai Resource Hospital for treatment.
 
-இவ்வாறு உயிரிழந்தவர் பெரிய நீலாவணை விஷ்ணு வித்தியாலய வீதியை சேர்ந்த  4 வயது மதிக்கத்தக்க அருணா ஹர்ஷான் என தெரிவிக்கப்படுகின்றது
+The deceased is said to be a 4 -year -old respected Aruna Harshan from the Vishnu Vidyalaya Road, the deceased.
 
-விபத்தின் போது  சிறுவனின் சகோதரியை ஏற்ற வந்த வான்  அவன் மீது மோதி  ஒரு பக்க நெஞ்சு பகுதியில் ஏறிச் சென்றுள்ளதாக நேரில் கண்டவர்கள் குறிப்பிட்டனர்.
+Eyewitnesses stated that the boy's sister had been hit by the boy during the accident and had crashed into one side chest.
 
-குறித்த சம்பவம் தொடர்பில் பெரிய நீலாவணை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதுடன் கலமுனை ஆதார வைத்தியசாலை சவச்சாலையில் வைக்கப்பட்டிருந்த  சடலம் மரண விசாரணையின் பின்னர் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது. R
+Further investigations are being carried out by the major Nilawana police and the body of the body of the Kalamunai Resource Hospital has been handed over to relatives after the death investigation.. Remble
 
 ◼️
 
 [Data](articles/6ab94e74.json)
+
+[Extended Data](ext_articles/6ab94e74.ext.json)
 
 ---
 
@@ -128,55 +134,61 @@ Now, steps have been taken to transport his mortal remains to his home country, 
 
 ---
 
-### පුද්ගලයෙක් පැහැරගත් කල්ලියක් කොටුවෙයි
+### A gang abducted caught
 
 *2024-03-01 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193990) · `si`
 
-පුද්ගල පැහැර ගැනීමකට සම්බන්ධ සැකකරුවන් 05 දෙනෙකු පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+Five suspects have been arrested by the police.
 
-පොලීසිය සඳහන් කළේ අලවතුගොඩ අකුරණ නගරයේදී ඊයේ (29) දින පුද්ගලයෙක් පැහැරගෙන යෑමක් සම්බන්ධයෙන් ලැබුණු පැමිණිල්ලකට අනුව මෙම විමර්ශන ආරම්භ කළ බවය.
+Police said these investigations were launched in a complaint lodged with a complaint regarding a complaint received by Alawatugoda town yesterday.
 
-පැහැර ගැනුණු පුද්ගලයා අයුතු ලෙස සිරකර පහරදී තුවාල සිදුකර රුපියල් ලක්ෂ 20ක් බලෙන් ලබාගැනීම සහ අනුබලදීම සම්බන්ධයෙන් සැකකරුවන්ට චෝදනා එල්ලවී තිබේ.
+The suspects were injured in the abducted person abused and injured and suspicion of acquisition of Rs.
 
-සැකකරුවන් අවුරුදු 22ත් 62ත් අතර වයසේ පසුවන අකුරණ ප්‍රදේශයේ පදිංචිකරුවන්ය.
+The suspects are residents of Akurana area aged to 22 and 62 years.
 
 ◼️
 
 [Data](articles/30c4430e.json)
 
+[Extended Data](ext_articles/30c4430e.ext.json)
+
 ---
 
-### எரிபொருள் விலையில் திருத்தம்?
+### Correction in fuel prices?
 
 *2024-03-01 09:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலையில்-திருத்தம்/150-334035) · `ta`
 
-தற்போதுள்ள எரிபொருள் விலையை மார்ச் மாதம் வரை தொடர்ந்து பராமரிக்க அரசாங்கம் தீர்மானித்துள்ளது.
+The government has decided to maintain the existing fuel prices until March.
 
-மாதாந்த எரிபொருள் விலை திருத்தத்தின் படி, நேற்று (29) நள்ளிரவு முதல் குறித்த விலைகள் திருத்தப்பட்டிருக்க வேண்டும்.
+According to the monthly fuel prices, the prices must be revised since midnight yesterday (29).
 
-இதன்படி, இம்மாதத்தில் எவ்வித விலை திருத்தமும் இன்றி தற்போதுள்ள விலைக்கே எரிபொருள் விற்பனையை மேற்கொள்ள இலங்கை பெற்றோலிய  கூட்டுத்தாபனம் தீர்மானித்துள்ளது.
+Accordingly, the Ceylon Petroleum Corporation has decided to sell fuel for the existing price without any prices this month.
 
-அதேபோல், லங்கா ஐஓசி நிறுவனமும் சினோபெக் நிறுவனமும் மாதாந்த விலை திருத்தம் தொடர்பில் இதுவரையில் முறையான அறிவித்தலை வழங்கவில்லை. R
+Similarly, Lanka IOC and Sinopac have not yet issued a formal announcement regarding the monthly price revision. Remble
 
 ◼️
 
 [Data](articles/959cc498.json)
 
+[Extended Data](ext_articles/959cc498.ext.json)
+
 ---
 
-### அதிரடியில் இறங்கிய மகாநாயக்க தேரர்கள்
+### Mahanayaka Thera, who came down in action
 
 *2024-03-01 09:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியில்-இறங்கிய-மகாநாயக்க-தேரர்கள்/175-334034) · `ta`
 
-மியன்மாரில் பயங்கரவாதிகளின் பிடியில் சிக்கியுள்ள இலங்கையர்களை மீட்க மகாநாயக்க தேரர்கள் முயற்சி எடுத்துள்ளனர்.
+Mahanayaka Thera has been trying to rescue Sri Lankans who are in the grip of terrorists in Myanmar.
 
-அந்த வகையில், இலங்கை மகாநாயக்க தேரர்களால் தயாரிக்கப்பட்ட மகஜர் ஒன்று மியன்மார் மகாநாயக்க தேரர்களுக்கு அனுப்பி வைக்கப்படும் என பாராளுமன்ற உறுப்பினர் வசந்த யாப்பா பண்டார தெரிவித்துள்ளார்.
+According to Parliamentarian Vasantha Yapa Bandara, a Mahajar prepared by the Sri Lankan Mahanayaka Thera will be sent to the Myanmar Mahanayaka Thera.
 
-குறித்த மகஜருக்கு அமைய, மியன்மார் மகாநாயக்க தேரரின் ஊடாக இந்தப் பிரச்சினைக்கு தீர்வு காண மியன்மார் அரசாங்கம் தலையிடும் என எதிர்ப்பார்ப்பதாக அவர் குறிப்பிட்டுள்ளார். R
+He said that the Myanmar government would intervene to solve the issue through the Myanmar Mahanayaka Thera, according to the Mahajar.. Remble
 
 ◼️
 
 [Data](articles/f27e25dd.json)
+
+[Extended Data](ext_articles/f27e25dd.ext.json)
 
 ---
 
@@ -301,6 +313,8 @@ Meanwhile, the health expert cautioned people to avoid consuming food and bevera
 ...
 
 [Data](articles/bcff5107.json)
+
+[Extended Data](ext_articles/bcff5107.ext.json)
 
 ---
 
@@ -1862,6 +1876,20 @@ A Division Bench of Justices R. Sureshkumar and K. Kumaresh Babu issued the dire
 
 ---
 
+### ජනවාරියේ මහ මැතිවරණයක් තිබුණානම් වැඩිහිටියන්ගෙන් සියයට 40ක් මාලිමාවට
+
+*2024-02-29 19:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරියේ-මහ-මැතිවරණයක්-තිබුණානම්-වැඩිහිටියන්ගෙන්-සියයට-40ක්-මාලිමාවට/11-408363) · `si`
+
+ජනවාරි මාසයේදී ශ්රීි ලංකාවේ මහ මැතිවරණයක් පැවැත්වුවානම් වැඩිහිටියන්ගෙන් සියයට 40ක් ජාතික ජන බලවේගය සමගින් සිටින බව සෞඛය ප්රමතිපත්ති ආයතනය කළ සමීක්ෂණයකින් පෙන්වා දෙයි.
+
+මෙහිදී වැඩිහිටියන්ගෙන් සියයට 30ක් සමගි ජන බලවේගය සමගින් සිටින අතර එය දෙසැම්බර් මාසය හා සැසදීමේදී සියයට 2ක වැඩිවීමක් බවද එම ආයතනය පවසයි.
+
+◼️
+
+[Data](articles/ca2cf0df.json)
+
+---
+
 ### Deshabandu seeks blessings at Gangarama
 
 *2024-02-29 19:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Deshabandu-seeks-blessings-at-Gangarama/110-277971) · `en`
@@ -1889,25 +1917,5 @@ It is noteworthy that Keheliya was arrested by the Criminal Investigation Depart
 [Data](articles/97f31230.json)
 
 [Extended Data](ext_articles/97f31230.ext.json)
-
----
-
-### Commanding to save Sri Lankans in Myanmar Terror
-
-*2024-02-29 18:56:10* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාර-ත්‍රස්ත-ග්‍රහනයේ-සිටින-ලාංකිකයන්-බේරා-ගැනීමට-මහෙයුමක්/11-408362) · `si`
-
-Kandy District Parliamentarian Wasantha Yapa Bandara says that Kandy is expected to take a special memorandum of the Trify Mahanahas.
-
-He was speaking at the media regarding the preliminary discussions of the Malwatte Asgiri Mahanayakes of the Malwatte Asgiri Mahanayakes yesterday.
-
-Parliamentarian Wasantha Yapa said that the Manendu has been admitted to the Chief Prelate to the Chief Prelate to the Chief Prelate to rescue the youth in the country as two Buddhist countries in Sri Lanka and Myanmar.
-
-The MP said that the Ananda Thero of Myanmar has already been involved in the event and is informed by the Ministry of Foreign Affairs and the External Affairs Ministry and take steps to save them through diplomatic intervention.
-
-◼️
-
-[Data](articles/714cb458.json)
-
-[Extended Data](ext_articles/714cb458.ext.json)
 
 ---

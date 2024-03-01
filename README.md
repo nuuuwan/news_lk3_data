@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 10:02:57**
+As of **2024-03-01 10:17:31**
 
 ## Newspaper Stats
 
-*Scraped **10,179** Articles*
+*Scraped **10,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ dailyftlk | 542
 islandlk | 543
 adalk | 866
 adaderanalk | 1,228
-tamilmirrorlk | 1,236
+tamilmirrorlk | 1,239
 virakesarilk | 1,394
-dailymirrorlk | 1,541
-adaderanasinhalalk | 1,550
+dailymirrorlk | 1,543
+adaderanasinhalalk | 1,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,179 (100.0%) of 10,179 articles have been extended.
+10,179 (99.9%) of 10,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### පානදුර කැලඹූ ගින්න
+
+*2024-03-01 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193991) · `si`
+
+පානදුර සමගි මාවත ප්‍රදේශයේ තීන්ත නිෂ්පාදන කර්මාන්ත ශාලාවක ඇති වූ ගින්නකින් එය සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+
+පානදුර උතුර සමගි මාවත ප්‍රදේශයේ පිහිටි තීන්ත නිෂ්පාදන කර්මාන්ත ශාලාවක ඊයේ (29) රාත්‍රියේ ගින්න හටගෙන තිබුණි.
+
+මොරටුව මහනගර සභාවේ ගිනි නිවීම් ඒකකය මගින් ගින්න මැඩපවත්වා තිබේ.
+
+ගින්නෙන් සිදුවූ හානිය පිළිබඳ මෙතෙක් තක්සේරු කර නොමැති අතර ගින්නට හේතුව සොයා විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/7328dd0d.json)
+
+---
+
+### More than 40 people killed in a restaurant in Bangladesh capital
+
+*2024-03-01 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177638) · `ta`
+
+Fails caused by a rapidly spreading fire in a food seat in the capital, Dhaka,
+
+Officials said that the fire had been brought under control after a two -hour struggle.
+
+Officials said that the gas cylinders were found on each site of the building, causing the building to be very dangerous.
+
+◼️
+
+[Data](articles/3afed321.json)
+
+[Extended Data](ext_articles/3afed321.ext.json)
+
+---
+
+### No fuel price revision for March?
+
+*2024-03-01 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-fuel-price-revision-for-March/108-278018) · `en`
+
+Colombo, March 1 (Daily Mirror) - Despite decreasing fuel prices in the world market and the appreciation of the Sri Lankan rupee against the US dollar, fuel prices in Sri Lanka will not be revised for this month.
+
+Ceylon Petroleum Corporation (CPC) sources said that they had decided to continue with the fuel prices announced for last month.
+
+Meanwhile, internal sources from Lanka IOC and Sinopec Fuel Oil Sales Company Ltd. said the Ministry has not informed them about a fuel price revision for this month.
+
+◼️
+
+[Data](articles/86aec77f.json)
+
+---
+
+### சகோதரியை ஏற்றி வந்த வான் சகோதனுக்கு எமனானது
+
+*2024-03-01 09:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/சகோதரியை-ஏற்றி-வந்த-வான்-சகோதனுக்கு-எமனானது/74-334036) · `ta`
+
+பாடசாலை மாணவர்களை ஏற்றி செல்லும்  வான் ஒன்று மோதியதில் உயிரிழந்த சிறுவனின் சடலம் குடும்பத்தினிடம் ஒப்படைக்கப்பட்டுள்ளது.
+
+அம்பாறை மாவட்டம் பெரிய நீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட வீடு ஒன்றின்  முற்றத்தில் நேற்று  விளையாடிக்கொண்டிருந்த சிறுவன் வீட்டின்  கதவு தற்செயலாக திறந்த நிலையில் வீதியை நோக்கி ஓடியுள்ளான்.
+
+இதன்போது, அவ்வழியால் வந்த பாடசாலை மாணவர்களை ஏற்றி செல்லும்  வான் மோதியதில் படுகாயமடைந்த சிறுவன்  கல்முனை ஆதார வைத்தியசாலைக்கு சிகிச்சைக்காக எடுத்து சென்ற நிலையில் உயிரிழந்துள்ளார்.
+
+இவ்வாறு உயிரிழந்தவர் பெரிய நீலாவணை விஷ்ணு வித்தியாலய வீதியை சேர்ந்த  4 வயது மதிக்கத்தக்க அருணா ஹர்ஷான் என தெரிவிக்கப்படுகின்றது
+
+விபத்தின் போது  சிறுவனின் சகோதரியை ஏற்ற வந்த வான்  அவன் மீது மோதி  ஒரு பக்க நெஞ்சு பகுதியில் ஏறிச் சென்றுள்ளதாக நேரில் கண்டவர்கள் குறிப்பிட்டனர்.
+
+குறித்த சம்பவம் தொடர்பில் பெரிய நீலாவணை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதுடன் கலமுனை ஆதார வைத்தியசாலை சவச்சாலையில் வைக்கப்பட்டிருந்த  சடலம் மரண விசாரணையின் பின்னர் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/6ab94e74.json)
+
+---
 
 ### Rajiv Gandhi assassination: Indian court directs to expedite sending Santhan’s body to Sri Lanka
 
@@ -51,6 +125,58 @@ Now, steps have been taken to transport his mortal remains to his home country, 
 [Data](articles/c03e2139.json)
 
 [Extended Data](ext_articles/c03e2139.ext.json)
+
+---
+
+### පුද්ගලයෙක් පැහැරගත් කල්ලියක් කොටුවෙයි
+
+*2024-03-01 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193990) · `si`
+
+පුද්ගල පැහැර ගැනීමකට සම්බන්ධ සැකකරුවන් 05 දෙනෙකු පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ අලවතුගොඩ අකුරණ නගරයේදී ඊයේ (29) දින පුද්ගලයෙක් පැහැරගෙන යෑමක් සම්බන්ධයෙන් ලැබුණු පැමිණිල්ලකට අනුව මෙම විමර්ශන ආරම්භ කළ බවය.
+
+පැහැර ගැනුණු පුද්ගලයා අයුතු ලෙස සිරකර පහරදී තුවාල සිදුකර රුපියල් ලක්ෂ 20ක් බලෙන් ලබාගැනීම සහ අනුබලදීම සම්බන්ධයෙන් සැකකරුවන්ට චෝදනා එල්ලවී තිබේ.
+
+සැකකරුවන් අවුරුදු 22ත් 62ත් අතර වයසේ පසුවන අකුරණ ප්‍රදේශයේ පදිංචිකරුවන්ය.
+
+◼️
+
+[Data](articles/30c4430e.json)
+
+---
+
+### எரிபொருள் விலையில் திருத்தம்?
+
+*2024-03-01 09:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலையில்-திருத்தம்/150-334035) · `ta`
+
+தற்போதுள்ள எரிபொருள் விலையை மார்ச் மாதம் வரை தொடர்ந்து பராமரிக்க அரசாங்கம் தீர்மானித்துள்ளது.
+
+மாதாந்த எரிபொருள் விலை திருத்தத்தின் படி, நேற்று (29) நள்ளிரவு முதல் குறித்த விலைகள் திருத்தப்பட்டிருக்க வேண்டும்.
+
+இதன்படி, இம்மாதத்தில் எவ்வித விலை திருத்தமும் இன்றி தற்போதுள்ள விலைக்கே எரிபொருள் விற்பனையை மேற்கொள்ள இலங்கை பெற்றோலிய  கூட்டுத்தாபனம் தீர்மானித்துள்ளது.
+
+அதேபோல், லங்கா ஐஓசி நிறுவனமும் சினோபெக் நிறுவனமும் மாதாந்த விலை திருத்தம் தொடர்பில் இதுவரையில் முறையான அறிவித்தலை வழங்கவில்லை. R
+
+◼️
+
+[Data](articles/959cc498.json)
+
+---
+
+### அதிரடியில் இறங்கிய மகாநாயக்க தேரர்கள்
+
+*2024-03-01 09:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியில்-இறங்கிய-மகாநாயக்க-தேரர்கள்/175-334034) · `ta`
+
+மியன்மாரில் பயங்கரவாதிகளின் பிடியில் சிக்கியுள்ள இலங்கையர்களை மீட்க மகாநாயக்க தேரர்கள் முயற்சி எடுத்துள்ளனர்.
+
+அந்த வகையில், இலங்கை மகாநாயக்க தேரர்களால் தயாரிக்கப்பட்ட மகஜர் ஒன்று மியன்மார் மகாநாயக்க தேரர்களுக்கு அனுப்பி வைக்கப்படும் என பாராளுமன்ற உறுப்பினர் வசந்த யாப்பா பண்டார தெரிவித்துள்ளார்.
+
+குறித்த மகஜருக்கு அமைய, மியன்மார் மகாநாயக்க தேரரின் ஊடாக இந்தப் பிரச்சினைக்கு தீர்வு காண மியன்மார் அரசாங்கம் தலையிடும் என எதிர்ப்பார்ப்பதாக அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/f27e25dd.json)
 
 ---
 
@@ -87,6 +213,32 @@ The suspects are aged between 19 and 42 years old, police said.
 [Data](articles/bc07a2c9.json)
 
 [Extended Data](ext_articles/bc07a2c9.ext.json)
+
+---
+
+### Israeli-US intelligence agencies planning to enter the Lebanon
+
+*2024-03-01 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177608) · `ta`
+
+US officials are concerned among US officials about reports that Israel is planning to enter the ground in Lebanon in the late Spring or early summer if the diplomatic efforts to remove the Hezbollah organization from Israel are not successful.
+
+Senior officials of the United States have provided information that intelligence agencies can enter the Lebanon of Israel.
+
+One who received information from the intelligence unit said that Israel would begin its action at the beginning of summer.
+
+"We are acting on the basis that Israel can engage in military action in the coming months," an official of the Faidan administration said.
+
+He also said that there are all the opportunities for Israel to target Leban and carry out the ground attack.
+
+Thousands of Leban and Israeli have left their areas due to the day -to -day terrible clashes between Israel and Lebanon for several months.
+
+Israeli aircraft is carrying out unmanned attacks on the Hesbullah organization's targets.
+
+◼️
+
+[Data](articles/7a3dc7a8.json)
+
+[Extended Data](ext_articles/7a3dc7a8.ext.json)
 
 ---
 
@@ -127,6 +279,28 @@ The police have received information that the death was hit by a night mail trai
 [Data](articles/84b9bf18.json)
 
 [Extended Data](ext_articles/84b9bf18.ext.json)
+
+---
+
+### Experts say NO to sweet food and beverages for infants
+
+*2024-03-01 08:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Experts-say-NO-to-sweet-food-and-beverages-for-infants/108-278004) · `en`
+
+Colombo, March 1 (Daily Mirror) - Health experts advice parents to avoid providing their children with sweet food and beverages before they turn two years as it could affect the baby’s development.
+
+Speaking to Daily Mirror, Dr. Deepal Perera, a Paediatrician at the Lady Ridgeway Children's Hospital in Colombo said sweet food is only recommended after infants turn two while prioritizing breast-feeding during the first six months.
+
+“Consumption of sugar-sweetened food and beverages is linked with increased risk of overweight or obesity,” Dr Perera stressed.
+
+“Added sugars are used in processed foods and beverages to sweeten, and differ from the natural sugars that are part of a piece of fruit or glass of milk,” he underscored.
+
+Thus, he reiterated the importance of prioritizing breastfeeding until children turn two.
+
+Meanwhile, the health expert cautioned people to avoid consuming food and beverages with added sugars in light of rising temperatures.
+
+...
+
+[Data](articles/bcff5107.json)
 
 ---
 
@@ -277,24 +451,6 @@ The emergency services were called to the Kacchi Bhai restaurant, which accordin
 [Data](articles/4301bdc6.json)
 
 [Extended Data](ext_articles/4301bdc6.ext.json)
-
----
-
-### More than 40 people killed in a restaurant in Bangladesh capital
-
-*2024-03-01 07:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177638) · `ta`
-
-Fails caused by a rapidly spreading fire in a food seat in the capital, Dhaka,
-
-Officials said that the fire had been brought under control after a two -hour struggle.
-
-Officials said that the gas cylinders were found on each site of the building, causing the building to be very dangerous.
-
-◼️
-
-[Data](articles/3afed321.json)
-
-[Extended Data](ext_articles/3afed321.ext.json)
 
 ---
 
@@ -1753,161 +1909,5 @@ The MP said that the Ananda Thero of Myanmar has already been involved in the ev
 [Data](articles/714cb458.json)
 
 [Extended Data](ext_articles/714cb458.ext.json)
-
----
-
-### Fund established to provide financial aid for police personnel facing legal issues related to duties
-
-*2024-02-29 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97634/fund-established-to-provide-financial-aid-for-police-personnel-facing-legal-issues-related-to-duties) · `en`
-
-Inspector General of Police (IGP) Deshabandu Tennakoon has approved to provide financial aid to police personnel facing legal issues pertaining to actions taken while performing their duties.
-
-Accordingly, Police Spokesman DIG Nihal Thalduwa stated that relevant funds will be provided by the ‘Police Legal Assistance Fund’.
-
-A proposal in this regard was presented before the Cabinet of Ministers in July 2022 by the Minister of Public Security Tiran Alles, and was subsequently approved.
-
-Accordingly, the newly-appointed IGP has approved to provide legal aid to said police officers from the Police Legal Assistance Fund.
-
-...
-
-[Data](articles/efb07618.json)
-
-[Extended Data](ext_articles/efb07618.ext.json)
-
----
-
-### Today is mourning the Southern Province
-
-*2024-02-29 18:47:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාතට-අද-ශෝක-දිනයක්/11-408361) · `si`
-
-Dr. Willie Gamage, the former Minister of Finance Ronn Dene dean de Mel, was declared a mourning day in the Southern Province today (01).
-
-Accordingly, the Governor's Office has been informed to didate the National Flag of all government institutions in the Southern Province today.
-
-◼️
-
-[Data](articles/5c50681c.json)
-
-[Extended Data](ext_articles/5c50681c.ext.json)
-
----
-
-### New relief to police officers
-
-*2024-02-29 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193971) · `si`
-
-The new IGP of Deshabandu Tennakoon has approved the "Legal Relief Scheme" to provide legal assistance to police officers.
-
-The cabinet was presented to the Cabinet by Hon
-
-The new scheme is to provide financial support for private legislation for the implementation of the implementation of the implementation of the functions of the work.
-
-Also, if a police officer undergoing the process of duties in the scope of work, the Attorney General's Department will not support the government's legal assistance and obtaining other legal assistance, obtaining the legal assistance and other legal services.This method will be supported by the economic difficulties of the officers.
-
-◼️
-
-[Data](articles/3a86147b.json)
-
-[Extended Data](ext_articles/3a86147b.ext.json)
-
----
-
-### School students' book bag to lose weight
-
-*2024-02-29 18:31:09* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ගේ-පොත්-බෑගයේ-බර-අඩුකිරීමට-යයි/11-408360) · `si`
-
-The Ministry of Education Leam Wasantha Perera has issued instructions on the Ministry of School Books.
-
-The health sector has pointed out that due to the increase in the school book bag, the health sector pointed out various physical disabilities.
-
-The Ministry of Education has taken attention to the weight loss of the students' book bag and has already taken steps to print in selected text books as a step.
-
-Alternative to the Principal, the Principal Wasantha Perera has issued the instructions to be taken under the direct supervision of the Principal to minimize the work books to the students to reduce the work books to the students.
-
-◼️
-
-[Data](articles/bc048e3b.json)
-
-[Extended Data](ext_articles/bc048e3b.ext.json)
-
----
-
-### SC quashes Cabinet decision granting residence to Maithripala
-
-*2024-02-29 18:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-quashes-Cabinet-decision-granting-residence-to-Maithripala/155-277972) · `en`
-
-Colombo, Feb 29 (Daily Mirror) -  The Supreme Court today held that the Cabinet decision to allow former President Maithripala Sirisena to use a residence at Paget Road in Colombo was an arbitrary, unreasonable and illegal decision amounting to a violation of the Rule of Law and the Fundamental Rights guaranteed to the citizens.
-
-Accordingly, the Supreme Court decided to quash the Cabinet decision dated 15 October, 2019 which allowed former President Maithripala Sirisena the continuous use of the residence used by him at Paget Road, Colombo.
-
-The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, Gamini Amarasekara and Kumudini Wickremasinghe  held that the decision taken by the Cabinet of Ministers to provide a residence to former President Sirisena with entitlements is beyond the scope offered by the Presidents' Entitlements Act No. 4 of 1986.
-
-...
-
-[Data](articles/0bc920b4.json)
-
-[Extended Data](ext_articles/0bc920b4.ext.json)
-
----
-
-### SC quashes Cabinet decision granting residence to Maithripala
-
-*2024-02-29 18:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-quashes-Cabinet-decision-granting-residence-to-Maithripala/108-277972) · `en`
-
-Colombo, Feb 29 (Daily Mirror) -  The Supreme Court today held that the Cabinet decision to allow former President Maithripala Sirisena to use a residence at Paget Road in Colombo was an arbitrary, unreasonable and illegal decision amounting to a violation of the Rule of Law and the Fundamental Rights guaranteed to the citizens.
-
-Accordingly, the Supreme Court decided to quash the Cabinet decision dated 15 October, 2019 which allowed former President Maithripala Sirisena the continuous use of the residence used by him at Paget Road, Colombo.
-
-The Supreme Court three-judge-bench comprising Justices Priyantha Jayawardena, Gamini Amarasekara and Kumudini Wickremasinghe  held that the decision taken by the Cabinet of Ministers to provide a residence to former President Sirisena with entitlements is beyond the scope offered by the Presidents' Entitlements Act No. 4 of 1986.
-
-...
-
-[Data](articles/53e43e4d.json)
-
-[Extended Data](ext_articles/53e43e4d.ext.json)
-
----
-
-### Heat index advisory issued warning of increased temperatures
-
-*2024-02-29 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97633/heat-index-advisory-issued-warning-of-increased-temperatures) · `en`
-
-The Department of Meteorology has cautioned the people of rising temperatures in the North-western, Western and Southern provinces and Ratnapura and Mannar Districts in the coming hours.
-
-The advisory, issued at 03.30 p.m. today (29), will be in effect until tomorrow evening (March 01).
-
-“Heat index, the temperature felt on human body is expected to increase up to ‘Caution’ level at some places in North-western, Western and Southern provinces and Ratnapura and Mannar Districts”, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/ae954a89.json)
-
-[Extended Data](ext_articles/ae954a89.ext.json)
-
----
-
-### All those who are eligible to get "Aswesuma" will be given fast relief - the President
-
-*2024-02-29 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177617) · `ta`
-
-President Ranil Wickremesinghe said that the "Assumsuma" and the "Urumaya" program will play a major role in keeping the people of this country to live economically.
-
-The President also said that the support of state officials is needed to properly bring "Aswesuma" and "Urumaya" projects to the people.
-
-President Ranil Wickremesinghe made this observation at a meeting to investigate the implementation of the "Assuma" program held at the Wilgamuwa Divisional Secretariat in Matale on Thursday (29).
-
-The Vilgamuwa Village Officers Association has announced the presidential president that the government is uncontrollable to support the government's program.
-
-The acceptance of the second phase of applications began on February 15 and 35,920 new applications have been received till today (29).. Of these, 14,537 applications have been received through the Divisional Secretary and 21,383 applications through the website.
-
-...
-
-[Data](articles/86671e2b.json)
-
-[Extended Data](ext_articles/86671e2b.ext.json)
 
 ---

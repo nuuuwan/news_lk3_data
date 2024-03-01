@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 00:47:53**
+As of **2024-03-02 01:02:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,342 (99.9%) of 10,352 articles have been extended.
+10,352 (100.0%) of 10,352 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Indian delegation comprised officials from the Ministry of Power, Ministry o
 
 [Data](articles/d0d41f85.json)
 
+[Extended Data](ext_articles/d0d41f85.ext.json)
+
 ---
 
 ### Ali Sabry addresses High-level Segment of the 55th Session of the UN Human Rights Council
@@ -63,6 +65,8 @@ The Foreign Minister reiterated Sri Lanka’s rejection of the HRC resolutions 4
 ...
 
 [Data](articles/7bd050a9.json)
+
+[Extended Data](ext_articles/7bd050a9.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ Scheduled for 9 March from 9:30 a.m. to 11 a.m. this virtual event promises to b
 
 [Data](articles/846033a4.json)
 
+[Extended Data](ext_articles/846033a4.ext.json)
+
 ---
 
 ### UNFPA, Japan extend over $ 2.1 m support to Health Ministry
@@ -95,6 +101,8 @@ The medicines and medical equipment worth over than $ 2.1 million were donated u
 ...
 
 [Data](articles/db119377.json)
+
+[Extended Data](ext_articles/db119377.ext.json)
 
 ---
 
@@ -112,6 +120,8 @@ It is being attended by 40 senior civil servant officers from Sri Lanka working 
 
 [Data](articles/e90ab605.json)
 
+[Extended Data](ext_articles/e90ab605.ext.json)
+
 ---
 
 ### Embassy of Sri Lanka in Indonesia holds virtual meeting to enhance bilateral trade and investment
@@ -127,6 +137,8 @@ During the meeting, CCC Chairman Vish Govindasamy highlighted the commitment of 
 ...
 
 [Data](articles/4a2b9891.json)
+
+[Extended Data](ext_articles/4a2b9891.ext.json)
 
 ---
 
@@ -146,6 +158,8 @@ Seylan Accelerate, with its Premier, Prime, Plus, and Entry membership categorie
 
 [Data](articles/aa4143ca.json)
 
+[Extended Data](ext_articles/aa4143ca.ext.json)
+
 ---
 
 ### Amana Bank powers EntreMindz Season 3 towards fostering entrepreneurial talent
@@ -162,6 +176,8 @@ Unlocking the entrepreneurial mind-set of Gen Z, EntreMinds season 3 saw over 35
 
 [Data](articles/b6abe634.json)
 
+[Extended Data](ext_articles/b6abe634.ext.json)
+
 ---
 
 ### Serendib Flour Mills launches fortified ‘Adhi Shakthi’ flour
@@ -175,6 +191,8 @@ Introduced in November last year, the new Serendib Adhi Shakthi flour contains e
 ...
 
 [Data](articles/f900f9a1.json)
+
+[Extended Data](ext_articles/f900f9a1.ext.json)
 
 ---
 
@@ -329,6 +347,8 @@ The need for political consensus with regard to the solution to the ethnic confl
 ...
 
 [Data](articles/471985df.json)
+
+[Extended Data](ext_articles/471985df.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 12:17:36**
+As of **2024-03-01 12:33:01**
 
 ## Newspaper Stats
 
-*Scraped **10,211** Articles*
+*Scraped **10,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,59 @@ adaderanalk | 1,234
 tamilmirrorlk | 1,243
 virakesarilk | 1,395
 dailymirrorlk | 1,546
-adaderanasinhalalk | 1,560
+adaderanasinhalalk | 1,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,206 (100.0%) of 10,211 articles have been extended.
+10,211 (100.0%) of 10,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### මහ බැංකු ලොක්කන් පක්ෂ නායකයින් හමුවට කැඳවයි
+### ශ්‍රී ලංකාවේ පළමු වනජීවී උමං මාර්ගය
+
+*2024-03-01 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194000) · `si`
+
+ශ්‍රී ලංකාවේ පළමු වනජීවී උමං මාර්ගය ඉදිකීරීම අද (01) පෙරවරුවේ ආරම්භ කෙරුණි.
+
+◼️
+
+[Data](articles/c65ca814.json)
+
+---
+
+### Central Bank bosses summoned to party leaders
 
 *2024-03-01 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193999) · `si`
 
-ශ්‍රී ලංකා මහ බැංකු නිලධාරීන්ගේ වැටුප් වැඩිකිරීම සම්බන්ධ කරුණු විමසීම සඳහා එහි නිලධාරීන් ලබන අඟහරුවාදා (05) පෙ.ව. 10.30ට පැවැත්වෙන පක්ෂ නායක රැස්වීමට කැඳවීමට තීරණය කර තිබේ.
+Officials of the Central Bank Officers of the Central Bank Officers will be viewed on Tuesday (05). It has been decided to be summoned to the party leadership meeting at 10.30 pm.
 
-අද (01) පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී එය තීරණය කර තිබේ.
+It has been decided at the Committee on Parliamentary Business (01).
 
 ◼️
 
 [Data](articles/c5146fbe.json)
 
+[Extended Data](ext_articles/c5146fbe.ext.json)
+
 ---
 
-### සහරාන්ගේ මස්සිනා අත්අඩංගුවට
+### Saharan's brother-in-law seized
 
 *2024-03-01 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193998) · `si`
 
-කාත්තන්කුඩි ප්‍රදේශයේදී පොලීසිය හදිසියේ සිදුකළ වැටලීමකදී සහරාන්ගේ සහෝදරිය විවාහ වී සිටින පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+When the police were conducting sudden raid in Kattankudi, the wife was arrested.
 
-නීතිවිරෝධී රැස්වීමක් පැවැත්වෙන බවට පොලීසියට ලැබුණු තොරතුරක් අනුව වැටලීම සිදුකර තිබෙන අතර පොලීසිය එම ස්ථානය වටලන අවස්ථාවේදී පිරිසක් කාඩ් සෙල්ලම් කරමින් සිට තිබුණි.
+According to the police, the police had raided a tip off received by the police that a illegal meeting would be held.
 
 ◼️
 
 [Data](articles/02258513.json)
+
+[Extended Data](ext_articles/02258513.ext.json)
 
 ---
 
@@ -80,21 +96,23 @@ Next week’s parliamentary sessions will be convened from Tuesday to Thursday.
 
 ---
 
-### TikTok තාරකාවිය අයිතිය පුතුට පවරා ජීවිතයෙන් සමුගනී
+### Tiktok star is loyal to son
 
 *2024-03-01 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193997) · `si`
 
-TikTok සමාජ මාධ්‍ය ජාලයේ ඉහළින්ම වැජඹෙන අමෙරිකානු ගායිකා Cat Janice මිය ගොස් තිබේ.
+Cat Janice is the highest of TiktoK social media network.
 
-ඉතා දුර්ලභ රෝගයක් වන "sarcoma" නම් අස්ථි හෝ මෘදු පටක වල ඇතිවන පිළිකා තත්ත්වයක් ඇයට වැළදී තිබූ බව විදෙස් වාර්තා පවසයි.
+"Sarcoma, a very rare disease, has been a cancer of a castle or soft tissue, according to foreign reports.
 
-සිය රෝගී තත්ත්වයට ප්‍රතිකාර ගන්නා අතරතුර, ඇය සිය ගීත වල අයිතිය ඇගේ හත් හැවිරිදි පුත් ලෝරෙන්ට පැවරුවාය.
+While he was taken into treatment, she was the right of her songs to Laruge.
 
-TikTok සමාජ මාධ්‍යයේ ඇය ඉහළින්ම සිටින අතර මෙම වසරේ ජනවාරි මාසයේ පළමු සතියේ  නිකුත් කළ Dance Outta My Head නම් ඇයයේ ගීතයට මාස 2ක් වැනි කෙටි කාලයක දී අන්තර්ජාලය තුළ මිලියන 57ක නැරඹුම් වාර තිබෙන බව සඳහන් වේ.
+In the top of the TiktoK social media, she is at the top and a short time in the first week of January this year, she is 57 million viewing on the Internet.
 
 ◼️
 
 [Data](articles/dae13c17.json)
+
+[Extended Data](ext_articles/dae13c17.ext.json)
 
 ---
 
@@ -136,23 +154,27 @@ The damage caused by the fire has not yet been assessed and the cause of the fir
 
 ---
 
-### காஸாவில் உணவு பெற முண்டியடித்த மக்கள் மீது இஸ்ரேல் தாக்குதல்: 112 பேர் பலி, 760 பேர் காயம்
+### Israel attack on people who dumped food in Gaza: 112 killed, 760 injured
 
 *2024-03-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177651) · `ta`
 
-பலஸ்தீனத்தின் காஸா பிராந்தியத்தில், உணவுப் பொருட்களைப் பெறுவதற்காக திரண்டிருந்த மக்கள் மீது இஸ்ரேலியப் படையினர் துப்பாக்கிப் பிரயோகம் செய்ததால் குறைந்தபட்சம் 112 பேர் உயிரிந்ததுடன் மேலும் 760 பேர் காயமடைந்துள்ளனர்.
+In the Gaza region of Palestine, Israeli soldiers fired at people who gathered to get food. At least 112 people were killed and 760 others were injured.
 
-மக்கள் மீது தனது படையினர் துப்பாக்கிப் பிரயோகம் செய்ததை இஸ்ரேலிய இராணுவம் ஒப்புக் கொண்டுள்ளது. அச்சுறுத்தல் ஏற்படுவதாகக் கருதி துப்பாக்கிப் பிரயோகம் செய்ததாக இஸ்ரேல் இராணுவம் கூறியுள்ளது.
+The Israeli military confesses that its soldiers fired on the people. The Israeli military has claimed that the shooting was fired as a threat.
 
-38 உணவு லொறிகளை ஆயிரக்கணக்கான மக்கள் சூழ்ந்த நிலையில் 'சனநெரிசல்' ஏற்பட்டதகாவும்,  சிலர் லொறிகளினால் மோதப்பட்டு உயிரிழந்தாகவும் இஸ்ரேல் இராணுவம் தெரிவித்துள்ளது.
+The Israeli military has said that 38 food lorries were surrounded by thousands of people and some people were hit by lorries.
 
-இதேவேளை?  மேற்படி சம்பவத்தை  ஐநா பாதுகாப்புப் சபை கண்டிக்க வேண்டும் என ஐ.நாவுக்கான பலஸ்தீன தூதுவர் ரியாத் மன்சூர் வலியுறுத்தியுள்ளார்.
+Meanwhile?Palestinian Ambassador to the UN Riyadh Mansoor has urged the UN Security Council to condemn the incident.
 
-இச்சம்பவத்தை கண்டிப்பதற்கான பிரேரணையொன்றை ஐநா பாதுகாப்புச் சபைகயிடம் அல்ஜீரியா முன்வைத்தது, எனினும், அமெரிக்கா அப்பிரேரணையை வீட்டோ செய்தது.
+Algeria presented a proposal to condemn the incident to the UN Security Council, however, the US made the proposal.
 
-...
+"This is what the US Deputy Ambassador to the UN Robert Wood said," We have no information about the incident. ". The US is trying to make sure people died. ”
+
+◼️
 
 [Data](articles/328d875f.json)
+
+[Extended Data](ext_articles/328d875f.ext.json)
 
 ---
 
@@ -1196,6 +1218,8 @@ This association will not only help RCPL bolster its growing beverage portfolio 
 
 [Data](articles/1d16b66b.json)
 
+[Extended Data](ext_articles/1d16b66b.ext.json)
+
 ---
 
 ### NSB’s GM/CEO Shashi Kandambi honoured by APB
@@ -1909,29 +1933,5 @@ The Minister of State made this statement at a press conference held at the Pres
 [Data](articles/565cda24.json)
 
 [Extended Data](ext_articles/565cda24.ext.json)
-
----
-
-### Inflation slows down to 5.9% in February
-
-*2024-02-29 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inflation-slows-down-to-5-9-in-February/108-277979) · `en`
-
-The Colombo Consumer Price Index (CCPI), the official’s preferred inflation gauge deceased to 5.9 percent in February from the 6.4 percent recorded in January.
-
-The CCPI contracted from 200.7 to 200.6 points, data from Department of Census and Statistics showed.
-
-In February, annual inflation (point) in the food category increased to 3.5 percent Year-on-Year (YoY). In January 2024 it was recorded at 3.3 percent.
-
-Meanwhile, the annual inflation (point) in non-food category for February 2024 eased to 7.0 percent as against 7.9 percent in January 2024.
-
-The CCPI Core in February increased to 177.2 from 176.2 the previous month.
-
-The general price level has increased to 100.6 percent compared to the index reference.
-
-◼️
-
-[Data](articles/87684f64.json)
-
-[Extended Data](ext_articles/87684f64.ext.json)
 
 ---

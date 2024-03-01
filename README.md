@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 21:02:46**
+As of **2024-03-01 21:17:24**
 
 ## Newspaper Stats
 
-*Scraped **10,311** Articles*
+*Scraped **10,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ islandlk | 544
 adalk | 875
 adaderanalk | 1,251
 tamilmirrorlk | 1,256
-virakesarilk | 1,400
+virakesarilk | 1,404
 dailymirrorlk | 1,565
-adaderanasinhalalk | 1,582
+adaderanasinhalalk | 1,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,305 (99.9%) of 10,311 articles have been extended.
+10,311 (99.9%) of 10,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### ඇලෙක්සි නවල්නිගේ සිරුර මිහිදන් කෙරේ
+
+*2024-03-01 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194024) · `si`
+
+පසුගියදා අභිරහස් ලෙස මරණය ට පත්වූ රුසියානු විපක්ෂ නායක ඇලෙක්සි නවල්නි ගේ සිරුර අද (01) මිහිදන් කර තිබේ.
+
+විදෙස් මාධ්‍ය සඳහන් කළේ මොස්කව් නුවර ට ආසන්නව පිහිටි කනත්තක ඔහුගේ සිරුර මිහිදන් කළ බවයි.
+
+එම අවස්ථාව ට එක්වූ ජනතාව පුටින් විරෝධී ප්‍රකාශ කළ බව සඳහන් ය.
+
+සිරුර මිහිදන් කිරීමේ අවස්ථාව ට ඔහුගේ මව එක්වුවද ආරක්ෂක හේතු මත ඔහුගේ බිරිඳ ඊට එක්වී නැත.
+
+◼️
+
+[Data](articles/14d2969c.json)
+
+---
+
+### PHIගේ ඝාතන සැකකරුවන් පළා ගිය හැටි -CCTV
+
+*2024-03-01 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194023) · `si`
+
+ඇල්පිටිය ප්‍රදේශයේදී මහජන ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රෝෂන් කුමාර මහතා ඝාතනයෙන් පසුව වෙඩික්කරුවන් යතුරුපැදියකින් පළා යන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් අප වෙත ලැබී තිබේ.
+
+විමර්ශන නිලධාරීන් පවසන්නේ, මොවුන් දෙදෙනා මහඌර ප්‍රදේශයට මෙම යතුරුපැදියෙන් ගමන් කර ඇති අතර සිද්ධිය සිදු වූ දින පෙරවරු 7.28න් පසුව ඔවුන් දෙදෙනා සහ යතුරුපැදිය පිළිබඳ කිසිඳු තොරතුරක් CCTV දර්ශනවල නොමැති බවය.
+
+මේ අතර ඊයේ දිනයේදී ගිනි තබා විනාශ කර තිබූ යතුරුපැදියේ අනන්‍යතාව තහවුරු කරගැනීම සඳහා රස පරීක්ෂකවරයා වෙත යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/3324a0ec.json)
+
+---
+
+### රොනී ද මෙල් දැයෙන් සමුගනී
+
+*2024-03-01 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194022) · `si`
+
+හිටපු මුදල් අමාත්‍යවරයෙකු වූ රොනී ද මෙල් මහතාගේ අවසන් කටයුතු අද (01) රුහුණු විශ්වවිද්‍යාලයීය ක්‍රීඩාංගණයේ දී අද සිදු කෙරිණි.
+
+මෙරට දේශපාලන ඉතිහාසයේ වැඩිම අයවැය ගණනක් ඉදිරිපත් කළ මුදල් අමාත්‍යවරයා ලෙස වාර්තා අතරට එක් ව සිටි කෘතහස්ත දේශපාලනඥයකු වූ රොනී ද මෙල් මහතා කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී පසුගිය සඳුදා අභාවප්‍රාප්ත විය.
+
+ඒ මහතාගේ දේහය කොළඹ පිහිටි නිවසේ තැන්පත් කර තිබූ අතර, පසු ව ඊයේ සවස රුහුණු විශ්වවිද්‍යාලයේ ගෘහස්ථ ක්‍රීඩාංගණයේ තැන්පත් කරනු ලැබිණි.
+
+අනතුරු ව අවසන් කටයුතු සඳහා රොනී ද මැල් මහතාගේ දේහය අද සවස රුහුණු විශ්වවිද්‍යාලයේ ක්‍රීඩාංගණය වෙත රැගෙන එන ලදි.
+
+මෙහි දී රොනී ද මෙල් මහතාගේ අවසන් කැමති පත්‍රෙයහි සඳහන් පරිදි අවමංගල්‍ය උත්සවයේ දී කතා පැවත්විණි.
+
+◼️
+
+[Data](articles/edd4f45b.json)
+
+---
 
 ### Dr. Saman Ratnayake arrested over Immunoglobulin scandal
 
@@ -46,17 +100,29 @@ Several key individuals including former Health Minister Keheliya Rambukwella, F
 
 [Data](articles/faf5c4cf.json)
 
+[Extended Data](ext_articles/faf5c4cf.ext.json)
+
 ---
 
 ### Health Ministry’s Additional Secretary Dr. Saman Ratnayake arrested
 
 *2024-03-01 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97669/health-ministrys-additional-secretary-dr-saman-ratnayake-arrested) · `en`
 
-Additional Secretary of the Ministry of Health Saman Ratnayake was arrested on Friday evening (March 01) by the Criminal Investigation Department (CID) over substandard human immunoglobulin procurement.
+Additional Secretary of the Ministry of Health Saman Ratnayake was arrested on Friday evening (March 01) by the Criminal Investigation Department (CID) over substandard human intravenous immunoglobulin (IVIG) procurement.
 
-◼️
+The arrest came hours after Dr. Ratnayake arrived at the CID premises to provide a statement.
+
+Prior to the apprehension of Dr. Ratnayake, 8 arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
+
+As such, 7 suspects former Health Minister Keheliya Rambukwella, the former Health Secretary, the Director of the Health Ministry’s Medical Supplies Division (MSD) and three other officials of the same division, as well as the owner of the company, which is said to have supplied the substandard batch of immunoglobulin vials, now remain in custody on remand.
+
+They were produced before the court on Thursday (Feb.29) and further remanded until March 14 on the orders of the Maligakanda Magistrate.
+
+...
 
 [Data](articles/3d79b854.json)
+
+[Extended Data](ext_articles/3d79b854.ext.json)
 
 ---
 
@@ -76,6 +142,8 @@ The proposal is subject to necessary shareholder sanction and regulatory approva
 
 [Data](articles/a649f44c.json)
 
+[Extended Data](ext_articles/a649f44c.ext.json)
+
 ---
 
 ### Dr. Saman Rathnayake arrested
@@ -92,23 +160,81 @@ Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has been arre
 
 ---
 
-### பரீட்சைகளுக்கான திகதிகள் அறிவிக்கப்பட்டன
+### பாதசாரி கடவைக்கு அண்மித்த பகுதியில் வீதியை கடக்க முற்பட்ட முதியவர் மோட்டார் சைக்கிள் மோதி உயிரிழப்பு - உரும்பிராயில் சம்பவம்
+
+*2024-03-01 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177710) · `ta`
+
+பாதசாரி கடவைக்கு அருகாமையில் வெள்ளிக்கிழமை (1) வீதியைக் கடக்க முற்பட்ட முதியவர் ஒருவர் மோட்டார் சைக்கிள் மோதி உயிரிழந்தார். இச்சம்பவத்தில் உரும்பிராய் வடக்கு பகுதியைச் சேர்ந்த சின்னத்தம்பி அருமைநாயகம் (வயது 80) என்பவரே இவ்வாறு உயிரிழந்தார்.
+
+வெள்ளிக்கிழமை (1) காலை குறித்த முதியவர் வீட்டிற்கு அருகாமையில் உள்ள பகுதியில் குப்பையை கொட்டிவிட்டு வீட்டுக்கு வருவதற்காக வீதியைக் கடக்க முற்பட்டபோது, பலாலியில் இருந்து யாழ்ப்பாணம் நோக்கிப் பயணித்த மோட்டார் சைக்கிள் மோதி படுகாயமடைந்துள்ளார்.
+
+இந்நிலையில் அவரை மீட்டு யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சேர்ப்பித்தவேளை அவர் சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது. விபத்தில் காயமடைந்த மோட்டார் சைக்கிள் சாரதி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார்.
+
+◼️
+
+[Data](articles/11453b85.json)
+
+---
+
+### திருகோணமலை டொக்கியாட் கடற்கரையில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் கரை ஒதுங்கியது
+
+*2024-03-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177709) · `ta`
+
+திருகோணமலை டொக்கியாட் கடற்கரையில் வெள்ளிக்கிழமை (01) மாலை அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் கரை ஒதுங்கியுள்ளதாக பொலிசார் தெரிவிக்கின்றனர்.
+
+திருகோணமலை கடலில் மிதந்துகொண்டிருந்த நிலையில் குறித்த சடலத்தினை அவதானித்த காவல்துறையின் உயிர் காக்கும் படையினர் கடலுக்குச் சென்று குறித்த சடலத்தினை கரைக்கு எடுத்து வந்துள்ளனர்.
+
+இதுவரை இனங்காணப்படாத நிலையில் இடது கால் இழக்கப்பட்ட அங்கவீனமான ஒருவரே இவ்வாறு மீட்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுவரும் நிலையில் இதுவரை மரணத்திற்கான காரணம் தெரியவில்லை எனவும் குறிப்பிடப்படுகின்றது.
+
+சடலத்தை இனம் காண்பதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாகவும் தெரிவிக்கப்பட்டுள்ளதுடன் மேலதிக விசாரணைகளை துறைமுக பொலிசார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1a35dbc4.json)
+
+---
+
+### நாட்டுக்கு கொண்டுவரப்பட்டது சாந்தனின் பூதவுடல்; நீர்கொழும்பில் பிரேத பரிசோதனை
+
+*2024-03-01 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177708) · `ta`
+
+55 வயதான தில்லையம்பலம் சுதேந்திரராஜா என்ற இயற்பெயரைக் கொண்ட சாந்தன் கல்லீரல் செயலிழப்பால் மரணமடைந்த நிலையில் அவரது பூதவுடல் வெள்ளிக்கிழமை (1) நாட்டுக்கு கொண்டுவரப்பட்டுள்ளது.
+
+இந்நிலையில் அவரது பூதவுடன் நீண்ட நேர தமதத்துக்குப் பின்னர் கட்டுநாயக்க விமானநிலையத்திலிருந்து பெறப்பட்ட நிலையில் உடலம் மீதான பிரேத பரிசோதனைக்கு அறிவுறுத்தல் வழங்கப்பட்டுள்ளதால்  பிரேத பரிசோதனைக்காக நீர் கொழும்பு வைத்தியசாலையில் உடலம் கையளிக்கப்பட்டுள்ளது.
+
+பிரேத பரிசோதனையின் பின்னராக உடலத்தை கையேற்றப் பின்னராக யாழ்ப்பாணம் நோக்கி கொண்டு செல்லப்படவுள்ளதாக அவரது உறவினர்கள் அறிவித்துள்ளனர்.
+
+சாந்தன் கடந்த 28ஆம் திகதி சென்னை ராஜீவ் காந்தி மருத்துவமனையில்  சிகிச்சைகள் பலனின்றி மரணமடைந்திருந்த நிலையில் அவரது பூதவுடல் வெள்ளிக்கிழமை (1) விமானம் மூலம் சென்னையில் இருந்து கட்டுநாயக்கவுக்கு கொண்டுவரப்பட்டது.
+
+இதேவேளை, அவரது உடலம் யாழ்ப்பாணத்துக்கு கொண்டு சென்றதன் பின்னர் பொதுமக்களின் அஞ்சலிக்காக வைக்கப்பட்டு இறுதிக் கிரியைகள் அவரது உடுப்பிட்டியில் உள்ள இல்லத்தில் நடைபெறவுள்ளது.
+
+...
+
+[Data](articles/982aa332.json)
+
+---
+
+### Dates for exams were announced
 
 *2024-03-01 19:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகளுக்கான-திகதிகள்-அறிவிக்கப்பட்டன/175-334059) · `ta`
 
-2024ஆம் ஆண்டு நடைபெறவுள்ள பாடசாலை பரீட்சைகள் மற்றும் அவற்றின் திகதிகளை பரீட்சைத் திணைக்களம் அறிவித்துள்ளது.
+The Department of Examinations has announced the school exams and their dates to be held in 2024.
 
-இதன்படி, 2023 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தரப்பரீட்சை 2024ஆம் ஆண்டு மே மாதம் 6ஆம் திகதி முதல் மே மாதம் 15ஆம் திகதி வரை நடைபெறவுள்ளது.
+Accordingly, the GCE Ordinary Level Examination for 2023 will be held from 6th to May 15, 2024.
 
-2024 ஆம் ஆண்டிற்கான தரம் 5 புலமைப்பரிசில் பரீட்சை 2024 செப்டம்பர் 15ஆம் திகதி ஞாயிற்றுக்கிழமை நடைபெறவுள்ளது.
+The Grade 5 scholarship examination for the 2024 will be held on Sunday, September 15, 2024.
 
-2024 ஆம் ஆண்டுக்கான க.பொ.த உயர்தரப் பரீட்சை 2024  நவம்பர் 25 ஆம் திகதி முதல் 2024  டிசம்பர் 20 ஆம் திகதி வரை நடைபெறும் என பரீட்சை ஆணையாளர் அமித் ஜயசுந்தர அறிவித்துள்ளார்.
+The Commissioner of Examinations Amit Jayasundera has announced that the GCE Advanced Level Examination for 2024 will be held from November 25, 2024 to December 20, 2024.
 
-இதேவேளை, 2024 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தரப் பரீட்சையை நடத்துவதற்கான உத்தேச திகதிகள் எதிர்வரும் காலங்களில் அறிவிக்கப்படும் என பரீட்சை ஆணையாளர் குறிப்பிட்டுள்ளார். R
+Meanwhile, the Commissioner of Examinations has stated that the proposed dates for the GCE Ordinary Level Examination for 2024 will be announced in the future.. Remble
 
 ◼️
 
 [Data](articles/6f17bb4e.json)
+
+[Extended Data](ext_articles/6f17bb4e.ext.json)
 
 ---
 
@@ -140,21 +266,23 @@ The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 mo
 
 ---
 
-### விபத்தில் பாடசாலை மாணவன் மரணம்
+### The death of a schoolgirl in an accident
 
 *2024-03-01 19:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விபத்தில்-பாடசாலை-மாணவன்-மரணம்/71-334058) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரி, ஐயாக்கடை A9 வீதியில் இன்று காலை இடம்பெற்ற விபத்தில்   மாணவன் ஒருவர் உயிரிழந்துள்ளார்.
+A student was killed in an accident this morning on the A9 road in A9 Road, Chavakachcheri - Chavakachcheri, Jaffna.
 
-விளையாட்டுப் பயிற்சிகளை நிறைவு செய்து துவிச்சக்கரவண்டியில் வீடு திரும்பிய போது யாழ்ப்பாணத்திலிருந்து கொழும்பு நோக்கிப் பயணித்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் மோதியதில் அவர் உயிரிழந்துள்ளார்.
+He was killed when a bus belonging to the Sri Lanka Transport Board (SLTB), which was traveling from Jaffna to Colombo when he returned home in a bicycle.
 
-யாழ். சாவகச்சேரி இந்துக் கல்லூரியில் கல்வி கற்கும் 19 வயதான மாணவனே இவ்விபத்தில் உயிரிழந்துள்ளார்.
+Yall. The 19 -year -old student of Chavakachcheri Hindu College has died.
 
-உயிரிழந்த மாணவனின் சடலம் யாழ். போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், பஸ்ஸின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+The body of the deceased student. The teaching hospital has been arrested and the driver of the bus has been arrested.
 
 ◼️
 
 [Data](articles/0fb74396.json)
+
+[Extended Data](ext_articles/0fb74396.ext.json)
 
 ---
 
@@ -173,6 +301,24 @@ It is reported that when children are playing, they have found a tire meeting, a
 [Data](articles/97508751.json)
 
 [Extended Data](ext_articles/97508751.ext.json)
+
+---
+
+### சாந்தன் சொந்த நாட்டுக்கு திரும்புவதில் ஏற்பட்ட தாமதத்துக்கு மத்திய, தமிழக அரசுகளே காரணம் - சட்டத்தரணி புகழேந்திப்பாண்டியன்
+
+*2024-03-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177705) · `ta`
+
+சாந்தன் சொந்த நாட்டுக்குத் திரும்புவதில் ஏற்பட்ட தாமதத்துக்கு மத்திய, தமிழக அரசுகளே காரணமாக உள்ளதாக அவரது சட்டத்தரணி புகழேந்திப்பாண்டியன் தெரிவித்துள்ளார்.
+
+55வயதான தில்லையம்பலம் சுதேந்திரராஜா என்ற இயற்பெயரைக் கொண்ட சாந்தன் கடந்த 28ஆம் திகதி சென்னை ராஜீவ்காந்தி மருத்துவமனையில் கல்லீரல் செயலிழப்பால் மரணமடைந்தார். அவரது பூதவுடல் நேற்றையதினம் விமானம் மூலம் கொண்டுவரப்பட்ட நிலையில், அவரது சட்டத்தரணியான புகழேந்தி பாண்டியனும் வருகை தந்திருந்தார்.
+
+இந்நிலையில், சாந்தன் இலங்கை திரும்புவதில் ஏற்பட்ட தாமதங்கள் மற்றும் அவரது மரணத்துக்கான காரணம் தொடர்பில் வீரகேசரியிடம் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+ராஜீவ்காந்தி கொலை வழக்கில் மரணதண்டனை வழங்கப்பாட்டிருந்த சாந்தனுக்கு பின்னர் மனுத்தாக்கல் செய்யப்பட்ட நிலையில், அவரது தண்டனை ஆயுள் தண்டனையாகக் குறைக்கப்பட்டது. அதன்பின்னர் அவர் 2022ஆம் ஆண்டு நவம்பர் மாதம் 11ஆம் திகதி உச்சநீதிமன்றத்தின் தீர்ப்புக்கு அமைவாக விடுவிக்கப்பட்டார்.
+
+...
+
+[Data](articles/7d242d87.json)
 
 ---
 
@@ -837,6 +983,8 @@ Highlighting Sri Lanka's historical commitment to safeguarding world peace and r
 ◼️
 
 [Data](articles/e69fc23d.json)
+
+[Extended Data](ext_articles/e69fc23d.ext.json)
 
 ---
 
@@ -1887,145 +2035,5 @@ Earlier this week, the CBSL requested the President, in his capacity as the Mini
 [Data](articles/e8f608b4.json)
 
 [Extended Data](ext_articles/e8f608b4.ext.json)
-
----
-
-### Tiktok star is loyal to son
-
-*2024-03-01 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193997) · `si`
-
-Cat Janice is the highest of TiktoK social media network.
-
-"Sarcoma, a very rare disease, has been a cancer of a castle or soft tissue, according to foreign reports.
-
-While he was taken into treatment, she was the right of her songs to Laruge.
-
-In the top of the TiktoK social media, she is at the top and a short time in the first week of January this year, she is 57 million viewing on the Internet.
-
-◼️
-
-[Data](articles/dae13c17.json)
-
-[Extended Data](ext_articles/dae13c17.ext.json)
-
----
-
-### Laugfs also decides not to revise prices in March
-
-*2024-03-01 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97650/laugfs-also-decides-not-to-revise-prices-in-march) · `en`
-
-Laugfs Gas PLC, one of the main suppliers of liquefied petroleum (LP) gas in Sri Lanka, has also decided not to amend the prices of its domestic gas cylinders in March.
-
-The announcement comes shortly after Litro Gas Lanka announced its decision to not amend the prices this month according to the pricing formula.
-
-Both companies did not revise their prices in February either.
-
-Meanwhile, Litro Gas prices now stand at the following rates:
-
-◼️
-
-[Data](articles/d45efc32.json)
-
-[Extended Data](ext_articles/d45efc32.ext.json)
-
----
-
-### Dickwella instead of Kusal
-
-*2024-03-01 11:19:46* · [`adalk`](https://www.ada.lk/sports/කුසල්-වෙනුවට-දික්වැල්ල/9-408370) · `si`
-
-The Sri Lankan team and the Bangladesh team have been summoned to the Twenty20 tournament in Bangladesh.
-
-Niroshan Dickwella has replaced the site as the batsman was named the batsion Perera was sick.
-
-From June 2021, Dikwella has not played a 20220 international competition.
-
-◼️
-
-[Data](articles/77475d92.json)
-
-[Extended Data](ext_articles/77475d92.ext.json)
-
----
-
-### Sri Lanka begins solar pilot project on plantation
-
-*2024-03-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-solar-pilot-project-on-plantation-152575/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s first ever semi transparent solar PV powered agrivoltaic pilot project was commissioned in Hanthana, Kandy on Thursday, the Minister of Power and Energy said.
-
-“The pilot project will assist The Ministry of Plantation Industries, Ministry of Power and Energy, CEB, Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country,” Kanchana Wijesekera said on X (twitter).
-
-A photovoltaic (PV) cell is a non-mechanical device that converts sunlight directly into electricity. Sri Lanka’s current energy sector development strategy seeks to increase energy generated from renewables such as wind and solar.
-
-Critics have pointed out that Sri Lanka is paying higher rates to renewable power developers than neighboring India. Wijesekera has said this was due to several reasons including a risk premium after a sovereign default.
-
-...
-
-[Data](articles/7d128084.json)
-
-[Extended Data](ext_articles/7d128084.ext.json)
-
----
-
-### Sri Lanka begins solar pilot project on plantation
-
-*2024-03-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-solar-pilot-project-on-plantatation-152575/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s first ever semi transparent solar PV powered agrivoltaic pilot project was commissioned in Hanthana, Kandy on Thursday, the Minister of Power and Energy said.
-
-“The pilot project will assist The Ministry of Plantation Industries, Ministry of Power and Energy, CEB, Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country,” Kanchana Wijesekera said on X (twitter).
-
-A photovoltaic (PV) cell is a non-mechanical device that converts sunlight directly into electricity. Sri Lanka’s current energy sector development strategy seeks to increase energy generated from renewables such as wind and solar.
-
-Critics have pointed out that Sri Lanka is paying higher rates to renewable power developers than neighboring India. Wijesekera has said this was due to several reasons including a risk premium after a sovereign default.
-
-...
-
-[Data](articles/8db4c5f7.json)
-
-[Extended Data](ext_articles/8db4c5f7.ext.json)
-
----
-
-### Sleep for the mother;On a one -month -old baby street
-
-*2024-03-01 11:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்க்கு-தூக்கம்-ஒருமாத-குழந்தை-வீதியில்/76-334044) · `ta`
-
-There was an incident where a mother was traveling in a three -wheeler, not knowing that a month -old child fell on the street.
-
-Kitulkala police said that a child in the Hatton -Colombo road has been found dead from her mother's hand and lying on the main road.
-
-The mother of the child, including the mother of the child, was returning to Negombo from Nuwara Eliya, the mother's sleep was slipped on the road, police said.
-
-Two families, including the mother of the child, were back to Negombo, leaving Nuwara Eliya through Kadirgamam in two three -wheeler, police said.
-
-The incident took place at midnight on the 28th and the passengers in a car that followed the three -wheeler on the same road had found a child lying on the road and informed the Kitulkala police.
-
-The people in the car have rescued the small child and handed over to the Kitkalkala police.
-
-...
-
-[Data](articles/962aee4e.json)
-
-[Extended Data](ext_articles/962aee4e.ext.json)
-
----
-
-### Paint factory in Panadura gutted in fire
-
-*2024-03-01 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97649/paint-factory-in-panadura-gutted-in-fire) · `en`
-
-A paint manufacturing factory in the Samagi Mawatha area of Panadura has been completely destroyed after a massive fire ripped through the facility last night (Feb. 29).
-
-The firefighting unit of the Moratuwa Municipal Council had taken steps to bring the raging flames under control.
-
-The damage caused by the fire has not yet been assessed and the cause of the fire is still under investigation.
-
-◼️
-
-[Data](articles/bc409ca8.json)
-
-[Extended Data](ext_articles/bc409ca8.ext.json)
 
 ---

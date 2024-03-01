@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 01:50:48**
+As of **2024-03-02 02:02:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,352 (100.0%) of 10,357 articles have been extended.
+10,357 (100.0%) of 10,357 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The project, which is aimed at addressing energy needs of the people of the thre
 ...
 
 [Data](articles/5f320174.json)
+
+[Extended Data](ext_articles/5f320174.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ Siyambalapitiya said to avail this tax reduction, the importers must obtain prio
 
 [Data](articles/da3c9896.json)
 
+[Extended Data](ext_articles/da3c9896.ext.json)
+
 ---
 
 ### Heated arguments take place in SC as Court dismisses FR bribery case filed by former CEA Chairman
@@ -80,37 +84,47 @@ According to papers filed in the FR application the CEA Chairman had been arrest
 
 [Data](articles/dd9fa9fe.json)
 
+[Extended Data](ext_articles/dd9fa9fe.ext.json)
+
 ---
 
-### அதோ முகம் - விமர்சனம்
+### That is the face - Review
 
 *2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177719) · `ta`
 
-நடிகர்கள் : எஸ்.பி. சித்தார்த், சைதன்ய பிரதாப், அருண் பாண்டியன், ஆனந்த் நாக், மேத்யூ வர்கீஸ் மற்றும் பலர்.
+Actors: SP. Siddharth, Chaitanya Pratap, Arun Pandiyan, Anand Nag, Mathew Varghese and many others.
 
-புதுமுக படைப்பாளிகளின் படைப்புகள் எப்போதும் வீரியமிக்கதாகவும், அடர்த்தியான திரைக்கதையை கொண்டதாகவும் அமைந்திருக்கும். அந்த வகையில் அறிமுக இயக்குநர் சுனில் தேவ் இயக்கத்தில் உருவாகி இருக்கும் 'அதோ முகம்' எனும் க்ரைம் வித் சஸ்பென்ஸ் திரில்லர் ஜேனரிலான திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+The works of the newcomer are always vigorous and densely screenplays. Did the film 'Ado Mukh', a crime with suspense thriller Janer, have attracted all fans?Or not?We will continue to see.
+
+Man Martin works as an officer at a tea plantation in Ooty (S. B.. Siddharth). His young wife, Lena (Chaitanya Pratap) is the housewife. Martin who loves too much- decides to give a shock to wife. Because the wife is easily guessing it.. Man Martin says I will give you a shock someday. According to her friend's suggestion, she downloads a spy software processor on her mobile phone to make her a shocking moment.. This is the job of Martin in the hope of registering her subtle uses and giving her a gift.. Turns against him. Through that processor he looks like his friend, his father and another face of his wife. After that, Martin's things to give her shock are the biggest screenplay of the film.
 
 ...
 
 [Data](articles/2f8afe8f.json)
 
+[Extended Data](ext_articles/2f8afe8f.ext.json)
+
 ---
 
-### சத்தமின்றி முத்தம் தா - விமர்சனம்
+### Kissing noise
 
 *2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177718) · `ta`
 
-நடிகர் ஸ்ரீகாந்த் சிறிய இடைவெளிக்கு பிறகு எதிர்மறையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சத்தமின்றி முத்தம் தா' எனும் திரைப்படம் அனைத்து தரப்பு ரசிகர்களின் எதிர்பார்ப்பை நிறைவு செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+Did Actor Srikanth meet the expectation of all the fans after the film 'Cuttaom Kuttu Tha', which plays a negative role after a short break?Or not?We will continue to see.
 
-படத்தின் நாயகியான சந்தியா (பிரியங்கா திம்மேஷ்) வை ஒரு உருவம் கொலை செய்ய முயற்சிக்கிறது. அவரது வீட்டிலிருந்து தப்பித்து வீதியில் ஓட தொடங்குகிறாள். அப்போது ஒரு வாகனம் அவள் மீது மோதி விபத்தை ஏற்படுத்தி விட்டு செல்கிறது.
+The heroine of the film, Sandhya (Priyanka Timmesh), tries to kill an image. She escapes from her house and starts to run on the street. Then a vehicle crashed into her and caused the accident.
 
-ஒரு மணி நேரத்திற்குள் விபத்தில் அடிபட்ட சந்தியாவை அவளது கணவனான ரகு வைத்தியசாலையில் அனுமதித்து அவரது உயிரை காப்பாற்றுகிறார். உயிர் பிழைத்தாலும் சந்தியா தன்னுடைய கடந்த கால நினைவுகள் அனைத்தையும் இழக்கிறார். கணவர் உட்பட எவரையும் அவளால் அடையாளம் காண முடியவில்லை.
+Sandhya was admitted to her husband Raghu Hospital and saved her life within an hour. Sandhya loses all his past memories despite survival. She could not identify anyone, including her husband.
 
-தன் கணவன் ரகு என அறிமுகமாகும் ஸ்ரீகாந்தை தன் கணவன் என நம்பத் தொடங்குகிறாள். சில மாதங்களுக்குப் பிறகு எதிர்பாராத விதமாக அவளது தோழி சந்தியாவை சந்திக்கிறார். அவர் கணவர் ரகுவின் திருமண புகைப்படத்தை வாட்ஸப்பில் அனுப்புகிறார்.
+Srikanth, who introduces her husband Raghu as her husband, begins to believe. A few months later, unexpectedly meets her girlfriend Sandia. She sends her husband Raghu's wedding photo to WhatsApp.
+
+It is then that she knows that Srikanth Raghu is not the name of her husband Raghu, his name is Vignesh and Vignesh (Srikanth) is a brutal offense for money.. Thus he attacks Sri Gandhi and leaves.
 
 ...
 
 [Data](articles/522bd5d4.json)
+
+[Extended Data](ext_articles/522bd5d4.ext.json)
 
 ---
 

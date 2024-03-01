@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 23:33:57**
+As of **2024-03-01 23:52:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,332 (100.0%) of 10,334 articles have been extended.
+10,334 (100.0%) of 10,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### 14 வருடங்களாகத் தொடரும் கிழக்குத் தமிழர்களின் காணி மீட்புப் போராட்டம்
+### Land Rescue Struggle of Eastern Tamils who continue for 14 years
 
 *2024-03-01 23:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177714) · `ta`
 
-யுத்தத்தால் இடம்பெயர்ந்த, கிழக்கு மாகாணத்தைச் சேர்ந்த நூற்றுக்கணக்கான தமிழர்கள், மீண்டும் தமது சொந்த நிலத்தில் மீளக் குடியேற அதிகாரிகள் தொடர்ந்து தடை விதித்து வருவதாக குற்றஞ்சாட்டுகின்றனர்.
+Hundreds of Tamils from the Eastern Province, who have been displaced by the war, have accused the authorities of continuing to rescue their own land.
 
-யுத்தம் நிறைவுக்கு வந்த கடந்த 2009ஆம் ஆண்டு முதல், கடந்த 14 வருடங்களாக சொந்த நிலத்தில் மீளக்குடியேறுவதற்கான தமது போராட்டம் தொடர்வதாக அந்த மக்கள் தெரிவிக்கின்றனர்.
+The people have reported that since the end of the war, their struggle to resettle on their own land for the past 14 years has been continuing.
 
-யுத்தத்தால் பாதிக்கப்பட்ட மக்களை மீள்குடியேற்றுவதற்கும், காணிகளை விடுவிப்பதற்கும்,  வடமாகாணத்தில் எஞ்சியிருக்கும் இடைத்தங்கள் முகாமில் தங்கியுள்ளவர்களை மீள் குடியேற்றுவதற்கும் நடவடிக்கைகள் எடுக்கப்பட்டு வருதாக வெளிவிவார அமைச்சர் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் விசேட பிரிவில் பெப்ரவரி 27ஆம் திகதி உரையாற்றியிருந்தார்.
+On February 27, External Affairs Minister addressed the United Nations Human Rights Council's Special Division to resettle the war -affected people, to release land and resettle those who are staying in the rest of the Northern Camp.
 
-அம்பாறை, பொத்துவில் பிரதேச செயலகத்துக்கு உட்பட்ட கனகர் கிராமத்தைச் சேர்ந்த 278 குடும்பங்கள், தமது சொந்தக் காணிகளை விடுவிக்குமாறு வலியுறுத்தி அமைச்சர் உரையாற்றிய தினத்திற்கு முதல்நாள் (பெப்ரவரி 26) கவனயீர்ப்புப் போராட்டத்தை முன்னெடுத்தன.
+278 families from Kanagar village, which belongs to the Pottuvil Divisional Secretariat in Ampara, launched a protest on the first day of the day (February 26), demanding the release of their own land.
+
+The people who launched a protest in Kanagar village staged a protest in front of the Pottuvil Divisional Secretariat.
+
+The people allege that state officials, including the Forest Department officials, have refused to release hundreds of acres of land belonging to them.
 
 ...
 
 [Data](articles/771fa921.json)
+
+[Extended Data](ext_articles/771fa921.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ He said the issue which the Speaker has faced when appointing the IGP is the non
 ...
 
 [Data](articles/e186230d.json)
+
+[Extended Data](ext_articles/e186230d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 19:17:43**
+As of **2024-03-01 19:32:49**
 
 ## Newspaper Stats
 
-*Scraped **10,300** Articles*
+*Scraped **10,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 economynextcom | 542
 dailyftlk | 542
 islandlk | 544
-adalk | 874
+adalk | 875
 adaderanalk | 1,250
 tamilmirrorlk | 1,254
 virakesarilk | 1,400
-dailymirrorlk | 1,561
-adaderanasinhalalk | 1,579
+dailymirrorlk | 1,562
+adaderanasinhalalk | 1,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,299 (100.0%) of 10,300 articles have been extended.
+10,300 (100.0%) of 10,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### හක්කපටස් පුපුරා කුඩා දරුවෙකුට බරපතළ තුවාල
+
+*2024-03-01 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194019) · `si`
+
+ඉංගිරිය, රයිගම්පුර ප්‍රදේශයේ හක්කපටස් එකක් පුපුරා යෑමෙන් කුඩා දරුවෙක් බරපතළ තුවාල ලබා හොරණ දිස්ත්‍රික් රෝහලට ඇතුළත් කර තිබේ.
+
+අප වාර්තාකරු පැවසුවේ එම අවස්ථාවේ දී තවත් දරුවන් දෙදෙනෙකුට සුළු තුවාල සිදුව ඇති බවය.
+
+දරුවන් සෙල්ලම් කරමින් සිටිය දී ටයර් එකක් තුළ තිබී හක්කපටස් හමුව ඇති අතර, ඔවුන් එය තැලීමට යෑමේ දී පුපුරා ගොස් ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/97508751.json)
+
+---
 
 ### Dates announced for O/L, A/L and Grade 05 scholarship exams
 
@@ -50,25 +66,43 @@ Meanwhile, the Commissioner General of Examinations Amith Jayasundara said that 
 
 ---
 
-### නාගානන්ද කොඩිතුවක්කුට මහජන සුබසාධන නඩුකරවලටත් පෙනී සිටීම තහනම්
+### Nagananda Kodituwa to appear for public welfare cases
 
 *2024-03-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194018) · `si`
 
-නීතිඥභාවය අහෝසි කෙරුණු නාගානන්ද කොඩිතුවක්කු මහතාට මින් මතුවට මහජන සුභසාධන නඩුකර සඳහා ද පෙනී සිටිය නොහැකි බව ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝග කර තිබේ.
+The Supreme Court has ordered Nagananda Kodituwakku who was abolished by lawyer.
 
-නාගානන්ද කොඩිතුවක්කු මහතා සම්බන්ධයෙන් ඊයේ (29) දින ප්‍රකාශයට පත් කෙරුණු නඩු තීන්දුවේ මේ බව සඳහන් කර ඇත.
+This is stated in the verdict on Kodituwakku yesterday (29).
 
-ප්‍රියන්ත ජයවර්ධන, ප්‍රීති පද්මන් සූරසේන සහ එස්. තුරෙයිරාජා යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ඊයේ ප්‍රකාශයට පත්කරන  ලදී.
+Priyantha Jayawardena, Joy Padman Surasena and S. The verdict was announced yesterday by the three-member Supreme Court Bench comprising Turayiraja.
 
-නාගානන්ද කොඩිතුවක්කු මහතා විසින් ශ්‍රේෂ්ඨාධිකරණයට ලබා දුන් දිවුරුම් පෙත්සමක් තුළින් අගවිනිසුරුවරයා ඇතුළු විනිසුරුවරුන්ට අවමන් සහගත ආකාරයෙන් ප්‍රකාශ සිදුකිරීම තුළින් වෘත්තීය විෂමාචාර ක්‍රියාවක නිරත වූ බවට චෝදනාකොට නීතිපතිවරයා විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ චෝදනා පත්‍රයක් ගොනුකර තිබිණි.
+The Attorney General has accused the Supreme Court by the Supreme Court by accusing Nagananda Kodituwakku.
 
-එම චෝදනා පත්‍රය විභාග කළ ත්‍රිපුද්ගල විනිසුරු මඩුල්ල අදාළ චෝදනාවලට වගඋත්තර නාගානන්ද කොඩිතුවක්කු මහතා වරදකරු කරන බව සඳහන් කළේය.
+He said Kodituwakku is convicted of the three-member panel of judges who had heard the charge sheet.
 
-ඉන් අනතුරුව ඒ මහතාගේ නීතිඥභාවය අහෝසි කිරීමට තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය ඔහුට මින් මතුවට මහජන සුබසාධන නඩුකරවලට පෙනී සිටිය නොහැකි බවත් අදාළ තීන්දුවේ සඳහන් කර තිබේ.
+The Supreme Court has then stated that the Supreme Court has decided to abolish his lawyer.
 
 ◼️
 
 [Data](articles/a346a427.json)
+
+[Extended Data](ext_articles/a346a427.ext.json)
+
+---
+
+### Dates of scholarship exam, GCE O/L, A/L released
+
+*2024-03-01 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dates-of-scholarship-exam-GCE-OL-AL-released/108-278047) · `en`
+
+Colombo, March 01 (Daily Mirror) - The Examination Department has announced the schedule for several key examinations for the year 2024.
+
+Accordingly, the GCE (O/L) Examinations 2023 is scheduled to take place from May 6th to May 15th while Grade 5 Scholarship Examinations 2024 is set for September 15th, 2024.
+
+In addition, the GCE (A/L) Examinations 2024 will run from November 25th to December 20th, 2024.
+
+◼️
+
+[Data](articles/f8366d86.json)
 
 ---
 
@@ -503,6 +537,26 @@ Wednesday on Wednesday, March 6 am - 10.00 am - 10:00 am
 [Data](articles/337d954f.json)
 
 [Extended Data](ext_articles/337d954f.ext.json)
+
+---
+
+### රජිව් ගාන්ධි ඝාතනයේ වරදකරු වූ ශාන්තන්ගේ සිරුර කටුනායකට
+
+*2024-03-01 16:30:00* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයේ-වරදකරු-වූ-ශාන්තන්ගේ-සිරුර-කටුනායකට/11-408374) · `si`
+
+ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතනය සම්බන්ධයෙන් වරදකරු වී සිටි ටී.සුරේන්ද්‍ර රාජා නොහොත් ශාන්තන් නැමැති අයගේ මළ සිරුර 03/01 දින දහවල්  කටුනායක ගුවන් තොටුපොළ , ගුවන් භාණ්ඩ පර්යන්තය වෙත එවා තිබුණි.
+
+ටී.සුරේන්ද්‍ර රාජා වැරදිකරු වී සිර දඩුවම් විදිමින් සිටි අතර , පසුව පොදු සමාවක් හිමි ඇති අතර , ඉන්පසුව සිය මව බැලීම සදහා ශ්‍රී ලංකාවට පැමිණීමට ඔහු සූදානමින් සිටියදී ඔහු  දරුණු වකුගඩු රෝගයකට ගොදුරු වීමෙන් අනතුරුව ඉන්දියාවේ චෙන්නායි නුවර
+
+" රජීව් ගාන්ධි " රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මිය ගොස් තිබේ.
+
+ඔහුගේ මළ සිරුර 03/01 දින දහවල් 11.35 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 122 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි .
+
+මෙම මළ සිරුර භාර ගැනීම සදහා ඥාතීන් කීප දෙනෙකු කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ පර්යන්තය වෙත පැමිණ සිටින අතර , මෙම සිරුර නිදහස් කිරීම සදහා අත්‍යාවශ්‍ය ලියකියවිලි කීපයක් ඉන්දියාවේ චෙන්නායි නුවර සිට කටුනායක ගුවන් තොටුපොළ වෙත අවශ්‍ය වී තිබේ .
+
+...
+
+[Data](articles/fdb9cb7d.json)
 
 ---
 
@@ -1983,57 +2037,5 @@ The unique growth in the industry has been strengthened to the Indian economy.
 [Data](articles/5fae2882.json)
 
 [Extended Data](ext_articles/5fae2882.ext.json)
-
----
-
-### Litro gas prices do not change
-
-*2024-03-01 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193993) · `si`
-
-Litro gas prices will not be changed for March.
-
-◼️
-
-[Data](articles/d7d402db.json)
-
-[Extended Data](ext_articles/d7d402db.ext.json)
-
----
-
-### No Litro gas price revision for March
-
-*2024-03-01 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-Litro-gas-price-revision-for-March/108-278027) · `en`
-
-Colombo, March 1 (Daily Mirror) - Even though the gas prices in the world market fluctuate, Litro Gas Lanka Ltd. has decided not to effect a price revision for this month.
-
-Litro Gas Lanka Chairman Muditha Peiris told the Daily Mirror that the company has decided to continue the gas prices announced for February for this month as well.
-
-As per the decision, the current Litro LP gas rates are as follows: The retail price of a 12.5 kg cylinder of gas will remain at Rs. 4,250, the 5 kg cylinder will stay at Rs. 1,707 and the 2.3 kg cylinder at Rs. 795.
-
-◼️
-
-[Data](articles/e24a11a4.json)
-
-[Extended Data](ext_articles/e24a11a4.ext.json)
-
----
-
-### No price revision in March - Litro Gas
-
-*2024-03-01 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97646/no-price-revision-in-march-litro-gas) · `en`
-
-Litro Gas Lanka has decided not to revise the prices of its domestic LP gas cylinders for March, based on the monthly pricing formula, the company’s chairman Muditha Pieris announced on Friday.
-
-The prices were not amended in February either, a decision which the company said was taken after considering the financial difficulties facing the members of the public.
-
-Following the price hike announced in January, the Litro Gas prices now stand at the following rates:
-
-UPDATE: Meanwhile, Laugfs Gas PLC, the other major supplier of liquefied petroleum (LP) gas in the country, has also decided not to revise its prices in March.
-
-◼️
-
-[Data](articles/8ddbd702.json)
-
-[Extended Data](ext_articles/8ddbd702.ext.json)
 
 ---

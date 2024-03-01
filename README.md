@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 01:02:52**
+As of **2024-03-02 01:17:23**
 
 ## Newspaper Stats
 
@@ -745,6 +745,8 @@ The proposal is subject to necessary shareholder sanction and regulatory approva
 “We are confident that this proposal is in the best interest of our shareholders, which provides an attractive and fair premium that will enable our minority shareholders to unlock value.
 
 “As previously, post-delisting, the company will continue to navigate market complexities in a fast-revolving business environment while continuing to drive sustainable growth as it strives to gain market share as one of the top-tier logistics companies in the world,” said Hanif Yusoof, Director, Expolanka Holdings PLC, commenting on the move.
+
+SG Holdings has intimated to the Board that it would be making an Exit Offer of Sri Rs.185.00 pershare to all the other shareholders of the Company.
 
 ◼️
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 05:38:10**
+As of **2024-03-01 06:57:13**
 
 ## Newspaper Stats
 
-*Scraped **10,143** Articles*
+*Scraped **10,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 526
 dailyftlk | 535
 islandlk | 542
 adalk | 864
-adaderanalk | 1,223
+adaderanalk | 1,224
 tamilmirrorlk | 1,231
 virakesarilk | 1,393
 dailymirrorlk | 1,536
@@ -26,11 +26,35 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,131 (99.9%) of 10,143 articles have been extended.
+10,143 (100.0%) of 10,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Thundershowers possible in several areas including Western Province today
+
+*2024-03-01 06:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97641/thundershowers-possible-in-several-areas-including-western-province-today) · `en`
+
+A few showers may occur in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology says.
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle, Matara and Nuwara-Eliya districts in the evening or night.
+
+Fairly strong winds of about 30-40 kmph can be expected at times in Northern, North-central, North-western, Uva and Eastern provinces and Hambantota district.
+
+The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers may occur at a few places in the sea areas extending from Colombo to Matara via Galle in the evening or night.
+
+Winds will be north-easterly and wind speed will be 20-30 kmph.
+
+Wind speed may increase up to 45-50 kmph at times in the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam and Mannar and from Galle to Hambantota via Matara.
+
+...
+
+[Data](articles/c6553a42.json)
+
+---
 
 ### ComBank Debit Cards get festive appeal with Rs 6 million in prizes for high spenders
 
@@ -45,6 +69,8 @@ The winners of these exciting gifts are to be selected at monthly draws in Febru
 ...
 
 [Data](articles/9b3ecf10.json)
+
+[Extended Data](ext_articles/9b3ecf10.ext.json)
 
 ---
 
@@ -64,6 +90,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/eb801924.json)
 
+[Extended Data](ext_articles/eb801924.ext.json)
+
 ---
 
 ### Union Bank posts steadfast performance in FY2023
@@ -77,6 +105,8 @@ The improved macroeconomic outlook during FY2023 positioned Union Bank to better
 ...
 
 [Data](articles/72422299.json)
+
+[Extended Data](ext_articles/72422299.ext.json)
 
 ---
 
@@ -92,6 +122,8 @@ In a competitive and challenging environment the bank was able to achieve its go
 
 [Data](articles/94d97f3b.json)
 
+[Extended Data](ext_articles/94d97f3b.ext.json)
+
 ---
 
 ### NSB’s GM/CEO Shashi Kandambi honoured by APB
@@ -106,19 +138,23 @@ Ms. Kandambi, a former president of the APB, has long been recognized for her ex
 
 [Data](articles/463ca15d.json)
 
+[Extended Data](ext_articles/463ca15d.ext.json)
+
 ---
 
-### ரொனி டி மெலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+### President's final tribute to Ronnie de Mell
 
 *2024-03-01 03:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-334029) · `ta`
 
-சிறந்த அரசியல்வாதியும் தலைசிறந்த பொருளாதார நிபுணருமான மறைந்த முன்னாள் நிதி அமைச்சர் ரொனி டி மெலுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தியுள்ளார்.
+President Ranil Wickremesinghe has paid a final tribute to the late Finance Minister Ronnie de Mel, the best politician and the best economist.
 
-அவரின் உடல் வைக்கப்பட்டுள்ள கொள்ளுப்பிட்டி சார்ள்ஸ் டிரைவில் அமைந்துள்ள இல்லத்திற்கு நேற்று முன்தினம் பிற்பகல் சென்ற ஜனாதிபதி, அன்னாரின் உடலுக்கு இறுதி அஞ்சலி செலுத்தினார். அத்துடன்,  குடும்ப உறுப்பினர்களுக்கு தனது அனுதாபங்களையும் தெரிவித்தார். (a)
+The president, who had gone to the house located on the Charles drive of Kaluppitti, where her body was placed, paid tribute to Annar's body yesterday afternoon.. He also expressed his sympathies to family members. (A)
 
 ◼️
 
 [Data](articles/f9447df8.json)
+
+[Extended Data](ext_articles/f9447df8.ext.json)
 
 ---
 
@@ -555,6 +591,8 @@ Our President Ranil Wickremesinghe, who goes his own way following Sinatra’s I
 ...
 
 [Data](articles/1ba0c882.json)
+
+[Extended Data](ext_articles/1ba0c882.ext.json)
 
 ---
 
@@ -1935,27 +1973,5 @@ Meanwhile, 6 children have died due to Mandaposhaku, Diabetes and starvation at 
 [Data](articles/0182a7e4.json)
 
 [Extended Data](ext_articles/0182a7e4.ext.json)
-
----
-
-### Sri Lanka signs security pact with US to prevent illicit maritime trafficking in nuclear and radioactive material
-
-*2024-02-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97626/sri-lanka-signs-security-pact-with-us-to-prevent-illicit-maritime-trafficking-in-nuclear-and-radioactive-material) · `en`
-
-Sri Lanka has signed a nuclear security pact with the United States to detect and interdict illicit trafficking in special nuclear material and other radioactive material, as part of the efforts to address the growing global security threats.
-
-The Sri Lankan Navy signed the Memorandum of Understanding with the US National Nuclear Security Administration at the Navy headquarters here on Wednesday.
-
-The MoU was signed in the presence of the US Ambassador to Sri Lanka, Julie Chung and the Commander of the Sri Lanka Navy, Vice Admiral Priyantha Perera, according to media reports on Thursday.
-
-“The U.S.-Sri Lanka partnership in addressing global security threats is ever-growing,” Ambassador Chung posted on X.
-
-The new MOU between the Sri Lanka Navy and the U.S. Department of Energy’s National Nuclear Security Administration will “bolster our joint efforts to prevent illicit maritime trafficking in nuclear and radioactive material,” she wrote.
-
-...
-
-[Data](articles/0a81a8b0.json)
-
-[Extended Data](ext_articles/0a81a8b0.ext.json)
 
 ---

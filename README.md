@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 19:32:49**
+As of **2024-03-01 19:50:23**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,300 (100.0%) of 10,303 articles have been extended.
+10,303 (100.0%) of 10,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### හක්කපටස් පුපුරා කුඩා දරුවෙකුට බරපතළ තුවාල
+### Hakkapatun has seriously injured
 
 *2024-03-01 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194019) · `si`
 
-ඉංගිරිය, රයිගම්පුර ප්‍රදේශයේ හක්කපටස් එකක් පුපුරා යෑමෙන් කුඩා දරුවෙක් බරපතළ තුවාල ලබා හොරණ දිස්ත්‍රික් රෝහලට ඇතුළත් කර තිබේ.
+A young child has been seriously injured and admitted to the Horana District Hospital.
 
-අප වාර්තාකරු පැවසුවේ එම අවස්ථාවේ දී තවත් දරුවන් දෙදෙනෙකුට සුළු තුවාල සිදුව ඇති බවය.
+Our correspondent said that two more children were injured at the time.
 
-දරුවන් සෙල්ලම් කරමින් සිටිය දී ටයර් එකක් තුළ තිබී හක්කපටස් හමුව ඇති අතර, ඔවුන් එය තැලීමට යෑමේ දී පුපුරා ගොස් ඇතැයි වාර්තා වේ.
+It is reported that when children are playing, they have found a tire meeting, and they have exploded at a bruising.
 
 ◼️
 
 [Data](articles/97508751.json)
+
+[Extended Data](ext_articles/97508751.ext.json)
 
 ---
 
@@ -103,6 +105,8 @@ In addition, the GCE (A/L) Examinations 2024 will run from November 25th to Dece
 ◼️
 
 [Data](articles/f8366d86.json)
+
+[Extended Data](ext_articles/f8366d86.ext.json)
 
 ---
 
@@ -540,23 +544,27 @@ Wednesday on Wednesday, March 6 am - 10.00 am - 10:00 am
 
 ---
 
-### රජිව් ගාන්ධි ඝාතනයේ වරදකරු වූ ශාන්තන්ගේ සිරුර කටුනායකට
+### Katunayake, who was convicted of Rajiv Gandhi murder
 
 *2024-03-01 16:30:00* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයේ-වරදකරු-වූ-ශාන්තන්ගේ-සිරුර-කටුනායකට/11-408374) · `si`
 
-ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතනය සම්බන්ධයෙන් වරදකරු වී සිටි ටී.සුරේන්ද්‍ර රාජා නොහොත් ශාන්තන් නැමැති අයගේ මළ සිරුර 03/01 දින දහවල්  කටුනායක ගුවන් තොටුපොළ , ගුවන් භාණ්ඩ පර්යන්තය වෙත එවා තිබුණි.
+The body of Prime Minister Rajiv Gandhi was convicted of former Prime Minister Rajiv Gandhi was convicted to the Katunayake airport and cargo terminal.
 
-ටී.සුරේන්ද්‍ර රාජා වැරදිකරු වී සිර දඩුවම් විදිමින් සිටි අතර , පසුව පොදු සමාවක් හිමි ඇති අතර , ඉන්පසුව සිය මව බැලීම සදහා ශ්‍රී ලංකාවට පැමිණීමට ඔහු සූදානමින් සිටියදී ඔහු  දරුණු වකුගඩු රෝගයකට ගොදුරු වීමෙන් අනතුරුව ඉන්දියාවේ චෙන්නායි නුවර
+T.Surendra Raja was convicted and the general pardon and came to Sri Lanka to visit Sri Lanka in Chennai, India.
 
-" රජීව් ගාන්ධි " රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මෙසේ මිය ගොස් තිබේ.
+The deceased has been identified as he was treated at the Rajiv Gandhi Hospital.
 
-ඔහුගේ මළ සිරුර 03/01 දින දහවල් 11.35 ට ඉන්දියාවේ චෙන්නායි නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 122 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත එවා තිබුණි .
+His body was 3/01 at 11.35 days in India, India from Chennai, SriLankan Airlines.
 
-මෙම මළ සිරුර භාර ගැනීම සදහා ඥාතීන් කීප දෙනෙකු කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ පර්යන්තය වෙත පැමිණ සිටින අතර , මෙම සිරුර නිදහස් කිරීම සදහා අත්‍යාවශ්‍ය ලියකියවිලි කීපයක් ඉන්දියාවේ චෙන්නායි නුවර සිට කටුනායක ගුවන් තොටුපොළ වෙත අවශ්‍ය වී තිබේ .
+Several relatives are present at the Katunayake air cargo terminal and several essential documents are required to be released.
 
-...
+Until the documents, the body was placed at the Katunayake air cargo peripheral and provided a chance to take photos.
+
+◼️
 
 [Data](articles/fdb9cb7d.json)
+
+[Extended Data](ext_articles/fdb9cb7d.ext.json)
 
 ---
 

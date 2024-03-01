@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 14:17:31**
+As of **2024-03-01 14:33:07**
 
 ## Newspaper Stats
 
-*Scraped **10,239** Articles*
+*Scraped **10,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 872
 adaderanalk | 1,240
 tamilmirrorlk | 1,248
 virakesarilk | 1,397
-dailymirrorlk | 1,551
-adaderanasinhalalk | 1,564
+dailymirrorlk | 1,552
+adaderanasinhalalk | 1,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,231 (99.9%) of 10,239 articles have been extended.
+10,239 (100.0%) of 10,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### යාපනයේ දූපත් 3කට විදුලිය දෙන්න සැලසුමක්
+
+*2024-03-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194005) · `si`
+
+යාපනයේ දූපත් 03ක හයිබ්‍රිඩ් පුනර්ජනනීය බලශක්ති පද්ධති ස්ථාපනය කිරීම සඳහා අදාළ ගිවිසුම් අද (01) අත්සන් කර තිබේ.
+
+ඒ සඳහා ඉන්දීය රජය විසින් අමෙරිකානු ඩොලර් මිලියන 10.995ක ප්‍රදානයක් කර ඇත.
+
+මෙම ව්‍යාපෘතිය යටතේ ඩෙල්ෆ්, අනලතිව් සහ නයිනතිව් යන දූපත් සඳහා 2025 මාර්තු වනවිට විදුලිබලය සැපයීමට නියමිතය.
+
+සුළං බලයෙන් කිලෝවොට් 530ක්, සූර්ය බලයෙන් කිලෝවොට් 1700ක්, විද්‍යුත් කෝෂ හරහා කිලෝවොට් 2400ක් සහ ඩීසල් යොදාගෙන කිලෝවොට් 2500ක් උත්පාදනය කෙරෙයි.
+
+මෙම ව්‍යාපෘතිය "USOLAR" සමාගම විසින් ක්‍රියාත්මක කරන බව X පණිවුඩයක් නිකුත් කරමින් විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+
+◼️
+
+[Data](articles/affcefe3.json)
+
+---
 
 ### Etihad increases frequency of flight operations to Colombo from May 1
 
@@ -45,6 +65,32 @@ He said this flight service will be a significant contribution towards boosting 
 ...
 
 [Data](articles/6843203d.json)
+
+[Extended Data](ext_articles/6843203d.ext.json)
+
+---
+
+### 2024 ජනවාරි සංචාරක ඉපැයීම් අ. ඩො. මිලියන 342ක්
+
+*2024-03-01 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194004) · `si`
+
+විදේශීය අංශයේ ක්‍රියාකාරීත්වය පිළිබඳ නවතම වාර්තාව මහ බැංකුව අද (01) ඉදිරිපත් කර තිබුණි.
+
+ඊට අනුව 2024 ජනවාරි මස මෙරට සංචාරක ක්ෂේත්‍රයේ ඉපැයීම් අමෙරිකානු ඩොලර් මිලියන 342කි.
+
+එය 2023 දෙසැම්බරයේ වාර්තා වූ අමෙරිකානු ඩොලර් මිලියන 269ක සංචාරක ඉපැයීම් සහ 2023 ජනවාරි මාසයේ වාර්තාවූ අමෙරිකානු ඩොලර් මිලියන 154ට සාපේක්ෂව කැපී පෙනෙන ඉහළයාමක් බව සඳහන් වේ.
+
+එමෙන්ම 2020 ජනවාරි මාසයෙන් පසු සංචාරක ක්ෂේත්‍රය වාර්තා කළ ඉහළම ආදායම ද මෙය බව ශ්‍රී ලංකා මහ බැංකුව සිය වාර්තාව මගින් පෙන්වා දී තිබේ.
+
+මේ අතර, මෙරට වෙළෙඳ භාණ්ඩ අපනයන ආදායම 2023 ජනවාරි මාසයේ වාර්තා වූ අමෙරිකානු ඩොලර් මිලියන 978ට සාපේක්ෂව 2024 ජනවාරි මාසයේදී අමෙරිකානු ඩොලර් මිලියන 971ක් ලෙස 0.8%ක සුළු පහළ යාමක් වාර්තා කරයි.
+
+එමෙන්ම වෙළෙඳ භාණ්ඩ ගිණුමේ හිඟයද ආනයන ඉහළ යාමත් සමග 2023 ජනවාරි මාසයේ වාර්තා වූ අමෙරිකානු ඩොලර් මිලියන 445ට සාපේක්ෂව අමෙරිකානු ඩොලර් මිලියන 547ක් දක්වා පුළුල් වී ඇති බව සඳහන් වෙයි.
+
+විදේශ සේවා නියුක්තිකයින්ගේ ප්‍රේෂණ ද 2024 ජනවාරි මාසයේ අමෙරිකානු ඩොලර් මිලියන 488ක වර්ධනයක් සටහන් කර ඇති බවත් මහ බැංකු වාර්තාවේ සඳහන් විය.
+
+...
+
+[Data](articles/838ce90c.json)
 
 ---
 
@@ -64,6 +110,8 @@ Taking to X (formerly Twitter) to announce this, Wijesekera expressed gratitude 
 
 [Data](articles/0e2df066.json)
 
+[Extended Data](ext_articles/0e2df066.ext.json)
+
 ---
 
 ### Brother-in-law of Zahran arrested
@@ -81,6 +129,8 @@ Zahran Hashim was the ringleader of the breakaway members of the hardline Islami
 ◼️
 
 [Data](articles/af4efe03.json)
+
+[Extended Data](ext_articles/af4efe03.ext.json)
 
 ---
 
@@ -111,6 +161,8 @@ Police suspect that that the shooting was a result of a dispute between two unde
 ◼️
 
 [Data](articles/0043d17a.json)
+
+[Extended Data](ext_articles/0043d17a.ext.json)
 
 ---
 
@@ -159,6 +211,20 @@ Doctors examined the infant and found no injuries. However, the baby was later t
 ◼️
 
 [Data](articles/fe516f4a.json)
+
+[Extended Data](ext_articles/fe516f4a.ext.json)
+
+---
+
+### Biggest healthcare exhibition at BMICH
+
+*2024-03-01 12:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Biggest-healthcare-exhibition-at-BMICH/110-278034) · `en`
+
+Sri Lanka’s biggest healthcare exhibition, the National Healthcare Exhibition, was launched today at the Bandaranaike Memorial International Conferance Hall (BMICH) and will continue till Sunday (3). The event showcases the latest in modern healthcare, disease prevention, effective treatment methods, newest technology and latest services available in Sri Lankan hospitals and laboratories as well as the global medical sector. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/b71a51cb.json)
 
 ---
 
@@ -270,21 +336,23 @@ The Minister further said that the permission of the Religious Affairs Ministry 
 
 ---
 
-### විදුලිය උත්පාදනයට ජලය සැපයෙන මාවුස්සාකැලේ හා කාසල්රී ජලාශ වලට සිදුව ඇති දේ
+### Mavussakele and Castlere reservoirs that provide electricity generating
 
 *2024-03-01 12:24:06* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-උත්පාදනයට-ජලය-සැපයෙන-මාවුස්සාකැලේ-හා-කාසල්රී-ජලාශ-වලට-සිදුව-ඇති-දේ/11-408373) · `si`
 
-මධ්‍යම කඳුකරයට මාසයක පමණ කාලයක් තිස්සේ පවතින දැඩි වියළි කාළගුණයත්
+The central hills are intense dry weather for about a month for about a month
 
-සමග මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම සීඝ්‍රයෙන් පහත බසිමින්
+Download the water level of Mawaskele and Castlereagals
 
-අද (01)දා පෙ.ව. 06.00 වන විට මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම
+Today on today (01). The water level of Mawussaleri and Castlere reservoirs by 06.00
 
-පිටාර මට්ටමේ සිට පිලිවෙළින් අඩි 18 ක් හා අඩි 14 ක් වශයෙන් පහත බැස ඇති බව එම
+It was 18 feet and 14 feet of ft from the spray level and 14 feet
 
 ◼️
 
 [Data](articles/af3bddc7.json)
+
+[Extended Data](ext_articles/af3bddc7.ext.json)
 
 ---
 
@@ -358,19 +426,21 @@ The construction of the first wildlife tank in Sri Lanka was commenced this morn
 
 ---
 
-### 22 හැවැරිදි තරුණයා දුම්රියට පැන්නාද? දුම්රියේ ගැටුණාද?
+### 22 Can the young man drive on the train?Did the train collide?
 
 *2024-03-01 12:00:34* · [`adalk`](https://www.ada.lk/breaking_news/22-හැවැරිදි-තරුණයා-දුම්රියට-පැන්නාද--දුම්රියේ-ගැටුණාද-/11-408371) · `si`
 
-බදුල්ල සිට කොළඹ බලා අද 29 රාත්‍රී  ධාවනය  වෙමින් තිබූ  දුම්රියක ගැටී  විසිදෙක හැවිරිදි තරුණයෙකු    ජීවිතක්ෂයට පත් වී ඇති බව ඇල්ල පොලිසිය පැවසීය.
+The Ella Police have killed a young man who had been hit by a train from Badulla to Colombo today 29.
 
-හාලිඇල උඩුවර  හැවන්කදුර පදිංචිව සිටි   ඒ එම්  තරිඳු චාමර නමැති විසි දෙක හැවිරිදි තරුණයෙකු මෙලෙස ජීවිතක්ෂයට පත් වී තිබේ. මෙම  තරුණයා දුම්රියට පැන්නේ ද දුම්රියේ හැපුනේද යන්න සෙවීමට පරීක්ෂණ කරන බවද පොලිසිය පැවසීය.
+A resident of Udaku Hawankura, Haliela, has died. The youth will investigate the train to find out whether he had about the train.
 
-ඇල්ල දුම්රිය ස්ථානයේ සිට බදුල්ල දෙසට මීටර් 200ක් පමණ දුරින්  තිබියදී සිරුර හමුවී  ඇත. ඇල්ල පොලිසිය වැඩිදුර විමර්ශන කටයුතු සිදු කරයි.
+The body was found at about 200 meters from the Ella railway station to Badulla.Falls are conducting further investigations.
 
 ◼️
 
 [Data](articles/58ae3158.json)
+
+[Extended Data](ext_articles/58ae3158.ext.json)
 
 ---
 
@@ -510,19 +580,21 @@ Meanwhile, Litro Gas prices now stand at the following rates:
 
 ---
 
-### කුසල් වෙනුවට දික්වැල්ල
+### Dickwella instead of Kusal
 
 *2024-03-01 11:19:46* · [`adalk`](https://www.ada.lk/sports/කුසල්-වෙනුවට-දික්වැල්ල/9-408370) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩායම අතර බංග්ලාදේශයේදී පැවැතිවීමට නියමිත විස්සයි20 තරගාවලිය සඳහා නිරෝෂන් දික්වැල්ල කණ්ඩායමට කැඳවා තිබේ.
+The Sri Lankan team and the Bangladesh team have been summoned to the Twenty20 tournament in Bangladesh.
 
-එම තරගාවලියට නම්කර තිබූ පිතිකරු කුසල් පෙරේරා අසනීප තත්වයකින් පසුවීම නිසා එම ස්ථානයට මෙසේ නිරෝෂන් දික්වැල්ල ආදේශ කර තිබේ.
+Niroshan Dickwella has replaced the site as the batsman was named the batsion Perera was sick.
 
-2021 ජුනි මාසයේ සිට මේ දක්වාම දික්වැල්ල විස්සයි20 ජාත්‍යන්තර තරගයකට ක්‍රීඩා කර නොමැත.
+From June 2021, Dikwella has not played a 20220 international competition.
 
 ◼️
 
 [Data](articles/77475d92.json)
+
+[Extended Data](ext_articles/77475d92.ext.json)
 
 ---
 
@@ -1893,57 +1965,5 @@ Private buses staged a protest this morning that the Sri Lanka Transport Board s
 [Data](articles/e457672b.json)
 
 [Extended Data](ext_articles/e457672b.ext.json)
-
----
-
-### Sri Lanka expects “smooth” second IMF review
-
-*2024-03-01 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-expects-smooth-second-IMF-review/108-277995) · `en`
-
-The government on Wednesday expressed confidence in the upcoming International Monetary Fund (IMF) review going “smooth”.
-
-Despite the concerns about the progress of debt restructuring with private bondholders still remaining, Sri Lanka is certain that it will be able to successfully implement the reform agenda.
-
-“The second review will commence from March 7 and we are very confident that it will be a smoother review than the first review,” Finance State Minister Shehan Semasinghe said during a press briefing held at the Presidential Media Centre on Wednesday.
-
-The progress in meeting the key commitments under the IMF-backed programme is set to be formally assessed in the context of the second review of the Extended Fund Facility arrangement, alongside the forthcoming 2024 Article IV consultation assessing Sri Lanka’s economic health.
-
-...
-
-[Data](articles/04547b6d.json)
-
-[Extended Data](ext_articles/04547b6d.ext.json)
-
----
-
-### Sri Lanka expects “smooth” second IMF review
-
-*2024-03-01 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-expects-smooth-second-IMF-review/155-277995) · `en`
-
-The government on Wednesday expressed confidence in the upcoming International Monetary Fund (IMF) review going “smooth”.
-
-Despite the concerns about the progress of debt restructuring with private bondholders still remaining, Sri Lanka is certain that it will be able to successfully implement the reform agenda.
-
-“The second review will commence from March 7 and we are very confident that it will be a smoother review than the first review,” Finance State Minister Shehan Semasinghe said during a press briefing held at the Presidential Media Centre on Wednesday.
-
-The progress in meeting the key commitments under the IMF-backed programme is set to be formally assessed in the context of the second review of the Extended Fund Facility arrangement, alongside the forthcoming 2024 Article IV consultation assessing Sri Lanka’s economic health.
-
-...
-
-[Data](articles/5d3c5e26.json)
-
-[Extended Data](ext_articles/5d3c5e26.ext.json)
-
----
-
-### Sri Lanka Passes New Legislation - THAT NO ONE SEEMS TO KNOW - To End Corporal Punishment Against Children
-
-*2024-03-01 01:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-Passes-New-Legislation-THAT-NO-ONE-SEEMS-TO-KNOW-To-End-Corporal-Punishment-Against-Children/172-277999) · `en`
-
-...
-
-[Data](articles/23dff44e.json)
-
-[Extended Data](ext_articles/23dff44e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 05:17:30**
+As of **2024-03-01 05:38:10**
 
 ## Newspaper Stats
 
-*Scraped **10,131** Articles*
+*Scraped **10,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 123
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 526
-islandlk | 531
 dailyftlk | 535
+islandlk | 542
 adalk | 864
 adaderanalk | 1,223
-tamilmirrorlk | 1,230
+tamilmirrorlk | 1,231
 virakesarilk | 1,393
 dailymirrorlk | 1,536
 adaderanasinhalalk | 1,540
@@ -26,11 +26,101 @@ adaderanasinhalalk | 1,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,131 (100.0%) of 10,131 articles have been extended.
+10,131 (99.9%) of 10,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### ComBank Debit Cards get festive appeal with Rs 6 million in prizes for high spenders
+
+*2024-03-01 04:51:00* · [`islandlk`](http://island.lk/combank-debit-cards-get-festive-appeal-with-rs-6-million-in-prizes-for-high-spenders/) · `en`
+
+The Commercial Bank of Ceylon is giving its debit cards extra appeal this festive season, with a gift bonanza worth Rs 6 million for high-spenders.An all-inclusive holiday in Singapore for two, high-end laptops, luxury hotel stays on twin-sharing basis and 20 supermarket vouchers – each valued at a whopping Rs 50,000 – can be won by Commercial Bank debit card users who make purchases to the value of Rs 25,000 or more per month at this promotion, the Bank said.
+
+The winners of these exciting gifts are to be selected at monthly draws in February, March and April, a period that encompasses Easter, Ramadan and the Sinhala and Tamil New Year.
+
+“Promotions of this nature generally tend to focus on credit cards,” the Head of Commercial Bank’s Card Centre Nishantha De Silva said. “With the launch of the ComBank Debit Card Gift Fiesta campaign our aim is to reward our loyal debit card holders while inculcating the habit of using debit cards for day-to-day transactions instead of paying by cash.”
+
+...
+
+[Data](articles/9b3ecf10.json)
+
+---
+
+### Citi Indian Subcontinent Sub-Cluster & Banking Head and India CEO, Ashu Khullar visits Colombo
+
+*2024-03-01 04:51:00* · [`islandlk`](http://island.lk/citi-indian-subcontinent-sub-cluster-banking-head-and-india-ceo-ashu-khullar-visits-colombo/) · `en`
+
+During the visit Ashu met with regulators, key clients and other stakeholders. He also spent time with Citi Sri Lanka management team and employees. strategy and explored how Citi in Sri Lanka can further support our valued clients through financial solutions, digitization and innovation.
+
+Citi Sri Lanka achieved a strong financial performance in 2023 withstanding the local perform through challenged operating environments. A trusted partner to clients, for over 44 years Citi has been providing financial services in Sri Lanka and contributing towards the development of the country’s financial service sector with its global network, innovative service and product solutions.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/eb801924.json)
+
+---
+
+### Union Bank posts steadfast performance in FY2023
+
+*2024-03-01 04:43:00* · [`islandlk`](http://island.lk/union-bank-posts-steadfast-performance-in-fy2023/) · `en`
+
+The year 2023, marked a key milestone for Union Bank with CG Capital Partners Pte. Ltd., indirectly acquiring the majority shareholding through its ownership in Culture Financial Holdings Ltd. CG Capital Partners Pte. Ltd., is an affiliate company of the international powerhouse  CG Corp Global (CG).
+
+The improved macroeconomic outlook during FY2023 positioned Union Bank to better navigate the evolving financial landscape. The Bank recorded a steadfast performance during FY2023, with an improved core banking performance with an 18% increase in gross income. The gross income for the year stood at LKR 22,410 Mn.
+
+...
+
+[Data](articles/72422299.json)
+
+---
+
+### Bank of Ceylon reports Rs. 40.3 billion profit in 2023
+
+*2024-03-01 04:43:00* · [`islandlk`](http://island.lk/bank-of-ceylon-reports-rs-40-3-billion-profit-in-2023/) · `en`
+
+Bank of Ceylon (BOC) reported a Profit Before Tax (PBT) of Rs. 40.3 billion for the year ended 31st December 2023 demonstrating a strong and steady performance across various dimensions, including liquidity, capital, efficiency, profitability and asset quality despite prevailing global and local economic uncertainties.
+
+In a competitive and challenging environment the bank was able to achieve its goals by having a professional and experienced team, which helped to turnaround under-performing business sectors, back into their operations generating profits through the business revival and rehabilitation strategies . This achievement showcases the Bank’s resilience and ability to navigate through challenging times while delivering positive financial results consistently by following the best practices in the banking industry and adopting in to novel technology
+
+...
+
+[Data](articles/94d97f3b.json)
+
+---
+
+### NSB’s GM/CEO Shashi Kandambi honoured by APB
+
+*2024-03-01 04:42:00* · [`islandlk`](http://island.lk/nsbs-gm-ceo-shashi-kandambi-honoured-by-apb/) · `en`
+
+The Association of Professional Bankers (APB) felicitated Ms. Shashi Kandambi, the General Manager and CEO of the National Savings Bank (NSB), for her remarkable achievement in assuming the leadership role at NSB. The felicitation ceremony took place at the Cinnamon Grand Hotel in Colombo, and eminent figures from the banking sector, including APB’s President, B A S H Preena, council members, esteemed members of the APB community and distinguished figures from the banking industry gathered to acknowledge and celebrate Ms. Kandambi’s ascent to the helm of NSB.
+
+Ms. Kandambi, a former president of the APB, has long been recognized for her exemplary contributions to the banking sector. Her illustrious career and unwavering dedication to advancing the industry have earned her widespread acclaim and admiration. The APB expresses its pleasure in welcoming Ms. Kandambi back into its fold, recognizing her as a beacon of excellence and leadership in the banking community.
+
+...
+
+[Data](articles/463ca15d.json)
+
+---
+
+### ரொனி டி மெலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+
+*2024-03-01 03:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரொனி-டி-மெலுக்கு-ஜனாதிபதி-இறுதி-அஞ்சலி/175-334029) · `ta`
+
+சிறந்த அரசியல்வாதியும் தலைசிறந்த பொருளாதார நிபுணருமான மறைந்த முன்னாள் நிதி அமைச்சர் ரொனி டி மெலுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க இறுதி அஞ்சலி செலுத்தியுள்ளார்.
+
+அவரின் உடல் வைக்கப்பட்டுள்ள கொள்ளுப்பிட்டி சார்ள்ஸ் டிரைவில் அமைந்துள்ள இல்லத்திற்கு நேற்று முன்தினம் பிற்பகல் சென்ற ஜனாதிபதி, அன்னாரின் உடலுக்கு இறுதி அஞ்சலி செலுத்தினார். அத்துடன்,  குடும்ப உறுப்பினர்களுக்கு தனது அனுதாபங்களையும் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/f9447df8.json)
+
+---
 
 ### Sri Lanka’s quest for economic independence: Navigating the maze of agricultural exports
 
@@ -453,6 +543,18 @@ Former Health Minister Keheliya Rambukwella and the seven suspects were remanded
 [Data](articles/b30090ba.json)
 
 [Extended Data](ext_articles/b30090ba.ext.json)
+
+---
+
+### Charity; soon drastic water cuts; overseas idiosyncrasies
+
+*2024-02-29 22:17:00* · [`islandlk`](http://island.lk/charity-soon-drastic-water-cuts-overseas-idiosyncrasies/) · `en`
+
+Our President Ranil Wickremesinghe, who goes his own way following Sinatra’s I did it my way; mostly flying across oceans to attend this meeting and that, has again done it his way. He has initiated a million-dollar fund to help children of the Gaza strip. They are in a horrifyingly pitiable state and need all the help they can get, but can a bankrupt country, still far from becoming solvent, extend big charity to the outside world? Also, what about our children of this country driven to poverty by greedy, heartless political bosses who amassed wealth and let the country go to pot as we used to say.
+
+...
+
+[Data](articles/1ba0c882.json)
 
 ---
 
@@ -1855,139 +1957,5 @@ The new MOU between the Sri Lanka Navy and the U.S. Department of Energy’s Nat
 [Data](articles/0a81a8b0.json)
 
 [Extended Data](ext_articles/0a81a8b0.ext.json)
-
----
-
-### Inflation down
-
-*2024-02-29 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193958) · `si`
-
-In February 2024, the country's inflation has fallen to 5.9 percent respectively by the Colombo Consumer Price Index.
-
-In the meantime, food inflation recorded as 3.3% in January 2024, with 3.5% in February.
-
-◼️
-
-[Data](articles/fe3225e9.json)
-
-[Extended Data](ext_articles/fe3225e9.ext.json)
-
----
-
-### Sumanthiran's fundamental rights violation petition dismissed
-
-*2024-02-29 15:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-அடிப்படை-உரிமை-மீறல்-மனு-தள்ளுபடி/175-333998) · `ta`
-
-The Supreme Court has dismissed the fundamental rights petition filed by MP MA Sumanthiran challenging the Speaker's permit to the Celebrity Protection Bill.
-
-A group of judges comprising Justices Priyantha Jayawardena, Shiran Gunaratne and Achala Venkapuli have refused to grant permission to continue the petition in view of the preliminary objections raised by Attorney Sanjay Rajaratnam.
-
-The Attorney General has raised objections that the Supreme Court has no authority to intervene in legislative issues following the Speaker's certification of the Bill passed by Parliament.
-
-In his petition, Sumanthiran has requested the Speaker's Certificate of Certificate to be declared in the ONLINE Security Act.
-
-...
-
-[Data](articles/db6100df.json)
-
-[Extended Data](ext_articles/db6100df.ext.json)
-
----
-
-### Chassi number number Macondama meets a motorbike that destroyed the burnt
-
-*2024-02-29 15:30:25* · [`adalk`](https://www.ada.lk/breaking_news/චැසි-අංක-මකාදාමා-ගිනිතබා-විනාශ-කල-යතුරුපැදියක්-හමුවෙයි/11-408357) · `si`
-
-Police inquiry officials said that the Uragasmanhandiya, Karijasamulla, Karijasamulla, Karijasamulla, Karijasamulla, Karijasamulla, Karigejasulla, Karijasalla, Karijasalla, Karijasamulla, Karijasalla, Karijasalla, Karijasali and Della said.
-
-Recently, Darandeniya Administrative Public Health Inspector Roshan Kumara Withanachchi had reached the murder of Vedithawa.The police suspect that the motorcycle has been a motorbike to kill the murder of the cinnugahahack in Kurundugahahack, or a crime.
-
-◼️
-
-[Data](articles/28dc726e.json)
-
-[Extended Data](ext_articles/28dc726e.ext.json)
-
----
-
-### The new police chief met the president
-
-*2024-02-29 15:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பொலிஸ்மா-அதிபர்-ஜனாதிபதியைச்-சந்தித்தார்/175-333997) · `ta`
-
-Tennakoon, who has been appointed as the new Inspector General of Police, met with President Ranil Wickremesinghe at the Presidential Office today (29).
-
-The President of the Police, Deshabandu, met with the President of the country as the country's 36th police chief.
-
-President Ranil Wickremesinghe, who congratulated the new police chief, discussed with him.
-
-◼️
-
-[Data](articles/8e3c5c1c.json)
-
-[Extended Data](ext_articles/8e3c5c1c.ext.json)
-
----
-
-### “Consistent with him may have been considered before appointing"
-
-*2024-02-29 15:24:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமிக்கும்-முன்-அவருக்கெதிரான-வழக்குகளை-பரிசீலித்திருக்கலாம்/175-333996) · `ta`
-
-The United People's Power Council today accused the patriarchal court cases of being considered against him when he was appointed as the Inspector General of Police.
-
-“For the first time in the history of Sri Lanka. The pending court cases should have been considered when making this appointment, ”SJB General Secretary Ranjith Mathuma Bandara said in a statement today.
-
-“The current police chief has been accused of disappearance at the president's palace during the Arakalaya. Human rights violation petitions have been filed against him, ”he added.
-
-◼️
-
-[Data](articles/c4e2f583.json)
-
-[Extended Data](ext_articles/c4e2f583.ext.json)
-
----
-
-### Recognition of Sri Lanka as the leading country globally
-
-*2024-02-29 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகளாவிய-ரீதியில்-இலங்கை-முன்னணி-நாடாக-அங்கீகரிப்பு/175-333995) · `ta`
-
-In the sixth session of the United Nations Environmental Council (UNEP), Sri Lanka was recognized globally in the restoration of swamps.
-
-The conference was held at the headquarters of the United Nations Environmental Program (UNEP) in Nairop, Kenya, representing Sri Lanka and the President's Senior Advisor to Climate Change Ruwan Wiwan Wiwanwardhana.
-
-Dr. Anil Jasinghe, Secretary of the Ministry of Environment, received the award for Sri Lanka.
-
-The sixth session of the United Nations Environment Organization was held to emphasize the importance of global cooperation to address the three crises of climate change, loss of biology and environmental pollution.
-
-It was pointed out that Sri Lanka could be taken as a global role model in the restoration efforts of the permanent representatives to officially launch the session.
-
-...
-
-[Data](articles/993ace3c.json)
-
-[Extended Data](ext_articles/993ace3c.ext.json)
-
----
-
-### German Parliamentary delegation to visit Sri Lanka
-
-*2024-02-29 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-Parliamentary-delegation-to-visit-Sri-Lanka/108-277965) · `en`
-
-A four-member delegation of the German Parliament led by former Federal Minister Renate Kuenast, is scheduled to pay an official visit to Sri Lanka from March 1 to 5, 2024.
-
-The multi-party delegation will hold several official meetings during their stay.
-
-They are expected to have discussions with Minister of Foreign Affairs M. U. M. Ali Sabry, Speaker Mahinda Yapa Abeywardena as well as with the Leader of the Opposition Sajith Premadasa.
-
-The delegation will discuss with the newly appointed office bearers of the Sri Lanka – Germany Parliamentary Friendship Association how to establish a regular exchange between MPs of both countries.
-
-Discussions will also be held with country representatives of International Financial Institutions, of civil society/think tanks and with the business community.
-
-A visit to one of our flagship projects in Sri Lanka, the Ceylon German Technical Training Institute in Moratuwa (German Tech) is also an important part of their schedule.
-
-...
-
-[Data](articles/c0c8084d.json)
-
-[Extended Data](ext_articles/c0c8084d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 21:33:16**
+As of **2024-03-01 22:03:16**
 
 ## Newspaper Stats
 
-*Scraped **10,322** Articles*
+*Scraped **10,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ dailyftlk | 542
 islandlk | 544
 adalk | 876
 adaderanalk | 1,253
-tamilmirrorlk | 1,256
+tamilmirrorlk | 1,257
 virakesarilk | 1,404
-dailymirrorlk | 1,565
-adaderanasinhalalk | 1,585
+dailymirrorlk | 1,567
+adaderanasinhalalk | 1,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,318 (100.0%) of 10,322 articles have been extended.
+10,322 (100.0%) of 10,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### මංජුගේ හිසටම එල්ල වූ වෙඩිල්ල -CCTV
+
+*2024-03-01 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194025) · `si`
+
+කොස්ගොඩ සුජී නම් පාතාල කල්ලි සාමාජිකයාගේ ඥාතී සහෝදරයෙකු අද (01) අදහවල් අහුංගල්ලේදී වෙඩි තබා ඝාතනය කර තිබේ.
+
+ලොකු පැටී නම් අපරාධකරුගේ පාර්ශ්වය විසින් බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට පළිගැනීමක් ලෙස මෙය සිදුකර ඇති බවට සැක කරන බව ආරක්ෂක අංශ පවසයි.
+
+අහුංගල්ලේදී අද දහවල් 12.30ට පමණ ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු මෙම වෙඩි තැබීම සිදුකර තිබේ.
+
+රිවෝල්වර් වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදුකර තිබූ අතර වෙඩික්කරුවන්ගේ ඉලක්කය වී තිබුණේ ඉදිකෙරෙමින් පවතින වෙළෙඳසැලක් අසල සිටි පුද්ගලයෙකි.
+
+මේ වෙඩික්කරුවන් ප්‍රහාරය සඳහා පැමිණෙන අයුරු දැක්වෙන CCTV දර්ශන පෙළකි.
+
+වෙඩික්කරු අදාළ වෙළඳසැල අසලට පැමිණ යතුරුපැදියෙන් බැස අනතුරුව නැව ඒ වෙත ගොඩ වේ.
+
+පසුව වෙළෙඳසැල තුළ සිටි අයෙක් පැමිණ යම් කිසි දෙයක් පවසා එම ස්ථානයෙන් දිවයෑමක් සමග වෙඩික්කරු ‍වෙළෙඳසැල තුළට දිව ගොස් එක් වෙඩි ප්‍රහාරයක් එල්ල කර තිබේ.
+
+අනතුරුව හිස් පතොරම් කොපුවද රැගෙන වෙඩික්කරු යතුරුපැදියේ නැග පළා යයි.
+
+වෙඩි තැබීම සිදුකර පළා යන අයුරුද CCTV කැමරාවක සටහන්ව තිබිණි මෙලෙසිනි.
+
+...
+
+[Data](articles/534abe32.json)
+
+---
+
+### சர்ச்சைக்குரிய தடுப்பூசி இறக்குமதி - வைத்தியர் சமன் ரத்நாயக்க கைது
+
+*2024-03-01 21:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-தடுப்பூசி-இறக்குமதி-வைத்தியர்-சமன்-ரத்நாயக்க-கைது/175-334060) · `ta`
+
+சுகாதார அமைச்சின் மருத்துவப் பொருட்கள் மற்றும் மருந்து வழங்கல் ஒழுங்குமுறை மேலதிக செயலாளர்  வைத்தியர் சமன் ரத்நாயக்க குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+சர்ச்சைக்குரிய இம்யூனோகுளோபுலின் தடுப்பூசி இறக்குமதி செய்யப்பட்ட விவகாரம் தொடர்பில்  இவர் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/ae5e5cfa.json)
+
+---
+
+### Sri Lanka’s trade deficit expands in January
+
+*2024-03-01 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-trade-deficit-expands-in-January/108-278048) · `en`
+
+Colombo, March 01 (Daily Mirror) - Sri Lanka’s merchandise trade deficit in January widened to US$ 514 million from US$ 445 million in the corresponding month the previous year due to a higher increase in imports.
+
+Provisional data released by the Central Bank this week showed that earnings from merchandise exports recorded a marginal decline of 0.8 percent Year-on-Year (YoY) to US$ 971 million in January 2024 compared to US$ 978 million in January 2023.
+
+In terms of merchandise imports, expenditure increased by 6.2 percent YoY to US$ 1,512 million in January 2024
+
+The increase in expenditure on consumer goods and investment goods partly driven by the relaxation of import restrictions contributed to this increase, the Central Bank said
+
+◼️
+
+[Data](articles/22d3d1f6.json)
+
+---
 
 ### Alexei Navalny buried in Moscow as thousands chant his name
 
@@ -50,6 +110,8 @@ The authorities have outlawed his movement as extremist and cast his supporters 
 
 [Data](articles/769ee496.json)
 
+[Extended Data](ext_articles/769ee496.ext.json)
+
 ---
 
 ### President promises to safeguard Sri Lanka’s economic initiatives in Indian Ocean
@@ -67,6 +129,8 @@ As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a
 ...
 
 [Data](articles/b9d08e02.json)
+
+[Extended Data](ext_articles/b9d08e02.ext.json)
 
 ---
 
@@ -318,19 +382,25 @@ The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 mo
 
 ---
 
-### කිසිම ඖෂධ වංචාවකට ඉඩක් නෑ
+### No drug cheat
 
 *2024-03-01 19:05:18* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-ඖෂධ-වංචාවකට-ඉඩක්-නෑ/11-408378) · `si`
 
-කිසිදු ඖෂධ වංචාවක්  සිදුවීමට ඉඩ නොතබන බව සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා අවධාරණය  කරයි. අමාත්‍යවරයා මේ බව අවධාරණය කරන ලද්දේ අද දින (01) ගම්පහ දිස්ත්‍රික් මහ රෝහලේ විශේෂ නිරීක්ෂණ චාරිකාවකට එක් වෙමින් අනතුරුව මාධ්‍ය  වෙත අදහස් දක්වමින්ය.
+Minister of Health and Industry Dr. Ramesh Pathiran said that no drug fraud is not allowed to take place.. The Minister was emphasized a special inspection tour of the Gampaha District today (01) and addressing the media.
 
-වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා කියා සිටියේ දැනට හිඟව පවතින ඖෂධ ඉදිරි මාස 06 ක වැනි කාලසීමාව තුල යථාවත් වනු ඇති බවය. නියමිත ප්‍රසම්පාදන ක්‍රියාවලිය පමණක් අනුගමනය කරන බවත්, දීර්ඝ කාලයක් ගත වන ප්‍රසම්පාදන ක්‍රියාවලියට  විවිධ පාර්ශ්ව ගණනාවක් සම්බන්ධ වන බවත්, මේ සියල්ල විනිවිදභාවයකින් සිදුවන බවද පැවසීය.
+Speaking further the Minister said that there will be no reality within the period of six months of the next six months. He said only a number of parties involved in the prompt procurement process will be involved in the procurement process.
 
-රෝහල් වල ස්කෑන් යන්ත්‍ර අබලන්වීම පිළිබදව අදහස් දක්වමින් සෞඛ්‍ය අමාත්‍යවරයා කියා  සිටියේ එම ස්කෑන් යන්ත්‍රයට අවශ්‍ය උපකරණ ලංකාවට ගෙන්වීමට පියවර ගෙන ඇති බවත්, ඉදිරි සති දෙකක කාලය ඇතුලත එම ගැටළුව නිරාකරණය වෙනු ඇති බවයි. මෙරට තිබෙන සීටි ස්තෑන් යන්ත්‍ර 46 ක වැනි ප්‍රමාණයකින් 03 ක පමණ ගැටළු ඇති බවත්, එම ගැටළු නිරාකරණය කරගෙන යන බවද කීහ.
+Speaking about the scanning scanning machine in hospitals said that the scanner had taken steps to import the necessary equipment to Sri Lanka within the next two weeks.. There are about three issues of 46 Siet tables in the country and that they are resolved.
 
-...
+The Ministry of Finance will take action to hold discussions with the Ministry of Finance and the Ministry of Health in the health sector.
+
+The Minister also said that a hospitals surrounding in Gampaha and Mirigama, Gampaha and Mirigama will be held today.
+
+◼️
 
 [Data](articles/5b20b8cb.json)
+
+[Extended Data](ext_articles/5b20b8cb.ext.json)
 
 ---
 
@@ -1886,25 +1956,29 @@ Police also mentioned that they were planning to buy the house in question as we
 
 ---
 
-### 'මම ලියන හැටි' : චන්දි කොඩිකාර
+### 'How I Write': Chandi Kodikara
 
 *2024-03-01 12:19:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4lye1rqrpo) · `si`
 
-චන්දි කොඩිකාර යනු සිංහල පාඨකයන්ගේ සුවිශාල ආදරයකට ලක් වන නවකතාකාරියකි. හිම යායක මල් පිපිලා නවකතාවෙන් ඇරඹෙන ඇගේ නවකතාකරණය සාහිත්‍ය වෙත එක් කර ඇති නවකතා ගණන මෙහි සඳහන් කළ නොහැකි තරමට සුවිශාලය.
+Chandi Kodarakara is a novelist in Sinhala readers. The largest number of novels that start at the novels of the snow who begins with a snow-hired novel, is the largest number of novels to literature.
 
-මා ඇය සමග කතාබහක යෙදෙන්නේ නවකතාකාරියක ලෙස ඇය ලේඛනයේ යෙදෙන විට ඇයට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඇයට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
 
-මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+It is well known for all writer's writing process.
 
-ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+Where writing, how to write, how to write, and the joy of writing, the writer's abstinence. The conversation is seeking to pointer to that secret site of the newcomers.
 
-පළමු සංවාදය-'මම ලියන හැටි':නෝබට් අයගමගේදෙවන සංවාදය : 'මම ලියන හැටි': සුරත් ද මැල්තුන්වන සංවාදය: 'මම ලියන හැටි': කත්‍යානා අමරසිංහ
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+Easybalance: As usual, I ask you to start with the beginning of a novel. Can you say something about how your novels write the first sentence?
 
 ...
 
 [Data](articles/0c0b2fe1.json)
+
+[Extended Data](ext_articles/0c0b2fe1.ext.json)
 
 ---
 
@@ -1993,61 +2067,5 @@ The construction of the first wildlife tank in Sri Lanka was commenced this morn
 [Data](articles/c65ca814.json)
 
 [Extended Data](ext_articles/c65ca814.ext.json)
-
----
-
-### 22 Can the young man drive on the train?Did the train collide?
-
-*2024-03-01 12:00:34* · [`adalk`](https://www.ada.lk/breaking_news/22-හැවැරිදි-තරුණයා-දුම්රියට-පැන්නාද--දුම්රියේ-ගැටුණාද-/11-408371) · `si`
-
-The Ella Police have killed a young man who had been hit by a train from Badulla to Colombo today 29.
-
-A resident of Udaku Hawankura, Haliela, has died. The youth will investigate the train to find out whether he had about the train.
-
-The body was found at about 200 meters from the Ella railway station to Badulla.Falls are conducting further investigations.
-
-◼️
-
-[Data](articles/58ae3158.json)
-
-[Extended Data](ext_articles/58ae3158.ext.json)
-
----
-
-### Police blockade at South Korean Medical Society offices
-
-*2024-03-01 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177656) · `ta`
-
-South Korean police today held blockade on the offices of the Korean Doctors Association.The strike by South Korean doctors has caused confusion in hospitals.
-
-About 10,000 junior doctors were involved in last week's work.Junior doctors have been engaged in work against the government's decision to increase the number of students admitted to medical colleges
-
-The South Korean government has set a deadline for doctors to return to work before Thursday.
-
-The South Korean Ministry of Health has said that there are no official data relating to the return of the job.. However, Johnhab News Service said that those involved in the boycott will continue to be boycotted.
-
-The South Korean Health Ministry said that 50 percent of surgery was canceled in 15 major hospitals last week.
-
-◼️
-
-[Data](articles/a2a489c0.json)
-
-[Extended Data](ext_articles/a2a489c0.ext.json)
-
----
-
-### Central Bank bosses summoned to party leaders
-
-*2024-03-01 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193999) · `si`
-
-Officials of the Central Bank Officers of the Central Bank Officers will be viewed on Tuesday (05). It has been decided to be summoned to the party leadership meeting at 10.30 pm.
-
-It has been decided at the Committee on Parliamentary Business (01).
-
-◼️
-
-[Data](articles/c5146fbe.json)
-
-[Extended Data](ext_articles/c5146fbe.ext.json)
 
 ---

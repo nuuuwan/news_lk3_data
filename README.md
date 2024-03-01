@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 01:34:06**
+As of **2024-03-02 01:50:48**
 
 ## Newspaper Stats
 
-*Scraped **10,352** Articles*
+*Scraped **10,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 542
 islandlk | 544
-dailyftlk | 557
+dailyftlk | 560
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
-virakesarilk | 1,410
+virakesarilk | 1,412
 dailymirrorlk | 1,568
 adaderanasinhalalk | 1,588
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,352 (100.0%) of 10,352 articles have been extended.
+10,352 (100.0%) of 10,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Indo-Lanka deal signed for hybrid renewable energy systems in Delft, Nainativu, and Analaitivu islands
+
+*2024-03-02 01:10:36* · [`dailyftlk`](https://www.ft.lk/news/Indo-Lanka-deal-signed-for-hybrid-renewable-energy-systems-in-Delft-Nainativu-and-Analaitivu-islands/56-759088) · `en`
+
+Sri Lanka Sustainable Energy Authority, Government of Sri Lanka, and U Solar Clean Energy Solutions Ltd., yesterday signed the contract for the implementation of Hybrid Renewable Energy Systems in Delft, Nainativu, and Analaitivu islands off Jaffna.
+
+Indian High Commissioner Santosh Jha and Minister of State for Power and Energy Indika Anuruddha witnessed the signing.
+
+The project, which is aimed at addressing energy needs of the people of the three islands, is being executed through grant assistance from Government of India (GOI). The hybrid project combines various forms of energy including both solar and wind, towards optimising capacities.
+
+...
+
+[Data](articles/5f320174.json)
+
+---
+
+### Govt. to lower Special Commodity Tax on dates for Ramadan
+
+*2024-03-02 01:09:49* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-lower-Special-Commodity-Tax-on-dates-for-Ramadan/56-759087) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says levy to be slashed from Rs. 200 per kilo to Rs. 1
+
+State Minister of Finance Ranjith Siyambalapitiya yesterday announced that the Special Commodity Tax on dates imported for Ramadan will be reduced within the next couple of days.
+
+The move aims to alleviate the financial burden on consumers during the religiously significant period.
+
+“At present, a Special Commodity Tax of Rs. 200 per kilo is levied on imported dates. This will be slashed to Rs. 1 per kilo providing substantial relief to the consumers,” he added.
+
+Siyambalapitiya said to avail this tax reduction, the importers must obtain prior permission from the Religious Affairs Ministry Secretary. “The requirement will ensure the tax relief is targeted specifically towards goods intended for Ramadan observances,” he stressed.
+
+◼️
+
+[Data](articles/da3c9896.json)
+
+---
+
+### Heated arguments take place in SC as Court dismisses FR bribery case filed by former CEA Chairman
+
+*2024-03-02 01:08:37* · [`dailyftlk`](https://www.ft.lk/news/Heated-arguments-take-place-in-SC-as-Court-dismisses-FR-bribery-case-filed-by-former-CEA-Chairman/56-759086) · `en`
+
+The Supreme Court recently dismissed the FR application filed by Supun Shashindra Pathirage, the former Chairman of the Central Environmental Authority without granting leave to proceed. The application had been filed against the Commission to Investigate Allegations of Bribery Or Corruption, its three former members, Justice Eva Wanasundara, Justice Deepali Wijesundera, Chandra Nimal Wakishta and also against newly appointed members Justice W.M.N.P. Iddawala (Chairman), Chethiya Gunasekera PC and K.B. Rajapaksa.
+
+According to papers filed in the FR application the CEA Chairman had been arrested together with former Parliamentarian Anuruddha Polgampola and another, who had been remanded thereafter by the Magistrate.
+
+...
+
+[Data](articles/dd9fa9fe.json)
+
+---
+
+### அதோ முகம் - விமர்சனம்
+
+*2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177719) · `ta`
+
+நடிகர்கள் : எஸ்.பி. சித்தார்த், சைதன்ய பிரதாப், அருண் பாண்டியன், ஆனந்த் நாக், மேத்யூ வர்கீஸ் மற்றும் பலர்.
+
+புதுமுக படைப்பாளிகளின் படைப்புகள் எப்போதும் வீரியமிக்கதாகவும், அடர்த்தியான திரைக்கதையை கொண்டதாகவும் அமைந்திருக்கும். அந்த வகையில் அறிமுக இயக்குநர் சுனில் தேவ் இயக்கத்தில் உருவாகி இருக்கும் 'அதோ முகம்' எனும் க்ரைம் வித் சஸ்பென்ஸ் திரில்லர் ஜேனரிலான திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+...
+
+[Data](articles/2f8afe8f.json)
+
+---
+
+### சத்தமின்றி முத்தம் தா - விமர்சனம்
+
+*2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177718) · `ta`
+
+நடிகர் ஸ்ரீகாந்த் சிறிய இடைவெளிக்கு பிறகு எதிர்மறையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சத்தமின்றி முத்தம் தா' எனும் திரைப்படம் அனைத்து தரப்பு ரசிகர்களின் எதிர்பார்ப்பை நிறைவு செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+படத்தின் நாயகியான சந்தியா (பிரியங்கா திம்மேஷ்) வை ஒரு உருவம் கொலை செய்ய முயற்சிக்கிறது. அவரது வீட்டிலிருந்து தப்பித்து வீதியில் ஓட தொடங்குகிறாள். அப்போது ஒரு வாகனம் அவள் மீது மோதி விபத்தை ஏற்படுத்தி விட்டு செல்கிறது.
+
+ஒரு மணி நேரத்திற்குள் விபத்தில் அடிபட்ட சந்தியாவை அவளது கணவனான ரகு வைத்தியசாலையில் அனுமதித்து அவரது உயிரை காப்பாற்றுகிறார். உயிர் பிழைத்தாலும் சந்தியா தன்னுடைய கடந்த கால நினைவுகள் அனைத்தையும் இழக்கிறார். கணவர் உட்பட எவரையும் அவளால் அடையாளம் காண முடியவில்லை.
+
+தன் கணவன் ரகு என அறிமுகமாகும் ஸ்ரீகாந்தை தன் கணவன் என நம்பத் தொடங்குகிறாள். சில மாதங்களுக்குப் பிறகு எதிர்பாராத விதமாக அவளது தோழி சந்தியாவை சந்திக்கிறார். அவர் கணவர் ரகுவின் திருமண புகைப்படத்தை வாட்ஸப்பில் அனுப்புகிறார்.
+
+...
+
+[Data](articles/522bd5d4.json)
+
+---
 
 ### Sri Lanka, India hold Joint Working Group meeting for cooperation in power sector
 
@@ -1953,107 +2035,5 @@ Duly completed applications must be handed over to the principal before March 07
 [Data](articles/4f72c976.json)
 
 [Extended Data](ext_articles/4f72c976.ext.json)
-
----
-
-### Petition demanding legal action against Nilantha Jayawardena
-
-*2024-03-01 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194006) · `si`
-
-The former Chief of the State Intelligence Service on the terrorist attack on the Easter is issued to Senior DIG Nilantha Jayawardena has filed a film from the Court of Appeal.
-
-Senior DIG Nilantha Jayawardena and the Attorney General have been named as the respondents.
-
-◼️
-
-[Data](articles/a0858ef8.json)
-
-[Extended Data](ext_articles/a0858ef8.ext.json)
-
----
-
-### Rajiv Gandhi assassination case convict Santhan’s body flown to Sri Lanka
-
-*2024-03-01 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97658/rajiv-gandhi-assassination-case-convict-santhans-body-flown-to-sri-lanka) · `en`
-
-The body of Sri Lankan national Santhan, a former convict in the Rajiv Gandhi assassination case, was flown to Sri Lanka from India on Friday for last rites, his counsel Pugazhendi said.
-
-The embalmed body, draped and kept in a coffin, was sent on a flight to the island nation amidst heavy police protection. Santhan’s mortal remains would be taken to his house in Sri Lanka, his counsel Pugazhendhi said.
-
-His mortal remains were handed over by the authorities following completion of all formalities after he died early on February 28 at the Rajiv Gandhi Government General Hospital here due to a cardiac arrest. Santhan had been battling for his life for nearly a month due to liver failure diagnosed by the doctors at RGGGH as cryptogenic cirrhosis - a condition with no apparent underlying reason.
-
-His brother and his counsel were by his side when he breathed his last.
-
-...
-
-[Data](articles/5a763ffa.json)
-
-[Extended Data](ext_articles/5a763ffa.ext.json)
-
----
-
-### Imran pro -Ali Ameen elected as Chief Minister
-
-*2024-03-01 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177675) · `ta`
-
-Imran Khan's BRI is the Chief Minister of Pakistan's Khyber Pakhtunkhwa Province.Party member Ali Amin Cantapur has been elected.
-
-The BRI in the election held on February 8 for the Assembly. 87 supported independent candidates and Nawaz Sharif's BML. - My and JUM. On behalf of the parties, nine people, Sardari's PPP. 4 candidates and the BRIP. Both members and one of the Awami League won.
-
-In this context, the BRI in the election for the post of Chief Minister. On behalf of Ali Amin Kandapur, Ibadullah Khan contested on behalf of BML-N.
-
-Ali Amin Cantapur won 90 votes in the election. Ibadullah got 16 votes.
-
-After being elected as the Chief Minister, Ali Amin Kantapur said, 'We must stand on our own feet. Cannot receive loans. He said we should increase our tax revenue and provide relief to the poor.
-
-As well as the B.I.. He also said that the Pakistan Election Commission would give a week's time to withdraw the complaints against volunteers within a week.
-
-◼️
-
-[Data](articles/12b8250d.json)
-
-[Extended Data](ext_articles/12b8250d.ext.json)
-
----
-
-### Sri Lanka Nawaloka Hospital gets court order to stop asset sale
-
-*2024-03-01 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-nawaloka-hospital-gets-court-order-to-stop-asset-sale-152689/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Nawaloka Hospital Plc, said the Court of Appeal had issued an interim order on February 28, preventing Hatton National Bank Plc from taking parate action against its subsidiary, Nawaloka Hospitals PLC.
-
-“New Nawaloka Medical Centre (Pvt) Ltd had filed action in the Commercial High Court on 17.05.2023 bearing Case No. CHC 118/23 MR requesting inter alia an Injunction against the proposed auction of the mortgaged property, i.e. part of the premises of the Nawaloka Hospital complex in Colombo 02, by Hatton National Bank PLC,” it said in a stock exchange filing.
-
-The Court refused the requested injunction on February 22, but the Court of Appeal had issued an interim order.
-
-“On 28.02.2024, the Court of Appeal in CA RII-0024-24 issued an Interim Order preventing inter alia Hatton National Bank PLC from auctioning the property and/or leasehold rights of the property in issue,” the healthcare provider said.
-
-...
-
-[Data](articles/9a6a6e40.json)
-
-[Extended Data](ext_articles/9a6a6e40.ext.json)
-
----
-
-### Plan to give electricity to three islands in Jaffna
-
-*2024-03-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194005) · `si`
-
-Agreements have been signed today (01) to install the Hybrid Renewable Energy Systems of 03 Islands in Jaffna.
-
-The Government of India has been awarded US $ 10.995 million.
-
-Under this project, by March 2025, the power will be provided by March 2025 for the Delft, Andalawa and Nainathivu Islands.
-
-Troops of 530 kW of solar power, which is 2000 kg of solar powers, generates 2500 kWs and diesel using the e-powers.
-
-Minister of Power and Energy Kanchana Wijesekara said this project was implemented by USlar.
-
-◼️
-
-[Data](articles/affcefe3.json)
-
-[Extended Data](ext_articles/affcefe3.ext.json)
 
 ---

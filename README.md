@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 23:06:55**
+As of **2024-03-01 23:17:36**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,331 (100.0%) of 10,332 articles have been extended.
+10,332 (100.0%) of 10,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### குசல் பெரேராவுக்குப் பதில் நிரோஷன் திக்வெல்ல
+### Niroshan Dikwella in response to Gusal Perera
 
 *2024-03-01 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177713) · `ta`
 
-பங்களாதேஷுக்கு எதிராக திங்கட்கிழமை (04) ஆரம்பமாகவுள்ள சர்வதேச ரி20 கிரிக்கெட் தொடருக்கான இலங்கை குழாத்தில் இணைத்துக்கொள்ளப்பட்டிருந்த குசல் ஜனித் பேரேரா அத் தொடரில் பங்குபற்ற மாட்டார் என ஸ்ரீலங்கா கிரிக்கெட் வெள்ளிக்கிழமை (01) மாலை அறிவித்தது.
+Sri Lanka Cricket announced on Friday evening that Kusal Janith Perera, who had been recruited in the Sri Lankan squad for the International R20 Cricket Series, which began on Monday (04), will not participate in the series.
 
-பிரதான கழகங்களுக்கு இடையிலான மட்டுப்படுத்தப்பட்ட ஓவர் கிரிக்கெட் போட்டிகளில் நிரோஷன் திக்வெல்ல துடுப்பாட்டத்திலும் விக்கெட்காப்பிலும் திறமையை வெளிப்படுத்தியதை அடுத்து அவருக்கு இலங்கை குழாத்தில் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+He has been given the opportunity to showcase Niroshan Dikwella in the limited over -cricket match between the main clubs and shifted the wicket.
 
-சுமார் 3 வருடங்களுக்குப் பின்னர் அவர் சர்வதேச ரி20 கிரிக்கெட் குழாத்தில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.  இங்கிலாந்துக்கு எதிராக சவுத்ஹாம்ப்டனில் 2021 ஜூன் மாதம் நடைபெற்ற சர்வதேச ரி20 கிரிக்கெட் தொடரிலேயே கடைசியாக  அவர்  விளையாடி இருந்தார்.
+About 3 years later, he has been recruited in the International T20 cricket team.He was the last to play in the International R20 cricket series in June 2021 in South Hampton against England.
 
 ◼️
 
 [Data](articles/21be2ccf.json)
+
+[Extended Data](ext_articles/21be2ccf.ext.json)
 
 ---
 

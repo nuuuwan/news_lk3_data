@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 03:17:34**
+As of **2024-03-02 03:32:55**
 
 ## Newspaper Stats
 
-*Scraped **10,360** Articles*
+*Scraped **10,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
 virakesarilk | 1,412
-dailymirrorlk | 1,571
+dailymirrorlk | 1,572
 adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,360 (100.0%) of 10,360 articles have been extended.
+10,360 (100.0%) of 10,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Petition filed urging appropriate action against Nilantha Jayawardena
+
+*2024-03-02 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Petition-filed-urging-appropriate-action-against-Nilantha-Jayawardena/108-278056) · `en`
+
+Colombo, March 1 (Daily Mirror) - The Centre for Society and Religion yesterday filed a writ petition in the Court of Appeal seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardena for his omission and serious dereliction of duty which led to the Easter Sunday bombing in 2019.
+
+The Centre for Society and Religion, its Chairman Fr. Rohan Silva and Surach Nilanga, a victim of the Easter Sunday attack, filed this petition naming Inspector General of Police (IGP), Senior DIG Nilantha Jayawardena and the Attorney General as respondents.
+
+The petitioners are seeking a Writ of Mandamus, directing the IGP and the Attorney General to forthwith take steps to initiate appropriate action to facilitate the carrying out of the findings and recommendations of the Presidential Commission of Inquiry appointed in connection with the Easter Sunday attacks.
+
+◼️
+
+[Data](articles/15815659.json)
+
+---
 
 ### Ronnie De Mel  the socialist who created a capitalist economy
 
@@ -2035,23 +2051,5 @@ Highlighting Sri Lanka’s historical commitment to safeguarding world peace and
 [Data](articles/f334567a.json)
 
 [Extended Data](ext_articles/f334567a.ext.json)
-
----
-
-### India funds electricity project in Sri Lanka’s northern islands
-
-*2024-03-01 14:47:00* · [`economynextcom`](https://economynext.com/india-funds-electricity-project-in-sri-lankas-northern-islands-152707/) · `en`
-
-ECONOMYNEXT – Sri Lanka and India signed an agreement for the development of a hybrid renewable energy system in three islands in Jaffna, today, the Minister of Power and Energy said.
-
-“Under a full financial grant of USD 10.995 million extended by the Government of the Republic of India, Delft, Analativu and Nainativu Islands will receive the hybrid renewable energy system by March 2025” Kanchana Wijesekera said on x (twitter).
-
-The project comprising 530kw wind power, 1,700kw solar power, 2,400kwh battery power and a 2,500kw of stand-by diesel power system, will be constructed on the three northern islands by USOLAR, Wijesekera said. (Colombo/Mar1/2024)
-
-◼️
-
-[Data](articles/4cef5e10.json)
-
-[Extended Data](ext_articles/4cef5e10.ext.json)
 
 ---

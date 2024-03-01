@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 16:02:43**
+As of **2024-03-01 16:17:37**
 
 ## Newspaper Stats
 
-*Scraped **10,250** Articles*
+*Scraped **10,259** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
-bbccomsinhala | 123
+bbccomsinhala | 124
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 528
@@ -17,20 +17,108 @@ dailyftlk | 542
 islandlk | 544
 adalk | 872
 adaderanalk | 1,243
-tamilmirrorlk | 1,248
+tamilmirrorlk | 1,251
 virakesarilk | 1,398
-dailymirrorlk | 1,553
-adaderanasinhalalk | 1,569
+dailymirrorlk | 1,556
+adaderanasinhalalk | 1,571
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,248 (100.0%) of 10,250 articles have been extended.
+10,250 (99.9%) of 10,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### උණුසුම් තත්ත්වය ගැන කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
+
+*2024-03-01 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194010) · `si`
+
+ඒ අනුව වයඹ, බස්නාහිර, දකුණු, සබරගමුව යන පළාත්වලට සහ මන්නාරම දිස්ත්‍රික්කය සඳහා ඉදිරි පැය 24 දක්වා එම නිවේදනය බලපැවැත්වේ.
+
+ඉහත සඳහන් ප්‍රදේශවල ඇතැම් ස්ථානවලට උණුසුම් දර්ශකය, එනම් මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇතැයි කාලගුණ අංශ අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/917dd6fa.json)
+
+---
+
+### India grants over USD 10 Mn for Hybrid Renewable Energy System on Jaffna islands
+
+*2024-03-01 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-grants-over-USD-10-Mn-for-Hybrid-Renewable-Energy-System-on-Jaffna-islands/108-278040) · `en`
+
+Colombo, March 01 (Daily Mirror) - The Indian Government has extended a full financial grant totaling USD 10.995 million for the development of a Hybrid Renewable Energy System across three islands in Jaffna.
+
+According to Power and Energy Minister Kanchana Wijesekera, the islands of Delft, Analativu and Nainativu are set to benefit from this initiative, with the hybrid renewable energy system slated for completion by March 2025.
+
+The project encompasses the construction of a comprehensive energy system, including 530 kW of wind power, 1700 kW of solar power, 2400 kWh of battery power, and 2500 kW of standby diesel power systems across the three islands. This endeavor will be facilitated by USOLAR, a prominent energy solutions provider.
+
+◼️
+
+[Data](articles/da2183c5.json)
+
+---
+
+### நின்றிருந்த சுவர் இடிந்து விழுந்ததில் இளைஞன் பலி
+
+*2024-03-01 15:39:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/நின்றிருந்த-சுவர்-இடிந்து-விழுந்ததில்-இளைஞன்-பலி/94-334052) · `ta`
+
+உடப்பு. ஆண்டிமுனைக் கிராமத்தில்  உடைக்கப்பட்ட வீடொன்றின் பகுதியளவில் நின்றிருந்த சுவற்றின் அருகில் நின்று கொண்டிருந்த உடப்பு ஐந்தாம் வட்டாரத்தைச் சேர்ந்த 18 வயதுடைய முத்துச் செல்வம் தனுஜன் என்ற இளைஞன் மீது அந்த சுவர் இடிந்து விழுந்ததில் அவ்விளைஞன் உயிரிழந்துள்ளார்.
+
+உடப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக   சிலாபம் பொது வைத்தியசாலைக்கு மாற்றப்பட்ட போதிலும் அந்த இளைஞன் அங்கு சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வியாழக்கிழமை (29) இடம்பெற்ற சம்பவத்தில் மரணமடைந்த இளைஞனின்,  சடலம் பிரேத பரிசோதனைக்காக சிலாபம் பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் , உடப்பு பொலிஸார் மேலதிக விசாரனைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1f3c225c.json)
+
+---
+
+### ආහාර වෙනුවට ගාසා තීරයට වෙඩි
+
+*2024-03-01 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194009) · `si`
+
+ගාසා තීරයේ ඊශ්‍රායල - හමාස් යුද්ධය ජාත්‍යන්තර මානුෂීය නීතිය, යුද නීතිය, මානව හිමිකම් දර්ශක සියල්ල අභිභවා යමින් දැන් මාස 05කට අධික කාලයක් ක්‍රියාත්මක වේ.
+
+ඒ අතරින් කිසි ලෙසකින් හෝ විස්තර කිරීමට අපහසු තරම් දරුණු ඛේදවාචකයක් ගාසා තීරය උතුරු කොටසේ ගාසා නගරයෙන් ඊයේ (29) වාර්තා විය.
+
+එම සිද්ධිය සංක්ෂිප්ත ව හැඳින්වුව හොත් මිනිස් වර්ග‍යාගේ මිනිසත්කම බිඳවැටීමක් ලෙස එය හැඳින්වීම වරදක් නොවේ.
+
+කුසගින්නට අහරක්, දිය බිඳක් පතා ගාසා නගරය ආසන්නයේ වීථිවලට එක්රැස් වූ දහස් සංඛ්‍යාත පලස්තීන ජනතාවට ඊශ්‍රායල හමුදාව වෙඩි තැබීමෙන් අවම වශයෙන් 112 දෙනෙකු ජීවිතක්ෂයට පත් වීම එම සිද්ධියයි.
+
+තවත් 280 දෙනෙකු පමණ තුවාල ලබා ඇති බව වාර්තා වූ අතර, රෝහල් ආරංචි මාර්ග සඳහන් කළේ, තුවාල ලැබූවන් සංඛ්‍යාව 700 ඉක්මවන බවයි.
+
+ඊයේ (29) අලුයම් කාලයේ වාර්තා වූ එම සිද්ධිය සම්බන්ධයෙන් ඊශ්‍රායල හමුදාව සපුරුදු පරිදි නිදහසට කරුණු දැක්වීමක් සිදු කර තිබිණි.
+
+ඊශ්‍රායල හමුදා ප්‍රකාශකයා කියා සිටියේ, පළමුව තමන් රැගෙන ආ ආධාර ට්‍රක්රථ වටකරගත් පලස්තීනුවන් තෙරපී හෝ වාහනවලට යට වී මිය ගිය අතර, දෙවනුව තම සෙබළුන්ට තර්ජනයක් වූ පලස්තීනුවන්ට වෙඩි තැබීමට සිදු වූ බවයි.
+
+...
+
+[Data](articles/276d495c.json)
+
+---
+
+### Sri Lanka accelerates efforts to combat Cervical Cancer
+
+*2024-03-01 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-accelerates-efforts-to-combat-Cervical-Cancer/108-278039) · `en`
+
+Colombo- In a bid to address the pressing issue of cervical cancer, which stands as a formidable health challenge for women in Sri Lanka, Sri Lanka has doubled down on efforts to tackle the disease.
+
+This was evident with a recent panel discussion convened a distinguished group of experts including Dr. Chithramalee de Silva, Dr. Ramani Punchihewa, Dr. J Padmaka Silva, and Nirmali Samaratunga, chaired by Dr. Sandeep Sewlikar.
+
+The discussion, moderated by Dr. Sewlikar, delved into the initiatives and strategies aimed at eliminating cervical cancer from Sri Lanka.
+
+The discussion unveiled stark numbers, stating that cervical cancer ranks as the second most prevalent cancer among women in Sri Lanka, with approximately 1,407 diagnoses and 780 deaths each year. Without intervention, projections paint a grim picture, forecasting a potential death toll of 58,754 by 2070 and 115,137 by 2120.
+
+...
+
+[Data](articles/b59a2f04.json)
+
+---
 
 ### Sri Lanka’s first semi-transparent solar PV agrivoltaic pilot project commissioned
 
@@ -45,6 +133,8 @@ The pilot project will help multiple government bodies, including the Ministry o
 ◼️
 
 [Data](articles/47543c43.json)
+
+[Extended Data](ext_articles/47543c43.ext.json)
 
 ---
 
@@ -107,6 +197,38 @@ Highlighting Sri Lanka’s historical commitment to safeguarding world peace and
 ...
 
 [Data](articles/f334567a.json)
+
+[Extended Data](ext_articles/f334567a.ext.json)
+
+---
+
+### சாந்தனின் பூதவுடல்  கொண்டுவரப்பட்டது
+
+*2024-03-01 14:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடல்-கொண்டுவரப்பட்டது/175-334050) · `ta`
+
+முன்னாள் இந்திய பிரதமர் ராஜீவ் காந்தி கொலை வழக்கில் கைது செய்யப்பட்டு தண்டனை அனுபவித்த நிலையில் விடுதலை செய்யப்பட்ட பின்னர், உயிரிழந்த சாந்தனின் பூதவுடல், இலங்கைக்கு கொண்டுவரப்பட்டுள்ளது.
+
+இன்று(01) கொழும்புக்கு கொண்டு வரப்பட்டுள்ள பூதவுடலை கொழும்பில் உள்ள மலர்ச்சாலை ஒன்றில் வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+சென்னையில் இருந்து விமானம் மூலம் கட்டுநாயக்க விமான நிலையத்துக்கு கொண்டு வரப்பட்ட சாந்தனின் உடலை, சாந்தனின் உறவினர்கள் கட்டுநாயக்க விமான நிலையத்தில் பொறுப்பேற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/9fdaa63e.json)
+
+---
+
+### சமன் ரத்நாயக்க சிஐடிக்கு
+
+*2024-03-01 14:34:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமன்-ரத்நாயக்க-சிஐடிக்கு/175-334049) · `ta`
+
+சுகாதார அமைச்சின் மேலதிக செயலாளர் டொக்டர் சமன் ரத்நாயக்க குற்றப் புலனாய்வுப் பிரிவுக்கு இன்று (01) வந்துள்ளார்.
+
+சர்சைக்குரிய மருந்து இறக்குமதி  சம்பவம் தொடர்பில் வாக்குமூலம் வழங்க அவர் அங்கு வந்துள்ளார்.
+
+◼️
+
+[Data](articles/eebd64b5.json)
 
 ---
 
@@ -1150,6 +1272,22 @@ He said the pilot project will assist the Plantation Industries Ministry, Power 
 
 ---
 
+### First ever semi-transparent solar PV pilot project commissioned
+
+*2024-03-01 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/First-ever-semi-transparent-solar-PV-pilot-project-commissioned/155-278023) · `en`
+
+Colombo, March (Daily Mirror) - Sri Lanka’s first ever semi-transparent solar PV-powered agrivoltaic pilot project was commissioned at Hanthana in Kandy.
+
+Power and Energy Minister Kanchana Wijesekera said the project was funded by the Asian Development Bank (ADB).
+
+He said the pilot project will assist the Plantation Industries Ministry, Power & Energy Ministry, the Ceylon Electricity Board (CEB), Tea Small Holders Development Authority and Sustainable Energy Authority to study the development of renewable energy in tea plantations in the country.
+
+◼️
+
+[Data](articles/e0e5f56e.json)
+
+---
+
 ### Fire in Bangladesh: 43 killed
 
 *2024-03-01 09:56:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வங்கதேசத்தில்-தீ-43-பேர்-பலி/50-334037) · `ta`
@@ -1447,6 +1585,26 @@ The police have received information that the death was hit by a night mail trai
 [Data](articles/84b9bf18.json)
 
 [Extended Data](ext_articles/84b9bf18.ext.json)
+
+---
+
+### 'අභියාචනාධිකරණ විනිශ්චකාරවරයෙක් වන මටත් මෙහෙම සිද්ධියකට මුහුණ දෙන්න වුනානම් සාමාන්‍ය මිනිස්සු ගැන කවර කතාවක්ද?'
+
+*2024-03-01 08:30:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51l3ep24g0o) · `si`
+
+'අභියාචනාධිකරණ විනිශ්චකාරවරයෙක් වන මටත් මෙහෙම සිද්ධියකට මුහුණ දෙන්න වුනානම් සාමාන්‍ය මිනිස්සු ගැන කවර කතාවක්ද?'
+
+පොලිසිය වර්තමානයේ කඩා වැටී තිබෙන තත්ත්වය ගැන කණගාටුවට පත්වන බව අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් අද (මාර්තු 01 වැනිදා) විවෘත අධිකරණයේ ප්‍රකාශ කළේය.
+
+සුමති ඉන්ෆොමේෂන් ටෙක්නොලොජි පුද්ගලික සමාගම විසින් කොල්ලුපිටිය පොලිසියට එරෙහිව ගොනු කළ රිට් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී  විනිසුරුවරයා මේ බව සඳහන් කර සිටියේය.
+
+මෙම පෙත්සම මොහොමඩ් ලෆාර් සහ ඛේමා ස්වර්ණාධිපති යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබුණි.
+
+එහිදී විවෘත අධිකරණයේදී ප්‍රකාශයක් කළ අභියාචනාධිකරණ විනිසුරු මොහොමඩ් ලෆාර් මෙසේ පැවසීය.
+
+...
+
+[Data](articles/b0bf3804.json)
 
 ---
 
@@ -1831,161 +1989,5 @@ Wind speed may increase up to 45-50 kmph at times in the sea areas off the coast
 [Data](articles/c6553a42.json)
 
 [Extended Data](ext_articles/c6553a42.ext.json)
-
----
-
-### UNFPA to assist SL modernise statistical system to move towards digital economy
-
-*2024-03-01 05:55:58* · [`dailyftlk`](https://www.ft.lk/news/UNFPA-to-assist-SL-modernise-statistical-system-to-move-towards-digital-economy/56-759034) · `en`
-
-United Nations Population Fund (UNFPA) Asia Pacific Regional Director Pio Smith yesterday called on Prime Minister Dinesh Gunawardena and expressed keenness to support modernisation of Sri Lanka.
-
-The Prime Minister thanked the UNFPA for the support extended during the last 50 years to several areas including the plans to modernise Sri Lanka’s statistical system and upgrading of population data system.
-
-The UPFPA Regional Director assured continuous support to upgrade data systems to move towards the digital economy. He expressed interest in assisting programs to enhance collaboration at the national level and advocate for the rights of women and girls. He said he visited Kilinochchi yesterday to assess the issues faced by communities at grassroots level and there he noted with satisfaction the measures taken with regard to gender violence in homes and outside.
-
-...
-
-[Data](articles/136c414a.json)
-
-[Extended Data](ext_articles/136c414a.ext.json)
-
----
-
-### German Parliamentary delegation to visit Sri Lanka this week
-
-*2024-03-01 05:53:57* · [`dailyftlk`](https://www.ft.lk/news/German-Parliamentary-delegation-to-visit-Sri-Lanka-this-week/56-759033) · `en`
-
-Head of the Delegation and Member of Parliament Renate Kuenast
-
-A four-member delegation of the German Parliament led by former Federal Minister Renate Kuenast is scheduled to pay an official visit to Sri Lanka from 1 to 5 March 2024.
-
-...
-
-[Data](articles/0f0b22e5.json)
-
-[Extended Data](ext_articles/0f0b22e5.ext.json)
-
----
-
-### ComBank Debit Cards get festive appeal with Rs 6 million in prizes for high spenders
-
-*2024-03-01 04:51:00* · [`islandlk`](http://island.lk/combank-debit-cards-get-festive-appeal-with-rs-6-million-in-prizes-for-high-spenders/) · `en`
-
-The Commercial Bank of Ceylon is giving its debit cards extra appeal this festive season, with a gift bonanza worth Rs 6 million for high-spenders.An all-inclusive holiday in Singapore for two, high-end laptops, luxury hotel stays on twin-sharing basis and 20 supermarket vouchers – each valued at a whopping Rs 50,000 – can be won by Commercial Bank debit card users who make purchases to the value of Rs 25,000 or more per month at this promotion, the Bank said.
-
-The winners of these exciting gifts are to be selected at monthly draws in February, March and April, a period that encompasses Easter, Ramadan and the Sinhala and Tamil New Year.
-
-“Promotions of this nature generally tend to focus on credit cards,” the Head of Commercial Bank’s Card Centre Nishantha De Silva said. “With the launch of the ComBank Debit Card Gift Fiesta campaign our aim is to reward our loyal debit card holders while inculcating the habit of using debit cards for day-to-day transactions instead of paying by cash.”
-
-...
-
-[Data](articles/9b3ecf10.json)
-
-[Extended Data](ext_articles/9b3ecf10.ext.json)
-
----
-
-### Citi Indian Subcontinent Sub-Cluster & Banking Head and India CEO, Ashu Khullar visits Colombo
-
-*2024-03-01 04:51:00* · [`islandlk`](http://island.lk/citi-indian-subcontinent-sub-cluster-banking-head-and-india-ceo-ashu-khullar-visits-colombo/) · `en`
-
-During the visit Ashu met with regulators, key clients and other stakeholders. He also spent time with Citi Sri Lanka management team and employees. strategy and explored how Citi in Sri Lanka can further support our valued clients through financial solutions, digitization and innovation.
-
-Citi Sri Lanka achieved a strong financial performance in 2023 withstanding the local perform through challenged operating environments. A trusted partner to clients, for over 44 years Citi has been providing financial services in Sri Lanka and contributing towards the development of the country’s financial service sector with its global network, innovative service and product solutions.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/eb801924.json)
-
-[Extended Data](ext_articles/eb801924.ext.json)
-
----
-
-### Union Bank posts steadfast performance in FY2023
-
-*2024-03-01 04:43:00* · [`islandlk`](http://island.lk/union-bank-posts-steadfast-performance-in-fy2023/) · `en`
-
-The year 2023, marked a key milestone for Union Bank with CG Capital Partners Pte. Ltd., indirectly acquiring the majority shareholding through its ownership in Culture Financial Holdings Ltd. CG Capital Partners Pte. Ltd., is an affiliate company of the international powerhouse  CG Corp Global (CG).
-
-The improved macroeconomic outlook during FY2023 positioned Union Bank to better navigate the evolving financial landscape. The Bank recorded a steadfast performance during FY2023, with an improved core banking performance with an 18% increase in gross income. The gross income for the year stood at LKR 22,410 Mn.
-
-...
-
-[Data](articles/72422299.json)
-
-[Extended Data](ext_articles/72422299.ext.json)
-
----
-
-### Bank of Ceylon reports Rs. 40.3 billion profit in 2023
-
-*2024-03-01 04:43:00* · [`islandlk`](http://island.lk/bank-of-ceylon-reports-rs-40-3-billion-profit-in-2023/) · `en`
-
-Bank of Ceylon (BOC) reported a Profit Before Tax (PBT) of Rs. 40.3 billion for the year ended 31st December 2023 demonstrating a strong and steady performance across various dimensions, including liquidity, capital, efficiency, profitability and asset quality despite prevailing global and local economic uncertainties.
-
-In a competitive and challenging environment the bank was able to achieve its goals by having a professional and experienced team, which helped to turnaround under-performing business sectors, back into their operations generating profits through the business revival and rehabilitation strategies . This achievement showcases the Bank’s resilience and ability to navigate through challenging times while delivering positive financial results consistently by following the best practices in the banking industry and adopting in to novel technology
-
-...
-
-[Data](articles/94d97f3b.json)
-
-[Extended Data](ext_articles/94d97f3b.ext.json)
-
----
-
-### CCS-Reliance Group of India agreement adds sparkle to share market
-
-*2024-03-01 04:42:00* · [`islandlk`](http://island.lk/ccs-reliance-group-of-india-agreement-adds-sparkle-to-share-market/) · `en`
-
-Ceylon Cold Stores (CCS) , a subsidiary of JKH, signed an agreement with one of India’s largest conglomerates, Reliance Group, to promote the “Elephant House ” brand in India to compete with Pepsi and Coca Cola. This resulted in an appreciation of CCS shares at yesterday’s stock market, analysts said.
-
-Reliance Consumer Products Ltd., (RCPL), the FMCG arm and wholly-owned subsidiary of Reliance Retail Ventures Ltd., (RRVL) announced that it has partnered with Sri Lanka-headquartered “Elephant House” to manufacture, market, distribute and sell beverages under the “Elephant House” brand across India.
-
-This association will not only help RCPL bolster its growing beverage portfolio that boasts iconic brands, such as, Campa, Sosyo and Raskik, but will also bring exceptional new products and value propositions to Indian consumers, analysts said.
-
-...
-
-[Data](articles/1d16b66b.json)
-
-[Extended Data](ext_articles/1d16b66b.ext.json)
-
----
-
-### NSB’s GM/CEO Shashi Kandambi honoured by APB
-
-*2024-03-01 04:42:00* · [`islandlk`](http://island.lk/nsbs-gm-ceo-shashi-kandambi-honoured-by-apb/) · `en`
-
-The Association of Professional Bankers (APB) felicitated Ms. Shashi Kandambi, the General Manager and CEO of the National Savings Bank (NSB), for her remarkable achievement in assuming the leadership role at NSB. The felicitation ceremony took place at the Cinnamon Grand Hotel in Colombo, and eminent figures from the banking sector, including APB’s President, B A S H Preena, council members, esteemed members of the APB community and distinguished figures from the banking industry gathered to acknowledge and celebrate Ms. Kandambi’s ascent to the helm of NSB.
-
-Ms. Kandambi, a former president of the APB, has long been recognized for her exemplary contributions to the banking sector. Her illustrious career and unwavering dedication to advancing the industry have earned her widespread acclaim and admiration. The APB expresses its pleasure in welcoming Ms. Kandambi back into its fold, recognizing her as a beacon of excellence and leadership in the banking community.
-
-...
-
-[Data](articles/463ca15d.json)
-
-[Extended Data](ext_articles/463ca15d.ext.json)
-
----
-
-### Train crashes
-
-*2024-03-01 04:29:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-மோதி-பெண்-உயிரிழப்பு/175-334033) · `ta`
-
-She was killed when a train crashed into a woman who tried to cross the railway crossing in Puliyankulam and Budur in Vavuniya.
-
-She died on the spot when a train from Colombo to Kankesanthurai crashed into a woman who tried to cross the crossing of Budur.
-
-A woman aged 45 to 55 died in the incident. (A)
-
-◼️
-
-[Data](articles/c07dd791.json)
-
-[Extended Data](ext_articles/c07dd791.ext.json)
 
 ---

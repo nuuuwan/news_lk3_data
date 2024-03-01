@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 23:52:34**
+As of **2024-03-02 00:02:52**
 
 ## Newspaper Stats
 
-*Scraped **10,334** Articles*
+*Scraped **10,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 544
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
-virakesarilk | 1,407
+virakesarilk | 1,408
 dailymirrorlk | 1,568
 adaderanasinhalalk | 1,588
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,334 (100.0%) of 10,334 articles have been extended.
+10,334 (100.0%) of 10,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### இலங்கை சட்டக் கல்லூரியின் 150 ஆவது ஆண்டு நிறைவை முன்னிட்டு முத்திரை வெளியிடு
+
+*2024-03-01 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177715) · `ta`
+
+இலங்கை சட்டக் கல்லூரியின் 150 ஆவது ஆண்டு நிறைவை முன்னிட்டு வெள்ளிக்கிழமை (1) மேற்படி கல்லூரி நிர்வாகத்தினால் முத்திரை வெளியிட்டு வைக்கப்பட்டது.
+
+பிரதம நீதியரசர் ஜயந்த ஜயசூரிய பிரதம அதிதியாக கலந்துகொண்ட இந்நிகழ்வில் போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் பந்துலகுணவர்த்தன, இராஜாங்க அமைச்சர் ஷாந்த பண்டார, ஊடக அமைச்சின் செயலர் அனுஷா பல்பிட்டிய ஆகியோரும் ஜனாதிபதி சட்டதரணிகள் மற்றும் சிரேஷ்ட சட்டதரணிகள் உள்ளிட்ட பலர் இந்நிகழ்வில் கலந்துகொண்டு முத்திரையை வெளியிட்டு வைக்கப்பட்டபோது எடுக்கப்பட்ட படங்கள்.
+
+◼️
+
+[Data](articles/12c3a23d.json)
+
+---
 
 ### Land Rescue Struggle of Eastern Tamils who continue for 14 years
 
@@ -2077,23 +2091,5 @@ The IMF earlier lauded the timely publication of the GDA, highlighting that it w
 [Data](articles/fb88a919.json)
 
 [Extended Data](ext_articles/fb88a919.ext.json)
-
----
-
-### Import duty on dates to be reduced in view of Ramadan
-
-*2024-03-01 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-duty-on-dates-to-be-reduced-in-view-of-Ramadan/108-278032) · `en`
-
-Colombo, March 1 (Daily Mirror) - The special commodity tax on dates imported on the occasion of Ramadan will be reduced in the next two days, Finance State Minister Ranjith Siyambalapitiya said.
-
-He said the special merchandise tax of Rs. 200, which is currently charged for a kilogram in the importing country, will be reduced to one rupee.
-
-The Minister further said that the permission of the Religious Affairs Ministry Secretary should be obtained to get this relief.
-
-◼️
-
-[Data](articles/1d87147e.json)
-
-[Extended Data](ext_articles/1d87147e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 02:33:36**
+As of **2024-03-02 02:49:26**
 
 ## Newspaper Stats
 
-*Scraped **10,359** Articles*
+*Scraped **10,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
 virakesarilk | 1,412
-dailymirrorlk | 1,570
+dailymirrorlk | 1,571
 adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,357 (100.0%) of 10,359 articles have been extended.
+10,359 (100.0%) of 10,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Ronnie De Mel  the socialist who created a capitalist economy
+
+*2024-03-02 02:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ronnie-De-Mel-the-socialist-who-created-a-capitalist-economy/172-278087) · `en`
+
+Ronnie’s  first attempt in electoral politics was in the historic Wellassa region of the Uva province.
+
+History was made when Ronnie de Mel presented the new United National Party (UNP) Government’s budget in November 1977
+
+Ronnie sat for the Ceylon Civil Service (CCS) exam and joined the CCS in 1948. He served in different capacities at the Puttalam, Vavuniya and Matara Kachcheris
+
+The new Devinuwara MP with his leftist ideology and classical oratory was an instant hit. His parliamentary speeches were very popular
+
+The ascension of Junius Richard Jayewardene to the premier seat of political power in 1977 paved the way for a drastic transformation of Sri Lanka’s politico-economic landscape and environment.
+
+J.R. Jayewardene known popularly as “JR” ushered in political, economic, and electoral changes that utterly changed Sri Lanka.  In the words of William Butler Yeats “All changed, changed utterly.”
+
+...
+
+[Data](articles/18cf5164.json)
+
+---
 
 ### Has Insensitivity Become The Norm?
 
@@ -43,6 +65,8 @@ When he was told at the interview that a father who had attempted to get electri
 ...
 
 [Data](articles/ce0eee82.json)
+
+[Extended Data](ext_articles/ce0eee82.ext.json)
 
 ---
 
@@ -59,6 +83,8 @@ As impacts of climate change increase and populations grow, there is an urgent n
 ...
 
 [Data](articles/acc37ea1.json)
+
+[Extended Data](ext_articles/acc37ea1.ext.json)
 
 ---
 
@@ -2025,23 +2051,5 @@ The project comprising 530kw wind power, 1,700kw solar power, 2,400kwh battery p
 [Data](articles/4cef5e10.json)
 
 [Extended Data](ext_articles/4cef5e10.ext.json)
-
----
-
-### Santhan's boutique was brought
-
-*2024-03-01 14:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடல்-கொண்டுவரப்பட்டது/175-334050) · `ta`
-
-The death of Shantan, who died after being released after being arrested and sentenced to death in the murder of former Indian Prime Minister Rajiv Gandhi, has been brought to Sri Lanka.
-
-Steps have been taken to keep the flower in Colombo today (01) at a flower in Colombo.
-
-Shantan's body, which was brought to the Katunayake airport by plane from Chennai, is in charge of Shantan's relatives at the Katunayake airport.
-
-◼️
-
-[Data](articles/9fdaa63e.json)
-
-[Extended Data](ext_articles/9fdaa63e.ext.json)
 
 ---

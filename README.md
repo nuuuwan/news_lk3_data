@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 14:02:29**
+As of **2024-03-01 14:17:31**
 
 ## Newspaper Stats
 
-*Scraped **10,231** Articles*
+*Scraped **10,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 economynextcom | 528
 dailyftlk | 542
 islandlk | 544
-adalk | 869
-adaderanalk | 1,238
+adalk | 872
+adaderanalk | 1,240
 tamilmirrorlk | 1,248
 virakesarilk | 1,397
-dailymirrorlk | 1,548
+dailymirrorlk | 1,551
 adaderanasinhalalk | 1,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,231 (100.0%) of 10,231 articles have been extended.
+10,231 (99.9%) of 10,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Etihad increases frequency of flight operations to Colombo from May 1
+
+*2024-03-01 13:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Etihad-increases-frequency-of-flight-operations-to-Colombo-from-May-1/108-278037) · `en`
+
+The national carrier of the United Arab Emirates, Etihad Airways, will increase the frequency of flight operations to Colombo effective May 1, Airport and Aviation Services (Sri Lanka) (Private) Limited Chairman Eng. Athula Galketiya said.
+
+He said this flight service will be a significant contribution towards boosting the tourism industry in Sri Lanka and travel to the Middle East and other key destinations in the world.
+
+"Etihad Airways, which has 10 weekly flight frequencies at present, will be operating 13 flights a week from May 1 (2 flights on Mondays, Tuesdays, Thursdays, Fridays, Saturdays, and Sundays, 1 flight on Wednesdays) and 20 flights per week from June 15 (03 flights on Mondays, Tuesdays, Thursdays, Fridays, Saturdays, and Sundays, 2 flights on Wednesdays)," he said.
+
+...
+
+[Data](articles/6843203d.json)
+
+---
+
+### Agreement inked to construct hybrid renewable energy systems on Jaffna islets
+
+*2024-03-01 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97657/agreement-inked-to-construct-hybrid-renewable-energy-systems-on-jaffna-islets) · `en`
+
+Sri Lanka has signed an agreement for the development of hybrid renewable energy systems on 3 islets belonging to the Jaffna District today (March 01).
+
+Minister of Power and Energy Kanchana Wijesekera stated that under a full financial grant of USD 10.995 million extended by the Government of India, the islands of Delft, Analativu and Nainativu will receive the hybrid renewable energy systems by March 2025.
+
+Under the project 530 kW wind power, 1700 kW solar power, 2400 kWh battery power and 2500 kW of standby diesel power systems are planned to be constructed on 3 islets in the Jaffna District by India-based U-Solar Clean Energy Solutions, according to the minister.
+
+Taking to X (formerly Twitter) to announce this, Wijesekera expressed gratitude to the Government of the Republic of India, Indian High Commissioner to Sri Lanka Santosh Jha, Former High Commissioner Gopal Baglay, officials of the Indian High Commission in Sri Lanka for the assistance extended in this regard.
+
+...
+
+[Data](articles/0e2df066.json)
+
+---
+
+### Brother-in-law of Zahran arrested
+
+*2024-03-01 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97656/brother-in-law-of-zahran-arrested) · `en`
+
+Police have arrested a person who is identified as the brother-in-law of Zahran Hashim during a sudden raid carried out in the Kattankudy area.
+
+The raid was carried out based on a tip-off received by the police about an unlawful assembly. At the time, a group of people have been playing card games at the scene.
+
+The arrested individual named Niyaz was subsequently found to be the husband of Zahran’s sister, who was suspected to be involved in the 2019 Easter Sunday terror attacks, as per police.
+
+Zahran Hashim was the ringleader of the breakaway members of the hardline Islamist group National Thowheed Jama’ath (NTJ), accused of carrying out coordinated suicide bombings on April 21, 2019 which killed more than 350 people.
+
+◼️
+
+[Data](articles/af4efe03.json)
+
+---
 
 ### Dr. Saman Rathnayake CID
 
@@ -43,6 +95,22 @@ Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has arrived a
 [Data](articles/6a1aefaf.json)
 
 [Extended Data](ext_articles/6a1aefaf.ext.json)
+
+---
+
+### Three-wheeler driver shot dead in Ahungalle
+
+*2024-03-01 13:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-wheeler-driver-shot-dead-in-Ahungalle/108-278036) · `en`
+
+Galle, March 1 (Daily Mirror) - A three-wheeler driver was killed in a shooting incident near a hotel in Ahungalla town, police said.
+
+They said a 45-year-old has died in the shooting carried out by an unknown gunman on a motorcycle.
+
+Police suspect that that the shooting was a result of a dispute between two underworld gangs.
+
+◼️
+
+[Data](articles/0043d17a.json)
 
 ---
 
@@ -67,6 +135,30 @@ Today, students have received the question pamps of the social media last night.
 [Data](articles/8ba8cd01.json)
 
 [Extended Data](ext_articles/8ba8cd01.ext.json)
+
+---
+
+### One-Month-Old falls from moving trishaw, unharmed
+
+*2024-03-01 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-Month-Old-falls-from-moving-trishaw-unharmed/108-278035) · `en`
+
+Kitulgala, March 1 (Daily Mirror) - A one-month-old infant fell from a moving trishaw onto the Colombo-Hatton highway near Gurumetiya, Kitulgala, but miraculously escaped injury on Thursday night.
+
+The mother, traveling with others from Negombo, had fallen asleep in the back of the trishaw when the infant fell off her lap.
+
+Witnesses in a car following the trishaw noticed the child on the road and took it to the Kitulgala Police Station, where the baby was immediately sent to the Kitulgala Hospital.
+
+The mother and others, unaware of the incident, continued their journey.
+
+When they became aware of the missing baby went back in search and found out from the residents of the location that the baby had been hospitalized.
+
+They then went to Kitulgala Hospital and reunited with the baby.
+
+Doctors examined the infant and found no injuries. However, the baby was later transferred to the Karawanella Base Hospital for further observation, accompanied by the mother.
+
+◼️
+
+[Data](articles/fe516f4a.json)
 
 ---
 
@@ -178,6 +270,24 @@ The Minister further said that the permission of the Religious Affairs Ministry 
 
 ---
 
+### විදුලිය උත්පාදනයට ජලය සැපයෙන මාවුස්සාකැලේ හා කාසල්රී ජලාශ වලට සිදුව ඇති දේ
+
+*2024-03-01 12:24:06* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිය-උත්පාදනයට-ජලය-සැපයෙන-මාවුස්සාකැලේ-හා-කාසල්රී-ජලාශ-වලට-සිදුව-ඇති-දේ/11-408373) · `si`
+
+මධ්‍යම කඳුකරයට මාසයක පමණ කාලයක් තිස්සේ පවතින දැඩි වියළි කාළගුණයත්
+
+සමග මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම සීඝ්‍රයෙන් පහත බසිමින්
+
+අද (01)දා පෙ.ව. 06.00 වන විට මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම
+
+පිටාර මට්ටමේ සිට පිලිවෙළින් අඩි 18 ක් හා අඩි 14 ක් වශයෙන් පහත බැස ඇති බව එම
+
+◼️
+
+[Data](articles/af3bddc7.json)
+
+---
+
 ### Unidentified assailants open fire at house in Padukka
 
 *2024-03-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97653/unidentified-assailants-open-fire-at-house-in-padukka) · `en`
@@ -245,6 +355,22 @@ The construction of the first wildlife tank in Sri Lanka was commenced this morn
 [Data](articles/c65ca814.json)
 
 [Extended Data](ext_articles/c65ca814.ext.json)
+
+---
+
+### 22 හැවැරිදි තරුණයා දුම්රියට පැන්නාද? දුම්රියේ ගැටුණාද?
+
+*2024-03-01 12:00:34* · [`adalk`](https://www.ada.lk/breaking_news/22-හැවැරිදි-තරුණයා-දුම්රියට-පැන්නාද--දුම්රියේ-ගැටුණාද-/11-408371) · `si`
+
+බදුල්ල සිට කොළඹ බලා අද 29 රාත්‍රී  ධාවනය  වෙමින් තිබූ  දුම්රියක ගැටී  විසිදෙක හැවිරිදි තරුණයෙකු    ජීවිතක්ෂයට පත් වී ඇති බව ඇල්ල පොලිසිය පැවසීය.
+
+හාලිඇල උඩුවර  හැවන්කදුර පදිංචිව සිටි   ඒ එම්  තරිඳු චාමර නමැති විසි දෙක හැවිරිදි තරුණයෙකු මෙලෙස ජීවිතක්ෂයට පත් වී තිබේ. මෙම  තරුණයා දුම්රියට පැන්නේ ද දුම්රියේ හැපුනේද යන්න සෙවීමට පරීක්ෂණ කරන බවද පොලිසිය පැවසීය.
+
+ඇල්ල දුම්රිය ස්ථානයේ සිට බදුල්ල දෙසට මීටර් 200ක් පමණ දුරින්  තිබියදී සිරුර හමුවී  ඇත. ඇල්ල පොලිසිය වැඩිදුර විමර්ශන කටයුතු සිදු කරයි.
+
+◼️
+
+[Data](articles/58ae3158.json)
 
 ---
 
@@ -381,6 +507,22 @@ Meanwhile, Litro Gas prices now stand at the following rates:
 [Data](articles/d45efc32.json)
 
 [Extended Data](ext_articles/d45efc32.ext.json)
+
+---
+
+### කුසල් වෙනුවට දික්වැල්ල
+
+*2024-03-01 11:19:46* · [`adalk`](https://www.ada.lk/sports/කුසල්-වෙනුවට-දික්වැල්ල/9-408370) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩායම අතර බංග්ලාදේශයේදී පැවැතිවීමට නියමිත විස්සයි20 තරගාවලිය සඳහා නිරෝෂන් දික්වැල්ල කණ්ඩායමට කැඳවා තිබේ.
+
+එම තරගාවලියට නම්කර තිබූ පිතිකරු කුසල් පෙරේරා අසනීප තත්වයකින් පසුවීම නිසා එම ස්ථානයට මෙසේ නිරෝෂන් දික්වැල්ල ආදේශ කර තිබේ.
+
+2021 ජුනි මාසයේ සිට මේ දක්වාම දික්වැල්ල විස්සයි20 ජාත්‍යන්තර තරගයකට ක්‍රීඩා කර නොමැත.
+
+◼️
+
+[Data](articles/77475d92.json)
 
 ---
 
@@ -1803,135 +1945,5 @@ The progress in meeting the key commitments under the IMF-backed programme is se
 [Data](articles/23dff44e.json)
 
 [Extended Data](ext_articles/23dff44e.ext.json)
-
----
-
-### Unhealthy Competition in Tourism Must Be Stopped - EDITORIAL
-
-*2024-03-01 01:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unhealthy-Competition-in-Tourism-Must-Be-Stopped-EDITORIAL/172-277998) · `en`
-
-There was a recent report in the Daily Mirror stating the inconveniences caused to locals due to businesses conducted by Israeli, Russian and Ukrainian nationals in the southern part of Sri Lanka. This report demands deep pondering investigation.
-
-As much as such businesses are eating into the earning opportunities of locals, we also must think that there are hidden opportunities for business here when some people think that all is lost in this sun-kissed paradise island. These foreign nationals are operating bars, restaurants, giving surfing lessons, buying or leasing lands and renting out tuk-tuks; the latter to cut down on travel expenses. Wow! The message that foreign nationals are giving to all of Sri Lanka is that ‘if you cannot do business here in this country we’ll show you how’.
-
-...
-
-[Data](articles/9b6b82a3.json)
-
-[Extended Data](ext_articles/9b6b82a3.ext.json)
-
----
-
-### Palestinian question: The context highlights the illegality of Israel
-
-*2024-03-01 01:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Palestinian-question-The-context-highlights-the-illegality-of-Israel/172-277997) · `en`
-
-Displaced Palestinian children gather for food in Rafah in the southern Gaza Strip. AFP
-
-The October 7, 2023, attacks the Palestinian resistance group Hama launched on Israel did not happen in a vacuum. In October last year, weeks after the Hamas attack, the United Nations Secretary-General, Antonio Guterres, told the UN Security Council that “it is important to recognise the attacks by Hamas did not happen in a vacuum.”
-
-Intellectuals avoid jumping to conclusions. They investigate all sides of an issue, including its history, context, and surrounding narratives, to form an opinion grounded in justice. The Secretary-General was not taking sides in the Israel-Palestinian question. His speech conformed to what was expected of an intellectual and a UN official committed to standing up for justice.
-
-...
-
-[Data](articles/dc874c0b.json)
-
-[Extended Data](ext_articles/dc874c0b.ext.json)
-
----
-
-### The body of a male from the top Kothmalai reservoir is recovered
-
-*2024-03-01 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177634) · `ta`
-
-Residents of the area who saw a body floating in the reservoir on Thursday (29) informed the police.
-
-Talawakelle police are conducting investigations into the incident. The deceased has been identified as Kasun Lakmal, a 24 -year -old from Olirut area.. After the judge visited the body, the body will be taken to the Nuwara Eliya District General Hospital for autopsy. Police said.
-
-◼️
-
-[Data](articles/c33613d8.json)
-
-[Extended Data](ext_articles/c33613d8.ext.json)
-
----
-
-### Third LKI Foreign Policy Forum reassesses relevance of non-alignment in a polarised world
-
-*2024-03-01 00:13:46* · [`dailyftlk`](https://www.ft.lk/opinion/Third-LKI-Foreign-Policy-Forum-reassesses-relevance-of-non-alignment-in-a-polarised-world/14-759017) · `en`
-
-The third LKI Foreign Policy Forum titled ‘Reassessing Non-Alignment in a Polarised World’ was held on 21 February. The forum held on a quarterly basis, brings together experts to discuss contemporary foreign policy issues and to contribute to the development of a Sri Lankan perspective on foreign policy and international relations. Ahead of the forum, Foreign Minister M.U.M. Ali Sabry who delivered the opening address, observed, “Non-alignment means not becoming a bystander” and “that you are not forced or coerced into a camp to take sovereign decisions”.
-
-...
-
-[Data](articles/fa828754.json)
-
-[Extended Data](ext_articles/fa828754.ext.json)
-
----
-
-### Non-alignment means you are not forced or coerced into a camp to take sovereign decisions: Sabry
-
-*2024-03-01 00:11:31* · [`dailyftlk`](https://www.ft.lk/opinion/Non-alignment-means-you-are-not-forced-or-coerced-into-a-camp-to-take-sovereign-decisions-Sabry/14-759016) · `en`
-
-Foreign Minister M.U.M. Ali Sabry last week declared that non-alignment means a country is not forced or coerced into a camp to take sovereign decisions.
-
-The Minister emphasised this aspect when he delivered the opening address at the third ‘LKI Foreign Policy Forum’, held on the theme ’Reassessing Non-Alignment in a Polarised World’ the quarterly flagship event of the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI) at the LKI Lighthouse Auditorium.
-
-...
-
-[Data](articles/3f91ffdb.json)
-
-[Extended Data](ext_articles/3f91ffdb.ext.json)
-
----
-
-### Retelling the story of China and why it’s important
-
-*2024-03-01 00:10:20* · [`dailyftlk`](https://www.ft.lk/columns/Retelling-the-story-of-China-and-why-it-s-important/4-759015) · `en`
-
-China appears to continue doing what it does best – move forward. And this perspective, whether for China, or any other country of the Global South, remains vital
-
-A debt trap. A dispute at sea. A trade threat. An anomaly. A friend of Russia. The many names China has been called in recent years doesn’t require much reiteration, because they are already so engrained in our minds; either by label-repetition, international media-unison and perhaps also because of China’s Achilles’ heels – limitations with the English language and Western expression.
-
-Meeting with Chinese counterparts over the last month, I only had one question. Why don’t they fight the provocation much harder? And moreover fight it in public spaces rather than behind closed diplomatic doors where the risk for facts to be eluded and stereotypes resorted to being much higher. A case in point is perhaps the blatant press leaks to a closed door diplomatic meeting at the G20; a clear unapologetic breach of pacta sunt servanda.
-
-...
-
-[Data](articles/4222a98a.json)
-
-[Extended Data](ext_articles/4222a98a.ext.json)
-
----
-
-### Economic stability in Sri Lanka: Myth or reality?
-
-*2024-03-01 00:04:47* · [`dailyftlk`](https://www.ft.lk/columns/Economic-stability-in-Sri-Lanka-Myth-or-reality/4-759014) · `en`
-
-While inflation may have decreased in real terms, stagnant wages and rising taxes have eroded the purchasing power of citizens, exacerbating poverty and inequality
-
-The economic landscape of Sri Lanka has been a subject of fervent debate in recent times, with conflicting narratives surrounding the notion of stability. On the surface, there are indicators suggesting positive growth and progress, yet beneath the veneer lies a stark reality of pervasive instability, particularly for a significant portion of the population.
-
-...
-
-[Data](articles/01bfe1c2.json)
-
-[Extended Data](ext_articles/01bfe1c2.ext.json)
-
----
-
-### The President and Government on self-destruct mode
-
-*2024-03-01 00:00:17* · [`dailyftlk`](https://www.ft.lk/columns/The-President-and-Government-on-self-destruct-mode/4-759013) · `en`
-
-If the people do not change themselves, there is never going to be any form of change whatsoever
-
-The above verse from the Holy Quran is a reminder to the entire mankind contextually adapted for the current political climate. Broadly, the condition of any people revolves around two major generic areas. The good and bad. It is only when bad has taken root, there will be a need for mankind to change towards goodness. And, until and unless man himself has decided to change the badness in him, nothing is going to change.
-
-...
-
-[Data](articles/16ab16a0.json)
-
-[Extended Data](ext_articles/16ab16a0.ext.json)
 
 ---

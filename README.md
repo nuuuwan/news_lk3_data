@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 15:17:16**
+As of **2024-03-01 15:33:12**
 
 ## Newspaper Stats
 
-*Scraped **10,246** Articles*
+*Scraped **10,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 1,241
 tamilmirrorlk | 1,248
 virakesarilk | 1,398
 dailymirrorlk | 1,553
-adaderanasinhalalk | 1,567
+adaderanasinhalalk | 1,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,246 (100.0%) of 10,246 articles have been extended.
+10,246 (100.0%) of 10,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### පිදුරුගොඩට ගිනි ඇවිළී ඊට මැදිවූ පුද්ගලයෙක් මරුට
+
+*2024-03-01 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194007) · `si`
+
+හොරණ මොරගහහේන පොලිස් වසමේ තලගල තල්ගහවත්ත ප්‍රදේශයේ නිවසක් පිටුපස වැඩකරමින් සිටි පුද්ගලයෙකු අද (01) පෙරවරුවේ මෙම අවාසනාවන්ත සිද්ධියට මුහුණදී ඇත.
+
+මොරගහහේන පොලීසිය පැවසුවේ මෙසේ මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි 76 හැවිරිදි පුද්ගලයෙකු බවය.
+
+මියගිය පුද්ගලයා මෙම නිවසේ මඩුවක් සකස් කිරීම සඳහා පැමිණ තිබුණි.
+
+ඒ අනුව නිවසේ හිමිකරු විසින් ඔහුට කටයුත්තක් පවරා එම ස්ථානයෙන් බැහැරට ගොස් ඇති තිබේ.
+
+ඔහු නැවත පැමිණෙන අවස්ථාවේදී පිරිදුරුගොඩ ඇවිලෙමින් තිබෙන අයුරු දැක එය නිවාදැමීමට උත්සාහ කිරීමේදී එම පිදුරුගොඩ තුළ අදාළ පුද්ගලයා වැටී සිටිනු දැක ඇත.
+
+පසුව කඩිනමින් ඔහුව ඉන් ඉවත් කිරීමට කටයුතු කර තිබුණත් ඒ වනවිට එම පුද්ගලයා මියගොස් සිට ඇති බව පොලීසිය පවසයි.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණයවී නොමැති අතර මොරගහහේන  පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+"මම දැක්ක සැණින් ගිනිගොඩට පැන්නා... එයාව අත්දෙකෙන් මෙහාට ඇදගෙන ආවා" යැයි එහි සිටි පුද්ගලයා සාක්ෂි දෙමින් පොලීසියට පවසා තිබුණි.
+
+◼️
+
+[Data](articles/fe0b5cbf.json)
+
+---
 
 ### 2023 Grade 5 re-evaluation results released; students can apply with revised scores
 
@@ -1967,23 +1993,5 @@ The President promised to focus on the issues proposed and congratulated them on
 [Data](articles/513b9b71.json)
 
 [Extended Data](ext_articles/513b9b71.ext.json)
-
----
-
-### The higher the temperature will last until April
-
-*2024-03-01 04:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்ப-நிலை-ஏப்ரல்-வரை-நீடிக்கும்/175-334030) · `ta`
-
-The hottest weather in the country will last until mid -April, the Department of Meteorology said.
-
-The Director of the Department, Ajith Wijemanna, said that it would avoid engaging in exterior activities as much as possible.
-
-The Department of Meteorology said the cause of the temperature was the decline in the speed of the wind and the face of the face of the sky.
-
-◼️
-
-[Data](articles/83cdde6e.json)
-
-[Extended Data](ext_articles/83cdde6e.ext.json)
 
 ---

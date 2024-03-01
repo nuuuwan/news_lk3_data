@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 18:08:52**
+As of **2024-03-01 18:20:17**
 
 ## Newspaper Stats
 
-*Scraped **10,271** Articles*
+*Scraped **10,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 528
 dailyftlk | 542
 islandlk | 544
 adalk | 874
-adaderanalk | 1,246
+adaderanalk | 1,248
 tamilmirrorlk | 1,253
 virakesarilk | 1,398
-dailymirrorlk | 1,557
+dailymirrorlk | 1,560
 adaderanasinhalalk | 1,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,271 (100.0%) of 10,271 articles have been extended.
+10,271 (100.0%) of 10,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
+
+### Etihad Airways boosts flight frequency to Colombo
+
+*2024-03-01 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97666/etihad-airways-boosts-flight-frequency-to-colombo) · `en`
+
+Etihad Airways, the national Career of the United Arab Emirates (UAE), will increase the frequency of flight operations to Colombo effective from 01 May 2024.
+
+The UAE airline, which has 10 weekly flight frequencies at present, will be operating 13 flights a week from 1st of May 2024 - 02 flights on Monday, Tuesday, Thursday, Friday, Saturday, and Sunday, 1 flight on Wednesday, and 20 flights per week from the 15th of June - 03 flights on Monday, Tuesday, Thursday, Friday, Saturday, Sunday, 2 flights on Wednesday.
+
+This will be a significant contribution to boosting the tourism industry in Sri Lanka and travel to the Middle East and other key destinations in the world, it said in a statement.
+
+The enhancement of flight operations by the airline is part of Etihad’s ambitious expansion of flights and frequencies to further boost Abu Dhabi’s global reach, offering more flexible travel options for its guests.
+
+...
+
+[Data](articles/ed143557.json)
+
+---
+
+### UNFPA and Japan donate $2.1 Mn worth of medical supplies to Sri Lanka
+
+*2024-03-01 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-and-Japan-donate-2-1-Mn-worth-of-medical-supplies-to-Sri-Lanka/108-278043) · `en`
+
+Colombo, March 01 - In a ceremonious event, Pio Smith, UNFPA Asia Pacific Regional Director, and Kotaro Katsuki, acting Ambassador of the Embassy of Japan, presented medical supplies valued at over USD 2.1 million to Dr. Ramesh Pathirana, Minister of Health at the Ministry of Health in Sri Lanka today (01).
+
+The donated medicines and medical equipment were contributed under the project titled "ENSURE: Ensuring access to life-saving sexual & reproductive health and providing gender-based violence prevention and response services for women, girls, and vulnerable groups."
+
+This initiative, totaling USD 4.6 million, has been funded by the Government of Japan as part of its response to the economic crisis in Sri Lanka. The primary goal of the project is to support women in vulnerable communities.
+
+...
+
+[Data](articles/dae46f83.json)
+
+---
 
 ### Thicky thugs to Ranil's house on 9th
 
@@ -54,6 +88,20 @@ He has fined Rs.
 
 ---
 
+### Puducherry CM seeks PM Modi’s intervention to get fishing vessels released from Sri Lankan custody
+
+*2024-03-01 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97665/puducherry-cm-seeks-pm-modis-intervention-to-get-fishing-vessels-released-from-sri-lankan-custody) · `en`
+
+The Chief Minister of union territory of Puducherry in India, N. Rangasamy has sought the intervention of Prime Minister Narendra Modi, for the release of fishing boats from the Union Territory, that have been confiscated by Sri Lankan authorities.
+
+In a letter to the Prime Minister on Friday, March 1, 2024, the Chief Minister said fishermen from Karaikal region sometimes crossed the International Maritime Boundary Line (IMBL) due to their ignorance. When this happened, Sri Lankan authorities arrested them and confiscated their fishing equipment. Following this, the fishermen were released due to intervention at the government level, he said.
+
+...
+
+[Data](articles/3fe6031d.json)
+
+---
+
 ### Sapugaskanda who close to July
 
 *2024-03-01 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194013) · `si`
@@ -71,6 +119,38 @@ The Sapugaskanda fuel refinery is expected to have a maximum and reliable activi
 [Data](articles/166b8502.json)
 
 [Extended Data](ext_articles/166b8502.ext.json)
+
+---
+
+### Saharan’s brother-in-law arrested
+
+*2024-03-01 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Saharans-brother-in-law-arrested/108-278044) · `en`
+
+March 01 (Daily Mirror) - An individual identified as Saharan’s brother-in-law was arrested by the Kaththankudi police during a raid in the Kalapalachenai area in Batticloa.
+
+Police carried out the raid on a tip off that an unlawful meeting was being held in the Kalapalachenai area.
+
+During the raid the police arrested a group of about 30 individuals including Saharan’s brother-in-law. However, the suspects who denied their involvement in any unlawful meeting stated that they were playing cards.
+
+A police team under OIC Kaththankudi IP Gajanayaka carried out the raid on the instructions of ASP Batticaloa Division K.M.A. Bandara and SSP Amal Edirisinghe.
+
+◼️
+
+[Data](articles/09762157.json)
+
+---
+
+### Former commanding officer Ratnapriya Bandu joins SJB
+
+*2024-03-01 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-commanding-officer-Ratnapriya-Bandu-joins-SJB/108-278045) · `en`
+
+March 01, (Daily Mirror) - Lieutenant Colonel W. Ratnapriya Bandu, the former joint commanding officer of Jaffna, Mullaitivu, and Kilinochchi, officially joined the Samagi Jana Balawegaya (SJB) today.
+
+Party leader Sajith Premadasa appointed him as the head of the SJB committee on Reconciliation and National Unity.
+
+◼️
+
+[Data](articles/9a4fd61a.json)
 
 ---
 
@@ -1927,107 +2007,5 @@ The emergency services were called to the Kacchi Bhai restaurant which, accordin
 [Data](articles/0f1d5ed7.json)
 
 [Extended Data](ext_articles/0f1d5ed7.ext.json)
-
----
-
-### Bangladesh fire: At least 43 dead in Dhaka building blaze
-
-*2024-03-01 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-fire-At-least-43-dead-in-Dhaka-building-blaze/108-278005) · `en`
-
-Bangladesh, March 1 (BBC) - At least 43 people have been killed after a fire broke out in a multi-storey building in Bangladesh, the country's health minister says.
-
-According to local media, the blaze began in a restaurant at around 22:00 local time (16:00 GMT) on Thursday in the capital, Dhaka.
-
-Seventy-five people were rescued and dozens were brought to hospital.
-
-The fire was bought under control after two hours, according to fire officials, and the cause is being investigated.
-
-Bangladesh's Health Minister, Samanta Lal Sen, said that at least 33 people, including women and children, had been declared dead at the Dhaka Medical College Hospital.
-
-At least 10 others died at the city's main burns hospital. Twenty-two were in critical condition, Mr Sen said.
-
-The emergency services were called to the Kacchi Bhai restaurant which, according to the Daily Bangladesh newspaper, is in a building that has seven floors.
-
-...
-
-[Data](articles/527bf01a.json)
-
-[Extended Data](ext_articles/527bf01a.ext.json)
-
----
-
-### No fuel price revision in March?
-
-*2024-03-01 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97643/no-fuel-price-revision-in-march) · `en`
-
-The government has decided not to revise the fuel prices for the month of March, Ada Derana learned.
-
-Fuel prices amended as per the monthly pricing formula were supposed to be announced last night (Feb.29).
-
-However, the Ceylon Petroleum Corporation (Ceypetco) has decided to keep the prices at current rates this month.
-
-Meanwhile, Lanka IOC and Sinopec too have not made any announcements regarding fuel price revision for the month of March.
-
-◼️
-
-[Data](articles/b059ff30.json)
-
-[Extended Data](ext_articles/b059ff30.ext.json)
-
----
-
-### A female body near a deserted house
-
-*2024-03-01 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193986) · `si`
-
-Police have found a bodies of a female bodies near a lonely house.
-
-The body was found near a deserted house in the Walpola area in Katunayake yesterday morning.
-
-The victim was a 46 year old resident of Dehanhamandiya, Demhandiya.
-
-She had been residents of her husband's mother, father and daughter and had left the house to go to a cousin area in the Walpola area on the 25th.
-
-The cause of death is yet to be revealed and Katunayake Police are conducting further investigations.
-
-◼️
-
-[Data](articles/0545155f.json)
-
-[Extended Data](ext_articles/0545155f.ext.json)
-
----
-
-### Another attempt to save Sri Lankans in Myanmar Terrorism
-
-*2024-03-01 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193985) · `si`
-
-MP Wasantha Yapa Bandara says that Myanmar Mahanayantha is directing the Mahanayakara Thero's memorandum to demand the escape of Myanmar.
-
-He stated that the Myanmar's State Control through Myanmar Mahanayara Thero through Myanmar Mahanayake Thera is involved in solving this problem.
-
-◼️
-
-[Data](articles/03f0858e.json)
-
-[Extended Data](ext_articles/03f0858e.ext.json)
-
----
-
-### Speaker is a problem with the Minister of Justice
-
-*2024-03-01 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/193984) · `si`
-
-Minister of Justice Wijayadasa Rajapakse said that the Speaker had taken a problem with the Legislative Council, but said the Speaker of Justice Wijayadasa Rajapaksa.
-
-He stated that if a party believes that the Speaker believes that there is a legal issue in the decision of the Speaker, it is advisable to obtain a representation of the Supreme Court.
-
-Meanwhile, MP Gayantha Karunatilake of the Jana Sex Gayantha Karunatilake said that steps against Speaker will be presented to Parliament in the next two days, said MP Gayantha Karunatilake.
-
-◼️
-
-[Data](articles/7f94ef32.json)
-
-[Extended Data](ext_articles/7f94ef32.ext.json)
 
 ---

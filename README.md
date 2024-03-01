@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 00:17:17**
+As of **2024-03-02 00:32:58**
 
 ## Newspaper Stats
 
-*Scraped **10,337** Articles*
+*Scraped **10,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 125
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 542
-dailyftlk | 542
 islandlk | 544
+dailyftlk | 548
 adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,257
@@ -26,39 +26,77 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,335 (100.0%) of 10,337 articles have been extended.
+10,337 (99.9%) of 10,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### மக்களை அசௌகரியங்களுக்கு உள்ளாக்குவதை ஏற்க முடியாது - அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவிப்பு
+### NDB Bank launches “Privilege Junior Savings”
+
+*2024-03-02 00:15:57* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-launches-Privilege-Junior-Savings/34-759070) · `en`
+
+As a trailblazer in Privilege Banking, NDB Bank introduces its latest innovation, “Privilege Junior Savings.”
+
+This exclusive offering, tailored for the children of high-net-worth individuals, underscores the bank’s commitment to instilling financial empowerment from a tender age.
+
+Carefully curated for resident Sri Lankan minors aged 1 day to 18 years, Privilege Junior Savings stands as a testament to the bank’s dedication to providing bespoke services to the distinct needs of privileged young individuals.
+
+NDB CEO Kelum Edirisinghe articulates the vision behind Privilege Junior Savings, stating, “Nurturing future leaders with financial acumen, NDB Privilege Junior Savings serves as the bedrock for a secure and prosperous future.” The bank aims to cultivate responsible financial habits while delivering exclusive benefits throughout their journey.
+
+...
+
+[Data](articles/a1ed5dff.json)
+
+---
+
+### SLT-Mobitel says ‘One Shot ULTRA’ offers ultimate unlimited voice and data experience
+
+*2024-03-02 00:15:49* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-says-One-Shot-ULTRA-offers-ultimate-unlimited-voice-and-data-experience/34-759069) · `en`
+
+SLT-Mobitel has unveiled the ultimate ‘One Shot ULTRA’ designed to revolutionise users’ communication experience with unparalleled benefits.
+
+With SLT-Mobitel’s unmatched network performance, One Shot ULTRA brings a significant upgrade to mobile internet in Sri Lanka, providing users with unlimited voice calls to any network and uninterrupted access to data. This ensures SLT-Mobitel Mobile users experience seamless connectivity, allowing for uninterrupted data usage across any application without any limitations, coupled with added convenience. With One Shot ULTRA, SLT-Mobitel has introduced a new era of connectivity, reshaping the landscape of the unlimited voice and data spaces.
+
+...
+
+[Data](articles/25c01451.json)
+
+---
+
+### Minister Douglas Devananda notes
 
 *2024-03-02 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177717) · `ta`
 
-மக்களை அசௌகரியங்களுக்குள்ளாகும் வகையிலான தனியார் போக்குவரத்து சேவையினரின் செயற்பாடுகள் விரும்பத்தகாத செயல் என சுட்டிக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா போராட்டங்களை வைத்து சுயலாப அரசியல் செய்யும் அரசியல் நிலைப்பாடுகளை தான் ஒருபோதும் விரும்பியதில்லை எனவும் தெரிவித்த அவர் தனியார் போக்குவரத்து சேவையினரின் இவ்வாறான செயற்பாடுகள் இனியொருபோதும் ஏற்படாதிருக்கும் வகையில் இருப்பது அவசியம் எனவும் வலியுறுத்தியுள்ளார்
+Minister Douglas Devananda pointed out that the activities of the private transport servants that are inconvenienced by the people are unpleasant and that he has never wanted the political positions of selfish politics with the struggles.
 
-வடமாகாணம் தழுவிய ரீதியில் தனியார் போக்குவரத்து சேவையினரால் முன்னெடுக்கப்பட்ட போராட்டம் தொடர்பில் தீர்வு காண்பதற்கான கூட்டம் ஆளுநர் அலுவலகத்தில் வியாழக்கிழமை (29) இடம்பெற்ற வேளையே அமைச்சர் இவ்வாறு வலியுறுத்தியுள்ளார்.
+The Minister stressed the meeting on Thursday (29) at the Governor's Office to resolve the struggle carried out by the private transport service in the Northern Province.
 
-தனியார் போக்குவரத்து சேவையை முன்னெடுப்போர் தமது கோரிக்கையை வெளிப்படுத்தும் வகையிலான போராட்டங்களை ஜனநாயக ரீதியில் முன்னெடுப்பதில் தவறுகள் ஏதும் இருக்கப்போவதில்லை. அது அவர்களது அடிப்படை உரிமையும் கூட. ஆனால் மக்களை அசௌகரியங்களுக்குள்ளாகும் வகையில் அரச போக்குவரத்து சேவையை முடக்கி மக்களுக்கு இடையூறுகளை ஏற்படுத்திய அவர்களது செயலை எக்காரணம் கொண்டும் ஏற்றுக்கொள்ள முடியாது.
+There will be no mistakes in democratically carrying out the struggles that the private transport service will express their demands. That's their basic rights even. But the actions of the people can not be accepted for their actions that disrupt the public transport service and cause people to disrupt people.
+
+This is a completely disgusting act. At the same time, he emphasized that it is necessary to express their demands so that such people are uncomfortable.
 
 ...
 
 [Data](articles/a34c436e.json)
 
+[Extended Data](ext_articles/a34c436e.ext.json)
+
 ---
 
 ### 2024-03-01 (Friday)
 
-### சர்வதேச கீதா ஜெயந்தி யாகம்
+### International Geeta Jayanti Yagam
 
 *2024-03-01 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177716) · `ta`
 
-கலாசார அமைச்சு ஏற்பாட்டில் நெலும் பொக்குண தாமரை தடாகத்தில் நடைபெற்றுவரும் மூன்று நாட்கள் ஜெயந்தி விழாவில் முதல்நாள் ஆரம்ப நிகழ்வில்  பாடசாலை மாணவர்களுக்கான கோலப்போட்டி, ஓவியப்போட்டி இடம் பெற்றன. தொடர்ந்து சர்வதேச கீதா ஜெயந்தி யாகம் நடைபெறுவதைப் படங்களில் காணலாம்.
+The first day of the three -day Jayanthi ceremony held at the Nelum Pokuna Lotus Lake in the Ministry of Cultural Ministry. Following the International Geeta Jayanti Yagam, you can see in films.
 
 ◼️
 
 [Data](articles/a2be6bf7.json)
+
+[Extended Data](ext_articles/a2be6bf7.ext.json)
 
 ---
 
@@ -75,6 +113,66 @@ Chief Justice Jayantha Jayasuriya was the chief guest at the event.
 [Data](articles/12c3a23d.json)
 
 [Extended Data](ext_articles/12c3a23d.ext.json)
+
+---
+
+### Collaborating for regional sustainable development: Learning from history
+
+*2024-03-01 23:25:09* · [`dailyftlk`](https://www.ft.lk/columns/Collaborating-for-regional-sustainable-development-Learning-from-history/4-759068) · `en`
+
+International conferences like the Indian Ocean Conference that provide platforms for open and frank government and public interaction can engender wider public acceptance of critical path-breaking measures required for new initiatives towards sustainable development
+
+Following are my remarks during the panel session on “Partnerships for a Resilient Region – Collaborating for Regional Sustainable Development”,  at the 7th Indian Ocean Conference held in Perth, Australia – 9-10 February
+
+The 2030 Agenda for Sustainable Development adopted by the Member States of the UN in 2015 provides a shared blueprint for peace and prosperity for the people and the planet, in the present and into the future.
+
+...
+
+[Data](articles/33e7c140.json)
+
+---
+
+### Modi’s civilisational duty and connectivity bordering soft colonisation
+
+*2024-03-01 23:23:05* · [`dailyftlk`](https://www.ft.lk/columns/Modi-s-civilisational-duty-and-connectivity-bordering-soft-colonisation/4-759067) · `en`
+
+Never in the history of independent Sri Lanka (SL) had its economic ties with neighbouring India grown so strategic and deep as during Prime Minister Modi’s decade from 2014 to the present. During that decade, SL had seen seven prime ministers and four presidents of whom a couple had been re-elected or appointed to those positions more than once. But what made Indo-Lanka economic connections so strategic and deep is the island’s rapid descent into financial bankruptcy and economic chaos in 2021 because of systemic mismanagement over several decades.
+
+Even then and historically, although India’s economy is a giant in comparison to that of tiny SL, in terms of GDP per capita and measures of economic development and welfare the island had an enviable record in comparison to her neighbour. In other words, SL did not have the necessity to beg for economic assistance from India as long as the doors of trade and commerce were kept open.
+
+...
+
+[Data](articles/0b4b65e3.json)
+
+---
+
+### UN’s credibility at stake—as Russia and Israel continue to remain defiant
+
+*2024-03-01 23:21:05* · [`dailyftlk`](https://www.ft.lk/opinion/UN-s-credibility-at-stakeas-Russia-and-Israel-continue-to-remain-defiant/14-759066) · `en`
+
+Israeli missile strikes have caused widespread destruction in Gaza – Pic credit: World Health Organization (WHO)
+
+UNITED NATIONS (IPS): The two devastating military conflicts—Russia vs. Ukraine and Israel vs. Hamas—have exposed once again the stark reality that the United Nations, created 79 years ago to maintain international peace and security, has failed in its political mission – while its credibility is at stake.
+
+Russia is accused of violating the UN charter by invading a sovereign nation state and causing hundreds and thousands of deaths over two years — with no signs of a peaceful settlement.
+
+The accusations against Israel include war crimes, genocide, ethnic cleansing and the disproportionate killings of over 30,000 civilians, mostly women and children in Gaza—in retaliation for 1,200 killings by Hamas last October.
+
+...
+
+[Data](articles/d54e7a35.json)
+
+---
+
+### From negative peace to positive peace
+
+*2024-03-01 23:20:22* · [`dailyftlk`](https://www.ft.lk/opinion/From-negative-peace-to-positive-peace/14-759065) · `en`
+
+The need for political consensus with regard to the solution to the ethnic conflict and achievement of national reconciliation was notable at the national symposium organised by the National Peace Council on the theme of “Religions to Reconcile: Strengthening Inclusive Reconciliation” with the participation of over 300 religious clergy of different religions and grassroots leaders from inter-religious committees from 17 districts including the north and east. Political party leaders representing the Government and opposition who participated in the symposium emphasised on the necessary steps to be taken, new mechanisms to be established and the need for an enabling environment.
+
+...
+
+[Data](articles/471985df.json)
 
 ---
 
@@ -1961,133 +2059,5 @@ Today, students have received the question pamps of the social media last night.
 [Data](articles/8ba8cd01.json)
 
 [Extended Data](ext_articles/8ba8cd01.ext.json)
-
----
-
-### One-Month-Old falls from moving trishaw, unharmed
-
-*2024-03-01 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-Month-Old-falls-from-moving-trishaw-unharmed/108-278035) · `en`
-
-Kitulgala, March 1 (Daily Mirror) - A one-month-old infant fell from a moving trishaw onto the Colombo-Hatton highway near Gurumetiya, Kitulgala, but miraculously escaped injury on Thursday night.
-
-The mother, traveling with others from Negombo, had fallen asleep in the back of the trishaw when the infant fell off her lap.
-
-Witnesses in a car following the trishaw noticed the child on the road and took it to the Kitulgala Police Station, where the baby was immediately sent to the Kitulgala Hospital.
-
-The mother and others, unaware of the incident, continued their journey.
-
-When they became aware of the missing baby went back in search and found out from the residents of the location that the baby had been hospitalized.
-
-They then went to Kitulgala Hospital and reunited with the baby.
-
-Doctors examined the infant and found no injuries. However, the baby was later transferred to the Karawanella Base Hospital for further observation, accompanied by the mother.
-
-◼️
-
-[Data](articles/fe516f4a.json)
-
-[Extended Data](ext_articles/fe516f4a.ext.json)
-
----
-
-### Sri Lanka eyes criminal asset recovery law by April under IMF program
-
-*2024-03-01 12:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-criminal-asset-recovery-law-by-april-under-imf-program-152661/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting to pass a “proceeds of crime” law by April 2024 in line with according to an action plan giving effect to recommendation in a corruption diagnostic report by the International Monetary Fund.
-
-The asset recovery law will be in line with a United Nations Convention against Corruption and the international Financial Action Task Force, the statement said.
-
-Related Sri Lanka unveils action plan after IMF corruption report
-
-A key aspect of the Convention is the inclusion of a specific chapter on asset recovery, aimed at returning assets to their rightful owners, including countries from which they had been taken illicitly, according to the UN.
-
-•	A Report of the Committee to develop the Policy and Legal  Frameworkof the proposed Law on Proceeds of Crime will be submitted by end February
-
-•	Preparation of Final Draft by the Legal Draftsman by mid-March
-
-•	Issuance of Certificate of Constitutionality for the Final Draft by end March
-
-...
-
-[Data](articles/38824a36.json)
-
-[Extended Data](ext_articles/38824a36.ext.json)
-
----
-
-### Biggest healthcare exhibition at BMICH
-
-*2024-03-01 12:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Biggest-healthcare-exhibition-at-BMICH/110-278034) · `en`
-
-Sri Lanka’s biggest healthcare exhibition, the National Healthcare Exhibition, was launched today at the Bandaranaike Memorial International Conferance Hall (BMICH) and will continue till Sunday (3). The event showcases the latest in modern healthcare, disease prevention, effective treatment methods, newest technology and latest services available in Sri Lankan hospitals and laboratories as well as the global medical sector. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/b71a51cb.json)
-
-[Extended Data](ext_articles/b71a51cb.ext.json)
-
----
-
-### One killed in shooting at Ahungalla
-
-*2024-03-01 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97655/one-killed-in-shooting-at-ahungalla) · `en`
-
-A person has been killed in a shooting carried out in the Ahungalla area today (01), the police said.
-
-The unidentified assailants who arrived on a motorcycle have shot at the person in front of a hotel, and fled the scene, according to police.
-
-The deceased individual has been identified as a 45-year-old resident of the Kosgoda area.
-
-Ahungalla Police is conducting further investigations in search of the suspects.
-
-◼️
-
-[Data](articles/0fb716a3.json)
-
-[Extended Data](ext_articles/0fb716a3.ext.json)
-
----
-
-### People surrounding the foods that entered the Gaza - the firefighters who fired - many people died in vehicles tried to flee - those who witnessed the incident
-
-*2024-03-01 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177657) · `ta`
-
-A notable incident took place on Thursday as the worst incident in the events of the Hamas Israeli war.
-
-More than a hundred people have been killed in an Israeli attack on people who gathered to get food in Gaza.
-
-117 Palestinians have been killed in Israel's attacks on Palestinians, who have been in the grip of a large number of hunger, the Palestinian Ministry of Health said.
-
-The incident took place in a situation where hunger and hunger in the Gaza Valley, which is under the siege.
-
-It is customary for people who are hungry that they see such vehicles because of the lack of vehicles with food.
-
-However, there are contradictions in the matter of Israel and those who have seen the incident.
-
-The deaths have occurred amidst great confusion on the Harun al -Rasheed road in the western part of Gaza.
-
-Thursday morning, 18 food vehicles arrived in the area.
-
-Eyewitnesses said that Israeli soldiers started firing when the public began to accumulate around the newly loaded vehicles.
-
-...
-
-[Data](articles/9a368f0e.json)
-
-[Extended Data](ext_articles/9a368f0e.ext.json)
-
----
-
-### Man killed in firing
-
-*2024-03-01 12:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-334046) · `ta`
-
-◼️
-
-[Data](articles/fa3a1c2d.json)
-
-[Extended Data](ext_articles/fa3a1c2d.ext.json)
 
 ---

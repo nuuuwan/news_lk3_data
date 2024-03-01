@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 14:33:07**
+As of **2024-03-01 14:51:39**
 
 ## Newspaper Stats
 
-*Scraped **10,242** Articles*
+*Scraped **10,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 528
 dailyftlk | 542
 islandlk | 544
 adalk | 872
-adaderanalk | 1,240
+adaderanalk | 1,241
 tamilmirrorlk | 1,248
-virakesarilk | 1,397
+virakesarilk | 1,398
 dailymirrorlk | 1,552
 adaderanasinhalalk | 1,566
 
@@ -26,29 +26,75 @@ adaderanasinhalalk | 1,566
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,239 (100.0%) of 10,242 articles have been extended.
+10,244 (100.0%) of 10,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### යාපනයේ දූපත් 3කට විදුලිය දෙන්න සැලසුමක්
+### Rajiv Gandhi assassination case convict Santhan’s body flown to Sri Lanka
+
+*2024-03-01 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97658/rajiv-gandhi-assassination-case-convict-santhans-body-flown-to-sri-lanka) · `en`
+
+The body of Sri Lankan national Santhan, a former convict in the Rajiv Gandhi assassination case, was flown to Sri Lanka from India on Friday for last rites, his counsel Pugazhendi said.
+
+The embalmed body, draped and kept in a coffin, was sent on a flight to the island nation amidst heavy police protection. Santhan’s mortal remains would be taken to his house in Sri Lanka, his counsel Pugazhendhi said.
+
+His mortal remains were handed over by the authorities following completion of all formalities after he died early on February 28 at the Rajiv Gandhi Government General Hospital here due to a cardiac arrest. Santhan had been battling for his life for nearly a month due to liver failure diagnosed by the doctors at RGGGH as cryptogenic cirrhosis - a condition with no apparent underlying reason.
+
+His brother and his counsel were by his side when he breathed his last.
+
+...
+
+[Data](articles/5a763ffa.json)
+
+[Extended Data](ext_articles/5a763ffa.ext.json)
+
+---
+
+### Imran pro -Ali Ameen elected as Chief Minister
+
+*2024-03-01 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177675) · `ta`
+
+Imran Khan's BRI is the Chief Minister of Pakistan's Khyber Pakhtunkhwa Province.Party member Ali Amin Cantapur has been elected.
+
+The BRI in the election held on February 8 for the Assembly. 87 supported independent candidates and Nawaz Sharif's BML. - My and JUM. On behalf of the parties, nine people, Sardari's PPP. 4 candidates and the BRIP. Both members and one of the Awami League won.
+
+In this context, the BRI in the election for the post of Chief Minister. On behalf of Ali Amin Kandapur, Ibadullah Khan contested on behalf of BML-N.
+
+Ali Amin Cantapur won 90 votes in the election. Ibadullah got 16 votes.
+
+After being elected as the Chief Minister, Ali Amin Kantapur said, 'We must stand on our own feet. Cannot receive loans. He said we should increase our tax revenue and provide relief to the poor.
+
+As well as the B.I.. He also said that the Pakistan Election Commission would give a week's time to withdraw the complaints against volunteers within a week.
+
+◼️
+
+[Data](articles/12b8250d.json)
+
+[Extended Data](ext_articles/12b8250d.ext.json)
+
+---
+
+### Plan to give electricity to three islands in Jaffna
 
 *2024-03-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194005) · `si`
 
-යාපනයේ දූපත් 03ක හයිබ්‍රිඩ් පුනර්ජනනීය බලශක්ති පද්ධති ස්ථාපනය කිරීම සඳහා අදාළ ගිවිසුම් අද (01) අත්සන් කර තිබේ.
+Agreements have been signed today (01) to install the Hybrid Renewable Energy Systems of 03 Islands in Jaffna.
 
-ඒ සඳහා ඉන්දීය රජය විසින් අමෙරිකානු ඩොලර් මිලියන 10.995ක ප්‍රදානයක් කර ඇත.
+The Government of India has been awarded US $ 10.995 million.
 
-මෙම ව්‍යාපෘතිය යටතේ ඩෙල්ෆ්, අනලතිව් සහ නයිනතිව් යන දූපත් සඳහා 2025 මාර්තු වනවිට විදුලිබලය සැපයීමට නියමිතය.
+Under this project, by March 2025, the power will be provided by March 2025 for the Delft, Andalawa and Nainathivu Islands.
 
-සුළං බලයෙන් කිලෝවොට් 530ක්, සූර්ය බලයෙන් කිලෝවොට් 1700ක්, විද්‍යුත් කෝෂ හරහා කිලෝවොට් 2400ක් සහ ඩීසල් යොදාගෙන කිලෝවොට් 2500ක් උත්පාදනය කෙරෙයි.
+Troops of 530 kW of solar power, which is 2000 kg of solar powers, generates 2500 kWs and diesel using the e-powers.
 
-මෙම ව්‍යාපෘතිය "USOLAR" සමාගම විසින් ක්‍රියාත්මක කරන බව X පණිවුඩයක් නිකුත් කරමින් විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+Minister of Power and Energy Kanchana Wijesekara said this project was implemented by USlar.
 
 ◼️
 
 [Data](articles/affcefe3.json)
+
+[Extended Data](ext_articles/affcefe3.ext.json)
 
 ---
 
@@ -70,27 +116,31 @@ He said this flight service will be a significant contribution towards boosting 
 
 ---
 
-### 2024 ජනවාරි සංචාරක ඉපැයීම් අ. ඩො. මිලියන 342ක්
+### January 2024 tourist earnings a. Do. 342 million
 
 *2024-03-01 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194004) · `si`
 
-විදේශීය අංශයේ ක්‍රියාකාරීත්වය පිළිබඳ නවතම වාර්තාව මහ බැංකුව අද (01) ඉදිරිපත් කර තිබුණි.
+The Central Bank has presented the latest report on the foreign sector functionality.
 
-ඊට අනුව 2024 ජනවාරි මස මෙරට සංචාරක ක්ෂේත්‍රයේ ඉපැයීම් අමෙරිකානු ඩොලර් මිලියන 342කි.
+According to this, the tourism industry in January 2024 was US $ 342 million.
 
-එය 2023 දෙසැම්බරයේ වාර්තා වූ අමෙරිකානු ඩොලර් මිලියන 269ක සංචාරක ඉපැයීම් සහ 2023 ජනවාරි මාසයේ වාර්තාවූ අමෙරිකානු ඩොලර් මිලියන 154ට සාපේක්ෂව කැපී පෙනෙන ඉහළයාමක් බව සඳහන් වේ.
+It is said that tourism earnings of US $ 269 million in December 2023 is a prominent increase in high-taxable earnings and US $ 154 million.
 
-එමෙන්ම 2020 ජනවාරි මාසයෙන් පසු සංචාරක ක්ෂේත්‍රය වාර්තා කළ ඉහළම ආදායම ද මෙය බව ශ්‍රී ලංකා මහ බැංකුව සිය වාර්තාව මගින් පෙන්වා දී තිබේ.
+The Central Bank of Sri Lanka (SLTB) has also shown that this is the highest income of the tourism industry after January 2020.
 
-මේ අතර, මෙරට වෙළෙඳ භාණ්ඩ අපනයන ආදායම 2023 ජනවාරි මාසයේ වාර්තා වූ අමෙරිකානු ඩොලර් මිලියන 978ට සාපේක්ෂව 2024 ජනවාරි මාසයේදී අමෙරිකානු ඩොලර් මිලියන 971ක් ලෙස 0.8%ක සුළු පහළ යාමක් වාර්තා කරයි.
+Meanwhile, in January 2024, Sri Lanka's commodity export earnings recorded a small number of $ 971 million in January 2023.
 
-එමෙන්ම වෙළෙඳ භාණ්ඩ ගිණුමේ හිඟයද ආනයන ඉහළ යාමත් සමග 2023 ජනවාරි මාසයේ වාර්තා වූ අමෙරිකානු ඩොලර් මිලියන 445ට සාපේක්ෂව අමෙරිකානු ඩොලර් මිලියන 547ක් දක්වා පුළුල් වී ඇති බව සඳහන් වෙයි.
+The deficit of the commodity account is reported to US $ 547 million compared to US $ 445 million compared to US $ 445 million.
 
-විදේශ සේවා නියුක්තිකයින්ගේ ප්‍රේෂණ ද 2024 ජනවාරි මාසයේ අමෙරිකානු ඩොලර් මිලියන 488ක වර්ධනයක් සටහන් කර ඇති බවත් මහ බැංකු වාර්තාවේ සඳහන් විය.
+Foreign Employees' Remittances also increased US $ 488 million in January 2024.
+
+The foreign remittances increased to the remittances of 437 million US $ 437 million in January, as compared to US $ 570 million in December 2023, as compared to US $ 570 million.
 
 ...
 
 [Data](articles/838ce90c.json)
+
+[Extended Data](ext_articles/838ce90c.ext.json)
 
 ---
 
@@ -226,6 +276,8 @@ Sri Lanka’s biggest healthcare exhibition, the National Healthcare Exhibition,
 
 [Data](articles/b71a51cb.json)
 
+[Extended Data](ext_articles/b71a51cb.ext.json)
+
 ---
 
 ### One killed in shooting at Ahungalla
@@ -233,6 +285,12 @@ Sri Lanka’s biggest healthcare exhibition, the National Healthcare Exhibition,
 *2024-03-01 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97655/one-killed-in-shooting-at-ahungalla) · `en`
 
 A person has been killed in a shooting carried out in the Ahungalla area today (01), the police said.
+
+The unidentified assailants who arrived on a motorcycle have shot at the person in front of a hotel, and fled the scene, according to police.
+
+The deceased individual has been identified as a 45-year-old resident of the Kosgoda area.
+
+Ahungalla Police is conducting further investigations in search of the suspects.
 
 ◼️
 
@@ -1923,47 +1981,5 @@ Sri Lanka, despite being a nation with a rich history once known to be self-suff
 [Data](articles/f72f47d9.json)
 
 [Extended Data](ext_articles/f72f47d9.ext.json)
-
----
-
-### Despite the ban on additional classes in the Central Province, 58 teachers, including the Chancellor, were transferred
-
-*2024-03-01 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177636) · `ta`
-
-The Provincial Ministry of Education has taken steps to relocate 58 teachers, including the Principal of Schools in the province, although the students in the Central Province have banned additional classes to be charged for students in the Central Province.
-
-The Provincial Ministry of Education has said that a principal of a Ginigathena primary school has been conducting additional classes for the children of his school for money, claiming that the circular given to teachers is not valid.
-
-The Special Circular Division has been established on the directives of the Provincial Education Secretary Menaka Herath, based on information received by some of the teachers of the famous schools in Kandy and nearby areas under the Central Provincial Council.
-
-The provincial education ministry has taken steps to investigate the matter based on a report on the Regional Classes and the complaints from the parents.
-
-...
-
-[Data](articles/ea168f5e.json)
-
-[Extended Data](ext_articles/ea168f5e.ext.json)
-
----
-
-### Temporarily stopped Northern Province Private Bus Owners
-
-*2024-03-01 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177635) · `ta`
-
-A discussion was held with the Private Bus Undership Association, which launched a boycott of a boycott at the Governor's Secretariat on Thursday evening, headed by Governor of the Northern Province BSM Charles.
-
-Fisheries Minister Douglas Devananda, Member of Parliament Anganan Ramanathan and Northern Province Road Transport Authority and Police were also present.
-
-North Sri Lanka Private Bus Owners Association Chairman CC Sivaparan said that the service will be abandoned and the service will be carried out as usual from tomorrow.
-
-He said that all the private and EBO bus services for the Jaffna district will be carried out soon from the newly constructed long -built bus station and that private bus services will be carried out from the power station road as usual.
-
-Private buses staged a protest this morning that the Sri Lanka Transport Board should join the Jaffna Central Bus Stand, demanding that if they are carrying out the newly constructed long bus stand.
-
-...
-
-[Data](articles/e457672b.json)
-
-[Extended Data](ext_articles/e457672b.ext.json)
 
 ---

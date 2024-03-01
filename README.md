@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-01 13:17:16**
+As of **2024-03-01 13:33:18**
 
 ## Newspaper Stats
 
-*Scraped **10,223** Articles*
+*Scraped **10,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 528
 dailyftlk | 542
 islandlk | 544
 adalk | 869
-adaderanalk | 1,237
+adaderanalk | 1,238
 tamilmirrorlk | 1,243
 virakesarilk | 1,397
 dailymirrorlk | 1,548
@@ -26,19 +26,33 @@ adaderanasinhalalk | 1,562
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,222 (100.0%) of 10,223 articles have been extended.
+10,223 (100.0%) of 10,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-01 (Friday)
 
-### අහුන්ගල්ලේ වෙඩිතැබීමක්
+### One killed in shooting at Ahungalla
+
+*2024-03-01 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97655/one-killed-in-shooting-at-ahungalla) · `en`
+
+A person has been killed in a shooting carried out in the Ahungalla area today (01), the police said.
+
+◼️
+
+[Data](articles/0fb716a3.json)
+
+---
+
+### Ahungalla shot
 
 *2024-03-01 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194001) · `si`
 
 ◼️
 
 [Data](articles/1ad29f15.json)
+
+[Extended Data](ext_articles/1ad29f15.ext.json)
 
 ---
 
@@ -56,7 +70,7 @@ Sri Lanka is the first country in Asia to have undergone the IMF Governance Diag
 
 The IMF earlier lauded the timely publication of the GDA, highlighting that it was a commendable first step towards addressing deep-rooted corruption weaknesses.
 
-◼️
+...
 
 [Data](articles/fb88a919.json)
 
@@ -1927,25 +1941,5 @@ Letting schoolchildren bring only their workbooks except textbooks under the dir
 [Data](articles/8c55e5f8.json)
 
 [Extended Data](ext_articles/8c55e5f8.ext.json)
-
----
-
-### Executive Presidency will be abolished under NPP government: Tilvin
-
-*2024-02-29 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Executive-Presidency-will-be-abolished-under-NPP-government-Tilvin/108-277980) · `en`
-
-Colombo, Feb. 29 (Daily Mirror)- Steps will be taken to abolish the Executive Presidency under a National People's Power (NPP) government after introducing a new Constitution, NPP General Secretary Tilvin Silva said.
-
-He told a news conference that the government has started a fresh slogan claiming to abolish the Executive Presidency after they have realised that they cannot win at the next Presidential election.
-
-"They did not want to abolish the Executive Presidency when there was a huge people's protest against the government. They are now claiming to do it as they have realised that they cannot win at the next Presidential election. We have continuously struggled to abolish the Executive Presidency. They are the ones who misled the people by giving false promises to abolish it," he said.
-
-He said only the NPP can abolish the Executive Presidency and ensure the people's sovereignty.
-
-...
-
-[Data](articles/622ef9c1.json)
-
-[Extended Data](ext_articles/622ef9c1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 17:33:19**
+As of **2024-03-02 17:53:20**
 
 ## Newspaper Stats
 
-*Scraped **10,458** Articles*
+*Scraped **10,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-tamilmirrorlk | 1,276
 adaderanalk | 1,276
+tamilmirrorlk | 1,278
 virakesarilk | 1,416
 dailymirrorlk | 1,586
 adaderanasinhalalk | 1,610
@@ -26,15 +26,51 @@ adaderanasinhalalk | 1,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,456 (100.0%) of 10,458 articles have been extended.
+10,458 (100.0%) of 10,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### உணவுப்பொருட்களின் விலைகள் திடீரென அதிகரிப்பு
+### மைத்திரிக்கு நடந்தது நல்லது: சரத்
+
+*2024-03-02 17:25:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-நடந்தது-நல்லது-சரத்/175-334095) · `ta`
+
+**
+
+உத்தியோகபூர்வ இல்லத்தை மைத்திரிபால சிறிசேன இழந்தமை   நல்லது என கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகா தெரிவித்தார்.
+
+மைத்திரிபால சிறிசேன மக்களால் நிராகரிக்கப்பட்ட தலைவர் எனவும் அவர் ஜனாதிபதியாக இருந்த காலத்தில் பொலன்னறுவைக்காக மாத்திரம் செயற்பட்டதாகவும் சரத் பொன்சேகா மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/70370baf.json)
+
+---
+
+### A sudden increase in prices of foods
 
 *2024-03-02 17:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்பொருட்களின்-விலைகள்-திடீரென-அதிகரிப்பு/175-334094) · `ta`
+
+*Food prices rise: All Ceylon Restaurant and Snacks Association increase prices. Cluster and Bright Rice by 50 and 5 rupees, milk tea by 10 rupees. Snacks by 10 and 25 rupees.*
+
+The All Ceylon Restaurant and Restaurant Owners Association said the price of food items would be increased from midnight today.
+
+Accordingly, the cluster and Bright Rice have been decided to increase by 50 rupees, 5 rupees and milk tea by 10 rupees.
+
+The All Ceylon Snacks and Restaurant Owners Association said the snacks would be increased by 10 rupees and 25 rupees.. Remble
+
+◼️
+
+[Data](articles/2c6d3c58.json)
+
+[Extended Data](ext_articles/2c6d3c58.ext.json)
+
+---
+
+### உணவுப்பொருட்களின் விலைகள் திடீரென அதிகரிப்பு
+
+*2024-03-02 17:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உணவுப்பொருட்களின்-விலைகள்-திடீரென-அதிகரிப்பு/150-334094) · `ta`
 
 **
 
@@ -46,7 +82,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/2c6d3c58.json)
+[Data](articles/e5476c0c.json)
 
 ---
 
@@ -69,6 +105,8 @@ Police said they had informed court and obtained a travel ban against Jamaldeen.
 ◼️
 
 [Data](articles/bb38a38d.json)
+
+[Extended Data](ext_articles/bb38a38d.ext.json)
 
 ---
 
@@ -2173,45 +2211,5 @@ Scheduled for 9 March from 9:30 a.m. to 11 a.m. this virtual event promises to b
 [Data](articles/846033a4.json)
 
 [Extended Data](ext_articles/846033a4.ext.json)
-
----
-
-### UNFPA, Japan extend over $ 2.1 m support to Health Ministry
-
-*2024-03-02 00:30:52* · [`dailyftlk`](https://www.ft.lk/news/UNFPA-Japan-extend-over-2-1-m-support-to-Health-Ministry/56-759082) · `en`
-
-**
-
-Hand over Health on Wheels and life-saving equipment and commodities
-
-UNFPA Asia Pacific Regional Director Pio Smith and Acting Ambassador of Japan Kotaro Katsuki yesterday ceremoniously handed over medical supplies to Health Minister Dr. Ramesh Pathirana.
-
-The medicines and medical equipment worth over than $ 2.1 million were donated under the project “ENSURE: Ensuring access to life-saving sexual and reproductive health and providing gender-based violence prevention and response services for women, girls and vulnerable groups”. This project, which is entirely worth $ 4.6 million, has been funded by the Government of Japan, as part of a response to the economic crisis in Sri Lanka and is aimed to support women in vulnerable communities.
-
-...
-
-[Data](articles/db119377.json)
-
-[Extended Data](ext_articles/db119377.ext.json)
-
----
-
-### Capacity building program for Lankan civil servants at India’s National Centre for Good Governance
-
-*2024-03-02 00:30:10* · [`dailyftlk`](https://www.ft.lk/news/Capacity-building-program-for-Lankan-civil-servants-at-India-s-National-Centre-for-Good-Governance/56-759081) · `en`
-
-**
-
-A two-week-long capacity building program for senior civil servants of Sri Lanka organised by the National Centre for Good Governance (NCGG) commenced on 28 February at Mussoorie.
-
-The program until 8 March is organised under the rubric of Indian Technical and Economic Cooperation Program (ITEC) of the Ministry of External Affairs (MEA), Government of India.
-
-It is being attended by 40 senior civil servant officers from Sri Lanka working under capacities as Directors, Deputy Directors, Municipal Secretaries, Divisional Secretaries, Assistant Divisional Secretaries, Deputy Commissioner, Deputy Land Commissioner, Provincial Directors, Assistant Chief Secretary, and Provincial Sports Director among others.
-
-...
-
-[Data](articles/e90ab605.json)
-
-[Extended Data](ext_articles/e90ab605.ext.json)
 
 ---

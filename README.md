@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 21:51:46**
+As of **2024-03-02 22:17:44**
 
 ## Newspaper Stats
 
-*Scraped **10,475** Articles*
+*Scraped **10,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,106 @@ islandlk | 553
 dailyftlk | 561
 adalk | 881
 tamilmirrorlk | 1,280
-adaderanalk | 1,280
+adaderanalk | 1,281
 virakesarilk | 1,416
 dailymirrorlk | 1,587
-adaderanasinhalalk | 1,618
+adaderanasinhalalk | 1,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,473 (100.0%) of 10,475 articles have been extended.
+10,476 (100.0%) of 10,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### සබරගමු පළාතේ ප්‍රශ්න පත්‍රයකුත් සමාජ මාධ්‍යයේ
+### ගාල්ලේ වෙඩිතැබීමක්
+
+*2024-03-02 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194059) · `si`
+
+පොලීසිය සඳහන් කළේ අද (02) පස්වරුවේ මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+සේවය අත්හිටුවා ඇති පොලිස් සැරයන්වරයෙකුගේ නිවසට බලහත්කාරයෙන් ඇතුළුවූ දෙදෙනෙක් ඔහුගේ ලැප්ටොප් පරිගණකය සහ ජංගම දුරකථනය ලබාගෙන පළායමින් සිටියදී අහසට වෙඩිතබා පළාගොස් ඇති බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+සිද්ධියෙන් කිසිවෙකුටත් තුවාල සිදුවී නොමැති අතර සැකකරුවන් යතුරුපැදියකින් පැමිණ ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/5c469a6b.json)
+
+---
+
+### Sri Lanka expresses grave concern over death of aid seekers in Gaza
+
+*2024-03-02 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97694/sri-lanka-expresses-grave-concern-over-death-of-aid-seekers-in-gaza) · `en`
+
+Sri Lanka, expressing deep concern regarding the death of over hundred people who were waiting to receive aid in Gaza, has joined the call for investigation into the incident.
+
+Issuing a statement on Saturday (March 02), the Ministry of Foreign Affairs mentioned that the latest incident underscores the immediate need to end the blockade imposed on Gaza, depriving its civilian population, including women and children, of access to basic necessities such as food, water, medicine, electricity, and fuel.
+
+Sri Lanka reiterates its call for an immediate ceasefire and unrestricted humanitarian access to Gaza to alleviate the suffering of civilians, it added.
+
+Furthermore, the Foreign Affairs Ministry said the Sri Lanka Government approved the establishment of the “Children of Gaza Fund,” a compassionate initiative proposed by the President aimed at providing assistance to the victims in Gaza and to donate USD one million through UN agencies to provide much-needed support to the victims of Gaza.
+
+...
+
+[Data](articles/ef60b1e7.json)
+
+[Extended Data](ext_articles/ef60b1e7.ext.json)
+
+---
+
+### Sabaragamuwa question paper is in social media
 
 *2024-03-02 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194058) · `si`
 
-එළැඹෙන සතිය තුළ පැවැත්වීමට නියමිත සබරගමුව පළාත් පාසල් වර්ෂ අවසාන වාර විභාගයේ ප්‍රශ්න පත්‍රයක් ද මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතින බවට තොරතුරු වාර්තා වෙයි.
+A Sabaragamuwa Provincial Schools question paper and a Western Province answer sheet were reportedly shared on social media, leading to concerns about the integrity of the National Examinations. The Ceylon Teachers Association announced a documentary on Science and History of Sciences for 2023, and the Sabaragamuwa Provincial Education Director addressed the issue, but the Provincial Education Secretary was unreachable.
 
-එහිදී වැඩිදුරටත් වාර්තා වී ඇත්තේ බස්නාහිර පළාත් වාර විභාගයක පිළිතුරු පත්‍රයක් ද එලෙස සමාජ මාධ්‍යට එක්කර ඇති බවය.
+🟩
 
-ජාතික විභාග මෙන්ම පළාත් අධ්‍යාපන දෙපාර්තමේන්තු මගින් පවත්වන පාසල් වාර විභාග කිහිපයකම ප්‍රශ්න පත්‍ර විභාගයට පැය කිහිපයකට පෙර සමාජ මාධ්‍ය වෙත නිකුත් වීමේ සිදුවීම් විටින්විට වාර්තා වුණි.
+It is reported that a question paper of the Sabaragamuwa Provincial Schools will be exchanged along the Social Media which is scheduled to be held in the next week.
 
-2023 වසර සඳහා වන වර්ෂ අවසාන ඇගයීම් විභාගයේ බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව මගින් නිකුත් කරන 10 සහ 11 ශ්‍රේණිවල විද්‍යාව සහ ඉතිහාසය විෂය ප්‍රශ්න පත්‍ර පෙරදින රාත්‍රියේ සමාජ මාධ්‍ය වෙත මුදාහැර තිබුණි.
+It is reported that a answer sheet of a Western Province has been added to the Social Media.
 
-මෙවන් පසුබිමක එළැඹෙන අඟහරුවාදා බස්නාහිර පළාතේ පාසල්වල 11 ශ්‍රේණියේ සිසුන්ට පැවැත්වීමට නියමිත ගණිතය ප්‍රශ්න පත්‍රයට අදාළ පිළිතුරු පත්‍ර ලේඛණය බවට පැවසෙන ලේඛණයක් ද මේ වනවිට සමාජ මාධ්‍ය තුළ සංසරණය වන බව වාර්තා වෙයි.
+The events issued to the social media several hours before the National Examinations are held by the National Examinations as well as the question papers have been reported to the Social Media.
+
+Science and History of Science and History of Sciences for the year 2023
+
+It is reported that a documentary to be held in the Western school schools in the Western Province.
+
+The Ceylon Teachers Association says next Monday of Sabaragamuwa Province will be held on Monday grade 10 English English Language Subject Question Status - The second part of the subject question paper is being exchanged in social media.
 
 ...
 
 [Data](articles/d1146cd1.json)
 
+[Extended Data](ext_articles/d1146cd1.ext.json)
+
 ---
 
-### අමෙරිකාව ගුවනින් ආහාර මලු දමයි
+### America puts fleeing food
 
 *2024-03-02 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194057) · `si`
 
-අමෙරිකානු යුද ගුවන්යානා ගාසා තීරයට ගුවනින් ආහාර මලු හෙළා තිබේ.
+The US has delivered about 30,000 food items to Gaza using three C-130 aircraft, following an incident where over 100 Palestinians were killed in a lorry carrying food. Hamas claims Israel attacked Israel.
 
-C-130 යානා තුනක් යොදාගෙන ආහාර මලු 30,000ක් පමණ ගාසා තීරයට දැමූ බව අමෙරිකානු බලධාරීන් පවසයි.
+🟩
 
-ඔවුන් එම තීරණය ගෙන ඇත්තේ පසුගිය බ්‍රහස්පතින්දා ආහාර රැගත් ලොරි පෙළක් අසලට රැස්වූ පලස්තීන වැසියන් 100කට අධික පිරිසක් මියයෑමෙන් පසුවය.
+The American war planes also condemned the aircraft to the Gaza.
 
-හමාස් සංවිධානය පවසන්නේ ඊශ්‍රායලය විසින් එම පිරිසට ප්‍රහාරයක් එල්ලකළ බවයි.
+US authorities say that about 30,000 foods have been placed in Gaza with three c-13s.
+
+They have taken that decision after more than 100 Palestinians who met on a lorry carrying a lorry carrying food last Thursday.
+
+Hamas says that Israel was attacked by Israel.
 
 ◼️
 
 [Data](articles/7ff6c0d4.json)
+
+[Extended Data](ext_articles/7ff6c0d4.ext.json)
 
 ---
 
@@ -2221,49 +2271,5 @@ The Commissioner General of the Motor Vehicle Transport Department Nishantha Wee
 [Data](articles/54bdfa44.json)
 
 [Extended Data](ext_articles/54bdfa44.ext.json)
-
----
-
-### Chapukascanta refinement
-
-*2024-03-02 04:23:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-சுத்திகரிப்பு-நிறுத்தம்/175-334075) · `ta`
-
-Sapukaskanda Oil Purification Center temporarily closes for 45 days starting July, due to compulsory international requirements.
-
-🟩
-
-The day -to -day operations of the Sapukaskanda Oil Purification Center will be temporarily closed for 45 days.
-
-According to a statement issued by the corporation, its operational operations will be temporarily closed from the month of July.
-
-It is worth noting that the Sapukkaskanda Oil Plant should be closed for compulsory requirements for 45 days, according to international systems.. (A)
-
-◼️
-
-[Data](articles/689ffa11.json)
-
-[Extended Data](ext_articles/689ffa11.ext.json)
-
----
-
-### Action If the Economic Rights Violation
-
-*2024-03-02 04:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-உரிமைகளை-மீறினால்-நடவடிக்கை/175-334074) · `ta`
-
-President Ranil Wickremesinghe announced Sri Lanka's readiness to take action against any economic rights violations, emphasizing the importance of protecting the country from domestic and foreign threats. He highlighted the need for modernization to recover from the collapse of the economy, social structure, and political system.
-
-🟩
-
-Ready to take action against it in any case in violation of economic rights in Sri Lanka. President Ranil Wickremesinghe said that Sri Lanka will carry out against it in the event of any impact on Sri Lanka's economic rights in the Red Sea.
-
-President Ranil Wickremesinghe made this statement at a function of the Sri Lanka Air Force officials at the Chinese Air Force Base at Trincomalee yesterday. He further stated that
-
-The responsibility of protecting the country from domestic and foreign enemies depends on you. Today, our country's economy, social structure and political system are recovering from the collapse. Cannot go back to the past. So we have to progress from here. He said that the majority of modernization in the country should be carried out. (A)
-
-◼️
-
-[Data](articles/c5b608bf.json)
-
-[Extended Data](ext_articles/c5b608bf.ext.json)
 
 ---

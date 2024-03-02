@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 00:33:02**
+As of **2024-03-03 00:47:38**
 
 ## Newspaper Stats
 
-*Scraped **10,482** Articles*
+*Scraped **10,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ adalk | 884
 tamilmirrorlk | 1,280
 adaderanalk | 1,282
 virakesarilk | 1,416
-dailymirrorlk | 1,587
+dailymirrorlk | 1,589
 adaderanasinhalalk | 1,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,482 (100.0%) of 10,482 articles have been extended.
+10,482 (100.0%) of 10,484 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-03 (Sunday)
+
+### Suspect transporting pills near school zone arrested
+
+*2024-03-03 00:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-transporting-pills-near-school-zone-arrested/108-278118) · `en`
+
+Colombo, March 02 (Daily Mirror)-  The Police Special Task Force apprehended an individual in the Kalubowila area, who was allegedly transporting 1,000 narcotic pills on a motorcycle, with apparent intentions of targeting school children.
+
+The suspect, identified as a 23-year-old resident of Kalubowila, was taken into custody.
+
+Subsequently, the suspect has been transferred to the Kohuwala police for further investigations.
+
+◼️
+
+[Data](articles/96c0c775.json)
+
+---
 
 ### 2024-03-02 (Saturday)
 
@@ -69,6 +87,22 @@ No one has been injured in the incident and the suspects have arrived in a motor
 [Data](articles/39acf014.json)
 
 [Extended Data](ext_articles/39acf014.ext.json)
+
+---
+
+### School exams in Western Province suspended over question paper leak
+
+*2024-03-02 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-exams-in-Western-Province-suspended-over-question-paper-leak/108-278119) · `en`
+
+Colombo, March 02 (Daily Mirror) - The Western Province Education Department has taken action to suspend ongoing government school term tests following reports of leaked Mathematics and English question papers.
+
+The authorities confirmed the suspension of term examinations after receiving credible information regarding the question paper leak.
+
+The department wasted no time in lodging a formal complaint with the Criminal Investigation Department (CID) to launch a thorough investigation into the matter.
+
+◼️
+
+[Data](articles/7174a939.json)
 
 ---
 
@@ -2229,53 +2263,5 @@ The Maximum Retail price is to be submitted to the Consumer Protection Authority
 [Data](articles/eb7fd271.json)
 
 [Extended Data](ext_articles/eb7fd271.ext.json)
-
----
-
-### The mysterious score found in the water
-
-*2024-03-02 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194029) · `si`
-
-A mysterious score was discovered in the water near Karamgepitiya anicut. A romancal motorcycle was found by the Police Special Task Force's Galegoda team. Today, the motorcycle is being investigated to determine if it was involved in a shooting incident in Ahungalla.
-
-🟩
-
-A romancal motorcycle was found near the Karamgepitiya anicut.
-
-It was found by a team of the Police Special Task Force's Galegoda.
-
-The motorcycle is being investigated today to seek the motorcycle to shoot at the city of Ahungalla today.
-
-◼️
-
-[Data](articles/c614c879.json)
-
-[Extended Data](ext_articles/c614c879.ext.json)
-
----
-
-### Showers to several places
-
-*2024-03-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194028) · `si`
-
-Showers or thundershowers expected in Kalutara, Ratnapura, Nuwara Eliya, Galle, and Matara. Morning showers in East and South. Dry weather elsewhere. Strong winds in North Western Province and Hambantota. Meteorological Department advises caution.
-
-🟩
-
-Showers or thundershowers will occur at several places in Kalutara, Ratnapura, Nuwara Eliya, Galle and Matara districts.
-
-There may be a few showers in the morning in the East and Southern provinces.
-
-There are mainly dry weather in the rest of the island.
-
-Strong winds can range from 30-35 km per hour in the North Western Province and in the Hambantota district.
-
-The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9c6ef4d7.json)
-
-[Extended Data](ext_articles/9c6ef4d7.ext.json)
 
 ---

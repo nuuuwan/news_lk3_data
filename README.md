@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 12:48:40**
+As of **2024-03-02 13:02:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,425 (100.0%) of 10,429 articles have been extended.
+10,429 (100.0%) of 10,429 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,36 @@ Amaraweera further mentioned that the new maximum retail price would be submitte
 ◼️
 
 [Data](articles/08f7197a.json)
+
+[Extended Data](ext_articles/08f7197a.ext.json)
+
+---
+
+### Israeli Gaza
+
+*2024-03-02 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177733) · `ta`
+
+The UN reports that more than 100 people have been killed in the bodies of many who have been injured in the firing of people surrounded by people surrounding Gaza.
+
+UN officials who have visited Gaza's Alziba Hospital have visited more than 200 people who have been treated for injuries.
+
+Hamas alleges that Israel's firing was caused by deaths. Israel said the losses were caused by the collision of food vehicles.
+
+The disaster occurred on Thursday morning that thousands of people surrounded the diet of Israel's protection.
+
+Videos have been revealed that the sounds of gunfire, the people's grievances and the hiding behind the lorries.
+
+112 people were killed and 760 were injured, Hamasin's Ministry of Health said.
+
+Israel said that there were casualties and injuries due to the fact that the public was tense.
+
+Israeli officials have said that the Israeli soldiers were involved in the removal of them after the public was surrounded by a vehicle.
+
+...
+
+[Data](articles/43386ea3.json)
+
+[Extended Data](ext_articles/43386ea3.ext.json)
 
 ---
 
@@ -66,27 +96,7 @@ During the scheduled shutdown, the CPC will maintain a full capacity of crude to
 
 [Data](articles/8cb4a19c.json)
 
----
-
-### இஸ்ரேல் காசா- உணவுவாகனத்தொடரணி சம்பவத்தில் பாதிக்கப்பட்ட பலரின் உடல்களில் துப்பாக்கி சூட்டு காயங்கள் - ஐநா தகவல்
-
-*2024-03-02 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177733) · `ta`
-
-காசாவில் உணவுவாகனத்தை சூழ்ந்த மக்கள் மீது இஸ்ரேல் மேற்கொண்ட துப்பாக்கி பிரயோகத்தினால் 100க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ள அதேவேளை காயமடைந்த பலரின் உடல்களில் துப்பாக்கி சூட்டு காயங்கள் காணப்படுவதாக ஐநா தெரிவித்துள்ளது.
-
-காசாவின் அல்ஸிபா மருத்துவமனைக்கு சென்றுள்ள ஐநா அதிகாரிகள் இந்த சம்பவத்தினால் காயமடைந்த நிலையில் சிகிச்சை பெற்றுவரும் 200க்கும் அதிகமானவர்களை பார்வையிட்டுள்ளனர்.
-
-இஸ்ரேலின் துப்பாக்கி பிரயோகம் காரணமாகவே உயிரிழப்புகள் ஏற்பட்டன என ஹமாஸ்  குற்றம்சாட்டியுள்ளது. உணவு வாகனங்கள் மோதியதால் இழப்புகள் ஏற்பட்டன என இஸ்ரேல் தெரிவித்துள்ளது.
-
-வியாழக்கிழமை காலையில் இஸ்ரேலின் பாதுகாப்புடன் நுழைந்த உணவுவாகனத்தொடரணியை ஆயிரக்கணக்கான மக்கள் சூழ்ந்துகொண்டதை தொடர்ந்தே இந்த அனர்த்தம் நிகழ்ந்தது.
-
-துப்பாக்கிபிரயோக சத்தங்கள் கேட்பதையும் மக்கள் பதறி ஓடுவதையும் லொறிகள் பின்னால் மறைந்துகொள்வதையும்  காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
-
-112 பேர் கொல்லப்பட்டுள்ளனர் 760 பேர் காயமடைந்துள்ளனர் என ஹமாசின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/43386ea3.json)
+[Extended Data](ext_articles/8cb4a19c.ext.json)
 
 ---
 
@@ -1605,6 +1615,8 @@ The accusations against Israel include war crimes, genocide, ethnic cleansing an
 ...
 
 [Data](articles/cb6c9dc9.json)
+
+[Extended Data](ext_articles/cb6c9dc9.ext.json)
 
 ---
 

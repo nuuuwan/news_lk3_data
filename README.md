@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 10:02:45**
+As of **2024-03-02 10:17:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,401 (100.0%) of 10,402 articles have been extended.
+10,402 (100.0%) of 10,402 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1826,19 +1826,21 @@ It is reported that when children are playing, they have found a tire meeting, a
 
 ---
 
-### මේ වසරේ දෙවැනි මසටත් සංචාරක පැමිණීම ‌දෙලක්ෂය ඉක්මවයි
+### Tourist arrivals over the second highest number of this year
 
 *2024-03-01 18:51:20* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-දෙවැනි-මසටත්-සංචාරක-පැමිණීම-‌දෙලක්ෂය-ඉක්මවයි/11-408377) · `si`
 
-මේ වසරේ ජනවාරි මාසයේ මෙන්ම ‌පෙබරවාරි මාසයේදීත් මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව දෙලක්ෂය  ඉක්මවා තිබේ. ඒ් අනුව ‌පෙබරවාරි මාසයේ ශ්‍රී ලංකාවට පැමිණ ඇති සංචාරකයන් සංඛ්‍යාව 218 350කි.
+In January this year, the number of tourists arrived in January as well as in February. The number of tourist arrivals to Sri Lanka in February was 218 350.
 
-පසුගිය මස වැඩිම සංචාරකයින් සංඛ්‍යාවක් පෙබරවාරි 24 වන දින පැමිණ ඇති අතර එම අගය 10,014කි. ‌පෙබරවාරි මාසයේ වැඩිම සංචාරකයන් ප්‍රමාණයක් ශ්‍රී ලංකාවට පැමිණ ඇත්තේ රුසියාවෙන් වන අතර ඒම අගය 32 030කි. ඉන් අනතුරුව ඉන්දියාවේ (30,027) හා ඒක්සත් රාජධානියෙන් (20,614) වැඩිම සංචාරකයන් ප්‍රමාණයක් ලංකාවට පැමිණ තිබේ.
+Last month, the highest number of tourists arrived on February 24, with 10,014. The highest number of tourists in February arrived in Sri Lanka and 3230. The highest number of tourist arrivals arrived in Sri Lanka after India (30,0277) and the Abeygasm (20,614).
 
-මීට අමතරව ගෙවී ගිය මාස දෙකෙහි මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව 426,603 ක් ලෙස දත්ත වාර්තා පෙන්වා දෙයි.
+In addition, the number of tourist arrivals to Sri Lanka in the last two months is 426,603.
 
 ◼️
 
 [Data](articles/f2846f6f.json)
+
+[Extended Data](ext_articles/f2846f6f.ext.json)
 
 ---
 

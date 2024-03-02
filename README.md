@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 12:17:28**
+As of **2024-03-02 12:33:06**
 
 ## Newspaper Stats
 
-*Scraped **10,424** Articles*
+*Scraped **10,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 560
 adalk | 879
-adaderanalk | 1,266
+adaderanalk | 1,267
 tamilmirrorlk | 1,272
 virakesarilk | 1,414
 dailymirrorlk | 1,581
@@ -26,23 +26,43 @@ adaderanasinhalalk | 1,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,423 (100.0%) of 10,424 articles have been extended.
+10,424 (100.0%) of 10,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### ஹரிணியை நிறுத்தவும்: ஹிருணிகா
+### Decision to suspend Parate Law not implemented properly, Sajith alleges
+
+*2024-03-02 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97681/decision-to-suspend-parate-law-not-implemented-properly-sajith-alleges) · `en`
+
+Leader of the Opposition Sajith Premadasa alleges that the decision taken by the government to temporarily halt the ‘Parate Law’ is not being implemented properly.
+
+Thus, Premadasa mentioned that he intends to request the President to take actions to communicate the relevant decision to the banks.
+
+Commenting regarding the matter, State Minister of Finance Ranjith Siyambalapitiya said that even though the Parate Law has been temporarily suspended, banks have not been deprived of their right to expropriate the property.
+
+Earlier this week, the Cabinet of Ministers green-lighted a proposal made by the President to suspend all Parate Executions in a bid to protect small- and medium-scale entrepreneurs (SMEs) that were severely affected by the economic woes over the past 3 years.
+
+...
+
+[Data](articles/0bbffd2c.json)
+
+---
+
+### Stop Harini: Hirunika
 
 *2024-03-02 11:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிணியை-நிறுத்தவும்-ஹிருணிகா/175-334087) · `ta`
 
-தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளராக, பாராளுமன்ற உறுப்பினரான  கலாநிதி ஹரிணி அமரசூரிய நியமிக்கப்பட வேண்டுமென முன்னாள் பாராளுமன்ற உறுப்பினரும் ஐக்கிய மக்கள் சக்தியின் உறுப்பினருமான  திருமதி ஹிருணிகா பிரேமச்சந்திர கோரியுள்ளார்.
+Former MP and Member of the United People's Power Mrs. Hirunika Premachandra has demanded that Dr. Harini Amarasuriya be appointed as the Presidential candidate of the National People's Power.
 
-அநுரகுமார திஸாநாயக்கவுக்கு ஒரு பயங்கரமான கடந்த காலம் உண்டு. ஹரிணிக்கு அப்படியில்லை. அவருக்கு நல்ல அரசியல் வாழ்க்கை இருக்கிறது. அவரை கட்சியின் ஜனாதிபதி வேட்பாளராக முன்னிறுத்த வேண்டும் என்றும் கோரிக்கை விடுத்துள்ளார்.
+Anuragumara Dissanayake has a terrible past. Harini is not that. He has a good political life. He has also called for him to be the party's presidential candidate.
 
 ◼️
 
 [Data](articles/93c66764.json)
+
+[Extended Data](ext_articles/93c66764.ext.json)
 
 ---
 
@@ -1923,25 +1943,5 @@ As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a
 [Data](articles/b9d08e02.json)
 
 [Extended Data](ext_articles/b9d08e02.ext.json)
-
----
-
-### Alexi Navalni's body to be buried
-
-*2024-03-01 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194024) · `si`
-
-The body of the Russian opposition leader Alexi Navealney has been buried today (01).
-
-Foreign media stated that his body was buried in a cemetery close to Moscow.
-
-The people who joined the occasion were anti-Putin.
-
-His mother had not joined the burial of the body, but for security reasons.
-
-◼️
-
-[Data](articles/14d2969c.json)
-
-[Extended Data](ext_articles/14d2969c.ext.json)
 
 ---

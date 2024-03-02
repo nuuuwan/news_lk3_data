@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 13:02:38**
+As of **2024-03-02 13:17:28**
 
 ## Newspaper Stats
 
-*Scraped **10,429** Articles*
+*Scraped **10,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 economynextcom | 543
 islandlk | 553
 dailyftlk | 561
-adalk | 879
+adalk | 880
 adaderanalk | 1,268
 tamilmirrorlk | 1,272
 virakesarilk | 1,415
 dailymirrorlk | 1,582
-adaderanasinhalalk | 1,600
+adaderanasinhalalk | 1,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,429 (100.0%) of 10,429 articles have been extended.
+10,429 (100.0%) of 10,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### ආයතන විකිණීම ගැන හරිනිගෙන් විවේචනයක්
+
+*2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194041) · `si`
+
+ජනවරමක් නොමැති ආණ්ඩුවකට ශ්‍රී ලංකා ටෙලිකොම්, රක්ෂණ සංස්ථාව ආදී ආයතන විකුණා දැමීම සම්බන්ධයෙන් තීරණ ගත නොහැකි බව පාර්ලිමේන්තු මන්ත්‍රී හරිනි අමරසූරිය මහත්මිය පවසයි.
+
+ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරයේ නියෝජිතයන් සමඟ ඊයේ (01) පැවති සාකච්ඡාවකින් අනතුරු ව මාධ්‍යයට අදහස් දක්වමින් ඇය මේ බව සඳහන් කළා ය.
+
+‍බැංකු සේවක සංගමය, ජාතික විදුලි බල මණ්ඩලය, ශ්‍රී ලංකා ටෙලිකොම් ආයතනය සහ රක්ෂණ සංස්ථාව නියෝජනය කරමින් ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරය ඊයේ ජාතික ජන බලවේගයේ නියෝජිතයන් හමු විය.
+
+ජනතා විමුක්ති පෙරමුණු පක්ෂ කාර්යාලයේ පැවති මෙම හමුවේ දී එම ආයතන වර්තමානයේ මුහුණ දී තිබෙන ගැටලු සම්බන්ධයෙන් සාකච්ඡා කර තිබේ.
+
+මේ අතර, ටෙලිකොම් වෘත්තීය සමිති නියෝජිතයන් සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි ලොකුගේ මහතා ද පසුගිය දා ප්‍රවෘත්ති සාකච්ඡාවකට එක් විය.
+
+◼️
+
+[Data](articles/02d1ffb3.json)
+
+---
+
+### ආයතන විකිණීම ගැන හරිනිගෙන් විවේචනයක්
+
+*2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194040) · `si`
+
+ජනවරමක් නොමැති ආණ්ඩුවකට ශ්‍රී ලංකා ටෙලිකොම්, රක්ෂණ සංස්ථාව ආදී ආයතන විකුණා දැමීම සම්බන්ධයෙන් තීරණ ගත නොහැකි බව පාර්ලිමේන්තු මන්ත්‍රී හරිනි අමරසූරිය මහත්මිය පවසයි.
+
+ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරයේ නියෝජිතයන් සමඟ ඊයේ (01) පැවති සාකච්ඡාවකින් අනතුරු ව මාධ්‍යයට අදහස් දක්වමින් ඇය මේ බව සඳහන් කළා ය.
+
+‍බැංකු සේවක සංගමය, ජාතික විදුලි බල මණ්ඩලය, ශ්‍රී ලංකා ටෙලිකොම් ආයතනය සහ රක්ෂණ සංස්ථාව නියෝජනය කරමින් ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරය ඊයේ ජාතික ජන බලවේගයේ නියෝජිතයන් හමු විය.
+
+ජනතා විමුක්ති පෙරමුණු පක්ෂ කාර්යාලයේ පැවති මෙම හමුවේ දී එම ආයතන වර්තමානයේ මුහුණ දී තිබෙන ගැටලු සම්බන්ධයෙන් සාකච්ඡා කර තිබේ.
+
+මේ අතර, ටෙලිකොම් වෘත්තීය සමිති නියෝජිතයන් සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි ලොකුගේ මහතා ද පසුගිය දා ප්‍රවෘත්ති සාකච්ඡාවකට එක් විය.
+
+◼️
+
+[Data](articles/5b3f2ad6.json)
+
+---
 
 ### Maximum retail price for eggs expected next week
 
@@ -151,6 +191,22 @@ The sale is sold at Rs.
 [Data](articles/ddccf47e.json)
 
 [Extended Data](ext_articles/ddccf47e.ext.json)
+
+---
+
+### උෂ්ණාධික කාලගුණය නිසා ජල උල්පත් සිදී යනවා
+
+*2024-03-02 11:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උෂ්ණාධික-කාලගුණය-නිසා-ජල-උල්පත්-සිදී-යනවා/11-408381) · `si`
+
+රජයට අයත් පොහොර සමාගම් දෙක නිෂ්පාදනය කරන තත්ත්වයෙන් හා ගුණාත්මකභාවයෙන් ඉහළ තේ පොහොර වෙළෙඳපොලේ අලෙවි කරන මිලට වඩා අඩුවෙන් වගාකරුවන්ට ලබාදෙන බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊෙය්  (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+මේ දිනවල දිවයින පුරා උෂ්ණාධික කාලගුණ තත්ත්වයක් පවතිනවා. එය ජල උල්පත් සිදීයාමේ තත්ත්වයක් දක්වා බලපා තිබෙනවා. එම තත්ත්වය හමුවේ වගා කටයුතු සිදුකිරීමේ දී එක් දිනක් තුළ සම්පූර්ණ කුඹුරු යායම එකවර වගා කරන ලෙස ගොවි ජනතාවගෙන් ඉල්ලා සිටිනවා.
+
+...
+
+[Data](articles/5bee8eb7.json)
 
 ---
 
@@ -1881,75 +1937,5 @@ The convocation ceremony was held in grand style on the 18th of January 2024 at 
 [Data](articles/bef7ccc3.json)
 
 [Extended Data](ext_articles/bef7ccc3.ext.json)
-
----
-
-### Additional Secretary of the Ministry of Health Dr. Saman Ratnayake arrested
-
-*2024-03-01 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177712) · `ta`
-
-Additional Secretary of the Ministry of Health Dr. Saman Ratnayake has been arrested by the Criminal Investigation Division on Friday.
-
-Dr. Saman Ratnayake visited the Criminal Investigation Department on Friday afternoon (01) to make a confession on the imported issue of controversial immunoglobulin vaccine.
-
-He has been arrested after a confession for about 7 hours.
-
-The Magistrate has ordered the suspects, including former health minister Keheliya Rambukwella, to be remanded until March 14.
-
-◼️
-
-[Data](articles/2e9f1eaa.json)
-
-[Extended Data](ext_articles/2e9f1eaa.ext.json)
-
----
-
-### Manju's head-to-head shot -cctv
-
-*2024-03-01 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194025) · `si`
-
-A relative brother of the underworld member of the underworld gang member of Kosgoda Suv has been shot dead at Ahuallella today.
-
-The criminal part of the criminal is suspected to be revenge in the Panpicara murder in Beliatta.
-
-Two persons who came from a score of the scooper in a tractor were shot at around 12.30 pm at Ahungalla today.
-
-Revolver was shot with a firearm and the Vidician aim was a person near a shopping.
-
-CCTV shows a range of CCTV visits to these shooters.
-
-The shooter comes near the shop and get down the motorcycle and then board the ship.
-
-Later, a man in the store came and told the shooter with a running out of the place.
-
-Thereafter the shooter gets ridiculed on the motorcycle.
-
-This is how the CCTV camera has been diagnosed with the fifty shooting.
-
-The shooting was on the head of the man and he died in the spot.
-
-Kusu Kumara Mendis alias Manju was a 45-year-old resident of Kosgoda.
-
-...
-
-[Data](articles/534abe32.json)
-
-[Extended Data](ext_articles/534abe32.ext.json)
-
----
-
-### Controversial Vaccine Import - Drug Arrest
-
-*2024-03-01 21:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-தடுப்பூசி-இறக்குமதி-வைத்தியர்-சமன்-ரத்நாயக்க-கைது/175-334060) · `ta`
-
-Additional Secretary of the Ministry of Health and Drug Records, Dr. Saman Ratnayake has been arrested by the Criminal Investigation Division.
-
-He has been arrested in connection with the importation of controversial immunoglobulin vaccine. Remble
-
-◼️
-
-[Data](articles/ae5e5cfa.json)
-
-[Extended Data](ext_articles/ae5e5cfa.ext.json)
 
 ---

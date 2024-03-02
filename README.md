@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 07:15:14**
+As of **2024-03-02 07:29:17**
 
 ## Newspaper Stats
 
-*Scraped **10,373** Articles*
+*Scraped **10,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 553
 dailyftlk | 560
 adalk | 876
 adaderanalk | 1,255
-tamilmirrorlk | 1,259
+tamilmirrorlk | 1,260
 virakesarilk | 1,412
 dailymirrorlk | 1,573
 adaderanasinhalalk | 1,588
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,372 (100.0%) of 10,373 articles have been extended.
+10,373 (100.0%) of 10,374 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,19 +52,37 @@ He pointed out that it was for the first time in 18 years that the tank spilt ov
 
 ---
 
-### ’பொருளாதார உரிமைகளை மீறினால் நடவடிக்கை’
+### சப்புகஸ்கந்த சுத்திகரிப்பு நிறுத்தம்
+
+*2024-03-02 04:23:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-சுத்திகரிப்பு-நிறுத்தம்/175-334075) · `ta`
+
+சப்புகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையத்தின் நாளாந்த செயற்பாடுகள் 45 நாட்கள் தற்காலிகமாக மூடப்படவுள்ளன என கனியவள கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+அதற்கமைய, எதிர்வரும் ஜீலை மாதம் முதல் அதன் செயற்பாட்டு நடவடிக்கைகள் தற்காலிகமாக மூடப்படவுள்ளன என அந்த கூட்டுத்தாபனம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+சர்வதேச முறைமைகளுக்கு அமைய, 45 நாள்களுக்கு சப்புகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையம் கட்டாய தேவைகளுக்காக மூடப்பட வேண்டும் என்பது குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/689ffa11.json)
+
+---
+
+### Action If the Economic Rights Violation
 
 *2024-03-02 04:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-உரிமைகளை-மீறினால்-நடவடிக்கை/175-334074) · `ta`
 
-இலங்கையில் பொருளாதார உரிமைகள் மீறப்படும் எந்தவொரு சந்தர்ப்பத்திலும் அதற்கு எதிரான நடவடிக்கைகளை மேற்கொள்ளத் தயார். செங்கடலில் இலங்கையின் பொருளாதார உரிமைகளுக்கு ஏதேனும் பாதிப்புக்கள் ஏற்படும் பட்சத்தில், அதற்கு எதிரான செயற்பாடுகளை இலங்கை முன்னெடுக்கும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Ready to take action against it in any case in violation of economic rights in Sri Lanka. President Ranil Wickremesinghe said that Sri Lanka will carry out against it in the event of any impact on Sri Lanka's economic rights in the Red Sea.
 
-திருகோணமலை சீனக்குடா விமானப்படை தளத்தில் நேற்று முன்தினம் இடம்பெற்ற இலங்கை விமானப்படை கெடட் அதிகாரிகளுக்கு அதிகாரவாணை அளிக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+President Ranil Wickremesinghe made this statement at a function of the Sri Lanka Air Force officials at the Chinese Air Force Base at Trincomalee yesterday. He further stated that
 
-உள்நாட்டு, வெளிநாட்டு விரோதிகளிடமிருந்து நாட்டைப் பாதுகாக்கும் பொறுப்பு உங்களை சார்ந்திருக்கிறது. இன்று நமது நாட்டின் பொருளாதாரம், சமூக கட்டமைப்பு, அரசியல் முறைமை சரிவிலிருந்து மீண்டு வருகின்றன. கடந்த காலத்திற்கு மீண்டும் செல்ல முடியாது. எனவே நாம் இங்கிருந்து முன்னேற வேண்டும். அதற்கு, நாட்டில் மிகப்பெரிய அளவில் நவீனமயமாக்கல் செயற்பாடுகள் முன்னெடுக்கப்பட வேண்டும் என்றார். (a)
+The responsibility of protecting the country from domestic and foreign enemies depends on you. Today, our country's economy, social structure and political system are recovering from the collapse. Cannot go back to the past. So we have to progress from here. He said that the majority of modernization in the country should be carried out. (A)
 
 ◼️
 
 [Data](articles/c5b608bf.json)
+
+[Extended Data](ext_articles/c5b608bf.ext.json)
 
 ---
 
@@ -2001,27 +2019,5 @@ According to market capitalization, the 12 Largest Companies listed in the Colom
 [Data](articles/ed1c7790.json)
 
 [Extended Data](ext_articles/ed1c7790.ext.json)
-
----
-
-### Refusal to photograph Shantan's Blood
-
-*2024-03-01 15:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-பூதவுடலை-புகைப்படம்-எடுக்க-சந்தர்ப்பம்-மறுப்பு/175-334053) · `ta`
-
-The body of T. Surendraraja, who was convicted on the murder of former Prime Minister Rajiv Gandhi, was sent to the Katunayake airport on Friday afternoon.
-
-Tea. Surendra Raja was found guilty and was jailed, and later amnesty, and later in India, Chennai, he was going to visit his mother in Sri Lanka when he suffered from severe kidney disease.
-
-His body was sent to the Katunayake airport at Sri Lanka Airlines flight from Chennai, Chennai at 11.35 pm.
-
-Many relatives have visited the Katunayake Airport Airport to the Katunayake Airport to get the body and some documents needed to release the body from Chennai to Katunayake airport.
-
-Until the documents were available, the body was placed on the airport's cargo terminal at the Katunayake airport at 03.30 pm and no opportunity to photograph journalists.
-
-◼️
-
-[Data](articles/1268382c.json)
-
-[Extended Data](ext_articles/1268382c.ext.json)
 
 ---

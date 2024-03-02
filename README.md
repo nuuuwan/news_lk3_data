@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 16:32:57**
+As of **2024-03-02 17:02:40**
 
 ## Newspaper Stats
 
-*Scraped **10,447** Articles*
+*Scraped **10,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,90 @@ newsfirstlk | 363
 economynextcom | 543
 islandlk | 553
 dailyftlk | 561
-adalk | 880
+adalk | 881
 tamilmirrorlk | 1,273
-adaderanalk | 1,274
+adaderanalk | 1,275
 virakesarilk | 1,416
 dailymirrorlk | 1,583
-adaderanasinhalalk | 1,608
+adaderanasinhalalk | 1,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,441 (99.9%) of 10,447 articles have been extended.
+10,448 (100.0%) of 10,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### කෑම මිල ගණන් වැඩි කරයි
+### Prices of several food items including fried rice, Kottu increased
 
-*2024-03-02 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194048) · `si`
+*2024-03-02 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97689/prices-of-several-food-items-including-fried-rice-kottu-increased) · `en`
 
 **
 
-ආපනශාලා ආහාරපානවල මිල ගණන් අද (02) මධ්‍යම රාත්‍රියේ සිට ඉහළ දමන බව සමස්ත ලංකා ආපනශාලා සහ අවන්හල් හිමියන්ගේ සංගමය පවසයි.
+All-Ceylon Restaurant Owners’ Association has decided to increase the prices of multiple food items including Kottu, Fried Rice and a cup of milk tea with effect from midnight today (02).
 
-එහි සභාපති හර්ෂණ රුක්ෂාන් මහතා මාධ්‍ය හමුවකදී මේ බව සඳහන් කළේය.
+Joining a press briefing, President of the association Harshana Rukshan stated that this decision was arrived at after considering the significant increase in the production cost of food items.
 
-ආහාරවල නිෂ්පාදන වියදම අධික ලෙස ඉහළයෑම නිසා සියලුම ආහාරපානවල මිල ගණන් මෙලෙස වැඩි කිරීමට තීරණය කර ඇත.
+Accordingly, the price of a cup of plain tea has been increased by Rs. 05, a cup of milk tea by Rs. 10. Meanwhile, the price of a packet of rice and curry will be increased by Rs. 25, while the price of a packet of Kottu and Fried Rice will also be increased by Rs. 50 from midnight today.
 
-ඒ අනුව, ප්ලේන්ටි එකක මිල රුපියල් 5කින්, කිරි තේ එකක මිල රුපියල් 10කින්, කෑම (රයිස් ඇන්ඩ් කරී) එකක මිල රුපියල් 25කින්, ෆ්‍රයිඩ් රයිස් සහ කොත්තු එකක මිල රුපියල් 50 කින් ආදී වශයෙන් මිල ගණන් ඉහළ දැමීමට තීරණය කර තිබේ.
+Furthermore, the association highlighted that if the prices of consumer goods are decreased, they are ready to provide the relevant concessions to the general public.
 
-යම්කිසි ආකාරයකින් රජය පරිභෝගික භාණ්ඩ මිල පහළ දැමුවහොත් එම සහනය ජනතාවට ලබාදීමට කටයුතු කරන බවද ඔහු වැඩිදුරටත් පැවසීය.
+◼️
+
+[Data](articles/963b15e3.json)
+
+---
+
+### 2024 Issues the revised school season
+
+*2024-03-02 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194049) · `si`
+
+*The Ministry of Education announced a revised school season in 2024. The first phase of the first school started on February 19, with the second phase from April 24 to May 3, and the GCE Ordinary Level exams from May 20 to May 31. The second term runs from June 3 to August 16. The third term, after the GCE A/L results on January 2, 2025, starts on November 26 and ends on January 17, 2025.*
+
+The amended school concession in 2024 has been announced by the Ministry of Education.
+
+Accordingly, the first phase of the first phase of the first school which began on February 19 will operate from April 10.
+
+The second phase of the first season will operate from April 24 to May 3 and the first stage of the GCE Ordinary Level examination will be operated from May 20 to 31st May.
+
+The second term will operate from June 3 to August 16, the Ministry of Education said.
+
+The first phase of the third term invested in 2024 will be held on November 26 to November 2nd stage on the third term after the GCE A / L results will be opened on January 2, 2025.
+
+The third term is due to end the third term invested on January 17, 2025, the Ministry of Education said.
+
+◼️
+
+[Data](articles/dd78c487.json)
+
+[Extended Data](ext_articles/dd78c487.ext.json)
+
+---
+
+### The food prices increase
+
+*2024-03-02 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194048) · `si`
+
+*Food prices rise, with All Ceylon Restaurant and Restaurants Thera increasing prices from midnight. Chairman Rukshan explains production costs led to price hikes.*
+
+The All Ceylon Restaurant and Restaurants Thera says that the prices of the restaurant dates will increase from midnight (02).
+
+The Chairman of the Assistant Rukshan was speaking at a media briefing.
+
+The cost of production of foods has decided to increase the prices of all the foods.
+
+Accordingly, the price of a platitude has decided to increase the prices of Rs.
+
+He added that if the consumer goods prices will be given to the people, he added.
 
 ◼️
 
 [Data](articles/8597aae3.json)
+
+[Extended Data](ext_articles/8597aae3.ext.json)
 
 ---
 
@@ -78,39 +126,45 @@ Ninety-five nurses were selected during the first phase out of 400 candidates.
 
 [Data](articles/5ce3275f.json)
 
+[Extended Data](ext_articles/5ce3275f.ext.json)
+
 ---
 
-### බොරැල්ලේ වෙඩිතැබීමට ආ සැකකරුවෙක් කොටුවෙයි
+### Suspect to shoot Borella fall
 
 *2024-03-02 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194046) · `si`
 
-**
+*A suspect was arrested for injuries in Borend, Colombo, on 19th. The Colombo South Division Crime Investigation Bureau arrested the suspect on 2nd. The suspect's motorcycle was also seized.*
 
-පොලීසිය සඳහන් කළේ පසුගිය 19 වනදා බොරැල්ල ආනන්ද රාජකරුණා මාවතේ පදිංචි පුද්ගලයෙකුට වෙඩිතබා බරපතළ තුවාල සිදුකර මනූෂ්‍ය ඝාතනයකට තැත් කිරීමේ සිද්ධියට සම්බන්ධ සැකකරුවෙකු මෙලෙස අත්අඩංගුවට ගත් බවය.
+Police said that a suspect had been arrested for serious injuries in Ananda Rajakara Mawatha, Borend on the 19th.
 
-කොළඹ දකුණ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසින් සැකකරුව අද (02) අත්අඩංගුවට ගෙන තිබුණේ ග්‍රෑන්ඩ්පාස් සේදවත්ත ප්‍රදේශයේදීය.
+The suspect was arrested by the officers of the Colombo South Division Crime Investigation Bureawatta today (02).
 
-එම අපරාධය සිදුකිරීම සඳහා භාවිත කළ යතුරුපැදියේ පැදිකරු යතුරුපැදිය ද සමග මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+The motorcycle used to commit the crime was arrested along with the motorcycle.
 
 ◼️
 
 [Data](articles/1b4c819b.json)
 
+[Extended Data](ext_articles/1b4c819b.ext.json)
+
 ---
 
-### පෙබරවාරි මාසයේ සංචාරකයින් 218,350ක්
+### 218,350 tourists in February
 
 *2024-03-02 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194045) · `si`
 
-**
+*In February 2024, Sri Lanka saw 218,350 tourists, earning an estimated US $710 million in the first two months of 2024, according to Minister Harin Fernando.*
 
-2020 වසරේ ජනවාරි සිට මසක් තුළ මෙරටට පැමිණි වැඩිම සංචාරකයින් සංඛ්‍යාව 2024 පෙබරවාරි මාසයේදී වාර්තා වී තිබේ.
+In February 202, 2024, the number of tourist arrivals arrived in Sri Lanka from January 2020.
 
-සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසන්නේ 2024 මුල් මාස දෙක තුළ ඇස්තමේන්තු ගත සංචාරක ඉපැයීම් ගණන අමෙරිකානු ඩොලර් මිලියන 710ක් බවය.
+Minister of Tourism Harin Fernando says that the number of tourist earnings for the first two months of 2024 estimates US $ 710 million.
 
 ◼️
 
 [Data](articles/becebe75.json)
+
+[Extended Data](ext_articles/becebe75.ext.json)
 
 ---
 
@@ -134,6 +188,8 @@ The data also presented an unprecedented decline in both urban and rural inequal
 
 [Data](articles/d7dfbbd3.json)
 
+[Extended Data](ext_articles/d7dfbbd3.ext.json)
+
 ---
 
 ### Sri Lanka records over 200,000 tourist arrivals for second consecutive month in 2024
@@ -155,6 +211,8 @@ The country also attracted as many as 208,253 tourists in January this year, as 
 ◼️
 
 [Data](articles/3aec0038.json)
+
+[Extended Data](ext_articles/3aec0038.ext.json)
 
 ---
 
@@ -184,7 +242,7 @@ Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premis
 
 *2024-03-02 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194044) · `si`
 
-**
+*Saman Ratnayake, Additional Secretary to the Ministry of Health, has been remanded until the 14th. He was summoned by the Criminal Investigation Department (CID) regarding the humian emoneglabulin incident.*
 
 Additional Secretary to the Ministry of Health Saman Ratnayake has been remanded till the 14th.
 
@@ -206,7 +264,7 @@ The Criminal Investigations Department was arrested by the Criminal Investigatio
 
 *2024-03-02 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194043) · `si`
 
-**
+*Four Sri Lankan women, employed domestically in Saudi Arabia, report torture, including food and beverage deprivation. They were brought to Saudi Arabia in October and November 2023, against their will, and are now seeking repatriation.*
 
 Four women in Sri Lanka say that they have been tortured in Riyadh, who went to the domestic service to be held in Riyadh.
 
@@ -236,7 +294,7 @@ Also, many domestic workers who have brought from themselves and from other coun
 
 *2024-03-02 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194042) · `si`
 
-**
+*SriLankan Airlines paid Rs. 5 billion for aircraft, needs 27 for operations, and has 6 aircraft in NOO category, including 2 A320s and 4 A32s. Eight aircraft were removed from 24 to April 2022, and tax reliefs were paid from 2021 to April 2023. The airline faced engine issues but received additional engines from the manufacturer.*
 
 SriLankan's office has been paid a sum of Rs.
 
@@ -268,7 +326,7 @@ The 4r-Aao group (4RR-A) plane and the 4R-AA.
 
 *2024-03-02 13:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரவ-உணவுகளை-உட்கொள்ளுமாறு-மக்களுக்கு-ஆலோசனை/175-334090) · `ta`
 
-**
+*Health experts recommend consuming liquid foods and staying hydrated due to high temperatures. Dr. Janaka Marasinghe, a nutritionist, emphasizes this advice. The Department of Meteorology's report indicates a 'warning level' for body temperature in several provinces and districts, advising against severe outdoor activities, wearing lightweight clothing, and prioritizing hydration.*
 
 Health experts have said that the public should pay more attention to the food and drinks eating public due to high temperatures.
 
@@ -340,7 +398,7 @@ The IGP made these remarks following a visit to the Temple of Tooth Relic in Kan
 
 *2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194041) · `si`
 
-**
+*MP Harinini Amarasuriya criticizes selling institutions like Sri Lanka Telecom and Insurance Corporation to a government without a mandate, during a discussion with National Resources Protection Movement representatives.*
 
 MP Harinini Amarasuriya says he cannot make decisions regarding selling the institutions such as Sri Lanka Telecom and Insurance Corporation to a government that does not have a mandate.
 
@@ -364,7 +422,7 @@ Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recentl
 
 *2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194040) · `si`
 
-**
+*MP Harinini Amarasuriya criticizes selling institutions like Sri Lanka Telecom and Insurance Corporation to a government without a mandate, during a discussion with National Resources Protection Movement representatives.*
 
 MP Harinini Amarasuriya says he cannot make decisions regarding selling the institutions such as Sri Lanka Telecom and Insurance Corporation to a government that does not have a mandate.
 
@@ -408,7 +466,7 @@ The collaboration between UNFPA Sri Lanka and the University of Colombo signifie
 
 *2024-03-02 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177737) · `ta`
 
-**
+*Despite police presence, thousands attended Alexei Navalni's funeral, raising slogans and queuing for his autopsy. Navalni's team accused Russian officials of disrupting the event.*
 
 Thousands of Russian Opposition Leader Alexi Navalni
 
@@ -462,7 +520,7 @@ Amaraweera further mentioned that the new maximum retail price would be submitte
 
 *2024-03-02 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177733) · `ta`
 
-**
+*The UN reports over 100 deaths and injuries in Gaza due to Israeli firing, with Hamas blaming Israel for the incident. Israel claims the casualties were due to a collision involving food vehicles. The incident involved thousands of people and resulted in 112 deaths and 760 injuries, according to Hamas. Israeli officials deny any involvement with Palestinians, and the Israeli army has been involved in removing the public from the area.*
 
 The UN reports that more than 100 people have been killed in the bodies of many who have been injured in the firing of people surrounded by people surrounding Gaza.
 
@@ -538,7 +596,7 @@ Earlier this week, the Cabinet of Ministers green-lighted a proposal made by the
 
 *2024-03-02 11:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிணியை-நிறுத்தவும்-ஹிருணிகா/175-334087) · `ta`
 
-**
+*Mrs. Hirunika Premachandra, a former MP and member of the United People's Power, has called for Dr. Harini Amarasuriya to be the Presidential candidate of the National People's Power. Anuragumara Dissanayake, despite a troubled past, has a good political career and has also advocated for Harini as the party's presidential candidate.*
 
 Former MP and Member of the United People's Power Mrs. Hirunika Premachandra has demanded that Dr. Harini Amarasuriya be appointed as the Presidential candidate of the National People's Power.
 
@@ -556,7 +614,7 @@ Anuragumara Dissanayake has a terrible past. Harini is not that. He has a good p
 
 *2024-03-02 11:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலை-அதிகரிப்பு/175-334086) · `ta`
 
-**
+*The retail price of chicken meat has risen by 20 rupees, now at Rs. 1,180, affecting poultry farmers.*
 
 The retail price of one kilogram of chicken meat has been increased by 20 rupees. 40 to Rs.. Poultry farmers said it has been increased till 60.
 
@@ -572,11 +630,29 @@ The sale is sold at Rs.
 
 ---
 
+### යාපනය දූපත් තුනකට දෙමුහුන් බලශක්ති ව්‍යාපෘතියක්
+
+*2024-03-02 11:40:25* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දූපත්-තුනකට-දෙමුහුන්-බලශක්ති-ව්‍යාපෘතියක්/11-408382) · `si`
+
+**
+
+යාපනය දූපත් 3ක් වෙනුවෙන් විදුලිබලය සම්පාදනය කරන දෙමුහුම් බලශක්ති ව්‍යපෘතියේ ඉදිකිරිම වෙනුවෙන් ගිවිසුම්ගත වීම ඊයේ (01දා)  උදෑසන සිදු කරනු ලැබුණි.
+
+ඉන්දීය රජයේ පුර්ණ මූල්‍ය ප්‍රධානයක් ලෙස ලැබෙන ඇමෙරිකානු ඩොලර් මිලියන 10.995ක මුදලක් මගින් ඩෙල්ෆ්, එලුවතිව් සහ නයිනතිව්(නාගදීපය) දූපත් වල මෙම ව්‍යපෘතිය ක්‍රියාත්මක කෙරේ.
+
+කිලෝ වොට් 530ක සුළං බලය, කිලෝ වොට් 1700ක සුර්ය බලය, කිලෝ වොට් පැය 2400ක බැටරි පද්ධතියක් සමග පුනර්ජනනීය බලය සහ විකල්ප කිලෝ වොට් 2500ක ඩීසල් බලයෙන් ක්‍රියාත්මක වන මෙම දෙමුහුම් පද්ධතිය USOLAR සමාගම මගින් 2025 මාර්තු වන විට වැඩ අවසන් කිරීමට බලාපොරොත්තු වේ.
+
+◼️
+
+[Data](articles/c54930aa.json)
+
+---
+
 ### The spring of water is dry due to the hottest weather
 
 *2024-03-02 11:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උෂ්ණාධික-කාලගුණය-නිසා-ජල-උල්පත්-සිදී-යනවා/11-408381) · `si`
 
-**
+*Due to the hottest weather, the spring of water is dry. Minister Mahinda Amaraweera announced that tea fertilizer will be provided to growers at government-quality prices. Farmers are urged to cultivate paddy fields immediately, using modern technology like "parachute" and specific methods for plowing. The government is focusing on supplementary crops and has increased the production of certain fertilizers. Efforts are being made to reduce fertilizer prices, with the aim of providing high-quality fertilizer at minimum prices. The Red Cultivation Scheme has successfully implemented 55 out of 59 projects, harvesting around 1350 kilograms of tea leaves per acre per month. This initiative is credited to President Ranil Wickremesinghe's visionary measures.*
 
 Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the tea fertilizer will be given to the growers of the quality and quality of the government's fertilizer companies.
 
@@ -638,7 +714,7 @@ Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premis
 
 *2024-03-02 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194039) · `si`
 
-**
+*IGP Tennakoon emphasizes efficiency in operations against criminals, racketeers, and the underworld in Kandy.*
 
 IGP, Deshabandu Tennakoon has emphasized that the operation operates more efficient and strong.
 
@@ -658,7 +734,7 @@ The IGP has stated that the criminals, racketeers and the underworld have not be
 
 *2024-03-02 11:17:35* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියේ-සේවයට-ගිය-කතුන්-4ක්-බේරා-ගන්නැයි-ඉල්ලීමක්/11-408380) · `si`
 
-**
+*Four Sri Lankan women in Saudi Arabia face harassment and job loss. They were brought from Sri Lanka for household service. The Sri Lankan government demands their rescue.*
 
 Four women who had gone to Saudi Arabia in Sri Lanka for household service have been detained in Riyadh in Saudi Arabia, but the women claim that they are disturbed by various harassment.
 
@@ -686,7 +762,7 @@ The Sri Lankan government is the only demands of Sri Lankan domestic workers to 
 
 *2024-03-02 11:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தது-ரஷ்ய-போர்க்கப்பல்/175-334085) · `ta`
 
-**
+*A Russian navy warship with 529 people arrived in Colombo for an official visit, focusing on development activities with Sri Lanka's navy.*
 
 A Russian navy's warship has arrived at the port of Colombo with an official visit with 529 people.
 
@@ -726,7 +802,7 @@ Chicken sale centres in Handapangoda recorded Rs. 1,190 per kilogram of fresh ch
 
 *2024-03-02 10:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கூட்டணி-மைத்திரி-அதிரடி/175-334084) · `ta`
 
-**
+*"New Alliance Maithri Action: Former President Maithripala Sirisena announces a new coalition led by the Sri Lanka Freedom Party, to be formed next week. He mentions future action regarding the United Front amendment."*
 
 Former President Maithripala Sirisena has said that a new coalition led by the Sri Lanka Freedom Party will be formed next week.
 
@@ -744,7 +820,7 @@ He said that as the United Front amendment has been amended, action will be take
 
 *2024-03-02 10:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-வரமாட்டேன்-கெஹலிய/175-334083) · `ta`
 
-**
+*Keheliya Rambukwella, arrested for drug offenses, won't attend parliamentary meetings due to illness. Despite preparations by the Speaker's office, he's been placed in interrogation. A court order requires a detailed health report from the prison commissioner.*
 
 Former Health Minister Keheliya Rambukwella, who has been arrested on charges of buying non -standard drugs, has sent a letter to the General Secretary of Parliament that he will not attend parliamentary meetings.
 
@@ -766,7 +842,7 @@ Meanwhile, the court recently ordered the prison commissioner to submit a detail
 
 *2024-03-02 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194038) · `si`
 
-**
+*Saman Ratnayake, Additional Secretary to the Ministry of Health, arrested by CID after 9-hour interrogation, will be sentenced in court.*
 
 Additional Secretary to the Ministry of Health in the Health Ministry yesterday (CID) has been produced before the Maligakanda Courts.
 
@@ -784,7 +860,7 @@ Mr. Saman Ratnayake was summoned to the Criminal Investigation Department yester
 
 *2024-03-02 10:43:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/காத்தான்குடியில்-பரபரப்பு-நீதவான்-அதிரடி-உத்தரவு/73-334082) · `ta`
 
-**
+*The Batticaloa Magistrate's Court ordered 30 people, including Sahran Kasim's sister's husband, to appear on the 26th after arresting them on suspicion of involvement in a Sunday attack in Kattankudi Palamunai. A motorcycle and three-wheeler were recovered, and police conducted a special inspection.*
 
 When the Batticaloa Magistrate's Court was produced before the Magistrate's Court yesterday evening, he was allowed to go to the bodies and ordered them to appear in court on the 26th of this month.
 
@@ -806,7 +882,7 @@ After investigating the arrested persons, they were allowed to go to the body wh
 
 *2024-03-02 10:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டையில்-சுரண்டினால்-சிக்கல்/175-334081) · `ta`
 
-**
+*Minister Mahinda Amaraweera plans to prevent egg traders from exploiting consumers by setting a reasonable maximum retail price, aiming to reduce the cost from Rs 60 to around Rs 30.*
 
 When the cost of production for an egg in the country costs about 30 rupees, people have to buy it for Rs 60.. Minister Mahinda Amaraweera said that steps will be taken to prevent traders from exploiting the people.
 
@@ -870,7 +946,7 @@ American Airlines said Thursday it had suspended its daily service between Miami
 
 *2024-03-02 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194037) · `si`
 
-**
+*A 42-year-old was arrested in Negombo for smuggling illegal cigarettes, discovered by the LTTE.*
 
 A person has been arrested in Negombo with a large haul of cigarettes imported illegally imported.
 
@@ -890,7 +966,7 @@ A 42-year-old person has been arrested in connection with the incident and has b
 
 *2024-03-02 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177725) · `ta`
 
-**
+*The United Nations Human Rights Commissioner Volcher Turk has called for targeted action against those convicted of human rights violations in Sri Lanka. The Sri Lankan government has been urged to investigate past and current human rights abuses, including economic crimes, and take responsibility for filing cases against violators.*
 
 United Nations Human Rights Commissioner Volcher Turk has appealed to the targeted action against those who are convicted of massive human rights violations and human rights abuses in Sri Lanka.
 
@@ -930,7 +1006,7 @@ Concluding the official visit, Varyag will depart the island tomorrow.
 
 *2024-03-02 09:28:16* · [`adalk`](https://www.ada.lk/picture_story/රුසියානු-යුද-නැවක්-කොළඹ-වරායට/10-408379) · `si`
 
-**
+*The Russian Naval Cruiser Varryag, led by Captain 2nd Rank Vasicievich and Captain 1st Rank Vasicievich, visited Colombo for an official visit, including meetings with Sri Lankan officials and visits to various locations. The ship is set to depart on March 3, 2024.*
 
 The Russian Naval Cruiser Varryag arrived at the port of the Colombo port for an official visit to the Port of Sri Lanka.
 
@@ -952,7 +1028,7 @@ The ship is also due to leave the island on March 3, 2024, concluding the offici
 
 *2024-03-02 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194036) · `si`
 
-**
+*Parliament meets on 5th March from 9:30 am to 10:30 am for questions and debates on various bills and amendments. On 20th February, bills on transactions, mortgages, leasing, and company amendments were debated. The government's proposal is to be held from 4:30 pm to 2:30 pm. On 6th March, a new gazette notification and draft bills are to be debated. Social Security Tax and value-added tax amendments are also up for debate. The Ceylon Fisheries Harbor Corporation Limited and the Sri Lanka Aquaculture Development Authority proposals were approved without debate. The opposition's proposal to bring the church to parliament is postponed.*
 
 The Parliamentary Communication Section has informed the Parliament on 05:16 and 07 of the next 5th and 07.
 
@@ -978,7 +1054,7 @@ The law stating the new gazette notification No. 2369/58 under the Essential Pub
 
 *2024-03-02 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177716) · `ta`
 
-**
+*International Geeta Jayanti Yagam, a three-day event at Nelum Pokuna Lotus Lake, showcased in films.*
 
 The first day of the three -day Jayanthi ceremony held at the Nelum Pokuna Lotus Lake in the Ministry of Cultural Ministry. Following the International Geeta Jayanti Yagam, you can see in films.
 
@@ -1118,7 +1194,7 @@ Addressing a press briefing at the Presidential Media Centre (PMC) on Friday (Ma
 
 *2024-03-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194035) · `si`
 
-**
+*Today marks the 73rd anniversary of the Sri Lanka Air Force, celebrated as a priority for the National Assembly's security.*
 
 The 73th Anniversary of the Sri Lanka Air Force has today (02).
 
@@ -1136,7 +1212,7 @@ The anniversary is celebrated as a priority as the security guards of the Nation
 
 *2024-03-02 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194034) · `si`
 
-**
+*A 19-year-old from Misalee died in an accident near Jaffna-Kandy road, caused by a bus traveling to Vavuniya. The driver was arrested.*
 
 A young man was killed in an accident near the Jaffna-Kandy road.
 
@@ -1160,7 +1236,7 @@ The bus driver was arrested by the Chavakachcheri Police regarding the accident.
 
 *2024-03-02 08:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-விமானத்தால்-மாத்தறையில்-பலத்த-சேதம்/175-334080) · `ta`
 
-**
+*The Prime Minister's plane crashed at Matara Fort Ground during Finance Minister Ronnie de Melin's funeral, damaging the hotel's roof and food/drinks. Strong winds caused the incident. High-ranking security workers faced difficulties due to falling debris. Local and foreign tourists criticized the landing. The Matara Hotel arranged alternative meals for those inconvenienced. Despite the incident, the area was quickly cleaned, and officials investigated the damage.*
 
 Former Finance Minister Ronnie de Melin's funeral, the Prime Minister's plane crashed at the Matara Fort Ground, causing the roof and food drinks of the hotel in the area.
 
@@ -1190,7 +1266,7 @@ However, Prime Minister Dinesh Gunawardena got off the plane and then brought it
 
 *2024-03-02 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194033) · `si`
 
-**
+*A teacher at a public school in Padukka allegedly assaulted seven students, leading to three hospitalized. The teacher claims the students attacked during class.*
 
 It is reported that three students are receiving treatment at the Padukka Regional Hospital with a teacher by a teacher.
 
@@ -1252,7 +1328,7 @@ He made this remark while speaking to the media after SLFP’s Central Committee
 
 *2024-03-02 07:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களுக்குள்-மோதல்-சிறுமி-உட்பட-மூவர்-படுகாயம்/175-334079) · `ta`
 
-**
+*In Meegahagivula-Taldhena, a conflict between two female groups injured three women, including a 6-year-old girl, who were admitted to hospitals. Further investigations are ongoing.*
 
 Three women, including a girl, were injured in a clash between two female groups at around 6.00 pm yesterday (01) at the Meegahagivula - Taldhena area, police said.
 
@@ -1294,7 +1370,7 @@ A senior official of Padukka Police said the incident was being investigated and
 
 *2024-03-02 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194032) · `si`
 
-**
+*SLFP to form new alliance with UPFA, led by President Sirisena. Constitution of United Front revised. Officers' appointments to follow new rules.*
 
 Former President Maithripala Sirisena says that steps will be taken to set up the UPFA led by the Sri Lanka Freedom Party next week.
 
@@ -1342,7 +1418,7 @@ Wind speed may increase up to 40-45 kmph at times in the sea areas off the coast
 
 *2024-03-02 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177722) · `ta`
 
-**
+*Sri Lanka's new laws, including the Celebration Protection Act and Anti-Terrorism Act, could impact fundamental rights and democracy, strengthening presidential powers and security forces, warns UN Human Rights Commissioner Wolcker Dark.*
 
 United Nations Human Rights Commissioner Wolcker Dark said that the new proposed laws that could impact the fundamental rights of Sri Lanka and the democratic system of the rule of the law.
 
@@ -1360,7 +1436,7 @@ The UN Human Rights Commissioner said the UN Human Rights Commissioner said that
 
 *2024-03-02 07:17:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மழை-ஏனைய-பகுதிகளில்-வரட்சி/175-334078) · `ta`
 
-**
+*Rain and thundershowers expected in Kalutara, Ratnapura, Galle, and Matara districts. Strong winds in North Western Province and Hambantota district. Public advised to take precautions against lightning.*
 
 In some places in Kalutara, Ratnapura, Galle and Matara districts, there is a possibility of rain or thundershowers in the evening or at night.
 
@@ -1380,7 +1456,7 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 *2024-03-02 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194031) · `si`
 
-**
+*Sajith Premadasa criticizes the government for not implementing a temporary suspension. He mentions the President's request for action. The State Minister confirms a temporary suspension of the Prime law but denies banks' right to seize property.*
 
 Opposition Leader Sajith Premadasa says that the government has not implemented temporary suspension to temporary.
 
@@ -1400,7 +1476,7 @@ Speaking on the matter, the State Minister stated that the Prime law was suspend
 
 *2024-03-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194030) · `si`
 
-**
+*Sri Lanka's Minister of Agriculture has proposed a maximum retail price for eggs, aiming to prevent the "egg mafia" from exploiting consumers. The price will be submitted to the Consumer Protection Authority next week.*
 
 The Minister of Sri Lanka has increased to Rs.
 
@@ -1420,7 +1496,7 @@ The Maximum Retail price is to be submitted to the Consumer Protection Authority
 
 *2024-03-02 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194029) · `si`
 
-**
+*A mysterious score was discovered in the water near Karamgepitiya anicut. A romancal motorcycle was found by the Police Special Task Force's Galegoda team. Today, the motorcycle is being investigated to determine if it was involved in a shooting incident in Ahungalla.*
 
 A romancal motorcycle was found near the Karamgepitiya anicut.
 
@@ -1440,7 +1516,7 @@ The motorcycle is being investigated today to seek the motorcycle to shoot at th
 
 *2024-03-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194028) · `si`
 
-**
+*Showers or thundershowers expected in Kalutara, Ratnapura, Nuwara Eliya, Galle, and Matara. Morning showers in East and South. Dry weather elsewhere. Strong winds in North Western Province and Hambantota. Meteorological Department advises caution.*
 
 Showers or thundershowers will occur at several places in Kalutara, Ratnapura, Nuwara Eliya, Galle and Matara districts.
 
@@ -1530,7 +1606,7 @@ The manager of the Matara Rest House attributed the incident to the powerful sea
 
 *2024-03-02 04:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-கடலில்-ஆணின்-சடலம்/175-334077) · `ta`
 
-**
+*An unidentified man's body was found floating in the Trincomalee - Dokyat Sea last evening.*
 
 The body of an unidentified man has been recovered last evening at the Trincomalee - Dokyat Sea, police said.
 
@@ -1548,7 +1624,7 @@ Police recovered the body as they were floating in the sea.
 
 *2024-03-02 04:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேவைகளைப்-பெற்றுக்கொள்ள-முன்பதிவு/175-334076) · `ta`
 
-**
+*The Department of Motor Vehicle Transport requires booking for services starting next Monday, with Commissioner General Nishantha Weerasinghe overseeing the process, which involves two systems and can be managed via the department's website or phone call.*
 
 The Department of Motor Vehicle Transport has said that it is mandatory for those who receive services after next Monday.
 
@@ -1568,7 +1644,7 @@ The Commissioner General of the Motor Vehicle Transport Department Nishantha Wee
 
 *2024-03-02 04:23:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-சுத்திகரிப்பு-நிறுத்தம்/175-334075) · `ta`
 
-**
+*Sapukaskanda Oil Purification Center temporarily closes for 45 days starting July, due to compulsory international requirements.*
 
 The day -to -day operations of the Sapukaskanda Oil Purification Center will be temporarily closed for 45 days.
 
@@ -1588,7 +1664,7 @@ It is worth noting that the Sapukkaskanda Oil Plant should be closed for compuls
 
 *2024-03-02 04:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-உரிமைகளை-மீறினால்-நடவடிக்கை/175-334074) · `ta`
 
-**
+*President Ranil Wickremesinghe announced Sri Lanka's readiness to take action against any economic rights violations, emphasizing the importance of protecting the country from domestic and foreign threats. He highlighted the need for modernization to recover from the collapse of the economy, social structure, and political system.*
 
 Ready to take action against it in any case in violation of economic rights in Sri Lanka. President Ranil Wickremesinghe said that Sri Lanka will carry out against it in the event of any impact on Sri Lanka's economic rights in the Red Sea.
 
@@ -1634,7 +1710,7 @@ The lawsuit, which has been filed in San Francisco, states it was under these co
 
 *2024-03-02 03:43:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்து-குழு-இலங்கைக்கு-நிதி-அன்பளிப்பு/175-334073) · `ta`
 
-**
+*Thailand's Buddhist group donated $50,000 to Sri Lanka, aimed at aiding the poor. This is the third donation for Sri Lanka's welfare, with previous gifts promoting health facilities in Buddhist temples.*
 
 Colombo. The Buddhist delegation of Kirinde Assaji Thera and the Buddhist group of Thailand have met President Ranil Wickremesinghe and donated $ 50 thousand.
 
@@ -1826,7 +1902,7 @@ According to papers filed in the FR application the CEA Chairman had been arrest
 
 *2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177719) · `ta`
 
-**
+*"Ado Mukh" is a suspense thriller featuring SP. Siddharth, Chaitanya Pratap, and others. The story revolves around Martin, a tea plantation officer, who uses spy software to surprise his wife, leading to unexpected consequences. The film is praised for its dense screenplay, performances, and the director's ability to weave a suspenseful narrative.*
 
 Actors: SP. Siddharth, Chaitanya Pratap, Arun Pandiyan, Anand Nag, Mathew Varghese and many others.
 
@@ -1846,7 +1922,7 @@ Man Martin works as an officer at a tea plantation in Ooty (S. B.. Siddharth). H
 
 *2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177718) · `ta`
 
-**
+*"Kissing noise" reviews "Cuttaom Kuttu Tha," focusing on Srikanth's performance, Sandhya's amnesia, and the plot twists. Critics praise Raghu's acting but criticize the screenplay's flaws, leading to fan fatigue.*
 
 Did Actor Srikanth meet the expectation of all the fans after the film 'Cuttaom Kuttu Tha', which plays a negative role after a short break?Or not?We will continue to see.
 
@@ -2092,7 +2168,7 @@ With SLT-Mobitel’s unmatched network performance, One Shot ULTRA brings a sign
 
 *2024-03-02 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177717) · `ta`
 
-**
+*Minister Douglas Devananda criticized the actions of private transport workers, emphasizing the importance of democratic struggle and the right to express demands. He also mentioned a committee to address the issue, with a decision to be made within a week.*
 
 Minister Douglas Devananda pointed out that the activities of the private transport servants that are inconvenienced by the people are unpleasant and that he has never wanted the political positions of selfish politics with the struggles.
 
@@ -2133,61 +2209,5 @@ During the period the refinery remains shut, the CPC will maintain a buffer stoc
 [Data](articles/8b28fdef.json)
 
 [Extended Data](ext_articles/8b28fdef.ext.json)
-
----
-
-### Release the 150th anniversary of the Law College of Sri Lanka
-
-*2024-03-01 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177715) · `ta`
-
-**
-
-The stamp was issued by the college administration on Friday (1) to mark the 150th anniversary of the Law College of Sri Lanka.
-
-Chief Justice Jayantha Jayasuriya was the chief guest at the event.
-
-◼️
-
-[Data](articles/12c3a23d.json)
-
-[Extended Data](ext_articles/12c3a23d.ext.json)
-
----
-
-### Collaborating for regional sustainable development: Learning from history
-
-*2024-03-01 23:25:09* · [`dailyftlk`](https://www.ft.lk/columns/Collaborating-for-regional-sustainable-development-Learning-from-history/4-759068) · `en`
-
-**
-
-International conferences like the Indian Ocean Conference that provide platforms for open and frank government and public interaction can engender wider public acceptance of critical path-breaking measures required for new initiatives towards sustainable development
-
-Following are my remarks during the panel session on “Partnerships for a Resilient Region – Collaborating for Regional Sustainable Development”,  at the 7th Indian Ocean Conference held in Perth, Australia – 9-10 February
-
-The 2030 Agenda for Sustainable Development adopted by the Member States of the UN in 2015 provides a shared blueprint for peace and prosperity for the people and the planet, in the present and into the future.
-
-...
-
-[Data](articles/33e7c140.json)
-
-[Extended Data](ext_articles/33e7c140.ext.json)
-
----
-
-### Modi’s civilisational duty and connectivity bordering soft colonisation
-
-*2024-03-01 23:23:05* · [`dailyftlk`](https://www.ft.lk/columns/Modi-s-civilisational-duty-and-connectivity-bordering-soft-colonisation/4-759067) · `en`
-
-**
-
-Never in the history of independent Sri Lanka (SL) had its economic ties with neighbouring India grown so strategic and deep as during Prime Minister Modi’s decade from 2014 to the present. During that decade, SL had seen seven prime ministers and four presidents of whom a couple had been re-elected or appointed to those positions more than once. But what made Indo-Lanka economic connections so strategic and deep is the island’s rapid descent into financial bankruptcy and economic chaos in 2021 because of systemic mismanagement over several decades.
-
-Even then and historically, although India’s economy is a giant in comparison to that of tiny SL, in terms of GDP per capita and measures of economic development and welfare the island had an enviable record in comparison to her neighbour. In other words, SL did not have the necessity to beg for economic assistance from India as long as the doors of trade and commerce were kept open.
-
-...
-
-[Data](articles/0b4b65e3.json)
-
-[Extended Data](ext_articles/0b4b65e3.ext.json)
 
 ---

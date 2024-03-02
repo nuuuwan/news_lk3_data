@@ -18,5 +18,8 @@
         "Black spam messages and reports themselves to users. Apart from the new facility, users can add WhatsApp Settings-Private-Black Contacts-Aad to go to the Contact to Black."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "WhatsApp's update introduces a Spam Lock feature to block spam directly from the lock screen, enhancing user privacy and safety. Users can block spam messages without unlocking their phones, and the feature allows blocking spam notifications. Additionally, users can blacklist contacts from WhatsApp Settings."
+  ]
 }

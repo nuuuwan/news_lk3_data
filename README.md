@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 23:52:19**
+As of **2024-03-03 00:02:45**
 
 ## Newspaper Stats
 
-*Scraped **10,478** Articles*
+*Scraped **10,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 543
 islandlk | 553
 dailyftlk | 561
-adalk | 881
+adalk | 884
 tamilmirrorlk | 1,280
 adaderanalk | 1,282
 virakesarilk | 1,416
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,478 (100.0%) of 10,478 articles have been extended.
+10,478 (100.0%) of 10,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### බස්නාහිර පළාතේ වාර විභාගය අත්හිටුවයි
+
+*2024-03-02 23:24:48* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාතේ-වාර-විභාගය-අත්හිටුවයි/11-408385) · `si`
+
+ප්‍රශ්න පත්‍ර පිටවීමේ සිදුවීමක් හේතුවෙන් බස්නාහිර පළාතේ රජයේ පාසල්වවලවාර විභාගය අත්හිටුවීමට පළාත් අධ්‍යාපන අමාත්‍යාංශය තීරණය කර තිබේ.
+
+ඉදිරියේදී පැවැත්වීමට නියමිත  ගණිතය සහ ඉංග්‍රීසි  ප්‍රශ්න පත්‍ර දෙක මේ වන පිටවී ඇති අතර සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් පැවැත්වීමට පළාත් අධ්‍යාපන අමාත්‍යාංශය විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලක් කර තිබේ.
+
+◼️
+
+[Data](articles/0b4f997b.json)
+
+---
+
+### ගාල්ලේ වෙඩි තැබීමක්
+
+*2024-03-02 23:18:08* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-වෙඩි-තැබීමක්/11-408384) · `si`
+
+ගාල්ල, නාගොඩ වලකුඹුර ප්‍රදේශෙය් අද පස්වරුවේ වෙඩි තැබීමක් සිදුව තිබේ. සේවය අත්හිටුවා ඇති පොලිස් නිලධාරියෙකුගේ නිවසට බලහත්කාරයෙන් ඇතුළුවූ දෙදෙනෙක් ඔහුගේ ලැප්ටොප් පරිගණකය සහ ජංගම දුරකථනය ලබාගෙන අහසට වෙඩිතබා පළාගොස් ඇති බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+සිද්ධියෙන් කිසිවෙකුටත් තුවාල සිදුවී නොමැති අතර සැකකරුවන් යතුරුපැදියකින් පැමිණ ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/39acf014.json)
+
+---
 
 ### Motorcycle used in Ahungalla shooting recovered
 
@@ -825,6 +853,24 @@ The Sri Lanka Government approved the establishment of the 'Children of Gaza Fun
 [Data](articles/206e28fb.json)
 
 [Extended Data](ext_articles/206e28fb.ext.json)
+
+---
+
+### ඉන්දීය සාගර කළාපයද ආරක්ෂා කර ගැනීමේ වගකීම ලංකා නාවික හමුදාව සතුයි
+
+*2024-03-02 14:48:20* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සාගර-කළාපයද-ආරක්ෂා-කර-ගැනීමේ-වගකීම-ලංකා-නාවික-හමුදාව-සතුයි/11-408383) · `si`
+
+ශ්‍රී ලංකා සාගර කලාප මෙන්ම ඉන්දියානු සාගර කලාපය ද ආරක්ෂා කර ගැනීමේ වගකීම ශ්‍රී ලංකා නාවික හමුදාවට පැවරී තිබෙන බව සඳහන් කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දියන් සාගරය තුළ මෙරට ආර්ථික වැඩසටහන්වලට හානිවීමට ඉඩ නොදෙන බව ද අවධාරණය කළේය.
+
+1967 ඊශ්‍රායල – අරාබි යුද්ධයේදී සුවස් ඇළ වසා දැමීම හේතුවෙන් වසර 10ක් කොළඹ වරායේ මෙහෙයුම් නැවතුණු ආකාරය ද සිහිපත් කළ ජනාධිපතිවරයා මෙරට වරායන්හි ආර්ථික වටිනාකම් ආරක්ෂා කර ගැනීම සඳහා සුවස් ඇළ සහ රතු මුහුදේ ආරක්ෂාව වෙනුවෙන් කටයුතු කිරීමේ අවශ්‍යතාව ද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව ප්‍රකාශ කළේ ශ්‍රී ලංකා නාවික හමුදාවේ විශේෂ යාත්‍රා බලඝණය සඳහා ජනාධිපති වර්ණ ප්‍රදානය වෙනුවෙන් ත්‍රිකුණාමලය නාවික හමුදා කඳවුරේදී අද (01) පෙරවරුවේ පැවති වර්ණ ප්‍රදානෝත්සවය අමතමිනි.
+
+ත්‍රිකුණාමලය නාවික හමුදා කඳවුර වෙත පැමිණි සේනාධිනායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නාවික හමුදා උත්තමාචාර සහිතව අභිමානවත් අයුරින් පිළිගැනිණි.
+
+...
+
+[Data](articles/c7fab577.json)
 
 ---
 
@@ -2217,63 +2263,5 @@ Sri Lanka’s 50,000 barrels per day refinery produces a relatively large share 
 [Data](articles/a2585be9.json)
 
 [Extended Data](ext_articles/a2585be9.ext.json)
-
----
-
-### Cabinet approval for mini hydro project turned down
-
-*2024-03-02 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approval-for-mini-hydro-project-turned-down/108-278060) · `en`
-
-Colombo, March 02 (Daily Mirror) - The Cabinet approval granted on a decision taken by the President and the Prime Minister for a mini hydro project fed by the Samanalawewa tank was turned down by Ratnapura District Coordinating Committee that met on Thursday (29).
-
-The coordinating committee met under the chairmanship of District Parliamentarian Akila Ellawala at the District Secretariat auditorium.
-
-The representative of the Ceylon Electricity Board told the committee that two hydropower projects in the low-lying area of Samanalawewa tank were already in operation and that the proposed project could be detrimental to the dam.
-
-He pointed out that it was for the first time in 18 years that the tank spilt over this year and that the proposed project is to depend on the spill water canal.
-
-...
-
-[Data](articles/31f1a410.json)
-
-[Extended Data](ext_articles/31f1a410.ext.json)
-
----
-
-### Matara Rest House roof damaged as helicopter carrying PM touches down
-
-*2024-03-02 05:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matara-Rest-House-roof-damaged-as-helicopter-carrying-PM-touches-down/108-278105) · `en`
-
-Matara, March 2 (Daily Mirror) - Strong winds generated during the landing of a helicopter carrying Prime Minister Dinesh Gunawardena at the Matara Fort Grounds resulted in damage to the roof of the Matara Rest House, leading to the disposal of a significant amount of food and drinks intended for customers yesterday.
-
-However, the helicopter landed on the ground without any harm to passengers including the Prime Minister onboard, who arrived to attend the funeral of late Minister Ronnie de Mel.
-
-The manager of the Matara Rest House attributed the incident to the powerful sea breeze at the time.
-
-◼️
-
-[Data](articles/77c7acdf.json)
-
-[Extended Data](ext_articles/77c7acdf.ext.json)
-
----
-
-### The corpse of the male in the sea of Trincomalee
-
-*2024-03-02 04:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-கடலில்-ஆணின்-சடலம்/175-334077) · `ta`
-
-An unidentified man's body was found floating in the Trincomalee - Dokyat Sea last evening.
-
-🟩
-
-The body of an unidentified man has been recovered last evening at the Trincomalee - Dokyat Sea, police said.
-
-Police recovered the body as they were floating in the sea.
-
-◼️
-
-[Data](articles/01433f58.json)
-
-[Extended Data](ext_articles/01433f58.ext.json)
 
 ---

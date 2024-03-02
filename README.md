@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 10:33:18**
+As of **2024-03-02 10:50:22**
 
 ## Newspaper Stats
 
-*Scraped **10,408** Articles*
+*Scraped **10,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 877
 adaderanalk | 1,264
 tamilmirrorlk | 1,265
 virakesarilk | 1,414
-dailymirrorlk | 1,579
+dailymirrorlk | 1,580
 adaderanasinhalalk | 1,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,402 (99.9%) of 10,408 articles have been extended.
+10,408 (100.0%) of 10,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Heat felt by human body raised to caution level in four provinces
+
+*2024-03-02 10:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-felt-by-human-body-raised-to-caution-level-in-four-provinces/108-278109) · `en`
+
+The temperature felt on the human body is expected to increase up to ‘caution level’ at some places in Northwestern, Western, Southern and Sabaragamuwa Provinces and in Mannar District, according to the Department of Meteorology.
+
+It means fatigue is possible in case of prolonged exposure to heat these days in these areas.
+
+Also, heat cramps can result from continuing activity in the heat.
+
+If it is raised to extreme caution level, heat cramps and heat exhaustion are possible. Continuing activity can lead to heat stroke.
+
+◼️
+
+[Data](articles/2d5c3a97.json)
+
+---
 
 ### Gunfire near Haiti airport disrupts flights for second day
 
@@ -50,35 +68,41 @@ American Airlines said Thursday it had suspended its daily service between Miami
 
 [Data](articles/4cb9c0e3.json)
 
+[Extended Data](ext_articles/4cb9c0e3.ext.json)
+
 ---
 
-### නීති විරෝධී දුම්වැටි සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested with illegal cigarettes
 
 *2024-03-02 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194037) · `si`
 
-නීති විරෝ‍ධී ව මෙරටට ගෙන්වන ලද දුම්වැටි තොගයක් සමඟ පුද්ගලයෙකු මීගමුව ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested in Negombo with a large haul of cigarettes imported illegally imported.
 
-පොලිස් විශේෂ කාර්ය බළකා‍යේ ගෝනහේන කඳවුරේ නිලධාරින්ට ලද තොරතුරකට අනුව සිදු කළ වැටලීමක දී තීරු බදු නොගෙවා නීති විරෝධී ලෙස මෙරටට ගෙන්වන ලද එම දුම්වැටි සොයාගත් බව සඳහන් ය.
+According to information received by the officers of the Police Special Task Force, the cigarettes that were imported and imported to the country have been discovered by the LTTE.
 
-සිද්ධිය සම්බන්ධයෙන් අවුරුදු 42ක පුද්ගලයකු අත්අඩංගුවට ගෙන ඇති අතර, ඔහු වැඩිදුර විමර්ශන සඳහා මීගමුව පොලිස් ස්ථානය වෙත භාර දී ඇති බව පොලිස් විශේෂ කාර්ය බළකාය සඳහන් කරයි.
+A 42-year-old person has been arrested in connection with the incident and has been handed over to the Negombo Police Station for further investigations.
 
 ◼️
 
 [Data](articles/24ed0a49.json)
 
+[Extended Data](ext_articles/24ed0a49.ext.json)
+
 ---
 
-### இலங்கையில் பாரிய மனித உரிமை மீறல்களில் ஈடுபட்டவர்களுக்கு எதிராக இலக்குவைக்கப்பட்ட நடவடிக்கைகள் - மனித உரிமை ஆணையாளர் வேண்டுகோள்
+### Targets targeted against those involved in massive human rights violations in Sri Lanka - Human Rights Commissioner Request
 
 *2024-03-02 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177725) · `ta`
 
-இலங்கையில் பாரிய மனித உரிமை மீறல்கள் மற்றும் மனித உரிமை துஸ்பிரயோகங்களில் ஈடுபட்டவர்கள் என நம்பகதன்மை மிக்க விதத்தில் குற்றம்சாட்டப்பட்டவர்களிற்கு எதிராக இலக்குவைக்கப்பட்ட நடவடிக்கைகளை எடுக்கவேண்டும் என ஐக்கியநாடுகளின் மனித உரிமை ஆணையாளர் வோல்கெர் டேர்க் வேண்டுகோள் விடுத்துள்ளார்.
+United Nations Human Rights Commissioner Volcher Turk has appealed to the targeted action against those who are convicted of massive human rights violations and human rights abuses in Sri Lanka.
 
-இலங்கை அரசாங்கம் கடந்தகாலத்தைய தற்போதைய மனித உரிமை மீறல்கள் பொருளாதார குற்றங்கள் தொடர்பி;ல் விசாரணைகளை மேற்கொண்டு வழக்குகளை தாக்கல் செய்வதற்கான நம்பகதன்மை மிக்க பொறுப்புக்கூறல்நடவடிக்கைகளை எடுக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவர் மனித உரிமை பேரவையின் உறுப்பு நாடுகள் உலகளாவிய மற்றும் சர்வதேச நியாயதிக்க எல்லைக்கு பொருத்தமான இலக்குவைக்கப்பட்ட நடவடிக்கைகளை இலங்கையில் மனித உரிமை மீறல்களில் ஈடுபட்டவர்கள் என நம்பதன்மை மிக்க விதத்தில் குற்றம்சாட்டப்பட்டவர்களுக்கு எதிராக எடுக்கவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+The Sri Lankan government has urged the Sri Lankan government to investigate the current human rights violations of the past and take investigation into economic crimes and take the credible responsibility for filing cases and take action against human rights violations in Sri Lanka as the members of the Human Rights Council member of the Human Rights Council.He has also appealed.
 
 ◼️
 
 [Data](articles/ed9191bc.json)
+
+[Extended Data](ext_articles/ed9191bc.ext.json)
 
 ---
 
@@ -97,6 +121,8 @@ Concluding the official visit, Varyag will depart the island tomorrow.
 ◼️
 
 [Data](articles/c5bc9175.json)
+
+[Extended Data](ext_articles/c5bc9175.ext.json)
 
 ---
 
@@ -166,6 +192,8 @@ The SLAF asserted that it remains steadfast in its duty as the guardians of Sri 
 
 [Data](articles/440689e1.json)
 
+[Extended Data](ext_articles/440689e1.ext.json)
+
 ---
 
 ### Parliament, Central Bank set to discuss salary hike
@@ -203,6 +231,8 @@ Following widespread criticism over the exorbitant pay hike, the Central Bank sa
 ...
 
 [Data](articles/095c10c0.json)
+
+[Extended Data](ext_articles/095c10c0.ext.json)
 
 ---
 
@@ -1941,29 +1971,5 @@ In addition, the number of tourist arrivals to Sri Lanka in the last two months 
 [Data](articles/f2846f6f.json)
 
 [Extended Data](ext_articles/f2846f6f.ext.json)
-
----
-
-### Central and Tamil Nadu governments are responsible for the delay in returning to Santhan's home country
-
-*2024-03-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177705) · `ta`
-
-His lawyer Prasanthipandian said the central and Tamil Nadu governments were responsible for the delay in returning to Santhan's home country.
-
-55 -year -old Dillaiyambalam Sudhendrarajah died of liver failure at Rajiv Gandhi Hospital in Chennai on the 28th of this month.. His lawyer, Prasanthi Pandiyan, was also present as his body was brought by plane yesterday.
-
-In this case, he said this while commenting on Weerakesari on the delays of Santhan's return to Sri Lanka and the cause of his death.
-
-Santhan, who was sentenced to death in the Rajiv Gandhi murder case, was submitted to life imprisonment. He was later released on November 11, 2022, in accordance with the Supreme Court's verdict.
-
-However, he was locked in the Open Open Trichy Open Trichy on December 12, 2022. Although he was staying there, the central government did not show any signals to send him to Sri Lanka.
-
-In this case, he sent several letters to the central and state governments by 2023, but there were no formal response.
-
-...
-
-[Data](articles/7d242d87.json)
-
-[Extended Data](ext_articles/7d242d87.ext.json)
 
 ---

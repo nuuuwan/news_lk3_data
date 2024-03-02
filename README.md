@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 22:17:44**
+As of **2024-03-02 22:33:19**
 
 ## Newspaper Stats
 
-*Scraped **10,477** Articles*
+*Scraped **10,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 553
 dailyftlk | 561
 adalk | 881
 tamilmirrorlk | 1,280
-adaderanalk | 1,281
+adaderanalk | 1,282
 virakesarilk | 1,416
 dailymirrorlk | 1,587
 adaderanasinhalalk | 1,619
@@ -26,25 +26,49 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,476 (100.0%) of 10,477 articles have been extended.
+10,477 (100.0%) of 10,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### ගාල්ලේ වෙඩිතැබීමක්
+### Motorcycle used in Ahungalla shooting recovered
+
+*2024-03-02 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97695/motorcycle-used-in-ahungalla-shooting-recovered) · `en`
+
+Police Special Task Force (STF) has recovered the motorcycle on which the assailants of the brazen daylight shooting took place in Ahungalla on Friday (01) arrived at the scene.
+
+The motorcycle was found sunk in a canal near a bridge in Karijjapitiya area of Ahungalla, the police said.
+
+Two unidentified individuals who arrived on the said motorcycle had shot at a person who was identified as a relative of the notorious criminal gang member “Kosgoda Sujee” yesterday afternoon.
+
+The deceased 45-year-old named Kusum Kumara Mendis alias “Manju” was a three-wheeler driver in the Kosgoda area, according to police.
+
+◼️
+
+[Data](articles/4673082e.json)
+
+---
+
+### Shooting in Galle
 
 *2024-03-02 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194059) · `si`
 
-පොලීසිය සඳහන් කළේ අද (02) පස්වරුවේ මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+Afternoon shooting in Galle resulted in no injuries. Two suspects, forcibly detained by police, arrived on a motorcycle.
 
-සේවය අත්හිටුවා ඇති පොලිස් සැරයන්වරයෙකුගේ නිවසට බලහත්කාරයෙන් ඇතුළුවූ දෙදෙනෙක් ඔහුගේ ලැප්ටොප් පරිගණකය සහ ජංගම දුරකථනය ලබාගෙන පළායමින් සිටියදී අහසට වෙඩිතබා පළාගොස් ඇති බව පොලීසිය වැඩිදුරටත් පැවසීය.
+🟩
 
-සිද්ධියෙන් කිසිවෙකුටත් තුවාල සිදුවී නොමැති අතර සැකකරුවන් යතුරුපැදියකින් පැමිණ ඇති බව පොලීසිය පවසයි.
+The police said that the shooting had been carried out this afternoon.
+
+The police added that two forcibly enforced his laptop and the mobile phone with a police sergeant.
+
+No one has been injured in the incident and the suspects have arrived in a motorcycle.
 
 ◼️
 
 [Data](articles/5c469a6b.json)
+
+[Extended Data](ext_articles/5c469a6b.ext.json)
 
 ---
 
@@ -2249,27 +2273,5 @@ Police recovered the body as they were floating in the sea.
 [Data](articles/01433f58.json)
 
 [Extended Data](ext_articles/01433f58.ext.json)
-
----
-
-### Booking to obtain services
-
-*2024-03-02 04:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேவைகளைப்-பெற்றுக்கொள்ள-முன்பதிவு/175-334076) · `ta`
-
-The Department of Motor Vehicle Transport requires booking for services starting next Monday, with Commissioner General Nishantha Weerasinghe overseeing the process, which involves two systems and can be managed via the department's website or phone call.
-
-🟩
-
-The Department of Motor Vehicle Transport has said that it is mandatory for those who receive services after next Monday.
-
-The Commissioner General of the Motor Vehicle Transport Department Nishantha Weerasinghe said that two systems are being followed.
-
-The Commissioner General of the Motor Vehicle Transport Department Nishantha Weerasinghe said that he could enter the website of his department and set time through the phone call.. (A)
-
-◼️
-
-[Data](articles/54bdfa44.json)
-
-[Extended Data](ext_articles/54bdfa44.ext.json)
 
 ---

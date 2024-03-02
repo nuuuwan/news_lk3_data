@@ -12,5 +12,8 @@
         "The US dollar purchasing price was 310.5415 and the sales price were 320.4082 based on the currency exchange rate released by the Central Bank on Thursday (February 01)."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "\"Today's currency exchange rate: US dollar purchasing price 310.5415, sales price 320.4082, released by the Central Bank on February 1.\""
+  ]
 }

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 19:49:50**
+As of **2024-03-02 20:02:45**
 
 ## Newspaper Stats
 
-*Scraped **10,467** Articles*
+*Scraped **10,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 1,278
 adaderanalk | 1,279
 virakesarilk | 1,416
 dailymirrorlk | 1,587
-adaderanasinhalalk | 1,613
+adaderanasinhalalk | 1,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,466 (100.0%) of 10,467 articles have been extended.
+10,467 (100.0%) of 10,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### හියුමන් ඉමියුනෝග්ලොබියුලින් සිද්ධිය ගැන පාපොච්චාරණයක්
+
+*2024-03-02 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194054) · `si`
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් වංචාව සම්බන්ධයෙන් මහෙස්ත්‍රාත්වරිය ඉදිරියේ පාපොච්චාරණයකට තමන් සුදානම් බව සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා අද (02) අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+
+ඔහු මේ බව පැවසුවේ, ඊයේ (01) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවට පත්වීමෙන් පසු අද පෙරවරුවේ මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/577b4183.json)
+
+---
 
 ### UN rights chief raises concerns over Sri Lanka’s ‘regressive laws & authoritarian approaches’
 
@@ -47,6 +61,8 @@ He went on to raise concerns about the recent appointment of the new Inspector-G
 ...
 
 [Data](articles/9f5c3e6a.json)
+
+[Extended Data](ext_articles/9f5c3e6a.ext.json)
 
 ---
 
@@ -2243,23 +2259,5 @@ As impacts of climate change increase and populations grow, there is an urgent n
 [Data](articles/acc37ea1.json)
 
 [Extended Data](ext_articles/acc37ea1.ext.json)
-
----
-
-### Indo-Lanka deal signed for hybrid renewable energy systems in Delft, Nainativu, and Analaitivu islands
-
-*2024-03-02 01:10:36* · [`dailyftlk`](https://www.ft.lk/news/Indo-Lanka-deal-signed-for-hybrid-renewable-energy-systems-in-Delft-Nainativu-and-Analaitivu-islands/56-759088) · `en`
-
-Sri Lanka Sustainable Energy Authority, Government of Sri Lanka, and U Solar Clean Energy Solutions Ltd., yesterday signed the contract for the implementation of Hybrid Renewable Energy Systems in Delft, Nainativu, and Analaitivu islands off Jaffna.
-
-Indian High Commissioner Santosh Jha and Minister of State for Power and Energy Indika Anuruddha witnessed the signing.
-
-The project, which is aimed at addressing energy needs of the people of the three islands, is being executed through grant assistance from Government of India (GOI). The hybrid project combines various forms of energy including both solar and wind, towards optimising capacities.
-
-...
-
-[Data](articles/5f320174.json)
-
-[Extended Data](ext_articles/5f320174.ext.json)
 
 ---

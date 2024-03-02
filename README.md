@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 13:51:15**
+As of **2024-03-02 14:02:43**
 
 ## Newspaper Stats
 
-*Scraped **10,438** Articles*
+*Scraped **10,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,67 +16,113 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 880
-adaderanalk | 1,270
+adaderanalk | 1,271
 tamilmirrorlk | 1,273
 virakesarilk | 1,416
-dailymirrorlk | 1,582
-adaderanasinhalalk | 1,604
+dailymirrorlk | 1,583
+adaderanasinhalalk | 1,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,435 (100.0%) of 10,438 articles have been extended.
+10,438 (100.0%) of 10,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### සෞදියේ දුක් විඳින ලක් කතුන්
+### Additional Health Secretary Dr. Saman Ratnayake remanded
+
+*2024-03-02 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97685/additional-health-secretary-dr-saman-ratnayake-remanded) · `en`
+
+Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been remanded until March 14.
+
+He was produced before the Maligakanda Magistrate’s Court this morning (March 02).
+
+The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
+
+Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
+
+◼️
+
+[Data](articles/940f05ea.json)
+
+---
+
+### සමන් රත්නායක රක්ෂිත බන්ධනාගාරයට
+
+*2024-03-02 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194044) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා ලබන 14 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඔහු අද (02) මාලිගාකන්ද අධිකරණයට ඉදිරිපත් කළ අතර, එහි දී මෙම නියෝගය ලබා දී ඇත.
+
+ආන්දෝලනාත්මක හියුමන් ඉමියුනෝග්ලොබියුලින් සිද්ධිය සම්බන්ධයෙන් සමන් රත්නායක, ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබිණි.
+
+එහි දී ඔහුගෙන් පැය 09කට අධික කාලයක් ප්‍රශ්න කිරීමෙන් අනතුරු ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගන්නා ලදි.
+
+◼️
+
+[Data](articles/ec531bbb.json)
+
+---
+
+### Saudi suffering women
 
 *2024-03-02 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194043) · `si`
 
-ගෘහ සේවය සඳහා සෞදි අරාබියට ගිය තමන් රියාද්හි නිවාසයක රඳවා විවිධ වධ හිංසාවලට ලක්කරන බව මෙරට කාන්තාවන් සිව් දෙනෙක් පවසති.
+Four women in Sri Lanka say that they have been tortured in Riyadh, who went to the domestic service to be held in Riyadh.
 
-ඒ, දුරකථනයෙන් පටිගත කළ වීඩියෝ දර්ශන ඔස්සේ ඔවුන් මුහුණ දෙන සිය අමිහිරි අත්දැකීම් පිළිබඳ විස්තර කරමිනි.
+It describes the telephone video scenes they face.
 
-කොළඹ, බම්බලපිටිය සහ කුරුණෑගල ප්‍රදේශවල පිහිටි විදේශ රැකියා ආයතනවලින් මෙරට කාන්තාවන් සිව් දෙනෙකු සෞදි අරාබියේ ගෘහ සේවය බලා පිටත් ව ගොස් තිබුණේ 2023 වසරේ ඔක්තෝබර් හා නොවැම්බර් මාසවලදීය.
+Four women with Foreign Employment Institutes in Colombo, Bambalapitiya and Kurunegala have left for the house of Saudi Arabia in October and November 2023.
 
-ආර්ථික දුෂ්කරතා හේතුවෙන් දහසක් බලාපොරොත්තු සමග විදේශගත වූ එම කාන්තාවන් මේ වනවිට මුහුණ දෙමින් සිටින්නේ ඉතා අමිහිරි අත්දැකීමකට ය.
+Those women who went abroad with a thousand expectations due to economic hardship are facing a very bitter experience.
 
-සේවය කළ නිවාසවලින් නිසි ලෙස ආහාර පාන සහ වැටුප් නොලැබී විවිධ වධ හිංසාවලට ලක්වීමට ඔවුන්ට සිදු වී තිබේ.
+They have tortured them with various torture and torture of food and beverages.
 
-ඒ අනුව රැකියා නියෝජිතායතය කටයුතු කර ඇත්තේ ඔවුන්ව සෞදි අරාබියේ රියාද්හි මහල් නිවාසයක රඳවා තැබීමටය.
+Accordingly, the Employees have detected them in a flat in Saudi Arabia.
 
-ඔවුන් බලධාරීන්ගෙන් ඉල්ලා සිටින්නේ, තමන්ව යළි ශ්‍රී ලංකාවට ගෙන්වා ගන්නා ලෙසට ය.
+They ask the authorities to bring themselves back to Sri Lanka.
 
-එමෙන්ම තමන් මෙන්ම වෙනත් රටවලින් ගෙනැවිත් දැමූ ගෘහ සේවිකාවන් බොහෝමයක් ද එම මහල් නිවාසයේ රැඳී සිටින අතර ඔවුන්ද ඉන් මුදාගන්නා ලෙසට බලධාරීන්ගෙන් ඉල්ලීමක් කරයි.
+Also, many domestic workers who have brought from themselves and from other countries will be in the apartment and requests the authorities to release them.
 
 ◼️
 
 [Data](articles/f7e6d620.json)
 
+[Extended Data](ext_articles/f7e6d620.ext.json)
+
 ---
 
-### මෙහෙයුම්වලින් ඉවත් කළ ගුවන් යානා සඳහා රුපියල් බිලියන 05ක්
+### 5 billion for aircraft from operation
 
 *2024-03-02 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194042) · `si`
 
-විවිධ කාර්මික දෝෂවලට ලක් ව පියාසර කටයුතුවලින් ඉවත් කර තිබූ ගුවන් යානා 08ක් සඳහා ශ්‍රී ලන්කන් ගුවන් සේවය වසර දෙකක් තිස්සේ රුපියල් මිලියන 5,646.76ක බදු කුලී මුදලක් ගෙවා ඇති බව ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාවක දැක්වේ.
+SriLankan's office has been paid a sum of Rs.
 
-එම වාර්තාවේ දැක්වෙන්නේ ශ්‍රී ලංකන් ගුවන් මෙහෙයුම් සඳහා ගුවන් යානා 27ක් අවශ්‍ය ව තිබුණ ද ඔවුන් සතු ව ඇත්තේ, යානා 24ක් පමණක් බව ය.
+According to the report, SriLankan needs 27 aircrafts for air operations.
 
-2022-2023 වර්ෂයන් සඳහා අදාළ මුල්‍ය ප්‍රකාශයන් නිකුත් කරමින් ජාතික විගණන කාර්යාලය මේ බව පවසයි.
+The National Audit Office is issued by the year 2022-2023.
 
-එම ගුවන්යානා 24න් ද ගුවන් යානා 08ක් පසුගිය වසරේ අප්‍රේල් මස 20 වනදා දක්වා කාර්මික දෝෂ හේතුවෙන් භාවිතයෙන් ඉවත් කර තිබූ බව සිය විගණනය මගින් ජාතික විගණන කාර්යාලය පෙන්වා දි තිබේ.
+Eight aircraft have been removed from the 24 aircraft to April 20 last year, according to their audit.
 
-ඒ අනුව එම ගුවන්යානා 08 සඳහා 2021 වසරේ සිට 2023 අප්‍රේල් මස 20 වනදා දක්වා වසර දෙකක ආසන්න කාලය තුළ මෙලෙස බදු කුලී ගෙවා ඇත.
+Accordingly, the tax relieves have been paid to April 20 to April 20, from 2021 to April 20, 2023.
 
-පසුගිය කාලයේ ශ්‍රී ලන්කන් ගුවන්සේවය විසින් ලබාගනු ලැබූ නියෝ (NEO) වර්ගයේ ගුවන්යානා මෙලෙස ගුවන් මෙහෙයුම්වලින් ඉවත්කිරීමට සිදු වුණේ ගෝලීය වශයෙන් එම යානාවල එන්ජින්හි ඇති වූ ගැටලුකාරී තත්ත්වයක් හේතුවෙනි.
+The neo (neo) aerial operation was taken by the Sri Lankan airlines in the recent past, the airplane was removed by an engine in the aircraft globally.
 
-...
+However, SriLankan Airlines has pointed out that the engine has agreed to agree with the manufacturer's airline to provide additional engines until the engine repaired.
+
+The Sri Lankan airlighs have six aircraft owned by NOO category, and there are two A320-type aircraft and 4 A32-type aircraft.
+
+The 4r-Aao group (4RR-A) plane and the 4R-AA.
+
+◼️
 
 [Data](articles/be810aab.json)
+
+[Extended Data](ext_articles/be810aab.ext.json)
 
 ---
 
@@ -190,29 +236,51 @@ Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recentl
 
 ---
 
-### ரஸ்ய எதிர்கட்சி தலைவரின் இறுதி நிகழ்வில் ஆயிரக்கணக்கான மக்கள் - உங்களை நாங்கள் மறக்கமாட்டோம் - புட்டின் இல்லாத ரஸ்யா என கோசம்
+### UNFPA Sri Lanka goes extra mile to empower women and promote gender equality
+
+*2024-03-02 13:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Sri-Lanka-goes-extra-mile-to-empower-women-and-promote-gender-equality/108-278061) · `en`
+
+Colombo – In a historic move towards advancing gender equality and women's empowerment in the Asia Pacific region, the United Nations Population Fund (UNFPA) Sri Lanka and the University of Colombo have signed a Memorandum of Understanding (MoU) to establish a Centre of Excellence (CoE).
+
+The signing ceremony, held at the College House, University of Colombo, took place on Friday, March 1st, 2024.
+
+The collaboration between UNFPA Sri Lanka and the University of Colombo signifies a significant milestone in the commitment to thought leadership, knowledge creation, and innovation in Sri Lanka. Chaired by Senior Professor H. D. Karunaratne, Vice Chancellor of the University of Colombo, and Kunle Adeniyi, Representative of the United Nations Population Fund Sri Lanka, the ceremony witnessed the participation of esteemed dignitaries including UNFPA Regional Director of Asia Pacific, Pio Smith, and key stakeholders from both institutions.
+
+...
+
+[Data](articles/5b477f1c.json)
+
+---
+
+### Thousands of people at the final event of the Russian opposition leader - we will not forget you - Rasya without Putin
 
 *2024-03-02 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177737) · `ta`
 
-கடும் பாதுகாப்பு கெடுபிடிகளையும் மீறி ஆயிரக்கணக்கான ரஸ்ய மக்கள் எதிர்கட்சி தலைவர் அலெக்ஸி நவால்னியின் இறுதி ஊர்வலத்தில் கலந்துகொண்டுள்ளனர்
+Thousands of Russian Opposition Leader Alexi Navalni
 
-ரஸ்ய ஜனாதிபதியை கடுமையாக விமர்சித்த  அலெக்ஸி நவால்னி 16 ம் திகதி சிறையில் உயிரிழந்தார்.
+Alexei Navalni, who was heavily criticized by the Russian president, died in jail on the 16th.
 
-பெருமளவு பொலிஸார் குவிக்கப்பட்டிருந்த போதிலும் இறுதிநிகழ்வில் கலந்துகொண்ட மக்கள் நவால்னியின் பெயரை  குறிப்பிட்டு கோசங்களை எழுப்பினர்.
+Despite the large number of police concentrations, the people who attended the funeral raised slogans referring to Navalni's name.
 
-நவால்னி பல வருடங்களாக வசித்த ரஸ்யாவின் மர்யினோ பகுதியில் நேற்று இறுதி நிகழ்வுகள் இடம்பெற்றவேளை ஆயிரக்கணக்கில் பொலிஸார் குவிக்கப்பட்டிருந்தனர்.
+Thousands of policemen were concentrated yesterday when Navalni lived in Russia's Marino area yesterday.
 
-கடும் குளிருக்கும் மேல் ஒரு கிலோமீற்றர் தூரத்திற்கு மக்கள் நீண்ட வரிசையில் காத்திருந்தனர் என நவால்னியின் குழுவினர் தெரிவித்துள்ளனர்.
+Navalni's team said that people were waiting in long queues for a kilometer of a heavy bath.
 
-அங்கு காணப்பட்ட மக்கள் அரசியல் ரீதியில் கோசங்களை எழுப்பினர் எனினும் பொலிஸார் அதில் தலையிடவில்லை.
+The people who were found there raised political slogans but the police did not interfere.
 
-யுத்தம் வேண்டாம் புட்டின் இல்லாத ரஸ்யா ரஸ்யா சுதந்திரமடையும் என  மக்கள் கோசங்களை எழுப்பினர்.
+People raised slogans that Russia Russia, who had no war, would be independent.
 
-ஐகோன் ஒவ் அவர் லேடி குயின்ஞ் மை சொரோவ்ஸ் தேவாலயத்தில் இறுதி நிகழ்வுகள் இடம்பெற்றன .
+The final events were held at the Church of Ikon Ov He Lady Queen's My Sorovs Church.
+
+Navalney's supporters have said that the Russian officials have caused many disruption to the funeral and prevented vehicles for transporting the body.
+
+However, hundreds of people were waiting in the area.
 
 ...
 
 [Data](articles/16b4a493.json)
+
+[Extended Data](ext_articles/16b4a493.ext.json)
 
 ---
 
@@ -1915,57 +1983,5 @@ All Share Price Index was up by 39.4 points, while the S and P SL20 rose by 17.4
 [Data](articles/f4069eff.json)
 
 [Extended Data](ext_articles/f4069eff.ext.json)
-
----
-
-### SriLankan Aviation College gains NVQ Accreditation
-
-*2024-03-01 22:58:00* · [`islandlk`](http://island.lk/srilankan-aviation-college-gains-nvq-accreditation/) · `en`
-
-SriLankan Aviation College, the training arm of SriLankan Airlines, successfully gained NVQ Level 6 status under the National Vocational Qualifications (NVQ) Framework. The NVQ accreditation will increase the national recognition for the programmes offered by SriLankan Aviation College and enhance the career prospects of graduates by validating their occupational competence.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/d104a762.json)
-
-[Extended Data](ext_articles/d104a762.ext.json)
-
----
-
-### Aitken Spence Logistics offers a best-in-class Container Freight Station
-
-*2024-03-01 22:57:00* · [`islandlk`](http://island.lk/aitken-spence-logistics-offers-a-best-in-class-container-freight-station/) · `en`
-
-Aitken Spence Logistics unveils its latest state-of-the-art Container Freight Station (CFS) to facilitate the growing requirements of the supply chain community in the region.This 100,000 sq. ft. facility, strategically positioned within the main logistics complex in Mabole, Wattala, reflects the company’s commitment to serve the Export-Import community of the region, providing operational excellence, supply chain value creation, and unparalleled service delivery.
-
-The newly commissioned CFS provides a strategic advantage to businesses by being situated in close proximity to both the Port of Colombo and Bandaranaike International Airport. Its convenient access to the country’s main highways and expressways further enhances its accessibility, positioning Aitken Spence Logistics as a pivotal player in the region’s logistics landscape.
-
-...
-
-[Data](articles/6827ba4f.json)
-
-[Extended Data](ext_articles/6827ba4f.ext.json)
-
----
-
-### Justice Buwaneka Aluwihare PC as Independent Non-Executive Director
-
-*2024-03-01 22:57:00* · [`islandlk`](http://island.lk/justice-buwaneka-aluwihare-pc-as-independent-non-executive-director/) · `en`
-
-Seylan Bank announced the appointment of Justice Buwaneka Aluwihare PC as an Independent Non- Executive Director to its Board with effect from 26th February 2024.Upon being called to the Bar in 1982, Justice Buwaneka Aluwihare PC joined the Attorney General’s Department in 1983 as a State Counsel and served the Attorney General’s Department for thirty-years and rose to the position of Additional Solicitor General in 2013.
-
-In the same year, he was conferred ‘silk’ and appointed as a President’s Counsel. In 1989, he was enrolled as a solicitor of England and Wales and in 2004 earned a master’s degree (LLM) from the University of London (Queen Mary College).
-
-He worked for the United Nations as a Prosecutor in East Timor, prosecuting before the Serious Crimes Panel in war related crimes in 2001. In the year 2015, was sworn in as a Judge of the Supreme Court of Fiji Islands and preside in the Supreme Court of Fiji as a non-resident judge.
-
-...
-
-[Data](articles/a7373ddb.json)
-
-[Extended Data](ext_articles/a7373ddb.ext.json)
 
 ---

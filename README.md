@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 10:50:22**
+As of **2024-03-02 11:02:38**
 
 ## Newspaper Stats
 
-*Scraped **10,409** Articles*
+*Scraped **10,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ islandlk | 553
 dailyftlk | 560
 adalk | 877
 adaderanalk | 1,264
-tamilmirrorlk | 1,265
+tamilmirrorlk | 1,267
 virakesarilk | 1,414
 dailymirrorlk | 1,580
-adaderanasinhalalk | 1,598
+adaderanasinhalalk | 1,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,408 (100.0%) of 10,409 articles have been extended.
+10,409 (100.0%) of 10,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### சபைக்கு வரமாட்டேன்: கெஹலிய
+
+*2024-03-02 10:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-வரமாட்டேன்-கெஹலிய/175-334083) · `ta`
+
+தரமற்ற மருந்துகளை கொள்வனவு செய்தார் என்றக் குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்டுள்ள விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, பாராளுமன்றக் கூட்டங்களில் பங்கேற்கப் போவதில்லை என பாராளுமன்ற பொதுச் செயலாளருக்கு கடிதம் அனுப்பியுள்ளார்.
+
+மேலும், சுகவீனம் காரணமாக அவர் பாராளுமன்றக் கூட்டங்களில் பங்கேற்க மாட்டார் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+கெஹலிய ரம்புக்வெல்ல விளக்கமறியலில் வைக்கப்பட்டதையடுத்து, அவரது செயலாளர் ஒருவரினால் விடுக்கப்பட்ட வேண்டுகோளுக்கு இணங்க, சபாநாயகரின் பணிப்புரையின் பேரில், அவரை பாராளுமன்றக் கூட்டங்களில் பங்கேற்க வைப்பதற்கான அனைத்து ஏற்பாடுகளையும் சார்ஜன்ட் தயாரித்திருந்தார்.
+
+இதனிடையே, அவரது உடல்நிலை குறித்து விரிவான அறிக்கையை சமர்ப்பிக்குமாறு சிறை ஆணையாளருக்கு நீதிமன்றம் அண்மையில் உத்தரவிட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cbad2994.json)
+
+---
+
+### සමන් රත්නායක අධිකරණයට
+
+*2024-03-02 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194038) · `si`
+
+ඊයේ (01) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා මාළිගාකන්ද අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+
+සමන් රත්නායක මහතා, ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබුණු අතර, පැය 09කට අධික කාලයක් සිදු කළ ප්‍රශ්න කිරීම්වලින් අනතුරු ව ඔහු අත්අඩංගුවට ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/a8a3cf16.json)
+
+---
+
+### முட்டையில் சுரண்டினால் சிக்கல்
+
+*2024-03-02 10:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டையில்-சுரண்டினால்-சிக்கல்/175-334081) · `ta`
+
+நாட்டில் ஒரு முட்டைக்கான உற்பத்தி செலவு சுமார் 30ரூபாயே செலவாகும் நிலையில், மக்கள் அதனை 60ரூபாய் கொடுத்து வாங்க வேண்டிய நிலையே காணப்படுகின்றது. இவ்வாறு வர்த்தகர்கள், மக்களை சுரண்டும் நிலையைத் தடுக்க நடவடிக்கை எடுக்கவுள்ளதாக, அமைச்சர் மகிந்த அமரவீர தெரிவித்துள்ளார்.
+
+இதன்படி அடுத்த வாரம் முதல், நியாயமான அதிக பட்ச சில்லறை விலையில் மக்கள், முட்டையை கொள்வனவு செய்வதற்கு, உரிய நடவடிக்கை எடுக்கவுள்ளதாக அமைச்சர் மேலும் தெரிவித்தார். S
+
+◼️
+
+[Data](articles/5111add7.json)
+
+---
 
 ### Heat felt by human body raised to caution level in four provinces
 
@@ -47,6 +93,8 @@ If it is raised to extreme caution level, heat cramps and heat exhaustion are po
 ◼️
 
 [Data](articles/2d5c3a97.json)
+
+[Extended Data](ext_articles/2d5c3a97.ext.json)
 
 ---
 
@@ -1915,61 +1963,5 @@ The Minister also said that a hospitals surrounding in Gampaha and Mirigama, Gam
 [Data](articles/5b20b8cb.json)
 
 [Extended Data](ext_articles/5b20b8cb.ext.json)
-
----
-
-### The death of a schoolgirl in an accident
-
-*2024-03-01 19:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/விபத்தில்-பாடசாலை-மாணவன்-மரணம்/71-334058) · `ta`
-
-A student was killed in an accident this morning on the A9 road in A9 Road, Chavakachcheri - Chavakachcheri, Jaffna.
-
-He was killed when a bus belonging to the Sri Lanka Transport Board (SLTB), which was traveling from Jaffna to Colombo when he returned home in a bicycle.
-
-Yall. The 19 -year -old student of Chavakachcheri Hindu College has died.
-
-The body of the deceased student. The teaching hospital has been arrested and the driver of the bus has been arrested.
-
-◼️
-
-[Data](articles/0fb74396.json)
-
-[Extended Data](ext_articles/0fb74396.ext.json)
-
----
-
-### Hakkapatun has seriously injured
-
-*2024-03-01 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194019) · `si`
-
-A young child has been seriously injured and admitted to the Horana District Hospital.
-
-Our correspondent said that two more children were injured at the time.
-
-It is reported that when children are playing, they have found a tire meeting, and they have exploded at a bruising.
-
-◼️
-
-[Data](articles/97508751.json)
-
-[Extended Data](ext_articles/97508751.ext.json)
-
----
-
-### Tourist arrivals over the second highest number of this year
-
-*2024-03-01 18:51:20* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-දෙවැනි-මසටත්-සංචාරක-පැමිණීම-‌දෙලක්ෂය-ඉක්මවයි/11-408377) · `si`
-
-In January this year, the number of tourists arrived in January as well as in February. The number of tourist arrivals to Sri Lanka in February was 218 350.
-
-Last month, the highest number of tourists arrived on February 24, with 10,014. The highest number of tourists in February arrived in Sri Lanka and 3230. The highest number of tourist arrivals arrived in Sri Lanka after India (30,0277) and the Abeygasm (20,614).
-
-In addition, the number of tourist arrivals to Sri Lanka in the last two months is 426,603.
-
-◼️
-
-[Data](articles/f2846f6f.json)
-
-[Extended Data](ext_articles/f2846f6f.ext.json)
 
 ---

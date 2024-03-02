@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 18:08:12**
+As of **2024-03-02 18:20:15**
 
 ## Newspaper Stats
 
-*Scraped **10,460** Articles*
+*Scraped **10,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,276
 tamilmirrorlk | 1,278
 virakesarilk | 1,416
 dailymirrorlk | 1,586
-adaderanasinhalalk | 1,610
+adaderanasinhalalk | 1,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,460 (100.0%) of 10,460 articles have been extended.
+10,460 (100.0%) of 10,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### අහුන්ගල්ලේ ඝාතනයට ආ යතුරුපැදිය හඳුනාගනී
+
+*2024-03-02 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194051) · `si`
+
+**
+
+අහුන්ගල්ලේදී ඊයේ (01) වෙඩිතැබීම සිදුකිරීමට වෙඩික්කරුවන් පැමිණි යතුරුපැදිය පොලිස් විශේෂ කාර්ය බළකාය සොයාගෙන තිබේ.
+
+එම යතුරුපැදියෙන් පැමිණ තිබූ දෙදෙනෙකු කොස්කොඩ සුජී නම් පාතාල කල්ලි සාමාජිකයාගේ ඥාතී සහෝදරයෙකු ඊයේ දහවල් වෙඩිතබා ඝාතනය කර තිබුණි.
+
+එලෙස ඝාතනයට ලක්වී තිබුණේ කුසුම් කුමාර මෙන්ඩිස් නොහොත් "මංජු" නම් 45 හැවිරිදි කොස්ගොඩ ප්‍රදේශයේ පදිංචි ත්‍රිරෝද රථ රියදුරෙකි.
+
+◼️
+
+[Data](articles/d236888e.json)
+
+---
 
 ### Good that happened to Maithri: Sarath
 
@@ -441,6 +459,8 @@ He was produced before the Maligakanda Magistrate’s Court this morning (March 
 The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
 
 Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
+
+UPDATE: Dr. Ratnayake has been brought to the Magazine New Remand Prison in Colombo after the Maligakanda Magistrate ordered to place him behind bars on remand. He is slated to be moved to the Mahara Prison later.
 
 ◼️
 
@@ -2195,25 +2215,5 @@ The Foreign Minister reiterated Sri Lanka’s rejection of the HRC resolutions 4
 [Data](articles/7bd050a9.json)
 
 [Extended Data](ext_articles/7bd050a9.ext.json)
-
----
-
-### Suwa Diviya to host ‘She Thrives’ online health forum
-
-*2024-03-02 00:31:07* · [`dailyftlk`](https://www.ft.lk/news/Suwa-Diviya-to-host-She-Thrives-online-health-forum/56-759083) · `en`
-
-**
-
-Suwa Diviya will host ‘She Thrives’, an online health forum dedicated to celebrating women’s health and empowerment in honour of International Women’s Day.
-
-Scheduled for 9 March from 9:30 a.m. to 11 a.m. this virtual event promises to be a transformative experience for Sri Lankan women seeking to take charge of their well-being. Suwa Diviya is a dedicated non-profit organisation committed to raising awareness about diabetes, focusing on preventing and managing diabetes.
-
-‘She Thrives’ is not your ordinary health forum; it’s a dynamic platform designed to inspire and empower women on their unique health journeys. From addressing prevalent issues like diabetes to exploring holistic approaches to wellness, the forum aims to equip participants with the knowledge and tools they need to thrive.
-
-...
-
-[Data](articles/846033a4.json)
-
-[Extended Data](ext_articles/846033a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 09:51:36**
+As of **2024-03-02 10:02:45**
 
 ## Newspaper Stats
 
-*Scraped **10,401** Articles*
+*Scraped **10,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 542
 islandlk | 553
 dailyftlk | 560
-adalk | 876
+adalk | 877
 adaderanalk | 1,262
 tamilmirrorlk | 1,265
 virakesarilk | 1,413
@@ -26,29 +26,33 @@ adaderanasinhalalk | 1,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,400 (100.0%) of 10,401 articles have been extended.
+10,401 (100.0%) of 10,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### පාර්ලිමේන්තුව ලබන 05 වැනිදා සිට 07 වැනිදා දක්වා
+### Parliament from the 05th to 07th of this month
 
 *2024-03-02 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194036) · `si`
 
-එළැඹෙන 05, 06 සහ 07 යන දිනයන්හි පාර්ලිමේන්තුව පැවැත්වෙන බවත් 08 වැනි සිකුරාදා රජයේ නිවාඩු දිනයක් බැවින් එදින පාර්ලිමේන්තුව රැස් නොවන බවත් පාර්ලිමේන්තු සන්නිවේදන අංශය දැනුම් දී තිබේ.
+The Parliamentary Communication Section has informed the Parliament on 05:16 and 07 of the next 5th and 07.
 
-මේ අනුව මාර්තු 05 වැනි අඟහරුවාදා පෙ.ව 09.30ට පාර්ලිමේන්තුව රැස් වන අතර පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වෙන්ව ඇත්තේ වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා ය.
+Accordingly, Parliament will meet in the Parliament on Tuesday 5th March to 9:30 am - 9.30 am - 10.30 am to questions that require verbal answers.
 
-අනතුරුව පෙ.ව 10.30 සිට ප.ව 4.30 දක්වා පසුගිය පෙබරවාරි 20 වනදා දෙවන වර කියවීමේ විවාදයට ගෙන කල්තබන ලද සුරක්ෂිත ලත් ගනුදෙනු, භාර ලදුපත් (සංශෝධන), උකස් සංශෝධන, කල්බදු මූල්‍යකරණ සංශෝධන, දේශීය භාර ලදුපත් (සංශෝධන), සමාගම් (සංශෝධන) සහ ලේඛන ලියාපදිංචි කිරීමේ (සංශෝධන) යන පනත් කෙටුම්පත් දෙවන දිනටත් විවාදයට ගෙන මීළඟ දිනට කල්තැබීමට නියමිත ව ඇත.
+4.30 pm to 4.30 pm on February 20, secured safest transactions, mortgage revisions, leasing revisions (Amendment), companies (Amendment)And the next day, the bills of the Registration of Documents (Amendment) are due to be debated on the second days.
 
-අනතුරුව ප.ව 4.30 සිට ප.ව 5.30 දක්වා ආණ්ඩු පක්ෂය විසින් ගෙනෙන යෝජනාවට අනුව සභාව කල්තබන අවස්ථාවේ විවාදය පැවැත්වීමට ද තීරණය කර තිබේ.
+The proposal made by the government to the proposal to be held from 4.30 pm to 2:30 pm.
 
-මාර්තු 6 වන බදාදා පෙ.ව 9.30 - පෙ.ව 10.00 කාලය අග්‍රාමාත්‍යවරයාගෙන් විමසන ප්‍රශ්න සඳහා ද පෙ.ව 10.00 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා ද කාලය වෙන් කර ඇත.
+In March 6 am - 10:00 am - 10:00 am - 10am - 10am - 10am
+
+The law stating the new gazette notification No. 2369/58 under the Essential Public Service Act, the policy referred to by the President will be approved without debate.
 
 ...
 
 [Data](articles/bf85a937.json)
+
+[Extended Data](ext_articles/bf85a937.ext.json)
 
 ---
 
@@ -1822,6 +1826,22 @@ It is reported that when children are playing, they have found a tire meeting, a
 
 ---
 
+### මේ වසරේ දෙවැනි මසටත් සංචාරක පැමිණීම ‌දෙලක්ෂය ඉක්මවයි
+
+*2024-03-01 18:51:20* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-දෙවැනි-මසටත්-සංචාරක-පැමිණීම-‌දෙලක්ෂය-ඉක්මවයි/11-408377) · `si`
+
+මේ වසරේ ජනවාරි මාසයේ මෙන්ම ‌පෙබරවාරි මාසයේදීත් මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව දෙලක්ෂය  ඉක්මවා තිබේ. ඒ් අනුව ‌පෙබරවාරි මාසයේ ශ්‍රී ලංකාවට පැමිණ ඇති සංචාරකයන් සංඛ්‍යාව 218 350කි.
+
+පසුගිය මස වැඩිම සංචාරකයින් සංඛ්‍යාවක් පෙබරවාරි 24 වන දින පැමිණ ඇති අතර එම අගය 10,014කි. ‌පෙබරවාරි මාසයේ වැඩිම සංචාරකයන් ප්‍රමාණයක් ශ්‍රී ලංකාවට පැමිණ ඇත්තේ රුසියාවෙන් වන අතර ඒම අගය 32 030කි. ඉන් අනතුරුව ඉන්දියාවේ (30,027) හා ඒක්සත් රාජධානියෙන් (20,614) වැඩිම සංචාරකයන් ප්‍රමාණයක් ලංකාවට පැමිණ තිබේ.
+
+මීට අමතරව ගෙවී ගිය මාස දෙකෙහි මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව 426,603 ක් ලෙස දත්ත වාර්තා පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/f2846f6f.json)
+
+---
+
 ### Central and Tamil Nadu governments are responsible for the delay in returning to Santhan's home country
 
 *2024-03-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177705) · `ta`
@@ -1965,27 +1985,5 @@ The electricity has been disconnected while the President is in debate on the po
 [Data](articles/745cce39.json)
 
 [Extended Data](ext_articles/745cce39.ext.json)
-
----
-
-### Notification from the Department of Examinations
-
-*2024-03-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194016) · `si`
-
-The Department of Examinations have been published by the Department of Examinations and the Dates of Examinations to be held in the year 2024.
-
-Accordingly, the GCE Ordinary Level examination will be held in parallel to 2023 to May will be held from May 6, 2024 to 15 May.
-
-The Grade 5 Scholarship Examination for 2024 will be held on Sunday, September 15, 2024.
-
-The GCE Advanced Level Examination will be held from November 25 to December 25, 2024 to December 20, 2024, Mr. Amit Jayasundara.
-
-Meanwhile, the proposed dates will be held in the future to be held the GCE Ordinary Level Examination for the year 2024.
-
-◼️
-
-[Data](articles/332358f1.json)
-
-[Extended Data](ext_articles/332358f1.ext.json)
 
 ---

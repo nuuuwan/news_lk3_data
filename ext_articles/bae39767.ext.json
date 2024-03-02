@@ -12,5 +12,8 @@
         "The company has decided not to change the Litro house gas price this month.Accordingly, the values of last month will be implemented this month."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "Litro retains last month's gas prices this month."
+  ]
 }

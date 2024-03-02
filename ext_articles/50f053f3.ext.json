@@ -12,5 +12,8 @@
         "The US dollar purchasing price was Rs 307.1762 and the sale price was 316.9979 based on the Central Bank's currency exchange rate today (February 02)."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "Today's currency exchange rate: USD to INR, purchase Rs 307.1762, sale Rs 316.9979."
+  ]
 }

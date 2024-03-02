@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 09:33:03**
+As of **2024-03-02 09:51:36**
 
 ## Newspaper Stats
 
-*Scraped **10,400** Articles*
+*Scraped **10,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,262
 tamilmirrorlk | 1,265
 virakesarilk | 1,413
 dailymirrorlk | 1,577
-adaderanasinhalalk | 1,596
+adaderanasinhalalk | 1,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,400 (100.0%) of 10,400 articles have been extended.
+10,400 (100.0%) of 10,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### පාර්ලිමේන්තුව ලබන 05 වැනිදා සිට 07 වැනිදා දක්වා
+
+*2024-03-02 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194036) · `si`
+
+එළැඹෙන 05, 06 සහ 07 යන දිනයන්හි පාර්ලිමේන්තුව පැවැත්වෙන බවත් 08 වැනි සිකුරාදා රජයේ නිවාඩු දිනයක් බැවින් එදින පාර්ලිමේන්තුව රැස් නොවන බවත් පාර්ලිමේන්තු සන්නිවේදන අංශය දැනුම් දී තිබේ.
+
+මේ අනුව මාර්තු 05 වැනි අඟහරුවාදා පෙ.ව 09.30ට පාර්ලිමේන්තුව රැස් වන අතර පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වෙන්ව ඇත්තේ වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා ය.
+
+අනතුරුව පෙ.ව 10.30 සිට ප.ව 4.30 දක්වා පසුගිය පෙබරවාරි 20 වනදා දෙවන වර කියවීමේ විවාදයට ගෙන කල්තබන ලද සුරක්ෂිත ලත් ගනුදෙනු, භාර ලදුපත් (සංශෝධන), උකස් සංශෝධන, කල්බදු මූල්‍යකරණ සංශෝධන, දේශීය භාර ලදුපත් (සංශෝධන), සමාගම් (සංශෝධන) සහ ලේඛන ලියාපදිංචි කිරීමේ (සංශෝධන) යන පනත් කෙටුම්පත් දෙවන දිනටත් විවාදයට ගෙන මීළඟ දිනට කල්තැබීමට නියමිත ව ඇත.
+
+අනතුරුව ප.ව 4.30 සිට ප.ව 5.30 දක්වා ආණ්ඩු පක්ෂය විසින් ගෙනෙන යෝජනාවට අනුව සභාව කල්තබන අවස්ථාවේ විවාදය පැවැත්වීමට ද තීරණය කර තිබේ.
+
+මාර්තු 6 වන බදාදා පෙ.ව 9.30 - පෙ.ව 10.00 කාලය අග්‍රාමාත්‍යවරයාගෙන් විමසන ප්‍රශ්න සඳහා ද පෙ.ව 10.00 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා ද කාලය වෙන් කර ඇත.
+
+...
+
+[Data](articles/bf85a937.json)
+
+---
 
 ### Sri Lanka Air Force celebrates 73rd anniversary today
 
@@ -1967,27 +1987,5 @@ Meanwhile, the proposed dates will be held in the future to be held the GCE Ordi
 [Data](articles/332358f1.json)
 
 [Extended Data](ext_articles/332358f1.ext.json)
-
----
-
-### The country's economic plans are affected within the Indian Ocean - President
-
-*2024-03-01 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/177701) · `ta`
-
-President Ranil Wickremesinghe said that the Sri Lankan Navy has been given the responsibility to protect the Sri Lankan marine and the Indian Ocean region and said that the country's economic plans in the Indian Ocean were affected.
-
-Recalling that the Colombo Port operations were banned for 10 years due to the closure of the Swayas Canal during the 1967 Arab war, the President also stressed the need to ensure the safety of the Self's Canal and Red Sea to maintain the value of these ports.
-
-President Ranil Wickremesinghe made this statement while addressing the Presidential Colors of the Sri Lanka Navy's Special Ship for the Navy on Friday (01) at the Trincomalee Naval Base.
-
-President Ranil Wickremesinghe has issued paintings to the Sri Lanka Navy's Special Ship for the safety of the Sri Lankan -owned maritime region and dedicated to the country's maritime targets.
-
-The adventures carried out by the Navy's Special Ship forces in the sea were also colorful.
-
-...
-
-[Data](articles/48bda375.json)
-
-[Extended Data](ext_articles/48bda375.ext.json)
 
 ---

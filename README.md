@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 08:49:52**
+As of **2024-03-02 09:02:21**
 
 ## Newspaper Stats
 
-*Scraped **10,393** Articles*
+*Scraped **10,398** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 99
 bbccomsinhala | 125
-dbsjeyarajcom | 168
+dbsjeyarajcom | 169
 newsfirstlk | 363
 economynextcom | 542
 islandlk | 553
 dailyftlk | 560
 adalk | 876
-adaderanalk | 1,260
-tamilmirrorlk | 1,262
+adaderanalk | 1,261
+tamilmirrorlk | 1,265
 virakesarilk | 1,413
 dailymirrorlk | 1,576
 adaderanasinhalalk | 1,596
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,596
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,389 (100.0%) of 10,393 articles have been extended.
+10,393 (100.0%) of 10,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Russian Naval Ship ‘Varyag’ docks in Colombo
+
+*2024-03-02 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97677/russian-naval-ship-varyag-docks-in-colombo) · `en`
+
+The Russian Naval Ship ‘Varyag’ docked at the Colombo Port on Friday (March 01), for a formal visit. The vessel was welcomed by the Sri Lanka Navy in accordance with naval tradition.
+
+The 187m-long ship is a Missile Cruiser manned by a crew of 529. The Flag Officer of the ship is Captain 1st Rank Velichko Anatoly Vasicievich and Captain 2nd Rank Glushakov Roman Nikolaevich serves as the Commanding Officer.
+
+Meanwhile, the Flag Officer and the Commanding Officer of the ship are scheduled to call on the Commander of Western Naval Area, Rear Admiral Saman Perera.
+
+During their stay in Sri Lanka, the crew members of the ship are expected to take part in several programmes organised by the Sri Lanka Navy, with a view to promote camaraderie and visit some of the tourist attractions in the country.
+
+Concluding the official visit, ‘Varyag’ will depart the island tomorrow (March 03).
+
+◼️
+
+[Data](articles/fe058e91.json)
+
+---
 
 ### Tea growers to get low-priced fertilizers from state-owned companies: Minister
 
@@ -46,19 +66,23 @@ Addressing a press briefing at the Presidential Media Centre (PMC) on Friday (Ma
 
 [Data](articles/230d5bf5.json)
 
+[Extended Data](ext_articles/230d5bf5.ext.json)
+
 ---
 
-### ගුවන් හමුදාවේ 73 වැනි සංවත්සරය අදයි
+### Today is the 73th anniversary of the Air Force
 
 *2024-03-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194035) · `si`
 
-ශ්‍රී ලංකා ගුවන් හමුදාවේ 73 වැනි සංවත්සරය අදට (02) යෙදී තිබේ.
+The 73th Anniversary of the Sri Lanka Air Force has today (02).
 
-ශ්‍රී ලංකා අඹරේ ආරක්ෂකයන් ලෙස දශක හතකට අධික කාලයක් පුරා ජාතියට කළ සේවය සනිටුහන් කරමින් ශ්‍රී ලංකා ගුවන් හමුදාව අභිමානවත් ලෙස මෙම සංවත්සරය සමරනු ලැබේ.
+The anniversary is celebrated as a priority as the security guards of the National Assembly of Sri Lanka.
 
 ◼️
 
 [Data](articles/9d159cee.json)
+
+[Extended Data](ext_articles/9d159cee.ext.json)
 
 ---
 
@@ -84,6 +108,28 @@ The bus driver was arrested by the Chavakachcheri Police regarding the accident.
 
 ---
 
+### பிரதமரின் விமானத்தால் மாத்தறையில் பலத்த சேதம்
+
+*2024-03-02 08:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-விமானத்தால்-மாத்தறையில்-பலத்த-சேதம்/175-334080) · `ta`
+
+முன்னாள் நிதி அமைச்சர் ரொனி டி மெலின் இறுதிச் சடங்கிற்கு வந்த பிரதமரின் விமானம் மாத்தறை கோட்டை மைதானத்தில் தரையிறங்க முட்பட்ட போது ஏற்பட்ட பிழையினால் அப்பகுதியிலிருந்த விடுதியின் கூரை மற்றும் உணவு பானங்கள் அனைத்தும் பலத்த சேதமடைந்துள்ளன.
+
+குறித்த விமானம் தரையிறங்கும் போது வீசிய பலத்த காற்றினால் இந்த நிலை ஏற்பட்டதாக மாத்தறை விடுதியின் முகாமையாளர் தெரிவித்தார்.
+
+சம்பவம் நடந்தபோது, ​​உணவு மற்றும் பானங்கள் பெற்றுக் கொண்டிருந்த உயரடுக்கு பாதுகாப்புப் பணியாளர்கள், உள்ளூர் மற்றும் வெளியூர் சுற்றுலாப் பயணிகள் மீது மணல், தூசி, குப்பைகள் விழுந்து பெரும் சிரமத்துக்குள்ளாகினர்.
+
+மேலும், மாத்தறை விடுதியின் புஃபே சாப்பாட்டு மேசையில் இருந்த அனைத்து உணவுகளும் நாசமாகிவிட்டன
+
+விமானம் சரியாக தரையிறங்காததற்கு உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலா பயணிகள் தங்களது எதிர்ப்பை தெரிவித்தனர்.
+
+இதையடுத்து, சிரமத்திற்கு உள்ளான வெளிநாட்டவர்கள் மற்றும் பிறருக்கு ஆர்டர் செய்த உணவுக்கு பதிலாக வேறு உணவை உடனடியாக தயாரிக்க மாத்தறை விடுதியின் நிர்வாகம் ஏற்பாடு செய்திருந்தது.
+
+...
+
+[Data](articles/5947132b.json)
+
+---
+
 ### Teacher who struck the students with a broomund
 
 *2024-03-02 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194033) · `si`
@@ -106,7 +152,7 @@ The school teacher has complained to the Padukka Police that the class of the st
 
 ---
 
-### SLFP-led new alliance to be unveiled next week
+### SLFP-led new alliance to be unveiled next week?
 
 *2024-03-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97675/slfp-led-new-alliance-to-be-unveiled-next-week) · `en`
 
@@ -119,6 +165,8 @@ Meanwhile, SLFP’s General Secretary Dushmantha Mithrapala said as amendments t
 ◼️
 
 [Data](articles/14b4d4d5.json)
+
+[Extended Data](ext_articles/14b4d4d5.ext.json)
 
 ---
 
@@ -368,6 +416,36 @@ The manager of the Matara Rest House attributed the incident to the powerful sea
 
 ---
 
+### திருகோணமலை கடலில் ஆணின் சடலம்
+
+*2024-03-02 04:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-கடலில்-ஆணின்-சடலம்/175-334077) · `ta`
+
+திருகோணமலை - டொக்யாட் கடலில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் நேற்று மாலை மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடலில் மிதந்து வந்து கொண்டிருந்த நிலையில் குறித்த சடலத்தை அவதானித்த பொலிஸார் அதனை மீட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/01433f58.json)
+
+---
+
+### சேவைகளைப் பெற்றுக்கொள்ள முன்பதிவு
+
+*2024-03-02 04:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேவைகளைப்-பெற்றுக்கொள்ள-முன்பதிவு/175-334076) · `ta`
+
+எதிர்வரும் திங்கள் கிழமையின் பின்னர் சேவைகளை பெற்றுக்கொள்ள வருவோர் முன்கூட்டியே நேரத்தை ஒதுக்கிக்கொள்ள வேண்டியது கட்டாயமானதென மோட்டார் வாகன போக்குவரத்து திணைக்களம் தெரிவித்துள்ளது.
+
+இதற்காக இரு முறைமைகள் பின்பற்றப்படுகின்றன என மோட்டார் வாகன  போக்குவரத்து திணைக்களத்தின் ஆணையாளர் நாயகம் நிஷாந்த வீரசிங்க தெரிவித்துள்ளார்.
+
+தமது திணைக்களத்தின் இணையத்தளத்திற்குள் பிரவேசித்து நேரத்தை ஒதுக்கிக் கொள்ள முடியுமெனவும் தொலைபேசி அழைப்பின் ஊடாகவும் நேரத்தை ஒதுக்கிக்கொள்ள முடியுமெனவும் மோட்டார் வாகன போக்குவரத்து திணைக்களத்தின் ஆணையாளர் நாயகம் நிஷாந்த வீரசிங்க குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/54bdfa44.json)
+
+---
+
 ### Chapukascanta refinement
 
 *2024-03-02 04:23:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-சுத்திகரிப்பு-நிறுத்தம்/175-334075) · `ta`
@@ -483,6 +561,8 @@ A decline in earnings was observed in industrial exports and mineral exports, wh
 ...
 
 [Data](articles/bad2894a.json)
+
+[Extended Data](ext_articles/bad2894a.ext.json)
 
 ---
 
@@ -1897,89 +1977,5 @@ Kusal Janith Perera is suffering from a respiratory disorder, reports say that h
 [Data](articles/f319edc1.json)
 
 [Extended Data](ext_articles/f319edc1.ext.json)
-
----
-
-### UNFPA and Japan donate $2.1 Mn worth of medical supplies to Sri Lanka
-
-*2024-03-01 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-and-Japan-donate-2-1-Mn-worth-of-medical-supplies-to-Sri-Lanka/108-278043) · `en`
-
-Colombo, March 01 - In a ceremonious event, Pio Smith, UNFPA Asia Pacific Regional Director, and Kotaro Katsuki, acting Ambassador of the Embassy of Japan, presented medical supplies valued at over USD 2.1 million to Dr. Ramesh Pathirana, Minister of Health at the Ministry of Health in Sri Lanka today (01).
-
-The donated medicines and medical equipment were contributed under the project titled "ENSURE: Ensuring access to life-saving sexual & reproductive health and providing gender-based violence prevention and response services for women, girls, and vulnerable groups."
-
-This initiative, totaling USD 4.6 million, has been funded by the Government of Japan as part of its response to the economic crisis in Sri Lanka. The primary goal of the project is to support women in vulnerable communities.
-
-...
-
-[Data](articles/dae46f83.json)
-
-[Extended Data](ext_articles/dae46f83.ext.json)
-
----
-
-### Sri Lanka eyes SOE law by May 2024 for better governance
-
-*2024-03-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-soe-law-by-may-2024-for-better-governance-152736/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to pass a Public Commercial Business (PCB) Act improve governance of state-owned enterprise by May 2024 as part of an anti-corruption efforts following an International Monetary Fund assessment.
-
-Sri Lanka’s state enterprises have been used by politicians to give ‘jobs of the boys’, appropriate vehicles for personal use, fill board of directors and key positions with henchmen and relatives, according to critics.
-
-Meanwhile macro-economists working for the state also used them to give off-budget subsides or made energy utilities in particular borrow through supplier’s credits and state banks after forex shortages are triggered through inflationary rate cuts.
-
-The government has taken billons of dollars of loans given to Ceylon Petroleum Corporation from state banks.
-
-There have also been high profile procurement scandals connected to SOEs.
-
-An SOE Reform Policy was approved by Sri Lanka’s cabinet of ministers in May 2023.
-
-...
-
-[Data](articles/7d1c49f8.json)
-
-[Extended Data](ext_articles/7d1c49f8.ext.json)
-
----
-
-### The genetic intimacy between the Sinhalese and the Sri Lankan Tamils
-
-*2024-03-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177697) · `ta`
-
-The study discovered that there is no such intimacy between any other ethnic groups in South Asia
-
-B.I.. (New Delhi) The genetic disparity between the two major ethnic groups of Sri Lanka, the Sinhalese and the Sri Lankan Tamils, is much closer than the genetic acknowledgment between any other ethnic group in South Asia.
-
-The results of a joint study by genetic scientists from Sri Lanka and India were published last week in the magazine 'I Science'.. Those results make clear the origins of Sri Lanka's ethnic groups and the social interactions between them.
-
-Researchers have said that despite significant cultural and linguistic differences, the Sinhalese and Sri Lankan Tamils have been living in the past for centuries.
-
-...
-
-[Data](articles/9f92c25f.json)
-
-[Extended Data](ext_articles/9f92c25f.ext.json)
-
----
-
-### Telephone
-
-*2024-03-01 17:19:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்து-சமுத்திரத்திற்குள்-பாதிப்பு-ஏற்பட-இடமளியோம்/175-334055) · `ta`
-
-President Ranil Wickremesinghe said that the Sri Lankan Navy has been given the responsibility to protect the Sri Lankan marine and the Indian Ocean region and said that the country's economic plans in the Indian Ocean were affected.
-
-Recalling that the Colombo Port operations were banned for 10 years due to the closure of the Swayas Canal during the 1967 Arab war, the President also stressed the need to ensure the safety of the Self's Canal and Red Sea to maintain the value of these ports.
-
-President Ranil Wickremesinghe made this statement while addressing the Presidential Colors of the Sri Lanka Navy's Special Ship for the Navy at the Trincomalee Naval Base today (01).
-
-President Ranil Wickremesinghe has issued paintings to the Sri Lanka Navy's Special Ship for the safety of the Sri Lankan -owned maritime region and dedicated to the country's maritime targets.
-
-The adventures carried out by the Navy's Special Ship forces in the sea were also colorful.
-
-...
-
-[Data](articles/201cd198.json)
-
-[Extended Data](ext_articles/201cd198.ext.json)
 
 ---

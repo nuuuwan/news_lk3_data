@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 23:52:19**
+As of **2024-03-03 00:17:40**
 
 ## Newspaper Stats
 
-*Scraped **10,478** Articles*
+*Scraped **10,482** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 99
+colombotelegraphcom | 100
 bbccomsinhala | 125
 dbsjeyarajcom | 169
 newsfirstlk | 363
 economynextcom | 543
 islandlk | 553
 dailyftlk | 561
-adalk | 881
+adalk | 884
 tamilmirrorlk | 1,280
 adaderanalk | 1,282
 virakesarilk | 1,416
@@ -26,11 +26,51 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,478 (100.0%) of 10,478 articles have been extended.
+10,481 (100.0%) of 10,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Severance examination in the Western Province suspended
+
+*2024-03-02 23:24:48* · [`adalk`](https://www.ada.lk/breaking_news/බස්නාහිර-පළාතේ-වාර-විභාගය-අත්හිටුවයි/11-408385) · `si`
+
+The Ministry of Education suspends the Western Province's Government Schools due to question paper issues. Mathematics and English papers were withdrawn, prompting an investigation by the CID.
+
+🟩
+
+The Ministry of Education has decided to suspend the Government Schools and Government Schools in the Western Province due to a question papers.
+
+The upcoming mathematics and English question papers have been exited and the Ministry of Education has lodged a complaint with the CID to hold an investigation into the incident.
+
+◼️
+
+[Data](articles/0b4f997b.json)
+
+[Extended Data](ext_articles/0b4f997b.ext.json)
+
+---
+
+### Shooting in Galle
+
+*2024-03-02 23:18:08* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-වෙඩි-තැබීමක්/11-408384) · `si`
+
+A shooting occurred at Walakumbura in Galle this afternoon, involving two suspects who were forcibly in a police officer's house. No injuries were reported, and the suspects arrived on a motorcycle.
+
+🟩
+
+A shooting took place this afternoon at the Walakumbura in Galle.The police added that two were forcibly entitled to the house of a police officer who was suspended.
+
+No one has been injured in the incident and the suspects have arrived in a motorcycle.
+
+◼️
+
+[Data](articles/39acf014.json)
+
+[Extended Data](ext_articles/39acf014.ext.json)
+
+---
 
 ### Motorcycle used in Ahungalla shooting recovered
 
@@ -375,6 +415,18 @@ The case proceeded for a considerable time, during which the foreign woman inter
 [Data](articles/92d439a0.json)
 
 [Extended Data](ext_articles/92d439a0.ext.json)
+
+---
+
+### Globally, A Rightward Political Shift Is Visible
+
+*2024-03-02 18:30:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/globally-a-rightward-political-shift-is-visible/) · `en`
+
+The global political scene was very left-inclined from about the mid-1960s to say ten or fifteen years ago. The sweeping trend to social democracy in post-war Europe, a surge to the left throughout Asia (Chinese Revolution, defeat of US Imperialism in Vietnam, post-war USSR, our own JVP) and a little later in Africa (Patrice Lumumba, revolution in Mozambique, Nelson Mandela etc), signposted what may be loosely called a period of global shift to the left. That ended about ten to years ago. The last spurt was perhaps Obama’s re-election. The reverse trend became prominent in the US with Trump and internationally a dynamic that began with the collapse of the Soviet Union in December 1991.
+
+...
+
+[Data](articles/ba21be84.json)
 
 ---
 
@@ -825,6 +877,34 @@ The Sri Lanka Government approved the establishment of the 'Children of Gaza Fun
 [Data](articles/206e28fb.json)
 
 [Extended Data](ext_articles/206e28fb.ext.json)
+
+---
+
+### Ceylon Navy has the responsibility to protect the Indian Ocean
+
+*2024-03-02 14:48:20* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සාගර-කළාපයද-ආරක්ෂා-කර-ගැනීමේ-වගකීම-ලංකා-නාවික-හමුදාව-සතුයි/11-408383) · `si`
+
+President Ranil Wickremesinghe highlighted the Sri Lanka Navy's role in protecting the Indian Ocean and Sri Lankan ocean regions, recalling the closure of Colombo Port in the 1967 war. He visited the Naval Camp, where he was saluted and presented with a souvenir. The Navy's special vessel was awarded, and the President emphasized the Navy's commitment to security in the Indian Ocean and the Sri Lanka Seamonal Sea Zone, aligning with UN agreements.
+
+🟩
+
+He said that President Ranil Wickremesinghe stressed that the Sri Lanka Navy was responsible for protecting the Sri Lankan ocean regions as well as the Indian Ocean region.
+
+The President also remembered how the operations in the Colombo Port was closed in the 1967 Israeli-Arabian war.
+
+President Ranil Wickremesinghe made this statement addressing the colote ceremony held at the Naval Camp this morning for the award of the Sri Lanka Navy's special vessel.
+
+Senior President Ranil Wickremesinghe, who came to the Navy, Trincomalee, was recognized as proud with naval salutes.
+
+President Ranil Wickremesinghe was conducting the Presidential Tree to ensure the protection of the land in the ocean region of Sri Lanka.
+
+The Navy Special Yatika Squadron and other warships were colored by a vivid show.
+
+...
+
+[Data](articles/c7fab577.json)
+
+[Extended Data](ext_articles/c7fab577.ext.json)
 
 ---
 
@@ -2195,85 +2275,5 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/9c6ef4d7.json)
 
 [Extended Data](ext_articles/9c6ef4d7.ext.json)
-
----
-
-### Sri Lanka to shut oil refinery for ‘turnaround’ maintenance
-
-*2024-03-02 06:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-shut-oil-refinery-for-turnaround-maintenance-152743/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation said its refinery will be shut for 45 days for scheduled ‘turnaround’ maintenance, which is required every three years.
-
-“This is a mandatory requirement, in compliance with international norms, that qualifies the refinery for safe and reliable operation for a further 03 years,” CPC said in a statement.
-
-“Once the refinery is brought back on stream after the Turnaround, it will be subjected to upgrades designed to increase its contribution to Sri Lanka’s changing product requirements.”
-
-CPC will maintain a buffer stock of double the demand of refined products during the shut down period.
-
-Sri Lanka’s 50,000 barrels per day refinery produces a relatively large share of furnace oil and is more geared to refining light crudes. (Colombo/Mar02/2024)
-
-◼️
-
-[Data](articles/a2585be9.json)
-
-[Extended Data](ext_articles/a2585be9.ext.json)
-
----
-
-### Cabinet approval for mini hydro project turned down
-
-*2024-03-02 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approval-for-mini-hydro-project-turned-down/108-278060) · `en`
-
-Colombo, March 02 (Daily Mirror) - The Cabinet approval granted on a decision taken by the President and the Prime Minister for a mini hydro project fed by the Samanalawewa tank was turned down by Ratnapura District Coordinating Committee that met on Thursday (29).
-
-The coordinating committee met under the chairmanship of District Parliamentarian Akila Ellawala at the District Secretariat auditorium.
-
-The representative of the Ceylon Electricity Board told the committee that two hydropower projects in the low-lying area of Samanalawewa tank were already in operation and that the proposed project could be detrimental to the dam.
-
-He pointed out that it was for the first time in 18 years that the tank spilt over this year and that the proposed project is to depend on the spill water canal.
-
-...
-
-[Data](articles/31f1a410.json)
-
-[Extended Data](ext_articles/31f1a410.ext.json)
-
----
-
-### Matara Rest House roof damaged as helicopter carrying PM touches down
-
-*2024-03-02 05:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matara-Rest-House-roof-damaged-as-helicopter-carrying-PM-touches-down/108-278105) · `en`
-
-Matara, March 2 (Daily Mirror) - Strong winds generated during the landing of a helicopter carrying Prime Minister Dinesh Gunawardena at the Matara Fort Grounds resulted in damage to the roof of the Matara Rest House, leading to the disposal of a significant amount of food and drinks intended for customers yesterday.
-
-However, the helicopter landed on the ground without any harm to passengers including the Prime Minister onboard, who arrived to attend the funeral of late Minister Ronnie de Mel.
-
-The manager of the Matara Rest House attributed the incident to the powerful sea breeze at the time.
-
-◼️
-
-[Data](articles/77c7acdf.json)
-
-[Extended Data](ext_articles/77c7acdf.ext.json)
-
----
-
-### The corpse of the male in the sea of Trincomalee
-
-*2024-03-02 04:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-கடலில்-ஆணின்-சடலம்/175-334077) · `ta`
-
-An unidentified man's body was found floating in the Trincomalee - Dokyat Sea last evening.
-
-🟩
-
-The body of an unidentified man has been recovered last evening at the Trincomalee - Dokyat Sea, police said.
-
-Police recovered the body as they were floating in the sea.
-
-◼️
-
-[Data](articles/01433f58.json)
-
-[Extended Data](ext_articles/01433f58.ext.json)
 
 ---

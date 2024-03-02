@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 03:17:47**
+As of **2024-03-03 03:33:07**
 
 ## Newspaper Stats
 
-*Scraped **10,484** Articles*
+*Scraped **10,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 884
-tamilmirrorlk | 1,280
+tamilmirrorlk | 1,281
 adaderanalk | 1,282
 virakesarilk | 1,416
 dailymirrorlk | 1,589
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,484 (100.0%) of 10,484 articles have been extended.
+10,484 (100.0%) of 10,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### இறக்குமதி செலவு அதிகரிப்பு
+
+*2024-03-03 03:14:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செலவு-அதிகரிப்பு/175-334110) · `ta`
+
+கடந்த ஆண்டுடன் ஒப்பிடுகையில், இந்த ஆண்டு ஜனவரியில் பொருட்களின் ஏற்றுமதி வருமானம் குறைந்துள்ளதாகவும், இறக்குமதி செலவு அதிகரித்துள்ளதாகவும் மத்திய வங்கி தெரிவித்துள்ளது.
+
+இதன்படி, ஏற்றுமதி வருவாய் கடந்த ஆண்டு ஜனவரியுடன் ஒப்பிடுகையில் இந்த ஆண்டு 0.8 வீத சரிவை பதிவுசெய்துள்ளது.
+
+கடந்த ஆண்டு ஜனவரியில், ஏற்றுமதி வருவாய் 978 மில்லியன் அமெரிக்க டொலர்களாகவும், இந்த ஆண்டு ஜனவரியில், 971 மில்லியன் அமெரிக்க டொலர்களாகவும் பதிவாகியுள்ளது.
+
+விவசாய மற்றும் ஆடை ஏற்றுமதி வருமானத்தில் ஏற்பட்டுள்ள வீழ்ச்சியே இதற்கு காரணம் என மத்திய வங்கி தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/c6e866f3.json)
+
+---
 
 ### Suspect transporting pills near school zone arrested
 
@@ -2245,27 +2263,5 @@ Speaking on the matter, the State Minister stated that the Prime law was suspend
 [Data](articles/73a6d08a.json)
 
 [Extended Data](ext_articles/73a6d08a.ext.json)
-
----
-
-### Amaweera on Eggs
-
-*2024-03-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194030) · `si`
-
-Sri Lanka's Minister of Agriculture has proposed a maximum retail price for eggs, aiming to prevent the "egg mafia" from exploiting consumers. The price will be submitted to the Consumer Protection Authority next week.
-
-🟩
-
-The Minister of Sri Lanka has increased to Rs.
-
-He says that egg manufacturers and trading mafia will be able to impose maximum retail prices to prevent the people immediately to prevent food.
-
-The Maximum Retail price is to be submitted to the Consumer Protection Authority next week.
-
-◼️
-
-[Data](articles/eb7fd271.json)
-
-[Extended Data](ext_articles/eb7fd271.ext.json)
 
 ---

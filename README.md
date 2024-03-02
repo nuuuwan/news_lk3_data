@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 13:17:28**
+As of **2024-03-02 13:33:22**
 
 ## Newspaper Stats
 
-*Scraped **10,432** Articles*
+*Scraped **10,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 880
-adaderanalk | 1,268
-tamilmirrorlk | 1,272
+adaderanalk | 1,270
+tamilmirrorlk | 1,273
 virakesarilk | 1,415
 dailymirrorlk | 1,582
 adaderanasinhalalk | 1,602
@@ -26,49 +26,113 @@ adaderanasinhalalk | 1,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,429 (100.0%) of 10,432 articles have been extended.
+10,432 (100.0%) of 10,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### ආයතන විකිණීම ගැන හරිනිගෙන් විවේචනයක්
+### திரவ உணவுகளை உட்கொள்ளுமாறு மக்களுக்கு ஆலோசனை
+
+*2024-03-02 13:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரவ-உணவுகளை-உட்கொள்ளுமாறு-மக்களுக்கு-ஆலோசனை/175-334090) · `ta`
+
+அதிக வெப்பநிலை காரணமாக பொதுமக்கள் உண்ணும் உணவு மற்றும் பானங்கள் தொடர்பில் அதிக கவனம் செலுத்த வேண்டுமென சுகாதார நிபுணர்கள் தெரிவித்துள்ளனர் .
+
+அதன்படி, திரவ உணவுகளை உட்கொள்வது மிகவும் அவசியமானது என ஹொரண மாவட்ட பொது வைத்தியசாலையின் போஷாக்கு நிபுணர் வைத்தியர்  ஜானக மாரசிங்க தெரிவித்தார்.
+
+இதேவேளை, வடமேல், மேல், தெற்கு மற்றும் சப்ரகமுவ மாகாணங்களிலும், மன்னார் மாவட்டத்திலும் இன்று மனித உடலில் உணரப்படும் வெப்பநிலை 'எச்சரிக்கை நிலை' வரை அதிகரிக்கும் என்று எச்சரித்துள்ளது.
+
+வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள வெப்ப சுட்டெண் ஆலோசனை அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+எனவே, பணியிடங்களில் பணிபுரிபவர்கள் அதிக நீரை அருந்துதல், அடிக்கடி நிழலில் ஓய்வெடுத்தல், நீரேற்றத்துடன் இருத்தல் முக்கியம் என்றும் அந்த அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+கடுமையான வெளிப்புற நடவடிக்கைகளைக் கட்டுப்படுத்துமாறும் நீரேற்றமாக இருக்க முன்னுரிமை கொடுக்குமாறும், வெள்ளை அல்லது வெளிர் நிறங்களில் இலகுரக ஆடைகளை அணியுமாறும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/6d57c920.json)
+
+---
+
+### Biden says US military to airdrop food and supplies into Gaza
+
+*2024-03-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97684/biden-says-us-military-to-airdrop-food-and-supplies-into-gaza) · `en`
+
+U.S. President Joe Biden announced on Friday plans to carry out a first military airdrop of food and supplies into Gaza, a day after the deaths of Palestinians queuing for aid threw a spotlight on an unfolding humanitarian catastrophe in the crowded coastal enclave.
+
+Biden said the U.S. airdrop would take place in the coming days but offered no further specifics. Other countries, including Jordan and France, have already carried out airdrops of aid into Gaza.
+
+“We need to do more and the United States will do more,” Biden told reporters, adding that “aid flowing to Gaza is nowhere nearly enough.”
+
+At the White House, spokesperson John Kirby stressed that airdrops would become “a sustained effort.” He added that the first airdrop would be likely be military MREs, or “meals ready-to-eat.”
+
+Biden told reporters that the U.S. was also looking at the possibility of a maritime corridor to deliver large amounts of aid into Gaza.
+
+The airdrops could begin as early as this weekend, officials said.
+
+...
+
+[Data](articles/6ba7a3c0.json)
+
+---
+
+### IGP Deshabandu pledges more efficient continuation of ‘Yukthiya’ operation
+
+*2024-03-02 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97683/igp-deshabandu-pledges-more-efficient-continuation-of-yukthiya-operation) · `en`
+
+The countrywide operation ‘Yukthiya’, initiated to crack down on narcotics and criminal activities, will be continued more efficiently and robustly, the Inspector General of Police (IGP) Deshabandu Tennakoon said.
+
+Furthermore, Tennakoon, emphasizing that the criminals, traffickers and the underworld are yet to be rooted out from the country, promised to arrest and bring them to book within a very short period of time.
+
+The IGP made these remarks following a visit to the Temple of Tooth Relic in Kandy this morning (02).
+
+◼️
+
+[Data](articles/4d05d97b.json)
+
+---
+
+### Hariniga's criticism of sale of institutions
 
 *2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194041) · `si`
 
-ජනවරමක් නොමැති ආණ්ඩුවකට ශ්‍රී ලංකා ටෙලිකොම්, රක්ෂණ සංස්ථාව ආදී ආයතන විකුණා දැමීම සම්බන්ධයෙන් තීරණ ගත නොහැකි බව පාර්ලිමේන්තු මන්ත්‍රී හරිනි අමරසූරිය මහත්මිය පවසයි.
+MP Harinini Amarasuriya says he cannot make decisions regarding selling the institutions such as Sri Lanka Telecom and Insurance Corporation to a government that does not have a mandate.
 
-ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරයේ නියෝජිතයන් සමඟ ඊයේ (01) පැවති සාකච්ඡාවකින් අනතුරු ව මාධ්‍යයට අදහස් දක්වමින් ඇය මේ බව සඳහන් කළා ය.
+She was speaking to the media with a discussion with the representatives of the National Resources Protection Movement yesterday (01).
 
-‍බැංකු සේවක සංගමය, ජාතික විදුලි බල මණ්ඩලය, ශ්‍රී ලංකා ටෙලිකොම් ආයතනය සහ රක්ෂණ සංස්ථාව නියෝජනය කරමින් ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරය ඊයේ ජාතික ජන බලවේගයේ නියෝජිතයන් හමු විය.
+Representatives of the National Resources Protection of the Banking Employees Union, National Electricity Association, Sri Lanka Telecom and Insurance Corporation met the representatives of the National Protection.
 
-ජනතා විමුක්ති පෙරමුණු පක්ෂ කාර්යාලයේ පැවති මෙම හමුවේ දී එම ආයතන වර්තමානයේ මුහුණ දී තිබෙන ගැටලු සම්බන්ධයෙන් සාකච්ඡා කර තිබේ.
+The JVP held at the meeting of the JVP in this regard.
 
-මේ අතර, ටෙලිකොම් වෘත්තීය සමිති නියෝජිතයන් සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි ලොකුගේ මහතා ද පසුගිය දා ප්‍රවෘත්ති සාකච්ඡාවකට එක් විය.
+Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recently joined the SLMC.
 
 ◼️
 
 [Data](articles/02d1ffb3.json)
 
+[Extended Data](ext_articles/02d1ffb3.ext.json)
+
 ---
 
-### ආයතන විකිණීම ගැන හරිනිගෙන් විවේචනයක්
+### Hariniga's criticism of sale of institutions
 
 *2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194040) · `si`
 
-ජනවරමක් නොමැති ආණ්ඩුවකට ශ්‍රී ලංකා ටෙලිකොම්, රක්ෂණ සංස්ථාව ආදී ආයතන විකුණා දැමීම සම්බන්ධයෙන් තීරණ ගත නොහැකි බව පාර්ලිමේන්තු මන්ත්‍රී හරිනි අමරසූරිය මහත්මිය පවසයි.
+MP Harinini Amarasuriya says he cannot make decisions regarding selling the institutions such as Sri Lanka Telecom and Insurance Corporation to a government that does not have a mandate.
 
-ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරයේ නියෝජිතයන් සමඟ ඊයේ (01) පැවති සාකච්ඡාවකින් අනතුරු ව මාධ්‍යයට අදහස් දක්වමින් ඇය මේ බව සඳහන් කළා ය.
+She was speaking to the media with a discussion with the representatives of the National Resources Protection Movement yesterday (01).
 
-‍බැංකු සේවක සංගමය, ජාතික විදුලි බල මණ්ඩලය, ශ්‍රී ලංකා ටෙලිකොම් ආයතනය සහ රක්ෂණ සංස්ථාව නියෝජනය කරමින් ජාතික සම්පත් සුරැකීමේ ව්‍යාපාරය ඊයේ ජාතික ජන බලවේගයේ නියෝජිතයන් හමු විය.
+Representatives of the National Resources Protection of the Banking Employees Union, National Electricity Association, Sri Lanka Telecom and Insurance Corporation met the representatives of the National Protection.
 
-ජනතා විමුක්ති පෙරමුණු පක්ෂ කාර්යාලයේ පැවති මෙම හමුවේ දී එම ආයතන වර්තමානයේ මුහුණ දී තිබෙන ගැටලු සම්බන්ධයෙන් සාකච්ඡා කර තිබේ.
+The JVP held at the meeting of the JVP in this regard.
 
-මේ අතර, ටෙලිකොම් වෘත්තීය සමිති නියෝජිතයන් සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි ලොකුගේ මහතා ද පසුගිය දා ප්‍රවෘත්ති සාකච්ඡාවකට එක් විය.
+Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recently joined the SLMC.
 
 ◼️
 
 [Data](articles/5b3f2ad6.json)
+
+[Extended Data](ext_articles/5b3f2ad6.ext.json)
 
 ---
 
@@ -194,19 +258,23 @@ The sale is sold at Rs.
 
 ---
 
-### උෂ්ණාධික කාලගුණය නිසා ජල උල්පත් සිදී යනවා
+### The spring of water is dry due to the hottest weather
 
 *2024-03-02 11:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උෂ්ණාධික-කාලගුණය-නිසා-ජල-උල්පත්-සිදී-යනවා/11-408381) · `si`
 
-රජයට අයත් පොහොර සමාගම් දෙක නිෂ්පාදනය කරන තත්ත්වයෙන් හා ගුණාත්මකභාවයෙන් ඉහළ තේ පොහොර වෙළෙඳපොලේ අලෙවි කරන මිලට වඩා අඩුවෙන් වගාකරුවන්ට ලබාදෙන බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the tea fertilizer will be given to the growers of the quality and quality of the government's fertilizer companies.
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊෙය්  (01) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Mr. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries Mahinda Amaraweera, said:
 
-මේ දිනවල දිවයින පුරා උෂ්ණාධික කාලගුණ තත්ත්වයක් පවතිනවා. එය ජල උල්පත් සිදීයාමේ තත්ත්වයක් දක්වා බලපා තිබෙනවා. එම තත්ත්වය හමුවේ වගා කටයුතු සිදුකිරීමේ දී එක් දිනක් තුළ සම්පූර්ණ කුඹුරු යායම එකවර වගා කරන ලෙස ගොවි ජනතාවගෙන් ඉල්ලා සිටිනවා.
+There is a temperature weather throughout the country these days. It has been affected by the spring of water spring. In the face of the situation, the farmers urge the farmers to cultivate the full paddy field at once.
+
+Also, we expect modern technology for agriculture. Steps should be used to use methods such as "parachute". Farmers' organizations have a special responsibility in this regard. In the plowing "disk paddy" and "mill board rung" is asked to use ". It should be emphasized that the farmers who have been successfully cultivated are currently being used to achieve their harvests.
 
 ...
 
 [Data](articles/5bee8eb7.json)
+
+[Extended Data](ext_articles/5bee8eb7.ext.json)
 
 ---
 
@@ -1885,57 +1953,5 @@ The ship is due to leave the island on March 3, 2024, concluding the official vi
 [Data](articles/a4789b19.json)
 
 [Extended Data](ext_articles/a4789b19.ext.json)
-
----
-
-### Defender accident that stranded the bridegroom
-
-*2024-03-01 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194026) · `si`
-
-Some people were injured in a car accident carried out on Kaduwela, Kaduwela this afternoon.
-
-Kaduwela The accident occurred at the front of Kaduwela Municipal Council road in the Kaduwela Municipal Council road.
-
-The injured have been hospitalized and the driver of the Diappy carrier and the bridegroom had gone down the bridegroom.
-
-However, the police have taken steps to be taken into custody by the police on information received.
-
-◼️
-
-[Data](articles/5f334a7a.json)
-
-[Extended Data](ext_articles/5f334a7a.ext.json)
-
----
-
-### CDASL raises concerns over proposed protectionist measures in Sri Lanka’s tile industry
-
-*2024-03-01 22:00:00* · [`islandlk`](http://island.lk/cdasl-raises-concerns-over-proposed-protectionist-measures-in-sri-lankas-tile-industry/) · `en`
-
-The Condominium Developers Association of Sri Lanka (CDASL) is deeply concerned about recent proposals advocating for protectionist measures within the tile industry. Furthermore, such proposals, if implemented without careful consideration, could have far-reaching consequences for both industry stakeholders and the general public.
-
-At the heart of the issue lies the lack of substantiated evidence supporting claims of “dumping”. Without concrete proof, such allegations raise suspicions regarding the motives behind them and the potential for unintended consequences. Moreover, the proposed measures overlook the detrimental effects of monopolistic practices, which have long plagued the housing, construction, and condominium industries in Sri Lanka.
-
-...
-
-[Data](articles/bb9d7dbf.json)
-
-[Extended Data](ext_articles/bb9d7dbf.ext.json)
-
----
-
-### JAT hosts 3rd Pintharoo Abhiman convocation in continued drive to empower wood craftsmen
-
-*2024-03-01 22:00:00* · [`islandlk`](http://island.lk/jat-hosts-3rd-pintharoo-abhiman-convocation-in-continued-drive-to-empower-wood-craftsmen/) · `en`
-
-JAT Holdings PLC, the market leader for wood coatings and brushes in Sri Lanka, recently celebrated a significant milestone with the successful conclusion of the 3rd Convocation under its well-established and highly successful JAT Pintharoo Abhiman programme.
-
-The convocation ceremony was held in grand style on the 18th of January 2024 at the JAT Holdings Auditorium in Thalawathugoda. During the event, the 3rd batch of skilled painters and carpenters, consisting of 132 individuals, received their internationally recognised National Vocational Qualifications (NVQ) from the National Apprentice and Industrial Training Authority (NAITA). Accordingly, since its inception, over 250 skilled wood craftsmen have now been facilitated by JAT Pintharoo Abhiman to receive NVQ Level 3 certification.
-
-...
-
-[Data](articles/bef7ccc3.json)
-
-[Extended Data](ext_articles/bef7ccc3.ext.json)
 
 ---

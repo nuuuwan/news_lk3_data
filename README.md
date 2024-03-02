@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 18:33:03**
+As of **2024-03-02 18:49:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,461 (100.0%) of 10,462 articles have been extended.
+10,462 (100.0%) of 10,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ A 38-year-old person, said to be involved in drug dealings and who was recently 
 ...
 
 [Data](articles/3eb393fb.json)
+
+[Extended Data](ext_articles/3eb393fb.ext.json)
 
 ---
 

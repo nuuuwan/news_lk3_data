@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 21:33:51**
+As of **2024-03-02 21:51:46**
 
 ## Newspaper Stats
 
-*Scraped **10,473** Articles*
+*Scraped **10,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ tamilmirrorlk | 1,280
 adaderanalk | 1,280
 virakesarilk | 1,416
 dailymirrorlk | 1,587
-adaderanasinhalalk | 1,616
+adaderanasinhalalk | 1,618
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,473 (100.0%) of 10,473 articles have been extended.
+10,473 (100.0%) of 10,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### සබරගමු පළාතේ ප්‍රශ්න පත්‍රයකුත් සමාජ මාධ්‍යයේ
+
+*2024-03-02 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194058) · `si`
+
+එළැඹෙන සතිය තුළ පැවැත්වීමට නියමිත සබරගමුව පළාත් පාසල් වර්ෂ අවසාන වාර විභාගයේ ප්‍රශ්න පත්‍රයක් ද මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතින බවට තොරතුරු වාර්තා වෙයි.
+
+එහිදී වැඩිදුරටත් වාර්තා වී ඇත්තේ බස්නාහිර පළාත් වාර විභාගයක පිළිතුරු පත්‍රයක් ද එලෙස සමාජ මාධ්‍යට එක්කර ඇති බවය.
+
+ජාතික විභාග මෙන්ම පළාත් අධ්‍යාපන දෙපාර්තමේන්තු මගින් පවත්වන පාසල් වාර විභාග කිහිපයකම ප්‍රශ්න පත්‍ර විභාගයට පැය කිහිපයකට පෙර සමාජ මාධ්‍ය වෙත නිකුත් වීමේ සිදුවීම් විටින්විට වාර්තා වුණි.
+
+2023 වසර සඳහා වන වර්ෂ අවසාන ඇගයීම් විභාගයේ බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව මගින් නිකුත් කරන 10 සහ 11 ශ්‍රේණිවල විද්‍යාව සහ ඉතිහාසය විෂය ප්‍රශ්න පත්‍ර පෙරදින රාත්‍රියේ සමාජ මාධ්‍ය වෙත මුදාහැර තිබුණි.
+
+මෙවන් පසුබිමක එළැඹෙන අඟහරුවාදා බස්නාහිර පළාතේ පාසල්වල 11 ශ්‍රේණියේ සිසුන්ට පැවැත්වීමට නියමිත ගණිතය ප්‍රශ්න පත්‍රයට අදාළ පිළිතුරු පත්‍ර ලේඛණය බවට පැවසෙන ලේඛණයක් ද මේ වනවිට සමාජ මාධ්‍ය තුළ සංසරණය වන බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/d1146cd1.json)
+
+---
+
+### අමෙරිකාව ගුවනින් ආහාර මලු දමයි
+
+*2024-03-02 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194057) · `si`
+
+අමෙරිකානු යුද ගුවන්යානා ගාසා තීරයට ගුවනින් ආහාර මලු හෙළා තිබේ.
+
+C-130 යානා තුනක් යොදාගෙන ආහාර මලු 30,000ක් පමණ ගාසා තීරයට දැමූ බව අමෙරිකානු බලධාරීන් පවසයි.
+
+ඔවුන් එම තීරණය ගෙන ඇත්තේ පසුගිය බ්‍රහස්පතින්දා ආහාර රැගත් ලොරි පෙළක් අසලට රැස්වූ පලස්තීන වැසියන් 100කට අධික පිරිසක් මියයෑමෙන් පසුවය.
+
+හමාස් සංවිධානය පවසන්නේ ඊශ්‍රායලය විසින් එම පිරිසට ප්‍රහාරයක් එල්ලකළ බවයි.
+
+◼️
+
+[Data](articles/7ff6c0d4.json)
+
+---
 
 ### Mother asks President to save his son in Myanmar
 
@@ -2227,51 +2265,5 @@ The responsibility of protecting the country from domestic and foreign enemies d
 [Data](articles/c5b608bf.json)
 
 [Extended Data](ext_articles/c5b608bf.ext.json)
-
----
-
-### Elon Musk sues ChatGPT-maker OpenAI over Microsoft links
-
-*2024-03-02 03:45:00* · [`islandlk`](http://island.lk/elon-musk-sues-chatgpt-maker-openai-over-microsoft-links/) · `en`
-
-Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015.
-
-The lawsuit – which has also been filed against OpenAI boss Sam Altman – says the firm has departed from its original non-profit, open source mission.
-
-It says instead of trying to “benefit humanity” – as it was set up to do – it is focusing on “maximising profits” for major investor Microsoft.
-
-The firm was created with the intention of building what’s known as artificial general intelligence (AGI) – AI that can perform any task a human being is capable of.
-
-It was also set up as a not-for-profit company, meaning it would not aim to make money.
-
-The lawsuit, which has been filed in San Francisco, states it was under these conditions, that Mr Musk agreed to found OpenAI, along with Mr Altman and co-founder Greg Brockman. He left three years later.
-
-...
-
-[Data](articles/a4a3ccaa.json)
-
-[Extended Data](ext_articles/a4a3ccaa.ext.json)
-
----
-
-### Thailand Group Financial Gift to Sri Lanka
-
-*2024-03-02 03:43:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்லாந்து-குழு-இலங்கைக்கு-நிதி-அன்பளிப்பு/175-334073) · `ta`
-
-Thailand's Buddhist group donated $50,000 to Sri Lanka, aimed at aiding the poor. This is the third donation for Sri Lanka's welfare, with previous gifts promoting health facilities in Buddhist temples.
-
-🟩
-
-Colombo. The Buddhist delegation of Kirinde Assaji Thera and the Buddhist group of Thailand have met President Ranil Wickremesinghe and donated $ 50 thousand.
-
-The President has issued a directive to his secretary Saman Ekanayake to use this gift to help the most impoverished people.
-
-The committee has given this gift for the welfare of Sri Lanka for the third time and has been distributed to the Gangarayaya $ 200,000 by the top committee in 2010 and 2011 to promote the health facilities of the 1,800 Buddhist temples nationwide.(a)
-
-◼️
-
-[Data](articles/06a7d3f4.json)
-
-[Extended Data](ext_articles/06a7d3f4.ext.json)
 
 ---

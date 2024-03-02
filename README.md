@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 20:02:45**
+As of **2024-03-02 20:17:45**
 
 ## Newspaper Stats
 
-*Scraped **10,468** Articles*
+*Scraped **10,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-tamilmirrorlk | 1,278
+tamilmirrorlk | 1,279
 adaderanalk | 1,279
 virakesarilk | 1,416
 dailymirrorlk | 1,587
@@ -26,23 +26,45 @@ adaderanasinhalalk | 1,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,467 (100.0%) of 10,468 articles have been extended.
+10,468 (100.0%) of 10,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### හියුමන් ඉමියුනෝග්ලොබියුලින් සිද්ධිය ගැන පාපොච්චාරණයක්
+### மருந்து மோசடி ரத்நாயக்கவும் விளக்கமறியல்
+
+*2024-03-02 19:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-மோசடி-ரத்நாயக்கவும்-விளக்கமறியல்/175-334096) · `ta`
+
+சுகாதார அமைச்சின் மேலதிக செயலாளர் சமன் ரத்நாயக்கவை எதிர்வரும் 14 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் திருமதி லோச்சனி அபேவிக்ரம உத்தரவிட்டுள்ளார்.
+
+இந்திய கடன் திட்டத்தின் கீழ் போலி ஆவணங்களை தயாரித்து நோயாளர்களின் உயிருக்கு பாதுகாப்பை ஏற்படுத்திய பல கோடி ரூபாய் மோசடி செய்த குற்றச்சாட்டின் கீழ் இவர் கைது செய்யப்பட்டிருந்தார்.
+
+அத்துடன்,  அரசு மருத்துவமனைகளுக்கு தரமற்ற ஆன்டிபாடி தடுப்பூசிகளை விநியோகிக்க உத்தரவிடப்பட்டுள்ளமை தொடர்பிலும் அவருக்கு எதிராக குற்றஞ்சாட்டப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/fcbd5887.json)
+
+---
+
+### Confession of Human Emiyankulin incident
 
 *2024-03-02 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194054) · `si`
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් වංචාව සම්බන්ධයෙන් මහෙස්ත්‍රාත්වරිය ඉදිරියේ පාපොච්චාරණයකට තමන් සුදානම් බව සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා අද (02) අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+Saman Ratnayake, Additional Secretary to the Ministry of Health, confessed to questionable antibodies before the Maligakanda Magistrate, following an event by the CID.
 
-ඔහු මේ බව පැවසුවේ, ඊයේ (01) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවට පත්වීමෙන් පසු අද පෙරවරුවේ මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදීය.
+🟩
+
+Additional Secretary to the Ministry of Health Saman Ratnayake today stated that he was preparing to a confession before the Magistrate regarding the questionable antibodies.
+
+He was speaking at the event of the CID on the CID yesterday (01) was produced before the Maligakanda Magistrate this morning.
 
 ◼️
 
 [Data](articles/577b4183.json)
+
+[Extended Data](ext_articles/577b4183.ext.json)
 
 ---
 
@@ -2241,23 +2263,5 @@ When he was told at the interview that a father who had attempted to get electri
 [Data](articles/ce0eee82.json)
 
 [Extended Data](ext_articles/ce0eee82.ext.json)
-
----
-
-### Water for Peace and Harmony
-
-*2024-03-02 02:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Water-for-Peace-and-Harmony/172-278085) · `en`
-
-Most of us take water for granted. However, clean drinking water is essential for human life, and in these days of high temperature reaching 94°F, many people experience dehydration, and we need to drink about six litres of water a day.
-
-Next month, the United Nations marks World Water Day, and the theme is ‘water for peace’. In a statement, the UN says, water can create peace or spark conflict. When water is scarce or polluted, or when people have unequal or no access, tensions can rise among communities and countries. More than 3 billion people worldwide depend on water that crosses national borders. Yet, only 24 countries have cooperation agreements for all their shared water.
-
-As impacts of climate change increase and populations grow, there is an urgent need, within and among countries, to unite around protecting and conserving our most precious resource.
-
-...
-
-[Data](articles/acc37ea1.json)
-
-[Extended Data](ext_articles/acc37ea1.ext.json)
 
 ---

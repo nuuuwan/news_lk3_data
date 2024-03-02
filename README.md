@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 11:17:33**
+As of **2024-03-02 11:33:13**
 
 ## Newspaper Stats
 
-*Scraped **10,413** Articles*
+*Scraped **10,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 553
 dailyftlk | 560
 adalk | 877
 adaderanalk | 1,264
-tamilmirrorlk | 1,267
+tamilmirrorlk | 1,270
 virakesarilk | 1,414
 dailymirrorlk | 1,581
 adaderanasinhalalk | 1,599
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,412 (100.0%) of 10,413 articles have been extended.
+10,413 (100.0%) of 10,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### இலங்கை வந்தது ரஷ்ய போர்க்கப்பல்
+
+*2024-03-02 11:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தது-ரஷ்ய-போர்க்கப்பல்/175-334085) · `ta`
+
+ரஷ்ய கடற்படைக்குச் சொந்தமான போர்க்கப்பல் ஒன்று 529 பேருடன் உத்தியோகப்பூர்வ விஜயம் மேற்கொண்டு கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளது.
+
+இரண்டு நாட்டு கடற்படைக்கும் இடையிலான அபிவிருத்தி நடவடிக்கைகளை முன்னெடுக்கும் சில முக்கிய வேலைத்திட்டங்களில் அவர்கள் பங்கேற்கவுள்ளனர்.
+
+◼️
+
+[Data](articles/96596f9c.json)
+
+---
 
 ### Chicken prices increase
 
@@ -47,6 +61,22 @@ Chicken sale centres in Handapangoda recorded Rs. 1,190 per kilogram of fresh ch
 ◼️
 
 [Data](articles/8e6119af.json)
+
+[Extended Data](ext_articles/8e6119af.ext.json)
+
+---
+
+### புதிய கூட்டணி மைத்திரி அதிரடி
+
+*2024-03-02 10:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கூட்டணி-மைத்திரி-அதிரடி/175-334084) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையில் புதிய கூட்டணி அடுத்த வாரம் உருவாக்கப்படும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+ஐக்கிய ஐக்கிய முன்னணியின் யாப்பு திருத்தம் செய்யப்பட்டுள்ள நிலையில், அதிகாரிகளை நியமிக்க எதிர்காலத்தில் நடவடிக்கை எடுக்கப்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f8bf57f9.json)
 
 ---
 
@@ -83,6 +113,22 @@ Mr. Saman Ratnayake was summoned to the Criminal Investigation Department yester
 [Data](articles/a8a3cf16.json)
 
 [Extended Data](ext_articles/a8a3cf16.ext.json)
+
+---
+
+### காத்தான்குடியில் பரபரப்பு; நீதவான் அதிரடி உத்தரவு
+
+*2024-03-02 10:43:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/காத்தான்குடியில்-பரபரப்பு-நீதவான்-அதிரடி-உத்தரவு/73-334082) · `ta`
+
+காத்தான்குடியில்  சட்டவிரோதமாக ஒன்று கூடிய சம்பவம் தொடர்பாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட 30 பேரையும் மட்டக்களப்பு நீதவான் நீதிமன்ற பதில் நீதவான் முன்னிலையில் நேற்று மாலை ஆஜர்படுத்தப்பட்டபோது, அவர்களை சரீரப்பிணையில் செல்ல அனுமதித்ததுடன் எதிர்வரும் 26 ம் திகதி நீதிமன்றில் ஆஜராகுமாறு உத்தரவிட்டார்.
+
+காத்தான்குடி பாலமுனை பகுதியில் வீடு ஒன்றில்  சட்டவிரோதமாக கூட்டம் நடத்திய குற்றச்சாட்டில் உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பாக கைது செய்யப்பட்டு பிணையில் விடுத்துள்ள சஹ்ரான் காசிமின் சகோதரியின் கணவர் உட்பட 30 பேரை சந்தேகத்தின் பேரில் வெள்ளிக்கிழமை (01) அதிகாலையில் பொலிஸார் கைது செய்திருந்தனர்.
+
+23 மோட்டார்சைக்கிள் முச்சக்கர வண்டி ஒன்றும் இதன்போது மீட்கப்பட்டுள்ளதுடன், கைது செய்யப்பட்டவர்களின் வீடுகளுக்கு பொலிஸார் சென்று விசேட சோதனை நடவடிக்கை மேற்கொண்டுள்ளதையடுத்து பிரதேசத்தில் பெரும் பரபரப்பு எற்பட்டுள்ளது.
+
+...
+
+[Data](articles/72a8cc41.json)
 
 ---
 
@@ -1891,79 +1937,5 @@ It has been reported that the body is being carried out and the port police are 
 [Data](articles/1a35dbc4.json)
 
 [Extended Data](ext_articles/1a35dbc4.ext.json)
-
----
-
-### Shantan's bodies brought to the country;Autopsy
-
-*2024-03-01 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177708) · `ta`
-
-55 -year -old Thillaiyambalam Sudhendraraja, a nickname, has been brought to the country on Friday (1).
-
-In this case, the body of the water has been handed over to the Colombo Hospital for autopsy as the autopsy has been instructed from the Katunayake airport after a long time.
-
-His relatives have announced that the body will be taken to Jaffna after the autopsy.
-
-Shantan died at Rajiv Gandhi Hospital in Chennai on the 28th of this month.
-
-Meanwhile, after his body was taken to Jaffna, the funeral will be held at his residence in Udupitiya.
-
-It is reported that the Jaffna University Students Union and the Welfare of the Foreign Trade Fighters have made arrangements to make special tributes.
-
-◼️
-
-[Data](articles/982aa332.json)
-
-[Extended Data](ext_articles/982aa332.ext.json)
-
----
-
-### Dates for exams were announced
-
-*2024-03-01 19:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகளுக்கான-திகதிகள்-அறிவிக்கப்பட்டன/175-334059) · `ta`
-
-The Department of Examinations has announced the school exams and their dates to be held in 2024.
-
-Accordingly, the GCE Ordinary Level Examination for 2023 will be held from 6th to May 15, 2024.
-
-The Grade 5 scholarship examination for the 2024 will be held on Sunday, September 15, 2024.
-
-The Commissioner of Examinations Amit Jayasundera has announced that the GCE Advanced Level Examination for 2024 will be held from November 25, 2024 to December 20, 2024.
-
-Meanwhile, the Commissioner of Examinations has stated that the proposed dates for the GCE Ordinary Level Examination for 2024 will be announced in the future.. Remble
-
-◼️
-
-[Data](articles/6f17bb4e.json)
-
-[Extended Data](ext_articles/6f17bb4e.ext.json)
-
----
-
-### Electricity tariff reduces the decline in the second day
-
-*2024-03-01 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194020) · `si`
-
-The discussions with the Public Utilities Commission of Ceylon Electricity Board have ended today (01).
-
-The Public Utilities Commission states that this situation was created as a result of the board was not provided with relevant data.
-
-This is the revision of the electricity tariff from January this year.
-
-The government's new tariff was revised in the year 20, 2023, as the government's new policy of revision of electricity tariffs.
-
-Accordingly, a fee reduction in fees on February 15, and the Public Utilities Commission allowed the Ceylon Electricity Board to increase the fees again.
-
-The electricity tariff has increased by 18 percent to the domestic category of the final revised.
-
-However, this year's proposal to reduce the electricity capacity and profitability and the proposal, the Utilities Commission had informed the repair of the costs.
-
-The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 months of Rs. 156.9 billion in the last 3 months of Rs.
-
-...
-
-[Data](articles/aa226575.json)
-
-[Extended Data](ext_articles/aa226575.ext.json)
 
 ---

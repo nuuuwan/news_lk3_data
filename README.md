@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 17:53:20**
+As of **2024-03-02 18:08:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 1,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,458 (100.0%) of 10,460 articles have been extended.
+10,460 (100.0%) of 10,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### மைத்திரிக்கு நடந்தது நல்லது: சரத்
+### Good that happened to Maithri: Sarath
 
 *2024-03-02 17:25:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-நடந்தது-நல்லது-சரத்/175-334095) · `ta`
 
-**
+*Field Marshal Sarath Fonseka stated that Maithripala Sirisena lost his official residence and was rejected by the people, with him being the only action for Polonnaruwa during his presidency.*
 
-உத்தியோகபூர்வ இல்லத்தை மைத்திரிபால சிறிசேன இழந்தமை   நல்லது என கம்பஹா மாவட்ட பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகா தெரிவித்தார்.
+Gampaha district parliamentarian Field Marshal Sarath Fonseka said that Maithripala Sirisena lost the official residence.
 
-மைத்திரிபால சிறிசேன மக்களால் நிராகரிக்கப்பட்ட தலைவர் எனவும் அவர் ஜனாதிபதியாக இருந்த காலத்தில் பொலன்னறுவைக்காக மாத்திரம் செயற்பட்டதாகவும் சரத் பொன்சேகா மேலும் தெரிவித்தார்.
+Sarath Fonseka added that Maithripala Sirisena was rejected by the people and that he was the only act for Polonnaruwa during his presidency.
 
 ◼️
 
 [Data](articles/70370baf.json)
+
+[Extended Data](ext_articles/70370baf.ext.json)
 
 ---
 
@@ -68,21 +70,23 @@ The All Ceylon Snacks and Restaurant Owners Association said the snacks would be
 
 ---
 
-### உணவுப்பொருட்களின் விலைகள் திடீரென அதிகரிப்பு
+### A sudden increase in prices of foods
 
 *2024-03-02 17:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உணவுப்பொருட்களின்-விலைகள்-திடீரென-அதிகரிப்பு/150-334094) · `ta`
 
-**
+*Food prices in Sri Lanka are rising from midnight today. Cluster and Bright Rice prices increase by 50 and 5 rupees, respectively, while milk tea sees a 10 rupee hike. Snacks will rise by 10 and 25 rupees.*
 
-இன்று நள்ளிரவு முதல் உணவுப்பொருட்களின் விலைகள் அதிகரிக்கப்படும் என அகில இலங்கை சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+The All Ceylon Restaurant and Restaurant Owners Association said the prices of food items would be increased from midnight today.
 
-இதன்படி கொத்து மற்றும் ப்ரைட் ரைஸ் ஆகியன 50 ரூபாவினாலும், தேநீர் 5 ரூபாவினாலும், பால் தேநீர் 10 ரூபாவினாலும் அதிகரிக்க தீர்மானிக்கப்பட்டுள்ளது.
+Accordingly, the cluster and Bright Rice have been decided to increase by 50 rupees, 5 rupees and milk tea by 10 rupees.
 
-மேலும் சிற்றுண்டிகள் 10 ரூபாவினாலும் சோற்றுப்பொதி 25 ரூபாவினாலும் அதிகரிக்கப்படவுள்ளதாக அகில இலங்கை சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+The All Ceylon Snack and Restaurant Owners Association said that the snacks will be increased by 10 rupees and 25 rupees.. Remble
 
 ◼️
 
 [Data](articles/e5476c0c.json)
+
+[Extended Data](ext_articles/e5476c0c.ext.json)
 
 ---
 

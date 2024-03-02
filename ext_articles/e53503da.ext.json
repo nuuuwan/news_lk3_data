@@ -12,5 +12,8 @@
         "The Department of Meteorology states that a rainy weather is expected tomorrow.This is stated in announcement this afternoon."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "\"Tomorrow's weather: rainy, as announced by the Department of Meteorology this afternoon.\""
+  ]
 }

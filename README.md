@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 05:36:55**
+As of **2024-03-02 05:55:28**
 
 ## Newspaper Stats
 
-*Scraped **10,363** Articles*
+*Scraped **10,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 125
 dbsjeyarajcom | 168
 newsfirstlk | 363
 economynextcom | 542
-islandlk | 545
+islandlk | 553
 dailyftlk | 560
 adalk | 876
 adaderanalk | 1,255
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,363 (100.0%) of 10,363 articles have been extended.
+10,363 (99.9%) of 10,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Elon Musk sues ChatGPT-maker OpenAI over Microsoft links
+
+*2024-03-02 03:45:00* · [`islandlk`](http://island.lk/elon-musk-sues-chatgpt-maker-openai-over-microsoft-links/) · `en`
+
+Elon Musk is suing OpenAI, the makers of ChatGPT, arguing it has breached the principles he agreed to when he helped found it in 2015.
+
+The lawsuit – which has also been filed against OpenAI boss Sam Altman – says the firm has departed from its original non-profit, open source mission.
+
+It says instead of trying to “benefit humanity” – as it was set up to do – it is focusing on “maximising profits” for major investor Microsoft.
+
+The firm was created with the intention of building what’s known as artificial general intelligence (AGI) – AI that can perform any task a human being is capable of.
+
+It was also set up as a not-for-profit company, meaning it would not aim to make money.
+
+The lawsuit, which has been filed in San Francisco, states it was under these conditions, that Mr Musk agreed to found OpenAI, along with Mr Altman and co-founder Greg Brockman. He left three years later.
+
+...
+
+[Data](articles/a4a3ccaa.json)
+
+---
 
 ### Thailand Group Financial Gift to Sri Lanka
 
@@ -586,6 +608,66 @@ He said the issue which the Speaker has faced when appointing the IGP is the non
 
 ---
 
+### LOLC share price hike triggers positive investor sentiment; indices move up
+
+*2024-03-01 23:01:00* · [`islandlk`](http://island.lk/lolc-share-price-hike-triggers-positive-investor-sentiment-indices-move-up/) · `en`
+
+LOLC share prices moved up by Rs 35 or 11 percent yesterday, resulting in an increasing demand for shares of LOLC Group companies. This brought some positive sentiment to the stock market, resulting in both indices moving up.
+
+All Share Price Index was up by 39.4 points, while the S and P SL20 rose by 17.4 points. Turnover stood at Rs 1.5 billion with four crossings. Those crossings were reported in Melstacope, which crossed 1.3 million shares to the tune of Rs 119.25 million, its shares traded at Rs 90, HNB 400,000 shares crossed for Rs 62.4 million; its shares traded at Rs 156, Hemas, 523,000 shares crossed for Rs 40 million; its shares traded at Rs 75 and Central Finance 200,000 shares crossed to the tune of Rs 20 million and its shares sold at Rs 100.
+
+...
+
+[Data](articles/f4069eff.json)
+
+---
+
+### SriLankan Aviation College gains NVQ Accreditation
+
+*2024-03-01 22:58:00* · [`islandlk`](http://island.lk/srilankan-aviation-college-gains-nvq-accreditation/) · `en`
+
+SriLankan Aviation College, the training arm of SriLankan Airlines, successfully gained NVQ Level 6 status under the National Vocational Qualifications (NVQ) Framework. The NVQ accreditation will increase the national recognition for the programmes offered by SriLankan Aviation College and enhance the career prospects of graduates by validating their occupational competence.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/d104a762.json)
+
+---
+
+### Aitken Spence Logistics offers a best-in-class Container Freight Station
+
+*2024-03-01 22:57:00* · [`islandlk`](http://island.lk/aitken-spence-logistics-offers-a-best-in-class-container-freight-station/) · `en`
+
+Aitken Spence Logistics unveils its latest state-of-the-art Container Freight Station (CFS) to facilitate the growing requirements of the supply chain community in the region.This 100,000 sq. ft. facility, strategically positioned within the main logistics complex in Mabole, Wattala, reflects the company’s commitment to serve the Export-Import community of the region, providing operational excellence, supply chain value creation, and unparalleled service delivery.
+
+The newly commissioned CFS provides a strategic advantage to businesses by being situated in close proximity to both the Port of Colombo and Bandaranaike International Airport. Its convenient access to the country’s main highways and expressways further enhances its accessibility, positioning Aitken Spence Logistics as a pivotal player in the region’s logistics landscape.
+
+...
+
+[Data](articles/6827ba4f.json)
+
+---
+
+### Justice Buwaneka Aluwihare PC as Independent Non-Executive Director
+
+*2024-03-01 22:57:00* · [`islandlk`](http://island.lk/justice-buwaneka-aluwihare-pc-as-independent-non-executive-director/) · `en`
+
+Seylan Bank announced the appointment of Justice Buwaneka Aluwihare PC as an Independent Non- Executive Director to its Board with effect from 26th February 2024.Upon being called to the Bar in 1982, Justice Buwaneka Aluwihare PC joined the Attorney General’s Department in 1983 as a State Counsel and served the Attorney General’s Department for thirty-years and rose to the position of Additional Solicitor General in 2013.
+
+In the same year, he was conferred ‘silk’ and appointed as a President’s Counsel. In 1989, he was enrolled as a solicitor of England and Wales and in 2004 earned a master’s degree (LLM) from the University of London (Queen Mary College).
+
+He worked for the United Nations as a Prosecutor in East Timor, prosecuting before the Serious Crimes Panel in war related crimes in 2001. In the year 2015, was sworn in as a Judge of the Supreme Court of Fiji Islands and preside in the Supreme Court of Fiji as a non-resident judge.
+
+...
+
+[Data](articles/a7373ddb.json)
+
+---
+
 ### Niroshan Dikwella in response to Gusal Perera
 
 *2024-03-01 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177713) · `ta`
@@ -669,6 +751,34 @@ However, the police have taken steps to be taken into custody by the police on i
 [Data](articles/5f334a7a.json)
 
 [Extended Data](ext_articles/5f334a7a.ext.json)
+
+---
+
+### CDASL raises concerns over proposed protectionist measures in Sri Lanka’s tile industry
+
+*2024-03-01 22:00:00* · [`islandlk`](http://island.lk/cdasl-raises-concerns-over-proposed-protectionist-measures-in-sri-lankas-tile-industry/) · `en`
+
+The Condominium Developers Association of Sri Lanka (CDASL) is deeply concerned about recent proposals advocating for protectionist measures within the tile industry. Furthermore, such proposals, if implemented without careful consideration, could have far-reaching consequences for both industry stakeholders and the general public.
+
+At the heart of the issue lies the lack of substantiated evidence supporting claims of “dumping”. Without concrete proof, such allegations raise suspicions regarding the motives behind them and the potential for unintended consequences. Moreover, the proposed measures overlook the detrimental effects of monopolistic practices, which have long plagued the housing, construction, and condominium industries in Sri Lanka.
+
+...
+
+[Data](articles/bb9d7dbf.json)
+
+---
+
+### JAT hosts 3rd Pintharoo Abhiman convocation in continued drive to empower wood craftsmen
+
+*2024-03-01 22:00:00* · [`islandlk`](http://island.lk/jat-hosts-3rd-pintharoo-abhiman-convocation-in-continued-drive-to-empower-wood-craftsmen/) · `en`
+
+JAT Holdings PLC, the market leader for wood coatings and brushes in Sri Lanka, recently celebrated a significant milestone with the successful conclusion of the 3rd Convocation under its well-established and highly successful JAT Pintharoo Abhiman programme.
+
+The convocation ceremony was held in grand style on the 18th of January 2024 at the JAT Holdings Auditorium in Thalawathugoda. During the event, the 3rd batch of skilled painters and carpenters, consisting of 132 individuals, received their internationally recognised National Vocational Qualifications (NVQ) from the National Apprentice and Industrial Training Authority (NAITA). Accordingly, since its inception, over 250 skilled wood craftsmen have now been facilitated by JAT Pintharoo Abhiman to receive NVQ Level 3 certification.
+
+...
+
+[Data](articles/bef7ccc3.json)
 
 ---
 
@@ -1903,151 +2013,5 @@ The weather forecasts are expected to be in the warm indicator, the heat of the 
 [Data](articles/917dd6fa.json)
 
 [Extended Data](ext_articles/917dd6fa.ext.json)
-
----
-
-### India grants over USD 10 Mn for Hybrid Renewable Energy System on Jaffna islands
-
-*2024-03-01 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-grants-over-USD-10-Mn-for-Hybrid-Renewable-Energy-System-on-Jaffna-islands/108-278040) · `en`
-
-Colombo, March 01 (Daily Mirror) - The Indian Government has extended a full financial grant totaling USD 10.995 million for the development of a Hybrid Renewable Energy System across three islands in Jaffna.
-
-According to Power and Energy Minister Kanchana Wijesekera, the islands of Delft, Analativu and Nainativu are set to benefit from this initiative, with the hybrid renewable energy system slated for completion by March 2025.
-
-The project encompasses the construction of a comprehensive energy system, including 530 kW of wind power, 1700 kW of solar power, 2400 kWh of battery power, and 2500 kW of standby diesel power systems across the three islands. This endeavor will be facilitated by USOLAR, a prominent energy solutions provider.
-
-◼️
-
-[Data](articles/da2183c5.json)
-
-[Extended Data](ext_articles/da2183c5.ext.json)
-
----
-
-### The young man killed when the wall collapsed
-
-*2024-03-01 15:39:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/நின்றிருந்த-சுவர்-இடிந்து-விழுந்ததில்-இளைஞன்-பலி/94-334052) · `ta`
-
-Body. An 18 -year -old pearl Selvam Dhanujan, an 18 -year -old man, who was standing near the wall of a house broken in the village of Antimunai, was killed when the wall collapsed.
-
-Although he was admitted to the hospital and transferred to the Chilaw General Hospital for further treatment, the young man died without treatment, police said.
-
-The body of the youth who died on Thursday (29) has been placed at the Chilaw General Hospital for autopsy and the body of Udapu police is conducting further inquiries.
-
-◼️
-
-[Data](articles/1f3c225c.json)
-
-[Extended Data](ext_articles/1f3c225c.ext.json)
-
----
-
-### Shots at Gaza instead of food
-
-*2024-03-01 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194009) · `si`
-
-Israeli-Hamas in Gaza - Hamas War Relocates International Humanitarian Law, Army Law and Human Rights Index
-
-Gaza, a group of tragedy is reported from the Northern Select Town yesterday (29).
-
-If that event is concise, it is not wrong to introduce it as a collapse of mankind.
-
-The event is to kill at least 112 Palestinians to the streets near the streets near the streets near the hunger, a dish, a drop of street.
-
-According to hospital sources, hospital sources said that the number of injured were over 700.
-
-The Israeli Army had been excused, as reported yesterday (29).
-
-The Israeli Army spokesman said that the Palestinians surrounded by their aid, the Palestinians were killed and the Palestinians were threatened with their soldiers.
-
-But Palestinians say that the Israeli army came with aids and shot the military and drones to the Palestinians who had come to obtain assistance.
-
-Long before the Palestinians of the northern section of Gaza is blocked by Israel long ago.
-
-...
-
-[Data](articles/276d495c.json)
-
-[Extended Data](ext_articles/276d495c.ext.json)
-
----
-
-### Sri Lanka accelerates efforts to combat Cervical Cancer
-
-*2024-03-01 15:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-accelerates-efforts-to-combat-Cervical-Cancer/108-278039) · `en`
-
-Colombo- In a bid to address the pressing issue of cervical cancer, which stands as a formidable health challenge for women in Sri Lanka, Sri Lanka has doubled down on efforts to tackle the disease.
-
-This was evident with a recent panel discussion convened a distinguished group of experts including Dr. Chithramalee de Silva, Dr. Ramani Punchihewa, Dr. J Padmaka Silva, and Nirmali Samaratunga, chaired by Dr. Sandeep Sewlikar.
-
-The discussion, moderated by Dr. Sewlikar, delved into the initiatives and strategies aimed at eliminating cervical cancer from Sri Lanka.
-
-The discussion unveiled stark numbers, stating that cervical cancer ranks as the second most prevalent cancer among women in Sri Lanka, with approximately 1,407 diagnoses and 780 deaths each year. Without intervention, projections paint a grim picture, forecasting a potential death toll of 58,754 by 2070 and 115,137 by 2120.
-
-...
-
-[Data](articles/b59a2f04.json)
-
-[Extended Data](ext_articles/b59a2f04.ext.json)
-
----
-
-### Sri Lanka’s first semi-transparent solar PV agrivoltaic pilot project commissioned
-
-*2024-03-01 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97660/sri-lankas-first-semi-transparent-solar-pv-agrivoltaic-pilot-project-commissioned) · `en`
-
-The first-ever semi-transparent Solar photovoltaic (PV) powered agrivoltaic pilot project of Sri Lanka was commissioned in Hanthana, Kandy on Thursday (Feb.29), marking a significant milestone.
-
-Funded by the Asian Development Bank (ADB), the project aims to pioneer the integration of solar power with agricultural activities.
-
-The pilot project will help multiple government bodies, including the Ministry of Plantation Industries, Ministry of Power & Energy, Ceylon Electricity Board (CEB), Tea Small Holders Development Authority, and Sustainable Energy Authority to study the development of renewable energy in tea plantations across the country.
-
-◼️
-
-[Data](articles/47543c43.json)
-
-[Extended Data](ext_articles/47543c43.ext.json)
-
----
-
-### Announcement on school applying on the results of the scholarship
-
-*2024-03-01 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194008) · `si`
-
-The Ministry of Education has issued a statement regarding the re-survey results of the Grade Five Scholarship Examination.
-
-◼️
-
-[Data](articles/081f3cdb.json)
-
-[Extended Data](ext_articles/081f3cdb.ext.json)
-
----
-
-### Pidurugoda was burned to fire
-
-*2024-03-01 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194007) · `si`
-
-A person who was working behind a house in Talagala area in Horana was in the Talagala Talagala area in Talagala area.
-
-The deceased has been identified as a 76 year old resident of the area.
-
-The deceased had come to prepare a shed in this house.
-
-Accordingly, the owner of the house has been assigned to leave the place.
-
-When he returned the flesh of refugees and seeing it, the man had seen the man in the styles.
-
-Police said that he had later removed him expeditiously, but the man had died.
-
-The cause of the fire is yet to be ascertained and Moragahahena police are conducting further investigations.
-
-"I immediately jumped on astigard.. "He was pulled in a hand with a hand," he had told the police with evidence.
-
-◼️
-
-[Data](articles/fe0b5cbf.json)
-
-[Extended Data](ext_articles/fe0b5cbf.ext.json)
 
 ---

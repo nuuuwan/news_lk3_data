@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 06:16:19**
+As of **2024-03-02 06:52:04**
 
 ## Newspaper Stats
 
-*Scraped **10,371** Articles*
+*Scraped **10,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 876
 adaderanalk | 1,255
 tamilmirrorlk | 1,258
 virakesarilk | 1,412
-dailymirrorlk | 1,572
+dailymirrorlk | 1,573
 adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,363 (99.9%) of 10,371 articles have been extended.
+10,371 (100.0%) of 10,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Cabinet approval for mini hydro project turned down
+
+*2024-03-02 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approval-for-mini-hydro-project-turned-down/108-278060) · `en`
+
+Colombo, March 02 (Daily Mirror) - The Cabinet approval granted on a decision taken by the President and the Prime Minister for a mini hydro project fed by the Samanalawewa tank was turned down by Ratnapura District Coordinating Committee that met on Thursday (29).
+
+The coordinating committee met under the chairmanship of District Parliamentarian Akila Ellawala at the District Secretariat auditorium.
+
+The representative of the Ceylon Electricity Board told the committee that two hydropower projects in the low-lying area of Samanalawewa tank were already in operation and that the proposed project could be detrimental to the dam.
+
+He pointed out that it was for the first time in 18 years that the tank spilt over this year and that the proposed project is to depend on the spill water canal.
+
+...
+
+[Data](articles/31f1a410.json)
+
+---
 
 ### Elon Musk sues ChatGPT-maker OpenAI over Microsoft links
 
@@ -51,6 +69,8 @@ The lawsuit, which has been filed in San Francisco, states it was under these co
 ...
 
 [Data](articles/a4a3ccaa.json)
+
+[Extended Data](ext_articles/a4a3ccaa.ext.json)
 
 ---
 
@@ -620,6 +640,8 @@ All Share Price Index was up by 39.4 points, while the S and P SL20 rose by 17.4
 
 [Data](articles/f4069eff.json)
 
+[Extended Data](ext_articles/f4069eff.ext.json)
+
 ---
 
 ### SriLankan Aviation College gains NVQ Accreditation
@@ -636,6 +658,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/d104a762.json)
 
+[Extended Data](ext_articles/d104a762.ext.json)
+
 ---
 
 ### Aitken Spence Logistics offers a best-in-class Container Freight Station
@@ -649,6 +673,8 @@ The newly commissioned CFS provides a strategic advantage to businesses by being
 ...
 
 [Data](articles/6827ba4f.json)
+
+[Extended Data](ext_articles/6827ba4f.ext.json)
 
 ---
 
@@ -665,6 +691,8 @@ He worked for the United Nations as a Prosecutor in East Timor, prosecuting befo
 ...
 
 [Data](articles/a7373ddb.json)
+
+[Extended Data](ext_articles/a7373ddb.ext.json)
 
 ---
 
@@ -766,6 +794,8 @@ At the heart of the issue lies the lack of substantiated evidence supporting cla
 
 [Data](articles/bb9d7dbf.json)
 
+[Extended Data](ext_articles/bb9d7dbf.ext.json)
+
 ---
 
 ### JAT hosts 3rd Pintharoo Abhiman convocation in continued drive to empower wood craftsmen
@@ -779,6 +809,8 @@ The convocation ceremony was held in grand style on the 18th of January 2024 at 
 ...
 
 [Data](articles/bef7ccc3.json)
+
+[Extended Data](ext_articles/bef7ccc3.ext.json)
 
 ---
 
@@ -1997,21 +2029,5 @@ Acknowledging that disparity in education is a real problem in Sri Lanka, Premad
 [Data](articles/0994d397.json)
 
 [Extended Data](ext_articles/0994d397.ext.json)
-
----
-
-### An announcement of the weather for warm condition
-
-*2024-03-01 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194010) · `si`
-
-Accordingly, the announcement in the North Western, Western, Southern, Southern, Sabaragamuwa provinces and the Mannar district.
-
-The weather forecasts are expected to be in the warm indicator, the heat of the human body, that is, the heat of the human body.
-
-◼️
-
-[Data](articles/917dd6fa.json)
-
-[Extended Data](ext_articles/917dd6fa.ext.json)
 
 ---

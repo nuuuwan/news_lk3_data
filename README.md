@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 12:02:55**
+As of **2024-03-02 12:17:28**
 
 ## Newspaper Stats
 
-*Scraped **10,423** Articles*
+*Scraped **10,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 553
 dailyftlk | 560
 adalk | 879
 adaderanalk | 1,266
-tamilmirrorlk | 1,271
+tamilmirrorlk | 1,272
 virakesarilk | 1,414
 dailymirrorlk | 1,581
 adaderanasinhalalk | 1,600
@@ -26,25 +26,41 @@ adaderanasinhalalk | 1,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,420 (100.0%) of 10,423 articles have been extended.
+10,423 (100.0%) of 10,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### கோழி இறைச்சியின் விலை அதிகரிப்பு
+### ஹரிணியை நிறுத்தவும்: ஹிருணிகா
+
+*2024-03-02 11:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிணியை-நிறுத்தவும்-ஹிருணிகா/175-334087) · `ta`
+
+தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளராக, பாராளுமன்ற உறுப்பினரான  கலாநிதி ஹரிணி அமரசூரிய நியமிக்கப்பட வேண்டுமென முன்னாள் பாராளுமன்ற உறுப்பினரும் ஐக்கிய மக்கள் சக்தியின் உறுப்பினருமான  திருமதி ஹிருணிகா பிரேமச்சந்திர கோரியுள்ளார்.
+
+அநுரகுமார திஸாநாயக்கவுக்கு ஒரு பயங்கரமான கடந்த காலம் உண்டு. ஹரிணிக்கு அப்படியில்லை. அவருக்கு நல்ல அரசியல் வாழ்க்கை இருக்கிறது. அவரை கட்சியின் ஜனாதிபதி வேட்பாளராக முன்னிறுத்த வேண்டும் என்றும் கோரிக்கை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/93c66764.json)
+
+---
+
+### An increase in the price of chicken meat
 
 *2024-03-02 11:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலை-அதிகரிப்பு/175-334086) · `ta`
 
-ஒரு கிலோகிராம் கோழி இறைச்சியின் சில்லறை விலை 20 ரூபாவினால் அதிகரிக்கப்பட்டுள்ளது. 40 முதல் ரூ. 60 வரை இன்று முதல் அதிகரிக்கப்பட்டுள்ளது என கோழிப்பண்ணையாளர்கள் தெரிவித்தனர்.
+The retail price of one kilogram of chicken meat has been increased by 20 rupees. 40 to Rs.. Poultry farmers said it has been increased till 60.
 
-நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் புதிய கோழி இறைச்சியின் சில்லறை விலை ரூ. 1,180 ஆகும்.
+Retail Price of Rs.. 1,180.
 
-விற்பனை விலை  தோல் இல்லாத கோழிக்கு 1,120 ரூபாயும், கறி கோழி ஒரு கிலோ கிராம் 1,200 க்கும் விற்பனைச் செய்யப்படுகின்றது.
+The sale is sold at Rs.
 
 ◼️
 
 [Data](articles/ddccf47e.json)
+
+[Extended Data](ext_articles/ddccf47e.ext.json)
 
 ---
 
@@ -80,6 +96,8 @@ Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premis
 
 [Data](articles/23ae3107.json)
 
+[Extended Data](ext_articles/23ae3107.ext.json)
+
 ---
 
 ### A statement from the Inspector General of Police to carry out justice
@@ -100,23 +118,29 @@ The IGP has stated that the criminals, racketeers and the underworld have not be
 
 ---
 
-### සෞදියේ සේවයට ගිය කතුන් 4ක් බේරා ගන්නැයි ඉල්ලීමක්
+### Request to save 4 women in Saudi
 
 *2024-03-02 11:17:35* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියේ-සේවයට-ගිය-කතුන්-4ක්-බේරා-ගන්නැයි-ඉල්ලීමක්/11-408380) · `si`
 
-ගෘහ සේවය සඳහා මෙරටින් සෞදි අරාබියාවට ගිය කාන්තාවන් සිව් දෙනෙකුට සෞදි අරාබියාවේ රියාද් හී නිවාසයක රඳවා මාස ගණනාවක් රැඳී සිටියද එම අයට විවිධ හිරිහැර බාධා කරදර සිදුවන බව එම කාන්තාවෝ පවසති.
+Four women who had gone to Saudi Arabia in Sri Lanka for household service have been detained in Riyadh in Saudi Arabia, but the women claim that they are disturbed by various harassment.
 
-එක කාන්තාවක් සඟවාගෙන සිටි  දුරකථනයක් හරහා ඔවුන් තමන් මුහුණ දෙන අමිහිරි අත්දැකීම් පිළිබඳව මෙරට මාධ්‍ය වෙත   තොරතුරු ඒවා තිබේ.
+The media has information on the media of Sri Lanka through a telephone hiding phone.
 
-මෙම කාන්තාවන් කොළඹ සහ කුරුණෑගල ප්‍රදේශවල පිහිටි පෞද්ගලික විදේශ රැකියා ආයතනවලින් විදේශගත වූ බව කියයි.
+These women have gone abroad from private foreign employment in Colombo and Kurunegala.
 
-නිසි ලෙස ආහාරපාන නොමැතිවීම වැටුප් අහිමිවීම විවිධ හිරිහැර වලට ලක්වීමෙන් රැකියාව අහිමිවීම ඇතුළු කරුණු රැසක් නිසාවෙන් මෙම කාන්තාවන් නිවෙස් වල සිට රැකියා නියෝජිත ආයතනයක සෞදියේ රියාද් හි  මහල් නිවාසයකට ගෙනවිත්දමා තිබෙන බව ඔවුන් පවසයි.
+They say that the women have been brought to the loss of a job from home from the home, from home to the apartment of a job delegation from the owners of a job delegation from the homes of a job delegation.
 
-මෙම ස්ථානයේ වෙනත් රටවල් වලින් ගෙනත් දැමූ විශාල ගෘහ සේවිකාවන් පිරිසක් ද රැඳී සිටින බව පවසන මෙම ශ්‍රී ලාංකික ගෘහ සේවිකාවන් ඔවුන් ද එම ස්ථානයෙන් මුදවා ගන්නා ලෙස ඉල්ලීමක්ද කර සිටි.
+These Sri Lankan domestic workers who have been brought from other countries have also been redeemed to redeem them from the area.
 
-...
+They are not able to get married and informed of their homes on economic difficulties, but they are not able to educate their lives and the fate of their suffering.Given.
+
+The Sri Lankan government is the only demands of Sri Lankan domestic workers to rescue themselves.
+
+◼️
 
 [Data](articles/9c44a658.json)
+
+[Extended Data](ext_articles/9c44a658.ext.json)
 
 ---
 
@@ -1919,23 +1943,5 @@ His mother had not joined the burial of the body, but for security reasons.
 [Data](articles/14d2969c.json)
 
 [Extended Data](ext_articles/14d2969c.ext.json)
-
----
-
-### How to flee the murder suspects - CCTV
-
-*2024-03-01 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194023) · `si`
-
-We have received a CCTV footage of Treasurer Roshan Kumara, Treasurer Roshan Kumara, after the assassination of Treasurer's motorcycle after the assassination in Elpitiya area.
-
-Investigation Officers have traveled from this motorcycle to the general area and there is no information on the cctv scenes after 7.28 am.
-
-Meanwhile, the Tastekerator has been forwarded to the analyst to ensure the identity of the motorcycle that was destroyed yesterday.
-
-◼️
-
-[Data](articles/3324a0ec.json)
-
-[Extended Data](ext_articles/3324a0ec.ext.json)
 
 ---

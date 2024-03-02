@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 19:32:53**
+As of **2024-03-02 19:49:50**
 
 ## Newspaper Stats
 
-*Scraped **10,466** Articles*
+*Scraped **10,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-adaderanalk | 1,278
 tamilmirrorlk | 1,278
+adaderanalk | 1,279
 virakesarilk | 1,416
 dailymirrorlk | 1,587
 adaderanasinhalalk | 1,613
@@ -26,33 +26,63 @@ adaderanasinhalalk | 1,613
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,464 (100.0%) of 10,466 articles have been extended.
+10,466 (100.0%) of 10,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### වාහන උස්සා කොටස් කරන ජාවාරමක්
+### UN rights chief raises concerns over Sri Lanka’s ‘regressive laws & authoritarian approaches’
+
+*2024-03-02 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97692/un-rights-chief-raises-concerns-over-sri-lankas-regressive-laws-authoritarian-approaches) · `en`
+
+The UN High Commissioner for Human Rights has urged the Sri Lankan government to undertake credible accountability measures to investigate and prosecute past and present human rights violations and economic crimes.
+
+Mr. Volker Türk made this remark while delivering updates on human rights in Colombia, Guatemala, Honduras, Nicaragua, Cyprus and Sri Lanka at the 55th Session of the Human Rights Council.
+
+Türk said he remains “deeply concerned about recurring, credible accounts received by my Office of abductions, unlawful detention and torture, including sexual violence, by the Sri Lankan police and security forces, some of which allegedly took place in 2023, mainly in the north and east of the country.”
+
+He went on to raise concerns about the recent appointment of the new Inspector-General of Police (IGP) Deshabandu Tennakoon, despite the Supreme Court’s finding that he was implicated in the ‘torture of an individual in 2010.’
+
+...
+
+[Data](articles/9f5c3e6a.json)
+
+---
+
+### A vehicle-lifting racket
 
 *2024-03-02 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194053) · `si`
 
-මෝටර් රථ කුලී පදනම මත ලබාගෙන ඒවා කැබලි කරන ජාවාරම්කරුවන් පිළිබඳව තොරතුරු කොළඹ අපරාධ කොට්ඨාසය මගින් අනාවරණය කරගෙන තිබේ.
+The Colombo Crimes Division arrested three suspects involved in a vehicle-lifting racket, where cars were rented out. Two individuals were abducted in Handapangoda, and the investigation revealed the suspects had purchased goods from supermarkets in Kadawatha and Ratmalana. The police found evidence linking the suspects to ice drugs and another similar operation.
 
-ඒ අනුව, එම ජාවාරමට සම්බන්ධ සැකකරුවන් තිදෙනෙකු එම කොඨාසය විසින් අත්අඩංගුවට ගනු ලැබීය.
+🟩
 
-ඉකුත් අගෝස්තු මස 05 වනදා පුද්ගලයන් දෙදෙනෙකු විසින් කුලී මෝටර් රථයක රියදුරුට මත්වන්නට යමක් දී ගිනිඅවියක් පෙන්වා බියගන්වා මෝටර් රථයක් හඳපාන්ගොඩ ප්‍රදේශයේදී පැහැරගෙන ගොස් තිබුණි.
+The Colombo Crimes Division has revealed the racketeers who get cars on rent basis.
 
-ඒ පිළිබඳව විමර්ශන කොළඹ අපරාධ කොට්ඨාසයට පැවරුණේ පොලිස්පතිවරයාගේ උපදෙස් පරිදිය.
+Accordingly, three suspects involved in the racket were arrested by the project.
 
-එහිදී අනාවරණය වුණේ කඩවත ප්‍රදේශයේදී කුලී රථ සපයන ස්ථානයකින් අදාළ මෝටර් රථය සැකකරුවන් දෙදෙනා ලබාගෙන ඇති බවය.
+On August 5, two persons have been abducted in a shop by a firearm and was abducted in the Handapangoda.
 
-අනතුරුව එහි රියදුරුට එම ප්‍රදේශයේ වූ සුපිරි වෙළෙඳසැලකින් මිලදීගත් කිරි බෝතලයක් ලබාදී ඇත්තේ මත්වීමට යමක් එක් කරමිනි.
+The Colombo Crimes Division was assigned to the Inspection of the IGP.
 
-පසුව පොලීසිය අදාළ සැකකරුවන් දෙදෙනාගේ දුරකථන දත්ත පරීක්ෂා කිරීමේදී අනාවරණය වී ඇත්තේ, බස් රථයක් තුළ නැතිවූ මුදල් පසුම්බියක තිබූ ජාතික හැඳුනුම්පතක් මගින් සිම්පත් ලබාගෙන ඇති බවය.
+The car has obtained the car from the Kadawatha area in Kadawatha.
+
+Then the driver had then given a bottle of milk purchased by a supermarket from a supermarket in the area.
+
+The police were later revealed when the telephone data of the two suspects had been revealed by a national identity card that was lost in a bus within a bus.
+
+Examining the numbers on mobile phones has been revealed that the goods have been purchased from a mortgage in Ratmalana and Attidiya.
+
+Accordingly, the Colombo Crimes Division identified the suspects were arrested with ice drugs.
+
+The interrogation from him was revealed that the vehicle was given Rs.
 
 ...
 
 [Data](articles/d55dc69d.json)
+
+[Extended Data](ext_articles/d55dc69d.ext.json)
 
 ---
 
@@ -99,6 +129,8 @@ The case proceeded for a considerable time, during which the foreign woman inter
 ...
 
 [Data](articles/92d439a0.json)
+
+[Extended Data](ext_articles/92d439a0.ext.json)
 
 ---
 
@@ -2229,27 +2261,5 @@ The project, which is aimed at addressing energy needs of the people of the thre
 [Data](articles/5f320174.json)
 
 [Extended Data](ext_articles/5f320174.ext.json)
-
----
-
-### Govt. to lower Special Commodity Tax on dates for Ramadan
-
-*2024-03-02 01:09:49* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-lower-Special-Commodity-Tax-on-dates-for-Ramadan/56-759087) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says levy to be slashed from Rs. 200 per kilo to Rs. 1
-
-State Minister of Finance Ranjith Siyambalapitiya yesterday announced that the Special Commodity Tax on dates imported for Ramadan will be reduced within the next couple of days.
-
-The move aims to alleviate the financial burden on consumers during the religiously significant period.
-
-“At present, a Special Commodity Tax of Rs. 200 per kilo is levied on imported dates. This will be slashed to Rs. 1 per kilo providing substantial relief to the consumers,” he added.
-
-Siyambalapitiya said to avail this tax reduction, the importers must obtain prior permission from the Religious Affairs Ministry Secretary. “The requirement will ensure the tax relief is targeted specifically towards goods intended for Ramadan observances,” he stressed.
-
-◼️
-
-[Data](articles/da3c9896.json)
-
-[Extended Data](ext_articles/da3c9896.ext.json)
 
 ---

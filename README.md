@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 22:33:19**
+As of **2024-03-02 22:49:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,477 (100.0%) of 10,478 articles have been extended.
+10,478 (100.0%) of 10,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The deceased 45-year-old named Kusum Kumara Mendis alias “Manju” was a three
 ◼️
 
 [Data](articles/4673082e.json)
+
+[Extended Data](ext_articles/4673082e.ext.json)
 
 ---
 

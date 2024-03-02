@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 07:51:41**
+As of **2024-03-02 08:02:47**
 
 ## Newspaper Stats
 
-*Scraped **10,379** Articles*
+*Scraped **10,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ dailyftlk | 560
 adalk | 876
 adaderanalk | 1,257
 tamilmirrorlk | 1,261
-virakesarilk | 1,412
+virakesarilk | 1,413
 dailymirrorlk | 1,575
-adaderanasinhalalk | 1,588
+adaderanasinhalalk | 1,593
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,374 (100.0%) of 10,379 articles have been extended.
+10,379 (99.9%) of 10,385 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ A senior official of Padukka Police said the incident was being investigated and
 ◼️
 
 [Data](articles/aecf93b1.json)
+
+[Extended Data](ext_articles/aecf93b1.ext.json)
+
+---
+
+### ශ්‍රීලනිපය ප්‍රමුඛ නව සන්ධානයක්
+
+*2024-03-02 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194032) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානය ලබන සතියේ දී පිහිටුවීමට පියවර ගන්නා බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+ඔහු මේ බව සඳහන් කළේ, එම පක්ෂයේ මධ්‍යම කාරක සභාව ඊයේ (01) රැස්වීමෙන් අනතුරු ව මාධ්‍යය වෙත අදහස් දක්මිනි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ මහලේකම් දුෂ්මන්ත මිත්‍රපාල මන්ත්‍රීවරයා සඳහන් කළේ, පොදුජන එක්සත් පෙරමුණේ ව්‍යවස්ථාව මේ වන විට සංශෝධනය කර ඇති බැවින් ඉදිරියේ දී නිලධාරී මණ්ඩලය පත් කිරීමට පියවර ගන්නා බවයි.
+
+◼️
+
+[Data](articles/1d20e3e4.json)
 
 ---
 
@@ -70,21 +88,107 @@ Wind speed may increase up to 40-45 kmph at times in the sea areas off the coast
 
 [Data](articles/a8bfc74a.json)
 
+[Extended Data](ext_articles/a8bfc74a.ext.json)
+
 ---
 
-### சில இடங்களில் மழை; ஏனைய பகுதிகளில் வரட்சி
+### இலங்கையின் புதிய -உத்தேச சட்டங்களால் அடிப்படை உரிமைகள் சுதந்திரம் சட்டத்தின் ஆட்சிக்கு  கடும் பாதிப்பு-ஐநா மனித உரிமை ஆணையாளர் கவலை
+
+*2024-03-02 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177722) · `ta`
+
+இலங்கையில் அடிப்படை உரிமைகள் சுதந்திரம் சட்டத்தின் ஆட்சி ஜனநாயக ஆட்சி முறை ஆகியவற்றின் மீது தாக்கத்தை ஏற்படுத்தக்கூடிய  புதிய உத்தேச சட்டங்கள் குறித்து ஆழ்ந்த கவலையடைந்துள்ளதாக ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் வொல்க்கெர் டேர்க்  தெரிவித்துள்ளார்
+
+நிகழ்நிலை பாதுகாப்பு சட்டம் பயங்கரவாத எதிர்ப்பு சட்டம் போன்றவை ஜனாதிபதியின் அதிகாரங்களை மேலும் வலுப்படுத்துகின்றன பாதுகாப்பு படையினருக்கு அதிகளவு அதிகாரங்களை வழங்குகின்றன ஒன்றுகூடல் கருத்து சுதந்திரத்தை கடுமையாக பாதிக்கின்றன எனவும் ஐநாவின் மனித உரிமை ஆணையாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b153e100.json)
+
+---
+
+### Rain in some places;Drought
 
 *2024-03-02 07:17:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மழை-ஏனைய-பகுதிகளில்-வரட்சி/175-334078) · `ta`
 
-களுத்துறை, இரத்தினபுரி, காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+In some places in Kalutara, Ratnapura, Galle and Matara districts, there is a possibility of rain or thundershowers in the evening or at night.
 
-வடமேல் மாகாணத்திலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+In the North Western Province and Hambantota district, there will be some strong winds at speeds of up to 30-40 km / h.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/3175ba18.json)
+
+[Extended Data](ext_articles/3175ba18.ext.json)
+
+---
+
+### පරාටේ ගැන සජිත් නොසතුටින්
+
+*2024-03-02 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194031) · `si`
+
+පරාටේ නීතිය තාවකාලික ව අත්හිටුවීමට ආණ්ඩුව ගනූ ලැබූ තීරණය නිසි ආකාරයෙන් ක්‍රියාත්මක නොවන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+එම තීරණය බැංකුවලට සන්නිවේදනය කිරීමට පියවර ගන්නා ලෙස ජනාධිපතිවරයාගෙන් ඉල්ලා සිටින බව ඔහු සඳහන් කර තිබේ.
+
+මේ පිළිබඳ අදහස් දක්වමින් රංජිත් සියඹලාපිටිය රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ, පරාටේ නීතිය තාවකාලිකව අත්හිටුවා තිබුණත් බැංකුවලට දේපොළ පවරා ගැනීමේ අයිතිය අහිමි කර නොමැති බවයි.
+
+◼️
+
+[Data](articles/73a6d08a.json)
+
+---
+
+### බිත්තර ගැන අමරවීරගෙන් ප්‍රකාශයක්
+
+*2024-03-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194030) · `si`
+
+මෙරට බිත්තරයක් නිෂ්පාදනය සඳහා වැය වන මුදල රුපියල් 30ක් වුව ද මේ වන විට වෙළෙඳපොළෙහි දේශීය බිත්තරයක මිල රුපියල් 60 දක්වා ඉහළ ගොස් ඇති බව මහින්ද අමරවීර අමාත්‍යවරයා පවසයි.
+
+ඔහු පවසන්නේ, බිත්තර නිෂ්පාදකයන් හා වෙළෙඳ මාෆියාව විසින් ජනතාව අනිසි ලෙස ගසා කෑම වැළැක්වීම සඳහා වහාම ක්‍රියාත්මක වන පරිදි උපරිම සිල්ලර මිලක් බිත්තර සඳහා පැනවීමට පියවර ගන්නා බවයි.
+
+මෙම උපරිම සිල්ලර මිල ලබන සතියේ දී පාරිභෝගික ආරක්ෂණ අධිකාරියට ඉදිරිපත් කිරීමට නියමිත බව ද මහින්ද අමරවීර අමාත්‍යවරයා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/eb7fd271.json)
+
+---
+
+### ජලයේ ගිල්වා තිබී හමු වූ අබිරහස් ස්කූටිය
+
+*2024-03-02 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194029) · `si`
+
+අහුන්ගල්ල - කරිජ්ජපිටිය අමුණ අසල ඇ⁣ළේ ගිල්වා තිබූ ස්කූටර් වර්ගයේ යතුරුපැදියක් සොයාගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකායේ ගගල්දුව උපකඳවුරේ කණ්ඩායමක් විසින් එය සොයාගෙන ඇත.
+
+මෙම යතුරුපැදිය අද (01) දහවල් අහුන්ගල්ල නගරයේ වෙඩි තැබීමට පැමිණි යතුරුපැදිය දැයි සෙවීමට විමර්ශනය සිදු කෙරෙමින් පවතියි.
+
+◼️
+
+[Data](articles/c614c879.json)
+
+---
+
+### ස්ථාන කිහිපයකට වැසි
+
+*2024-03-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194028) · `si`
+
+කළුතර, රත්නපුර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+
+නැඟෙනහිර සහ දකුණු පළාත්වල උදෑසන කාලයේ දී වැසි ස්වල්පයක් ඇති විය හැක.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බව වාර්තා වේ.
+
+වයඹ පළාතේත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැයට කිලෝ මීටර් 30-35ක පමණ තරමක තද සුළං ඇති විය හැක.
+
+ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/9c6ef4d7.json)
 
 ---
 
@@ -121,6 +225,8 @@ The manager of the Matara Rest House attributed the incident to the powerful sea
 ◼️
 
 [Data](articles/77c7acdf.json)
+
+[Extended Data](ext_articles/77c7acdf.ext.json)
 
 ---
 
@@ -613,6 +719,8 @@ During the period the refinery remains shut, the CPC will maintain a buffer stoc
 ◼️
 
 [Data](articles/8b28fdef.json)
+
+[Extended Data](ext_articles/8b28fdef.ext.json)
 
 ---
 
@@ -1879,137 +1987,5 @@ Standard quality dried dates now retail for a little under 1000 rupees a kilogra
 [Data](articles/5a5a1475.json)
 
 [Extended Data](ext_articles/5a5a1475.ext.json)
-
----
-
-### Notice for Wimal
-
-*2024-03-01 16:43:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-நோட்டீஸ்/175-334054) · `ta`
-
-Colombo High Court Judge Navaratne Marasinghe, who adjourned the case filed by the Bribery Commission against Wimal Weerawansa, who has earned more than 75 million rupees that cannot be earned by proper income and assets within 10 years.
-
-Additional Solicitor General Aisha has pointed out that Wimal Weerawansa has been suffering from occasional illness and cannot be completed by the bribery scandal.
-
-The Bribery Commission has accused the former minister Wimal Weerawansa of not earning more than 75 million rupees of money and assets through legal income from January 1, 2009 to December 31, 2014.
-
-The Bribery Commission has said that the acquisition of more than 75 million rupees of income and money has been committed under bribery, which is being analyzed in bribery law.
-
-◼️
-
-[Data](articles/fc3e7c88.json)
-
-[Extended Data](ext_articles/fc3e7c88.ext.json)
-
----
-
-### Central Bank Locaskala to parliament on 5th
-
-*2024-03-01 16:42:20* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකර-ගැනීම-ගැන-කරුණු-විමසීමට-මහබැංකු-ලොක්කන්ල-5-දා-පාර්ලිමේන්තුවට/11-408375) · `si`
-
-Speaking to the House of Special Government Mahinda Yapa Abeywardena, the General Secretary General of Parliament Mahinda Yapa Abeywardena has decided to call on the increase in staff salaries.
-
-The decision to determine the relevant Parliamentary Affairs, as parliament will be held at 5,6 and 7 months after the day.. The government holiday is a public holiday on the 8th of this month.
-
-Accordingly, Parliament will meet on Tuesday 5th March at 9.30 am and 10.30 am and 10.30 am for questions that require verbal answers.. Safety transactions, proven revision, leasing revisions (Amendment), pricing revisions (Amendment), the mortgage revisions (Amendment)The bills of the Registration (Amendment) will be debated on the second day and postponed the next day.
-
-The proposal made by the government to the proposal of 4.30 pm to 2:30 pm has also decided to hold the church in advance.
-
-Wednesday on Wednesday, March 6 am - 10.00 am - 10:00 am
-
-...
-
-[Data](articles/337d954f.json)
-
-[Extended Data](ext_articles/337d954f.ext.json)
-
----
-
-### Katunayake, who was convicted of Rajiv Gandhi murder
-
-*2024-03-01 16:30:00* · [`adalk`](https://www.ada.lk/breaking_news/රජිව්-ගාන්ධි-ඝාතනයේ-වරදකරු-වූ-ශාන්තන්ගේ-සිරුර-කටුනායකට/11-408374) · `si`
-
-The body of Prime Minister Rajiv Gandhi was convicted of former Prime Minister Rajiv Gandhi was convicted to the Katunayake airport and cargo terminal.
-
-T.Surendra Raja was convicted and the general pardon and came to Sri Lanka to visit Sri Lanka in Chennai, India.
-
-The deceased has been identified as he was treated at the Rajiv Gandhi Hospital.
-
-His body was 3/01 at 11.35 days in India, India from Chennai, SriLankan Airlines.
-
-Several relatives are present at the Katunayake air cargo terminal and several essential documents are required to be released.
-
-Until the documents, the body was placed at the Katunayake air cargo peripheral and provided a chance to take photos.
-
-◼️
-
-[Data](articles/fdb9cb7d.json)
-
-[Extended Data](ext_articles/fdb9cb7d.ext.json)
-
----
-
-### Sri Lanka should focus on alternative crops: Minister
-
-*2024-03-01 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-focus-on-alternative-crops-minister-152719/) · `en`
-
-ECONOMYNEXT – Sri Lanka needs to shift to growing alternative crops instead of having a sole focus on paddy cultivation, the country’s Minister of Agriculture has said.
-
-Due to years of protection, Sri Lanka does not produce export competitive, globally traded grades of rice like in East Asia.
-
-“We need to focus on alternative crops such as maize, green gram and undu,” Minister of Agriculture, Mahinda Amaraweera said at a press briefing on Friday.
-
-Sri Lanka has imposed import controls and high taxes on several grains including undu (vigna mungu), which give unfair profits to domestic producers, and has led to smuggling and high prices.
-
-After Sri Lanka’s foreign exchange crisis in 2022, the Agriculture Ministry has been trying to shift growers’ focus to exportable crops.
-
-...
-
-[Data](articles/826042ba.json)
-
-[Extended Data](ext_articles/826042ba.ext.json)
-
----
-
-### President a special statement on Indian Ocean
-
-*2024-03-01 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194012) · `si`
-
-President Ranil Wickremesinghe says that the Indian Ocean will not be affected to be damaged in Sri Lanka.
-
-The President made this observation addressing the colors ceremony held in the Trincomalee Naval Camp today (01) at the Trincomalee Naval Camp for the award of the Sri Lanka Navy.
-
-The Navy said that the Sri Lankan ocean region and the Indian Ocean region also handed over the Indian Ocean region.
-
-The President emphasized that the Red Sea protection should be taken to protect the economic values of the country.
-
-The President also remembered how the operations of the Colombo Port was closed in the 1967 Israeli-Arabian war.
-
-◼️
-
-[Data](articles/6a296bbc.json)
-
-[Extended Data](ext_articles/6a296bbc.ext.json)
-
----
-
-### Expolanka Holdings: Largest listed company decides to de-list from CSE
-
-*2024-03-01 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97663/expolanka-holdings-largest-listed-company-decides-to-de-list-from-cse) · `en`
-
-Expolanka Holdings PLC has decided to de-list the company’s shares from the Official List of the Colombo Stock Exchange (CSE).
-
-According to market capitalization, it is the largest listed company in the Colombo stock market.
-
-The decision was reached at the meeting of Expolanka Holdings’ Board of Directors on Friday (March 01), after considering a request from its principal shareholder SG Holdings Global Pte. Ltd.
-
-Accordingly, the Board of Directors has resolved to initiate the de-listing of the company’s shares from the Official List of the CSE, subject to obtaining necessary shareholder approval and regulatory approvals.
-
-The Board of Directors has thus made arrangements with SG Holdings to purchase its shares from the shareholders who may wish to divest their shareholding in the company at a purchase price of Rs. 185.00 per share.
-
-...
-
-[Data](articles/7c6c163b.json)
-
-[Extended Data](ext_articles/7c6c163b.ext.json)
 
 ---

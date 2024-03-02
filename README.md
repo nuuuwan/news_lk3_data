@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 17:02:40**
+As of **2024-03-02 17:17:29**
 
 ## Newspaper Stats
 
-*Scraped **10,450** Articles*
+*Scraped **10,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-tamilmirrorlk | 1,273
-adaderanalk | 1,275
+tamilmirrorlk | 1,275
+adaderanalk | 1,276
 virakesarilk | 1,416
-dailymirrorlk | 1,583
-adaderanasinhalalk | 1,609
+dailymirrorlk | 1,585
+adaderanasinhalalk | 1,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,448 (100.0%) of 10,450 articles have been extended.
+10,450 (99.9%) of 10,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### வேன்கள் கட்டணம் அரசாங்கம் அதிரடி
+
+*2024-03-02 17:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேன்கள்-கட்டணம்-அரசாங்கம்-அதிரடி/175-334093) · `ta`
+
+**
+
+பாடசாலை மாணவர்களை ஏற்றிச் செல்லும் வேன்கள் உட்பட அனைத்து   வாகனங்களுக்கான கட்டண நிர்ணயத்தை அரசாங்கத்தின் கீழ் எடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3cfa6af6.json)
+
+---
+
+### සමන් රත්නායක ව බන්ධනාගාරයට රැගෙන එයි
+
+*2024-03-02 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194050) · `si`
+
+**
+
+අද (02) දින රක්ෂිත බන්ධනාගාර ගත කෙරුණු සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතාව අද පස්වරුවේ කොළඹ මැගසින් බන්ධනාගාරය වෙත රැගෙන ආවේය.
+
+ඉන් අනතුරුව ඔහුව මහර බන්ධනාගාරය වෙත රැගෙනයෑමට නියමිත බවට ද තොරතුරු වාර්තා වෙයි.
+
+ආන්දෝලනාත්මක හියුමන් ඉමියුනෝග්ලොබියුලින් සිද්ධිය සම්බන්ධයෙන් සමන් රත්නායක, ඊයේ (01) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබිණි.
+
+එහිදී ඔහුගෙන් පැය 09කට අධික කාලයක් ප්‍රශ්න කිරීමෙන් අනතුරු ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත්තේය.
+
+පසුව ඔහු අද මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අතර, එහිදී රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කෙරුණි.
+
+◼️
+
+[Data](articles/a1408e89.json)
+
+---
+
+### 1000 போதைப்பொருள் குளிசை;ஒருவர் கைது
+
+*2024-03-02 16:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1000-போதைப்பொருள்-குளிசை-ஒருவர்-கைது/175-334091) · `ta`
+
+**
+
+பாடசாலை மாணவர்களை இலக்கு வைத்து மோட்டார் சைக்கிளில் 1000 போதைப்பொருள் கடத்திய நபர்   களுபோவில ஹத்போதிய பிரதேசத்தில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் விசேட அதிரடிப்படை தெரிவித்துள்ளது.
+
+வெள்ளிக்கிழமை (01) கைது செய்யப்பட்ட சந்தேக நபர் களுபோவில பிரதேசத்தை சேர்ந்த 23 வயதுடையவர் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/218f54f9.json)
+
+---
 
 ### Prices of several food items including fried rice, Kottu increased
 
@@ -49,6 +101,8 @@ Furthermore, the association highlighted that if the prices of consumer goods ar
 ◼️
 
 [Data](articles/963b15e3.json)
+
+[Extended Data](ext_articles/963b15e3.ext.json)
 
 ---
 
@@ -99,6 +153,32 @@ He added that if the consumer goods prices will be given to the people, he added
 [Data](articles/8597aae3.json)
 
 [Extended Data](ext_articles/8597aae3.ext.json)
+
+---
+
+### Hundreds of Sri Lankan nurses to join Saudi hospitals in 2024
+
+*2024-03-02 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97688/hundreds-of-sri-lankan-nurses-to-join-saudi-hospitals-in-2024) · `en`
+
+**
+
+Sri Lanka is preparing to send hundreds of nurses to join hospitals in Saudi Arabia in 2024, the Ministry of Labor said on Friday.
+
+The first phase of the recruitment process took place in Colombo this week and was overseen by the Saudi Ministry of Health and Sri Lanka’s Labor and Foreign Employment Minister Manusha Nanayakkara.
+
+“Saudi Arabia is looking for medical and paramedical staff from countries such the Philippines, Indonesia, and Sri Lanka to meet the growing demand of this sector in the Kingdom,” Sanjay Nallaperuma, media secretary of the Ministry of Labor and Foreign Employment, told Arab News.
+
+“Initially, they want to recruit 1,000 nurses in a phased operation throughout the next 12 months.”
+
+Ninety-five nurses were selected during the first phase out of 400 candidates.
+
+“Those selected were qualified nurses and they had a Bachelor of Science degree,” Nallaperuma said.
+
+“The Saudi Ministry of Health will post them in government hospitals in all parts of the Kingdom.”
+
+...
+
+[Data](articles/0a994cea.json)
 
 ---
 
@@ -213,6 +293,44 @@ The country also attracted as many as 208,253 tourists in January this year, as 
 [Data](articles/3aec0038.json)
 
 [Extended Data](ext_articles/3aec0038.ext.json)
+
+---
+
+### Sri Lanka expresses grave concern over death of aid seekers in Gaza
+
+*2024-03-02 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-expresses-grave-concern-over-death-of-aid-seekers-in-Gaza/108-278114) · `en`
+
+**
+
+Colombo, March 2 (Daily Mirror)- Sri Lanka is deeply troubled over the death of over a hundred people who were waiting to receive aid in Gaza and joined the call for investigations into the incident, the Ministry of Foreign Affairs said.
+
+The Ministry said the latest incident underscores the immediate need to end the blockade imposed on Gaza, depriving its civilian population, including women and children, of access to basic necessities such as food, water, medicine, electricity and fuel.
+
+"Sri Lanka reiterates its call for an immediate ceasefire and unrestricted humanitarian access to Gaza to alleviate the suffering of civilians.
+
+The Sri Lanka Government approved the establishment of the 'Children of Gaza Fund,' a compassionate initiative proposed by the President aimed at providing assistance to the victims in Gaza and to donate USD one million through UN agencies to provide much-needed support to the victims of Gaza.
+
+...
+
+[Data](articles/206e28fb.json)
+
+---
+
+### Dr. Saman Ratnayake remanded until March 14
+
+*2024-03-02 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Saman-Ratnayake-remanded-until-March-14/108-278115) · `en`
+
+**
+
+Additional Secretary of the Health Ministry Dr. Saman Ratnayake who was arrested over the import of substandard human Immunoglobulin injections, has been remanded until March 14.
+
+He was ordered to be remanded when he was produced before the Maligakanda Magistrate’s Court this morning.
+
+The Criminal Investigations Department (CID) arrested Dr Ratnayake yesterday after he arrived at the CID to provide a statement.
+
+◼️
+
+[Data](articles/ca0aafbb.json)
 
 ---
 
@@ -630,21 +748,23 @@ The sale is sold at Rs.
 
 ---
 
-### යාපනය දූපත් තුනකට දෙමුහුන් බලශක්ති ව්‍යාපෘතියක්
+### Hybrid Energy Project for three islands
 
 *2024-03-02 11:40:25* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දූපත්-තුනකට-දෙමුහුන්-බලශක්ති-ව්‍යාපෘතියක්/11-408382) · `si`
 
-**
+*Delft and Elvathivu islands' hybrid energy project, costing $10.995M, uses 530 kW of vegetables, combining hybrid and alternate power.*
 
-යාපනය දූපත් 3ක් වෙනුවෙන් විදුලිබලය සම්පාදනය කරන දෙමුහුම් බලශක්ති ව්‍යපෘතියේ ඉදිකිරිම වෙනුවෙන් ගිවිසුම්ගත වීම ඊයේ (01දා)  උදෑසන සිදු කරනු ලැබුණි.
+The contractualization of the hybrid power project was held yesterday (01st)
 
-ඉන්දීය රජයේ පුර්ණ මූල්‍ය ප්‍රධානයක් ලෙස ලැබෙන ඇමෙරිකානු ඩොලර් මිලියන 10.995ක මුදලක් මගින් ඩෙල්ෆ්, එලුවතිව් සහ නයිනතිව්(නාගදීපය) දූපත් වල මෙම ව්‍යපෘතිය ක්‍රියාත්මක කෙරේ.
+The project is being implemented by the Delft, Elvathivu (Nagadeepa) island with an American US $ 10.995.
 
-කිලෝ වොට් 530ක සුළං බලය, කිලෝ වොට් 1700ක සුර්ය බලය, කිලෝ වොට් පැය 2400ක බැටරි පද්ධතියක් සමග පුනර්ජනනීය බලය සහ විකල්ප කිලෝ වොට් 2500ක ඩීසල් බලයෙන් ක්‍රියාත්මක වන මෙම දෙමුහුම් පද්ධතිය USOLAR සමාගම මගින් 2025 මාර්තු වන විට වැඩ අවසන් කිරීමට බලාපොරොත්තු වේ.
+The hybrid system operates in 530 kW of vegetables, the hybrid power and alternate power of Rs.
 
 ◼️
 
 [Data](articles/c54930aa.json)
+
+[Extended Data](ext_articles/c54930aa.ext.json)
 
 ---
 
@@ -2083,131 +2203,5 @@ Seylan Accelerate, with its Premier, Prime, Plus, and Entry membership categorie
 [Data](articles/aa4143ca.json)
 
 [Extended Data](ext_articles/aa4143ca.ext.json)
-
----
-
-### Amana Bank powers EntreMindz Season 3 towards fostering entrepreneurial talent
-
-*2024-03-02 00:21:11* · [`dailyftlk`](https://www.ft.lk/business/Amana-Bank-powers-EntreMindz-Season-3-towards-fostering-entrepreneurial-talent/34-759072) · `en`
-
-**
-
-Towards inspiring and fostering the next generation of entrepreneurs through knowledge, experiences, and insights, Amana Bank has once again partnered with EntreMindz, organised by UTO EduConsult, for its third season.
-
-Through this partnership Amana Bank reaffirms its dedication to encouraging the spirit of entrepreneurship from a young age and supporting innovative ventures that drive economic growth.
-
-Unlocking the entrepreneurial mind-set of Gen Z, EntreMinds season 3 saw over 35 teams aged between 15 and 20 years making their unique and novel business ‘pitch’ in front of an expert judging panel which included Dankotuwa Porcelain CEO Channa Gunawardena, Aqcellar Head of Marketing and Communications Ajith Kadirgamar, Amana Bank VP Retail Banking and Marketing Siddeeque Akbar, Inotrend International CEO Abdul Careem, Adl Capital MD/CEO Ishrat Rauff, and Aqcellar South East Asia Co-Founder and President Sharika Mubarak.
-
-...
-
-[Data](articles/b6abe634.json)
-
-[Extended Data](ext_articles/b6abe634.ext.json)
-
----
-
-### Serendib Flour Mills launches fortified ‘Adhi Shakthi’ flour
-
-*2024-03-02 00:20:14* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-launches-fortified-Adhi-Shakthi-flour/34-759071) · `en`
-
-**
-
-Serendib Flour Mills, fuelled with the purpose of nourishing the nation, launched its new ‘Serendib Adhi Shakthi Fortified Wheat Flour’ – a micronutrient-fortified wheat flour exclusively aimed at plantation communities in Kandy recently.
-
-Introduced in November last year, the new Serendib Adhi Shakthi flour contains essential nutrients such as Iron, Folic Acid, and Vitamin B12, and is tailored to meet the nutritional needs of estate communities, mainly to address key nutritional deficiencies and the rising incidence of Non-Communicable Diseases (NCDs).
-
-...
-
-[Data](articles/f900f9a1.json)
-
-[Extended Data](ext_articles/f900f9a1.ext.json)
-
----
-
-### NDB Bank launches “Privilege Junior Savings”
-
-*2024-03-02 00:15:57* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-launches-Privilege-Junior-Savings/34-759070) · `en`
-
-**
-
-As a trailblazer in Privilege Banking, NDB Bank introduces its latest innovation, “Privilege Junior Savings.”
-
-This exclusive offering, tailored for the children of high-net-worth individuals, underscores the bank’s commitment to instilling financial empowerment from a tender age.
-
-Carefully curated for resident Sri Lankan minors aged 1 day to 18 years, Privilege Junior Savings stands as a testament to the bank’s dedication to providing bespoke services to the distinct needs of privileged young individuals.
-
-NDB CEO Kelum Edirisinghe articulates the vision behind Privilege Junior Savings, stating, “Nurturing future leaders with financial acumen, NDB Privilege Junior Savings serves as the bedrock for a secure and prosperous future.” The bank aims to cultivate responsible financial habits while delivering exclusive benefits throughout their journey.
-
-...
-
-[Data](articles/a1ed5dff.json)
-
-[Extended Data](ext_articles/a1ed5dff.ext.json)
-
----
-
-### SLT-Mobitel says ‘One Shot ULTRA’ offers ultimate unlimited voice and data experience
-
-*2024-03-02 00:15:49* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-says-One-Shot-ULTRA-offers-ultimate-unlimited-voice-and-data-experience/34-759069) · `en`
-
-**
-
-SLT-Mobitel has unveiled the ultimate ‘One Shot ULTRA’ designed to revolutionise users’ communication experience with unparalleled benefits.
-
-With SLT-Mobitel’s unmatched network performance, One Shot ULTRA brings a significant upgrade to mobile internet in Sri Lanka, providing users with unlimited voice calls to any network and uninterrupted access to data. This ensures SLT-Mobitel Mobile users experience seamless connectivity, allowing for uninterrupted data usage across any application without any limitations, coupled with added convenience. With One Shot ULTRA, SLT-Mobitel has introduced a new era of connectivity, reshaping the landscape of the unlimited voice and data spaces.
-
-...
-
-[Data](articles/25c01451.json)
-
-[Extended Data](ext_articles/25c01451.ext.json)
-
----
-
-### Minister Douglas Devananda notes
-
-*2024-03-02 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/177717) · `ta`
-
-*Minister Douglas Devananda criticized the actions of private transport workers, emphasizing the importance of democratic struggle and the right to express demands. He also mentioned a committee to address the issue, with a decision to be made within a week.*
-
-Minister Douglas Devananda pointed out that the activities of the private transport servants that are inconvenienced by the people are unpleasant and that he has never wanted the political positions of selfish politics with the struggles.
-
-The Minister stressed the meeting on Thursday (29) at the Governor's Office to resolve the struggle carried out by the private transport service in the Northern Province.
-
-There will be no mistakes in democratically carrying out the struggles that the private transport service will express their demands. That's their basic rights even. But the actions of the people can not be accepted for their actions that disrupt the public transport service and cause people to disrupt people.
-
-This is a completely disgusting act. At the same time, he emphasized that it is necessary to express their demands so that such people are uncomfortable.
-
-...
-
-[Data](articles/a34c436e.json)
-
-[Extended Data](ext_articles/a34c436e.ext.json)
-
----
-
-### 2024-03-01 (Friday)
-
-### Sapugaskanda refinery temporarily shut in July for ‘major turnaround’
-
-*2024-03-01 23:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97673/sapugaskanda-refinery-temporarily-shut-in-july-for-major-turnaround) · `en`
-
-**
-
-The daily operations of Sapugaskanda Oil Refinery will be temporarily halted for 45 days starting this July for a major turnaround (TAR), the Ceylon Petroleum Corporation (CPC) announced on Friday (March 01).
-
-In a statement, the CPC said this essential maintenance and repair process is mandatory, in compliance with international norms, to ensure safe and reliable operations at the refinery for three more years.
-
-Sapugaskanda oil refinery’s previous TAR took place in February 2021.
-
-Once the facility resumes functions after the pre-planned extensive maintenance and repair operation, the CPC said it will be subjected to upgrades designed to boost its contribution to Sri Lanka’s changing product requirements.
-
-During the period the refinery remains shut, the CPC will maintain a buffer stock of refined products to ensure an uninterrupted supply.
-
-◼️
-
-[Data](articles/8b28fdef.json)
-
-[Extended Data](ext_articles/8b28fdef.ext.json)
 
 ---

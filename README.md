@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 19:02:49**
+As of **2024-03-02 19:17:42**
 
 ## Newspaper Stats
 
-*Scraped **10,463** Articles*
+*Scraped **10,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,278
 tamilmirrorlk | 1,278
 virakesarilk | 1,416
 dailymirrorlk | 1,586
-adaderanasinhalalk | 1,611
+adaderanasinhalalk | 1,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,462 (100.0%) of 10,463 articles have been extended.
+10,463 (100.0%) of 10,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### කාන්තා අත්බෑග් කොල්ලකෑ සැකකරුවන් අත්අඩංගුවට
+
+*2024-03-02 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194052) · `si`
+
+**
+
+සොරාගත් යතුරුපැදියක යමින් කඩුවක් පෙන්වා නිවාස බිඳ දේපොළ කොල්ලකෑමට හා මහමග ගමන් ගන්නා කාන්තාවන් බියගන්වා අත්බෑග් කොල්ලකෑමට පුරුදුවී සිටි සැකකරුවන් දෙදෙනක් අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ සැකකරුවන් අත්අඩංගුවට ගෙන ඇත්තේ හෙරොයින් මිලිග්‍රෑම් 4300ක් ද සමග බව මහරගම පොලීසිය පවසයි.
+
+ඒ සමග කොල්ලය සඳහා භාවිත කළ යතුරුපැදිය, කඩුවක්, අත් බෑග් දෙකක්, වටිනා ජංගම දුරකථන 05ක්, හැඳුනුම්පත් 02ක් ඇතුළු භාණ්ඩ තොගයක් පොලීසිය විසින් සොයාගෙන ඇත.
+
+මහරගම පොලිස් වසමේ මහමග ගමන් ගන්නා කාන්තාවන්ගේ අත්බෑග් කොල්ලකෑමේ සිද්ධින් 05ක් සම්බන්ධයෙන් ලද පැමිණිලිවලට අනුව කළ විමර්ශනයේදී සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් දෙදෙනා මීගොඩදෙනිය ප්‍රදේශයේ නිවසක සැඟව සිටියදී ඊයේ (01) අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් කොට්ටාව, හෝමාගම, මහරගම, මිරිහාන පොලිස් වසම්වල කොල්ලකෑම් විශාල ප්‍රමාණයක් සිදුකර ඇති බවට ද තොරතුරු හෙළිවී ඇති බව පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/4d9ce6ac.json)
+
+---
 
 ### Amended school calendar for 2024 released
 
@@ -53,6 +77,8 @@ The amended school calendar for the academic year 2024 is as follows:
 ◼️
 
 [Data](articles/b387e0de.json)
+
+[Extended Data](ext_articles/b387e0de.ext.json)
 
 ---
 
@@ -2199,29 +2225,5 @@ Man Martin works as an officer at a tea plantation in Ooty (S. B.. Siddharth). H
 [Data](articles/2f8afe8f.json)
 
 [Extended Data](ext_articles/2f8afe8f.ext.json)
-
----
-
-### Kissing noise
-
-*2024-03-02 01:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177718) · `ta`
-
-*"Kissing noise" reviews "Cuttaom Kuttu Tha," focusing on Srikanth's performance, Sandhya's amnesia, and the plot twists. Critics praise Raghu's acting but criticize the screenplay's flaws, leading to fan fatigue.*
-
-Did Actor Srikanth meet the expectation of all the fans after the film 'Cuttaom Kuttu Tha', which plays a negative role after a short break?Or not?We will continue to see.
-
-The heroine of the film, Sandhya (Priyanka Timmesh), tries to kill an image. She escapes from her house and starts to run on the street. Then a vehicle crashed into her and caused the accident.
-
-Sandhya was admitted to her husband Raghu Hospital and saved her life within an hour. Sandhya loses all his past memories despite survival. She could not identify anyone, including her husband.
-
-Srikanth, who introduces her husband Raghu as her husband, begins to believe. A few months later, unexpectedly meets her girlfriend Sandia. She sends her husband Raghu's wedding photo to WhatsApp.
-
-It is then that she knows that Srikanth Raghu is not the name of her husband Raghu, his name is Vignesh and Vignesh (Srikanth) is a brutal offense for money.. Thus he attacks Sri Gandhi and leaves.
-
-...
-
-[Data](articles/522bd5d4.json)
-
-[Extended Data](ext_articles/522bd5d4.ext.json)
 
 ---

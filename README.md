@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 08:02:47**
+As of **2024-03-02 08:17:42**
 
 ## Newspaper Stats
 
-*Scraped **10,385** Articles*
+*Scraped **10,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ islandlk | 553
 dailyftlk | 560
 adalk | 876
 adaderanalk | 1,257
-tamilmirrorlk | 1,261
+tamilmirrorlk | 1,262
 virakesarilk | 1,413
 dailymirrorlk | 1,575
-adaderanasinhalalk | 1,593
+adaderanasinhalalk | 1,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,379 (99.9%) of 10,385 articles have been extended.
+10,385 (100.0%) of 10,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### සිසුන්ට කොසු මිටකින් පහර දුන් ගුරුවරයා
+
+*2024-03-02 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194033) · `si`
+
+ගුරුවරයෙකු විසින් කොසු මිටකින් පහරදීම හේතුවෙන් සිසුන් තිදෙනෙකු පාදුක්ක ප්‍රාදේශීය රෝහලට ඇතුළත් වී ප්‍රතිකාර ලබමින් සිටින බව වාර්තා වේ.
+
+රෝහල්ගත ව සිටින සිසුන්ගෙන් එක් අයෙකුට තදබල ලෙස පහර වැදී ඇති අතර, අනෙක් දෙදෙනා යහපත් තත්ත්වයේ සිටින බව වාර්තා වේ.
+
+මෙලෙස පහර කෑමට ලක් ව ඇත්තේ, පාදුක්ක නගරයේ පිහිටි ප්‍රසිද්ධ පාසලක 10 වන ශ්‍රේණියේ ඉගෙනුම ලබමින් සිටි සිසුන් පිරිසකි.
+
+"අද දෙරණ" වාර්තාකරු පැවසුවේ, අදාළ ගුරුවරයා විසින් සිසුන් හත් දෙනෙකුට මෙලෙස පහර දී ඇති බවයි.
+
+පාසල් ඉගෙනුම් කාළය තුළ දී එම සිසුන් පිරිස පාසලේ ආපණ ශාලාවට යෑමේ සිද්ධියක් මුල් කර ගනිමින් පන්ති භාර ගුරුවරයා මෙලෙස පහර දී ඇති බවට පාදුක්ක පොලීසියට පැමිණිලි කර තිබේ.
+
+◼️
+
+[Data](articles/5addb8f7.json)
+
+---
+
+### பெண்களுக்குள் மோதல்; சிறுமி உட்பட மூவர் படுகாயம்
+
+*2024-03-02 07:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களுக்குள்-மோதல்-சிறுமி-உட்பட-மூவர்-படுகாயம்/175-334079) · `ta`
+
+மீகஹகிவுல - தல்தென பகுதியில் நேற்று (01) மாலை 6.00 மணியளவில் இரண்டு பெண் குழுக்களுக்கு இடையில் இடம்பெற்ற மோதலில் ஒரு சிறுமி உட்பட மூன்று பெண்கள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தாக்குதலில் காயமடைந்த ஆறு வயது சிறுமி மற்றும் இரண்டு பெண்கள் மீகஹகிவுல மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், ஆபத்தான நிலையில் இருந்த பெண் ஒருவர் மேலதிக சிகிச்சைக்காக பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+மீகஹகிவுல - தல்தென, கல்கெலந்த பிரதேசவாசிகளே இவ்வாறு தாக்குதலுக்குள்ளான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பதுளை வைத்தியசாலை பொலிஸார் மற்றும் கந்தகெட்டிய பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/3d7b2320.json)
+
+---
 
 ### Teacher beats seven students with broomstick at Padukka school
 
@@ -50,19 +88,21 @@ A senior official of Padukka Police said the incident was being investigated and
 
 ---
 
-### ශ්‍රීලනිපය ප්‍රමුඛ නව සන්ධානයක්
+### SLFP leading a new alliance
 
 *2024-03-02 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194032) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානය ලබන සතියේ දී පිහිටුවීමට පියවර ගන්නා බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+Former President Maithripala Sirisena says that steps will be taken to set up the UPFA led by the Sri Lanka Freedom Party next week.
 
-ඔහු මේ බව සඳහන් කළේ, එම පක්ෂයේ මධ්‍යම කාරක සභාව ඊයේ (01) රැස්වීමෙන් අනතුරු ව මාධ්‍යය වෙත අදහස් දක්මිනි.
+He was speaking, the Central Committee of the party warned the media yesterday (01).
 
-ශ්‍රී ලංකා නිදහස් පක්ෂ මහලේකම් දුෂ්මන්ත මිත්‍රපාල මන්ත්‍රීවරයා සඳහන් කළේ, පොදුජන එක්සත් පෙරමුණේ ව්‍යවස්ථාව මේ වන විට සංශෝධනය කර ඇති බැවින් ඉදිරියේ දී නිලධාරී මණ්ඩලය පත් කිරීමට පියවර ගන්නා බවයි.
+The SLFP General Secretary Vashamantha Mithrapala said that the Constitution of the United Front has been revised, steps will be taken to appoint the officers in the future as the Constitution has been revised.
 
 ◼️
 
 [Data](articles/1d20e3e4.json)
+
+[Extended Data](ext_articles/1d20e3e4.ext.json)
 
 ---
 
@@ -92,17 +132,19 @@ Wind speed may increase up to 40-45 kmph at times in the sea areas off the coast
 
 ---
 
-### இலங்கையின் புதிய -உத்தேச சட்டங்களால் அடிப்படை உரிமைகள் சுதந்திரம் சட்டத்தின் ஆட்சிக்கு  கடும் பாதிப்பு-ஐநா மனித உரிமை ஆணையாளர் கவலை
+### Freedom of Freedom of Freedom by Sri Lanka's New Laws
 
 *2024-03-02 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177722) · `ta`
 
-இலங்கையில் அடிப்படை உரிமைகள் சுதந்திரம் சட்டத்தின் ஆட்சி ஜனநாயக ஆட்சி முறை ஆகியவற்றின் மீது தாக்கத்தை ஏற்படுத்தக்கூடிய  புதிய உத்தேச சட்டங்கள் குறித்து ஆழ்ந்த கவலையடைந்துள்ளதாக ஐக்கியநாடுகள் மனித உரிமை ஆணையாளர் வொல்க்கெர் டேர்க்  தெரிவித்துள்ளார்
+United Nations Human Rights Commissioner Wolcker Dark said that the new proposed laws that could impact the fundamental rights of Sri Lanka and the democratic system of the rule of the law.
 
-நிகழ்நிலை பாதுகாப்பு சட்டம் பயங்கரவாத எதிர்ப்பு சட்டம் போன்றவை ஜனாதிபதியின் அதிகாரங்களை மேலும் வலுப்படுத்துகின்றன பாதுகாப்பு படையினருக்கு அதிகளவு அதிகாரங்களை வழங்குகின்றன ஒன்றுகூடல் கருத்து சுதந்திரத்தை கடுமையாக பாதிக்கின்றன எனவும் ஐநாவின் மனித உரிமை ஆணையாளர் தெரிவித்துள்ளார்.
+The UN Human Rights Commissioner said the UN Human Rights Commissioner said that the Celebration Protection Act, such as the Anti -Terrorism Act, further strengthen the powers of the president and give the security forces more power.
 
 ◼️
 
 [Data](articles/b153e100.json)
+
+[Extended Data](ext_articles/b153e100.ext.json)
 
 ---
 
@@ -124,71 +166,79 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### පරාටේ ගැන සජිත් නොසතුටින්
+### Sajith unattached the Paradat
 
 *2024-03-02 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194031) · `si`
 
-පරාටේ නීතිය තාවකාලික ව අත්හිටුවීමට ආණ්ඩුව ගනූ ලැබූ තීරණය නිසි ආකාරයෙන් ක්‍රියාත්මක නොවන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Opposition Leader Sajith Premadasa says that the government has not implemented temporary suspension to temporary.
 
-එම තීරණය බැංකුවලට සන්නිවේදනය කිරීමට පියවර ගන්නා ලෙස ජනාධිපතිවරයාගෙන් ඉල්ලා සිටින බව ඔහු සඳහන් කර තිබේ.
+He has said that the President has asked the President to take action to communicate that decision to communicate the decision.
 
-මේ පිළිබඳ අදහස් දක්වමින් රංජිත් සියඹලාපිටිය රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ, පරාටේ නීතිය තාවකාලිකව අත්හිටුවා තිබුණත් බැංකුවලට දේපොළ පවරා ගැනීමේ අයිතිය අහිමි කර නොමැති බවයි.
+Speaking on the matter, the State Minister stated that the Prime law was suspended temporarily suspended, but the banks had not deprived the right to take over property.
 
 ◼️
 
 [Data](articles/73a6d08a.json)
 
+[Extended Data](ext_articles/73a6d08a.ext.json)
+
 ---
 
-### බිත්තර ගැන අමරවීරගෙන් ප්‍රකාශයක්
+### Amaweera on Eggs
 
 *2024-03-02 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194030) · `si`
 
-මෙරට බිත්තරයක් නිෂ්පාදනය සඳහා වැය වන මුදල රුපියල් 30ක් වුව ද මේ වන විට වෙළෙඳපොළෙහි දේශීය බිත්තරයක මිල රුපියල් 60 දක්වා ඉහළ ගොස් ඇති බව මහින්ද අමරවීර අමාත්‍යවරයා පවසයි.
+The Minister of Sri Lanka has increased to Rs.
 
-ඔහු පවසන්නේ, බිත්තර නිෂ්පාදකයන් හා වෙළෙඳ මාෆියාව විසින් ජනතාව අනිසි ලෙස ගසා කෑම වැළැක්වීම සඳහා වහාම ක්‍රියාත්මක වන පරිදි උපරිම සිල්ලර මිලක් බිත්තර සඳහා පැනවීමට පියවර ගන්නා බවයි.
+He says that egg manufacturers and trading mafia will be able to impose maximum retail prices to prevent the people immediately to prevent food.
 
-මෙම උපරිම සිල්ලර මිල ලබන සතියේ දී පාරිභෝගික ආරක්ෂණ අධිකාරියට ඉදිරිපත් කිරීමට නියමිත බව ද මහින්ද අමරවීර අමාත්‍යවරයා සඳහන් කර තිබේ.
+The Maximum Retail price is to be submitted to the Consumer Protection Authority next week.
 
 ◼️
 
 [Data](articles/eb7fd271.json)
 
+[Extended Data](ext_articles/eb7fd271.ext.json)
+
 ---
 
-### ජලයේ ගිල්වා තිබී හමු වූ අබිරහස් ස්කූටිය
+### The mysterious score found in the water
 
 *2024-03-02 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194029) · `si`
 
-අහුන්ගල්ල - කරිජ්ජපිටිය අමුණ අසල ඇ⁣ළේ ගිල්වා තිබූ ස්කූටර් වර්ගයේ යතුරුපැදියක් සොයාගෙන තිබේ.
+A romancal motorcycle was found near the Karamgepitiya anicut.
 
-පොලිස් විශේෂ කාර්ය බළකායේ ගගල්දුව උපකඳවුරේ කණ්ඩායමක් විසින් එය සොයාගෙන ඇත.
+It was found by a team of the Police Special Task Force's Galegoda.
 
-මෙම යතුරුපැදිය අද (01) දහවල් අහුන්ගල්ල නගරයේ වෙඩි තැබීමට පැමිණි යතුරුපැදිය දැයි සෙවීමට විමර්ශනය සිදු කෙරෙමින් පවතියි.
+The motorcycle is being investigated today to seek the motorcycle to shoot at the city of Ahungalla today.
 
 ◼️
 
 [Data](articles/c614c879.json)
 
+[Extended Data](ext_articles/c614c879.ext.json)
+
 ---
 
-### ස්ථාන කිහිපයකට වැසි
+### Showers to several places
 
 *2024-03-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194028) · `si`
 
-කළුතර, රත්නපුර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+Showers or thundershowers will occur at several places in Kalutara, Ratnapura, Nuwara Eliya, Galle and Matara districts.
 
-නැඟෙනහිර සහ දකුණු පළාත්වල උදෑසන කාලයේ දී වැසි ස්වල්පයක් ඇති විය හැක.
+There may be a few showers in the morning in the East and Southern provinces.
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බව වාර්තා වේ.
+There are mainly dry weather in the rest of the island.
 
-වයඹ පළාතේත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැයට කිලෝ මීටර් 30-35ක පමණ තරමක තද සුළං ඇති විය හැක.
+Strong winds can range from 30-35 km per hour in the North Western Province and in the Hambantota district.
 
-ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+The Meteorological Department urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9c6ef4d7.json)
+
+[Extended Data](ext_articles/9c6ef4d7.ext.json)
 
 ---
 
@@ -1945,47 +1995,5 @@ As per arrangements with SG Holdings Global Pte Ltd, the Company’s majority sh
 [Data](articles/4658697e.json)
 
 [Extended Data](ext_articles/4658697e.ext.json)
-
----
-
-### Former commanding officer Ratnapriya Bandu joins SJB
-
-*2024-03-01 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-commanding-officer-Ratnapriya-Bandu-joins-SJB/108-278045) · `en`
-
-March 01, (Daily Mirror) - Lieutenant Colonel W. Ratnapriya Bandu, the former joint commanding officer of Jaffna, Mullaitivu, and Kilinochchi, officially joined the Samagi Jana Balawegaya (SJB) today.
-
-Party leader Sajith Premadasa appointed him as the head of the SJB committee on Reconciliation and National Unity.
-
-◼️
-
-[Data](articles/9a4fd61a.json)
-
-[Extended Data](ext_articles/9a4fd61a.ext.json)
-
----
-
-### Sri Lanka to cut Rs200 import tax on dates for Ramazan
-
-*2024-03-01 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-cut-rs200-import-tax-on-dates-for-ramazan-152720/) · `en`
-
-ECONOMYNEXT – Sri Lanka will cut a 200 rupees a kilogram tax on imported dates to one rupee in the next one or two days, State Minister for Finance Ranjith Siyambalapitiya said.
-
-The so-called special commodity levy will be for the Ramazan period, he said in a statement.
-
-Sri Lanka usually cuts or raise import duties without prior warning through mid-night gazette leading to corruption, and also undermining parliamentary control of public finances, critics have said.
-
-The government announced an action plan to reduce corruption and undertook to ‘eliminate or restrict’ tax cuts by minister’s as part of efforts to improve governance.
-
-Dates are an important part of the food of Sri Lanka’s Muslim community who break fast during the Ramazan period.
-
-Dried dates are imported to Sri Lanka from the Middle East to make cake and other sweets also during the rest of the year.
-
-Standard quality dried dates now retail for a little under 1000 rupees a kilogram.
-
-◼️
-
-[Data](articles/5a5a1475.json)
-
-[Extended Data](ext_articles/5a5a1475.ext.json)
 
 ---

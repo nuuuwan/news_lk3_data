@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 03:33:07**
+As of **2024-03-03 03:50:30**
 
 ## Newspaper Stats
 
-*Scraped **10,485** Articles*
+*Scraped **10,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 125
 dbsjeyarajcom | 169
 newsfirstlk | 363
 economynextcom | 543
-islandlk | 553
+islandlk | 554
 dailyftlk | 561
 adalk | 884
 tamilmirrorlk | 1,281
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,484 (100.0%) of 10,485 articles have been extended.
+10,485 (100.0%) of 10,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### இறக்குமதி செலவு அதிகரிப்பு
+### Increase of import cost
 
 *2024-03-03 03:14:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செலவு-அதிகரிப்பு/175-334110) · `ta`
 
-கடந்த ஆண்டுடன் ஒப்பிடுகையில், இந்த ஆண்டு ஜனவரியில் பொருட்களின் ஏற்றுமதி வருமானம் குறைந்துள்ளதாகவும், இறக்குமதி செலவு அதிகரித்துள்ளதாகவும் மத்திய வங்கி தெரிவித்துள்ளது.
+This year's January export income fell 0.8% from last year, with import costs rising. Agricultural and garment exports declined, leading to a decrease from $978M to $971M.
 
-இதன்படி, ஏற்றுமதி வருவாய் கடந்த ஆண்டு ஜனவரியுடன் ஒப்பிடுகையில் இந்த ஆண்டு 0.8 வீத சரிவை பதிவுசெய்துள்ளது.
+🟩
 
-கடந்த ஆண்டு ஜனவரியில், ஏற்றுமதி வருவாய் 978 மில்லியன் அமெரிக்க டொலர்களாகவும், இந்த ஆண்டு ஜனவரியில், 971 மில்லியன் அமெரிக்க டொலர்களாகவும் பதிவாகியுள்ளது.
+Compared to last year, the Central Bank said the export income of the goods had declined in January this year and the cost of imports had increased.
 
-விவசாய மற்றும் ஆடை ஏற்றுமதி வருமானத்தில் ஏற்பட்டுள்ள வீழ்ச்சியே இதற்கு காரணம் என மத்திய வங்கி தெரிவித்துள்ளது. (a)
+Accordingly, export revenue recorded a 0.8 percent decline this year compared to January last year.
+
+In January last year, export revenue was $ 978 million and $ 971 million in January this year.
+
+This is due to the fall in agricultural and garment export income, the Central Bank said. (A)
 
 ◼️
 
 [Data](articles/c6e866f3.json)
+
+[Extended Data](ext_articles/c6e866f3.ext.json)
 
 ---
 

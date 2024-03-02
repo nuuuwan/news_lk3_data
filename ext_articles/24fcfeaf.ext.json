@@ -12,5 +12,8 @@
         "The US $ 305.5624 and the sales price were 315.2986 based on the Central Bank's currency exchange rate on Wednesday (February 28)."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "\"Today's currency exchange rate: US $305.5624, sales price 315.2986, Central Bank rate on Feb 28.\""
+  ]
 }

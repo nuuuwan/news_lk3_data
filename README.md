@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 12:33:06**
+As of **2024-03-02 12:48:40**
 
 ## Newspaper Stats
 
-*Scraped **10,425** Articles*
+*Scraped **10,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,81 @@ dbsjeyarajcom | 169
 newsfirstlk | 363
 economynextcom | 543
 islandlk | 553
-dailyftlk | 560
+dailyftlk | 561
 adalk | 879
-adaderanalk | 1,267
+adaderanalk | 1,268
 tamilmirrorlk | 1,272
-virakesarilk | 1,414
-dailymirrorlk | 1,581
+virakesarilk | 1,415
+dailymirrorlk | 1,582
 adaderanasinhalalk | 1,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,424 (100.0%) of 10,425 articles have been extended.
+10,425 (100.0%) of 10,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Maximum retail price for eggs expected next week
+
+*2024-03-02 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97682/maximum-retail-price-for-eggs-expected-next-week) · `en`
+
+Minister of Agriculture Mahinda Amaraweera emphasizes that although the cost for producing an egg in Sri Lanka is Rs. 30, the price of a local egg in the market has risen to Rs. 60.
+
+Accordingly, the Minister said that steps would be taken to impose a maximum retail price (MRP) for eggs with immediate effect in order to prevent the manufacturers and traders from unfairly profiting by overcharging the consumers.
+
+Amaraweera further mentioned that the new maximum retail price would be submitted to the Consumer Affairs Authority next week.
+
+◼️
+
+[Data](articles/08f7197a.json)
+
+---
+
+### Sapugaskanda to shutdown for major turnaround
+
+*2024-03-02 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sapugaskanda-to-shutdown-for-major-turnaround/108-278112) · `en`
+
+The Ceylon Petroleum Corporation (CPC) announced that the Sapugaskanda refinery is to go for a planned shutdown for a statutory major turnaround after three years of operations.
+
+While issuing a public notice they said the Sapugaskanda Oil Refinery will cease operations for 45 days in early July 2024, more than three years since the previous turnaround in February 2021.
+
+This is a mandatory requirement, in compliance with international norms, that qualifies the refinery for safe and reliable operations for a further three years.
+
+Once the refinery is brought back on stream after the turnaround, it will be subjected to upgrades designed to increase its contribution to Sri Lanka's changing product requirements.
+
+During the scheduled shutdown, the CPC will maintain a full capacity of crude to regain full throughput in the shortest possible time, along with a buffer stock of products for approximately twice the planned shutdown period to ensure continuous supply to customers.
+
+◼️
+
+[Data](articles/8cb4a19c.json)
+
+---
+
+### இஸ்ரேல் காசா- உணவுவாகனத்தொடரணி சம்பவத்தில் பாதிக்கப்பட்ட பலரின் உடல்களில் துப்பாக்கி சூட்டு காயங்கள் - ஐநா தகவல்
+
+*2024-03-02 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/177733) · `ta`
+
+காசாவில் உணவுவாகனத்தை சூழ்ந்த மக்கள் மீது இஸ்ரேல் மேற்கொண்ட துப்பாக்கி பிரயோகத்தினால் 100க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ள அதேவேளை காயமடைந்த பலரின் உடல்களில் துப்பாக்கி சூட்டு காயங்கள் காணப்படுவதாக ஐநா தெரிவித்துள்ளது.
+
+காசாவின் அல்ஸிபா மருத்துவமனைக்கு சென்றுள்ள ஐநா அதிகாரிகள் இந்த சம்பவத்தினால் காயமடைந்த நிலையில் சிகிச்சை பெற்றுவரும் 200க்கும் அதிகமானவர்களை பார்வையிட்டுள்ளனர்.
+
+இஸ்ரேலின் துப்பாக்கி பிரயோகம் காரணமாகவே உயிரிழப்புகள் ஏற்பட்டன என ஹமாஸ்  குற்றம்சாட்டியுள்ளது. உணவு வாகனங்கள் மோதியதால் இழப்புகள் ஏற்பட்டன என இஸ்ரேல் தெரிவித்துள்ளது.
+
+வியாழக்கிழமை காலையில் இஸ்ரேலின் பாதுகாப்புடன் நுழைந்த உணவுவாகனத்தொடரணியை ஆயிரக்கணக்கான மக்கள் சூழ்ந்துகொண்டதை தொடர்ந்தே இந்த அனர்த்தம் நிகழ்ந்தது.
+
+துப்பாக்கிபிரயோக சத்தங்கள் கேட்பதையும் மக்கள் பதறி ஓடுவதையும் லொறிகள் பின்னால் மறைந்துகொள்வதையும்  காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+112 பேர் கொல்லப்பட்டுள்ளனர் 760 பேர் காயமடைந்துள்ளனர் என ஹமாசின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/43386ea3.json)
+
+---
 
 ### Decision to suspend Parate Law not implemented properly, Sajith alleges
 
@@ -47,6 +105,8 @@ Earlier this week, the Cabinet of Ministers green-lighted a proposal made by the
 ...
 
 [Data](articles/0bbffd2c.json)
+
+[Extended Data](ext_articles/0bbffd2c.ext.json)
 
 ---
 
@@ -1532,6 +1592,24 @@ Even then and historically, although India’s economy is a giant in comparison 
 
 ### UN’s credibility at stake—as Russia and Israel continue to remain defiant
 
+*2024-03-01 23:21:05* · [`dailyftlk`](https://www.ft.lk/columns/UN-s-credibility-at-stakeas-Russia-and-Israel-continue-to-remain-defiant/4-759066) · `en`
+
+Israeli missile strikes have caused widespread destruction in Gaza – Pic credit: World Health Organization (WHO)
+
+UNITED NATIONS (IPS): The two devastating military conflicts—Russia vs. Ukraine and Israel vs. Hamas—have exposed once again the stark reality that the United Nations, created 79 years ago to maintain international peace and security, has failed in its political mission – while its credibility is at stake.
+
+Russia is accused of violating the UN charter by invading a sovereign nation state and causing hundreds and thousands of deaths over two years — with no signs of a peaceful settlement.
+
+The accusations against Israel include war crimes, genocide, ethnic cleansing and the disproportionate killings of over 30,000 civilians, mostly women and children in Gaza—in retaliation for 1,200 killings by Hamas last October.
+
+...
+
+[Data](articles/cb6c9dc9.json)
+
+---
+
+### UN’s credibility at stake—as Russia and Israel continue to remain defiant
+
 *2024-03-01 23:21:05* · [`dailyftlk`](https://www.ft.lk/opinion/UN-s-credibility-at-stakeas-Russia-and-Israel-continue-to-remain-defiant/14-759066) · `en`
 
 Israeli missile strikes have caused widespread destruction in Gaza – Pic credit: World Health Organization (WHO)
@@ -1861,87 +1939,5 @@ He has been arrested in connection with the importation of controversial immunog
 [Data](articles/ae5e5cfa.json)
 
 [Extended Data](ext_articles/ae5e5cfa.ext.json)
-
----
-
-### Sri Lanka’s trade deficit expands in January
-
-*2024-03-01 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-trade-deficit-expands-in-January/108-278048) · `en`
-
-Colombo, March 01 (Daily Mirror) - Sri Lanka’s merchandise trade deficit in January widened to US$ 514 million from US$ 445 million in the corresponding month the previous year due to a higher increase in imports.
-
-Provisional data released by the Central Bank this week showed that earnings from merchandise exports recorded a marginal decline of 0.8 percent Year-on-Year (YoY) to US$ 971 million in January 2024 compared to US$ 978 million in January 2023.
-
-In terms of merchandise imports, expenditure increased by 6.2 percent YoY to US$ 1,512 million in January 2024
-
-The increase in expenditure on consumer goods and investment goods partly driven by the relaxation of import restrictions contributed to this increase, the Central Bank said
-
-◼️
-
-[Data](articles/22d3d1f6.json)
-
-[Extended Data](ext_articles/22d3d1f6.ext.json)
-
----
-
-### Alexei Navalny buried in Moscow as thousands chant his name
-
-*2024-03-01 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97671/alexei-navalny-buried-in-moscow-as-thousands-chant-his-name) · `en`
-
-Thousands of Russians chanted Alexei Navalny’s name and said they would not forgive the authorities for his death as the opposition leader was laid to rest in Moscow on Friday.
-
-In video streamed from the Borisovskyoe cemetery, Navalny’s mother Lyudmila and father Anatoly stooped over his open coffin to kiss him for the last time as a small group of musicians played.
-
-Crossing themselves, mourners stepped forward to caress his face before a priest gently placed a white shroud over him and the coffin was closed.
-
-Navalny, President Vladimir Putin’s fiercest critic inside Russia, died at the age of 47 in an Arctic penal colony on Feb. 16., sparking accusations from his supporters that he had been murdered. The Kremlin has denied any state involvement in his death.
-
-The authorities have outlawed his movement as extremist and cast his supporters as U.S.-backed troublemakers out to foment revolution. Kremlin spokesman Dmitry Peskov said he had nothing to say to Navalny’s family.
-
-...
-
-[Data](articles/769ee496.json)
-
-[Extended Data](ext_articles/769ee496.ext.json)
-
----
-
-### Ensuring Red Sea security vital to protect Sri Lanka’s port economics - President
-
-*2024-03-01 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97670/ensuring-red-sea-security-vital-to-protect-sri-lankas-port-economics-president) · `en`
-
-President Ranil Wickremesinghe says Sri Lanka Navy is entrusted with the responsibility of safeguarding Sri Lanka’s oceanic territories, including the Indian Ocean region. He underscored that the nation’s economic initiatives will not be permitted to suffer any harm in the Indian Ocean.
-
-Additionally, the President highlighted the historical context of the closure of the Suez Canal for a decade during the 1967 Israeli-Arab war and its effects on the Colombo port’s operations. He emphasized the imperative of ensuring the security of the Suez Canal and the Red Sea to safeguard the economic interests of the country’s ports.
-
-President Wickremesinghe made these remarks while delivering a speech at the Presidential Fleet Review of the Sri Lanka Navy held this morning (March 01) at the Trincomalee Harbour.
-
-As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a guard of honour by the Sri Lanka Navy upon his arrival at the Trincomalee Naval Base.
-
-...
-
-[Data](articles/4602a561.json)
-
-[Extended Data](ext_articles/4602a561.ext.json)
-
----
-
-### President promises to safeguard Sri Lanka’s economic initiatives in Indian Ocean
-
-*2024-03-01 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97670/president-promises-to-safeguard-sri-lankas-economic-initiatives-in-indian-ocean) · `en`
-
-President Ranil Wickremesinghe says Sri Lanka Navy is entrusted with the responsibility of safeguarding Sri Lanka’s oceanic territories, including the Indian Ocean region. He underscored that the nation’s economic initiatives will not be permitted to suffer any harm in the Indian Ocean.
-
-Additionally, the President highlighted the historical context of the closure of the Suez Canal for a decade during the 1967 Israeli-Arab war and its effects on the Colombo port’s operations. He emphasized the imperative of ensuring the security of the Suez Canal and the Red Sea to safeguard the economic interests of the country’s ports.
-
-President Wickremesinghe made these remarks while delivering a speech at the Presidential Fleet Review of the Sri Lanka Navy held this morning (March 01) at the Trincomalee Harbour.
-
-As Commander-in-Chief, President Ranil Wickremesinghe was warmly welcomed with a guard of honour by the Sri Lanka Navy upon his arrival at the Trincomalee Naval Base.
-
-...
-
-[Data](articles/b9d08e02.json)
-
-[Extended Data](ext_articles/b9d08e02.ext.json)
 
 ---

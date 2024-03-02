@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 13:33:22**
+As of **2024-03-02 13:51:15**
 
 ## Newspaper Stats
 
-*Scraped **10,435** Articles*
+*Scraped **10,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,89 @@ dailyftlk | 561
 adalk | 880
 adaderanalk | 1,270
 tamilmirrorlk | 1,273
-virakesarilk | 1,415
+virakesarilk | 1,416
 dailymirrorlk | 1,582
-adaderanasinhalalk | 1,602
+adaderanasinhalalk | 1,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,432 (100.0%) of 10,435 articles have been extended.
+10,435 (100.0%) of 10,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### திரவ உணவுகளை உட்கொள்ளுமாறு மக்களுக்கு ஆலோசனை
+### සෞදියේ දුක් විඳින ලක් කතුන්
+
+*2024-03-02 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194043) · `si`
+
+ගෘහ සේවය සඳහා සෞදි අරාබියට ගිය තමන් රියාද්හි නිවාසයක රඳවා විවිධ වධ හිංසාවලට ලක්කරන බව මෙරට කාන්තාවන් සිව් දෙනෙක් පවසති.
+
+ඒ, දුරකථනයෙන් පටිගත කළ වීඩියෝ දර්ශන ඔස්සේ ඔවුන් මුහුණ දෙන සිය අමිහිරි අත්දැකීම් පිළිබඳ විස්තර කරමිනි.
+
+කොළඹ, බම්බලපිටිය සහ කුරුණෑගල ප්‍රදේශවල පිහිටි විදේශ රැකියා ආයතනවලින් මෙරට කාන්තාවන් සිව් දෙනෙකු සෞදි අරාබියේ ගෘහ සේවය බලා පිටත් ව ගොස් තිබුණේ 2023 වසරේ ඔක්තෝබර් හා නොවැම්බර් මාසවලදීය.
+
+ආර්ථික දුෂ්කරතා හේතුවෙන් දහසක් බලාපොරොත්තු සමග විදේශගත වූ එම කාන්තාවන් මේ වනවිට මුහුණ දෙමින් සිටින්නේ ඉතා අමිහිරි අත්දැකීමකට ය.
+
+සේවය කළ නිවාසවලින් නිසි ලෙස ආහාර පාන සහ වැටුප් නොලැබී විවිධ වධ හිංසාවලට ලක්වීමට ඔවුන්ට සිදු වී තිබේ.
+
+ඒ අනුව රැකියා නියෝජිතායතය කටයුතු කර ඇත්තේ ඔවුන්ව සෞදි අරාබියේ රියාද්හි මහල් නිවාසයක රඳවා තැබීමටය.
+
+ඔවුන් බලධාරීන්ගෙන් ඉල්ලා සිටින්නේ, තමන්ව යළි ශ්‍රී ලංකාවට ගෙන්වා ගන්නා ලෙසට ය.
+
+එමෙන්ම තමන් මෙන්ම වෙනත් රටවලින් ගෙනැවිත් දැමූ ගෘහ සේවිකාවන් බොහෝමයක් ද එම මහල් නිවාසයේ රැඳී සිටින අතර ඔවුන්ද ඉන් මුදාගන්නා ලෙසට බලධාරීන්ගෙන් ඉල්ලීමක් කරයි.
+
+◼️
+
+[Data](articles/f7e6d620.json)
+
+---
+
+### මෙහෙයුම්වලින් ඉවත් කළ ගුවන් යානා සඳහා රුපියල් බිලියන 05ක්
+
+*2024-03-02 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194042) · `si`
+
+විවිධ කාර්මික දෝෂවලට ලක් ව පියාසර කටයුතුවලින් ඉවත් කර තිබූ ගුවන් යානා 08ක් සඳහා ශ්‍රී ලන්කන් ගුවන් සේවය වසර දෙකක් තිස්සේ රුපියල් මිලියන 5,646.76ක බදු කුලී මුදලක් ගෙවා ඇති බව ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාවක දැක්වේ.
+
+එම වාර්තාවේ දැක්වෙන්නේ ශ්‍රී ලංකන් ගුවන් මෙහෙයුම් සඳහා ගුවන් යානා 27ක් අවශ්‍ය ව තිබුණ ද ඔවුන් සතු ව ඇත්තේ, යානා 24ක් පමණක් බව ය.
+
+2022-2023 වර්ෂයන් සඳහා අදාළ මුල්‍ය ප්‍රකාශයන් නිකුත් කරමින් ජාතික විගණන කාර්යාලය මේ බව පවසයි.
+
+එම ගුවන්යානා 24න් ද ගුවන් යානා 08ක් පසුගිය වසරේ අප්‍රේල් මස 20 වනදා දක්වා කාර්මික දෝෂ හේතුවෙන් භාවිතයෙන් ඉවත් කර තිබූ බව සිය විගණනය මගින් ජාතික විගණන කාර්යාලය පෙන්වා දි තිබේ.
+
+ඒ අනුව එම ගුවන්යානා 08 සඳහා 2021 වසරේ සිට 2023 අප්‍රේල් මස 20 වනදා දක්වා වසර දෙකක ආසන්න කාලය තුළ මෙලෙස බදු කුලී ගෙවා ඇත.
+
+පසුගිය කාලයේ ශ්‍රී ලන්කන් ගුවන්සේවය විසින් ලබාගනු ලැබූ නියෝ (NEO) වර්ගයේ ගුවන්යානා මෙලෙස ගුවන් මෙහෙයුම්වලින් ඉවත්කිරීමට සිදු වුණේ ගෝලීය වශයෙන් එම යානාවල එන්ජින්හි ඇති වූ ගැටලුකාරී තත්ත්වයක් හේතුවෙනි.
+
+...
+
+[Data](articles/be810aab.json)
+
+---
+
+### Advise people to eat liquid foods
 
 *2024-03-02 13:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரவ-உணவுகளை-உட்கொள்ளுமாறு-மக்களுக்கு-ஆலோசனை/175-334090) · `ta`
 
-அதிக வெப்பநிலை காரணமாக பொதுமக்கள் உண்ணும் உணவு மற்றும் பானங்கள் தொடர்பில் அதிக கவனம் செலுத்த வேண்டுமென சுகாதார நிபுணர்கள் தெரிவித்துள்ளனர் .
+Health experts have said that the public should pay more attention to the food and drinks eating public due to high temperatures.
 
-அதன்படி, திரவ உணவுகளை உட்கொள்வது மிகவும் அவசியமானது என ஹொரண மாவட்ட பொது வைத்தியசாலையின் போஷாக்கு நிபுணர் வைத்தியர்  ஜானக மாரசிங்க தெரிவித்தார்.
+Accordingly, it is imperative to consume liquid foods, said Dr. Janaka Marasinghe, a nutritionist of the Horana District General Hospital.
 
-இதேவேளை, வடமேல், மேல், தெற்கு மற்றும் சப்ரகமுவ மாகாணங்களிலும், மன்னார் மாவட்டத்திலும் இன்று மனித உடலில் உணரப்படும் வெப்பநிலை 'எச்சரிக்கை நிலை' வரை அதிகரிக்கும் என்று எச்சரித்துள்ளது.
+Meanwhile, in the North Western, Western, Southern and Sabaragamuwa provinces and Mannar district, the temperature in the human body today will increase to the 'warning level'.
 
-வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள வெப்ப சுட்டெண் ஆலோசனை அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+This is stated in a thermal index consultation report issued by the Department of Meteorology.
 
-எனவே, பணியிடங்களில் பணிபுரிபவர்கள் அதிக நீரை அருந்துதல், அடிக்கடி நிழலில் ஓய்வெடுத்தல், நீரேற்றத்துடன் இருத்தல் முக்கியம் என்றும் அந்த அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+Therefore, the report also points out that it is important to drink too much water, relax in the shade, and water.
 
-கடுமையான வெளிப்புற நடவடிக்கைகளைக் கட்டுப்படுத்துமாறும் நீரேற்றமாக இருக்க முன்னுரிமை கொடுக்குமாறும், வெள்ளை அல்லது வெளிர் நிறங்களில் இலகுரக ஆடைகளை அணியுமாறும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. R
+The Department of Meteorology has advised to control severe outdoor activities and to prioritize hydration, and to wear lightweight clothing in white or pale colors. Remble
 
 ◼️
 
 [Data](articles/6d57c920.json)
+
+[Extended Data](ext_articles/6d57c920.ext.json)
 
 ---
 
@@ -74,6 +124,8 @@ The airdrops could begin as early as this weekend, officials said.
 
 [Data](articles/6ba7a3c0.json)
 
+[Extended Data](ext_articles/6ba7a3c0.ext.json)
+
 ---
 
 ### IGP Deshabandu pledges more efficient continuation of ‘Yukthiya’ operation
@@ -89,6 +141,8 @@ The IGP made these remarks following a visit to the Temple of Tooth Relic in Kan
 ◼️
 
 [Data](articles/4d05d97b.json)
+
+[Extended Data](ext_articles/4d05d97b.ext.json)
 
 ---
 
@@ -133,6 +187,32 @@ Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recentl
 [Data](articles/5b3f2ad6.json)
 
 [Extended Data](ext_articles/5b3f2ad6.ext.json)
+
+---
+
+### ரஸ்ய எதிர்கட்சி தலைவரின் இறுதி நிகழ்வில் ஆயிரக்கணக்கான மக்கள் - உங்களை நாங்கள் மறக்கமாட்டோம் - புட்டின் இல்லாத ரஸ்யா என கோசம்
+
+*2024-03-02 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177737) · `ta`
+
+கடும் பாதுகாப்பு கெடுபிடிகளையும் மீறி ஆயிரக்கணக்கான ரஸ்ய மக்கள் எதிர்கட்சி தலைவர் அலெக்ஸி நவால்னியின் இறுதி ஊர்வலத்தில் கலந்துகொண்டுள்ளனர்
+
+ரஸ்ய ஜனாதிபதியை கடுமையாக விமர்சித்த  அலெக்ஸி நவால்னி 16 ம் திகதி சிறையில் உயிரிழந்தார்.
+
+பெருமளவு பொலிஸார் குவிக்கப்பட்டிருந்த போதிலும் இறுதிநிகழ்வில் கலந்துகொண்ட மக்கள் நவால்னியின் பெயரை  குறிப்பிட்டு கோசங்களை எழுப்பினர்.
+
+நவால்னி பல வருடங்களாக வசித்த ரஸ்யாவின் மர்யினோ பகுதியில் நேற்று இறுதி நிகழ்வுகள் இடம்பெற்றவேளை ஆயிரக்கணக்கில் பொலிஸார் குவிக்கப்பட்டிருந்தனர்.
+
+கடும் குளிருக்கும் மேல் ஒரு கிலோமீற்றர் தூரத்திற்கு மக்கள் நீண்ட வரிசையில் காத்திருந்தனர் என நவால்னியின் குழுவினர் தெரிவித்துள்ளனர்.
+
+அங்கு காணப்பட்ட மக்கள் அரசியல் ரீதியில் கோசங்களை எழுப்பினர் எனினும் பொலிஸார் அதில் தலையிடவில்லை.
+
+யுத்தம் வேண்டாம் புட்டின் இல்லாத ரஸ்யா ரஸ்யா சுதந்திரமடையும் என  மக்கள் கோசங்களை எழுப்பினர்.
+
+ஐகோன் ஒவ் அவர் லேடி குயின்ஞ் மை சொரோவ்ஸ் தேவாலயத்தில் இறுதி நிகழ்வுகள் இடம்பெற்றன .
+
+...
+
+[Data](articles/16b4a493.json)
 
 ---
 
@@ -1887,71 +1967,5 @@ He worked for the United Nations as a Prosecutor in East Timor, prosecuting befo
 [Data](articles/a7373ddb.json)
 
 [Extended Data](ext_articles/a7373ddb.ext.json)
-
----
-
-### Niroshan Dikwella in response to Gusal Perera
-
-*2024-03-01 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177713) · `ta`
-
-Sri Lanka Cricket announced on Friday evening that Kusal Janith Perera, who had been recruited in the Sri Lankan squad for the International R20 Cricket Series, which began on Monday (04), will not participate in the series.
-
-He has been given the opportunity to showcase Niroshan Dikwella in the limited over -cricket match between the main clubs and shifted the wicket.
-
-About 3 years later, he has been recruited in the International T20 cricket team.He was the last to play in the International R20 cricket series in June 2021 in South Hampton against England.
-
-◼️
-
-[Data](articles/21be2ccf.json)
-
-[Extended Data](ext_articles/21be2ccf.ext.json)
-
----
-
-### Tourism earnings in Jan.2024 at $342mn, highest monthly value since 2020
-
-*2024-03-01 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97672/tourism-earnings-in-jan2024-at-342mn-highest-monthly-value-since-2020) · `en`
-
-Sri Lanka’s earnings from tourism were estimated at USD 342 million in January 2024, the Central Bank’s latest report on external sector performance revealed.
-
-This is the highest monthly value the country has witnessed since January 2020.
-
-According to the document, published on Thursday (Feb.29), Sri Lanka’s tourism earnings in January 2024 marked a substantial improvement compared to USD 269 million in December 2023 and USD 154 million in January 2023.
-
-The country also attracted as many as 208,253 tourists in January this year, as opposed to 102,545 arrivals recorded during the corresponding period in 2023.
-
-Meanwhile, Sri Lanka also recorded an improvement with respect to workers’ remittances in January 2024, compared to the corresponding period of the previous year.
-
-Workers’ remittances amounted to USD 488 million in January 2024, in comparison to USD 437 million in January 2023 and USD 570 million in December 2023.
-
-...
-
-[Data](articles/11a9c85b.json)
-
-[Extended Data](ext_articles/11a9c85b.ext.json)
-
----
-
-### Russian ship to the port of Colombo
-
-*2024-03-01 22:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194027) · `si`
-
-The Russian Naval Cruiser Varryag has arrived at the port for an official visit.
-
-The ship arrived at the Port of Colombo today (01st), while the Sri Lanka Navy has welcomed the ship to the navy.
-
-Captain 2nd Rank Glushakov Romanovich is the 187 meters and the shipwreck of the ship.
-
-The Commander of the Western Naval Order will be held with Commander of the Western Naval Order Rear Admiral Saman Perera in the period of time in which the ship is staying in the country.
-
-The funeral, the Sri Lanka Navy, is scheduled to participate in programs organized by both naval and tourists in the country as well as to visit the importance of the country.
-
-The ship is due to leave the island on March 3, 2024, concluding the official visit.
-
-◼️
-
-[Data](articles/a4789b19.json)
-
-[Extended Data](ext_articles/a4789b19.ext.json)
 
 ---

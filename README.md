@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 08:33:17**
+As of **2024-03-02 08:49:52**
 
 ## Newspaper Stats
 
-*Scraped **10,389** Articles*
+*Scraped **10,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,71 @@ economynextcom | 542
 islandlk | 553
 dailyftlk | 560
 adalk | 876
-adaderanalk | 1,258
+adaderanalk | 1,260
 tamilmirrorlk | 1,262
 virakesarilk | 1,413
-dailymirrorlk | 1,575
-adaderanasinhalalk | 1,595
+dailymirrorlk | 1,576
+adaderanasinhalalk | 1,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,387 (100.0%) of 10,389 articles have been extended.
+10,389 (100.0%) of 10,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### තරුණයෙකුට මරු කැඳවූ අනතුර
+### Tea growers to get low-priced fertilizers from state-owned companies: Minister
+
+*2024-03-02 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97676/tea-growers-to-get-low-priced-fertilizers-from-state-owned-companies-minister) · `en`
+
+Minister of Agriculture and Plantation Industries, Mr. Mahinda Amaraweera has announced that the government-owned fertilizer companies will offer high-quality tea fertilizer to growers at a discounted rate compared to the market price.
+
+Additionally, he revealed that the “Agri Tech-24 Agricultural Technology Vision” exhibition will commence today (March 02) at the Agri-Tech Park in Bataatha, Hambantota, in conjunction with the 37th Asia-Pacific Conference of the Food and Agriculture Organization (FAO).
+
+Addressing a press briefing at the Presidential Media Centre (PMC) on Friday (March 01), the lawmaker elaborated that the current hot weather conditions prevailing across the island have led to an overflow of water springs. Considering this situation, farmers are urged to complete the cultivation of their entire paddy fields within a single day.
+
+...
+
+[Data](articles/230d5bf5.json)
+
+---
+
+### ගුවන් හමුදාවේ 73 වැනි සංවත්සරය අදයි
+
+*2024-03-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194035) · `si`
+
+ශ්‍රී ලංකා ගුවන් හමුදාවේ 73 වැනි සංවත්සරය අදට (02) යෙදී තිබේ.
+
+ශ්‍රී ලංකා අඹරේ ආරක්ෂකයන් ලෙස දශක හතකට අධික කාලයක් පුරා ජාතියට කළ සේවය සනිටුහන් කරමින් ශ්‍රී ලංකා ගුවන් හමුදාව අභිමානවත් ලෙස මෙම සංවත්සරය සමරනු ලැබේ.
+
+◼️
+
+[Data](articles/9d159cee.json)
+
+---
+
+### The accident that killed a young man
 
 *2024-03-02 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194034) · `si`
 
-යාපනය - මහනුවර මාර්ගයේ අයියකඩේ හන්දිය අසල දී සිදු වූ අනතුරකින් තරුණයෙකු මිය ගොස් තිබේ.
+A young man was killed in an accident near the Jaffna-Kandy road.
 
-යාපනය දෙස සිට වව්නියාව දෙසට ධාවනය වූ බස් රථයක් එම දෙසටම ධාවනය වූ පා පැදියක ගැටී මෙම අනතුර සිදු ව ඇති බව පොලීසිය පවසයි.
+The accident had occurred when a bus was traveling to Vavuniya to Vavuniya to Vavuniya.
 
-අනතුරින් බරපතළ තුවාල ලැබූ තරුණයා යාපනය රෝහලට ඇතුළු කිරීමෙන් පසු මිය ගොස් තිබේ.
+The youth who was seriously injured in the accident had died after admission to the Jaffna Hospital.
 
-මෙලෙස මිය ගොස් ඇත්තේ, 19 හැවිරිදි අයියකඩේ - මිසාලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The deceased is a 19 year old resident of the Misalee area.
 
-අනතුර සම්බන්ධයෙන් බස් රථයේ රියදුරු චාවකච්චේරි පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The bus driver was arrested by the Chavakachcheri Police regarding the accident.
 
 ◼️
 
 [Data](articles/0a683fac.json)
+
+[Extended Data](ext_articles/0a683fac.ext.json)
 
 ---
 
@@ -74,6 +106,22 @@ The school teacher has complained to the Padukka Police that the class of the st
 
 ---
 
+### SLFP-led new alliance to be unveiled next week
+
+*2024-03-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97675/slfp-led-new-alliance-to-be-unveiled-next-week) · `en`
+
+The new alliance led by the Sri Lanka Freedom Party (SLFP) will be launched next week, says former President Maithripala Sirisena.
+
+He made this remark while speaking to the media after SLFP’s Central Committee meeting convened on Friday (March 01).
+
+Meanwhile, SLFP’s General Secretary Dushmantha Mithrapala said as amendments to the Constitution of Podujana Eksath Peramuna (United People’s Front) have already been made, new office bearers will soon be appointed.
+
+◼️
+
+[Data](articles/14b4d4d5.json)
+
+---
+
 ### SLFP-led new alliance to be formed next week
 
 *2024-03-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97675/slfp-led-new-alliance-to-be-formed-next-week) · `en`
@@ -85,6 +133,8 @@ He made this remark while speaking to the media after SLFP’s Central Committee
 ◼️
 
 [Data](articles/a75b7d92.json)
+
+[Extended Data](ext_articles/a75b7d92.ext.json)
 
 ---
 
@@ -411,6 +461,28 @@ The petitioners are seeking a Writ of Mandamus, directing the IGP and the Attorn
 [Data](articles/15815659.json)
 
 [Extended Data](ext_articles/15815659.ext.json)
+
+---
+
+### January trade deficit widens to US $ 514mn
+
+*2024-03-02 02:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-trade-deficit-widens-to-US-514mn/108-278094) · `en`
+
+Earnings from merchandise exports record marginal decline of 0.8% YoY
+
+Sri Lanka’s merchandise trade deficit in January widened to US $ 514 million, from US $ 445 million in the corresponding month of the previous year, due to a higher increase in imports.
+
+The deficit has expanded even when compared with December 2023, where US $ 487 million was recorded.
+
+The provisional data released by the Central Bank this week showed that the earnings from merchandise exports recorded a marginal decline of 0.8 percent year-on-year (YoY) to US $ 971 million in January 2024, compared to US $ 978 million in January 2023.
+
+A decline in earnings was observed in industrial exports and mineral exports, while agricultural exports increased in January 2024.
+
+“The decline in industrial goods exports in January 2024 compared to January 2023 was mainly contributed by garments, resulting from lower exports of garments to most major markets,” the Central Bank said.
+
+...
+
+[Data](articles/bad2894a.json)
 
 ---
 
@@ -1909,89 +1981,5 @@ The adventures carried out by the Navy's Special Ship forces in the sea were als
 [Data](articles/201cd198.json)
 
 [Extended Data](ext_articles/201cd198.ext.json)
-
----
-
-### Thicky thugs to Ranil's house on 9th
-
-*2024-03-01 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194014) · `si`
-
-President Ranil Wickremesinghe has abused the private home of Ranil Wickremesinghe and suspended two persons who stole their items in the house.
-
-On July 9, 2022, a model of the president's house was stolen by a resident of the Boralesgamuwa area in the Boralesgamuwa area in the Boralesgamuwa area.
-
-Accordingly, the man suspended six months in six months of suspended sentences.
-
-Meanwhile, a metallic haw of the President's personal home was suspended for five years of sewing by a resident of Boralesgamuwa.
-
-He has fined Rs.
-
-◼️
-
-[Data](articles/8fb4010d.json)
-
-[Extended Data](ext_articles/8fb4010d.ext.json)
-
----
-
-### Puducherry CM seeks PM Modi’s intervention to get fishing vessels released from Sri Lankan custody
-
-*2024-03-01 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97665/puducherry-cm-seeks-pm-modis-intervention-to-get-fishing-vessels-released-from-sri-lankan-custody) · `en`
-
-The Chief Minister of union territory of Puducherry in India, N. Rangasamy has sought the intervention of Prime Minister Narendra Modi, for the release of fishing boats from the Union Territory, that have been confiscated by Sri Lankan authorities.
-
-In a letter to the Prime Minister on Friday, March 1, 2024, the Chief Minister said fishermen from Karaikal region sometimes crossed the International Maritime Boundary Line (IMBL) due to their ignorance. When this happened, Sri Lankan authorities arrested them and confiscated their fishing equipment. Following this, the fishermen were released due to intervention at the government level, he said.
-
-...
-
-[Data](articles/3fe6031d.json)
-
-[Extended Data](ext_articles/3fe6031d.ext.json)
-
----
-
-### Sapugaskanda who close to July
-
-*2024-03-01 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194013) · `si`
-
-The Ceylon Petroleum Corporation has announced that the daily operations of the Sapugaskanda fuel refinement will be imported to 45 days in July.
-
-The Sapugaskanda fuel refinery will be closed for scheduled maintenance and repairs.
-
-According to international terms, the maintenance should be carried out in a period of 45 days.
-
-The Sapugaskanda fuel refinery is expected to have a maximum and reliable activity of the Sapugaskanda fuel refinery for the next three years.
-
-◼️
-
-[Data](articles/166b8502.json)
-
-[Extended Data](ext_articles/166b8502.ext.json)
-
----
-
-### Sri Lanka rupee closes at 308.80/90 to the US dollar
-
-*2024-03-01 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-308-80-90-to-the-us-dollar-152732/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 308.80/90 to the US dollar Friday, from 309.50/70 on Thursday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.65/75 percent up from 10.50/70 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.05 percent from 11.90/12.10 percent.
-
-A bond maturing on 01.07.2028 closed at 12.15/35 percent down from 12.20/25 percent.
-
-A bond maturing on 15.07.2029 closed at 12.25/40 percent up from 12.30/45 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/45 percent down from 12.35/50 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/13.00 percent from 12.55/13.00 percent. (Colombo/Mar1/2024)
-
-◼️
-
-[Data](articles/c6eca166.json)
-
-[Extended Data](ext_articles/c6eca166.ext.json)
 
 ---

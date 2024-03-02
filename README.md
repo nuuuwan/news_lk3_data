@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 14:02:43**
+As of **2024-03-02 14:17:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,605
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,438 (100.0%) of 10,441 articles have been extended.
+10,441 (100.0%) of 10,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,7 +36,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-02 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97685/additional-health-secretary-dr-saman-ratnayake-remanded) · `en`
 
-Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been remanded until March 14.
+Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been remanded until March 04.
 
 He was produced before the Maligakanda Magistrate’s Court this morning (March 02).
 
@@ -48,23 +48,27 @@ Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premis
 
 [Data](articles/940f05ea.json)
 
+[Extended Data](ext_articles/940f05ea.ext.json)
+
 ---
 
-### සමන් රත්නායක රක්ෂිත බන්ධනාගාරයට
+### Saman Ratnayake remanded
 
 *2024-03-02 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194044) · `si`
 
-සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා ලබන 14 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Additional Secretary to the Ministry of Health Saman Ratnayake has been remanded till the 14th.
 
-ඔහු අද (02) මාලිගාකන්ද අධිකරණයට ඉදිරිපත් කළ අතර, එහි දී මෙම නියෝගය ලබා දී ඇත.
+He was produced before the Maligakanda court today (02), and this order was issued.
 
-ආන්දෝලනාත්මක හියුමන් ඉමියුනෝග්ලොබියුලින් සිද්ධිය සම්බන්ධයෙන් සමන් රත්නායක, ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබිණි.
+Saman Ratnayake was summoned to the Criminal Investigation Department regarding the controversial humian emoneglabulin incident.
 
-එහි දී ඔහුගෙන් පැය 09කට අධික කාලයක් ප්‍රශ්න කිරීමෙන් අනතුරු ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගන්නා ලදි.
+The Criminal Investigations Department was arrested by the Criminal Investigation Department (CID) accidents.
 
 ◼️
 
 [Data](articles/ec531bbb.json)
+
+[Extended Data](ext_articles/ec531bbb.ext.json)
 
 ---
 
@@ -249,6 +253,8 @@ The collaboration between UNFPA Sri Lanka and the University of Colombo signifie
 ...
 
 [Data](articles/5b477f1c.json)
+
+[Extended Data](ext_articles/5b477f1c.ext.json)
 
 ---
 

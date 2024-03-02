@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 00:47:38**
+As of **2024-03-03 01:02:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,482 (100.0%) of 10,484 articles have been extended.
+10,484 (100.0%) of 10,484 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Subsequently, the suspect has been transferred to the Kohuwala police for furthe
 ◼️
 
 [Data](articles/96c0c775.json)
+
+[Extended Data](ext_articles/96c0c775.ext.json)
 
 ---
 
@@ -103,6 +105,8 @@ The department wasted no time in lodging a formal complaint with the Criminal In
 ◼️
 
 [Data](articles/7174a939.json)
+
+[Extended Data](ext_articles/7174a939.ext.json)
 
 ---
 

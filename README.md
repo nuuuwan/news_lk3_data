@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 06:52:04**
+As of **2024-03-02 07:15:14**
 
 ## Newspaper Stats
 
-*Scraped **10,372** Articles*
+*Scraped **10,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 553
 dailyftlk | 560
 adalk | 876
 adaderanalk | 1,255
-tamilmirrorlk | 1,258
+tamilmirrorlk | 1,259
 virakesarilk | 1,412
 dailymirrorlk | 1,573
 adaderanasinhalalk | 1,588
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,371 (100.0%) of 10,372 articles have been extended.
+10,372 (100.0%) of 10,373 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ He pointed out that it was for the first time in 18 years that the tank spilt ov
 ...
 
 [Data](articles/31f1a410.json)
+
+[Extended Data](ext_articles/31f1a410.ext.json)
+
+---
+
+### ’பொருளாதார உரிமைகளை மீறினால் நடவடிக்கை’
+
+*2024-03-02 04:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-உரிமைகளை-மீறினால்-நடவடிக்கை/175-334074) · `ta`
+
+இலங்கையில் பொருளாதார உரிமைகள் மீறப்படும் எந்தவொரு சந்தர்ப்பத்திலும் அதற்கு எதிரான நடவடிக்கைகளை மேற்கொள்ளத் தயார். செங்கடலில் இலங்கையின் பொருளாதார உரிமைகளுக்கு ஏதேனும் பாதிப்புக்கள் ஏற்படும் பட்சத்தில், அதற்கு எதிரான செயற்பாடுகளை இலங்கை முன்னெடுக்கும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+திருகோணமலை சீனக்குடா விமானப்படை தளத்தில் நேற்று முன்தினம் இடம்பெற்ற இலங்கை விமானப்படை கெடட் அதிகாரிகளுக்கு அதிகாரவாணை அளிக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+உள்நாட்டு, வெளிநாட்டு விரோதிகளிடமிருந்து நாட்டைப் பாதுகாக்கும் பொறுப்பு உங்களை சார்ந்திருக்கிறது. இன்று நமது நாட்டின் பொருளாதாரம், சமூக கட்டமைப்பு, அரசியல் முறைமை சரிவிலிருந்து மீண்டு வருகின்றன. கடந்த காலத்திற்கு மீண்டும் செல்ல முடியாது. எனவே நாம் இங்கிருந்து முன்னேற வேண்டும். அதற்கு, நாட்டில் மிகப்பெரிய அளவில் நவீனமயமாக்கல் செயற்பாடுகள் முன்னெடுக்கப்பட வேண்டும் என்றார். (a)
+
+◼️
+
+[Data](articles/c5b608bf.json)
 
 ---
 
@@ -2005,29 +2023,5 @@ Until the documents were available, the body was placed on the airport's cargo t
 [Data](articles/1268382c.json)
 
 [Extended Data](ext_articles/1268382c.ext.json)
-
----
-
-### Faux-revolutionaries want education in Sri Lanka to stagnate, oppose reforms: Sajith
-
-*2024-03-01 15:46:00* · [`economynextcom`](https://economynext.com/faux-revolutionaries-want-education-in-sri-lanka-to-stagnate-oppose-reforms-sajith-152715/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s revolutionaries, whose children study at international schools, oppose education reforms and scuttle any attempt at reforms by taking to the streets, opposition leader Sajith Premadasa said.
-
-“There is one group that is opposed to education reforms. These are revolutionaries who recently became ‘modern’. They say free education need not be modernised. They say Sri Lanka’s stagnating education must continue the way it is,” Premadasa said speaking at an event.
-
-“Every time something new is being attempted, what do they do? They take to the streets. They go on paada yatras and hold protests.
-
-“But did you know? The children of these big revolutionaries study at international schools,” the leader of the main opposition Samagi Jana Balawegaya (SJB) said.
-
-Acknowledging that disparity in education is a real problem in Sri Lanka, Premadasa said that measures must be taken to address it.
-
-“An SJB government will be dedicated to achieving that change,” he said.
-
-...
-
-[Data](articles/0994d397.json)
-
-[Extended Data](ext_articles/0994d397.ext.json)
 
 ---

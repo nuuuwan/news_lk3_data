@@ -12,5 +12,8 @@
         "The US $ 308.2669 and the sales price were 318.1678 based on the Central Bank's currency exchange rate on Wednesday (February 14)."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "\"Today's currency exchange rate: US $308.2669. Sales price: $318.1678, based on the Central Bank's rate on Feb 14.\""
+  ]
 }

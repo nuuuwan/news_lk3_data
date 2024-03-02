@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 07:40:11**
+As of **2024-03-02 07:51:41**
 
 ## Newspaper Stats
 
-*Scraped **10,374** Articles*
+*Scraped **10,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 542
 islandlk | 553
 dailyftlk | 560
 adalk | 876
-adaderanalk | 1,255
-tamilmirrorlk | 1,260
+adaderanalk | 1,257
+tamilmirrorlk | 1,261
 virakesarilk | 1,412
-dailymirrorlk | 1,573
+dailymirrorlk | 1,575
 adaderanasinhalalk | 1,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,373 (100.0%) of 10,374 articles have been extended.
+10,374 (100.0%) of 10,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Teacher beats seven students with broomstick at Padukka school
+
+*2024-03-02 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teacher-beats-seven-students-with-broomstick-at-Padukka-school/108-278106) · `en`
+
+Padukka March 2 (Daily Mirror) - A group of seven students of a leading school in Padukka town had been beaten with a broomstick by a teacher and three of them were injured and admitted to Padukka Divisional Hospital.
+
+Police said the group of students had gone to the school canteen when the teacher was taking the class and that they had been beaten by the teacher.
+
+A senior official of Padukka Police said the incident was being investigated and that further action would be taken after investigations.
+
+◼️
+
+[Data](articles/aecf93b1.json)
+
+---
+
+### Evening thundershowers possible in five districts today
+
+*2024-03-02 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97674/evening-thundershowers-possible-in-five-districts-today) · `en`
+
+Showers or thundershowers are possible in parts of Kalutara, Ratnapura, Nuwara-Eliya, Galle and Matara districts in the evening or at night, the Department of Meteorology says.
+
+A few showers are likely in Southern and Eastern provinces in the morning. However, mainly dry weather will prevail elsewhere on the island.
+
+Fairly strong winds of about 30-35 kmph can be expected at times in North-western province and Hambantota district.
+
+The public is advised to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers may occur at a few places in the sea areas extending from Kalutara to Hambantota via Matara.
+
+Winds will be north-easterly and wind speed will be 20-30 kmph.
+
+Wind speed may increase up to 40-45 kmph at times in the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam and Mannar and from Matara to Hambantota.
+
+...
+
+[Data](articles/a8bfc74a.json)
+
+---
+
+### சில இடங்களில் மழை; ஏனைய பகுதிகளில் வரட்சி
+
+*2024-03-02 07:17:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மழை-ஏனைய-பகுதிகளில்-வரட்சி/175-334078) · `ta`
+
+களுத்துறை, இரத்தினபுரி, காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடமேல் மாகாணத்திலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/3175ba18.json)
+
+---
 
 ### Cabinet approval for mini hydro project turned down
 
@@ -52,19 +108,37 @@ He pointed out that it was for the first time in 18 years that the tank spilt ov
 
 ---
 
-### சப்புகஸ்கந்த சுத்திகரிப்பு நிறுத்தம்
+### Matara Rest House roof damaged as helicopter carrying PM touches down
+
+*2024-03-02 05:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matara-Rest-House-roof-damaged-as-helicopter-carrying-PM-touches-down/108-278105) · `en`
+
+Matara, March 2 (Daily Mirror) - Strong winds generated during the landing of a helicopter carrying Prime Minister Dinesh Gunawardena at the Matara Fort Grounds resulted in damage to the roof of the Matara Rest House, leading to the disposal of a significant amount of food and drinks intended for customers yesterday.
+
+However, the helicopter landed on the ground without any harm to passengers including the Prime Minister onboard, who arrived to attend the funeral of late Minister Ronnie de Mel.
+
+The manager of the Matara Rest House attributed the incident to the powerful sea breeze at the time.
+
+◼️
+
+[Data](articles/77c7acdf.json)
+
+---
+
+### Chapukascanta refinement
 
 *2024-03-02 04:23:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்புகஸ்கந்த-சுத்திகரிப்பு-நிறுத்தம்/175-334075) · `ta`
 
-சப்புகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையத்தின் நாளாந்த செயற்பாடுகள் 45 நாட்கள் தற்காலிகமாக மூடப்படவுள்ளன என கனியவள கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+The day -to -day operations of the Sapukaskanda Oil Purification Center will be temporarily closed for 45 days.
 
-அதற்கமைய, எதிர்வரும் ஜீலை மாதம் முதல் அதன் செயற்பாட்டு நடவடிக்கைகள் தற்காலிகமாக மூடப்படவுள்ளன என அந்த கூட்டுத்தாபனம் வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+According to a statement issued by the corporation, its operational operations will be temporarily closed from the month of July.
 
-சர்வதேச முறைமைகளுக்கு அமைய, 45 நாள்களுக்கு சப்புகஸ்கந்த எண்ணெய் சுத்திகரிப்பு நிலையம் கட்டாய தேவைகளுக்காக மூடப்பட வேண்டும் என்பது குறிப்பிடத்தக்கது. (a)
+It is worth noting that the Sapukkaskanda Oil Plant should be closed for compulsory requirements for 45 days, according to international systems.. (A)
 
 ◼️
 
 [Data](articles/689ffa11.json)
+
+[Extended Data](ext_articles/689ffa11.ext.json)
 
 ---
 
@@ -521,6 +595,26 @@ This is a completely disgusting act. At the same time, he emphasized that it is 
 ---
 
 ### 2024-03-01 (Friday)
+
+### Sapugaskanda refinery temporarily shut in July for ‘major turnaround’
+
+*2024-03-01 23:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97673/sapugaskanda-refinery-temporarily-shut-in-july-for-major-turnaround) · `en`
+
+The daily operations of Sapugaskanda Oil Refinery will be temporarily halted for 45 days starting this July for a major turnaround (TAR), the Ceylon Petroleum Corporation (CPC) announced on Friday (March 01).
+
+In a statement, the CPC said this essential maintenance and repair process is mandatory, in compliance with international norms, to ensure safe and reliable operations at the refinery for three more years.
+
+Sapugaskanda oil refinery’s previous TAR took place in February 2021.
+
+Once the facility resumes functions after the pre-planned extensive maintenance and repair operation, the CPC said it will be subjected to upgrades designed to boost its contribution to Sri Lanka’s changing product requirements.
+
+During the period the refinery remains shut, the CPC will maintain a buffer stock of refined products to ensure an uninterrupted supply.
+
+◼️
+
+[Data](articles/8b28fdef.json)
+
+---
 
 ### International Geeta Jayanti Yagam
 
@@ -1917,107 +2011,5 @@ The Board of Directors has thus made arrangements with SG Holdings to purchase i
 [Data](articles/7c6c163b.json)
 
 [Extended Data](ext_articles/7c6c163b.ext.json)
-
----
-
-### Heat index advisory issued for parts of the country
-
-*2024-03-01 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97662/heat-index-advisory-issued-for-parts-of-the-country) · `en`
-
-The Department of Meteorology has cautioned the people of rising atmospheric temperatures at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District in the coming hours.
-
-The advisory, issued at 03.30 p.m. today (01), will be in effect until tomorrow evening (02).
-
-“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District”, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/fa8ce9eb.json)
-
-[Extended Data](ext_articles/fa8ce9eb.ext.json)
-
----
-
-### Easter attacks: Petition filed seeking legal action against Nilantha Jayawardena
-
-*2024-03-01 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97661/easter-attacks-petition-filed-seeking-legal-action-against-nilantha-jayawardena) · `en`
-
-A writ petition has been filed before the Court of Appeal seeking that an order be issued to the IGP and other respondents to take legal action against the former Chief of the State Intelligence Service, Senior DIG Nilantha Jayawardena over failure to prevent 2019 Easter Sunday terror attacks, despite receiving intelligence information.
-
-The petition was filed by the Centre for Society and Religion (CSR), its director Rev. Fr. Jude Vernon Rohan Silva and a victim of Easter attacks named Devage Surach Nilanga.
-
-The IGP, SDIG Nilantha Jayawardena and the Attorney General have been named as respondents of the relevant petition.
-
-The petitioners alleged that the respondents have yet to take legal action against Jayawardena, despite there being sufficient evidence to support the fact that he failed to prevent the coordinated bombings.
-
-...
-
-[Data](articles/144b81f1.json)
-
-[Extended Data](ext_articles/144b81f1.ext.json)
-
----
-
-### If economic rights of SL harmed in Red Sea, will stand up by them: President
-
-*2024-03-01 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-economic-rights-of-SL-harmed-in-Red-Sea-will-stand-up-by-them-President/108-278042) · `en`
-
-Colombo, March 01 (Daily Mirror) - President Ranil Wickremesinghe stressed Sri Lanka's commitment to protecting its economic rights in the Red Sea, emphasizing that the nation would stand firm against any threats.
-
-He also stated that Sri Lanka will work to provide the necessary support to the United Nations organization whenever there are problems with peace in the region and the world.
-
-President Wickremesinghe made this statement while attending the Sri Lanka Air Force Cadet Officers Commissioning Ceremony held yesterday afternoon (29) at Air Force Base China Bay, Trincomalee.
-
-Highlighting Sri Lanka's historical commitment to safeguarding world peace and regional stability, the President emphasized his readiness to make decisive decisions for global peace. He underscored the responsibility and accountability of the armed forces in achieving this objective.
-
-◼️
-
-[Data](articles/cf28cc23.json)
-
-[Extended Data](ext_articles/cf28cc23.ext.json)
-
----
-
-### If economic rights of SL harmed in Red Sea, will stand up for it: President
-
-*2024-03-01 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-economic-rights-of-SL-harmed-in-Red-Sea-will-stand-up-for-it-President/108-278042) · `en`
-
-Colombo, March 01 (Daily Mirror) - President Ranil Wickremesinghe stressed Sri Lanka's commitment to protecting its economic rights in the Red Sea, emphasizing that the nation would stand firm against any threats.
-
-He also stated that Sri Lanka will work to provide the necessary support to the United Nations organization whenever there are problems with peace in the region and the world.
-
-President Wickremesinghe made this statement while attending the Sri Lanka Air Force Cadet Officers Commissioning Ceremony held yesterday afternoon (29) at Air Force Base China Bay, Trincomalee.
-
-Highlighting Sri Lanka's historical commitment to safeguarding world peace and regional stability, the President emphasized his readiness to make decisive decisions for global peace. He underscored the responsibility and accountability of the armed forces in achieving this objective.
-
-◼️
-
-[Data](articles/e69fc23d.json)
-
-[Extended Data](ext_articles/e69fc23d.ext.json)
-
----
-
-### The biggest company in the Colombo Stock Exchange is a severe decision
-
-*2024-03-01 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194011) · `si`
-
-Expolanka Holdings PLC, the largest company listed in the Colombo Stock Exchange, has decided to leave the Colombo Stock Exchange.
-
-The decision of the Board of Directors of the Japan, the largest shareholder of Expolanka Holdings PLC, has come to this decision today (01).
-
-The Global PTELTD has 82.43% of Expolanka Holdings PLC.
-
-According to market capitalization, the 12 Largest Companies listed in the Colombo Stock Market is as follows.
-
-◼️
-
-[Data](articles/ed1c7790.json)
-
-[Extended Data](ext_articles/ed1c7790.ext.json)
 
 ---

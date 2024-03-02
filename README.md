@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 20:33:14**
+As of **2024-03-02 20:49:33**
 
 ## Newspaper Stats
 
-*Scraped **10,471** Articles*
+*Scraped **10,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-tamilmirrorlk | 1,279
+tamilmirrorlk | 1,280
 adaderanalk | 1,280
 virakesarilk | 1,416
 dailymirrorlk | 1,587
-adaderanasinhalalk | 1,615
+adaderanasinhalalk | 1,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,469 (100.0%) of 10,471 articles have been extended.
+10,471 (100.0%) of 10,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### මියන්මාරයේ සිරවී සිටින තම පුතු බේරා දෙන්නැයි මවක් ජනපතිගෙන් ඉල්ලයි
+
+*2024-03-02 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194056) · `si`
+
+මියන්මාරයේ ත්‍රස්ත ග්‍රහණයේ පසුවන ශ්‍රී ලාංකික පිරිස හැකි ඉක්මකින් නිදහස් කරගැනීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒ, මියන්මාරයේ සිරවී සිටින පුතෙකු බේරා දෙන්නැයි කඳුළු සලමින් මවක් ජනපති ඉදිරියේ සිදුකළ ආයාචනයකට ප්‍රතිචාර දක්වමින්.
+
+එහිදී ඇය සඳහන් කළේ, "ආරහේ හිරවෙලා ඉන්න මගේ පුතා බේරාදෙන්න..."
+
+ජනාධිපති - " සියලුදෙනාම කතා කරගෙන යනවා... මියන්මාරයේ ආණ්ඩුව එක්ක. මේ අය හිරවෙලා තියෙන තැන මියන්මාර ආණ්ඩුවෙත් පාලනක් නැහැ. ත්‍රස්තවාදී කණ්ඩායම් අරගෙන තියෙන්නේ. ඒත් පුළුවන් තරම් ඉක්මනට කතා කරනගෙන... ඒ අයව ගේන්න කටයුතු කරනවා."
+
+"මම දැන් සති දෙකකට කලිනුත් අපේ ඇමතිතුමාට කතා කළා. ඇමතිතුමා මියන්මාරයේ විදේශ ඇමතිතුමාට කතා කරලා තියෙනවා. ඊට අමතරව අපි තායිලන්තයට කතා කරලා තියෙනවා. මොකද මේගොල්ලෝ තියාගෙන ඉන්නේ මියන්මාරයේ තායිලන්ත මායිම ළඟ."
+
+"ඒ රටවල් දෙකටම අපි කතා කරලා වැඩ කටයුතු කරගෙන යන්නේ. තායිලන්තයේ උදව් හරි අරගන්න සිදු වෙනවා."
+
+◼️
+
+[Data](articles/0bd6f3bb.json)
+
+---
+
+### சாந்தன் மறைவுக்கு யாழ்.பல்கலையில் கறுப்புக் கொடி
+
+*2024-03-02 20:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாந்தன்-மறைவுக்கு-யாழ்-பல்கலையில்-கறுப்புக்-கொடி/71-334097) · `ta`
+
+இந்திய முன்னாள் பிரதமர் ராஜீவ் காந்தியின் படுகொலையில் குற்றஞ்சாட்டப்பட்டு, குற்றவாளியாக இனங்காணப்பட்டதன் பின்னர் தண்டனை அனுபவித்து, விடுவிக்கப்பட்டதன் பின்னர் மறைந்த சாந்தனு அஞ்சலி செலுத்தும் வகையில் யாழ்ப்பாணப் பல்கலைக்கழக வளாகம் எங்கும் கறுப்புக் கொடி பறக்க விடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ae58d1c4.json)
+
+---
 
 ### School term tests in WP suspended after more question papers leaked
 
@@ -46,21 +80,29 @@ The Western Provincial Education Ministry further emphasized that a complaint wa
 
 [Data](articles/50fb32d3.json)
 
+[Extended Data](ext_articles/50fb32d3.ext.json)
+
 ---
 
-### බස්නාහිර පළාතේ පාසල් වාර විභාගය අත්හිටුවයි
+### School period in the Western Province suspended
 
 *2024-03-02 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194055) · `si`
 
-බස්නාහිර පළාතේ රජයේ පාසල් වාර විභාගය අත්හිටුවීමට පළාත් අධ්‍යාපන අමාත්‍යාංශය තීරණය කර තිබේ.
+The Ministry of Education has suspended the Government Schools Examination in the Western Province due to a complaint lodged by the CID.
 
-ඒ ඉදිරියේදී පැවැත්වීමට නියමිත විෂයන් වන ගණිතය සහ ඉංග්‍රීසි  ප්‍රශ්න පත්‍ර දෙක ද පිටවී තිබීම හේතුවෙනි.
+🟩
 
-පළාත් අධ්‍යාපන අමාත්‍යාංශය පවසන්නේ  සිද්ධිය පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් කළ බවය.
+The Ministry of Education has decided to suspend the Government Schools Examination in the Western Province.
+
+That is why mathematics and English question papers, which are to be held in the future.
+
+The Ministry of Education states that the CID has lodged a complaint with the incident.
 
 ◼️
 
 [Data](articles/b3df519d.json)
+
+[Extended Data](ext_articles/b3df519d.ext.json)
 
 ---
 
@@ -2219,47 +2261,5 @@ The committee has given this gift for the welfare of Sri Lanka for the third tim
 [Data](articles/06a7d3f4.json)
 
 [Extended Data](ext_articles/06a7d3f4.ext.json)
-
----
-
-### Petition filed urging appropriate action against Nilantha Jayawardena
-
-*2024-03-02 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Petition-filed-urging-appropriate-action-against-Nilantha-Jayawardena/108-278056) · `en`
-
-Colombo, March 1 (Daily Mirror) - The Centre for Society and Religion yesterday filed a writ petition in the Court of Appeal seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardena for his omission and serious dereliction of duty which led to the Easter Sunday bombing in 2019.
-
-The Centre for Society and Religion, its Chairman Fr. Rohan Silva and Surach Nilanga, a victim of the Easter Sunday attack, filed this petition naming Inspector General of Police (IGP), Senior DIG Nilantha Jayawardena and the Attorney General as respondents.
-
-The petitioners are seeking a Writ of Mandamus, directing the IGP and the Attorney General to forthwith take steps to initiate appropriate action to facilitate the carrying out of the findings and recommendations of the Presidential Commission of Inquiry appointed in connection with the Easter Sunday attacks.
-
-◼️
-
-[Data](articles/15815659.json)
-
-[Extended Data](ext_articles/15815659.ext.json)
-
----
-
-### January trade deficit widens to US $ 514mn
-
-*2024-03-02 02:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-trade-deficit-widens-to-US-514mn/108-278094) · `en`
-
-Earnings from merchandise exports record marginal decline of 0.8% YoY
-
-Sri Lanka’s merchandise trade deficit in January widened to US $ 514 million, from US $ 445 million in the corresponding month of the previous year, due to a higher increase in imports.
-
-The deficit has expanded even when compared with December 2023, where US $ 487 million was recorded.
-
-The provisional data released by the Central Bank this week showed that the earnings from merchandise exports recorded a marginal decline of 0.8 percent year-on-year (YoY) to US $ 971 million in January 2024, compared to US $ 978 million in January 2023.
-
-A decline in earnings was observed in industrial exports and mineral exports, while agricultural exports increased in January 2024.
-
-“The decline in industrial goods exports in January 2024 compared to January 2023 was mainly contributed by garments, resulting from lower exports of garments to most major markets,” the Central Bank said.
-
-...
-
-[Data](articles/bad2894a.json)
-
-[Extended Data](ext_articles/bad2894a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 18:20:15**
+As of **2024-03-02 18:33:03**
 
 ## Newspaper Stats
 
-*Scraped **10,461** Articles*
+*Scraped **10,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-adaderanalk | 1,276
+adaderanalk | 1,277
 tamilmirrorlk | 1,278
 virakesarilk | 1,416
 dailymirrorlk | 1,586
@@ -26,27 +26,51 @@ adaderanasinhalalk | 1,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,460 (100.0%) of 10,461 articles have been extended.
+10,461 (100.0%) of 10,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### අහුන්ගල්ලේ ඝාතනයට ආ යතුරුපැදිය හඳුනාගනී
+### 22-year-old arrested in connection with Borella shooting
 
-*2024-03-02 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194051) · `si`
+*2024-03-02 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97690/22-year-old-arrested-in-connection-with-borella-shooting) · `en`
 
 **
 
-අහුන්ගල්ලේදී ඊයේ (01) වෙඩිතැබීම සිදුකිරීමට වෙඩික්කරුවන් පැමිණි යතුරුපැදිය පොලිස් විශේෂ කාර්ය බළකාය සොයාගෙන තිබේ.
+Police have arrested a person in connection with the shooting incident that took place in Borella on February 19, 2024.
 
-එම යතුරුපැදියෙන් පැමිණ තිබූ දෙදෙනෙකු කොස්කොඩ සුජී නම් පාතාල කල්ලි සාමාජිකයාගේ ඥාතී සහෝදරයෙකු ඊයේ දහවල් වෙඩිතබා ඝාතනය කර තිබුණි.
+The person has been arrested on suspicion of being involved in the attempted murder of an individual, near a housing complex at Ananda Rajakaruna Mawatha in Borella.
 
-එලෙස ඝාතනයට ලක්වී තිබුණේ කුසුම් කුමාර මෙන්ඩිස් නොහොත් "මංජු" නම් 45 හැවිරිදි කොස්ගොඩ ප්‍රදේශයේ පදිංචි ත්‍රිරෝද රථ රියදුරෙකි.
+Colombo-South Crimes Unit has apprehended the suspect in the Sedawatte area of Grandpass today (02), along with the motorcycle used in the shooting.
+
+The 22-year-old suspect was the driver of the motorcycle, according to police.
+
+A 38-year-old person, said to be involved in drug dealings and who was recently released from prison on bail, was shot and injured near a housing complex at Ananda Rajakaruna Mawatha in Borella on February 19. The exact motive behind the shooting is yet to be ascertained.
+
+...
+
+[Data](articles/3eb393fb.json)
+
+---
+
+### The motorcycle for the murder of Ahungalla identified
+
+*2024-03-02 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194051) · `si`
+
+*The police STF identified the motorcycle used in the murder of Ahungalla. Two motorcyclists were shot dead yesterday afternoon. Kusasuna Mendis, 45, was the driver in Kosgoda.*
+
+The police STF has found the motorcycle for shooting yesterday (01) at Ahungalla yesterday.
+
+Two of the motorcyclist had been shot dead yesterday afternoon.
+
+Kusasuna Mendis or 'Manju' was a 45-year-old driver in Kosgoda.
 
 ◼️
 
 [Data](articles/d236888e.json)
+
+[Extended Data](ext_articles/d236888e.ext.json)
 
 ---
 
@@ -2195,25 +2219,5 @@ The Indian delegation comprised officials from the Ministry of Power, Ministry o
 [Data](articles/d0d41f85.json)
 
 [Extended Data](ext_articles/d0d41f85.ext.json)
-
----
-
-### Ali Sabry addresses High-level Segment of the 55th Session of the UN Human Rights Council
-
-*2024-03-02 00:31:43* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-addresses-High-level-Segment-of-the-55thSession-of-the-UN-Human-Rights-Council/56-759084) · `en`
-
-**
-
-Minister of Foreign Affairs, Ali Sabry urged the members of the UN Human Rights Council not to allow short-term political gains or “domestic vote bank politics” to overtake the work of the Council, when addressing the High-Level segment of the 55th Session of the Council through a pre-recorded video statement on 27 February.
-
-Minister Sabry highlighted that despite the severe constraints faced by the country, Sri Lanka continued to engage actively and constructively with an extensive array of helpful working methods of the Council, that are productive and beneficial to the people.
-
-The Foreign Minister reiterated Sri Lanka’s rejection of the HRC resolutions 46/1 and 51/1 and the external evidence gathering mechanism established by these resolutions, while emphasising that such mechanisms are counterproductive and unhelpful and contradict the founding principles of the Council.
-
-...
-
-[Data](articles/7bd050a9.json)
-
-[Extended Data](ext_articles/7bd050a9.ext.json)
 
 ---

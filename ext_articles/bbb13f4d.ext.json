@@ -8,5 +8,8 @@
       "title": "An expectation of the corners of the corners of imports",
       "body_lines": []
     }
-  }
+  },
+  "summary_lines": [
+    "\"Expectations of import corners' corners.\""
+  ]
 }

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 11:02:38**
+As of **2024-03-02 11:17:33**
 
 ## Newspaper Stats
 
-*Scraped **10,412** Articles*
+*Scraped **10,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,86 @@ adalk | 877
 adaderanalk | 1,264
 tamilmirrorlk | 1,267
 virakesarilk | 1,414
-dailymirrorlk | 1,580
+dailymirrorlk | 1,581
 adaderanasinhalalk | 1,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,409 (100.0%) of 10,412 articles have been extended.
+10,412 (100.0%) of 10,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### சபைக்கு வரமாட்டேன்: கெஹலிய
+### Chicken prices increase
+
+*2024-03-02 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-prices-increase/108-278111) · `en`
+
+Colombo, March 2 (Daily Mirror) - The retail price of a kilogram of chicken has been increased by between Rs. 40 to Rs. 60 from today, poultry farmers said.
+
+The retail price of a kilo of fresh chicken at the Narahenpita Economic Centre is Rs. 1,180.
+
+A selling price of Rs. 1,120 was recorded for skinless chicken and curry chicken was sold at Rs. 1,200 per kilogram.
+
+Chicken sale centres in Handapangoda recorded Rs. 1,190 per kilogram of fresh chicken, Rs.1,180 per kilogram of skinless chicken and Rs.1,300 per kilogram of curry chicken.
+
+◼️
+
+[Data](articles/8e6119af.json)
+
+---
+
+### Don't come to the congregation: Keheliya
 
 *2024-03-02 10:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-வரமாட்டேன்-கெஹலிய/175-334083) · `ta`
 
-தரமற்ற மருந்துகளை கொள்வனவு செய்தார் என்றக் குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்டுள்ள விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, பாராளுமன்றக் கூட்டங்களில் பங்கேற்கப் போவதில்லை என பாராளுமன்ற பொதுச் செயலாளருக்கு கடிதம் அனுப்பியுள்ளார்.
+Former Health Minister Keheliya Rambukwella, who has been arrested on charges of buying non -standard drugs, has sent a letter to the General Secretary of Parliament that he will not attend parliamentary meetings.
 
-மேலும், சுகவீனம் காரணமாக அவர் பாராளுமன்றக் கூட்டங்களில் பங்கேற்க மாட்டார் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+It is also reported that he will not attend parliamentary meetings due to illness.
 
-கெஹலிய ரம்புக்வெல்ல விளக்கமறியலில் வைக்கப்பட்டதையடுத்து, அவரது செயலாளர் ஒருவரினால் விடுக்கப்பட்ட வேண்டுகோளுக்கு இணங்க, சபாநாயகரின் பணிப்புரையின் பேரில், அவரை பாராளுமன்றக் கூட்டங்களில் பங்கேற்க வைப்பதற்கான அனைத்து ஏற்பாடுகளையும் சார்ஜன்ட் தயாரித்திருந்தார்.
+After the Keheliya Rambukwella was placed in the interrogation, the Sharge was prepared for all arrangements to attend parliamentary meetings, at the request of the Speaker, at the request of a secretary.
 
-இதனிடையே, அவரது உடல்நிலை குறித்து விரிவான அறிக்கையை சமர்ப்பிக்குமாறு சிறை ஆணையாளருக்கு நீதிமன்றம் அண்மையில் உத்தரவிட்டிருந்தமை குறிப்பிடத்தக்கது.
+Meanwhile, the court recently ordered the prison commissioner to submit a detailed report on his health.
 
 ◼️
 
 [Data](articles/cbad2994.json)
 
+[Extended Data](ext_articles/cbad2994.ext.json)
+
 ---
 
-### සමන් රත්නායක අධිකරණයට
+### Saman Ratnayake to be sentenced to court
 
 *2024-03-02 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194038) · `si`
 
-ඊයේ (01) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත් සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා මාළිගාකන්ද අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+Additional Secretary to the Ministry of Health in the Health Ministry yesterday (CID) has been produced before the Maligakanda Courts.
 
-සමන් රත්නායක මහතා, ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබුණු අතර, පැය 09කට අධික කාලයක් සිදු කළ ප්‍රශ්න කිරීම්වලින් අනතුරු ව ඔහු අත්අඩංගුවට ගෙන තිබිණි.
+Mr. Saman Ratnayake was summoned to the Criminal Investigation Department yesterday, and he was arrested after interrogation over 9 hours.
 
 ◼️
 
 [Data](articles/a8a3cf16.json)
 
+[Extended Data](ext_articles/a8a3cf16.ext.json)
+
 ---
 
-### முட்டையில் சுரண்டினால் சிக்கல்
+### Problem with exploiting in the egg
 
 *2024-03-02 10:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டையில்-சுரண்டினால்-சிக்கல்/175-334081) · `ta`
 
-நாட்டில் ஒரு முட்டைக்கான உற்பத்தி செலவு சுமார் 30ரூபாயே செலவாகும் நிலையில், மக்கள் அதனை 60ரூபாய் கொடுத்து வாங்க வேண்டிய நிலையே காணப்படுகின்றது. இவ்வாறு வர்த்தகர்கள், மக்களை சுரண்டும் நிலையைத் தடுக்க நடவடிக்கை எடுக்கவுள்ளதாக, அமைச்சர் மகிந்த அமரவீர தெரிவித்துள்ளார்.
+When the cost of production for an egg in the country costs about 30 rupees, people have to buy it for Rs 60.. Minister Mahinda Amaraweera said that steps will be taken to prevent traders from exploiting the people.
 
-இதன்படி அடுத்த வாரம் முதல், நியாயமான அதிக பட்ச சில்லறை விலையில் மக்கள், முட்டையை கொள்வனவு செய்வதற்கு, உரிய நடவடிக்கை எடுக்கவுள்ளதாக அமைச்சர் மேலும் தெரிவித்தார். S
+Accordingly, from next week, the Minister added that the people will take appropriate action to buy eggs at a reasonable maximum retail price.. Ssh
 
 ◼️
 
 [Data](articles/5111add7.json)
+
+[Extended Data](ext_articles/5111add7.ext.json)
 
 ---
 
@@ -1941,27 +1965,5 @@ The Interim Finance Report issued a profit of Rs. 156.2 billion in the last 3 mo
 [Data](articles/aa226575.json)
 
 [Extended Data](ext_articles/aa226575.ext.json)
-
----
-
-### No drug cheat
-
-*2024-03-01 19:05:18* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-ඖෂධ-වංචාවකට-ඉඩක්-නෑ/11-408378) · `si`
-
-Minister of Health and Industry Dr. Ramesh Pathiran said that no drug fraud is not allowed to take place.. The Minister was emphasized a special inspection tour of the Gampaha District today (01) and addressing the media.
-
-Speaking further the Minister said that there will be no reality within the period of six months of the next six months. He said only a number of parties involved in the prompt procurement process will be involved in the procurement process.
-
-Speaking about the scanning scanning machine in hospitals said that the scanner had taken steps to import the necessary equipment to Sri Lanka within the next two weeks.. There are about three issues of 46 Siet tables in the country and that they are resolved.
-
-The Ministry of Finance will take action to hold discussions with the Ministry of Finance and the Ministry of Health in the health sector.
-
-The Minister also said that a hospitals surrounding in Gampaha and Mirigama, Gampaha and Mirigama will be held today.
-
-◼️
-
-[Data](articles/5b20b8cb.json)
-
-[Extended Data](ext_articles/5b20b8cb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 18:49:49**
+As of **2024-03-02 19:02:49**
 
 ## Newspaper Stats
 
-*Scraped **10,462** Articles*
+*Scraped **10,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-adaderanalk | 1,277
+adaderanalk | 1,278
 tamilmirrorlk | 1,278
 virakesarilk | 1,416
 dailymirrorlk | 1,586
@@ -26,11 +26,35 @@ adaderanasinhalalk | 1,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,462 (100.0%) of 10,462 articles have been extended.
+10,462 (100.0%) of 10,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Amended school calendar for 2024 released
+
+*2024-03-02 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97691/amended-school-calendar-for-2024-released) · `en`
+
+**
+
+The Ministry of Education has published the amended school calendar for the academic year 2024.
+
+According to the new schedule, the first term of Sinhala and Tamil schools, which commenced on February 19, is supposed to end on May 31. For Muslim schools, the first term will conclude on June 20.
+
+Meanwhile, the second term is slated to begin on June 03 for Sinhala and Tamil schools and end on August 16. For Muslim schools, the term will be from June 14 to September 13.
+
+For Sinhala and Tamil schools, the third school term is scheduled to kick off on August 26 and for Muslim schools, the commencement date for the third term is set for September 19.
+
+The academic year will be wound up on January 17 for both Sinhala/Tamil schools and Muslim schools.
+
+The amended school calendar for the academic year 2024 is as follows:
+
+◼️
+
+[Data](articles/b387e0de.json)
+
+---
 
 ### 22-year-old arrested in connection with Borella shooting
 
@@ -2199,27 +2223,5 @@ It is then that she knows that Srikanth Raghu is not the name of her husband Rag
 [Data](articles/522bd5d4.json)
 
 [Extended Data](ext_articles/522bd5d4.ext.json)
-
----
-
-### Sri Lanka, India hold Joint Working Group meeting for cooperation in power sector
-
-*2024-03-02 00:32:35* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-hold-Joint-Working-Group-meeting-for-cooperation-in-power-sector/56-759085) · `en`
-
-**
-
-Power grid interconnection between India and Sri Lanka and the Sampur Solar Power project among projects discussed
-
-The fifth meeting of the India-Sri Lanka Joint Working Group (JWG) for cooperation in the power sector was held in Sri Lanka on 28 February.
-
-The meeting was co-chaired by Ministry of Power Secretary Pankaj Agarwal, from the Indian side and Ministry of Power and Energy Secretary Dr. Sulakshana Jayawardena from the Sri Lankan side. The High Commissioner of India to Sri Lanka Shri Santosh Jha also attended the meeting.
-
-The Indian delegation comprised officials from the Ministry of Power, Ministry of External Affairs, National Thermal Power Corporation (NTPC), Power Grid Corporation of India Ltd., Central Electricity Authority, Central Transmission Utility of India Ltd. and the High Commission of India in Colombo. The Sri Lankan delegation had members from the Ministry of Power and Energy, Ceylon Electricity Board (CEB) and Ministry of Foreign Affairs.
-
-...
-
-[Data](articles/d0d41f85.json)
-
-[Extended Data](ext_articles/d0d41f85.ext.json)
 
 ---

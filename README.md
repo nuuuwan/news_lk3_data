@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 20:17:45**
+As of **2024-03-02 20:33:14**
 
 ## Newspaper Stats
 
-*Scraped **10,469** Articles*
+*Scraped **10,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,72 @@ islandlk | 553
 dailyftlk | 561
 adalk | 881
 tamilmirrorlk | 1,279
-adaderanalk | 1,279
+adaderanalk | 1,280
 virakesarilk | 1,416
 dailymirrorlk | 1,587
-adaderanasinhalalk | 1,614
+adaderanasinhalalk | 1,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,468 (100.0%) of 10,469 articles have been extended.
+10,469 (100.0%) of 10,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### மருந்து மோசடி ரத்நாயக்கவும் விளக்கமறியல்
+### School term tests in WP suspended after more question papers leaked
+
+*2024-03-02 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97693/school-term-tests-in-wp-suspended-after-more-question-papers-leaked-) · `en`
+
+The term tests of government schools in the Western Province have been suspended after information revealed that two more question papers have been leaked, the Provincial Education Ministry said.
+
+Thus, it has been uncovered that the Mathematics and the English papers have also been leaked, just days after the year-end term test papers of Grades 10 and 11 Science were found to have been leaked to social media a few hours before the commencement of the exam.
+
+The Western Provincial Education Ministry further emphasized that a complaint was lodged with the Criminal Investigation Department (CID) regarding the incident.
+
+◼️
+
+[Data](articles/50fb32d3.json)
+
+---
+
+### බස්නාහිර පළාතේ පාසල් වාර විභාගය අත්හිටුවයි
+
+*2024-03-02 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194055) · `si`
+
+බස්නාහිර පළාතේ රජයේ පාසල් වාර විභාගය අත්හිටුවීමට පළාත් අධ්‍යාපන අමාත්‍යාංශය තීරණය කර තිබේ.
+
+ඒ ඉදිරියේදී පැවැත්වීමට නියමිත විෂයන් වන ගණිතය සහ ඉංග්‍රීසි  ප්‍රශ්න පත්‍ර දෙක ද පිටවී තිබීම හේතුවෙනි.
+
+පළාත් අධ්‍යාපන අමාත්‍යාංශය පවසන්නේ  සිද්ධිය පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් කළ බවය.
+
+◼️
+
+[Data](articles/b3df519d.json)
+
+---
+
+### Ratnayake is also present
 
 *2024-03-02 19:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-மோசடி-ரத்நாயக்கவும்-விளக்கமறியல்/175-334096) · `ta`
 
-சுகாதார அமைச்சின் மேலதிக செயலாளர் சமன் ரத்நாயக்கவை எதிர்வரும் 14 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் திருமதி லோச்சனி அபேவிக்ரம உத்தரவிட்டுள்ளார்.
+Magistrate Mrs. Lochni Abeywickrama ordered Saman Ratnayake, Additional Secretary of the Ministry of Health, to be remanded until the 14th of this month on charges of fraud, including producing fake documents under the Indian Loan Scheme and distributing substandard antibody vaccines.
 
-இந்திய கடன் திட்டத்தின் கீழ் போலி ஆவணங்களை தயாரித்து நோயாளர்களின் உயிருக்கு பாதுகாப்பை ஏற்படுத்திய பல கோடி ரூபாய் மோசடி செய்த குற்றச்சாட்டின் கீழ் இவர் கைது செய்யப்பட்டிருந்தார்.
+🟩
 
-அத்துடன்,  அரசு மருத்துவமனைகளுக்கு தரமற்ற ஆன்டிபாடி தடுப்பூசிகளை விநியோகிக்க உத்தரவிடப்பட்டுள்ளமை தொடர்பிலும் அவருக்கு எதிராக குற்றஞ்சாட்டப்பட்டிருந்தது.
+Magistrate Mrs. Lochni Abeywickrama has ordered Additional Secretary of the Ministry of Health Saman Ratnayake to be remanded until the 14th of this month.
+
+He was arrested on charges of fraudulently fraudulently by producing fake documents under the Indian Loan Scheme and creating a multi -crore rupee fraud.
+
+He was also accused of being ordered to distribute substandard antibody vaccines to government hospitals.
 
 ◼️
 
 [Data](articles/fcbd5887.json)
+
+[Extended Data](ext_articles/fcbd5887.ext.json)
 
 ---
 
@@ -2223,45 +2261,5 @@ A decline in earnings was observed in industrial exports and mineral exports, wh
 [Data](articles/bad2894a.json)
 
 [Extended Data](ext_articles/bad2894a.ext.json)
-
----
-
-### Ronnie De Mel  the socialist who created a capitalist economy
-
-*2024-03-02 02:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ronnie-De-Mel-the-socialist-who-created-a-capitalist-economy/172-278087) · `en`
-
-Ronnie’s  first attempt in electoral politics was in the historic Wellassa region of the Uva province.
-
-History was made when Ronnie de Mel presented the new United National Party (UNP) Government’s budget in November 1977
-
-Ronnie sat for the Ceylon Civil Service (CCS) exam and joined the CCS in 1948. He served in different capacities at the Puttalam, Vavuniya and Matara Kachcheris
-
-The new Devinuwara MP with his leftist ideology and classical oratory was an instant hit. His parliamentary speeches were very popular
-
-The ascension of Junius Richard Jayewardene to the premier seat of political power in 1977 paved the way for a drastic transformation of Sri Lanka’s politico-economic landscape and environment.
-
-J.R. Jayewardene known popularly as “JR” ushered in political, economic, and electoral changes that utterly changed Sri Lanka.  In the words of William Butler Yeats “All changed, changed utterly.”
-
-...
-
-[Data](articles/18cf5164.json)
-
-[Extended Data](ext_articles/18cf5164.ext.json)
-
----
-
-### Has Insensitivity Become The Norm?
-
-*2024-03-02 02:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Has-Insensitivity-Become-The-Norm/172-278086) · `en`
-
-Ceylon Electricity Board (CEB) Media spokesman, Noel Priyantha resigned from his position after criticisms over his insensitive remarks during an interview with a private TV channel, towards the hapless electricity consumers who are struggling to pay their electricity bills.
-
-When he was told at the interview that a father who had attempted to get electricity from a nearby house to support his child’s studies had died by electrocution, and was asked why the CEB could not be more considerate of the sufferings of the consumers, the Spokesman said that the children can use oil lamps for their studies without depending on electricity.
-
-...
-
-[Data](articles/ce0eee82.json)
-
-[Extended Data](ext_articles/ce0eee82.ext.json)
 
 ---

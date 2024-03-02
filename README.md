@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 08:17:42**
+As of **2024-03-02 08:33:17**
 
 ## Newspaper Stats
 
-*Scraped **10,387** Articles*
+*Scraped **10,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,95 @@ economynextcom | 542
 islandlk | 553
 dailyftlk | 560
 adalk | 876
-adaderanalk | 1,257
+adaderanalk | 1,258
 tamilmirrorlk | 1,262
 virakesarilk | 1,413
 dailymirrorlk | 1,575
-adaderanasinhalalk | 1,594
+adaderanasinhalalk | 1,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,385 (100.0%) of 10,387 articles have been extended.
+10,387 (100.0%) of 10,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### සිසුන්ට කොසු මිටකින් පහර දුන් ගුරුවරයා
+### තරුණයෙකුට මරු කැඳවූ අනතුර
+
+*2024-03-02 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194034) · `si`
+
+යාපනය - මහනුවර මාර්ගයේ අයියකඩේ හන්දිය අසල දී සිදු වූ අනතුරකින් තරුණයෙකු මිය ගොස් තිබේ.
+
+යාපනය දෙස සිට වව්නියාව දෙසට ධාවනය වූ බස් රථයක් එම දෙසටම ධාවනය වූ පා පැදියක ගැටී මෙම අනතුර සිදු ව ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ තරුණයා යාපනය රෝහලට ඇතුළු කිරීමෙන් පසු මිය ගොස් තිබේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ, 19 හැවිරිදි අයියකඩේ - මිසාලේ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අනතුර සම්බන්ධයෙන් බස් රථයේ රියදුරු චාවකච්චේරි පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/0a683fac.json)
+
+---
+
+### Teacher who struck the students with a broomund
 
 *2024-03-02 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194033) · `si`
 
-ගුරුවරයෙකු විසින් කොසු මිටකින් පහරදීම හේතුවෙන් සිසුන් තිදෙනෙකු පාදුක්ක ප්‍රාදේශීය රෝහලට ඇතුළත් වී ප්‍රතිකාර ලබමින් සිටින බව වාර්තා වේ.
+It is reported that three students are receiving treatment at the Padukka Regional Hospital with a teacher by a teacher.
 
-රෝහල්ගත ව සිටින සිසුන්ගෙන් එක් අයෙකුට තදබල ලෙස පහර වැදී ඇති අතර, අනෙක් දෙදෙනා යහපත් තත්ත්වයේ සිටින බව වාර්තා වේ.
+One of the students who are hospitalized has been severely attacked and the other two are in good condition.
 
-මෙලෙස පහර කෑමට ලක් ව ඇත්තේ, පාදුක්ක නගරයේ පිහිටි ප්‍රසිද්ධ පාසලක 10 වන ශ්‍රේණියේ ඉගෙනුම ලබමින් සිටි සිසුන් පිරිසකි.
+The assaulted was a group of students in a public school in Padukka.
 
-"අද දෙරණ" වාර්තාකරු පැවසුවේ, අදාළ ගුරුවරයා විසින් සිසුන් හත් දෙනෙකුට මෙලෙස පහර දී ඇති බවයි.
+"Today, Ada Derana reporter said that the teacher had assaulted seven students to seven students.
 
-පාසල් ඉගෙනුම් කාළය තුළ දී එම සිසුන් පිරිස පාසලේ ආපණ ශාලාවට යෑමේ සිද්ධියක් මුල් කර ගනිමින් පන්ති භාර ගුරුවරයා මෙලෙස පහර දී ඇති බවට පාදුක්ක පොලීසියට පැමිණිලි කර තිබේ.
+The school teacher has complained to the Padukka Police that the class of the students had been assaulted by the class of the students during the school learning.
 
 ◼️
 
 [Data](articles/5addb8f7.json)
 
+[Extended Data](ext_articles/5addb8f7.ext.json)
+
 ---
 
-### பெண்களுக்குள் மோதல்; சிறுமி உட்பட மூவர் படுகாயம்
+### SLFP-led new alliance to be formed next week
+
+*2024-03-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97675/slfp-led-new-alliance-to-be-formed-next-week) · `en`
+
+The new alliance led by the Sri Lanka Freedom Party (SLFP) will be formed next week, says former President Maithripala Sirisena.
+
+He made this remark while speaking to the media after SLFP’s Central Committee meeting convened on Friday (March 01).
+
+◼️
+
+[Data](articles/a75b7d92.json)
+
+---
+
+### Conflict within women;Three people injured
 
 *2024-03-02 07:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களுக்குள்-மோதல்-சிறுமி-உட்பட-மூவர்-படுகாயம்/175-334079) · `ta`
 
-மீகஹகிவுல - தல்தென பகுதியில் நேற்று (01) மாலை 6.00 மணியளவில் இரண்டு பெண் குழுக்களுக்கு இடையில் இடம்பெற்ற மோதலில் ஒரு சிறுமி உட்பட மூன்று பெண்கள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Three women, including a girl, were injured in a clash between two female groups at around 6.00 pm yesterday (01) at the Meegahagivula - Taldhena area, police said.
 
-தாக்குதலில் காயமடைந்த ஆறு வயது சிறுமி மற்றும் இரண்டு பெண்கள் மீகஹகிவுல மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், ஆபத்தான நிலையில் இருந்த பெண் ஒருவர் மேலதிக சிகிச்சைக்காக பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+A six -year -old girl and two girls who were injured in the attack have been admitted to the Meegahagivula District Hospital and a woman who was in critical condition has been admitted to the Badulla Teaching Hospital for further treatment.
 
-மீகஹகிவுல - தல்தென, கல்கெலந்த பிரதேசவாசிகளே இவ்வாறு தாக்குதலுக்குள்ளான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+The residents of the Meegahagivula - Taldhena and Kalkalanda area have been admitted to the hospital.
 
-சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பதுளை வைத்தியசாலை பொலிஸார் மற்றும் கந்தகெட்டிய பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+Further investigations into the incident are being carried out by Badulla Hospital and Kandakettiya Police. Remble
 
 ◼️
 
 [Data](articles/3d7b2320.json)
+
+[Extended Data](ext_articles/3d7b2320.ext.json)
 
 ---
 
@@ -1955,45 +1993,5 @@ A bond maturing on 01.07.2032 closed at 12.50/13.00 percent from 12.55/13.00 per
 [Data](articles/c6eca166.json)
 
 [Extended Data](ext_articles/c6eca166.ext.json)
-
----
-
-### Saharan’s brother-in-law arrested
-
-*2024-03-01 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Saharans-brother-in-law-arrested/108-278044) · `en`
-
-March 01 (Daily Mirror) - An individual identified as Saharan’s brother-in-law was arrested by the Kaththankudi police during a raid in the Kalapalachenai area in Batticloa.
-
-Police carried out the raid on a tip off that an unlawful meeting was being held in the Kalapalachenai area.
-
-During the raid the police arrested a group of about 30 individuals including Saharan’s brother-in-law. However, the suspects who denied their involvement in any unlawful meeting stated that they were playing cards.
-
-A police team under OIC Kaththankudi IP Gajanayaka carried out the raid on the instructions of ASP Batticaloa Division K.M.A. Bandara and SSP Amal Edirisinghe.
-
-◼️
-
-[Data](articles/09762157.json)
-
-[Extended Data](ext_articles/09762157.ext.json)
-
----
-
-### Sri Lanka stocks close up 0.37-pct, Expo to de-list
-
-*2024-03-01 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-37-pct-expo-to-de-list-152728/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up 0.37 percent on Friday, and SG Holdings, the parent company of Expolanka Holdings Plc, said it was taking the company private.
-
-Expolanka is the largest listed company on the Colombo Stock Exchange.
-
-“Expolanka Holdings PLC has, at the Board Meeting held on 1st March 2024, considered a request from its principal shareholder and resolved to initiate the de-listing of the Company’s shares from the Official List of the Colombo Stock Exchange subject to obtaining necessary shareholder approval and regulatory approvals,” the company said in a stock exchange filing.
-
-As per arrangements with SG Holdings Global Pte Ltd, the Company’s majority shareholder, it will purchase its shares from shareholders who may wish to divest their shareholding in the Company at a purchase price of Rs 185.00 per share. The share closed up at 150.50.
-
-...
-
-[Data](articles/4658697e.json)
-
-[Extended Data](ext_articles/4658697e.ext.json)
 
 ---

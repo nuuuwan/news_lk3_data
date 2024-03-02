@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 10:17:29**
+As of **2024-03-02 10:33:18**
 
 ## Newspaper Stats
 
-*Scraped **10,402** Articles*
+*Scraped **10,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ economynextcom | 542
 islandlk | 553
 dailyftlk | 560
 adalk | 877
-adaderanalk | 1,262
+adaderanalk | 1,264
 tamilmirrorlk | 1,265
-virakesarilk | 1,413
-dailymirrorlk | 1,577
-adaderanasinhalalk | 1,597
+virakesarilk | 1,414
+dailymirrorlk | 1,579
+adaderanasinhalalk | 1,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,402 (100.0%) of 10,402 articles have been extended.
+10,402 (99.9%) of 10,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Gunfire near Haiti airport disrupts flights for second day
+
+*2024-03-02 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97679/gunfire-near-haiti-airport-disrupts-flights-for-second-day) · `en`
+
+Flights at Port-au-Prince airport in Haiti’s capital have been disrupted for the second straight day by heavy gunfire nearby, as the Caribbean nation grapples with surging gang violence and political instability.
+
+The US Embassy in Haiti issued a security alert on Friday, warning of gunfire and disruptions to traffic near the domestic and international terminals of the Toussaint Louverture International Airport, as well as surrounding areas including a hotel and the Central Directorate of the Judicial Police.
+
+“The US Embassy is temporarily halting travel of official US personnel to the airport and instructing any US personnel at the airport to remain there,” the embassy said.
+
+It comes a day after shootings erupted across Haiti’s capital, forcing flight cancellations and killing at least four people during an attack on a police station.
+
+American Airlines said Thursday it had suspended its daily service between Miami and Toussaint Louverture International Airport in Port-au-Prince.
+
+...
+
+[Data](articles/4cb9c0e3.json)
+
+---
+
+### නීති විරෝධී දුම්වැටි සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-03-02 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194037) · `si`
+
+නීති විරෝ‍ධී ව මෙරටට ගෙන්වන ලද දුම්වැටි තොගයක් සමඟ පුද්ගලයෙකු මීගමුව ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකා‍යේ ගෝනහේන කඳවුරේ නිලධාරින්ට ලද තොරතුරකට අනුව සිදු කළ වැටලීමක දී තීරු බදු නොගෙවා නීති විරෝධී ලෙස මෙරටට ගෙන්වන ලද එම දුම්වැටි සොයාගත් බව සඳහන් ය.
+
+සිද්ධිය සම්බන්ධයෙන් අවුරුදු 42ක පුද්ගලයකු අත්අඩංගුවට ගෙන ඇති අතර, ඔහු වැඩිදුර විමර්ශන සඳහා මීගමුව පොලිස් ස්ථානය වෙත භාර දී ඇති බව පොලිස් විශේෂ කාර්ය බළකාය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/24ed0a49.json)
+
+---
+
+### இலங்கையில் பாரிய மனித உரிமை மீறல்களில் ஈடுபட்டவர்களுக்கு எதிராக இலக்குவைக்கப்பட்ட நடவடிக்கைகள் - மனித உரிமை ஆணையாளர் வேண்டுகோள்
+
+*2024-03-02 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177725) · `ta`
+
+இலங்கையில் பாரிய மனித உரிமை மீறல்கள் மற்றும் மனித உரிமை துஸ்பிரயோகங்களில் ஈடுபட்டவர்கள் என நம்பகதன்மை மிக்க விதத்தில் குற்றம்சாட்டப்பட்டவர்களிற்கு எதிராக இலக்குவைக்கப்பட்ட நடவடிக்கைகளை எடுக்கவேண்டும் என ஐக்கியநாடுகளின் மனித உரிமை ஆணையாளர் வோல்கெர் டேர்க் வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கை அரசாங்கம் கடந்தகாலத்தைய தற்போதைய மனித உரிமை மீறல்கள் பொருளாதார குற்றங்கள் தொடர்பி;ல் விசாரணைகளை மேற்கொண்டு வழக்குகளை தாக்கல் செய்வதற்கான நம்பகதன்மை மிக்க பொறுப்புக்கூறல்நடவடிக்கைகளை எடுக்கவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவர் மனித உரிமை பேரவையின் உறுப்பு நாடுகள் உலகளாவிய மற்றும் சர்வதேச நியாயதிக்க எல்லைக்கு பொருத்தமான இலக்குவைக்கப்பட்ட நடவடிக்கைகளை இலங்கையில் மனித உரிமை மீறல்களில் ஈடுபட்டவர்கள் என நம்பதன்மை மிக்க விதத்தில் குற்றம்சாட்டப்பட்டவர்களுக்கு எதிராக எடுக்கவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/ed9191bc.json)
+
+---
+
+### Russian Naval Ship Varyag docks in Colombo
+
+*2024-03-02 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-Naval-Ship-Varyag-docks-in-Colombo/108-278110) · `en`
+
+Colombo, March 2, (Daily Mirror) The Russian Naval Ship Varyag arrived at the port of Colombo on a formal visit.
+
+The 187m long ship is a Missile Cruiser manned by a crew of 529. The Flag Officer of the ship is Captain 1st Rank Velichko Anatoly Vasicievich and Captain 2nd Rank  Glushakov Roman Nikolaevich serves as the Commanding Officer.
+
+During their stay in Sri Lanka, the crew members of the ship are expected to take part in several programmes organised by the Sri Lanka Navy, with a view to promote camaraderie and visit some of the tourist attractions in the country.
+
+Concluding the official visit, Varyag will depart the island tomorrow.
+
+◼️
+
+[Data](articles/c5bc9175.json)
+
+---
 
 ### Parliament from the 05th to 07th of this month
 
@@ -56,6 +124,20 @@ The law stating the new gazette notification No. 2369/58 under the Essential Pub
 
 ---
 
+### International Geeta Jayanti Yagam
+
+*2024-03-02 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177716) · `ta`
+
+The first day of the three -day Jayanthi ceremony held at the Nelum Pokuna Lotus Lake in the Ministry of Cultural Ministry. Following the International Geeta Jayanti Yagam, you can see in films.
+
+◼️
+
+[Data](articles/a2be6bf7.json)
+
+[Extended Data](ext_articles/a2be6bf7.ext.json)
+
+---
+
 ### Sri Lanka Air Force celebrates 73rd anniversary today
 
 *2024-03-02 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97678/sri-lanka-air-force-celebrates-73rd-anniversary-today) · `en`
@@ -69,6 +151,20 @@ The SLAF asserted that it remains steadfast in its duty as the guardians of Sri 
 [Data](articles/32af0baf.json)
 
 [Extended Data](ext_articles/32af0baf.ext.json)
+
+---
+
+### Sri Lanka Air Force celebrates 73rd anniversary
+
+*2024-03-02 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97678/sri-lanka-air-force-celebrates-73rd-anniversary) · `en`
+
+The Sri Lanka Air Force (SLAF) proudly celebrates its 73rd anniversary today (March 02), marking more than seven decades of service to the nation.
+
+The SLAF asserted that it remains steadfast in its duty as the guardians of Sri Lanka’s skies and an able contributor to achieving sustainable peace.
+
+◼️
+
+[Data](articles/440689e1.json)
 
 ---
 
@@ -89,6 +185,24 @@ Following widespread criticism over the exorbitant pay hike, the Central Bank sa
 [Data](articles/0887d146.json)
 
 [Extended Data](ext_articles/0887d146.ext.json)
+
+---
+
+### Parliament, Central Bank set to discuss salary hike
+
+*2024-03-02 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Parliament-Central-Bank-set-to-discuss-salary-hike/155-278107) · `en`
+
+Colombo, March 2 (Daily Mirror) - Parliament is in a dilemma whether it can undo the salary hike implemented by the Central Bank for its employees in large proportions amidst fiscal austerity, the Daily Mirror learns.
+
+The Central Bank recently increased the salaries of its employees by proportions of 29.53 percent to 79.97 percent under a triennial pay revision.
+
+It happened when the government instructed all the state institutions to economize its expenses due to financial constraints. With the latest pay hike, the monthly pay of the Central Bank duty governor has been increased to Rs.1.7 million from Rs.974,965.
+
+Following widespread criticism over the exorbitant pay hike, the Central Bank said it would clarify the matter to Parliament.
+
+...
+
+[Data](articles/095c10c0.json)
 
 ---
 
@@ -1036,20 +1150,6 @@ During the period the refinery remains shut, the CPC will maintain a buffer stoc
 
 ---
 
-### International Geeta Jayanti Yagam
-
-*2024-03-01 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177716) · `ta`
-
-The first day of the three -day Jayanthi ceremony held at the Nelum Pokuna Lotus Lake in the Ministry of Cultural Ministry. Following the International Geeta Jayanti Yagam, you can see in films.
-
-◼️
-
-[Data](articles/a2be6bf7.json)
-
-[Extended Data](ext_articles/a2be6bf7.ext.json)
-
----
-
 ### Release the 150th anniversary of the Law College of Sri Lanka
 
 *2024-03-01 23:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177715) · `ta`
@@ -1865,127 +1965,5 @@ In this case, he sent several letters to the central and state governments by 20
 [Data](articles/7d242d87.json)
 
 [Extended Data](ext_articles/7d242d87.ext.json)
-
----
-
-### Dates announced for O/L, A/L and Grade 05 scholarship exams
-
-*2024-03-01 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97668/dates-announced-for-ol-al-and-grade-05-scholarship-exams) · `en`
-
-The Department of Examinations has announced the dates for the competitive school examinations which are slated to be held in the year 2024.
-
-Accordingly, 2024 G.C.E. Advanced Level (A/L), 2023 G.C.E. Ordinary Level (O/L) and 2024 Grade 05 scholarship examinations are scheduled to be held this year, as per the Department of Examinations.
-
-Meanwhile, the Commissioner General of Examinations Amith Jayasundara said that the dates for the 2024 G.C.E. Ordinary Level examination will be announced later.
-
-◼️
-
-[Data](articles/96651b95.json)
-
-[Extended Data](ext_articles/96651b95.ext.json)
-
----
-
-### Nagananda Kodituwa to appear for public welfare cases
-
-*2024-03-01 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194018) · `si`
-
-The Supreme Court has ordered Nagananda Kodituwakku who was abolished by lawyer.
-
-This is stated in the verdict on Kodituwakku yesterday (29).
-
-Priyantha Jayawardena, Joy Padman Surasena and S. The verdict was announced yesterday by the three-member Supreme Court Bench comprising Turayiraja.
-
-The Attorney General has accused the Supreme Court by the Supreme Court by accusing Nagananda Kodituwakku.
-
-He said Kodituwakku is convicted of the three-member panel of judges who had heard the charge sheet.
-
-The Supreme Court has then stated that the Supreme Court has decided to abolish his lawyer.
-
-◼️
-
-[Data](articles/a346a427.json)
-
-[Extended Data](ext_articles/a346a427.ext.json)
-
----
-
-### Dates of scholarship exam, GCE O/L, A/L released
-
-*2024-03-01 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dates-of-scholarship-exam-GCE-OL-AL-released/108-278047) · `en`
-
-Colombo, March 01 (Daily Mirror) - The Examination Department has announced the schedule for several key examinations for the year 2024.
-
-Accordingly, the GCE (O/L) Examinations 2023 is scheduled to take place from May 6th to May 15th while Grade 5 Scholarship Examinations 2024 is set for September 15th, 2024.
-
-In addition, the GCE (A/L) Examinations 2024 will run from November 25th to December 20th, 2024.
-
-◼️
-
-[Data](articles/f8366d86.json)
-
-[Extended Data](ext_articles/f8366d86.ext.json)
-
----
-
-### Ghana’s electricity supplier briefly disconnects parliament over $1.8m debt
-
-*2024-03-01 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97667/ghanas-electricity-supplier-briefly-disconnects-parliament-over-18m-debt) · `en`
-
-The state-run Electricity Company of Ghana (ECG) on Thursday cut power supplies to the parliament over a debt of 23m Ghanaian cedi ($1.8m; £1.4m).
-
-The outage interrupted a debate on the president’s State of the Nation speech.
-
-A video shared by local media showed MPs in the dimly lit chamber chanting: “Dumsor, dumsor”, which means power outage in the local Akan language.
-
-Local media reported that a back-up power generator restored power to the chamber a few minutes later.
-
-But other parts of the parliament building remained without power for most of the day before supplies were restored.
-
-MPs and parliamentary staff who were using the elevator when the abrupt blackout hit were stuck, Ghana’s TV3 channel reported.
-
-The power company’s communications director William Boateng told Reuters news agency it had resorted to disconnecting power because of parliament’s refusal to “honour demand notices to pay up”.
-
-...
-
-[Data](articles/4193b268.json)
-
-[Extended Data](ext_articles/4193b268.ext.json)
-
----
-
-### Dickwella replaces Kusal in SL T20 Squad
-
-*2024-03-01 17:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dickwella-replaces-Kusal-in-SL-T20-Squad/108-278046) · `en`
-
-Mar. 1 (SLC Media Release) - The Cricket Selection Committee of Sri Lanka Cricket has named Niroshan Dickwella as a replacement for Kusal Janith Perera for the Twenty20 International (T20I) Series against Bangladesh, which begins on Monday in Sylhet.
-
-Perera, who was included in the T20I Squad, will not take part in the series as he is suffering from a respiratory infection. Perera did not join the team, which left for Bangladesh on Thursday.
-
-Dickwella will join the team tomorrow, ahead of the first match, which will be played at the Sylhet International Cricket Stadium in Sylhet. The second and third T20Is on March 6 and 9 will also be played at the same venue.
-
-◼️
-
-[Data](articles/7ac71cf2.json)
-
-[Extended Data](ext_articles/7ac71cf2.ext.json)
-
----
-
-### The Thanya Parliament in the dark
-
-*2024-03-01 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194017) · `si`
-
-Due to the non-payment of electricity bills, the Ceylon Electricity Company has been disconnected in the Parliament.
-
-The power supply has been disconnected due to the non-payment of $ 1.8 million, foreign media reports.
-
-The electricity has been disconnected while the President is in debate on the policy statement made in parliament recently.
-
-◼️
-
-[Data](articles/745cce39.json)
-
-[Extended Data](ext_articles/745cce39.ext.json)
 
 ---

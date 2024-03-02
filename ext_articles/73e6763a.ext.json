@@ -8,5 +8,8 @@
       "title": "Action Notification",
       "body_lines": []
     }
-  }
+  },
+  "summary_lines": [
+    "\"Action Notification: LLM is now available for chatting with people, assuming the role of a Large Language Model. This includes providing assistance with programming, technical tasks, or information-seeking queries.\""
+  ]
 }

@@ -12,5 +12,8 @@
         "The US dollar purchasing price was Rs."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "Today's USD to Rs exchange rate is Rs."
+  ]
 }

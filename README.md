@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 09:02:21**
+As of **2024-03-02 09:17:41**
 
 ## Newspaper Stats
 
-*Scraped **10,398** Articles*
+*Scraped **10,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ economynextcom | 542
 islandlk | 553
 dailyftlk | 560
 adalk | 876
-adaderanalk | 1,261
+adaderanalk | 1,262
 tamilmirrorlk | 1,265
 virakesarilk | 1,413
-dailymirrorlk | 1,576
+dailymirrorlk | 1,577
 adaderanasinhalalk | 1,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,393 (100.0%) of 10,398 articles have been extended.
+10,398 (100.0%) of 10,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### Sri Lanka Air Force celebrates 73rd anniversary today
+
+*2024-03-02 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97678/sri-lanka-air-force-celebrates-73rd-anniversary-today) · `en`
+
+The Sri Lanka Air Force (SLAF) proudly celebrates its 73rd anniversary today (March 02), marking more than seven decades of service to the nation.
+
+The SLAF asserted that it remains steadfast in its duty as the guardians of Sri Lanka’s skies and an able contributor to achieving sustainable peace.
+
+◼️
+
+[Data](articles/32af0baf.json)
+
+---
+
+### Parliament, Central Bank set to discuss salary hike
+
+*2024-03-02 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-Central-Bank-set-to-discuss-salary-hike/108-278107) · `en`
+
+Colombo, March 2 (Daily Mirror) - Parliament is in a dilemma whether it can undo the salary hike implemented by the Central Bank for its employees in large proportions amidst fiscal austerity, the Daily Mirror learns.
+
+The Central Bank recently increased the salaries of its employees by proportions of 29.53 percent to 79.97 percent under a triennial pay revision.
+
+It happened when the government instructed all the state institutions to economize its expenses due to financial constraints. With the latest pay hike, the monthly pay of the Central Bank duty governor has been increased to Rs.1.7 million from Rs.974,965.
+
+Following widespread criticism over the exorbitant pay hike, the Central Bank said it would clarify the matter to Parliament.
+
+...
+
+[Data](articles/0887d146.json)
+
+---
 
 ### Russian Naval Ship ‘Varyag’ docks in Colombo
 
@@ -49,6 +81,8 @@ Concluding the official visit, ‘Varyag’ will depart the island tomorrow (Mar
 ◼️
 
 [Data](articles/fe058e91.json)
+
+[Extended Data](ext_articles/fe058e91.ext.json)
 
 ---
 
@@ -108,25 +142,31 @@ The bus driver was arrested by the Chavakachcheri Police regarding the accident.
 
 ---
 
-### பிரதமரின் விமானத்தால் மாத்தறையில் பலத்த சேதம்
+### Damage to Matara by Prime Minister's flight
 
 *2024-03-02 08:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-விமானத்தால்-மாத்தறையில்-பலத்த-சேதம்/175-334080) · `ta`
 
-முன்னாள் நிதி அமைச்சர் ரொனி டி மெலின் இறுதிச் சடங்கிற்கு வந்த பிரதமரின் விமானம் மாத்தறை கோட்டை மைதானத்தில் தரையிறங்க முட்பட்ட போது ஏற்பட்ட பிழையினால் அப்பகுதியிலிருந்த விடுதியின் கூரை மற்றும் உணவு பானங்கள் அனைத்தும் பலத்த சேதமடைந்துள்ளன.
+Former Finance Minister Ronnie de Melin's funeral, the Prime Minister's plane crashed at the Matara Fort Ground, causing the roof and food drinks of the hotel in the area.
 
-குறித்த விமானம் தரையிறங்கும் போது வீசிய பலத்த காற்றினால் இந்த நிலை ஏற்பட்டதாக மாத்தறை விடுதியின் முகாமையாளர் தெரிவித்தார்.
+The manager of the Matara hotel said the situation was caused by the strong winds that were blowing during the landing.
 
-சம்பவம் நடந்தபோது, ​​உணவு மற்றும் பானங்கள் பெற்றுக் கொண்டிருந்த உயரடுக்கு பாதுகாப்புப் பணியாளர்கள், உள்ளூர் மற்றும் வெளியூர் சுற்றுலாப் பயணிகள் மீது மணல், தூசி, குப்பைகள் விழுந்து பெரும் சிரமத்துக்குள்ளாகினர்.
+At the time of the incident, high -ranking security workers, who were receiving food and drinks, were in great difficulty with the fall of sand, dust and debris on local and outskirts.
 
-மேலும், மாத்தறை விடுதியின் புஃபே சாப்பாட்டு மேசையில் இருந்த அனைத்து உணவுகளும் நாசமாகிவிட்டன
+More
 
-விமானம் சரியாக தரையிறங்காததற்கு உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலா பயணிகள் தங்களது எதிர்ப்பை தெரிவித்தனர்.
+Local and foreign tourists have expressed their opposition to the plane's failure to land properly.
 
-இதையடுத்து, சிரமத்திற்கு உள்ளான வெளிநாட்டவர்கள் மற்றும் பிறருக்கு ஆர்டர் செய்த உணவுக்கு பதிலாக வேறு உணவை உடனடியாக தயாரிக்க மாத்தறை விடுதியின் நிர்வாகம் ஏற்பாடு செய்திருந்தது.
+Subsequently, the administration of the Matara Hotel had arranged to produce a different meal instead of the food that was ordered by foreigners and others who were inconvenienced.
+
+As the funeral was over and the dignitaries were coming, the employees were deployed to clean the area very quickly.
+
+However, Prime Minister Dinesh Gunawardena got off the plane and then brought it to the funeral.
 
 ...
 
 [Data](articles/5947132b.json)
+
+[Extended Data](ext_articles/5947132b.ext.json)
 
 ---
 
@@ -416,33 +456,37 @@ The manager of the Matara Rest House attributed the incident to the powerful sea
 
 ---
 
-### திருகோணமலை கடலில் ஆணின் சடலம்
+### The corpse of the male in the sea of Trincomalee
 
 *2024-03-02 04:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-கடலில்-ஆணின்-சடலம்/175-334077) · `ta`
 
-திருகோணமலை - டொக்யாட் கடலில் அடையாளம் தெரியாத ஆண் ஒருவரின் சடலம் நேற்று மாலை மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The body of an unidentified man has been recovered last evening at the Trincomalee - Dokyat Sea, police said.
 
-கடலில் மிதந்து வந்து கொண்டிருந்த நிலையில் குறித்த சடலத்தை அவதானித்த பொலிஸார் அதனை மீட்டுள்ளனர்.
+Police recovered the body as they were floating in the sea.
 
 ◼️
 
 [Data](articles/01433f58.json)
 
+[Extended Data](ext_articles/01433f58.ext.json)
+
 ---
 
-### சேவைகளைப் பெற்றுக்கொள்ள முன்பதிவு
+### Booking to obtain services
 
 *2024-03-02 04:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சேவைகளைப்-பெற்றுக்கொள்ள-முன்பதிவு/175-334076) · `ta`
 
-எதிர்வரும் திங்கள் கிழமையின் பின்னர் சேவைகளை பெற்றுக்கொள்ள வருவோர் முன்கூட்டியே நேரத்தை ஒதுக்கிக்கொள்ள வேண்டியது கட்டாயமானதென மோட்டார் வாகன போக்குவரத்து திணைக்களம் தெரிவித்துள்ளது.
+The Department of Motor Vehicle Transport has said that it is mandatory for those who receive services after next Monday.
 
-இதற்காக இரு முறைமைகள் பின்பற்றப்படுகின்றன என மோட்டார் வாகன  போக்குவரத்து திணைக்களத்தின் ஆணையாளர் நாயகம் நிஷாந்த வீரசிங்க தெரிவித்துள்ளார்.
+The Commissioner General of the Motor Vehicle Transport Department Nishantha Weerasinghe said that two systems are being followed.
 
-தமது திணைக்களத்தின் இணையத்தளத்திற்குள் பிரவேசித்து நேரத்தை ஒதுக்கிக் கொள்ள முடியுமெனவும் தொலைபேசி அழைப்பின் ஊடாகவும் நேரத்தை ஒதுக்கிக்கொள்ள முடியுமெனவும் மோட்டார் வாகன போக்குவரத்து திணைக்களத்தின் ஆணையாளர் நாயகம் நிஷாந்த வீரசிங்க குறிப்பிட்டுள்ளார். (a)
+The Commissioner General of the Motor Vehicle Transport Department Nishantha Weerasinghe said that he could enter the website of his department and set time through the phone call.. (A)
 
 ◼️
 
 [Data](articles/54bdfa44.json)
+
+[Extended Data](ext_articles/54bdfa44.ext.json)
 
 ---
 
@@ -1941,41 +1985,5 @@ The adventures carried out by the Navy's Special Ship forces in the sea were als
 [Data](articles/48bda375.json)
 
 [Extended Data](ext_articles/48bda375.ext.json)
-
----
-
-### Etihad Airways boosts flight frequency to Colombo
-
-*2024-03-01 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97666/etihad-airways-boosts-flight-frequency-to-colombo) · `en`
-
-Etihad Airways, the national Career of the United Arab Emirates (UAE), will increase the frequency of flight operations to Colombo effective from 01 May 2024.
-
-The UAE airline, which has 10 weekly flight frequencies at present, will be operating 13 flights a week from 1st of May 2024 - 02 flights on Monday, Tuesday, Thursday, Friday, Saturday, and Sunday, 1 flight on Wednesday, and 20 flights per week from the 15th of June - 03 flights on Monday, Tuesday, Thursday, Friday, Saturday, Sunday, 2 flights on Wednesday.
-
-This will be a significant contribution to boosting the tourism industry in Sri Lanka and travel to the Middle East and other key destinations in the world, it said in a statement.
-
-The enhancement of flight operations by the airline is part of Etihad’s ambitious expansion of flights and frequencies to further boost Abu Dhabi’s global reach, offering more flexible travel options for its guests.
-
-...
-
-[Data](articles/ed143557.json)
-
-[Extended Data](ext_articles/ed143557.ext.json)
-
----
-
-### Niroshan Dickwella instead of Kusal Janith
-
-*2024-03-01 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194015) · `si`
-
-Niroshan Dickwella has been named to the squad for the Namaden-in-squad for the 20-20 tournament between Sri Lanka and Bangladesh.
-
-Kusal Janith Perera is suffering from a respiratory disorder, reports say that he was not joining the team yesterday (29).
-
-◼️
-
-[Data](articles/f319edc1.json)
-
-[Extended Data](ext_articles/f319edc1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 11:33:13**
+As of **2024-03-02 11:52:01**
 
 ## Newspaper Stats
 
-*Scraped **10,416** Articles*
+*Scraped **10,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,37 +12,71 @@ colombotelegraphcom | 99
 bbccomsinhala | 125
 dbsjeyarajcom | 169
 newsfirstlk | 363
-economynextcom | 542
+economynextcom | 543
 islandlk | 553
 dailyftlk | 560
-adalk | 877
-adaderanalk | 1,264
+adalk | 878
+adaderanalk | 1,265
 tamilmirrorlk | 1,270
 virakesarilk | 1,414
 dailymirrorlk | 1,581
-adaderanasinhalalk | 1,599
+adaderanasinhalalk | 1,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,413 (100.0%) of 10,416 articles have been extended.
+10,416 (100.0%) of 10,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### இலங்கை வந்தது ரஷ்ய போர்க்கப்பல்
+### Additional Secretary of Health Ministry produced before court
+
+*2024-03-02 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97680/additional-secretary-of-health-ministry-produced-before-court) · `en`
+
+Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been produced before the Maligakanda Magistrate’s Court.
+
+The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
+
+Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
+
+◼️
+
+[Data](articles/1e8fa6e1.json)
+
+---
+
+### යුක්තිය ඉදිරියට ගෙන යන බවට පොලිස්පතිගෙන් ප්‍රකාශයක්
+
+*2024-03-02 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194039) · `si`
+
+යුක්තිය මෙහෙයුම වඩාත් කාර්යක්ෂම ව හා ශක්තිමත් ව ඉදිරියට ගෙන යන බව පොලිස්පති, දේශබන්දු තෙන්නකෝන් මහතා අවධාරණය කර තිබේ.
+
+අද (02) මහනුවර දී දළදා සමිඳු වැඳ පුදා ගැනීමෙන් අනතුරු ව ඒ මහතා මෙම අදහස් පළ කර ඇත.
+
+අපරාධකරුවන්, ජාවාරම්කරුවන් සහ පාතාලය සම්පූර්ණයෙන්ම මර්දනය කර නොමැති බවත් ඉතා කෙටි කාලයකින් සියලු දෙනා අත්අඩංගුවට ගෙන නීතිමය පියවර ගන්නා බවත් පොලිස්පතිවරයා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/d63d0372.json)
+
+---
+
+### Sri Lanka came to the Russian warship
 
 *2024-03-02 11:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தது-ரஷ்ய-போர்க்கப்பல்/175-334085) · `ta`
 
-ரஷ்ய கடற்படைக்குச் சொந்தமான போர்க்கப்பல் ஒன்று 529 பேருடன் உத்தியோகப்பூர்வ விஜயம் மேற்கொண்டு கொழும்பு துறைமுகத்தை வந்தடைந்துள்ளது.
+A Russian navy's warship has arrived at the port of Colombo with an official visit with 529 people.
 
-இரண்டு நாட்டு கடற்படைக்கும் இடையிலான அபிவிருத்தி நடவடிக்கைகளை முன்னெடுக்கும் சில முக்கிய வேலைத்திட்டங்களில் அவர்கள் பங்கேற்கவுள்ளனர்.
+They will participate in some major programs to carry out development activities between the two navy.
 
 ◼️
 
 [Data](articles/96596f9c.json)
+
+[Extended Data](ext_articles/96596f9c.ext.json)
 
 ---
 
@@ -66,17 +100,19 @@ Chicken sale centres in Handapangoda recorded Rs. 1,190 per kilogram of fresh ch
 
 ---
 
-### புதிய கூட்டணி மைத்திரி அதிரடி
+### New Alliance Maithri Action
 
 *2024-03-02 10:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கூட்டணி-மைத்திரி-அதிரடி/175-334084) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையில் புதிய கூட்டணி அடுத்த வாரம் உருவாக்கப்படும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Former President Maithripala Sirisena has said that a new coalition led by the Sri Lanka Freedom Party will be formed next week.
 
-ஐக்கிய ஐக்கிய முன்னணியின் யாப்பு திருத்தம் செய்யப்பட்டுள்ள நிலையில், அதிகாரிகளை நியமிக்க எதிர்காலத்தில் நடவடிக்கை எடுக்கப்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that as the United Front amendment has been amended, action will be taken in the future to appoint the authorities.
 
 ◼️
 
 [Data](articles/f8bf57f9.json)
+
+[Extended Data](ext_articles/f8bf57f9.ext.json)
 
 ---
 
@@ -116,19 +152,23 @@ Mr. Saman Ratnayake was summoned to the Criminal Investigation Department yester
 
 ---
 
-### காத்தான்குடியில் பரபரப்பு; நீதவான் அதிரடி உத்தரவு
+### Stir in Kattankudi;Magistrate
 
 *2024-03-02 10:43:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/காத்தான்குடியில்-பரபரப்பு-நீதவான்-அதிரடி-உத்தரவு/73-334082) · `ta`
 
-காத்தான்குடியில்  சட்டவிரோதமாக ஒன்று கூடிய சம்பவம் தொடர்பாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட 30 பேரையும் மட்டக்களப்பு நீதவான் நீதிமன்ற பதில் நீதவான் முன்னிலையில் நேற்று மாலை ஆஜர்படுத்தப்பட்டபோது, அவர்களை சரீரப்பிணையில் செல்ல அனுமதித்ததுடன் எதிர்வரும் 26 ம் திகதி நீதிமன்றில் ஆஜராகுமாறு உத்தரவிட்டார்.
+When the Batticaloa Magistrate's Court was produced before the Magistrate's Court yesterday evening, he was allowed to go to the bodies and ordered them to appear in court on the 26th of this month.
 
-காத்தான்குடி பாலமுனை பகுதியில் வீடு ஒன்றில்  சட்டவிரோதமாக கூட்டம் நடத்திய குற்றச்சாட்டில் உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பாக கைது செய்யப்பட்டு பிணையில் விடுத்துள்ள சஹ்ரான் காசிமின் சகோதரியின் கணவர் உட்பட 30 பேரை சந்தேகத்தின் பேரில் வெள்ளிக்கிழமை (01) அதிகாலையில் பொலிஸார் கைது செய்திருந்தனர்.
+Police have arrested 30 people, including the husband of Sahran Kasim's sister, on Friday morning (01), on suspicion of bail in connection with a Sunday attack on the alleged Sunday attack on a house in Kattankudy Palamunai area.
 
-23 மோட்டார்சைக்கிள் முச்சக்கர வண்டி ஒன்றும் இதன்போது மீட்கப்பட்டுள்ளதுடன், கைது செய்யப்பட்டவர்களின் வீடுகளுக்கு பொலிஸார் சென்று விசேட சோதனை நடவடிக்கை மேற்கொண்டுள்ளதையடுத்து பிரதேசத்தில் பெரும் பரபரப்பு எற்பட்டுள்ளது.
+A 23 motorcycle three -wheeler has been recovered and the police have gone to the houses of the arrested and have been conducting a special inspection of the area.
 
-...
+After investigating the arrested persons, they were allowed to go to the body when they were produced before the Batticaloa Magistrate's Court in the evening.R
+
+◼️
 
 [Data](articles/72a8cc41.json)
+
+[Extended Data](ext_articles/72a8cc41.ext.json)
 
 ---
 
@@ -241,6 +281,22 @@ Concluding the official visit, Varyag will depart the island tomorrow.
 [Data](articles/c5bc9175.json)
 
 [Extended Data](ext_articles/c5bc9175.ext.json)
+
+---
+
+### රුසියානු යුද නැවක් කොළඹ වරායට
+
+*2024-03-02 09:28:16* · [`adalk`](https://www.ada.lk/picture_story/රුසියානු-යුද-නැවක්-කොළඹ-වරායට/10-408379) · `si`
+
+රුසියානු නාවික හමුදාවට අයත් ‘Russian Guards Missile Cruiser Varyag’ නෞකාව නිල සංචාරයක් සඳහා ඊයේ (01) කොළඹ වරායට සේන්දු වූ අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ ‘Russian Guards Missile Cruiser Varyag’ නෞකාව, දිගින් මීටර් 187 හා නැව් මුළුව පන්සිය විසි නවයකගෙන් (529) සමන්විත අතර, නෞකාවේ ධජ නිලධාරි ලෙස Captain 1st Rank Velichko Anatoly Vasicievich සහ අණදෙන නිලධාරී ලෙස, Captain 2nd Rank  Glushakov Roman Nikolaevich කටයුතු කරනු ලබයි.
+
+මෙම නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුල නෞකාවේ ධජ නිලධාරි සහ අණදෙන නිලධාරී විසින් බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් සමන් පෙරේරා සමඟ නිල හමුවක් පැවැත්වීමට නියමිතව ඇති අතර, එහි නැව් මුළුව, ශ්‍රී ලංකා නාවික හමුදාව විසින් දෙරටේ නාවික හමුදාවන් අතර සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් සංවිධානය කරනු ලබන වැඩසටහන් සඳහා සහභාගීවීමට මෙන්ම, දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+
+...
+
+[Data](articles/012817c2.json)
 
 ---
 
@@ -705,6 +761,26 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/9c6ef4d7.json)
 
 [Extended Data](ext_articles/9c6ef4d7.ext.json)
+
+---
+
+### Sri Lanka to shut oil refinery for ‘turnaround’ maintenance
+
+*2024-03-02 06:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-shut-oil-refinery-for-turnaround-maintenance-152743/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation said its refinery will be shut for 45 days for scheduled ‘turnaround’ maintenance, which is required every three years.
+
+“This is a mandatory requirement, in compliance with international norms, that qualifies the refinery for safe and reliable operation for a further 03 years,” CPC said in a statement.
+
+“Once the refinery is brought back on stream after the Turnaround, it will be subjected to upgrades designed to increase its contribution to Sri Lanka’s changing product requirements.”
+
+CPC will maintain a buffer stock of double the demand of refined products during the shut down period.
+
+Sri Lanka’s 50,000 barrels per day refinery produces a relatively large share of furnace oil and is more geared to refining light crudes. (Colombo/Mar02/2024)
+
+◼️
+
+[Data](articles/a2585be9.json)
 
 ---
 
@@ -1861,81 +1937,5 @@ They were produced before the court on Thursday (Feb.29) and further remanded un
 [Data](articles/3d79b854.json)
 
 [Extended Data](ext_articles/3d79b854.ext.json)
-
----
-
-### Expolanka to delist from CSE
-
-*2024-03-01 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expolanka-to-delist-from-CSE/108-278051) · `en`
-
-Expolanka Holdings PLC announced today its decision to delist from the Colombo Stock Exchange (CSE).
-
-The proposal is subject to necessary shareholder sanction and regulatory approvals and clearances.
-
-“We are confident that this proposal is in the best interest of our shareholders, which provides an attractive and fair premium that will enable our minority shareholders to unlock value.
-
-“As previously, post-delisting, the company will continue to navigate market complexities in a fast-revolving business environment while continuing to drive sustainable growth as it strives to gain market share as one of the top-tier logistics companies in the world,” said Hanif Yusoof, Director, Expolanka Holdings PLC, commenting on the move.
-
-SG Holdings has intimated to the Board that it would be making an Exit Offer of Sri Rs.185.00 pershare to all the other shareholders of the Company.
-
-◼️
-
-[Data](articles/a649f44c.json)
-
-[Extended Data](ext_articles/a649f44c.ext.json)
-
----
-
-### Dr. Saman Rathnayake arrested
-
-*2024-03-01 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194021) · `si`
-
-Additional Secretary to the Ministry of Health Dr. Saman Ratnayake has been arrested by the CID.
-
-◼️
-
-[Data](articles/ef6e0fb8.json)
-
-[Extended Data](ext_articles/ef6e0fb8.ext.json)
-
----
-
-### An elderly man who tried to cross the road near the pedestrian crossing
-
-*2024-03-01 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177710) · `ta`
-
-An elderly man who tried to cross the road on Friday (1) near the pedestrian cross. Chinathambi Arumanayagam (age 80) from Urumpirai north of Urumpirai died in the incident.
-
-On Friday morning (1), the elderly man was injured when a motorcycle traveling from Palali was hit by a motorcycle from Palali when he was trying to cross the street to get home.
-
-He was rescued and enrolled at the Jaffna Teaching Hospital and died without treatment.
-
-Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination. A motorcycle driver who was injured in the accident has been admitted to the Jaffna Teaching Hospital and is being treated.
-
-◼️
-
-[Data](articles/11453b85.json)
-
-[Extended Data](ext_articles/11453b85.ext.json)
-
----
-
-### The body of an unidentified male on the beach of Trincomalee
-
-*2024-03-01 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/177709) · `ta`
-
-Police say the body of an unidentified man has been left in the shore on Friday evening (01) at Tokkat beach in Trincomalee.
-
-The body of the police, who observed the body as floating in the sea of Trincomalee, went to the sea and took the body to shore.
-
-The cause of the death is not known as a person who has lost his left leg has been reported to have been recovered.
-
-It has been reported that the body is being carried out and the port police are conducting further investigations.
-
-◼️
-
-[Data](articles/1a35dbc4.json)
-
-[Extended Data](ext_articles/1a35dbc4.ext.json)
 
 ---

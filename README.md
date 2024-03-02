@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 09:17:41**
+As of **2024-03-02 09:33:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,596
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,398 (100.0%) of 10,400 articles have been extended.
+10,400 (100.0%) of 10,400 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The SLAF asserted that it remains steadfast in its duty as the guardians of Sri 
 ◼️
 
 [Data](articles/32af0baf.json)
+
+[Extended Data](ext_articles/32af0baf.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Following widespread criticism over the exorbitant pay hike, the Central Bank sa
 ...
 
 [Data](articles/0887d146.json)
+
+[Extended Data](ext_articles/0887d146.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 11:52:01**
+As of **2024-03-02 12:02:55**
 
 ## Newspaper Stats
 
-*Scraped **10,420** Articles*
+*Scraped **10,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 543
 islandlk | 553
 dailyftlk | 560
-adalk | 878
-adaderanalk | 1,265
-tamilmirrorlk | 1,270
+adalk | 879
+adaderanalk | 1,266
+tamilmirrorlk | 1,271
 virakesarilk | 1,414
 dailymirrorlk | 1,581
 adaderanasinhalalk | 1,600
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,416 (100.0%) of 10,420 articles have been extended.
+10,420 (100.0%) of 10,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
+
+### கோழி இறைச்சியின் விலை அதிகரிப்பு
+
+*2024-03-02 11:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலை-அதிகரிப்பு/175-334086) · `ta`
+
+ஒரு கிலோகிராம் கோழி இறைச்சியின் சில்லறை விலை 20 ரூபாவினால் அதிகரிக்கப்பட்டுள்ளது. 40 முதல் ரூ. 60 வரை இன்று முதல் அதிகரிக்கப்பட்டுள்ளது என கோழிப்பண்ணையாளர்கள் தெரிவித்தனர்.
+
+நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் புதிய கோழி இறைச்சியின் சில்லறை விலை ரூ. 1,180 ஆகும்.
+
+விற்பனை விலை  தோல் இல்லாத கோழிக்கு 1,120 ரூபாயும், கறி கோழி ஒரு கிலோ கிராம் 1,200 க்கும் விற்பனைச் செய்யப்படுகின்றது.
+
+◼️
+
+[Data](articles/ddccf47e.json)
+
+---
 
 ### Additional Secretary of Health Ministry produced before court
 
@@ -46,21 +62,61 @@ Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premis
 
 [Data](articles/1e8fa6e1.json)
 
+[Extended Data](ext_articles/1e8fa6e1.ext.json)
+
 ---
 
-### යුක්තිය ඉදිරියට ගෙන යන බවට පොලිස්පතිගෙන් ප්‍රකාශයක්
+### Dr. Saman Ratnayake produced before court
+
+*2024-03-02 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97680/dr-saman-ratnayake-produced-before-court) · `en`
+
+Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been produced before the Maligakanda Magistrate’s Court.
+
+The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
+
+Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
+
+◼️
+
+[Data](articles/23ae3107.json)
+
+---
+
+### A statement from the Inspector General of Police to carry out justice
 
 *2024-03-02 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194039) · `si`
 
-යුක්තිය මෙහෙයුම වඩාත් කාර්යක්ෂම ව හා ශක්තිමත් ව ඉදිරියට ගෙන යන බව පොලිස්පති, දේශබන්දු තෙන්නකෝන් මහතා අවධාරණය කර තිබේ.
+IGP, Deshabandu Tennakoon has emphasized that the operation operates more efficient and strong.
 
-අද (02) මහනුවර දී දළදා සමිඳු වැඳ පුදා ගැනීමෙන් අනතුරු ව ඒ මහතා මෙම අදහස් පළ කර ඇත.
+He was speaking at the Dalada Mamunu hole in Kandy today (02).
 
-අපරාධකරුවන්, ජාවාරම්කරුවන් සහ පාතාලය සම්පූර්ණයෙන්ම මර්දනය කර නොමැති බවත් ඉතා කෙටි කාලයකින් සියලු දෙනා අත්අඩංගුවට ගෙන නීතිමය පියවර ගන්නා බවත් පොලිස්පතිවරයා සඳහන් කර තිබේ.
+The IGP has stated that the criminals, racketeers and the underworld have not been completely repressed.
 
 ◼️
 
 [Data](articles/d63d0372.json)
+
+[Extended Data](ext_articles/d63d0372.ext.json)
+
+---
+
+### සෞදියේ සේවයට ගිය කතුන් 4ක් බේරා ගන්නැයි ඉල්ලීමක්
+
+*2024-03-02 11:17:35* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියේ-සේවයට-ගිය-කතුන්-4ක්-බේරා-ගන්නැයි-ඉල්ලීමක්/11-408380) · `si`
+
+ගෘහ සේවය සඳහා මෙරටින් සෞදි අරාබියාවට ගිය කාන්තාවන් සිව් දෙනෙකුට සෞදි අරාබියාවේ රියාද් හී නිවාසයක රඳවා මාස ගණනාවක් රැඳී සිටියද එම අයට විවිධ හිරිහැර බාධා කරදර සිදුවන බව එම කාන්තාවෝ පවසති.
+
+එක කාන්තාවක් සඟවාගෙන සිටි  දුරකථනයක් හරහා ඔවුන් තමන් මුහුණ දෙන අමිහිරි අත්දැකීම් පිළිබඳව මෙරට මාධ්‍ය වෙත   තොරතුරු ඒවා තිබේ.
+
+මෙම කාන්තාවන් කොළඹ සහ කුරුණෑගල ප්‍රදේශවල පිහිටි පෞද්ගලික විදේශ රැකියා ආයතනවලින් විදේශගත වූ බව කියයි.
+
+නිසි ලෙස ආහාරපාන නොමැතිවීම වැටුප් අහිමිවීම විවිධ හිරිහැර වලට ලක්වීමෙන් රැකියාව අහිමිවීම ඇතුළු කරුණු රැසක් නිසාවෙන් මෙම කාන්තාවන් නිවෙස් වල සිට රැකියා නියෝජිත ආයතනයක සෞදියේ රියාද් හි  මහල් නිවාසයකට ගෙනවිත්දමා තිබෙන බව ඔවුන් පවසයි.
+
+මෙම ස්ථානයේ වෙනත් රටවල් වලින් ගෙනත් දැමූ විශාල ගෘහ සේවිකාවන් පිරිසක් ද රැඳී සිටින බව පවසන මෙම ශ්‍රී ලාංකික ගෘහ සේවිකාවන් ඔවුන් ද එම ස්ථානයෙන් මුදවා ගන්නා ලෙස ඉල්ලීමක්ද කර සිටි.
+
+...
+
+[Data](articles/9c44a658.json)
 
 ---
 
@@ -284,19 +340,23 @@ Concluding the official visit, Varyag will depart the island tomorrow.
 
 ---
 
-### රුසියානු යුද නැවක් කොළඹ වරායට
+### Russian war ship to the port of Colombo
 
 *2024-03-02 09:28:16* · [`adalk`](https://www.ada.lk/picture_story/රුසියානු-යුද-නැවක්-කොළඹ-වරායට/10-408379) · `si`
 
-රුසියානු නාවික හමුදාවට අයත් ‘Russian Guards Missile Cruiser Varyag’ නෞකාව නිල සංචාරයක් සඳහා ඊයේ (01) කොළඹ වරායට සේන්දු වූ අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+The Russian Naval Cruiser Varryag arrived at the port of the Colombo port for an official visit to the Port of Sri Lanka.
 
-මෙලෙස කොළඹ වරායට සේන්දු වූ ‘Russian Guards Missile Cruiser Varyag’ නෞකාව, දිගින් මීටර් 187 හා නැව් මුළුව පන්සිය විසි නවයකගෙන් (529) සමන්විත අතර, නෞකාවේ ධජ නිලධාරි ලෙස Captain 1st Rank Velichko Anatoly Vasicievich සහ අණදෙන නිලධාරී ලෙස, Captain 2nd Rank  Glushakov Roman Nikolaevich කටයුතු කරනු ලබයි.
+The 'Russian Guards missile cruiser varyag', Captain 2nd Rank Vasicievich and Commanding Officer, Captain 1st Rank Vasicievich and Commanding Officer, Captain 2nd Rank Vasicievich and Commanding Officer AevichWorks.
 
-මෙම නෞකාව මෙරට රැඳී සිටින කාලසීමාව තුල නෞකාවේ ධජ නිලධාරි සහ අණදෙන නිලධාරී විසින් බටහිර නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් සමන් පෙරේරා සමඟ නිල හමුවක් පැවැත්වීමට නියමිතව ඇති අතර, එහි නැව් මුළුව, ශ්‍රී ලංකා නාවික හමුදාව විසින් දෙරටේ නාවික හමුදාවන් අතර සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් සංවිධානය කරනු ලබන වැඩසටහන් සඳහා සහභාගීවීමට මෙන්ම, දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+The Commander of the Western Naval Order, Commander of the Western Naval Order, is scheduled to hold a official meeting with the Commander of the Western Naval Order Rear Admiral Saman Perera during the period of time in Sri Lanka.It is also scheduled to visit several areas to participate in programs, as well as visiting important places.
 
-...
+The ship is also due to leave the island on March 3, 2024, concluding the official visit.
+
+◼️
 
 [Data](articles/012817c2.json)
+
+[Extended Data](ext_articles/012817c2.ext.json)
 
 ---
 
@@ -781,6 +841,8 @@ Sri Lanka’s 50,000 barrels per day refinery produces a relatively large share 
 ◼️
 
 [Data](articles/a2585be9.json)
+
+[Extended Data](ext_articles/a2585be9.ext.json)
 
 ---
 
@@ -1875,67 +1937,5 @@ Meanwhile, the Tastekerator has been forwarded to the analyst to ensure the iden
 [Data](articles/3324a0ec.json)
 
 [Extended Data](ext_articles/3324a0ec.ext.json)
-
----
-
-### Ronnie de Mel is good
-
-*2024-03-01 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194022) · `si`
-
-Ronn De Mel, a former Finance Minister Ronni De Mel, was held at the University of Ruhunu today (01).
-
-Ronnay de Mel, who was the highest budgetary minister in Sri Lanka, has passed away with the death to be treated at a private hospital in Colombo.
-
-His remains were placed at the house in Colombo and then placed at the domestic stadium at the University of Ruhuna yesterday evening.
-
-Ronni De Mel's body was taken to the Grounds at the Ruhunu University this evening for the end of the accident.
-
-In the lasting ceremony, Ronnie de Mel was given talks at the funeral.
-
-◼️
-
-[Data](articles/edd4f45b.json)
-
-[Extended Data](ext_articles/edd4f45b.ext.json)
-
----
-
-### Dr. Saman Ratnayake arrested over Immunoglobulin scandal
-
-*2024-03-01 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dr-Saman-Ratnayake-arrested-over-Immunoglobulin-scandal/108-278052) · `en`
-
-Colombo, March 1 (Daily Mirror) - The Criminal Investigations Department (CID) arrested Additional Secretary of the Health Ministry Dr. Saman Ratnayake over the import of substandard human Immunoglobulin injections.
-
-The arrest was made after Dr. Saman Ratnayake arrived at the CID to provide a statement.
-
-Several key individuals including former Health Minister Keheliya Rambukwella, Former Health Secretary, the Medical Supplies Division Director are currently in remand custody over the Immunoglobulin scandal.
-
-◼️
-
-[Data](articles/faf5c4cf.json)
-
-[Extended Data](ext_articles/faf5c4cf.ext.json)
-
----
-
-### Health Ministry’s Additional Secretary Dr. Saman Ratnayake arrested
-
-*2024-03-01 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97669/health-ministrys-additional-secretary-dr-saman-ratnayake-arrested) · `en`
-
-Additional Secretary of the Ministry of Health Saman Ratnayake was arrested on Friday evening (March 01) by the Criminal Investigation Department (CID) over substandard human intravenous immunoglobulin (IVIG) procurement.
-
-The arrest came hours after Dr. Ratnayake arrived at the CID premises to provide a statement.
-
-Prior to the apprehension of Dr. Ratnayake, 8 arrests had been made in connection with the drug procurement scam. But the fifth accused was later released on bail.
-
-As such, 7 suspects former Health Minister Keheliya Rambukwella, the former Health Secretary, the Director of the Health Ministry’s Medical Supplies Division (MSD) and three other officials of the same division, as well as the owner of the company, which is said to have supplied the substandard batch of immunoglobulin vials, now remain in custody on remand.
-
-They were produced before the court on Thursday (Feb.29) and further remanded until March 14 on the orders of the Maligakanda Magistrate.
-
-...
-
-[Data](articles/3d79b854.json)
-
-[Extended Data](ext_articles/3d79b854.ext.json)
 
 ---

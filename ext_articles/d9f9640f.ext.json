@@ -16,5 +16,8 @@
         "In addition, users can question this AI Pot in the form of dialogue based on any word. For example, if users are entered as a charity, it is included in this bot and all the relevant shortcomings are listed. Its design and user application is easy. Information is available in Tamil."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "Thirukkural AI Model Pot, developed for the Tamil language, enhances modern technology growth. It interprets Valluvar's 1,330 verses, offering insights from Karunanidhi, Parimelakar, Solomon Papaya, and Mu Varadarasanar. Users can interact with it in dialogue, finding verses related to any word. Designed for ease of use, it provides information in Tamil."
+  ]
 }

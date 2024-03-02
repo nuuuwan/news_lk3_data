@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-02 17:17:29**
+As of **2024-03-02 17:33:19**
 
 ## Newspaper Stats
 
-*Scraped **10,456** Articles*
+*Scraped **10,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,117 @@ economynextcom | 543
 islandlk | 553
 dailyftlk | 561
 adalk | 881
-tamilmirrorlk | 1,275
+tamilmirrorlk | 1,276
 adaderanalk | 1,276
 virakesarilk | 1,416
-dailymirrorlk | 1,585
+dailymirrorlk | 1,586
 adaderanasinhalalk | 1,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,450 (99.9%) of 10,456 articles have been extended.
+10,456 (100.0%) of 10,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-02 (Saturday)
 
-### வேன்கள் கட்டணம் அரசாங்கம் அதிரடி
+### உணவுப்பொருட்களின் விலைகள் திடீரென அதிகரிப்பு
 
-*2024-03-02 17:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேன்கள்-கட்டணம்-அரசாங்கம்-அதிரடி/175-334093) · `ta`
+*2024-03-02 17:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்பொருட்களின்-விலைகள்-திடீரென-அதிகரிப்பு/175-334094) · `ta`
 
 **
 
-பாடசாலை மாணவர்களை ஏற்றிச் செல்லும் வேன்கள் உட்பட அனைத்து   வாகனங்களுக்கான கட்டண நிர்ணயத்தை அரசாங்கத்தின் கீழ் எடுக்க தீர்மானிக்கப்பட்டுள்ளது.
+இன்று நள்ளிரவு முதல் உணவுப்பொருட்களின் விலைகள் அதிகரிக்கப்படும் என அகில இலங்கை சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+இதன்படி கொத்து மற்றும் ப்ரைட் ரைஸ் ஆகியன 50 ரூபாவினாலும், தேநீர் 5 ரூபாவினாலும், பால் தேநீர் 10 ரூபாவினாலும் அதிகரிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+மேலும் சிற்றுண்டிகள் 10 ரூபாவினாலும் சோற்றுப்பொதி 25 ரூபாவினாலும் அதிகரிக்கப்படவுள்ளதாக அகில இலங்கை சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/2c6d3c58.json)
+
+---
+
+### Manhunt for Governor Musammil’s son over assault on young woman
+
+*2024-03-02 17:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Manhunt-for-Governor-Musammils-son-over-assault-on-young-woman/108-278117) · `en`
+
+**
+
+Colombo, March 2 (Daily Mirror)- Police have launched an investigation to arrest Mohammad Isham Jamaldeen, the son of Uva Provincial Governor A.J.M. Musammil, over an alleged assault on a young woman at an apartment complex in Havelock Gardens, Colombo.
+
+Police said Jamaldeen had assaulted the woman during the early hours of today and she was admitted with injuries to a private hospital.
+
+The Wellawatta Police investigated into the assault following a complaint and launched extensive searches of his residences in Kollupitiya and Keppetipola areas. However, he is yet to be arrested.
+
+The woman, who is a daughter of a well-known Sri Lankan businessman, is reportedly married to an Australian citizen.
+
+Police said they had informed court and obtained a travel ban against Jamaldeen.
+
+◼️
+
+[Data](articles/bb38a38d.json)
+
+---
+
+### Vans fare government Action
+
+*2024-03-02 17:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேன்கள்-கட்டணம்-அரசாங்கம்-அதிரடி/175-334093) · `ta`
+
+*The government has decided to impose tariffs on all vehicles, including vans transporting school children.*
+
+It has been decided to take the tariff for all vehicles, including vans carrying school children.
 
 ◼️
 
 [Data](articles/3cfa6af6.json)
 
+[Extended Data](ext_articles/3cfa6af6.ext.json)
+
 ---
 
-### සමන් රත්නායක ව බන්ධනාගාරයට රැගෙන එයි
+### Saman Ratnayake brings prison
 
 *2024-03-02 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194050) · `si`
 
-**
+*Saman Ratnayake, Additional Secretary to the Ministry of Health, was arrested and interrogated for over 9 hours by the CID for the humian emoneglobulubulin incident. He was remanded to the Magazine Prison and is expected to be moved to Mahara Prison.*
 
-අද (02) දින රක්ෂිත බන්ධනාගාර ගත කෙරුණු සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතාව අද පස්වරුවේ කොළඹ මැගසින් බන්ධනාගාරය වෙත රැගෙන ආවේය.
+Additional Secretary to the Ministry of Health in remand custody today (02) was brought to the Magazine Prison this afternoon.
 
-ඉන් අනතුරුව ඔහුව මහර බන්ධනාගාරය වෙත රැගෙනයෑමට නියමිත බවට ද තොරතුරු වාර්තා වෙයි.
+It is reported that he is due to be taken to the Mahara Prison.
 
-ආන්දෝලනාත්මක හියුමන් ඉමියුනෝග්ලොබියුලින් සිද්ධිය සම්බන්ධයෙන් සමන් රත්නායක, ඊයේ (01) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබිණි.
+Saman Ratnayake was summoned to the CID yesterday regarding the controversial humian emoneglobulubulin incident.
 
-එහිදී ඔහුගෙන් පැය 09කට අධික කාලයක් ප්‍රශ්න කිරීමෙන් අනතුරු ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගත්තේය.
+The Criminal Investigations Department arrested with over the interrogation of he was interrogated for over 9 hours.
 
-පසුව ඔහු අද මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ අතර, එහිදී රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කෙරුණි.
+He was later produced before the Maligakanda Magistrate today and was ordered to be remanded.
 
 ◼️
 
 [Data](articles/a1408e89.json)
 
+[Extended Data](ext_articles/a1408e89.ext.json)
+
 ---
 
-### 1000 போதைப்பொருள் குளிசை;ஒருவர் கைது
+### 1000 drug cold; one arrested
 
 *2024-03-02 16:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1000-போதைப்பொருள்-குளிசை-ஒருவர்-கைது/175-334091) · `ta`
 
-**
+*A 23-year-old from Kalubowila was arrested for smuggling 1000 drugs on a motorcycle in Hathbodiya, Kalubowila.*
 
-பாடசாலை மாணவர்களை இலக்கு வைத்து மோட்டார் சைக்கிளில் 1000 போதைப்பொருள் கடத்திய நபர்   களுபோவில ஹத்போதிய பிரதேசத்தில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் விசேட அதிரடிப்படை தெரிவித்துள்ளது.
+The Special Task Force (STF) said that a person who was smuggling 1000 drugs on a motorcycle was arrested in the Hathbodiya area of Kalubowila.
 
-வெள்ளிக்கிழமை (01) கைது செய்யப்பட்ட சந்தேக நபர் களுபோவில பிரதேசத்தை சேர்ந்த 23 வயதுடையவர் என பொலிஸார் தெரிவிக்கின்றனர்.
+The suspect, who was arrested on Friday (01), is a 23 -year -old from Kalubowila, police said.
 
 ◼️
 
 [Data](articles/218f54f9.json)
+
+[Extended Data](ext_articles/218f54f9.ext.json)
 
 ---
 
@@ -179,6 +225,8 @@ Ninety-five nurses were selected during the first phase out of 400 candidates.
 ...
 
 [Data](articles/0a994cea.json)
+
+[Extended Data](ext_articles/0a994cea.ext.json)
 
 ---
 
@@ -314,6 +362,8 @@ The Sri Lanka Government approved the establishment of the 'Children of Gaza Fun
 
 [Data](articles/206e28fb.json)
 
+[Extended Data](ext_articles/206e28fb.ext.json)
+
 ---
 
 ### Dr. Saman Ratnayake remanded until March 14
@@ -331,6 +381,8 @@ The Criminal Investigations Department (CID) arrested Dr Ratnayake yesterday aft
 ◼️
 
 [Data](articles/ca0aafbb.json)
+
+[Extended Data](ext_articles/ca0aafbb.ext.json)
 
 ---
 
@@ -2161,47 +2213,5 @@ It is being attended by 40 senior civil servant officers from Sri Lanka working 
 [Data](articles/e90ab605.json)
 
 [Extended Data](ext_articles/e90ab605.ext.json)
-
----
-
-### Embassy of Sri Lanka in Indonesia holds virtual meeting to enhance bilateral trade and investment
-
-*2024-03-02 00:22:32* · [`dailyftlk`](https://www.ft.lk/business/Embassy-of-Sri-Lanka-in-Indonesia-holds-virtual-meeting-to-enhance-bilateral-trade-and-investment/34-759074) · `en`
-
-**
-
-The Embassy of Sri Lanka in Jakarta facilitated a virtual meeting between the Ceylon Chamber of Commerce (CCC), Sri Lanka Indonesia Business Council (SLIBC) of CCC and the Indonesian Chamber of Commerce and Industry (KADIN) with the objective of fostering trade and investment between the two countries on 27 February.
-
-The virtual meeting served as a significant platform for fostering dialogue, exploring mutual interests, and strengthening bilateral economic cooperation between Sri Lanka and Indonesia.
-
-During the meeting, CCC Chairman Vish Govindasamy highlighted the commitment of Sri Lanka to foster deeper economic collaboration with Indonesia. He expressed the readiness of Sri Lanka to organise a visit of a business delegation to Indonesia, emphasising the country’s keen interest in exploring trade and investment opportunities.
-
-...
-
-[Data](articles/4a2b9891.json)
-
-[Extended Data](ext_articles/4a2b9891.ext.json)
-
----
-
-### Exclusive PickMe discounts for Seylan Accelerate Debit Cardholders
-
-*2024-03-02 00:21:52* · [`dailyftlk`](https://www.ft.lk/business/Exclusive-PickMe-discounts-for-Seylan-Accelerate-Debit-Cardholders/34-759073) · `en`
-
-**
-
-Seylan Bank has entered a strategic partnership with PickMe, the leading ride-hailing and food delivery service in Sri Lanka, to introduce exclusive discounts for Seylan Accelerate Debit Cardholders.
-
-Seylan Accelerate Debit Cardholders will be able to enjoy a 20% discount, up to Rs. 500, on PickMe Rides across the Flex, Mini, and Car categories. In addition to the ride benefits, Seylan Accelerate Debit Cardholders can avail a Rs. 250 discount for transactions above Rs. 1,250 on PickMe Food orders.
-
-These exclusive offers are valid until 1 April, providing Seylan Accelerate Debit Cardholders ample time to take advantage of the savings and convenience offered through the PickMe partnership.
-
-Seylan Accelerate, with its Premier, Prime, Plus, and Entry membership categories, offers more than just banking services. Cardholders can revel in special offers and cash rewards of up to Rs. 200,000 on significant life milestones such as birthdays, weddings, anniversaries, and the birth of children.
-
-...
-
-[Data](articles/aa4143ca.json)
-
-[Extended Data](ext_articles/aa4143ca.ext.json)
 
 ---

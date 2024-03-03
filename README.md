@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 00:17:47**
+As of **2024-03-04 00:33:00**
 
 ## Newspaper Stats
 
-*Scraped **10,643** Articles*
+*Scraped **10,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-dailyftlk | 561
+dailyftlk | 564
 islandlk | 569
 adalk | 899
 adaderanalk | 1,301
@@ -26,27 +26,47 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,641 (100.0%) of 10,643 articles have been extended.
+10,643 (100.0%) of 10,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### கொழும்பில் உள்ள உணவகம் ஒன்றில் தாக்குதல் ; சொத்துக்கள் சேதம்
+### Attack at a restaurant in Colombo;Damage to assets
 
 *2024-03-04 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177830) · `ta`
 
-கொழும்பு ஆர்மர் வீதியில் உள்ள உணவகம் ஒன்றில் ஞாயிற்றுக்கிழமை (03) அதிகாலை  நுழைந்த சிலர் வாள்கள் மற்றும் பொல்லுகளால் உணவகத்தின் சொத்துக்களுக்குச் சேதம் விளைவித்ததுடன், ஊழியர்களையும் காயப்படுத்தியுள்ளனர்.
+An attack at a restaurant on Armor Road, Colombo, resulted in property damage and employee injuries. The incident was linked to a dispute between the owner and tenants over the restaurant's use.
 
-உணவகத்தை பயன்படுத்துவது தொடர்பாக உரிமையாளருக்கும் குத்தகை தாரர்களுக்கும் இடையில் ஏற்பட்ட தகராறே இந்த தாக்குதலுக்குக் காரணமென பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+Some people who entered a restaurant on Armor Road, Colombo on Sunday (03) have damaged the property of the restaurant and hurt employees.
+
+Police said the attack was the cause of the attack between the owner and the tenants over the use of the restaurant.
 
 ◼️
 
 [Data](articles/da893933.json)
 
+[Extended Data](ext_articles/da893933.ext.json)
+
 ---
 
 ### 2024-03-03 (Sunday)
+
+### ACOB’s ‘The Big Compliance Symposium’ tomorrow
+
+*2024-03-03 23:36:30* · [`dailyftlk`](https://www.ft.lk/opinion/ACOB-s-The-Big-Compliance-Symposium-tomorrow/14-759114) · `en`
+
+The Association of Compliance Officers of Banks – Sri Lanka (ACOB) was founded in 2010 marking a pivotal moment in the banking sector, providing a platform dedicated to fostering the exchange of experiences, knowledge and collective problem-solving among compliance officers. The pioneers who laid the foundation of ACOB were professional bankers such as R.M.P. Rathnayake of HNB, Stanley Fernando from Commercial Bank, Ruwani De Silva from NDB, Prasanna Kannangara from DFCC, Summaiya Macan Markar from People’s Bank, among others.
+
+ACOB’s membership represents the entirety of Sri Lanka’s banking landscape, encompassing state-owned licensed commercial banks, licensed private commercial banks, locally operating international commercial banks, and other licensed specialised banks.
+
+...
+
+[Data](articles/17567899.json)
+
+---
 
 ### President attends ‘Battle of the Maroons’ encounter
 
@@ -57,6 +77,34 @@ President Ranil Wickremesinghe graced the 94th 'Battle of the Maroons' cricket c
 ◼️
 
 [Data](articles/f58860df.json)
+
+[Extended Data](ext_articles/f58860df.ext.json)
+
+---
+
+### Unlocking the power of Enterprise Risk Management: A game-changer for organisational success
+
+*2024-03-03 23:30:40* · [`dailyftlk`](https://www.ft.lk/columns/Unlocking-the-power-of-Enterprise-Risk-Management-A-game-changer-for-organisational-success/4-759113) · `en`
+
+Enterprise Risk Management is pivotal in addressing emerging risks through its multifaceted approach
+
+Enterprise Risk Management has become an increasingly essential solution for mitigating emerging risks, mainly because it provides a structured, systematic, and holistic approach to identifying, assessing, managing, and monitoring risks across an entire organisation. As emerging risks are often characterised by their unpredictability and potential to rapidly evolve, Enterprise Risk Management’s comprehensive framework is particularly suited to address these challenges. Enterprise Risk Management enables organisations to respond to emerging risks in a strategic, coordinated, and agile manner. It’s not just about mitigating risks but also about seizing the opportunities that arise during times of uncertainty, turning potential threats into drivers of innovation and growth
+
+...
+
+[Data](articles/52a805cd.json)
+
+---
+
+### JVP’s stance on FDI and national planning
+
+*2024-03-03 23:24:46* · [`dailyftlk`](https://www.ft.lk/columns/JVP-s-stance-on-FDI-and-national-planning/4-759111) · `en`
+
+National plans have not worked in Sri Lanka or anywhere else. The Indian Planning Commission has been redesigned and renamed. Can there be sectoral policies? Yes, there should be national policies for specific sectors that are based on evidence and broad stakeholder consultation, even in rapidly changing fields such as digital. They should not change every time a Government changes or a minister is appointed. But they should be reviewed and modified as circumstances change. Should efforts be made to articulate sector policies? Yes, to a limited extent. An approach that accepts the imperfection of information and difficulties of articulation and seeks a balance between workable certainty and flexibility is what will work
+
+...
+
+[Data](articles/75637a4a.json)
 
 ---
 
@@ -2191,73 +2239,5 @@ There have been criticism that Russians were running businesses, but it is not k
 [Data](articles/1afa74ec.json)
 
 [Extended Data](ext_articles/1afa74ec.ext.json)
-
----
-
-### US says Israel has agreed to the framework for a Gaza cease-fire, Hamas must now decide
-
-*2024-03-03 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97700/us-says-israel-has-agreed-to-the-framework-for-a-gaza-cease-fire-hamas-must-now-decide) · `en`
-
-Israel has essentially endorsed a framework of a proposed Gaza cease-fire and hostage release deal, and it is now up to Hamas to agree to it, a senior U.S. administration official said Saturday, a day before talks to reach an agreement were to resume in Egypt.
-
-International mediators have been working for weeks to broker a deal to pause the fighting before the Muslim holy month of Ramadan begins around March 10. A deal would likely allow aid to reach hundreds of thousands of desperate Palestinians in northern Gaza who aid officials worry are under threat of famine.
-
-The Israelis “have more or less accepted” the proposal, which includes the six-week cease-fire as well as the release by Hamas of hostages considered vulnerable, which includes the sick, the wounded, the elderly and women, said the official.
-
-...
-
-[Data](articles/ae26697e.json)
-
-[Extended Data](ext_articles/ae26697e.ext.json)
-
----
-
-### The money has not been printed this year
-
-*2024-03-03 11:46:47* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී මුදල්-මුද්‍රණය-කරලා-නෑ/11-408391) · `si`
-
-Sri Lanka's economy, after a collapse, has rebounded faster than any other country, with significant physical development in 75 years post-independence. Health Minister Ramesh Pathirana highlights the government's efforts to rebuild without borrowing, emphasizing the country's strength and the people's will to restore it.
-
-🟩
-
-After the economy collapsed, the economy of the country has been rebuilt faster than any country in the world ...
-
-The government has allocated funds from the loans or money from the money taken ...
-
-In 75 years after independence, there is massive development in the country's physical development ....
-
-Health Minister Minister Ramesh Pathirana emphasizes that Sri Lanka has risen in a very short period of time.
-
-He pointed out that the government has taken measures to re-develop the country without borrowing without any money.
-
-"We can restore this country back strongly. "The Minister said:. Although some have spoken about the 75 year curse for the narrow gain, the country should be physically developed in 75 years and all politicians should be obtained.
-
-...
-
-[Data](articles/60cca674.json)
-
-[Extended Data](ext_articles/60cca674.ext.json)
-
----
-
-### President instructs to develop grass-root level national program for agri modernization
-
-*2024-03-03 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97699/president-instructs-to-develop-grass-root-level-national-program-for-agri-modernization) · `en`
-
-President Ranil Wickremesinghe has directed relevant officials to develop a national program integrating public and private sectors for successful agriculture modernization initiative.
-
-The President highlighted that despite annual budget allocations at national, provincial and local levels, the separate operations of public and private institutions have led to delays in achieving desired outcomes.
-
-He underscored the importance of garnering support from both public and private agricultural research institutes, along with the university system, to address the challenges encountered in implementing this program.
-
-President Ranil Wickremesinghe conveyed these sentiments during the progress review meeting of the Agriculture Modernization Program, convened at the Presidential Secretariat recently.
-
-President Ranil Wickremesinghe also emphasized the necessity of formulating a national program that aligns with government policies and can be effectively implemented at the grass-root level.
-
-...
-
-[Data](articles/1423fee0.json)
-
-[Extended Data](ext_articles/1423fee0.ext.json)
 
 ---

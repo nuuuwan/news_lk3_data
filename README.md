@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 12:49:09**
+As of **2024-03-03 13:02:51**
 
 ## Newspaper Stats
 
-*Scraped **10,547** Articles*
+*Scraped **10,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,86 @@ newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 889
+adalk | 890
 adaderanalk | 1,287
-tamilmirrorlk | 1,293
+tamilmirrorlk | 1,294
 virakesarilk | 1,419
-dailymirrorlk | 1,595
+dailymirrorlk | 1,596
 adaderanasinhalalk | 1,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,545 (100.0%) of 10,547 articles have been extended.
+10,547 (100.0%) of 10,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### அங்கம் விற்ற அழகிகள் எண்மர் கைது
+### ’’ஜனாதிபதி புலமைப்பரிசில் திட்டம்’’ ஆரம்பம்
+
+*2024-03-03 12:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-திட்டம்-ஆரம்பம்/175-334127) · `ta`
+
+பொருளாதார சிரமங்களை எதிர்நோக்கும் 100,000 பாடசாலை மாணவர்களை இலக்காகக் கொண்ட “ஜனாதிபதி புலமைப்பரிசில் திட்டம் 2024/25”க்கான விண்ணப்ப செயல்முறை இப்போது ஆரம்பிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தொலைநோக்குப் பார்வைக்கு அமைவாக 2024ஆம் ஆண்டு மார்ச் மாதம் 20ஆம் திகதி வரை விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படுகின்றன.
+
+விண்ணப்பிக்க, விருப்பமுள்ள விண்ணப்பதாரர்கள் www.facebook.com/president.fund என்ற ஜனாதிபதி நிதியத்தின் உத்தியோகபூர்வ முகநூல் பக்கம் மற்றும் www.presidentsfund என்ற உத்தியோகபூர்வ இணையத்தளத்தின் ஊடாக விண்ணப்பப்படிவம், அறிவுறுத்தல்கள் மற்றும் சிங்களம், தமிழ் மற்றும் ஆங்கிலத்தில் தொடர்புடைய அனைத்து தகவல்களையும் அணுகலாம்.
+
+gov.lk விண்ணப்பதாரர்கள் தங்கள் பூர்த்தி செய்யப்பட்ட விண்ணப்பங்களை அந்தந்த பாடசாலை தலைமையாசிரியர்களிடம் காலக்கெடுவிற்கு முன் சமர்ப்பிக்க வேண்டும்.
+
+வலய/மாகாணக் கல்வி அலுவலகங்கள் மற்றும் நாடளாவிய ரீதியில் உள்ள அனைத்து அரச பாடசாலைகளின் அதிபர்களுக்கும் கல்வி அமைச்சு விசேட சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+...
+
+[Data](articles/3ad6a978.json)
+
+---
+
+### Member arrested for selling elements
 
 *2024-03-03 12:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கம்-விற்ற-அழகிகள்-எண்மர்-கைது/175-334124) · `ta`
 
-ஆயுர்வேத மத்திய நிலையங்களை நடத்தும் போர்வையில் அழகான பெண்களை, பணத்துக்கு விற்பனைச் செய்தனர் என்றக் குற்றச்சாட்டின் கீழ், எட்டு அழகிகள் உட்பட, முகாமையாளர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two managers and eight women, accused of selling women for money under the pretense of Ayurvedic centers, were arrested in Maharagama. The women, aged 25-50, were detained in various areas. The spa stations, falsely claimed as Ayurvedic Central Stations, were raided by the Maharagama police.
 
-இந்த சம்பவம், மஹரகமவில் இடம் பெற்றுள்ளது.  அம்பாறை, இங்கிரிய, இரத்தினபுரி, தமண, நிவித்திக்கல மற்றும் நாவலப்பிட்டிய ஆகிய பிரதேசங்களைச் சேர்ந்த 25 வயதுக்கும் 50 வயதுக்கும் இடைப்பட்ட வயதுகளுடைய பெண்களே கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-மஹரகம வத்தேகெதர மற்றும் பன்னிப்பிட்டிய தெபானம ஆகிய பிரதேசங்களில், ஆயுர்வேத மத்திய நிலையம் எனும் போர்வையில் இந்த ஸ்பா நிலையங்கள் நடத்தப்பட்டுள்ளன.
+Two managers, including eight beauties, have been arrested on charges of selling beautiful women for money under the guise of Ayurvedic centers.
 
-கிடைத்த தகவல்களின் அடிப்படையில், இவ்விரு ஸ்பா நிலையங்களுக்கு எதிராகவும்   தேடுதல் உத்தரவை பெற்றுக்கொண்டே, சுற்றிவளைப்பு நடத்தப்பட்டது என மஹரகம பொலிஸார் தெரிவித்தனர்
+The incident has taken place in Maharagama. Women between the ages of 25 and 50 have been arrested in the areas of Ampara, Ingiriya, Ratnapura, Tamana, Nivithikala and Nawalapitiya.
+
+These spa stations have been held under the guise of the Ayurvedic Central Station in the areas of Maharagama Vathekadera and Pannipitiya Thebanama.
+
+Based on the information available, the Maharagama police said that the raid was conducted against the two spa stations.
 
 ◼️
 
 [Data](articles/a2eac77e.json)
 
+[Extended Data](ext_articles/a2eac77e.ext.json)
+
 ---
 
-### பாகிஸ்தான் பிரதமர்  ஷெபாஸ் ஷெரீப்
+### Pakistani Prime Minister Shebaz Sharif
 
 *2024-03-03 12:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தான்-பிரதமர்-ஷெபாஸ்-ஷெரீப்/50-334122) · `ta`
 
-பாகிஸ்தானில் கடந்த மாதம் 8-ம் திகதி பல்வேறு கலவர சம்பவங்களுக்கு மத்தியில் பாராளுமன்ற தேர்தல் நடைபெற்றது. தொடர்ந்து வாக்கு எண்ணிக்கையில் சிறையில் இருக்கும் முன்னாள் பிரதமர் இம்ரான் கானின் ஆதரவு வேட்பாளர்கள் பல்வேறு இடங்களை கைப்பற்றிய போதும் முழு ஆதரவு கிடைக்கவில்லை.
+Shebaz Sharif, leader of the Pakistani Muslim League -Nawaz, was elected 33rd Prime Minister of Pakistan, forming a coalition with the Pakistan People's Party. The coalition holds 75 out of 265 seats.
 
-அதேபோல் முன்னாள் பிரதமர் நவாஸ் ஷெரீப்பின் பாகிஸ்தான் முஸ்லிம் லீக் - நவாஸ் கட்சியும், பாகிஸ்தான் முன்னாள் பிரதமர் பெனாசீர் பூட்டோவின் மகன் பிலாவல் பூட்டோவின் பாகிஸ்தான் மக்கள் கட்சியும் கணிசமான தொகுதிகளை கைப்பற்றின. இதையடுத்து தொடர் பேச்சுவார்த்தைக்கு பின்னர் பாகிஸ்தான் முஸ்லிம் லீக் -நவாஸ் மற்றும் பாகிஸ்தான் மக்கள் கட்சி இணைந்து கூட்டணி ஆட்சி அமைக்க முடிவு செய்யப்பட்டது. இதையடுத்து கூட்டணி ஆட்சியின் பிரதமராக ஷெபாஸ் ஷெரீப் தேர்வு செய்யப்பட்டார்.
+🟩
 
-கூட்டணி ஆட்சி அமைவது உறுதியான நிலையில் 33-வது பிரதமராக பாக்.முஸ்லிம் லீக் - நவாஸ் கட்சியின் தலைவர் ஷெபாஸ் ஷெரீப் இன்று பதவி ஏற்க உள்ளார்.
+Parliamentary elections were held in Pakistan on the 8th of last month amid various riots. Former Prime Minister Imran Khan's supporters who have continued to be in prison in the voting number have not been fully supportive, despite the seizure of various places.
+
+Similarly, the Pakistani Muslim League -Nawaz Party of former Prime Minister Nawaz Sharif and the Pakistan People's Party of Pakistan, the son of former Pakistani Prime Minister Benazir Bhutto, have seized considerable constituencies.. After a series of talks, the Pakistan Muslim League -Nawaz and the Pakistan People's Party decided to form an alliance regime. Shebas Sharif was then elected prime minister of the coalition regime.
+
+Pakistani Muslim League -Nawaz Party leader Shebaz Sharif is due to take office today as the 33rd Prime Minister of the coalition.
 
 ...
 
 [Data](articles/83450539.json)
+
+[Extended Data](ext_articles/83450539.ext.json)
 
 ---
 
@@ -89,6 +121,24 @@ Bitton administration officials said that the tragic event on Thursday has empha
 [Data](articles/78ca6a21.json)
 
 [Extended Data](ext_articles/78ca6a21.ext.json)
+
+---
+
+### Calling applications begin for Presidential Scholarship Programme 2024/25 starts
+
+*2024-03-03 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calling-applications-begin-for-Presidential-Scholarship-Programme-202425-starts/108-278126) · `en`
+
+The "Presidential Scholarship Programme 2024/25" is currently accepting applications targeting 100,000 economically disadvantaged school students.
+
+The initiative aligns with President Ranil Wickremesinghe's vision and interested candidates can apply on or before March 20, 2024.
+
+Application forms, instructions and relevant information are available in Sinhala, Tamil and English on the official Facebook page of the President's Fund and the website www.presidentsfund.gov.lk.
+
+Completed applications must be submitted to the respective school principals before the deadline.
+
+◼️
+
+[Data](articles/cbbba077.json)
 
 ---
 
@@ -161,6 +211,28 @@ President Ranil Wickremesinghe also emphasized the necessity of formulating a na
 [Data](articles/1423fee0.json)
 
 [Extended Data](ext_articles/1423fee0.ext.json)
+
+---
+
+### නාමල්ගේ සිහිනය ප්‍රසන්න ’කුඩු’ කරයි
+
+*2024-03-03 11:36:42* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-සිහිනය-ප්‍රසන්න-’කුඩු’-කරයි/11-408390) · `si`
+
+පොහොට්ටුව ජනාධිපතිවරණයට අපේක්ෂකයකු ඉදිරිපත් කරන්නේ නම් ඔහු වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහට වඩා අති දක්ෂයකු විය යුතු බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා අවධාරණය කරන්නේ යම් හෙයකින් දුර්වල අපේක්ෂකයකු ඉදිරිපත් කළහොත් තම පක්ෂ සාමාජිකත්වය සම්බන්ධයෙන් තමන්ට තීන්දුවක් ගැනීමට සිදුවනු ඇති බවයි.
+
+එමෙන්ම නාමල් රාජපක්ෂට ජනාධිපතිවරණයට ඉදිරිපත් වීමට මෙය සුදුසු අවස්ථාව නොවන  බවද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කරයි.
+
+හිටපු පළාත් පාලන නියෝජිතයන් සමඟ උඩුගම්පොළ, පැවති සාකච්ඡාවකට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+ජනාධිපතිධූරයට වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හැර වෙනත් සුදුස්සකු පෙනෙනතෙක් මානයක නොමැති බවයි.
+
+"ශ්‍රී ලංකා පොදුජන පෙර⁣මුණේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතා ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වෙනවා නම් මම එතුමාට සහය පළකරනවා. නමුත් එතුමා  ජනාධිපතිවරණයට ඉදිරිපත් වෙන්නෙ නෑ. මම ඒක හොඳාකාරවම දන්නවා. නාමල් මල්ලිට මේ ජනාධිපතිවරණයට ඉදිරිපත් වෙන්න වෙලාව නෙවෙයි. එයාට තව කල් තියෙනවා. මම ඒක නාමල්ගේ මූණටත් කිව්වා. මොකද එයා ඉදිරිපත් වෙන්න ඕනේ සුදුසුම වෙලාවේදි.
+
+...
+
+[Data](articles/c3d44960.json)
 
 ---
 
@@ -2149,69 +2221,5 @@ Minister of Tourism Harin Fernando says that the number of tourist earnings for 
 [Data](articles/becebe75.json)
 
 [Extended Data](ext_articles/becebe75.ext.json)
-
----
-
-### India has officially eliminated ‘extreme poverty’: US report
-
-*2024-03-02 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97687/india-has-officially-eliminated-extreme-poverty-us-report) · `en`
-
-India has now officially eliminated ‘extreme poverty’, which can be seen through the sharp decline in headcount poverty ratio and stark increase in household consumption, American think tank Brookings said in a report.
-
-The report, authored by Surjit Bhalla and Karan Bhasin, states that this has been a result of the government’s strong policy thrust on redistribution, which has led to strong inclusive growth in India over the last decade.
-
-India has just released its official consumption expenditure data for 2022-23, providing the first official survey-based poverty estimates for India in over ten years.
-
-According to the data, real per capita consumption growth has been recorded at 2.9 per cent per year since 2011-12. Under this, rural growth at 3.1 per cent was significantly higher than urban growth of 2.6 per cent.
-
-The data also presented an unprecedented decline in both urban and rural inequality.
-
-...
-
-[Data](articles/d7dfbbd3.json)
-
-[Extended Data](ext_articles/d7dfbbd3.ext.json)
-
----
-
-### Sri Lanka records over 200,000 tourist arrivals for second consecutive month in 2024
-
-*2024-03-02 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97686/sri-lanka-records-over-200000-tourist-arrivals-for-second-consecutive-month-in-2024) · `en`
-
-Sri Lanka has recorded 218,350 tourist arrivals for February 2024, the highest number per month since January 2020.
-
-This also marks the second consecutive month with over 200,000 arrivals, with January recording as many as 208,253 arrivals, Minister of Tourism Harin Fernando revealed.
-
-Taking to X (formerly Twitter) to announce this, Fernando pointed out that the estimated earnings for the first two months of 2024 is USD 710 million accordingly.
-
-Meanwhile on Friday (01), the Central Bank’s latest report on external sector performance disclosed that Sri Lanka’s earnings from tourism were estimated at USD 342 million in January 2024, which is the highest monthly value the country has witnessed since January 2020.
-
-The country also attracted as many as 208,253 tourists in January this year, as opposed to 102,545 arrivals recorded during the corresponding period in 2023.
-
-◼️
-
-[Data](articles/3aec0038.json)
-
-[Extended Data](ext_articles/3aec0038.ext.json)
-
----
-
-### Sri Lanka expresses grave concern over death of aid seekers in Gaza
-
-*2024-03-02 14:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-expresses-grave-concern-over-death-of-aid-seekers-in-Gaza/108-278114) · `en`
-
-Colombo, March 2 (Daily Mirror)- Sri Lanka is deeply troubled over the death of over a hundred people who were waiting to receive aid in Gaza and joined the call for investigations into the incident, the Ministry of Foreign Affairs said.
-
-The Ministry said the latest incident underscores the immediate need to end the blockade imposed on Gaza, depriving its civilian population, including women and children, of access to basic necessities such as food, water, medicine, electricity and fuel.
-
-"Sri Lanka reiterates its call for an immediate ceasefire and unrestricted humanitarian access to Gaza to alleviate the suffering of civilians.
-
-The Sri Lanka Government approved the establishment of the 'Children of Gaza Fund,' a compassionate initiative proposed by the President aimed at providing assistance to the victims in Gaza and to donate USD one million through UN agencies to provide much-needed support to the victims of Gaza.
-
-...
-
-[Data](articles/206e28fb.json)
-
-[Extended Data](ext_articles/206e28fb.ext.json)
 
 ---

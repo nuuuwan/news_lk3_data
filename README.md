@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 01:33:26**
+As of **2024-03-04 01:50:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,651 (100.0%) of 10,652 articles have been extended.
+10,652 (100.0%) of 10,652 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,13 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-04 01:18:37* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-to-improve-commercial-dispute-resolution-through-mediation/4-759132) · `en`
 
-Sri Lanka ratified the UN Convention on International Settlement Agreements Resulting from Mediation, popularly known as the Singapore Convention on Mediation, last Thursday on 28 February. This Convention is to Mediation what the 1958 UN Convention On Enforcement of Foreign Arbitral Awards (the NY Arbitration Convention), is to Arbitration.
+The universal buzz about mediation stems from the benefits the process offers
 
-Legislation to give effect to the Convention was enacted by the Sri Lankan Parliament in January, 2024 and is titled ‘Recognition and Enforcement of International Settlement Agreements Resulting from Mediation, Act No. 5 of 2024’. The Act will come into force and the Convention will apply to Sri Lanka with effect from six months from the date of ratification, i.e. from 28 August 2024.
+The challenge to Sri Lanka is to provide for a comprehensive ecosystem for the delivery and sustenance of quality mediation services. This requires many things – a legal regime that adopts universally accepted principles; a judiciary that appreciates the vision; infrastructure that meets with international standards; service providers of excellent quality; awareness by stakeholders of the distinguishing features that offer benefits of value and very importantly policy acceptance at the highest levels of Government. It is the country that will benefit from better and smarter dispute resolution options. A push from the private sector alone is inadequate
 
 ...
 
 [Data](articles/e38027a5.json)
+
+[Extended Data](ext_articles/e38027a5.ext.json)
 
 ---
 

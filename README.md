@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 15:17:43**
+As of **2024-03-03 15:33:13**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 1,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,571 (100.0%) of 10,573 articles have been extended.
+10,573 (100.0%) of 10,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### අලුත් ශිෂ්‍යත්ව වැඩසටහනට අයදුම්පත් කැඳවයි
+### Applications called for New Scholarship Program
 
 *2024-03-03 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194077) · `si`
 
-"ජනාධිපති ශිෂ්‍යත්ව වැඩසටහන 2024/2025" සඳහා සුදුසුකම්ලාභීන්ගෙන් අයදුම්පත් කැඳවීම මේ වනවිට ආරම්භ කර තිබේ.
+The "Presidential Scholarship Program 2024/2025" in Sri Lanka, aiming to aid 100,000 students across 10,126 schools, is initiated by President Ranil Wickremesinghe. Applications are submitted through official websites, with the Presidential Media Division confirming correct submissions. The Ministry of Education guides the selection process, with committees headed by school principals and provincial education authorities selecting eligible students.
 
-මෙරට 10,126ක් වූ සමස්ත පාසල් සංඛ්‍යාව ආවරණය කරමින් පළමු ශ්‍රේණියේ සිට 11 වන ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන සිසුන් ලක්ෂයක් (100,000) වෙනුවෙන් මෙම ශිෂ්‍යාධාර ලබාදීමේ වැඩසටහන ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති අතර සමස්ත වැඩසටහන සදහා ජනාධිපති අරමුදලින් රුපියල් මිලියන 3600ක ප්‍රතිපාදන වෙන් කර තිබේ.
+🟩
 
-විවිධ ආර්ථික දුෂ්කරතා හමුවේ අධ්‍යාපනය ලබන පාසල් සිසු දරුවන්ට දිරියක් ලබාදීමේ අරමුණින් ශිෂ්‍යාධාර ලබාදීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් මත මෙම වැඩසටහන ක්‍රියාත්මක කෙරෙති.
+Applications have been launched from the eligibility requirements for the "Presidential Scholarship Program 2024/2025".
 
-ඒ අනුව ජනාධිපති අරමුදලේ නිල ෆේස්බුක් පිටුව වන www.facebook.com/president.fund ඔස්සේ හා ජනාධිපති අරමුදලේ නිල වෙබ් අඩවිය වන www.presidentsfund.gov.lk ඔස්සේ අයදුම්පත, උපදෙස් පත්‍රිකාව සහ සියලුම තොරතුරු භාෂා තුනෙන්ම ලබා ගැනීමේ හැකියාව පවතියි.
+The scholarship aid program is scheduled to implement a 100,000 students who study the total number of schools in Sri Lanka 10,126 schools.
+
+The program is implemented in a concept of President Ranil Wickremesinghe to encourage school students who are being encouraged to encourage schoolgirls in various economic hardships.
+
+Accordingly, the procedure of the Presidential Fund is the official website of www.facebook.com/presidebook.com/president.fund, the official website of the Presidential Fund and the US official website, www.presidentsfund.gov.lk is capable of achieving.
+
+The Presidential Media Division issues a statement saying that the applications obtained correctly and submit to the Principal of the school which is first approved by the student who attend the school next 2024.
 
 ...
 
 [Data](articles/472118f6.json)
+
+[Extended Data](ext_articles/472118f6.ext.json)
 
 ---
 
@@ -72,23 +80,29 @@ The Feb. 8 election was marred by a mobile internet shutdown, arrests and violen
 
 ---
 
-### ஆளுநர் முஸம்மிலின் மகன் தலைமறைவு; பயணத்தடை விதிப்பு
+### The son of Governor MuzammilBaitness
 
 *2024-03-03 14:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளுநர்-முஸம்மிலின்-மகன்-தலைமறைவு-பயணத்தடை-விதிப்பு/175-334136) · `ta`
 
-இளம்பெண் ஒருவரை தாக்கி காயமேற்படுத்தியமை தொடர்பில் குற்றம் சாட்டப்பட்டுள்ள ஊவா மாகாண ஆளுநர் A.J.M.முஸம்மிலின் மகனுக்கு வெளிநாடு செல்வதற்கு  தடை விதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A.J.M. Muzammil's son banned from abroad for assaulting a teenager.
 
-ஊவா மாகாண ஆளுநர் A.J.M.முஸ்ஸம்மிலின் மகனால் யுவதி ஒருவர் தாக்கப்பட்டதாக வெள்ளவத்தை பொலிஸாருக்கு கிடைத்த முறைப்பாட்டிற்கு அமைய, இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-ஹெவ்லொக் பார்க் வீதியிலுள்ள வீடொன்றில் வசித்து வந்த யுவதி ஒருவரே தாக்குதலுக்கு இலக்காகியுள்ளார்.
+Uva Provincial Governor A.J.M. Muzammil's son has been banned from going abroad for allegedly assaulting and injuring a teenager, police said.
 
-குறித்த பெண் தாக்கப்பட்டமை தொடர்பில் வெள்ளவத்தை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டதையடுத்து, பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+The order has been issued on a complaint received by the Wellawatte police that a woman has been assaulted by the son of Uva Provincial Governor A.J.M. Musammil.
 
-இதன் பிரகாரம், ஊவா மாகாண ஆளுநர் A.J.M.முஸம்மிலின் மகனுக்கு  வெளிநாடு செல்வதற்கு  தடை விதிக்கப்பட்டுள்ளது. R
+A woman who lives in a house on Hevlok Park Road has been attacked.
+
+Police have launched investigations after a complaint was lodged at the Wellawatte police station.
+
+Accordingly, the governor of Uva Province A.J.M. Muzammil's son has been banned from going abroad. Remble
 
 ◼️
 
 [Data](articles/478328f1.json)
+
+[Extended Data](ext_articles/478328f1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 18:07:31**
+As of **2024-03-03 18:19:38**
 
 ## Newspaper Stats
 
-*Scraped **10,595** Articles*
+*Scraped **10,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,87 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 894
-adaderanalk | 1,292
+adaderanalk | 1,293
 tamilmirrorlk | 1,303
 virakesarilk | 1,422
-dailymirrorlk | 1,609
-adaderanasinhalalk | 1,640
+dailymirrorlk | 1,610
+adaderanasinhalalk | 1,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,594 (100.0%) of 10,595 articles have been extended.
+10,595 (100.0%) of 10,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### நாட்டில் நாளைய வெப்பமான காலநிலை தொடர்பில் எதிர்வுகூறல்!
+### President joins ’’Battle of the Maroons’’
+
+*2024-03-03 18:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-joins-Battle-of-the-Maroons/110-278137) · `en`
+
+President Ranil Wickremesinghe attended the 94th historic "Battle of the Maroons" cricket encounter between Ananda and Nalanda Colleges held today at the SSC ground in Colombo. Pererannual cricket encounter commemorates the esteemed "Late Dr. N.M. Perera Memorial Challenge Championship Trophy," with today marking the culmination of this year's two day encounter.
+
+◼️
+
+[Data](articles/07b041bd.json)
+
+---
+
+### ලොවම කැලඹුණු යුද ගැටුම් මැද ඇසුණු සුබ ආරංචිය
+
+*2024-03-03 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194083) · `si`
+
+ගාසා තීරයේ සටන් විරාමයක් සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා හමාස් සංවිධානයේ නියෝජිතයින් ඊජීප්තුවේ කයිරෝ නුවර වෙත පැමිණ තිබේ.
+
+ගාසා හි හමාස් සංවිධානයේ නියෝජ්‍ය ප්‍රධානී කලීල් අල් ‌හෙයියා ගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමක් මෙලෙස ඊජීප්තුවට පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+සටන් විරාමය පිළිබඳ සිදුකෙරෙන සාකච්ඡා සඳහා සහභාගී වන ඊශ්‍රායල නියෝජිත පිරිස ද කයිරෝ නුවර වෙත පැමිණීමට නියමිතව තිබේ.
+
+ඊශ්‍රායලය හා හමාස් සංවිධානය අතර ගාසා තීරයේ සටන් විරාමයක් ප්‍රකාශයට පත් කිරීම සම්බන්ධයෙන් වන සාකච්ඡා පාර්ශව කිහිපයක මැදිහත්වීමෙන් පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/27669e0e.json)
+
+---
+
+### මුහුද මැද ඇරඹුණු විරෝධතාවය
+
+*2024-03-03 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194082) · `si`
+
+ඉන්දීය ධීවරයින් මෙරට මුහුදු සීමාවේ සිදුකරන මත්ස්‍ය ජාවාරමට විරෝධය පළකරමින් මෙරට ධීවරයින් අද (03) ඉන්දියන් සාගරයේදී විරෝධතාවයක් ආරම්භ කර තිබේ.
+
+උතුරු පළාතේ ධීවරයින් විශාල පිරිසක් බෝට්ටු රැගෙන ගොස් මුහුද මැදදී කළු කොඩි ඔසවා මෙලෙස විරෝධතාවය සිදුකරමින් පවසා ඇත්තේ ඉන්දීය ධීවරයින් මෙරට මුහුදු සීමාවේ ධීවර කටයුතුවල නිරතවීම වහාම නතරකළ යුතු බවය.
+
+මෙම විරෝධතාවය සඳහා යාපනය, මුලතිව්, මන්නාරම, කිලිනොච්චිය දිස්ත්‍රික්කයන්හි ධීවර සංගම් නියෝජිතයින් විශාල පිරිසක් එක්ව තිබුණි.
+
+◼️
+
+[Data](articles/09849a37.json)
+
+---
+
+### In the country, tomorrow's hot climate
 
 *2024-03-03 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177820) · `ta`
 
-நாட்டின் பல பிரதேசங்களில் திங்கட்கிழமை (04) வெப்ப நிலையானது கவனம் செலுத்த வேண்டிய நிலைக்கு உயரும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of a hot climate tomorrow, focusing on Monday in many parts of the country. Health advice includes drinking water, resting in shade, and controlling severe functions.
 
-வடமேற்கு, மேற்கு மற்றும் தெற்கு, சப்ரகமுவ மாகாணங்கள் மற்றும் அநுராதபுரம் மற்றும் மன்னார் மாவட்டங்களில் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பம் கவனத்துக்குரிய அளவில் இருக்கும் என்று திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-போதுமான அளவு தண்ணீர் குடிப்பது, முடிந்தவரை நிழலான  இடங்களில் ஓய்வெடுப்பது, கடுமையான வெளிப்புறச் செயல்பாடுகளைக் கட்டுப்படுத்துவது போன்ற சுகாதார ஆலோசனைகளைப் பின்பற்றவும் மக்களுக்கு அறிவுறுத்தப்பட்டுள்ளது.
+The Department of Meteorology said that the heat standard would rise to the point of focusing on Monday (04) in many parts of the country.
+
+The department said that the human body's felt in some parts of the Northwest, West and South, Sabaragamuwa Provinces and Anuradhapura and Mannar districts will be considered.
+
+People are also advised to follow health advice such as drinking adequate water, resting in shadowy places as possible, and controlling severe external functions.
 
 ◼️
 
 [Data](articles/6803facb.json)
+
+[Extended Data](ext_articles/6803facb.ext.json)
 
 ---
 
@@ -659,6 +711,26 @@ Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estima
 [Data](articles/1b881bde.json)
 
 [Extended Data](ext_articles/1b881bde.ext.json)
+
+---
+
+### Three arrested with ‘Ice’ worth Rs. 100 mn during STF raid
+
+*2024-03-03 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97702/three-arrested-with-ice-worth-rs-100-mn-during-stf-raid-) · `en`
+
+Three persons were arrested with a stock of narcotics by the Police Special Task Force (STF), during a raid carried out in Kiribathgoda and Katunayake.
+
+Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estimated street value of around Rs. 100 million, were seized.
+
+According to police, a male suspect was arrested in the Kiribathgoda area after a stock of 05 kilograms of ‘Ice’ was found hidden in chocolate wrappers upon inspection of a luxury vehicle.
+
+Upon questioning this suspect, police uncovered that the said drug racket is being run by two notorious underworld figures known as ‘Nandasena’ and ‘Nipuna’, who are currently in Dubai.
+
+Police also obtained details on two houses in the Ganemulla and Wattala areas, allegedly belonging to one of the drug kingpins.
+
+...
+
+[Data](articles/c5a0e59c.json)
 
 ---
 
@@ -2187,71 +2259,5 @@ The evaluation process leading to Sampath Bank’s Runner Up position involved a
 [Data](articles/28d62c38.json)
 
 [Extended Data](ext_articles/28d62c38.ext.json)
-
----
-
-### Workshop on Procurement Planning by Open University’s Faculty of Management Studies
-
-*2024-03-03 01:32:00* · [`islandlk`](http://island.lk/workshop-on-procurement-planning-by-open-universitys-faculty-of-management-studies/) · `en`
-
-The Open University of Sri Lanka (OUSL) is a pioneering national university in Sri Lanka designed to provide education through open and distance learning methods. The Faculty of Management Studies of the Open University Sri Lanka has over 40 years of experience in offering a variety of programs including master’s programs, degree programs, certificate courses, diplomas and postgraduate degree programs.
-
-Recently, it launched a new postgraduate degree program, MSc in Public Procurement and Supply Chain Management. This program is for individuals seeking a postgraduate qualification in public procurement and supply chain management. A distinctive feature of this program is its status as the first postgraduate qualification offered in public procurement in Sri Lanka.
-
-...
-
-[Data](articles/e3810a33.json)
-
-[Extended Data](ext_articles/e3810a33.ext.json)
-
----
-
-### Early days – Herbert Cooray’s childhood in Kosgama and schooling in Colombo
-
-*2024-03-03 00:44:00* · [`islandlk`](http://island.lk/early-days-herbert-coorays-childhood-in-kosgama-and-schooling-in-colombo/) · `en`
-
-We begin today serializing the biography of Herbert Cooray, the founder of the Jetwing Group who earlier ran a successful business as a building contractor as had his father before him. The biography was written by Shiromal Cooray, his daughter, who with her brother, Hiran, now leads Jetwing.
-
-The history of the Jetwing family of companies is essentially the story of its founder, Herbert Cooray. It is the story of an unusual man who rose from modest, relatively obscure beginnings to establish what is today the largest independent business group in the Sri Lankan tourism industry. Such an achievement, significant in itself, appears more remarkable when we consider that it was achieved in the face of entrenched competition from established and long-standing hotel and travel firms that had made their reputations in the years when most traveled by sea, and cruise ships such as P&O’s famous Canberra were regular visitors to the Colombo Harbour.
-
-...
-
-[Data](articles/43bbce45.json)
-
-[Extended Data](ext_articles/43bbce45.ext.json)
-
----
-
-### Lorenz and old Matara
-
-*2024-03-03 00:30:00* · [`islandlk`](http://island.lk/lorenz-and-old-matara/) · `en`
-
-“Home interprets heaven. Home is heaven for beginners.”—  Charles Henry Parkhurst
-
-From his humble beginnings in Matara to being the most popular man of his day, Charles Ambrose Lorenz lived and owned several houses. Each of these homes has been of some historical significance. Some places and cities acquire considerable importance when celebrated personalities live there or are linked with them. Nazareth might not have been as well known if Christ was not ‘Jesus of Nazareth’. Likewise, some obscure places received unprecedented recognition when people of repute hail from such places.
-
-...
-
-[Data](articles/b60c9e57.json)
-
-[Extended Data](ext_articles/b60c9e57.ext.json)
-
----
-
-### Suspect transporting pills near school zone arrested
-
-*2024-03-03 00:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-transporting-pills-near-school-zone-arrested/108-278118) · `en`
-
-Colombo, March 02 (Daily Mirror)-  The Police Special Task Force apprehended an individual in the Kalubowila area, who was allegedly transporting 1,000 narcotic pills on a motorcycle, with apparent intentions of targeting school children.
-
-The suspect, identified as a 23-year-old resident of Kalubowila, was taken into custody.
-
-Subsequently, the suspect has been transferred to the Kohuwala police for further investigations.
-
-◼️
-
-[Data](articles/96c0c775.json)
-
-[Extended Data](ext_articles/96c0c775.ext.json)
 
 ---

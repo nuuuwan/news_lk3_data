@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 02:17:50**
+As of **2024-03-04 02:33:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,660 (100.0%) of 10,661 articles have been extended.
+10,661 (100.0%) of 10,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1161,6 +1161,8 @@ President Ranil Wickremesinghe’s tenure will be over by November 2024. Constit
 ...
 
 [Data](articles/737c38b1.json)
+
+[Extended Data](ext_articles/737c38b1.ext.json)
 
 ---
 

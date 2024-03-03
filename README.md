@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 08:03:01**
+As of **2024-03-03 08:17:38**
 
 ## Newspaper Stats
 
-*Scraped **10,509** Articles*
+*Scraped **10,511** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 100
-bbccomsinhala | 125
+bbccomsinhala | 126
 dbsjeyarajcom | 171
 newsfirstlk | 363
 economynextcom | 543
@@ -19,68 +19,106 @@ adalk | 884
 adaderanalk | 1,282
 tamilmirrorlk | 1,283
 virakesarilk | 1,416
-dailymirrorlk | 1,589
+dailymirrorlk | 1,590
 adaderanasinhalalk | 1,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,504 (100.0%) of 10,509 articles have been extended.
+10,509 (100.0%) of 10,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### අල්ලස් නඩුව ගැන විමල් කට අරී
+### Wimal for bribery case
 
 *2024-03-03 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194064) · `si`
 
-තමාට එරෙහි අල්ලස් නඩුවට ඉදිරියේ දී පෙනී සිටින බව ‍විමල් වීරවංශ මන්ත්‍රීවරයා පවසයි.
+Mr. Wimal Weerawansa, accused in a bribery case, appeared in court. The pre-trial seminar was delayed due to a period in the Colombo High Court. A medical report showed the accused had fever, vomiting, and diarrhea. Weerawansa, an MP, claimed he is now free.
 
-ඔහුට එරෙහි ව කොළඹ මහාධිකරණයේ පවතින නඩු විභාගය සඳහා අසනීප තත්ත්වයක් බව සඳහන් කරමින් වරින් වර පෙනී නොසිටීම හේතුවෙන් පූර්ව නඩු විභාග සම්මන්ත්‍රණය අවසන් කර ගැනීමට නොහැකි වී ඇති බවට අල්ලස් කොමිසම අධිකරණයට දැනුම් දී තිබිණි.
+🟩
 
-පසුගිය සිකුරාදා පැවති නඩු විභාගයට ද විත්තිකාර මන්ත්‍රිවරයා උණ, වමනය හා පාචනය ආදී රෝගී තත්ත්වයන්ගෙන් පෙළෙන බව සඳහන් වෛද්‍ය වාර්තාවක් ඉදිරිපත් කර තිබිණි.
+Mr. Wimal Weerawansa says he appears in the bribery case against him.
 
-පාදුක්ක ප්‍රදේශයේ දී මාධ්‍යවේදීන් විමල් වීරවංශ මන්ත්‍රීවරයාගෙන් මේ සම්බන්ධයෙන් කළ විමසීමක දී ඔහු ප්‍රකාශ කළේ, තමා මේ වන විට සුවෙන් පසු වන බවයි.
+The Bribery Commission had informed the court that the pre-trial seminar was not able to complete the preceding trial seminar due to a period of time in the Colombo High Court.
+
+A medical report on the trial last Friday was also presented a medical report that the accused was suited with fever, vomiting and diarrhea.
+
+When journalists Wimal Weerawansa in the Padukka, the MP, he stated that he is now free.
 
 ◼️
 
 [Data](articles/3de75dbd.json)
 
+[Extended Data](ext_articles/3de75dbd.ext.json)
+
 ---
 
-### සියලු පාසල් සුහුරු පාසල් කරන බවට සජිත්ගෙන් පොරොන්දුවක්
+### Price of rice and curry, kottu, milk tea, plain tea, fried rice increased
+
+*2024-03-03 07:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-rice-and-curry-kottu-milk-tea-plain-tea-fried-rice-increased/108-278120) · `en`
+
+In light of the substantial increase in food production costs, the All-Ceylon Restaurant Owners’ Association (ACROA) has announced price hikes for Kottu, Fried Rice, and a cup of milk tea and plain tea, effective from last night.
+
+Accordingly, the price of a cup of plain tea has been increased by Rs. 5 and a cup of milk tea by Rs. 10.
+
+The price of a packet of rice and curry will be increased by Rs. 25.
+
+The price of a packet of Kottu and Fried Rice will be increased by Rs. 50 each.
+
+If there are decreases in consumer goods prices, they are prepared to offer corresponding concessions to the public, the association said.
+
+◼️
+
+[Data](articles/bd6c5bdb.json)
+
+---
+
+### Sajith promises that all schools are doing well
 
 *2024-03-03 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194063) · `si`
 
-තමා ජනාධිපතිවරයා බවට පත්වුව හොත් රටේ සියලු පාසල් සුහුරු පාසල් බවට පරිවර්තනය කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa promises to transform all schools into organizations if elected president, aiming for a positive revolution in education.
 
-ඔහු ප්‍රකාශ කළේ, ජනතාව මේ වසරේ දී නිවැරදි තීන්දුව ගනු ලැබුව හොත් සමගි ජන බලවේගය මෙරට අධ්‍යාපනයේ සාධනීය විප්ලවයක් ඇති කරන බවයි.
+🟩
 
-තිස්සමහාරාම - තෙළුල්ල කනිෂ්ඨ විද්‍යාලයේ පැවති උත්සවයකට එක්වෙමින් සජිත් ප්‍රේමදාස මහතා මේ බව සඳහන් කළේ ය.
+Opposition Leader Sajith Premadasa says that if he is the president, all schools in the country will be transformed into organizations.
+
+He said that if the people made the right decision this year, the reconciliation force will create a positive revolution in education in the country.
+
+Sajith Premadasa made this observation at a function held at the Tissamaharama-Tilwella Kanark College.
 
 ◼️
 
 [Data](articles/4ab86350.json)
 
+[Extended Data](ext_articles/4ab86350.ext.json)
+
 ---
 
-### මතගැටුමක් ගැන පොලිස්පති කියයි
+### Inspector General of Sigration
 
 *2024-03-03 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194062) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් ඇතිකර ඇති පීඩනය හේතුවෙන් වර්තමානයේ මත්ද්‍රව්‍ය ජවාරාම්කරුවන් සහ කණ්ඩායම් අතර දරුණු මතගැටුම් නිර්මාණය වී ඇති බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+Inspector General of Sigration, IGP Desaster Tennakoon, reported a severe conflict between drug groups and increased drug-related violence. He also announced a new rehabilitation program for drug addicts starting March 15.
 
-ඔහු ප්‍රකාශ කළේ, මේ හේතුවෙන් ඔවුන් අතර සිදු වන වෙඩි තැබීම් සහ මනුෂ්‍ය ඝාතනවල ද ඉහළ යාමක් මේ වන විට සිදු ව ඇති බවයි.
+🟩
 
-ඊයේ (02) පස්වරුවේ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අනුරාධපුරය අටමස්ථානය වැදපුදා ගැනීමෙන් අනතුරු ව මාධ්‍යය වෙත අදහස් දක්වමින් මේ බව කියා සිටියේ ය.
+IGP Desaster Tennakoon said that there is a severe disagreement between drugs and groups due to pressure regarding drug trafficking.
 
-මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් පුනරුත්ථාපනය සම්බන්ධයෙන් මාර්තු 15 වැනි දා සිට නව වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බව ද පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කර තිබේ.
+He stated that a result of the shootings and human possession of them have been increased.
+
+The IGP Deshabandu Tennakoon yesterday stated this, commentsing the media in the country after the worshiper of the country.
+
+IGP Deshabandu Tennakoon has stated that a new program is being implemented from March 15 regarding the rehabilitation of drug addicts.
 
 ◼️
 
 [Data](articles/d97e4c4a.json)
+
+[Extended Data](ext_articles/d97e4c4a.ext.json)
 
 ---
 
@@ -130,19 +168,25 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### வீட்டின் சுவர் வீழ்ந்து இளைஞன் உயிரிழப்பு
+### Young man dies
 
 *2024-03-03 03:39:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-சுவர்-வீழ்ந்து-இளைஞன்-உயிரிழப்பு/175-334112) · `ta`
 
-புத்தளம், உடப்பு பொலிஸ் பிரிவுக்குட்பட்ட ஆண்டிமுனைக் கிராமத்தில் வீட்டின் சுவர் வீழ்ந்து இளைஞன் ஒருவர் உயிரிழந்துள்ளார் என்று பொலிஸார் தெரிவித்துள்ளனர்.
+A 5th region youth, Muttuchelvam Dhanujan, died after a wall fell on him in Antimunai village, Udappu police division, Puttalam.
 
-உடப்பு, 5ஆம் வட்டாரத்தைச் சேர்ந்த 18 வாயதுடைய முத்துச்செல்வம் தனுஜன் எனும் இளைஞனே இந்த விபத்தில் உயிரிழந்துள்ளார்.
+🟩
 
-ஆண்டிமுனைக் கிராமத்தில் உடைக்கப்பட்ட வீடொன்றின் பகுதியளவில் காணப்பட்ட சுவற்றின் அருகில் நின்று கொண்டிருந்த இளைஞன் மீது சுவரின் ஒரு பகுதி திடீரென வீழ்ந்துள்ளது என்று தெரிவிக்கப்படுகின்றது. (a)
+A youth has died after falling into the wall of the house in the village of Antimunai belonging to the Udappu police division of Puttalam, police said.
+
+Udappu, a young man named Muttuchelvam Dhanujan, a 5th region of the area, died in the accident.
+
+It is reported that part of the wall suddenly fell on a young man standing near the wall of a broken house in the village of Andimunai.. (A)
 
 ◼️
 
 [Data](articles/ac216291.json)
+
+[Extended Data](ext_articles/ac216291.ext.json)
 
 ---
 
@@ -211,6 +255,26 @@ This is due to the fall in agricultural and garment export income, the Central B
 [Data](articles/c6e866f3.json)
 
 [Extended Data](ext_articles/c6e866f3.ext.json)
+
+---
+
+### ලෝක වනජීවී දිනය : ශ්‍රී ලංකාවේ 'වනජීවී තරු හත' ඔබ හඳුනනවා ද?
+
+*2024-03-03 02:04:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg9wemy7ngo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ඉතා ඉහළ ජෛව විවිධත්වයක් ඇති ශ්‍රී ලංකාවේ ප්‍රමුඛ වනසත්ත්ව විශේෂ 07ක් (Top Seven Wild Sri Lanka) වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව පසුගිය කාලයේ ප්‍රකාශයට පත්කර තිබේ.
+
+ලෝක වනජීවී දිනය : ශ්‍රී ලංකාවේ 'වනජීවී තරු හත' ඔබ හඳුනනවා ද?
+
+වනසතුන් ගැන තොරතුරු බෙදා ගැනීමට සහ උන් සංරක්ෂණය ගැන අද බොහෝ දෙන අවදානය යොමු කරති.
+
+ඉතා ඉහළ ජෛව විවිධත්වයක් ඇති ශ්‍රී ලංකාවේ ප්‍රමුඛ වනසත්ත්ව විශේෂ 07ක් (Top Seven Wild Sri Lanka) වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව පසුගිය කාලයේ ප්‍රකාශයට පත්කර තිබේ.
+
+එම 'වනජීවී තරු හත' ඔබ හඳුනනවා ද? ක්ෂීරපායි විශේෂ හතරක්, උරග විශේෂ දෙකක් සහ එක් කුරුලු විශේෂයක් ඊට ඇතුළත් වේ.
+
+◼️
+
+[Data](articles/72f8c49e.json)
 
 ---
 
@@ -435,6 +499,8 @@ Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary
 ...
 
 [Data](articles/903055be.json)
+
+[Extended Data](ext_articles/903055be.ext.json)
 
 ---
 
@@ -2143,45 +2209,5 @@ A 42-year-old person has been arrested in connection with the incident and has b
 [Data](articles/24ed0a49.json)
 
 [Extended Data](ext_articles/24ed0a49.ext.json)
-
----
-
-### Targets targeted against those involved in massive human rights violations in Sri Lanka - Human Rights Commissioner Request
-
-*2024-03-02 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177725) · `ta`
-
-The United Nations Human Rights Commissioner Volcher Turk has called for targeted action against those convicted of human rights violations in Sri Lanka. The Sri Lankan government has been urged to investigate past and current human rights abuses, including economic crimes, and take responsibility for filing cases against violators.
-
-🟩
-
-United Nations Human Rights Commissioner Volcher Turk has appealed to the targeted action against those who are convicted of massive human rights violations and human rights abuses in Sri Lanka.
-
-The Sri Lankan government has urged the Sri Lankan government to investigate the current human rights violations of the past and take investigation into economic crimes and take the credible responsibility for filing cases and take action against human rights violations in Sri Lanka as the members of the Human Rights Council member of the Human Rights Council.He has also appealed.
-
-◼️
-
-[Data](articles/ed9191bc.json)
-
-[Extended Data](ext_articles/ed9191bc.ext.json)
-
----
-
-### Russian Naval Ship Varyag docks in Colombo
-
-*2024-03-02 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-Naval-Ship-Varyag-docks-in-Colombo/108-278110) · `en`
-
-Colombo, March 2, (Daily Mirror) The Russian Naval Ship Varyag arrived at the port of Colombo on a formal visit.
-
-The 187m long ship is a Missile Cruiser manned by a crew of 529. The Flag Officer of the ship is Captain 1st Rank Velichko Anatoly Vasicievich and Captain 2nd Rank  Glushakov Roman Nikolaevich serves as the Commanding Officer.
-
-During their stay in Sri Lanka, the crew members of the ship are expected to take part in several programmes organised by the Sri Lanka Navy, with a view to promote camaraderie and visit some of the tourist attractions in the country.
-
-Concluding the official visit, Varyag will depart the island tomorrow.
-
-◼️
-
-[Data](articles/c5bc9175.json)
-
-[Extended Data](ext_articles/c5bc9175.ext.json)
 
 ---

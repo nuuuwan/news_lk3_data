@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 20:50:20**
+As of **2024-03-03 21:02:40**
 
 ## Newspaper Stats
 
-*Scraped **10,617** Articles*
+*Scraped **10,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,90 @@ newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 897
+adalk | 899
 adaderanalk | 1,295
 tamilmirrorlk | 1,305
 virakesarilk | 1,426
 dailymirrorlk | 1,611
-adaderanasinhalalk | 1,647
+adaderanasinhalalk | 1,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,614 (100.0%) of 10,617 articles have been extended.
+10,617 (100.0%) of 10,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### ජනපතිගෙන් අලුත් කැබිනට්ටුවක්
+### කොළඹ රත්කළ මහ රෑ පුංචි යුද පිටිය CCTV කැමරාවේ
+
+*2024-03-03 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194089) · `si`
+
+කොළඹ ආමර්වීදිය ප්‍රදේශයේ හෝටලයකට අද (03) අලුයම ඇතුළුවූ පිරිසක් කඩු, මුගුරුවලින් හෝටලයේ දේපළවලට හානිකර එහි සේවකයින්ටද තුවාල කර තිබුණි.
+
+හෝටලයේ භුක්තිය සම්බන්ධයෙන් අයිතිකරු සහ කුලීකරුවන් අතර ඇතිවූ මතභේදාත්මක තත්ත්වයක් පහරදීමට හේතුවී ඇති බව පොලීසිය පවසයි.
+
+අලුයම 12.29 ට අදාළ ආයුධ සන්නද්ධ පිරිස හෝටලයට ඇතුලුවන ආකාරය අසළ තිබූ CCTV කැමරාවක සටහන්ව තිබුණි.
+
+පිරිස හෝටලයේ දේපළවලට පහරදෙන අවස්ථාවේ එහි ආහාර ගනිමින් සිටී පිරිස කලබලවී පිටතට ගමන් කරන අයුරුද  CCTV කැමරා දර්ශනවල සටහන්ව ඇත.
+
+◼️
+
+[Data](articles/e6d515ba.json)
+
+---
+
+### President a new cabinet from President
 
 *2024-03-03 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194088) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනපතිවරණ මෙහෙයුම වෙනුවෙන් දේශපාලන කැබිනට්ටුවක් පත්කර ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+President Ranil Wickremesinghe has appointed a political cabinet for the Presidential Secretariat, including Sagala Ratnayake and Mahindananda Aluthgamage. A special committee for election plans was also nominated, meeting weekly.
 
-ඊට සමගාමීව මැතිවරණ සැලසුම් මෙහෙයවීම සඳහා විශේෂ කමිටුවක්ද නම් කර තිබේ.
+🟩
 
-මෙලෙස පත්කර ඇති දේශපාලන කැබිනට්ටුව ඉකුත් සඳුදා රාත්‍රියේ රැස්ව ඇතැයි රජයේ අභ්‍යන්තර ආරංචි මාර්ග පවසයි.
+Political sources say that President Ranil Wickremesinghe has appointed a political cabinet for the Presidential Secretariat.
 
-ඊට කැබිනට් මණ්ඩලයට ඇතුළත් නොවූ ජනපති කාර්යමණ්ඩල ප්‍රධානී සාගල රත්නායක සහ පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ යන මහත්වරුන්ද ඇතුළත් බව වාර්තාවෙයි.
+Simultaneously, a special committee has been nominated for the operation of election plans.
 
-මීට සමගාමීව මැතිවරණ සැලසුම් මෙහෙයවීම සඳහා ප්‍රසන්න රණතුංග, ටිරාන් අලස්, හරීන් ප්‍රනාන්දු, මනූෂ නානායක්කාර යන අමාත්‍යවරුන් සහ නිමල් ලන්සා, මහින්දානන්ද අලුත්ගමගේ යන මන්ත්‍රීවරුන්ගෙන් සමන්විත කමිටුවක්ද පත්කර ඇතැයි වාර්තාවෙයි.
+The political cabinet has met on Monday night, government sources say.
 
-එම කමිටුව ඉකුත් බදාදා රැස්ව ඇති අතර ඉදිරියේදී සෑම සතියකට වරක්ම රැස්වීමට නියමිත බවත් දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+It is also reported that Presidential Chief of Staff Sagala Ratnayake and Parliamentarian Mahindananda Aluthgamage are also included in the cabinet.
+
+It is also reported that there was also a committee comprising of Prasan Fernando, Harin Fernando, Manusha Nanayakkara, Mahindasha Nanayakkara, Mahindasha Nanayakkara, Mahindasha Nanayakkara and Mahinda Nanayakkara.
+
+According to political sources, the committee met on Wednesday and every week will be met every week.
 
 ◼️
 
 [Data](articles/3053b1ed.json)
 
+[Extended Data](ext_articles/3053b1ed.ext.json)
+
 ---
 
-### விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்காகக் கீழ்மட்டத்திலிருந்து செயற்படுத்தக்கூடிய தேசிய வேலைத்திட்டமொன்றைத் தயாரிக்குமாறு ஜனாதிபதி அறிவுறுத்தல்
+### The President's instructions to prepare a national program that can be implemented from the lower level in order to succeed in the agricultural modernization program
 
 *2024-03-03 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177826) · `ta`
 
-விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்கு அரச மற்றும் தனியார் துறைகளில் உள்ள அனைத்து தரப்பினரையும் இணைத்து தேசிய வேலைத்திட்டமொன்றைத் தயாரிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க உரிய அதிகாரிகளுக்குப் பணிப்புரை வழங்கியுள்ளார்.
+President Ranil Wickremesinghe directs authorities to develop a national agricultural modernization program, emphasizing collaboration between state and private sectors. The initiative aims to overcome implementation challenges through a Joint Program involving all stakeholders. Senior Professor Gamini Senanayake highlights the progress and need for a cabinet subcommittee to address obstacles.
 
-வரவு செலவுத் திட்டத்தில் தேசிய, மாகாண மற்றும் உள்ளூராட்சி மட்டங்களில் வருடாந்த ஒதுக்கீடுகள் மேற்கொள்ளப்பட்டாலும், அரச மற்றும் தனியார் நிறுவனங்கள் தனித்தனியாகச் செயற்படுவதால், எதிர்பார்த்த முடிவுகள் தாமதமடைவதாகக் குறிப்பிட்டுள்ள ஜனாதிபதி, இந்தத் திட்டங்களைச் செயற்படுத்துவதில் எதிர்கொள்ளும் சவால்களை வெற்றி கொள்வதற்காக அரச மற்றும் தனியார் விவசாய ஆய்வு நிறுவனங்கள் மற்றும் பல்கலைக்கழகக் கட்டமைப்பின் ஆதரவைப் பெறுவதன் முக்கியத்துவத்தையும் வலியுறுத்தினார்.
+🟩
 
-அண்மையில் ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முன்னேற்ற மீளாய்வுக் கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க இந்தக் கருத்துக்களை வெளியிட்டார்.
+President Ranil Wickremesinghe has issued a directive to the relevant authorities to combine all parties in the state and private sector to prepare a national program to implement the agricultural modernization program.
+
+The President stressed the importance of the support of the state and private agricultural research institutions and the university structure to win the challenges faced by the implementation of these projects, even though the annual allocation of the budget is being made at national, provincial and local government levels, as state and private companies are acting separately.
+
+President Ranil Wickremesinghe made these comments at a recent meeting of the Agricultural Modernization Program held at the Presidential Office.
+
+President Ranil Wickremesinghe pointed out the need to prepare this national program in order to implement the policies of the government at the lower level.
 
 ...
 
 [Data](articles/0cbdf513.json)
+
+[Extended Data](ext_articles/0cbdf513.ext.json)
 
 ---
 
@@ -87,6 +119,24 @@ In a gesture of goodwill, a meticulously compiled book showcasing the Bohra comm
 ◼️
 
 [Data](articles/ef0786c3.json)
+
+[Extended Data](ext_articles/ef0786c3.ext.json)
+
+---
+
+### ශ්‍රී ලන්කන් ගුවන් යානා 8ක් ඉවත් කර ඇතත් රු.මි. 5646ක් කුලී ගෙවලා
+
+*2024-03-03 20:05:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-8ක්-ඉවත්-කර-ඇතත්-රු-මි--5646ක්-කුලී-ගෙවලා/11-408400) · `si`
+
+ශ්‍රී ලංකන් ගුවන් සමාගමට අයත් ගුවන්යානා 08ක් 2023 වර්ෂයේ පෙබරවාරි මස සිට ක්‍රියාවිරහිතව භාවිතයෙන් ඉවත් කොට තිබුණද, එම ගුවන්යානා සඳහා බදු කුලී ලෙස රුපියල් මිලියන 5,646.76ක මුදලක් ගුවන් සමාගම විසින් ගෙවා තිබූ බව ජාතික විගණන කාර්යාලය මගින් මාර්තු 01වන දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+ගුවන් සමාගමට අවශ්‍ය ගුවන්යානා සංඛ්‍යාව 27කි. දැනට සමාගම සතුව ඇති ගුවන්යානා සංඛ්‍යාව 24කි. මින් ගුවන්යානා 08ක් 2023-02-20 වන දින විට ක්‍රියාවිරහිතව භාවිතයෙන් ඉවත් කොට තිබූ බව එම විගණන වාර්තාවේ සඳහන්වේ. භාවිතයෙන් ඉවත්කොට ඇති මෙම ගුවන්යානා සඳහා 2021 වර්ෂයේ සිට 2023-02-20 දක්වා කාලය තුළ බදු කුලී ලෙස රුපියල්  මිලියන 5,646.76ක මුදලක් ගුවන් සමාගම විසින් ගෙවා තිබුණි.
+
+මෙම ගුවන්යානා අක්‍රිය වී ඇත්තේ ගුවන්යානාවල ඇති එන්ජින්දෝෂ හේතුවෙන් බවද විගණන වාර්තාවේ සඳහන් වේ. ශ්‍රී ලංකන් ගුවන් සමාගම විසින් දැනට මෙහෙයුම් කටයුතු සිදු කරන ගුවන්යානා සංඛ්‍යාව 18ක් බවද සඳහන්වේ. මේ නිසා ගුවන් ගමන් සැලසුම්කරණයට බාධා එල්ල වී ඇති බව ගුවන් සමාගම මගින් විගණනයට සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/704284db.json)
 
 ---
 
@@ -155,6 +205,26 @@ A woman has been admitted to the hospital after a motorcycle and auto collided h
 [Data](articles/26e1e217.json)
 
 [Extended Data](ext_articles/26e1e217.ext.json)
+
+---
+
+### 2024 පාසල් වාර සටහන සංශෝධනය වෙයි
+
+*2024-03-03 19:07:18* · [`adalk`](https://www.ada.lk/breaking_news/2024-පාසල්-වාර-සටහන-සංශෝධනය-වෙයි/11-408398) · `si`
+
+අ.පො.ස.සාමාන්‍ය පෙළ ,5 ශිෂ්‍යත්ව හා උසස් පෙළ විභාග දින නියමවීමත් සමග අධ්‍යාපන අමාත්‍යාංශය මගින්  2024 වර්ෂයේ පාසල් වාර සටහන සංශෝධනය කර තිබේ.
+
+ඒ අනුව සිංහල හා දෙමළ මාධ්‍ය පාසල් සඳහා මෙම වසරේ   පෙබරවාරි මස 19 වනදා ආරම්භ වු පළමු පාසල් වාරයේ පළමු අදියර පෙර පරිදිම අප්‍රේල් මස 10 වනදා දක්වාද දෙවන අදියර  පෙර පරිදිම අප්‍රේල් මස 24 වනදා සිට මැයි මස 03වනදා දක්වා ක්‍රියාත්මක වේ.
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මැයි 06 දා සිට මැයි 15 දක්වා පැවැත්වීමෙන් පසු  ආරම්භ වන පළමු පාසල් වාරයේ තෙවන අදියර මැයි මස 20 වනදා සිට මැයි මස 31 වනදා දක්වා පැවැත්වේ.
+
+දෙවන පාසල් වාරය ජුනි මස 03 වනදා සිට අගෝස්තු මස 16 වනදා දක්වා ක්‍රියාත්මක වේ.
+
+තෙවන පාසල් වාරයේ පළමු අදියර අගෝස්තු මස 26 වනදා සිට නොවැම්බර් මස 22 වනදා දක්වා පැවැත්වෙන අතර උසස් පෙළ විභාගය නොවැම්බර් 25 සිට දෙසැම්බර් 20 දක්වා පැවැත්වීමෙන් පසු   තෙවන පාසල් වාරයේ දෙවන අදියර 2025 වසරේ ජනවාරි මස 02 සිට එම මස 17 දක්වා පැවැත්වේ.
+
+...
+
+[Data](articles/a0c199f1.json)
 
 ---
 
@@ -2203,85 +2273,5 @@ Commenting on the launch of the new destination, Managing Director of Maldivian 
 [Data](articles/ea559d82.json)
 
 [Extended Data](ext_articles/ea559d82.ext.json)
-
----
-
-### Showers expected in several districts
-
-*2024-03-03 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97696/showers-expected-in-several-districts) · `en`
-
-Showers or thundershowers may occur at a few places in Kalutara, Ratnapura, Nuwara-Eliya, Galle and Matara districts in the evening or night, according to the Meteorology Department.
-
-Mainly dry weather will prevail elsewhere in the island, it said.
-
-The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0a168597.json)
-
-[Extended Data](ext_articles/0a168597.ext.json)
-
----
-
-### There is a dry weather in the country
-
-*2024-03-03 08:16:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-வறட்சியான-காலநிலை-காணப்படும்/175-334114) · `ta`
-
-Dry weather across the country, with increased temperatures in several provinces. Chance of rain or thunderstorms in the evening in Galle, Matara, Kalutara, Ratnapura, and Nuwara Eliya. Public advised to be vigilant with strong winds and lightning. Showers or thunderstorms likely in coastal sea regions from Kalutara to Matara, with winds reaching 40-45 km/h in some areas.
-
-🟩
-
-The Department of Meteorology said that increased temperatures will be seen today in Sabaragamuwa, Upper, North Western, Southern and Eastern Provinces as well as Mannar district.
-
-There is a chance of rain or thunderstorm in the evening or night in some areas of Galle, Matara, Kalutara, Ratnapura and Nuwara Eliya districts.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Showers or thunderstorms are likely to occur in some parts of the sea regions along the coast of Kalutara to Matara.
-
-Winds from the northeast at 20 - 30 km / h in the sea regions.
-
-From Colombo to Puttalam to Kankesanthurai as well as in the sea regions from Matara to Hambantota, the winds may increase at speeds of 40 to 45 km per hour.
-
-◼️
-
-[Data](articles/3a06b927.json)
-
-[Extended Data](ext_articles/3a06b927.ext.json)
-
----
-
-### Two mysterious deaths
-
-*2024-03-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194065) · `si`
-
-Two mysterious deaths in Panwewa and Negombo-Purachhouda Polonian. In Panwewa, a 35-year-old man died in a pit, and in Negombo-Purachhouda, an unidentified man aged 60-70, 5 feet tall, dressed in blue, was found. Causes of death are under investigation.
-
-🟩
-
-A person in Panwewa - a person in Panwewa area has died in a pit.
-
-The investigations have been launched on information received by the Nochchiyagama Police yesterday (02).
-
-The deceased has been identified as 35 year old resident of Nochchiyagama.
-
-The victim had left the house saying he was on the paddy field in the evening.
-
-The victim's wife has lodged a complaint lodged by the deceased's wife to the Nochchiyagama Police Station.
-
-The cause of death is yet to be ascertained and the Nochchiyagama Police are conducting further investigations.
-
-Meanwhile, a body of an unidentified man has been found in the Negombo-Purachhouda Polonian.
-
-The identity of the deceased has not yet been established, and he has a common body with a common body, which is between 60 and 70 years old, aged at least 5 feet.
-
-The police states that he has dressed in blue and teacher's batik and teachers' sleek shirt.
-
-◼️
-
-[Data](articles/636b25f3.json)
-
-[Extended Data](ext_articles/636b25f3.ext.json)
 
 ---

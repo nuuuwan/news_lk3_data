@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 22:33:05**
+As of **2024-03-03 22:49:37**
 
 ## Newspaper Stats
 
-*Scraped **10,633** Articles*
+*Scraped **10,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 899
-adaderanalk | 1,299
+adaderanalk | 1,300
 tamilmirrorlk | 1,306
 virakesarilk | 1,428
 dailymirrorlk | 1,614
@@ -26,49 +26,87 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,630 (100.0%) of 10,633 articles have been extended.
+10,633 (100.0%) of 10,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### சாந்தனின் புகழுடலுக்கு அவரது சகோதரி ஆரத்தி எடுத்து வரவேற்றார்
+### Sri Lankan fishermen protest against Indian counterparts for alleged poaching
 
-*2024-03-03 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177828) · `ta`
+*2024-03-03 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97710/sri-lankan-fishermen-protest-against-indian-counterparts-for-alleged-poaching) · `en`
 
-ராஜீவ் காந்தி கொலை வழக்கில் விடுதலை செய்யப்பட்ட சாந்தனுடைய புகழுடல் உடுப்பிட்டியில் உள்ள அவரது சகோதரியின் வீட்டிற்கு ஆரத்தி எடுத்து கொண்டுவரப்பட்டது.
+Hundreds of Sri Lankan fishermen on Sunday protested against their Indian counterparts for their alleged poaching in the island nation’s waters by sailing to the International Maritime Boundary Line (IMBL) in their trawlers.
 
-இதன்போது அனைவரது நெஞ்சையும் கணக்கவைக்கும் வகையில், “அண்ணா வாறார் யாரும் அழ வேண்டாம்” என கூறிய சாந்தனுடைய சகோதரி ஆரத்தி எடுத்து வரவேற்றார்.
+The fishermen from Jaffna, Mullaitivu, and Mannar districts are agitated by the alleged recurring illegal fishing by their counterparts from India.
 
-இதன்போது கனத்த இதயத்துடன் யாரும் அழாது இருந்த நிலையில் ஒம் நமசிவாய சொல்லி ஆரத்தி எடுக்கப்பட்டது.
+They urged the authorities to stop the Indian fishermen from coming to Sri Lankan waters and vowed stronger protests in the future if the situation remained unchecked.
 
-மறைந்த தில்லையம்பலம் சுதேந்திரராஜாவின் (சாந்தன்) புகழுடல் ஊர்தி யாழ்ப்பாணம் வடமராட்சியை வந்தடைந்து நெல்லியடி மற்றும் தீருவிலில் அஞ்சலிக்காக வைக்கப்பட்டது.
+In recent months, the fisher organisations have led several protests, including organising a protest opposite the Indian consulate in Jaffna.
 
-வவுனியாவில் இன்று காலை 8மணியளவில் மக்கள் அஞ்சலிக்கு வைக்கப்பட்ட சாந்தனின் புகழுடல் ஊர்தி ஏ9 வீதி ஊடாக மாங்குளம் – கிளிநொச்சி ஊடாக நகர்ந்து அஞ்சலிக்கு வைக்கப்பட்டு யாழ்ப்பாணத்திற்கு எடுத்துவரப்பட்டது.
-
-இந்திய முன்னாள் பிரதமா் ராஜிவ் காந்தி கொலை வழக்கில் தண்டனை பெற்று விடுவிக்கப்பட்ட சாந்தன், திருச்சியில் உள்ள சிறப்பு முகாமில் தடுத்து வைக்கப்பட்ட நிலையில் சென்னை ராஜிவ் காந்தி அரசு மருத்துவமனையில் கடந்த 28ம் திகதி மாரடைப்பு காரணமாக உயிரிழந்தார்.
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Sri Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
 
 ...
 
-[Data](articles/bbada3d4.json)
+[Data](articles/e6ac15dc.json)
 
 ---
 
-### அண்ணனின் பூதவுடலை ஆரத்தி எடுத்து பெற்றுக் கொண்ட தங்கை
+### Her sister Arathi was welcomed for Shantan's fame
+
+*2024-03-03 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177828) · `ta`
+
+Arathi, Shantan's sister, welcomed for his fame in the Rajiv Gandhi assassination case, greeted with "Anna Warar should not cry." Shantan, sentenced to death, was moved from Vavuniya to Jaffna. His family awaited his visit, and after the funeral, a commemoration will be held at the community center.
+
+🟩
+
+Shantan's fame, who was released in the Rajiv Gandhi assassination case, was brought to his sister's house in Udupitiya.
+
+Santhan's sister, Arathi, greeted, saying, "Anna Warar should not cry."
+
+At this time, with a heavy heart, no one was crying.
+
+The late Thillaiyambalam Sudhendraraja (Shantan) was placed in Jaffna Vadamarachchi and placed in Nelliyadi and Deewil.
+
+In Vavuniya this morning, Shantan's fame, which was placed in Anjali, was moved to Jaffna through the A9 road, Mangulam - Kilinochchi.
+
+Shantan, who was sentenced to death in the murder of former Indian Prime Minister Rajiv Gandhi, was detained at a special camp in Trichy.
+
+It is noteworthy that his family was waiting for Santhan's visit and eventually brought home.
+
+Once the funeral is completed, the seed will be taken and the commemoration will be held at the community center in the town.
+
+The final pilgrimage begins after the Vidal Santhan's brother's native home.
+
+◼️
+
+[Data](articles/bbada3d4.json)
+
+[Extended Data](ext_articles/bbada3d4.ext.json)
+
+---
+
+### The sister of the brother of the brother
 
 *2024-03-03 22:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அண்ணனின்-பூதவுடலை-ஆரத்தி-எடுத்து-பெற்றுக்-கொண்ட-தங்கை/175-334157) · `ta`
 
-சாந்தனின் பூதவுடல் அவரின் சொந்த ஊரான உடுப்பிடியில் உள்ள அவரது வீட்டிற்கு கொண்டு செல்லப்பட்டுள்ளது.
+Santhan's body returned to Udupidi, where his sister Arathi entertained, and his mother cried over his lifeless body.
 
-சாந்தனின் உடலை வீட்டிற்கு கொண்டுவரும் போது, அவரது உடன்பிறந்த சகோதரி ஆரத்தி எடுத்தமை அங்கிருந்தவர்களை கண்கலங்கச் செய்திருந்தது.
+🟩
 
-“என் தெய்வம் வீட்டிற்கு வருகின்றது, யாரும் அழக் கூடாது“ என அவரது சகோதரி இதன்போது உருக்கத்துடன் கோரிக்கை விடுத்திருந்தார்.
+Shantan's body has been taken to his home in Udupidi.
 
-அத்தோடு தன் மகனை உயிருடன் பார்க்க வேண்டும் என்று காத்திருந்த தாய் பல ஆண்டுகளுக்கு பின் உயிரற்ற உடலை கண்டு கதறி அழுதார். R
+When Santhan's body was brought home, her sibling sister Arathi had entertained the people.
+
+His sister said, "My goddess comes home and no one should cry."
+
+The mother, who was waiting for her son to be alive, cried over the lifeless body many years. Remble
 
 ◼️
 
 [Data](articles/bf934bb3.json)
+
+[Extended Data](ext_articles/bf934bb3.ext.json)
 
 ---
 
@@ -87,6 +125,8 @@ The political Cabinet had reportedly met last Monday, while the committee is sai
 ◼️
 
 [Data](articles/07a2ce00.json)
+
+[Extended Data](ext_articles/07a2ce00.ext.json)
 
 ---
 
@@ -2257,33 +2297,5 @@ It is reported that such disputes have been constantly broken out between the tw
 [Data](articles/27c79c59.json)
 
 [Extended Data](ext_articles/27c79c59.ext.json)
-
----
-
-### Sri Lanka-Navy Officer Information
-
-*2024-03-03 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177779) · `ta`
-
-Sri Lanka's Navy is deploying a second ship to enhance maritime security, focusing on drug control and protecting freight and fishing vessels in the Indian Ocean.
-
-🟩
-
-The Navy spokesman said that Sri Lanka will send its second ship to ensure maritime security in the international waters.
-
-Navy's media director Captain Dayan Wickremasuriya says that Sri Lanka has returned two days after the first ship completed its operation.
-
-He said that Sri Lanka SMS Gajaba had sent a ship with 100 Navy and said that Sri Lanka's sending of the ship was aimed at controlling the use of drugs in the Indian Ocean and working with the Joint Maritime Force to ensure the safety of freight and fishing ships.
-
-He said that the Arabian Sea pirates were sending the Sri Lankan navy ships to ensure the freedom of freight and fishing vessels.
-
-He said Sri Lanka is preparing to send a second ship for the International Navy.
-
-The President said this at the event held at the Sri Lanka Navy on Friday.
-
-◼️
-
-[Data](articles/ceb0f224.json)
-
-[Extended Data](ext_articles/ceb0f224.ext.json)
 
 ---

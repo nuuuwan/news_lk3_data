@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 20:17:49**
+As of **2024-03-03 20:33:15**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 1,646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,612 (100.0%) of 10,614 articles have been extended.
+10,614 (100.0%) of 10,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### කුණු ඇළට පැන්න කුඩු රැජින
+### Queen of powder in the trash canal
 
 *2024-03-03 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194087) · `si`
 
-කදිරාණවත්ත මත්කුඩු රැජින නමින් හැඳින්වෙන 45 හැවිරිදි කාන්තාවක් දැඩි පරිශ්‍රමයකින් පසු අත්අඩංගුවට ගැනීමට පොලීසිය අද (03) සමත්විය.
+"Kadiruwatta, a 45-year-old woman, was arrested by Mattakkuliya Police after a raid on her house, revealing she had more than Rs."
 
-මට්ටක්කුලිය පොලිසියට අනුයුක්ත පොලිස් විශේෂ කාර්යාංශයේ නිලධාරීන් කාන්තාවගේ නිවස වැටලූ අවස්ථාවේ ඇය අසල වූ කුණු ඇළකට පැන තිබුණාය.
+🟩
 
-පසුව ඇය අත්අඩංගුවට ගත්තේ අමතර පොලිස් නිලධාරින් කණ්ඩායමක්ද එම ස්ථානයට ගෙන්වා ගැනීමෙන් පසුවය.
+A 45-year-old woman, a 45-year-old woman named Kadiruwatta, was known as a 45-year-old woman.
 
-රුපියල් ලක්ෂ 5කට අධික වටිනාකමකින් යුත් මත්ද්‍රව්‍ය ඇය සතුව තිබියදී සොයාගැනීමට පොලීසිය සමත්විය.
+At the time of the officers of the Special Bureau officials in the Mattakkuliya Police, the officials of the woman raided her house.
+
+She was later arrested after the additional police officers were imported.
+
+The police were able to find out the police when she had more than Rs.
 
 ◼️
 
 [Data](articles/5b52663f.json)
 
+[Extended Data](ext_articles/5b52663f.ext.json)
+
 ---
 
-### வெலிகமவில் தனியார் அரபு பெண்கள் பாடசாலையில் தீ பரவல்: சொத்துக்களுக்கு பலத்த சேதம்!
+### Fire at Private Arab Girls' School in Weligama: Heavy damage to property
 
 *2024-03-03 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177825) · `ta`
 
-வெலிகம பிரதேசத்தில் உள்ள தனியார் அரபு பெண்கள் பாடசாலை ஒன்றில் ஞாயிற்றுக்கிழமை (03) மாலை தீ பரவியுள்ளது.
+A fire at a private Arab women's school in Weligama caused severe property damage, affecting about 150 students, but none were injured. The cause is under investigation.
 
-தீ விபத்தின்போது பாடசாலையில் சுமார் 150 மாணவர்கள் இருந்துள்ளனர். ஆனால் அவர்களில் எவருக்கும் பாதிப்பு ஏற்படவில்லை.
+🟩
 
-அப்பகுதி மக்கள் ஒன்றிணைந்து தீயை அணைக்கும் முயற்சியில் ஈடுபட்ட போதிலும், தீயினால் சொத்துக்களுக்கும் பலத்த சேதம் ஏற்பட்டுள்ளது.
+A fire broke out at a private Arab women school in Weligama on Sunday evening.
 
-தீ விபத்துக்கான காரணம் இதுவரை தெரியவராத நிலையில், பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+There were about 150 students in the school during the fire. But none of them were affected.
+
+Despite the fact that the people of the area were trying to extinguish the fire, the fire has caused severe damage to the property.
+
+Police are investigating the cause of the fire.
 
 ◼️
 
 [Data](articles/ef2ffc17.json)
+
+[Extended Data](ext_articles/ef2ffc17.ext.json)
 
 ---
 

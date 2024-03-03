@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 07:52:43**
+As of **2024-03-03 08:03:01**
 
 ## Newspaper Stats
 
-*Scraped **10,508** Articles*
+*Scraped **10,509** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 100
 bbccomsinhala | 125
-dbsjeyarajcom | 170
+dbsjeyarajcom | 171
 newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,504 (100.0%) of 10,508 articles have been extended.
+10,504 (100.0%) of 10,509 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -417,6 +417,24 @@ The department wasted no time in lodging a formal complaint with the Criminal In
 [Data](articles/7174a939.json)
 
 [Extended Data](ext_articles/7174a939.ext.json)
+
+---
+
+### 
+
+*2024-03-02 22:23:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83706) · `en`
+
+“There is great political inequality in India…this inequality is driven by money. As a result, people with deep pockets influenced political decisions… Large Donors to Political Parties Influence  Policy’
+
+It is perhaps one of the many painful ironies afflicting Sri Lanka’s political landscape that though an ecstatic song and dance was made about the country’s ‘first ever’ law regulating election expenditure passed by Parliament last year, no elections were held thereafter to practically ‘test’ its legal strength.
+
+We cannot blame anyone but the Government for this given its postponement of elections including local government elections arguing that it did not have the required funds, unashamedly citing the country’s bankruptcy propelled by a crass and corrupt ruling class.
+
+Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary splendor for more than a year of it being certified by the Speaker on the 24th of January 2023.
+
+...
+
+[Data](articles/903055be.json)
 
 ---
 
@@ -2165,29 +2183,5 @@ Concluding the official visit, Varyag will depart the island tomorrow.
 [Data](articles/c5bc9175.json)
 
 [Extended Data](ext_articles/c5bc9175.ext.json)
-
----
-
-### Russian war ship to the port of Colombo
-
-*2024-03-02 09:28:16* · [`adalk`](https://www.ada.lk/picture_story/රුසියානු-යුද-නැවක්-කොළඹ-වරායට/10-408379) · `si`
-
-The Russian Naval Cruiser Varryag, led by Captain 2nd Rank Vasicievich and Captain 1st Rank Vasicievich, visited Colombo for an official visit, including meetings with Sri Lankan officials and visits to various locations. The ship is set to depart on March 3, 2024.
-
-🟩
-
-The Russian Naval Cruiser Varryag arrived at the port of the Colombo port for an official visit to the Port of Sri Lanka.
-
-The 'Russian Guards missile cruiser varyag', Captain 2nd Rank Vasicievich and Commanding Officer, Captain 1st Rank Vasicievich and Commanding Officer, Captain 2nd Rank Vasicievich and Commanding Officer AevichWorks.
-
-The Commander of the Western Naval Order, Commander of the Western Naval Order, is scheduled to hold a official meeting with the Commander of the Western Naval Order Rear Admiral Saman Perera during the period of time in Sri Lanka.It is also scheduled to visit several areas to participate in programs, as well as visiting important places.
-
-The ship is also due to leave the island on March 3, 2024, concluding the official visit.
-
-◼️
-
-[Data](articles/012817c2.json)
-
-[Extended Data](ext_articles/012817c2.ext.json)
 
 ---

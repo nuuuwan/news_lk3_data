@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 14:02:40**
+As of **2024-03-03 14:17:34**
 
 ## Newspaper Stats
 
-*Scraped **10,560** Articles*
+*Scraped **10,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,114 @@ newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 890
-adaderanalk | 1,288
-tamilmirrorlk | 1,296
+adalk | 891
+adaderanalk | 1,289
+tamilmirrorlk | 1,297
 virakesarilk | 1,419
-dailymirrorlk | 1,598
+dailymirrorlk | 1,599
 adaderanasinhalalk | 1,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,558 (100.0%) of 10,560 articles have been extended.
+10,560 (100.0%) of 10,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### මූල්‍ය විනය ගැන විශේෂඥ හෙළිදරව්වක්
+### STF seize ‘Ice’ worth Rs. 100 mn during raid in Colombo
+
+*2024-03-03 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97702/stf-seize-ice-worth-rs-100-mn-during-raid-in-colombo-) · `en`
+
+A stock of narcotics have been seized by the Police Special Task Force (STF), during a raid carried out in Colombo.
+
+Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estimated street value of around Rs. 100 million, were seized.
+
+◼️
+
+[Data](articles/0040b001.json)
+
+---
+
+### Sri Lanka Army clinches gold in Pakistan
+
+*2024-03-03 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-Army-clinches-gold-in-Pakistan/110-278128) · `en`
+
+The Sri Lanka Army team has secured the prestigious gold medal at the 7th Pakistan Army Team Spirit Competition - 2024. Their remarkable victory adds another chapter to the nation's proud military legacy.
+
+The Pakistan Army Team Spirit (PATS) Competition is an annual mission and task-oriented exercise organized under the supervision of the Pakistan Army. The exercise emphasizes the highest standards in physical fitness, mental robustness, and tactical expertise, showcasing the core soldierly attributes.
+
+In this grueling 60-hour contest, the Sri Lankan team displayed exceptional skill and determination, overcoming every obstacle with unwavering resolve.
+
+Comprising 3 Officers and 8 Other Ranks, the Sri Lankan contingent navigated treacherous terrain and executed complex tactical maneuvers with precision. Their exemplary performance saw them outshine competitors from 11 other nations, securing the top spot on the podium.
+
+◼️
+
+[Data](articles/a4ed2969.json)
+
+---
+
+### நாடு திரும்புகிறார் பஷில்
+
+*2024-03-03 13:45:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்புகிறார்-பஷில்/175-334135) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகரும் முன்னாள் அமைச்சருமான பசில் ராஜபக்ஷ எதிர்வரும் 5ஆம் திகதி நாட்டுக்கு திரும்பவுள்ளார் என பெரமுனவின் தகவல்கள் தெரிவிக்கின்றன.
+
+அவர் நாடு திரும்பியதன் பின்னர் ஜனாதிபதி தேர்தலுக்கு ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொருத்தமான வேட்பாளரை தெரிவு செய்வது தொடர்பில் பாராளுமன்ற உறுப்பினர் குழுவுடன் கலந்துரையாடல் நடத்தப்படவுள்ளது என்றும் அந்தத் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/3a880a84.json)
+
+---
+
+### Expert reveal on financial discipline
 
 *2024-03-03 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194075) · `si`
 
-ආර්ථික අර්බුදයෙන් මිදීමට ශ්‍රී ලංකාව පවත්වාගෙන යන මූල්‍ය විනය මැතිවරණ සමයේ දී බිඳ දැමුවහොත් නැවතත් ශ්‍රී ලංකාවට පෙර පැවැති අර්බුදයට මුහුණදීමට සිදුවනු ඇතැයි බහුපාර්ශ්වික කටයුතු සහ ණය තිරසරභාවය පිළිබඳ ජනාධිපති උපදේශක කණ්ඩායමේ සාමාජික ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි මහතා පවසයි.
+"Expert reveal on financial discipline: Presidential Advisors, including Social Dr. Indrazaami, highlight their experience with 16 IMF programs, emphasizing their economic resilience despite challenges. They warn against repeating past mistakes, citing Einstein's adage about expecting different outcomes from the same actions. They advocate for learning from past failures to avoid repeating the same road, hoping for a change this time."
 
-එහි දී අදහස් දැක්වූ බහුපාර්ශ්වික කටයුතු සහ ණය තිරසරභාවය පිළිබඳ ජනාධිපති උපදේශක කණ්ඩායමේ සමාජික ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි මහතා,
+🟩
+
+Presidential Advisor to the Presidential Advisory Group, Member of the Presidential Advanced Activity and Loans will have to face the economic discipline of the economic crisis.
+
+Social Dr. Indrazaami, Members of the Presidential Advisor on Multilateral and Credit Tersor,
 
 ...
 
 [Data](articles/f57caf99.json)
 
+[Extended Data](ext_articles/f57caf99.ext.json)
+
 ---
 
-### කටුවපිටිය දේවස්ථානය ඉදිරිපිට සාමකාමී විරෝධයක්
+### Peaceful opposition in front of the Quapitiya Purpose
 
 *2024-03-03 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194074) · `si`
 
-කටුවපිටිය ශාන්ත සෙබස්තියන් සිද්ධස්ථානය ඉදිරිපිට අද (03) පෙරවරුවේ සාමකාමී විරෝධයක් පැවැත්විණි.
+The United Longa's Archbishop opposes the United Fisheries Society of Meteoro's proclamation over Negombo's ownership. The Catholic Church threatens legal action, but the United Fisheries Society of Pitchmanathana accuses the Archbishop of disrespecting Catholicism. Protests at St. Sebastian Shrine target Cardinal Ranjith and the Quarters against Catholics.
 
-ඒ, ලෙල්ලමේ සිද්ධිය සම්බන්ධයෙන් අගරදගුරු හිමිපාණන්ගේ ක්‍රියාකලාපය කතෝලික ආගමට අගෞරවයක් බවට පිටිපන මීසමේ එක්සත් ධීවර සමිතිය කළ ප්‍රකාශවලට එරෙහිවයි.
+🟩
 
-මීගමුව පිටිපන ලෙල්ලමේ අයිතිය සම්බන්ධයෙන් මේ වනවිට පවතින්නේ දැඩි මතගැටුමකි.
+Penalized opposition in front of St. Sebastian Shrine in Katuwapitiya this morning.
 
-එහි අයිතිය සම්බන්ධයෙන් නඩු කටයුත්තක්ද පවතින අතර, කතෝලික සභාව ප්‍රකාශ කළේ ලෙල්ලම සිය භාරයට ගැනීම සඳහා නෛතික ක්‍රියාමාර්ගවලට පිවිසියේ ධීවරයින් වැඩි පිරිසකගේ සුබසෙත වෙනුවෙන් බවයි.
+The United Longa's resident of the Archbishop is against the proclamation of the United Fisheries Society of the Meteoro.
 
-කෙසේ වෙතත් ලෙල්ලමේ සිද්ධිය සම්බන්ධයෙන් අගරදගුරු හිමිපාණන්ගේ ක්‍රියාකලාපය කතෝලික ආගමට ද අගෞරවයක් බව පිටිපන මීසමේ එක්සත් ධීවර සමිතිය ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවමින් පසුගියදා ප්‍රකාශ කළේය.
+This is a strong disagreement regarding the ownership of the back of Negombo.
 
-මෙවන් පසුබිමක කාදිනල් රංජිත් හිමිපාණන්ට හා කටුවපිටිය කතෝලික ජනතාවට විරුද්ධව සිදුකළ අසත්‍ය ප්‍රකාශවලට බලවත් විරෝධය පළකරමින් කටුවපිටිය ශාන්ත සෙබස්තියන් සිද්ධස්ථානය ඉදිරිපිට අද පෙරවරුවේ සාමකාමී විරෝධයක් පැවැත්විණි.
+The Catholic Church said that the Catholic Church was said to have legal action to take legal measures to take legal measures to take legal measures.
+
+However, the United Fisheries Society of Pitchmanathana The United Fisheries Society has called a press conference that the Archbishop is also disrespectful to Catholicism.
+
+Saint Sebastian Shrine has been protesting against the Cardinal Ranjith and the Quarters against the Catholics against the Catholics against the Catholics.
 
 ◼️
 
 [Data](articles/f80b248b.json)
+
+[Extended Data](ext_articles/f80b248b.ext.json)
 
 ---
 
@@ -397,6 +455,28 @@ The Israelis “have more or less accepted” the proposal, which includes the s
 [Data](articles/ae26697e.json)
 
 [Extended Data](ext_articles/ae26697e.ext.json)
+
+---
+
+### මේ වසරේදී මුදල් මුද්‍රණය කරලා නෑ
+
+*2024-03-03 11:46:47* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී මුදල්-මුද්‍රණය-කරලා-නෑ/11-408391) · `si`
+
+ආර්ථිකය කඩා වැටුණ පසු ලෝකයේ කිසිම රටක් බලාපොරොත්තු වුණාට වඩා වේගයෙන් අපේ රටේ ආර්ථිකය නැවත ගොඩ ගත්තා....
+
+සංවර්ධනයට රජය මුදල් වෙන් කර ඇත්තේ ගත් ණය වලින් හෝ මුදල් මුද්‍රණය කිරීමෙන් තොරවයි...
+
+නිදහසින් පසු 75 වසර තුළ රටේ භෞතික සංවර්ධනයේ සුවිශාල සංවර්ධනයක්....
+
+ආර්ථිකමය වශයෙන් බිඳ වැටී තිබුණු ශ්‍රී ලංකාව ලෝකයේ වෙනත් කිසිම රටකට වඩා වේගයෙන් ඉතා කෙටි කාලයකින්  දෙපයින් නැගී සිටි බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා අවධාරණය කරයි.
+
+ඔහු පෙන්වා දෙන්නේ මුදල් මුද්‍රණය කිරීමකින් තොරව ණය ලබා ගැනීමකින් තොරව නැවතත් රට සංවර්ධනය සඳහා රජයේ ප්‍රතිපාදන ලබාදීමට රජය කටයුතු කර ඇති බවයි.
+
+"අපිට පුළුවන් මේ රට නැවත ශක්තිමත්ව කළමනාකරණය කරන්න. ජනතාවගේ කැමැත්තෙන්" යැයිද ඇමතිවරයා මෙහිදී කීවේය. පටු වාසි තකා ඇතැමුන් 75 වසරක ශාපය පිළිබඳ කතා කළද නිදහස ලබා ගත ගත ගත වූ 75 වසර තුළ රට භෞතික වශයෙන් සංවර්ධනය වූ බවත් එහි ගෞරවය  සියලුම  දේශපාලනඥයන්ටද හිමි විය යුතු බව ඇමතිවරයා වැඩිදුරටත් පෙන්වා දෙයි.
+
+...
+
+[Data](articles/60cca674.json)
 
 ---
 
@@ -2131,89 +2211,5 @@ Sarath Fonseka added that Maithripala Sirisena was rejected by the people and th
 [Data](articles/70370baf.json)
 
 [Extended Data](ext_articles/70370baf.ext.json)
-
----
-
-### A sudden increase in prices of foods
-
-*2024-03-02 17:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்பொருட்களின்-விலைகள்-திடீரென-அதிகரிப்பு/175-334094) · `ta`
-
-Food prices rise: All Ceylon Restaurant and Snacks Association increase prices. Cluster and Bright Rice by 50 and 5 rupees, milk tea by 10 rupees. Snacks by 10 and 25 rupees.
-
-🟩
-
-The All Ceylon Restaurant and Restaurant Owners Association said the price of food items would be increased from midnight today.
-
-Accordingly, the cluster and Bright Rice have been decided to increase by 50 rupees, 5 rupees and milk tea by 10 rupees.
-
-The All Ceylon Snacks and Restaurant Owners Association said the snacks would be increased by 10 rupees and 25 rupees.. Remble
-
-◼️
-
-[Data](articles/2c6d3c58.json)
-
-[Extended Data](ext_articles/2c6d3c58.ext.json)
-
----
-
-### A sudden increase in prices of foods
-
-*2024-03-02 17:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/உணவுப்பொருட்களின்-விலைகள்-திடீரென-அதிகரிப்பு/150-334094) · `ta`
-
-Food prices in Sri Lanka are rising from midnight today. Cluster and Bright Rice prices increase by 50 and 5 rupees, respectively, while milk tea sees a 10 rupee hike. Snacks will rise by 10 and 25 rupees.
-
-🟩
-
-The All Ceylon Restaurant and Restaurant Owners Association said the prices of food items would be increased from midnight today.
-
-Accordingly, the cluster and Bright Rice have been decided to increase by 50 rupees, 5 rupees and milk tea by 10 rupees.
-
-The All Ceylon Snack and Restaurant Owners Association said that the snacks will be increased by 10 rupees and 25 rupees.. Remble
-
-◼️
-
-[Data](articles/e5476c0c.json)
-
-[Extended Data](ext_articles/e5476c0c.ext.json)
-
----
-
-### Manhunt for Governor Musammil’s son over assault on young woman
-
-*2024-03-02 17:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Manhunt-for-Governor-Musammils-son-over-assault-on-young-woman/108-278117) · `en`
-
-Colombo, March 2 (Daily Mirror)- Police have launched an investigation to arrest Mohammad Isham Jamaldeen, the son of Uva Provincial Governor A.J.M. Musammil, over an alleged assault on a young woman at an apartment complex in Havelock Gardens, Colombo.
-
-Police said Jamaldeen had assaulted the woman during the early hours of today and she was admitted with injuries to a private hospital.
-
-The Wellawatta Police investigated into the assault following a complaint and launched extensive searches of his residences in Kollupitiya and Keppetipola areas. However, he is yet to be arrested.
-
-The woman, who is a daughter of a well-known Sri Lankan businessman, is reportedly married to an Australian citizen.
-
-Police said they had informed court and obtained a travel ban against Jamaldeen.
-
-◼️
-
-[Data](articles/bb38a38d.json)
-
-[Extended Data](ext_articles/bb38a38d.ext.json)
-
----
-
-### Vans fare government Action
-
-*2024-03-02 17:01:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேன்கள்-கட்டணம்-அரசாங்கம்-அதிரடி/175-334093) · `ta`
-
-The government has decided to impose tariffs on all vehicles, including vans transporting school children.
-
-🟩
-
-It has been decided to take the tariff for all vehicles, including vans carrying school children.
-
-◼️
-
-[Data](articles/3cfa6af6.json)
-
-[Extended Data](ext_articles/3cfa6af6.ext.json)
 
 ---

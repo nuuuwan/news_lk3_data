@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 16:03:51**
+As of **2024-03-03 16:17:43**
 
 ## Newspaper Stats
 
-*Scraped **10,575** Articles*
+*Scraped **10,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 561
 islandlk | 569
 adalk | 893
 adaderanalk | 1,291
-tamilmirrorlk | 1,298
+tamilmirrorlk | 1,299
 virakesarilk | 1,419
 dailymirrorlk | 1,603
 adaderanasinhalalk | 1,636
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,574 (100.0%) of 10,575 articles have been extended.
+10,575 (100.0%) of 10,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### ஐஸூடன் மூவர் கைது
+
+*2024-03-03 16:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸூடன்-மூவர்-கைது/175-334137) · `ta`
+
+பொலிஸ் விசேட அதிரடிப் படையினர் கொழும்பில் மேற்கொண்ட சுற்றிவளைப்பின் போது 9 கிலோ ஐஸ் போதைப்பொருளுடன் சந்தேகநபர்கள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் மற்றும் கைப்பற்றப்பட்ட போதைப்பொருட்கள் மேலதிக விசாரணைகளுக்காக பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரிடம் ஒப்படைக்கப்படவுள்ளன.
+
+◼️
+
+[Data](articles/ffc0550f.json)
+
+---
 
 ### Shehbaz Sharif elected as Pakistan’s Prime Minister for 2nd term
 
@@ -164,19 +178,29 @@ The suspects and the stock of drugs will be handed over to the Police Narcotics 
 
 ---
 
-### සෞඛ්‍ය අතිරේක ලේකම්ගේ පාපොච්චාරණය හෙට
+### Confession of Health Additional Secretary
 
 *2024-03-03 14:23:56* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-අතිරේක-ලේකම්ගේ-පාපොච්චාරණය-හෙට/11-408393) · `si`
 
-බාල බෙහෙත් ජාවාරම පිළිබඳ සියළු තොරතුරු හෙළි කරමින් සෞඛ්‍ය අමාත්‍යංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය හමුවේ හෙට (04) රහස් පාපොච්චාරණයක් කිරීමට නියමිතය.
+The Health Ministry's Additional Secretary is to comment on Mrs. Weerasinghe. Saman Ratnayake, arrested by the CID, will be presented to court tomorrow. The Magistrate is interested in a minor drug case, possibly involving a witness. Ratnayake confessed today.
 
-මහේස්ත්‍රාත්වරිය හමුවේ රහස් පාපොච්චාරණය කිරීම සඳහා ඔහු හෙට (04) පෙරවරුවේ අධිකරණයට ඉදිරිපත් කිරීමට බන්ධනාගාර අධිකාරීවරයාට නියම කළ මහෙස්ත්‍රාත්වරිය මෙම නඩුවේ අනෙකුත් සැකකරුවන්ගෙන් මෙම සැකකරු වෙන් කර රඳවා තැබීමටද නියම කළාය.
+🟩
 
-බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් ප්‍රකාශයක් දීමට සැකකාර සමන් රත්නායක නමැත්තා පසුගිය පළමුවැනිදා රහස් පොලිසියට පැමිණී අවස්ථාවේදී ඔහු අත්අඩංගුවට ගන්නා ලද අතර පසුගිය 02 වැනිදා ඔහු මාලිගාකන්ද මහෙස්ත්‍රාත්වරිය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහු රිමාන්ඩ් බාරයට පත් කිරීමට සුදානම් වු අවස්ථාවේදී මේ සම්බන්ධයෙන් මහෙස්ත්‍රාත්වරිය හමුවේ රහස් ප්‍රකාශයක් දීමට සුදානම් බවට කළ දැනුම් දීමකට අනුව එලෙස නියම කළාය.
+Additional Secretary to the Ministry of Health, the Additional Secretary to the Ministry of Health, the Additional Secretary to the Ministry of Health, is due to comment on Mrs. Weerasinghe.
 
-...
+The Magistrate also ordered the Superintendent of Prisons to be presented to the courts tomorrow (04) before the magistrate.
+
+The suspect Saman Ratnayake was arrested in the course of the CID on the 2nd of his presented to the CID on the 2nd.The same was touched according to a gift.
+
+The Magistrate, who was willing to make a statement on minor drug racket, the Magistrate's Criminal Code has a pocket of the Criminal Procedure in the Criminal Procedure and that this case maybe you can make a witness in this caseThe suspect informed the suspect as it was to make a good view of it.
+
+The suspect had also submitted to the courts today to confess the Magistrate's Magistrate today (04) to confess the suspect.
+
+◼️
 
 [Data](articles/b3ac1b77.json)
+
+[Extended Data](ext_articles/b3ac1b77.ext.json)
 
 ---
 
@@ -2203,25 +2227,5 @@ He was speaking at the event of the CID on the CID yesterday (01) was produced b
 [Data](articles/577b4183.json)
 
 [Extended Data](ext_articles/577b4183.ext.json)
-
----
-
-### UN rights chief raises concerns over Sri Lanka’s ‘regressive laws & authoritarian approaches’
-
-*2024-03-02 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97692/un-rights-chief-raises-concerns-over-sri-lankas-regressive-laws-authoritarian-approaches) · `en`
-
-The UN High Commissioner for Human Rights has urged the Sri Lankan government to undertake credible accountability measures to investigate and prosecute past and present human rights violations and economic crimes.
-
-Mr. Volker Türk made this remark while delivering updates on human rights in Colombia, Guatemala, Honduras, Nicaragua, Cyprus and Sri Lanka at the 55th Session of the Human Rights Council.
-
-Türk said he remains “deeply concerned about recurring, credible accounts received by my Office of abductions, unlawful detention and torture, including sexual violence, by the Sri Lankan police and security forces, some of which allegedly took place in 2023, mainly in the north and east of the country.”
-
-He went on to raise concerns about the recent appointment of the new Inspector-General of Police (IGP) Deshabandu Tennakoon, despite the Supreme Court’s finding that he was implicated in the ‘torture of an individual in 2010.’
-
-...
-
-[Data](articles/9f5c3e6a.json)
-
-[Extended Data](ext_articles/9f5c3e6a.ext.json)
 
 ---

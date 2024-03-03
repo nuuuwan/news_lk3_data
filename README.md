@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 21:17:49**
+As of **2024-03-03 21:33:13**
 
 ## Newspaper Stats
 
-*Scraped **10,621** Articles*
+*Scraped **10,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 899
-adaderanalk | 1,296
+adaderanalk | 1,297
 tamilmirrorlk | 1,305
 virakesarilk | 1,426
-dailymirrorlk | 1,611
-adaderanasinhalalk | 1,648
+dailymirrorlk | 1,612
+adaderanasinhalalk | 1,649
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,620 (100.0%) of 10,621 articles have been extended.
+10,621 (100.0%) of 10,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### රටින් පනින්න හැදූ සැකකරු කටුනායකදී කොටුවෙයි
+
+*2024-03-03 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194090) · `si`
+
+අපරාධ කොට්ඨාශයේ නිලධාරින් සිදුකළ මත්කුඩු සෝදිසි මෙහෙයුමක් අතරතුර පළාගිය සැකකරුවෙකු රටින් පළායාම සඳහා කටුනායක ගුවන් තොටුපොළට පැමිණි අවස්ථාවේ ඊයේ (02) අත්අඩංගුවට ගැනීමට ගුවන්තොටුපොළ පොලීසිය සමත්ව තිබේ.
+
+සැකකරු ඩුබායි රාජ්‍ය බලා පිටත්ව යාමට සූදානම්ව සිටි බව වාර්තා වෙයි.
+
+ඉකුත් දෙසැම්බර් 31වනදා වැලිගම දෙනිපිටිය ප්‍රදේශයේදී පොලීසිය සිදුකළ වැටලීමකදී ත්‍රිරෝද රථයක ශබ්ද විකාශන යන්ත්‍රයක් තුළ තිබී හෙරොයින් මත්ද්‍රව්‍ය තොගයක් සොයාගැනුණු අතර රථය පදවාගෙන ආ මෙම පුද්ගලයා එහිදී පළාගොස් තිබුණි.
+
+සැකකරුට එරෙහිව වැලිගම පොලීසිය විදෙස් ගමන් තහනමක්ද ලබාගෙන තිබුණේ විමර්ශනවලට අදාළවය.
+
+වැලිගම මිදිගම ප්‍රදේශයේ පදිංචි 30 හැවිරිදි පුද්ගලයෙක් වන සැකකරු ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන බව හෙළිවී ඇත.
+
+සැකකරුව මාතර මහෙස්ත්‍රාත් අධිකරණයට අද (03) පෙරවරුවේ ඉදිරිපත් කිරීමෙන් පසු දින 7ක් ර﻿ඳවා තබාගෙන ප්‍රශ්න කිරීමට වැලිගම පොලීසියට අවසර හිමිව තිබේ.
+
+◼️
+
+[Data](articles/5caa62f0.json)
+
+---
+
+### Sri Lanka’s tourism sector sees 122% growth in January, says Minister
+
+*2024-03-03 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97708/sri-lankas-tourism-sector-sees-122-growth-in-january-says-minister) · `en`
+
+A Sri Lankan Minister on Sunday (03 March) said the country’s external sector performance has seen a marked improvement year on year, with tourism fetching $342 million in January 2024, an impressive 122% jump from last year.
+
+Speaking in Ruwanwella, his home constituency, Minister of State for Finance Ranjith Siyambalapitiya was delving into the Central Bank of Sri Lanka’s external sector indicators issued mid-week.
+
+Siyambalapitiya said the bank figures show that receipts from tourism had fetched $342 million, which is a 122% growth in January 2024 year-on-year.
+
+The inward remittances from Sri Lankan expats in January 2024 had grown by 5% to $488 million up from $467 million in January 2023.
+
+The Sri Lankan rupee, which had seen a massive slump during the unprecedented economic crisis, had appreciated by 14.6% in January of this year.
+
+The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1 billion in January 2023.
+
+...
+
+[Data](articles/5021dabf.json)
+
+---
 
 ### Fire breaks out at school in Weligama
 
@@ -45,6 +89,8 @@ While the exact cause of the fire remains unknown, police are conducting further
 ◼️
 
 [Data](articles/d84422df.json)
+
+[Extended Data](ext_articles/d84422df.ext.json)
 
 ---
 
@@ -69,6 +115,18 @@ President Ranil Wickremesinghe pointed out the need to prepare this national pro
 [Data](articles/0cbdf513.json)
 
 [Extended Data](ext_articles/0cbdf513.ext.json)
+
+---
+
+### President meets Dawoodi Bohra Leader
+
+*2024-03-03 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-meets-Dawoodi-Bohra-Leader/110-278139) · `en`
+
+President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifuddin Saheb, Spiritual Leader of the Dawoodi Bohra Community, at the official residence of President this afternoon (03).
+
+◼️
+
+[Data](articles/4c9afa6d.json)
 
 ---
 
@@ -2225,69 +2283,5 @@ The Department has not yet complained to the Criminal Investigation Division to 
 [Data](articles/34e15f3c.json)
 
 [Extended Data](ext_articles/34e15f3c.ext.json)
-
----
-
-### Sri Lanka seeks five-month hold on bondholder suit
-
-*2024-03-03 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97697/sri-lanka-seeks-five-month-hold-on-bondholder-suit) · `en`
-
-(Bloomberg) -- Sri Lanka is seeking a five-month hold on a lawsuit filed by a bondholder over the country’s historic debt default, telling a New York federal judge that it wants more time to negotiate with private creditors.
-
-The island nation was sued in July 2022 by Hamilton Reserve Bank Ltd., which sought full payment on more than $250 million of Sri Lanka’s dollar bond that was due that month. The bank says it holds more than 25% of the bonds, which would likely enable it to block any modification of the notes.
-
-On Friday, Sri Lanka sought an extension of a delay of the lawsuit that was granted in November. Hamilton Reserve opposed the new request, saying that the country has kept the bank “in the dark” about the negotiations despite repeated requests for information.
-
-The island nation is prioritizing restructuring obligations to its private creditors as it seeks to fast-track a debt overhaul and exit a sovereign default, the foreign minister told Bloomberg last month.
-
-...
-
-[Data](articles/10b27322.json)
-
-[Extended Data](ext_articles/10b27322.ext.json)
-
----
-
-### Two injured in accident on Outer Circular Expressway
-
-*2024-03-03 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-injured-in-accident-on-Outer-Circular-Expressway/108-278122) · `en`
-
-Two persons were injured following an accident between a container lorry and a cab vehicle on the Colombo Outer Circular Expressway last night, the expressway police said.
-
-They said the container vehicle was moving from Matara to Kadawatha when the cab vehicle which was travelling in the same direction crashed on to the back of the container.
-
-Police said the cause of the accident may have been due to the reckless driving of the cab driver.
-
-◼️
-
-[Data](articles/e8701d81.json)
-
-[Extended Data](ext_articles/e8701d81.ext.json)
-
----
-
-### Preparing to discuss the central bank's salary increase
-
-*2024-03-03 08:30:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கியின்-சம்பள-உயர்வு-குறித்து-கலந்துரையாட-ஆயத்தம்/175-334115) · `ta`
-
-The Central Bank has increased employees' salaries from 29.53% to 79.97% for three years, despite financial crisis. The governor's monthly salary rose from Rs.974,965 to Rs.1.7 million. The bank plans to clarify in Parliament following criticism. Parliamentarians are divided on the matter, with some arguing the bank's autonomy and others asserting the right to decide on public funds.
-
-🟩
-
-The Daily Mirror has reported that the central bank is likely to cancel its employees in the midst of financial crisis.
-
-The Central Bank has recently revised its employees' salary from 29.53 percent to 79.97 percent for three years.
-
-This was when the government advised all state agencies to make its expenses due to financial restrictions.With the latest salary increase, the governor's monthly salary has been increased from Rs.974,965 to Rs.1.7 million.
-
-The Central Bank said it would clarify in Parliament following widespread criticism of the wage increase.
-
-“At its meeting held on 21.02.2024, the CBSL generally contacts the CBSL as per Article 80 (2) (B) of the Central Bank Act No. 16 of 2023, as the Finance Minister of Parliament.The ruling committee has asked the CBSL governor to make a written request to the president to give the parliamentary committee a chance to clarify.
-
-...
-
-[Data](articles/e463b577.json)
-
-[Extended Data](ext_articles/e463b577.ext.json)
 
 ---

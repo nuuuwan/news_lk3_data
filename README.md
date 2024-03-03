@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 12:17:46**
+As of **2024-03-03 12:33:19**
 
 ## Newspaper Stats
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 1,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,543 (100.0%) of 10,545 articles have been extended.
+10,545 (100.0%) of 10,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### The US threw humanitarian aid using Gaza-
+
+*2024-03-03 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177790) · `ta`
+
+The US has provided humanitarian aid to Gaza, including 38,000 food packages dropped by C-130 airplanes, marking the first time the US has taken such action. This follows the killing of over 110 people in Israeli attacks on Palestinians near the Food Series, prompting an increase in aid.
+
+🟩
+
+US officials have said that the US has threw humanitarian aid on Gaza.
+
+The US has taken action as the US president has said that the humanitarian aid to Gaza will be increased following the killing of more than 110 people in the Israeli firing on Palestinians surrounding the Food Series.
+
+The Central Command of the United States said that C 130 airplanes were thrown by 38,000 food packages into Gaza.
+
+Britain and Egyptian Jordan have previously taken such measures against Gaza, but this is the first time the US is taking such action.
+
+Bitton administration officials said that the tragic event on Thursday has emphasized the need to maintain humanitarian assistance to the area due to the worst humanitarian situation in Gaza.
+
+◼️
+
+[Data](articles/78ca6a21.json)
+
+[Extended Data](ext_articles/78ca6a21.ext.json)
+
+---
 
 ### Kassayman's brother-in-law released on bail
 
@@ -64,7 +90,7 @@ According to investigations into the suspects, information has not been revealed
 
 ---
 
-### US says Israel has agreed to the framework for a Gaza cease-fire. Hamas must now decide
+### US says Israel has agreed to the framework for a Gaza cease-fire, Hamas must now decide
 
 *2024-03-03 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97700/us-says-israel-has-agreed-to-the-framework-for-a-gaza-cease-fire-hamas-must-now-decide) · `en`
 
@@ -77,6 +103,8 @@ The Israelis “have more or less accepted” the proposal, which includes the s
 ...
 
 [Data](articles/ae26697e.json)
+
+[Extended Data](ext_articles/ae26697e.ext.json)
 
 ---
 
@@ -98,31 +126,7 @@ President Ranil Wickremesinghe also emphasized the necessity of formulating a na
 
 [Data](articles/1423fee0.json)
 
----
-
-### The US threw humanitarian aid using Gaza-
-
-*2024-03-03 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177790) · `ta`
-
-The US has provided humanitarian aid to Gaza, including 38,000 food packages dropped by C-130 airplanes, marking the first time the US has taken such action. This follows the killing of over 110 people in Israeli attacks on Palestinians near the Food Series, prompting an increase in aid.
-
-🟩
-
-US officials have said that the US has threw humanitarian aid on Gaza.
-
-The US has taken action as the US president has said that the humanitarian aid to Gaza will be increased following the killing of more than 110 people in the Israeli firing on Palestinians surrounding the Food Series.
-
-The Central Command of the United States said that C 130 airplanes were thrown by 38,000 food packages into Gaza.
-
-Britain and Egyptian Jordan have previously taken such measures against Gaza, but this is the first time the US is taking such action.
-
-Bitton administration officials said that the tragic event on Thursday has emphasized the need to maintain humanitarian assistance to the area due to the worst humanitarian situation in Gaza.
-
-◼️
-
-[Data](articles/78ca6a21.json)
-
-[Extended Data](ext_articles/78ca6a21.ext.json)
+[Extended Data](ext_articles/1423fee0.ext.json)
 
 ---
 
@@ -1222,26 +1226,6 @@ The department wasted no time in lodging a formal complaint with the Criminal In
 
 ---
 
-### 
-
-*2024-03-02 22:23:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83706) · `en`
-
-“There is great political inequality in India…this inequality is driven by money. As a result, people with deep pockets influenced political decisions… Large Donors to Political Parties Influence  Policy’
-
-It is perhaps one of the many painful ironies afflicting Sri Lanka’s political landscape that though an ecstatic song and dance was made about the country’s ‘first ever’ law regulating election expenditure passed by Parliament last year, no elections were held thereafter to practically ‘test’ its legal strength.
-
-We cannot blame anyone but the Government for this given its postponement of elections including local government elections arguing that it did not have the required funds, unashamedly citing the country’s bankruptcy propelled by a crass and corrupt ruling class.
-
-Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary splendor for more than a year of it being certified by the Speaker on the 24th of January 2023.
-
-...
-
-[Data](articles/903055be.json)
-
-[Extended Data](ext_articles/903055be.ext.json)
-
----
-
 ### Motorcycle used in Ahungalla shooting recovered
 
 *2024-03-02 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97695/motorcycle-used-in-ahungalla-shooting-recovered) · `en`
@@ -1767,6 +1751,26 @@ Kusasuna Mendis or 'Manju' was a 45-year-old driver in Kosgoda.
 [Data](articles/d236888e.json)
 
 [Extended Data](ext_articles/d236888e.ext.json)
+
+---
+
+### “There is great political inequality in India…this inequality is driven by money. As a result, people with deep pockets influence political decisions… Large Donors to Political Parties Influence  Policy’
+
+*2024-03-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83706) · `en`
+
+It is perhaps one of the many painful ironies afflicting Sri Lanka’s political landscape that though an ecstatic song and dance was made about the country’s ‘first ever’ law regulating election expenditure passed by Parliament last year, no elections were held thereafter to practically ‘test’ its legal strength.
+
+We cannot blame anyone but the Government for this given its postponement of elections including local government elections arguing that it did not have the required funds, unashamedly citing the country’s bankruptcy propelled by a crass and corrupt ruling class.
+
+Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary splendor for more than a year of it being certified by the Speaker on the 24th of January 2023.
+
+Until now, that is. Apparently the Election Commission is going into overdrive summoning political parties for ‘briefings’ on the Act in the expectation of whatever forthcoming elections.
+
+...
+
+[Data](articles/903055be.json)
+
+[Extended Data](ext_articles/903055be.ext.json)
 
 ---
 

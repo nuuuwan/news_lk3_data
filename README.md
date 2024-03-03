@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 13:34:06**
+As of **2024-03-03 13:52:28**
 
 ## Newspaper Stats
 
-*Scraped **10,556** Articles*
+*Scraped **10,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 561
 islandlk | 569
 adalk | 890
 adaderanalk | 1,288
-tamilmirrorlk | 1,294
+tamilmirrorlk | 1,296
 virakesarilk | 1,419
 dailymirrorlk | 1,598
 adaderanasinhalalk | 1,632
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,554 (100.0%) of 10,556 articles have been extended.
+10,556 (100.0%) of 10,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### 5 மாகாணங்களில் அதிக வெப்பம்
+
+*2024-03-03 13:26:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாகாணங்களில்-அதிக-வெப்பம்/175-334133) · `ta`
+
+ஐந்து மாகாணங்களிலும் மன்னார் மாவட்டத்திலும் நிலவும் வெப்பமான காலநிலை காணப்படுவதாகவும், மனித உடலால் அதிகளவில் உணரக்கூடிய நிலை காணப்படுவதாகவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இந்த நிலைமை வடமேற்கு, மேற்கு, சப்ரகமுவ, தெற்கு மற்றும் கிழக்கு மாகாணங்களை பாதிக்கும் என திணைக்களம் மேலும் தெரிவிக்கிறது.
+
+◼️
+
+[Data](articles/3ce376c8.json)
+
+---
 
 ### Applications open for 2024/25 Presidential Scholarship programme
 
@@ -46,27 +60,57 @@ To apply, interested candidates can access the application form, instructions an
 
 [Data](articles/03d23e57.json)
 
+[Extended Data](ext_articles/03d23e57.ext.json)
+
 ---
 
-### විභාග ප්‍රශ්න පත්‍ර ගැටලුව CIDයට
+### சாந்தனின் உடல் தாங்கிய ஊர்தியினை மறித்ததால் பதற்றம்
+
+*2024-03-03 13:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உடல்-தாங்கிய-ஊர்தியினை-மறித்ததால்-பதற்றம்/175-334130) · `ta`
+
+வவுனியா பழைய பேரூந்து நிலையத்தில், சாந்தனின் உடல் தாங்கிய ஊர்தியினை வழி மறித்த போக்குவரத்து பொலிஸார் சாரதியை கைது செய்ய முயற்சித்தமையினால் அவ்விடத்தில் பதற்றமான நிலைமை ஏற்பட்டது.
+
+சாந்தனின் உடல் வவுனியாவிற்கு இன்று(03) காலை எடுத்து வரப்பட்டது.இதன்போது உடலை தாங்கிய ஊர்தி வவுனியா பழைய பேரூந்து நிலையத்தினுள் உள்நுழைந்தது.
+
+அங்கு கடமையில் இருந்த பொலிஸார்  ஊர்தி அருகே சென்று ஊர்தியினை இவ்விடத்தில் தரித்து நிறுத்த முடியாது. அவ்வாறு தரித்து நிறுத்தினால் சாரதியினை கைது செய்வோம் என கூறினர்.
+
+சாரதியினையும் வாகனத்தினை விட்டு கீழே இறங்குமாறு தெரிவித்தனர். இதனால் அவ்விடத்தில் பதற்றமான நிலைமை ஏற்பட்டது.
+
+அதன் பின்னர் ஏற்பாட்டு குழுவினர் பழைய பேரூந்து நிலையத்திலுள்ள வாகன தரிப்பிடத்தில் ஊர்தியினை தரித்து நிறுத்தி அஞ்சலி நிகழ்வினை மேற்கொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/0b91bc48.json)
+
+---
+
+### Exam papers problem under CID
 
 *2024-03-03 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194073) · `si`
 
-පාසල් වාර විභාග ප්‍රශ්න පත්‍ර සමාජ මාධ්‍යය ඔස්සේ නිකුත් වීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+The CID is investigating the leak of exam papers in the Western Province, while the Ministry of Provincial Education suspends school periods. Science and History papers for Grades 10 and 11 were released online, and the CID is also investigating the Sabaragamuwa Province for early release of Grade 10 and English papers. The Ceylon Teachers Union criticizes administrative issues.
 
-මේ අතර මෙම තත්ත්වය මත බස්නාහිර පළාතේ රජයේ පාසල්වල වාර විභාගය අත්හිටුවීමට පළාත් අධ්‍යාපන අමාත්‍යාංශය ඊයේ (02) තීරණය කළේය.
+🟩
 
-බස්නාහිර පළාත් අධ්‍යාපන ලේකම් සිරිසෝම ලොකුවිතාරණ මහතා ප්‍රකාශ කළේ, සඳුදා සහ අඟහරුවාදා පැවැත්වීමට නියමිතව තිබූ තවත් විෂයන් දෙකක ප්‍රශ්න පත්‍රද සමාජ මාධ්‍යය ඔස්සේ නිකුත්වීම හේතුවෙන් එම තීරණය ගත් බවයි.
+The CID has commenced an investigation into the Meeting of the School Time Examination Papers.
 
-2023 වසර සඳහා වන වර්ෂ අවසාන ඇගයීම් විභාගයේ බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව මගින් නිකුත් කරන 10 සහ 11 ශ්‍රේණිවල විද්‍යාව සහ ඉතිහාසය විෂය ප්‍රශ්න පත්‍ර පෙරදින රාත්‍රියේ සමාජ මාධ්‍යය වෙත මුදාහැර ඇතැයි පසුගිය සතියේ අනාවරණය විය.
+Meanwhile, the Ministry of Provincial Education has decided to suspend periods of government schools in the Western Province.
 
-මෙවන් පසුබිමක එළැඹෙන අඟහරුවාදා බස්නාහිර පළාතේ පාසල්වල 11 ශ්‍රෙණියේ සිසුන්ට පැවැත්වීමට නියමිත ගණිතය ප්‍රශ්න පත්‍රයට අදාළ පිළිතුරු පත්‍ර ලේඛනය බව පැවසෙන ලේඛනයක් ද මේ වනවිට සමාජ මාධ්‍යය තුළ සංසරණය වන බව වාර්තා වේ.
+Western Province Education Secretary Sirisoma Lokuvitharana said that the decision was taken on Monday and Tuesday.
 
-මෙලෙස බස්නාහිර පළාතේ ප්‍රශ්න පත්‍ර නිකුත්වී තිබීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+The Science and History of Grades 10 and 11 of the year of the year, the year of year 1323 released the subject matter question papers to the social media on the night of the previous night.
+
+It is reported that the answer sheet of the mathematics, which is scheduled to be held in the Western Province schools on this backdrop, is also circulated in the social media.
+
+The CID has launched an investigation into the issuance of question papers in the Western Province.
+
+Meanwhile, schools in the Sabaragamuwa Province have been released before the examination will be held on Monday, Grade 10 and English Question Papers.
 
 ...
 
 [Data](articles/b2db2575.json)
+
+[Extended Data](ext_articles/b2db2575.ext.json)
 
 ---
 
@@ -2169,53 +2213,5 @@ The suspect, who was arrested on Friday (01), is a 23 -year -old from Kalubowila
 [Data](articles/218f54f9.json)
 
 [Extended Data](ext_articles/218f54f9.ext.json)
-
----
-
-### Prices of several food items including fried rice, Kottu increased
-
-*2024-03-02 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97689/prices-of-several-food-items-including-fried-rice-kottu-increased) · `en`
-
-All-Ceylon Restaurant Owners’ Association has decided to increase the prices of multiple food items including Kottu, Fried Rice and a cup of milk tea with effect from midnight today (02).
-
-Joining a press briefing, President of the association Harshana Rukshan stated that this decision was arrived at after considering the significant increase in the production cost of food items.
-
-Accordingly, the price of a cup of plain tea has been increased by Rs. 05, a cup of milk tea by Rs. 10. Meanwhile, the price of a packet of rice and curry will be increased by Rs. 25, while the price of a packet of Kottu and Fried Rice will also be increased by Rs. 50 from midnight today.
-
-Furthermore, the association highlighted that if the prices of consumer goods are decreased, they are ready to provide the relevant concessions to the general public.
-
-◼️
-
-[Data](articles/963b15e3.json)
-
-[Extended Data](ext_articles/963b15e3.ext.json)
-
----
-
-### 2024 Issues the revised school season
-
-*2024-03-02 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194049) · `si`
-
-The Ministry of Education announced a revised school season in 2024. The first phase of the first school started on February 19, with the second phase from April 24 to May 3, and the GCE Ordinary Level exams from May 20 to May 31. The second term runs from June 3 to August 16. The third term, after the GCE A/L results on January 2, 2025, starts on November 26 and ends on January 17, 2025.
-
-🟩
-
-The amended school concession in 2024 has been announced by the Ministry of Education.
-
-Accordingly, the first phase of the first phase of the first school which began on February 19 will operate from April 10.
-
-The second phase of the first season will operate from April 24 to May 3 and the first stage of the GCE Ordinary Level examination will be operated from May 20 to 31st May.
-
-The second term will operate from June 3 to August 16, the Ministry of Education said.
-
-The first phase of the third term invested in 2024 will be held on November 26 to November 2nd stage on the third term after the GCE A / L results will be opened on January 2, 2025.
-
-The third term is due to end the third term invested on January 17, 2025, the Ministry of Education said.
-
-◼️
-
-[Data](articles/dd78c487.json)
-
-[Extended Data](ext_articles/dd78c487.ext.json)
 
 ---

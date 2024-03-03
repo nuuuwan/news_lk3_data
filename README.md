@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 07:16:38**
+As of **2024-03-03 07:39:55**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,621
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,501 (100.0%) of 10,504 articles have been extended.
+10,504 (100.0%) of 10,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### ගොවි ගැටලුවලට ජනපතිගේ ප්‍රමුඛතාව
+### President's priority for farmal problems
 
 *2024-03-03 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194061) · `si`
 
-යළි රට ගොඩ නැඟීම හමුවේ ජයගත යුතු අභියෝග රැසක් පැවතියත් ගොවි ජනතාවගේ ගැටලු විසඳීමට ප්‍රමුඛත්වය ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe highlights the country's challenges in rebuilding, focusing on significant developments over the next decade, including collaboration with India for Trincomalee District development.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ, ඉදිරි වසර 10 තුළ විශාලතම කෘෂිකර්ම නවීකරණය ක්‍රියාත්මක කරන බවයි.
+🟩
 
-ත්‍රිකුණාමලය, ගලමැටියාව ප්‍රදේශයේ වී අස්වනු නෙලීමේ අවස්ථාවකට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ ය.
+President Ranil Wickremesinghe says that although there are many challenges to be overcome in the face of rebuilding the country.
 
-ඉන්දියාව සමඟ එක් ව ත්‍රිකුණාමලය දිස්ත්‍රික්කය සංවර්ධනය කිරීමේ වැඩපිළිවෙළ ක්‍රියාත්මක කරන බව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කර තිබේ.
+The President points out that the largest aggregation is being implemented in the next 10 years.
+
+President Ranil Wickremesinghe made this statement participating at the Trincomalee, Galheliyawa area.
+
+President Ranil Wickremesinghe has also emphasized that the development of Trincomalee District will be implemented with India.
 
 ◼️
 
 [Data](articles/5f67fdd4.json)
+
+[Extended Data](ext_articles/5f67fdd4.ext.json)
 
 ---
 
@@ -94,19 +100,25 @@ The BBC obtained an image of the ship on 21 February, which showed it submerged 
 
 ---
 
-### நிலங்களை விடுவிக்க படையினர் இணக்கம்
+### Soldiers complying to release land
 
 *2024-03-03 03:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலங்களை-விடுவிக்க-படையினர்-இணக்கம்/175-334111) · `ta`
 
-யாழ்ப்பாணம் மற்றும் கிளிநொச்சி மாவட்டங்களில் எதிர்வரும் 10 ஆம் திகதி 164 ஏக்கர் நிலங்களை விடுவிக்கப் படையினர் இணக்கம் தெரிவித்துள்ளனர்.
+Soldiers agreed to release 164 acres of land in Jaffna and Kilinochchi districts on the 10th. 59 acres in Jaffna and 105 in Kilinochchi will be released.
 
-யாழ்ப்பாணம் மாவட்ட செயலகத்தில் கடந்த 28, 29 ஆம் திகதிகளில் நடைபெற்ற காணி தொடர்பான நடமாடும் சேவைக்குக் காணி அமைச்சு உள்ளிட்ட அமைச்சுக்களின் செயலாளர்கள் மற்றும் உயர் அதிகாரிகள், மாவட்ட அரச அதிபர்,  படைத் தளபதிகளும் கலந்துகொண்டனர்.
+🟩
 
-இதன் பிரகாரம் யாழ்ப்பாணம் மாவட்டத்தில் பலாலி கிழக்குப் பிரதேசத்தில் இருந்து  59 ஏக்கர் நிலங்கள் விடுவிக்கப்படும் அதேநேரம்  கிளிநொச்சி மாவட்டத்தின் அறிவியல் நகர்ப் பகுதியில் 105 ஏக்கர் நிலங்கள் விடுவிக்கப்படவுள்ளன. (a)
+Soldiers have agreed to release 164 acres of land on the 10th of this month in Jaffna and Kilinochchi districts.
+
+Secretaries and top officials of the Ministries, including the Ministry of Lands, including the Land -related Services Ministry, were present at the Jaffna District Secretariat on the 28th and 29th.
+
+Accordingly, 59 acres of land will be released from the East of Palali in the Jaffna district and 105 acres of land will be released in the science city of Kilinochchi district.. (A)
 
 ◼️
 
 [Data](articles/9f0e8f2c.json)
+
+[Extended Data](ext_articles/9f0e8f2c.ext.json)
 
 ---
 
@@ -809,6 +821,8 @@ The situation exploded on May 9 when Mahinda Rajapaksa’s attempts to use viole
 ...
 
 [Data](articles/f59df9da.json)
+
+[Extended Data](ext_articles/f59df9da.ext.json)
 
 ---
 

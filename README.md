@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 02:03:38**
+As of **2024-03-04 02:17:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,652 (99.9%) of 10,661 articles have been extended.
+10,660 (100.0%) of 10,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ As a gesture of goodwill, a book documenting various programs and religious serv
 
 [Data](articles/d8896969.json)
 
+[Extended Data](ext_articles/d8896969.ext.json)
+
 ---
 
 ### Sapugaskanda oil refinery to undergo 45-day mandatory maintenance in July
@@ -65,6 +67,8 @@ The shutdown is part of a routine process aimed at enhancing the refinery’s ef
 ...
 
 [Data](articles/b335abb2.json)
+
+[Extended Data](ext_articles/b335abb2.ext.json)
 
 ---
 
@@ -82,47 +86,61 @@ Following his arrest, the Court issued an order remanding Dr. Rathnayake till 14
 
 [Data](articles/ae471f26.json)
 
+[Extended Data](ext_articles/ae471f26.ext.json)
+
 ---
 
-### போரா சமூக ஆன்மீகத் தலைவர் ஜனாதிபதியை சந்தித்தார்
+### Bora social spiritual leader met the president
 
 *2024-03-04 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177834) · `ta`
 
-போரா சமூகத்தின் ஆன்மீகத் தலைவர் கலாநிதி புனித செய்யதினா முஃபத்தல் செய்புதீன் சாஹிப் மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு ஞாயிற்றுக்கிழமை (3) பிற்பகல் பெஜெட் வீதியிலுள்ள ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்தில் நடைபெற்றது.
+Dr. Sunthu Muftin Siputin Sahib met President Ranil Wickremesinghe to discuss the Bora community's economic development program and the upcoming Bora Summit.
 
-போரா சமூகத்தின் ஒரு மில்லியனுக்கும் அதிகமான உறுப்பினர்கள் இந்தியா, பாகிஸ்தான், அமெரிக்கா, இங்கிலாந்து, கனடா, இலங்கை, அவுஸ்திரேலியா உள்ளிட்ட பல நாடுகளில் வாழ்கின்றனர்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்ட கலாநிதி செய்யதினா முஃபத்தல் செய்புதீன், இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்ப ஜனாதிபதி நடைமுறைப்படுத்தியுள்ள வேலைத்திட்டத்தைப் பாராட்டினார்.
+The meeting between Dr. Sunthu Muftin Siputin Sahib and President Ranil Wickremesinghe was held on Sunday afternoon at the President's official residence on Bjad Road.
 
-அத்துடன், பம்பலப்பிட்டி போரா பள்ளிவாசலை அண்டி  நடத்தப்படும் போரா மாநாட்டை இவ்வருடம் நடத்துவது தொடர்பிலும் ஜனாதிபதியின் கவனத்திற்குக் கொண்டு வரப்பட்டது.
+More than one million members of the Bora community live in many countries, including India, Pakistan, the United States, the UK, Canada, Sri Lanka and Australia.
 
-கடந்த 4 வருடங்களாகப் போரா சமூகத்தினர் ஆற்றிய சமய சேவைகள் உள்ளிட்ட பல்வேறு விடயங்கள் அடங்கிய புத்தகமும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டது.
+Dr. Mufatal Warbudin, who was involved in a friendly conversation with President Ranil Wickremesinghe, praised the program implemented by the President to build the economy of Sri Lanka.
+
+In addition, the President's attention was brought to the attention of the Bora Summit this year, which is being held at the Bambalapitiya Bora School.
+
+President Ranil Wickremesinghe has also been handed over to President Ranil Wickremesinghe for various issues, including the religious services of the Bora community for the past 4 years.
 
 ◼️
 
 [Data](articles/a751eda5.json)
 
+[Extended Data](ext_articles/a751eda5.ext.json)
+
 ---
 
-### வெற்றிலைக்கேணியில் மீனவர்கள் இடையே முறுகல் ; பொலிசாருடனும் முரண்பாடு
+### Sparrow between fishermenConflict with the police
 
 *2024-03-04 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177833) · `ta`
 
-வடமராட்சி கிழக்கு வெற்றிலைக்கேணியில் மீனவர்கள் இடையே ஞாயிற்றுக்கிழமை (02) முறுகல் நிலை ஏற்பட்டது.
+Fishermen in Vadamarachchi East Pudukkalikkunnu protested against the use of a plowing machine in their sea area, leading to a conflict with police. Despite a letter from the Karaivalai Fishermen's Association requesting a halt, the machine continued to operate, causing tension and a potential protest.
 
-வெற்றிலைக்கேணி கடற்றொழிலாளர் சங்கத்திற்குட்பட்ட கடல் பகுதியில் உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்வதற்கு குறித்த சங்கத்தால் தடை விதிக்கப்பட்டது.
+🟩
 
-உடனடியாக உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்வதை நிறுத்துமாறு வெற்றிலைக்கேணி மீனவர்களின் கையொப்பத்துடன் வெற்றிலைக்கேணி கடற்றொழிலாளர் சங்கத்தினரால் கரைவலை தொழில் சம்மாட்டியிடம் கடிதம் கையளிக்கப்பட்டது.
+The Vadamarachchi East Pudukkalikkunnu fishermen occurred on Sunday (02).
 
-எனினும் தமது அறிவுறுத்தலைப் பொருட்படுத்தாது தொடர்ச்சியாக உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்துவருவதால் நேற்று காலை குறித்த கரைவலை வாடி மீனவர்களால் முற்றுகையிடப்பட்டு உழவு இயந்திரம் மூலம் கரைவலை இழுப்பது நிறுத்தப்பட்டது.
+The association was banned from using the plowing machine in the sea area of the Vailakkayi Fisheries Association.
 
-சம்பவ இடத்தில் அதிகளவான மீனவர்கள் ஒன்று கூடியதால் சிறிது நேரம் பதட்டம் நிலவியதுடன் சம்பவ இடத்திற்கு வருகை தந்த மருதங்கேணி பொலிசாருடனும் மீனவர்கள் முறுகலில் ஈடுபட்டனர்.
+A letter was handed over to the Karaivalai Fishermen's Association with the signature of the fishermen to stop the plowing machine and stop working on the bank.
 
-உடனடியாக உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்வதை நிறுத்தாவிடில் எதிர்ப்பு நடவடிக்கையில் ஈடுபடப்போவதாகவும் அப்பகுதி மீனவர்கள் தெரிவித்துள்ளனர்.
+However, due to their instructions, the plowing machine continued to use the meltdown and stopped the fishermen yesterday morning.
+
+The fishermen were involved in a tension for a while and the fishermen were involved in the incident.
+
+Fishermen in the area have said that if the plowing machine is not used immediately, the opposition will be engaged in protests.
 
 ◼️
 
 [Data](articles/18c0f930.json)
+
+[Extended Data](ext_articles/18c0f930.ext.json)
 
 ---
 
@@ -142,23 +160,35 @@ The challenge to Sri Lanka is to provide for a comprehensive ecosystem for the d
 
 ---
 
-### அர்ஷான், ஷாருஜனின் அபார துடுப்பாட்டங்கள் புனித பெனடிக்டின் வெற்றியை உறுதிசெய்தன; 7 நாட்களில் 2ஆவது தடவையாக வெஸ்லியை வென்றது புனித பெனடிக்ட்
+### Arshan and Shah Rujan's great cricket confirmed the victory of St. Benedict;St. Benedict won Wesley for the 2nd time in 7 days
 
 *2024-03-04 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177832) · `ta`
 
-வெஸ்லி கல்லூரிக்கு எதிராக பி.சரவணமுத்து ஓவல் விளையாட்டரங்கில் சனிக்கிழமை (02) நடைபெற்ற 4ஆவது வருடாந்த ஒருநாள் கிரிக்கெட் போட்டியில் 6 விக்கெட்களால் வெற்றியீட்டி அருட்சகோதரர் லூக் கிறகறி கேடயத்தை புனித பெனடிக்ட் சுவீகரித்தது.
+St. Benedict won against Wesley College in a cricket match, with Arshan and Shah Rujan's great performance. They won by 6 wickets in the 4th ODI at P. Saravanamuthu Oval Stadium.
 
-இந்த இரண்டு கல்லூரிகளுக்கும் இடையிலான வருடாந்த 2 நாள் கிரிக்கெட் போட்டியில் 46 ஓட்டங்களால் வெற்றிபெற்ற புனித பெனடிக்ட் கல்லூரி, வெஸ்லிக்கு எதிராக 7 நாட்கள் இடைவெளியல் இரண்டாவது வெற்றியைப் பதிவுசெய்தது.
+🟩
 
-ஒரு வாரத்துக்கு முன்னர் நடைபெற்ற வண. ஜேம்ஸ் காட்மன் கிண்ணத்துக்கான வருடாந்த 2 நாள் கிரக்கெட் போட்டியில் 46 ஓட்டங்களால் புனித பெனடிக்ட் வெற்றிபெற்றிருந்தது.
+St. Benedict took the shield of Arutsakodara Luke Krakari, who won by 6 wickets in the 4th annual ODI in the P. Saravanamuthu Oval Stadium on Saturday (02) at the P. Saravanamuthu Oval Stadium against Wesley College.
 
-ஸ்டீவன் அர்ஷான் ஜோசப், அணித் தலைவர் சண்முகநாதன் ஷாருஜன் ஆகிய இருவரும் குவித்த அரைச் சதங்களும் 4ஆவது விக்கெட்டில் அவர்கள் இருவரும் பகிர்ந்த சாதனைமிகு 111 ஓட்டங்களும் புனித பெனடிக்ட் அணியின் வெற்றியை இலகுவாக்கின.
+St. Benedict College, who won by 46 runs in the annual 2 -day match between the two colleges, recorded a second win against Wesley.
 
-இந்த இரண்டு அணிகளுக்கு இடையிலான வருடாந்த ஒருநாள் கிரிக்கெட் போட்டியில் பதிவான சகல விக்கெட்களுக்குமான அதிசிறந்த இணைப்பாட்டம் இதுவாகும்.
+Wednesday a week ago. St. Benedict won by 46 runs in the Annual 2 Day Crocket Tournament for the James Gatman Bowl.
+
+Steven Arshan Joseph and team captain Shanmuganathan Sharujan made a half -century and their record 111 runs in the 4th wicket.
+
+This is the best link for all wickets in the annual ODI match between the two teams.
+
+St. Benedict won the toss and elected to win 218 runs by Wesley College, who lost 4 wickets in 48.3 overs and won 220 runs.
+
+Samindu Peiris and Jenandu Nandasena shared 71 runs and made the best start.
+
+Subsequently, Steve Arshan Joseph confirmed the team's victory with 63 runs and Shanmuganathan Sharujan scored 58 runs.
 
 ...
 
 [Data](articles/1734920d.json)
+
+[Extended Data](ext_articles/1734920d.ext.json)
 
 ---
 
@@ -826,6 +856,8 @@ Ronnie de Mel, best known as a former finance minister, is no more with us. Duri
 
 [Data](articles/c2933e3e.json)
 
+[Extended Data](ext_articles/c2933e3e.ext.json)
+
 ---
 
 ### 8 Sri Lankan aircraft have been removed but Rs. 5646 paid the rent
@@ -907,6 +939,8 @@ It is beyond dispute that reliable, adequate, cheap and clean generation of elec
 ...
 
 [Data](articles/f9fd5abc.json)
+
+[Extended Data](ext_articles/f9fd5abc.ext.json)
 
 ---
 

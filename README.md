@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 13:17:38**
+As of **2024-03-03 13:34:06**
 
 ## Newspaper Stats
 
-*Scraped **10,554** Articles*
+*Scraped **10,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,109 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 890
-adaderanalk | 1,287
+adaderanalk | 1,288
 tamilmirrorlk | 1,294
 virakesarilk | 1,419
 dailymirrorlk | 1,598
-adaderanasinhalalk | 1,631
+adaderanasinhalalk | 1,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,550 (100.0%) of 10,554 articles have been extended.
+10,554 (100.0%) of 10,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### රාජ්‍ය සේවයට නව යාන්ත්‍රණයක්
+### Applications open for 2024/25 Presidential Scholarship programme
+
+*2024-03-03 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97701/applications-open-for-202425-presidential-scholarship-programme) · `en`
+
+The application process for the “Presidential Scholarship Program 2024/25” targeting 100,000 school students facing economic difficulties is now open, the President’s Media Division (PMD) reported.
+
+Accordingly, in line with the vision of President Ranil Wickremesinghe, applications will be accepted until March 20, 2024.
+
+To apply, interested candidates can access the application form, instructions and all the relevant information in Sinhala, Tamil and English through the official Facebook page of the President’s Fund at www.facebook.com/president.fund and the official website www.presidentsfund.gov.lk, and are required to submit their completed applications to their respective school principals before the deadline.
+
+...
+
+[Data](articles/03d23e57.json)
+
+---
+
+### විභාග ප්‍රශ්න පත්‍ර ගැටලුව CIDයට
+
+*2024-03-03 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194073) · `si`
+
+පාසල් වාර විභාග ප්‍රශ්න පත්‍ර සමාජ මාධ්‍යය ඔස්සේ නිකුත් වීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+
+මේ අතර මෙම තත්ත්වය මත බස්නාහිර පළාතේ රජයේ පාසල්වල වාර විභාගය අත්හිටුවීමට පළාත් අධ්‍යාපන අමාත්‍යාංශය ඊයේ (02) තීරණය කළේය.
+
+බස්නාහිර පළාත් අධ්‍යාපන ලේකම් සිරිසෝම ලොකුවිතාරණ මහතා ප්‍රකාශ කළේ, සඳුදා සහ අඟහරුවාදා පැවැත්වීමට නියමිතව තිබූ තවත් විෂයන් දෙකක ප්‍රශ්න පත්‍රද සමාජ මාධ්‍යය ඔස්සේ නිකුත්වීම හේතුවෙන් එම තීරණය ගත් බවයි.
+
+2023 වසර සඳහා වන වර්ෂ අවසාන ඇගයීම් විභාගයේ බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව මගින් නිකුත් කරන 10 සහ 11 ශ්‍රේණිවල විද්‍යාව සහ ඉතිහාසය විෂය ප්‍රශ්න පත්‍ර පෙරදින රාත්‍රියේ සමාජ මාධ්‍යය වෙත මුදාහැර ඇතැයි පසුගිය සතියේ අනාවරණය විය.
+
+මෙවන් පසුබිමක එළැඹෙන අඟහරුවාදා බස්නාහිර පළාතේ පාසල්වල 11 ශ්‍රෙණියේ සිසුන්ට පැවැත්වීමට නියමිත ගණිතය ප්‍රශ්න පත්‍රයට අදාළ පිළිතුරු පත්‍ර ලේඛනය බව පැවසෙන ලේඛනයක් ද මේ වනවිට සමාජ මාධ්‍යය තුළ සංසරණය වන බව වාර්තා වේ.
+
+මෙලෙස බස්නාහිර පළාතේ ප්‍රශ්න පත්‍ර නිකුත්වී තිබීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+
+...
+
+[Data](articles/b2db2575.json)
+
+---
+
+### A new mechanism for public service
 
 *2024-03-03 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194072) · `si`
 
-රාජ්‍ය සේවයේ ආරවුල් වැළැක්වීම සහ ආරවුල් නිරාකරණය සඳහා යාන්ත්‍රණයක් සකස් කිරීමට රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු අමාත්‍යාංශය විසින් චක්‍රලේඛයක් නිකුත් කර තිබේ.
+The Ministry of Public Administration and Home Affairs has issued a circular to prevent disputes in public service, aiming to build high-quality service in Sri Lanka through workplace collaboration. This mechanism, implemented in health and transport sectors with ILO support, is expected to improve productivity and quality across the public service.
 
-අමාත්‍යාංශ ලේකම්වරුන්, රාජ්‍ය අමාත්‍යාංශ ලේකම්වරුන්, පළාත් සභා ප්‍රධාන ලේකම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන්, දිස්ත්‍රික් ලේකම්වරුන්, ප්‍රාදේශීය ලේකම්වරුන්, රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත ආයතනවල සභාපතිවරුන් වෙත අදාළ චක්‍රලේඛය නිකුත් කර ඇති බව වාර්තා වේ.
+🟩
 
-සේවා ස්ථාන සහයෝගීතාව තුළින් මෙරට තුළ ඉහළ ගුණාත්මක භාවයකින් යුතු රාජ්‍ය සේවයක් ගොඩනැගීම හා මහජනතාව වෙත විශිෂ්ට සේවාවක් සැපයීම අරමුණු කරගනිමින් එම යාන්ත්‍රණය ක්‍රියාත්මක කිරීමට නියමිත ය.
+The Ministry of Public Administration and Home Affairs has issued a circular to prevent disputes and resolution disputes.
 
-රාජ්‍ය සේවයේ ආරවුල් වැළැක්වීම සහ ආරවුල් නිරාකරණය සඳහා වූ යෝජිත යාන්ත්‍රණය ක්‍රියාත්මක කිරීමට අමාත්‍ය මණ්ඩලය විසින් ගෙන ඇති තීරණය අනුව මෙම චක්‍රලේඛය සකස් කර තිබේ.
+The circular has been issued to the Presidential Secretaries, Chief Secretaries, Departments, District Secretaries, District Secretaries, Divisional Secretaries, Divisional Secretaries, Public Corporations and Statutory Institutions.
 
-ඒ අනුව යෝජිත නව යාන්ත්‍රණය සමස්ත රාජ්‍ය සේවය තුළම ක්‍රියාත්මක කිරීමට බලාපොරොත්තු වන අතර එය සේවා ස්ථාන ආංශික හා ජාතික මට්ටම යන ස්ථර තුනකින් ක්‍රියාත්මක කිරීමට නියමිතය.
+The mechanism is to be implemented to build a high quality public service in Sri Lanka and to provide a high quality public service in the country through workplace collaboration.
+
+The circular has been prepared as per the decision taken by the Cabinet of the Cabinet of the Public Service to prevent the proposed mechanism for disputes.
+
+Accordingly, the proposed new mechanism is expected to be implemented in the entire public service and is scheduled to be implemented in three layers of services and national level.
 
 ...
 
 [Data](articles/8235791f.json)
 
+[Extended Data](ext_articles/8235791f.ext.json)
+
 ---
 
-### ගාල්ල බන්ධනාගාරයෙන් යළි මොළේ උණ රෝගියෙක්
+### Brain fever again from Galle prison
 
 *2024-03-03 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194071) · `si`
 
-බන්ධනාගාර සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා පැවසුවේ, අදාළ රෝගියා මේ වනවිට කරාපිටිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන බව ය.
+A prisoner in Galle Prison is ill, but not seriously. Dr. Hemantha Ranasinghe, Prison Health Services Director, treats the patient at Karapitiya Teaching Hospital. Despite two brain patients dying, the prison has a special program to control the disease.
 
-පසුගිය 19 වැනිදා බන්ධනාගාරගත වූ රැඳවියෙකු මෙලෙස රෝගී වී ඇති බව සඳහන්ය.
+🟩
 
-ඔහුගේ තත්ත්වය බරපතළ නොවන අතර බන්ධනාගාරය තුළින් වෙනත් මොළේ උණ රෝගීන් මෙතෙක් හඳුනාගෙන නොමැති බව ද වෛද්‍ය හේමන්ත රණසිංහ මහතා පැවසීය.
+Prison Health Services Director Dr. Hemantha Ranasinghe said that the patient is currently receiving treatment at the Karapitiya Teaching Hospital.
 
-පසුගිය කාලයේ ගාල්ල බන්ධනාගාරයෙන් මොළේ උණ රෝගීන් කිහිප දෙනෙකු වාර්තා වූ අතර එහිදී රෝගීන් දෙදෙනෙකු ජීවිතක්ෂයට පත්විය.
+A prisoner in prison has become ill.
 
-කෙසේ වෙතත් රෝගය පාලනය කිරීම සඳහා බන්ධනාගාර සෞඛ්‍ය අංශ විසින් විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කර ඇති බව බන්ධනාගාර සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා සඳහන් කළේය.
+His condition is not serious and said Dr. Hemantha Ranasinghe said that there was no identity patients on prison.
+
+A few brain patients were reported from the Galle Prison, where two patients were killed.
+
+However, Prison Health Services Director Dr. Hemantha Ranasinghe said that a special program has been implemented by the prison health aspects to control the disease.
 
 ◼️
 
 [Data](articles/d9dfe314.json)
+
+[Extended Data](ext_articles/d9dfe314.ext.json)
 
 ---
 
@@ -85,6 +135,8 @@ However, temporary relief from the dry spell is expected on Monday in certain ar
 ◼️
 
 [Data](articles/bc0ca729.json)
+
+[Extended Data](ext_articles/bc0ca729.ext.json)
 
 ---
 
@@ -657,6 +709,8 @@ Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with povert
 ...
 
 [Data](articles/d01cf083.json)
+
+[Extended Data](ext_articles/d01cf083.ext.json)
 
 ---
 
@@ -2163,57 +2217,5 @@ The third term is due to end the third term invested on January 17, 2025, the Mi
 [Data](articles/dd78c487.json)
 
 [Extended Data](ext_articles/dd78c487.ext.json)
-
----
-
-### The food prices increase
-
-*2024-03-02 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194048) · `si`
-
-Food prices rise, with All Ceylon Restaurant and Restaurants Thera increasing prices from midnight. Chairman Rukshan explains production costs led to price hikes.
-
-🟩
-
-The All Ceylon Restaurant and Restaurants Thera says that the prices of the restaurant dates will increase from midnight (02).
-
-The Chairman of the Assistant Rukshan was speaking at a media briefing.
-
-The cost of production of foods has decided to increase the prices of all the foods.
-
-Accordingly, the price of a platitude has decided to increase the prices of Rs.
-
-He added that if the consumer goods prices will be given to the people, he added.
-
-◼️
-
-[Data](articles/8597aae3.json)
-
-[Extended Data](ext_articles/8597aae3.ext.json)
-
----
-
-### Hundreds of Sri Lankan nurses to join Saudi hospitals in 2024
-
-*2024-03-02 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97688/hundreds-of-sri-lankan-nurses-to-join-saudi-hospitals-in-2024) · `en`
-
-Sri Lanka is preparing to send hundreds of nurses to join hospitals in Saudi Arabia in 2024, the Ministry of Labor said on Friday.
-
-The first phase of the recruitment process took place in Colombo this week and was overseen by the Saudi Ministry of Health and Sri Lanka’s Labor and Foreign Employment Minister Manusha Nanayakkara.
-
-“Saudi Arabia is looking for medical and paramedical staff from countries such the Philippines, Indonesia, and Sri Lanka to meet the growing demand of this sector in the Kingdom,” Sanjay Nallaperuma, media secretary of the Ministry of Labor and Foreign Employment, told Arab News.
-
-“Initially, they want to recruit 1,000 nurses in a phased operation throughout the next 12 months.”
-
-Ninety-five nurses were selected during the first phase out of 400 candidates.
-
-“Those selected were qualified nurses and they had a Bachelor of Science degree,” Nallaperuma said.
-
-“The Saudi Ministry of Health will post them in government hospitals in all parts of the Kingdom.”
-
-...
-
-[Data](articles/0a994cea.json)
-
-[Extended Data](ext_articles/0a994cea.ext.json)
 
 ---

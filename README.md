@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 18:33:09**
+As of **2024-03-03 18:50:11**
 
 ## Newspaper Stats
 
-*Scraped **10,601** Articles*
+*Scraped **10,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 894
-adaderanalk | 1,293
-tamilmirrorlk | 1,303
+adaderanalk | 1,294
+tamilmirrorlk | 1,305
 virakesarilk | 1,422
 dailymirrorlk | 1,610
 adaderanasinhalalk | 1,644
@@ -26,25 +26,49 @@ adaderanasinhalalk | 1,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,599 (100.0%) of 10,601 articles have been extended.
+10,601 (100.0%) of 10,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### කළු ගඟේ කාන්තා මළසිරුරක්
+### Inmate at Galle Prison currently receiving treatment for meningitis
+
+*2024-03-03 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97705/inmate-at-galle-prison-currently-receiving-treatment-for-meningitis-) · `en`
+
+Another case of meningitis has been reported within the Galle Prison, nearly a month after a series of such cases were reported from several prisons across the country.
+
+Accordingly, an inmate who had been imprisoned on February is currently receiving treatment at the Karapitiya Teaching Hospital after displaying symptoms of meningitis.
+
+Director of the Prison Health Services Dr. Hemantha Ranasinghe stated, however, that the inmate is not in critical condition, and has been the only one to displays such symptoms thus far.
+
+Earlier this year, and in latter stage of 2023, several inmates of the Galle and Matara Prisons contracted meningitis, of whom three died.
+
+◼️
+
+[Data](articles/c615d385.json)
+
+---
+
+### A female body of the black river
 
 *2024-03-03 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194085) · `si`
 
-කළු ගඟේ පාවෙමින් තිබියදී අනන්‍යතාවය තහවුරු නොවූ කාන්තා මළ සිරුරක් සොයාගෙන ඇති බව දකුණු කළුතර පොලීසිය පවසයි.
+A woman's body found in the Black River, believed to be from Kalutara, is suspected to be around 50 years old.
 
-පොලීසිය වෙත තොරතුරු වාර්තා වී ඇත්තේ මෙම කාන්තාව අවස්ථා කිහිපයකදී කළුතර නගරය ආශ්‍රිතව ජීවත්ව සිට ඇති බවටය.
+🟩
 
-එම කාන්තාවගේ වයස අවුරුදු 50ක් පමණ වන බවට පොලීසිය සැකපළ කරයි.
+The body of a woman who was unable to find a woman's body found in the Black River, police said.
+
+The police have reportedly reported that the woman was living in Kalutara on several occasions.
+
+Police suspect that the woman is about 50 years old.
 
 ◼️
 
 [Data](articles/ceec8a22.json)
+
+[Extended Data](ext_articles/ceec8a22.ext.json)
 
 ---
 
@@ -62,21 +86,41 @@ President Ranil Wickremesinghe attended the 94th historic "Battle of the Maroons
 
 ---
 
-### කඩුගන්නාවේදී සිදුවූ බිහිසුණු අනතුර
+### The terrible accident occurred in Kadugannawa
 
 *2024-03-03 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194084) · `si`
 
-කඩුගන්නාව ප්‍රදේශයේදී බස් රථයක තිරිංග අක්‍රීය වීමෙන් සිදුවන්නට ගිය විශාල අනතුරක් වළක්වා ගැනීමට බස් රථයේ රියදුරු සමත්ව තිබේ.
+A bus driver in Kadugannawa prevented a crash by braking on a steep slope, saving the bus from colliding with a table.
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ මහනුවර සිට කොළඹ බලා ධාවනය වෙමින් තිබූ පෞද්ගලික බස් රථයකි.
+🟩
 
-කඩුගන්නාව ප්‍රදේශයේ පහළ කඩුගන්නාව ආසන්නයේ අධික බෑවුමක් සහිත ස්ථානයකදී මෙලෙස බස් රථයේ තිරිංග අක්‍රීය වී තිබේ.
+The bus driver has been able to prevent a large crash from the brake in Kadugannawa.
 
-එහිදී රියදුරු ආරක්ෂාකාරීව බස් රථය ඉදිරියට ධාවනය කොට බස් රථය දකුණු පස කන්දේ ගැටීමට සලස්වා බස් රථය නවත්වාගැනීමට සමත්ව ඇත.
+The victim was a private bus traveling from Kandy to Colombo.
+
+The bus brake has been disabled at a place where there is an excessive slope near the lower cadiness in Kadugannawa.
+
+The driver protected the bus and stood the bus to collide the bus on the right table.
 
 ◼️
 
 [Data](articles/32bb9999.json)
+
+[Extended Data](ext_articles/32bb9999.ext.json)
+
+---
+
+### அசானிக்கு இந்திய கல்லூரியில் இடம்
+
+*2024-03-03 18:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசானிக்கு-இந்திய-கல்லூரியில்-இடம்/175-334143) · `ta`
+
+இந்தியா தமிழ்நாடு போரூரில் அமைந்துள்ள அரசினர் மகளிர் கல்லூரியில் அசானி தனது கல்வியை தொடர அனுமதி பெற்று கல்லூரியில் இணைந்துள்ளார்.
+
+தென்னிந்திய தமிழ் தொலைக்காட்சியில் ஒளிபரப்பாகிய சரிகமப நிகழ்ச்சியில் பங்கேற்று தனது திறமையை காண்பித்தவர் அசானி, இவர்  புசல்லாவை, நயாபன பகுதியை சேர்ந்தவர் என்பது குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/44776aad.json)
 
 ---
 
@@ -193,6 +237,18 @@ If the Edka Agreement is signed. Economicly affected Sri Lankans will be conside
 [Data](articles/4731bf08.json)
 
 [Extended Data](ext_articles/4731bf08.ext.json)
+
+---
+
+### ஆனந்த - நாளந்த  கிரிக்கெட் போட்டி ;  ஜனாதிபதி விஜயம்
+
+*2024-03-03 17:19:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆனந்த-நாளந்த-கிரிக்கெட்-போட்டி-ஜனாதிபதி-விஜயம்/175-334142) · `ta`
+
+கொழும்பு SSC மைதானத்தில்  நடைபெறும் கொழும்பு , ஆனந்த - நாளந்த கல்லூரிகளுக்கு இடையிலான 94 ஆவது கிரிக்கெட் பெரும் சமர் போட்டியைக் காண ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர்  இணைந்து கொண்டார்.
+
+◼️
+
+[Data](articles/c79339a5.json)
 
 ---
 
@@ -2229,51 +2285,5 @@ Are you aware of that 'seven wildlife stars'?It includes four species of mammals
 [Data](articles/72f8c49e.json)
 
 [Extended Data](ext_articles/72f8c49e.ext.json)
-
----
-
-### Exterminators PLC re-launches its website under patronage of newly appointed chairman Dr. Kishu Gomes
-
-*2024-03-03 01:41:00* · [`islandlk`](http://island.lk/exterminators-plc-re-launches-its-website-under-patronage-of-newly-appointed-chairman-dr-kishu-gomes/) · `en`
-
-...
-
-[Data](articles/18130473.json)
-
-[Extended Data](ext_articles/18130473.ext.json)
-
----
-
-### SLT-MOBITEL teams up with BaseKit Platform UK to launch new web builder ‘CubKit’ empowering Lankan SMEs
-
-*2024-03-03 01:41:00* · [`islandlk`](http://island.lk/slt-mobitel-teams-up-with-basekit-platform-uk-to-launch-new-web-builder-cubkit-empowering-lankan-smes/) · `en`
-
-SLT-MOBITEL has announced a strategic partnership with BaseKit Platform Limited, a UK-based company specializing in intuitive web development tools, to introduce a unique website development solution empowering Sri Lankan small and medium enterprise (SMEs).
-
-Partnering with BaseKit to launch CubKit aligns with SLT-MOBITEL mission to digitally empower every Sri Lankan business, delivering innovative new services tailored for the Sri Lankan market.
-
-The SLT-MOBITEL’s MSME Product Development team has entered into an agreement with BaseKit Platform Limited to collaborate in introducing and distributing the product within the Sri Lankan market. At the hybrid event held recently, Simon Best, CEO, and Founder of BaseKit Platform Limited, attended virtually with Janaka Abeysinghe, Chief Executive Officer of SLT-MOBITEL Group, signing the agreement at the SLT-MOBITEL main Boardroom, in Sri Lanka. Carl Kill, Business Development Executive – at Basekit, also joined virtually.
-
-...
-
-[Data](articles/240e263c.json)
-
-[Extended Data](ext_articles/240e263c.ext.json)
-
----
-
-### HNB Assurance welcomes Rimoe Saldin as Non-Independent Non-Executive Director
-
-*2024-03-03 01:41:00* · [`islandlk`](http://island.lk/hnb-assurance-welcomes-rimoe-saldin-as-non-independent-non-executive-director/) · `en`
-
-HNB Assurance PLC last week announced the appointment of Rimoe Saldin as Non-Independent Non-Executive Director to its Board with effect from Feb 19, 2024.
-
-Saldin is a Fellow of the Institute of Chartered Accountants of Sri Lanka and an Associate of Institute of Chartered Accountants of England and Wales. He is also a Fellow of the Chartered Institute of Management Accountants in UK and a Certified Management Accountant, Australia. He is an alumni of the Asian Institute of Management Manila. He has over 30 years of top management level experience in the areas of Finance, Human Resource Development, General Management and Operations as well as Chief Executive Officer.
-
-...
-
-[Data](articles/f3dd965f.json)
-
-[Extended Data](ext_articles/f3dd965f.ext.json)
 
 ---

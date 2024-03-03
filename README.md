@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 01:50:02**
+As of **2024-03-04 02:03:38**
 
 ## Newspaper Stats
 
-*Scraped **10,652** Articles*
+*Scraped **10,661** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 101
+colombotelegraphcom | 104
 bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-dailyftlk | 569
 islandlk | 569
+dailyftlk | 572
 adalk | 899
 adaderanalk | 1,301
 tamilmirrorlk | 1,306
-virakesarilk | 1,431
+virakesarilk | 1,434
 dailymirrorlk | 1,616
 adaderanasinhalalk | 1,651
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,652 (100.0%) of 10,652 articles have been extended.
+10,652 (99.9%) of 10,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Dawoodi Bohras Spiritual Leader meets President
+
+*2024-03-04 01:43:36* · [`dailyftlk`](https://www.ft.lk/news/Dawoodi-Bohras-Spiritual-Leader-meets-President/56-759140) · `en`
+
+The spiritual leader of the Dawoodi Bohras, His Holiness Dr. Syedna Mufaddal Saifuddin Saheb yesterday called on President Ranil Wickremesinghe at the official residence of the President on Paget Road.
+
+The Dawoodi Bohra community, numbering approximately one million worldwide, resides across various countries including India, Pakistan, USA, UK, Canada, Sri Lanka and Australia.
+
+Dr. Syedna Mufaddal Saifuddin Saheb engaged in a warm and cordial conversation with President Ranil Wickremesinghe, expressing appreciation for the President’s efforts towards bolstering the economy of Sri Lanka.
+
+During their interaction, Dr. Syedna Mufaddal Saifuddin Saheb brought to President Ranil Wickremesinghe’s attention the forthcoming Bohra Conference scheduled to be held this year in the vicinity of the Bambalapitiya Bohra Mosque.
+
+As a gesture of goodwill, a book documenting various programs and religious services conducted by the Bohra community over the past four years was presented to the President.
+
+...
+
+[Data](articles/d8896969.json)
+
+---
+
+### Sapugaskanda oil refinery to undergo 45-day mandatory maintenance in July
+
+*2024-03-04 01:42:08* · [`dailyftlk`](https://www.ft.lk/news/Sapugaskanda-oil-refinery-to-undergo-45-day-mandatory-maintenance-in-July/56-759139) · `en`
+
+The Sapugaskanda Oil Refinery is set to undergo a scheduled 45-day shutdown in early July 2024, marking the first major maintenance since its previous turnaround in February 2021.
+
+Issuing a statement, the Ceylon Petroleum Corporation (CPC) noted that this mandatory maintenance period is essential for ensuring the refinery’s compliance with international norms, guaranteeing safe and reliable operations for the next three years.
+
+The shutdown is part of a routine process aimed at enhancing the refinery’s efficiency and longevity. Once the maintenance is complete, the refinery will undergo upgrades to align with Sri Lanka’s evolving product requirements, ensuring its continued contribution to the nation’s energy sector.
+
+...
+
+[Data](articles/b335abb2.json)
+
+---
+
+### Arrested official to provide confidential statement today over immunoglobulin scandal
+
+*2024-03-04 01:40:55* · [`dailyftlk`](https://www.ft.lk/news/Arrested-official-to-provide-confidential-statement-today-over-immunoglobulin-scandal/56-759138) · `en`
+
+Health Ministry Additional Secretary Dr. Saman Rathnayake, who was arrested and remanded over the import of the immunoglobulin scandal, is set to provide a confidential statement today regarding the case.
+
+Dr. Rathnayake expressed his willingness to provide a confidential statement during a court session on Saturday, where the case over the procurement, supply, and distribution of the controversial medicine was taken up. The Criminal Investigation Department (CID) arrested Dr. Rathnayake on Friday evening after recording his statement for over seven hours.
+
+Following his arrest, the Court issued an order remanding Dr. Rathnayake till 14 March, based on facts presented by Deputy Solicitor General Lakmini Girihagama, when he was produced before the Maligakanda Magistrate’s Court on Saturday.
+
+...
+
+[Data](articles/ae471f26.json)
+
+---
+
+### போரா சமூக ஆன்மீகத் தலைவர் ஜனாதிபதியை சந்தித்தார்
+
+*2024-03-04 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177834) · `ta`
+
+போரா சமூகத்தின் ஆன்மீகத் தலைவர் கலாநிதி புனித செய்யதினா முஃபத்தல் செய்புதீன் சாஹிப் மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு ஞாயிற்றுக்கிழமை (3) பிற்பகல் பெஜெட் வீதியிலுள்ள ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்தில் நடைபெற்றது.
+
+போரா சமூகத்தின் ஒரு மில்லியனுக்கும் அதிகமான உறுப்பினர்கள் இந்தியா, பாகிஸ்தான், அமெரிக்கா, இங்கிலாந்து, கனடா, இலங்கை, அவுஸ்திரேலியா உள்ளிட்ட பல நாடுகளில் வாழ்கின்றனர்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்ட கலாநிதி செய்யதினா முஃபத்தல் செய்புதீன், இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்ப ஜனாதிபதி நடைமுறைப்படுத்தியுள்ள வேலைத்திட்டத்தைப் பாராட்டினார்.
+
+அத்துடன், பம்பலப்பிட்டி போரா பள்ளிவாசலை அண்டி  நடத்தப்படும் போரா மாநாட்டை இவ்வருடம் நடத்துவது தொடர்பிலும் ஜனாதிபதியின் கவனத்திற்குக் கொண்டு வரப்பட்டது.
+
+கடந்த 4 வருடங்களாகப் போரா சமூகத்தினர் ஆற்றிய சமய சேவைகள் உள்ளிட்ட பல்வேறு விடயங்கள் அடங்கிய புத்தகமும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/a751eda5.json)
+
+---
+
+### வெற்றிலைக்கேணியில் மீனவர்கள் இடையே முறுகல் ; பொலிசாருடனும் முரண்பாடு
+
+*2024-03-04 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/177833) · `ta`
+
+வடமராட்சி கிழக்கு வெற்றிலைக்கேணியில் மீனவர்கள் இடையே ஞாயிற்றுக்கிழமை (02) முறுகல் நிலை ஏற்பட்டது.
+
+வெற்றிலைக்கேணி கடற்றொழிலாளர் சங்கத்திற்குட்பட்ட கடல் பகுதியில் உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்வதற்கு குறித்த சங்கத்தால் தடை விதிக்கப்பட்டது.
+
+உடனடியாக உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்வதை நிறுத்துமாறு வெற்றிலைக்கேணி மீனவர்களின் கையொப்பத்துடன் வெற்றிலைக்கேணி கடற்றொழிலாளர் சங்கத்தினரால் கரைவலை தொழில் சம்மாட்டியிடம் கடிதம் கையளிக்கப்பட்டது.
+
+எனினும் தமது அறிவுறுத்தலைப் பொருட்படுத்தாது தொடர்ச்சியாக உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்துவருவதால் நேற்று காலை குறித்த கரைவலை வாடி மீனவர்களால் முற்றுகையிடப்பட்டு உழவு இயந்திரம் மூலம் கரைவலை இழுப்பது நிறுத்தப்பட்டது.
+
+சம்பவ இடத்தில் அதிகளவான மீனவர்கள் ஒன்று கூடியதால் சிறிது நேரம் பதட்டம் நிலவியதுடன் சம்பவ இடத்திற்கு வருகை தந்த மருதங்கேணி பொலிசாருடனும் மீனவர்கள் முறுகலில் ஈடுபட்டனர்.
+
+உடனடியாக உழவு இயந்திரம் பாவித்து கரைவலை தொழில் செய்வதை நிறுத்தாவிடில் எதிர்ப்பு நடவடிக்கையில் ஈடுபடப்போவதாகவும் அப்பகுதி மீனவர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/18c0f930.json)
+
+---
 
 ### Sri Lanka to improve commercial dispute resolution through mediation
 
@@ -45,6 +139,26 @@ The challenge to Sri Lanka is to provide for a comprehensive ecosystem for the d
 [Data](articles/e38027a5.json)
 
 [Extended Data](ext_articles/e38027a5.ext.json)
+
+---
+
+### அர்ஷான், ஷாருஜனின் அபார துடுப்பாட்டங்கள் புனித பெனடிக்டின் வெற்றியை உறுதிசெய்தன; 7 நாட்களில் 2ஆவது தடவையாக வெஸ்லியை வென்றது புனித பெனடிக்ட்
+
+*2024-03-04 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/177832) · `ta`
+
+வெஸ்லி கல்லூரிக்கு எதிராக பி.சரவணமுத்து ஓவல் விளையாட்டரங்கில் சனிக்கிழமை (02) நடைபெற்ற 4ஆவது வருடாந்த ஒருநாள் கிரிக்கெட் போட்டியில் 6 விக்கெட்களால் வெற்றியீட்டி அருட்சகோதரர் லூக் கிறகறி கேடயத்தை புனித பெனடிக்ட் சுவீகரித்தது.
+
+இந்த இரண்டு கல்லூரிகளுக்கும் இடையிலான வருடாந்த 2 நாள் கிரிக்கெட் போட்டியில் 46 ஓட்டங்களால் வெற்றிபெற்ற புனித பெனடிக்ட் கல்லூரி, வெஸ்லிக்கு எதிராக 7 நாட்கள் இடைவெளியல் இரண்டாவது வெற்றியைப் பதிவுசெய்தது.
+
+ஒரு வாரத்துக்கு முன்னர் நடைபெற்ற வண. ஜேம்ஸ் காட்மன் கிண்ணத்துக்கான வருடாந்த 2 நாள் கிரக்கெட் போட்டியில் 46 ஓட்டங்களால் புனித பெனடிக்ட் வெற்றிபெற்றிருந்தது.
+
+ஸ்டீவன் அர்ஷான் ஜோசப், அணித் தலைவர் சண்முகநாதன் ஷாருஜன் ஆகிய இருவரும் குவித்த அரைச் சதங்களும் 4ஆவது விக்கெட்டில் அவர்கள் இருவரும் பகிர்ந்த சாதனைமிகு 111 ஓட்டங்களும் புனித பெனடிக்ட் அணியின் வெற்றியை இலகுவாக்கின.
+
+இந்த இரண்டு அணிகளுக்கு இடையிலான வருடாந்த ஒருநாள் கிரிக்கெட் போட்டியில் பதிவான சகல விக்கெட்களுக்குமான அதிசிறந்த இணைப்பாட்டம் இதுவாகும்.
+
+...
+
+[Data](articles/1734920d.json)
 
 ---
 
@@ -702,6 +816,18 @@ In a gesture of goodwill, a meticulously compiled book showcasing the Bohra comm
 
 ---
 
+### Ronnie De Mel: A True Democrat & An Economics Philosopher To The End
+
+*2024-03-03 20:09:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ronnie-de-mel-a-true-democrat-an-economics-philosopher-to-the-end/) · `en`
+
+Ronnie de Mel, best known as a former finance minister, is no more with us. During his long life, short by one year for a century, he had been to many trades. Throughout his life, he had been a student of history, having completed a first-class honours degree in history at the University of Ceylon in 1947. Had he remained at the university as an academic, he would have been one of the most respected historians of our time. But fate drove him elsewhere.
+
+...
+
+[Data](articles/c2933e3e.json)
+
+---
+
 ### 8 Sri Lankan aircraft have been removed but Rs. 5646 paid the rent
 
 *2024-03-03 20:05:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-8ක්-ඉවත්-කර-ඇතත්-රු-මි--5646ක්-කුලී-ගෙවලා/11-408400) · `si`
@@ -769,6 +895,18 @@ Police are investigating the cause of the fire.
 [Data](articles/ef2ffc17.json)
 
 [Extended Data](ext_articles/ef2ffc17.ext.json)
+
+---
+
+### Electricity, Costs, Options Needs & Priorities
+
+*2024-03-03 19:17:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electricity-costs-options-needs-priorities/) · `en`
+
+It is beyond dispute that reliable, adequate, cheap and clean generation of electrical power is a pre-requisite for national development, especially through Direct Foreign investment (FDI). Per capita energy use is sometimes also regarded as a measure of “development”. Despite the claims that Sri Lanka’s coverage of electric power availability, is impressive, there are other matters that are evidently not so. Unfortunately, several aspects of the power picture are in deficit, and may even serve to support or conceal, the seamier side (inefficiency or corruption).
+
+...
+
+[Data](articles/f9fd5abc.json)
 
 ---
 
@@ -977,6 +1115,18 @@ Police suspect that the woman is about 50 years old.
 [Data](articles/ceec8a22.json)
 
 [Extended Data](ext_articles/ceec8a22.ext.json)
+
+---
+
+### Getting Ready For Presidential Election
+
+*2024-03-03 18:12:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/getting-ready-for-presidential-election/) · `en`
+
+President Ranil Wickremesinghe’s tenure will be over by November 2024. Constitution Section 31.3 stipulates that “not less than one month and not more than two months before the expiration of the term of office of the President” the notification for the presidential poll must be issued. In the present context the deadline for election notification is due before September 4, 2024. Barring some unforeseen calamity, the presidential elections will have to be held before October 2024.
+
+...
+
+[Data](articles/737c38b1.json)
 
 ---
 
@@ -2011,215 +2161,5 @@ Meanwhile, schools in the Sabaragamuwa Province have been released before the ex
 [Data](articles/b2db2575.json)
 
 [Extended Data](ext_articles/b2db2575.ext.json)
-
----
-
-### A new mechanism for public service
-
-*2024-03-03 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194072) · `si`
-
-The Ministry of Public Administration and Home Affairs has issued a circular to prevent disputes in public service, aiming to build high-quality service in Sri Lanka through workplace collaboration. This mechanism, implemented in health and transport sectors with ILO support, is expected to improve productivity and quality across the public service.
-
-🟩
-
-The Ministry of Public Administration and Home Affairs has issued a circular to prevent disputes and resolution disputes.
-
-The circular has been issued to the Presidential Secretaries, Chief Secretaries, Departments, District Secretaries, District Secretaries, Divisional Secretaries, Divisional Secretaries, Public Corporations and Statutory Institutions.
-
-The mechanism is to be implemented to build a high quality public service in Sri Lanka and to provide a high quality public service in the country through workplace collaboration.
-
-The circular has been prepared as per the decision taken by the Cabinet of the Cabinet of the Public Service to prevent the proposed mechanism for disputes.
-
-Accordingly, the proposed new mechanism is expected to be implemented in the entire public service and is scheduled to be implemented in three layers of services and national level.
-
-...
-
-[Data](articles/8235791f.json)
-
-[Extended Data](ext_articles/8235791f.ext.json)
-
----
-
-### Brain fever again from Galle prison
-
-*2024-03-03 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194071) · `si`
-
-A prisoner in Galle Prison is ill, but not seriously. Dr. Hemantha Ranasinghe, Prison Health Services Director, treats the patient at Karapitiya Teaching Hospital. Despite two brain patients dying, the prison has a special program to control the disease.
-
-🟩
-
-Prison Health Services Director Dr. Hemantha Ranasinghe said that the patient is currently receiving treatment at the Karapitiya Teaching Hospital.
-
-A prisoner in prison has become ill.
-
-His condition is not serious and said Dr. Hemantha Ranasinghe said that there was no identity patients on prison.
-
-A few brain patients were reported from the Galle Prison, where two patients were killed.
-
-However, Prison Health Services Director Dr. Hemantha Ranasinghe said that a special program has been implemented by the prison health aspects to control the disease.
-
-◼️
-
-[Data](articles/d9dfe314.json)
-
-[Extended Data](ext_articles/d9dfe314.ext.json)
-
----
-
-### Heat advisory raised to caution level in 14 districts, showers expected on Monday
-
-*2024-03-03 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-raised-to-caution-level-in-14-districts-showers-expected-on-Monday/108-278127) · `en`
-
-The temperature felt on the human body is expected to increase up to ‘Caution level’ at some places in the North-Western, Western, Southern, Sabaragamuwa and Eastern Provinces and in the Mannar district on Sunday, the Department of Meteorology said.
-
-Issuing a heat advisory, the Department said the advisory was increased to ‘Caution level’ across 14 districts including Colombo, Gampaha, Kalutara, Puttalam, Galle, Matara, Hambantota, Ratnapura, Kurunegala, Kegalle, Mannar, Trincomalee, Batticaloa and Ampara.
-
-However, temporary relief from the dry spell is expected on Monday in certain areas, with showers or thundershowers expected in the Kalutara, Ratnapura, Nuwara-Eliya, Galle and Matara districts in the evening or night, the Department said. Mainly dry weather will prevail elsewhere in the island, they added.
-
-◼️
-
-[Data](articles/bc0ca729.json)
-
-[Extended Data](ext_articles/bc0ca729.ext.json)
-
----
-
-### The President's Scholarship Scheme
-
-*2024-03-03 12:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-திட்டம்-ஆரம்பம்/175-334127) · `ta`
-
-The President's Scholarship Scheme 2024/25, targeting 100,000 economically disadvantaged students, has opened applications until March 2024. Applicants can find information in Sinhalese, Tamil, and English on the Presidential Fund's official Facebook page and website. Applications must be submitted to school headmasters by the deadline. The Ministry of Education has issued guidelines for selecting students, with the President's Fund providing scholarships for 12 months from April 2024. The program aims to support students from Grade 1 to 11 across 10,126 schools in Sri Lanka, with a total allocation of 3,600 million rupees.
-
-🟩
-
-The application process for the "Presidential Scholarship Scheme 2024/25", which targets 100,000 schoolchildren facing economic difficulties, has now begun.
-
-Applications are accepted till March 2024 in accordance with President Ranil Wickremesinghe's vision.
-
-Applicants can access all the information in Sinhalese, Tamil and English through the Official Facebook page of the Presidential Fund and the Official Website of the Presidential Fund and www.presidsfund.
-
-Gov.lk applicants must submit their completed applications to the respective school headmasters before the deadline.
-
-The Ministry of Education has issued a special circular to the principals of the Zonal/Provincial Education Offices and all the state schools across the country.
-
-...
-
-[Data](articles/3ad6a978.json)
-
-[Extended Data](ext_articles/3ad6a978.ext.json)
-
----
-
-### Member arrested for selling elements
-
-*2024-03-03 12:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கம்-விற்ற-அழகிகள்-எண்மர்-கைது/175-334124) · `ta`
-
-Two managers and eight women, accused of selling women for money under the pretense of Ayurvedic centers, were arrested in Maharagama. The women, aged 25-50, were detained in various areas. The spa stations, falsely claimed as Ayurvedic Central Stations, were raided by the Maharagama police.
-
-🟩
-
-Two managers, including eight beauties, have been arrested on charges of selling beautiful women for money under the guise of Ayurvedic centers.
-
-The incident has taken place in Maharagama. Women between the ages of 25 and 50 have been arrested in the areas of Ampara, Ingiriya, Ratnapura, Tamana, Nivithikala and Nawalapitiya.
-
-These spa stations have been held under the guise of the Ayurvedic Central Station in the areas of Maharagama Vathekadera and Pannipitiya Thebanama.
-
-Based on the information available, the Maharagama police said that the raid was conducted against the two spa stations.
-
-◼️
-
-[Data](articles/a2eac77e.json)
-
-[Extended Data](ext_articles/a2eac77e.ext.json)
-
----
-
-### Disturbing Echoes Of The Last Phase Of The Civil War In Sri Lanka & The Treatment Of Palestinians Under Zionist Occupation – Part III
-
-*2024-03-03 12:15:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/disturbing-echoes-of-the-last-phase-of-the-civil-war-in-sri-lanka-the-treatment-of-palestinians-under-zionist-occupation-part-iii/) · `en`
-
-In the Manichean universe of the Zionists and the Lankan state their actions are beyond reproach, but the actions of the oppressed are unjust and immoral. They make no allowance for the historical reasons for resistance. Violence by the oppressed is not new. The First Nations of Australia resisted the colonisers from 1788 to just before the Second World War; there were indigenous rebellions in many parts of what is now South America and in the United States, including the Nat Turner revolt by enslaved African Americans; there was the Mau Mau rebellion in the British colony of Kenya. There were many others less well known. What they share is resistance to a better armed and resourced enemy. Armed resistance follows a period where the possibilities of negotiation are narrowed until they are non-existent and violence seems for some the only other choice.
-
-...
-
-[Data](articles/26aaab18.json)
-
-[Extended Data](ext_articles/26aaab18.ext.json)
-
----
-
-### Pakistani Prime Minister Shebaz Sharif
-
-*2024-03-03 12:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தான்-பிரதமர்-ஷெபாஸ்-ஷெரீப்/50-334122) · `ta`
-
-Shebaz Sharif, leader of the Pakistani Muslim League -Nawaz, was elected 33rd Prime Minister of Pakistan, forming a coalition with the Pakistan People's Party. The coalition holds 75 out of 265 seats.
-
-🟩
-
-Parliamentary elections were held in Pakistan on the 8th of last month amid various riots. Former Prime Minister Imran Khan's supporters who have continued to be in prison in the voting number have not been fully supportive, despite the seizure of various places.
-
-Similarly, the Pakistani Muslim League -Nawaz Party of former Prime Minister Nawaz Sharif and the Pakistan People's Party of Pakistan, the son of former Pakistani Prime Minister Benazir Bhutto, have seized considerable constituencies.. After a series of talks, the Pakistan Muslim League -Nawaz and the Pakistan People's Party decided to form an alliance regime. Shebas Sharif was then elected prime minister of the coalition regime.
-
-Pakistani Muslim League -Nawaz Party leader Shebaz Sharif is due to take office today as the 33rd Prime Minister of the coalition.
-
-...
-
-[Data](articles/83450539.json)
-
-[Extended Data](ext_articles/83450539.ext.json)
-
----
-
-### The US threw humanitarian aid using Gaza-
-
-*2024-03-03 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/177790) · `ta`
-
-The US has provided humanitarian aid to Gaza, including 38,000 food packages dropped by C-130 airplanes, marking the first time the US has taken such action. This follows the killing of over 110 people in Israeli attacks on Palestinians near the Food Series, prompting an increase in aid.
-
-🟩
-
-US officials have said that the US has threw humanitarian aid on Gaza.
-
-The US has taken action as the US president has said that the humanitarian aid to Gaza will be increased following the killing of more than 110 people in the Israeli firing on Palestinians surrounding the Food Series.
-
-The Central Command of the United States said that C 130 airplanes were thrown by 38,000 food packages into Gaza.
-
-Britain and Egyptian Jordan have previously taken such measures against Gaza, but this is the first time the US is taking such action.
-
-Bitton administration officials said that the tragic event on Thursday has emphasized the need to maintain humanitarian assistance to the area due to the worst humanitarian situation in Gaza.
-
-◼️
-
-[Data](articles/78ca6a21.json)
-
-[Extended Data](ext_articles/78ca6a21.ext.json)
-
----
-
-### Schoolgiru, who crossed the Palk Strait in the lowest, sets a world record
-
-*2024-03-03 11:59:17* · [`adalk`](https://www.ada.lk/breaking_news/අඩුම-කාලයකින්-පෝක්-සමුද්‍ර-සන්ධිය-තරණය-කළ-ත්‍රිකුණාමලය-පාසල්-සිසුවෙක්-ලෝක-වාර්තාවක්-තබයි/11-408392) · `si`
-
-Schoolgiru, a 13-year-old student, set a world record by crossing the Palk Strait at the lowest point, marking a significant achievement for Rama Krishful Konniswara Hindu College, Trincomalee. The event was witnessed by the Principal of the Hindu Vidyalaya and was supervised by the main Judge Dhanga De Silva and six judges of the Sri Lanka Water Sports.
-
-🟩
-
-Rama Krishful Konniswara Hindu College, Trincomalee (Colombo-Lankapuvath) A global report on the Palk Marine Company
-
-The world record is the 13-year-old student of the school.Dhanwild's student also became a new page in the history of the country, a new page in the history of the country was a new page.
-
-The student went to the Port of Danuasokody last 04:15 at 4:00 pm and 47pm and 47 pm, the Principal of the Hindu Vidyalaya and 47 pmWas present.
-
-The company's Corporal Roshan Abeysundara, who has been trained by the student, has been a global record of the Palk Marine Company.
-
-Commenting on Trainee Corporal Roshan Abeysundle said that the student had been trained in a short time.Support said it was not forgotten.
-
-The World Report was supervised by the main Judge Dhanga De Silva and six judges of the Sri Lanka Water Sports.
-
-◼️
-
-[Data](articles/179cbeb8.json)
-
-[Extended Data](ext_articles/179cbeb8.ext.json)
 
 ---

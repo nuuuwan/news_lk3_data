@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 15:03:46**
+As of **2024-03-03 15:17:43**
 
 ## Newspaper Stats
 
-*Scraped **10,571** Articles*
+*Scraped **10,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ dailyftlk | 561
 islandlk | 569
 adalk | 892
 adaderanalk | 1,290
-tamilmirrorlk | 1,297
+tamilmirrorlk | 1,298
 virakesarilk | 1,419
 dailymirrorlk | 1,603
-adaderanasinhalalk | 1,635
+adaderanasinhalalk | 1,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,567 (100.0%) of 10,571 articles have been extended.
+10,571 (100.0%) of 10,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### අලුත් ශිෂ්‍යත්ව වැඩසටහනට අයදුම්පත් කැඳවයි
+
+*2024-03-03 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194077) · `si`
+
+"ජනාධිපති ශිෂ්‍යත්ව වැඩසටහන 2024/2025" සඳහා සුදුසුකම්ලාභීන්ගෙන් අයදුම්පත් කැඳවීම මේ වනවිට ආරම්භ කර තිබේ.
+
+මෙරට 10,126ක් වූ සමස්ත පාසල් සංඛ්‍යාව ආවරණය කරමින් පළමු ශ්‍රේණියේ සිට 11 වන ශ්‍රේණිය දක්වා අධ්‍යාපනය ලබන සිසුන් ලක්ෂයක් (100,000) වෙනුවෙන් මෙම ශිෂ්‍යාධාර ලබාදීමේ වැඩසටහන ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති අතර සමස්ත වැඩසටහන සදහා ජනාධිපති අරමුදලින් රුපියල් මිලියන 3600ක ප්‍රතිපාදන වෙන් කර තිබේ.
+
+විවිධ ආර්ථික දුෂ්කරතා හමුවේ අධ්‍යාපනය ලබන පාසල් සිසු දරුවන්ට දිරියක් ලබාදීමේ අරමුණින් ශිෂ්‍යාධාර ලබාදීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පයක් මත මෙම වැඩසටහන ක්‍රියාත්මක කෙරෙති.
+
+ඒ අනුව ජනාධිපති අරමුදලේ නිල ෆේස්බුක් පිටුව වන www.facebook.com/president.fund ඔස්සේ හා ජනාධිපති අරමුදලේ නිල වෙබ් අඩවිය වන www.presidentsfund.gov.lk ඔස්සේ අයදුම්පත, උපදෙස් පත්‍රිකාව සහ සියලුම තොරතුරු භාෂා තුනෙන්ම ලබා ගැනීමේ හැකියාව පවතියි.
+
+...
+
+[Data](articles/472118f6.json)
+
+---
 
 ### Shehbaz Sharif elected Pakistan’s prime minister for second term
 
@@ -50,6 +68,28 @@ The Feb. 8 election was marred by a mobile internet shutdown, arrests and violen
 
 [Data](articles/4a121dc9.json)
 
+[Extended Data](ext_articles/4a121dc9.ext.json)
+
+---
+
+### ஆளுநர் முஸம்மிலின் மகன் தலைமறைவு; பயணத்தடை விதிப்பு
+
+*2024-03-03 14:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளுநர்-முஸம்மிலின்-மகன்-தலைமறைவு-பயணத்தடை-விதிப்பு/175-334136) · `ta`
+
+இளம்பெண் ஒருவரை தாக்கி காயமேற்படுத்தியமை தொடர்பில் குற்றம் சாட்டப்பட்டுள்ள ஊவா மாகாண ஆளுநர் A.J.M.முஸம்மிலின் மகனுக்கு வெளிநாடு செல்வதற்கு  தடை விதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ஊவா மாகாண ஆளுநர் A.J.M.முஸ்ஸம்மிலின் மகனால் யுவதி ஒருவர் தாக்கப்பட்டதாக வெள்ளவத்தை பொலிஸாருக்கு கிடைத்த முறைப்பாட்டிற்கு அமைய, இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+ஹெவ்லொக் பார்க் வீதியிலுள்ள வீடொன்றில் வசித்து வந்த யுவதி ஒருவரே தாக்குதலுக்கு இலக்காகியுள்ளார்.
+
+குறித்த பெண் தாக்கப்பட்டமை தொடர்பில் வெள்ளவத்தை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டதையடுத்து, பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+இதன் பிரகாரம், ஊவா மாகாண ஆளுநர் A.J.M.முஸம்மிலின் மகனுக்கு  வெளிநாடு செல்வதற்கு  தடை விதிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/478328f1.json)
+
 ---
 
 ### Two aircraft from Belgian Airlines assigned to fill current shortage of SriLankan
@@ -68,6 +108,8 @@ In addition to this, an A320 type aircraft of Fitz Air has also been temporarily
 
 [Data](articles/6e3efd02.json)
 
+[Extended Data](ext_articles/6e3efd02.ext.json)
+
 ---
 
 ### STF seize 9kgs of Ice narcotics in Colombo raid
@@ -83,6 +125,8 @@ The suspects and the stock of drugs will be handed over to the Police Narcotics 
 ◼️
 
 [Data](articles/175d5cdb.json)
+
+[Extended Data](ext_articles/175d5cdb.ext.json)
 
 ---
 
@@ -535,6 +579,8 @@ Completed applications must be submitted to the respective school principals bef
 ◼️
 
 [Data](articles/9bce5007.json)
+
+[Extended Data](ext_articles/9bce5007.ext.json)
 
 ---
 
@@ -2191,39 +2237,5 @@ The suspects have revealed that a large number of robberies have been carried ou
 [Data](articles/4d9ce6ac.json)
 
 [Extended Data](ext_articles/4d9ce6ac.ext.json)
-
----
-
-### Weak litigation clears man charged for sexual harassment of foreign woman
-
-*2024-03-02 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weak-litigation-clears-man-charged-for-sexual-harassment-of-foreign-woman/108-278116) · `en`
-
-Colombo, March 2 (Daily Mirror)- A man who was charged with exposing himself in a manner of sexually harassing a foreign woman was discharged from the case by the Kaduwela Magistrate’s Court due to the weak prosecution case, which proceeded in some instances without the virtual complainant giving evidence.
-
-The Thalangama Police filed a charge sheet against the accused, alleging sexual harassment of the foreign woman through indecent exposure under Section 345 of the Penal Code. The complainant woman claimed that the driver had exposed himself to her while he was driving a vehicle at a slow speed and she had been humiliated by the incident.
-
-Police arrested the accused and produced him before court and was subsequently granted bail.
-
-The case proceeded for a considerable time, during which the foreign woman intermittently attended court on certain dates. However, at the final stage, she was missing.
-
-...
-
-[Data](articles/92d439a0.json)
-
-[Extended Data](ext_articles/92d439a0.ext.json)
-
----
-
-### Globally, A Rightward Political Shift Is Visible
-
-*2024-03-02 18:30:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/globally-a-rightward-political-shift-is-visible/) · `en`
-
-The global political scene was very left-inclined from about the mid-1960s to say ten or fifteen years ago. The sweeping trend to social democracy in post-war Europe, a surge to the left throughout Asia (Chinese Revolution, defeat of US Imperialism in Vietnam, post-war USSR, our own JVP) and a little later in Africa (Patrice Lumumba, revolution in Mozambique, Nelson Mandela etc), signposted what may be loosely called a period of global shift to the left. That ended about ten to years ago. The last spurt was perhaps Obama’s re-election. The reverse trend became prominent in the US with Trump and internationally a dynamic that began with the collapse of the Soviet Union in December 1991.
-
-...
-
-[Data](articles/ba21be84.json)
-
-[Extended Data](ext_articles/ba21be84.ext.json)
 
 ---

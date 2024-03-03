@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 21:33:13**
+As of **2024-03-03 21:51:58**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 1,649
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,621 (100.0%) of 10,624 articles have been extended.
+10,624 (100.0%) of 10,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### රටින් පනින්න හැදූ සැකකරු කටුනායකදී කොටුවෙයි
+### Suspect arrested in Katunayake
 
 *2024-03-03 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194090) · `si`
 
-අපරාධ කොට්ඨාශයේ නිලධාරින් සිදුකළ මත්කුඩු සෝදිසි මෙහෙයුමක් අතරතුර පළාගිය සැකකරුවෙකු රටින් පළායාම සඳහා කටුනායක ගුවන් තොටුපොළට පැමිණි අවස්ථාවේ ඊයේ (02) අත්අඩංගුවට ගැනීමට ගුවන්තොටුපොළ පොලීසිය සමත්ව තිබේ.
+A 30-year-old drug dealer from Vengigama was arrested at Katunayake airport for drug possession, found with drugs in a three-wheeler in Weligama, and faces a travel ban.
 
-සැකකරු ඩුබායි රාජ්‍ය බලා පිටත්ව යාමට සූදානම්ව සිටි බව වාර්තා වෙයි.
+🟩
 
-ඉකුත් දෙසැම්බර් 31වනදා වැලිගම දෙනිපිටිය ප්‍රදේශයේදී පොලීසිය සිදුකළ වැටලීමකදී ත්‍රිරෝද රථයක ශබ්ද විකාශන යන්ත්‍රයක් තුළ තිබී හෙරොයින් මත්ද්‍රව්‍ය තොගයක් සොයාගැනුණු අතර රථය පදවාගෙන ආ මෙම පුද්ගලයා එහිදී පළාගොස් තිබුණි.
+The airport was arrested at the time of his arrival at Katunayake airport for a drug search operation conducted by the crimes division.
 
-සැකකරුට එරෙහිව වැලිගම පොලීසිය විදෙස් ගමන් තහනමක්ද ලබාගෙන තිබුණේ විමර්ශනවලට අදාළවය.
+The suspect was preparing to leave for Dubai State.
 
-වැලිගම මිදිගම ප්‍රදේශයේ පදිංචි 30 හැවිරිදි පුද්ගලයෙක් වන සැකකරු ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන බව හෙළිවී ඇත.
+The man had found a stock of drugs in a three-wheeler in the Denipitiya area in Weligama road on December 31st.
 
-සැකකරුව මාතර මහෙස්ත්‍රාත් අධිකරණයට අද (03) පෙරවරුවේ ඉදිරිපත් කිරීමෙන් පසු දින 7ක් ර﻿ඳවා තබාගෙන ප්‍රශ්න කිරීමට වැලිගම පොලීසියට අවසර හිමිව තිබේ.
+The Weligama Police had also banned foreign travel ban against the suspect.
+
+The suspect, a 30 year old resident of Vengigama, is a powerful drug dealer.
+
+The Weligama Police are permitted to question 7 days after the presented to Matara Magistrate's Court today (03).
 
 ◼️
 
 [Data](articles/5caa62f0.json)
+
+[Extended Data](ext_articles/5caa62f0.ext.json)
 
 ---
 
@@ -73,6 +79,8 @@ The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1
 ...
 
 [Data](articles/5021dabf.json)
+
+[Extended Data](ext_articles/5021dabf.ext.json)
 
 ---
 
@@ -127,6 +135,8 @@ President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifudd
 ◼️
 
 [Data](articles/4c9afa6d.json)
+
+[Extended Data](ext_articles/4c9afa6d.ext.json)
 
 ---
 

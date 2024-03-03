@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 23:51:50**
+As of **2024-03-04 00:02:54**
 
 ## Newspaper Stats
 
-*Scraped **10,640** Articles*
+*Scraped **10,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 569
 adalk | 899
 adaderanalk | 1,301
 tamilmirrorlk | 1,306
-virakesarilk | 1,428
+virakesarilk | 1,429
 dailymirrorlk | 1,615
 adaderanasinhalalk | 1,651
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,636 (100.0%) of 10,640 articles have been extended.
+10,640 (100.0%) of 10,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### பாலைதீவு புனித அந்தோனியாரின் தேவாலயத்தின் நவநாள் கூட்டுத்திருப்பலி
+
+*2024-03-03 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177829) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க பாலைதீவு புனித அந்தோனியாரின் தேவாலயத்தின் நவநாள் கூட்டுத்திருப்பலி சனிக்கிழமை (02) சிறப்பாக இடம்பெற்றது.
+
+கடந்த 22.02.2024 அன்று கொடியேற்றத்துடன் ஆரம்பமாகிய நவநாள் உற்சவத்தில் சனிக்கிழமை (02) கூட்டுத்திருப்பலி இடம்பெற்றது.
+
+நவநாள் கூட்டுத்திருப்பலியினை யாழ்ப்பாண மறைமாவட்ட பங்கு குருமுதல்வர் ஏ.ஜேபரட்ணம் தலைமையிலான பங்குகுருமுதல்வர்கள் நடாத்திவைத்தனர்.
+
+◼️
+
+[Data](articles/e9d732e6.json)
+
+---
 
 ### Dawoodi Bohras spiritual leader meets President Ranil
 
@@ -1074,6 +1090,8 @@ Sri Lanka’s businesses have got used to protectionism and try to push up price
 
 [Data](articles/e849f805.json)
 
+[Extended Data](ext_articles/e849f805.ext.json)
+
 ---
 
 ### AI learning opportunity for Grade 8 and above from March 19
@@ -1347,6 +1365,8 @@ Coconut shells were 28,000 to 29,000 rupees a metric ton up from last week’s 2
 ◼️
 
 [Data](articles/c4ebdeb6.json)
+
+[Extended Data](ext_articles/c4ebdeb6.ext.json)
 
 ---
 
@@ -2114,6 +2134,8 @@ The February numbers are close to levels seen before the coronavirus pandemic.
 
 [Data](articles/a0296671.json)
 
+[Extended Data](ext_articles/a0296671.ext.json)
+
 ---
 
 ### Sri Lanka tourist arrivals in Feb led by Russia amid visa row
@@ -2133,6 +2155,8 @@ There have been criticism that Russians were running businesses, but it is not k
 ...
 
 [Data](articles/1afa74ec.json)
+
+[Extended Data](ext_articles/1afa74ec.ext.json)
 
 ---
 
@@ -2253,33 +2277,5 @@ The Minister of State Shehan Semasinghe further stated that if it is confirmed t
 [Data](articles/974bc686.json)
 
 [Extended Data](ext_articles/974bc686.ext.json)
-
----
-
-### The disconnection of the power supply of Parliament
-
-*2024-03-03 11:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாராளுமன்றத்தின்-மின்-விநியோகம்-துண்டிப்பு/50-334119) · `ta`
-
-The power supply to Ghana's parliament was cut off due to unpaid electricity bills, causing disruption during President Nana Akufo-Addo's address. Members chanted "tamsar, tamsar" and resumed with a generator. The Electricity Company warned that power will be cut off to those who don't pay their bills, highlighting the government's struggle to purchase fuel for power plants due to economic crisis.
-
-🟩
-
-There has been an incident where the power supply to the parliament has been cut off as the electricity bill for parliament has not been properly paid.
-
-The Electricity Company has cut off the power supply to the parliament of Ghana, the western African country of Ghana.
-
-Electricity has been cut off when President Nana Agfo -Atto addresses the people of Ghana Parliament. The power barrier lasted as the members were sitting, hoping to return to normal immediately.
-
-Subsequently, all the members began to chant the "tamsar, tamsar" in the language of the Akkan language.. A few minutes later, the council was sitting alone with the help of a generator.
-
-But, the rest of the parliament does not come to power. This caused many members who traveled in the power lifting.
-
-The Electricity Company spokesman William Botheng said that the parliamentary office has issued a notice several times to collect the electricity tariffs that the parliamentary office has to pay.
-
-...
-
-[Data](articles/c08c1ee1.json)
-
-[Extended Data](ext_articles/c08c1ee1.ext.json)
 
 ---

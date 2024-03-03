@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 10:50:44**
+As of **2024-03-03 11:03:12**
 
 ## Newspaper Stats
 
-*Scraped **10,530** Articles*
+*Scraped **10,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
 islandlk | 569
-adalk | 885
-adaderanalk | 1,284
+adalk | 886
+adaderanalk | 1,285
 tamilmirrorlk | 1,289
 virakesarilk | 1,417
 dailymirrorlk | 1,594
@@ -26,27 +26,47 @@ adaderanasinhalalk | 1,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,528 (100.0%) of 10,530 articles have been extended.
+10,530 (100.0%) of 10,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### බිරිඳගේ පහර දීමෙන් සැමියා මරුට
+### Sajith vows to make all schools smart-schools
+
+*2024-03-03 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97698/sajith-vows-to-make-all-schools-smart-schools-) · `en`
+
+Opposition Leader Sajith Premadasa has vowed to convert all schools in the country into smart-schools if he is elected as the President in the upcoming elections.
+
+Speaking at a ceremony held at a school in Tissamaharama, the Samagai Jana Balawegaya (SJB) leader stated that if the people of Sri Lanka make the correct decision this year, the SJB will revolutionise the country’s education system.
+
+◼️
+
+[Data](articles/d90745d0.json)
+
+---
+
+### Husband dies after wife's attack
 
 *2024-03-03 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194067) · `si`
 
-කරන්දෙණිය - ගුරුබැබිල ප්‍රදේශයේ දී කාන්තාවක් විසින් තියුණු ආයුධයකින් පහර දී සිය සැමියා ඝාතනය කර තිබේ.
+A woman in Karandeniya-Gurubabila was attacked by another woman with a sharp object, leading to her husband's death. The incident, sparked by an argument, resulted in the attacker's arrest. This is not the first time they've had disputes, with previous incidents reported to the police.
 
-දෙදෙනා අතර ඇති වූ බහින්බස් වීමක් හේතුවෙන් අද (03) අලුයම නිවස තුළ දී මෙම ඝාතනය සිදු ව ඇති බව වාර්තා වේ.
+🟩
 
-ඝාතනය සිදු කළ කාන්තාව කරන්දෙණිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A woman has been assaulted by a woman with a sharp object in the Karandeniya - Gurubabila area.
 
-දෙදෙනා අතර නිරන්තරයෙන් මෙවැනි ආරවුල් හටගෙන ඇති අතර, ඒ සම්බන්ධයෙන් අවස්ථා කිහිපයක දී කරන්දෙණිය පොලීසියට පැමිණිලි ද ඉදිරිපත් කර ඇති බව සඳහන් වේ.
+It is reported that the murder has taken place this morning due to an argument between the two.
+
+The woman was arrested by the Karandeniya Police.
+
+It is reported that such disputes have been constantly broken out between the two and several occasions have been submitted to the Karandeniya police.
 
 ◼️
 
 [Data](articles/27c79c59.json)
+
+[Extended Data](ext_articles/27c79c59.ext.json)
 
 ---
 
@@ -67,6 +87,8 @@ Also, in 2023 as well as in 2024, the people of this country will consume local 
 ...
 
 [Data](articles/b5725feb.json)
+
+[Extended Data](ext_articles/b5725feb.ext.json)
 
 ---
 
@@ -141,6 +163,22 @@ The suspect is a 24 year old resident of Atchuveli - Jaffna.
 [Data](articles/0ea3e6b3.json)
 
 [Extended Data](ext_articles/0ea3e6b3.ext.json)
+
+---
+
+### මාලේ හා කටුනායක අතර නව ගුවන් ගමනක්
+
+*2024-03-03 09:06:39* · [`adalk`](https://www.ada.lk/breaking_news/මාලේ-හා-කටුනායක-අතර-නව-ගුවන්-ගමනක්/11-408387) · `si`
+
+මාලදිවයිනේ මාලේ ගුවන් තොටුපොළේ සිට ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ දක්වා නව ගුවන් ගමනක් ආරම්භ කිරීම මාලදිවයිනේ නිල ගුවන් සේවය සැලසුම් කර තිබේ.
+
+ඒ අනුව මේ මස 25 වැනිදා සිට මෙම ගුවන් ගමන ආරම්භ කිරීමට නියමිතය. සතියට දින දෙකක් එනම් බ්‍රහස්පතින්දා හා සිකුරාදා යන ලෙස මෙම ගුවන් ගමන ක්‍රියාත්මක කරයි.
+
+මේ සඳහා A 320 වර්ගයේ ගුවන් යානයක් වෙන්කර ඇති අතර නව ගුවන් ගමන වෙනුවෙන් මේ වන විටත් ආසන වෙන් කිරීමේ පහසුකම් ඔවුන් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/9f7d9de7.json)
 
 ---
 
@@ -2189,59 +2227,5 @@ Amaraweera further mentioned that the new maximum retail price would be submitte
 [Data](articles/08f7197a.json)
 
 [Extended Data](ext_articles/08f7197a.ext.json)
-
----
-
-### Israeli Gaza
-
-*2024-03-02 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177733) · `ta`
-
-The UN reports over 100 deaths and injuries in Gaza due to Israeli firing, with Hamas blaming Israel for the incident. Israel claims the casualties were due to a collision involving food vehicles. The incident involved thousands of people and resulted in 112 deaths and 760 injuries, according to Hamas. Israeli officials deny any involvement with Palestinians, and the Israeli army has been involved in removing the public from the area.
-
-🟩
-
-The UN reports that more than 100 people have been killed in the bodies of many who have been injured in the firing of people surrounded by people surrounding Gaza.
-
-UN officials who have visited Gaza's Alziba Hospital have visited more than 200 people who have been treated for injuries.
-
-Hamas alleges that Israel's firing was caused by deaths. Israel said the losses were caused by the collision of food vehicles.
-
-The disaster occurred on Thursday morning that thousands of people surrounded the diet of Israel's protection.
-
-Videos have been revealed that the sounds of gunfire, the people's grievances and the hiding behind the lorries.
-
-112 people were killed and 760 were injured, Hamasin's Ministry of Health said.
-
-Israel said that there were casualties and injuries due to the fact that the public was tense.
-
-Israeli officials have said that the Israeli soldiers were involved in the removal of them after the public was surrounded by a vehicle.
-
-...
-
-[Data](articles/43386ea3.json)
-
-[Extended Data](ext_articles/43386ea3.ext.json)
-
----
-
-### Sapugaskanda to shutdown for major turnaround
-
-*2024-03-02 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sapugaskanda-to-shutdown-for-major-turnaround/108-278112) · `en`
-
-The Ceylon Petroleum Corporation (CPC) announced that the Sapugaskanda refinery is to go for a planned shutdown for a statutory major turnaround after three years of operations.
-
-While issuing a public notice they said the Sapugaskanda Oil Refinery will cease operations for 45 days in early July 2024, more than three years since the previous turnaround in February 2021.
-
-This is a mandatory requirement, in compliance with international norms, that qualifies the refinery for safe and reliable operations for a further three years.
-
-Once the refinery is brought back on stream after the turnaround, it will be subjected to upgrades designed to increase its contribution to Sri Lanka's changing product requirements.
-
-During the scheduled shutdown, the CPC will maintain a full capacity of crude to regain full throughput in the shortest possible time, along with a buffer stock of products for approximately twice the planned shutdown period to ensure continuous supply to customers.
-
-◼️
-
-[Data](articles/8cb4a19c.json)
-
-[Extended Data](ext_articles/8cb4a19c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 17:02:47**
+As of **2024-03-03 17:18:00**
 
 ## Newspaper Stats
 
-*Scraped **10,581** Articles*
+*Scraped **10,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 893
+adalk | 894
 adaderanalk | 1,292
-tamilmirrorlk | 1,301
+tamilmirrorlk | 1,303
 virakesarilk | 1,419
-dailymirrorlk | 1,603
+dailymirrorlk | 1,608
 adaderanasinhalalk | 1,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,581 (100.0%) of 10,581 articles have been extended.
+10,581 (99.9%) of 10,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### தரம் 8 முதல் AI
+
+*2024-03-03 16:54:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-8-முதல்-AI/175-334141) · `ta`
+
+தரம் 8 மற்றும் அதற்கு மேற்பட்ட மாணவர்களுக்கு அவர்களின் தகவல் தொழில்நுட்ப பாடத்துடன் செயற்கை நுண்ணறிவு (AI) கற்பதற்கான வாய்ப்பு கிடைக்கும் என்றும், இந்த முன்னோடி திட்டம் மார்ச் 19 முதல் 20 பள்ளிகளில் தொடங்கப்படும் என்றும் கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+இந்த பணிக்காக ஆசிரியர்களுக்கு பயிற்சி அளிக்கப்பட்டு வருவதாகவும், வரும் ஆண்டில் இது நாடு முழுவதும் நடைமுறைப்படுத்தப்படும் என்றும் அவர் சுட்டிக்காட்டினார்.
+
+எதிர்காலத்தில், நாட்டில் உள்ள ஒவ்வொரு குழந்தைக்கும் அவர்களின் திறன்கள் மற்றும் விருப்பங்களுக்கு ஏற்ப அவர்களின் எதிர்கால இலக்குகளை அடைவதற்குத் தேவையான பின்னணி வழங்கப்படும், என்றார்.
+
+◼️
+
+[Data](articles/f4ec202d.json)
+
+---
+
+### AI learning opportunity for Grade 8 and above from March 19
+
+*2024-03-03 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AI-learning-opportunity-for-Grade-8-and-above-from-March-19/108-278135) · `en`
+
+Students from Grade 8 and above will have the opportunity to study artificial intelligence (AI) with their information technology subject and this pilot project will be started in 20 schools from March 19, Education Minister Susil Premajayantha said.
+
+He pointed out that teachers are being trained for this task and it will be implemented throughout the country in the coming year.
+
+In the future, every child in the country will be provided with the necessary background to achieve their future goals according to their abilities and preferences, he said.
+
+◼️
+
+[Data](articles/56943722.json)
+
+---
+
+### நம்பிக்கையில்லாப் பிரேரணை செவ்வாய் கையளிக்கப்படும்
+
+*2024-03-03 16:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-செவ்வாய்-கையளிக்கப்படும்/175-334140) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக கைச்சாத்திடப்பட்டுள்ள நம்பிக்கையில்லாப் பிரேரணை நாளை மறுதினம் 5ஆம் திகதி கையளிக்கப்படவுள்ளதாக எதிர்கட்சியின் பிரதம கொறடாவும் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினருமான லக்ஷ்மன் கிரியெல்ல தெரிவித்துள்ளார்.
+
+இந்தப் பிரேரணைக்கு  ஐக்கிய மக்கள் சக்தி உட்பட பல எதிர்க்கட்சிகள் ஆதரவளிக்க ஏற்கனவே முடிவு செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/65d04fbe.json)
+
+---
 
 ### The no -confidence motion will be handed over tomorrow
 
@@ -49,6 +95,38 @@ It is noteworthy that many opposition parties, including the United People's Pow
 [Data](articles/959e48ee.json)
 
 [Extended Data](ext_articles/959e48ee.ext.json)
+
+---
+
+### Save Suwaseriya by increasing salary of workers: Harsha
+
+*2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Save-Suwaseriya-by-increasing-salary-of-workers-Harsha/108-278133) · `en`
+
+Colombo, March 3 (Daily Mirror)- While highlighting that the Suwaseriya ambulance service is fighting for its survival, its founder Harsha de Silva said its employee should be given a salary increment as a priority.
+
+"The CEO of Suwaseriya is fighting to save the ambulance service. Its employees can easily obtain visas from countries like Canada. A battle is being fought to save the ambulance service in such a scenario," he told a media briefing.
+
+He said it was most unfair for the Central Bank officials to increase their own salaries when Suwaseriya employees have not received any increments despite working 24 hours of the day," he added.
+
+◼️
+
+[Data](articles/41049e3d.json)
+
+---
+
+### Parents urged to cease pressure on primary school children
+
+*2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parents-urged-to-cease-pressure-on-primary-school-children/108-278134) · `en`
+
+The pressure exerted by parents on their children during primary education from Grades 1to 5 should be stopped and the necessary environment will be prepared to reduce its competitiveness, Education Minister Susil Premajayantha said.
+
+However, the Grade Five scholarship examination will be held in the future, he assured.
+
+In order to evaluate students, measures are taken to evaluate their good skills by recognizing the skills displayed by children for activities outside the classroom, the Minister added.
+
+◼️
+
+[Data](articles/a63235d8.json)
 
 ---
 
@@ -97,6 +175,22 @@ The appointment is significant after a strong conversation elected worldwide.
 [Data](articles/06ce0418.json)
 
 [Extended Data](ext_articles/06ce0418.ext.json)
+
+---
+
+### Flags of Royal-Thomian big match displayed on SriLankan flight
+
+*2024-03-03 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flags-of-Royal-Thomian-big-match-displayed-on-SriLankan-flight/108-278132) · `en`
+
+The SriLankan Airlines flight arriving from Melbourne proudly displayed the two flags of the 145th Royal Thomian big match.
+
+SriLankan Airlines reported a large contingent of supporters from both sides flying down from Melbourne aboard the aircraft, showcasing true patriotic spirit.
+
+The flags were taken down before the aircraft A330-300 commenced flight from Melbourne.
+
+◼️
+
+[Data](articles/5d212c65.json)
 
 ---
 
@@ -299,6 +393,22 @@ The suspects and the stock of drugs will be handed over to the Police Narcotics 
 [Data](articles/175d5cdb.json)
 
 [Extended Data](ext_articles/175d5cdb.ext.json)
+
+---
+
+### ශ්‍රී ලන්කන් බෙල්ජියම් ගුවන් සේවයේ ගුවන් යානා දෙකක් කුලියට ගනියි
+
+*2024-03-03 14:31:49* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-බෙල්ජියම්-ගුවන්-සේවයේ-ගුවන්-යානා-දෙකක්-කුලියට-ගනියි/11-408394) · `si`
+
+ශ්‍රී ලන්කන් ගුවන් සේවයේ පවතින වත්මන් ගුවන් යානා හිගයට පිළියමක් වශයෙන් බෙල්ජියම් ගුවන් සේවයේ ගුවන් යානා දෙකක් තාවකාලිකව කුළී පදනම මත ලබා ගෙන සේවයට එක් කර තිබේ.
+
+ඒ.- 330 - 200 වර්ගයේ එයාර් බස් වර්ගයේ මෙම ගුවන් යානා පැදවීම ද බෙල්ජියම් ගුවන් සේවා නියමුවන් විසින් සිදු කෙරේ. මෙම ගුවන් යානා තුළ ව්‍යාපාරික පංතියේ ආසන 22 ක් සහ පිරිමැසුම්දායක  ( Economy ) පංතියේ ආසන 240 ක් තිබේ.
+
+මීට අමතරව ෆිට්ස් එයාර් ගුවන් සේවයේ ඒ.320 වර්ගයේ ගුවන් යානයක් ද ශ්‍රී ලන්කන් ගුවන් සේවය විසින් තාවකාලිකව කුළී පදනම මත ලබා ගෙන සේවයට එක් කර තිබේ.
+
+◼️
+
+[Data](articles/f1be2357.json)
 
 ---
 
@@ -759,6 +869,24 @@ The World Report was supervised by the main Judge Dhanga De Silva and six judges
 [Data](articles/179cbeb8.json)
 
 [Extended Data](ext_articles/179cbeb8.ext.json)
+
+---
+
+### Applications for Presidential Scholarships 24/25 open
+
+*2024-03-03 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-for-Presidential-Scholarships-2425-open/108-278126) · `en`
+
+The "Presidential Scholarship Programme 2024/25" is currently accepting applications targeting 100,000 economically disadvantaged school students.
+
+The initiative aligns with President Ranil Wickremesinghe's vision and interested candidates can apply on or before March 20, 2024.
+
+Application forms, instructions and relevant information are available in Sinhala, Tamil and English on the official Facebook page of the President's Fund and the website www.presidentsfund.gov.lk.
+
+Completed applications must be submitted to the respective school principals before the deadline.
+
+◼️
+
+[Data](articles/664b8247.json)
 
 ---
 
@@ -2085,175 +2213,5 @@ No one has been injured in the incident and the suspects have arrived in a motor
 [Data](articles/5c469a6b.json)
 
 [Extended Data](ext_articles/5c469a6b.ext.json)
-
----
-
-### Sri Lanka expresses grave concern over death of aid seekers in Gaza
-
-*2024-03-02 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97694/sri-lanka-expresses-grave-concern-over-death-of-aid-seekers-in-gaza) · `en`
-
-Sri Lanka, expressing deep concern regarding the death of over hundred people who were waiting to receive aid in Gaza, has joined the call for investigation into the incident.
-
-Issuing a statement on Saturday (March 02), the Ministry of Foreign Affairs mentioned that the latest incident underscores the immediate need to end the blockade imposed on Gaza, depriving its civilian population, including women and children, of access to basic necessities such as food, water, medicine, electricity, and fuel.
-
-Sri Lanka reiterates its call for an immediate ceasefire and unrestricted humanitarian access to Gaza to alleviate the suffering of civilians, it added.
-
-Furthermore, the Foreign Affairs Ministry said the Sri Lanka Government approved the establishment of the “Children of Gaza Fund,” a compassionate initiative proposed by the President aimed at providing assistance to the victims in Gaza and to donate USD one million through UN agencies to provide much-needed support to the victims of Gaza.
-
-...
-
-[Data](articles/ef60b1e7.json)
-
-[Extended Data](ext_articles/ef60b1e7.ext.json)
-
----
-
-### Sabaragamuwa question paper is in social media
-
-*2024-03-02 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194058) · `si`
-
-A Sabaragamuwa Provincial Schools question paper and a Western Province answer sheet were reportedly shared on social media, leading to concerns about the integrity of the National Examinations. The Ceylon Teachers Association announced a documentary on Science and History of Sciences for 2023, and the Sabaragamuwa Provincial Education Director addressed the issue, but the Provincial Education Secretary was unreachable.
-
-🟩
-
-It is reported that a question paper of the Sabaragamuwa Provincial Schools will be exchanged along the Social Media which is scheduled to be held in the next week.
-
-It is reported that a answer sheet of a Western Province has been added to the Social Media.
-
-The events issued to the social media several hours before the National Examinations are held by the National Examinations as well as the question papers have been reported to the Social Media.
-
-Science and History of Science and History of Sciences for the year 2023
-
-It is reported that a documentary to be held in the Western school schools in the Western Province.
-
-The Ceylon Teachers Association says next Monday of Sabaragamuwa Province will be held on Monday grade 10 English English Language Subject Question Status - The second part of the subject question paper is being exchanged in social media.
-
-...
-
-[Data](articles/d1146cd1.json)
-
-[Extended Data](ext_articles/d1146cd1.ext.json)
-
----
-
-### America puts fleeing food
-
-*2024-03-02 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194057) · `si`
-
-The US has delivered about 30,000 food items to Gaza using three C-130 aircraft, following an incident where over 100 Palestinians were killed in a lorry carrying food. Hamas claims Israel attacked Israel.
-
-🟩
-
-The American war planes also condemned the aircraft to the Gaza.
-
-US authorities say that about 30,000 foods have been placed in Gaza with three c-13s.
-
-They have taken that decision after more than 100 Palestinians who met on a lorry carrying a lorry carrying food last Thursday.
-
-Hamas says that Israel was attacked by Israel.
-
-◼️
-
-[Data](articles/7ff6c0d4.json)
-
-[Extended Data](ext_articles/7ff6c0d4.ext.json)
-
----
-
-### Are Sri Lanka’s Anti-Drug Crime Operations Working?
-
-*2024-03-02 21:08:00* · [`islandlk`](http://island.lk/are-sri-lankas-anti-drug-crime-operations-working/) · `en`
-
-The Yukthiya operation appears to be a last-ditch effort by the present Sri Lankan government to salvage public support ahead of the pivotal 2024 presidential election.
-
-In a bid to tackle escalating concerns over crime and drug-related activities, the Sri Lankan government launched a special operation that goes by the name “Yukthiya” (justice) on December 17, 2023.
-
-The government has declared the operation to be a success, with over 58,000 raids resulting in 58,234 arrests and substantial drug seizures (worth about $25 million) so far. Minister of Public Security Tiran Alles has claimed a 17 percent reduction in overall crime
-
-However, the operation has come under intense scrutiny at home and abroad. There is skepticism about its impact on crime rates, while local and international human rights organizations have slammed it for rights abuses.
-
-...
-
-[Data](articles/7c64b786.json)
-
-[Extended Data](ext_articles/7c64b786.ext.json)
-
----
-
-### Donald Lu’s Comeback Story
-
-*2024-03-02 21:07:00* · [`islandlk`](http://island.lk/donald-lus-comeback-story/) · `en`
-
-More than a year after he visited Sri Lanka, US Assistant Secretary of State for the Bureau of South and Central Asian Affairs Donald Lu went on record calling Sri Lanka the greatest comeback story in “the region I work on.” He contrasted the situation two years ago – rife with shortages and riots – with the relative stability and calm present today. Pointing at the support given by India in 2022, he highlighted USAID’s humanitarian efforts in the country and the debt restructuring assistance given by Japan, France, and India.
-
-Not surprisingly, Lu does mention China, but only in the context of the pressure that US allies applied on it to grant Sri Lanka debt relief. Just as unsurprisingly, he credits Sri Lanka’s recovery to “a Little Help from friends” and “this better proposition” that the US Indo-Pacific strategy offers for the region. One can only assume he means that Sri Lanka is a comeback story partly – or largely – because of US intervention in the Indian Ocean.
-
-...
-
-[Data](articles/27373ff7.json)
-
-[Extended Data](ext_articles/27373ff7.ext.json)
-
----
-
-### CLIMATE CHANGE MITIGATION – THE DILMAH CONTRIBUTION
-
-*2024-03-02 20:50:00* · [`islandlk`](http://island.lk/climate-change-mitigation-the-dilmah-contribution/) · `en`
-
-Worldwide, the observed impacts of climate change are driving a multiplicity of conservation and mitigation strategies. Climate change is a gradually-evolving disaster which may not be reversible. However, there is much that man can do to mitigate its impact.
-
-To combat climate change, one must be able to evaluate its progress and impact scientifically. One of the major technical contributions from Dilmah to the cause of managing climate change was to establish a Climate Research Station, the first of its kind in the world by a private entity, at Queensberry Estate, Upper Kotmale. This self-sustained research centre, located at the highest point on one of Kahawatte Plantations estates, was launched in December 2017, in collaboration with the Foundation for Environment, Climate and Technology (FELT) and the University of Peradeniya.
-
-...
-
-[Data](articles/ea41bf10.json)
-
-[Extended Data](ext_articles/ea41bf10.ext.json)
-
----
-
-### Mother asks President to save his son in Myanmar
-
-*2024-03-02 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194056) · `si`
-
-Mother pleads with President Ranil Wickremesinghe to save her son in Myanmar. President acknowledges the plight of Sri Lankans in Myanmar, promises action, and has been in contact with foreign ministers and Thailand to address the issue.
-
-🟩
-
-President Ranil Wickremesinghe says that the Sri Lankan people who are in Myanmar's clutches be transformed.
-
-In response to a mother by the President to save a son trapped in Myanmar.
-
-"She said:" Save my son to stay stuck ... "
-
-"All people are talking.. With the government of Myanmar. There is no control of Myanmar government where these people are stuck. Terrorist groups have taken. But talking as soon as possible.. Steps will be taken to bring them. "
-
-"I've been talking to our Minister for two weeks now. The Minister has spoken to the Foreign Minister in Myanmar. In addition, we've called Thailand. Because they keep with Thai border in Myanmar. "
-
-"We are working to talk to both countries and carry out the work. You have to get help in Thailand. "
-
-◼️
-
-[Data](articles/0bd6f3bb.json)
-
-[Extended Data](ext_articles/0bd6f3bb.ext.json)
-
----
-
-### Black flag in Jaffna
-
-*2024-03-02 20:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சாந்தன்-மறைவுக்கு-யாழ்-பல்கலையில்-கறுப்புக்-கொடி/71-334097) · `ta`
-
-Jaffna University mourns Shantanu, convicted for assassinating Rajiv Gandhi, by flying a black flag on campus.
-
-🟩
-
-The Jaffna University campus has been fleeing a black flag everywhere in the Jaffna University campus to pay tribute to the late Shantanu after being convicted and released after being convicted of the assassination of former Indian Prime Minister Rajiv Gandhi.
-
-◼️
-
-[Data](articles/ae58d1c4.json)
-
-[Extended Data](ext_articles/ae58d1c4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 05:17:40**
+As of **2024-03-03 05:37:48**
 
 ## Newspaper Stats
 
-*Scraped **10,486** Articles*
+*Scraped **10,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 125
 dbsjeyarajcom | 169
 newsfirstlk | 363
 economynextcom | 543
-islandlk | 554
 dailyftlk | 561
+islandlk | 566
 adalk | 884
 tamilmirrorlk | 1,281
 adaderanalk | 1,282
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,486 (100.0%) of 10,486 articles have been extended.
+10,486 (99.9%) of 10,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### UK-owned ship attacked by Houthis sinks off Yemen coast
+
+*2024-03-03 03:32:00* · [`islandlk`](http://island.lk/uk-owned-ship-attacked-by-houthis-sinks-off-yemen-coast/) · `en`
+
+A British-registered cargo ship has sunk two weeks after being attacked by Houthis in the Gulf of Aden.
+
+Yemen’s government said the Rubymar was drifting and taking on water for days before it sank. It is the first ship to have been sunk by the Iran-backed rebels in Yemen since they began targeting vessels in the Red Sea.
+
+The ship was reportedly carrying fertilisers and experts say the sinking risks “an environmental catastrophe”.
+
+The Rubymar was in the Gulf of Aden near the Bab al-Mandab Strait when it was hit by two missiles fired by Yemen-based Houthi rebels ten days ago, the British government said that the vessel had been taking in water and all its 24 crew had been rescued.
+
+The BBC obtained an image of the ship on 21 February, which showed it submerged at the stern, but still afloat. The vessel’s owners said at the time that it was being towed to nearby Djibouti but could yet sink. It said it was unable to confirm it had given there was no one aboard.
+
+...
+
+[Data](articles/004e3d4e.json)
+
+---
 
 ### Increase of import cost
 
@@ -53,6 +73,102 @@ This is due to the fall in agricultural and garment export income, the Central B
 [Data](articles/c6e866f3.json)
 
 [Extended Data](ext_articles/c6e866f3.ext.json)
+
+---
+
+### Exterminators PLC re-launches its website under patronage of newly appointed chairman Dr. Kishu Gomes
+
+*2024-03-03 01:41:00* · [`islandlk`](http://island.lk/exterminators-plc-re-launches-its-website-under-patronage-of-newly-appointed-chairman-dr-kishu-gomes/) · `en`
+
+...
+
+[Data](articles/18130473.json)
+
+---
+
+### SLT-MOBITEL teams up with BaseKit Platform UK to launch new web builder ‘CubKit’ empowering Lankan SMEs
+
+*2024-03-03 01:41:00* · [`islandlk`](http://island.lk/slt-mobitel-teams-up-with-basekit-platform-uk-to-launch-new-web-builder-cubkit-empowering-lankan-smes/) · `en`
+
+SLT-MOBITEL has announced a strategic partnership with BaseKit Platform Limited, a UK-based company specializing in intuitive web development tools, to introduce a unique website development solution empowering Sri Lankan small and medium enterprise (SMEs).
+
+Partnering with BaseKit to launch CubKit aligns with SLT-MOBITEL mission to digitally empower every Sri Lankan business, delivering innovative new services tailored for the Sri Lankan market.
+
+The SLT-MOBITEL’s MSME Product Development team has entered into an agreement with BaseKit Platform Limited to collaborate in introducing and distributing the product within the Sri Lankan market. At the hybrid event held recently, Simon Best, CEO, and Founder of BaseKit Platform Limited, attended virtually with Janaka Abeysinghe, Chief Executive Officer of SLT-MOBITEL Group, signing the agreement at the SLT-MOBITEL main Boardroom, in Sri Lanka. Carl Kill, Business Development Executive – at Basekit, also joined virtually.
+
+...
+
+[Data](articles/240e263c.json)
+
+---
+
+### HNB Assurance welcomes Rimoe Saldin as Non-Independent Non-Executive Director
+
+*2024-03-03 01:41:00* · [`islandlk`](http://island.lk/hnb-assurance-welcomes-rimoe-saldin-as-non-independent-non-executive-director/) · `en`
+
+HNB Assurance PLC last week announced the appointment of Rimoe Saldin as Non-Independent Non-Executive Director to its Board with effect from Feb 19, 2024.
+
+Saldin is a Fellow of the Institute of Chartered Accountants of Sri Lanka and an Associate of Institute of Chartered Accountants of England and Wales. He is also a Fellow of the Chartered Institute of Management Accountants in UK and a Certified Management Accountant, Australia. He is an alumni of the Asian Institute of Management Manila. He has over 30 years of top management level experience in the areas of Finance, Human Resource Development, General Management and Operations as well as Chief Executive Officer.
+
+...
+
+[Data](articles/f3dd965f.json)
+
+---
+
+### Sanjiv Hulugalle Named Manging Director for San Diego’s Hotel Del Coronado
+
+*2024-03-03 01:40:00* · [`islandlk`](http://island.lk/sanjiv-hulugalle-named-manging-director-for-san-diegos-hotel-del-coronado/) · `en`
+
+Hotel del Coronado, part of Curio Collection by Hilton, announced the appointment of Sanjiv Hulugalle as the resort’s new managing director. With an illustrious career in hospitality, Hulugalle brings over 28 years of industry leadership experience to his new role as managing director at The Del.
+
+Hulugalle’s career has spanned the globe, including senior hospitality positions in 12 countries across four continents including Beijing, Malaysia, the Maldives and Canada. His impressive career achievements include curating a culture of service par excellence at some of the most luxurious properties worldwide and successfully leading resorts through transformative phases. Hulugalle is also renowned for his ability to create unforgettable guest experiences.
+
+...
+
+[Data](articles/1ae8183f.json)
+
+---
+
+### Workshop on Procurement Planning by Open University’s Faculty of Management Studies
+
+*2024-03-03 01:32:00* · [`islandlk`](http://island.lk/workshop-on-procurement-planning-by-open-universitys-faculty-of-management-studies/) · `en`
+
+The Open University of Sri Lanka (OUSL) is a pioneering national university in Sri Lanka designed to provide education through open and distance learning methods. The Faculty of Management Studies of the Open University Sri Lanka has over 40 years of experience in offering a variety of programs including master’s programs, degree programs, certificate courses, diplomas and postgraduate degree programs.
+
+Recently, it launched a new postgraduate degree program, MSc in Public Procurement and Supply Chain Management. This program is for individuals seeking a postgraduate qualification in public procurement and supply chain management. A distinctive feature of this program is its status as the first postgraduate qualification offered in public procurement in Sri Lanka.
+
+...
+
+[Data](articles/e3810a33.json)
+
+---
+
+### Early days – Herbert Cooray’s childhood in Kosgama and schooling in Colombo
+
+*2024-03-03 00:44:00* · [`islandlk`](http://island.lk/early-days-herbert-coorays-childhood-in-kosgama-and-schooling-in-colombo/) · `en`
+
+We begin today serializing the biography of Herbert Cooray, the founder of the Jetwing Group who earlier ran a successful business as a building contractor as had his father before him. The biography was written by Shiromal Cooray, his daughter, who with her brother, Hiran, now leads Jetwing.
+
+The history of the Jetwing family of companies is essentially the story of its founder, Herbert Cooray. It is the story of an unusual man who rose from modest, relatively obscure beginnings to establish what is today the largest independent business group in the Sri Lankan tourism industry. Such an achievement, significant in itself, appears more remarkable when we consider that it was achieved in the face of entrenched competition from established and long-standing hotel and travel firms that had made their reputations in the years when most traveled by sea, and cruise ships such as P&O’s famous Canberra were regular visitors to the Colombo Harbour.
+
+...
+
+[Data](articles/43bbce45.json)
+
+---
+
+### Lorenz and old Matara
+
+*2024-03-03 00:30:00* · [`islandlk`](http://island.lk/lorenz-and-old-matara/) · `en`
+
+“Home interprets heaven. Home is heaven for beginners.”—  Charles Henry Parkhurst
+
+From his humble beginnings in Matara to being the most popular man of his day, Charles Ambrose Lorenz lived and owned several houses. Each of these homes has been of some historical significance. Some places and cities acquire considerable importance when celebrated personalities live there or are linked with them. Nazareth might not have been as well known if Christ was not ‘Jesus of Nazareth’. Likewise, some obscure places received unprecedented recognition when people of repute hail from such places.
+
+...
+
+[Data](articles/b60c9e57.json)
 
 ---
 
@@ -248,6 +364,38 @@ Hamas says that Israel was attacked by Israel.
 
 ---
 
+### Are Sri Lanka’s Anti-Drug Crime Operations Working?
+
+*2024-03-02 21:08:00* · [`islandlk`](http://island.lk/are-sri-lankas-anti-drug-crime-operations-working/) · `en`
+
+The Yukthiya operation appears to be a last-ditch effort by the present Sri Lankan government to salvage public support ahead of the pivotal 2024 presidential election.
+
+In a bid to tackle escalating concerns over crime and drug-related activities, the Sri Lankan government launched a special operation that goes by the name “Yukthiya” (justice) on December 17, 2023.
+
+The government has declared the operation to be a success, with over 58,000 raids resulting in 58,234 arrests and substantial drug seizures (worth about $25 million) so far. Minister of Public Security Tiran Alles has claimed a 17 percent reduction in overall crime
+
+However, the operation has come under intense scrutiny at home and abroad. There is skepticism about its impact on crime rates, while local and international human rights organizations have slammed it for rights abuses.
+
+...
+
+[Data](articles/7c64b786.json)
+
+---
+
+### Donald Lu’s Comeback Story
+
+*2024-03-02 21:07:00* · [`islandlk`](http://island.lk/donald-lus-comeback-story/) · `en`
+
+More than a year after he visited Sri Lanka, US Assistant Secretary of State for the Bureau of South and Central Asian Affairs Donald Lu went on record calling Sri Lanka the greatest comeback story in “the region I work on.” He contrasted the situation two years ago – rife with shortages and riots – with the relative stability and calm present today. Pointing at the support given by India in 2022, he highlighted USAID’s humanitarian efforts in the country and the debt restructuring assistance given by Japan, France, and India.
+
+Not surprisingly, Lu does mention China, but only in the context of the pressure that US allies applied on it to grant Sri Lanka debt relief. Just as unsurprisingly, he credits Sri Lanka’s recovery to “a Little Help from friends” and “this better proposition” that the US Indo-Pacific strategy offers for the region. One can only assume he means that Sri Lanka is a comeback story partly – or largely – because of US intervention in the Indian Ocean.
+
+...
+
+[Data](articles/27373ff7.json)
+
+---
+
 ### Mother asks President to save his son in Myanmar
 
 *2024-03-02 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194056) · `si`
@@ -331,6 +479,18 @@ The Ministry of Education states that the CID has lodged a complaint with the in
 [Data](articles/b3df519d.json)
 
 [Extended Data](ext_articles/b3df519d.ext.json)
+
+---
+
+### Globally, a rightward political shift is visible
+
+*2024-03-02 20:09:00* · [`islandlk`](http://island.lk/globally-a-rightward-political-shift-is-visible/) · `en`
+
+The global political scene was very left-inclined from about the mid-1960s to say 10 or 15 years ago. The sweeping trend to social democracy in post-war Europe, a surge to the left throughout Asia (Chinese Revolution, defeat of US Imperialism in Vietnam, post-war USSR, our own JVP) and a little later in Africa (Patrice Lumumba, revolution in Mozambique, Nelson Mandela etc), signposted what may be loosely called a period of global shift to the left. That ended about 10 years ago. The last spurt was perhaps Obama’s re-election. The reverse trend became prominent in the US with Trump and internationally a dynamic that began with the collapse of the Soviet Union in December 1991.
+
+...
+
+[Data](articles/9cc05308.json)
 
 ---
 
@@ -2023,251 +2183,5 @@ The bus driver was arrested by the Chavakachcheri Police regarding the accident.
 [Data](articles/0a683fac.json)
 
 [Extended Data](ext_articles/0a683fac.ext.json)
-
----
-
-### Damage to Matara by Prime Minister's flight
-
-*2024-03-02 08:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமரின்-விமானத்தால்-மாத்தறையில்-பலத்த-சேதம்/175-334080) · `ta`
-
-The Prime Minister's plane crashed at Matara Fort Ground during Finance Minister Ronnie de Melin's funeral, damaging the hotel's roof and food/drinks. Strong winds caused the incident. High-ranking security workers faced difficulties due to falling debris. Local and foreign tourists criticized the landing. The Matara Hotel arranged alternative meals for those inconvenienced. Despite the incident, the area was quickly cleaned, and officials investigated the damage.
-
-🟩
-
-Former Finance Minister Ronnie de Melin's funeral, the Prime Minister's plane crashed at the Matara Fort Ground, causing the roof and food drinks of the hotel in the area.
-
-The manager of the Matara hotel said the situation was caused by the strong winds that were blowing during the landing.
-
-At the time of the incident, high -ranking security workers, who were receiving food and drinks, were in great difficulty with the fall of sand, dust and debris on local and outskirts.
-
-More
-
-Local and foreign tourists have expressed their opposition to the plane's failure to land properly.
-
-Subsequently, the administration of the Matara Hotel had arranged to produce a different meal instead of the food that was ordered by foreigners and others who were inconvenienced.
-
-As the funeral was over and the dignitaries were coming, the employees were deployed to clean the area very quickly.
-
-However, Prime Minister Dinesh Gunawardena got off the plane and then brought it to the funeral.
-
-...
-
-[Data](articles/5947132b.json)
-
-[Extended Data](ext_articles/5947132b.ext.json)
-
----
-
-### Teacher who struck the students with a broomund
-
-*2024-03-02 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194033) · `si`
-
-A teacher at a public school in Padukka allegedly assaulted seven students, leading to three hospitalized. The teacher claims the students attacked during class.
-
-🟩
-
-It is reported that three students are receiving treatment at the Padukka Regional Hospital with a teacher by a teacher.
-
-One of the students who are hospitalized has been severely attacked and the other two are in good condition.
-
-The assaulted was a group of students in a public school in Padukka.
-
-"Today, Ada Derana reporter said that the teacher had assaulted seven students to seven students.
-
-The school teacher has complained to the Padukka Police that the class of the students had been assaulted by the class of the students during the school learning.
-
-◼️
-
-[Data](articles/5addb8f7.json)
-
-[Extended Data](ext_articles/5addb8f7.ext.json)
-
----
-
-### SLFP-led new alliance to be unveiled next week?
-
-*2024-03-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97675/slfp-led-new-alliance-to-be-unveiled-next-week) · `en`
-
-The new alliance led by the Sri Lanka Freedom Party (SLFP) will be launched next week, says former President Maithripala Sirisena.
-
-He made this remark while speaking to the media after SLFP’s Central Committee meeting convened on Friday (March 01).
-
-Meanwhile, SLFP’s General Secretary Dushmantha Mithrapala said as amendments to the Constitution of Podujana Eksath Peramuna (United People’s Front) have already been made, new office bearers will soon be appointed.
-
-◼️
-
-[Data](articles/14b4d4d5.json)
-
-[Extended Data](ext_articles/14b4d4d5.ext.json)
-
----
-
-### SLFP-led new alliance to be formed next week
-
-*2024-03-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97675/slfp-led-new-alliance-to-be-formed-next-week) · `en`
-
-The new alliance led by the Sri Lanka Freedom Party (SLFP) will be formed next week, says former President Maithripala Sirisena.
-
-He made this remark while speaking to the media after SLFP’s Central Committee meeting convened on Friday (March 01).
-
-◼️
-
-[Data](articles/a75b7d92.json)
-
-[Extended Data](ext_articles/a75b7d92.ext.json)
-
----
-
-### Conflict within women;Three people injured
-
-*2024-03-02 07:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களுக்குள்-மோதல்-சிறுமி-உட்பட-மூவர்-படுகாயம்/175-334079) · `ta`
-
-In Meegahagivula-Taldhena, a conflict between two female groups injured three women, including a 6-year-old girl, who were admitted to hospitals. Further investigations are ongoing.
-
-🟩
-
-Three women, including a girl, were injured in a clash between two female groups at around 6.00 pm yesterday (01) at the Meegahagivula - Taldhena area, police said.
-
-A six -year -old girl and two girls who were injured in the attack have been admitted to the Meegahagivula District Hospital and a woman who was in critical condition has been admitted to the Badulla Teaching Hospital for further treatment.
-
-The residents of the Meegahagivula - Taldhena and Kalkalanda area have been admitted to the hospital.
-
-Further investigations into the incident are being carried out by Badulla Hospital and Kandakettiya Police. Remble
-
-◼️
-
-[Data](articles/3d7b2320.json)
-
-[Extended Data](ext_articles/3d7b2320.ext.json)
-
----
-
-### Teacher beats seven students with broomstick at Padukka school
-
-*2024-03-02 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teacher-beats-seven-students-with-broomstick-at-Padukka-school/108-278106) · `en`
-
-Padukka March 2 (Daily Mirror) - A group of seven students of a leading school in Padukka town had been beaten with a broomstick by a teacher and three of them were injured and admitted to Padukka Divisional Hospital.
-
-Police said the group of students had gone to the school canteen when the teacher was taking the class and that they had been beaten by the teacher.
-
-A senior official of Padukka Police said the incident was being investigated and that further action would be taken after investigations.
-
-◼️
-
-[Data](articles/aecf93b1.json)
-
-[Extended Data](ext_articles/aecf93b1.ext.json)
-
----
-
-### SLFP leading a new alliance
-
-*2024-03-02 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194032) · `si`
-
-SLFP to form new alliance with UPFA, led by President Sirisena. Constitution of United Front revised. Officers' appointments to follow new rules.
-
-🟩
-
-Former President Maithripala Sirisena says that steps will be taken to set up the UPFA led by the Sri Lanka Freedom Party next week.
-
-He was speaking, the Central Committee of the party warned the media yesterday (01).
-
-The SLFP General Secretary Vashamantha Mithrapala said that the Constitution of the United Front has been revised, steps will be taken to appoint the officers in the future as the Constitution has been revised.
-
-◼️
-
-[Data](articles/1d20e3e4.json)
-
-[Extended Data](ext_articles/1d20e3e4.ext.json)
-
----
-
-### Evening thundershowers possible in five districts today
-
-*2024-03-02 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97674/evening-thundershowers-possible-in-five-districts-today) · `en`
-
-Showers or thundershowers are possible in parts of Kalutara, Ratnapura, Nuwara-Eliya, Galle and Matara districts in the evening or at night, the Department of Meteorology says.
-
-A few showers are likely in Southern and Eastern provinces in the morning. However, mainly dry weather will prevail elsewhere on the island.
-
-Fairly strong winds of about 30-35 kmph can be expected at times in North-western province and Hambantota district.
-
-The public is advised to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers may occur at a few places in the sea areas extending from Kalutara to Hambantota via Matara.
-
-Winds will be north-easterly and wind speed will be 20-30 kmph.
-
-Wind speed may increase up to 40-45 kmph at times in the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam and Mannar and from Matara to Hambantota.
-
-...
-
-[Data](articles/a8bfc74a.json)
-
-[Extended Data](ext_articles/a8bfc74a.ext.json)
-
----
-
-### Freedom of Freedom of Freedom by Sri Lanka's New Laws
-
-*2024-03-02 07:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/177722) · `ta`
-
-Sri Lanka's new laws, including the Celebration Protection Act and Anti-Terrorism Act, could impact fundamental rights and democracy, strengthening presidential powers and security forces, warns UN Human Rights Commissioner Wolcker Dark.
-
-🟩
-
-United Nations Human Rights Commissioner Wolcker Dark said that the new proposed laws that could impact the fundamental rights of Sri Lanka and the democratic system of the rule of the law.
-
-The UN Human Rights Commissioner said the UN Human Rights Commissioner said that the Celebration Protection Act, such as the Anti -Terrorism Act, further strengthen the powers of the president and give the security forces more power.
-
-◼️
-
-[Data](articles/b153e100.json)
-
-[Extended Data](ext_articles/b153e100.ext.json)
-
----
-
-### Rain in some places;Drought
-
-*2024-03-02 07:17:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மழை-ஏனைய-பகுதிகளில்-வரட்சி/175-334078) · `ta`
-
-Rain and thundershowers expected in Kalutara, Ratnapura, Galle, and Matara districts. Strong winds in North Western Province and Hambantota district. Public advised to take precautions against lightning.
-
-🟩
-
-In some places in Kalutara, Ratnapura, Galle and Matara districts, there is a possibility of rain or thundershowers in the evening or at night.
-
-In the North Western Province and Hambantota district, there will be some strong winds at speeds of up to 30-40 km / h.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/3175ba18.json)
-
-[Extended Data](ext_articles/3175ba18.ext.json)
-
----
-
-### Sajith unattached the Paradat
-
-*2024-03-02 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194031) · `si`
-
-Sajith Premadasa criticizes the government for not implementing a temporary suspension. He mentions the President's request for action. The State Minister confirms a temporary suspension of the Prime law but denies banks' right to seize property.
-
-🟩
-
-Opposition Leader Sajith Premadasa says that the government has not implemented temporary suspension to temporary.
-
-He has said that the President has asked the President to take action to communicate that decision to communicate the decision.
-
-Speaking on the matter, the State Minister stated that the Prime law was suspended temporarily suspended, but the banks had not deprived the right to take over property.
-
-◼️
-
-[Data](articles/73a6d08a.json)
-
-[Extended Data](ext_articles/73a6d08a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 10:02:58**
+As of **2024-03-03 09:52:03**
 
 ## Newspaper Stats
 
-*Scraped **10,527** Articles*
+*Scraped **10,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
-islandlk | 569
+islandlk | 568
 adalk | 885
 adaderanalk | 1,284
-tamilmirrorlk | 1,289
+tamilmirrorlk | 1,288
 virakesarilk | 1,416
 dailymirrorlk | 1,593
 adaderanasinhalalk | 1,626
@@ -26,29 +26,11 @@ adaderanasinhalalk | 1,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,525 (100.0%) of 10,527 articles have been extended.
+10,525 (100.0%) of 10,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
-
-### சாந்தனின் உடலுக்கு பெருந்திரளானோர் திரண்டு கண்ணீருடன் அஞ்சலி
-
-*2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-திரண்டு-கண்ணீருடன்-அஞ்சலி/72-334118) · `ta`
-
-திருச்சி சிறப்பு முகாமில் தங்கவைக்கப்பட்டிருந்த சாந்தன், உடல் நலக்குறைவு ஏற்பட்டதை அடுத்து காலமானார்.
-
-இந்நிலையில் அவரது உடல்  கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு   எடுத்து வரப்பட்டு பிரேத பரிசோதனைகளுக்காக நீர்கொழும்பு அரச வைத்தியசாலையில் வைக்கப்பட்டது. பிரேத பரிசோதனை முடிவின் பின்னர்   அவரது உடல்  வவுனியாவிற்கு எடுத்து வரப்பட்டது.
-
-வவுனியா முன்னாள் போராளிகள் நலன்புரிச்சங்கத்தின் அலுவலகத்திற்கு முன்பாக இன்று (03) காலை 7.30மணியளவில் அலங்கரிக்கப்பட்ட ஊர்தியில் சாந்தனின் உடல் வைக்கப்பட்டு அஞ்சலி செலுத்தப்பட்டதுடன், பின்னர் ஊர்வலமாக வவுனியா பழைய பேரூந்து நிலையத்திற்கு எடுத்துச்செல்லப்பட்டது.
-
-அங்கு பெருந்திரளான பொதுமக்கள் கலந்துகொண்டு கண்ணீருக்கு மத்தியில் அவரது உடலுக்கு அஞ்சலி செலுத்தினர்.அதனைத்தொடர்ந்து தொடர்ந்து அங்கிருந்து ஊர்வலமாக மாங்குளம் பகுதிக்கு கொண்டு  செல்லப்பட்டது
-
-◼️
-
-[Data](articles/a4751399.json)
-
----
 
 ### The young man who sent a drone camera was wrong
 
@@ -812,6 +794,26 @@ The department wasted no time in lodging a formal complaint with the Criminal In
 
 ---
 
+### 
+
+*2024-03-02 22:23:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83706) · `en`
+
+“There is great political inequality in India…this inequality is driven by money. As a result, people with deep pockets influenced political decisions… Large Donors to Political Parties Influence  Policy’
+
+It is perhaps one of the many painful ironies afflicting Sri Lanka’s political landscape that though an ecstatic song and dance was made about the country’s ‘first ever’ law regulating election expenditure passed by Parliament last year, no elections were held thereafter to practically ‘test’ its legal strength.
+
+We cannot blame anyone but the Government for this given its postponement of elections including local government elections arguing that it did not have the required funds, unashamedly citing the country’s bankruptcy propelled by a crass and corrupt ruling class.
+
+Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary splendor for more than a year of it being certified by the Speaker on the 24th of January 2023.
+
+...
+
+[Data](articles/903055be.json)
+
+[Extended Data](ext_articles/903055be.ext.json)
+
+---
+
 ### Motorcycle used in Ahungalla shooting recovered
 
 *2024-03-02 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97695/motorcycle-used-in-ahungalla-shooting-recovered) · `en`
@@ -959,20 +961,6 @@ Not surprisingly, Lu does mention China, but only in the context of the pressure
 [Data](articles/27373ff7.json)
 
 [Extended Data](ext_articles/27373ff7.ext.json)
-
----
-
-### CLIMATE CHANGE MITIGATION – THE DILMAH CONTRIBUTION
-
-*2024-03-02 20:50:00* · [`islandlk`](http://island.lk/climate-change-mitigation-the-dilmah-contribution/) · `en`
-
-Worldwide, the observed impacts of climate change are driving a multiplicity of conservation and mitigation strategies. Climate change is a gradually-evolving disaster which may not be reversible. However, there is much that man can do to mitigate its impact.
-
-To combat climate change, one must be able to evaluate its progress and impact scientifically. One of the major technical contributions from Dilmah to the cause of managing climate change was to establish a Climate Research Station, the first of its kind in the world by a private entity, at Queensberry Estate, Upper Kotmale. This self-sustained research centre, located at the highest point on one of Kahawatte Plantations estates, was launched in December 2017, in collaboration with the Foundation for Environment, Climate and Technology (FELT) and the University of Peradeniya.
-
-...
-
-[Data](articles/ea41bf10.json)
 
 ---
 
@@ -1335,26 +1323,6 @@ Kusasuna Mendis or 'Manju' was a 45-year-old driver in Kosgoda.
 [Data](articles/d236888e.json)
 
 [Extended Data](ext_articles/d236888e.ext.json)
-
----
-
-### “There is great political inequality in India…this inequality is driven by money. As a result, people with deep pockets influence political decisions… Large Donors to Political Parties Influence  Policy’
-
-*2024-03-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83706) · `en`
-
-It is perhaps one of the many painful ironies afflicting Sri Lanka’s political landscape that though an ecstatic song and dance was made about the country’s ‘first ever’ law regulating election expenditure passed by Parliament last year, no elections were held thereafter to practically ‘test’ its legal strength.
-
-We cannot blame anyone but the Government for this given its postponement of elections including local government elections arguing that it did not have the required funds, unashamedly citing the country’s bankruptcy propelled by a crass and corrupt ruling class.
-
-Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary splendor for more than a year of it being certified by the Speaker on the 24th of January 2023.
-
-Until now, that is. Apparently the Election Commission is going into overdrive summoning political parties for ‘briefings’ on the Act in the expectation of whatever forthcoming elections.
-
-...
-
-[Data](articles/903055be.json)
-
-[Extended Data](ext_articles/903055be.ext.json)
 
 ---
 
@@ -2231,5 +2199,51 @@ The sale is sold at Rs.
 [Data](articles/ddccf47e.json)
 
 [Extended Data](ext_articles/ddccf47e.ext.json)
+
+---
+
+### Hybrid Energy Project for three islands
+
+*2024-03-02 11:40:25* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දූපත්-තුනකට-දෙමුහුන්-බලශක්ති-ව්‍යාපෘතියක්/11-408382) · `si`
+
+Delft and Elvathivu islands' hybrid energy project, costing $10.995M, uses 530 kW of vegetables, combining hybrid and alternate power.
+
+🟩
+
+The contractualization of the hybrid power project was held yesterday (01st)
+
+The project is being implemented by the Delft, Elvathivu (Nagadeepa) island with an American US $ 10.995.
+
+The hybrid system operates in 530 kW of vegetables, the hybrid power and alternate power of Rs.
+
+◼️
+
+[Data](articles/c54930aa.json)
+
+[Extended Data](ext_articles/c54930aa.ext.json)
+
+---
+
+### The spring of water is dry due to the hottest weather
+
+*2024-03-02 11:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උෂ්ණාධික-කාලගුණය-නිසා-ජල-උල්පත්-සිදී-යනවා/11-408381) · `si`
+
+Due to the hottest weather, the spring of water is dry. Minister Mahinda Amaraweera announced that tea fertilizer will be provided to growers at government-quality prices. Farmers are urged to cultivate paddy fields immediately, using modern technology like "parachute" and specific methods for plowing. The government is focusing on supplementary crops and has increased the production of certain fertilizers. Efforts are being made to reduce fertilizer prices, with the aim of providing high-quality fertilizer at minimum prices. The Red Cultivation Scheme has successfully implemented 55 out of 59 projects, harvesting around 1350 kilograms of tea leaves per acre per month. This initiative is credited to President Ranil Wickremesinghe's visionary measures.
+
+🟩
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the tea fertilizer will be given to the growers of the quality and quality of the government's fertilizer companies.
+
+Mr. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries Mahinda Amaraweera, said:
+
+There is a temperature weather throughout the country these days. It has been affected by the spring of water spring. In the face of the situation, the farmers urge the farmers to cultivate the full paddy field at once.
+
+Also, we expect modern technology for agriculture. Steps should be used to use methods such as "parachute". Farmers' organizations have a special responsibility in this regard. In the plowing "disk paddy" and "mill board rung" is asked to use ". It should be emphasized that the farmers who have been successfully cultivated are currently being used to achieve their harvests.
+
+...
+
+[Data](articles/5bee8eb7.json)
+
+[Extended Data](ext_articles/5bee8eb7.ext.json)
 
 ---

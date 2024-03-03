@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 20:33:15**
+As of **2024-03-03 20:50:20**
 
 ## Newspaper Stats
 
-*Scraped **10,614** Articles*
+*Scraped **10,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ islandlk | 569
 adalk | 897
 adaderanalk | 1,295
 tamilmirrorlk | 1,305
-virakesarilk | 1,425
-dailymirrorlk | 1,610
-adaderanasinhalalk | 1,646
+virakesarilk | 1,426
+dailymirrorlk | 1,611
+adaderanasinhalalk | 1,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,614 (100.0%) of 10,614 articles have been extended.
+10,614 (100.0%) of 10,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### ජනපතිගෙන් අලුත් කැබිනට්ටුවක්
+
+*2024-03-03 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194088) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනපතිවරණ මෙහෙයුම වෙනුවෙන් දේශපාලන කැබිනට්ටුවක් පත්කර ඇතැයි දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+ඊට සමගාමීව මැතිවරණ සැලසුම් මෙහෙයවීම සඳහා විශේෂ කමිටුවක්ද නම් කර තිබේ.
+
+මෙලෙස පත්කර ඇති දේශපාලන කැබිනට්ටුව ඉකුත් සඳුදා රාත්‍රියේ රැස්ව ඇතැයි රජයේ අභ්‍යන්තර ආරංචි මාර්ග පවසයි.
+
+ඊට කැබිනට් මණ්ඩලයට ඇතුළත් නොවූ ජනපති කාර්යමණ්ඩල ප්‍රධානී සාගල රත්නායක සහ පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ යන මහත්වරුන්ද ඇතුළත් බව වාර්තාවෙයි.
+
+මීට සමගාමීව මැතිවරණ සැලසුම් මෙහෙයවීම සඳහා ප්‍රසන්න රණතුංග, ටිරාන් අලස්, හරීන් ප්‍රනාන්දු, මනූෂ නානායක්කාර යන අමාත්‍යවරුන් සහ නිමල් ලන්සා, මහින්දානන්ද අලුත්ගමගේ යන මන්ත්‍රීවරුන්ගෙන් සමන්විත කමිටුවක්ද පත්කර ඇතැයි වාර්තාවෙයි.
+
+එම කමිටුව ඉකුත් බදාදා රැස්ව ඇති අතර ඉදිරියේදී සෑම සතියකට වරක්ම රැස්වීමට නියමිත බවත් දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/3053b1ed.json)
+
+---
+
+### விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்காகக் கீழ்மட்டத்திலிருந்து செயற்படுத்தக்கூடிய தேசிய வேலைத்திட்டமொன்றைத் தயாரிக்குமாறு ஜனாதிபதி அறிவுறுத்தல்
+
+*2024-03-03 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177826) · `ta`
+
+விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்கு அரச மற்றும் தனியார் துறைகளில் உள்ள அனைத்து தரப்பினரையும் இணைத்து தேசிய வேலைத்திட்டமொன்றைத் தயாரிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க உரிய அதிகாரிகளுக்குப் பணிப்புரை வழங்கியுள்ளார்.
+
+வரவு செலவுத் திட்டத்தில் தேசிய, மாகாண மற்றும் உள்ளூராட்சி மட்டங்களில் வருடாந்த ஒதுக்கீடுகள் மேற்கொள்ளப்பட்டாலும், அரச மற்றும் தனியார் நிறுவனங்கள் தனித்தனியாகச் செயற்படுவதால், எதிர்பார்த்த முடிவுகள் தாமதமடைவதாகக் குறிப்பிட்டுள்ள ஜனாதிபதி, இந்தத் திட்டங்களைச் செயற்படுத்துவதில் எதிர்கொள்ளும் சவால்களை வெற்றி கொள்வதற்காக அரச மற்றும் தனியார் விவசாய ஆய்வு நிறுவனங்கள் மற்றும் பல்கலைக்கழகக் கட்டமைப்பின் ஆதரவைப் பெறுவதன் முக்கியத்துவத்தையும் வலியுறுத்தினார்.
+
+அண்மையில் ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முன்னேற்ற மீளாய்வுக் கூட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க இந்தக் கருத்துக்களை வெளியிட்டார்.
+
+...
+
+[Data](articles/0cbdf513.json)
+
+---
+
+### President hosts meeting with Spiritual Leader of Dawoodi Bohra Community
+
+*2024-03-03 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-hosts-meeting-with-Spiritual-Leader-of-Dawoodi-Bohra-Community/108-278138) · `en`
+
+Colombo, March 3 (PMD)- President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifuddin Saheb, the Spiritual Leader of the Dawoodi Bohra Community, at the official residence of President this afternoon (03).
+
+With a global presence of approximately one million adherents spanning countries such as India, Pakistan, the USA, UK, Canada, Sri Lanka and Australia, the Dawoodi Bohra community holds considerable cultural and religious significance.
+
+During the meeting, characterized by warmth and cordiality, Dr. Syedna Mufaddal Saifuddin Saheb commended President Wickremesinghe's economic endeavours for Sri Lanka.
+
+He also brought attention to the upcoming Bohra Conference slated to convene near the Bambalapitiya Bohra mosque later this year.
+
+In a gesture of goodwill, a meticulously compiled book showcasing the Bohra community's diverse programs and religious services over the past four years was presented to President Wickremesinghe.
+
+◼️
+
+[Data](articles/ef0786c3.json)
+
+---
 
 ### Queen of powder in the trash canal
 
@@ -2225,73 +2283,5 @@ The police states that he has dressed in blue and teacher's batik and teachers' 
 [Data](articles/636b25f3.json)
 
 [Extended Data](ext_articles/636b25f3.ext.json)
-
----
-
-### Wimal for bribery case
-
-*2024-03-03 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194064) · `si`
-
-Mr. Wimal Weerawansa, accused in a bribery case, appeared in court. The pre-trial seminar was delayed due to a period in the Colombo High Court. A medical report showed the accused had fever, vomiting, and diarrhea. Weerawansa, an MP, claimed he is now free.
-
-🟩
-
-Mr. Wimal Weerawansa says he appears in the bribery case against him.
-
-The Bribery Commission had informed the court that the pre-trial seminar was not able to complete the preceding trial seminar due to a period of time in the Colombo High Court.
-
-A medical report on the trial last Friday was also presented a medical report that the accused was suited with fever, vomiting and diarrhea.
-
-When journalists Wimal Weerawansa in the Padukka, the MP, he stated that he is now free.
-
-◼️
-
-[Data](articles/3de75dbd.json)
-
-[Extended Data](ext_articles/3de75dbd.ext.json)
-
----
-
-### Price of rice and curry, kottu, milk tea, plain tea, fried rice increased
-
-*2024-03-03 07:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-rice-and-curry-kottu-milk-tea-plain-tea-fried-rice-increased/108-278120) · `en`
-
-In light of the substantial increase in food production costs, the All-Ceylon Restaurant Owners’ Association (ACROA) has announced price hikes for Kottu, Fried Rice, and a cup of milk tea and plain tea, effective from last night.
-
-Accordingly, the price of a cup of plain tea has been increased by Rs. 5 and a cup of milk tea by Rs. 10.
-
-The price of a packet of rice and curry will be increased by Rs. 25.
-
-The price of a packet of Kottu and Fried Rice will be increased by Rs. 50 each.
-
-If there are decreases in consumer goods prices, they are prepared to offer corresponding concessions to the public, the association said.
-
-◼️
-
-[Data](articles/bd6c5bdb.json)
-
-[Extended Data](ext_articles/bd6c5bdb.ext.json)
-
----
-
-### Sajith promises that all schools are doing well
-
-*2024-03-03 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194063) · `si`
-
-Sajith Premadasa promises to transform all schools into organizations if elected president, aiming for a positive revolution in education.
-
-🟩
-
-Opposition Leader Sajith Premadasa says that if he is the president, all schools in the country will be transformed into organizations.
-
-He said that if the people made the right decision this year, the reconciliation force will create a positive revolution in education in the country.
-
-Sajith Premadasa made this observation at a function held at the Tissamaharama-Tilwella Kanark College.
-
-◼️
-
-[Data](articles/4ab86350.json)
-
-[Extended Data](ext_articles/4ab86350.ext.json)
 
 ---

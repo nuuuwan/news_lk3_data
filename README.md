@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 19:02:59**
+As of **2024-03-03 19:17:41**
 
 ## Newspaper Stats
 
-*Scraped **10,608** Articles*
+*Scraped **10,609** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,295
 tamilmirrorlk | 1,305
 virakesarilk | 1,423
 dailymirrorlk | 1,610
-adaderanasinhalalk | 1,644
+adaderanasinhalalk | 1,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,604 (100.0%) of 10,608 articles have been extended.
+10,608 (100.0%) of 10,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### පාසල් ගොඩනැගිල්ලක ගින්නක්
+
+*2024-03-03 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194086) · `si`
+
+වැලිගම ප්‍රදේශයේ පිහිටි පෞද්ගලික ආරාබි කාන්තා පාසලක ගින්නක් හටගෙන තිබේ.
+
+ගින්න සිදුවන අවස්ථාවේ එම පාසලේ දරුවන් 150කට ආසන්න පිරිසක් සිට ඇතිමුත් ඔවුන් කිසිවෙකුටත් ගින්නෙන් හානියක් සිදුව නොමැත.
+
+ප්‍රදේශවාසීන් එක්ව කඩිනමින් ගින්න නිවාදැමීමට කටයුතු කර ඇතිමුත් ගින්නෙන් දේපළවලද දැඩි හානි සිදුව තිබේ.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර පොලීසිය විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/51c441a2.json)
+
+---
 
 ### Heat advisory issued as temperatures to reach ‘caution’ levels
 
@@ -48,25 +66,33 @@ As per the advisory, under this level of temperature, fatigue is possible with p
 
 [Data](articles/413ec025.json)
 
+[Extended Data](ext_articles/413ec025.ext.json)
+
 ---
 
-### ஐஸ் போதைப்பொருளை சொக்லேட்டில் மறைத்து கடத்தல்:  விசாரணைகளின்போது சந்தேக நபர் வெளியிட்ட தகவல்கள்!
+### Ice drug hijacking in Chocolate: Investigations released during investigations!
 
 *2024-03-03 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177823) · `ta`
 
-ஐஸ் போதைப்பொருளை சொக்லேட்டில் மறைத்து வைத்து கட்டுநாயக்க விமான நிலையம்  ஊடாக நீண்ட காலமாக நாட்டுக்குள்  கடத்தியமை கண்டுபிடிக்கப்பட்டுள்ளது.
+Investigations reveal Ice drug smuggled into Sri Lanka via Katunayake airport, hidden in chocolate. A raid by the Special Task Force uncovers 5 kg of drugs in a luxury car. Suspects linked to powerful drug dealers Nipuna and Nandasena, believed to be in Dubai, are under investigation.
 
-பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட சுற்றிவளைப்பின் போது கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே இந்தக் கடத்தல் தொடர்பான தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-கிரிபத்கொட பகுதியில் சொகுசு காரொன்றை சோதனையிட்டபோது, சொக்லேட் ரேப்பர்களில் பொதி செய்யப்பட்ட சுமார் 5 கிலோ போதைப்பொருள் ஐஸ் கண்டுபிடிக்கப்பட்டது.
+It has been found that the Ice drug has been smuggled into the country for a long time through the Katunayake airport hiding in the Chocolate.
 
-இந்தக் கடத்தில் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட மேலதிக விசாரணைகளின்போது, கடத்தல்காரர் ஒருவருக்கு சொந்தமான வத்தளை மற்றும் கணேமுல வீடுகள் தொடர்பிலான தகவல்களும் விசேட அதிரடிப்படையினருக்கு கிடைத்துள்ளன.
+Investigations carried out on the basis of information received during the raid conducted by the Special Task Force (STF) have been revealed.
 
-தற்போது துபாயில் பதுங்கியிருக்கும் சக்தி வாய்ந்த போதைப்பொருள் வியாபாரிகளான நிபுன மற்றும் நந்தசேன ஆகியோரின் அறிவுறுத்தலிலேயே  இவ்வாறு போதைப்பொருள்ள கடத்தப்பட்டுள்ளமை தெரிய வந்துள்ளது.
+When a luxury car was checked in the Kiribathgoda area, about 5 kg of drugs packed in chocolate wrapples were discovered.
+
+Further inquiries into the suspect arrested in connection with the debt, the Special Task Force has received information on the Wattala and Ganemula houses owned by a kidnapper.
+
+It has been revealed that the drug has been abducted on the instructions of powerful drug dealers Nipuna and Nandasena who are currently lurking in Dubai.
 
 ◼️
 
 [Data](articles/949ad692.json)
+
+[Extended Data](ext_articles/949ad692.ext.json)
 
 ---
 
@@ -702,21 +728,27 @@ The Feb. 8 election was marred by a mobile internet shutdown, arrests and violen
 
 ---
 
-### කෘෂිකර්ම නවීකරණයට සියලුම අංශ සම්බන්ධ කරමින් වැඩසටහනක්
+### A program connected to all aspects of agriculture
 
 *2024-03-03 14:46:32* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-නවීකරණයට-සියලුම-අංශ-සම්බන්ධ-කරමින්-වැඩසටහනක්/11-408395) · `si`
 
-කෘෂිකර්ම නවීකරණ වැඩසටහන සාර්ථක කර ගැනීම සඳහා  රාජ්‍ය හා පෞද්ගලික අංශයන්හි සියලු පාර්ශ්වයන් ඒකාබද්ධ කරමින් ජාතික වැඩසටහනක් සකස් කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+President Ranil Wickremesinghe directed officials to develop a national agricultural modernization program, involving public and private sectors. Despite budget allocations, delays are due to institutional actions. The program aims to establish an agro-export economy, with a focus on ground-level implementation and support from all stakeholders. Senior Professor Gamini Senanayake highlighted the progress and challenges, suggesting a Cabinet sub-committee to address obstacles.
 
-අයවැය මඟින් ජාතික, පළාත් සහ ප්‍රාදේශීය මට්ටමින් වාර්ෂිකව  ප්‍රතිපාදන වෙන් කළද රාජ්‍ය හා පෞද්ගලික ආයතන වෙන් වෙන් වශයෙන් කටයුතු කිරීම හේතුවෙන් අපේක්ෂිත ප්‍රතිඵල ලබා ගැනීම ප්‍රමාද වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා මෙම  වැඩසටහන ක්‍රියාත්මක කිරීමේදී මුහුණ දෙන අභියෝග ජයගැනීම සඳහා රාජ්‍ය හා පෞද්ගලික කෘෂි පර්යේෂණ ආයතන මෙන්ම විශ්වවිද්‍යාල පද්ධතියේද සහාය ලබා ගැනීමේ වැදගත්කම අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ජනාධිපති කාර්යාලයේදී පසුගියදා පැවති කෘෂිකර්ම නවීකරණ වැඩසටහනේ ප්‍රගති සමාලෝචන රැස්වීමේදීය.
+President Ranil Wickremesinghe instructed the relevant officials to formulate a national program to combine all parties in the public and private sectors to achieve the agricultural modernization program.
 
-රාජ්‍ය ප්‍රතිපත්තිවලට ගැළපෙන ලෙස බිම් මට්ටමින් ක්‍රියාත්මක කිරීමට හැකිවන පරිදි මෙම ජාතික වැඩසටහන සකස් කිරීමේ අවශ්‍යතාවද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන් අතර ඊට අදාළ ව්‍යාපෘති 26 කඩිනමින් ආරම්භ කිරීමට පියවර ගන්නා ලෙසද අදාළ නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+The Budget has allocated allocations at the National, Provincial and Regional Level, the President has said that the expected results have been delayed due to the acting of the public and private institutions.Emphasized the importance of getting the support.
+
+President Ranil Wickremesinghe made these comments at the progress review meeting of the presence of the agricultural modernization program at the Presidential Secretariat recently.
+
+President Wickremesinghe also pointed out the need to prepare the National Program to be implemented at the ground level, and the relevant officials were instructed to take immediate action to commence.
 
 ...
 
 [Data](articles/1d6bda0a.json)
+
+[Extended Data](ext_articles/1d6bda0a.ext.json)
 
 ---
 
@@ -1221,6 +1253,8 @@ In the Manichean universe of the Zionists and the Lankan state their actions are
 ...
 
 [Data](articles/26aaab18.json)
+
+[Extended Data](ext_articles/26aaab18.ext.json)
 
 ---
 
@@ -2251,27 +2285,5 @@ The families of the missing are continuing their loved ones. They said they also
 [Data](articles/abb5ce8a.json)
 
 [Extended Data](ext_articles/abb5ce8a.ext.json)
-
----
-
-### Young man dies
-
-*2024-03-03 03:39:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-சுவர்-வீழ்ந்து-இளைஞன்-உயிரிழப்பு/175-334112) · `ta`
-
-A 5th region youth, Muttuchelvam Dhanujan, died after a wall fell on him in Antimunai village, Udappu police division, Puttalam.
-
-🟩
-
-A youth has died after falling into the wall of the house in the village of Antimunai belonging to the Udappu police division of Puttalam, police said.
-
-Udappu, a young man named Muttuchelvam Dhanujan, a 5th region of the area, died in the accident.
-
-It is reported that part of the wall suddenly fell on a young man standing near the wall of a broken house in the village of Andimunai.. (A)
-
-◼️
-
-[Data](articles/ac216291.json)
-
-[Extended Data](ext_articles/ac216291.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 20:02:44**
+As of **2024-03-03 20:17:49**
 
 ## Newspaper Stats
 
-*Scraped **10,612** Articles*
+*Scraped **10,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ islandlk | 569
 adalk | 897
 adaderanalk | 1,295
 tamilmirrorlk | 1,305
-virakesarilk | 1,424
+virakesarilk | 1,425
 dailymirrorlk | 1,610
-adaderanasinhalalk | 1,645
+adaderanasinhalalk | 1,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,612 (100.0%) of 10,612 articles have been extended.
+10,612 (100.0%) of 10,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### කුණු ඇළට පැන්න කුඩු රැජින
+
+*2024-03-03 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194087) · `si`
+
+කදිරාණවත්ත මත්කුඩු රැජින නමින් හැඳින්වෙන 45 හැවිරිදි කාන්තාවක් දැඩි පරිශ්‍රමයකින් පසු අත්අඩංගුවට ගැනීමට පොලීසිය අද (03) සමත්විය.
+
+මට්ටක්කුලිය පොලිසියට අනුයුක්ත පොලිස් විශේෂ කාර්යාංශයේ නිලධාරීන් කාන්තාවගේ නිවස වැටලූ අවස්ථාවේ ඇය අසල වූ කුණු ඇළකට පැන තිබුණාය.
+
+පසුව ඇය අත්අඩංගුවට ගත්තේ අමතර පොලිස් නිලධාරින් කණ්ඩායමක්ද එම ස්ථානයට ගෙන්වා ගැනීමෙන් පසුවය.
+
+රුපියල් ලක්ෂ 5කට අධික වටිනාකමකින් යුත් මත්ද්‍රව්‍ය ඇය සතුව තිබියදී සොයාගැනීමට පොලීසිය සමත්විය.
+
+◼️
+
+[Data](articles/5b52663f.json)
+
+---
+
+### வெலிகமவில் தனியார் அரபு பெண்கள் பாடசாலையில் தீ பரவல்: சொத்துக்களுக்கு பலத்த சேதம்!
+
+*2024-03-03 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177825) · `ta`
+
+வெலிகம பிரதேசத்தில் உள்ள தனியார் அரபு பெண்கள் பாடசாலை ஒன்றில் ஞாயிற்றுக்கிழமை (03) மாலை தீ பரவியுள்ளது.
+
+தீ விபத்தின்போது பாடசாலையில் சுமார் 150 மாணவர்கள் இருந்துள்ளனர். ஆனால் அவர்களில் எவருக்கும் பாதிப்பு ஏற்படவில்லை.
+
+அப்பகுதி மக்கள் ஒன்றிணைந்து தீயை அணைக்கும் முயற்சியில் ஈடுபட்ட போதிலும், தீயினால் சொத்துக்களுக்கும் பலத்த சேதம் ஏற்பட்டுள்ளது.
+
+தீ விபத்துக்கான காரணம் இதுவரை தெரியவராத நிலையில், பொலிஸார் விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/ef2ffc17.json)
+
+---
 
 ### Accident at Tawadi Junction - One injured!
 
@@ -2245,53 +2281,5 @@ Sajith Premadasa made this observation at a function held at the Tissamaharama-T
 [Data](articles/4ab86350.json)
 
 [Extended Data](ext_articles/4ab86350.ext.json)
-
----
-
-### Inspector General of Sigration
-
-*2024-03-03 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194062) · `si`
-
-Inspector General of Sigration, IGP Desaster Tennakoon, reported a severe conflict between drug groups and increased drug-related violence. He also announced a new rehabilitation program for drug addicts starting March 15.
-
-🟩
-
-IGP Desaster Tennakoon said that there is a severe disagreement between drugs and groups due to pressure regarding drug trafficking.
-
-He stated that a result of the shootings and human possession of them have been increased.
-
-The IGP Deshabandu Tennakoon yesterday stated this, commentsing the media in the country after the worshiper of the country.
-
-IGP Deshabandu Tennakoon has stated that a new program is being implemented from March 15 regarding the rehabilitation of drug addicts.
-
-◼️
-
-[Data](articles/d97e4c4a.json)
-
-[Extended Data](ext_articles/d97e4c4a.ext.json)
-
----
-
-### President's priority for farmal problems
-
-*2024-03-03 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194061) · `si`
-
-President Ranil Wickremesinghe highlights the country's challenges in rebuilding, focusing on significant developments over the next decade, including collaboration with India for Trincomalee District development.
-
-🟩
-
-President Ranil Wickremesinghe says that although there are many challenges to be overcome in the face of rebuilding the country.
-
-The President points out that the largest aggregation is being implemented in the next 10 years.
-
-President Ranil Wickremesinghe made this statement participating at the Trincomalee, Galheliyawa area.
-
-President Ranil Wickremesinghe has also emphasized that the development of Trincomalee District will be implemented with India.
-
-◼️
-
-[Data](articles/5f67fdd4.json)
-
-[Extended Data](ext_articles/5f67fdd4.ext.json)
 
 ---

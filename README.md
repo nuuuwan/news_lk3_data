@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 22:02:33**
+As of **2024-03-03 22:17:33**
 
 ## Newspaper Stats
 
-*Scraped **10,627** Articles*
+*Scraped **10,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,97 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 899
-adaderanalk | 1,297
+adaderanalk | 1,298
 tamilmirrorlk | 1,305
-virakesarilk | 1,426
-dailymirrorlk | 1,613
+virakesarilk | 1,427
+dailymirrorlk | 1,614
 adaderanasinhalalk | 1,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,624 (100.0%) of 10,627 articles have been extended.
+10,627 (100.0%) of 10,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### තුවක්කු එක්ක ආ චණ්ඩි දණගැස්වූ පොලිස් නිලධාරිනිය
+### பொருட்களின் விலையை குறைக்க பணம் இல்லாத நிலையில் ஜனாதிபதியின் வெளிநாட்டுப் பயணங்களுக்கு பணம் ஒதுக்கீடு - சஜித்
+
+*2024-03-03 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177827) · `ta`
+
+பால் தேனீர், தேனீர், தின்பண்டங்கள், சிற்றூண்டிகள், சாப்பாடுப் பொதிகள், கொத்து போன்றவற்றின் விலைகள் அதிகரித்துள்ளன. 24 மணி நேரமும் 365 நாட்களும் நாட்டில் விலை அதிகரிப்பு கலாச்சாரமே இருந்து வருகிறது. விலைவாசி உயர்ந்து, மக்களின் வாழ்க்கை சீரழிந்தாலும், அரசிடம் இதற்கான பதில் இல்லை. இவ்வாறான நிலையில் ஜனாதிபதி பாராளுமன்றத்தில் பணத்தை பெற்றுக்கொண்டு வெளிநாடு முழுவதும் விஜயங்களை மேற்கொண்டு வருவதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+ரணசிங்க பிரேமதாசவின் 200 ஆடைத் தொழிற்சாலைகள் வேலைத்திட்டத்தின் பின்னர், நாட்டுக்கு டொலர்களைப் பெற்றுக்கொள்ளும் உள்நாட்டு சர்வதேச அளவிலும் இன்னும் எந்தத் திட்டமும் அறிமுகப்படுத்தப்படவில்லை. இவ்வாறு போகும் போக்கில் சர்வதேச நாணய நிதியத்துடன் 100 உடன்படிக்கைகள் கைச்சாத்திடப்பட்டாலும் டொலர்களைப் பெற்றுக் கொள்ள முடியாது போகும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/8748d178.json)
+
+---
+
+### How’s Niroshan Dickwella Public Enemy No 1?
+
+*2024-03-03 21:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hows-Niroshan-Dickwella-Public-Enemy-No-1/108-278141) · `en`
+
+Colombo, March 3 (Daily Mirror) - Niroshan Dickwella was drafted into Sri Lanka T20 squad last week in place of Kusal Janith Perera who is claimed to be suffering from an illness and is unavailable for Bangladesh tour. Since then the chief selector Upul Tharanga has come under heavy criticism over the selection of the notorious wicket-keeper batsman.
+
+Tharanga has clearly given his reasons on picking the dashing left-handed opener over the likes of Shevon Daniel and Lasith Crosspulle who are short of runs in the domestic tournaments, yet the general public and media have already written him off.
+
+...
+
+[Data](articles/4c576d4a.json)
+
+---
+
+### Police officer who kneeling with guns
 
 *2024-03-03 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194092) · `si`
 
-ඉන්දියාවේ පොලිස් නිලධාරිනියක් දිවි පරදුවට තබා කළ වික්‍රමයක් දැක්වෙන වීඩියෝවක් වෙත මේ වනවිට ලෝකයේම අවධානය යොමුව තිබේ.
+A video of a police officer in India kneeling with guns has sparked global attention. The incident, captured on CCTV, shows the officer with two firearms.
 
-ගිනි අවි දෙකක් අතැතිව සිටින දෙදෙනෙකු මහමගදී මෙල්ලකරන අයුරු එම වීඩියෝවේ දැක්වෙයි.
+🟩
 
-එම අවස්ථාව දැක්වෙන CCTV විදෙස් මාධ්‍ය වාර්තා කර තිබූ අයුරු පහතින්.
+The world is currently focused on a video that has risening a police officer in India.
+
+The video states how two firearms with two firearms.
+
+The following is a CCTV foreign media.
 
 ◼️
 
 [Data](articles/4b2f0698.json)
 
+[Extended Data](ext_articles/4b2f0698.ext.json)
+
 ---
 
-### එක්සත් ජාතීන්ගේ මානව මහකොමසාරිස්ගෙන් ශ්‍රී ලංකාව ගැන ප්‍රකාශයක්
+### Sri Lanka's statement from UN High Commissioner
 
 *2024-03-03 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194091) · `si`
 
-නව පනත් කිහිපයක් හඳුන්වාදීම මගින් ශ්‍රී ලංකාවේ මූලික අයිතිවාසිකම් සහ නිදහස සීමා කිරීම සම්බන්ධයෙන් කනස්සල්ල පළ කරන බව එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස් වෝල්කර් ටර්ක් මහතා පවසයි.
+Walker Turk, UN High Commissioner, expressed concern over Sri Lanka's new bills limiting fundamental rights and freedoms, including meeting and freedom of the press, and criticized the government for economic crisis and poverty. He urged the government to address human rights violations and economic crimes.
 
-ඔහු පෙන්වාදෙන්නේ ඔන්ලයින් ආරක්ෂණ පනත, ත්‍රස්තවාදයට එරෙහි පනත් කෙටුම්පත, විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත් කෙටුම්පත ඇතුළු රජය විසින් හඳුන්වාදී ඇති නව පනත් කෙටුම්පත් මගින් රැස්වීමේ සහ ප්‍රකාශනයේ නිදහස දැඩි ලෙස සීමා වන බවය.
+🟩
 
-එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 55 වැනි සැසිවාරයේදී අදහස් දක්වමින් මානව හිමිකම් මහකොමසාරිස් වෝල්කර් ටර්ක් මහතා මේ බව ප්‍රකාශ කර තිබේ.
+United Nations High Commissioner to Human Rights Walker Turk says he is worried about limiting fundamental rights and freedom of Sri Lanka by introducing several new bills.
 
-විධායකයට සහ ආරක්ෂක හමුදාවන්ට පුළුල් බලතල ලබාදෙමින් හඳුන්වා දී ඇති මෙම නව නීති මගින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය වන බව
+He pointed out that the meeting and freedom of the meeting, including terrorism bill, the electronic media broadcaster, and the government's independence is severely limited.
 
-ශ්‍රී ලංකාව තුළ පවතින ආර්ථික අර්බුදය මෙන්ම දරිද්‍රතාවය සහ ජනතාවගේ ආදායම් මට්ටම පහත වැටීම පිළිබඳව ද ටර්ක් මහතා මෙහිදි අවධාරණය කර තිබේ.
+The High Commissioner of High Commissioner Walker Turk has said this at the 55th Session of the UN Human Rights Council.
 
-...
+These new laws that have been given extensive powers to the executive and security forces are violated by basic human rights
+
+Turk has also emphasized the economic crisis in Sri Lanka as well as poverty and income levels.
+
+The government requested that the government urges the government to implement human rights violations and economic crimes and the government should act dedicated to the propiancy and the peaceful peace.
+
+◼️
 
 [Data](articles/0183a74e.json)
+
+[Extended Data](ext_articles/0183a74e.ext.json)
 
 ---
 
@@ -83,6 +125,8 @@ He said the revenue generated through the Inland Revenue Department could be dou
 ...
 
 [Data](articles/17ff57a7.json)
+
+[Extended Data](ext_articles/17ff57a7.ext.json)
 
 ---
 
@@ -135,6 +179,28 @@ The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1
 [Data](articles/5021dabf.json)
 
 [Extended Data](ext_articles/5021dabf.ext.json)
+
+---
+
+### Sri Lanka’s tourism sector sees 122% growth in January, says State Minister
+
+*2024-03-03 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97708/sri-lankas-tourism-sector-sees-122-growth-in-january-says-state-minister) · `en`
+
+A Sri Lankan State Minister on Sunday (03 March) said the country’s external sector performance has seen a marked improvement year on year, with tourism fetching $342 million in January 2024, an impressive 122% jump from last year.
+
+Speaking in Ruwanwella, his home constituency, Minister of State for Finance Ranjith Siyambalapitiya was delving into the Central Bank of Sri Lanka’s external sector indicators issued mid-week.
+
+Siyambalapitiya said the bank figures show that receipts from tourism had fetched $342 million, which is a 122% growth in January 2024 year-on-year.
+
+The inward remittances from Sri Lankan expats in January 2024 had grown by 5% to $488 million up from $467 million in January 2023.
+
+The Sri Lankan rupee, which had seen a massive slump during the unprecedented economic crisis, had appreciated by 14.6% in January of this year.
+
+The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1 billion in January 2023.
+
+...
+
+[Data](articles/b43e6cb4.json)
 
 ---
 
@@ -2219,69 +2285,5 @@ There, a large number of civilians participated and paid tribute to her body ami
 [Data](articles/cb44841f.json)
 
 [Extended Data](ext_articles/cb44841f.ext.json)
-
----
-
-### The young man who sent a drone camera was wrong
-
-*2024-03-03 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194066) · `si`
-
-A 24-year-old from Atchuveli, Jaffna, was arrested for using an unlicensed drone camera near Kilinochchi-Iranamaduwewa.
-
-🟩
-
-Police have arrested a youth who was using a drone camera without licenses.
-
-The suspect was arrested by the suspect in the afternoon and arrested the drone camera of the Kilinochchi - Iranamaduwewa.
-
-The suspect is a 24 year old resident of Atchuveli - Jaffna.
-
-◼️
-
-[Data](articles/0ea3e6b3.json)
-
-[Extended Data](ext_articles/0ea3e6b3.ext.json)
-
----
-
-### New flight between Malay and Katunayake
-
-*2024-03-03 09:06:39* · [`adalk`](https://www.ada.lk/breaking_news/මාලේ-හා-කටුනායක-අතර-නව-ගුවන්-ගමනක්/11-408387) · `si`
-
-The Maldives' official carrier plans to start a new flight from Mali Airport on the 25th, operating on Thursdays and Fridays. A 320 aircraft will be used, with seating facilities in place.
-
-🟩
-
-The official carrier of the Maldives has planned to commence a new flight from Maldives's Mali Airport.
-
-Accordingly, the flight will commence from the 25th of this month. The flight is running for two days of week, Thursday and Friday.
-
-A 320 aircraft has been allocated for this purpose and they have already begun seating facilities for the new flight.
-
-◼️
-
-[Data](articles/9f7d9de7.json)
-
-[Extended Data](ext_articles/9f7d9de7.ext.json)
-
----
-
-### UN concerned over Sri Lanka’s proposed laws
-
-*2024-03-03 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UN-concerned-over-Sri-Lankas-proposed-laws/155-278123) · `en`
-
-UN, March 3 (Daily Mirror) - UN High Commissioner for Human Rights Volker Türk expressed deep concern over Sri Lanka's proposed legislative measures, at the 55th Session of the Human Rights Council, warning of their potential impact on fundamental rights and freedoms.
-
-Türk highlighted the introduction of several new laws, including the Online Safety Act, Anti-Terrorism Bill, Electronic Media Broadcasting Authority Bill and NGO Supervision and Registration Bill.
-
-"These laws, if enacted, could grant extensive powers to the executive, security forces, and severely restrict freedoms of assembly, association and expression," he said.
-
-Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with poverty levels soaring to an estimated 27.9% and a significant decline in household incomes. Despite efforts by the government, social protection remains strained, with a substantial portion of the budget allocated towards debt servicing.
-
-...
-
-[Data](articles/d01cf083.json)
-
-[Extended Data](ext_articles/d01cf083.ext.json)
 
 ---

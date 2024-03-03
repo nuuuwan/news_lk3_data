@@ -16,5 +16,8 @@
         "He said this application is currently in various parts of Sri Lanka."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "The Sri Lanka Police has developed a system to monitor if a vehicle has been refueled at stations on a single day, using data from the vehicle's entry and exit on that date. This application is now available in multiple locations across Sri Lanka."
+  ]
 }

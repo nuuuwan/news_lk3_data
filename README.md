@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 14:49:48**
+As of **2024-03-03 15:03:46**
 
 ## Newspaper Stats
 
-*Scraped **10,567** Articles*
+*Scraped **10,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 892
 adaderanalk | 1,290
 tamilmirrorlk | 1,297
 virakesarilk | 1,419
-dailymirrorlk | 1,599
+dailymirrorlk | 1,603
 adaderanasinhalalk | 1,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,566 (100.0%) of 10,567 articles have been extended.
+10,567 (100.0%) of 10,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### Shehbaz Sharif elected Pakistan’s prime minister for second term
+
+*2024-03-03 14:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shehbaz-Sharif-elected-Pakistans-prime-minister-for-second-term/108-278131) · `en`
+
+ISLAMABAD, March 3 (Reuters) - Pakistan's newly formed parliament elected Shehbaz Sharif on Sunday as prime minister for a second time, three weeks after uncertain national elections caused delays in the formation of a coalition government.
+
+"Shehbaz Sharif is declared to have been elected the prime minister of the Islamic Republic of Pakistan," National Assembly Speaker Ayaz Sadiq said, after announcing Sharif had secured 201 votes, above the required 169 votes in the house.
+
+He beat Omar Ayub, the candidate backed by jailed former Prime Minister Imran Khan, who secured 92 votes.
+
+The declaration was met with loud protests from the Sunni Ittehad Council (SIC) party backed by Khan. The lawmakers called for Khan's release and shouted slogans alleging Sharif had come to power through electoral rigging.
+
+The Feb. 8 election was marred by a mobile internet shutdown, arrests and violence in its build-up and the unusually delayed results triggered accusations that the vote was rigged.
+
+...
+
+[Data](articles/4a121dc9.json)
+
+---
+
+### Two aircraft from Belgian Airlines assigned to fill current shortage of SriLankan
+
+*2024-03-03 14:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-aircraft-from-Belgian-Airlines-assigned-to-fill-current-shortage-of-SriLankan/108-278130) · `en`
+
+In order to remedy the current shortage of aircraft with SriLankan Airlines, two aircraft from Belgian Airlines have been temporarily acquired and put into service.
+
+The A-330-200 Airbus type aircraft are also operated by Belgian Airline pilots.
+
+These aircraft have 22 business class seats and 240 economy class seats.
+
+In addition to this, an A320 type aircraft of Fitz Air has also been temporarily leased by SriLankan Airlines and put into service.
+
+◼️
+
+[Data](articles/6e3efd02.json)
+
+---
+
+### STF seize 9kgs of Ice narcotics in Colombo raid
+
+*2024-03-03 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-seize-9kgs-of-Ice-narcotics-in-Colombo-raid/108-278129) · `en`
+
+Colombo, March 3 (Daily Mirror) - The Police Special Task Force arrested three suspects along with 9 kgs of ice narcotics during a raid in Colombo.
+
+It was reported that the value of the seized drugs is Rs. 100 million.
+
+The suspects and the stock of drugs will be handed over to the Police Narcotics Bureau for further investigations.
+
+◼️
+
+[Data](articles/175d5cdb.json)
+
+---
 
 ### Massive stock of ice in Colombo
 
@@ -438,19 +492,49 @@ Bitton administration officials said that the tragic event on Thursday has empha
 
 ---
 
-### අඩුම කාලයකින් පෝක් සමුද්‍ර සන්ධිය තරණය කළ ත්‍රිකුණාමලය පාසල් සිසුවෙක් ලෝක වාර්තාවක් තබයි
+### Schoolgiru, who crossed the Palk Strait in the lowest, sets a world record
 
 *2024-03-03 11:59:17* · [`adalk`](https://www.ada.lk/breaking_news/අඩුම-කාලයකින්-පෝක්-සමුද්‍ර-සන්ධිය-තරණය-කළ-ත්‍රිකුණාමලය-පාසල්-සිසුවෙක්-ලෝක-වාර්තාවක්-තබයි/11-408392) · `si`
 
-අඩුම කාලයක් තුල පෝක් සමුද්‍ර සංධිය හරහා පිහිනා ලෝක වාර්තාවක් තැබිමට ත්‍රිකුණාමලය රාම ක්‍රිෂ්ණ මිෂන් කෝණේස්වරා හින්දු විද්‍යාලයේ සිසුවෙක් ඉකුත් මාර්තු 01දා සමත් වුහ.
+Schoolgiru, a 13-year-old student, set a world record by crossing the Palk Strait at the lowest point, marking a significant achievement for Rama Krishful Konniswara Hindu College, Trincomalee. The event was witnessed by the Principal of the Hindu Vidyalaya and was supervised by the main Judge Dhanga De Silva and six judges of the Sri Lanka Water Sports.
 
-එම විදුහලේ අට වසරේ ඉගෙනුම ලබන 13 හැවිරිදි හරිහරන් ධන්වන්ත් නැමැති සිසුවා මෙම ලෝක වාර්තාව තබා තිබේ.ඉන්දියාවේ ධනුස්කොඩි සිට පෝක් සමුද්‍ර සංධිය හරහා තලෙයි මන්නාරමට කිලෝ මිටර් 31.5 ක් අඩුම කාලයක් වන පැය නවයයි විනාඩි 32 යි තත්පර 54 කාලයක් තුල පිහිනා මෙම වාර්තාව තබා තිබේ.මිට කලින් තිබු ලෝක වාර්තාව බිද දමමින් මෙම වාර්තාව තැබු ලාබාලතම සිසුවා ලෙසද ධන්වන්ත් සිසුවා ලෝක වාර්තා ඉතිහාසයේ නව පිටුවක් පෙරලිමද විශේෂත්වයක් විය.මිට කලින් තබා තිබු වාර්තාව හා වන වාර්තාව අතර කාලය විනාඩියකි.
+🟩
 
-බෝට්ටුවකින් ධනුස්කොඩි වරායට ගිය මෙම සිසුවා ඉකුත් මාර්තු 01 දා අළුයම 04:15 සිය ගමන ආරම්භ කර පස්වරු එකයි 47 යි තත්පර 54 කින් මෙම ගමන අවසන් කලේය.වාර්තාව තැබු සිසුවා පිළිගැනිමට හින්දු විදුහලේ විදුහල්පති එන්.පරමේෂ්වරන් මහතා ඇතුළු ආචාර්ය මණ්ඩලය හා හිටපු විදුහල්පතිවරැ තලෙයි මන්නාරම් වෙරලට පැමිණ සිටියහ.
+Rama Krishful Konniswara Hindu College, Trincomalee (Colombo-Lankapuvath) A global report on the Palk Marine Company
 
-...
+The world record is the 13-year-old student of the school.Dhanwild's student also became a new page in the history of the country, a new page in the history of the country was a new page.
+
+The student went to the Port of Danuasokody last 04:15 at 4:00 pm and 47pm and 47 pm, the Principal of the Hindu Vidyalaya and 47 pmWas present.
+
+The company's Corporal Roshan Abeysundara, who has been trained by the student, has been a global record of the Palk Marine Company.
+
+Commenting on Trainee Corporal Roshan Abeysundle said that the student had been trained in a short time.Support said it was not forgotten.
+
+The World Report was supervised by the main Judge Dhanga De Silva and six judges of the Sri Lanka Water Sports.
+
+◼️
 
 [Data](articles/179cbeb8.json)
+
+[Extended Data](ext_articles/179cbeb8.ext.json)
+
+---
+
+### Calling applications begin for Presidential Scholarship Programme 2024/25 begins
+
+*2024-03-03 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calling-applications-begin-for-Presidential-Scholarship-Programme-202425-begins/108-278126) · `en`
+
+The "Presidential Scholarship Programme 2024/25" is currently accepting applications targeting 100,000 economically disadvantaged school students.
+
+The initiative aligns with President Ranil Wickremesinghe's vision and interested candidates can apply on or before March 20, 2024.
+
+Application forms, instructions and relevant information are available in Sinhala, Tamil and English on the official Facebook page of the President's Fund and the website www.presidentsfund.gov.lk.
+
+Completed applications must be submitted to the respective school principals before the deadline.
+
+◼️
+
+[Data](articles/9bce5007.json)
 
 ---
 
@@ -2141,85 +2225,5 @@ The global political scene was very left-inclined from about the mid-1960s to sa
 [Data](articles/ba21be84.json)
 
 [Extended Data](ext_articles/ba21be84.ext.json)
-
----
-
-### Amended school calendar for 2024 released
-
-*2024-03-02 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97691/amended-school-calendar-for-2024-released) · `en`
-
-The Ministry of Education has published the amended school calendar for the academic year 2024.
-
-According to the new schedule, the first term of Sinhala and Tamil schools, which commenced on February 19, is supposed to end on May 31. For Muslim schools, the first term will conclude on June 20.
-
-Meanwhile, the second term is slated to begin on June 03 for Sinhala and Tamil schools and end on August 16. For Muslim schools, the term will be from June 14 to September 13.
-
-For Sinhala and Tamil schools, the third school term is scheduled to kick off on August 26 and for Muslim schools, the commencement date for the third term is set for September 19.
-
-The academic year will be wound up on January 17 for both Sinhala/Tamil schools and Muslim schools.
-
-The amended school calendar for the academic year 2024 is as follows:
-
-◼️
-
-[Data](articles/b387e0de.json)
-
-[Extended Data](ext_articles/b387e0de.ext.json)
-
----
-
-### Internally  Divided ITAK  in the Eye of a Legal Storm: Courts Restrain Newly Elected Party Officials From Functioning.
-
-*2024-03-02 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83676) · `en`
-
-The Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP) is in the eye of a legal storm.  The premier political party representing the Sri Lankan Tamils of the Northern and Eastern provinces is currently undergoing an internal crisis mainly due to recently held inner-party elections. Issues relating to the intra-party elections have brought about a clearly visible divide within the ITAK.
-
-This in turn has led to an unprecedented situation where  two members of the ITAK  have sought legal recourse against allegedy illegal action by party authorities.Enjoining orders were  obtained. Party Leaders were restrained from conducting its  postponed National Convention on 19 February.
-
-...
-
-[Data](articles/751698bc.json)
-
-[Extended Data](ext_articles/751698bc.ext.json)
-
----
-
-### 22-year-old arrested in connection with Borella shooting
-
-*2024-03-02 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97690/22-year-old-arrested-in-connection-with-borella-shooting) · `en`
-
-Police have arrested a person in connection with the shooting incident that took place in Borella on February 19, 2024.
-
-The person has been arrested on suspicion of being involved in the attempted murder of an individual, near a housing complex at Ananda Rajakaruna Mawatha in Borella.
-
-Colombo-South Crimes Unit has apprehended the suspect in the Sedawatte area of Grandpass today (02), along with the motorcycle used in the shooting.
-
-The 22-year-old suspect was the driver of the motorcycle, according to police.
-
-A 38-year-old person, said to be involved in drug dealings and who was recently released from prison on bail, was shot and injured near a housing complex at Ananda Rajakaruna Mawatha in Borella on February 19. The exact motive behind the shooting is yet to be ascertained.
-
-...
-
-[Data](articles/3eb393fb.json)
-
-[Extended Data](ext_articles/3eb393fb.ext.json)
-
----
-
-### It is accepted today and proven beyond doubt that Ranil was the best man and the only man who could have pulled the country out of the abyss it had fallen into.
-
-*2024-03-02 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83704) · `en`
-
-The worst crisis Sri Lanka faced was in 2022, when it had to declare bankruptcy. A 30-year civil war, two insurrections, racial riots and a tsunami had not deterred this nation from repaying its loans on time. But one corrupt family and their cohorts had brought our country to its knees. Overnight, an incompetent president lost control, and the country was plunged into economic and social chaos.
-
-Transport was at a virtual standstill due to a shortage of fuel; people died standing in queues for gas; schools had closed; 10- to 13-hour power cuts were the order of the day; and children were dying due to a lack of basic medicines.
-
-The situation exploded on May 9 when Mahinda Rajapaksa’s attempts to use violence to quell a peaceful protest resulted in countrywide burning and looting of houses, pushing Sri Lankan society into hitherto unknown darkness.
-
-...
-
-[Data](articles/f59df9da.json)
-
-[Extended Data](ext_articles/f59df9da.ext.json)
 
 ---

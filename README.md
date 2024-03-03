@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 21:51:58**
+As of **2024-03-03 22:02:33**
 
 ## Newspaper Stats
 
-*Scraped **10,624** Articles*
+*Scraped **10,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 899
 adaderanalk | 1,297
 tamilmirrorlk | 1,305
 virakesarilk | 1,426
-dailymirrorlk | 1,612
-adaderanasinhalalk | 1,649
+dailymirrorlk | 1,613
+adaderanasinhalalk | 1,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,624 (100.0%) of 10,624 articles have been extended.
+10,624 (100.0%) of 10,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### තුවක්කු එක්ක ආ චණ්ඩි දණගැස්වූ පොලිස් නිලධාරිනිය
+
+*2024-03-03 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194092) · `si`
+
+ඉන්දියාවේ පොලිස් නිලධාරිනියක් දිවි පරදුවට තබා කළ වික්‍රමයක් දැක්වෙන වීඩියෝවක් වෙත මේ වනවිට ලෝකයේම අවධානය යොමුව තිබේ.
+
+ගිනි අවි දෙකක් අතැතිව සිටින දෙදෙනෙකු මහමගදී මෙල්ලකරන අයුරු එම වීඩියෝවේ දැක්වෙයි.
+
+එම අවස්ථාව දැක්වෙන CCTV විදෙස් මාධ්‍ය වාර්තා කර තිබූ අයුරු පහතින්.
+
+◼️
+
+[Data](articles/4b2f0698.json)
+
+---
+
+### එක්සත් ජාතීන්ගේ මානව මහකොමසාරිස්ගෙන් ශ්‍රී ලංකාව ගැන ප්‍රකාශයක්
+
+*2024-03-03 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194091) · `si`
+
+නව පනත් කිහිපයක් හඳුන්වාදීම මගින් ශ්‍රී ලංකාවේ මූලික අයිතිවාසිකම් සහ නිදහස සීමා කිරීම සම්බන්ධයෙන් කනස්සල්ල පළ කරන බව එක්සත් ජාතීන්ගේ මානව හිමිකම් පිළිබඳ මහකොමසාරිස් වෝල්කර් ටර්ක් මහතා පවසයි.
+
+ඔහු පෙන්වාදෙන්නේ ඔන්ලයින් ආරක්ෂණ පනත, ත්‍රස්තවාදයට එරෙහි පනත් කෙටුම්පත, විද්‍යුත් මාධ්‍ය විකාශන අධිකාරී පනත් කෙටුම්පත ඇතුළු රජය විසින් හඳුන්වාදී ඇති නව පනත් කෙටුම්පත් මගින් රැස්වීමේ සහ ප්‍රකාශනයේ නිදහස දැඩි ලෙස සීමා වන බවය.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 55 වැනි සැසිවාරයේදී අදහස් දක්වමින් මානව හිමිකම් මහකොමසාරිස් වෝල්කර් ටර්ක් මහතා මේ බව ප්‍රකාශ කර තිබේ.
+
+විධායකයට සහ ආරක්ෂක හමුදාවන්ට පුළුල් බලතල ලබාදෙමින් හඳුන්වා දී ඇති මෙම නව නීති මගින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය වන බව
+
+ශ්‍රී ලංකාව තුළ පවතින ආර්ථික අර්බුදය මෙන්ම දරිද්‍රතාවය සහ ජනතාවගේ ආදායම් මට්ටම පහත වැටීම පිළිබඳව ද ටර්ක් මහතා මෙහිදි අවධාරණය කර තිබේ.
+
+...
+
+[Data](articles/0183a74e.json)
+
+---
+
+### NPP has plans to raise state revenue: Anura Kumara
+
+*2024-03-03 21:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-has-plans-to-raise-state-revenue-Anura-Kumara/108-278140) · `en`
+
+Ratnapura, March 3 (Daily Mirror)- Claiming that they have plans to raise state revenue, NPP leader Anura Kumara Dissanayake said today they had discussions with the Inland Revenue Department on ways to increase state reveue.
+
+Speaking at the Ratnapura District Women's Convention, he said that state revenue could be increased through the Customs Department and Excise Department as well.
+
+He said the revenue generated through the Inland Revenue Department could be doubled if the efficiency of the IRD staff was increased and the technology was advanced.
+
+"We can find money. We have discussed with the Inland Revenue Department.There are some changes to be made in the laws, staff and technology used in the department. If the efficiency of the staff is increased, we can double the revenue generated through the IRD. Revenue generated from the Customs and Excise Departments can also be increased. The Excise Department has some Rs. 90 billion outstanding from the liquor manufacturers," he said.
+
+...
+
+[Data](articles/17ff57a7.json)
+
+---
 
 ### Suspect arrested in Katunayake
 
@@ -2229,69 +2283,5 @@ Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with povert
 [Data](articles/d01cf083.json)
 
 [Extended Data](ext_articles/d01cf083.ext.json)
-
----
-
-### UN concerned over Sri Lanka’s proposed laws
-
-*2024-03-03 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-concerned-over-Sri-Lankas-proposed-laws/108-278123) · `en`
-
-UN, March 3 (Daily Mirror) - UN High Commissioner for Human Rights Volker Türk expressed deep concern over Sri Lanka's proposed legislative measures, at the 55th Session of the Human Rights Council, warning of their potential impact on fundamental rights and freedoms.
-
-Türk highlighted the introduction of several new laws, including the Online Safety Act, Anti-Terrorism Bill, Electronic Media Broadcasting Authority Bill and NGO Supervision and Registration Bill.
-
-"These laws, if enacted, could grant extensive powers to the executive, security forces, and severely restrict freedoms of assembly, association and expression," he said.
-
-Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with poverty levels soaring to an estimated 27.9% and a significant decline in household incomes. Despite efforts by the government, social protection remains strained, with a substantial portion of the budget allocated towards debt servicing.
-
-...
-
-[Data](articles/ffdd71bc.json)
-
-[Extended Data](ext_articles/ffdd71bc.ext.json)
-
----
-
-### Two people injured in high -speed highway crash
-
-*2024-03-03 09:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்தில்-இருவர்-காயம்/175-334117) · `ta`
-
-Two injured in Weliwatta highway crash: A container lorry and a cab collided, with the cab crashing into the container's back. The accident was caused by the cab's driver.
-
-🟩
-
-Two persons were injured in an accident between a container lorry and a cab on the Weliwatta highway in Colombo, the highway police said.
-
-While the container vehicle was traveling from Matara to Kadavatha, the cab, which was traveling in the same direction, crashed into the back of the container.
-
-The cause of the accident was the cause of the driver of the Keb driver, police said.
-
-◼️
-
-[Data](articles/7671547c.json)
-
-[Extended Data](ext_articles/7671547c.ext.json)
-
----
-
-### Examinations pause because the questionnaire leaked
-
-*2024-03-03 08:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிந்ததால்-பரீட்சைகள்-இடைநிறுத்தம்/175-334116) · `ta`
-
-The Upper Provincial Department of Education suspended government school examinations due to a leak of mathematics and English question papers.
-
-🟩
-
-The Upper Provincial Department of Education has taken steps to suspend the ongoing government school installments following reports that mathematics and English question papers have been leaked.
-
-Officials confirmed that the selections were stopped after he had received reliable information about the leakage leak.
-
-The Department has not yet complained to the Criminal Investigation Division to launch a thorough investigation into the matter.
-
-◼️
-
-[Data](articles/34e15f3c.json)
-
-[Extended Data](ext_articles/34e15f3c.ext.json)
 
 ---

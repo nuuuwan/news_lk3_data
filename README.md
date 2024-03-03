@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 16:17:43**
+As of **2024-03-03 16:33:18**
 
 ## Newspaper Stats
 
-*Scraped **10,576** Articles*
+*Scraped **10,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 893
-adaderanalk | 1,291
+adaderanalk | 1,292
 tamilmirrorlk | 1,299
 virakesarilk | 1,419
 dailymirrorlk | 1,603
@@ -26,23 +26,49 @@ adaderanasinhalalk | 1,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,575 (100.0%) of 10,576 articles have been extended.
+10,576 (100.0%) of 10,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### ஐஸூடன் மூவர் கைது
+### 30 including Zahran Hashim’s brother-in-law granted bail
+
+*2024-03-03 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97704/30-including-zahran-hashims-brother-in-law-granted-bail) · `en`
+
+A group of 30 individuals, including the brother-in-law of Zahran Hashim, have been released on bail.
+
+Accordingly, they were released on surety bails of Rs. 100,000 each, on orders of the Batticaloa Magistrate’s Court, and were ordered to be presented before the court on 06 March.
+
+The group, aged between 24 and 48, was arrested on 01 March, during a raid carried out in the Kattankudy area, based on a tip-off received by the police concerning an unlawful assembly.
+
+They were subsequently interrogated by the Batticaloa Terrorism Investigation Division following which it was identified that the arrestees also included Niyaz, the brother-in-law of Zahran Hashim, the ringleader of the breakaway members of the hardline Islamist group National Thowheed Jama’ath (NTJ), accused of carrying out coordinated suicide bombings on April 21, 2019 which killed more than 350 people.
+
+Police further identified that Niyaz’s older brothers, too, were amongst the arrestees.
+
+◼️
+
+[Data](articles/44630751.json)
+
+---
+
+### Three of Izudan arrested
 
 *2024-03-03 16:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸூடன்-மூவர்-கைது/175-334137) · `ta`
 
-பொலிஸ் விசேட அதிரடிப் படையினர் கொழும்பில் மேற்கொண்ட சுற்றிவளைப்பின் போது 9 கிலோ ஐஸ் போதைப்பொருளுடன் சந்தேகநபர்கள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three Izudan suspects arrested in Colombo with 9 kg of ice drugs, handed over to Police Drug Eradication Unit for investigation.
 
-சந்தேகநபர்கள் மற்றும் கைப்பற்றப்பட்ட போதைப்பொருட்கள் மேலதிக விசாரணைகளுக்காக பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரிடம் ஒப்படைக்கப்படவுள்ளன.
+🟩
+
+Three suspects have been arrested with 9 kg of ice drugs during a raid in Colombo.
+
+The suspects and the seized drugs will be handed over to the Police Drug Eradication Unit for further investigations.
 
 ◼️
 
 [Data](articles/ffc0550f.json)
+
+[Extended Data](ext_articles/ffc0550f.ext.json)
 
 ---
 
@@ -2207,25 +2233,5 @@ He was also accused of being ordered to distribute substandard antibody vaccines
 [Data](articles/fcbd5887.json)
 
 [Extended Data](ext_articles/fcbd5887.ext.json)
-
----
-
-### Confession of Human Emiyankulin incident
-
-*2024-03-02 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194054) · `si`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, confessed to questionable antibodies before the Maligakanda Magistrate, following an event by the CID.
-
-🟩
-
-Additional Secretary to the Ministry of Health Saman Ratnayake today stated that he was preparing to a confession before the Magistrate regarding the questionable antibodies.
-
-He was speaking at the event of the CID on the CID yesterday (01) was produced before the Maligakanda Magistrate this morning.
-
-◼️
-
-[Data](articles/577b4183.json)
-
-[Extended Data](ext_articles/577b4183.ext.json)
 
 ---

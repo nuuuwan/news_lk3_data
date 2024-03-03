@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 14:17:34**
+As of **2024-03-03 14:33:00**
 
 ## Newspaper Stats
 
-*Scraped **10,564** Articles*
+*Scraped **10,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 891
-adaderanalk | 1,289
+adaderanalk | 1,290
 tamilmirrorlk | 1,297
 virakesarilk | 1,419
 dailymirrorlk | 1,599
-adaderanasinhalalk | 1,634
+adaderanasinhalalk | 1,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,560 (100.0%) of 10,564 articles have been extended.
+10,564 (100.0%) of 10,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### කොළඹදී කොටුවූ දැවැන්ත අයිස් තොගය
+
+*2024-03-03 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194076) · `si`
+
+අයිස් මත්ද්‍රව්‍ය තොගයක් සමග සැකකරුවන් තිදෙනෙකු කොළඹදී පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+එහිදී විශේෂ කාර්ය බළකාය විසින් අයිස් මත්ද්‍රව්‍ය කිලෝ 9ක ප්‍රමාණයක් සොයාගෙන ඇත .
+
+එහි වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 100කට ආසන්න බව පොලීසිය පවසයි.
+
+පොලිස් විශේෂ කාර්ය බළකාය විසින් කොළඹ ප්‍රදේශයේ සිදුකළ වැටලීමකදී මෙම මත්ද්‍රව්‍ය තොගය සහ සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/8e014ba1.json)
+
+---
 
 ### STF seize ‘Ice’ worth Rs. 100 mn during raid in Colombo
 
@@ -43,6 +61,22 @@ Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estima
 ◼️
 
 [Data](articles/0040b001.json)
+
+[Extended Data](ext_articles/0040b001.ext.json)
+
+---
+
+### Three arrested with ‘Ice’ worth Rs. 100 mn during raid in Colombo
+
+*2024-03-03 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97702/three-arrested-with-ice-worth-rs-100-mn-during-raid-in-colombo-) · `en`
+
+Three persons were arrested with a stock of narcotics by the Police Special Task Force (STF), during a raid carried out in Colombo.
+
+Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estimated street value of around Rs. 100 million, were seized.
+
+◼️
+
+[Data](articles/1b881bde.json)
 
 ---
 
@@ -62,19 +96,27 @@ Comprising 3 Officers and 8 Other Ranks, the Sri Lankan contingent navigated tre
 
 [Data](articles/a4ed2969.json)
 
+[Extended Data](ext_articles/a4ed2969.ext.json)
+
 ---
 
-### நாடு திரும்புகிறார் பஷில்
+### Bashil returns to the country
 
 *2024-03-03 13:45:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்புகிறார்-பஷில்/175-334135) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகரும் முன்னாள் அமைச்சருமான பசில் ராஜபக்ஷ எதிர்வரும் 5ஆம் திகதி நாட்டுக்கு திரும்பவுள்ளார் என பெரமுனவின் தகவல்கள் தெரிவிக்கின்றன.
+Basil Rajapaksa, Sri Lanka PA founder, returns on 5th. Discussion with MP planned.
 
-அவர் நாடு திரும்பியதன் பின்னர் ஜனாதிபதி தேர்தலுக்கு ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொருத்தமான வேட்பாளரை தெரிவு செய்வது தொடர்பில் பாராளுமன்ற உறுப்பினர் குழுவுடன் கலந்துரையாடல் நடத்தப்படவுள்ளது என்றும் அந்தத் தகவல்கள் தெரிவிக்கின்றன.
+🟩
+
+Basil Rajapaksa, the founder and former minister of the Sri Lanka PA, will return to the country on the 5th of this month, Peramuna's sources say.
+
+The Sri Lanka PA will be held with the Member of Parliament to hold a discussion with the Sri Lanka PA.
 
 ◼️
 
 [Data](articles/3a880a84.json)
+
+[Extended Data](ext_articles/3a880a84.ext.json)
 
 ---
 
@@ -458,25 +500,31 @@ The Israelis “have more or less accepted” the proposal, which includes the s
 
 ---
 
-### මේ වසරේදී මුදල් මුද්‍රණය කරලා නෑ
+### The money has not been printed this year
 
 *2024-03-03 11:46:47* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී මුදල්-මුද්‍රණය-කරලා-නෑ/11-408391) · `si`
 
-ආර්ථිකය කඩා වැටුණ පසු ලෝකයේ කිසිම රටක් බලාපොරොත්තු වුණාට වඩා වේගයෙන් අපේ රටේ ආර්ථිකය නැවත ගොඩ ගත්තා....
+Sri Lanka's economy, after a collapse, has rebounded faster than any other country, with significant physical development in 75 years post-independence. Health Minister Ramesh Pathirana highlights the government's efforts to rebuild without borrowing, emphasizing the country's strength and the people's will to restore it.
 
-සංවර්ධනයට රජය මුදල් වෙන් කර ඇත්තේ ගත් ණය වලින් හෝ මුදල් මුද්‍රණය කිරීමෙන් තොරවයි...
+🟩
 
-නිදහසින් පසු 75 වසර තුළ රටේ භෞතික සංවර්ධනයේ සුවිශාල සංවර්ධනයක්....
+After the economy collapsed, the economy of the country has been rebuilt faster than any country in the world ...
 
-ආර්ථිකමය වශයෙන් බිඳ වැටී තිබුණු ශ්‍රී ලංකාව ලෝකයේ වෙනත් කිසිම රටකට වඩා වේගයෙන් ඉතා කෙටි කාලයකින්  දෙපයින් නැගී සිටි බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා අවධාරණය කරයි.
+The government has allocated funds from the loans or money from the money taken ...
 
-ඔහු පෙන්වා දෙන්නේ මුදල් මුද්‍රණය කිරීමකින් තොරව ණය ලබා ගැනීමකින් තොරව නැවතත් රට සංවර්ධනය සඳහා රජයේ ප්‍රතිපාදන ලබාදීමට රජය කටයුතු කර ඇති බවයි.
+In 75 years after independence, there is massive development in the country's physical development ....
 
-"අපිට පුළුවන් මේ රට නැවත ශක්තිමත්ව කළමනාකරණය කරන්න. ජනතාවගේ කැමැත්තෙන්" යැයිද ඇමතිවරයා මෙහිදී කීවේය. පටු වාසි තකා ඇතැමුන් 75 වසරක ශාපය පිළිබඳ කතා කළද නිදහස ලබා ගත ගත ගත වූ 75 වසර තුළ රට භෞතික වශයෙන් සංවර්ධනය වූ බවත් එහි ගෞරවය  සියලුම  දේශපාලනඥයන්ටද හිමි විය යුතු බව ඇමතිවරයා වැඩිදුරටත් පෙන්වා දෙයි.
+Health Minister Minister Ramesh Pathirana emphasizes that Sri Lanka has risen in a very short period of time.
+
+He pointed out that the government has taken measures to re-develop the country without borrowing without any money.
+
+"We can restore this country back strongly. "The Minister said:. Although some have spoken about the 75 year curse for the narrow gain, the country should be physically developed in 75 years and all politicians should be obtained.
 
 ...
 
 [Data](articles/60cca674.json)
+
+[Extended Data](ext_articles/60cca674.ext.json)
 
 ---
 
@@ -2171,45 +2219,5 @@ Kusasuna Mendis or 'Manju' was a 45-year-old driver in Kosgoda.
 [Data](articles/d236888e.json)
 
 [Extended Data](ext_articles/d236888e.ext.json)
-
----
-
-### “There is great political inequality in India…this inequality is driven by money. As a result, people with deep pockets influence political decisions… Large Donors to Political Parties Influence  Policy’
-
-*2024-03-02 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83706) · `en`
-
-It is perhaps one of the many painful ironies afflicting Sri Lanka’s political landscape that though an ecstatic song and dance was made about the country’s ‘first ever’ law regulating election expenditure passed by Parliament last year, no elections were held thereafter to practically ‘test’ its legal strength.
-
-We cannot blame anyone but the Government for this given its postponement of elections including local government elections arguing that it did not have the required funds, unashamedly citing the country’s bankruptcy propelled by a crass and corrupt ruling class.
-
-Thus, the Regulation of Election Expenditure Act, No 3 of 2023 stood in solitary splendor for more than a year of it being certified by the Speaker on the 24th of January 2023.
-
-Until now, that is. Apparently the Election Commission is going into overdrive summoning political parties for ‘briefings’ on the Act in the expectation of whatever forthcoming elections.
-
-...
-
-[Data](articles/903055be.json)
-
-[Extended Data](ext_articles/903055be.ext.json)
-
----
-
-### Good that happened to Maithri: Sarath
-
-*2024-03-02 17:25:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-நடந்தது-நல்லது-சரத்/175-334095) · `ta`
-
-Field Marshal Sarath Fonseka stated that Maithripala Sirisena lost his official residence and was rejected by the people, with him being the only action for Polonnaruwa during his presidency.
-
-🟩
-
-Gampaha district parliamentarian Field Marshal Sarath Fonseka said that Maithripala Sirisena lost the official residence.
-
-Sarath Fonseka added that Maithripala Sirisena was rejected by the people and that he was the only act for Polonnaruwa during his presidency.
-
-◼️
-
-[Data](articles/70370baf.json)
-
-[Extended Data](ext_articles/70370baf.ext.json)
 
 ---

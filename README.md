@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 15:33:13**
+As of **2024-03-03 15:51:54**
 
 ## Newspaper Stats
 
-*Scraped **10,573** Articles*
+*Scraped **10,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 892
-adaderanalk | 1,290
+adaderanalk | 1,291
 tamilmirrorlk | 1,298
 virakesarilk | 1,419
 dailymirrorlk | 1,603
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,573 (100.0%) of 10,573 articles have been extended.
+10,573 (100.0%) of 10,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### Shehbaz Sharif elected as Pakistan’s Prime Minister for 2nd term
+
+*2024-03-03 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97703/shehbaz-sharif-elected-as-pakistans-prime-minister-for-2nd-term) · `en`
+
+Sharif, 72, won a parliamentary vote for premier, resuming the role he had held until August when parliament was dissolved ahead of last month’s elections. Pakistan has had a caretaker government since then.
+
+Shehbaz Sharif, returning as Pakistan’s prime minister for a second time on Sunday when his brother declined a fourth term, has played a crucial role holding together a disparate coalition for 16 months after rival Imran Khan was ousted.
+
+Sharif, 72, won a parliamentary vote for premier, resuming the role he had held until August when parliament was dissolved ahead of last month’s elections. Pakistan has had a caretaker government since then.
+
+He was named by his party and coalition allies to head the South Asian nation, despite his elder brother Nawaz Sharif winning a seat in the assembly and being favourite to be sworn in again.
+
+...
+
+[Data](articles/0bcc97c9.json)
+
+---
 
 ### Applications called for New Scholarship Program
 
@@ -2223,33 +2241,5 @@ The interrogation from him was revealed that the vehicle was given Rs.
 [Data](articles/d55dc69d.json)
 
 [Extended Data](ext_articles/d55dc69d.ext.json)
-
----
-
-### Rob robbery suspects arrested for robbery
-
-*2024-03-02 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194052) · `si`
-
-Four suspects arrested for robbery, heroin, and intimidation in Maharagama. Found cargo, phones, IDs, and revealed multiple robberies in Maharagama and surrounding areas.
-
-🟩
-
-Two suspects have been arrested for a stolen motorcycle and two suspects were arrested for robbery and intimidated the women.
-
-The suspects were arrested, with 4300 milligrams of heroin, Maharagama Police said.
-
-The police found a stock of cargo, five valuable phones, two IDs, two IDs, two other mobile phones used.
-
-The suspects have been arrested following complaints regarding the complaints regarding the handbuilding of women who are traveling in the Maharagama Police Division.
-
-The two suspects were arrested last (01) while he was hiding in the Meegoda.
-
-The suspects have revealed that a large number of robberies have been carried out in Kottawa, Homagama, Maharagama, Maharagama, Maharagama.
-
-◼️
-
-[Data](articles/4d9ce6ac.json)
-
-[Extended Data](ext_articles/4d9ce6ac.ext.json)
 
 ---

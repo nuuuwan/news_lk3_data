@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 11:33:31**
+As of **2024-03-03 11:52:11**
 
 ## Newspaper Stats
 
-*Scraped **10,534** Articles*
+*Scraped **10,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,61 @@ colombotelegraphcom | 100
 bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
-economynextcom | 543
+economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 886
+adalk | 888
 adaderanalk | 1,285
 tamilmirrorlk | 1,289
 virakesarilk | 1,418
 dailymirrorlk | 1,595
-adaderanasinhalalk | 1,627
+adaderanasinhalalk | 1,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,534 (100.0%) of 10,534 articles have been extended.
+10,534 (100.0%) of 10,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### අස්වැසුමට වැරදි තොරතුරු දුන් අයට වැඩ වැරදෙයි
+
+*2024-03-03 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194069) · `si`
+
+ජූනි මාසයේ සිට අස්වැසුම ප්‍රතිලාභින් සංඛ්‍යාව ලක්ෂ 24ක් දක්වා වැඩිකිරීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+මාධ්‍ය‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා පවසා සිටියේ, අස්වැසුම පළමු වටයේ සිදු වූ දුර්වලතා මඟ හරවාගෙන තවදුරටත් ශක්තිමත් යාන්ත්‍රණයක් බවට පත් කර ගමේ සහ රටේ සිටින දිලිඳුම සහ දුප්පත් කණ්ඩායම ඉතා හොඳින් තෝරාගැනීමට අවශ්‍ය වැඩකටයුතු සිදු කරන බවය.
+
+මේ අතර, අස්වැසුම වැඩසටහන සඳහා වැරදි තොරතුරු ලබාදුන් 7,000ක ප්‍රමාණයක් හඳුනාගෙන ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+එලෙස වැරදි තොරතුරු ලබාදුන් බවට තහවුරු වී ඇති නම්, පනත ප්‍රකාර ව අදාළ පුද්ගලයන්ට නිත්‍යනූකූල ව කටයුතු කිරීම සඳහා කටයුතු කරන බව ද මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/974bc686.json)
+
+---
+
+### ගොවි ජනතාවගේ ගැටළු විසඳීමට ප්‍රමුඛත්වය දෙනවා
+
+*2024-03-03 11:08:48* · [`adalk`](https://www.ada.lk/picture_story/ගොවි-ජනතාවගේ-ගැටළු-විසඳීමට-ප්‍රමුඛත්වය-දෙනවා/10-408389) · `si`
+
+යළි රට ගොඩ නැඟීම හමුවේ ජයගත යුතු අභියෝග රැසක් පැවතියත් ගොවි ජනතාවගේ ගැටළු විසඳීමට ප්‍රමුඛත්වය ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+බෝග අපනයනය ඉලක්ක කර ගත් තරගකාරී කෘෂි කර්මාන්තයක අවශ්‍යතාව පෙන්වා දුන් ජනාධිපතිවරයා ඒ වෙනුවෙන් මෙරට දියත් කෙරෙන විශාලතම කෘෂි නවීකරණ වැඩසටහන නුදුරේදීම ක්‍රියාත්මක කරන බවද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ත්‍රිකුණාමලය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කපිල අතුකෝරල මහතාගේ ආරාධනයකට අනුව තඹලගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ ගලමැටියාව ග්‍රාමයේ වී අස්වනු නෙලීමේ අවස්ථාවට අද (02) සහභාගී වූ අවස්ථාවේ දීය .
+
+තඹලගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසය තුළ අක්කර 9000ක පමණ  වී වගාව සිදු කර ඇති අතර ගලමැටියාව ග්‍රාම  නිලධාරී වසමේ පමණක් මහ කන්නයේදී අක්කර 672 ක් වගා කොට ඇත.
+
+...
+
+[Data](articles/30a49cf2.json)
+
+---
 
 ### Zahran’s brother-in-law, others arrested in Kattankudy cleared of criminal intents
 
@@ -585,6 +621,24 @@ President Ranil Wickremesinghe has also emphasized that the development of Trinc
 [Data](articles/5f67fdd4.json)
 
 [Extended Data](ext_articles/5f67fdd4.ext.json)
+
+---
+
+### Sri Lanka central bank officials to be summoned to party leaders meeting over steep pay hike
+
+*2024-03-03 06:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-officials-to-be-summoned-to-party-leaders-meeting-over-steep-pay-hike-152745/) · `en`
+
+ECONOMYNEXT – A Sri Lanka parliamentary committee has summoned central bank officials to a party leaders’ meeting over a steep pay hike given to themselves, a statement said.
+
+At the parliament’s business committee meeting chaired by Speaker Mahinda Abeywardana, a decision was taken to summon central bank officials a decision was taken to summon central bank officials to the Party Leader’s meeting on March 05, the statement quoted Secretary General Kushani Rohanadeera as saying.
+
+Legislators have questioned steep salary hikes to central bank officials, after the agency printed money (cut rates with inflationary open market operations) and triggered a crisis collapsing the rupee from 200 to 360 to the US dollar in 2022,
+
+Sri Lanka has forex shortages, exchange controls due to maintaining a central bank with money printing powers to cut rates with liquidity injections which also collects reserves (is de facto unstably pegged through a ‘flexible’ exchange rate).
+
+...
+
+[Data](articles/125c006f.json)
 
 ---
 
@@ -2165,75 +2219,5 @@ The IGP made these remarks following a visit to the Temple of Tooth Relic in Kan
 [Data](articles/4d05d97b.json)
 
 [Extended Data](ext_articles/4d05d97b.ext.json)
-
----
-
-### Hariniga's criticism of sale of institutions
-
-*2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194041) · `si`
-
-MP Harinini Amarasuriya criticizes selling institutions like Sri Lanka Telecom and Insurance Corporation to a government without a mandate, during a discussion with National Resources Protection Movement representatives.
-
-🟩
-
-MP Harinini Amarasuriya says he cannot make decisions regarding selling the institutions such as Sri Lanka Telecom and Insurance Corporation to a government that does not have a mandate.
-
-She was speaking to the media with a discussion with the representatives of the National Resources Protection Movement yesterday (01).
-
-Representatives of the National Resources Protection of the Banking Employees Union, National Electricity Association, Sri Lanka Telecom and Insurance Corporation met the representatives of the National Protection.
-
-The JVP held at the meeting of the JVP in this regard.
-
-Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recently joined the SLMC.
-
-◼️
-
-[Data](articles/02d1ffb3.json)
-
-[Extended Data](ext_articles/02d1ffb3.ext.json)
-
----
-
-### Hariniga's criticism of sale of institutions
-
-*2024-03-02 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194040) · `si`
-
-MP Harinini Amarasuriya criticizes selling institutions like Sri Lanka Telecom and Insurance Corporation to a government without a mandate, during a discussion with National Resources Protection Movement representatives.
-
-🟩
-
-MP Harinini Amarasuriya says he cannot make decisions regarding selling the institutions such as Sri Lanka Telecom and Insurance Corporation to a government that does not have a mandate.
-
-She was speaking to the media with a discussion with the representatives of the National Resources Protection Movement yesterday (01).
-
-Representatives of the National Resources Protection of the Banking Employees Union, National Electricity Association, Sri Lanka Telecom and Insurance Corporation met the representatives of the National Protection.
-
-The JVP held at the meeting of the JVP in this regard.
-
-Meanwhile, Telecom Trade Union Representatives and MP Gamini Lokuge also recently joined the SLMC.
-
-◼️
-
-[Data](articles/5b3f2ad6.json)
-
-[Extended Data](ext_articles/5b3f2ad6.ext.json)
-
----
-
-### UNFPA Sri Lanka goes extra mile to empower women and promote gender equality
-
-*2024-03-02 13:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Sri-Lanka-goes-extra-mile-to-empower-women-and-promote-gender-equality/108-278061) · `en`
-
-Colombo – In a historic move towards advancing gender equality and women's empowerment in the Asia Pacific region, the United Nations Population Fund (UNFPA) Sri Lanka and the University of Colombo have signed a Memorandum of Understanding (MoU) to establish a Centre of Excellence (CoE).
-
-The signing ceremony, held at the College House, University of Colombo, took place on Friday, March 1st, 2024.
-
-The collaboration between UNFPA Sri Lanka and the University of Colombo signifies a significant milestone in the commitment to thought leadership, knowledge creation, and innovation in Sri Lanka. Chaired by Senior Professor H. D. Karunaratne, Vice Chancellor of the University of Colombo, and Kunle Adeniyi, Representative of the United Nations Population Fund Sri Lanka, the ceremony witnessed the participation of esteemed dignitaries including UNFPA Regional Director of Asia Pacific, Pio Smith, and key stakeholders from both institutions.
-
-...
-
-[Data](articles/5b477f1c.json)
-
-[Extended Data](ext_articles/5b477f1c.ext.json)
 
 ---

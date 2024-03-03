@@ -1,50 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 06:55:41**
+As of **2024-03-03 07:16:38**
 
 ## Newspaper Stats
 
-*Scraped **10,501** Articles*
+*Scraped **10,504** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 100
 bbccomsinhala | 125
-dbsjeyarajcom | 169
+dbsjeyarajcom | 170
 newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
 islandlk | 568
 adalk | 884
-tamilmirrorlk | 1,281
+tamilmirrorlk | 1,282
 adaderanalk | 1,282
 virakesarilk | 1,416
 dailymirrorlk | 1,589
-adaderanasinhalalk | 1,620
+adaderanasinhalalk | 1,621
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,498 (100.0%) of 10,501 articles have been extended.
+10,501 (100.0%) of 10,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### අද කාලගුණය
+### ගොවි ගැටලුවලට ජනපතිගේ ප්‍රමුඛතාව
+
+*2024-03-03 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194061) · `si`
+
+යළි රට ගොඩ නැඟීම හමුවේ ජයගත යුතු අභියෝග රැසක් පැවතියත් ගොවි ජනතාවගේ ගැටලු විසඳීමට ප්‍රමුඛත්වය ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ, ඉදිරි වසර 10 තුළ විශාලතම කෘෂිකර්ම නවීකරණය ක්‍රියාත්මක කරන බවයි.
+
+ත්‍රිකුණාමලය, ගලමැටියාව ප්‍රදේශයේ වී අස්වනු නෙලීමේ අවස්ථාවකට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ ය.
+
+ඉන්දියාව සමඟ එක් ව ත්‍රිකුණාමලය දිස්ත්‍රික්කය සංවර්ධනය කිරීමේ වැඩපිළිවෙළ ක්‍රියාත්මක කරන බව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කර තිබේ.
+
+◼️
+
+[Data](articles/5f67fdd4.json)
+
+---
+
+### Weather today
 
 *2024-03-03 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194060) · `si`
 
-කළුතර, රත්නපුර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (03) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today in Kalutara, Ratnapura, Nuwara Eliya, Galle, and Matara, showers or thundershowers are expected. Dry weather prevails elsewhere. The Meteorology Department advises caution against wind and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in Kalutara, Ratnapura, Nuwara Eliya, Galle and Matara districts today (03).
+
+The department states that there are mainly dry weather in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/b7877aea.json)
+
+[Extended Data](ext_articles/b7877aea.ext.json)
 
 ---
 
@@ -67,6 +91,22 @@ The BBC obtained an image of the ship on 21 February, which showed it submerged 
 [Data](articles/004e3d4e.json)
 
 [Extended Data](ext_articles/004e3d4e.ext.json)
+
+---
+
+### நிலங்களை விடுவிக்க படையினர் இணக்கம்
+
+*2024-03-03 03:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலங்களை-விடுவிக்க-படையினர்-இணக்கம்/175-334111) · `ta`
+
+யாழ்ப்பாணம் மற்றும் கிளிநொச்சி மாவட்டங்களில் எதிர்வரும் 10 ஆம் திகதி 164 ஏக்கர் நிலங்களை விடுவிக்கப் படையினர் இணக்கம் தெரிவித்துள்ளனர்.
+
+யாழ்ப்பாணம் மாவட்ட செயலகத்தில் கடந்த 28, 29 ஆம் திகதிகளில் நடைபெற்ற காணி தொடர்பான நடமாடும் சேவைக்குக் காணி அமைச்சு உள்ளிட்ட அமைச்சுக்களின் செயலாளர்கள் மற்றும் உயர் அதிகாரிகள், மாவட்ட அரச அதிபர்,  படைத் தளபதிகளும் கலந்துகொண்டனர்.
+
+இதன் பிரகாரம் யாழ்ப்பாணம் மாவட்டத்தில் பலாலி கிழக்குப் பிரதேசத்தில் இருந்து  59 ஏக்கர் நிலங்கள் விடுவிக்கப்படும் அதேநேரம்  கிளிநொச்சி மாவட்டத்தின் அறிவியல் நகர்ப் பகுதியில் 105 ஏக்கர் நிலங்கள் விடுவிக்கப்படவுள்ளன. (a)
+
+◼️
+
+[Data](articles/9f0e8f2c.json)
 
 ---
 
@@ -753,6 +793,22 @@ A 38-year-old person, said to be involved in drug dealings and who was recently 
 [Data](articles/3eb393fb.json)
 
 [Extended Data](ext_articles/3eb393fb.ext.json)
+
+---
+
+### It is accepted today and proven beyond doubt that Ranil was the best man and the only man who could have pulled the country out of the abyss it had fallen into.
+
+*2024-03-02 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83704) · `en`
+
+The worst crisis Sri Lanka faced was in 2022, when it had to declare bankruptcy. A 30-year civil war, two insurrections, racial riots and a tsunami had not deterred this nation from repaying its loans on time. But one corrupt family and their cohorts had brought our country to its knees. Overnight, an incompetent president lost control, and the country was plunged into economic and social chaos.
+
+Transport was at a virtual standstill due to a shortage of fuel; people died standing in queues for gas; schools had closed; 10- to 13-hour power cuts were the order of the day; and children were dying due to a lack of basic medicines.
+
+The situation exploded on May 9 when Mahinda Rajapaksa’s attempts to use violence to quell a peaceful protest resulted in countrywide burning and looting of houses, pushing Sri Lankan society into hitherto unknown darkness.
+
+...
+
+[Data](articles/f59df9da.json)
 
 ---
 
@@ -2133,65 +2189,5 @@ Following widespread criticism over the exorbitant pay hike, the Central Bank sa
 [Data](articles/0887d146.json)
 
 [Extended Data](ext_articles/0887d146.ext.json)
-
----
-
-### Parliament, Central Bank set to discuss salary hike
-
-*2024-03-02 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Parliament-Central-Bank-set-to-discuss-salary-hike/155-278107) · `en`
-
-Colombo, March 2 (Daily Mirror) - Parliament is in a dilemma whether it can undo the salary hike implemented by the Central Bank for its employees in large proportions amidst fiscal austerity, the Daily Mirror learns.
-
-The Central Bank recently increased the salaries of its employees by proportions of 29.53 percent to 79.97 percent under a triennial pay revision.
-
-It happened when the government instructed all the state institutions to economize its expenses due to financial constraints. With the latest pay hike, the monthly pay of the Central Bank duty governor has been increased to Rs.1.7 million from Rs.974,965.
-
-Following widespread criticism over the exorbitant pay hike, the Central Bank said it would clarify the matter to Parliament.
-
-...
-
-[Data](articles/095c10c0.json)
-
-[Extended Data](ext_articles/095c10c0.ext.json)
-
----
-
-### Russian Naval Ship ‘Varyag’ docks in Colombo
-
-*2024-03-02 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97677/russian-naval-ship-varyag-docks-in-colombo) · `en`
-
-The Russian Naval Ship ‘Varyag’ docked at the Colombo Port on Friday (March 01), for a formal visit. The vessel was welcomed by the Sri Lanka Navy in accordance with naval tradition.
-
-The 187m-long ship is a Missile Cruiser manned by a crew of 529. The Flag Officer of the ship is Captain 1st Rank Velichko Anatoly Vasicievich and Captain 2nd Rank Glushakov Roman Nikolaevich serves as the Commanding Officer.
-
-Meanwhile, the Flag Officer and the Commanding Officer of the ship are scheduled to call on the Commander of Western Naval Area, Rear Admiral Saman Perera.
-
-During their stay in Sri Lanka, the crew members of the ship are expected to take part in several programmes organised by the Sri Lanka Navy, with a view to promote camaraderie and visit some of the tourist attractions in the country.
-
-Concluding the official visit, ‘Varyag’ will depart the island tomorrow (March 03).
-
-◼️
-
-[Data](articles/fe058e91.json)
-
-[Extended Data](ext_articles/fe058e91.ext.json)
-
----
-
-### Tea growers to get low-priced fertilizers from state-owned companies: Minister
-
-*2024-03-02 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97676/tea-growers-to-get-low-priced-fertilizers-from-state-owned-companies-minister) · `en`
-
-Minister of Agriculture and Plantation Industries, Mr. Mahinda Amaraweera has announced that the government-owned fertilizer companies will offer high-quality tea fertilizer to growers at a discounted rate compared to the market price.
-
-Additionally, he revealed that the “Agri Tech-24 Agricultural Technology Vision” exhibition will commence today (March 02) at the Agri-Tech Park in Bataatha, Hambantota, in conjunction with the 37th Asia-Pacific Conference of the Food and Agriculture Organization (FAO).
-
-Addressing a press briefing at the Presidential Media Centre (PMC) on Friday (March 01), the lawmaker elaborated that the current hot weather conditions prevailing across the island have led to an overflow of water springs. Considering this situation, farmers are urged to complete the cultivation of their entire paddy fields within a single day.
-
-...
-
-[Data](articles/230d5bf5.json)
-
-[Extended Data](ext_articles/230d5bf5.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 00:33:00**
+As of **2024-03-04 00:47:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,643 (100.0%) of 10,646 articles have been extended.
+10,646 (100.0%) of 10,646 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,6 +66,8 @@ ACOB’s membership represents the entirety of Sri Lanka’s banking landscape, 
 
 [Data](articles/17567899.json)
 
+[Extended Data](ext_articles/17567899.ext.json)
+
 ---
 
 ### President attends ‘Battle of the Maroons’ encounter
@@ -94,6 +96,8 @@ Enterprise Risk Management has become an increasingly essential solution for mit
 
 [Data](articles/52a805cd.json)
 
+[Extended Data](ext_articles/52a805cd.ext.json)
+
 ---
 
 ### JVP’s stance on FDI and national planning
@@ -105,6 +109,8 @@ National plans have not worked in Sri Lanka or anywhere else. The Indian Plannin
 ...
 
 [Data](articles/75637a4a.json)
+
+[Extended Data](ext_articles/75637a4a.ext.json)
 
 ---
 

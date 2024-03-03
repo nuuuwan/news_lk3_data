@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 23:33:08**
+As of **2024-03-03 23:51:50**
 
 ## Newspaper Stats
 
-*Scraped **10,636** Articles*
+*Scraped **10,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 101
 bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
-economynextcom | 544
+economynextcom | 548
 dailyftlk | 561
 islandlk | 569
 adalk | 899
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,636 (100.0%) of 10,636 articles have been extended.
+10,636 (100.0%) of 10,640 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1056,6 +1056,26 @@ In the future, every child in the country will be given the background to achiev
 
 ---
 
+### Sri Lanka loses MICE tourists to Thailand on minimum room rates
+
+*2024-03-03 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-loses-mice-tourists-to-thailand-on-minimum-room-rates-152761/) · `en`
+
+ECONOMYNEXT – Sri Lanka has lost Meetings, Incentive Travel and Exhibition travelers to competitors in East Asia and India due to minimum room rates as higher standard rooms were available in other countries at lower prices, industry officials said.
+
+President of the Sri Lanka Association of Inbound Tourist (SLAITO) Nishad Wijetunga said they the industry managed to retain a majority of booking made before the minimum room rates were imposed by the state last year.
+
+“However, there were MICE groups that were supposed to come and cancelled Sri Lanka and went to places like Thailand and other parts of India and we lost,” Wijetunga told EconomyNext.
+
+“We know that large groups of MICE (tourists) are affected.”
+
+Sri Lanka’s businesses have got used to protectionism and try to push up prices with import taxes to extract more money from customers using the coercive power of the state, with tiles and steel being among the most prominent examples.
+
+...
+
+[Data](articles/e849f805.json)
+
+---
+
 ### AI learning opportunity for Grade 8 and above from March 19
 
 *2024-03-03 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AI-learning-opportunity-for-Grade-8-and-above-from-March-19/108-278135) · `en`
@@ -1303,6 +1323,30 @@ He was named by his party and coalition allies to head the South Asian nation, d
 [Data](articles/0bcc97c9.json)
 
 [Extended Data](ext_articles/0bcc97c9.ext.json)
+
+---
+
+### Sri Lanka coconut auction price up 4.7-pct
+
+*2024-03-03 15:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-price-up-4-7-pct-152757/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut auction price rose 4.7 percent to was 73,962 per 1,000 nuts on February 29, data from the Coconut Development Authority shows.
+
+The highest price was 79,600 rupees for 1,000 nuts up from 77,100 rupees a week ago, while the lowest was 67,000 up from 61,000 rupees.
+
+A total of 411,631 coconuts were offered at the auction and 325,591 nuts were sold.
+
+Wholesale prices were 95 to 105 rupees for small nuts and 110 to 120 rupees per large nut in the week to February 15, 2024.
+
+Farmgate prices in Kurunegala were 70,000 to 75,000 rupees per 1,000 nuts up from 70,000 -72,000 per 1000 nuts a week ago.
+
+Coconut oil was 570,000 to 590,000 rupees per metric ton from last week’s 580,000- 600,000.
+
+Coconut shells were 28,000 to 29,000 rupees a metric ton up from last week’s 26,000-28,000. (Colombo/Mar01/2024)
+
+◼️
+
+[Data](articles/c4ebdeb6.json)
 
 ---
 
@@ -2052,6 +2096,46 @@ According to investigations into the suspects, information has not been revealed
 
 ---
 
+### Sri Lanka tourist arrivals up 102-pct in Feb led by Russia
+
+*2024-03-03 11:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-102-pct-in-feb-led-by-russia-152752/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals grew 102.3 percent from a year ago to 218,350 in February 2024, led by Russia as the sector continued to recover from an economic crisis that scared away tourists in 2022.
+
+Russian arrivals were 32,030 just overtaking India at 30,027.  UK was 20,614, Germany 16,259 and China came in fifth place at 14,836.
+
+The high visitor numbers from Russia were seen as the Department of Immigration said it was cancelling extended visas of  Russians and Ukrainians following a criticism of a party on racist lines where only ‘white’ people were allowed.
+
+There have been criticism that Russians were running businesses, but it is not known to what extent they were helping boost an eco-system of services or promotions that were helping bring visitors.
+
+The February numbers are close to levels seen before the coronavirus pandemic.
+
+...
+
+[Data](articles/a0296671.json)
+
+---
+
+### Sri Lanka tourist arrivals in Feb led by Russia amid visa row
+
+*2024-03-03 11:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-in-feb-led-by-russia-amid-visa-row-152753/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals grew 102.3 percent from a year ago to 218,350 in February 2024, led by Russia as the sector continued to recover from an economic crisis that scared away tourists in 2022.
+
+Russian arrivals were 32,030 just overtaking India at 30,027.  UK was 20,614, Germany 16,259 and China came in fifth place at 14,836.
+
+The high visitor numbers from Russia were seen as the Department of Immigration reportedly said it was cancelling extended visas of  Russians shortly after mounting criticism of a party on racist lines where only ‘white’ people were allowed.
+
+A statement from President Ranil Wickremesinghe’s media office said there was no policy decision by the government to cancel already extended visa’s and an inquiry would be launched.
+
+There have been criticism that Russians were running businesses, but it is not known to what extent they were helping boost an eco-system of services or promotions that were helping bring visitors.
+
+...
+
+[Data](articles/1afa74ec.json)
+
+---
+
 ### US says Israel has agreed to the framework for a Gaza cease-fire, Hamas must now decide
 
 *2024-03-03 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97700/us-says-israel-has-agreed-to-the-framework-for-a-gaza-cease-fire-hamas-must-now-decide) · `en`
@@ -2197,93 +2281,5 @@ The Electricity Company spokesman William Botheng said that the parliamentary of
 [Data](articles/c08c1ee1.json)
 
 [Extended Data](ext_articles/c08c1ee1.ext.json)
-
----
-
-### Prioritizes the problems of the farming community
-
-*2024-03-03 11:08:48* · [`adalk`](https://www.ada.lk/picture_story/ගොවි-ජනතාවගේ-ගැටළු-විසඳීමට-ප්‍රමුඛත්වය-දෙනවා/10-408389) · `si`
-
-President Ranil Wickremesinghe emphasized the challenges of the farming community, highlighting the need for competitive agricultural exports and the upcoming largest agricultural modernization program. He addressed issues like canal construction, street lighting, and land provision for farmers. Wickremesinghe also discussed plans for Trincomalee's development, including tourism, employment, and agriculture. He aimed to modernize agriculture, focusing on 'Smart Agriculture' and increasing crop exports.
-
-🟩
-
-President Ranil Wickremesinghe said that although there are many challenges to be overcome in the face of rebuilding the country.
-
-The President has shown the need for a competitive agricultural export of crops and the President will soon implement the largest agricultural modernization program launched in the country.
-
-President Ranil Wickremesinghe expressed these views at the invitation of the Thambalagamuwa Divisional Secretariat Division at the Talamatonia of the Thambulamatiya village today (02).
-
-About 9000 acres of paddy cultivation in the Thambalagamuwa Divisional Secretariat area and 672 acres of paddy is cultivated in the Galminawa Grama Niladhari Division.
-
-Residents who met with the President's arrival in the area without a colored residents, were presented to the President Ranil Wickremesinghe.. The President instructed the officials at the same time to investigate and address the issues.
-
-...
-
-[Data](articles/30a49cf2.json)
-
-[Extended Data](ext_articles/30a49cf2.ext.json)
-
----
-
-### Zahran’s brother-in-law, others arrested in Kattankudy cleared of criminal intents
-
-*2024-03-03 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Zahrans-brother-in-law-others-arrested-in-Kattankudy-cleared-of-criminal-intents/108-278125) · `en`
-
-Kattankudy, March 3 (Daily Mirror) - The investigations conducted thus far into the suspects, including Zahran's brother-in-law, who were arrested by the Kattankudy Police, have concluded that these individuals were not planning to commit any criminal or anti-state activities.
-
-A group of around 30 persons who were gathered at a temporarily constructed place in the Kattankudy police area were arrested on March 1, over the information that they were gathered for an unlawful meeting and were planning to commit some criminal or anti-government act.
-
-Upon arrest, the suspects claimed they were merely playing cards.
-
-Police said that statements were recorded from the suspects by the Kattankudy and Batticaloa Division Terrorism Investigation Division.
-
-The arrested individuals, aged between 24 and 48, are residents of Kattankudy and Batticaloa.
-
-Among the detainees identified were the brother-in-law of Zahran Hashim, the mastermind behind the Easter Sunday attacks, and his two elder siblings.
-
-...
-
-[Data](articles/aa99c1ee.json)
-
-[Extended Data](ext_articles/aa99c1ee.ext.json)
-
----
-
-### Sajith vows to make all schools smart-schools
-
-*2024-03-03 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97698/sajith-vows-to-make-all-schools-smart-schools-) · `en`
-
-Opposition Leader Sajith Premadasa has vowed to convert all schools in the country into smart-schools if he is elected as the President in the upcoming elections.
-
-Speaking at a ceremony held at a school in Tissamaharama, the Samagai Jana Balawegaya (SJB) leader stated that if the people of Sri Lanka make the correct decision this year, the SJB will revolutionise the country’s education system.
-
-◼️
-
-[Data](articles/d90745d0.json)
-
-[Extended Data](ext_articles/d90745d0.ext.json)
-
----
-
-### Tea, milk tea, rice, cottage and fried rice
-
-*2024-03-03 10:49:55* · [`adalk`](https://www.ada.lk/breaking_news/තේ--කිරි-තේ--බත්--කොන්තු-හා-ෆ්‍රයිඩ්-රයිස්-මිල-ඉහළට/11-408388) · `si`
-
-The All Ceylon Restaurant Owners Association plans to raise prices for tea, milk tea, rice, cottage, and fried rice, but is willing to provide relief if consumer prices increase.
-
-🟩
-
-The All Ceylon Restaurant Owners Association states that the price of a cup and a plane of milk tea and plane will increase the prices of a cup of food production.
-
-The union has taken steps to increase the price of a cup of tea by Rs.
-
-However, it is ready to be given the corresponding relief to the public if consumers' prices take place.
-
-◼️
-
-[Data](articles/6c1c8df1.json)
-
-[Extended Data](ext_articles/6c1c8df1.ext.json)
 
 ---

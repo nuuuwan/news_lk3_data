@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 09:03:11**
+As of **2024-03-03 09:17:30**
 
 ## Newspaper Stats
 
-*Scraped **10,521** Articles*
+*Scraped **10,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 561
 islandlk | 568
 adalk | 884
 adaderanalk | 1,284
-tamilmirrorlk | 1,287
+tamilmirrorlk | 1,288
 virakesarilk | 1,416
 dailymirrorlk | 1,592
 adaderanasinhalalk | 1,625
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,625
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,519 (100.0%) of 10,521 articles have been extended.
+10,521 (100.0%) of 10,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### அதிவேக நெடுஞ்சாலை விபத்தில் இருவர் காயம்
+
+*2024-03-03 09:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்தில்-இருவர்-காயம்/175-334117) · `ta`
+
+கொழும்பு வெலிவட்ட அதிவேக நெடுஞ்சாலையில் நேற்றிரவு கொள்கலன் லொறி ஒன்றும் கெப் வாகனம் ஒன்றுக்குமிடையில் இடம்பெற்ற விபத்தில் இருவர் காயமடைந்துள்ளதாக அதிவேக நெடுஞ்சாலை பொலிஸார் தெரிவித்தனர்.
+
+கொள்கலன் வாகனம் மாத்தறையில் இருந்து கடவத்தை நோக்கி சென்று கொண்டிருந்த போது, ​​அதே திசையில் பயணித்த கெப் வாகனம் கொள்கலனின் பின்பகுதியில் மோதி விபத்துக்குள்ளானது.
+
+கெப் ஓட்டுநர் கவனக்குறைவாக வாகனம் ஓட்டியதே விபத்துக்குக் காரணம் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7671547c.json)
+
+---
 
 ### Examinations pause because the questionnaire leaked
 
@@ -87,6 +103,8 @@ Police said the cause of the accident may have been due to the reckless driving 
 ◼️
 
 [Data](articles/e8701d81.json)
+
+[Extended Data](ext_articles/e8701d81.ext.json)
 
 ---
 
@@ -1530,6 +1548,8 @@ He studied at St Peter’sCollege and Aquinas College of Higher Studies.
 
 [Data](articles/c22ad438.json)
 
+[Extended Data](ext_articles/c22ad438.ext.json)
+
 ---
 
 ### Suspect to shoot Borella fall
@@ -2207,35 +2227,5 @@ The IGP has stated that the criminals, racketeers and the underworld have not be
 [Data](articles/d63d0372.json)
 
 [Extended Data](ext_articles/d63d0372.ext.json)
-
----
-
-### Request to save 4 women in Saudi
-
-*2024-03-02 11:17:35* · [`adalk`](https://www.ada.lk/breaking_news/සෞදියේ-සේවයට-ගිය-කතුන්-4ක්-බේරා-ගන්නැයි-ඉල්ලීමක්/11-408380) · `si`
-
-Four Sri Lankan women in Saudi Arabia face harassment and job loss. They were brought from Sri Lanka for household service. The Sri Lankan government demands their rescue.
-
-🟩
-
-Four women who had gone to Saudi Arabia in Sri Lanka for household service have been detained in Riyadh in Saudi Arabia, but the women claim that they are disturbed by various harassment.
-
-The media has information on the media of Sri Lanka through a telephone hiding phone.
-
-These women have gone abroad from private foreign employment in Colombo and Kurunegala.
-
-They say that the women have been brought to the loss of a job from home from the home, from home to the apartment of a job delegation from the owners of a job delegation from the homes of a job delegation.
-
-These Sri Lankan domestic workers who have been brought from other countries have also been redeemed to redeem them from the area.
-
-They are not able to get married and informed of their homes on economic difficulties, but they are not able to educate their lives and the fate of their suffering.Given.
-
-The Sri Lankan government is the only demands of Sri Lankan domestic workers to rescue themselves.
-
-◼️
-
-[Data](articles/9c44a658.json)
-
-[Extended Data](ext_articles/9c44a658.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 08:50:22**
+As of **2024-03-03 09:03:11**
 
 ## Newspaper Stats
 
-*Scraped **10,519** Articles*
+*Scraped **10,521** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 100
 bbccomsinhala | 126
-dbsjeyarajcom | 171
+dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
@@ -19,32 +19,38 @@ adalk | 884
 adaderanalk | 1,284
 tamilmirrorlk | 1,287
 virakesarilk | 1,416
-dailymirrorlk | 1,591
+dailymirrorlk | 1,592
 adaderanasinhalalk | 1,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,515 (100.0%) of 10,519 articles have been extended.
+10,519 (100.0%) of 10,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### வினாத்தாள் கசிந்ததால் பரீட்சைகள் இடைநிறுத்தம்
+### Examinations pause because the questionnaire leaked
 
 *2024-03-03 08:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிந்ததால்-பரீட்சைகள்-இடைநிறுத்தம்/175-334116) · `ta`
 
-கணிதம் மற்றும் ஆங்கில வினாத்தாள்கள் கசிந்துள்ளதாக வெளியான தகவலை அடுத்து, தற்போது நடைபெற்று வரும் அரசாங்க பாடசாலை தவணைப் பரீட்சைகளை இடைநிறுத்துவதற்கு மேல் மாகாண கல்வி திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+The Upper Provincial Department of Education suspended government school examinations due to a leak of mathematics and English question papers.
 
-வினாத்தாள் கசிவு குறித்து நம்பகமான தகவல் கிடைத்ததையடுத்து, தேர்வுகள் நிறுத்தப்படுவதை அதிகாரிகள் உறுதி செய்தனர்.
+🟩
 
-இவ்விவகாரம் தொடர்பாக முழுமையான விசாரணையைத் தொடங்க குற்றப் புலனாய்வுப் பிரிவில் திணைக்களம் இன்னும் முறைப்பாடு செய்யவில்லை.
+The Upper Provincial Department of Education has taken steps to suspend the ongoing government school installments following reports that mathematics and English question papers have been leaked.
+
+Officials confirmed that the selections were stopped after he had received reliable information about the leakage leak.
+
+The Department has not yet complained to the Criminal Investigation Division to launch a thorough investigation into the matter.
 
 ◼️
 
 [Data](articles/34e15f3c.json)
+
+[Extended Data](ext_articles/34e15f3c.ext.json)
 
 ---
 
@@ -64,23 +70,49 @@ The island nation is prioritizing restructuring obligations to its private credi
 
 [Data](articles/10b27322.json)
 
+[Extended Data](ext_articles/10b27322.ext.json)
+
 ---
 
-### மத்திய வங்கியின் சம்பள உயர்வு குறித்து கலந்துரையாட ஆயத்தம்
+### Two injured in accident on Outer Circular Expressway
+
+*2024-03-03 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-injured-in-accident-on-Outer-Circular-Expressway/108-278122) · `en`
+
+Two persons were injured following an accident between a container lorry and a cab vehicle on the Colombo Outer Circular Expressway last night, the expressway police said.
+
+They said the container vehicle was moving from Matara to Kadawatha when the cab vehicle which was travelling in the same direction crashed on to the back of the container.
+
+Police said the cause of the accident may have been due to the reckless driving of the cab driver.
+
+◼️
+
+[Data](articles/e8701d81.json)
+
+---
+
+### Preparing to discuss the central bank's salary increase
 
 *2024-03-03 08:30:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கியின்-சம்பள-உயர்வு-குறித்து-கலந்துரையாட-ஆயத்தம்/175-334115) · `ta`
 
-நிதி நெருக்கடிக்கு மத்தியில் மத்திய வங்கி தனது ஊழியர்களுக்கு பெருமளவிலான சம்பள உயர்வை ரத்து செய்ய முடியுமான சாத்தியம் உள்ளதா என்ற குழப்பத்தில் பாராளுமன்றம் இருப்பதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+The Central Bank has increased employees' salaries from 29.53% to 79.97% for three years, despite financial crisis. The governor's monthly salary rose from Rs.974,965 to Rs.1.7 million. The bank plans to clarify in Parliament following criticism. Parliamentarians are divided on the matter, with some arguing the bank's autonomy and others asserting the right to decide on public funds.
 
-மத்திய வங்கி அண்மையில் தனது ஊழியர்களின் சம்பளத்தை 29.53 வீதத்தில் இருந்து 79.97 வீதமாக மூன்றாண்டுகளுக்கு ஒரு முறை திருத்தியமைத்துள்ளது.
+🟩
 
-நிதிக் கட்டுப்பாடுகள் காரணமாக அனைத்து அரச நிறுவனங்களுக்கும் அதன் செலவுகளைச் சிக்கனமாக்குமாறு அரசாங்கம் அறிவுறுத்தியபோது இது நடந்தது. சமீபத்திய சம்பள உயர்வுடன், மத்திய வங்கி ஆளுநரின் மாதாந்த சம்பளம் ரூ.974,965ல் இருந்து ரூ.1.7 மில்லியனாக அதிகரிக்கப்பட்டுள்ளது.
+The Daily Mirror has reported that the central bank is likely to cancel its employees in the midst of financial crisis.
 
-அபரிமிதமான சம்பள அதிகரிப்பு தொடர்பில் பரவலான விமர்சனங்களைத் தொடர்ந்து, இது குறித்து பாராளுமன்றத்தில் தெளிவுபடுத்தவுள்ளதாக மத்திய வங்கி தெரிவித்துள்ளது.
+The Central Bank has recently revised its employees' salary from 29.53 percent to 79.97 percent for three years.
+
+This was when the government advised all state agencies to make its expenses due to financial restrictions.With the latest salary increase, the governor's monthly salary has been increased from Rs.974,965 to Rs.1.7 million.
+
+The Central Bank said it would clarify in Parliament following widespread criticism of the wage increase.
+
+“At its meeting held on 21.02.2024, the CBSL generally contacts the CBSL as per Article 80 (2) (B) of the Central Bank Act No. 16 of 2023, as the Finance Minister of Parliament.The ruling committee has asked the CBSL governor to make a written request to the president to give the parliamentary committee a chance to clarify.
 
 ...
 
 [Data](articles/e463b577.json)
+
+[Extended Data](ext_articles/e463b577.ext.json)
 
 ---
 
@@ -99,6 +131,8 @@ Commenting on the launch of the new destination, Managing Director of Maldivian 
 ...
 
 [Data](articles/ea559d82.json)
+
+[Extended Data](ext_articles/ea559d82.ext.json)
 
 ---
 
@@ -1474,6 +1508,30 @@ Ninety-five nurses were selected during the first phase out of 400 candidates.
 
 ---
 
+### Veteran Journalist  Lucien Rajakarunanayake Passes away at the age of 85; funeral  in the Evening of Sunday March 3rd 2024 at the Borella Cemetery
+
+*2024-03-02 15:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83711) · `en`
+
+Veteran journalist and columnist Lucien Rajakarunanayake passed away on February 29 at the age of 85.
+
+Late Mr Rajakarunanayake began his career in journalism as a reporter at the (former) Times of Ceylon and the Sunday Times from 1960 to 1971. He was a reporter, sub-editor, feature writer, and a lobby correspondent.
+
+He was a columnist at the Sunday Times, Sunday Island, The Sunday Leader, and Sunday Observer between the years 1972–2001. He was the columnist to The Island and Daily News (on Saturdays) at the time of his demise.
+
+He was also the chairman of the Associated Newspapers of Ceylon (ANCL – Lake House).
+
+He played a key role as a member of the Free MediaMovement in the 1990s.
+
+With more than 50 years of experience in all aspects of journalism, he also served as a foreign correspondent to media outlets in the United Kingdom,Germany and Japan.
+
+He studied at St Peter’sCollege and Aquinas College of Higher Studies.
+
+...
+
+[Data](articles/c22ad438.json)
+
+---
+
 ### Suspect to shoot Borella fall
 
 *2024-03-02 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194046) · `si`
@@ -2179,45 +2237,5 @@ The Sri Lankan government is the only demands of Sri Lankan domestic workers to 
 [Data](articles/9c44a658.json)
 
 [Extended Data](ext_articles/9c44a658.ext.json)
-
----
-
-### Sri Lanka came to the Russian warship
-
-*2024-03-02 11:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தது-ரஷ்ய-போர்க்கப்பல்/175-334085) · `ta`
-
-A Russian navy warship with 529 people arrived in Colombo for an official visit, focusing on development activities with Sri Lanka's navy.
-
-🟩
-
-A Russian navy's warship has arrived at the port of Colombo with an official visit with 529 people.
-
-They will participate in some major programs to carry out development activities between the two navy.
-
-◼️
-
-[Data](articles/96596f9c.json)
-
-[Extended Data](ext_articles/96596f9c.ext.json)
-
----
-
-### Chicken prices increase
-
-*2024-03-02 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-prices-increase/108-278111) · `en`
-
-Colombo, March 2 (Daily Mirror) - The retail price of a kilogram of chicken has been increased by between Rs. 40 to Rs. 60 from today, poultry farmers said.
-
-The retail price of a kilo of fresh chicken at the Narahenpita Economic Centre is Rs. 1,180.
-
-A selling price of Rs. 1,120 was recorded for skinless chicken and curry chicken was sold at Rs. 1,200 per kilogram.
-
-Chicken sale centres in Handapangoda recorded Rs. 1,190 per kilogram of fresh chicken, Rs.1,180 per kilogram of skinless chicken and Rs.1,300 per kilogram of curry chicken.
-
-◼️
-
-[Data](articles/8e6119af.json)
-
-[Extended Data](ext_articles/8e6119af.ext.json)
 
 ---

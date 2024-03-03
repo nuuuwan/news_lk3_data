@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 09:52:03**
+As of **2024-03-03 10:17:54**
 
 ## Newspaper Stats
 
-*Scraped **10,525** Articles*
+*Scraped **10,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
-islandlk | 568
+islandlk | 569
 adalk | 885
 adaderanalk | 1,284
-tamilmirrorlk | 1,288
-virakesarilk | 1,416
+tamilmirrorlk | 1,289
+virakesarilk | 1,417
 dailymirrorlk | 1,593
 adaderanasinhalalk | 1,626
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 1,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,525 (100.0%) of 10,525 articles have been extended.
+10,527 (100.0%) of 10,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### செங்கடலிற்கு மற்றுமொரு கப்பலை அனுப்புகின்றது இலங்கை- கடற்படை அதிகாரி தகவல்
+
+*2024-03-03 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177779) · `ta`
+
+சர்வதேச கடற்பரப்பில் கடல்சார் பாதுகாப்பினை உறுதி செய்வதற்கான நடவடிக்கைக்கு இலங்கை தனது இரண்டாவது கப்பலை அனுப்பவுள்ளதாக கடற்படை பேச்சாளர் தெரிவித்துள்ளார்.
+
+முதலாவது கப்பல் தனது நடவடிக்கையினை பூர்த்திசெய்த பின்னர் இரண்டு நாட்களிற்கு முன்னர் இலங்கை திரும்பியுள்ளது என கடற்படையின் ஊடக இயக்குநர்  கப்டன்  தயான் விக்கிரமசூரிய தெரிவித்துள்ளார்.
+
+இலங்கை எஸ்எம்எஸ் கஜபா என்ற கப்பலை 100 கடற்படையினருடன் அனுப்பியது என தெரிவிதுள்ள அவர் சரக்கு மற்றும் மீன்பிடி கப்பல்களின் பாதுகாப்பை உறுதி செய்வதற்காகவே இலங்கை இந்த கப்பலை அனுப்பியது  இணைந்த கடல்சார் படையணியுடன் சேர்ந்து செயற்பட்டு இந்து சமுத்திரத்தில் போதைப்பொருள் பயன்பாட்டை கட்டுப்படுத்துவதும் நோக்கமாகயிருந்தது என தெரிவித்துள்ளார்.
+
+அராபியன் கடல் கடற்கொள்ளைகள் அதிகமாக இடம்பெறும் பகுதி என தெரிவித்துள்ள அவர் சரக்கு மற்றும் மீன்பிடி கப்பல்களின் நடமாட்ட சுதந்திரத்தை உறுதி செய்வதற்காக இலங்கை கடற்படை கப்பல்களை அனுப்புகின்றது எனவும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ceb0f224.json)
+
+---
+
+### A large number of people gathered in tears for Shantan's body
+
+*2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-திரண்டு-கண்ணீருடன்-அஞ்சலி/72-334118) · `ta`
+
+Shantan, from Trichy, died from illness. Her body was autopsied at Negombo State Hospital, then taken to Vavuniya, where it was honored by civilians.
+
+🟩
+
+Shantan, who was staying at the Trichy special camp, passed away following the illness.
+
+In this case, her body was taken to the Katunayake International Airport and placed at the Negombo State Hospital for autopsy.. His body was taken to Vavuniya after the autopsy.
+
+Santhan's body was placed in a decorated car at 7.30 am today (03) in front of the Vavuniya former militants' office and then taken to the Vavuniya old bus station.
+
+There, a large number of civilians participated and paid tribute to her body amid tears.
+
+◼️
+
+[Data](articles/a4751399.json)
+
+[Extended Data](ext_articles/a4751399.ext.json)
+
+---
 
 ### The young man who sent a drone camera was wrong
 
@@ -961,6 +1003,22 @@ Not surprisingly, Lu does mention China, but only in the context of the pressure
 [Data](articles/27373ff7.json)
 
 [Extended Data](ext_articles/27373ff7.ext.json)
+
+---
+
+### CLIMATE CHANGE MITIGATION – THE DILMAH CONTRIBUTION
+
+*2024-03-02 20:50:00* · [`islandlk`](http://island.lk/climate-change-mitigation-the-dilmah-contribution/) · `en`
+
+Worldwide, the observed impacts of climate change are driving a multiplicity of conservation and mitigation strategies. Climate change is a gradually-evolving disaster which may not be reversible. However, there is much that man can do to mitigate its impact.
+
+To combat climate change, one must be able to evaluate its progress and impact scientifically. One of the major technical contributions from Dilmah to the cause of managing climate change was to establish a Climate Research Station, the first of its kind in the world by a private entity, at Queensberry Estate, Upper Kotmale. This self-sustained research centre, located at the highest point on one of Kahawatte Plantations estates, was launched in December 2017, in collaboration with the Foundation for Environment, Climate and Technology (FELT) and the University of Peradeniya.
+
+...
+
+[Data](articles/ea41bf10.json)
+
+[Extended Data](ext_articles/ea41bf10.ext.json)
 
 ---
 
@@ -2177,73 +2235,5 @@ Anuragumara Dissanayake has a terrible past. Harini is not that. He has a good p
 [Data](articles/93c66764.json)
 
 [Extended Data](ext_articles/93c66764.ext.json)
-
----
-
-### An increase in the price of chicken meat
-
-*2024-03-02 11:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலை-அதிகரிப்பு/175-334086) · `ta`
-
-The retail price of chicken meat has risen by 20 rupees, now at Rs. 1,180, affecting poultry farmers.
-
-🟩
-
-The retail price of one kilogram of chicken meat has been increased by 20 rupees. 40 to Rs.. Poultry farmers said it has been increased till 60.
-
-Retail Price of Rs.. 1,180.
-
-The sale is sold at Rs.
-
-◼️
-
-[Data](articles/ddccf47e.json)
-
-[Extended Data](ext_articles/ddccf47e.ext.json)
-
----
-
-### Hybrid Energy Project for three islands
-
-*2024-03-02 11:40:25* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දූපත්-තුනකට-දෙමුහුන්-බලශක්ති-ව්‍යාපෘතියක්/11-408382) · `si`
-
-Delft and Elvathivu islands' hybrid energy project, costing $10.995M, uses 530 kW of vegetables, combining hybrid and alternate power.
-
-🟩
-
-The contractualization of the hybrid power project was held yesterday (01st)
-
-The project is being implemented by the Delft, Elvathivu (Nagadeepa) island with an American US $ 10.995.
-
-The hybrid system operates in 530 kW of vegetables, the hybrid power and alternate power of Rs.
-
-◼️
-
-[Data](articles/c54930aa.json)
-
-[Extended Data](ext_articles/c54930aa.ext.json)
-
----
-
-### The spring of water is dry due to the hottest weather
-
-*2024-03-02 11:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උෂ්ණාධික-කාලගුණය-නිසා-ජල-උල්පත්-සිදී-යනවා/11-408381) · `si`
-
-Due to the hottest weather, the spring of water is dry. Minister Mahinda Amaraweera announced that tea fertilizer will be provided to growers at government-quality prices. Farmers are urged to cultivate paddy fields immediately, using modern technology like "parachute" and specific methods for plowing. The government is focusing on supplementary crops and has increased the production of certain fertilizers. Efforts are being made to reduce fertilizer prices, with the aim of providing high-quality fertilizer at minimum prices. The Red Cultivation Scheme has successfully implemented 55 out of 59 projects, harvesting around 1350 kilograms of tea leaves per acre per month. This initiative is credited to President Ranil Wickremesinghe's visionary measures.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the tea fertilizer will be given to the growers of the quality and quality of the government's fertilizer companies.
-
-Mr. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries Mahinda Amaraweera, said:
-
-There is a temperature weather throughout the country these days. It has been affected by the spring of water spring. In the face of the situation, the farmers urge the farmers to cultivate the full paddy field at once.
-
-Also, we expect modern technology for agriculture. Steps should be used to use methods such as "parachute". Farmers' organizations have a special responsibility in this regard. In the plowing "disk paddy" and "mill board rung" is asked to use ". It should be emphasized that the farmers who have been successfully cultivated are currently being used to achieve their harvests.
-
-...
-
-[Data](articles/5bee8eb7.json)
-
-[Extended Data](ext_articles/5bee8eb7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 01:17:35**
+As of **2024-03-04 01:33:26**
 
 ## Newspaper Stats
 
-*Scraped **10,651** Articles*
+*Scraped **10,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-dailyftlk | 568
+dailyftlk | 569
 islandlk | 569
 adalk | 899
 adaderanalk | 1,301
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,648 (100.0%) of 10,651 articles have been extended.
+10,651 (100.0%) of 10,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Sri Lanka to improve commercial dispute resolution through mediation
+
+*2024-03-04 01:18:37* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-to-improve-commercial-dispute-resolution-through-mediation/4-759132) · `en`
+
+Sri Lanka ratified the UN Convention on International Settlement Agreements Resulting from Mediation, popularly known as the Singapore Convention on Mediation, last Thursday on 28 February. This Convention is to Mediation what the 1958 UN Convention On Enforcement of Foreign Arbitral Awards (the NY Arbitration Convention), is to Arbitration.
+
+Legislation to give effect to the Convention was enacted by the Sri Lankan Parliament in January, 2024 and is titled ‘Recognition and Enforcement of International Settlement Agreements Resulting from Mediation, Act No. 5 of 2024’. The Act will come into force and the Convention will apply to Sri Lanka with effect from six months from the date of ratification, i.e. from 28 August 2024.
+
+...
+
+[Data](articles/e38027a5.json)
+
+---
 
 ### Serendib Flour Mills celebrates 15-year journey of purposefully nourishing the nation
 
@@ -46,6 +60,8 @@ True to its purpose of nourishing the nation, SFML set up in 2008, said it has p
 
 [Data](articles/d8d79523.json)
 
+[Extended Data](ext_articles/d8d79523.ext.json)
+
 ---
 
 ### $ 8 m investment to set up bedding ware for export
@@ -57,6 +73,8 @@ Honor Global Industry Lanka, a Chinese and Vietnam based group signed an agreeme
 ◼️
 
 [Data](articles/9714c7b1.json)
+
+[Extended Data](ext_articles/9714c7b1.ext.json)
 
 ---
 
@@ -75,6 +93,8 @@ Based at the company’s New York headquarters, he oversaw PVH’s global supply
 ...
 
 [Data](articles/28004a32.json)
+
+[Extended Data](ext_articles/28004a32.ext.json)
 
 ---
 
@@ -2199,25 +2219,5 @@ The World Report was supervised by the main Judge Dhanga De Silva and six judges
 [Data](articles/179cbeb8.json)
 
 [Extended Data](ext_articles/179cbeb8.ext.json)
-
----
-
-### Applications for Presidential Scholarships 24/25 open
-
-*2024-03-03 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-for-Presidential-Scholarships-2425-open/108-278126) · `en`
-
-The "Presidential Scholarship Programme 2024/25" is currently accepting applications targeting 100,000 economically disadvantaged school students.
-
-The initiative aligns with President Ranil Wickremesinghe's vision and interested candidates can apply on or before March 20, 2024.
-
-Application forms, instructions and relevant information are available in Sinhala, Tamil and English on the official Facebook page of the President's Fund and the website www.presidentsfund.gov.lk.
-
-Completed applications must be submitted to the respective school principals before the deadline.
-
-◼️
-
-[Data](articles/664b8247.json)
-
-[Extended Data](ext_articles/664b8247.ext.json)
 
 ---

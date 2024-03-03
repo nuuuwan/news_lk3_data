@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 08:33:19**
+As of **2024-03-03 08:50:22**
 
 ## Newspaper Stats
 
-*Scraped **10,515** Articles*
+*Scraped **10,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ economynextcom | 543
 dailyftlk | 561
 islandlk | 568
 adalk | 884
-adaderanalk | 1,283
-tamilmirrorlk | 1,285
+adaderanalk | 1,284
+tamilmirrorlk | 1,287
 virakesarilk | 1,416
-dailymirrorlk | 1,590
+dailymirrorlk | 1,591
 adaderanasinhalalk | 1,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,511 (100.0%) of 10,515 articles have been extended.
+10,515 (100.0%) of 10,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### வினாத்தாள் கசிந்ததால் பரீட்சைகள் இடைநிறுத்தம்
+
+*2024-03-03 08:35:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிந்ததால்-பரீட்சைகள்-இடைநிறுத்தம்/175-334116) · `ta`
+
+கணிதம் மற்றும் ஆங்கில வினாத்தாள்கள் கசிந்துள்ளதாக வெளியான தகவலை அடுத்து, தற்போது நடைபெற்று வரும் அரசாங்க பாடசாலை தவணைப் பரீட்சைகளை இடைநிறுத்துவதற்கு மேல் மாகாண கல்வி திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+
+வினாத்தாள் கசிவு குறித்து நம்பகமான தகவல் கிடைத்ததையடுத்து, தேர்வுகள் நிறுத்தப்படுவதை அதிகாரிகள் உறுதி செய்தனர்.
+
+இவ்விவகாரம் தொடர்பாக முழுமையான விசாரணையைத் தொடங்க குற்றப் புலனாய்வுப் பிரிவில் திணைக்களம் இன்னும் முறைப்பாடு செய்யவில்லை.
+
+◼️
+
+[Data](articles/34e15f3c.json)
+
+---
+
+### Sri Lanka seeks five-month hold on bondholder suit
+
+*2024-03-03 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97697/sri-lanka-seeks-five-month-hold-on-bondholder-suit) · `en`
+
+(Bloomberg) -- Sri Lanka is seeking a five-month hold on a lawsuit filed by a bondholder over the country’s historic debt default, telling a New York federal judge that it wants more time to negotiate with private creditors.
+
+The island nation was sued in July 2022 by Hamilton Reserve Bank Ltd., which sought full payment on more than $250 million of Sri Lanka’s dollar bond that was due that month. The bank says it holds more than 25% of the bonds, which would likely enable it to block any modification of the notes.
+
+On Friday, Sri Lanka sought an extension of a delay of the lawsuit that was granted in November. Hamilton Reserve opposed the new request, saying that the country has kept the bank “in the dark” about the negotiations despite repeated requests for information.
+
+The island nation is prioritizing restructuring obligations to its private creditors as it seeks to fast-track a debt overhaul and exit a sovereign default, the foreign minister told Bloomberg last month.
+
+...
+
+[Data](articles/10b27322.json)
+
+---
+
+### மத்திய வங்கியின் சம்பள உயர்வு குறித்து கலந்துரையாட ஆயத்தம்
+
+*2024-03-03 08:30:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கியின்-சம்பள-உயர்வு-குறித்து-கலந்துரையாட-ஆயத்தம்/175-334115) · `ta`
+
+நிதி நெருக்கடிக்கு மத்தியில் மத்திய வங்கி தனது ஊழியர்களுக்கு பெருமளவிலான சம்பள உயர்வை ரத்து செய்ய முடியுமான சாத்தியம் உள்ளதா என்ற குழப்பத்தில் பாராளுமன்றம் இருப்பதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+மத்திய வங்கி அண்மையில் தனது ஊழியர்களின் சம்பளத்தை 29.53 வீதத்தில் இருந்து 79.97 வீதமாக மூன்றாண்டுகளுக்கு ஒரு முறை திருத்தியமைத்துள்ளது.
+
+நிதிக் கட்டுப்பாடுகள் காரணமாக அனைத்து அரச நிறுவனங்களுக்கும் அதன் செலவுகளைச் சிக்கனமாக்குமாறு அரசாங்கம் அறிவுறுத்தியபோது இது நடந்தது. சமீபத்திய சம்பள உயர்வுடன், மத்திய வங்கி ஆளுநரின் மாதாந்த சம்பளம் ரூ.974,965ல் இருந்து ரூ.1.7 மில்லியனாக அதிகரிக்கப்பட்டுள்ளது.
+
+அபரிமிதமான சம்பள அதிகரிப்பு தொடர்பில் பரவலான விமர்சனங்களைத் தொடர்ந்து, இது குறித்து பாராளுமன்றத்தில் தெளிவுபடுத்தவுள்ளதாக மத்திய வங்கி தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/e463b577.json)
+
+---
+
+### Maldivian expands horizons: New flight route to Colombo from April 25
+
+*2024-03-03 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maldivian-expands-horizons-New-flight-route-to-Colombo-from-April-25/108-278121) · `en`
+
+The Maldivian, the flag carrier of the Maldives, announced the commencement of its highly anticipated service to the Bandaranaike International Airport (BIA) from April 25.
+
+While looking forward to welcoming passengers on board, the Maldivian have decided to operate two weekly flights to Colombo, departing every Thursdays and Saturdays.
+
+This strategic expansion further solidifies Maldivian’s commitment to connecting the Maldives with key international destinations, enhancing travel options for passengers and promoting cultural and economic exchange between the two nations.
+
+Commenting on the launch of the new destination, Managing Director of Maldivian Ibrahim Iyas said that they have long waited to serve Colombo and bring both Maldives and Sri Lanka closer on business and leisure.
+
+...
+
+[Data](articles/ea559d82.json)
+
+---
 
 ### Showers expected in several districts
 
@@ -46,55 +116,69 @@ The public is kindly requested to take adequate precautions to minimize the dama
 
 [Data](articles/0a168597.json)
 
+[Extended Data](ext_articles/0a168597.ext.json)
+
 ---
 
-### நாட்டில் வறட்சியான காலநிலை காணப்படும்
+### There is a dry weather in the country
 
 *2024-03-03 08:16:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-வறட்சியான-காலநிலை-காணப்படும்/175-334114) · `ta`
 
-சப்ரகமுவ, மேல், வடமேல், தென் மற்றும் கிழக்கு  மாகாணங்களிலும் அத்துடன் மன்னார் மாவட்டத்திலும் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Dry weather across the country, with increased temperatures in several provinces. Chance of rain or thunderstorms in the evening in Galle, Matara, Kalutara, Ratnapura, and Nuwara Eliya. Public advised to be vigilant with strong winds and lightning. Showers or thunderstorms likely in coastal sea regions from Kalutara to Matara, with winds reaching 40-45 km/h in some areas.
 
-காலி, மாத்தறை, களுத்துறை, இரத்தினபுரி மற்றும் நுவரெலியா மாவட்டங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+🟩
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+The Department of Meteorology said that increased temperatures will be seen today in Sabaragamuwa, Upper, North Western, Southern and Eastern Provinces as well as Mannar district.
 
-களுத்துறை  தொடக்கம் காலி  ஊடாக மாத்தறை  வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின்  சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+There is a chance of rain or thunderstorm in the evening or night in some areas of Galle, Matara, Kalutara, Ratnapura and Nuwara Eliya districts.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத் திசையில்  இருந்து  காற்று வீசும்.
+The public is asked to act with vigilance in the events of strong winds and lightning.
 
-கொழும்பு  தொடக்கம் புத்தளம்  ஊடாக காங்கேசன்துறை  வரையான அத்துடன்  மாத்தறை தொடக்கம்  ஹம்பாந்தோட்டை ஊடாக பொத்துவில்  வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 40 ‐ 45 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி காற்று அதிகரித்து வீசக்கூடும்.
+Showers or thunderstorms are likely to occur in some parts of the sea regions along the coast of Kalutara to Matara.
+
+Winds from the northeast at 20 - 30 km / h in the sea regions.
+
+From Colombo to Puttalam to Kankesanthurai as well as in the sea regions from Matara to Hambantota, the winds may increase at speeds of 40 to 45 km per hour.
 
 ◼️
 
 [Data](articles/3a06b927.json)
 
+[Extended Data](ext_articles/3a06b927.ext.json)
+
 ---
 
-### අභිරහස් මරණ දෙකක්
+### Two mysterious deaths
 
 *2024-03-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194065) · `si`
 
-නොච්චියාගම - පන්වැව ප්‍රදේශයේ පුද්ගලයෙකු කුඹුරක ඇති වළක් තුළ සැකකටයුතු ලෙස මිය ගොස් තිබේ.
+Two mysterious deaths in Panwewa and Negombo-Purachhouda Polonian. In Panwewa, a 35-year-old man died in a pit, and in Negombo-Purachhouda, an unidentified man aged 60-70, 5 feet tall, dressed in blue, was found. Causes of death are under investigation.
 
-ඒ සම්බන්ධයෙන් ඊයේ (02) දහවල් කාලයේ දී නොච්චියාගම පොලීසියට ලද තොරතුරක් මත පරික්ෂණ ආරම්භ කර ඇත.
+🟩
 
-මිය ගොස් ඇත්තේ, මාරගහවැව - නොච්චියාගම ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+A person in Panwewa - a person in Panwewa area has died in a pit.
 
-මරණකරු පෙරේදා සවස් කාලයේ දී කුඹුරේ ඇති පැලට යන බව පවසා නිවසින් පිට ව ගොස් තිබිණි.
+The investigations have been launched on information received by the Nochchiyagama Police yesterday (02).
 
-ඔහු යළි නිවස වෙත නොපැමිණීම හේතුවෙන් මරණකරුගේ බිරිඳ විසින් නොච්චියාගම පොලිස් ස්ථානයට පැමිණිල්ලක් ද කර ඇත.
+The deceased has been identified as 35 year old resident of Nochchiyagama.
 
-මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, සිද්ධිය සම්බන්ධයෙන් නොච්චියාගම පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+The victim had left the house saying he was on the paddy field in the evening.
 
-මේ අතර මීගමුව - කාමච්චෝඩය පොළ භූමියේ තිබී නාඳුනන පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් හමු ව තිබේ.
+The victim's wife has lodged a complaint lodged by the deceased's wife to the Nochchiyagama Police Station.
 
-මරණකරුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති අතර, ඔහු වයස අවුරුදු 60ත් 70ත් අතර වයසේ පසු වන, උස අඩි 05යි අගල් 06ක් පමණ වන, තළෙළු සාමාන්‍ය සිරුරක් සහිත පුද්ගලයෙකු බව පොලීසිය පවසයි.
+The cause of death is yet to be ascertained and the Nochchiyagama Police are conducting further investigations.
 
-ඔහු නිල් හා ගුරු පාට බතික් සරමක් හා ගුරු පාට අත්දිග කමිසයක් හැඳ සිටින බව පොලීිසිය සඳහන් කරයි.
+Meanwhile, a body of an unidentified man has been found in the Negombo-Purachhouda Polonian.
+
+The identity of the deceased has not yet been established, and he has a common body with a common body, which is between 60 and 70 years old, aged at least 5 feet.
+
+The police states that he has dressed in blue and teacher's batik and teachers' sleek shirt.
 
 ◼️
 
 [Data](articles/636b25f3.json)
+
+[Extended Data](ext_articles/636b25f3.ext.json)
 
 ---
 
@@ -236,21 +320,27 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### ’பாதிக்கப்பட்டவர்களுக்கு நீதி கிடைக்கவில்லை’
+### The victims are not getting justice
 
 *2024-03-03 03:44:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்டவர்களுக்கு-நீதி-கிடைக்கவில்லை/175-334113) · `ta`
 
-இலங்கையின் அண்மைய பொருளாதார முன்னேற்றம், புதிய சட்டங்களால் இருட்டடிப்பு செய்யப்படுவதாக ஐக்கிய நாடுகளின் மனித உரிமைகள் ஆணையாளர் தெரிவித்துள்ளார்.
+The United Nations Human Rights Commissioner criticized Sri Lanka's economic progress for being overshadowed by new laws, despite the end of a 15-year civil war. Families of the missing continue to face threats, arrests, and violence, highlighting a lack of interest in human rights violations.
 
-ஐக்கிய நாடுகளின் மனித உரிமைகள் பேரவையின் 55 ஆவது கூட்டத்தொடரில் உரையாற்றிய போதே அவர் இவ்வாறு தெரிவித்துள்ளார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இலங்கையில் பல தசாப்தங்களாக நீடித்த உள்நாட்டு யுத்தம் நிறைவடைந்து இந்த வருடத்துடன் 15 வருடங்கள் நிறைவு பெறுகின்றன. எனினும், மனித உரிமை மீறல்கள் தொடர்பில் இன்னமும் அக்கறை செலுத்தப்படாமல் உள்ளது.
+The United Nations Human Rights Commissioner has said that the recent economic improvement in Sri Lanka is being blacked out by new laws.
 
-காணாமலாக்கப்பட்டவர்களின் குடும்பங்கள் தமது அன்புக்குரியவர்களை தொடர்ந்தும் தேடி வருகின்றனர். அவர்கள் அச்சுறுத்தல்கள், கைதுகள், வன்முறைகளையும் எதிர்கொள்கின்றனர் என்றார் . (a)
+He said this while addressing the 55th session of the United Nations Human Rights Council. He further stated that
+
+The civil war that lasted for decades in Sri Lanka ends 15 years this year. However, there is still no interest in human rights violations.
+
+The families of the missing are continuing their loved ones. They said they also faced threats, arrests and violence. (A)
 
 ◼️
 
 [Data](articles/abb5ce8a.json)
+
+[Extended Data](ext_articles/abb5ce8a.ext.json)
 
 ---
 
@@ -2129,93 +2219,5 @@ Chicken sale centres in Handapangoda recorded Rs. 1,190 per kilogram of fresh ch
 [Data](articles/8e6119af.json)
 
 [Extended Data](ext_articles/8e6119af.ext.json)
-
----
-
-### New Alliance Maithri Action
-
-*2024-03-02 10:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-கூட்டணி-மைத்திரி-அதிரடி/175-334084) · `ta`
-
-"New Alliance Maithri Action: Former President Maithripala Sirisena announces a new coalition led by the Sri Lanka Freedom Party, to be formed next week. He mentions future action regarding the United Front amendment."
-
-🟩
-
-Former President Maithripala Sirisena has said that a new coalition led by the Sri Lanka Freedom Party will be formed next week.
-
-He said that as the United Front amendment has been amended, action will be taken in the future to appoint the authorities.
-
-◼️
-
-[Data](articles/f8bf57f9.json)
-
-[Extended Data](ext_articles/f8bf57f9.ext.json)
-
----
-
-### Don't come to the congregation: Keheliya
-
-*2024-03-02 10:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபைக்கு-வரமாட்டேன்-கெஹலிய/175-334083) · `ta`
-
-Keheliya Rambukwella, arrested for drug offenses, won't attend parliamentary meetings due to illness. Despite preparations by the Speaker's office, he's been placed in interrogation. A court order requires a detailed health report from the prison commissioner.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella, who has been arrested on charges of buying non -standard drugs, has sent a letter to the General Secretary of Parliament that he will not attend parliamentary meetings.
-
-It is also reported that he will not attend parliamentary meetings due to illness.
-
-After the Keheliya Rambukwella was placed in the interrogation, the Sharge was prepared for all arrangements to attend parliamentary meetings, at the request of the Speaker, at the request of a secretary.
-
-Meanwhile, the court recently ordered the prison commissioner to submit a detailed report on his health.
-
-◼️
-
-[Data](articles/cbad2994.json)
-
-[Extended Data](ext_articles/cbad2994.ext.json)
-
----
-
-### Saman Ratnayake to be sentenced to court
-
-*2024-03-02 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194038) · `si`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, arrested by CID after 9-hour interrogation, will be sentenced in court.
-
-🟩
-
-Additional Secretary to the Ministry of Health in the Health Ministry yesterday (CID) has been produced before the Maligakanda Courts.
-
-Mr. Saman Ratnayake was summoned to the Criminal Investigation Department yesterday, and he was arrested after interrogation over 9 hours.
-
-◼️
-
-[Data](articles/a8a3cf16.json)
-
-[Extended Data](ext_articles/a8a3cf16.ext.json)
-
----
-
-### Stir in Kattankudi;Magistrate
-
-*2024-03-02 10:43:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/காத்தான்குடியில்-பரபரப்பு-நீதவான்-அதிரடி-உத்தரவு/73-334082) · `ta`
-
-The Batticaloa Magistrate's Court ordered 30 people, including Sahran Kasim's sister's husband, to appear on the 26th after arresting them on suspicion of involvement in a Sunday attack in Kattankudi Palamunai. A motorcycle and three-wheeler were recovered, and police conducted a special inspection.
-
-🟩
-
-When the Batticaloa Magistrate's Court was produced before the Magistrate's Court yesterday evening, he was allowed to go to the bodies and ordered them to appear in court on the 26th of this month.
-
-Police have arrested 30 people, including the husband of Sahran Kasim's sister, on Friday morning (01), on suspicion of bail in connection with a Sunday attack on the alleged Sunday attack on a house in Kattankudy Palamunai area.
-
-A 23 motorcycle three -wheeler has been recovered and the police have gone to the houses of the arrested and have been conducting a special inspection of the area.
-
-After investigating the arrested persons, they were allowed to go to the body when they were produced before the Batticaloa Magistrate's Court in the evening.R
-
-◼️
-
-[Data](articles/72a8cc41.json)
-
-[Extended Data](ext_articles/72a8cc41.ext.json)
 
 ---

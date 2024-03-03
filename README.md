@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 00:02:54**
+As of **2024-03-04 00:17:47**
 
 ## Newspaper Stats
 
-*Scraped **10,641** Articles*
+*Scraped **10,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,67 @@ islandlk | 569
 adalk | 899
 adaderanalk | 1,301
 tamilmirrorlk | 1,306
-virakesarilk | 1,429
-dailymirrorlk | 1,615
+virakesarilk | 1,430
+dailymirrorlk | 1,616
 adaderanasinhalalk | 1,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,640 (100.0%) of 10,641 articles have been extended.
+10,641 (100.0%) of 10,643 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-04 (Monday)
+
+### கொழும்பில் உள்ள உணவகம் ஒன்றில் தாக்குதல் ; சொத்துக்கள் சேதம்
+
+*2024-03-04 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177830) · `ta`
+
+கொழும்பு ஆர்மர் வீதியில் உள்ள உணவகம் ஒன்றில் ஞாயிற்றுக்கிழமை (03) அதிகாலை  நுழைந்த சிலர் வாள்கள் மற்றும் பொல்லுகளால் உணவகத்தின் சொத்துக்களுக்குச் சேதம் விளைவித்ததுடன், ஊழியர்களையும் காயப்படுத்தியுள்ளனர்.
+
+உணவகத்தை பயன்படுத்துவது தொடர்பாக உரிமையாளருக்கும் குத்தகை தாரர்களுக்கும் இடையில் ஏற்பட்ட தகராறே இந்த தாக்குதலுக்குக் காரணமென பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/da893933.json)
+
+---
+
 ### 2024-03-03 (Sunday)
 
-### பாலைதீவு புனித அந்தோனியாரின் தேவாலயத்தின் நவநாள் கூட்டுத்திருப்பலி
+### President attends ‘Battle of the Maroons’ encounter
+
+*2024-03-03 23:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-attends-Battle-of-the-Maroons-encounter/110-278145) · `en`
+
+President Ranil Wickremesinghe graced the 94th 'Battle of the Maroons' cricket clash between Ananda and Nalanda Colleges, iconic Buddhist boys’ schools in Sri Lanka, at the SSC ground in Colombo today (03). Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/f58860df.json)
+
+---
+
+### The New Day of the Church of St. Anthony's Church
 
 *2024-03-03 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177829) · `ta`
 
-வரலாற்றுச் சிறப்புமிக்க பாலைதீவு புனித அந்தோனியாரின் தேவாலயத்தின் நவநாள் கூட்டுத்திருப்பலி சனிக்கிழமை (02) சிறப்பாக இடம்பெற்றது.
+"St. Anthony's Church celebrated its New Day Festival on 02/22/2024, featuring a historical Paladeevu and a Jaffna Diocese event led by A.Jebaratnam."
 
-கடந்த 22.02.2024 அன்று கொடியேற்றத்துடன் ஆரம்பமாகிய நவநாள் உற்சவத்தில் சனிக்கிழமை (02) கூட்டுத்திருப்பலி இடம்பெற்றது.
+🟩
 
-நவநாள் கூட்டுத்திருப்பலியினை யாழ்ப்பாண மறைமாவட்ட பங்கு குருமுதல்வர் ஏ.ஜேபரட்ணம் தலைமையிலான பங்குகுருமுதல்வர்கள் நடாத்திவைத்தனர்.
+Historical Paladeevu was held on Saturday (02).
+
+A joint venture was held on Saturday (02) at the New Day Festival which began with the flag pole on 22.02.2024.
+
+The Jaffna Diocese of the Jaffna Diocese was conducted by the shareholders led by A.Jebaratnam.
 
 ◼️
 
 [Data](articles/e9d732e6.json)
+
+[Extended Data](ext_articles/e9d732e6.ext.json)
 
 ---
 
@@ -2225,57 +2259,5 @@ President Ranil Wickremesinghe also emphasized the necessity of formulating a na
 [Data](articles/1423fee0.json)
 
 [Extended Data](ext_articles/1423fee0.ext.json)
-
----
-
-### Namal's dream makes pleasant 'powdered'
-
-*2024-03-03 11:36:42* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-සිහිනය-ප්‍රසන්න-’කුඩු’-කරයි/11-408390) · `si`
-
-Prasanna Ranatunga criticizes Namal Rajapaksa's candidacy, suggesting he lacks talent and timing. He also mentions his support for Basil Rajapaksa if he runs, but not for Namal.
-
-🟩
-
-Chief Government Whip Prasanna Ranatunga says he should be more talented than he is a current president of the presidential election.
-
-The Minister emphasizes that if a weak candidate is presented in some man, he will have to judge his party membership.
-
-The Minister also said that this is not the right time to contest the presidential election to Namal Rajapaksa.
-
-The Minister was speaking at a discussion with former local government representatives.
-
-The president is not in a dimension except for the President's Ranil Wickremesinghe.
-
-"If the Sri Lanka Commonwealth, Basil Rajapaksa presented to the next presidential election, I support him. However, he will not contest the presidential election. I know it better. Namal is not the time to contest this presidential election. He has more time. I told the face of Namal. Because he should come up at the right time.
-
-...
-
-[Data](articles/c3d44960.json)
-
-[Extended Data](ext_articles/c3d44960.ext.json)
-
----
-
-### Those who have the wrong information on the relief is wrong
-
-*2024-03-03 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194069) · `si`
-
-Minister Shehan Semasinghe expects June revenues to rise to Rs. 24 lakhs and identifies 7,000 misconceptions in the reconciliation program.
-
-🟩
-
-Minister of State Shehan Semasinghe says that the number of revenues from June is expected to increase to Rs. 24 lakhs.
-
-Speaking to the Media The Hon.
-
-Meanwhile, state minister Shehan Semasinghe says that 7,000 misconceptions have been identified for the reconciliation program.
-
-The Minister of State Shehan Semasinghe further stated that if it is confirmed that they have been confirmed.
-
-◼️
-
-[Data](articles/974bc686.json)
-
-[Extended Data](ext_articles/974bc686.ext.json)
 
 ---

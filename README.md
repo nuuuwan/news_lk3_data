@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 22:17:33**
+As of **2024-03-03 22:33:05**
 
 ## Newspaper Stats
 
-*Scraped **10,630** Articles*
+*Scraped **10,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 899
-adaderanalk | 1,298
-tamilmirrorlk | 1,305
-virakesarilk | 1,427
+adaderanalk | 1,299
+tamilmirrorlk | 1,306
+virakesarilk | 1,428
 dailymirrorlk | 1,614
 adaderanasinhalalk | 1,651
 
@@ -26,23 +26,89 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,627 (100.0%) of 10,630 articles have been extended.
+10,630 (100.0%) of 10,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### பொருட்களின் விலையை குறைக்க பணம் இல்லாத நிலையில் ஜனாதிபதியின் வெளிநாட்டுப் பயணங்களுக்கு பணம் ஒதுக்கீடு - சஜித்
+### சாந்தனின் புகழுடலுக்கு அவரது சகோதரி ஆரத்தி எடுத்து வரவேற்றார்
+
+*2024-03-03 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177828) · `ta`
+
+ராஜீவ் காந்தி கொலை வழக்கில் விடுதலை செய்யப்பட்ட சாந்தனுடைய புகழுடல் உடுப்பிட்டியில் உள்ள அவரது சகோதரியின் வீட்டிற்கு ஆரத்தி எடுத்து கொண்டுவரப்பட்டது.
+
+இதன்போது அனைவரது நெஞ்சையும் கணக்கவைக்கும் வகையில், “அண்ணா வாறார் யாரும் அழ வேண்டாம்” என கூறிய சாந்தனுடைய சகோதரி ஆரத்தி எடுத்து வரவேற்றார்.
+
+இதன்போது கனத்த இதயத்துடன் யாரும் அழாது இருந்த நிலையில் ஒம் நமசிவாய சொல்லி ஆரத்தி எடுக்கப்பட்டது.
+
+மறைந்த தில்லையம்பலம் சுதேந்திரராஜாவின் (சாந்தன்) புகழுடல் ஊர்தி யாழ்ப்பாணம் வடமராட்சியை வந்தடைந்து நெல்லியடி மற்றும் தீருவிலில் அஞ்சலிக்காக வைக்கப்பட்டது.
+
+வவுனியாவில் இன்று காலை 8மணியளவில் மக்கள் அஞ்சலிக்கு வைக்கப்பட்ட சாந்தனின் புகழுடல் ஊர்தி ஏ9 வீதி ஊடாக மாங்குளம் – கிளிநொச்சி ஊடாக நகர்ந்து அஞ்சலிக்கு வைக்கப்பட்டு யாழ்ப்பாணத்திற்கு எடுத்துவரப்பட்டது.
+
+இந்திய முன்னாள் பிரதமா் ராஜிவ் காந்தி கொலை வழக்கில் தண்டனை பெற்று விடுவிக்கப்பட்ட சாந்தன், திருச்சியில் உள்ள சிறப்பு முகாமில் தடுத்து வைக்கப்பட்ட நிலையில் சென்னை ராஜிவ் காந்தி அரசு மருத்துவமனையில் கடந்த 28ம் திகதி மாரடைப்பு காரணமாக உயிரிழந்தார்.
+
+...
+
+[Data](articles/bbada3d4.json)
+
+---
+
+### அண்ணனின் பூதவுடலை ஆரத்தி எடுத்து பெற்றுக் கொண்ட தங்கை
+
+*2024-03-03 22:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அண்ணனின்-பூதவுடலை-ஆரத்தி-எடுத்து-பெற்றுக்-கொண்ட-தங்கை/175-334157) · `ta`
+
+சாந்தனின் பூதவுடல் அவரின் சொந்த ஊரான உடுப்பிடியில் உள்ள அவரது வீட்டிற்கு கொண்டு செல்லப்பட்டுள்ளது.
+
+சாந்தனின் உடலை வீட்டிற்கு கொண்டுவரும் போது, அவரது உடன்பிறந்த சகோதரி ஆரத்தி எடுத்தமை அங்கிருந்தவர்களை கண்கலங்கச் செய்திருந்தது.
+
+“என் தெய்வம் வீட்டிற்கு வருகின்றது, யாரும் அழக் கூடாது“ என அவரது சகோதரி இதன்போது உருக்கத்துடன் கோரிக்கை விடுத்திருந்தார்.
+
+அத்தோடு தன் மகனை உயிருடன் பார்க்க வேண்டும் என்று காத்திருந்த தாய் பல ஆண்டுகளுக்கு பின் உயிரற்ற உடலை கண்டு கதறி அழுதார். R
+
+◼️
+
+[Data](articles/bf934bb3.json)
+
+---
+
+### President appoints political cabinet for upcoming elections?
+
+*2024-03-03 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97709/president-appoints-political-cabinet-for-upcoming-elections) · `en`
+
+President Ranil Wickremesinghe has appointed both a political Cabinet and a special committee, for the upcoming presidential election, sources told Ada Derana.
+
+Accordingly, a political Cabinet is believed to have been appointed by the Head of State for his presidential campaign for the upcoming election, while a special committee was also appointed to overlook and manage the planning process of the elections.
+
+According to political sources, Chief of Presidential Staff Sagala Rathnayaka and Parliamentarian Mahindananda Aluthgamage are also included in the political Cabinet, while the committee is said to comprise of Ministers Tiran Alles, Prasanna Ranatunga, Harin Fernando and Manusha Nanayakkara, along with MPs Nimal Lanza and Mahindananda Aluthgamage.
+
+The political Cabinet had reportedly met last Monday, while the committee is said to have met last Wednesday, and are scheduled to meet once a week, according to internal sources.
+
+◼️
+
+[Data](articles/07a2ce00.json)
+
+---
+
+### Allocation for President's foreign trips in the absence of money to reduce the price of goods - Sajith
 
 *2024-03-03 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177827) · `ta`
 
-பால் தேனீர், தேனீர், தின்பண்டங்கள், சிற்றூண்டிகள், சாப்பாடுப் பொதிகள், கொத்து போன்றவற்றின் விலைகள் அதிகரித்துள்ளன. 24 மணி நேரமும் 365 நாட்களும் நாட்டில் விலை அதிகரிப்பு கலாச்சாரமே இருந்து வருகிறது. விலைவாசி உயர்ந்து, மக்களின் வாழ்க்கை சீரழிந்தாலும், அரசிடம் இதற்கான பதில் இல்லை. இவ்வாறான நிலையில் ஜனாதிபதி பாராளுமன்றத்தில் பணத்தை பெற்றுக்கொண்டு வெளிநாடு முழுவதும் விஜயங்களை மேற்கொண்டு வருவதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Sajith Premadasa criticizes the President for foreign trips funded by Parliament, highlighting rising food prices and lack of domestic projects. He mentions the failure of Ranasinghe Premadasa's garment industry program and the inability to export electricity products. Premadasa calls for economic development to avoid bankruptcy, criticizing the government for shrinking the economy despite increased production.
 
-ரணசிங்க பிரேமதாசவின் 200 ஆடைத் தொழிற்சாலைகள் வேலைத்திட்டத்தின் பின்னர், நாட்டுக்கு டொலர்களைப் பெற்றுக்கொள்ளும் உள்நாட்டு சர்வதேச அளவிலும் இன்னும் எந்தத் திட்டமும் அறிமுகப்படுத்தப்படவில்லை. இவ்வாறு போகும் போக்கில் சர்வதேச நாணய நிதியத்துடன் 100 உடன்படிக்கைகள் கைச்சாத்திடப்பட்டாலும் டொலர்களைப் பெற்றுக் கொள்ள முடியாது போகும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
+
+Prices of milk tea, tea, snacks, smallpox, meals and masonry have increased. The price increases in the country for 24 hours and 365 days. Even though the price is rising and people's lives are degraded, the state has no answer. In this case, the President of the Opposition said that the President is receiving money in Parliament and making visits abroad.
+
+After Ranasinghe Premadasa's 200 garment industries program, no project has been introduced in domestic international internationally to the country's dollars.. The Opposition Leader said that even if 100 agreements were signed with the International Monetary Fund, the dollars would not be able to receive the dollars.
+
+We are unable to export electricity products by our country. Regardless of how much the government is hit, the government is always carrying the burden on the people and the rulers are carrying out inhumane life.
 
 ...
 
 [Data](articles/8748d178.json)
+
+[Extended Data](ext_articles/8748d178.ext.json)
 
 ---
 
@@ -57,6 +123,8 @@ Tharanga has clearly given his reasons on picking the dashing left-handed opener
 ...
 
 [Data](articles/4c576d4a.json)
+
+[Extended Data](ext_articles/4c576d4a.ext.json)
 
 ---
 
@@ -201,6 +269,8 @@ The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1
 ...
 
 [Data](articles/b43e6cb4.json)
+
+[Extended Data](ext_articles/b43e6cb4.ext.json)
 
 ---
 
@@ -2215,75 +2285,5 @@ The President said this at the event held at the Sri Lanka Navy on Friday.
 [Data](articles/ceb0f224.json)
 
 [Extended Data](ext_articles/ceb0f224.ext.json)
-
----
-
-### Farmers, foreign employees brought down dollar rate: Minister
-
-*2024-03-03 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Farmers-foreign-employees-brought-down-dollar-rate-Minister/108-278124) · `en`
-
-Farmers and foreign employees made the most commitment to bring down the value of the increased dollar rate, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-He said the value of the dollar had increased rapidly against the rupee in recent times. By now, the value of the dollar has decreased to a certain extent, the Minister said.
-
-In 2022, some 800,000 metric tons of rice was imported by Sri Lanka and the government had to spend USD 300 million for that.
-
-But in 2023, not even a grain of rice was imported and in the two years 2023 and 2024, the farmers of this country have saved more than USD 600 million to the country.
-
-Also, in 2023 as well as in 2024, the people of this country will consume local rice and not imported rice, and that respect and pride should go to the farmers of Sri Lanka.
-
-...
-
-[Data](articles/b5725feb.json)
-
-[Extended Data](ext_articles/b5725feb.ext.json)
-
----
-
-### A large number of people gathered in tears for Shantan's body
-
-*2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-திரண்டு-கண்ணீருடன்-அஞ்சலி/72-334118) · `ta`
-
-Shantan, from Trichy, died from illness. Her body was autopsied at Negombo State Hospital, then taken to Vavuniya, where it was honored by civilians.
-
-🟩
-
-Shantan, who was staying at the Trichy special camp, passed away following the illness.
-
-In this case, her body was taken to the Katunayake International Airport and placed at the Negombo State Hospital for autopsy.. His body was taken to Vavuniya after the autopsy.
-
-Santhan's body was placed in a decorated car at 7.30 am today (03) in front of the Vavuniya former militants' office and then taken to the Vavuniya old bus station.
-
-There, a large number of civilians participated and paid tribute to her body amid tears.
-
-◼️
-
-[Data](articles/a4751399.json)
-
-[Extended Data](ext_articles/a4751399.ext.json)
-
----
-
-### The great tribute to Shantan's body
-
-*2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-அஞ்சலி/72-334118) · `ta`
-
-Shantan, from Trichy, died from illness. Her body was autopsied at Negombo State Hospital, then taken to Vavuniya. A tribute was held at 7.30 am, attended by many civilians.
-
-🟩
-
-Shantan, who was staying at the Trichy special camp, passed away following the illness.
-
-In this case, her body was taken to the Katunayake International Airport and placed at the Negombo State Hospital for autopsy.. His body was taken to Vavuniya after the autopsy.
-
-Santhan's body was placed in a decorated car at 7.30 am today (03) at 7.30 am in front of the office of the Vavuniya former militants.
-
-There, a large number of civilians participated and paid tribute to her body amid tears.
-
-◼️
-
-[Data](articles/cb44841f.json)
-
-[Extended Data](ext_articles/cb44841f.ext.json)
 
 ---

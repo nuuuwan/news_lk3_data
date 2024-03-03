@@ -20,5 +20,8 @@
         "At the same time, other vegetables are still being sold at a price of 500 rupees."
       ]
     }
-  }
+  },
+  "summary_lines": [
+    "Carrot prices have dropped from 2000 to 1000 rupees, while other vegetables remain at 500 rupees."
+  ]
 }

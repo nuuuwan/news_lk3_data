@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 11:52:11**
+As of **2024-03-03 12:02:47**
 
 ## Newspaper Stats
 
-*Scraped **10,538** Articles*
+*Scraped **10,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,130 @@ newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 888
+adalk | 889
 adaderanalk | 1,285
-tamilmirrorlk | 1,289
-virakesarilk | 1,418
+tamilmirrorlk | 1,291
+virakesarilk | 1,419
 dailymirrorlk | 1,595
-adaderanasinhalalk | 1,628
+adaderanasinhalalk | 1,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,534 (100.0%) of 10,538 articles have been extended.
+10,538 (100.0%) of 10,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### අස්වැසුමට වැරදි තොරතුරු දුන් අයට වැඩ වැරදෙයි
+### සහරාන් හෂිම්ගේ මස්සිනා ඇතුළු 30 දෙනෙකුට ඇප
+
+*2024-03-03 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194070) · `si`
+
+පසුගිය 01 වනදා කාත්තන්කුඩි පොලිස් වසමේ පාලමුණු - ආරියම්පති ප්‍රදේශයේ දී අත්අඩංගුවට ගත් සහරාන් හෂිම්ගේ මස්සිනා ඇතුළු 30 දෙනෙකු රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත මුදා හැරීමට මඩකලපුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+එමෙන්ම එම සැකකරුවන්ට එළැඹෙන 06 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙසට ද අධිකරණය නියෝග කර ඇති බව පොලීසිය පවසයි.
+
+පසුගිය 01 වනදා අලුයම් කාලයේදී කත්තාන්කුඩි පොලිස් වසමේ පාලමුණ - ආරියම්පති ප්‍රදේශයේ තාවකාලිකව ඉදි කළ මඩුවක් වැනි ස්ථානයක පුද්ගලයින් 30ක පමණ රැස්ව සිටින බවට කාත්තන්කුඩි පොලීසියට තොරතුක් ලැබී තිබුණි.
+
+එම පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායම් විසින් එහි සිටි පුද්ගලයින් 30 දෙනෙකු යම් අපරාධ ක්‍රියාවක් හෝ රාජ්‍ය විරෝධී ක්‍රියාවක් සිදුකිරීමේ අරමුණින් රැස්ව සිටින බවට වූ සැකය මත අත්අඩංගුවට ගෙන තිබුණි.
+
+පසුව සැකපිට අත්අඩංගුවට ගත් පුද්ගලයින් 30 දෙනාගෙන් කාත්තන්කුඩි පොලිස් ස්ථානය මගින් ප්‍රකාශ සටහන් කර ගෙන තිබූ අතර එම පුද්ගලයින්ගෙන් මඩකළපුව ත්‍රස්ත මර්දන විමර්ශන කොට්ඨාස ඒකකයේ නිලධාරීන් විසින්ද ප්‍රශ්න කිරීමක් සිදුකර තිබුණි.
+
+...
+
+[Data](articles/43048e95.json)
+
+---
+
+### காசா- பரசூட்களை பயன்படுத்தி மனிதாபிமான உதவிகளை வீசியது அமெரிக்கா
+
+*2024-03-03 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177790) · `ta`
+
+காசாவின் மீது அமெரிக்கா வான்வழியாக மனிதாபிமான உதவிகளை வீசியுள்ளதாக அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+உணவுவாகன தொடரணியை சூழ்ந்த பாலஸ்தீனியர்கள் மீதுஇஸ்ரேல் மேற்கொண்ட துப்பாக்கி பிரயோகத்தில் 110க்கும் அதிகமானவர்கள் கொல்லப்பட்டதை தொடர்ந்து காசாவிற்கான மனிதாபிமான உதவிகளை அதிகரிக்கப்போவதாக அமெரிக்க ஜனாதிபதி தெரிவித்திருந்த நிலையிலேயே அமெரிக்கா இந்த நடவடிக்கையைமேற்கொண்டுள்ளது.
+
+சி130 ரக விமானங்கள் 38000 உணவுப்பொதிகளை காசாவிற்குள் பரசூட் மூலம் வீசின என அமெரிக்காவின் மத்திய கட்டளைப்பீடம் தெரிவித்துள்ளது.
+
+பிரிட்டன் பிரான்ஸ் எகிப்து ஜோர்தான் ஆகிய நாடுகள் முன்னர் காசாவின் மீது இவ்வாறான நடவடிக்கைகளை மேற்கொண்டுள்ளன எனினும் அமெரிக்கா இவ்வாறான நடவடிக்கையை மேற்கொள்வது இதுவே முதல்தடவை.
+
+வியாழக்கிழமை இடம்பெற்ற துன்பியல் நிகழ்வு காசாவில் காணப்படும் மிகமோசமான மனிதாபிமான நிலை காரணமாக அந்த பகுதிக்கான மனிதாபிமான உதவிகள் விநியோகத்தை தொடர்ந்து பேணவேண்டியதன் அவசியத்தை  வலியுறுத்தியுள்ளது என பைடன் நிர்வாகத்தின் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/78ca6a21.json)
+
+---
+
+### Those who have the wrong information on the relief is wrong
 
 *2024-03-03 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194069) · `si`
 
-ජූනි මාසයේ සිට අස්වැසුම ප්‍රතිලාභින් සංඛ්‍යාව ලක්ෂ 24ක් දක්වා වැඩිකිරීමට බලාපොරොත්තු වන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Minister Shehan Semasinghe expects June revenues to rise to Rs. 24 lakhs and identifies 7,000 misconceptions in the reconciliation program.
 
-මාධ්‍ය‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා පවසා සිටියේ, අස්වැසුම පළමු වටයේ සිදු වූ දුර්වලතා මඟ හරවාගෙන තවදුරටත් ශක්තිමත් යාන්ත්‍රණයක් බවට පත් කර ගමේ සහ රටේ සිටින දිලිඳුම සහ දුප්පත් කණ්ඩායම ඉතා හොඳින් තෝරාගැනීමට අවශ්‍ය වැඩකටයුතු සිදු කරන බවය.
+🟩
 
-මේ අතර, අස්වැසුම වැඩසටහන සඳහා වැරදි තොරතුරු ලබාදුන් 7,000ක ප්‍රමාණයක් හඳුනාගෙන ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Minister of State Shehan Semasinghe says that the number of revenues from June is expected to increase to Rs. 24 lakhs.
 
-එලෙස වැරදි තොරතුරු ලබාදුන් බවට තහවුරු වී ඇති නම්, පනත ප්‍රකාර ව අදාළ පුද්ගලයන්ට නිත්‍යනූකූල ව කටයුතු කිරීම සඳහා කටයුතු කරන බව ද මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා වැඩිදුරටත් පැවසීය.
+Speaking to the Media The Hon.
+
+Meanwhile, state minister Shehan Semasinghe says that 7,000 misconceptions have been identified for the reconciliation program.
+
+The Minister of State Shehan Semasinghe further stated that if it is confirmed that they have been confirmed.
 
 ◼️
 
 [Data](articles/974bc686.json)
 
+[Extended Data](ext_articles/974bc686.ext.json)
+
 ---
 
-### ගොවි ජනතාවගේ ගැටළු විසඳීමට ප්‍රමුඛත්වය දෙනවා
+### பாராளுமன்றத்தின் மின் விநியோகம் துண்டிப்பு
+
+*2024-03-03 11:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாராளுமன்றத்தின்-மின்-விநியோகம்-துண்டிப்பு/50-334119) · `ta`
+
+பாராளுமன்றத்துக்கான மின் கட்டணத்தை முறையாக செலுத்தாமையால், அந்த பாராளுமன்றத்துக்கான மின் விநியோகம் துண்டிக்கப்பட்ட சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+மேற்கு ஆப்பிரிக்க நாடான கானாவின் பாராளுமன்றத்திற்கான மின் விநியோகத்தை அந்நாட்டு மின்சார நிறுவனம் துண்டித்த சம்பவம் இடம்பெற்றுள்ளது.
+
+கானா பாராளுமன்றத்தில் ஜனாதிபதி நானா அகுஃபோ–அட்டோ  நாட்டு மக்களுக்கு உரையாற்றிக் கொண்டிருந்த சந்தர்ப்பத்தில் மின்சாரம் துண்டிக்கப்பட்டுள்ளது. உடனடியாக மின்சாரம் வழமைக்குத் திரும்பும் என நினைத்து உறுப்பினர்கள் அமர்ந்திருந்த நிலையில், மின்சாரத்தடை நீடித்தது.
+
+இதையடுத்து, அங்கிருந்து உறுப்பினர்கள் அனைவரும் அக்கன் மொழியில் “மின்சார தடை” எனும் பொருள்பட “டம்சர், டம்சர்”  என கோஷமிடத் தொடங்கினர். சில நிமிடங்கள் கடந்ததும் உறுப்பினர்கள் அமர்ந்திருந்த சபைக்கு மட்டும் ஜெனரேட்டர் உதவியுடன் மின்சாரம் கிடைத்தது.
+
+ஆனால், பாராளுமன்றத்தின் பிற பகுதிகளுக்கு மின்சாரம் வரவில்லை. இதனால் மின் தூக்கியில்  பயணித்த பல உறுப்பினர்கள் அதில் சிக்கிக்கொள்ள நேர்ந்தது.
+
+...
+
+[Data](articles/c08c1ee1.json)
+
+---
+
+### Prioritizes the problems of the farming community
 
 *2024-03-03 11:08:48* · [`adalk`](https://www.ada.lk/picture_story/ගොවි-ජනතාවගේ-ගැටළු-විසඳීමට-ප්‍රමුඛත්වය-දෙනවා/10-408389) · `si`
 
-යළි රට ගොඩ නැඟීම හමුවේ ජයගත යුතු අභියෝග රැසක් පැවතියත් ගොවි ජනතාවගේ ගැටළු විසඳීමට ප්‍රමුඛත්වය ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the challenges of the farming community, highlighting the need for competitive agricultural exports and the upcoming largest agricultural modernization program. He addressed issues like canal construction, street lighting, and land provision for farmers. Wickremesinghe also discussed plans for Trincomalee's development, including tourism, employment, and agriculture. He aimed to modernize agriculture, focusing on 'Smart Agriculture' and increasing crop exports.
 
-බෝග අපනයනය ඉලක්ක කර ගත් තරගකාරී කෘෂි කර්මාන්තයක අවශ්‍යතාව පෙන්වා දුන් ජනාධිපතිවරයා ඒ වෙනුවෙන් මෙරට දියත් කෙරෙන විශාලතම කෘෂි නවීකරණ වැඩසටහන නුදුරේදීම ක්‍රියාත්මක කරන බවද පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ත්‍රිකුණාමලය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී කපිල අතුකෝරල මහතාගේ ආරාධනයකට අනුව තඹලගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ ගලමැටියාව ග්‍රාමයේ වී අස්වනු නෙලීමේ අවස්ථාවට අද (02) සහභාගී වූ අවස්ථාවේ දීය .
+President Ranil Wickremesinghe said that although there are many challenges to be overcome in the face of rebuilding the country.
 
-තඹලගමුව ප්‍රාදේශීය ලේකම් කොට්ඨාසය තුළ අක්කර 9000ක පමණ  වී වගාව සිදු කර ඇති අතර ගලමැටියාව ග්‍රාම  නිලධාරී වසමේ පමණක් මහ කන්නයේදී අක්කර 672 ක් වගා කොට ඇත.
+The President has shown the need for a competitive agricultural export of crops and the President will soon implement the largest agricultural modernization program launched in the country.
+
+President Ranil Wickremesinghe expressed these views at the invitation of the Thambalagamuwa Divisional Secretariat Division at the Talamatonia of the Thambulamatiya village today (02).
+
+About 9000 acres of paddy cultivation in the Thambalagamuwa Divisional Secretariat area and 672 acres of paddy is cultivated in the Galminawa Grama Niladhari Division.
+
+Residents who met with the President's arrival in the area without a colored residents, were presented to the President Ranil Wickremesinghe.. The President instructed the officials at the same time to investigate and address the issues.
 
 ...
 
 [Data](articles/30a49cf2.json)
+
+[Extended Data](ext_articles/30a49cf2.ext.json)
 
 ---
 
@@ -105,6 +179,22 @@ Speaking at a ceremony held at a school in Tissamaharama, the Samagai Jana Balaw
 [Data](articles/d90745d0.json)
 
 [Extended Data](ext_articles/d90745d0.ext.json)
+
+---
+
+### තේ, කිරි තේ, බත්, කොන්තු හා ෆ්‍රයිඩ් රයිස් මිල ඉහළට
+
+*2024-03-03 10:49:55* · [`adalk`](https://www.ada.lk/breaking_news/තේ--කිරි-තේ--බත්--කොන්තු-හා-ෆ්‍රයිඩ්-රයිස්-මිල-ඉහළට/11-408388) · `si`
+
+ආහාර නිෂ්පාදන පිරිවැයේ සැලකිය යුතු වැඩිවීම අනුව ඊයේ රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි කොත්තු, ෆ්‍රයිඩ් රයිස් සහ කිරි තේ සහ ප්ලේන් ටී කෝප්පයක මිල ඉහළ නංවීමට කටයුතු කරන බව සමස්ත ලංකා ආපනශාලා හිමියන්ගේ සංගමය සඳහන් කරයි.
+
+තේ කෝප්පයක මිල රුපියල් 5කින්, කිරි තේ කෝප්පයක මිල රුපියල් 10කින් ඉහළ නැංවීමට එම සංගමය කටයුතු කර තිබේ.
+
+කෙසේ වෙතත් පාරිභෝගික භාණ්ඩ මිලෙහි අඩුවීමක් සිදුවුවහොත් ඊට අනුරූප සහන මහජනතාවට ලබාදීමට සූදානම් බවද එම සංගමය පවසයි.
+
+◼️
+
+[Data](articles/6c1c8df1.json)
 
 ---
 
@@ -162,31 +252,9 @@ It is reported that such disputes have been constantly broken out between the tw
 
 ---
 
-### Farmers, foreign employees brought down dollar rate: Minister
-
-*2024-03-03 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Farmers-foreign-employees-brought-down-dollar-rate-Minister/108-278124) · `en`
-
-Farmers and foreign employees made the most commitment to bring down the value of the increased dollar rate, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-He said the value of the dollar had increased rapidly against the rupee in recent times. By now, the value of the dollar has decreased to a certain extent, the Minister said.
-
-In 2022, some 800,000 metric tons of rice was imported by Sri Lanka and the government had to spend USD 300 million for that.
-
-But in 2023, not even a grain of rice was imported and in the two years 2023 and 2024, the farmers of this country have saved more than USD 600 million to the country.
-
-Also, in 2023 as well as in 2024, the people of this country will consume local rice and not imported rice, and that respect and pride should go to the farmers of Sri Lanka.
-
-...
-
-[Data](articles/b5725feb.json)
-
-[Extended Data](ext_articles/b5725feb.ext.json)
-
----
-
 ### Sri Lanka-Navy Officer Information
 
-*2024-03-03 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177779) · `ta`
+*2024-03-03 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177779) · `ta`
 
 Sri Lanka's Navy is deploying a second ship to enhance maritime security, focusing on drug control and protecting freight and fishing vessels in the Indian Ocean.
 
@@ -212,6 +280,28 @@ The President said this at the event held at the Sri Lanka Navy on Friday.
 
 ---
 
+### Farmers, foreign employees brought down dollar rate: Minister
+
+*2024-03-03 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Farmers-foreign-employees-brought-down-dollar-rate-Minister/108-278124) · `en`
+
+Farmers and foreign employees made the most commitment to bring down the value of the increased dollar rate, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+He said the value of the dollar had increased rapidly against the rupee in recent times. By now, the value of the dollar has decreased to a certain extent, the Minister said.
+
+In 2022, some 800,000 metric tons of rice was imported by Sri Lanka and the government had to spend USD 300 million for that.
+
+But in 2023, not even a grain of rice was imported and in the two years 2023 and 2024, the farmers of this country have saved more than USD 600 million to the country.
+
+Also, in 2023 as well as in 2024, the people of this country will consume local rice and not imported rice, and that respect and pride should go to the farmers of Sri Lanka.
+
+...
+
+[Data](articles/b5725feb.json)
+
+[Extended Data](ext_articles/b5725feb.ext.json)
+
+---
+
 ### A large number of people gathered in tears for Shantan's body
 
 *2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-திரண்டு-கண்ணீருடன்-அஞ்சலி/72-334118) · `ta`
@@ -233,6 +323,24 @@ There, a large number of civilians participated and paid tribute to her body ami
 [Data](articles/a4751399.json)
 
 [Extended Data](ext_articles/a4751399.ext.json)
+
+---
+
+### சாந்தனின் உடலுக்கு பெருந்திரளானோர் அஞ்சலி
+
+*2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-அஞ்சலி/72-334118) · `ta`
+
+திருச்சி சிறப்பு முகாமில் தங்கவைக்கப்பட்டிருந்த சாந்தன், உடல் நலக்குறைவு ஏற்பட்டதை அடுத்து காலமானார்.
+
+இந்நிலையில் அவரது உடல்  கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு   எடுத்து வரப்பட்டு பிரேத பரிசோதனைகளுக்காக நீர்கொழும்பு அரச வைத்தியசாலையில் வைக்கப்பட்டது. பிரேத பரிசோதனை முடிவின் பின்னர்   அவரது உடல்  வவுனியாவிற்கு எடுத்து வரப்பட்டது.
+
+வவுனியா முன்னாள் போராளிகள் நலன்புரிச்சங்கத்தின் அலுவலகத்திற்கு முன்பாக இன்று (03) காலை 7.30மணியளவில் அலங்கரிக்கப்பட்ட ஊர்தியில் சாந்தனின் உடல் வைக்கப்பட்டு அஞ்சலி செலுத்தப்பட்டதுடன், பின்னர் ஊர்வலமாக வவுனியா பழைய பேரூந்து நிலையத்திற்கு எடுத்துச்செல்லப்பட்டது.
+
+அங்கு பெருந்திரளான பொதுமக்கள் கலந்துகொண்டு கண்ணீருக்கு மத்தியில் அவரது உடலுக்கு அஞ்சலி செலுத்தினர்.அதனைத்தொடர்ந்து தொடர்ந்து அங்கிருந்து ஊர்வலமாக மாங்குளம் பகுதிக்கு கொண்டு  செல்லப்பட்டது
+
+◼️
+
+[Data](articles/cb44841f.json)
 
 ---
 
@@ -639,6 +747,8 @@ Sri Lanka has forex shortages, exchange controls due to maintaining a central ba
 ...
 
 [Data](articles/125c006f.json)
+
+[Extended Data](ext_articles/125c006f.ext.json)
 
 ---
 
@@ -2083,141 +2193,5 @@ The Criminal Investigations Department was arrested by the Criminal Investigatio
 [Data](articles/ec531bbb.json)
 
 [Extended Data](ext_articles/ec531bbb.ext.json)
-
----
-
-### Saudi suffering women
-
-*2024-03-02 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194043) · `si`
-
-Four Sri Lankan women, employed domestically in Saudi Arabia, report torture, including food and beverage deprivation. They were brought to Saudi Arabia in October and November 2023, against their will, and are now seeking repatriation.
-
-🟩
-
-Four women in Sri Lanka say that they have been tortured in Riyadh, who went to the domestic service to be held in Riyadh.
-
-It describes the telephone video scenes they face.
-
-Four women with Foreign Employment Institutes in Colombo, Bambalapitiya and Kurunegala have left for the house of Saudi Arabia in October and November 2023.
-
-Those women who went abroad with a thousand expectations due to economic hardship are facing a very bitter experience.
-
-They have tortured them with various torture and torture of food and beverages.
-
-Accordingly, the Employees have detected them in a flat in Saudi Arabia.
-
-They ask the authorities to bring themselves back to Sri Lanka.
-
-Also, many domestic workers who have brought from themselves and from other countries will be in the apartment and requests the authorities to release them.
-
-◼️
-
-[Data](articles/f7e6d620.json)
-
-[Extended Data](ext_articles/f7e6d620.ext.json)
-
----
-
-### 5 billion for aircraft from operation
-
-*2024-03-02 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194042) · `si`
-
-SriLankan Airlines paid Rs. 5 billion for aircraft, needs 27 for operations, and has 6 aircraft in NOO category, including 2 A320s and 4 A32s. Eight aircraft were removed from 24 to April 2022, and tax reliefs were paid from 2021 to April 2023. The airline faced engine issues but received additional engines from the manufacturer.
-
-🟩
-
-SriLankan's office has been paid a sum of Rs.
-
-According to the report, SriLankan needs 27 aircrafts for air operations.
-
-The National Audit Office is issued by the year 2022-2023.
-
-Eight aircraft have been removed from the 24 aircraft to April 20 last year, according to their audit.
-
-Accordingly, the tax relieves have been paid to April 20 to April 20, from 2021 to April 20, 2023.
-
-The neo (neo) aerial operation was taken by the Sri Lankan airlines in the recent past, the airplane was removed by an engine in the aircraft globally.
-
-However, SriLankan Airlines has pointed out that the engine has agreed to agree with the manufacturer's airline to provide additional engines until the engine repaired.
-
-The Sri Lankan airlighs have six aircraft owned by NOO category, and there are two A320-type aircraft and 4 A32-type aircraft.
-
-The 4r-Aao group (4RR-A) plane and the 4R-AA.
-
-◼️
-
-[Data](articles/be810aab.json)
-
-[Extended Data](ext_articles/be810aab.ext.json)
-
----
-
-### Advise people to eat liquid foods
-
-*2024-03-02 13:17:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரவ-உணவுகளை-உட்கொள்ளுமாறு-மக்களுக்கு-ஆலோசனை/175-334090) · `ta`
-
-Health experts recommend consuming liquid foods and staying hydrated due to high temperatures. Dr. Janaka Marasinghe, a nutritionist, emphasizes this advice. The Department of Meteorology's report indicates a 'warning level' for body temperature in several provinces and districts, advising against severe outdoor activities, wearing lightweight clothing, and prioritizing hydration.
-
-🟩
-
-Health experts have said that the public should pay more attention to the food and drinks eating public due to high temperatures.
-
-Accordingly, it is imperative to consume liquid foods, said Dr. Janaka Marasinghe, a nutritionist of the Horana District General Hospital.
-
-Meanwhile, in the North Western, Western, Southern and Sabaragamuwa provinces and Mannar district, the temperature in the human body today will increase to the 'warning level'.
-
-This is stated in a thermal index consultation report issued by the Department of Meteorology.
-
-Therefore, the report also points out that it is important to drink too much water, relax in the shade, and water.
-
-The Department of Meteorology has advised to control severe outdoor activities and to prioritize hydration, and to wear lightweight clothing in white or pale colors. Remble
-
-◼️
-
-[Data](articles/6d57c920.json)
-
-[Extended Data](ext_articles/6d57c920.ext.json)
-
----
-
-### Biden says US military to airdrop food and supplies into Gaza
-
-*2024-03-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97684/biden-says-us-military-to-airdrop-food-and-supplies-into-gaza) · `en`
-
-U.S. President Joe Biden announced on Friday plans to carry out a first military airdrop of food and supplies into Gaza, a day after the deaths of Palestinians queuing for aid threw a spotlight on an unfolding humanitarian catastrophe in the crowded coastal enclave.
-
-Biden said the U.S. airdrop would take place in the coming days but offered no further specifics. Other countries, including Jordan and France, have already carried out airdrops of aid into Gaza.
-
-“We need to do more and the United States will do more,” Biden told reporters, adding that “aid flowing to Gaza is nowhere nearly enough.”
-
-At the White House, spokesperson John Kirby stressed that airdrops would become “a sustained effort.” He added that the first airdrop would be likely be military MREs, or “meals ready-to-eat.”
-
-Biden told reporters that the U.S. was also looking at the possibility of a maritime corridor to deliver large amounts of aid into Gaza.
-
-The airdrops could begin as early as this weekend, officials said.
-
-...
-
-[Data](articles/6ba7a3c0.json)
-
-[Extended Data](ext_articles/6ba7a3c0.ext.json)
-
----
-
-### IGP Deshabandu pledges more efficient continuation of ‘Yukthiya’ operation
-
-*2024-03-02 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97683/igp-deshabandu-pledges-more-efficient-continuation-of-yukthiya-operation) · `en`
-
-The countrywide operation ‘Yukthiya’, initiated to crack down on narcotics and criminal activities, will be continued more efficiently and robustly, the Inspector General of Police (IGP) Deshabandu Tennakoon said.
-
-Furthermore, Tennakoon, emphasizing that the criminals, traffickers and the underworld are yet to be rooted out from the country, promised to arrest and bring them to book within a very short period of time.
-
-The IGP made these remarks following a visit to the Temple of Tooth Relic in Kandy this morning (02).
-
-◼️
-
-[Data](articles/4d05d97b.json)
-
-[Extended Data](ext_articles/4d05d97b.ext.json)
 
 ---

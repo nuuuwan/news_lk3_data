@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 01:03:41**
+As of **2024-03-04 01:17:35**
 
 ## Newspaper Stats
 
-*Scraped **10,648** Articles*
+*Scraped **10,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-dailyftlk | 565
+dailyftlk | 568
 islandlk | 569
 adalk | 899
 adaderanalk | 1,301
@@ -26,29 +26,85 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,646 (100.0%) of 10,648 articles have been extended.
+10,648 (100.0%) of 10,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### நெதன் லயனில் சுழற்சியில் நியூஸிலாந்து சரிந்தது, ஆஸி. 172 ஓட்டங்களால் வெற்றி
+### Serendib Flour Mills celebrates 15-year journey of purposefully nourishing the nation
+
+*2024-03-04 00:57:27* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-celebrates-15-year-journey-of-purposefully-nourishing-the-nation/34-759131) · `en`
+
+Senior Management of  Serendib Flour Mills and Al-Ghurair (Parent company of Serendib)
+
+Serendib Flour Mills (SFML) is celebrating 15 years of unwavering efforts to uplift the standard of living of all Sri Lankans with the finest wheat flour products, combining technological excellence and superior after sales service.
+
+True to its purpose of nourishing the nation, SFML set up in 2008, said it has positively transformed Sri Lanka’s wider food ecosystem elevating standards in the country’s bakery and food industry and improved the quality of life across the country.
+
+...
+
+[Data](articles/d8d79523.json)
+
+---
+
+### $ 8 m investment to set up bedding ware for export
+
+*2024-03-04 00:55:53* · [`dailyftlk`](https://www.ft.lk/business/8-m-investment-to-set-up-bedding-ware-for-export/34-759130) · `en`
+
+Honor Global Industry Lanka, a Chinese and Vietnam based group signed an agreement recently with the Board of Investment for $ 8 million to manufacture foam mattresses, hybrid mattresses, and pillows for the export market. The venture proposes to create employment opportunities for 700 people. The company plans to target markets such as the US, UK, EU, and Middle East. Here BOI Chairman Dinesh Weerakkody (right) hands over the agreement to the officials of the investing company.
+
+◼️
+
+[Data](articles/9714c7b1.json)
+
+---
+
+### Two eminent industry leaders join Teejay Lanka board as independent directors
+
+*2024-03-04 00:54:20* · [`dailyftlk`](https://www.ft.lk/business/Two-eminent-industry-leaders-join-Teejay-Lanka-board-as-independent-directors/34-759129) · `en`
+
+Bill McRaith and Shrihan Perera fortify top textile manufacturer’s corporate leadership
+
+Teejay Lanka PLC has announced the appointment of two eminent apparel industry personalities, Messrs. Bill McRaith and Shrihan B. Perera as independent, non-executive directors, effective 1 March 2024.
+
+Recently retired after an illustrious career of more than three decades in the global apparel and retail industries, Bill McRaith was, in his last appointment, PVH Corp. Chief Supply Chain Officer, the American clothing company that owns brands such as Tommy Hilfiger and Calvin Klein.
+
+Based at the company’s New York headquarters, he oversaw PVH’s global supply chain operations and was responsible for developing the global production structure, processes, manufacturing footprint and logistics network that serviced the needs of the company’s global retail and wholesale divisions.
+
+...
+
+[Data](articles/28004a32.json)
+
+---
+
+### New Zealand collapsed in the cycle of Nethan Lion, Aussie. Win by 172 runs
 
 *2024-03-04 00:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177831) · `ta`
 
-வெலிங்டன் பேசின் ரிசேர்வ் விளையாட்டரங்கில் நடைபெற்ற நியூஸிலாந்துக்கு எதிரான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் 10 விக்கெட் குவியலை நெதன் லயன் பூர்த்தி செய்ததன் பலனாக 172 ஓட்டங்களால் அவுஸ்திரேலியா அமோக வெற்றிபெற்றது.
+Australia won by 172 runs in the 1st Test against New Zealand, with Nethan Lion taking 10 wickets. New Zealand lost all 10 wickets for 196 runs in the first innings, and 258 runs in the second, despite efforts by Rachin Ravindra, Tom Blondal, and Glen Philips. Nethan Lion also achieved a 5-wicket haul in the second innings.
 
-போட்டியின் நான்காம் நாளான ஞாயிற்றுக்கிழமை (03)காலை வெற்றிக்கு மேலும் 258 ஓட்டங்கள் தேவைப்பட்ட நிலையில் தனது இரண்டாவது இன்னிங்ஸை 3 விக்கெட் இழப்புக்கு 111 ஓட்டங்கள் என்ற நிலையில் இருந்து தொடர்ந்த நியூஸிலாந்து சகல விக்கெட்களையும் இழந்து 196 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+🟩
 
-இப் போட்டியில் நியூஸிலாந்து சாதிப்பதற்கான வாய்ப்பு இருந்தது. ஆனால், நெதன் லயன் காலையிலேயே விக்கெட்களை வீழ்த்தி 10 விக்கெட் குவியலைப் பதிவு செய்ததால் நியூஸிலாந்தின் வாய்ப்பு நழுவிப்போனது.
+Australia won by 172 runs as Nethan Lion completed the 10 -wicket festival in the first Test match against New Zealand at Wellington Basin Reserve Stadium.
 
-நியூஸிலாந்தின் நம்பிக்கை நட்சத்திரங்களான ரச்சின் ரவிந்த்ரா, டொம் ப்ளண்டல், க்லென் பிலிப்ஸ் ஆகியோரின் விக்கெட்களை நெதன் லயன் வீழ்த்தி அவுஸ்திரேலியாவை வெற்றிப்பாதையில் இட்டார்.
+New Zealand lost all the wickets for 196 runs for the loss of 111 runs for the loss of 3 wickets, with a further 258 runs for the victory on the fourth day of the match.
 
-நியூஸிலாந்து சார்பாக ரச்சின் ரவிந்த்ரா 59 ஓட்டங்களையும் டெரில் மிச்செல் 38 ஓட்டங்களையும் அதிகப்பட்சமாக பெற்றனர்.
+There was a chance to achieve New Zealand in this match. However, New Zealand's chance was slipped as Nethan Lion took wickets in the morning and recorded a 10 -wicket haul.
+
+New Zealand's faith stars Rachin Ravindra, Tom Blondal and Glen Philips took wickets and took Australia on the road.
+
+Rachin Ravindra scored 59 runs and Tryl Michelle 38 runs for New Zealand.
+
+The two in the 2nd innings of the 2nd innings were 67 runs in the two innings of New Zealand.
+
+In this case, Nethan Lethan equals a record by registering a 5 -wicket focal in the 2nd innings of the match.
 
 ...
 
 [Data](articles/ab2ff4c4.json)
+
+[Extended Data](ext_articles/ab2ff4c4.ext.json)
 
 ---
 
@@ -143,6 +199,8 @@ These was Ronnie’s observations: central banks in countries like Singapore and
 ...
 
 [Data](articles/4672510f.json)
+
+[Extended Data](ext_articles/4672510f.ext.json)
 
 ---
 
@@ -2161,77 +2219,5 @@ Completed applications must be submitted to the respective school principals bef
 [Data](articles/664b8247.json)
 
 [Extended Data](ext_articles/664b8247.ext.json)
-
----
-
-### Calling applications begin for Presidential Scholarship Programme 2024/25 begins
-
-*2024-03-03 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calling-applications-begin-for-Presidential-Scholarship-Programme-202425-begins/108-278126) · `en`
-
-The "Presidential Scholarship Programme 2024/25" is currently accepting applications targeting 100,000 economically disadvantaged school students.
-
-The initiative aligns with President Ranil Wickremesinghe's vision and interested candidates can apply on or before March 20, 2024.
-
-Application forms, instructions and relevant information are available in Sinhala, Tamil and English on the official Facebook page of the President's Fund and the website www.presidentsfund.gov.lk.
-
-Completed applications must be submitted to the respective school principals before the deadline.
-
-◼️
-
-[Data](articles/9bce5007.json)
-
-[Extended Data](ext_articles/9bce5007.ext.json)
-
----
-
-### Calling applications begin for Presidential Scholarship Programme 2024/25 starts
-
-*2024-03-03 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calling-applications-begin-for-Presidential-Scholarship-Programme-202425-starts/108-278126) · `en`
-
-The "Presidential Scholarship Programme 2024/25" is currently accepting applications targeting 100,000 economically disadvantaged school students.
-
-The initiative aligns with President Ranil Wickremesinghe's vision and interested candidates can apply on or before March 20, 2024.
-
-Application forms, instructions and relevant information are available in Sinhala, Tamil and English on the official Facebook page of the President's Fund and the website www.presidentsfund.gov.lk.
-
-Completed applications must be submitted to the respective school principals before the deadline.
-
-◼️
-
-[Data](articles/cbbba077.json)
-
-[Extended Data](ext_articles/cbbba077.ext.json)
-
----
-
-### Kassayman's brother-in-law released on bail
-
-*2024-03-03 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194070) · `si`
-
-Kassayman's brother-in-law was released on bail by the Batticaloa Magistrate's Court. The police arrested 30 people in the Palamuna-Arimpathi area on suspicion of criminal or anti-government activities. The suspects, aged 248 and 48, included the husband of Hachari Hashhim's sister and two older brothers. No evidence of a crime or anti-government protest was found. Further investigations are ongoing.
-
-🟩
-
-The Batticaloa Magistrate's Court has ordered the release of Rs.
-
-The court has also been ordered to appear before courts on the 6th.
-
-Kattankudi police had received information that had a temporarily constructed in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area.
-
-The police officers were arrested on suspicion that 30 people were present in a criminal act or anti-government act.
-
-The 30 people arrested on suspicion have been questioned by Kattankudi police station.
-
-The suspects were residents of Kattankudy and Batticaloa areas, aged 248 and 48.
-
-Among the suspects was the husband of the sister of Hachari Hashhim, a husband of Hachan Hashim, and two older brothers.
-
-According to investigations into the suspects, information has not been revealed that the group met with a crime or anti-government anti-government protesters, police said.
-
-...
-
-[Data](articles/43048e95.json)
-
-[Extended Data](ext_articles/43048e95.ext.json)
 
 ---

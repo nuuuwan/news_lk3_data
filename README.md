@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 18:50:11**
+As of **2024-03-03 19:02:59**
 
 ## Newspaper Stats
 
-*Scraped **10,604** Articles*
+*Scraped **10,608** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 100
+colombotelegraphcom | 101
 bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 894
-adaderanalk | 1,294
+adalk | 895
+adaderanalk | 1,295
 tamilmirrorlk | 1,305
-virakesarilk | 1,422
+virakesarilk | 1,423
 dailymirrorlk | 1,610
 adaderanasinhalalk | 1,644
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 1,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,601 (100.0%) of 10,604 articles have been extended.
+10,604 (100.0%) of 10,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### Heat advisory issued as temperatures to reach ‘caution’ levels
+
+*2024-03-03 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97706/heat-advisory-issued-as-temperatures-to-reach-caution-levels-) · `en`
+
+The Department of Meteorology has cautioned the people of rising atmospheric temperatures at some places in North-western, Western, Southern and Sabaragamuwa provinces and in the Anuradhapura and Mannar districts in the coming hours.
+
+The advisory, issued at 03.30 p.m. today (03 March), will be in effect until tomorrow evening (04 March).
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District”, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps, the Department warned.
+
+...
+
+[Data](articles/413ec025.json)
+
+---
+
+### ஐஸ் போதைப்பொருளை சொக்லேட்டில் மறைத்து கடத்தல்:  விசாரணைகளின்போது சந்தேக நபர் வெளியிட்ட தகவல்கள்!
+
+*2024-03-03 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177823) · `ta`
+
+ஐஸ் போதைப்பொருளை சொக்லேட்டில் மறைத்து வைத்து கட்டுநாயக்க விமான நிலையம்  ஊடாக நீண்ட காலமாக நாட்டுக்குள்  கடத்தியமை கண்டுபிடிக்கப்பட்டுள்ளது.
+
+பொலிஸ் விசேட அதிரடிப்படையினர் மேற்கொண்ட சுற்றிவளைப்பின் போது கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே இந்தக் கடத்தல் தொடர்பான தகவல்கள் வெளியாகியுள்ளன.
+
+கிரிபத்கொட பகுதியில் சொகுசு காரொன்றை சோதனையிட்டபோது, சொக்லேட் ரேப்பர்களில் பொதி செய்யப்பட்ட சுமார் 5 கிலோ போதைப்பொருள் ஐஸ் கண்டுபிடிக்கப்பட்டது.
+
+இந்தக் கடத்தில் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட மேலதிக விசாரணைகளின்போது, கடத்தல்காரர் ஒருவருக்கு சொந்தமான வத்தளை மற்றும் கணேமுல வீடுகள் தொடர்பிலான தகவல்களும் விசேட அதிரடிப்படையினருக்கு கிடைத்துள்ளன.
+
+தற்போது துபாயில் பதுங்கியிருக்கும் சக்தி வாய்ந்த போதைப்பொருள் வியாபாரிகளான நிபுன மற்றும் நந்தசேன ஆகியோரின் அறிவுறுத்தலிலேயே  இவ்வாறு போதைப்பொருள்ள கடத்தப்பட்டுள்ளமை தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/949ad692.json)
+
+---
 
 ### Inmate at Galle Prison currently receiving treatment for meningitis
 
@@ -47,6 +85,8 @@ Earlier this year, and in latter stage of 2023, several inmates of the Galle and
 ◼️
 
 [Data](articles/c615d385.json)
+
+[Extended Data](ext_articles/c615d385.ext.json)
 
 ---
 
@@ -110,17 +150,23 @@ The driver protected the bus and stood the bus to collide the bus on the right t
 
 ---
 
-### அசானிக்கு இந்திய கல்லூரியில் இடம்
+### Place of Indian College for Asani
 
 *2024-03-03 18:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசானிக்கு-இந்திய-கல்லூரியில்-இடம்/175-334143) · `ta`
 
-இந்தியா தமிழ்நாடு போரூரில் அமைந்துள்ள அரசினர் மகளிர் கல்லூரியில் அசானி தனது கல்வியை தொடர அனுமதி பெற்று கல்லூரியில் இணைந்துள்ளார்.
+Asani, from Nayabana, studies at Government Women's College in Porur, Tamil Nadu, after winning the Sarigamapam show on South Indian Tamil Television.
 
-தென்னிந்திய தமிழ் தொலைக்காட்சியில் ஒளிபரப்பாகிய சரிகமப நிகழ்ச்சியில் பங்கேற்று தனது திறமையை காண்பித்தவர் அசானி, இவர்  புசல்லாவை, நயாபன பகுதியை சேர்ந்தவர் என்பது குறிப்பிடத்தக்கது. R
+🟩
+
+Asani has joined the college with permission to pursue her education at the Government Women's College in Porur, India, Tamil Nadu.
+
+It is noteworthy that Asani is a native of Nayabana, who participated in the Sarigamapam show, which aired on South Indian Tamil Television.. Remble
 
 ◼️
 
 [Data](articles/44776aad.json)
+
+[Extended Data](ext_articles/44776aad.ext.json)
 
 ---
 
@@ -240,15 +286,21 @@ If the Edka Agreement is signed. Economicly affected Sri Lankans will be conside
 
 ---
 
-### ஆனந்த - நாளந்த  கிரிக்கெட் போட்டி ;  ஜனாதிபதி விஜயம்
+### Ananda - daily cricket match;The President's visit
 
 *2024-03-03 17:19:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆனந்த-நாளந்த-கிரிக்கெட்-போட்டி-ஜனாதிபதி-விஜயம்/175-334142) · `ta`
 
-கொழும்பு SSC மைதானத்தில்  நடைபெறும் கொழும்பு , ஆனந்த - நாளந்த கல்லூரிகளுக்கு இடையிலான 94 ஆவது கிரிக்கெட் பெரும் சமர் போட்டியைக் காண ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர்  இணைந்து கொண்டார்.
+President Ranil Wickremesinghe attended the 94th Cricket Tournament between Colombo and Ananda and Nalanda Colleges at the SSC Ground in Colombo.
+
+🟩
+
+President Ranil Wickremesinghe has joined the 94th Cricket Tournament between Colombo and Ananda and Nalanda Colleges at the SSC Ground in Colombo.
 
 ◼️
 
 [Data](articles/c79339a5.json)
+
+[Extended Data](ext_articles/c79339a5.ext.json)
 
 ---
 
@@ -647,6 +699,24 @@ The Feb. 8 election was marred by a mobile internet shutdown, arrests and violen
 [Data](articles/4a121dc9.json)
 
 [Extended Data](ext_articles/4a121dc9.ext.json)
+
+---
+
+### කෘෂිකර්ම නවීකරණයට සියලුම අංශ සම්බන්ධ කරමින් වැඩසටහනක්
+
+*2024-03-03 14:46:32* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-නවීකරණයට-සියලුම-අංශ-සම්බන්ධ-කරමින්-වැඩසටහනක්/11-408395) · `si`
+
+කෘෂිකර්ම නවීකරණ වැඩසටහන සාර්ථක කර ගැනීම සඳහා  රාජ්‍ය හා පෞද්ගලික අංශයන්හි සියලු පාර්ශ්වයන් ඒකාබද්ධ කරමින් ජාතික වැඩසටහනක් සකස් කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+අයවැය මඟින් ජාතික, පළාත් සහ ප්‍රාදේශීය මට්ටමින් වාර්ෂිකව  ප්‍රතිපාදන වෙන් කළද රාජ්‍ය හා පෞද්ගලික ආයතන වෙන් වෙන් වශයෙන් කටයුතු කිරීම හේතුවෙන් අපේක්ෂිත ප්‍රතිඵල ලබා ගැනීම ප්‍රමාද වී ඇති බව පෙන්වා දුන් ජනාධිපතිවරයා මෙම  වැඩසටහන ක්‍රියාත්මක කිරීමේදී මුහුණ දෙන අභියෝග ජයගැනීම සඳහා රාජ්‍ය හා පෞද්ගලික කෘෂි පර්යේෂණ ආයතන මෙන්ම විශ්වවිද්‍යාල පද්ධතියේද සහාය ලබා ගැනීමේ වැදගත්කම අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ජනාධිපති කාර්යාලයේදී පසුගියදා පැවති කෘෂිකර්ම නවීකරණ වැඩසටහනේ ප්‍රගති සමාලෝචන රැස්වීමේදීය.
+
+රාජ්‍ය ප්‍රතිපත්තිවලට ගැළපෙන ලෙස බිම් මට්ටමින් ක්‍රියාත්මක කිරීමට හැකිවන පරිදි මෙම ජාතික වැඩසටහන සකස් කිරීමේ අවශ්‍යතාවද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන් අතර ඊට අදාළ ව්‍යාපෘති 26 කඩිනමින් ආරම්භ කිරීමට පියවර ගන්නා ලෙසද අදාළ නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+
+...
+
+[Data](articles/1d6bda0a.json)
 
 ---
 
@@ -1139,6 +1209,18 @@ Based on the information available, the Maharagama police said that the raid was
 [Data](articles/a2eac77e.json)
 
 [Extended Data](ext_articles/a2eac77e.ext.json)
+
+---
+
+### Disturbing Echoes Of The Last Phase Of The Civil War In Sri Lanka & The Treatment Of Palestinians Under Zionist Occupation – Part III
+
+*2024-03-03 12:15:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/disturbing-echoes-of-the-last-phase-of-the-civil-war-in-sri-lanka-the-treatment-of-palestinians-under-zionist-occupation-part-iii/) · `en`
+
+In the Manichean universe of the Zionists and the Lankan state their actions are beyond reproach, but the actions of the oppressed are unjust and immoral. They make no allowance for the historical reasons for resistance. Violence by the oppressed is not new. The First Nations of Australia resisted the colonisers from 1788 to just before the Second World War; there were indigenous rebellions in many parts of what is now South America and in the United States, including the Nat Turner revolt by enslaved African Americans; there was the Mau Mau rebellion in the British colony of Kenya. There were many others less well known. What they share is resistance to a better armed and resourced enemy. Armed resistance follows a period where the possibilities of negotiation are narrowed until they are non-existent and violence seems for some the only other choice.
+
+...
+
+[Data](articles/26aaab18.json)
 
 ---
 
@@ -2191,99 +2273,5 @@ It is reported that part of the wall suddenly fell on a young man standing near 
 [Data](articles/ac216291.json)
 
 [Extended Data](ext_articles/ac216291.ext.json)
-
----
-
-### UK-owned ship attacked by Houthis sinks off Yemen coast
-
-*2024-03-03 03:32:00* · [`islandlk`](http://island.lk/uk-owned-ship-attacked-by-houthis-sinks-off-yemen-coast/) · `en`
-
-A British-registered cargo ship has sunk two weeks after being attacked by Houthis in the Gulf of Aden.
-
-Yemen’s government said the Rubymar was drifting and taking on water for days before it sank. It is the first ship to have been sunk by the Iran-backed rebels in Yemen since they began targeting vessels in the Red Sea.
-
-The ship was reportedly carrying fertilisers and experts say the sinking risks “an environmental catastrophe”.
-
-The Rubymar was in the Gulf of Aden near the Bab al-Mandab Strait when it was hit by two missiles fired by Yemen-based Houthi rebels ten days ago, the British government said that the vessel had been taking in water and all its 24 crew had been rescued.
-
-The BBC obtained an image of the ship on 21 February, which showed it submerged at the stern, but still afloat. The vessel’s owners said at the time that it was being towed to nearby Djibouti but could yet sink. It said it was unable to confirm it had given there was no one aboard.
-
-...
-
-[Data](articles/004e3d4e.json)
-
-[Extended Data](ext_articles/004e3d4e.ext.json)
-
----
-
-### Soldiers complying to release land
-
-*2024-03-03 03:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலங்களை-விடுவிக்க-படையினர்-இணக்கம்/175-334111) · `ta`
-
-Soldiers agreed to release 164 acres of land in Jaffna and Kilinochchi districts on the 10th. 59 acres in Jaffna and 105 in Kilinochchi will be released.
-
-🟩
-
-Soldiers have agreed to release 164 acres of land on the 10th of this month in Jaffna and Kilinochchi districts.
-
-Secretaries and top officials of the Ministries, including the Ministry of Lands, including the Land -related Services Ministry, were present at the Jaffna District Secretariat on the 28th and 29th.
-
-Accordingly, 59 acres of land will be released from the East of Palali in the Jaffna district and 105 acres of land will be released in the science city of Kilinochchi district.. (A)
-
-◼️
-
-[Data](articles/9f0e8f2c.json)
-
-[Extended Data](ext_articles/9f0e8f2c.ext.json)
-
----
-
-### Increase of import cost
-
-*2024-03-03 03:14:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செலவு-அதிகரிப்பு/175-334110) · `ta`
-
-This year's January export income fell 0.8% from last year, with import costs rising. Agricultural and garment exports declined, leading to a decrease from $978M to $971M.
-
-🟩
-
-Compared to last year, the Central Bank said the export income of the goods had declined in January this year and the cost of imports had increased.
-
-Accordingly, export revenue recorded a 0.8 percent decline this year compared to January last year.
-
-In January last year, export revenue was $ 978 million and $ 971 million in January this year.
-
-This is due to the fall in agricultural and garment export income, the Central Bank said. (A)
-
-◼️
-
-[Data](articles/c6e866f3.json)
-
-[Extended Data](ext_articles/c6e866f3.ext.json)
-
----
-
-### World Wildlife Day: Are you aware of the 'wildlife stars seven' in Sri Lanka?
-
-*2024-03-03 02:04:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg9wemy7ngo) · `si`
-
-"World Wildlife Day highlights 'wildlife stars seven' in Sri Lanka, showcasing seven leading species, including four mammals, two reptiles, and one bird, emphasizing conservation efforts."
-
-🟩
-
-There is no novention here. Video Head, Ven.
-
-World Wildlife Day: Are you aware of the 'wildlife stars seven' in Sri Lanka?
-
-Many people today focus on sharing information about wildlife and conservation.
-
-The Department of Wildlife Conservation has published seven leading species of Sri Lanka (Top Seven Wild Sri Lanka).
-
-Are you aware of that 'seven wildlife stars'?It includes four species of mammals, two species and one bird.
-
-◼️
-
-[Data](articles/72f8c49e.json)
-
-[Extended Data](ext_articles/72f8c49e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 19:17:41**
+As of **2024-03-03 19:33:06**
 
 ## Newspaper Stats
 
-*Scraped **10,609** Articles*
+*Scraped **10,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 569
 adalk | 895
 adaderanalk | 1,295
 tamilmirrorlk | 1,305
-virakesarilk | 1,423
+virakesarilk | 1,424
 dailymirrorlk | 1,610
 adaderanasinhalalk | 1,645
 
@@ -26,27 +26,47 @@ adaderanasinhalalk | 1,645
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,608 (100.0%) of 10,609 articles have been extended.
+10,609 (100.0%) of 10,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### පාසල් ගොඩනැගිල්ලක ගින්නක්
+### தாவடி சந்தியில் விபத்து - ஒருவர் படுகாயம்!
+
+*2024-03-03 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177824) · `ta`
+
+யாழ்ப்பாணம் தாவடி சந்தியில் இடம்பெற்ற விபத்தில் ஒருவர் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+ஞாயிற்றுக்கிழமை (03) மாலை 06.15 மணியளவில் தாவடி சந்தியில் மோட்டார் சைக்கிளும் ஆட்டோவும் நேருக்கு நேர் மோதுண்டு விபத்துக்குள்ளானதில் பெண் ஒருவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/26e1e217.json)
+
+---
+
+### Fire in a school building
 
 *2024-03-03 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194086) · `si`
 
-වැලිගම ප්‍රදේශයේ පිහිටි පෞද්ගලික ආරාබි කාන්තා පාසලක ගින්නක් හටගෙන තිබේ.
+A fire in a private women's school in Weligama, Arabian, damaged nearly 150 children. Residents are helping to extinguish the fire. The cause is under investigation.
 
-ගින්න සිදුවන අවස්ථාවේ එම පාසලේ දරුවන් 150කට ආසන්න පිරිසක් සිට ඇතිමුත් ඔවුන් කිසිවෙකුටත් ගින්නෙන් හානියක් සිදුව නොමැත.
+🟩
 
-ප්‍රදේශවාසීන් එක්ව කඩිනමින් ගින්න නිවාදැමීමට කටයුතු කර ඇතිමුත් ගින්නෙන් දේපළවලද දැඩි හානි සිදුව තිබේ.
+A private Arabian women's school in Weligama has broke out a fire.
 
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර පොලීසිය විමර්ශන සිදුකරයි.
+At the time of the fire, nearly 150 children from the school had no more damaged by fire.
+
+Residents of the area had taken measures to resume the fire prolonged expeditiously.
+
+The cause of the fire is yet to be determined and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/51c441a2.json)
+
+[Extended Data](ext_articles/51c441a2.ext.json)
 
 ---
 
@@ -2261,29 +2281,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/b7877aea.json)
 
 [Extended Data](ext_articles/b7877aea.ext.json)
-
----
-
-### The victims are not getting justice
-
-*2024-03-03 03:44:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்டவர்களுக்கு-நீதி-கிடைக்கவில்லை/175-334113) · `ta`
-
-The United Nations Human Rights Commissioner criticized Sri Lanka's economic progress for being overshadowed by new laws, despite the end of a 15-year civil war. Families of the missing continue to face threats, arrests, and violence, highlighting a lack of interest in human rights violations.
-
-🟩
-
-The United Nations Human Rights Commissioner has said that the recent economic improvement in Sri Lanka is being blacked out by new laws.
-
-He said this while addressing the 55th session of the United Nations Human Rights Council. He further stated that
-
-The civil war that lasted for decades in Sri Lanka ends 15 years this year. However, there is still no interest in human rights violations.
-
-The families of the missing are continuing their loved ones. They said they also faced threats, arrests and violence. (A)
-
-◼️
-
-[Data](articles/abb5ce8a.json)
-
-[Extended Data](ext_articles/abb5ce8a.ext.json)
 
 ---

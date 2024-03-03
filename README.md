@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 23:02:55**
+As of **2024-03-03 23:17:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,634 (100.0%) of 10,636 articles have been extended.
+10,636 (100.0%) of 10,636 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ During their interaction, Dr. Syedna Mufaddal Saifuddin Saheb brought to Preside
 ...
 
 [Data](articles/007c2ec3.json)
+
+[Extended Data](ext_articles/007c2ec3.ext.json)
 
 ---
 
@@ -145,6 +147,8 @@ For the Peterites, Vishenka Silva was in top form as he went over for two tries,
 ...
 
 [Data](articles/2e1de180.json)
+
+[Extended Data](ext_articles/2e1de180.ext.json)
 
 ---
 

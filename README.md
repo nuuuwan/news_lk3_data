@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 17:53:10**
+As of **2024-03-03 18:07:31**
 
 ## Newspaper Stats
 
-*Scraped **10,594** Articles*
+*Scraped **10,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 569
 adalk | 894
 adaderanalk | 1,292
 tamilmirrorlk | 1,303
-virakesarilk | 1,421
+virakesarilk | 1,422
 dailymirrorlk | 1,609
 adaderanasinhalalk | 1,640
 
@@ -26,77 +26,127 @@ adaderanasinhalalk | 1,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,590 (100.0%) of 10,594 articles have been extended.
+10,594 (100.0%) of 10,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### பாகிஸ்தானின் புதிய பிரதமராக ஷெபாஸ் ஷெரீப்!
+### நாட்டில் நாளைய வெப்பமான காலநிலை தொடர்பில் எதிர்வுகூறல்!
+
+*2024-03-03 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177820) · `ta`
+
+நாட்டின் பல பிரதேசங்களில் திங்கட்கிழமை (04) வெப்ப நிலையானது கவனம் செலுத்த வேண்டிய நிலைக்கு உயரும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+வடமேற்கு, மேற்கு மற்றும் தெற்கு, சப்ரகமுவ மாகாணங்கள் மற்றும் அநுராதபுரம் மற்றும் மன்னார் மாவட்டங்களில் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பம் கவனத்துக்குரிய அளவில் இருக்கும் என்று திணைக்களம் தெரிவித்துள்ளது.
+
+போதுமான அளவு தண்ணீர் குடிப்பது, முடிந்தவரை நிழலான  இடங்களில் ஓய்வெடுப்பது, கடுமையான வெளிப்புறச் செயல்பாடுகளைக் கட்டுப்படுத்துவது போன்ற சுகாதார ஆலோசனைகளைப் பின்பற்றவும் மக்களுக்கு அறிவுறுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6803facb.json)
+
+---
+
+### Shebas Sharif as Pakistan's new Prime Minister
 
 *2024-03-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177818) · `ta`
 
-பாகிஸ்தானின் புதிய பிரதமராக ஷெபாஸ் ஷெரீப் நியமிக்கப்பட்டுள்ளதாக வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Shebas Sharif appointed as Pakistan's new Prime Minister amid election discussions.
 
-பாகிஸ்தான் தேர்தலும் அதன் பின்னரான அந்நாட்டின் நிலைவரங்களும் உலகம் முழுவதும் பரபரப்பாக பேசப்பட்ட நிலையிலேயே இந்த அறிவிப்பு வெளியாகியுள்ளது.
+🟩
+
+Foreign media reports that Shebas Sharif has been appointed as the new Prime Minister of Pakistan.
+
+The announcement was made as the Pakistani election and its post -country positions were widely widely talked about.
 
 ◼️
 
 [Data](articles/cc775c3f.json)
 
+[Extended Data](ext_articles/cc775c3f.ext.json)
+
 ---
 
-### இந்தியாவின் மாநிலமாக இலங்கையை மாற்றியமைக்கும் முயற்சிகளுக்கு இடமளிக்க முடியாது - விமல் வீரவன்ச
+### Sri Lankan efforts to transform Sri Lanka into a state of India cannot be allowed - Wimal Weerawansa
 
 *2024-03-03 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177817) · `ta`
 
-பொருளாதார மீட்சி என்று குறிப்பிட்டுக் கொண்டு இந்தியாவின் 29 ஆவது மாநிலமாக இலங்கையை மாற்றியமைக்கும் செயற்பாடுகளை அரசாங்கம் முன்னெடுக்கிறது.எட்கா ஒப்பந்தம் கைச்சாத்திடப்பட்டால் இலங்கையில் இந்தியர்களுக்கு முன்னுரிமை வழங்கப்படும்.பொருளாதார ரீதியில் பாதிக்கப்பட்டுள்ள இலங்கை பிரஜைகள் சொந்த நாட்டுக்குள் இரண்டாம் தரப்பினராக அடையாளப்படுத்தப்படுவார்கள் என தேசிய சுதந்திர முன்னணியின் தலைவர் விமல் வீரவன்ச தெரிவித்தார்.
+Wimal Weerawansa opposes Sri Lanka becoming India's 29th state, criticizing the government's economic recovery efforts, including sharing Mannar wind power with Adani and dividing electricity to India. He warns of national security risks and the potential for Sri Lankans to be seen as second-class citizens.
 
-பாதுக்க வேரகல பகுதியில் சனிக்கிழமை (02) மாலை இடம்பெற்ற கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டுக்கு என்ன நேர்ந்துள்ளது.மக்கள் சொல்லனா துயரங்களை எதிர்கொண்டுள்ளார்கள்.வாழும் சூழல் மிக மோசமாக பாதிக்கப்பட்டுள்ளது.பொருளாதார மற்றும் சமூக பாதிப்பை அரசாங்கம் தமக்கு சாதகமாக பயன்படுத்திக் கொள்கிறது.இந்தியாவின் செல்வந்தரான அதானிக்கு இலங்கையின் பெரும்பாலான வளங்களை வழங்க அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளது.
+The government is carrying out the process of transforming Sri Lanka into a 29th state of India as an economic recovery.
+
+Speaking at a meeting held on Saturday evening (02) evening in the Varakala area, Padukka.
+
+The government has favored the economic and social impact on the government's wealthy Adani.
+
+Adani provides shares of Mannar wind power generation to Adani Company. The government has decided to provide a profit telecommunication company to the Indian company. Similarly, steps have been taken to divide the Sri Lankan electricity into several components and provide it to India.
+
+National security will be threatened by the process of providing Indian corporations to Sri Lanka's economic centers. In this case, efforts are being made to sign the Edka Agreement with India.
+
+If the Edka Agreement is signed. Economicly affected Sri Lankans will be considered second -class citizens within their home country. Sri Lanka will be transformed into the 29th state of India.
 
 ...
 
 [Data](articles/4731bf08.json)
 
+[Extended Data](ext_articles/4731bf08.ext.json)
+
 ---
 
-### හෙටත් උණුසුම ඉහළට
+### Heating heating up
 
 *2024-03-03 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194081) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (04) දිනයේ දී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of rising temperatures in several island areas tomorrow, advising residents to stay hydrated and avoid outdoor stress.
 
-වයඹ, බස්නාහිර සහ දකුණු, සබරගමුව පළාත්වල සහ අනුරාධපුර සහ මන්නාරම යන දිස්ත්‍රික්ක වල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බවද ජනතාවට දන්වා තිබේ.
+The Meteorological Department says that the temperature of several areas in the island will increase to a level tomorrow (04).
+
+The warmth of the North Western and Southern and Sabaragamuwa and Anuradhapura and Mannar districts will remain focused on the human body.
+
+The people have been instructed to follow health advice including adequate water, including the restriction of the stress of the outdoors, to rest.
 
 ◼️
 
 [Data](articles/18bca45a.json)
 
+[Extended Data](ext_articles/18bca45a.ext.json)
+
 ---
 
-### STF කොටුකරගත් අයිස් ජාවාරම
+### STF trapped ice racket
 
 *2024-03-03 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194080) · `si`
 
-දීර්ඝ කාලයක් තිස්සේ චොකලට් තුළ සඟවා කටුනායක ගුවන්තොටුපොළ හරහා මෙරටට අයිස් මත්ද්‍රව්‍ය රැගෙන ආ ජාවාරමක් අනාවරණය කරගෙන තිබේ.
+The Police Special Task Force (STF) in Sri Lanka has uncovered a significant ice drug trafficking racket, revealing nearly 5 kg of drugs hidden in chocolate and sweets. The operation, which involved interrogations and arrests, also exposed connections to powerful drug dealers in Dubai. The STF found a total of 9 kg of ice drugs, with a market value of nearly Rs.
 
-පොලිස් විශේෂ කාර්ය බළකාය විසින් සිදුකළ වැටලීමකදී අනාවරණය වූ තොරතුරු මත සිදුකළ විමර්ශනවලදී මෙම ජාවාරම පිළිබඳව තොරතුරු අනාවරණය වී ඇත.
+🟩
 
-එහිදී ප්‍රථමයෙන් කිරිබත්ගොඩ ප්‍රදේශයේදී සුඛෝපභෝගී මෝටර් රථයක් පරීක්ෂා කිරීමේදී එහි තිබී චොකලට් දවටනවල අසුරා තිබූ අයිස් මත්ද්‍රව්‍ය කිලෝ 5කට ආසන්න ප්‍රමාණයක් පොලීසිය විසින් සොයාගෙන තිබේ.
+A racket has been revealed that the ice drug has brought to Sri Lanka through the Katunayake airport for a long time.
 
-වැඩිදුරටත් කරුණු අනාවරණය වී ඇත්තේ දැනට ඩුබායි හි සැඟවී සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන නිපුණ සහ නන්දසේන යන පුද්ගලයින්ගේ අනුදැනුම මත මෙම ජාවාරම සිදුකර ඇති බවටය.
+Investigations have revealed that the racket was revealed in the investigation of the Police Special Task Force.
 
-මෙහිදී සැකකරුගෙන් සිදුකරන ලද වැඩිදුර ප්‍රශ්නකිරීම්වලදී ඉන් එක් ජාවාරම්කරුවෙකුට අයත් වත්තල සහ ගනේමුල පිහිටි නිවාස පිළිබඳව තොරතුරු ද විශේෂ කාර්ය බළකාය අනාවරණය කරගෙන තිබේ.
+Nearly 5 kilograms of ice drugs have been found in the chocolate tendency to inspect a luxury car in the Kiribathgoda area.
 
-මේ අතර එහිදී අනාවරණය වූ වැඩිදුර තොරතුරු මත සිය සූක්ෂම ලෙස සිය ගමන්මළු තුළ සඟවා ඉන්දියාවේ චෙන්නායි සිට කටුනායක වෙත අයිස් මත්ද්‍රව්‍ය රැගෙන එන යුවළක් පිළිබඳව පොලිස් විශේෂ කාර්ය බළකාය විමර්ශන ආරම්භ කර තිබේ.
+It is revealed that the racket was done on the knowledge of the most powerful drug dealers who are hiding in Dubai.
+
+In further interrogation, the STF has revealed the details of Wattala and Ganemula, which belongs to one trafficking.
+
+In addition, the STF has begun investigations into a couple who are meticulous and hidden in their luxuries in their luxuries.
+
+Accordingly, the suspect was arrested by the Special Task Force at the Katunayake Police Division.
+
+They have said that the ice drug has been brought hidden in chocolate and sweets for a long time.
 
 ...
 
 [Data](articles/c4acb9fd.json)
+
+[Extended Data](ext_articles/c4acb9fd.ext.json)
 
 ---
 
@@ -2203,35 +2253,5 @@ Subsequently, the suspect has been transferred to the Kohuwala police for furthe
 [Data](articles/96c0c775.json)
 
 [Extended Data](ext_articles/96c0c775.ext.json)
-
----
-
-### 2024-03-02 (Saturday)
-
-### Police officer who visited abroad due to underworld threats
-
-*2024-03-02 23:29:37* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-තර්ජන-නිසා-විදේශයකට-ගිය-පොලිස්-නිලධාරියා-ගැන-විමර්ශනයක්/11-408386) · `si`
-
-The new IGP is investigating a police officer who went abroad due to threats, suspecting the officer lodged a complaint with his family beforehand. The IGP emphasizes protecting police families and plans to address future incidents involving criminal gangs.
-
-🟩
-
-The new Inspector General of Police (IGP) has commenced a wide investigation into the police officer who had been threatened with ruling.
-
-After the new post of duties, after the appointment of the new post, he said that after the death of the Salwathu Asgiri Mahanayaka.
-
-The IGP further stated that he had a serious doubt that the officer had lodged a complaint with his family a few months ago, he had requested permission to go abroad.
-
-The Inspector General of Police (IGP) said that the officers of the Police are in the Police Department and all the measures to be taken to protect their families.
-
-The army or police arms training is being hired from criminal gangs and will take steps to discuss such incidents in the future.
-
-If the police should be humble by the police in such incidents, the police officer should be submitted to the police officer in the future, whether the police officer will be subjected to a person's respect and dignity.Emphasized.
-
-...
-
-[Data](articles/c8c8abfc.json)
-
-[Extended Data](ext_articles/c8c8abfc.ext.json)
 
 ---

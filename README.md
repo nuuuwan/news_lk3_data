@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 11:17:52**
+As of **2024-03-03 11:33:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,532 (100.0%) of 10,534 articles have been extended.
+10,534 (100.0%) of 10,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Among the detainees identified were the brother-in-law of Zahran Hashim, the mas
 
 [Data](articles/aa99c1ee.json)
 
+[Extended Data](ext_articles/aa99c1ee.ext.json)
+
 ---
 
 ### Sajith vows to make all schools smart-schools
@@ -70,25 +72,33 @@ Speaking at a ceremony held at a school in Tissamaharama, the Samagai Jana Balaw
 
 ---
 
-### செங்கடலில் ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதலில்  சேதமடைந்த கப்பல் மூழ்கிவிட்டது - அமெரிக்கா தகவல்
+### Damaged shipwreck in the attack of Hewthi insurgents in the Red Sea - America information
 
 *2024-03-03 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177782) · `ta`
 
-சில வாரங்களுக்கு முன்னர்செங்கடல் பகுதியில்  ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதலிற்கு உள்ளான ருபிமர் என்ற கப்பல் பலத்த சேதங்கள் காரணமாக கடலில் மூழ்கியுள்ளது.
+First ship in Red Sea attacked by Hewthi insurgents, sunk due to severe damage. This incident affects freight and fuel ships from Asia to Europe, potentially increasing insurance fees and international inflation. The US released an image of the sinking ship, noting environmental impacts and the discovery of 21,000 metric tonnes of ammonium phosphate fertilizers.
 
-ஹெளத்தி கிளர்ச்சியாளர்கள் செங்கடல் பகுதியில் மேற்கொண்டுவரும் தாக்குதல்கள் காரணமாக முற்றாக அழிக்கப்பட்ட முதலாவது கப்பல் இதுவென்பதுகுறிப்பிடத்தக்கது.
+🟩
 
-ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதல்கள் காரணமாக ஆசியா மத்திய கிழக்கிலிருந்து ஐரோப்பாவிற்கான சரக்கு மற்றும் எரிபொருள் கப்பல்கள்  செங்கடல் ஊடாக பயணம் செய்வது பாதிக்கப்பட்டுள்ள நிலையிலேயே இந்த தகவல் வெளியாகியுள்ளது.
+A few weeks ago, a ship Rubimer, which was attacked by Hewthi insurgents in the Sea Sea, was submerged due to severe damage.
 
-இந்த நிலையில் ருபிமார் கப்பல் மூழ்கியுள்ளமை குறிப்பிட்ட பகுதியில் பயணிக்கும் கப்பல்களின் காப்புறுதி கட்டண அதிகரிப்பிற்கு வழிவகுக்கலாம் என  அச்சம் வெளியாகியுள்ளது.
+It is noteworthy that this is the first ship that has been completely destroyed due to attacks in the Red Sea.
 
-இதன் காரணமாக சர்வதேச அளவில் பணவீக்கம் அதிகரிக்கலாம் மத்திய கிழக்கிற்கு மனிதாபிமான உதவிகளுடன் கப்பல்கள் செல்வது பாதிக்கப்படலாம்.
+The information has been revealed as the freight and fuel ships from Asia to Europe to Europe from Asia Middle East have been affected by the attacks of Haiti insurgents.
 
-மூழ்கிக்கொண்டிருக்கும் கப்பலின் படத்தை வெளியிட்டுள்ள அமெரிக்கா இதன் காரணமாக சூழல் பாதிப்புகள் ஏற்படலாம் என தெரிவித்துள்ளது.
+It has been feared that the sinking of Rubimar's ship could lead to an increase in insurance fee of ships traveling in a particular area.
 
-...
+As a result, international inflation can increase inflation.
+
+The United States, which has released the image of the sinking ship, said it could cause environmental impacts.
+
+The United States said the ship was found on the ship 21000 metric tonnes of ammonium phosphate fertilizers.
+
+◼️
 
 [Data](articles/b58f8f11.json)
+
+[Extended Data](ext_articles/b58f8f11.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 07:39:55**
+As of **2024-03-03 07:52:43**
 
 ## Newspaper Stats
 
-*Scraped **10,504** Articles*
+*Scraped **10,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 543
 dailyftlk | 561
 islandlk | 568
 adalk | 884
-tamilmirrorlk | 1,282
 adaderanalk | 1,282
+tamilmirrorlk | 1,283
 virakesarilk | 1,416
 dailymirrorlk | 1,589
-adaderanasinhalalk | 1,621
+adaderanasinhalalk | 1,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,504 (100.0%) of 10,504 articles have been extended.
+10,504 (100.0%) of 10,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### අල්ලස් නඩුව ගැන විමල් කට අරී
+
+*2024-03-03 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194064) · `si`
+
+තමාට එරෙහි අල්ලස් නඩුවට ඉදිරියේ දී පෙනී සිටින බව ‍විමල් වීරවංශ මන්ත්‍රීවරයා පවසයි.
+
+ඔහුට එරෙහි ව කොළඹ මහාධිකරණයේ පවතින නඩු විභාගය සඳහා අසනීප තත්ත්වයක් බව සඳහන් කරමින් වරින් වර පෙනී නොසිටීම හේතුවෙන් පූර්ව නඩු විභාග සම්මන්ත්‍රණය අවසන් කර ගැනීමට නොහැකි වී ඇති බවට අල්ලස් කොමිසම අධිකරණයට දැනුම් දී තිබිණි.
+
+පසුගිය සිකුරාදා පැවති නඩු විභාගයට ද විත්තිකාර මන්ත්‍රිවරයා උණ, වමනය හා පාචනය ආදී රෝගී තත්ත්වයන්ගෙන් පෙළෙන බව සඳහන් වෛද්‍ය වාර්තාවක් ඉදිරිපත් කර තිබිණි.
+
+පාදුක්ක ප්‍රදේශයේ දී මාධ්‍යවේදීන් විමල් වීරවංශ මන්ත්‍රීවරයාගෙන් මේ සම්බන්ධයෙන් කළ විමසීමක දී ඔහු ප්‍රකාශ කළේ, තමා මේ වන විට සුවෙන් පසු වන බවයි.
+
+◼️
+
+[Data](articles/3de75dbd.json)
+
+---
+
+### සියලු පාසල් සුහුරු පාසල් කරන බවට සජිත්ගෙන් පොරොන්දුවක්
+
+*2024-03-03 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194063) · `si`
+
+තමා ජනාධිපතිවරයා බවට පත්වුව හොත් රටේ සියලු පාසල් සුහුරු පාසල් බවට පරිවර්තනය කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, ජනතාව මේ වසරේ දී නිවැරදි තීන්දුව ගනු ලැබුව හොත් සමගි ජන බලවේගය මෙරට අධ්‍යාපනයේ සාධනීය විප්ලවයක් ඇති කරන බවයි.
+
+තිස්සමහාරාම - තෙළුල්ල කනිෂ්ඨ විද්‍යාලයේ පැවති උත්සවයකට එක්වෙමින් සජිත් ප්‍රේමදාස මහතා මේ බව සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/4ab86350.json)
+
+---
+
+### මතගැටුමක් ගැන පොලිස්පති කියයි
+
+*2024-03-03 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194062) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් ඇතිකර ඇති පීඩනය හේතුවෙන් වර්තමානයේ මත්ද්‍රව්‍ය ජවාරාම්කරුවන් සහ කණ්ඩායම් අතර දරුණු මතගැටුම් නිර්මාණය වී ඇති බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, මේ හේතුවෙන් ඔවුන් අතර සිදු වන වෙඩි තැබීම් සහ මනුෂ්‍ය ඝාතනවල ද ඉහළ යාමක් මේ වන විට සිදු ව ඇති බවයි.
+
+ඊයේ (02) පස්වරුවේ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අනුරාධපුරය අටමස්ථානය වැදපුදා ගැනීමෙන් අනතුරු ව මාධ්‍යය වෙත අදහස් දක්වමින් මේ බව කියා සිටියේ ය.
+
+මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් පුනරුත්ථාපනය සම්බන්ධයෙන් මාර්තු 15 වැනි දා සිට නව වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බව ද පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/d97e4c4a.json)
+
+---
 
 ### President's priority for farmal problems
 
@@ -75,6 +127,22 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/b7877aea.json)
 
 [Extended Data](ext_articles/b7877aea.ext.json)
+
+---
+
+### வீட்டின் சுவர் வீழ்ந்து இளைஞன் உயிரிழப்பு
+
+*2024-03-03 03:39:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-சுவர்-வீழ்ந்து-இளைஞன்-உயிரிழப்பு/175-334112) · `ta`
+
+புத்தளம், உடப்பு பொலிஸ் பிரிவுக்குட்பட்ட ஆண்டிமுனைக் கிராமத்தில் வீட்டின் சுவர் வீழ்ந்து இளைஞன் ஒருவர் உயிரிழந்துள்ளார் என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+உடப்பு, 5ஆம் வட்டாரத்தைச் சேர்ந்த 18 வாயதுடைய முத்துச்செல்வம் தனுஜன் எனும் இளைஞனே இந்த விபத்தில் உயிரிழந்துள்ளார்.
+
+ஆண்டிமுனைக் கிராமத்தில் உடைக்கப்பட்ட வீடொன்றின் பகுதியளவில் காணப்பட்ட சுவற்றின் அருகில் நின்று கொண்டிருந்த இளைஞன் மீது சுவரின் ஒரு பகுதி திடீரென வீழ்ந்துள்ளது என்று தெரிவிக்கப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/ac216291.json)
 
 ---
 
@@ -783,6 +851,22 @@ The amended school calendar for the academic year 2024 is as follows:
 [Data](articles/b387e0de.json)
 
 [Extended Data](ext_articles/b387e0de.ext.json)
+
+---
+
+### Internally  Divided ITAK  in the Eye of a Legal Storm: Courts Restrain Newly Elected Party Officials From Functioning.
+
+*2024-03-02 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83676) · `en`
+
+The Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP) is in the eye of a legal storm.  The premier political party representing the Sri Lankan Tamils of the Northern and Eastern provinces is currently undergoing an internal crisis mainly due to recently held inner-party elections. Issues relating to the intra-party elections have brought about a clearly visible divide within the ITAK.
+
+This in turn has led to an unprecedented situation where  two members of the ITAK  have sought legal recourse against allegedy illegal action by party authorities.Enjoining orders were  obtained. Party Leaders were restrained from conducting its  postponed National Convention on 19 February.
+
+...
+
+[Data](articles/751698bc.json)
+
+[Extended Data](ext_articles/751698bc.ext.json)
 
 ---
 
@@ -2105,103 +2189,5 @@ The ship is also due to leave the island on March 3, 2024, concluding the offici
 [Data](articles/012817c2.json)
 
 [Extended Data](ext_articles/012817c2.ext.json)
-
----
-
-### Parliament from the 05th to 07th of this month
-
-*2024-03-02 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194036) · `si`
-
-Parliament meets on 5th March from 9:30 am to 10:30 am for questions and debates on various bills and amendments. On 20th February, bills on transactions, mortgages, leasing, and company amendments were debated. The government's proposal is to be held from 4:30 pm to 2:30 pm. On 6th March, a new gazette notification and draft bills are to be debated. Social Security Tax and value-added tax amendments are also up for debate. The Ceylon Fisheries Harbor Corporation Limited and the Sri Lanka Aquaculture Development Authority proposals were approved without debate. The opposition's proposal to bring the church to parliament is postponed.
-
-🟩
-
-The Parliamentary Communication Section has informed the Parliament on 05:16 and 07 of the next 5th and 07.
-
-Accordingly, Parliament will meet in the Parliament on Tuesday 5th March to 9:30 am - 9.30 am - 10.30 am to questions that require verbal answers.
-
-4.30 pm to 4.30 pm on February 20, secured safest transactions, mortgage revisions, leasing revisions (Amendment), companies (Amendment)And the next day, the bills of the Registration of Documents (Amendment) are due to be debated on the second days.
-
-The proposal made by the government to the proposal to be held from 4.30 pm to 2:30 pm.
-
-In March 6 am - 10:00 am - 10:00 am - 10am - 10am - 10am
-
-The law stating the new gazette notification No. 2369/58 under the Essential Public Service Act, the policy referred to by the President will be approved without debate.
-
-...
-
-[Data](articles/bf85a937.json)
-
-[Extended Data](ext_articles/bf85a937.ext.json)
-
----
-
-### International Geeta Jayanti Yagam
-
-*2024-03-02 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177716) · `ta`
-
-International Geeta Jayanti Yagam, a three-day event at Nelum Pokuna Lotus Lake, showcased in films.
-
-🟩
-
-The first day of the three -day Jayanthi ceremony held at the Nelum Pokuna Lotus Lake in the Ministry of Cultural Ministry. Following the International Geeta Jayanti Yagam, you can see in films.
-
-◼️
-
-[Data](articles/a2be6bf7.json)
-
-[Extended Data](ext_articles/a2be6bf7.ext.json)
-
----
-
-### Sri Lanka Air Force celebrates 73rd anniversary today
-
-*2024-03-02 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97678/sri-lanka-air-force-celebrates-73rd-anniversary-today) · `en`
-
-The Sri Lanka Air Force (SLAF) proudly celebrates its 73rd anniversary today (March 02), marking more than seven decades of service to the nation.
-
-The SLAF asserted that it remains steadfast in its duty as the guardians of Sri Lanka’s skies and an able contributor to achieving sustainable peace.
-
-◼️
-
-[Data](articles/32af0baf.json)
-
-[Extended Data](ext_articles/32af0baf.ext.json)
-
----
-
-### Sri Lanka Air Force celebrates 73rd anniversary
-
-*2024-03-02 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97678/sri-lanka-air-force-celebrates-73rd-anniversary) · `en`
-
-The Sri Lanka Air Force (SLAF) proudly celebrates its 73rd anniversary today (March 02), marking more than seven decades of service to the nation.
-
-The SLAF asserted that it remains steadfast in its duty as the guardians of Sri Lanka’s skies and an able contributor to achieving sustainable peace.
-
-◼️
-
-[Data](articles/440689e1.json)
-
-[Extended Data](ext_articles/440689e1.ext.json)
-
----
-
-### Parliament, Central Bank set to discuss salary hike
-
-*2024-03-02 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-Central-Bank-set-to-discuss-salary-hike/108-278107) · `en`
-
-Colombo, March 2 (Daily Mirror) - Parliament is in a dilemma whether it can undo the salary hike implemented by the Central Bank for its employees in large proportions amidst fiscal austerity, the Daily Mirror learns.
-
-The Central Bank recently increased the salaries of its employees by proportions of 29.53 percent to 79.97 percent under a triennial pay revision.
-
-It happened when the government instructed all the state institutions to economize its expenses due to financial constraints. With the latest pay hike, the monthly pay of the Central Bank duty governor has been increased to Rs.1.7 million from Rs.974,965.
-
-Following widespread criticism over the exorbitant pay hike, the Central Bank said it would clarify the matter to Parliament.
-
-...
-
-[Data](articles/0887d146.json)
-
-[Extended Data](ext_articles/0887d146.ext.json)
 
 ---

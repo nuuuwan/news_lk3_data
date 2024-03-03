@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 17:18:00**
+As of **2024-03-03 17:33:37**
 
 ## Newspaper Stats
 
-*Scraped **10,589** Articles*
+*Scraped **10,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,60 @@ adalk | 894
 adaderanalk | 1,292
 tamilmirrorlk | 1,303
 virakesarilk | 1,419
-dailymirrorlk | 1,608
+dailymirrorlk | 1,609
 adaderanasinhalalk | 1,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,581 (99.9%) of 10,589 articles have been extended.
+10,589 (100.0%) of 10,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### தரம் 8 முதல் AI
+### O/L exam subjects to be reduced to 7: Minister
+
+*2024-03-03 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/OL-exam-subjects-to-be-reduced-to-7-Minister/108-278136) · `en`
+
+The current number of subjects for the GCE Ordinary Level (O/L) examination will be reduced to seven subjects, Education Minister Susil Premajayantha said.
+
+Addressing the media he said the remaining three subjects will be taken to evaluate the industry and environmental knowledge that can be provided to the students locally.
+
+In such a way no child fails in the O/L and in the Advanced Level (A/L) examinations, he said.
+
+He also said steps have also been taken to prepare the necessary background to get professional training in the subject areas that show the childrens preferences and skills.
+
+Out of the 3,37,000 students who sat for the A/L this year, arrangements have been made to provide training in English, IT and guidance to 50,000 students.
+
+This training programme will be held in 300 centres across the country from March 5, the minister added.
+
+◼️
+
+[Data](articles/eea6baff.json)
+
+---
+
+### Grade 8 to AI
 
 *2024-03-03 16:54:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-8-முதல்-AI/175-334141) · `ta`
 
-தரம் 8 மற்றும் அதற்கு மேற்பட்ட மாணவர்களுக்கு அவர்களின் தகவல் தொழில்நுட்ப பாடத்துடன் செயற்கை நுண்ணறிவு (AI) கற்பதற்கான வாய்ப்பு கிடைக்கும் என்றும், இந்த முன்னோடி திட்டம் மார்ச் 19 முதல் 20 பள்ளிகளில் தொடங்கப்படும் என்றும் கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+"Education Minister Susil Premajayantha announced a pioneering AI teaching scheme in 20 schools starting March 19, aiming to equip students with IT skills for future goals. Teachers are being trained for this nationwide initiative."
 
-இந்த பணிக்காக ஆசிரியர்களுக்கு பயிற்சி அளிக்கப்பட்டு வருவதாகவும், வரும் ஆண்டில் இது நாடு முழுவதும் நடைமுறைப்படுத்தப்படும் என்றும் அவர் சுட்டிக்காட்டினார்.
+🟩
 
-எதிர்காலத்தில், நாட்டில் உள்ள ஒவ்வொரு குழந்தைக்கும் அவர்களின் திறன்கள் மற்றும் விருப்பங்களுக்கு ஏற்ப அவர்களின் எதிர்கால இலக்குகளை அடைவதற்குத் தேவையான பின்னணி வழங்கப்படும், என்றார்.
+Education Minister Susil Premajayantha said that students will have the opportunity to teach artificial intelligence (AI) with their information technology course and this pioneer scheme will be launched in 20 schools from March 19.
+
+He pointed out that teachers are being trained for this task and that it will be implemented nationwide in the coming year.
+
+In the future, every child in the country will be given the background to achieve their future goals according to their skills and wishes.
 
 ◼️
 
 [Data](articles/f4ec202d.json)
+
+[Extended Data](ext_articles/f4ec202d.ext.json)
 
 ---
 
@@ -62,19 +90,27 @@ In the future, every child in the country will be provided with the necessary ba
 
 [Data](articles/56943722.json)
 
+[Extended Data](ext_articles/56943722.ext.json)
+
 ---
 
-### நம்பிக்கையில்லாப் பிரேரணை செவ்வாய் கையளிக்கப்படும்
+### The no -confidence motion will be handed over to Tuesday
 
 *2024-03-03 16:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-செவ்வாய்-கையளிக்கப்படும்/175-334140) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக கைச்சாத்திடப்பட்டுள்ள நம்பிக்கையில்லாப் பிரேரணை நாளை மறுதினம் 5ஆம் திகதி கையளிக்கப்படவுள்ளதாக எதிர்கட்சியின் பிரதம கொறடாவும் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினருமான லக்ஷ்மன் கிரியெல்ல தெரிவித்துள்ளார்.
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena will be submitted tomorrow, with support from opposition parties including the United People's Power.
 
-இந்தப் பிரேரணைக்கு  ஐக்கிய மக்கள் சக்தி உட்பட பல எதிர்க்கட்சிகள் ஆதரவளிக்க ஏற்கனவே முடிவு செய்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Lakshman Kiriella, Kandy district parliamentarian and Kandy district parliamentarian, said that the no -confidence motion signed against Speaker Mahinda Yapa Abeywardena will be handed over tomorrow.
+
+It is noteworthy that many opposition parties, including the United People's Power, have already decided to support the proposal.
 
 ◼️
 
 [Data](articles/65d04fbe.json)
+
+[Extended Data](ext_articles/65d04fbe.ext.json)
 
 ---
 
@@ -112,6 +148,8 @@ He said it was most unfair for the Central Bank officials to increase their own 
 
 [Data](articles/41049e3d.json)
 
+[Extended Data](ext_articles/41049e3d.ext.json)
+
 ---
 
 ### Parents urged to cease pressure on primary school children
@@ -127,6 +165,8 @@ In order to evaluate students, measures are taken to evaluate their good skills 
 ◼️
 
 [Data](articles/a63235d8.json)
+
+[Extended Data](ext_articles/a63235d8.ext.json)
 
 ---
 
@@ -191,6 +231,8 @@ The flags were taken down before the aircraft A330-300 commenced flight from Mel
 ◼️
 
 [Data](articles/5d212c65.json)
+
+[Extended Data](ext_articles/5d212c65.ext.json)
 
 ---
 
@@ -396,19 +438,25 @@ The suspects and the stock of drugs will be handed over to the Police Narcotics 
 
 ---
 
-### ශ්‍රී ලන්කන් බෙල්ජියම් ගුවන් සේවයේ ගුවන් යානා දෙකක් කුලියට ගනියි
+### SriLankan Belgium Airlines rent two airline
 
 *2024-03-03 14:31:49* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-බෙල්ජියම්-ගුවන්-සේවයේ-ගුවන්-යානා-දෙකක්-කුලියට-ගනියි/11-408394) · `si`
 
-ශ්‍රී ලන්කන් ගුවන් සේවයේ පවතින වත්මන් ගුවන් යානා හිගයට පිළියමක් වශයෙන් බෙල්ජියම් ගුවන් සේවයේ ගුවන් යානා දෙකක් තාවකාලිකව කුළී පදනම මත ලබා ගෙන සේවයට එක් කර තිබේ.
+SriLankan Airlines rents two aircraft from Belgium: a 330 and two Airbus A320s, with 22 seats each and 240 in Economy. They also temporarily use Fitz Air aircraft.
 
-ඒ.- 330 - 200 වර්ගයේ එයාර් බස් වර්ගයේ මෙම ගුවන් යානා පැදවීම ද බෙල්ජියම් ගුවන් සේවා නියමුවන් විසින් සිදු කෙරේ. මෙම ගුවන් යානා තුළ ව්‍යාපාරික පංතියේ ආසන 22 ක් සහ පිරිමැසුම්දායක  ( Economy ) පංතියේ ආසන 240 ක් තිබේ.
+🟩
 
-මීට අමතරව ෆිට්ස් එයාර් ගුවන් සේවයේ ඒ.320 වර්ගයේ ගුවන් යානයක් ද ශ්‍රී ලන්කන් ගුවන් සේවය විසින් තාවකාලිකව කුළී පදනම මත ලබා ගෙන සේවයට එක් කර තිබේ.
+Two aircraft temporarily obtained two aircraft in Belgian primary as a remedy of the SriLankan Airlines.
+
+A.- 330 and 200-200 Air bus types are devoted by Belgian Aviation Pilots. There are 22 seats in the aircraft and 240 seats in Economy.
+
+In addition, the Fitz Air Airline is also temporarily obtained by SriLankan Airlines on the basis of the SriLankan Airlines.
 
 ◼️
 
 [Data](articles/f1be2357.json)
+
+[Extended Data](ext_articles/f1be2357.ext.json)
 
 ---
 
@@ -887,6 +935,8 @@ Completed applications must be submitted to the respective school principals bef
 ◼️
 
 [Data](articles/664b8247.json)
+
+[Extended Data](ext_articles/664b8247.ext.json)
 
 ---
 
@@ -2191,27 +2241,5 @@ The deceased 45-year-old named Kusum Kumara Mendis alias “Manju” was a three
 [Data](articles/4673082e.json)
 
 [Extended Data](ext_articles/4673082e.ext.json)
-
----
-
-### Shooting in Galle
-
-*2024-03-02 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194059) · `si`
-
-Afternoon shooting in Galle resulted in no injuries. Two suspects, forcibly detained by police, arrived on a motorcycle.
-
-🟩
-
-The police said that the shooting had been carried out this afternoon.
-
-The police added that two forcibly enforced his laptop and the mobile phone with a police sergeant.
-
-No one has been injured in the incident and the suspects have arrived in a motorcycle.
-
-◼️
-
-[Data](articles/5c469a6b.json)
-
-[Extended Data](ext_articles/5c469a6b.ext.json)
 
 ---

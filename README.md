@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 10:33:00**
+As of **2024-03-03 10:50:44**
 
 ## Newspaper Stats
 
-*Scraped **10,528** Articles*
+*Scraped **10,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 885
 adaderanalk | 1,284
 tamilmirrorlk | 1,289
 virakesarilk | 1,417
-dailymirrorlk | 1,593
-adaderanasinhalalk | 1,626
+dailymirrorlk | 1,594
+adaderanasinhalalk | 1,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,528 (100.0%) of 10,528 articles have been extended.
+10,528 (100.0%) of 10,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### බිරිඳගේ පහර දීමෙන් සැමියා මරුට
+
+*2024-03-03 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194067) · `si`
+
+කරන්දෙණිය - ගුරුබැබිල ප්‍රදේශයේ දී කාන්තාවක් විසින් තියුණු ආයුධයකින් පහර දී සිය සැමියා ඝාතනය කර තිබේ.
+
+දෙදෙනා අතර ඇති වූ බහින්බස් වීමක් හේතුවෙන් අද (03) අලුයම නිවස තුළ දී මෙම ඝාතනය සිදු ව ඇති බව වාර්තා වේ.
+
+ඝාතනය සිදු කළ කාන්තාව කරන්දෙණිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+දෙදෙනා අතර නිරන්තරයෙන් මෙවැනි ආරවුල් හටගෙන ඇති අතර, ඒ සම්බන්ධයෙන් අවස්ථා කිහිපයක දී කරන්දෙණිය පොලීසියට පැමිණිලි ද ඉදිරිපත් කර ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/27c79c59.json)
+
+---
+
+### Farmers, foreign employees brought down dollar rate: Minister
+
+*2024-03-03 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Farmers-foreign-employees-brought-down-dollar-rate-Minister/108-278124) · `en`
+
+Farmers and foreign employees made the most commitment to bring down the value of the increased dollar rate, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+He said the value of the dollar had increased rapidly against the rupee in recent times. By now, the value of the dollar has decreased to a certain extent, the Minister said.
+
+In 2022, some 800,000 metric tons of rice was imported by Sri Lanka and the government had to spend USD 300 million for that.
+
+But in 2023, not even a grain of rice was imported and in the two years 2023 and 2024, the farmers of this country have saved more than USD 600 million to the country.
+
+Also, in 2023 as well as in 2024, the people of this country will consume local rice and not imported rice, and that respect and pride should go to the farmers of Sri Lanka.
+
+...
+
+[Data](articles/b5725feb.json)
+
+---
 
 ### Sri Lanka-Navy Officer Information
 
@@ -2205,45 +2243,5 @@ During the scheduled shutdown, the CPC will maintain a full capacity of crude to
 [Data](articles/8cb4a19c.json)
 
 [Extended Data](ext_articles/8cb4a19c.ext.json)
-
----
-
-### Decision to suspend Parate Law not implemented properly, Sajith alleges
-
-*2024-03-02 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97681/decision-to-suspend-parate-law-not-implemented-properly-sajith-alleges) · `en`
-
-Leader of the Opposition Sajith Premadasa alleges that the decision taken by the government to temporarily halt the ‘Parate Law’ is not being implemented properly.
-
-Thus, Premadasa mentioned that he intends to request the President to take actions to communicate the relevant decision to the banks.
-
-Commenting regarding the matter, State Minister of Finance Ranjith Siyambalapitiya said that even though the Parate Law has been temporarily suspended, banks have not been deprived of their right to expropriate the property.
-
-Earlier this week, the Cabinet of Ministers green-lighted a proposal made by the President to suspend all Parate Executions in a bid to protect small- and medium-scale entrepreneurs (SMEs) that were severely affected by the economic woes over the past 3 years.
-
-...
-
-[Data](articles/0bbffd2c.json)
-
-[Extended Data](ext_articles/0bbffd2c.ext.json)
-
----
-
-### Stop Harini: Hirunika
-
-*2024-03-02 11:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரிணியை-நிறுத்தவும்-ஹிருணிகா/175-334087) · `ta`
-
-Mrs. Hirunika Premachandra, a former MP and member of the United People's Power, has called for Dr. Harini Amarasuriya to be the Presidential candidate of the National People's Power. Anuragumara Dissanayake, despite a troubled past, has a good political career and has also advocated for Harini as the party's presidential candidate.
-
-🟩
-
-Former MP and Member of the United People's Power Mrs. Hirunika Premachandra has demanded that Dr. Harini Amarasuriya be appointed as the Presidential candidate of the National People's Power.
-
-Anuragumara Dissanayake has a terrible past. Harini is not that. He has a good political life. He has also called for him to be the party's presidential candidate.
-
-◼️
-
-[Data](articles/93c66764.json)
-
-[Extended Data](ext_articles/93c66764.ext.json)
 
 ---

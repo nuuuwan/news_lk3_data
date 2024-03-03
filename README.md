@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 09:33:31**
+As of **2024-03-03 09:52:03**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,522 (100.0%) of 10,525 articles have been extended.
+10,525 (100.0%) of 10,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### අනවසරයෙන් ඩ්‍රෝන කැමරාවක් යැවූ තරුණයාට වැඩ වැරදෙයි
+### The young man who sent a drone camera was wrong
 
 *2024-03-03 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194066) · `si`
 
-බලපත්‍ර නොමැති ව ඩ්‍රෝන කැමරාවක් යොදාගෙන වීඩියෝ දර්ශන ලබා ගනිමින් සිටි තරුණයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 24-year-old from Atchuveli, Jaffna, was arrested for using an unlicensed drone camera near Kilinochchi-Iranamaduwewa.
 
-ඊයේ (02) දහවල් කාලයේ දී සැකකාර තරුණයා විසින් කිලිනොච්චිය - ඉරණමඩු වැව අසන්නයේ ඩ්‍රෝන කැමරාවක් ගුවන්ගත කර වීඩියෝ දර්ශන ලබා ගනිමින් සිටිය දී එලෙස අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු අච්චුවේලි - යාපනය ප්‍රදේශයේ පදිංචි 24 හැවිරිදි තරුණයෙකි.
+Police have arrested a youth who was using a drone camera without licenses.
+
+The suspect was arrested by the suspect in the afternoon and arrested the drone camera of the Kilinochchi - Iranamaduwewa.
+
+The suspect is a 24 year old resident of Atchuveli - Jaffna.
 
 ◼️
 
 [Data](articles/0ea3e6b3.json)
+
+[Extended Data](ext_articles/0ea3e6b3.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with povert
 ...
 
 [Data](articles/ffdd71bc.json)
+
+[Extended Data](ext_articles/ffdd71bc.ext.json)
 
 ---
 
@@ -700,19 +708,31 @@ Subsequently, the suspect has been transferred to the Kohuwala police for furthe
 
 ### 2024-03-02 (Saturday)
 
-### පාතාල තර්ජන නිසා විදේශයකට ගිය පොලිස් නිලධාරියා ගැන විමර්ශනයක්
+### Police officer who visited abroad due to underworld threats
 
 *2024-03-02 23:29:37* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-තර්ජන-නිසා-විදේශයකට-ගිය-පොලිස්-නිලධාරියා-ගැන-විමර්ශනයක්/11-408386) · `si`
 
-පතාල සාමාජිකයන්ගෙන් ජීවිත තර්ජන ඇතැයි කියා විදේශයකට ගිය පොලිස් නිලධාරියා සම්බන්ධයෙන් පුළුල් විමර්ශනයක් ආරම්භ කොට ඇති බව පවසන නව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඒ සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශයේ අධ්‍යක්ෂකවරයාගේ මෙහෙයවීමෙන් සහ විශේෂ විමර්ශන ඒකකය විසින් විමර්ශන කටයුතු ආරම්භ කොට ඇති බවද පවසයි .
+The new IGP is investigating a police officer who went abroad due to threats, suspecting the officer lodged a complaint with his family beforehand. The IGP emphasizes protecting police families and plans to address future incidents involving criminal gangs.
 
-ඒ මහතා නව තනතුරේ වැඩ භාර ගැනීමෙන් අනතුරුව අද (02) මහනුවරට පැමිණ දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැදැකීමෙන් පසු මාධ්‍ය හමුවේ ඒ බව අවධාරණය කළේය .
+🟩
 
-එහිදී පොලිස්පතිවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ එම නිලධාරියා විදේශගත වීමේ අරමුණින් එවැනි පැමිණිල්ලක් සිදුකළේ ද යන්න සම්බන්ධයෙන් බරපතළ සැකයක් ඇතිවී තිබෙන බවත් ඔහු එම සිද්ධිය පැමිණිලි කිරීමට මාස කීපයකට පෙර තම පවුලේ සාමාජිකයන් සමඟ විදේශගත වීම සඳහා අවසර ඉල්ලා තිබූ බවද පැවසීය .
+The new Inspector General of Police (IGP) has commenced a wide investigation into the police officer who had been threatened with ruling.
+
+After the new post of duties, after the appointment of the new post, he said that after the death of the Salwathu Asgiri Mahanayaka.
+
+The IGP further stated that he had a serious doubt that the officer had lodged a complaint with his family a few months ago, he had requested permission to go abroad.
+
+The Inspector General of Police (IGP) said that the officers of the Police are in the Police Department and all the measures to be taken to protect their families.
+
+The army or police arms training is being hired from criminal gangs and will take steps to discuss such incidents in the future.
+
+If the police should be humble by the police in such incidents, the police officer should be submitted to the police officer in the future, whether the police officer will be subjected to a person's respect and dignity.Emphasized.
 
 ...
 
 [Data](articles/c8c8abfc.json)
+
+[Extended Data](ext_articles/c8c8abfc.ext.json)
 
 ---
 

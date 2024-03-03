@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 15:51:54**
+As of **2024-03-03 16:03:51**
 
 ## Newspaper Stats
 
-*Scraped **10,574** Articles*
+*Scraped **10,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 544
 dailyftlk | 561
 islandlk | 569
-adalk | 892
+adalk | 893
 adaderanalk | 1,291
 tamilmirrorlk | 1,298
 virakesarilk | 1,419
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,573 (100.0%) of 10,574 articles have been extended.
+10,574 (100.0%) of 10,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He was named by his party and coalition allies to head the South Asian nation, d
 ...
 
 [Data](articles/0bcc97c9.json)
+
+[Extended Data](ext_articles/0bcc97c9.ext.json)
 
 ---
 
@@ -159,6 +161,22 @@ The suspects and the stock of drugs will be handed over to the Police Narcotics 
 [Data](articles/175d5cdb.json)
 
 [Extended Data](ext_articles/175d5cdb.ext.json)
+
+---
+
+### සෞඛ්‍ය අතිරේක ලේකම්ගේ පාපොච්චාරණය හෙට
+
+*2024-03-03 14:23:56* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-අතිරේක-ලේකම්ගේ-පාපොච්චාරණය-හෙට/11-408393) · `si`
+
+බාල බෙහෙත් ජාවාරම පිළිබඳ සියළු තොරතුරු හෙළි කරමින් සෞඛ්‍ය අමාත්‍යංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා මාලිගාක්නද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය හමුවේ හෙට (04) රහස් පාපොච්චාරණයක් කිරීමට නියමිතය.
+
+මහේස්ත්‍රාත්වරිය හමුවේ රහස් පාපොච්චාරණය කිරීම සඳහා ඔහු හෙට (04) පෙරවරුවේ අධිකරණයට ඉදිරිපත් කිරීමට බන්ධනාගාර අධිකාරීවරයාට නියම කළ මහෙස්ත්‍රාත්වරිය මෙම නඩුවේ අනෙකුත් සැකකරුවන්ගෙන් මෙම සැකකරු වෙන් කර රඳවා තැබීමටද නියම කළාය.
+
+බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් ප්‍රකාශයක් දීමට සැකකාර සමන් රත්නායක නමැත්තා පසුගිය පළමුවැනිදා රහස් පොලිසියට පැමිණී අවස්ථාවේදී ඔහු අත්අඩංගුවට ගන්නා ලද අතර පසුගිය 02 වැනිදා ඔහු මාලිගාකන්ද මහෙස්ත්‍රාත්වරිය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහු රිමාන්ඩ් බාරයට පත් කිරීමට සුදානම් වු අවස්ථාවේදී මේ සම්බන්ධයෙන් මහෙස්ත්‍රාත්වරිය හමුවේ රහස් ප්‍රකාශයක් දීමට සුදානම් බවට කළ දැනුම් දීමකට අනුව එලෙස නියම කළාය.
+
+...
+
+[Data](articles/b3ac1b77.json)
 
 ---
 
@@ -2205,41 +2223,5 @@ He went on to raise concerns about the recent appointment of the new Inspector-G
 [Data](articles/9f5c3e6a.json)
 
 [Extended Data](ext_articles/9f5c3e6a.ext.json)
-
----
-
-### A vehicle-lifting racket
-
-*2024-03-02 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194053) · `si`
-
-The Colombo Crimes Division arrested three suspects involved in a vehicle-lifting racket, where cars were rented out. Two individuals were abducted in Handapangoda, and the investigation revealed the suspects had purchased goods from supermarkets in Kadawatha and Ratmalana. The police found evidence linking the suspects to ice drugs and another similar operation.
-
-🟩
-
-The Colombo Crimes Division has revealed the racketeers who get cars on rent basis.
-
-Accordingly, three suspects involved in the racket were arrested by the project.
-
-On August 5, two persons have been abducted in a shop by a firearm and was abducted in the Handapangoda.
-
-The Colombo Crimes Division was assigned to the Inspection of the IGP.
-
-The car has obtained the car from the Kadawatha area in Kadawatha.
-
-Then the driver had then given a bottle of milk purchased by a supermarket from a supermarket in the area.
-
-The police were later revealed when the telephone data of the two suspects had been revealed by a national identity card that was lost in a bus within a bus.
-
-Examining the numbers on mobile phones has been revealed that the goods have been purchased from a mortgage in Ratmalana and Attidiya.
-
-Accordingly, the Colombo Crimes Division identified the suspects were arrested with ice drugs.
-
-The interrogation from him was revealed that the vehicle was given Rs.
-
-...
-
-[Data](articles/d55dc69d.json)
-
-[Extended Data](ext_articles/d55dc69d.ext.json)
 
 ---

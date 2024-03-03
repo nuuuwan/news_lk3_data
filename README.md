@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 18:19:38**
+As of **2024-03-03 18:33:09**
 
 ## Newspaper Stats
 
-*Scraped **10,599** Articles*
+*Scraped **10,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,293
 tamilmirrorlk | 1,303
 virakesarilk | 1,422
 dailymirrorlk | 1,610
-adaderanasinhalalk | 1,642
+adaderanasinhalalk | 1,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,595 (100.0%) of 10,599 articles have been extended.
+10,599 (100.0%) of 10,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### කළු ගඟේ කාන්තා මළසිරුරක්
+
+*2024-03-03 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194085) · `si`
+
+කළු ගඟේ පාවෙමින් තිබියදී අනන්‍යතාවය තහවුරු නොවූ කාන්තා මළ සිරුරක් සොයාගෙන ඇති බව දකුණු කළුතර පොලීසිය පවසයි.
+
+පොලීසිය වෙත තොරතුරු වාර්තා වී ඇත්තේ මෙම කාන්තාව අවස්ථා කිහිපයකදී කළුතර නගරය ආශ්‍රිතව ජීවත්ව සිට ඇති බවටය.
+
+එම කාන්තාවගේ වයස අවුරුදු 50ක් පමණ වන බවට පොලීසිය සැකපළ කරයි.
+
+◼️
+
+[Data](articles/ceec8a22.json)
+
+---
 
 ### President joins ’’Battle of the Maroons’’
 
@@ -42,39 +58,71 @@ President Ranil Wickremesinghe attended the 94th historic "Battle of the Maroons
 
 [Data](articles/07b041bd.json)
 
+[Extended Data](ext_articles/07b041bd.ext.json)
+
 ---
 
-### ලොවම කැලඹුණු යුද ගැටුම් මැද ඇසුණු සුබ ආරංචිය
+### කඩුගන්නාවේදී සිදුවූ බිහිසුණු අනතුර
+
+*2024-03-03 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194084) · `si`
+
+කඩුගන්නාව ප්‍රදේශයේදී බස් රථයක තිරිංග අක්‍රීය වීමෙන් සිදුවන්නට ගිය විශාල අනතුරක් වළක්වා ගැනීමට බස් රථයේ රියදුරු සමත්ව තිබේ.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ මහනුවර සිට කොළඹ බලා ධාවනය වෙමින් තිබූ පෞද්ගලික බස් රථයකි.
+
+කඩුගන්නාව ප්‍රදේශයේ පහළ කඩුගන්නාව ආසන්නයේ අධික බෑවුමක් සහිත ස්ථානයකදී මෙලෙස බස් රථයේ තිරිංග අක්‍රීය වී තිබේ.
+
+එහිදී රියදුරු ආරක්ෂාකාරීව බස් රථය ඉදිරියට ධාවනය කොට බස් රථය දකුණු පස කන්දේ ගැටීමට සලස්වා බස් රථය නවත්වාගැනීමට සමත්ව ඇත.
+
+◼️
+
+[Data](articles/32bb9999.json)
+
+---
+
+### The best news heard in the world
 
 *2024-03-03 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194083) · `si`
 
-ගාසා තීරයේ සටන් විරාමයක් සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා හමාස් සංවිධානයේ නියෝජිතයින් ඊජීප්තුවේ කයිරෝ නුවර වෙත පැමිණ තිබේ.
+Hamas representatives in Cairo discuss a Gaza ceasefire. Israeli delegation to return for negotiations. Israel and Hamas to hold parties on ceasefire publication.
 
-ගාසා හි හමාස් සංවිධානයේ නියෝජ්‍ය ප්‍රධානී කලීල් අල් ‌හෙයියා ගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමක් මෙලෙස ඊජීප්තුවට පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-සටන් විරාමය පිළිබඳ සිදුකෙරෙන සාකච්ඡා සඳහා සහභාගී වන ඊශ්‍රායල නියෝජිත පිරිස ද කයිරෝ නුවර වෙත පැමිණීමට නියමිතව තිබේ.
+The Hamas's representatives have arrived at Cairo to discuss a ceasefire in Gaza.
 
-ඊශ්‍රායලය හා හමාස් සංවිධානය අතර ගාසා තීරයේ සටන් විරාමයක් ප්‍රකාශයට පත් කිරීම සම්බන්ධයෙන් වන සාකච්ඡා පාර්ශව කිහිපයක මැදිහත්වීමෙන් පැවැත්වීමට නියමිතය.
+Foreign media reports that a team headed by Deputy Head of Hamas Hamas 'Hemas' Chairel Al Haya.
+
+The Israeli delegation attending negotiations on the ceasefire is due to return to Cairo.
+
+Israel and Hamas are scheduled to be held in several parties on the publication of a ceasefire in the Gaza.
 
 ◼️
 
 [Data](articles/27669e0e.json)
 
+[Extended Data](ext_articles/27669e0e.ext.json)
+
 ---
 
-### මුහුද මැද ඇරඹුණු විරෝධතාවය
+### Protest beginning in the middle of the sea
 
 *2024-03-03 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194082) · `si`
 
-ඉන්දීය ධීවරයින් මෙරට මුහුදු සීමාවේ සිදුකරන මත්ස්‍ය ජාවාරමට විරෝධය පළකරමින් මෙරට ධීවරයින් අද (03) ඉන්දියන් සාගරයේදී විරෝධතාවයක් ආරම්භ කර තිබේ.
+Indian fishermen in the Indian Ocean protest against illegal fishing, with representatives from Jaffna, Mullaitivu, Mannar, and Kilinochchi districts joining.
 
-උතුරු පළාතේ ධීවරයින් විශාල පිරිසක් බෝට්ටු රැගෙන ගොස් මුහුද මැදදී කළු කොඩි ඔසවා මෙලෙස විරෝධතාවය සිදුකරමින් පවසා ඇත්තේ ඉන්දීය ධීවරයින් මෙරට මුහුදු සීමාවේ ධීවර කටයුතුවල නිරතවීම වහාම නතරකළ යුතු බවය.
+🟩
 
-මෙම විරෝධතාවය සඳහා යාපනය, මුලතිව්, මන්නාරම, කිලිනොච්චිය දිස්ත්‍රික්කයන්හි ධීවර සංගම් නියෝජිතයින් විශාල පිරිසක් එක්ව තිබුණි.
+Indian fishermen have commenced a protest in the Indian Ocean today (03) protesting the fish racket of the Indian fishermen.
+
+A large number of fishermen of the Northern Province took boats and lifted black flags in the middle of the sea.
+
+A large number of Fisheries Association representatives of Jaffna, Mullaitivu, Mannar, Kilinochchi districts had joined the protest.
 
 ◼️
 
 [Data](articles/09849a37.json)
+
+[Extended Data](ext_articles/09849a37.ext.json)
 
 ---
 
@@ -731,6 +779,8 @@ Police also obtained details on two houses in the Ganemulla and Wattala areas, a
 ...
 
 [Data](articles/c5a0e59c.json)
+
+[Extended Data](ext_articles/c5a0e59c.ext.json)
 
 ---
 
@@ -2225,39 +2275,5 @@ Saldin is a Fellow of the Institute of Chartered Accountants of Sri Lanka and an
 [Data](articles/f3dd965f.json)
 
 [Extended Data](ext_articles/f3dd965f.ext.json)
-
----
-
-### Sanjiv Hulugalle Named Manging Director for San Diego’s Hotel Del Coronado
-
-*2024-03-03 01:40:00* · [`islandlk`](http://island.lk/sanjiv-hulugalle-named-manging-director-for-san-diegos-hotel-del-coronado/) · `en`
-
-Hotel del Coronado, part of Curio Collection by Hilton, announced the appointment of Sanjiv Hulugalle as the resort’s new managing director. With an illustrious career in hospitality, Hulugalle brings over 28 years of industry leadership experience to his new role as managing director at The Del.
-
-Hulugalle’s career has spanned the globe, including senior hospitality positions in 12 countries across four continents including Beijing, Malaysia, the Maldives and Canada. His impressive career achievements include curating a culture of service par excellence at some of the most luxurious properties worldwide and successfully leading resorts through transformative phases. Hulugalle is also renowned for his ability to create unforgettable guest experiences.
-
-...
-
-[Data](articles/1ae8183f.json)
-
-[Extended Data](ext_articles/1ae8183f.ext.json)
-
----
-
-### Sampath Bank recognized at the ACCA Sri Lanka sustainability reporting awards 2023
-
-*2024-03-03 01:40:00* · [`islandlk`](http://island.lk/sampath-bank-recognized-at-the-acca-sri-lanka-sustainability-reporting-awards-2023/) · `en`
-
-Sampath Bank was adjudged as the Runner Up in the Banking Category at the prestigious ACCA Sri Lanka Sustainability Awards 2023. The awards ceremony, organised by the Association of Chartered Certified Accountants (ACCA), Sri Lanka, took place on 20th February 2024 at the Hilton Residencies in Colombo.
-
-Since 2004, ACCA Sri Lanka has striven to reward and recognize those organizations, giving credence to their sustainability practices with recognition of the strong link between business strategy, corporate governance, and sustainability.
-
-The evaluation process leading to Sampath Bank’s Runner Up position involved a thorough assessment by an expert panel of judges. The report submitted by the bank was meticulously reviewed based on three main criteria such as Completeness, Credibility, and Communication.
-
-...
-
-[Data](articles/28d62c38.json)
-
-[Extended Data](ext_articles/28d62c38.ext.json)
 
 ---

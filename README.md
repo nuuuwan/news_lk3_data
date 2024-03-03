@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 13:02:51**
+As of **2024-03-03 13:17:38**
 
 ## Newspaper Stats
 
-*Scraped **10,550** Articles*
+*Scraped **10,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,98 @@ adalk | 890
 adaderanalk | 1,287
 tamilmirrorlk | 1,294
 virakesarilk | 1,419
-dailymirrorlk | 1,596
-adaderanasinhalalk | 1,629
+dailymirrorlk | 1,598
+adaderanasinhalalk | 1,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,547 (100.0%) of 10,550 articles have been extended.
+10,550 (100.0%) of 10,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### ’’ஜனாதிபதி புலமைப்பரிசில் திட்டம்’’ ஆரம்பம்
+### රාජ්‍ය සේවයට නව යාන්ත්‍රණයක්
+
+*2024-03-03 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194072) · `si`
+
+රාජ්‍ය සේවයේ ආරවුල් වැළැක්වීම සහ ආරවුල් නිරාකරණය සඳහා යාන්ත්‍රණයක් සකස් කිරීමට රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු අමාත්‍යාංශය විසින් චක්‍රලේඛයක් නිකුත් කර තිබේ.
+
+අමාත්‍යාංශ ලේකම්වරුන්, රාජ්‍ය අමාත්‍යාංශ ලේකම්වරුන්, පළාත් සභා ප්‍රධාන ලේකම්වරුන්, දෙපාර්තමේන්තු ප්‍රධානීන්, දිස්ත්‍රික් ලේකම්වරුන්, ප්‍රාදේශීය ලේකම්වරුන්, රාජ්‍ය සංස්ථා හා ව්‍යවස්ථාපිත ආයතනවල සභාපතිවරුන් වෙත අදාළ චක්‍රලේඛය නිකුත් කර ඇති බව වාර්තා වේ.
+
+සේවා ස්ථාන සහයෝගීතාව තුළින් මෙරට තුළ ඉහළ ගුණාත්මක භාවයකින් යුතු රාජ්‍ය සේවයක් ගොඩනැගීම හා මහජනතාව වෙත විශිෂ්ට සේවාවක් සැපයීම අරමුණු කරගනිමින් එම යාන්ත්‍රණය ක්‍රියාත්මක කිරීමට නියමිත ය.
+
+රාජ්‍ය සේවයේ ආරවුල් වැළැක්වීම සහ ආරවුල් නිරාකරණය සඳහා වූ යෝජිත යාන්ත්‍රණය ක්‍රියාත්මක කිරීමට අමාත්‍ය මණ්ඩලය විසින් ගෙන ඇති තීරණය අනුව මෙම චක්‍රලේඛය සකස් කර තිබේ.
+
+ඒ අනුව යෝජිත නව යාන්ත්‍රණය සමස්ත රාජ්‍ය සේවය තුළම ක්‍රියාත්මක කිරීමට බලාපොරොත්තු වන අතර එය සේවා ස්ථාන ආංශික හා ජාතික මට්ටම යන ස්ථර තුනකින් ක්‍රියාත්මක කිරීමට නියමිතය.
+
+...
+
+[Data](articles/8235791f.json)
+
+---
+
+### ගාල්ල බන්ධනාගාරයෙන් යළි මොළේ උණ රෝගියෙක්
+
+*2024-03-03 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194071) · `si`
+
+බන්ධනාගාර සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා පැවසුවේ, අදාළ රෝගියා මේ වනවිට කරාපිටිය ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන බව ය.
+
+පසුගිය 19 වැනිදා බන්ධනාගාරගත වූ රැඳවියෙකු මෙලෙස රෝගී වී ඇති බව සඳහන්ය.
+
+ඔහුගේ තත්ත්වය බරපතළ නොවන අතර බන්ධනාගාරය තුළින් වෙනත් මොළේ උණ රෝගීන් මෙතෙක් හඳුනාගෙන නොමැති බව ද වෛද්‍ය හේමන්ත රණසිංහ මහතා පැවසීය.
+
+පසුගිය කාලයේ ගාල්ල බන්ධනාගාරයෙන් මොළේ උණ රෝගීන් කිහිප දෙනෙකු වාර්තා වූ අතර එහිදී රෝගීන් දෙදෙනෙකු ජීවිතක්ෂයට පත්විය.
+
+කෙසේ වෙතත් රෝගය පාලනය කිරීම සඳහා බන්ධනාගාර සෞඛ්‍ය අංශ විසින් විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කර ඇති බව බන්ධනාගාර සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය හේමන්ත රණසිංහ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d9dfe314.json)
+
+---
+
+### Heat advisory raised to caution level in 14 districts, showers expected on Monday
+
+*2024-03-03 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-raised-to-caution-level-in-14-districts-showers-expected-on-Monday/108-278127) · `en`
+
+The temperature felt on the human body is expected to increase up to ‘Caution level’ at some places in the North-Western, Western, Southern, Sabaragamuwa and Eastern Provinces and in the Mannar district on Sunday, the Department of Meteorology said.
+
+Issuing a heat advisory, the Department said the advisory was increased to ‘Caution level’ across 14 districts including Colombo, Gampaha, Kalutara, Puttalam, Galle, Matara, Hambantota, Ratnapura, Kurunegala, Kegalle, Mannar, Trincomalee, Batticaloa and Ampara.
+
+However, temporary relief from the dry spell is expected on Monday in certain areas, with showers or thundershowers expected in the Kalutara, Ratnapura, Nuwara-Eliya, Galle and Matara districts in the evening or night, the Department said. Mainly dry weather will prevail elsewhere in the island, they added.
+
+◼️
+
+[Data](articles/bc0ca729.json)
+
+---
+
+### The President's Scholarship Scheme
 
 *2024-03-03 12:47:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-திட்டம்-ஆரம்பம்/175-334127) · `ta`
 
-பொருளாதார சிரமங்களை எதிர்நோக்கும் 100,000 பாடசாலை மாணவர்களை இலக்காகக் கொண்ட “ஜனாதிபதி புலமைப்பரிசில் திட்டம் 2024/25”க்கான விண்ணப்ப செயல்முறை இப்போது ஆரம்பிக்கப்பட்டுள்ளது.
+The President's Scholarship Scheme 2024/25, targeting 100,000 economically disadvantaged students, has opened applications until March 2024. Applicants can find information in Sinhalese, Tamil, and English on the Presidential Fund's official Facebook page and website. Applications must be submitted to school headmasters by the deadline. The Ministry of Education has issued guidelines for selecting students, with the President's Fund providing scholarships for 12 months from April 2024. The program aims to support students from Grade 1 to 11 across 10,126 schools in Sri Lanka, with a total allocation of 3,600 million rupees.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தொலைநோக்குப் பார்வைக்கு அமைவாக 2024ஆம் ஆண்டு மார்ச் மாதம் 20ஆம் திகதி வரை விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படுகின்றன.
+🟩
 
-விண்ணப்பிக்க, விருப்பமுள்ள விண்ணப்பதாரர்கள் www.facebook.com/president.fund என்ற ஜனாதிபதி நிதியத்தின் உத்தியோகபூர்வ முகநூல் பக்கம் மற்றும் www.presidentsfund என்ற உத்தியோகபூர்வ இணையத்தளத்தின் ஊடாக விண்ணப்பப்படிவம், அறிவுறுத்தல்கள் மற்றும் சிங்களம், தமிழ் மற்றும் ஆங்கிலத்தில் தொடர்புடைய அனைத்து தகவல்களையும் அணுகலாம்.
+The application process for the "Presidential Scholarship Scheme 2024/25", which targets 100,000 schoolchildren facing economic difficulties, has now begun.
 
-gov.lk விண்ணப்பதாரர்கள் தங்கள் பூர்த்தி செய்யப்பட்ட விண்ணப்பங்களை அந்தந்த பாடசாலை தலைமையாசிரியர்களிடம் காலக்கெடுவிற்கு முன் சமர்ப்பிக்க வேண்டும்.
+Applications are accepted till March 2024 in accordance with President Ranil Wickremesinghe's vision.
 
-வலய/மாகாணக் கல்வி அலுவலகங்கள் மற்றும் நாடளாவிய ரீதியில் உள்ள அனைத்து அரச பாடசாலைகளின் அதிபர்களுக்கும் கல்வி அமைச்சு விசேட சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+Applicants can access all the information in Sinhalese, Tamil and English through the Official Facebook page of the Presidential Fund and the Official Website of the Presidential Fund and www.presidsfund.
+
+Gov.lk applicants must submit their completed applications to the respective school headmasters before the deadline.
+
+The Ministry of Education has issued a special circular to the principals of the Zonal/Provincial Education Offices and all the state schools across the country.
 
 ...
 
 [Data](articles/3ad6a978.json)
+
+[Extended Data](ext_articles/3ad6a978.ext.json)
 
 ---
 
@@ -140,6 +202,8 @@ Completed applications must be submitted to the respective school principals bef
 
 [Data](articles/cbbba077.json)
 
+[Extended Data](ext_articles/cbbba077.ext.json)
+
 ---
 
 ### Kassayman's brother-in-law released on bail
@@ -214,25 +278,31 @@ President Ranil Wickremesinghe also emphasized the necessity of formulating a na
 
 ---
 
-### නාමල්ගේ සිහිනය ප්‍රසන්න ’කුඩු’ කරයි
+### Namal's dream makes pleasant 'powdered'
 
 *2024-03-03 11:36:42* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-සිහිනය-ප්‍රසන්න-’කුඩු’-කරයි/11-408390) · `si`
 
-පොහොට්ටුව ජනාධිපතිවරණයට අපේක්ෂකයකු ඉදිරිපත් කරන්නේ නම් ඔහු වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහට වඩා අති දක්ෂයකු විය යුතු බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Prasanna Ranatunga criticizes Namal Rajapaksa's candidacy, suggesting he lacks talent and timing. He also mentions his support for Basil Rajapaksa if he runs, but not for Namal.
 
-අමාත්‍යවරයා අවධාරණය කරන්නේ යම් හෙයකින් දුර්වල අපේක්ෂකයකු ඉදිරිපත් කළහොත් තම පක්ෂ සාමාජිකත්වය සම්බන්ධයෙන් තමන්ට තීන්දුවක් ගැනීමට සිදුවනු ඇති බවයි.
+🟩
 
-එමෙන්ම නාමල් රාජපක්ෂට ජනාධිපතිවරණයට ඉදිරිපත් වීමට මෙය සුදුසු අවස්ථාව නොවන  බවද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කරයි.
+Chief Government Whip Prasanna Ranatunga says he should be more talented than he is a current president of the presidential election.
 
-හිටපු පළාත් පාලන නියෝජිතයන් සමඟ උඩුගම්පොළ, පැවති සාකච්ඡාවකට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+The Minister emphasizes that if a weak candidate is presented in some man, he will have to judge his party membership.
 
-ජනාධිපතිධූරයට වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හැර වෙනත් සුදුස්සකු පෙනෙනතෙක් මානයක නොමැති බවයි.
+The Minister also said that this is not the right time to contest the presidential election to Namal Rajapaksa.
 
-"ශ්‍රී ලංකා පොදුජන පෙර⁣මුණේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතා ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වෙනවා නම් මම එතුමාට සහය පළකරනවා. නමුත් එතුමා  ජනාධිපතිවරණයට ඉදිරිපත් වෙන්නෙ නෑ. මම ඒක හොඳාකාරවම දන්නවා. නාමල් මල්ලිට මේ ජනාධිපතිවරණයට ඉදිරිපත් වෙන්න වෙලාව නෙවෙයි. එයාට තව කල් තියෙනවා. මම ඒක නාමල්ගේ මූණටත් කිව්වා. මොකද එයා ඉදිරිපත් වෙන්න ඕනේ සුදුසුම වෙලාවේදි.
+The Minister was speaking at a discussion with former local government representatives.
+
+The president is not in a dimension except for the President's Ranil Wickremesinghe.
+
+"If the Sri Lanka Commonwealth, Basil Rajapaksa presented to the next presidential election, I support him. However, he will not contest the presidential election. I know it better. Namal is not the time to contest this presidential election. He has more time. I told the face of Namal. Because he should come up at the right time.
 
 ...
 
 [Data](articles/c3d44960.json)
+
+[Extended Data](ext_articles/c3d44960.ext.json)
 
 ---
 
@@ -569,6 +639,24 @@ A 320 aircraft has been allocated for this purpose and they have already begun s
 [Data](articles/9f7d9de7.json)
 
 [Extended Data](ext_articles/9f7d9de7.ext.json)
+
+---
+
+### UN concerned over Sri Lanka’s proposed laws
+
+*2024-03-03 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UN-concerned-over-Sri-Lankas-proposed-laws/155-278123) · `en`
+
+UN, March 3 (Daily Mirror) - UN High Commissioner for Human Rights Volker Türk expressed deep concern over Sri Lanka's proposed legislative measures, at the 55th Session of the Human Rights Council, warning of their potential impact on fundamental rights and freedoms.
+
+Türk highlighted the introduction of several new laws, including the Online Safety Act, Anti-Terrorism Bill, Electronic Media Broadcasting Authority Bill and NGO Supervision and Registration Bill.
+
+"These laws, if enacted, could grant extensive powers to the executive, security forces, and severely restrict freedoms of assembly, association and expression," he said.
+
+Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with poverty levels soaring to an estimated 27.9% and a significant decline in household incomes. Despite efforts by the government, social protection remains strained, with a substantial portion of the budget allocated towards debt servicing.
+
+...
+
+[Data](articles/d01cf083.json)
 
 ---
 
@@ -2127,99 +2215,5 @@ Ninety-five nurses were selected during the first phase out of 400 candidates.
 [Data](articles/0a994cea.json)
 
 [Extended Data](ext_articles/0a994cea.ext.json)
-
----
-
-### Hundreds of Sri Lankan nurses prepare to join Saudi hospitals in 2024
-
-*2024-03-02 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97688/hundreds-of-sri-lankan-nurses-prepare-to-join-saudi-hospitals-in-2024) · `en`
-
-Sri Lanka is preparing to send hundreds of nurses to join hospitals in Saudi Arabia in 2024, the Ministry of Labor said on Friday.
-
-The first phase of the recruitment process took place in Colombo this week and was overseen by the Saudi Ministry of Health and Sri Lanka’s Labor and Foreign Employment Minister Manusha Nanayakkara.
-
-“Saudi Arabia is looking for medical and paramedical staff from countries such the Philippines, Indonesia, and Sri Lanka to meet the growing demand of this sector in the Kingdom,” Sanjay Nallaperuma, media secretary of the Ministry of Labor and Foreign Employment, told Arab News.
-
-“Initially, they want to recruit 1,000 nurses in a phased operation throughout the next 12 months.”
-
-Ninety-five nurses were selected during the first phase out of 400 candidates.
-
-“Those selected were qualified nurses and they had a Bachelor of Science degree,” Nallaperuma said.
-
-“The Saudi Ministry of Health will post them in government hospitals in all parts of the Kingdom.”
-
-...
-
-[Data](articles/5ce3275f.json)
-
-[Extended Data](ext_articles/5ce3275f.ext.json)
-
----
-
-### Veteran Journalist  Lucien Rajakarunanayake Passes away at the age of 85; funeral  in the Evening of Sunday March 3rd 2024 at the Borella Cemetery
-
-*2024-03-02 15:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83711) · `en`
-
-Veteran journalist and columnist Lucien Rajakarunanayake passed away on February 29 at the age of 85.
-
-Late Mr Rajakarunanayake began his career in journalism as a reporter at the (former) Times of Ceylon and the Sunday Times from 1960 to 1971. He was a reporter, sub-editor, feature writer, and a lobby correspondent.
-
-He was a columnist at the Sunday Times, Sunday Island, The Sunday Leader, and Sunday Observer between the years 1972–2001. He was the columnist to The Island and Daily News (on Saturdays) at the time of his demise.
-
-He was also the chairman of the Associated Newspapers of Ceylon (ANCL – Lake House).
-
-He played a key role as a member of the Free MediaMovement in the 1990s.
-
-With more than 50 years of experience in all aspects of journalism, he also served as a foreign correspondent to media outlets in the United Kingdom,Germany and Japan.
-
-He studied at St Peter’sCollege and Aquinas College of Higher Studies.
-
-...
-
-[Data](articles/c22ad438.json)
-
-[Extended Data](ext_articles/c22ad438.ext.json)
-
----
-
-### Suspect to shoot Borella fall
-
-*2024-03-02 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194046) · `si`
-
-A suspect was arrested for injuries in Borend, Colombo, on 19th. The Colombo South Division Crime Investigation Bureau arrested the suspect on 2nd. The suspect's motorcycle was also seized.
-
-🟩
-
-Police said that a suspect had been arrested for serious injuries in Ananda Rajakara Mawatha, Borend on the 19th.
-
-The suspect was arrested by the officers of the Colombo South Division Crime Investigation Bureawatta today (02).
-
-The motorcycle used to commit the crime was arrested along with the motorcycle.
-
-◼️
-
-[Data](articles/1b4c819b.json)
-
-[Extended Data](ext_articles/1b4c819b.ext.json)
-
----
-
-### 218,350 tourists in February
-
-*2024-03-02 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194045) · `si`
-
-In February 2024, Sri Lanka saw 218,350 tourists, earning an estimated US $710 million in the first two months of 2024, according to Minister Harin Fernando.
-
-🟩
-
-In February 202, 2024, the number of tourist arrivals arrived in Sri Lanka from January 2020.
-
-Minister of Tourism Harin Fernando says that the number of tourist earnings for the first two months of 2024 estimates US $ 710 million.
-
-◼️
-
-[Data](articles/becebe75.json)
-
-[Extended Data](ext_articles/becebe75.ext.json)
 
 ---

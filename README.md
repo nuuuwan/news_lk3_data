@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 11:03:12**
+As of **2024-03-03 11:17:52**
 
 ## Newspaper Stats
 
-*Scraped **10,532** Articles*
+*Scraped **10,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ islandlk | 569
 adalk | 886
 adaderanalk | 1,285
 tamilmirrorlk | 1,289
-virakesarilk | 1,417
-dailymirrorlk | 1,594
+virakesarilk | 1,418
+dailymirrorlk | 1,595
 adaderanasinhalalk | 1,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,530 (100.0%) of 10,532 articles have been extended.
+10,532 (100.0%) of 10,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### Zahran’s brother-in-law, others arrested in Kattankudy cleared of criminal intents
+
+*2024-03-03 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Zahrans-brother-in-law-others-arrested-in-Kattankudy-cleared-of-criminal-intents/108-278125) · `en`
+
+Kattankudy, March 3 (Daily Mirror) - The investigations conducted thus far into the suspects, including Zahran's brother-in-law, who were arrested by the Kattankudy Police, have concluded that these individuals were not planning to commit any criminal or anti-state activities.
+
+A group of around 30 persons who were gathered at a temporarily constructed place in the Kattankudy police area were arrested on March 1, over the information that they were gathered for an unlawful meeting and were planning to commit some criminal or anti-government act.
+
+Upon arrest, the suspects claimed they were merely playing cards.
+
+Police said that statements were recorded from the suspects by the Kattankudy and Batticaloa Division Terrorism Investigation Division.
+
+The arrested individuals, aged between 24 and 48, are residents of Kattankudy and Batticaloa.
+
+Among the detainees identified were the brother-in-law of Zahran Hashim, the mastermind behind the Easter Sunday attacks, and his two elder siblings.
+
+...
+
+[Data](articles/aa99c1ee.json)
+
+---
 
 ### Sajith vows to make all schools smart-schools
 
@@ -43,6 +65,30 @@ Speaking at a ceremony held at a school in Tissamaharama, the Samagai Jana Balaw
 ◼️
 
 [Data](articles/d90745d0.json)
+
+[Extended Data](ext_articles/d90745d0.ext.json)
+
+---
+
+### செங்கடலில் ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதலில்  சேதமடைந்த கப்பல் மூழ்கிவிட்டது - அமெரிக்கா தகவல்
+
+*2024-03-03 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177782) · `ta`
+
+சில வாரங்களுக்கு முன்னர்செங்கடல் பகுதியில்  ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதலிற்கு உள்ளான ருபிமர் என்ற கப்பல் பலத்த சேதங்கள் காரணமாக கடலில் மூழ்கியுள்ளது.
+
+ஹெளத்தி கிளர்ச்சியாளர்கள் செங்கடல் பகுதியில் மேற்கொண்டுவரும் தாக்குதல்கள் காரணமாக முற்றாக அழிக்கப்பட்ட முதலாவது கப்பல் இதுவென்பதுகுறிப்பிடத்தக்கது.
+
+ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதல்கள் காரணமாக ஆசியா மத்திய கிழக்கிலிருந்து ஐரோப்பாவிற்கான சரக்கு மற்றும் எரிபொருள் கப்பல்கள்  செங்கடல் ஊடாக பயணம் செய்வது பாதிக்கப்பட்டுள்ள நிலையிலேயே இந்த தகவல் வெளியாகியுள்ளது.
+
+இந்த நிலையில் ருபிமார் கப்பல் மூழ்கியுள்ளமை குறிப்பிட்ட பகுதியில் பயணிக்கும் கப்பல்களின் காப்புறுதி கட்டண அதிகரிப்பிற்கு வழிவகுக்கலாம் என  அச்சம் வெளியாகியுள்ளது.
+
+இதன் காரணமாக சர்வதேச அளவில் பணவீக்கம் அதிகரிக்கலாம் மத்திய கிழக்கிற்கு மனிதாபிமான உதவிகளுடன் கப்பல்கள் செல்வது பாதிக்கப்படலாம்.
+
+மூழ்கிக்கொண்டிருக்கும் கப்பலின் படத்தை வெளியிட்டுள்ள அமெரிக்கா இதன் காரணமாக சூழல் பாதிப்புகள் ஏற்படலாம் என தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/b58f8f11.json)
 
 ---
 
@@ -166,19 +212,25 @@ The suspect is a 24 year old resident of Atchuveli - Jaffna.
 
 ---
 
-### මාලේ හා කටුනායක අතර නව ගුවන් ගමනක්
+### New flight between Malay and Katunayake
 
 *2024-03-03 09:06:39* · [`adalk`](https://www.ada.lk/breaking_news/මාලේ-හා-කටුනායක-අතර-නව-ගුවන්-ගමනක්/11-408387) · `si`
 
-මාලදිවයිනේ මාලේ ගුවන් තොටුපොළේ සිට ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ දක්වා නව ගුවන් ගමනක් ආරම්භ කිරීම මාලදිවයිනේ නිල ගුවන් සේවය සැලසුම් කර තිබේ.
+The Maldives' official carrier plans to start a new flight from Mali Airport on the 25th, operating on Thursdays and Fridays. A 320 aircraft will be used, with seating facilities in place.
 
-ඒ අනුව මේ මස 25 වැනිදා සිට මෙම ගුවන් ගමන ආරම්භ කිරීමට නියමිතය. සතියට දින දෙකක් එනම් බ්‍රහස්පතින්දා හා සිකුරාදා යන ලෙස මෙම ගුවන් ගමන ක්‍රියාත්මක කරයි.
+🟩
 
-මේ සඳහා A 320 වර්ගයේ ගුවන් යානයක් වෙන්කර ඇති අතර නව ගුවන් ගමන වෙනුවෙන් මේ වන විටත් ආසන වෙන් කිරීමේ පහසුකම් ඔවුන් ආරම්භ කර තිබේ.
+The official carrier of the Maldives has planned to commence a new flight from Maldives's Mali Airport.
+
+Accordingly, the flight will commence from the 25th of this month. The flight is running for two days of week, Thursday and Friday.
+
+A 320 aircraft has been allocated for this purpose and they have already begun seating facilities for the new flight.
 
 ◼️
 
 [Data](articles/9f7d9de7.json)
+
+[Extended Data](ext_articles/9f7d9de7.ext.json)
 
 ---
 
@@ -2173,59 +2225,5 @@ The collaboration between UNFPA Sri Lanka and the University of Colombo signifie
 [Data](articles/5b477f1c.json)
 
 [Extended Data](ext_articles/5b477f1c.ext.json)
-
----
-
-### Thousands of people at the final event of the Russian opposition leader - we will not forget you - Rasya without Putin
-
-*2024-03-02 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177737) · `ta`
-
-Despite police presence, thousands attended Alexei Navalni's funeral, raising slogans and queuing for his autopsy. Navalni's team accused Russian officials of disrupting the event.
-
-🟩
-
-Thousands of Russian Opposition Leader Alexi Navalni
-
-Alexei Navalni, who was heavily criticized by the Russian president, died in jail on the 16th.
-
-Despite the large number of police concentrations, the people who attended the funeral raised slogans referring to Navalni's name.
-
-Thousands of policemen were concentrated yesterday when Navalni lived in Russia's Marino area yesterday.
-
-Navalni's team said that people were waiting in long queues for a kilometer of a heavy bath.
-
-The people who were found there raised political slogans but the police did not interfere.
-
-People raised slogans that Russia Russia, who had no war, would be independent.
-
-The final events were held at the Church of Ikon Ov He Lady Queen's My Sorovs Church.
-
-Navalney's supporters have said that the Russian officials have caused many disruption to the funeral and prevented vehicles for transporting the body.
-
-However, hundreds of people were waiting in the area.
-
-...
-
-[Data](articles/16b4a493.json)
-
-[Extended Data](ext_articles/16b4a493.ext.json)
-
----
-
-### Maximum retail price for eggs expected next week
-
-*2024-03-02 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97682/maximum-retail-price-for-eggs-expected-next-week) · `en`
-
-Minister of Agriculture Mahinda Amaraweera emphasizes that although the cost for producing an egg in Sri Lanka is Rs. 30, the price of a local egg in the market has risen to Rs. 60.
-
-Accordingly, the Minister said that steps would be taken to impose a maximum retail price (MRP) for eggs with immediate effect in order to prevent the manufacturers and traders from unfairly profiting by overcharging the consumers.
-
-Amaraweera further mentioned that the new maximum retail price would be submitted to the Consumer Affairs Authority next week.
-
-◼️
-
-[Data](articles/08f7197a.json)
-
-[Extended Data](ext_articles/08f7197a.ext.json)
 
 ---

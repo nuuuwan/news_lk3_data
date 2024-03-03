@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 22:49:37**
+As of **2024-03-03 23:02:55**
 
 ## Newspaper Stats
 
-*Scraped **10,634** Articles*
+*Scraped **10,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 899
-adaderanalk | 1,300
+adaderanalk | 1,301
 tamilmirrorlk | 1,306
 virakesarilk | 1,428
-dailymirrorlk | 1,614
+dailymirrorlk | 1,615
 adaderanasinhalalk | 1,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,633 (100.0%) of 10,634 articles have been extended.
+10,634 (100.0%) of 10,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### Dawoodi Bohras spiritual leader meets President Ranil
+
+*2024-03-03 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97711/dawoodi-bohras-spiritual-leader-meets-president-ranil) · `en`
+
+A significant meeting took place this afternoon (03 March), between the spiritual leader of the Dawoodi Bohras, His Holiness Dr. Syedna Mufaddal Saifuddin Saheb and President Ranil Wickremesinghe at the official residence of the President on Paget Road.
+
+The Dawoodi Bohra community, numbering approximately one million worldwide, resides across various countries including India, Pakistan, USA, UK, Canada, Sri Lanka and Australia.
+
+Dr. Syedna Mufaddal Saifuddin Saheb engaged in a warm and cordial conversation with President Ranil Wickremesinghe, expressing appreciation for the President’s efforts towards bolstering the economy of Sri Lanka.
+
+During their interaction, Dr. Syedna Mufaddal Saifuddin Saheb brought to President Ranil Wickremesinghe’s attention the forthcoming Bohra Conference scheduled to be held this year in the vicinity of the Bambalapitiya Bohra Mosque.
+
+...
+
+[Data](articles/007c2ec3.json)
+
+---
 
 ### Sri Lankan fishermen protest against Indian counterparts for alleged poaching
 
@@ -49,6 +67,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 ...
 
 [Data](articles/e6ac15dc.json)
+
+[Extended Data](ext_articles/e6ac15dc.ext.json)
 
 ---
 
@@ -107,6 +127,24 @@ The mother, who was waiting for her son to be alive, cried over the lifeless bod
 [Data](articles/bf934bb3.json)
 
 [Extended Data](ext_articles/bf934bb3.ext.json)
+
+---
+
+### St. Peter’s emerge Zahira Centenary 7s Champions
+
+*2024-03-03 22:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/St-Peters-emerge-Zahira-Centenary-7s-Champions/108-278142) · `en`
+
+Reigning schools rugby league and knockout champions St. Peter’s sounded a warning when they got their 2024 schools rugby season off to an electrifying start as they emerged Cup champions of the Zahira Centenary Rugby 7s tournament after recording a comfortable 17-5 win over Isipathana in the final played at the Racecourse Ground in Colombo today.
+
+The final turned out to be a tense battle between two of the best rugby-playing schools in the island. The Peterites took a comfortable 10-0 lead at the breather whilst accumulating their points through a goal and two tries to the solitary try scored by Isipathana.
+
+In fact, the Peterities recorded a 19-5 win in the league encounter played on day one and succeeded in maintaining their winning trend.
+
+For the Peterites, Vishenka Silva was in top form as he went over for two tries, with the other try being scored by Pasindu Bandara, with Rahul Peter making one conversion. Mohamed Zumir scored the solitary try for Isipathana.
+
+...
+
+[Data](articles/2e1de180.json)
 
 ---
 
@@ -2243,59 +2281,5 @@ However, it is ready to be given the corresponding relief to the public if consu
 [Data](articles/6c1c8df1.json)
 
 [Extended Data](ext_articles/6c1c8df1.ext.json)
-
----
-
-### Damaged shipwreck in the attack of Hewthi insurgents in the Red Sea - America information
-
-*2024-03-03 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177782) · `ta`
-
-First ship in Red Sea attacked by Hewthi insurgents, sunk due to severe damage. This incident affects freight and fuel ships from Asia to Europe, potentially increasing insurance fees and international inflation. The US released an image of the sinking ship, noting environmental impacts and the discovery of 21,000 metric tonnes of ammonium phosphate fertilizers.
-
-🟩
-
-A few weeks ago, a ship Rubimer, which was attacked by Hewthi insurgents in the Sea Sea, was submerged due to severe damage.
-
-It is noteworthy that this is the first ship that has been completely destroyed due to attacks in the Red Sea.
-
-The information has been revealed as the freight and fuel ships from Asia to Europe to Europe from Asia Middle East have been affected by the attacks of Haiti insurgents.
-
-It has been feared that the sinking of Rubimar's ship could lead to an increase in insurance fee of ships traveling in a particular area.
-
-As a result, international inflation can increase inflation.
-
-The United States, which has released the image of the sinking ship, said it could cause environmental impacts.
-
-The United States said the ship was found on the ship 21000 metric tonnes of ammonium phosphate fertilizers.
-
-◼️
-
-[Data](articles/b58f8f11.json)
-
-[Extended Data](ext_articles/b58f8f11.ext.json)
-
----
-
-### Husband dies after wife's attack
-
-*2024-03-03 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194067) · `si`
-
-A woman in Karandeniya-Gurubabila was attacked by another woman with a sharp object, leading to her husband's death. The incident, sparked by an argument, resulted in the attacker's arrest. This is not the first time they've had disputes, with previous incidents reported to the police.
-
-🟩
-
-A woman has been assaulted by a woman with a sharp object in the Karandeniya - Gurubabila area.
-
-It is reported that the murder has taken place this morning due to an argument between the two.
-
-The woman was arrested by the Karandeniya Police.
-
-It is reported that such disputes have been constantly broken out between the two and several occasions have been submitted to the Karandeniya police.
-
-◼️
-
-[Data](articles/27c79c59.json)
-
-[Extended Data](ext_articles/27c79c59.ext.json)
 
 ---

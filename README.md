@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 06:18:03**
+As of **2024-03-03 06:55:41**
 
 ## Newspaper Stats
 
-*Scraped **10,500** Articles*
+*Scraped **10,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,281
 adaderanalk | 1,282
 virakesarilk | 1,416
 dailymirrorlk | 1,589
-adaderanasinhalalk | 1,619
+adaderanasinhalalk | 1,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,494 (99.9%) of 10,500 articles have been extended.
+10,498 (100.0%) of 10,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### අද කාලගුණය
+
+*2024-03-03 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194060) · `si`
+
+කළුතර, රත්නපුර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (03) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/b7877aea.json)
+
+---
 
 ### UK-owned ship attacked by Houthis sinks off Yemen coast
 
@@ -153,6 +169,8 @@ The evaluation process leading to Sampath Bank’s Runner Up position involved a
 ...
 
 [Data](articles/28d62c38.json)
+
+[Extended Data](ext_articles/28d62c38.ext.json)
 
 ---
 
@@ -412,6 +430,8 @@ However, the operation has come under intense scrutiny at home and abroad. There
 
 [Data](articles/7c64b786.json)
 
+[Extended Data](ext_articles/7c64b786.ext.json)
+
 ---
 
 ### Donald Lu’s Comeback Story
@@ -425,6 +445,8 @@ Not surprisingly, Lu does mention China, but only in the context of the pressure
 ...
 
 [Data](articles/27373ff7.json)
+
+[Extended Data](ext_articles/27373ff7.ext.json)
 
 ---
 
@@ -523,6 +545,8 @@ The global political scene was very left-inclined from about the mid-1960s to sa
 ...
 
 [Data](articles/9cc05308.json)
+
+[Extended Data](ext_articles/9cc05308.ext.json)
 
 ---
 
@@ -2169,25 +2193,5 @@ Addressing a press briefing at the Presidential Media Centre (PMC) on Friday (Ma
 [Data](articles/230d5bf5.json)
 
 [Extended Data](ext_articles/230d5bf5.ext.json)
-
----
-
-### Today is the 73th anniversary of the Air Force
-
-*2024-03-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194035) · `si`
-
-Today marks the 73rd anniversary of the Sri Lanka Air Force, celebrated as a priority for the National Assembly's security.
-
-🟩
-
-The 73th Anniversary of the Sri Lanka Air Force has today (02).
-
-The anniversary is celebrated as a priority as the security guards of the National Assembly of Sri Lanka.
-
-◼️
-
-[Data](articles/9d159cee.json)
-
-[Extended Data](ext_articles/9d159cee.ext.json)
 
 ---

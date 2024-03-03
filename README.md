@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 00:47:42**
+As of **2024-03-04 01:03:41**
 
 ## Newspaper Stats
 
-*Scraped **10,646** Articles*
+*Scraped **10,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-dailyftlk | 564
+dailyftlk | 565
 islandlk | 569
 adalk | 899
 adaderanalk | 1,301
 tamilmirrorlk | 1,306
-virakesarilk | 1,430
+virakesarilk | 1,431
 dailymirrorlk | 1,616
 adaderanasinhalalk | 1,651
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,646 (100.0%) of 10,646 articles have been extended.
+10,646 (100.0%) of 10,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### நெதன் லயனில் சுழற்சியில் நியூஸிலாந்து சரிந்தது, ஆஸி. 172 ஓட்டங்களால் வெற்றி
+
+*2024-03-04 00:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177831) · `ta`
+
+வெலிங்டன் பேசின் ரிசேர்வ் விளையாட்டரங்கில் நடைபெற்ற நியூஸிலாந்துக்கு எதிரான முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் 10 விக்கெட் குவியலை நெதன் லயன் பூர்த்தி செய்ததன் பலனாக 172 ஓட்டங்களால் அவுஸ்திரேலியா அமோக வெற்றிபெற்றது.
+
+போட்டியின் நான்காம் நாளான ஞாயிற்றுக்கிழமை (03)காலை வெற்றிக்கு மேலும் 258 ஓட்டங்கள் தேவைப்பட்ட நிலையில் தனது இரண்டாவது இன்னிங்ஸை 3 விக்கெட் இழப்புக்கு 111 ஓட்டங்கள் என்ற நிலையில் இருந்து தொடர்ந்த நியூஸிலாந்து சகல விக்கெட்களையும் இழந்து 196 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+இப் போட்டியில் நியூஸிலாந்து சாதிப்பதற்கான வாய்ப்பு இருந்தது. ஆனால், நெதன் லயன் காலையிலேயே விக்கெட்களை வீழ்த்தி 10 விக்கெட் குவியலைப் பதிவு செய்ததால் நியூஸிலாந்தின் வாய்ப்பு நழுவிப்போனது.
+
+நியூஸிலாந்தின் நம்பிக்கை நட்சத்திரங்களான ரச்சின் ரவிந்த்ரா, டொம் ப்ளண்டல், க்லென் பிலிப்ஸ் ஆகியோரின் விக்கெட்களை நெதன் லயன் வீழ்த்தி அவுஸ்திரேலியாவை வெற்றிப்பாதையில் இட்டார்.
+
+நியூஸிலாந்து சார்பாக ரச்சின் ரவிந்த்ரா 59 ஓட்டங்களையும் டெரில் மிச்செல் 38 ஓட்டங்களையும் அதிகப்பட்சமாக பெற்றனர்.
+
+...
+
+[Data](articles/ab2ff4c4.json)
+
+---
 
 ### Attack at a restaurant in Colombo;Damage to assets
 
@@ -111,6 +131,18 @@ National plans have not worked in Sri Lanka or anywhere else. The Indian Plannin
 [Data](articles/75637a4a.json)
 
 [Extended Data](ext_articles/75637a4a.ext.json)
+
+---
+
+### Ronnie de Mel: A true democrat and an economics philosopher to the end
+
+*2024-03-03 23:13:36* · [`dailyftlk`](https://www.ft.lk/columns/Ronnie-de-Mel-A-true-democrat-and-an-economics-philosopher-to-the-end/4-759109) · `en`
+
+These was Ronnie’s observations: central banks in countries like Singapore and Hong Kong were much more efficient than the central banks in this part of the world, including the central bank in Sri Lanka. But the central banks in India, Pakistan or Bangladesh were worse than even the bad central bank in Sri Lanka. Why the central banks in Singapore or Hong Kong were successful was because those countries continued with open economy policies. They did not adopt socialist systems. They were going on modifying or developing the open economy systems. According to Ronnie, that was the secret to their success. What Ronnie implied was that if the country adopts a set of a good flexible economic policy package, its central bank also becomes an institution of worth
+
+...
+
+[Data](articles/4672510f.json)
 
 ---
 
@@ -2201,49 +2233,5 @@ According to investigations into the suspects, information has not been revealed
 [Data](articles/43048e95.json)
 
 [Extended Data](ext_articles/43048e95.ext.json)
-
----
-
-### Sri Lanka tourist arrivals up 102-pct in Feb led by Russia
-
-*2024-03-03 11:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-102-pct-in-feb-led-by-russia-152752/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals grew 102.3 percent from a year ago to 218,350 in February 2024, led by Russia as the sector continued to recover from an economic crisis that scared away tourists in 2022.
-
-Russian arrivals were 32,030 just overtaking India at 30,027.  UK was 20,614, Germany 16,259 and China came in fifth place at 14,836.
-
-The high visitor numbers from Russia were seen as the Department of Immigration said it was cancelling extended visas of  Russians and Ukrainians following a criticism of a party on racist lines where only ‘white’ people were allowed.
-
-There have been criticism that Russians were running businesses, but it is not known to what extent they were helping boost an eco-system of services or promotions that were helping bring visitors.
-
-The February numbers are close to levels seen before the coronavirus pandemic.
-
-...
-
-[Data](articles/a0296671.json)
-
-[Extended Data](ext_articles/a0296671.ext.json)
-
----
-
-### Sri Lanka tourist arrivals in Feb led by Russia amid visa row
-
-*2024-03-03 11:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-in-feb-led-by-russia-amid-visa-row-152753/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals grew 102.3 percent from a year ago to 218,350 in February 2024, led by Russia as the sector continued to recover from an economic crisis that scared away tourists in 2022.
-
-Russian arrivals were 32,030 just overtaking India at 30,027.  UK was 20,614, Germany 16,259 and China came in fifth place at 14,836.
-
-The high visitor numbers from Russia were seen as the Department of Immigration reportedly said it was cancelling extended visas of  Russians shortly after mounting criticism of a party on racist lines where only ‘white’ people were allowed.
-
-A statement from President Ranil Wickremesinghe’s media office said there was no policy decision by the government to cancel already extended visa’s and an inquiry would be launched.
-
-There have been criticism that Russians were running businesses, but it is not known to what extent they were helping boost an eco-system of services or promotions that were helping bring visitors.
-
-...
-
-[Data](articles/1afa74ec.json)
-
-[Extended Data](ext_articles/1afa74ec.ext.json)
 
 ---

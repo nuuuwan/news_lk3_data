@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 09:17:30**
+As of **2024-03-03 09:33:31**
 
 ## Newspaper Stats
 
-*Scraped **10,522** Articles*
+*Scraped **10,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,76 @@ newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
 islandlk | 568
-adalk | 884
+adalk | 885
 adaderanalk | 1,284
 tamilmirrorlk | 1,288
 virakesarilk | 1,416
-dailymirrorlk | 1,592
-adaderanasinhalalk | 1,625
+dailymirrorlk | 1,593
+adaderanasinhalalk | 1,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,521 (100.0%) of 10,522 articles have been extended.
+10,522 (100.0%) of 10,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### அதிவேக நெடுஞ்சாலை விபத்தில் இருவர் காயம்
+### අනවසරයෙන් ඩ්‍රෝන කැමරාවක් යැවූ තරුණයාට වැඩ වැරදෙයි
+
+*2024-03-03 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194066) · `si`
+
+බලපත්‍ර නොමැති ව ඩ්‍රෝන කැමරාවක් යොදාගෙන වීඩියෝ දර්ශන ලබා ගනිමින් සිටි තරුණයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (02) දහවල් කාලයේ දී සැකකාර තරුණයා විසින් කිලිනොච්චිය - ඉරණමඩු වැව අසන්නයේ ඩ්‍රෝන කැමරාවක් ගුවන්ගත කර වීඩියෝ දර්ශන ලබා ගනිමින් සිටිය දී එලෙස අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු අච්චුවේලි - යාපනය ප්‍රදේශයේ පදිංචි 24 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/0ea3e6b3.json)
+
+---
+
+### UN concerned over Sri Lanka’s proposed laws
+
+*2024-03-03 09:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-concerned-over-Sri-Lankas-proposed-laws/108-278123) · `en`
+
+UN, March 3 (Daily Mirror) - UN High Commissioner for Human Rights Volker Türk expressed deep concern over Sri Lanka's proposed legislative measures, at the 55th Session of the Human Rights Council, warning of their potential impact on fundamental rights and freedoms.
+
+Türk highlighted the introduction of several new laws, including the Online Safety Act, Anti-Terrorism Bill, Electronic Media Broadcasting Authority Bill and NGO Supervision and Registration Bill.
+
+"These laws, if enacted, could grant extensive powers to the executive, security forces, and severely restrict freedoms of assembly, association and expression," he said.
+
+Moreover, Türk emphasized the ongoing economic crisis in Sri Lanka, with poverty levels soaring to an estimated 27.9% and a significant decline in household incomes. Despite efforts by the government, social protection remains strained, with a substantial portion of the budget allocated towards debt servicing.
+
+...
+
+[Data](articles/ffdd71bc.json)
+
+---
+
+### Two people injured in high -speed highway crash
 
 *2024-03-03 09:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்தில்-இருவர்-காயம்/175-334117) · `ta`
 
-கொழும்பு வெலிவட்ட அதிவேக நெடுஞ்சாலையில் நேற்றிரவு கொள்கலன் லொறி ஒன்றும் கெப் வாகனம் ஒன்றுக்குமிடையில் இடம்பெற்ற விபத்தில் இருவர் காயமடைந்துள்ளதாக அதிவேக நெடுஞ்சாலை பொலிஸார் தெரிவித்தனர்.
+Two injured in Weliwatta highway crash: A container lorry and a cab collided, with the cab crashing into the container's back. The accident was caused by the cab's driver.
 
-கொள்கலன் வாகனம் மாத்தறையில் இருந்து கடவத்தை நோக்கி சென்று கொண்டிருந்த போது, ​​அதே திசையில் பயணித்த கெப் வாகனம் கொள்கலனின் பின்பகுதியில் மோதி விபத்துக்குள்ளானது.
+🟩
 
-கெப் ஓட்டுநர் கவனக்குறைவாக வாகனம் ஓட்டியதே விபத்துக்குக் காரணம் என பொலிஸார் தெரிவித்தனர்.
+Two persons were injured in an accident between a container lorry and a cab on the Weliwatta highway in Colombo, the highway police said.
+
+While the container vehicle was traveling from Matara to Kadavatha, the cab, which was traveling in the same direction, crashed into the back of the container.
+
+The cause of the accident was the cause of the driver of the Keb driver, police said.
 
 ◼️
 
 [Data](articles/7671547c.json)
+
+[Extended Data](ext_articles/7671547c.ext.json)
 
 ---
 
@@ -659,6 +699,22 @@ Subsequently, the suspect has been transferred to the Kohuwala police for furthe
 ---
 
 ### 2024-03-02 (Saturday)
+
+### පාතාල තර්ජන නිසා විදේශයකට ගිය පොලිස් නිලධාරියා ගැන විමර්ශනයක්
+
+*2024-03-02 23:29:37* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-තර්ජන-නිසා-විදේශයකට-ගිය-පොලිස්-නිලධාරියා-ගැන-විමර්ශනයක්/11-408386) · `si`
+
+පතාල සාමාජිකයන්ගෙන් ජීවිත තර්ජන ඇතැයි කියා විදේශයකට ගිය පොලිස් නිලධාරියා සම්බන්ධයෙන් පුළුල් විමර්ශනයක් ආරම්භ කොට ඇති බව පවසන නව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඒ සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශයේ අධ්‍යක්ෂකවරයාගේ මෙහෙයවීමෙන් සහ විශේෂ විමර්ශන ඒකකය විසින් විමර්ශන කටයුතු ආරම්භ කොට ඇති බවද පවසයි .
+
+ඒ මහතා නව තනතුරේ වැඩ භාර ගැනීමෙන් අනතුරුව අද (02) මහනුවරට පැමිණ දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැදැකීමෙන් පසු මාධ්‍ය හමුවේ ඒ බව අවධාරණය කළේය .
+
+එහිදී පොලිස්පතිවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ එම නිලධාරියා විදේශගත වීමේ අරමුණින් එවැනි පැමිණිල්ලක් සිදුකළේ ද යන්න සම්බන්ධයෙන් බරපතළ සැකයක් ඇතිවී තිබෙන බවත් ඔහු එම සිද්ධිය පැමිණිලි කිරීමට මාස කීපයකට පෙර තම පවුලේ සාමාජිකයන් සමඟ විදේශගත වීම සඳහා අවසර ඉල්ලා තිබූ බවද පැවසීය .
+
+...
+
+[Data](articles/c8c8abfc.json)
+
+---
 
 ### Severance examination in the Western Province suspended
 
@@ -2169,63 +2225,5 @@ Also, we expect modern technology for agriculture. Steps should be used to use m
 [Data](articles/5bee8eb7.json)
 
 [Extended Data](ext_articles/5bee8eb7.ext.json)
-
----
-
-### Additional Secretary of Health Ministry produced before court
-
-*2024-03-02 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97680/additional-secretary-of-health-ministry-produced-before-court) · `en`
-
-Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been produced before the Maligakanda Magistrate’s Court.
-
-The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
-
-Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
-
-◼️
-
-[Data](articles/1e8fa6e1.json)
-
-[Extended Data](ext_articles/1e8fa6e1.ext.json)
-
----
-
-### Dr. Saman Ratnayake produced before court
-
-*2024-03-02 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97680/dr-saman-ratnayake-produced-before-court) · `en`
-
-Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been produced before the Maligakanda Magistrate’s Court.
-
-The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
-
-Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
-
-◼️
-
-[Data](articles/23ae3107.json)
-
-[Extended Data](ext_articles/23ae3107.ext.json)
-
----
-
-### A statement from the Inspector General of Police to carry out justice
-
-*2024-03-02 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194039) · `si`
-
-IGP Tennakoon emphasizes efficiency in operations against criminals, racketeers, and the underworld in Kandy.
-
-🟩
-
-IGP, Deshabandu Tennakoon has emphasized that the operation operates more efficient and strong.
-
-He was speaking at the Dalada Mamunu hole in Kandy today (02).
-
-The IGP has stated that the criminals, racketeers and the underworld have not been completely repressed.
-
-◼️
-
-[Data](articles/d63d0372.json)
-
-[Extended Data](ext_articles/d63d0372.ext.json)
 
 ---

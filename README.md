@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 12:02:47**
+As of **2024-03-03 12:17:46**
 
 ## Newspaper Stats
 
-*Scraped **10,543** Articles*
+*Scraped **10,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 889
-adaderanalk | 1,285
+adaderanalk | 1,287
 tamilmirrorlk | 1,291
 virakesarilk | 1,419
 dailymirrorlk | 1,595
@@ -26,49 +26,103 @@ adaderanasinhalalk | 1,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,538 (100.0%) of 10,543 articles have been extended.
+10,543 (100.0%) of 10,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### සහරාන් හෂිම්ගේ මස්සිනා ඇතුළු 30 දෙනෙකුට ඇප
+### Kassayman's brother-in-law released on bail
 
 *2024-03-03 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194070) · `si`
 
-පසුගිය 01 වනදා කාත්තන්කුඩි පොලිස් වසමේ පාලමුණු - ආරියම්පති ප්‍රදේශයේ දී අත්අඩංගුවට ගත් සහරාන් හෂිම්ගේ මස්සිනා ඇතුළු 30 දෙනෙකු රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත මුදා හැරීමට මඩකලපුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+Kassayman's brother-in-law was released on bail by the Batticaloa Magistrate's Court. The police arrested 30 people in the Palamuna-Arimpathi area on suspicion of criminal or anti-government activities. The suspects, aged 248 and 48, included the husband of Hachari Hashhim's sister and two older brothers. No evidence of a crime or anti-government protest was found. Further investigations are ongoing.
 
-එමෙන්ම එම සැකකරුවන්ට එළැඹෙන 06 වනදා අධිකරණය හමුවේ පෙනී සිටින ලෙසට ද අධිකරණය නියෝග කර ඇති බව පොලීසිය පවසයි.
+🟩
 
-පසුගිය 01 වනදා අලුයම් කාලයේදී කත්තාන්කුඩි පොලිස් වසමේ පාලමුණ - ආරියම්පති ප්‍රදේශයේ තාවකාලිකව ඉදි කළ මඩුවක් වැනි ස්ථානයක පුද්ගලයින් 30ක පමණ රැස්ව සිටින බවට කාත්තන්කුඩි පොලීසියට තොරතුක් ලැබී තිබුණි.
+The Batticaloa Magistrate's Court has ordered the release of Rs.
 
-එම පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායම් විසින් එහි සිටි පුද්ගලයින් 30 දෙනෙකු යම් අපරාධ ක්‍රියාවක් හෝ රාජ්‍ය විරෝධී ක්‍රියාවක් සිදුකිරීමේ අරමුණින් රැස්ව සිටින බවට වූ සැකය මත අත්අඩංගුවට ගෙන තිබුණි.
+The court has also been ordered to appear before courts on the 6th.
 
-පසුව සැකපිට අත්අඩංගුවට ගත් පුද්ගලයින් 30 දෙනාගෙන් කාත්තන්කුඩි පොලිස් ස්ථානය මගින් ප්‍රකාශ සටහන් කර ගෙන තිබූ අතර එම පුද්ගලයින්ගෙන් මඩකළපුව ත්‍රස්ත මර්දන විමර්ශන කොට්ඨාස ඒකකයේ නිලධාරීන් විසින්ද ප්‍රශ්න කිරීමක් සිදුකර තිබුණි.
+Kattankudi police had received information that had a temporarily constructed in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area in the Palamuna-Arimpathi area.
+
+The police officers were arrested on suspicion that 30 people were present in a criminal act or anti-government act.
+
+The 30 people arrested on suspicion have been questioned by Kattankudi police station.
+
+The suspects were residents of Kattankudy and Batticaloa areas, aged 248 and 48.
+
+Among the suspects was the husband of the sister of Hachari Hashhim, a husband of Hachan Hashim, and two older brothers.
+
+According to investigations into the suspects, information has not been revealed that the group met with a crime or anti-government anti-government protesters, police said.
 
 ...
 
 [Data](articles/43048e95.json)
 
+[Extended Data](ext_articles/43048e95.ext.json)
+
 ---
 
-### காசா- பரசூட்களை பயன்படுத்தி மனிதாபிமான உதவிகளை வீசியது அமெரிக்கா
+### US says Israel has agreed to the framework for a Gaza cease-fire. Hamas must now decide
+
+*2024-03-03 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97700/us-says-israel-has-agreed-to-the-framework-for-a-gaza-cease-fire-hamas-must-now-decide) · `en`
+
+Israel has essentially endorsed a framework of a proposed Gaza cease-fire and hostage release deal, and it is now up to Hamas to agree to it, a senior U.S. administration official said Saturday, a day before talks to reach an agreement were to resume in Egypt.
+
+International mediators have been working for weeks to broker a deal to pause the fighting before the Muslim holy month of Ramadan begins around March 10. A deal would likely allow aid to reach hundreds of thousands of desperate Palestinians in northern Gaza who aid officials worry are under threat of famine.
+
+The Israelis “have more or less accepted” the proposal, which includes the six-week cease-fire as well as the release by Hamas of hostages considered vulnerable, which includes the sick, the wounded, the elderly and women, said the official.
+
+...
+
+[Data](articles/ae26697e.json)
+
+---
+
+### President instructs to develop grass-root level national program for agri modernization
+
+*2024-03-03 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97699/president-instructs-to-develop-grass-root-level-national-program-for-agri-modernization) · `en`
+
+President Ranil Wickremesinghe has directed relevant officials to develop a national program integrating public and private sectors for successful agriculture modernization initiative.
+
+The President highlighted that despite annual budget allocations at national, provincial and local levels, the separate operations of public and private institutions have led to delays in achieving desired outcomes.
+
+He underscored the importance of garnering support from both public and private agricultural research institutes, along with the university system, to address the challenges encountered in implementing this program.
+
+President Ranil Wickremesinghe conveyed these sentiments during the progress review meeting of the Agriculture Modernization Program, convened at the Presidential Secretariat recently.
+
+President Ranil Wickremesinghe also emphasized the necessity of formulating a national program that aligns with government policies and can be effectively implemented at the grass-root level.
+
+...
+
+[Data](articles/1423fee0.json)
+
+---
+
+### The US threw humanitarian aid using Gaza-
 
 *2024-03-03 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177790) · `ta`
 
-காசாவின் மீது அமெரிக்கா வான்வழியாக மனிதாபிமான உதவிகளை வீசியுள்ளதாக அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+The US has provided humanitarian aid to Gaza, including 38,000 food packages dropped by C-130 airplanes, marking the first time the US has taken such action. This follows the killing of over 110 people in Israeli attacks on Palestinians near the Food Series, prompting an increase in aid.
 
-உணவுவாகன தொடரணியை சூழ்ந்த பாலஸ்தீனியர்கள் மீதுஇஸ்ரேல் மேற்கொண்ட துப்பாக்கி பிரயோகத்தில் 110க்கும் அதிகமானவர்கள் கொல்லப்பட்டதை தொடர்ந்து காசாவிற்கான மனிதாபிமான உதவிகளை அதிகரிக்கப்போவதாக அமெரிக்க ஜனாதிபதி தெரிவித்திருந்த நிலையிலேயே அமெரிக்கா இந்த நடவடிக்கையைமேற்கொண்டுள்ளது.
+🟩
 
-சி130 ரக விமானங்கள் 38000 உணவுப்பொதிகளை காசாவிற்குள் பரசூட் மூலம் வீசின என அமெரிக்காவின் மத்திய கட்டளைப்பீடம் தெரிவித்துள்ளது.
+US officials have said that the US has threw humanitarian aid on Gaza.
 
-பிரிட்டன் பிரான்ஸ் எகிப்து ஜோர்தான் ஆகிய நாடுகள் முன்னர் காசாவின் மீது இவ்வாறான நடவடிக்கைகளை மேற்கொண்டுள்ளன எனினும் அமெரிக்கா இவ்வாறான நடவடிக்கையை மேற்கொள்வது இதுவே முதல்தடவை.
+The US has taken action as the US president has said that the humanitarian aid to Gaza will be increased following the killing of more than 110 people in the Israeli firing on Palestinians surrounding the Food Series.
 
-வியாழக்கிழமை இடம்பெற்ற துன்பியல் நிகழ்வு காசாவில் காணப்படும் மிகமோசமான மனிதாபிமான நிலை காரணமாக அந்த பகுதிக்கான மனிதாபிமான உதவிகள் விநியோகத்தை தொடர்ந்து பேணவேண்டியதன் அவசியத்தை  வலியுறுத்தியுள்ளது என பைடன் நிர்வாகத்தின் அதிகாரிகள் தெரிவித்துள்ளனர்.
+The Central Command of the United States said that C 130 airplanes were thrown by 38,000 food packages into Gaza.
+
+Britain and Egyptian Jordan have previously taken such measures against Gaza, but this is the first time the US is taking such action.
+
+Bitton administration officials said that the tragic event on Thursday has emphasized the need to maintain humanitarian assistance to the area due to the worst humanitarian situation in Gaza.
 
 ◼️
 
 [Data](articles/78ca6a21.json)
+
+[Extended Data](ext_articles/78ca6a21.ext.json)
 
 ---
 
@@ -96,23 +150,31 @@ The Minister of State Shehan Semasinghe further stated that if it is confirmed t
 
 ---
 
-### பாராளுமன்றத்தின் மின் விநியோகம் துண்டிப்பு
+### The disconnection of the power supply of Parliament
 
 *2024-03-03 11:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாராளுமன்றத்தின்-மின்-விநியோகம்-துண்டிப்பு/50-334119) · `ta`
 
-பாராளுமன்றத்துக்கான மின் கட்டணத்தை முறையாக செலுத்தாமையால், அந்த பாராளுமன்றத்துக்கான மின் விநியோகம் துண்டிக்கப்பட்ட சம்பவமொன்று இடம்பெற்றுள்ளது.
+The power supply to Ghana's parliament was cut off due to unpaid electricity bills, causing disruption during President Nana Akufo-Addo's address. Members chanted "tamsar, tamsar" and resumed with a generator. The Electricity Company warned that power will be cut off to those who don't pay their bills, highlighting the government's struggle to purchase fuel for power plants due to economic crisis.
 
-மேற்கு ஆப்பிரிக்க நாடான கானாவின் பாராளுமன்றத்திற்கான மின் விநியோகத்தை அந்நாட்டு மின்சார நிறுவனம் துண்டித்த சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-கானா பாராளுமன்றத்தில் ஜனாதிபதி நானா அகுஃபோ–அட்டோ  நாட்டு மக்களுக்கு உரையாற்றிக் கொண்டிருந்த சந்தர்ப்பத்தில் மின்சாரம் துண்டிக்கப்பட்டுள்ளது. உடனடியாக மின்சாரம் வழமைக்குத் திரும்பும் என நினைத்து உறுப்பினர்கள் அமர்ந்திருந்த நிலையில், மின்சாரத்தடை நீடித்தது.
+There has been an incident where the power supply to the parliament has been cut off as the electricity bill for parliament has not been properly paid.
 
-இதையடுத்து, அங்கிருந்து உறுப்பினர்கள் அனைவரும் அக்கன் மொழியில் “மின்சார தடை” எனும் பொருள்பட “டம்சர், டம்சர்”  என கோஷமிடத் தொடங்கினர். சில நிமிடங்கள் கடந்ததும் உறுப்பினர்கள் அமர்ந்திருந்த சபைக்கு மட்டும் ஜெனரேட்டர் உதவியுடன் மின்சாரம் கிடைத்தது.
+The Electricity Company has cut off the power supply to the parliament of Ghana, the western African country of Ghana.
 
-ஆனால், பாராளுமன்றத்தின் பிற பகுதிகளுக்கு மின்சாரம் வரவில்லை. இதனால் மின் தூக்கியில்  பயணித்த பல உறுப்பினர்கள் அதில் சிக்கிக்கொள்ள நேர்ந்தது.
+Electricity has been cut off when President Nana Agfo -Atto addresses the people of Ghana Parliament. The power barrier lasted as the members were sitting, hoping to return to normal immediately.
+
+Subsequently, all the members began to chant the "tamsar, tamsar" in the language of the Akkan language.. A few minutes later, the council was sitting alone with the help of a generator.
+
+But, the rest of the parliament does not come to power. This caused many members who traveled in the power lifting.
+
+The Electricity Company spokesman William Botheng said that the parliamentary office has issued a notice several times to collect the electricity tariffs that the parliamentary office has to pay.
 
 ...
 
 [Data](articles/c08c1ee1.json)
+
+[Extended Data](ext_articles/c08c1ee1.ext.json)
 
 ---
 
@@ -182,19 +244,25 @@ Speaking at a ceremony held at a school in Tissamaharama, the Samagai Jana Balaw
 
 ---
 
-### තේ, කිරි තේ, බත්, කොන්තු හා ෆ්‍රයිඩ් රයිස් මිල ඉහළට
+### Tea, milk tea, rice, cottage and fried rice
 
 *2024-03-03 10:49:55* · [`adalk`](https://www.ada.lk/breaking_news/තේ--කිරි-තේ--බත්--කොන්තු-හා-ෆ්‍රයිඩ්-රයිස්-මිල-ඉහළට/11-408388) · `si`
 
-ආහාර නිෂ්පාදන පිරිවැයේ සැලකිය යුතු වැඩිවීම අනුව ඊයේ රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි කොත්තු, ෆ්‍රයිඩ් රයිස් සහ කිරි තේ සහ ප්ලේන් ටී කෝප්පයක මිල ඉහළ නංවීමට කටයුතු කරන බව සමස්ත ලංකා ආපනශාලා හිමියන්ගේ සංගමය සඳහන් කරයි.
+The All Ceylon Restaurant Owners Association plans to raise prices for tea, milk tea, rice, cottage, and fried rice, but is willing to provide relief if consumer prices increase.
 
-තේ කෝප්පයක මිල රුපියල් 5කින්, කිරි තේ කෝප්පයක මිල රුපියල් 10කින් ඉහළ නැංවීමට එම සංගමය කටයුතු කර තිබේ.
+🟩
 
-කෙසේ වෙතත් පාරිභෝගික භාණ්ඩ මිලෙහි අඩුවීමක් සිදුවුවහොත් ඊට අනුරූප සහන මහජනතාවට ලබාදීමට සූදානම් බවද එම සංගමය පවසයි.
+The All Ceylon Restaurant Owners Association states that the price of a cup and a plane of milk tea and plane will increase the prices of a cup of food production.
+
+The union has taken steps to increase the price of a cup of tea by Rs.
+
+However, it is ready to be given the corresponding relief to the public if consumers' prices take place.
 
 ◼️
 
 [Data](articles/6c1c8df1.json)
+
+[Extended Data](ext_articles/6c1c8df1.ext.json)
 
 ---
 
@@ -326,21 +394,27 @@ There, a large number of civilians participated and paid tribute to her body ami
 
 ---
 
-### சாந்தனின் உடலுக்கு பெருந்திரளானோர் அஞ்சலி
+### The great tribute to Shantan's body
 
 *2024-03-03 09:36:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சாந்தனின்-உடலுக்கு-பெருந்திரளானோர்-அஞ்சலி/72-334118) · `ta`
 
-திருச்சி சிறப்பு முகாமில் தங்கவைக்கப்பட்டிருந்த சாந்தன், உடல் நலக்குறைவு ஏற்பட்டதை அடுத்து காலமானார்.
+Shantan, from Trichy, died from illness. Her body was autopsied at Negombo State Hospital, then taken to Vavuniya. A tribute was held at 7.30 am, attended by many civilians.
 
-இந்நிலையில் அவரது உடல்  கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு   எடுத்து வரப்பட்டு பிரேத பரிசோதனைகளுக்காக நீர்கொழும்பு அரச வைத்தியசாலையில் வைக்கப்பட்டது. பிரேத பரிசோதனை முடிவின் பின்னர்   அவரது உடல்  வவுனியாவிற்கு எடுத்து வரப்பட்டது.
+🟩
 
-வவுனியா முன்னாள் போராளிகள் நலன்புரிச்சங்கத்தின் அலுவலகத்திற்கு முன்பாக இன்று (03) காலை 7.30மணியளவில் அலங்கரிக்கப்பட்ட ஊர்தியில் சாந்தனின் உடல் வைக்கப்பட்டு அஞ்சலி செலுத்தப்பட்டதுடன், பின்னர் ஊர்வலமாக வவுனியா பழைய பேரூந்து நிலையத்திற்கு எடுத்துச்செல்லப்பட்டது.
+Shantan, who was staying at the Trichy special camp, passed away following the illness.
 
-அங்கு பெருந்திரளான பொதுமக்கள் கலந்துகொண்டு கண்ணீருக்கு மத்தியில் அவரது உடலுக்கு அஞ்சலி செலுத்தினர்.அதனைத்தொடர்ந்து தொடர்ந்து அங்கிருந்து ஊர்வலமாக மாங்குளம் பகுதிக்கு கொண்டு  செல்லப்பட்டது
+In this case, her body was taken to the Katunayake International Airport and placed at the Negombo State Hospital for autopsy.. His body was taken to Vavuniya after the autopsy.
+
+Santhan's body was placed in a decorated car at 7.30 am today (03) at 7.30 am in front of the office of the Vavuniya former militants.
+
+There, a large number of civilians participated and paid tribute to her body amid tears.
 
 ◼️
 
 [Data](articles/cb44841f.json)
+
+[Extended Data](ext_articles/cb44841f.ext.json)
 
 ---
 
@@ -2147,51 +2221,5 @@ The Criminal Investigations Department (CID) arrested Dr Ratnayake yesterday aft
 [Data](articles/ca0aafbb.json)
 
 [Extended Data](ext_articles/ca0aafbb.ext.json)
-
----
-
-### Additional Health Secretary Dr. Saman Ratnayake remanded
-
-*2024-03-02 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97685/additional-health-secretary-dr-saman-ratnayake-remanded) · `en`
-
-Additional Secretary of the Ministry of Health Saman Ratnayake who was arrested on Friday evening (March 01), has been remanded until March 04.
-
-He was produced before the Maligakanda Magistrate’s Court this morning (March 02).
-
-The Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
-
-Dr. Ratnayake was placed under arrest 9 hours after he arrived at the CID premises on Friday morning to provide a statement.
-
-UPDATE: Dr. Ratnayake has been brought to the Magazine New Remand Prison in Colombo after the Maligakanda Magistrate ordered to place him behind bars on remand. He is slated to be moved to the Mahara Prison later.
-
-◼️
-
-[Data](articles/940f05ea.json)
-
-[Extended Data](ext_articles/940f05ea.ext.json)
-
----
-
-### Saman Ratnayake remanded
-
-*2024-03-02 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194044) · `si`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, has been remanded until the 14th. He was summoned by the Criminal Investigation Department (CID) regarding the humian emoneglabulin incident.
-
-🟩
-
-Additional Secretary to the Ministry of Health Saman Ratnayake has been remanded till the 14th.
-
-He was produced before the Maligakanda court today (02), and this order was issued.
-
-Saman Ratnayake was summoned to the Criminal Investigation Department regarding the controversial humian emoneglabulin incident.
-
-The Criminal Investigations Department was arrested by the Criminal Investigation Department (CID) accidents.
-
-◼️
-
-[Data](articles/ec531bbb.json)
-
-[Extended Data](ext_articles/ec531bbb.ext.json)
 
 ---

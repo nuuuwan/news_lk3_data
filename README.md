@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 08:17:38**
+As of **2024-03-03 08:33:19**
 
 ## Newspaper Stats
 
-*Scraped **10,511** Articles*
+*Scraped **10,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ economynextcom | 543
 dailyftlk | 561
 islandlk | 568
 adalk | 884
-adaderanalk | 1,282
-tamilmirrorlk | 1,283
+adaderanalk | 1,283
+tamilmirrorlk | 1,285
 virakesarilk | 1,416
 dailymirrorlk | 1,590
-adaderanasinhalalk | 1,624
+adaderanasinhalalk | 1,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,509 (100.0%) of 10,511 articles have been extended.
+10,511 (100.0%) of 10,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
+
+### Showers expected in several districts
+
+*2024-03-03 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97696/showers-expected-in-several-districts) · `en`
+
+Showers or thundershowers may occur at a few places in Kalutara, Ratnapura, Nuwara-Eliya, Galle and Matara districts in the evening or night, according to the Meteorology Department.
+
+Mainly dry weather will prevail elsewhere in the island, it said.
+
+The public is kindly requested to take adequate precautions to minimize the damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0a168597.json)
+
+---
+
+### நாட்டில் வறட்சியான காலநிலை காணப்படும்
+
+*2024-03-03 08:16:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-வறட்சியான-காலநிலை-காணப்படும்/175-334114) · `ta`
+
+சப்ரகமுவ, மேல், வடமேல், தென் மற்றும் கிழக்கு  மாகாணங்களிலும் அத்துடன் மன்னார் மாவட்டத்திலும் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென  வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+காலி, மாத்தறை, களுத்துறை, இரத்தினபுரி மற்றும் நுவரெலியா மாவட்டங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+களுத்துறை  தொடக்கம் காலி  ஊடாக மாத்தறை  வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின்  சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வடகிழக்குத் திசையில்  இருந்து  காற்று வீசும்.
+
+கொழும்பு  தொடக்கம் புத்தளம்  ஊடாக காங்கேசன்துறை  வரையான அத்துடன்  மாத்தறை தொடக்கம்  ஹம்பாந்தோட்டை ஊடாக பொத்துவில்  வரையான கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 40 ‐ 45 கிலோமீற்றரிலும் கூடிய வேகத்தில் அடிக்கடி காற்று அதிகரித்து வீசக்கூடும்.
+
+◼️
+
+[Data](articles/3a06b927.json)
+
+---
+
+### අභිරහස් මරණ දෙකක්
+
+*2024-03-03 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194065) · `si`
+
+නොච්චියාගම - පන්වැව ප්‍රදේශයේ පුද්ගලයෙකු කුඹුරක ඇති වළක් තුළ සැකකටයුතු ලෙස මිය ගොස් තිබේ.
+
+ඒ සම්බන්ධයෙන් ඊයේ (02) දහවල් කාලයේ දී නොච්චියාගම පොලීසියට ලද තොරතුරක් මත පරික්ෂණ ආරම්භ කර ඇත.
+
+මිය ගොස් ඇත්තේ, මාරගහවැව - නොච්චියාගම ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු පෙරේදා සවස් කාලයේ දී කුඹුරේ ඇති පැලට යන බව පවසා නිවසින් පිට ව ගොස් තිබිණි.
+
+ඔහු යළි නිවස වෙත නොපැමිණීම හේතුවෙන් මරණකරුගේ බිරිඳ විසින් නොච්චියාගම පොලිස් ස්ථානයට පැමිණිල්ලක් ද කර ඇත.
+
+මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, සිද්ධිය සම්බන්ධයෙන් නොච්චියාගම පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+මේ අතර මීගමුව - කාමච්චෝඩය පොළ භූමියේ තිබී නාඳුනන පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් හමු ව තිබේ.
+
+මරණකරුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති අතර, ඔහු වයස අවුරුදු 60ත් 70ත් අතර වයසේ පසු වන, උස අඩි 05යි අගල් 06ක් පමණ වන, තළෙළු සාමාන්‍ය සිරුරක් සහිත පුද්ගලයෙකු බව පොලීසිය පවසයි.
+
+ඔහු නිල් හා ගුරු පාට බතික් සරමක් හා ගුරු පාට අත්දිග කමිසයක් හැඳ සිටින බව පොලීිසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/636b25f3.json)
+
+---
 
 ### Wimal for bribery case
 
@@ -73,6 +139,8 @@ If there are decreases in consumer goods prices, they are prepared to offer corr
 ◼️
 
 [Data](articles/bd6c5bdb.json)
+
+[Extended Data](ext_articles/bd6c5bdb.ext.json)
 
 ---
 
@@ -168,6 +236,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### ’பாதிக்கப்பட்டவர்களுக்கு நீதி கிடைக்கவில்லை’
+
+*2024-03-03 03:44:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்டவர்களுக்கு-நீதி-கிடைக்கவில்லை/175-334113) · `ta`
+
+இலங்கையின் அண்மைய பொருளாதார முன்னேற்றம், புதிய சட்டங்களால் இருட்டடிப்பு செய்யப்படுவதாக ஐக்கிய நாடுகளின் மனித உரிமைகள் ஆணையாளர் தெரிவித்துள்ளார்.
+
+ஐக்கிய நாடுகளின் மனித உரிமைகள் பேரவையின் 55 ஆவது கூட்டத்தொடரில் உரையாற்றிய போதே அவர் இவ்வாறு தெரிவித்துள்ளார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+இலங்கையில் பல தசாப்தங்களாக நீடித்த உள்நாட்டு யுத்தம் நிறைவடைந்து இந்த வருடத்துடன் 15 வருடங்கள் நிறைவு பெறுகின்றன. எனினும், மனித உரிமை மீறல்கள் தொடர்பில் இன்னமும் அக்கறை செலுத்தப்படாமல் உள்ளது.
+
+காணாமலாக்கப்பட்டவர்களின் குடும்பங்கள் தமது அன்புக்குரியவர்களை தொடர்ந்தும் தேடி வருகின்றனர். அவர்கள் அச்சுறுத்தல்கள், கைதுகள், வன்முறைகளையும் எதிர்கொள்கின்றனர் என்றார் . (a)
+
+◼️
+
+[Data](articles/abb5ce8a.json)
+
+---
+
 ### Young man dies
 
 *2024-03-03 03:39:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-சுவர்-வீழ்ந்து-இளைஞன்-உயிரிழப்பு/175-334112) · `ta`
@@ -258,23 +344,29 @@ This is due to the fall in agricultural and garment export income, the Central B
 
 ---
 
-### ලෝක වනජීවී දිනය : ශ්‍රී ලංකාවේ 'වනජීවී තරු හත' ඔබ හඳුනනවා ද?
+### World Wildlife Day: Are you aware of the 'wildlife stars seven' in Sri Lanka?
 
 *2024-03-03 02:04:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg9wemy7ngo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ඉතා ඉහළ ජෛව විවිධත්වයක් ඇති ශ්‍රී ලංකාවේ ප්‍රමුඛ වනසත්ත්ව විශේෂ 07ක් (Top Seven Wild Sri Lanka) වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව පසුගිය කාලයේ ප්‍රකාශයට පත්කර තිබේ.
+"World Wildlife Day highlights 'wildlife stars seven' in Sri Lanka, showcasing seven leading species, including four mammals, two reptiles, and one bird, emphasizing conservation efforts."
 
-ලෝක වනජීවී දිනය : ශ්‍රී ලංකාවේ 'වනජීවී තරු හත' ඔබ හඳුනනවා ද?
+🟩
 
-වනසතුන් ගැන තොරතුරු බෙදා ගැනීමට සහ උන් සංරක්ෂණය ගැන අද බොහෝ දෙන අවදානය යොමු කරති.
+There is no novention here. Video Head, Ven.
 
-ඉතා ඉහළ ජෛව විවිධත්වයක් ඇති ශ්‍රී ලංකාවේ ප්‍රමුඛ වනසත්ත්ව විශේෂ 07ක් (Top Seven Wild Sri Lanka) වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව පසුගිය කාලයේ ප්‍රකාශයට පත්කර තිබේ.
+World Wildlife Day: Are you aware of the 'wildlife stars seven' in Sri Lanka?
 
-එම 'වනජීවී තරු හත' ඔබ හඳුනනවා ද? ක්ෂීරපායි විශේෂ හතරක්, උරග විශේෂ දෙකක් සහ එක් කුරුලු විශේෂයක් ඊට ඇතුළත් වේ.
+Many people today focus on sharing information about wildlife and conservation.
+
+The Department of Wildlife Conservation has published seven leading species of Sri Lanka (Top Seven Wild Sri Lanka).
+
+Are you aware of that 'seven wildlife stars'?It includes four species of mammals, two species and one bird.
 
 ◼️
 
 [Data](articles/72f8c49e.json)
+
+[Extended Data](ext_articles/72f8c49e.ext.json)
 
 ---
 
@@ -2125,89 +2217,5 @@ After investigating the arrested persons, they were allowed to go to the body wh
 [Data](articles/72a8cc41.json)
 
 [Extended Data](ext_articles/72a8cc41.ext.json)
-
----
-
-### Problem with exploiting in the egg
-
-*2024-03-02 10:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டையில்-சுரண்டினால்-சிக்கல்/175-334081) · `ta`
-
-Minister Mahinda Amaraweera plans to prevent egg traders from exploiting consumers by setting a reasonable maximum retail price, aiming to reduce the cost from Rs 60 to around Rs 30.
-
-🟩
-
-When the cost of production for an egg in the country costs about 30 rupees, people have to buy it for Rs 60.. Minister Mahinda Amaraweera said that steps will be taken to prevent traders from exploiting the people.
-
-Accordingly, from next week, the Minister added that the people will take appropriate action to buy eggs at a reasonable maximum retail price.. Ssh
-
-◼️
-
-[Data](articles/5111add7.json)
-
-[Extended Data](ext_articles/5111add7.ext.json)
-
----
-
-### Heat felt by human body raised to caution level in four provinces
-
-*2024-03-02 10:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-felt-by-human-body-raised-to-caution-level-in-four-provinces/108-278109) · `en`
-
-The temperature felt on the human body is expected to increase up to ‘caution level’ at some places in Northwestern, Western, Southern and Sabaragamuwa Provinces and in Mannar District, according to the Department of Meteorology.
-
-It means fatigue is possible in case of prolonged exposure to heat these days in these areas.
-
-Also, heat cramps can result from continuing activity in the heat.
-
-If it is raised to extreme caution level, heat cramps and heat exhaustion are possible. Continuing activity can lead to heat stroke.
-
-◼️
-
-[Data](articles/2d5c3a97.json)
-
-[Extended Data](ext_articles/2d5c3a97.ext.json)
-
----
-
-### Gunfire near Haiti airport disrupts flights for second day
-
-*2024-03-02 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97679/gunfire-near-haiti-airport-disrupts-flights-for-second-day) · `en`
-
-Flights at Port-au-Prince airport in Haiti’s capital have been disrupted for the second straight day by heavy gunfire nearby, as the Caribbean nation grapples with surging gang violence and political instability.
-
-The US Embassy in Haiti issued a security alert on Friday, warning of gunfire and disruptions to traffic near the domestic and international terminals of the Toussaint Louverture International Airport, as well as surrounding areas including a hotel and the Central Directorate of the Judicial Police.
-
-“The US Embassy is temporarily halting travel of official US personnel to the airport and instructing any US personnel at the airport to remain there,” the embassy said.
-
-It comes a day after shootings erupted across Haiti’s capital, forcing flight cancellations and killing at least four people during an attack on a police station.
-
-American Airlines said Thursday it had suspended its daily service between Miami and Toussaint Louverture International Airport in Port-au-Prince.
-
-...
-
-[Data](articles/4cb9c0e3.json)
-
-[Extended Data](ext_articles/4cb9c0e3.ext.json)
-
----
-
-### Man arrested with illegal cigarettes
-
-*2024-03-02 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194037) · `si`
-
-A 42-year-old was arrested in Negombo for smuggling illegal cigarettes, discovered by the LTTE.
-
-🟩
-
-A person has been arrested in Negombo with a large haul of cigarettes imported illegally imported.
-
-According to information received by the officers of the Police Special Task Force, the cigarettes that were imported and imported to the country have been discovered by the LTTE.
-
-A 42-year-old person has been arrested in connection with the incident and has been handed over to the Negombo Police Station for further investigations.
-
-◼️
-
-[Data](articles/24ed0a49.json)
-
-[Extended Data](ext_articles/24ed0a49.ext.json)
 
 ---

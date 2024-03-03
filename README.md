@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 21:02:40**
+As of **2024-03-03 21:17:49**
 
 ## Newspaper Stats
 
-*Scraped **10,620** Articles*
+*Scraped **10,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 544
 dailyftlk | 561
 islandlk | 569
 adalk | 899
-adaderanalk | 1,295
+adaderanalk | 1,296
 tamilmirrorlk | 1,305
 virakesarilk | 1,426
 dailymirrorlk | 1,611
@@ -26,27 +26,73 @@ adaderanasinhalalk | 1,648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,617 (100.0%) of 10,620 articles have been extended.
+10,620 (100.0%) of 10,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-03 (Sunday)
 
-### කොළඹ රත්කළ මහ රෑ පුංචි යුද පිටිය CCTV කැමරාවේ
+### Fire breaks out at school in Weligama
+
+*2024-03-03 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97707/fire-breaks-out-at-school-in-weligama-) · `en`
+
+Despite nearly 150 students being present inside the premises at the time of the incident, no injuries or casualties have been reported.
+
+However, Ada Derana’s reporter confirmed that the fire has caused significant damage to the school’s property.
+
+While the exact cause of the fire remains unknown, police are conducting further investigations to determine the underlying factors.
+
+◼️
+
+[Data](articles/d84422df.json)
+
+---
+
+### The President's instructions to prepare a national program that can be implemented from the lower level in order to succeed in the agricultural modernization program
+
+*2024-03-03 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177826) · `ta`
+
+President Ranil Wickremesinghe directs authorities to develop a national agricultural modernization program, emphasizing collaboration between state and private sectors. The initiative aims to overcome implementation challenges through a Joint Program involving all stakeholders. Senior Professor Gamini Senanayake highlights the progress and need for a cabinet subcommittee to address obstacles.
+
+🟩
+
+President Ranil Wickremesinghe has issued a directive to the relevant authorities to combine all parties in the state and private sector to prepare a national program to implement the agricultural modernization program.
+
+The President stressed the importance of the support of the state and private agricultural research institutions and the university structure to win the challenges faced by the implementation of these projects, even though the annual allocation of the budget is being made at national, provincial and local government levels, as state and private companies are acting separately.
+
+President Ranil Wickremesinghe made these comments at a recent meeting of the Agricultural Modernization Program held at the Presidential Office.
+
+President Ranil Wickremesinghe pointed out the need to prepare this national program in order to implement the policies of the government at the lower level.
+
+...
+
+[Data](articles/0cbdf513.json)
+
+[Extended Data](ext_articles/0cbdf513.ext.json)
+
+---
+
+### Little War Station, heated Colombo
 
 *2024-03-03 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194089) · `si`
 
-කොළඹ ආමර්වීදිය ප්‍රදේශයේ හෝටලයකට අද (03) අලුයම ඇතුළුවූ පිරිසක් කඩු, මුගුරුවලින් හෝටලයේ දේපළවලට හානිකර එහි සේවකයින්ටද තුවාල කර තිබුණි.
+In Colombo, a hotel in Armorweera was attacked, injuring employees. The owner, hired owner, and victims were assaulted. Armed group entered the hotel, and CCTV footage captured the incident.
 
-හෝටලයේ භුක්තිය සම්බන්ධයෙන් අයිතිකරු සහ කුලීකරුවන් අතර ඇතිවූ මතභේදාත්මක තත්ත්වයක් පහරදීමට හේතුවී ඇති බව පොලීසිය පවසයි.
+🟩
 
-අලුයම 12.29 ට අදාළ ආයුධ සන්නද්ධ පිරිස හෝටලයට ඇතුලුවන ආකාරය අසළ තිබූ CCTV කැමරාවක සටහන්ව තිබුණි.
+Employees were also injured in a hotel in Armorweedi, a hotel in Armorweera, Colombo today (03).
 
-පිරිස හෝටලයේ දේපළවලට පහරදෙන අවස්ථාවේ එහි ආහාර ගනිමින් සිටී පිරිස කලබලවී පිටතට ගමන් කරන අයුරුද  CCTV කැමරා දර්ශනවල සටහන්ව ඇත.
+Police say that the owner and hired owner and the hired victims had been assaulted.
+
+The CCTV camera was noted in the next morning, the armed group entering the hotel.
+
+CCTV cameras are also trapped in the CCTV cameras when the people are attacking the hotel property.
 
 ◼️
 
 [Data](articles/e6d515ba.json)
+
+[Extended Data](ext_articles/e6d515ba.ext.json)
 
 ---
 
@@ -78,30 +124,6 @@ According to political sources, the committee met on Wednesday and every week wi
 
 ---
 
-### The President's instructions to prepare a national program that can be implemented from the lower level in order to succeed in the agricultural modernization program
-
-*2024-03-03 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177826) · `ta`
-
-President Ranil Wickremesinghe directs authorities to develop a national agricultural modernization program, emphasizing collaboration between state and private sectors. The initiative aims to overcome implementation challenges through a Joint Program involving all stakeholders. Senior Professor Gamini Senanayake highlights the progress and need for a cabinet subcommittee to address obstacles.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the relevant authorities to combine all parties in the state and private sector to prepare a national program to implement the agricultural modernization program.
-
-The President stressed the importance of the support of the state and private agricultural research institutions and the university structure to win the challenges faced by the implementation of these projects, even though the annual allocation of the budget is being made at national, provincial and local government levels, as state and private companies are acting separately.
-
-President Ranil Wickremesinghe made these comments at a recent meeting of the Agricultural Modernization Program held at the Presidential Office.
-
-President Ranil Wickremesinghe pointed out the need to prepare this national program in order to implement the policies of the government at the lower level.
-
-...
-
-[Data](articles/0cbdf513.json)
-
-[Extended Data](ext_articles/0cbdf513.ext.json)
-
----
-
 ### President hosts meeting with Spiritual Leader of Dawoodi Bohra Community
 
 *2024-03-03 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-hosts-meeting-with-Spiritual-Leader-of-Dawoodi-Bohra-Community/108-278138) · `en`
@@ -124,19 +146,25 @@ In a gesture of goodwill, a meticulously compiled book showcasing the Bohra comm
 
 ---
 
-### ශ්‍රී ලන්කන් ගුවන් යානා 8ක් ඉවත් කර ඇතත් රු.මි. 5646ක් කුලී ගෙවලා
+### 8 Sri Lankan aircraft have been removed but Rs. 5646 paid the rent
 
 *2024-03-03 20:05:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-8ක්-ඉවත්-කර-ඇතත්-රු-මි--5646ක්-කුලී-ගෙවලා/11-408400) · `si`
 
-ශ්‍රී ලංකන් ගුවන් සමාගමට අයත් ගුවන්යානා 08ක් 2023 වර්ෂයේ පෙබරවාරි මස සිට ක්‍රියාවිරහිතව භාවිතයෙන් ඉවත් කොට තිබුණද, එම ගුවන්යානා සඳහා බදු කුලී ලෙස රුපියල් මිලියන 5,646.76ක මුදලක් ගුවන් සමාගම විසින් ගෙවා තිබූ බව ජාතික විගණන කාර්යාලය මගින් මාර්තු 01වන දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+SriLankan Airlines removed 8 aircraft in Feb 2023, paying Rs. 5,646.76 million. The audit report reveals the aircraft were inactive due to engaging in planes, hindering airline planning.
 
-ගුවන් සමාගමට අවශ්‍ය ගුවන්යානා සංඛ්‍යාව 27කි. දැනට සමාගම සතුව ඇති ගුවන්යානා සංඛ්‍යාව 24කි. මින් ගුවන්යානා 08ක් 2023-02-20 වන දින විට ක්‍රියාවිරහිතව භාවිතයෙන් ඉවත් කොට තිබූ බව එම විගණන වාර්තාවේ සඳහන්වේ. භාවිතයෙන් ඉවත්කොට ඇති මෙම ගුවන්යානා සඳහා 2021 වර්ෂයේ සිට 2023-02-20 දක්වා කාලය තුළ බදු කුලී ලෙස රුපියල්  මිලියන 5,646.76ක මුදලක් ගුවන් සමාගම විසින් ගෙවා තිබුණි.
+🟩
 
-මෙම ගුවන්යානා අක්‍රිය වී ඇත්තේ ගුවන්යානාවල ඇති එන්ජින්දෝෂ හේතුවෙන් බවද විගණන වාර්තාවේ සඳහන් වේ. ශ්‍රී ලංකන් ගුවන් සමාගම විසින් දැනට මෙහෙයුම් කටයුතු සිදු කරන ගුවන්යානා සංඛ්‍යාව 18ක් බවද සඳහන්වේ. මේ නිසා ගුවන් ගමන් සැලසුම්කරණයට බාධා එල්ල වී ඇති බව ගුවන් සමාගම මගින් විගණනයට සඳහන් කර ඇත.
+Eight of SriLankan Airlines have been removed from February 2023, a recent audit report issued by the National Audit report to the airline, a sum of Rs..
+
+The airline for airline is 27. The company currently owns 24 aircraft. The audit report states that eight aircraft had been removed from use by 8023-2013.. The aircraft had been removed from the use of Rs. 5,646.76 million to Rs. 5,646.76 million to Rs. 5,646.76 million.
+
+The audit report states that the aircraft is inactive due to engaging in planes. SriLankan Airlines is currently conducting operations. As a result, airline planning has been hindered by the airline.
 
 ◼️
 
 [Data](articles/704284db.json)
+
+[Extended Data](ext_articles/704284db.ext.json)
 
 ---
 
@@ -208,23 +236,31 @@ A woman has been admitted to the hospital after a motorcycle and auto collided h
 
 ---
 
-### 2024 පාසල් වාර සටහන සංශෝධනය වෙයි
+### 2024 School Region Amendment
 
 *2024-03-03 19:07:18* · [`adalk`](https://www.ada.lk/breaking_news/2024-පාසල්-වාර-සටහන-සංශෝධනය-වෙයි/11-408398) · `si`
 
-අ.පො.ස.සාමාන්‍ය පෙළ ,5 ශිෂ්‍යත්ව හා උසස් පෙළ විභාග දින නියමවීමත් සමග අධ්‍යාපන අමාත්‍යාංශය මගින්  2024 වර්ෂයේ පාසල් වාර සටහන සංශෝධනය කර තිබේ.
+The 2024 School Region Amendment adjusts the GCE O/L and A/L examination schedules, affecting the Ministry of Education's timeline. The first phase of the first school term starts February 19, running from April 24 to May 3. The second term operates from June 3 to August 16, with the third term from November 26 to January 17, 2025. The school year ends on January 17, 2025, instead of January 31, 2025.
 
-ඒ අනුව සිංහල හා දෙමළ මාධ්‍ය පාසල් සඳහා මෙම වසරේ   පෙබරවාරි මස 19 වනදා ආරම්භ වු පළමු පාසල් වාරයේ පළමු අදියර පෙර පරිදිම අප්‍රේල් මස 10 වනදා දක්වාද දෙවන අදියර  පෙර පරිදිම අප්‍රේල් මස 24 වනදා සිට මැයි මස 03වනදා දක්වා ක්‍රියාත්මක වේ.
+🟩
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මැයි 06 දා සිට මැයි 15 දක්වා පැවැත්වීමෙන් පසු  ආරම්භ වන පළමු පාසල් වාරයේ තෙවන අදියර මැයි මස 20 වනදා සිට මැයි මස 31 වනදා දක්වා පැවැත්වේ.
+With the GCE O / L examination, 5 Scholarship and A / L examination days, the Ministry of Education has been amended to the Ministry of Education in 2024.
 
-දෙවන පාසල් වාරය ජුනි මස 03 වනදා සිට අගෝස්තු මස 16 වනදා දක්වා ක්‍රියාත්මක වේ.
+Accordingly, the first phase of the first phase of the first phase of the first phase of the first school on February 19 this year, the first phase of the first phase of the first school on February 19 this year will be effective on April 24 to May 3.
 
-තෙවන පාසල් වාරයේ පළමු අදියර අගෝස්තු මස 26 වනදා සිට නොවැම්බර් මස 22 වනදා දක්වා පැවැත්වෙන අතර උසස් පෙළ විභාගය නොවැම්බර් 25 සිට දෙසැම්බර් 20 දක්වා පැවැත්වීමෙන් පසු   තෙවන පාසල් වාරයේ දෙවන අදියර 2025 වසරේ ජනවාරි මස 02 සිට එම මස 17 දක්වා පැවැත්වේ.
+The first stage of the first phase of the first school term from May 6 from May 6th, the first phase of the first school will commence from May 6th May will be held on May 20th.
+
+Second school term operates from June 3 to 16th of August.
+
+The first phase of the third term will be held on November 26 to November 25, the second stage of the third term from January 2 to 17, 2025.
+
+The first phase of the first stage of February 19 this year, the first phase of the first stage of March 19 was on April 17 to May 3rd to March 20 to June 20.
 
 ...
 
 [Data](articles/a0c199f1.json)
+
+[Extended Data](ext_articles/a0c199f1.ext.json)
 
 ---
 
@@ -2253,25 +2289,5 @@ The Central Bank said it would clarify in Parliament following widespread critic
 [Data](articles/e463b577.json)
 
 [Extended Data](ext_articles/e463b577.ext.json)
-
----
-
-### Maldivian expands horizons: New flight route to Colombo from April 25
-
-*2024-03-03 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maldivian-expands-horizons-New-flight-route-to-Colombo-from-April-25/108-278121) · `en`
-
-The Maldivian, the flag carrier of the Maldives, announced the commencement of its highly anticipated service to the Bandaranaike International Airport (BIA) from April 25.
-
-While looking forward to welcoming passengers on board, the Maldivian have decided to operate two weekly flights to Colombo, departing every Thursdays and Saturdays.
-
-This strategic expansion further solidifies Maldivian’s commitment to connecting the Maldives with key international destinations, enhancing travel options for passengers and promoting cultural and economic exchange between the two nations.
-
-Commenting on the launch of the new destination, Managing Director of Maldivian Ibrahim Iyas said that they have long waited to serve Colombo and bring both Maldives and Sri Lanka closer on business and leisure.
-
-...
-
-[Data](articles/ea559d82.json)
-
-[Extended Data](ext_articles/ea559d82.ext.json)
 
 ---

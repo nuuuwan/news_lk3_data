@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 05:37:48**
+As of **2024-03-03 06:18:03**
 
 ## Newspaper Stats
 
-*Scraped **10,498** Articles*
+*Scraped **10,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 169
 newsfirstlk | 363
 economynextcom | 543
 dailyftlk | 561
-islandlk | 566
+islandlk | 568
 adalk | 884
 tamilmirrorlk | 1,281
 adaderanalk | 1,282
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,486 (99.9%) of 10,498 articles have been extended.
+10,494 (99.9%) of 10,500 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The BBC obtained an image of the ship on 21 February, which showed it submerged 
 ...
 
 [Data](articles/004e3d4e.json)
+
+[Extended Data](ext_articles/004e3d4e.ext.json)
 
 ---
 
@@ -84,6 +86,8 @@ This is due to the fall in agricultural and garment export income, the Central B
 
 [Data](articles/18130473.json)
 
+[Extended Data](ext_articles/18130473.ext.json)
+
 ---
 
 ### SLT-MOBITEL teams up with BaseKit Platform UK to launch new web builder ‘CubKit’ empowering Lankan SMEs
@@ -100,6 +104,8 @@ The SLT-MOBITEL’s MSME Product Development team has entered into an agreement 
 
 [Data](articles/240e263c.json)
 
+[Extended Data](ext_articles/240e263c.ext.json)
+
 ---
 
 ### HNB Assurance welcomes Rimoe Saldin as Non-Independent Non-Executive Director
@@ -113,6 +119,8 @@ Saldin is a Fellow of the Institute of Chartered Accountants of Sri Lanka and an
 ...
 
 [Data](articles/f3dd965f.json)
+
+[Extended Data](ext_articles/f3dd965f.ext.json)
 
 ---
 
@@ -128,6 +136,24 @@ Hulugalle’s career has spanned the globe, including senior hospitality positio
 
 [Data](articles/1ae8183f.json)
 
+[Extended Data](ext_articles/1ae8183f.ext.json)
+
+---
+
+### Sampath Bank recognized at the ACCA Sri Lanka sustainability reporting awards 2023
+
+*2024-03-03 01:40:00* · [`islandlk`](http://island.lk/sampath-bank-recognized-at-the-acca-sri-lanka-sustainability-reporting-awards-2023/) · `en`
+
+Sampath Bank was adjudged as the Runner Up in the Banking Category at the prestigious ACCA Sri Lanka Sustainability Awards 2023. The awards ceremony, organised by the Association of Chartered Certified Accountants (ACCA), Sri Lanka, took place on 20th February 2024 at the Hilton Residencies in Colombo.
+
+Since 2004, ACCA Sri Lanka has striven to reward and recognize those organizations, giving credence to their sustainability practices with recognition of the strong link between business strategy, corporate governance, and sustainability.
+
+The evaluation process leading to Sampath Bank’s Runner Up position involved a thorough assessment by an expert panel of judges. The report submitted by the bank was meticulously reviewed based on three main criteria such as Completeness, Credibility, and Communication.
+
+...
+
+[Data](articles/28d62c38.json)
+
 ---
 
 ### Workshop on Procurement Planning by Open University’s Faculty of Management Studies
@@ -141,6 +167,8 @@ Recently, it launched a new postgraduate degree program, MSc in Public Procureme
 ...
 
 [Data](articles/e3810a33.json)
+
+[Extended Data](ext_articles/e3810a33.ext.json)
 
 ---
 
@@ -156,6 +184,8 @@ The history of the Jetwing family of companies is essentially the story of its f
 
 [Data](articles/43bbce45.json)
 
+[Extended Data](ext_articles/43bbce45.ext.json)
+
 ---
 
 ### Lorenz and old Matara
@@ -169,6 +199,8 @@ From his humble beginnings in Matara to being the most popular man of his day, C
 ...
 
 [Data](articles/b60c9e57.json)
+
+[Extended Data](ext_articles/b60c9e57.ext.json)
 
 ---
 
@@ -2157,31 +2189,5 @@ The anniversary is celebrated as a priority as the security guards of the Nation
 [Data](articles/9d159cee.json)
 
 [Extended Data](ext_articles/9d159cee.ext.json)
-
----
-
-### The accident that killed a young man
-
-*2024-03-02 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194034) · `si`
-
-A 19-year-old from Misalee died in an accident near Jaffna-Kandy road, caused by a bus traveling to Vavuniya. The driver was arrested.
-
-🟩
-
-A young man was killed in an accident near the Jaffna-Kandy road.
-
-The accident had occurred when a bus was traveling to Vavuniya to Vavuniya to Vavuniya.
-
-The youth who was seriously injured in the accident had died after admission to the Jaffna Hospital.
-
-The deceased is a 19 year old resident of the Misalee area.
-
-The bus driver was arrested by the Chavakachcheri Police regarding the accident.
-
-◼️
-
-[Data](articles/0a683fac.json)
-
-[Extended Data](ext_articles/0a683fac.ext.json)
 
 ---

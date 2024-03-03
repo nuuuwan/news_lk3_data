@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-03 19:50:07**
+As of **2024-03-03 20:02:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,645
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,610 (100.0%) of 10,612 articles have been extended.
+10,612 (100.0%) of 10,612 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,19 +76,25 @@ The cause of the fire is yet to be determined and the police are conducting furt
 
 ---
 
-### බුද්ධ ශාසනයට වන අගතියක් ගැන මහ නායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක්
+### General Leaders Thera to visit the President
 
 *2024-03-03 18:58:50* · [`adalk`](https://www.ada.lk/religion/බුද්ධ-ශාසනයට-වන-අගතියක්-ගැන-මහ-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/4-408397) · `si`
 
-භික්ෂු ශාසනයෙන් නෙරපා හැර ඇතිමීවනපලානේ සිරිධම්මාලංකාරනමින් පෙනී සිටිමින් බුද්ධ දර්ශනය විකෘති කරමින් උතුම් බුදු දහමට නිගා කරමින් ශාසන විනාශකාරී කටයුත්තක නියැලී සිටින සිරිසේන සපුතන්ත්‍රි නැමැත්තාට එරෙහිව වහාම නීතිය ක්‍රියාත්මක කරන ලෙස ත්‍රෛයිනිකායික මහා නා හිමිවරුන්ගේ අත්සනින් යුතුව ජනාධිපතිවරයාට ලිපියක්.
+General Leaders Thera to visit President. Letter from Trinician Mahanayaran against Sirisena Fonseka, distorting Buddha's vision. Maha Sangha, including Mahanaanayake of Sri Lanka Amaragoda Murti, warns against false ideologies and conspiracy. Presidential Bhikkumulana informed of potential social crisis. Samanera Bhikku Registration implicated in illegal monk activities. Accusations of distorting Buddha's character and spreading false ideologies. Social dignitaries accused of fraudulent management of monastic facilities, leading to societal issues. National Assembly Tripitaka Meal declared National Heritage. Accusations of destroying noble privileges of Sambuddha preaching and misleading public. Condemnation of Buddha and Maham ියාව manuscripts. Creation of inaccuracies and discrimination between monastery and public. Accusations of government pension misuse and misleading institutions. Deep displeasure over regulatory deforestation and false history. Celebration of Buddhist System by Mortizable Sirisena, considered a conspiracy against national security. Maha Sangha demands immediate attention.
 
-මල්වතු පාර්ශවයේ මහා නායක අතිපූජ්‍ය තිබ්බුටුවාවේ ශ්‍රී සිද්ධාර්ථ, අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වර්කාගොඩ ශ්‍රී ඥානරතන, ශ්‍රී ලංකා අමරපුර මහා සංඝ සභාවේ මහානායක අතිපූජ්‍ය වකරගොඩ උයන්ගොඩ මෛත්‍රී මූර්ති, රාමඤ්ඤ මහ නිකායේ මහානායක අතිපූජ්‍ය මකුලාවේ ශ්‍රී විමලාභීන මහා නා හිමිවරුන්ගේ අත්සනින් යුතුව යොමුකොට ඇති එම ලිපියේ මෙසේ සඳහන් වේ .
+🟩
 
-ථෙරවාදී පාලි ත්‍රිපිටකය සම්බන්ධයෙන් සාවද්‍ය මතවාද ප්‍රචාරය කරමින් බුද්ධ චරිතය හා ත්‍රිපිටකාගත බෞද්ධ ඉගැන්වීම් විකෘති කරමින් බරපතළ ශාසන විනාශයක් හා සමාජ අර්බුදයක් නිර්මාණය කිරීමේ කුමන්ත්‍රණකාරී කටයුත්තක නියැලී සිටින මීවනපලානේ සිරිධම්මාලංකාර නමින් පෙනී සිටින භික්ෂු ප්‍රතිරූපකයා පිළිබඳ අවස්ථා ගණනාවකදී අප විසින් ජනාධිපති ඇතුළු වගකිවයුතු අංශ දැනුවත් කර ඇත .
+A letter to the President with the signature of the Trinician Mahanayaran's signature against Sirisena Fonseka, who distort the Buddha's vision, distorting the Buddha's vision and distort the Buddha's vision.
+
+The letter of the Most Veyangoda Maithripala Maha Sangha, Maithripura Maha Sangha, Maithripura Maha Sangha, Maithripura Maha Nikaya, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahathgoda Maha Nikaya Mahanaan, the Mahanaanayake of the Sri Lanka Amaragodi Maha Nikaya, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahanaanayake of the Sri Lanka Amaragoda Murti..
+
+The Presidential Bhikkumulana has been informed by the President and the responsible areas of the Buddhist image, which is preparing to distort the false ideologies and conspiracy to create a social crisis in the Tripitaka.
 
 ...
 
 [Data](articles/fd1c6479.json)
+
+[Extended Data](ext_articles/fd1c6479.ext.json)
 
 ---
 
@@ -138,21 +144,29 @@ It has been revealed that the drug has been abducted on the instructions of powe
 
 ---
 
-### කාන්තාවකට පහර දුන් ඌව ආණ්ඩුකාර මුසම්මිල් ගේ පුතා පලායයි
+### Uva Governor Muzammil son is the rise
 
 *2024-03-03 18:38:28* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවකට-පහර-දුන්-ඌව-ආණ්ඩුකාර-මුසම්මිල්-ගේ-පුතා-පලායයි/11-408396) · `si`
 
-කොළඹ 6 හැව්ලොක් පාර නිවසකට බලහත්කාරයෙන් කඩා වැදි කෝටිපති ව්‍යාපාරික දියණියකට පහර දී මරණීය තර්ජනය සිදුකිරීම සම්බන්ධයෙන් ලද පැමිණිල්ලක් අනුව ඌව පළාත් ආණ්ඩුකාර මොහොමඩ් මුසම්ම්ල් මහතාගේ පුතෙකුඅත්අඩංගුවට ගැනීම සඳහා යාල ප්‍රදේශයේ සංචාරක හෝටලයක් වැටලීමත් සමගම සැකකරු පලා ගොස් ඇතැයි වැල්ලවත්ත පොලිසිය කියයි.
+Uva Governor Muzammil's son is involved in a case where a suspect fled to Yala after a complaint in Colombo. The suspect's luxury jeep and phone were seized. A foreign travel ban was filed against the suspect by Australian citizens. The suspect was in Kataragama, and a special police team raided a hotel in Yala, finding the jeep in the car park. The cause of an attack on a woman is unclear, with the suspect claiming innocence. The case is under investigation by Sri Lanka Police.
 
-සැකකරුගේ සුඛෝපභෝගී ජීප් රථය සහ ජංගම දුරකථනය පොලිස් භාරයට ගෙන ඇත. පහර කෑ එම කාන්තාව පෞද්ගලික රෝහලක් වෙත ඇතුළත්ව ඇත.
+🟩
 
-ඕස්ට්‍රේලියානු පුරවැසි භාවය හිමි 34 හැවිරිදි කාන්තාවක් සිදු කරන ලද පැමිණිල්ලක් අනුව ගල්කිස්ස මහේස්ත්‍රාත් අධිකරණය වෙත කරුණු වාර්තා කර විදේශ ගමන් තහනමක් ද සැකකරුට එරෙහිව ලබා ගත් බව පොලිසිය කියයි.
+The Wellawatte police say that the suspect had fled to a complaint in the Yala area, according to a complaint with a loyalty of the Uva province, Mohammed Musammal to be arrested in Colombo 6 Havelock Road, Colombo.
 
-සැකකරු කතරගම ප්‍රදේශයට ගොස් සිටින බවට ලද තොරතුරක් අනුව එහි ගිය විශේෂ පොලිස් කණ්ඩායමක් යාල ප්‍රදේශයේ  සංචාරක හෝටලයක සැකකරු රැඳී සිටින බවට අනාවරණය වීමෙන් පසු එම හෝටලය වැටලූ පොලිසිය එය පරික්ෂා කළද ඔහු සොයා ගැනීමට නොහැකි වීමෙන් අනතුරුව එහි රථ ගාලේ තිබී ඔහුගේ සුඛෝභෝගී ජීප් රථය හා ඒ තුළ තිබී ජංගම දුරකථනය පොලිස් බාරයට ගැනීමට කටයුතු කර ඇත
+The suspect's luxury jeep and the mobile phone have been taken into the police. The woman was attacked by a private hospital.
+
+According to the police, a foreign travel ban was filed against the Mount Lavinia Magistrate's Court on a complaint lodged by a large number of Australian citizenship.
+
+The suspect had gone to Kataragama area, a special police team had raided the hotel in the Yala area, he insisted his luxury jeep and was in the car rouse, but he was in the car park.The mobile phone has taken action to take up the policebage
+
+The cause of the attack is not definitely uncirculated and the suspect has resentful to the suspect and the breach of the woman.
 
 ...
 
 [Data](articles/5ca16abf.json)
+
+[Extended Data](ext_articles/5ca16abf.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 06:54:52**
+As of **2024-03-04 07:19:28**
 
 ## Newspaper Stats
 
-*Scraped **10,674** Articles*
+*Scraped **10,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,79 @@ adaderanalk | 1,301
 tamilmirrorlk | 1,308
 virakesarilk | 1,434
 dailymirrorlk | 1,618
-adaderanasinhalalk | 1,651
+adaderanasinhalalk | 1,652
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,666 (99.9%) of 10,674 articles have been extended.
+10,674 (100.0%) of 10,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### போரா சமூக ஆன்மீகத் தலைவர் ஜனாதிபதியை சந்தித்தார்
+### අද කාලගුණය
+
+*2024-03-04 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194093) · `si`
+
+කළුතර, රත්නපුර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/85609eaf.json)
+
+---
+
+### Bora social spiritual leader met the president
 
 *2024-03-04 06:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போரா-சமூக-ஆன்மீகத்-தலைவர்-ஜனாதிபதியை-சந்தித்தார்/175-334159) · `ta`
 
-போரா சமூகத்தின் ஆன்மீகத் தலைவர் கலாநிதி புனித செய்யதினா முஃபத்தல் செய்புதீன் சாஹிப் மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு நேற்று பிற்பகல் பெஜெட் வீதியிலுள்ள ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்தில் நடைபெற்றது.
+Dr. Sunthu Muffuttin Sahib met President Ranil Wickremesinghe to discuss the Bora community's economic development and the annual Bora Conference.
 
-போரா சமூகத்தின் ஒரு மில்லியனுக்கும் அதிகமான உறுப்பினர்கள் இந்தியா, பாகிஸ்தான், அமெரிக்கா, இங்கிலாந்து, கனடா, இலங்கை, அவுஸ்திரேலியா உள்ளிட்ட பல நாடுகளில் வாழ்கின்றனர்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்ட கலாநிதி செய்யதினா முஃபத்தல் செய்புதீன், இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்ப ஜனாதிபதி நடைமுறைப்படுத்தியுள்ள வேலைத்திட்டத்தைப் பாராட்டினார்.
+The meeting between Dr. Sunthu Muffuttin Sahib and President Ranil Wickremesinghe was held yesterday afternoon at the President's official residence on Bejet Road.
 
-அத்துடன், பம்பலப்பிட்டி போரா பள்ளிவாசலை அண்டி நடத்தப்படும் போரா மாநாட்டை இவ்வருடம் நடத்துவது தொடர்பிலும் ஜனாதிபதியின் கவனத்திற்கு கொண்டு வரப்பட்டது.  (a)
+More than one million members of the Bora community live in many countries, including India, Pakistan, the United States, the UK, Canada, Sri Lanka and Australia.
+
+Dr. Mufatal Warbudin, who was involved in a friendly conversation with President Ranil Wickremesinghe, praised the program implemented by the President to build the economy of Sri Lanka.
+
+In addition, the President's attention was brought to the notice of the Bora Conference held this year.(a)
 
 ◼️
 
 [Data](articles/ef4cf4e2.json)
 
+[Extended Data](ext_articles/ef4cf4e2.ext.json)
+
 ---
 
-### சாந்தனின் இறுதிக்கிரியைகள் இன்று
+### Santhan's funerals today
 
 *2024-03-04 05:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-இறுதிக்கிரியைகள்-இன்று/175-334158) · `ta`
 
-மறைந்த சாந்தன் எனப்படும் தில்லையம்பலம் சுதேந்திரராஜாவின்  உடலுக்கு யாழ். வடமராட்சி, உடுப்பிட்டியில் உள்ள அவரது சகோதரியின் வீட்டில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+Santhan's funeral today: body placed in sister's house in Udupitiya, tribute in Tiravil. Funeral at 10 am, followed by tribute at city community center. Final pilgrimage to Elangulam Hindu cemetery via Valvettithurai and Polikandi.
 
-சாந்தனின் உடல் தாங்கிய ஊர்தி யாழ். வடமராட்சியை நேற்று மாலை சென்றடைந்த பின்னர் தீருவிலில் அஞ்சலிக்காக வைக்கப்பட்டது.
+🟩
 
-சாந்தனின் இறுதிக்கிரியைகள், அவரது சகோதரியின் இல்லத்தில் இன்று காலை 10 மணியளவில் ஆரம்பமாகும்.
+The body of the late Shantan alias Thillaiyambalam Sudhendraraja. Vadamarachchi has been placed in the house of her sister in Udupitiya.
 
-இறுதிக்கிரியைகள் நிறைவு பெற்றதும் அவரது உடல் எடுத்துச் செல்லப்பட்டு ஊரில் உள்ள சனசமூக நிலையத்தில் அஞ்சலி நிகழ்வு இடம்பெறும்.
+Shantan's body -bearing. After reaching Vadamarachchi yesterday evening, it was placed in Tiravil for tribute.
 
-அதனைத் தொடர்ந்து புகழுடல் சாந்தனின் பூர்வீக இல்லத்துக்குக் கொண்டு செல்லப்பட்ட பின் இறுதி யாத்திரை ஆரம்பமாகும்.
+The funeral of Shantan will begin at 10 am at his sister's residence.
 
-வல்வெட்டித்துறை, பொலிகண்டி ஊடாக எள்ளங்குளம் இந்து மயானத்துக்குப் உடல் எடுத்துச் செல்லப்படும் என அறிவிக்கப்பட்டுள்ளது. (a)
+Once the funeral is completed, her body will be taken and the tribute event will take place at the community center in the city.
+
+The final pilgrimage begins after the praise of Santhan's native home.
+
+It has been announced that the body will be taken to the Elangulam Hindu cemetery via Valvettithurai and Polikandi. (A)
 
 ◼️
 
 [Data](articles/d83933b6.json)
+
+[Extended Data](ext_articles/d83933b6.ext.json)
 
 ---
 
@@ -101,6 +125,8 @@ The 2023 Business Partners Awards was attended by Chairman Nandana Ekanayake, Ch
 ...
 
 [Data](articles/9afd6ada.json)
+
+[Extended Data](ext_articles/9afd6ada.ext.json)
 
 ---
 
@@ -168,6 +194,8 @@ Announcing the winners of the World’s Best SME Bank Awards 2024 across all reg
 
 [Data](articles/49048c78.json)
 
+[Extended Data](ext_articles/49048c78.ext.json)
+
 ---
 
 ### Teejay Lanka board gets two independent directors
@@ -196,6 +224,8 @@ Lanka Special Steels Limited, Sri Lanka’s premier and pioneering manufacturer 
 
 [Data](articles/54f48f6d.json)
 
+[Extended Data](ext_articles/54f48f6d.ext.json)
+
 ---
 
 ### New construction work appears to be bouncing back
@@ -213,6 +243,8 @@ Meanwhile, Ajith Ranabahu Rajapaksha, business development officer at Saliya Hom
 ...
 
 [Data](articles/df008b07.json)
+
+[Extended Data](ext_articles/df008b07.ext.json)
 
 ---
 
@@ -2121,29 +2153,5 @@ The suspect had also submitted to the courts today to confess the Magistrate's M
 [Data](articles/b3ac1b77.json)
 
 [Extended Data](ext_articles/b3ac1b77.ext.json)
-
----
-
-### Massive stock of ice in Colombo
-
-*2024-03-03 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194076) · `si`
-
-STF in Colombo arrests 3 suspects with 9 kg ice drugs, valued at Rs. 100 million.
-
-🟩
-
-Three suspects have been arrested by the STF in Colombo with an ice drugs.
-
-The Special Task Force has found 9 kilograms of ice drugs.
-
-The market value was nearly Rs. 100 million.
-
-The suspects and the suspects have been arrested during a raid in Colombo in Colombo by the STF in Colombo.
-
-◼️
-
-[Data](articles/8e014ba1.json)
-
-[Extended Data](ext_articles/8e014ba1.ext.json)
 
 ---

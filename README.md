@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 08:46:58**
+As of **2024-03-04 09:15:33**
 
 ## Newspaper Stats
 
-*Scraped **10,683** Articles*
+*Scraped **10,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,167 @@ economynextcom | 548
 dailyftlk | 572
 islandlk | 578
 adalk | 900
-adaderanalk | 1,301
+adaderanalk | 1,303
 tamilmirrorlk | 1,308
 virakesarilk | 1,434
-dailymirrorlk | 1,618
-adaderanasinhalalk | 1,658
+dailymirrorlk | 1,622
+adaderanasinhalalk | 1,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,680 (100.0%) of 10,683 articles have been extended.
+10,683 (99.9%) of 10,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### ශ්‍රී ලංකා කණ්ඩායමේ බංග්ලාදේශ තරග සංචාරය අදින් ඇරඹෙයි
+### මෙරට අධික තරබාරු පුද්ගලයින් ගණන ඉහළට - ලෝක  ස්ථුලතා දිනය අදයි
+
+*2024-03-04 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194101) · `si`
+
+ලෝකයේ වැඩිහිටි ජනගහනයෙන් බිලියන 1.9කට වඩා වැඩි ප්‍රමාණයක් අධිබර සහිත පුද්ගලයින් වන අතර ඉන් මිලියන 650ක් ස්ථුලතාවයෙන් පෙළෙන බව ජාතික දියවැඩියා මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ප්‍රජා වෛද්‍ය විශේෂඥ ශාන්ති ගුණවර්ධන මහත්මිය පවසන්නීය.
+
+ලෝක ස්ථුලතා දිනය සෑම වසරකම මාර්තු මස 04 වන දිනට එනම් අද දිනට යෙදී තිබේ.
+
+ඒ සම්බන්ධයෙන් අදහස් දක්වමින් ප්‍රජා වෛද්‍ය විශේෂඥ ශාන්ති ගුණවර්ධන මහත්මිය මෙම අදහස් පළ කළාය.
+
+"මේකේ වැදගත්කම වෙන්නේ, හැමෝම දන්න විදියට ස්ථූලතාවය නැත්නම් තරබාරු කියන වචනය තමා වැඩිය හොඳ. මේ තරබාරුබව විශාල ප්‍රශ්නයක් විදියට දැන් මතුවෙමින් පවතිනවා.﻿ මේ නිසා ඇතිවෙන ලෙඩ රෝග ප්‍රමාණයත් වැඩිවෙලා. ලෝකයේ බිලියන 1.9ක් බර වැඩි පුද්ගලයින් ඉන්නවා. ඉන්නවා මිලියන 650ක් තරබාරු බැවින් පෙළෙනවා. එහෙම ගත්තාම ලෝක ජනගහණනේ 39.%ක් අධි බර සහිත පුද්ගලයින් වන අතර එයින් 13%ක් තරබාරුයි."
+
+මෙරට තුළ ද මෙම තත්ත්වය අහිතකර ලෙස දක්නට ලැබෙන බව වෛද්‍ය ශාන්ති ගුණවර්ධන මහත්මිය පවසන්නීය.
+
+...
+
+[Data](articles/372db578.json)
+
+---
+
+### Sri Lanka's Bangladesh competition tour begins today
 
 *2024-03-04 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194100) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පළමු විස්සයි විස්ස තරගය අද (04) ආරම්භ වේ.
+Sri Lanka vs Bangladesh T20 series starts today at 5.30 pm in Silhheet. Sri Lanka's 20th group leader Moratuwa is banned. The tournament includes 3 T20s, 3 ODIs, and 2 Tests.
 
-තරගය සිල්හෙට් හිදී මෙරට වේලාවෙන් පස්වරු 5.30ට ආරම්භ වීමට නියමිතය.
+🟩
 
-ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංගට තරග තහනමක් පනවා තිබීම හේතුවෙන් ශ්‍රී ලංකා කණ්ඩායම චරිත් අසලංක විසින් අද මෙහෙයවයි.
+The first Twenty20 match between the Sri Lankan team and the Bangladesh team begins today.
 
-දෙරට අතර තරගාවලිය විස්සයි විස්ස තරග තුනකින්, එක්දින තරග තුනකින් සහ ටෙස්ට් තරග දෙකකින් සමන්විතයි.
+The match will commence at 5.30 pm at Silhheet.
+
+Sri Lanka team is conducting the Sri Lankan team today as a result of banning the Sri Lankan 20th group leader Moratuwa.
+
+The tournament between the two countries consists of three T20s, three ODIs and two Tests.
 
 ◼️
 
 [Data](articles/531eae18.json)
 
+[Extended Data](ext_articles/531eae18.ext.json)
+
 ---
 
-### රියදුරු බලපත්‍ර ගන්න අයට දැනුම්දීමක්
+### A Notification for Those Who Offered Driver License
 
 *2024-03-04 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194099) · `si`
 
-මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව සපයන සේවාවන් සඳහා ස්වයංක්‍රීය දුරකථන පද්ධතියක් යටතේ සහ වෙබ් අඩවිය වෙත පිවිස සිය අවශ්‍යතා සපුරාගැනීමට අද (04) සිට මහජනතාවට අවස්ථාව ලබා දී තිබේ.
+The Department of Motor Traffic has introduced an automated telephone system and a website to efficiently manage driver license services across 25 districts. The system allows for reservations and is available in three languages. Commissioner General Nishantha Anuruddha Weerasinghe emphasized the importance of this new methodology for providing an efficient service.
 
-පවතින අධික තදබදයට විසඳුමක් ලෙස දිවයිනේ දිස්ත්‍රික්ක 25 තුළ පිහිටා ඇති ශාඛා කාර්යාල ආවරණය වන පරිදි මෙම මාර්ගගත වේලාවන් වෙන්කර ගැනීමේ ක්‍රියාවලිය හඳුන්වා දීමට නියමිතය.
+🟩
 
-එහිදී ස්වයංක්‍රීය දුරකථන පද්ධතිය හරහා හෝ වෙබ් අඩවිය වෙත පිවිස ඒ සඳහා කාලය වෙන් කරගත හැකි වේ.
+The public has given the public under an automated telephone system and to meet the services of the Department of Motor Traffic and to meet their needs today (04).
 
-අද සිට ආරම්භ වන නව ක්‍රමවේදය පිළිබඳව අදහස් පළ කළ මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ වීරසිංහ මහතා,
+The process of allocation of these online hours is to be introduced to cover the branch offices in the 25 districts of the country as a solution to excessive traffic.
 
-"සියලුම සේවාලාභීන් අනිවාර්යයෙන්ම තමන්ට අදාළ වේලාවක් අදාළ දිනය තුළ වෙන්කරගෙන කාර්ය සඳහා පැමිණීම අනිවාර්යයි. මීට ප්‍රථම ක්‍රියාත්මක වුණා කොවිඩ් කාලේ. මේකෙදි පුළුවන් ස්වයංක්‍රීය දුරකථන අංකයක් අපි හඳුන්වා දීලා තියෙනවා 2 117 116 කියලා. ඒක ස්වයංක්‍රීයව භාෂා තුනෙන්ම ඔබට අවශ්‍ය සේවාව ලබාදෙනවා."
+There you can access the automatic telephone system or to the site.
 
-කාර්යක්ෂම සහ ඵලදායී සේවයක් සැපයීමට මෙමඟින් බලපොරොත්තු වන බව මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල්වරයා සඳහන් කළේය.
+Commissioner General of Motor Traffic Nishantha Anuruddha Anuruddha Weerasinghe commented on the new methodology commencing today.
+
+"All clients are inevitable to make reservation of time on the date on the relevant date. The first was done at the covard. We have introduced an automated telephone number 2 117 116. It provides the service you need automatically in all three languages. "
+
+The Commissioner General of Motor Traffic said that this will continue to provide an efficient and effective service.
 
 ...
 
 [Data](articles/f1e826e5.json)
 
+[Extended Data](ext_articles/f1e826e5.ext.json)
+
 ---
 
-### 14 හැවිරිදි පාසල් සිසුවියක් දියේ ගිලී මරුට
+### 14 year old minister drowns
 
 *2024-03-04 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194098) · `si`
 
-ඇල්පිටිය ඇබිත්තන්ගොඩ ඇළේ දියනෑමට ගිය දැරියක් දියේ ගිලී මියගොස් තිබේ.
+A 14-year-old girl drowned in Elpitiya Aaliya Cala, near Ebalgoda Canal, while bathing. She was a schoolgirl from Ganegoda. Her mother and sister are in critical condition at Ilpitiya Hospital.
 
-මෙම දැරිය ඇගේ මව සහ සහෝදරිය සමග ඊයේ (03) සවස් කාලයේ ඇබිත්තන්ගොඩ ඇළේ දිය නෑමට ගොස් ඇත.
+🟩
 
-ඇය කැටපත, ගනේගොඩ ප්‍රදේශයේ පදිංචිව සිටි 14 හැවිරිදි පාසල් සිසුවියකි.
+A girl drowned in Elpitiya Aaliya Cala.
 
-ඇයගේ මව සහ සහෝදරිය ද මේ වන විට අසාධ්‍ය තත්ත්වයෙන් ඇල්පිටිය රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබිමින් සිටී.
+The girl had gone to bath on Ebalgoda Canal last evening yesterday (03).
+
+She was a 14 year old schoolgirl residing in Ganegoda area.
+
+Her mother and sister are currently receiving treatment at the Ilpitiya Hospital in critical condition.
 
 ◼️
 
 [Data](articles/42da7ffa.json)
+
+[Extended Data](ext_articles/42da7ffa.ext.json)
+
+---
+
+### Hundreds of inmates flee after armed gangs storm Haiti’s main prison, leaving bodies behind
+
+*2024-03-04 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97713/hundreds-of-inmates-flee-after-armed-gangs-storm-haitis-main-prison-leaving-bodies-behind) · `en`
+
+(AP) — Hundreds of inmates fled Haiti’s main prison after armed gangs stormed the facility in an overnight explosion of violence that engulfed much of the capital. At least five people were dead Sunday.
+
+The jailbreak marked a new low in Haiti’s downward spiral of violence and came as gangs step up coordinated attacks in Port-au-Prince, while embattled Prime Minister Ariel Henry is abroad trying to salvage support for a United Nations-backed security force to stabilize the country.
+
+Three bodies with gunshot wounds lay at the prison entrance, which was wide open, with no guards in sight. Plastic sandals, clothing and electric fans were strewn across normally overcrowded concrete patios. In another neighborhood, the bloodied corpses of two men with their hands tied behind the backs laid face down as residents walked past roadblocks set up with burning tires.
+
+...
+
+[Data](articles/168ae79e.json)
+
+---
+
+### Electricity, petroleum supply declared as essential services
+
+*2024-03-04 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-petroleum-supply-declared-as-essential-services/108-278173) · `en`
+
+Colombo, March 04 (Daily Mirror) - All activities related to the supply of electricity and petroleum products have been declared as essential services through a Gazette Extraordinary.
+
+Accordingly, all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel are deemed to be essential services.
+
+The notification, issued by Secretary to the President Saman Ekanayake on the orders of President Ranil Wickremesinghe, designates these services as Essential Public Services.
+
+The Gazette underscores the critical nature of these services, emphasizing their indispensable role in sustaining community life.
+
+It applies to all entities, including Public Corporations, Government Departments, Local Authorities, and Co-operative Societies engaged in electricity supply, petroleum distribution or fuel provision.
+
+◼️
+
+[Data](articles/d5613d58.json)
+
+---
+
+### Electricity and fuel supply declared as essential services
+
+*2024-03-04 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97712/electricity-and-fuel-supply-declared-as-essential-services) · `en`
+
+An Extraordinary Gazette has been issued declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services.
+
+The relevant gazette has been issued by the Secretary to the President Saman Ekanayake on Sunday (03) by order of the President Ranil Wickremesinghe.
+
+Accordingly, the proclamation states that the services specified have been declared as Essential Public Service considering it necessary that the services provided by any Public Corporation or Government Department or Local Authority or Co-operative Society or any branch thereof being a Department or Corporation or Local Authority or Co-operative Society, which is engaged in provision of the services specified, is essential to the life of the community and is likely to be impeded or interrupted.
+
+◼️
+
+[Data](articles/9ea7233b.json)
 
 ---
 
@@ -163,6 +253,26 @@ The Association Selton Fernando said that it is not unable to determine the dail
 [Data](articles/801d2817.json)
 
 [Extended Data](ext_articles/801d2817.ext.json)
+
+---
+
+### Ceylon Electricity Board ends FY23 with massive profits
+
+*2024-03-04 07:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ceylon-Electricity-Board-ends-FY23-with-massive-profits/108-278169) · `en`
+
+Records Rs. 75 .5 bn profit for group, Rs. 61.2 bn for Board
+
+Even without favourable weather conditions, CEB would have made profits amounting to Rs. 40 bn
+
+The financial performance of the Ceylon Electricity Board (CEB) is largely positive as it ended the financial year 2023 with a massive profit.
+
+Unaudited interim financial statements filed to the Colombo Stock Exchange (CSE) showed Rs. 75.7 billion profits for the Group, and Rs. 61.2 billion for the Board.
+
+The improvement in the financial performance is largely due to the increase in rainfall from September, and the hike in electricity tariff that came in the fourth quarter (4Q23). However, as per the statements, even without the heavy rainfalls which reduced its reliance on oil and coal-based generation, CEB would have still made profits of about Rs. 40 billion.
+
+...
+
+[Data](articles/352785ee.json)
 
 ---
 
@@ -385,6 +495,30 @@ Meanwhile, Ajith Ranabahu Rajapaksha, business development officer at Saliya Hom
 [Data](articles/df008b07.json)
 
 [Extended Data](ext_articles/df008b07.ext.json)
+
+---
+
+### Sri Lanka’s appeal as tourist hotspot grows stronger
+
+*2024-03-04 05:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-appeal-as-tourist-hotspot-grows-stronger/108-278172) · `en`
+
+However, lower scenario and upper scenario expectations set by SLTDA missed
+
+Russian Federation, India, and UK rank as the top three tourist traffic generators
+
+Tourist arrivals to the island nation surpassed the 200,000 mark for the third consecutive month this February, affirming Sri Lanka is regaining its position as a sought-after destination among its key source markets.
+
+Provisional data released by the Sri Lanka Tourism Development Authority (SLTDA) showed that in February, the island nation welcomed 218, 350 international visitors. When compared with the corresponding period in 2023, the tourist arrival rate has expanded 102.8 percent Year-on-Year (YoY).
+
+Accordingly, for the 1 January to 29 February, cumulative tourist arrivals stand at 426, 603.
+
+In December 2023 Sri Lanka welcomed 210, 352 visitors, whereas in January it welcomed 208, 253 visitors.
+
+Tourism Minister Harin Fernando took to X, formerly Twitter, stating that Sri Lanka tourism has had an “amazing two months” in 2024.
+
+...
+
+[Data](articles/ccdeae44.json)
 
 ---
 
@@ -1964,6 +2098,22 @@ He said it was most unfair for the Central Bank officials to increase their own 
 
 ### Parents urged to cease pressure on primary school children
 
+*2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Parents-urged-to-cease-pressure-on-primary-school-children/155-278134) · `en`
+
+The pressure exerted by parents on their children during primary education from Grades 1to 5 should be stopped and the necessary environment will be prepared to reduce its competitiveness, Education Minister Susil Premajayantha said.
+
+However, the Grade Five scholarship examination will be held in the future, he assured.
+
+In order to evaluate students, measures are taken to evaluate their good skills by recognizing the skills displayed by children for activities outside the classroom, the Minister added.
+
+◼️
+
+[Data](articles/77d1a5ba.json)
+
+---
+
+### Parents urged to cease pressure on primary school children
+
 *2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parents-urged-to-cease-pressure-on-primary-school-children/108-278134) · `en`
 
 The pressure exerted by parents on their children during primary education from Grades 1to 5 should be stopped and the necessary environment will be prepared to reduce its competitiveness, Education Minister Susil Premajayantha said.
@@ -2005,159 +2155,5 @@ Representatives of some political groups that claim to be farmers' representativ
 [Data](articles/e14b865c.json)
 
 [Extended Data](ext_articles/e14b865c.ext.json)
-
----
-
-### New Prime Minister of Pakistan Zebas Sharif
-
-*2024-03-03 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194079) · `si`
-
-Zebas Sharif appointed as Pakistan's new Prime Minister, following a significant global conversation.
-
-🟩
-
-Foreign media reports that Zebas Sharif has been appointed as the new Prime Minister of Pakistan.
-
-The appointment is significant after a strong conversation elected worldwide.
-
-◼️
-
-[Data](articles/06ce0418.json)
-
-[Extended Data](ext_articles/06ce0418.ext.json)
-
----
-
-### Flags of Royal-Thomian big match displayed on SriLankan flight
-
-*2024-03-03 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flags-of-Royal-Thomian-big-match-displayed-on-SriLankan-flight/108-278132) · `en`
-
-The SriLankan Airlines flight arriving from Melbourne proudly displayed the two flags of the 145th Royal Thomian big match.
-
-SriLankan Airlines reported a large contingent of supporters from both sides flying down from Melbourne aboard the aircraft, showcasing true patriotic spirit.
-
-The flags were taken down before the aircraft A330-300 commenced flight from Melbourne.
-
-◼️
-
-[Data](articles/5d212c65.json)
-
-[Extended Data](ext_articles/5d212c65.ext.json)
-
----
-
-### Artificial intelligence arrives at school education
-
-*2024-03-03 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194078) · `si`
-
-Education Minister Susil Premajayantha announced the integration of AI into school education starting from the 8th grade, with a pilot project in 20 schools. The initiative aims to enhance IT education island-wide, focusing on Grade 5 students.
-
-🟩
-
-Minister of Education Susil Premajayantha says that information technology will be given artificial intelligence with the 8th grade.
-
-The Minister was speaking at a program held at the Ministry of Education today (03).
-
-The Minister said that the pilot project was started using 20 schools on March 19 and teachers are being trained in this program.
-
-The Minister also said that it is being carried out island wide in the coming year.
-
-Meanwhile, children should be stopped at the Primary Educational Stage to the Grade 5 Scholarship (Grade 5 to Grade 5 to Grade 5, Minister said.
-
-He said that the scholarship examination will be held in the future, but steps will be taken to provide appreciation for the activities of the classroom to evaluate the students to evaluate students.
-
-◼️
-
-[Data](articles/8f63e65b.json)
-
-[Extended Data](ext_articles/8f63e65b.ext.json)
-
----
-
-### 30 including Zahran Hashim’s brother-in-law granted bail
-
-*2024-03-03 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97704/30-including-zahran-hashims-brother-in-law-granted-bail) · `en`
-
-A group of 30 individuals, including the brother-in-law of Zahran Hashim, have been released on bail.
-
-Accordingly, they were released on surety bails of Rs. 100,000 each, on orders of the Batticaloa Magistrate’s Court, and were ordered to be presented before the court on 06 March.
-
-The group, aged between 24 and 48, was arrested on 01 March, during a raid carried out in the Kattankudy area, based on a tip-off received by the police concerning an unlawful assembly.
-
-They were subsequently interrogated by the Batticaloa Terrorism Investigation Division following which it was identified that the arrestees also included Niyaz, the brother-in-law of Zahran Hashim, the ringleader of the breakaway members of the hardline Islamist group National Thowheed Jama’ath (NTJ), accused of carrying out coordinated suicide bombings on April 21, 2019 which killed more than 350 people.
-
-Police further identified that Niyaz’s older brothers, too, were amongst the arrestees.
-
-◼️
-
-[Data](articles/44630751.json)
-
-[Extended Data](ext_articles/44630751.ext.json)
-
----
-
-### Three of Izudan arrested
-
-*2024-03-03 16:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸூடன்-மூவர்-கைது/175-334137) · `ta`
-
-Three Izudan suspects arrested in Colombo with 9 kg of ice drugs, handed over to Police Drug Eradication Unit for investigation.
-
-🟩
-
-Three suspects have been arrested with 9 kg of ice drugs during a raid in Colombo.
-
-The suspects and the seized drugs will be handed over to the Police Drug Eradication Unit for further investigations.
-
-◼️
-
-[Data](articles/ffc0550f.json)
-
-[Extended Data](ext_articles/ffc0550f.ext.json)
-
----
-
-### Shehbaz Sharif elected as Pakistan’s Prime Minister for 2nd term
-
-*2024-03-03 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97703/shehbaz-sharif-elected-as-pakistans-prime-minister-for-2nd-term) · `en`
-
-Sharif, 72, won a parliamentary vote for premier, resuming the role he had held until August when parliament was dissolved ahead of last month’s elections. Pakistan has had a caretaker government since then.
-
-Shehbaz Sharif, returning as Pakistan’s prime minister for a second time on Sunday when his brother declined a fourth term, has played a crucial role holding together a disparate coalition for 16 months after rival Imran Khan was ousted.
-
-Sharif, 72, won a parliamentary vote for premier, resuming the role he had held until August when parliament was dissolved ahead of last month’s elections. Pakistan has had a caretaker government since then.
-
-He was named by his party and coalition allies to head the South Asian nation, despite his elder brother Nawaz Sharif winning a seat in the assembly and being favourite to be sworn in again.
-
-...
-
-[Data](articles/0bcc97c9.json)
-
-[Extended Data](ext_articles/0bcc97c9.ext.json)
-
----
-
-### Sri Lanka coconut auction price up 4.7-pct
-
-*2024-03-03 15:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-price-up-4-7-pct-152757/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut auction price rose 4.7 percent to was 73,962 per 1,000 nuts on February 29, data from the Coconut Development Authority shows.
-
-The highest price was 79,600 rupees for 1,000 nuts up from 77,100 rupees a week ago, while the lowest was 67,000 up from 61,000 rupees.
-
-A total of 411,631 coconuts were offered at the auction and 325,591 nuts were sold.
-
-Wholesale prices were 95 to 105 rupees for small nuts and 110 to 120 rupees per large nut in the week to February 15, 2024.
-
-Farmgate prices in Kurunegala were 70,000 to 75,000 rupees per 1,000 nuts up from 70,000 -72,000 per 1000 nuts a week ago.
-
-Coconut oil was 570,000 to 590,000 rupees per metric ton from last week’s 580,000- 600,000.
-
-Coconut shells were 28,000 to 29,000 rupees a metric ton up from last week’s 26,000-28,000. (Colombo/Mar01/2024)
-
-◼️
-
-[Data](articles/c4ebdeb6.json)
-
-[Extended Data](ext_articles/c4ebdeb6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 18:11:17**
+As of **2024-03-04 18:33:58**
 
 ## Newspaper Stats
 
-*Scraped **10,809** Articles*
+*Scraped **10,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,84 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 913
+adalk | 914
 adaderanalk | 1,320
 tamilmirrorlk | 1,321
 virakesarilk | 1,456
-dailymirrorlk | 1,645
-adaderanasinhalalk | 1,681
+dailymirrorlk | 1,646
+adaderanasinhalalk | 1,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,795 (99.9%) of 10,809 articles have been extended.
+10,812 (100.0%) of 10,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### විදුලි ගාස්තුව අඩුවන්නේ මෙහෙමයි
+### Enjoining order against Ceylon Petroleum Corporation
+
+*2024-03-04 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194125) · `si`
+
+The Court of Appeal issued an interim injunction against Ceylon Petroleum Corporation, preventing them from paying fees until the end of the petition examination. The corporation argued the letter was illegal and filed by lawyer Sanath Wijewardene. President's Counsel Romesh de Silva represented the petitioners.
+
+🟩
+
+The Court of Appeal today issued an interim injunction today (04) in a letter issued by the Ceylon Petroleum Corporation to pay the fees from the Ceylon Petroleum.
+
+Appeal Court Judge D. N. Mr. Samarakoon issued this interim order.
+
+The interim injunction states that the interim injunction will be effective until the end of the petition examination.
+
+The petitioners point out that if the Petroleum Corporation shall pay a letter from the separators in March, they have noted that they will be charged from their depositals.
+
+The respondent Corporation had no power to issue a letter and stated that the letter was completely contrary to the law and stated that the respondent was filed by the lawyer Sanath Wijewardene.
+
+Accordingly, the petition has been requested to issue an interim injunction to issue an interim order preventing the implementation of the relevant decisions.
+
+President's Counsel Romesh de Silva appeared on the instructions of Attorney Sanath Wijewardene for the petitioners.
+
+◼️
+
+[Data](articles/20a96102.json)
+
+[Extended Data](ext_articles/20a96102.ext.json)
+
+---
+
+### No-faith motion on Speaker to be handed over tomorrow
+
+*2024-03-04 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-on-Speaker-to-be-handed-over-tomorrow/108-278214) · `en`
+
+Colombo, March 4 (Daily Mirror)- The no-faith motion on Speaker Mahinda Yapa Abeywardena is to be handed over tomorrow, SJB MP Tissa Attanayake said today.
+
+"We also intend to obtain a date for the debate on the motion tomorrow itself," he told the media.
+
+◼️
+
+[Data](articles/6a72d931.json)
+
+[Extended Data](ext_articles/6a72d931.ext.json)
+
+---
+
+### The electricity tariffs down:
 
 *2024-03-04 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194124) · `si`
 
-ඒකක 30ට අඩු විදුලි පාරිභෝගිකයින් සඳහා දැනට ඒකකයක් සඳහා අයකරන රුපියල් 12ක ප්‍රමාණය රුපියල් 8ක් දක්වා අඩුකරන බව මහජන උපයෝගීතා කොමිසම පවසයි.
+The Public Utilities Commission has reduced the cost of electricity for units under 30 to Rs.
+
+🟩
+
+The Public Utilities Commission says that the cost of electricity under 30 units will be reduced to Rs.
 
 ◼️
 
 [Data](articles/d80cd84b.json)
+
+[Extended Data](ext_articles/d80cd84b.ext.json)
 
 ---
 
@@ -50,9 +102,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The electricity tariffs will be reduced by 21.9% with effect from midnight today (March 04), the Public Utilities Commission of Sri Lanka (PUCSL) announced.
 
+PUCSL chairman Prof. Manjula Fernando revealed this during a press briefing held in Colombo today (04) to deliver its decision on the electricity tariff reduction proposal mooted recently by the Ceylon Electricity Board (CEB).
+
+The state-owned electricity supplier had submitted its tariff revision proposal to the commission on February 22, 2024.
+
+Last month, Minister of Power and Energy Kanchana Wijesekera had informed the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
+
+In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
+
 ◼️
 
 [Data](articles/f0a68ff9.json)
+
+[Extended Data](ext_articles/f0a68ff9.ext.json)
 
 ---
 
@@ -76,35 +138,47 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 
 ---
 
-### පේරාදෙණිය වෛද්‍ය පීඨ සිසුවෙකු මහවැලියට බිලිවෙයි
+### Faculty of Medical Faculties killed in Mahaweli
 
 *2024-03-04 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194123) · `si`
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ සිසුවෙකු මහවැලි ගඟේ දියේ ගිලීමෙන් සිදුවූ අනතුරකින් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+Isuru Madusan, a third-year Medical Faculty student at the University of Peradeniya, was found dead in the Mahaweli River after being shot. The incident occurred on the 23rd, and he was rushed to Nawalapitiya Hospital for treatment.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ පේරාදෙණිය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ තෙවන වසරේ ඉගෙනුම ලබමින් සිටි ඉසුරු මදුශාන් නමැති සිසුවෙකි.
+🟩
 
-නාවලපිටිය ශික්ෂණ රෝහලේ සායනික පුහුණු කටයුතුවලට ගොස් සිටිය දී පසුගිය 23 වනදා මෙම සිසුවා මහවැලි ගංගාවේ ගල්පොත්තවල නමැති ස්ථානයක දිය නෑමට ගොස් තිබේ.
+A student of the Medical Faculty of the University of Peradeniya has been identified in an accident in the Mahaweli River.
 
-එහිදී මෙම සිසුවා සැඩ පහරකට හසුව දියේ ගසාගෙන ගොස් ඇති අතර එහිදී ප්‍රදේශවාසීන් එක්ව සිසුවා ගොඩට ගෙන නාවලපිටිය රෝහලට ඇතුළත් කර තිබේ.
+The deceased has been identified as a student named Isuru Madusan, the third year study of the Faculty of Medicine at the University of Peradeniya.
 
-එම රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී  වෛද්‍ය පීඨ සිසුවා අද (04) මෙලෙස අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+The student had been bathing the student on the 23rd of the area at the Mahaweli River.
+
+The student had been shot dead at a standpoint and was rushed to the Nawalapitiya Hospital.
+
+The Medical Faculty student was identified today (04) while receiving treatment at the units of the hospital.
 
 ◼️
 
 [Data](articles/aed9c343.json)
 
+[Extended Data](ext_articles/aed9c343.ext.json)
+
 ---
 
-### කාසියේ වාසිය බංග්ලාදේශයට
+### Bangladesh to the coin
 
 *2024-03-04 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194122) · `si`
 
-ශ්‍රී ලංකාව සමග පැවැත්වෙන පළමු විස්සයි විස්ස ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනූ බංග්ලාදේශ කණ්ඩායම ප්‍රථමයෙන් පන්දු යැවීමට තීරණය කළේය.
+Bangladesh won the toss and chose to bowl first in the Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty Tournament.
+
+🟩
+
+The Bangladesh team won the toss and elected to bowl the first Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty Tournament.
 
 ◼️
 
 [Data](articles/ea40e3e6.json)
+
+[Extended Data](ext_articles/ea40e3e6.ext.json)
 
 ---
 
@@ -150,23 +224,31 @@ The Minister said that in the future, the safety of the train will be ensured an
 
 ---
 
-### සජබය ට එරෙහි වාරණය දීර්ඝ කෙරේ
+### Censorship against ejust is extended
 
 *2024-03-04 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194121) · `si`
 
-සමගි ජන බලවේගයේ සභාපති ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතාගේ පක්ෂ සාමාජිකත්වය, ඔහු දරන තනතුරු අත්හිටුවීම සහ විනය ක්‍රියාමාර්ග ගැනීම  වළක්වාලමින් නිකුත් කළ වාරණ නියෝගය ලබන 19 වෙනදා දක්වා දීර්ඝ කිරීමට කොළඹ දිසා අධිකරණය නියම කළේය.
+The Colombo District Court extended censorship against e-justice, issuing disciplinary actions against Sarath Fonseka. Sajith Premadasa ordered injunctions against Fonseka's party members. Fonseka seeks to prevent disciplinary actions based on comments by Daya Ratnayake.
 
-සරත් ෆොන්සේකා මහතා ගොනු කළ පෙත්සමක් අද (04) යළි සලකා බැලීමෙන් අනතුරුව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින්  මෙම නියෝගය නිකුත් කළේය.
+🟩
 
-සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, එහි මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ජාතික සංවිධායක තිස්ස අත්තනායක සහ භාණ්ඩාගාරික හර්ෂ ද සිල්වා යන මහත්වරු වෙත මෙම වාරණ නියෝග නිකුත් කර තිබේ.
+The Colombo District Court sentenced the extension of the party membership of the party membership, suspension and disciplinary action issued by Field Marshal Sarath Fonseka.
 
-පෙත්සම අද කැඳවනු ලැබූ අවස්ථාවේදී වගඋත්තරකාර සජිත් ප්‍රේමදාස මහතා ඇතුළු පිරිස වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා සඳහන් කළේ අදාළ වාරණ නියෝගයට එරෙහිව විරෝධතා ඉදිරිපත් කිරීමට කටයුතු කරන බවයි.
+The order was issued by the Colombo District Judge Sandun Withana after re-examining a petition filed by Sarath Fonseka today (04).
 
-ඉන් අනතුරුව වාරණ නියෝගය ලබන 19 වනදා දක්වා දීර්ඝ කළ අධිකරණය එදින අදාළ විරෝධතා සම්බන්ධයෙන් කරුණු සලකා බලන බවත් නිවේදනය කළේය.
+Sajith Premadasa, Leader of the Samagi Tajith Madduma Bandara, has issued injunction ordered orders to the General Secretary of the General Secretary to the National Organizer Tissa Attanayake and Treasurer Harsha De Silva.
+
+Attorney-at-Law Romesh de Silva, who appeared for the respondents and others, said that the protests will be made against the injunction order.
+
+The event was then extended until the 19th of this month.
+
+The petitioner says that the recent media has expressed information that his client is about to take disciplinary action against him based on the comments of former Army Commander Daya Ratnayake.
 
 ...
 
 [Data](articles/39e32729.json)
+
+[Extended Data](ext_articles/39e32729.ext.json)
 
 ---
 
@@ -904,6 +986,32 @@ It was in Hamilton, though, that Williamson reserved his best for with the team 
 
 ---
 
+### A new mechanism to resolve disputes in the public service
+
+*2024-03-04 14:14:19* · [`adalk`](https://www.ada.lk/breaking_news/නව-යාන්ත්‍රණයකින්-රාජ්‍ය-සේවයේ-ආරවුල්-විසඳන්න-යයි/11-408415) · `si`
+
+The Ministry of Provincial Councils and Local Government Affairs Ministry have introduced a new dispute resolution mechanism in public services, aiming to enhance public service quality and prevent disruptions from labor strikes. This initiative involves establishing partnerships and national forums for mediation and arbitration, with the goal of achieving acceptable outcomes for all parties involved.
+
+🟩
+
+The Ministry of Provincial Councils and the Local Government Affairs Ministry have taken steps to introduce a new mechanism to prevent and resolve the constant dispute in public sector institutions.
+
+According to a newly issued circular issued by the Secretary of the Ministry Pradeep Yasaratne, the main objective is to provide an excellent service to the public through public service.
+
+The circular points out that it is expected to disrupt the services due to a continuous labor strike due to lack of proper techniques to resolve the prevailing stalks of the public service.
+
+Accordingly, the service stations representing the employees and managers have to establish the partnership, national forum, and the national settlement partnerships, the national level settlement partnerships,
+
+The Ministry stated that the proposed new mechanism is expected to reach the acres that are acceptable to the Arawls through the Mediation, and Arbitration.
+
+◼️
+
+[Data](articles/a0daee6e.json)
+
+[Extended Data](ext_articles/a0daee6e.ext.json)
+
+---
+
 ### Israel - Hamaspore stops for the holy Ramadan only for more than 3 lakhs of people?
 
 *2024-03-04 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177867) · `ta`
@@ -1312,39 +1420,53 @@ It is noteworthy that the party's election for the Republican candidate will be 
 
 ---
 
-### Factum Perspective: இந்தியப் பெருங்கடலில் அதிகரிக்கும் பதட்டங்கள்
+### Factum Perspective: Increasing tensions in the Indian Ocean
 
 *2024-03-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177862) · `ta`
 
-அக்டோபர் 7, 2023 அன்று ஹமாஸ் இஸ்ரேலைத் தாக்கியபோது, உலகின் அனுதாபம் இஸ்ரேலிய மக்களுடன் காணப்பட்டது. இது ஒரு பயங்கரவாதச் செயலாகும், என்பதுடன் அது முறைப்படி கண்டிக்கப்பட்டது.
+Increasing tensions in the Indian Ocean due to Israel's attack on Hamas, leading to indiscriminate opposition and the involvement of Houthis, Yemen, and Somali pirates. The conflict escalated globally, affecting the US-led coalition and the global economy, with Iran, Pakistan, Iraq, and Syria also involved. The US's handling of the situation, including its contacts with Israel, has been criticized. The situation has become a "universal conflict," with governments supporting different sides, impacting global behavior and order. India plays a significant role in the Indian Ocean, dealing with the Middle East crisis alongside the US. However, India's own issues, including the Gaza crisis and the Maldives, complicate the situation. The situation is further complicated by Sri Lanka's actions in the Red Sea. The UN's role, particularly through Article 99, could have mitigated the conflict.
 
-நவம்பர் மாதத்திற்குள், இஸ்ரேலின் எதிர்த்தாக்குதல் கண்மூடித்தனமானதாக மாறியதால், உலகம் வித்தியாசமாக பிரதிபலிக்க ஆரம்பித்தது. பாலஸ்தீன அரசியல்வாதிகள் தங்களின் நாட்டை அபிவிருத்தி செய்வதற்கு அரபு நாடுகள் வழங்கும் ஆதரவையும் உதவியையும் பயன்படுத்தத் தவறியது, அதன் மூலம் ஹமாஸ் தமது நிலைப்பாட்டை உறுதிப்படுத்தவும், அவர்களின் நியாயத்தின் சட்டபூர்வதன்மையை குறைமதிப்பிற்கு உட்படுத்தவும் இடமளிப்பதுடன், மக்கள் படும் துன்பம் உலகம் புறக்கணிக்க முடியாத அளவுக்கு அதிகமாக காணப்பட்டது.
+🟩
 
-பின்னர் ஹூத்திகள் யேமனில் இருந்து பதிலளிக்க ஆரம்பித்தது, முதலில் இஸ்ரேலுடன் தொடர்புடைய கப்பல்களை குறிவைத்ததுடன் படிப்படியாக மேற்கத்திய அணிக்கு விரிவடைகின்றது. இந்த நெருக்கடிக்கு இணைந்ததாக, நாங்கள் சோமாலிய கடற்கொள்ளையர் மீண்டும் செயற்பட ஆரம்பித்தமையை கண்டோம்.
+When Hamas attacked Israel on October 7, 2023, the world's sympathy was seen with the Israeli people. This is a terrorist act and it was formally condemned.
+
+By November, the world began to reflect differently as Israel's opposition became indiscriminate. Palestinian politicians failed to use the support and help of the Arab states to develop their country, thereby allowing Hamas to ensure their position and to undermine the legalization of their justification, and the suffering of the world was so vulnerable.
+
+Then the Houthis began to respond from Yemen, first targeting the ships associated with Israel and gradually expanded to the Western team. We found that the Somali pirates began to work again as a combination of this crisis.
 
 ...
 
 [Data](articles/906a4c94.json)
 
+[Extended Data](ext_articles/906a4c94.ext.json)
+
 ---
 
-### தேங்காய் விலை அதிகரிப்பு : உணவுப் பொதிகளின் விலைகளில் பாரிய தாக்கம் !
+### Coconut Price Increase: Massive impact on food packets prices!
 
 *2024-03-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177861) · `ta`
 
-தேங்காய் விலை அதிகரிப்பினால் சோற்று பொதி மற்றும் கறி வகைகளின் விலைகளில் பாதிப்பை ஏற்படுத்தும் எனவும் இதற்கு காரணம் பெரும்பாலான கறிகள் தேங்காய் பாலை கொண்டு தயாரிக்கப்படுகிறதென உணவுத் தொழில்துறை தொழிற்சங்கங்கள் தெரிவிக்கின்றன.
+Coconut price hike impacts food packets, curry, and snacks due to increased coconut milk costs. Prices range from 120 to 150 rupees, affecting food industry.
 
-நாட்டில் வழமையாக 60 முதல் 80 ரூபா வரையில் இருந்த தேங்காயின் விலை இரண்டு மடங்காக அதிகரித்துள்ளதாக அகில இலங்கை சிற்றுண்டிச்சாலை உரிமையாளர்கள் சங்கத்தின் தலைவர் ருக்ஷான் ஹர்ஷன தெரிவித்துள்ளார்.
+🟩
 
-அதன்படி, தற்போது ஒரு தேங்காயின் விலை 120 ரூபாவிலிருந்து 150 ரூபா வரை விற்பனை செய்யப்படுவதாக தெரிவித்துள்ளார்.
+The increase in the price of coconuts will affect the prices of the pocket and curry varieties, which is due to the fact that most of the curry is made of coconut milk, according to food industry unions.
 
-அதிகரித்துள்ள  தேங்காய் விலையினால் சோற்று பொதி ஒன்றை தயாரிக்க முடியாமல் சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர்கள் மிகுந்த சிரமத்திற்கு உள்ளாகி வருவருகின்றனர். இதனால்  உணவுப் பொதிகளை அதிக விலைக்கு விற்க வேண்டிய சூழ்நிலை உருவாகியுள்ளது.
+Rukshan Harshana, president of the All Ceylon Resources Owners Association, said that the price of coconuts, which routinely ranged from 60 to 80 rupees in the country.
 
-அரிசி, கோழிக்கறி, முட்டை, எரிவாயு உள்ளிட்ட அனைத்தும் கணிசமாக விலை அதிகரித்துள்ள  நிலையில் தேங்காய்களின் விலையும் அதிகரித்துள்ளது.
+Accordingly, the price of a coconut is currently being sold for 120 rupees to 150 rupees.
 
-...
+Snacks and restaurant owners are in great trouble, unable to produce a spoil of coconuts due to increased coconut prices.. This has created a situation where food packets have to be sold at high prices.
+
+Coconut prices have increased as rice, chicken, eggs and gas are all significantly rising.
+
+He warned that the price of coconut oil would increase in the coming days due to the increase in the price of coconuts.
+
+◼️
 
 [Data](articles/e5f43442.json)
+
+[Extended Data](ext_articles/e5f43442.ext.json)
 
 ---
 
@@ -1363,6 +1485,8 @@ The specially designed vehicles are equipped with a medical compartment with eme
 ...
 
 [Data](articles/677874fd.json)
+
+[Extended Data](ext_articles/677874fd.ext.json)
 
 ---
 
@@ -1417,6 +1541,8 @@ The deceased is a resident of Niripola and the Hanwella Police are investigating
 ◼️
 
 [Data](articles/1d2d7fb6.json)
+
+[Extended Data](ext_articles/1d2d7fb6.ext.json)
 
 ---
 
@@ -1526,19 +1652,31 @@ The arrested person will be produced before Monaragala Magistrate’s Court toda
 
 ---
 
-### கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வுப் பணியை மீள ஆரம்பிக்க  இதுவரை நிதி கிடைக்கவில்லை ; வழக்கு மீண்டும் ஒத்திவைப்பு
+### Funds have not yet been received to rescue the excavation work of the Kokkuttuwai Human Buries;Adjudicated the case again
 
 *2024-03-04 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177857) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் கொக்குத்தொடுவாய் பகுதியில் 29.06.2023 அன்று கண்டுபிடிக்கப்பட்ட மனித புதைகுழி அகழ்வு  தொடர்பான  வழக்கானது இன்று திங்கட்கிழமை (04) முல்லைத்தீவு நீதவான்  நீதிமன்றில் இடம்பெற்றது.
+The Kokkuttuwai Human Buries excavation in Mullaitivu district, discovered on 29.06.2023, faced delays due to unreceived funds. The case was postponed to April 4, with the first phase starting on 06.09.2023, recovering 17 trunks over eleven days. The second phase, from 20.11.2023, recovered 40 skeletal blocks over nine days before suspension. Scans revealed bodies two meters west of the burial cavity. A third phase is scheduled for March.
 
-முல்லைத்தீவு நீதவான்  நீதிமன்றில் நீதிபதி தர்மலிங்கம் பிரதீபன்  முன்னிலையில் இடம் பெற்ற வழக்கு விசாரணைகளில் முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா, முல்லைத்தீவு மாவட்ட செயலக பிரதம கணக்காளர் மயில்வாகனம் செல்வரட்ணம், கொக்கிளாய் பொலிஸ் நிலைய பொறுப்பதிகாரி,கொக்கிளாய் பகுதி  கிராம அலுவலர், சட்டத்தரணிகளான வீ.எஸ். நிரஞ்சன், கணேஸ்வரன், தனஞ்சயன், ருஜிக்கா ஆகியோர் முன்னிலையாகியிருந்தனர்.
+🟩
 
-குறித்த வழக்கின்  அகழ்வு பணியினை திட்டமிட்டபடி   நடாத்த நிதி கிடைக்கபெறவில்லை என தெரிவிக்கப்பட்ட நிலையில், குறித்த வழக்கு ஏப்ரல் மாதம் 4 ஆம் திகதிக்கு மீண்டும் ஒத்திவைக்கப்பட்டுள்ளது.
+The case of the human burial excavation, which was discovered on 29.06.2023 in the Kokkuttuwai area of the Mullaitivu district, was held at the Mullaitivu Magistrate's Court on Monday (04).
+
+Mullaitivu District Legal Medical Officer Kanagasabapathi Vasudeva. Niranjan, Ganeswaran, Tananjayan and Rujika were present.
+
+The case has been postponed to April 4, as it has been reported that the excavation work of the case has not been received as planned.
+
+The first phase of the human burial ground in the Kokkuttuwai area of the Mullaitivu district began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
+
+The second phase of the excavation began on 20.11.2023 and 40 skeletal blocks were recovered for nine consecutive days and the second phase was suspended.
+
+In addition, the scan examination carried out in the last days of the excavation process has found that the bodies are found to be two meters long to the west side of the human burial cavity.
 
 ...
 
 [Data](articles/816678c6.json)
+
+[Extended Data](ext_articles/816678c6.ext.json)
 
 ---
 
@@ -1656,23 +1794,29 @@ The Deputy Health Minister of Health said that the doctors were ordered to repor
 
 ---
 
-### பாகிஸ்தானில் கடும் மழையினால் 32 பேர் பலி
+### 32 people killed in heavy rains in Pakistan
 
 *2024-03-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177852) · `ta`
 
-பாகிஸ்தானில் கடும் மழையைத் தொடர்ந்து சிறார்கள் உட்பட 30 இற்கும் அதிகமானோர் உயிரிழந்துள்ளனர் என அதிகாரிகள் நேற்று தெரிவித்துள்ளனர்.
+Heavy rains in Pakistan since last Thursday have led to the deaths of over 30 people, including children, and caused significant damage in Balochistan and Khyber Pakhtunkhwa, with 27 deaths and 115 houses damaged. Schools in Balochistan are closed.
 
-பாகிஸ்தானின் பல பிராந்தியங்களில் கடந்த வியாழன் முதல் கடும் மழை பெய்து வருகிறது. இதனால், பலோசிஸ்தான் மாகாணத்தில்  பாடசாலைகள் மூடப்பட்டுள்ளன.
+🟩
 
-கைபர் பக்துன்க்வா மாகாணத்தில் கட்டிடங்கள் இடிந்ததால் 18 சிறார்கள் உட்பட 27பேர் உயிரிழந்துள்ளனர் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+More than 30 people, including children, died following heavy rains in Pakistan, officials said yesterday.
 
-அம்மாகாணத்தில் 30 வீடுகள் முற்றாக சேதமடைந்துள்ளதாகவும், 97 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதாகவும் கைபர் பக்துன்க்வா மாகாண அனர்த்த முகாமைத்துவ முகவரகம் தெரிவித்துள்ளது.
+Heavy rains have been raining since last Thursday in many regions of Pakistan. As a result, schools have been closed in the province of Balochistan.
 
-பலேசிஸ்தானில் சேதமடைந்த வீதிகள், வெள்ளம், மண்சரிவுகள் காரணமாக பிரதான நகரங்களுக்கும் கிராமங்களுக்கும் இடையிலான தொடர்புகள் துண்டிக்கப்பட்டுள்ளன.
+27 people, including 18 children, have died due to demolition of buildings in Khyber Pakhtunkhwa province, officials said.
+
+The Khyber Pakhtunkhwa Provincial Disaster Management Agency said that 30 houses have been completely damaged and 97 houses have been partially damaged.
+
+Damage roads, floods and landslides in Baleshistan have been cut off between major cities and villages.
 
 ◼️
 
 [Data](articles/bd963b0c.json)
+
+[Extended Data](ext_articles/bd963b0c.ext.json)
 
 ---
 
@@ -2084,25 +2228,31 @@ Earlier this week, the CBSL requested the President, in his capacity as the Mini
 
 ---
 
-### ஹெய்ட்டியில்  சிறை மீது ஆயுதகும்பல் தாக்குதல்- 3000க்கும் அதிகமானகைதிகள் தப்பியோட்டம்
+### Armed Attack on Haiti Prison- More than 3000
 
 *2024-03-04 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177839) · `ta`
 
-ஹெய்ட்டி தலைநகரில் உள்ள பிரதான சிறைச்சாலையொன்றின் மீது தாக்குதலை மேற்கொண்ட கும்பலொன்று அங்கிருந்த 4000க்கும் மேற்பட்ட கைதிகளை விடுவித்துச்சென்றுள்ளது.
+A gang attacked Haiti's main prison, releasing over 4,000 prisoners, including those accused of murdering President Jovenal Mossay in 2021. The Human Rights Attorney estimates fewer than 100 remain, and the government has declared a night curfew to curb violence.
 
-தலைநகரின் பிரதான சிறைச்சாலை மீது மேற்கொள்ளப்பட்ட தாக்குதல் காரணமாக 4000க்கும் அதிகமான கைதிகள் தப்பியோடிவிட்டனர் என செய்திகள் வெளியாகின்றன.
+🟩
 
-2021 இல் ஜனாதிபதி ஜொவெனல் மொஸ்சேயை கொலை செய்ததாக குற்றம்சாட்டப்பட்டவர்களும் சிறையுடைப்பு காரணமாக தப்பிச்சென்றுள்ளனர்.
+A gang who attacked a main prison in the capital of Haiti has released more than 4,000 prisoners.
 
-ஹெய்ட்டியின்  வழமையான நெரிசல் மிகுந்த சிறைச்சாலை வெறுமையாக பாதுகாப்பு உத்தியோகத்தர்கள் இன்றி காணப்படுகின்றது காலணிகளும் ஆடைகளும் கதிரைமேசைகளும் சிதறுண்டு காணப்படுகின்றன என ஊடகங்கள் தெரிவித்துள்ளன.
+More than 4,000 prisoners have fled the attack on the capital of the capital.
 
-எத்தனை கைதிகள் தப்பிச்சென்றுள்ளனர் என்பது தெரியாது என குறிப்பிட்டுள்ள மனித உரிமை சட்டத்தரணி 4000 சிறைக்iதிகளில் 100க்கும் குறைவானவர்களே எஞ்சியுள்ளனர் எனவும்  தெரிவித்துள்ளது.
+Those accused of murdering President Jovenal Mossay in 2021 have also escaped due to prison.
 
-இதேவேளை வன்முறைகளை கட்டுப்படுத்துவதற்காக அவசரகால நிலையை அறிவித்துள்ள ஹெய்ட்டி அரசாங்கம்  இரவு நேர ஊரடங்கு சட்டத்தையும் பிரகடனம் செய்துள்ளது.
+Haiti's usual congestion is found without security officers.
+
+The Human Rights Attorney, who said it was unaware of how many prisoners had escaped, said that fewer than 100 in 4000 prison remained.
+
+Meanwhile, the Haiti government, which has announced an emergency to curb violence, has also declared the night curfew.
 
 ◼️
 
 [Data](articles/498bc8d8.json)
+
+[Extended Data](ext_articles/498bc8d8.ext.json)
 
 ---
 
@@ -2167,69 +2317,5 @@ The last time was the fuel prices were revised on January 31st and the price of 
 [Data](articles/1b8319a2.json)
 
 [Extended Data](ext_articles/1b8319a2.ext.json)
-
----
-
-### Overstaying Russians and Ukrainians must apply for visa or depart: Alles
-
-*2024-03-04 10:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Overstaying-Russians-and-Ukrainians-must-apply-for-visa-or-depart-Alles/108-278180) · `en`
-
-Colombo, March 4 (Daily Mirror)- Public Security Minister Tiran Alles said yesterday that Russians and Ukrainians who have been in Sri Lanka since February 2022 will need to apply for a visa or leave the country.
-
-The minister told the Daily Mirror that the free visa facility granted to them will not be extended and they must comply with immigration regulations by applying for fresh visas.
-
-Meanwhile, according to the Tourist Development Authority, an estimated 300 to 400 Russians and Ukrainians have been staying in Sri Lanka since February 2022.
-
-The visa fee is approximately $50 for a 30-day stay in Sri Lanka.
-
-Last week, the Immigration Department released a letter to the Tourism Ministry Secretary requesting him to notify the long term Ukrainian and Russian tourists living in Sri Lanka to leave by March 7.
-
-...
-
-[Data](articles/ccbf9e7e.json)
-
-[Extended Data](ext_articles/ccbf9e7e.ext.json)
-
----
-
-### SLPP has to find a better candidate than RW - Prasanna
-
-*2024-03-04 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-has-to-find-a-better-candidate-than-RW-Prasanna/108-278192) · `en`
-
-Colombo, March 01, (Daily Mirror) -  Indicating the problem faced by the Sri Lanka Podujana Peramuna (SLPP) in facing the forthcoming Presidential election, Minister Prasanna Ranatunga told yesterday that his party, the SLPP would have to find a better candidate than President Ranil Wickremesnghe if it wants to field a candidate of its own.
-
-He said that former minister Basil Rajapaksa will not contest while time is not ripe for Namal Rajapaksa to contest.
-
-"I will support Basil if he contests for the presidency, but he will not contest" he stated.
-
-Ranatunga, who is highly supportive of President Wickremesinghe's recent decisions, warned that he will have to decide on his SLPP membership if the party decides to field another candidate.
-
-He expressed these views at a party meeting held in his hometown, Udugampola in Gampaha District.
-
-◼️
-
-[Data](articles/3664043d.json)
-
-[Extended Data](ext_articles/3664043d.ext.json)
-
----
-
-### Fuel price revision likely tonight?
-
-*2024-03-04 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97715/fuel-price-revision-likely-tonight-) · `en`
-
-A fuel price revision is likely to take place tonight (04), as per sources.
-
-The Ceylon Petroleum Corporation (CPC) stated that although the fuel price was slated to be revised at the end of February, the price revision will possibly take place today.
-
-The CPC amends the fuel prices monthly as per the pricing formula. Accordingly, the prices were last revised on January 31, where the prices of octane 92 petrol, octane 95 petrol, super diesel and kerosene were increased.
-
-Against this backdrop, President Ranil Wickremesinghe has issued an Extraordinary Gazette declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services with effect from 03 March 2024.
-
-...
-
-[Data](articles/f45d2a3a.json)
-
-[Extended Data](ext_articles/f45d2a3a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 01:03:00**
+As of **2024-03-05 01:17:54**
 
 ## Newspaper Stats
 
-*Scraped **10,864** Articles*
+*Scraped **10,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 562
-dailyftlk | 576
 islandlk | 579
+dailyftlk | 580
 adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,325
@@ -26,11 +26,79 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,861 (100.0%) of 10,864 articles have been extended.
+10,864 (100.0%) of 10,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### Malik Cader elected chairman of JCI Senate Sri Lanka
+
+*2024-03-05 00:54:21* · [`dailyftlk`](https://www.ft.lk/business/Malik-Cader-elected-chairman-of-JCI-Senate-Sri-Lanka/34-759172) · `en`
+
+Malik Cader has been elected as the new Chairman of JCI Senate Sri Lanka.
+
+Cader an Attorney at Law was a past President of Sri Lanka Jaycees, and later was elected a Vice President of JCI International.
+
+He represented Sri Lanka at the International Model United Nations conference at the United Nations headquarters in New York. The Annual General Meeting of JCI Senate Sri Lanka was held on the 27 February at the Orchard Room, Club House Havelock City. The Guest Speaker at the event was Dr. Harini Amarasuriya who spoke on “Navigating the seas of political transformation.”
+
+Apart from Malik, the following Senators, Vasantha Karunatilaka, Yohan De Silva, Fauzul Nawas, Khalil Ur Rahman, and Rohan Pallewatte, were elected to the Executive Committee of JCI Senate Sri Lanka for 2024/2025. Jennifer Omar was re-elected as the Secretary, and Senator Sriyani Ranatunga was re-elected as the Treasurer. The immediate past President of JCI Senate Sri Lanka is Arunika Wickramasinghe.
+
+...
+
+[Data](articles/b1a95918.json)
+
+---
+
+### 450 foreign firms to set up regional HQ in Saudi Arabia
+
+*2024-03-05 00:53:21* · [`dailyftlk`](https://www.ft.lk/business/450-foreign-firms-to-set-up-regional-HQ-in-Saudi-Arabia/34-759171) · `en`
+
+Saudi Arabia has granted licences to 450 foreign investors to open their regional headquarters in the Kingdom in a major boost to the country’s economic growth as it will create immense employment opportunities, said Minister of Investment Engineer Khalid bin Abdulaziz Al Falih.
+
+He was addressing the gathering at the ‘Human Capability Initiative,’ the first-ever global co-operative platform set up in Riyadh designed to unify the international efforts and enrich the global dialogue on the challenges and opportunities for developing human capabilities.
+
+A two-day event, HCI was held under the theme of #FutureReadiness – getting ready for the future starts now.
+
+It brought together policymakers, thought leaders, investors and entrepreneurs to catalyse international collaboration and maximise resilience, exploring opportunities and promoting innovative policy design and solutions.
+
+...
+
+[Data](articles/fbd0a4f9.json)
+
+---
+
+### Sri Lanka participates at Dubai International Boat Show 2024
+
+*2024-03-05 00:53:13* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-at-Dubai-International-Boat-Show-2024/34-759170) · `en`
+
+The Export Development Board (EDB) organised Sri Lanka’s participation in the 30th edition of the Dubai International Boat Show (DBIS), which took place in Dubai, UAE from 28 February to 3 March 2024, with help from the Sri Lanka Embassy and Consulate General in Dubai.
+
+The Boat and Ship Building sector has been identified as an emerging export sector which offers a wide variety of products and services to international market. The sector uses advanced materials and technologies to be on par with global counterparts aligned with sustainable manufacturing.
+
+The increasing demand for boats worldwide, regional and local for fishing, industrial, commercial and leisure purposes open up huge opportunities and new markets for Sri Lanka, due to its strategic location, highly trainable workforce and the labour cost advantage.
+
+...
+
+[Data](articles/d6460fc8.json)
+
+---
+
+### Setting up in Singapore: Expand your business internationally
+
+*2024-03-05 00:51:37* · [`dailyftlk`](https://www.ft.lk/business/Setting-up-in-Singapore-Expand-your-business-internationally/34-759169) · `en`
+
+Fastcorp, Singapore’s leading corporate services firm, has announced a complimentary webinar titled “ Setting up in Singapore: Expand your business internationally.” This exclusive online event is scheduled to take place on Thursday, 7 March at 1.00 p.m. (Sri Lankan time), and aims to enlighten Sri Lankan entrepreneurs and business owners on the myriad benefits that Singapore offers as a business hub.  The webinar is free of charge. Registration is required to secure your spot.
+
+The webinar will delve into the numerous advantages of setting up a business in Singapore, highlighting the strategic brand value of setting up in Singapore, Singapore’s favorable tax regime – which is designed to be business – and growth-friendly and remote bank account opening opportunities offered by Fastcorp as an OCBC Bank Prestige Partner.
+
+The webinar will also cover the robust legal system in Singapore, opportunities for immigration and much more.
+
+...
+
+[Data](articles/ed4d7b12.json)
+
+---
 
 ### Gaza war, Red Sea crisis and sea of issues for merchants
 
@@ -128,6 +196,8 @@ This partnership which commenced in 2014, will now further enhance Hayleys Avent
 
 [Data](articles/8de06c46.json)
 
+[Extended Data](ext_articles/8de06c46.ext.json)
+
 ---
 
 ### The price of fuels from midnight today ...
@@ -167,6 +237,8 @@ The modern quantity theory of money is basically an explanation of inflation (an
 ...
 
 [Data](articles/74aec73f.json)
+
+[Extended Data](ext_articles/74aec73f.ext.json)
 
 ---
 
@@ -213,6 +285,8 @@ When unveiling the tax reform leakages and systematic issues, it is evident that
 ...
 
 [Data](articles/cd2802e4.json)
+
+[Extended Data](ext_articles/cd2802e4.ext.json)
 
 ---
 
@@ -2209,95 +2283,5 @@ Although the Malwath Maha Viharaya arrived in writing that Siridhamma Thero prom
 [Data](articles/afd5993c.json)
 
 [Extended Data](ext_articles/afd5993c.ext.json)
-
----
-
-### My son is not hiding; the governor of Uva Province
-
-*2024-03-04 13:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-மகன்-தலைமறைவாகவில்லை-ஊவா-மாகாண-ஆளுநர்/175-334179) · `ta`
-
-Uva Provincial Governor AJM Muzammil confirms his son Mohamed Isham Jamaldeen will not hide and will be at the police station tomorrow. Jamaldeen is under investigation for allegedly assaulting a woman in Hevlock Town, leading to her hospitalization.
-
-🟩
-
-Uva Provincial Governor AJM Muzammil has said that his son Mohamed Isham Jamaldeen will not avoid being arrested and will be present at the police tomorrow.
-
-“My son is not hiding.He said he would attend the police on Tuesday or before.The police have accepted that the news that he has gone into hiding is untrue. ”
-
-Police are investigating the arrest of Mohammed Isham Jamaldeen on charges of allegedly assaulting a young woman in an apartment in Hevlock Town.
-
-Police said Jamaldeen was assaulted in the early hours of Saturday morning and the woman was admitted to a private hospital with injuries.
-
-◼️
-
-[Data](articles/dc953994.json)
-
-[Extended Data](ext_articles/dc953994.ext.json)
-
----
-
-### Eight Sri Lankans rescued from cyber slave camp in Myanmar – Ambassador
-
-*2024-03-04 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97723/eight-sri-lankans-rescued-from-cyber-slave-camp-in-myanmar-ambassador) · `en`
-
-The Sri Lankan Ambassador to Myanmar Janaka Priyantha Bandara says that unverified reports have been received claiming that a group of eight Sri Lankans who were held hostage at a Cyber Slave Camp in Myanmar have been rescued.
-
-In December, reports were rife about a group of Sri Lankans who were lured with tourist visas behind the false front of lucrative job offers in the IT sector and were trafficked to Myanmar through its border with Thailand. These workers had reportedly travelled to Myanmar without registering with the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-The Sri Lankans forcibly detained at the terrorist camp in Myawaddy – an area infested with cybercrimes under the grip of an armed group – were reported to be working as cyber slaves forced to commit internet scams.
-
-◼️
-
-[Data](articles/acfa21bd.json)
-
-[Extended Data](ext_articles/acfa21bd.ext.json)
-
----
-
-### Sri Lankans who have trapped in Myanmar
-
-*2024-03-04 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194112) · `si`
-
-Sri Lankans rescued from cybercrimes in Myanmar. 8 of 56 detained were released by Myanmar's security forces. They are now in police custody. Sri Lanka's Ambassador to Myanmar, Janaka Bandara, is overseeing their liberation.
-
-🟩
-
-Sri Lanka's Ambassador to Myanmar Janaka Bandara says that a group of Sri Lankans who had been rescued from the cyber crimes in Myanmar.
-
-In response to Ada Derana, he said that eight of the 56 Sri Lankans detained in the same period were redeemed by Myanmar's security forces this morning.
-
-They have been safely held in Miyayadi police custody.
-
-Sri Lanka's Ambassador to Myanmar Janaka Bandara added that the necessary arrangements are being carried out on the liberation.
-
-◼️
-
-[Data](articles/536d11b8.json)
-
-[Extended Data](ext_articles/536d11b8.ext.json)
-
----
-
-### Traveler to be earned in Sri Lanka
-
-*2024-03-04 13:40:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-හම්බකරලා-ඇමෙරිකාවේ-වියදම්-කරන-සංචාරකයා-දිවයිනට/11-408413) · `si`
-
-JHU's Udaya Gammanpila criticized the Speaker of Parliament for violating Parliament, Supreme Court, and the law. The Opposition has filed a no-confidence motion against her. The Supreme Court has ruled on security measures, but the amendment hasn't been added to the Act. The Supreme Court's decision process is complex, involving constitutional checks. The Speaker is responsible for ensuring laws are constitutionally passed. Mr. Basil Rajapaksa's visit to Sri Lanka for a general election is met with mixed reactions.
-
-🟩
-
-Speaker, Leader of the JHU, Udaya Gammanpila, said that the Speaker of Parliament has violated Parliament, Supreme Court, and the belief in the law of the main system of the system.
-
-He was speaking at a press conference held at the JHU today (2024.03).
-
-Still, the Opposition has brought a no-confidence motion against her by the decision of the Supreme Court in the adoption of the security measures.Since the Speaker, the Supreme Court's default violations of Supreme Court, the opposition say that the opposition votes.
-
-not. not. The ruling party tells us that we are kept in a violation of the Speaker.Everyone says that everyone in the opposition has violated the Supreme Court decad.We look at how the Speaker violated the Speaker.
-
-...
-
-[Data](articles/9e614a6f.json)
-
-[Extended Data](ext_articles/9e614a6f.ext.json)
 
 ---

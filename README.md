@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 20:51:22**
+As of **2024-03-04 21:02:48**
 
 ## Newspaper Stats
 
-*Scraped **10,825** Articles*
+*Scraped **10,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,76 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 919
+adalk | 920
 adaderanalk | 1,320
 tamilmirrorlk | 1,322
 virakesarilk | 1,456
-dailymirrorlk | 1,649
+dailymirrorlk | 1,650
 adaderanasinhalalk | 1,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,821 (100.0%) of 10,825 articles have been extended.
+10,825 (100.0%) of 10,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### සැකකරුවෙකුට පහරදී මරා දැමූ පෑලියගොඩ පොලීසියේ හිටපු නිලධාරීන් දෙදෙනෙක් පෝරකයට
+### Foward 2024 intermediate class admission applications to schools
+
+*2024-03-04 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foward-2024-intermediate-class-admission-applications-to-schools/108-278219) · `en`
+
+Applications for admission of students for intermediate classes in 2024 should be forwarded to the schools, the Education Ministry announced.
+
+The Ministey also said that it will not issue letters related to the admission of students for intermediate grades.
+
+Furthermore, the Ministry further informs the public not to visit the Ministry to obtain letters related to admission of children for intermediate grades.
+
+◼️
+
+[Data](articles/344c2427.json)
+
+---
+
+### Two former officials at Peliyagoda police officers killed in a suspect
 
 *2024-03-04 20:27:02* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙකුට-පහරදී-මරා-දැමූ-පෑලියගොඩ-පොලීසියේ-හිටපු-නිලධාරීන්-දෙදෙනෙක්-පෝරකයට/11-408425) · `si`
 
-සොරකම් සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් පුද්ගලයකු නීතීවීරෝධී ආකාරයෙන් රඳවා තබාගෙන කෲර ලෙස පහරදී මරා දැමීමේ චෝදනාවන්ට වරදකරුවන් වු පෑලියගොඩ පොලිසියේ අපරාධ විමර්ශන අංශයේ හිටපු නිලධාරීන් දෙදෙනෙකුට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා මරණීය දණ්ඩණය අද (04) නියම කළේය.
+Two Peliyagoda police officers were killed, and a Colombo High Court Judge was sentenced to death for a sustainable incident. The defendants were also sentenced to death, with compensation ordered. The case involved a 1997 complaint against Mohammed Dedash, who was acquitted.
 
-සමස්ථ පොලිසිය කෙරෙහිම මහජන විශ්වාශය පළුඳු වන ආකාරයට විත්තිකරුවන් පිළිකුල් සහගතව කටයුතු කර ඇතැයි පෙන්වා දෙමින් විත්තිකරුවන්ට මරණීය දණ්ඩනය පැනවු විනිසුවරයා මරණීය දණ්ඩනයට අමතරව විත්තිකරුවන්ට වසර 12 බැගින් බරපතල වැඩ සහිත සිරදඬුවම් සහ රුපියල් 65000/- බැගින් දඩ නියම කළ අතර පොලිසි පහරදීමෙන් මියගිය පුද්ගලයාගේ දියණීයට රුපියල් ලක්‍ෂ 20 වන්දියක් ගෙවීමටද නියම කළේය.
+🟩
+
+Colombo High Court Judge Navaratne Marasinghe, who was conquered by a person who was arrested in a lawyer in order to sustain a sustainable incident, was sentenced to death today (04).
+
+Defendants have been sentenced to death in the death penalties, in addition to the death penalties, and the devotees have been sentenced to 12 lakhs for the defendants of the defendants in the entire police station.He also ordered to pay compensation.
+
+The complainants have been proved by the complaints against the complaints that the complaints have been made in the Kelaniya Vanesasalliya Police 18 years ago.. Chaminda Kumara (43) and a constable served as a constable (33564). Anura Dharmapriya Weerawardena (50) persons.
+
+The judge who decided not to be accused of the Criminal Investigation Division of the Peliyagoda police investigation unit with the accused with the accused, the MP, who had not proved the charges against Mohammed Dedash, was acquitted.
 
 ...
 
 [Data](articles/63ebf473.json)
+
+[Extended Data](ext_articles/63ebf473.ext.json)
+
+---
+
+### මියන්මාරයේ සිරකරගෙන සිටි ලාංකිකයන් 8ක් බේරා ගනියි
+
+*2024-03-04 20:24:22* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සිරකරගෙන-සිටි-ලාංකිකයන්-8ක්-බේරා-ගනියි/11-408424) · `si`
+
+මියන්මාරයේ සයිබර් අපරාධ මධ්‍යස්ථානවල සිරවී සිටි ශ්‍රී ලාංකිකයන් 8ක් මියන්මාර රජයේ බලධාරීන් විසින් බේරාගෙන ඇති අතර ඔවුන් දැනට මියාවෙඩ්ඩි මධ්‍යම පොලිස් ස්ථානයේ සිටින බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+
+ශ්‍රී ලංකා රජය විසින් දරන ලද අඛණ්ඩ උත්සාහයෙන් අනතරුව මියාවෙඩ්ඩි ප්‍ර දේශයේ සයිබර් අපරාධ මධ්‍යස්ථාන වල සිරකරගෙන සිටි ශ්‍රී ලාංකිකයන් 56 දෙනාගෙන් අට දෙනෙක් මෙසේ බේරා ගැනීමට හැකිවී ඇතැයි විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+
+මියන්මාරයේ ශ්‍රී ලංකා තානාපති කාර්යාලය බේරාගත් ශ්‍රී ලාංකිකයන් කඩිනමින් ආපසු ගෙන්වා ගැනීමට කටයුතු කරමින් සිටින බවද විදේශ කටයුතු අමාත්‍යාංශය  පවසයි. මෙසේ රඳවාගෙන සිටි ශ්‍රී ලාංකිකයන් 56 දෙනා මියාවෙඩ්ඩි ප්‍ර දේශයේ ස්ථාන 4ක සිරගෙන කරගෙන සිටි අතර ඒ අතරින් එක් ස්ථානයක රඳවා සිටි ලාංකිකයන් 8ක් මෙසේ බේරා ගෙන තිබුණි.
+
+...
+
+[Data](articles/2c4cb482.json)
 
 ---
 
@@ -59,6 +101,8 @@ He made these comments while joining the national programme held today at Dharma
 ◼️
 
 [Data](articles/ad184bb4.json)
+
+[Extended Data](ext_articles/ad184bb4.ext.json)
 
 ---
 
@@ -106,23 +150,31 @@ The event, held at the BMICH, aimed to engage young legal professionals and reco
 
 ---
 
-### ලබන වසරේත් රටේ තිබෙන්නේ වත්මන් ආණ්ඩුවමයි
+### There is the present government next year
 
 *2024-03-04 19:27:01* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේත්-රටේ-තිබෙන්නේ-වත්මන්-ආණ්ඩුවමයි/11-408419) · `si`
 
-ලබන වසරේත් රටේ තිබෙන්නේ වත්මන් ආණ්ඩුවම බවත් ආණ්ඩුව නැති වෙන්නේ ආණ්ඩුවේ මහජන නියෝජිතයන් ගමට නොගියොත් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced government presence in villages next year, focusing on development after two years. The meeting, organized by Minister Prasanna Ranatunga, highlighted the need for decentralization and direct engagement with villagers.
 
-මේ නිසා වසර දෙකකට පසු සංවර්ධනය සදහා ලබා දී ඇති මුදල් ගෙන ගමට ගොස් ගමේ සංවර්ධනයට සෘජුවමට දායකවන්නැයි ද ජනාධිපතිවරයා ඉල්ලා සිටී.
+🟩
 
-ගම්පහ දිස්ත්‍රික්කයේ සංවර්ධන කටයුතු ද පිළිබද අද (04) ජනාධිපති ලේකම් කාර්යාලයේ පැවති රැස්වීමකට හදිසියේ සහභාගී වෙමින් ජනාධිපතිවරයා මේ බව කීවේය. රැස්වීම සංවිධානය කර තිබුණේ ඇමති ප්‍රසන්න රණතුංග මහතා විසිනි.
+President Ranil Wickremesinghe says that the government is present to the village next year.
 
-මෙම රැස්වීම සදහා ගම්පහ දිස්ත්‍රික්කයේ පොහොට්ටුවේ, ශ්‍රී ලංකා නිදහස් පක්ෂයේ හා එක්සත් ජාතික පක්ෂයේ දිස්‍ර්තික් නායකයන් තිදෙනාම සහභාගී වීම විශේෂත්වයකි.
+As a result, the President is also asking for the development of development after two years.
 
-රාජ්‍ය ඇමති ඉන්දික අනුරුද්ධ මහතා හැර ආණ්ඩුව නියෝජනය කරන හා ආණ්ඩුවට සහාය දෙන පාර්ලිමේන්තු මන්ත්‍රීවරුන් මේ සදහා සහභාගී වී සිටියහ. සිසිර ජයකොඩි, මිලාන් ජයතිලක යන මන්ත්‍රීවරු විදෙස්ගතව සිටින නිසා මෙම රැස්වීමට සහභාගීවූයේ නැත.
+The President made this observation at a meeting held at the Presidential Secretariat today (04) regarding the development activities in the Gampaha District.. The meeting was organized by Minister Prasanna Ranatunga.
+
+The meeting was a significant specialty to the meeting.
+
+Members of the government and supporting the government except for State Minister Indika Anuruddha were present. The meeting was not attended by MPs Sisira Jayakody and Milan Jayatilleke.
+
+"In 1978 MPs began decentralized. Then a MP had to work for Rs.. Need money to improve a village. In particular, start this work in their own area. The only objective here is to go to the village level. If we were not able to go then, now a good opportunity to go to the village.
 
 ...
 
 [Data](articles/e0f02e6d.json)
+
+[Extended Data](ext_articles/e0f02e6d.ext.json)
 
 ---
 
@@ -174,21 +226,29 @@ Therefore, the Ministry of Education has stated that the Ministry of Education h
 
 ---
 
-### පුපුරණ ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් කමාන්ඩෝ සෙබලා රඳවාගෙන ප්‍රශ්න කරයි
+### The Commando arrested with explosives is detained and questioned
 
 *2024-03-04 19:02:36* · [`adalk`](https://www.ada.lk/breaking_news/පුපුරණ-ද්‍රව්‍ය සමග-අත්අඩංගුවට-ගත්-කමාන්ඩෝ-සෙබලා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-408418) · `si`
 
-මැදවච්චිය නගරයේදී අත් අඩංගුවට ගත් අධි බලැති පුපුරණත් ද්‍රව්‍ය තොගයක් බසයක රැගෙන යමින් සිටි කමාන්ඩෝ සෙබලාගෙන් පොලිසිය තුළ රදවා ප්‍රශ්න කිරීමට, මැදවච්චිය මහේත්‍රාත් අධිකරණය අද (03දා) දින           මැදවච්චිය පොලිසියට අවසර ලබා දී ඇත.
+A 33-year-old man from the Second Commando Regiment was arrested in Medawachchiya for carrying high-power explosives. He will be interrogated for 3 days starting November 6th.
 
-ඒ අනුව 03 වෙනිදා සිට 06 වෙනිදා දක්වා දින 03 ක කාලයක් මෙම සැකකරු මැදවච්චිය පොලිස් ස්ථානයේ රදවා ප්‍රශ්න කිරීම සිදු කරන බව පොලිසිය කියයි.
+🟩
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ දෙවන කමාන්ඩෝ රෙජිමේන්තුව, තිරිමුරුත්කන්ඩිය, කිලිනොච්චිය යුද හමුදා  කදවුරේ සේවය කල  33 හැවිරිදි තරුණයෙකි.
+Medawachchiya Magistrate's Court today (3) has been granted to the Medawachchiya Police today to interpret a large quantity of high-power explosive materials in Medawachchiya.
 
-පසුගිය(02)දින සවස මැදවච්චිය පොලිස් ස්ථානාධිපති ආර්.එම්.අයි.බී රත්නායක මහතා ඇතුලු විශේෂ පොලිස් කණ්ඩායමක් යුත්තියේ මෙහෙයුමට සමගාමීව මැදවච්චිය නගරයේ හදීසි මාර්ග බාධක යොදා දුර ගමන් සේවා බස් රථ පරික්ෂාවක් සිදු කළේය.
+Accordingly, the suspect will be interrogated at the Medawachchiya Police Station for a period of 3 days from the November 6th.
+
+The second commandos was a 33-year-old man who served at the Second Commando Regiment, Thirijuna, Kilinochchi Army Base.
+
+Medawachchiya Police OIC RMB Ratnayake, Medawachchiya OIC, RMB Ratnayake, was conducting a long distance bus service using roadblocks in the Medawachchiya town.
+
+This commanduro is traveling from Jaffna to Moneragala to the house of the bubble, Kuruitenna and Mahiyanganaya. The soldier was four powerful dates naters, six non-electric det nates, T.N.T. Police have found five grams of high-power explosives and 20 feet of Det Court.
 
 ...
 
 [Data](articles/ab8b9d3c.json)
+
+[Extended Data](ext_articles/ab8b9d3c.ext.json)
 
 ---
 
@@ -2255,45 +2315,5 @@ The Colombo District Court, which considered a complaint filed by Fonsek recentl
 [Data](articles/189f1126.json)
 
 [Extended Data](ext_articles/189f1126.ext.json)
-
----
-
-### SJB files objections to injunction preventing suspension of Sarath Fonseka
-
-*2024-03-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97717/sjb-files-objections-to-injunction-preventing-suspension-of-sarath-fonseka) · `en`
-
-The Samagi Jana Balavegaya (SJB) has stated before the courts that it will file objections requesting to invalidate the injunction issued preventing the suspension of Field Marshal Sarath Fonseka’s party membership and positions held in the party, and from taking disciplinary action against him.
-
-Appearing for the Opposition Leader Sajith Premadasa, President’s Counsel Romesh de Silva communicated this to the Colombo District Court when a petition filed by SJB Chairman Field Marshal Sarath Fonseka in this regard was taken up this morning (04).
-
-Accordingly, the Colombo District Judge Sandun Withana ordered the relevant objections to be taken up for consideration this afternoon.
-
-The Colombo District Court, which considered a complaint filed by Fonsek recently, issued the relevant injunction on Leader of the SJB Sajith Premadasa, its General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and Treasurer of the party Dr. Harsha de Silva.
-
-◼️
-
-[Data](articles/4230ea63.json)
-
-[Extended Data](ext_articles/4230ea63.ext.json)
-
----
-
-### Sri Lanka’s CEB reports Rs61bn profit for 2023 with Dec quarter gains
-
-*2024-03-04 11:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-reports-rs61bn-profit-for-2023-with-dec-quarter-gains-152835/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Bord has reported a profit of 61.2 billion rupees for the year to December 2023, turning around from a loss of 298 billion last year, with all the profits coming in the last year amid heavy rain and price hike, interim accounts show.
-
-The CEB reported profits of 77.9 billion rupees for the December quarter, compared to a loss of 182 billion rupees last year.
-
-About 94 billion rupees in losses were forex losses, coming from the central bank, which printed money to suppress rates and triggered a steep currency collapse in a failed float with a surrender rule.
-
-CEB revenues rose 55 percent to 156 billion rupees in the December quarter, cost of sales fell 45 percent to 78 billion rupees amid heavy rains, giving a gross profit of 78.2 billion rupees for the quarter.
-
-...
-
-[Data](articles/10254cdf.json)
-
-[Extended Data](ext_articles/10254cdf.ext.json)
 
 ---

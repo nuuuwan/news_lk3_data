@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 05:37:29**
+As of **2024-03-04 05:56:56**
 
 ## Newspaper Stats
 
-*Scraped **10,663** Articles*
+*Scraped **10,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-islandlk | 569
+islandlk | 572
 dailyftlk | 572
 adalk | 899
 adaderanalk | 1,301
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,661 (100.0%) of 10,663 articles have been extended.
+10,661 (100.0%) of 10,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Medicare 2024 concludes with a flourish
+
+*2024-03-04 05:31:00* · [`islandlk`](http://island.lk/medicare-2024-concludes-with-a-flourish/) · `en`
+
+In a dazzling display of innovation and healthcare prowess, the 13th edition of Sri Lanka’s esteemed National Healthcare Expo, Medicare 2024 was officially inaugurated on March 01st at the Sirimavo Bandaranaike Memorial Exhibition Center at iconic BMICH. The grand inauguration was attended by Hon. Minister of Health, Dr. Ramesh Pathirana as the chief guest amongst the other distinguished guests.
+
+Medicare 2024 rolled out over three days till the 3rd March, featuring 4 main expos i.e. National Healthcare Expo, Ayurveda & Herbal Expo, Medical Tourism Expo and Healthy Living Expo and featured a number of medical seminars and B2B interaction platforms. The Expo featured over 130 stalls from local and international organisations representing Pharmaceutical, Medical Equipment and Hospital sectors and is estimated to have attracted well over 10,000 visitors, both general public and industry stakeholders. Asiri Health was this year’s Medicare Expo’s Main Sponsor.
+
+...
+
+[Data](articles/4a2c1ca3.json)
+
+---
+
+### IIHS launches Bachelor of Business Administration programme with UGC approval
+
+*2024-03-04 05:31:00* · [`islandlk`](http://island.lk/iihs-launches-bachelor-of-business-administration-programme-with-ugc-approval/) · `en`
+
+The International Institute of Health Sciences (IIHS), which has long been recognised as a pioneer in the healthcare sector, has ventured into the business administration segment by launching the Bachelor of Business Administration (BBA) degree programme.
+
+The newly launched BBA programme at the IIHS has received approval from the University Grants Commission (UGC), solidifying its legitimacy and ensuring that students receive a recognised educational qualification. This programme comes as an exciting opportunity for individuals interested in combining their passion for business with the unique expertise offered by a healthcare institute. One of the key advantages of the BBA programme offered by the IIHS is the comprehensive curriculum, which consists of 120 credits with a strong focus on research and internships.
+
+...
+
+[Data](articles/f157d982.json)
+
+---
 
 ### 2024; World Election Year and the Misconception of 50%
 
@@ -59,6 +87,20 @@ During the time of former President Rajapaksa, via amendments to the Constitutio
 ...
 
 [Data](articles/366c6b04.json)
+
+---
+
+### Teejay Lanka board gets two independent directors
+
+*2024-03-04 05:10:00* · [`islandlk`](http://island.lk/teejay-lanka-board-gets-two-independent-directors/) · `en`
+
+Teejay Lanka PLC has announced the appointment of Bill McRaith and Shrihan B. Perera as independent, non-executive directors, effective 1st March 2024.Recently retired after an illustrious career of more than three decades in the global apparel and retail industries, Bill McRaith was, in his last appointment, Chief Supply Chain Officer at PVH Corp., the American clothing company that owns brands such as Tommy Hilfiger and Calvin Klein.
+
+Based at the company’s New York headquarters, he oversaw PVH’s global supply chain operations and was responsible for developing the global production structure, processes, manufacturing footprint and logistics network that serviced the needs of the company’s global retail and wholesale divisions.
+
+...
+
+[Data](articles/4a9b8ab4.json)
 
 ---
 
@@ -2105,71 +2147,5 @@ Social Dr. Indrazaami, Members of the Presidential Advisor on Multilateral and C
 [Data](articles/f57caf99.json)
 
 [Extended Data](ext_articles/f57caf99.ext.json)
-
----
-
-### Peaceful opposition in front of the Quapitiya Purpose
-
-*2024-03-03 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194074) · `si`
-
-The United Longa's Archbishop opposes the United Fisheries Society of Meteoro's proclamation over Negombo's ownership. The Catholic Church threatens legal action, but the United Fisheries Society of Pitchmanathana accuses the Archbishop of disrespecting Catholicism. Protests at St. Sebastian Shrine target Cardinal Ranjith and the Quarters against Catholics.
-
-🟩
-
-Penalized opposition in front of St. Sebastian Shrine in Katuwapitiya this morning.
-
-The United Longa's resident of the Archbishop is against the proclamation of the United Fisheries Society of the Meteoro.
-
-This is a strong disagreement regarding the ownership of the back of Negombo.
-
-The Catholic Church said that the Catholic Church was said to have legal action to take legal measures to take legal measures to take legal measures.
-
-However, the United Fisheries Society of Pitchmanathana The United Fisheries Society has called a press conference that the Archbishop is also disrespectful to Catholicism.
-
-Saint Sebastian Shrine has been protesting against the Cardinal Ranjith and the Quarters against the Catholics against the Catholics against the Catholics.
-
-◼️
-
-[Data](articles/f80b248b.json)
-
-[Extended Data](ext_articles/f80b248b.ext.json)
-
----
-
-### High heat in 5 provinces
-
-*2024-03-03 13:26:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாகாணங்களில்-அதிக-வெப்பம்/175-334133) · `ta`
-
-The Department of Meteorology warns of high heat in five provinces and Mannar district, impacting Northwest, West, Sabaragamuwa, South, and Eastern Provinces.
-
-🟩
-
-The Department of Meteorology has said that the hot climate in the five provinces and the Mannar district is highly felt by the human body.
-
-The situation will affect the situation in the Northwest, West, Sabaragamuwa, South and Eastern Provinces.
-
-◼️
-
-[Data](articles/3ce376c8.json)
-
-[Extended Data](ext_articles/3ce376c8.ext.json)
-
----
-
-### Applications open for 2024/25 Presidential Scholarship programme
-
-*2024-03-03 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97701/applications-open-for-202425-presidential-scholarship-programme) · `en`
-
-The application process for the “Presidential Scholarship Program 2024/25” targeting 100,000 school students facing economic difficulties is now open, the President’s Media Division (PMD) reported.
-
-Accordingly, in line with the vision of President Ranil Wickremesinghe, applications will be accepted until March 20, 2024.
-
-To apply, interested candidates can access the application form, instructions and all the relevant information in Sinhala, Tamil and English through the official Facebook page of the President’s Fund at www.facebook.com/president.fund and the official website www.presidentsfund.gov.lk, and are required to submit their completed applications to their respective school principals before the deadline.
-
-...
-
-[Data](articles/03d23e57.json)
-
-[Extended Data](ext_articles/03d23e57.ext.json)
 
 ---

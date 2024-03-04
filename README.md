@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 00:17:39**
+As of **2024-03-05 00:33:18**
 
 ## Newspaper Stats
 
-*Scraped **10,856** Articles*
+*Scraped **10,857** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 105
+colombotelegraphcom | 106
 bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,856 (100.0%) of 10,856 articles have been extended.
+10,856 (100.0%) of 10,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -699,6 +699,22 @@ This commanduro is traveling from Jaffna to Moneragala to the house of the bubbl
 [Data](articles/ab8b9d3c.json)
 
 [Extended Data](ext_articles/ab8b9d3c.ext.json)
+
+---
+
+### Sri Lankan Partnership In Bombing, Starving & Helping “The Gaza Fund”
+
+*2024-03-04 18:47:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankan-partnership-in-bombing-starving-helping-the-gaza-fund/) · `en`
+
+“At least 30,000 people killed and 70,457 injured in Gaza. I am appalled by the tragic human toll” said the UN Secretary General Antonio Gutteres yesterday. This is the updated score card of the Israeli genocide.
+
+Now, aptly dubbed as the “Flour Massacre”, on 29 February 2024 more than 117 people were killed and 760 injured in Gaza City by Israeli troops firing at starving people gathering to receive rare distribution of food. Aid trucks carrying flour were believed to be on the way. The pathological liar Israel said, “deaths due a stampede”. In another version said, “Israel forces fired only warning shots to control the crowd.”
+
+United Nations Office for the Coordination of Humanitarian Affairs (OCHA), reports there are 2.2 million people in Gaza who are malnourished. Nearly 600,000 are a step away from starving to death. Israel is using ‘HUNGER’ as a method of warfare.
+
+...
+
+[Data](articles/a84b101a.json)
 
 ---
 
@@ -2293,29 +2309,5 @@ They did not condemn the attack on Israel and called for an immediate ceasefire.
 [Data](articles/51f41d90.json)
 
 [Extended Data](ext_articles/51f41d90.ext.json)
-
----
-
-### Manna Roshan's brother shot
-
-*2024-03-04 13:17:49* · [`adalk`](https://www.ada.lk/breaking_news/මන්නා-රොෂාන්ගේ-සහෝදරයා-වෙඩි-කා-නසී/11-408411) · `si`
-
-Manna Roshan's brother, a criminal leader, was shot and killed in Hanwella. Two suspects fled in a cab, and one was killed at Avissawella hospital.
-
-🟩
-
-A brother of Manna Roshan, who is an organized criminalist leader, has shot dead, police said.
-
-The shooting was shot dead at Hanwella. Two persons who traveled by a cab have been demanded and the shooting has fled.
-
-One person was killed after being injured in the Avissawella hospital.
-
-The 31-year-old Slapicuit resident has commated that he is a brother of organized criminal, manna Roshan.
-
-◼️
-
-[Data](articles/eeca480e.json)
-
-[Extended Data](ext_articles/eeca480e.ext.json)
 
 ---

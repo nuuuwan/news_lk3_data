@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 14:15:42**
+As of **2024-03-04 14:54:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,736 (99.9%) of 10,746 articles have been extended.
+10,746 (100.0%) of 10,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,19 +42,27 @@ Sri Lanka Customs has apprehended two passengers who arrived in Sri Lanka with 0
 
 [Data](articles/3998e4e1.json)
 
+[Extended Data](ext_articles/3998e4e1.ext.json)
+
 ---
 
-### අද හතරක් තෙමෙයි 20ක් වේලෙයි
+### Today, four people were 20
 
 *2024-03-04 12:37:24* · [`adalk`](https://www.ada.lk/breaking_news/අද-හතරක්-තෙමෙයි-20ක්-වේලෙයි/11-408409) · `si`
 
-මේ දිනවල පවතින දැඩි සූර්ය රශ්මිය තවදුරටත් දැඩිව පවතින බවත් දිස්ත්‍රික්ක 4කට පමණක් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාළගුණ විද්‍යා දෙපාර්ථමේන්තුව පෙන්වා දෙයි.
+Heavy solar shift expected, rain/thundershowers in Kalutara, Ratnapura, Galle, Matara. 12 districts (4) to address natural disasters. Highest temp 35.8°C, lowest 7.5°C in Nuwara Eliya. Highest rainfall in Neluwa, Galle.
 
-වැසි ඇතිවියහැකි දිස්ත්‍රික්ක ලෙස කළුතර, රත්නපුර, ගාල්ල සහ මාතර බව දක්වා ඇත. දිවයිනේ සෙසු දිස්ත්‍රික්ක 20හිම ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතී.  එයින්ද දිස්ත්‍රික්ක 12ක  ඇතැම් ස්ථානවල අද (04දා) මිනිස් සිරුරට දැනෙන උණුසුම්  තත්වය අවධානය යොමු කළ යුතු මට්ටමේ පවතින බව කාලගුණ විද්‍යා දෙපාර්තමෙන්තුවේ ස්වාභාවික විපත් පිළිබඳ අනතුරු ඇඟවීමේ මධ්‍යස්ථානය සඳහන් කරයි. පුත්තලම, කුරුනෑගල, ගම්පහ, කොළඹ, හම්බන්තොට  මන්නාරම, අනුරාධපුර,කැගල්ල, කළුතර, රත්නපුර, ගාල්ල, මාතර, දිස්ත්‍රික්වල මෙම තත්වය පැවැතිය හැක.
+🟩
+
+The weather forest shows that there will be a heavy solar shift in these days and will show rain or thundershowers at four places during the evening alone or at night.
+
+Show showers in Kalutara, Ratnapura, Galle and Matara. The other districts in the country are mainly dry weather.The natural disasters of the Department of Meteorological Center states that in some parts of 12 districts (04), the natural disasters of the Department of Meteorological Center (NPF) states that the natural disasters should be addressing today (04).. This is the case in Puttalam, Kurunegala, Gampaha, Colombo, Hambantota, Anuradhapura, Ratnapura, Ratnapura, Ratnapura, Ratnapura, Ratnapura.
 
 ...
 
 [Data](articles/237645fc.json)
+
+[Extended Data](ext_articles/237645fc.ext.json)
 
 ---
 
@@ -90,6 +98,8 @@ The deceased is a resident of Niripola and the Hanwella Police are investigating
 
 [Data](articles/74e2274b.json)
 
+[Extended Data](ext_articles/74e2274b.ext.json)
+
 ---
 
 ### Indian companies eye critical minerals mining in Sri Lanka
@@ -108,21 +118,31 @@ The ministry met with representatives from companies including Ola Electric, Hin
 
 ---
 
-### හදපාන්විල විල්ලූවෙන් අක්කර 100ක් ප්‍රභූන් 4කට දීමේ සූදානමක්?
+### Plans to give 100 acres to 4 acres of 100 acres from Wilpawwa?
 
 *2024-03-04 12:19:38* · [`adalk`](https://www.ada.lk/breaking_news/හදපාන්විල-විල්ලූවෙන්-අක්කර-100ක්-ප්‍රභූන්-4කට-දීමේ-සූදානමක්-/11-408408) · `si`
 
-ආසියාවේ විශාලතම විල්ලු පද්ධතිය ලෙස සැලකෙන පොළොන්නරුව  හදපාන්විල විල්ලූ ආශ්‍රිතව අක්කර සීයකින් යුත් භූමි ප්‍රමාණයක්, ප්‍රභූන් සිව් දෙනකුට ලබාදීමට සැලසුම් සකස් කරමින් සිටින බව ජල ගැලීම් ජාතික වනෝද්‍යානය සුරැකීමේ සංවිධානය සඳහන් කරයි.
+Plans to allocate 4 acres from 100 acres in Wilpawwa to four elites were halted due to protests and opposition from economic organizations and army officials. The National Park Survey Organization and the National Park Salvation Organization (NPF) were involved. The Mahaweli Authority of Sri Lanka stated the land doesn't belong to them, but they agreed to give a few lands to wildlife after discussions.
 
-මීට පෙර අවස්ථා තුනකදී එම ප්‍රදේශයේ අක්කර සියයකින් යුතු එම භූමිය දේශපාලඥයින් කීපදෙනෙකුට සහ යුද හමුදාවේ උසස් නිලධාරීන් කීපදෙනෙකුට ලබාදීමට සැලසුම් කර තිබියදී පරිසර සංවිධාන සහ ජනතා විරෝධය හමුවේ එය නතර කළ බව
+🟩
 
-ජල ගැලීම් නිම්න ජාතික වනෝද්‍යයන සුරැකීමේ සංවිධානයේ සභාපති ටී. තීපන් මහතා සඳහන් කළේය.
+The Flood National Park organizes that plans are being made to provide plans for four elites to be given to four elites, including the largest land area of the Polonnaruwa Sathpaganwila Wildlife.
 
-2019 වර්ෂයේ ද මෙම ඉඩම් මංකොල්ලයට දේශපාලනඥයන් කිහිපදෙනෙකු සහ යුද හමුදාවේ උසස් නිලධාරීන් ක්‍රියාකළ අතර එවකට, හිටපු  වනජීවී අධ්‍යක්ෂ ජෙනරාල් වරයා මෙන්ම පොළොන්නරු කලාප භාර සිටි වනජීවී සහකාර අධ්‍යක්ෂ, ඩබ්ලිව්.ඩී.එම්.ජේ.වික්‍රමසිංහ මහතා එහි ඇති වටිනාකම පෙන්වා දීමෙන් පසු භූමි ප්‍රමාණය රැකගැනීමට හැකියාව ලැබුණි.
+Eventually, it was stopped in the face of the Economic organizations and protests that had been planned to provide hundreds of acres of land and several Army high officials in the area on three previous occasions.
+
+Water Valley National Park National Park Survey Organization. Mr. Athaman said.
+
+Army and the Army High Commissioner General, the former Wildlife Assistant in the year 2019, was the former Wildlife Director General and the Wildlife Assistant in Polonnaruwa.Was able to.
+
+Wildlife Assistant Director of Wildlife Assistant with the high military officer who is ready to obtain the land in the Festival Naviya National Park, as well as the largest increasing ecosystem.
+
+Salvation of the National Park National Park The National Park Salvation Organization (NPF). Mr. Deepan said.
 
 ...
 
 [Data](articles/f9fff4ab.json)
+
+[Extended Data](ext_articles/f9fff4ab.ext.json)
 
 ---
 
@@ -184,13 +204,19 @@ The two individuals who sustained critical gunshot injuries had been rushed to h
 
 ---
 
-### மற்றுமொரு துப்பாக்கிச்சூடு
+### Another shooter
 
 *2024-03-04 12:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்சூடு/175-334175) · `ta`
+
+"Another shooter" is a term used to describe a person who engages in shooting activities, often in a competitive or recreational context.
+
+🟩
 
 ◼️
 
 [Data](articles/2954b1fe.json)
+
+[Extended Data](ext_articles/2954b1fe.ext.json)
 
 ---
 
@@ -334,23 +360,29 @@ According to the Forbes magazine, Taylor is among the world's most powerful wome
 
 ---
 
-### ”தேங்காய் விலையுயர்வால் கடுமையான பாதிப்பு ஏற்படும்”
+### "Coconut expensive will be severely affected"
 
 *2024-03-04 11:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலையுயர்வால்-கடுமையான-பாதிப்பு-ஏற்படும்/175-334173) · `ta`
 
-தேங்காய்ப் பாலில் பெரும்பாலான கறிகள் தயாரிக்கப்படுவதால், தேங்காய் விலை உயர்வானது எதிர்காலத்தில் உணவுப்பொதி மற்றும் கறி உணவுகளில் கடுமையான பாதிப்பை ஏற்படுத்தும் என உணவுத் துறை தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+"Coconut prices doubling, severely impacting food packs, curry, and snacks. Rukshan Harshana warns of rising coconut oil prices."
 
-60 முதல் 80 வரையில் இருந்த தேங்காயின் வழமையான விலை இரண்டு மடங்காக அதிகரித்துள்ளதாக அகில இலங்கை சிற்றுண்டிச்சாலை உரிமையாளர்கள் சங்கத்தின் தலைவர் ருக்ஷான் ஹர்ஷன நேற்று ஊடகங்களுக்கு தெரிவித்தார். ஒரு தேங்காய் தற்போது ரூ.120 முதல் 150 வரை விற்பனை செய்யப்படுகிறது.
+🟩
 
-அதிகரித்துள்ள தேங்காய் விலையின் கீழ் சோறு மற்றும் கறி சாப்பாடு பொதிகளை தயார் செய்ய முடியாமல் சிற்றுண்டி மற்றும் உணவக உரிமையாளர்கள் மிகுந்த சிரமத்திற்கு உள்ளாகி வருவதாகவும், இதனால் உணவுப் பொதிகளை அதிக விலைக்கு விற்க வேண்டிய நிச்சயமற்ற சூழ்நிலையில் இருப்பதாகவும் அவர் கூறினார்.
+Most of the coconut milk is made of coconut milk, and the rise in the price of coconuts will have a severe impact on the future of the food pack and curry, the food sector unions said.
 
-அரிசி, கோழிக்கறி, முட்டை, எரிவாயு உள்ளிட்ட அனைத்தும் கணிசமாக உயர்ந்துள்ள நிலையில் தேங்காய்களின் எதிர்பாராத விலை உயர்வு ஏற்பட்டுள்ளது.
+Rukshan Harshana, president of the All Ceylon Resources Owners Association, told the media yesterday that the usual price of coconuts from 60 to 80 has doubled.A coconut is currently sold for Rs.120 to 150.
 
-தேங்காய்களின் திடீர் அதிகரிப்பு காரணமாக எதிர்வரும் நாட்களில் தேங்காய் எண்ணெயின் விலையும் உயரும் என ஹர்ஷன எச்சரித்துள்ளார்.
+He said that snacks and restaurant owners are in great difficulty without being able to prepare rice and curry packets under the increased coconut prices and are in the uncertainty to sell food packages at higher prices.
+
+Coconuts have an unexpected rise in rice, including rice, chicken, eggs and gas.
+
+Harshana has warned that the price of coconut oil will rise in the coming days due to the sudden increase in coconuts.
 
 ◼️
 
 [Data](articles/0018f16d.json)
+
+[Extended Data](ext_articles/0018f16d.ext.json)
 
 ---
 
@@ -382,21 +414,31 @@ The OIC of the Katunayake Airport Police is due to be produced before the Negomb
 
 ---
 
-### ”அரச வருவாயை அதிகரிக்க எம்மிடம் திட்டங்கள் உள்ளன”
+### “We have plans to increase state income”
 
 *2024-03-04 11:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வருவாயை-அதிகரிக்க-எம்மிடம்-திட்டங்கள்-உள்ளன/175-334172) · `ta`
 
-அரச வருவாயை அதிகரிப்பதற்குத் திட்டமிட்டுள்ளதாகக் கூறிய NPP தலைவர் அனுரகுமார திஸாநாயக்க, அரச வருமானத்தை அதிகரிப்பதற்கான வழிகள் குறித்து உள்நாட்டு இறைவரித் திணைக்களத்துடன் இன்று கலந்துரையாடியதாக தெரிவித்தார்.
+NPP leader Anuragumara Dissanayake plans to boost state income through Customs, Liquor Dept., and IRT by enhancing skills and technology. He also aims to revive the economy with gemstones, tea, tourism, and agriculture, ensuring basic needs like food, education, and health.
 
-இரத்தினபுரி மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், சுங்க திணைக்களம் மற்றும் மதுவரித் திணைக்களம் ஊடாகவும் அரச வருமானத்தை அதிகரிக்க முடியும் என தெரிவித்தார்.
+🟩
 
-ஐஆர்டி ஊழியர்களின் திறமையை அதிகரித்து, தொழில்நுட்பத்தை மேம்படுத்தினால் உள்நாட்டு இறைவரித் திணைக்களத்தின் மூலம் கிடைக்கும் வருவாயை இரட்டிப்பாக்க முடியும் என்றார்.
+NPP leader Anuragumara Dissanayake said he was planning to increase state revenue and said that he had discussed with the Department of Home Affairs today on the way to increase state income.
 
-"நாங்கள் பணத்தைப் பெறமுடியும். உள்நாட்டு இறைவரித் திணைக்களத்துடன் கலந்துரையாடியுள்ளோம். திணைக்களத்தில் பயன்படுத்தப்படும் சட்டங்கள், பணியாளர்கள் மற்றும் தொழில்நுட்பத்தில் சில மாற்றங்கள் செய்யப்பட உள்ளன.
+Speaking at the Ratnapura District Women's Conference, she said that the state income could be increased through the Customs Department and the Department of Liquor.
+
+He said that if IRT employees increase the skills of the IRT employees and improve the technology, the revenue of the Internal Revenue Department could be doubled.
+
+“We can get the money. We have discussed with the Department of Internal Lord. There are some changes to the laws, staff and technology used in the department.
+
+If employees increase the performance of the. The revenue from the IRT, Customs and Liquor Department can be increased.
+
+Dissanayake said the NPP government would ensure basic needs, including the food, education and health needs of the people.
 
 ...
 
 [Data](articles/4949bbfb.json)
+
+[Extended Data](ext_articles/4949bbfb.ext.json)
 
 ---
 
@@ -460,17 +502,23 @@ CEB revenues rose 55 percent to 156 billion rupees in the December quarter, cost
 
 ---
 
-### நீதிமன்றில் கமரா மூலம் இரகசிய வாக்குமூலம் வழங்கினார் சமன்
+### Saman made a secret confession by camera in court
 
 *2024-03-04 11:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-கமரா-மூலம்-இரகசிய-வாக்குமூலம்-வழங்கினார்-சமன்/175-334169) · `ta`
 
-தரமற்ற மனித இம்யூனோகுளோபுலின் ஊசியை இறக்குமதி செய்தமை தொடர்பில் கைது செய்யப்பட்ட மேலதிக சுகாதார செயலாளர் சமன் ரத்நாயக்க, மாளிகாகந்த நீதவான் நீதிமன்றில் கமரா மூலம் இரகசிய வாக்குமூலமொன்றை சமர்ப்பித்துள்ளார்.
+Saman Ratnayake, arrested for importing substandard human immunoglobulin, submitted a secret affidavit in court. Detained until March 14.
 
-தரமற்ற மனித இம்யூனோகுளோபுலின் ஊசியை இறக்குமதி செய்த வழக்கில் மார்ச் 14ஆம் திகதி வரை அவர் தடுப்புகாவலில் வைக்கப்பட்டுள்ளார்.
+🟩
+
+Additional Health Secretary Saman Ratnayake, who was arrested in connection with the importation of substandard human immunoglobulin, has submitted a secret affidavit at the Magistrate's Court.
+
+He has been detained until March 14 in the case of importing substandard human immunoglobulin.
 
 ◼️
 
 [Data](articles/cdbb93ac.json)
+
+[Extended Data](ext_articles/cdbb93ac.ext.json)
 
 ---
 
@@ -498,21 +546,29 @@ Parliamentarian Professor Ranjith Bandara responded to this event.
 
 ---
 
-### இலங்கையில் நீண்ட காலம் தங்கியிருப்பவர்களுக்கு விசேட அறிவித்தல்
+### Special Notification for Long Staying in Sri Lanka
 
 *2024-03-04 10:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-நீண்ட-காலம்-தங்கியிருப்பவர்களுக்கு-விசேட-அறிவித்தல்/175-334168) · `ta`
 
-பிப்ரவரி 2022 முதல் இலங்கையில் இருக்கும் ரஷ்யர்கள் மற்றும் உக்ரேனியர்கள் விசாவிற்கு விண்ணப்பிக்க வேண்டும் அல்லது நாட்டை விட்டு வெளியேற வேண்டும் என்று பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் நேற்று தெரிவித்தார்.
+Sri Lanka's Public Security Minister Tran Ales announced that Russians and Ukrainians must apply for a visa or leave by February 2022, as free visa facilities won't be extended. The Immigration Department issued a letter demanding their departure by March 7, 2024. Despite the ongoing conflict, direct flights and entry facilities are now available. The minister corrected a previous statement, clarifying that visas or departure are required, not a 14-day extension.
 
-அவர்களுக்கு வழங்கப்பட்டுள்ள இலவச விசா வசதி நீடிக்கப்பட மாட்டாது எனவும், புதிய வீசாக்களுக்கு விண்ணப்பிப்பதன் மூலம் குடிவரவு விதிமுறைகளுக்கு இணங்க வேண்டும் எனவும் அமைச்சர் டெய்லி மிரருக்கு தெரிவித்தார்.
+🟩
 
-இதேவேளை, சுற்றுலா அபிவிருத்தி அதிகார சபையின் கூற்றுப்படி, 2022 பெப்ரவரி மாதத்திலிருந்து 300 முதல் 400 ரஷ்யர்கள் மற்றும் உக்ரேனியர்கள் இலங்கையில் தங்கியுள்ளனர்.
+Public Security Minister Tran Ales yesterday said that the Russians and Ukrainians in Sri Lanka should apply for a visa or leave the country since February 2022.
 
-கடந்த வாரம், குடிவரவுத் திணைக்களம் சுற்றுலா அமைச்சின் செயலாளருக்கு கடிதம் ஒன்றை வெளியிட்டு, இலங்கையில் வசிக்கும் நீண்டகால உக்ரேனிய மற்றும் ரஷ்ய சுற்றுலாப் பயணிகளை மார்ச் 7 ஆம் திகதிக்குள் வெளியேறுமாறு அறிவிக்குமாறு கோரியிருந்தது.
+Minister Daily Mirror said that the free visa facilities provided to them will not be extended and that the new visas should be complied with the immigration regulations.
+
+Meanwhile, according to the Tourism Development Authority, 300 to 400 Russians and Ukrainians have been staying in Sri Lanka since February 2022.
+
+Last week, the Department of Immigration issued a letter to the Secretary of the Ministry of Tourism and demanded that the longtime Ukrainian and Russian tourists living in Sri Lanka be left by March 7.
+
+The Ukrainians and Russians have been allowed to stay in Sri Lanka without fines on expiration and outdated tourist visas based on two years of free visas since February 28, 2022, after the Russia-Ukrainian war erupted.
 
 ...
 
 [Data](articles/9ec144f5.json)
+
+[Extended Data](ext_articles/9ec144f5.ext.json)
 
 ---
 
@@ -1823,6 +1879,8 @@ The advent of JR as Prime Minister in 1977 and as the first executive president 
 ...
 
 [Data](articles/670bb669.json)
+
+[Extended Data](ext_articles/670bb669.ext.json)
 
 ---
 

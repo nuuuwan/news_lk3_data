@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 12:12:37**
+As of **2024-03-04 12:39:07**
 
 ## Newspaper Stats
 
-*Scraped **10,718** Articles*
+*Scraped **10,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,85 @@ colombotelegraphcom | 104
 bbccomsinhala | 128
 dbsjeyarajcom | 172
 newsfirstlk | 363
-economynextcom | 548
+economynextcom | 551
 dailyftlk | 572
 islandlk | 578
-adalk | 904
-adaderanalk | 1,309
+adalk | 906
+adaderanalk | 1,311
 tamilmirrorlk | 1,312
 virakesarilk | 1,435
 dailymirrorlk | 1,633
-adaderanasinhalalk | 1,660
+adaderanasinhalalk | 1,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,707 (99.9%) of 10,718 articles have been extended.
+10,718 (99.9%) of 10,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Principal arrested over alleged sexual assault of woman inside school
+
+*2024-03-04 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97720/principal-arrested-over-alleged-sexual-assault-of-woman-inside-school) · `en`
+
+A principal of a school in Monaragala has been arrested over an alleged incident of attempting to sexually assault a woman inside the school premises.
+
+The arrest has been carried out by Dombagahawela Police last night (03).
+
+It was reported that the suspected school principal had tried to sexually assault a woman who was working in the school canteen.
+
+The arrested person will be produced before Monaragala Magistrate’s Court today (04).
+
+◼️
+
+[Data](articles/2e029b3b.json)
+
+---
+
+### One killed in shooting in Hanwella
+
+*2024-03-04 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97719/one-killed-in-shooting-in-hanwella) · `en`
+
+A person has been killed in a shooting incident that took place in the Niripola area of Hanwella a short while ago, the police said.
+
+◼️
+
+[Data](articles/2dbb54bb.json)
+
+---
+
+### තවත් වෙඩිතැබීමක්
+
+*2024-03-04 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194110) · `si`
+
+හංවැල්ල, නිරිපොළ ප්‍රදේශයේ වෙඩිතැබීමකින් එක් පුද්ගලයෙකු මියගොස් ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/87571478.json)
+
+---
+
+### 2024 ජනවාරි මාසය රටට සුබ වෙලා
+
+*2024-03-04 11:53:03* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනවාරි-මාසය-රටට-සුබ-වෙලා/11-408407) · `si`
+
+මේ වසරේ ජනවාරි මාසය තුළ ශ්‍රි ලංකාවට විදේශ විනිමය ගලා ඒම් තුළ පැහැදිලි වර්ධනයක් දක්නට ලැබේ. ඒ අනුව සංචාරක ව්‍යාපාරය කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කරමින් 2024 ජනවාරි මාසයේදී ඇමෙරිකානු ඩොලර් මිලියන 342ක ආදායමක් උපයා ඇති අතර එය පසුගිය වසරේ ජනවාරි මාසය හා සැසදීමේදී සියයට 122ක වර්ධනයකි.
+
+එසේම විදෙස් ගත ශ්‍රමිකයන් ජනවාරි මාසයේදී ප්‍රේෂණ ලෙස ඩොලර් මිලියන 488ක් එවා ඇති අතර එය 2023 ජනවාරි මාසයේදී වාර්තා වූ ඩොලර් මිලියන 467ට සාපේක්ෂව සියයට 5ක වර්ධනයකි.
+
+එසේම දැවැන්ත කඩා වැටීමකට ලක්වූ ශ්‍රී ලංකා රුපියල මේ වසරේ ජනවාරි මාසයේදී 14.6%කින් අතිප්‍රමාණය වී තිබේ.
+
+මීට අමතරව විදේශ සංචිතය ජනවාරි මාසයේදී ඩොලර් බිලියන 4.5 දක්වා ඉහළ ගොස් ඇති අතර එය 2023 ජනවාරි මාසයේදී ඩොලර් බිලියන 2.1  ලෙස් දැක්වූ අතර ඒ අනුව විදේශ විනිමය සංචිතය සියයට 114% කින් ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/725ccf1d.json)
+
+---
 
 ### Five including foreigners injured in bus-car collision in Dambulla
 
@@ -45,6 +105,88 @@ The mother, father and son of the same French family, the driver of the car and 
 ...
 
 [Data](articles/39d37ccd.json)
+
+[Extended Data](ext_articles/39d37ccd.ext.json)
+
+---
+
+### වෛද්‍යවරු නෙරපීමට දකුණු කොරියාව තීරණය කරයි
+
+*2024-03-04 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194109) · `si`
+
+වැඩ වර්ජනයක නිරතවන පුහුණු වෛද්‍යවරු 7,000ක ලියාපදිංචිය අහෝසි කිරීමට දකුණු කොරියාව තීරණය කර තිබේ.
+
+එරට නියෝජ්‍ය සෞඛ්‍ය අමාත්‍යවරයා පැවසුවේ එම වෛද්‍යවරුන්ට නැවත සේවයට වාර්තා කරන ලෙස නියෝග කර ඇතත් ඔවුන් එය නොසලකා කටයුතු කරන බවයි.
+
+◼️
+
+[Data](articles/09c2498f.json)
+
+---
+
+### කාන්තාවකට අතවර කළ විදුහල්පති අත්අඩංගුවට
+
+*2024-03-04 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194107) · `si`
+
+කාන්තාවකට  අතවර කිරීමේ චෝදනාවක් සම්බන්ධයෙන් මොනරාගල ප්‍රදේශයේ පාසලක විදුහල්පතිවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+දොඹගහවෙල පොලීසිය විසින් ඊයේ (03) රාත්‍රී සැකකරු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+පාසලේ ආපන ශාලාවේ සේවයේ නිරතව සිටි කාන්තාවකට සැකකාර විදුහල්පතිවරයා අතවර කිරීමට උත්සාහ කර ඇති බව වාර්තා වේ.
+
+අත්අඩංගුවටගත් සැකකාර විදුහල්පතිවරයා අද (04) මොනරාගල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/17c528d5.json)
+
+---
+
+### සුප්‍රකට ගායිකාවගේ නමින් සරසවියට එක්කළ අලුත්ම පාඨමාලාව
+
+*2024-03-04 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194108) · `si`
+
+අමෙරිකානු ගීත රචිකාවියක් මෙන්ම ප්‍රකට ගායිකාවක් වන ටේලර් ස්විෆ්ට් තරුණ ප්‍රජාව අතර සුප්‍රසිද්ධ චරිතයකි.
+
+ඇයගේ හැකියාවන්‍ සහ දක්ෂතාවයන් නිසාම ඇයට විශේෂ සම්මාන රැසක හිමිකාරියක් වීමට වරම් ලැබිණාය.
+
+ටේලර් ස්විෆ්ට් මේ වනවිට ආසියානු කලාපයේ සංචාරයක් අරඹා සිටින අතර ඒ හේතුවෙන් පිලිපීනයේ ද තරුණ ප්‍රජාව ඇය ගේ තොරතුරු සම්බන්ධයෙන් දැඩි උනන්දුවක් දක්වයි.
+
+මේ හේතුවෙන් ටේලර් ස්විෆ්ට් ගේ ප්‍රසිද්ධිය සහ ඇයගෙන් සමාජයට ඇති බලපෑම පිළිබඳව නව විශේෂිත පාඨමාලාවක් හඳුන්වාදීමට පිලිපීනයේ ප්‍රමුඛ විශ්වවිද්‍යාලයක් කටයුතු කර තිබේ.
+
+එම පාඨමාලාව නම් කර ඇත්තේ, "සෙලිබ්‍රටි ස්ටඩීස් - ටේලර් ස්විෆ්ට් ඉන් ෆෝකස්" නමිනි.
+
+ඒ අනුව විශ්ව විද්‍යාල සිසුන් මෙම විෂය ඒකකය හරහා ටේලර් ස්විෆ්ට් ගේ ප්‍රසිද්ධිය සහ සමාජයට ඇති බලපෑම සම්බන්ධයෙන් අධ්‍යයනය කළ යුතු වන බව විදෙස් වාර්තා පවසයි.
+
+විද්‍යාර්ථීන් 300කට අධික පිරිසක් මෙම අධ්‍යයනය සමග සම්බන්ධ වී සිටින බව සඳහන් විය.
+
+ටේලර් ස්විෆ්ට්, 2023 වසරේ ලෝකයේ වැඩිම සංගීත ප්‍රසංග ගණනක් පැවැත්වූ ගායිකාව ලෙස ද වාර්තා අතරට එක් ව සිටින්නීය.
+
+එමෙන්ම ටයිම්ස් සඟරාව ඇය 2023 වසර සඳහා වසරේ පුද්ගලයා ලෙස ද නම් කළේය.
+
+...
+
+[Data](articles/3aecbfad.json)
+
+---
+
+### ලංකාවෙන් යන්න ගිය ඊශ්‍රායෙල් තරුණිය ළඟ සජීවි පතොරමක්
+
+*2024-03-04 11:21:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-යන්න-ගිය-ඊශ්‍රායෙල්-තරුණිය-ළඟ-සජීවි-පතොරමක්/11-408406) · `si`
+
+ශ්‍රී ලංකාවේ සංචාරයක නිරත වී ආපසු ඊශ්‍රායලය බලා යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි ඊශ්‍රායල ජාතික තරුණියකගේ ගමන් මල්ලේ තිබූ මිලි මීටර් 5.56 සජීවී පතුරමක් කටුනායක ගුවන් තොටුපොළ ආරක්ෂක අංශ නිලධාරීන් විසින් සොයා ගෙන ගුවන් තොටුපොළ පොලිසිය වෙත 03/04 දින අලුයම  භාර දී තිබේ .
+
+ඇය 22 හැවිරිදි ඊශ්‍රායල යුධ හමුදාවේ සේවය කළ තරුණියකි. ඇය සිය මිතුරියක සමග ශ්‍රී ලංකාවේ සංචාරයක් සදහා පැමිණ තිබුණි.
+
+ඇය 03/04 දින අලුයම 01.55 ට ඩුබායි බලා පිටත්ව යාමට නියමිත ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 570 දරන ගුවන් යානය වෙත පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+එහිදී ඇය විසින් රැගෙන විත් තිබූ ගමන් මලු , ගුවන් තොටුපොළ ආරක්ෂක අංශයේ නිලධාරීන් විසින් පරිලෝකන යන්ත්‍රයක් ( Scan Test ) මගින් පරීක්ෂා කිරීමකට ලක් කිරීමේ දී මෙම සජීවී පතුරම සොයා ගෙන තිබේ .
+
+පසුව මෙම තරුණිය , මෙම පතුරම ද සමග කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දී තිබේ .
+
+...
+
+[Data](articles/3e8a4820.json)
 
 ---
 
@@ -63,6 +205,8 @@ The Colombo District Court, which considered a complaint filed by Fonsek recentl
 ◼️
 
 [Data](articles/189f1126.json)
+
+[Extended Data](ext_articles/189f1126.ext.json)
 
 ---
 
@@ -86,6 +230,42 @@ The Colombo District Court, which considered a complaint filed by Fonsek recentl
 
 ---
 
+### Sri Lanka’s CEB reports Rs61bn profit for 2023 with Dec quarter gains
+
+*2024-03-04 11:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-reports-rs61bn-profit-for-2023-with-dec-quarter-gains-152835/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Bord has reported a profit of 61.2 billion rupees for the year to December 2023, turning around from a loss of 298 billion last year, with all the profits coming in the last year amid heavy rain and price hike, interim accounts show.
+
+The CEB reported profits of 77.9 billion rupees for the December quarter, compared to a loss of 182 billion rupees last year.
+
+About 94 billion rupees in losses were forex losses, coming from the central bank, which printed money to suppress rates and triggered a steep currency collapse in a failed float with a surrender rule.
+
+CEB revenues rose 55 percent to 156 billion rupees in the December quarter, cost of sales fell 45 percent to 78 billion rupees amid heavy rains, giving a gross profit of 78.2 billion rupees for the quarter.
+
+...
+
+[Data](articles/10254cdf.json)
+
+---
+
+### මාතලේ රේවත නාහිමි දේශපාලකයින්ට දෙහි කපති - මන්ත්‍රී පරලවෙයි
+
+*2024-03-04 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194106) · `si`
+
+මේ රටේ පත්වෙන දේශපාලකයින් මහජනයාට සේවය කිරීම වෙනුවට තම උදර පෝෂණය වෙනුවෙන් පමණක් කටයුතු කරන බව උඩුනුවර ප්‍රධාන සංඝ නායක මාතලේ රේවත හිමි පවසති.
+
+උන්වහන්සේ මෙසේ ප්‍රකාශ කළේ උඩුනුවර සම් සම් පදනම විසින් ඉදිකරන ලද ප්‍රජා හරිත මධ්‍යස්ථානය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+
+"ඒ අය අපිව රවට්ටලා දියවන්නාවට යනවා. හොඳට කාලා බීලා පස් අවුරුද්ද තුළ තමන්ගේ අභිවෘද්ධිය වෙනුවෙන් සැලසුම් හදනවා.."
+
+මෙම උත්සවයට එක්වූ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය රංජිත් බණ්ඩාර ඊට ප්‍රතිචාර දැක්වීය.
+
+◼️
+
+[Data](articles/ef36ed25.json)
+
+---
+
 ### Human Immunoglobulin case - Dr. Saman Ratnayake provides in-camera statement
 
 *2024-03-04 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-Immunoglobulin-case-Dr-Saman-Ratnayake-provides-in-camera-statement/108-278193) · `en`
@@ -97,6 +277,32 @@ He was remanded till March 14 over the import of substandard human Immunoglobuli
 ◼️
 
 [Data](articles/179da390.json)
+
+[Extended Data](ext_articles/179da390.ext.json)
+
+---
+
+### විදෙස් පවුලක්ම රෝහලට යැවූ දඹුල්ලේ බිහිසුණු අනතුර
+
+*2024-03-04 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194105) · `si`
+
+දඹුල්ල - හබරණ ප්‍රධාන මාර්ගයේ පැල්වෙහෙර ප්‍රදේශයේදී අද (04) උදෑසන බස් රථයක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබිණි.
+
+අනතුරින් මෝටර් රථයේ ගමන් කරමින් සිටි ප්‍රංශ ජාතික එකම පවුලේ මව, පියා සහ පිරිමි දරුවෙක් මෙන්ම බස් රථයේ ගමන් කරමින් සිටි මෙහෙණින් වහන්සේ නමක් තුවාල ලබා දඹුල්ල රෝහලට ඇතුළත් කර ඇත.
+
+මෙසේ අනතුරට ලක්ව තිබුණේ, ත්‍රිකුණාමලයේ සිට කොළඹ බලා ධාවනය වෙමින් තිබූ පෞද්ගලික බස් රථයක් හා දඹුල්ලේ සිට සීගිරිය දක්වා ගමන් කරමින් තිබූ විදේශිකයින් රැගත් මෝටර් රථයකි.
+
+බස් රථය අධික වේගයෙන් ගමන් කර ඇති අතර, වෙනත් වාහනයකට ඉස්සර කිරීමට යෑමේ දී ඉදිරියෙන් පැමිණි මෝටර් රථයේ ගැටී අනතුර සිදුවූ බව අනතුර දුටු පිරිස පවසති.
+
+අනතුර හේතුවෙන් ප්‍රධාන මාර්ගයේ වාහන ගමනාගමනයට බාධා එල්ල වූ අතර, බස් රථය මාර්ගය හරහා නැවති තිබිණි.
+
+මෝටර් රථය අසල කුඩා වෙළෙඳසැලකට කඩා වැදී දැඩි ලෙස හානි සිදුව ඇත.
+
+බස්රථයේ රියදුරු පොලීසියට භාරවී ඇති අතර, බස් රථයේ සිටි මගීන් කිහිපදෙනෙකුට ද සුළු තුවාල සිදුව ඇතැයි පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6a3cd14d.json)
 
 ---
 
@@ -126,6 +332,24 @@ The same applies to all corporations, including public companies, government dep
 
 ---
 
+### ෆොන්සේකාගේ වාරණ නියෝගයට සජබයෙන් විරෝධතා
+
+*2024-03-04 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194104) · `si`
+
+සමගි ජන බලවේගයේ සභාපති ෆිලඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතාගේ පක්ෂ සාමාජිකත්වය, ඔහු දරන තනතුරු අත්හිටුවීම සහ විනය ක්‍රියාමාර්ග ගැනීම  වළක්වාලමින් නිකුත් කළ වාරණ නියෝගය ඉවත් කරන ලෙස ඉල්ලා විරෝධතා ඉදිරිපත් කරන බව වගඋත්තරකාර සමගි ජන බලවේගය අද (04) කොළඹ දිසා අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+
+සරත් ෆොන්සේකා මහතා ගොනුකළ පෙත්සමක් අද කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා මෙම විරෝධතා මතු කළේය.
+
+ඒ අනුව මෙම විරෝධතා පිළිබඳ විභාගය අද පස්වරුවේ පැවැත්වීමටද අධිකරණය විසින් නියම කරනු ලැබීය.
+
+සරත් ෆොන්සේකා මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලූ කොළඹ දිසා අධිකරණය ඉකුත්දා සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, එහි මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ජාතික සංවිධායක තිස්ස අත්තනායක සහ භාණ්ඩාගාරික හර්ෂ ද සිල්වා යන මහත්වරු වෙත මෙම වාරණ නියෝග නිකුත් කර තිබිණි.
+
+◼️
+
+[Data](articles/104362b7.json)
+
+---
+
 ### NPP has plans to raise state revenue by increasing IRD efficiency and discussions held with them: AKD
 
 *2024-03-04 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-has-plans-to-raise-state-revenue-by-increasing-IRD-efficiency-and-discussions-held-with-them-AKD/108-278140) · `en`
@@ -141,6 +365,8 @@ He said the revenue generated through the Inland Revenue Department could be dou
 ...
 
 [Data](articles/b189580b.json)
+
+[Extended Data](ext_articles/b189580b.ext.json)
 
 ---
 
@@ -182,6 +408,24 @@ Harshana warned that the prices of coconut oil will also go up in the coming day
 
 [Data](articles/257034cc.json)
 
+[Extended Data](ext_articles/257034cc.ext.json)
+
+---
+
+### කරාපිටියේ වෛද්‍යවරයෙක් අභිරහස් ලෙස මරුට
+
+*2024-03-04 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194103) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහලේ එක්ස්රේ අංශයේ සේවය කරනු ලැබූ වෛද්‍යවරයෙක් අභිරහස් ලෙස ඔහුගේ නිවසේ දී මියගොස් සිටිය දී පොලීසිය විසින් සොයාගෙන තිබේ.
+
+එලෙස මියගොස් ඇත්තේ ගාල්ල, තලගහහේන පටුමඟ ප්‍රදේශයේ පදිංචිව සිටි ප්‍රභාත් චාමර සම්පත් නැමති 37 හැවිරිදි අයෙකි.
+
+සිදුවීම සිදුවු අවස්ථාවේදී වෛද්‍යවරිය නිවසේ සිට නොමැති අතර, මියගිය වෛද්‍යවරයාගේ දේහය මේ වනවිට පශ්චාත් මරණ පරීක්ෂණය සඳහා කරාපිටිය අධිකරණ වෛද්‍ය ඒකකය වෙත යොමුකර ඇත.
+
+◼️
+
+[Data](articles/4d47c7ac.json)
+
 ---
 
 ### Amendment of fuel prices tonight
@@ -222,6 +466,8 @@ Last week, the Immigration Department released a letter to the Tourism Ministry 
 
 [Data](articles/ccbf9e7e.json)
 
+[Extended Data](ext_articles/ccbf9e7e.ext.json)
+
 ---
 
 ### SLPP has to find a better candidate than RW - Prasanna
@@ -241,6 +487,8 @@ He expressed these views at a party meeting held in his hometown, Udugampola in 
 ◼️
 
 [Data](articles/3664043d.json)
+
+[Extended Data](ext_articles/3664043d.ext.json)
 
 ---
 
@@ -307,6 +555,26 @@ While, new orders increased in January compared to the previous month, responden
 [Data](articles/87e5802f.json)
 
 [Extended Data](ext_articles/87e5802f.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 308.20/50 to the US dollar
+
+*2024-03-04 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-308-20-50-to-the-us-dollar-152811/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 308.20/50 to the US dollar Monday, from 308.80/90 on Friday, dealers said.
+
+A bond maturing on 01.08.2026 was quoted stable at 10.90/11.00 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.00 percent from 11.90/12.05 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.20/30 percent from 12.15/35 percent.
+
+The Colombo Stock Exchange opened up; The All Share was up 0.60 percent at 10,755, and the S&P SL20 was up 1.24 percent at 3,077. (Colombo/Mar4/2024)
+
+◼️
+
+[Data](articles/3694c916.json)
 
 ---
 
@@ -385,6 +653,8 @@ The IGP who visited Sri Dalada Maligawa paid homage to the Sacred Tooth Relic an
 ...
 
 [Data](articles/59ba82df.json)
+
+[Extended Data](ext_articles/59ba82df.ext.json)
 
 ---
 
@@ -675,6 +945,30 @@ The Borah community also accepted a book on various programs, including religiou
 [Data](articles/b2da0300.json)
 
 [Extended Data](ext_articles/b2da0300.ext.json)
+
+---
+
+### Sri Lanka central bank swaps top $3.2bn by December
+
+*2024-03-04 07:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-swaps-top-3-2bn-by-december-152776/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank borrowed US dollars from various counterparties through swap transactions, which had topped 3.2 billion US dollars by December 2024, official data show.
+
+The net short position, including swaps disclosed by the central bank, grew by over almost 1.28 billion US dollars from December 2022 to 3,280 million dollars.
+
+The gross position grew from 2,263 million dollars to 3,280 million US dollars over the year.
+
+The central bank supported some state banks with dollars to cover their dollar exposures, which had since been paid back.
+
+By December reported gross reserves of the central bank was 4,491 million US dollars, against swaps of 3,280 billion US dollars.
+
+Swaps allow a central bank to increase gross reserves, without raising domestic interest rates.
+
+Swaps with domestic counterparties lead to liquidity being injected into money markets, which can be mopped if domestic credit growth is moderate.
+
+...
+
+[Data](articles/9767a83d.json)
 
 ---
 
@@ -1034,6 +1328,8 @@ It is in this backdrop that the Ministry of Transport and Highways with the Sri 
 
 [Data](articles/b697b664.json)
 
+[Extended Data](ext_articles/b697b664.ext.json)
+
 ---
 
 ### Over 2500 smallholder dairy farms in Nuwara Eliya District closed last year
@@ -1049,6 +1345,8 @@ He said 54, 836,230 litres of milk had been produced in 2023 and that it marked 
 ...
 
 [Data](articles/1a7a95b0.json)
+
+[Extended Data](ext_articles/1a7a95b0.ext.json)
 
 ---
 
@@ -1704,6 +2002,8 @@ He said the propaganda activities of Ranil Wickremesinghe includes installing fe
 
 [Data](articles/dd098b7b.json)
 
+[Extended Data](ext_articles/dd098b7b.ext.json)
+
 ---
 
 ### Suspect arrested in Katunayake
@@ -1821,333 +2121,5 @@ President Ranil Wickremesinghe pointed out the need to prepare this national pro
 [Data](articles/0cbdf513.json)
 
 [Extended Data](ext_articles/0cbdf513.ext.json)
-
----
-
-### President meets Dawoodi Bohra Leader
-
-*2024-03-03 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-meets-Dawoodi-Bohra-Leader/110-278139) · `en`
-
-President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifuddin Saheb, Spiritual Leader of the Dawoodi Bohra Community, at the official residence of President this afternoon (03).
-
-◼️
-
-[Data](articles/4c9afa6d.json)
-
-[Extended Data](ext_articles/4c9afa6d.ext.json)
-
----
-
-### Last Honoraves from Santhan's body
-
-*2024-03-03 20:44:17* · [`adalk`](https://www.ada.lk/breaking_news/සාන්තන්ගේ-දේහයට-ශ්‍රීධරන්ගෙන්-අවසන්-ගෞරව/11-408402) · `si`
-
-Ruthandraja, released after Rajiv Gandhi's release, received last respects from MP Sridharan.
-
-🟩
-
-Ruthandraja was released after his release of former Indian Prime Minister Rajiv Gandhi's release.
-
-MP Sridharan also participated in his last respects to his body.
-
-◼️
-
-[Data](articles/c98cd38c.json)
-
-[Extended Data](ext_articles/c98cd38c.ext.json)
-
----
-
-### Little War Station, heated Colombo
-
-*2024-03-03 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194089) · `si`
-
-In Colombo, a hotel in Armorweera was attacked, injuring employees. The owner, hired owner, and victims were assaulted. Armed group entered the hotel, and CCTV footage captured the incident.
-
-🟩
-
-Employees were also injured in a hotel in Armorweedi, a hotel in Armorweera, Colombo today (03).
-
-Police say that the owner and hired owner and the hired victims had been assaulted.
-
-The CCTV camera was noted in the next morning, the armed group entering the hotel.
-
-CCTV cameras are also trapped in the CCTV cameras when the people are attacking the hotel property.
-
-◼️
-
-[Data](articles/e6d515ba.json)
-
-[Extended Data](ext_articles/e6d515ba.ext.json)
-
----
-
-### President a new cabinet from President
-
-*2024-03-03 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194088) · `si`
-
-President Ranil Wickremesinghe has appointed a political cabinet for the Presidential Secretariat, including Sagala Ratnayake and Mahindananda Aluthgamage. A special committee for election plans was also nominated, meeting weekly.
-
-🟩
-
-Political sources say that President Ranil Wickremesinghe has appointed a political cabinet for the Presidential Secretariat.
-
-Simultaneously, a special committee has been nominated for the operation of election plans.
-
-The political cabinet has met on Monday night, government sources say.
-
-It is also reported that Presidential Chief of Staff Sagala Ratnayake and Parliamentarian Mahindananda Aluthgamage are also included in the cabinet.
-
-It is also reported that there was also a committee comprising of Prasan Fernando, Harin Fernando, Manusha Nanayakkara, Mahindasha Nanayakkara, Mahindasha Nanayakkara, Mahindasha Nanayakkara and Mahinda Nanayakkara.
-
-According to political sources, the committee met on Wednesday and every week will be met every week.
-
-◼️
-
-[Data](articles/3053b1ed.json)
-
-[Extended Data](ext_articles/3053b1ed.ext.json)
-
----
-
-### President hosts meeting with Spiritual Leader of Dawoodi Bohra Community
-
-*2024-03-03 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-hosts-meeting-with-Spiritual-Leader-of-Dawoodi-Bohra-Community/108-278138) · `en`
-
-Colombo, March 3 (PMD)- President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifuddin Saheb, the Spiritual Leader of the Dawoodi Bohra Community, at the official residence of President this afternoon (03).
-
-With a global presence of approximately one million adherents spanning countries such as India, Pakistan, the USA, UK, Canada, Sri Lanka and Australia, the Dawoodi Bohra community holds considerable cultural and religious significance.
-
-During the meeting, characterized by warmth and cordiality, Dr. Syedna Mufaddal Saifuddin Saheb commended President Wickremesinghe's economic endeavours for Sri Lanka.
-
-He also brought attention to the upcoming Bohra Conference slated to convene near the Bambalapitiya Bohra mosque later this year.
-
-In a gesture of goodwill, a meticulously compiled book showcasing the Bohra community's diverse programs and religious services over the past four years was presented to President Wickremesinghe.
-
-◼️
-
-[Data](articles/ef0786c3.json)
-
-[Extended Data](ext_articles/ef0786c3.ext.json)
-
----
-
-### Board does not give correct data for electricity tariffs
-
-*2024-03-03 20:17:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනයට-මණ්ඩලය-නිවැරදි-දත්ත-දෙන්නේ-නැතිලු/11-408401) · `si`
-
-The Public Utilities Commission is unable to decide on electricity tariff revisions due to incorrect data from the Board. The Board suggests a 3.4% reduction, but the provincial council disputes this. The Commission will meet to address the issue, but negotiations with the electricity authorities have been unsuccessful.
-
-🟩
-
-The Commission's employees have not yet been able to make a decision on the revision of electricity tariffs due to the provision of electricity tariffs.
-
-Each wayalistic provides today (04), the Public Utilities Commission will meet in this regard.
-
-However, the electricity Board has proposed to reduce the electricity tariffs by 3.4% in general, and the second time telecommunication has been proposed to reduce the electricity tariffs.
-
-The provincial council employees point out that the relevant applications have been accredited in these related calculations to the Authorities to correct their applications.
-
-It is reported that if the Electricity Board is correct, it is reported that the electricity ferry prepared by the Public Counseling and Public Utilities Commission is due to be reduced by data analysis.
-
-...
-
-[Data](articles/021c5b2a.json)
-
-[Extended Data](ext_articles/021c5b2a.ext.json)
-
----
-
-### Ronnie De Mel: A True Democrat & An Economics Philosopher To The End
-
-*2024-03-03 20:09:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ronnie-de-mel-a-true-democrat-an-economics-philosopher-to-the-end/) · `en`
-
-Ronnie de Mel, best known as a former finance minister, is no more with us. During his long life, short by one year for a century, he had been to many trades. Throughout his life, he had been a student of history, having completed a first-class honours degree in history at the University of Ceylon in 1947. Had he remained at the university as an academic, he would have been one of the most respected historians of our time. But fate drove him elsewhere.
-
-...
-
-[Data](articles/c2933e3e.json)
-
-[Extended Data](ext_articles/c2933e3e.ext.json)
-
----
-
-### 8 Sri Lankan aircraft have been removed but Rs. 5646 paid the rent
-
-*2024-03-03 20:05:14* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-8ක්-ඉවත්-කර-ඇතත්-රු-මි--5646ක්-කුලී-ගෙවලා/11-408400) · `si`
-
-SriLankan Airlines removed 8 aircraft in Feb 2023, paying Rs. 5,646.76 million. The audit report reveals the aircraft were inactive due to engaging in planes, hindering airline planning.
-
-🟩
-
-Eight of SriLankan Airlines have been removed from February 2023, a recent audit report issued by the National Audit report to the airline, a sum of Rs..
-
-The airline for airline is 27. The company currently owns 24 aircraft. The audit report states that eight aircraft had been removed from use by 8023-2013.. The aircraft had been removed from the use of Rs. 5,646.76 million to Rs. 5,646.76 million to Rs. 5,646.76 million.
-
-The audit report states that the aircraft is inactive due to engaging in planes. SriLankan Airlines is currently conducting operations. As a result, airline planning has been hindered by the airline.
-
-◼️
-
-[Data](articles/704284db.json)
-
-[Extended Data](ext_articles/704284db.ext.json)
-
----
-
-### Queen of powder in the trash canal
-
-*2024-03-03 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194087) · `si`
-
-"Kadiruwatta, a 45-year-old woman, was arrested by Mattakkuliya Police after a raid on her house, revealing she had more than Rs."
-
-🟩
-
-A 45-year-old woman, a 45-year-old woman named Kadiruwatta, was known as a 45-year-old woman.
-
-At the time of the officers of the Special Bureau officials in the Mattakkuliya Police, the officials of the woman raided her house.
-
-She was later arrested after the additional police officers were imported.
-
-The police were able to find out the police when she had more than Rs.
-
-◼️
-
-[Data](articles/5b52663f.json)
-
-[Extended Data](ext_articles/5b52663f.ext.json)
-
----
-
-### The no-confidence in the speaker is handed over today
-
-*2024-03-03 19:48:16* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකට-එරෙහි-විශ්වාසභංගය-අද-භාරදෙයි/11-408399) · `si`
-
-MP Tissa Attanayake, the National Organizer, faces a no-confidence motion today, launched by Opposition Leader Sajith Premadasa. The TNA and SLFP support it, with independent MPs like Wimal Weerawansa and Udaya Gammanpila involved.
-
-🟩
-
-The National Organizer of the National Organizer, MP Tissa Attanayake, the no-confidence motion against the Speaker Tissa Attanayake told the newspaper today.
-
-Opposition Leader Opposition Leader Sajith Premadasa launched the signing of this no-confidence motion at the Colombo October 26.
-
-Accordingly, the TNA, the TNA, the TNA and the Sri Lanka Freedom Party (SLFP) have been assisted.
-
-Members of Parliament who is the independent of Parliament including Wimal Weerawansa, Udaya Gammanpila and Ven. Athuraliye Darkage Thero.
-
-◼️
-
-[Data](articles/5f979f43.json)
-
-[Extended Data](ext_articles/5f979f43.ext.json)
-
----
-
-### Fire at Private Arab Girls' School in Weligama: Heavy damage to property
-
-*2024-03-03 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177825) · `ta`
-
-A fire at a private Arab women's school in Weligama caused severe property damage, affecting about 150 students, but none were injured. The cause is under investigation.
-
-🟩
-
-A fire broke out at a private Arab women school in Weligama on Sunday evening.
-
-There were about 150 students in the school during the fire. But none of them were affected.
-
-Despite the fact that the people of the area were trying to extinguish the fire, the fire has caused severe damage to the property.
-
-Police are investigating the cause of the fire.
-
-◼️
-
-[Data](articles/ef2ffc17.json)
-
-[Extended Data](ext_articles/ef2ffc17.ext.json)
-
----
-
-### Electricity, Costs, Options Needs & Priorities
-
-*2024-03-03 19:17:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electricity-costs-options-needs-priorities/) · `en`
-
-It is beyond dispute that reliable, adequate, cheap and clean generation of electrical power is a pre-requisite for national development, especially through Direct Foreign investment (FDI). Per capita energy use is sometimes also regarded as a measure of “development”. Despite the claims that Sri Lanka’s coverage of electric power availability, is impressive, there are other matters that are evidently not so. Unfortunately, several aspects of the power picture are in deficit, and may even serve to support or conceal, the seamier side (inefficiency or corruption).
-
-...
-
-[Data](articles/f9fd5abc.json)
-
-[Extended Data](ext_articles/f9fd5abc.ext.json)
-
----
-
-### Accident at Tawadi Junction - One injured!
-
-*2024-03-03 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177824) · `ta`
-
-Injured in accident at Tawadi Junction, one person admitted to Jaffna Teaching Hospital. Motorcycle and auto collided head-on at 06.15 pm on Sunday.
-
-🟩
-
-One person has been admitted to the Jaffna Teaching Hospital after being injured in an accident at the Jaffna Tawadi junction.
-
-A woman has been admitted to the hospital after a motorcycle and auto collided head -on at Tawadi junction at around 06.15 pm on Sunday (03).
-
-◼️
-
-[Data](articles/26e1e217.json)
-
-[Extended Data](ext_articles/26e1e217.ext.json)
-
----
-
-### 2024 School Region Amendment
-
-*2024-03-03 19:07:18* · [`adalk`](https://www.ada.lk/breaking_news/2024-පාසල්-වාර-සටහන-සංශෝධනය-වෙයි/11-408398) · `si`
-
-The 2024 School Region Amendment adjusts the GCE O/L and A/L examination schedules, affecting the Ministry of Education's timeline. The first phase of the first school term starts February 19, running from April 24 to May 3. The second term operates from June 3 to August 16, with the third term from November 26 to January 17, 2025. The school year ends on January 17, 2025, instead of January 31, 2025.
-
-🟩
-
-With the GCE O / L examination, 5 Scholarship and A / L examination days, the Ministry of Education has been amended to the Ministry of Education in 2024.
-
-Accordingly, the first phase of the first phase of the first phase of the first phase of the first school on February 19 this year, the first phase of the first phase of the first school on February 19 this year will be effective on April 24 to May 3.
-
-The first stage of the first phase of the first school term from May 6 from May 6th, the first phase of the first school will commence from May 6th May will be held on May 20th.
-
-Second school term operates from June 3 to 16th of August.
-
-The first phase of the third term will be held on November 26 to November 25, the second stage of the third term from January 2 to 17, 2025.
-
-The first phase of the first stage of February 19 this year, the first phase of the first stage of March 19 was on April 17 to May 3rd to March 20 to June 20.
-
-...
-
-[Data](articles/a0c199f1.json)
-
-[Extended Data](ext_articles/a0c199f1.ext.json)
-
----
-
-### Fire in a school building
-
-*2024-03-03 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194086) · `si`
-
-A fire in a private women's school in Weligama, Arabian, damaged nearly 150 children. Residents are helping to extinguish the fire. The cause is under investigation.
-
-🟩
-
-A private Arabian women's school in Weligama has broke out a fire.
-
-At the time of the fire, nearly 150 children from the school had no more damaged by fire.
-
-Residents of the area had taken measures to resume the fire prolonged expeditiously.
-
-The cause of the fire is yet to be determined and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/51c441a2.json)
-
-[Extended Data](ext_articles/51c441a2.ext.json)
 
 ---

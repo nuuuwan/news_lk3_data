@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 11:33:02**
+As of **2024-03-04 12:12:37**
 
 ## Newspaper Stats
 
-*Scraped **10,707** Articles*
+*Scraped **10,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 548
 dailyftlk | 572
 islandlk | 578
 adalk | 904
-adaderanalk | 1,307
+adaderanalk | 1,309
 tamilmirrorlk | 1,312
 virakesarilk | 1,435
-dailymirrorlk | 1,624
+dailymirrorlk | 1,633
 adaderanasinhalalk | 1,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,704 (100.0%) of 10,707 articles have been extended.
+10,707 (99.9%) of 10,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Five including foreigners injured in bus-car collision in Dambulla
+
+*2024-03-04 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97718/five-including-foreigners-injured-in-bus-car-collision-in-dambulla) · `en`
+
+Five persons including three foreign nationals have been critically injured while several others sustained minor injuries after a private passenger bus collided with a car in the Pelwehera area of Dambulla this morning (04).
+
+A private passenger bus travelling from Trincomalee to Colombo and a car in which four foreign tourists, members of the same family, were travelling from Dambulla to Sigiriya had collided on the Dambulla – Habarana main road today, the police said.
+
+The mother, father and son of the same French family, the driver of the car and another female Buddhist monk travelling on the bus have been injured in the accident and admitted to Dambulla Base Hospital. Several other passengers who were travelling on the bus have also sustained minor injuries in the accident, Ada Derana reporter said.
+
+...
+
+[Data](articles/39d37ccd.json)
+
+---
+
+### SJB to file objections to injunction preventing suspension of Sarath Fonseka
+
+*2024-03-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97717/sjb-to-file-objections-to-injunction-preventing-suspension-of-sarath-fonseka) · `en`
+
+The Samagi Jana Balavegaya (SJB) has stated before the courts that it will file objections requesting to invalidate the injunction issued preventing the suspension of Field Marshal Sarath Fonseka’s party membership and positions held in the party, and from taking disciplinary action against him.
+
+Appearing for the Opposition Leader Sajith Premadasa, President’s Counsel Romesh de Silva communicated this to the Colombo District Court when a petition filed by SJB Chairman Field Marshal Sarath Fonseka in this regard was taken up this morning (04).
+
+Accordingly, the Colombo District Judge Sandun Withana ordered the relevant objections to be taken up for consideration this afternoon.
+
+The Colombo District Court, which considered a complaint filed by Fonsek recently, issued the relevant injunction on Leader of the SJB Sajith Premadasa, its General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and Treasurer of the party Dr. Harsha de Silva.
+
+◼️
+
+[Data](articles/189f1126.json)
+
+---
 
 ### SJB files objections to injunction preventing suspension of Sarath Fonseka
 
@@ -47,6 +81,22 @@ The Colombo District Court, which considered a complaint filed by Fonsek recentl
 ◼️
 
 [Data](articles/4230ea63.json)
+
+[Extended Data](ext_articles/4230ea63.ext.json)
+
+---
+
+### Human Immunoglobulin case - Dr. Saman Ratnayake provides in-camera statement
+
+*2024-03-04 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-Immunoglobulin-case-Dr-Saman-Ratnayake-provides-in-camera-statement/108-278193) · `en`
+
+Additional Secretary of Health Saman Ratnayake, who was arrested over the import of substandard human Immunoglobulin injections, is provding a confidential in-camera statement before the Maligakanda Magistrate's Court.
+
+He was remanded till March 14 over the import of substandard human Immunoglobulin injections case.
+
+◼️
+
+[Data](articles/179da390.json)
 
 ---
 
@@ -76,6 +126,24 @@ The same applies to all corporations, including public companies, government dep
 
 ---
 
+### NPP has plans to raise state revenue by increasing IRD efficiency and discussions held with them: AKD
+
+*2024-03-04 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-has-plans-to-raise-state-revenue-by-increasing-IRD-efficiency-and-discussions-held-with-them-AKD/108-278140) · `en`
+
+Ratnapura, March 3 (Daily Mirror)- Claiming that they have plans to raise state revenue, NPP leader Anura Kumara Dissanayake said today they had discussions with the Inland Revenue Department on ways to increase state reveue.
+
+Speaking at the Ratnapura District Women's Convention, he said that state revenue could be increased through the Customs Department and Excise Department as well.
+
+He said the revenue generated through the Inland Revenue Department could be doubled if the efficiency of the IRD staff was increased and the technology was advanced.
+
+"We can find money. We have discussed with the Inland Revenue Department.There are some changes to be made in the laws, staff and technology used in the department. If the efficiency of the staff is increased, we can double the revenue generated through the IRD. Revenue generated from the Customs and Excise Departments can also be increased. The Excise Department has some Rs. 90 billion outstanding from the liquor manufacturers," he said.
+
+...
+
+[Data](articles/b189580b.json)
+
+---
+
 ### CBSL officials summoned to Cabinet over salary hike controversy
 
 *2024-03-04 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97716/cbsl-officials-summoned-to-cabinet-over-salary-hike-controversy-) · `en`
@@ -96,17 +164,83 @@ Earlier this week, the CBSL requested the President, in his capacity as the Mini
 
 ---
 
-### අද රෑට ඉන්ධන මිලහි සංශෝධනයක්
+### Skyrocketing coconut prices will affect meal packets
+
+*2024-03-04 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Skyrocketing-coconut-prices-will-affect-meal-packets/108-278195) · `en`
+
+Colombo, March 04 (Daily Mirror) -  The skyrocketing prices of coconuts will have a serious effect on the packed rice and curry meals in the future, as most of the curries are prepared with the coconut cream, food industry trade unions said.
+
+All Island Canteen Owners Association President Rukshan Harshana told the media yesterday the usual price of a coconut, which was at Rs.60 to 80, has increased to almost double. A coconut is currently sold between Rs.120 to 150.
+
+He said the canteen and eatery owners are faced with a serious situation to prepare the rice and curry meal packets under the increased coconut prices, thus in uncertainty of having to sell meal packs for a very high rate.
+
+The unexpected price hike of coconuts comes at a moment when everything else including rice, chicken, eggs and gas has significantly gone up.
+
+Harshana warned that the prices of coconut oil will also go up in the coming days owing to the sudden hike of coconuts.
+
+◼️
+
+[Data](articles/257034cc.json)
+
+---
+
+### Amendment of fuel prices tonight
 
 *2024-03-04 10:10:34* · [`adalk`](https://www.ada.lk/breaking_news/අද-රෑට-ඉන්ධන-මිලහි-සංශෝධනයක්/11-408405) · `si`
 
-ඉන්ධන මිල සුත්‍රයට අනුව මාසිකව ඉන්ධන මිල සංශෝධනය කිරීම අනුව පෙබරවාරි මස අග දී මිල සංශෝධනයක් සිදුවිය යුතු වුවත් එය අද දිනයේ දී සිදුවනු ඇති බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සඳහන් කරයි.
+The Petroleum Corporation plans to revise fuel prices by the end of February, despite monthly amendments. The last revision was on January 31st, affecting OTrane 92, Octane 95, Super diesel, kerosene, high diesel, and kerosene.
 
-අවසන් වරට පසුගිය ජනවාරි මස 31 වන දා ඉන්ධන මිල ගණන් සංශෝධනය වු අතර ඔක්ට්‍රේන් 92 පෙට්‍රල්, ඔක්ටේන් 95 පෙට්‍රල්, සුපර් ඩීසල් සහ භූමිතෙල් මිල ඉහළ ගියේය.
+🟩
+
+The Petroleum Corporation states that the price revision is to be aimed at the end of February, even though the fuel price should be amended monthly.
+
+The last time was the fuel prices were revised on January 31st and the price of OTrane 92 petrol, Octane 95 petrol, Super diesel and kerosene, high diesel and kerosene.
 
 ◼️
 
 [Data](articles/1b8319a2.json)
+
+[Extended Data](ext_articles/1b8319a2.ext.json)
+
+---
+
+### Overstaying Russians and Ukrainians must apply for visa or depart: Alles
+
+*2024-03-04 10:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Overstaying-Russians-and-Ukrainians-must-apply-for-visa-or-depart-Alles/108-278180) · `en`
+
+Colombo, March 4 (Daily Mirror)- Public Security Minister Tiran Alles said yesterday that Russians and Ukrainians who have been in Sri Lanka since February 2022 will need to apply for a visa or leave the country.
+
+The minister told the Daily Mirror that the free visa facility granted to them will not be extended and they must comply with immigration regulations by applying for fresh visas.
+
+Meanwhile, according to the Tourist Development Authority, an estimated 300 to 400 Russians and Ukrainians have been staying in Sri Lanka since February 2022.
+
+The visa fee is approximately $50 for a 30-day stay in Sri Lanka.
+
+Last week, the Immigration Department released a letter to the Tourism Ministry Secretary requesting him to notify the long term Ukrainian and Russian tourists living in Sri Lanka to leave by March 7.
+
+...
+
+[Data](articles/ccbf9e7e.json)
+
+---
+
+### SLPP has to find a better candidate than RW - Prasanna
+
+*2024-03-04 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-has-to-find-a-better-candidate-than-RW-Prasanna/108-278192) · `en`
+
+Colombo, March 01, (Daily Mirror) -  Indicating the problem faced by the Sri Lanka Podujana Peramuna (SLPP) in facing the forthcoming Presidential election, Minister Prasanna Ranatunga told yesterday that his party, the SLPP would have to find a better candidate than President Ranil Wickremesnghe if it wants to field a candidate of its own.
+
+He said that former minister Basil Rajapaksa will not contest while time is not ripe for Namal Rajapaksa to contest.
+
+"I will support Basil if he contests for the presidency, but he will not contest" he stated.
+
+Ranatunga, who is highly supportive of President Wickremesinghe's recent decisions, warned that he will have to decide on his SLPP membership if the party decides to field another candidate.
+
+He expressed these views at a party meeting held in his hometown, Udugampola in Gampaha District.
+
+◼️
+
+[Data](articles/3664043d.json)
 
 ---
 
@@ -235,6 +369,22 @@ The gazette notification has been issued by President Saman Ekanayake in the ord
 [Data](articles/7a86c34a.json)
 
 [Extended Data](ext_articles/7a86c34a.ext.json)
+
+---
+
+### Trained police and armed forces personnel are hired by underworld gangs - IGP
+
+*2024-03-04 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trained-police-and-armed-forces-personnel-are-hired-by-underworld-gangs-IGP/108-278194) · `en`
+
+March 04 - IGP Deshabandu Thennakoon said hiring of experienced police and security force personnel of marksmanship by underworld gangs has been going on unchecked since long and that and effective mechanism would be worked out to prevent such malpractices.
+
+During his meeting with the Mahanayake Theras of Malawatta and Asgiriya Chapters during his visit on Saturday (02) to Kandy on assuming duties as IGP he said the police officer who went abroad due to death threats from the underworld as he claimed had sought permission to go abroad with his family several months ago and that it was in doubt whether he complained on death threats to meet that object.
+
+The IGP who visited Sri Dalada Maligawa paid homage to the Sacred Tooth Relic and attended religious observances before meeting the Mahanayaka Theras.
+
+...
+
+[Data](articles/59ba82df.json)
 
 ---
 
@@ -704,25 +854,39 @@ The newly launched BBA programme at the IIHS has received approval from the Univ
 
 ---
 
-### රජීව් ගාන්ධි ඝාතනය: සාන්තන්ගේ දේහය පිළිබඳ අවසන් කටයුතු අද යාපනයේදී
+### The assassination of Rajiv Gandhi: The funeral of Santhan's remains in Jaffna today
 
 *2024-03-04 05:15:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglkg8n2knyo) · `si`
 
-රජීව් ගාන්ධි ඝාතනය: සාන්තන්ගේ දේහය පිළිබඳ අවසන් කටයුතු අද යාපනයේදී
+Rajiv Gandhi assassination: Funeral of Santhan's remains in Jaffna. Former PM killed in 1991 suicide bombing. LTTE accused of assassination. Indian security forces arrested. Accused released in 2022. Santhan, a key suspect, died in 2023.
 
-ඉන්දීය හිටපු අගමැති රජීව් ගාන්ධි ඝාතනයට වරදකරුව සිට නිදහස ලබා ශ්‍රී ලංකාවේ සිය මව බැලීමට පැමිණීමට සුදානමින් සිටියදී මරණයට පත්වු ටී.සුදෙන්දරාජා නොහොත් සාන්තන්ගේ දේහය පිළිබඳ අවසන් කටයුතු අද (04) යාපනය,වැල්වැටිතුරෙයි ප්‍රදේශයේදී පැවැත්වෙයි.
+🟩
 
-දේහය පිළිබඳ අවසන් කටයුතු හින්දු චාරිත්‍රානුකූලව උඩුප්පිට්ටි හින්දු සුසාන භූමියේදී පැවැත්වීමට නියමිතය.
+The assassination of Rajiv Gandhi: The funeral of Santhan's remains in Jaffna today
 
-මළ සිරුර කටුනායක ගුවන්තොටුපොළ සිට යාපනය දක්වා රැගෙන යන අවස්ථාවේ අවමංගල්‍යය පෙරහැර (මාර්තු 03 වැනිදා) වවුනියාව නගරයෙන් ආරම්භ කළ අතර, මාන්කුලම, කිලිනොච්චිය ඇතුළු උතුරු පළාතේ ප්‍රධාන නගරවලදී දේහය වෙනුවෙන් අවසන් ගෞරව දැක්වීමේ වැඩසටහන් සංවිධානය කොට තිබුණි.
+The funeral of Tzudarakarajah, Santhaja, Jaffna, will be held in Jaffna today (04).
 
-දකුණු ඉන්දීය නීතිඥවරු දෙපළක් සාන්තන්ගේ සිරුර රැගෙන 01 වැනිදා කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.‍
+The funeral of the body is scheduled to be held at the Hindu Cemetery.
 
-1991 මැයි මස 21 වැනිදා තමිල්නාඩු ප්‍රාන්තයේ පැවැත්වු ජන හමුවකට සහභාගිවු ඉන්දීය හිටපු අගමැති රජීව් ගාන්ධි  මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයකට ලක්ව ජීවිතක්ෂයට පත්විය.
+When the body was taken from Katunayake airport to Jaffna, the funeral (March 3) was launched from Vavuniya.
+
+South Indian lawyers had come to the Katunayake International Airport on the 1st.
+
+Former Indian Prime Minister Rajiv Gandhi has been killed in a suicide bombing of a gathering in Tamil Nadu on May 21, 1991.
+
+Kalayewani Rajaratnam alias, who was 22, a suicide bomber, was launched by a suicide bomber targeting former Prime Minister.
+
+Four persons including Rajiv Gandhi and Rajiv Gandhi were killed and nearly 35 others were wounded.
+
+The LTTE was arrested by the LTTE regarding the assassination of Rajiv Gandhi and was accused of being carried out under the operation of the LTTE.
+
+The assassination of Rajiv Gandhi: Indian court orders to release the offenders
 
 ...
 
 [Data](articles/ae23629f.json)
+
+[Extended Data](ext_articles/ae23629f.ext.json)
 
 ---
 
@@ -851,6 +1015,40 @@ Tourism Minister Harin Fernando took to X, formerly Twitter, stating that Sri La
 [Data](articles/ccdeae44.json)
 
 [Extended Data](ext_articles/ccdeae44.ext.json)
+
+---
+
+### New wildlife underpass to curtail  HEC
+
+*2024-03-04 04:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/New-wildlife-underpass-to-curtail-HEC/131-278146) · `en`
+
+Elephant herds crossing the proposed location where Sri Lanka's first wildlife underpass will be built. Image courtesy - R M J Bandara
+
+As of February 2024, Sri Lanka lost another 38 elephants as a result of the Human-Elephant Conflict (HEC), elephant-train collisions, gunshot injuries and other natural causes.
+
+In 2023, Sri Lanka made headlines as the country with the highest number of elephant deaths as 473 elephants succumbed to natural and largely unnatural causes. For years, Sri Lanka’s wildlife has been at the receiving end of poor infrastructure development, encroachment of lands and lack of collaboration among stakeholder institutions to minimize human-wildlife conflicts.
+
+It is in this backdrop that the Ministry of Transport and Highways with the Sri Lanka Railways Department and the Protect Sri Lanka Organisation tied up to initiate the construction of Sri Lanka’s first wildlife underpass in Kasikote, Galgamuwa on March 1.
+
+...
+
+[Data](articles/b697b664.json)
+
+---
+
+### Over 2500 smallholder dairy farms in Nuwara Eliya District closed last year
+
+*2024-03-04 03:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-2500-smallholder-dairy-farms-in-Nuwara-Eliya-District-closed-last-year/108-278196) · `en`
+
+March 04 (Daily Mirror) - The milk production from smallholder dairy farms in Nuwara Eliya District has been reduced by over half a million litres last year with the closure of over 2500 such farms being reported from the District, according to the Central Province Department of Animal Production and Health.
+
+Deputy Director,Central Province Department of Animal Production and Health Dr. K.W.M.Dedunupitiya said 6877 out of 9432 smallholder dairy farms in the Nuwara Eliya district have been closed within the year 2023.
+
+He said 54, 836,230 litres of milk had been produced in 2023 and that it marked a decline by 542,389 litres when compared to the previous year.
+
+...
+
+[Data](articles/1a7a95b0.json)
 
 ---
 
@@ -1492,6 +1690,22 @@ He said the revenue generated through the Inland Revenue Department could be dou
 
 ---
 
+### Ranil’s election propaganda aims to attack NPP: Anura Kumara reveals
+
+*2024-03-03 21:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranils-election-propaganda-aims-to-attack-NPP-Anura-Kumara-reveals/108-278184) · `en`
+
+Colombo, March 4 (Daily Mirror)- President Ranil Wickremesinghe has handed over his propaganda activities for the Presidential election to three advertising agencies aiming to attack the National People's Power (NPP), NPP leader Anura Kumara Dissanayake said yesterday.
+
+Speaking at the Ratnapura District Women's Convention, he said that the contract to create a bad picture of the NPP has been given to someone attached to the NPP.
+
+He said the propaganda activities of Ranil Wickremesinghe includes installing fear among the people by highlighting incidents from 1988/89 and May 9, thus creating a notion that this is not the time to try new options and also to raise doubts as to how the NPP with only a three percent vote base can garner a 51 per cent vote base.
+
+...
+
+[Data](articles/dd098b7b.json)
+
+---
+
 ### Suspect arrested in Katunayake
 
 *2024-03-03 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194090) · `si`
@@ -1935,237 +2149,5 @@ The cause of the fire is yet to be determined and the police are conducting furt
 [Data](articles/51c441a2.json)
 
 [Extended Data](ext_articles/51c441a2.ext.json)
-
----
-
-### General Leaders Thera to visit the President
-
-*2024-03-03 18:58:50* · [`adalk`](https://www.ada.lk/religion/බුද්ධ-ශාසනයට-වන-අගතියක්-ගැන-මහ-නායක-හිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/4-408397) · `si`
-
-General Leaders Thera to visit President. Letter from Trinician Mahanayaran against Sirisena Fonseka, distorting Buddha's vision. Maha Sangha, including Mahanaanayake of Sri Lanka Amaragoda Murti, warns against false ideologies and conspiracy. Presidential Bhikkumulana informed of potential social crisis. Samanera Bhikku Registration implicated in illegal monk activities. Accusations of distorting Buddha's character and spreading false ideologies. Social dignitaries accused of fraudulent management of monastic facilities, leading to societal issues. National Assembly Tripitaka Meal declared National Heritage. Accusations of destroying noble privileges of Sambuddha preaching and misleading public. Condemnation of Buddha and Maham ියාව manuscripts. Creation of inaccuracies and discrimination between monastery and public. Accusations of government pension misuse and misleading institutions. Deep displeasure over regulatory deforestation and false history. Celebration of Buddhist System by Mortizable Sirisena, considered a conspiracy against national security. Maha Sangha demands immediate attention.
-
-🟩
-
-A letter to the President with the signature of the Trinician Mahanayaran's signature against Sirisena Fonseka, who distort the Buddha's vision, distorting the Buddha's vision and distort the Buddha's vision.
-
-The letter of the Most Veyangoda Maithripala Maha Sangha, Maithripura Maha Sangha, Maithripura Maha Sangha, Maithripura Maha Nikaya, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahathgoda Maha Nikaya Mahanaan, the Mahanaanayake of the Sri Lanka Amaragodi Maha Nikaya, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahanaanayake of the Sri Lanka Amaragoda Murti, the Mahanaanayake of the Sri Lanka Amaragoda Murti..
-
-The Presidential Bhikkumulana has been informed by the President and the responsible areas of the Buddhist image, which is preparing to distort the false ideologies and conspiracy to create a social crisis in the Tripitaka.
-
-...
-
-[Data](articles/fd1c6479.json)
-
-[Extended Data](ext_articles/fd1c6479.ext.json)
-
----
-
-### Heat advisory issued as temperatures to reach ‘caution’ levels
-
-*2024-03-03 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97706/heat-advisory-issued-as-temperatures-to-reach-caution-levels-) · `en`
-
-The Department of Meteorology has cautioned the people of rising atmospheric temperatures at some places in North-western, Western, Southern and Sabaragamuwa provinces and in the Anuradhapura and Mannar districts in the coming hours.
-
-The advisory, issued at 03.30 p.m. today (03 March), will be in effect until tomorrow evening (04 March).
-
-“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District”, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps, the Department warned.
-
-...
-
-[Data](articles/413ec025.json)
-
-[Extended Data](ext_articles/413ec025.ext.json)
-
----
-
-### Ice drug hijacking in Chocolate: Investigations released during investigations!
-
-*2024-03-03 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/177823) · `ta`
-
-Investigations reveal Ice drug smuggled into Sri Lanka via Katunayake airport, hidden in chocolate. A raid by the Special Task Force uncovers 5 kg of drugs in a luxury car. Suspects linked to powerful drug dealers Nipuna and Nandasena, believed to be in Dubai, are under investigation.
-
-🟩
-
-It has been found that the Ice drug has been smuggled into the country for a long time through the Katunayake airport hiding in the Chocolate.
-
-Investigations carried out on the basis of information received during the raid conducted by the Special Task Force (STF) have been revealed.
-
-When a luxury car was checked in the Kiribathgoda area, about 5 kg of drugs packed in chocolate wrapples were discovered.
-
-Further inquiries into the suspect arrested in connection with the debt, the Special Task Force has received information on the Wattala and Ganemula houses owned by a kidnapper.
-
-It has been revealed that the drug has been abducted on the instructions of powerful drug dealers Nipuna and Nandasena who are currently lurking in Dubai.
-
-◼️
-
-[Data](articles/949ad692.json)
-
-[Extended Data](ext_articles/949ad692.ext.json)
-
----
-
-### Uva Governor Muzammil son is the rise
-
-*2024-03-03 18:38:28* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවකට-පහර-දුන්-ඌව-ආණ්ඩුකාර-මුසම්මිල්-ගේ-පුතා-පලායයි/11-408396) · `si`
-
-Uva Governor Muzammil's son is involved in a case where a suspect fled to Yala after a complaint in Colombo. The suspect's luxury jeep and phone were seized. A foreign travel ban was filed against the suspect by Australian citizens. The suspect was in Kataragama, and a special police team raided a hotel in Yala, finding the jeep in the car park. The cause of an attack on a woman is unclear, with the suspect claiming innocence. The case is under investigation by Sri Lanka Police.
-
-🟩
-
-The Wellawatte police say that the suspect had fled to a complaint in the Yala area, according to a complaint with a loyalty of the Uva province, Mohammed Musammal to be arrested in Colombo 6 Havelock Road, Colombo.
-
-The suspect's luxury jeep and the mobile phone have been taken into the police. The woman was attacked by a private hospital.
-
-According to the police, a foreign travel ban was filed against the Mount Lavinia Magistrate's Court on a complaint lodged by a large number of Australian citizenship.
-
-The suspect had gone to Kataragama area, a special police team had raided the hotel in the Yala area, he insisted his luxury jeep and was in the car rouse, but he was in the car park.The mobile phone has taken action to take up the policebage
-
-The cause of the attack is not definitely uncirculated and the suspect has resentful to the suspect and the breach of the woman.
-
-...
-
-[Data](articles/5ca16abf.json)
-
-[Extended Data](ext_articles/5ca16abf.ext.json)
-
----
-
-### Inmate at Galle Prison currently receiving treatment for meningitis
-
-*2024-03-03 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97705/inmate-at-galle-prison-currently-receiving-treatment-for-meningitis-) · `en`
-
-Another case of meningitis has been reported within the Galle Prison, nearly a month after a series of such cases were reported from several prisons across the country.
-
-Accordingly, an inmate who had been imprisoned on February is currently receiving treatment at the Karapitiya Teaching Hospital after displaying symptoms of meningitis.
-
-Director of the Prison Health Services Dr. Hemantha Ranasinghe stated, however, that the inmate is not in critical condition, and has been the only one to displays such symptoms thus far.
-
-Earlier this year, and in latter stage of 2023, several inmates of the Galle and Matara Prisons contracted meningitis, of whom three died.
-
-◼️
-
-[Data](articles/c615d385.json)
-
-[Extended Data](ext_articles/c615d385.ext.json)
-
----
-
-### A female body of the black river
-
-*2024-03-03 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194085) · `si`
-
-A woman's body found in the Black River, believed to be from Kalutara, is suspected to be around 50 years old.
-
-🟩
-
-The body of a woman who was unable to find a woman's body found in the Black River, police said.
-
-The police have reportedly reported that the woman was living in Kalutara on several occasions.
-
-Police suspect that the woman is about 50 years old.
-
-◼️
-
-[Data](articles/ceec8a22.json)
-
-[Extended Data](ext_articles/ceec8a22.ext.json)
-
----
-
-### Getting Ready For Presidential Election
-
-*2024-03-03 18:12:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/getting-ready-for-presidential-election/) · `en`
-
-President Ranil Wickremesinghe’s tenure will be over by November 2024. Constitution Section 31.3 stipulates that “not less than one month and not more than two months before the expiration of the term of office of the President” the notification for the presidential poll must be issued. In the present context the deadline for election notification is due before September 4, 2024. Barring some unforeseen calamity, the presidential elections will have to be held before October 2024.
-
-...
-
-[Data](articles/737c38b1.json)
-
-[Extended Data](ext_articles/737c38b1.ext.json)
-
----
-
-### President joins ’’Battle of the Maroons’’
-
-*2024-03-03 18:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-joins-Battle-of-the-Maroons/110-278137) · `en`
-
-President Ranil Wickremesinghe attended the 94th historic "Battle of the Maroons" cricket encounter between Ananda and Nalanda Colleges held today at the SSC ground in Colombo. Pererannual cricket encounter commemorates the esteemed "Late Dr. N.M. Perera Memorial Challenge Championship Trophy," with today marking the culmination of this year's two day encounter.
-
-◼️
-
-[Data](articles/07b041bd.json)
-
-[Extended Data](ext_articles/07b041bd.ext.json)
-
----
-
-### The terrible accident occurred in Kadugannawa
-
-*2024-03-03 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194084) · `si`
-
-A bus driver in Kadugannawa prevented a crash by braking on a steep slope, saving the bus from colliding with a table.
-
-🟩
-
-The bus driver has been able to prevent a large crash from the brake in Kadugannawa.
-
-The victim was a private bus traveling from Kandy to Colombo.
-
-The bus brake has been disabled at a place where there is an excessive slope near the lower cadiness in Kadugannawa.
-
-The driver protected the bus and stood the bus to collide the bus on the right table.
-
-◼️
-
-[Data](articles/32bb9999.json)
-
-[Extended Data](ext_articles/32bb9999.ext.json)
-
----
-
-### Place of Indian College for Asani
-
-*2024-03-03 18:01:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசானிக்கு-இந்திய-கல்லூரியில்-இடம்/175-334143) · `ta`
-
-Asani, from Nayabana, studies at Government Women's College in Porur, Tamil Nadu, after winning the Sarigamapam show on South Indian Tamil Television.
-
-🟩
-
-Asani has joined the college with permission to pursue her education at the Government Women's College in Porur, India, Tamil Nadu.
-
-It is noteworthy that Asani is a native of Nayabana, who participated in the Sarigamapam show, which aired on South Indian Tamil Television.. Remble
-
-◼️
-
-[Data](articles/44776aad.json)
-
-[Extended Data](ext_articles/44776aad.ext.json)
-
----
-
-### The best news heard in the world
-
-*2024-03-03 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194083) · `si`
-
-Hamas representatives in Cairo discuss a Gaza ceasefire. Israeli delegation to return for negotiations. Israel and Hamas to hold parties on ceasefire publication.
-
-🟩
-
-The Hamas's representatives have arrived at Cairo to discuss a ceasefire in Gaza.
-
-Foreign media reports that a team headed by Deputy Head of Hamas Hamas 'Hemas' Chairel Al Haya.
-
-The Israeli delegation attending negotiations on the ceasefire is due to return to Cairo.
-
-Israel and Hamas are scheduled to be held in several parties on the publication of a ceasefire in the Gaza.
-
-◼️
-
-[Data](articles/27669e0e.json)
-
-[Extended Data](ext_articles/27669e0e.ext.json)
 
 ---

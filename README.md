@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 06:16:44**
+As of **2024-03-04 06:54:52**
 
 ## Newspaper Stats
 
-*Scraped **10,666** Articles*
+*Scraped **10,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 126
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
-islandlk | 572
 dailyftlk | 572
+islandlk | 578
 adalk | 899
 adaderanalk | 1,301
-tamilmirrorlk | 1,306
+tamilmirrorlk | 1,308
 virakesarilk | 1,434
 dailymirrorlk | 1,618
 adaderanasinhalalk | 1,651
@@ -26,11 +26,51 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,663 (100.0%) of 10,666 articles have been extended.
+10,666 (99.9%) of 10,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### போரா சமூக ஆன்மீகத் தலைவர் ஜனாதிபதியை சந்தித்தார்
+
+*2024-03-04 06:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போரா-சமூக-ஆன்மீகத்-தலைவர்-ஜனாதிபதியை-சந்தித்தார்/175-334159) · `ta`
+
+போரா சமூகத்தின் ஆன்மீகத் தலைவர் கலாநிதி புனித செய்யதினா முஃபத்தல் செய்புதீன் சாஹிப் மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இடையிலான சந்திப்பு நேற்று பிற்பகல் பெஜெட் வீதியிலுள்ள ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்தில் நடைபெற்றது.
+
+போரா சமூகத்தின் ஒரு மில்லியனுக்கும் அதிகமான உறுப்பினர்கள் இந்தியா, பாகிஸ்தான், அமெரிக்கா, இங்கிலாந்து, கனடா, இலங்கை, அவுஸ்திரேலியா உள்ளிட்ட பல நாடுகளில் வாழ்கின்றனர்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்ட கலாநிதி செய்யதினா முஃபத்தல் செய்புதீன், இலங்கையின் பொருளாதாரத்தைக் கட்டியெழுப்ப ஜனாதிபதி நடைமுறைப்படுத்தியுள்ள வேலைத்திட்டத்தைப் பாராட்டினார்.
+
+அத்துடன், பம்பலப்பிட்டி போரா பள்ளிவாசலை அண்டி நடத்தப்படும் போரா மாநாட்டை இவ்வருடம் நடத்துவது தொடர்பிலும் ஜனாதிபதியின் கவனத்திற்கு கொண்டு வரப்பட்டது.  (a)
+
+◼️
+
+[Data](articles/ef4cf4e2.json)
+
+---
+
+### சாந்தனின் இறுதிக்கிரியைகள் இன்று
+
+*2024-03-04 05:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-இறுதிக்கிரியைகள்-இன்று/175-334158) · `ta`
+
+மறைந்த சாந்தன் எனப்படும் தில்லையம்பலம் சுதேந்திரராஜாவின்  உடலுக்கு யாழ். வடமராட்சி, உடுப்பிட்டியில் உள்ள அவரது சகோதரியின் வீட்டில் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது.
+
+சாந்தனின் உடல் தாங்கிய ஊர்தி யாழ். வடமராட்சியை நேற்று மாலை சென்றடைந்த பின்னர் தீருவிலில் அஞ்சலிக்காக வைக்கப்பட்டது.
+
+சாந்தனின் இறுதிக்கிரியைகள், அவரது சகோதரியின் இல்லத்தில் இன்று காலை 10 மணியளவில் ஆரம்பமாகும்.
+
+இறுதிக்கிரியைகள் நிறைவு பெற்றதும் அவரது உடல் எடுத்துச் செல்லப்பட்டு ஊரில் உள்ள சனசமூக நிலையத்தில் அஞ்சலி நிகழ்வு இடம்பெறும்.
+
+அதனைத் தொடர்ந்து புகழுடல் சாந்தனின் பூர்வீக இல்லத்துக்குக் கொண்டு செல்லப்பட்ட பின் இறுதி யாத்திரை ஆரம்பமாகும்.
+
+வல்வெட்டித்துறை, பொலிகண்டி ஊடாக எள்ளங்குளம் இந்து மயானத்துக்குப் உடல் எடுத்துச் செல்லப்படும் என அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/d83933b6.json)
+
+---
 
 ### Medicare 2024 concludes with a flourish
 
@@ -43,6 +83,24 @@ Medicare 2024 rolled out over three days till the 3rd March, featuring 4 main ex
 ...
 
 [Data](articles/4a2c1ca3.json)
+
+[Extended Data](ext_articles/4a2c1ca3.ext.json)
+
+---
+
+### INSEE Cement recognises outstanding business partners at Business Partner Awards 2023
+
+*2024-03-04 05:31:00* · [`islandlk`](http://island.lk/insee-cement-recognises-outstanding-business-partners-at-business-partner-awards-2023/) · `en`
+
+INSEE Cement, Sri Lanka’s number one cement brand, proudly recognized the exceptional achievements of its Business Partners at the annual Business Partner Awards 2023 held at the Courtyard by Marriott in Colombo recently.
+
+This year’s event – themed “Unbreakable bonds, Unstoppable journey, Our strength, INSEE” – held particular importance, given the intense challenges confronted by the construction sector in the past year. It recognized the invaluable contributions of Business Partners towards helping INSEE Cement consistently deliver value to our customers through quality products and services, timely delivery, and responsive support.
+
+The 2023 Business Partners Awards was attended by Chairman Nandana Ekanayake, Chief Executive Officer Jan Kunigk, members of the Executive Committee, Management, and the Commercial Team, alongside our host of regional and national business partners.
+
+...
+
+[Data](articles/9afd6ada.json)
 
 ---
 
@@ -57,6 +115,8 @@ The newly launched BBA programme at the IIHS has received approval from the Univ
 ...
 
 [Data](articles/f157d982.json)
+
+[Extended Data](ext_articles/f157d982.ext.json)
 
 ---
 
@@ -94,6 +154,22 @@ During the time of former President Rajapaksa, via amendments to the Constitutio
 
 ---
 
+### ComBank named Best SME Bank in Sri Lanka at Global Finance Awards 2024 in UK
+
+*2024-03-04 05:10:00* · [`islandlk`](http://island.lk/combank-named-best-sme-bank-in-sri-lanka-at-global-finance-awards-2024-in-uk/) · `en`
+
+The Commercial Bank of Ceylon has been declared the ‘Best SME Bank’ in Sri Lanka at the Global Finance Awards 2024 in an emphatic reaffirmation of the Bank’s status as the biggest benefactor by far to the country’s small and medium enterprises.
+
+Already recognised by the Ministry of Finance as the biggest lender to the country’s SMEs, Commercial Bank received the prestigious Global Finance award in this sphere for the second consecutive year.
+
+Announcing the winners of the World’s Best SME Bank Awards 2024 across all regions, Global Finance said it used a proprietary algorithm with criteria – such as knowledge of SME markets and needs, breadth of products and services, market standing, and innovation – weighted for relative importance. “The winners are those banks that best meet the specialised needs of SMEs in their markets,” the magazine said.
+
+...
+
+[Data](articles/49048c78.json)
+
+---
+
 ### Teejay Lanka board gets two independent directors
 
 *2024-03-04 05:10:00* · [`islandlk`](http://island.lk/teejay-lanka-board-gets-two-independent-directors/) · `en`
@@ -105,6 +181,38 @@ Based at the company’s New York headquarters, he oversaw PVH’s global supply
 ...
 
 [Data](articles/4a9b8ab4.json)
+
+[Extended Data](ext_articles/4a9b8ab4.ext.json)
+
+---
+
+### Lanka Special Steels launches GI wire product range for international markets
+
+*2024-03-04 05:10:00* · [`islandlk`](http://island.lk/lanka-special-steels-launches-gi-wire-product-range-for-international-markets/) · `en`
+
+Lanka Special Steels Limited, Sri Lanka’s premier and pioneering manufacturer of hot-dipped galvanized steel wire, with a rich history of over 25 years, recently announced the launch of its flagship international brands of wire, “Lanka Special Steels Ltd Poultry 300” and “Lanka Special Steels Ltd Premium 100”. These high-quality products are designed for use in the poultry industry and for general fencing requirements, respectively. Lanka Special Steels is launching these products for the Indian market, where these use cases are niche markets with few high-quality solutions.
+
+...
+
+[Data](articles/54f48f6d.json)
+
+---
+
+### New construction work appears to be bouncing back
+
+*2024-03-04 05:09:00* · [`islandlk`](http://island.lk/new-construction-work-appears-to-be-bouncing-back/) · `en`
+
+Sri Lanka Purchasing Managers’ Index (PMI) for Construction indicates an expansion in construction activities in January 2024, as reflected by the Total Activity Index, which recorded an index value of 52.9.
+
+This marks the first time that the index exceeded the neutral threshold since January 2022. Many respondents mentioned that new construction work is gradually becoming available, while some suspended projects also have recommenced on a limited scale during the month.
+
+According to the PMI, new orders increased in January compared to the previous month. Most of the respondents mentioned that, at the moment, the availability of both foreign-funded projects and privately-funded local projects is higher.
+
+Meanwhile, Ajith Ranabahu Rajapaksha, business development officer at Saliya Home Builders in Homagama told The Island that their company is receiving new orders to build homes as well as commercial facilities.
+
+...
+
+[Data](articles/df008b07.json)
 
 ---
 
@@ -2037,119 +2145,5 @@ The suspects and the suspects have been arrested during a raid in Colombo in Col
 [Data](articles/8e014ba1.json)
 
 [Extended Data](ext_articles/8e014ba1.ext.json)
-
----
-
-### STF seize ‘Ice’ worth Rs. 100 mn during raid in Colombo
-
-*2024-03-03 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97702/stf-seize-ice-worth-rs-100-mn-during-raid-in-colombo-) · `en`
-
-A stock of narcotics have been seized by the Police Special Task Force (STF), during a raid carried out in Colombo.
-
-Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estimated street value of around Rs. 100 million, were seized.
-
-◼️
-
-[Data](articles/0040b001.json)
-
-[Extended Data](ext_articles/0040b001.ext.json)
-
----
-
-### Three arrested with ‘Ice’ worth Rs. 100 mn during raid in Colombo
-
-*2024-03-03 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97702/three-arrested-with-ice-worth-rs-100-mn-during-raid-in-colombo-) · `en`
-
-Three persons were arrested with a stock of narcotics by the Police Special Task Force (STF), during a raid carried out in Colombo.
-
-Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estimated street value of around Rs. 100 million, were seized.
-
-◼️
-
-[Data](articles/1b881bde.json)
-
-[Extended Data](ext_articles/1b881bde.ext.json)
-
----
-
-### Three arrested with ‘Ice’ worth Rs. 100 mn during STF raid
-
-*2024-03-03 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97702/three-arrested-with-ice-worth-rs-100-mn-during-stf-raid-) · `en`
-
-Three persons were arrested with a stock of narcotics by the Police Special Task Force (STF), during a raid carried out in Kiribathgoda and Katunayake.
-
-Accordingly, 09 kilograms of crystal methamphetamine (‘Ice’), with an estimated street value of around Rs. 100 million, were seized.
-
-According to police, a male suspect was arrested in the Kiribathgoda area after a stock of 05 kilograms of ‘Ice’ was found hidden in chocolate wrappers upon inspection of a luxury vehicle.
-
-Upon questioning this suspect, police uncovered that the said drug racket is being run by two notorious underworld figures known as ‘Nandasena’ and ‘Nipuna’, who are currently in Dubai.
-
-Police also obtained details on two houses in the Ganemulla and Wattala areas, allegedly belonging to one of the drug kingpins.
-
-...
-
-[Data](articles/c5a0e59c.json)
-
-[Extended Data](ext_articles/c5a0e59c.ext.json)
-
----
-
-### Sri Lanka Army clinches gold in Pakistan
-
-*2024-03-03 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lanka-Army-clinches-gold-in-Pakistan/110-278128) · `en`
-
-The Sri Lanka Army team has secured the prestigious gold medal at the 7th Pakistan Army Team Spirit Competition - 2024. Their remarkable victory adds another chapter to the nation's proud military legacy.
-
-The Pakistan Army Team Spirit (PATS) Competition is an annual mission and task-oriented exercise organized under the supervision of the Pakistan Army. The exercise emphasizes the highest standards in physical fitness, mental robustness, and tactical expertise, showcasing the core soldierly attributes.
-
-In this grueling 60-hour contest, the Sri Lankan team displayed exceptional skill and determination, overcoming every obstacle with unwavering resolve.
-
-Comprising 3 Officers and 8 Other Ranks, the Sri Lankan contingent navigated treacherous terrain and executed complex tactical maneuvers with precision. Their exemplary performance saw them outshine competitors from 11 other nations, securing the top spot on the podium.
-
-◼️
-
-[Data](articles/a4ed2969.json)
-
-[Extended Data](ext_articles/a4ed2969.ext.json)
-
----
-
-### Bashil returns to the country
-
-*2024-03-03 13:45:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்புகிறார்-பஷில்/175-334135) · `ta`
-
-Basil Rajapaksa, Sri Lanka PA founder, returns on 5th. Discussion with MP planned.
-
-🟩
-
-Basil Rajapaksa, the founder and former minister of the Sri Lanka PA, will return to the country on the 5th of this month, Peramuna's sources say.
-
-The Sri Lanka PA will be held with the Member of Parliament to hold a discussion with the Sri Lanka PA.
-
-◼️
-
-[Data](articles/3a880a84.json)
-
-[Extended Data](ext_articles/3a880a84.ext.json)
-
----
-
-### Expert reveal on financial discipline
-
-*2024-03-03 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194075) · `si`
-
-"Expert reveal on financial discipline: Presidential Advisors, including Social Dr. Indrazaami, highlight their experience with 16 IMF programs, emphasizing their economic resilience despite challenges. They warn against repeating past mistakes, citing Einstein's adage about expecting different outcomes from the same actions. They advocate for learning from past failures to avoid repeating the same road, hoping for a change this time."
-
-🟩
-
-Presidential Advisor to the Presidential Advisory Group, Member of the Presidential Advanced Activity and Loans will have to face the economic discipline of the economic crisis.
-
-Social Dr. Indrazaami, Members of the Presidential Advisor on Multilateral and Credit Tersor,
-
-...
-
-[Data](articles/f57caf99.json)
-
-[Extended Data](ext_articles/f57caf99.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 18:11:17**
+As of **2024-03-04 18:22:16**
 
 ## Newspaper Stats
 
-*Scraped **10,809** Articles*
+*Scraped **10,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,28 +15,68 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 913
+adalk | 914
 adaderanalk | 1,320
 tamilmirrorlk | 1,321
 virakesarilk | 1,456
-dailymirrorlk | 1,645
-adaderanasinhalalk | 1,681
+dailymirrorlk | 1,646
+adaderanasinhalalk | 1,682
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,795 (99.9%) of 10,809 articles have been extended.
+10,795 (99.8%) of 10,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### ලංකා ඛනිජ තෙල් සංස්ථාවට එරෙහිව වාරණ නියෝගයක්
+
+*2024-03-04 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194125) · `si`
+
+ලංකා ඛනිජතෙල්  නීතිගත සංස්ථාවට අයත් බෙදුම්කරුවන්ගෙන් අයවිය යුතු ගාස්තු මාර්තු මාසය තුළ ගෙවන ලෙසත් එසේ නොකළහොත් ඔවුන්ගේ තැන්පත් මුදලින් අදාළ මුදල අඩු කරගන්නා බව දන්වා ලංකා ඛනිජ තෙල් සංස්ථාව මගින් නිකුත්කර ඇති  ලිපියක් ක්‍රියාත්මක වීම වළකාලමින් අභියාචනාධිකරණය අද (04) අතුරු තහනම් නියෝගය නිකුත් කළේය.
+
+ඛනිජ තෙල් බෙදාහැරීමේ නියෝජිතයන්ගේ සංගමය විසින් ගොනුකර තිබූ පෙත්සමක් සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා විසින් මෙම අතුරු නියෝගය නිකුත් කළේය.
+
+මෙම  අතුරු තහනම් නියෝගය, පෙත්සම් විභාගය අවසන් වන තෙක් බලපැවැත්වෙන බවත් අධිකරණ නියෝගයේ සඳහන් වෙයි.
+
+ඛනිජ තෙල් නීතිගත සංස්ථාව මගින් ලිපියක් නිකුත් කරමින් මාර්තු මාසය තුළ බෙදුම්කරුවන්ගෙන් අයවිය යුතු ගාස්තු ගෙවිය යුතු බවත් එසේ නොගෙවන්නේ නම් ඔවුන්ගේ තැන්පතුවලින් එය අය කරන්නා බව සඳහන් කර තිබූ බවත් පෙත්සම්කරුවෝ පෙන්වා දෙති.
+
+අදාළ ලිපිය නිකුත්කර තිබෙන ආකාරය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් එවැනි ලිපියක් නිකුත් කිරීමට වගඋත්තරකාර සංස්ථාවට බලයක් නොමැති බවත් නීතිඥ සනත් විජයවර්ධන මහතා මාර්ගයෙන් ගොනුකර තිබූ අදාළ පෙත්සමේ සඳහන් කර තිබුණි.
+
+...
+
+[Data](articles/20a96102.json)
+
+---
+
+### No-faith motion on Speaker to be handed over tomorrow
+
+*2024-03-04 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-on-Speaker-to-be-handed-over-tomorrow/108-278214) · `en`
+
+Colombo, March 4 (Daily Mirror)- The no-faith motion on Speaker Mahinda Yapa Abeywardena is to be handed over tomorrow, SJB MP Tissa Attanayake said today.
+
+"We also intend to obtain a date for the debate on the motion tomorrow itself," he told the media.
+
+◼️
+
+[Data](articles/6a72d931.json)
+
+---
 
 ### විදුලි ගාස්තුව අඩුවන්නේ මෙහෙමයි
 
 *2024-03-04 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194124) · `si`
 
 ඒකක 30ට අඩු විදුලි පාරිභෝගිකයින් සඳහා දැනට ඒකකයක් සඳහා අයකරන රුපියල් 12ක ප්‍රමාණය රුපියල් 8ක් දක්වා අඩුකරන බව මහජන උපයෝගීතා කොමිසම පවසයි.
+
+මහජන උපයෝගීතා කොමිසමේ දැන් පැවැත්වෙන මාධ්‍ය හමුවකට එක්වෙමින් මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා මේ බව පැවසීය.
+
+ඒකක 31ත් 60ත් අතර විදුලි පාරිභෝගිකයින් සඳහා විදුලි ගාස්තුව සියයට 20කින් පහළ දැමීමට කටයුතු කර ඇත.
+
+එසේම ඒකක 60ත් 90ත අතර විදුලි පාරිභෝගිකයින් සඳහා විදුලි ගාස්තුව සියයට 30කින් පහළ දැමීමට කටයුතු කර තිබේ.
 
 ◼️
 
@@ -49,6 +89,14 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-03-04 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97729/electricity-tariffs-to-be-reduced-from-midnight-today) · `en`
 
 The electricity tariffs will be reduced by 21.9% with effect from midnight today (March 04), the Public Utilities Commission of Sri Lanka (PUCSL) announced.
+
+PUCSL chairman Prof. Manjula Fernando revealed this during a press briefing held in Colombo today (04) to deliver its decision on the electricity tariff reduction proposal mooted recently by the Ceylon Electricity Board (CEB).
+
+The state-owned electricity supplier had submitted its tariff revision proposal to the commission on February 22, 2024.
+
+Last month, Minister of Power and Energy Kanchana Wijesekera had informed the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
+
+In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
 
 ◼️
 
@@ -901,6 +949,26 @@ It was in Hamilton, though, that Williamson reserved his best for with the team 
 [Data](articles/8e1f3007.json)
 
 [Extended Data](ext_articles/8e1f3007.ext.json)
+
+---
+
+### නව යාන්ත්‍රණයකින් රාජ්‍ය සේවයේ ආරවුල් විසඳන්න යයි
+
+*2024-03-04 14:14:19* · [`adalk`](https://www.ada.lk/breaking_news/නව-යාන්ත්‍රණයකින්-රාජ්‍ය-සේවයේ-ආරවුල්-විසඳන්න-යයි/11-408415) · `si`
+
+රාජ්‍ය අංශයේ ආයතනයන්හි  නිරන්තරයෙන් ඇති විය හැකි ආරවුල් වැලැක්වීමේ හා නිරාකරණය කිරීම සඳහා නව යාන්ත්‍රණයක් හඳුන්වා දීමට රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත්  සභා හා පළාත් පාලන අමාත්‍යාංශය පියවර ගෙන තිබේ.
+
+මේ සම්බන්ධයෙන් එම අමාත්‍යාංශයේ ලේකම් ප්‍රදීප් යසරත්න මහතා විසින් නිකුත් කර ඇති නවතම  චක්‍රලේඛයකට අනුව රාජ්‍ය සේවය තුළින්  මහජනතාවට විශිෂ්ට සේවයක් ලබා දීම මෙහි ප්‍රධාන අරමුණකි.
+
+රාජ්‍ය සේවයේ   ඇතිවන ආරාවුල් විසඳීමට විසඳීමට  විධිමත්  ක්‍රම වේදයක් නොමැතිකමින් නිරන්තරයෙන් ඇතිවන  සේවක වැඩ වර්ජන හේතුවෙන් සේවා අඩාලවී මහජනයා පීඩාවට පත්වී සේවා අකාර්යක්ෂමතාවයන් ඇතිවන හෙයින් ඒවා වළක්වා ගැනීම නව ක්‍රමවේදයන්ගෙන් අපේක්ෂිත බව මෙම චක්‍රලේඛයෙන් පෙන්වා දෙයි.
+
+ඒ අනුව සේවකයන් හා කළමනාකරුවන් නියෝජනය කරන සේවා ස්ථාන  සංසද,ආංශික සංසද,ජාතික රාජ්‍ය සංසද,පළාත් මට්ටමින් පිහිටුවන  සමථකරණ මන්ඩල  ,ජාතික මට්ටමේ බේරුම්කරණ සංචිතය යන ආයතන  පිහිටුවා සාකච්චා,උපදේශනය,
+
+සමථකරණය,හා බේරුම්කරණය යන ක්‍රමවේද ඔස්සේ ආරාවුල් සඳහා  පිළිගත හැකි විසඳුම් කරා ඒම මෙම යෝජිත  නව යාන්ත්‍රණය මගින්   අපේක්ෂිත බව එම අමාත්‍යාංශය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/a0daee6e.json)
 
 ---
 
@@ -2167,69 +2235,5 @@ The last time was the fuel prices were revised on January 31st and the price of 
 [Data](articles/1b8319a2.json)
 
 [Extended Data](ext_articles/1b8319a2.ext.json)
-
----
-
-### Overstaying Russians and Ukrainians must apply for visa or depart: Alles
-
-*2024-03-04 10:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Overstaying-Russians-and-Ukrainians-must-apply-for-visa-or-depart-Alles/108-278180) · `en`
-
-Colombo, March 4 (Daily Mirror)- Public Security Minister Tiran Alles said yesterday that Russians and Ukrainians who have been in Sri Lanka since February 2022 will need to apply for a visa or leave the country.
-
-The minister told the Daily Mirror that the free visa facility granted to them will not be extended and they must comply with immigration regulations by applying for fresh visas.
-
-Meanwhile, according to the Tourist Development Authority, an estimated 300 to 400 Russians and Ukrainians have been staying in Sri Lanka since February 2022.
-
-The visa fee is approximately $50 for a 30-day stay in Sri Lanka.
-
-Last week, the Immigration Department released a letter to the Tourism Ministry Secretary requesting him to notify the long term Ukrainian and Russian tourists living in Sri Lanka to leave by March 7.
-
-...
-
-[Data](articles/ccbf9e7e.json)
-
-[Extended Data](ext_articles/ccbf9e7e.ext.json)
-
----
-
-### SLPP has to find a better candidate than RW - Prasanna
-
-*2024-03-04 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-has-to-find-a-better-candidate-than-RW-Prasanna/108-278192) · `en`
-
-Colombo, March 01, (Daily Mirror) -  Indicating the problem faced by the Sri Lanka Podujana Peramuna (SLPP) in facing the forthcoming Presidential election, Minister Prasanna Ranatunga told yesterday that his party, the SLPP would have to find a better candidate than President Ranil Wickremesnghe if it wants to field a candidate of its own.
-
-He said that former minister Basil Rajapaksa will not contest while time is not ripe for Namal Rajapaksa to contest.
-
-"I will support Basil if he contests for the presidency, but he will not contest" he stated.
-
-Ranatunga, who is highly supportive of President Wickremesinghe's recent decisions, warned that he will have to decide on his SLPP membership if the party decides to field another candidate.
-
-He expressed these views at a party meeting held in his hometown, Udugampola in Gampaha District.
-
-◼️
-
-[Data](articles/3664043d.json)
-
-[Extended Data](ext_articles/3664043d.ext.json)
-
----
-
-### Fuel price revision likely tonight?
-
-*2024-03-04 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97715/fuel-price-revision-likely-tonight-) · `en`
-
-A fuel price revision is likely to take place tonight (04), as per sources.
-
-The Ceylon Petroleum Corporation (CPC) stated that although the fuel price was slated to be revised at the end of February, the price revision will possibly take place today.
-
-The CPC amends the fuel prices monthly as per the pricing formula. Accordingly, the prices were last revised on January 31, where the prices of octane 92 petrol, octane 95 petrol, super diesel and kerosene were increased.
-
-Against this backdrop, President Ranil Wickremesinghe has issued an Extraordinary Gazette declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services with effect from 03 March 2024.
-
-...
-
-[Data](articles/f45d2a3a.json)
-
-[Extended Data](ext_articles/f45d2a3a.ext.json)
 
 ---

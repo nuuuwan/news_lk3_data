@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 21:33:14**
+As of **2024-03-04 21:52:21**
 
 ## Newspaper Stats
 
-*Scraped **10,833** Articles*
+*Scraped **10,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 554
 dailyftlk | 572
 islandlk | 579
 adalk | 921
-adaderanalk | 1,320
+adaderanalk | 1,322
 tamilmirrorlk | 1,323
-virakesarilk | 1,456
+virakesarilk | 1,457
 dailymirrorlk | 1,651
 adaderanasinhalalk | 1,688
 
@@ -26,55 +26,101 @@ adaderanasinhalalk | 1,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,828 (100.0%) of 10,833 articles have been extended.
+10,833 (100.0%) of 10,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### ඉන්ධන මිල වෙනස්වෙන්නේ මෙහෙමයි
+### Fuel prices reduced
+
+*2024-03-04 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97731/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (March 04).
+
+◼️
+
+[Data](articles/44aefebc.json)
+
+---
+
+### Fuel prices change this way
 
 *2024-03-04 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194131) · `si`
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව විසින් අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කර තිබේ.
+Ceylon Petroleum Corporation revised fuel prices from midnight today.
+
+🟩
+
+Fuel prices have been revised from midnight today by the Ceylon Petroleum Corporation.
 
 ◼️
 
 [Data](articles/2e129408.json)
 
+[Extended Data](ext_articles/2e129408.ext.json)
+
 ---
 
-### පළමු විස්සයි විස්සේ ජය ශ්‍රී ලංකාවට
+### Sri Lanka win first Twenty20 wins
 
 *2024-03-04 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194130) · `si`
 
-බංග්ලාදේශයට එරෙහි පළමු විස්සයි විස්ස තරගයෙන් ලකුණු 3ක තියුණු ජයක් ලබාගැනීමට ශ්‍රී ලංකාව කණ්ඩායම සමත්විය.
+Sri Lanka secured their first Twenty20 victory against Bangladesh by 3 runs, with Bangladesh's batsmen managing just two wickets in the final.
 
-එහිදී අවසන් පන්දුවාරයේදී ශ්‍රී ලංකාවට අවශ්‍යම වූ කඩුලු දෙකක් ලබාගනිමින් ප්‍රවේගකාරී පිතිකරණයක නියැලුණු බංග්ලාදේශ පිතිකරුවන් පාලනය කිරීමට දසුන් ශානක සමත්විය.
+🟩
+
+Sri Lanka won the first Twenty20 match against Bangladesh by 3 runs.
+
+The batsmen of Bangladesh were controlled by Bangladesh batsmen, with two wickets in the final.
 
 ◼️
 
 [Data](articles/7931417d.json)
 
+[Extended Data](ext_articles/7931417d.ext.json)
+
 ---
 
-### பேராதனைப் பல்கலைக்கழக மாணவன் உயிரிழப்பு
+### Peradeniya University student dies
 
 *2024-03-04 21:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராதனைப்-பல்கலைக்கழக-மாணவன்-உயிரிழப்பு/175-334193) · `ta`
 
-மகாவலி கங்கையில் மூழ்கிய நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த பேராதனைப் பல்கலைகழக மாணவன்  உயிரிழந்துள்ளார்.
+Isuru Madushan, a Peradeniya University medical student, drowned in the Mahaweli Ganga, died after being rescued and treated at Nawalapitiya Teaching Hospital.
 
-இவ்வாறு உயிரிழந்தவர் பேராதனைப் பல்கலைகழகத்தில் வைத்திய பிரிவில் கல்வி கற்கும் இசுரு மதுஷான் என்பவராவார்.
+🟩
 
-இவர் கடந்த பெப்ரவரி மாதம் 23ஆம் திகதி மருத்துவப் பயிற்சிகளுக்காக நாவலப்பிட்டி போதனா வைத்தியசாலைக்கு சென்று கொண்டிருந்த போது மகாவலி கங்கைக்கு அருகில் உள்ள கல்பொத்தவல பகுதியில் நீராடச் சென்றுள்ளார்.
+A student of Peradeniya University, who was admitted to the hospital after being drowned in the Mahaweli Ganga, has died.
 
-இதன்போது, இவர் நீரில் அடித்துச் செல்லப்பட்டுள்ள நிலையில் பிரதேசவாசிகளால் மீட்கப்பட்டு நாவலப்பிட்டி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+The deceased is Isuru Madushan, who is educated in the medical section at the University of Peradeniya.
 
-பல நாட்களாக வைத்தியசாலையின் தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வந்த இவர் இன்று (4) உயிரிழந்துள்ளார். R
+He was visiting the Nawalapitiya Teaching Hospital for medical exercises on February 23 last year.
+
+He has been rescued by the residents of the area and has been admitted to the Nawalapitiya Hospital.
+
+He has been receiving treatment at the hospital's intensive care unit for several days and died today (4). Remble
 
 ◼️
 
 [Data](articles/88a4fa66.json)
+
+[Extended Data](ext_articles/88a4fa66.ext.json)
+
+---
+
+### Foreign Ministry confirms rescue of 08 Sri Lankans trafficked to Myanmar
+
+*2024-03-04 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97730/foreign-ministry-confirms-rescue-of-08-sri-lankans-trafficked-to-myanmar) · `en`
+
+Following continuous efforts made by the Government of Sri Lanka, eight (8) Sri Lankans out of the 56 trapped in cybercrime centres in Myawaddy area in Myanmar have been rescued by the Myanmar government authorities and are currently in the Myawaddy Central Police Station, the Ministry of Foreign Affairs confirmed.
+
+Issuing a statement on Monday (04), the Foreign Affairs Ministry said the Embassy of Sri Lanka in Myanmar is currently working on the early repatriation of the rescued Sri Lankans.
+
+As per information made available by the Embassy of Sri Lanka in Myanmar, the 56 Sri Lankans who have been trafficked are being held in four separate locations in the Myawaddy area and the rescued eight Sri Lankans were in one of these locations in an area that could be accessed by the Myanmar government.
+
+...
+
+[Data](articles/430dce44.json)
 
 ---
 
@@ -96,51 +142,67 @@ Furthermore, the Ministry further informs the public not to visit the Ministry t
 
 ---
 
-### විදුලි ගාස්තු අඩු කරයි
+### Reduces electricity tariffs
 
 *2024-03-04 20:39:20* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩු-කරයි/11-408427) · `si`
 
-අද (04දා) මධ්‍යම රාත්‍රී 12.00 සිට  විදුලි ගාස්තුව පොදුවේ 21.9 % කින් අඩු කළ බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කරයි.
+PUCSL reduces electricity tariffs by 33% for 30 units, 24% for 91-180 units, and 18% for over 180 units. General work categories, public sector, and street lamps also see reductions.
 
-මේ අනුව ඒකක 30 අඩු කාණ්ඩයේ විදුලි එකකයක මිල  33 % කින් අඩු වී තිබේ. එනම්  ඒකකයට රුපියල් 12 ක් අය කළ ගාස්තුව  අද සිට රුපියල් 8 ක් දක්වා අඩු කර ඇත.
+🟩
 
-එම කාණ්ඩයේ මාසික ගාස්තුව රුපියල් 180 සිට රුපියල් 150 දක්වා අඩු කර තිබෙන අතර ඒකක 31- 60  අතර  කාණ්ඩයේ විදුලි ගාස්තුව 28 % කින් පහළ දමා ඇත.
+The PUCSL has reduced the electricity tariff from 12.00 am today (04).
 
-එම කාණ්ඩයේ විදුලි එකකයක මිල රුපියල් 30 සිට 20 දක්වා අඩු වී තිබෙන අතර, මාසික ගාස්තුව රුපියල් 360 සිට රුපියල් 300 දක්වා අඩු කර තිබේ.
+Accordingly, the price of a power of 30 units has decreased by 33%. That is, the unit charged Rs. 12 is reduced to Rs.
 
-ඒකක 61 -90  අතර කාණ්ඩයේ විදුලි ගාස්තුව 30 % කින් පහළ දමා තිබේ.  ඒකකයකට අය කළ රුපියල් 41 ක ගාස්තුව රුපියල් 30 දක්වා අඩු වී මාසික ගාස්තුව රුපියල් 480 සිට රුපියල් 400 දක්වා අඩු වී ඇත.
+The monthly fee of the category has been reduced from Rs. 150 to Rs.
 
-ඒකක 91 -180 අතර විදුලි ගාස්තුව 24 % කින් අඩු කර තිබෙන අතර,  එම කාණ්ඩය යටතේ රුපියල් 59 ක් අය කළ විදුලි ඒකකයක මිල රුපියල් 50 දක්වා අඩු කර තිබේ. මාසික ගාස්තුව රුපියල් 1180 සිට රුපියල් 1000 දක්වා අඩු කර ඇත.
+The price of a venerated electricity has been reduced from Rs 30 to 20 rupees and the monthly fee has been reduced to Rs.
+
+The category electric charge between 61-90 has been down by 30%. The 41 rupees fee for a unit has been reduced to Rs. 30 and the monthly fee has been reduced to Rs. 480 to Rs.
+
+The electricity fares between 91 -180 has been reduced by 24% and the price of a unit of electricity has been reduced to Rs.. The monthly fee has been reduced to Rs.1180 to Rs.
+
+The total cost of the gathering exceeding 180 units has been reduced by 18% and the monthly fee of Rs.The price of electricity has been reduced from Rs. 59 to Rs. 50.
+
+The monthly electricity charge of more than 180 units has been reduced from Rs. 260 to Rs. 89 to Rs.
 
 ...
 
 [Data](articles/1c5d4214.json)
 
+[Extended Data](ext_articles/1c5d4214.ext.json)
+
 ---
 
-### අතුරුදන්ව සිට සොයාගත් දැරියගෙන් හෙළිදරව්වක්
+### A revelation from the missing girl
 
 *2024-03-04 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194129) · `si`
 
-මාස තුනක් තිස්සේ අතුරුදන්ව සිටි දිවුලපිටිය කෝංගඩමුල්ල ප්‍රදේශයේ 17 හැවිරිදි දැරියක් බඩල්ගම පොලිසිය විසින් අද කටුනායකින් සොයාගනු ලැබීය.
+The Badlugama Police found a 17-year-old girl missing for three months. She revealed her mother had been hiding due to a complaint lodged by the girl's mother. The police discovered her in the Euraluwa area in Katunayake and took her to the Badlugama police station for further investigations.
 
-ඇය පොලීසියට පවසා ඇත්තේ තම මව විසින් තමාව විදේශිකයෙකුට බලහත්කාරයෙන් විවාහ කරදීමට දැරූ උත්සාහයක් නිසා තමන් නිවස හැර ගොස් සැඟව ජීවත් වූ බවය.
+🟩
 
-දිවුලපිටිය කෝංගඩමුල්ල ප්‍රදේශයේ වයස අවුරුදු 17ක දැරියක් පසුගිය වසරේ දෙසැම්බර් මස සිට අතුරුදන් බවට එම දැරියගේ මව බඩල්ගම පොලිසියට පැමිණිල්ලක් කර තිබුණි.
+The Badlugama Police have discovered a 17-year-old girl from the Divulapitiya Kondammulla area who had been disappeared for three months.
 
-ඊට අනුව ක්‍රියාත්මක වූ පොලිසිය දැරිය සොයා මෙහෙයුම් ක්‍රියාත්මක කළේය.
+She has told the police that his mother had long lived and lived in hiding home because of his mother.
 
-දැරිය කටුනායක අමන්දලුව ප්‍රදේශයේ සිටින බවට පොලිසියට තොරතුරක් ලැබී ඇත්තේ ඒ අතරතුරදීය.
+The girl's mother had lodged a complaint with the Girl in Divulapitiya, a 17-year-old girl was missing from December last year.
 
-ඒ අනුව ක්‍රියාත්මක වූ පොලිසිය අමන්දලුව ප්‍රදේශයට අද ගොස් ඇයව සිය භාරයට ගත්තේය.
+Accordingly, the police operates and implemented the girl.
 
-වැඩිදුර පරීක්ෂණ සඳහා බඩල්ගම පොලිස් ස්ථානයට රැගෙන ආ දැරිය සිය නිවසින් පැනයාමට හේතුව ස්ථානාධිපතිවරයාට ප්‍රකාශ කළාය.
+Meanwhile, the police received information that the girl is in the Euraluwa area in Katunayake.
 
-මාස තුනක කාලයක් ඇය විටින් විට රැඳී සිටි ස්ථාන පිළිබඳත් ඇය පොලිසියට කරුණු සඳහන් කළාය.
+The police went to the Emitndanda area and took her in the Emitnd.
+
+The girl who was brought to the Badalgama police station for further investigations was due to his home.
+
+She also told the police about the places where she stayed at times for three months.
 
 ◼️
 
 [Data](articles/e39f0981.json)
+
+[Extended Data](ext_articles/e39f0981.ext.json)
 
 ---
 
@@ -757,6 +819,22 @@ The death of a 20 -year -old youth from the village of Eruvil has died and the b
 [Data](articles/1139f4df.json)
 
 [Extended Data](ext_articles/1139f4df.ext.json)
+
+---
+
+### கொழும்பு தேசிய வைத்தியசாலையிலுள்ள பெட் ஸ்கேன் இயந்திரம் செயலிழப்பு ; 6 மாதங்கள் கடந்தும் பழுதுபார்க்கப்படவில்லை - கதிரியக்க தொழில்வல்லூநர்கள் சங்கத் தலைவர்
+
+*2024-03-04 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177878) · `ta`
+
+நாட்டில் உள்ள அரச வைத்தியசாலைகளுக்கு பொதுவாக இரு பெட் ஸ்கேன் இயந்திரங்கள் மாத்திரமே உள்ளன. தற்போது கொழும்பு தேசிய வைத்தியசாலையில் உள்ள பெட் ஸ்கேன் இயந்திரம் செயலிழந்து 6 மாதங்கள் கடந்துள்ள நிலையில் இதனை பழுதுபார்க்கும் நடவடிக்கைகள் இது வரை முன்னெடுக்கப்பட வில்லை என கதிரியக்க தொழில்வல்லூநர்கள் சங்கத் தலைவர் சானக்க தர்மவிக்ரம தெரிவித்துள்ளார்.
+
+அத்தோடு மஹரகம புற்றுநோய் வைத்தியசாலையில் உள்ள இயந்திரம் மூலம் வாரத்துக்கு ஒரு முறை மாத்திரமே பரிசோதனைகள் இடம்பெற்று வரும் நிலையில் மேற்படி இயந்திரத்தைக் கொண்டு சிரி ஸ்கேன் பரிசோதனைகளை மேற்கொள்வதற்கு வைத்தியசாலை தரப்பினர் முயற்சித்து வருவதாகவும் அவர் குற்றம் சுமத்தியுள்ளார்.
+
+கொழும்பில்  திங்கட்கிழமை (04) இயந்திர செயலிழப்பு குறித்துக் கருத்து தெரிவிக்கையிலேயே அவர் மேற்கண்டவாறு கருத்து தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/497fe03a.json)
 
 ---
 
@@ -2215,69 +2293,5 @@ In addition, the foreign reserves have risen to $ 4.5 billion in January, and th
 [Data](articles/725ccf1d.json)
 
 [Extended Data](ext_articles/725ccf1d.ext.json)
-
----
-
-### Five including foreigners injured in bus-car collision in Dambulla
-
-*2024-03-04 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97718/five-including-foreigners-injured-in-bus-car-collision-in-dambulla) · `en`
-
-Five persons including three foreign nationals have been critically injured while several others sustained minor injuries after a private passenger bus collided with a car in the Pelwehera area of Dambulla this morning (04).
-
-A private passenger bus travelling from Trincomalee to Colombo and a car in which four foreign tourists, members of the same family, were travelling from Dambulla to Sigiriya had collided on the Dambulla – Habarana main road today, the police said.
-
-The mother, father and son of the same French family, the driver of the car and another female Buddhist monk travelling on the bus have been injured in the accident and admitted to Dambulla Base Hospital. Several other passengers who were travelling on the bus have also sustained minor injuries in the accident, Ada Derana reporter said.
-
-...
-
-[Data](articles/39d37ccd.json)
-
-[Extended Data](ext_articles/39d37ccd.ext.json)
-
----
-
-### South Korea decides to expel doctors
-
-*2024-03-04 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194109) · `si`
-
-South Korea expels 7,000 striking doctors, ordered back to work by the Deputy Health Minister.
-
-🟩
-
-South Korea has decided to abolish the registration of 7,000 training doctors on strike.
-
-The Deputy Health Minister of Health said that the doctors were ordered to report back to work.
-
-◼️
-
-[Data](articles/09c2498f.json)
-
-[Extended Data](ext_articles/09c2498f.ext.json)
-
----
-
-### 32 people killed in heavy rains in Pakistan
-
-*2024-03-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177852) · `ta`
-
-Heavy rains in Pakistan since last Thursday have led to the deaths of over 30 people, including children, and caused significant damage in Balochistan and Khyber Pakhtunkhwa, with 27 deaths and 115 houses damaged. Schools in Balochistan are closed.
-
-🟩
-
-More than 30 people, including children, died following heavy rains in Pakistan, officials said yesterday.
-
-Heavy rains have been raining since last Thursday in many regions of Pakistan. As a result, schools have been closed in the province of Balochistan.
-
-27 people, including 18 children, have died due to demolition of buildings in Khyber Pakhtunkhwa province, officials said.
-
-The Khyber Pakhtunkhwa Provincial Disaster Management Agency said that 30 houses have been completely damaged and 97 houses have been partially damaged.
-
-Damage roads, floods and landslides in Baleshistan have been cut off between major cities and villages.
-
-◼️
-
-[Data](articles/bd963b0c.json)
-
-[Extended Data](ext_articles/bd963b0c.ext.json)
 
 ---

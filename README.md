@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 00:33:18**
+As of **2024-03-05 00:48:05**
 
 ## Newspaper Stats
 
-*Scraped **10,857** Articles*
+*Scraped **10,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,114 @@ bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 562
-dailyftlk | 572
+dailyftlk | 576
 islandlk | 579
 adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,325
 virakesarilk | 1,458
-dailymirrorlk | 1,654
+dailymirrorlk | 1,657
 adaderanasinhalalk | 1,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,856 (100.0%) of 10,857 articles have been extended.
+10,857 (99.9%) of 10,864 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-05 (Tuesday)
+
+### Gaza war, Red Sea crisis and sea of issues for merchants
+
+*2024-03-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gaza-war-Red-Sea-crisis-and-sea-of-issues-for-merchants/172-278222) · `en`
+
+Since the Houthis insist that they will not cease attacking ships in the Red Sea unless a ceasefire is enforced in Gaza, the Red Sea crisis will end only if there is a ceasefire in Gaza.
+
+The Red Sea crisis, which is having a great impact on international trade, is unlikely to end anytime soon despite the US-led naval and air forces’ hitting Houthi targets in Yemen.
+
+Since the Houthis insist that they will not cease attacking ships in the Red Sea unless a ceasefire is enforced in Gaza, the Red Sea crisis will end only if there is a ceasefire in Gaza. And that appears to be a far cry.
+
+Neither the Israelis nor Hamas is willing to give in. Israel will not stop its brutal offensive until Hamas releases the 100 hostages it still holds, and Hamas will not release them so long as there is no ceasefire in Gaza.
+
+...
+
+[Data](articles/d446d6b1.json)
+
+---
+
+### “Time for SJB to put itself out of disarray” - MP Dr. Kavinda Jayawardhana
+
+*2024-03-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Time-for-SJB-to-put-itself-out-of-disarray-MP-Dr-Kavinda-Jayawardhana/231-278220) · `en`
+
+There are disputes within the party, but we have to resolve these issues as soon as possible
+
+We have successfully established bala mandalas in Kegalle and Ratnapura
+
+Myself, MPs Hector Appuhamy and Nisroshan Perera were lobbying for justice for the Easter Sunday bomb victims
+
+The Catholic vote had gone in favour of the UNP in the past. however SJB had captured a great portion of these votes in 2020
+
+The Government promised to bring in Scotland Yard and carry out an international probe, but it has not kept its promise
+
+It has reached a state where MPs in the Samagi Jana Balawgaya (SJB) have begun to admit that there are divisions within the party. One of the MPs who accept that there are disputes in the party is MP for Gampaha District Dr. Kavinda Jayawardhana. In an interview with Daily Mirror, the MP called for unity within the party. He stated that unity is of paramount importance when facing challenges posed by other parties during upcoming elections.
+
+...
+
+[Data](articles/e016171c.json)
+
+---
+
+### Public sector lethargy and employee rights
+
+*2024-03-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Public-sector-lethargy-and-employee-rights/172-278221) · `en`
+
+In January 2016, in a rare show of accountability, the General Secretary of the Government and Provincial Council Public Service Trade Union Federation, Ajith. K. Thilakarathne had taken up an issue of time squandered by public sector employees with the then President Maithripala Sirisena and Prime Minister Ranil Wickremesinghe. No trade union leader had dared before to complain against his own members.
+
+In a letter addressed to both the leaders, Thilakarathne had pointed out that 60 percent of the 1.5 million public servants (both under the central government and provincial councils) were engaged in browsing the Internet, Face Book and other entertainment sites using the office computers and their own smart phones for over two hours of their daily eight-hour duty.
+
+...
+
+[Data](articles/f8885b47.json)
+
+---
+
 ### 2024-03-04 (Monday)
+
+### Curiosity never killed the cat in a culture of ‘question’ and ‘challenge’
+
+*2024-03-04 23:40:14* · [`dailyftlk`](https://www.ft.lk/columns/Curiosity-never-killed-the-cat-in-a-culture-of-question-and-challenge/4-759159) · `en`
+
+Exemplary, and effective leadership is grounded, amongst others, in an insatiable desire to do things differently
+
+Whilst acknowledging the importance of policies, procedures, and processes in maintaining discipline and order in an organisation, I also believe that it must have, parallelly, a deliberately structured platform, vehicle, or mechanism to arouse the curiosity, harness new ideas and ignite the innovation DNA of its leaders and employees. A haven for those individuals who, routinely, question existing norms and push for incremental improvement and innovative solutions. History shows that organisations have benefitted from these challengers
+
+We have all had the experience of a dreary boss who, with his/her stifling, and controlling behaviour, routinely shot down our, and our team’s, progressive ideas in an environment where all that mattered to the boss was to get the job done by the stipulated timeline and in line with the prevailing rules and procedure.
+
+...
+
+[Data](articles/67ed8dbe.json)
+
+---
+
+### Hayleys Aventura becomes official service partner for world’s leading water pump manufacturer Grundfos
+
+*2024-03-04 23:36:53* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Aventura-becomes-official-service-partner-for-world-s-leading-water-pump-manufacturer-Grundfos/34-759158) · `en`
+
+Hayleys Aventura has become Sri Lanka’s official service partner (SP) for Grundfos, the globally renowned Danish manufacturer of water pumps.
+
+The SP uniquely positions Hayleys Aventura to provide unparalleled after-sales care and expertise across the entire range of Grundfos products, through the integration of its software systems, access to a comprehensive spare parts inventory and a wealth of technical information.
+
+With tailored capability building programs provided by Grundfos, Hayleys Aventura’s staff are empowered with the requisite knowledge and skills to efficiently address and exceed customer requirements, solidifying their status as trusted experts in Grundfos product support in Sri Lanka.
+
+This partnership which commenced in 2014, will now further enhance Hayleys Aventura’s capability to deliver a stronger customer value proposition from end-to-end, including after-sales services.
+
+...
+
+[Data](articles/8de06c46.json)
+
+---
 
 ### The price of fuels from midnight today ...
 
@@ -55,6 +145,20 @@ Sri Lanka IOC and Sinopac fuel companies have announced that it will reduce the 
 [Data](articles/ef762bbf.json)
 
 [Extended Data](ext_articles/ef762bbf.ext.json)
+
+---
+
+### Policymakers and academics have long rejected the quantity theory of money
+
+*2024-03-04 23:04:42* · [`dailyftlk`](https://www.ft.lk/columns/Policymakers-and-academics-have-long-rejected-the-quantity-theory-of-money/4-759152) · `en`
+
+Many modern quantity theorists accept that central banks do not target and control the cash base, but rather set interest rates leaving the market to determine the quantity of cash put into the system. They argue, however, that in setting interest rates central banks can, and do, target the money stock with a view to controlling inflation. Critics of the modern quantity theory of money have long argued that the money stock depends on loans, i.e., when a commercial bank makes a loan they debit the account of the entity they are lending to, and when commercial banks need cash to meet reserve requirements the central bank has to accommodate this demand
+
+The modern quantity theory of money is basically an explanation of inflation (and the external balance) by an increase in the quantity of money held by the public, the ‘money stock’ that is due to an increase in the cash injected into the system by the central bank of a country (an increase in the ‘cash base’ of the system).
+
+...
+
+[Data](articles/74aec73f.json)
 
 ---
 
@@ -87,6 +191,20 @@ After he lost the match, Satheera Samarawickrama and team captain Sarit Asalanka
 [Data](articles/9de9cdf5.json)
 
 [Extended Data](ext_articles/9de9cdf5.ext.json)
+
+---
+
+### Tax reform roadblocks: Leakages and systematic issues
+
+*2024-03-04 22:55:17* · [`dailyftlk`](https://www.ft.lk/columns/Tax-reform-roadblocks-Leakages-and-systematic-issues/4-759148) · `en`
+
+Reforms lack the necessary legitimacy to garner widespread support and effectively address the challenges at hand
+
+When unveiling the tax reform leakages and systematic issues, it is evident that the journey towards meaningful tax reform is far from over. When leakages and systematic issues persist within a taxation system, the legitimacy of any proposed reforms becomes questionable. Such deficiencies undermine the fundamental principles of fairness, transparency, and equity that should underscore any tax system. When taxpayers witness leakages and systematic flaws, they lose faith in the system’s ability to uphold their interests fairly
+
+...
+
+[Data](articles/cd2802e4.json)
 
 ---
 
@@ -715,6 +833,8 @@ United Nations Office for the Coordination of Humanitarian Affairs (OCHA), repor
 ...
 
 [Data](articles/a84b101a.json)
+
+[Extended Data](ext_articles/a84b101a.ext.json)
 
 ---
 
@@ -2171,143 +2291,5 @@ not. not. The ruling party tells us that we are kept in a violation of the Speak
 [Data](articles/9e614a6f.json)
 
 [Extended Data](ext_articles/9e614a6f.ext.json)
-
----
-
-### Two arrested with smuggled gold at BIA
-
-*2024-03-04 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97722/two-arrested-with-smuggled-gold-at-bia-) · `en`
-
-Sri Lanka Customs has apprehended two suspects including an employee of the Airport and Aviation Services (Sri Lanka) for attempting to smuggle 09 kilograms of undeclared gold into the country near the departure terminal of the Bandaranaike International Airport (BIA) this morning (04).
-
-The stock of seized gold consisted of gold cards with the appearance of credit cards, gold in gel form and also gold jewellery, Sri Lanka Customs said.
-
-The gold taken into custody, weighing around 09 kilograms in total, is estimated to be worth nearly Rs. 200 million, according to the Sri Lanka Customs.
-
-The Narcotics Control Unit of Sri Lanka Customs is conducting further investigations regarding the suspects.
-
-◼️
-
-[Data](articles/3998e4e1.json)
-
-[Extended Data](ext_articles/3998e4e1.ext.json)
-
----
-
-### Two kilos of gold arrested at airport
-
-*2024-03-04 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194111) · `si`
-
-Two passengers from India arrested at Katunayake Airport with 9 kg of gold.
-
-🟩
-
-Customs authorities say that two passengers from India have been arrested along with gold.
-
-Customs officers at the Katunayake Airport said that they had found 9 kilograms of gold in their possession.
-
-◼️
-
-[Data](articles/faf48477.json)
-
-[Extended Data](ext_articles/faf48477.ext.json)
-
----
-
-### Governor of Uva says his son will surrender
-
-*2024-03-04 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governor-of-Uva-says-his-son-will-surrender/108-278206) · `en`
-
-Colombo, March 04 (Daily Mirror) -  Governor of the Uva Province A.J.M. Muzammil today said his son Mohammad Isham Jamaldeen will not evade arrest but will present himself before police tomorrow.
-
-“My son is not absconding. He has informed the police that he will appear before them on or before Tuesday. The police have accepted that the story that he is absconding is far from the truth,” Muzammil told the Daily Mirror.
-
-Police launched an investigation to arrest Mohammad Isham Jamaldeen over an alleged assault on a young woman at an apartment complex in Havelock Town.
-
-Police said Jamaldeen had assaulted the woman during the early hours of Saturday, and she was admitted with injuries to a private hospital.
-
-◼️
-
-[Data](articles/1154b713.json)
-
-[Extended Data](ext_articles/1154b713.ext.json)
-
----
-
-### Pigeon Island reopens
-
-*2024-03-04 13:25:50* · [`adalk`](https://www.ada.lk/breaking_news/පරෙවි-දූපත-යළි-විවෘත-කරයි/11-408412) · `si`
-
-Pigeon Island in Nilaveli reopened to tourists after a closure for the sacred season.
-
-🟩
-
-The Nilaveli Pigeon Pigeon Islandship Islands was officially opened for local and foreign tourists yesterday (3).
-
-The islands belonging to the department's islands were closed for a few months and opened the wild forest after completing the sacred season.
-
-◼️
-
-[Data](articles/752cc8e2.json)
-
-[Extended Data](ext_articles/752cc8e2.ext.json)
-
----
-
-### Globally, a rightward political shift is visible
-
-*2024-03-04 13:24:00* · [`islandlk`](http://island.lk/globally-a-rightward-political-shift-is-visible/) · `en`
-
-The global political scene was very left-inclined from about the mid-1960s to say 10 or 15 years ago. The sweeping trend to social democracy in post-war Europe, a surge to the left throughout Asia (Chinese Revolution, defeat of US Imperialism in Vietnam, post-war USSR, our own JVP) and a little later in Africa (Patrice Lumumba, revolution in Mozambique, Nelson Mandela etc), signposted what may be loosely called a period of global shift to the left. That ended about 10 years ago. The last spurt was perhaps Obama’s re-election. The reverse trend became prominent in the US with Trump and internationally a dynamic that began with the collapse of the Soviet Union in December 1991.
-
-...
-
-[Data](articles/9cc05308.json)
-
-[Extended Data](ext_articles/9cc05308.ext.json)
-
----
-
-### THAT ABSTENTION VOTE
-
-*2024-03-04 13:23:00* · [`islandlk`](http://island.lk/that-abstention-vote/) · `en`
-
-It has been reported that at a meeting of the Constitutional Council held a few days ago, the nomination made by President Wickremesinghe of Deshabandu Tennekoon for appointment to the office of Inspector-General of Police was approved, and Tennekoon was accordingly appointed. However, it has also been reported that the Leader of the Opposition, Sajith Premadasa, has claimed that the appointment was made in violation of the Constitution and without the necessary approval of the Constitutional Council. The Speaker, on the other hand, has asserted that, at the meeting which he chaired, the number of votes required for approval of the nomination, namely five, was obtained.
-
-...
-
-[Data](articles/c5e30827.json)
-
-[Extended Data](ext_articles/c5e30827.ext.json)
-
----
-
-### Instant ceasefire in Gaza - Australian Malaysian leaders jointly request
-
-*2024-03-04 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177865) · `ta`
-
-Australian and Malaysian leaders jointly request an immediate ceasefire in Gaza, aiming to resolve Israel-Hamas conflicts. They also call for the release of all hostages. Malaysian Prime Minister Anwar Ibrahim emphasizes the need for a ceasefire, not addressing the controversial Israel-Palestine issues. The leaders express concern over the humanitarian situation in Gaza, especially since October 7th, without condemning the attack on Israel. Efforts are underway to publish a report on Gaza, despite differing positions from Malaysia and Hamas.
-
-🟩
-
-The Australian Malaysian leaders have called for an immediate ceasefire, making efforts to overcome the regional tensions that has created due to Israel Hamas conflicts.
-
-They have also requested that all the hostages in Gaza be released.
-
-Malaysian Prime Minister Anwar Ibrahim has said that I am not talking about the controversial issues between Israel and Palestine, but I want to talk about the immediate ceasefire.
-
-The comment was made when the two met during the Special ASEAN Summit in Melbourne.
-
-At the end of the conference, efforts are being made to publish a report on Gaza, although Malaysia and Hamas have emphasized a fierce position.
-
-Meanwhile, Australian Malaysian leaders have expressed concern over the worst humanitarian situation in Gaza after the seventh of October.
-
-They did not condemn the attack on Israel and called for an immediate ceasefire.
-
-◼️
-
-[Data](articles/51f41d90.json)
-
-[Extended Data](ext_articles/51f41d90.ext.json)
 
 ---

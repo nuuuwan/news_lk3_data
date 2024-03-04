@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 23:33:35**
+As of **2024-03-04 23:52:01**
 
 ## Newspaper Stats
 
-*Scraped **10,855** Articles*
+*Scraped **10,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 572
 islandlk | 579
 adalk | 923
 adaderanalk | 1,323
-tamilmirrorlk | 1,324
+tamilmirrorlk | 1,325
 virakesarilk | 1,458
 dailymirrorlk | 1,654
 adaderanasinhalalk | 1,690
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,846 (99.9%) of 10,855 articles have been extended.
+10,854 (100.0%) of 10,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### இன்று நள்ளிரவு முதல் எரிபொருட்களின் விலையில் மாற்றம்...
+
+*2024-03-04 23:25:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-எரிபொருட்களின்-விலையில்-மாற்றம்/175-334207) · `ta`
+
+இன்று நள்ளிரவு முதல் அமுலாகும் வகையில் எரிபொருட்களின் விலைகளில் திருத்தம் மேற்கொள்ளப்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+அதன்படி, ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 9 ரூபாவால் குறைக்கப்பட்டுள்ளது. புதிய விலை 447 ரூபாய்.
+
+சுப்பர் டீசல் லீற்றர் ஒன்றின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது.புதிய விலை 458 ரூபாய்.
+
+அத்துடன், ஒக்டேன் 92 ரக பெற்றோலின் விலை மற்றும் ஒட்டோ டீசலின் விலையில் மாற்றம் இல்லை எனவும் அறிவிக்கப்பட்டுள்ளது.
+
+இதேலேளை,  லங்கா ஐ.ஓ.சி மற்றும் சினோபெக் எரிபொருள் நிறுவனங்களும் சிபெட்கோ எரிபொருள் நிறுவனத்தின் விலைக்கு ஏற்ப எரிபொருள் விலையை குறைக்கவுள்ளதாக அறிவித்துள்ளன. R
+
+◼️
+
+[Data](articles/ef762bbf.json)
+
+---
 
 ### Sri Lanka won Bangladesh by 3 runs
 
@@ -784,6 +804,8 @@ For those using between 91-180 units, the per unit price has been reduced by 24 
 
 [Data](articles/ad99db4d.json)
 
+[Extended Data](ext_articles/ad99db4d.ext.json)
+
 ---
 
 ### The electricity tariffs down:
@@ -840,6 +862,8 @@ Following Rajapaksa’s return, said Nishantha, the SLPP’s executive committee
 
 [Data](articles/318fea64.json)
 
+[Extended Data](ext_articles/318fea64.ext.json)
+
 ---
 
 ### Abolishing The Executive Presidency – Is Time Running Out?
@@ -851,6 +875,8 @@ Earlier this week, the President’s Media Division issued a statement to the ef
 ...
 
 [Data](articles/b4859c0a.json)
+
+[Extended Data](ext_articles/b4859c0a.ext.json)
 
 ---
 
@@ -895,6 +921,8 @@ A bond maturing on 01.07.2032 closed stable at 12.50/13.00 percent. (Colombo/Mar
 ◼️
 
 [Data](articles/436ee3b2.json)
+
+[Extended Data](ext_articles/436ee3b2.ext.json)
 
 ---
 
@@ -977,6 +1005,8 @@ Speaking to reporters on Monday, Peiris said NCMs have been tabled against four 
 ...
 
 [Data](articles/7dbac530.json)
+
+[Extended Data](ext_articles/7dbac530.ext.json)
 
 ---
 
@@ -1230,6 +1260,8 @@ India has already given an advance aid of 450 million Indian rupees to the Sri L
 
 [Data](articles/a00cc2cb.json)
 
+[Extended Data](ext_articles/a00cc2cb.ext.json)
+
 ---
 
 ### Parliament can remove the executive power of the president: Parliamentary powers cannot be canceled by Parliament - President
@@ -1317,6 +1349,8 @@ Expolanka Holdings Plc announced a trading suspension following Friday’s annou
 ...
 
 [Data](articles/03b537b5.json)
+
+[Extended Data](ext_articles/03b537b5.ext.json)
 
 ---
 
@@ -1481,6 +1515,8 @@ ECONOMYNEXT – Sri Lanka’s new economic programs necessitate the introduction
 ...
 
 [Data](articles/2a7747f5.json)
+
+[Extended Data](ext_articles/2a7747f5.ext.json)
 
 ---
 
@@ -2273,37 +2309,5 @@ The 31-year-old Slapicuit resident has commated that he is a brother of organize
 [Data](articles/eeca480e.json)
 
 [Extended Data](ext_articles/eeca480e.ext.json)
-
----
-
-### Sri Lanka will become a place of attracting tourists
-
-*2024-03-04 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177846) · `ta`
-
-Sri Lanka's tourism boom continues, with 218,350 foreign tourists in February, a 102.8% increase from 2023. Despite missing February's target, the total arrivals from January 1 to February 29 reached 426,603, surpassing 10,000 for the first time post-Covid. The top destinations are Russia (15%) and India (14%), with others including Germany, China, France, Poland, Australia, and the US.
-
-🟩
-
-The number of tourists visiting the country has continued for the third month in February.
-
-This has established itself as a place where Sri Lanka has attracted tourists.
-
-The temporary data published by the Sri Lanka Tourism Development Authority (SLTDA) shows that 218,350 foreign tourists arrived in February.
-
-Compared to this period of 2023, the annual tourist arrivals increased by 102.8 percent.
-
-Accordingly, from January 1 to February 29, a total of 426 and 603 tourists have arrived.
-
-Meanwhile, in December 2023, 210, 352 tourists visited. At the same time, in January 208, 253 tourists visited.
-
-In this case, Tourism Minister Harin Fernando X called on Sri Lanka Tourism in 2024 as "two wonderful months".
-
-However, the target set in February has been missed. The number of arrivals was low in both the lower situation expectations of 220,091, and the top environment of 238, 614.
-
-...
-
-[Data](articles/28022f9c.json)
-
-[Extended Data](ext_articles/28022f9c.ext.json)
 
 ---

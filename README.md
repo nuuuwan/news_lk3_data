@@ -1,36 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 13:15:14**
+As of **2024-03-04 14:15:42**
 
 ## Newspaper Stats
 
-*Scraped **10,736** Articles*
+*Scraped **10,746** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 104
 bbccomsinhala | 128
-dbsjeyarajcom | 172
+dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 551
 dailyftlk | 572
 islandlk | 578
-adalk | 906
-adaderanalk | 1,312
-tamilmirrorlk | 1,312
+adalk | 908
+adaderanalk | 1,313
+tamilmirrorlk | 1,317
 virakesarilk | 1,435
-dailymirrorlk | 1,635
+dailymirrorlk | 1,636
 adaderanasinhalalk | 1,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,733 (100.0%) of 10,736 articles have been extended.
+10,736 (99.9%) of 10,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Two arrested with smuggled gold at BIA
+
+*2024-03-04 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97722/two-arrested-with-smuggled-gold-at-bia-) · `en`
+
+Sri Lanka Customs has apprehended two passengers who arrived in Sri Lanka with 09 kilograms of undeclared gold at the Bandaranaike International Airport (BIA) today (04).
+
+◼️
+
+[Data](articles/3998e4e1.json)
+
+---
+
+### අද හතරක් තෙමෙයි 20ක් වේලෙයි
+
+*2024-03-04 12:37:24* · [`adalk`](https://www.ada.lk/breaking_news/අද-හතරක්-තෙමෙයි-20ක්-වේලෙයි/11-408409) · `si`
+
+මේ දිනවල පවතින දැඩි සූර්ය රශ්මිය තවදුරටත් දැඩිව පවතින බවත් දිස්ත්‍රික්ක 4කට පමණක් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාළගුණ විද්‍යා දෙපාර්ථමේන්තුව පෙන්වා දෙයි.
+
+වැසි ඇතිවියහැකි දිස්ත්‍රික්ක ලෙස කළුතර, රත්නපුර, ගාල්ල සහ මාතර බව දක්වා ඇත. දිවයිනේ සෙසු දිස්ත්‍රික්ක 20හිම ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතී.  එයින්ද දිස්ත්‍රික්ක 12ක  ඇතැම් ස්ථානවල අද (04දා) මිනිස් සිරුරට දැනෙන උණුසුම්  තත්වය අවධානය යොමු කළ යුතු මට්ටමේ පවතින බව කාලගුණ විද්‍යා දෙපාර්තමෙන්තුවේ ස්වාභාවික විපත් පිළිබඳ අනතුරු ඇඟවීමේ මධ්‍යස්ථානය සඳහන් කරයි. පුත්තලම, කුරුනෑගල, ගම්පහ, කොළඹ, හම්බන්තොට  මන්නාරම, අනුරාධපුර,කැගල්ල, කළුතර, රත්නපුර, ගාල්ල, මාතර, දිස්ත්‍රික්වල මෙම තත්වය පැවැතිය හැක.
+
+...
+
+[Data](articles/237645fc.json)
+
+---
 
 ### Shooting in Hanwella leaves one dead
 
@@ -41,6 +67,28 @@ Colombo, March 04 (Daily Mirror)  - A shooting incident was reported in the Nir
 ◼️
 
 [Data](articles/06c936ff.json)
+
+[Extended Data](ext_articles/06c936ff.ext.json)
+
+---
+
+### Gangster Manna Romesh's brother killed in shooting at Hanwella
+
+*2024-03-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gangster-Manna-Romesh-s-brother-killed-in-shooting-at-Hanwella/108-278205) · `en`
+
+Colombo, March 04 (Daily Mirror)  -  A 31-year-old man was killed and another injured following a shooting at Niripola in Hanwella this morning.
+
+Police said the deceased was identified as the brother of underworld gangster 'Manna Romesh'.
+
+The shooting had occurred when the victims were travelling in a cab in the Niripola area.
+
+The injured were admitted to the Awissawella Hospital where one of the victims succumbed to his injuries.
+
+The deceased is a resident of Niripola and the Hanwella Police are investigating into the incident.
+
+◼️
+
+[Data](articles/74e2274b.json)
 
 ---
 
@@ -55,6 +103,26 @@ The ministry met with representatives from companies including Ola Electric, Hin
 ...
 
 [Data](articles/402ffe03.json)
+
+[Extended Data](ext_articles/402ffe03.ext.json)
+
+---
+
+### හදපාන්විල විල්ලූවෙන් අක්කර 100ක් ප්‍රභූන් 4කට දීමේ සූදානමක්?
+
+*2024-03-04 12:19:38* · [`adalk`](https://www.ada.lk/breaking_news/හදපාන්විල-විල්ලූවෙන්-අක්කර-100ක්-ප්‍රභූන්-4කට-දීමේ-සූදානමක්-/11-408408) · `si`
+
+ආසියාවේ විශාලතම විල්ලු පද්ධතිය ලෙස සැලකෙන පොළොන්නරුව  හදපාන්විල විල්ලූ ආශ්‍රිතව අක්කර සීයකින් යුත් භූමි ප්‍රමාණයක්, ප්‍රභූන් සිව් දෙනකුට ලබාදීමට සැලසුම් සකස් කරමින් සිටින බව ජල ගැලීම් ජාතික වනෝද්‍යානය සුරැකීමේ සංවිධානය සඳහන් කරයි.
+
+මීට පෙර අවස්ථා තුනකදී එම ප්‍රදේශයේ අක්කර සියයකින් යුතු එම භූමිය දේශපාලඥයින් කීපදෙනෙකුට සහ යුද හමුදාවේ උසස් නිලධාරීන් කීපදෙනෙකුට ලබාදීමට සැලසුම් කර තිබියදී පරිසර සංවිධාන සහ ජනතා විරෝධය හමුවේ එය නතර කළ බව
+
+ජල ගැලීම් නිම්න ජාතික වනෝද්‍යයන සුරැකීමේ සංවිධානයේ සභාපති ටී. තීපන් මහතා සඳහන් කළේය.
+
+2019 වර්ෂයේ ද මෙම ඉඩම් මංකොල්ලයට දේශපාලනඥයන් කිහිපදෙනෙකු සහ යුද හමුදාවේ උසස් නිලධාරීන් ක්‍රියාකළ අතර එවකට, හිටපු  වනජීවී අධ්‍යක්ෂ ජෙනරාල් වරයා මෙන්ම පොළොන්නරු කලාප භාර සිටි වනජීවී සහකාර අධ්‍යක්ෂ, ඩබ්ලිව්.ඩී.එම්.ජේ.වික්‍රමසිංහ මහතා එහි ඇති වටිනාකම පෙන්වා දීමෙන් පසු භූමි ප්‍රමාණය රැකගැනීමට හැකියාව ලැබුණි.
+
+...
+
+[Data](articles/f9fff4ab.json)
 
 ---
 
@@ -73,6 +141,8 @@ This matter is to be taken up for objections at 1.30 pm today.
 ◼️
 
 [Data](articles/2e1cb391.json)
+
+[Extended Data](ext_articles/2e1cb391.ext.json)
 
 ---
 
@@ -100,13 +170,27 @@ The arrested person will be produced before Monaragala Magistrate’s Court toda
 
 *2024-03-04 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97719/one-killed-in-shooting-in-hanwella) · `en`
 
-A person has been killed in a shooting incident that took place in the Niripola area of Hanwella a short while ago, the police said.
+A person has been killed while another was critically injured in a shooting incident that took place in the Niripola area of Hanwella a short while ago, the police said.
+
+The unidentified gunmen had opened fire at a double-cab in which the brother of notorious underworld criminal figure “Manna Roshan” and one of his close associates were travelling in.
+
+The two individuals who sustained critical gunshot injuries had been rushed to hospital where one of them was pronounced dead upon admission to the hospital.
 
 ◼️
 
 [Data](articles/2dbb54bb.json)
 
 [Extended Data](ext_articles/2dbb54bb.ext.json)
+
+---
+
+### மற்றுமொரு துப்பாக்கிச்சூடு
+
+*2024-03-04 12:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்சூடு/175-334175) · `ta`
+
+◼️
+
+[Data](articles/2954b1fe.json)
 
 ---
 
@@ -250,6 +334,26 @@ According to the Forbes magazine, Taylor is among the world's most powerful wome
 
 ---
 
+### ”தேங்காய் விலையுயர்வால் கடுமையான பாதிப்பு ஏற்படும்”
+
+*2024-03-04 11:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலையுயர்வால்-கடுமையான-பாதிப்பு-ஏற்படும்/175-334173) · `ta`
+
+தேங்காய்ப் பாலில் பெரும்பாலான கறிகள் தயாரிக்கப்படுவதால், தேங்காய் விலை உயர்வானது எதிர்காலத்தில் உணவுப்பொதி மற்றும் கறி உணவுகளில் கடுமையான பாதிப்பை ஏற்படுத்தும் என உணவுத் துறை தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+
+60 முதல் 80 வரையில் இருந்த தேங்காயின் வழமையான விலை இரண்டு மடங்காக அதிகரித்துள்ளதாக அகில இலங்கை சிற்றுண்டிச்சாலை உரிமையாளர்கள் சங்கத்தின் தலைவர் ருக்ஷான் ஹர்ஷன நேற்று ஊடகங்களுக்கு தெரிவித்தார். ஒரு தேங்காய் தற்போது ரூ.120 முதல் 150 வரை விற்பனை செய்யப்படுகிறது.
+
+அதிகரித்துள்ள தேங்காய் விலையின் கீழ் சோறு மற்றும் கறி சாப்பாடு பொதிகளை தயார் செய்ய முடியாமல் சிற்றுண்டி மற்றும் உணவக உரிமையாளர்கள் மிகுந்த சிரமத்திற்கு உள்ளாகி வருவதாகவும், இதனால் உணவுப் பொதிகளை அதிக விலைக்கு விற்க வேண்டிய நிச்சயமற்ற சூழ்நிலையில் இருப்பதாகவும் அவர் கூறினார்.
+
+அரிசி, கோழிக்கறி, முட்டை, எரிவாயு உள்ளிட்ட அனைத்தும் கணிசமாக உயர்ந்துள்ள நிலையில் தேங்காய்களின் எதிர்பாராத விலை உயர்வு ஏற்பட்டுள்ளது.
+
+தேங்காய்களின் திடீர் அதிகரிப்பு காரணமாக எதிர்வரும் நாட்களில் தேங்காய் எண்ணெயின் விலையும் உயரும் என ஹர்ஷன எச்சரித்துள்ளார்.
+
+◼️
+
+[Data](articles/0018f16d.json)
+
+---
+
 ### Live mandraid near the Israelite girl who visited Sri Lanka
 
 *2024-03-04 11:21:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-යන්න-ගිය-ඊශ්‍රායෙල්-තරුණිය-ළඟ-සජීවි-පතොරමක්/11-408406) · `si`
@@ -275,6 +379,24 @@ The OIC of the Katunayake Airport Police is due to be produced before the Negomb
 [Data](articles/3e8a4820.json)
 
 [Extended Data](ext_articles/3e8a4820.ext.json)
+
+---
+
+### ”அரச வருவாயை அதிகரிக்க எம்மிடம் திட்டங்கள் உள்ளன”
+
+*2024-03-04 11:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வருவாயை-அதிகரிக்க-எம்மிடம்-திட்டங்கள்-உள்ளன/175-334172) · `ta`
+
+அரச வருவாயை அதிகரிப்பதற்குத் திட்டமிட்டுள்ளதாகக் கூறிய NPP தலைவர் அனுரகுமார திஸாநாயக்க, அரச வருமானத்தை அதிகரிப்பதற்கான வழிகள் குறித்து உள்நாட்டு இறைவரித் திணைக்களத்துடன் இன்று கலந்துரையாடியதாக தெரிவித்தார்.
+
+இரத்தினபுரி மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றிய அவர், சுங்க திணைக்களம் மற்றும் மதுவரித் திணைக்களம் ஊடாகவும் அரச வருமானத்தை அதிகரிக்க முடியும் என தெரிவித்தார்.
+
+ஐஆர்டி ஊழியர்களின் திறமையை அதிகரித்து, தொழில்நுட்பத்தை மேம்படுத்தினால் உள்நாட்டு இறைவரித் திணைக்களத்தின் மூலம் கிடைக்கும் வருவாயை இரட்டிப்பாக்க முடியும் என்றார்.
+
+"நாங்கள் பணத்தைப் பெறமுடியும். உள்நாட்டு இறைவரித் திணைக்களத்துடன் கலந்துரையாடியுள்ளோம். திணைக்களத்தில் பயன்படுத்தப்படும் சட்டங்கள், பணியாளர்கள் மற்றும் தொழில்நுட்பத்தில் சில மாற்றங்கள் செய்யப்பட உள்ளன.
+
+...
+
+[Data](articles/4949bbfb.json)
 
 ---
 
@@ -338,6 +460,20 @@ CEB revenues rose 55 percent to 156 billion rupees in the December quarter, cost
 
 ---
 
+### நீதிமன்றில் கமரா மூலம் இரகசிய வாக்குமூலம் வழங்கினார் சமன்
+
+*2024-03-04 11:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-கமரா-மூலம்-இரகசிய-வாக்குமூலம்-வழங்கினார்-சமன்/175-334169) · `ta`
+
+தரமற்ற மனித இம்யூனோகுளோபுலின் ஊசியை இறக்குமதி செய்தமை தொடர்பில் கைது செய்யப்பட்ட மேலதிக சுகாதார செயலாளர் சமன் ரத்நாயக்க, மாளிகாகந்த நீதவான் நீதிமன்றில் கமரா மூலம் இரகசிய வாக்குமூலமொன்றை சமர்ப்பித்துள்ளார்.
+
+தரமற்ற மனித இம்யூனோகுளோபுலின் ஊசியை இறக்குமதி செய்த வழக்கில் மார்ச் 14ஆம் திகதி வரை அவர் தடுப்புகாவலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/cdbb93ac.json)
+
+---
+
 ### Ravaya Thera posts hearing to politicians
 
 *2024-03-04 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194106) · `si`
@@ -359,6 +495,24 @@ Parliamentarian Professor Ranjith Bandara responded to this event.
 [Data](articles/ef36ed25.json)
 
 [Extended Data](ext_articles/ef36ed25.ext.json)
+
+---
+
+### இலங்கையில் நீண்ட காலம் தங்கியிருப்பவர்களுக்கு விசேட அறிவித்தல்
+
+*2024-03-04 10:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-நீண்ட-காலம்-தங்கியிருப்பவர்களுக்கு-விசேட-அறிவித்தல்/175-334168) · `ta`
+
+பிப்ரவரி 2022 முதல் இலங்கையில் இருக்கும் ரஷ்யர்கள் மற்றும் உக்ரேனியர்கள் விசாவிற்கு விண்ணப்பிக்க வேண்டும் அல்லது நாட்டை விட்டு வெளியேற வேண்டும் என்று பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் நேற்று தெரிவித்தார்.
+
+அவர்களுக்கு வழங்கப்பட்டுள்ள இலவச விசா வசதி நீடிக்கப்பட மாட்டாது எனவும், புதிய வீசாக்களுக்கு விண்ணப்பிப்பதன் மூலம் குடிவரவு விதிமுறைகளுக்கு இணங்க வேண்டும் எனவும் அமைச்சர் டெய்லி மிரருக்கு தெரிவித்தார்.
+
+இதேவேளை, சுற்றுலா அபிவிருத்தி அதிகார சபையின் கூற்றுப்படி, 2022 பெப்ரவரி மாதத்திலிருந்து 300 முதல் 400 ரஷ்யர்கள் மற்றும் உக்ரேனியர்கள் இலங்கையில் தங்கியுள்ளனர்.
+
+கடந்த வாரம், குடிவரவுத் திணைக்களம் சுற்றுலா அமைச்சின் செயலாளருக்கு கடிதம் ஒன்றை வெளியிட்டு, இலங்கையில் வசிக்கும் நீண்டகால உக்ரேனிய மற்றும் ரஷ்ய சுற்றுலாப் பயணிகளை மார்ச் 7 ஆம் திகதிக்குள் வெளியேறுமாறு அறிவிக்குமாறு கோரியிருந்தது.
+
+...
+
+[Data](articles/9ec144f5.json)
 
 ---
 
@@ -1658,6 +1812,20 @@ Subsequently, Steve Arshan Joseph confirmed the team's victory with 63 runs and 
 
 ---
 
+### Ronnie De Mel the Socialist MP  who  Ushered in  a Capitalist Economy as Finance Minister.
+
+*2024-03-04 00:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83715) · `en`
+
+The  ascension of Junius Richard Jayewardene to the premier seat of poitical power in 1977  paved the way for a drastic transformation of Sri Lanka’s politico-economic landscape and environment. J.R. Jayewardene known popularly as “JR” ushered in political, economic and electoral changes that utterly changed Sri Lanka.  In the words of William Butler Yeats “All changed, changed utterly”
+
+The advent of JR as Prime Minister in 1977 and as the first executive president in 1978 saw great changes in three vital spheres. Firstly the economy was liberalised and free enterprise encouraged. Secondly the Westminster model of Parliamentary governance introduced by the British was turned into an executive presidency. Parliament was de-valued. Thirdly the prevailing “first past the post winner” electoral practice was replaced with the proportional representation scheme.
+
+...
+
+[Data](articles/670bb669.json)
+
+---
+
 ### Serendib Flour Mills celebrates 15-year journey of purposefully nourishing the nation
 
 *2024-03-04 00:57:27* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-celebrates-15-year-journey-of-purposefully-nourishing-the-nation/34-759131) · `en`
@@ -1782,7 +1950,7 @@ ACOB’s membership represents the entirety of Sri Lanka’s banking landscape, 
 
 *2024-03-03 23:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-attends-Battle-of-the-Maroons-encounter/110-278145) · `en`
 
-President Ranil Wickremesinghe graced the 94th 'Battle of the Maroons' cricket clash between Ananda and Nalanda Colleges, iconic Buddhist boys’ schools in Sri Lanka, at the SSC ground in Colombo today (03). Pix by Kushan Pathiraja
+President Ranil Wickremesinghe graced the 94th 'Battle of the Maroons' cricket clash between Ananda and Nalanda Colleges, iconic Buddhist boys’ schools in Sri Lanka, at the SSC ground in Colombo today (03).Ananda College Principal Lal Dissanayake is also in the picture. Pix by Kushan Pathiraja
 
 ◼️
 
@@ -1955,223 +2123,5 @@ The mother, who was waiting for her son to be alive, cried over the lifeless bod
 [Data](articles/bf934bb3.json)
 
 [Extended Data](ext_articles/bf934bb3.ext.json)
-
----
-
-### St. Peter’s emerge Zahira Centenary 7s Champions
-
-*2024-03-03 22:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/St-Peters-emerge-Zahira-Centenary-7s-Champions/108-278142) · `en`
-
-Reigning schools rugby league and knockout champions St. Peter’s sounded a warning when they got their 2024 schools rugby season off to an electrifying start as they emerged Cup champions of the Zahira Centenary Rugby 7s tournament after recording a comfortable 17-5 win over Isipathana in the final played at the Racecourse Ground in Colombo today.
-
-The final turned out to be a tense battle between two of the best rugby-playing schools in the island. The Peterites took a comfortable 10-0 lead at the breather whilst accumulating their points through a goal and two tries to the solitary try scored by Isipathana.
-
-In fact, the Peterities recorded a 19-5 win in the league encounter played on day one and succeeded in maintaining their winning trend.
-
-For the Peterites, Vishenka Silva was in top form as he went over for two tries, with the other try being scored by Pasindu Bandara, with Rahul Peter making one conversion. Mohamed Zumir scored the solitary try for Isipathana.
-
-...
-
-[Data](articles/2e1de180.json)
-
-[Extended Data](ext_articles/2e1de180.ext.json)
-
----
-
-### President appoints political cabinet for upcoming elections?
-
-*2024-03-03 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97709/president-appoints-political-cabinet-for-upcoming-elections) · `en`
-
-President Ranil Wickremesinghe has appointed both a political Cabinet and a special committee, for the upcoming presidential election, sources told Ada Derana.
-
-Accordingly, a political Cabinet is believed to have been appointed by the Head of State for his presidential campaign for the upcoming election, while a special committee was also appointed to overlook and manage the planning process of the elections.
-
-According to political sources, Chief of Presidential Staff Sagala Rathnayaka and Parliamentarian Mahindananda Aluthgamage are also included in the political Cabinet, while the committee is said to comprise of Ministers Tiran Alles, Prasanna Ranatunga, Harin Fernando and Manusha Nanayakkara, along with MPs Nimal Lanza and Mahindananda Aluthgamage.
-
-The political Cabinet had reportedly met last Monday, while the committee is said to have met last Wednesday, and are scheduled to meet once a week, according to internal sources.
-
-◼️
-
-[Data](articles/07a2ce00.json)
-
-[Extended Data](ext_articles/07a2ce00.ext.json)
-
----
-
-### Allocation for President's foreign trips in the absence of money to reduce the price of goods - Sajith
-
-*2024-03-03 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177827) · `ta`
-
-Sajith Premadasa criticizes the President for foreign trips funded by Parliament, highlighting rising food prices and lack of domestic projects. He mentions the failure of Ranasinghe Premadasa's garment industry program and the inability to export electricity products. Premadasa calls for economic development to avoid bankruptcy, criticizing the government for shrinking the economy despite increased production.
-
-🟩
-
-Prices of milk tea, tea, snacks, smallpox, meals and masonry have increased. The price increases in the country for 24 hours and 365 days. Even though the price is rising and people's lives are degraded, the state has no answer. In this case, the President of the Opposition said that the President is receiving money in Parliament and making visits abroad.
-
-After Ranasinghe Premadasa's 200 garment industries program, no project has been introduced in domestic international internationally to the country's dollars.. The Opposition Leader said that even if 100 agreements were signed with the International Monetary Fund, the dollars would not be able to receive the dollars.
-
-We are unable to export electricity products by our country. Regardless of how much the government is hit, the government is always carrying the burden on the people and the rulers are carrying out inhumane life.
-
-...
-
-[Data](articles/8748d178.json)
-
-[Extended Data](ext_articles/8748d178.ext.json)
-
----
-
-### How’s Niroshan Dickwella Public Enemy No 1?
-
-*2024-03-03 21:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hows-Niroshan-Dickwella-Public-Enemy-No-1/108-278141) · `en`
-
-Colombo, March 3 (Daily Mirror) - Niroshan Dickwella was drafted into Sri Lanka T20 squad last week in place of Kusal Janith Perera who is claimed to be suffering from an illness and is unavailable for Bangladesh tour. Since then the chief selector Upul Tharanga has come under heavy criticism over the selection of the notorious wicket-keeper batsman.
-
-Tharanga has clearly given his reasons on picking the dashing left-handed opener over the likes of Shevon Daniel and Lasith Crosspulle who are short of runs in the domestic tournaments, yet the general public and media have already written him off.
-
-...
-
-[Data](articles/4c576d4a.json)
-
-[Extended Data](ext_articles/4c576d4a.ext.json)
-
----
-
-### Police officer who kneeling with guns
-
-*2024-03-03 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194092) · `si`
-
-A video of a police officer in India kneeling with guns has sparked global attention. The incident, captured on CCTV, shows the officer with two firearms.
-
-🟩
-
-The world is currently focused on a video that has risening a police officer in India.
-
-The video states how two firearms with two firearms.
-
-The following is a CCTV foreign media.
-
-◼️
-
-[Data](articles/4b2f0698.json)
-
-[Extended Data](ext_articles/4b2f0698.ext.json)
-
----
-
-### Sri Lanka's statement from UN High Commissioner
-
-*2024-03-03 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194091) · `si`
-
-Walker Turk, UN High Commissioner, expressed concern over Sri Lanka's new bills limiting fundamental rights and freedoms, including meeting and freedom of the press, and criticized the government for economic crisis and poverty. He urged the government to address human rights violations and economic crimes.
-
-🟩
-
-United Nations High Commissioner to Human Rights Walker Turk says he is worried about limiting fundamental rights and freedom of Sri Lanka by introducing several new bills.
-
-He pointed out that the meeting and freedom of the meeting, including terrorism bill, the electronic media broadcaster, and the government's independence is severely limited.
-
-The High Commissioner of High Commissioner Walker Turk has said this at the 55th Session of the UN Human Rights Council.
-
-These new laws that have been given extensive powers to the executive and security forces are violated by basic human rights
-
-Turk has also emphasized the economic crisis in Sri Lanka as well as poverty and income levels.
-
-The government requested that the government urges the government to implement human rights violations and economic crimes and the government should act dedicated to the propiancy and the peaceful peace.
-
-◼️
-
-[Data](articles/0183a74e.json)
-
-[Extended Data](ext_articles/0183a74e.ext.json)
-
----
-
-### NPP has plans to raise state revenue: Anura Kumara
-
-*2024-03-03 21:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-has-plans-to-raise-state-revenue-Anura-Kumara/108-278140) · `en`
-
-Ratnapura, March 3 (Daily Mirror)- Claiming that they have plans to raise state revenue, NPP leader Anura Kumara Dissanayake said today they had discussions with the Inland Revenue Department on ways to increase state reveue.
-
-Speaking at the Ratnapura District Women's Convention, he said that state revenue could be increased through the Customs Department and Excise Department as well.
-
-He said the revenue generated through the Inland Revenue Department could be doubled if the efficiency of the IRD staff was increased and the technology was advanced.
-
-"We can find money. We have discussed with the Inland Revenue Department.There are some changes to be made in the laws, staff and technology used in the department. If the efficiency of the staff is increased, we can double the revenue generated through the IRD. Revenue generated from the Customs and Excise Departments can also be increased. The Excise Department has some Rs. 90 billion outstanding from the liquor manufacturers," he said.
-
-...
-
-[Data](articles/17ff57a7.json)
-
-[Extended Data](ext_articles/17ff57a7.ext.json)
-
----
-
-### Ranil’s election propaganda aims to attack NPP: Anura Kumara reveals
-
-*2024-03-03 21:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranils-election-propaganda-aims-to-attack-NPP-Anura-Kumara-reveals/108-278184) · `en`
-
-Colombo, March 4 (Daily Mirror)- President Ranil Wickremesinghe has handed over his propaganda activities for the Presidential election to three advertising agencies aiming to attack the National People's Power (NPP), NPP leader Anura Kumara Dissanayake said yesterday.
-
-Speaking at the Ratnapura District Women's Convention, he said that the contract to create a bad picture of the NPP has been given to someone attached to the NPP.
-
-He said the propaganda activities of Ranil Wickremesinghe includes installing fear among the people by highlighting incidents from 1988/89 and May 9, thus creating a notion that this is not the time to try new options and also to raise doubts as to how the NPP with only a three percent vote base can garner a 51 per cent vote base.
-
-...
-
-[Data](articles/dd098b7b.json)
-
-[Extended Data](ext_articles/dd098b7b.ext.json)
-
----
-
-### Suspect arrested in Katunayake
-
-*2024-03-03 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194090) · `si`
-
-A 30-year-old drug dealer from Vengigama was arrested at Katunayake airport for drug possession, found with drugs in a three-wheeler in Weligama, and faces a travel ban.
-
-🟩
-
-The airport was arrested at the time of his arrival at Katunayake airport for a drug search operation conducted by the crimes division.
-
-The suspect was preparing to leave for Dubai State.
-
-The man had found a stock of drugs in a three-wheeler in the Denipitiya area in Weligama road on December 31st.
-
-The Weligama Police had also banned foreign travel ban against the suspect.
-
-The suspect, a 30 year old resident of Vengigama, is a powerful drug dealer.
-
-The Weligama Police are permitted to question 7 days after the presented to Matara Magistrate's Court today (03).
-
-◼️
-
-[Data](articles/5caa62f0.json)
-
-[Extended Data](ext_articles/5caa62f0.ext.json)
-
----
-
-### Sri Lanka’s tourism sector sees 122% growth in January, says Minister
-
-*2024-03-03 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97708/sri-lankas-tourism-sector-sees-122-growth-in-january-says-minister) · `en`
-
-A Sri Lankan Minister on Sunday (03 March) said the country’s external sector performance has seen a marked improvement year on year, with tourism fetching $342 million in January 2024, an impressive 122% jump from last year.
-
-Speaking in Ruwanwella, his home constituency, Minister of State for Finance Ranjith Siyambalapitiya was delving into the Central Bank of Sri Lanka’s external sector indicators issued mid-week.
-
-Siyambalapitiya said the bank figures show that receipts from tourism had fetched $342 million, which is a 122% growth in January 2024 year-on-year.
-
-The inward remittances from Sri Lankan expats in January 2024 had grown by 5% to $488 million up from $467 million in January 2023.
-
-The Sri Lankan rupee, which had seen a massive slump during the unprecedented economic crisis, had appreciated by 14.6% in January of this year.
-
-The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1 billion in January 2023.
-
-...
-
-[Data](articles/5021dabf.json)
-
-[Extended Data](ext_articles/5021dabf.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 22:33:34**
+As of **2024-03-04 22:51:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,842 (100.0%) of 10,843 articles have been extended.
+10,843 (100.0%) of 10,843 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ But four of the nine justices, including the court’s three liberal members, fa
 ...
 
 [Data](articles/61b5f388.json)
+
+[Extended Data](ext_articles/61b5f388.ext.json)
 
 ---
 

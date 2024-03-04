@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 05:56:56**
+As of **2024-03-04 06:16:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,661 (100.0%) of 10,666 articles have been extended.
+10,663 (100.0%) of 10,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,8 @@ In 2024, democratic rule faces a significant test with an estimated 4 billion pe
 
 [Data](articles/d6ccb90f.json)
 
+[Extended Data](ext_articles/d6ccb90f.ext.json)
+
 ---
 
 ### The Courts and the Fight against Impunity and Corruption - EDITORIAL
@@ -87,6 +89,8 @@ During the time of former President Rajapaksa, via amendments to the Constitutio
 ...
 
 [Data](articles/366c6b04.json)
+
+[Extended Data](ext_articles/366c6b04.ext.json)
 
 ---
 

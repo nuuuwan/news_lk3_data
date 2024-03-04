@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 20:17:37**
+As of **2024-03-04 20:33:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,685
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,818 (100.0%) of 10,821 articles have been extended.
+10,821 (100.0%) of 10,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### නව ආර්ථිකයක් වෙනුවෙන් නව නීති පද්ධතියක්
+### A new legal system for a new economy
 
 *2024-03-04 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194128) · `si`
 
-රට දියුණු කළ හැකි නව ආර්ථිකයක් වෙනුවෙන් නව නීති පද්ධතියක් සකස්කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe outlines a new legal system for Sri Lanka's economy, emphasizing its development despite challenges. The country's economic collapse was due to debt management issues, leading to a need for debt relief until 2026-2027. The government aims to increase GDP growth from 8.3% to 15.2% by 2028, with a focus on transforming the economy to a competitive export and digital/green economy. 42 laws have been introduced, with 62 more to be presented, aiming to establish a new legal system for a new economy.
 
-ඒ සඳහා යම් කාලයක් ගතවුවත් කිසි ලෙසකින් මහ මැතිවරණය කල් නොදමන බව ජනාධිපතිවරයා අවධාරණය කරයි.
+🟩
 
-කොළඹ පැවති සම්මන්ත්‍රණයකට එක්වෙමින් ජනාධිපතිවරයා සඳහන් කළේ නීතියට මුවාවී රට අරාජික කිරීමට කිසිවකුටත් ඉඩ නොදෙන බවය.
+President Ranil Wickremesinghe says that a new legal system is being prepared for a new economy that can be developed.
 
-නීති ප්‍රතිසංස්කරණ පිළිබඳව “වට්ස් නිව්” තරුණ නීති වෘත්තිකයන් සංවිධාන කළ කතිතාවක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ පැවැත්වුණි.
+The President emphasizes that no matter time it takes time, it will not be postponed.
+
+Addressing a seminar in Colombo, the President said that no one would allow the country to anarchy.
+
+"What New" Youth Lawers organized by the "Wates New" Youth Legal Professionals on Law Reforms
 
 ...
 
 [Data](articles/e916e144.json)
+
+[Extended Data](ext_articles/e916e144.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ The event, held at the BMICH, aimed to engage young legal professionals and reco
 ◼️
 
 [Data](articles/767bb82f.json)
+
+[Extended Data](ext_articles/767bb82f.ext.json)
 
 ---
 
@@ -116,21 +124,31 @@ Therefore, the Ministry of Education has stated that the Ministry of Education h
 
 ---
 
-### කෝටි 20ක ස්වර්ණාභරණ කටුනායකින් පන්නන්නගිය සේවකයාට වැඩ වරදියි
+### Work for the previous employee who padders Katunayake in 20 crores
 
 *2024-03-04 18:42:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-20ක-ස්වර්ණාභරණ-කටුනායකින්-පන්නන්නගිය-සේවකයාට-වැඩ-වරදියි/11-408417) · `si`
 
-රුපියල් කෝටි 20 ක් පමණ වටිනා කිලෝ ග්‍රෑම් 09 ක් බර ස්වර්ණාභරණ තොගයක් කටුනායක ගුවන් තොටුපොළෙන් පිට කිරීමට තැත් කළ ගුවන් තොටුපොළ සේවකයෙකු 03/04 දින පෙරවරුවේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A Katunayake airport employee, involved in a smuggling racket with other workers, was arrested by Customs Drug Administration officers. The racket involved gold, jewelry, and ATM cards. Minister Ranjith Siyambalapitiya monitored the incident.
 
-මොහු කළක් තිස්සේ තවත් ගුවන් තොටුපොළ සේවකයින් පිරිසක් සමග එක්ව මෙම ජාවාරම කර ගෙන ගොස් ඇති බව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් සිදු කළ මූලික විමර්ශන වලදී අනාවරණය කර ගෙන තිබේ .
+🟩
 
-මෙම ගුවන් තොටුපොළ සේවකයා කටුනායක ගුවන් තොටුපොළ පර්යන්ත සුපරීක්ෂකවරයාගේ කාර්යාලයේ සේවයේ නිරත සුළු සේවකයෙකු වන අතර ඔහු අද දින සිය සේවා මුරය නොමැති අවස්ථාවක ගුවන් තොටුපොළ වෙත පිවිස මෙම නීතිවිරෝධී ලෙස මෙම ස්වර්ණාභරණ තොගය පිට කිරීම සිදු කර තිබේ .
+A large number of airports employees who tried to leave the Katunayake airport on Rs.
 
-ඔහු මෙම ස්වර්ණාභරණ තොගය අඩංගු පාර්සලය ගුවන් තොටුපොළ පිටත්වීමේ පර්යන්තයේ වාහන නැවතුම් ස්ථානය අසළ දී පිට කිරීමට රැගෙන යමින් සිටියදී 03/04 දින උදෑසන 08.15 ට පමණ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+The Customs Drug Advanced Investigations have revealed that the racket had been carried out with a group of other airport workers.
+
+The airport employee is a minor employee in the office of Katunayake Airport Terminal Supervisor and has emitted the airport when he does not have its work.
+
+Officers in the Customs Drug Administration Division have been arrested at around 08/04 while he was carrying the parcel of the airport departure terminal at the airport departure terminal.
+
+කටුනායක ගුවන් තොටුපොළ අධි ආරක්ෂිත කළාපය සහ මහජනයා ගැවසෙන ( Public Area ) වෙන් කිරීමට යොදා ඇති වානේ දොරක සවි කර ඇති ලූවර් පටි ඈත් කර මෙම ස්වර්ණාභරණ තොගය ඇතුළත් පාර්සලය මුළින්ම පිට කර තිබේ.
+
+At first glance of ATM cards in this parcel, the number of cards prepared from gold, the golden (capsules) and the rings, breadcrumbs, rings, rings.
 
 ...
 
 [Data](articles/05fb1248.json)
+
+[Extended Data](ext_articles/05fb1248.ext.json)
 
 ---
 

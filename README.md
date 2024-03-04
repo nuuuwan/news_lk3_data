@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 00:48:05**
+As of **2024-03-05 01:03:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,857 (99.9%) of 10,864 articles have been extended.
+10,861 (100.0%) of 10,864 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Neither the Israelis nor Hamas is willing to give in. Israel will not stop its b
 ...
 
 [Data](articles/d446d6b1.json)
+
+[Extended Data](ext_articles/d446d6b1.ext.json)
 
 ---
 
@@ -70,6 +72,8 @@ It has reached a state where MPs in the Samagi Jana Balawgaya (SJB) have begun t
 
 [Data](articles/e016171c.json)
 
+[Extended Data](ext_articles/e016171c.ext.json)
+
 ---
 
 ### Public sector lethargy and employee rights
@@ -83,6 +87,8 @@ In a letter addressed to both the leaders, Thilakarathne had pointed out that 60
 ...
 
 [Data](articles/f8885b47.json)
+
+[Extended Data](ext_articles/f8885b47.ext.json)
 
 ---
 
@@ -101,6 +107,8 @@ We have all had the experience of a dreary boss who, with his/her stifling, and 
 ...
 
 [Data](articles/67ed8dbe.json)
+
+[Extended Data](ext_articles/67ed8dbe.ext.json)
 
 ---
 

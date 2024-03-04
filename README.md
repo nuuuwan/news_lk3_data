@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 23:02:58**
+As of **2024-03-04 23:17:42**
 
 ## Newspaper Stats
 
-*Scraped **10,845** Articles*
+*Scraped **10,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 579
 adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,324
-virakesarilk | 1,457
+virakesarilk | 1,458
 dailymirrorlk | 1,654
 adaderanasinhalalk | 1,690
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,843 (100.0%) of 10,845 articles have been extended.
+10,845 (100.0%) of 10,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### பங்களாதேஸை அதன் சொந்தமண்ணில் 3 ஓட்டங்களால் திறில் வெற்றி கொண்டது இலங்கை !
+
+*2024-03-04 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177913) · `ta`
+
+பங்களாதேஷுக்கு எதிராக சில்ஹெட் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று திங்கட்கிழமை (04) கடைசிவரை பரபரப்பை ஏற்படுத்திய முதலாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 3 ஓட்டங்களால் இலங்கை வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரில் 1 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை முன்னிலை அடைந்துள்ளது.
+
+குசல் மெண்டிஸ், சதீர சமரவிக்ரம, அணித் தலைவர் சரித் அசலன்க ஆகியோரின் திறமையான துடுப்பாட்டங்கள், ஏஞ்சலோ மெத்யூஸ், தசுன் ஷானக்க ஆகியோரின் சிறப்பான பந்துவீச்சுகள் என்பன இலங்கை வெற்றி அடைவதற்கு உதவின.
+
+குறிப்பாக தசுன் ஷானக்க கடைசி ஓவரை சிறப்பாக வீசி 8 ஓட்டங்களை மாத்திரம் கொடுத்து 2 விக்கெட்களை வீழ்த்தியமை அணியின் வெற்றியை உறுதி செய்வதாக அமைந்தது.அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 20 ஓவர்களில் 3 விக்கெட்களை இழந்து 206 ஓட்டங்களைக் குவித்தது.
+
+மொத்த எண்ணிக்கை 4 ஓட்டங்களாக இருந்தபோது அவிஷ்க பெர்னாண்டோ (4), 37 ஓட்டங்களாக இருந்தபோது கமிந்து மெண்டிஸ் (19) ஆகிய இருவரும் களம் விட்டகழ இலங்கை ஆட்டம் கண்டது.
+
+...
+
+[Data](articles/9de9cdf5.json)
+
+---
 
 ### Shanaka guides Sri Lanka to dramatic T20 win over Bangladesh
 
@@ -49,6 +69,8 @@ Former skipper Angelo Mathews claimed 2-17 to inflict some early damage on the B
 ...
 
 [Data](articles/d0d7cbc9.json)
+
+[Extended Data](ext_articles/d0d7cbc9.ext.json)
 
 ---
 
@@ -91,6 +113,8 @@ They were released on bail after being produced before court.
 ◼️
 
 [Data](articles/3a18e989.json)
+
+[Extended Data](ext_articles/3a18e989.ext.json)
 
 ---
 
@@ -2315,27 +2339,5 @@ The deceased is a resident of Niripola and the Hanwella Police are investigating
 [Data](articles/1d2d7fb6.json)
 
 [Extended Data](ext_articles/1d2d7fb6.ext.json)
-
----
-
-### Gangster Manna Romesh's brother killed in shooting at Hanwella
-
-*2024-03-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gangster-Manna-Romesh-s-brother-killed-in-shooting-at-Hanwella/108-278205) · `en`
-
-Colombo, March 04 (Daily Mirror)  -  A 31-year-old man was killed and another injured following a shooting at Niripola in Hanwella this morning.
-
-Police said the deceased was identified as the brother of underworld gangster 'Manna Romesh'.
-
-The shooting had occurred when the victims were travelling in a cab in the Niripola area.
-
-The injured were admitted to the Awissawella Hospital where one of the victims succumbed to his injuries.
-
-The deceased is a resident of Niripola and the Hanwella Police are investigating into the incident.
-
-◼️
-
-[Data](articles/74e2274b.json)
-
-[Extended Data](ext_articles/74e2274b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 10:56:19**
+As of **2024-03-04 11:12:04**
 
 ## Newspaper Stats
 
-*Scraped **10,701** Articles*
+*Scraped **10,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 548
 dailyftlk | 572
 islandlk | 578
 adalk | 903
-adaderanalk | 1,305
-tamilmirrorlk | 1,310
+adaderanalk | 1,306
+tamilmirrorlk | 1,312
 virakesarilk | 1,435
 dailymirrorlk | 1,624
 adaderanasinhalalk | 1,660
@@ -26,11 +26,49 @@ adaderanasinhalalk | 1,660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,701 (100.0%) of 10,701 articles have been extended.
+10,701 (100.0%) of 10,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### மின்சாரம் மற்றும் எரிபொருட்கள் அத்தியாவசிய சேவைகளாக பிரகடனம்
+
+*2024-03-04 10:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-மற்றும்-எரிபொருட்கள்-அத்தியாவசிய-சேவைகளாக-பிரகடனம்/175-334167) · `ta`
+
+மின்சாரம் மற்றும் பெற்றோலிய பொருட்கள் விநியோகம் தொடர்பான அனைத்து நடவடிக்கைகளும் அத்தியாவசிய சேவைகளாக வர்த்தமானி மூலம் பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+அதன்படி, மின்சாரம் மற்றும் பெட்ரோலிய பொருட்கள் மற்றும் எரிபொருளின் விநியோகம் அல்லது விநியோகம் ஆகியவற்றுடன் இணைக்கப்பட்ட அனைத்து சேவைகளும் அத்தியாவசிய சேவைகளாக கருதப்படுகின்றன.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் உத்தரவின் பேரில் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் வெளியிடப்பட்ட இந்த அறிவிப்பில் இந்த சேவைகள் அத்தியாவசியமான பொது சேவைகளாக குறிப்பிடப்பட்டுள்ளது.
+
+வர்த்தமானி இந்த சேவைகளின் முக்கியமான தன்மையை அடிக்கோடிட்டுக் காட்டுகிறது, சமூக வாழ்க்கையை நிலைநிறுத்துவதில் அவற்றின் இன்றியமையாத பங்கை வலியுறுத்துகிறது.
+
+மின்சாரம், பெட்ரோலிய விநியோகம் அல்லது எரிபொருள் வழங்கல் ஆகியவற்றில் ஈடுபட்டுள்ள பொது நிறுவனங்கள், அரசுத் துறைகள், உள்ளாட்சி அமைப்புகள் மற்றும் கூட்டுறவு சங்கங்கள் உட்பட அனைத்து நிறுவனங்களுக்கும் இது பொருந்தும்.
+
+◼️
+
+[Data](articles/d21ffc08.json)
+
+---
+
+### CBSL officials summoned to Cabinet over salary hike controversy
+
+*2024-03-04 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97716/cbsl-officials-summoned-to-cabinet-over-salary-hike-controversy-) · `en`
+
+The officials of the Central Bank of Sri Lanka (CBSL) have been summoned to the Cabinet meeting scheduled to be held on Tuesday (March 05).
+
+There, the CBSL officials will be inquired about the process and rationale behind the recent salary hike given to its employees, with no notice to any responsible parties.
+
+Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition.
+
+Earlier this week, the CBSL requested the President, in his capacity as the Minister of Finance, for an opportunity to apprise the Members of Parliament, through an appropriate Parliamentary Committee, of the recent salary increment which came under fire. The request was made in writing by CBSL Governor Dr. Nandalal Weerasinghe.
+
+...
+
+[Data](articles/0cc629e0.json)
+
+---
 
 ### Fuel price revision likely tonight?
 
@@ -49,6 +87,24 @@ Against this backdrop, President Ranil Wickremesinghe has issued an Extraordinar
 [Data](articles/f45d2a3a.json)
 
 [Extended Data](ext_articles/f45d2a3a.ext.json)
+
+---
+
+### விலை அதிகரிப்புக்கு எதிராக சட்ட நடவடிக்கை
+
+*2024-03-04 10:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-அதிகரிப்புக்கு-எதிராக-சட்ட-நடவடிக்கை/175-334165) · `ta`
+
+கொத்து, ப்ரைட் ரைஸ் உள்ளிட்ட உணவுப் பொருட்களின் விலைகளை அதிகரிப்புக்கு எதிராக சட்ட நடவடிக்கை எடுக்கவுள்ளதாக தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத்  தெரிவித்துள்ளார்.
+
+உணவுப் பொருட்களின் விலைகளை அதிகரிக்க அகில இலங்கை சிற்றுண்டிசாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் மேற்கொண்டுள்ள தீர்மானத்திற்கு எதிராகவே இந்த சட்ட நடவடிக்கை எடுக்கப்படவுள்ளது.
+
+சந்தையில், உணவுப்பொருட்களின் விலைகளை தன்னிச்சையாக தீர்மானிக்கும் அதிகாரம் தனியார் நிறுவனங்களுக்கு இல்லை என அவர் குறிப்பிட்டுள்ளார்.
+
+எவ்வாறாயினும், மூலப்பொருட்களின் விலை அதிகரிப்பு காரணமாகவே, உணவுப் பொருட்களின் விலைகளை உயர்த்த நேரிட்டதாக அகில இலங்கை சிற்றுண்டிசாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/5606b07a.json)
 
 ---
 
@@ -2107,73 +2163,5 @@ The announcement was made as the Pakistani election and its post -country positi
 [Data](articles/cc775c3f.json)
 
 [Extended Data](ext_articles/cc775c3f.ext.json)
-
----
-
-### Sri Lankan efforts to transform Sri Lanka into a state of India cannot be allowed - Wimal Weerawansa
-
-*2024-03-03 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177817) · `ta`
-
-Wimal Weerawansa opposes Sri Lanka becoming India's 29th state, criticizing the government's economic recovery efforts, including sharing Mannar wind power with Adani and dividing electricity to India. He warns of national security risks and the potential for Sri Lankans to be seen as second-class citizens.
-
-🟩
-
-The government is carrying out the process of transforming Sri Lanka into a 29th state of India as an economic recovery.
-
-Speaking at a meeting held on Saturday evening (02) evening in the Varakala area, Padukka.
-
-The government has favored the economic and social impact on the government's wealthy Adani.
-
-Adani provides shares of Mannar wind power generation to Adani Company. The government has decided to provide a profit telecommunication company to the Indian company. Similarly, steps have been taken to divide the Sri Lankan electricity into several components and provide it to India.
-
-National security will be threatened by the process of providing Indian corporations to Sri Lanka's economic centers. In this case, efforts are being made to sign the Edka Agreement with India.
-
-If the Edka Agreement is signed. Economicly affected Sri Lankans will be considered second -class citizens within their home country. Sri Lanka will be transformed into the 29th state of India.
-
-...
-
-[Data](articles/4731bf08.json)
-
-[Extended Data](ext_articles/4731bf08.ext.json)
-
----
-
-### Ananda - daily cricket match;The President's visit
-
-*2024-03-03 17:19:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆனந்த-நாளந்த-கிரிக்கெட்-போட்டி-ஜனாதிபதி-விஜயம்/175-334142) · `ta`
-
-President Ranil Wickremesinghe attended the 94th Cricket Tournament between Colombo and Ananda and Nalanda Colleges at the SSC Ground in Colombo.
-
-🟩
-
-President Ranil Wickremesinghe has joined the 94th Cricket Tournament between Colombo and Ananda and Nalanda Colleges at the SSC Ground in Colombo.
-
-◼️
-
-[Data](articles/c79339a5.json)
-
-[Extended Data](ext_articles/c79339a5.ext.json)
-
----
-
-### Heating heating up
-
-*2024-03-03 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194081) · `si`
-
-The Meteorological Department warns of rising temperatures in several island areas tomorrow, advising residents to stay hydrated and avoid outdoor stress.
-
-🟩
-
-The Meteorological Department says that the temperature of several areas in the island will increase to a level tomorrow (04).
-
-The warmth of the North Western and Southern and Sabaragamuwa and Anuradhapura and Mannar districts will remain focused on the human body.
-
-The people have been instructed to follow health advice including adequate water, including the restriction of the stress of the outdoors, to rest.
-
-◼️
-
-[Data](articles/18bca45a.json)
-
-[Extended Data](ext_articles/18bca45a.ext.json)
 
 ---

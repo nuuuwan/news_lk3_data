@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 14:54:26**
+As of **2024-03-04 15:41:10**
 
 ## Newspaper Stats
 
-*Scraped **10,746** Articles*
+*Scraped **10,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 551
 dailyftlk | 572
-islandlk | 578
+islandlk | 579
 adalk | 908
-adaderanalk | 1,313
+adaderanalk | 1,314
 tamilmirrorlk | 1,317
-virakesarilk | 1,435
+virakesarilk | 1,448
 dailymirrorlk | 1,636
 adaderanasinhalalk | 1,668
 
@@ -26,11 +26,139 @@ adaderanasinhalalk | 1,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,746 (100.0%) of 10,746 articles have been extended.
+10,753 (99.9%) of 10,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Electricity Board spokesman's bottle lamp story…!
+
+*2024-03-04 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177876) · `ta`
+
+The Ceylon Electricity Board's (CEB) Media Spokesman Priyantha faced criticism for derogatory comments about the upcountry plantation community. His remarks sparked controversy, leading to his resignation. The incident highlighted the disparity between the elite and the people living under the poverty line, with politicians and officials expressing concern over the lack of electricity and its impact on education.
+
+🟩
+
+The comments expressed by our country's politicians and state officials in the recent past are mocking the people living under the Mediterranean and Poverty line.. They are speaking in the media and parliament, which is regarded as the elite.
+
+During a television interview, the Ceylon Electricity Board (CEB) Media Spokesman Priyantha, who was contemptuous of the upcountry plantation community, was severely criticized not only in the media but also in parliament last week.. He is a deputy general manager of the Ceylon Electricity and Operational Strategy Division of the Ceylon Electricity Board.
+
+The Ceylon Electricity Board's Engineers Association, which criticized his views on the Sri Lankan people who consume electricity, was very dangerous, and that his views were damaging the Electricity Board and the government.
+
+...
+
+[Data](articles/2ad2dcfa.json)
+
+[Extended Data](ext_articles/2ad2dcfa.ext.json)
+
+---
+
+### Government officials hating people's voice…!
+
+*2024-03-04 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177874) · `ta`
+
+A study by Peradeniya University reveals that 49% of phones in Sri Lanka's state agencies are non-functional, impacting service delivery. The police are identified as the most corrupt sector. Despite efforts to contact state institutions via phone, many are unresponsive or inaccessible. This situation reflects broader issues with government efficiency and corruption, with officials often prioritizing personal gain over public service.
+
+🟩
+
+According to a study, the state agencies in Sri Lanka are not working in half of the phones in the departments.. This information has been revealed through a survey of the Economic and Statistical Studies Division of Peradeniya University. A few weeks ago, this section of the university revealed that the most bribery sector in the state sector in Sri Lanka was the police.
+
+The extent to which people are working to get services in state institutions in Sri Lanka. In some departments and institutions, the people from the shopkeeper to the top officials are somehow bribing their needs.
+
+...
+
+[Data](articles/4ec8cef4.json)
+
+[Extended Data](ext_articles/4ec8cef4.ext.json)
+
+---
+
+### Can workers get the salary of the lease agreement?
+
+*2024-03-04 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177873) · `ta`
+
+Workers' salaries in lease agreements are a complex issue. The Ceylon Workers Congress and unions argue for higher wages, but companies warn of stopping welfare services if basic salaries increase. The 1995 lease agreement between the government and plantation companies led to a joint contract for workers' welfare, but it's unclear if this affects the lease agreement's terms. The 2003 Labor Welfare Joint Agreement, made every three years, includes provisions for fair additional allowances and specific conditions for workers. Despite these agreements, plantation workers' welfare has declined over the years, leading to calls for negotiations and reforms. The government has decided to extend the lease agreement, but unions argue that companies have not complied with agreed salaries.
+
+🟩
+
+Talks about the agony of plantation workers may have begun a goal. When the General Secretary and Minister of the Ceylon Workers Congress, Jeevan Thondaman, during a media briefing held last week, responded to this, the companies say that if the basic salary was paid Rs 1,700, other welfare services would be stopped.. If that happens, he said he would have to lease with companies in this regard.
+
+The unions must understand that the workers' pain and the leasing agreement with the government with the government. At the same time, the unions have forgotten that there is a joint venture on the welfare of the workers.
+
+...
+
+[Data](articles/c553c13d.json)
+
+[Extended Data](ext_articles/c553c13d.ext.json)
+
+---
+
+### Hand our land to us;Deposit from Mannar to the President by post
+
+*2024-03-04 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177869) · `ta`
+
+Jatsan Priyado led a press conference to the President, highlighting the loss of land to the military in the Northern Province. The event, held in Mannar, involved sending 5,000 letters to the President's Office, demanding the release of soldiers living on people's land. Lands were issued at the event, and letters for the President's attention were sent from the Mannar Post Office. Representatives from five Divisional Secretariat Divisions of Mannar were present.
+
+🟩
+
+Jatsan Priyado organized a press conference to the President by posting by post to the Northern Provincial Council, Naval and other department -owned people through the voice of the people who lost their land in the tone of the land that lost our land to us.Leaded.
+
+In the Northern Province, the land and the armed forces are engaged in business and agricultural activities in the land of the government and the armed forces.
+
+On the basis of this, the event was held in Mannar on the basis of sending five thousand postal letters to the President's Office on the grounds that the soldiers living in the land of the people should be released.
+
+Lands were issued at the event and after the event was completed, letters relating to the release of the land from the Mannar Post Office to the President's Office were sent.
+
+The victims were also present from the five Divisional Secretariat Divisions of Mannar, Nanatan, Musali, Manthai West and Madhu in Mannar district.
+
+◼️
+
+[Data](articles/bb8f695d.json)
+
+[Extended Data](ext_articles/bb8f695d.ext.json)
+
+---
+
+### Israel - Hamaspore stops for the holy Ramadan only for more than 3 lakhs of people?
+
+*2024-03-04 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177867) · `ta`
+
+Hamas halts operations for Ramadan, affecting over 300,000 people in Gaza. The situation is dire, with food shortages, hunger, and deaths. Israel has been accused of firing on civilians, leading to over 70 deaths and 200 injuries. The UN has reported on the situation, with the al-Shifa hospital treating over 200 people. Israel has warned against looting relief supplies. World leaders have condemned the situation, calling for an investigation. The World Food Programme warns of an impending food shortage in Gaza.
+
+🟩
+
+Gaza people are looking forward to the tragedies that no community in the world. The tragedies they face, such as foodlessness, hunger, hunger, and deaths, are only eating more than 3 lakhs of people with little food.
+
+The Arab countries are watching only the tragedy of this tragedy, which is not the result of this tragedy.
+
+On top of all, the children who are carrying their hands can be seen by any parents who die in the eyes of the children. As for Israel, it continues its revenge, without any kindness. In this context, more than 70 people were killed and more than 200 injured in an attack on the nearest population that took relief items in Gaza last Thursday.. In this case, Israel says that the company has resolved alerts for the safety of the neighboring people, and that the relief alerts are routinely looted in the middle of the interim.Previously, people say that the hunters were resolved by looking at the crowd this time.
+
+...
+
+[Data](articles/98e2d7d6.json)
+
+[Extended Data](ext_articles/98e2d7d6.ext.json)
+
+---
+
+### Eight Sri Lankans rescued from cyber slave camp in Myanmar – Ambassador
+
+*2024-03-04 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97723/eight-sri-lankans-rescued-from-cyber-slave-camp-in-myanmar-ambassador) · `en`
+
+The Sri Lankan Ambassador to Myanmar Janaka Priyantha Bandara says that unverified reports have been received claiming that a group of eight Sri Lankans who were held hostage at a Cyber Slave Camp in Myanmar have been rescued.
+
+In December, reports were rife about a group of Sri Lankans who were lured with tourist visas behind the false front of lucrative job offers in the IT sector and were trafficked to Myanmar through its border with Thailand. These workers had reportedly travelled to Myanmar without registering with the Sri Lanka Bureau of Foreign Employment (SLBFE).
+
+The Sri Lankans forcibly detained at the terrorist camp in Myawaddy – an area infested with cybercrimes under the grip of an armed group – were reported to be working as cyber slaves forced to commit internet scams.
+
+◼️
+
+[Data](articles/acfa21bd.json)
+
+[Extended Data](ext_articles/acfa21bd.ext.json)
+
+---
 
 ### Two arrested with smuggled gold at BIA
 
@@ -43,6 +171,146 @@ Sri Lanka Customs has apprehended two passengers who arrived in Sri Lanka with 0
 [Data](articles/3998e4e1.json)
 
 [Extended Data](ext_articles/3998e4e1.ext.json)
+
+---
+
+### Globally, a rightward political shift is visible
+
+*2024-03-04 13:24:00* · [`islandlk`](http://island.lk/globally-a-rightward-political-shift-is-visible/) · `en`
+
+The global political scene was very left-inclined from about the mid-1960s to say 10 or 15 years ago. The sweeping trend to social democracy in post-war Europe, a surge to the left throughout Asia (Chinese Revolution, defeat of US Imperialism in Vietnam, post-war USSR, our own JVP) and a little later in Africa (Patrice Lumumba, revolution in Mozambique, Nelson Mandela etc), signposted what may be loosely called a period of global shift to the left. That ended about 10 years ago. The last spurt was perhaps Obama’s re-election. The reverse trend became prominent in the US with Trump and internationally a dynamic that began with the collapse of the Soviet Union in December 1991.
+
+...
+
+[Data](articles/9cc05308.json)
+
+[Extended Data](ext_articles/9cc05308.ext.json)
+
+---
+
+### THAT ABSTENTION VOTE
+
+*2024-03-04 13:23:00* · [`islandlk`](http://island.lk/that-abstention-vote/) · `en`
+
+It has been reported that at a meeting of the Constitutional Council held a few days ago, the nomination made by President Wickremesinghe of Deshabandu Tennekoon for appointment to the office of Inspector-General of Police was approved, and Tennekoon was accordingly appointed. However, it has also been reported that the Leader of the Opposition, Sajith Premadasa, has claimed that the appointment was made in violation of the Constitution and without the necessary approval of the Constitutional Council. The Speaker, on the other hand, has asserted that, at the meeting which he chaired, the number of votes required for approval of the nomination, namely five, was obtained.
+
+...
+
+[Data](articles/c5e30827.json)
+
+[Extended Data](ext_articles/c5e30827.ext.json)
+
+---
+
+### Instant ceasefire in Gaza - Australian Malaysian leaders jointly request
+
+*2024-03-04 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/177865) · `ta`
+
+Australian and Malaysian leaders jointly request an immediate ceasefire in Gaza, aiming to resolve Israel-Hamas conflicts. They also call for the release of all hostages. Malaysian Prime Minister Anwar Ibrahim emphasizes the need for a ceasefire, not addressing the controversial Israel-Palestine issues. The leaders express concern over the humanitarian situation in Gaza, especially since October 7th, without condemning the attack on Israel. Efforts are underway to publish a report on Gaza, despite differing positions from Malaysia and Hamas.
+
+🟩
+
+The Australian Malaysian leaders have called for an immediate ceasefire, making efforts to overcome the regional tensions that has created due to Israel Hamas conflicts.
+
+They have also requested that all the hostages in Gaza be released.
+
+Malaysian Prime Minister Anwar Ibrahim has said that I am not talking about the controversial issues between Israel and Palestine, but I want to talk about the immediate ceasefire.
+
+The comment was made when the two met during the Special ASEAN Summit in Melbourne.
+
+At the end of the conference, efforts are being made to publish a report on Gaza, although Malaysia and Hamas have emphasized a fierce position.
+
+Meanwhile, Australian Malaysian leaders have expressed concern over the worst humanitarian situation in Gaza after the seventh of October.
+
+They did not condemn the attack on Israel and called for an immediate ceasefire.
+
+◼️
+
+[Data](articles/51f41d90.json)
+
+[Extended Data](ext_articles/51f41d90.ext.json)
+
+---
+
+### சுற்றுலாப் பயணிகளை கவர்ந்த இடமாக மாறும்  இலங்கை
+
+*2024-03-04 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/177846) · `ta`
+
+நாட்டிற்கு வருகை தரும்  சுற்றுலாப் பயணிகளின் எண்ணிக்கை தொடர்சியாக  மூன்றாவது மாதமாக பெப்ரவரியில் 2  இலட்சத்தை கடந்துள்ளது.
+
+இதன் மூலம் இலங்கை சுற்றுலாப் பயணிகளை கவர்ந்த இடமாக தன்னை நிலை நிறுத்தியுள்ளது.
+
+பெப்ரவரி மாதத்தில் 218,350 வெளிநாட்டு சுற்றுலா பயணிகள் வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபையினால் (SLTDA) வெளியிடப்பட்ட தற்காலிகத் தரவுகள் காட்டுகின்றது.
+
+2023 ஆம் ஆண்டின் இந்த காலகட்டத்துடன் ஒப்பிடும் போது, வருடாந்த சுற்றுலா பயணிகளின் வருகை  102.8 வீதத்தால் அதிகரித்துள்ளது.
+
+அதன்படி, ஜனவரி முதலாம் திகதி முதல் பெப்ரவரி 29 ஆம் திகதி வரை மொத்தமாக  426, 603 சுற்றுலாப் பயணிகளின் வருக தந்துள்ளனர்.
+
+இதேவேளை, கடந்த வருடம் 2023 ஆம் ஆண்டு டிசம்பர் மாதம் 210, 352  சுற்றுலாப் பயணிகளின் வருகை தந்துள்ளனர். அதேசமயம்,  ஜனவரி மாதம்  208, 253  சுற்றுலாப் பயணிகளின் வருகை தந்துள்ளனர்.
+
+இந்நிலையில், சுற்றுலாத்துறை அமைச்சர் ஹரின் பெர்னாண்டோ  எக்ஸ் தளத்தில் ,  இலங்கை சுற்றுலாத்துறைக்கு 2024 ஆம் ஆண்டு  “இரண்டு அற்புதமான மாதங்கள்” என்று குறிப்பிட்டார்.
+
+...
+
+[Data](articles/28022f9c.json)
+
+---
+
+### முதல் தடவையாக ட்ரம்பை வென்றார் நிக்கி ஹாலே
+
+*2024-03-04 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177863) · `ta`
+
+அமெரிக்க ஜனாதிபதித் தேர்தலில் குடியரசுக் கட்சியின் வேட்பாளரைத் தெரிவுசெய்வதற்காக வொஷிங்டன் டிசி நகரில் நடந்த உட்கட்சித் தேர்தலில் நிக்கி ஹாலே வெற்றியீட்டியுள்ளார்.
+
+குடியரசுக் கட்சி ஜனாதிபதி வேட்பாளருக்கான உட்கட்சித் தேர்தல் வரலாற்றில் பெண்ணொருவர், பிராந்திய தேர்தலொன்றில் வெற்றியீட்டியமை இதுவே முதல் தடவையாகும்.
+
+நேற்று ஞாயிற்றுக்கிழமை வொஷிங்டன் டி.சி. நகரில் நடைபெற்ற தேர்தலில் நிக்கி ஹாலே 63 சதவீத வாக்குகளைப் பெற்றார். இதன் மூலம் நகரில்  நிக்கி ஹாலே 19 பிரதிநிதிகளின் ஆதரவைப் பெறுவார்.
+
+முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் 33.3 சதவீத வாக்குகளைப் பெற்றார். அவருக்கு  வொஷிங்டன் டிசியிலிருந்து பிரதிநிதிகள் எவரும் கிடைக்கவில்லை.
+
+டொனால்ட் ட்ரம்ப், நிக்கி ஹாலே ஆகிய இருவர் மாத்திரமே தற்போது குடியரசுக் கட்சி வேட்பாளருக்கான போட்டியில் நீடிக்கின்றமை குறிப்பிடத்தக்கது.
+
+குடியரசுக் கட்சியில் அமெரிக்கா முழுவதும் 2429 பிரதிநிதிகள் உள்ளனர். ஜனாதிபதி வேட்பாளராகுவதற்கு குறைந்தபட்சம் 1215 பிரதிநிதிகளின் ஆதரவு தேவை.
+
+...
+
+[Data](articles/ed1771b2.json)
+
+---
+
+### Factum Perspective: இந்தியப் பெருங்கடலில் அதிகரிக்கும் பதட்டங்கள்
+
+*2024-03-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177862) · `ta`
+
+அக்டோபர் 7, 2023 அன்று ஹமாஸ் இஸ்ரேலைத் தாக்கியபோது, உலகின் அனுதாபம் இஸ்ரேலிய மக்களுடன் காணப்பட்டது. இது ஒரு பயங்கரவாதச் செயலாகும், என்பதுடன் அது முறைப்படி கண்டிக்கப்பட்டது.
+
+நவம்பர் மாதத்திற்குள், இஸ்ரேலின் எதிர்த்தாக்குதல் கண்மூடித்தனமானதாக மாறியதால், உலகம் வித்தியாசமாக பிரதிபலிக்க ஆரம்பித்தது. பாலஸ்தீன அரசியல்வாதிகள் தங்களின் நாட்டை அபிவிருத்தி செய்வதற்கு அரபு நாடுகள் வழங்கும் ஆதரவையும் உதவியையும் பயன்படுத்தத் தவறியது, அதன் மூலம் ஹமாஸ் தமது நிலைப்பாட்டை உறுதிப்படுத்தவும், அவர்களின் நியாயத்தின் சட்டபூர்வதன்மையை குறைமதிப்பிற்கு உட்படுத்தவும் இடமளிப்பதுடன், மக்கள் படும் துன்பம் உலகம் புறக்கணிக்க முடியாத அளவுக்கு அதிகமாக காணப்பட்டது.
+
+பின்னர் ஹூத்திகள் யேமனில் இருந்து பதிலளிக்க ஆரம்பித்தது, முதலில் இஸ்ரேலுடன் தொடர்புடைய கப்பல்களை குறிவைத்ததுடன் படிப்படியாக மேற்கத்திய அணிக்கு விரிவடைகின்றது. இந்த நெருக்கடிக்கு இணைந்ததாக, நாங்கள் சோமாலிய கடற்கொள்ளையர் மீண்டும் செயற்பட ஆரம்பித்தமையை கண்டோம்.
+
+...
+
+[Data](articles/906a4c94.json)
+
+---
+
+### தேங்காய் விலை அதிகரிப்பு : உணவுப் பொதிகளின் விலைகளில் பாரிய தாக்கம் !
+
+*2024-03-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177861) · `ta`
+
+தேங்காய் விலை அதிகரிப்பினால் சோற்று பொதி மற்றும் கறி வகைகளின் விலைகளில் பாதிப்பை ஏற்படுத்தும் எனவும் இதற்கு காரணம் பெரும்பாலான கறிகள் தேங்காய் பாலை கொண்டு தயாரிக்கப்படுகிறதென உணவுத் தொழில்துறை தொழிற்சங்கங்கள் தெரிவிக்கின்றன.
+
+நாட்டில் வழமையாக 60 முதல் 80 ரூபா வரையில் இருந்த தேங்காயின் விலை இரண்டு மடங்காக அதிகரித்துள்ளதாக அகில இலங்கை சிற்றுண்டிச்சாலை உரிமையாளர்கள் சங்கத்தின் தலைவர் ருக்ஷான் ஹர்ஷன தெரிவித்துள்ளார்.
+
+அதன்படி, தற்போது ஒரு தேங்காயின் விலை 120 ரூபாவிலிருந்து 150 ரூபா வரை விற்பனை செய்யப்படுவதாக தெரிவித்துள்ளார்.
+
+அதிகரித்துள்ள  தேங்காய் விலையினால் சோற்று பொதி ஒன்றை தயாரிக்க முடியாமல் சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர்கள் மிகுந்த சிரமத்திற்கு உள்ளாகி வருவருகின்றனர். இதனால்  உணவுப் பொதிகளை அதிக விலைக்கு விற்க வேண்டிய சூழ்நிலை உருவாகியுள்ளது.
+
+அரிசி, கோழிக்கறி, முட்டை, எரிவாயு உள்ளிட்ட அனைத்தும் கணிசமாக விலை அதிகரித்துள்ள  நிலையில் தேங்காய்களின் விலையும் அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/e5f43442.json)
 
 ---
 
@@ -186,6 +454,22 @@ The arrested person will be produced before Monaragala Magistrate’s Court toda
 
 ---
 
+### கொக்குத்தொடுவாய் மனித புதைகுழி அகழ்வுப் பணியை மீள ஆரம்பிக்க  இதுவரை நிதி கிடைக்கவில்லை ; வழக்கு மீண்டும் ஒத்திவைப்பு
+
+*2024-03-04 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177857) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் கொக்குத்தொடுவாய் பகுதியில் 29.06.2023 அன்று கண்டுபிடிக்கப்பட்ட மனித புதைகுழி அகழ்வு  தொடர்பான  வழக்கானது இன்று திங்கட்கிழமை (04) முல்லைத்தீவு நீதவான்  நீதிமன்றில் இடம்பெற்றது.
+
+முல்லைத்தீவு நீதவான்  நீதிமன்றில் நீதிபதி தர்மலிங்கம் பிரதீபன்  முன்னிலையில் இடம் பெற்ற வழக்கு விசாரணைகளில் முல்லைத்தீவு மாவட்ட சட்ட வைத்திய அதிகாரி கனகசபாபதி வாசுதேவா, முல்லைத்தீவு மாவட்ட செயலக பிரதம கணக்காளர் மயில்வாகனம் செல்வரட்ணம், கொக்கிளாய் பொலிஸ் நிலைய பொறுப்பதிகாரி,கொக்கிளாய் பகுதி  கிராம அலுவலர், சட்டத்தரணிகளான வீ.எஸ். நிரஞ்சன், கணேஸ்வரன், தனஞ்சயன், ருஜிக்கா ஆகியோர் முன்னிலையாகியிருந்தனர்.
+
+குறித்த வழக்கின்  அகழ்வு பணியினை திட்டமிட்டபடி   நடாத்த நிதி கிடைக்கபெறவில்லை என தெரிவிக்கப்பட்ட நிலையில், குறித்த வழக்கு ஏப்ரல் மாதம் 4 ஆம் திகதிக்கு மீண்டும் ஒத்திவைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/816678c6.json)
+
+---
+
 ### One killed in shooting in Hanwella
 
 *2024-03-04 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97719/one-killed-in-shooting-in-hanwella) · `en`
@@ -297,6 +581,26 @@ The Deputy Health Minister of Health said that the doctors were ordered to repor
 [Data](articles/09c2498f.json)
 
 [Extended Data](ext_articles/09c2498f.ext.json)
+
+---
+
+### பாகிஸ்தானில் கடும் மழையினால் 32 பேர் பலி
+
+*2024-03-04 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/177852) · `ta`
+
+பாகிஸ்தானில் கடும் மழையைத் தொடர்ந்து சிறார்கள் உட்பட 30 இற்கும் அதிகமானோர் உயிரிழந்துள்ளனர் என அதிகாரிகள் நேற்று தெரிவித்துள்ளனர்.
+
+பாகிஸ்தானின் பல பிராந்தியங்களில் கடந்த வியாழன் முதல் கடும் மழை பெய்து வருகிறது. இதனால், பலோசிஸ்தான் மாகாணத்தில்  பாடசாலைகள் மூடப்பட்டுள்ளன.
+
+கைபர் பக்துன்க்வா மாகாணத்தில் கட்டிடங்கள் இடிந்ததால் 18 சிறார்கள் உட்பட 27பேர் உயிரிழந்துள்ளனர் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+அம்மாகாணத்தில் 30 வீடுகள் முற்றாக சேதமடைந்துள்ளதாகவும், 97 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளதாகவும் கைபர் பக்துன்க்வா மாகாண அனர்த்த முகாமைத்துவ முகவரகம் தெரிவித்துள்ளது.
+
+பலேசிஸ்தானில் சேதமடைந்த வீதிகள், வெள்ளம், மண்சரிவுகள் காரணமாக பிரதான நகரங்களுக்கும் கிராமங்களுக்கும் இடையிலான தொடர்புகள் துண்டிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/bd963b0c.json)
 
 ---
 
@@ -705,6 +1009,28 @@ Earlier this week, the CBSL requested the President, in his capacity as the Mini
 [Data](articles/0cc629e0.json)
 
 [Extended Data](ext_articles/0cc629e0.ext.json)
+
+---
+
+### ஹெய்ட்டியில்  சிறை மீது ஆயுதகும்பல் தாக்குதல்- 3000க்கும் அதிகமானகைதிகள் தப்பியோட்டம்
+
+*2024-03-04 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177839) · `ta`
+
+ஹெய்ட்டி தலைநகரில் உள்ள பிரதான சிறைச்சாலையொன்றின் மீது தாக்குதலை மேற்கொண்ட கும்பலொன்று அங்கிருந்த 4000க்கும் மேற்பட்ட கைதிகளை விடுவித்துச்சென்றுள்ளது.
+
+தலைநகரின் பிரதான சிறைச்சாலை மீது மேற்கொள்ளப்பட்ட தாக்குதல் காரணமாக 4000க்கும் அதிகமான கைதிகள் தப்பியோடிவிட்டனர் என செய்திகள் வெளியாகின்றன.
+
+2021 இல் ஜனாதிபதி ஜொவெனல் மொஸ்சேயை கொலை செய்ததாக குற்றம்சாட்டப்பட்டவர்களும் சிறையுடைப்பு காரணமாக தப்பிச்சென்றுள்ளனர்.
+
+ஹெய்ட்டியின்  வழமையான நெரிசல் மிகுந்த சிறைச்சாலை வெறுமையாக பாதுகாப்பு உத்தியோகத்தர்கள் இன்றி காணப்படுகின்றது காலணிகளும் ஆடைகளும் கதிரைமேசைகளும் சிதறுண்டு காணப்படுகின்றன என ஊடகங்கள் தெரிவித்துள்ளன.
+
+எத்தனை கைதிகள் தப்பிச்சென்றுள்ளனர் என்பது தெரியாது என குறிப்பிட்டுள்ள மனித உரிமை சட்டத்தரணி 4000 சிறைக்iதிகளில் 100க்கும் குறைவானவர்களே எஞ்சியுள்ளனர் எனவும்  தெரிவித்துள்ளது.
+
+இதேவேளை வன்முறைகளை கட்டுப்படுத்துவதற்காக அவசரகால நிலையை அறிவித்துள்ள ஹெய்ட்டி அரசாங்கம்  இரவு நேர ஊரடங்கு சட்டத்தையும் பிரகடனம் செய்துள்ளது.
+
+◼️
+
+[Data](articles/498bc8d8.json)
 
 ---
 
@@ -1865,321 +2191,5 @@ Subsequently, Steve Arshan Joseph confirmed the team's victory with 63 runs and 
 [Data](articles/1734920d.json)
 
 [Extended Data](ext_articles/1734920d.ext.json)
-
----
-
-### Ronnie De Mel the Socialist MP  who  Ushered in  a Capitalist Economy as Finance Minister.
-
-*2024-03-04 00:59:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83715) · `en`
-
-The  ascension of Junius Richard Jayewardene to the premier seat of poitical power in 1977  paved the way for a drastic transformation of Sri Lanka’s politico-economic landscape and environment. J.R. Jayewardene known popularly as “JR” ushered in political, economic and electoral changes that utterly changed Sri Lanka.  In the words of William Butler Yeats “All changed, changed utterly”
-
-The advent of JR as Prime Minister in 1977 and as the first executive president in 1978 saw great changes in three vital spheres. Firstly the economy was liberalised and free enterprise encouraged. Secondly the Westminster model of Parliamentary governance introduced by the British was turned into an executive presidency. Parliament was de-valued. Thirdly the prevailing “first past the post winner” electoral practice was replaced with the proportional representation scheme.
-
-...
-
-[Data](articles/670bb669.json)
-
-[Extended Data](ext_articles/670bb669.ext.json)
-
----
-
-### Serendib Flour Mills celebrates 15-year journey of purposefully nourishing the nation
-
-*2024-03-04 00:57:27* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-celebrates-15-year-journey-of-purposefully-nourishing-the-nation/34-759131) · `en`
-
-Senior Management of  Serendib Flour Mills and Al-Ghurair (Parent company of Serendib)
-
-Serendib Flour Mills (SFML) is celebrating 15 years of unwavering efforts to uplift the standard of living of all Sri Lankans with the finest wheat flour products, combining technological excellence and superior after sales service.
-
-True to its purpose of nourishing the nation, SFML set up in 2008, said it has positively transformed Sri Lanka’s wider food ecosystem elevating standards in the country’s bakery and food industry and improved the quality of life across the country.
-
-...
-
-[Data](articles/d8d79523.json)
-
-[Extended Data](ext_articles/d8d79523.ext.json)
-
----
-
-### $ 8 m investment to set up bedding ware for export
-
-*2024-03-04 00:55:53* · [`dailyftlk`](https://www.ft.lk/business/8-m-investment-to-set-up-bedding-ware-for-export/34-759130) · `en`
-
-Honor Global Industry Lanka, a Chinese and Vietnam based group signed an agreement recently with the Board of Investment for $ 8 million to manufacture foam mattresses, hybrid mattresses, and pillows for the export market. The venture proposes to create employment opportunities for 700 people. The company plans to target markets such as the US, UK, EU, and Middle East. Here BOI Chairman Dinesh Weerakkody (right) hands over the agreement to the officials of the investing company.
-
-◼️
-
-[Data](articles/9714c7b1.json)
-
-[Extended Data](ext_articles/9714c7b1.ext.json)
-
----
-
-### Two eminent industry leaders join Teejay Lanka board as independent directors
-
-*2024-03-04 00:54:20* · [`dailyftlk`](https://www.ft.lk/business/Two-eminent-industry-leaders-join-Teejay-Lanka-board-as-independent-directors/34-759129) · `en`
-
-Bill McRaith and Shrihan Perera fortify top textile manufacturer’s corporate leadership
-
-Teejay Lanka PLC has announced the appointment of two eminent apparel industry personalities, Messrs. Bill McRaith and Shrihan B. Perera as independent, non-executive directors, effective 1 March 2024.
-
-Recently retired after an illustrious career of more than three decades in the global apparel and retail industries, Bill McRaith was, in his last appointment, PVH Corp. Chief Supply Chain Officer, the American clothing company that owns brands such as Tommy Hilfiger and Calvin Klein.
-
-Based at the company’s New York headquarters, he oversaw PVH’s global supply chain operations and was responsible for developing the global production structure, processes, manufacturing footprint and logistics network that serviced the needs of the company’s global retail and wholesale divisions.
-
-...
-
-[Data](articles/28004a32.json)
-
-[Extended Data](ext_articles/28004a32.ext.json)
-
----
-
-### New Zealand collapsed in the cycle of Nethan Lion, Aussie. Win by 172 runs
-
-*2024-03-04 00:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/177831) · `ta`
-
-Australia won by 172 runs in the 1st Test against New Zealand, with Nethan Lion taking 10 wickets. New Zealand lost all 10 wickets for 196 runs in the first innings, and 258 runs in the second, despite efforts by Rachin Ravindra, Tom Blondal, and Glen Philips. Nethan Lion also achieved a 5-wicket haul in the second innings.
-
-🟩
-
-Australia won by 172 runs as Nethan Lion completed the 10 -wicket festival in the first Test match against New Zealand at Wellington Basin Reserve Stadium.
-
-New Zealand lost all the wickets for 196 runs for the loss of 111 runs for the loss of 3 wickets, with a further 258 runs for the victory on the fourth day of the match.
-
-There was a chance to achieve New Zealand in this match. However, New Zealand's chance was slipped as Nethan Lion took wickets in the morning and recorded a 10 -wicket haul.
-
-New Zealand's faith stars Rachin Ravindra, Tom Blondal and Glen Philips took wickets and took Australia on the road.
-
-Rachin Ravindra scored 59 runs and Tryl Michelle 38 runs for New Zealand.
-
-The two in the 2nd innings of the 2nd innings were 67 runs in the two innings of New Zealand.
-
-In this case, Nethan Lethan equals a record by registering a 5 -wicket focal in the 2nd innings of the match.
-
-...
-
-[Data](articles/ab2ff4c4.json)
-
-[Extended Data](ext_articles/ab2ff4c4.ext.json)
-
----
-
-### Attack at a restaurant in Colombo;Damage to assets
-
-*2024-03-04 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177830) · `ta`
-
-An attack at a restaurant on Armor Road, Colombo, resulted in property damage and employee injuries. The incident was linked to a dispute between the owner and tenants over the restaurant's use.
-
-🟩
-
-Some people who entered a restaurant on Armor Road, Colombo on Sunday (03) have damaged the property of the restaurant and hurt employees.
-
-Police said the attack was the cause of the attack between the owner and the tenants over the use of the restaurant.
-
-◼️
-
-[Data](articles/da893933.json)
-
-[Extended Data](ext_articles/da893933.ext.json)
-
----
-
-### 2024-03-03 (Sunday)
-
-### ACOB’s ‘The Big Compliance Symposium’ tomorrow
-
-*2024-03-03 23:36:30* · [`dailyftlk`](https://www.ft.lk/opinion/ACOB-s-The-Big-Compliance-Symposium-tomorrow/14-759114) · `en`
-
-The Association of Compliance Officers of Banks – Sri Lanka (ACOB) was founded in 2010 marking a pivotal moment in the banking sector, providing a platform dedicated to fostering the exchange of experiences, knowledge and collective problem-solving among compliance officers. The pioneers who laid the foundation of ACOB were professional bankers such as R.M.P. Rathnayake of HNB, Stanley Fernando from Commercial Bank, Ruwani De Silva from NDB, Prasanna Kannangara from DFCC, Summaiya Macan Markar from People’s Bank, among others.
-
-ACOB’s membership represents the entirety of Sri Lanka’s banking landscape, encompassing state-owned licensed commercial banks, licensed private commercial banks, locally operating international commercial banks, and other licensed specialised banks.
-
-...
-
-[Data](articles/17567899.json)
-
-[Extended Data](ext_articles/17567899.ext.json)
-
----
-
-### President attends ‘Battle of the Maroons’ encounter
-
-*2024-03-03 23:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-attends-Battle-of-the-Maroons-encounter/110-278145) · `en`
-
-President Ranil Wickremesinghe graced the 94th 'Battle of the Maroons' cricket clash between Ananda and Nalanda Colleges, iconic Buddhist boys’ schools in Sri Lanka, at the SSC ground in Colombo today (03).Ananda College Principal Lal Dissanayake is also in the picture. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/f58860df.json)
-
-[Extended Data](ext_articles/f58860df.ext.json)
-
----
-
-### Unlocking the power of Enterprise Risk Management: A game-changer for organisational success
-
-*2024-03-03 23:30:40* · [`dailyftlk`](https://www.ft.lk/columns/Unlocking-the-power-of-Enterprise-Risk-Management-A-game-changer-for-organisational-success/4-759113) · `en`
-
-Enterprise Risk Management is pivotal in addressing emerging risks through its multifaceted approach
-
-Enterprise Risk Management has become an increasingly essential solution for mitigating emerging risks, mainly because it provides a structured, systematic, and holistic approach to identifying, assessing, managing, and monitoring risks across an entire organisation. As emerging risks are often characterised by their unpredictability and potential to rapidly evolve, Enterprise Risk Management’s comprehensive framework is particularly suited to address these challenges. Enterprise Risk Management enables organisations to respond to emerging risks in a strategic, coordinated, and agile manner. It’s not just about mitigating risks but also about seizing the opportunities that arise during times of uncertainty, turning potential threats into drivers of innovation and growth
-
-...
-
-[Data](articles/52a805cd.json)
-
-[Extended Data](ext_articles/52a805cd.ext.json)
-
----
-
-### JVP’s stance on FDI and national planning
-
-*2024-03-03 23:24:46* · [`dailyftlk`](https://www.ft.lk/columns/JVP-s-stance-on-FDI-and-national-planning/4-759111) · `en`
-
-National plans have not worked in Sri Lanka or anywhere else. The Indian Planning Commission has been redesigned and renamed. Can there be sectoral policies? Yes, there should be national policies for specific sectors that are based on evidence and broad stakeholder consultation, even in rapidly changing fields such as digital. They should not change every time a Government changes or a minister is appointed. But they should be reviewed and modified as circumstances change. Should efforts be made to articulate sector policies? Yes, to a limited extent. An approach that accepts the imperfection of information and difficulties of articulation and seeks a balance between workable certainty and flexibility is what will work
-
-...
-
-[Data](articles/75637a4a.json)
-
-[Extended Data](ext_articles/75637a4a.ext.json)
-
----
-
-### Ronnie de Mel: A true democrat and an economics philosopher to the end
-
-*2024-03-03 23:13:36* · [`dailyftlk`](https://www.ft.lk/columns/Ronnie-de-Mel-A-true-democrat-and-an-economics-philosopher-to-the-end/4-759109) · `en`
-
-These was Ronnie’s observations: central banks in countries like Singapore and Hong Kong were much more efficient than the central banks in this part of the world, including the central bank in Sri Lanka. But the central banks in India, Pakistan or Bangladesh were worse than even the bad central bank in Sri Lanka. Why the central banks in Singapore or Hong Kong were successful was because those countries continued with open economy policies. They did not adopt socialist systems. They were going on modifying or developing the open economy systems. According to Ronnie, that was the secret to their success. What Ronnie implied was that if the country adopts a set of a good flexible economic policy package, its central bank also becomes an institution of worth
-
-...
-
-[Data](articles/4672510f.json)
-
-[Extended Data](ext_articles/4672510f.ext.json)
-
----
-
-### The New Day of the Church of St. Anthony's Church
-
-*2024-03-03 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177829) · `ta`
-
-"St. Anthony's Church celebrated its New Day Festival on 02/22/2024, featuring a historical Paladeevu and a Jaffna Diocese event led by A.Jebaratnam."
-
-🟩
-
-Historical Paladeevu was held on Saturday (02).
-
-A joint venture was held on Saturday (02) at the New Day Festival which began with the flag pole on 22.02.2024.
-
-The Jaffna Diocese of the Jaffna Diocese was conducted by the shareholders led by A.Jebaratnam.
-
-◼️
-
-[Data](articles/e9d732e6.json)
-
-[Extended Data](ext_articles/e9d732e6.ext.json)
-
----
-
-### Dawoodi Bohras spiritual leader meets President Ranil
-
-*2024-03-03 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97711/dawoodi-bohras-spiritual-leader-meets-president-ranil) · `en`
-
-A significant meeting took place this afternoon (03 March), between the spiritual leader of the Dawoodi Bohras, His Holiness Dr. Syedna Mufaddal Saifuddin Saheb and President Ranil Wickremesinghe at the official residence of the President on Paget Road.
-
-The Dawoodi Bohra community, numbering approximately one million worldwide, resides across various countries including India, Pakistan, USA, UK, Canada, Sri Lanka and Australia.
-
-Dr. Syedna Mufaddal Saifuddin Saheb engaged in a warm and cordial conversation with President Ranil Wickremesinghe, expressing appreciation for the President’s efforts towards bolstering the economy of Sri Lanka.
-
-During their interaction, Dr. Syedna Mufaddal Saifuddin Saheb brought to President Ranil Wickremesinghe’s attention the forthcoming Bohra Conference scheduled to be held this year in the vicinity of the Bambalapitiya Bohra Mosque.
-
-...
-
-[Data](articles/007c2ec3.json)
-
-[Extended Data](ext_articles/007c2ec3.ext.json)
-
----
-
-### Sri Lankan fishermen protest against Indian counterparts for alleged poaching
-
-*2024-03-03 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97710/sri-lankan-fishermen-protest-against-indian-counterparts-for-alleged-poaching) · `en`
-
-Hundreds of Sri Lankan fishermen on Sunday protested against their Indian counterparts for their alleged poaching in the island nation’s waters by sailing to the International Maritime Boundary Line (IMBL) in their trawlers.
-
-The fishermen from Jaffna, Mullaitivu, and Mannar districts are agitated by the alleged recurring illegal fishing by their counterparts from India.
-
-They urged the authorities to stop the Indian fishermen from coming to Sri Lankan waters and vowed stronger protests in the future if the situation remained unchecked.
-
-In recent months, the fisher organisations have led several protests, including organising a protest opposite the Indian consulate in Jaffna.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Sri Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/e6ac15dc.json)
-
-[Extended Data](ext_articles/e6ac15dc.ext.json)
-
----
-
-### Her sister Arathi was welcomed for Shantan's fame
-
-*2024-03-03 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177828) · `ta`
-
-Arathi, Shantan's sister, welcomed for his fame in the Rajiv Gandhi assassination case, greeted with "Anna Warar should not cry." Shantan, sentenced to death, was moved from Vavuniya to Jaffna. His family awaited his visit, and after the funeral, a commemoration will be held at the community center.
-
-🟩
-
-Shantan's fame, who was released in the Rajiv Gandhi assassination case, was brought to his sister's house in Udupitiya.
-
-Santhan's sister, Arathi, greeted, saying, "Anna Warar should not cry."
-
-At this time, with a heavy heart, no one was crying.
-
-The late Thillaiyambalam Sudhendraraja (Shantan) was placed in Jaffna Vadamarachchi and placed in Nelliyadi and Deewil.
-
-In Vavuniya this morning, Shantan's fame, which was placed in Anjali, was moved to Jaffna through the A9 road, Mangulam - Kilinochchi.
-
-Shantan, who was sentenced to death in the murder of former Indian Prime Minister Rajiv Gandhi, was detained at a special camp in Trichy.
-
-It is noteworthy that his family was waiting for Santhan's visit and eventually brought home.
-
-Once the funeral is completed, the seed will be taken and the commemoration will be held at the community center in the town.
-
-The final pilgrimage begins after the Vidal Santhan's brother's native home.
-
-◼️
-
-[Data](articles/bbada3d4.json)
-
-[Extended Data](ext_articles/bbada3d4.ext.json)
-
----
-
-### The sister of the brother of the brother
-
-*2024-03-03 22:17:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அண்ணனின்-பூதவுடலை-ஆரத்தி-எடுத்து-பெற்றுக்-கொண்ட-தங்கை/175-334157) · `ta`
-
-Santhan's body returned to Udupidi, where his sister Arathi entertained, and his mother cried over his lifeless body.
-
-🟩
-
-Shantan's body has been taken to his home in Udupidi.
-
-When Santhan's body was brought home, her sibling sister Arathi had entertained the people.
-
-His sister said, "My goddess comes home and no one should cry."
-
-The mother, who was waiting for her son to be alive, cried over the lifeless body many years. Remble
-
-◼️
-
-[Data](articles/bf934bb3.json)
-
-[Extended Data](ext_articles/bf934bb3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 09:28:01**
+As of **2024-03-04 09:49:20**
 
 ## Newspaper Stats
 
-*Scraped **10,690** Articles*
+*Scraped **10,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 548
 dailyftlk | 572
 islandlk | 578
-adalk | 900
+adalk | 901
 adaderanalk | 1,303
-tamilmirrorlk | 1,308
-virakesarilk | 1,434
+tamilmirrorlk | 1,310
+virakesarilk | 1,435
 dailymirrorlk | 1,622
 adaderanasinhalalk | 1,659
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,659
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,683 (99.9%) of 10,690 articles have been extended.
+10,683 (99.9%) of 10,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### வெளியானது அதிவிசேட வர்த்தமானி அறிவிப்பு
+
+*2024-03-04 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177836) · `ta`
+
+மின்விநியோகம், பெற்றோலிய உற்பத்தி மற்றும் எரிபொருள் விநியோகம் ஆகியவற்றை அத்தியாவசிய சேவைகளாகப் பிரகடனப்படுத்தி அதிவிசேட வர்த்தமானியொன்று வெளியாகியுள்ளது.
+
+ஜனாதிபதியின் உத்தரவின் பெயரில் ஜனாதிபதி செயலாளர் சமன் ஏக்கநாய்கவினால் குறித்த வர்த்தமானி அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7a86c34a.json)
+
+---
 
 ### මෙරට අධික තරබාරු පුද්ගලයින් ගණන ඉහළට - ලෝක  ස්ථුලතා දිනය අදයි
 
@@ -104,6 +118,20 @@ The Commissioner General of Motor Traffic said that this will continue to provid
 
 ---
 
+### டிஜிட்டல் முறையில் மோட்டார் வாகன பதிவு
+
+*2024-03-04 08:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-முறையில்-மோட்டார்-வாகன-பதிவு/175-334161) · `ta`
+
+இன்று முதல் டிஜிட்டல் முறைமைக்கமைய மோட்டார் வாகன போக்குவரத்து திணைக்களம் ஊடாக வழங்கப்படும் சேவைகள் முன்னெடுக்கப்படவுள்ளதாக மோட்டார் வாகன போக்குவரத்து திணைக்களத்தின் ஆணையாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க தெரிவித்துள்ளார்.
+
+மோட்டார் வாகன போக்குவரத்து திணைக்களத்தின் சகல கிளைகள் ஊடாக வழங்கப்படும் சேவைகளுக்காக டிஜிட்டல் முறைமையின் கீழ் பதிவு செய்து நாள் மற்றும் நேரத்தை ஒதுக்கிக் கொள்ள வேண்டும் என அவர் அறிவுறுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/772d1aaf.json)
+
+---
+
 ### 14 year old minister drowns
 
 *2024-03-04 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194098) · `si`
@@ -161,6 +189,24 @@ It applies to all entities, including Public Corporations, Government Department
 ◼️
 
 [Data](articles/d5613d58.json)
+
+---
+
+### எச்சரிக்கை மட்டத்துக்கு உயர்வடையும் வெப்பநிலை
+
+*2024-03-04 07:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்துக்கு-உயர்வடையும்-வெப்பநிலை/175-334160) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்றைய தினமும் வெப்பநிலையானது எச்சரிக்கை மட்டத்துக்கு உயர்வடையக் கூடுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+அதன்படி, வடமேல், மேல் மற்றும் தென், சப்ரகமுவ மாகாணங்களிலும், அனுராதபுரம் மற்றும் மன்னார் மாவட்டங்களின் சில இடங்களிலும் வெப்பநிலை அதிகரித்திருக்கும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+எனவே, சிறுவர்கள், குழந்தைகள், முதியவர்கள் மற்றும் நோய்வாய்ப்பட்டவர்கள் இந்த நிலைமை தொடர்பில் அவதானமாக இருக்குமாறு சுகாதார திணைக்களம் தெரிவித்துள்ளது.
+
+அதிகரிக்கும் வெப்பநிலை காரணமாக ஏற்படக்கூடிய பாதிப்புகளை குறைத்து கொள்வதற்காக போதியளவு நீரை பருகுமாறு வைத்தியர்கள் அறிவுறுத்தியுள்ளனர். (a)
+
+◼️
+
+[Data](articles/7b6388d2.json)
 
 ---
 
@@ -1446,6 +1492,24 @@ The police were able to find out the police when she had more than Rs.
 
 ---
 
+### කථානායකට එරෙහි විශ්වාසභංගය අද භාරදෙයි
+
+*2024-03-03 19:48:16* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකට-එරෙහි-විශ්වාසභංගය-අද-භාරදෙයි/11-408399) · `si`
+
+සමගි ජන බලවේගය සහ සමගි ජන සන්ධානය කථානායකවරයාට එරෙහිව ගෙන එනු ලබන විශ්වාසභංග යෝජනාව අද (04දා) පාර්ලිමේන්තුවට භාර දෙන බව සමගි ජන බලවේගයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා 'අද' පුවත්පතට පැවසීය.
+
+මෙම විශ්වාසභංග යෝජනාව අත්සන් කිරීම විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් පසුගිය 26වැනිදා කොළඹ විපක්ෂනායක කාර්යාලයේදී ආරම්භ කළේය.
+
+ඒ අනුව මෙම විශ්වාසභංග යෝජනාව සඳහා දෙමළ ජාතික සන්ධානය, ජාතික ජනබලවේගය, ශ්‍රී ලංකා නිදහස් පක්ෂය සහාය ලබා දෙන බවට ප්‍රකාශ කර තිබේ.
+
+එමෙන්ම විමල් වීරවංශ, උදය ගම්මන්පිල, වාසුදේව නානායක්කාර, පූජ්‍ය අතුරලියේ රථන හිමියන් ඇතුළු පාර්ලිමේන්තුවේ ස්වාධීනව කටයුතු කරන මන්ත්‍රීවරුන්ද මේ සඳහා සහාය ලබා දෙන බව සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/5f979f43.json)
+
+---
+
 ### Fire at Private Arab Girls' School in Weligama: Heavy damage to property
 
 *2024-03-03 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177825) · `ta`
@@ -2075,85 +2139,5 @@ It is noteworthy that many opposition parties, including the United People's Pow
 [Data](articles/959e48ee.json)
 
 [Extended Data](ext_articles/959e48ee.ext.json)
-
----
-
-### Save Suwaseriya by increasing salary of workers: Harsha
-
-*2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Save-Suwaseriya-by-increasing-salary-of-workers-Harsha/108-278133) · `en`
-
-Colombo, March 3 (Daily Mirror)- While highlighting that the Suwaseriya ambulance service is fighting for its survival, its founder Harsha de Silva said its employee should be given a salary increment as a priority.
-
-"The CEO of Suwaseriya is fighting to save the ambulance service. Its employees can easily obtain visas from countries like Canada. A battle is being fought to save the ambulance service in such a scenario," he told a media briefing.
-
-He said it was most unfair for the Central Bank officials to increase their own salaries when Suwaseriya employees have not received any increments despite working 24 hours of the day," he added.
-
-◼️
-
-[Data](articles/41049e3d.json)
-
-[Extended Data](ext_articles/41049e3d.ext.json)
-
----
-
-### Parents urged to cease pressure on primary school children
-
-*2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Parents-urged-to-cease-pressure-on-primary-school-children/155-278134) · `en`
-
-The pressure exerted by parents on their children during primary education from Grades 1to 5 should be stopped and the necessary environment will be prepared to reduce its competitiveness, Education Minister Susil Premajayantha said.
-
-However, the Grade Five scholarship examination will be held in the future, he assured.
-
-In order to evaluate students, measures are taken to evaluate their good skills by recognizing the skills displayed by children for activities outside the classroom, the Minister added.
-
-◼️
-
-[Data](articles/77d1a5ba.json)
-
----
-
-### Parents urged to cease pressure on primary school children
-
-*2024-03-03 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parents-urged-to-cease-pressure-on-primary-school-children/108-278134) · `en`
-
-The pressure exerted by parents on their children during primary education from Grades 1to 5 should be stopped and the necessary environment will be prepared to reduce its competitiveness, Education Minister Susil Premajayantha said.
-
-However, the Grade Five scholarship examination will be held in the future, he assured.
-
-In order to evaluate students, measures are taken to evaluate their good skills by recognizing the skills displayed by children for activities outside the classroom, the Minister added.
-
-◼️
-
-[Data](articles/a63235d8.json)
-
-[Extended Data](ext_articles/a63235d8.ext.json)
-
----
-
-### “The farmers are a great profit for the country”
-
-*2024-03-03 16:20:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளால்-நாட்டுக்கு-பெரும்-இலாபம்/175-334139) · `ta`
-
-Farmers in Sri Lanka, led by Agriculture Minister Mahinda Amaraweera, have significantly reduced the country's reliance on imported rice, saving over $600 million in 2023 and 2024. They've achieved this by increasing rice production, with a record harvest of 12,000 kg per hectare. The government is promoting Giri Samba cultivation, giving farmers control over rice prices.
-
-🟩
-
-Agriculture and Plantation Industries Minister Mahinda Amaraweera says farmers and foreign workers have been dedicated to reduce the value of the increased dollar rate.
-
-The Minister said that the value of the dollar against the rupee in recent years has increased rapidly and the value of the dollar has declined somewhat.
-
-By 2022, Sri Lanka was imported about 800,000 metric tonnes of rice, for which the government had to spend $ 300 million.
-
-But not a single rice was imported in 2023, and in the two years 2023 and 2024, farmers in the country saved over $ 600 million.
-
-In addition, in 2023 and 2024, the people of this country will consume domestic rice, not the imported rice, but that respect and pride must join the Sri Lankan farmers.
-
-Representatives of some political groups that claim to be farmers' representatives are trying to disrupt agriculture by acting like farmers, but farmers are not caught up in this trap.
-
-...
-
-[Data](articles/e14b865c.json)
-
-[Extended Data](ext_articles/e14b865c.ext.json)
 
 ---

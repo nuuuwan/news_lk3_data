@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 12:39:07**
+As of **2024-03-04 13:15:14**
 
 ## Newspaper Stats
 
-*Scraped **10,733** Articles*
+*Scraped **10,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 551
 dailyftlk | 572
 islandlk | 578
 adalk | 906
-adaderanalk | 1,311
+adaderanalk | 1,312
 tamilmirrorlk | 1,312
 virakesarilk | 1,435
-dailymirrorlk | 1,633
+dailymirrorlk | 1,635
 adaderanasinhalalk | 1,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,718 (99.9%) of 10,733 articles have been extended.
+10,733 (100.0%) of 10,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Shooting in Hanwella leaves one dead
+
+*2024-03-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shooting-in-Hanwella-leaves-one-dead/108-278205) · `en`
+
+Colombo, March 04 (Daily Mirror)  - A shooting incident was reported in the Niripola area of Hanwella, resulting in the death of an individual, according to police.
+
+◼️
+
+[Data](articles/06c936ff.json)
+
+---
+
+### Indian companies eye critical minerals mining in Sri Lanka
+
+*2024-03-04 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97721/indian-companies-eye-critical-minerals-mining-in-sri-lanka) · `en`
+
+India’s Ministry of Mines hosted two meetings with industry stakeholders in January to discuss opportunities for the mining of critical minerals by Indian companies in Sri Lanka and Australia. These meetings were organised in line with the ministry’s broader push to strengthen India’s critical minerals supply chain through the acquisition of overseas mineral assets.
+
+The ministry met with representatives from companies including Ola Electric, Hindalco Industries, and Gujarat Mineral Development Corporation to discuss the prospects of graphite mining in Sri Lanka on January 5. Three days later, it organised a luncheon meeting to explore avenues for mining opportunities in Australia, which was attended by the Indian High Commissioner-designate to Australia, Gopal Bagley, and various industry representatives from companies including Coal India, Steel Authority of India, Vedanta, Tata Steel, Adani Group, and JSW Steel.
+
+...
+
+[Data](articles/402ffe03.json)
+
+---
+
+### SJB to raise objections against Fonseka’s case
+
+*2024-03-04 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-raise-objections-against-Fonsekas-case/108-278202) · `en`
+
+Colombo, March 4 (Daily Mirror)- Samagi Jana Balawegaya (SJB) leader Sajith Premadasa and its office bearers are expecting to raise objections against the plaint filed by Field Marshal Sarath Fonseka.
+
+SJB leader Sajith Premadasa, through his lawyer informed the Colombo District Court today that they would raise objections against the enjoining order issued by the Colombo District Court on February 19, preventing the SJB from removing Field Marshal Sarath Fonseka from his party membership and positions.
+
+Sarath Fonseka obtained this enjoining order, preventing the SJB from removing him on the basis of remarks he had made against offering party membership to former Army Commander Daya Ratnayake.
+
+This matter is to be taken up for objections at 1.30 pm today.
+
+◼️
+
+[Data](articles/2e1cb391.json)
+
+---
 
 ### Principal arrested over alleged sexual assault of woman inside school
 
@@ -48,6 +92,8 @@ The arrested person will be produced before Monaragala Magistrate’s Court toda
 
 [Data](articles/2e029b3b.json)
 
+[Extended Data](ext_articles/2e029b3b.ext.json)
+
 ---
 
 ### One killed in shooting in Hanwella
@@ -60,35 +106,49 @@ A person has been killed in a shooting incident that took place in the Niripola 
 
 [Data](articles/2dbb54bb.json)
 
+[Extended Data](ext_articles/2dbb54bb.ext.json)
+
 ---
 
-### තවත් වෙඩිතැබීමක්
+### Another shot
 
 *2024-03-04 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194110) · `si`
 
-හංවැල්ල, නිරිපොළ ප්‍රදේශයේ වෙඩිතැබීමකින් එක් පුද්ගලයෙකු මියගොස් ඇති බව වාර්තා වේ.
+In Hanwella, a shooting has claimed one life.
+
+🟩
+
+One person has been killed in a shooting in Hanwella, Hanwella.
 
 ◼️
 
 [Data](articles/87571478.json)
 
+[Extended Data](ext_articles/87571478.ext.json)
+
 ---
 
-### 2024 ජනවාරි මාසය රටට සුබ වෙලා
+### January 2024 congratulated the country
 
 *2024-03-04 11:53:03* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනවාරි-මාසය-රටට-සුබ-වෙලා/11-408407) · `si`
 
-මේ වසරේ ජනවාරි මාසය තුළ ශ්‍රි ලංකාවට විදේශ විනිමය ගලා ඒම් තුළ පැහැදිලි වර්ධනයක් දක්නට ලැබේ. ඒ අනුව සංචාරක ව්‍යාපාරය කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කරමින් 2024 ජනවාරි මාසයේදී ඇමෙරිකානු ඩොලර් මිලියන 342ක ආදායමක් උපයා ඇති අතර එය පසුගිය වසරේ ජනවාරි මාසය හා සැසදීමේදී සියයට 122ක වර්ධනයකි.
+In January 2024, Sri Lanka saw significant growth in foreign exchange flows, with tourism earning $342 million, a 342% increase from last year. Foreign workers sent $488 million in remittances, a 5% increase from January 2023. The Sri Lankan rupee increased by 14.6%, and foreign reserves rose to $4.5 billion, with the forex pool growing by 114%.
 
-එසේම විදෙස් ගත ශ්‍රමිකයන් ජනවාරි මාසයේදී ප්‍රේෂණ ලෙස ඩොලර් මිලියන 488ක් එවා ඇති අතර එය 2023 ජනවාරි මාසයේදී වාර්තා වූ ඩොලර් මිලියන 467ට සාපේක්ෂව සියයට 5ක වර්ධනයකි.
+🟩
 
-එසේම දැවැන්ත කඩා වැටීමකට ලක්වූ ශ්‍රී ලංකා රුපියල මේ වසරේ ජනවාරි මාසයේදී 14.6%කින් අතිප්‍රමාණය වී තිබේ.
+Sri Lanka has a clear growth in foreign exchange flows in January this year. Accordingly, the tourism has earned a US $ 342 million in January 2024, a growth of Rs. 342 percent to January last year.
 
-මීට අමතරව විදේශ සංචිතය ජනවාරි මාසයේදී ඩොලර් බිලියන 4.5 දක්වා ඉහළ ගොස් ඇති අතර එය 2023 ජනවාරි මාසයේදී ඩොලර් බිලියන 2.1  ලෙස් දැක්වූ අතර ඒ අනුව විදේශ විනිමය සංචිතය සියයට 114% කින් ඉහළ ගොස් තිබේ.
+Also, foreign workers have sent $ 488 million in remittances in January, a growth of 5 percent compared to $ 467 million reported in January 2023.
+
+The Sri Lankan rupee has been increased by 14.6% in January this year.
+
+In addition, the foreign reserves have risen to $ 4.5 billion in January, and the forex pool has increased by 114%.
 
 ◼️
 
 [Data](articles/725ccf1d.json)
+
+[Extended Data](ext_articles/725ccf1d.ext.json)
 
 ---
 
@@ -110,83 +170,111 @@ The mother, father and son of the same French family, the driver of the car and 
 
 ---
 
-### වෛද්‍යවරු නෙරපීමට දකුණු කොරියාව තීරණය කරයි
+### South Korea decides to expel doctors
 
 *2024-03-04 11:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194109) · `si`
 
-වැඩ වර්ජනයක නිරතවන පුහුණු වෛද්‍යවරු 7,000ක ලියාපදිංචිය අහෝසි කිරීමට දකුණු කොරියාව තීරණය කර තිබේ.
+South Korea expels 7,000 striking doctors, ordered back to work by the Deputy Health Minister.
 
-එරට නියෝජ්‍ය සෞඛ්‍ය අමාත්‍යවරයා පැවසුවේ එම වෛද්‍යවරුන්ට නැවත සේවයට වාර්තා කරන ලෙස නියෝග කර ඇතත් ඔවුන් එය නොසලකා කටයුතු කරන බවයි.
+🟩
+
+South Korea has decided to abolish the registration of 7,000 training doctors on strike.
+
+The Deputy Health Minister of Health said that the doctors were ordered to report back to work.
 
 ◼️
 
 [Data](articles/09c2498f.json)
 
+[Extended Data](ext_articles/09c2498f.ext.json)
+
 ---
 
-### කාන්තාවකට අතවර කළ විදුහල්පති අත්අඩංගුවට
+### Principal arrested for abusing a woman
 
 *2024-03-04 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194107) · `si`
 
-කාන්තාවකට  අතවර කිරීමේ චෝදනාවක් සම්බන්ධයෙන් මොනරාගල ප්‍රදේශයේ පාසලක විදුහල්පතිවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A principal in Moneragala was arrested for abusing a woman at the school's cafeteria. The Dowgahawela Police made the arrest, and the suspect will appear in court today.
 
-දොඹගහවෙල පොලීසිය විසින් ඊයේ (03) රාත්‍රී සැකකරු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+🟩
 
-පාසලේ ආපන ශාලාවේ සේවයේ නිරතව සිටි කාන්තාවකට සැකකාර විදුහල්පතිවරයා අතවර කිරීමට උත්සාහ කර ඇති බව වාර්තා වේ.
+A principal of a school in Moneragala has been arrested for charges of abuse.
 
-අත්අඩංගුවටගත් සැකකාර විදුහල්පතිවරයා අද (04) මොනරාගල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The suspect was arrested by the Dowgahawela Police yesterday (03).
+
+The suspect Principal has attempted to abuse a woman who was working at the school's cafeteria.
+
+The suspects are to be produced before the Moneragala Magazuta Magistrate's Court today (04).
 
 ◼️
 
 [Data](articles/17c528d5.json)
 
+[Extended Data](ext_articles/17c528d5.ext.json)
+
 ---
 
-### සුප්‍රකට ගායිකාවගේ නමින් සරසවියට එක්කළ අලුත්ම පාඨමාලාව
+### Latest Course with the University of the famous
 
 *2024-03-04 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194108) · `si`
 
-අමෙරිකානු ගීත රචිකාවියක් මෙන්ම ප්‍රකට ගායිකාවක් වන ටේලර් ස්විෆ්ට් තරුණ ප්‍රජාව අතර සුප්‍රසිද්ධ චරිතයකි.
+Taylor Swift, a renowned American singer and songwriter, has inspired a specialized course at a leading Philippine university, "Celibrate Stedies - Taylor Swift In Fokest," focusing on her impact. Over 300 scholars are involved, highlighting her significance in 2023.
 
-ඇයගේ හැකියාවන්‍ සහ දක්ෂතාවයන් නිසාම ඇයට විශේෂ සම්මාන රැසක හිමිකාරියක් වීමට වරම් ලැබිණාය.
+🟩
 
-ටේලර් ස්විෆ්ට් මේ වනවිට ආසියානු කලාපයේ සංචාරයක් අරඹා සිටින අතර ඒ හේතුවෙන් පිලිපීනයේ ද තරුණ ප්‍රජාව ඇය ගේ තොරතුරු සම්බන්ධයෙන් දැඩි උනන්දුවක් දක්වයි.
+An American songwriter, as well as a famous singer, is a well-known character among young people.
 
-මේ හේතුවෙන් ටේලර් ස්විෆ්ට් ගේ ප්‍රසිද්ධිය සහ ඇයගෙන් සමාජයට ඇති බලපෑම පිළිබඳව නව විශේෂිත පාඨමාලාවක් හඳුන්වාදීමට පිලිපීනයේ ප්‍රමුඛ විශ්වවිද්‍යාලයක් කටයුතු කර තිබේ.
+Because of her talents and talents, she was owned by a wide range of special awards.
 
-එම පාඨමාලාව නම් කර ඇත්තේ, "සෙලිබ්‍රටි ස්ටඩීස් - ටේලර් ස්විෆ්ට් ඉන් ෆෝකස්" නමිනි.
+Taylor Swift has begun a tour of the Asian region, and as well as the young people in the Philippines, the young body is interested in her information.
 
-ඒ අනුව විශ්ව විද්‍යාල සිසුන් මෙම විෂය ඒකකය හරහා ටේලර් ස්විෆ්ට් ගේ ප්‍රසිද්ධිය සහ සමාජයට ඇති බලපෑම සම්බන්ධයෙන් අධ්‍යයනය කළ යුතු වන බව විදෙස් වාර්තා පවසයි.
+Due to this, a leading university in the Philippines has worked to introduce a new specialized course for Taylor Swift and the impact of her.
 
-විද්‍යාර්ථීන් 300කට අධික පිරිසක් මෙම අධ්‍යයනය සමග සම්බන්ධ වී සිටින බව සඳහන් විය.
+The course is named, "Celibrate Stedies - named Taylor Swift In Fokest.
 
-ටේලර් ස්විෆ්ට්, 2023 වසරේ ලෝකයේ වැඩිම සංගීත ප්‍රසංග ගණනක් පැවැත්වූ ගායිකාව ලෙස ද වාර්තා අතරට එක් ව සිටින්නීය.
+Accordingly, university students need to study the publication of Taylor Swift and the impact on the subject of Taylor Swift through this subject.
 
-එමෙන්ම ටයිම්ස් සඟරාව ඇය 2023 වසර සඳහා වසරේ පුද්ගලයා ලෙස ද නම් කළේය.
+Over 300 scholars have been involved in connection with this study.
+
+Taylor Swift is also one of the many musical treasures in 2023 in the world.
+
+The Times also named her as the individual for 2023.
+
+According to the Forbes magazine, Taylor is among the world's most powerful women.
 
 ...
 
 [Data](articles/3aecbfad.json)
 
+[Extended Data](ext_articles/3aecbfad.ext.json)
+
 ---
 
-### ලංකාවෙන් යන්න ගිය ඊශ්‍රායෙල් තරුණිය ළඟ සජීවි පතොරමක්
+### Live mandraid near the Israelite girl who visited Sri Lanka
 
 *2024-03-04 11:21:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-යන්න-ගිය-ඊශ්‍රායෙල්-තරුණිය-ළඟ-සජීවි-පතොරමක්/11-408406) · `si`
 
-ශ්‍රී ලංකාවේ සංචාරයක නිරත වී ආපසු ඊශ්‍රායලය බලා යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි ඊශ්‍රායල ජාතික තරුණියකගේ ගමන් මල්ලේ තිබූ මිලි මීටර් 5.56 සජීවී පතුරමක් කටුනායක ගුවන් තොටුපොළ ආරක්ෂක අංශ නිලධාරීන් විසින් සොයා ගෙන ගුවන් තොටුපොළ පොලිසිය වෙත 03/04 දින අලුයම  භාර දී තිබේ .
+A live mandrake was found near an Israeli girl at Katunayake Airport in Sri Lanka. She was returning from Israel and was scheduled to leave for Dubai. The discovery was made during a SCAN Test by airport security. The girl handed over the item to the Katunayake airport police, who are investigating.
 
-ඇය 22 හැවිරිදි ඊශ්‍රායල යුධ හමුදාවේ සේවය කළ තරුණියකි. ඇය සිය මිතුරියක සමග ශ්‍රී ලංකාවේ සංචාරයක් සදහා පැමිණ තිබුණි.
+🟩
 
-ඇය 03/04 දින අලුයම 01.55 ට ඩුබායි බලා පිටත්ව යාමට නියමිත ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 570 දරන ගුවන් යානය වෙත පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+Katunayake Airport security officers have been found to the Airport spread of 5.56 mm on the luggage of a national girl who was returning to Sri Lanka to return to Sri Lanka.
 
-එහිදී ඇය විසින් රැගෙන විත් තිබූ ගමන් මලු , ගුවන් තොටුපොළ ආරක්ෂක අංශයේ නිලධාරීන් විසින් පරිලෝකන යන්ත්‍රයක් ( Scan Test ) මගින් පරීක්ෂා කිරීමකට ලක් කිරීමේ දී මෙම සජීවී පතුරම සොයා ගෙන තිබේ .
+She is a young man who served in Israel's Israeli Army. She had arrived in Sri Lanka with her friend.
 
-පසුව මෙම තරුණිය , මෙම පතුරම ද සමග කටුනායක ගුවන් තොටුපොළ පොලිසිය වෙත භාර දී තිබේ .
+She is scheduled to leave for Dubai at 01.55 am on 24th March 03.55.
 
-...
+The live spread has been found in the examination of the luggage, airport security officers (SCAN Test) by the Airport Security Officer of Defense.
+
+Later, the girl had subsequently handed over the Katunayake airport police with this demonstration.
+
+The OIC of the Katunayake Airport Police is due to be produced before the Negombo Magistrate's Court on the leading her husband.
+
+◼️
 
 [Data](articles/3e8a4820.json)
+
+[Extended Data](ext_articles/3e8a4820.ext.json)
 
 ---
 
@@ -246,23 +334,31 @@ CEB revenues rose 55 percent to 156 billion rupees in the December quarter, cost
 
 [Data](articles/10254cdf.json)
 
+[Extended Data](ext_articles/10254cdf.ext.json)
+
 ---
 
-### මාතලේ රේවත නාහිමි දේශපාලකයින්ට දෙහි කපති - මන්ත්‍රී පරලවෙයි
+### Ravaya Thera posts hearing to politicians
 
 *2024-03-04 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194106) · `si`
 
-මේ රටේ පත්වෙන දේශපාලකයින් මහජනයාට සේවය කිරීම වෙනුවට තම උදර පෝෂණය වෙනුවෙන් පමණක් කටයුතු කරන බව උඩුනුවර ප්‍රධාන සංඝ නායක මාතලේ රේවත හිමි පවසති.
+Ravaya Thera criticizes politicians for focusing on their own development in Udunuwara, Matale, Matale, during the Community Green Center's opening. Professor Ranjith Bandara responds.
 
-උන්වහන්සේ මෙසේ ප්‍රකාශ කළේ උඩුනුවර සම් සම් පදනම විසින් ඉදිකරන ලද ප්‍රජා හරිත මධ්‍යස්ථානය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+🟩
 
-"ඒ අය අපිව රවට්ටලා දියවන්නාවට යනවා. හොඳට කාලා බීලා පස් අවුරුද්ද තුළ තමන්ගේ අභිවෘද්ධිය වෙනුවෙන් සැලසුම් හදනවා.."
+Udunuwara Chief Sangha Chairman, Matale, says that the politicians of this country are acting in the Udunuwara, Matale, Matale.
 
-මෙම උත්සවයට එක්වූ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය රංජිත් බණ්ඩාර ඊට ප්‍රතිචාර දැක්වීය.
+He was speaking at the opening of the Community Green Center built by the Udunuwara lease basis.
+
+"They go down to the Diyawanna. Carry and arranged for their own development during the aftermath year. "
+
+Parliamentarian Professor Ranjith Bandara responded to this event.
 
 ◼️
 
 [Data](articles/ef36ed25.json)
+
+[Extended Data](ext_articles/ef36ed25.ext.json)
 
 ---
 
@@ -282,27 +378,33 @@ He was remanded till March 14 over the import of substandard human Immunoglobuli
 
 ---
 
-### විදෙස් පවුලක්ම රෝහලට යැවූ දඹුල්ලේ බිහිසුණු අනතුර
+### The horrific accident in Dambulla who sent foreign family to the hospital
 
 *2024-03-04 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194105) · `si`
 
-දඹුල්ල - හබරණ ප්‍රධාන මාර්ගයේ පැල්වෙහෙර ප්‍රදේශයේදී අද (04) උදෑසන බස් රථයක් සහ මෝටර් රථයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබිණි.
+A horrific accident on the Dambulla-Habarana road involved a bus from Trincomalee to Colombo and a car carrying a French family. The car's driver and son were hospitalized. The bus, traveling at high speed, caused a traffic jam and stopped across the road. A nearby market and shop were damaged. The bus driver surrendered to police, and several passengers were injured.
 
-අනතුරින් මෝටර් රථයේ ගමන් කරමින් සිටි ප්‍රංශ ජාතික එකම පවුලේ මව, පියා සහ පිරිමි දරුවෙක් මෙන්ම බස් රථයේ ගමන් කරමින් සිටි මෙහෙණින් වහන්සේ නමක් තුවාල ලබා දඹුල්ල රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-මෙසේ අනතුරට ලක්ව තිබුණේ, ත්‍රිකුණාමලයේ සිට කොළඹ බලා ධාවනය වෙමින් තිබූ පෞද්ගලික බස් රථයක් හා දඹුල්ලේ සිට සීගිරිය දක්වා ගමන් කරමින් තිබූ විදේශිකයින් රැගත් මෝටර් රථයකි.
+A bus and a car collided at the Dambulla - Habarana main road in the Habarana main road.
 
-බස් රථය අධික වේගයෙන් ගමන් කර ඇති අතර, වෙනත් වාහනයකට ඉස්සර කිරීමට යෑමේ දී ඉදිරියෙන් පැමිණි මෝටර් රථයේ ගැටී අනතුර සිදුවූ බව අනතුර දුටු පිරිස පවසති.
+The French national, a father and boy, who was traveling in the car, was admitted to the Dambulla hospital.
 
-අනතුර හේතුවෙන් ප්‍රධාන මාර්ගයේ වාහන ගමනාගමනයට බාධා එල්ල වූ අතර, බස් රථය මාර්ගය හරහා නැවති තිබිණි.
+The accident was a private bus traveling from Trincomalee to Colombo and a foreigners carrying foreigners from Dambulla and Sigiriya.
 
-මෝටර් රථය අසල කුඩා වෙළෙඳසැලකට කඩා වැදී දැඩි ලෙස හානි සිදුව ඇත.
+The bus has traveled heavy rapidly, and the number of accidents that the accident had occurred in the car.
 
-බස්රථයේ රියදුරු පොලීසියට භාරවී ඇති අතර, බස් රථයේ සිටි මගීන් කිහිපදෙනෙකුට ද සුළු තුවාල සිදුව ඇතැයි පොලීසිය සඳහන් කළේය.
+Due to the accident, traffic was interrupted and the bus stopped across the road.
+
+A small market was severely damaged by a small shop near the car.
+
+The driver of the bus has surrendered to the police and several passengers on the bus had also been injured.
 
 ◼️
 
 [Data](articles/6a3cd14d.json)
+
+[Extended Data](ext_articles/6a3cd14d.ext.json)
 
 ---
 
@@ -332,21 +434,27 @@ The same applies to all corporations, including public companies, government dep
 
 ---
 
-### ෆොන්සේකාගේ වාරණ නියෝගයට සජබයෙන් විරෝධතා
+### Protests against Fonseka's injunction
 
 *2024-03-04 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194104) · `si`
 
-සමගි ජන බලවේගයේ සභාපති ෆිලඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතාගේ පක්ෂ සාමාජිකත්වය, ඔහු දරන තනතුරු අත්හිටුවීම සහ විනය ක්‍රියාමාර්ග ගැනීම  වළක්වාලමින් නිකුත් කළ වාරණ නියෝගය ඉවත් කරන ලෙස ඉල්ලා විරෝධතා ඉදිරිපත් කරන බව වගඋත්තරකාර සමගි ජන බලවේගය අද (04) කොළඹ දිසා අධිකරණය හමුවේ ප්‍රකාශ කළේය.
+Protests against Fonseka's injunction in Colombo District Court. Sarath Fonseka, Samagi Power Field Marshal, faces suspension or disciplinary action. Attorney Romesh de Silva represents Fonseka. Court ordered injunction this afternoon.
 
-සරත් ෆොන්සේකා මහතා ගොනුකළ පෙත්සමක් අද කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා මෙම විරෝධතා මතු කළේය.
+🟩
 
-ඒ අනුව මෙම විරෝධතා පිළිබඳ විභාගය අද පස්වරුවේ පැවැත්වීමටද අධිකරණය විසින් නියම කරනු ලැබීය.
+The respouty community in the Colombo District Court today (04) stated that the Chairman of the Samagi Power Fhelrd Marshal Sarath Fonseka, the party membership issued by the party membership, suspended or disciplinary action, said in the Colombo District Court.
 
-සරත් ෆොන්සේකා මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලූ කොළඹ දිසා අධිකරණය ඉකුත්දා සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, එහි මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර ජාතික සංවිධායක තිස්ස අත්තනායක සහ භාණ්ඩාගාරික හර්ෂ ද සිල්වා යන මහත්වරු වෙත මෙම වාරණ නියෝග නිකුත් කර තිබිණි.
+Attorney-at-Law Romesh de Silva, who appeared on behalf of the leader of the Sarath Fonseka, was held on behalf of the leader of the Sarath Fonseka.
+
+Accordingly, the court was ordered by the courts this afternoon.
+
+The Weli-Madduada of the Colombo District Court has issued the injunction ordered orders from the Colombo District Court recently.
 
 ◼️
 
 [Data](articles/104362b7.json)
+
+[Extended Data](ext_articles/104362b7.ext.json)
 
 ---
 
@@ -412,19 +520,25 @@ Harshana warned that the prices of coconut oil will also go up in the coming day
 
 ---
 
-### කරාපිටියේ වෛද්‍යවරයෙක් අභිරහස් ලෙස මරුට
+### Doctor killed in Karapitiya
 
 *2024-03-04 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194103) · `si`
 
-කරාපිටිය ශික්ෂණ රෝහලේ එක්ස්රේ අංශයේ සේවය කරනු ලැබූ වෛද්‍යවරයෙක් අභිරහස් ලෙස ඔහුගේ නිවසේ දී මියගොස් සිටිය දී පොලීසිය විසින් සොයාගෙන තිබේ.
+Dr. Prabath Chamara Sampath, a resident of Thalagahahena Lane, Galle, was found dead in his Karapitiya home. The police discovered the body while he was away. The deceased's body has been sent to the Karapitiya Judicial Medical Unit.
 
-එලෙස මියගොස් ඇත්තේ ගාල්ල, තලගහහේන පටුමඟ ප්‍රදේශයේ පදිංචිව සිටි ප්‍රභාත් චාමර සම්පත් නැමති 37 හැවිරිදි අයෙකි.
+🟩
 
-සිදුවීම සිදුවු අවස්ථාවේදී වෛද්‍යවරිය නිවසේ සිට නොමැති අතර, මියගිය වෛද්‍යවරයාගේ දේහය මේ වනවිට පශ්චාත් මරණ පරීක්ෂණය සඳහා කරාපිටිය අධිකරණ වෛද්‍ය ඒකකය වෙත යොමුකර ඇත.
+Police have found mysteriously in his house while he was killed in his house.
+
+The deceased has been identified as Prabath Chamara Sampath, a resident of Thalagahahena Lane, Galle.
+
+When the incident occurred, the doctor has not been home, and the deceased doctor's body has been sent to the Karapitiya Judicial Medical Unit.
 
 ◼️
 
 [Data](articles/4d47c7ac.json)
+
+[Extended Data](ext_articles/4d47c7ac.ext.json)
 
 ---
 
@@ -575,6 +689,8 @@ The Colombo Stock Exchange opened up; The All Share was up 0.60 percent at 10,75
 ◼️
 
 [Data](articles/3694c916.json)
+
+[Extended Data](ext_articles/3694c916.ext.json)
 
 ---
 
@@ -969,6 +1085,8 @@ Swaps with domestic counterparties lead to liquidity being injected into money m
 ...
 
 [Data](articles/9767a83d.json)
+
+[Extended Data](ext_articles/9767a83d.ext.json)
 
 ---
 
@@ -2055,71 +2173,5 @@ The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1
 [Data](articles/5021dabf.json)
 
 [Extended Data](ext_articles/5021dabf.ext.json)
-
----
-
-### Sri Lanka’s tourism sector sees 122% growth in January, says State Minister
-
-*2024-03-03 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97708/sri-lankas-tourism-sector-sees-122-growth-in-january-says-state-minister) · `en`
-
-A Sri Lankan State Minister on Sunday (03 March) said the country’s external sector performance has seen a marked improvement year on year, with tourism fetching $342 million in January 2024, an impressive 122% jump from last year.
-
-Speaking in Ruwanwella, his home constituency, Minister of State for Finance Ranjith Siyambalapitiya was delving into the Central Bank of Sri Lanka’s external sector indicators issued mid-week.
-
-Siyambalapitiya said the bank figures show that receipts from tourism had fetched $342 million, which is a 122% growth in January 2024 year-on-year.
-
-The inward remittances from Sri Lankan expats in January 2024 had grown by 5% to $488 million up from $467 million in January 2023.
-
-The Sri Lankan rupee, which had seen a massive slump during the unprecedented economic crisis, had appreciated by 14.6% in January of this year.
-
-The foreign reserves had increased to $4.5 billion in January, up 114% from $2.1 billion in January 2023.
-
-...
-
-[Data](articles/b43e6cb4.json)
-
-[Extended Data](ext_articles/b43e6cb4.ext.json)
-
----
-
-### Fire breaks out at school in Weligama
-
-*2024-03-03 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97707/fire-breaks-out-at-school-in-weligama-) · `en`
-
-Despite nearly 150 students being present inside the premises at the time of the incident, no injuries or casualties have been reported.
-
-However, Ada Derana’s reporter confirmed that the fire has caused significant damage to the school’s property.
-
-While the exact cause of the fire remains unknown, police are conducting further investigations to determine the underlying factors.
-
-◼️
-
-[Data](articles/d84422df.json)
-
-[Extended Data](ext_articles/d84422df.ext.json)
-
----
-
-### The President's instructions to prepare a national program that can be implemented from the lower level in order to succeed in the agricultural modernization program
-
-*2024-03-03 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177826) · `ta`
-
-President Ranil Wickremesinghe directs authorities to develop a national agricultural modernization program, emphasizing collaboration between state and private sectors. The initiative aims to overcome implementation challenges through a Joint Program involving all stakeholders. Senior Professor Gamini Senanayake highlights the progress and need for a cabinet subcommittee to address obstacles.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the relevant authorities to combine all parties in the state and private sector to prepare a national program to implement the agricultural modernization program.
-
-The President stressed the importance of the support of the state and private agricultural research institutions and the university structure to win the challenges faced by the implementation of these projects, even though the annual allocation of the budget is being made at national, provincial and local government levels, as state and private companies are acting separately.
-
-President Ranil Wickremesinghe made these comments at a recent meeting of the Agricultural Modernization Program held at the Presidential Office.
-
-President Ranil Wickremesinghe pointed out the need to prepare this national program in order to implement the policies of the government at the lower level.
-
-...
-
-[Data](articles/0cbdf513.json)
-
-[Extended Data](ext_articles/0cbdf513.ext.json)
 
 ---

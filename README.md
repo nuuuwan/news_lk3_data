@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 19:17:43**
+As of **2024-03-04 19:34:03**
 
 ## Newspaper Stats
 
-*Scraped **10,817** Articles*
+*Scraped **10,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ adaderanalk | 1,320
 tamilmirrorlk | 1,322
 virakesarilk | 1,456
 dailymirrorlk | 1,647
-adaderanasinhalalk | 1,683
+adaderanasinhalalk | 1,684
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,814 (100.0%) of 10,817 articles have been extended.
+10,817 (100.0%) of 10,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### තම දරුවා ව වෙනත් පාසලකට දැමීමට උත්සාහ කරන දෙමව්පියන්ට විශේෂ දැනුම්දීමක්
+### බංග්ලාදේශයට දැවැන්ත ඉලක්කයක්
+
+*2024-03-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194127) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන පළමු 20යි 20 ජාත්‍යන්තර තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 3ක් දැවී ලකුණු 206ක් ලබාගත්තේය.
+
+ශ්‍රී ලංකාව වෙනුවෙන් කුසල් මෙන්ඩිස් පන්දු 36කදී ලකුණු 59ක් රැස්කළ අතර සදීර සමරවික්‍රම නොදැවී ලකුණු 61ක් රැස්කළේය.
+
+ප්‍රවේගකාරී ඉනිමක් ක්‍රීඩාකළ නායක චරිත් අසලංක පන්දු 21කදී නොදැවී ලකුණු 44යි. ඊට 6 පහර 6ක් ඇතුළත් විය.
+
+සදීර සහ අසලංක පන්දු 37කදී සිව් වන කඩුල්ල සඳහා ලකුණු 73ක් එක් කළහ.
+
+◼️
+
+[Data](articles/0bc3d07f.json)
+
+---
+
+### Special notice to parents who are trying to put their child to another school
 
 *2024-03-04 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194126) · `si`
 
-අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ ලිපි අධ්‍යාපන අමාත්‍යාංශය මඟින් නිකුත් නොකරන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනය කරයි.
+The Ministry of Education will not issue letters for intermediate series admissions. Schools must include students for the 2024 intermediate class. Principals have interviewed the Ministry for approval. The Ministry has not been asked to issue no-admission letters for internal series.
 
-2024 වර්ෂයේ අතරමැදි පන්ති සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු බව එම නිවේදනයේ දැක්වෙයි.
+🟩
 
-පාසල්වල පුරප්පාඩු පවතී නම් අදාළ විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛ ප‍‍්‍රකාරව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කෙරේ.
+The Ministry of Education has announced that the relevant letters will not be issued by the Ministry of Education to admit students for intermediate series.
 
-එබැවින් අතරමැදි ශ්‍රේණි සඳහා ළමුන් ඇතුළත් කිරීමට අදාළ ඉල්ලීම්  සඳහා අධ්‍යාපන අමාත්‍යාංශයට නොපැමිණෙන ලෙසට අමාත්‍යාංශය වැඩිදුරටත් අදාළ පාර්ශ්ව වෙත් දන්වා සිටියි.
+The announcement should be forwarded to schools to include students for the intermediate class of 2024.
+
+If there are vacancies in schools, the relevant principals have interviewed the Ministry of Education for approval by the Ministry of Education.
+
+Therefore, the Ministry of Education has stated that the Ministry of Education has not been asked to do not come to the Ministry of Education for the internal series.
 
 ◼️
 
 [Data](articles/c15a40d7.json)
+
+[Extended Data](ext_articles/c15a40d7.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ Also, the electricity tariff for consumers using between 60 and 90 units will be
 ◼️
 
 [Data](articles/7b9056ca.json)
+
+[Extended Data](ext_articles/7b9056ca.ext.json)
 
 ---
 
@@ -820,19 +846,25 @@ The Ceylon Electricity Board's Engineers Association, which criticized his views
 
 ---
 
-### පැතුම් අයි.සී.සී. සම්මානයකට නිර්දේශ වෙයි
+### Wishing ICC. Recommended award
 
 *2024-03-04 14:42:27* · [`adalk`](https://www.ada.lk/breaking_news/පැතුම්-අයි-සී-සී--සම්මානයකට-නිර්දේශ-වෙයි/11-408416) · `si`
 
-2024 පෙබරවාරි මසට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ ක්‍රිකට් ක්‍රීඩකයාට හිමි සම්මානය සඳහා ශ්‍රි ලංකා පිතිකරු පැතුම් නිශ්ශංක නිර්දේශ වී තිබේ.
+Sri Lanka's brand recommended for ICC award in February 2024, highlighting success in one-day and Twenty20 tournaments with Afghanistan. Yasaswewei Juice and New Zealand also recognized.
 
-ඇෆ්ගනිස්ථානය සමග පැවැති එක්දින හා විස්සයි20 තරගාවලියේදි ඔහු දැක්වූ දක්ෂතා අනුව මෙම සම්මානය සඳහා ඔහු නිර්දෙශ වී තිබේ.
+🟩
 
-ඔහුට අමතරව ඉන්දියාවේ යසස්වී ජයිස්වාල් හා නවසීලන්තයේ කේන් විලියම්සන් මෙම සම්මානයට නිර්දේශ වී තිබේ.‍ෙ
+Sri Lanka's brand is recommended for the International Cricket Council (ICC) award in relation to February 2024.
+
+He is recommended for this award in the one day and Twenty20 tournament with Afghanistan.
+
+In addition to him, Yasaswewei Juice and New Zealand, New Zealand, is recommended for this award.
 
 ◼️
 
 [Data](articles/0d145bb2.json)
+
+[Extended Data](ext_articles/0d145bb2.ext.json)
 
 ---
 
@@ -2283,25 +2315,5 @@ The Weli-Madduada of the Colombo District Court has issued the injunction ordere
 [Data](articles/104362b7.json)
 
 [Extended Data](ext_articles/104362b7.ext.json)
-
----
-
-### NPP has plans to raise state revenue by increasing IRD efficiency and discussions held with them: AKD
-
-*2024-03-04 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-has-plans-to-raise-state-revenue-by-increasing-IRD-efficiency-and-discussions-held-with-them-AKD/108-278140) · `en`
-
-Ratnapura, March 3 (Daily Mirror)- Claiming that they have plans to raise state revenue, NPP leader Anura Kumara Dissanayake said today they had discussions with the Inland Revenue Department on ways to increase state reveue.
-
-Speaking at the Ratnapura District Women's Convention, he said that state revenue could be increased through the Customs Department and Excise Department as well.
-
-He said the revenue generated through the Inland Revenue Department could be doubled if the efficiency of the IRD staff was increased and the technology was advanced.
-
-"We can find money. We have discussed with the Inland Revenue Department.There are some changes to be made in the laws, staff and technology used in the department. If the efficiency of the staff is increased, we can double the revenue generated through the IRD. Revenue generated from the Customs and Excise Departments can also be increased. The Excise Department has some Rs. 90 billion outstanding from the liquor manufacturers," he said.
-
-...
-
-[Data](articles/b189580b.json)
-
-[Extended Data](ext_articles/b189580b.ext.json)
 
 ---

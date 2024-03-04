@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 21:52:21**
+As of **2024-03-04 22:05:00**
 
 ## Newspaper Stats
 
-*Scraped **10,836** Articles*
+*Scraped **10,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ adalk | 921
 adaderanalk | 1,322
 tamilmirrorlk | 1,323
 virakesarilk | 1,457
-dailymirrorlk | 1,651
-adaderanasinhalalk | 1,688
+dailymirrorlk | 1,652
+adaderanasinhalalk | 1,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,833 (100.0%) of 10,836 articles have been extended.
+10,836 (100.0%) of 10,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### සයිනොපෙක් ඉන්ධන මිල ගණන් නිකුත් කෙරේ
+
+*2024-03-04 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194133) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+ඒ අනුව සයිනොපෙක් සමාගම ඔක්ටේන් 95 වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 09කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 447කි.
+
+එසේම සුපර් ඩීසල් ලීටරයක මිල රුපියල් 10කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 458කි.
+
+මේ අතර එම සමාගම ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් සහ ඔටෝ ඩීසල් ලීටරයක මිලේ කිසිදු වෙනසක් සිදුකර නොමැත.
+
+සයිනොපෙක් සමාගම 92 වර්ගයේ ඉන්ධන ලීටරයක් 368ක් වන අතර සයිනොපෙක් ඔටෝ ඩීසල් ලීටරයක මිල රුපියල් 360කි.
+
+◼️
+
+[Data](articles/beb131ee.json)
+
+---
+
+### Fuel prices revised from tonight
+
+*2024-03-04 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-from-tonight/108-278223) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from tonight.
+
+Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 456) has been reduce by Rs. 9, and its new retail price will be Rs. 447.
+
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 468) has been increased by Rs. 10, and its new retail price will be Rs. 458.
+
+A litre of Lanka Kerosene (Rs. 262) has been reduced by Rs. 5, and its new retail price will be Rs. 257.
+
+The selling price of a litre of Lanka Petrol 92 Octane and a litre of Lanka Auto Diesel remain as Rs. 371 and Rs. 363.
+
+◼️
+
+[Data](articles/907d5b3a.json)
+
+---
+
+### පොලිස් නිලධාරීන් දෙදෙනෙක් පෝරකයට යැවූ සැකකරුගේ මරණය
+
+*2024-03-04 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194132) · `si`
+
+2005 වසරේ පෑලියගොඩ පොලිසිය විසින් සොරකමක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකුට පහරදී  මරණය සිදු කිරීමේ චෝදනාවලට වරදකරුවන් කෙරුණු එහි හිටපු පොලිස් නිලධාරීන් දෙදෙනකුට කොළඹ මහාධිකරණය විසින් අද (04) මරණීය දණ්ඩනය නියම කළේය.
+
+අදාළ පොලීසියේ අපරාධ විමර්ශන අංශයේ සේවය කළ උප පොලිස් පරීක්ෂක චමින්ද කුමාර සහ  පොලිස් සැරයන් අනුර වීරවර්ධන යන විත්තිකරුවන්ට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා විසින්  මෙම දඬුවම් නියම කර තිබුණි.
+
+මහජනතාව යුක්තිය පතා පැමිණෙන්නේ අධිකරණයට බවත් ඒ අනුව නීතියෙන් නියම කළ හැකි උපරිම දඬුවම් අධිකරණය විසින් විත්තිකරුවන්ට නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේය.
+
+2005 වසරේ ජූලි මස 13 වනදා හෝ ඊට ආසන්න දිනයක  රැහැන් රහිත දුරකථනයක් සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් අබේසිංහ නොහොත් රංජිත් නැමැති සැකකරුවෙකුට පොලිස් ස්ථානය තුළදී විකට් පොලුවලින් පහරදී මරණය සිදු කිරීම ඇතුළු චෝදනා යටතේ නීතිපතිවරයා විසින් එහි සේවය කළ පොලිස් නිලධාරීන් හතර දෙනකුට එරෙහිව නඩු පවරා තිබුණි.
+
+...
+
+[Data](articles/da29b037.json)
+
+---
 
 ### Fuel prices reduced
 
@@ -38,9 +96,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (March 04).
 
+Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 09 to Rs. 447 per litre while Super Diesel has been reduced by Rs. 10 to Rs. 458 per litre.
+
+Meanwhile the price of Kerosene has been reduced by Rs. 05 to Rs. 257 per litre.
+
+However, the prices of Petrol 92 Octane and Auto Diesel will remain unchanged, the CPC said.
+
+Meanwhile Lanka IOC says they too will revise retail fuel prices to match the CPC.
+
 ◼️
 
 [Data](articles/44aefebc.json)
+
+[Extended Data](ext_articles/44aefebc.ext.json)
 
 ---
 
@@ -121,6 +189,8 @@ As per information made available by the Embassy of Sri Lanka in Myanmar, the 56
 ...
 
 [Data](articles/430dce44.json)
+
+[Extended Data](ext_articles/430dce44.ext.json)
 
 ---
 
@@ -822,19 +892,29 @@ The death of a 20 -year -old youth from the village of Eruvil has died and the b
 
 ---
 
-### கொழும்பு தேசிய வைத்தியசாலையிலுள்ள பெட் ஸ்கேன் இயந்திரம் செயலிழப்பு ; 6 மாதங்கள் கடந்தும் பழுதுபார்க்கப்படவில்லை - கதிரியக்க தொழில்வல்லூநர்கள் சங்கத் தலைவர்
+### Bed scan machine malfunction at Colombo National Hospital;6 months later not repaired - Radiopian professionals association president
 
 *2024-03-04 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177878) · `ta`
 
-நாட்டில் உள்ள அரச வைத்தியசாலைகளுக்கு பொதுவாக இரு பெட் ஸ்கேன் இயந்திரங்கள் மாத்திரமே உள்ளன. தற்போது கொழும்பு தேசிய வைத்தியசாலையில் உள்ள பெட் ஸ்கேன் இயந்திரம் செயலிழந்து 6 மாதங்கள் கடந்துள்ள நிலையில் இதனை பழுதுபார்க்கும் நடவடிக்கைகள் இது வரை முன்னெடுக்கப்பட வில்லை என கதிரியக்க தொழில்வல்லூநர்கள் சங்கத் தலைவர் சானக்க தர்மவிக்ரம தெரிவித்துள்ளார்.
+The bed scan machine at Colombo National Hospital malfunctioned 6 months ago and remains unrepaired, despite attempts to use it for Siri scan testing. The Maharagama Cancer Hospital's machine is tested weekly, but essential pharmaceutical supply is inadequate. The machines are worth over Rs 45 crore, and the Minister of Health is urged to address the issue.
 
-அத்தோடு மஹரகம புற்றுநோய் வைத்தியசாலையில் உள்ள இயந்திரம் மூலம் வாரத்துக்கு ஒரு முறை மாத்திரமே பரிசோதனைகள் இடம்பெற்று வரும் நிலையில் மேற்படி இயந்திரத்தைக் கொண்டு சிரி ஸ்கேன் பரிசோதனைகளை மேற்கொள்வதற்கு வைத்தியசாலை தரப்பினர் முயற்சித்து வருவதாகவும் அவர் குற்றம் சுமத்தியுள்ளார்.
+🟩
 
-கொழும்பில்  திங்கட்கிழமை (04) இயந்திர செயலிழப்பு குறித்துக் கருத்து தெரிவிக்கையிலேயே அவர் மேற்கண்டவாறு கருத்து தெரிவித்திருந்தார்.
+State hospitals in the country usually have only two bed scan machines. Six months have passed since the bed scan machine at the Colombo National Hospital, the repair operations have not yet been carried out, said Radiochers Association President Sanaka Dharmavickrama.
+
+He also alleges that the hospital parties are trying to carry out a Siri scan testing with the machine, with the machine at the Maharagama Cancer Hospital only once a week.
+
+He was commenting on Monday (04) in Colombo.
+
+Currently all state hospitals have only two bed scan machines. One machine has been installed at the Colombo National Hospital and the other machine at Maharagama Cancer Hospital. Six months after the collapse of the Peds Kane machine at the Colombo National Hospital, the machine repair has not been carried out.
+
+In addition, the machine at the Maharagama Cancer Hospital is currently undergoing tests once a week. The most patient is listed for bed scan testing. Private hospitals can cost up to Rs.
 
 ...
 
 [Data](articles/497fe03a.json)
+
+[Extended Data](ext_articles/497fe03a.ext.json)
 
 ---
 
@@ -2235,63 +2315,5 @@ The two individuals who sustained critical gunshot injuries had been rushed to h
 [Data](articles/2dbb54bb.json)
 
 [Extended Data](ext_articles/2dbb54bb.ext.json)
-
----
-
-### Another shooter
-
-*2024-03-04 12:03:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்சூடு/175-334175) · `ta`
-
-"Another shooter" is a term used to describe a person who engages in shooting activities, often in a competitive or recreational context.
-
-🟩
-
-◼️
-
-[Data](articles/2954b1fe.json)
-
-[Extended Data](ext_articles/2954b1fe.ext.json)
-
----
-
-### Another shot
-
-*2024-03-04 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194110) · `si`
-
-In Hanwella, a shooting has claimed one life.
-
-🟩
-
-One person has been killed in a shooting in Hanwella, Hanwella.
-
-◼️
-
-[Data](articles/87571478.json)
-
-[Extended Data](ext_articles/87571478.ext.json)
-
----
-
-### January 2024 congratulated the country
-
-*2024-03-04 11:53:03* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනවාරි-මාසය-රටට-සුබ-වෙලා/11-408407) · `si`
-
-In January 2024, Sri Lanka saw significant growth in foreign exchange flows, with tourism earning $342 million, a 342% increase from last year. Foreign workers sent $488 million in remittances, a 5% increase from January 2023. The Sri Lankan rupee increased by 14.6%, and foreign reserves rose to $4.5 billion, with the forex pool growing by 114%.
-
-🟩
-
-Sri Lanka has a clear growth in foreign exchange flows in January this year. Accordingly, the tourism has earned a US $ 342 million in January 2024, a growth of Rs. 342 percent to January last year.
-
-Also, foreign workers have sent $ 488 million in remittances in January, a growth of 5 percent compared to $ 467 million reported in January 2023.
-
-The Sri Lankan rupee has been increased by 14.6% in January this year.
-
-In addition, the foreign reserves have risen to $ 4.5 billion in January, and the forex pool has increased by 114%.
-
-◼️
-
-[Data](articles/725ccf1d.json)
-
-[Extended Data](ext_articles/725ccf1d.ext.json)
 
 ---

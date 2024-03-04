@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 05:17:39**
+As of **2024-03-04 05:37:29**
 
 ## Newspaper Stats
 
-*Scraped **10,661** Articles*
+*Scraped **10,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 899
 adaderanalk | 1,301
 tamilmirrorlk | 1,306
 virakesarilk | 1,434
-dailymirrorlk | 1,616
+dailymirrorlk | 1,618
 adaderanasinhalalk | 1,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,661 (100.0%) of 10,661 articles have been extended.
+10,661 (100.0%) of 10,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### 2024; World Election Year and the Misconception of 50%
+
+*2024-03-04 05:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/2024-World-Election-Year-and-the-Misconception-of-50/172-278148) · `en`
+
+Section 61 of the Presidential Elections Act, No. 15 of 1981, details the process for determining the winner in a Presidential Election with more than two candidates. The last candidate is eliminated, and the second/third preferences of the eliminated candidate are counted as votes in favour of the remaining two candidates
+
+In 2024, democratic rule faces a significant test with an estimated 4 billion people in over 60 nations heading to the polling booths to elect their leaders. The outcomes of many of these elections are expected to have a global impact, as almost half of the world’s population participate in national elections. Bangladesh kicked off the year with Sheikh Hasina securing a fourth consecutive term, followed by Pakistan. The results of these elections are likely to shape global politics for years or even decades to come.
+
+...
+
+[Data](articles/d6ccb90f.json)
+
+---
+
+### The Courts and the Fight against Impunity and Corruption - EDITORIAL
+
+*2024-03-04 05:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Courts-and-the-Fight-against-Impunity-and-Corruption-EDITORIAL/172-278147) · `en`
+
+Corruption and Crime in our country have hit a new high. According to Transparency International, “Sri Lanka is the 115th least corrupt nation out of 180 countries”. According to the 2023 Corruption Perceptions Index reported by Transparency International Corruption Rank, Sri Lanka averaged 87.50 from 2002 until 2023, reaching an all time high of 115.00 in 2023.
+
+The International Commission of Jurists (ICJ) say, impunity has over the years become institutionalised and systematised. Mechanisms to hold state actors to account for their actions have been eroded.
+
+During the time of former President Rajapaksa, via amendments to the Constitution, checks on the arbitrary use of power were diluted, and institutions to protect the independence of the judiciary were tampered with.
+
+...
+
+[Data](articles/366c6b04.json)
+
+---
 
 ### Dawoodi Bohras Spiritual Leader meets President
 
@@ -2141,61 +2171,5 @@ To apply, interested candidates can access the application form, instructions an
 [Data](articles/03d23e57.json)
 
 [Extended Data](ext_articles/03d23e57.ext.json)
-
----
-
-### Tension as Shantan's body bear the carriage
-
-*2024-03-03 13:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உடல்-தாங்கிய-ஊர்தியினை-மறித்ததால்-பதற்றம்/175-334130) · `ta`
-
-In Vavuniya, traffic police attempted to arrest Shantan's body's driver, leading to a tense standoff. The police couldn't approach the car or stop it without arresting the driver. A tribute event was held at the old bus station to honor Shantan.
-
-🟩
-
-At the old bus station in Vavuniya, the traffic police tried to arrest the driver of Shantan's body.
-
-Shantan's body was taken to Vavuniya this morning.
-
-The police on duty cannot go near the car and stop the car here. They said they would arrest the driver if they stop.
-
-The driver was also told to get down the vehicle. This caused a tense situation.
-
-Subsequently, the arrangement team held a tribute event at the old bus station at the old bus station.
-
-◼️
-
-[Data](articles/0b91bc48.json)
-
-[Extended Data](ext_articles/0b91bc48.ext.json)
-
----
-
-### Exam papers problem under CID
-
-*2024-03-03 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194073) · `si`
-
-The CID is investigating the leak of exam papers in the Western Province, while the Ministry of Provincial Education suspends school periods. Science and History papers for Grades 10 and 11 were released online, and the CID is also investigating the Sabaragamuwa Province for early release of Grade 10 and English papers. The Ceylon Teachers Union criticizes administrative issues.
-
-🟩
-
-The CID has commenced an investigation into the Meeting of the School Time Examination Papers.
-
-Meanwhile, the Ministry of Provincial Education has decided to suspend periods of government schools in the Western Province.
-
-Western Province Education Secretary Sirisoma Lokuvitharana said that the decision was taken on Monday and Tuesday.
-
-The Science and History of Grades 10 and 11 of the year of the year, the year of year 1323 released the subject matter question papers to the social media on the night of the previous night.
-
-It is reported that the answer sheet of the mathematics, which is scheduled to be held in the Western Province schools on this backdrop, is also circulated in the social media.
-
-The CID has launched an investigation into the issuance of question papers in the Western Province.
-
-Meanwhile, schools in the Sabaragamuwa Province have been released before the examination will be held on Monday, Grade 10 and English Question Papers.
-
-...
-
-[Data](articles/b2db2575.json)
-
-[Extended Data](ext_articles/b2db2575.ext.json)
 
 ---

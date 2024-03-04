@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 22:17:47**
+As of **2024-03-04 22:33:34**
 
 ## Newspaper Stats
 
-*Scraped **10,842** Articles*
+*Scraped **10,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 554
 dailyftlk | 572
 islandlk | 579
 adalk | 923
-adaderanalk | 1,322
+adaderanalk | 1,323
 tamilmirrorlk | 1,324
 virakesarilk | 1,457
 dailymirrorlk | 1,652
@@ -26,25 +26,47 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,839 (100.0%) of 10,842 articles have been extended.
+10,842 (100.0%) of 10,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### காதலனுக்காக சிறுமி செய்த செயல்; இறுதியில் இருவரும் கைது
+### Trump wins Colorado ballot disqualification case at US Supreme Court
+
+*2024-03-04 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97732/trump-wins-colorado-ballot-disqualification-case-at-us-supreme-court) · `en`
+
+The U.S. Supreme Court handed Donald Trump a major victory on Monday, barring states from disqualifying candidates for federal office under a constitutional provision involving insurrection and reversing Colorado’s exclusion of him from its ballot.
+
+The justices unanimously overturned a Dec. 19 decision by Colorado’s top court to kick the former president off the state’s Tuesday Republican primary ballot after finding that the U.S. Constitution’s 14th Amendment disqualified him from again holding public office. The Colorado court had found that Trump took part in an insurrection for inciting and supporting the Jan. 6, 2021, attack on the U.S. Capitol by his supporters.
+
+But four of the nine justices, including the court’s three liberal members, faulted the rest of the court for announcing rules limiting how the constitutional provision may be enforced in the future.
+
+...
+
+[Data](articles/61b5f388.json)
+
+---
+
+### The act of doing the girl for the boyfriend;Arresting both eventually
 
 *2024-03-04 22:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனுக்காக-சிறுமி-செய்த-செயல்-இறுதியில்-இருவரும்-கைது/175-334206) · `ta`
 
-வாதுவை - பொஹத்தரமுல்ல கடற்கரை பகுதியில் போதைப்பொருளுடன் 17 வயது சிறுமியும் அவரது 30 வயதான காதலரும் கைது செய்யப்பட்டுள்ளனர்.
+A 17-year-old girl and her 30-year-old boyfriend were arrested with drugs near Vaduvu-Bohatramulla beach. The girl was found to have stored drugs for her boyfriend, who was returning from Horana. They will be checked for drug addiction and face charges in Panadura Magistrate's Court.
 
-சந்தேக நபரான சிறுமி ஹொரணை பிரதேசத்தில் மேலதிக வகுப்பொன்றில் கலந்து கொண்டு மீண்டும் வீடு திரும்பிய நிலையில் தனது காதலனான 30 வயது இளைஞருக்காக போதைப்பொருளை பாதுகாப்பாக தன்வசம் வைத்திருந்ததாக விசாரணையில் தெரிய வந்துள்ளது.
+🟩
 
-சந்தேக நபர்கள் போதைப்பொருளுக்கு அடிமையானவர்களா என  பரிசோதிப்பதற்காக வைத்தியசாலைக்கு அனுப்பப்படவுள்ளதாகவும் பாணந்துறை நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+A 17 -year -old girl and her 30 -year -old boyfriend have been arrested with drugs in the Vaduvu - Bohatramulla beach.
+
+Investigations have revealed that the suspect had safely kept drugs for her boyfriend for her boyfriend, who was returning home from an additional class in Horana area.
+
+Police said that the suspects will be sent to the hospital to check whether the suspects are addicted to drugs and are to be produced before the Panadura Magistrate's Court.
 
 ◼️
 
 [Data](articles/929de6e3.json)
+
+[Extended Data](ext_articles/929de6e3.ext.json)
 
 ---
 
@@ -148,17 +170,23 @@ Meanwhile Lanka IOC and Sinopec say they too will revise retail fuel prices in l
 
 ---
 
-### පළමු තරගයෙන් ලංකාවට ලකුණු තුනක තියුණු ජයක්
+### Sri Lanka wins three runs in Sri Lanka
 
 *2024-03-04 21:24:07* · [`adalk`](https://www.ada.lk/sports/පළමු-තරගයෙන්-ලංකාවට-ලකුණු-තුනක-තියුණු-ජයක්/9-408429) · `si`
 
-සත්කාරක බංග්ලාදේශ කණ්ඩායම පරාජය කරමින් දෙරට අතර පැවැති පළමු විස්සයි20 තරගයෙන් ලකුණු 3ක තියුණු ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka defeats Bangladesh by 3 runs in their first T20 match, with Sri Lanka scoring 206 and Bangladesh 203.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණ ු206ක් රැස් කිරීමට සමත්විය. පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශ කණ්ඩායම ලකුණු 203ක් රැස් කිරීමට සමත්විය.
+🟩
+
+Sri Lanka beat the Host Bangladesh team by 3 runs in the first Twenty20 match between the two countries.
+
+Sri Lanka scored 206 mark to bat first in the match. In reply, Bangladesh scored 203 runs.
 
 ◼️
 
 [Data](articles/22bd126b.json)
+
+[Extended Data](ext_articles/22bd126b.ext.json)
 
 ---
 
@@ -436,19 +464,29 @@ The event, held at the BMICH, aimed to engage young legal professionals and reco
 
 ---
 
-### විභාග සමත් කරවීමේ අරමුණින් පමණක් දරුවන් පාසල් යවන්න එපා
+### Do not send schools at least to pass the exam
 
 *2024-03-04 19:45:53* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-සමත්-කරවීමේ-අරමුණින්-පමණක්-දරුවන්-පාසල්-යවන්න-එපා/11-408420) · `si`
 
-දරුවන් දැනුමෙන් ආකල්පවලින් මෙන්ම කුසලතාවන්ගෙන් සන්නද්ධ කරවීම අධ්‍යාපනයේ පරමාර්ථ බවත් තරගකාරී පසුබිමක් ගොඩනගා ගනිමින් විභාගවලින් දරුවන් සමත් කරවීම පිණිස පාසල් යැවීම නොකළ යුතු බවත් යෝජිත අධ්‍යාපන ප‍්‍රතිසංස්කරණ තුළින් අවධාරණය කරනු ලබන්නේ ප‍්‍රායෝගික ක‍්‍රියාකාරකම් සඳහා දරුවා අත්පත් කරගන්නා කුසලතා මැන බැලීම බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් පේ‍්‍රමජයන්ත මහතා පැවසීය.
+Educational reforms aim to focus on education's objectives and talents, not just passing exams. The Ministry of Education introduced English speaking and listening skills programs in all schools, starting with first graders. Training for primary teachers has been implemented. The Minister criticized the moral level of exam papers and plans to prevent such issues in the future, emphasizing knowledge assessment over weight.
 
-අමාත්‍යවරයා මේ අදහස් පළ කළේ  2024 වර්ෂයේ පළමු ශ්‍රේණියට පිවිසෙන දරුවන් වෙනුවෙන් ක‍්‍රියාකාරකම් පාදක වාචික ඉංග‍්‍රීසි (ABOE - Activity Based Oral English) වැඩසටහන පාසල් වෙත හඳුන්වාදීම පිණිස මහරගම ධර්මාශෝක විද්‍යාලයේ අද (04) පැවති ජාතික වැඩසටහනට එක්වෙමිනි.
+🟩
 
-දිවයිනේ සියලූ‍ පාසල්වල පළමුවන සහ දෙවන ශේණියේ සිසු දරුවන් තුළ ඉංග‍්‍රීසි කථන සහ සවන් දීමේ කුසලතා ඇති කිරීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් ක‍්‍රියාකාරකම් පාදක වාචික ඉංග‍්‍රීසි වැඩසටහන හඳුන්වා දී ඇති අතර මේ වසරේ පළමු ශ්‍රේණියට පිවිසෙන දරුවන්ට එම වැඩසටහන හඳුන්වාදීම සෑම  ම පාසල් තුළ අද පැවැත්විණි.
+The proposed educational reforms say that the objectives of education and talents are objectives of education and talents should not be sent to schools to pass a competitive background.
+
+The Minister made these comments participating at the National Program held at Dharmasoka Vidyalaya, Maharagama today to introduce the program to the first grade 2024.
+
+The Ministry of Education has introduced the activities based on English speaking and listening skills in all schools in the island, and the introduction of the program to the first grade of this year.
+
+Although English is taught from third grade to schools as a formal language, the English speaking skills have been identified as a timely requirement and add children with updates and improvement in the future educational restoration process.The Minister pointed out that there was.
+
+The Ministry of Education has implemented training programs to prepare the primary teachers on grades 1 and 2 and have already trained and has already been trained.
 
 ...
 
 [Data](articles/ce9c4d1d.json)
+
+[Extended Data](ext_articles/ce9c4d1d.ext.json)
 
 ---
 
@@ -2295,25 +2333,5 @@ Salvation of the National Park National Park The National Park Salvation Organiz
 [Data](articles/f9fff4ab.json)
 
 [Extended Data](ext_articles/f9fff4ab.ext.json)
-
----
-
-### SJB to raise objections against Fonseka’s case
-
-*2024-03-04 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-raise-objections-against-Fonsekas-case/108-278202) · `en`
-
-Colombo, March 4 (Daily Mirror)- Samagi Jana Balawegaya (SJB) leader Sajith Premadasa and its office bearers are expecting to raise objections against the plaint filed by Field Marshal Sarath Fonseka.
-
-SJB leader Sajith Premadasa, through his lawyer informed the Colombo District Court today that they would raise objections against the enjoining order issued by the Colombo District Court on February 19, preventing the SJB from removing Field Marshal Sarath Fonseka from his party membership and positions.
-
-Sarath Fonseka obtained this enjoining order, preventing the SJB from removing him on the basis of remarks he had made against offering party membership to former Army Commander Daya Ratnayake.
-
-This matter is to be taken up for objections at 1.30 pm today.
-
-◼️
-
-[Data](articles/2e1cb391.json)
-
-[Extended Data](ext_articles/2e1cb391.ext.json)
 
 ---

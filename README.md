@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 23:17:42**
+As of **2024-03-04 23:33:35**
 
 ## Newspaper Stats
 
-*Scraped **10,846** Articles*
+*Scraped **10,855** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 104
+colombotelegraphcom | 105
 bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
-economynextcom | 554
+economynextcom | 562
 dailyftlk | 572
 islandlk | 579
 adalk | 923
@@ -26,29 +26,41 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,845 (100.0%) of 10,846 articles have been extended.
+10,846 (99.9%) of 10,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### பங்களாதேஸை அதன் சொந்தமண்ணில் 3 ஓட்டங்களால் திறில் வெற்றி கொண்டது இலங்கை !
+### Sri Lanka won Bangladesh by 3 runs
 
 *2024-03-04 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177913) · `ta`
 
-பங்களாதேஷுக்கு எதிராக சில்ஹெட் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று திங்கட்கிழமை (04) கடைசிவரை பரபரப்பை ஏற்படுத்திய முதலாவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 3 ஓட்டங்களால் இலங்கை வெற்றிபெற்றது.
+Sri Lanka won the first T20 match against Bangladesh by 3 runs, leading the series 1-0. Key players for Sri Lanka included Gusal Mendis, Satheera Samarawickrama, and Sarith Asalanka, with significant contributions from Angelo Mathews and Dasun Shanaka. Bangladesh's top scorers were Mahmudullah and Jacker Ali.
 
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரில் 1 - 0 என்ற ஆட்டக் கணக்கில் இலங்கை முன்னிலை அடைந்துள்ளது.
+🟩
 
-குசல் மெண்டிஸ், சதீர சமரவிக்ரம, அணித் தலைவர் சரித் அசலன்க ஆகியோரின் திறமையான துடுப்பாட்டங்கள், ஏஞ்சலோ மெத்யூஸ், தசுன் ஷானக்க ஆகியோரின் சிறப்பான பந்துவீச்சுகள் என்பன இலங்கை வெற்றி அடைவதற்கு உதவின.
+Sri Lanka won by 3 runs in the first international T20 cricket match against Bangladesh at the Chilhead International Cricket Stadium on Monday (04).
 
-குறிப்பாக தசுன் ஷானக்க கடைசி ஓவரை சிறப்பாக வீசி 8 ஓட்டங்களை மாத்திரம் கொடுத்து 2 விக்கெட்களை வீழ்த்தியமை அணியின் வெற்றியை உறுதி செய்வதாக அமைந்தது.அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட இலங்கை 20 ஓவர்களில் 3 விக்கெட்களை இழந்து 206 ஓட்டங்களைக் குவித்தது.
+With this victory, Sri Lanka has reached the lead in the three -match international T20 cricket series 1 - 0.
 
-மொத்த எண்ணிக்கை 4 ஓட்டங்களாக இருந்தபோது அவிஷ்க பெர்னாண்டோ (4), 37 ஓட்டங்களாக இருந்தபோது கமிந்து மெண்டிஸ் (19) ஆகிய இருவரும் களம் விட்டகழ இலங்கை ஆட்டம் கண்டது.
+Gusal Mendis, Satheera Samarawickrama and team captain Sarith Asalanka, the excellent bowls of Angelo Mathews and Dasun Shanaka helped Sri Lanka win.
+
+In particular, Dasun Shanaka's last over was the first over and the team's victory was to take 2 wickets.
+
+Avishka Fernando (4) and 37 runs when the total number was 4 runs and Kamundu Mendis (19) played Sri Lanka.
+
+However, Kusal Mendis and Satheera Samarawickrama were very efficiently bowled out and shared 96 runs off 61 balls in the 3rd wicket.
+
+Gusal Mendis faced 36 balls and scored 59 runs with 6 pounds and 3 sixes.
+
+After he lost the match, Satheera Samarawickrama and team captain Sarit Asalankam shared 73 runs off 32 balls in the 4th wicket.
 
 ...
 
 [Data](articles/9de9cdf5.json)
+
+[Extended Data](ext_articles/9de9cdf5.ext.json)
 
 ---
 
@@ -756,6 +768,24 @@ Colombo, March 4 (Daily Mirror)- The no-faith motion on Speaker Mahinda Yapa Abe
 
 ---
 
+### Sri Lanka electricity prices cut 21.9-pct: regulator
+
+*2024-03-04 17:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-prices-cut-21-9-pct-regulator-153087/) · `en`
+
+ECONOMYNEXT – The Public Utility Commission of Sri Lanka said it had cut electricity prices by 21.9 percent with effect from midnight March 04.
+
+It reduced the prices for hotels and industrial sector by 18 percent, for religious places by 33 percent, and for the State sector by 22 percent.
+
+The price of a unit for those who use below 30 units a month was reduced by 33 percent, 31-60 units by 28 percent, and 61-90 units by 30 percent.
+
+For those using between 91-180 units, the per unit price has been reduced by 24 percent, while above 180 units has been reduced by 18 percent.
+
+◼️
+
+[Data](articles/ad99db4d.json)
+
+---
+
 ### The electricity tariffs down:
 
 *2024-03-04 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194124) · `si`
@@ -792,6 +822,38 @@ He said the final decision was reached after studying and reviewed the proposals
 
 ---
 
+### Sri Lanka Podujana Peramuna to decide on election after Basil’s return
+
+*2024-03-04 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-peramuna-to-decide-on-election-after-basils-return-153080/) · `en`
+
+ECONOMYNEXT — The national organiser of the ruling Sri Lanka Podujana Peramuna (SLPP) will take a decision on whether to contest the 2024 presidential election on its own or support a candidate fielded by an alliance party is part of, a spokesman said.
+
+SLPP legislator Piyal Nishantha told reporters that Rajapaksa is set to arrive in the country on Tuesday March 05.
+
+“The SLPP has no wish to count its eggs before they’re hatched. Our national organiser is a very creative leader that steered the party to victory in a very short period of time,” said Nishantha.
+
+Following Rajapaksa’s return, said Nishantha, the SLPP’s executive committee, headed by Rajapaksa, will decide whether to form an alliance and “provide an opportunity to a candidate” or field its own candidate at the presidential poll that’s due to be held between September 17 and October 17 this year.
+
+“From that moment on, we’ll say compete with us and see if you can,” said Nishantha.
+
+...
+
+[Data](articles/318fea64.json)
+
+---
+
+### Abolishing The Executive Presidency – Is Time Running Out?
+
+*2024-03-04 17:50:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolishing-the-executive-presidency-is-time-running-out/) · `en`
+
+Earlier this week, the President’s Media Division issued a statement to the effect that the next presidential election will be held on schedule. What was the need for that statement? In terms of the Constitution, the President’s term of office ends not later than 18th November 2024. As far as I am aware, no member of Parliament has given any indication that he or she intends to introduce a Bill to amend the Constitution to extend the term of office of the President, as required by article 83 of the Constitution. Such a Bill, if passed with a two-third majority, will also need to be approved by the people at a referendum. In the absence of any such move, what was the need for the President’s Media Division to assert the obvious. Was it to stifle the movement for restoring the parliamentary executive that now appears to be gathering wide public support?
+
+...
+
+[Data](articles/b4859c0a.json)
+
+---
+
 ### Met. Dept. further warns of increased temperatures
 
 *2024-03-04 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97728/met-dept-further-warns-of-increased-temperatures) · `en`
@@ -809,6 +871,30 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 [Data](articles/9de16283.json)
 
 [Extended Data](ext_articles/9de16283.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 308.05/15 to the US dollar
+
+*2024-03-04 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-308-05-15-to-the-us-dollar-153018/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 308.05/15 to the US dollar Monday, from 308.80/90 on Friday, dealers said.
+
+A bond maturing on 01.02.2026 closed at 10.60/75 percent from 10.65/75 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.90/12.05 percent.
+
+A bond maturing on 01.07.2028 closed at 12.15/25 percent from 12.15/35 percent.
+
+A bond maturing on 15.07.2029 closed at 12.25/35 percent from 12.25/40 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/55 percent from 12.30/45 percent.
+
+A bond maturing on 01.07.2032 closed stable at 12.50/13.00 percent. (Colombo/Mar4/2024)
+
+◼️
+
+[Data](articles/436ee3b2.json)
 
 ---
 
@@ -871,6 +957,26 @@ Thaksin’s release, after almost two decades of antipathy between his populist 
 [Data](articles/08ce46fd.json)
 
 [Extended Data](ext_articles/08ce46fd.ext.json)
+
+---
+
+### Sri Lanka opposition to table first-ever no-faith motion against sitting speaker
+
+*2024-03-04 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-to-table-first-ever-no-faith-motion-against-sitting-speaker-153005/) · `en`
+
+ECONOMYNEXT — Opposition parties in Sri Lanka will table a motion of no confidence against an incumbent speaker on Tuesday March 05 for the first time in the legislature’s history, opposition lawmaker G L Peiris said.
+
+“At no point in the history of this country has a no-confidence motion (NCM) being tabled against a speaker. It’s a special event,” said Peiris.
+
+Speaking to reporters on Monday, Peiris said NCMs have been tabled against four prime ministers and 14 ministers, and against 27 governments as a whole.
+
+“This is the 26th speaker. No NCM has been tabled against a speaker. The opposition has taken this decision responsibly, looking ahead and in the absence of an alternative,” he said.
+
+“All parties in the opposition have already expressed their full support for this NCM. This too is a rare occurrence. Various opinions exist within the opposition, but when it comes to this matter, every group in the opposition has been able to reach a consensus,” he added.
+
+...
+
+[Data](articles/7dbac530.json)
 
 ---
 
@@ -1110,6 +1216,22 @@ With the support of the Government of Japan, the United Nations Development Prog
 
 ---
 
+### Amid security concerns, India-funded unique ID card project faces delay in Sri Lanka
+
+*2024-03-04 16:10:00* · [`economynextcom`](https://economynext.com/amid-security-concerns-india-funded-unique-id-card-project-faces-delay-in-sri-lanka-152966/) · `en`
+
+ECONOMYNEXT – An India-funded unique ID card project, which has raised concerns over personal data security, has faced delay in Sri Lanka with the second call for bids has not been invited for two months as planned earlier, officials said.
+
+President Ranil Wickremesinghe’s government last year has disqualified the two Indian bidders Madras Security Printers (MSP) and Protein Technologies which won the tenders in the previous bidding process for the project which has raised concern over possible breach of personal data protection.
+
+India has already given an advance aid of 450 million Indian rupees to the Sri Lankan government to fund the unique ID project, which aims to collect biographic and biometric information, including facial, iris, and fingerprint data.
+
+...
+
+[Data](articles/a00cc2cb.json)
+
+---
+
 ### Parliament can remove the executive power of the president: Parliamentary powers cannot be canceled by Parliament - President
 
 *2024-03-04 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177892) · `ta`
@@ -1173,6 +1295,28 @@ Hundreds of millions of fans in cricket-crazy India tuned in to watch the live b
 [Data](articles/eb710b24.json)
 
 [Extended Data](ext_articles/eb710b24.ext.json)
+
+---
+
+### Sri Lanka stocks close up 1-pct, turnover at 1.7bn
+
+*2024-03-04 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-turnover-at-1-7bn-152962/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 1.07 percent, or 113.99 points, at 10,805; while the S&P SL20 Index closed up 1.49 percent, or 45.39 points, at 3,084.
+
+Turnover stayed above the 1 billion mark for the second week, at 1.7 billion, with crossings continuing.
+
+Large volumes were traded of Royal Ceramics Lanka Plc (186mn) up at 32.30, and Browns Investments Plc (112mn) up at 4.80.
+
+Other positive contributors to the main index included LOLC Holdings Plc (117mn) up at 371.25, John Keells Holdings Plc (68mn) up at 190.00, and Hayleys Plc (44mn) up at 83.80.
+
+Expolanka Holdings Plc announced a trading suspension following Friday’s announcement of de-listing. “Trading of the Securities of the company have been suspended with effect from 4th March 2024 based on the disclosure made by the company regarding De-listing the company from the official list of the Colombo Stock Exchange.”
+
+...
+
+[Data](articles/03b537b5.json)
 
 ---
 
@@ -1324,6 +1468,22 @@ The deebimah ship was attacked on February 18, with relief teams were able to sa
 
 ---
 
+### Sri Lanka to bring new law to replace Port City Law: Prez
+
+*2024-03-04 15:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-new-law-to-replace-port-city-law-prez-152913/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new economic programs necessitate the introduction of new legislation, its President Ranil Wickremesinghe has said.
+
+“We are in the process of introducing a new law to replace the Port City Law, aimed at establishing an offshore economy. Given the unique nature of this economy, the existing laws of Sri Lanka may not be adequate, and thus, UK commercial laws will apply within the jurisdiction of the offshore economy,” Wickremesinghe was quoted as saying by his media division.
+
+“The government has made significant strides, passing 42 laws in the past 14 months, a remarkable achievement. Now, the challenge lies in presenting the remaining 62 laws,” Wickremesinghe said in his keynote address at the ‘What’s New’ dialogue on Legal Reforms with young legal professionals yesterday (03) at the BMICH.
+
+...
+
+[Data](articles/2a7747f5.json)
+
+---
+
 ### A place where Sri Lankan player was unexpected
 
 *2024-03-04 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194118) · `si`
@@ -1381,6 +1541,26 @@ If the Operic Plus explains about the organization, it is an alliance between OP
 [Data](articles/649b7164.json)
 
 [Extended Data](ext_articles/649b7164.ext.json)
+
+---
+
+### Protests, strikes must stop for some time for Sri Lanka to recover under SJB govt: MP
+
+*2024-03-04 15:15:00* · [`economynextcom`](https://economynext.com/protests-strikes-must-stop-for-some-time-for-sri-lanka-to-recover-under-sjb-govt-mp-152908/) · `en`
+
+ECONOMYNEXT — A future Samagi Jana Balawegaya (SJB) government will reduce taxes and utility bills, increase state revenue and create an investment-friendly environment, for which protests and strikes may have to take a back seat, an SJB MP said.
+
+“We will definitely reduce taxes and bills. We will enter new markets and increase state revenue. We’ll create an investment-friendly environment. Protests and strikes must be stopped for some time,” SJB legislator S M Marikkar said.
+
+Speaking to reporters, Marikkar said a “somewhat tough” administration is called for.
+
+“Sri Lanka and Vietnam used to have similar economic growth rates. But today, there isn’t a single rupee of foreign direct investment (FDI) coming in. Vietnam had 35 billion US dollars in FDI just last year (actual figure was 36.6 billion).
+
+“We have to understand this reality and maintain a somewhat tough administration, won’t we?” he said.
+
+...
+
+[Data](articles/f2d6f157.json)
 
 ---
 
@@ -2125,219 +2305,5 @@ However, the target set in February has been missed. The number of arrivals was 
 [Data](articles/28022f9c.json)
 
 [Extended Data](ext_articles/28022f9c.ext.json)
-
----
-
-### PS local development Rs. Ml. 20000
-
-*2024-03-04 13:05:46* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා-දේශීය-සංවර්ධනයට-රු--මිලි--20000ක්/11-408410) · `si`
-
-The government plans to invest Rs. 20,000 million for rural development this year, aiming to rebuild the country post-economic crisis.
-
-🟩
-
-State Minister Shehan Semasinghe says that the government is working to invest Rs. 20,000 million for the rural masses this year.
-
-The State Minister was speaking at a meeting of rural road development in the Anuradhapura District yesterday (3).
-
-"About two years ago, the country's political instability caused a country's economic crisis and became victims of their victims. The government has to spend a large sum of money for the development work due to the struggles that have been taken.
-
-Ranil Wickremesinghe was able to rebuild the country in the face of the economic crisis of the economic crisis.
-
-Regional development has begun again two and a half years later, in addition to the development of the regional road network, the government has taken steps to invest Rs.
-
-Whatever the cases in the world, the government does not move back to the crisis if the government does not take into popular decisions. The government plans to benefit all poor families in the country by welfare program.
-
-◼️
-
-[Data](articles/a7b62c38.json)
-
-[Extended Data](ext_articles/a7b62c38.ext.json)
-
----
-
-### Nikki Haley won Trump for the first time
-
-*2024-03-04 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/177863) · `ta`
-
-Nikki Haley won the first-ever regional election for a Republican presidential candidate in Washington DC, receiving 63% of the vote and support from 19 representatives. Donald Trump received 33.3% and no representatives. The Republican candidate needs at least 1215 delegates, with elections in 15 states tomorrow.
-
-🟩
-
-Nikki Haley won the internal election in Washington DC to elect a Republican candidate in the US presidential election.
-
-This is the first time that a woman won a regional election in the history of the Republican presidential candidate.
-
-Washington DC on Sunday yesterday. Nikki Haley received 63 percent of the vote in the city. Nikki Haley will receive the support of 19 representatives in the city.
-
-Former President Donald Trump received 33.3 percent of the vote. He did not get any representatives from Washington DC.
-
-It is noteworthy that only two Donald Trump and Nikki Haley are currently in the Republican candidate.
-
-There are 2429 representatives across the United States in the Republican Party. The presidential candidate requires the support of at least 1215 delegates.
-
-It is noteworthy that the party's election for the Republican candidate will be held in 15 states tomorrow.
-
-◼️
-
-[Data](articles/ed1771b2.json)
-
-[Extended Data](ext_articles/ed1771b2.ext.json)
-
----
-
-### Factum Perspective: Increasing tensions in the Indian Ocean
-
-*2024-03-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177862) · `ta`
-
-Increasing tensions in the Indian Ocean due to Israel's attack on Hamas, leading to indiscriminate opposition and the involvement of Houthis, Yemen, and Somali pirates. The conflict escalated globally, affecting the US-led coalition and the global economy, with Iran, Pakistan, Iraq, and Syria also involved. The US's handling of the situation, including its contacts with Israel, has been criticized. The situation has become a "universal conflict," with governments supporting different sides, impacting global behavior and order. India plays a significant role in the Indian Ocean, dealing with the Middle East crisis alongside the US. However, India's own issues, including the Gaza crisis and the Maldives, complicate the situation. The situation is further complicated by Sri Lanka's actions in the Red Sea. The UN's role, particularly through Article 99, could have mitigated the conflict.
-
-🟩
-
-When Hamas attacked Israel on October 7, 2023, the world's sympathy was seen with the Israeli people. This is a terrorist act and it was formally condemned.
-
-By November, the world began to reflect differently as Israel's opposition became indiscriminate. Palestinian politicians failed to use the support and help of the Arab states to develop their country, thereby allowing Hamas to ensure their position and to undermine the legalization of their justification, and the suffering of the world was so vulnerable.
-
-Then the Houthis began to respond from Yemen, first targeting the ships associated with Israel and gradually expanded to the Western team. We found that the Somali pirates began to work again as a combination of this crisis.
-
-...
-
-[Data](articles/906a4c94.json)
-
-[Extended Data](ext_articles/906a4c94.ext.json)
-
----
-
-### Coconut Price Increase: Massive impact on food packets prices!
-
-*2024-03-04 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/177861) · `ta`
-
-Coconut price hike impacts food packets, curry, and snacks due to increased coconut milk costs. Prices range from 120 to 150 rupees, affecting food industry.
-
-🟩
-
-The increase in the price of coconuts will affect the prices of the pocket and curry varieties, which is due to the fact that most of the curry is made of coconut milk, according to food industry unions.
-
-Rukshan Harshana, president of the All Ceylon Resources Owners Association, said that the price of coconuts, which routinely ranged from 60 to 80 rupees in the country.
-
-Accordingly, the price of a coconut is currently being sold for 120 rupees to 150 rupees.
-
-Snacks and restaurant owners are in great trouble, unable to produce a spoil of coconuts due to increased coconut prices.. This has created a situation where food packets have to be sold at high prices.
-
-Coconut prices have increased as rice, chicken, eggs and gas are all significantly rising.
-
-He warned that the price of coconut oil would increase in the coming days due to the increase in the price of coconuts.
-
-◼️
-
-[Data](articles/e5f43442.json)
-
-[Extended Data](ext_articles/e5f43442.ext.json)
-
----
-
-### Suspect hit and killed: Two former police officers sentenced to death
-
-*2024-03-04 12:55:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c88xqp26961o) · `si`
-
-Two former police officers were sentenced to death by the Colombo High Court for the 2005 murder of four police officers. The defendants were accused of assaulting a suspect in connection with a theft case.
-
-🟩
-
-Suspect hit and killed: Two former police officers sentenced to death
-
-The Colombo High Court today (March 4) was sentenced to death in the 2005 police officers who were arrested by the Peliyagoda Police.
-
-The punishment was sentenced to the defendants of the Peliyagoda Police Criminal Investigation Division (SLTH)
-
-The judge states that the public will come to the court and the judiciary may be ordered by the law.
-
-Abeysinghe Ranjith, who was arrested in connection with theft of a wireless telephone on July 13, 2005, sues four police officers who were killed by Vickened Police in the police station.Was assigned.
-
-However, the Chief Inspector of Police (Chief Inspector), who was charged with the incident, is a Chief Inspector of Police. The judge also ordered the acquitting and release of the two Mohammed Abhisjis as the two officers were not proven to be charged.
-
-Who were the police officers who had to pay for Rs.15 crores to victims?
-
-...
-
-[Data](articles/17015b39.json)
-
-[Extended Data](ext_articles/17015b39.ext.json)
-
----
-
-### Japan, UNFPA gift Sri Lanka reproductive health mobile units
-
-*2024-03-04 12:46:00* · [`economynextcom`](https://economynext.com/japan-unfpa-gift-sri-lanka-reproductive-health-mobile-units-152854/) · `en`
-
-ECONOMYNEXT – The United Nations Population Fund has donated three mobile clinics, funded by the Government of Japan with a total grant amount of USD 4.6 million, to Sri Lanka’s Health Ministry.
-
-The project hopes to ensure access to life-saving sexual and reproductive health, and provide gender-based violence prevention and response services for women, girls and vulnerable groups.
-
-The mobile ‘Health on Wheels’ clinics powered by solar energy, will deliver “essential health care services directly to those in need, regardless of their location” and “will expand access to critical maternal and reproductive health care services, particularly for marginalized communities, both during current crises and in post-disaster situations,” UNFPA said in a statement.
-
-The specially designed vehicles are equipped with a medical compartment with emergency gynecological facilities, including a gynecological bed and medical equipment, to be deployed for health services in areas in case of an emergency.
-
-...
-
-[Data](articles/677874fd.json)
-
-[Extended Data](ext_articles/677874fd.ext.json)
-
----
-
-### Today, four people were 20
-
-*2024-03-04 12:37:24* · [`adalk`](https://www.ada.lk/breaking_news/අද-හතරක්-තෙමෙයි-20ක්-වේලෙයි/11-408409) · `si`
-
-Heavy solar shift expected, rain/thundershowers in Kalutara, Ratnapura, Galle, Matara. 12 districts (4) to address natural disasters. Highest temp 35.8°C, lowest 7.5°C in Nuwara Eliya. Highest rainfall in Neluwa, Galle.
-
-🟩
-
-The weather forest shows that there will be a heavy solar shift in these days and will show rain or thundershowers at four places during the evening alone or at night.
-
-Show showers in Kalutara, Ratnapura, Galle and Matara. The other districts in the country are mainly dry weather.The natural disasters of the Department of Meteorological Center states that in some parts of 12 districts (04), the natural disasters of the Department of Meteorological Center (NPF) states that the natural disasters should be addressing today (04).. This is the case in Puttalam, Kurunegala, Gampaha, Colombo, Hambantota, Anuradhapura, Ratnapura, Ratnapura, Ratnapura, Ratnapura, Ratnapura.
-
-...
-
-[Data](articles/237645fc.json)
-
-[Extended Data](ext_articles/237645fc.ext.json)
-
----
-
-### Shooting in Hanwella leaves one dead
-
-*2024-03-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shooting-in-Hanwella-leaves-one-dead/108-278205) · `en`
-
-Colombo, March 04 (Daily Mirror)  - A shooting incident was reported in the Niripola area of Hanwella, resulting in the death of an individual, according to police.
-
-◼️
-
-[Data](articles/06c936ff.json)
-
-[Extended Data](ext_articles/06c936ff.ext.json)
-
----
-
-### Gangster Manna Roshan's brother killed in shooting at Hanwella
-
-*2024-03-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gangster-Manna-Roshan-s-brother-killed-in-shooting-at-Hanwella/108-278205) · `en`
-
-Colombo, March 04 (Daily Mirror)  -  A 31-year-old man was killed and another injured following a shooting at Niripola in Hanwella this morning.
-
-Police said the deceased was identified as the brother of underworld gangster 'Manna Roshan'.
-
-The shooting had occurred when the victims were travelling in a cab in the Niripola area.
-
-The injured were admitted to the Awissawella Hospital where one of the victims succumbed to his injuries.
-
-The deceased is a resident of Niripola and the Hanwella Police are investigating into the incident.
-
-◼️
-
-[Data](articles/1d2d7fb6.json)
-
-[Extended Data](ext_articles/1d2d7fb6.ext.json)
 
 ---

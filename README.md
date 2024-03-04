@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 16:32:27**
+As of **2024-03-04 17:54:13**
 
 ## Newspaper Stats
 
-*Scraped **10,785** Articles*
+*Scraped **10,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,164 +15,546 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 911
-adaderanalk | 1,314
-tamilmirrorlk | 1,319
-virakesarilk | 1,451
-dailymirrorlk | 1,641
-adaderanasinhalalk | 1,676
+adalk | 913
+adaderanalk | 1,319
+tamilmirrorlk | 1,321
+virakesarilk | 1,456
+dailymirrorlk | 1,645
+adaderanasinhalalk | 1,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,753 (99.7%) of 10,785 articles have been extended.
+10,776 (99.7%) of 10,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Met. Dept. further warns of increased temperatures
+
+*2024-03-04 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97728/met-dept-further-warns-of-increased-temperatures) · `en`
+
+The Department of Meteorology has issued a Heat Index Advisory cautioning the general public of rising temperatures in Western, Southern provinces and in the Rathnapura District tomorrow (March 05).
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution’ level at some places in Western, Southern provinces and in Rathnapura District”, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/9de16283.json)
+
+---
+
+### Thai court acquits former PM Yingluck Shinawatra on charges of mishandling government funds
+
+*2024-03-04 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97727/thai-court-acquits-former-pm-yingluck-shinawatra-on-charges-of-mishandling-government-funds) · `en`
+
+A Thai court on Monday acquitted former Prime Minister Yingluck Shinawatra, now living in exile, on charges of mishandling funds for a government project in 2013, the latest legal victory for the powerful family of former premier Thaksin Shinawatra.
+
+The action comes shortly after Thaksin, Yingluck’s brother, was released on parole for corruption-related offenses. Last year, he returned home after more than a decade of self-imposed exile, and was detained in a hospital for six months before being granted clemency because of his age and ill health.
+
+Thaksin’s release, after almost two decades of antipathy between his populist political machine and Thailand’s conservative royalist ruling class, raised speculation that Yingluck also might be returning soon.
+
+...
+
+[Data](articles/08ce46fd.json)
+
+[Extended Data](ext_articles/08ce46fd.ext.json)
+
+---
+
+### கைத்தொலைபேசியில் கிரிக்கெட் ; இந்தியாவில் ரயில் விபத்துக்கு காரணம் இதுதான்
+
+*2024-03-04 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177897) · `ta`
+
+இந்தியாவில் ஆந்திர மாநிலம் விசாகப்பட்டினம் மாவட்டத்தில் கடந்த ஆண்டு அக்டோபர்  29 ஆம் திகதி இரண்டு ரயில்கள் மோதிக்கொண்ட விபத்துக்குக் காரணம் ரயில் சாரதிகள்  கைத்தொலைபேசியில் கிரிக்கெட் பார்த்ததே என்று இந்திய மத்திய ரயில்வே அமைச்சர் அஸ்வினி வைஷ்ணவ் தெரிவித்துள்ளார்.
+
+கடந்த ஆண்டு பயணிகள் ரயில்கள் ஒன்றோடு ஒன்று மோதிய விபத்தில் 14 பேர் உயிரிழந்தனர். இந்த விபத்தில், சாரதிகளின் அலட்சியமே காரணம் என்று மத்திய ரயில்வே அமைச்சர் தெரிவித்துள்ளார்.
+
+தற்போது, ரயில்களில், பாதுகாப்பு அம்சங்கள் அதிகரிக்கப்படுவதாகவும், ரயில் சாரதிகள் கவனமாக இருக்கிறார்களா என்பதை உறுதி செய்யும் கருவிகளும் பொருத்தப்படுவதாகவும் தெரிவித்துள்ளார்.
+
+எதிர்காலத்தில், ரயில் பயணத்தின் பாதுகாப்பு உறுதி செய்யப்படும் என்றும், விபத்துகள் தவிர்க்கப்படும் என்றும் அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d7255b74.json)
+
+---
+
+### “I sent a resignation letter while in Canada"
+
+*2024-03-04 16:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-இருக்கும்-போதே-ராஜினாமா-கடிதத்தை-அனுப்பினேன்/175-334188) · `ta`
+
+Uthika Premaratne, a Sri Lankan parliamentarian, resigned and is in Canada seeking a work visa, not asylum. He expressed dissatisfaction with politics and highlighted his acting career.
+
+🟩
+
+Anuradhapura District Sri Lanka PA (SLPP) parliamentarian Uthika Premaratne, who recently resigned from his parliamentary post, said he was looking for a work visa in Canada.
+
+Premaratne, who is currently in Canada, told the local YouTube channel that he did not seek asylum in Canada and was expecting a work visa.
+
+I have not learned anything from politics, and I only have the only one I earned in acting.
+
+◼️
+
+[Data](articles/b811b8d3.json)
+
+[Extended Data](ext_articles/b811b8d3.ext.json)
+
+---
+
+### Two former police officers sentenced to death over custodial death
+
+*2024-03-04 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97726/two-former-police-officers-sentenced-to-death-over-custodial-death) · `en`
+
+The Colombo High Court has sentenced to death two former police officers who were attached to Peliyagoda Police, after they were found guilty of assaulting to death a suspect while in custody at the Peliyagoda police station in 2005.
+
+Colombo High Court Judge Navaratne Marasinghe delivered the verdict today (04) following a trial that lasted over 18 years.
+
+In July 2005, a person who was working in the residence of a police officer attached to the police fingerprint division had been handed over to Peliyagoda Police Station on suspicion of allegedly stealing a mobile phone from the house in question.
+
+Accordingly, a Sub-Inspector of Police and a Police Constable attached to Peliyagoda Police Station were convicted of unlawfully detaining the 52-year-old suspect and brutally assaulting him to death.
+
+Furthermore, the two accused were also ordered to pay a compensation of Rs. 1 million each to the daughter of the victim.
+
+...
+
+[Data](articles/64c7404f.json)
+
+[Extended Data](ext_articles/64c7404f.ext.json)
+
+---
+
+### Carrying mass books to school
+
+*2024-03-04 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177882) · `ta`
+
+Justice Minister Vijayadasa Rajapaksa highlighted the issue of students carrying heavy books, leading to back pain. Finance Minister Vijayadasa Rajapaksa called for education authorities to address this. An awareness walk in Colombo, sponsored by Apollo Hospitals Group, aimed to raise awareness about spinal cord issues among boys. Dr. Nilaka Welikala, Chairman of the Serendip Group, emphasized the need for awareness. Indian and Sri Lankan experts participated in the event.
+
+🟩
+
+Justice Minister Vijayadasa Rajapaksa said that the main reason for the large number of students and students to carry large school books to school, which is the main reason for the turnout of their backs.
+
+Therefore, Finance Minister Vijayadasa Rajapaksa urged the education authorities to open the eye and prepare the necessary background to continue their children's education.
+
+Thousands of schoolchildren participated in the Independence Square in Colombo last Saturday (02) to raise awareness among the general public to eliminate the back pain from Sri Lanka.
+
+The Awareness Walk was sponsored by the Apollo Hospitals Group of India.
+
+“In the country, the large number of boys are suffering from problems in the spinal cord. The minimum knowledge of the disease is among people. Thus, the ability to save children from the disease has decreased. Therefore, parents need to raise awareness about the disease.
+
+...
+
+[Data](articles/7e0e630f.json)
+
+[Extended Data](ext_articles/7e0e630f.ext.json)
+
+---
+
+### Death sentence for police officers - High Court Action
+
+*2024-03-04 16:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்களுக்கு-மரண-தண்டனை-மேல்-நீதிமன்றம்-அதிரடி/175-334187) · `ta`
+
+Two police officers in Peliyagoda, Colombo, sentenced to death for arresting a suspect in 2005. The suspect was later executed. The verdict was delivered by Judge Nawaratne Marasinghe after a lengthy trial.
+
+🟩
+
+Two police officers who were on duty at the Peliyagoda police station have been sentenced to death.
+
+In 2005, a suspect was arrested and sentenced to death for allegedly being arrested by a suspect by the Peliyagoda police.
+
+Colombo High Court Judge Nawaratne Marasinghe presented the verdict after a long hearing. Remble
+
+◼️
+
+[Data](articles/e8eb3b70.json)
+
+[Extended Data](ext_articles/e8eb3b70.ext.json)
+
+---
+
+### An accident youth killed in Batticaloa
+
+*2024-03-04 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177894) · `ta`
+
+A 20-year-old youth died in a motorcycle accident in Batticaloa's Eruvil area, while another was seriously injured. The accident occurred at 12.30 am on Monday, 04, when the motorcycle lost control near a tree. Both were taken to hospitals for treatment.
+
+🟩
+
+Kaluwanchikudi police said that a youth was killed in a motorcycle accident in the Eruvil area belonging to the Kaluwanchikudi police division in the Batticaloa district.
+
+The accident took place at around 12.30 am on Monday (04).
+
+The incident took place when a motorcycle lost a speeding control of a nearby tree as a friend went to the birthday of a friend.
+
+The two youths who were traveling on a motorcycle were taken to the Kaluwanchikudi Base Hospital with serious injuries and were taken to the Batticaloa Teaching Hospital for further treatment.
+
+A youth has died on the way to Batticaloa and the other youth is currently receiving treatment at the Batticaloa Teaching Hospital, police said.
+
+The death of a 20 -year -old youth from the village of Eruvil has died and the body of the deceased has now been placed at the Batticaloa Teaching Hospital.
+
+◼️
+
+[Data](articles/1139f4df.json)
+
+[Extended Data](ext_articles/1139f4df.ext.json)
+
+---
+
+### Sri Lanka hosts the global climate promise exchange workshop
+
+*2024-03-04 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97725/sri-lanka-hosts-the-global-climate-promise-exchange-workshop) · `en`
+
+16 countries from Africa, Europe and Central Asia, Africa and Arab State regions have gathered in Colombo, Sri Lanka for a global exchange workshop on climate action. The gathering begins today and will last until March 7. The aim of the workshop is for countries to share best practices, celebrate achievements and explore lessons learned from their work.
+
+With the support of the Government of Japan, the United Nations Development Programme has assisted developing countries in translating their national climate pledges (also known as their Nationally Determined Contributions, or NDCs) into tangible actions since 2021. The funding is implemented through UNDP’s flagship initiative, Climate Promise.
+
+...
+
+[Data](articles/2f7c6671.json)
+
+[Extended Data](ext_articles/2f7c6671.ext.json)
+
+---
+
+### Parliament can remove the executive power of the president: Parliamentary powers cannot be canceled by Parliament - President
+
+*2024-03-04 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177892) · `ta`
+
+It seems like you've shared a detailed speech or address that discusses the economic, legal, and political landscape of a country, focusing on the need for new laws, economic transformation, and the role of Parliament. This text appears to be a comprehensive overview of the current challenges and proposed solutions for the country's future. If you have specific questions or need assistance with a particular aspect of this speech, such as its analysis, editing, or further development, please let me know how I can assist you further.
+
+🟩
+
+President Ranil Wickremesinghe said that 42 new laws have been passed in Parliament in the last 14 months to bring about a new economic change in the country.. The President also pointed out that 62 laws are expected to be passed and passed in Parliament and that if it is not passed in Parliament, it will be passed in the next Parliament.
+
+President Ranil Wickremesinghe made this statement in a discussion with young lawyers on the legal reform held at the Bandaranaike International Conference Hall in Colombo on Sunday (03).
+
+J.R.. The President also stressed that many new laws would be introduced for the rapid economic change of the country, just as Jayawardene introduced new laws to create an open economy in 1977.
+
+...
+
+[Data](articles/a9a21186.json)
+
+[Extended Data](ext_articles/a9a21186.ext.json)
+
+---
+
+### Indian train drivers in crash that killed 14 were watching cricket
+
+*2024-03-04 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-train-drivers-in-crash-that-killed-14-were-watching-cricket/108-278215) · `en`
+
+New Delhi, Mar. 4 (AFP) - The drivers of a train that missed a signal and ploughed into another train, killing 14 people, were distracted because they were watching cricket on a phone, India's railways minister said Monday.
+
+The fatal collision in Andhra Pradesh state in October took place as hosts India played England during the one-day World Cup.
+
+"The recent case in Andhra Pradesh happened because both the loco-pilot and co-pilot were distracted by the cricket match," Minister of Railways Ashwini Vaishnaw said, the Press Trust of India news agency reported.
+
+"Now we are installing systems which can detect any such distraction and make sure that the pilots (train drivers) and the assistant pilots are fully focused on running the train."
+
+Hundreds of millions of fans in cricket-crazy India tuned in to watch the live broadcast of the World Cup match, which the hosts won.
+
+...
+
+[Data](articles/eb710b24.json)
+
+[Extended Data](ext_articles/eb710b24.ext.json)
+
+---
+
+### Two police officers sentenced to death
+
+*2024-03-04 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194120) · `si`
+
+Two police officers from Peliyagoda Police Station were sentenced to death for assaulting a suspect arrested in 2005, as decided by Colombo High Court Judge Navaratne Marasinghe after a lengthy trial.
+
+🟩
+
+Two police officers who served at the Peliyagoda Police Station (04) was sentenced to death.
+
+The suspects were convicted of the allegations of assaulting a suspect who was arrested in 2005.
+
+The decision was made by Colombo High Court Judge Navaratne Marasinghe after a long trial.
+
+◼️
+
+[Data](articles/44044b1a.json)
+
+[Extended Data](ext_articles/44044b1a.ext.json)
+
+---
+
+### Ten years later, a Palestinian woman became the mother of twins-Israel's attack killed two of them
+
+*2024-03-04 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177888) · `ta`
+
+A Palestinian woman, Rania Abu Anja, lost her twins and nine family members in an Israeli attack. She underwent ten years of IVF treatments. Israel's actions in Gaza and Rabba, declared a security zone, have led to civilian casualties, including women and children. Israel claims to follow international laws to minimize civilian harm.
+
+🟩
+
+Rania Abu Anja needed ten years and three IVV treatments for pregnancy - but in five minutes he lost his two twins.
+
+Nine people, including her husband and her husband's relatives, died when Israel attacked her house in Rabba last Saturday.
+
+He was blindfolded to feed his son at ten o'clock at night.
+
+He tears as I screamed for my husband and children.
+
+He noted that their dad left me alone and went with two children.
+
+After the war in Gaza, Israel has continuously attacks a large number of civilian houses.
+
+Rabba, which was declared a security zone in October, is now the next land of a major extinct ground attack.
+
+The Israeli Hamas, which claims to avoid the impact of the public, blames this.
+
+Hamas has placed its organizations among the public.
+
+However, Israel does not report anything about their attacks on killing women and children.
+
+Israel is adopting international laws and taking steps to avoid the casualties of the public.
+
+...
+
+[Data](articles/a72fd5bd.json)
+
+[Extended Data](ext_articles/a72fd5bd.ext.json)
+
+---
+
+### Uddika says he is looking to get work Visa in Canada
+
+*2024-03-04 15:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uddika-says-he-is-looking-to-get-work-Visa-in-Canada/108-278213) · `en`
+
+Anuradhapura district Sri Lanka Podujana Peramuna (SLPP) MP Uddika Premaratne, who resigned from his Parliamentary seat recently, said he was expecting a work visa in Canada.
+
+Premaratne, who is currently in Canada, told a local YouTube channel that he had not sought political asylum in Canada as reported and that he was expecting a work visa.
+
+"I have not learned anything from politics. Only what I earned from acting is left with me now,” he said.
+
+◼️
+
+[Data](articles/1d11642f.json)
+
+[Extended Data](ext_articles/1d11642f.ext.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-03-04 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177886) · `ta`
 
-இன்று திங்கட்கிழமை (மார்ச் 04) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 303.8123 ஆகவும் விற்பனை விலை ரூபா 313.4131 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On March 4, the US dollar's purchase price was Rs 303.8123, and the sale price was Rs 313.4131, according to the Central Bank's exchange rate.
+
+🟩
+
+The US dollar purchasing price was Rs 303.8123 and the sale price was 313.4131 based on the Central Bank's currency exchange rate on Monday (March 04).
 
 ◼️
 
 [Data](articles/144fd31c.json)
 
+[Extended Data](ext_articles/144fd31c.ext.json)
+
 ---
 
-### சாந்தனின் உடலுக்கு இறுதிக்கிரியை நடைபெற்று இறுதி ஊர்வலம் ஆரம்பம்
+### The funeral begins with the funeral of Shantan's body
 
 *2024-03-04 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177884) · `ta`
 
-உடுப்பிட்டி - இலக்கணாவத்தையில் உள்ள சாந்தனின் சகோதரியின் இல்லத்தில் சமய சடங்குகளுடன் இறுதிக்கிரியை நடைபெற்றது.
+Shantan's funeral began at his sister's residence in Udupiti, with a tribute by religious leaders, political representatives, and the public. The procession included stops in Navaladi, Udupitti, Valvettithurai, and Polikandi, ending at the Elangulam Heroir Durum.
 
-சாந்தனின் தாய் மற்றும் சகோதரி உள்ளிட்ட நெருங்கிய உறவுகளால் புகழுடலுக்கு வாய்க்கரிசி போடப்பட்டு ஊர்மக்களால் அருகில் உள்ள சனசமூக நிலையமொன்றுக்கு புகழுடல் தாங்கிச் செல்லப்பட்டது. அங்கு பொதுமக்களால் அஞ்சலி செலுத்தப்பட்டு நினைவஞ்சலி உரைகள் இடம்பெற்று வருகிறது.
+🟩
 
-இறுதி ஊர்வலம் அறிவகம் சனசமுக நிலையம்,தர்மகுலசிங்கம் சனசமுக நிலையம்,  வீரகத்தி விநாயகர் சனசமூக நிலையம் ஊடாக நாவலடி, உடுப்பிட்டி, வல்வெட்டித்துறை, பொலிகண்டி ஊடாக பயணித்து எள்ளங்குளம் மாவீரர் துயிலும் இல்லத்தில் நிறைவு பெற்று மாலை புகழுடல் தகனம் செய்யப்படும்.
+The funeral was held at the residence of Santhan's sister in Udupiti - Gramanawatha.
 
-இறுதி அஞ்சலியில் சமயத் தலைவர்கள், அரசியல் பிரதிநிதிகள், பொது அமைப்புக்களின் பிரதிநிதிகள், பொதுமக்கள் என பலரும் கலந்து கொண்டுள்ளனர்.
+Santhan's mother and sister, including close relationships, became a globe and bear a popular community in a nearby community station by the townspeople.. There is a tribute to the public and the memorial speeches are being held.
 
-இந்திய முன்னாள் பிரதமா் ராஜிவ் காந்தி கொலை வழக்கில் தண்டனை பெற்று விடுவிக்கப்பட்ட சாந்தன், திருச்சியில் உள்ள சிறப்பு முகாமில் தடுத்து வைக்கப்பட்ட நிலையில் சென்னை ராஜிவ் காந்தி அரசு மருத்துவமனையில் கடந்த 28ம் திகதி மாரடைப்பு காரணமாக உயிரிழந்தார்.
+The funeral will be completed at the Elangulam Heroir Durum, traveling through Navaladi, Udupitti, Valvettithurai, Polikandi, through the Nawaladi, Udupiti, Valvettithurai, Polikandi.
+
+Religious leaders, political representatives, representatives of public organizations and the public were present at the final tribute.
+
+Shantan, who was sentenced to death in the murder of former Indian Prime Minister Rajiv Gandhi, was detained at a special camp in Trichy.
 
 ◼️
 
 [Data](articles/b870dc0a.json)
 
+[Extended Data](ext_articles/b870dc0a.ext.json)
+
 ---
 
-### හූති තර්ජන වැඩිවෙයි
+### The threats increase
 
 *2024-03-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194119) · `si`
 
-යේමනයේ හූති කැරළිකරුවන් පසුගිය සති අන්තයේ එල්ල කළ ප්‍රහාරයකින් බ්‍රිතාන්‍යය ට අයත් රූබිමා නෞකාව පොහොර තොගයක් සමග මුහුදුබත් වූ බව වාර්තා වෙයි.
+Yemen residents report British involvement in large fertilizer shipments. Houthi rebels, recognized by Iran, Syria, and North Korea, continue attacks despite controlling large territories. The US is seen as a foreign three-ownership organization. On February 18, the Deebimah ship was attacked, but relief teams saved its staff before sinking.
 
-බ්‍රිතාන්‍යය ට අයත් නෞකාවලට තවදුරටත් ප්‍රහාර එල්ල කරන බව හූති කැරළිකරුවන් ප්‍රකාශ කරයි.
+🟩
 
-යේමනයේ විශාල භූමි ප්‍රදේශයක පාලන බලය හිමිකරගෙන සිටියත් හූති කැරළිකරුවන් ව ජාත්‍යන්තර වශයෙන් පිළිගන්නේ ඉරානය, සිරියාව, උතුරු කොරියාව වැනි රටවල් කිහිපයක් පමණි.
+Yemen's Residents reported that the British belonging to British belongs to a large quantity of fertilizer by a bulk of the British.
 
-අමෙරිකා එක්සත් ජනපදය හූති කැරලිකරුවන් හඳුන්වන්නේ විදේශීය ත්‍රන්තවාදී සංවිධානයක් ලෙසයි.
+Polders say they continue to attack the British belonging to the British.
 
-රූබිමා නෞකාවට පෙබරවාරි 18 වනදා හූති කැරළිකරුවන් ප්‍රහාරයක් එල්ලකළ අතර එය මුහුදුබත් වීමට ප්‍රථම එහි කාර්ය මණ්ඩලය බේරා ගැනීමට සහන කණ්ඩායම් සමත් විය.
+Despite the control of a large territory in a large territory in Yemen, the Houthi rebels are only internationally recognized as Iran, Syria, and North Korea.
+
+The United States of America is referred to as a foreign three-ownership organization.
+
+The deebimah ship was attacked on February 18, with relief teams were able to save its staff before they were sinking.
 
 ◼️
 
 [Data](articles/5379ed17.json)
 
+[Extended Data](ext_articles/5379ed17.ext.json)
+
 ---
 
-### ශ්‍රී ලාංකික ක්‍රීඩිකාවකට නොසිතූ තැනක්
+### A place where Sri Lankan player was unexpected
 
 *2024-03-04 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194118) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් පෙබරවාරි මාසයේ හොඳම ක්‍රීඩිකාව තේරීම සඳහා වන නාම යෝජනා ප්‍රකාශයට පත්කර ඇත.
+The International Cricket Council (ICC) has nominated a Sri Lankan player, Kavisa, for the best player award in February. Kavisa, a three-year-old talent, scored 1,728 runs in 20 centuries at Twenty20 cricket.
 
-මෙහි ඇති සුවිශේෂීත්වය වන්නේ එම නාමයෝජනා අතර එක්සත් අරාබි එමීර් රාජ්‍යයේ කාන්තා ක්‍රිකට් කණ්ඩායම නියෝජනය කරන ශ්‍රී ලාංකික ක්‍රිකට් ක්‍රීඩිකාවකගේ නමක් ඊට ඇතුළත්ව තිබීමය.
+🟩
 
-මෙලෙස ප්‍රකාශයට පත්කෙරෙන නාමයෝජනා සඳහා ක්‍රීඩාලෝලීන්ට සිය ඡන්දය අන්තර්ජාලය හරහා ප්‍රකාශයට පත්කළ හැකි අතර පසුව එහි ප්‍රතිඵල සලකාබැලීමෙන් අනතුරුව මාසයේ හොඳම ක්‍රීඩිකාව ICCය විසින් නම්කරනු ලබයි.
+The International Cricket Council has published nominations to select the best player in February.
 
-කවීෂා එගොඩගේ තුන් ඉරියව් ක්‍රීඩිකාවක් ලෙසින් UAE කාන්තා කණ්ඩායම වෙනුවෙන් දැක්වූ දක්ෂතා හේතුවෙන් ඇයව මෙලෙස පෙබරවාරි මාසයේ ක්‍රීඩිකාවන් තිදෙනා අතරට නම්කර තිබේ.
+The uniqueness of this is that the nomination is that the name of the United Arab Emirates of the United Arab Emirates have been included.
 
-විස්සයි විස්ස ක්‍රිකට් පිටියේදී ශතක 9ක් රැස්කර ඇති 20 හැවිරිදි වියේ පසුවන කවීෂා ලකුණු 1,728ක් රැස්කරගෙන ඇති අතර විස්සයි විස්ස කඩුලු 29ක් දවාගෙන සිටී.
+For the sportscellaneous nominations can be published on the Internet and then the best athletes of the month will be nominated by the ICC.
 
-මීට අමතරව මෙවර පෙබරවාරි මාසය සඳහා ICCය විසින් නම්කළ ක්‍රීඩිකාවන් අතරට UAE කාන්තා කණ්ඩායමේ ඊශා ඕසා සහ ඔස්ට්‍රේලියානු කාන්තා කණ්ඩායමේ ඇනබල් සදර්ලෑන්ඩ් නම්කර තිබේ.
+As a three-year-old talent, Kavisa was a three-year-old girl's talent, the UAE's talents were named among the three athletes.
+
+Twenty20-year-old Kavisa scored 1,728 in the 20 centuries at Twenty20 cricket. Twenty20 wickets.
+
+In addition, the ICC nominated for February for the month of February.
 
 ◼️
 
 [Data](articles/44bab1cb.json)
 
+[Extended Data](ext_articles/44bab1cb.ext.json)
+
 ---
 
-### බොර තෙල් මිලේ වෙනසක්
+### Sift of crude oil
 
 *2024-03-04 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194117) · `si`
 
-දිනකට බොර බැරල් මිලියන 2.2ක ස්වෙච්ඡා, නිෂ්පාදන කප්පාදුවක් සඳහා ඔපෙක් ප්ලස් සාමාජික රටවල් එකඟවීමත් සමග ලෝක වෙළෙඳපොළේ තෙල් මිල ඉහළ යාමක් වාර්තා වී ඇති බව විදෙස් මාධ්‍ය පවසයි.
+Oil prices rise due to OPEC+ agreement to cut 2.2M barrels daily, with Brent crude at $80.17. Despite global market slowdown, analysts predict high prices due to cuts. Russia plans to cut over 471,000 barrels/day. OPEC+ includes OPEC and non-OPEC countries, led by Saudi Arabia and Russia. Geopolitical tensions, like the Israeli-Hamas war and Yemen rebutters, and global economic slowdown affect oil market.
 
-මේ වසරේ දෙවැනි කාර්තුව දක්වා එම  නිෂ්පාදන කප්පාදුව ක්‍රියාත්මක කරන්න ඔපෙක් ප්ලස් සාමාජිකයන් එකඟ වී තිබේ.
+🟩
 
-ඒ අනුව බ්‍රෙන්ට් වර්ගයේ බොරතෙල් බැරලයක මිල අමෙරිකානු ඩොලර් 83යි ශත 83 දක්වා ඉහළ ගොස් තිබූ අතර අමෙරිකානුු WTI බොර තෙල් බැරලයක මිල සටහන් වී ඇත්තේ ඩොලර් 80යි ශත 17ක් ලෙසිනි.
+According to foreign media, oil prices have been increased in the world market with the agreement of 2.2 million barrels of bath daily, a cost of voluntary countries.
 
-ගෝලීය වෙළෙඳපොළේ තෙල් සැපයුම ඉහළයාම සහ ලෝක ආර්ථිකයේ මන්දගාමී බව හේතුවෙන් ලෝක වෙළෙඳපොළේ තෙල් මිල පහළ යාමේ ප්‍රවණතාවක් පසුගිය කාලයේදී දක්නට ලැබුණි.
+Opec Plus Members have agreed to implement the cut cut until the second quarter of this year.
 
-එහෙත් මේ නව නිෂ්පාදන කප්පාදුව නිසා තෙල් මිල ඉහළ මට්ටමක පවතින බවට වෙළෙඳපොළ විශ්ලේෂකයන් පුරෝකථනය කරයි.
+Accordingly, the price of a barrel of Brent crude oil has risen to 83 cents and is US $ 80 and 17 cents.
 
-ඔපෙක් ප්ලස් කණ්ඩායමේ විශාලතම නිෂ්පාදන කප්පාදුවට සුදානම් වී ඉන්නේ රුසියාව බව වාර්තා වෙයි.
+The global market in the global market and the slowness of the global market, the tendency to reduce oil prices in the world market.
 
-රුසියානු නියෝජ්‍ය අග්‍රාමාත්‍ය ඇලෙක්සෙන්ඩර් නොවැක් ප්‍රකාශ කරන්නේ මේ වසරේ දෙවැනි කාර්තුවේදී රුසියාව දිනකට අතිරේක තෙල් බැරල් 471,000 බැගින් කප්පාදු කිරීමට සුදානම් බවයි.
+However, marketing analysts forecast that oil prices are high due to cuts.
+
+It is reported that Russia is preparing to cut the largest product cuts of the OPEC Plus team.
+
+The Russian Deputy Prime Minister Unsublished that Russia is ready to prune over 471,000 barrels per day in the second quarter of this year.
+
+If the Operic Plus explains about the organization, it is an alliance between OPEC and non-openers.
 
 ...
 
 [Data](articles/649b7164.json)
 
+[Extended Data](ext_articles/649b7164.ext.json)
+
 ---
 
-### டிரம்பிற்கு கறுப்பினத்தவர்கள் ஆதரவு என்பதை காண்பிப்பதற்கு போலி செயற்கை நுண்ணறிவு படங்கள் - டிரம்பின் ஆதரவாளர்கள் சர்ச்சை நடவடிக்கை
+### Fake artificial intelligence images to show that blacks are supported by blacks - Trump's supporters controversial action
 
 *2024-03-04 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177880) · `ta`
 
-போலியான செயற்கை நுண்ணறிவு படங்களை உருவாக்கி டிரம்பின்  ஆதரவாளர்கள் கறுப்பின வாக்காளர்களை இலக்குவைத்துவருகின்றனர்.
+Trump's supporters use AI to create fake images showing blacks supporting Trump, aiming to win black voters' support for the 2020 election. The Blackwoters Matter Organization denies these images are true, highlighting a controversial trend before the US election.
 
-முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்பிற்கு கறுப்பினத்தவர்கள் ஆதரவளிக்கின்றனர்  என்ற உணர்வை ஏற்படுத்தும் விதத்தில் டிரம்புடன் கறுப்பினத்தவர்கள் காணப்படும் போலிவீடியோக்கள் படங்களை  டிரம்பின் ஆதரவாளர்கள் உருவாக்குவது தெரியவந்துள்ளதாக பிபிசி தெரிவித்துள்ளது.
+🟩
 
-2020 தேர்தலில் பைடன் வெற்றிபெறுவதற்கு கறுப்பினத்தவர்களின் ஆதரவு முக்கியமானதாக காணப்பட்ட நிலையில் டிரம்ப் தற்போது அவர்களின் ஆதரவை பெறுவதற்கான முயற்சிகளில் வெளிப்படையாக ஈடுபட்டுள்ளார்.
+Trump's supporters target black voters by creating fake artificial intelligence images.
 
-இவ்வாறான போலியான படங்கள் கறுப்பினத்தவர்களின் ஆதரவு  டிரம்பிற்குள்ளது என்பதை காண்பிப்பதற்கு பயன்படுத்தப்படுவதாக பிளக்வோட்டர்ஸ் மட்டர் அமைப்பின் ஏற்பாட்டாளர் தெரிவித்துள்ளார்
+The BBC has revealed that Trump's supporters are creating images of blacks with blacks and black people with Trump to make former President Donald Trump feel that blacks are supported.
 
-இவ்வாறான படங்கள் உண்மையானவை என நான் தெரிவிக்கவில்லை என இந்த படங்களை உருவாக்கி ஒருவர் தெரிவித்துள்ளார்.
+Trump is now openly trying to gain their support, as the support of blacks is important to win the 2020 election.
 
-செயற்கை நுண்ணறிவை பயன்படுத்தி டிரம்ப் ஆதரவாளர்கள் உருவாக்கும் போலி படங்கள் அமெரிக்க தேர்தலிற்கு முந்தைய புதிய போக்காக காணப்படுகின்றது.
+The organizer of the Blackwoters Matter Organization said that such fake pictures are used to show that the blacks are supported by the blacksmiths.
 
-...
+One of these films said that these films are not true.
+
+The fake pictures of Trump supporters using artificial intelligence are a new trend before the US election.
+
+There are also a group of people who have created such films. They have created a picture of Trump's black women.
+
+In the first sight, it seems like a real film, but many facts are visible.
+
+◼️
 
 [Data](articles/160eae8c.json)
 
+[Extended Data](ext_articles/160eae8c.ext.json)
+
 ---
 
-### හොර පාරේ ගිය කොට ලොරිය මඩේ
+### Lori is in the road
 
 *2024-03-04 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194116) · `si`
 
-නීතිවිරෝධි ලෙස තේක්ක කඳන් තොගයක් ප්‍රවාහනය කරමින් තිබු කැබ් රථයක් කරුවලගස්වැව දෙකේ යාය ප්‍රදේශයේ දී මඩ වගුරකට වැටී අනතුරක් සිදුව තිබේ.
+Lori is in the road. A cab carrying illegal teak stems was stopped by Wildlife Officers in Karuwalagaswewa. The driver tried to escape but fell into mud. The cab was taken into custody by Nawagattegama Police with 30 illegal woods. The operation was based on information about timber racketeering.
 
-නීතිවිරෝධි ලෙස තේක්ක කඳන් ප්‍රවාහනය කරන බවට ලද තොරතුරක් මත නවගත්තේගම වනජීවි නිලධාරී කණ්ඩායමක් විසින් ඊයේ (03) මෙම කැබ් රථය ලුහුබැඳ එය නවත්වන ලෙසට අණ කර ඇත.
+🟩
 
-එහිදී වනජීවි නිලධාරින්ගෙන් මිදී පළායාමට කැබ් රථයේ රියදුරු උත්සාහ දරා ඇති අතර, ඔහු ගමන් මාර්ගය වෙනස් කරමින් රථය ධාවනය කර ඇත.
+A cab carrying a stock of teak stems as illegal has been transporting a mud in Karuwalagaswewa.
 
-එම අවස්ථාවේ දී මඩ වගුරකට වැටී කැබ් රථය මඩේ එරී ඇති අතර, සැකකරුවන් කැබ් රථය එම ස්ථානයේ දමා පළා ගොස් තිබේ.
+A group of Wildlife Officership of a Wildlife Officer to be transported as illegal as illegal was commanded to stop it.
 
-මෙසේ පළා ගොස් ඇත්තේ පුත්තලම හා කල්අඩිය යන ප්‍රදේශවල පදිංචිකරුවන් බව පසුව සිදුකළ විමර්ශනවලදී හෙළි වී තිබිණි.
+The driver of the cab had tried to escape the fleeing of the fleeing of the fleeing of the fleeing of the fleeing.
 
-පසුගිය ජනවාරි මස 9 වනදා ද මෙම කැබ් රථයම නීතිවිරෝධි දැව කඳන් 30ක් සමග නවගත්තේගම පොලීසිය විසින් සිය භාරයට ගෙන පසුව බැඳුම්කරයක් මත නිදහස් කර ඇත.
+The cab had fallen into a mud and the suspects had gone to the cab.
 
-ඉන් පසුවද දිගින් දිගටම මෙම කැබ් රථය යොදා ගනිමින් දැව ජාවාරම් සිදුකරන බවට ලද තොරතුරක් මත නවගත්තේගම වනජීවී නිලධාරීන් මෙම මෙහෙයුම සිදුකර තිබේ.
+According to the sub-residents of the Puttalam and Kadaduwa areas were later revealed.
+
+The cab was taken into custody by the Nawagattegama Police with 30 illegal woods with 30 illegal wood.
+
+The operation was carried out by the operation of Wildlife Officers on information that continued to carry on timber racketeering using the cab.
+
+Taking a backhoe was used to be produced before the Anamaduwa Court of Anakuwa.
+
+◼️
+
+[Data](articles/b872050e.json)
+
+[Extended Data](ext_articles/b872050e.ext.json)
+
+---
+
+### Nissanka among nominees for ICC Player of the Month
+
+*2024-03-04 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97724/nissanka-among-nominees-for-icc-player-of-the-month) · `en`
+
+Three top-order batters from India, Sri Lanka and New Zealand have made the shortlist for the ICC Men’s Player of the Month Award for February 2024.
+
+Pathum Nissanka is a top contender for the ICC Men’s Player of the Month for February 2024 after he slammed the first ever double century in ODIs by a Sri Lankan. The 25-year-old blasted 210* off just 139 balls against Afghanistan in Pallekele and then went on to end the series with another terrific hundred (118 off 101 balls).
+
+Nissanka beat Sanath Jayasuriya’s 24-year-old record for the highest score by a Sri Lankan in ODIs.
+
+Jayasuriya had scored 189 against India in Sharjah in 2000. In the last 18 overs, Nissanka slammed 110 runs. He took merely 48 balls to reach his double ton after crossing his century, smashing 20 fours and eight sixes.
 
 ...
 
-[Data](articles/b872050e.json)
+[Data](articles/993a8834.json)
+
+[Extended Data](ext_articles/993a8834.ext.json)
 
 ---
 
@@ -182,15 +564,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Colombo, March 04 (Daily Mirror) - The Irrigation Department has advised the public to exercise caution and use water sparingly.
 
-This call comes in the light of the dwindling water levels observed in rivers, which serve as crucial sources for pipe borne drinking water across the region.
+Speaking to Daily Mirror, Director General of Irrigation A. Gunasekara said that this call comes in the light of the dwindling water levels observed in rivers, which serve as crucial sources for pipe borne drinking water across the region.
 
-With the National Water Supply and Drainage Board (NWSDB) indicating a prolonged absence of rainfall for the next two months, concerns regarding water scarcity are heightened.
+“The current capacity of the water tanks stands at 50-60 percent, a level projected to further diminish with a prolonged absence of rainfall for the next two months,” he pointed out.
 
-In response to this situation, citizens are urged to use water sparingly and adopt water-saving practices in their daily routines.
+“In response to this situation, citizens are urged to use water sparingly and adopt water-saving practices in their daily routines,” Gunasekara added.
 
-◼️
+Meanwhile, Dr. Hemali Kothalawala, Director of the Department of Animal Production and Health, emphasized the need for special attention to be given to animals during this period of water scarcity.
+
+...
 
 [Data](articles/70f5e044.json)
+
+[Extended Data](ext_articles/70f5e044.ext.json)
 
 ---
 
@@ -216,25 +602,31 @@ The Ceylon Electricity Board's Engineers Association, which criticized his views
 
 ---
 
-### පැතුම් හොඳම ක්‍රීඩකයින් තිදෙනා අතරට
+### Wishing Best Players
 
 *2024-03-04 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194114) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් පෙබරවාරි මාසය සඳහා ලොව හොඳම ක්‍රිකට් ක්‍රීඩකයා තේරීම සඳහා සුපිරි ක්‍රීඩකයින් තිදෙනෙකු තෝරාගෙන තිබේ.
+The International Cricket Council (ICC) has selected Sri Lanka's blear as the best cricketer in February, following a double century in an ODI series against Afghanistan, marking the first double century by a Sri Lankan cricketer.
 
-ඒ අතරින් හොඳම ක්‍රීඩකයා ලෙස නම් කෙරෙන්නේ අන්තර්ජාලය හරහා පැවැත්වෙන ඡන්දයක් හරහාය.
+🟩
 
-ඒ අනුව මෙවර පෙබරවාරි මාසයේ හොඳම ක්‍රීඩකයින් තිදෙනාගේ නාම යෝජනා අතරට ශ්‍රී ලංකා සුපිරි ආරම්භක පිතිකරු පැතුම් නිස්සංක ද ඇතුළත් කර තිබීම විශේෂත්වයකි.
+The International Cricket Council has selected three super players to select the best cricketer in the world for February.
 
-ඇෆ්ගනිස්තානයට එරෙහිව පැවති එක්දින තරගාවලියේදී ලබාගත් ද්විත්ව ශතකය ඔහුව මෙලෙස නම්කිරීමට මූලික හේතුව වී ඇත.
+The best player is named after a voting voting.
 
-එය ශ්‍රී ලාංකික ක්‍රිකට් ක්‍රීඩකයෙකු විසින් එක්දින තරගයකදී රැස්කළ ප්‍රථම ද්විත්ව ශතකයයි.
+Accordingly, the Sri Lanka Super starter blear is among the three-players' names of the three players in February this year.
 
-මීට අමතරව 2024 පෙබරවාරි මාසයේ හොඳම ක්‍රීඩකයා ලෙස තේරීම සඳහා පැවැත්වෙන මත විමසුමට ICCය නම්කර ඇති සෙසු ක්‍රීඩකයින් වන්නේ ඉන්දීය යොවුන් පිතිකරු යශස්වි ජයිශ්වාල් සහ නවසීලන්ත සුපිරි පිතිකරු කේන් විලියම්සන්වය.
+The double century obtained at the ODI series against Afghanistan has come to name him.
+
+It is the first double century in a ODI player by a Sri Lankan cricketer.
+
+The other players named the ICC is the best player to select as the best player in February 2024 to be the best player in February 2024.
 
 ◼️
 
 [Data](articles/6f6febfe.json)
+
+[Extended Data](ext_articles/6f6febfe.ext.json)
 
 ---
 
@@ -258,19 +650,25 @@ The extent to which people are working to get services in state institutions in 
 
 ---
 
-### புத்தகப் பைகளின் எடையைக் குறைக்கும் சுற்றறிக்கை வெளியீடு
+### Circular Issue that reduces the weight of books
 
 *2024-03-04 14:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகப்-பைகளின்-எடையைக்-குறைக்கும்-சுற்றறிக்கை-வெளியீடு/175-334180) · `ta`
 
-பாடசாலை மாணவர்களின் புத்தகப் பைகளின் எடையைக் குறைக்கும் சுற்றறிக்கை இன்று (4) வெளியிடப்படவுள்ளதாக மேல்மாகாண கல்வித் திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+The Department of Education will release a circular to reduce the weight of school children's book bags, aiming to improve competitive education and physical and mental health. The heavy book bags are a barrier causing spinal cord disorders and permanent disability in some children.
 
-இது தொடர்பான சுற்றறிக்கையை மேல்மாகாண கல்விச் செயலாளர் திரு.சிறிசோம லொக்குவிதான வெளியிடவுள்ளதுடன், போட்டிக் கல்விக்கும், உடல் மற்றும் மன ஆரோக்கியத்திற்கும் கனமான புத்தகப் பைகள் தடையாக இருப்பதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-தற்காலத்தில் குழந்தைகள் சுமந்து செல்லும் புத்தகப் பையின் எடை அதிகமாக இருப்பதால், குழந்தைகள் தொடர்ந்து முதுகுத்தண்டு தொடர்பான கோளாறுகளுக்கு ஆளாகி வருவதாகவும், இதனால் சில குழந்தைகள் நிரந்தர ஊனமுற்றவர்களாகவும் உள்ளதாக மருத்துவ அறிக்கைகள் உறுதி செய்துள்ளதாகவும் அந்த அதிகாரி மேலும் தெரிவித்தார்.
+A senior official of the Department of Education said that a circular to reduce the weight of school children's book bags will be released today (4).
+
+The circular will be released by the Secretary of Education, Mr. Sirisoma Lokwithana, and the heavy book bags are a barrier to competitive education, physical and mental health.
+
+The official added that due to the weight of the book bag carrying children nowadays, children are constantly suffering from spinal cord disorders and that some children are permanent disabled.
 
 ◼️
 
 [Data](articles/acb33f24.json)
+
+[Extended Data](ext_articles/acb33f24.ext.json)
 
 ---
 
@@ -325,6 +723,24 @@ Speaking to the Daily Mirror, Ambassador Janak Bandara said the detainees are cu
 ◼️
 
 [Data](articles/35debb6b.json)
+
+---
+
+### Eight Sri Lankans rescued from illegal cyber center camp in Myanmar
+
+*2024-03-04 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Eight-Sri-Lankans-rescued-from-illegal-cyber-center-camp-in-Myanmar/155-278210) · `en`
+
+March 04 (Daily Mirror) - Eight Sri Lankan nationals who were forcibly detained at an illegal cyber center camp in Myanmar have been rescued, Sri Lanka's Ambassador to Myanmar, Janak Bandara confirmed.
+
+The rescue operation was conducted under the intervention of the Myanmar government.
+
+Speaking to the Daily Mirror, Ambassador Janak Bandara said the detainees are currently held at the Myawaddy Central Police Station in Myanmar.
+
+“Steps are being taken to repatriate the rescued individuals,” he added.
+
+◼️
+
+[Data](articles/5575712b.json)
 
 ---
 
@@ -428,6 +844,22 @@ The airport officials had checked her baggage to find the live round of ammuniti
 
 ---
 
+### පිටිදූවේ හිමියන් මල්වත්තෙන් නෙරපන්නැයි ඉල්ලයි
+
+*2024-03-04 14:00:49* · [`adalk`](https://www.ada.lk/breaking_news/පිටිදූවේ-හිමියන්-මල්වත්තෙන්-නෙරපන්නැයි-ඉල්ලයි/11-408414) · `si`
+
+භික්ෂුවකට නොගැලපෙන ආකාරයට හැසිරෙන පිටිදූවේ සිරිධම්ම හිමියන් මල්වතු පාර්ශවයෙන් නෙරපා හරින ලෙස මහාචාර්ය පාතේගම ඤාණිස්සර හිමියන් මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මහා නා හිමියන්ගෙන් ඉල්ලීමක් සිදු කළහ.
+
+මහාචාර්ය ඥානිස්සර හිමියන් ඇතුළු පහතරට භික්‍ෂු සංවිධානය ඊයේ (03) මල්වතු මහනාහිමියන් බැහැ දැක එම ඉල්ලීම සිදු කළ අතර එහිදී මල්වතු මහා නායක හිමියන් හමුවේ එම භික්ෂූන් වහන්සේලා පිරිස අවධාරණය කොට ඇත්තේ මල්වතු මහා විහාරයෙන් ලබාදුන් අවවාද නොපිළිගෙන තවදුරටත් අන්‍ය නිකායික භික්ෂූන් වහන්සේලාගේ ද සිත් රිදවමින් ශාසනික වශයෙන්ද විශාල හානියක් පිටිදූවේ සිරිධම්ම හිමියන් විසින් සිදුකරගෙන යන බවයි .
+
+මල්වතු මහනාහිමියන් බැහැදක ඒ සම්බන්ධයෙන් උන්වහන්සේ දැනුවත් කිරීමෙන් අනතුරුව ජ්‍යෙෂ්ඨ මහාචාර්ය පාතේගම ඤාණිස්සර හිමියන් මාධ්‍ය හමුවේ පවසා සිටියේ පිටිදුවේ සිරිධම්ම හිමියන් බෞද්ධ භික්‍ෂුවකට නොගැලපෙන ආකාරයේ විවිධ ව්‍යාපාර වල යෙදෙමින් ශාසනික වශයෙන්ද විශාල හානියක් සිදු කරමින් සිටින උන්වහන්සේ මල්වතු පාර්ශවයට බරපතළ අපකීර්තියක් බවයි .
+
+...
+
+[Data](articles/afd5993c.json)
+
+---
+
 ### எனது மகன் தலைமறைவாகவில்லை;ஊவா மாகாண ஆளுநர்
 
 *2024-03-04 13:58:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-மகன்-தலைமறைவாகவில்லை-ஊவா-மாகாண-ஆளுநர்/175-334179) · `ta`
@@ -482,11 +914,35 @@ The Sri Lankans forcibly detained at the terrorist camp in Myawaddy – an area 
 
 ---
 
+### ලංකාවේ හම්බකරලා ඇමෙරිකාවේ වියදම් කරන සංචාරකයා දිවයිනට
+
+*2024-03-04 13:40:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-හම්බකරලා-ඇමෙරිකාවේ-වියදම්-කරන-සංචාරකයා-දිවයිනට/11-408413) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත සම්මත කර ගැනීමේ දී කතානායකතුමන් තමන් කෙරෙහි පාර්ලිමේන්තුව, ශ්‍රේෂ්ඨාධිකරණය, මෙන්ම ව්‍යවස්ථාව තැබූ විශ්වාසය ද අමු අමුවේ උල්ලංඝණය කර ඇතැයි පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+
+ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.03.04) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක්වෙමිනි.
+
+டමාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත සම්මත කර ගැනීමේ දී කතානායකතුමා ශ්‍රේෂ්ඨාධිකරණ නිර්ණයට පටහැනිව කටයුතු කිරීම නිසා එතුමාට එරෙහිව විපක්ෂය විසින් විශ්වාස භංග යෝජනාවක් ගෙනැවිත් තිබෙනවා.  කතානායකතුමා ශ්‍රේෂ්ඨාධිකරණ නිර්ණය අමු අමුවේ උල්ලංඝණය කළ නිසා අපි ඒකට පක්ෂව ඡන්දය දෙනවායි විපක්ෂයේ මන්ත්‍රිවරු කියනවා.
+
+නෑ. නෑ. කතානායකතුමා එහෙම උල්ලංඝණය කිරීමක් කරලා නැති නිසා අපි එතුමාව රකිනවා කියලා ආණ්ඩු පක්ෂයේ මන්ත්‍රිවරුන් කියනවා.  කතානායකතුමා ශ්‍රේෂ්ඨාධිකරණ නිර්ණය උල්ලංඝණය කළා කියලා විපක්ෂයේ හැමෝම කිව්වත් උල්ලංඝණය කලේ කොහොමද කියලා කවුරුත් කියන්නේ නෑ.  ඇත්තටම කතානායකතුමා උල්ලංඝණය කලේ කොහොමද කියලා අපි සොයා බලමු.
+
+...
+
+[Data](articles/9e614a6f.json)
+
+---
+
 ### Two arrested with smuggled gold at BIA
 
 *2024-03-04 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97722/two-arrested-with-smuggled-gold-at-bia-) · `en`
 
-Sri Lanka Customs has apprehended two passengers who arrived in Sri Lanka with 09 kilograms of undeclared gold at the Bandaranaike International Airport (BIA) today (04).
+Sri Lanka Customs has apprehended two suspects including an employee of the Airport and Aviation Services (Sri Lanka) for attempting to smuggle 09 kilograms of undeclared gold into the country near the departure terminal of the Bandaranaike International Airport (BIA) this morning (04).
+
+The stock of seized gold consisted of gold cards with the appearance of credit cards, gold in gel form and also gold jewellery, Sri Lanka Customs said.
+
+The gold taken into custody, weighing around 09 kilograms in total, is estimated to be worth nearly Rs. 200 million, according to the Sri Lanka Customs.
+
+The Narcotics Control Unit of Sri Lanka Customs is conducting further investigations regarding the suspects.
 
 ◼️
 
@@ -769,6 +1225,26 @@ Colombo, March 04 (Daily Mirror)  - A shooting incident was reported in the Nir
 [Data](articles/06c936ff.json)
 
 [Extended Data](ext_articles/06c936ff.ext.json)
+
+---
+
+### Gangster Manna Roshan's brother killed in shooting at Hanwella
+
+*2024-03-04 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gangster-Manna-Roshan-s-brother-killed-in-shooting-at-Hanwella/108-278205) · `en`
+
+Colombo, March 04 (Daily Mirror)  -  A 31-year-old man was killed and another injured following a shooting at Niripola in Hanwella this morning.
+
+Police said the deceased was identified as the brother of underworld gangster 'Manna Roshan'.
+
+The shooting had occurred when the victims were travelling in a cab in the Niripola area.
+
+The injured were admitted to the Awissawella Hospital where one of the victims succumbed to his injuries.
+
+The deceased is a resident of Niripola and the Hanwella Police are investigating into the incident.
+
+◼️
+
+[Data](articles/1d2d7fb6.json)
 
 ---
 
@@ -1691,439 +2167,5 @@ Meanwhile on Friday, the Additional Health Secretary stated before the courts th
 [Data](articles/66c4b1c0.json)
 
 [Extended Data](ext_articles/66c4b1c0.ext.json)
-
----
-
-### Saman Ratnayake takes over court
-
-*2024-03-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194102) · `si`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, arrested by the CID on March 1st, is now in court for the humian emonelulin pharmaceutical incident.
-
-🟩
-
-Additional Secretary to the Ministry of Health in remand custody has been taken to court shortly before.
-
-He was arrested by the CID on 1 March.
-
-Subsequently, the court ordered to be remanded until he was produced before courts.
-
-Saman Ratnayake has been accused of the controversial humian emonelulin pharmaceutical incident.
-
-◼️
-
-[Data](articles/99c18196.json)
-
-[Extended Data](ext_articles/99c18196.ext.json)
-
----
-
-### Released
-
-*2024-03-04 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177836) · `ta`
-
-A high-rise gazette has been published by President Saman Ekanayake, declaring electricity, petroleum production, and fuel supply as essential services.
-
-🟩
-
-A high -rise gazette has been published as essential services of electricity, petroleum production and fuel supply.
-
-The gazette notification has been issued by President Saman Ekanayake in the order of the President.
-
-◼️
-
-[Data](articles/7a86c34a.json)
-
-[Extended Data](ext_articles/7a86c34a.ext.json)
-
----
-
-### Trained police and armed forces personnel are hired by underworld gangs - IGP
-
-*2024-03-04 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trained-police-and-armed-forces-personnel-are-hired-by-underworld-gangs-IGP/108-278194) · `en`
-
-March 04 - IGP Deshabandu Thennakoon said hiring of experienced police and security force personnel of marksmanship by underworld gangs has been going on unchecked since long and that and effective mechanism would be worked out to prevent such malpractices.
-
-During his meeting with the Mahanayake Theras of Malawatta and Asgiriya Chapters during his visit on Saturday (02) to Kandy on assuming duties as IGP he said the police officer who went abroad due to death threats from the underworld as he claimed had sought permission to go abroad with his family several months ago and that it was in doubt whether he complained on death threats to meet that object.
-
-The IGP who visited Sri Dalada Maligawa paid homage to the Sacred Tooth Relic and attended religious observances before meeting the Mahanayaka Theras.
-
-...
-
-[Data](articles/59ba82df.json)
-
-[Extended Data](ext_articles/59ba82df.ext.json)
-
----
-
-### The number of heavy personnel in Sri Lanka is up - World Lixture Day is today
-
-*2024-03-04 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194101) · `si`
-
-"World Line Day today. Shanthi Gunawardena highlights global obesity, 1.9 billion people affected, 650 million obese. Sri Lanka's situation worsens, with 30% men and 46.7% women obese by 2021, up from 24% men and 34% women in 2015. This increase poses a risk to non-communicable diseases."
-
-🟩
-
-Deputy Director Commander Shanthi Gunawardena, Deputy Director of the National Diabeteen Center Shanthi Gunawardena, says that there are over 1.9 billion people in the world.
-
-World Line Day is today on March 4, today.
-
-Commenting in this regard, Community Medical Specialist Shanthi Gunawardena made these comments.
-
-"The importance of this is, the word that is obese if everyone or is fat. This obesity is now emerging. This has increased with the amount of disease caused by this. There are more than 1.9 billion in the world. There are 650 million fat as fat. When you don't, 39.% of the world's population are overweight and 13% is obese. "
-
-Ms. Mrs. Dr. Shanthi Gunawardena says that this situation is also harmful in the country.
-
-...
-
-[Data](articles/372db578.json)
-
-[Extended Data](ext_articles/372db578.ext.json)
-
----
-
-### Sri Lanka's Bangladesh competition tour begins today
-
-*2024-03-04 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194100) · `si`
-
-Sri Lanka vs Bangladesh T20 series starts today at 5.30 pm in Silhheet. Sri Lanka's 20th group leader Moratuwa is banned. The tournament includes 3 T20s, 3 ODIs, and 2 Tests.
-
-🟩
-
-The first Twenty20 match between the Sri Lankan team and the Bangladesh team begins today.
-
-The match will commence at 5.30 pm at Silhheet.
-
-Sri Lanka team is conducting the Sri Lankan team today as a result of banning the Sri Lankan 20th group leader Moratuwa.
-
-The tournament between the two countries consists of three T20s, three ODIs and two Tests.
-
-◼️
-
-[Data](articles/531eae18.json)
-
-[Extended Data](ext_articles/531eae18.ext.json)
-
----
-
-### A Notification for Those Who Offered Driver License
-
-*2024-03-04 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194099) · `si`
-
-The Department of Motor Traffic has introduced an automated telephone system and a website to efficiently manage driver license services across 25 districts. The system allows for reservations and is available in three languages. Commissioner General Nishantha Anuruddha Weerasinghe emphasized the importance of this new methodology for providing an efficient service.
-
-🟩
-
-The public has given the public under an automated telephone system and to meet the services of the Department of Motor Traffic and to meet their needs today (04).
-
-The process of allocation of these online hours is to be introduced to cover the branch offices in the 25 districts of the country as a solution to excessive traffic.
-
-There you can access the automatic telephone system or to the site.
-
-Commissioner General of Motor Traffic Nishantha Anuruddha Anuruddha Weerasinghe commented on the new methodology commencing today.
-
-"All clients are inevitable to make reservation of time on the date on the relevant date. The first was done at the covard. We have introduced an automated telephone number 2 117 116. It provides the service you need automatically in all three languages. "
-
-The Commissioner General of Motor Traffic said that this will continue to provide an efficient and effective service.
-
-...
-
-[Data](articles/f1e826e5.json)
-
-[Extended Data](ext_articles/f1e826e5.ext.json)
-
----
-
-### Motor Vehicle Registration
-
-*2024-03-04 08:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-முறையில்-மோட்டார்-வாகன-பதிவு/175-334161) · `ta`
-
-The Commissioner General of the Motor Transport Department, Nishantha Anurutha Weerasinghe, announced that the Department's services will be operational from today. He urged all branches to register in the digital system and schedule their registration day and time.
-
-🟩
-
-Commissioner General of Motor Transport Department Nishantha Anurutha Weerasinghe said that the services provided by the Department of Motor Transport will be carried out from today.
-
-He advised that all the branches of the Motor Vehicle Transport Department should register under the digital system and set aside the day and time.. (A)
-
-◼️
-
-[Data](articles/772d1aaf.json)
-
-[Extended Data](ext_articles/772d1aaf.ext.json)
-
----
-
-### 14 year old minister drowns
-
-*2024-03-04 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194098) · `si`
-
-A 14-year-old girl drowned in Elpitiya Aaliya Cala, near Ebalgoda Canal, while bathing. She was a schoolgirl from Ganegoda. Her mother and sister are in critical condition at Ilpitiya Hospital.
-
-🟩
-
-A girl drowned in Elpitiya Aaliya Cala.
-
-The girl had gone to bath on Ebalgoda Canal last evening yesterday (03).
-
-She was a 14 year old schoolgirl residing in Ganegoda area.
-
-Her mother and sister are currently receiving treatment at the Ilpitiya Hospital in critical condition.
-
-◼️
-
-[Data](articles/42da7ffa.json)
-
-[Extended Data](ext_articles/42da7ffa.ext.json)
-
----
-
-### Hundreds of inmates flee after armed gangs storm Haiti’s main prison, leaving bodies behind
-
-*2024-03-04 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97713/hundreds-of-inmates-flee-after-armed-gangs-storm-haitis-main-prison-leaving-bodies-behind) · `en`
-
-(AP) — Hundreds of inmates fled Haiti’s main prison after armed gangs stormed the facility in an overnight explosion of violence that engulfed much of the capital. At least five people were dead Sunday.
-
-The jailbreak marked a new low in Haiti’s downward spiral of violence and came as gangs step up coordinated attacks in Port-au-Prince, while embattled Prime Minister Ariel Henry is abroad trying to salvage support for a United Nations-backed security force to stabilize the country.
-
-Three bodies with gunshot wounds lay at the prison entrance, which was wide open, with no guards in sight. Plastic sandals, clothing and electric fans were strewn across normally overcrowded concrete patios. In another neighborhood, the bloodied corpses of two men with their hands tied behind the backs laid face down as residents walked past roadblocks set up with burning tires.
-
-...
-
-[Data](articles/168ae79e.json)
-
-[Extended Data](ext_articles/168ae79e.ext.json)
-
----
-
-### Electricity, petroleum supply declared as essential services
-
-*2024-03-04 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Electricity-petroleum-supply-declared-as-essential-services/155-278173) · `en`
-
-Colombo, March 04 (Daily Mirror) - All activities related to the supply of electricity and petroleum products have been declared as essential services through a Gazette Extraordinary.
-
-Accordingly, all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel are deemed to be essential services.
-
-The notification, issued by Secretary to the President Saman Ekanayake on the orders of President Ranil Wickremesinghe, designates these services as Essential Public Services.
-
-The Gazette underscores the critical nature of these services, emphasizing their indispensable role in sustaining community life.
-
-It applies to all entities, including Public Corporations, Government Departments, Local Authorities, and Co-operative Societies engaged in electricity supply, petroleum distribution or fuel provision.
-
-◼️
-
-[Data](articles/7eb7a42d.json)
-
-[Extended Data](ext_articles/7eb7a42d.ext.json)
-
----
-
-### Electricity, petroleum supply declared as essential services
-
-*2024-03-04 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-petroleum-supply-declared-as-essential-services/108-278173) · `en`
-
-Colombo, March 04 (Daily Mirror) - All activities related to the supply of electricity and petroleum products have been declared as essential services through a Gazette Extraordinary.
-
-Accordingly, all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel are deemed to be essential services.
-
-The notification, issued by Secretary to the President Saman Ekanayake on the orders of President Ranil Wickremesinghe, designates these services as Essential Public Services.
-
-The Gazette underscores the critical nature of these services, emphasizing their indispensable role in sustaining community life.
-
-It applies to all entities, including Public Corporations, Government Departments, Local Authorities, and Co-operative Societies engaged in electricity supply, petroleum distribution or fuel provision.
-
-◼️
-
-[Data](articles/d5613d58.json)
-
-[Extended Data](ext_articles/d5613d58.ext.json)
-
----
-
-### Central Bank Calls to Cabinet
-
-*2024-03-04 07:44:13* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-ලොක්කෝ-කැබිනෙට්ටුවට-කැඳවයි/11-408403) · `si`
-
-The Central Bank has called a Cabinet meeting due to a severe economic crisis. The decision faced criticism. The Chief Bank of the Central Bank will attend a party leaders' meeting tomorrow.
-
-🟩
-
-It is reported that the Central Bank has summoned to the Cabinet meeting to be held in connection with the unfortunate period of a severe economic crisis in the country.
-
-The decision taken by central banking officers was eagerly controversial and opposition members of the party launched a criticism of this.
-
-In addition to this, the Chief Bank of the Central Bank will be summoned to the party leaders meeting tomorrow (05).
-
-◼️
-
-[Data](articles/2a224633.json)
-
-[Extended Data](ext_articles/2a224633.ext.json)
-
----
-
-### Hypopodium
-
-*2024-03-04 07:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்துக்கு-உயர்வடையும்-வெப்பநிலை/175-334160) · `ta`
-
-The Department of Meteorology warns of rising temperatures in several provinces, including North Western, Upper and Southern, and Sabaragamuwa, affecting parts of Anuradhapura and Mannar. The Department of Health advises children, the elderly, and the sick to be cautious. Doctors recommend drinking plenty of water to mitigate the effects of the heat.
-
-🟩
-
-The Department of Meteorology has announced that the temperature in many parts of the country today will increase to the warning level.
-
-Accordingly, temperatures will increase in the North Western, Upper and Southern and Sabaragamuwa provinces and some parts of Anuradhapura and Mannar districts.
-
-Therefore, the Department of Health has said that children, children, the elderly and the sick will be careful with the situation.
-
-Doctors have advised to drink adequate water to reduce the damage caused by increased temperature. (A)
-
-◼️
-
-[Data](articles/7b6388d2.json)
-
-[Extended Data](ext_articles/7b6388d2.ext.json)
-
----
-
-### Electricity and fuel supply declared as essential services
-
-*2024-03-04 07:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97712/electricity-and-fuel-supply-declared-as-essential-services) · `en`
-
-An Extraordinary Gazette has been issued declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services.
-
-The relevant gazette has been issued by the Secretary to the President Saman Ekanayake on Sunday (03) by order of the President Ranil Wickremesinghe.
-
-Accordingly, the proclamation states that the services specified have been declared as Essential Public Service considering it necessary that the services provided by any Public Corporation or Government Department or Local Authority or Co-operative Society or any branch thereof being a Department or Corporation or Local Authority or Co-operative Society, which is engaged in provision of the services specified, is essential to the life of the community and is likely to be impeded or interrupted.
-
-◼️
-
-[Data](articles/9ea7233b.json)
-
-[Extended Data](ext_articles/9ea7233b.ext.json)
-
----
-
-### Calling the central bank seniors
-
-*2024-03-04 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194097) · `si`
-
-The Central Bank's senior officials were called to the Cabinet of Ministers to discuss the uninformed situation.
-
-🟩
-
-The Central Bank of the Central Bank has been summoned to the Cabinet of Ministers today to interrogate the situation that has arisen due to the no party without informing.
-
-◼️
-
-[Data](articles/c8be1a57.json)
-
-[Extended Data](ext_articles/c8be1a57.ext.json)
-
----
-
-### President meets another special meeting
-
-*2024-03-04 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194096) · `si`
-
-Dr. Figiwey Sayanda Mufadal Saiadandan, the physiological leader of the Bora Community, met with President Ranil Wickremesinghe to discuss building Sri Lanka's economy. The Bora community also attended the Conduct Conference on Bambalapitiya Bora Church and received a book detailing religious services over the past four years.
-
-🟩
-
-Physiological Leader of the Bora Community Dr. Figiwey Sayanda Mufadal Saiadandan and President Ranil Wickremesinghe met with President Ranil Wickremesinghe.
-
-The manifestation leader of the Bora community has been evaluated by the President's leadership to build Sri Lanka's economy in Sri Lanka.
-
-The Bora Wickremesinghe has also paid attention to the Conduct Conference on Bambalapitiya Bora Church.
-
-The Borah community also accepted a book on various programs, including religious services, including religious services over the past four years.
-
-◼️
-
-[Data](articles/b2da0300.json)
-
-[Extended Data](ext_articles/b2da0300.ext.json)
-
----
-
-### Sri Lanka central bank swaps top $3.2bn by December
-
-*2024-03-04 07:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-swaps-top-3-2bn-by-december-152776/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank borrowed US dollars from various counterparties through swap transactions, which had topped 3.2 billion US dollars by December 2024, official data show.
-
-The net short position, including swaps disclosed by the central bank, grew by over almost 1.28 billion US dollars from December 2022 to 3,280 million dollars.
-
-The gross position grew from 2,263 million dollars to 3,280 million US dollars over the year.
-
-The central bank supported some state banks with dollars to cover their dollar exposures, which had since been paid back.
-
-By December reported gross reserves of the central bank was 4,491 million US dollars, against swaps of 3,280 billion US dollars.
-
-Swaps allow a central bank to increase gross reserves, without raising domestic interest rates.
-
-Swaps with domestic counterparties lead to liquidity being injected into money markets, which can be mopped if domestic credit growth is moderate.
-
-...
-
-[Data](articles/9767a83d.json)
-
-[Extended Data](ext_articles/9767a83d.ext.json)
-
----
-
-### Fuel charges amendment tonight - President is a special gazette
-
-*2024-03-04 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194095) · `si`
-
-Fuel price amendment expected today, but not changed. Petroleum Corporation revised fuel price hike. President Ranil Wickremesinghe issued a gazette with immediate effect. Fuel separatists Association claims Ceylon Petroleum Corporation will recover 35% of monthly discount.
-
-🟩
-
-It is reported that fuel prices will take place today (04).
-
-The Petroleum Corporation stated that the price should take place in late February, but it will take place today.
-
-However, it is reported that the fuel price will not be changed today.
-
-According to the fuel pricing, the corporation has taken steps to revise the fuel price hike.
-
-The last time the fuel prices were revised on January 31st.
-
-Meanwhile, a gazette has been issued by President Ranil Wickremesinghe by President Ranil Wickremesinghe with immediate effect.
-
-The gazette has been issued by Presidential Secretary to the Presidential Secretary to the Presidential Secretary, with the operation of Presidential Secretary to the President.
-
-Meanwhile, the Fuel separataries Association alleges that the Ceylon Petroleum Corporation will take place today to recover a 35% of the monthly discount of fuel separatists.
-
-The Association Selton Fernando said that it is not unable to determine the daily expenses for distribution.
-
-◼️
-
-[Data](articles/801d2817.json)
-
-[Extended Data](ext_articles/801d2817.ext.json)
-
----
-
-### Ceylon Electricity Board ends FY23 with massive profits
-
-*2024-03-04 07:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ceylon-Electricity-Board-ends-FY23-with-massive-profits/108-278169) · `en`
-
-Records Rs. 75 .5 bn profit for group, Rs. 61.2 bn for Board
-
-Even without favourable weather conditions, CEB would have made profits amounting to Rs. 40 bn
-
-The financial performance of the Ceylon Electricity Board (CEB) is largely positive as it ended the financial year 2023 with a massive profit.
-
-Unaudited interim financial statements filed to the Colombo Stock Exchange (CSE) showed Rs. 75.7 billion profits for the Group, and Rs. 61.2 billion for the Board.
-
-The improvement in the financial performance is largely due to the increase in rainfall from September, and the hike in electricity tariff that came in the fourth quarter (4Q23). However, as per the statements, even without the heavy rainfalls which reduced its reliance on oil and coal-based generation, CEB would have still made profits of about Rs. 40 billion.
-
-...
-
-[Data](articles/352785ee.json)
-
-[Extended Data](ext_articles/352785ee.ext.json)
 
 ---

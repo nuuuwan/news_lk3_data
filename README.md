@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 10:29:46**
+As of **2024-03-04 10:56:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,699 (100.0%) of 10,701 articles have been extended.
+10,701 (100.0%) of 10,701 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Against this backdrop, President Ranil Wickremesinghe has issued an Extraordinar
 ...
 
 [Data](articles/f45d2a3a.json)
+
+[Extended Data](ext_articles/f45d2a3a.ext.json)
 
 ---
 
@@ -318,19 +320,25 @@ It applies to all entities, including Public Corporations, Government Department
 
 ---
 
-### මහ බැංකු ලොක්කෝ කැබිනෙට්ටුවට කැඳවයි
+### Central Bank Calls to Cabinet
 
 *2024-03-04 07:44:13* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-ලොක්කෝ-කැබිනෙට්ටුවට-කැඳවයි/11-408403) · `si`
 
-රට තුළ දරුණු ආර්ථික අර්බුදයක් පවතින අස්ථාවක කිසිඳු පාර්ශවයකට නොදන්න මහ බැංකුවේ සේවයකයන් සිය වැටුප සියයට 70කින් පමණ වැඩි කිරීමට ගත් තීරණය නිසා මතුව ඇති ගැටලුකාරී තත්ත්වය සාකච්ඡා කිරීම සඳහා අද පැවැත්විමට නියමිත කැබිනට් මණ්ඩල රැස්වීම සඳහා මහ බැංකුවේ ඉහළ නිලධාරින් කැඳවා ඇතැයි වාර්තා වෙයි.
+The Central Bank has called a Cabinet meeting due to a severe economic crisis. The decision faced criticism. The Chief Bank of the Central Bank will attend a party leaders' meeting tomorrow.
 
-මහ බැංකු නිලධාරින් ගත් මෙම තිරණය රට තුළ මහත් ආන්දෝලනයකට ලක්වූ අතර පක්ෂ විපක්ෂ මන්ත්‍රීවරුන් මේ සම්බන්ධයෙන් දැඩි විවේචනයක් එල්ල කළේය.
+🟩
 
-මීට අමතරව මේ සම්බන්ධයෙන් කරුණු විමසීම සඳහා මහ බැංකු ප්‍රධානීන් හෙට (05) දිනයේ පැවැත්වෙන පක්ෂ නායක රැස්වීමට සහ රජයේ මුදල් පිළිබඳ කාරක සභාවට කැඳවීමටද නියමිතය.
+It is reported that the Central Bank has summoned to the Cabinet meeting to be held in connection with the unfortunate period of a severe economic crisis in the country.
+
+The decision taken by central banking officers was eagerly controversial and opposition members of the party launched a criticism of this.
+
+In addition to this, the Chief Bank of the Central Bank will be summoned to the party leaders meeting tomorrow (05).
 
 ◼️
 
 [Data](articles/2a224633.json)
+
+[Extended Data](ext_articles/2a224633.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 07:19:28**
+As of **2024-03-04 07:48:36**
 
 ## Newspaper Stats
 
-*Scraped **10,675** Articles*
+*Scraped **10,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,87 @@ adaderanalk | 1,301
 tamilmirrorlk | 1,308
 virakesarilk | 1,434
 dailymirrorlk | 1,618
-adaderanasinhalalk | 1,652
+adaderanasinhalalk | 1,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,674 (100.0%) of 10,675 articles have been extended.
+10,675 (100.0%) of 10,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### අද කාලගුණය
+### මහ බැංකු ජ්‍යෙෂ්ඨයින්ට ලැබුණු කැඳවීම
+
+*2024-03-04 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194097) · `si`
+
+කිසිදු පාර්ශ්වයකට නොදන්වා සිය වැටුප් වැඩිකර ගැනීමට කටයුතු කිරීම හේතුවෙන් මතුව ඇති අර්බුදකාරී තත්ත්වය සම්බන්ධයෙන් ප්‍රශ්න කිරීම සඳහා මහ බැංකුවේ ජ්‍යේෂඨ නිලධාරීන් අද (04) අමාත්‍ය මණ්ඩලය හමුවට කැඳවා තිබේ.
+
+◼️
+
+[Data](articles/c8be1a57.json)
+
+---
+
+### ජනපති තවත් සුවිශේෂි හමුවක
+
+*2024-03-04 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194096) · `si`
+
+බෝරා ප්‍රජාවේ අධ්‍යාත්මික නායක ආචාර්ය අතිඋතුම් සෙයියදිනා මුෆද්දල් සෙයිෆුද්දීන් සහෙබ්තුමා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර හමුවක් සිදුව තිබේ.
+
+ජනාධිපතිවරයා සමඟ සුහද කථාබහක නිරත වූ බෝරා ප්‍රජාවේ අධ්‍යාත්මික නායකවරයා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැංවීම වෙනුවෙන් ජනාධිපතිවරයා විසින් ක්‍රියාත්මක කර ඇති වැඩපිළිවෙළ ඇගයීමට ලක් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+බම්බලපිටිය බෝරා පල්ලිය ආශ්‍රිතව පැවැත්වෙන බෝරා සමුළුව මෙම වසරේදී පැවැත්වීම පිළිබඳව ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අවධානය යොමු කර ඇති බව සඳහන්ය.
+
+බෝරා ප්‍රජාව විසින් පසුගිය වසර 04ක් පුරා සිදුකළ ආගමික සේවාවන් ඇතුළු විවිධ වැඩසටහන් ඇතුළත් ග්‍රන්ථයක් ද ජනාධිපතිවරයා වෙත පිළිගන්වා තිබේ.
+
+◼️
+
+[Data](articles/b2da0300.json)
+
+---
+
+### අද රාත්‍රියේ ඉන්ධන ගාස්තු සංශෝධනයක් - ජනපතිගෙන් විශේෂ ගැසට්ටුවකුත්
+
+*2024-03-04 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194095) · `si`
+
+අද (04) රාත්‍රියේ ඉන්ධන මිල ගණන් සංශෝධනයක් සිදුවනු ඇති බව වාර්තා වේ.
+
+පෙබරවාරි මස අග දී මිල සංශෝධනයක් සිදුවිය යුතු වුවද එය අද දිනයේ දී සිදුවනු ඇති බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සඳහන් කළේය.
+
+කෙසේවෙතත් අද දිනයේ දී ඉන්ධන මිලෙහි විශාල වෙනසක් සිදුනොවනු ඇති බව ද වාර්තා වේ.
+
+ඉන්ධන මිල සුත්‍රයට අනුව මාසිකව ඉන්ධන මිල සංශෝධනය කිරීමට සංස්ථාව පියවර ගෙන තිබේ.
+
+ඒ අනුව අවසන් වරට පසුගිය ජනවාරි මස 31 වන දා ඉන්ධන මිල ගණන් සංශෝධනය වු අතර ඔක්ට්‍රේන් 92 පෙට්‍රල්, ඔක්ටේන් 95 පෙට්‍රල්, සුපර් ඩීසල් සහ භූමිතෙල් මිල ඉහළ ගියේය.
+
+මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි විදුලි බල සැපයීම සම්බන්ධ සියලු සේවාවන් හා ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම අත්‍යවශ්‍ය සේවාවන් බවට පත් කරමින් ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+
+ජනාධිපතිවරයාගේ අණ පරිදි ජනාධිපති ලේකම් සමන් ඒකනායක විසින් ඊයේ (03)දිනයේ සිට ක්‍රියාත්මක වන පරිදි මෙම ගැසට් පත්‍රය නිකුත් කර ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/801d2817.json)
+
+---
+
+### Weather today
 
 *2024-03-04 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194093) · `si`
 
-කළුතර, රත්නපුර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+"Showers or thundershowers expected in Kalutara, Ratnapura, Galle, and Matara districts."
+
+🟩
+
+Showers or thundershowers will occur at several places in Kalutara, Ratnapura, Galle and Matara districts.
 
 ◼️
 
 [Data](articles/85609eaf.json)
+
+[Extended Data](ext_articles/85609eaf.ext.json)
 
 ---
 
@@ -2087,71 +2147,5 @@ In addition to this, an A320 type aircraft of Fitz Air has also been temporarily
 [Data](articles/6e3efd02.json)
 
 [Extended Data](ext_articles/6e3efd02.ext.json)
-
----
-
-### STF seize 9kgs of Ice narcotics in Colombo raid
-
-*2024-03-03 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-seize-9kgs-of-Ice-narcotics-in-Colombo-raid/108-278129) · `en`
-
-Colombo, March 3 (Daily Mirror) - The Police Special Task Force arrested three suspects along with 9 kgs of ice narcotics during a raid in Colombo.
-
-It was reported that the value of the seized drugs is Rs. 100 million.
-
-The suspects and the stock of drugs will be handed over to the Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/175d5cdb.json)
-
-[Extended Data](ext_articles/175d5cdb.ext.json)
-
----
-
-### SriLankan Belgium Airlines rent two airline
-
-*2024-03-03 14:31:49* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-බෙල්ජියම්-ගුවන්-සේවයේ-ගුවන්-යානා-දෙකක්-කුලියට-ගනියි/11-408394) · `si`
-
-SriLankan Airlines rents two aircraft from Belgium: a 330 and two Airbus A320s, with 22 seats each and 240 in Economy. They also temporarily use Fitz Air aircraft.
-
-🟩
-
-Two aircraft temporarily obtained two aircraft in Belgian primary as a remedy of the SriLankan Airlines.
-
-A.- 330 and 200-200 Air bus types are devoted by Belgian Aviation Pilots. There are 22 seats in the aircraft and 240 seats in Economy.
-
-In addition, the Fitz Air Airline is also temporarily obtained by SriLankan Airlines on the basis of the SriLankan Airlines.
-
-◼️
-
-[Data](articles/f1be2357.json)
-
-[Extended Data](ext_articles/f1be2357.ext.json)
-
----
-
-### Confession of Health Additional Secretary
-
-*2024-03-03 14:23:56* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-අතිරේක-ලේකම්ගේ-පාපොච්චාරණය-හෙට/11-408393) · `si`
-
-The Health Ministry's Additional Secretary is to comment on Mrs. Weerasinghe. Saman Ratnayake, arrested by the CID, will be presented to court tomorrow. The Magistrate is interested in a minor drug case, possibly involving a witness. Ratnayake confessed today.
-
-🟩
-
-Additional Secretary to the Ministry of Health, the Additional Secretary to the Ministry of Health, the Additional Secretary to the Ministry of Health, is due to comment on Mrs. Weerasinghe.
-
-The Magistrate also ordered the Superintendent of Prisons to be presented to the courts tomorrow (04) before the magistrate.
-
-The suspect Saman Ratnayake was arrested in the course of the CID on the 2nd of his presented to the CID on the 2nd.The same was touched according to a gift.
-
-The Magistrate, who was willing to make a statement on minor drug racket, the Magistrate's Criminal Code has a pocket of the Criminal Procedure in the Criminal Procedure and that this case maybe you can make a witness in this caseThe suspect informed the suspect as it was to make a good view of it.
-
-The suspect had also submitted to the courts today to confess the Magistrate's Magistrate today (04) to confess the suspect.
-
-◼️
-
-[Data](articles/b3ac1b77.json)
-
-[Extended Data](ext_articles/b3ac1b77.ext.json)
 
 ---

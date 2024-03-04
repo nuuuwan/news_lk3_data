@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 01:50:47**
+As of **2024-03-05 02:02:59**
 
 ## Newspaper Stats
 
-*Scraped **10,868** Articles*
+*Scraped **10,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 562
 islandlk | 579
-dailyftlk | 580
+dailyftlk | 584
 adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,325
@@ -26,11 +26,75 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,868 (100.0%) of 10,868 articles have been extended.
+10,868 (100.0%) of 10,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### Social protection reform integral to macroeconomic recovery: Semasinghe
+
+*2024-03-05 01:41:17* · [`dailyftlk`](https://www.ft.lk/news/Social-protection-reform-integral-to-macroeconomic-recovery-Semasinghe/56-759178) · `en`
+
+Calls on policymakers, private sector, civil society to utilise MVI analysis to implement measures for sustainable growth and prosperity
+
+Commends efforts of UNDP and Citra Lab for developing in-depth analysis
+
+State Minister of Fina-nce Shehan Semasinghe, yesterday outlined the critical role of social protection reform in Sri Lanka’s overall macroeconomic recovery efforts.
+
+He made these remarks at the launch of District Profiles of the Multidimensional Vulnerability Index (MVI), created in collaboration with United Nations Development Program (UNDP) and Citra Lab, which provides insights into the socio-economic context and vulnerability across Sri Lanka’s districts.
+
+...
+
+[Data](articles/e28be8f7.json)
+
+---
+
+### Ameer Ajwad is Sri Lanka’s new ambassador to Saudi Arabia
+
+*2024-03-05 01:40:22* · [`dailyftlk`](https://www.ft.lk/news/Ameer-Ajwad-is-Sri-Lanka-s-new-ambassador-to-Saudi-Arabia/56-759177) · `en`
+
+The High Post Committee of the Parliament has approved the appointment of Omar Lebbe Ameer Ajwad as Ambassador to Saudi Arabia.
+
+Ambassador Designate Ajwad is a career diplomat who joined the Sri Lanka Foreign Service (SLFS) in 1998.
+
+He is presently serving as the Additional Secretary in charge of the Consular Affairs, Africa Affairs, Performance Review and Implementation as well as the Emergency Response Unit of the Ministry of Foreign Affairs of Sri Lanka. He previously served as Sri Lanka’s Ambassador Extraordinary and Plenipotentiary to the Sultanate of Oman with the concurrent accreditation to the Republic of Yemen (2019 – 2022).
+
+◼️
+
+[Data](articles/81015ea9.json)
+
+---
+
+### 8 Lankans trafficked to Myanmar rescued; 48 still in captive
+
+*2024-03-05 01:39:32* · [`dailyftlk`](https://www.ft.lk/news/8-Lankans-trafficked-to-Myanmar-rescued-48-still-in-captive/56-759176) · `en`
+
+Following continuous efforts made by the Government eight Sri Lankans out of the 56 trapped in cybercrime centres in Myawaddy area in Myanmar have been rescued by the Myanmar Government authorities and are currently in the Myawaddy Central Police Station.
+
+The Embassy of Sri Lanka in Myanmar is currently working on the early repatriation of the rescued Sri Lankans. As per information made available by the Embassy of Sri Lanka in Myanmar, the 56 Sri Lankans who have been trafficked are being held in four separate locations in the Myawaddy area and the rescued eight Sri Lankans were in one of these locations in an area that could be accessed by the Myanmar Government.
+
+...
+
+[Data](articles/89823634.json)
+
+---
+
+### Extraordinary Gazette declares several essential services
+
+*2024-03-05 01:39:24* · [`dailyftlk`](https://www.ft.lk/news/Extraordinary-Gazette-declares-several-essential-services/56-759175) · `en`
+
+The Government has issued an Extraordinary Gazette declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services.
+
+The Extraordinary Gazette bearing No.2373/59 dated 3 March was issued by the Secretary to the President Saman Ekanayake by order of President Ranil Wickremesinghe.
+
+“Considering it necessary that the services provided by any Public Corporation or Government Department or Local Authority or Co-operative Society or any branch thereof being a Department or Corporation or Local Authority or Co-operative Society, which is engaged in provision of the services specified in the Schedule hereto, is essential to the life of the community and is likely to be impeded or interrupted, declare the services specified in the Schedule hereto to be an Essential Public Service for the purposes of the Section 2 of the Essential Public Services Act, No. 61 of 1979,” the Gazette noted.
+
+◼️
+
+[Data](articles/d9a0fe7d.json)
+
+---
 
 ### Malik Cader elected chairman of JCI Senate Sri Lanka
 
@@ -2199,97 +2263,5 @@ It was in Hamilton, though, that Williamson reserved his best for with the team 
 [Data](articles/8e1f3007.json)
 
 [Extended Data](ext_articles/8e1f3007.ext.json)
-
----
-
-### A new mechanism to resolve disputes in the public service
-
-*2024-03-04 14:14:19* · [`adalk`](https://www.ada.lk/breaking_news/නව-යාන්ත්‍රණයකින්-රාජ්‍ය-සේවයේ-ආරවුල්-විසඳන්න-යයි/11-408415) · `si`
-
-The Ministry of Provincial Councils and Local Government Affairs Ministry have introduced a new dispute resolution mechanism in public services, aiming to enhance public service quality and prevent disruptions from labor strikes. This initiative involves establishing partnerships and national forums for mediation and arbitration, with the goal of achieving acceptable outcomes for all parties involved.
-
-🟩
-
-The Ministry of Provincial Councils and the Local Government Affairs Ministry have taken steps to introduce a new mechanism to prevent and resolve the constant dispute in public sector institutions.
-
-According to a newly issued circular issued by the Secretary of the Ministry Pradeep Yasaratne, the main objective is to provide an excellent service to the public through public service.
-
-The circular points out that it is expected to disrupt the services due to a continuous labor strike due to lack of proper techniques to resolve the prevailing stalks of the public service.
-
-Accordingly, the service stations representing the employees and managers have to establish the partnership, national forum, and the national settlement partnerships, the national level settlement partnerships,
-
-The Ministry stated that the proposed new mechanism is expected to reach the acres that are acceptable to the Arawls through the Mediation, and Arbitration.
-
-◼️
-
-[Data](articles/a0daee6e.json)
-
-[Extended Data](ext_articles/a0daee6e.ext.json)
-
----
-
-### Israel - Hamaspore stops for the holy Ramadan only for more than 3 lakhs of people?
-
-*2024-03-04 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/177867) · `ta`
-
-Hamas halts operations for Ramadan, affecting over 300,000 people in Gaza. The situation is dire, with food shortages, hunger, and deaths. Israel has been accused of firing on civilians, leading to over 70 deaths and 200 injuries. The UN has reported on the situation, with the al-Shifa hospital treating over 200 people. Israel has warned against looting relief supplies. World leaders have condemned the situation, calling for an investigation. The World Food Programme warns of an impending food shortage in Gaza.
-
-🟩
-
-Gaza people are looking forward to the tragedies that no community in the world. The tragedies they face, such as foodlessness, hunger, hunger, and deaths, are only eating more than 3 lakhs of people with little food.
-
-The Arab countries are watching only the tragedy of this tragedy, which is not the result of this tragedy.
-
-On top of all, the children who are carrying their hands can be seen by any parents who die in the eyes of the children. As for Israel, it continues its revenge, without any kindness. In this context, more than 70 people were killed and more than 200 injured in an attack on the nearest population that took relief items in Gaza last Thursday.. In this case, Israel says that the company has resolved alerts for the safety of the neighboring people, and that the relief alerts are routinely looted in the middle of the interim.Previously, people say that the hunters were resolved by looking at the crowd this time.
-
-...
-
-[Data](articles/98e2d7d6.json)
-
-[Extended Data](ext_articles/98e2d7d6.ext.json)
-
----
-
-### Israeli woman arrested with live ammo at BIA
-
-*2024-03-04 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israeli-woman-arrested-with-live-ammo-at-BIA/108-278207) · `en`
-
-Colombo, March 4 (Daily Mirror) - An Israeli woman leaving after a visit to Sri Lanka was arrested during the early hours of last morning at Katunayake International Airport for having in her possession a 5.56 mm live ammunition.
-
-Investigations revealed that the 22 year old woman is a member of the Israeli army and she had been on a visit to Sri Lanka with a friend.
-
-The airport officials had checked her baggage to find the live round of ammunition. She was handed over to the Katunayake Airport Police for further investigations.
-
-◼️
-
-[Data](articles/06a4c501.json)
-
-[Extended Data](ext_articles/06a4c501.ext.json)
-
----
-
-### Details demand to be sacked from Malwatta
-
-*2024-03-04 14:00:49* · [`adalk`](https://www.ada.lk/breaking_news/පිටිදූවේ-හිමියන්-මල්වත්තෙන්-නෙරපන්නැයි-ඉල්ලයි/11-408414) · `si`
-
-Prof. Pathegama Gnnissara Thero demands the expulsion of Malwatha Siridhamma Thera from Malwathuwa Sumangala Maha Na. The Malwathu Maha Viharaya has not complied, leading to criticism from the Malwathu Municipal Mahanayakara. Despite Siridhamma Thero's promise to change, he has continued to cause harm.
-
-🟩
-
-Prof. Pathegama Gnnissara Thero, the Malwathuwa Sumangala Maha Na, is requested to expel the Malwatha Siridhamma Thera.
-
-The demand was reported to see the Malwathu Chiefhawans yesterday (03), who was reported from the Malwathu Maha Viharaya, who was not obeyed by the Malwathu Maha Viharaya.Damage is being carried out by Siridhamma Thero.
-
-After the Malwathu Municipal Mahanayakara, he said that the Malwathu faction was a serious disgrace to the Malwathu party.
-
-Similar to those who have problems with the leading monks of their denominations have not accepted the advice of their denominations and the Mahanayake Thera said that the Mahanayake Thera would not accept twice before the Malwathu Maha Viharaya.
-
-Although the Malwath Maha Viharaya arrived in writing that Siridhamma Thero promises to do wrong, but he would behave again.
-
-...
-
-[Data](articles/afd5993c.json)
-
-[Extended Data](ext_articles/afd5993c.ext.json)
 
 ---

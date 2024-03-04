@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 18:52:20**
+As of **2024-03-04 19:03:04**
 
 ## Newspaper Stats
 
-*Scraped **10,813** Articles*
+*Scraped **10,814** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 104
-bbccomsinhala | 128
+bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 554
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,682
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,812 (100.0%) of 10,813 articles have been extended.
+10,813 (100.0%) of 10,814 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,15 +100,11 @@ The Public Utilities Commission says that the cost of electricity under 30 units
 
 *2024-03-04 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97729/electricity-tariffs-to-be-reduced-from-midnight-today) · `en`
 
-The electricity tariffs will be reduced by 21.9% with effect from midnight today (March 04), the Public Utilities Commission of Sri Lanka (PUCSL) announced.
+The Public Utilities Commission of Sri Lanka (PUCSL) has approved the revision of electricity tariffs with effect from midnight today (04). The overall tariff reduction is 21.9 percent, the PUCSL said.
 
-PUCSL chairman Prof. Manjula Fernando revealed this during a press briefing held in Colombo today (04) to deliver its decision on the electricity tariff reduction proposal mooted recently by the Ceylon Electricity Board (CEB).
+PUCSL chairman Prof. Manjula Fernando annoucend this during a press briefing held in Colombo today (04) to deliver its decision on the electricity tariff reduction proposal mooted recently by the Ceylon Electricity Board (CEB).
 
-He explained that the overall average tariff reduction is about 21.9%. “Then accordingly there are consumer groups. There are two categories for the domestic customers, namely those consuming less than 60Kwh and more than 60Kwh.”
-
-He said the electricity tariff of customer groups who are consuming less than 30 units will be reduced from Rs. 12 to Rs. 08 per unit. That is a reduction of around 33.3%.
-
-For consumers who use between 31 – 60 units, the reduction is 28% while for those who consume between 61 – 90 units the tariff reduction is 30%, he said.
+He said the final decision was reached after studying and reviewed the proposals and cost data submitted by the CEB in this tariff revision, in accordance with the provisions of Section 30 of the Sri Lanka Electricity Act No. 20 of 2009 and the provisions of the Public Utilities Commission of Sri Lanka.
 
 ...
 
@@ -322,19 +318,25 @@ The Awareness Walk was sponsored by the Apollo Hospitals Group of India.
 
 ---
 
-### பொலிஸ் உத்தியோகத்தர்களுக்கு மரண தண்டனை
+### Death sentence to police officers
 
 *2024-03-04 16:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்களுக்கு-மரண-தண்டனை/175-334187) · `ta`
 
-பேலியகொட பொலிஸ் நிலையத்தில் கடமையாற்றிய இரண்டு பொலிஸ் உத்தியோகத்தர்களுக்கு மரண தண்டனை விதிக்கப்பட்டுள்ளது.
+Two police officers at Peliyagoda station sentenced to death. A suspect arrested in 2005 was also sentenced to death, allegedly by these officers. The verdict was delivered by Judge Nawaratne Marasinghe after a lengthy hearing.
 
-2005ஆம் ஆண்டு பேலியகொட பொலிஸாரால் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டு, அவரை அடித்துக் கொலை செய்த குற்றச்சாட்டில் இவர்கள் குற்றவாளிகளாக அறிவிக்கப்பட்டு மரண தண்டனை விதிக்கப்பட்டுள்ளது.
+🟩
 
-நீண்ட விசாரணையின் பின்னர் கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க இந்தத் தீர்ப்பை வழங்கினார். R
+Two police officers who were on duty at the Peliyagoda police station have been sentenced to death.
+
+In 2005, a suspect was arrested and sentenced to death for allegedly being arrested by a suspect by the Peliyagoda police.
+
+Colombo High Court Judge Nawaratne Marasinghe presented the verdict after a long hearing. Remble
 
 ◼️
 
 [Data](articles/b2deb3dd.json)
+
+[Extended Data](ext_articles/b2deb3dd.ext.json)
 
 ---
 
@@ -1486,6 +1488,24 @@ He warned that the price of coconut oil would increase in the coming days due to
 
 ---
 
+### සැකකරුවෙකුට පහරදී මරා දැමීම: හිටපු පොලිස් නිලධාරීන් දෙදෙනෙකුට මරණ දඬුවම
+
+*2024-03-04 12:55:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c88xqp26961o) · `si`
+
+සැකකරුවෙකුට පහරදී මරා දැමීම: හිටපු පොලිස් නිලධාරීන් දෙදෙනෙකුට මරණ දඬුවම
+
+2005 වසරේ පෑලියගොඩ පොලිසිය විසින් සොරකමක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකුට පහරදී  මරණය සිදු කිරීමේ චෝදනාවලට වරදකරුවන් කෙරුණු හිටපු පොලිස් නිලධාරීන් දෙදෙනෙකුට කොළඹ මහාධිකරණය අද (මාර්තු 04 වැනිදා) මරණීය දණ්ඩනය නියම කළේය.
+
+පෑලියගොඩ පොලිසියේ අපරාධ විමර්ශන අංශයේ සේවය කළ උප පොලිස් පරීක්ෂක චමින්ද කුමාර සහ  පොලිස් සැරයන් අනුර වීරවර්ධන යන විත්තිකරුවන්ට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ විසින් මෙම දඬුවම් නියම කරනු ලැබීය.
+
+මහජනතාව යුක්තිය පතා පැමිණෙන්නේ අධිකරණයට බවත් ඒ අනුව නීතියෙන් නියම කළ හැකි උපරිම දඬුවම් අධිකරණය විසින් විත්තිකරුවන්ට නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/17015b39.json)
+
+---
+
 ### Japan, UNFPA gift Sri Lanka reproductive health mobile units
 
 *2024-03-04 12:46:00* · [`economynextcom`](https://economynext.com/japan-unfpa-gift-sri-lanka-reproductive-health-mobile-units-152854/) · `en`
@@ -2291,27 +2311,5 @@ Harshana warned that the prices of coconut oil will also go up in the coming day
 [Data](articles/257034cc.json)
 
 [Extended Data](ext_articles/257034cc.ext.json)
-
----
-
-### Doctor killed in Karapitiya
-
-*2024-03-04 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194103) · `si`
-
-Dr. Prabath Chamara Sampath, a resident of Thalagahahena Lane, Galle, was found dead in his Karapitiya home. The police discovered the body while he was away. The deceased's body has been sent to the Karapitiya Judicial Medical Unit.
-
-🟩
-
-Police have found mysteriously in his house while he was killed in his house.
-
-The deceased has been identified as Prabath Chamara Sampath, a resident of Thalagahahena Lane, Galle.
-
-When the incident occurred, the doctor has not been home, and the deceased doctor's body has been sent to the Karapitiya Judicial Medical Unit.
-
-◼️
-
-[Data](articles/4d47c7ac.json)
-
-[Extended Data](ext_articles/4d47c7ac.ext.json)
 
 ---

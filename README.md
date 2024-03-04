@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 07:48:36**
+As of **2024-03-04 08:23:17**
 
 ## Newspaper Stats
 
-*Scraped **10,678** Articles*
+*Scraped **10,680** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 104
-bbccomsinhala | 126
+bbccomsinhala | 127
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
 dailyftlk | 572
 islandlk | 578
-adalk | 899
+adalk | 900
 adaderanalk | 1,301
 tamilmirrorlk | 1,308
 virakesarilk | 1,434
@@ -26,63 +26,85 @@ adaderanasinhalalk | 1,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,675 (100.0%) of 10,678 articles have been extended.
+10,678 (100.0%) of 10,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### මහ බැංකු ජ්‍යෙෂ්ඨයින්ට ලැබුණු කැඳවීම
+### Calling the central bank seniors
 
 *2024-03-04 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194097) · `si`
 
-කිසිදු පාර්ශ්වයකට නොදන්වා සිය වැටුප් වැඩිකර ගැනීමට කටයුතු කිරීම හේතුවෙන් මතුව ඇති අර්බුදකාරී තත්ත්වය සම්බන්ධයෙන් ප්‍රශ්න කිරීම සඳහා මහ බැංකුවේ ජ්‍යේෂඨ නිලධාරීන් අද (04) අමාත්‍ය මණ්ඩලය හමුවට කැඳවා තිබේ.
+The Central Bank's senior officials were called to the Cabinet of Ministers to discuss the uninformed situation.
+
+🟩
+
+The Central Bank of the Central Bank has been summoned to the Cabinet of Ministers today to interrogate the situation that has arisen due to the no party without informing.
 
 ◼️
 
 [Data](articles/c8be1a57.json)
 
+[Extended Data](ext_articles/c8be1a57.ext.json)
+
 ---
 
-### ජනපති තවත් සුවිශේෂි හමුවක
+### President meets another special meeting
 
 *2024-03-04 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194096) · `si`
 
-බෝරා ප්‍රජාවේ අධ්‍යාත්මික නායක ආචාර්ය අතිඋතුම් සෙයියදිනා මුෆද්දල් සෙයිෆුද්දීන් සහෙබ්තුමා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර හමුවක් සිදුව තිබේ.
+Dr. Figiwey Sayanda Mufadal Saiadandan, the physiological leader of the Bora Community, met with President Ranil Wickremesinghe to discuss building Sri Lanka's economy. The Bora community also attended the Conduct Conference on Bambalapitiya Bora Church and received a book detailing religious services over the past four years.
 
-ජනාධිපතිවරයා සමඟ සුහද කථාබහක නිරත වූ බෝරා ප්‍රජාවේ අධ්‍යාත්මික නායකවරයා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැංවීම වෙනුවෙන් ජනාධිපතිවරයා විසින් ක්‍රියාත්මක කර ඇති වැඩපිළිවෙළ ඇගයීමට ලක් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-බම්බලපිටිය බෝරා පල්ලිය ආශ්‍රිතව පැවැත්වෙන බෝරා සමුළුව මෙම වසරේදී පැවැත්වීම පිළිබඳව ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අවධානය යොමු කර ඇති බව සඳහන්ය.
+Physiological Leader of the Bora Community Dr. Figiwey Sayanda Mufadal Saiadandan and President Ranil Wickremesinghe met with President Ranil Wickremesinghe.
 
-බෝරා ප්‍රජාව විසින් පසුගිය වසර 04ක් පුරා සිදුකළ ආගමික සේවාවන් ඇතුළු විවිධ වැඩසටහන් ඇතුළත් ග්‍රන්ථයක් ද ජනාධිපතිවරයා වෙත පිළිගන්වා තිබේ.
+The manifestation leader of the Bora community has been evaluated by the President's leadership to build Sri Lanka's economy in Sri Lanka.
+
+The Bora Wickremesinghe has also paid attention to the Conduct Conference on Bambalapitiya Bora Church.
+
+The Borah community also accepted a book on various programs, including religious services, including religious services over the past four years.
 
 ◼️
 
 [Data](articles/b2da0300.json)
 
+[Extended Data](ext_articles/b2da0300.ext.json)
+
 ---
 
-### අද රාත්‍රියේ ඉන්ධන ගාස්තු සංශෝධනයක් - ජනපතිගෙන් විශේෂ ගැසට්ටුවකුත්
+### Fuel charges amendment tonight - President is a special gazette
 
 *2024-03-04 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194095) · `si`
 
-අද (04) රාත්‍රියේ ඉන්ධන මිල ගණන් සංශෝධනයක් සිදුවනු ඇති බව වාර්තා වේ.
+Fuel price amendment expected today, but not changed. Petroleum Corporation revised fuel price hike. President Ranil Wickremesinghe issued a gazette with immediate effect. Fuel separatists Association claims Ceylon Petroleum Corporation will recover 35% of monthly discount.
 
-පෙබරවාරි මස අග දී මිල සංශෝධනයක් සිදුවිය යුතු වුවද එය අද දිනයේ දී සිදුවනු ඇති බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සඳහන් කළේය.
+🟩
 
-කෙසේවෙතත් අද දිනයේ දී ඉන්ධන මිලෙහි විශාල වෙනසක් සිදුනොවනු ඇති බව ද වාර්තා වේ.
+It is reported that fuel prices will take place today (04).
 
-ඉන්ධන මිල සුත්‍රයට අනුව මාසිකව ඉන්ධන මිල සංශෝධනය කිරීමට සංස්ථාව පියවර ගෙන තිබේ.
+The Petroleum Corporation stated that the price should take place in late February, but it will take place today.
 
-ඒ අනුව අවසන් වරට පසුගිය ජනවාරි මස 31 වන දා ඉන්ධන මිල ගණන් සංශෝධනය වු අතර ඔක්ට්‍රේන් 92 පෙට්‍රල්, ඔක්ටේන් 95 පෙට්‍රල්, සුපර් ඩීසල් සහ භූමිතෙල් මිල ඉහළ ගියේය.
+However, it is reported that the fuel price will not be changed today.
 
-මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි විදුලි බල සැපයීම සම්බන්ධ සියලු සේවාවන් හා ඛනිජ තෙල් නිෂ්පාදන හා ඉන්ධන සැපයීම හෝ බෙදාහැරීම අත්‍යවශ්‍ය සේවාවන් බවට පත් කරමින් ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+According to the fuel pricing, the corporation has taken steps to revise the fuel price hike.
 
-ජනාධිපතිවරයාගේ අණ පරිදි ජනාධිපති ලේකම් සමන් ඒකනායක විසින් ඊයේ (03)දිනයේ සිට ක්‍රියාත්මක වන පරිදි මෙම ගැසට් පත්‍රය නිකුත් කර ඇති බව සඳහන්ය.
+The last time the fuel prices were revised on January 31st.
 
-...
+Meanwhile, a gazette has been issued by President Ranil Wickremesinghe by President Ranil Wickremesinghe with immediate effect.
+
+The gazette has been issued by Presidential Secretary to the Presidential Secretary to the Presidential Secretary, with the operation of Presidential Secretary to the President.
+
+Meanwhile, the Fuel separataries Association alleges that the Ceylon Petroleum Corporation will take place today to recover a 35% of the monthly discount of fuel separatists.
+
+The Association Selton Fernando said that it is not unable to determine the daily expenses for distribution.
+
+◼️
 
 [Data](articles/801d2817.json)
+
+[Extended Data](ext_articles/801d2817.ext.json)
 
 ---
 
@@ -305,6 +327,30 @@ Meanwhile, Ajith Ranabahu Rajapaksha, business development officer at Saliya Hom
 [Data](articles/df008b07.json)
 
 [Extended Data](ext_articles/df008b07.ext.json)
+
+---
+
+### දරුවන්ට වෙන ම කාමරයක් දිය යුතු වයස කුමක් ද? දෙමාපියන් දැනගත යුතු කරුණු
+
+*2024-03-04 02:20:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51dy0nxe8go) · `si`
+
+දරුවන්ට වෙන ම කාමරයක් දිය යුතු වයස කුමක් ද? දෙමාපියන් දැනගත යුතු කරුණු
+
+"මම දවසක් පාන්ර දෙකට විතර වතුර බොන්න කුස්සියට යන ගමන් දැක්කා විෂාන්ගේ (මෙය දරුවාගේ අනන්‍යතාව හෙළි නොකිරීම සඳහා භාවිත කරන වෙනත් නමකි) කාමරයේ ලයිට් එක දාලා තියෙනවා. මේ ළමයාට තවම වයස අවුරුදු 13යි. ඉතින් මෙච්චර වෙලා පාඩම් කරන්න හේතුවක් නැති නිසා මම කාමරයට එබිලා බැලුවා ම එයා ගේම් එකක් ගහනවා, කම්පියුටර් එකේ," මෙම අත්දැකීම අනාවරණය කළේ, විෂාන් නමින් හඳුන්වන ඉහත කී දරුවාගේ මුත්තණුවන්ය‍.
+
+ජාත්‍යන්තර පාසලක 8 වන ශ්‍රේණියේ ඉගෙනුම ලබන එම දරුවාගේ මව මහනුවර සිට රැකියාවක නිරත වන අතර, පියා බ්‍රිතාන්‍යයේ රැකියාවක නිරත වෙයි.
+
+දෙමාපියන්ගේ රැකවරණය නොලබන එම දරුවා හදාවඩා ගනු ලබන්නේ, පියගේ මව සහ පියා විසිනි.
+
+දරුවාගේ පෙරැත්ත කිරීම් අනුව පරිගණක ක්‍රීඩා මෙවලමක් ද පියා ලබා දී ඇතැයි මුත්තණුවන් හෙළි කළේය.
+
+මේ අතර, විෂාන්ගේ මිතුරෙකු ද ඔහුට වෙන ම කාමරයක් දෙන ලෙස දෙමාපියන්ට ඇවිටිලි කරන බව එම දරුවාගේ මව අප සමග පැවසීය.
+
+දරුවන්ට වෙන ම කාමරයක් ලබා දීම සඳහා සුදුසු වයසක් තිබේ ද? එවැනි කාමරයක් ලබා දිය යුත්තේ කුමන ආකාරයට ද? යන්න පිළිබඳව බොහෝ දෙමාපියන්ට ගැටලුසහගතය.
+
+...
+
+[Data](articles/d0c189fc.json)
 
 ---
 
@@ -1045,6 +1091,20 @@ President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifudd
 [Data](articles/4c9afa6d.json)
 
 [Extended Data](ext_articles/4c9afa6d.ext.json)
+
+---
+
+### සාන්තන්ගේ දේහයට ශ්‍රීධරන්ගෙන් අවසන් ගෞරව
+
+*2024-03-03 20:44:17* · [`adalk`](https://www.ada.lk/breaking_news/සාන්තන්ගේ-දේහයට-ශ්‍රීධරන්ගෙන්-අවසන්-ගෞරව/11-408402) · `si`
+
+හිටපු ඉන්දීය අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතන සිද්ධියට වරදකරුවකු වී පසුව නිදහස ලැබූ යාපනයේ සුතෙන්ද්‍රරාජා මෙවත් සාන්තන් නමැත්තා ඉන්දියාවේ රජිව් ගාන්ධි රෝහලේදී පසුගියදා ජීවිතක්ෂයට පත්වූ අතර ඔහුගේ දේහය සිය උපන්බිම වන යාපනයට රැගෙන එනු ලැබීය.
+
+මෙහිදී ඔහුගේ දේහයට අවසන් ගෞරව දැක්වීමට පාර්ලිමේන්තු මන්ත්‍රී  ශ්‍රීධරන් මහතාද සහභාගි විය.
+
+◼️
+
+[Data](articles/c98cd38c.json)
 
 ---
 
@@ -2101,51 +2161,5 @@ President Wickremesinghe also pointed out the need to prepare the National Progr
 [Data](articles/1d6bda0a.json)
 
 [Extended Data](ext_articles/1d6bda0a.ext.json)
-
----
-
-### The son of Governor MuzammilBaitness
-
-*2024-03-03 14:42:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளுநர்-முஸம்மிலின்-மகன்-தலைமறைவு-பயணத்தடை-விதிப்பு/175-334136) · `ta`
-
-A.J.M. Muzammil's son banned from abroad for assaulting a teenager.
-
-🟩
-
-Uva Provincial Governor A.J.M. Muzammil's son has been banned from going abroad for allegedly assaulting and injuring a teenager, police said.
-
-The order has been issued on a complaint received by the Wellawatte police that a woman has been assaulted by the son of Uva Provincial Governor A.J.M. Musammil.
-
-A woman who lives in a house on Hevlok Park Road has been attacked.
-
-Police have launched investigations after a complaint was lodged at the Wellawatte police station.
-
-Accordingly, the governor of Uva Province A.J.M. Muzammil's son has been banned from going abroad. Remble
-
-◼️
-
-[Data](articles/478328f1.json)
-
-[Extended Data](ext_articles/478328f1.ext.json)
-
----
-
-### Two aircraft from Belgian Airlines assigned to fill current shortage of SriLankan
-
-*2024-03-03 14:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-aircraft-from-Belgian-Airlines-assigned-to-fill-current-shortage-of-SriLankan/108-278130) · `en`
-
-In order to remedy the current shortage of aircraft with SriLankan Airlines, two aircraft from Belgian Airlines have been temporarily acquired and put into service.
-
-The A-330-200 Airbus type aircraft are also operated by Belgian Airline pilots.
-
-These aircraft have 22 business class seats and 240 economy class seats.
-
-In addition to this, an A320 type aircraft of Fitz Air has also been temporarily leased by SriLankan Airlines and put into service.
-
-◼️
-
-[Data](articles/6e3efd02.json)
-
-[Extended Data](ext_articles/6e3efd02.ext.json)
 
 ---

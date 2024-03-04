@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 18:33:58**
+As of **2024-03-04 18:52:20**
 
 ## Newspaper Stats
 
-*Scraped **10,812** Articles*
+*Scraped **10,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 572
 islandlk | 579
 adalk | 914
 adaderanalk | 1,320
-tamilmirrorlk | 1,321
+tamilmirrorlk | 1,322
 virakesarilk | 1,456
 dailymirrorlk | 1,646
 adaderanasinhalalk | 1,682
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,682
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,812 (100.0%) of 10,812 articles have been extended.
+10,812 (100.0%) of 10,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,13 +104,13 @@ The electricity tariffs will be reduced by 21.9% with effect from midnight today
 
 PUCSL chairman Prof. Manjula Fernando revealed this during a press briefing held in Colombo today (04) to deliver its decision on the electricity tariff reduction proposal mooted recently by the Ceylon Electricity Board (CEB).
 
-The state-owned electricity supplier had submitted its tariff revision proposal to the commission on February 22, 2024.
+He explained that the overall average tariff reduction is about 21.9%. “Then accordingly there are consumer groups. There are two categories for the domestic customers, namely those consuming less than 60Kwh and more than 60Kwh.”
 
-Last month, Minister of Power and Energy Kanchana Wijesekera had informed the parliament that the CEB expects to reduce the rates by at least the same rates and percentages increased in October 2023.
+He said the electricity tariff of customer groups who are consuming less than 30 units will be reduced from Rs. 12 to Rs. 08 per unit. That is a reduction of around 33.3%.
 
-In October last year, the electricity tariffs were raised by 18% for domestic and religious places of worship, by 12% for industries and hotels and by 24% for government institutions.
+For consumers who use between 31 – 60 units, the reduction is 28% while for those who consume between 61 – 90 units the tariff reduction is 30%, he said.
 
-◼️
+...
 
 [Data](articles/f0a68ff9.json)
 
@@ -319,6 +319,22 @@ The Awareness Walk was sponsored by the Apollo Hospitals Group of India.
 [Data](articles/7e0e630f.json)
 
 [Extended Data](ext_articles/7e0e630f.ext.json)
+
+---
+
+### பொலிஸ் உத்தியோகத்தர்களுக்கு மரண தண்டனை
+
+*2024-03-04 16:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்களுக்கு-மரண-தண்டனை/175-334187) · `ta`
+
+பேலியகொட பொலிஸ் நிலையத்தில் கடமையாற்றிய இரண்டு பொலிஸ் உத்தியோகத்தர்களுக்கு மரண தண்டனை விதிக்கப்பட்டுள்ளது.
+
+2005ஆம் ஆண்டு பேலியகொட பொலிஸாரால் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டு, அவரை அடித்துக் கொலை செய்த குற்றச்சாட்டில் இவர்கள் குற்றவாளிகளாக அறிவிக்கப்பட்டு மரண தண்டனை விதிக்கப்பட்டுள்ளது.
+
+நீண்ட விசாரணையின் பின்னர் கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க இந்தத் தீர்ப்பை வழங்கினார். R
+
+◼️
+
+[Data](articles/b2deb3dd.json)
 
 ---
 
@@ -2297,25 +2313,5 @@ When the incident occurred, the doctor has not been home, and the deceased docto
 [Data](articles/4d47c7ac.json)
 
 [Extended Data](ext_articles/4d47c7ac.ext.json)
-
----
-
-### Amendment of fuel prices tonight
-
-*2024-03-04 10:10:34* · [`adalk`](https://www.ada.lk/breaking_news/අද-රෑට-ඉන්ධන-මිලහි-සංශෝධනයක්/11-408405) · `si`
-
-The Petroleum Corporation plans to revise fuel prices by the end of February, despite monthly amendments. The last revision was on January 31st, affecting OTrane 92, Octane 95, Super diesel, kerosene, high diesel, and kerosene.
-
-🟩
-
-The Petroleum Corporation states that the price revision is to be aimed at the end of February, even though the fuel price should be amended monthly.
-
-The last time was the fuel prices were revised on January 31st and the price of OTrane 92 petrol, Octane 95 petrol, Super diesel and kerosene, high diesel and kerosene.
-
-◼️
-
-[Data](articles/1b8319a2.json)
-
-[Extended Data](ext_articles/1b8319a2.ext.json)
 
 ---

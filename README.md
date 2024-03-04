@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 09:49:20**
+As of **2024-03-04 10:15:29**
 
 ## Newspaper Stats
 
-*Scraped **10,694** Articles*
+*Scraped **10,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,120 @@ newsfirstlk | 363
 economynextcom | 548
 dailyftlk | 572
 islandlk | 578
-adalk | 901
-adaderanalk | 1,303
+adalk | 902
+adaderanalk | 1,304
 tamilmirrorlk | 1,310
 virakesarilk | 1,435
-dailymirrorlk | 1,622
-adaderanasinhalalk | 1,659
+dailymirrorlk | 1,624
+adaderanasinhalalk | 1,660
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,683 (99.9%) of 10,694 articles have been extended.
+10,694 (100.0%) of 10,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### வெளியானது அதிவிசேட வர்த்தமானி அறிவிப்பு
+### January construction activity exceeds neutral threshold
+
+*2024-03-04 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-construction-activity-exceeds-neutral-threshold/108-278168) · `en`
+
+Sri Lanka’s construction sector for the first time saw its activity exceed the neutral threshold since January 2022.
+
+According to the Central Bank, this is due to new construction work gradually becoming available, while some suspended projects also recommencing on a limited scale during the month.
+
+The Purchasing Managers’ Index (PMI) for construction in January 2024 recorded an index value of 52.9, indicating an expansion in activities in the sector that has been struggling for long.
+
+In PMI, a value of 50.0 indicates a neutral level, signifying neither expansion nor contraction, while values above 50 suggest expansion and values below 50 indicate a decline in the respective economic activity.
+
+While, new orders increased in January compared to the previous month, respondents mentioned that, at the moment, the availability of both foreign-funded projects and privately-funded local projects is higher.
+
+...
+
+[Data](articles/87e5802f.json)
+
+---
+
+### Additional Health Secretary produced before court
+
+*2024-03-04 09:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97714/additional-health-secretary-produced-before-court) · `en`
+
+Additional Secretary of the Ministry of Health Dr. Saman Ratnayake who was ordered to be remanded over the substandard drug procurement scandal on Saturday (March 02), has been produced before the Maligakanda Magistrate’s Court.
+
+On Friday (March 01), the Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal.
+
+Meanwhile on Friday, the Additional Health Secretary stated before the courts that he was willing to make a confession regarding the matter, following which the court ordered him to be separated from the other arrested suspects in the case.
+
+◼️
+
+[Data](articles/66c4b1c0.json)
+
+---
+
+### සමන් රත්නායකව අධිකරණයට රැගෙන එයි
+
+*2024-03-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194102) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා මීට සුළු වේලාවකට පෙර අධිකරණය වෙත රැගෙන විත් තිබේ.
+
+පසුගිය මාර්තු 1 වන දින ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගනු ලැබිණි.
+
+ඉන් අනතුරුව මාළිගාකන්ද අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අද දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස අධිකරණය නියෝග කළේය.
+
+ආන්දෝලනාත්මක හියුමන් ඉමියුනෝග්ලොබියුලින් ඖෂධ සිද්ධිය පිළිබඳ සමන් රත්නායකට චෝදනා එල්ල වී ඇත.
+
+◼️
+
+[Data](articles/99c18196.json)
+
+---
+
+### Released
 
 *2024-03-04 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/177836) · `ta`
 
-மின்விநியோகம், பெற்றோலிய உற்பத்தி மற்றும் எரிபொருள் விநியோகம் ஆகியவற்றை அத்தியாவசிய சேவைகளாகப் பிரகடனப்படுத்தி அதிவிசேட வர்த்தமானியொன்று வெளியாகியுள்ளது.
+A high-rise gazette has been published by President Saman Ekanayake, declaring electricity, petroleum production, and fuel supply as essential services.
 
-ஜனாதிபதியின் உத்தரவின் பெயரில் ஜனாதிபதி செயலாளர் சமன் ஏக்கநாய்கவினால் குறித்த வர்த்தமானி அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+🟩
+
+A high -rise gazette has been published as essential services of electricity, petroleum production and fuel supply.
+
+The gazette notification has been issued by President Saman Ekanayake in the order of the President.
 
 ◼️
 
 [Data](articles/7a86c34a.json)
 
+[Extended Data](ext_articles/7a86c34a.ext.json)
+
 ---
 
-### මෙරට අධික තරබාරු පුද්ගලයින් ගණන ඉහළට - ලෝක  ස්ථුලතා දිනය අදයි
+### The number of heavy personnel in Sri Lanka is up - World Lixture Day is today
 
 *2024-03-04 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194101) · `si`
 
-ලෝකයේ වැඩිහිටි ජනගහනයෙන් බිලියන 1.9කට වඩා වැඩි ප්‍රමාණයක් අධිබර සහිත පුද්ගලයින් වන අතර ඉන් මිලියන 650ක් ස්ථුලතාවයෙන් පෙළෙන බව ජාතික දියවැඩියා මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ප්‍රජා වෛද්‍ය විශේෂඥ ශාන්ති ගුණවර්ධන මහත්මිය පවසන්නීය.
+"World Line Day today. Shanthi Gunawardena highlights global obesity, 1.9 billion people affected, 650 million obese. Sri Lanka's situation worsens, with 30% men and 46.7% women obese by 2021, up from 24% men and 34% women in 2015. This increase poses a risk to non-communicable diseases."
 
-ලෝක ස්ථුලතා දිනය සෑම වසරකම මාර්තු මස 04 වන දිනට එනම් අද දිනට යෙදී තිබේ.
+🟩
 
-ඒ සම්බන්ධයෙන් අදහස් දක්වමින් ප්‍රජා වෛද්‍ය විශේෂඥ ශාන්ති ගුණවර්ධන මහත්මිය මෙම අදහස් පළ කළාය.
+Deputy Director Commander Shanthi Gunawardena, Deputy Director of the National Diabeteen Center Shanthi Gunawardena, says that there are over 1.9 billion people in the world.
 
-"මේකේ වැදගත්කම වෙන්නේ, හැමෝම දන්න විදියට ස්ථූලතාවය නැත්නම් තරබාරු කියන වචනය තමා වැඩිය හොඳ. මේ තරබාරුබව විශාල ප්‍රශ්නයක් විදියට දැන් මතුවෙමින් පවතිනවා.﻿ මේ නිසා ඇතිවෙන ලෙඩ රෝග ප්‍රමාණයත් වැඩිවෙලා. ලෝකයේ බිලියන 1.9ක් බර වැඩි පුද්ගලයින් ඉන්නවා. ඉන්නවා මිලියන 650ක් තරබාරු බැවින් පෙළෙනවා. එහෙම ගත්තාම ලෝක ජනගහණනේ 39.%ක් අධි බර සහිත පුද්ගලයින් වන අතර එයින් 13%ක් තරබාරුයි."
+World Line Day is today on March 4, today.
 
-මෙරට තුළ ද මෙම තත්ත්වය අහිතකර ලෙස දක්නට ලැබෙන බව වෛද්‍ය ශාන්ති ගුණවර්ධන මහත්මිය පවසන්නීය.
+Commenting in this regard, Community Medical Specialist Shanthi Gunawardena made these comments.
+
+"The importance of this is, the word that is obese if everyone or is fat. This obesity is now emerging. This has increased with the amount of disease caused by this. There are more than 1.9 billion in the world. There are 650 million fat as fat. When you don't, 39.% of the world's population are overweight and 13% is obese. "
+
+Ms. Mrs. Dr. Shanthi Gunawardena says that this situation is also harmful in the country.
 
 ...
 
 [Data](articles/372db578.json)
+
+[Extended Data](ext_articles/372db578.ext.json)
 
 ---
 
@@ -118,17 +184,23 @@ The Commissioner General of Motor Traffic said that this will continue to provid
 
 ---
 
-### டிஜிட்டல் முறையில் மோட்டார் வாகன பதிவு
+### Motor Vehicle Registration
 
 *2024-03-04 08:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-முறையில்-மோட்டார்-வாகன-பதிவு/175-334161) · `ta`
 
-இன்று முதல் டிஜிட்டல் முறைமைக்கமைய மோட்டார் வாகன போக்குவரத்து திணைக்களம் ஊடாக வழங்கப்படும் சேவைகள் முன்னெடுக்கப்படவுள்ளதாக மோட்டார் வாகன போக்குவரத்து திணைக்களத்தின் ஆணையாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க தெரிவித்துள்ளார்.
+The Commissioner General of the Motor Transport Department, Nishantha Anurutha Weerasinghe, announced that the Department's services will be operational from today. He urged all branches to register in the digital system and schedule their registration day and time.
 
-மோட்டார் வாகன போக்குவரத்து திணைக்களத்தின் சகல கிளைகள் ஊடாக வழங்கப்படும் சேவைகளுக்காக டிஜிட்டல் முறைமையின் கீழ் பதிவு செய்து நாள் மற்றும் நேரத்தை ஒதுக்கிக் கொள்ள வேண்டும் என அவர் அறிவுறுத்தியுள்ளார். (a)
+🟩
+
+Commissioner General of Motor Transport Department Nishantha Anurutha Weerasinghe said that the services provided by the Department of Motor Transport will be carried out from today.
+
+He advised that all the branches of the Motor Vehicle Transport Department should register under the digital system and set aside the day and time.. (A)
 
 ◼️
 
 [Data](articles/772d1aaf.json)
+
+[Extended Data](ext_articles/772d1aaf.ext.json)
 
 ---
 
@@ -170,6 +242,28 @@ Three bodies with gunshot wounds lay at the prison entrance, which was wide open
 
 [Data](articles/168ae79e.json)
 
+[Extended Data](ext_articles/168ae79e.ext.json)
+
+---
+
+### Electricity, petroleum supply declared as essential services
+
+*2024-03-04 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Electricity-petroleum-supply-declared-as-essential-services/155-278173) · `en`
+
+Colombo, March 04 (Daily Mirror) - All activities related to the supply of electricity and petroleum products have been declared as essential services through a Gazette Extraordinary.
+
+Accordingly, all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel are deemed to be essential services.
+
+The notification, issued by Secretary to the President Saman Ekanayake on the orders of President Ranil Wickremesinghe, designates these services as Essential Public Services.
+
+The Gazette underscores the critical nature of these services, emphasizing their indispensable role in sustaining community life.
+
+It applies to all entities, including Public Corporations, Government Departments, Local Authorities, and Co-operative Societies engaged in electricity supply, petroleum distribution or fuel provision.
+
+◼️
+
+[Data](articles/7eb7a42d.json)
+
 ---
 
 ### Electricity, petroleum supply declared as essential services
@@ -190,23 +284,31 @@ It applies to all entities, including Public Corporations, Government Department
 
 [Data](articles/d5613d58.json)
 
+[Extended Data](ext_articles/d5613d58.ext.json)
+
 ---
 
-### எச்சரிக்கை மட்டத்துக்கு உயர்வடையும் வெப்பநிலை
+### Hypopodium
 
 *2024-03-04 07:42:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்துக்கு-உயர்வடையும்-வெப்பநிலை/175-334160) · `ta`
 
-நாட்டின் பல பகுதிகளில் இன்றைய தினமும் வெப்பநிலையானது எச்சரிக்கை மட்டத்துக்கு உயர்வடையக் கூடுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology warns of rising temperatures in several provinces, including North Western, Upper and Southern, and Sabaragamuwa, affecting parts of Anuradhapura and Mannar. The Department of Health advises children, the elderly, and the sick to be cautious. Doctors recommend drinking plenty of water to mitigate the effects of the heat.
 
-அதன்படி, வடமேல், மேல் மற்றும் தென், சப்ரகமுவ மாகாணங்களிலும், அனுராதபுரம் மற்றும் மன்னார் மாவட்டங்களின் சில இடங்களிலும் வெப்பநிலை அதிகரித்திருக்கும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-எனவே, சிறுவர்கள், குழந்தைகள், முதியவர்கள் மற்றும் நோய்வாய்ப்பட்டவர்கள் இந்த நிலைமை தொடர்பில் அவதானமாக இருக்குமாறு சுகாதார திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has announced that the temperature in many parts of the country today will increase to the warning level.
 
-அதிகரிக்கும் வெப்பநிலை காரணமாக ஏற்படக்கூடிய பாதிப்புகளை குறைத்து கொள்வதற்காக போதியளவு நீரை பருகுமாறு வைத்தியர்கள் அறிவுறுத்தியுள்ளனர். (a)
+Accordingly, temperatures will increase in the North Western, Upper and Southern and Sabaragamuwa provinces and some parts of Anuradhapura and Mannar districts.
+
+Therefore, the Department of Health has said that children, children, the elderly and the sick will be careful with the situation.
+
+Doctors have advised to drink adequate water to reduce the damage caused by increased temperature. (A)
 
 ◼️
 
 [Data](articles/7b6388d2.json)
+
+[Extended Data](ext_articles/7b6388d2.ext.json)
 
 ---
 
@@ -223,6 +325,8 @@ Accordingly, the proclamation states that the services specified have been decla
 ◼️
 
 [Data](articles/9ea7233b.json)
+
+[Extended Data](ext_articles/9ea7233b.ext.json)
 
 ---
 
@@ -319,6 +423,8 @@ The improvement in the financial performance is largely due to the increase in r
 ...
 
 [Data](articles/352785ee.json)
+
+[Extended Data](ext_articles/352785ee.ext.json)
 
 ---
 
@@ -565,6 +671,8 @@ Tourism Minister Harin Fernando took to X, formerly Twitter, stating that Sri La
 ...
 
 [Data](articles/ccdeae44.json)
+
+[Extended Data](ext_articles/ccdeae44.ext.json)
 
 ---
 
@@ -1432,6 +1540,24 @@ In a gesture of goodwill, a meticulously compiled book showcasing the Bohra comm
 
 ---
 
+### විදුලි ගාස්තු සංශෝධනයට මණ්ඩලය නිවැරදි දත්ත දෙන්නේ නැතිලු
+
+*2024-03-03 20:17:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනයට-මණ්ඩලය-නිවැරදි-දත්ත-දෙන්නේ-නැතිලු/11-408401) · `si`
+
+විදුලි ගාස්තු අඩු කිරීමට අදාළව විදුලිබලමණ්ඩල බලධාරීන් නිවැරදි ලෙස දත්ත ලබා නොදීම නිසා විදුලි ගාස්තු සංශෝධනයට අදාළ තීන්දුවක් ගැනීමට මහජන උපයෝගිතා කොමිසමට තවමත් නොහැකි වී තිබෙනබව එම කොමිසමේ සේවකයෝ සඳහන්කරති
+
+මේ සම්බන්ධයෙන් සාකච්ඡා කිරීමට අද (04දා) මහජන උපයෝගිතා කොමිසම රැස්වන බවත් කොමිෂන් සභාව විසින් සිදුකළ මහජන උපදේශනයට අනුව හා මහජන උපයෝගිතා කොමිසමේ දත්ත විශ්ලේෂණය අනුව විදුලි ගාස්තුව 25%ත් 33%ත් අතර ප්‍රමාණයකින් අඩු කළ හැකි බවද සේවකයෝපෙන්වා දෙති.
+
+එහෙත් විදුලිබලමණ්ඩලය පළමු වරට ඉදිරිපත් කළයෝජනාවට අනුව විදුලි ගාස්තුව පොදුවේ 3.4%කින් අඩු කිරීමට යෝජනා කර තිබූ අතර, දෙවන වර විදුලිබලමණ්ඩලය විසින් 16%කින් විදුලි ගාස්තු අඩු කිරීමට යෝජනා කර තිබුණි.
+
+එම අදාළයෝජනා තුළ පිළිගත නොහැකි ගණනය කිරීම් ඉදිරිපත් කර තිබීම නිසා අදාළදෝෂ තත්ත්වයන් නිවැරදි කරන ලෙසට අවස්ථා දෙකකදී විදුලිබලමණ්ඩල බලධාරීන්ට දැන්වූ බවත් එහෙත් ඒ සඳහා ඊයේ (03දා) දිනය වන තෙක් ප්‍රතිචාර නොලැබුණ බවද මහජන උපයෝගිතා කොමිෂන්සභා සේවකයෝ පෙන්වා දෙති.
+
+...
+
+[Data](articles/021c5b2a.json)
+
+---
+
 ### Ronnie De Mel: A True Democrat & An Economics Philosopher To The End
 
 *2024-03-03 20:09:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ronnie-de-mel-a-true-democrat-an-economics-philosopher-to-the-end/) · `en`
@@ -1492,21 +1618,27 @@ The police were able to find out the police when she had more than Rs.
 
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංගය අද භාරදෙයි
+### The no-confidence in the speaker is handed over today
 
 *2024-03-03 19:48:16* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකට-එරෙහි-විශ්වාසභංගය-අද-භාරදෙයි/11-408399) · `si`
 
-සමගි ජන බලවේගය සහ සමගි ජන සන්ධානය කථානායකවරයාට එරෙහිව ගෙන එනු ලබන විශ්වාසභංග යෝජනාව අද (04දා) පාර්ලිමේන්තුවට භාර දෙන බව සමගි ජන බලවේගයේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්තනායක මහතා 'අද' පුවත්පතට පැවසීය.
+MP Tissa Attanayake, the National Organizer, faces a no-confidence motion today, launched by Opposition Leader Sajith Premadasa. The TNA and SLFP support it, with independent MPs like Wimal Weerawansa and Udaya Gammanpila involved.
 
-මෙම විශ්වාසභංග යෝජනාව අත්සන් කිරීම විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් පසුගිය 26වැනිදා කොළඹ විපක්ෂනායක කාර්යාලයේදී ආරම්භ කළේය.
+🟩
 
-ඒ අනුව මෙම විශ්වාසභංග යෝජනාව සඳහා දෙමළ ජාතික සන්ධානය, ජාතික ජනබලවේගය, ශ්‍රී ලංකා නිදහස් පක්ෂය සහාය ලබා දෙන බවට ප්‍රකාශ කර තිබේ.
+The National Organizer of the National Organizer, MP Tissa Attanayake, the no-confidence motion against the Speaker Tissa Attanayake told the newspaper today.
 
-එමෙන්ම විමල් වීරවංශ, උදය ගම්මන්පිල, වාසුදේව නානායක්කාර, පූජ්‍ය අතුරලියේ රථන හිමියන් ඇතුළු පාර්ලිමේන්තුවේ ස්වාධීනව කටයුතු කරන මන්ත්‍රීවරුන්ද මේ සඳහා සහාය ලබා දෙන බව සඳහන් කර ඇත.
+Opposition Leader Opposition Leader Sajith Premadasa launched the signing of this no-confidence motion at the Colombo October 26.
+
+Accordingly, the TNA, the TNA, the TNA and the Sri Lanka Freedom Party (SLFP) have been assisted.
+
+Members of Parliament who is the independent of Parliament including Wimal Weerawansa, Udaya Gammanpila and Ven. Athuraliye Darkage Thero.
 
 ◼️
 
 [Data](articles/5f979f43.json)
+
+[Extended Data](ext_articles/5f979f43.ext.json)
 
 ---
 
@@ -2037,107 +2169,5 @@ This training programme will be held in 300 centres across the country from Marc
 [Data](articles/eea6baff.json)
 
 [Extended Data](ext_articles/eea6baff.ext.json)
-
----
-
-### Grade 8 to AI
-
-*2024-03-03 16:54:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-8-முதல்-AI/175-334141) · `ta`
-
-"Education Minister Susil Premajayantha announced a pioneering AI teaching scheme in 20 schools starting March 19, aiming to equip students with IT skills for future goals. Teachers are being trained for this nationwide initiative."
-
-🟩
-
-Education Minister Susil Premajayantha said that students will have the opportunity to teach artificial intelligence (AI) with their information technology course and this pioneer scheme will be launched in 20 schools from March 19.
-
-He pointed out that teachers are being trained for this task and that it will be implemented nationwide in the coming year.
-
-In the future, every child in the country will be given the background to achieve their future goals according to their skills and wishes.
-
-◼️
-
-[Data](articles/f4ec202d.json)
-
-[Extended Data](ext_articles/f4ec202d.ext.json)
-
----
-
-### Sri Lanka loses MICE tourists to Thailand on minimum room rates
-
-*2024-03-03 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-loses-mice-tourists-to-thailand-on-minimum-room-rates-152761/) · `en`
-
-ECONOMYNEXT – Sri Lanka has lost Meetings, Incentive Travel and Exhibition travelers to competitors in East Asia and India due to minimum room rates as higher standard rooms were available in other countries at lower prices, industry officials said.
-
-President of the Sri Lanka Association of Inbound Tourist (SLAITO) Nishad Wijetunga said they the industry managed to retain a majority of booking made before the minimum room rates were imposed by the state last year.
-
-“However, there were MICE groups that were supposed to come and cancelled Sri Lanka and went to places like Thailand and other parts of India and we lost,” Wijetunga told EconomyNext.
-
-“We know that large groups of MICE (tourists) are affected.”
-
-Sri Lanka’s businesses have got used to protectionism and try to push up prices with import taxes to extract more money from customers using the coercive power of the state, with tiles and steel being among the most prominent examples.
-
-...
-
-[Data](articles/e849f805.json)
-
-[Extended Data](ext_articles/e849f805.ext.json)
-
----
-
-### AI learning opportunity for Grade 8 and above from March 19
-
-*2024-03-03 16:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AI-learning-opportunity-for-Grade-8-and-above-from-March-19/108-278135) · `en`
-
-Students from Grade 8 and above will have the opportunity to study artificial intelligence (AI) with their information technology subject and this pilot project will be started in 20 schools from March 19, Education Minister Susil Premajayantha said.
-
-He pointed out that teachers are being trained for this task and it will be implemented throughout the country in the coming year.
-
-In the future, every child in the country will be provided with the necessary background to achieve their future goals according to their abilities and preferences, he said.
-
-◼️
-
-[Data](articles/56943722.json)
-
-[Extended Data](ext_articles/56943722.ext.json)
-
----
-
-### The no -confidence motion will be handed over to Tuesday
-
-*2024-03-03 16:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-செவ்வாய்-கையளிக்கப்படும்/175-334140) · `ta`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena will be submitted tomorrow, with support from opposition parties including the United People's Power.
-
-🟩
-
-Lakshman Kiriella, Kandy district parliamentarian and Kandy district parliamentarian, said that the no -confidence motion signed against Speaker Mahinda Yapa Abeywardena will be handed over tomorrow.
-
-It is noteworthy that many opposition parties, including the United People's Power, have already decided to support the proposal.
-
-◼️
-
-[Data](articles/65d04fbe.json)
-
-[Extended Data](ext_articles/65d04fbe.ext.json)
-
----
-
-### The no -confidence motion will be handed over tomorrow
-
-*2024-03-03 16:32:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-நாளை-மறுதினம்-கையளிக்கப்படும்/175-334140) · `ta`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena, supported by opposition parties, will be submitted tomorrow.
-
-🟩
-
-Lakshman Kiriella, Kandy district parliamentarian and Kandy district parliamentarian, said that the no -confidence motion signed against Speaker Mahinda Yapa Abeywardena will be handed over tomorrow.
-
-It is noteworthy that many opposition parties, including the United People's Power, have already decided to support the proposal.
-
-◼️
-
-[Data](articles/959e48ee.json)
-
-[Extended Data](ext_articles/959e48ee.ext.json)
 
 ---

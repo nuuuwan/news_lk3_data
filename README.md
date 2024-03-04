@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 20:33:37**
+As of **2024-03-04 20:51:22**
 
 ## Newspaper Stats
 
-*Scraped **10,821** Articles*
+*Scraped **10,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 916
+adalk | 919
 adaderanalk | 1,320
 tamilmirrorlk | 1,322
 virakesarilk | 1,456
-dailymirrorlk | 1,648
+dailymirrorlk | 1,649
 adaderanasinhalalk | 1,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,821 (100.0%) of 10,821 articles have been extended.
+10,821 (100.0%) of 10,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### සැකකරුවෙකුට පහරදී මරා දැමූ පෑලියගොඩ පොලීසියේ හිටපු නිලධාරීන් දෙදෙනෙක් පෝරකයට
+
+*2024-03-04 20:27:02* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙකුට-පහරදී-මරා-දැමූ-පෑලියගොඩ-පොලීසියේ-හිටපු-නිලධාරීන්-දෙදෙනෙක්-පෝරකයට/11-408425) · `si`
+
+සොරකම් සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් පුද්ගලයකු නීතීවීරෝධී ආකාරයෙන් රඳවා තබාගෙන කෲර ලෙස පහරදී මරා දැමීමේ චෝදනාවන්ට වරදකරුවන් වු පෑලියගොඩ පොලිසියේ අපරාධ විමර්ශන අංශයේ හිටපු නිලධාරීන් දෙදෙනෙකුට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා මරණීය දණ්ඩණය අද (04) නියම කළේය.
+
+සමස්ථ පොලිසිය කෙරෙහිම මහජන විශ්වාශය පළුඳු වන ආකාරයට විත්තිකරුවන් පිළිකුල් සහගතව කටයුතු කර ඇතැයි පෙන්වා දෙමින් විත්තිකරුවන්ට මරණීය දණ්ඩනය පැනවු විනිසුවරයා මරණීය දණ්ඩනයට අමතරව විත්තිකරුවන්ට වසර 12 බැගින් බරපතල වැඩ සහිත සිරදඬුවම් සහ රුපියල් 65000/- බැගින් දඩ නියම කළ අතර පොලිසි පහරදීමෙන් මියගිය පුද්ගලයාගේ දියණීයට රුපියල් ලක්‍ෂ 20 වන්දියක් ගෙවීමටද නියම කළේය.
+
+...
+
+[Data](articles/63ebf473.json)
+
+---
+
+### Don’t send children to schools merely to pass exams: Minister
+
+*2024-03-04 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-send-children-to-schools-merely-to-pass-exams-Minister/108-278218) · `en`
+
+Colombo, March 4 (Daily Mirror) - Children should not be sent to schools to make them merely pass exams by creating a competitive environment as the target of education is to equip children with knowledge and attitudes as well as skills, Education Minister Susil Premajayantha said.
+
+Addressing the media, he said the proposed educational reforms show the measurement of skills acquired by the child in practical activities.
+
+He made these comments while joining the national programme held today at Dharmashoka Vidyalaya, Maharagama to introduce the Activity Based Oral English (ABOE) programme to schools for children who will enter Grade 1 in 2024.
+
+◼️
+
+[Data](articles/ad184bb4.json)
+
+---
 
 ### A new legal system for a new economy
 
@@ -73,6 +103,26 @@ The event, held at the BMICH, aimed to engage young legal professionals and reco
 [Data](articles/767bb82f.json)
 
 [Extended Data](ext_articles/767bb82f.ext.json)
+
+---
+
+### ලබන වසරේත් රටේ තිබෙන්නේ වත්මන් ආණ්ඩුවමයි
+
+*2024-03-04 19:27:01* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේත්-රටේ-තිබෙන්නේ-වත්මන්-ආණ්ඩුවමයි/11-408419) · `si`
+
+ලබන වසරේත් රටේ තිබෙන්නේ වත්මන් ආණ්ඩුවම බවත් ආණ්ඩුව නැති වෙන්නේ ආණ්ඩුවේ මහජන නියෝජිතයන් ගමට නොගියොත් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මේ නිසා වසර දෙකකට පසු සංවර්ධනය සදහා ලබා දී ඇති මුදල් ගෙන ගමට ගොස් ගමේ සංවර්ධනයට සෘජුවමට දායකවන්නැයි ද ජනාධිපතිවරයා ඉල්ලා සිටී.
+
+ගම්පහ දිස්ත්‍රික්කයේ සංවර්ධන කටයුතු ද පිළිබද අද (04) ජනාධිපති ලේකම් කාර්යාලයේ පැවති රැස්වීමකට හදිසියේ සහභාගී වෙමින් ජනාධිපතිවරයා මේ බව කීවේය. රැස්වීම සංවිධානය කර තිබුණේ ඇමති ප්‍රසන්න රණතුංග මහතා විසිනි.
+
+මෙම රැස්වීම සදහා ගම්පහ දිස්ත්‍රික්කයේ පොහොට්ටුවේ, ශ්‍රී ලංකා නිදහස් පක්ෂයේ හා එක්සත් ජාතික පක්ෂයේ දිස්‍ර්තික් නායකයන් තිදෙනාම සහභාගී වීම විශේෂත්වයකි.
+
+රාජ්‍ය ඇමති ඉන්දික අනුරුද්ධ මහතා හැර ආණ්ඩුව නියෝජනය කරන හා ආණ්ඩුවට සහාය දෙන පාර්ලිමේන්තු මන්ත්‍රීවරුන් මේ සදහා සහභාගී වී සිටියහ. සිසිර ජයකොඩි, මිලාන් ජයතිලක යන මන්ත්‍රීවරු විදෙස්ගතව සිටින නිසා මෙම රැස්වීමට සහභාගීවූයේ නැත.
+
+...
+
+[Data](articles/e0f02e6d.json)
 
 ---
 
@@ -121,6 +171,24 @@ Therefore, the Ministry of Education has stated that the Ministry of Education h
 [Data](articles/c15a40d7.json)
 
 [Extended Data](ext_articles/c15a40d7.ext.json)
+
+---
+
+### පුපුරණ ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් කමාන්ඩෝ සෙබලා රඳවාගෙන ප්‍රශ්න කරයි
+
+*2024-03-04 19:02:36* · [`adalk`](https://www.ada.lk/breaking_news/පුපුරණ-ද්‍රව්‍ය සමග-අත්අඩංගුවට-ගත්-කමාන්ඩෝ-සෙබලා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-408418) · `si`
+
+මැදවච්චිය නගරයේදී අත් අඩංගුවට ගත් අධි බලැති පුපුරණත් ද්‍රව්‍ය තොගයක් බසයක රැගෙන යමින් සිටි කමාන්ඩෝ සෙබලාගෙන් පොලිසිය තුළ රදවා ප්‍රශ්න කිරීමට, මැදවච්චිය මහේත්‍රාත් අධිකරණය අද (03දා) දින           මැදවච්චිය පොලිසියට අවසර ලබා දී ඇත.
+
+ඒ අනුව 03 වෙනිදා සිට 06 වෙනිදා දක්වා දින 03 ක කාලයක් මෙම සැකකරු මැදවච්චිය පොලිස් ස්ථානයේ රදවා ප්‍රශ්න කිරීම සිදු කරන බව පොලිසිය කියයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ දෙවන කමාන්ඩෝ රෙජිමේන්තුව, තිරිමුරුත්කන්ඩිය, කිලිනොච්චිය යුද හමුදා  කදවුරේ සේවය කල  33 හැවිරිදි තරුණයෙකි.
+
+පසුගිය(02)දින සවස මැදවච්චිය පොලිස් ස්ථානාධිපති ආර්.එම්.අයි.බී රත්නායක මහතා ඇතුලු විශේෂ පොලිස් කණ්ඩායමක් යුත්තියේ මෙහෙයුමට සමගාමීව මැදවච්චිය නගරයේ හදීසි මාර්ග බාධක යොදා දුර ගමන් සේවා බස් රථ පරික්ෂාවක් සිදු කළේය.
+
+...
+
+[Data](articles/ab8b9d3c.json)
 
 ---
 
@@ -2227,91 +2295,5 @@ CEB revenues rose 55 percent to 156 billion rupees in the December quarter, cost
 [Data](articles/10254cdf.json)
 
 [Extended Data](ext_articles/10254cdf.ext.json)
-
----
-
-### Saman made a secret confession by camera in court
-
-*2024-03-04 11:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றில்-கமரா-மூலம்-இரகசிய-வாக்குமூலம்-வழங்கினார்-சமன்/175-334169) · `ta`
-
-Saman Ratnayake, arrested for importing substandard human immunoglobulin, submitted a secret affidavit in court. Detained until March 14.
-
-🟩
-
-Additional Health Secretary Saman Ratnayake, who was arrested in connection with the importation of substandard human immunoglobulin, has submitted a secret affidavit at the Magistrate's Court.
-
-He has been detained until March 14 in the case of importing substandard human immunoglobulin.
-
-◼️
-
-[Data](articles/cdbb93ac.json)
-
-[Extended Data](ext_articles/cdbb93ac.ext.json)
-
----
-
-### Ravaya Thera posts hearing to politicians
-
-*2024-03-04 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194106) · `si`
-
-Ravaya Thera criticizes politicians for focusing on their own development in Udunuwara, Matale, Matale, during the Community Green Center's opening. Professor Ranjith Bandara responds.
-
-🟩
-
-Udunuwara Chief Sangha Chairman, Matale, says that the politicians of this country are acting in the Udunuwara, Matale, Matale.
-
-He was speaking at the opening of the Community Green Center built by the Udunuwara lease basis.
-
-"They go down to the Diyawanna. Carry and arranged for their own development during the aftermath year. "
-
-Parliamentarian Professor Ranjith Bandara responded to this event.
-
-◼️
-
-[Data](articles/ef36ed25.json)
-
-[Extended Data](ext_articles/ef36ed25.ext.json)
-
----
-
-### Special Notification for Long Staying in Sri Lanka
-
-*2024-03-04 10:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-நீண்ட-காலம்-தங்கியிருப்பவர்களுக்கு-விசேட-அறிவித்தல்/175-334168) · `ta`
-
-Sri Lanka's Public Security Minister Tran Ales announced that Russians and Ukrainians must apply for a visa or leave by February 2022, as free visa facilities won't be extended. The Immigration Department issued a letter demanding their departure by March 7, 2024. Despite the ongoing conflict, direct flights and entry facilities are now available. The minister corrected a previous statement, clarifying that visas or departure are required, not a 14-day extension.
-
-🟩
-
-Public Security Minister Tran Ales yesterday said that the Russians and Ukrainians in Sri Lanka should apply for a visa or leave the country since February 2022.
-
-Minister Daily Mirror said that the free visa facilities provided to them will not be extended and that the new visas should be complied with the immigration regulations.
-
-Meanwhile, according to the Tourism Development Authority, 300 to 400 Russians and Ukrainians have been staying in Sri Lanka since February 2022.
-
-Last week, the Department of Immigration issued a letter to the Secretary of the Ministry of Tourism and demanded that the longtime Ukrainian and Russian tourists living in Sri Lanka be left by March 7.
-
-The Ukrainians and Russians have been allowed to stay in Sri Lanka without fines on expiration and outdated tourist visas based on two years of free visas since February 28, 2022, after the Russia-Ukrainian war erupted.
-
-...
-
-[Data](articles/9ec144f5.json)
-
-[Extended Data](ext_articles/9ec144f5.ext.json)
-
----
-
-### Human Immunoglobulin case - Dr. Saman Ratnayake provides in-camera statement
-
-*2024-03-04 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-Immunoglobulin-case-Dr-Saman-Ratnayake-provides-in-camera-statement/108-278193) · `en`
-
-Additional Secretary of Health Saman Ratnayake, who was arrested over the import of substandard human Immunoglobulin injections, is provding a confidential in-camera statement before the Maligakanda Magistrate's Court.
-
-He was remanded till March 14 over the import of substandard human Immunoglobulin injections case.
-
-◼️
-
-[Data](articles/179da390.json)
-
-[Extended Data](ext_articles/179da390.ext.json)
 
 ---

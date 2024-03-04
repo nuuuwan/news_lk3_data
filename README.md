@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 21:02:48**
+As of **2024-03-04 21:17:59**
 
 ## Newspaper Stats
 
-*Scraped **10,827** Articles*
+*Scraped **10,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 920
 adaderanalk | 1,320
 tamilmirrorlk | 1,322
 virakesarilk | 1,456
-dailymirrorlk | 1,650
+dailymirrorlk | 1,651
 adaderanasinhalalk | 1,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,825 (100.0%) of 10,827 articles have been extended.
+10,827 (100.0%) of 10,828 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Furthermore, the Ministry further informs the public not to visit the Ministry t
 ◼️
 
 [Data](articles/344c2427.json)
+
+[Extended Data](ext_articles/344c2427.ext.json)
 
 ---
 
@@ -72,19 +74,27 @@ The judge who decided not to be accused of the Criminal Investigation Division o
 
 ---
 
-### මියන්මාරයේ සිරකරගෙන සිටි ලාංකිකයන් 8ක් බේරා ගනියි
+### Moanmar rescuers to save eight Sri Lankans
 
 *2024-03-04 20:24:22* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සිරකරගෙන-සිටි-ලාංකිකයන්-8ක්-බේරා-ගනියි/11-408424) · `si`
 
-මියන්මාරයේ සයිබර් අපරාධ මධ්‍යස්ථානවල සිරවී සිටි ශ්‍රී ලාංකිකයන් 8ක් මියන්මාර රජයේ බලධාරීන් විසින් බේරාගෙන ඇති අතර ඔවුන් දැනට මියාවෙඩ්ඩි මධ්‍යම පොලිස් ස්ථානයේ සිටින බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of External Affairs rescued eight Sri Lankans from cyber criminal centers in Myanmar, coordinating with the Sri Lankan embassy there.
 
-ශ්‍රී ලංකා රජය විසින් දරන ලද අඛණ්ඩ උත්සාහයෙන් අනතරුව මියාවෙඩ්ඩි ප්‍ර දේශයේ සයිබර් අපරාධ මධ්‍යස්ථාන වල සිරකරගෙන සිටි ශ්‍රී ලාංකිකයන් 56 දෙනාගෙන් අට දෙනෙක් මෙසේ බේරා ගැනීමට හැකිවී ඇතැයි විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+🟩
 
-මියන්මාරයේ ශ්‍රී ලංකා තානාපති කාර්යාලය බේරාගත් ශ්‍රී ලාංකිකයන් කඩිනමින් ආපසු ගෙන්වා ගැනීමට කටයුතු කරමින් සිටින බවද විදේශ කටයුතු අමාත්‍යාංශය  පවසයි. මෙසේ රඳවාගෙන සිටි ශ්‍රී ලාංකිකයන් 56 දෙනා මියාවෙඩ්ඩි ප්‍ර දේශයේ ස්ථාන 4ක සිරගෙන කරගෙන සිටි අතර ඒ අතරින් එක් ස්ථානයක රඳවා සිටි ලාංකිකයන් 8ක් මෙසේ බේරා ගෙන තිබුණි.
+Eight Sri Lankans stuck in cyber criminal centers in Myanmar have been rescued by the Ministry of External Affairs.
 
-...
+According to the External Affairs Ministry, eight Sri Lankans have been able to rescue eight Sri Lankans situated in the cyber criminal centers in the cyber criminal centers of the Government of Sri Lanka.
+
+Ministry of External Affairs said that Sri Lankan embassy in Myanmar. The 56 Sri Lankans detained in four places in the land of Miyaddi.
+
+The Ministry of External Affairs further states that the Ministry of External Affairs is coordinated with the Sri Lankan embassy in Myanmar, the Ministry of External Affairs said.
+
+◼️
 
 [Data](articles/2c4cb482.json)
+
+[Extended Data](ext_articles/2c4cb482.ext.json)
 
 ---
 
@@ -691,6 +701,26 @@ J.R.. The President also stressed that many new laws would be introduced for the
 [Data](articles/a9a21186.json)
 
 [Extended Data](ext_articles/a9a21186.ext.json)
+
+---
+
+### Indian train drivers in crash that killed 14 were watching cricket
+
+*2024-03-04 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indian-train-drivers-in-crash-that-killed-14-were-watching-cricket/107-278215) · `en`
+
+New Delhi, Mar. 4 (AFP) - The drivers of a train that missed a signal and ploughed into another train, killing 14 people, were distracted because they were watching cricket on a phone, India's railways minister said Monday.
+
+The fatal collision in Andhra Pradesh state in October took place as hosts India played England during the one-day World Cup.
+
+"The recent case in Andhra Pradesh happened because both the loco-pilot and co-pilot were distracted by the cricket match," Minister of Railways Ashwini Vaishnaw said, the Press Trust of India news agency reported.
+
+"Now we are installing systems which can detect any such distraction and make sure that the pilots (train drivers) and the assistant pilots are fully focused on running the train."
+
+Hundreds of millions of fans in cricket-crazy India tuned in to watch the live broadcast of the World Cup match, which the hosts won.
+
+...
+
+[Data](articles/8f94d7bb.json)
 
 ---
 
@@ -2295,25 +2325,5 @@ Dissanayake said the NPP government would ensure basic needs, including the food
 [Data](articles/4949bbfb.json)
 
 [Extended Data](ext_articles/4949bbfb.ext.json)
-
----
-
-### SJB to file objections to injunction preventing suspension of Sarath Fonseka
-
-*2024-03-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97717/sjb-to-file-objections-to-injunction-preventing-suspension-of-sarath-fonseka) · `en`
-
-The Samagi Jana Balavegaya (SJB) has stated before the courts that it will file objections requesting to invalidate the injunction issued preventing the suspension of Field Marshal Sarath Fonseka’s party membership and positions held in the party, and from taking disciplinary action against him.
-
-Appearing for the Opposition Leader Sajith Premadasa, President’s Counsel Romesh de Silva communicated this to the Colombo District Court when a petition filed by SJB Chairman Field Marshal Sarath Fonseka in this regard was taken up this morning (04).
-
-Accordingly, the Colombo District Judge Sandun Withana ordered the relevant objections to be taken up for consideration this afternoon.
-
-The Colombo District Court, which considered a complaint filed by Fonsek recently, issued the relevant injunction on Leader of the SJB Sajith Premadasa, its General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and Treasurer of the party Dr. Harsha de Silva.
-
-◼️
-
-[Data](articles/189f1126.json)
-
-[Extended Data](ext_articles/189f1126.ext.json)
 
 ---

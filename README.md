@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 19:34:03**
+As of **2024-03-04 19:50:22**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,684
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,817 (100.0%) of 10,818 articles have been extended.
+10,818 (100.0%) of 10,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### බංග්ලාදේශයට දැවැන්ත ඉලක්කයක්
+### Massive target of Bangladesh
 
 *2024-03-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194127) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන පළමු 20යි 20 ජාත්‍යන්තර තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 3ක් දැවී ලකුණු 206ක් ලබාගත්තේය.
+Sri Lanka scored 206/3, with Kusal Mendis 59* and Sadeera Samarawickrama 61*; Charith 21* with 6 fours; Sadeera and bowlers added 73 for the 4th wicket.
 
-ශ්‍රී ලංකාව වෙනුවෙන් කුසල් මෙන්ඩිස් පන්දු 36කදී ලකුණු 59ක් රැස්කළ අතර සදීර සමරවික්‍රම නොදැවී ලකුණු 61ක් රැස්කළේය.
+🟩
 
-ප්‍රවේගකාරී ඉනිමක් ක්‍රීඩාකළ නායක චරිත් අසලංක පන්දු 21කදී නොදැවී ලකුණු 44යි. ඊට 6 පහර 6ක් ඇතුළත් විය.
+Sri Lanka scored 206 runs for the loss of 3 wickets for the loss of 3 wickets in their innings.
 
-සදීර සහ අසලංක පන්දු 37කදී සිව් වන කඩුල්ල සඳහා ලකුණු 73ක් එක් කළහ.
+Kusal Mendis scored 59 runs off 36 balls with 36 off 36 balls while Sadeera Samarawickrama scored 61 not out.
+
+Charith, who played a velocity innings, was not out in 21 balls. It included 6 fours.
+
+Sadeera and the bowls added 73 runs for the four fourth wicket.
 
 ◼️
 
 [Data](articles/0bc3d07f.json)
+
+[Extended Data](ext_articles/0bc3d07f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 22:51:22**
+As of **2024-03-04 23:02:58**
 
 ## Newspaper Stats
 
-*Scraped **10,843** Articles*
+*Scraped **10,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,324
 virakesarilk | 1,457
-dailymirrorlk | 1,652
+dailymirrorlk | 1,654
 adaderanasinhalalk | 1,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,843 (100.0%) of 10,843 articles have been extended.
+10,843 (100.0%) of 10,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Shanaka guides Sri Lanka to dramatic T20 win over Bangladesh
+
+*2024-03-04 22:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-guides-Sri-Lanka-to-dramatic-T20-win-over-Bangladesh/108-278232) · `en`
+
+Sylhet, Mar. 4 (AFP) - Dasun Shanaka held his nerve under pressure to take two wickets in the final over, snatching a dramatic three-run win for Sri Lanka in the opening Twenty20 international of a three-match series against Bangladesh in Sylhet on Monday.
+
+Set a target of 207 runs, lower middle-order batsman Jaker Ali took Bangladesh close with his maiden fifty before Shanaka ended his 34-ball innings of 68 with the third ball of the last over.
+
+Shoriful Islam hit a four from the next ball, leaving Bangladesh requiring six from their last two balls.
+
+But the hosts could manage only two runs to be restricted to 203-8, with Shanaka, who also dismissed Rishad Hossain in the first ball of the final over, finishing with 2-36.
+
+Former skipper Angelo Mathews claimed 2-17 to inflict some early damage on the Bangladesh innings before veteran Mahmudullah Riyad struck 54 off 31 balls to revive the hopes of the home side.
+
+...
+
+[Data](articles/d0d7cbc9.json)
+
+---
 
 ### Trump wins Colorado ballot disqualification case at US Supreme Court
 
@@ -47,6 +67,30 @@ But four of the nine justices, including the court’s three liberal members, fa
 [Data](articles/61b5f388.json)
 
 [Extended Data](ext_articles/61b5f388.ext.json)
+
+---
+
+### Google map mishap: Duo who trespassed Temple Trees granted bail
+
+*2024-03-04 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Google-map-mishap-Duo-who-trespassed-Temple-Trees-granted-bail/108-278229) · `en`
+
+Colombo, March 4 (Daily Mirror) - The Fort Magistrate granted bail to two individuals who mistakenly trespassed into the grounds of Temple Trees in Colombo after following directions on Google maps.
+
+Police said they were arrested by the Kollupitiya Police on Saturday.
+
+According to the police, the two individuals, a software engineer and a merchant seaman, were arrested following the incident.
+
+The duo had reportedly visited a nightclub in Kollupitiya and had consumed liquor before attempting to return to their lodging on Muhandiram Road, relying on Google Maps for navigation.
+
+However, the directions led them to a dead end near the perimeter wall of Temple Trees. In an attempt to find their way, they scaled the wall and inadvertently entered the Temple Trees premises.
+
+During this time, officers from the Prime Minister's Security Division arrested the two individuals and handed them over to the Kollupitiya Police.
+
+They were released on bail after being produced before court.
+
+◼️
+
+[Data](articles/3a18e989.json)
 
 ---
 
@@ -111,6 +155,8 @@ A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 468) has been increased by Rs. 
 A litre of Lanka Kerosene (Rs. 262) has been reduced by Rs. 5, and its new retail price will be Rs. 257.
 
 The selling price of a litre of Lanka Petrol 92 Octane and a litre of Lanka Auto Diesel remain as Rs. 371 and Rs. 363.
+
+The Chinese petroleum company SINOPEC announced its decision to adjust fuel prices in accordance with the CPC announcement from tonight.
 
 ◼️
 
@@ -2291,49 +2337,5 @@ The deceased is a resident of Niripola and the Hanwella Police are investigating
 [Data](articles/74e2274b.json)
 
 [Extended Data](ext_articles/74e2274b.ext.json)
-
----
-
-### Indian companies eye critical minerals mining in Sri Lanka
-
-*2024-03-04 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97721/indian-companies-eye-critical-minerals-mining-in-sri-lanka) · `en`
-
-India’s Ministry of Mines hosted two meetings with industry stakeholders in January to discuss opportunities for the mining of critical minerals by Indian companies in Sri Lanka and Australia. These meetings were organised in line with the ministry’s broader push to strengthen India’s critical minerals supply chain through the acquisition of overseas mineral assets.
-
-The ministry met with representatives from companies including Ola Electric, Hindalco Industries, and Gujarat Mineral Development Corporation to discuss the prospects of graphite mining in Sri Lanka on January 5. Three days later, it organised a luncheon meeting to explore avenues for mining opportunities in Australia, which was attended by the Indian High Commissioner-designate to Australia, Gopal Bagley, and various industry representatives from companies including Coal India, Steel Authority of India, Vedanta, Tata Steel, Adani Group, and JSW Steel.
-
-...
-
-[Data](articles/402ffe03.json)
-
-[Extended Data](ext_articles/402ffe03.ext.json)
-
----
-
-### Plans to give 100 acres to 4 acres of 100 acres from Wilpawwa?
-
-*2024-03-04 12:19:38* · [`adalk`](https://www.ada.lk/breaking_news/හදපාන්විල-විල්ලූවෙන්-අක්කර-100ක්-ප්‍රභූන්-4කට-දීමේ-සූදානමක්-/11-408408) · `si`
-
-Plans to allocate 4 acres from 100 acres in Wilpawwa to four elites were halted due to protests and opposition from economic organizations and army officials. The National Park Survey Organization and the National Park Salvation Organization (NPF) were involved. The Mahaweli Authority of Sri Lanka stated the land doesn't belong to them, but they agreed to give a few lands to wildlife after discussions.
-
-🟩
-
-The Flood National Park organizes that plans are being made to provide plans for four elites to be given to four elites, including the largest land area of the Polonnaruwa Sathpaganwila Wildlife.
-
-Eventually, it was stopped in the face of the Economic organizations and protests that had been planned to provide hundreds of acres of land and several Army high officials in the area on three previous occasions.
-
-Water Valley National Park National Park Survey Organization. Mr. Athaman said.
-
-Army and the Army High Commissioner General, the former Wildlife Assistant in the year 2019, was the former Wildlife Director General and the Wildlife Assistant in Polonnaruwa.Was able to.
-
-Wildlife Assistant Director of Wildlife Assistant with the high military officer who is ready to obtain the land in the Festival Naviya National Park, as well as the largest increasing ecosystem.
-
-Salvation of the National Park National Park The National Park Salvation Organization (NPF). Mr. Deepan said.
-
-...
-
-[Data](articles/f9fff4ab.json)
-
-[Extended Data](ext_articles/f9fff4ab.ext.json)
 
 ---

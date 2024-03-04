@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 23:52:01**
+As of **2024-03-05 00:02:52**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,854 (100.0%) of 10,856 articles have been extended.
+10,856 (100.0%) of 10,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### இன்று நள்ளிரவு முதல் எரிபொருட்களின் விலையில் மாற்றம்...
+### The price of fuels from midnight today ...
 
 *2024-03-04 23:25:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-எரிபொருட்களின்-விலையில்-மாற்றம்/175-334207) · `ta`
 
-இன்று நள்ளிரவு முதல் அமுலாகும் வகையில் எரிபொருட்களின் விலைகளில் திருத்தம் மேற்கொள்ளப்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+Ceylon Petroleum reduced Octane 95 by 9 rupees to 447 rupees and super diesel by 10 rupees to 458 rupees from midnight today. Sri Lanka IOC and Sinopac will also adjust prices to match Ciptco Fuel Company.
 
-அதன்படி, ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 9 ரூபாவால் குறைக்கப்பட்டுள்ளது. புதிய விலை 447 ரூபாய்.
+🟩
 
-சுப்பர் டீசல் லீற்றர் ஒன்றின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது.புதிய விலை 458 ரூபாய்.
+The Ceylon Petroleum Corporation said that the prices of fuels have been amended with implementation from midnight today.
 
-அத்துடன், ஒக்டேன் 92 ரக பெற்றோலின் விலை மற்றும் ஒட்டோ டீசலின் விலையில் மாற்றம் இல்லை எனவும் அறிவிக்கப்பட்டுள்ளது.
+Accordingly, the price of a liter of Octane 95 per liter has been reduced by 9 rupees. The new price is 447 rupees.
 
-இதேலேளை,  லங்கா ஐ.ஓ.சி மற்றும் சினோபெக் எரிபொருள் நிறுவனங்களும் சிபெட்கோ எரிபொருள் நிறுவனத்தின் விலைக்கு ஏற்ப எரிபொருள் விலையை குறைக்கவுள்ளதாக அறிவித்துள்ளன. R
+The price of a liter of super diesel has been reduced by 10 rupees. The new price is 458 rupees.
+
+It has also been announced that the price of the Octane 92 parents and the price of Otto Diesel.
+
+Sri Lanka IOC and Sinopac fuel companies have announced that it will reduce the price of fuel in accordance with the price of Ciptco Fuel Company.. Remble
 
 ◼️
 
 [Data](articles/ef762bbf.json)
+
+[Extended Data](ext_articles/ef762bbf.ext.json)
 
 ---
 
@@ -1597,6 +1603,8 @@ Speaking to reporters, Marikkar said a “somewhat tough” administration is ca
 ...
 
 [Data](articles/f2d6f157.json)
+
+[Extended Data](ext_articles/f2d6f157.ext.json)
 
 ---
 

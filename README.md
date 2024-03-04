@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 10:15:29**
+As of **2024-03-04 10:29:46**
 
 ## Newspaper Stats
 
-*Scraped **10,699** Articles*
+*Scraped **10,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 548
 dailyftlk | 572
 islandlk | 578
-adalk | 902
-adaderanalk | 1,304
+adalk | 903
+adaderanalk | 1,305
 tamilmirrorlk | 1,310
 virakesarilk | 1,435
 dailymirrorlk | 1,624
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,694 (100.0%) of 10,699 articles have been extended.
+10,699 (100.0%) of 10,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### Fuel price revision likely tonight?
+
+*2024-03-04 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97715/fuel-price-revision-likely-tonight-) · `en`
+
+A fuel price revision is likely to take place tonight (04), as per sources.
+
+The Ceylon Petroleum Corporation (CPC) stated that although the fuel price was slated to be revised at the end of February, the price revision will possibly take place today.
+
+The CPC amends the fuel prices monthly as per the pricing formula. Accordingly, the prices were last revised on January 31, where the prices of octane 92 petrol, octane 95 petrol, super diesel and kerosene were increased.
+
+Against this backdrop, President Ranil Wickremesinghe has issued an Extraordinary Gazette declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services with effect from 03 March 2024.
+
+...
+
+[Data](articles/f45d2a3a.json)
+
+---
 
 ### January construction activity exceeds neutral threshold
 
@@ -50,6 +68,8 @@ While, new orders increased in January compared to the previous month, responden
 
 [Data](articles/87e5802f.json)
 
+[Extended Data](ext_articles/87e5802f.ext.json)
+
 ---
 
 ### Additional Health Secretary produced before court
@@ -66,23 +86,31 @@ Meanwhile on Friday, the Additional Health Secretary stated before the courts th
 
 [Data](articles/66c4b1c0.json)
 
+[Extended Data](ext_articles/66c4b1c0.ext.json)
+
 ---
 
-### සමන් රත්නායකව අධිකරණයට රැගෙන එයි
+### Saman Ratnayake takes over court
 
 *2024-03-04 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194102) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතා මීට සුළු වේලාවකට පෙර අධිකරණය වෙත රැගෙන විත් තිබේ.
+Saman Ratnayake, Additional Secretary to the Ministry of Health, arrested by the CID on March 1st, is now in court for the humian emonelulin pharmaceutical incident.
 
-පසුගිය මාර්තු 1 වන දින ඒ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගනු ලැබිණි.
+🟩
 
-ඉන් අනතුරුව මාළිගාකන්ද අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අද දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස අධිකරණය නියෝග කළේය.
+Additional Secretary to the Ministry of Health in remand custody has been taken to court shortly before.
 
-ආන්දෝලනාත්මක හියුමන් ඉමියුනෝග්ලොබියුලින් ඖෂධ සිද්ධිය පිළිබඳ සමන් රත්නායකට චෝදනා එල්ල වී ඇත.
+He was arrested by the CID on 1 March.
+
+Subsequently, the court ordered to be remanded until he was produced before courts.
+
+Saman Ratnayake has been accused of the controversial humian emonelulin pharmaceutical incident.
 
 ◼️
 
 [Data](articles/99c18196.json)
+
+[Extended Data](ext_articles/99c18196.ext.json)
 
 ---
 
@@ -264,6 +292,8 @@ It applies to all entities, including Public Corporations, Government Department
 
 [Data](articles/7eb7a42d.json)
 
+[Extended Data](ext_articles/7eb7a42d.ext.json)
+
 ---
 
 ### Electricity, petroleum supply declared as essential services
@@ -285,6 +315,22 @@ It applies to all entities, including Public Corporations, Government Department
 [Data](articles/d5613d58.json)
 
 [Extended Data](ext_articles/d5613d58.ext.json)
+
+---
+
+### මහ බැංකු ලොක්කෝ කැබිනෙට්ටුවට කැඳවයි
+
+*2024-03-04 07:44:13* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-ලොක්කෝ-කැබිනෙට්ටුවට-කැඳවයි/11-408403) · `si`
+
+රට තුළ දරුණු ආර්ථික අර්බුදයක් පවතින අස්ථාවක කිසිඳු පාර්ශවයකට නොදන්න මහ බැංකුවේ සේවයකයන් සිය වැටුප සියයට 70කින් පමණ වැඩි කිරීමට ගත් තීරණය නිසා මතුව ඇති ගැටලුකාරී තත්ත්වය සාකච්ඡා කිරීම සඳහා අද පැවැත්විමට නියමිත කැබිනට් මණ්ඩල රැස්වීම සඳහා මහ බැංකුවේ ඉහළ නිලධාරින් කැඳවා ඇතැයි වාර්තා වෙයි.
+
+මහ බැංකු නිලධාරින් ගත් මෙම තිරණය රට තුළ මහත් ආන්දෝලනයකට ලක්වූ අතර පක්ෂ විපක්ෂ මන්ත්‍රීවරුන් මේ සම්බන්ධයෙන් දැඩි විවේචනයක් එල්ල කළේය.
+
+මීට අමතරව මේ සම්බන්ධයෙන් කරුණු විමසීම සඳහා මහ බැංකු ප්‍රධානීන් හෙට (05) දිනයේ පැවැත්වෙන පක්ෂ නායක රැස්වීමට සහ රජයේ මුදල් පිළිබඳ කාරක සභාවට කැඳවීමටද නියමිතය.
+
+◼️
+
+[Data](articles/2a224633.json)
 
 ---
 
@@ -1540,21 +1586,29 @@ In a gesture of goodwill, a meticulously compiled book showcasing the Bohra comm
 
 ---
 
-### විදුලි ගාස්තු සංශෝධනයට මණ්ඩලය නිවැරදි දත්ත දෙන්නේ නැතිලු
+### Board does not give correct data for electricity tariffs
 
 *2024-03-03 20:17:12* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනයට-මණ්ඩලය-නිවැරදි-දත්ත-දෙන්නේ-නැතිලු/11-408401) · `si`
 
-විදුලි ගාස්තු අඩු කිරීමට අදාළව විදුලිබලමණ්ඩල බලධාරීන් නිවැරදි ලෙස දත්ත ලබා නොදීම නිසා විදුලි ගාස්තු සංශෝධනයට අදාළ තීන්දුවක් ගැනීමට මහජන උපයෝගිතා කොමිසමට තවමත් නොහැකි වී තිබෙනබව එම කොමිසමේ සේවකයෝ සඳහන්කරති
+The Public Utilities Commission is unable to decide on electricity tariff revisions due to incorrect data from the Board. The Board suggests a 3.4% reduction, but the provincial council disputes this. The Commission will meet to address the issue, but negotiations with the electricity authorities have been unsuccessful.
 
-මේ සම්බන්ධයෙන් සාකච්ඡා කිරීමට අද (04දා) මහජන උපයෝගිතා කොමිසම රැස්වන බවත් කොමිෂන් සභාව විසින් සිදුකළ මහජන උපදේශනයට අනුව හා මහජන උපයෝගිතා කොමිසමේ දත්ත විශ්ලේෂණය අනුව විදුලි ගාස්තුව 25%ත් 33%ත් අතර ප්‍රමාණයකින් අඩු කළ හැකි බවද සේවකයෝපෙන්වා දෙති.
+🟩
 
-එහෙත් විදුලිබලමණ්ඩලය පළමු වරට ඉදිරිපත් කළයෝජනාවට අනුව විදුලි ගාස්තුව පොදුවේ 3.4%කින් අඩු කිරීමට යෝජනා කර තිබූ අතර, දෙවන වර විදුලිබලමණ්ඩලය විසින් 16%කින් විදුලි ගාස්තු අඩු කිරීමට යෝජනා කර තිබුණි.
+The Commission's employees have not yet been able to make a decision on the revision of electricity tariffs due to the provision of electricity tariffs.
 
-එම අදාළයෝජනා තුළ පිළිගත නොහැකි ගණනය කිරීම් ඉදිරිපත් කර තිබීම නිසා අදාළදෝෂ තත්ත්වයන් නිවැරදි කරන ලෙසට අවස්ථා දෙකකදී විදුලිබලමණ්ඩල බලධාරීන්ට දැන්වූ බවත් එහෙත් ඒ සඳහා ඊයේ (03දා) දිනය වන තෙක් ප්‍රතිචාර නොලැබුණ බවද මහජන උපයෝගිතා කොමිෂන්සභා සේවකයෝ පෙන්වා දෙති.
+Each wayalistic provides today (04), the Public Utilities Commission will meet in this regard.
+
+However, the electricity Board has proposed to reduce the electricity tariffs by 3.4% in general, and the second time telecommunication has been proposed to reduce the electricity tariffs.
+
+The provincial council employees point out that the relevant applications have been accredited in these related calculations to the Authorities to correct their applications.
+
+It is reported that if the Electricity Board is correct, it is reported that the electricity ferry prepared by the Public Counseling and Public Utilities Commission is due to be reduced by data analysis.
 
 ...
 
 [Data](articles/021c5b2a.json)
+
+[Extended Data](ext_articles/021c5b2a.ext.json)
 
 ---
 
@@ -2113,61 +2167,5 @@ The people have been instructed to follow health advice including adequate water
 [Data](articles/18bca45a.json)
 
 [Extended Data](ext_articles/18bca45a.ext.json)
-
----
-
-### STF trapped ice racket
-
-*2024-03-03 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194080) · `si`
-
-The Police Special Task Force (STF) in Sri Lanka has uncovered a significant ice drug trafficking racket, revealing nearly 5 kg of drugs hidden in chocolate and sweets. The operation, which involved interrogations and arrests, also exposed connections to powerful drug dealers in Dubai. The STF found a total of 9 kg of ice drugs, with a market value of nearly Rs.
-
-🟩
-
-A racket has been revealed that the ice drug has brought to Sri Lanka through the Katunayake airport for a long time.
-
-Investigations have revealed that the racket was revealed in the investigation of the Police Special Task Force.
-
-Nearly 5 kilograms of ice drugs have been found in the chocolate tendency to inspect a luxury car in the Kiribathgoda area.
-
-It is revealed that the racket was done on the knowledge of the most powerful drug dealers who are hiding in Dubai.
-
-In further interrogation, the STF has revealed the details of Wattala and Ganemula, which belongs to one trafficking.
-
-In addition, the STF has begun investigations into a couple who are meticulous and hidden in their luxuries in their luxuries.
-
-Accordingly, the suspect was arrested by the Special Task Force at the Katunayake Police Division.
-
-They have said that the ice drug has been brought hidden in chocolate and sweets for a long time.
-
-...
-
-[Data](articles/c4acb9fd.json)
-
-[Extended Data](ext_articles/c4acb9fd.ext.json)
-
----
-
-### O/L exam subjects to be reduced to 7: Minister
-
-*2024-03-03 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/OL-exam-subjects-to-be-reduced-to-7-Minister/108-278136) · `en`
-
-The current number of subjects for the GCE Ordinary Level (O/L) examination will be reduced to seven subjects, Education Minister Susil Premajayantha said.
-
-Addressing the media he said the remaining three subjects will be taken to evaluate the industry and environmental knowledge that can be provided to the students locally.
-
-In such a way no child fails in the O/L and in the Advanced Level (A/L) examinations, he said.
-
-He also said steps have also been taken to prepare the necessary background to get professional training in the subject areas that show the childrens preferences and skills.
-
-Out of the 3,37,000 students who sat for the A/L this year, arrangements have been made to provide training in English, IT and guidance to 50,000 students.
-
-This training programme will be held in 300 centres across the country from March 5, the minister added.
-
-◼️
-
-[Data](articles/eea6baff.json)
-
-[Extended Data](ext_articles/eea6baff.ext.json)
 
 ---

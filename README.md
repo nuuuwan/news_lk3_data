@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 22:05:00**
+As of **2024-03-04 22:17:47**
 
 ## Newspaper Stats
 
-*Scraped **10,839** Articles*
+*Scraped **10,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 921
+adalk | 923
 adaderanalk | 1,322
-tamilmirrorlk | 1,323
+tamilmirrorlk | 1,324
 virakesarilk | 1,457
 dailymirrorlk | 1,652
 adaderanasinhalalk | 1,690
@@ -26,29 +26,51 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,836 (100.0%) of 10,839 articles have been extended.
+10,839 (100.0%) of 10,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### සයිනොපෙක් ඉන්ධන මිල ගණන් නිකුත් කෙරේ
+### காதலனுக்காக சிறுமி செய்த செயல்; இறுதியில் இருவரும் கைது
+
+*2024-03-04 22:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனுக்காக-சிறுமி-செய்த-செயல்-இறுதியில்-இருவரும்-கைது/175-334206) · `ta`
+
+வாதுவை - பொஹத்தரமுல்ல கடற்கரை பகுதியில் போதைப்பொருளுடன் 17 வயது சிறுமியும் அவரது 30 வயதான காதலரும் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபரான சிறுமி ஹொரணை பிரதேசத்தில் மேலதிக வகுப்பொன்றில் கலந்து கொண்டு மீண்டும் வீடு திரும்பிய நிலையில் தனது காதலனான 30 வயது இளைஞருக்காக போதைப்பொருளை பாதுகாப்பாக தன்வசம் வைத்திருந்ததாக விசாரணையில் தெரிய வந்துள்ளது.
+
+சந்தேக நபர்கள் போதைப்பொருளுக்கு அடிமையானவர்களா என  பரிசோதிப்பதற்காக வைத்தியசாலைக்கு அனுப்பப்படவுள்ளதாகவும் பாணந்துறை நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/929de6e3.json)
+
+---
+
+### Syhopec fuel prices are issued
 
 *2024-03-04 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194133) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Syhopec fuel prices updated: Octane 95 reduced by Rs., Super diesel by Rs.10 to Rs. 458. No change in 92 Octane petrol and auto diesel. Sinaperic now offers 368 liters of fuel at Rs. 360 per liter.
 
-ඒ අනුව සයිනොපෙක් සමාගම ඔක්ටේන් 95 වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 09කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 447කි.
+🟩
 
-එසේම සුපර් ඩීසල් ලීටරයක මිල රුපියල් 10කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 458කි.
+Sinaperic has been amended by the company to operate from midnight today.
 
-මේ අතර එම සමාගම ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් සහ ඔටෝ ඩීසල් ලීටරයක මිලේ කිසිදු වෙනසක් සිදුකර නොමැත.
+Accordingly, Syhope has been reduced by a liter of octane 95 liter of petrol and its new price is Rs.
 
-සයිනොපෙක් සමාගම 92 වර්ගයේ ඉන්ධන ලීටරයක් 368ක් වන අතර සයිනොපෙක් ඔටෝ ඩීසල් ලීටරයක මිල රුපියල් 360කි.
+The price of a liter of Super diesel has been reduced by Rs.10 and its new price is Rs. 458.
+
+Meanwhile, the company has not made any changes in the price of a 92 Octane petrol and auto diesel.
+
+Sinaperic is 368 liters of fuel and the price of a litto diesel is Rs. 360.
 
 ◼️
 
 [Data](articles/beb131ee.json)
+
+[Extended Data](ext_articles/beb131ee.ext.json)
 
 ---
 
@@ -70,23 +92,35 @@ The selling price of a litre of Lanka Petrol 92 Octane and a litre of Lanka Auto
 
 [Data](articles/907d5b3a.json)
 
+[Extended Data](ext_articles/907d5b3a.ext.json)
+
 ---
 
-### පොලිස් නිලධාරීන් දෙදෙනෙක් පෝරකයට යැවූ සැකකරුගේ මරණය
+### Death of the suspect who sent two police officers to the stoma
 
 *2024-03-04 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194132) · `si`
 
-2005 වසරේ පෑලියගොඩ පොලිසිය විසින් සොරකමක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකුට පහරදී  මරණය සිදු කිරීමේ චෝදනාවලට වරදකරුවන් කෙරුණු එහි හිටපු පොලිස් නිලධාරීන් දෙදෙනකුට කොළඹ මහාධිකරණය විසින් අද (04) මරණීය දණ්ඩනය නියම කළේය.
+Two former police officers were sentenced to death in 2005 for convicting a suspect who was arrested for burning another suspect. The suspect, Abeysinghe Ranjith, was arrested for theft. The judge acquitted two other officers, citing the suspect's injuries were not from drugs but from an attack. The judge concluded the death was caused by muscle damage from the attack.
 
-අදාළ පොලීසියේ අපරාධ විමර්ශන අංශයේ සේවය කළ උප පොලිස් පරීක්ෂක චමින්ද කුමාර සහ  පොලිස් සැරයන් අනුර වීරවර්ධන යන විත්තිකරුවන්ට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා විසින්  මෙම දඬුවම් නියම කර තිබුණි.
+🟩
 
-මහජනතාව යුක්තිය පතා පැමිණෙන්නේ අධිකරණයට බවත් ඒ අනුව නීතියෙන් නියම කළ හැකි උපරිම දඬුවම් අධිකරණය විසින් විත්තිකරුවන්ට නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේය.
+Two former police officers sentenced to death in 2005 and convicted a suspect who was arrested by the Peliyagoda Police for the burning of a suspect.
 
-2005 වසරේ ජූලි මස 13 වනදා හෝ ඊට ආසන්න දිනයක  රැහැන් රහිත දුරකථනයක් සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් අබේසිංහ නොහොත් රංජිත් නැමැති සැකකරුවෙකුට පොලිස් ස්ථානය තුළදී විකට් පොලුවලින් පහරදී මරණය සිදු කිරීම ඇතුළු චෝදනා යටතේ නීතිපතිවරයා විසින් එහි සේවය කළ පොලිස් නිලධාරීන් හතර දෙනකුට එරෙහිව නඩු පවරා තිබුණි.
+The punishment was sentenced to the defendants of the police Inspector Chaminda Kumara and Police Sergeant Anura Weerawardena.
+
+The judge states that the public will come to the court and the judiciary may be ordered by the law.
+
+Abeysinghe Ranjith, who was arrested in connection with theft of a wireless phone on July 13, 2005, had sued four police officers.
+
+However, the Chief Inspector of Police (Chief Inspector), who was charged with the incident, is a Chief Inspector of Police. The judge ordered the acquitting and release of the allegations against the two officers of Dasanayake and Sergeant Mohammed Abhist.
+
+Expressing the verdict, the judge said that the suspect had arrested the suspect in connection with an incident of stealing a bi-free phone.
 
 ...
 
 [Data](articles/da29b037.json)
+
+[Extended Data](ext_articles/da29b037.ext.json)
 
 ---
 
@@ -104,11 +138,27 @@ However, the prices of Petrol 92 Octane and Auto Diesel will remain unchanged, t
 
 Meanwhile Lanka IOC says they too will revise retail fuel prices to match the CPC.
 
+Meanwhile Lanka IOC and Sinopec say they too will revise retail fuel prices in line with the Ceypetco prices.
+
 ◼️
 
 [Data](articles/44aefebc.json)
 
 [Extended Data](ext_articles/44aefebc.ext.json)
+
+---
+
+### පළමු තරගයෙන් ලංකාවට ලකුණු තුනක තියුණු ජයක්
+
+*2024-03-04 21:24:07* · [`adalk`](https://www.ada.lk/sports/පළමු-තරගයෙන්-ලංකාවට-ලකුණු-තුනක-තියුණු-ජයක්/9-408429) · `si`
+
+සත්කාරක බංග්ලාදේශ කණ්ඩායම පරාජය කරමින් දෙරට අතර පැවැති පළමු විස්සයි20 තරගයෙන් ලකුණු 3ක තියුණු ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණ ු206ක් රැස් කිරීමට සමත්විය. පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශ කණ්ඩායම ලකුණු 203ක් රැස් කිරීමට සමත්විය.
+
+◼️
+
+[Data](articles/22bd126b.json)
 
 ---
 
@@ -383,6 +433,22 @@ The event, held at the BMICH, aimed to engage young legal professionals and reco
 [Data](articles/767bb82f.json)
 
 [Extended Data](ext_articles/767bb82f.ext.json)
+
+---
+
+### විභාග සමත් කරවීමේ අරමුණින් පමණක් දරුවන් පාසල් යවන්න එපා
+
+*2024-03-04 19:45:53* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-සමත්-කරවීමේ-අරමුණින්-පමණක්-දරුවන්-පාසල්-යවන්න-එපා/11-408420) · `si`
+
+දරුවන් දැනුමෙන් ආකල්පවලින් මෙන්ම කුසලතාවන්ගෙන් සන්නද්ධ කරවීම අධ්‍යාපනයේ පරමාර්ථ බවත් තරගකාරී පසුබිමක් ගොඩනගා ගනිමින් විභාගවලින් දරුවන් සමත් කරවීම පිණිස පාසල් යැවීම නොකළ යුතු බවත් යෝජිත අධ්‍යාපන ප‍්‍රතිසංස්කරණ තුළින් අවධාරණය කරනු ලබන්නේ ප‍්‍රායෝගික ක‍්‍රියාකාරකම් සඳහා දරුවා අත්පත් කරගන්නා කුසලතා මැන බැලීම බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් පේ‍්‍රමජයන්ත මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ අදහස් පළ කළේ  2024 වර්ෂයේ පළමු ශ්‍රේණියට පිවිසෙන දරුවන් වෙනුවෙන් ක‍්‍රියාකාරකම් පාදක වාචික ඉංග‍්‍රීසි (ABOE - Activity Based Oral English) වැඩසටහන පාසල් වෙත හඳුන්වාදීම පිණිස මහරගම ධර්මාශෝක විද්‍යාලයේ අද (04) පැවති ජාතික වැඩසටහනට එක්වෙමිනි.
+
+දිවයිනේ සියලූ‍ පාසල්වල පළමුවන සහ දෙවන ශේණියේ සිසු දරුවන් තුළ ඉංග‍්‍රීසි කථන සහ සවන් දීමේ කුසලතා ඇති කිරීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් ක‍්‍රියාකාරකම් පාදක වාචික ඉංග‍්‍රීසි වැඩසටහන හඳුන්වා දී ඇති අතර මේ වසරේ පළමු ශ්‍රේණියට පිවිසෙන දරුවන්ට එම වැඩසටහන හඳුන්වාදීම සෑම  ම පාසල් තුළ අද පැවැත්විණි.
+
+...
+
+[Data](articles/ce9c4d1d.json)
 
 ---
 
@@ -2249,71 +2315,5 @@ This matter is to be taken up for objections at 1.30 pm today.
 [Data](articles/2e1cb391.json)
 
 [Extended Data](ext_articles/2e1cb391.ext.json)
-
----
-
-### Principal arrested over alleged sexual assault of woman inside school
-
-*2024-03-04 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97720/principal-arrested-over-alleged-sexual-assault-of-woman-inside-school) · `en`
-
-A principal of a school in Monaragala has been arrested over an alleged incident of attempting to sexually assault a woman inside the school premises.
-
-The arrest has been carried out by Dombagahawela Police last night (03).
-
-It was reported that the suspected school principal had tried to sexually assault a woman who was working in the school canteen.
-
-The arrested person will be produced before Monaragala Magistrate’s Court today (04).
-
-◼️
-
-[Data](articles/2e029b3b.json)
-
-[Extended Data](ext_articles/2e029b3b.ext.json)
-
----
-
-### Funds have not yet been received to rescue the excavation work of the Kokkuttuwai Human Buries;Adjudicated the case again
-
-*2024-03-04 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177857) · `ta`
-
-The Kokkuttuwai Human Buries excavation in Mullaitivu district, discovered on 29.06.2023, faced delays due to unreceived funds. The case was postponed to April 4, with the first phase starting on 06.09.2023, recovering 17 trunks over eleven days. The second phase, from 20.11.2023, recovered 40 skeletal blocks over nine days before suspension. Scans revealed bodies two meters west of the burial cavity. A third phase is scheduled for March.
-
-🟩
-
-The case of the human burial excavation, which was discovered on 29.06.2023 in the Kokkuttuwai area of the Mullaitivu district, was held at the Mullaitivu Magistrate's Court on Monday (04).
-
-Mullaitivu District Legal Medical Officer Kanagasabapathi Vasudeva. Niranjan, Ganeswaran, Tananjayan and Rujika were present.
-
-The case has been postponed to April 4, as it has been reported that the excavation work of the case has not been received as planned.
-
-The first phase of the human burial ground in the Kokkuttuwai area of the Mullaitivu district began on 06.09.2023 and held eleven days after the recovery of 17 trunks.
-
-The second phase of the excavation began on 20.11.2023 and 40 skeletal blocks were recovered for nine consecutive days and the second phase was suspended.
-
-In addition, the scan examination carried out in the last days of the excavation process has found that the bodies are found to be two meters long to the west side of the human burial cavity.
-
-...
-
-[Data](articles/816678c6.json)
-
-[Extended Data](ext_articles/816678c6.ext.json)
-
----
-
-### One killed in shooting in Hanwella
-
-*2024-03-04 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97719/one-killed-in-shooting-in-hanwella) · `en`
-
-A person has been killed while another was critically injured in a shooting incident that took place in the Niripola area of Hanwella a short while ago, the police said.
-
-The unidentified gunmen had opened fire at a double-cab in which the brother of notorious underworld criminal figure “Manna Roshan” and one of his close associates were travelling in.
-
-The two individuals who sustained critical gunshot injuries had been rushed to hospital where one of them was pronounced dead upon admission to the hospital.
-
-◼️
-
-[Data](articles/2dbb54bb.json)
-
-[Extended Data](ext_articles/2dbb54bb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 21:17:59**
+As of **2024-03-04 21:33:14**
 
 ## Newspaper Stats
 
-*Scraped **10,828** Articles*
+*Scraped **10,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 920
+adalk | 921
 adaderanalk | 1,320
-tamilmirrorlk | 1,322
+tamilmirrorlk | 1,323
 virakesarilk | 1,456
 dailymirrorlk | 1,651
-adaderanasinhalalk | 1,685
+adaderanasinhalalk | 1,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,827 (100.0%) of 10,828 articles have been extended.
+10,828 (100.0%) of 10,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### ඉන්ධන මිල වෙනස්වෙන්නේ මෙහෙමයි
+
+*2024-03-04 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194131) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව විසින් අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/2e129408.json)
+
+---
+
+### පළමු විස්සයි විස්සේ ජය ශ්‍රී ලංකාවට
+
+*2024-03-04 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194130) · `si`
+
+බංග්ලාදේශයට එරෙහි පළමු විස්සයි විස්ස තරගයෙන් ලකුණු 3ක තියුණු ජයක් ලබාගැනීමට ශ්‍රී ලංකාව කණ්ඩායම සමත්විය.
+
+එහිදී අවසන් පන්දුවාරයේදී ශ්‍රී ලංකාවට අවශ්‍යම වූ කඩුලු දෙකක් ලබාගනිමින් ප්‍රවේගකාරී පිතිකරණයක නියැලුණු බංග්ලාදේශ පිතිකරුවන් පාලනය කිරීමට දසුන් ශානක සමත්විය.
+
+◼️
+
+[Data](articles/7931417d.json)
+
+---
+
+### பேராதனைப் பல்கலைக்கழக மாணவன் உயிரிழப்பு
+
+*2024-03-04 21:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராதனைப்-பல்கலைக்கழக-மாணவன்-உயிரிழப்பு/175-334193) · `ta`
+
+மகாவலி கங்கையில் மூழ்கிய நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த பேராதனைப் பல்கலைகழக மாணவன்  உயிரிழந்துள்ளார்.
+
+இவ்வாறு உயிரிழந்தவர் பேராதனைப் பல்கலைகழகத்தில் வைத்திய பிரிவில் கல்வி கற்கும் இசுரு மதுஷான் என்பவராவார்.
+
+இவர் கடந்த பெப்ரவரி மாதம் 23ஆம் திகதி மருத்துவப் பயிற்சிகளுக்காக நாவலப்பிட்டி போதனா வைத்தியசாலைக்கு சென்று கொண்டிருந்த போது மகாவலி கங்கைக்கு அருகில் உள்ள கல்பொத்தவல பகுதியில் நீராடச் சென்றுள்ளார்.
+
+இதன்போது, இவர் நீரில் அடித்துச் செல்லப்பட்டுள்ள நிலையில் பிரதேசவாசிகளால் மீட்கப்பட்டு நாவலப்பிட்டி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பல நாட்களாக வைத்தியசாலையின் தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வந்த இவர் இன்று (4) உயிரிழந்துள்ளார். R
+
+◼️
+
+[Data](articles/88a4fa66.json)
+
+---
 
 ### Foward 2024 intermediate class admission applications to schools
 
@@ -47,6 +93,54 @@ Furthermore, the Ministry further informs the public not to visit the Ministry t
 [Data](articles/344c2427.json)
 
 [Extended Data](ext_articles/344c2427.ext.json)
+
+---
+
+### විදුලි ගාස්තු අඩු කරයි
+
+*2024-03-04 20:39:20* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩු-කරයි/11-408427) · `si`
+
+අද (04දා) මධ්‍යම රාත්‍රී 12.00 සිට  විදුලි ගාස්තුව පොදුවේ 21.9 % කින් අඩු කළ බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කරයි.
+
+මේ අනුව ඒකක 30 අඩු කාණ්ඩයේ විදුලි එකකයක මිල  33 % කින් අඩු වී තිබේ. එනම්  ඒකකයට රුපියල් 12 ක් අය කළ ගාස්තුව  අද සිට රුපියල් 8 ක් දක්වා අඩු කර ඇත.
+
+එම කාණ්ඩයේ මාසික ගාස්තුව රුපියල් 180 සිට රුපියල් 150 දක්වා අඩු කර තිබෙන අතර ඒකක 31- 60  අතර  කාණ්ඩයේ විදුලි ගාස්තුව 28 % කින් පහළ දමා ඇත.
+
+එම කාණ්ඩයේ විදුලි එකකයක මිල රුපියල් 30 සිට 20 දක්වා අඩු වී තිබෙන අතර, මාසික ගාස්තුව රුපියල් 360 සිට රුපියල් 300 දක්වා අඩු කර තිබේ.
+
+ඒකක 61 -90  අතර කාණ්ඩයේ විදුලි ගාස්තුව 30 % කින් පහළ දමා තිබේ.  ඒකකයකට අය කළ රුපියල් 41 ක ගාස්තුව රුපියල් 30 දක්වා අඩු වී මාසික ගාස්තුව රුපියල් 480 සිට රුපියල් 400 දක්වා අඩු වී ඇත.
+
+ඒකක 91 -180 අතර විදුලි ගාස්තුව 24 % කින් අඩු කර තිබෙන අතර,  එම කාණ්ඩය යටතේ රුපියල් 59 ක් අය කළ විදුලි ඒකකයක මිල රුපියල් 50 දක්වා අඩු කර තිබේ. මාසික ගාස්තුව රුපියල් 1180 සිට රුපියල් 1000 දක්වා අඩු කර ඇත.
+
+...
+
+[Data](articles/1c5d4214.json)
+
+---
+
+### අතුරුදන්ව සිට සොයාගත් දැරියගෙන් හෙළිදරව්වක්
+
+*2024-03-04 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194129) · `si`
+
+මාස තුනක් තිස්සේ අතුරුදන්ව සිටි දිවුලපිටිය කෝංගඩමුල්ල ප්‍රදේශයේ 17 හැවිරිදි දැරියක් බඩල්ගම පොලිසිය විසින් අද කටුනායකින් සොයාගනු ලැබීය.
+
+ඇය පොලීසියට පවසා ඇත්තේ තම මව විසින් තමාව විදේශිකයෙකුට බලහත්කාරයෙන් විවාහ කරදීමට දැරූ උත්සාහයක් නිසා තමන් නිවස හැර ගොස් සැඟව ජීවත් වූ බවය.
+
+දිවුලපිටිය කෝංගඩමුල්ල ප්‍රදේශයේ වයස අවුරුදු 17ක දැරියක් පසුගිය වසරේ දෙසැම්බර් මස සිට අතුරුදන් බවට එම දැරියගේ මව බඩල්ගම පොලිසියට පැමිණිල්ලක් කර තිබුණි.
+
+ඊට අනුව ක්‍රියාත්මක වූ පොලිසිය දැරිය සොයා මෙහෙයුම් ක්‍රියාත්මක කළේය.
+
+දැරිය කටුනායක අමන්දලුව ප්‍රදේශයේ සිටින බවට පොලිසියට තොරතුරක් ලැබී ඇත්තේ ඒ අතරතුරදීය.
+
+ඒ අනුව ක්‍රියාත්මක වූ පොලිසිය අමන්දලුව ප්‍රදේශයට අද ගොස් ඇයව සිය භාරයට ගත්තේය.
+
+වැඩිදුර පරීක්ෂණ සඳහා බඩල්ගම පොලිස් ස්ථානයට රැගෙන ආ දැරිය සිය නිවසින් පැනයාමට හේතුව ස්ථානාධිපතිවරයාට ප්‍රකාශ කළාය.
+
+මාස තුනක කාලයක් ඇය විටින් විට රැඳී සිටි ස්ථාන පිළිබඳත් ඇය පොලිසියට කරුණු සඳහන් කළාය.
+
+◼️
+
+[Data](articles/e39f0981.json)
 
 ---
 
@@ -721,6 +815,8 @@ Hundreds of millions of fans in cricket-crazy India tuned in to watch the live b
 ...
 
 [Data](articles/8f94d7bb.json)
+
+[Extended Data](ext_articles/8f94d7bb.ext.json)
 
 ---
 
@@ -2183,147 +2279,5 @@ Damage roads, floods and landslides in Baleshistan have been cut off between maj
 [Data](articles/bd963b0c.json)
 
 [Extended Data](ext_articles/bd963b0c.ext.json)
-
----
-
-### Principal arrested for abusing a woman
-
-*2024-03-04 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194107) · `si`
-
-A principal in Moneragala was arrested for abusing a woman at the school's cafeteria. The Dowgahawela Police made the arrest, and the suspect will appear in court today.
-
-🟩
-
-A principal of a school in Moneragala has been arrested for charges of abuse.
-
-The suspect was arrested by the Dowgahawela Police yesterday (03).
-
-The suspect Principal has attempted to abuse a woman who was working at the school's cafeteria.
-
-The suspects are to be produced before the Moneragala Magazuta Magistrate's Court today (04).
-
-◼️
-
-[Data](articles/17c528d5.json)
-
-[Extended Data](ext_articles/17c528d5.ext.json)
-
----
-
-### Latest Course with the University of the famous
-
-*2024-03-04 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194108) · `si`
-
-Taylor Swift, a renowned American singer and songwriter, has inspired a specialized course at a leading Philippine university, "Celibrate Stedies - Taylor Swift In Fokest," focusing on her impact. Over 300 scholars are involved, highlighting her significance in 2023.
-
-🟩
-
-An American songwriter, as well as a famous singer, is a well-known character among young people.
-
-Because of her talents and talents, she was owned by a wide range of special awards.
-
-Taylor Swift has begun a tour of the Asian region, and as well as the young people in the Philippines, the young body is interested in her information.
-
-Due to this, a leading university in the Philippines has worked to introduce a new specialized course for Taylor Swift and the impact of her.
-
-The course is named, "Celibrate Stedies - named Taylor Swift In Fokest.
-
-Accordingly, university students need to study the publication of Taylor Swift and the impact on the subject of Taylor Swift through this subject.
-
-Over 300 scholars have been involved in connection with this study.
-
-Taylor Swift is also one of the many musical treasures in 2023 in the world.
-
-The Times also named her as the individual for 2023.
-
-According to the Forbes magazine, Taylor is among the world's most powerful women.
-
-...
-
-[Data](articles/3aecbfad.json)
-
-[Extended Data](ext_articles/3aecbfad.ext.json)
-
----
-
-### "Coconut expensive will be severely affected"
-
-*2024-03-04 11:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலையுயர்வால்-கடுமையான-பாதிப்பு-ஏற்படும்/175-334173) · `ta`
-
-"Coconut prices doubling, severely impacting food packs, curry, and snacks. Rukshan Harshana warns of rising coconut oil prices."
-
-🟩
-
-Most of the coconut milk is made of coconut milk, and the rise in the price of coconuts will have a severe impact on the future of the food pack and curry, the food sector unions said.
-
-Rukshan Harshana, president of the All Ceylon Resources Owners Association, told the media yesterday that the usual price of coconuts from 60 to 80 has doubled.A coconut is currently sold for Rs.120 to 150.
-
-He said that snacks and restaurant owners are in great difficulty without being able to prepare rice and curry packets under the increased coconut prices and are in the uncertainty to sell food packages at higher prices.
-
-Coconuts have an unexpected rise in rice, including rice, chicken, eggs and gas.
-
-Harshana has warned that the price of coconut oil will rise in the coming days due to the sudden increase in coconuts.
-
-◼️
-
-[Data](articles/0018f16d.json)
-
-[Extended Data](ext_articles/0018f16d.ext.json)
-
----
-
-### Live mandraid near the Israelite girl who visited Sri Lanka
-
-*2024-03-04 11:21:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-යන්න-ගිය-ඊශ්‍රායෙල්-තරුණිය-ළඟ-සජීවි-පතොරමක්/11-408406) · `si`
-
-A live mandrake was found near an Israeli girl at Katunayake Airport in Sri Lanka. She was returning from Israel and was scheduled to leave for Dubai. The discovery was made during a SCAN Test by airport security. The girl handed over the item to the Katunayake airport police, who are investigating.
-
-🟩
-
-Katunayake Airport security officers have been found to the Airport spread of 5.56 mm on the luggage of a national girl who was returning to Sri Lanka to return to Sri Lanka.
-
-She is a young man who served in Israel's Israeli Army. She had arrived in Sri Lanka with her friend.
-
-She is scheduled to leave for Dubai at 01.55 am on 24th March 03.55.
-
-The live spread has been found in the examination of the luggage, airport security officers (SCAN Test) by the Airport Security Officer of Defense.
-
-Later, the girl had subsequently handed over the Katunayake airport police with this demonstration.
-
-The OIC of the Katunayake Airport Police is due to be produced before the Negombo Magistrate's Court on the leading her husband.
-
-◼️
-
-[Data](articles/3e8a4820.json)
-
-[Extended Data](ext_articles/3e8a4820.ext.json)
-
----
-
-### “We have plans to increase state income”
-
-*2024-03-04 11:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வருவாயை-அதிகரிக்க-எம்மிடம்-திட்டங்கள்-உள்ளன/175-334172) · `ta`
-
-NPP leader Anuragumara Dissanayake plans to boost state income through Customs, Liquor Dept., and IRT by enhancing skills and technology. He also aims to revive the economy with gemstones, tea, tourism, and agriculture, ensuring basic needs like food, education, and health.
-
-🟩
-
-NPP leader Anuragumara Dissanayake said he was planning to increase state revenue and said that he had discussed with the Department of Home Affairs today on the way to increase state income.
-
-Speaking at the Ratnapura District Women's Conference, she said that the state income could be increased through the Customs Department and the Department of Liquor.
-
-He said that if IRT employees increase the skills of the IRT employees and improve the technology, the revenue of the Internal Revenue Department could be doubled.
-
-“We can get the money. We have discussed with the Department of Internal Lord. There are some changes to the laws, staff and technology used in the department.
-
-If employees increase the performance of the. The revenue from the IRT, Customs and Liquor Department can be increased.
-
-Dissanayake said the NPP government would ensure basic needs, including the food, education and health needs of the people.
-
-...
-
-[Data](articles/4949bbfb.json)
-
-[Extended Data](ext_articles/4949bbfb.ext.json)
 
 ---

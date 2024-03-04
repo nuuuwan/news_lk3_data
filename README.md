@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 20:02:59**
+As of **2024-03-04 20:17:37**
 
 ## Newspaper Stats
 
-*Scraped **10,818** Articles*
+*Scraped **10,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 915
+adalk | 916
 adaderanalk | 1,320
 tamilmirrorlk | 1,322
 virakesarilk | 1,456
-dailymirrorlk | 1,647
-adaderanasinhalalk | 1,684
+dailymirrorlk | 1,648
+adaderanasinhalalk | 1,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,818 (100.0%) of 10,818 articles have been extended.
+10,818 (100.0%) of 10,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### නව ආර්ථිකයක් වෙනුවෙන් නව නීති පද්ධතියක්
+
+*2024-03-04 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194128) · `si`
+
+රට දියුණු කළ හැකි නව ආර්ථිකයක් වෙනුවෙන් නව නීති පද්ධතියක් සකස්කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒ සඳහා යම් කාලයක් ගතවුවත් කිසි ලෙසකින් මහ මැතිවරණය කල් නොදමන බව ජනාධිපතිවරයා අවධාරණය කරයි.
+
+කොළඹ පැවති සම්මන්ත්‍රණයකට එක්වෙමින් ජනාධිපතිවරයා සඳහන් කළේ නීතියට මුවාවී රට අරාජික කිරීමට කිසිවකුටත් ඉඩ නොදෙන බවය.
+
+නීති ප්‍රතිසංස්කරණ පිළිබඳව “වට්ස් නිව්” තරුණ නීති වෘත්තිකයන් සංවිධාන කළ කතිතාවක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ පැවැත්වුණි.
+
+...
+
+[Data](articles/e916e144.json)
+
+---
+
+### Parliament has passed 42 new laws within 14 months: President
+
+*2024-03-04 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-has-passed-42-new-laws-within-14-months-President/108-278217) · `en`
+
+Colombo, March 4 (PMD) - President Ranil Wickremesinghe announced that Parliament has passed 42 new laws during the past 14 months, aimed at facilitating the economic transformation of the country, the Presidential Media Division (PMD) said.
+
+He emphasized the importance of passing an additional 62 laws to further this transformation, indicating that if not achieved in the current session, they will be reintroduced in subsequent sessions.
+
+These statements were made during his keynote address at the "What's New" dialogue on Legal Reforms, a project initiated by the Presidential Secretariat under his guidance.
+
+The event, held at the BMICH, aimed to engage young legal professionals and recognize the significance of their perspectives in shaping new legal reforms.
+
+◼️
+
+[Data](articles/767bb82f.json)
+
+---
 
 ### Massive target of Bangladesh
 
@@ -77,6 +113,24 @@ Therefore, the Ministry of Education has stated that the Ministry of Education h
 [Data](articles/c15a40d7.json)
 
 [Extended Data](ext_articles/c15a40d7.ext.json)
+
+---
+
+### කෝටි 20ක ස්වර්ණාභරණ කටුනායකින් පන්නන්නගිය සේවකයාට වැඩ වරදියි
+
+*2024-03-04 18:42:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-20ක-ස්වර්ණාභරණ-කටුනායකින්-පන්නන්නගිය-සේවකයාට-වැඩ-වරදියි/11-408417) · `si`
+
+රුපියල් කෝටි 20 ක් පමණ වටිනා කිලෝ ග්‍රෑම් 09 ක් බර ස්වර්ණාභරණ තොගයක් කටුනායක ගුවන් තොටුපොළෙන් පිට කිරීමට තැත් කළ ගුවන් තොටුපොළ සේවකයෙකු 03/04 දින පෙරවරුවේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු කළක් තිස්සේ තවත් ගුවන් තොටුපොළ සේවකයින් පිරිසක් සමග එක්ව මෙම ජාවාරම කර ගෙන ගොස් ඇති බව රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් සිදු කළ මූලික විමර්ශන වලදී අනාවරණය කර ගෙන තිබේ .
+
+මෙම ගුවන් තොටුපොළ සේවකයා කටුනායක ගුවන් තොටුපොළ පර්යන්ත සුපරීක්ෂකවරයාගේ කාර්යාලයේ සේවයේ නිරත සුළු සේවකයෙකු වන අතර ඔහු අද දින සිය සේවා මුරය නොමැති අවස්ථාවක ගුවන් තොටුපොළ වෙත පිවිස මෙම නීතිවිරෝධී ලෙස මෙම ස්වර්ණාභරණ තොගය පිට කිරීම සිදු කර තිබේ .
+
+ඔහු මෙම ස්වර්ණාභරණ තොගය අඩංගු පාර්සලය ගුවන් තොටුපොළ පිටත්වීමේ පර්යන්තයේ වාහන නැවතුම් ස්ථානය අසළ දී පිට කිරීමට රැගෙන යමින් සිටියදී 03/04 දින උදෑසන 08.15 ට පමණ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+...
+
+[Data](articles/05fb1248.json)
 
 ---
 
@@ -2241,85 +2295,5 @@ He was remanded till March 14 over the import of substandard human Immunoglobuli
 [Data](articles/179da390.json)
 
 [Extended Data](ext_articles/179da390.ext.json)
-
----
-
-### The horrific accident in Dambulla who sent foreign family to the hospital
-
-*2024-03-04 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194105) · `si`
-
-A horrific accident on the Dambulla-Habarana road involved a bus from Trincomalee to Colombo and a car carrying a French family. The car's driver and son were hospitalized. The bus, traveling at high speed, caused a traffic jam and stopped across the road. A nearby market and shop were damaged. The bus driver surrendered to police, and several passengers were injured.
-
-🟩
-
-A bus and a car collided at the Dambulla - Habarana main road in the Habarana main road.
-
-The French national, a father and boy, who was traveling in the car, was admitted to the Dambulla hospital.
-
-The accident was a private bus traveling from Trincomalee to Colombo and a foreigners carrying foreigners from Dambulla and Sigiriya.
-
-The bus has traveled heavy rapidly, and the number of accidents that the accident had occurred in the car.
-
-Due to the accident, traffic was interrupted and the bus stopped across the road.
-
-A small market was severely damaged by a small shop near the car.
-
-The driver of the bus has surrendered to the police and several passengers on the bus had also been injured.
-
-◼️
-
-[Data](articles/6a3cd14d.json)
-
-[Extended Data](ext_articles/6a3cd14d.ext.json)
-
----
-
-### Electricity and Fuels declare as essential services
-
-*2024-03-04 10:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-மற்றும்-எரிபொருட்கள்-அத்தியாவசிய-சேவைகளாக-பிரகடனம்/175-334167) · `ta`
-
-Electricity and petroleum services declared essential. President Saman Ekanayake, under President Ranil Wickremesinghe, issued a declaration. These services are crucial for social life, affecting corporations, public companies, government departments, and cooperative societies involved in electricity, petroleum distribution, or fuel supply.
-
-🟩
-
-All measures relating to the distribution of electricity and petroleum products have been declared as essential services.
-
-Accordingly, all services connected to electricity and petroleum products and fuel supply or distribution are considered essential services.
-
-The announcement issued by the President of the President Saman Ekanayake at the behest of President Ranil Wickremesinghe is referred to as essential public services.
-
-The gazette underlines the important character of these services, emphasizing their essential role in maintaining social life.
-
-The same applies to all corporations, including public companies, government departments, local bodies and cooperative societies involved in electricity, petroleum distribution or fuel supply.
-
-◼️
-
-[Data](articles/d21ffc08.json)
-
-[Extended Data](ext_articles/d21ffc08.ext.json)
-
----
-
-### Protests against Fonseka's injunction
-
-*2024-03-04 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194104) · `si`
-
-Protests against Fonseka's injunction in Colombo District Court. Sarath Fonseka, Samagi Power Field Marshal, faces suspension or disciplinary action. Attorney Romesh de Silva represents Fonseka. Court ordered injunction this afternoon.
-
-🟩
-
-The respouty community in the Colombo District Court today (04) stated that the Chairman of the Samagi Power Fhelrd Marshal Sarath Fonseka, the party membership issued by the party membership, suspended or disciplinary action, said in the Colombo District Court.
-
-Attorney-at-Law Romesh de Silva, who appeared on behalf of the leader of the Sarath Fonseka, was held on behalf of the leader of the Sarath Fonseka.
-
-Accordingly, the court was ordered by the courts this afternoon.
-
-The Weli-Madduada of the Colombo District Court has issued the injunction ordered orders from the Colombo District Court recently.
-
-◼️
-
-[Data](articles/104362b7.json)
-
-[Extended Data](ext_articles/104362b7.ext.json)
 
 ---

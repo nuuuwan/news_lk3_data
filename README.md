@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 11:12:04**
+As of **2024-03-04 11:33:02**
 
 ## Newspaper Stats
 
-*Scraped **10,704** Articles*
+*Scraped **10,707** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 104
-bbccomsinhala | 127
+bbccomsinhala | 128
 dbsjeyarajcom | 172
 newsfirstlk | 363
 economynextcom | 548
 dailyftlk | 572
 islandlk | 578
-adalk | 903
-adaderanalk | 1,306
+adalk | 904
+adaderanalk | 1,307
 tamilmirrorlk | 1,312
 virakesarilk | 1,435
 dailymirrorlk | 1,624
@@ -26,29 +26,53 @@ adaderanasinhalalk | 1,660
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,701 (100.0%) of 10,704 articles have been extended.
+10,704 (100.0%) of 10,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
 
-### மின்சாரம் மற்றும் எரிபொருட்கள் அத்தியாவசிய சேவைகளாக பிரகடனம்
+### SJB files objections to injunction preventing suspension of Sarath Fonseka
+
+*2024-03-04 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97717/sjb-files-objections-to-injunction-preventing-suspension-of-sarath-fonseka) · `en`
+
+The Samagi Jana Balavegaya (SJB) has stated before the courts that it will file objections requesting to invalidate the injunction issued preventing the suspension of Field Marshal Sarath Fonseka’s party membership and positions held in the party, and from taking disciplinary action against him.
+
+Appearing for the Opposition Leader Sajith Premadasa, President’s Counsel Romesh de Silva communicated this to the Colombo District Court when a petition filed by SJB Chairman Field Marshal Sarath Fonseka in this regard was taken up this morning (04).
+
+Accordingly, the Colombo District Judge Sandun Withana ordered the relevant objections to be taken up for consideration this afternoon.
+
+The Colombo District Court, which considered a complaint filed by Fonsek recently, issued the relevant injunction on Leader of the SJB Sajith Premadasa, its General Secretary Ranjith Madduma Bandara, National Organiser Tissa Attanayake and Treasurer of the party Dr. Harsha de Silva.
+
+◼️
+
+[Data](articles/4230ea63.json)
+
+---
+
+### Electricity and Fuels declare as essential services
 
 *2024-03-04 10:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-மற்றும்-எரிபொருட்கள்-அத்தியாவசிய-சேவைகளாக-பிரகடனம்/175-334167) · `ta`
 
-மின்சாரம் மற்றும் பெற்றோலிய பொருட்கள் விநியோகம் தொடர்பான அனைத்து நடவடிக்கைகளும் அத்தியாவசிய சேவைகளாக வர்த்தமானி மூலம் பிரகடனப்படுத்தப்பட்டுள்ளது.
+Electricity and petroleum services declared essential. President Saman Ekanayake, under President Ranil Wickremesinghe, issued a declaration. These services are crucial for social life, affecting corporations, public companies, government departments, and cooperative societies involved in electricity, petroleum distribution, or fuel supply.
 
-அதன்படி, மின்சாரம் மற்றும் பெட்ரோலிய பொருட்கள் மற்றும் எரிபொருளின் விநியோகம் அல்லது விநியோகம் ஆகியவற்றுடன் இணைக்கப்பட்ட அனைத்து சேவைகளும் அத்தியாவசிய சேவைகளாக கருதப்படுகின்றன.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் உத்தரவின் பேரில் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவினால் வெளியிடப்பட்ட இந்த அறிவிப்பில் இந்த சேவைகள் அத்தியாவசியமான பொது சேவைகளாக குறிப்பிடப்பட்டுள்ளது.
+All measures relating to the distribution of electricity and petroleum products have been declared as essential services.
 
-வர்த்தமானி இந்த சேவைகளின் முக்கியமான தன்மையை அடிக்கோடிட்டுக் காட்டுகிறது, சமூக வாழ்க்கையை நிலைநிறுத்துவதில் அவற்றின் இன்றியமையாத பங்கை வலியுறுத்துகிறது.
+Accordingly, all services connected to electricity and petroleum products and fuel supply or distribution are considered essential services.
 
-மின்சாரம், பெட்ரோலிய விநியோகம் அல்லது எரிபொருள் வழங்கல் ஆகியவற்றில் ஈடுபட்டுள்ள பொது நிறுவனங்கள், அரசுத் துறைகள், உள்ளாட்சி அமைப்புகள் மற்றும் கூட்டுறவு சங்கங்கள் உட்பட அனைத்து நிறுவனங்களுக்கும் இது பொருந்தும்.
+The announcement issued by the President of the President Saman Ekanayake at the behest of President Ranil Wickremesinghe is referred to as essential public services.
+
+The gazette underlines the important character of these services, emphasizing their essential role in maintaining social life.
+
+The same applies to all corporations, including public companies, government departments, local bodies and cooperative societies involved in electricity, petroleum distribution or fuel supply.
 
 ◼️
 
 [Data](articles/d21ffc08.json)
+
+[Extended Data](ext_articles/d21ffc08.ext.json)
 
 ---
 
@@ -67,6 +91,22 @@ Earlier this week, the CBSL requested the President, in his capacity as the Mini
 ...
 
 [Data](articles/0cc629e0.json)
+
+[Extended Data](ext_articles/0cc629e0.ext.json)
+
+---
+
+### අද රෑට ඉන්ධන මිලහි සංශෝධනයක්
+
+*2024-03-04 10:10:34* · [`adalk`](https://www.ada.lk/breaking_news/අද-රෑට-ඉන්ධන-මිලහි-සංශෝධනයක්/11-408405) · `si`
+
+ඉන්ධන මිල සුත්‍රයට අනුව මාසිකව ඉන්ධන මිල සංශෝධනය කිරීම අනුව පෙබරවාරි මස අග දී මිල සංශෝධනයක් සිදුවිය යුතු වුවත් එය අද දිනයේ දී සිදුවනු ඇති බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සඳහන් කරයි.
+
+අවසන් වරට පසුගිය ජනවාරි මස 31 වන දා ඉන්ධන මිල ගණන් සංශෝධනය වු අතර ඔක්ට්‍රේන් 92 පෙට්‍රල්, ඔක්ටේන් 95 පෙට්‍රල්, සුපර් ඩීසල් සහ භූමිතෙල් මිල ඉහළ ගියේය.
+
+◼️
+
+[Data](articles/1b8319a2.json)
 
 ---
 
@@ -90,21 +130,27 @@ Against this backdrop, President Ranil Wickremesinghe has issued an Extraordinar
 
 ---
 
-### விலை அதிகரிப்புக்கு எதிராக சட்ட நடவடிக்கை
+### Legal action against an increase in price
 
 *2024-03-04 10:01:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலை-அதிகரிப்புக்கு-எதிராக-சட்ட-நடவடிக்கை/175-334165) · `ta`
 
-கொத்து, ப்ரைட் ரைஸ் உள்ளிட்ட உணவுப் பொருட்களின் விலைகளை அதிகரிப்புக்கு எதிராக சட்ட நடவடிக்கை எடுக்கவுள்ளதாக தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத்  தெரிவித்துள்ளார்.
+Asela Sampath, leader of the National Consumer Front, plans legal action against the All Ceylon Snacks and Restaurant Owners Association for raising food prices, including masonry and Prite Rice, due to increased raw material costs.
 
-உணவுப் பொருட்களின் விலைகளை அதிகரிக்க அகில இலங்கை சிற்றுண்டிசாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் மேற்கொண்டுள்ள தீர்மானத்திற்கு எதிராகவே இந்த சட்ட நடவடிக்கை எடுக்கப்படவுள்ளது.
+🟩
 
-சந்தையில், உணவுப்பொருட்களின் விலைகளை தன்னிச்சையாக தீர்மானிக்கும் அதிகாரம் தனியார் நிறுவனங்களுக்கு இல்லை என அவர் குறிப்பிட்டுள்ளார்.
+National Consumer Front leader Asela Sampath says legal action will be taken against the increase in food prices including masonry and Prite Rice.
 
-எவ்வாறாயினும், மூலப்பொருட்களின் விலை அதிகரிப்பு காரணமாகவே, உணவுப் பொருட்களின் விலைகளை உயர்த்த நேரிட்டதாக அகில இலங்கை சிற்றுண்டிசாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+The legal action is to be taken against the decision of the All Ceylon Snacks and Restaurant Owners Association to increase the prices of food.
+
+In the market, private companies do not have the power to arbitrarily determine the prices of food items.
+
+However, the All Ceylon Snacks and Restaurant Owners Association said that due to the increase in raw material prices, food prices have been raised.. Remble
 
 ◼️
 
 [Data](articles/5606b07a.json)
+
+[Extended Data](ext_articles/5606b07a.ext.json)
 
 ---
 
@@ -655,6 +701,28 @@ The newly launched BBA programme at the IIHS has received approval from the Univ
 [Data](articles/f157d982.json)
 
 [Extended Data](ext_articles/f157d982.ext.json)
+
+---
+
+### රජීව් ගාන්ධි ඝාතනය: සාන්තන්ගේ දේහය පිළිබඳ අවසන් කටයුතු අද යාපනයේදී
+
+*2024-03-04 05:15:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglkg8n2knyo) · `si`
+
+රජීව් ගාන්ධි ඝාතනය: සාන්තන්ගේ දේහය පිළිබඳ අවසන් කටයුතු අද යාපනයේදී
+
+ඉන්දීය හිටපු අගමැති රජීව් ගාන්ධි ඝාතනයට වරදකරුව සිට නිදහස ලබා ශ්‍රී ලංකාවේ සිය මව බැලීමට පැමිණීමට සුදානමින් සිටියදී මරණයට පත්වු ටී.සුදෙන්දරාජා නොහොත් සාන්තන්ගේ දේහය පිළිබඳ අවසන් කටයුතු අද (04) යාපනය,වැල්වැටිතුරෙයි ප්‍රදේශයේදී පැවැත්වෙයි.
+
+දේහය පිළිබඳ අවසන් කටයුතු හින්දු චාරිත්‍රානුකූලව උඩුප්පිට්ටි හින්දු සුසාන භූමියේදී පැවැත්වීමට නියමිතය.
+
+මළ සිරුර කටුනායක ගුවන්තොටුපොළ සිට යාපනය දක්වා රැගෙන යන අවස්ථාවේ අවමංගල්‍යය පෙරහැර (මාර්තු 03 වැනිදා) වවුනියාව නගරයෙන් ආරම්භ කළ අතර, මාන්කුලම, කිලිනොච්චිය ඇතුළු උතුරු පළාතේ ප්‍රධාන නගරවලදී දේහය වෙනුවෙන් අවසන් ගෞරව දැක්වීමේ වැඩසටහන් සංවිධානය කොට තිබුණි.
+
+දකුණු ඉන්දීය නීතිඥවරු දෙපළක් සාන්තන්ගේ සිරුර රැගෙන 01 වැනිදා කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.‍
+
+1991 මැයි මස 21 වැනිදා තමිල්නාඩු ප්‍රාන්තයේ පැවැත්වු ජන හමුවකට සහභාගිවු ඉන්දීය හිටපු අගමැති රජීව් ගාන්ධි  මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයකට ලක්ව ජීවිතක්ෂයට පත්විය.
+
+...
+
+[Data](articles/ae23629f.json)
 
 ---
 
@@ -2099,69 +2167,5 @@ Israel and Hamas are scheduled to be held in several parties on the publication 
 [Data](articles/27669e0e.json)
 
 [Extended Data](ext_articles/27669e0e.ext.json)
-
----
-
-### Protest beginning in the middle of the sea
-
-*2024-03-03 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194082) · `si`
-
-Indian fishermen in the Indian Ocean protest against illegal fishing, with representatives from Jaffna, Mullaitivu, Mannar, and Kilinochchi districts joining.
-
-🟩
-
-Indian fishermen have commenced a protest in the Indian Ocean today (03) protesting the fish racket of the Indian fishermen.
-
-A large number of fishermen of the Northern Province took boats and lifted black flags in the middle of the sea.
-
-A large number of Fisheries Association representatives of Jaffna, Mullaitivu, Mannar, Kilinochchi districts had joined the protest.
-
-◼️
-
-[Data](articles/09849a37.json)
-
-[Extended Data](ext_articles/09849a37.ext.json)
-
----
-
-### In the country, tomorrow's hot climate
-
-*2024-03-03 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177820) · `ta`
-
-The Department of Meteorology warns of a hot climate tomorrow, focusing on Monday in many parts of the country. Health advice includes drinking water, resting in shade, and controlling severe functions.
-
-🟩
-
-The Department of Meteorology said that the heat standard would rise to the point of focusing on Monday (04) in many parts of the country.
-
-The department said that the human body's felt in some parts of the Northwest, West and South, Sabaragamuwa Provinces and Anuradhapura and Mannar districts will be considered.
-
-People are also advised to follow health advice such as drinking adequate water, resting in shadowy places as possible, and controlling severe external functions.
-
-◼️
-
-[Data](articles/6803facb.json)
-
-[Extended Data](ext_articles/6803facb.ext.json)
-
----
-
-### Shebas Sharif as Pakistan's new Prime Minister
-
-*2024-03-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177818) · `ta`
-
-Shebas Sharif appointed as Pakistan's new Prime Minister amid election discussions.
-
-🟩
-
-Foreign media reports that Shebas Sharif has been appointed as the new Prime Minister of Pakistan.
-
-The announcement was made as the Pakistani election and its post -country positions were widely widely talked about.
-
-◼️
-
-[Data](articles/cc775c3f.json)
-
-[Extended Data](ext_articles/cc775c3f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 08:23:17**
+As of **2024-03-04 08:46:58**
 
 ## Newspaper Stats
 
-*Scraped **10,680** Articles*
+*Scraped **10,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ adaderanalk | 1,301
 tamilmirrorlk | 1,308
 virakesarilk | 1,434
 dailymirrorlk | 1,618
-adaderanasinhalalk | 1,655
+adaderanasinhalalk | 1,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,678 (100.0%) of 10,680 articles have been extended.
+10,680 (100.0%) of 10,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### ශ්‍රී ලංකා කණ්ඩායමේ බංග්ලාදේශ තරග සංචාරය අදින් ඇරඹෙයි
+
+*2024-03-04 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194100) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පළමු විස්සයි විස්ස තරගය අද (04) ආරම්භ වේ.
+
+තරගය සිල්හෙට් හිදී මෙරට වේලාවෙන් පස්වරු 5.30ට ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා 20යි 20 කණ්ඩායමේ නායක වනිඳු හසරංගට තරග තහනමක් පනවා තිබීම හේතුවෙන් ශ්‍රී ලංකා කණ්ඩායම චරිත් අසලංක විසින් අද මෙහෙයවයි.
+
+දෙරට අතර තරගාවලිය විස්සයි විස්ස තරග තුනකින්, එක්දින තරග තුනකින් සහ ටෙස්ට් තරග දෙකකින් සමන්විතයි.
+
+◼️
+
+[Data](articles/531eae18.json)
+
+---
+
+### රියදුරු බලපත්‍ර ගන්න අයට දැනුම්දීමක්
+
+*2024-03-04 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194099) · `si`
+
+මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව සපයන සේවාවන් සඳහා ස්වයංක්‍රීය දුරකථන පද්ධතියක් යටතේ සහ වෙබ් අඩවිය වෙත පිවිස සිය අවශ්‍යතා සපුරාගැනීමට අද (04) සිට මහජනතාවට අවස්ථාව ලබා දී තිබේ.
+
+පවතින අධික තදබදයට විසඳුමක් ලෙස දිවයිනේ දිස්ත්‍රික්ක 25 තුළ පිහිටා ඇති ශාඛා කාර්යාල ආවරණය වන පරිදි මෙම මාර්ගගත වේලාවන් වෙන්කර ගැනීමේ ක්‍රියාවලිය හඳුන්වා දීමට නියමිතය.
+
+එහිදී ස්වයංක්‍රීය දුරකථන පද්ධතිය හරහා හෝ වෙබ් අඩවිය වෙත පිවිස ඒ සඳහා කාලය වෙන් කරගත හැකි වේ.
+
+අද සිට ආරම්භ වන නව ක්‍රමවේදය පිළිබඳව අදහස් පළ කළ මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ වීරසිංහ මහතා,
+
+"සියලුම සේවාලාභීන් අනිවාර්යයෙන්ම තමන්ට අදාළ වේලාවක් අදාළ දිනය තුළ වෙන්කරගෙන කාර්ය සඳහා පැමිණීම අනිවාර්යයි. මීට ප්‍රථම ක්‍රියාත්මක වුණා කොවිඩ් කාලේ. මේකෙදි පුළුවන් ස්වයංක්‍රීය දුරකථන අංකයක් අපි හඳුන්වා දීලා තියෙනවා 2 117 116 කියලා. ඒක ස්වයංක්‍රීයව භාෂා තුනෙන්ම ඔබට අවශ්‍ය සේවාව ලබාදෙනවා."
+
+කාර්යක්ෂම සහ ඵලදායී සේවයක් සැපයීමට මෙමඟින් බලපොරොත්තු වන බව මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල්වරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/f1e826e5.json)
+
+---
+
+### 14 හැවිරිදි පාසල් සිසුවියක් දියේ ගිලී මරුට
+
+*2024-03-04 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194098) · `si`
+
+ඇල්පිටිය ඇබිත්තන්ගොඩ ඇළේ දියනෑමට ගිය දැරියක් දියේ ගිලී මියගොස් තිබේ.
+
+මෙම දැරිය ඇගේ මව සහ සහෝදරිය සමග ඊයේ (03) සවස් කාලයේ ඇබිත්තන්ගොඩ ඇළේ දිය නෑමට ගොස් ඇත.
+
+ඇය කැටපත, ගනේගොඩ ප්‍රදේශයේ පදිංචිව සිටි 14 හැවිරිදි පාසල් සිසුවියකි.
+
+ඇයගේ මව සහ සහෝදරිය ද මේ වන විට අසාධ්‍ය තත්ත්වයෙන් ඇල්පිටිය රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබිමින් සිටී.
+
+◼️
+
+[Data](articles/42da7ffa.json)
+
+---
 
 ### Calling the central bank seniors
 
@@ -330,27 +388,33 @@ Meanwhile, Ajith Ranabahu Rajapaksha, business development officer at Saliya Hom
 
 ---
 
-### දරුවන්ට වෙන ම කාමරයක් දිය යුතු වයස කුමක් ද? දෙමාපියන් දැනගත යුතු කරුණු
+### What is the age that children should be a separate room?Things parents Need to Know
 
 *2024-03-04 02:20:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51dy0nxe8go) · `si`
 
-දරුවන්ට වෙන ම කාමරයක් දිය යුතු වයස කුමක් ද? දෙමාපියන් දැනගත යුතු කරුණු
+The ideal age for children to have their own room varies, but it's generally around 11-13 for girls and 12-14 for boys, aligning with sexual maturity. This decision should consider the child's personality development and the potential for addiction to technology. Parents should monitor their children's use of technology and ensure it's beneficial, not harmful.
 
-"මම දවසක් පාන්ර දෙකට විතර වතුර බොන්න කුස්සියට යන ගමන් දැක්කා විෂාන්ගේ (මෙය දරුවාගේ අනන්‍යතාව හෙළි නොකිරීම සඳහා භාවිත කරන වෙනත් නමකි) කාමරයේ ලයිට් එක දාලා තියෙනවා. මේ ළමයාට තවම වයස අවුරුදු 13යි. ඉතින් මෙච්චර වෙලා පාඩම් කරන්න හේතුවක් නැති නිසා මම කාමරයට එබිලා බැලුවා ම එයා ගේම් එකක් ගහනවා, කම්පියුටර් එකේ," මෙම අත්දැකීම අනාවරණය කළේ, විෂාන් නමින් හඳුන්වන ඉහත කී දරුවාගේ මුත්තණුවන්ය‍.
+🟩
 
-ජාත්‍යන්තර පාසලක 8 වන ශ්‍රේණියේ ඉගෙනුම ලබන එම දරුවාගේ මව මහනුවර සිට රැකියාවක නිරත වන අතර, පියා බ්‍රිතාන්‍යයේ රැකියාවක නිරත වෙයි.
+What is the age that children should be a separate room?Things parents Need to Know
 
-දෙමාපියන්ගේ රැකවරණය නොලබන එම දරුවා හදාවඩා ගනු ලබන්නේ, පියගේ මව සහ පියා විසිනි.
+"I saw the lights in the room to drink around the kitchen about two lots of water for about two breads.. This kid is still 13 years old. So he looked into the room, so he exclaims a game because he had no reason to study so much, and she was playing a game, "this experience said," The top of the child called Vision.
 
-දරුවාගේ පෙරැත්ත කිරීම් අනුව පරිගණක ක්‍රීඩා මෙවලමක් ද පියා ලබා දී ඇතැයි මුත්තණුවන් හෙළි කළේය.
+The child of the 8th grade 8 at an international school is working in Kandy and the father is working in Britain.
 
-මේ අතර, විෂාන්ගේ මිතුරෙකු ද ඔහුට වෙන ම කාමරයක් දෙන ලෙස දෙමාපියන්ට ඇවිටිලි කරන බව එම දරුවාගේ මව අප සමග පැවසීය.
+The child who does not take care of the parents is used by the father's mother and father.
 
-දරුවන්ට වෙන ම කාමරයක් ලබා දීම සඳහා සුදුසු වයසක් තිබේ ද? එවැනි කාමරයක් ලබා දිය යුත්තේ කුමන ආකාරයට ද? යන්න පිළිබඳව බොහෝ දෙමාපියන්ට ගැටලුසහගතය.
+The father also revealed that the father also gave a computer game tool, according to the child's filters.
+
+Meanwhile, the mother of the child told us that a friend of a gathering is also used to give him a room as a separate room.
+
+Do children have a suitable age to give their children a room?In what way should such room be provided?Many parents are problematic about going.
 
 ...
 
 [Data](articles/d0c189fc.json)
+
+[Extended Data](ext_articles/d0c189fc.ext.json)
 
 ---
 
@@ -1094,17 +1158,23 @@ President Ranil Wickremesinghe welcomed His Holiness Dr. Syedna Mufaddal Saifudd
 
 ---
 
-### සාන්තන්ගේ දේහයට ශ්‍රීධරන්ගෙන් අවසන් ගෞරව
+### Last Honoraves from Santhan's body
 
 *2024-03-03 20:44:17* · [`adalk`](https://www.ada.lk/breaking_news/සාන්තන්ගේ-දේහයට-ශ්‍රීධරන්ගෙන්-අවසන්-ගෞරව/11-408402) · `si`
 
-හිටපු ඉන්දීය අග්‍රාමාත්‍ය රජීව් ගාන්ධි මහතාගේ ඝාතන සිද්ධියට වරදකරුවකු වී පසුව නිදහස ලැබූ යාපනයේ සුතෙන්ද්‍රරාජා මෙවත් සාන්තන් නමැත්තා ඉන්දියාවේ රජිව් ගාන්ධි රෝහලේදී පසුගියදා ජීවිතක්ෂයට පත්වූ අතර ඔහුගේ දේහය සිය උපන්බිම වන යාපනයට රැගෙන එනු ලැබීය.
+Ruthandraja, released after Rajiv Gandhi's release, received last respects from MP Sridharan.
 
-මෙහිදී ඔහුගේ දේහයට අවසන් ගෞරව දැක්වීමට පාර්ලිමේන්තු මන්ත්‍රී  ශ්‍රීධරන් මහතාද සහභාගි විය.
+🟩
+
+Ruthandraja was released after his release of former Indian Prime Minister Rajiv Gandhi's release.
+
+MP Sridharan also participated in his last respects to his body.
 
 ◼️
 
 [Data](articles/c98cd38c.json)
+
+[Extended Data](ext_articles/c98cd38c.ext.json)
 
 ---
 
@@ -2089,77 +2159,5 @@ Coconut shells were 28,000 to 29,000 rupees a metric ton up from last week’s 2
 [Data](articles/c4ebdeb6.json)
 
 [Extended Data](ext_articles/c4ebdeb6.ext.json)
-
----
-
-### Applications called for New Scholarship Program
-
-*2024-03-03 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194077) · `si`
-
-The "Presidential Scholarship Program 2024/2025" in Sri Lanka, aiming to aid 100,000 students across 10,126 schools, is initiated by President Ranil Wickremesinghe. Applications are submitted through official websites, with the Presidential Media Division confirming correct submissions. The Ministry of Education guides the selection process, with committees headed by school principals and provincial education authorities selecting eligible students.
-
-🟩
-
-Applications have been launched from the eligibility requirements for the "Presidential Scholarship Program 2024/2025".
-
-The scholarship aid program is scheduled to implement a 100,000 students who study the total number of schools in Sri Lanka 10,126 schools.
-
-The program is implemented in a concept of President Ranil Wickremesinghe to encourage school students who are being encouraged to encourage schoolgirls in various economic hardships.
-
-Accordingly, the procedure of the Presidential Fund is the official website of www.facebook.com/presidebook.com/president.fund, the official website of the Presidential Fund and the US official website, www.presidentsfund.gov.lk is capable of achieving.
-
-The Presidential Media Division issues a statement saying that the applications obtained correctly and submit to the Principal of the school which is first approved by the student who attend the school next 2024.
-
-...
-
-[Data](articles/472118f6.json)
-
-[Extended Data](ext_articles/472118f6.ext.json)
-
----
-
-### Shehbaz Sharif elected Pakistan’s prime minister for second term
-
-*2024-03-03 14:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shehbaz-Sharif-elected-Pakistans-prime-minister-for-second-term/108-278131) · `en`
-
-ISLAMABAD, March 3 (Reuters) - Pakistan's newly formed parliament elected Shehbaz Sharif on Sunday as prime minister for a second time, three weeks after uncertain national elections caused delays in the formation of a coalition government.
-
-"Shehbaz Sharif is declared to have been elected the prime minister of the Islamic Republic of Pakistan," National Assembly Speaker Ayaz Sadiq said, after announcing Sharif had secured 201 votes, above the required 169 votes in the house.
-
-He beat Omar Ayub, the candidate backed by jailed former Prime Minister Imran Khan, who secured 92 votes.
-
-The declaration was met with loud protests from the Sunni Ittehad Council (SIC) party backed by Khan. The lawmakers called for Khan's release and shouted slogans alleging Sharif had come to power through electoral rigging.
-
-The Feb. 8 election was marred by a mobile internet shutdown, arrests and violence in its build-up and the unusually delayed results triggered accusations that the vote was rigged.
-
-...
-
-[Data](articles/4a121dc9.json)
-
-[Extended Data](ext_articles/4a121dc9.ext.json)
-
----
-
-### A program connected to all aspects of agriculture
-
-*2024-03-03 14:46:32* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්ම-නවීකරණයට-සියලුම-අංශ-සම්බන්ධ-කරමින්-වැඩසටහනක්/11-408395) · `si`
-
-President Ranil Wickremesinghe directed officials to develop a national agricultural modernization program, involving public and private sectors. Despite budget allocations, delays are due to institutional actions. The program aims to establish an agro-export economy, with a focus on ground-level implementation and support from all stakeholders. Senior Professor Gamini Senanayake highlighted the progress and challenges, suggesting a Cabinet sub-committee to address obstacles.
-
-🟩
-
-President Ranil Wickremesinghe instructed the relevant officials to formulate a national program to combine all parties in the public and private sectors to achieve the agricultural modernization program.
-
-The Budget has allocated allocations at the National, Provincial and Regional Level, the President has said that the expected results have been delayed due to the acting of the public and private institutions.Emphasized the importance of getting the support.
-
-President Ranil Wickremesinghe made these comments at the progress review meeting of the presence of the agricultural modernization program at the Presidential Secretariat recently.
-
-President Wickremesinghe also pointed out the need to prepare the National Program to be implemented at the ground level, and the relevant officials were instructed to take immediate action to commence.
-
-...
-
-[Data](articles/1d6bda0a.json)
-
-[Extended Data](ext_articles/1d6bda0a.ext.json)
 
 ---

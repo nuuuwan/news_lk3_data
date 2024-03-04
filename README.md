@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 02:02:59**
+As of **2024-03-05 02:17:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,868 (100.0%) of 10,872 articles have been extended.
+10,872 (100.0%) of 10,872 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ He made these remarks at the launch of District Profiles of the Multidimensional
 
 [Data](articles/e28be8f7.json)
 
+[Extended Data](ext_articles/e28be8f7.ext.json)
+
 ---
 
 ### Ameer Ajwad is Sri Lanka’s new ambassador to Saudi Arabia
@@ -64,6 +66,8 @@ He is presently serving as the Additional Secretary in charge of the Consular Af
 
 [Data](articles/81015ea9.json)
 
+[Extended Data](ext_articles/81015ea9.ext.json)
+
 ---
 
 ### 8 Lankans trafficked to Myanmar rescued; 48 still in captive
@@ -77,6 +81,8 @@ The Embassy of Sri Lanka in Myanmar is currently working on the early repatriati
 ...
 
 [Data](articles/89823634.json)
+
+[Extended Data](ext_articles/89823634.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ The Extraordinary Gazette bearing No.2373/59 dated 3 March was issued by the Sec
 ◼️
 
 [Data](articles/d9a0fe7d.json)
+
+[Extended Data](ext_articles/d9a0fe7d.ext.json)
 
 ---
 

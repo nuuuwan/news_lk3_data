@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 01:17:54**
+As of **2024-03-05 01:33:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,864 (100.0%) of 10,868 articles have been extended.
+10,868 (100.0%) of 10,868 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Apart from Malik, the following Senators, Vasantha Karunatilaka, Yohan De Silva,
 
 [Data](articles/b1a95918.json)
 
+[Extended Data](ext_articles/b1a95918.ext.json)
+
 ---
 
 ### 450 foreign firms to set up regional HQ in Saudi Arabia
@@ -66,6 +68,8 @@ It brought together policymakers, thought leaders, investors and entrepreneurs t
 
 [Data](articles/fbd0a4f9.json)
 
+[Extended Data](ext_articles/fbd0a4f9.ext.json)
+
 ---
 
 ### Sri Lanka participates at Dubai International Boat Show 2024
@@ -82,6 +86,8 @@ The increasing demand for boats worldwide, regional and local for fishing, indus
 
 [Data](articles/d6460fc8.json)
 
+[Extended Data](ext_articles/d6460fc8.ext.json)
+
 ---
 
 ### Setting up in Singapore: Expand your business internationally
@@ -97,6 +103,8 @@ The webinar will also cover the robust legal system in Singapore, opportunities 
 ...
 
 [Data](articles/ed4d7b12.json)
+
+[Extended Data](ext_articles/ed4d7b12.ext.json)
 
 ---
 

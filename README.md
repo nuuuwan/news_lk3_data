@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-04 19:03:04**
+As of **2024-03-04 19:17:43**
 
 ## Newspaper Stats
 
-*Scraped **10,814** Articles*
+*Scraped **10,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 economynextcom | 554
 dailyftlk | 572
 islandlk | 579
-adalk | 914
+adalk | 915
 adaderanalk | 1,320
 tamilmirrorlk | 1,322
 virakesarilk | 1,456
-dailymirrorlk | 1,646
-adaderanasinhalalk | 1,682
+dailymirrorlk | 1,647
+adaderanasinhalalk | 1,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,813 (100.0%) of 10,814 articles have been extended.
+10,814 (100.0%) of 10,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-04 (Monday)
+
+### තම දරුවා ව වෙනත් පාසලකට දැමීමට උත්සාහ කරන දෙමව්පියන්ට විශේෂ දැනුම්දීමක්
+
+*2024-03-04 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194126) · `si`
+
+අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ ලිපි අධ්‍යාපන අමාත්‍යාංශය මඟින් නිකුත් නොකරන බව අධ්‍යාපන අමාත්‍යංශය නිවේදනය කරයි.
+
+2024 වර්ෂයේ අතරමැදි පන්ති සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු බව එම නිවේදනයේ දැක්වෙයි.
+
+පාසල්වල පුරප්පාඩු පවතී නම් අදාළ විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛ ප‍‍්‍රකාරව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කෙරේ.
+
+එබැවින් අතරමැදි ශ්‍රේණි සඳහා ළමුන් ඇතුළත් කිරීමට අදාළ ඉල්ලීම්  සඳහා අධ්‍යාපන අමාත්‍යාංශයට නොපැමිණෙන ලෙසට අමාත්‍යාංශය වැඩිදුරටත් අදාළ පාර්ශ්ව වෙත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/c15a40d7.json)
+
+---
+
+### Electricity tariff to be reduced by 21.9%: PUCSL
+
+*2024-03-04 18:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-by-21-9-PUCSL/108-278216) · `en`
+
+The Public Utilities Commission said that the electricity tariff will be reduced by 21.9 percent.
+
+While addressing the media they said for the electricity consumers using less than 30 units, the current amount of Rs.12 per unit will be reduced to Rs. 8.
+
+Also, the electricity tariff for consumers using between 60 and 90 units will be reduced by 30 percent.
+
+◼️
+
+[Data](articles/7b9056ca.json)
+
+---
 
 ### Enjoining order against Ceylon Petroleum Corporation
 
@@ -786,6 +820,22 @@ The Ceylon Electricity Board's Engineers Association, which criticized his views
 
 ---
 
+### පැතුම් අයි.සී.සී. සම්මානයකට නිර්දේශ වෙයි
+
+*2024-03-04 14:42:27* · [`adalk`](https://www.ada.lk/breaking_news/පැතුම්-අයි-සී-සී--සම්මානයකට-නිර්දේශ-වෙයි/11-408416) · `si`
+
+2024 පෙබරවාරි මසට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ ක්‍රිකට් ක්‍රීඩකයාට හිමි සම්මානය සඳහා ශ්‍රි ලංකා පිතිකරු පැතුම් නිශ්ශංක නිර්දේශ වී තිබේ.
+
+ඇෆ්ගනිස්ථානය සමග පැවැති එක්දින හා විස්සයි20 තරගාවලියේදි ඔහු දැක්වූ දක්ෂතා අනුව මෙම සම්මානය සඳහා ඔහු නිර්දෙශ වී තිබේ.
+
+ඔහුට අමතරව ඉන්දියාවේ යසස්වී ජයිස්වාල් හා නවසීලන්තයේ කේන් විලියම්සන් මෙම සම්මානයට නිර්දේශ වී තිබේ.‍ෙ
+
+◼️
+
+[Data](articles/0d145bb2.json)
+
+---
+
 ### Wishing Best Players
 
 *2024-03-04 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194114) · `si`
@@ -1488,21 +1538,33 @@ He warned that the price of coconut oil would increase in the coming days due to
 
 ---
 
-### සැකකරුවෙකුට පහරදී මරා දැමීම: හිටපු පොලිස් නිලධාරීන් දෙදෙනෙකුට මරණ දඬුවම
+### Suspect hit and killed: Two former police officers sentenced to death
 
 *2024-03-04 12:55:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c88xqp26961o) · `si`
 
-සැකකරුවෙකුට පහරදී මරා දැමීම: හිටපු පොලිස් නිලධාරීන් දෙදෙනෙකුට මරණ දඬුවම
+Two former police officers were sentenced to death by the Colombo High Court for the 2005 murder of four police officers. The defendants were accused of assaulting a suspect in connection with a theft case.
 
-2005 වසරේ පෑලියගොඩ පොලිසිය විසින් සොරකමක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකුට පහරදී  මරණය සිදු කිරීමේ චෝදනාවලට වරදකරුවන් කෙරුණු හිටපු පොලිස් නිලධාරීන් දෙදෙනෙකුට කොළඹ මහාධිකරණය අද (මාර්තු 04 වැනිදා) මරණීය දණ්ඩනය නියම කළේය.
+🟩
 
-පෑලියගොඩ පොලිසියේ අපරාධ විමර්ශන අංශයේ සේවය කළ උප පොලිස් පරීක්ෂක චමින්ද කුමාර සහ  පොලිස් සැරයන් අනුර වීරවර්ධන යන විත්තිකරුවන්ට කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ විසින් මෙම දඬුවම් නියම කරනු ලැබීය.
+Suspect hit and killed: Two former police officers sentenced to death
 
-මහජනතාව යුක්තිය පතා පැමිණෙන්නේ අධිකරණයට බවත් ඒ අනුව නීතියෙන් නියම කළ හැකි උපරිම දඬුවම් අධිකරණය විසින් විත්තිකරුවන්ට නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේය.
+The Colombo High Court today (March 4) was sentenced to death in the 2005 police officers who were arrested by the Peliyagoda Police.
+
+The punishment was sentenced to the defendants of the Peliyagoda Police Criminal Investigation Division (SLTH)
+
+The judge states that the public will come to the court and the judiciary may be ordered by the law.
+
+Abeysinghe Ranjith, who was arrested in connection with theft of a wireless telephone on July 13, 2005, sues four police officers who were killed by Vickened Police in the police station.Was assigned.
+
+However, the Chief Inspector of Police (Chief Inspector), who was charged with the incident, is a Chief Inspector of Police. The judge also ordered the acquitting and release of the two Mohammed Abhisjis as the two officers were not proven to be charged.
+
+Who were the police officers who had to pay for Rs.15 crores to victims?
 
 ...
 
 [Data](articles/17015b39.json)
+
+[Extended Data](ext_articles/17015b39.ext.json)
 
 ---
 
@@ -2241,75 +2303,5 @@ He said the revenue generated through the Inland Revenue Department could be dou
 [Data](articles/b189580b.json)
 
 [Extended Data](ext_articles/b189580b.ext.json)
-
----
-
-### CBSL officials summoned to Cabinet over salary hike controversy
-
-*2024-03-04 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97716/cbsl-officials-summoned-to-cabinet-over-salary-hike-controversy-) · `en`
-
-The officials of the Central Bank of Sri Lanka (CBSL) have been summoned to the Cabinet meeting scheduled to be held on Tuesday (March 05).
-
-There, the CBSL officials will be inquired about the process and rationale behind the recent salary hike given to its employees, with no notice to any responsible parties.
-
-Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition.
-
-Earlier this week, the CBSL requested the President, in his capacity as the Minister of Finance, for an opportunity to apprise the Members of Parliament, through an appropriate Parliamentary Committee, of the recent salary increment which came under fire. The request was made in writing by CBSL Governor Dr. Nandalal Weerasinghe.
-
-...
-
-[Data](articles/0cc629e0.json)
-
-[Extended Data](ext_articles/0cc629e0.ext.json)
-
----
-
-### Armed Attack on Haiti Prison- More than 3000
-
-*2024-03-04 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177839) · `ta`
-
-A gang attacked Haiti's main prison, releasing over 4,000 prisoners, including those accused of murdering President Jovenal Mossay in 2021. The Human Rights Attorney estimates fewer than 100 remain, and the government has declared a night curfew to curb violence.
-
-🟩
-
-A gang who attacked a main prison in the capital of Haiti has released more than 4,000 prisoners.
-
-More than 4,000 prisoners have fled the attack on the capital of the capital.
-
-Those accused of murdering President Jovenal Mossay in 2021 have also escaped due to prison.
-
-Haiti's usual congestion is found without security officers.
-
-The Human Rights Attorney, who said it was unaware of how many prisoners had escaped, said that fewer than 100 in 4000 prison remained.
-
-Meanwhile, the Haiti government, which has announced an emergency to curb violence, has also declared the night curfew.
-
-◼️
-
-[Data](articles/498bc8d8.json)
-
-[Extended Data](ext_articles/498bc8d8.ext.json)
-
----
-
-### Skyrocketing coconut prices will affect meal packets
-
-*2024-03-04 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Skyrocketing-coconut-prices-will-affect-meal-packets/108-278195) · `en`
-
-Colombo, March 04 (Daily Mirror) -  The skyrocketing prices of coconuts will have a serious effect on the packed rice and curry meals in the future, as most of the curries are prepared with the coconut cream, food industry trade unions said.
-
-All Island Canteen Owners Association President Rukshan Harshana told the media yesterday the usual price of a coconut, which was at Rs.60 to 80, has increased to almost double. A coconut is currently sold between Rs.120 to 150.
-
-He said the canteen and eatery owners are faced with a serious situation to prepare the rice and curry meal packets under the increased coconut prices, thus in uncertainty of having to sell meal packs for a very high rate.
-
-The unexpected price hike of coconuts comes at a moment when everything else including rice, chicken, eggs and gas has significantly gone up.
-
-Harshana warned that the prices of coconut oil will also go up in the coming days owing to the sudden hike of coconuts.
-
-◼️
-
-[Data](articles/257034cc.json)
-
-[Extended Data](ext_articles/257034cc.ext.json)
 
 ---

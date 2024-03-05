@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 13:33:43**
+As of **2024-03-05 13:52:05**
 
 ## Newspaper Stats
 
-*Scraped **10,966** Articles*
+*Scraped **10,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,106 @@ newsfirstlk | 363
 economynextcom | 562
 dailyftlk | 584
 islandlk | 592
-adalk | 929
-adaderanalk | 1,333
-tamilmirrorlk | 1,338
+adalk | 930
+adaderanalk | 1,334
+tamilmirrorlk | 1,339
 virakesarilk | 1,472
 dailymirrorlk | 1,671
-adaderanasinhalalk | 1,711
+adaderanasinhalalk | 1,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,965 (100.0%) of 10,966 articles have been extended.
+10,966 (100.0%) of 10,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### திறந்த விசா ஊடாக வெளிநாடு செல்ல வேண்டாம் :  சிங்களம் பேச தெரியாத தமிழ் மொழி பேசுபவர்களே  பாதிக்கப்பட்டுள்ளனர் - வெளிநாட்டலுவல்கள் அமைச்சர்
+### கொழும்பு ரயில் நிலையங்களில் வரவுள்ள மாற்றம்
+
+*2024-03-05 13:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-ரயில்-நிலையங்களில்-வரவுள்ள-மாற்றம்/175-334228) · `ta`
+
+கொழும்பை சுற்றியுள்ள பிரதான ரயில் நிலையங்களில் அமைந்துள்ள கட்டிடங்களை வர்த்தக நிலையங்களாக தரமுயர்த்துவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+ஜூன் 6, 2023 அன்று நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் இந்த இடங்கள் அடையாளம் காணப்பட்டுள்ளன.
+
+போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சர் மற்றும் நகர அபிவிருத்தி அமைச்சர் ஆகியோர் இணைந்து இந்த அமைச்சரவைப் பிரேரணையை சமர்ப்பித்திருந்தனர்.
+
+◼️
+
+[Data](articles/dfdc1742.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංග යෝජනාව භාරදෙයි
+
+*2024-03-05 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194157) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව ගෙන එන විශ්වාසභංග යෝජනාව අද (05) පාර්ලිමේන්තු නියෝජ්‍ය මහ ලේකම් චමින්ද කුලරත්න මහතා වෙත භාරදී තිබේ.
+
+ඊට පාර්ලිමේන්තු මන්ත්‍රීවරු 44 දෙනෙකුගේ අත්සන් ලැබී ඇතැයි ද වාර්තා වේ.
+
+◼️
+
+[Data](articles/a71a5cdc.json)
+
+---
+
+### School premises to be prevented from being used for political purposes
+
+*2024-03-05 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97741/school-premises-to-be-prevented-from-being-used-for-political-purposes) · `en`
+
+The government has decided to empower provincial governors to refuse permission to use school premises for political purposes, Minister Bandula Gunawardena says.
+
+The proposal furnished by President Ranil Wickremesinghe was green-lighted by the Cabinet of Ministers at its meeting on Monday (March 05).
+
+◼️
+
+[Data](articles/c3eac255.json)
+
+---
+
+### විරෝධතාකරුවන්ට එරෙහි වාරණය අධිකරණයෙන් ප්‍රතික්ෂේප කරයි
+
+*2024-03-05 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194156) · `si`
+
+ජාතික ජන බලවේගයට සම්බන්ධ ශිෂ්‍ය සංගම් කිහිපයක් අද (05) කොළඹ පැවැත්වීමට නියමිත පාගමනක් හා විරෝධතාවයක් වළක්වන ලෙස පවසමින් කුරුඳුවත්ත පොලීසිය සිදුකළ ඉල්ලීම කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා ප්‍රතික්ෂේප කර තිබේ.
+
+අද දහවල් කාලයේ ආරම්භ කිරීමට නියමිත අදාළ විරෝධතාවය හා පාගමන හේතුවෙන් මහජන පීඩාවක් සිදුවිය හැකි බව පෙන්වා දෙමින් කුරුඳුවත්ත පොලීසිය එම වාරණ නියෝගය ඉල්ලා සිටියේය.
+
+මහජනතාවයට යම් පීඩාවක් සිදුවන්නේ නම්, පොලිස් ආඥාපනත යටතේ අවශ්‍ය පියවර ගැනීමට පොලීසියට බලය ඇති බවත්, ඒ සඳහා අධිකරණ නියෝග අනවශ්‍ය බවත් මහෙස්ත්‍රාත්වරයා මෙහිදී පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/e73849d1.json)
+
+---
+
+### Don't go abroad through open visa: Tamil speakers who do not know Sinhala are affected - Minister of Foreign Affairs
 
 *2024-03-05 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177950) · `ta`
 
-திறந்த விசா ஊடாக வெளிநாட்டு தொழில் வாய்ப்புகளை தேடிச் செல்ல வேண்டாம். சிங்களம் பேச தெரியாத தமிழ் மொழி பேசுபவர்களே தற்போது பாதிக்கப்பட்டுள்ளார்கள். இடைத்தரகர்களின் போலியான வாக்குறுதிகளுக்கு ஏமாற வேண்டாம் என  வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+Minister of Foreign Affairs warns Tamil speakers against seeking foreign employment through open visas, citing detention and financial fraud in Myanmar.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற அமர்வின் போது  மியன்மார் சைபர் கிரைம் பயங்கரவாத குழுவால் தடுத்து வைக்கப்பட்டுள்ள  இலங்கையர்கள் தொடர்பில்   பாராளுமன்ற உறுப்பினர்களான வசந்த யாப்பா பண்டார, ஹர்ஷ டி சில்வா கேள்வியெழுப்பினர். இதற்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மியன்மார் சைபர் கிரைம் பகுதியில்  இந்தியா, பாகிஸ்தான், பங்களாதேஷ் மற்றும் நேபாளம் நாட்டை சேர்ந்தவர்கள் தடுத்து வைக்கப்பட்டுள்ளார்கள். 56 இலங்கையர்களும் தடுத்து வைக்கப்பட்டுள்ளார்கள். இவர்களை நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளன.
+Do not search for foreign employment opportunities through open visa. Tamil speakers who do not know Sinhala are currently affected. Minister of Foreign Affairs Ali Sabri said that the fake promises of the intermediaries should not be cheated.
+
+Vasantha Yapa Bandara and Harsha de Silva questioned the Sri Lankans detained by the Myanmar Cyber Crime Terrorist Committee during a session in Parliament on Tuesday (05). In response, he said the above.
+
+India, Pakistan, Bangladesh and Nepal are detained in Myanmar Cyber Crime area. 56 Sri Lankans are also detained. Negotiations have been carried out at diplomatic level to bring them to the country.
+
+They are forcibly forced to engage in financial fraud through the Internet system. It is also known that they have been psychologically impact.
+
+Others continue to go abroad, as one party is in crisis illegally. Recently, three Sri Lankans went to Dubai and went to Bangkok to Thailand via Thailand.
 
 ...
 
 [Data](articles/45d1aad2.json)
+
+[Extended Data](ext_articles/45d1aad2.ext.json)
 
 ---
 
@@ -73,6 +143,18 @@ The Cabinet was presented by the Minister of Transport and Highways and the Urba
 [Data](articles/3939a10c.json)
 
 [Extended Data](ext_articles/3939a10c.ext.json)
+
+---
+
+### කඩුවෙල වෙඩි තබයි
+
+*2024-03-05 13:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-වෙඩි-තබයි/11-408434) · `si`
+
+කඩුවෙල කොරතොට ප්‍රදේශයේ ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැලක් ඉදිරිපිට පුද්ගලයකු  පැමිණි අහසට වෙඩි තබා පලා ගොස් ඇතැයි නවගමුව පොලිසිය පවසයි. අදාල ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැල අසලට තවත් පුද්ගලයකු සමග පැමිණ යතුරු පැදිය මාර්ගය අසල නවත්වා ඉන් බැසවිත් කෑ ගසමින් 38mm වර්ගයේ රිවෝල්වරයක් භාවිතා කරමින් අහස දෙසට වෙඩිල්ලක් තබා පලා ගොස් ඇත. මෙම සිද්ධිය යම්කිසි කප්පම් ගැනීමේ සිද්ධියක් මත සිදු කර ඇතැයි සැක කරන බවද පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/c559cb91.json)
 
 ---
 
@@ -2103,99 +2185,5 @@ Related Topics:Euro Solutions and Pharmaceris successfully conduct hair and skin
 [Data](articles/661378ba.json)
 
 [Extended Data](ext_articles/661378ba.ext.json)
-
----
-
-### Siyapatha Finance contributes to the development of internal access road
-
-*2024-03-04 23:23:00* · [`islandlk`](http://island.lk/siyapatha-finance-contributes-to-the-development-of-internal-access-road/) · `en`
-
-Siyapatha Finance PLC made a financial contribution to the construction of the internal access road, a long-felt need of Badulla Sri Dhammananda Maha Vidyalaya, recently.
-
-A social responsibility initiative under the patronage of the officials of Siyapatha Finance PLC, the donation cheque was handed over to the School Principal Ms. V.A.C Nandani by Dinusha Rajamanthree, Branch Manager, Siyapatha Finance PLC, Badulla in the presence of Manjula Jayathilake, Senior Regional Manager, Rengan Balakrishnan, Regional Manager  and Kaushika Gunasekara, Gold Financing Officer in Charge of Siyapatha Finance Badulla, and A.M. Nandasena , Vice Principal of Badulla Sri Dhammananda Maha Vidyalaya.
-
-Related Topics:Siyapatha FinanceSiyapatha Finance contributes to the development of internal access road
-
-JL Euro Solutions and Pharmaceris successfully conduct hair and skin care solutions awareness program
-
-Siyapatha Finance expands its reach with the opening of its latest branch in Puttalam
-
-...
-
-[Data](articles/21e385c4.json)
-
-[Extended Data](ext_articles/21e385c4.ext.json)
-
----
-
-### DOK Solutions Lanka partners with Plural Technology to advance digitization
-
-*2024-03-04 23:21:00* · [`islandlk`](http://island.lk/dok-solutions-lanka-partners-with-plural-technology-to-advance-digitization/) · `en`
-
-DOK Solutions Lanka (Pvt) Ltd, a leading record management and business process outsourcing service provider, announced a strategic partnership with Plural Technology, a global leader in advanced enterprise technology solutions. The collaboration aims to accelerate the adoption of digitization and Artificial Intelligence (AI) solutions in Sri Lanka.
-
-...
-
-[Data](articles/89413303.json)
-
-[Extended Data](ext_articles/89413303.ext.json)
-
----
-
-### Exclusive housekeeping services for TRI-ZEN residents
-
-*2024-03-04 23:19:00* · [`islandlk`](http://island.lk/exclusive-housekeeping-services-for-tri-zen-residents/) · `en`
-
-Infusing value-added services for its highly-anticipated TRI-ZEN Apartments, Sri Lanka’s premier real-estate developer, John Keells Properties, recently appointed Abans Environmental Services (Pvt) Ltd., as its exclusive service provider for housekeeping services for TRI-ZEN apartments. A Memorandum of Understanding (MoU) was signed between John Keells Properties and Abans Environmental Services on 15th February 2024, under the overarching vision to offer unparalleled conveniences to TRI-ZEN residents.
-
-Siyapatha Finance contributes to the development of internal access road
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c3950195.json)
-
-[Extended Data](ext_articles/c3950195.ext.json)
-
----
-
-### CCPI based headline inflation decelerates
-
-*2024-03-04 23:18:00* · [`islandlk`](http://island.lk/ccpi-based-headline-inflation-decelerates/) · `en`
-
-Headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index (CCPI, 2021=100)1 decelerated to 5.9% in February 2024 from 6.4% in January 2024. This deceleration in the headline inflation is broadly in line with the projections of the Central Bank of Sri Lanka (CBSL).
-
-Food inflation (Y-o-Y) accelerated to 3.5% in February 2024 from 3.3% in January 2024, whereas Non-Food inflation (Y-o-Y) decelerated to 7.0% in February 2024 from 7.9% in January 2024. Monthly change of CCPI recorded -0.05% in February 2024 due to the combined effect of price decreases of 0.67% observed in the items of Food category and price increases of 0.62% observed in the items of Non-Food category. Meanwhile, core inflation (Y-o-Y), which reflects the underlying inflation trends in the economy, accelerated to 2.8% in February 2024 from 2.2% in January 2024.
-
-LOLC’s dominance of share market has resuscitating impact on manufacturing counters
-
-...
-
-[Data](articles/ab460168.json)
-
-[Extended Data](ext_articles/ab460168.ext.json)
-
----
-
-### LOLC’s dominance of share market has resuscitating impact on manufacturing counters
-
-*2024-03-04 23:15:00* · [`islandlk`](http://island.lk/lolcs-dominance-of-share-market-has-resuscitating-impact-on-manufacturing-counters/) · `en`
-
-The overall stock market performance was positive yesterday with the LOLC Group of companies driving the market and giving a boost to manufacturing sector counters.
-
-However, banking sector counters witnessed some selling pressure following the government decision to
-
-Halt parate executions until the end of the year, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 125 points while S and P SL20 rose by 49.4 points. Turnover stood at Rs 1.71 billion with two crossings. Those crossings were reported in Royal Ceramic, which crossed 1 million shares at Rs 30.50 per share and NTB 250,000 shares crossed for Rs 25 million; its shares traded at Rs 100.
-
-...
-
-[Data](articles/9e282cf1.json)
-
-[Extended Data](ext_articles/9e282cf1.ext.json)
 
 ---

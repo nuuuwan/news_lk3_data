@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 13:17:37**
+As of **2024-03-05 13:33:43**
 
 ## Newspaper Stats
 
-*Scraped **10,965** Articles*
+*Scraped **10,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 592
 adalk | 929
 adaderanalk | 1,333
 tamilmirrorlk | 1,338
-virakesarilk | 1,471
+virakesarilk | 1,472
 dailymirrorlk | 1,671
 adaderanasinhalalk | 1,711
 
@@ -26,49 +26,77 @@ adaderanasinhalalk | 1,711
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,962 (100.0%) of 10,965 articles have been extended.
+10,965 (100.0%) of 10,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### කොළඹ ලොකු දුම්රිය ස්ථාන කිහිපයක් වෙනස්වෙයි
+### திறந்த விசா ஊடாக வெளிநாடு செல்ல வேண்டாம் :  சிங்களம் பேச தெரியாத தமிழ் மொழி பேசுபவர்களே  பாதிக்கப்பட்டுள்ளனர் - வெளிநாட்டலுவல்கள் அமைச்சர்
+
+*2024-03-05 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177950) · `ta`
+
+திறந்த விசா ஊடாக வெளிநாட்டு தொழில் வாய்ப்புகளை தேடிச் செல்ல வேண்டாம். சிங்களம் பேச தெரியாத தமிழ் மொழி பேசுபவர்களே தற்போது பாதிக்கப்பட்டுள்ளார்கள். இடைத்தரகர்களின் போலியான வாக்குறுதிகளுக்கு ஏமாற வேண்டாம் என  வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற அமர்வின் போது  மியன்மார் சைபர் கிரைம் பயங்கரவாத குழுவால் தடுத்து வைக்கப்பட்டுள்ள  இலங்கையர்கள் தொடர்பில்   பாராளுமன்ற உறுப்பினர்களான வசந்த யாப்பா பண்டார, ஹர்ஷ டி சில்வா கேள்வியெழுப்பினர். இதற்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மியன்மார் சைபர் கிரைம் பகுதியில்  இந்தியா, பாகிஸ்தான், பங்களாதேஷ் மற்றும் நேபாளம் நாட்டை சேர்ந்தவர்கள் தடுத்து வைக்கப்பட்டுள்ளார்கள். 56 இலங்கையர்களும் தடுத்து வைக்கப்பட்டுள்ளார்கள். இவர்களை நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/45d1aad2.json)
+
+---
+
+### Colombo big railway stations change
 
 *2024-03-05 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194155) · `si`
 
-කොළඹ නගරය ආශ්‍රිතව ප්‍රධාන දුම්රිය ස්ථාන පිහිටි ගොඩනැගිලි වාණිජ මධ්‍යස්ථාන වශයෙන් වැඩිදියුණු කිරීමට අදාළ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The Cabinet approved enhancements for major Colombo railway stations, including Wellawatte, Bambalapitiya, Kollupitiya, Slave Island, Dehiwala, and Mount Lavinia, aiming to attract investors.
 
-වැල්ලවත්ත, බම්බලපිටිය, කොල්ලුපිටිය සහ කොම්පඤ්ඤවීදිය යන දුම්රිය ස්ථාන ඒ සඳහා හඳුනාගෙන ඇත.
+🟩
 
-2023 වර්ෂයේ නොවැම්බර් මස් ජුනි මස 06 වනදා පැවති කැබිනට් රස්වීමේදී මේ පිළිබඳව හඳුනාගෙන තිබේ.
+The proposal to enhance the buildings of the major railway stations around Colombo is approved by the Cabinet.
 
-එම දුම්රිය ස්ථාන සහ ඊට අමතරව දෙහිවල සහ ගල්කිස්ස දුම්රිය ස්ථාන රාජ්‍ය-පෞද්ගලික හවුල්කාරීත්ව යටතේ ඉදිකර මෙහෙයුම් කර පවරාදීමේ ක්‍රමවේදය යටතේ සංවර්ධනය කිරීමට අදාළ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+Railway stations have been identified for the visit to the Wellawatte, Bambalapitiya, Kollupitiya and Slave Island.
 
-එසේම ඒ සඳහා උනන්දුවක් දක්වන ආයෝජකයින් වෙතින් අභිලාශ ප්‍රකාශ කිරීම් කැඳවීමට අදාළ යෝජනාවට ද අනුමැතිය හිමිව තිබේ.
+The November 6, 2023, has been identified at the Cabinet restructuring on the 6th of June.
 
-ප්‍රවාහන හා මහාමාර්ග අමාත්‍යවරයා සහ නාගරික සංවර්ධන අමාත්‍යවරයා ඒකාබද්ධව මෙම කැබිනට් යෝජනාව ඉදිරිපත් කර තිබුණි.
+The cabinet has approved a proposal to develop the Dehiwala and Mount Lavinia railway stations under the publication of Dehiwala and Mount Lavinia.
+
+The proposal to be summoned by investors who are interested in it is also approved by the proposal to call.
+
+The Cabinet was presented by the Minister of Transport and Highways and the Urban Development.
 
 ◼️
 
 [Data](articles/3939a10c.json)
 
+[Extended Data](ext_articles/3939a10c.ext.json)
+
 ---
 
-### ණය ප්‍රතිව්‍යුහගතකරණය ගැන අලුත් කථාවක්
+### New story on loan restructuring
 
 *2024-03-05 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194154) · `si`
 
-ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණය මේ වසරේ දෙවැනි කාර්තුවේදී අවසන් කිරීමට හැකි වෙතැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Sri Lanka aims to complete loan restructuring by Q2 2023, despite stable economic conditions. State Minister Shehan Semasinghe highlights a positive economic growth outlook for 2024.
 
-පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු පැවසුවේ, රටක් වශයෙන් ස්ථාවර වුවද රට අවදානම් කලාපයෙන් සම්පූර්ණයෙන් එළියට ගොස් නොමැති බවය.
+🟩
 
-"අවදානම් කලාපයෙන් එළියට යන්න තව මාස 6, 8, හෝ 12ක කාලයක් ගත වෙන්න පුළුවන්..."
+State Minister Shehan Semasinghe says Sri Lanka will be able to end the restructuring of Sri Lanka in the second quarter of this year.
 
-2024දී ධනාත්මක ආර්ථික වර්ධනයක් ඇතිවිය හැකි බව පෙන්වා දුන් රාජ්‍ය අමාත්‍යවරයා, ඒ සඳහා වර්තමාන ආර්ථික ප්‍රතිසංස්කරණ පවත්වා ගෙන යෑම වැදගත් බව ද පැවසීය.
+Speaking in parliament, he said that despite stable as a country, the country had not been out of the risk zone.
+
+"It may take 6, 8, or 12 months to get out of the risk zone ..."
+
+The State Minister pointed out that there is a positive economic growth in 2024, he said.
 
 ◼️
 
 [Data](articles/aad3dcaf.json)
+
+[Extended Data](ext_articles/aad3dcaf.ext.json)
 
 ---
 
@@ -496,19 +524,27 @@ At the same time, Sinhala Buddhistism continues to be the main mechanism in Sri 
 
 ---
 
-### නුවරඑලිය සතොසින් බලෙන් බඩු බෙදයි
+### Sathosins in Nuwara Eliya distributes
 
 *2024-03-05 10:57:01* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑලිය-සතොසින්-බලෙන්-බඩු-බෙදයි/11-408433) · `si`
 
-ගැබිනි මව්වරුන්ට හා අඩු ආදායම්ලාභී කිරි දෙන මව්වරුන් සඳහා ප්‍රාදේශීය ලේකම් කාර්යාලය හරහා රජයෙන් ලබාදෙන පෝෂණ මල්ල සදහා භාණ්ඩ ලබා ගැනීමට නුවරඑළිය සතොස ශාඛාවට යන මව්වරුන්ට භාවිතයට නොසුදුසු රුපියල් පන්සියයක් වටිනා බිස්කට් පැකට් අනිවාර්යෙන් මිලදී ගත යුතු බව පවසා බලහත්කාරයෙන් බිලට එකතු කරන බව භාණ්ඩ මිල දි ගැනිමට පැමිණෙන ගැබිනි මව්වරුන් චෝදනා කර සිටිති.
+Sathosins in Nuwara Eliya provides nutritional vouchers to pregnant mothers, but some accuse the program of not addressing their needs. Prageeth Dhananssuriya, Nuwara Eliya Divisional Secretary, promises to investigate and inform the institution heads. The local secretary clarifies that the project is designed to support nutritional deficiencies, not just for feeding, and assures immediate action against misconceptions.
 
-මේ සම්බන්ධයෙන් අප නුවරඑළිය ප්‍රාදේශීය ලේකම් ප්‍රගීත් ධනංසූරිය මහතාගෙන් කළ විමසමකට ඔහු කියා සිටියේ මේ පිළිබඳ සොයා බලා වගකිය යුතු ආයතන ප්‍රධානීන් දැනුවත් කිරීමට කටයුතු කරන බවයි.
+🟩
 
-ගැබිනි මව්වරුන්ට සහ අඩු ආදායම්ලාභී කිරිදෙන මවුවරුන් සඳහා රජයෙන් පෝෂණ මල්ලක් ලබාදෙන්නේ ඔවුන්ගේ පෝෂණ ඌනතාවයන් සැපිරිමට බවත්, එම වවුචරයෙන් ලබා ගැනිමට හැක්කේ පෝෂණයට අවශ්‍යතාවයන්ට අවශ්‍ය ආහාර ද්‍රව්‍ය පමණක් බවයි.
+Pregnant the Nuwara Eliya Sathosa Branch is to be purchased for the Mother of the Nuwara Eliya and the Divisional Secretariat for Pregnancy Mother and the Divisional Secretariat is to be purchased by the Divisional Secretariat.Mothers have accused.
 
-...
+Asked by the Nuwara Eliya Divisional Secretary Prageeth Dhananssuriya, he said he would look into the matter and inform the heads of the institution.
+
+Pregnant mothers and a bank is provided with nutritional deficiencies that provide their nutritional deficiencies and that the voucher is only food for the need for feeding.
+
+The local secretary added that if the pregnant women and milk mothers accused, it is a misconception that the project is provided and the project will be promptly and will take immediate action.
+
+◼️
 
 [Data](articles/8c8d21cd.json)
+
+[Extended Data](ext_articles/8c8d21cd.ext.json)
 
 ---
 
@@ -2161,21 +2197,5 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 [Data](articles/9e282cf1.json)
 
 [Extended Data](ext_articles/9e282cf1.ext.json)
-
----
-
-### Policymakers and academics have long rejected the quantity theory of money
-
-*2024-03-04 23:04:42* · [`dailyftlk`](https://www.ft.lk/columns/Policymakers-and-academics-have-long-rejected-the-quantity-theory-of-money/4-759152) · `en`
-
-Many modern quantity theorists accept that central banks do not target and control the cash base, but rather set interest rates leaving the market to determine the quantity of cash put into the system. They argue, however, that in setting interest rates central banks can, and do, target the money stock with a view to controlling inflation. Critics of the modern quantity theory of money have long argued that the money stock depends on loans, i.e., when a commercial bank makes a loan they debit the account of the entity they are lending to, and when commercial banks need cash to meet reserve requirements the central bank has to accommodate this demand
-
-The modern quantity theory of money is basically an explanation of inflation (and the external balance) by an increase in the quantity of money held by the public, the ‘money stock’ that is due to an increase in the cash injected into the system by the central bank of a country (an increase in the ‘cash base’ of the system).
-
-...
-
-[Data](articles/74aec73f.json)
-
-[Extended Data](ext_articles/74aec73f.ext.json)
 
 ---

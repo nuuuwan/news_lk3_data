@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 11:02:46**
+As of **2024-03-05 11:17:34**
 
 ## Newspaper Stats
 
-*Scraped **10,937** Articles*
+*Scraped **10,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 926
-adaderanalk | 1,330
+adaderanalk | 1,331
 tamilmirrorlk | 1,334
 virakesarilk | 1,463
-dailymirrorlk | 1,668
+dailymirrorlk | 1,670
 adaderanasinhalalk | 1,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,931 (99.9%) of 10,937 articles have been extended.
+10,937 (100.0%) of 10,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### Deadline for submission of bids for SriLankan extended
+
+*2024-03-05 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97738/deadline-for-submission-of-bids-for-srilankan-extended) · `en`
+
+The deadline for submission of bids for SriLankan Airlines has been extended by 45 days, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
+
+The live auction to choose an investor for the divestment of SriLankan Airlines was scheduled to take place today (March 05).
+
+◼️
+
+[Data](articles/3b75c4b1.json)
+
+---
 
 ### Bid closing date for SriLankan extended - Minister
 
@@ -42,59 +56,127 @@ The deadline for submission of bids for the divestment of SriLankan Airlines has
 
 [Data](articles/68d39d98.json)
 
+[Extended Data](ext_articles/68d39d98.ext.json)
+
 ---
 
-### ශ්‍රීලන්කන් ලංසු කැඳවීම ගැන නිවේදනයක්
+### SLANKAN call for bids
 
 *2024-03-05 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194148) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙළ සඳහා සුදුසු ආයෝජකයෙකු තෝරා ගැනීම සඳහා ලංසු කැඳවීමේ කාලය තවත් දීර්ඝ කර තිබේ.
+SLANKAN extends bidding for investor selection in its restructuring program, postponed by 45 days by Minister Nimal Siripala de Silva.
 
-ඒ අනුව එය අද දින සිදුකිරීම නියමිතව තිබූ ලංසු කැඳවීම දින 45කින් කල්දැමීමට සිදුවන බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+🟩
+
+Bids have been extended to select a suitable investor for the restructuring program for the restructuring program.
+
+Accordingly, Minister of Ports, Naval and Aviation Minister Nimal Siripala de Silva said that it would be postponed for 45 days.
 
 ◼️
 
 [Data](articles/5c11c9a2.json)
 
+[Extended Data](ext_articles/5c11c9a2.ext.json)
+
 ---
 
-### நிகழ்நிலை, பயங்கரவாத எதிர்ப்பு சட்டமூலங்களை மீள்பரிசீலியுங்கள் - ஐ.நா மனித உரிமைகள் பேரவை அமர்வில் ஐரோப்பிய ஒன்றியம் வலியுறுத்தல்
+### Repeat the Funeral and Anti -Terrorism Bill - the EU urges the UN Human Rights Council session
 
 *2024-03-05 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177926) · `ta`
 
-உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு தொடர்பில் சட்டத்தை உருவாக்க முன்னர் பாதிக்கப்பட்ட சமூகங்கள் மத்தியில் நம்பிக்கையைக் கட்டியெழுப்பக்கூடியவாறான செயன்முறையொன்றைப் பின்பற்றவேண்டியது அவசியமென ஐ.நா மனித உரிமைகள் பேரவையின் 55 ஆவது கூட்டத்தொடரில் சுட்டிக்காட்டியிருக்கும் பிரிட்டன் தலைமையிலான இணையனுசரணை நாடுகள், எதிர்வருங்காலங்களில் ஸ்தாபிக்கப்படக்கூடிய எந்தவொரு ஆணைக்குழுவும் நிலைமாறுகால நீதிப்பொறிமுறையைக் கட்டியெழுப்பும் அதேவேளை, பொறுப்புக்கூறலுக்கான பாதையை வகுத்தளிக்கக்கூடியதாகவும் இருக்கவேண்டும் என வலியுறுத்தியிருக்கின்றன.
+The EU urges the UN Human Rights Council to follow a process involving affected communities before creating laws for the Truth, Unity, and Reconciliation Commission. The 55th session began in Geneva on Feb 26, with discussions on Sri Lanka's human rights, including concerns over the Sustainability Act and the Terrorism Act. The UK's International Ambassador to Human Rights, Rita French, addressed the issue, highlighting the need for amendments to protect human rights. The government's efforts to establish a truth, unity, and reconciliation commission are welcomed, but it's crucial to include all stakeholders in the process.
+
+🟩
+
+The British -led internet -led internet -led government, which is in charge of the UN Human Rights Council (UNHRC), is required to follow a process that is required to follow a procedure that can be constructed by the affected communities before the creation of the law on the Truth, Unity and Reconciliation Commission. Have been stressed.
+
+The 55th session of the United Nations Human Rights Council commenced in Geneva on February 26. Although it was already announced that the verbal report of the High Commission on Sri Lanka's Human Rights and Liability Level on Monday (4), the United Nations Human Rights High Commissioner Volcker Turku was read last Friday (1) (1).. In addition, the report of the High Commissioner on Sri Lanka was responded to the United Nations Permanent Resident Fund Himali Arunathilaka for the United Nations.
 
 ...
 
 [Data](articles/0179d137.json)
 
+[Extended Data](ext_articles/0179d137.ext.json)
+
 ---
 
-### தகவல் உரிமைச் சட்டத்தை சமூக மாற்றத்திற்கான ஆயுதமாகப் பயன்படுத்தும் சாதாரண கிராமப் பெண்
+### Ordinary rural woman
 
 *2024-03-05 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177919) · `ta`
 
-முல்லைத்தீவு மாவட்டம் புதுக்குடியிருப்பைச் சேர்ந்த 46 வயதான சாதாரண ஒரு கிராமப் பெண் தகவலறியும் உரிமைச் சட்டத்தை சமூக மாற்றத்திற்கான ஆயுதமாகப் பயன்படுத்தி தவறிழைக்கும் அதிகாரிகளை நேர்ப்படுத்தும் செயற்பாட்டில் ஈடுபட்டு வருகின்றார்.
+A 46-year-old rural woman in Sri Lanka uses the Right to Information Act to combat social injustices, despite low public awareness. She's tackled issues in various departments, including fraud and mismanagement, using the Act to ensure transparency and accountability.
 
-அநீதிகளும் மோசடிகளும் தலைவிரித்தாடும் உலகில் வாழ்ந்து வரும் எமக்கு, அரச திணைக்களங்களின் தன்னிச்சையான மற்றும் உண்மைக்குப் புறம்பான செயற்பாடுகளைத் தட்டிக் கேட்கவும், அவற்றுக்கு எதிராக நடவடிக்கை எடுக்கவும் கிடைத்திருக்கும் ஆயுதமே தகவலறியும் உரிமைச் சட்டம். இன்று அரச அதிகாரிகள் மக்களை மதிப்பதில்லை என்ற பாரிய குற்றச்சாட்டு முன்வைக்கப்படுகிறது. அதுவும் பாமர மக்கள் உதாசீனம் செய்யப்படுகின்றனர். மக்களுடைய பலவீனத்தைப் பயன்படுத்தி தவறிழைக்கும் அதிகாரிகள் ஏராளம். மக்களின் வரிப்பணத்தில் ஊதியம் பெறும் மக்கள் சேவகர்களை மக்களே தமது கட்டுக்குள் வைத்திருக்கக்கூடிய விதத்தில் அமையப்பெற்ற சட்டமே இந்த தகவலறியும் உரிமைச் சட்டம்.நேர்மையான அதிகாரிகள் இந்த சட்டத்திற்கு அஞ்சத்தேவையில்லை.
+🟩
+
+A 46 -year -old rural woman from Pudukkudiyiruppu in Mullaitivu district is engaged in the process of using the right to social change as a weapon for social change.
+
+The Right to Information Act is the weapon that we live in the world of injustice, frauds and headlines, the arbitrary and untrue activities of the State Department.. Today there is a massive allegation that state officials do not respect the people. That too is being ignored by the laity people. A large number of officers who fail to use the weakness of the people. The Right to Information Act is a law that can be kept in control of the people who pay the people's taxpayers.
+
+The Right to Information Act, which is to be accessed by the public in Sri Lanka, has been introduced in Parliament on June 24, 2016 and has been implemented on February 3, 2017.
+
+Seven years have passed since the Right to Information Act in Sri Lanka, but the public is not aware of the law.
 
 ...
 
 [Data](articles/f8e4d584.json)
 
+[Extended Data](ext_articles/f8e4d584.ext.json)
+
 ---
 
-### பசில் நாட்டுக்கு வருகை !
+### Sri Lanka reveal likely T20 World Cup selection plan
+
+*2024-03-05 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reveal-likely-T20-World-Cup-selection-plan/108-278266) · `en`
+
+Mar. 5 (ICC) - The island nation looks set to give the nod to experienced players when deciding on their squad of 15 for the June event.
+
+Chief selector Upul Tharanga has revealed Sri Lanka will favour experience over youth when deciding who will represent the side at this year's ICC Men's T20 World Cup.
+
+The 2014 T20 World Cup champions caused a shock recently when they recalled experienced wicket-keeper-batter Niroshan Dickwella for their ongoing T20I series with Bangladesh and Tharanga indicated this would be the norm ahead of this year's 20-over showcase in the USA and Caribean in June.
+
+It means the likes of left-arm spinner Dunith Wellalage and fellow youngsters Vijayakanth Viyaskanth and Shevon Daniel may have to bide their time and wait for further opportunities at the top level according to Tharanga.
+
+"In T20s we need a wicket-taking option, which is why we opted for Jeffrey (Vandersay) over someone like Dunith (Wellalage)," Tharanga said.
+
+...
+
+[Data](articles/2efbd9cc.json)
+
+---
+
+### Basil Rajapaksa returns; intends to lead SLPP campaign
+
+*2024-03-05 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basil-Rajapaksa-returns-intends-to-lead-SLPP-campaign/108-278265) · `en`
+
+Colombo, March 5 (Daily Mirror) - Former Finance Minister and Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa arrived in Sri Lanka from the USA this morning.
+
+A group of Sri Lanka Podujana Peramuna (SLPP) members including party General Secretary Sagara Kariyawasam, MP Sarath Weerasekera and Minister Prasanna Ranatunga were at the airport to welcome him.
+
+He told the media at the airport that he intends to lead the SLPP's preparations for the upcoming elections.
+
+◼️
+
+[Data](articles/4384c4c1.json)
+
+---
+
+### Visit Basil Country!
 
 *2024-03-05 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177923) · `ta`
 
-பொதுஜன பெரமுனவின் ஸ்தாபகரும் முன்னாள் நிதி அமைச்சருமான பசில் ராஜபக்ஷ இன்று செவ்வாய்க்கிழமை (05) காலை நாட்டுக்கு வருகை தந்துள்ளார்.
+Basil Rajapaksa, founder of the PA and former Finance Minister, visited Basil Country on Tuesday, welcomed by SLPP members at Katunayake Bandaranaike International Airport.
 
-பசில் ராஜபக்ஷவை வரவேற்க ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) உறுப்பினர்கள் குழுவொன்று கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்திற்கு சென்றுள்ளது.
+🟩
+
+Basil Rajapaksa, the founder of the PA and former Finance Minister, visited the country on Tuesday morning.
+
+A group of members of the Sri Lanka PA (SLPP) has visited Katunayake Bandaranaike International Airport to welcome Basil Rajapaksa.
 
 ◼️
 
 [Data](articles/2c44fbe4.json)
+
+[Extended Data](ext_articles/2c44fbe4.ext.json)
 
 ---
 
@@ -2052,21 +2134,27 @@ He made these comments while joining the national programme held today at Dharma
 
 ---
 
-### අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කර ගැනීමට අමාත්‍යාංශයෙන් ලිපි නෑ
+### The Ministry does not include letters to the intermediary series
 
 *2024-03-04 20:01:38* · [`adalk`](https://www.ada.lk/breaking_news/අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කර-ගැනීමට-අමාත්‍යාංශයෙන්-ලිපි-නෑ/11-408423) · `si`
 
-අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ ලිපි අධ්‍යාපන අමාත්‍යාංශය මඟින් නිකුත් නොකරන බව අධ්‍යාපන අමාත්‍යාංශය දැනුම් දෙයි.
+The Ministry of Education will not include letters for the intermediary series, but will notify schools to include students in 2024. If principals are vacant, they will be interviewed by the Ministry for approval. The Ministry will also inform schools about internal grades.
 
-ඒ අනුව 2024 වර්ෂයේ අතරමැදි පන්ති සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු බවද අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+🟩
 
-පාසල්වල පුරප්පාඩු පවතී නම් විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛ ප‍‍්‍රකාර ව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කරනු ඇතැයිද අමාත්‍යාංශය පවසයි.
+The Ministry of Education notices the relevant letters to include students for intermediate series.
 
-තව ද අතරමැදි ශ්‍රේණි සඳහා ළමුන් ඇතුළත් කිරීමට අදාළ ඉල්ලීම්  සඳහා අධ්‍යාපන අමාත්‍යාංශයට නොපැමිණෙන ලෙසට අමාත්‍යාංශය වැඩිදුරටත් දන්වා සිටියි.
+Accordingly, applications for the include students to include students in 2024 should be forwarded to schools.
+
+If the principals remain vacant to schools, the principals will be interviewed by the Ministry of Education to the Ministry of Education for approval.
+
+Moreover, the Ministry of Education further will inform the Ministry of Education for requests relating to the internal grades.
 
 ◼️
 
 [Data](articles/f7e7af66.json)
+
+[Extended Data](ext_articles/f7e7af66.ext.json)
 
 ---
 
@@ -2113,79 +2201,5 @@ The hospital director said that the Health Minister has been allocated to the Mi
 [Data](articles/ab9e42d7.json)
 
 [Extended Data](ext_articles/ab9e42d7.ext.json)
-
----
-
-### Parliament has passed 42 new laws within 14 months: President
-
-*2024-03-04 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-has-passed-42-new-laws-within-14-months-President/108-278217) · `en`
-
-Colombo, March 4 (PMD) - President Ranil Wickremesinghe announced that Parliament has passed 42 new laws during the past 14 months, aimed at facilitating the economic transformation of the country, the Presidential Media Division (PMD) said.
-
-He emphasized the importance of passing an additional 62 laws to further this transformation, indicating that if not achieved in the current session, they will be reintroduced in subsequent sessions.
-
-These statements were made during his keynote address at the "What's New" dialogue on Legal Reforms, a project initiated by the Presidential Secretariat under his guidance.
-
-The event, held at the BMICH, aimed to engage young legal professionals and recognize the significance of their perspectives in shaping new legal reforms.
-
-◼️
-
-[Data](articles/767bb82f.json)
-
-[Extended Data](ext_articles/767bb82f.ext.json)
-
----
-
-### Do not send schools at least to pass the exam
-
-*2024-03-04 19:45:53* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-සමත්-කරවීමේ-අරමුණින්-පමණක්-දරුවන්-පාසල්-යවන්න-එපා/11-408420) · `si`
-
-Educational reforms aim to focus on education's objectives and talents, not just passing exams. The Ministry of Education introduced English speaking and listening skills programs in all schools, starting with first graders. Training for primary teachers has been implemented. The Minister criticized the moral level of exam papers and plans to prevent such issues in the future, emphasizing knowledge assessment over weight.
-
-🟩
-
-The proposed educational reforms say that the objectives of education and talents are objectives of education and talents should not be sent to schools to pass a competitive background.
-
-The Minister made these comments participating at the National Program held at Dharmasoka Vidyalaya, Maharagama today to introduce the program to the first grade 2024.
-
-The Ministry of Education has introduced the activities based on English speaking and listening skills in all schools in the island, and the introduction of the program to the first grade of this year.
-
-Although English is taught from third grade to schools as a formal language, the English speaking skills have been identified as a timely requirement and add children with updates and improvement in the future educational restoration process.The Minister pointed out that there was.
-
-The Ministry of Education has implemented training programs to prepare the primary teachers on grades 1 and 2 and have already trained and has already been trained.
-
-...
-
-[Data](articles/ce9c4d1d.json)
-
-[Extended Data](ext_articles/ce9c4d1d.ext.json)
-
----
-
-### There is the present government next year
-
-*2024-03-04 19:27:01* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-වසරේත්-රටේ-තිබෙන්නේ-වත්මන්-ආණ්ඩුවමයි/11-408419) · `si`
-
-President Ranil Wickremesinghe announced government presence in villages next year, focusing on development after two years. The meeting, organized by Minister Prasanna Ranatunga, highlighted the need for decentralization and direct engagement with villagers.
-
-🟩
-
-President Ranil Wickremesinghe says that the government is present to the village next year.
-
-As a result, the President is also asking for the development of development after two years.
-
-The President made this observation at a meeting held at the Presidential Secretariat today (04) regarding the development activities in the Gampaha District.. The meeting was organized by Minister Prasanna Ranatunga.
-
-The meeting was a significant specialty to the meeting.
-
-Members of the government and supporting the government except for State Minister Indika Anuruddha were present. The meeting was not attended by MPs Sisira Jayakody and Milan Jayatilleke.
-
-"In 1978 MPs began decentralized. Then a MP had to work for Rs.. Need money to improve a village. In particular, start this work in their own area. The only objective here is to go to the village level. If we were not able to go then, now a good opportunity to go to the village.
-
-...
-
-[Data](articles/e0f02e6d.json)
-
-[Extended Data](ext_articles/e0f02e6d.ext.json)
 
 ---

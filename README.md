@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 23:52:08**
+As of **2024-03-06 00:03:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,085 (99.9%) of 11,093 articles have been extended.
+11,093 (100.0%) of 11,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,8 @@ The biggest outage Meta experienced was in 2021, when founder Mark Zuckerberg ap
 
 [Data](articles/96593f6f.json)
 
+[Extended Data](ext_articles/96593f6f.ext.json)
+
 ---
 
 ### UN team finds evidence of sexual violence by Hamas since Oct. 7
@@ -71,6 +73,8 @@ The team reviewed more than 5,000 photos and 50 hours of footage of the attacks,
 ...
 
 [Data](articles/e9cc8e99.json)
+
+[Extended Data](ext_articles/e9cc8e99.ext.json)
 
 ---
 
@@ -1210,6 +1214,8 @@ The PPP would be on a build operate transfer basis. (Colombo/Mar05/2024)
 
 [Data](articles/d4bd67e9.json)
 
+[Extended Data](ext_articles/d4bd67e9.ext.json)
+
 ---
 
 ### Sri Lanka stocks close near thee-month high in high turnover
@@ -1231,6 +1237,8 @@ Expolanka on Holdings Plc announced a trading suspension following Friday’s an
 ...
 
 [Data](articles/5232dc3e.json)
+
+[Extended Data](ext_articles/5232dc3e.ext.json)
 
 ---
 
@@ -1344,6 +1352,8 @@ A bond maturing on 15.09.2027 closed at 11.85/95 percent, down from 11.90/12.05 
 
 [Data](articles/02976efb.json)
 
+[Extended Data](ext_articles/02976efb.ext.json)
+
 ---
 
 ### AKD’s visit to India was on routine invitation: high commissioner to Sri Lanka
@@ -1359,6 +1369,8 @@ The high commissioner told EconomyNext on the sidelines of an event in Colombo o
 ...
 
 [Data](articles/63626233.json)
+
+[Extended Data](ext_articles/63626233.ext.json)
 
 ---
 
@@ -1999,6 +2011,8 @@ Senior central bankers were summoned to the Cabinet of Ministers.
 ...
 
 [Data](articles/c9662991.json)
+
+[Extended Data](ext_articles/c9662991.ext.json)
 
 ---
 

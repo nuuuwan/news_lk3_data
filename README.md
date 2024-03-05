@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 09:02:50**
+As of **2024-03-05 09:17:36**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 1,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,906 (100.0%) of 10,908 articles have been extended.
+10,908 (100.0%) of 10,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### கூகுள் ’மப்’பைநம்பி அலரி மாளிகைக்குள் சென்ற இருவர் கைது
+### Two persons arrested in Google
 
 *2024-03-05 08:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மப்-பைநம்பி-அலரி-மாளிகைக்குள்-சென்ற-இருவர்-கைது/175-334212) · `ta`
 
-கூகுள் வரைபடத்தில் உள்ள வழிமுறைகளைப் பின்பற்றி, கொழும்பு அலரிமாளிகை வளாகத்திற்குள் தவறுதலாக அத்துமீறி நுழைந்த இருவருக்கு, கோட்டை நீதவான் பிணை வழங்கியுள்ளார்.
+Two men mistakenly entered the Colombo Allevalli Complex, guided by Google Maps, and were arrested by the Prime Minister's Security Division. They were trying to return to a shelter on Muharnda Road but ended up in the Alarm Galleus.
 
-இச்சம்பவத்தைத் தொடர்ந்து மென் பொறியியலாளர் மற்றும் கடலோடி ஆகிய இருவரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இருவரும் கொள்ளுப்பிட்டியில் உள்ள இரவு விடுதிக்கு சென்று மது அருந்தியதாகவும் முஹந்திரம் வீதியில் உள்ள தங்குமிடத்திற்கு திரும்ப முயற்சித்ததாகவும் கூகுள் வரைபடத்தை நம்பியிருந்ததாகவும் கூறப்படுகிறது.
+Following the instructions on the Google Map, the Fort Magistrate has granted bail to two men who have mistakenly crossed the Colombo Allevalli Complex.
 
-இருப்பினும், வழிகாட்டுதல்கள் அவர்களை அலரி மாளிகையின் சுற்றுச்சுவருக்கு அருகில் ஒரு முட்டுச்சந்திற்கு செல்ல வழிகாட்டியுள்ளது. தங்கள் வழியைக் கண்டுபிடிக்கும் முயற்சியில், அவர்கள் சுவரைக் கடந்து அலட்சியமாக அலரிமாளிகை வளாகத்திற்குள் நுழைந்தனர்.
+Following the incident, police said that the men and the sea were arrested.
 
-இதன்போது, ​​பிரதமரின் பாதுகாப்பு பிரிவின் அதிகாரிகள் குறித்த இருவரையும் கைது செய்து கொள்ளுப்பிட்டி பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+It is said that the two had gone to the night hotel in Kalupitiya and tried to return to the shelter on Muharndra Road and relied on the Google map.
+
+However, the guidelines have guided them to go to a barrier near the roundabout of the Alary House. In an attempt to find their way, they crossed the wall and indifferently entered the Alarm Galleus.
+
+Meanwhile, the two persons of the Prime Minister's Security Division have arrested the two men and handed over to the Kaluppitti police.
 
 ◼️
 
 [Data](articles/3771ede8.json)
+
+[Extended Data](ext_articles/3771ede8.ext.json)
 
 ---
 
@@ -137,6 +143,8 @@ Winds will be easterly to north-easterly in the sea areas off the coast extendin
 ◼️
 
 [Data](articles/0cbf7b77.json)
+
+[Extended Data](ext_articles/0cbf7b77.ext.json)
 
 ---
 
@@ -1162,7 +1170,7 @@ The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices wit
 
 Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 456) has been reduce by Rs. 9, and its new retail price will be Rs. 447.
 
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 468) has been increased by Rs. 10, and its new retail price will be Rs. 458.
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 468) has been reduced by Rs. 10, and its new retail price will be Rs. 458.
 
 A litre of Lanka Kerosene (Rs. 262) has been reduced by Rs. 5, and its new retail price will be Rs. 257.
 

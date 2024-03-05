@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 01:50:59**
+As of **2024-03-06 02:17:47**
 
 ## Newspaper Stats
 
-*Scraped **11,105** Articles*
+*Scraped **11,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 593
 adalk | 936
 tamilmirrorlk | 1,348
 adaderanalk | 1,354
-virakesarilk | 1,502
+virakesarilk | 1,503
 dailymirrorlk | 1,695
 adaderanasinhalalk | 1,735
 
@@ -26,23 +26,59 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,102 (100.0%) of 11,105 articles have been extended.
+11,106 (100.0%) of 11,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### பொருளாதார பாதிப்பு காரணமாக குழந்தை பெற்றுக்கொள்வதை தவிர்த்துள்ள தம்பதிகள் – 2023 ஆம் ஆண்டு இலங்கை  சனத்தொகையில் பாரிய வீழ்ச்சி
+### Air Force Commander Udni Rajapaksa
+
+*2024-03-06 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178019) · `ta`
+
+Air Mashal Udni Rajapakse, Sri Lanka Air Force Commander, announced a ceremony to unite North and South in Jaffna on the 73rd anniversary of the Air Force. The event marks the Air Force's growth from six officers to over 20 regional branches and 73 industrial areas. It includes educational and social service programs, with 73 schools in the Northern Province receiving Rs 100 million, 73,000 Tamil English books, and 73,000 saplings. Rajapakse emphasizes the importance of unity and socio-economic development.
+
+🟩
+
+Sri Lanka Air Force Commander Air Mashal Udni Rajapakse said that the ceremony to connect the North and the South in the Jaffna courtyard on the 73rd anniversary of the Sri Lanka Air Force.
+
+This was stated in a statement sent to the media regarding the 73rd anniversary of the Sri Lanka Air Force to be held in Jaffna.
+
+He added that I am proud to have passed the 73 -year history of the Sri Lankan Air Force. Our Air Force, which started as Royal Air Force, had six officers and 24 other officers.
+
+We currently have about 20 regional branches and more than 73 industrial areas.
+
+We are making arrangements to honor the 73rd anniversary of educational and social service programs.
+
+With the approval of the Ministry of Education, 73 schools selected in the Northern Province will be planted at a cost of Rs 100 million, 73 thousand Tamil English books and 73 thousand saplings under the program of my book to the North.
+
+...
+
+[Data](articles/8f3f2d23.json)
+
+[Extended Data](ext_articles/8f3f2d23.ext.json)
+
+---
+
+### Couples who have avoided childbirth due to economic damage
 
 *2024-03-06 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178018) · `ta`
 
-பல்வேறு காரணங்களுக்காக 2023 ஆம் ஆண்டு நாட்டின் சனத்தொகையில் பாரிய வீழ்ச்சி ஏற்பட்டுள்ளதாக தொகை மதிப்பு புள்ளி விபர திணைக்களம் தெரிவித்துள்ளது. 2022 ஆம் ஆண்டுடன் ஒப்பிடும் போது இது வீழ்ச்சியை நோக்கி சென்றுள்ளதாக புள்ளி விபரங்கள் தெரிவிக்கின்றன. அதாவது 2022 ஆம் ஆண்டை விட 2023 ஆம் ஆண்டு சனத்தொகையானது 144,395 ஆல் வீழ்ச்சியடைந்துள்ளது. இதற்கு இறப்பு வீத அதிகரிப்பு மற்றும் சிசு மரண வீதங்கள் காரணங்களாக காட்டப்பட்டாலும் பொருளாதார நெருக்கடி மிகப்பிரதான உள்ளதை அறியக்கூடியதாகவுள்ளது.
+In 2023, Sri Lanka's population fell by 144,395 from 2022, partly due to economic crisis, leading to fewer marriages and childbirths. The number of Sri Lankans migrating abroad increased from 85,572 in 2022 to 222,715 in 2023. The annual death rate rose from 125,334 in 2014 to 190,600 in 2023, partly due to COVID-19 effects. Economic burdens and concerns about job safety have led many newlyweds to delay or avoid childbirth.
 
-அதாவது கொரோனாவுக்குப் பிறகு 2021,2022,2023 ஆம் ஆண்டுகளில் திருமணம் முடித்தவர்கள் குழந்தைப் பேற்றை பிற்போட்டுள்ளதாக புள்ளி விபரங்கள் தெரிவிக்கின்றன. அதே வேளை பொருளாதார நெருக்கடி காரணமாக நாட்டை விட்டு வெளியேறியோர் கடந்த வருடம் அதிகரித்துள்ளமையும் சுட்டிக்காட்டப்பட்டுள்ளது. சிலர் தொழில் தேடி சென்றுள்ள அதே வேளை பலர் நாட்டை விட்டே புலம்பெயர்ந்துள்ளனர்.
+🟩
+
+For various reasons, the country's population has fallen in 2023, according to the Department of Value Statistics. Statistics show that this has moved towards the fall compared to 2022. This means that the population of 2023 has fallen by 144,395 over 2022. Although the death rate increase and infant death rate, the economic crisis is very popular.
+
+Statistics show that those who married the child in the aftermath of Corona on 2021,2022,2023. At the same time, people who left the country have been pointed out that the economic crisis has increased last year. While some have gone to work, many have migrated to the country.
+
+The impact has increased by 2023, based on statistics taken since 2014. 85,572 Sri Lankans went abroad in 2022 due to economic crises. But in the next 2023, the amount increased to 222,715.
 
 ...
 
 [Data](articles/9d1f2213.json)
+
+[Extended Data](ext_articles/9d1f2213.ext.json)
 
 ---
 
@@ -62,6 +98,8 @@ Sri Lanka ranks a high 43 in Global Militarisation Index and a low 83 in Social 
 
 [Data](articles/22326897.json)
 
+[Extended Data](ext_articles/22326897.ext.json)
+
 ---
 
 ### Adani wind project in Mannar and ecological threats
@@ -79,6 +117,8 @@ Meeting the growing electric power demand presents Sri Lanka with challenging op
 ...
 
 [Data](articles/8a2c57aa.json)
+
+[Extended Data](ext_articles/8a2c57aa.ext.json)
 
 ---
 
@@ -2243,25 +2283,5 @@ Senior central bankers were summoned to the Cabinet of Ministers.
 [Data](articles/c9662991.json)
 
 [Extended Data](ext_articles/c9662991.ext.json)
-
----
-
-### Sri Lanka Team starts new initiative: recognizes on-field performances
-
-*2024-03-05 15:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Team-starts-new-initiative-recognizes-on-field-performances/108-278276) · `en`
-
-Mar. 5 (SLC) - As part of a new initiative by the national team to recognize ‘on-field excellence,’ Charith Asalanka was awarded the ‘Orange Cap and the Coin’ by the team for his excellent fielding efforts during yesterday’s game against Bangladesh.
-
-Asalanka, apart from his batting heroics, held onto three catches, two of them coming at the most crucial moment in Sri Lanka’s winning cause.
-
-Upul Chandana, the team's fielding coach, awarded the 'Orange Cap and the Coin' to Asalanka.
-
-This latest move, the team management believes, will encourage players to perform at the highest level, and it intends to expand the recognition into other areas such as ‘bowling and batting, as well.
-
-◼️
-
-[Data](articles/dbbe23ce.json)
-
-[Extended Data](ext_articles/dbbe23ce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 17:53:32**
+As of **2024-03-05 18:09:34**
 
 ## Newspaper Stats
 
-*Scraped **11,029** Articles*
+*Scraped **11,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 933
-tamilmirrorlk | 1,343
+tamilmirrorlk | 1,344
 adaderanalk | 1,344
-virakesarilk | 1,484
+virakesarilk | 1,487
 dailymirrorlk | 1,680
 adaderanasinhalalk | 1,725
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 1,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,022 (99.9%) of 11,029 articles have been extended.
+11,022 (99.9%) of 11,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### கொழும்பில் நீர்த்தாரை பிரயோகம்
+
+*2024-03-05 17:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நீர்த்தாரை-பிரயோகம்/175-334240) · `ta`
+
+கொழும்பு பல்கலைக்கழக மாணவர் சங்கங்கள் நடத்திய போராட்டத்தின் மீது பொலிஸார் கண்ணீர் புகை குண்டுகளை வீசியுள்ளனர்.
+
+கொழும்பில் உள்ள விளையாட்டு அமைச்சுக்கு முன்பாக கண்ணீர் புகை மற்றும் நீர் தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d93838ce.json)
+
+---
+
+### பல்கலைக்கழக மாணவர் ஒன்றிய ஆர்ப்பாட்டத்தில் பொலிஸார் கண்ணீர்ப்புகை, நீர்த்தாரை பிரயோகம்!
+
+*2024-03-05 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177996) · `ta`
+
+கொழும்பு பல்கலைக்கழகத்துக்கு  அருகில் ஆர்ப்பாட்டத்தில் ஈடுபட்ட மாணவர்களை கலைக்க பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரைகளை பிரயோகித்துள்ளனர்.
+
+பல்கலைக்கழக மாணவர் ஒன்றியம் முன்னெடுத்துள்ள ஆர்ப்பாட்ட பேரணி காரணமாக அப்பகுதியில் கடும் போக்குவரத்து நெரிசல் ஏற்பட்டுள்ளதாக  தெரிவிக்கப்படுகிறது.
+
+இதேவேளை, பல்கலைக்கழக மாணவர்கள் குழுவொன்றின் போராட்டம் காரணமாக கொழும்பு பல்கலைக்கழகத்துக்கு  முன்பாக உள்ள வீதி போக்குவரத்துக்கு மூடப்பட்டுள்ளதாக முன்னதாக தெரிவிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/cf6c8b61.json)
+
+---
+
+### சபாநாயகரின் உத்தியோகபூர்வ இல்லத்துக்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் விடுவித்து விடுதலை!
+
+*2024-03-05 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177994) · `ta`
+
+பத்தரமுல்லை பொல்துவ சந்திக்கு அருகில் உள்ள சபாநாயகரின் உத்தியோகபூர்வ இல்லத்துக்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டமைக்காக தலங்கம பொலிஸாரால் கைது செய்யப்பட்ட 13 பேரையும் கடுவெல நீதிமன்றில் ஆஜர்படுத்தியபோது அவர்களை விடுவித்து விடுதலை செய்யுமாறு கடுவெல நீதிவான் சனிமா விஜயபண்டார இன்று (05) உத்தரவிட்டார்.
+
+கடந்த 2022 ஆம் ஆண்டு மே மாதம் 4 ஆம் திகதி அல்லது அதனை அண்மித்த நாளில் இடம்பெற்ற போராட்டத்தின்போது நாட்டின் நிலைமை குறித்து சபாநாயகருக்கு அறிவிக்கச் சென்ற 13 சமூக ஆர்வலர்கள்  தலங்கம பொலிஸாரால் கைது செய்யப்பட்டு  மஹரகம பொலிஸ் காவலில் வைக்கப்பட்டு பின்னர்  கடுவலை நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டனர்.
+
+இவர்களுக்கு எதிராக  ஒழுங்கமைக்கப்பட்ட குழுவை  உருவாக்குதல்,  பொலிஸாருக்கும் பொதுமக்களுக்கும் இடையூறு விளைவித்தல் உள்ளிட்ட பல குற்றச்சாட்டுகளின் கீழ் பொலிஸார் நீதிமன்றில் குற்றப்பத்திரிகை தாக்கல் செய்திருந்தனர்.
+
+◼️
+
+[Data](articles/cb68b837.json)
+
+---
+
+### ஜேவிபி தலைவருக்கு இந்தியா சமீபத்தில் விடுத்த அழைப்பு வழமைக்குமாறானதில்லை  - இந்திய உயர்ஸ்தானிகர்
+
+*2024-03-05 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/177993) · `ta`
+
+ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்கவிற்கு இந்தியா சமீபத்தில் விடுத்த அழைப்பு வழமையான ஒன்று ஒருநாட்டின் பிரபலமான நபர்களுக்கு விடுக்கப்படும் அழைப்பு என தெரிவித்துள்ள இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா இந்த அழைப்பு வழமைக்குமாறானது இல்லை எனவும் தெரிவித்துள்ளார்.
+
+ஏனைய நாடுகள் மற்றும் மக்களுடன் கலாச்சார பரிமாற்றத்தில் ஈடுபடுவதன் மூலம் இந்தியாவின் கலாச்சார உறவுகளில் ஈடுபட்டுள்ள இந்திய அரசாங்கத்தின் தன்னாட்சி அமைப்பான இந்திய உறவுகளுக்கான இந்திய கவுன்சிலின் வருகை திட்டத்தின் கீழ்  ஜேவிபி தலைவருக்கு அழைப்பு விடுக்கப்பட்டதாகவும்; இந்திய உயர்ஸ்தானிகர் தெரிவித்துள்ளார்.
+
+இலங்கையின் அரசியல் தலைவர் ஒருவருக்கான வழமையான அழைப்பு இது எங்களிடம் ஒரு நிகழ்;ச்சி திட்டம் உள்ளது அதன்அடிப்படையில் நாங்கள் ஏனைய நாடுகளின் வர்த்தக தலைவர்கள் அரசியல் தலைவர்கள் மதத்;தலைவர்களை இந்தியாவிற்குஅழைக்கின்றோம் எனவும் இந்திய உயர்ஸ்தானிகர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9909ede0.json)
+
+---
 
 ### සිසුවියක් අපයෝජනය කළ ස්වේච්ඡා ගුරුවරයාට සිරදඬුවම්
 
@@ -2125,85 +2187,5 @@ Subsequently, after the Uthika Premaratne, S.. C. Muthukumaran has been elected 
 [Data](articles/ef3150e1.json)
 
 [Extended Data](ext_articles/ef3150e1.ext.json)
-
----
-
-### S.C. Muthukumarana sworn in as MP
-
-*2024-03-05 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-C-Muthukumarana-sworn-in-as-MP/108-278262) · `en`
-
-Parliament, March 05 (Daily Mirror)- S.C. Muthukumarana was sworn in as a Member of Parliament before Speaker Mahinda Yapa Abeywardane a short while ago.
-
-He fills the vacancy created by the resignation of Uddika Premarathne.
-
-◼️
-
-[Data](articles/24c061f8.json)
-
-[Extended Data](ext_articles/24c061f8.ext.json)
-
----
-
-### Assault on woman: Police clarify Governor’s remarks on son’s surrender
-
-*2024-03-05 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Assault-on-woman-Police-clarify-Governors-remarks-on-sons-surrender/108-278263) · `en`
-
-Colombo, March 5 (Daily Mirror) - Despite Uva Province Governor A.J.M. Muzammil's remarks that his son had informed the police of his intention to surrender over the investigations into the alleged assault of a woman, police clarified today that neither the suspect nor the Governor has directly communicated with them regarding such a surrender.
-
-Police further said that they have not received any such communication and are conducting investigations to arrest the suspect.
-
-According to the police, a complaint was lodged with the Wellawatta Police a few days ago accusing Mohammad Isham Jamaldeen, the son of the Uva Province Governor, of allegedly assaulting a woman at an apartment in Wellawatta. The woman who was attacked was taken to the hospital for treatment, the police said.
-
-They said when the police went to arrest the suspect, he had left the vehicle he was travelling in and his mobile phone at a location in the Southern Province and fled to another area to evade the police.
-
-...
-
-[Data](articles/a59911d8.json)
-
-[Extended Data](ext_articles/a59911d8.ext.json)
-
----
-
-### AKD’s change in stance on BR’s return raises questions
-
-*2024-03-05 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AKDs-change-in-stance-on-BRs-return-raises-questions/108-278261) · `en`
-
-Colombo, March 5 (Daily Mirror) - Months ago, NPP leader Anura Kumara Dissanayake extended a friendly acknowledgement to Basil Rajapaksa in Parliament, signalling the relations between them, but his recent criticisms of Basil's re-entry into the country have left many puzzled.
-
-Political circles are abuzz with the news about the arrival of Mr. Basil Rajapaksa to the country today. Mr. Dissanayake was sarcastic about it and said all the members of the Rajapaksa family in politics had no place in Sri Lanka politics.
-
-In his address to a gathering of women supporters of the NPP, he said the Rajapaksas and their supporters would be pondering which election should be conducted first - presidential or parliamentary.
-
-“They cannot do wonders now at all. People in this country won’t accept them any longer,” he said.
-
-◼️
-
-[Data](articles/cc7e0c8f.json)
-
-[Extended Data](ext_articles/cc7e0c8f.ext.json)
-
----
-
-### S.C. Muthukumarana sworn in as Member of Parliament
-
-*2024-03-05 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97737/sc-muthukumarana-sworn-in-as-member-of-parliament) · `en`
-
-S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament today (March 05).
-
-The new MP took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off this morning.
-
-Muthukumarana, who was next in line on the SLPP list for the Anuradhapura District, was appointed to fill the MP seat left vacant after the resignation of MP Uddika Premarathne.
-
-Premarathne had tendered his resignation to the Deputy General Secretary of Parliament on February 27 for reasons yet to be made public.
-
-Later, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of Parliament informed the Election Commission’s chairman, in writing, of the vacancy in the House.
-
-Born in 1953, Muthukumarana embarked on active politics in 1977. He was elected to the Kalawewa ‘Pradeshiya Sabha’ in 1991 and was also elected to the North Central Provincial Council in 1993 and 1999.
-
-...
-
-[Data](articles/37667538.json)
-
-[Extended Data](ext_articles/37667538.ext.json)
 
 ---

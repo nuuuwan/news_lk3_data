@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 22:03:31**
+As of **2024-03-05 22:17:43**
 
 ## Newspaper Stats
 
-*Scraped **11,064** Articles*
+*Scraped **11,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 933
 tamilmirrorlk | 1,346
 adaderanalk | 1,350
 virakesarilk | 1,493
-dailymirrorlk | 1,689
-adaderanasinhalalk | 1,733
+dailymirrorlk | 1,694
+adaderanasinhalalk | 1,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,061 (100.0%) of 11,064 articles have been extended.
+11,064 (99.9%) of 11,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### බිඳවැටුණු සමාජ මාධ්‍යජාල යථා තත්ත්වයට
+
+*2024-03-05 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194181) · `si`
+
+ලොව ප්‍රධානතම සමාජ මාධ්‍ය ජාල අතර ඉදිරියෙන් ඇති Facebook, Instagram සහ Messenger ජාල අද (05) රාත්‍රියේ හදිසි බිඳවැටීමකට ලක්විය.
+
+එම තත්ත්වය ලොව රටවල් රැසකින් වාර්තා වී තිබූ අතර මේ වනවිට එම සමාජ මාධ්‍යජාල යථා තත්ත්වටයට පත්වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/4f39a2ac.json)
+
+---
+
+### All South Asian countries have surpassed Sri Lanka: Imthiaz
+
+*2024-03-05 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-South-Asian-countries-have-surpassed-Sri-Lanka-Imthiaz/108-278297) · `en`
+
+Colombo, March 05 (Daily Mirror) - While saying that Sri Lanka is currently at an impasse, SJB MP Imthiaz Bakeer  Markar called upon leaders and citizens to transcend political differences and unite for the collective betterment of the island nation.
+
+He made these sentiments in the thanksgiving address at the launch of his autobiography held at the Ananda College auditorium today (05).
+
+The event saw the participation of a plethora of dignitaries including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, former President Chandrika Kumaratunge, Ministers, MPs, academics and other distinguished guests.
+
+In his address, Markar highlighted the urgent necessity to discard separatist tendencies to pave the way for a prosperous Sri Lanka.
+
+He lamented the nation's current plight, contrasting it with the promising trajectory observed during its post-independence era when it paralleled Japan in development.
+
+...
+
+[Data](articles/990a547e.json)
+
+---
 
 ### Sri Lanka, India working to link power grids via $1.2bn undersea transmission line
 
@@ -46,23 +80,35 @@ Sulakshana Jayawardena, Secretary to the Ministry of Power and Energy said, “T
 
 [Data](articles/ae4d3f19.json)
 
+[Extended Data](ext_articles/ae4d3f19.ext.json)
+
 ---
 
-### இலங்கையின் தேவைகளுக்கேற்ப நாம் உதவிகளை வழங்கத்தயார் : பயணிகள் கப்பல் சேவையை மீண்டும் ஆரம்பிக்க நடவடிக்கை - சந்தோஷ் ஜா
+### We provide assistance to the needs of Sri Lanka: Steps to resume passenger shipping service - Santosh Ja
 
 *2024-03-05 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178010) · `ta`
 
-இலங்கையின் தேவைகளுக்கேற்ப நாம் உதவிகளை வழங்கத்தயார் எனவும் எட்கா ஒப்பந்தம் இந்தியாவை விட இலங்கைக்கே அதிக பயன் தருமெனவும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்தார்.
+Indian High Commissioner Santosh Jha announced Sri Lanka and Nagapattinam will resume passenger shipping service by month-end, highlighting India's assistance to Sri Lanka's needs, including infrastructure, digital technology, and the Edka Agreement's benefits to Sri Lanka.
 
-அத்துடன் இம்மாத இறுதிக்குள் இலங்கைக்கும் நாகபட்டினத்திற்குமான பயணிகள் கப்பல் சேவையை மீண்டும் ஆரம்பிக்க நடவடிக்கைகள் எடுத்துவருவதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+🟩
 
-இலங்கை பத்திரிகை கழகம் கொழும்பு ஹில்டன் ஹொட்டலில் இன்று செவ்வாய்க்கிழமை (5) ஏற்பாடு செய்த "இந்திய கதை : சீர்திருத்தம் | செயல்திறன் | மாற்றம்" என்ற தலைப்பிலான கேள்வி பதில் நிகழ்சியிலேயே இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா கலந்துகொண்டு கேட்கப்பட்ட கேள்விகளுக்கு பதிலளிக்கையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+Indian High Commissioner Santosh Jha said that we have provided assistance to the needs of Sri Lanka and that the Edka Agreement will benefit Sri Lanka than India.
 
-இந்தியாவைப் பொறுத்தவரையில் நகரம் மற்றும் கிராமங்களில் உட்கட்டமைப்பு மற்றும் அபிவிருத்திகளை நாம் வேகத்துடனும் சக்தியுடனும் முன்னெடுத்து வருகின்றோம். அதற்கு எமது பிரதமர் சிறந்த தலைமைத்துவத்தை வழங்குகின்றார்.
+He added that by the end of this month, Sri Lanka and Nagapattinam are taking steps to resume the passenger shipping service.
+
+The Indian High Commissioner Santosh Ja said in response to a question answer in the "Indian Story: Reformed | Reform | Change" organized by the Sri Lanka Press Association at Hilton Hotel in Colombo today (5).
+
+As far as India is concerned, we are carrying out infrastructure and development in the city and villages with speed and power. Our Prime Minister gives the best leadership.
+
+India has been successful in the city and rural level in transport, industry, 5G technology and digital. Leadership played an important role.
+
+In particular, the digital ID card, digital financial and cash flow digit ID card can be addressed.
 
 ...
 
 [Data](articles/915ba504.json)
+
+[Extended Data](ext_articles/915ba504.ext.json)
 
 ---
 
@@ -86,19 +132,43 @@ The reason for that has not yet been released. It is also worth noting that Face
 
 ---
 
-### அரச  உயர் அதிகாரிகள் மீது போலியான குற்றச்சாட்டுகள் முன்வைப்பதை தவிர்த்துக்கொள்ளுங்கள் - பாராளுமன்ற உறுப்பினர்களிடம் சபாநாயகர் வலியுறுத்தல்
+### Avoid making bogus allegations against state top officials - Speaker urges parliamentarians
 
 *2024-03-05 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177940) · `ta`
 
-அரச  உயர் அதிகாரிகளின் கௌரவத்தையும் அவர்களின் சேவையையும் அவமதிக்கும் வகையில் போலியான குற்றச்சாட்டுக்களை முன்வைப்பதை பாராளுமன்ற உறுப்பினர்கள் தவிர்த்துக் கொள்ள வேண்டும். பாராளுமன்ற உறுப்பினர்களின் போலியான குற்றச்சாட்டுக்கள் குறித்து  அரச அதிகாரிகள் கவலை தெரிவித்துள்ளார்கள் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+Parliamentarians urged to avoid false allegations against state officials, as Speaker Mahinda Yapa Abeywardena highlighted concerns over baseless accusations.
 
-நாட்டின்  அரச உயர்  அதிகாரிகளின் கௌரவத்துக்கு பாதிப்பை ஏற்படுத்தும் வகையில் பாராளுமன்ற உறுப்பினர்  அடிப்படையற்ற வகையில் கருத்துக்களை முன்வைப்பதை அவதானிக்க முடிகிறது.பாராளுமன்ற சிறப்புரிமையை பயன்படுத்திக் கொண்டு இவ்வாறான குற்றச்சாட்டுக்களை முன்வைப்பது அண்மை காலமாக தீவிரமடைந்துள்ளது.
+🟩
 
-ஒருசில பாராளுமன்ற உறுப்பினர்களினால் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் தொடர்பில் தெளிவுப்படுத்த அரச அதிகாரிகளுக்கு வாய்ப்பு கிடைக்காமல் இருப்பது அவர்களுக்கு இழைக்கப்படும் அநீதியாக கருதப்படும் .பாராளுமன்ற உறுப்பினர்கள் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் அல்லது கருத்துக்கள் தொடர்பில் அரச அதிகாரிகள் எழுத்து மூலமாக கவலை வெளியிட்டுள்ளனர்.
+Members of Parliament should avoid the presence of the state's top officials and their service to insult fake allegations. Speaker Mahinda Yapa Abeywardena informed the House that state officials have expressed concern over the fake allegations of MPs.
+
+It is observed that the Member of Parliament is baselessly presenting to the honor of the state's top officials.
+
+The lack of chance of state officials to clarify the allegations made by a few MPs will be considered unjust.
+
+If there are any problems with state officials, there are instructions for handling it properly. Therefore, MPs must avoid the proposal of false accusations to insult state officials. Therefore, I urge you to remove the allegations leveled at state officials in accordance with the Secondary Command (91) (9).
+
+◼️
+
+[Data](articles/5a4c32ae.json)
+
+[Extended Data](ext_articles/5a4c32ae.ext.json)
+
+---
+
+### Drugs worth Rs 108 crore bound for Sri Lanka seized in Tamil Nadu
+
+*2024-03-05 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drugs-worth-Rs-108-crore-bound-for-Sri-Lanka-seized-in-Tamil-Nadu/108-278296) · `en`
+
+March 05 - In a joint operation, the Indian Coast Guard (ICG) and Directorate of Revenue Intelligence (DRI) busted a drug smuggling attempt near Mandapam on Tuesday. Four people have been apprehended and drugs worth Rs 108 crore seized.
+
+Officers of the DRI Chennai Zonal Unit along with the Indian Coast Guard received a tip-off about the smuggling of narcotics substances from India to Sri Lanka via the coastal route near the Mandapam coast. The DRI and Coast Guard team mounted surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+During the surveillance at deep sea, the team found a country boat sailing towards Sri Lanka and intercepted it after a brief hot pursuit. The team inspected the boat and found five sacks concealed inside. The country boat along with the contraband and three persons on board were brought to Coast Guard Station Mandapam for further investigation.
 
 ...
 
-[Data](articles/5a4c32ae.json)
+[Data](articles/722113bd.json)
 
 ---
 
@@ -135,6 +205,22 @@ A 55-year-old woman killed in three-wheeler in Navagamuwa Korathota.. In moving 
 [Data](articles/efaf7921.json)
 
 [Extended Data](ext_articles/efaf7921.ext.json)
+
+---
+
+### Facebook, Instagram down during outage; thousands affected
+
+*2024-03-05 21:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facebook-Instagram-down-during-outage-thousands-affected/108-278295) · `en`
+
+March 05 - Meta-owned platforms, including Facebook, Instagram, and Threads, are currently facing technical issues, rendering them inaccessible for many users on Tuesday. The outage has impacted functionalities across these social media platforms.
+
+Users are reporting various issues, such as being logged out of their Facebook accounts, making it impossible to log back in. Similarly, Instagram users are encountering difficulties refreshing their feeds, with stories and comments failing to load for some individuals. Threads, an app developed by Meta, is also experiencing a complete shutdown, displaying an error message upon launch.
+
+Reports on DownDetector, a website that tracks internet service outages, surged rapidly for all three platforms following the onset of the issue. Despite the widespread user complaints, Meta has yet to acknowledge the problem officially.
+
+◼️
+
+[Data](articles/43e71511.json)
 
 ---
 
@@ -195,6 +281,26 @@ Public Officers who serve in the hill country should take the transfers and make
 [Data](articles/71dab074.json)
 
 [Extended Data](ext_articles/71dab074.ext.json)
+
+---
+
+### Sri Lanka aim for T20I series win over Bangladesh
+
+*2024-03-05 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-aim-for-T20I-series-win-over-Bangladesh/108-278293) · `en`
+
+Colombo, Mar. 5 (Daily Mirror) - After a splendid batting performance from Sri Lanka's top order, they will aim for a Twenty20 International (T20I) Series win against Bangladesh when the two teams clash in the second match at the Sylhet International Cricket Stadium tomorrow.
+
+Sri Lanka are likely to replace young fast bowler Matheesha Pathirana for the second T20I with either Dilshan Madushanka or Nuwan Thushara.
+
+Pathirana showed signs of injury concern during the first T20I, bowling nine wides and three no-balls in a lengthy spell.
+
+Despite Pathirana struggling, Sri Lanka's top and middle order performed well, with stand-in Captain Charith Asalanka providing a strong finish after impressive knocks from opener Kusal Mendis and middle-order batter Sadeera Samarawickrama.
+
+Apart from Pathirana's struggle, Sri Lanka's overall performance was excellent and changes are unlikely, the Daily Mirror learns.
+
+...
+
+[Data](articles/4825a234.json)
 
 ---
 
@@ -378,6 +484,18 @@ The suspect was produced before the Aluthkade No. 02 to the Magistrate's Court t
 
 ---
 
+### Imthiaz's 'Mage Kathawa' launched...
+
+*2024-03-05 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Imthiaz-s-Mage-Kathawa-launched/110-278290) · `en`
+
+The autobiography 'Mage Kathawa' of SJB MP Imthiaz Bakeer Markar was launched at the Ananda College auditorium today (05). The event saw the participation of a plethora of dignitaries including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, former President Chandrika Kumaratunge, Ministers, MPs, academics, and other distinguished guests. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/30b3f85f.json)
+
+---
+
 ### Cabinet extends validity of scheme for Sri Lankans abroad to import electric vehicles
 
 *2024-03-05 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-extends-validity-of-scheme-for-Sri-Lankans-abroad-to-import-electric-vehicles/108-278289) · `en`
@@ -456,7 +574,7 @@ Colombo, March 5 (Daily Mirror) - The current Transport Minister is not efficien
 
 Addressing the media, he said that even though the government had not reduced the price of Super Diesel, the bus operators will continue with their services.
 
-"It had been two years since Minister Nimal Siripala de Silva assumed duties as Transport Minister, but nothing has been done for the private bus service. He continuously use to say that while operating 3,000 buses, the Sri Lanka Transport Board (SLTB) incurs a loss of Rs. 10 million per day. If the SLTB incurs such a loss, the Minister should be able to imagine how much of losses the private bus operators incur while operating 14,000 buses per day," Wijerathne said.
+"It had been two years since Minister Bandula Gunawardana assumed duties as Transport Minister, but nothing has been done for the private bus service. He continuously use to say that while operating 3,000 buses, the Sri Lanka Transport Board (SLTB) incurs a loss of Rs. 10 million per day. If the SLTB incurs such a loss, the Minister should be able to imagine how much of losses the private bus operators incur while operating 14,000 buses per day," Wijerathne said.
 
 ...
 
@@ -2121,125 +2239,5 @@ The proposal was presented by the President of the Import and Export Regulations
 [Data](articles/172a82df.json)
 
 [Extended Data](ext_articles/172a82df.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-05 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177949) · `ta`
-
-"Today's currency exchange rate: US dollar purchasing price Rs 303.0472, sales price Rs 312.6876, Central Bank release on March 5."
-
-🟩
-
-The US dollar purchasing price was Rs 303.0472 and the sales price were 312.6876 based on the currency exchange rate released by the Central Bank on Tuesday (March 05).
-
-◼️
-
-[Data](articles/c811c4d2.json)
-
-[Extended Data](ext_articles/c811c4d2.ext.json)
-
----
-
-### Shooting reported in front of shop in Nawagamuwa
-
-*2024-03-05 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97740/shooting-reported-in-front-of-shop-in-nawagamuwa) · `en`
-
-A shooting incident was reported in the Korathota area of Nawagamuwa this morning (March 05).
-
-According to the police, two assailants who had arrived on a motorcycle had fired gunshots into the air in front of a building materials store.
-
-◼️
-
-[Data](articles/c4b2e527.json)
-
-[Extended Data](ext_articles/c4b2e527.ext.json)
-
----
-
-### States cannot prevent Trump from contesting: US High Court Judgment
-
-*2024-03-05 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177943) · `ta`
-
-The US High Court ruled that states cannot prevent Trump from contesting the US presidential election, overturning Colorado's decision to exclude him from the ballot due to alleged support for the January 6 attacks.
-
-🟩
-
-The High Court has unanimously ruled that states cannot prevent former Donald Trump contesting the US presidential election.
-
-The Colorado state court ruled last December that Trump's name could not be included in the Colorado State Republican election ballot ballot due to allegations that he supported the attacks on the US parliamentary complex on January 6, 2021.
-
-In this context, the US federal Supreme Court judges on Monday (04) ruled that the Colorado High Court's ruling was 9: 0.
-
-The US High Court said that the states do not have the authority to prevent competing under the charge and that the US parliament has such a power.
-
-It is noteworthy that the Republican party elections will be held today in 15 states, including Colorado.
-
-◼️
-
-[Data](articles/29a90326.json)
-
-[Extended Data](ext_articles/29a90326.ext.json)
-
----
-
-### Calling of bids for restructuring SriLankan Airlines extended by 45 days
-
-*2024-03-05 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calling-of-bids-for-restructuring-SriLankan-Airlines-extended-by-45-days/108-278272) · `en`
-
-The deadline for calling bids for the restructuring of SriLankan Airlines has been extended by 45 days and it will come to effect from today, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-Addressing the media, he said the proposal for the government to absorb the USD 510 million in outstanding debts by SriLankan Airlines has been approved by the Cabinet.
-
-◼️
-
-[Data](articles/486c307c.json)
-
-[Extended Data](ext_articles/486c307c.ext.json)
-
----
-
-### Calling of bids for restructuring SriLankan Airlines extended by 45 days
-
-*2024-03-05 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Calling-of-bids-for-restructuring-SriLankan-Airlines-extended-by-45-days/155-278272) · `en`
-
-The deadline for calling bids for the restructuring of SriLankan Airlines has been extended by 45 days and it will come to effect from today, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-Addressing the media, he said the proposal for the government to absorb the USD 510 million in outstanding debts by SriLankan Airlines has been approved by the Cabinet.
-
-◼️
-
-[Data](articles/b96387ef.json)
-
-[Extended Data](ext_articles/b96387ef.ext.json)
-
----
-
-### Will the Supreme Court confirmed a person who was involved in torture as a police chief?Ceylon Attorneys Association
-
-*2024-03-05 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177942) · `ta`
-
-The Supreme Court confirmed Deshabanduthenkoon as Inspector General of Police, despite his involvement in torture, sparking concern from the Sri Lanka Lawyers Association and the Ceylon Attorneys Association.
-
-🟩
-
-The Sri Lanka Association's Association has expressed concern over the appointment of Deshabanduthenkoon as the new Inspector General of Police.
-
-The High Court has confirmed that he was involved in the torture of Patriotic and the President of the Sri Lanka Lawyers Association, Kausalyanavaratne.
-
-The Sri Lanka Lawyers Association has said that the appointment of Deshabanduthenkon as the Inspector General of Police has made it so concern.
-
-The President of the Sri Lanka Lawyers Association has said that the opposition against his appointment has not ended as he has appointed the President of the Police.
-
-He said that the High Court's verdict appeared to be completely ignored when the nation was appointed as the Inspector General of Police.
-
-The President of the Sri Lanka Lawyers Association said,
-
-◼️
-
-[Data](articles/2297f415.json)
-
-[Extended Data](ext_articles/2297f415.ext.json)
 
 ---

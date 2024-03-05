@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 00:47:35**
+As of **2024-03-06 01:02:49**
 
 ## Newspaper Stats
 
-*Scraped **11,093** Articles*
+*Scraped **11,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 575
-dailyftlk | 584
+dailyftlk | 591
 islandlk | 592
 adalk | 936
 tamilmirrorlk | 1,348
 adaderanalk | 1,354
-virakesarilk | 1,499
+virakesarilk | 1,501
 dailymirrorlk | 1,695
 adaderanasinhalalk | 1,735
 
@@ -26,9 +26,143 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,093 (100.0%) of 11,093 articles have been extended.
+11,093 (99.9%) of 11,102 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-06 (Wednesday)
+
+### Multidimensional challenges unique to Sri Lankan households in each district
+
+*2024-03-06 00:47:57* · [`dailyftlk`](https://www.ft.lk/news/Multidimensional-challenges-unique-to-Sri-Lankan-households-in-each-district/56-759209) · `en`
+
+UNDP-led initiative launches district profiles of socio-economic context and Multidimensional Poverty and Vulnerability in Sri Lanka
+
+Stemming from an analysis of data based on the United Nations Development Program (UNDP)’s National Citizen Survey 2022-23 and Multidimensional Vulnerability Index 2023 (developed together with Oxford Poverty and Human Development Initiative), and the National Multidimensional Poverty Index 2019, the MVI District Profiles were launched on Monday.
+
+The publication was officially handed over to State Minister of Finance Shehan Semasinghe by UNDP Sri Lanka Resident Representative Azusa Kubota in the presence of Secretary to Prime Minister Anura Dissanayake and other high-level representatives.
+
+...
+
+[Data](articles/e3271ca6.json)
+
+---
+
+### Opposition hands over no-confidence motion against Speaker
+
+*2024-03-06 00:45:54* · [`dailyftlk`](https://www.ft.lk/news/Opposition-hands-over-no-confidence-motion-against-Speaker/56-759208) · `en`
+
+Opposition parties under the leadership of the Samagi Jana Balawegaya (SJB) handed a no-confidence motion against Speaker Mahinda Yapa Abeywardena with 44 signatures, to the Deputy General Secretary yesterday at Parliament.
+
+Opposition Leader Sajith Premadasa initiated the move alleging that the Speaker violated both the Constitution and Parliamentary privileges of Members of Parliament (MPs) by endorsing the Online Safety Act, claiming it was not properly passed in Parliament.
+
+Chief Opposition Whip Lakshman Kiriella, Prof. G.L. Peiris, M.A. Sumanthiran, Tissa Attanayake, Chandima Weerakkody, Shan Wijayalal de Silva, Rohini Kumari Wijeratne, Hesha Vithanage, Mano Ganesan, Rishad Bathiudeen, S.M. Marikkar, Ranjith Madduma Bandara, Thalatha Atukorale, Vijitha Herath, Chandima Weerakkody, and others have signed the motion.
+
+...
+
+[Data](articles/0fbf4b2b.json)
+
+---
+
+### Basil returns; rules out Rajapaksa candidate for Presidency
+
+*2024-03-06 00:44:51* · [`dailyftlk`](https://www.ft.lk/news/Basil-returns-rules-out-Rajapaksa-candidate-for-Presidency/56-759207) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa on his return to the country yesterday from the US, remarked that he does not foresee a Rajapaksa family member being put forward as a Presidential candidate.
+
+Speaking to the media he said his intention to confer with party members and the party leader in the days ahead to decide whether to endorse the current president’s candidacy or nominate a candidate from within the party.
+
+However, Rajapaksa said that he intends to lead the SLPP’s preparations for the upcoming elections.
+
+He stressed the necessity of the SLPP’s support, noting that without it, no Government candidate would be able to contest the Presidential polls.
+
+A group of SLPP members including Chief Government Whip Prasanna Ranatunga, party General Secretary and MP Sagara Kariyawasam, MP Sarath Weerasekera were at the airport to welcome him.
+
+◼️
+
+[Data](articles/e730c7cd.json)
+
+---
+
+### Cabinet approves enhanced meal budget for School Food Program
+
+*2024-03-06 00:43:47* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-enhanced-meal-budget-for-School-Food-Program/56-759206) · `en`
+
+Increases ‘School Food Program’ allocation from Rs. 85 to Rs. 110 per meal
+
+Save the Children organisation pledges to provide 3 food items to 200,000 students in 917 selected schools in 2024
+
+The Cabinet of Ministers approved to increase the budget allocated for student meals under the ‘School Food Program’ from Rs. 85 to Rs. 110 per meal.
+
+The move was made after considering the rise in food prices. “It has been deemed necessary to raise the allocation to Rs. 110 to maintain the quality and nutritional value of the meals provided,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+A committee of officers tasked with examining the matter concluded that an amount of Rs. 110 is required to cover the costs adequately amidst price fluctuations. As a result, the Cabinet has approved this adjustment to ensure that students receive wholesome meals that meet their nutritional needs.
+
+...
+
+[Data](articles/43588a97.json)
+
+---
+
+### GRI launches its next generation sustainable tires at the Green Impact 2024
+
+*2024-03-06 00:42:39* · [`dailyftlk`](https://www.ft.lk/business/GRI-launches-its-next-generation-sustainable-tires-at-the-Green-Impact-2024/34-759205) · `en`
+
+GRI, a leading producer of specialty tires for agriculture, material handling and construction machines, unveiled its next generation of environmentally friendly specialty tires with very high sustainable
+
+GRI’s sustainable agriculture tire range, the Green XLR Earth series, now comes with 87.3% sustainable material whilst the Ultimate Green XT the sustainable material handling tire boasts an impressive 93.5% sustainable material.
+
+These next generation tires embody GRI’s vision of moving humanity towards making a positive impact on our planet and dedication to reducing its environmental footprint while delivering high-performance specialty tire solutions. Leveraging innovative technology and advanced natural rubber compounds, GRI continues to lead the way in sustainability across its entire
+
+...
+
+[Data](articles/fe917d73.json)
+
+---
+
+### BOI visits ITC hotel
+
+*2024-03-06 00:42:24* · [`dailyftlk`](https://www.ft.lk/business/BOI-visits-ITC-hotel/34-759204) · `en`
+
+Investment Secretary M.M. Nayeemudeen and Board of Investment Chairman Dinesh Weerakkody visited the ITC Hotel, opposite Galle Face Green on an inspection visit.
+
+ITC Colombo One Hotel and Residences is a new luxury development in the heart of the capital city Colombo, the hotel is poised to become a landmark in the city, attracting foreign visitors and contributing to the economic development of the country. The hotel, a flagship BOI project, is expected to add to the city’s skyline and boost its appeal as a destination for both business and leisure travelers. ITC subsidiary WelcomHotels Lanka Ltd., Managing Director Subi Kishore George and General Manager Sujeet Kumar welcomed the delegation.
+
+◼️
+
+[Data](articles/4455d67c.json)
+
+---
+
+### Honouring the unsung heroes of Sri Lanka on International Women’s Day
+
+*2024-03-06 00:41:21* · [`dailyftlk`](https://www.ft.lk/business/Honouring-the-unsung-heroes-of-Sri-Lanka-on-International-Women-s-Day/34-759203) · `en`
+
+As we celebrate International Women’s Day, it prompts us to wonder, what does it truly mean to be a woman? In a world marked by increasing competitiveness and relentless pace, women often find themselves questioning their place and value. Today, as we honour the spirit of womanhood, it is imperative to recognise the enduring legacy of women and address the scarcity of female role models to inspire the next generation.
+
+Being a woman is a profound journey, marked by the diverse roles of daughter, wife, mother, educator, career woman and a caregiver to her family. From the moment a child is cradled protectively in her womb, she begins a journey of nurturing and guidance that extends far beyond birth. A mother’s love envelops her child, shaping their perceptions and experiences as they navigate the world.
+
+...
+
+[Data](articles/be37a38b.json)
+
+---
+
+### யாழ். இந்திய துணைத் தூதுவராக கடமையேற்ற சாய்முரளி நல்லை ஆதீன தேசிக ஞானசம்பந்த பிரமச்சாரிய சுவாமிகளை சந்தித்து ஆசிபெற்றார்
+
+*2024-03-06 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178017) · `ta`
+
+யாழ்ப்பாண இந்திய துணைத்தூதுவர் சாய்முரளி ஞாயிற்றுக்கிழமை (4) நல்லை ஆதீன தேசிக ஞானசம்பந்த பிரமச்சாரிய சுவாமிகளை நல்லூரில் அமைந்துள்ள ஆதீன குருவின் வாஸ்தலத்தில் சந்தித்தார்.
+
+இச் சந்திப்பில் சமய ரீதியான தற்போதைய நிலைமைகள், இளைய சமூதாயத்தின் மாறிவரும் சமய புறழ்வான பழக்கவழக்கங்கள், எதிர்காலத்தில் சமய சித்தார்த்தம் தொடர்பான விடையம் பற்றி சமயத் தலைவர்களினால் கலந்துரையாடப்பட்டன.
+
+இதில் சிவபூமி அறக்கட்டளை நிலைய ஸ்தாபகர் ஆறுதிருமுருகன், இந்திய தூதர அதிகாரிகள் எனப் பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/818b3580.json)
+
+---
 
 ### 2024-03-05 (Tuesday)
 
@@ -525,6 +659,20 @@ During the surveillance at deep sea, the team found a country boat sailing towar
 [Data](articles/722113bd.json)
 
 [Extended Data](ext_articles/722113bd.ext.json)
+
+---
+
+### பொருளாதார நெருக்கடியில் இருந்து மீள ஒரு வருடங்களேனும் செல்லும் - நிதி இராஜாங்க அமைச்சர்
+
+*2024-03-05 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177962) · `ta`
+
+பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு  குறைந்தது ஒரு வருடங்களேனும் செல்லும் .ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தினால் நாடு சற்றேனும் இயல்பு நிலைக்கு திரும்பியுள்ளது என்பதை நாட்டு மக்கள் நன்கு அறிவார்கள். பொருளாதார நிலைமை தொடர்பில் மக்களிடம் உண்மையை குறிப்பிட்டு அரசியல் செய்வோம் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம், நம்பிக்கைப்பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச்) சட்டமூலம்,) ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்கு விடுதல் (திருத்தச்) சட்டமூலம், உள்நாட்டு நம்பிக்கைப் பொறுப்பு (திருத்தச்) சட்டமூலம், கம்பனிகள் (திருத்தச்) சட்டமூலம் ஆவணங்கள் பதிவுக் கட்டளைச் சட்டம் (திருத்தச்) சட்டமூலம் என்பன மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/13cbf84a.json)
 
 ---
 
@@ -2105,189 +2253,5 @@ Attorneys-at-Law Tissa Velragoda also appeared on behalf of Professor Channa Jay
 [Data](articles/b9db6b32.json)
 
 [Extended Data](ext_articles/b9db6b32.ext.json)
-
----
-
-### Kandana shooting: Suspects arrested with T56 rifle and 45 bullets
-
-*2024-03-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97743/kandana-shooting-suspects-arrested-with-t56-rifle-and-45-bullets) · `en`
-
-The Police Special Task Force (STF) has arrested a suspect along with a firearm and ammunition, in connection with the shooting of a meat stall owner in Kandana in August last year.
-
-Police said the suspect was arrested in the Kandana area along with a T56 assault rifle, 02 magazines and 45 rounds of ammunition.
-
-Police suspect that the shooting had been carried out on the directive of the organized criminal gang leader known by the alias “Chooti Malli”, who is believed to be in hiding in Dubai, over a ransom demand.
-
-Accordingly, the firearm had been found hidden in a residence linked to “Chooti Malli” located at Pamunugama.
-
-The firearm in question is suspected to have been used in the shooting of the meat shop owner in Kandana on August 08, 2023. It is reported that the shooting had been carried out after the drug trafficker and organized criminal ‘Chooti Malli’ had sought ransom payments from the victim.
-
-...
-
-[Data](articles/3681f2dc.json)
-
-[Extended Data](ext_articles/3681f2dc.ext.json)
-
----
-
-### Kandana shooting: Suspect arrested with T56 rifle and 45 bullets
-
-*2024-03-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97743/kandana-shooting-suspect-arrested-with-t56-rifle-and-45-bullets) · `en`
-
-The Police Special Task Force (STF) has arrested a suspect along with a firearm and ammunition, in connection with the shooting of a meat stall owner in Kandana in August last year.
-
-Police said the suspect was arrested in the Kandana area along with a T56 assault rifle, 02 magazines and 45 rounds of ammunition.
-
-Police suspect that the shooting had been carried out on the directive of the organized criminal gang leader known by the alias “Chooti Malli”, who is believed to be in hiding in Dubai, over a ransom demand.
-
-Accordingly, the firearm had been found hidden in a residence linked to “Chooti Malli” located at Pamunugama.
-
-The firearm in question is suspected to have been used in the shooting of the meat shop owner in Kandana on August 08, 2023. It is reported that the shooting had been carried out after the drug trafficker and organized criminal ‘Chooti Malli’ had sought ransom payments from the victim.
-
-◼️
-
-[Data](articles/c89c9dca.json)
-
-[Extended Data](ext_articles/c89c9dca.ext.json)
-
----
-
-### The no -confidence motion was handed over
-
-*2024-03-05 14:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-கையளிக்கப்பட்டது/175-334229) · `ta`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena was handed over to Saminda Kularatne, Deputy Secretary General of Parliament, by the Opposition's Prime Minister Lakshman Kiriella, MPs Ranjith Mathuma Bandara, and Professor GL Peiris.
-
-🟩
-
-The no -confidence motion on Speaker Mahinda Yapa Abeywardena was handed over to the Deputy Secretary General of Parliament Saminda Kularatne.
-
-The no -confidence motion was handed over by the Opposition's Prime Minister Lakshman Kiriella, MPs Ranjith Mathuma Bandara and Professor GL Peiris.
-
-◼️
-
-[Data](articles/a35a24ca.json)
-
-[Extended Data](ext_articles/a35a24ca.ext.json)
-
----
-
-### Submission of no confidence motion against the Speaker
-
-*2024-03-05 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177958) · `ta`
-
-No-confidence motion against Speaker Mahinda Yapa Abeywardena submitted to Deputy Secretary General Saminda Gularatne on 05.
-
-🟩
-
-The no -confidence motion brought against Speaker Mahinda Yapa Abeywardena has been handed over to the Deputy Secretary General of Parliament Saminda Gularatne on Tuesday (05).
-
-◼️
-
-[Data](articles/c87a29d6.json)
-
-[Extended Data](ext_articles/c87a29d6.ext.json)
-
----
-
-### Suspect arrested for shouting the meat
-
-*2024-03-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194160) · `si`
-
-A person was arrested by the STF for shooting a meat shop owner in Kandana in August. The STF seized a 56 rifle, 4 bullets, and two magazines.
-
-🟩
-
-A person has been arrested by the STF in connection with the shooting case of a meat shop owner in the Kandana area last August.
-
-The Special Task Force has also taken a 56 rifle and 4 bullets and two magazines.
-
-◼️
-
-[Data](articles/bcf09668.json)
-
-[Extended Data](ext_articles/bcf09668.ext.json)
-
----
-
-### Sri Lanka to build floating solar power plants on Chandrika Wewa, Kiriiban Wewa
-
-*2024-03-05 14:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-build-floating-solar-power-plants-on-chandrika-wewa-kiriiban-wewa-153225/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Ministry of Irrigation will allocate 0.99 hectares of water surface area and 0.1 hectares of land area from the Chandrika Wewa and Kiriibban Wewa reservoirs for two floating solar power generation pilot projects.
-
-The cabinet of ministers has approved a proposal by the Minister of Irrigation to make the allocation for the two projects which are the result of an agreement between Sri Lanka’s Ministry of Power & Energy and the Korean government’s Korea Institute for Advancement.
-
-The land and water surface areas will be granted to the Sri Lanka Solar Energy Authority on an annual lease basis for running the two solar pilot projects, each with a capacity of 1 megawatt, a statement from the government information department said in a statement.
-
-...
-
-[Data](articles/e2eaa335.json)
-
-[Extended Data](ext_articles/e2eaa335.ext.json)
-
----
-
-### Attraction Struggle to Destroy Local Resources in Punguduthivu
-
-*2024-03-05 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177955) · `ta`
-
-The Punguduthivu Fishermen's Association protested against the destruction of local resources, supported by civil society. Ignored by local fishermen, the Sri Lankan government, against the Fisheries Ministry's provision, destroyed the traditional fishing industry to protect the cattlefield. Prominent figures, including Mawai Senadirasa and Dr. Akhilan Muthukumaraswamy, were present.
-
-🟩
-
-A protest against the destruction of local resources in Punguduthivu on Tuesday was organized by the Punguduthivu Fishermen's Association under the support of the island Civil Society Organization.
-
-In the name of the sea farm, the local fishermen were completely ignored and the government of Sri Lanka, against the provision of the ministry of the Fisheries Ministry and the destruction of the traditional fishing industry, to protect the cattlefield, to protect the cattlefield.
-
-Sri Lanka Tamil State Party leader Mawai Senadirasa, Social activist Dr. Akhilan Muthukumaraswamy, Attorney General. Karunakaran Gunalan, Treasurer of Sukash, Thevaga Civil Society Organization, former Member of Velanai Pradeshiya Sabha Karunakaran Navalan. Gnanneswaran was also present and the Jaffna District Government Agent and the Mahajar to hand over the Jaffna District Secretariat.
-
-◼️
-
-[Data](articles/715252b4.json)
-
-[Extended Data](ext_articles/715252b4.ext.json)
-
----
-
-### Elon cash losses
-
-*2024-03-05 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194159) · `si`
-
-Elon Musk's net assets dropped to $19 billion, losing $31 billion, while Jeff Bezos's assets rose to $200 billion, surpassing Musk as the world's richest person.
-
-🟩
-
-Juff Basos, once again the world's richest person, has once again have been named.
-
-He has been ranked past the Elon Moil, who has stayed in the world's richest man's place.
-
-According to reports, Juff Basos's net asset is currently US $ 200 billion.
-
-These reports say that the net asset of Elon Musk was US $ 19 billion.
-
-Accordingly, Elon Musk has lost $ 31 billion over the past year and Jeff Basos's asset has increased by 23 billion.
-
-◼️
-
-[Data](articles/283a4009.json)
-
-[Extended Data](ext_articles/283a4009.ext.json)
-
----
-
-### No-confidence motion on Speaker handed over
-
-*2024-03-05 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-confidence-motion-on-Speaker-handed-over/108-278275) · `en`
-
-The no-confidence motion on Speaker Mahinda Yapa Abeywardena was handed over to Deputy Secretary General of Parliament Chaminda Kularatne a short while ago.
-
-It was handed over by Chief Opposition Whip Lakshman Kiriella, MPs Ranjith Madduma Bandara and Professor G.L. Peiris.
-
-◼️
-
-[Data](articles/f8236d9f.json)
-
-[Extended Data](ext_articles/f8236d9f.ext.json)
 
 ---

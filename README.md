@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 12:17:51**
+As of **2024-03-05 12:33:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,952 (100.0%) of 10,957 articles have been extended.
+10,957 (100.0%) of 10,957 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,41 +44,59 @@ At the end of IPL 2023, Matheesha Pathirana was touted to be the next superstar 
 
 [Data](articles/69dd1383.json)
 
+[Extended Data](ext_articles/69dd1383.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த ஆதாரங்கள் புறக்கணிக்கப்பட்டுள்ள - சுயாதீன விசாரணைகளிற்கான எங்கள் வேண்டுகோள்கள் நிராகரிக்கப்பட்டுள்ளன- மனித உரிமை பேரவைக்கான உரையில் மல்கம் ரஞ்சித்
+### Our requests for independent investigations have been rejected - Malcolm Ranjith
 
 *2024-03-05 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177939) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த  புதிய ஆதாரங்கள் புறக்கணிக்கப்பட்டுள்ளன, வெளிப்படையான சுயாதீன விசாரணைகளிற்காக நாங்கள் விடுத்த வேண்டுகோள்களையும் மன்றாட்டங்களையும் இலங்கை அரசாங்கம் தொடர்ந்தும் இலங்கைஅரசாங்கம் நிராகரித்துவருகின்றது என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+Cardinal Malcolm Ranjith criticizes Sri Lanka's rejection of independent inquiries into the Sunday attack, calling for open investigations. He welcomes the UN Human Rights Commissioner's report on Sri Lanka's human rights situation, expressing concern over the lack of accountability for the North East attacks. Ranjith accuses the government of ignoring new evidence and engaging in anti-democratic activities, including restricting media freedom and redefining terrorism. He urges the UN Human Rights Council to demand an open inquiry in Sri Lanka.
 
-உயிர்த்த ஞாயிறுதாக்குதல் குறித்து வெளிப்படையான விசாரணைகள் இடம்பெறவேண்டும் என கர்தினால் மல்கம் ரஞ்சித்வேண்டுகோள் விடுத்துள்ளார்
+🟩
 
-ஐக்கியநாடுகள் மனித உரிமை பேரவைக்கான  உரையில் கர்தினால் மல்கம் ரஞ்சித் இந்த வேண்டுகோளை விடுத்துள்ளார்.
+Cardinal Malcolm Ranjit said the Sri Lankan government continues to reject the requests and plea we have made for explicit independent inquiries.
 
-இலங்கையின் மனித உரிமை நிலவரம் குறித்த ஐக்கியநாடுகள் மனித உரிமை ஆணையாளரின் வாய்மொழி மூல அறிக்கையை வரவேற்பதாக  கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+Cardinal Malcolm Ranjithweendukol has called for open inquiries into the Sunday attack
 
-குறிப்பாக பொறுப்புக்கூறல் மற்றும் நல்லிணக்கம் தொடர்பான  அவரின் கருத்துக்களை வரவேற்கின்றோம் என கர்தினால் தெரிவித்துள்ளார்.
+Cardinal Malcolm Ranjith made this request in a speech for the United Nations Human Rights Council.
+
+Cardinal Malcolm Ranjith has welcomed the UN Human Rights Commissioner's verbal report on the human rights situation in Sri Lanka.
+
+"We are welcome to welcome her comments on accountability and reconciliation," Cardinal said.
+
+Cardinal said that we are still concerned about the explicit independent mechanism of the victims of the injustices in the North East of Sri Lanka.
+
+It has been five years since the Sunday attack on the 21st, and that the governments that ruled the country have conducted many investigations but these investigations have not investigated all the details of the bachelor's attacks.
 
 ...
 
 [Data](articles/8fbc6de9.json)
 
+[Extended Data](ext_articles/8fbc6de9.ext.json)
+
 ---
 
-### மற்றுமொரு துப்பாக்கிச் சூடு
+### Shot
 
 *2024-03-05 11:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்-சூடு/175-334222) · `ta`
 
-நவகமுவ பொலிஸ் பகுதியில் உள்ள கொரதொட்ட பிரதேசத்தில் இன்று காலை துப்பாக்கிச் சூடு இடம்பெற்றுள்ளது.
+In Koradota, two men on a motorbike fired into the sky in front of a store, police said.
 
-கட்டிட பொருட்கள் விற்பனை நிலையத்திற்கு முன்பாக இந்த துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மோட்டார் சைக்கிளில் வந்த இருவர் கடையின் முன் வானத்தை நோக்கி துப்பாக்கியால் சுட்டுவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் கூறினர்.
+The shooting took place this morning in the Koradota area of the Navagamuwa police area.
+
+Police said the shooting took place in front of the building products.
+
+Police said two men on a motorbike fired into the sky in front of the store.
 
 ◼️
 
 [Data](articles/d9cd1663.json)
+
+[Extended Data](ext_articles/d9cd1663.ext.json)
 
 ---
 
@@ -100,19 +118,25 @@ In addition to sections of the Anti -Corruption Act, 2023, in addition to sectio
 
 ---
 
-### இன்று நள்ளிரவு முதல் ரயில் ஊழியர்கள் வேலை நிறுத்தம்
+### Strike from train staff from midnight today
 
 *2024-03-05 11:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-ரயில்-ஊழியர்கள்-வேலை-நிறுத்தம்/175-334221) · `ta`
 
-இன்று நள்ளிரவு முதல் வேலைநிறுத்தத்தில் ஈடுபடவுள்ளதாக ரயில் இயந்திர சாரதிகள் சங்கம் தெரிவித்துள்ளது.
+The Railway Drivers Association will strike from midnight today, involving the Railway Engineers Association, Rail Controllers Association, and Rail Supervisory Managers Association.
 
-இந்த தொழிற்சங்க நடவடிக்கையில் மேலும் பல தொழிற்சங்கங்களும் இணைந்துகொள்ளவுள்ளதாக அந்த சங்கத்தின் தலைவர் சந்தன லால் தெரிவித்துள்ளார்.
+🟩
 
-இதன்படி, ரயில் இயந்திர சாரதிகள் சங்கம், ரயில் கட்டுப்பாட்டாளர்கள் சங்கம் மற்றும் ரயில் மேற்பார்வை முகாமையாளர்கள் சங்கம் ஆகியன இந்த பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+The Railway Drivers Association said it would go on strike from midnight today.
+
+The president of the association, Chandana Lal, said that many more unions will join the union action.
+
+Accordingly, the Chairman of the Association said that the Railway Engineers Association, the Rail Controllers Association and the Rail Supervisory Managers Association will be involved in the workplace.
 
 ◼️
 
 [Data](articles/00393e11.json)
+
+[Extended Data](ext_articles/00393e11.ext.json)
 
 ---
 
@@ -134,21 +158,27 @@ They are urging the government to reverse the Cabinet paper that proposes to red
 
 ---
 
-### உயர்தர மாணவர்களுக்கு தொழில் பயிற்சி
+### Vocational training for high -quality students
 
 *2024-03-05 11:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-மாணவர்களுக்கு-தொழில்-பயிற்சி/175-334220) · `ta`
 
-இவ்வருடம் கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சைக்குத் தோற்றிய மாணவர்களுக்கு தொழில் பயிற்சி வழங்கும் வேலைத்திட்டம் இன்று (05) ஆரம்பமாகவுள்ளதாக கல்வி அமைச்சு சுட்டிக்காட்டியுள்ளது.
+The Ministry of Education launches a vocational training program for GCE Advanced Level students today, offering English, guidance, or professional lessons. Minister Susil Premajayantha aims to equip students with knowledge, attitude, and skills.
 
-இதற்காக பதிவு செய்துள்ள மாணவர்கள் பிற்பகல் 2 மணிக்கு முன்னதாக அந்தந்த மையங்களுக்கு வருமாறு கல்வி அமைச்சு கேட்டுக் கொண்டுள்ளது.
+🟩
 
-ஒரு நிலை ஆங்கில மொழி, வழிகாட்டுதல் அல்லது உங்களுக்கு விருப்பமான ஒரு தொழில்முறை பாடத்தை இலவசமாகப் படிக்க இது ஒரு வாய்ப்பை வழங்குகிறது.
+The Ministry of Education has pointed out that the program of providing vocational training for students who appeared for the GCE Advanced Level Examination this year will commence today (05).
 
-இதற்கு மேலதிகமாக, கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, இந்த உத்தேச கல்வி சீர்திருத்தத்தின் ஊடாக, அறிவு, அணுகுமுறை மற்றும் திறன் ஆகியவற்றுடன் பிள்ளைகள் பரிபூரணப்படுத்தப்படுவார்கள் என எதிர்பார்க்கப்படுகிறது.
+The Ministry of Education has asked the students to come to the respective centers before 2 pm.
+
+It provides an opportunity to study an English language, guidance or a professional lesson for your choice.
+
+In addition, the Minister of Education, Susil Premajayantha, is expected to perform children with knowledge, attitude and skills through this proposed educational reform.
 
 ◼️
 
 [Data](articles/d70fc886.json)
+
+[Extended Data](ext_articles/d70fc886.ext.json)
 
 ---
 

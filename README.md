@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 06:53:08**
+As of **2024-03-05 07:15:41**
 
 ## Newspaper Stats
 
-*Scraped **10,886** Articles*
+*Scraped **10,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,82 @@ adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,325
 virakesarilk | 1,458
-dailymirrorlk | 1,657
+dailymirrorlk | 1,659
 adaderanasinhalalk | 1,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,881 (100.0%) of 10,886 articles have been extended.
+10,885 (100.0%) of 10,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### වැසි රහිත කාලගුණයක්
+### Bondholder agreement delay unlikely to affect IMF review: Coomaraswamy
+
+*2024-03-05 06:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholder-agreement-delay-unlikely-to-affect-IMF-review-Coomaraswamy/108-278256) · `en`
+
+Says in case of a delay, IMF is likely to provide breathing space
+
+A potential delay in securing an agreement-in-principle (AIP) with Sri Lanka’s private bondholders is unlikely to impact the second review of the International Monetary Fund (IMF) programme, former Central Bank Governor Dr. Indrajit Coomaraswamy said.
+
+Rothschild, the financial advisor to the bondholder group, is currently studying the proposal and consequently, will present the proposal to the bondholder group with its recommendations, said the senior economist, addressing an informative forum organised by CA Sri Lanka in Colombo yesterday.
+
+While this process could take some time, he was confident that the bondholders, based on the recommendations of their advisors, would soon come onboard to reach an AIP with the government, possibly within the second review of the IMF programme.
+
+...
+
+[Data](articles/2a5307c7.json)
+
+---
+
+### Rainy weather
 
 *2024-03-05 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194134) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of major rain in parts of the island, especially in the Western and Sabaragamuwa provinces, and warm weather in the western southern Southern Provinces and Ratnapura district. It advises drinking enough water, especially for adults and the sick, and staying indoors to reduce stress.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+🟩
 
-මේ අතර උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ඊයේ නිකුත් කර තිබුණි.
+The Meteorological Department says that there is a major rain weather in many parts of the island.
 
-එම නිවේදනය බස්නාහිර සම දකුණු පළාත්වල සහ රත්නපුර දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලට මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ මට්ටමකට එනු ඇතැයි අපේක්ෂා කෙරේ.
+The department states that in some places in the Western and Sabaragamuwa provinces expect the stations in the morning.
 
-මේ අතර වැඩබිම්ව තුළ සිටින පුද්ගලයින් ප්‍රමාණවත් ලෙස ජලය පානය කරන්න ලෙසත් සෙවණ ඇති ස්ථානවල හැකි  පමණ විවේක ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටී.
+Meanwhile, the Meteorology Department issued an announcement of warm weather conditions.
 
-එම දෙපාර්තමේන්තුව ඉල්ලා සිටින්නේ, නිවෙස් තුළ සිටින වැඩිහිටි සහ රෝගී පුද්ගලයින් පිළිබඳ සැලකිලිමත් වෙන ලෙසත් වාහන තුළ කුඩා ළමුන් තනියම රඳවා නොයන ලෙසත්ය.
+The announcement is expected to come to the western southern Southern Provinces and some places in the Ratnapura district to a level of heating.
 
-එළිමහනේ සිටින පුද්ගලයින් අධික වෙහෙසකාරි කටයුතු සීමා කරන ලෙසත් සෙවණ ඇති ස්ථානවල රැඳෙන ලෙසත් ප්‍රමාණවත් ජලය පානය කරන ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටී.
+Meanwhile, the Department of Meteorology requests the Department of Meteorologies to drink adequate water enough to drink adequate water.
+
+The department demands concerning the adult and sick people in the homes and not to hold their own children in the vehicles.
+
+The Department of Meteorology also requests that the people in the outdoors are to reduce high stress and stay in the shadow.
 
 ◼️
 
 [Data](articles/dca9d646.json)
+
+[Extended Data](ext_articles/dca9d646.ext.json)
+
+---
+
+### Visa free travel to enhance tourism industry potential
+
+*2024-03-05 05:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Visa-free-travel-to-enhance-tourism-industry-potential/108-278234) · `en`
+
+Tourism in Sri Lanka is on a high growth trajectory following a boost in the country’s potential as a must-visit destination.
+
+Visa free travel for tourists from China, India, Indonesia, Russia, Thailand, Malaysia and Japan has provided the right nudge for tourists to put Sri Lanka on the top of their travel bucket list.
+
+Nationals from these countries planning to visit Sri Lanka need to apply for Electronic Travel Authorization (ETA) before arriving, subject to granting of visa free of charge.
+
+The scheme is valid until March 2024 while the visa is valid for 30 days, permitting double entry from the date of initial arrival to Sri Lanka. However, industry sources believe that the boost in tourist arrivals may encourage the visa free travel scheme to be extended further.
+
+...
+
+[Data](articles/f7d9859c.json)
 
 ---
 
@@ -2209,55 +2251,5 @@ The Ceylon Electricity Board's Engineers Association, which criticized his views
 [Data](articles/2ad2dcfa.json)
 
 [Extended Data](ext_articles/2ad2dcfa.ext.json)
-
----
-
-### Wishing ICC. Recommended award
-
-*2024-03-04 14:42:27* · [`adalk`](https://www.ada.lk/breaking_news/පැතුම්-අයි-සී-සී--සම්මානයකට-නිර්දේශ-වෙයි/11-408416) · `si`
-
-Sri Lanka's brand recommended for ICC award in February 2024, highlighting success in one-day and Twenty20 tournaments with Afghanistan. Yasaswewei Juice and New Zealand also recognized.
-
-🟩
-
-Sri Lanka's brand is recommended for the International Cricket Council (ICC) award in relation to February 2024.
-
-He is recommended for this award in the one day and Twenty20 tournament with Afghanistan.
-
-In addition to him, Yasaswewei Juice and New Zealand, New Zealand, is recommended for this award.
-
-◼️
-
-[Data](articles/0d145bb2.json)
-
-[Extended Data](ext_articles/0d145bb2.ext.json)
-
----
-
-### Wishing Best Players
-
-*2024-03-04 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194114) · `si`
-
-The International Cricket Council (ICC) has selected Sri Lanka's blear as the best cricketer in February, following a double century in an ODI series against Afghanistan, marking the first double century by a Sri Lankan cricketer.
-
-🟩
-
-The International Cricket Council has selected three super players to select the best cricketer in the world for February.
-
-The best player is named after a voting voting.
-
-Accordingly, the Sri Lanka Super starter blear is among the three-players' names of the three players in February this year.
-
-The double century obtained at the ODI series against Afghanistan has come to name him.
-
-It is the first double century in a ODI player by a Sri Lankan cricketer.
-
-The other players named the ICC is the best player to select as the best player in February 2024 to be the best player in February 2024.
-
-◼️
-
-[Data](articles/6f6febfe.json)
-
-[Extended Data](ext_articles/6f6febfe.ext.json)
 
 ---

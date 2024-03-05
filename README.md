@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 02:03:07**
+As of **2024-03-06 01:50:59**
 
 ## Newspaper Stats
 
-*Scraped **11,106** Articles*
+*Scraped **11,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 593
 adalk | 936
 tamilmirrorlk | 1,348
 adaderanalk | 1,354
-virakesarilk | 1,503
+virakesarilk | 1,502
 dailymirrorlk | 1,695
 adaderanasinhalalk | 1,735
 
@@ -26,31 +26,11 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,102 (100.0%) of 11,106 articles have been extended.
+11,102 (100.0%) of 11,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
-
-### யாழ்ப்பாணத்தில் வடக்கையும் தெற்கையும் இணைக்கும் விழா - விமானப்படை தளபதி உதேனி ராஜபக்ஷ
-
-*2024-03-06 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178019) · `ta`
-
-இலங்கை விமானப்படையின் 73 ஆவது ஆண்டு நிறைவையொட்டி யாழ் முற்றவெளியில் வடக்கையும் தெற்கையும் இணைக்கும் விழா விளம்பர உள்ளதாக இலங்கை விமானப் படையின் தளபதி எயார் மாஷல் உதேனி ராஜபக்ஷ தெரிவித்தார்.
-
-யாழ்ப்பாணத்தில் இடம்பெறவுள்ள இலங்கை  விமானப் படையின் 73 ஆவது ஆண்டு நிறைவு விழா தொடர்பில் ஊடகங்களுக்கு அனுப்பி வைத்த அறிக்கையிலே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
-
-அவர் மேலும் தெரிவிக்கையில், இலங்கை விமானப் படை 73 வருட கால வரலாற்றைக் கடந்து வந்ததை இட்டு நான் பெருமை அடைகிறேன். ரோயல் விமானப்படையாக ஆரம்பிக்கப்பட்ட எமது விமானப்படை ஆரம்ப உறுப்பினர்களாக 6 உத்தியோகத்தர்களையும் ஏனைய தரத்திலான 24 உத்தியோகத்தர்களை கொண்டதாக இருந்தது.
-
-தற்போது நமக்கு சுமார் 20 பிராந்திய கிளைகள் காணப்படுவதுடன் அதற்கு மேலாக சுமார் 73 தொழில் வான்மை பிரிவுகளும் காணப்படுகின்றது.
-
-கல்வி மற்றும் சமூக சேவை வேலை திட்டங்களுக்கு முன்னுரிமை அளித்து 73 வது ஆண்டு விழாவை கெளரவமான முறையில் சிறப்பாகக் கொண்டாடுவதற்கான ஏற்பாடுகளை மேற்கொள்கிறோம்.
-
-...
-
-[Data](articles/8f3f2d23.json)
-
----
 
 ### பொருளாதார பாதிப்பு காரணமாக குழந்தை பெற்றுக்கொள்வதை தவிர்த்துள்ள தம்பதிகள் – 2023 ஆம் ஆண்டு இலங்கை  சனத்தொகையில் பாரிய வீழ்ச்சி
 
@@ -2263,5 +2243,25 @@ Senior central bankers were summoned to the Cabinet of Ministers.
 [Data](articles/c9662991.json)
 
 [Extended Data](ext_articles/c9662991.ext.json)
+
+---
+
+### Sri Lanka Team starts new initiative: recognizes on-field performances
+
+*2024-03-05 15:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Team-starts-new-initiative-recognizes-on-field-performances/108-278276) · `en`
+
+Mar. 5 (SLC) - As part of a new initiative by the national team to recognize ‘on-field excellence,’ Charith Asalanka was awarded the ‘Orange Cap and the Coin’ by the team for his excellent fielding efforts during yesterday’s game against Bangladesh.
+
+Asalanka, apart from his batting heroics, held onto three catches, two of them coming at the most crucial moment in Sri Lanka’s winning cause.
+
+Upul Chandana, the team's fielding coach, awarded the 'Orange Cap and the Coin' to Asalanka.
+
+This latest move, the team management believes, will encourage players to perform at the highest level, and it intends to expand the recognition into other areas such as ‘bowling and batting, as well.
+
+◼️
+
+[Data](articles/dbbe23ce.json)
+
+[Extended Data](ext_articles/dbbe23ce.ext.json)
 
 ---

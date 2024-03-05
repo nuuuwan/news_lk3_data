@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 19:17:41**
+As of **2024-03-05 19:33:36**
 
 ## Newspaper Stats
 
-*Scraped **11,043** Articles*
+*Scraped **11,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,142 @@ dailyftlk | 584
 islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,344
-adaderanalk | 1,345
-virakesarilk | 1,489
-dailymirrorlk | 1,684
+adaderanalk | 1,346
+virakesarilk | 1,490
+dailymirrorlk | 1,687
 adaderanasinhalalk | 1,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,042 (100.0%) of 11,043 articles have been extended.
+11,043 (100.0%) of 11,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### කාන්තාවකට පහරදුන් බවට සැක මුසම්මිල්ගේ පුතා සැඟවෙයි
+### Cabinet extends validity of scheme for Sri Lankans abroad to import electric vehicles
 
-*2024-03-05 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194174) · `si`
+*2024-03-05 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-extends-validity-of-scheme-for-Sri-Lankans-abroad-to-import-electric-vehicles/108-278289) · `en`
 
-ඌව පළාත් ආණ්ඩුකාර ඒ ජේ එම් මුසම්මිල් මහතාගේ පුත්‍රයෙකු අත්අඩංගුවට ගැනීම සඳහා තවදුරටත් විමර්ශන සිදුකරන බව පොලීසිය පවසයි.
+Colombo, March 5 (Daily Mirror) - The Cabinet has approved an extension of the validity period for the scheme enabling Sri Lankans working abroad to import fully electric vehicles, Cabinet spokesman and Minister Bandula Gunawardana said.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ වැල්ලවත්ත පොලීසිය වෙත ලද පැමිණිල්ලකට අනුව මෙම විමර්ශන සිදුකරන බවය.
+He said Cabinet approval was granted in August 2022 for the rollout of a scheme allowing Sri Lankans employed overseas to import fully electric vehicles.
 
-අදාළ පුත්‍රයා විසින් වැල්ලවත්ත ප්‍රදේශයේ මහල් නිවාසයකදී කාන්තාවකට පහරදීමෙන් එම කාන්තාව රෝහල්ගතකර ඇති බවට එම පැමිණිල්ලේ දැක්වෙයි.
+This scheme operates on the condition of formal bank transfers of foreign remittances through licenced banks in Sri Lanka.
 
-මේ අතර සැකකරු අත්අඩංගුවට ගැනීමට යාමේදී ඔහු විසින් වරද සිදුකිරීම සඳහා ඔහු ගමන්කළ බවට සැක රථය සහ ඔහුගේ ජංගම දුරකථනය දකුණු පළාතේ ස්ථානයක තබා පොලීසිය නොමග යවා ඇති බවද එම නිවේදනයෙන් පොලීසිය වැඩිදුරටත් පවසයි.
+At the Cabinet meeting held in January 2024, it was further decided to extend the validity period of the scheme till June 30, 2024.
 
-එසේම එහි වැඩිදුරටත් දැක්වෙන්නේ ආණ්ඩුකාර ඒ ජේ එම් මුසම්මිල් මහතාගේ පුත්‍රයා මේ වනවිට වෙනත් ප්‍රදේශයක සැඟව සිටින බවට සැකපළ කරන බවය.
+In line with this, the Cabinet has given approval to the proposal by the President, acting in his role as the Minister of Finance, to present the Import and Export Control Regulations No. 2 of 2024, issued under the Import and Export Control Act No. 1 of 1969, to parliament for approval.
 
-කෙසේ වෙතත් එලෙස දකුණු පළාතේ තිබියදී සොයාගත් එම රථය සහ ජංගම දුරකථනය විමර්ශන නිලධාරීන් සිය භාරයට ගෙන ඇත.
+◼️
 
-එසේම ඔහු පොලීසියට භාරවන බවට සැකකරු හෝ සැකකරුගේ පියා වන ආණ්ඩුකාරවරයා විසින් කිසිදු අවස්ථාවක පොලීසිය වෙත දැනුම්දී නොමැති බවද අදාළ නිවේදනයේ දැක්වෙයි.
+[Data](articles/58a22ae9.json)
+
+---
+
+### ஆக்கிரமிக்கப்பட்ட காணிகளை விடுவிக்கக் கோரி ஜனாதிபதிக்கு தபாலட்டைகள்!
+
+*2024-03-05 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178007) · `ta`
+
+வடக்கில் உள்ள 5 மாவட்டங்களைச் சேர்ந்த காணியை இழந்த மக்களின் காணிகளை விடுவிக்கக் கோரி "நிலத்தை இழந்த மக்களின் குரல்"  எனும் தலைப்பில் கவனயீர்ப்பு ஒன்று முன்னெடுக்கப்பட்டது.
+
+மன்னார் சமூக பொருளாதார அபிவிருத்திக்கான நிறுவனம் நீண்ட காலமாக முயற்சித்து, மக்களிற்கு பல்வேறு உதவிகளை மேற்கொண்டு வருவதுடன், குறித்த தபாலட்டை அனுப்பும் செயற்பாட்டினை ஏற்பாடு செய்திருந்தனர்.
+
+இராணுவம், வனவள திணைக்களம், வனஜீவராசி, கடற்படை, தொழிற்சாலைகள், தொல்லியல் திணைக்களங்களால் ஆக்கிரமிக்கப்பட்ட காணிகளை விடுவிக்கக் கோரி இவ்வாறு தபால் அட்டைகள் அனுப்பப்பட்டுள்ளது.
+
+குறித்த நிகழ்வு செவ்வாய்க்கிழமை (05) காலை 10.30 மணியளவில் கிளிநொச்சி ஜெயபுரம் பொது மண்டபத்தில் இடம்பெற்றது.
+
+இதன் போது, கிளிநொச்சி மாவட்டத்தில் காணிகளை இழந்த பாதிக்கப்பட்ட 100க்கு மேற்பட்ட காணி உரிமையாளர்களால் காணிகளை விடுவிக்கக் கோரியே இவ்வாறு ஜனாதிபதிக்குத் தபால் அட்டைகள் மூலம் கோரிக்கை விடுக்கப்பட்டு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+நீண்ட கால யுத்தம் காரணமாகக் காணி ஆவணங்களைப் பெற முடியாமலும், உறுதிக் காணிகளும் இவ்வாறு மேற்குறித்த தரப்புக்களால் ஆக்கிரமிக்கப்பட்டுள்ளது.
 
 ...
 
+[Data](articles/30cd579d.json)
+
+---
+
+### Salary hike for CB officials unfair: Party leaders
+
+*2024-03-05 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Salary-hike-for-CB-officials-unfair-Party-leaders/108-278286) · `en`
+
+Parliament, March 5 (Daily Mirror)- The salary hike for Central Bank officials cost an extra sum of Rs 232 million monthly, it was revealed at the party leaders meeting today.
+
+The party leaders have informed the Central Bank officials that it is unfair for them to increase their salaries at a time when ordinary citizens are undergoing various hardships.
+
+"Party leaders have also been of the opinion that Central Bank officials should have foregone a salary hike even if there was legal provisions for them to obtain it when people of this nation are undergoing difficulties," an official statement from Parliament media unit said.
+
+...
+
+[Data](articles/04096441.json)
+
+---
+
+### Transport Minister not efficient, only talks: Gemunu
+
+*2024-03-05 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Transport-Minister-not-efficient-only-talks-Gemunu/108-278288) · `en`
+
+Colombo, March 5 (Daily Mirror) - The current Transport Minister is not efficient with his work and is only limited to his talks, Lanka Private Bus Owners' Association (LPBOA) president Gemunu Wijerathne claimed today.
+
+Addressing the media, he said that even though the government had not reduced the price of Super Diesel, the bus operators will continue with their services.
+
+"It had been two years since Minister Nimal Siripala de Silva assumed duties as Transport Minister, but nothing has been done for the private bus service. He continuously use to say that while operating 3,000 buses, the Sri Lanka Transport Board (SLTB) incurs a loss of Rs. 10 million per day. If the SLTB incurs such a loss, the Minister should be able to imagine how much of losses the private bus operators incur while operating 14,000 buses per day," Wijerathne said.
+
+...
+
+[Data](articles/c90dba46.json)
+
+---
+
+### Sri Lanka to join US-led International Counter Ransomware Initiative
+
+*2024-03-05 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97749/sri-lanka-to-join-us-led-international-counter-ransomware-initiative) · `en`
+
+Sri Lanka has received an invitation to join the inaugural International Counter Ransomware Initiative, which the United States has started as a common platform in 2021 with a group of other countries for international coordination to eliminate ransomware, the government said.
+
+So far, 48 countries around the world and the European Union as well as the International Police (Interpol) have joined the initiative.
+
+Since Sri Lanka has recently faced various problems due to ransomware, it has been recognized that it can benefit from joining the International Counter Ransomware Initiative, the Govt. Information Department said.
+
+Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the President in his capacity as the Minister of Technology and Minister of Justice, Prison Affairs and Constitutional Reforms to join the International Counter Ransomware Initiative and taking further action.
+
+◼️
+
+[Data](articles/fabcd036.json)
+
+---
+
+### Muzammil's son hides with a woman attack
+
+*2024-03-05 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194174) · `si`
+
+JM Muzmil's son, Muzammil, is under investigation for hiding with a woman involved in an assault. The police are conducting further investigations to arrest him. The complaint was lodged with the Wellawatte police, and the woman was hospitalized after the assault. The suspect and his mobile have been misled by the police in the Southern Province. The vehicle and mobile phone were taken into custody there. The suspects have not yet been informed that they will surrender to the police. The Police Media Spokesman's Office has issued a statement in response to the Governor of the Uva Province's statement.
+
+🟩
+
+The police said that investigations are being conducted further investigations to arrest him a son of JM Muzmil.
+
+The Police Media Spokesman's office said in a statement that these investigations are conducted on a complaint lodged to the Wellawatte police.
+
+The complaint states that the woman had been hospitalized after assaulting a woman at a flat area in Wellawatte.
+
+Meanwhile, the suspect and his mobile have been misled by the police and had been misled by the police in the Southern Province.
+
+It also states that the Son of Governor, JM Muzmil, will be confronted with hiding in another area.
+
+However, the vehicle and mobile phone was taken into custody in the Southern Province.
+
+The suspects, the suspect, the father of the suspect, has not yet been informed the police that he will surrender him to the police.
+
+The Police Media Spokesman's Office has issued the statement clearly explaining the correct situation in response to a statement made by the Governor of the Uva Province.
+
+◼️
+
 [Data](articles/1b3b4da3.json)
+
+[Extended Data](ext_articles/1b3b4da3.ext.json)
 
 ---
 
@@ -2143,103 +2243,5 @@ He was also the Deputy Chairman of the Kalawewa Branch of the Freedom Party. He 
 [Data](articles/e032051c.json)
 
 [Extended Data](ext_articles/e032051c.ext.json)
-
----
-
-### Central Bank Maha Champs to Parliament
-
-*2024-03-05 10:55:36* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-මහ-පුටු-පාර්ලිමේන්තුවට/11-408432) · `si`
-
-Parliament meets from 05-07. Two events: no-confidence motion against TNA Speaker Mahinda Yapa Abeywardena and Central Bank Neeerors' celebration, linked to salary increases.
-
-🟩
-
-Parliament has planned to meet today (05) to meet the meeting until the 7th.. There are two special events today.
-
-The no-confidence in the TNA to be handed over to the Speaker Mahinda Yapa Abeywardena to the Speaker Mahinda Yapa Abeywardena is to be handed over to the Secretary General of Parliament. The reconciliation has decided to bring the conviction proposal by accusing the Speaker Mahinda Yapa Abeywardena violates the constitution.
-
-Also, the Central Bank Neeerors have decided to call on the celebrations of the Central Bank meeting in order to be determined by the wage of salaries in their performance.. In this case, this is the increase in the increase in a government agen, this is a strong speech between the public.
-
-◼️
-
-[Data](articles/8536c994.json)
-
-[Extended Data](ext_articles/8536c994.ext.json)
-
----
-
-### Deadline for submission of bids for SriLankan extended
-
-*2024-03-05 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97738/deadline-for-submission-of-bids-for-srilankan-extended) · `en`
-
-The deadline for submission of bids for SriLankan Airlines has been extended by 45 days, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
-
-A live auction was scheduled to take place today (March 05) to choose an investor for the divestment of SriLankan Airlines, as per a comment made by the lawmaker during Ada Derana’s ‘GET REAL’ segment last week.
-
-However, convening a media briefing today, the minister revealed that bids would be called for another 45 days before choosing an investor for the national carrier.
-
-Further, the Cabinet of Ministers has green-lighted a proposal for the government to absorb SriLankan Airlines’ outstanding debt to the tune of USD 510 million, the minister added.
-
-In addition, the Cabinet approval has been given to allocate funds to maintain services of the national carrier for another six months.
-
-◼️
-
-[Data](articles/3b75c4b1.json)
-
-[Extended Data](ext_articles/3b75c4b1.ext.json)
-
----
-
-### Bid closing date for SriLankan extended - Minister
-
-*2024-03-05 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97738/bid-closing-date-for-srilankan-extended-minister) · `en`
-
-The deadline for submission of bids for the divestment of SriLankan Airlines has been extended by 45 days, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/68d39d98.json)
-
-[Extended Data](ext_articles/68d39d98.ext.json)
-
----
-
-### SLANKAN call for bids
-
-*2024-03-05 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194148) · `si`
-
-SLANKAN extends bidding for investor selection in its restructuring program, postponed by 45 days by Minister Nimal Siripala de Silva.
-
-🟩
-
-Bids have been extended to select a suitable investor for the restructuring program for the restructuring program.
-
-Accordingly, Minister of Ports, Naval and Aviation Minister Nimal Siripala de Silva said that it would be postponed for 45 days.
-
-◼️
-
-[Data](articles/5c11c9a2.json)
-
-[Extended Data](ext_articles/5c11c9a2.ext.json)
-
----
-
-### Repeat the Funeral and Anti -Terrorism Bill - the EU urges the UN Human Rights Council session
-
-*2024-03-05 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177926) · `ta`
-
-The EU urges the UN Human Rights Council to follow a process involving affected communities before creating laws for the Truth, Unity, and Reconciliation Commission. The 55th session began in Geneva on Feb 26, with discussions on Sri Lanka's human rights, including concerns over the Sustainability Act and the Terrorism Act. The UK's International Ambassador to Human Rights, Rita French, addressed the issue, highlighting the need for amendments to protect human rights. The government's efforts to establish a truth, unity, and reconciliation commission are welcomed, but it's crucial to include all stakeholders in the process.
-
-🟩
-
-The British -led internet -led internet -led government, which is in charge of the UN Human Rights Council (UNHRC), is required to follow a process that is required to follow a procedure that can be constructed by the affected communities before the creation of the law on the Truth, Unity and Reconciliation Commission. Have been stressed.
-
-The 55th session of the United Nations Human Rights Council commenced in Geneva on February 26. Although it was already announced that the verbal report of the High Commission on Sri Lanka's Human Rights and Liability Level on Monday (4), the United Nations Human Rights High Commissioner Volcker Turku was read last Friday (1) (1).. In addition, the report of the High Commissioner on Sri Lanka was responded to the United Nations Permanent Resident Fund Himali Arunathilaka for the United Nations.
-
-...
-
-[Data](articles/0179d137.json)
-
-[Extended Data](ext_articles/0179d137.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 13:02:42**
+As of **2024-03-05 13:17:37**
 
 ## Newspaper Stats
 
-*Scraped **10,962** Articles*
+*Scraped **10,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,102 @@ newsfirstlk | 363
 economynextcom | 562
 dailyftlk | 584
 islandlk | 592
-adalk | 928
+adalk | 929
 adaderanalk | 1,333
 tamilmirrorlk | 1,338
 virakesarilk | 1,471
 dailymirrorlk | 1,671
-adaderanasinhalalk | 1,709
+adaderanasinhalalk | 1,711
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,958 (100.0%) of 10,962 articles have been extended.
+10,962 (100.0%) of 10,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### වාහන ආනයනය ගැන රජයෙන් අලුත් තීරණයක්
+### කොළඹ ලොකු දුම්රිය ස්ථාන කිහිපයක් වෙනස්වෙයි
+
+*2024-03-05 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194155) · `si`
+
+කොළඹ නගරය ආශ්‍රිතව ප්‍රධාන දුම්රිය ස්ථාන පිහිටි ගොඩනැගිලි වාණිජ මධ්‍යස්ථාන වශයෙන් වැඩිදියුණු කිරීමට අදාළ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+වැල්ලවත්ත, බම්බලපිටිය, කොල්ලුපිටිය සහ කොම්පඤ්ඤවීදිය යන දුම්රිය ස්ථාන ඒ සඳහා හඳුනාගෙන ඇත.
+
+2023 වර්ෂයේ නොවැම්බර් මස් ජුනි මස 06 වනදා පැවති කැබිනට් රස්වීමේදී මේ පිළිබඳව හඳුනාගෙන තිබේ.
+
+එම දුම්රිය ස්ථාන සහ ඊට අමතරව දෙහිවල සහ ගල්කිස්ස දුම්රිය ස්ථාන රාජ්‍ය-පෞද්ගලික හවුල්කාරීත්ව යටතේ ඉදිකර මෙහෙයුම් කර පවරාදීමේ ක්‍රමවේදය යටතේ සංවර්ධනය කිරීමට අදාළ යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+එසේම ඒ සඳහා උනන්දුවක් දක්වන ආයෝජකයින් වෙතින් අභිලාශ ප්‍රකාශ කිරීම් කැඳවීමට අදාළ යෝජනාවට ද අනුමැතිය හිමිව තිබේ.
+
+ප්‍රවාහන හා මහාමාර්ග අමාත්‍යවරයා සහ නාගරික සංවර්ධන අමාත්‍යවරයා ඒකාබද්ධව මෙම කැබිනට් යෝජනාව ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/3939a10c.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගතකරණය ගැන අලුත් කථාවක්
+
+*2024-03-05 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194154) · `si`
+
+ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණය මේ වසරේ දෙවැනි කාර්තුවේදී අවසන් කිරීමට හැකි වෙතැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු පැවසුවේ, රටක් වශයෙන් ස්ථාවර වුවද රට අවදානම් කලාපයෙන් සම්පූර්ණයෙන් එළියට ගොස් නොමැති බවය.
+
+"අවදානම් කලාපයෙන් එළියට යන්න තව මාස 6, 8, හෝ 12ක කාලයක් ගත වෙන්න පුළුවන්..."
+
+2024දී ධනාත්මක ආර්ථික වර්ධනයක් ඇතිවිය හැකි බව පෙන්වා දුන් රාජ්‍ය අමාත්‍යවරයා, ඒ සඳහා වර්තමාන ආර්ථික ප්‍රතිසංස්කරණ පවත්වා ගෙන යෑම වැදගත් බව ද පැවසීය.
+
+◼️
+
+[Data](articles/aad3dcaf.json)
+
+---
+
+### New decision from the import of vehicle imports
 
 *2024-03-05 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194153) · `si`
 
-විදෙස් රටවල සේවයන්හි නිරත ශ්‍රී ලාංකිකයින්ට විද්‍යුත් වාහන ආනයනය කිරීමට අදාළ නව යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The cabinet approved importing electrical vehicles for Sri Lankans abroad, granting licenses to banks, and extending the validity period for cabhletes.
 
-ශ්‍රී ලංකාවේ බලපත්‍රලාභී බැංකු වෙත විධිමත් බැංකු මාර්ගයෙන් විදේශ ප්‍රේෂණ හුවමාරු කිරීම මටහ විදේශයන්හි සේවයේ නිරත ශ්‍රී ලාංකිකයින්ට පූර්ණ විද්‍යුත් වාහන ආනයනය කිරීම සඳහා බලපත ලබාදීමේ යෝජනා ක්‍රමයක් ක්‍රියාත්මක කිරීමට 2022 වසරේ අගෝස්තු මස 08 වනදා පැවති කැබිනට් රැස්වීමේදී අනුමැතිය හිමිවිය.
+🟩
 
-එම යෝජනා ක්‍රමයේ වලංගු කාලය 2024 වර්ෂයේ ජුනි මස 30 වනදා දක්වා දීර්ඝ කිරීමට පසුගිය ජනාවාරි මාසයේ 08 වනදා පැවති කැබින් රැස්වීමේදී තීරණය කර තිබුණි.
+The cabinet approval has been given to the importation of electrical vehicles to Sri Lankans working in foreign countries.
 
-ඒ අනුව ඒ සඳහා විධිවිධාන සලසමින් 1969 අංක 01 දරන ආනයන හා අපනයන පනත යටතේ නිකුත් කර ඇති 2024 අංක 02 දරන ආනයන හා අපනයන රෙගුලාසි පාර්ලිමේන්තුවේ අනුමැතිය සඳහා ඉදිරිපත් කිරීමට ආදාළව ජනාධිපතිවරයා විසින් මෙම යෝජනාව ඉදිරිපත් කර තිබුණි.
+The Cabinet meeting held at the Cabinet meeting held on August 8, 2022 to provide licenses to Sri Lankans who work abroad to Sri Lanka's licensed banks.
+
+The 19th General Mahindariya cabhletes held on the 8th of June 2024 to extend the validity period of June 2024.
+
+The proposal was presented by the President of the Import and Export Regulations under the Import and Export Act, No. 01 of 1969, providing arrangements for this purpose.
 
 ◼️
 
 [Data](articles/172a82df.json)
 
+[Extended Data](ext_articles/172a82df.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-03-05 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177949) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (மார்ச் 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 303.0472 ஆகவும் விற்பனை விலை ரூபா 312.6876 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+"Today's currency exchange rate: US dollar purchasing price Rs 303.0472, sales price Rs 312.6876, Central Bank release on March 5."
+
+🟩
+
+The US dollar purchasing price was Rs 303.0472 and the sales price were 312.6876 based on the currency exchange rate released by the Central Bank on Tuesday (March 05).
 
 ◼️
 
 [Data](articles/c811c4d2.json)
+
+[Extended Data](ext_articles/c811c4d2.ext.json)
 
 ---
 
@@ -78,45 +130,57 @@ According to the police, two assailants who had arrived on a motorcycle had fire
 
 ---
 
-### ட்ரம்ப் போட்டியிடுவதை மாநிலங்கள் தடுக்க முடியாது: அமெரிக்க உயர் நீதிமன்றம் தீர்ப்பு
+### States cannot prevent Trump from contesting: US High Court Judgment
 
 *2024-03-05 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177943) · `ta`
 
-அமெரிக்க ஜனாதிபதித் தேர்தலில் முன்னாள் டொனால்ட் ட்ரம்ப் போட்டியிடுவதை மாநிலங்கள் தடுக்க முடியாது என  என  அந்நாட்டு உயர்நீதிமன்றம் ஏகமனதாக தீர்ப்பளித்துள்ளது.
+The US High Court ruled that states cannot prevent Trump from contesting the US presidential election, overturning Colorado's decision to exclude him from the ballot due to alleged support for the January 6 attacks.
 
-2021 ஜனவரி 6 ஆம் திகதி அமெரிக்கப் பாராளுமன்ற வளாகத்தில் நடத்தப்பட்ட தாக்குதல்களை ஆதரித்தார் என்ற குற்றச்சாட்டின் காரணமாக, கொலராடோ மாநில குடியரசுக் கட்சி உட்கட்சித் தேர்தல் வாக்குச்சீட்டுகளில் ட்ரம்பின் பெயர் இடம்பெற முடியாது என கொலராடோ மாநில நீதிமன்றம் கடந்த டிசெம்பர் மாதம் தீர்ப்பளித்திருந்தது.
+🟩
 
-இந்நிலையில்,  கொலராடோ உயர் நீதிமன்றத்தின் தீர்ப்புக்கு எதிராக 9:0 விகிதத்தில் அமெரிக்க சமஷ்டி உச்சநீதிமன்ற நீதிபதிகள் திங்கட்கிழமை (04)  தீர்ப்பளித்தனர்.
+The High Court has unanimously ruled that states cannot prevent former Donald Trump contesting the US presidential election.
 
-மேற்படி குற்றச்சாட்டின் கீழ் போட்டியிடுவதை தடுக்கும் அதிகாரம் மாநிலங்களுக்கு கிடையாது எனவும், அமெரிக்கப் பாராளுமன்றத்துக்கே அத்தகைய அதிகாரம் உள்ளது எனவும் அமெரிக்க உயர் நீதிமன்றம் தெரிவித்துள்ளது.
+The Colorado state court ruled last December that Trump's name could not be included in the Colorado State Republican election ballot ballot due to allegations that he supported the attacks on the US parliamentary complex on January 6, 2021.
 
-கொலராடோ உட்பட 15 மாநிலங்களில் குடியரசுக் கட்சியின் உட்கட்சித் தேர்தல் இன்று நடைபெறவுள்ளமை குறிப்பிடத்தக்கது.
+In this context, the US federal Supreme Court judges on Monday (04) ruled that the Colorado High Court's ruling was 9: 0.
+
+The US High Court said that the states do not have the authority to prevent competing under the charge and that the US parliament has such a power.
+
+It is noteworthy that the Republican party elections will be held today in 15 states, including Colorado.
 
 ◼️
 
 [Data](articles/29a90326.json)
 
+[Extended Data](ext_articles/29a90326.ext.json)
+
 ---
 
-### சித்திரவதைகளில் ஈடுபட்டவர் என உயர்நீதிமன்றம் உறுதி செய்த ஒருவரை பொலிஸ்மா அதிபராக நியமிப்பதா? இலங்கை சட்டத்தரணிகள் சங்கம் போர்க்கொடி
+### Will the Supreme Court confirmed a person who was involved in torture as a police chief?Ceylon Attorneys Association
 
 *2024-03-05 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177942) · `ta`
 
-புதிய பொலிஸ்மா அதிபராக தேசபந்துதென்னக்கோன் நியமிக்கப்பட்டமை குறித்து இலங்கைசட்டத்தரணிகள் சங்கம் கவலை வெளியிட்டுள்ளது.
+The Supreme Court confirmed Deshabanduthenkoon as Inspector General of Police, despite his involvement in torture, sparking concern from the Sri Lanka Lawyers Association and the Ceylon Attorneys Association.
 
-தேசபந்து தென்னக்கோன்  சித்திரவதைகளில் ஈடுபட்டவர் என உயர்நீதிமன்றம் உறுதி செய்துள்ளது என இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் கௌசல்யநவரட்ண தெரிவித்துள்ளார்.
+🟩
 
-இவ்வாறான சூழ்நி;லையில் தேசபந்துதென்னக்கோனை  பொலிஸ்மா அதிபராக நியமித்துள்ளமை கரிசனையை ஏற்படுத்தியுள்ளது என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Association's Association has expressed concern over the appointment of Deshabanduthenkoon as the new Inspector General of Police.
 
-பொலிஸ்மாஅதிபராக தேசபந்துதென்னக்கோனை நியமித்துள்ளதால்  அவரது நியமனத்திற்கு எதிரான எதிர்ப்புகள் முடிவடையவில்லை என இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+The High Court has confirmed that he was involved in the torture of Patriotic and the President of the Sri Lanka Lawyers Association, Kausalyanavaratne.
 
-பொலிஸ்மா அதிபராக தேசபந்து தென்னக்கோனை நியமித்தவேளை  உயர்நீதிமன்றத்தின் தீர்ப்பு முற்றாக புறக்கணிக்கப்பட்டுள்ளது போல தோன்றுகின்றது இது பாரதூரமான விடயம் எனவும் அவர் தெரிவித்துள்ளார்.
+The Sri Lanka Lawyers Association has said that the appointment of Deshabanduthenkon as the Inspector General of Police has made it so concern.
 
-இந்த நியமனத்தை மேற்கொண்ட தரப்புகளிற்கு எதிராக சட்டநடவடிக்கை உட்பட எவ்வாறான நடவடிக்கைகளை எடுக்கலாம் என ஆராய்ந்து வருகின்றோம் என இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+The President of the Sri Lanka Lawyers Association has said that the opposition against his appointment has not ended as he has appointed the President of the Police.
+
+He said that the High Court's verdict appeared to be completely ignored when the nation was appointed as the Inspector General of Police.
+
+The President of the Sri Lanka Lawyers Association said,
 
 ◼️
 
 [Data](articles/2297f415.json)
+
+[Extended Data](ext_articles/2297f415.ext.json)
 
 ---
 
@@ -429,6 +493,22 @@ At the same time, Sinhala Buddhistism continues to be the main mechanism in Sri 
 [Data](articles/1ab4723b.json)
 
 [Extended Data](ext_articles/1ab4723b.ext.json)
+
+---
+
+### නුවරඑලිය සතොසින් බලෙන් බඩු බෙදයි
+
+*2024-03-05 10:57:01* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑලිය-සතොසින්-බලෙන්-බඩු-බෙදයි/11-408433) · `si`
+
+ගැබිනි මව්වරුන්ට හා අඩු ආදායම්ලාභී කිරි දෙන මව්වරුන් සඳහා ප්‍රාදේශීය ලේකම් කාර්යාලය හරහා රජයෙන් ලබාදෙන පෝෂණ මල්ල සදහා භාණ්ඩ ලබා ගැනීමට නුවරඑළිය සතොස ශාඛාවට යන මව්වරුන්ට භාවිතයට නොසුදුසු රුපියල් පන්සියයක් වටිනා බිස්කට් පැකට් අනිවාර්යෙන් මිලදී ගත යුතු බව පවසා බලහත්කාරයෙන් බිලට එකතු කරන බව භාණ්ඩ මිල දි ගැනිමට පැමිණෙන ගැබිනි මව්වරුන් චෝදනා කර සිටිති.
+
+මේ සම්බන්ධයෙන් අප නුවරඑළිය ප්‍රාදේශීය ලේකම් ප්‍රගීත් ධනංසූරිය මහතාගෙන් කළ විමසමකට ඔහු කියා සිටියේ මේ පිළිබඳ සොයා බලා වගකිය යුතු ආයතන ප්‍රධානීන් දැනුවත් කිරීමට කටයුතු කරන බවයි.
+
+ගැබිනි මව්වරුන්ට සහ අඩු ආදායම්ලාභී කිරිදෙන මවුවරුන් සඳහා රජයෙන් පෝෂණ මල්ලක් ලබාදෙන්නේ ඔවුන්ගේ පෝෂණ ඌනතාවයන් සැපිරිමට බවත්, එම වවුචරයෙන් ලබා ගැනිමට හැක්කේ පෝෂණයට අවශ්‍යතාවයන්ට අවශ්‍ය ආහාර ද්‍රව්‍ය පමණක් බවයි.
+
+...
+
+[Data](articles/8c8d21cd.json)
 
 ---
 
@@ -2097,75 +2177,5 @@ The modern quantity theory of money is basically an explanation of inflation (an
 [Data](articles/74aec73f.json)
 
 [Extended Data](ext_articles/74aec73f.ext.json)
-
----
-
-### Sri Lanka won Bangladesh by 3 runs
-
-*2024-03-04 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/177913) · `ta`
-
-Sri Lanka won the first T20 match against Bangladesh by 3 runs, leading the series 1-0. Key players for Sri Lanka included Gusal Mendis, Satheera Samarawickrama, and Sarith Asalanka, with significant contributions from Angelo Mathews and Dasun Shanaka. Bangladesh's top scorers were Mahmudullah and Jacker Ali.
-
-🟩
-
-Sri Lanka won by 3 runs in the first international T20 cricket match against Bangladesh at the Chilhead International Cricket Stadium on Monday (04).
-
-With this victory, Sri Lanka has reached the lead in the three -match international T20 cricket series 1 - 0.
-
-Gusal Mendis, Satheera Samarawickrama and team captain Sarith Asalanka, the excellent bowls of Angelo Mathews and Dasun Shanaka helped Sri Lanka win.
-
-In particular, Dasun Shanaka's last over was the first over and the team's victory was to take 2 wickets.
-
-Avishka Fernando (4) and 37 runs when the total number was 4 runs and Kamundu Mendis (19) played Sri Lanka.
-
-However, Kusal Mendis and Satheera Samarawickrama were very efficiently bowled out and shared 96 runs off 61 balls in the 3rd wicket.
-
-Gusal Mendis faced 36 balls and scored 59 runs with 6 pounds and 3 sixes.
-
-After he lost the match, Satheera Samarawickrama and team captain Sarit Asalankam shared 73 runs off 32 balls in the 4th wicket.
-
-...
-
-[Data](articles/9de9cdf5.json)
-
-[Extended Data](ext_articles/9de9cdf5.ext.json)
-
----
-
-### Tax reform roadblocks: Leakages and systematic issues
-
-*2024-03-04 22:55:17* · [`dailyftlk`](https://www.ft.lk/columns/Tax-reform-roadblocks-Leakages-and-systematic-issues/4-759148) · `en`
-
-Reforms lack the necessary legitimacy to garner widespread support and effectively address the challenges at hand
-
-When unveiling the tax reform leakages and systematic issues, it is evident that the journey towards meaningful tax reform is far from over. When leakages and systematic issues persist within a taxation system, the legitimacy of any proposed reforms becomes questionable. Such deficiencies undermine the fundamental principles of fairness, transparency, and equity that should underscore any tax system. When taxpayers witness leakages and systematic flaws, they lose faith in the system’s ability to uphold their interests fairly
-
-...
-
-[Data](articles/cd2802e4.json)
-
-[Extended Data](ext_articles/cd2802e4.ext.json)
-
----
-
-### Shanaka guides Sri Lanka to dramatic T20 win over Bangladesh
-
-*2024-03-04 22:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-guides-Sri-Lanka-to-dramatic-T20-win-over-Bangladesh/108-278232) · `en`
-
-Sylhet, Mar. 4 (AFP) - Dasun Shanaka held his nerve under pressure to take two wickets in the final over, snatching a dramatic three-run win for Sri Lanka in the opening Twenty20 international of a three-match series against Bangladesh in Sylhet on Monday.
-
-Set a target of 207 runs, lower middle-order batsman Jaker Ali took Bangladesh close with his maiden fifty before Shanaka ended his 34-ball innings of 68 with the third ball of the last over.
-
-Shoriful Islam hit a four from the next ball, leaving Bangladesh requiring six from their last two balls.
-
-But the hosts could manage only two runs to be restricted to 203-8, with Shanaka, who also dismissed Rishad Hossain in the first ball of the final over, finishing with 2-36.
-
-Former skipper Angelo Mathews claimed 2-17 to inflict some early damage on the Bangladesh innings before veteran Mahmudullah Riyad struck 54 off 31 balls to revive the hopes of the home side.
-
-...
-
-[Data](articles/d0d7cbc9.json)
-
-[Extended Data](ext_articles/d0d7cbc9.ext.json)
 
 ---

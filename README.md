@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 12:49:05**
+As of **2024-03-05 13:02:42**
 
 ## Newspaper Stats
 
-*Scraped **10,958** Articles*
+*Scraped **10,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ islandlk | 592
 adalk | 928
 adaderanalk | 1,333
 tamilmirrorlk | 1,338
-virakesarilk | 1,468
+virakesarilk | 1,471
 dailymirrorlk | 1,671
-adaderanasinhalalk | 1,708
+adaderanasinhalalk | 1,709
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,957 (100.0%) of 10,958 articles have been extended.
+10,958 (100.0%) of 10,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### වාහන ආනයනය ගැන රජයෙන් අලුත් තීරණයක්
+
+*2024-03-05 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194153) · `si`
+
+විදෙස් රටවල සේවයන්හි නිරත ශ්‍රී ලාංකිකයින්ට විද්‍යුත් වාහන ආනයනය කිරීමට අදාළ නව යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ශ්‍රී ලංකාවේ බලපත්‍රලාභී බැංකු වෙත විධිමත් බැංකු මාර්ගයෙන් විදේශ ප්‍රේෂණ හුවමාරු කිරීම මටහ විදේශයන්හි සේවයේ නිරත ශ්‍රී ලාංකිකයින්ට පූර්ණ විද්‍යුත් වාහන ආනයනය කිරීම සඳහා බලපත ලබාදීමේ යෝජනා ක්‍රමයක් ක්‍රියාත්මක කිරීමට 2022 වසරේ අගෝස්තු මස 08 වනදා පැවති කැබිනට් රැස්වීමේදී අනුමැතිය හිමිවිය.
+
+එම යෝජනා ක්‍රමයේ වලංගු කාලය 2024 වර්ෂයේ ජුනි මස 30 වනදා දක්වා දීර්ඝ කිරීමට පසුගිය ජනාවාරි මාසයේ 08 වනදා පැවති කැබින් රැස්වීමේදී තීරණය කර තිබුණි.
+
+ඒ අනුව ඒ සඳහා විධිවිධාන සලසමින් 1969 අංක 01 දරන ආනයන හා අපනයන පනත යටතේ නිකුත් කර ඇති 2024 අංක 02 දරන ආනයන හා අපනයන රෙගුලාසි පාර්ලිමේන්තුවේ අනුමැතිය සඳහා ඉදිරිපත් කිරීමට ආදාළව ජනාධිපතිවරයා විසින් මෙම යෝජනාව ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/172a82df.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-05 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177949) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (மார்ச் 05) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 303.0472 ஆகவும் விற்பனை விலை ரூபா 312.6876 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c811c4d2.json)
+
+---
 
 ### Shooting reported in front of shop in Nawagamuwa
 
@@ -44,27 +74,55 @@ According to the police, two assailants who had arrived on a motorcycle had fire
 
 [Data](articles/c4b2e527.json)
 
+[Extended Data](ext_articles/c4b2e527.ext.json)
+
 ---
 
-### 36-ball spell in a T20I! A night to forget for Pathirana vs Bangladesh
+### ட்ரம்ப் போட்டியிடுவதை மாநிலங்கள் தடுக்க முடியாது: அமெரிக்க உயர் நீதிமன்றம் தீர்ப்பு
 
-*2024-03-05 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/36-ball-spell-in-a-T20I-A-night-to-forget-for-Pathirana-vs-Bangladesh/108-278267) · `en`
+*2024-03-05 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177943) · `ta`
 
-Mar. 5 (IND) - The first T20I of the three-match series between Sri Lanka and Bangladesh went down the wire with the visitors holding their nerve to win by three runs. Despite losing early wickets, Bangladesh stayed in the hunt right till the end and Sri Lanka's bowling played a part in it as well.
+அமெரிக்க ஜனாதிபதித் தேர்தலில் முன்னாள் டொனால்ட் ட்ரம்ப் போட்டியிடுவதை மாநிலங்கள் தடுக்க முடியாது என  என  அந்நாட்டு உயர்நீதிமன்றம் ஏகமனதாக தீர்ப்பளித்துள்ளது.
 
-At the end of IPL 2023, Matheesha Pathirana was touted to be the next superstar of Sri Lanka cricket with the ball. He had spent almost two months with the Chennai Super Kings and playing under skipper MS Dhoni, the youngster had flourished. But since then, in last nine months everything possible has gone wrong for Pathirana while playing for Sri Lanka at the international level. He endured a very tough ODI World Cup and amidst brilliance in one-odd game, the bowler with the slingy action is having a torrid time on the field.
+2021 ஜனவரி 6 ஆம் திகதி அமெரிக்கப் பாராளுமன்ற வளாகத்தில் நடத்தப்பட்ட தாக்குதல்களை ஆதரித்தார் என்ற குற்றச்சாட்டின் காரணமாக, கொலராடோ மாநில குடியரசுக் கட்சி உட்கட்சித் தேர்தல் வாக்குச்சீட்டுகளில் ட்ரம்பின் பெயர் இடம்பெற முடியாது என கொலராடோ மாநில நீதிமன்றம் கடந்த டிசெம்பர் மாதம் தீர்ப்பளித்திருந்தது.
 
-...
+இந்நிலையில்,  கொலராடோ உயர் நீதிமன்றத்தின் தீர்ப்புக்கு எதிராக 9:0 விகிதத்தில் அமெரிக்க சமஷ்டி உச்சநீதிமன்ற நீதிபதிகள் திங்கட்கிழமை (04)  தீர்ப்பளித்தனர்.
 
-[Data](articles/69dd1383.json)
+மேற்படி குற்றச்சாட்டின் கீழ் போட்டியிடுவதை தடுக்கும் அதிகாரம் மாநிலங்களுக்கு கிடையாது எனவும், அமெரிக்கப் பாராளுமன்றத்துக்கே அத்தகைய அதிகாரம் உள்ளது எனவும் அமெரிக்க உயர் நீதிமன்றம் தெரிவித்துள்ளது.
 
-[Extended Data](ext_articles/69dd1383.ext.json)
+கொலராடோ உட்பட 15 மாநிலங்களில் குடியரசுக் கட்சியின் உட்கட்சித் தேர்தல் இன்று நடைபெறவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/29a90326.json)
+
+---
+
+### சித்திரவதைகளில் ஈடுபட்டவர் என உயர்நீதிமன்றம் உறுதி செய்த ஒருவரை பொலிஸ்மா அதிபராக நியமிப்பதா? இலங்கை சட்டத்தரணிகள் சங்கம் போர்க்கொடி
+
+*2024-03-05 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177942) · `ta`
+
+புதிய பொலிஸ்மா அதிபராக தேசபந்துதென்னக்கோன் நியமிக்கப்பட்டமை குறித்து இலங்கைசட்டத்தரணிகள் சங்கம் கவலை வெளியிட்டுள்ளது.
+
+தேசபந்து தென்னக்கோன்  சித்திரவதைகளில் ஈடுபட்டவர் என உயர்நீதிமன்றம் உறுதி செய்துள்ளது என இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் கௌசல்யநவரட்ண தெரிவித்துள்ளார்.
+
+இவ்வாறான சூழ்நி;லையில் தேசபந்துதென்னக்கோனை  பொலிஸ்மா அதிபராக நியமித்துள்ளமை கரிசனையை ஏற்படுத்தியுள்ளது என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+
+பொலிஸ்மாஅதிபராக தேசபந்துதென்னக்கோனை நியமித்துள்ளதால்  அவரது நியமனத்திற்கு எதிரான எதிர்ப்புகள் முடிவடையவில்லை என இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+
+பொலிஸ்மா அதிபராக தேசபந்து தென்னக்கோனை நியமித்தவேளை  உயர்நீதிமன்றத்தின் தீர்ப்பு முற்றாக புறக்கணிக்கப்பட்டுள்ளது போல தோன்றுகின்றது இது பாரதூரமான விடயம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+இந்த நியமனத்தை மேற்கொண்ட தரப்புகளிற்கு எதிராக சட்டநடவடிக்கை உட்பட எவ்வாறான நடவடிக்கைகளை எடுக்கலாம் என ஆராய்ந்து வருகின்றோம் என இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2297f415.json)
 
 ---
 
 ### Our requests for independent investigations have been rejected - Malcolm Ranjith
 
-*2024-03-05 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177939) · `ta`
+*2024-03-05 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177939) · `ta`
 
 Cardinal Malcolm Ranjith criticizes Sri Lanka's rejection of independent inquiries into the Sunday attack, calling for open investigations. He welcomes the UN Human Rights Commissioner's report on Sri Lanka's human rights situation, expressing concern over the lack of accountability for the North East attacks. Ranjith accuses the government of ignoring new evidence and engaging in anti-democratic activities, including restricting media freedom and redefining terrorism. He urges the UN Human Rights Council to demand an open inquiry in Sri Lanka.
 
@@ -89,6 +147,22 @@ It has been five years since the Sunday attack on the 21st, and that the governm
 [Data](articles/8fbc6de9.json)
 
 [Extended Data](ext_articles/8fbc6de9.ext.json)
+
+---
+
+### 36-ball spell in a T20I! A night to forget for Pathirana vs Bangladesh
+
+*2024-03-05 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/36-ball-spell-in-a-T20I-A-night-to-forget-for-Pathirana-vs-Bangladesh/108-278267) · `en`
+
+Mar. 5 (IND) - The first T20I of the three-match series between Sri Lanka and Bangladesh went down the wire with the visitors holding their nerve to win by three runs. Despite losing early wickets, Bangladesh stayed in the hunt right till the end and Sri Lanka's bowling played a part in it as well.
+
+At the end of IPL 2023, Matheesha Pathirana was touted to be the next superstar of Sri Lanka cricket with the ball. He had spent almost two months with the Chennai Super Kings and playing under skipper MS Dhoni, the youngster had flourished. But since then, in last nine months everything possible has gone wrong for Pathirana while playing for Sri Lanka at the international level. He endured a very tough ODI World Cup and amidst brilliance in one-odd game, the bowler with the slingy action is having a torrid time on the field.
+
+...
+
+[Data](articles/69dd1383.json)
+
+[Extended Data](ext_articles/69dd1383.ext.json)
 
 ---
 
@@ -2093,97 +2167,5 @@ Former skipper Angelo Mathews claimed 2-17 to inflict some early damage on the B
 [Data](articles/d0d7cbc9.json)
 
 [Extended Data](ext_articles/d0d7cbc9.ext.json)
-
----
-
-### Trump wins Colorado ballot disqualification case at US Supreme Court
-
-*2024-03-04 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97732/trump-wins-colorado-ballot-disqualification-case-at-us-supreme-court) · `en`
-
-The U.S. Supreme Court handed Donald Trump a major victory on Monday, barring states from disqualifying candidates for federal office under a constitutional provision involving insurrection and reversing Colorado’s exclusion of him from its ballot.
-
-The justices unanimously overturned a Dec. 19 decision by Colorado’s top court to kick the former president off the state’s Tuesday Republican primary ballot after finding that the U.S. Constitution’s 14th Amendment disqualified him from again holding public office. The Colorado court had found that Trump took part in an insurrection for inciting and supporting the Jan. 6, 2021, attack on the U.S. Capitol by his supporters.
-
-But four of the nine justices, including the court’s three liberal members, faulted the rest of the court for announcing rules limiting how the constitutional provision may be enforced in the future.
-
-...
-
-[Data](articles/61b5f388.json)
-
-[Extended Data](ext_articles/61b5f388.ext.json)
-
----
-
-### Google map mishap: Duo who trespassed Temple Trees granted bail
-
-*2024-03-04 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Google-map-mishap-Duo-who-trespassed-Temple-Trees-granted-bail/108-278229) · `en`
-
-Colombo, March 4 (Daily Mirror) - The Fort Magistrate granted bail to two individuals who mistakenly trespassed into the grounds of Temple Trees in Colombo after following directions on Google maps.
-
-Police said they were arrested by the Kollupitiya Police on Saturday.
-
-According to the police, the two individuals, a software engineer and a merchant seaman, were arrested following the incident.
-
-The duo had reportedly visited a nightclub in Kollupitiya and had consumed liquor before attempting to return to their lodging on Muhandiram Road, relying on Google Maps for navigation.
-
-However, the directions led them to a dead end near the perimeter wall of Temple Trees. In an attempt to find their way, they scaled the wall and inadvertently entered the Temple Trees premises.
-
-During this time, officers from the Prime Minister's Security Division arrested the two individuals and handed them over to the Kollupitiya Police.
-
-They were released on bail after being produced before court.
-
-◼️
-
-[Data](articles/3a18e989.json)
-
-[Extended Data](ext_articles/3a18e989.ext.json)
-
----
-
-### The act of doing the girl for the boyfriend;Arresting both eventually
-
-*2024-03-04 22:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலனுக்காக-சிறுமி-செய்த-செயல்-இறுதியில்-இருவரும்-கைது/175-334206) · `ta`
-
-A 17-year-old girl and her 30-year-old boyfriend were arrested with drugs near Vaduvu-Bohatramulla beach. The girl was found to have stored drugs for her boyfriend, who was returning from Horana. They will be checked for drug addiction and face charges in Panadura Magistrate's Court.
-
-🟩
-
-A 17 -year -old girl and her 30 -year -old boyfriend have been arrested with drugs in the Vaduvu - Bohatramulla beach.
-
-Investigations have revealed that the suspect had safely kept drugs for her boyfriend for her boyfriend, who was returning home from an additional class in Horana area.
-
-Police said that the suspects will be sent to the hospital to check whether the suspects are addicted to drugs and are to be produced before the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/929de6e3.json)
-
-[Extended Data](ext_articles/929de6e3.ext.json)
-
----
-
-### Syhopec fuel prices are issued
-
-*2024-03-04 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194133) · `si`
-
-Syhopec fuel prices updated: Octane 95 reduced by Rs., Super diesel by Rs.10 to Rs. 458. No change in 92 Octane petrol and auto diesel. Sinaperic now offers 368 liters of fuel at Rs. 360 per liter.
-
-🟩
-
-Sinaperic has been amended by the company to operate from midnight today.
-
-Accordingly, Syhope has been reduced by a liter of octane 95 liter of petrol and its new price is Rs.
-
-The price of a liter of Super diesel has been reduced by Rs.10 and its new price is Rs. 458.
-
-Meanwhile, the company has not made any changes in the price of a 92 Octane petrol and auto diesel.
-
-Sinaperic is 368 liters of fuel and the price of a litto diesel is Rs. 360.
-
-◼️
-
-[Data](articles/beb131ee.json)
-
-[Extended Data](ext_articles/beb131ee.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 20:50:31**
+As of **2024-03-05 21:02:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,731
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,054 (100.0%) of 11,056 articles have been extended.
+11,056 (100.0%) of 11,056 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,33 @@ However, the trade union action was suspended following a discussion held with t
 
 [Data](articles/070b5504.json)
 
+[Extended Data](ext_articles/070b5504.ext.json)
+
 ---
 
-### විරෝධතාකරුවන් 13ක් නිදොස් කොට නිදහස්
+### 13 protesters acquitted
 
 *2024-03-05 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194178) · `si`
 
-2022 මැයි මස 04 හෝ ඊට ආසන්න දිනකදී බත්තරමුල්ල පොල්දූව මංසන්ධිය ආසන්නයේ දී  කථානායකවරයාට ලිපියක් බාරදීමට ගොස් විරෝධතාවයේ නිරතව සිටි බවට තලංගම පොලිසිය මගින් අත්අඩංගුවට ගෙන කඩුවෙල අධිකරණයට ඉදිරිපත් කර ඇප මත සිටි සැකකරුවන් 13 දෙනා නිදොස් කොට නිදහස් කරන ලෙස කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය අද (05) නියෝග කළේය.
+13 protesters acquitted by Kaduwela Magistrate's Court after 2-year trial, with 50 lawyers defending them against charges including organizational expansion and police abstention.
 
-ඉකුත් අරගල සමයේ දී රටෙහි පැවැති තත්ත්වයන් සම්බන්ධයෙන් කථානායකවරයා දැනුවත් කිරීම සඳහා සංදේශයක් බාරදීමට යමින් සිටි සමාජ ක්‍රියාකාරීන් 13 දෙනෙකු මෙලෙස තලංගම පොලිසිය මගින් අත්අඩංගුවට ගෙන පසුව මහරගම පොලීසියේ රඳවා තබාගනිමින් අනතුරුව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට කටයුතු කර තිබුණි.
+🟩
 
-එම අවස්ථාවේදී මෙම සැකකරුවන් 13 වෙනුවෙන් නීතිඥවරුන් එකසිය පනහකට ආසන්න සංඛ්‍යාවක් පෙනී සිටියහ.
+Kaduwela Magistrate's Court today (05) was arrested by the Talangama Police to hand over a letter to the Speaker at the Talagamuwa Court and the Thalawaswela court in the area near the informs of the Palagala court in June 04 or nearly 04 May 2022..
 
-සංවිධානාත්මකව අයුතු ජනරාශිය ඇති කිරීම, අයුතු ජනරාශියක සාමාජිකයන් වීම, පොලීසියට සහ මහජනතාවට බාධා කිරීම ඇතුළු චෝදනා කිහිපයක් මෙම සැකකරුවන් වෙත පොලීසිය මගින් අධිකරණය හමුවේ චෝදනා ගොනු කර තිබුණි.
+Thalangama Police have been arrested by the Talangama Police and remanded at the Maharagama Police.
 
-...
+The 13 suspects were approved by nearly fifty lawyers.
+
+The suspects had accused the court on the allegations including organizational expansion, abstaining to the police and the public.
+
+The case was heard in the Kaduwela Magistrate's Court for two years and the 13 suspects were acquitted of the 13 suspects and released the 13 suspects.
+
+◼️
 
 [Data](articles/d8c01d3d.json)
+
+[Extended Data](ext_articles/d8c01d3d.ext.json)
 
 ---
 

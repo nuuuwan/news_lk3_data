@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 09:52:10**
+As of **2024-03-05 10:03:13**
 
 ## Newspaper Stats
 
-*Scraped **10,919** Articles*
+*Scraped **10,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 925
-adaderanalk | 1,327
+adaderanalk | 1,329
 tamilmirrorlk | 1,332
 virakesarilk | 1,459
 dailymirrorlk | 1,663
@@ -26,33 +26,79 @@ adaderanasinhalalk | 1,702
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,914 (100.0%) of 10,919 articles have been extended.
+10,919 (100.0%) of 10,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### නව මන්ත්‍රීවරයෙක් දිවුරුම් දෙයි
+### S.C. Muthukumarana sworn in as Member of Parliament
+
+*2024-03-05 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97737/sc-muthukumarana-sworn-in-as-member-of-parliament) · `en`
+
+S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament today (March 05).
+
+He took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off this morning.
+
+◼️
+
+[Data](articles/37667538.json)
+
+---
+
+### New MP sworn in
 
 *2024-03-05 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194146) · `si`
 
-එස්. සී. මුතුකුමාරණ මහතා මීට සුළු වේලාවකට පෙර කථානායකවරයා ඉදිරියේ නව මන්ත්‍රී ධුරයේ දිවුරුම් දුන්නේය.
+S. C. Muthukumarana sworn in as new MP before Speaker.
+
+🟩
+
+S. C. Muthukumarana took sworn in as a new seat before Speaker.
 
 ◼️
 
 [Data](articles/aea561d7.json)
 
+[Extended Data](ext_articles/aea561d7.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Live auction for divestment of SriLankan Airlines to be held today
+
+*2024-03-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97736/live-auction-for-divestment-of-srilankan-airlines-to-be-held-today) · `en`
+
+The live auction to choose an investor for the divestment of SriLankan Airlines is slated to be held today (March 05).
+
+As such, the bidding will take place live from 10 a.m. to 2 p.m. today, Nimal Siripala de Silva, the Minister of Ports, Shipping and Aviation said while joining Ada Derana’s ‘GET REAL’ segment last week.
+
+Meanwhile, a special technical committee has been appointed to assist the live auction, according to the minister.
+
+Following the evaluation of the bids, a report will be sent to the Cabinet of Ministers.
+
+“I want someone strong to come forward, who can invest at least USD 500 million and ensure job security for the 6,000 people who are working in the airline,” the lawmaker had said further.
+
+◼️
+
+[Data](articles/097cde5b.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-03-05 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194145) · `si`
 
-මේ අතර කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව අද දිනයේ දී විපක්ෂයේ මන්ත්‍රීවරු විසින් පාර්ලිමේන්තු මහ ලේකම්වරිය වෙත භාරදීමට නියමිතය.
+The Parliamentary Council has started, with a no-confidence motion against the Speaker leading to opposition MPs being handed over to the Parliament's Secretary General.
+
+🟩
+
+Meanwhile, the no-confidence motion against Speaker is due to hand over the opposition MPs to the Secretary General of Parliament.
 
 ◼️
 
 [Data](articles/91a72f37.json)
+
+[Extended Data](ext_articles/91a72f37.ext.json)
 
 ---
 
@@ -68,19 +114,27 @@ A group of members of Sri Lanka Podujana Peramuna (SLPP) were at the Bandaranaik
 
 [Data](articles/2ff26ff5.json)
 
+[Extended Data](ext_articles/2ff26ff5.ext.json)
+
 ---
 
-### බැසිල් දිවයිනට
+### Basil to arrive
 
 *2024-03-05 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194144) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අද (05) උදෑසන දිවයිනට පැමිණ තිබේ.
+Basil Rajapaksa arrived in Sri Lanka today, welcomed by MPs and political figures including Chandrasena, Abeygunawardena, Ranatunga, and Fernando.
 
-බැසිල් රාජපක්ෂ මහතාව මහතාව පිළිගැනීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන සාගර කාරියවසම්, එස්.එම්. චන්ද්‍රසේන, රෝහිත අබේගුණවර්ධන, ප්‍රසන්න රණතුංග සහ අරුන්දික ප්‍රනාන්දු ඇතුළු පිරිසක් එක්ව සිටියහ.
+🟩
+
+Basil Rajapaksa has arrived in Sri Lanka this morning (05).
+
+Sri Lanka Kariya Kariyawasam, Members of Parliament, SM, the MPs of the Sri Lanka Kariya Kariyawasam, the MPs of the Sri Lanka Kariyaweera, to welcome Basil Rajapaksa. Chandrasena, Rohitan Abeygunawardena, Prasanna Ranatunga and Arundika Fernando were also present.
 
 ◼️
 
 [Data](articles/74f428b0.json)
+
+[Extended Data](ext_articles/74f428b0.ext.json)
 
 ---
 
@@ -1724,19 +1778,25 @@ Addressing a seminar in Colombo, the President said that no one would allow the 
 
 ---
 
-### කරාපිටියේ වෛද්‍යවරු 60කගේ හිඟයක්
+### 60 doctors in Karapitiya
 
 *2024-03-04 19:49:28* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටියේ-වෛද්‍යවරු-60කගේ-හිඟයක්/11-408421) · `si`
 
-ගාල්ල කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරු 60 දෙනකුගේ සහ කනිෂ්ඨ කාර්යමණ්ඩලයේ සේවකයින්   250   දෙනෙකුගේ පමණ  හිගයක් පවතින බව කරාපිටිය රෝහලේ අධ්‍යක්ෂක විශේෂඥ වෛද්‍ය  එස්.පි.යු.එම් රංග  මහතා කියයි.
+Karapitiya Hospital needs 550 doctors but has 590, causing a shortage in anesthesiology and surgical units. The director appeals to the Health Minister for more doctors.
 
-කරාපිටිය ශික්ෂණ රෝහල සදහා වෛද්‍යවරු 550 දෙනෙකු සිටිය යුතුවුවත්  දැනට සිටින්නේ වෛද්‍යවරු 490ක්පමණක් බවද  රෝහල්  අධ්‍යක්ෂවරයා  සදහන් කළේය.  රෝහලේ විකලාංග, පිලිකා යන  ශල්‍ය ඒකක  සහ හදිසි ප්‍රථිකාර ඒකකය සදහා වෛද්‍යවරුන්ගේ හිගයක් පවතින  බව පෙන්වා දෙන රෝහල් අධ්‍යක්ෂවරයා  නිර්වින්දන වෛද්‍යවරුන්ගේ  හිගයක් පවතින බවද සදහන් කරයි.
+🟩
 
-විශේෂඥ වෛද්‍යවරුන්ගේ හිගයක්  නොමැති බවත්  අවශ්‍ය වෛද්‍යවරුන් හා  කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයින් ලබාදිය යුත්තේ  සෞඛ්‍ය අමාත්‍යංශයෙන් බවත් රෝහල් අධ්‍යක්ෂවරයා පවසයි.මේවනවිට   රෝහලේ   වෛද්‍ය උපකරණ හා  අලුත්වැඩියා කටයුතු  සදහා විශාල   මුදලක් සෞඛ්‍ය අමාත්‍යවරයා වෙන්කර ඇති බවද රෝහල් අධ්‍යක්ෂවරයා වැඩිදුරටත් පැවැසීය.
+Director of the Karapitiya Hospital Specialist Director of the Karapitiya Hospital Special
+
+There should be 550 doctors to the Karapitiya Teaching Hospital, but there are currently 590 doctors.The director of the hospital is said to have a shortage of anesthesiologists who point out that there is a shortage of doctors for surgical units of the hospital and the emergency career.
+
+The hospital director said that the Health Minister has been allocated to the Ministry of Health and the necessary doctors should be provided with the lack of expertise.
 
 ◼️
 
 [Data](articles/ab9e42d7.json)
+
+[Extended Data](ext_articles/ab9e42d7.ext.json)
 
 ---
 
@@ -2159,41 +2219,5 @@ The Medical Faculty student was identified today (04) while receiving treatment 
 [Data](articles/aed9c343.json)
 
 [Extended Data](ext_articles/aed9c343.ext.json)
-
----
-
-### Bangladesh to the coin
-
-*2024-03-04 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194122) · `si`
-
-Bangladesh won the toss and chose to bowl first in the Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty Tournament.
-
-🟩
-
-The Bangladesh team won the toss and elected to bowl the first Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty-Twenty Tournament.
-
-◼️
-
-[Data](articles/ea40e3e6.json)
-
-[Extended Data](ext_articles/ea40e3e6.ext.json)
-
----
-
-### Thai court acquits former PM Yingluck Shinawatra on charges of mishandling government funds
-
-*2024-03-04 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97727/thai-court-acquits-former-pm-yingluck-shinawatra-on-charges-of-mishandling-government-funds) · `en`
-
-A Thai court on Monday acquitted former Prime Minister Yingluck Shinawatra, now living in exile, on charges of mishandling funds for a government project in 2013, the latest legal victory for the powerful family of former premier Thaksin Shinawatra.
-
-The action comes shortly after Thaksin, Yingluck’s brother, was released on parole for corruption-related offenses. Last year, he returned home after more than a decade of self-imposed exile, and was detained in a hospital for six months before being granted clemency because of his age and ill health.
-
-Thaksin’s release, after almost two decades of antipathy between his populist political machine and Thailand’s conservative royalist ruling class, raised speculation that Yingluck also might be returning soon.
-
-...
-
-[Data](articles/08ce46fd.json)
-
-[Extended Data](ext_articles/08ce46fd.ext.json)
 
 ---

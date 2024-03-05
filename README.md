@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 15:03:06**
+As of **2024-03-05 15:17:53**
 
 ## Newspaper Stats
 
-*Scraped **10,987** Articles*
+*Scraped **10,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 107
 bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
-economynextcom | 562
+economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 930
@@ -26,27 +26,37 @@ adaderanasinhalalk | 1,717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,984 (100.0%) of 10,987 articles have been extended.
+10,987 (99.9%) of 10,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### චන්න ජයසුමනට යළි අපහාස නොකරන බව අසේල සම්පත් කියයි
+### Asela Sampath says Channa Jayattha does not insult again
 
 *2024-03-05 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194161) · `si`
 
-තමන්ට අපහාසයක් සිදුවූ බවට පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චන්න ජයසුමන මහතා කොළඹ දිසා අධිකරණයේ පවරා තිබූ වන්දි නඩුව විභාගයට ගත් අවස්ථාවේ අසේල සම්පත් එම ප්‍රකාශය සම්බන්ධයෙන් චන්න ජයසුමන මහතාට කනගාටුව පළ කර තිබේ.
+Professor Channa Jayasumana regrets insulting a compensation case at the Colombo District Court, which has been settled without further insults. The case involved Asela Sampath, who was involved in the Criminal Investigation Department, and was defended by attorneys including Tissa Velragoda.
 
-තවද , නැවත ඒ මත පදනම්ව කිසිදු අපහාසයක් සිදුනොකරන බවට පැවසීමත් සමග නඩුව සමථයකට පත්වී ඇත.
+🟩
 
-කෝට්ටේ ප්‍රදේශයෙන් රුපියල් මිලියන 200ක නිවසක් මිලදී ගෙන ඇතැයි ද, එම නිවසට ගෘහ භාණ්ඩ සහ අනෙකුත් භාණ්ඩ මිලදී ගෙන ඇතැයි ද, පසුදින එම නිවස ඉදිරිපිටට පැමිණ සජීවී වීඩියෝවක් කරන බවටද 2021 වසරේ සිදු කළ ප්‍රකාශයක් සහ ඉන් පසුව ඒ මත පදනම් වෙමින් දිගින් දිගටම සිදුකළ ප්‍රකාශ මගින් තමන්ට අපහාසයක් සිදුවූ බව පවසමින් පාර්ලිමේන්තු මන්ත්‍රී චන්න ජයසුමන මහතා මෙම නඩුව පවරා තිබුණි.
+Professor Channa Jayasumana has expressed regret that Asela resources have taken place at the Colombo District Court that he had insulted the compensation case filed by the Colombo District Court.
 
-තමන්ට කෝට්ටේ හෝ වෙනත් කවර හෝ තැනකින් එවැනි වටිනාකමක් සහිත නිවසක් හෝ වෙනත් කිසිඳු දේපොළක් අයත් නැති බවත් අසේල සම්පත් ගේ ප්‍රකාශය හුදු ද්වේශය මත පදනම්ව අපහාස කිරීම සඳහාම ගොතන ලද කතාවක් බවත් මහාචාර්ය චන්න ජයසුමන මීට පෙර දිසා අධිකරණයේදී සාක්ෂි දෙමින් පැවසීය.
+Further, the case has been settled with the fact that there is no insult based on it again.
 
-...
+A statement made by the next year, the next year's statement, the next year, the next year, the next year's statement had been purchased in the Kotte and then a live video and then based on it.Parliamentarian Channa Jayasena had been handed over to the case.
+
+Prof. Channna Jayasumana had previously said that the statement of such value is not known to be demanded depending on such value of such value or any other place in Kotte or anywhere.
+
+Mr. Asela Sampath was involved in the Criminal Investigation Department, MP Jayasehana complained about it.
+
+Attorneys-at-Law Tissa Velragoda also appeared on behalf of Professor Channa Jayasumna.
+
+◼️
 
 [Data](articles/b9db6b32.json)
+
+[Extended Data](ext_articles/b9db6b32.ext.json)
 
 ---
 
@@ -62,21 +72,31 @@ Police suspect that the shooting had been carried out on the directive of the or
 
 Accordingly, the firearm had been found hidden in a residence linked to “Chooti Malli” located at Pamunugama.
 
+The firearm in question is suspected to have been used in the shooting of the meat shop owner in Kandana on August 08, 2023. It is reported that the shooting had been carried out after the drug trafficker and organized criminal ‘Chooti Malli’ had sought ransom payments from the victim.
+
 ◼️
 
 [Data](articles/c89c9dca.json)
 
+[Extended Data](ext_articles/c89c9dca.ext.json)
+
 ---
 
-### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை சமர்ப்பிப்பு
+### Submission of no confidence motion against the Speaker
 
 *2024-03-05 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177958) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக கொண்டுவரப்பட்ட நம்பிக்கையில்லா பிரேரணை இன்று செவ்வாய்க்கிழமை (05) பாராளுமன்ற பிரதி செயலாளர் நாயகம் சமிந்த குலரத்னவிடம் கையளிக்கப்பட்டுள்ளது.
+No-confidence motion against Speaker Mahinda Yapa Abeywardena submitted to Deputy Secretary General Saminda Gularatne on 05.
+
+🟩
+
+The no -confidence motion brought against Speaker Mahinda Yapa Abeywardena has been handed over to the Deputy Secretary General of Parliament Saminda Gularatne on Tuesday (05).
 
 ◼️
 
 [Data](articles/c87a29d6.json)
+
+[Extended Data](ext_articles/c87a29d6.ext.json)
 
 ---
 
@@ -97,6 +117,22 @@ The Special Task Force has also taken a 56 rifle and 4 bullets and two magazines
 [Data](articles/bcf09668.json)
 
 [Extended Data](ext_articles/bcf09668.ext.json)
+
+---
+
+### Sri Lanka to build floating solar power plants on Chandrika Wewa, Kiriiban Wewa
+
+*2024-03-05 14:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-build-floating-solar-power-plants-on-chandrika-wewa-kiriiban-wewa-153225/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Ministry of Irrigation will allocate 0.99 hectares of water surface area and 0.1 hectares of land area from the Chandrika Wewa and Kiriibban Wewa reservoirs for two floating solar power generation pilot projects.
+
+The cabinet of ministers has approved a proposal by the Minister of Irrigation to make the allocation for the two projects which are the result of an agreement between Sri Lanka’s Ministry of Power & Energy and the Korean government’s Korea Institute for Advancement.
+
+The land and water surface areas will be granted to the Sri Lanka Solar Energy Authority on an annual lease basis for running the two solar pilot projects, each with a capacity of 1 megawatt, a statement from the government information department said in a statement.
+
+...
+
+[Data](articles/e2eaa335.json)
 
 ---
 
@@ -161,6 +197,24 @@ It was handed over by Chief Opposition Whip Lakshman Kiriella, MPs Ranjith Maddu
 [Data](articles/f8236d9f.json)
 
 [Extended Data](ext_articles/f8236d9f.ext.json)
+
+---
+
+### Sri Lanka to join US-led International Counter Ransomware Initiative
+
+*2024-03-05 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-join-us-led-international-counter-ransomware-initiative-153217/) · `en`
+
+ECONOMYNEXT — Sri Lanka will accept an invitation  to join the US-led International Counter Ransomware Initiative (CRI), the government information department said.
+
+The CRI was launched in 2021 as a common platform with a number of other countries for international coordination to eliminate ransomware.
+
+“So far, [50] countries around the world and the European Union as well as the International Police have joined the initiative. Since Sri Lanka has recently faced various problems due to Ransomware, it has been recognised that it can benefit from joining the international anti-ransomware initiative,” the government statement said.
+
+The cabinet of ministers has approved a joint proposal presented by President Ranil Wickremesinghe in his capacity as the Minister of Technology and Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe to join the initiative.
+
+...
+
+[Data](articles/685339e8.json)
 
 ---
 
@@ -461,6 +515,28 @@ The Cabinet was presented by the Minister of Transport and Highways and the Urba
 [Data](articles/3939a10c.json)
 
 [Extended Data](ext_articles/3939a10c.ext.json)
+
+---
+
+### SriLankan Airlines debt of US$510mn to be taken over by govt
+
+*2024-03-05 13:06:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-debt-of-us510mn-to-be-taken-over-by-govt-153212/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central government will take over about 510 million US dollars in debt from the balance sheet of state-run SriLankan Airlines, Aviation Minister Nimal Siripala de Silva said.
+
+The proposal was approved by the cabinet, he told reporters at a press conference broadcast over Sri Lanka’s Derana Television.
+
+SriLankan has a sovereign guaranteed bond and other debt including to Ceylon Petroleum Corporation and state banks.
+
+President Ranil Wickremesinghe has also proposed to provide 60 to 70 million US dollars over the next six months to ease liquidity problems at the airline, he said. The money will go for engine repairs and other needs, he said.
+
+Any money earned from the sale of SriLankan Airlines will go the Treasury, he said.
+
+The deadline to submit expressions of interest for SriLankan Airlines has also been extended to April 2024 from March 05. (Colombo/Mar05/2024)
+
+◼️
+
+[Data](articles/322f8d9f.json)
 
 ---
 
@@ -1120,6 +1196,26 @@ Seven years have passed since the Right to Information Act in Sri Lanka, but the
 
 ---
 
+### Sri Lanka may need private creditor deal to finalize official MOUs: ex-Governor
+
+*2024-03-05 10:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-need-private-creditor-deal-to-finalize-official-mous-ex-governor-153196/) · `en`
+
+ECONOMYNEXT – Sri Lanka may have to wait for an in-principle deal with private creditors before final restructuring deals are inked with official creditors, former central bank governor Indrajit Coomaraswamy said.
+
+The official creditor committee made up of Paris Club lenders and India have given an in-principle deal for Sri Lanka. Exim Bank of China has also agreed to re-structure debt.
+
+Official creditors are likely to wait for a deal with private creditors to check the comparability with their restructure offer, Coomaraswamy told a forum organized by Sri Lanka’s Institute of Chartered Accountants (CA Sri Lanka).
+
+It will prevent a repetition of what happened in Zambia where the official creditors had a dispute over a private creditor deal, he said.
+
+Official creditors will probably wait for the private creditor deal to get confidence that the principle of comparability is followed, he said.
+
+...
+
+[Data](articles/029eb169.json)
+
+---
+
 ### Sri Lanka reveal likely T20 World Cup selection plan
 
 *2024-03-05 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reveal-likely-T20-World-Cup-selection-plan/108-278266) · `en`
@@ -1431,6 +1527,28 @@ Following the evaluation of the bids, a report will be sent to the Cabinet of Mi
 [Data](articles/097cde5b.json)
 
 [Extended Data](ext_articles/097cde5b.ext.json)
+
+---
+
+### Sri Lanka rupee at 308 to US dollar after opening stronger
+
+*2024-03-05 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-at-308-to-us-dollar-after-opening-stronger-153154/) · `en`
+
+ECONOMYNEXT – Sri Lanka rupee opened stronger at 307.50/90 levels from yesterdays close of 307.90/95 and moved down to 307.90/308.10 levels amid official purchases, market participants said.
+
+Sri Lanka’s rupee is stable amid largely deflationary policy from the central bank helped by slow private credit and improving government borrowings, which is triggering a balance of payments surplus.
+
+Banks also tend to sell dollars and run negative net open positions when the central bank allows the currency to strengthen.
+
+The rupee has in the recent past been volatile when small changes in import demand comes from changes in  credit as the central bank does sell dollars and banks also buy dollars to square their open positions, analysts say.
+
+A bond maturing on 01.02.2026 was quoted at 10.65/75 marginally up from Monday’s 10.60/75 percent.
+
+A bond maturing on 15.09.2027 was quoted 11.90/12.00 percent unchanged from 11.90/12.05 percent.
+
+...
+
+[Data](articles/40ce27e3.json)
 
 ---
 
@@ -1894,6 +2012,24 @@ French President Emanuel Macrons has stated that this step is a universal messag
 
 ---
 
+### Sri Lankan Airlines interest deadline, final bid timelines extended
+
+*2024-03-05 07:21:00* · [`economynextcom`](https://economynext.com/sri-lankan-airlines-interest-deadline-final-bid-timelines-extended-153131/) · `en`
+
+ECONOMYNEXT – The deadline to express interest in state-run SriLankan Airlines was extended to April 22, from March 05, and the timeline to submit final bids of qualified investors was pushed back to August 2024 from May, Sri Lanka’s divestiture agency said.
+
+The indicative timeline to cabinet approval for any sale agreement was pushed back to September from an earlier June.
+
+No reason was given for the extension. The timeline is close to election time.
+
+The selection of pre-qualified bidders is now scheduled for May 2024 from March and bidder one-to-one meeting to June.
+
+◼️
+
+[Data](articles/36f9eb69.json)
+
+---
+
 ### Electricity now a luxury for a cluster of villages in Anuradhapura
 
 *2024-03-05 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-now-a-luxury-for-a-cluster-of-villages-in-Anuradhapura/108-278237) · `en`
@@ -1943,6 +2079,26 @@ However, as the Cabinet and the Cabinet has not been given the orders of the cab
 [Data](articles/ed5e98b4.json)
 
 [Extended Data](ext_articles/ed5e98b4.ext.json)
+
+---
+
+### Sri Lanka cuts Octane 95, Super Diesel price, kerosene mis-pricing worsens
+
+*2024-03-05 06:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-octane-95-super-diesel-price-kerosene-mis-pricing-worsens-153127/) · `en`
+
+ECONOMYNEXT – Sri Lanka has cut the price of Octane 05 petrol by 9.0 rupees to 447, and super diesel by 10 rupees to 458 a litre, effective midnight March 04, state-run Ceylon Petroleum Corporation said.
+
+Kerosene which was mis-priced at 262 rupees, was cut further by 5.0 rupees to 257 rupees, the statement said. Kerosene is similar to jetfuel.
+
+Petrol Octane was unchanged at 371 rupees a litre and standard diesel was unchanged at 363 rupees a litre.
+
+Sinopec Lanka said it was selling petrol at 368 rupees a litre and standard diesel at 360 rupees, both 3 rupees below CPC.
+
+Octane 95 petrol was at 447 rupees and super diesel was at 458 rupees, keeping pace with CPC.
+
+◼️
+
+[Data](articles/e77fba6a.json)
 
 ---
 
@@ -2051,171 +2207,5 @@ The Lead Consultant to the CP Maritime Advisory Programme, Rohan Masakorala, joi
 [Data](articles/9f71001f.json)
 
 [Extended Data](ext_articles/9f71001f.ext.json)
-
----
-
-### 'We fought for people, for the ground. What did we get? '
-
-*2024-03-05 03:50:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5vw8qlxjdo) · `si`
-
-"We fought for people and the land. Today, many, like Vadiwale in Prakstamattha, Batticaloa, are helpless. Despite the struggle, we received nothing. Now, we're ignored by Karuna Amman and Pillayan."
-
-🟩
-
-None contains none of this.
-
-'We fought for people, for the ground. What did we get? '
-
-Many who joined the LTTE during the civil war in Sri Lanka today are helpless in life today.
-
-Vadiwale, who lives in the Prakstamattha, Batticaloa, is one of them. Her face was damaged in the Elephant Pass.
-
-"We fought for people and for the ground. What we got. Did you get 10 rupees?Got a shot?We did not have any benefit to us. Now Karuna Amman, Pillayan, do not look at us. I don't even know that they are together. "
-
-She says that many of his people live in sad lives today.
-
-◼️
-
-[Data](articles/86783900.json)
-
-[Extended Data](ext_articles/86783900.ext.json)
-
----
-
-### New law to protect the archaeological archaeological
-
-*2024-03-05 03:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருளை-பாதுகாக்க-புதிய-சட்டம்/175-334210) · `ta`
-
-A new law to protect archaeological and cultural traditions is being developed in collaboration with the Archaeological Department, aiming to preserve these traditions for future generations.
-
-🟩
-
-Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayake said that we will form a new Bill in collaboration with the Archaeological Department to detect the country's archaeological and archaeological traditions and provide them with future generations.
-
-Minister Vidura Wickramanayake said this at a media briefing held at the Presidential Media Center yesterday. He further stated that.
-
-A new law is being created in conjunction with the Archaeological Department to ensure that the archaeological and archaeological traditions of this country are detected, preserved and properly provided to future generations. We are taking steps to prepare basic rules on some of the subjects included. It is noteworthy that the ideas and suggestions are being obtained from various parties.
-
-We are also looking forward to preparing the 'Bikku Kathikawat' law. We have been asked to present the proposals by the Maha Nayaka Thera and the Sangam Sabhas. He said this was not an easy task. (A)
-
-◼️
-
-[Data](articles/bfb2e99c.json)
-
-[Extended Data](ext_articles/bfb2e99c.ext.json)
-
----
-
-### The new legal structure will be introduced
-
-*2024-03-05 03:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சட்டக்-கட்டமைப்பு-அறிமுகம்-செய்யப்படும்/175-334209) · `ta`
-
-42 new laws passed in 14 months for economic change. President Wickremesinghe aims to pass 62 more, focusing on creating a maritime economy and replacing the port city law.
-
-🟩
-
-42 new laws have been passed in Parliament in the last 14 months to bring about new economic change in the country. President Ranil Wickremesinghe said that we are looking forward to passing 62 laws in Parliament.
-
-The President made this statement in a discussion with young lawyers on the legal reform held at the Bandaranaike International Conference Hall in Colombo yesterday. He further stated that
-
-In view of the government's actions, 42 laws have been enacted in the last 14 months. This is a achievement. The challenge of the Attorney General is how to put forward the remaining 62 laws. The parliamentary election cannot be postponed for that. This time the impossible will be presented in the next Parliament. If this program is carried out, a new legal structure will be created in the next few years.
-
-...
-
-[Data](articles/33b3a05c.json)
-
-[Extended Data](ext_articles/33b3a05c.ext.json)
-
----
-
-### Grace
-
-*2024-03-05 03:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-அருட்தந்தை-பலி/175-334208) · `ta`
-
-Grace Tipper collided with a man, who was taken to Mannar Hospital.
-
-🟩
-
-Tipper collided with a man who was taken to Mannar Hospital. (A)
-
-◼️
-
-[Data](articles/08b75f84.json)
-
-[Extended Data](ext_articles/08b75f84.ext.json)
-
----
-
-### 55th Session of the Human Rights Council: A statement from the Appointment of the IGP and the appointment of IGP
-
-*2024-03-05 02:40:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0x38vq6x5no) · `si`
-
-The 55th Session of the Human Rights Council began in Geneva, with the UN Secretary-General Volker Turk addressing the session. Foreign Minister Ali Sabri emphasized the need to address the suffering of civilians and take immediate action. The session also discussed Sri Lanka's political transformation, economic recovery, and national unity. The UN High Commissioner for Human Rights called for measures to investigate human rights violations and accountability. The Supreme Court highlighted the appointment of Deshabandu Tennakoon as the new IGP in 2010. The government's focus on economic recovery and reconciliation was noted, with the establishment of a Truth, Reconciliation, and Reconciliation Commission.
-
-🟩
-
-55th Session of the Human Rights Council: A statement from the Appointment of the IGP and the appointment of IGP
-
-The 55th Session of the United Nations Human Rights Council (55th session began in Geneva).
-
-This year's HRSE session will be held on April 5th April.
-
-At the beginning of the session, the United Nations Secretary-General of the United Nations General Secretary Volker Turk were lectured.
-
-The silence was preserved at the beginning of the session at the beginning of the session.
-
-Addressing the 55th Human Rights Council session said,
-
-'No election for Peacers' - Foreign Minister Ali Sabri
-
-Foreign Minister further stated that the Human Rights Council has added to a previous recorded video on February 27
-
-In implementing political agendas, the suffering of innocent civilians should not be ignored and take immediate action to relieve their misery.
-
-The Minister of External Affairs also reported this to the Human Rights Session regarding the situation in Sri Lanka.
-
-...
-
-[Data](articles/38b080f6.json)
-
-[Extended Data](ext_articles/38b080f6.ext.json)
-
----
-
-### Social protection reform integral to macroeconomic recovery: Semasinghe
-
-*2024-03-05 01:41:17* · [`dailyftlk`](https://www.ft.lk/news/Social-protection-reform-integral-to-macroeconomic-recovery-Semasinghe/56-759178) · `en`
-
-Calls on policymakers, private sector, civil society to utilise MVI analysis to implement measures for sustainable growth and prosperity
-
-Commends efforts of UNDP and Citra Lab for developing in-depth analysis
-
-State Minister of Fina-nce Shehan Semasinghe, yesterday outlined the critical role of social protection reform in Sri Lanka’s overall macroeconomic recovery efforts.
-
-He made these remarks at the launch of District Profiles of the Multidimensional Vulnerability Index (MVI), created in collaboration with United Nations Development Program (UNDP) and Citra Lab, which provides insights into the socio-economic context and vulnerability across Sri Lanka’s districts.
-
-...
-
-[Data](articles/e28be8f7.json)
-
-[Extended Data](ext_articles/e28be8f7.ext.json)
-
----
-
-### Ameer Ajwad is Sri Lanka’s new ambassador to Saudi Arabia
-
-*2024-03-05 01:40:22* · [`dailyftlk`](https://www.ft.lk/news/Ameer-Ajwad-is-Sri-Lanka-s-new-ambassador-to-Saudi-Arabia/56-759177) · `en`
-
-The High Post Committee of the Parliament has approved the appointment of Omar Lebbe Ameer Ajwad as Ambassador to Saudi Arabia.
-
-Ambassador Designate Ajwad is a career diplomat who joined the Sri Lanka Foreign Service (SLFS) in 1998.
-
-He is presently serving as the Additional Secretary in charge of the Consular Affairs, Africa Affairs, Performance Review and Implementation as well as the Emergency Response Unit of the Ministry of Foreign Affairs of Sri Lanka. He previously served as Sri Lanka’s Ambassador Extraordinary and Plenipotentiary to the Sultanate of Oman with the concurrent accreditation to the Republic of Yemen (2019 – 2022).
-
-◼️
-
-[Data](articles/81015ea9.json)
-
-[Extended Data](ext_articles/81015ea9.ext.json)
 
 ---

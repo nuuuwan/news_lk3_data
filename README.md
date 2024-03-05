@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 20:17:39**
+As of **2024-03-05 20:33:33**
 
 ## Newspaper Stats
 
-*Scraped **11,051** Articles*
+*Scraped **11,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 933
-tamilmirrorlk | 1,344
+tamilmirrorlk | 1,345
 adaderanalk | 1,347
 virakesarilk | 1,490
-dailymirrorlk | 1,687
+dailymirrorlk | 1,689
 adaderanasinhalalk | 1,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,051 (100.0%) of 11,051 articles have been extended.
+11,051 (100.0%) of 11,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### மின் பாவனையாளர்களுக்கான விசேட அறிவிப்பு
+
+*2024-03-05 20:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-பாவனையாளர்களுக்கான-விசேட-அறிவிப்பு/175-334253) · `ta`
+
+புதிய மின் இணைப்பு பெறுவதிலும், துண்டிக்கப்பட்ட மின் இணைப்பை திரும்பப் பெறுவதிலும் மக்களுக்கு நிவாரணம் வழங்கப்பட்டுள்ளதாக பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+முன்பு மின் இணைப்பை துண்டித்த பிறகு, மின்சாரத்தை மீள பெறுவதற்கான கட்டணம் 3,000 ரூபாயாக இருந்தது. அதை, 800 ரூபாயாக குறைக்க, பொதுப் பயன்பாடுகள் ஆணைக்குழு முடிவு செய்துள்ளது.
+
+மேலும், மின் இணைப்பு சீரமைப்பின் போது செலுத்த முடியாத தொகையை தவணை முறையில் செலுத்த வாய்ப்பு வழங்கப்பட்டுள்ளதாக தெரிவித்தார். R
+
+◼️
+
+[Data](articles/339cf175.json)
+
+---
+
+### Banks yet to implement Cabinet decision to suspend Parate execution laws: Sajith alleges
+
+*2024-03-05 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Banks-yet-to-implement-Cabinet-decision-to-suspend-Parate-execution-laws-Sajith-alleges/108-278287) · `en`
+
+Parliament, March 5 (Daily Mirror)- Claiming that the property of the Small and Medium Scale entrepreneurs are being auctioned despite the Cabinet decision to suspend the Parate execution laws, Opposition leader Sajith Premadasa urged the government to instruct the banking network to implement the suspension order.
+
+Raising a question under 27/2, he told Parliament that financial institutions had published advertisements on auctioning property of the Small and Medium Scale entrepreneurs even after the Cabinet decision to suspend the Parate execution laws.
+
+He said the Central Bank must issue a circular to the banks to implement the suspension of the Parate execution laws as decided by the Cabinet if more time is needed to pass laws to implement the suspension order.
+
+He said it is against the Cabinet decision for financial institutions to advertise property for auctioning while capitalizing on the delay in implementing the suspension for their own advantage.
+
+◼️
+
+[Data](articles/6649793c.json)
+
+---
+
+### No strike tomorrow; trains will operate as usual
+
+*2024-03-05 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-strike-tomorrow-trains-will-operate-as-usual/108-278291) · `en`
+
+Colombo, March 05 (Daily Mirror) - The railway strike, which was scheduled to be launched tonight by several railway trade unions, has been called off following a favourable response by the Transport Ministry, Locomotive Engine Operators’ Union (LEOU) secretary Indika Dodangoda said.
+
+Addressing the media, he said the strike was scheduled to commence tonight over salary anomalies.
+
+Therefore, the union had called for a strike, but since the Cabinet office has informed that the relevant decision will be sent to the Transport Ministry today, there is no need to carry out the planned strike, and the strike will be called off, the convenor informed.
+
+Train services will operate as scheduled for the convenience of the commuters.
+
+◼️
+
+[Data](articles/ef9a603b.json)
+
+---
 
 ### Youth arrested with 45 counterfeit currency notes
 
@@ -2193,69 +2245,5 @@ Basil Rajapakse said he hoped to make a change where necessary, and that every e
 [Data](articles/a19ab487.json)
 
 [Extended Data](ext_articles/a19ab487.ext.json)
-
----
-
-### Railway strike from midnight today
-
-*2024-03-05 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194151) · `si`
-
-A railway strike begins at midnight today, involving the Locometive Opposition Engineer Association, Railway Drivers Association, and Railway Supervisory Managers Association.
-
-🟩
-
-The Locometive Opposition Engineer Association says that the train strike will be operated from midnight today.
-
-The President of the Association Chandana Lal said to Derana said that several other trade unions join the trade union action.
-
-Accordingly, the Railway Drivers Association and the Railway Supervisory Managers Association will join the strike.
-
-◼️
-
-[Data](articles/50945768.json)
-
-[Extended Data](ext_articles/50945768.ext.json)
-
----
-
-### The Election Commission facts the Supreme Court
-
-*2024-03-05 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194150) · `si`
-
-The Election Commission appealed to the Supreme Court, citing a decision by the Fundamental Rights Commission on March 9 last year. The case involves petitions by the reconciliation, national population, PAFFREL, and CPA, with the Election Commission as a respondent.
-
-🟩
-
-The election commission commenced the Fundamental Rights Commission today (05) before the Fundamental Rights Commission to file a decision to be held on March 9 last year.
-
-The fundamental rights petitions were called before Chief Justice Jayantha Jayasuriya, a five-member Supreme Court judge.
-
-At the same time, the Elections Commission and its members were appointed as a respondent in the petitioners.
-
-The petitions were presented by the reconciliation, national population, the PAFFREL and the CPA.
-
-◼️
-
-[Data](articles/150a0a2e.json)
-
-[Extended Data](ext_articles/150a0a2e.ext.json)
-
----
-
-### Balangoda bus - lorry accident (CCTV)
-
-*2024-03-05 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194149) · `si`
-
-A lorry and bus crash on the Colombo-Badulla road in Balangoda, with the lorry driver hospitalized.
-
-🟩
-
-The driver of the lorry has been admitted to the Balangoda Balangoda in crash, a bus and a lorry in the Colombo-Badulla main road.
-
-◼️
-
-[Data](articles/928125d0.json)
-
-[Extended Data](ext_articles/928125d0.ext.json)
 
 ---

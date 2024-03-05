@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 15:52:02**
+As of **2024-03-05 16:04:03**
 
 ## Newspaper Stats
 
-*Scraped **11,003** Articles*
+*Scraped **11,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,87 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 930
-adaderanalk | 1,338
+adaderanalk | 1,339
 tamilmirrorlk | 1,343
 virakesarilk | 1,478
 dailymirrorlk | 1,677
-adaderanasinhalalk | 1,717
+adaderanasinhalalk | 1,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,999 (100.0%) of 11,003 articles have been extended.
+11,003 (100.0%) of 11,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### காசாவில் இடம்பெறும் இனப்படுகொலைகளுடன் அவுஸ்திரேலிய அமைச்சர்களுக்கு தொடர்பா ? ; சர்வதேச நீதிமன்றம் விசாரணைகளை மேற்கொள்ளவேண்டும் என வேண்டுகோள்
+### Declaration of Assets and Liabilities Law amended to include new officer categories and personnel
 
-*2024-03-05 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177967) · `ta`
+*2024-03-05 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97744/declaration-of-assets-and-liabilities-law-amended-to-include-new-officer-categories-and-personnel) · `en`
 
-காசாவில் இடம்பெறும் இனப்படுகொலை குற்றங்களுடன் அவுஸ்திரேலிய அரசாங்கத்தின் அமைச்சர்களுக்கு தொடர்புள்ளதாக குற்றம்சாட்டியுள்ள சிட்னியை சேர்ந்த சட்ட நிறுவனம்  சர்வதேச நீதிமன்றம்இது குறித்து விசாரணைகளை மேற்கொள்ளவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளது.
+In addition to the officials and categories of individuals required to disclose their assets and liabilities as outlined in the amended Declaration of Assets and Liabilities Law No. 01 of 1975 by Act No. 74 of 1988, Section 80 of the Anti-Corruption Act No. 09 of 2023 introduces provisions for further disclosure by various other officials and categories of individuals.
 
-சர்வதேச குற்றவியல் நீதிமன்றத்திற்குஎழுதியுள்ள கடிதத்தில் சிட்னியின் சட்ட நிறுவனம்  அவுஸ்திரேலிய அரசாங்கத்தின் அமைச்சர்களிற்கு இஸ்ரேல் காசாவில் முன்னெடுத்துவரும் நடவடிக்கைகளுடன் தொடர்பிருக்கலாம் என தெரிவித்துள்ளது.
+The necessity for disclosing liabilities is emphasized, the President’s Media Division reported.
 
-காசாவில் இடம்பெறும் இனப்படுகொலையுடன்  அவுஸ்திரேலிய அமைச்சர்களிற்கு தொடர்புள்ளதை தொடர்ந்து ஆவணப்படுத்திவந்துள்ளதாக பேர்ச்குரொவ்லீகல் என்ற நிறுவனம் தெரிவித்துள்ளது.
-
-இஸ்ரேலிற்கு சென்று இராணுவத்தில் இணைந்துகொள்ளும் அவுஸ்திரேலியர்கள்  காசாவில் போரில் ஈடுபடுகின்றனர் இது வெளிப்படையாக இடம்பெறுகின்றது எனவும் சிட்னியை சேர்ந்த சட்ட நிறுவனம் தெரிவித்துள்ளது.
-
-எனினும் இந்த குற்றச்சாட்டுகளை நிராகரித்துள்ள அவுஸ்திரேலிய பிரதமர் தனது அரசாங்கம் காசாவில் யுத்த நிறுத்தத்திற்கு அழைப்பு விடுத்துவருவதாக தெரிவித்துள்ளார்.
+According to this recent amendment, the President, Prime Minister, Members of Parliament, Provincial Governors, Provincial Council Members, and officers of the Provincial Public Service, elected representatives, and officers of Local Government bodies, as well as judges and government officials appointed by the President, are mandated to disclose their assets and liabilities.
 
 ...
 
-[Data](articles/c701eb42.json)
+[Data](articles/bde19bea.json)
 
 ---
 
-### ஐநாவின் மனிதாபிமான அமைப்பின் பணியாளர்கள் ஹமாசுடன் இணைந்து செயற்பட்டனரா ? இஸ்ரேல் ஆதாரங்களை வெளியிடவேண்டும் என அவுஸ்திரேலியா வேண்டுகோள்
+### Related to Australian ministers with genocide in Gaza?;The International Court of Inquiry
+
+*2024-03-05 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177967) · `ta`
+
+A Sydney law firm accuses Australian ministers of genocide in Gaza, calling for an investigation. The firm claims ministers may have been involved in Israeli actions in Gaza. Perscarovligal documents these claims. Australians in Israel's army are involved in the Gaza conflict, the firm states. The Australian Prime Minister rejects the allegations, promising a ceasefire in Gaza.
+
+🟩
+
+The Sydney -based Law Firm, which has accused the Australian government ministers of genocide crimes in Gaza, has also called for an investigation into the matter.
+
+In a letter to the International Criminal Court, Sydney's law firm said that ministers of the Australian government may have been involved in the Israeli Gaza.
+
+Perscarovligal, a company, said it was documenting the Australian ministers with the genocide that took place in Gaza.
+
+Australians who go to Israel and join the army are engaged in war in Gaza, it is openly, the Sydney -based law firm said.
+
+However, the Australian Prime Minister, who has rejected the allegations, said his government would call for a ceasefire in Gaza.
+
+He said that I did not comment on something that is not credible.
+
+◼️
+
+[Data](articles/c701eb42.json)
+
+[Extended Data](ext_articles/c701eb42.ext.json)
+
+---
+
+### Did the employees of the UN's humanitarian organization work with Hamas?Australia appeals to publish Israel's evidence
 
 *2024-03-05 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177968) · `ta`
 
-ஒக்டோபர் ஏழாம்திகதி தாக்குதல்களில் பாலஸ்தீனத்திற்கான ஐநாவின் நிவாரண அமைப்பின் பணியாளர்களும் ஈடுபட்டனர் என்பதற்கான ஆதாரங்களை இஸ்ரேல் வெளியிடவேண்டும் என அவுஸ்திரேலியா வேண்டுகோள் விடுத்துள்ளது.
+Australia appeals for Israel to publish evidence of UN Relief Organization for Palestine's involvement in October attacks, citing concern over allegations of collaboration with Hamas.
 
-இந்த குற்றச்சாட்டுகள் குறித்து ஐநா மேற்கொண்டுள்ள விசாரணைகளிற்கு இஸ்ரேல் முழுமையான ஒத்துழைப்பை வழங்கவேண்டும்  ஆதாரங்களை வெளியிடவேண்டும் என ஐநாவிற்கான அவுஸ்திரேலியபிரதிநிதி ஜேம்ஸ் லார்சன் வேண்டுகோள் விடுத்துள்ளார்.
+🟩
 
-ஐநாவின் மனிதாபிமான அமைப்பின் பணியாளர்கள் ஹமாசின் தாக்குதலில் இணைந்துகொண்டனர் என்ற இஸ்ரேலின் குற்றச்சாட்டுகள் குறித்துஅவுஸ்திரேலியா ஆழ்ந்த கவலை கொண்டுள்ளது என அவர் தெரிவித்துள்ளார்.
+Australia has requested Israel to publish evidence that the UN Relief Organization for Palestine was involved in the October seven attacks.
 
-இஸ்ரேலின் குற்றச்சாட்டுகளின் பின்னர் அவுஸ்திரேலிய உடனடியாக செயற்பட்டது என தெரிவித்துள்ள அவர் இஸ்ரேல் ஐநாவின் விசாரணைகளிற்கு ஒத்துழைப்பை வழங்கவேண்டும் என எதிர்பார்ப்பதாகவும் குறிப்பிட்டுள்ளார்.
+Australian Finance James Larson for the UN has appealed to the UN to provide full cooperation with the UN investigations into these allegations.
+
+He said that Australia is deeply concerned about Israel's allegations that the UN's humanitarian organization has joined the Hamas.
+
+He said the Australian was acting immediately after Israel's allegations and said that Israel should cooperate with the UN investigations.
 
 ◼️
 
 [Data](articles/dccc25ec.json)
+
+[Extended Data](ext_articles/dccc25ec.ext.json)
 
 ---
 
@@ -87,6 +117,34 @@ He warned people not to visit any country on open visas and said people must emi
 ◼️
 
 [Data](articles/dd3547f3.json)
+
+[Extended Data](ext_articles/dd3547f3.ext.json)
+
+---
+
+### ලයිට් කැපුවොත් නැවත ලබාගන්න යන ගාස්තුව අඩු කෙරේ
+
+*2024-03-05 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194162) · `si`
+
+අලුතින් විදුලි සම්බන්ධතාවයක් ලබාගැනීමේදී සහ විසන්ධි කළ සම්බන්ධතාවය නැවත ලබාගැනීමේදීත් ජනතාවට සහාන ලබාදී ඇති බව මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
+
+එහි අධ්‍යක්ෂ ජනරාල් දමිත කුමාරසිංහ මහතා BIG FOCUS වැඩසටහනට එක්වෙමින් ඒ බව පැවසීය.
+
+"විදුලිය විසන්ධි කළ පසු නැවත ලබාගැනීමේදී පෙර අය කළ ගාස්තුව රුපියල් 3,000ක්. මහජන උපයෝගීතා කොමිෂන් සභාව තීරණය කළා එය රුපියල් 800 දක්වා අඩු කරන්න."
+
+"තවත් දෙයක් තමයි නැවත විදුලි සම්බන්ධතාවය ලබාදීමේදී ගෙවා ගැනීමට නොහැකි මුදල් ප්‍රමාණය කොටස් වශයෙන් ගෙවීමට අවස්ථාව ලබාදීලා තිබෙනවා."
+
+"අලුතින් විදුලි සම්බන්ධතාවය ලබාගැනීමේදී.. පෙර තිබුණේ විදුලි සම්බන්ධතාවය නතරවී තිබෙන තැන සිට අප ලබාගන්නා ස්ථානය දක්වා දුරට ගෙවන්න ඕනේ."
+
+"දැන් විදුලිබල මණ්ඩලය අපේ මායිම දක්වා ගෙනත් දෙනවා. එතන සිට තමයි පාරිභෝගිකයා ගෙවන්න ඕනේ."
+
+"විදුලි ගාස්තු අඩුවීමත් එක්ක දැන් ඒකක 30ක් පාවිච්චි කරන පාරිභෝගිකයෙකු පෙර රුපියල් 540ක විදුලි බිලක් ගෙව්වා. දැන් එය රුපියල් 390 දක්වා අඩු වෙනවා."
+
+"ඒකක 60ක් පාචිච්චි කරපු කෙනෙකු රුපියල් 1,620ක් ගෙවපු එක දැන් රුපියල් 1,140 දක්වා අඩු වෙනවා."
+
+...
+
+[Data](articles/45f93cd9.json)
 
 ---
 
@@ -1764,6 +1822,8 @@ Moreover, the newly appointed IGP has a troubling history that casts serious dou
 
 [Data](articles/261f92ea.json)
 
+[Extended Data](ext_articles/261f92ea.ext.json)
+
 ---
 
 ### Basil returns to Sri Lanka
@@ -2153,57 +2213,5 @@ The Minister further stated that SriLankan Airlines is looking for about US $ 50
 [Data](articles/ef23262a.json)
 
 [Extended Data](ext_articles/ef23262a.ext.json)
-
----
-
-### No-confidence motion against speaker to be taken to parliament today
-
-*2024-03-05 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194138) · `si`
-
-Opposition organizer Lakshman Kiriella hands over no-confidence motion against Speaker Mahinda Yapa Abeywardena to Parliament today, accusing him of constitutional violations. Parliament meets tomorrow.
-
-🟩
-
-The no-confidence motion against the Speaker Mahinda Yapa Abeywardena is due to be handed over to the Secretary General of Parliament today (05).
-
-The proposal of the opposition organizer, Lakshman Kiriella, he is expected to hand over the proposal this morning.
-
-The opposition leading proposal was decided by the opposition proposal by accusing the Speaker Mahinda Yapa Abeywardena, violating the constitution.
-
-Accordingly, the signatures had taken place recently, and the proposal was submitted to the Secretary General of Parliament today, MP Lakshman Kiriella said.
-
-Meanwhile, Parliament is due to meet today this week.
-
-The Parliament will meet tomorrow and tomorrow.
-
-◼️
-
-[Data](articles/0a0b35d3.json)
-
-[Extended Data](ext_articles/0a0b35d3.ext.json)
-
----
-
-### The decision of the abortion of the abortion
-
-*2024-03-05 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194137) · `si`
-
-France becomes the first country to abolish abortion rights, with a constitutional amendment approved by Parliament. The vote was 780-780, and President Macron views this as a message of France's dignity.
-
-🟩
-
-France has become the first country in the world that abortabed the right to abortion.
-
-Foreign media reports that the constitutional amendment to ensure the freedom of women was approved by the Parliament.
-
-In the election, 780 votes were cast in favor of 780 votes against the bill.
-
-French President Emanuel Macrons has stated that this step is a universal message indicating the dignity of France.
-
-◼️
-
-[Data](articles/6f993351.json)
-
-[Extended Data](ext_articles/6f993351.ext.json)
 
 ---

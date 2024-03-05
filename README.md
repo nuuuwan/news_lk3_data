@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 19:33:36**
+As of **2024-03-05 19:50:41**
 
 ## Newspaper Stats
 
-*Scraped **11,048** Articles*
+*Scraped **11,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 1,344
 adaderanalk | 1,346
 virakesarilk | 1,490
 dailymirrorlk | 1,687
-adaderanasinhalalk | 1,728
+adaderanasinhalalk | 1,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,043 (100.0%) of 11,048 articles have been extended.
+11,048 (100.0%) of 11,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### නිව්හැම් වෙඩිතැබීමේ සිද්ධියේ සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-03-05 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194175) · `si`
+
+මනුෂ්‍ය ඝාතනයකට තැත් කිරීමේ අපරාධයකට ආධාර අනුබල දුන් සැකකරුවෙකු කොළඹ අපරාධ කොට්ඨාශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 26 හැවිරිදි වියේ පසුවන මහවත්ත පර කොළඹ 14 ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අත්අඩංගුවට ගත් සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 04යි මිලිග්‍රෑම් 100ක් ද පොලීසිය විසින් සොයාගෙන ඇත.
+
+පෙබරවාරි මස 25 වනදා වෙරළබඩ පොලිස් වසමේ නිව්හැම් චතුරස්‍රය ආසන්නයේ පිහිටි වෙළෙඳසැලක් ඉදිරිපිටදී යතුරු පැදියකින් පැමිණ පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමට උත්සාහ කිරීමේ සිද්ධියට අදාළව මෙම සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධය සිදුකිරීම සඳහා යොදාගත් ගිනි අවිය අපරාධය සිදුකිරීමට පෙර මෙම සැකකරුගේ නිවාසී තබාගෙන ඇති බවට අනාවරණය වී තිබේ.
+
+එසේම මෙහිදී සැකකරුගේ නිවසේ සඟවා තිබී විදෙස් රටක නිෂ්පාදිත පිස්තෝල වර්ගයේ ගිනි අවියක්, මැගසිනයක් සහ පතොරම් 03ක් පොලීසිය සොයාගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු අද (05) අලුත්කඩේ අංක 02 මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දින 07ක රැඳවුම් නියෝග ලබාගෙන තිබේ.
+
+◼️
+
+[Data](articles/d2682ae3.json)
+
+---
 
 ### Cabinet extends validity of scheme for Sri Lankans abroad to import electric vehicles
 
@@ -50,27 +74,37 @@ In line with this, the Cabinet has given approval to the proposal by the Preside
 
 [Data](articles/58a22ae9.json)
 
+[Extended Data](ext_articles/58a22ae9.ext.json)
+
 ---
 
-### ஆக்கிரமிக்கப்பட்ட காணிகளை விடுவிக்கக் கோரி ஜனாதிபதிக்கு தபாலட்டைகள்!
+### Posts to the President demanding the release of occupied land!
 
 *2024-03-05 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178007) · `ta`
 
-வடக்கில் உள்ள 5 மாவட்டங்களைச் சேர்ந்த காணியை இழந்த மக்களின் காணிகளை விடுவிக்கக் கோரி "நிலத்தை இழந்த மக்களின் குரல்"  எனும் தலைப்பில் கவனயீர்ப்பு ஒன்று முன்னெடுக்கப்பட்டது.
+Posts to President demand land release in 5 districts. Mannar Socio-Economic Development Institute organized. Postcards sent to various departments. Event held in Kilinochchi. Over 100 landowners asked to release land. Land documents unobtainable due to war, leading to difficulties in land acquisition and development.
 
-மன்னார் சமூக பொருளாதார அபிவிருத்திக்கான நிறுவனம் நீண்ட காலமாக முயற்சித்து, மக்களிற்கு பல்வேறு உதவிகளை மேற்கொண்டு வருவதுடன், குறித்த தபாலட்டை அனுப்பும் செயற்பாட்டினை ஏற்பாடு செய்திருந்தனர்.
+🟩
 
-இராணுவம், வனவள திணைக்களம், வனஜீவராசி, கடற்படை, தொழிற்சாலைகள், தொல்லியல் திணைக்களங்களால் ஆக்கிரமிக்கப்பட்ட காணிகளை விடுவிக்கக் கோரி இவ்வாறு தபால் அட்டைகள் அனுப்பப்பட்டுள்ளது.
+A attention was carried out on the topic "Voice of the Landscape of Land" demanding the release of the lands of the people who lost the land in the five districts in the north.
 
-குறித்த நிகழ்வு செவ்வாய்க்கிழமை (05) காலை 10.30 மணியளவில் கிளிநொச்சி ஜெயபுரம் பொது மண்டபத்தில் இடம்பெற்றது.
+The Mannar Socio -Economic Development Institute has long been trying to help the people and has organized the postage process.
 
-இதன் போது, கிளிநொச்சி மாவட்டத்தில் காணிகளை இழந்த பாதிக்கப்பட்ட 100க்கு மேற்பட்ட காணி உரிமையாளர்களால் காணிகளை விடுவிக்கக் கோரியே இவ்வாறு ஜனாதிபதிக்குத் தபால் அட்டைகள் மூலம் கோரிக்கை விடுக்கப்பட்டு அனுப்பி வைக்கப்பட்டுள்ளது.
+Postcards have been sent to the Department of Army, Forest Department, Wildlife, Navy, Factories and Archeology Department.
 
-நீண்ட கால யுத்தம் காரணமாகக் காணி ஆவணங்களைப் பெற முடியாமலும், உறுதிக் காணிகளும் இவ்வாறு மேற்குறித்த தரப்புக்களால் ஆக்கிரமிக்கப்பட்டுள்ளது.
+The event was held on Tuesday (05) at 10.30 am at the Jayapuram Public Hall in Kilinochchi.
+
+In the meantime, more than 100 land owners who have lost their lands in the Kilinochchi district have been asked to release the land by postal cards to the President.
+
+Due to the long -term war, land documents are unable to obtain and certain lands are occupied by the Western parties.
+
+Thus, people have been facing long -lasting difficulties in obtaining and developing land, including residences and fields.
 
 ...
 
 [Data](articles/30cd579d.json)
+
+[Extended Data](ext_articles/30cd579d.ext.json)
 
 ---
 
@@ -88,6 +122,8 @@ The party leaders have informed the Central Bank officials that it is unfair for
 
 [Data](articles/04096441.json)
 
+[Extended Data](ext_articles/04096441.ext.json)
+
 ---
 
 ### Transport Minister not efficient, only talks: Gemunu
@@ -103,6 +139,8 @@ Addressing the media, he said that even though the government had not reduced th
 ...
 
 [Data](articles/c90dba46.json)
+
+[Extended Data](ext_articles/c90dba46.ext.json)
 
 ---
 
@@ -121,6 +159,8 @@ Accordingly, the Cabinet of Ministers has approved the joint proposal presented 
 ◼️
 
 [Data](articles/fabcd036.json)
+
+[Extended Data](ext_articles/fabcd036.ext.json)
 
 ---
 
@@ -2217,31 +2257,5 @@ The local secretary added that if the pregnant women and milk mothers accused, i
 [Data](articles/8c8d21cd.json)
 
 [Extended Data](ext_articles/8c8d21cd.ext.json)
-
----
-
-### SC Muthukumaran Sathiyapramara as a member of Parliament
-
-*2024-03-05 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177927) · `ta`
-
-SC Muthukumaran, born 1953, became a Member of Parliament in 2023, replacing Ummaratne in Anuradhapura. He started his political career in 1977, serving in various capacities including Deputy Chairman of the Freedom Party and Minister of Agriculture.
-
-🟩
-
-SC Muthukumaran was the Member of the Ninth Parliament on Tuesday (05) in the presence of Speaker Mahinda Yapa Abeywardena.
-
-He also signed the Member of Parliament in the presence of Parliamentary Secretary General Saminda Gularatne after the swearing in the presence of the Speaker.
-
-The SC of the Sri Lanka PA has resigned from the post of MP Ummaratne in Anuradhapura district.. Muthukumaran was thus appointed.
-
-Born in 1953, SC Muthukumaran received his education at Central College, Anuradhapura. He began his political journey in 1977. He was elected to the Kalawewa Pradeshiya Sabha in 1991 and was elected to the North Central Provincial Council in 1993 and 1999.
-
-He was also the Deputy Chairman of the Kalawewa Branch of the Freedom Party. He also held the post of Minister of Agriculture of the North Central Provincial Council in 2000. He was elected to the seventh parliament from the Anuradhapura district on behalf of the United People's Freedom Alliance in 2010.
-
-◼️
-
-[Data](articles/e032051c.json)
-
-[Extended Data](ext_articles/e032051c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 16:17:32**
+As of **2024-03-05 16:33:58**
 
 ## Newspaper Stats
 
-*Scraped **11,009** Articles*
+*Scraped **11,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,85 +16,137 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 930
-adaderanalk | 1,339
+adaderanalk | 1,340
 tamilmirrorlk | 1,343
 virakesarilk | 1,480
-dailymirrorlk | 1,677
+dailymirrorlk | 1,680
 adaderanasinhalalk | 1,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,005 (100.0%) of 11,009 articles have been extended.
+11,009 (100.0%) of 11,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### බෆල් එකෙන් මතුවූ ගිනි අවිය
+### Asela Sampath tenders apology to ex-Minister Channan Jayasumana
+
+*2024-03-05 16:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asela-Sampath-tenders-apology-to-ex-Minister-Channan-Jayasumana/108-278281) · `en`
+
+Colombo, March 5 (Daily Mirror)- Asela Sampath, the National Organizer of the All Ceylon Restaurant Owners’ Association, today tendered an apology and expressed regret to former Minister and Parliamentarian Dr. Channa Jayasumana against two false statements he had made by on 21 June 2021 against Dr. Channan Jayasumana on social media regarding the Sinovac Covid-19 vaccine proposed to be manufactured in Sri Lanka with the approval of the World Health Organization.
+
+The defendant had made a defamatory statement against Dr. Jayasumana alleging that the plaintiff in this case had accepted monetary and other advantages with regard to the proposed programme for which Dr. Jayasumana had sued for Rs. 5,000,000 from Asela Sampath for slandering him.
+
+At the outset of the hearing before the Colombo District Court, Counsel appearing on behalf of Asela, Sampath pleaded that his client was willing to tender an apology in court to Dr. Channa Jayasumana.
+
+...
+
+[Data](articles/33bb1e2d.json)
+
+---
+
+### The firearm emerged from the buffale
 
 *2024-03-05 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194164) · `si`
 
-කප්පම් ඉල්ලා කඳාන ප්‍රදේශයේ මස්කඩ හිමියෙකු ට වෙඩි තැබීම සම්බන්ධයෙන් සැකපිට 9 දෙනෙක්ව පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Police Special Task Force arrested 9 suspects in Pubudugoda, including a criminal hiding in Dubai, for a ransom demand shooting at Kandana on August 4 last year. A firearm with two magazines of 45 bullets was found.
 
-පසුගිය වසරේ අගෝස්තු 04 වනදා එම වෙඩි තැබීම සිදුකර තිබූ අතර ඒ සඳහා යොදාගත් බවට සැක කෙරෙන ගිනි අවියද සොයා ගැනුණි.
+🟩
 
-සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ඩුබායි හි සැඟව සිටින රසික නොහොත් චූටි මල්ලීට එම ගිනි අවිය අයත් බව සඳහන් වෙයි.
+The Police Special Task Force has arrested 9 persons on suspicion of shooting at the Kandana, demanding ransom.
 
-එම ගිනි අවියට යෙදිය හැකි උණ්ඩ 45ක් සහිත මැගසින් දෙකක් ද සොයාගෙන තිබේ.
+The shooting was carried out on August 4 last year and found the firearm that were suspected to be used.
 
-විශේෂ කාර්ය බලකාය ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව අද (05) පමුණුගම පොලිස් වසමේ පුබුදුගම ප්‍රදේශයේ දී එම වැටලීම සිදුකර ඇත.
+The fanless, who is hiding in Dubai, an organized criminal and a drug dealer, is found in Dubai.
 
-ඩුබායි හි සැඟවී සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන චුටි මල්ලි නැමැත්තාගේ පුංචි අම්මා ගේ නිවසේ ඉතාම සුක්ෂමව සඟවා තිබියදී එම අවිය සහ උන්ඩ සොයා ගැනුණි.
+Two magazines with 45 bullets can be operated by the firearm.
 
-එම නිවසේ සිටි සැකකාරියන් තිදෙනෙක් සහ සැකකරුවන් හය දෙනෙක් ද එහිදී අත්අඩංගුවට ගත්තේය.
+The raid was carried out in Pubudugoda, Pubudugoda, Pamunugama police division today (05).
+
+In the house of an organized criminal, a hide criminal in Dubai, was found in the house of the little mother's home.
+
+Three suspects and six suspects were arrested at the house.
 
 ◼️
 
 [Data](articles/6590fc07.json)
 
+[Extended Data](ext_articles/6590fc07.ext.json)
+
 ---
 
-### ஜாவா லேன் - மொரகஸ்முல்லை கால் இறுதி இன்று
+### Java Lane - Today
 
 *2024-03-05 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177974) · `ta`
 
-சிட்டி புட்போல் லீக்கினால் ஏற்பாடு செய்யப்பட்டுள்ள 19 வயதுக்குட்பட்ட அணிகளுக்கு இடையிலான யூசுப் கிண்ண கால்பந்தாட்டத்தின் 3 ஆவது அரை இறுதிப் போட்டியில் ஜாவா லேன் கழகமும் மொரகஸ்முல்லை கழகமும் இன்று செவ்வாய்க்கிழமை (05) விளையாடவுள்ளன.
+Java Lane and Moragasmullai face off in the 3rd semi-finals of the Yusuf Bowl. Java Lane's B team, with Rinon Club, remains undefeated. Java Lane won a penalty shootout against Moragasmullai, and in group C, Corporation won 2-1, while Victory lost 0-1. Moragasmullai is second in their group, having beaten Java Lane in the quarter-finals. Java Lane is favored to win today's quarter-finals and advance, but Moragasmullai is not expected to lose.
 
-இரண்டு தடவைகள் சம்பியனான ஜாவா லேன் தான் விளையாடிய றினோன் கழகத்துடனான பி குழு போட்டியை வெற்றி தோல்வியின்றி முடித்துக்கொண்டது.
+🟩
 
-இதனை அடுத்து பி குழுவுக்கான முதலாவது அணியைத் தீர்மானிக்கும் பொருட்டு அமுல்படுத்தப்பட்ட பெனல்டிகளில் 9 - 8 என ஜாவா லேன் வெற்றிபெற்று முதலிடத்தை உறுதி செய்துகொண்டது.
+The Java Lane Club and the Moragasmullai club will play today (05) in the 3rd semi -finals of the Yusuf Bowl football between the 19 -year -old teams organized by the City Football League.
 
-சி குழுவில் இடம்பெற்ற மொரகஸ்முல்லை தான் விளையாடிய இரண்டு போட்டிகளில் ஒன்றில் குறே கழகத்தை 2 - 1 என வெற்றிகொண்டிருந்தது. மற்றைய போட்டியில் விக்டரி கழகத்திடம் 0 - 1 என தோல்வி அடைந்திருந்தது.
+The B team with the Rinon Club, which he played twice, ended without a loss.
 
-இதற்கு அமைய இக் குழுவில் மொரகஸ்முல்லை இரண்டாம் இடத்தைப் பெற்று கால் இறுதியில் ஜாவா லேனை எதிர்த்தாட தகதிபெற்றது.
+In order to decide the first team for the B team, Java Lane won the number 9 - 8 in the implementation of the penalty.
 
-இந்த இரண்டு அணிகளில் ஜாவா லேன் கழகம் சற்று பலம் வாய்ந்ததாகத் தென்படுவதால் இன்றைய கால் இறுதிப் போட்டியில் வெற்றிபெற்று அரை இறுதிக்கு முன்னேறும் என கருதப்படுகிறது.
+In one of the two matches he played in the C. group, the Corporation won 2 - 1. In the other match, Victory lost to 0 - 1.
 
-...
+Accordingly, the group came to second place in Moragasmulla and won the quarterly opposing Java Lane.
+
+The Java Lane Corporation is a bit strong in the two teams and is expected to win today's quarter -finals and advance to the semi -finals.
+
+However, the Moragasmullai Corporation cannot expect this match to slip.
+
+◼️
 
 [Data](articles/e6ff077c.json)
 
+[Extended Data](ext_articles/e6ff077c.ext.json)
+
 ---
 
-### රත්මලානේ සිඟිති මත්ද්‍රව්‍ය සමග අත්අඩංගුවට
+### Railway workers allegedly assault two tourists
+
+*2024-03-05 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-workers-allegedly-assault-two-tourists/108-278280) · `en`
+
+Railway workers allegedly assaulted two tourists on a train travelling from Colombo to Badulla.
+
+These tourists had reportedly travelled in the first-class compartment with second-class tickets.
+
+Accordingly, it is reported that the two tourists were allegedly assaulted by the employees of the Nawalapitiya railway station and pulled out of the train.
+
+◼️
+
+[Data](articles/c755497a.json)
+
+---
+
+### Restaurant arrested with drugs
 
 *2024-03-05 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194163) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරම්කාරියක් වන රත්මලානේ 'සිඟිති' නමැති කාන්තාවක් අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගෙන තිබේ.
+"Drug dealer 'Singumba' arrested with 50 grams of ice. Relative of Kudu Anju, believed hiding abroad. Identified as sister of murdered Ratmalana victim. Mount Lavinia Divisional Investigation Bureau led the raid."
 
-ඇය සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50ක් සොයාගෙන ඇති අතර එහි වටිනාකම රුපියල් ලක්ෂ 7ක් බවට සැක කෙරෙයි.
+🟩
 
-ඇය විදේශගතව සැඟව සිටින බවට විශ්වාස කෙරෙන කුඩු අංජුගේ ඥාතියෙක් බවද වාර්තා වෙයි.
+A woman named 'Singumba', a drug dealer, was arrested with ice drugs.
 
-රත්මලාන දුම්රිය පොළ ආසන්නයේ දී පසුගිය අගෝස්තු මාසයේදී පුද්ගලයෙකු වෙඩි තබා ඝාතනය කෙරුණු අතර එලෙස ඝාතනය වූ රත්මලානේ 'මස් කඩේ කලුවා' නම් පුද්ගලයාගේ වැඩිමහල් සහෝදරිය ලෙස ද මෙම කාන්තාව හඳුනාගෙන ඇති බවද පොලීසිය පවසයි.
+She had found 50 grams of ice drugs and the value of Rs.
 
-මෙම වැටලීම සිදුකර තිබුණේ ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසිනි.
+It is also reported that Kudu Anju is a relative of Kudu Anju, who is believed to be hiding abroad.
+
+The woman was identified as the eldest sister of the 'flesh' was the oldest sister of the 'flesh', the murdered Ratmalana, near the Ratmalana Railway Station.
+
+The raid was carried out by the Mount Lavinia Divisional Investigation Bureau.
 
 ◼️
 
 [Data](articles/e4537ddc.json)
+
+[Extended Data](ext_articles/e4537ddc.ext.json)
 
 ---
 
@@ -116,21 +168,47 @@ According to this recent amendment, the President, Prime Minister, Members of Pa
 
 ---
 
-### விபத்தில் பலியான அருட்தந்தை ;  மன்னார் அடம்பன் பகுதியில் பொது மக்கள் போராட்டம் ; வீதி தடை அமைக்குமாறு கோரிக்கை
+### CPC has failed to provide quality standard report for Super Diesel: Gemunu
+
+*2024-03-05 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-has-failed-to-provide-quality-standard-report-for-Super-Diesel-Gemunu/108-278279) · `en`
+
+Colombo, March 5 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has failed to provide a quality standard report for its Super Diesel stocks currently used by buses and other diesel vehicle owners, Lanka Private Bus Owners' Association (LPBOA) president Gemunu Wijeratne said.
+
+Addressing the media, he said that his association has received many complaints regarding the quality standards of the super diesel stocks.
+
+Most complaints from vehicle users claimed that they are unable to get the maximum fuel efficiency and that they cannot drive their vehicles to the maximum kilometres per litre.
+
+"As a responsible association, I informed the CPC officials in this regard, but they are still unable to provide a quality standard report for me," he said.
+
+◼️
+
+[Data](articles/ebb0848b.json)
+
+---
+
+### BlessedPeople's struggle in Mannar Adampan area;Demand to set up a roadblock
 
 *2024-03-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177972) · `ta`
 
-மன்னார் அடம்பன் பிரதான வீதியில் உள்ள நாற்சந்தியில் வீதி தடை ஒன்றை உடன் அமைத்து தருமாறு கோரி அடம்பன் பகுதி மக்கள் இன்று செவ்வாய்க்கிழமை (05) வீதிகளை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+Residents of Mannar Adampan area protested for a roadblock in Narundi, following a fatal accident. Two deaths have occurred due to the absence of roadblocks, leading to the involvement of local authorities in resolving the issue.
 
-நேற்று திங்கட்கிழமை (4) அடம்பன் பிரதான வீதியில் இடம் பெற்ற விபத்தில் டிப்பர் வாகனம் மோதி அருட்தந்தை ஒருவர் உயிரிழந்துள்ளார்.
+🟩
 
-இந்நிலையில், தொடர்ச்சியாக குறித்த வீதியில் விபத்துக்கள் இடம் பெறுவதாகவும், வாகனங்கள் வேகமாக பயணிப்பதாகவும் தெரிவித்து குறித்த வீதியில் வீதித்தடை ஒன்றை அமைக்குமாறு கோரி பொது மக்கள் போராட்டத்தில் ஈடுபட்டனர்.
+The people of Adamban area today went on a protest on Tuesday (05) demanding the launching a roadblock in Narundi on the Mannar Adampan main road.
 
-குறித்த வீதியில் வீதித்தடை ஒன்றை அமைக்குமாறு முன்னதாகவே பிரதேச சபை கூட்டத்தில் தீர்மானம் மேற்கொள்ளப்பட்டும் பிரதேச அபிவிருத்தி குழு கூட்டத்தில் பேசப்பட்டும் இதுவரை எந்த வித வீதித்தடைகளும் அமைக்கப்படாமையினால் தொடர்சியாக இரண்டு மரணங்கள் நிகழ்ந்துள்ளதாக மக்கள் ஆதங்கங்களை வெளிப்படுத்தியிருந்தனர்.
+A tipper vehicle crashed into an accident on Adampan main road yesterday (4).
 
-...
+In this case, the general public was protesting demanding the construction of a road barrier on the road, saying that the road was on the road and that the vehicles were traveling fast.
+
+The people have expressed their resources that there have been two deaths due to the lack of any roadblocks so far.
+
+In this case, the Assistant District Secretary, Assistant Divisional Secretary, Pradeshiya Sabha Secretary, Road Development Authority, Executive Engineer and Police have abandoned the protest as they will soon take action to prevent accidents.
+
+◼️
 
 [Data](articles/b641fab0.json)
+
+[Extended Data](ext_articles/b641fab0.ext.json)
 
 ---
 
@@ -361,6 +439,26 @@ Attorneys-at-Law Tissa Velragoda also appeared on behalf of Professor Channa Jay
 [Data](articles/b9db6b32.json)
 
 [Extended Data](ext_articles/b9db6b32.ext.json)
+
+---
+
+### Kandana shooting: Suspects arrested with T56 rifle and 45 bullets
+
+*2024-03-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97743/kandana-shooting-suspects-arrested-with-t56-rifle-and-45-bullets) · `en`
+
+The Police Special Task Force (STF) has arrested a suspect along with a firearm and ammunition, in connection with the shooting of a meat stall owner in Kandana in August last year.
+
+Police said the suspect was arrested in the Kandana area along with a T56 assault rifle, 02 magazines and 45 rounds of ammunition.
+
+Police suspect that the shooting had been carried out on the directive of the organized criminal gang leader known by the alias “Chooti Malli”, who is believed to be in hiding in Dubai, over a ransom demand.
+
+Accordingly, the firearm had been found hidden in a residence linked to “Chooti Malli” located at Pamunugama.
+
+The firearm in question is suspected to have been used in the shooting of the meat shop owner in Kandana on August 08, 2023. It is reported that the shooting had been carried out after the drug trafficker and organized criminal ‘Chooti Malli’ had sought ransom payments from the victim.
+
+...
+
+[Data](articles/3681f2dc.json)
 
 ---
 
@@ -2115,95 +2213,5 @@ Meanwhile, the two persons of the Prime Minister's Security Division have arrest
 [Data](articles/3771ede8.json)
 
 [Extended Data](ext_articles/3771ede8.ext.json)
-
----
-
-### There is a dry weather in the country
-
-*2024-03-05 08:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-வறட்சியான-காலநிலையே-காணப்படும்/175-334211) · `ta`
-
-Dry weather in the country. Temperature checks in Western and Southern Provinces, Ratnapura. Morning snowfall in Sabaragamuwa and Western Provinces. East to northeast sea regions from Mannar to Hambantota at 20-30 km/h.
-
-🟩
-
-The Department of Meteorology said that the temperature will be seen today in the Western and Southern Provinces, as well as in the Ratnapura district.
-
-In some parts of Sabaragamuwa and the Western Provinces, snowfall is seen in the morning.
-
-In the sea regions, from the east direction to the northeastern direction in the sea, from Mannar to Kankesanthurai, Trincomalee, Pottuvil and Hambantota, at a speed of 20 to 30 km / h, the other sea regions are southwest of the country.
-
-◼️
-
-[Data](articles/84720636.json)
-
-[Extended Data](ext_articles/84720636.ext.json)
-
----
-
-### Another suspicious death
-
-*2024-03-05 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194143) · `si`
-
-A body was found in Palugaswewa, Puttalam, yesterday afternoon. It's at the Puttalam hospital morgue for autopsy.
-
-🟩
-
-A body has been found in a land in Palugaswewa area in Puttalam Police Division.
-
-Police said the body was found in the afternoon yesterday (04).
-
-The body is deposited at the Puttalam hospital morgue for the cause of death.
-
-◼️
-
-[Data](articles/6e5a4a97.json)
-
-[Extended Data](ext_articles/6e5a4a97.ext.json)
-
----
-
-### A / L Vocational Training Program from today
-
-*2024-03-05 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194142) · `si`
-
-The Ministry of Education launches the A/L Vocational Training Program for GCE Advanced Level students, using 300 centers across the island. Students will study English, guidance, and a career subject, aiming to enhance knowledge, attitudes, and skills.
-
-🟩
-
-The Ministry of Education says that the program will be launched to students who sat for the GCE Advanced Level Examination this year.
-
-The training program is to be implemented using 300 centers island wide.
-
-The Ministry of Education requests the registered students to the respective centers.
-
-Students who sat for the A / L examination have been entitled to study English, guide and a career subject.
-
-Minister of Education Susil Premajayantha says that the proposed educational reforms are expected to arise with knowledge attitudes and skills.
-
-◼️
-
-[Data](articles/a5cb3622.json)
-
-[Extended Data](ext_articles/a5cb3622.ext.json)
-
----
-
-### Mainly fair weather expected to prevail today
-
-*2024-03-05 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97733/mainly-fair-weather-expected-to-prevail-today) · `en`
-
-The Department of Meteorology says mainly fair weather is expected to prevail in most parts of the island.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces during the morning.
-
-Mainly fair weather will prevail in sea areas around the island.
-
-Winds will be easterly to north-easterly in the sea areas off the coast extending from Mannar to Matara via Kankesanturai, Trincomalee, Pottuvil and Hambantota, and winds will be south-westerly or variable in direction in the other sea areas around the island. The wind speed will be 20-30 kmph.
-
-◼️
-
-[Data](articles/0cbf7b77.json)
-
-[Extended Data](ext_articles/0cbf7b77.ext.json)
 
 ---

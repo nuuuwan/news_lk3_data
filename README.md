@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 13:52:05**
+As of **2024-03-05 14:02:47**
 
 ## Newspaper Stats
 
-*Scraped **10,971** Articles*
+*Scraped **10,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,48 +17,110 @@ dailyftlk | 584
 islandlk | 592
 adalk | 930
 adaderanalk | 1,334
-tamilmirrorlk | 1,339
-virakesarilk | 1,472
-dailymirrorlk | 1,671
-adaderanasinhalalk | 1,713
+tamilmirrorlk | 1,340
+virakesarilk | 1,474
+dailymirrorlk | 1,673
+adaderanasinhalalk | 1,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,966 (100.0%) of 10,971 articles have been extended.
+10,971 (99.9%) of 10,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### கொழும்பு ரயில் நிலையங்களில் வரவுள்ள மாற்றம்
+### Restaurant food prices to be reduced from tonight
+
+*2024-03-05 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Restaurant-food-prices-to-be-reduced-from-tonight/108-278274) · `en`
+
+Colombo, March 5 (Daily Mirror) - Based on the reduction of the electricity tariffs, the All Ceylon Restaurant and Restaurant Owners' Association has decided to reduce the prices of restaurant foods with effect from midnight today.
+
+Its president Harshana Rukshan said they had increased the food prices from last Saturday according to the increase in production costs.
+
+Accordingly, the price of a cup of plain tea and a cup of milk tea will be reduced by Rs. 5 and Rs. 10 respectively from tonight.
+
+Moreover, he said the price of a packet of rice and curry lunch will be reduced by Rs. 25; a plate of fried rice, kottu will be reduced by Rs. 50; and the price of short eats will be reduced by Rs. 10 each.
+
+However, the association said that due to the reduction in electricity charges, the prices of restaurant food items will be reduced again to their earlier prices.
+
+◼️
+
+[Data](articles/dcb422d9.json)
+
+---
+
+### පාසල් කටයුතු ගැන ආණ්ඩුකාරවරුන්ට අලුත් බලයක්
+
+*2024-03-05 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194158) · `si`
+
+දේශපාලනික කටයුතු සඳහා පාසල් සහ පාසල් පරිශ්‍ර යොදාගැනීම අත්හිටුවීමේ බලය පළාත් ආණ්ඩුකාරවරුන්ට ලබාදීම සඳහා ගෙන ආ කැබිනට් යෝජනාවකට අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/6c836bb1.json)
+
+---
+
+### மாலைதீவு- சீன பாதுகாப்பு ஒப்பந்தம் கையெழுத்து
+
+*2024-03-05 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177953) · `ta`
+
+மாலைதீவின் பாதுகாப்பு அமைச்சு இது தொடர்பாக தெரிவிக்கையில், சீனாவின் இராணுவ உதவிகள் தொடர்பாக திங்கட்கிழமை ஒப்பந்தமொன்று கையெழுத்திடப்பட்டதாக தெரிவித்துள்ளது. இரு நாடுகளுக்கும் இடையிலான உறவுகளை இந்த ஒப்பந்தம் பலப்படுத்தும் என மாலைதீவு பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+மாலைதீவில் உள்ள 89 இந்தியப் படையினரம் மே 10 ஆம் திகதிக்கு முன்னர் வெளியேற வேண்டும் என மாலைதீவின் புதிய ஜனாதிபதி மொஹம்மட் முய்ஸுவின் அரசாங்கம் உத்தரவிட்டு சில வாரங்கில்  சீன- மாலைதீவு பாதுகாப்பு ஒப்பந்தம் கையெழுத்திடப்பட்டுள்ளது.
+
+மாலைதீவு பாதுகாப்பு அமைச்சர் கசான் முனுமூன், சீனாவின் சர்வதேச இராணுவ ஒத்துழைப்புகளுக்கான அலுவலகத்தின் பிரதிப் பணிப்பாளர் மேஜர் ஜெனரல் ஸாங் பாவோகுன் ஆகியோர் இந்த ஒப்பந்தத்தில் கையெழுத்திட்டனர்.
+
+இந்த ஒப்பந்தம் தொடர்பான விபரங்கள் உத்தியோபூர்வமாக வெளியிடப்படவில்லை. எனினும், சீனாவுக்கு இராணுவ உதவிகளை இலவசமாக வழங்க சீனா இணங்கியுள்ளதாக மாலைதீவு ஊடகங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/c1d44c70.json)
+
+---
+
+### The upcoming change at the Colombo railway stations
 
 *2024-03-05 13:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-ரயில்-நிலையங்களில்-வரவுள்ள-மாற்றம்/175-334228) · `ta`
 
-கொழும்பை சுற்றியுள்ள பிரதான ரயில் நிலையங்களில் அமைந்துள்ள கட்டிடங்களை வர்த்தக நிலையங்களாக தரமுயர்த்துவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet approved upgrading major railway stations in Colombo, identified at a June 6, 2023, meeting. The Minister of Transport and Highways, along with the Minister of Urban Development, submitted the proposal.
 
-ஜூன் 6, 2023 அன்று நடைபெற்ற அமைச்சரவைக் கூட்டத்தில் இந்த இடங்கள் அடையாளம் காணப்பட்டுள்ளன.
+🟩
 
-போக்குவரத்து, நெடுஞ்சாலைகள் அமைச்சர் மற்றும் நகர அபிவிருத்தி அமைச்சர் ஆகியோர் இணைந்து இந்த அமைச்சரவைப் பிரேரணையை சமர்ப்பித்திருந்தனர்.
+The Cabinet has approved the idea of upgrading buildings located at major railway stations around Colombo.
+
+These places were identified at the Cabinet meeting held on June 6, 2023.
+
+The Minister of Transport and Highways and the Minister of Urban Development had submitted the Cabinet Motion.
 
 ◼️
 
 [Data](articles/dfdc1742.json)
 
+[Extended Data](ext_articles/dfdc1742.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංග යෝජනාව භාරදෙයි
+### The no-confidence motion against speaker is handed over
 
 *2024-03-05 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194157) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව ගෙන එන විශ්වාසභංග යෝජනාව අද (05) පාර්ලිමේන්තු නියෝජ්‍ය මහ ලේකම් චමින්ද කුලරත්න මහතා වෙත භාරදී තිබේ.
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena, signed by 44 MPs, has been submitted to the Deputy Secretary General of Parliament today.
 
-ඊට පාර්ලිමේන්තු මන්ත්‍රීවරු 44 දෙනෙකුගේ අත්සන් ලැබී ඇතැයි ද වාර්තා වේ.
+🟩
+
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena has been handed over to the Deputy Secretary General of Parliament today (05).
+
+It has been reported that 44 MPs have been signed.
 
 ◼️
 
 [Data](articles/a71a5cdc.json)
+
+[Extended Data](ext_articles/a71a5cdc.ext.json)
 
 ---
 
@@ -74,21 +136,73 @@ The proposal furnished by President Ranil Wickremesinghe was green-lighted by th
 
 [Data](articles/c3eac255.json)
 
+[Extended Data](ext_articles/c3eac255.ext.json)
+
 ---
 
-### විරෝධතාකරුවන්ට එරෙහි වාරණය අධිකරණයෙන් ප්‍රතික්ෂේප කරයි
+### Censorship against protesters rejects
 
 *2024-03-05 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194156) · `si`
 
-ජාතික ජන බලවේගයට සම්බන්ධ ශිෂ්‍ය සංගම් කිහිපයක් අද (05) කොළඹ පැවැත්වීමට නියමිත පාගමනක් හා විරෝධතාවයක් වළක්වන ලෙස පවසමින් කුරුඳුවත්ත පොලීසිය සිදුකළ ඉල්ලීම කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා ප්‍රතික්ෂේප කර තිබේ.
+Colombo's Chief Magistrate Prasanna Alwis rejected a request by Cinnamon Gardens Police to prevent student unions from protesting today. The police sought an injunction, citing a planned protest and march starting this afternoon. Alwis noted that if public disruption occurs, police can act under the Police Ordinance.
 
-අද දහවල් කාලයේ ආරම්භ කිරීමට නියමිත අදාළ විරෝධතාවය හා පාගමන හේතුවෙන් මහජන පීඩාවක් සිදුවිය හැකි බව පෙන්වා දෙමින් කුරුඳුවත්ත පොලීසිය එම වාරණ නියෝගය ඉල්ලා සිටියේය.
+🟩
 
-මහජනතාවයට යම් පීඩාවක් සිදුවන්නේ නම්, පොලිස් ආඥාපනත යටතේ අවශ්‍ය පියවර ගැනීමට පොලීසියට බලය ඇති බවත්, ඒ සඳහා අධිකරණ නියෝග අනවශ්‍ය බවත් මහෙස්ත්‍රාත්වරයා මෙහිදී පෙන්වා දී තිබේ.
+Colombo Chief Magistrate Prasanna Alwis has rejected the Cinnamon Activity's request to prevent several student unions connecting to Colombo today (05).
+
+The Cinnamon Gardens Police asked the enjoining order, pointing out that the protest and march to start this afternoon to begin today.
+
+The Magistrate has pointed out that if the public is underway, the police have the power to take necessary action under the Police Ordinance.
 
 ◼️
 
 [Data](articles/e73849d1.json)
+
+[Extended Data](ext_articles/e73849d1.ext.json)
+
+---
+
+### Demonstration in the North condemning the violation of Indian fishermen
+
+*2024-03-05 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177932) · `ta`
+
+A demonstration in the North condemns the violation of Indian fishermen, held in front of the District Secretariat and the Chief Road of the Governor's Office. Only four protesters were allowed to enter the governor's office. Demonstrators will march to the Indian subconscious in Jaffna to express opposition.
+
+🟩
+
+A demonstration is being held in the north from Tuesday morning (05) morning condemning the violation of Indian fishermen.
+
+The demonstration is being carried out in front of the District Secretariat and the Chief Road of the Governor's Office in the North.
+
+In this case, only four persons who were protesting have been allowed to enter the governor's office as they have been denied permission to go to the Northern Governor's office.
+
+Subsequently, the demonstrators will march to the Indian subconscious in Jaffna to express their opposition to the protest.
+
+◼️
+
+[Data](articles/94120770.json)
+
+[Extended Data](ext_articles/94120770.ext.json)
+
+---
+
+### கடந்த 24 மணிநேரத்தில் விபத்துக்களால் 7 பேர் உயிரிழப்பு
+
+*2024-03-05 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177946) · `ta`
+
+நாட்டில் வெவ்வேறு பகுதிகளில் கடந்த 24 மணி நேரத்தில் இடம்பெற்ற வாகன விபத்துக்களில் 7 பேர் உயிரிழந்துள்ளார்கள்.
+
+எல்ல - ஹாலிஎல, பெரகல வீதியில் மில்லகம சந்திக்கு அருகில் நேற்று திங்கட்கிழமை (04) காலை  பதுளையிலிருந்து பண்டாரவளை நோக்கி பயணித்த வேன் ஒன்று பாதசாரிகள் கடவையில் வீதியை கடக்க முற்பட்டபவர் மீது மோதி விபத்துக்குள்ளானது. விபத்தில் கந்தேகும்புர ஹெல ஹல்பே பிரதேசத்தில் வசிக்கும் 89 வயதுடைய ஒருவர் உயிரிழந்துள்ளார்.
+
+இதேவேளை,  நவகமுவ - கொரதொர, வதுரம்முல்ல வீதியில் விபத்தில் கடுவலை கொரதொட்ட பகுதியைச் சேர்ந்த 55 வயதுடைய பெண்ணொருவர் உயிரிழந்துள்ளார்.  கொங்கஹஹேன பிரதேசத்தில் பாதசாரி கடவையை கடக்கும்போது கொரத்தோட்டையில் இருந்து வதுரமுல்ல நோக்கி பயணித்த முச்சக்கர வண்டியொன்று பெண் மீது மோதியுள்ளது.
+
+அத்துடன், நேற்றிரவு பெலியத்த - தங்காலை வீதியில் இடம்பெற்ற விபத்தில் சிட்டினமலுவ பிரதேசத்தைச் சேர்ந்த 75 வயதுடைய  நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+கோட்டை-பஸ்தியான் மாவத்தை பகுதியில் இடம்பெற்ற வாகன விபத்தில் தெஹிவளையில் வசிக்கும் 74 வயதுடைய முதியவர் பரிதாபமாக உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/6345e128.json)
 
 ---
 
@@ -146,15 +260,21 @@ The Cabinet was presented by the Minister of Transport and Highways and the Urba
 
 ---
 
-### කඩුවෙල වෙඩි තබයි
+### Kaduwela shoots
 
 *2024-03-05 13:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-වෙඩි-තබයි/11-408434) · `si`
 
-කඩුවෙල කොරතොට ප්‍රදේශයේ ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැලක් ඉදිරිපිට පුද්ගලයකු  පැමිණි අහසට වෙඩි තබා පලා ගොස් ඇතැයි නවගමුව පොලිසිය පවසයි. අදාල ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැල අසලට තවත් පුද්ගලයකු සමග පැමිණ යතුරු පැදිය මාර්ගය අසල නවත්වා ඉන් බැසවිත් කෑ ගසමින් 38mm වර්ගයේ රිවෝල්වරයක් භාවිතා කරමින් අහස දෙසට වෙඩිල්ලක් තබා පලා ගොස් ඇත. මෙම සිද්ධිය යම්කිසි කප්පම් ගැනීමේ සිද්ධියක් මත සිදු කර ඇතැයි සැක කරන බවද පොලිසිය පවසයි.
+In Korathota, Karattota, a person allegedly attempted extortion by stopping a motorcycle, shouting, and fleeing.
+
+🟩
+
+Navagamuwa Police say that a person arrived in front of a shopkeeper in Korathota, Karattota. The building materials came with another person to the sales plan and stopped the motorcycle and stopped the route and shouting and shouting and shouting and shouting and shouting with the sky to flee. The incident is suspected that the incident has been done on an extortion.
 
 ◼️
 
 [Data](articles/c559cb91.json)
+
+[Extended Data](ext_articles/c559cb91.ext.json)
 
 ---
 
@@ -263,6 +383,20 @@ It is noteworthy that the Republican party elections will be held today in 15 st
 [Data](articles/29a90326.json)
 
 [Extended Data](ext_articles/29a90326.ext.json)
+
+---
+
+### Calling of bids for restructuring SriLankan Airlines extended by 45 days
+
+*2024-03-05 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calling-of-bids-for-restructuring-SriLankan-Airlines-extended-by-45-days/108-278272) · `en`
+
+The deadline for calling bids for the restructuring of SriLankan Airlines has been extended by 45 days and it will come to effect from today, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+Addressing the media, he said the proposal for the government to absorb the USD 510 million in outstanding debts by SriLankan Airlines has been approved by the Cabinet.
+
+◼️
+
+[Data](articles/486c307c.json)
 
 ---
 
@@ -492,6 +626,26 @@ Basil Rajapakse said he hoped to make a change where necessary, and that every e
 
 ---
 
+### மக்களை ஒருபோதும் ஏமாற்ற மாட்டோம்: பசில்
+
+*2024-03-05 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/மக்களை-ஒருபோதும்-ஏமாற்ற-மாட்டோம்-பசில்/52-334219) · `ta`
+
+தமது கட்சி ஒருபோதும் மக்களை ஏமாற்ற முயற்சிக்கவில்லை என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+இன்று (05) காலை நாடு திரும்பிய அவர், ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு கூறியுள்ளார்.
+
+மேலும், மீண்டும் பாராளுமன்றத்துக்கு வரும் எண்ணம் தமக்கு இல்லை என்றும், எந்த தேர்தல் நடந்தாலும் அதற்கான ஏற்பாடுகளை தாம் செய்வதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+தேவையான இடங்களில் மாற்றத்தை ஏற்படுத்துவேன் என நம்புவதாக தெரிவித்த பசில் ராஜபக்ஷ, ஒவ்வொரு தேர்தலும் சவாலாகவே உள்ளது என்றும் கூறினார்.
+
+"நாங்கள் மக்களை ஒருபோதும் ஏமாற்றுவதில்லை. மக்கள் சொல்வதைச் செய்கிறோம். சில இடங்களில் தவறு செய்கிறோம். மக்கள் நாங்கள் சொல்வதை ஏற்க மாட்டார்கள். சில சமயங்களில் மக்கள் சொல்வதை நாங்கள் ஏற்காத சந்தர்ப்பங்களும் உள்ளன. அவற்றை நாங்கள் திருத்திக்கொள்கின்றோம்." என்றார்.
+
+◼️
+
+[Data](articles/a19ab487.json)
+
+---
+
 ### Railway strike from midnight today
 
 *2024-03-05 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194151) · `si`
@@ -511,30 +665,6 @@ Accordingly, the Railway Drivers Association and the Railway Supervisory Manager
 [Data](articles/50945768.json)
 
 [Extended Data](ext_articles/50945768.ext.json)
-
----
-
-### Demonstration in the North condemning the violation of Indian fishermen
-
-*2024-03-05 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177932) · `ta`
-
-A demonstration in the North condemns the violation of Indian fishermen, held in front of the District Secretariat and the Chief Road of the Governor's Office. Only four protesters were allowed to enter the governor's office. Demonstrators will march to the Indian subconscious in Jaffna to express opposition.
-
-🟩
-
-A demonstration is being held in the north from Tuesday morning (05) morning condemning the violation of Indian fishermen.
-
-The demonstration is being carried out in front of the District Secretariat and the Chief Road of the Governor's Office in the North.
-
-In this case, only four persons who were protesting have been allowed to enter the governor's office as they have been denied permission to go to the Northern Governor's office.
-
-Subsequently, the demonstrators will march to the Indian subconscious in Jaffna to express their opposition to the protest.
-
-◼️
-
-[Data](articles/94120770.json)
-
-[Extended Data](ext_articles/94120770.ext.json)
 
 ---
 
@@ -2059,131 +2189,5 @@ In a letter addressed to both the leaders, Thilakarathne had pointed out that 60
 [Data](articles/f8885b47.json)
 
 [Extended Data](ext_articles/f8885b47.ext.json)
-
----
-
-### 2024-03-04 (Monday)
-
-### Final gig…on Sunday
-
-*2024-03-04 23:48:00* · [`islandlk`](http://island.lk/final-gigon-sunday/) · `en`
-
-Mirage, with Manilal, will be seen in action, in a different setting, this Sunday, March 10th, Down Under.
-
-The event is called ‘Let’s Dance Together’ and will be held in Bentleigh, Melbourne.
-
-What’s unique about this event is that it’s being held from 12 noon to 4 pm and will also celebrate the birthday of Mirage leader Donald Peiris, in a Thai Street Food/Thai Style setting…and Thai Buffet.
-
-Also in attendance, to provide the right music for such an occasion, will be Esric Jackson with the band No Limit.
-
-Esric, known as the Country King, is hugely popular in Melbourne and the Sri Lankans, over there, love his singing…and his style.
-
-This is Mirage’s final gig, in Australia, and they are scheduled to head for Colombo early next week.
-
-Saving education: “Up in the sky! It’s a bird! It’s a plane! It’s Superman!”
-
-SL ratifies UN convention on mediation for commercial dispute resolution
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/e1fee3c3.json)
-
-[Extended Data](ext_articles/e1fee3c3.ext.json)
-
----
-
-### Saving education: “Up in the sky! It’s a bird! It’s a plane! It’s Superman!”
-
-*2024-03-04 23:43:00* · [`islandlk`](http://island.lk/saving-education-up-in-the-sky-its-a-bird-its-a-plane-its-superman/) · `en`
-
-...
-
-[Data](articles/bee94e86.json)
-
-[Extended Data](ext_articles/bee94e86.ext.json)
-
----
-
-### Curiosity never killed the cat in a culture of ‘question’ and ‘challenge’
-
-*2024-03-04 23:40:14* · [`dailyftlk`](https://www.ft.lk/columns/Curiosity-never-killed-the-cat-in-a-culture-of-question-and-challenge/4-759159) · `en`
-
-Exemplary, and effective leadership is grounded, amongst others, in an insatiable desire to do things differently
-
-Whilst acknowledging the importance of policies, procedures, and processes in maintaining discipline and order in an organisation, I also believe that it must have, parallelly, a deliberately structured platform, vehicle, or mechanism to arouse the curiosity, harness new ideas and ignite the innovation DNA of its leaders and employees. A haven for those individuals who, routinely, question existing norms and push for incremental improvement and innovative solutions. History shows that organisations have benefitted from these challengers
-
-We have all had the experience of a dreary boss who, with his/her stifling, and controlling behaviour, routinely shot down our, and our team’s, progressive ideas in an environment where all that mattered to the boss was to get the job done by the stipulated timeline and in line with the prevailing rules and procedure.
-
-...
-
-[Data](articles/67ed8dbe.json)
-
-[Extended Data](ext_articles/67ed8dbe.ext.json)
-
----
-
-### Hayleys Aventura becomes official service partner for world’s leading water pump manufacturer Grundfos
-
-*2024-03-04 23:36:53* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Aventura-becomes-official-service-partner-for-world-s-leading-water-pump-manufacturer-Grundfos/34-759158) · `en`
-
-Hayleys Aventura has become Sri Lanka’s official service partner (SP) for Grundfos, the globally renowned Danish manufacturer of water pumps.
-
-The SP uniquely positions Hayleys Aventura to provide unparalleled after-sales care and expertise across the entire range of Grundfos products, through the integration of its software systems, access to a comprehensive spare parts inventory and a wealth of technical information.
-
-With tailored capability building programs provided by Grundfos, Hayleys Aventura’s staff are empowered with the requisite knowledge and skills to efficiently address and exceed customer requirements, solidifying their status as trusted experts in Grundfos product support in Sri Lanka.
-
-This partnership which commenced in 2014, will now further enhance Hayleys Aventura’s capability to deliver a stronger customer value proposition from end-to-end, including after-sales services.
-
-...
-
-[Data](articles/8de06c46.json)
-
-[Extended Data](ext_articles/8de06c46.ext.json)
-
----
-
-### The price of fuels from midnight today ...
-
-*2024-03-04 23:25:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-எரிபொருட்களின்-விலையில்-மாற்றம்/175-334207) · `ta`
-
-Ceylon Petroleum reduced Octane 95 by 9 rupees to 447 rupees and super diesel by 10 rupees to 458 rupees from midnight today. Sri Lanka IOC and Sinopac will also adjust prices to match Ciptco Fuel Company.
-
-🟩
-
-The Ceylon Petroleum Corporation said that the prices of fuels have been amended with implementation from midnight today.
-
-Accordingly, the price of a liter of Octane 95 per liter has been reduced by 9 rupees. The new price is 447 rupees.
-
-The price of a liter of super diesel has been reduced by 10 rupees. The new price is 458 rupees.
-
-It has also been announced that the price of the Octane 92 parents and the price of Otto Diesel.
-
-Sri Lanka IOC and Sinopac fuel companies have announced that it will reduce the price of fuel in accordance with the price of Ciptco Fuel Company.. Remble
-
-◼️
-
-[Data](articles/ef762bbf.json)
-
-[Extended Data](ext_articles/ef762bbf.ext.json)
-
----
-
-### JL Euro Solutions and Pharmaceris successfully conduct hair and skin care solutions awareness program
-
-*2024-03-04 23:25:00* · [`islandlk`](http://island.lk/jl-euro-solutions-and-pharmaceris-successfully-conduct-hair-and-skin-care-solutions-awareness-program/) · `en`
-
-JL Euro Solutions, the Sole Authorized Representative of Pharmaceris Haircare and Skincare products in Sri Lanka, conducted an informative session on Haircare and Skincare solutions at Hilton Colombo Residences recently.
-
-During the event, a number of experts from Pharmaceris shared their knowledge, expertise and treatment methodologies available in Sri Lanka for the treatment of Alopecia. Alopecia, commonly known as loss of hair, is a growing issue among middle-aged and older Sri Lankans. Research has shown that loss of hair has a negative impact on a person’s mental and emotional health as they may struggle with feelings of unattractiveness and be self conscious in social situations or avoid them altogether. It could cause issues of self esteem and may even lead to depression at times, thereby greatly disrupting the individual’s way of life.
-
-Related Topics:Euro Solutions and Pharmaceris successfully conduct hair and skin care solutions awareness programJL Euro Solutions
-
-...
-
-[Data](articles/661378ba.json)
-
-[Extended Data](ext_articles/661378ba.ext.json)
 
 ---

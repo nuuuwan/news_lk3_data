@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 17:02:53**
+As of **2024-03-05 17:17:33**
 
 ## Newspaper Stats
 
-*Scraped **11,019** Articles*
+*Scraped **11,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,342
 tamilmirrorlk | 1,343
 virakesarilk | 1,480
 dailymirrorlk | 1,680
-adaderanasinhalalk | 1,723
+adaderanasinhalalk | 1,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,017 (100.0%) of 11,019 articles have been extended.
+11,019 (100.0%) of 11,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### ශිෂ්‍ය විරෝධයට පොලීසියෙන් කඳුළු ගෑස්
+
+*2024-03-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194169) · `si`
+
+කොළඹ විශ්වවිද්‍යාලය ඉදිරිපිට මාර්ගය අවහිර කරමින් අද (05) පස්වරුවේ පැවැති ශිෂ්‍ය සංගම් විරෝධතාවට පොලීසිය කඳුළු ගෑස් සහ ජල ප්‍රහාර එල්ලකර තිබේ.
+
+කොළඹ ක්‍රීඩා අමාත්‍යාංශය ඉදිරිපිටදී මෙලෙස කඳුළු ගෑස් සහ ජල ප්‍රහාර එල්ලකර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/30a5e705.json)
+
+---
 
 ### Road closed due to protest by uni students in Colombo
 
@@ -43,6 +57,8 @@ Ada Derana reporter said that severe traffic congestion has been reported in the
 ◼️
 
 [Data](articles/a41379d4.json)
+
+[Extended Data](ext_articles/a41379d4.ext.json)
 
 ---
 
@@ -109,6 +125,8 @@ With regard to Sri Lanka’s performance in its top 15 major export markets, the
 ...
 
 [Data](articles/6a8d8fe3.json)
+
+[Extended Data](ext_articles/6a8d8fe3.ext.json)
 
 ---
 
@@ -2191,33 +2209,5 @@ Sri Lanka Kariya Kariyawasam, Members of Parliament, SM, the MPs of the Sri Lank
 [Data](articles/74f428b0.json)
 
 [Extended Data](ext_articles/74f428b0.ext.json)
-
----
-
-### Two people who went on the road showed by Google Map and entered the Alary House
-
-*2024-03-05 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177916) · `ta`
-
-Two men, a software engineer and a ship passenger, were arrested for trespassing at the Prime Minister's residence in Colombo using Google Maps. They were released on bail.
-
-🟩
-
-The Fort Magistrate has granted bail to the two men who went on the road showed by Google Map to the Prime Minister's official residence in Colombo.
-
-The two men were arrested by the Kaluppitti police on Saturday, police said.
-
-A software engineer and a person on board a ship went to the extravagant hotel on Saturday night (03).
-
-Then they used the Google Map to go to the shelter on Mukandram Road.
-
-In this case, when the Google Map showed, they had entered the Alarm Gallery.
-
-The Prime Minister's Security Division has arrested the two officials and handed over to the Kaluppitti police.
-
-◼️
-
-[Data](articles/b1345fde.json)
-
-[Extended Data](ext_articles/b1345fde.ext.json)
 
 ---

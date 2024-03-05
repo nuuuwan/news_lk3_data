@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 10:03:13**
+As of **2024-03-05 10:17:44**
 
 ## Newspaper Stats
 
-*Scraped **10,921** Articles*
+*Scraped **10,929** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 107
-bbccomsinhala | 130
+bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 562
@@ -17,20 +17,106 @@ dailyftlk | 584
 islandlk | 592
 adalk | 925
 adaderanalk | 1,329
-tamilmirrorlk | 1,332
+tamilmirrorlk | 1,334
 virakesarilk | 1,459
-dailymirrorlk | 1,663
-adaderanasinhalalk | 1,702
+dailymirrorlk | 1,667
+adaderanasinhalalk | 1,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,919 (100.0%) of 10,921 articles have been extended.
+10,921 (99.9%) of 10,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### අපි කවදාවත් ජනතාව රවට්ටන්නේ නෑ... -බැසිල්
+
+*2024-03-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194147) · `si`
+
+තම පක්ෂය කිසිදිනක ජනතාව රැවටීමට උත්සාහ කර නොමැති බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා පවසයි.
+
+අද (05) උදෑසන දිවයිනට පැමිණි ඒ මහතා මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
+
+එමෙන්ම තමා නැවත වතාවක් පාර්ලිමේන්තු ඒමට කිසිදු අදහසක් නොමැති බව ද පැවසු ඒ මහතා කුමන මැතිවරණයක් පැමිණියක් එහි සංවිධාන කටයුතු තමා විසින් සිදුකරන බව ද මෙහිදී සඳහන් කළේය.
+
+වෙනසක් අවශ්‍ය තැන්වලදි එය සිදුකිරීමට බලාපොරොත්තු වන බවත් පැවසු බැසිල් රාජපක්ෂ මහතා, සෑම මැතිවරණයක්ම අභියෝගයක් බව ද පැවසීය.
+
+"අපි කවදාවත් ජනතාව රවට්ටන්නේ නෑ. ජනතාව කියන දේ තමා කරන්නේ. අපිට සමහර තැන්වලදි වැරදෙනවා. ජනතාව අපි කියන දේ පිළිගන්නේ නෑ. සමහර වෙලාවට ජනතාව කියන දේ අපි පිළිගත්තේ නැති අවස්ථා තියෙනවා. ඒවා නිවැරදි කරගෙන යනවා."
+
+◼️
+
+[Data](articles/0e5a5bee.json)
+
+---
+
+### புதிய எம்.பி பதவியேற்றார்
+
+*2024-03-05 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பி-பதவியேற்றார்/175-334216) · `ta`
+
+பாராளுமன்ற உறுப்பினராக எஸ். சி. முத்துக்குமாரன, சற்று முன்னர் சபாநாயகர் முன்னிலையில் பதவிப்பிரமாணம் செய்து கொண்டார்.
+
+அண்மையில், பாராளுமன்ற உத்திக பிரேமரத்னவின் இராஜினாமா செய்திருந்தார். இதனையடுத்து, அவரது பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியது.
+
+இதனையடுத்து, உத்திக பிரேமரத்னவுக்குப் பிறகு அதிக வாக்குகளைப் பெற்ற எஸ். சி. முத்துக்குமாரன பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/ef3150e1.json)
+
+---
+
+### S.C. Muthukumarana sworn in as MP
+
+*2024-03-05 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-C-Muthukumarana-sworn-in-as-MP/108-278262) · `en`
+
+Parliament, March 05 (Daily Mirror)- S.C. Muthukumarana was sworn in as a Member of Parliament before Speaker Mahinda Yapa Abeywardane a short while ago.
+
+He fills the vacancy created by the resignation of Uddika Premarathne.
+
+◼️
+
+[Data](articles/24c061f8.json)
+
+---
+
+### Assault on woman: Police clarify Governor’s remarks on son’s surrender
+
+*2024-03-05 09:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Assault-on-woman-Police-clarify-Governors-remarks-on-sons-surrender/108-278263) · `en`
+
+Colombo, March 5 (Daily Mirror) - Despite Uva Province Governor A.J.M. Muzammil's remarks that his son had informed the police of his intention to surrender over the investigations into the alleged assault of a woman, police clarified today that neither the suspect nor the Governor has directly communicated with them regarding such a surrender.
+
+Police further said that they have not received any such communication and are conducting investigations to arrest the suspect.
+
+According to the police, a complaint was lodged with the Wellawatta Police a few days ago accusing Mohammad Isham Jamaldeen, the son of the Uva Province Governor, of allegedly assaulting a woman at an apartment in Wellawatta. The woman who was attacked was taken to the hospital for treatment, the police said.
+
+They said when the police went to arrest the suspect, he had left the vehicle he was travelling in and his mobile phone at a location in the Southern Province and fled to another area to evade the police.
+
+...
+
+[Data](articles/a59911d8.json)
+
+---
+
+### AKD’s change in stance on BR’s return raises questions
+
+*2024-03-05 09:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AKDs-change-in-stance-on-BRs-return-raises-questions/108-278261) · `en`
+
+Colombo, March 5 (Daily Mirror) - Months ago, NPP leader Anura Kumara Dissanayake extended a friendly acknowledgement to Basil Rajapaksa in Parliament, signalling the relations between them, but his recent criticisms of Basil's re-entry into the country have left many puzzled.
+
+Political circles are abuzz with the news about the arrival of Mr. Basil Rajapaksa to the country today. Mr. Dissanayake was sarcastic about it and said all the members of the Rajapaksa family in politics had no place in Sri Lanka politics.
+
+In his address to a gathering of women supporters of the NPP, he said the Rajapaksas and their supporters would be pondering which election should be conducted first - presidential or parliamentary.
+
+“They cannot do wonders now at all. People in this country won’t accept them any longer,” he said.
+
+◼️
+
+[Data](articles/cc7e0c8f.json)
+
+---
 
 ### S.C. Muthukumarana sworn in as Member of Parliament
 
@@ -43,6 +129,24 @@ He took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliame
 ◼️
 
 [Data](articles/37667538.json)
+
+[Extended Data](ext_articles/37667538.ext.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் சிற்றுண்டிகளின் விலை குறைகின்றது
+
+*2024-03-05 09:40:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-சிற்றுண்டிகளின்-விலை-குறைகின்றது/175-334215) · `ta`
+
+மின்சார கட்டணம் குறைக்கப்பட்டமை காரணமாக, இன்று நள்ளிரவு முதல் உணவு பொருட்களின் விலையினை குறைப்பதற்கு தீர்மானித்துள்ளதாக இலங்கை சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர் சங்கம் அறிவித்துள்ளது.
+
+இதற்கமைய, ஒரு கோப்பை தேநீர் ஐந்து ரூபாயினாலும், ஒரு கோப்பை பால் தேநீர் 10 ரூபாயினாலும், சிற்றுண்டிகள் 10 ரூபாயினாலும், குறைக்கப்படவுள்ளன.
+
+அத்துடன், சோற்றுப்பொதி ஒன்று 25 ரூபாயினாலும் கொத்து மற்றும் ப்ரைட் ரைஸ் ஆகியன 50 ரூபாயினாலும் குறைக்கப்படவுள்ளதாக அகில இலங்கை சிற்றுண்டிசாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/15d39a9b.json)
 
 ---
 
@@ -72,7 +176,7 @@ The live auction to choose an investor for the divestment of SriLankan Airlines 
 
 As such, the bidding will take place live from 10 a.m. to 2 p.m. today, Nimal Siripala de Silva, the Minister of Ports, Shipping and Aviation said while joining Ada Derana’s ‘GET REAL’ segment last week.
 
-Meanwhile, a special technical committee has been appointed to assist the live auction, according to the minister.
+Meanwhile, a special technical committee has been appointed to assist the live auction process, according to the minister.
 
 Following the evaluation of the bids, a report will be sent to the Cabinet of Ministers.
 
@@ -81,6 +185,8 @@ Following the evaluation of the bids, a report will be sent to the Cabinet of Mi
 ◼️
 
 [Data](articles/097cde5b.json)
+
+[Extended Data](ext_articles/097cde5b.ext.json)
 
 ---
 
@@ -203,6 +309,20 @@ Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation 
 [Data](articles/3319148b.json)
 
 [Extended Data](ext_articles/3319148b.ext.json)
+
+---
+
+### Import permit frauds threaten essential food supply chain
+
+*2024-03-05 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-permit-frauds-threaten-essential-food-supply-chain/108-278260) · `en`
+
+The members of the Essential Food Commodities and Traders Association yesterday raised concerns with Trade Minister Nalin Fernando about alleged frauds in getting approval by the Agriculture Ministry authorities to import items such as green gram, black gram, Kurakkan, maize and cowpea, Daily Mirror learns.
+
+Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation of these food crops. Later, the ban was lifted allowing such imports into the country subjected to a levy of Rs.300 a kilo and approval from the Agriculture Ministry. President Ranil Wickremesinghe issued the gazette notification in this regard on February 19, 2024. However, an informed source said that obtaining approval from the Ministry for import permits had become fraudulent.
+
+...
+
+[Data](articles/9e81096b.json)
 
 ---
 
@@ -679,6 +799,28 @@ The Lead Consultant to the CP Maritime Advisory Programme, Rohan Masakorala, joi
 [Data](articles/9f71001f.json)
 
 [Extended Data](ext_articles/9f71001f.ext.json)
+
+---
+
+### 'මිනිස්සු වෙනුවෙන්, භූමිය වෙනුවෙන් අපි සටන් වැදුණේ. අපිට මොනවාද ලැබුණේ ?'
+
+*2024-03-05 03:50:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5vw8qlxjdo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''දැන් කරුණලා, පිල්ලෙයාන්ලා බලන්නෙත් නෑ''
+
+'මිනිස්සු වෙනුවෙන්, භූමිය වෙනුවෙන් අපි සටන් වැදුණේ. අපිට මොනවාද ලැබුණේ ?'
+
+ශ්‍රී ලංකාවේ සිවිල් යුද්ධය පැවති සමයේ දී LTTE සංවිධානයට බැඳුනු බොහෝ දෙනෙකු අද ජීවිතයේ අසරණව කල් ගෙවති.
+
+මඩකලපුව, පුතුමන්ඩපත්තඩි ප්‍රදේශයේ ජීවත් වන වඩිවේල් වසන්ති ඒ අතරින් එක් අයෙකු වන්නීය. අලිමංකඩ සටනේ දී ඇගේ මුහුණට හානි සිදු විය.
+
+''මිනිස්සු වෙනුවෙන් හා භූමිය වෙනුවෙන් තමයි අපි සටන් වැදුණේ. අපිට මොනවාද ලැබුණේ. රුපියල් 10 ක් ලැබුණාද? පඩියක් ලැබුණා ද? සටන් වැදිලා අපිට කිසිම ප්‍රයෝජනයක් ලැබුණේ නෑ. දැන් කරුණා අම්මාන්, පිල්ලෙයාන් වුණත් අපි දිහා හැරිලවත් බලන්නේ නෑ. මම එයාලට සපොර්ට් එකට හිටියා කියලා අහලවත් බලන්නේ නෑ.'' යනුවෙන් ඇය BBC සිංහල සේවයට පැවසුවාය.
+
+තමා සමග සිටි බොහෝ දෙනෙකු අද ඉතා දුක්ඛිත ජීවිත ගත කරන බව ඇය පවසන්නීය.
+
+◼️
+
+[Data](articles/86783900.json)
 
 ---
 
@@ -2055,169 +2197,5 @@ Colombo, March 4 (Daily Mirror)- The no-faith motion on Speaker Mahinda Yapa Abe
 [Data](articles/6a72d931.json)
 
 [Extended Data](ext_articles/6a72d931.ext.json)
-
----
-
-### Sri Lanka electricity prices cut 21.9-pct: regulator
-
-*2024-03-04 17:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-prices-cut-21-9-pct-regulator-153087/) · `en`
-
-ECONOMYNEXT – The Public Utility Commission of Sri Lanka said it had cut electricity prices by 21.9 percent with effect from midnight March 04.
-
-It reduced the prices for hotels and industrial sector by 18 percent, for religious places by 33 percent, and for the State sector by 22 percent.
-
-The price of a unit for those who use below 30 units a month was reduced by 33 percent, 31-60 units by 28 percent, and 61-90 units by 30 percent.
-
-For those using between 91-180 units, the per unit price has been reduced by 24 percent, while above 180 units has been reduced by 18 percent.
-
-◼️
-
-[Data](articles/ad99db4d.json)
-
-[Extended Data](ext_articles/ad99db4d.ext.json)
-
----
-
-### The electricity tariffs down:
-
-*2024-03-04 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194124) · `si`
-
-The Public Utilities Commission has reduced the cost of electricity for units under 30 to Rs.
-
-🟩
-
-The Public Utilities Commission says that the cost of electricity under 30 units will be reduced to Rs.
-
-◼️
-
-[Data](articles/d80cd84b.json)
-
-[Extended Data](ext_articles/d80cd84b.ext.json)
-
----
-
-### Electricity tariffs to be reduced from midnight today
-
-*2024-03-04 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97729/electricity-tariffs-to-be-reduced-from-midnight-today) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) has approved the revision of electricity tariffs with effect from midnight today (04). The overall tariff reduction is 21.9 percent, the PUCSL said.
-
-PUCSL chairman Prof. Manjula Fernando annoucend this during a press briefing held in Colombo today (04) to deliver its decision on the electricity tariff reduction proposal mooted recently by the Ceylon Electricity Board (CEB).
-
-He said the final decision was reached after studying and reviewed the proposals and cost data submitted by the CEB in this tariff revision, in accordance with the provisions of Section 30 of the Sri Lanka Electricity Act No. 20 of 2009 and the provisions of the Public Utilities Commission of Sri Lanka.
-
-...
-
-[Data](articles/f0a68ff9.json)
-
-[Extended Data](ext_articles/f0a68ff9.ext.json)
-
----
-
-### Sri Lanka Podujana Peramuna to decide on election after Basil’s return
-
-*2024-03-04 17:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-peramuna-to-decide-on-election-after-basils-return-153080/) · `en`
-
-ECONOMYNEXT — The national organiser of the ruling Sri Lanka Podujana Peramuna (SLPP) will take a decision on whether to contest the 2024 presidential election on its own or support a candidate fielded by an alliance party is part of, a spokesman said.
-
-SLPP legislator Piyal Nishantha told reporters that Rajapaksa is set to arrive in the country on Tuesday March 05.
-
-“The SLPP has no wish to count its eggs before they’re hatched. Our national organiser is a very creative leader that steered the party to victory in a very short period of time,” said Nishantha.
-
-Following Rajapaksa’s return, said Nishantha, the SLPP’s executive committee, headed by Rajapaksa, will decide whether to form an alliance and “provide an opportunity to a candidate” or field its own candidate at the presidential poll that’s due to be held between September 17 and October 17 this year.
-
-“From that moment on, we’ll say compete with us and see if you can,” said Nishantha.
-
-...
-
-[Data](articles/318fea64.json)
-
-[Extended Data](ext_articles/318fea64.ext.json)
-
----
-
-### Abolishing The Executive Presidency – Is Time Running Out?
-
-*2024-03-04 17:50:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/abolishing-the-executive-presidency-is-time-running-out/) · `en`
-
-Earlier this week, the President’s Media Division issued a statement to the effect that the next presidential election will be held on schedule. What was the need for that statement? In terms of the Constitution, the President’s term of office ends not later than 18th November 2024. As far as I am aware, no member of Parliament has given any indication that he or she intends to introduce a Bill to amend the Constitution to extend the term of office of the President, as required by article 83 of the Constitution. Such a Bill, if passed with a two-third majority, will also need to be approved by the people at a referendum. In the absence of any such move, what was the need for the President’s Media Division to assert the obvious. Was it to stifle the movement for restoring the parliamentary executive that now appears to be gathering wide public support?
-
-...
-
-[Data](articles/b4859c0a.json)
-
-[Extended Data](ext_articles/b4859c0a.ext.json)
-
----
-
-### Met. Dept. further warns of increased temperatures
-
-*2024-03-04 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97728/met-dept-further-warns-of-increased-temperatures) · `en`
-
-The Department of Meteorology has issued a Heat Index Advisory cautioning the general public of rising temperatures in Western, Southern provinces and in the Rathnapura District tomorrow (March 05).
-
-“Heat index, the temperature felt on human body is expected to increase up to ‘Caution’ level at some places in Western, Southern provinces and in Rathnapura District”, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/9de16283.json)
-
-[Extended Data](ext_articles/9de16283.ext.json)
-
----
-
-### Sri Lanka rupee closes at 308.05/15 to the US dollar
-
-*2024-03-04 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-308-05-15-to-the-us-dollar-153018/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 308.05/15 to the US dollar Monday, from 308.80/90 on Friday, dealers said.
-
-A bond maturing on 01.02.2026 closed at 10.60/75 percent from 10.65/75 percent.
-
-A bond maturing on 15.09.2027 closed stable at 11.90/12.05 percent.
-
-A bond maturing on 01.07.2028 closed at 12.15/25 percent from 12.15/35 percent.
-
-A bond maturing on 15.07.2029 closed at 12.25/35 percent from 12.25/40 percent.
-
-A bond maturing on 15.05.2030 closed at 12.25/55 percent from 12.30/45 percent.
-
-A bond maturing on 01.07.2032 closed stable at 12.50/13.00 percent. (Colombo/Mar4/2024)
-
-◼️
-
-[Data](articles/436ee3b2.json)
-
-[Extended Data](ext_articles/436ee3b2.ext.json)
-
----
-
-### Faculty of Medical Faculties killed in Mahaweli
-
-*2024-03-04 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194123) · `si`
-
-Isuru Madusan, a third-year Medical Faculty student at the University of Peradeniya, was found dead in the Mahaweli River after being shot. The incident occurred on the 23rd, and he was rushed to Nawalapitiya Hospital for treatment.
-
-🟩
-
-A student of the Medical Faculty of the University of Peradeniya has been identified in an accident in the Mahaweli River.
-
-The deceased has been identified as a student named Isuru Madusan, the third year study of the Faculty of Medicine at the University of Peradeniya.
-
-The student had been bathing the student on the 23rd of the area at the Mahaweli River.
-
-The student had been shot dead at a standpoint and was rushed to the Nawalapitiya Hospital.
-
-The Medical Faculty student was identified today (04) while receiving treatment at the units of the hospital.
-
-◼️
-
-[Data](articles/aed9c343.json)
-
-[Extended Data](ext_articles/aed9c343.ext.json)
 
 ---

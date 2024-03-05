@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 06:16:44**
+As of **2024-03-05 06:53:08**
 
 ## Newspaper Stats
 
-*Scraped **10,885** Articles*
+*Scraped **10,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,323
 tamilmirrorlk | 1,325
 virakesarilk | 1,458
 dailymirrorlk | 1,657
-adaderanasinhalalk | 1,690
+adaderanasinhalalk | 1,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,872 (99.9%) of 10,885 articles have been extended.
+10,881 (100.0%) of 10,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### වැසි රහිත කාලගුණයක්
+
+*2024-03-05 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194134) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+
+මේ අතර උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ඊයේ නිකුත් කර තිබුණි.
+
+එම නිවේදනය බස්නාහිර සම දකුණු පළාත්වල සහ රත්නපුර දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලට මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ මට්ටමකට එනු ඇතැයි අපේක්ෂා කෙරේ.
+
+මේ අතර වැඩබිම්ව තුළ සිටින පුද්ගලයින් ප්‍රමාණවත් ලෙස ජලය පානය කරන්න ලෙසත් සෙවණ ඇති ස්ථානවල හැකි  පමණ විවේක ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටී.
+
+එම දෙපාර්තමේන්තුව ඉල්ලා සිටින්නේ, නිවෙස් තුළ සිටින වැඩිහිටි සහ රෝගී පුද්ගලයින් පිළිබඳ සැලකිලිමත් වෙන ලෙසත් වාහන තුළ කුඩා ළමුන් තනියම රඳවා නොයන ලෙසත්ය.
+
+එළිමහනේ සිටින පුද්ගලයින් අධික වෙහෙසකාරි කටයුතු සීමා කරන ලෙසත් සෙවණ ඇති ස්ථානවල රැඳෙන ලෙසත් ප්‍රමාණවත් ජලය පානය කරන ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/dca9d646.json)
+
+---
 
 ### Social protection reform integral to macroeconomic recovery: Semasinghe
 
@@ -268,6 +292,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/e1fee3c3.json)
 
+[Extended Data](ext_articles/e1fee3c3.ext.json)
+
 ---
 
 ### Saving education: “Up in the sky! It’s a bird! It’s a plane! It’s Superman!”
@@ -277,6 +303,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/bee94e86.json)
+
+[Extended Data](ext_articles/bee94e86.ext.json)
 
 ---
 
@@ -358,6 +386,8 @@ Related Topics:Euro Solutions and Pharmaceris successfully conduct hair and skin
 
 [Data](articles/661378ba.json)
 
+[Extended Data](ext_articles/661378ba.ext.json)
+
 ---
 
 ### Siyapatha Finance contributes to the development of internal access road
@@ -378,6 +408,8 @@ Siyapatha Finance expands its reach with the opening of its latest branch in Put
 
 [Data](articles/21e385c4.json)
 
+[Extended Data](ext_articles/21e385c4.ext.json)
+
 ---
 
 ### DOK Solutions Lanka partners with Plural Technology to advance digitization
@@ -389,6 +421,8 @@ DOK Solutions Lanka (Pvt) Ltd, a leading record management and business process 
 ...
 
 [Data](articles/89413303.json)
+
+[Extended Data](ext_articles/89413303.ext.json)
 
 ---
 
@@ -408,6 +442,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/c3950195.json)
 
+[Extended Data](ext_articles/c3950195.ext.json)
+
 ---
 
 ### CCPI based headline inflation decelerates
@@ -423,6 +459,8 @@ LOLC’s dominance of share market has resuscitating impact on manufacturing cou
 ...
 
 [Data](articles/ab460168.json)
+
+[Extended Data](ext_articles/ab460168.ext.json)
 
 ---
 
@@ -441,6 +479,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/9e282cf1.json)
+
+[Extended Data](ext_articles/9e282cf1.ext.json)
 
 ---
 
@@ -2219,25 +2259,5 @@ The other players named the ICC is the best player to select as the best player 
 [Data](articles/6f6febfe.json)
 
 [Extended Data](ext_articles/6f6febfe.ext.json)
-
----
-
-### Government officials hating people's voice…!
-
-*2024-03-04 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/177874) · `ta`
-
-A study by Peradeniya University reveals that 49% of phones in Sri Lanka's state agencies are non-functional, impacting service delivery. The police are identified as the most corrupt sector. Despite efforts to contact state institutions via phone, many are unresponsive or inaccessible. This situation reflects broader issues with government efficiency and corruption, with officials often prioritizing personal gain over public service.
-
-🟩
-
-According to a study, the state agencies in Sri Lanka are not working in half of the phones in the departments.. This information has been revealed through a survey of the Economic and Statistical Studies Division of Peradeniya University. A few weeks ago, this section of the university revealed that the most bribery sector in the state sector in Sri Lanka was the police.
-
-The extent to which people are working to get services in state institutions in Sri Lanka. In some departments and institutions, the people from the shopkeeper to the top officials are somehow bribing their needs.
-
-...
-
-[Data](articles/4ec8cef4.json)
-
-[Extended Data](ext_articles/4ec8cef4.ext.json)
 
 ---

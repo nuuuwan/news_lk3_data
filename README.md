@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 08:02:40**
+As of **2024-03-05 08:17:54**
 
 ## Newspaper Stats
 
@@ -26,91 +26,115 @@ adaderanasinhalalk | 1,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,893 (100.0%) of 10,898 articles have been extended.
+10,898 (100.0%) of 10,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### අත්හිටවූ බස්නාහිර පළාත් 10,11 ශ්‍රේණිවල වාර විභාග හෙට සිට
+### From 10,11 semespitals in Western provinces 10,11
 
 *2024-03-05 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194140) · `si`
 
-තාවකාලිකව අත්හිටුවා තිබූ බස්නාහිර පළාතේ පාසල්වල 10,11 ශ්‍රේණිවල අවසාන වාර පරීක්ෂණ කටයුතු හෙට (06) දිනයේ යළි පැවැත්වීමට නියමිතව තිබේ.
+The final test for 10,11 schools in Western provinces, initially suspended, is rescheduled for tomorrow. The Department of Education announced this, focusing on subjects not yet tested. The suspension was due to premature leakage on social media. The CID is investigating. Despite new paper preparations, the exam will proceed as planned. Professor Prathibhi Mahanamahewa commented on the situation.
 
-බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්ලමේන්තුව සඳහන් කළේ, වාර විභාගයේ මෙතෙක් නොපැවැත්වූ විෂයන් සඳහා හෙට දිනයේ සිට යළි විභාග කටයුතු පැවැත්වීමට නියමිත බවය.
+🟩
 
-විභාගය පැවැත්වීමට පෙර විද්‍යාව, ඉතිහාසහ, ඉංග්‍රීසි සහ ගණිතය යන ප්‍රශ්න පත්‍ර සමාජ මාධ්‍ය වෙත නිකුත් වීම හේතුවෙන් 10,11 ශ්‍රේණිවල විභාග කටයුතු තාවකාලිකව අත්හිටුවනු ලැබීය.
+The final test of 10,11 schools in the Western Province, which was temporarily suspended, is scheduled to be held tomorrow.
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් මේ වන විටත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් විමර්ශනයක් ආරම්භ කර තිබේ.
+The Department of Education The Department of Education stated that the examination will be held from tomorrow for the subjects that have not yet been held so far.
 
-කෙසේවෙතත් නව ප්‍රශ්න පත්‍ර සකස් කිරීමෙන් අනතුරුව හෙට දිනයේ සිට අදාළ ශ්‍රේණිවල විභාග කටයුතු යළි පැවැත්වීමට නියමිත බව බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්ලමේන්තුව සඳහන් කළේය.
+The examination activities of 10,11 were temporarily suspended as the examination was issued to the social media before the examination was issued.
 
-මේ අතර විභාග ප්‍රශ්න පිටවීමේ සිදුවීම සම්බන්ධයෙන් කොළඹ විශ්වවිද්‍යාලයේ ශ්‍රීපාලි මණ්ඩපයේ මණ්ඩපාධිපති නීතීඥ මහාචාර්ය ප්‍රතිභා මහානාමහේවා මහතා මෙලෙස අදහස් පළ කළේය.
+The CID has already begun an investigation into the incident.
+
+However, after the preparation of new papers, the examination of the Examinations of the Grades will be held tomorrow.
+
+Meanwhile, Professor Prathibhi Mahanamahewa expressed these views regarding the exit of examination question paper.
 
 ◼️
 
 [Data](articles/8fc0b87e.json)
 
+[Extended Data](ext_articles/8fc0b87e.ext.json)
+
 ---
 
-### ශ්‍රීලන්කන් ලංසු විවෘත කිරීම අද
+### SriLankan's bids today
 
 *2024-03-05 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194139) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙළ සඳහා සුදුසු ආයෝජකයෙකු තෝරා ගැනීමට ලංසු විවෘත කිරීම අද (05) සිදුකිරීමට නියමිතව තිබේ.
+SriLankan Airlines bids for restructuring open today, targeting $500M investment. Bids due by 2pm, supported by a technical team. Proposal to Cabinet post-Bid Assessment Report.
 
-අද පෙරවරු 10 සිට පස්වරු 2 දක්වා ඒ සඳහා ලංසු ඉදිරිපත් කිරීමට හැකි බව වරාය, නාවික සහ ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා සඳහන් කළේය.
+🟩
 
-අදාළ ලංසු ඉදිරිපත් කිරීම සජීවීව සිදුකිරීමට නියමිත අතර ඊට සහාය දැක්වීම සඳහා විශේෂ තාක්ෂණික කණ්ඩායමක් ද පත්කර තිබේ.
+The opening of bids will be opened today (05)) to select a suitable investor for the restructuring program for the restructuring of SriLankan Airlines.
 
-ලංසු ඇගයීම් වාර්තාව සකස් කිරීමෙන් අනතුරුව අදාළ යෝජනාව කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කරන බව නිමල් සිරිපාල ද සිල්වා අමාත්‍යවරයා සඳහන් කළේය.
+Minister of Ports, Naval and Aviation said that it is possible to bunded from 10 to 2 pm this morning.
 
-ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙළ යටතේ අමෙරිකානු ඩොලර් මිලියන 500ක පමණ අයෝජනයක් බලාපොරොත්තු වන බව අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+The submission of the bidding is due to be lived and a special technical team has also been appointed to support it.
+
+Minister Nimal Siripala de Silva said that the proposal will be submitted to the Cabinet after preparation of the Bid Assessment Report.
+
+The Minister further stated that SriLankan Airlines is looking for about US $ 500 million invested in the restructuring program.
 
 ◼️
 
 [Data](articles/ef23262a.json)
 
+[Extended Data](ext_articles/ef23262a.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංග යෝජනාව අද පාර්ලිමේන්තුවට
+### No-confidence motion against speaker to be taken to parliament today
 
 *2024-03-05 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194138) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව ගෙන එන විශ්වාසභංග යෝජනාව අද (05) පාර්ලිමේන්තු මහ ලේකම්වරිය වෙත භාරදීමට නියමිතව තිබේ.
+Opposition organizer Lakshman Kiriella hands over no-confidence motion against Speaker Mahinda Yapa Abeywardena to Parliament today, accusing him of constitutional violations. Parliament meets tomorrow.
 
-අද පෙරවරුවේ අදාළ යෝජනාව පාර්ලිමේන්තු මහලේකම් කුෂාණි රෝහණධීර මහත්මිය වෙත භාරදීමට බලාපොරොත්තු වන බව විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේය.
+🟩
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතා ව්‍යවස්ථාව උල්ලංඝනය කරමින් කටයුතු කරන බවට චෝදනා කරමින් සමගි ජන බලවේගය ප්‍රමුඛ විපක්ෂය විසින් මෙම විශ්වාසභංග යෝජනාව ගෙනඒමට තීරණය කළේය.
+The no-confidence motion against the Speaker Mahinda Yapa Abeywardena is due to be handed over to the Secretary General of Parliament today (05).
 
-ඒ අනුව ඊට අත්සන් ලබාගැනීමේ කටයුතු පසුගිය දිනවල සිදුවූ අතර අද දිනයේ අදාළ යෝජනාව පාර්ලිමේන්තු මහ ලේකම්වරියට බාරදීමෙන් අනතුරුව පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව වෙත ඉදිරිපත් කිරීමට බලාපොරොත්තු වන බව පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේය.
+The proposal of the opposition organizer, Lakshman Kiriella, he is expected to hand over the proposal this morning.
 
-මේ අතර මෙම සතිය සඳහා පාර්ලිමේන්තුව අද යළි රැස්වීමට නියමිතව තිබේ.
+The opposition leading proposal was decided by the opposition proposal by accusing the Speaker Mahinda Yapa Abeywardena, violating the constitution.
 
-අද, හෙට සහ අනිද්දා යන තෙදින තුළ පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+Accordingly, the signatures had taken place recently, and the proposal was submitted to the Secretary General of Parliament today, MP Lakshman Kiriella said.
+
+Meanwhile, Parliament is due to meet today this week.
+
+The Parliament will meet tomorrow and tomorrow.
 
 ◼️
 
 [Data](articles/0a0b35d3.json)
 
+[Extended Data](ext_articles/0a0b35d3.ext.json)
+
 ---
 
-### ගබ්සාව ගැන ප්‍රංශය ගත් තීරණය
+### The decision of the abortion of the abortion
 
 *2024-03-05 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194137) · `si`
 
-ගබ්සා කිරීමේ අයිතිය සිය ව්‍යවස්ථාවට ඇතුළත් කළ ලොව පළමු රට ලෙස ප්‍රංශය පත්ව තිබේ.
+France becomes the first country to abolish abortion rights, with a constitutional amendment approved by Parliament. The vote was 780-780, and President Macron views this as a message of France's dignity.
 
-ගබ්සා කිරීමට කාන්තාවන්ගේ නිදහස තහවුරු කිරීම සඳහා ඉදිරිපත් වූ ව්‍යවස්ථා සංශෝධනයට එරට පාර්ලිමේන්තුවේ අනුමැතිය හිමිව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අදාළ ඡන්ද විමසීමේ දී පනතට පක්ෂව ඡන්ද 780ක් හිමිව ඇති අතර විපක්ෂව හිමිව ඇත්තේ ඡන්ද 72ක් පමණය.
+France has become the first country in the world that abortabed the right to abortion.
 
-මෙම පියවර ප්‍රංශයේ අභිමානය දැක්වෙන විශ්වීය පණිවුඩයක් බව ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් ප්‍රකාශ කර ඇත.
+Foreign media reports that the constitutional amendment to ensure the freedom of women was approved by the Parliament.
+
+In the election, 780 votes were cast in favor of 780 votes against the bill.
+
+French President Emanuel Macrons has stated that this step is a universal message indicating the dignity of France.
 
 ◼️
 
 [Data](articles/6f993351.json)
+
+[Extended Data](ext_articles/6f993351.ext.json)
 
 ---
 
@@ -131,6 +155,8 @@ They are also facing issues related to food security and the human-elephant conf
 ◼️
 
 [Data](articles/eb050052.json)
+
+[Extended Data](ext_articles/eb050052.ext.json)
 
 ---
 

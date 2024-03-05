@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 19:50:41**
+As of **2024-03-05 20:02:55**
 
 ## Newspaper Stats
 
-*Scraped **11,049** Articles*
+*Scraped **11,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,84 @@ dailyftlk | 584
 islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,344
-adaderanalk | 1,346
+adaderanalk | 1,347
 virakesarilk | 1,490
 dailymirrorlk | 1,687
-adaderanasinhalalk | 1,729
+adaderanasinhalalk | 1,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,048 (100.0%) of 11,049 articles have been extended.
+11,049 (100.0%) of 11,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### නිව්හැම් වෙඩිතැබීමේ සිද්ධියේ සැකකරුවෙකු අත්අඩංගුවට
+### Youth arrested with 45 counterfeit currency notes
+
+*2024-03-05 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97750/youth-arrested-with-45-counterfeit-currency-notes) · `en`
+
+An individual has been arrested while in possession of 45 counterfeit currency notes of the Rs. 5,000 denomination at Kuripotta in the Pothuhera police area.
+
+Police said the suspect was arrested yesterday (04) by officers of Pothuhera Police after searching him based on a suspicion.
+
+The suspect, a 29-year-old resident of Polpithigama, had previously been arrested on charges of printing and possession of counterfeit currency notes and was currently out on bail, police said.
+
+◼️
+
+[Data](articles/9077a1eb.json)
+
+---
+
+### දුම්රිය වර්ජනය තාවකාලිකව අත්තිටුවයි
+
+*2024-03-05 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194176) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබු දුම්රිය වර්ජනය තාවකාලිකව අත්හිටවූ බව දුම්රිය ලොකමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසයි.
+
+සිය වැටුප් අඩුකිරීමට යෝජනා කර ඇති කැබිනට් පත්‍රිකාව ඉවත්කරන ලෙස ඉල්ලා ඔවුන් එම වර්ජනය නිරත වීමට සැලසුම් කර තිබුණි.
+
+ඒ අනුව මෙම වර්ජනය සදහා දුම්රිය නියාමකවරුන් හා අධීක්ෂණ කළමනාකරුවන් ඇතුළු දුම්රිය සංගම් ද එක්වීමට නියමිතව සිටි බව දුම්රිය ලොකමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය සදහන් කළේය.
+
+කෙසේවෙතත් අද පස්වරුවේ දුම්රිය බලධාරීන් සමග මේ සම්බන්ධයෙන් සාකච්ඡාවක් පවත්වා තිබේ.
+
+එහිදී දුම්රිය බලධාරින් සිදුකළ කරුණු පැහැදිලි කිරීමකින් අනතුරුව වර්ජනය තාවකාලිකව අත්හිටුවිමට තීරණය කළ බව දුම්රිය වෘත්තීය සමිති පැවසීය.
+
+◼️
+
+[Data](articles/5f900b50.json)
+
+---
+
+### Suspect arrested in Newwham shooting incident
 
 *2024-03-05 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194175) · `si`
 
-මනුෂ්‍ය ඝාතනයකට තැත් කිරීමේ අපරාධයකට ආධාර අනුබල දුන් සැකකරුවෙකු කොළඹ අපරාධ කොට්ඨාශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 26-year-old from Colombo 14 was arrested for attempting to murder someone with a motorcycle in February. Police found 4 ice narcotics and 100 milligrams of drugs on him. He was also found with a hidden pistol, magazine, and ammunition in his home.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 26 හැවිරිදි වියේ පසුවන මහවත්ත පර කොළඹ 14 ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 04යි මිලිග්‍රෑම් 100ක් ද පොලීසිය විසින් සොයාගෙන ඇත.
+The Colombo Crimes Division has been arrested by the Colombo Crimes Division for supporting a crime of attempting to launch a murder.
 
-පෙබරවාරි මස 25 වනදා වෙරළබඩ පොලිස් වසමේ නිව්හැම් චතුරස්‍රය ආසන්නයේ පිහිටි වෙළෙඳසැලක් ඉදිරිපිටදී යතුරු පැදියකින් පැමිණ පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමට උත්සාහ කිරීමේ සිද්ධියට අදාළව මෙම සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The arrested was a 26-year-old resident of Colombo 14.
 
-අපරාධය සිදුකිරීම සඳහා යොදාගත් ගිනි අවිය අපරාධය සිදුකිරීමට පෙර මෙම සැකකරුගේ නිවාසී තබාගෙන ඇති බවට අනාවරණය වී තිබේ.
+The police found 4 ice narcotics and 100 milligrams of the suspect in possession of the suspect.
 
-එසේම මෙහිදී සැකකරුගේ නිවසේ සඟවා තිබී විදෙස් රටක නිෂ්පාදිත පිස්තෝල වර්ගයේ ගිනි අවියක්, මැගසිනයක් සහ පතොරම් 03ක් පොලීසිය සොයාගෙන ඇත.
+The suspect was arrested by the police in connection with a motorcycle to shot a person in front of a motorcycle near the coastal police division in February 25.
 
-අත්අඩංගුවට ගත් සැකකරු අද (05) අලුත්කඩේ අංක 02 මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දින 07ක රැඳවුම් නියෝග ලබාගෙන තිබේ.
+It has been revealed that the suspect was kept in the suspect before the firearm was used to commit the crime.
+
+Police have also recovered a pistol-type firearm, a magazine and three ammunition in a foreign country was hidden in the suspect's house.
+
+The suspect was produced before the Aluthkade No. 02 to the Magistrate's Court today (05).
 
 ◼️
 
 [Data](articles/d2682ae3.json)
+
+[Extended Data](ext_articles/d2682ae3.ext.json)
 
 ---
 
@@ -2207,55 +2249,5 @@ The driver of the lorry has been admitted to the Balangoda Balangoda in crash, a
 [Data](articles/928125d0.json)
 
 [Extended Data](ext_articles/928125d0.ext.json)
-
----
-
-### The reconciliation mechanisms put forward by the Sri Lankan government are not going to solve the concern of the victims - the Human Rights Council
-
-*2024-03-05 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177929) · `ta`
-
-The Sri Lankan government's reconciliation efforts are criticized by the Human Rights Council and the People's Organization for Equality Relief in Sri Lanka, who argue that these efforts do not address the victims' concerns. The Pearl Organization highlights the need for justice for the 169,796 Tamils affected by war crimes, crimes against humanity, and genocide committed 15 years ago. The Sri Lankan government's lack of political commitment to meaningful accountability and justice is also noted, along with the ongoing impact of Sinhala Buddhism and human rights-affecting laws.
-
-🟩
-
-The People's Organization for Equality Relief in Sri Lanka has told the United Nations Human Rights Council that the international community can report the Sri Lankan government that the international community will not be exempted from the clutches of the punishment.
-
-In the aftermath of the Human Rights Council's oral report at the United Nations Human Rights Council, the Pearl Organization recalled the war crimes committed 15 years ago, crimes against humanity and genocide.
-
-The Pearl Organization said that this injustice has not yet been justice or responsible for 169 796 Tamils who do not know what happened.
-
-The Sri Lankan rulers have revealed that the rulers of Sri Lanka have not revealed any political commitment in carrying out meaningful accountability justice. The current government has proposed empty harmony mechanisms.
-
-At the same time, Sinhala Buddhistism continues to be the main mechanism in Sri Lanka, and the laws that are affecting human rights continue to be created.
-
-...
-
-[Data](articles/1ab4723b.json)
-
-[Extended Data](ext_articles/1ab4723b.ext.json)
-
----
-
-### Sathosins in Nuwara Eliya distributes
-
-*2024-03-05 10:57:01* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑලිය-සතොසින්-බලෙන්-බඩු-බෙදයි/11-408433) · `si`
-
-Sathosins in Nuwara Eliya provides nutritional vouchers to pregnant mothers, but some accuse the program of not addressing their needs. Prageeth Dhananssuriya, Nuwara Eliya Divisional Secretary, promises to investigate and inform the institution heads. The local secretary clarifies that the project is designed to support nutritional deficiencies, not just for feeding, and assures immediate action against misconceptions.
-
-🟩
-
-Pregnant the Nuwara Eliya Sathosa Branch is to be purchased for the Mother of the Nuwara Eliya and the Divisional Secretariat for Pregnancy Mother and the Divisional Secretariat is to be purchased by the Divisional Secretariat.Mothers have accused.
-
-Asked by the Nuwara Eliya Divisional Secretary Prageeth Dhananssuriya, he said he would look into the matter and inform the heads of the institution.
-
-Pregnant mothers and a bank is provided with nutritional deficiencies that provide their nutritional deficiencies and that the voucher is only food for the need for feeding.
-
-The local secretary added that if the pregnant women and milk mothers accused, it is a misconception that the project is provided and the project will be promptly and will take immediate action.
-
-◼️
-
-[Data](articles/8c8d21cd.json)
-
-[Extended Data](ext_articles/8c8d21cd.ext.json)
 
 ---

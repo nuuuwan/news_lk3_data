@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 23:33:28**
+As of **2024-03-05 23:52:08**
 
 ## Newspaper Stats
 
-*Scraped **11,085** Articles*
+*Scraped **11,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 108
 bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
-economynextcom | 569
+economynextcom | 575
 dailyftlk | 584
 islandlk | 592
 adalk | 936
 tamilmirrorlk | 1,348
-adaderanalk | 1,352
+adaderanalk | 1,354
 virakesarilk | 1,499
 dailymirrorlk | 1,695
 adaderanasinhalalk | 1,735
@@ -26,43 +26,103 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,083 (100.0%) of 11,085 articles have been extended.
+11,085 (99.9%) of 11,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### வெளிநாட்டு சுற்றுலாப் பயணிகள் மீது தாக்குதல் நடத்திய ரயில் நிலைய சேவையாளர்களுக்கு ஏற்பட்ட நிலை!
+### Facebook and Instagram restored after major outages
 
-*2024-03-05 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178016) · `ta`
+*2024-03-05 23:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97757/facebook-and-instagram-restored-after-major-outages) · `en`
 
-நாவலபிட்டி புகையிரத நிலையத்தில் வெளிநாட்டு சுற்றுலா பயணிகள் இருவர் மீது தாக்குதல் மேற்கொண்ட குறித்த புகையிரத  நிலையத்தின் இரு சேவையாளர்கள் தற்காலிகமாக பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Meta says it has resolved a “technical issue” which caused Facebook, Messenger and Instagram to go down.
 
-கொழும்பிலிருந்து பதுளை நோக்கி பயணித்த 5 ஆம் இலக்க பொடிமெனிக்கே புகையிரதத்தில் பயணித்த சுற்றுலாப் பயணிகள் இருவர்மீது நாவலப்பிட்டி ரயில் நிலையத்தில் வைத்து தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+Hundreds of thousands of users worldwide were unable to access them for around two hours on Tuesday.
 
-சம்பவம் தொடர்பாக  நாவலப்பிட்டி புகையிரத நிலைய பொது கண்காணிப்பாளர் தலைமையில் விசாரணைகள் ஆரம்பிக் கப்பட்டுள்ள நிலையில், சம்பவத்துடன் தொடர்புடைய இருவர் தற்காலிகமாக பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளனர்.
+People trying to log onto the websites and apps were finding error messages and were unable to refresh their feeds as normal.
 
-இங்கிலாந்து நாட்டிலிருந்து வருகை தந்ததாகக் கூறப்படும் சுற்றுலாபயணிகள் மீதே இவ்வாறு தாக்குதல் மேற்கொள்ளப் பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Meta also apologised to those who had been affected, saying it resolved the problem as quickly as it could.
 
-கொழும்பிலிருர்து வருகைதந்த குறித்த புகையிரதத்தில் எல்ல பிரதேசத்துக்கு செல்வதற்காக பேராதனையில் முதலாம் வகுப்பில் குறித்த சுற்றுலாப் பயணிகள் ஏறியுள்ளனர்.
+Tracking website Downdetector indicated the outages had affected multiple countries.
+
+Meta’s platforms are some of the most popular in the world. Facebook has three billion active monthly users, while Instagram is expected to hit 1.4 billion worldwide later this year.
+
+Threads, its rival to Twitter, that was launched in 2023, also reported outages. WhatsApp - which Meta also owns - was unaffected.
+
+The biggest outage Meta experienced was in 2021, when founder Mark Zuckerberg apologised for the disruption caused.
 
 ...
 
-[Data](articles/6d4ca595.json)
+[Data](articles/96593f6f.json)
 
 ---
 
-### அரச மற்றும் தனியார் துறைக்கு சம்பளம் அதிகரிக்கப்பட வேண்டும்
+### UN team finds evidence of sexual violence by Hamas since Oct. 7
+
+*2024-03-05 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97756/un-team-finds-evidence-of-sexual-violence-by-hamas-since-oct-7) · `en`
+
+The United Nations has found “reasonable grounds” to conclude that Hamas committed sexual violence during its Oct. 7 attack in Israel, and said there are indications such violence continues to be carried out against those being held hostage by the group.
+
+A UN team that investigated the allegations against Hamas, which is designated a terrorist group by the United States and the European Union, received what it called “clear and convincing information” that women and children held in captivity were subjected to rape, torture and inhumane treatment.
+
+The team reviewed more than 5,000 photos and 50 hours of footage of the attacks, as well as conducting interviews with dozens of Israeli officials. It said the true prevalence of sexual violence during the attack and afterward “may take months or years to emerge and may never be fully known.”
+
+...
+
+[Data](articles/e9cc8e99.json)
+
+---
+
+### Railway station servants attacked foreign tourists
+
+*2024-03-05 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178016) · `ta`
+
+Two railway station workers in Nawalapitiya, Sri Lanka, were temporarily suspended for attacking two foreign tourists traveling from Colombo to Badulla. The incident is under investigation.
+
+🟩
+
+Transport Minister Bandula Gunawardena said that two workers of the railway station have been temporarily suspended for attacking two foreign tourists at the Nawalapitiya railway station.
+
+Two tourists traveling from Colombo to Badulla to Badulla have been attacked at the Nawalapitiya railway station.
+
+Two persons involved in the incident have been temporarily suspended as investigations are underway under the leadership of the Nawalapitiya Railway Station.
+
+It is reported that the attack has been attacked by tourists allegedly visiting the UK.
+
+Tourists have boarded the first class in Peradeniya to travel to Ella.
+
+Only one of the two tourists had a ticket for the ticket examination conducted there.
+
+The Railway Controller has been working to take the tourists on the train.. Following their opposition, the Navalapitiya Railway Station Administration has been informed.
+
+Since then, a group of employees have beaten the tourists on the train.
+
+◼️
+
+[Data](articles/6d4ca595.json)
+
+[Extended Data](ext_articles/6d4ca595.ext.json)
+
+---
+
+### Salary to the state and private sector to be increased
 
 *2024-03-05 23:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-மற்றும்-தனியார்-துறைக்கு-சம்பளம்-அதிகரிக்கப்பட-வேண்டும்/175-334256) · `ta`
 
-சகல அரச மற்றும் தனியார் சேவைத்துறைகளில் சம்பளம் அதிகரிக்கப்பட வேண்டியது அவசியமாகுமென மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க தெரிவித்தார்.
+Governor Nandalal Weerasinghe suggests increasing salaries in both public and private sectors to aid recovery from economic crisis.
 
-பொருளாதார நெருக்கடியிலிருந்து மீளும் போது முக்கியமான சம்பளம் அதிகரிக்கப்பட வேண்டுமென அவர் மேலும் தெரிவித்தார். R
+🟩
+
+Governor of the Central Bank Nandalal Weerasinghe said that salaries need to be increased in all public and private services.
+
+He added that important salary should be increased when recovering from the economic crisis. Remble
 
 ◼️
 
 [Data](articles/73c13aec.json)
+
+[Extended Data](ext_articles/73c13aec.ext.json)
 
 ---
 
@@ -1134,6 +1194,46 @@ Meanwhile, it has been reported that the road traffic in front of the University
 
 ---
 
+### Sri Lanka to seek BOT investor for Galle leisure port
+
+*2024-03-05 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-bot-investor-for-galle-leisure-port-153275/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given the approval to call for expressions of interests from private investors to develop Galle Port as a leisure and commercial port as a public private partnership (PPP), Minister Bandula Gunawardana said.
+
+The private party will have to invest on a breakwater, sea wall, deep passenger anchorage, channel and land filling.
+
+Mixed development projects would be set up on the filled land, he said.
+
+The PPP would be on a build operate transfer basis. (Colombo/Mar05/2024)
+
+◼️
+
+[Data](articles/d4bd67e9.json)
+
+---
+
+### Sri Lanka stocks close near thee-month high in high turnover
+
+*2024-03-05 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-near-thee-month-high-in-high-turnover-153280/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main stock index edged 0.34 percent firmer on Tuesday to hit its highest in near three months with the turnover recording at near 1.5 billion rupees, the bourse data showed.
+
+The broader All Share Price Index (ASPI) closed 0.34 percent or 36.42 points up, at 10,841.65, its highest finish since December 12, 2024, while more liquid S&P SL20 Index edged up 0.24 percent, or 7.46 points, at 3,092.25.
+
+Turnover stayed above the 1 billion-mark for the seventh straight session, at 1.5 billion.
+
+“There were a lot of retailers in the market and some local funds were active. Foreigners are still on the selling side,” a senior stockbroker said.
+
+“Sentiment is bit positive with the expectation that investors who will get the divestment funds from Expolanka may reinvest in some other stocks.”
+
+Expolanka on Holdings Plc announced a trading suspension following Friday’s announcement of de-listing with effect from 4th March 2024.
+
+...
+
+[Data](articles/5232dc3e.json)
+
+---
+
 ### Demonstrators released in front of the Speaker's official residence
 
 *2024-03-05 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177994) · `ta`
@@ -1217,6 +1317,48 @@ High Court Judge ordered the pilgrimage to the pilgrimage to another two months 
 [Data](articles/2f04b7a9.json)
 
 [Extended Data](ext_articles/2f04b7a9.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 307.95/108.05 to the US dollar
+
+*2024-03-05 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-307-95-108-05-to-the-us-dollar-153270/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 307.95/108.05 to the US dollar in the spot forex market Tuesday stronger from 308.05/15 a day earlier dealers said, while bond yields were flat.
+
+The rupee opened at 307.50/90 levels to the US and official buying was seen till 308, market participants said.
+
+Sri Lanka’s rupee has strengthened amid broadly deflationary policy (selling down CB held securities and withdrawing liquidity).
+
+There is also a growing supplier credit build up on fuel imports.
+
+When the rupee gains (central bank dollar purchases are less than the liquidity withdrawals) banks also cut their open positions.
+
+When a credit spike drives up import demand and if the central bank does not intervene, the rupee turns and moves in the opposite direction.
+
+A bond maturing on 01.02.2026 closed at 10.65/70 percent Tuesday marginally weaker from 10.60/75 percent on Monday.
+
+A bond maturing on 15.09.2027 closed at 11.85/95 percent, down from 11.90/12.05 percent.
+
+...
+
+[Data](articles/02976efb.json)
+
+---
+
+### AKD’s visit to India was on routine invitation: high commissioner to Sri Lanka
+
+*2024-03-05 17:17:00* · [`economynextcom`](https://economynext.com/akds-visit-to-india-was-on-routine-invitation-high-commissioner-to-sri-lanka-153268/) · `en`
+
+ECONOMYNEXT — Sri Lanka leftist leader Anura Kumara Dissanayake’s recent high-profile visit to India was on a routine invitation generally extended to eminent persons from other countries and not at all unusual, according to Indian High Commissioner Santosh Jha.
+
+The high commissioner told EconomyNext on the sidelines of an event in Colombo on Tuesday March 05 that the invitation was part of a visitation scheme by the Indian Council for Cultural Relations, an autonomous organisation of the Government of India, involved in India’s global cultural relations, through cultural exchange with other countries and their people.
+
+“It was a normal invitation to a Sri Lankan leader. We have a scheme, by which we bring business leaders, political leaders and cultural leaders from other countries to India, called the Distinguished Visitors Programme of the Indian Council for Cultural Relation. It was under that scheme that he was invited,” said Jha.
+
+...
+
+[Data](articles/63626233.json)
 
 ---
 
@@ -1840,6 +1982,26 @@ Students in the initial category have been approved to implement the school food
 
 ---
 
+### Sri Lanka cabinet asks parliament to deal with CB salary hike row: Minister
+
+*2024-03-05 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-asks-parliament-to-deal-with-cb-salary-hike-row-minister-153227/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has asked the parliament to deal with the central bank’s steep salary hikes as it was considered a matter for that branch of the government, spokesman Bandula Gunawardana said.
+
+Sri Lanka’s Central Bank which has been given ‘independence’ by a controversial new law which critics say has legalized money to be printed for growth, along with a high inflation target, steeply raised salaries after flawed operational framework triggered a steep currency collapse.
+
+Senior central bankers were summoned to the Cabinet of Ministers.
+
+“Various ministers expressed their opinions,” Minister Gunwaradana told reporters. “I do not want to repeat them as some cabinet discussions are considered secret.
+
+“However, they explained that officers will leave if competitive salaries are not given.”
+
+...
+
+[Data](articles/c9662991.json)
+
+---
+
 ### Sri Lanka Team starts new initiative: recognizes on-field performances
 
 *2024-03-05 15:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Team-starts-new-initiative-recognizes-on-field-performances/108-278276) · `en`
@@ -2113,145 +2275,5 @@ It was handed over by Chief Opposition Whip Lakshman Kiriella, MPs Ranjith Maddu
 [Data](articles/f8236d9f.json)
 
 [Extended Data](ext_articles/f8236d9f.ext.json)
-
----
-
-### Sri Lanka to join US-led International Counter Ransomware Initiative
-
-*2024-03-05 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-join-us-led-international-counter-ransomware-initiative-153217/) · `en`
-
-ECONOMYNEXT — Sri Lanka will accept an invitation  to join the US-led International Counter Ransomware Initiative (CRI), the government information department said.
-
-The CRI was launched in 2021 as a common platform with a number of other countries for international coordination to eliminate ransomware.
-
-“So far, [50] countries around the world and the European Union as well as the International Police have joined the initiative. Since Sri Lanka has recently faced various problems due to Ransomware, it has been recognised that it can benefit from joining the international anti-ransomware initiative,” the government statement said.
-
-The cabinet of ministers has approved a joint proposal presented by President Ranil Wickremesinghe in his capacity as the Minister of Technology and Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe to join the initiative.
-
-...
-
-[Data](articles/685339e8.json)
-
-[Extended Data](ext_articles/685339e8.ext.json)
-
----
-
-### No-confidence motion against Speaker submitted
-
-*2024-03-05 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97742/no-confidence-motion-against-speaker-submitted-) · `en`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena signed by 44 Members of Parliament representing the Opposition, was handed over to the Deputy General Secretary of Parliament on Tuesday (March 05).
-
-◼️
-
-[Data](articles/66610a26.json)
-
-[Extended Data](ext_articles/66610a26.ext.json)
-
----
-
-### No-confidence motion against Speaker handed over
-
-*2024-03-05 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97742/no-confidence-motion-against-speaker-handed-over) · `en`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena was handed over to the Deputy General Secretary of Parliament on Tuesday (March 05).
-
-It was signed by 44 parliamentarians including Opposition Leader Sajith Premadasa, Chief Opposition Whip Lakshman Kiriella and MPs Prof. G.L. Peiris, Rohini Kumari Wijeratne, Hesha Vithanage, Mano Ganesan, Rishad Bathiudeen, M.A. Sumanthiran, S.M. Marikkar, Ranjith Madduma Bandara, Thalatha Atukorale, Vijitha Herath and Chandima Weerakkody.
-
-The no-confidence motion alleges that the Speaker had ignored the Supreme Court’s recommendations pertaining to Sections 13, 17, 20, 33 (6), 34 (1), 35 (1), 21, 22 and 33 of the Online Safety Bill.
-
-Abeywardena is also accused of allowing the Third Reading of the Online Safety Bill to be passed without a vote and disregarding the Chief Opposition Whip’s call for a division at the Committee Stage.
-
-...
-
-[Data](articles/eecff58e.json)
-
-[Extended Data](ext_articles/eecff58e.ext.json)
-
----
-
-### Restaurant food prices to be reduced from tonight
-
-*2024-03-05 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Restaurant-food-prices-to-be-reduced-from-tonight/108-278274) · `en`
-
-Colombo, March 5 (Daily Mirror) - Based on the reduction of the electricity tariffs, the All Ceylon Restaurant and Restaurant Owners' Association has decided to reduce the prices of restaurant foods with effect from midnight today.
-
-Its president Harshana Rukshan said they had increased the food prices from last Saturday according to the increase in production costs.
-
-Accordingly, the price of a cup of plain tea and a cup of milk tea will be reduced by Rs. 5 and Rs. 10 respectively from tonight.
-
-Moreover, he said the price of a packet of rice and curry lunch will be reduced by Rs. 25; a plate of fried rice, kottu will be reduced by Rs. 50; and the price of short eats will be reduced by Rs. 10 each.
-
-However, the association said that due to the reduction in electricity charges, the prices of restaurant food items will be reduced again to their earlier prices.
-
-◼️
-
-[Data](articles/dcb422d9.json)
-
-[Extended Data](ext_articles/dcb422d9.ext.json)
-
----
-
-### New power to governors about school activities
-
-*2024-03-05 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194158) · `si`
-
-Provincial governors approved a resolution to stop using schools for political activities.
-
-🟩
-
-A Cabinet resolution has been approved by the provincial governors to discontinue the use of schools and school premises for political purposes.
-
-◼️
-
-[Data](articles/6c836bb1.json)
-
-[Extended Data](ext_articles/6c836bb1.ext.json)
-
----
-
-### Maldives- Chinese Security Agreement signature
-
-*2024-03-05 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177953) · `ta`
-
-The Maldives and China signed a security agreement, strengthening their ties, following the Maldivian government's order for the Indian Army to leave by May 10. The agreement, signed by Maldivian Defense Minister Kasan Munumoon and a Chinese official, includes military assistance from China, though details remain undisclosed.
-
-🟩
-
-The Maldives Ministry said that a contract was signed on Monday regarding China's military assistance.. The Maldivian Defense Ministry said the agreement would strengthen ties between the two countries.
-
-The Chinese-Maldives Security Agreement has been signed in a few weeks after the government of Maldivian President Mohammed Muiz's government has ordered the 89 Indian Army to leave before May 10.
-
-The agreement was signed by Maldivian Defense Minister Kasan Munumoon and Deputy Director of the Office of China's International Military Cooperation Office.
-
-Details relating to this agreement have not been officially released. However, the Maldivian media has said that China has agreed to provide military assistance to China.
-
-◼️
-
-[Data](articles/c1d44c70.json)
-
-[Extended Data](ext_articles/c1d44c70.ext.json)
-
----
-
-### The upcoming change at the Colombo railway stations
-
-*2024-03-05 13:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-ரயில்-நிலையங்களில்-வரவுள்ள-மாற்றம்/175-334228) · `ta`
-
-The Cabinet approved upgrading major railway stations in Colombo, identified at a June 6, 2023, meeting. The Minister of Transport and Highways, along with the Minister of Urban Development, submitted the proposal.
-
-🟩
-
-The Cabinet has approved the idea of upgrading buildings located at major railway stations around Colombo.
-
-These places were identified at the Cabinet meeting held on June 6, 2023.
-
-The Minister of Transport and Highways and the Minister of Urban Development had submitted the Cabinet Motion.
-
-◼️
-
-[Data](articles/dfdc1742.json)
-
-[Extended Data](ext_articles/dfdc1742.ext.json)
 
 ---

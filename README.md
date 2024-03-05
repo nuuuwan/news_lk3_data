@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 11:33:33**
+As of **2024-03-05 11:52:10**
 
 ## Newspaper Stats
 
-*Scraped **10,943** Articles*
+*Scraped **10,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,112 @@ dailyftlk | 584
 islandlk | 592
 adalk | 928
 adaderanalk | 1,331
-tamilmirrorlk | 1,334
+tamilmirrorlk | 1,335
 virakesarilk | 1,463
 dailymirrorlk | 1,670
-adaderanasinhalalk | 1,705
+adaderanasinhalalk | 1,707
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,940 (100.0%) of 10,943 articles have been extended.
+10,943 (100.0%) of 10,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### බලංගොඩ බස් - ලොරි  අනතුර (CCTV)
+### மக்களை ஒருபோதும் ஏமாற்ற மாட்டோம்: பசில்
+
+*2024-03-05 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களை-ஒருபோதும்-ஏமாற்ற-மாட்டோம்-பசில்/175-334219) · `ta`
+
+தமது கட்சி ஒருபோதும் மக்களை ஏமாற்ற முயற்சிக்கவில்லை என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+இன்று (05) காலை நாடு திரும்பிய அவர், ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு கூறியுள்ளார்.
+
+மேலும், மீண்டும் பாராளுமன்றத்துக்கு வரும் எண்ணம் தமக்கு இல்லை என்றும், எந்த தேர்தல் நடந்தாலும் அதற்கான ஏற்பாடுகளை தாம் செய்வதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+தேவையான இடங்களில் மாற்றத்தை ஏற்படுத்துவேன் என நம்புவதாக தெரிவித்த பசில் ராஜபக்ஷ, ஒவ்வொரு தேர்தலும் சவாலாகவே உள்ளது என்றும் கூறினார்.
+
+"நாங்கள் மக்களை ஒருபோதும் ஏமாற்றுவதில்லை. மக்கள் சொல்வதைச் செய்கிறோம். சில இடங்களில் தவறு செய்கிறோம். மக்கள் நாங்கள் சொல்வதை ஏற்க மாட்டார்கள். சில சமயங்களில் மக்கள் சொல்வதை நாங்கள் ஏற்காத சந்தர்ப்பங்களும் உள்ளன. அவற்றை நாங்கள் திருத்திக்கொள்கின்றோம்." என்றார்.
+
+◼️
+
+[Data](articles/894f83c0.json)
+
+---
+
+### අද මධ්‍යම රාත්‍රියේ සිට දුම්රිය වර්ජනයක්
+
+*2024-03-05 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194151) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි දුම්රිය වර්ජනයක් ආරම්භ කරන බව ලොකොමොටිව් ඔපරේටින්ග්ස් ඉංජිනේරු සංගමය පවසයි.
+
+එම සංගමයේ සභාපති චන්දන ලාල් මහතා අද දෙරණ වෙත ප්‍රකාශයක් සිදුකරමින් පැවසුවේ තවත් වෘත්තීය සමිති කිහිපයක් මෙම වෘත්තීය ක්‍රියාමාර්ගයට එක්වන බවය.
+
+ඒ අනුව දුම්රිය රියදුරු සංගමය දුම්රිය නියාමක සංගමය සහ දුම්රිය අධීක්ෂණ කළමනාකරුවන්ගේ සංගමය මෙම වැඩ වර්ජනයට එක්වන බව ලොකොමොටිව් ඔපරේටින්ග්ස් ඉංජිනේරු සංගමයේ සභාපතිවරයා පැවසීය.
+
+◼️
+
+[Data](articles/50945768.json)
+
+---
+
+### මැතිවරණ කොමිසම ශ්‍රේෂ්ඨාධිකරණයට කරුණු දක්වයි
+
+*2024-03-05 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194150) · `si`
+
+ඉකුත් වසරේ මාර්තු 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොණු කළ මූලික අයිතිවාසිකම් පෙත්සම්වලට අදාළ ව මැතිවරණ කොමිසම අද (05) ශ්‍රේෂ්ඨාධිකරණය හමුවේ කරුණු දැක්වීම ආරම්භ කළේය.
+
+අදාළ මූලික අයිතිවාසිකම් පෙත්සම් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අදාළ පෙත්සම්වල වගඋත්තරකරුවකු වශයෙන් නම්කර සිටි මැතිවරණ කොමිසම සහ එහි සාමාජිකයින් වෙනුවෙන් ජනාධිපති නීතිඥ සාලිය පිරිස් මහතා කරුණු ඉදිරිපත් කිරීම ආරම්භ කළේය.
+
+සමගි ජන බලවේගය, ජාතික ජන බලවේගය,  පැෆ්රල් සංවිධානය සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් අදාළ පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/150a0a2e.json)
+
+---
+
+### Balangoda bus - lorry accident (CCTV)
 
 *2024-03-05 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194149) · `si`
 
-කොළඹ - බදුල්ල ප්‍රධාන මාර්ගයේ  බලංගොඩ ඇල්ලෙපොළ ප්‍රදේශයේදී අද (05) උදෑසන බස් රථයක් සහ ලොරි රථයක් එකිනෙක ගැටීමෙන් සිදු වූ අනතුරකින් ලොරි රථයේ රියදුරු බරපතළ තුවාල ලබා බලංගොඩ මුලික රෝහලට ඇතුළු කර තිබේ.
+A lorry and bus crash on the Colombo-Badulla road in Balangoda, with the lorry driver hospitalized.
+
+🟩
+
+The driver of the lorry has been admitted to the Balangoda Balangoda in crash, a bus and a lorry in the Colombo-Badulla main road.
 
 ◼️
 
 [Data](articles/928125d0.json)
 
+[Extended Data](ext_articles/928125d0.ext.json)
+
 ---
 
-### මහ බැංකු මහ පුටු පාර්ලිමේන්තුවට
+### Central Bank Maha Champs to Parliament
 
 *2024-03-05 10:55:36* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-මහ-පුටු-පාර්ලිමේන්තුවට/11-408432) · `si`
 
-අද (05) රැස්වීමට නියමිත පාර්ලිමේන්තුව 07වැනිදා දක්වා දින 3ක් රැස්වීමට සැලසුම් කොට තිබෙනවා. එහිදී අද විශේෂ සිදුවීම් දෙකක් සිදුවන බව වාර්ථාවනවා.
+Parliament meets from 05-07. Two events: no-confidence motion against TNA Speaker Mahinda Yapa Abeywardena and Central Bank Neeerors' celebration, linked to salary increases.
 
-ඉන් පලමුවැන්න නම් කථානායක මහින්ද යාපා අබේවර්ධනට එරෙහිව ගෙන එන විශ්වාසභංග යොජනාව පාර්ලිමේන්තු මහලේකම්වරිය වෙත භාරදීමට නියමිතව තිබෙනවා. කථානායක මහින්ද යාපා අබේවර්ධන ව්‍යවස්ථාව උල්ලංගනය කරමින් කටයුතු කරන බවට චෝදනා කරමින් සමගි ජන බලවේගය විසින් මෙම විශ්වාස භංග යෝජනාව ගෙන ඒ්මට තීරණයකොට ඇත.
+🟩
 
-එසේම සිය කාර්ය මණඩලයේ වැටුප් වැඩිකර ගැනීම සම්බන්ධව කරැණු වීමසීම සඳහා, මහබැංකු නීළධාරීන් අද පැවැත්වෙන පක්ෂනායක රැස්වීමට කැඳවීමටද තීරණය කොට ඇත. ආර්ථික අර්බුධයක් පවතින මෙවන් අවස්ථාවක, මේලෙස රාජ්‍ය ආයතනයක වැඩුප් වැඩිවීම පිළිබඳව, මෙය රටේ පොදු මහජනයා අතර දැඩි කථාබහට ලක්වූවක්ද විය.
+Parliament has planned to meet today (05) to meet the meeting until the 7th.. There are two special events today.
+
+The no-confidence in the TNA to be handed over to the Speaker Mahinda Yapa Abeywardena to the Speaker Mahinda Yapa Abeywardena is to be handed over to the Secretary General of Parliament. The reconciliation has decided to bring the conviction proposal by accusing the Speaker Mahinda Yapa Abeywardena violates the constitution.
+
+Also, the Central Bank Neeerors have decided to call on the celebrations of the Central Bank meeting in order to be determined by the wage of salaries in their performance.. In this case, this is the increase in the increase in a government agen, this is a strong speech between the public.
 
 ◼️
 
 [Data](articles/8536c994.json)
+
+[Extended Data](ext_articles/8536c994.ext.json)
 
 ---
 
@@ -68,9 +134,11 @@ The deadline for submission of bids for SriLankan Airlines has been extended by 
 
 A live auction was scheduled to take place today (March 05) to choose an investor for the divestment of SriLankan Airlines, as per a comment made by the lawmaker during Ada Derana’s ‘GET REAL’ segment last week.
 
-However, convening a media briefing today, the minister said bids will be called for another 45 days before choosing an investor for the national carrier.
+However, convening a media briefing today, the minister revealed that bids would be called for another 45 days before choosing an investor for the national carrier.
 
-Additionally, the Cabinet of Ministers has green-lighted a proposal for the government to absorb SriLankan Airlines’ outstanding debt to the tune of USD 510 million.
+Further, the Cabinet of Ministers has green-lighted a proposal for the government to absorb SriLankan Airlines’ outstanding debt to the tune of USD 510 million, the minister added.
+
+In addition, the Cabinet approval has been given to allocate funds to maintain services of the national carrier for another six months.
 
 ◼️
 
@@ -180,17 +248,23 @@ It means the likes of left-arm spinner Dunith Wellalage and fellow youngsters Vi
 
 ---
 
-### බැසිල් එයි
+### Basil is coming
 
 *2024-03-05 10:33:13* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-එයි/11-408431) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අද (05) උදෑසන 8.15ට පමණ එමිරෙස්ට් ගුවන් සේවයට අයත් ඊ.කේ 650 දරණ ගුවන් යානයෙන් දිවයිනට පැමිණ තිබේ.
+Basil Rajapaksa, national organizer of the Sri Lanka General Man, arrived today. Other notable guests include Parlia. Chandrasena, Prasanna Abeygunawardena, Prasanna Ranatunga, Namal Rajapaksa, Ranjith Bandara, Kokila Hirdia Gunawardena, Vishantha Bandara, and Jayanthi Hestiarachchi.
 
-බැසිල් රාජපක්ෂ  මහතාව පිළිගැනීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ, පාර්ලලිමේන්තු මන්ත්‍රීවරුන් වන සාගර කාරියවසම්, එස්.එම්. චන්ද්‍රසේන, රෝහිත අබේගුණවර්ධන, ප්‍රසන්න රණතුංග, නාමල් රාජපක්ෂ, අරුන්දික ප්‍රනාන්දු,  ඉන්දික අනුරුද්ධ, රංජිත් බණ්ඩාර, සංජීව එදිරිමාන්න, කෝකිලා හර්ෂණී ගුණවර්ධන,  සහන් ප්‍රදීප් විතාන, ජයන්ත කැටගොඩ, තිස්ස කුට්ටිආරච්චි  ඇතුළු මන්ත්‍රීවරුන් 25කට ආසන්න පිරිසක් බැසිල් රාජපක්ෂ මහතා පිළිගැනීමට ඒ වනවිටත් ගුවන්තොටුපල විශේෂ අමුත්තන්ගේ මැදිරියේ එක්ව සිටියහ.
+🟩
+
+Basil Rajapaksa, the national organizer of the Sri Lanka General Man, has arrived in the island today (05).
+
+Basil Rajapaksa, Parlia. Chandrasena, Prasanna Abeygunawardena, Prasanna Ranatunga, Namal Rajapaksa, Ranjith Bandara, Kokila Hirdia Gunawardena and Vishantha Bandara, Jayanthi Hestiarachchi have already been found in the airport special guests.Were in the compartment.
 
 ◼️
 
 [Data](articles/ab80ac54.json)
+
+[Extended Data](ext_articles/ab80ac54.ext.json)
 
 ---
 
@@ -2117,71 +2191,5 @@ She also told the police about the places where she stayed at times for three mo
 [Data](articles/e39f0981.json)
 
 [Extended Data](ext_articles/e39f0981.ext.json)
-
----
-
-### Two former officials at Peliyagoda police officers killed in a suspect
-
-*2024-03-04 20:27:02* · [`adalk`](https://www.ada.lk/breaking_news/සැකකරුවෙකුට-පහරදී-මරා-දැමූ-පෑලියගොඩ-පොලීසියේ-හිටපු-නිලධාරීන්-දෙදෙනෙක්-පෝරකයට/11-408425) · `si`
-
-Two Peliyagoda police officers were killed, and a Colombo High Court Judge was sentenced to death for a sustainable incident. The defendants were also sentenced to death, with compensation ordered. The case involved a 1997 complaint against Mohammed Dedash, who was acquitted.
-
-🟩
-
-Colombo High Court Judge Navaratne Marasinghe, who was conquered by a person who was arrested in a lawyer in order to sustain a sustainable incident, was sentenced to death today (04).
-
-Defendants have been sentenced to death in the death penalties, in addition to the death penalties, and the devotees have been sentenced to 12 lakhs for the defendants of the defendants in the entire police station.He also ordered to pay compensation.
-
-The complainants have been proved by the complaints against the complaints that the complaints have been made in the Kelaniya Vanesasalliya Police 18 years ago.. Chaminda Kumara (43) and a constable served as a constable (33564). Anura Dharmapriya Weerawardena (50) persons.
-
-The judge who decided not to be accused of the Criminal Investigation Division of the Peliyagoda police investigation unit with the accused with the accused, the MP, who had not proved the charges against Mohammed Dedash, was acquitted.
-
-...
-
-[Data](articles/63ebf473.json)
-
-[Extended Data](ext_articles/63ebf473.ext.json)
-
----
-
-### Moanmar rescuers to save eight Sri Lankans
-
-*2024-03-04 20:24:22* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සිරකරගෙන-සිටි-ලාංකිකයන්-8ක්-බේරා-ගනියි/11-408424) · `si`
-
-The Ministry of External Affairs rescued eight Sri Lankans from cyber criminal centers in Myanmar, coordinating with the Sri Lankan embassy there.
-
-🟩
-
-Eight Sri Lankans stuck in cyber criminal centers in Myanmar have been rescued by the Ministry of External Affairs.
-
-According to the External Affairs Ministry, eight Sri Lankans have been able to rescue eight Sri Lankans situated in the cyber criminal centers in the cyber criminal centers of the Government of Sri Lanka.
-
-Ministry of External Affairs said that Sri Lankan embassy in Myanmar. The 56 Sri Lankans detained in four places in the land of Miyaddi.
-
-The Ministry of External Affairs further states that the Ministry of External Affairs is coordinated with the Sri Lankan embassy in Myanmar, the Ministry of External Affairs said.
-
-◼️
-
-[Data](articles/2c4cb482.json)
-
-[Extended Data](ext_articles/2c4cb482.ext.json)
-
----
-
-### Don’t send children to schools merely to pass exams: Minister
-
-*2024-03-04 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-send-children-to-schools-merely-to-pass-exams-Minister/108-278218) · `en`
-
-Colombo, March 4 (Daily Mirror) - Children should not be sent to schools to make them merely pass exams by creating a competitive environment as the target of education is to equip children with knowledge and attitudes as well as skills, Education Minister Susil Premajayantha said.
-
-Addressing the media, he said the proposed educational reforms show the measurement of skills acquired by the child in practical activities.
-
-He made these comments while joining the national programme held today at Dharmashoka Vidyalaya, Maharagama to introduce the Activity Based Oral English (ABOE) programme to schools for children who will enter Grade 1 in 2024.
-
-◼️
-
-[Data](articles/ad184bb4.json)
-
-[Extended Data](ext_articles/ad184bb4.ext.json)
 
 ---

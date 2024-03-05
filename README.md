@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 11:17:34**
+As of **2024-03-05 11:33:33**
 
 ## Newspaper Stats
 
-*Scraped **10,940** Articles*
+*Scraped **10,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 economynextcom | 562
 dailyftlk | 584
 islandlk | 592
-adalk | 926
+adalk | 928
 adaderanalk | 1,331
 tamilmirrorlk | 1,334
 virakesarilk | 1,463
 dailymirrorlk | 1,670
-adaderanasinhalalk | 1,704
+adaderanasinhalalk | 1,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,937 (100.0%) of 10,940 articles have been extended.
+10,940 (100.0%) of 10,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### බලංගොඩ බස් - ලොරි  අනතුර (CCTV)
+
+*2024-03-05 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194149) · `si`
+
+කොළඹ - බදුල්ල ප්‍රධාන මාර්ගයේ  බලංගොඩ ඇල්ලෙපොළ ප්‍රදේශයේදී අද (05) උදෑසන බස් රථයක් සහ ලොරි රථයක් එකිනෙක ගැටීමෙන් සිදු වූ අනතුරකින් ලොරි රථයේ රියදුරු බරපතළ තුවාල ලබා බලංගොඩ මුලික රෝහලට ඇතුළු කර තිබේ.
+
+◼️
+
+[Data](articles/928125d0.json)
+
+---
+
+### මහ බැංකු මහ පුටු පාර්ලිමේන්තුවට
+
+*2024-03-05 10:55:36* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-මහ-පුටු-පාර්ලිමේන්තුවට/11-408432) · `si`
+
+අද (05) රැස්වීමට නියමිත පාර්ලිමේන්තුව 07වැනිදා දක්වා දින 3ක් රැස්වීමට සැලසුම් කොට තිබෙනවා. එහිදී අද විශේෂ සිදුවීම් දෙකක් සිදුවන බව වාර්ථාවනවා.
+
+ඉන් පලමුවැන්න නම් කථානායක මහින්ද යාපා අබේවර්ධනට එරෙහිව ගෙන එන විශ්වාසභංග යොජනාව පාර්ලිමේන්තු මහලේකම්වරිය වෙත භාරදීමට නියමිතව තිබෙනවා. කථානායක මහින්ද යාපා අබේවර්ධන ව්‍යවස්ථාව උල්ලංගනය කරමින් කටයුතු කරන බවට චෝදනා කරමින් සමගි ජන බලවේගය විසින් මෙම විශ්වාස භංග යෝජනාව ගෙන ඒ්මට තීරණයකොට ඇත.
+
+එසේම සිය කාර්ය මණඩලයේ වැටුප් වැඩිකර ගැනීම සම්බන්ධව කරැණු වීමසීම සඳහා, මහබැංකු නීළධාරීන් අද පැවැත්වෙන පක්ෂනායක රැස්වීමට කැඳවීමටද තීරණය කොට ඇත. ආර්ථික අර්බුධයක් පවතින මෙවන් අවස්ථාවක, මේලෙස රාජ්‍ය ආයතනයක වැඩුප් වැඩිවීම පිළිබඳව, මෙය රටේ පොදු මහජනයා අතර දැඩි කථාබහට ලක්වූවක්ද විය.
+
+◼️
+
+[Data](articles/8536c994.json)
+
+---
 
 ### Deadline for submission of bids for SriLankan extended
 
@@ -38,11 +66,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The deadline for submission of bids for SriLankan Airlines has been extended by 45 days, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
 
-The live auction to choose an investor for the divestment of SriLankan Airlines was scheduled to take place today (March 05).
+A live auction was scheduled to take place today (March 05) to choose an investor for the divestment of SriLankan Airlines, as per a comment made by the lawmaker during Ada Derana’s ‘GET REAL’ segment last week.
+
+However, convening a media briefing today, the minister said bids will be called for another 45 days before choosing an investor for the national carrier.
+
+Additionally, the Cabinet of Ministers has green-lighted a proposal for the government to absorb SriLankan Airlines’ outstanding debt to the tune of USD 510 million.
 
 ◼️
 
 [Data](articles/3b75c4b1.json)
+
+[Extended Data](ext_articles/3b75c4b1.ext.json)
 
 ---
 
@@ -142,6 +176,22 @@ It means the likes of left-arm spinner Dunith Wellalage and fellow youngsters Vi
 
 [Data](articles/2efbd9cc.json)
 
+[Extended Data](ext_articles/2efbd9cc.ext.json)
+
+---
+
+### බැසිල් එයි
+
+*2024-03-05 10:33:13* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-එයි/11-408431) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අද (05) උදෑසන 8.15ට පමණ එමිරෙස්ට් ගුවන් සේවයට අයත් ඊ.කේ 650 දරණ ගුවන් යානයෙන් දිවයිනට පැමිණ තිබේ.
+
+බැසිල් රාජපක්ෂ  මහතාව පිළිගැනීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ, පාර්ලලිමේන්තු මන්ත්‍රීවරුන් වන සාගර කාරියවසම්, එස්.එම්. චන්ද්‍රසේන, රෝහිත අබේගුණවර්ධන, ප්‍රසන්න රණතුංග, නාමල් රාජපක්ෂ, අරුන්දික ප්‍රනාන්දු,  ඉන්දික අනුරුද්ධ, රංජිත් බණ්ඩාර, සංජීව එදිරිමාන්න, කෝකිලා හර්ෂණී ගුණවර්ධන,  සහන් ප්‍රදීප් විතාන, ජයන්ත කැටගොඩ, තිස්ස කුට්ටිආරච්චි  ඇතුළු මන්ත්‍රීවරුන් 25කට ආසන්න පිරිසක් බැසිල් රාජපක්ෂ මහතා පිළිගැනීමට ඒ වනවිටත් ගුවන්තොටුපල විශේෂ අමුත්තන්ගේ මැදිරියේ එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/ab80ac54.json)
+
 ---
 
 ### Basil Rajapaksa returns; intends to lead SLPP campaign
@@ -157,6 +207,8 @@ He told the media at the airport that he intends to lead the SLPP's preparations
 ◼️
 
 [Data](articles/4384c4c1.json)
+
+[Extended Data](ext_articles/4384c4c1.ext.json)
 
 ---
 
@@ -2131,75 +2183,5 @@ He made these comments while joining the national programme held today at Dharma
 [Data](articles/ad184bb4.json)
 
 [Extended Data](ext_articles/ad184bb4.ext.json)
-
----
-
-### The Ministry does not include letters to the intermediary series
-
-*2024-03-04 20:01:38* · [`adalk`](https://www.ada.lk/breaking_news/අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කර-ගැනීමට-අමාත්‍යාංශයෙන්-ලිපි-නෑ/11-408423) · `si`
-
-The Ministry of Education will not include letters for the intermediary series, but will notify schools to include students in 2024. If principals are vacant, they will be interviewed by the Ministry for approval. The Ministry will also inform schools about internal grades.
-
-🟩
-
-The Ministry of Education notices the relevant letters to include students for intermediate series.
-
-Accordingly, applications for the include students to include students in 2024 should be forwarded to schools.
-
-If the principals remain vacant to schools, the principals will be interviewed by the Ministry of Education to the Ministry of Education for approval.
-
-Moreover, the Ministry of Education further will inform the Ministry of Education for requests relating to the internal grades.
-
-◼️
-
-[Data](articles/f7e7af66.json)
-
-[Extended Data](ext_articles/f7e7af66.ext.json)
-
----
-
-### A new legal system for a new economy
-
-*2024-03-04 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194128) · `si`
-
-President Ranil Wickremesinghe outlines a new legal system for Sri Lanka's economy, emphasizing its development despite challenges. The country's economic collapse was due to debt management issues, leading to a need for debt relief until 2026-2027. The government aims to increase GDP growth from 8.3% to 15.2% by 2028, with a focus on transforming the economy to a competitive export and digital/green economy. 42 laws have been introduced, with 62 more to be presented, aiming to establish a new legal system for a new economy.
-
-🟩
-
-President Ranil Wickremesinghe says that a new legal system is being prepared for a new economy that can be developed.
-
-The President emphasizes that no matter time it takes time, it will not be postponed.
-
-Addressing a seminar in Colombo, the President said that no one would allow the country to anarchy.
-
-"What New" Youth Lawers organized by the "Wates New" Youth Legal Professionals on Law Reforms
-
-...
-
-[Data](articles/e916e144.json)
-
-[Extended Data](ext_articles/e916e144.ext.json)
-
----
-
-### 60 doctors in Karapitiya
-
-*2024-03-04 19:49:28* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටියේ-වෛද්‍යවරු-60කගේ-හිඟයක්/11-408421) · `si`
-
-Karapitiya Hospital needs 550 doctors but has 590, causing a shortage in anesthesiology and surgical units. The director appeals to the Health Minister for more doctors.
-
-🟩
-
-Director of the Karapitiya Hospital Specialist Director of the Karapitiya Hospital Special
-
-There should be 550 doctors to the Karapitiya Teaching Hospital, but there are currently 590 doctors.The director of the hospital is said to have a shortage of anesthesiologists who point out that there is a shortage of doctors for surgical units of the hospital and the emergency career.
-
-The hospital director said that the Health Minister has been allocated to the Ministry of Health and the necessary doctors should be provided with the lack of expertise.
-
-◼️
-
-[Data](articles/ab9e42d7.json)
-
-[Extended Data](ext_articles/ab9e42d7.ext.json)
 
 ---

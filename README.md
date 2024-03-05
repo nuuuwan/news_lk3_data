@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 03:33:01**
+As of **2024-03-06 03:50:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,110 (100.0%) of 11,113 articles have been extended.
+11,113 (100.0%) of 11,113 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Professor Von Beyme, Head of the Institute of Political Science at the Universit
 ...
 
 [Data](articles/58f02c67.json)
+
+[Extended Data](ext_articles/58f02c67.ext.json)
 
 ---
 
@@ -62,27 +64,37 @@ But times have changed. At the Dambulla Cricket Stadium where the last T-20 matc
 
 [Data](articles/8eb79447.json)
 
+[Extended Data](ext_articles/8eb79447.ext.json)
+
 ---
 
-### இந்தியாவில் பிறந்த இலங்கையர்களின் பிள்ளைகளுக்கு பிரஜா உரிமை வழங்கி வைக்கப்பட்டது
+### The children of Sri Lankans born in India were granted citizenship rights
 
 *2024-03-06 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178024) · `ta`
 
-இந்தியாவிலிருந்து நாடு திரும்பிய இலங்கையர்களின் பிள்ளைகளுக்கு செவ்வாய்க்கிழமை (5) இலங்கை பிரஜா உரிமை வழங்கி வைக்கப்பட்டது.
+Sri Lankan children born in India, including those returning from India, were granted Sri Lankan citizenship, with NGO Ober Ceylon's assistance.
 
-90 ஆம் ஆண்டு காலப்பகுதியில் யுத்தம் காரணமாக இந்தியாவுக்குச் சென்ற இலங்கையர்களுக்கு இந்தியாவில் குழந்தைகள் பிறந்த நிலையில் யுத்தம் நிறைவுக்கு வந்ததன் பின்னர் மீண்டும் இலங்கைக்கு வந்திருந்தனர்.
+🟩
 
-நாட்டிற்கு வந்த இந்தியாவில் பிறந்த இலங்கையர்களின் பிள்ளைகளுக்கு இலங்கை பிரஜா உரிமை பெறுவதில் சிக்கல் நிலமை காணப்பட்டிருந்தது.
+Sri Lankan children of Sri Lankans who returned from India were granted the right of Sri Lankan citizenship on Tuesday (5).
 
-இதனை அடுத்து குடிவரவு குடியகல்வு திணைக்களத்தின் அனுசரணையில் ஒபர் சிலோன் எனப்படும் அரசு சார்பற்ற நிறுவன பங்களிப்போடு இவர்களுக்கான பிரஜா உரிமை பெற்றுக் கொடுக்கும் செயற்பாடு முன்னெடுக்கப்பட்டது.
+Sri Lankans who traveled to India during the 90th war came to Sri Lanka after the end of the war in India.
 
-இதன் ஒரு கட்டமாக 22 வயதுக்கு மேற்பட்ட இந்தியாவில் பிறந்த இலங்கையர்களின் பிள்ளைகள் 71 பேருக்கு இன்று பிரஜாவுரிமை வழங்கப்பட்டது.
+The children of Sri Lankans born in India in India had trouble getting the right of Sri Lankan citizenship.
 
-இவ்வாறு பிரஜாவுரிமை பெற்றவர்கள் வவுனியா, மன்னார், முல்லைத்தீவு, கிளிநொச்சி, யாழ்ப்பாணம், திருகோணமலை, மட்டக்களப்பைச் சேர்ந்தவர்களே பெற்றுக்கொண்டனர்.
+This was followed by the contribution of the NGOs called Ober Ceylon under the patronage of the Department of Immigration and Emigration.
 
-...
+As a part of this, 71 children of Sri Lankans born in India over the age of 22 were granted citizenship today.
+
+Thus, the citizens from Vavuniya, Mannar, Mullaitivu, Kilinochchi, Jaffna, Trincomalee and Batticaloa received.
+
+Vavuniya Government Agent Sarath Chandra, Additional Government Agent. The Deputy Controller of the Department of Immigration and Emigration. H. G. Preaching, Ober company headmaster. C. Many people, including Suryakumari, were present.
+
+◼️
 
 [Data](articles/e995e039.json)
+
+[Extended Data](ext_articles/e995e039.ext.json)
 
 ---
 

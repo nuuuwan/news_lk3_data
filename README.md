@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 14:02:47**
+As of **2024-03-05 14:17:44**
 
 ## Newspaper Stats
 
-*Scraped **10,977** Articles*
+*Scraped **10,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 930
-adaderanalk | 1,334
+adaderanalk | 1,335
 tamilmirrorlk | 1,340
 virakesarilk | 1,474
-dailymirrorlk | 1,673
+dailymirrorlk | 1,674
 adaderanasinhalalk | 1,714
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,971 (99.9%) of 10,977 articles have been extended.
+10,977 (100.0%) of 10,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### No-confidence motion on Speaker handed over
+
+*2024-03-05 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-confidence-motion-on-Speaker-handed-over/108-278275) · `en`
+
+The no-confidence motion on Speaker Mahinda Yapa Abeywardena was handed over to Deputy Secretary General of Parliament Chaminda Kularatne a short while ago.
+
+It was handed over by Chief Opposition Whip Lakshman Kiriella, MPs Ranjith Madduma Bandara and Professor G.L. Peiris.
+
+◼️
+
+[Data](articles/f8236d9f.json)
+
+---
+
+### No-confidence motion against Speaker submitted
+
+*2024-03-05 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97742/no-confidence-motion-against-speaker-submitted-) · `en`
+
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena signed by 44 Members of Parliament representing the Opposition, was handed over to the Deputy General Secretary of Parliament on Tuesday (March 05).
+
+◼️
+
+[Data](articles/66610a26.json)
+
+---
 
 ### Restaurant food prices to be reduced from tonight
 
@@ -50,35 +76,49 @@ However, the association said that due to the reduction in electricity charges, 
 
 [Data](articles/dcb422d9.json)
 
+[Extended Data](ext_articles/dcb422d9.ext.json)
+
 ---
 
-### පාසල් කටයුතු ගැන ආණ්ඩුකාරවරුන්ට අලුත් බලයක්
+### New power to governors about school activities
 
 *2024-03-05 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194158) · `si`
 
-දේශපාලනික කටයුතු සඳහා පාසල් සහ පාසල් පරිශ්‍ර යොදාගැනීම අත්හිටුවීමේ බලය පළාත් ආණ්ඩුකාරවරුන්ට ලබාදීම සඳහා ගෙන ආ කැබිනට් යෝජනාවකට අනුමැතිය හිමිව තිබේ.
+Provincial governors approved a resolution to stop using schools for political activities.
+
+🟩
+
+A Cabinet resolution has been approved by the provincial governors to discontinue the use of schools and school premises for political purposes.
 
 ◼️
 
 [Data](articles/6c836bb1.json)
 
+[Extended Data](ext_articles/6c836bb1.ext.json)
+
 ---
 
-### மாலைதீவு- சீன பாதுகாப்பு ஒப்பந்தம் கையெழுத்து
+### Maldives- Chinese Security Agreement signature
 
 *2024-03-05 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177953) · `ta`
 
-மாலைதீவின் பாதுகாப்பு அமைச்சு இது தொடர்பாக தெரிவிக்கையில், சீனாவின் இராணுவ உதவிகள் தொடர்பாக திங்கட்கிழமை ஒப்பந்தமொன்று கையெழுத்திடப்பட்டதாக தெரிவித்துள்ளது. இரு நாடுகளுக்கும் இடையிலான உறவுகளை இந்த ஒப்பந்தம் பலப்படுத்தும் என மாலைதீவு பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+The Maldives and China signed a security agreement, strengthening their ties, following the Maldivian government's order for the Indian Army to leave by May 10. The agreement, signed by Maldivian Defense Minister Kasan Munumoon and a Chinese official, includes military assistance from China, though details remain undisclosed.
 
-மாலைதீவில் உள்ள 89 இந்தியப் படையினரம் மே 10 ஆம் திகதிக்கு முன்னர் வெளியேற வேண்டும் என மாலைதீவின் புதிய ஜனாதிபதி மொஹம்மட் முய்ஸுவின் அரசாங்கம் உத்தரவிட்டு சில வாரங்கில்  சீன- மாலைதீவு பாதுகாப்பு ஒப்பந்தம் கையெழுத்திடப்பட்டுள்ளது.
+🟩
 
-மாலைதீவு பாதுகாப்பு அமைச்சர் கசான் முனுமூன், சீனாவின் சர்வதேச இராணுவ ஒத்துழைப்புகளுக்கான அலுவலகத்தின் பிரதிப் பணிப்பாளர் மேஜர் ஜெனரல் ஸாங் பாவோகுன் ஆகியோர் இந்த ஒப்பந்தத்தில் கையெழுத்திட்டனர்.
+The Maldives Ministry said that a contract was signed on Monday regarding China's military assistance.. The Maldivian Defense Ministry said the agreement would strengthen ties between the two countries.
 
-இந்த ஒப்பந்தம் தொடர்பான விபரங்கள் உத்தியோபூர்வமாக வெளியிடப்படவில்லை. எனினும், சீனாவுக்கு இராணுவ உதவிகளை இலவசமாக வழங்க சீனா இணங்கியுள்ளதாக மாலைதீவு ஊடகங்கள் தெரிவித்துள்ளன.
+The Chinese-Maldives Security Agreement has been signed in a few weeks after the government of Maldivian President Mohammed Muiz's government has ordered the 89 Indian Army to leave before May 10.
+
+The agreement was signed by Maldivian Defense Minister Kasan Munumoon and Deputy Director of the Office of China's International Military Cooperation Office.
+
+Details relating to this agreement have not been officially released. However, the Maldivian media has said that China has agreed to provide military assistance to China.
 
 ◼️
 
 [Data](articles/c1d44c70.json)
+
+[Extended Data](ext_articles/c1d44c70.ext.json)
 
 ---
 
@@ -186,23 +226,31 @@ Subsequently, the demonstrators will march to the Indian subconscious in Jaffna 
 
 ---
 
-### கடந்த 24 மணிநேரத்தில் விபத்துக்களால் 7 பேர் உயிரிழப்பு
+### 7 people die of accidents in the last 24 hours
 
 *2024-03-05 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177946) · `ta`
 
-நாட்டில் வெவ்வேறு பகுதிகளில் கடந்த 24 மணி நேரத்தில் இடம்பெற்ற வாகன விபத்துக்களில் 7 பேர் உயிரிழந்துள்ளார்கள்.
+7 people died in accidents in the last 24 hours across the country, including a van crash near Millagama, a woman hit by a three-wheeler in Koradota, and a motorcycle accident in Batticaloa.
 
-எல்ல - ஹாலிஎல, பெரகல வீதியில் மில்லகம சந்திக்கு அருகில் நேற்று திங்கட்கிழமை (04) காலை  பதுளையிலிருந்து பண்டாரவளை நோக்கி பயணித்த வேன் ஒன்று பாதசாரிகள் கடவையில் வீதியை கடக்க முற்பட்டபவர் மீது மோதி விபத்துக்குள்ளானது. விபத்தில் கந்தேகும்புர ஹெல ஹல்பே பிரதேசத்தில் வசிக்கும் 89 வயதுடைய ஒருவர் உயிரிழந்துள்ளார்.
+🟩
 
-இதேவேளை,  நவகமுவ - கொரதொர, வதுரம்முல்ல வீதியில் விபத்தில் கடுவலை கொரதொட்ட பகுதியைச் சேர்ந்த 55 வயதுடைய பெண்ணொருவர் உயிரிழந்துள்ளார்.  கொங்கஹஹேன பிரதேசத்தில் பாதசாரி கடவையை கடக்கும்போது கொரத்தோட்டையில் இருந்து வதுரமுல்ல நோக்கி பயணித்த முச்சக்கர வண்டியொன்று பெண் மீது மோதியுள்ளது.
+Seven people have died in vehicle accidents in the last 24 hours in different parts of the country.
 
-அத்துடன், நேற்றிரவு பெலியத்த - தங்காலை வீதியில் இடம்பெற்ற விபத்தில் சிட்டினமலுவ பிரதேசத்தைச் சேர்ந்த 75 வயதுடைய  நபர் ஒருவர் உயிரிழந்துள்ளார்.
+A van traveling from Badulla to Bandarawela near Millagama junction on Perakala Road, Perakala Road. An 89 -year -old man died in the accident in Kandagumbura Hela Halbay area.
 
-கோட்டை-பஸ்தியான் மாவத்தை பகுதியில் இடம்பெற்ற வாகன விபத்தில் தெஹிவளையில் வசிக்கும் 74 வயதுடைய முதியவர் பரிதாபமாக உயிரிழந்துள்ளார்.
+Meanwhile, a 55 -year -old woman from Koradota area, Koradota, died in an accident on the Navagamuwa - Koradara, Madhumulla road.A three -wheeler traveling from Korathota to Thrumulla as a pedestrian crossing in the Kongahahena area crashed into a woman.
+
+In addition, a 75 -year -old man from Chittinamaluwa area died in an accident on the Beliyatta - Tangalle road last night.
+
+A 74-year-old elderly man who lives in Dehiwala has died in a vehicle accident in the Fort-Pastiyan Mawatha area.
+
+A youth was killed in a motorcycle accident in the Eruvil area of the Kaluwanchikudi police division in the Batticaloa district.
 
 ...
 
 [Data](articles/6345e128.json)
+
+[Extended Data](ext_articles/6345e128.ext.json)
 
 ---
 
@@ -397,6 +445,8 @@ Addressing the media, he said the proposal for the government to absorb the USD 
 ◼️
 
 [Data](articles/486c307c.json)
+
+[Extended Data](ext_articles/486c307c.ext.json)
 
 ---
 
@@ -626,23 +676,29 @@ Basil Rajapakse said he hoped to make a change where necessary, and that every e
 
 ---
 
-### மக்களை ஒருபோதும் ஏமாற்ற மாட்டோம்: பசில்
+### We will never deceive people: Basil
 
 *2024-03-05 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/மக்களை-ஒருபோதும்-ஏமாற்ற-மாட்டோம்-பசில்/52-334219) · `ta`
 
-தமது கட்சி ஒருபோதும் மக்களை ஏமாற்ற முயற்சிக்கவில்லை என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷ தெரிவித்துள்ளார்.
+Basil Rajapaksa, founder of the Sri Lanka Peoples Alliance, claims his party has never deceived the people. He returned to Sri Lanka today, stating he has no intention of returning to parliament and will arrange for any election. He hopes to make necessary changes, acknowledging every election is a challenge.
 
-இன்று (05) காலை நாடு திரும்பிய அவர், ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு கூறியுள்ளார்.
+🟩
 
-மேலும், மீண்டும் பாராளுமன்றத்துக்கு வரும் எண்ணம் தமக்கு இல்லை என்றும், எந்த தேர்தல் நடந்தாலும் அதற்கான ஏற்பாடுகளை தாம் செய்வதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Basil Rajapaksa, the founder of the Sri Lanka Peoples Alliance (PA), has said that his party has never tried to deceive the people.
 
-தேவையான இடங்களில் மாற்றத்தை ஏற்படுத்துவேன் என நம்புவதாக தெரிவித்த பசில் ராஜபக்ஷ, ஒவ்வொரு தேர்தலும் சவாலாகவே உள்ளது என்றும் கூறினார்.
+Returning to the country this morning (05), he said this while commenting to the media.
 
-"நாங்கள் மக்களை ஒருபோதும் ஏமாற்றுவதில்லை. மக்கள் சொல்வதைச் செய்கிறோம். சில இடங்களில் தவறு செய்கிறோம். மக்கள் நாங்கள் சொல்வதை ஏற்க மாட்டார்கள். சில சமயங்களில் மக்கள் சொல்வதை நாங்கள் ஏற்காத சந்தர்ப்பங்களும் உள்ளன. அவற்றை நாங்கள் திருத்திக்கொள்கின்றோம்." என்றார்.
+He also stated that he had no intention of coming back to parliament and that he would make arrangements for any election.
+
+Basil Rajapakse said he hoped to make a change where necessary, and that every election is a challenge.
+
+“We never deceive people. We do what people say. We are doing wrong in some places. People don't accept what we say. There are also occasions we do not accept what people say. We correct them. ”
 
 ◼️
 
 [Data](articles/a19ab487.json)
+
+[Extended Data](ext_articles/a19ab487.ext.json)
 
 ---
 
@@ -2149,45 +2205,5 @@ Neither the Israelis nor Hamas is willing to give in. Israel will not stop its b
 [Data](articles/d446d6b1.json)
 
 [Extended Data](ext_articles/d446d6b1.ext.json)
-
----
-
-### “Time for SJB to put itself out of disarray” - MP Dr. Kavinda Jayawardhana
-
-*2024-03-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Time-for-SJB-to-put-itself-out-of-disarray-MP-Dr-Kavinda-Jayawardhana/231-278220) · `en`
-
-There are disputes within the party, but we have to resolve these issues as soon as possible
-
-We have successfully established bala mandalas in Kegalle and Ratnapura
-
-Myself, MPs Hector Appuhamy and Nisroshan Perera were lobbying for justice for the Easter Sunday bomb victims
-
-The Catholic vote had gone in favour of the UNP in the past. however SJB had captured a great portion of these votes in 2020
-
-The Government promised to bring in Scotland Yard and carry out an international probe, but it has not kept its promise
-
-It has reached a state where MPs in the Samagi Jana Balawgaya (SJB) have begun to admit that there are divisions within the party. One of the MPs who accept that there are disputes in the party is MP for Gampaha District Dr. Kavinda Jayawardhana. In an interview with Daily Mirror, the MP called for unity within the party. He stated that unity is of paramount importance when facing challenges posed by other parties during upcoming elections.
-
-...
-
-[Data](articles/e016171c.json)
-
-[Extended Data](ext_articles/e016171c.ext.json)
-
----
-
-### Public sector lethargy and employee rights
-
-*2024-03-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Public-sector-lethargy-and-employee-rights/172-278221) · `en`
-
-In January 2016, in a rare show of accountability, the General Secretary of the Government and Provincial Council Public Service Trade Union Federation, Ajith. K. Thilakarathne had taken up an issue of time squandered by public sector employees with the then President Maithripala Sirisena and Prime Minister Ranil Wickremesinghe. No trade union leader had dared before to complain against his own members.
-
-In a letter addressed to both the leaders, Thilakarathne had pointed out that 60 percent of the 1.5 million public servants (both under the central government and provincial councils) were engaged in browsing the Internet, Face Book and other entertainment sites using the office computers and their own smart phones for over two hours of their daily eight-hour duty.
-
-...
-
-[Data](articles/f8885b47.json)
-
-[Extended Data](ext_articles/f8885b47.ext.json)
 
 ---

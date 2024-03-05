@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 14:33:07**
+As of **2024-03-05 14:50:10**
 
 ## Newspaper Stats
 
-*Scraped **10,982** Articles*
+*Scraped **10,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 930
-adaderanalk | 1,335
+adaderanalk | 1,337
 tamilmirrorlk | 1,340
 virakesarilk | 1,475
 dailymirrorlk | 1,674
@@ -26,57 +26,73 @@ adaderanasinhalalk | 1,716
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,979 (100.0%) of 10,982 articles have been extended.
+10,982 (100.0%) of 10,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### මස් කඩ හිමිකරුට වෙඩිතැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested for shouting the meat
 
 *2024-03-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194160) · `si`
 
-පසුගිය අගෝස්තු මාසයේදී කඳාන ප්‍රදේශයේදී මස් වෙළෙඳසැල් හිමියෙකුට වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් පුද්ගලයෙකුව පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested by the STF in connection with the shooting case of a meat shop owner in the Kandana area last August.
 
-එසේම T 56 වර්ගයේ ගිනි අවියක්, උණ්ඩ 45ක් සහ මැගසින් දෙකක් එහිදී විශේෂ කාර්ය බළකාය සිය භාරයට ගෙන තිබේ.
+The Special Task Force has also taken a 56 rifle and 4 bullets and two magazines.
 
 ◼️
 
 [Data](articles/bcf09668.json)
 
+[Extended Data](ext_articles/bcf09668.ext.json)
+
 ---
 
-### புங்குடுதீவில் உள்ளூர் வளங்களை அழிப்பதற்கெதிராக கவனயீர்ப்பு போராட்டம்
+### Attraction Struggle to Destroy Local Resources in Punguduthivu
 
 *2024-03-05 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177955) · `ta`
 
-புங்குடுதீவில் இன்று செவ்வாய்க்கிழமை உள்ளூர் வளங்களை அழிப்பதற்கெதிரான கவனயீர்ப்பு போராட்டமொன்று புங்குடுதீவு கடற்தொழிலாளர்கள் சங்கத்தினரால் தீவக சிவில் சமூகம் அமைப்பின் ஆதரவில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+The Punguduthivu Fishermen's Association protested against the destruction of local resources, supported by civil society. Ignored by local fishermen, the Sri Lankan government, against the Fisheries Ministry's provision, destroyed the traditional fishing industry to protect the cattlefield. Prominent figures, including Mawai Senadirasa and Dr. Akhilan Muthukumaraswamy, were present.
 
-கடலட்டைப் பண்ணை எனும் பெயரில் உள்ளூர் மீனவர்களை முற்றாக புறக்கணித்து இலாப நோக்கில் வெளிமாவட்டங்களை சேர்ந்தவர்களுக்கும், தென்னிலங்கையை சேர்ந்தவர்களுக்கும் கடலட்டை பண்ணைகள் அமைப்பதற்குரிய அனுமதிகளை கடற்தொழில் அமைச்சு வழங்குவதற்கு எதிராகவும், பாரம்பரிய மீன்பிடி தொழிலை அழிப்பதற்கு எதிராகவும், சட்டவிரோத மண் அகழ்வை உடனடியாக தடுக்கக்கோரியும், அழிக்கப்பட்டு வருகின்ற கால்நடை வளத்தை பாதுகாக்க கோரியும் ஏற்பாடு செய்யப்பட்டிருந்த இக்கவனயீர்ப்பு போராட்டத்தில் பெருமளவான பொதுமக்கள் கலந்துகொண்டிருந்தனர்.
+🟩
 
-...
+A protest against the destruction of local resources in Punguduthivu on Tuesday was organized by the Punguduthivu Fishermen's Association under the support of the island Civil Society Organization.
+
+In the name of the sea farm, the local fishermen were completely ignored and the government of Sri Lanka, against the provision of the ministry of the Fisheries Ministry and the destruction of the traditional fishing industry, to protect the cattlefield, to protect the cattlefield.
+
+Sri Lanka Tamil State Party leader Mawai Senadirasa, Social activist Dr. Akhilan Muthukumaraswamy, Attorney General. Karunakaran Gunalan, Treasurer of Sukash, Thevaga Civil Society Organization, former Member of Velanai Pradeshiya Sabha Karunakaran Navalan. Gnanneswaran was also present and the Jaffna District Government Agent and the Mahajar to hand over the Jaffna District Secretariat.
+
+◼️
 
 [Data](articles/715252b4.json)
 
+[Extended Data](ext_articles/715252b4.ext.json)
+
 ---
 
-### ඊලෝන් මස්ක්ට තැන අහිමිවෙයි
+### Elon cash losses
 
 *2024-03-05 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194159) · `si`
 
-ලොව ධනවත්ම පුද්ගලයා බවට නැවත වරක් ඇමසන් සමාගමේ නිර්මාතෘ ජෙෆ් බේසොස් පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Elon Musk's net assets dropped to $19 billion, losing $31 billion, while Jeff Bezos's assets rose to $200 billion, surpassing Musk as the world's richest person.
 
-මෙතෙක් ලොව ධනවත්ම මිනිසාගේ ස්ථානයේ රැඳී සිටි ඊලෝන් මස්ක් පසුකර ඔහු එම ස්ථානයට පත්ව ඇත.
+🟩
 
-මේ වනවිට ඇමසන් සමාගමේ නිර්මාතෘ ජෙෆ් බේසොස්ගේ ශුද්ධ වත්කම අමෙරිකානු ඩොලර් බිලියන 200ක් බව එම වාර්තා පෙන්වා දෙයි.
+Juff Basos, once again the world's richest person, has once again have been named.
 
-එම වාර්තා සඳහන් කරන්නේ ඊලෝන් මස්ක්ගේ ශුද්ධ වත්කම අමෙරිකානු ඩොලර් බිලියන 198ක් බවය.
+He has been ranked past the Elon Moil, who has stayed in the world's richest man's place.
 
-ඒ අනුව පසුගිය වසරක කාලය තුළදී ඊලෝන් මස්ක්ට ඩොලර් බිලියන 31ක් අහිමිවී ඇති අතර ජෙෆ් බේසොස්ගේ වත්කම බිලියන 23කින් වර්ධනය වී තිබේ.
+According to reports, Juff Basos's net asset is currently US $ 200 billion.
+
+These reports say that the net asset of Elon Musk was US $ 19 billion.
+
+Accordingly, Elon Musk has lost $ 31 billion over the past year and Jeff Basos's asset has increased by 23 billion.
 
 ◼️
 
 [Data](articles/283a4009.json)
+
+[Extended Data](ext_articles/283a4009.ext.json)
 
 ---
 
@@ -107,6 +123,24 @@ The no-confidence motion against Speaker Mahinda Yapa Abeywardena signed by 44 M
 [Data](articles/66610a26.json)
 
 [Extended Data](ext_articles/66610a26.ext.json)
+
+---
+
+### No-confidence motion against Speaker handed over
+
+*2024-03-05 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97742/no-confidence-motion-against-speaker-handed-over) · `en`
+
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena was handed over to the Deputy General Secretary of Parliament on Tuesday (March 05).
+
+It was signed by 44 parliamentarians including Opposition Leader Sajith Premadasa, Chief Opposition Whip Lakshman Kiriella and MPs Prof. G.L. Peiris, Rohini Kumari Wijeratne, Hesha Vithanage, Mano Ganesan, Rishad Bathiudeen, M.A. Sumanthiran, S.M. Marikkar, Ranjith Madduma Bandara, Thalatha Atukorale, Vijitha Herath and Chandima Weerakkody.
+
+The no-confidence motion alleges that the Speaker had ignored the Supreme Court’s recommendations pertaining to Sections 13, 17, 20, 33 (6), 34 (1), 35 (1), 21, 22 and 33 of the Online Safety Bill.
+
+Abeywardena is also accused of allowing the Third Reading of the Online Safety Bill to be passed without a vote and disregarding the Chief Opposition Whip’s call for a division at the Committee Stage.
+
+...
+
+[Data](articles/eecff58e.json)
 
 ---
 
@@ -193,6 +227,20 @@ The Minister of Transport and Highways and the Minister of Urban Development had
 [Data](articles/dfdc1742.json)
 
 [Extended Data](ext_articles/dfdc1742.ext.json)
+
+---
+
+### Govt. to prevent school premises from being used for political purposes
+
+*2024-03-05 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97741/govt-to-prevent-school-premises-from-being-used-for-political-purposes) · `en`
+
+The government has decided to empower provincial governors to refuse permission to use school premises for political purposes, Minister Bandula Gunawardena says.
+
+The proposal furnished by President Ranil Wickremesinghe was green-lighted by the Cabinet of Ministers at its meeting on Monday (March 05).
+
+◼️
+
+[Data](articles/112a3e16.json)
 
 ---
 
@@ -2161,45 +2209,5 @@ President Ranil Wickremesinghe addressing a conference of over 300 members from 
 [Data](articles/80088226.json)
 
 [Extended Data](ext_articles/80088226.ext.json)
-
----
-
-### Malik Cader elected chairman of JCI Senate Sri Lanka
-
-*2024-03-05 00:54:21* · [`dailyftlk`](https://www.ft.lk/business/Malik-Cader-elected-chairman-of-JCI-Senate-Sri-Lanka/34-759172) · `en`
-
-Malik Cader has been elected as the new Chairman of JCI Senate Sri Lanka.
-
-Cader an Attorney at Law was a past President of Sri Lanka Jaycees, and later was elected a Vice President of JCI International.
-
-He represented Sri Lanka at the International Model United Nations conference at the United Nations headquarters in New York. The Annual General Meeting of JCI Senate Sri Lanka was held on the 27 February at the Orchard Room, Club House Havelock City. The Guest Speaker at the event was Dr. Harini Amarasuriya who spoke on “Navigating the seas of political transformation.”
-
-Apart from Malik, the following Senators, Vasantha Karunatilaka, Yohan De Silva, Fauzul Nawas, Khalil Ur Rahman, and Rohan Pallewatte, were elected to the Executive Committee of JCI Senate Sri Lanka for 2024/2025. Jennifer Omar was re-elected as the Secretary, and Senator Sriyani Ranatunga was re-elected as the Treasurer. The immediate past President of JCI Senate Sri Lanka is Arunika Wickramasinghe.
-
-...
-
-[Data](articles/b1a95918.json)
-
-[Extended Data](ext_articles/b1a95918.ext.json)
-
----
-
-### 450 foreign firms to set up regional HQ in Saudi Arabia
-
-*2024-03-05 00:53:21* · [`dailyftlk`](https://www.ft.lk/business/450-foreign-firms-to-set-up-regional-HQ-in-Saudi-Arabia/34-759171) · `en`
-
-Saudi Arabia has granted licences to 450 foreign investors to open their regional headquarters in the Kingdom in a major boost to the country’s economic growth as it will create immense employment opportunities, said Minister of Investment Engineer Khalid bin Abdulaziz Al Falih.
-
-He was addressing the gathering at the ‘Human Capability Initiative,’ the first-ever global co-operative platform set up in Riyadh designed to unify the international efforts and enrich the global dialogue on the challenges and opportunities for developing human capabilities.
-
-A two-day event, HCI was held under the theme of #FutureReadiness – getting ready for the future starts now.
-
-It brought together policymakers, thought leaders, investors and entrepreneurs to catalyse international collaboration and maximise resilience, exploring opportunities and promoting innovative policy design and solutions.
-
-...
-
-[Data](articles/fbd0a4f9.json)
-
-[Extended Data](ext_articles/fbd0a4f9.ext.json)
 
 ---

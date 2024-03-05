@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 18:33:11**
+As of **2024-03-05 18:51:02**
 
 ## Newspaper Stats
 
-*Scraped **11,039** Articles*
+*Scraped **11,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,344
 adaderanalk | 1,345
-virakesarilk | 1,487
+virakesarilk | 1,489
 dailymirrorlk | 1,684
 adaderanasinhalalk | 1,726
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,033 (99.9%) of 11,039 articles have been extended.
+11,039 (100.0%) of 11,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,67 @@ During the meeting, held at the OIC General Secretariat in Jeddah, both sides di
 
 [Data](articles/af1b2f35.json)
 
+[Extended Data](ext_articles/af1b2f35.ext.json)
+
 ---
 
-### මහ බැංකු වැටුප් වැඩිකිරීමට පක්ෂ නායකයින්ගේ දැඩි අප්‍රසාදය
+### பனாமா முன்னாள் ஜனாதிபதி தேர்தலில் போட்டியிடத் தடை
+
+*2024-03-05 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178003) · `ta`
+
+பனாமாவின் முன்னாள் ஜனாதிபதி ரிக்கார்டோ மார்ட்டினெலி  எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு தகுதியற்றவர் என நீதிமன்றமொன்று தீர்ப்பளித்துள்ளது.
+
+பணச்சலவை குற்றச்சாட்டில் அவருக்கு கடந்த வருடம் 10 வருட சிறைத்தண்டனை விதிக்கப்பட்டமையே இதற்குக் காரணம்.
+
+71 வயதான கோடீஸ்வர வர்த்தகரான ரிக்கார்டோ மார்ட்டினெலி, 2009 முதல் 2014 ஆம் ஆண்டுவரை ஜனாதிபதியாக பதவி வகித்தார்.
+
+அவரை கைது செய்யுமாறு பனாமா அதிகாரிகள் கடந்த மாதம் உத்தரவிட்டனர். அதையடுத்து நிக்கரகுவா தூரகத்தில்  மார்ட்டினெல்லி தஞ்சம் புகுத்தார்.
+
+இந்நிலையில் மார்ட்டினெலி மீதான சிறைத்தண்டனை மேன்முறையீட்டில் நேற்று திங்கட்கிழமை உறுதிப்படுத்தப்பட்டது. அதையடுத்து அவர் இத்தேர்தலில் போட்டியிடுவதற்கு தகுதியற்றவர் என  பனமா தேர்தல்கள் நீதிமன்றம் தடை விதித்துள்ளது.
+
+◼️
+
+[Data](articles/e466bcfa.json)
+
+---
+
+### The party leaders are deeply displeasant to increase the sum of the wages
 
 *2024-03-05 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194172) · `si`
 
-ස්වයං තීරණයක් මගින් සේවක වැටුප් වැඩිකිරීම සම්බන්ධයෙන් මහ බැංකුවේ ඉහළ නිලධාරීන්ට අද (05) ‍පාර්ලිමේන්තුවේ පැවති පක්ෂ නායක රැස්වීමේදී දැඩි අප්‍රසාදය පළවී තිබේ.
+Party leaders and Central Bank officials disagree on wage increases, arguing no legal or moral right to 70% increase amid suffering. A Collective Agreement between unions and management is registered, costing nearly Rs. 232 million.
 
-එහිදී වැටුප් වැඩි කිරීම සම්බන්ධයෙන් නෛතික බලයක් නැති බවටද පක්ෂ නායකයන්ගෙන් තර්කයක් ඉදිරිපත්වී ඇත.
+🟩
 
-නෛතික බලයක් තිබුණද ජනතාව පීඩාවට පත්වී සිටින මොහොතක 70%කින් වැටුප් වැඩි කරගැනීමට කිසිදු සදාචාරාත්මක අයිතියක් නැති බවට එහිදී කරුණු ඉදිරිපත්වී ඇත.
+The Central Bank's top officials have been displeased at the party leaders meeting in Parliament today regarding the increase of employee salaries by a self-determination.
 
-මෙම වැටුප් වැඩි කිරීම නිසා මාසිකව රු. මිලියන 232කට ආසන්න මුදලක් වැය වන බවටත් අනාවරණයවී තිබේ.
+The party leaders also arguct that there is no legal power on salary increases.
 
-වැටුප් වැඩි කිරීම සිදුකර ඇති වෘත්තීය සමිති සහ කළමනාකාරීත්වය අතර ඇති කරගෙන තිබෙන සාමූහික ගිවිසුම (Collective Agreement) කම්කරු අමාත්‍යාංශයේ ලියාපදිංචි ‍කර නොමැති බවත් හෙළිවී ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+There is no moral right to increase salary increases by 70% at a time when people are suffering, but there is no moral right to increase salary.
+
+The monthly increase of Rs. It has also been revealed that nearly 232 million cost.
+
+The Collectuity Agreement (Collective Agreement) between the unions and management, which has been carried out between the trade unions and management has been registered with the Department of Parliament.
 
 ◼️
 
 [Data](articles/c0a664a5.json)
+
+[Extended Data](ext_articles/c0a664a5.ext.json)
+
+---
+
+### ரயில்வே தொழிற்சங்கத்தினரின் பணிப்பகிஷ்கரிப்பு கைவிடப்பட்டது!
+
+*2024-03-05 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178000) · `ta`
+
+பல கோரிக்கைகளை முன்வைத்து செவ்வாய்க்கிழமை (5) நள்ளிரவு முதல் ஆரம்பிக்கப்படவிருந்த பணிப்புறக்கணிப்பு போராட்டத்தை லோகோமோட்டிவ் ஆப்பரேட்டிங் பொறியியலாளர்கள் சங்கம் உட்பட பல ரயில்வே தொழிற்சங்கங்கள் கைவிட்டதாக  லோகோமோட்டிவ் ஒப்பரேட்டிங் பொறியியலாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+பணிப்பகிஷ்கரிப்பின் பிரதான பிரச்சினையான பதவி உயர்வு தொடர்பான பிரச்சினைக்கு அமைச்சரவை தீர்வை வழங்கியதால் பணிப்புறக்கணிப்பு கைவிடப்பட்டதாகவும் தொழிற்சங்கம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/24a79dbe.json)
 
 ---
 
@@ -107,6 +149,8 @@ However, the statement added that the situation was rectified after Maithripala 
 ◼️
 
 [Data](articles/981fc350.json)
+
+[Extended Data](ext_articles/981fc350.ext.json)
 
 ---
 
@@ -190,6 +234,8 @@ The no-confidence motion on Speaker Mahinda Yapa Abeywardena was handed over to 
 
 [Data](articles/c8f3d30d.json)
 
+[Extended Data](ext_articles/c8f3d30d.ext.json)
+
 ---
 
 ### The volunteer teacher was imprisoned
@@ -229,6 +275,8 @@ Furthermore, severe traffic congestion also gripped the area as the protesting s
 ◼️
 
 [Data](articles/0da5ba84.json)
+
+[Extended Data](ext_articles/0da5ba84.ext.json)
 
 ---
 
@@ -1646,6 +1694,8 @@ Addressing the media, he said the proposal for the government to absorb the USD 
 
 [Data](articles/b96387ef.json)
 
+[Extended Data](ext_articles/b96387ef.ext.json)
+
 ---
 
 ### Will the Supreme Court confirmed a person who was involved in torture as a police chief?Ceylon Attorneys Association
@@ -2181,47 +2231,5 @@ Official creditors will probably wait for the private creditor deal to get confi
 [Data](articles/029eb169.json)
 
 [Extended Data](ext_articles/029eb169.ext.json)
-
----
-
-### Sri Lanka reveal likely T20 World Cup selection plan
-
-*2024-03-05 10:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reveal-likely-T20-World-Cup-selection-plan/108-278266) · `en`
-
-Mar. 5 (ICC) - The island nation looks set to give the nod to experienced players when deciding on their squad of 15 for the June event.
-
-Chief selector Upul Tharanga has revealed Sri Lanka will favour experience over youth when deciding who will represent the side at this year's ICC Men's T20 World Cup.
-
-The 2014 T20 World Cup champions caused a shock recently when they recalled experienced wicket-keeper-batter Niroshan Dickwella for their ongoing T20I series with Bangladesh and Tharanga indicated this would be the norm ahead of this year's 20-over showcase in the USA and Caribean in June.
-
-It means the likes of left-arm spinner Dunith Wellalage and fellow youngsters Vijayakanth Viyaskanth and Shevon Daniel may have to bide their time and wait for further opportunities at the top level according to Tharanga.
-
-"In T20s we need a wicket-taking option, which is why we opted for Jeffrey (Vandersay) over someone like Dunith (Wellalage)," Tharanga said.
-
-...
-
-[Data](articles/2efbd9cc.json)
-
-[Extended Data](ext_articles/2efbd9cc.ext.json)
-
----
-
-### Basil is coming
-
-*2024-03-05 10:33:13* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-එයි/11-408431) · `si`
-
-Basil Rajapaksa, national organizer of the Sri Lanka General Man, arrived today. Other notable guests include Parlia. Chandrasena, Prasanna Abeygunawardena, Prasanna Ranatunga, Namal Rajapaksa, Ranjith Bandara, Kokila Hirdia Gunawardena, Vishantha Bandara, and Jayanthi Hestiarachchi.
-
-🟩
-
-Basil Rajapaksa, the national organizer of the Sri Lanka General Man, has arrived in the island today (05).
-
-Basil Rajapaksa, Parlia. Chandrasena, Prasanna Abeygunawardena, Prasanna Ranatunga, Namal Rajapaksa, Ranjith Bandara, Kokila Hirdia Gunawardena and Vishantha Bandara, Jayanthi Hestiarachchi have already been found in the airport special guests.Were in the compartment.
-
-◼️
-
-[Data](articles/ab80ac54.json)
-
-[Extended Data](ext_articles/ab80ac54.ext.json)
 
 ---

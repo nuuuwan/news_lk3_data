@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 20:33:33**
+As of **2024-03-05 20:50:31**
 
 ## Newspaper Stats
 
-*Scraped **11,054** Articles*
+*Scraped **11,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,74 @@ dailyftlk | 584
 islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,345
-adaderanalk | 1,347
+adaderanalk | 1,348
 virakesarilk | 1,490
 dailymirrorlk | 1,689
-adaderanasinhalalk | 1,730
+adaderanasinhalalk | 1,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,051 (100.0%) of 11,054 articles have been extended.
+11,054 (100.0%) of 11,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### மின் பாவனையாளர்களுக்கான விசேட அறிவிப்பு
+### Planned railway strike temporarily called off
+
+*2024-03-05 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97751/planned-railway-strike-temporarily-called-off) · `en`
+
+The employees of Sri Lanka Railways have temporarily called off the indefinite strike that was planned to be launched from midnight today (March 05), says the Locomotive Operating Engineers’ Association.
+
+The trade unions of locomotive operating engineers, railway guards, and railway supervisory managers were supposed to join this strike action to urge the government to reverse the Cabinet paper proposing to reduce their salaries.
+
+However, the trade union action was suspended following a discussion held with the authorities this evening.
+
+◼️
+
+[Data](articles/070b5504.json)
+
+---
+
+### විරෝධතාකරුවන් 13ක් නිදොස් කොට නිදහස්
+
+*2024-03-05 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194178) · `si`
+
+2022 මැයි මස 04 හෝ ඊට ආසන්න දිනකදී බත්තරමුල්ල පොල්දූව මංසන්ධිය ආසන්නයේ දී  කථානායකවරයාට ලිපියක් බාරදීමට ගොස් විරෝධතාවයේ නිරතව සිටි බවට තලංගම පොලිසිය මගින් අත්අඩංගුවට ගෙන කඩුවෙල අධිකරණයට ඉදිරිපත් කර ඇප මත සිටි සැකකරුවන් 13 දෙනා නිදොස් කොට නිදහස් කරන ලෙස කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය අද (05) නියෝග කළේය.
+
+ඉකුත් අරගල සමයේ දී රටෙහි පැවැති තත්ත්වයන් සම්බන්ධයෙන් කථානායකවරයා දැනුවත් කිරීම සඳහා සංදේශයක් බාරදීමට යමින් සිටි සමාජ ක්‍රියාකාරීන් 13 දෙනෙකු මෙලෙස තලංගම පොලිසිය මගින් අත්අඩංගුවට ගෙන පසුව මහරගම පොලීසියේ රඳවා තබාගනිමින් අනතුරුව කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට කටයුතු කර තිබුණි.
+
+එම අවස්ථාවේදී මෙම සැකකරුවන් 13 වෙනුවෙන් නීතිඥවරුන් එකසිය පනහකට ආසන්න සංඛ්‍යාවක් පෙනී සිටියහ.
+
+සංවිධානාත්මකව අයුතු ජනරාශිය ඇති කිරීම, අයුතු ජනරාශියක සාමාජිකයන් වීම, පොලීසියට සහ මහජනතාවට බාධා කිරීම ඇතුළු චෝදනා කිහිපයක් මෙම සැකකරුවන් වෙත පොලීසිය මගින් අධිකරණය හමුවේ චෝදනා ගොනු කර තිබුණි.
+
+...
+
+[Data](articles/d8c01d3d.json)
+
+---
+
+### Special Notice for E -Consumers
 
 *2024-03-05 20:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-பாவனையாளர்களுக்கான-விசேட-அறிவிப்பு/175-334253) · `ta`
 
-புதிய மின் இணைப்பு பெறுவதிலும், துண்டிக்கப்பட்ட மின் இணைப்பை திரும்பப் பெறுவதிலும் மக்களுக்கு நிவாரணம் வழங்கப்பட்டுள்ளதாக பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Public Utilities Commission has reduced the fee for recovering electricity from 3,000 to 800 rupees for E-Consumers, allowing for easier power supply reform.
 
-முன்பு மின் இணைப்பை துண்டித்த பிறகு, மின்சாரத்தை மீள பெறுவதற்கான கட்டணம் 3,000 ரூபாயாக இருந்தது. அதை, 800 ரூபாயாக குறைக்க, பொதுப் பயன்பாடுகள் ஆணைக்குழு முடிவு செய்துள்ளது.
+🟩
 
-மேலும், மின் இணைப்பு சீரமைப்பின் போது செலுத்த முடியாத தொகையை தவணை முறையில் செலுத்த வாய்ப்பு வழங்கப்பட்டுள்ளதாக தெரிவித்தார். R
+The Public Utilities Commission said that the people have been given relief in obtaining new power supply and withdrawal of the disconnected power supply.
+
+Previously after disconnecting the electrical connection, the fee for recovering electricity was 3,000 rupees. The Public Applications Commission has decided to reduce it to Rs 800.
+
+In addition, the amount of money cannot be paid during the power supply reform. Remble
 
 ◼️
 
 [Data](articles/339cf175.json)
+
+[Extended Data](ext_articles/339cf175.ext.json)
 
 ---
 
@@ -64,6 +104,8 @@ He said it is against the Cabinet decision for financial institutions to adverti
 
 [Data](articles/6649793c.json)
 
+[Extended Data](ext_articles/6649793c.ext.json)
+
 ---
 
 ### No strike tomorrow; trains will operate as usual
@@ -81,6 +123,8 @@ Train services will operate as scheduled for the convenience of the commuters.
 ◼️
 
 [Data](articles/ef9a603b.json)
+
+[Extended Data](ext_articles/ef9a603b.ext.json)
 
 ---
 
@@ -2193,57 +2237,5 @@ Two arrivals from a motorcycle shot dead in front of the airport.
 [Data](articles/57243be2.json)
 
 [Extended Data](ext_articles/57243be2.ext.json)
-
----
-
-### We will never deceive people: Basil
-
-*2024-03-05 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களை-ஒருபோதும்-ஏமாற்ற-மாட்டோம்-பசில்/175-334219) · `ta`
-
-Basil Rajapaksa, founder of Sri Lanka Peoples Alliance, claims his party never deceives people, despite facing criticism. He returned to Sri Lanka, stating no intention to re-enter parliament, and emphasized the importance of making changes and addressing challenges in elections.
-
-🟩
-
-Basil Rajapaksa, the founder of the Sri Lanka Peoples Alliance (PA), has said that his party has never tried to deceive the people.
-
-Returning to the country this morning (05), he said this while commenting to the media.
-
-He also stated that he had no intention of coming back to parliament and that he would make arrangements for any election.
-
-Basil Rajapakse said he hoped to make a change where necessary, and that every election is a challenge.
-
-“We never deceive people. We do what people say. We are doing wrong in some places. People don't accept what we say. There are also opportunities we do not accept what people say sometimes. We correct them. ”
-
-◼️
-
-[Data](articles/894f83c0.json)
-
-[Extended Data](ext_articles/894f83c0.ext.json)
-
----
-
-### We will never deceive people: Basil
-
-*2024-03-05 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/மக்களை-ஒருபோதும்-ஏமாற்ற-மாட்டோம்-பசில்/52-334219) · `ta`
-
-Basil Rajapaksa, founder of the Sri Lanka Peoples Alliance, claims his party has never deceived the people. He returned to Sri Lanka today, stating he has no intention of returning to parliament and will arrange for any election. He hopes to make necessary changes, acknowledging every election is a challenge.
-
-🟩
-
-Basil Rajapaksa, the founder of the Sri Lanka Peoples Alliance (PA), has said that his party has never tried to deceive the people.
-
-Returning to the country this morning (05), he said this while commenting to the media.
-
-He also stated that he had no intention of coming back to parliament and that he would make arrangements for any election.
-
-Basil Rajapakse said he hoped to make a change where necessary, and that every election is a challenge.
-
-“We never deceive people. We do what people say. We are doing wrong in some places. People don't accept what we say. There are also occasions we do not accept what people say. We correct them. ”
-
-◼️
-
-[Data](articles/a19ab487.json)
-
-[Extended Data](ext_articles/a19ab487.ext.json)
 
 ---

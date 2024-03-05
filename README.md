@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 04:33:26**
+As of **2024-03-06 04:49:50**
 
 ## Newspaper Stats
 
-*Scraped **11,115** Articles*
+*Scraped **11,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 936
 tamilmirrorlk | 1,349
 adaderanalk | 1,354
 virakesarilk | 1,508
-dailymirrorlk | 1,698
+dailymirrorlk | 1,699
 adaderanasinhalalk | 1,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,115 (100.0%) of 11,115 articles have been extended.
+11,115 (100.0%) of 11,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### All parties Sticking to IMF pact vital to see Lanka out of woods  - British HC Andrew Patrick
+
+*2024-03-06 03:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/All-parties-Sticking-to-IMF-pact-vital-to-see-Lanka-out-of-woods-British-HC-Andrew-Patrick/231-278302) · `en`
+
+Sri Lanka has come a long way. It has made some very significant  progress over the past year though it caused a lot of hardship for  people.
+
+Better to go back to the situation before 2019 when the UNHRC Resolution was consensual
+
+British High Commissioner Andrew Patrick, in an exclusive interview with Daily Mirror, shared his views on bilateral ties and the way forward to strengthen bonds.
+
+He spoke to Daily Mirror in the wake of the two countries celebrating 75 years of diplomatic relations.
+
+Q   In recent times, we saw the two countries engaging with each other in a number of ways. So what is the new direction on bilateral relations between the UK and Sri Lanka?
+
+Well, I am not sure of a new direction in bilateral relations. However, we’ve had very strong bonds for many years enabling both countries to celebrate 75 years of diplomatic relations recently.
+
+...
+
+[Data](articles/d7337c0d.json)
+
+---
 
 ### Action to serve electric buses
 
@@ -2229,31 +2251,5 @@ Accordingly, it is reported that the two tourists were allegedly assaulted by th
 [Data](articles/c755497a.json)
 
 [Extended Data](ext_articles/c755497a.ext.json)
-
----
-
-### Restaurant arrested with drugs
-
-*2024-03-05 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194163) · `si`
-
-"Drug dealer 'Singumba' arrested with 50 grams of ice. Relative of Kudu Anju, believed hiding abroad. Identified as sister of murdered Ratmalana victim. Mount Lavinia Divisional Investigation Bureau led the raid."
-
-🟩
-
-A woman named 'Singumba', a drug dealer, was arrested with ice drugs.
-
-She had found 50 grams of ice drugs and the value of Rs.
-
-It is also reported that Kudu Anju is a relative of Kudu Anju, who is believed to be hiding abroad.
-
-The woman was identified as the eldest sister of the 'flesh' was the oldest sister of the 'flesh', the murdered Ratmalana, near the Ratmalana Railway Station.
-
-The raid was carried out by the Mount Lavinia Divisional Investigation Bureau.
-
-◼️
-
-[Data](articles/e4537ddc.json)
-
-[Extended Data](ext_articles/e4537ddc.ext.json)
 
 ---

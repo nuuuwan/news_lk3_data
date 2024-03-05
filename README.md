@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 08:51:46**
+As of **2024-03-05 09:02:50**
 
 ## Newspaper Stats
 
-*Scraped **10,906** Articles*
+*Scraped **10,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 924
-adaderanalk | 1,324
-tamilmirrorlk | 1,329
+adaderanalk | 1,325
+tamilmirrorlk | 1,330
 virakesarilk | 1,458
 dailymirrorlk | 1,661
 adaderanasinhalalk | 1,699
@@ -26,25 +26,51 @@ adaderanasinhalalk | 1,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,902 (100.0%) of 10,906 articles have been extended.
+10,906 (100.0%) of 10,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### நாட்டில் வறட்சியான காலநிலையே காணப்படும்
+### கூகுள் ’மப்’பைநம்பி அலரி மாளிகைக்குள் சென்ற இருவர் கைது
+
+*2024-03-05 08:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மப்-பைநம்பி-அலரி-மாளிகைக்குள்-சென்ற-இருவர்-கைது/175-334212) · `ta`
+
+கூகுள் வரைபடத்தில் உள்ள வழிமுறைகளைப் பின்பற்றி, கொழும்பு அலரிமாளிகை வளாகத்திற்குள் தவறுதலாக அத்துமீறி நுழைந்த இருவருக்கு, கோட்டை நீதவான் பிணை வழங்கியுள்ளார்.
+
+இச்சம்பவத்தைத் தொடர்ந்து மென் பொறியியலாளர் மற்றும் கடலோடி ஆகிய இருவரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இருவரும் கொள்ளுப்பிட்டியில் உள்ள இரவு விடுதிக்கு சென்று மது அருந்தியதாகவும் முஹந்திரம் வீதியில் உள்ள தங்குமிடத்திற்கு திரும்ப முயற்சித்ததாகவும் கூகுள் வரைபடத்தை நம்பியிருந்ததாகவும் கூறப்படுகிறது.
+
+இருப்பினும், வழிகாட்டுதல்கள் அவர்களை அலரி மாளிகையின் சுற்றுச்சுவருக்கு அருகில் ஒரு முட்டுச்சந்திற்கு செல்ல வழிகாட்டியுள்ளது. தங்கள் வழியைக் கண்டுபிடிக்கும் முயற்சியில், அவர்கள் சுவரைக் கடந்து அலட்சியமாக அலரிமாளிகை வளாகத்திற்குள் நுழைந்தனர்.
+
+இதன்போது, ​​பிரதமரின் பாதுகாப்பு பிரிவின் அதிகாரிகள் குறித்த இருவரையும் கைது செய்து கொள்ளுப்பிட்டி பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/3771ede8.json)
+
+---
+
+### There is a dry weather in the country
 
 *2024-03-05 08:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-வறட்சியான-காலநிலையே-காணப்படும்/175-334211) · `ta`
 
-மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் இரத்தினபுரி  மாவட்டத்திலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Dry weather in the country. Temperature checks in Western and Southern Provinces, Ratnapura. Morning snowfall in Sabaragamuwa and Western Provinces. East to northeast sea regions from Mannar to Hambantota at 20-30 km/h.
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களில் காலை வேளையில் பனிமூட்டம் காணப்படும்.
+🟩
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் மன்னார்  தொடக்கம் காங்கேசன்துறை,  திருகோணமலை, பொத்துவில், ஹம்பாந்தோட்டை ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களில் கிழக்குத் திசையில் இருந்து வடகிழக்குத் திசையை நோக்கியும்  நாட்டை சூழ உள்ள ஏனைய கடல் பிராந்தியங்களில் தென்மேற்குத் திசையில் இருந்து  அல்லது மாறுபட்ட திசைகளில் இருந்தும் காற்று வீசும்.
+The Department of Meteorology said that the temperature will be seen today in the Western and Southern Provinces, as well as in the Ratnapura district.
+
+In some parts of Sabaragamuwa and the Western Provinces, snowfall is seen in the morning.
+
+In the sea regions, from the east direction to the northeastern direction in the sea, from Mannar to Kankesanthurai, Trincomalee, Pottuvil and Hambantota, at a speed of 20 to 30 km / h, the other sea regions are southwest of the country.
 
 ◼️
 
 [Data](articles/84720636.json)
+
+[Extended Data](ext_articles/84720636.ext.json)
 
 ---
 
@@ -96,6 +122,24 @@ Minister of Education Susil Premajayantha says that the proposed educational ref
 
 ---
 
+### Mainly fair weather expected to prevail today
+
+*2024-03-05 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97733/mainly-fair-weather-expected-to-prevail-today) · `en`
+
+The Department of Meteorology says mainly fair weather is expected to prevail in most parts of the island.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces during the morning.
+
+Mainly fair weather will prevail in sea areas around the island.
+
+Winds will be easterly to north-easterly in the sea areas off the coast extending from Mannar to Matara via Kankesanturai, Trincomalee, Pottuvil and Hambantota, and winds will be south-westerly or variable in direction in the other sea areas around the island. The wind speed will be 20-30 kmph.
+
+◼️
+
+[Data](articles/0cbf7b77.json)
+
+---
+
 ### Mainly fair weather expected today
 
 *2024-03-05 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97733/mainly-fair-weather-expected-today-) · `en`
@@ -107,6 +151,8 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 ◼️
 
 [Data](articles/7e554ac0.json)
+
+[Extended Data](ext_articles/7e554ac0.ext.json)
 
 ---
 
@@ -452,27 +498,39 @@ Tipper collided with a man who was taken to Mannar Hospital. (A)
 
 ---
 
-### මානව හිමිකම් කවුන්සිලයේ 55 වන සැසිවාරය: රජය ගෙනා නව පනත් සහ පොලිස්පතිවරයාගේ පත් කිරීම පිළිබඳ  මානව හිමිකම් කොමසාරිස්ගෙන් ප්‍රකාශයක්
+### 55th Session of the Human Rights Council: A statement from the Appointment of the IGP and the appointment of IGP
 
 *2024-03-05 02:40:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0x38vq6x5no) · `si`
 
-මානව හිමිකම් කවුන්සිලයේ 55 වන සැසිවාරය: රජය ගෙනා නව පනත් සහ පොලිස්පතිවරයාගේ පත් කිරීම පිළිබඳ  මානව හිමිකම් කොමසාරිස්ගෙන් ප්‍රකාශයක්
+The 55th Session of the Human Rights Council began in Geneva, with the UN Secretary-General Volker Turk addressing the session. Foreign Minister Ali Sabri emphasized the need to address the suffering of civilians and take immediate action. The session also discussed Sri Lanka's political transformation, economic recovery, and national unity. The UN High Commissioner for Human Rights called for measures to investigate human rights violations and accountability. The Supreme Court highlighted the appointment of Deshabandu Tennakoon as the new IGP in 2010. The government's focus on economic recovery and reconciliation was noted, with the establishment of a Truth, Reconciliation, and Reconciliation Commission.
 
-එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 55 වන සැසිවාරය පසුගියදා  (පෙබරවාරි මස 26) ජිනීවා නුවර දී ආරම්භ විය.
+🟩
 
-මෙවර මානව හිමිකම් කොමිසමේ සැසිවාරය අප්‍රේල් මස 05 වෙනිදා දක්වා පැවැත්වීමට නියමිත ය.
+55th Session of the Human Rights Council: A statement from the Appointment of the IGP and the appointment of IGP
 
-මෙම සැසිවාරයේ ආරම්භයේ දී එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම් ඇන්ටොනියෝ ගුටේරස් සහ මානව හිමිකම් පිලිබඳ කොමසාරිස් වොල්කර් ටර්ක් විසින් දේශන සිදුකරන ලදී.
+The 55th Session of the United Nations Human Rights Council (55th session began in Geneva).
 
-මානව හිමිකම් කඩවීමේ වින්දිතයින් බවට පත් වූ පුද්ගලයින් සිහිකරමින් සැසිවාරය ආරම්භයේදී ඊට සහභාගී වූ සියලුම දෙනා මිනිත්තුවක කාලයක් නිශ්ශබ්දතාවය ආරක්ෂා කරන ලදී.
+This year's HRSE session will be held on April 5th April.
 
-ගාසා තීරයේ ඇති වූ දරුණු මානුෂීය තත්ත්වයන්ට ඵලදායී ලෙස ආමන්ත්‍රණය කිරීමේදී එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය දෙබිඩි පිළිවෙත්වලින් වැළකී සිටීමේ වැදගත්කම ගැන අවධාරණය කිරීමට කැමති බවට විදේශ කටයුතු අමාත්‍ය අලි සබ්රී විසින් 55 වන මානව හිමිකම් සැසිවාරය අමතමින් පැවසුවේය.
+At the beginning of the session, the United Nations Secretary-General of the United Nations General Secretary Volker Turk were lectured.
 
-'පලස්තීනය නොව සාමය වෙනුවෙන් දුන් ඡන්දයක්' - විදේශ අමාත්‍ය අලි සබ්රි
+The silence was preserved at the beginning of the session at the beginning of the session.
+
+Addressing the 55th Human Rights Council session said,
+
+'No election for Peacers' - Foreign Minister Ali Sabri
+
+Foreign Minister further stated that the Human Rights Council has added to a previous recorded video on February 27
+
+In implementing political agendas, the suffering of innocent civilians should not be ignored and take immediate action to relieve their misery.
+
+The Minister of External Affairs also reported this to the Human Rights Session regarding the situation in Sri Lanka.
 
 ...
 
 [Data](articles/38b080f6.json)
+
+[Extended Data](ext_articles/38b080f6.ext.json)
 
 ---
 
@@ -1148,23 +1206,29 @@ Expressing the verdict, the judge said that the suspect had arrested the suspect
 
 ---
 
-### ඉන්ධන මිල සංශෝධනය වෙයි
+### Fuel revision is revised
 
 *2024-03-04 21:35:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සංශෝධනය-වෙයි/11-408430) · `si`
 
-අද මධ්‍යම රාත්‍රි යේ සිට ක්‍රියාත්මක වන  පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+Ceylon Petroleum Corporation revises fuel prices: a liter of fuel now costs Rs. 458, down from Rs. 468. 95 Octane 95 Petter is now Rs. 447, down from Rs. 456. Kerosene prices drop by Rs. 5.
 
-ලංකා සුපිරි ඩීසල් ලීටරයක මිල රුපියල් 10කින් අඩුකර ඇති අතර නව මිල රුපියල් 458කි.
+🟩
 
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිලරුපියල් 9කින් අඩුකර ඇති අතර නව මිල රුපියල් 447කි.
+The Ceylon Petroleum Corporation has taken steps to revise the fuel price of fuel as operating today.
 
-භූමිතෙල් ලීටරයක මිල රුපියල් 5කින් අඩුකර ඇති අතර නව මිල රුපියල් 257කි.
+The price of a liter of Sri Lanka has been reduced by Rs.10 and the new price is Rs. 458.
 
-කෙසේ වෙතත් 92 පෙට්‍රල් (ලීටරයක් රුපියල් 371) හා ලංකා ඔටෝ ඩීසල් (ලීටරයක් රුපියල් 363යි) යන ඉන්ධන වල මිල ගණන් වෙනස් වී නොමැත.
+95 Octane 95 Petter has been reduced by 9 milliluvil and the new price is Rs. 447.
+
+The price of a liter of kerosene has been reduced by Rs. 5 rupees.
+
+However, the prices of the fuel have not changed at Rs.
 
 ◼️
 
 [Data](articles/490e9b92.json)
+
+[Extended Data](ext_articles/490e9b92.ext.json)
 
 ---
 
@@ -2179,45 +2243,5 @@ With the support of the Government of Japan, the United Nations Development Prog
 [Data](articles/2f7c6671.json)
 
 [Extended Data](ext_articles/2f7c6671.ext.json)
-
----
-
-### Amid security concerns, India-funded unique ID card project faces delay in Sri Lanka
-
-*2024-03-04 16:10:00* · [`economynextcom`](https://economynext.com/amid-security-concerns-india-funded-unique-id-card-project-faces-delay-in-sri-lanka-152966/) · `en`
-
-ECONOMYNEXT – An India-funded unique ID card project, which has raised concerns over personal data security, has faced delay in Sri Lanka with the second call for bids has not been invited for two months as planned earlier, officials said.
-
-President Ranil Wickremesinghe’s government last year has disqualified the two Indian bidders Madras Security Printers (MSP) and Protein Technologies which won the tenders in the previous bidding process for the project which has raised concern over possible breach of personal data protection.
-
-India has already given an advance aid of 450 million Indian rupees to the Sri Lankan government to fund the unique ID project, which aims to collect biographic and biometric information, including facial, iris, and fingerprint data.
-
-...
-
-[Data](articles/a00cc2cb.json)
-
-[Extended Data](ext_articles/a00cc2cb.ext.json)
-
----
-
-### Parliament can remove the executive power of the president: Parliamentary powers cannot be canceled by Parliament - President
-
-*2024-03-04 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/177892) · `ta`
-
-It seems like you've shared a detailed speech or address that discusses the economic, legal, and political landscape of a country, focusing on the need for new laws, economic transformation, and the role of Parliament. This text appears to be a comprehensive overview of the current challenges and proposed solutions for the country's future. If you have specific questions or need assistance with a particular aspect of this speech, such as its analysis, editing, or further development, please let me know how I can assist you further.
-
-🟩
-
-President Ranil Wickremesinghe said that 42 new laws have been passed in Parliament in the last 14 months to bring about a new economic change in the country.. The President also pointed out that 62 laws are expected to be passed and passed in Parliament and that if it is not passed in Parliament, it will be passed in the next Parliament.
-
-President Ranil Wickremesinghe made this statement in a discussion with young lawyers on the legal reform held at the Bandaranaike International Conference Hall in Colombo on Sunday (03).
-
-J.R.. The President also stressed that many new laws would be introduced for the rapid economic change of the country, just as Jayawardene introduced new laws to create an open economy in 1977.
-
-...
-
-[Data](articles/a9a21186.json)
-
-[Extended Data](ext_articles/a9a21186.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 22:17:43**
+As of **2024-03-05 22:34:26**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 1,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,064 (99.9%) of 11,070 articles have been extended.
+11,070 (100.0%) of 11,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### බිඳවැටුණු සමාජ මාධ්‍යජාල යථා තත්ත්වයට
+### Breaded social media restoration
 
 *2024-03-05 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194181) · `si`
 
-ලොව ප්‍රධානතම සමාජ මාධ්‍ය ජාල අතර ඉදිරියෙන් ඇති Facebook, Instagram සහ Messenger ජාල අද (05) රාත්‍රියේ හදිසි බිඳවැටීමකට ලක්විය.
+Instagram and Messenger were leading in social media restoration, with reports from various countries indicating that social media services have been restored.
 
-එම තත්ත්වය ලොව රටවල් රැසකින් වාර්තා වී තිබූ අතර මේ වනවිට එම සමාජ මාධ්‍යජාල යථා තත්ත්වටයට පත්වී ඇති බව වාර්තා වෙයි.
+🟩
+
+Instagram, and Messenger networks were ahead of the world's leading social media outlets today (05).
+
+It was reported that the situation was reported from many countries in the world and the social media has been restored.
 
 ◼️
 
 [Data](articles/4f39a2ac.json)
+
+[Extended Data](ext_articles/4f39a2ac.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ He lamented the nation's current plight, contrasting it with the promising traje
 ...
 
 [Data](articles/990a547e.json)
+
+[Extended Data](ext_articles/990a547e.ext.json)
 
 ---
 
@@ -170,6 +178,8 @@ During the surveillance at deep sea, the team found a country boat sailing towar
 
 [Data](articles/722113bd.json)
 
+[Extended Data](ext_articles/722113bd.ext.json)
+
 ---
 
 ### 324 fatal accidents for two months - 341 deaths
@@ -221,6 +231,8 @@ Reports on DownDetector, a website that tracks internet service outages, surged 
 ◼️
 
 [Data](articles/43e71511.json)
+
+[Extended Data](ext_articles/43e71511.ext.json)
 
 ---
 
@@ -301,6 +313,8 @@ Apart from Pathirana's struggle, Sri Lanka's overall performance was excellent a
 ...
 
 [Data](articles/4825a234.json)
+
+[Extended Data](ext_articles/4825a234.ext.json)
 
 ---
 
@@ -493,6 +507,8 @@ The autobiography 'Mage Kathawa' of SJB MP Imthiaz Bakeer Markar was launched at
 ◼️
 
 [Data](articles/30b3f85f.json)
+
+[Extended Data](ext_articles/30b3f85f.ext.json)
 
 ---
 

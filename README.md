@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 22:34:26**
+As of **2024-03-05 22:51:20**
 
 ## Newspaper Stats
 
-*Scraped **11,070** Articles*
+*Scraped **11,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,346
 adaderanalk | 1,350
-virakesarilk | 1,493
+virakesarilk | 1,497
 dailymirrorlk | 1,694
 adaderanasinhalalk | 1,734
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 1,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,070 (100.0%) of 11,070 articles have been extended.
+11,070 (100.0%) of 11,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### சகல அரச மற்றும் தனியார் சேவைத்துறைகளில் சம்பளம் அதிகரிக்கப்பட வேண்டியது அவசியமாகும் - மத்திய வங்கி
+
+*2024-03-05 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178014) · `ta`
+
+சகல அரச மற்றும் தனியார் சேவைத்துறைகளில் சம்பளம் அதிகரிக்கப்பட வேண்டியது அவசியமாகுமென மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க தெரிவித்தார்.
+
+பொருளாதார நெருக்கடியிலிருந்து மீளும் போது முக்கியமான சம்பளம் அதிகரிக்கப்பட வேண்டுமென மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/9c34b72b.json)
+
+---
+
+### சபாநாயகரின் செயற்பாடுகள் மக்கள் மத்தியில் கேலிக் கூத்தாகியுள்ளன - சந்திம வீரக்கொடி சாடல்
+
+*2024-03-05 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177986) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவின் செயற்பாடுகள் ஒட்டுமொத்த மக்கள் மத்தியில் கேலிக்கூத்தாக்கப்பட்டுள்ளன. சபாபீடத்தில் தலைமை தாங்குபவர்கள் அனைவரும் வெட்கப்படும் வகையில் சபாநாயகரின் செயற்பாடுகள் காணப்படுகின்றன என எதிரணியின் சுயாதீன பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடி தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை  (05) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம் உள்ளிட்ட நிதித்துறையுடன் தொடர்புடைய சட்டமூலங்கள் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+புதிய பொலிஸ்மா அதிபர் நியமனத்தில் அரசியலமைப்பு மீறப்பட்டுள்ளது.சபாநாயகரின் செயற்பாடுகளினால் புதிய பொலிஸ்மா அதிபரும் அவமதிக்கப்பட்டுள்ளார்.சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவின் செயற்பாடுகள்  மக்கள் மத்தியில் கேலிக்கூத்தாக்கப்பட்டுள்ளன. சபைக்கு தலைமை தாங்குபவர்கள் அனைவரும் வெட்கப்படும் வகையில் சபாநாயகரின் செயற்பாடுகள் காணப்படுகின்றன.
+
+...
+
+[Data](articles/69c7c167.json)
+
+---
+
+### வழமைக்கு திரும்பியது பேஸ்புக்!
+
+*2024-03-05 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178013) · `ta`
+
+உலகளாவிய ரீதியில் சமூக ஊடகங்களில் ஒன்றான பேஸ்புக் செயலிழந்து காணப்பட்ட நிலையில், சுமார் ஒரு மணி நேரத்தின் பின் மீண்டும் வழமைக்குத் திரும்பியுள்ளது.
+
+அந்தவகையில், உலகளாவிய ரீதியில் முடங்கி இருந்த பேஸ்புக், இன்ஸ்டாக்ராம் மற்றும் மெசெஞ்சர் ஆகியன மீண்டும் செயற்பட ஆரம்பித்துள்ளன.
+
+◼️
+
+[Data](articles/9578ee65.json)
+
+---
+
+### We provide assistance to the needs of Sri Lanka: Steps to resume passenger shipping service - Santosh Ja
+
+*2024-03-05 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178010) · `ta`
+
+Indian High Commissioner Santosh Jha announced Sri Lanka and Nagapattinam will resume passenger shipping service by month-end, highlighting India's assistance to Sri Lanka's needs, including infrastructure, digital technology, and the Edka Agreement's benefits to Sri Lanka.
+
+🟩
+
+Indian High Commissioner Santosh Jha said that we have provided assistance to the needs of Sri Lanka and that the Edka Agreement will benefit Sri Lanka than India.
+
+He added that by the end of this month, Sri Lanka and Nagapattinam are taking steps to resume the passenger shipping service.
+
+The Indian High Commissioner Santosh Ja said in response to a question answer in the "Indian Story: Reformed | Reform | Change" organized by the Sri Lanka Press Association at Hilton Hotel in Colombo today (5).
+
+As far as India is concerned, we are carrying out infrastructure and development in the city and villages with speed and power. Our Prime Minister gives the best leadership.
+
+India has been successful in the city and rural level in transport, industry, 5G technology and digital. Leadership played an important role.
+
+In particular, the digital ID card, digital financial and cash flow digit ID card can be addressed.
+
+...
+
+[Data](articles/915ba504.json)
+
+[Extended Data](ext_articles/915ba504.ext.json)
+
+---
 
 ### Breaded social media restoration
 
@@ -74,6 +146,24 @@ He lamented the nation's current plight, contrasting it with the promising traje
 
 ---
 
+### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை கையளிப்பு
+
+*2024-03-05 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178011) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிரான நம்பிக்கையில்லா பிரேரணையை ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டார பாராளுமன்ற பதில் செயலாளரான பிரதி செயலாளர் நாயகம் சமிந்த குலரத்னவிடம் கையளித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (5) பிரதி செயலாளர் நாயகத்திடம் எதிர்க்கட்சியினர் நம்பிக்கையில்லா பிரேரணை தீர்மானத்தைக் கையளித்தனர்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உள்ளிட்ட ஐக்கிய மக்கள் சக்தி மற்றும் ஐக்கிய மக்கள் சக்தி கூட்டணி உறுப்பினர்கள்,தமிழ்த் தேசியக் கூட்டமைப்பு,தேசிய மக்கள் சக்தி மற்றும் சுயாதீன எதிரணி உறுப்பினர்கள் உள்ளிட்ட 44 பேர் இந்த நம்பிக்கையில்லா பிரேரணையில் கைச்சாத்திட்டுள்ளனர்.
+
+பாராளுமன்ற பிரதி செயலாளர் நாயகத்திடம் சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை கையளிக்கப்படும் போது,ஐக்கிய மக்கள் சக்தி செயலாளருடன் எதிர்க்கட்சி பிரதம கொரடாவான லக்‌ஷ்மன் கிரியெல்ல, தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன், சுயாதீன எதிரணி உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ், சுயாதீன உறுப்பினர் சந்திம வீரக்கொடி ஆகியோரும் பங்குபற்றியிருந்தனர்.
+
+...
+
+[Data](articles/f1cf32b4.json)
+
+---
+
 ### Sri Lanka, India working to link power grids via $1.2bn undersea transmission line
 
 *2024-03-05 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97754/sri-lanka-india-working-to-link-power-grids-via-12bn-undersea-transmission-line) · `en`
@@ -89,34 +179,6 @@ Sulakshana Jayawardena, Secretary to the Ministry of Power and Energy said, “T
 [Data](articles/ae4d3f19.json)
 
 [Extended Data](ext_articles/ae4d3f19.ext.json)
-
----
-
-### We provide assistance to the needs of Sri Lanka: Steps to resume passenger shipping service - Santosh Ja
-
-*2024-03-05 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178010) · `ta`
-
-Indian High Commissioner Santosh Jha announced Sri Lanka and Nagapattinam will resume passenger shipping service by month-end, highlighting India's assistance to Sri Lanka's needs, including infrastructure, digital technology, and the Edka Agreement's benefits to Sri Lanka.
-
-🟩
-
-Indian High Commissioner Santosh Jha said that we have provided assistance to the needs of Sri Lanka and that the Edka Agreement will benefit Sri Lanka than India.
-
-He added that by the end of this month, Sri Lanka and Nagapattinam are taking steps to resume the passenger shipping service.
-
-The Indian High Commissioner Santosh Ja said in response to a question answer in the "Indian Story: Reformed | Reform | Change" organized by the Sri Lanka Press Association at Hilton Hotel in Colombo today (5).
-
-As far as India is concerned, we are carrying out infrastructure and development in the city and villages with speed and power. Our Prime Minister gives the best leadership.
-
-India has been successful in the city and rural level in transport, industry, 5G technology and digital. Leadership played an important role.
-
-In particular, the digital ID card, digital financial and cash flow digit ID card can be addressed.
-
-...
-
-[Data](articles/915ba504.json)
-
-[Extended Data](ext_articles/915ba504.ext.json)
 
 ---
 
@@ -2171,89 +2233,5 @@ The deadline to submit expressions of interest for SriLankan Airlines has also b
 [Data](articles/322f8d9f.json)
 
 [Extended Data](ext_articles/322f8d9f.ext.json)
-
----
-
-### Kaduwela Shooting
-
-*2024-03-05 13:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-වෙඩි-තැබීමක්/11-408434) · `si`
-
-A person in Korathota, Karattota, was involved in a shooting incident with a shopkeeper, suspected of extortion.
-
-🟩
-
-Navagamuwa Police say that a person arrived in front of a shopkeeper in Korathota, Karattota. The building materials came with another person to the sales plan and stopped the motorcycle and stopped the route and shouting and shouting and shouting and shouting and shouting with the sky to flee. The incident is suspected that the incident has been done on an extortion.
-
-◼️
-
-[Data](articles/1b730abe.json)
-
-[Extended Data](ext_articles/1b730abe.ext.json)
-
----
-
-### Kaduwela shoots
-
-*2024-03-05 13:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-වෙඩි-තබයි/11-408434) · `si`
-
-In Korathota, Karattota, a person allegedly attempted extortion by stopping a motorcycle, shouting, and fleeing.
-
-🟩
-
-Navagamuwa Police say that a person arrived in front of a shopkeeper in Korathota, Karattota. The building materials came with another person to the sales plan and stopped the motorcycle and stopped the route and shouting and shouting and shouting and shouting and shouting with the sky to flee. The incident is suspected that the incident has been done on an extortion.
-
-◼️
-
-[Data](articles/c559cb91.json)
-
-[Extended Data](ext_articles/c559cb91.ext.json)
-
----
-
-### New story on loan restructuring
-
-*2024-03-05 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194154) · `si`
-
-Sri Lanka aims to complete loan restructuring by Q2 2023, despite stable economic conditions. State Minister Shehan Semasinghe highlights a positive economic growth outlook for 2024.
-
-🟩
-
-State Minister Shehan Semasinghe says Sri Lanka will be able to end the restructuring of Sri Lanka in the second quarter of this year.
-
-Speaking in parliament, he said that despite stable as a country, the country had not been out of the risk zone.
-
-"It may take 6, 8, or 12 months to get out of the risk zone ..."
-
-The State Minister pointed out that there is a positive economic growth in 2024, he said.
-
-◼️
-
-[Data](articles/aad3dcaf.json)
-
-[Extended Data](ext_articles/aad3dcaf.ext.json)
-
----
-
-### New decision from the import of vehicle imports
-
-*2024-03-05 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194153) · `si`
-
-The cabinet approved importing electrical vehicles for Sri Lankans abroad, granting licenses to banks, and extending the validity period for cabhletes.
-
-🟩
-
-The cabinet approval has been given to the importation of electrical vehicles to Sri Lankans working in foreign countries.
-
-The Cabinet meeting held at the Cabinet meeting held on August 8, 2022 to provide licenses to Sri Lankans who work abroad to Sri Lanka's licensed banks.
-
-The 19th General Mahindariya cabhletes held on the 8th of June 2024 to extend the validity period of June 2024.
-
-The proposal was presented by the President of the Import and Export Regulations under the Import and Export Act, No. 01 of 1969, providing arrangements for this purpose.
-
-◼️
-
-[Data](articles/172a82df.json)
-
-[Extended Data](ext_articles/172a82df.ext.json)
 
 ---

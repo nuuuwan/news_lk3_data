@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 15:33:34**
+As of **2024-03-05 15:52:02**
 
 ## Newspaper Stats
 
-*Scraped **10,999** Articles*
+*Scraped **11,003** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 107
+colombotelegraphcom | 108
 bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
@@ -18,39 +18,105 @@ islandlk | 592
 adalk | 930
 adaderanalk | 1,338
 tamilmirrorlk | 1,343
-virakesarilk | 1,476
-dailymirrorlk | 1,676
+virakesarilk | 1,478
+dailymirrorlk | 1,677
 adaderanasinhalalk | 1,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,994 (100.0%) of 10,999 articles have been extended.
+10,999 (100.0%) of 11,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### அரசாங்க பாடசாலை மாணவர்களுக்கு இலவச உணவு
+### காசாவில் இடம்பெறும் இனப்படுகொலைகளுடன் அவுஸ்திரேலிய அமைச்சர்களுக்கு தொடர்பா ? ; சர்வதேச நீதிமன்றம் விசாரணைகளை மேற்கொள்ளவேண்டும் என வேண்டுகோள்
 
-*2024-03-05 15:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-பாடசாலை-மாணவர்களுக்கு-இலவச-உணவு/175-334232) · `ta`
+*2024-03-05 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177967) · `ta`
 
-அரச பாடசாலைகளில் 1-ம் வகுப்பு முதல் 5ம் வகுப்பு வரையிலான மாணவர்களுக்கான பாடசாலை உணவுத் திட்டத்தை செயல்படுத்துவதற்கு அமைச்சரவை அங்கீகாரம் அளித்துள்ளது.
+காசாவில் இடம்பெறும் இனப்படுகொலை குற்றங்களுடன் அவுஸ்திரேலிய அரசாங்கத்தின் அமைச்சர்களுக்கு தொடர்புள்ளதாக குற்றம்சாட்டியுள்ள சிட்னியை சேர்ந்த சட்ட நிறுவனம்  சர்வதேச நீதிமன்றம்இது குறித்து விசாரணைகளை மேற்கொள்ளவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளது.
 
-இலங்கையில் 100 கல்வி வலயங்களைச் சேர்ந்த 7,902 பாடசாலைகளில் பாடசாலை உணவுத் திட்டம்' அமுல்படுத்தப்படுவதாக அரசாங்கம் வெளிப்படுத்தியுள்ளது.
+சர்வதேச குற்றவியல் நீதிமன்றத்திற்குஎழுதியுள்ள கடிதத்தில் சிட்னியின் சட்ட நிறுவனம்  அவுஸ்திரேலிய அரசாங்கத்தின் அமைச்சர்களிற்கு இஸ்ரேல் காசாவில் முன்னெடுத்துவரும் நடவடிக்கைகளுடன் தொடர்பிருக்கலாம் என தெரிவித்துள்ளது.
 
-இத்திட்டம் பாடசாலை மாணவர் சமூகத்தின் மொத்தம் 1.08 மில்லியன் மாணவர்களை உள்ளடக்குவதாகவும் இதற்காக ஒரு மாணவருக்கு ஒரு நாளைக்கு உணவுக்காக ரூ. 85/- செலவிடப்படுகிறது.
+காசாவில் இடம்பெறும் இனப்படுகொலையுடன்  அவுஸ்திரேலிய அமைச்சர்களிற்கு தொடர்புள்ளதை தொடர்ந்து ஆவணப்படுத்திவந்துள்ளதாக பேர்ச்குரொவ்லீகல் என்ற நிறுவனம் தெரிவித்துள்ளது.
 
-ஆனால், இது குறித்து ஆய்வு செய்த அதிகாரிகள் குழுவானது அண்ணளவாக விலை ஏற்ற இறக்கத்தின் விளைவாக ஒரு உணவுக்கு குறைந்தபட்சம் ரூ. 110/-செலவிடப்படுகிறது எனத் தெரிவித்துள்ளது.
+இஸ்ரேலிற்கு சென்று இராணுவத்தில் இணைந்துகொள்ளும் அவுஸ்திரேலியர்கள்  காசாவில் போரில் ஈடுபடுகின்றனர் இது வெளிப்படையாக இடம்பெறுகின்றது எனவும் சிட்னியை சேர்ந்த சட்ட நிறுவனம் தெரிவித்துள்ளது.
 
-மேலும், பாடசாலை உணவுத் திட்டத்தின்' கீழ் 2024 ஆம் ஆண்டிற்கான தெரிவு செய்யப்பட்ட 917 பாடசாலைகளில் 200,000 மாணவர்களுக்கு 03 உணவு வகைகளை வழங்க சேவ் த சில்ட்ரன் அமைப்பு இணங்கியுள்ளது.
-
-இதன்படி, ஒரு மாணவரின் உணவுக்காக செலவிடப்படும் தொகையை 110/- ரூபாயாக அதிகரிக்க கல்வி அமைச்சர் முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+எனினும் இந்த குற்றச்சாட்டுகளை நிராகரித்துள்ள அவுஸ்திரேலிய பிரதமர் தனது அரசாங்கம் காசாவில் யுத்த நிறுத்தத்திற்கு அழைப்பு விடுத்துவருவதாக தெரிவித்துள்ளார்.
 
 ...
 
+[Data](articles/c701eb42.json)
+
+---
+
+### ஐநாவின் மனிதாபிமான அமைப்பின் பணியாளர்கள் ஹமாசுடன் இணைந்து செயற்பட்டனரா ? இஸ்ரேல் ஆதாரங்களை வெளியிடவேண்டும் என அவுஸ்திரேலியா வேண்டுகோள்
+
+*2024-03-05 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177968) · `ta`
+
+ஒக்டோபர் ஏழாம்திகதி தாக்குதல்களில் பாலஸ்தீனத்திற்கான ஐநாவின் நிவாரண அமைப்பின் பணியாளர்களும் ஈடுபட்டனர் என்பதற்கான ஆதாரங்களை இஸ்ரேல் வெளியிடவேண்டும் என அவுஸ்திரேலியா வேண்டுகோள் விடுத்துள்ளது.
+
+இந்த குற்றச்சாட்டுகள் குறித்து ஐநா மேற்கொண்டுள்ள விசாரணைகளிற்கு இஸ்ரேல் முழுமையான ஒத்துழைப்பை வழங்கவேண்டும்  ஆதாரங்களை வெளியிடவேண்டும் என ஐநாவிற்கான அவுஸ்திரேலியபிரதிநிதி ஜேம்ஸ் லார்சன் வேண்டுகோள் விடுத்துள்ளார்.
+
+ஐநாவின் மனிதாபிமான அமைப்பின் பணியாளர்கள் ஹமாசின் தாக்குதலில் இணைந்துகொண்டனர் என்ற இஸ்ரேலின் குற்றச்சாட்டுகள் குறித்துஅவுஸ்திரேலியா ஆழ்ந்த கவலை கொண்டுள்ளது என அவர் தெரிவித்துள்ளார்.
+
+இஸ்ரேலின் குற்றச்சாட்டுகளின் பின்னர் அவுஸ்திரேலிய உடனடியாக செயற்பட்டது என தெரிவித்துள்ள அவர் இஸ்ரேல் ஐநாவின் விசாரணைகளிற்கு ஒத்துழைப்பை வழங்கவேண்டும் என எதிர்பார்ப்பதாகவும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/dccc25ec.json)
+
+---
+
+### People still fall prey to human trafficking trap in Myanmar: Ali Sabry
+
+*2024-03-05 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/People-still-fall-prey-to-human-trafficking-trap-in-Myanmar-Ali-Sabry/108-278278) · `en`
+
+Parliament, March 5 (Daily Mirror)- Claiming that people still fall prey to human trafficking in Myanmar despite repeated warnings, Foreign Minister Ali Sabri today warned people not to visit Myanmar on open visas seeking employment.
+
+He told Parliament that three Sri Lankans had left for Myanmar from Dubai through Bangkok last week despite wide publicity and warnings on the Sri Lankans who have become victims of human trafficking and are trapped in Myanmar.
+
+The Minister said Tamil speaking people from Jaffna have been trapped recently as wide publicity had been given only in the Sinhala media and urged the need to give publicity to the incident in the Tamil media as well.
+
+He said the eight Sri Lankans who were rescued were detained by Myanmar police and steps will be taken to repatriate them soon.
+
+He warned people not to visit any country on open visas and said people must emigrate for employment only through SLBF approved agencies.
+
+◼️
+
+[Data](articles/dd3547f3.json)
+
+---
+
+### Free food for government school students
+
+*2024-03-05 15:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-பாடசாலை-மாணவர்களுக்கு-இலவச-உணவு/175-334232) · `ta`
+
+The Cabinet approved a school food scheme for 1st to 5th graders in government schools, covering 7,902 schools across Sri Lanka. The program will benefit 1.08 million students, with each student spending Rs.85. However, officials suggest spending Rs.110 per student. Save the Children will provide food to 200,000 students in 917 schools for 2024, and the government plans to increase spending to Rs.110 per student. The program will run for 170 days by 2024.
+
+🟩
+
+The Cabinet has approved the implementation of a school food scheme for students from 1st to 5th grade in government schools.
+
+The government has revealed that the school food program is being implemented in 7,902 schools in 100 educational zones in Sri Lanka.
+
+The scheme will include a total of 1.08 million students of the school student community and a student will have Rs.85/- is spent.
+
+However, a group of officials who examined the matter were at least Rs.110/-said.
+
+In addition, the Save the Children has agreed to provide 03 foods to 200,000 students in 917 selected schools for 2024 under the 'School Food Program'.
+
+Accordingly, the Cabinet has approved the idea of the Minister of Education to increase the amount spent on a student's food to Rs 110/-.
+
+Students in the initial category have been approved to implement the school food program for 170 days by 2024.
+
+◼️
+
 [Data](articles/df1fea2d.json)
+
+[Extended Data](ext_articles/df1fea2d.ext.json)
 
 ---
 
@@ -69,6 +135,8 @@ This latest move, the team management believes, will encourage players to perfor
 ◼️
 
 [Data](articles/dbbe23ce.json)
+
+[Extended Data](ext_articles/dbbe23ce.ext.json)
 
 ---
 
@@ -90,21 +158,29 @@ Earlier, approval was granted to provide an amount of Rs. 85 per day for a meal 
 
 [Data](articles/476d2e03.json)
 
+[Extended Data](ext_articles/476d2e03.ext.json)
+
 ---
 
-### பாராளுமன்ற உறுப்பினர்களை எச்சரித்தார் சபாநாயகர்
+### Speaker warned MPs
 
 *2024-03-05 14:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்களை-எச்சரித்தார்-சபாநாயகர்/175-334231) · `ta`
 
-பாராளுமன்ற உறுப்பினர்கள் தமக்கு எதிராக நியாயமற்ற குற்றச்சாட்டுகளை முன்வைப்பதாக சிரேஷ்ட அரச உத்தியோகத்தர்களிடமிருந்து தமக்கு முறைப்பாடுகள் கிடைத்துள்ளதாக சுட்டிக்காட்டிய சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, இந்த அதிகாரிகளை விமர்சிப்பதை தவிர்க்குமாறு பாராளுமன்ற உறுப்பினர்களிடம் கோரிக்கை விடுத்துள்ளார்.
+MP Mahinda Yapa Abeywardena warns MPs against criticizing senior government officials, suggesting that such comments will be removed from Hansard. He argues that MPs cannot respond to allegations against civil servants and suggests summoning officials to Parliament for investigation.
 
-“அரசு ஊழியர்கள் குறித்து எம்.பி.க்கள் கூறும் விமர்சனக் கருத்துக்கள் எதிர்காலத்தில் ஹன்சார்டில் இருந்து நீக்கப்படும்,” என்றார்.
+🟩
 
-"அரசு ஊழியர்களுக்கு எதிரான குற்றச்சாட்டுகளுக்கு பதிலளிக்க வழியில்லாத நிலையில், எம்.பி.க்கள் அவர்களை விமர்சிப்பது நியாயமற்றது. எம்.பி.க்கள் யாரேனும் ஒரு பொது அதிகாரியை விசாரிக்க வேண்டும் என்றால், அவர்கள் அத்தகைய அதிகாரிகளை பாராளுமன்றத்திற்கு வரவழைத்து அவ்வாறு செய்யலாம்," என்று அவர் கூறினார். கூறினார்.
+Speaker Mahinda Yapa Abeywardena, who pointed out that he had received complaints from senior government officials that MPs were making unfair allegations against him, have asked MPs to avoid criticizing these officials.
+
+“Critical comments made by MPs on civil servants will be removed from Hansard in the future.”
+
+“MPs criticize them is unreasonable as they have no way to respond to allegations against civil servants. If any MPs are to investigate a public official, they can summon such officials to Parliament, ”he said.. Said.
 
 ◼️
 
 [Data](articles/73acdef3.json)
+
+[Extended Data](ext_articles/73acdef3.ext.json)
 
 ---
 
@@ -158,17 +234,23 @@ The firearm in question is suspected to have been used in the shooting of the me
 
 ---
 
-### நம்பிக்கையில்லாப் பிரேரணை கையளிக்கப்பட்டது
+### The no -confidence motion was handed over
 
 *2024-03-05 14:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-கையளிக்கப்பட்டது/175-334229) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன மீதான நம்பிக்கையில்லா பிரேரணை சற்று முன்னர் பாராளுமன்ற பிரதி செயலாளர் நாயகம் சமிந்த குலரத்னவிடம் கையளிக்கப்பட்டது.
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena was handed over to Saminda Kularatne, Deputy Secretary General of Parliament, by the Opposition's Prime Minister Lakshman Kiriella, MPs Ranjith Mathuma Bandara, and Professor GL Peiris.
 
-எதிர்க்கட்சியின் பிரதம கொறடா லக்ஷ்மன் கிரியெல்ல, பாராளுமன்ற உறுப்பினர்களான ரஞ்சித் மத்தும பண்டார மற்றும் பேராசிரியர் ஜீ.எல்.பீரிஸ் ஆகியோரினால் நம்பிக்கையில்லா பிரேரணை கையளிக்கப்பட்டது.
+🟩
+
+The no -confidence motion on Speaker Mahinda Yapa Abeywardena was handed over to the Deputy Secretary General of Parliament Saminda Kularatne.
+
+The no -confidence motion was handed over by the Opposition's Prime Minister Lakshman Kiriella, MPs Ranjith Mathuma Bandara and Professor GL Peiris.
 
 ◼️
 
 [Data](articles/a35a24ca.json)
+
+[Extended Data](ext_articles/a35a24ca.ext.json)
 
 ---
 
@@ -468,7 +550,7 @@ It has been reported that 44 MPs have been signed.
 
 ---
 
-### School premises to be prevented from being used for political purposes
+### Govt. to prevent school premises from being used for political purposes
 
 *2024-03-05 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97741/school-premises-to-be-prevented-from-being-used-for-political-purposes) · `en`
 
@@ -1670,6 +1752,20 @@ Meanwhile, the no-confidence motion against Speaker is due to hand over the oppo
 
 ---
 
+### FUTA Condemns Appointing Deshabandu Tennakoon As New IGP
+
+*2024-03-05 09:25:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/futa-condemns-appointing-deshabandu-tennakoon-as-new-igp/) · `en`
+
+The Federation of University Teachers Association (FUTA) vehemently condemns the recent appointment of Mr. Deshabandu Tennakoon as the new Inspector General of Police (IGP) in Sri Lanka. This appointment not only disregards due process but also raises grave concerns regarding the independence and integrity of law enforcement in the country.
+
+Moreover, the newly appointed IGP has a troubling history that casts serious doubts on his suitability to lead the Sri Lankan Police Force. In a Fundamental Rights application case decided by the Supreme Court in 2023, he was found guilty of torturing a suspect, a gross violation of human rights and a clear indicator of his unsuitability for such a pivotal role.
+
+...
+
+[Data](articles/261f92ea.json)
+
+---
+
 ### Basil returns to Sri Lanka
 
 *2024-03-05 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97735/basil-returns-to-sri-lanka) · `en`
@@ -2109,99 +2205,5 @@ French President Emanuel Macrons has stated that this step is a universal messag
 [Data](articles/6f993351.json)
 
 [Extended Data](ext_articles/6f993351.ext.json)
-
----
-
-### Sri Lankan Airlines interest deadline, final bid timelines extended
-
-*2024-03-05 07:21:00* · [`economynextcom`](https://economynext.com/sri-lankan-airlines-interest-deadline-final-bid-timelines-extended-153131/) · `en`
-
-ECONOMYNEXT – The deadline to express interest in state-run SriLankan Airlines was extended to April 22, from March 05, and the timeline to submit final bids of qualified investors was pushed back to August 2024 from May, Sri Lanka’s divestiture agency said.
-
-The indicative timeline to cabinet approval for any sale agreement was pushed back to September from an earlier June.
-
-No reason was given for the extension. The timeline is close to election time.
-
-The selection of pre-qualified bidders is now scheduled for May 2024 from March and bidder one-to-one meeting to June.
-
-◼️
-
-[Data](articles/36f9eb69.json)
-
-[Extended Data](ext_articles/36f9eb69.ext.json)
-
----
-
-### Electricity now a luxury for a cluster of villages in Anuradhapura
-
-*2024-03-05 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-now-a-luxury-for-a-cluster-of-villages-in-Anuradhapura/108-278237) · `en`
-
-Electricity connection to a cluster of villages in Thantirimale, Anuradhapura has been disconnected leaving consumers in the lurch.
-
-The area people, mostly dependent on agriculture, complain that they are unable to pay for electricity because of the tariff hikes introduced last year. They say electricity is beyond their means because of poverty they are now engulfed in following the economic crisis.
-
-People in the villages such as Ihala Goneva, Sandamaleliya and Thambiyawa, are grappling with this issue. They also face issues related to food security and are victims of the human-elephant conflict.
-
-S. Padmini, 32, a villager of Thambiyawa, said her husband is now a wage earner with a daily income of Rs.2500. She said her husband had to cycle at least 15-20 kilometres a day in search of work.   “It is difficult for us to make ends meet,” she said.
-
-They are also facing issues related to food security and the human-elephant conflict
-
-◼️
-
-[Data](articles/eb050052.json)
-
-[Extended Data](ext_articles/eb050052.ext.json)
-
----
-
-### Emergency notice to the Chief Bank of the Cabinet
-
-*2024-03-05 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194136) · `si`
-
-The Chief Bank of the Cabinet has been ordered to submit salaries of Central Bank employees after a 70% increase was proposed. The Governor was summoned for questioning. The Cabinet and President Wickremesinghe oppose the raise. MPs and officials are being investigated.
-
-🟩
-
-The cabinet has informed the Chief Banks to submit the salaries of the Central Bank employees.
-
-It is reported that the notice has been made when the Chief Bank of the central bank leaders filed a 70% increase in the salaries of the central banking employees.
-
-The Chief Bank Governor Nandalal Weerasinghe summoned to the Cabinet to interrogate the payments.
-
-The Cabinet has been strongly opposed to the increase in the wage.
-
-Ministers have expressed their displeasure regarding the repairs of the Bank officials regarding the increase in the salary.
-
-President Ranil Wickremesinghe has also stated that he has not been made aware of hearing the salaries of the central banking employees.
-
-However, as the Cabinet and the Cabinet has not been given the orders of the cabinet, the heads of the country have been asked to submit it to the country's cash power.
-
-...
-
-[Data](articles/ed5e98b4.json)
-
-[Extended Data](ext_articles/ed5e98b4.ext.json)
-
----
-
-### Sri Lanka cuts Octane 95, Super Diesel price, kerosene mis-pricing worsens
-
-*2024-03-05 06:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-octane-95-super-diesel-price-kerosene-mis-pricing-worsens-153127/) · `en`
-
-ECONOMYNEXT – Sri Lanka has cut the price of Octane 05 petrol by 9.0 rupees to 447, and super diesel by 10 rupees to 458 a litre, effective midnight March 04, state-run Ceylon Petroleum Corporation said.
-
-Kerosene which was mis-priced at 262 rupees, was cut further by 5.0 rupees to 257 rupees, the statement said. Kerosene is similar to jetfuel.
-
-Petrol Octane was unchanged at 371 rupees a litre and standard diesel was unchanged at 363 rupees a litre.
-
-Sinopec Lanka said it was selling petrol at 368 rupees a litre and standard diesel at 360 rupees, both 3 rupees below CPC.
-
-Octane 95 petrol was at 447 rupees and super diesel was at 458 rupees, keeping pace with CPC.
-
-◼️
-
-[Data](articles/e77fba6a.json)
-
-[Extended Data](ext_articles/e77fba6a.ext.json)
 
 ---

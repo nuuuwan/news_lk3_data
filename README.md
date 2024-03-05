@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 18:51:02**
+As of **2024-03-05 19:02:48**
 
 ## Newspaper Stats
 
-*Scraped **11,041** Articles*
+*Scraped **11,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 1,344
 adaderanalk | 1,345
 virakesarilk | 1,489
 dailymirrorlk | 1,684
-adaderanasinhalalk | 1,726
+adaderanasinhalalk | 1,727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,039 (100.0%) of 11,041 articles have been extended.
+11,041 (100.0%) of 11,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### මේ වගේ සල්ලි අතට ආවොත් කල්පනාවෙන්
+
+*2024-03-05 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194173) · `si`
+
+පොතුහැර ප්‍රදේශයේදී ව්‍යාජ රුපියල් 5000 නෝට්ටු 45ක් සිය සන්තකයේ තබාගෙන සිටි පුද්ගලයෙක් ව අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+එබැවින් මුදල් නෝට්ටු සම්බන්ධයෙන් සැලකිලිමත් වන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දූව මහතා ජනතාවට දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/7f0be537.json)
+
+---
 
 ### Sri Lankan FM and OIC Secretary General discuss cooperation, Palestine
 
@@ -52,23 +66,29 @@ During the meeting, held at the OIC General Secretariat in Jeddah, both sides di
 
 ---
 
-### பனாமா முன்னாள் ஜனாதிபதி தேர்தலில் போட்டியிடத் தடை
+### Panama prohibits former presidential election
 
 *2024-03-05 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178003) · `ta`
 
-பனாமாவின் முன்னாள் ஜனாதிபதி ரிக்கார்டோ மார்ட்டினெலி  எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு தகுதியற்றவர் என நீதிமன்றமொன்று தீர்ப்பளித்துள்ளது.
+Panama's former President Ricardo Martineli, sentenced to 10 years for money laundering, is barred from the upcoming presidential election.
 
-பணச்சலவை குற்றச்சாட்டில் அவருக்கு கடந்த வருடம் 10 வருட சிறைத்தண்டனை விதிக்கப்பட்டமையே இதற்குக் காரணம்.
+🟩
 
-71 வயதான கோடீஸ்வர வர்த்தகரான ரிக்கார்டோ மார்ட்டினெலி, 2009 முதல் 2014 ஆம் ஆண்டுவரை ஜனாதிபதியாக பதவி வகித்தார்.
+A court has ruled that Panama's former President Ricardo Martineli is not eligible to contest the upcoming presidential election.
 
-அவரை கைது செய்யுமாறு பனாமா அதிகாரிகள் கடந்த மாதம் உத்தரவிட்டனர். அதையடுத்து நிக்கரகுவா தூரகத்தில்  மார்ட்டினெல்லி தஞ்சம் புகுத்தார்.
+This is because he was sentenced to 10 years in prison last year on money laundering.
 
-இந்நிலையில் மார்ட்டினெலி மீதான சிறைத்தண்டனை மேன்முறையீட்டில் நேற்று திங்கட்கிழமை உறுதிப்படுத்தப்பட்டது. அதையடுத்து அவர் இத்தேர்தலில் போட்டியிடுவதற்கு தகுதியற்றவர் என  பனமா தேர்தல்கள் நீதிமன்றம் தடை விதித்துள்ளது.
+71 -year -old billionaire businessman, Ricardo Martineli, was the president from 2009 to 2014.
+
+Panama officials ordered him to arrest him last month. Subsequently, Martinelli sought asylum in the Nikaragua distance.
+
+In this case, the jail sentence on Martineli was confirmed on Monday. Subsequently, the Panama Elections Court has banned him from contesting the election.
 
 ◼️
 
 [Data](articles/e466bcfa.json)
+
+[Extended Data](ext_articles/e466bcfa.ext.json)
 
 ---
 
@@ -98,17 +118,23 @@ The Collectuity Agreement (Collective Agreement) between the unions and manageme
 
 ---
 
-### ரயில்வே தொழிற்சங்கத்தினரின் பணிப்பகிஷ்கரிப்பு கைவிடப்பட்டது!
+### Railway union's work is abandoned!
 
 *2024-03-05 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178000) · `ta`
 
-பல கோரிக்கைகளை முன்வைத்து செவ்வாய்க்கிழமை (5) நள்ளிரவு முதல் ஆரம்பிக்கப்படவிருந்த பணிப்புறக்கணிப்பு போராட்டத்தை லோகோமோட்டிவ் ஆப்பரேட்டிங் பொறியியலாளர்கள் சங்கம் உட்பட பல ரயில்வே தொழிற்சங்கங்கள் கைவிட்டதாக  லோகோமோட்டிவ் ஒப்பரேட்டிங் பொறியியலாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Railway union work abandoned. Locomotive Comparison Engineers Association claims several unions, including Locomotive Operation Engineers Association, have ceased workforce struggle. Cabinet has provided a solution to promotion issue.
 
-பணிப்பகிஷ்கரிப்பின் பிரதான பிரச்சினையான பதவி உயர்வு தொடர்பான பிரச்சினைக்கு அமைச்சரவை தீர்வை வழங்கியதால் பணிப்புறக்கணிப்பு கைவிடப்பட்டதாகவும் தொழிற்சங்கம் தெரிவித்துள்ளது.
+🟩
+
+The Locomotive Comparison Engineers Association said that several railway trade unions, including the Locomotive Operation Engineers Association, have abandoned the workforce struggle which will be launched from midnight on Tuesday (5) on Tuesday (5).
+
+The union also said that the Cabinet has given a solution to the issue of promotion, the main issue of the workplace.
 
 ◼️
 
 [Data](articles/24a79dbe.json)
+
+[Extended Data](ext_articles/24a79dbe.ext.json)
 
 ---
 
@@ -2209,27 +2235,5 @@ Seven years have passed since the Right to Information Act in Sri Lanka, but the
 [Data](articles/f8e4d584.json)
 
 [Extended Data](ext_articles/f8e4d584.ext.json)
-
----
-
-### Sri Lanka may need private creditor deal to finalize official MOUs
-
-*2024-03-05 10:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-need-private-creditor-deal-to-finalize-official-mous-ex-governor-153196/) · `en`
-
-ECONOMYNEXT – Sri Lanka may have to wait for an in-principle deal with private creditors before final restructuring deals are inked with official creditors, former central bank governor Indrajit Coomaraswamy said.
-
-The official creditor committee made up of Paris Club lenders and India have given an in-principle deal for Sri Lanka. Exim Bank of China has also agreed to re-structure debt.
-
-Official creditors are likely to wait for a deal with private creditors to check the comparability with their restructure offer, Coomaraswamy told a forum organized by Sri Lanka’s Institute of Chartered Accountants (CA Sri Lanka).
-
-It will prevent a repetition of what happened in Zambia where the official creditors had a dispute over a private creditor deal, he said.
-
-Official creditors will probably wait for the private creditor deal to get confidence that the principle of comparability is followed, he said.
-
-...
-
-[Data](articles/029eb169.json)
-
-[Extended Data](ext_articles/029eb169.ext.json)
 
 ---

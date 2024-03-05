@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 20:02:55**
+As of **2024-03-05 20:17:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,049 (100.0%) of 11,051 articles have been extended.
+11,051 (100.0%) of 11,051 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,33 @@ The suspect, a 29-year-old resident of Polpithigama, had previously been arreste
 
 [Data](articles/9077a1eb.json)
 
+[Extended Data](ext_articles/9077a1eb.ext.json)
+
 ---
 
-### දුම්රිය වර්ජනය තාවකාලිකව අත්තිටුවයි
+### Railway strike temporarily opened
 
 *2024-03-05 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194176) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබු දුම්රිය වර්ජනය තාවකාලිකව අත්හිටවූ බව දුම්රිය ලොකමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසයි.
+The Locotiv Inter Engineers Association temporarily suspended a planned train strike from midnight today, following discussions with railway authorities. The strike was to protest a cabinet paper aimed at reducing wages.
 
-සිය වැටුප් අඩුකිරීමට යෝජනා කර ඇති කැබිනට් පත්‍රිකාව ඉවත්කරන ලෙස ඉල්ලා ඔවුන් එම වර්ජනය නිරත වීමට සැලසුම් කර තිබුණි.
+🟩
 
-ඒ අනුව මෙම වර්ජනය සදහා දුම්රිය නියාමකවරුන් හා අධීක්ෂණ කළමනාකරුවන් ඇතුළු දුම්රිය සංගම් ද එක්වීමට නියමිතව සිටි බව දුම්රිය ලොකමෝටිව් ඔපරේටින් ඉංජිනේරු සංගමය සදහන් කළේය.
+The train strike was temporarily suspended from midnight today, says the Locotiv Inter Engineers Association.
 
-කෙසේවෙතත් අද පස්වරුවේ දුම්රිය බලධාරීන් සමග මේ සම්බන්ධයෙන් සාකච්ඡාවක් පවත්වා තිබේ.
+They had planned to have the boycott demanding the removal of the cabinet paper proposed to reduce their wages.
 
-එහිදී දුම්රිය බලධාරින් සිදුකළ කරුණු පැහැදිලි කිරීමකින් අනතුරුව වර්ජනය තාවකාලිකව අත්හිටුවිමට තීරණය කළ බව දුම්රිය වෘත්තීය සමිති පැවසීය.
+Accordingly, the railway associations including Railway Regulators and Supervising Managers and Railways were due to join the strike.
+
+However, a discussion has held a discussion with railway authorities this afternoon.
+
+Railway Trade Unions said that after an explanation made by the railway authorities, the strike was temporarily suspended.
 
 ◼️
 
 [Data](articles/5f900b50.json)
+
+[Extended Data](ext_articles/5f900b50.ext.json)
 
 ---
 

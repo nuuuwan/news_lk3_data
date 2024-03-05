@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 04:02:45**
+As of **2024-03-06 04:17:36**
 
 ## Newspaper Stats
 
-*Scraped **11,114** Articles*
+*Scraped **11,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,52 @@ adalk | 936
 tamilmirrorlk | 1,349
 adaderanalk | 1,354
 virakesarilk | 1,508
-dailymirrorlk | 1,697
+dailymirrorlk | 1,698
 adaderanasinhalalk | 1,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,113 (100.0%) of 11,114 articles have been extended.
+11,114 (100.0%) of 11,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### மின்சார பஸ்களை சேவையில் ஈடுபடுத்த நடவடிக்கை
+### Action to serve electric buses
 
 *2024-03-06 03:44:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-பஸ்களை-சேவையில்-ஈடுபடுத்த-நடவடிக்கை/175-334257) · `ta`
 
-நவீன வசதிகளுடன் கூடிய 200 மின்சார பஸ்கள் சேவையில் ஈடுபடுத்தப்படவுள்ளன என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Transport Minister Bandula Gunawardena plans to introduce 200 electric buses with modern facilities, starting with 50 before the Tamil-Sinhala New Year. Future buses, including those imported by private companies and the Sri Lanka Transport Board, will be required to have CCRVs and cameras.
 
-இதன் முதற்கட்டமாக தமிழ் - சிங்கள புத்தாண்டுக்கு முன்னர் 50 மின்சார பஸ்களை சேவையில் ஈடுபடுத்தவுள்ளோம் என அவர் தெரிவித்துள்ளார்.
+🟩
 
-எதிர்காலத்தில் தனியாராலும், இலங்கை போக்குவரத்து சபையாலும் இறக்குமதி செய்யப்படும் அனைத்து பஸ்களிலும் சி.சி.ரி.வி. கெமராக்களை பொருத்துவது கட்டாயமாக்கப்படும் எனவும் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார். (a)
+Transport and Highways Minister Bandula Gunawardena said that 200 electric buses with modern facilities will be operated.
+
+As a first step, we will serve 50 electric buses before the Tamil -Sinhala New Year, ”he said.
+
+CCRVs in all buses imported by the private and the Sri Lanka Transport Board in the future. Minister Bandula Gunawardena has said that it will be mandatory to fit the cameras. (A)
 
 ◼️
 
 [Data](articles/4886c9ca.json)
+
+[Extended Data](ext_articles/4886c9ca.ext.json)
+
+---
+
+### Honouring the Unsung Heroes of Sri Lanka on International Women’s Day
+
+*2024-03-06 03:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Honouring-the-Unsung-Heroes-of-Sri-Lanka-on-International-Womens-Day/172-278301) · `en`
+
+As we celebrate International Women’s Day, it prompts us to wonder, what does it truly mean to be a woman? In a world marked by increasing competitiveness and relentless pace, women often find themselves questioning their place and value. Today, as we honour the spirit of womanhood, it is imperative to recognise the enduring legacy of women and address the scarcity of female role models to inspire the next generation.
+
+Being a woman is a profound journey, marked by the diverse roles of daughter, wife, mother, educator, career woman and a caregiver to her family. From the moment a child is cradled protectively in her womb, she begins a journey of nurturing and guidance that extends far beyond birth. A mother’s love envelops her child, shaping their perceptions and experiences as they navigate the world.
+
+...
+
+[Data](articles/5699ed7b.json)
 
 ---
 
@@ -2233,23 +2253,5 @@ The raid was carried out by the Mount Lavinia Divisional Investigation Bureau.
 [Data](articles/e4537ddc.json)
 
 [Extended Data](ext_articles/e4537ddc.ext.json)
-
----
-
-### Declaration of Assets and Liabilities Law amended to include new officer categories and personnel
-
-*2024-03-05 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97744/declaration-of-assets-and-liabilities-law-amended-to-include-new-officer-categories-and-personnel) · `en`
-
-In addition to the officials and categories of individuals required to disclose their assets and liabilities as outlined in the amended Declaration of Assets and Liabilities Law No. 01 of 1975 by Act No. 74 of 1988, Section 80 of the Anti-Corruption Act No. 09 of 2023 introduces provisions for further disclosure by various other officials and categories of individuals.
-
-The necessity for disclosing liabilities is emphasized, the President’s Media Division reported.
-
-According to this recent amendment, the President, Prime Minister, Members of Parliament, Provincial Governors, Provincial Council Members, and officers of the Provincial Public Service, elected representatives, and officers of Local Government bodies, as well as judges and government officials appointed by the President, are mandated to disclose their assets and liabilities.
-
-...
-
-[Data](articles/bde19bea.json)
-
-[Extended Data](ext_articles/bde19bea.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 22:51:20**
+As of **2024-03-05 23:02:44**
 
 ## Newspaper Stats
 
-*Scraped **11,074** Articles*
+*Scraped **11,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,159 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 933
-tamilmirrorlk | 1,346
-adaderanalk | 1,350
-virakesarilk | 1,497
-dailymirrorlk | 1,694
-adaderanasinhalalk | 1,734
+tamilmirrorlk | 1,347
+adaderanalk | 1,352
+virakesarilk | 1,498
+dailymirrorlk | 1,695
+adaderanasinhalalk | 1,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,070 (100.0%) of 11,074 articles have been extended.
+11,074 (99.9%) of 11,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### சகல அரச மற்றும் தனியார் சேவைத்துறைகளில் சம்பளம் அதிகரிக்கப்பட வேண்டியது அவசியமாகும் - மத்திய வங்கி
+### பணிப்புறக்கணிப்பு தற்காலிகமாக இடைநிறுத்தம்
+
+*2024-03-05 22:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பு-தற்காலிகமாக-இடைநிறுத்தம்/175-334255) · `ta`
+
+இன்று நள்ளிரவு முதல் முன்னெடுக்க திட்டமிடப்பட்டிருந்த ரயில் பணிப்புறக்கணிப்பு தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+தமது சம்பளத்தை குறைப்பதற்கு முன்வைக்கப்பட்ட அமைச்சரவை பத்திரத்தை நீக்குமாறு கோரியே அவர்கள் வேலை நிறுத்தத்தில் ஈடுபட திட்டமிட்டிருந்தனர்.
+
+இதன்படி புகையிரத கட்டுப்பாட்டாளர்கள், மேற்பார்வை முகாமையாளர்கள் உள்ளிட்ட புகையிரத தொழிற்சங்கங்களும் இந்தப் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக ரயில்வே லோகோமோட்டிவ் ஆப்பரேட்டிங் பொறியியலாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+னினும் இன்று பிற்பகல் இது தொடர்பில் ரயில்வே அதிகாரிகளுடன் கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+
+ரயில்வே அதிகாரிகளின் விளக்கத்திற்குப் பிறகு, பணிப்புறக்கணிப்பை தற்காலிகமாக இடைநிறுத்தத் தீர்மானித்ததாக ரயில்வே தொழிற்சங்கங்கள் தெரிவித்தன. R
+
+◼️
+
+[Data](articles/8971a351.json)
+
+---
+
+### மத்திய வங்கி அதிகாரிகளின் சம்பள அதிகரிப்பு சட்டத்துக்கு முரண் - தயாசிறி ஜயசேகர
+
+*2024-03-05 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178015) · `ta`
+
+அரச ஊழியர்கள் 20ஆயிரம் சம்பள அதிகரிப்பு மேற்கொள்ளுமாறு போராட்டம் நடத்தியபோது அதனை மேற்கொள்ள இடமளிக்காமல் மத்திய வங்கி அதிகாரிகள் தங்களின் சம்பளத்தை 70 வீதமாக அதிகரித்துக்கொண்டுள்ளது. இவ்வாறான அதிகாரத்தை மத்திய வங்கிக்கு வழங்குவது தொடர்பில் அரசாங்கம் தீர்மானிக்க வேண்டும். அத்துடன் மத்திய வங்கி அதிகாரிகளின் சம்பள அதிகரிப்பு சட்டத்துக்கு முரணானதாகும் என எதிர்க்கட்சி உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல்வாங்கல்கள் சட்டமூலம், நம்பிக்கைப்பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச்) சட்டமூலம், ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்குவிடுதல் (திருத்தச்) சட்டமூலம் மீதான இரண்டாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/176eab78.json)
+
+---
+
+### Three railway employees suspended for allegedly assaulting 2 foreigners
+
+*2024-03-05 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97755/three-railway-employees-suspended-for-allegedly-assaulting-2-foreigners) · `en`
+
+Two Class 2 Station Masters and a Railway Guard have been suspended from service for assaulting two foreigners at the Nawalapitiya railway station.
+
+◼️
+
+[Data](articles/7fe9d33a.json)
+
+---
+
+### Recent electricity tariff revision not given by the government
+
+*2024-03-05 22:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recent-electricity-tariff-revision-not-given-by-the-government/108-278298) · `en`
+
+Colombo, March 5 (Daily Mirror) - The recent electricity tariff revision was not given by the incumbent government or current political authorities but by the collective efforts of civil organisations, the public and the media, former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayaka said.
+
+Addressing the media today, he praised the 21.9 percent electricity tariff revision announced recently by the current PUCSL chairman.
+
+He claimed that the PUCSL members or the political authority did not agree to provide this tariff revision.
+
+"I started this mission to grant this revision during my tenure as the former PUCSL chairman. I lost my job because of that. The proposal, which was signed by me during my tenure, was passed and received as a benefit to the people. The proposal for the electricity tariff revision, which I made in February 2022, has become a reality in March 2024.
+
+...
+
+[Data](articles/265f6f6f.json)
+
+---
+
+### It is necessary to increase salaries in all public and private service sector - the central bank
 
 *2024-03-05 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178014) · `ta`
 
-சகல அரச மற்றும் தனியார் சேவைத்துறைகளில் சம்பளம் அதிகரிக்கப்பட வேண்டியது அவசியமாகுமென மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க தெரிவித்தார்.
+Central Bank Governor Nandalal Weerasinghe emphasizes the need to raise salaries in both public and private sectors to aid recovery from economic crises.
 
-பொருளாதார நெருக்கடியிலிருந்து மீளும் போது முக்கியமான சம்பளம் அதிகரிக்கப்பட வேண்டுமென மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க மேலும் தெரிவித்தார்.
+🟩
+
+Governor of the Central Bank Nandalal Weerasinghe said that salaries need to be increased in all state and private services.
+
+Governor of the Central Bank Nandalal Weerasinghe added that important salary should be increased when recovering from the economic crisis.
 
 ◼️
 
 [Data](articles/9c34b72b.json)
 
+[Extended Data](ext_articles/9c34b72b.ext.json)
+
 ---
 
-### சபாநாயகரின் செயற்பாடுகள் மக்கள் மத்தியில் கேலிக் கூத்தாகியுள்ளன - சந்திம வீரக்கொடி சாடல்
+### Speaker's actions have been mocked among the people
 
 *2024-03-05 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177986) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவின் செயற்பாடுகள் ஒட்டுமொத்த மக்கள் மத்தியில் கேலிக்கூத்தாக்கப்பட்டுள்ளன. சபாபீடத்தில் தலைமை தாங்குபவர்கள் அனைவரும் வெட்கப்படும் வகையில் சபாநாயகரின் செயற்பாடுகள் காணப்படுகின்றன என எதிரணியின் சுயாதீன பாராளுமன்ற உறுப்பினர் சந்திம வீரக்கொடி தெரிவித்தார்.
+Speaker Mahinda Yapa Abeywardena's actions are being criticized by the public and opposition MPs. The new police chief and Inspector General of Police's actions are also being mocked. The Speaker's voting rights are questioned, and there's controversy over the appointment of the new Inspector General of Police.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை  (05) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம் உள்ளிட்ட நிதித்துறையுடன் தொடர்புடைய சட்டமூலங்கள் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-புதிய பொலிஸ்மா அதிபர் நியமனத்தில் அரசியலமைப்பு மீறப்பட்டுள்ளது.சபாநாயகரின் செயற்பாடுகளினால் புதிய பொலிஸ்மா அதிபரும் அவமதிக்கப்பட்டுள்ளார்.சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவின் செயற்பாடுகள்  மக்கள் மத்தியில் கேலிக்கூத்தாக்கப்பட்டுள்ளன. சபைக்கு தலைமை தாங்குபவர்கள் அனைவரும் வெட்கப்படும் வகையில் சபாநாயகரின் செயற்பாடுகள் காணப்படுகின்றன.
+The actions of Speaker Mahinda Yapa Abeywardena have been mocked among the entire population. Opposition Independent Member of Parliament Chandima Weerakkody said that the Speaker's activities are being shocked by all the leaders of the Sabha.
+
+He was speaking at a debate on the Bill on Tuesday (05) in Parliament, including the Broadcasting Bill, including the Finance Department.
+
+The new police chief has also been insulted by the activities of the new Inspector General of Police.. The Speaker's actions are shy to all those who head the council.
+
+When the Constituent Assembly convened on the appointment of the new Inspector General of Police. Article 41 of the Constitutional Council is clearly stated that the Speaker can vote only when there is a balance in the vote.
 
 ...
 
 [Data](articles/69c7c167.json)
 
+[Extended Data](ext_articles/69c7c167.ext.json)
+
 ---
 
-### வழமைக்கு திரும்பியது பேஸ்புக்!
+### විදේශිකයින්ට පහරදුන් දුම්රිය සේවකයින්ගේ වැඩ තහනම්
+
+*2024-03-05 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194182) · `si`
+
+එම පහරදීම සම්බන්ධයෙන් දෙවැනි ශ්‍රේණියේ දුම්රිය ස්ථානාධිපතිවරුන් දෙදෙනෙකුගේ සහ දුම්රිය නියාමකවරයෙකුගේ වැඩතහනම් කළ බව දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/c799169b.json)
+
+---
+
+### Facebook returned to us!
 
 *2024-03-05 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178013) · `ta`
 
-உலகளாவிய ரீதியில் சமூக ஊடகங்களில் ஒன்றான பேஸ்புக் செயலிழந்து காணப்பட்ட நிலையில், சுமார் ஒரு மணி நேரத்தின் பின் மீண்டும் வழமைக்குத் திரும்பியுள்ளது.
+Facebook, Instagram, and Messenger are back online after a brief outage.
 
-அந்தவகையில், உலகளாவிய ரீதியில் முடங்கி இருந்த பேஸ்புக், இன்ஸ்டாக்ராம் மற்றும் மெசெஞ்சர் ஆகியன மீண்டும் செயற்பட ஆரம்பித்துள்ளன.
+🟩
+
+Facebook, one of the global media, has failed, and has returned to normal after about an hour.
+
+As such, Facebook, Instagram and Messenger, which were globally paralyzed, have begun to work again.
 
 ◼️
 
 [Data](articles/9578ee65.json)
+
+[Extended Data](ext_articles/9578ee65.ext.json)
 
 ---
 
@@ -146,21 +242,29 @@ He lamented the nation's current plight, contrasting it with the promising traje
 
 ---
 
-### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை கையளிப்பு
+### Handing over the no -confidence motion against the Speaker
 
 *2024-03-05 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178011) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிரான நம்பிக்கையில்லா பிரேரணையை ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் ரஞ்சித் மத்தும பண்டார பாராளுமன்ற பதில் செயலாளரான பிரதி செயலாளர் நாயகம் சமிந்த குலரத்னவிடம் கையளித்தார்.
+Ranjith Mathuma Bandara, General Secretary of the United People's Power, handed over a no-confidence motion against Speaker Mahinda Yapa Abeywardena to Saminda Kularatne, Deputy Secretary General of Parliament. The motion, signed by 44, including opposition leader Sajith Premadasa, alleges the Speaker's actions violate the Constitution and Parliament's Standing Orders.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (5) பிரதி செயலாளர் நாயகத்திடம் எதிர்க்கட்சியினர் நம்பிக்கையில்லா பிரேரணை தீர்மானத்தைக் கையளித்தனர்.
+🟩
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச உள்ளிட்ட ஐக்கிய மக்கள் சக்தி மற்றும் ஐக்கிய மக்கள் சக்தி கூட்டணி உறுப்பினர்கள்,தமிழ்த் தேசியக் கூட்டமைப்பு,தேசிய மக்கள் சக்தி மற்றும் சுயாதீன எதிரணி உறுப்பினர்கள் உள்ளிட்ட 44 பேர் இந்த நம்பிக்கையில்லா பிரேரணையில் கைச்சாத்திட்டுள்ளனர்.
+United People's Power General Secretary Ranjith Mathuma Bandara has handed over the no -confidence motion against Speaker Mahinda Yapa Abeywardena to the Deputy Secretary General of Parliament, Saminda Kularatne.
 
-பாராளுமன்ற பிரதி செயலாளர் நாயகத்திடம் சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை கையளிக்கப்படும் போது,ஐக்கிய மக்கள் சக்தி செயலாளருடன் எதிர்க்கட்சி பிரதம கொரடாவான லக்‌ஷ்மன் கிரியெல்ல, தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன், சுயாதீன எதிரணி உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ், சுயாதீன உறுப்பினர் சந்திம வீரக்கொடி ஆகியோரும் பங்குபற்றியிருந்தனர்.
+Opposition parties handed over the motion to the Deputy Secretary General in Parliament on Tuesday (5).
+
+44 people, including opposition leader Sajith Premadasa, United People's Power and United People's Alliance, Tamil National Alliance, National People's Power and Independent Opposition members have signed the motion.
+
+When the Deputy Secretary General of Parliament was handed over a no -confidence motion against the Speaker.
+
+When the Ceremony Bill is passed, the Speaker has come up with allegations against him that the Speaker has been acting in violation of the Constitutional Constitutional Constitutional Resolutions on the Speaker's boycott and the Speaker's allegations that the Speaker is acting in violation of the Constitution.
 
 ...
 
 [Data](articles/f1cf32b4.json)
+
+[Extended Data](ext_articles/f1cf32b4.ext.json)
 
 ---
 
@@ -295,6 +399,28 @@ Reports on DownDetector, a website that tracks internet service outages, surged 
 [Data](articles/43e71511.json)
 
 [Extended Data](ext_articles/43e71511.ext.json)
+
+---
+
+### Meta’s Facebook, Instagram down for many users across the world
+
+*2024-03-05 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97752/metas-facebook-instagram-down-for-many-users-across-the-world-) · `en`
+
+Meta-owned social media platforms Facebook and Instagram were down for hundreds of thousands of users on Tuesday in a global outage that has been going on for more than an hour.
+
+The disruptions started around 10:00 am ET (1500 GMT), with many users saying on rival social media platform X they had been booted out of Facebook and Instagram and were unable to log in.
+
+There were more than 300,000 reports of outages for Facebook and 40,000 reports for Instagram on tracking website Downdetector.com.
+
+“We’re aware people are having trouble accessing our services. We are working on this now,” Meta spokesperson Andy Stone said in a post on X.
+
+The social media giant, shares of which were down 1.5% in late morning trade, has about 3.19 billion daily active users across its family of apps, which also include WhatsApp and Threads.
+
+Meta’s status dashboard showed the application programming interface for WhatsApp Business was also facing issues.
+
+...
+
+[Data](articles/86f647ec.json)
 
 ---
 
@@ -2083,155 +2209,5 @@ The Magistrate has pointed out that if the public is underway, the police have t
 [Data](articles/e73849d1.json)
 
 [Extended Data](ext_articles/e73849d1.ext.json)
-
----
-
-### Demonstration in the North condemning the violation of Indian fishermen
-
-*2024-03-05 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177932) · `ta`
-
-A demonstration in the North condemns the violation of Indian fishermen, held in front of the District Secretariat and the Chief Road of the Governor's Office. Only four protesters were allowed to enter the governor's office. Demonstrators will march to the Indian subconscious in Jaffna to express opposition.
-
-🟩
-
-A demonstration is being held in the north from Tuesday morning (05) morning condemning the violation of Indian fishermen.
-
-The demonstration is being carried out in front of the District Secretariat and the Chief Road of the Governor's Office in the North.
-
-In this case, only four persons who were protesting have been allowed to enter the governor's office as they have been denied permission to go to the Northern Governor's office.
-
-Subsequently, the demonstrators will march to the Indian subconscious in Jaffna to express their opposition to the protest.
-
-◼️
-
-[Data](articles/94120770.json)
-
-[Extended Data](ext_articles/94120770.ext.json)
-
----
-
-### 7 people die of accidents in the last 24 hours
-
-*2024-03-05 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/177946) · `ta`
-
-7 people died in accidents in the last 24 hours across the country, including a van crash near Millagama, a woman hit by a three-wheeler in Koradota, and a motorcycle accident in Batticaloa.
-
-🟩
-
-Seven people have died in vehicle accidents in the last 24 hours in different parts of the country.
-
-A van traveling from Badulla to Bandarawela near Millagama junction on Perakala Road, Perakala Road. An 89 -year -old man died in the accident in Kandagumbura Hela Halbay area.
-
-Meanwhile, a 55 -year -old woman from Koradota area, Koradota, died in an accident on the Navagamuwa - Koradara, Madhumulla road.A three -wheeler traveling from Korathota to Thrumulla as a pedestrian crossing in the Kongahahena area crashed into a woman.
-
-In addition, a 75 -year -old man from Chittinamaluwa area died in an accident on the Beliyatta - Tangalle road last night.
-
-A 74-year-old elderly man who lives in Dehiwala has died in a vehicle accident in the Fort-Pastiyan Mawatha area.
-
-A youth was killed in a motorcycle accident in the Eruvil area of the Kaluwanchikudi police division in the Batticaloa district.
-
-...
-
-[Data](articles/6345e128.json)
-
-[Extended Data](ext_articles/6345e128.ext.json)
-
----
-
-### Railway strike from midnight today
-
-*2024-03-05 13:19:31* · [`adalk`](https://www.ada.lk/breaking_news/අද-මධ්‍යම-රාත්‍රියේ-සිට-දුම්රිය-වර්ජනයක්/11-408435) · `si`
-
-A railway strike begins at midnight today, initiated by the Locomotive Oppositor Engineering Engineering Association. The government plans to cut the basic salary of railway workers, affecting drivers, regulatory managers, and train supervisors.
-
-🟩
-
-Locometive Oppositor Engineering Engineering Association says that a railway strike will be opened from midnight today. A Chandana Lal statement made by another trade unions participate in this trade union action. The cabinet has decided to reduce the basic salary of these services by Rs.
-
-It has been decided to reduce the sum of the present salary and that the railway, driver regulatory and train supervisory managers have been involved in this program yesterday.said.
-
-◼️
-
-[Data](articles/3e051dc4.json)
-
-[Extended Data](ext_articles/3e051dc4.ext.json)
-
----
-
-### Don't go abroad through open visa: Tamil speakers who do not know Sinhala are affected - Minister of Foreign Affairs
-
-*2024-03-05 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177950) · `ta`
-
-Minister of Foreign Affairs warns Tamil speakers against seeking foreign employment through open visas, citing detention and financial fraud in Myanmar.
-
-🟩
-
-Do not search for foreign employment opportunities through open visa. Tamil speakers who do not know Sinhala are currently affected. Minister of Foreign Affairs Ali Sabri said that the fake promises of the intermediaries should not be cheated.
-
-Vasantha Yapa Bandara and Harsha de Silva questioned the Sri Lankans detained by the Myanmar Cyber Crime Terrorist Committee during a session in Parliament on Tuesday (05). In response, he said the above.
-
-India, Pakistan, Bangladesh and Nepal are detained in Myanmar Cyber Crime area. 56 Sri Lankans are also detained. Negotiations have been carried out at diplomatic level to bring them to the country.
-
-They are forcibly forced to engage in financial fraud through the Internet system. It is also known that they have been psychologically impact.
-
-Others continue to go abroad, as one party is in crisis illegally. Recently, three Sri Lankans went to Dubai and went to Bangkok to Thailand via Thailand.
-
-...
-
-[Data](articles/45d1aad2.json)
-
-[Extended Data](ext_articles/45d1aad2.ext.json)
-
----
-
-### Colombo big railway stations change
-
-*2024-03-05 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194155) · `si`
-
-The Cabinet approved enhancements for major Colombo railway stations, including Wellawatte, Bambalapitiya, Kollupitiya, Slave Island, Dehiwala, and Mount Lavinia, aiming to attract investors.
-
-🟩
-
-The proposal to enhance the buildings of the major railway stations around Colombo is approved by the Cabinet.
-
-Railway stations have been identified for the visit to the Wellawatte, Bambalapitiya, Kollupitiya and Slave Island.
-
-The November 6, 2023, has been identified at the Cabinet restructuring on the 6th of June.
-
-The cabinet has approved a proposal to develop the Dehiwala and Mount Lavinia railway stations under the publication of Dehiwala and Mount Lavinia.
-
-The proposal to be summoned by investors who are interested in it is also approved by the proposal to call.
-
-The Cabinet was presented by the Minister of Transport and Highways and the Urban Development.
-
-◼️
-
-[Data](articles/3939a10c.json)
-
-[Extended Data](ext_articles/3939a10c.ext.json)
-
----
-
-### SriLankan Airlines debt of US$510mn to be taken over by govt
-
-*2024-03-05 13:06:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-debt-of-us510mn-to-be-taken-over-by-govt-153212/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central government will take over about 510 million US dollars in debt from the balance sheet of state-run SriLankan Airlines, Aviation Minister Nimal Siripala de Silva said.
-
-The proposal was approved by the cabinet, he told reporters at a press conference broadcast over Sri Lanka’s Derana Television.
-
-SriLankan has a sovereign guaranteed bond and other debt including to Ceylon Petroleum Corporation and state banks.
-
-President Ranil Wickremesinghe has also proposed to provide 60 to 70 million US dollars over the next six months to ease liquidity problems at the airline, he said. The money will go for engine repairs and other needs, he said.
-
-Any money earned from the sale of SriLankan Airlines will go the Treasury, he said.
-
-The deadline to submit expressions of interest for SriLankan Airlines has also been extended to April 2024 from March 05. (Colombo/Mar05/2024)
-
-◼️
-
-[Data](articles/322f8d9f.json)
-
-[Extended Data](ext_articles/322f8d9f.ext.json)
 
 ---

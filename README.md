@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 16:04:03**
+As of **2024-03-05 16:17:32**
 
 ## Newspaper Stats
 
-*Scraped **11,005** Articles*
+*Scraped **11,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ islandlk | 592
 adalk | 930
 adaderanalk | 1,339
 tamilmirrorlk | 1,343
-virakesarilk | 1,478
+virakesarilk | 1,480
 dailymirrorlk | 1,677
-adaderanasinhalalk | 1,718
+adaderanasinhalalk | 1,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,003 (100.0%) of 11,005 articles have been extended.
+11,005 (100.0%) of 11,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### බෆල් එකෙන් මතුවූ ගිනි අවිය
+
+*2024-03-05 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194164) · `si`
+
+කප්පම් ඉල්ලා කඳාන ප්‍රදේශයේ මස්කඩ හිමියෙකු ට වෙඩි තැබීම සම්බන්ධයෙන් සැකපිට 9 දෙනෙක්ව පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය වසරේ අගෝස්තු 04 වනදා එම වෙඩි තැබීම සිදුකර තිබූ අතර ඒ සඳහා යොදාගත් බවට සැක කෙරෙන ගිනි අවියද සොයා ගැනුණි.
+
+සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ඩුබායි හි සැඟව සිටින රසික නොහොත් චූටි මල්ලීට එම ගිනි අවිය අයත් බව සඳහන් වෙයි.
+
+එම ගිනි අවියට යෙදිය හැකි උණ්ඩ 45ක් සහිත මැගසින් දෙකක් ද සොයාගෙන තිබේ.
+
+විශේෂ කාර්ය බලකාය ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව අද (05) පමුණුගම පොලිස් වසමේ පුබුදුගම ප්‍රදේශයේ දී එම වැටලීම සිදුකර ඇත.
+
+ඩුබායි හි සැඟවී සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන චුටි මල්ලි නැමැත්තාගේ පුංචි අම්මා ගේ නිවසේ ඉතාම සුක්ෂමව සඟවා තිබියදී එම අවිය සහ උන්ඩ සොයා ගැනුණි.
+
+එම නිවසේ සිටි සැකකාරියන් තිදෙනෙක් සහ සැකකරුවන් හය දෙනෙක් ද එහිදී අත්අඩංගුවට ගත්තේය.
+
+◼️
+
+[Data](articles/6590fc07.json)
+
+---
+
+### ஜாவா லேன் - மொரகஸ்முல்லை கால் இறுதி இன்று
+
+*2024-03-05 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177974) · `ta`
+
+சிட்டி புட்போல் லீக்கினால் ஏற்பாடு செய்யப்பட்டுள்ள 19 வயதுக்குட்பட்ட அணிகளுக்கு இடையிலான யூசுப் கிண்ண கால்பந்தாட்டத்தின் 3 ஆவது அரை இறுதிப் போட்டியில் ஜாவா லேன் கழகமும் மொரகஸ்முல்லை கழகமும் இன்று செவ்வாய்க்கிழமை (05) விளையாடவுள்ளன.
+
+இரண்டு தடவைகள் சம்பியனான ஜாவா லேன் தான் விளையாடிய றினோன் கழகத்துடனான பி குழு போட்டியை வெற்றி தோல்வியின்றி முடித்துக்கொண்டது.
+
+இதனை அடுத்து பி குழுவுக்கான முதலாவது அணியைத் தீர்மானிக்கும் பொருட்டு அமுல்படுத்தப்பட்ட பெனல்டிகளில் 9 - 8 என ஜாவா லேன் வெற்றிபெற்று முதலிடத்தை உறுதி செய்துகொண்டது.
+
+சி குழுவில் இடம்பெற்ற மொரகஸ்முல்லை தான் விளையாடிய இரண்டு போட்டிகளில் ஒன்றில் குறே கழகத்தை 2 - 1 என வெற்றிகொண்டிருந்தது. மற்றைய போட்டியில் விக்டரி கழகத்திடம் 0 - 1 என தோல்வி அடைந்திருந்தது.
+
+இதற்கு அமைய இக் குழுவில் மொரகஸ்முல்லை இரண்டாம் இடத்தைப் பெற்று கால் இறுதியில் ஜாவா லேனை எதிர்த்தாட தகதிபெற்றது.
+
+இந்த இரண்டு அணிகளில் ஜாவா லேன் கழகம் சற்று பலம் வாய்ந்ததாகத் தென்படுவதால் இன்றைய கால் இறுதிப் போட்டியில் வெற்றிபெற்று அரை இறுதிக்கு முன்னேறும் என கருதப்படுகிறது.
+
+...
+
+[Data](articles/e6ff077c.json)
+
+---
+
+### රත්මලානේ සිඟිති මත්ද්‍රව්‍ය සමග අත්අඩංගුවට
+
+*2024-03-05 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194163) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කාරියක් වන රත්මලානේ 'සිඟිති' නමැති කාන්තාවක් අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගෙන තිබේ.
+
+ඇය සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50ක් සොයාගෙන ඇති අතර එහි වටිනාකම රුපියල් ලක්ෂ 7ක් බවට සැක කෙරෙයි.
+
+ඇය විදේශගතව සැඟව සිටින බවට විශ්වාස කෙරෙන කුඩු අංජුගේ ඥාතියෙක් බවද වාර්තා වෙයි.
+
+රත්මලාන දුම්රිය පොළ ආසන්නයේ දී පසුගිය අගෝස්තු මාසයේදී පුද්ගලයෙකු වෙඩි තබා ඝාතනය කෙරුණු අතර එලෙස ඝාතනය වූ රත්මලානේ 'මස් කඩේ කලුවා' නම් පුද්ගලයාගේ වැඩිමහල් සහෝදරිය ලෙස ද මෙම කාන්තාව හඳුනාගෙන ඇති බවද පොලීසිය පවසයි.
+
+මෙම වැටලීම සිදුකර තිබුණේ ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ නිලධාරීන් විසිනි.
+
+◼️
+
+[Data](articles/e4537ddc.json)
+
+---
 
 ### Declaration of Assets and Liabilities Law amended to include new officer categories and personnel
 
@@ -45,6 +111,26 @@ According to this recent amendment, the President, Prime Minister, Members of Pa
 ...
 
 [Data](articles/bde19bea.json)
+
+[Extended Data](ext_articles/bde19bea.ext.json)
+
+---
+
+### விபத்தில் பலியான அருட்தந்தை ;  மன்னார் அடம்பன் பகுதியில் பொது மக்கள் போராட்டம் ; வீதி தடை அமைக்குமாறு கோரிக்கை
+
+*2024-03-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177972) · `ta`
+
+மன்னார் அடம்பன் பிரதான வீதியில் உள்ள நாற்சந்தியில் வீதி தடை ஒன்றை உடன் அமைத்து தருமாறு கோரி அடம்பன் பகுதி மக்கள் இன்று செவ்வாய்க்கிழமை (05) வீதிகளை மறித்து போராட்டத்தில் ஈடுபட்டனர்.
+
+நேற்று திங்கட்கிழமை (4) அடம்பன் பிரதான வீதியில் இடம் பெற்ற விபத்தில் டிப்பர் வாகனம் மோதி அருட்தந்தை ஒருவர் உயிரிழந்துள்ளார்.
+
+இந்நிலையில், தொடர்ச்சியாக குறித்த வீதியில் விபத்துக்கள் இடம் பெறுவதாகவும், வாகனங்கள் வேகமாக பயணிப்பதாகவும் தெரிவித்து குறித்த வீதியில் வீதித்தடை ஒன்றை அமைக்குமாறு கோரி பொது மக்கள் போராட்டத்தில் ஈடுபட்டனர்.
+
+குறித்த வீதியில் வீதித்தடை ஒன்றை அமைக்குமாறு முன்னதாகவே பிரதேச சபை கூட்டத்தில் தீர்மானம் மேற்கொள்ளப்பட்டும் பிரதேச அபிவிருத்தி குழு கூட்டத்தில் பேசப்பட்டும் இதுவரை எந்த வித வீதித்தடைகளும் அமைக்கப்படாமையினால் தொடர்சியாக இரண்டு மரணங்கள் நிகழ்ந்துள்ளதாக மக்கள் ஆதங்கங்களை வெளிப்படுத்தியிருந்தனர்.
+
+...
+
+[Data](articles/b641fab0.json)
 
 ---
 
@@ -122,29 +208,37 @@ He warned people not to visit any country on open visas and said people must emi
 
 ---
 
-### ලයිට් කැපුවොත් නැවත ලබාගන්න යන ගාස්තුව අඩු කෙරේ
+### If lights are cut down, the recovery fee is reduced
 
 *2024-03-05 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194162) · `si`
 
-අලුතින් විදුලි සම්බන්ධතාවයක් ලබාගැනීමේදී සහ විසන්ධි කළ සම්බන්ධතාවය නැවත ලබාගැනීමේදීත් ජනතාවට සහාන ලබාදී ඇති බව මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
+The Public Utilities Commission has reduced the recovery fee for electricity connections. The Director General of Damitha Kumarasinghe highlighted this at the Big FOCUS program. The fee was previously Rs. 3,000 but has been decreased. This change allows customers to pay closer to their location, with the CEB bringing payment services to the border. Electricity tariffs have also been reduced, affecting the cost for different units of electricity used.
 
-එහි අධ්‍යක්ෂ ජනරාල් දමිත කුමාරසිංහ මහතා BIG FOCUS වැඩසටහනට එක්වෙමින් ඒ බව පැවසීය.
+🟩
 
-"විදුලිය විසන්ධි කළ පසු නැවත ලබාගැනීමේදී පෙර අය කළ ගාස්තුව රුපියල් 3,000ක්. මහජන උපයෝගීතා කොමිෂන් සභාව තීරණය කළා එය රුපියල් 800 දක්වා අඩු කරන්න."
+The Public Utilities Commission states that the people have been given mate in the availability of a new electricity connection and to recover the connection.
 
-"තවත් දෙයක් තමයි නැවත විදුලි සම්බන්ධතාවය ලබාදීමේදී ගෙවා ගැනීමට නොහැකි මුදල් ප්‍රමාණය කොටස් වශයෙන් ගෙවීමට අවස්ථාව ලබාදීලා තිබෙනවා."
+The Director General of Damitha Kumarasinghe said that he was speaking at the Big FOCUS program.
 
-"අලුතින් විදුලි සම්බන්ධතාවය ලබාගැනීමේදී.. පෙර තිබුණේ විදුලි සම්බන්ධතාවය නතරවී තිබෙන තැන සිට අප ලබාගන්නා ස්ථානය දක්වා දුරට ගෙවන්න ඕනේ."
+"After the electricity is turned off, the previous fee is Rs. 3,000. The Public Utilities Commission decided to reduce it to Rs. "
 
-"දැන් විදුලිබල මණ්ඩලය අපේ මායිම දක්වා ගෙනත් දෙනවා. එතන සිට තමයි පාරිභෝගිකයා ගෙවන්න ඕනේ."
+"Another contributed opportunities to pay the amount of money that cannot be paid in the electrical connection."
 
-"විදුලි ගාස්තු අඩුවීමත් එක්ක දැන් ඒකක 30ක් පාවිච්චි කරන පාරිභෝගිකයෙකු පෙර රුපියල් 540ක විදුලි බිලක් ගෙව්වා. දැන් එය රුපියල් 390 දක්වා අඩු වෙනවා."
+"When receiving the new electricity connection.. Before the electricity connection was stopped, we have to pay far away from where we get. "
 
-"ඒකක 60ක් පාචිච්චි කරපු කෙනෙකු රුපියල් 1,620ක් ගෙවපු එක දැන් රුපියල් 1,140 දක්වා අඩු වෙනවා."
+"The CEB is now being brought up to our border. That's where the customer wants to pay. "
+
+"With the decrease in electricity tariffs, a consumer used for a customer who used 30 units paid Rs.. Now it is reduced to Rs. 390. "
+
+"60 units will have to reduce Rs 1,620 to Rs. 1,140."
+
+"It is reduced to Rs. 2,800 to Rs. 2,800.
 
 ...
 
 [Data](articles/45f93cd9.json)
+
+[Extended Data](ext_articles/45f93cd9.ext.json)
 
 ---
 
@@ -608,7 +702,7 @@ It has been reported that 44 MPs have been signed.
 
 ---
 
-### Govt. to prevent school premises from being used for political purposes
+### School premises to be prevented from being used for political purposes
 
 *2024-03-05 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97741/school-premises-to-be-prevented-from-being-used-for-political-purposes) · `en`
 
@@ -2111,107 +2205,5 @@ Winds will be easterly to north-easterly in the sea areas off the coast extendin
 [Data](articles/0cbf7b77.json)
 
 [Extended Data](ext_articles/0cbf7b77.ext.json)
-
----
-
-### Mainly fair weather expected today
-
-*2024-03-05 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97733/mainly-fair-weather-expected-today-) · `en`
-
-The Department of Meteorology says mainly fair weather is expected to prevail in most parts of the island today.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces in the morning.
-
-◼️
-
-[Data](articles/7e554ac0.json)
-
-[Extended Data](ext_articles/7e554ac0.ext.json)
-
----
-
-### Several fatal accidents - Lost 7 lives
-
-*2024-03-05 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194141) · `si`
-
-7 fatal accidents, 7 lives lost. A 20-year-old on a motorcycle died near Eruvil Lagoon. An 89-year-old in Kandakkumbura was killed near Mallagama Junction. A woman in a three-wheeler was seriously injured in Navagamuwa. A 75-year-old man died in a car accident on the Beliatta-Tangalle road. A bus collided with a pedestrian near Homagama, injuring them. A lorry crashed in Higashena. A 46-year-old man was killed in a motorbike crash on the Padeniya-Anuradhapura road.
-
-🟩
-
-Seven persons including a woman killed in seven areas in several areas were killed.
-
-A 20-year-old youth was killed in a motorcycle accident near the Eruvil Lagoon on the Kalawanchikudi-Kurumanveli road.
-
-The motorcyclist slipped away from the road, slipped away from a tree and hit a tree.
-
-Meanwhile, a person was killed in a village that was traveling near the Mallagama Junction of Hallegama Junction in the Ella Police Division.
-
-The deceased has been identified as a 89 year old resident of the Kandakkumbura and Hela Halpe area.
-
-Meanwhile, a three-wheeler was accidental in the Navagamuwa Police Division in the Navagamuwa and Wadumammulla area.
-
-The woman who had been a serious towel was handed over to the Athurugiriya hospital after the accident had been transferred to the Homagama Hospital.
-
-Meanwhile, a 75-year-old man has been killed in accidents that a car had traveled through the Beliatta - Tangalle road.
-
-...
-
-[Data](articles/606b1d27.json)
-
-[Extended Data](ext_articles/606b1d27.ext.json)
-
----
-
-### From 10,11 semespitals in Western provinces 10,11
-
-*2024-03-05 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194140) · `si`
-
-The final test for 10,11 schools in Western provinces, initially suspended, is rescheduled for tomorrow. The Department of Education announced this, focusing on subjects not yet tested. The suspension was due to premature leakage on social media. The CID is investigating. Despite new paper preparations, the exam will proceed as planned. Professor Prathibhi Mahanamahewa commented on the situation.
-
-🟩
-
-The final test of 10,11 schools in the Western Province, which was temporarily suspended, is scheduled to be held tomorrow.
-
-The Department of Education The Department of Education stated that the examination will be held from tomorrow for the subjects that have not yet been held so far.
-
-The examination activities of 10,11 were temporarily suspended as the examination was issued to the social media before the examination was issued.
-
-The CID has already begun an investigation into the incident.
-
-However, after the preparation of new papers, the examination of the Examinations of the Grades will be held tomorrow.
-
-Meanwhile, Professor Prathibhi Mahanamahewa expressed these views regarding the exit of examination question paper.
-
-◼️
-
-[Data](articles/8fc0b87e.json)
-
-[Extended Data](ext_articles/8fc0b87e.ext.json)
-
----
-
-### SriLankan's bids today
-
-*2024-03-05 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194139) · `si`
-
-SriLankan Airlines bids for restructuring open today, targeting $500M investment. Bids due by 2pm, supported by a technical team. Proposal to Cabinet post-Bid Assessment Report.
-
-🟩
-
-The opening of bids will be opened today (05)) to select a suitable investor for the restructuring program for the restructuring of SriLankan Airlines.
-
-Minister of Ports, Naval and Aviation said that it is possible to bunded from 10 to 2 pm this morning.
-
-The submission of the bidding is due to be lived and a special technical team has also been appointed to support it.
-
-Minister Nimal Siripala de Silva said that the proposal will be submitted to the Cabinet after preparation of the Bid Assessment Report.
-
-The Minister further stated that SriLankan Airlines is looking for about US $ 500 million invested in the restructuring program.
-
-◼️
-
-[Data](articles/ef23262a.json)
-
-[Extended Data](ext_articles/ef23262a.ext.json)
 
 ---

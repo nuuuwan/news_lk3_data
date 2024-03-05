@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 09:17:36**
+As of **2024-03-05 09:33:21**
 
 ## Newspaper Stats
 
-*Scraped **10,908** Articles*
+*Scraped **10,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 924
-adaderanalk | 1,325
-tamilmirrorlk | 1,330
-virakesarilk | 1,458
-dailymirrorlk | 1,661
+adaderanalk | 1,326
+tamilmirrorlk | 1,332
+virakesarilk | 1,459
+dailymirrorlk | 1,663
 adaderanasinhalalk | 1,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,908 (100.0%) of 10,908 articles have been extended.
+10,908 (99.9%) of 10,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### கூகுள் மேப் காட்டிய பாதையில் சென்று அலரி மாளிகைக்குள் நுழைந்த இருவர்
+
+*2024-03-05 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177916) · `ta`
+
+கூகுள் மேப் காட்டிய பாதையில் சென்று கொழும்பு கொள்ளுப்பிட்டியில் உள்ள பிரதமர் உத்தியோகபூர்வ வாசஸ்தலமான அலரிமாளிகைக்குள் அத்துமீறி நுழைந்த இருவருக்கு கோட்டை நீதவான் பிணை வழங்கியுள்ளார்.
+
+இந்த இரு நபர்களும்  சனிக்கிழமை கொள்ளுப்பிட்டி பொலிஸாரால் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+மென்பொருள் பொறியியலாளர்  ஒருவரும்  கப்பலில் பணிபுரியும் நபர் ஒருவரும் சனிக்கிழமை (03) இரவு நேர களியாட்ட விடுதிக்கு சென்றுள்ளனர்.
+
+பின்னர் அங்கு மது அருந்தி விட்டு முகாந்திரம் வீதியில் உள்ள தங்குமிடத்திற்கு செல்ல கூகுள் மேப்பை பயன்படுத்தியுள்ளனர்.
+
+இந்நிலையில், கூகுள் மேப் காட்டிய பாதையில் சென்ற போது அவர்கள் அலரிமாளிகை வளாகத்திற்குள் நுழைந்துள்ளனர்.
+
+இதன்போது, பிரதமரின் பாதுகாப்பு பிரிவின் அதிகாரிகள் இருவரையும் கைது செய்து கொள்ளுப்பிட்டி பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/b1345fde.json)
+
+---
+
+### அன்பான இலங்கையின் அனைத்து மரியாதைக்குரிய குடிமக்களுக்கும்...
+
+*2024-03-05 09:13:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்பான-இலங்கையின்-அனைத்து-மரியாதைக்குரிய-குடிமக்களுக்கும்/175-334213) · `ta`
+
+கலாநிதி நந்தலால் வீரசிங்கவிற்கும் திரு.ஜெயந்த கோவில்கொடகேவிற்கும் இடையில் இடம்பெற்ற உரையாடலில் பேசப்படாத சில விடயங்களை உரிய மரியாதையுடன் எழுப்ப விரும்புகின்றோம்.
+
+மத்திய வங்கி அதிகாரிகள் பொருளாதாரத்தை விட பரந்த புரிதலைக் கொண்டிருக்க வேண்டும். அவர்களின் கல்வியானது சமூகவியல், அமைதி மற்றும் மோதல் ஆய்வுகள் மற்றும் அவர்களின் முடிவுகளின் சமூக தாக்கங்களை நன்கு புரிந்துகொள்ள மனித நடத்தை போன்ற சமூக அறிவியலை உள்ளடக்கியதாக இருக்க வேண்டும்.
+
+தற்போதைய முடிவெடுக்கும் செயல்முறை, இந்த பரந்த புரிதல் இல்லாததால், சமூக அமைதியின்மையை நிலைநிறுத்தும் அபாயம் உள்ளது. சமூக ஊடகங்கள் மூலம் வெளிச்சத்திற்குக் கொண்டுவரப்பட்ட இந்த சமீபத்திய சம்பவம் இதனை எடுத்துக்காட்டுகிறது.
+
+கொள்கை வகுப்பாளர்களை ஆதரிக்கும் ஒரு தொழில்முறை அமைப்பாக கருதப்படும் இலங்கை மத்திய வங்கி, துரதிஷ்டவசமாக ஏனைய சமூக அபிவிருத்தி குறிகாட்டிகளை பாதிக்கும் வகையில் தற்போதைய பொருளாதார நிலைமைக்கு பங்களித்துள்ளது.
+
+...
+
+[Data](articles/626c8921.json)
+
+---
+
+### Import Permit frauds threaten essential food supply chain
+
+*2024-03-05 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-Permit-frauds-threaten-essential-food-supply-chain/108-278260) · `en`
+
+The members of the Essential Food Commodities and Traders Association yesterday raised concerns with Trade Minister Nalin Fernando about alleged frauds in getting approval by the Agriculture Ministry authorities to import items such as green gram, black gram, Kurakkan, maize and cowpea, Daily Mirror learns.
+
+Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation of these food crops. Later, the ban was lifted allowing such imports into the country subjected to a levy of Rs.300 a kilo and approval from the Agriculture Ministry. President Ranil Wickremesinghe issued the gazette notification in this regard on February 19, 2024. However, an informed source said that obtaining approval from the Ministry for import permits had become fraudulent.
+
+...
+
+[Data](articles/3319148b.json)
+
+---
+
+### France becomes only country to explicitly guarantee abortion as constitutional right
+
+*2024-03-05 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97734/france-becomes-only-country-to-explicitly-guarantee-abortion-as-constitutional-right) · `en`
+
+French lawmakers on Monday overwhelmingly approved a bill to enshrine abortion rights in France’s constitution, making it the only country to explicitly guarantee a woman’s right to voluntarily terminate a pregnancy.
+
+The historic move was proposed by President Emmanuel Macron as a way to prevent the kind of rollback of abortion rights seen in the United States in recent years, and the vote during a special joint session of France’s parliament drew a long-standing ovation among lawmakers.
+
+The measure was approved in a 780-72 vote in the Palace of Versailles. Abortion enjoys wide support in France across most of the political spectrum, and has been legal since 1975.
+
+Many female legislators in the hall smiled broadly as they cheered. While a small group of protesters stood outside the joint session, there were jubilant scenes of celebrations all over France as women’s rights activists hailed the measure promised by Macron within hours of the Dobbs ruling by the U.S. Supreme Court in 2022.
+
+...
+
+[Data](articles/aab19ccf.json)
+
+---
+
+### கூகுள் ’மப்’பை நம்பி அலரி மாளிகைக்குள் சென்ற இருவர் கைது
+
+*2024-03-05 08:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மப்-பை-நம்பி-அலரி-மாளிகைக்குள்-சென்ற-இருவர்-கைது/175-334212) · `ta`
+
+கூகுள் வரைபடத்தில் உள்ள வழிமுறைகளைப் பின்பற்றி, கொழும்பு அலரிமாளிகை வளாகத்திற்குள் தவறுதலாக அத்துமீறி நுழைந்த இருவருக்கு, கோட்டை நீதவான் பிணை வழங்கியுள்ளார்.
+
+இச்சம்பவத்தைத் தொடர்ந்து மென் பொறியியலாளர் மற்றும் கடலோடி ஆகிய இருவரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இருவரும் கொள்ளுப்பிட்டியில் உள்ள இரவு விடுதிக்கு சென்று மது அருந்தியதாகவும் முஹந்திரம் வீதியில் உள்ள தங்குமிடத்திற்கு திரும்ப முயற்சித்ததாகவும் கூகுள் வரைபடத்தை நம்பியிருந்ததாகவும் கூறப்படுகிறது.
+
+இருப்பினும், வழிகாட்டுதல்கள் அவர்களை அலரி மாளிகையின் சுற்றுச்சுவருக்கு அருகில் ஒரு முட்டுச்சந்திற்கு செல்ல வழிகாட்டியுள்ளது. தங்கள் வழியைக் கண்டுபிடிக்கும் முயற்சியில், அவர்கள் சுவரைக் கடந்து அலட்சியமாக அலரிமாளிகை வளாகத்திற்குள் நுழைந்தனர்.
+
+இதன்போது, ​​பிரதமரின் பாதுகாப்பு பிரிவின் அதிகாரிகள் குறித்த இருவரையும் கைது செய்து கொள்ளுப்பிட்டி பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/01e31f92.json)
+
+---
 
 ### Two persons arrested in Google
 
@@ -371,6 +463,24 @@ While this process could take some time, he was confident that the bondholders, 
 [Data](articles/2a5307c7.json)
 
 [Extended Data](ext_articles/2a5307c7.ext.json)
+
+---
+
+### Bondholder agreement delay unlikely to affect IMF review: Coomaraswamy
+
+*2024-03-05 06:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Bondholder-agreement-delay-unlikely-to-affect-IMF-review-Coomaraswamy/155-278256) · `en`
+
+Says in case of a delay, IMF is likely to provide breathing space
+
+A potential delay in securing an agreement-in-principle (AIP) with Sri Lanka’s private bondholders is unlikely to impact the second review of the International Monetary Fund (IMF) programme, former Central Bank Governor Dr. Indrajit Coomaraswamy said.
+
+Rothschild, the financial advisor to the bondholder group, is currently studying the proposal and consequently, will present the proposal to the bondholder group with its recommendations, said the senior economist, addressing an informative forum organised by CA Sri Lanka in Colombo yesterday.
+
+While this process could take some time, he was confident that the bondholders, based on the recommendations of their advisors, would soon come onboard to reach an AIP with the government, possibly within the second review of the IMF programme.
+
+...
+
+[Data](articles/bd40bb9f.json)
 
 ---
 
@@ -2111,145 +2221,5 @@ Furthermore, the two accused were also ordered to pay a compensation of Rs. 1 mi
 [Data](articles/64c7404f.json)
 
 [Extended Data](ext_articles/64c7404f.ext.json)
-
----
-
-### Carrying mass books to school
-
-*2024-03-04 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/177882) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa highlighted the issue of students carrying heavy books, leading to back pain. Finance Minister Vijayadasa Rajapaksa called for education authorities to address this. An awareness walk in Colombo, sponsored by Apollo Hospitals Group, aimed to raise awareness about spinal cord issues among boys. Dr. Nilaka Welikala, Chairman of the Serendip Group, emphasized the need for awareness. Indian and Sri Lankan experts participated in the event.
-
-🟩
-
-Justice Minister Vijayadasa Rajapaksa said that the main reason for the large number of students and students to carry large school books to school, which is the main reason for the turnout of their backs.
-
-Therefore, Finance Minister Vijayadasa Rajapaksa urged the education authorities to open the eye and prepare the necessary background to continue their children's education.
-
-Thousands of schoolchildren participated in the Independence Square in Colombo last Saturday (02) to raise awareness among the general public to eliminate the back pain from Sri Lanka.
-
-The Awareness Walk was sponsored by the Apollo Hospitals Group of India.
-
-“In the country, the large number of boys are suffering from problems in the spinal cord. The minimum knowledge of the disease is among people. Thus, the ability to save children from the disease has decreased. Therefore, parents need to raise awareness about the disease.
-
-...
-
-[Data](articles/7e0e630f.json)
-
-[Extended Data](ext_articles/7e0e630f.ext.json)
-
----
-
-### Death sentence to police officers
-
-*2024-03-04 16:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்களுக்கு-மரண-தண்டனை/175-334187) · `ta`
-
-Two police officers at Peliyagoda station sentenced to death. A suspect arrested in 2005 was also sentenced to death, allegedly by these officers. The verdict was delivered by Judge Nawaratne Marasinghe after a lengthy hearing.
-
-🟩
-
-Two police officers who were on duty at the Peliyagoda police station have been sentenced to death.
-
-In 2005, a suspect was arrested and sentenced to death for allegedly being arrested by a suspect by the Peliyagoda police.
-
-Colombo High Court Judge Nawaratne Marasinghe presented the verdict after a long hearing. Remble
-
-◼️
-
-[Data](articles/b2deb3dd.json)
-
-[Extended Data](ext_articles/b2deb3dd.ext.json)
-
----
-
-### Death sentence for police officers - High Court Action
-
-*2024-03-04 16:35:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்களுக்கு-மரண-தண்டனை-மேல்-நீதிமன்றம்-அதிரடி/175-334187) · `ta`
-
-Two police officers in Peliyagoda, Colombo, sentenced to death for arresting a suspect in 2005. The suspect was later executed. The verdict was delivered by Judge Nawaratne Marasinghe after a lengthy trial.
-
-🟩
-
-Two police officers who were on duty at the Peliyagoda police station have been sentenced to death.
-
-In 2005, a suspect was arrested and sentenced to death for allegedly being arrested by a suspect by the Peliyagoda police.
-
-Colombo High Court Judge Nawaratne Marasinghe presented the verdict after a long hearing. Remble
-
-◼️
-
-[Data](articles/e8eb3b70.json)
-
-[Extended Data](ext_articles/e8eb3b70.ext.json)
-
----
-
-### An accident youth killed in Batticaloa
-
-*2024-03-04 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177894) · `ta`
-
-A 20-year-old youth died in a motorcycle accident in Batticaloa's Eruvil area, while another was seriously injured. The accident occurred at 12.30 am on Monday, 04, when the motorcycle lost control near a tree. Both were taken to hospitals for treatment.
-
-🟩
-
-Kaluwanchikudi police said that a youth was killed in a motorcycle accident in the Eruvil area belonging to the Kaluwanchikudi police division in the Batticaloa district.
-
-The accident took place at around 12.30 am on Monday (04).
-
-The incident took place when a motorcycle lost a speeding control of a nearby tree as a friend went to the birthday of a friend.
-
-The two youths who were traveling on a motorcycle were taken to the Kaluwanchikudi Base Hospital with serious injuries and were taken to the Batticaloa Teaching Hospital for further treatment.
-
-A youth has died on the way to Batticaloa and the other youth is currently receiving treatment at the Batticaloa Teaching Hospital, police said.
-
-The death of a 20 -year -old youth from the village of Eruvil has died and the body of the deceased has now been placed at the Batticaloa Teaching Hospital.
-
-◼️
-
-[Data](articles/1139f4df.json)
-
-[Extended Data](ext_articles/1139f4df.ext.json)
-
----
-
-### Bed scan machine malfunction at Colombo National Hospital;6 months later not repaired - Radiopian professionals association president
-
-*2024-03-04 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177878) · `ta`
-
-The bed scan machine at Colombo National Hospital malfunctioned 6 months ago and remains unrepaired, despite attempts to use it for Siri scan testing. The Maharagama Cancer Hospital's machine is tested weekly, but essential pharmaceutical supply is inadequate. The machines are worth over Rs 45 crore, and the Minister of Health is urged to address the issue.
-
-🟩
-
-State hospitals in the country usually have only two bed scan machines. Six months have passed since the bed scan machine at the Colombo National Hospital, the repair operations have not yet been carried out, said Radiochers Association President Sanaka Dharmavickrama.
-
-He also alleges that the hospital parties are trying to carry out a Siri scan testing with the machine, with the machine at the Maharagama Cancer Hospital only once a week.
-
-He was commenting on Monday (04) in Colombo.
-
-Currently all state hospitals have only two bed scan machines. One machine has been installed at the Colombo National Hospital and the other machine at Maharagama Cancer Hospital. Six months after the collapse of the Peds Kane machine at the Colombo National Hospital, the machine repair has not been carried out.
-
-In addition, the machine at the Maharagama Cancer Hospital is currently undergoing tests once a week. The most patient is listed for bed scan testing. Private hospitals can cost up to Rs.
-
-...
-
-[Data](articles/497fe03a.json)
-
-[Extended Data](ext_articles/497fe03a.ext.json)
-
----
-
-### Sri Lanka hosts the global climate promise exchange workshop
-
-*2024-03-04 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97725/sri-lanka-hosts-the-global-climate-promise-exchange-workshop) · `en`
-
-16 countries from Africa, Europe and Central Asia, Africa and Arab State regions have gathered in Colombo, Sri Lanka for a global exchange workshop on climate action. The gathering begins today and will last until March 7. The aim of the workshop is for countries to share best practices, celebrate achievements and explore lessons learned from their work.
-
-With the support of the Government of Japan, the United Nations Development Programme has assisted developing countries in translating their national climate pledges (also known as their Nationally Determined Contributions, or NDCs) into tangible actions since 2021. The funding is implemented through UNDP’s flagship initiative, Climate Promise.
-
-...
-
-[Data](articles/2f7c6671.json)
-
-[Extended Data](ext_articles/2f7c6671.ext.json)
 
 ---

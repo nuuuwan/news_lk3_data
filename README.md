@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 15:17:53**
+As of **2024-03-05 15:33:34**
 
 ## Newspaper Stats
 
-*Scraped **10,994** Articles*
+*Scraped **10,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ dailyftlk | 584
 islandlk | 592
 adalk | 930
 adaderanalk | 1,338
-tamilmirrorlk | 1,340
+tamilmirrorlk | 1,343
 virakesarilk | 1,476
-dailymirrorlk | 1,674
+dailymirrorlk | 1,676
 adaderanasinhalalk | 1,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,987 (99.9%) of 10,994 articles have been extended.
+10,994 (100.0%) of 10,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### அரசாங்க பாடசாலை மாணவர்களுக்கு இலவச உணவு
+
+*2024-03-05 15:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-பாடசாலை-மாணவர்களுக்கு-இலவச-உணவு/175-334232) · `ta`
+
+அரச பாடசாலைகளில் 1-ம் வகுப்பு முதல் 5ம் வகுப்பு வரையிலான மாணவர்களுக்கான பாடசாலை உணவுத் திட்டத்தை செயல்படுத்துவதற்கு அமைச்சரவை அங்கீகாரம் அளித்துள்ளது.
+
+இலங்கையில் 100 கல்வி வலயங்களைச் சேர்ந்த 7,902 பாடசாலைகளில் பாடசாலை உணவுத் திட்டம்' அமுல்படுத்தப்படுவதாக அரசாங்கம் வெளிப்படுத்தியுள்ளது.
+
+இத்திட்டம் பாடசாலை மாணவர் சமூகத்தின் மொத்தம் 1.08 மில்லியன் மாணவர்களை உள்ளடக்குவதாகவும் இதற்காக ஒரு மாணவருக்கு ஒரு நாளைக்கு உணவுக்காக ரூ. 85/- செலவிடப்படுகிறது.
+
+ஆனால், இது குறித்து ஆய்வு செய்த அதிகாரிகள் குழுவானது அண்ணளவாக விலை ஏற்ற இறக்கத்தின் விளைவாக ஒரு உணவுக்கு குறைந்தபட்சம் ரூ. 110/-செலவிடப்படுகிறது எனத் தெரிவித்துள்ளது.
+
+மேலும், பாடசாலை உணவுத் திட்டத்தின்' கீழ் 2024 ஆம் ஆண்டிற்கான தெரிவு செய்யப்பட்ட 917 பாடசாலைகளில் 200,000 மாணவர்களுக்கு 03 உணவு வகைகளை வழங்க சேவ் த சில்ட்ரன் அமைப்பு இணங்கியுள்ளது.
+
+இதன்படி, ஒரு மாணவரின் உணவுக்காக செலவிடப்படும் தொகையை 110/- ரூபாயாக அதிகரிக்க கல்வி அமைச்சர் முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+...
+
+[Data](articles/df1fea2d.json)
+
+---
+
+### Sri Lanka Team starts new initiative: recognizes on-field performances
+
+*2024-03-05 15:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Team-starts-new-initiative-recognizes-on-field-performances/108-278276) · `en`
+
+Mar. 5 (SLC) - As part of a new initiative by the national team to recognize ‘on-field excellence,’ Charith Asalanka was awarded the ‘Orange Cap and the Coin’ by the team for his excellent fielding efforts during yesterday’s game against Bangladesh.
+
+Asalanka, apart from his batting heroics, held onto three catches, two of them coming at the most crucial moment in Sri Lanka’s winning cause.
+
+Upul Chandana, the team's fielding coach, awarded the 'Orange Cap and the Coin' to Asalanka.
+
+This latest move, the team management believes, will encourage players to perform at the highest level, and it intends to expand the recognition into other areas such as ‘bowling and batting, as well.
+
+◼️
+
+[Data](articles/dbbe23ce.json)
+
+---
+
+### Government approves meals at Rs. 110 per student
+
+*2024-03-05 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-meals-at-Rs-110-per-student/108-278277) · `en`
+
+Colombo, March 5 (Daily Mirror) - The government approves providing meals for Rs. 110 per student under the School Food Programme.
+
+Accordingly, the Cabinet granted approval for the resolution furnished by the Minister of Education to increase the amount spent for a meal for a student up to Rs. 110 and to implement the ‘School Food Programme’ for 170 days within 2024 for students in the primary division.
+
+The food programme will be implemented for students from Grades 1 to 5 in government schools.
+
+Addressing the media at the weekly Cabinet decisions briefing, Cabinet spokesman and Minister Bandula Gunawadana said the School Food Programme is implemented in 7,902 schools in 100 education zones in the island, covering a total of 1.08 million students.
+
+Earlier, approval was granted to provide an amount of Rs. 85 per day for a meal for each student.
+
+...
+
+[Data](articles/476d2e03.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர்களை எச்சரித்தார் சபாநாயகர்
+
+*2024-03-05 14:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்களை-எச்சரித்தார்-சபாநாயகர்/175-334231) · `ta`
+
+பாராளுமன்ற உறுப்பினர்கள் தமக்கு எதிராக நியாயமற்ற குற்றச்சாட்டுகளை முன்வைப்பதாக சிரேஷ்ட அரச உத்தியோகத்தர்களிடமிருந்து தமக்கு முறைப்பாடுகள் கிடைத்துள்ளதாக சுட்டிக்காட்டிய சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, இந்த அதிகாரிகளை விமர்சிப்பதை தவிர்க்குமாறு பாராளுமன்ற உறுப்பினர்களிடம் கோரிக்கை விடுத்துள்ளார்.
+
+“அரசு ஊழியர்கள் குறித்து எம்.பி.க்கள் கூறும் விமர்சனக் கருத்துக்கள் எதிர்காலத்தில் ஹன்சார்டில் இருந்து நீக்கப்படும்,” என்றார்.
+
+"அரசு ஊழியர்களுக்கு எதிரான குற்றச்சாட்டுகளுக்கு பதிலளிக்க வழியில்லாத நிலையில், எம்.பி.க்கள் அவர்களை விமர்சிப்பது நியாயமற்றது. எம்.பி.க்கள் யாரேனும் ஒரு பொது அதிகாரியை விசாரிக்க வேண்டும் என்றால், அவர்கள் அத்தகைய அதிகாரிகளை பாராளுமன்றத்திற்கு வரவழைத்து அவ்வாறு செய்யலாம்," என்று அவர் கூறினார். கூறினார்.
+
+◼️
+
+[Data](articles/73acdef3.json)
+
+---
 
 ### Asela Sampath says Channa Jayattha does not insult again
 
@@ -79,6 +155,20 @@ The firearm in question is suspected to have been used in the shooting of the me
 [Data](articles/c89c9dca.json)
 
 [Extended Data](ext_articles/c89c9dca.ext.json)
+
+---
+
+### நம்பிக்கையில்லாப் பிரேரணை கையளிக்கப்பட்டது
+
+*2024-03-05 14:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லாப்-பிரேரணை-கையளிக்கப்பட்டது/175-334229) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன மீதான நம்பிக்கையில்லா பிரேரணை சற்று முன்னர் பாராளுமன்ற பிரதி செயலாளர் நாயகம் சமிந்த குலரத்னவிடம் கையளிக்கப்பட்டது.
+
+எதிர்க்கட்சியின் பிரதம கொறடா லக்ஷ்மன் கிரியெல்ல, பாராளுமன்ற உறுப்பினர்களான ரஞ்சித் மத்தும பண்டார மற்றும் பேராசிரியர் ஜீ.எல்.பீரிஸ் ஆகியோரினால் நம்பிக்கையில்லா பிரேரணை கையளிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/a35a24ca.json)
 
 ---
 
@@ -133,6 +223,8 @@ The land and water surface areas will be granted to the Sri Lanka Solar Energy A
 ...
 
 [Data](articles/e2eaa335.json)
+
+[Extended Data](ext_articles/e2eaa335.ext.json)
 
 ---
 
@@ -215,6 +307,8 @@ The cabinet of ministers has approved a joint proposal presented by President Ra
 ...
 
 [Data](articles/685339e8.json)
+
+[Extended Data](ext_articles/685339e8.ext.json)
 
 ---
 
@@ -537,6 +631,8 @@ The deadline to submit expressions of interest for SriLankan Airlines has also b
 ◼️
 
 [Data](articles/322f8d9f.json)
+
+[Extended Data](ext_articles/322f8d9f.ext.json)
 
 ---
 
@@ -1214,6 +1310,8 @@ Official creditors will probably wait for the private creditor deal to get confi
 
 [Data](articles/029eb169.json)
 
+[Extended Data](ext_articles/029eb169.ext.json)
+
 ---
 
 ### Sri Lanka reveal likely T20 World Cup selection plan
@@ -1549,6 +1647,8 @@ A bond maturing on 15.09.2027 was quoted 11.90/12.00 percent unchanged from 11.9
 ...
 
 [Data](articles/40ce27e3.json)
+
+[Extended Data](ext_articles/40ce27e3.ext.json)
 
 ---
 
@@ -2028,6 +2128,8 @@ The selection of pre-qualified bidders is now scheduled for May 2024 from March 
 
 [Data](articles/36f9eb69.json)
 
+[Extended Data](ext_articles/36f9eb69.ext.json)
+
 ---
 
 ### Electricity now a luxury for a cluster of villages in Anuradhapura
@@ -2100,112 +2202,6 @@ Octane 95 petrol was at 447 rupees and super diesel was at 458 rupees, keeping p
 
 [Data](articles/e77fba6a.json)
 
----
-
-### Bondholder agreement delay unlikely to affect IMF review: Coomaraswamy
-
-*2024-03-05 06:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholder-agreement-delay-unlikely-to-affect-IMF-review-Coomaraswamy/108-278256) · `en`
-
-Says in case of a delay, IMF is likely to provide breathing space
-
-A potential delay in securing an agreement-in-principle (AIP) with Sri Lanka’s private bondholders is unlikely to impact the second review of the International Monetary Fund (IMF) programme, former Central Bank Governor Dr. Indrajit Coomaraswamy said.
-
-Rothschild, the financial advisor to the bondholder group, is currently studying the proposal and consequently, will present the proposal to the bondholder group with its recommendations, said the senior economist, addressing an informative forum organised by CA Sri Lanka in Colombo yesterday.
-
-While this process could take some time, he was confident that the bondholders, based on the recommendations of their advisors, would soon come onboard to reach an AIP with the government, possibly within the second review of the IMF programme.
-
-...
-
-[Data](articles/2a5307c7.json)
-
-[Extended Data](ext_articles/2a5307c7.ext.json)
-
----
-
-### Bondholder agreement delay unlikely to affect IMF review: Coomaraswamy
-
-*2024-03-05 06:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Bondholder-agreement-delay-unlikely-to-affect-IMF-review-Coomaraswamy/155-278256) · `en`
-
-Says in case of a delay, IMF is likely to provide breathing space
-
-A potential delay in securing an agreement-in-principle (AIP) with Sri Lanka’s private bondholders is unlikely to impact the second review of the International Monetary Fund (IMF) programme, former Central Bank Governor Dr. Indrajit Coomaraswamy said.
-
-Rothschild, the financial advisor to the bondholder group, is currently studying the proposal and consequently, will present the proposal to the bondholder group with its recommendations, said the senior economist, addressing an informative forum organised by CA Sri Lanka in Colombo yesterday.
-
-While this process could take some time, he was confident that the bondholders, based on the recommendations of their advisors, would soon come onboard to reach an AIP with the government, possibly within the second review of the IMF programme.
-
-...
-
-[Data](articles/bd40bb9f.json)
-
-[Extended Data](ext_articles/bd40bb9f.ext.json)
-
----
-
-### Rainy weather
-
-*2024-03-05 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194134) · `si`
-
-The Meteorological Department warns of major rain in parts of the island, especially in the Western and Sabaragamuwa provinces, and warm weather in the western southern Southern Provinces and Ratnapura district. It advises drinking enough water, especially for adults and the sick, and staying indoors to reduce stress.
-
-🟩
-
-The Meteorological Department says that there is a major rain weather in many parts of the island.
-
-The department states that in some places in the Western and Sabaragamuwa provinces expect the stations in the morning.
-
-Meanwhile, the Meteorology Department issued an announcement of warm weather conditions.
-
-The announcement is expected to come to the western southern Southern Provinces and some places in the Ratnapura district to a level of heating.
-
-Meanwhile, the Department of Meteorology requests the Department of Meteorologies to drink adequate water enough to drink adequate water.
-
-The department demands concerning the adult and sick people in the homes and not to hold their own children in the vehicles.
-
-The Department of Meteorology also requests that the people in the outdoors are to reduce high stress and stay in the shadow.
-
-◼️
-
-[Data](articles/dca9d646.json)
-
-[Extended Data](ext_articles/dca9d646.ext.json)
-
----
-
-### Visa free travel to enhance tourism industry potential
-
-*2024-03-05 05:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Visa-free-travel-to-enhance-tourism-industry-potential/108-278234) · `en`
-
-Tourism in Sri Lanka is on a high growth trajectory following a boost in the country’s potential as a must-visit destination.
-
-Visa free travel for tourists from China, India, Indonesia, Russia, Thailand, Malaysia and Japan has provided the right nudge for tourists to put Sri Lanka on the top of their travel bucket list.
-
-Nationals from these countries planning to visit Sri Lanka need to apply for Electronic Travel Authorization (ETA) before arriving, subject to granting of visa free of charge.
-
-The scheme is valid until March 2024 while the visa is valid for 30 days, permitting double entry from the date of initial arrival to Sri Lanka. However, industry sources believe that the boost in tourist arrivals may encourage the visa free travel scheme to be extended further.
-
-...
-
-[Data](articles/f7d9859c.json)
-
-[Extended Data](ext_articles/f7d9859c.ext.json)
-
----
-
-### Colombo Plan to further expand maritime sector
-
-*2024-03-05 04:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Plan-to-further-expand-maritime-sector/108-278231) · `en`
-
-From left: Rohan Masakorala -Lead Consultant, Maritime Advisory Programme, CP, Dr. Benjamin Reyes-Secretary General CP and Khalid Hamoud, Ambassador of Saudi Arabia to Sri Lanka
-
-Dr. Benjami Reyes, the Secretary General of Colombo Plan (CP) met with the Saudi Arabian Ambassador to Sri Lanka Khalid Hamoud Alkahtani recently to discuss further cooperation in the maritime sector as a member country of the Colombo Plan.
-
-The Lead Consultant to the CP Maritime Advisory Programme, Rohan Masakorala, joined the discussion where areas of infrastructure, capacity building and trade facilitation were the topics of concern. The Saudi Ambassador to Sri Lanka has expressed optimism and conveyed his continuing support to future collaboration initiatives with CP, as a leading gulf state.
-
-...
-
-[Data](articles/9f71001f.json)
-
-[Extended Data](ext_articles/9f71001f.ext.json)
+[Extended Data](ext_articles/e77fba6a.ext.json)
 
 ---

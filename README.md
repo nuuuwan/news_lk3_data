@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 12:33:15**
+As of **2024-03-05 12:49:05**
 
 ## Newspaper Stats
 
-*Scraped **10,957** Articles*
+*Scraped **10,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 928
-adaderanalk | 1,332
+adaderanalk | 1,333
 tamilmirrorlk | 1,338
 virakesarilk | 1,468
 dailymirrorlk | 1,671
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,957 (100.0%) of 10,957 articles have been extended.
+10,957 (100.0%) of 10,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### Shooting reported in front of shop in Nawagamuwa
+
+*2024-03-05 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97740/shooting-reported-in-front-of-shop-in-nawagamuwa) · `en`
+
+A shooting incident was reported in the Korathota area of Nawagamuwa this morning (March 05).
+
+According to the police, two assailants who had arrived on a motorcycle had fired gunshots into the air in front of a building materials store.
+
+◼️
+
+[Data](articles/c4b2e527.json)
+
+---
 
 ### 36-ball spell in a T20I! A night to forget for Pathirana vs Bangladesh
 
@@ -724,19 +738,19 @@ In his address to a gathering of women supporters of the NPP, he said the Rajapa
 
 *2024-03-05 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97737/sc-muthukumarana-sworn-in-as-member-of-parliament) · `en`
 
-S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament on Tuesday (March 05).
+S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament today (March 05).
 
 The new MP took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off this morning.
 
-Muthukumarana was appointed to fill the MP seat which was left vacant after the resignation of SLPP MP of Anuradhapura Constituency, Uddika Premarathne.
-
-He was next in line on the SLPP list for the Anuradhapura District.
+Muthukumarana, who was next in line on the SLPP list for the Anuradhapura District, was appointed to fill the MP seat left vacant after the resignation of MP Uddika Premarathne.
 
 Premarathne had tendered his resignation to the Deputy General Secretary of Parliament on February 27 for reasons yet to be made public.
 
 Later, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of Parliament informed the Election Commission’s chairman, in writing, of the vacancy in the House.
 
-◼️
+Born in 1953, Muthukumarana embarked on active politics in 1977. He was elected to the Kalawewa ‘Pradeshiya Sabha’ in 1991 and was also elected to the North Central Provincial Council in 1993 and 1999.
+
+...
 
 [Data](articles/37667538.json)
 
@@ -2171,29 +2185,5 @@ Sinaperic is 368 liters of fuel and the price of a litto diesel is Rs. 360.
 [Data](articles/beb131ee.json)
 
 [Extended Data](ext_articles/beb131ee.ext.json)
-
----
-
-### Fuel prices revised from tonight
-
-*2024-03-04 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-from-tonight/108-278223) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from tonight.
-
-Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 456) has been reduce by Rs. 9, and its new retail price will be Rs. 447.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 468) has been reduced by Rs. 10, and its new retail price will be Rs. 458.
-
-A litre of Lanka Kerosene (Rs. 262) has been reduced by Rs. 5, and its new retail price will be Rs. 257.
-
-The selling price of a litre of Lanka Petrol 92 Octane and a litre of Lanka Auto Diesel remain as Rs. 371 and Rs. 363.
-
-The Chinese petroleum company SINOPEC announced its decision to adjust fuel prices in accordance with the CPC announcement from tonight.
-
-◼️
-
-[Data](articles/907d5b3a.json)
-
-[Extended Data](ext_articles/907d5b3a.ext.json)
 
 ---

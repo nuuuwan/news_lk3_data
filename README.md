@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 11:52:10**
+As of **2024-03-05 12:03:09**
 
 ## Newspaper Stats
 
-*Scraped **10,946** Articles*
+*Scraped **10,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,153 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 928
-adaderanalk | 1,331
+adaderanalk | 1,332
 tamilmirrorlk | 1,335
-virakesarilk | 1,463
+virakesarilk | 1,467
 dailymirrorlk | 1,670
-adaderanasinhalalk | 1,707
+adaderanasinhalalk | 1,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,943 (100.0%) of 10,946 articles have been extended.
+10,946 (99.9%) of 10,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### மக்களை ஒருபோதும் ஏமாற்ற மாட்டோம்: பசில்
+### சொத்துக்கள் மற்றும் பொறுப்புகள் ஆகியவற்றை வெளியிடும் சட்டத்தில் திருத்தம்
+
+*2024-03-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177931) · `ta`
+
+1988 ஆம் ஆண்டின் 74 ஆம் இலக்கச் சட்டத்தால் திருத்தப்பட்ட 1975 ஆம் ஆண்டின் 01 ஆம் இலக்க சொத்துக்கள் மற்றும் பொறுப்புகள் ஆகியவற்றை வெளிப்படுத்தல் சட்டத்தில் குறிப்பிடப்பட்டுள்ள சொத்துக்கள் மற்றும் பொறுப்புகள் குறித்து அறிவிக்க வேண்டிய அதிகாரிகள் மற்றும் தனிநபர்களின் பிரிவுகளுக்கு மேலதிகமாக, 2023 ஆண்டின் 9 ஆம் இலக்க ஊழல் எதிர்ப்புச் சட்டத்தின் பிரிவு 80 இன் ஊடாக மேலும்   அதிகாரிகள் மற்றும் தனிநபர்களின் பல பிரிவுகள் ஊடாக சொத்துக்கள் மற்றும் பொறுப்புகள் ஆகியவற்றை அறிவிப்பதன் அவசியம் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c80fa5d6.json)
+
+---
+
+### Indefinite railway strike from midnight today
+
+*2024-03-05 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97739/indefinite-railway-strike-from-midnight-today) · `en`
+
+Several employees of Sri Lanka Railways have decided to launch an indefinite strike with effect from midnight today (March 05).
+
+The trade unions of locomotive operating engineers, railway guards, and railway supervisory managers will be joining this strike action.
+
+They are urging the government to reverse the Cabinet paper that proposes to reduce their salaries.
+
+◼️
+
+[Data](articles/a85d0acd.json)
+
+---
+
+### නවගමුවේ වෙඩිතැබීමක්
+
+*2024-03-05 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194152) · `si`
+
+අද උදෑසන නවගමුව පොලිස් බල ප්‍රදේශයේ කොරතොට ප්‍රදේශයේ වෙඩිතැබීමක් සිදුව තිබේ.
+
+පොලීසිය පැවසුවේ කොරතොට ප්‍රදේශයේ පිහිටි ගොඩනැගිලි ද්‍රව්‍ය අලෙවිසැලක් ඉදිරිපිටදී මෙම වෙඩිතැබීම සිදුව ඇති බවය.
+
+එහිදී යතුරුපැදියකින් පැමිණි දෙදෙනෙකු අලෙවිසැල ඉදිරිපිටදී අහසට වෙඩිතබා පළාගොස් ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/57243be2.json)
+
+---
+
+### We will never deceive people: Basil
 
 *2024-03-05 11:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களை-ஒருபோதும்-ஏமாற்ற-மாட்டோம்-பசில்/175-334219) · `ta`
 
-தமது கட்சி ஒருபோதும் மக்களை ஏமாற்ற முயற்சிக்கவில்லை என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் ஸ்தாபகர் பசில் ராஜபக்ஷ தெரிவித்துள்ளார்.
+Basil Rajapaksa, founder of Sri Lanka Peoples Alliance, claims his party never deceives people, despite facing criticism. He returned to Sri Lanka, stating no intention to re-enter parliament, and emphasized the importance of making changes and addressing challenges in elections.
 
-இன்று (05) காலை நாடு திரும்பிய அவர், ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு கூறியுள்ளார்.
+🟩
 
-மேலும், மீண்டும் பாராளுமன்றத்துக்கு வரும் எண்ணம் தமக்கு இல்லை என்றும், எந்த தேர்தல் நடந்தாலும் அதற்கான ஏற்பாடுகளை தாம் செய்வதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Basil Rajapaksa, the founder of the Sri Lanka Peoples Alliance (PA), has said that his party has never tried to deceive the people.
 
-தேவையான இடங்களில் மாற்றத்தை ஏற்படுத்துவேன் என நம்புவதாக தெரிவித்த பசில் ராஜபக்ஷ, ஒவ்வொரு தேர்தலும் சவாலாகவே உள்ளது என்றும் கூறினார்.
+Returning to the country this morning (05), he said this while commenting to the media.
 
-"நாங்கள் மக்களை ஒருபோதும் ஏமாற்றுவதில்லை. மக்கள் சொல்வதைச் செய்கிறோம். சில இடங்களில் தவறு செய்கிறோம். மக்கள் நாங்கள் சொல்வதை ஏற்க மாட்டார்கள். சில சமயங்களில் மக்கள் சொல்வதை நாங்கள் ஏற்காத சந்தர்ப்பங்களும் உள்ளன. அவற்றை நாங்கள் திருத்திக்கொள்கின்றோம்." என்றார்.
+He also stated that he had no intention of coming back to parliament and that he would make arrangements for any election.
+
+Basil Rajapakse said he hoped to make a change where necessary, and that every election is a challenge.
+
+“We never deceive people. We do what people say. We are doing wrong in some places. People don't accept what we say. There are also opportunities we do not accept what people say sometimes. We correct them. ”
 
 ◼️
 
 [Data](articles/894f83c0.json)
 
+[Extended Data](ext_articles/894f83c0.ext.json)
+
 ---
 
-### අද මධ්‍යම රාත්‍රියේ සිට දුම්රිය වර්ජනයක්
+### Railway strike from midnight today
 
 *2024-03-05 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194151) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි දුම්රිය වර්ජනයක් ආරම්භ කරන බව ලොකොමොටිව් ඔපරේටින්ග්ස් ඉංජිනේරු සංගමය පවසයි.
+A railway strike begins at midnight today, involving the Locometive Opposition Engineer Association, Railway Drivers Association, and Railway Supervisory Managers Association.
 
-එම සංගමයේ සභාපති චන්දන ලාල් මහතා අද දෙරණ වෙත ප්‍රකාශයක් සිදුකරමින් පැවසුවේ තවත් වෘත්තීය සමිති කිහිපයක් මෙම වෘත්තීය ක්‍රියාමාර්ගයට එක්වන බවය.
+🟩
 
-ඒ අනුව දුම්රිය රියදුරු සංගමය දුම්රිය නියාමක සංගමය සහ දුම්රිය අධීක්ෂණ කළමනාකරුවන්ගේ සංගමය මෙම වැඩ වර්ජනයට එක්වන බව ලොකොමොටිව් ඔපරේටින්ග්ස් ඉංජිනේරු සංගමයේ සභාපතිවරයා පැවසීය.
+The Locometive Opposition Engineer Association says that the train strike will be operated from midnight today.
+
+The President of the Association Chandana Lal said to Derana said that several other trade unions join the trade union action.
+
+Accordingly, the Railway Drivers Association and the Railway Supervisory Managers Association will join the strike.
 
 ◼️
 
 [Data](articles/50945768.json)
 
+[Extended Data](ext_articles/50945768.ext.json)
+
 ---
 
-### මැතිවරණ කොමිසම ශ්‍රේෂ්ඨාධිකරණයට කරුණු දක්වයි
+### இந்திய மீனவர்களின் அத்துமீறலைக் கண்டித்து வடக்கில் ஆர்ப்பாட்டம் !
+
+*2024-03-05 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177932) · `ta`
+
+இந்திய மீனவர்களின் அத்துமீறலைக் கண்டித்து இன்று செவ்வாய்க்கிழமை (05) காலை முதல் வடக்கில் ஆர்ப்பாட்டம் ஒன்று நடைபெறுகின்றது.
+
+குறித்த ஆர்ப்பாட்டம் மாவட்ட செயலகம் முன்பாகவும் வடக்குமாகாண ஆளுநர் அலுவலக பிரதான வீதியிலும் முன்னெடுக்கப்படுகின்றது.
+
+இந்நிலையில், வடக்கு ஆளுநர் அலுவலகதிற்கு செல்ல அனுமதி மறுக்கப்பட்டதால் ஆர்ப்பாட்டத்தில் ஈடுபட்ட 4 பேரை மாத்திரம் ஆளுநர் அலுவலகத்திற்குள் செல்ல அனுமதி வழங்கப்பட்டுள்ளது.
+
+இதனையடுத்து, யாழ்ப்பாணத்தில் உள்ள இந்திய துணை துதரகத்திற்கு ஆர்ப்பாட்டக்காரர்கள்  ஊர்வலமாக சென்று எதிர்ப்பினை வெளிப்படுத்தவுள்ளமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/94120770.json)
+
+---
+
+### The Election Commission facts the Supreme Court
 
 *2024-03-05 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194150) · `si`
 
-ඉකුත් වසරේ මාර්තු 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොණු කළ මූලික අයිතිවාසිකම් පෙත්සම්වලට අදාළ ව මැතිවරණ කොමිසම අද (05) ශ්‍රේෂ්ඨාධිකරණය හමුවේ කරුණු දැක්වීම ආරම්භ කළේය.
+The Election Commission appealed to the Supreme Court, citing a decision by the Fundamental Rights Commission on March 9 last year. The case involves petitions by the reconciliation, national population, PAFFREL, and CPA, with the Election Commission as a respondent.
 
-අදාළ මූලික අයිතිවාසිකම් පෙත්සම් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී අදාළ පෙත්සම්වල වගඋත්තරකරුවකු වශයෙන් නම්කර සිටි මැතිවරණ කොමිසම සහ එහි සාමාජිකයින් වෙනුවෙන් ජනාධිපති නීතිඥ සාලිය පිරිස් මහතා කරුණු ඉදිරිපත් කිරීම ආරම්භ කළේය.
+The election commission commenced the Fundamental Rights Commission today (05) before the Fundamental Rights Commission to file a decision to be held on March 9 last year.
 
-සමගි ජන බලවේගය, ජාතික ජන බලවේගය,  පැෆ්රල් සංවිධානය සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් අදාළ පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The fundamental rights petitions were called before Chief Justice Jayantha Jayasuriya, a five-member Supreme Court judge.
+
+At the same time, the Elections Commission and its members were appointed as a respondent in the petitioners.
+
+The petitions were presented by the reconciliation, national population, the PAFFREL and the CPA.
 
 ◼️
 
 [Data](articles/150a0a2e.json)
+
+[Extended Data](ext_articles/150a0a2e.ext.json)
 
 ---
 
@@ -101,6 +181,40 @@ The driver of the lorry has been admitted to the Balangoda Balangoda in crash, a
 [Data](articles/928125d0.json)
 
 [Extended Data](ext_articles/928125d0.ext.json)
+
+---
+
+### இலங்கை அரசாங்கம் முன்வைத்துள்ள நல்லிணக்க பொறிமுறைகள் பாதிக்கப்பட்டவர்களின் கரிசனைகளிற்கு தீர்வைகாணப்போவதில்லை  - மனிதஉரிமை பேரவையில் பேர்ள்
+
+*2024-03-05 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177929) · `ta`
+
+இலங்கை அரசாங்கத்தை  தமிழர்களிற்கு எதிரான குற்றங்களிற்கு  பொறுப்புக்கூறச்செய்வதன் மூலம் சர்வதேச சட்டங்களைமீறுபவர்கள்  தண்டனையின் பிடியிலிருந்து விலக்களிக்கப்படமாட்டார்கள் என்ற செய்தியை சர்வதேச சமூகம்  தெரிவிக்க முடியும் என இலங்கையில் சமத்துவம் நிவாரணத்திற்கான மக்கள் அமைப்பு பேர்ள் ஐக்கிய நாடுகள் மனித உரிமை பேரவையில் தெரிவித்துள்ளது.
+
+ஐக்கியநாடுகள் மனித உரிமை பேரவையில் மனித உரிமை ஆணையாளரின்  வாய்மூல அறிக்கையின் பின்னர் இடம்பெற்ற பொதுவிவாதத்தில் பேர்ள் அமைப்பு இலங்கை 15 வருடங்களிற்கு முன்னர்  இழைத்த யுத்த குற்றங்கள் மனித குலத்திற்கு எதிரான குற்றங்கள் இனப்படுகொலை போன்றவற்றை நினைவுகூர்ந்தது.
+
+இந்த அநீதிகளிற்கு அதுவரை நீதியோ பொறுப்புக்கூறலோ இல்லை 169 796 தமிழர்களிற்கு என்ன நடந்தது என்பது தெரியாது அவர்கள் உயிரிழந்துவிட்டனர் என கருதப்படுகின்றதுஎன  பேர்ள் அமைப்பு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/1ab4723b.json)
+
+---
+
+### பாராளுமன்றத்தின் உறுப்பினராக எஸ்.சி.முத்துக்குமாரன  சத்தியப்பிரமாணம்
+
+*2024-03-05 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177927) · `ta`
+
+ஒன்பதாவது பாராளுமன்றத்தின் உறுப்பினராக எஸ்.சி.முத்துக்குமாரன  இன்று செவ்வாய்க்கிழமை (05) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்து கொண்டதன் பின்னர் பாராளுமன்ற பதில் செயலாளர் நாயகம் சமிந்த குலரத்ன முன்னிலையில் பாராளுமன்ற உறுப்பினர்களுக்கான ஏட்டிலும் அவர் கையொப்பமிட்டார்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவை அநுராதபுர மாவட்டத்தில் பிரதிநிதித்துவப்படுத்திய பாராளுமன்ற உறுப்பினர் உத்திக பிரேமரத்ன தனது பதவியை இராஜினாமாச் செய்ததையடுத்து ஏற்பட்ட வெற்றிடத்துக்கே எஸ்.சி. முத்துகுமாரன இவ்வாறு நியமிக்கப்பட்டார்.
+
+1953ஆம் ஆண்டு பிறந்த எஸ்.சி.முத்துகுமாரன அநுராதபுரம் மத்திய கல்லூரியில் தனது கல்வியைப் பெற்றுக்கொண்டார். இவர் 1977ஆம் ஆண்டு தனது அரசியல் பயணத்தை ஆரம்பித்தார். 1991ஆம் ஆண்டு கலாவெவ பிரதேச சபைக்குத் தெரிவுசெய்யப்பட்டதுடன், 1993 மற்றும் 1999ஆம் ஆண்டுகளில் வடமத்திய மாகாணசபைக்குத் தெரிவுசெய்யப்பட்டார்.
+
+...
+
+[Data](articles/e032051c.json)
 
 ---
 
@@ -2045,151 +2159,5 @@ Fuel prices have been revised from midnight today by the Ceylon Petroleum Corpor
 [Data](articles/2e129408.json)
 
 [Extended Data](ext_articles/2e129408.ext.json)
-
----
-
-### Sri Lanka win first Twenty20 wins
-
-*2024-03-04 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194130) · `si`
-
-Sri Lanka secured their first Twenty20 victory against Bangladesh by 3 runs, with Bangladesh's batsmen managing just two wickets in the final.
-
-🟩
-
-Sri Lanka won the first Twenty20 match against Bangladesh by 3 runs.
-
-The batsmen of Bangladesh were controlled by Bangladesh batsmen, with two wickets in the final.
-
-◼️
-
-[Data](articles/7931417d.json)
-
-[Extended Data](ext_articles/7931417d.ext.json)
-
----
-
-### Peradeniya University student dies
-
-*2024-03-04 21:10:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராதனைப்-பல்கலைக்கழக-மாணவன்-உயிரிழப்பு/175-334193) · `ta`
-
-Isuru Madushan, a Peradeniya University medical student, drowned in the Mahaweli Ganga, died after being rescued and treated at Nawalapitiya Teaching Hospital.
-
-🟩
-
-A student of Peradeniya University, who was admitted to the hospital after being drowned in the Mahaweli Ganga, has died.
-
-The deceased is Isuru Madushan, who is educated in the medical section at the University of Peradeniya.
-
-He was visiting the Nawalapitiya Teaching Hospital for medical exercises on February 23 last year.
-
-He has been rescued by the residents of the area and has been admitted to the Nawalapitiya Hospital.
-
-He has been receiving treatment at the hospital's intensive care unit for several days and died today (4). Remble
-
-◼️
-
-[Data](articles/88a4fa66.json)
-
-[Extended Data](ext_articles/88a4fa66.ext.json)
-
----
-
-### Foreign Ministry confirms rescue of 08 Sri Lankans trafficked to Myanmar
-
-*2024-03-04 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97730/foreign-ministry-confirms-rescue-of-08-sri-lankans-trafficked-to-myanmar) · `en`
-
-Following continuous efforts made by the Government of Sri Lanka, eight (8) Sri Lankans out of the 56 trapped in cybercrime centres in Myawaddy area in Myanmar have been rescued by the Myanmar government authorities and are currently in the Myawaddy Central Police Station, the Ministry of Foreign Affairs confirmed.
-
-Issuing a statement on Monday (04), the Foreign Affairs Ministry said the Embassy of Sri Lanka in Myanmar is currently working on the early repatriation of the rescued Sri Lankans.
-
-As per information made available by the Embassy of Sri Lanka in Myanmar, the 56 Sri Lankans who have been trafficked are being held in four separate locations in the Myawaddy area and the rescued eight Sri Lankans were in one of these locations in an area that could be accessed by the Myanmar government.
-
-...
-
-[Data](articles/430dce44.json)
-
-[Extended Data](ext_articles/430dce44.ext.json)
-
----
-
-### Foward 2024 intermediate class admission applications to schools
-
-*2024-03-04 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foward-2024-intermediate-class-admission-applications-to-schools/108-278219) · `en`
-
-Applications for admission of students for intermediate classes in 2024 should be forwarded to the schools, the Education Ministry announced.
-
-The Ministey also said that it will not issue letters related to the admission of students for intermediate grades.
-
-Furthermore, the Ministry further informs the public not to visit the Ministry to obtain letters related to admission of children for intermediate grades.
-
-◼️
-
-[Data](articles/344c2427.json)
-
-[Extended Data](ext_articles/344c2427.ext.json)
-
----
-
-### Reduces electricity tariffs
-
-*2024-03-04 20:39:20* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩු-කරයි/11-408427) · `si`
-
-PUCSL reduces electricity tariffs by 33% for 30 units, 24% for 91-180 units, and 18% for over 180 units. General work categories, public sector, and street lamps also see reductions.
-
-🟩
-
-The PUCSL has reduced the electricity tariff from 12.00 am today (04).
-
-Accordingly, the price of a power of 30 units has decreased by 33%. That is, the unit charged Rs. 12 is reduced to Rs.
-
-The monthly fee of the category has been reduced from Rs. 150 to Rs.
-
-The price of a venerated electricity has been reduced from Rs 30 to 20 rupees and the monthly fee has been reduced to Rs.
-
-The category electric charge between 61-90 has been down by 30%. The 41 rupees fee for a unit has been reduced to Rs. 30 and the monthly fee has been reduced to Rs. 480 to Rs.
-
-The electricity fares between 91 -180 has been reduced by 24% and the price of a unit of electricity has been reduced to Rs.. The monthly fee has been reduced to Rs.1180 to Rs.
-
-The total cost of the gathering exceeding 180 units has been reduced by 18% and the monthly fee of Rs.The price of electricity has been reduced from Rs. 59 to Rs. 50.
-
-The monthly electricity charge of more than 180 units has been reduced from Rs. 260 to Rs. 89 to Rs.
-
-...
-
-[Data](articles/1c5d4214.json)
-
-[Extended Data](ext_articles/1c5d4214.ext.json)
-
----
-
-### A revelation from the missing girl
-
-*2024-03-04 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194129) · `si`
-
-The Badlugama Police found a 17-year-old girl missing for three months. She revealed her mother had been hiding due to a complaint lodged by the girl's mother. The police discovered her in the Euraluwa area in Katunayake and took her to the Badlugama police station for further investigations.
-
-🟩
-
-The Badlugama Police have discovered a 17-year-old girl from the Divulapitiya Kondammulla area who had been disappeared for three months.
-
-She has told the police that his mother had long lived and lived in hiding home because of his mother.
-
-The girl's mother had lodged a complaint with the Girl in Divulapitiya, a 17-year-old girl was missing from December last year.
-
-Accordingly, the police operates and implemented the girl.
-
-Meanwhile, the police received information that the girl is in the Euraluwa area in Katunayake.
-
-The police went to the Emitndanda area and took her in the Emitnd.
-
-The girl who was brought to the Badalgama police station for further investigations was due to his home.
-
-She also told the police about the places where she stayed at times for three months.
-
-◼️
-
-[Data](articles/e39f0981.json)
-
-[Extended Data](ext_articles/e39f0981.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 14:50:10**
+As of **2024-03-05 15:03:06**
 
 ## Newspaper Stats
 
-*Scraped **10,984** Articles*
+*Scraped **10,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,77 @@ economynextcom | 562
 dailyftlk | 584
 islandlk | 592
 adalk | 930
-adaderanalk | 1,337
+adaderanalk | 1,338
 tamilmirrorlk | 1,340
-virakesarilk | 1,475
+virakesarilk | 1,476
 dailymirrorlk | 1,674
-adaderanasinhalalk | 1,716
+adaderanasinhalalk | 1,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,982 (100.0%) of 10,984 articles have been extended.
+10,984 (100.0%) of 10,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
+### චන්න ජයසුමනට යළි අපහාස නොකරන බව අසේල සම්පත් කියයි
+
+*2024-03-05 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194161) · `si`
+
+තමන්ට අපහාසයක් සිදුවූ බවට පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චන්න ජයසුමන මහතා කොළඹ දිසා අධිකරණයේ පවරා තිබූ වන්දි නඩුව විභාගයට ගත් අවස්ථාවේ අසේල සම්පත් එම ප්‍රකාශය සම්බන්ධයෙන් චන්න ජයසුමන මහතාට කනගාටුව පළ කර තිබේ.
+
+තවද , නැවත ඒ මත පදනම්ව කිසිදු අපහාසයක් සිදුනොකරන බවට පැවසීමත් සමග නඩුව සමථයකට පත්වී ඇත.
+
+කෝට්ටේ ප්‍රදේශයෙන් රුපියල් මිලියන 200ක නිවසක් මිලදී ගෙන ඇතැයි ද, එම නිවසට ගෘහ භාණ්ඩ සහ අනෙකුත් භාණ්ඩ මිලදී ගෙන ඇතැයි ද, පසුදින එම නිවස ඉදිරිපිටට පැමිණ සජීවී වීඩියෝවක් කරන බවටද 2021 වසරේ සිදු කළ ප්‍රකාශයක් සහ ඉන් පසුව ඒ මත පදනම් වෙමින් දිගින් දිගටම සිදුකළ ප්‍රකාශ මගින් තමන්ට අපහාසයක් සිදුවූ බව පවසමින් පාර්ලිමේන්තු මන්ත්‍රී චන්න ජයසුමන මහතා මෙම නඩුව පවරා තිබුණි.
+
+තමන්ට කෝට්ටේ හෝ වෙනත් කවර හෝ තැනකින් එවැනි වටිනාකමක් සහිත නිවසක් හෝ වෙනත් කිසිඳු දේපොළක් අයත් නැති බවත් අසේල සම්පත් ගේ ප්‍රකාශය හුදු ද්වේශය මත පදනම්ව අපහාස කිරීම සඳහාම ගොතන ලද කතාවක් බවත් මහාචාර්ය චන්න ජයසුමන මීට පෙර දිසා අධිකරණයේදී සාක්ෂි දෙමින් පැවසීය.
+
+...
+
+[Data](articles/b9db6b32.json)
+
+---
+
+### Kandana shooting: Suspect arrested with T56 rifle and 45 bullets
+
+*2024-03-05 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97743/kandana-shooting-suspect-arrested-with-t56-rifle-and-45-bullets) · `en`
+
+The Police Special Task Force (STF) has arrested a suspect along with a firearm and ammunition, in connection with the shooting of a meat stall owner in Kandana in August last year.
+
+Police said the suspect was arrested in the Kandana area along with a T56 assault rifle, 02 magazines and 45 rounds of ammunition.
+
+Police suspect that the shooting had been carried out on the directive of the organized criminal gang leader known by the alias “Chooti Malli”, who is believed to be in hiding in Dubai, over a ransom demand.
+
+Accordingly, the firearm had been found hidden in a residence linked to “Chooti Malli” located at Pamunugama.
+
+◼️
+
+[Data](articles/c89c9dca.json)
+
+---
+
+### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை சமர்ப்பிப்பு
+
+*2024-03-05 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177958) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக கொண்டுவரப்பட்ட நம்பிக்கையில்லா பிரேரணை இன்று செவ்வாய்க்கிழமை (05) பாராளுமன்ற பிரதி செயலாளர் நாயகம் சமிந்த குலரத்னவிடம் கையளிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c87a29d6.json)
+
+---
+
 ### Suspect arrested for shouting the meat
 
 *2024-03-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194160) · `si`
+
+A person was arrested by the STF for shooting a meat shop owner in Kandana in August. The STF seized a 56 rifle, 4 bullets, and two magazines.
+
+🟩
 
 A person has been arrested by the STF in connection with the shooting case of a meat shop owner in the Kandana area last August.
 
@@ -142,6 +194,8 @@ Abeywardena is also accused of allowing the Third Reading of the Online Safety B
 
 [Data](articles/eecff58e.json)
 
+[Extended Data](ext_articles/eecff58e.ext.json)
+
 ---
 
 ### Restaurant food prices to be reduced from tonight
@@ -241,6 +295,8 @@ The proposal furnished by President Ranil Wickremesinghe was green-lighted by th
 ◼️
 
 [Data](articles/112a3e16.json)
+
+[Extended Data](ext_articles/112a3e16.ext.json)
 
 ---
 
@@ -2161,53 +2217,5 @@ He is presently serving as the Additional Secretary in charge of the Consular Af
 [Data](articles/81015ea9.json)
 
 [Extended Data](ext_articles/81015ea9.ext.json)
-
----
-
-### 8 Lankans trafficked to Myanmar rescued; 48 still in captive
-
-*2024-03-05 01:39:32* · [`dailyftlk`](https://www.ft.lk/news/8-Lankans-trafficked-to-Myanmar-rescued-48-still-in-captive/56-759176) · `en`
-
-Following continuous efforts made by the Government eight Sri Lankans out of the 56 trapped in cybercrime centres in Myawaddy area in Myanmar have been rescued by the Myanmar Government authorities and are currently in the Myawaddy Central Police Station.
-
-The Embassy of Sri Lanka in Myanmar is currently working on the early repatriation of the rescued Sri Lankans. As per information made available by the Embassy of Sri Lanka in Myanmar, the 56 Sri Lankans who have been trafficked are being held in four separate locations in the Myawaddy area and the rescued eight Sri Lankans were in one of these locations in an area that could be accessed by the Myanmar Government.
-
-...
-
-[Data](articles/89823634.json)
-
-[Extended Data](ext_articles/89823634.ext.json)
-
----
-
-### Extraordinary Gazette declares several essential services
-
-*2024-03-05 01:39:24* · [`dailyftlk`](https://www.ft.lk/news/Extraordinary-Gazette-declares-several-essential-services/56-759175) · `en`
-
-The Government has issued an Extraordinary Gazette declaring all services connected to the supply of electricity and the supply or distribution of petroleum products and fuel as essential services.
-
-The Extraordinary Gazette bearing No.2373/59 dated 3 March was issued by the Secretary to the President Saman Ekanayake by order of President Ranil Wickremesinghe.
-
-“Considering it necessary that the services provided by any Public Corporation or Government Department or Local Authority or Co-operative Society or any branch thereof being a Department or Corporation or Local Authority or Co-operative Society, which is engaged in provision of the services specified in the Schedule hereto, is essential to the life of the community and is likely to be impeded or interrupted, declare the services specified in the Schedule hereto to be an Essential Public Service for the purposes of the Section 2 of the Essential Public Services Act, No. 61 of 1979,” the Gazette noted.
-
-◼️
-
-[Data](articles/d9a0fe7d.json)
-
-[Extended Data](ext_articles/d9a0fe7d.ext.json)
-
----
-
-### The Hardware & Software Of Reconciliation
-
-*2024-03-05 01:30:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-hardware-software-of-reconciliation/) · `en`
-
-President Ranil Wickremesinghe addressing a conference of over 300 members from inter-religious committees from across the country summed up his plan for national reconciliation in less than 20 minutes. The president was clear in his articulation. He spoke with no notes. There were no superfluities in his speech. He noted how racism and bigotry have become convenient tools for politicians to wield power and for religious leaders to maintain their authority. He pointed to lessons learned from prolonged use of these divisive tactics, which ultimately led the country into a devastating conflict. He took two questions from the audience and before the organisers of the conference could even thank him on stage he left the podium for his next meeting.
-
-...
-
-[Data](articles/80088226.json)
-
-[Extended Data](ext_articles/80088226.ext.json)
 
 ---

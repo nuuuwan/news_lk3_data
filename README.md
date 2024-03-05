@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 08:33:19**
+As of **2024-03-05 08:51:46**
 
 ## Newspaper Stats
 
-*Scraped **10,902** Articles*
+*Scraped **10,906** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 107
-bbccomsinhala | 129
+bbccomsinhala | 130
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 562
 dailyftlk | 584
 islandlk | 592
-adalk | 923
-adaderanalk | 1,323
-tamilmirrorlk | 1,328
+adalk | 924
+adaderanalk | 1,324
+tamilmirrorlk | 1,329
 virakesarilk | 1,458
 dailymirrorlk | 1,661
 adaderanasinhalalk | 1,699
@@ -26,71 +26,119 @@ adaderanasinhalalk | 1,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,898 (100.0%) of 10,902 articles have been extended.
+10,902 (100.0%) of 10,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### තවත් සැකකටයුතු මරණයක්
+### நாட்டில் வறட்சியான காலநிலையே காணப்படும்
+
+*2024-03-05 08:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-வறட்சியான-காலநிலையே-காணப்படும்/175-334211) · `ta`
+
+மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் இரத்தினபுரி  மாவட்டத்திலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களில் காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் மன்னார்  தொடக்கம் காங்கேசன்துறை,  திருகோணமலை, பொத்துவில், ஹம்பாந்தோட்டை ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களில் கிழக்குத் திசையில் இருந்து வடகிழக்குத் திசையை நோக்கியும்  நாட்டை சூழ உள்ள ஏனைய கடல் பிராந்தியங்களில் தென்மேற்குத் திசையில் இருந்து  அல்லது மாறுபட்ட திசைகளில் இருந்தும் காற்று வீசும்.
+
+◼️
+
+[Data](articles/84720636.json)
+
+---
+
+### Another suspicious death
 
 *2024-03-05 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194143) · `si`
 
-පුත්තලම පොලිස් වසමේ පළුගස්වැව ප්‍රදේශයේ ඉඩමක තිබී සැකකටයුතු ලෙස මියගොස් සිට පුද්ගලයෙකු මළ සිරුරක් සොයාගෙන තිබේ.
+A body was found in Palugaswewa, Puttalam, yesterday afternoon. It's at the Puttalam hospital morgue for autopsy.
 
-ඊයේ (04) දහවල් කායේදී එම සිරුර සොයාගෙන ඇති බව පොලීසිය පැවසීය.
+🟩
 
-මරණයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර පශ්චාත් මරණ පරික්ෂණය සඳහා මෘත ශරීරය පුත්තලම රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+A body has been found in a land in Palugaswewa area in Puttalam Police Division.
+
+Police said the body was found in the afternoon yesterday (04).
+
+The body is deposited at the Puttalam hospital morgue for the cause of death.
 
 ◼️
 
 [Data](articles/6e5a4a97.json)
 
+[Extended Data](ext_articles/6e5a4a97.ext.json)
+
 ---
 
-### උසස් පෙළ වෘත්තීය පුහුණු වැඩසටහන අද සිට
+### A / L Vocational Training Program from today
 
 *2024-03-05 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194142) · `si`
 
-මෙවර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය සඳහා පෙනී සිටි සිසුන් සඳහා වෘත්තීය පුහුණුව ලබාදීමේ වැඩසටහන අද (05) දිනයේ සිට ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+The Ministry of Education launches the A/L Vocational Training Program for GCE Advanced Level students, using 300 centers across the island. Students will study English, guidance, and a career subject, aiming to enhance knowledge, attitudes, and skills.
 
-දිවයින පුරා මධ්‍යස්ථාන 300ක් යොදා ගනිමින් මෙම පුහුණු වැඩසටහන ක්‍රියාත්මක කිරීමට නියමිතය.
+🟩
 
-මේ සඳහා ලියාපදිංචි වූ සිසුන් පස්වරු 02ට අදාළ මධ්‍යස්ථාන වෙත වාර්තා කරන ලෙස අධ්‍යාපන අමාත්‍යංශය ඉල්ලීමක් කරයි.
+The Ministry of Education says that the program will be launched to students who sat for the GCE Advanced Level Examination this year.
 
-උසස් පෙළ විභාගයට පෙනී සිටි සිසුන්ට ඉංග්‍රීසි භාෂාව, මාර්ගෝපදේශනය සහ තමන් කැමති වෘත්තීය විෂයක් නොමිලේ හැදෑරීමට මෙම වැඩසටහන මඟින් හිමිවේ.
+The training program is to be implemented using 300 centers island wide.
 
-මේ අතර දරුවන් දැනුමෙන් ආකල්පවලින් මෙන්ම කුසලතාවයන්ගෙන් සන්නද්ධ කරවීම යෝජිත අධ්‍යාපන ප්‍රතිසංස්කරණ තුළින් බලාපොරොත්තු වන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පවසයි.
+The Ministry of Education requests the registered students to the respective centers.
+
+Students who sat for the A / L examination have been entitled to study English, guide and a career subject.
+
+Minister of Education Susil Premajayantha says that the proposed educational reforms are expected to arise with knowledge attitudes and skills.
 
 ◼️
 
 [Data](articles/a5cb3622.json)
 
+[Extended Data](ext_articles/a5cb3622.ext.json)
+
 ---
 
-### මාරක අනතුරු කිහිපයක් - ජීවිත 7ක් අහිමි වෙයි
+### Mainly fair weather expected today
+
+*2024-03-05 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97733/mainly-fair-weather-expected-today-) · `en`
+
+The Department of Meteorology says mainly fair weather is expected to prevail in most parts of the island today.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces in the morning.
+
+◼️
+
+[Data](articles/7e554ac0.json)
+
+---
+
+### Several fatal accidents - Lost 7 lives
 
 *2024-03-05 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194141) · `si`
 
-ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු 07කින් කාන්තාවක් ඇතුළු පුද්ගලයින් 07 දෙනෙකු මියගොස් තිබේ.
+7 fatal accidents, 7 lives lost. A 20-year-old on a motorcycle died near Eruvil Lagoon. An 89-year-old in Kandakkumbura was killed near Mallagama Junction. A woman in a three-wheeler was seriously injured in Navagamuwa. A 75-year-old man died in a car accident on the Beliatta-Tangalle road. A bus collided with a pedestrian near Homagama, injuring them. A lorry crashed in Higashena. A 46-year-old man was killed in a motorbike crash on the Padeniya-Anuradhapura road.
 
-කලවංචිකුඩි - කුරුමන්වේලි මාර්ගයේ එරුවිල් කලපුව අසලදී සිදුවූ යතුරුපැදි අනතුරකින් 20 හැවිරිදි තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+🟩
 
-යතුරුපැදිය පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් ගසක ගැටී එම අනතුර සිදුව තිබිණි.
+Seven persons including a woman killed in seven areas in several areas were killed.
 
-මේ අතර ඇල්ල පොලිස් වසමේ හාලිඇළ - බෙරගල මාර්ගයේ මිල්ලගම හන්දිය අසල පදික මාරුවේ ගමන් කළ පුද්ගලයෙකුගේ වෑන් රථයක් ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+A 20-year-old youth was killed in a motorcycle accident near the Eruvil Lagoon on the Kalawanchikudi-Kurumanveli road.
 
-එසේ මියගොස් ඇත්තේ, කන්දෙකුඹුර, හෙල හල්පේ ප්‍රදේශයේ පදිංචිව සිටි 89 හැවිරිදි පුද්ගලයෙකි.
+The motorcyclist slipped away from the road, slipped away from a tree and hit a tree.
 
-මේ අතර නවගමුව පොලිස් වසමේ තොරතොට - වදුරම්මුල්ල මාර්ගයේ කෝන්ගහහේන ප්‍රදේශයේදී ත්‍රීරෝද රථයක් පදික මාරුව මතින් ගමන්කළ කාන්තාවගේ ගැටී අනතුරක් සිදුව තිබිණි.
+Meanwhile, a person was killed in a village that was traveling near the Mallagama Junction of Hallegama Junction in the Ella Police Division.
 
-එම අනතුරින් බරපතළ තුවා ලැබූ කාන්තාව අතුරුගිරිය රෝහලට අතුළත් කිරීමෙන් පසු හෝමාගම රෝහලට මාරුකර යැවීමේ දී මියගොස් තිබේ.
+The deceased has been identified as a 89 year old resident of the Kandakkumbura and Hela Halpe area.
 
-මේ අතර බෙලිඅත්ත - තංගල්ල මාර්ගයේ සිටිනාමළුව ප්‍රදේශයේදී මෝටර් රථයක් මාර්ගය හරහා ගමන්කළ පුද්ගලයෙකු ගැටී සිදුවූ අනතුරකින් 75 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Meanwhile, a three-wheeler was accidental in the Navagamuwa Police Division in the Navagamuwa and Wadumammulla area.
+
+The woman who had been a serious towel was handed over to the Athurugiriya hospital after the accident had been transferred to the Homagama Hospital.
+
+Meanwhile, a 75-year-old man has been killed in accidents that a car had traveled through the Beliatta - Tangalle road.
 
 ...
 
 [Data](articles/606b1d27.json)
+
+[Extended Data](ext_articles/606b1d27.ext.json)
 
 ---
 
@@ -340,19 +388,27 @@ The Lead Consultant to the CP Maritime Advisory Programme, Rohan Masakorala, joi
 
 ---
 
-### ’தொல்பொருளை பாதுகாக்க புதிய சட்டம்’
+### New law to protect the archaeological archaeological
 
 *2024-03-05 03:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருளை-பாதுகாக்க-புதிய-சட்டம்/175-334210) · `ta`
 
-நாட்டின் தொல்பொருள்கள் மற்றும் தொல்பொருள் பாரம்பரியங்களை கண்டறிதல் மற்றும் அவற்றைப் பாதுகாத்து எதிர்கால சந்ததியினருக்கு வழங்குதல் ஆகியவற்றை முறையாக முன்னெடுப்பதற்காக தொல்பொருள் திணைக்களத்துடன் இணைந்து புதிய சட்டமூலமொன்றை உருவாக்கவுள்ளோம் என்று  புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சர் விதுர விக்ரமநாயக்க தெரிவித்தார்.
+A new law to protect archaeological and cultural traditions is being developed in collaboration with the Archaeological Department, aiming to preserve these traditions for future generations.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் விதுர விக்ரமநாயக்க மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்.
+🟩
 
-இந்த நாட்டின் தொல்பொருள்கள் மற்றும் தொல்பொருள் பாரம்பரியங்கள் கண்டறியப்பட்டு, பாதுகாக்கப்பட்டு எதிர்கால சந்ததியினருக்கு முறையான முறையில் வழங்கப்படுவதை உறுதி செய்வதற்காக தொல்பொருள் திணைக்களத்துடன் இணைந்து புதிய சட்டம் ஒன்று உருவாக்கப்படுகிறது. அதில் சேர்க்கப்பட்டுள்ள சில விடயங்கல் தொடர்பில் அடிப்படை விதிகளை தயாரிக்கவும் நடவடிக்கை எடுத்து வருகிறோம். அதற்கான கருத்துக்களும் ஆலோசனைகளும் பல்வேறு தரப்பினரிடம் இருந்து பெறப்பட்டு வருகின்றமையும் குறிப்பிடத் தக்கது.
+Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayake said that we will form a new Bill in collaboration with the Archaeological Department to detect the country's archaeological and archaeological traditions and provide them with future generations.
 
-...
+Minister Vidura Wickramanayake said this at a media briefing held at the Presidential Media Center yesterday. He further stated that.
+
+A new law is being created in conjunction with the Archaeological Department to ensure that the archaeological and archaeological traditions of this country are detected, preserved and properly provided to future generations. We are taking steps to prepare basic rules on some of the subjects included. It is noteworthy that the ideas and suggestions are being obtained from various parties.
+
+We are also looking forward to preparing the 'Bikku Kathikawat' law. We have been asked to present the proposals by the Maha Nayaka Thera and the Sangam Sabhas. He said this was not an easy task. (A)
+
+◼️
 
 [Data](articles/bfb2e99c.json)
+
+[Extended Data](ext_articles/bfb2e99c.ext.json)
 
 ---
 
@@ -393,6 +449,30 @@ Tipper collided with a man who was taken to Mannar Hospital. (A)
 [Data](articles/08b75f84.json)
 
 [Extended Data](ext_articles/08b75f84.ext.json)
+
+---
+
+### මානව හිමිකම් කවුන්සිලයේ 55 වන සැසිවාරය: රජය ගෙනා නව පනත් සහ පොලිස්පතිවරයාගේ පත් කිරීම පිළිබඳ  මානව හිමිකම් කොමසාරිස්ගෙන් ප්‍රකාශයක්
+
+*2024-03-05 02:40:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0x38vq6x5no) · `si`
+
+මානව හිමිකම් කවුන්සිලයේ 55 වන සැසිවාරය: රජය ගෙනා නව පනත් සහ පොලිස්පතිවරයාගේ පත් කිරීම පිළිබඳ  මානව හිමිකම් කොමසාරිස්ගෙන් ප්‍රකාශයක්
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 55 වන සැසිවාරය පසුගියදා  (පෙබරවාරි මස 26) ජිනීවා නුවර දී ආරම්භ විය.
+
+මෙවර මානව හිමිකම් කොමිසමේ සැසිවාරය අප්‍රේල් මස 05 වෙනිදා දක්වා පැවැත්වීමට නියමිත ය.
+
+මෙම සැසිවාරයේ ආරම්භයේ දී එක්සත් ජාතීන්ගේ සංවිධානයේ මහලේකම් ඇන්ටොනියෝ ගුටේරස් සහ මානව හිමිකම් පිලිබඳ කොමසාරිස් වොල්කර් ටර්ක් විසින් දේශන සිදුකරන ලදී.
+
+මානව හිමිකම් කඩවීමේ වින්දිතයින් බවට පත් වූ පුද්ගලයින් සිහිකරමින් සැසිවාරය ආරම්භයේදී ඊට සහභාගී වූ සියලුම දෙනා මිනිත්තුවක කාලයක් නිශ්ශබ්දතාවය ආරක්ෂා කරන ලදී.
+
+ගාසා තීරයේ ඇති වූ දරුණු මානුෂීය තත්ත්වයන්ට ඵලදායී ලෙස ආමන්ත්‍රණය කිරීමේදී එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය දෙබිඩි පිළිවෙත්වලින් වැළකී සිටීමේ වැදගත්කම ගැන අවධාරණය කිරීමට කැමති බවට විදේශ කටයුතු අමාත්‍ය අලි සබ්රී විසින් 55 වන මානව හිමිකම් සැසිවාරය අමතමින් පැවසුවේය.
+
+'පලස්තීනය නොව සාමය වෙනුවෙන් දුන් ඡන්දයක්' - විදේශ අමාත්‍ය අලි සබ්රි
+
+...
+
+[Data](articles/38b080f6.json)
 
 ---
 
@@ -1065,6 +1145,26 @@ Expressing the verdict, the judge said that the suspect had arrested the suspect
 [Data](articles/da29b037.json)
 
 [Extended Data](ext_articles/da29b037.ext.json)
+
+---
+
+### ඉන්ධන මිල සංශෝධනය වෙයි
+
+*2024-03-04 21:35:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සංශෝධනය-වෙයි/11-408430) · `si`
+
+අද මධ්‍යම රාත්‍රි යේ සිට ක්‍රියාත්මක වන  පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+
+ලංකා සුපිරි ඩීසල් ලීටරයක මිල රුපියල් 10කින් අඩුකර ඇති අතර නව මිල රුපියල් 458කි.
+
+ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිලරුපියල් 9කින් අඩුකර ඇති අතර නව මිල රුපියල් 447කි.
+
+භූමිතෙල් ලීටරයක මිල රුපියල් 5කින් අඩුකර ඇති අතර නව මිල රුපියල් 257කි.
+
+කෙසේ වෙතත් 92 පෙට්‍රල් (ලීටරයක් රුපියල් 371) හා ලංකා ඔටෝ ඩීසල් (ලීටරයක් රුපියල් 363යි) යන ඉන්ධන වල මිල ගණන් වෙනස් වී නොමැත.
+
+◼️
+
+[Data](articles/490e9b92.json)
 
 ---
 
@@ -2119,95 +2219,5 @@ J.R.. The President also stressed that many new laws would be introduced for the
 [Data](articles/a9a21186.json)
 
 [Extended Data](ext_articles/a9a21186.ext.json)
-
----
-
-### Indian train drivers in crash that killed 14 were watching cricket
-
-*2024-03-04 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indian-train-drivers-in-crash-that-killed-14-were-watching-cricket/107-278215) · `en`
-
-New Delhi, Mar. 4 (AFP) - The drivers of a train that missed a signal and ploughed into another train, killing 14 people, were distracted because they were watching cricket on a phone, India's railways minister said Monday.
-
-The fatal collision in Andhra Pradesh state in October took place as hosts India played England during the one-day World Cup.
-
-"The recent case in Andhra Pradesh happened because both the loco-pilot and co-pilot were distracted by the cricket match," Minister of Railways Ashwini Vaishnaw said, the Press Trust of India news agency reported.
-
-"Now we are installing systems which can detect any such distraction and make sure that the pilots (train drivers) and the assistant pilots are fully focused on running the train."
-
-Hundreds of millions of fans in cricket-crazy India tuned in to watch the live broadcast of the World Cup match, which the hosts won.
-
-...
-
-[Data](articles/8f94d7bb.json)
-
-[Extended Data](ext_articles/8f94d7bb.ext.json)
-
----
-
-### Indian train drivers in crash that killed 14 were watching cricket
-
-*2024-03-04 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-train-drivers-in-crash-that-killed-14-were-watching-cricket/108-278215) · `en`
-
-New Delhi, Mar. 4 (AFP) - The drivers of a train that missed a signal and ploughed into another train, killing 14 people, were distracted because they were watching cricket on a phone, India's railways minister said Monday.
-
-The fatal collision in Andhra Pradesh state in October took place as hosts India played England during the one-day World Cup.
-
-"The recent case in Andhra Pradesh happened because both the loco-pilot and co-pilot were distracted by the cricket match," Minister of Railways Ashwini Vaishnaw said, the Press Trust of India news agency reported.
-
-"Now we are installing systems which can detect any such distraction and make sure that the pilots (train drivers) and the assistant pilots are fully focused on running the train."
-
-Hundreds of millions of fans in cricket-crazy India tuned in to watch the live broadcast of the World Cup match, which the hosts won.
-
-...
-
-[Data](articles/eb710b24.json)
-
-[Extended Data](ext_articles/eb710b24.ext.json)
-
----
-
-### Sri Lanka stocks close up 1-pct, turnover at 1.7bn
-
-*2024-03-04 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-turnover-at-1-7bn-152962/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 1.07 percent, or 113.99 points, at 10,805; while the S&P SL20 Index closed up 1.49 percent, or 45.39 points, at 3,084.
-
-Turnover stayed above the 1 billion mark for the second week, at 1.7 billion, with crossings continuing.
-
-Large volumes were traded of Royal Ceramics Lanka Plc (186mn) up at 32.30, and Browns Investments Plc (112mn) up at 4.80.
-
-Other positive contributors to the main index included LOLC Holdings Plc (117mn) up at 371.25, John Keells Holdings Plc (68mn) up at 190.00, and Hayleys Plc (44mn) up at 83.80.
-
-Expolanka Holdings Plc announced a trading suspension following Friday’s announcement of de-listing. “Trading of the Securities of the company have been suspended with effect from 4th March 2024 based on the disclosure made by the company regarding De-listing the company from the official list of the Colombo Stock Exchange.”
-
-...
-
-[Data](articles/03b537b5.json)
-
-[Extended Data](ext_articles/03b537b5.ext.json)
-
----
-
-### Two police officers sentenced to death
-
-*2024-03-04 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194120) · `si`
-
-Two police officers from Peliyagoda Police Station were sentenced to death for assaulting a suspect arrested in 2005, as decided by Colombo High Court Judge Navaratne Marasinghe after a lengthy trial.
-
-🟩
-
-Two police officers who served at the Peliyagoda Police Station (04) was sentenced to death.
-
-The suspects were convicted of the allegations of assaulting a suspect who was arrested in 2005.
-
-The decision was made by Colombo High Court Judge Navaratne Marasinghe after a long trial.
-
-◼️
-
-[Data](articles/44044b1a.json)
-
-[Extended Data](ext_articles/44044b1a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 21:52:10**
+As of **2024-03-05 22:03:31**
 
 ## Newspaper Stats
 
-*Scraped **11,061** Articles*
+*Scraped **11,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 584
 islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,346
-adaderanalk | 1,349
-virakesarilk | 1,491
+adaderanalk | 1,350
+virakesarilk | 1,493
 dailymirrorlk | 1,689
 adaderanasinhalalk | 1,733
 
@@ -26,45 +26,115 @@ adaderanasinhalalk | 1,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,058 (100.0%) of 11,061 articles have been extended.
+11,061 (100.0%) of 11,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### முடக்கியது முகநூல்
+### Sri Lanka, India working to link power grids via $1.2bn undersea transmission line
+
+*2024-03-05 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97754/sri-lanka-india-working-to-link-power-grids-via-12bn-undersea-transmission-line) · `en`
+
+Sri Lanka and India are working on an estimated USD 1.2 billion undersea transmission line that will link the island nation’s power grind with that of India to provide energy security to this country, a top Sri Lankan official said on Tuesday.
+
+The proposal is to link Sri Lanka’s north central town of Anuradhapura and Chennai, the capital of Tamil Nadu state in India through a direct power line. After a 130km overland transmission line in India, an undersea line (via a submarine cable) will emerge at Thiruketheeswaram in Mannar in northeast Sri Lanka.
+
+Sulakshana Jayawardena, Secretary to the Ministry of Power and Energy said, “This will raise our hopes on energy security.” He said this days after the fifth meeting of the India-Sri Lanka joint working group (JWG) for cooperation in the power sector was held on February 28 here. The High Commissioner of India to Sri Lanka Santosh Jha also attended the meeting.
+
+...
+
+[Data](articles/ae4d3f19.json)
+
+---
+
+### இலங்கையின் தேவைகளுக்கேற்ப நாம் உதவிகளை வழங்கத்தயார் : பயணிகள் கப்பல் சேவையை மீண்டும் ஆரம்பிக்க நடவடிக்கை - சந்தோஷ் ஜா
+
+*2024-03-05 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178010) · `ta`
+
+இலங்கையின் தேவைகளுக்கேற்ப நாம் உதவிகளை வழங்கத்தயார் எனவும் எட்கா ஒப்பந்தம் இந்தியாவை விட இலங்கைக்கே அதிக பயன் தருமெனவும் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்தார்.
+
+அத்துடன் இம்மாத இறுதிக்குள் இலங்கைக்கும் நாகபட்டினத்திற்குமான பயணிகள் கப்பல் சேவையை மீண்டும் ஆரம்பிக்க நடவடிக்கைகள் எடுத்துவருவதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+
+இலங்கை பத்திரிகை கழகம் கொழும்பு ஹில்டன் ஹொட்டலில் இன்று செவ்வாய்க்கிழமை (5) ஏற்பாடு செய்த "இந்திய கதை : சீர்திருத்தம் | செயல்திறன் | மாற்றம்" என்ற தலைப்பிலான கேள்வி பதில் நிகழ்சியிலேயே இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா கலந்துகொண்டு கேட்கப்பட்ட கேள்விகளுக்கு பதிலளிக்கையிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்தியாவைப் பொறுத்தவரையில் நகரம் மற்றும் கிராமங்களில் உட்கட்டமைப்பு மற்றும் அபிவிருத்திகளை நாம் வேகத்துடனும் சக்தியுடனும் முன்னெடுத்து வருகின்றோம். அதற்கு எமது பிரதமர் சிறந்த தலைமைத்துவத்தை வழங்குகின்றார்.
+
+...
+
+[Data](articles/915ba504.json)
+
+---
+
+### Disrupted Facebook
 
 *2024-03-05 21:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடக்கியது-முகநூல்/175-334254) · `ta`
 
-பேஸ்புக், இன்ஸ்டாகிராம், மெசன்ஜர், உள்ளிட்ட சமூக ஊடகங்கள் திடீரென நாடளாவிய ரீதயில் செயலிழந்துள்ளன.
+"Facebook, Instagram, Messenger crashed nationwide without explanation. Facebook hasn't disclosed the cause."
 
-அதற்கான காரணம் இதுவரை வெளியாகவில்லை. பேஸ்புக் நிறுவனம் செயலழிப்பிற்கான காரணத்தை வெளியிடவில்லை என்பதும் குறிப்பிடத்தக்கது.
+🟩
+
+Social media, including Facebook, Instagram, Messenger, has suddenly crashed across the country.
+
+The reason for that has not yet been released. It is also worth noting that Facebook has not released the reason for the implementation.
 
 ◼️
 
 [Data](articles/5d45e266.json)
 
+[Extended Data](ext_articles/5d45e266.ext.json)
+
 ---
 
-### මාස දෙකට මාරක රිය අනතුරු 324ක් - මරණ 341ක්
+### அரச  உயர் அதிகாரிகள் மீது போலியான குற்றச்சாட்டுகள் முன்வைப்பதை தவிர்த்துக்கொள்ளுங்கள் - பாராளுமன்ற உறுப்பினர்களிடம் சபாநாயகர் வலியுறுத்தல்
+
+*2024-03-05 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177940) · `ta`
+
+அரச  உயர் அதிகாரிகளின் கௌரவத்தையும் அவர்களின் சேவையையும் அவமதிக்கும் வகையில் போலியான குற்றச்சாட்டுக்களை முன்வைப்பதை பாராளுமன்ற உறுப்பினர்கள் தவிர்த்துக் கொள்ள வேண்டும். பாராளுமன்ற உறுப்பினர்களின் போலியான குற்றச்சாட்டுக்கள் குறித்து  அரச அதிகாரிகள் கவலை தெரிவித்துள்ளார்கள் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்தார்.
+
+நாட்டின்  அரச உயர்  அதிகாரிகளின் கௌரவத்துக்கு பாதிப்பை ஏற்படுத்தும் வகையில் பாராளுமன்ற உறுப்பினர்  அடிப்படையற்ற வகையில் கருத்துக்களை முன்வைப்பதை அவதானிக்க முடிகிறது.பாராளுமன்ற சிறப்புரிமையை பயன்படுத்திக் கொண்டு இவ்வாறான குற்றச்சாட்டுக்களை முன்வைப்பது அண்மை காலமாக தீவிரமடைந்துள்ளது.
+
+ஒருசில பாராளுமன்ற உறுப்பினர்களினால் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் தொடர்பில் தெளிவுப்படுத்த அரச அதிகாரிகளுக்கு வாய்ப்பு கிடைக்காமல் இருப்பது அவர்களுக்கு இழைக்கப்படும் அநீதியாக கருதப்படும் .பாராளுமன்ற உறுப்பினர்கள் முன்வைக்கப்படும் குற்றச்சாட்டுக்கள் அல்லது கருத்துக்கள் தொடர்பில் அரச அதிகாரிகள் எழுத்து மூலமாக கவலை வெளியிட்டுள்ளனர்.
+
+...
+
+[Data](articles/5a4c32ae.json)
+
+---
+
+### 324 fatal accidents for two months - 341 deaths
 
 *2024-03-05 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194180) · `si`
 
-2024 ජනවාරි 01 වනදා සිට මාර්තු 01 වනදා දක්වා මාරක රිය අනතුරු 324ක් වාර්තාවී ඇති බව පොලීසිය පවසයි.
+From January 1 to March 1, 324 fatal accidents occurred, resulting in 341 deaths and 1,355 injuries. The police highlighted the need for special attention to motorcycles and three-wheelers, and emphasized the importance of pedestrian safety.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පෙන්වා දෙන්නේ ඉන් බරපතළ තුවාල ලැබූ සංඛ්‍යාව 651ක් බවත් සුළු තුවාල ලැබූ පිරිස 1,355ක් බවත් ය.
+🟩
 
-ඉහත කී මාරක රිය අනතුරු 324න් පුද්ගලයන් 341 දෙනෙකු මුල් මාස 02ක තුළ මියගොස් ඇත.
+According to the police, 324 fatal accidents have been reported from January 1 to 1st March.
 
-සිදුවූ අනතුරු පිළිබඳ සැලකිලිමත්වීමේදී යතුරුපැදි සහ ත්‍රීරෝද රථ ධාවනය කිරීමේදී විශේෂ අවධානයක් යොමු කළ යුතු බව ද පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+The Police Media Spokesperson, DIG's Court Attorney Nihal Thalduwa, 651, is 651 and 1,355 injured.
 
-පදික මාරුවකින් යම් පුද්ගලයෙක් ගමන් කරනවා නම් ඔහු පදික මාරුව මතට පාදය තබනවාත් සමගම එහි අයිතිය හිමි වෙන්නේ පදිකයාට බවත් ඒ අනුව අදාළ මාර්ගයේ ගමන් කරන වාහන එම පුද්ගලයාට ඉඩදිය යුතු බවත් පොලීසිය දැනුම්දෙයි.
+Of the 324 fatal accidents, 341 persons were killed in the first two months.
 
-සියලුම රියදුරන් මේ ගැන දැඩි අවධානයක් යොමු කළයුතු බවද පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+Attorney at Law, the police spokesman, Nihal Talduuwa said that special attention should be paid to motorcycle and three-wheeler in consideration.
+
+If a person travels with a pavement shift, the police are informed that the ownership of its ownership should be given to the pedestrian.
+
+All drivers should pay close attention to this, police said.
+
+However, DIG's spokesman said the road to take care of the roads traveling with a pavement and vehicles.
+
+"There were eight fatal accidents in the island yesterday. Four fatal accidents occur on the pedestrian shift shifting through the road. "
+
+"Pettah 74-year-old man moved to the bus."
+
+A 55-year-old woman killed in three-wheeler in Navagamuwa Korathota.. In moving off the sidewalk. "
 
 ...
 
 [Data](articles/efaf7921.json)
+
+[Extended Data](ext_articles/efaf7921.ext.json)
 
 ---
 
@@ -83,6 +153,8 @@ The service disruption follows a major outage in 2021, when Facebook, Instagram 
 ◼️
 
 [Data](articles/b5c9f408.json)
+
+[Extended Data](ext_articles/b5c9f408.ext.json)
 
 ---
 
@@ -2169,73 +2241,5 @@ The President of the Sri Lanka Lawyers Association said,
 [Data](articles/2297f415.json)
 
 [Extended Data](ext_articles/2297f415.ext.json)
-
----
-
-### Our requests for independent investigations have been rejected - Malcolm Ranjith
-
-*2024-03-05 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177939) · `ta`
-
-Cardinal Malcolm Ranjith criticizes Sri Lanka's rejection of independent inquiries into the Sunday attack, calling for open investigations. He welcomes the UN Human Rights Commissioner's report on Sri Lanka's human rights situation, expressing concern over the lack of accountability for the North East attacks. Ranjith accuses the government of ignoring new evidence and engaging in anti-democratic activities, including restricting media freedom and redefining terrorism. He urges the UN Human Rights Council to demand an open inquiry in Sri Lanka.
-
-🟩
-
-Cardinal Malcolm Ranjit said the Sri Lankan government continues to reject the requests and plea we have made for explicit independent inquiries.
-
-Cardinal Malcolm Ranjithweendukol has called for open inquiries into the Sunday attack
-
-Cardinal Malcolm Ranjith made this request in a speech for the United Nations Human Rights Council.
-
-Cardinal Malcolm Ranjith has welcomed the UN Human Rights Commissioner's verbal report on the human rights situation in Sri Lanka.
-
-"We are welcome to welcome her comments on accountability and reconciliation," Cardinal said.
-
-Cardinal said that we are still concerned about the explicit independent mechanism of the victims of the injustices in the North East of Sri Lanka.
-
-It has been five years since the Sunday attack on the 21st, and that the governments that ruled the country have conducted many investigations but these investigations have not investigated all the details of the bachelor's attacks.
-
-...
-
-[Data](articles/8fbc6de9.json)
-
-[Extended Data](ext_articles/8fbc6de9.ext.json)
-
----
-
-### 36-ball spell in a T20I! A night to forget for Pathirana vs Bangladesh
-
-*2024-03-05 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/36-ball-spell-in-a-T20I-A-night-to-forget-for-Pathirana-vs-Bangladesh/108-278267) · `en`
-
-Mar. 5 (IND) - The first T20I of the three-match series between Sri Lanka and Bangladesh went down the wire with the visitors holding their nerve to win by three runs. Despite losing early wickets, Bangladesh stayed in the hunt right till the end and Sri Lanka's bowling played a part in it as well.
-
-At the end of IPL 2023, Matheesha Pathirana was touted to be the next superstar of Sri Lanka cricket with the ball. He had spent almost two months with the Chennai Super Kings and playing under skipper MS Dhoni, the youngster had flourished. But since then, in last nine months everything possible has gone wrong for Pathirana while playing for Sri Lanka at the international level. He endured a very tough ODI World Cup and amidst brilliance in one-odd game, the bowler with the slingy action is having a torrid time on the field.
-
-...
-
-[Data](articles/69dd1383.json)
-
-[Extended Data](ext_articles/69dd1383.ext.json)
-
----
-
-### Shot
-
-*2024-03-05 11:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்-சூடு/175-334222) · `ta`
-
-In Koradota, two men on a motorbike fired into the sky in front of a store, police said.
-
-🟩
-
-The shooting took place this morning in the Koradota area of the Navagamuwa police area.
-
-Police said the shooting took place in front of the building products.
-
-Police said two men on a motorbike fired into the sky in front of the store.
-
-◼️
-
-[Data](articles/d9cd1663.json)
-
-[Extended Data](ext_articles/d9cd1663.ext.json)
 
 ---

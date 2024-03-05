@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 07:53:19**
+As of **2024-03-05 08:02:40**
 
 ## Newspaper Stats
 
-*Scraped **10,893** Articles*
+*Scraped **10,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,120 @@ adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,327
 virakesarilk | 1,458
-dailymirrorlk | 1,660
-adaderanasinhalalk | 1,692
+dailymirrorlk | 1,661
+adaderanasinhalalk | 1,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,893 (100.0%) of 10,893 articles have been extended.
+10,893 (100.0%) of 10,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### අත්හිටවූ බස්නාහිර පළාත් 10,11 ශ්‍රේණිවල වාර විභාග හෙට සිට
+
+*2024-03-05 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194140) · `si`
+
+තාවකාලිකව අත්හිටුවා තිබූ බස්නාහිර පළාතේ පාසල්වල 10,11 ශ්‍රේණිවල අවසාන වාර පරීක්ෂණ කටයුතු හෙට (06) දිනයේ යළි පැවැත්වීමට නියමිතව තිබේ.
+
+බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්ලමේන්තුව සඳහන් කළේ, වාර විභාගයේ මෙතෙක් නොපැවැත්වූ විෂයන් සඳහා හෙට දිනයේ සිට යළි විභාග කටයුතු පැවැත්වීමට නියමිත බවය.
+
+විභාගය පැවැත්වීමට පෙර විද්‍යාව, ඉතිහාසහ, ඉංග්‍රීසි සහ ගණිතය යන ප්‍රශ්න පත්‍ර සමාජ මාධ්‍ය වෙත නිකුත් වීම හේතුවෙන් 10,11 ශ්‍රේණිවල විභාග කටයුතු තාවකාලිකව අත්හිටුවනු ලැබීය.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් මේ වන විටත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් විමර්ශනයක් ආරම්භ කර තිබේ.
+
+කෙසේවෙතත් නව ප්‍රශ්න පත්‍ර සකස් කිරීමෙන් අනතුරුව හෙට දිනයේ සිට අදාළ ශ්‍රේණිවල විභාග කටයුතු යළි පැවැත්වීමට නියමිත බව බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්ලමේන්තුව සඳහන් කළේය.
+
+මේ අතර විභාග ප්‍රශ්න පිටවීමේ සිදුවීම සම්බන්ධයෙන් කොළඹ විශ්වවිද්‍යාලයේ ශ්‍රීපාලි මණ්ඩපයේ මණ්ඩපාධිපති නීතීඥ මහාචාර්ය ප්‍රතිභා මහානාමහේවා මහතා මෙලෙස අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/8fc0b87e.json)
+
+---
+
+### ශ්‍රීලන්කන් ලංසු විවෘත කිරීම අද
+
+*2024-03-05 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194139) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙළ සඳහා සුදුසු ආයෝජකයෙකු තෝරා ගැනීමට ලංසු විවෘත කිරීම අද (05) සිදුකිරීමට නියමිතව තිබේ.
+
+අද පෙරවරු 10 සිට පස්වරු 2 දක්වා ඒ සඳහා ලංසු ඉදිරිපත් කිරීමට හැකි බව වරාය, නාවික සහ ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා සඳහන් කළේය.
+
+අදාළ ලංසු ඉදිරිපත් කිරීම සජීවීව සිදුකිරීමට නියමිත අතර ඊට සහාය දැක්වීම සඳහා විශේෂ තාක්ෂණික කණ්ඩායමක් ද පත්කර තිබේ.
+
+ලංසු ඇගයීම් වාර්තාව සකස් කිරීමෙන් අනතුරුව අදාළ යෝජනාව කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කරන බව නිමල් සිරිපාල ද සිල්වා අමාත්‍යවරයා සඳහන් කළේය.
+
+ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙළ යටතේ අමෙරිකානු ඩොලර් මිලියන 500ක පමණ අයෝජනයක් බලාපොරොත්තු වන බව අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ef23262a.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංග යෝජනාව අද පාර්ලිමේන්තුවට
+
+*2024-03-05 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194138) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව ගෙන එන විශ්වාසභංග යෝජනාව අද (05) පාර්ලිමේන්තු මහ ලේකම්වරිය වෙත භාරදීමට නියමිතව තිබේ.
+
+අද පෙරවරුවේ අදාළ යෝජනාව පාර්ලිමේන්තු මහලේකම් කුෂාණි රෝහණධීර මහත්මිය වෙත භාරදීමට බලාපොරොත්තු වන බව විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේය.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතා ව්‍යවස්ථාව උල්ලංඝනය කරමින් කටයුතු කරන බවට චෝදනා කරමින් සමගි ජන බලවේගය ප්‍රමුඛ විපක්ෂය විසින් මෙම විශ්වාසභංග යෝජනාව ගෙනඒමට තීරණය කළේය.
+
+ඒ අනුව ඊට අත්සන් ලබාගැනීමේ කටයුතු පසුගිය දිනවල සිදුවූ අතර අද දිනයේ අදාළ යෝජනාව පාර්ලිමේන්තු මහ ලේකම්වරියට බාරදීමෙන් අනතුරුව පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව වෙත ඉදිරිපත් කිරීමට බලාපොරොත්තු වන බව පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් කිරිඇල්ල මහතා සඳහන් කළේය.
+
+මේ අතර මෙම සතිය සඳහා පාර්ලිමේන්තුව අද යළි රැස්වීමට නියමිතව තිබේ.
+
+අද, හෙට සහ අනිද්දා යන තෙදින තුළ පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/0a0b35d3.json)
+
+---
+
+### ගබ්සාව ගැන ප්‍රංශය ගත් තීරණය
+
+*2024-03-05 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194137) · `si`
+
+ගබ්සා කිරීමේ අයිතිය සිය ව්‍යවස්ථාවට ඇතුළත් කළ ලොව පළමු රට ලෙස ප්‍රංශය පත්ව තිබේ.
+
+ගබ්සා කිරීමට කාන්තාවන්ගේ නිදහස තහවුරු කිරීම සඳහා ඉදිරිපත් වූ ව්‍යවස්ථා සංශෝධනයට එරට පාර්ලිමේන්තුවේ අනුමැතිය හිමිව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ ඡන්ද විමසීමේ දී පනතට පක්ෂව ඡන්ද 780ක් හිමිව ඇති අතර විපක්ෂව හිමිව ඇත්තේ ඡන්ද 72ක් පමණය.
+
+මෙම පියවර ප්‍රංශයේ අභිමානය දැක්වෙන විශ්වීය පණිවුඩයක් බව ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/6f993351.json)
+
+---
+
+### Electricity now a luxury for a cluster of villages in Anuradhapura
+
+*2024-03-05 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-now-a-luxury-for-a-cluster-of-villages-in-Anuradhapura/108-278237) · `en`
+
+Electricity connection to a cluster of villages in Thantirimale, Anuradhapura has been disconnected leaving consumers in the lurch.
+
+The area people, mostly dependent on agriculture, complain that they are unable to pay for electricity because of the tariff hikes introduced last year. They say electricity is beyond their means because of poverty they are now engulfed in following the economic crisis.
+
+People in the villages such as Ihala Goneva, Sandamaleliya and Thambiyawa, are grappling with this issue. They also face issues related to food security and are victims of the human-elephant conflict.
+
+S. Padmini, 32, a villager of Thambiyawa, said her husband is now a wage earner with a daily income of Rs.2500. She said her husband had to cycle at least 15-20 kilometres a day in search of work.   “It is difficult for us to make ends meet,” she said.
+
+They are also facing issues related to food security and the human-elephant conflict
+
+◼️
+
+[Data](articles/eb050052.json)
+
+---
 
 ### Emergency notice to the Chief Bank of the Cabinet
 
@@ -2103,131 +2205,5 @@ Shantan, who was sentenced to death in the murder of former Indian Prime Ministe
 [Data](articles/b870dc0a.json)
 
 [Extended Data](ext_articles/b870dc0a.ext.json)
-
----
-
-### The threats increase
-
-*2024-03-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194119) · `si`
-
-Yemen residents report British involvement in large fertilizer shipments. Houthi rebels, recognized by Iran, Syria, and North Korea, continue attacks despite controlling large territories. The US is seen as a foreign three-ownership organization. On February 18, the Deebimah ship was attacked, but relief teams saved its staff before sinking.
-
-🟩
-
-Yemen's Residents reported that the British belonging to British belongs to a large quantity of fertilizer by a bulk of the British.
-
-Polders say they continue to attack the British belonging to the British.
-
-Despite the control of a large territory in a large territory in Yemen, the Houthi rebels are only internationally recognized as Iran, Syria, and North Korea.
-
-The United States of America is referred to as a foreign three-ownership organization.
-
-The deebimah ship was attacked on February 18, with relief teams were able to save its staff before they were sinking.
-
-◼️
-
-[Data](articles/5379ed17.json)
-
-[Extended Data](ext_articles/5379ed17.ext.json)
-
----
-
-### Sri Lanka to bring new law to replace Port City Law: Prez
-
-*2024-03-04 15:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-new-law-to-replace-port-city-law-prez-152913/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new economic programs necessitate the introduction of new legislation, its President Ranil Wickremesinghe has said.
-
-“We are in the process of introducing a new law to replace the Port City Law, aimed at establishing an offshore economy. Given the unique nature of this economy, the existing laws of Sri Lanka may not be adequate, and thus, UK commercial laws will apply within the jurisdiction of the offshore economy,” Wickremesinghe was quoted as saying by his media division.
-
-“The government has made significant strides, passing 42 laws in the past 14 months, a remarkable achievement. Now, the challenge lies in presenting the remaining 62 laws,” Wickremesinghe said in his keynote address at the ‘What’s New’ dialogue on Legal Reforms with young legal professionals yesterday (03) at the BMICH.
-
-...
-
-[Data](articles/2a7747f5.json)
-
-[Extended Data](ext_articles/2a7747f5.ext.json)
-
----
-
-### A place where Sri Lankan player was unexpected
-
-*2024-03-04 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194118) · `si`
-
-The International Cricket Council (ICC) has nominated a Sri Lankan player, Kavisa, for the best player award in February. Kavisa, a three-year-old talent, scored 1,728 runs in 20 centuries at Twenty20 cricket.
-
-🟩
-
-The International Cricket Council has published nominations to select the best player in February.
-
-The uniqueness of this is that the nomination is that the name of the United Arab Emirates of the United Arab Emirates have been included.
-
-For the sportscellaneous nominations can be published on the Internet and then the best athletes of the month will be nominated by the ICC.
-
-As a three-year-old talent, Kavisa was a three-year-old girl's talent, the UAE's talents were named among the three athletes.
-
-Twenty20-year-old Kavisa scored 1,728 in the 20 centuries at Twenty20 cricket. Twenty20 wickets.
-
-In addition, the ICC nominated for February for the month of February.
-
-◼️
-
-[Data](articles/44bab1cb.json)
-
-[Extended Data](ext_articles/44bab1cb.ext.json)
-
----
-
-### Sift of crude oil
-
-*2024-03-04 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194117) · `si`
-
-Oil prices rise due to OPEC+ agreement to cut 2.2M barrels daily, with Brent crude at $80.17. Despite global market slowdown, analysts predict high prices due to cuts. Russia plans to cut over 471,000 barrels/day. OPEC+ includes OPEC and non-OPEC countries, led by Saudi Arabia and Russia. Geopolitical tensions, like the Israeli-Hamas war and Yemen rebutters, and global economic slowdown affect oil market.
-
-🟩
-
-According to foreign media, oil prices have been increased in the world market with the agreement of 2.2 million barrels of bath daily, a cost of voluntary countries.
-
-Opec Plus Members have agreed to implement the cut cut until the second quarter of this year.
-
-Accordingly, the price of a barrel of Brent crude oil has risen to 83 cents and is US $ 80 and 17 cents.
-
-The global market in the global market and the slowness of the global market, the tendency to reduce oil prices in the world market.
-
-However, marketing analysts forecast that oil prices are high due to cuts.
-
-It is reported that Russia is preparing to cut the largest product cuts of the OPEC Plus team.
-
-The Russian Deputy Prime Minister Unsublished that Russia is ready to prune over 471,000 barrels per day in the second quarter of this year.
-
-If the Operic Plus explains about the organization, it is an alliance between OPEC and non-openers.
-
-...
-
-[Data](articles/649b7164.json)
-
-[Extended Data](ext_articles/649b7164.ext.json)
-
----
-
-### Protests, strikes must stop for some time for Sri Lanka to recover under SJB govt: MP
-
-*2024-03-04 15:15:00* · [`economynextcom`](https://economynext.com/protests-strikes-must-stop-for-some-time-for-sri-lanka-to-recover-under-sjb-govt-mp-152908/) · `en`
-
-ECONOMYNEXT — A future Samagi Jana Balawegaya (SJB) government will reduce taxes and utility bills, increase state revenue and create an investment-friendly environment, for which protests and strikes may have to take a back seat, an SJB MP said.
-
-“We will definitely reduce taxes and bills. We will enter new markets and increase state revenue. We’ll create an investment-friendly environment. Protests and strikes must be stopped for some time,” SJB legislator S M Marikkar said.
-
-Speaking to reporters, Marikkar said a “somewhat tough” administration is called for.
-
-“Sri Lanka and Vietnam used to have similar economic growth rates. But today, there isn’t a single rupee of foreign direct investment (FDI) coming in. Vietnam had 35 billion US dollars in FDI just last year (actual figure was 36.6 billion).
-
-“We have to understand this reality and maintain a somewhat tough administration, won’t we?” he said.
-
-...
-
-[Data](articles/f2d6f157.json)
-
-[Extended Data](ext_articles/f2d6f157.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 21:33:12**
+As of **2024-03-05 21:52:10**
 
 ## Newspaper Stats
 
-*Scraped **11,058** Articles*
+*Scraped **11,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,91 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 933
-tamilmirrorlk | 1,345
-adaderanalk | 1,348
+tamilmirrorlk | 1,346
+adaderanalk | 1,349
 virakesarilk | 1,491
 dailymirrorlk | 1,689
-adaderanasinhalalk | 1,732
+adaderanasinhalalk | 1,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,057 (100.0%) of 11,058 articles have been extended.
+11,058 (100.0%) of 11,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### Facebook Instagram සහ  Messenger බිඳ වැටේ
+### முடக்கியது முகநூல்
+
+*2024-03-05 21:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடக்கியது-முகநூல்/175-334254) · `ta`
+
+பேஸ்புக், இன்ஸ்டாகிராம், மெசன்ஜர், உள்ளிட்ட சமூக ஊடகங்கள் திடீரென நாடளாவிய ரீதயில் செயலிழந்துள்ளன.
+
+அதற்கான காரணம் இதுவரை வெளியாகவில்லை. பேஸ்புக் நிறுவனம் செயலழிப்பிற்கான காரணத்தை வெளியிடவில்லை என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5d45e266.json)
+
+---
+
+### මාස දෙකට මාරක රිය අනතුරු 324ක් - මරණ 341ක්
+
+*2024-03-05 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194180) · `si`
+
+2024 ජනවාරි 01 වනදා සිට මාර්තු 01 වනදා දක්වා මාරක රිය අනතුරු 324ක් වාර්තාවී ඇති බව පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පෙන්වා දෙන්නේ ඉන් බරපතළ තුවාල ලැබූ සංඛ්‍යාව 651ක් බවත් සුළු තුවාල ලැබූ පිරිස 1,355ක් බවත් ය.
+
+ඉහත කී මාරක රිය අනතුරු 324න් පුද්ගලයන් 341 දෙනෙකු මුල් මාස 02ක තුළ මියගොස් ඇත.
+
+සිදුවූ අනතුරු පිළිබඳ සැලකිලිමත්වීමේදී යතුරුපැදි සහ ත්‍රීරෝද රථ ධාවනය කිරීමේදී විශේෂ අවධානයක් යොමු කළ යුතු බව ද පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+පදික මාරුවකින් යම් පුද්ගලයෙක් ගමන් කරනවා නම් ඔහු පදික මාරුව මතට පාදය තබනවාත් සමගම එහි අයිතිය හිමි වෙන්නේ පදිකයාට බවත් ඒ අනුව අදාළ මාර්ගයේ ගමන් කරන වාහන එම පුද්ගලයාට ඉඩදිය යුතු බවත් පොලීසිය දැනුම්දෙයි.
+
+සියලුම රියදුරන් මේ ගැන දැඩි අවධානයක් යොමු කළයුතු බවද පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/efaf7921.json)
+
+---
+
+### Facebook, Instagram & Threads down as users face login problems
+
+*2024-03-05 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97752/facebook-instagram-threads-down-as-users-face-login-problems) · `en`
+
+Meta’s social media platforms Instagram, Facebook and Threads were down for many users on Tuesday.
+
+Facebook and Threads seem to be particularly impacted. Neither app was loading as of 10 a.m. ET, when reports of the outage started to surface on DownDetector.com. Instagram feeds aren’t refreshing for some users, while others are still able to access the app.
+
+The service disruption follows a major outage in 2021, when Facebook, Instagram and WhatsApp were down for more than six hours. At the time, Facebook, now Meta, said the outage was caused by “configuration changes on backbone routers.”
+
+“We’re aware people are having trouble accessing our services. We are working on this now,” Meta spokesperson Andy Stone said in a post on the social media site X.
+
+◼️
+
+[Data](articles/b5c9f408.json)
+
+---
+
+### Facebook Instagram and Messenger break down
 
 *2024-03-05 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194179) · `si`
 
-ලොව ප්‍රධානතම සමාජ මාධ්‍ය ජාල අතර ඉදිරියෙන් ඇති Facebook, Instagram සහ Messenger ජාල බිඳවැටී ඇති බව වාර්තා වෙයි.
+Facebook, Instagram, and Messenger are among the world's leading social media networks, but they have reportedly collapsed.
+
+🟩
+
+It is reported that Facebook, and Messenger network has collapsed among the world's leading social media networks.
 
 ◼️
 
 [Data](articles/30db120d.json)
+
+[Extended Data](ext_articles/30db120d.ext.json)
 
 ---
 
@@ -2177,63 +2237,5 @@ Police said two men on a motorbike fired into the sky in front of the store.
 [Data](articles/d9cd1663.json)
 
 [Extended Data](ext_articles/d9cd1663.ext.json)
-
----
-
-### Amendment to the law that publishes assets and responsibilities
-
-*2024-03-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177931) · `ta`
-
-The amendment to the Anti-Corruption Act, 2023, requires officials, including the President, Prime Minister, and various government officers, to declare their assets and responsibilities. This includes officers of the Central Bank, State Banks, and public corporations, as well as members of political parties and trade unions. A centralized electronic system for publishing assets and responsibilities is established, with models and forms available on www.ciaboc.gov.lk.
-
-🟩
-
-In addition to sections of the Anti -Corruption Act, 2023, in addition to section 80 of the Anti -Corruption Act, 2023, in addition to the sections of the Anti -Corruption Act, 2023, in addition to the sections of the Revelation Act, Article 74 of 1988The need to declare assets and responsibilities through sections has been pointed out.
-
-...
-
-[Data](articles/c80fa5d6.json)
-
-[Extended Data](ext_articles/c80fa5d6.ext.json)
-
----
-
-### Strike from train staff from midnight today
-
-*2024-03-05 11:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-ரயில்-ஊழியர்கள்-வேலை-நிறுத்தம்/175-334221) · `ta`
-
-The Railway Drivers Association will strike from midnight today, involving the Railway Engineers Association, Rail Controllers Association, and Rail Supervisory Managers Association.
-
-🟩
-
-The Railway Drivers Association said it would go on strike from midnight today.
-
-The president of the association, Chandana Lal, said that many more unions will join the union action.
-
-Accordingly, the Chairman of the Association said that the Railway Engineers Association, the Rail Controllers Association and the Rail Supervisory Managers Association will be involved in the workplace.
-
-◼️
-
-[Data](articles/00393e11.json)
-
-[Extended Data](ext_articles/00393e11.ext.json)
-
----
-
-### Indefinite railway strike from midnight today
-
-*2024-03-05 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97739/indefinite-railway-strike-from-midnight-today) · `en`
-
-Several employees of Sri Lanka Railways have decided to launch an indefinite strike with effect from midnight today (March 05).
-
-The trade unions of locomotive operating engineers, railway guards, and railway supervisory managers will be joining this strike action.
-
-They are urging the government to reverse the Cabinet paper that proposes to reduce their salaries.
-
-◼️
-
-[Data](articles/a85d0acd.json)
-
-[Extended Data](ext_articles/a85d0acd.ext.json)
 
 ---

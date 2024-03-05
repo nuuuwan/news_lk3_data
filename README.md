@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 01:02:49**
+As of **2024-03-06 01:17:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,093 (99.9%) of 11,102 articles have been extended.
+11,102 (100.0%) of 11,102 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The publication was officially handed over to State Minister of Finance Shehan S
 
 [Data](articles/e3271ca6.json)
 
+[Extended Data](ext_articles/e3271ca6.ext.json)
+
 ---
 
 ### Opposition hands over no-confidence motion against Speaker
@@ -61,6 +63,8 @@ Chief Opposition Whip Lakshman Kiriella, Prof. G.L. Peiris, M.A. Sumanthiran, Ti
 ...
 
 [Data](articles/0fbf4b2b.json)
+
+[Extended Data](ext_articles/0fbf4b2b.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ A group of SLPP members including Chief Government Whip Prasanna Ranatunga, part
 
 [Data](articles/e730c7cd.json)
 
+[Extended Data](ext_articles/e730c7cd.ext.json)
+
 ---
 
 ### Cabinet approves enhanced meal budget for School Food Program
@@ -102,6 +108,8 @@ A committee of officers tasked with examining the matter concluded that an amoun
 
 [Data](articles/43588a97.json)
 
+[Extended Data](ext_articles/43588a97.ext.json)
+
 ---
 
 ### GRI launches its next generation sustainable tires at the Green Impact 2024
@@ -118,6 +126,8 @@ These next generation tires embody GRI’s vision of moving humanity towards mak
 
 [Data](articles/fe917d73.json)
 
+[Extended Data](ext_articles/fe917d73.ext.json)
+
 ---
 
 ### BOI visits ITC hotel
@@ -131,6 +141,8 @@ ITC Colombo One Hotel and Residences is a new luxury development in the heart of
 ◼️
 
 [Data](articles/4455d67c.json)
+
+[Extended Data](ext_articles/4455d67c.ext.json)
 
 ---
 
@@ -146,21 +158,29 @@ Being a woman is a profound journey, marked by the diverse roles of daughter, wi
 
 [Data](articles/be37a38b.json)
 
+[Extended Data](ext_articles/be37a38b.ext.json)
+
 ---
 
-### யாழ். இந்திய துணைத் தூதுவராக கடமையேற்ற சாய்முரளி நல்லை ஆதீன தேசிக ஞானசம்பந்த பிரமச்சாரிய சுவாமிகளை சந்தித்து ஆசிபெற்றார்
+### Yall. Sainamurali Nallai, who served as the Indian Deputy Ambassador, met with the Brahmacharya Swamis
 
 *2024-03-06 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178017) · `ta`
 
-யாழ்ப்பாண இந்திய துணைத்தூதுவர் சாய்முரளி ஞாயிற்றுக்கிழமை (4) நல்லை ஆதீன தேசிக ஞானசம்பந்த பிரமச்சாரிய சுவாமிகளை நல்லூரில் அமைந்துள்ள ஆதீன குருவின் வாஸ்தலத்தில் சந்தித்தார்.
+Sainamurali Nallai, Indian Deputy Ambassador, met with Brahmacharya Swamis and Jaffna Indian Vice-Chancellor Saimurali at the Athena Guru's Vastalam in Nallur. Discussions focused on changing religious customs among the youth and future of religious Siddhartha. Sarudirumurugan from the Sivaphoomi Foundation and the Indian Ambassador were also present.
 
-இச் சந்திப்பில் சமய ரீதியான தற்போதைய நிலைமைகள், இளைய சமூதாயத்தின் மாறிவரும் சமய புறழ்வான பழக்கவழக்கங்கள், எதிர்காலத்தில் சமய சித்தார்த்தம் தொடர்பான விடையம் பற்றி சமயத் தலைவர்களினால் கலந்துரையாடப்பட்டன.
+🟩
 
-இதில் சிவபூமி அறக்கட்டளை நிலைய ஸ்தாபகர் ஆறுதிருமுருகன், இந்திய தூதர அதிகாரிகள் எனப் பலரும் கலந்துகொண்டனர்.
+Jaffna Indian Vice -Chancellor Saimurali met on Sunday (4) at the Vastalam of the Athena Guru, located in Nallur.
+
+At this meeting, religious leaders were discussed by the religious leaders about the changing religious outward customs of the younger community, and the answer to the religious Siddhartha in the future.
+
+Sivaphoomi Foundation Founder, Sarudirumurugan and Indian Ambassador were also present.
 
 ◼️
 
 [Data](articles/818b3580.json)
+
+[Extended Data](ext_articles/818b3580.ext.json)
 
 ---
 
@@ -662,17 +682,29 @@ During the surveillance at deep sea, the team found a country boat sailing towar
 
 ---
 
-### பொருளாதார நெருக்கடியில் இருந்து மீள ஒரு வருடங்களேனும் செல்லும் - நிதி இராஜாங்க அமைச்சர்
+### A year to recover from the economic crisis - the Finance Minister
 
 *2024-03-05 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177962) · `ta`
 
-பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு  குறைந்தது ஒரு வருடங்களேனும் செல்லும் .ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தினால் நாடு சற்றேனும் இயல்பு நிலைக்கு திரும்பியுள்ளது என்பதை நாட்டு மக்கள் நன்கு அறிவார்கள். பொருளாதார நிலைமை தொடர்பில் மக்களிடம் உண்மையை குறிப்பிட்டு அரசியல் செய்வோம் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+The Finance Minister, Sehan Semasinghe, stated that it will take at least a year to recover from the economic crisis, with long-term plans implemented to address it. The government faced short-term crises, which opposition parties used for political gain. The International Monetary Fund's cooperation helped maintain financial discipline and stabilize the country's economy, which has seen a 11% increase in state income. Essential commodities shortages were addressed, and President Ranil Wickremesinghe's decisions aimed at stabilizing the economy. The Janatha Vimukthi Peramuna criticizes the current economic recovery, arguing for a favorable solution.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல் வாங்கல்கள் சட்டமூலம், நம்பிக்கைப்பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச்) சட்டமூலம்,) ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்கு விடுதல் (திருத்தச்) சட்டமூலம், உள்நாட்டு நம்பிக்கைப் பொறுப்பு (திருத்தச்) சட்டமூலம், கம்பனிகள் (திருத்தச்) சட்டமூலம் ஆவணங்கள் பதிவுக் கட்டளைச் சட்டம் (திருத்தச்) சட்டமூலம் என்பன மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
+
+It takes at least a year to recover from the economic crisis.. Minister of Finance Sehan Semasinghe said that we will do politics to the people in regard to the economic situation.
+
+Tuesday (05) in ParliamentSpeaking in a debate on the (Amendment) Bill.
+
+The people have faced short -term crises by the government's actions and resolutions for economic recovery. Opposition parties use this for their political gain.
+
+Long -term plans have been implemented to address the economic crisis.
+
+Following the cooperation of the International Monetary Fund, the country's financial discipline has been maintained and the fund has been stabilized. Currently increased by 11 percent of the country's state income. Steps have been taken to address the problems of the social structure.
 
 ...
 
 [Data](articles/13cbf84a.json)
+
+[Extended Data](ext_articles/13cbf84a.ext.json)
 
 ---
 

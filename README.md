@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 18:20:59**
+As of **2024-03-05 18:33:11**
 
 ## Newspaper Stats
 
-*Scraped **11,033** Articles*
+*Scraped **11,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailyftlk | 584
 islandlk | 592
 adalk | 933
 tamilmirrorlk | 1,344
-adaderanalk | 1,344
+adaderanalk | 1,345
 virakesarilk | 1,487
-dailymirrorlk | 1,680
-adaderanasinhalalk | 1,725
+dailymirrorlk | 1,684
+adaderanasinhalalk | 1,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,033 (100.0%) of 11,033 articles have been extended.
+11,033 (99.9%) of 11,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### Sri Lankan FM and OIC Secretary General discuss cooperation, Palestine
+
+*2024-03-05 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97748/sri-lankan-fm-and-oic-secretary-general-discuss-cooperation-palestine) · `en`
+
+The Secretary-General of the Organisation of Islamic Cooperation (OIC) Hissein Brahim Taha and Sri Lanka’s foreign minister Ali Sabry met on Monday in Jeddah to discuss cooperation and address shared concerns.
+
+Sabry highlighted Sri Lanka’s initiatives aimed at enhancing the well-being of its Muslim community. He reiterated Sri Lanka’s stance on the Palestinian cause, affirming support for the two-state solution, foreign media reported.
+
+Taha discussed the OIC’s role in advancing the welfare of Muslim communities worldwide and commended Sri Lanka’s government for supporting Muslims and the Palestinians.
+
+During the meeting, held at the OIC General Secretariat in Jeddah, both sides discussed the prospects for enhancing cooperation between the OIC and Sri Lanka.
+
+...
+
+[Data](articles/af1b2f35.json)
+
+---
+
+### මහ බැංකු වැටුප් වැඩිකිරීමට පක්ෂ නායකයින්ගේ දැඩි අප්‍රසාදය
+
+*2024-03-05 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194172) · `si`
+
+ස්වයං තීරණයක් මගින් සේවක වැටුප් වැඩිකිරීම සම්බන්ධයෙන් මහ බැංකුවේ ඉහළ නිලධාරීන්ට අද (05) ‍පාර්ලිමේන්තුවේ පැවති පක්ෂ නායක රැස්වීමේදී දැඩි අප්‍රසාදය පළවී තිබේ.
+
+එහිදී වැටුප් වැඩි කිරීම සම්බන්ධයෙන් නෛතික බලයක් නැති බවටද පක්ෂ නායකයන්ගෙන් තර්කයක් ඉදිරිපත්වී ඇත.
+
+නෛතික බලයක් තිබුණද ජනතාව පීඩාවට පත්වී සිටින මොහොතක 70%කින් වැටුප් වැඩි කරගැනීමට කිසිදු සදාචාරාත්මක අයිතියක් නැති බවට එහිදී කරුණු ඉදිරිපත්වී ඇත.
+
+මෙම වැටුප් වැඩි කිරීම නිසා මාසිකව රු. මිලියන 232කට ආසන්න මුදලක් වැය වන බවටත් අනාවරණයවී තිබේ.
+
+වැටුප් වැඩි කිරීම සිදුකර ඇති වෘත්තීය සමිති සහ කළමනාකාරීත්වය අතර ඇති කරගෙන තිබෙන සාමූහික ගිවිසුම (Collective Agreement) කම්කරු අමාත්‍යාංශයේ ලියාපදිංචි ‍කර නොමැති බවත් හෙළිවී ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/c0a664a5.json)
+
+---
 
 ### A reservoir in Colombo
 
@@ -49,6 +87,26 @@ Tears and water attacks have been carried out in front of the Sports Ministry in
 [Data](articles/d93838ce.json)
 
 [Extended Data](ext_articles/d93838ce.ext.json)
+
+---
+
+### Chandrika refutes getting two pensions
+
+*2024-03-05 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chandrika-refutes-getting-two-pensions/108-278285) · `en`
+
+Colombo, March 5 (Daily Mirror)- Former President Chandrika Kumaratunge today refuted claims by Mihintale Raja Maha Viharadhipathi Ven. Walaha Hengunawewe Dhammarathana Thera that she was getting two pensions.
+
+A statement issued by her office said the allegations by the Thera are false and baseless.
+
+The statement said she was getting only the pension entitled to her as the former President.
+
+It also said that former President Mahinda Rajapaksa during his tenure, increased the pension of the President upto Rs. 97,000 and that the pension of Ms. Kumaratunge and former president D.B. Wijetunge were not increased even though the retired Presidents should also have enjoyed an increase in line with the salary hike of the President.
+
+However, the statement added that the situation was rectified after Maithripala Sirisena was elected President in 2015 and the pension of Ms. Kumaratunge which is credited to her bank account is used only for social services.
+
+◼️
+
+[Data](articles/981fc350.json)
 
 ---
 
@@ -122,6 +180,18 @@ Commenting on the meeting of the Indian Foreign Minister of the Indian Foreign M
 
 ---
 
+### No-faith motion against Speaker handed over…
+
+*2024-03-05 17:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/No-faith-motion-against-Speaker-handed-over/110-278283) · `en`
+
+The no-confidence motion on Speaker Mahinda Yapa Abeywardena was handed over to Deputy Secretary General of Parliament Chaminda Kularatne today.
+
+◼️
+
+[Data](articles/c8f3d30d.json)
+
+---
+
 ### The volunteer teacher was imprisoned
 
 *2024-03-05 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194171) · `si`
@@ -143,6 +213,22 @@ High Court Judge ordered the pilgrimage to the pilgrimage to another two months 
 [Data](articles/2f04b7a9.json)
 
 [Extended Data](ext_articles/2f04b7a9.ext.json)
+
+---
+
+### Protesting university students tear-gassed
+
+*2024-03-05 17:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protesting-university-students-tear-gassed/108-278282) · `en`
+
+Colombo, March 05 (Daily Mirror) - Tensions erupted near the University of Colombo as police resorted to tear gas and water cannons to disperse protesting students.
+
+The incident occurred shortly after reports surfaced of a road closure in front of the university premises due to the demonstration organized by a group of university students.
+
+Furthermore, severe traffic congestion also gripped the area as the protesting students initiated a protest march.
+
+◼️
+
+[Data](articles/0da5ba84.json)
 
 ---
 
@@ -1548,6 +1634,20 @@ Addressing the media, he said the proposal for the government to absorb the USD 
 
 ---
 
+### Calling of bids for restructuring SriLankan Airlines extended by 45 days
+
+*2024-03-05 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Calling-of-bids-for-restructuring-SriLankan-Airlines-extended-by-45-days/155-278272) · `en`
+
+The deadline for calling bids for the restructuring of SriLankan Airlines has been extended by 45 days and it will come to effect from today, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+Addressing the media, he said the proposal for the government to absorb the USD 510 million in outstanding debts by SriLankan Airlines has been approved by the Cabinet.
+
+◼️
+
+[Data](articles/b96387ef.json)
+
+---
+
 ### Will the Supreme Court confirmed a person who was involved in torture as a police chief?Ceylon Attorneys Association
 
 *2024-03-05 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/177942) · `ta`
@@ -2123,135 +2223,5 @@ Basil Rajapaksa, Parlia. Chandrasena, Prasanna Abeygunawardena, Prasanna Ranatun
 [Data](articles/ab80ac54.json)
 
 [Extended Data](ext_articles/ab80ac54.ext.json)
-
----
-
-### Basil Rajapaksa returns; intends to lead SLPP campaign
-
-*2024-03-05 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basil-Rajapaksa-returns-intends-to-lead-SLPP-campaign/108-278265) · `en`
-
-Colombo, March 5 (Daily Mirror) - Former Finance Minister and Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa arrived in Sri Lanka from the USA this morning.
-
-A group of Sri Lanka Podujana Peramuna (SLPP) members including party General Secretary Sagara Kariyawasam, MP Sarath Weerasekera and Minister Prasanna Ranatunga were at the airport to welcome him.
-
-He told the media at the airport that he intends to lead the SLPP's preparations for the upcoming elections.
-
-◼️
-
-[Data](articles/4384c4c1.json)
-
-[Extended Data](ext_articles/4384c4c1.ext.json)
-
----
-
-### Visit Basil Country!
-
-*2024-03-05 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177923) · `ta`
-
-Basil Rajapaksa, founder of the PA and former Finance Minister, visited Basil Country on Tuesday, welcomed by SLPP members at Katunayake Bandaranaike International Airport.
-
-🟩
-
-Basil Rajapaksa, the founder of the PA and former Finance Minister, visited the country on Tuesday morning.
-
-A group of members of the Sri Lanka PA (SLPP) has visited Katunayake Bandaranaike International Airport to welcome Basil Rajapaksa.
-
-◼️
-
-[Data](articles/2c44fbe4.json)
-
-[Extended Data](ext_articles/2c44fbe4.ext.json)
-
----
-
-### The government will disappear if the people's representatives go to the village
-
-*2024-03-05 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177922) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of government representatives visiting villages for development, warning that without such engagement, the government would cease to exist. He highlighted the need for direct contributions to village development, especially within two years, during a meeting on Gampaha district's development activities.
-
-🟩
-
-President Ranil Wickremesinghe has said that the same government will be in the country next year and that if the people's representatives of the government do not go to the village, there will be no government.
-
-Due to this, the President appealed for the development of the village to contribute directly to the development of the village after two years.
-
-The President said this while addressing a meeting held at the Presidential Secretariat today on the development activities of the Gampaha district.. The meeting was organized by Minister Prasanna Ranatunga.
-
-It is a special feature that the three district leaders of the Gampaha District Mottu Party, the Sri Lanka Freedom Party and the United National Party participated in the meeting.
-
-It was attended by MPs who represent the government and support the government except for the Minister of State. Members of Parliament Sisira Jayakody and Milan Jayatilaka did not attend the meeting.
-
-...
-
-[Data](articles/728dd4c6.json)
-
-[Extended Data](ext_articles/728dd4c6.ext.json)
-
----
-
-### We'll never deceive people.. -Basil
-
-*2024-03-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194147) · `si`
-
-Basil Rajapaksa, founder of Sri Lanka General Man, claims his party has never deceived people. He emphasizes listening to the public and acknowledging mistakes.
-
-🟩
-
-Basil Rajapaksa, the founder of the Sri Lanka General Man, says that his party has never tried to deceive people.
-
-He was speaking to the Sri Lanka this morning (05), Speaking to the Media.
-
-He also said that he was once again no intention of the parliament again.
-
-He said that it was a challenge for every election in the necessary places.
-
-"We'll never deceive people. What the people say is doing. We are wrong at some places. People do not accept what we say. There are times when we did not accept what the people say. They are correct. "
-
-◼️
-
-[Data](articles/0e5a5bee.json)
-
-[Extended Data](ext_articles/0e5a5bee.ext.json)
-
----
-
-### Refrain from criticizing senior public officers: Speaker tells MPs
-
-*2024-03-05 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Refrain-from-criticizing-senior-public-officers-Speaker-tells-MPs/108-278264) · `en`
-
-Highlighting that he had received complaints from senior public servants that MPs have been making unfair allegations against them, Speaker Mahinda Yapa Abeywardena today requested the MPs to refrain from criticizing these officers.
-
-"Critical comments made by the MPs on public servants will be expunged from Hansard in the future," he said.
-
-"It is unfair on the part of MPs to criticize public servants as they have no way of responding to the allegations made against them. If the MPs need to question any public official, they can summon such officials to Parliament and do so," he said.
-
-◼️
-
-[Data](articles/9dcc8f67.json)
-
-[Extended Data](ext_articles/9dcc8f67.ext.json)
-
----
-
-### The new MP took office
-
-*2024-03-05 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பி-பதவியேற்றார்/175-334216) · `ta`
-
-C. Muthukumaran, a new MP, was sworn in after Uthika Premaratne's resignation, filling the vacant parliamentary position.
-
-🟩
-
-As a Member of Parliament. C. Muthukumaran was sworn in in the presence of the Speaker a little while ago.
-
-Recently, the resignation of Parliament. Subsequently, his parliamentary position became a vacuum.
-
-Subsequently, after the Uthika Premaratne, S.. C. Muthukumaran has been elected to Parliament.
-
-◼️
-
-[Data](articles/ef3150e1.json)
-
-[Extended Data](ext_articles/ef3150e1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 09:33:21**
+As of **2024-03-05 09:52:10**
 
 ## Newspaper Stats
 
-*Scraped **10,914** Articles*
+*Scraped **10,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,124 @@ newsfirstlk | 363
 economynextcom | 562
 dailyftlk | 584
 islandlk | 592
-adalk | 924
-adaderanalk | 1,326
+adalk | 925
+adaderanalk | 1,327
 tamilmirrorlk | 1,332
 virakesarilk | 1,459
 dailymirrorlk | 1,663
-adaderanasinhalalk | 1,699
+adaderanasinhalalk | 1,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,908 (99.9%) of 10,914 articles have been extended.
+10,914 (100.0%) of 10,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### கூகுள் மேப் காட்டிய பாதையில் சென்று அலரி மாளிகைக்குள் நுழைந்த இருவர்
+### නව මන්ත්‍රීවරයෙක් දිවුරුම් දෙයි
 
-*2024-03-05 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/177916) · `ta`
+*2024-03-05 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194146) · `si`
 
-கூகுள் மேப் காட்டிய பாதையில் சென்று கொழும்பு கொள்ளுப்பிட்டியில் உள்ள பிரதமர் உத்தியோகபூர்வ வாசஸ்தலமான அலரிமாளிகைக்குள் அத்துமீறி நுழைந்த இருவருக்கு கோட்டை நீதவான் பிணை வழங்கியுள்ளார்.
+එස්. සී. මුතුකුමාරණ මහතා මීට සුළු වේලාවකට පෙර කථානායකවරයා ඉදිරියේ නව මන්ත්‍රී ධුරයේ දිවුරුම් දුන්නේය.
 
-இந்த இரு நபர்களும்  சனிக்கிழமை கொள்ளுப்பிட்டி பொலிஸாரால் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+◼️
 
-மென்பொருள் பொறியியலாளர்  ஒருவரும்  கப்பலில் பணிபுரியும் நபர் ஒருவரும் சனிக்கிழமை (03) இரவு நேர களியாட்ட விடுதிக்கு சென்றுள்ளனர்.
+[Data](articles/aea561d7.json)
 
-பின்னர் அங்கு மது அருந்தி விட்டு முகாந்திரம் வீதியில் உள்ள தங்குமிடத்திற்கு செல்ல கூகுள் மேப்பை பயன்படுத்தியுள்ளனர்.
+---
 
-இந்நிலையில், கூகுள் மேப் காட்டிய பாதையில் சென்ற போது அவர்கள் அலரிமாளிகை வளாகத்திற்குள் நுழைந்துள்ளனர்.
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
 
-இதன்போது, பிரதமரின் பாதுகாப்பு பிரிவின் அதிகாரிகள் இருவரையும் கைது செய்து கொள்ளுப்பிட்டி பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+*2024-03-05 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194145) · `si`
+
+මේ අතර කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව අද දිනයේ දී විපක්ෂයේ මන්ත්‍රීවරු විසින් පාර්ලිමේන්තු මහ ලේකම්වරිය වෙත භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/91a72f37.json)
+
+---
+
+### Basil returns to Sri Lanka
+
+*2024-03-05 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97735/basil-returns-to-sri-lanka) · `en`
+
+Former Finance Minister Basil Rajapaksa returned to the island this morning (March 05).
+
+A group of members of Sri Lanka Podujana Peramuna (SLPP) were at the Bandaranaike International Airport (BIA) in Katunayake to welcome the party’s founder.
+
+◼️
+
+[Data](articles/2ff26ff5.json)
+
+---
+
+### බැසිල් දිවයිනට
+
+*2024-03-05 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194144) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අද (05) උදෑසන දිවයිනට පැමිණ තිබේ.
+
+බැසිල් රාජපක්ෂ මහතාව මහතාව පිළිගැනීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණේ, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන සාගර කාරියවසම්, එස්.එම්. චන්ද්‍රසේන, රෝහිත අබේගුණවර්ධන, ප්‍රසන්න රණතුංග සහ අරුන්දික ප්‍රනාන්දු ඇතුළු පිරිසක් එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/74f428b0.json)
+
+---
+
+### Two people who went on the road showed by Google Map and entered the Alary House
+
+*2024-03-05 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/177916) · `ta`
+
+Two men, a software engineer and a ship passenger, were arrested for trespassing at the Prime Minister's residence in Colombo using Google Maps. They were released on bail.
+
+🟩
+
+The Fort Magistrate has granted bail to the two men who went on the road showed by Google Map to the Prime Minister's official residence in Colombo.
+
+The two men were arrested by the Kaluppitti police on Saturday, police said.
+
+A software engineer and a person on board a ship went to the extravagant hotel on Saturday night (03).
+
+Then they used the Google Map to go to the shelter on Mukandram Road.
+
+In this case, when the Google Map showed, they had entered the Alarm Gallery.
+
+The Prime Minister's Security Division has arrested the two officials and handed over to the Kaluppitti police.
 
 ◼️
 
 [Data](articles/b1345fde.json)
 
+[Extended Data](ext_articles/b1345fde.ext.json)
+
 ---
 
-### அன்பான இலங்கையின் அனைத்து மரியாதைக்குரிய குடிமக்களுக்கும்...
+### For all the respected citizens of loving Sri Lanka ...
 
 *2024-03-05 09:13:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்பான-இலங்கையின்-அனைத்து-மரியாதைக்குரிய-குடிமக்களுக்கும்/175-334213) · `ta`
 
-கலாநிதி நந்தலால் வீரசிங்கவிற்கும் திரு.ஜெயந்த கோவில்கொடகேவிற்கும் இடையில் இடம்பெற்ற உரையாடலில் பேசப்படாத சில விடயங்களை உரிய மரியாதையுடன் எழுப்ப விரும்புகின்றோம்.
+Dr. Nandalal Weerasinghe and Mr. Jayantha Kovilkodake discuss the need for central bank officials in Sri Lanka to broaden their understanding beyond economics, including social sciences and human behavior, to mitigate social unrest. They highlight the Central Bank of Sri Lanka's role in affecting social development indicators and criticize the focus on data over human factors. They also discuss historical salary policies and their impacts, urging the Governor of CBSL to consider social and moral implications in decision-making.
 
-மத்திய வங்கி அதிகாரிகள் பொருளாதாரத்தை விட பரந்த புரிதலைக் கொண்டிருக்க வேண்டும். அவர்களின் கல்வியானது சமூகவியல், அமைதி மற்றும் மோதல் ஆய்வுகள் மற்றும் அவர்களின் முடிவுகளின் சமூக தாக்கங்களை நன்கு புரிந்துகொள்ள மனித நடத்தை போன்ற சமூக அறிவியலை உள்ளடக்கியதாக இருக்க வேண்டும்.
+🟩
 
-தற்போதைய முடிவெடுக்கும் செயல்முறை, இந்த பரந்த புரிதல் இல்லாததால், சமூக அமைதியின்மையை நிலைநிறுத்தும் அபாயம் உள்ளது. சமூக ஊடகங்கள் மூலம் வெளிச்சத்திற்குக் கொண்டுவரப்பட்ட இந்த சமீபத்திய சம்பவம் இதனை எடுத்துக்காட்டுகிறது.
+In the conversation between Dr. Nandalal Weerasinghe and Mr. Jayantha Kovilkodake, we would like to raise some of the unprecedented things.
 
-கொள்கை வகுப்பாளர்களை ஆதரிக்கும் ஒரு தொழில்முறை அமைப்பாக கருதப்படும் இலங்கை மத்திய வங்கி, துரதிஷ்டவசமாக ஏனைய சமூக அபிவிருத்தி குறிகாட்டிகளை பாதிக்கும் வகையில் தற்போதைய பொருளாதார நிலைமைக்கு பங்களித்துள்ளது.
+Central bank officials must have a wider understanding than the economy.Their education must include social science, such as human behavior to understand the social impacts of sociology, peace and conflict studies and the social impacts of their decisions.
+
+The current decision -making process is the risk of maintaining social unrest due to lack of this broader understanding.This recent incident, which was brought to light through social media, illustrates this.
+
+The Central Bank of Sri Lanka, which is considered a professional organization that supports policymakers, has contributed to the current economic situation to affect other social development indicators.
 
 ...
 
 [Data](articles/626c8921.json)
+
+[Extended Data](ext_articles/626c8921.ext.json)
 
 ---
 
@@ -83,6 +147,8 @@ Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation 
 ...
 
 [Data](articles/3319148b.json)
+
+[Extended Data](ext_articles/3319148b.ext.json)
 
 ---
 
@@ -102,25 +168,33 @@ Many female legislators in the hall smiled broadly as they cheered. While a smal
 
 [Data](articles/aab19ccf.json)
 
+[Extended Data](ext_articles/aab19ccf.ext.json)
+
 ---
 
-### கூகுள் ’மப்’பை நம்பி அலரி மாளிகைக்குள் சென்ற இருவர் கைது
+### Two persons arrested in the Alari House
 
 *2024-03-05 08:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மப்-பை-நம்பி-அலரி-மாளிகைக்குள்-சென்ற-இருவர்-கைது/175-334212) · `ta`
 
-கூகுள் வரைபடத்தில் உள்ள வழிமுறைகளைப் பின்பற்றி, கொழும்பு அலரிமாளிகை வளாகத்திற்குள் தவறுதலாக அத்துமீறி நுழைந்த இருவருக்கு, கோட்டை நீதவான் பிணை வழங்கியுள்ளார்.
+Two men mistakenly entered the Colombo Allevalli Complex, following Google Map instructions, and were arrested by the Prime Minister's Security Division. They were guided to a barrier near the Alari House but crossed it, leading to their arrest.
 
-இச்சம்பவத்தைத் தொடர்ந்து மென் பொறியியலாளர் மற்றும் கடலோடி ஆகிய இருவரே இவ்வாறு கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இருவரும் கொள்ளுப்பிட்டியில் உள்ள இரவு விடுதிக்கு சென்று மது அருந்தியதாகவும் முஹந்திரம் வீதியில் உள்ள தங்குமிடத்திற்கு திரும்ப முயற்சித்ததாகவும் கூகுள் வரைபடத்தை நம்பியிருந்ததாகவும் கூறப்படுகிறது.
+Following the instructions on the Google Map, the Fort Magistrate has granted bail to two men who have mistakenly crossed the Colombo Allevalli Complex.
 
-இருப்பினும், வழிகாட்டுதல்கள் அவர்களை அலரி மாளிகையின் சுற்றுச்சுவருக்கு அருகில் ஒரு முட்டுச்சந்திற்கு செல்ல வழிகாட்டியுள்ளது. தங்கள் வழியைக் கண்டுபிடிக்கும் முயற்சியில், அவர்கள் சுவரைக் கடந்து அலட்சியமாக அலரிமாளிகை வளாகத்திற்குள் நுழைந்தனர்.
+Following the incident, police said that the men and the sea were arrested.
 
-இதன்போது, ​​பிரதமரின் பாதுகாப்பு பிரிவின் அதிகாரிகள் குறித்த இருவரையும் கைது செய்து கொள்ளுப்பிட்டி பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+It is said that the two had gone to the night hotel in Kalupitiya and tried to return to the shelter on Muharndra Road and relied on the Google map.
+
+However, the guidelines have guided them to go to a barrier near the roundabout of the Alary House. In an attempt to find their way, they crossed the wall and indifferently entered the Alarm Galleus.
+
+Meanwhile, the two persons of the Prime Minister's Security Division have arrested the two men and handed over to the Kaluppitti police.
 
 ◼️
 
 [Data](articles/01e31f92.json)
+
+[Extended Data](ext_articles/01e31f92.ext.json)
 
 ---
 
@@ -481,6 +555,8 @@ While this process could take some time, he was confident that the bondholders, 
 ...
 
 [Data](articles/bd40bb9f.json)
+
+[Extended Data](ext_articles/bd40bb9f.ext.json)
 
 ---
 
@@ -1648,6 +1724,22 @@ Addressing a seminar in Colombo, the President said that no one would allow the 
 
 ---
 
+### කරාපිටියේ වෛද්‍යවරු 60කගේ හිඟයක්
+
+*2024-03-04 19:49:28* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටියේ-වෛද්‍යවරු-60කගේ-හිඟයක්/11-408421) · `si`
+
+ගාල්ල කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරු 60 දෙනකුගේ සහ කනිෂ්ඨ කාර්යමණ්ඩලයේ සේවකයින්   250   දෙනෙකුගේ පමණ  හිගයක් පවතින බව කරාපිටිය රෝහලේ අධ්‍යක්ෂක විශේෂඥ වෛද්‍ය  එස්.පි.යු.එම් රංග  මහතා කියයි.
+
+කරාපිටිය ශික්ෂණ රෝහල සදහා වෛද්‍යවරු 550 දෙනෙකු සිටිය යුතුවුවත්  දැනට සිටින්නේ වෛද්‍යවරු 490ක්පමණක් බවද  රෝහල්  අධ්‍යක්ෂවරයා  සදහන් කළේය.  රෝහලේ විකලාංග, පිලිකා යන  ශල්‍ය ඒකක  සහ හදිසි ප්‍රථිකාර ඒකකය සදහා වෛද්‍යවරුන්ගේ හිගයක් පවතින  බව පෙන්වා දෙන රෝහල් අධ්‍යක්ෂවරයා  නිර්වින්දන වෛද්‍යවරුන්ගේ  හිගයක් පවතින බවද සදහන් කරයි.
+
+විශේෂඥ වෛද්‍යවරුන්ගේ හිගයක්  නොමැති බවත්  අවශ්‍ය වෛද්‍යවරුන් හා  කනිෂ්ඨ කාර්ය මණ්ඩල සේවකයින් ලබාදිය යුත්තේ  සෞඛ්‍ය අමාත්‍යංශයෙන් බවත් රෝහල් අධ්‍යක්ෂවරයා පවසයි.මේවනවිට   රෝහලේ   වෛද්‍ය උපකරණ හා  අලුත්වැඩියා කටයුතු  සදහා විශාල   මුදලක් සෞඛ්‍ය අමාත්‍යවරයා වෙන්කර ඇති බවද රෝහල් අධ්‍යක්ෂවරයා වැඩිදුරටත් පැවැසීය.
+
+◼️
+
+[Data](articles/ab9e42d7.json)
+
+---
+
 ### Parliament has passed 42 new laws within 14 months: President
 
 *2024-03-04 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-has-passed-42-new-laws-within-14-months-President/108-278217) · `en`
@@ -2103,123 +2195,5 @@ Thaksin’s release, after almost two decades of antipathy between his populist 
 [Data](articles/08ce46fd.json)
 
 [Extended Data](ext_articles/08ce46fd.ext.json)
-
----
-
-### Sri Lanka opposition to table first-ever no-faith motion against sitting speaker
-
-*2024-03-04 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-to-table-first-ever-no-faith-motion-against-sitting-speaker-153005/) · `en`
-
-ECONOMYNEXT — Opposition parties in Sri Lanka will table a motion of no confidence against an incumbent speaker on Tuesday March 05 for the first time in the legislature’s history, opposition lawmaker G L Peiris said.
-
-“At no point in the history of this country has a no-confidence motion (NCM) being tabled against a speaker. It’s a special event,” said Peiris.
-
-Speaking to reporters on Monday, Peiris said NCMs have been tabled against four prime ministers and 14 ministers, and against 27 governments as a whole.
-
-“This is the 26th speaker. No NCM has been tabled against a speaker. The opposition has taken this decision responsibly, looking ahead and in the absence of an alternative,” he said.
-
-“All parties in the opposition have already expressed their full support for this NCM. This too is a rare occurrence. Various opinions exist within the opposition, but when it comes to this matter, every group in the opposition has been able to reach a consensus,” he added.
-
-...
-
-[Data](articles/7dbac530.json)
-
-[Extended Data](ext_articles/7dbac530.ext.json)
-
----
-
-### Cricket on the cell phone;This is the reason for the train accident in India
-
-*2024-03-04 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/177897) · `ta`
-
-Indian Central Railway Minister Aswini Vaishnav blamed cricket on mobile phones for a train accident that killed 14 people. The Union Railway Minister attributed the accident to driver negligence. To prevent future accidents, trains are enhancing security features.
-
-🟩
-
-Indian Central Railway Minister Aswini Vaishnav has said that the train drivers have seen cricket on the mobile phone of the railway drivers on October 29 last year.
-
-Fourteen people were killed when passenger trains collided with one another last year. The Union Railway Minister said that the negligence of the drivers was responsible for the accident.
-
-At present, the trains are increasing the security features and the equipment to ensure that the train drivers are careful.
-
-The Minister said that in the future, the safety of the train will be ensured and the accidents will be avoided.
-
-◼️
-
-[Data](articles/d7255b74.json)
-
-[Extended Data](ext_articles/d7255b74.ext.json)
-
----
-
-### Censorship against ejust is extended
-
-*2024-03-04 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194121) · `si`
-
-The Colombo District Court extended censorship against e-justice, issuing disciplinary actions against Sarath Fonseka. Sajith Premadasa ordered injunctions against Fonseka's party members. Fonseka seeks to prevent disciplinary actions based on comments by Daya Ratnayake.
-
-🟩
-
-The Colombo District Court sentenced the extension of the party membership of the party membership, suspension and disciplinary action issued by Field Marshal Sarath Fonseka.
-
-The order was issued by the Colombo District Judge Sandun Withana after re-examining a petition filed by Sarath Fonseka today (04).
-
-Sajith Premadasa, Leader of the Samagi Tajith Madduma Bandara, has issued injunction ordered orders to the General Secretary of the General Secretary to the National Organizer Tissa Attanayake and Treasurer Harsha De Silva.
-
-Attorney-at-Law Romesh de Silva, who appeared for the respondents and others, said that the protests will be made against the injunction order.
-
-The event was then extended until the 19th of this month.
-
-The petitioner says that the recent media has expressed information that his client is about to take disciplinary action against him based on the comments of former Army Commander Daya Ratnayake.
-
-...
-
-[Data](articles/39e32729.json)
-
-[Extended Data](ext_articles/39e32729.ext.json)
-
----
-
-### “I sent a resignation letter while in Canada"
-
-*2024-03-04 16:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-இருக்கும்-போதே-ராஜினாமா-கடிதத்தை-அனுப்பினேன்/175-334188) · `ta`
-
-Uthika Premaratne, a Sri Lankan parliamentarian, resigned and is in Canada seeking a work visa, not asylum. He expressed dissatisfaction with politics and highlighted his acting career.
-
-🟩
-
-Anuradhapura District Sri Lanka PA (SLPP) parliamentarian Uthika Premaratne, who recently resigned from his parliamentary post, said he was looking for a work visa in Canada.
-
-Premaratne, who is currently in Canada, told the local YouTube channel that he did not seek asylum in Canada and was expecting a work visa.
-
-I have not learned anything from politics, and I only have the only one I earned in acting.
-
-◼️
-
-[Data](articles/b811b8d3.json)
-
-[Extended Data](ext_articles/b811b8d3.ext.json)
-
----
-
-### Two former police officers sentenced to death over custodial death
-
-*2024-03-04 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97726/two-former-police-officers-sentenced-to-death-over-custodial-death) · `en`
-
-The Colombo High Court has sentenced to death two former police officers who were attached to Peliyagoda Police, after they were found guilty of assaulting to death a suspect while in custody at the Peliyagoda police station in 2005.
-
-Colombo High Court Judge Navaratne Marasinghe delivered the verdict today (04) following a trial that lasted over 18 years.
-
-In July 2005, a person who was working in the residence of a police officer attached to the police fingerprint division had been handed over to Peliyagoda Police Station on suspicion of allegedly stealing a mobile phone from the house in question.
-
-Accordingly, a Sub-Inspector of Police and a Police Constable attached to Peliyagoda Police Station were convicted of unlawfully detaining the 52-year-old suspect and brutally assaulting him to death.
-
-Furthermore, the two accused were also ordered to pay a compensation of Rs. 1 million each to the daughter of the victim.
-
-...
-
-[Data](articles/64c7404f.json)
-
-[Extended Data](ext_articles/64c7404f.ext.json)
 
 ---

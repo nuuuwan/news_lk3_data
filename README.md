@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 10:33:16**
+As of **2024-03-05 10:50:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 1,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,929 (100.0%) of 10,931 articles have been extended.
+10,931 (100.0%) of 10,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### அரசின் மக்கள் பிரதிநிதிகள் கிராமத்திற்கு செல்லாவிட்டால் அரசு காணாமல் போகும் - ஜனாதிபதி
+### The government will disappear if the people's representatives go to the village
 
 *2024-03-05 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177922) · `ta`
 
-அடுத்த வருடமும் நாட்டில் இதே அரசாங்கம் அமையும் எனவும் அரசாங்கத்தின் மக்கள் பிரதிநிதிகள் கிராமத்திற்கு செல்லாவிட்டால் அரசாங்கமே இல்லாமல் போகும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe emphasized the importance of government representatives visiting villages for development, warning that without such engagement, the government would cease to exist. He highlighted the need for direct contributions to village development, especially within two years, during a meeting on Gampaha district's development activities.
 
-இதன் காரணமாக இரண்டு வருடங்களின் பின்னர் அபிவிருத்திக்காக வழங்கப்படும் பணத்தை கிராமத்திற்கு எடுத்துச் சென்று கிராமத்தின் அபிவிருத்திக்கு நேரடியாக பங்களிக்குமாறும் ஜனாதிபதி வேண்டுகோள் விடுத்தார்.
+🟩
 
-கம்பஹா மாவட்டத்தின் அபிவிருத்தி நடவடிக்கைகள் தொடர்பில் ஜனாதிபதி செயலகத்தில் இன்று  இடம்பெற்ற சந்திப்பில் திடீரென கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார். அமைச்சர் பிரசன்ன ரணதுங்கவினால் இந்த சந்திப்பு ஏற்பாடு செய்யப்பட்டிருந்தது.
+President Ranil Wickremesinghe has said that the same government will be in the country next year and that if the people's representatives of the government do not go to the village, there will be no government.
 
-இந்த சந்திப்பில் கம்பஹா மாவட்ட மொட்டுக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி மற்றும்  ஐக்கிய தேசியக் கட்சி ஆகிய மூன்று மாவட்டத் தலைவர்களும் கலந்துகொண்டமை விசேட அம்சமாகும்.
+Due to this, the President appealed for the development of the village to contribute directly to the development of the village after two years.
+
+The President said this while addressing a meeting held at the Presidential Secretariat today on the development activities of the Gampaha district.. The meeting was organized by Minister Prasanna Ranatunga.
+
+It is a special feature that the three district leaders of the Gampaha District Mottu Party, the Sri Lanka Freedom Party and the United National Party participated in the meeting.
+
+It was attended by MPs who represent the government and support the government except for the Minister of State. Members of Parliament Sisira Jayakody and Milan Jayatilaka did not attend the meeting.
 
 ...
 
 [Data](articles/728dd4c6.json)
+
+[Extended Data](ext_articles/728dd4c6.ext.json)
 
 ---
 
@@ -89,6 +97,8 @@ Highlighting that he had received complaints from senior public servants that MP
 ◼️
 
 [Data](articles/9dcc8f67.json)
+
+[Extended Data](ext_articles/9dcc8f67.ext.json)
 
 ---
 

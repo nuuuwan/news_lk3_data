@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 12:03:09**
+As of **2024-03-05 12:17:51**
 
 ## Newspaper Stats
 
-*Scraped **10,952** Articles*
+*Scraped **10,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,102 @@ dailyftlk | 584
 islandlk | 592
 adalk | 928
 adaderanalk | 1,332
-tamilmirrorlk | 1,335
-virakesarilk | 1,467
-dailymirrorlk | 1,670
+tamilmirrorlk | 1,338
+virakesarilk | 1,468
+dailymirrorlk | 1,671
 adaderanasinhalalk | 1,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,946 (99.9%) of 10,952 articles have been extended.
+10,952 (100.0%) of 10,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### சொத்துக்கள் மற்றும் பொறுப்புகள் ஆகியவற்றை வெளியிடும் சட்டத்தில் திருத்தம்
+### 36-ball spell in a T20I! A night to forget for Pathirana vs Bangladesh
+
+*2024-03-05 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/36-ball-spell-in-a-T20I-A-night-to-forget-for-Pathirana-vs-Bangladesh/108-278267) · `en`
+
+Mar. 5 (IND) - The first T20I of the three-match series between Sri Lanka and Bangladesh went down the wire with the visitors holding their nerve to win by three runs. Despite losing early wickets, Bangladesh stayed in the hunt right till the end and Sri Lanka's bowling played a part in it as well.
+
+At the end of IPL 2023, Matheesha Pathirana was touted to be the next superstar of Sri Lanka cricket with the ball. He had spent almost two months with the Chennai Super Kings and playing under skipper MS Dhoni, the youngster had flourished. But since then, in last nine months everything possible has gone wrong for Pathirana while playing for Sri Lanka at the international level. He endured a very tough ODI World Cup and amidst brilliance in one-odd game, the bowler with the slingy action is having a torrid time on the field.
+
+...
+
+[Data](articles/69dd1383.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த ஆதாரங்கள் புறக்கணிக்கப்பட்டுள்ள - சுயாதீன விசாரணைகளிற்கான எங்கள் வேண்டுகோள்கள் நிராகரிக்கப்பட்டுள்ளன- மனித உரிமை பேரவைக்கான உரையில் மல்கம் ரஞ்சித்
+
+*2024-03-05 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177939) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த  புதிய ஆதாரங்கள் புறக்கணிக்கப்பட்டுள்ளன, வெளிப்படையான சுயாதீன விசாரணைகளிற்காக நாங்கள் விடுத்த வேண்டுகோள்களையும் மன்றாட்டங்களையும் இலங்கை அரசாங்கம் தொடர்ந்தும் இலங்கைஅரசாங்கம் நிராகரித்துவருகின்றது என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+
+உயிர்த்த ஞாயிறுதாக்குதல் குறித்து வெளிப்படையான விசாரணைகள் இடம்பெறவேண்டும் என கர்தினால் மல்கம் ரஞ்சித்வேண்டுகோள் விடுத்துள்ளார்
+
+ஐக்கியநாடுகள் மனித உரிமை பேரவைக்கான  உரையில் கர்தினால் மல்கம் ரஞ்சித் இந்த வேண்டுகோளை விடுத்துள்ளார்.
+
+இலங்கையின் மனித உரிமை நிலவரம் குறித்த ஐக்கியநாடுகள் மனித உரிமை ஆணையாளரின் வாய்மொழி மூல அறிக்கையை வரவேற்பதாக  கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+
+குறிப்பாக பொறுப்புக்கூறல் மற்றும் நல்லிணக்கம் தொடர்பான  அவரின் கருத்துக்களை வரவேற்கின்றோம் என கர்தினால் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/8fbc6de9.json)
+
+---
+
+### மற்றுமொரு துப்பாக்கிச் சூடு
+
+*2024-03-05 11:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-துப்பாக்கிச்-சூடு/175-334222) · `ta`
+
+நவகமுவ பொலிஸ் பகுதியில் உள்ள கொரதொட்ட பிரதேசத்தில் இன்று காலை துப்பாக்கிச் சூடு இடம்பெற்றுள்ளது.
+
+கட்டிட பொருட்கள் விற்பனை நிலையத்திற்கு முன்பாக இந்த துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மோட்டார் சைக்கிளில் வந்த இருவர் கடையின் முன் வானத்தை நோக்கி துப்பாக்கியால் சுட்டுவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் கூறினர்.
+
+◼️
+
+[Data](articles/d9cd1663.json)
+
+---
+
+### Amendment to the law that publishes assets and responsibilities
 
 *2024-03-05 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/177931) · `ta`
 
-1988 ஆம் ஆண்டின் 74 ஆம் இலக்கச் சட்டத்தால் திருத்தப்பட்ட 1975 ஆம் ஆண்டின் 01 ஆம் இலக்க சொத்துக்கள் மற்றும் பொறுப்புகள் ஆகியவற்றை வெளிப்படுத்தல் சட்டத்தில் குறிப்பிடப்பட்டுள்ள சொத்துக்கள் மற்றும் பொறுப்புகள் குறித்து அறிவிக்க வேண்டிய அதிகாரிகள் மற்றும் தனிநபர்களின் பிரிவுகளுக்கு மேலதிகமாக, 2023 ஆண்டின் 9 ஆம் இலக்க ஊழல் எதிர்ப்புச் சட்டத்தின் பிரிவு 80 இன் ஊடாக மேலும்   அதிகாரிகள் மற்றும் தனிநபர்களின் பல பிரிவுகள் ஊடாக சொத்துக்கள் மற்றும் பொறுப்புகள் ஆகியவற்றை அறிவிப்பதன் அவசியம் சுட்டிக்காட்டப்பட்டுள்ளது.
+The amendment to the Anti-Corruption Act, 2023, requires officials, including the President, Prime Minister, and various government officers, to declare their assets and responsibilities. This includes officers of the Central Bank, State Banks, and public corporations, as well as members of political parties and trade unions. A centralized electronic system for publishing assets and responsibilities is established, with models and forms available on www.ciaboc.gov.lk.
+
+🟩
+
+In addition to sections of the Anti -Corruption Act, 2023, in addition to section 80 of the Anti -Corruption Act, 2023, in addition to the sections of the Anti -Corruption Act, 2023, in addition to the sections of the Revelation Act, Article 74 of 1988The need to declare assets and responsibilities through sections has been pointed out.
 
 ...
 
 [Data](articles/c80fa5d6.json)
+
+[Extended Data](ext_articles/c80fa5d6.ext.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் ரயில் ஊழியர்கள் வேலை நிறுத்தம்
+
+*2024-03-05 11:48:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-ரயில்-ஊழியர்கள்-வேலை-நிறுத்தம்/175-334221) · `ta`
+
+இன்று நள்ளிரவு முதல் வேலைநிறுத்தத்தில் ஈடுபடவுள்ளதாக ரயில் இயந்திர சாரதிகள் சங்கம் தெரிவித்துள்ளது.
+
+இந்த தொழிற்சங்க நடவடிக்கையில் மேலும் பல தொழிற்சங்கங்களும் இணைந்துகொள்ளவுள்ளதாக அந்த சங்கத்தின் தலைவர் சந்தன லால் தெரிவித்துள்ளார்.
+
+இதன்படி, ரயில் இயந்திர சாரதிகள் சங்கம், ரயில் கட்டுப்பாட்டாளர்கள் சங்கம் மற்றும் ரயில் மேற்பார்வை முகாமையாளர்கள் சங்கம் ஆகியன இந்த பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளதாக சங்கத்தின் தலைவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/00393e11.json)
 
 ---
 
@@ -58,21 +130,47 @@ They are urging the government to reverse the Cabinet paper that proposes to red
 
 [Data](articles/a85d0acd.json)
 
+[Extended Data](ext_articles/a85d0acd.ext.json)
+
 ---
 
-### නවගමුවේ වෙඩිතැබීමක්
+### உயர்தர மாணவர்களுக்கு தொழில் பயிற்சி
+
+*2024-03-05 11:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-மாணவர்களுக்கு-தொழில்-பயிற்சி/175-334220) · `ta`
+
+இவ்வருடம் கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சைக்குத் தோற்றிய மாணவர்களுக்கு தொழில் பயிற்சி வழங்கும் வேலைத்திட்டம் இன்று (05) ஆரம்பமாகவுள்ளதாக கல்வி அமைச்சு சுட்டிக்காட்டியுள்ளது.
+
+இதற்காக பதிவு செய்துள்ள மாணவர்கள் பிற்பகல் 2 மணிக்கு முன்னதாக அந்தந்த மையங்களுக்கு வருமாறு கல்வி அமைச்சு கேட்டுக் கொண்டுள்ளது.
+
+ஒரு நிலை ஆங்கில மொழி, வழிகாட்டுதல் அல்லது உங்களுக்கு விருப்பமான ஒரு தொழில்முறை பாடத்தை இலவசமாகப் படிக்க இது ஒரு வாய்ப்பை வழங்குகிறது.
+
+இதற்கு மேலதிகமாக, கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, இந்த உத்தேச கல்வி சீர்திருத்தத்தின் ஊடாக, அறிவு, அணுகுமுறை மற்றும் திறன் ஆகியவற்றுடன் பிள்ளைகள் பரிபூரணப்படுத்தப்படுவார்கள் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/d70fc886.json)
+
+---
+
+### Shooting in Nawagamuwa
 
 *2024-03-05 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194152) · `si`
 
-අද උදෑසන නවගමුව පොලිස් බල ප්‍රදේශයේ කොරතොට ප්‍රදේශයේ වෙඩිතැබීමක් සිදුව තිබේ.
+Navagamuwa Police shot two people on a motorcycle in Korathota, near an airport.
 
-පොලීසිය පැවසුවේ කොරතොට ප්‍රදේශයේ පිහිටි ගොඩනැගිලි ද්‍රව්‍ය අලෙවිසැලක් ඉදිරිපිටදී මෙම වෙඩිතැබීම සිදුව ඇති බවය.
+🟩
 
-එහිදී යතුරුපැදියකින් පැමිණි දෙදෙනෙකු අලෙවිසැල ඉදිරිපිටදී අහසට වෙඩිතබා පළාගොස් ඇති බව පොලීසිය පවසයි.
+The Navagamuwa Police have shot dead in the Korathota area in Navagamuwa this morning.
+
+The police said that the shooting took place in front of a building material in Korathota.
+
+Two arrivals from a motorcycle shot dead in front of the airport.
 
 ◼️
 
 [Data](articles/57243be2.json)
+
+[Extended Data](ext_articles/57243be2.ext.json)
 
 ---
 
@@ -124,21 +222,27 @@ Accordingly, the Railway Drivers Association and the Railway Supervisory Manager
 
 ---
 
-### இந்திய மீனவர்களின் அத்துமீறலைக் கண்டித்து வடக்கில் ஆர்ப்பாட்டம் !
+### Demonstration in the North condemning the violation of Indian fishermen
 
 *2024-03-05 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/177932) · `ta`
 
-இந்திய மீனவர்களின் அத்துமீறலைக் கண்டித்து இன்று செவ்வாய்க்கிழமை (05) காலை முதல் வடக்கில் ஆர்ப்பாட்டம் ஒன்று நடைபெறுகின்றது.
+A demonstration in the North condemns the violation of Indian fishermen, held in front of the District Secretariat and the Chief Road of the Governor's Office. Only four protesters were allowed to enter the governor's office. Demonstrators will march to the Indian subconscious in Jaffna to express opposition.
 
-குறித்த ஆர்ப்பாட்டம் மாவட்ட செயலகம் முன்பாகவும் வடக்குமாகாண ஆளுநர் அலுவலக பிரதான வீதியிலும் முன்னெடுக்கப்படுகின்றது.
+🟩
 
-இந்நிலையில், வடக்கு ஆளுநர் அலுவலகதிற்கு செல்ல அனுமதி மறுக்கப்பட்டதால் ஆர்ப்பாட்டத்தில் ஈடுபட்ட 4 பேரை மாத்திரம் ஆளுநர் அலுவலகத்திற்குள் செல்ல அனுமதி வழங்கப்பட்டுள்ளது.
+A demonstration is being held in the north from Tuesday morning (05) morning condemning the violation of Indian fishermen.
 
-இதனையடுத்து, யாழ்ப்பாணத்தில் உள்ள இந்திய துணை துதரகத்திற்கு ஆர்ப்பாட்டக்காரர்கள்  ஊர்வலமாக சென்று எதிர்ப்பினை வெளிப்படுத்தவுள்ளமை குறிப்பிடத்தக்கது
+The demonstration is being carried out in front of the District Secretariat and the Chief Road of the Governor's Office in the North.
+
+In this case, only four persons who were protesting have been allowed to enter the governor's office as they have been denied permission to go to the Northern Governor's office.
+
+Subsequently, the demonstrators will march to the Indian subconscious in Jaffna to express their opposition to the protest.
 
 ◼️
 
 [Data](articles/94120770.json)
+
+[Extended Data](ext_articles/94120770.ext.json)
 
 ---
 
@@ -184,37 +288,55 @@ The driver of the lorry has been admitted to the Balangoda Balangoda in crash, a
 
 ---
 
-### இலங்கை அரசாங்கம் முன்வைத்துள்ள நல்லிணக்க பொறிமுறைகள் பாதிக்கப்பட்டவர்களின் கரிசனைகளிற்கு தீர்வைகாணப்போவதில்லை  - மனிதஉரிமை பேரவையில் பேர்ள்
+### The reconciliation mechanisms put forward by the Sri Lankan government are not going to solve the concern of the victims - the Human Rights Council
 
 *2024-03-05 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/177929) · `ta`
 
-இலங்கை அரசாங்கத்தை  தமிழர்களிற்கு எதிரான குற்றங்களிற்கு  பொறுப்புக்கூறச்செய்வதன் மூலம் சர்வதேச சட்டங்களைமீறுபவர்கள்  தண்டனையின் பிடியிலிருந்து விலக்களிக்கப்படமாட்டார்கள் என்ற செய்தியை சர்வதேச சமூகம்  தெரிவிக்க முடியும் என இலங்கையில் சமத்துவம் நிவாரணத்திற்கான மக்கள் அமைப்பு பேர்ள் ஐக்கிய நாடுகள் மனித உரிமை பேரவையில் தெரிவித்துள்ளது.
+The Sri Lankan government's reconciliation efforts are criticized by the Human Rights Council and the People's Organization for Equality Relief in Sri Lanka, who argue that these efforts do not address the victims' concerns. The Pearl Organization highlights the need for justice for the 169,796 Tamils affected by war crimes, crimes against humanity, and genocide committed 15 years ago. The Sri Lankan government's lack of political commitment to meaningful accountability and justice is also noted, along with the ongoing impact of Sinhala Buddhism and human rights-affecting laws.
 
-ஐக்கியநாடுகள் மனித உரிமை பேரவையில் மனித உரிமை ஆணையாளரின்  வாய்மூல அறிக்கையின் பின்னர் இடம்பெற்ற பொதுவிவாதத்தில் பேர்ள் அமைப்பு இலங்கை 15 வருடங்களிற்கு முன்னர்  இழைத்த யுத்த குற்றங்கள் மனித குலத்திற்கு எதிரான குற்றங்கள் இனப்படுகொலை போன்றவற்றை நினைவுகூர்ந்தது.
+🟩
 
-இந்த அநீதிகளிற்கு அதுவரை நீதியோ பொறுப்புக்கூறலோ இல்லை 169 796 தமிழர்களிற்கு என்ன நடந்தது என்பது தெரியாது அவர்கள் உயிரிழந்துவிட்டனர் என கருதப்படுகின்றதுஎன  பேர்ள் அமைப்பு தெரிவித்துள்ளது.
+The People's Organization for Equality Relief in Sri Lanka has told the United Nations Human Rights Council that the international community can report the Sri Lankan government that the international community will not be exempted from the clutches of the punishment.
+
+In the aftermath of the Human Rights Council's oral report at the United Nations Human Rights Council, the Pearl Organization recalled the war crimes committed 15 years ago, crimes against humanity and genocide.
+
+The Pearl Organization said that this injustice has not yet been justice or responsible for 169 796 Tamils who do not know what happened.
+
+The Sri Lankan rulers have revealed that the rulers of Sri Lanka have not revealed any political commitment in carrying out meaningful accountability justice. The current government has proposed empty harmony mechanisms.
+
+At the same time, Sinhala Buddhistism continues to be the main mechanism in Sri Lanka, and the laws that are affecting human rights continue to be created.
 
 ...
 
 [Data](articles/1ab4723b.json)
 
+[Extended Data](ext_articles/1ab4723b.ext.json)
+
 ---
 
-### பாராளுமன்றத்தின் உறுப்பினராக எஸ்.சி.முத்துக்குமாரன  சத்தியப்பிரமாணம்
+### SC Muthukumaran Sathiyapramara as a member of Parliament
 
 *2024-03-05 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/177927) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் உறுப்பினராக எஸ்.சி.முத்துக்குமாரன  இன்று செவ்வாய்க்கிழமை (05) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+SC Muthukumaran, born 1953, became a Member of Parliament in 2023, replacing Ummaratne in Anuradhapura. He started his political career in 1977, serving in various capacities including Deputy Chairman of the Freedom Party and Minister of Agriculture.
 
-சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்து கொண்டதன் பின்னர் பாராளுமன்ற பதில் செயலாளர் நாயகம் சமிந்த குலரத்ன முன்னிலையில் பாராளுமன்ற உறுப்பினர்களுக்கான ஏட்டிலும் அவர் கையொப்பமிட்டார்.
+🟩
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவை அநுராதபுர மாவட்டத்தில் பிரதிநிதித்துவப்படுத்திய பாராளுமன்ற உறுப்பினர் உத்திக பிரேமரத்ன தனது பதவியை இராஜினாமாச் செய்ததையடுத்து ஏற்பட்ட வெற்றிடத்துக்கே எஸ்.சி. முத்துகுமாரன இவ்வாறு நியமிக்கப்பட்டார்.
+SC Muthukumaran was the Member of the Ninth Parliament on Tuesday (05) in the presence of Speaker Mahinda Yapa Abeywardena.
 
-1953ஆம் ஆண்டு பிறந்த எஸ்.சி.முத்துகுமாரன அநுராதபுரம் மத்திய கல்லூரியில் தனது கல்வியைப் பெற்றுக்கொண்டார். இவர் 1977ஆம் ஆண்டு தனது அரசியல் பயணத்தை ஆரம்பித்தார். 1991ஆம் ஆண்டு கலாவெவ பிரதேச சபைக்குத் தெரிவுசெய்யப்பட்டதுடன், 1993 மற்றும் 1999ஆம் ஆண்டுகளில் வடமத்திய மாகாணசபைக்குத் தெரிவுசெய்யப்பட்டார்.
+He also signed the Member of Parliament in the presence of Parliamentary Secretary General Saminda Gularatne after the swearing in the presence of the Speaker.
 
-...
+The SC of the Sri Lanka PA has resigned from the post of MP Ummaratne in Anuradhapura district.. Muthukumaran was thus appointed.
+
+Born in 1953, SC Muthukumaran received his education at Central College, Anuradhapura. He began his political journey in 1977. He was elected to the Kalawewa Pradeshiya Sabha in 1991 and was elected to the North Central Provincial Council in 1993 and 1999.
+
+He was also the Deputy Chairman of the Kalawewa Branch of the Freedom Party. He also held the post of Minister of Agriculture of the North Central Provincial Council in 2000. He was elected to the seventh parliament from the Anuradhapura district on behalf of the United People's Freedom Alliance in 2010.
+
+◼️
 
 [Data](articles/e032051c.json)
+
+[Extended Data](ext_articles/e032051c.ext.json)
 
 ---
 
@@ -2043,121 +2165,5 @@ The Chinese petroleum company SINOPEC announced its decision to adjust fuel pric
 [Data](articles/907d5b3a.json)
 
 [Extended Data](ext_articles/907d5b3a.ext.json)
-
----
-
-### Death of the suspect who sent two police officers to the stoma
-
-*2024-03-04 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194132) · `si`
-
-Two former police officers were sentenced to death in 2005 for convicting a suspect who was arrested for burning another suspect. The suspect, Abeysinghe Ranjith, was arrested for theft. The judge acquitted two other officers, citing the suspect's injuries were not from drugs but from an attack. The judge concluded the death was caused by muscle damage from the attack.
-
-🟩
-
-Two former police officers sentenced to death in 2005 and convicted a suspect who was arrested by the Peliyagoda Police for the burning of a suspect.
-
-The punishment was sentenced to the defendants of the police Inspector Chaminda Kumara and Police Sergeant Anura Weerawardena.
-
-The judge states that the public will come to the court and the judiciary may be ordered by the law.
-
-Abeysinghe Ranjith, who was arrested in connection with theft of a wireless phone on July 13, 2005, had sued four police officers.
-
-However, the Chief Inspector of Police (Chief Inspector), who was charged with the incident, is a Chief Inspector of Police. The judge ordered the acquitting and release of the allegations against the two officers of Dasanayake and Sergeant Mohammed Abhist.
-
-Expressing the verdict, the judge said that the suspect had arrested the suspect in connection with an incident of stealing a bi-free phone.
-
-...
-
-[Data](articles/da29b037.json)
-
-[Extended Data](ext_articles/da29b037.ext.json)
-
----
-
-### Fuel revision is revised
-
-*2024-03-04 21:35:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සංශෝධනය-වෙයි/11-408430) · `si`
-
-Ceylon Petroleum Corporation revises fuel prices: a liter of fuel now costs Rs. 458, down from Rs. 468. 95 Octane 95 Petter is now Rs. 447, down from Rs. 456. Kerosene prices drop by Rs. 5.
-
-🟩
-
-The Ceylon Petroleum Corporation has taken steps to revise the fuel price of fuel as operating today.
-
-The price of a liter of Sri Lanka has been reduced by Rs.10 and the new price is Rs. 458.
-
-95 Octane 95 Petter has been reduced by 9 milliluvil and the new price is Rs. 447.
-
-The price of a liter of kerosene has been reduced by Rs. 5 rupees.
-
-However, the prices of the fuel have not changed at Rs.
-
-◼️
-
-[Data](articles/490e9b92.json)
-
-[Extended Data](ext_articles/490e9b92.ext.json)
-
----
-
-### Fuel prices reduced
-
-*2024-03-04 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97731/fuel-prices-reduced) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (March 04).
-
-Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 09 to Rs. 447 per litre while Super Diesel has been reduced by Rs. 10 to Rs. 458 per litre.
-
-Meanwhile the price of Kerosene has been reduced by Rs. 05 to Rs. 257 per litre.
-
-However, the prices of Petrol 92 Octane and Auto Diesel will remain unchanged, the CPC said.
-
-Meanwhile Lanka IOC says they too will revise retail fuel prices to match the CPC.
-
-Meanwhile Lanka IOC and Sinopec say they too will revise retail fuel prices in line with the Ceypetco prices.
-
-◼️
-
-[Data](articles/44aefebc.json)
-
-[Extended Data](ext_articles/44aefebc.ext.json)
-
----
-
-### Sri Lanka wins three runs in Sri Lanka
-
-*2024-03-04 21:24:07* · [`adalk`](https://www.ada.lk/sports/පළමු-තරගයෙන්-ලංකාවට-ලකුණු-තුනක-තියුණු-ජයක්/9-408429) · `si`
-
-Sri Lanka defeats Bangladesh by 3 runs in their first T20 match, with Sri Lanka scoring 206 and Bangladesh 203.
-
-🟩
-
-Sri Lanka beat the Host Bangladesh team by 3 runs in the first Twenty20 match between the two countries.
-
-Sri Lanka scored 206 mark to bat first in the match. In reply, Bangladesh scored 203 runs.
-
-◼️
-
-[Data](articles/22bd126b.json)
-
-[Extended Data](ext_articles/22bd126b.ext.json)
-
----
-
-### Fuel prices change this way
-
-*2024-03-04 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194131) · `si`
-
-Ceylon Petroleum Corporation revised fuel prices from midnight today.
-
-🟩
-
-Fuel prices have been revised from midnight today by the Ceylon Petroleum Corporation.
-
-◼️
-
-[Data](articles/2e129408.json)
-
-[Extended Data](ext_articles/2e129408.ext.json)
 
 ---

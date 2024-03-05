@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 19:02:48**
+As of **2024-03-05 19:17:41**
 
 ## Newspaper Stats
 
-*Scraped **11,042** Articles*
+*Scraped **11,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,59 @@ tamilmirrorlk | 1,344
 adaderanalk | 1,345
 virakesarilk | 1,489
 dailymirrorlk | 1,684
-adaderanasinhalalk | 1,727
+adaderanasinhalalk | 1,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,041 (100.0%) of 11,042 articles have been extended.
+11,042 (100.0%) of 11,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### මේ වගේ සල්ලි අතට ආවොත් කල්පනාවෙන්
+### කාන්තාවකට පහරදුන් බවට සැක මුසම්මිල්ගේ පුතා සැඟවෙයි
+
+*2024-03-05 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194174) · `si`
+
+ඌව පළාත් ආණ්ඩුකාර ඒ ජේ එම් මුසම්මිල් මහතාගේ පුත්‍රයෙකු අත්අඩංගුවට ගැනීම සඳහා තවදුරටත් විමර්ශන සිදුකරන බව පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත්තේ වැල්ලවත්ත පොලීසිය වෙත ලද පැමිණිල්ලකට අනුව මෙම විමර්ශන සිදුකරන බවය.
+
+අදාළ පුත්‍රයා විසින් වැල්ලවත්ත ප්‍රදේශයේ මහල් නිවාසයකදී කාන්තාවකට පහරදීමෙන් එම කාන්තාව රෝහල්ගතකර ඇති බවට එම පැමිණිල්ලේ දැක්වෙයි.
+
+මේ අතර සැකකරු අත්අඩංගුවට ගැනීමට යාමේදී ඔහු විසින් වරද සිදුකිරීම සඳහා ඔහු ගමන්කළ බවට සැක රථය සහ ඔහුගේ ජංගම දුරකථනය දකුණු පළාතේ ස්ථානයක තබා පොලීසිය නොමග යවා ඇති බවද එම නිවේදනයෙන් පොලීසිය වැඩිදුරටත් පවසයි.
+
+එසේම එහි වැඩිදුරටත් දැක්වෙන්නේ ආණ්ඩුකාර ඒ ජේ එම් මුසම්මිල් මහතාගේ පුත්‍රයා මේ වනවිට වෙනත් ප්‍රදේශයක සැඟව සිටින බවට සැකපළ කරන බවය.
+
+කෙසේ වෙතත් එලෙස දකුණු පළාතේ තිබියදී සොයාගත් එම රථය සහ ජංගම දුරකථනය විමර්ශන නිලධාරීන් සිය භාරයට ගෙන ඇත.
+
+එසේම ඔහු පොලීසියට භාරවන බවට සැකකරු හෝ සැකකරුගේ පියා වන ආණ්ඩුකාරවරයා විසින් කිසිදු අවස්ථාවක පොලීසිය වෙත දැනුම්දී නොමැති බවද අදාළ නිවේදනයේ දැක්වෙයි.
+
+...
+
+[Data](articles/1b3b4da3.json)
+
+---
+
+### If you come to the hands of this
 
 *2024-03-05 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194173) · `si`
 
-පොතුහැර ප්‍රදේශයේදී ව්‍යාජ රුපියල් 5000 නෝට්ටු 45ක් සිය සන්තකයේ තබාගෙන සිටි පුද්ගලයෙක් ව අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+A man was arrested in Pothuhera with 45 notes, handled by DIG, Attorney-at-Law Nihal Talduuwa.
 
-එබැවින් මුදල් නෝට්ටු සම්බන්ධයෙන් සැලකිලිමත් වන ලෙස පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දූව මහතා ජනතාවට දැනුම් දෙයි.
+🟩
+
+The police said that a man was arrested by a man in possession of 45 notes in Pothuhera.
+
+The police spokesman, DIG, Attorney-at-Law Nihal Talduuwa to take care of the banknotes.
 
 ◼️
 
 [Data](articles/7f0be537.json)
+
+[Extended Data](ext_articles/7f0be537.ext.json)
 
 ---
 
@@ -2211,29 +2241,5 @@ The 55th session of the United Nations Human Rights Council commenced in Geneva 
 [Data](articles/0179d137.json)
 
 [Extended Data](ext_articles/0179d137.ext.json)
-
----
-
-### Ordinary rural woman
-
-*2024-03-05 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177919) · `ta`
-
-A 46-year-old rural woman in Sri Lanka uses the Right to Information Act to combat social injustices, despite low public awareness. She's tackled issues in various departments, including fraud and mismanagement, using the Act to ensure transparency and accountability.
-
-🟩
-
-A 46 -year -old rural woman from Pudukkudiyiruppu in Mullaitivu district is engaged in the process of using the right to social change as a weapon for social change.
-
-The Right to Information Act is the weapon that we live in the world of injustice, frauds and headlines, the arbitrary and untrue activities of the State Department.. Today there is a massive allegation that state officials do not respect the people. That too is being ignored by the laity people. A large number of officers who fail to use the weakness of the people. The Right to Information Act is a law that can be kept in control of the people who pay the people's taxpayers.
-
-The Right to Information Act, which is to be accessed by the public in Sri Lanka, has been introduced in Parliament on June 24, 2016 and has been implemented on February 3, 2017.
-
-Seven years have passed since the Right to Information Act in Sri Lanka, but the public is not aware of the law.
-
-...
-
-[Data](articles/f8e4d584.json)
-
-[Extended Data](ext_articles/f8e4d584.ext.json)
 
 ---

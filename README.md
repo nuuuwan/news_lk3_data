@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 14:17:44**
+As of **2024-03-05 14:33:07**
 
 ## Newspaper Stats
 
-*Scraped **10,979** Articles*
+*Scraped **10,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ islandlk | 592
 adalk | 930
 adaderanalk | 1,335
 tamilmirrorlk | 1,340
-virakesarilk | 1,474
+virakesarilk | 1,475
 dailymirrorlk | 1,674
-adaderanasinhalalk | 1,714
+adaderanasinhalalk | 1,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,977 (100.0%) of 10,979 articles have been extended.
+10,979 (100.0%) of 10,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### මස් කඩ හිමිකරුට වෙඩිතැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-03-05 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194160) · `si`
+
+පසුගිය අගෝස්තු මාසයේදී කඳාන ප්‍රදේශයේදී මස් වෙළෙඳසැල් හිමියෙකුට වෙඩිතැබීමේ සිද්ධිය සම්බන්ධයෙන් පුද්ගලයෙකුව පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එසේම T 56 වර්ගයේ ගිනි අවියක්, උණ්ඩ 45ක් සහ මැගසින් දෙකක් එහිදී විශේෂ කාර්ය බළකාය සිය භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/bcf09668.json)
+
+---
+
+### புங்குடுதீவில் உள்ளூர் வளங்களை அழிப்பதற்கெதிராக கவனயீர்ப்பு போராட்டம்
+
+*2024-03-05 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/177955) · `ta`
+
+புங்குடுதீவில் இன்று செவ்வாய்க்கிழமை உள்ளூர் வளங்களை அழிப்பதற்கெதிரான கவனயீர்ப்பு போராட்டமொன்று புங்குடுதீவு கடற்தொழிலாளர்கள் சங்கத்தினரால் தீவக சிவில் சமூகம் அமைப்பின் ஆதரவில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+கடலட்டைப் பண்ணை எனும் பெயரில் உள்ளூர் மீனவர்களை முற்றாக புறக்கணித்து இலாப நோக்கில் வெளிமாவட்டங்களை சேர்ந்தவர்களுக்கும், தென்னிலங்கையை சேர்ந்தவர்களுக்கும் கடலட்டை பண்ணைகள் அமைப்பதற்குரிய அனுமதிகளை கடற்தொழில் அமைச்சு வழங்குவதற்கு எதிராகவும், பாரம்பரிய மீன்பிடி தொழிலை அழிப்பதற்கு எதிராகவும், சட்டவிரோத மண் அகழ்வை உடனடியாக தடுக்கக்கோரியும், அழிக்கப்பட்டு வருகின்ற கால்நடை வளத்தை பாதுகாக்க கோரியும் ஏற்பாடு செய்யப்பட்டிருந்த இக்கவனயீர்ப்பு போராட்டத்தில் பெருமளவான பொதுமக்கள் கலந்துகொண்டிருந்தனர்.
+
+...
+
+[Data](articles/715252b4.json)
+
+---
+
+### ඊලෝන් මස්ක්ට තැන අහිමිවෙයි
+
+*2024-03-05 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194159) · `si`
+
+ලොව ධනවත්ම පුද්ගලයා බවට නැවත වරක් ඇමසන් සමාගමේ නිර්මාතෘ ජෙෆ් බේසොස් පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙතෙක් ලොව ධනවත්ම මිනිසාගේ ස්ථානයේ රැඳී සිටි ඊලෝන් මස්ක් පසුකර ඔහු එම ස්ථානයට පත්ව ඇත.
+
+මේ වනවිට ඇමසන් සමාගමේ නිර්මාතෘ ජෙෆ් බේසොස්ගේ ශුද්ධ වත්කම අමෙරිකානු ඩොලර් බිලියන 200ක් බව එම වාර්තා පෙන්වා දෙයි.
+
+එම වාර්තා සඳහන් කරන්නේ ඊලෝන් මස්ක්ගේ ශුද්ධ වත්කම අමෙරිකානු ඩොලර් බිලියන 198ක් බවය.
+
+ඒ අනුව පසුගිය වසරක කාලය තුළදී ඊලෝන් මස්ක්ට ඩොලර් බිලියන 31ක් අහිමිවී ඇති අතර ජෙෆ් බේසොස්ගේ වත්කම බිලියන 23කින් වර්ධනය වී තිබේ.
+
+◼️
+
+[Data](articles/283a4009.json)
+
+---
 
 ### No-confidence motion on Speaker handed over
 
@@ -44,6 +92,8 @@ It was handed over by Chief Opposition Whip Lakshman Kiriella, MPs Ranjith Maddu
 
 [Data](articles/f8236d9f.json)
 
+[Extended Data](ext_articles/f8236d9f.ext.json)
+
 ---
 
 ### No-confidence motion against Speaker submitted
@@ -55,6 +105,8 @@ The no-confidence motion against Speaker Mahinda Yapa Abeywardena signed by 44 M
 ◼️
 
 [Data](articles/66610a26.json)
+
+[Extended Data](ext_articles/66610a26.ext.json)
 
 ---
 
@@ -2149,61 +2201,5 @@ It brought together policymakers, thought leaders, investors and entrepreneurs t
 [Data](articles/fbd0a4f9.json)
 
 [Extended Data](ext_articles/fbd0a4f9.ext.json)
-
----
-
-### Sri Lanka participates at Dubai International Boat Show 2024
-
-*2024-03-05 00:53:13* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-at-Dubai-International-Boat-Show-2024/34-759170) · `en`
-
-The Export Development Board (EDB) organised Sri Lanka’s participation in the 30th edition of the Dubai International Boat Show (DBIS), which took place in Dubai, UAE from 28 February to 3 March 2024, with help from the Sri Lanka Embassy and Consulate General in Dubai.
-
-The Boat and Ship Building sector has been identified as an emerging export sector which offers a wide variety of products and services to international market. The sector uses advanced materials and technologies to be on par with global counterparts aligned with sustainable manufacturing.
-
-The increasing demand for boats worldwide, regional and local for fishing, industrial, commercial and leisure purposes open up huge opportunities and new markets for Sri Lanka, due to its strategic location, highly trainable workforce and the labour cost advantage.
-
-...
-
-[Data](articles/d6460fc8.json)
-
-[Extended Data](ext_articles/d6460fc8.ext.json)
-
----
-
-### Setting up in Singapore: Expand your business internationally
-
-*2024-03-05 00:51:37* · [`dailyftlk`](https://www.ft.lk/business/Setting-up-in-Singapore-Expand-your-business-internationally/34-759169) · `en`
-
-Fastcorp, Singapore’s leading corporate services firm, has announced a complimentary webinar titled “ Setting up in Singapore: Expand your business internationally.” This exclusive online event is scheduled to take place on Thursday, 7 March at 1.00 p.m. (Sri Lankan time), and aims to enlighten Sri Lankan entrepreneurs and business owners on the myriad benefits that Singapore offers as a business hub.  The webinar is free of charge. Registration is required to secure your spot.
-
-The webinar will delve into the numerous advantages of setting up a business in Singapore, highlighting the strategic brand value of setting up in Singapore, Singapore’s favorable tax regime – which is designed to be business – and growth-friendly and remote bank account opening opportunities offered by Fastcorp as an OCBC Bank Prestige Partner.
-
-The webinar will also cover the robust legal system in Singapore, opportunities for immigration and much more.
-
-...
-
-[Data](articles/ed4d7b12.json)
-
-[Extended Data](ext_articles/ed4d7b12.ext.json)
-
----
-
-### Gaza war, Red Sea crisis and sea of issues for merchants
-
-*2024-03-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gaza-war-Red-Sea-crisis-and-sea-of-issues-for-merchants/172-278222) · `en`
-
-Since the Houthis insist that they will not cease attacking ships in the Red Sea unless a ceasefire is enforced in Gaza, the Red Sea crisis will end only if there is a ceasefire in Gaza.
-
-The Red Sea crisis, which is having a great impact on international trade, is unlikely to end anytime soon despite the US-led naval and air forces’ hitting Houthi targets in Yemen.
-
-Since the Houthis insist that they will not cease attacking ships in the Red Sea unless a ceasefire is enforced in Gaza, the Red Sea crisis will end only if there is a ceasefire in Gaza. And that appears to be a far cry.
-
-Neither the Israelis nor Hamas is willing to give in. Israel will not stop its brutal offensive until Hamas releases the 100 hostages it still holds, and Hamas will not release them so long as there is no ceasefire in Gaza.
-
-...
-
-[Data](articles/d446d6b1.json)
-
-[Extended Data](ext_articles/d446d6b1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 03:50:39**
+As of **2024-03-06 04:02:45**
 
 ## Newspaper Stats
 
-*Scraped **11,113** Articles*
+*Scraped **11,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 575
 islandlk | 592
 dailyftlk | 593
 adalk | 936
-tamilmirrorlk | 1,348
+tamilmirrorlk | 1,349
 adaderanalk | 1,354
 virakesarilk | 1,508
 dailymirrorlk | 1,697
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,113 (100.0%) of 11,113 articles have been extended.
+11,113 (100.0%) of 11,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### மின்சார பஸ்களை சேவையில் ஈடுபடுத்த நடவடிக்கை
+
+*2024-03-06 03:44:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-பஸ்களை-சேவையில்-ஈடுபடுத்த-நடவடிக்கை/175-334257) · `ta`
+
+நவீன வசதிகளுடன் கூடிய 200 மின்சார பஸ்கள் சேவையில் ஈடுபடுத்தப்படவுள்ளன என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+இதன் முதற்கட்டமாக தமிழ் - சிங்கள புத்தாண்டுக்கு முன்னர் 50 மின்சார பஸ்களை சேவையில் ஈடுபடுத்தவுள்ளோம் என அவர் தெரிவித்துள்ளார்.
+
+எதிர்காலத்தில் தனியாராலும், இலங்கை போக்குவரத்து சபையாலும் இறக்குமதி செய்யப்படும் அனைத்து பஸ்களிலும் சி.சி.ரி.வி. கெமராக்களை பொருத்துவது கட்டாயமாக்கப்படும் எனவும் அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/4886c9ca.json)
+
+---
 
 ### Could Party Politics Resolve Ongoing National Crisis in Sri Lanka?
 
@@ -2235,25 +2251,5 @@ According to this recent amendment, the President, Prime Minister, Members of Pa
 [Data](articles/bde19bea.json)
 
 [Extended Data](ext_articles/bde19bea.ext.json)
-
----
-
-### CPC has failed to provide quality standard report for Super Diesel: Gemunu
-
-*2024-03-05 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-has-failed-to-provide-quality-standard-report-for-Super-Diesel-Gemunu/108-278279) · `en`
-
-Colombo, March 5 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has failed to provide a quality standard report for its Super Diesel stocks currently used by buses and other diesel vehicle owners, Lanka Private Bus Owners' Association (LPBOA) president Gemunu Wijeratne said.
-
-Addressing the media, he said that his association has received many complaints regarding the quality standards of the super diesel stocks.
-
-Most complaints from vehicle users claimed that they are unable to get the maximum fuel efficiency and that they cannot drive their vehicles to the maximum kilometres per litre.
-
-"As a responsible association, I informed the CPC officials in this regard, but they are still unable to provide a quality standard report for me," he said.
-
-◼️
-
-[Data](articles/ebb0848b.json)
-
-[Extended Data](ext_articles/ebb0848b.ext.json)
 
 ---

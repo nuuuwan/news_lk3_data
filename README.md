@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 05:36:54**
+As of **2024-03-05 05:55:46**
 
 ## Newspaper Stats
 
-*Scraped **10,872** Articles*
+*Scraped **10,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 562
-islandlk | 579
 dailyftlk | 584
+islandlk | 592
 adalk | 923
 adaderanalk | 1,323
 tamilmirrorlk | 1,325
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,872 (100.0%) of 10,872 articles have been extended.
+10,872 (99.9%) of 10,885 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -242,6 +242,44 @@ In a letter addressed to both the leaders, Thilakarathne had pointed out that 60
 
 ### 2024-03-04 (Monday)
 
+### Final gig…on Sunday
+
+*2024-03-04 23:48:00* · [`islandlk`](http://island.lk/final-gigon-sunday/) · `en`
+
+Mirage, with Manilal, will be seen in action, in a different setting, this Sunday, March 10th, Down Under.
+
+The event is called ‘Let’s Dance Together’ and will be held in Bentleigh, Melbourne.
+
+What’s unique about this event is that it’s being held from 12 noon to 4 pm and will also celebrate the birthday of Mirage leader Donald Peiris, in a Thai Street Food/Thai Style setting…and Thai Buffet.
+
+Also in attendance, to provide the right music for such an occasion, will be Esric Jackson with the band No Limit.
+
+Esric, known as the Country King, is hugely popular in Melbourne and the Sri Lankans, over there, love his singing…and his style.
+
+This is Mirage’s final gig, in Australia, and they are scheduled to head for Colombo early next week.
+
+Saving education: “Up in the sky! It’s a bird! It’s a plane! It’s Superman!”
+
+SL ratifies UN convention on mediation for commercial dispute resolution
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/e1fee3c3.json)
+
+---
+
+### Saving education: “Up in the sky! It’s a bird! It’s a plane! It’s Superman!”
+
+*2024-03-04 23:43:00* · [`islandlk`](http://island.lk/saving-education-up-in-the-sky-its-a-bird-its-a-plane-its-superman/) · `en`
+
+...
+
+[Data](articles/bee94e86.json)
+
+---
+
 ### Curiosity never killed the cat in a culture of ‘question’ and ‘challenge’
 
 *2024-03-04 23:40:14* · [`dailyftlk`](https://www.ft.lk/columns/Curiosity-never-killed-the-cat-in-a-culture-of-question-and-challenge/4-759159) · `en`
@@ -303,6 +341,106 @@ Sri Lanka IOC and Sinopac fuel companies have announced that it will reduce the 
 [Data](articles/ef762bbf.json)
 
 [Extended Data](ext_articles/ef762bbf.ext.json)
+
+---
+
+### JL Euro Solutions and Pharmaceris successfully conduct hair and skin care solutions awareness program
+
+*2024-03-04 23:25:00* · [`islandlk`](http://island.lk/jl-euro-solutions-and-pharmaceris-successfully-conduct-hair-and-skin-care-solutions-awareness-program/) · `en`
+
+JL Euro Solutions, the Sole Authorized Representative of Pharmaceris Haircare and Skincare products in Sri Lanka, conducted an informative session on Haircare and Skincare solutions at Hilton Colombo Residences recently.
+
+During the event, a number of experts from Pharmaceris shared their knowledge, expertise and treatment methodologies available in Sri Lanka for the treatment of Alopecia. Alopecia, commonly known as loss of hair, is a growing issue among middle-aged and older Sri Lankans. Research has shown that loss of hair has a negative impact on a person’s mental and emotional health as they may struggle with feelings of unattractiveness and be self conscious in social situations or avoid them altogether. It could cause issues of self esteem and may even lead to depression at times, thereby greatly disrupting the individual’s way of life.
+
+Related Topics:Euro Solutions and Pharmaceris successfully conduct hair and skin care solutions awareness programJL Euro Solutions
+
+...
+
+[Data](articles/661378ba.json)
+
+---
+
+### Siyapatha Finance contributes to the development of internal access road
+
+*2024-03-04 23:23:00* · [`islandlk`](http://island.lk/siyapatha-finance-contributes-to-the-development-of-internal-access-road/) · `en`
+
+Siyapatha Finance PLC made a financial contribution to the construction of the internal access road, a long-felt need of Badulla Sri Dhammananda Maha Vidyalaya, recently.
+
+A social responsibility initiative under the patronage of the officials of Siyapatha Finance PLC, the donation cheque was handed over to the School Principal Ms. V.A.C Nandani by Dinusha Rajamanthree, Branch Manager, Siyapatha Finance PLC, Badulla in the presence of Manjula Jayathilake, Senior Regional Manager, Rengan Balakrishnan, Regional Manager  and Kaushika Gunasekara, Gold Financing Officer in Charge of Siyapatha Finance Badulla, and A.M. Nandasena , Vice Principal of Badulla Sri Dhammananda Maha Vidyalaya.
+
+Related Topics:Siyapatha FinanceSiyapatha Finance contributes to the development of internal access road
+
+JL Euro Solutions and Pharmaceris successfully conduct hair and skin care solutions awareness program
+
+Siyapatha Finance expands its reach with the opening of its latest branch in Puttalam
+
+...
+
+[Data](articles/21e385c4.json)
+
+---
+
+### DOK Solutions Lanka partners with Plural Technology to advance digitization
+
+*2024-03-04 23:21:00* · [`islandlk`](http://island.lk/dok-solutions-lanka-partners-with-plural-technology-to-advance-digitization/) · `en`
+
+DOK Solutions Lanka (Pvt) Ltd, a leading record management and business process outsourcing service provider, announced a strategic partnership with Plural Technology, a global leader in advanced enterprise technology solutions. The collaboration aims to accelerate the adoption of digitization and Artificial Intelligence (AI) solutions in Sri Lanka.
+
+...
+
+[Data](articles/89413303.json)
+
+---
+
+### Exclusive housekeeping services for TRI-ZEN residents
+
+*2024-03-04 23:19:00* · [`islandlk`](http://island.lk/exclusive-housekeeping-services-for-tri-zen-residents/) · `en`
+
+Infusing value-added services for its highly-anticipated TRI-ZEN Apartments, Sri Lanka’s premier real-estate developer, John Keells Properties, recently appointed Abans Environmental Services (Pvt) Ltd., as its exclusive service provider for housekeeping services for TRI-ZEN apartments. A Memorandum of Understanding (MoU) was signed between John Keells Properties and Abans Environmental Services on 15th February 2024, under the overarching vision to offer unparalleled conveniences to TRI-ZEN residents.
+
+Siyapatha Finance contributes to the development of internal access road
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/c3950195.json)
+
+---
+
+### CCPI based headline inflation decelerates
+
+*2024-03-04 23:18:00* · [`islandlk`](http://island.lk/ccpi-based-headline-inflation-decelerates/) · `en`
+
+Headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index (CCPI, 2021=100)1 decelerated to 5.9% in February 2024 from 6.4% in January 2024. This deceleration in the headline inflation is broadly in line with the projections of the Central Bank of Sri Lanka (CBSL).
+
+Food inflation (Y-o-Y) accelerated to 3.5% in February 2024 from 3.3% in January 2024, whereas Non-Food inflation (Y-o-Y) decelerated to 7.0% in February 2024 from 7.9% in January 2024. Monthly change of CCPI recorded -0.05% in February 2024 due to the combined effect of price decreases of 0.67% observed in the items of Food category and price increases of 0.62% observed in the items of Non-Food category. Meanwhile, core inflation (Y-o-Y), which reflects the underlying inflation trends in the economy, accelerated to 2.8% in February 2024 from 2.2% in January 2024.
+
+LOLC’s dominance of share market has resuscitating impact on manufacturing counters
+
+...
+
+[Data](articles/ab460168.json)
+
+---
+
+### LOLC’s dominance of share market has resuscitating impact on manufacturing counters
+
+*2024-03-04 23:15:00* · [`islandlk`](http://island.lk/lolcs-dominance-of-share-market-has-resuscitating-impact-on-manufacturing-counters/) · `en`
+
+The overall stock market performance was positive yesterday with the LOLC Group of companies driving the market and giving a boost to manufacturing sector counters.
+
+However, banking sector counters witnessed some selling pressure following the government decision to
+
+Halt parate executions until the end of the year, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 125 points while S and P SL20 rose by 49.4 points. Turnover stood at Rs 1.71 billion with two crossings. Those crossings were reported in Royal Ceramic, which crossed 1 million shares at Rs 30.50 per share and NTB 250,000 shares crossed for Rs 25 million; its shares traded at Rs 100.
+
+...
+
+[Data](articles/9e282cf1.json)
 
 ---
 
@@ -2101,175 +2239,5 @@ The extent to which people are working to get services in state institutions in 
 [Data](articles/4ec8cef4.json)
 
 [Extended Data](ext_articles/4ec8cef4.ext.json)
-
----
-
-### Circular Issue that reduces the weight of books
-
-*2024-03-04 14:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகப்-பைகளின்-எடையைக்-குறைக்கும்-சுற்றறிக்கை-வெளியீடு/175-334180) · `ta`
-
-The Department of Education will release a circular to reduce the weight of school children's book bags, aiming to improve competitive education and physical and mental health. The heavy book bags are a barrier causing spinal cord disorders and permanent disability in some children.
-
-🟩
-
-A senior official of the Department of Education said that a circular to reduce the weight of school children's book bags will be released today (4).
-
-The circular will be released by the Secretary of Education, Mr. Sirisoma Lokwithana, and the heavy book bags are a barrier to competitive education, physical and mental health.
-
-The official added that due to the weight of the book bag carrying children nowadays, children are constantly suffering from spinal cord disorders and that some children are permanent disabled.
-
-◼️
-
-[Data](articles/acb33f24.json)
-
-[Extended Data](ext_articles/acb33f24.ext.json)
-
----
-
-### Can workers get the salary of the lease agreement?
-
-*2024-03-04 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/177873) · `ta`
-
-Workers' salaries in lease agreements are a complex issue. The Ceylon Workers Congress and unions argue for higher wages, but companies warn of stopping welfare services if basic salaries increase. The 1995 lease agreement between the government and plantation companies led to a joint contract for workers' welfare, but it's unclear if this affects the lease agreement's terms. The 2003 Labor Welfare Joint Agreement, made every three years, includes provisions for fair additional allowances and specific conditions for workers. Despite these agreements, plantation workers' welfare has declined over the years, leading to calls for negotiations and reforms. The government has decided to extend the lease agreement, but unions argue that companies have not complied with agreed salaries.
-
-🟩
-
-Talks about the agony of plantation workers may have begun a goal. When the General Secretary and Minister of the Ceylon Workers Congress, Jeevan Thondaman, during a media briefing held last week, responded to this, the companies say that if the basic salary was paid Rs 1,700, other welfare services would be stopped.. If that happens, he said he would have to lease with companies in this regard.
-
-The unions must understand that the workers' pain and the leasing agreement with the government with the government. At the same time, the unions have forgotten that there is a joint venture on the welfare of the workers.
-
-...
-
-[Data](articles/c553c13d.json)
-
-[Extended Data](ext_articles/c553c13d.ext.json)
-
----
-
-### Trump is over
-
-*2024-03-04 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194113) · `si`
-
-Trump's presidency ends; Nicki Haley becomes the first woman to win a Republican primary in DC, marking a significant moment in American political history.
-
-🟩
-
-Nicki Haley was able to win the Washington DC Division at the primary election in the Republican candidate.
-
-Hey is the first woman to win a Republican division in American history.
-
-Former president of the Republican Party, which will be held in November, Donald Trump is the forefront of the Republican Party candidate.
-
-◼️
-
-[Data](articles/ddd5908d.json)
-
-[Extended Data](ext_articles/ddd5908d.ext.json)
-
----
-
-### Eight Sri Lankans rescued from illegal cyber center camp in Myanmar
-
-*2024-03-04 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eight-Sri-Lankans-rescued-from-illegal-cyber-center-camp-in-Myanmar/108-278210) · `en`
-
-March 04 (Daily Mirror) - Eight Sri Lankan nationals who were forcibly detained at an illegal cyber center camp in Myanmar have been rescued, Sri Lanka's Ambassador to Myanmar, Janak Bandara confirmed.
-
-The rescue operation was conducted under the intervention of the Myanmar government.
-
-Speaking to the Daily Mirror, Ambassador Janak Bandara said the detainees are currently held at the Myawaddy Central Police Station in Myanmar.
-
-“Steps are being taken to repatriate the rescued individuals,” he added.
-
-◼️
-
-[Data](articles/35debb6b.json)
-
-[Extended Data](ext_articles/35debb6b.ext.json)
-
----
-
-### Eight Sri Lankans rescued from illegal cyber center camp in Myanmar
-
-*2024-03-04 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Eight-Sri-Lankans-rescued-from-illegal-cyber-center-camp-in-Myanmar/155-278210) · `en`
-
-March 04 (Daily Mirror) - Eight Sri Lankan nationals who were forcibly detained at an illegal cyber center camp in Myanmar have been rescued, Sri Lanka's Ambassador to Myanmar, Janak Bandara confirmed.
-
-The rescue operation was conducted under the intervention of the Myanmar government.
-
-Speaking to the Daily Mirror, Ambassador Janak Bandara said the detainees are currently held at the Myawaddy Central Police Station in Myanmar.
-
-“Steps are being taken to repatriate the rescued individuals,” he added.
-
-◼️
-
-[Data](articles/5575712b.json)
-
-[Extended Data](ext_articles/5575712b.ext.json)
-
----
-
-### Hand our land to us;Deposit from Mannar to the President by post
-
-*2024-03-04 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/177869) · `ta`
-
-Jatsan Priyado led a press conference to the President, highlighting the loss of land to the military in the Northern Province. The event, held in Mannar, involved sending 5,000 letters to the President's Office, demanding the release of soldiers living on people's land. Lands were issued at the event, and letters for the President's attention were sent from the Mannar Post Office. Representatives from five Divisional Secretariat Divisions of Mannar were present.
-
-🟩
-
-Jatsan Priyado organized a press conference to the President by posting by post to the Northern Provincial Council, Naval and other department -owned people through the voice of the people who lost their land in the tone of the land that lost our land to us.Leaded.
-
-In the Northern Province, the land and the armed forces are engaged in business and agricultural activities in the land of the government and the armed forces.
-
-On the basis of this, the event was held in Mannar on the basis of sending five thousand postal letters to the President's Office on the grounds that the soldiers living in the land of the people should be released.
-
-Lands were issued at the event and after the event was completed, letters relating to the release of the land from the Mannar Post Office to the President's Office were sent.
-
-The victims were also present from the five Divisional Secretariat Divisions of Mannar, Nanatan, Musali, Manthai West and Madhu in Mannar district.
-
-◼️
-
-[Data](articles/bb8f695d.json)
-
-[Extended Data](ext_articles/bb8f695d.ext.json)
-
----
-
-### Sri Lanka tech, AI firms invited to apply to UK’s Pathfinder awards
-
-*2024-03-04 14:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-tech-ai-firms-invited-to-apply-to-uks-pathfinder-awards-152844/) · `en`
-
-ECONOMYNEXT – The UK Government is looking for promising tech scale-up companies from across South Asia through its Unicorn Kingdom: Pathfinder Awards (UKPA). Winners will receive help to grow their business in the UK.
-
-The awards are open to companies specialising in AI, Connected and Automated Mobility (CAM) Technology, Cyber Security and Digital Trade Solutions.
-
-The awards are an opportunity for tech scale-up companies “to join the UK’s thriving $1 trillion tech sector,” UK Investment Minister, Dominic Johnson said in a statement. “The awards are part of our commitment across government to help more businesses scale up, and benefit from our highly skilled workforce and supportive regulatory system.
-
-“I encourage tech scaleups in the young and vibrant South Asian countries to take full advantage of this opportunity by applying for the Awards,” Harjinder Kang, Trade Commissioner for South Asia said.
-
-...
-
-[Data](articles/1d65f09f.json)
-
-[Extended Data](ext_articles/1d65f09f.ext.json)
-
----
-
-### Pathum Nissanka among ICC Men’s Player of the Month nominees
-
-*2024-03-04 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pathum-Nissanka-among-ICC-Mens-Player-of-the-Month-nominees/108-278208) · `en`
-
-Mar. 4 (ICC) - Three top-order batters from India, Sri Lanka and New Zealand have made the shortlist for the ICC Men's Player of the Month Award for February 2024.
-
-Kane Williamson played a pivotal role in New Zealand’s first-ever Test series victory over South Africa. The New Zealand veteran slammed two hundreds in the first Test in Mount Maunganui, and then made 133* to help his team chase down a tricky fourth-innings target in Hamilton to ensure the series victory.
-
-This was Williamson’s first instance of scoring two hundreds in a Test match. The impactful series he had ensured that New Zealand would climb up the ICC World Test Championship table, finishing in second position at the end of February with three wins in five Tests.
-
-It was in Hamilton, though, that Williamson reserved his best for with the team in trouble. Chasing 267, Williamson walked in at No.3 and struck a 133*, laced with 12 fours and two sixes to guide the Black Caps to a whitewash 2-0 series victory.
-
-...
-
-[Data](articles/8e1f3007.json)
-
-[Extended Data](ext_articles/8e1f3007.ext.json)
 
 ---

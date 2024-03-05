@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 10:17:44**
+As of **2024-03-05 10:33:16**
 
 ## Newspaper Stats
 
-*Scraped **10,929** Articles*
+*Scraped **10,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,99 @@ islandlk | 592
 adalk | 925
 adaderanalk | 1,329
 tamilmirrorlk | 1,334
-virakesarilk | 1,459
-dailymirrorlk | 1,667
+virakesarilk | 1,460
+dailymirrorlk | 1,668
 adaderanasinhalalk | 1,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,921 (99.9%) of 10,929 articles have been extended.
+10,929 (100.0%) of 10,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### අපි කවදාවත් ජනතාව රවට්ටන්නේ නෑ... -බැසිල්
+### அரசின் மக்கள் பிரதிநிதிகள் கிராமத்திற்கு செல்லாவிட்டால் அரசு காணாமல் போகும் - ஜனாதிபதி
+
+*2024-03-05 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/177922) · `ta`
+
+அடுத்த வருடமும் நாட்டில் இதே அரசாங்கம் அமையும் எனவும் அரசாங்கத்தின் மக்கள் பிரதிநிதிகள் கிராமத்திற்கு செல்லாவிட்டால் அரசாங்கமே இல்லாமல் போகும் எனவும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+இதன் காரணமாக இரண்டு வருடங்களின் பின்னர் அபிவிருத்திக்காக வழங்கப்படும் பணத்தை கிராமத்திற்கு எடுத்துச் சென்று கிராமத்தின் அபிவிருத்திக்கு நேரடியாக பங்களிக்குமாறும் ஜனாதிபதி வேண்டுகோள் விடுத்தார்.
+
+கம்பஹா மாவட்டத்தின் அபிவிருத்தி நடவடிக்கைகள் தொடர்பில் ஜனாதிபதி செயலகத்தில் இன்று  இடம்பெற்ற சந்திப்பில் திடீரென கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார். அமைச்சர் பிரசன்ன ரணதுங்கவினால் இந்த சந்திப்பு ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+இந்த சந்திப்பில் கம்பஹா மாவட்ட மொட்டுக் கட்சி, ஸ்ரீலங்கா சுதந்திரக் கட்சி மற்றும்  ஐக்கிய தேசியக் கட்சி ஆகிய மூன்று மாவட்டத் தலைவர்களும் கலந்துகொண்டமை விசேட அம்சமாகும்.
+
+...
+
+[Data](articles/728dd4c6.json)
+
+---
+
+### We'll never deceive people.. -Basil
 
 *2024-03-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194147) · `si`
 
-තම පක්ෂය කිසිදිනක ජනතාව රැවටීමට උත්සාහ කර නොමැති බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා පවසයි.
+Basil Rajapaksa, founder of Sri Lanka General Man, claims his party has never deceived people. He emphasizes listening to the public and acknowledging mistakes.
 
-අද (05) උදෑසන දිවයිනට පැමිණි ඒ මහතා මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
+🟩
 
-එමෙන්ම තමා නැවත වතාවක් පාර්ලිමේන්තු ඒමට කිසිදු අදහසක් නොමැති බව ද පැවසු ඒ මහතා කුමන මැතිවරණයක් පැමිණියක් එහි සංවිධාන කටයුතු තමා විසින් සිදුකරන බව ද මෙහිදී සඳහන් කළේය.
+Basil Rajapaksa, the founder of the Sri Lanka General Man, says that his party has never tried to deceive people.
 
-වෙනසක් අවශ්‍ය තැන්වලදි එය සිදුකිරීමට බලාපොරොත්තු වන බවත් පැවසු බැසිල් රාජපක්ෂ මහතා, සෑම මැතිවරණයක්ම අභියෝගයක් බව ද පැවසීය.
+He was speaking to the Sri Lanka this morning (05), Speaking to the Media.
 
-"අපි කවදාවත් ජනතාව රවට්ටන්නේ නෑ. ජනතාව කියන දේ තමා කරන්නේ. අපිට සමහර තැන්වලදි වැරදෙනවා. ජනතාව අපි කියන දේ පිළිගන්නේ නෑ. සමහර වෙලාවට ජනතාව කියන දේ අපි පිළිගත්තේ නැති අවස්ථා තියෙනවා. ඒවා නිවැරදි කරගෙන යනවා."
+He also said that he was once again no intention of the parliament again.
+
+He said that it was a challenge for every election in the necessary places.
+
+"We'll never deceive people. What the people say is doing. We are wrong at some places. People do not accept what we say. There are times when we did not accept what the people say. They are correct. "
 
 ◼️
 
 [Data](articles/0e5a5bee.json)
 
+[Extended Data](ext_articles/0e5a5bee.ext.json)
+
 ---
 
-### புதிய எம்.பி பதவியேற்றார்
+### Refrain from criticizing senior public officers: Speaker tells MPs
+
+*2024-03-05 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Refrain-from-criticizing-senior-public-officers-Speaker-tells-MPs/108-278264) · `en`
+
+Highlighting that he had received complaints from senior public servants that MPs have been making unfair allegations against them, Speaker Mahinda Yapa Abeywardena today requested the MPs to refrain from criticizing these officers.
+
+"Critical comments made by the MPs on public servants will be expunged from Hansard in the future," he said.
+
+"It is unfair on the part of MPs to criticize public servants as they have no way of responding to the allegations made against them. If the MPs need to question any public official, they can summon such officials to Parliament and do so," he said.
+
+◼️
+
+[Data](articles/9dcc8f67.json)
+
+---
+
+### The new MP took office
 
 *2024-03-05 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பி-பதவியேற்றார்/175-334216) · `ta`
 
-பாராளுமன்ற உறுப்பினராக எஸ். சி. முத்துக்குமாரன, சற்று முன்னர் சபாநாயகர் முன்னிலையில் பதவிப்பிரமாணம் செய்து கொண்டார்.
+C. Muthukumaran, a new MP, was sworn in after Uthika Premaratne's resignation, filling the vacant parliamentary position.
 
-அண்மையில், பாராளுமன்ற உத்திக பிரேமரத்னவின் இராஜினாமா செய்திருந்தார். இதனையடுத்து, அவரது பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியது.
+🟩
 
-இதனையடுத்து, உத்திக பிரேமரத்னவுக்குப் பிறகு அதிக வாக்குகளைப் பெற்ற எஸ். சி. முத்துக்குமாரன பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டுள்ளார்.
+As a Member of Parliament. C. Muthukumaran was sworn in in the presence of the Speaker a little while ago.
+
+Recently, the resignation of Parliament. Subsequently, his parliamentary position became a vacuum.
+
+Subsequently, after the Uthika Premaratne, S.. C. Muthukumaran has been elected to Parliament.
 
 ◼️
 
 [Data](articles/ef3150e1.json)
+
+[Extended Data](ext_articles/ef3150e1.ext.json)
 
 ---
 
@@ -79,6 +125,8 @@ He fills the vacancy created by the resignation of Uddika Premarathne.
 ◼️
 
 [Data](articles/24c061f8.json)
+
+[Extended Data](ext_articles/24c061f8.ext.json)
 
 ---
 
@@ -98,6 +146,8 @@ They said when the police went to arrest the suspect, he had left the vehicle he
 
 [Data](articles/a59911d8.json)
 
+[Extended Data](ext_articles/a59911d8.ext.json)
+
 ---
 
 ### AKD’s change in stance on BR’s return raises questions
@@ -116,15 +166,25 @@ In his address to a gathering of women supporters of the NPP, he said the Rajapa
 
 [Data](articles/cc7e0c8f.json)
 
+[Extended Data](ext_articles/cc7e0c8f.ext.json)
+
 ---
 
 ### S.C. Muthukumarana sworn in as Member of Parliament
 
 *2024-03-05 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97737/sc-muthukumarana-sworn-in-as-member-of-parliament) · `en`
 
-S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament today (March 05).
+S.C. Muthukumarana of the Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament on Tuesday (March 05).
 
-He took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off this morning.
+The new MP took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliamentary session kicked off this morning.
+
+Muthukumarana was appointed to fill the MP seat which was left vacant after the resignation of SLPP MP of Anuradhapura Constituency, Uddika Premarathne.
+
+He was next in line on the SLPP list for the Anuradhapura District.
+
+Premarathne had tendered his resignation to the Deputy General Secretary of Parliament on February 27 for reasons yet to be made public.
+
+Later, in accordance with Section 64(1) of the Parliamentary Elections Act No. 1 of 1981, the Secretary General of Parliament informed the Election Commission’s chairman, in writing, of the vacancy in the House.
 
 ◼️
 
@@ -134,19 +194,25 @@ He took oaths before Speaker Mahinda Yapa Abeywardena shortly after the parliame
 
 ---
 
-### இன்று நள்ளிரவு முதல் சிற்றுண்டிகளின் விலை குறைகின்றது
+### The price of snacks decreases from midnight today
 
 *2024-03-05 09:40:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-சிற்றுண்டிகளின்-விலை-குறைகின்றது/175-334215) · `ta`
 
-மின்சார கட்டணம் குறைக்கப்பட்டமை காரணமாக, இன்று நள்ளிரவு முதல் உணவு பொருட்களின் விலையினை குறைப்பதற்கு தீர்மானித்துள்ளதாக இலங்கை சிற்றுண்டிச்சாலை மற்றும் உணவக உரிமையாளர் சங்கம் அறிவித்துள்ளது.
+Snack prices drop from midnight today due to lower electricity tariffs. Tea, milk tea, and snacks each lose 5 rupees.
 
-இதற்கமைய, ஒரு கோப்பை தேநீர் ஐந்து ரூபாயினாலும், ஒரு கோப்பை பால் தேநீர் 10 ரூபாயினாலும், சிற்றுண்டிகள் 10 ரூபாயினாலும், குறைக்கப்படவுள்ளன.
+🟩
 
-அத்துடன், சோற்றுப்பொதி ஒன்று 25 ரூபாயினாலும் கொத்து மற்றும் ப்ரைட் ரைஸ் ஆகியன 50 ரூபாயினாலும் குறைக்கப்படவுள்ளதாக அகில இலங்கை சிற்றுண்டிசாலை மற்றும் உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது. R
+The Sri Lanka Snack and Restaurant Owners Association has announced that it has decided to reduce the cost of food items from midnight today due to the reduction in electricity tariffs.
+
+Accordingly, a cup of tea will be reduced by five rupees, a cup of milk tea is 10 rupees and the snacks are 10 rupees.
+
+The All Ceylon Snack and Restaurant Owners Association has said that a bundle will be reduced by Rs.. Remble
 
 ◼️
 
 [Data](articles/15d39a9b.json)
+
+[Extended Data](ext_articles/15d39a9b.ext.json)
 
 ---
 
@@ -323,6 +389,8 @@ Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation 
 ...
 
 [Data](articles/9e81096b.json)
+
+[Extended Data](ext_articles/9e81096b.ext.json)
 
 ---
 
@@ -802,25 +870,31 @@ The Lead Consultant to the CP Maritime Advisory Programme, Rohan Masakorala, joi
 
 ---
 
-### 'මිනිස්සු වෙනුවෙන්, භූමිය වෙනුවෙන් අපි සටන් වැදුණේ. අපිට මොනවාද ලැබුණේ ?'
+### 'We fought for people, for the ground. What did we get? '
 
 *2024-03-05 03:50:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5vw8qlxjdo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''දැන් කරුණලා, පිල්ලෙයාන්ලා බලන්නෙත් නෑ''
+"We fought for people and the land. Today, many, like Vadiwale in Prakstamattha, Batticaloa, are helpless. Despite the struggle, we received nothing. Now, we're ignored by Karuna Amman and Pillayan."
 
-'මිනිස්සු වෙනුවෙන්, භූමිය වෙනුවෙන් අපි සටන් වැදුණේ. අපිට මොනවාද ලැබුණේ ?'
+🟩
 
-ශ්‍රී ලංකාවේ සිවිල් යුද්ධය පැවති සමයේ දී LTTE සංවිධානයට බැඳුනු බොහෝ දෙනෙකු අද ජීවිතයේ අසරණව කල් ගෙවති.
+None contains none of this.
 
-මඩකලපුව, පුතුමන්ඩපත්තඩි ප්‍රදේශයේ ජීවත් වන වඩිවේල් වසන්ති ඒ අතරින් එක් අයෙකු වන්නීය. අලිමංකඩ සටනේ දී ඇගේ මුහුණට හානි සිදු විය.
+'We fought for people, for the ground. What did we get? '
 
-''මිනිස්සු වෙනුවෙන් හා භූමිය වෙනුවෙන් තමයි අපි සටන් වැදුණේ. අපිට මොනවාද ලැබුණේ. රුපියල් 10 ක් ලැබුණාද? පඩියක් ලැබුණා ද? සටන් වැදිලා අපිට කිසිම ප්‍රයෝජනයක් ලැබුණේ නෑ. දැන් කරුණා අම්මාන්, පිල්ලෙයාන් වුණත් අපි දිහා හැරිලවත් බලන්නේ නෑ. මම එයාලට සපොර්ට් එකට හිටියා කියලා අහලවත් බලන්නේ නෑ.'' යනුවෙන් ඇය BBC සිංහල සේවයට පැවසුවාය.
+Many who joined the LTTE during the civil war in Sri Lanka today are helpless in life today.
 
-තමා සමග සිටි බොහෝ දෙනෙකු අද ඉතා දුක්ඛිත ජීවිත ගත කරන බව ඇය පවසන්නීය.
+Vadiwale, who lives in the Prakstamattha, Batticaloa, is one of them. Her face was damaged in the Elephant Pass.
+
+"We fought for people and for the ground. What we got. Did you get 10 rupees?Got a shot?We did not have any benefit to us. Now Karuna Amman, Pillayan, do not look at us. I don't even know that they are together. "
+
+She says that many of his people live in sad lives today.
 
 ◼️
 
 [Data](articles/86783900.json)
+
+[Extended Data](ext_articles/86783900.ext.json)
 
 ---
 
@@ -2151,51 +2225,5 @@ Also, the electricity tariff for consumers using between 60 and 90 units will be
 [Data](articles/7b9056ca.json)
 
 [Extended Data](ext_articles/7b9056ca.ext.json)
-
----
-
-### Enjoining order against Ceylon Petroleum Corporation
-
-*2024-03-04 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194125) · `si`
-
-The Court of Appeal issued an interim injunction against Ceylon Petroleum Corporation, preventing them from paying fees until the end of the petition examination. The corporation argued the letter was illegal and filed by lawyer Sanath Wijewardene. President's Counsel Romesh de Silva represented the petitioners.
-
-🟩
-
-The Court of Appeal today issued an interim injunction today (04) in a letter issued by the Ceylon Petroleum Corporation to pay the fees from the Ceylon Petroleum.
-
-Appeal Court Judge D. N. Mr. Samarakoon issued this interim order.
-
-The interim injunction states that the interim injunction will be effective until the end of the petition examination.
-
-The petitioners point out that if the Petroleum Corporation shall pay a letter from the separators in March, they have noted that they will be charged from their depositals.
-
-The respondent Corporation had no power to issue a letter and stated that the letter was completely contrary to the law and stated that the respondent was filed by the lawyer Sanath Wijewardene.
-
-Accordingly, the petition has been requested to issue an interim injunction to issue an interim order preventing the implementation of the relevant decisions.
-
-President's Counsel Romesh de Silva appeared on the instructions of Attorney Sanath Wijewardene for the petitioners.
-
-◼️
-
-[Data](articles/20a96102.json)
-
-[Extended Data](ext_articles/20a96102.ext.json)
-
----
-
-### No-faith motion on Speaker to be handed over tomorrow
-
-*2024-03-04 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-on-Speaker-to-be-handed-over-tomorrow/108-278214) · `en`
-
-Colombo, March 4 (Daily Mirror)- The no-faith motion on Speaker Mahinda Yapa Abeywardena is to be handed over tomorrow, SJB MP Tissa Attanayake said today.
-
-"We also intend to obtain a date for the debate on the motion tomorrow itself," he told the media.
-
-◼️
-
-[Data](articles/6a72d931.json)
-
-[Extended Data](ext_articles/6a72d931.ext.json)
 
 ---

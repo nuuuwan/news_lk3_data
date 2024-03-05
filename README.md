@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 03:18:09**
+As of **2024-03-06 03:33:01**
 
 ## Newspaper Stats
 
-*Scraped **11,110** Articles*
+*Scraped **11,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 593
 adalk | 936
 tamilmirrorlk | 1,348
 adaderanalk | 1,354
-virakesarilk | 1,507
-dailymirrorlk | 1,695
+virakesarilk | 1,508
+dailymirrorlk | 1,697
 adaderanasinhalalk | 1,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,110 (100.0%) of 11,110 articles have been extended.
+11,110 (100.0%) of 11,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Could Party Politics Resolve Ongoing National Crisis in Sri Lanka?
+
+*2024-03-06 03:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Could-Party-Politics-Resolve-Ongoing-National-Crisis-in-Sri-Lanka/172-278300) · `en`
+
+It has been observed that divisive politics is one of the inborn deficiencies in party politics although political parties are considered as vital components of Parliamentary Democracy. It is not possible to activate representative democracy or parliamentary democracy without political parties.
+
+Professor Von Beyme, Head of the Institute of Political Science at the University of Heidelberg, in his book titled “Political Parties in Western Democracies” has pointed out that “political parties are often defined as power oriented organizations aiming at governmental responsibilities without accepting a share in the burden of running a government which pursue the goal of placing their avowed representatives in governmental position”.
+
+...
+
+[Data](articles/58f02c67.json)
+
+---
+
+### The ‘Gentlemen’s Game’ in need of Gentlemen - EDITORIAL
+
+*2024-03-06 03:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Gentlemens-Game-in-need-of-Gentlemen-EDITORIAL/172-278299) · `en`
+
+Hooray and congratulations! Our national cricket team won a full series of matches. It was against Afghanistan, but no matter, at last we have won a whole series. It was refreshing to see our team win. The huge crowd at the third T-20 match, vouched for the regeneration of interest among the fans of the game in the country.
+
+While we won all of the test matches, it was the absence of spectators which was prominent. Despite the fact entrance to the games were free, a sparse crowd attended the matches.
+
+During an earlier era we were enthralled when we beat teams like India, Pakistan and Australia. In those days beating even England was no big deal.
+
+But times have changed. At the Dambulla Cricket Stadium where the last T-20 match between Afghanistan and our national team took place, we witnessed a sad change for the worse in the spirit the game was played.
+
+...
+
+[Data](articles/8eb79447.json)
+
+---
+
+### இந்தியாவில் பிறந்த இலங்கையர்களின் பிள்ளைகளுக்கு பிரஜா உரிமை வழங்கி வைக்கப்பட்டது
+
+*2024-03-06 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178024) · `ta`
+
+இந்தியாவிலிருந்து நாடு திரும்பிய இலங்கையர்களின் பிள்ளைகளுக்கு செவ்வாய்க்கிழமை (5) இலங்கை பிரஜா உரிமை வழங்கி வைக்கப்பட்டது.
+
+90 ஆம் ஆண்டு காலப்பகுதியில் யுத்தம் காரணமாக இந்தியாவுக்குச் சென்ற இலங்கையர்களுக்கு இந்தியாவில் குழந்தைகள் பிறந்த நிலையில் யுத்தம் நிறைவுக்கு வந்ததன் பின்னர் மீண்டும் இலங்கைக்கு வந்திருந்தனர்.
+
+நாட்டிற்கு வந்த இந்தியாவில் பிறந்த இலங்கையர்களின் பிள்ளைகளுக்கு இலங்கை பிரஜா உரிமை பெறுவதில் சிக்கல் நிலமை காணப்பட்டிருந்தது.
+
+இதனை அடுத்து குடிவரவு குடியகல்வு திணைக்களத்தின் அனுசரணையில் ஒபர் சிலோன் எனப்படும் அரசு சார்பற்ற நிறுவன பங்களிப்போடு இவர்களுக்கான பிரஜா உரிமை பெற்றுக் கொடுக்கும் செயற்பாடு முன்னெடுக்கப்பட்டது.
+
+இதன் ஒரு கட்டமாக 22 வயதுக்கு மேற்பட்ட இந்தியாவில் பிறந்த இலங்கையர்களின் பிள்ளைகள் 71 பேருக்கு இன்று பிரஜாவுரிமை வழங்கப்பட்டது.
+
+இவ்வாறு பிரஜாவுரிமை பெற்றவர்கள் வவுனியா, மன்னார், முல்லைத்தீவு, கிளிநொச்சி, யாழ்ப்பாணம், திருகோணமலை, மட்டக்களப்பைச் சேர்ந்தவர்களே பெற்றுக்கொண்டனர்.
+
+...
+
+[Data](articles/e995e039.json)
+
+---
 
 ### In the Eastern Province, the illegal fisheries system should be stopped in the North as the illegal seas
 
@@ -2189,83 +2243,5 @@ Most complaints from vehicle users claimed that they are unable to get the maxim
 [Data](articles/ebb0848b.json)
 
 [Extended Data](ext_articles/ebb0848b.ext.json)
-
----
-
-### BlessedPeople's struggle in Mannar Adampan area;Demand to set up a roadblock
-
-*2024-03-05 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/177972) · `ta`
-
-Residents of Mannar Adampan area protested for a roadblock in Narundi, following a fatal accident. Two deaths have occurred due to the absence of roadblocks, leading to the involvement of local authorities in resolving the issue.
-
-🟩
-
-The people of Adamban area today went on a protest on Tuesday (05) demanding the launching a roadblock in Narundi on the Mannar Adampan main road.
-
-A tipper vehicle crashed into an accident on Adampan main road yesterday (4).
-
-In this case, the general public was protesting demanding the construction of a road barrier on the road, saying that the road was on the road and that the vehicles were traveling fast.
-
-The people have expressed their resources that there have been two deaths due to the lack of any roadblocks so far.
-
-In this case, the Assistant District Secretary, Assistant Divisional Secretary, Pradeshiya Sabha Secretary, Road Development Authority, Executive Engineer and Police have abandoned the protest as they will soon take action to prevent accidents.
-
-◼️
-
-[Data](articles/b641fab0.json)
-
-[Extended Data](ext_articles/b641fab0.ext.json)
-
----
-
-### Related to Australian ministers with genocide in Gaza?;The International Court of Inquiry
-
-*2024-03-05 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177967) · `ta`
-
-A Sydney law firm accuses Australian ministers of genocide in Gaza, calling for an investigation. The firm claims ministers may have been involved in Israeli actions in Gaza. Perscarovligal documents these claims. Australians in Israel's army are involved in the Gaza conflict, the firm states. The Australian Prime Minister rejects the allegations, promising a ceasefire in Gaza.
-
-🟩
-
-The Sydney -based Law Firm, which has accused the Australian government ministers of genocide crimes in Gaza, has also called for an investigation into the matter.
-
-In a letter to the International Criminal Court, Sydney's law firm said that ministers of the Australian government may have been involved in the Israeli Gaza.
-
-Perscarovligal, a company, said it was documenting the Australian ministers with the genocide that took place in Gaza.
-
-Australians who go to Israel and join the army are engaged in war in Gaza, it is openly, the Sydney -based law firm said.
-
-However, the Australian Prime Minister, who has rejected the allegations, said his government would call for a ceasefire in Gaza.
-
-He said that I did not comment on something that is not credible.
-
-◼️
-
-[Data](articles/c701eb42.json)
-
-[Extended Data](ext_articles/c701eb42.ext.json)
-
----
-
-### Did the employees of the UN's humanitarian organization work with Hamas?Australia appeals to publish Israel's evidence
-
-*2024-03-05 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/177968) · `ta`
-
-Australia appeals for Israel to publish evidence of UN Relief Organization for Palestine's involvement in October attacks, citing concern over allegations of collaboration with Hamas.
-
-🟩
-
-Australia has requested Israel to publish evidence that the UN Relief Organization for Palestine was involved in the October seven attacks.
-
-Australian Finance James Larson for the UN has appealed to the UN to provide full cooperation with the UN investigations into these allegations.
-
-He said that Australia is deeply concerned about Israel's allegations that the UN's humanitarian organization has joined the Hamas.
-
-He said the Australian was acting immediately after Israel's allegations and said that Israel should cooperate with the UN investigations.
-
-◼️
-
-[Data](articles/dccc25ec.json)
-
-[Extended Data](ext_articles/dccc25ec.ext.json)
 
 ---

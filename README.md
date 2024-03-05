@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 10:50:26**
+As of **2024-03-05 11:02:46**
 
 ## Newspaper Stats
 
-*Scraped **10,931** Articles*
+*Scraped **10,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 economynextcom | 562
 dailyftlk | 584
 islandlk | 592
-adalk | 925
-adaderanalk | 1,329
+adalk | 926
+adaderanalk | 1,330
 tamilmirrorlk | 1,334
-virakesarilk | 1,460
+virakesarilk | 1,463
 dailymirrorlk | 1,668
-adaderanasinhalalk | 1,703
+adaderanasinhalalk | 1,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,931 (100.0%) of 10,931 articles have been extended.
+10,931 (99.9%) of 10,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### Bid closing date for SriLankan extended - Minister
+
+*2024-03-05 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97738/bid-closing-date-for-srilankan-extended-minister) · `en`
+
+The deadline for submission of bids for the divestment of SriLankan Airlines has been extended by 45 days, says Minister of Ports, Shipping and Aviation Nimal Siripala de Silva.
+
+◼️
+
+[Data](articles/68d39d98.json)
+
+---
+
+### ශ්‍රීලන්කන් ලංසු කැඳවීම ගැන නිවේදනයක්
+
+*2024-03-05 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194148) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිව්‍යුහගත කිරීමේ වැඩපිළිවෙළ සඳහා සුදුසු ආයෝජකයෙකු තෝරා ගැනීම සඳහා ලංසු කැඳවීමේ කාලය තවත් දීර්ඝ කර තිබේ.
+
+ඒ අනුව එය අද දින සිදුකිරීම නියමිතව තිබූ ලංසු කැඳවීම දින 45කින් කල්දැමීමට සිදුවන බව වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+
+◼️
+
+[Data](articles/5c11c9a2.json)
+
+---
+
+### நிகழ்நிலை, பயங்கரவாத எதிர்ப்பு சட்டமூலங்களை மீள்பரிசீலியுங்கள் - ஐ.நா மனித உரிமைகள் பேரவை அமர்வில் ஐரோப்பிய ஒன்றியம் வலியுறுத்தல்
+
+*2024-03-05 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177926) · `ta`
+
+உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு தொடர்பில் சட்டத்தை உருவாக்க முன்னர் பாதிக்கப்பட்ட சமூகங்கள் மத்தியில் நம்பிக்கையைக் கட்டியெழுப்பக்கூடியவாறான செயன்முறையொன்றைப் பின்பற்றவேண்டியது அவசியமென ஐ.நா மனித உரிமைகள் பேரவையின் 55 ஆவது கூட்டத்தொடரில் சுட்டிக்காட்டியிருக்கும் பிரிட்டன் தலைமையிலான இணையனுசரணை நாடுகள், எதிர்வருங்காலங்களில் ஸ்தாபிக்கப்படக்கூடிய எந்தவொரு ஆணைக்குழுவும் நிலைமாறுகால நீதிப்பொறிமுறையைக் கட்டியெழுப்பும் அதேவேளை, பொறுப்புக்கூறலுக்கான பாதையை வகுத்தளிக்கக்கூடியதாகவும் இருக்கவேண்டும் என வலியுறுத்தியிருக்கின்றன.
+
+...
+
+[Data](articles/0179d137.json)
+
+---
+
+### தகவல் உரிமைச் சட்டத்தை சமூக மாற்றத்திற்கான ஆயுதமாகப் பயன்படுத்தும் சாதாரண கிராமப் பெண்
+
+*2024-03-05 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/177919) · `ta`
+
+முல்லைத்தீவு மாவட்டம் புதுக்குடியிருப்பைச் சேர்ந்த 46 வயதான சாதாரண ஒரு கிராமப் பெண் தகவலறியும் உரிமைச் சட்டத்தை சமூக மாற்றத்திற்கான ஆயுதமாகப் பயன்படுத்தி தவறிழைக்கும் அதிகாரிகளை நேர்ப்படுத்தும் செயற்பாட்டில் ஈடுபட்டு வருகின்றார்.
+
+அநீதிகளும் மோசடிகளும் தலைவிரித்தாடும் உலகில் வாழ்ந்து வரும் எமக்கு, அரச திணைக்களங்களின் தன்னிச்சையான மற்றும் உண்மைக்குப் புறம்பான செயற்பாடுகளைத் தட்டிக் கேட்கவும், அவற்றுக்கு எதிராக நடவடிக்கை எடுக்கவும் கிடைத்திருக்கும் ஆயுதமே தகவலறியும் உரிமைச் சட்டம். இன்று அரச அதிகாரிகள் மக்களை மதிப்பதில்லை என்ற பாரிய குற்றச்சாட்டு முன்வைக்கப்படுகிறது. அதுவும் பாமர மக்கள் உதாசீனம் செய்யப்படுகின்றனர். மக்களுடைய பலவீனத்தைப் பயன்படுத்தி தவறிழைக்கும் அதிகாரிகள் ஏராளம். மக்களின் வரிப்பணத்தில் ஊதியம் பெறும் மக்கள் சேவகர்களை மக்களே தமது கட்டுக்குள் வைத்திருக்கக்கூடிய விதத்தில் அமையப்பெற்ற சட்டமே இந்த தகவலறியும் உரிமைச் சட்டம்.நேர்மையான அதிகாரிகள் இந்த சட்டத்திற்கு அஞ்சத்தேவையில்லை.
+
+...
+
+[Data](articles/f8e4d584.json)
+
+---
+
+### பசில் நாட்டுக்கு வருகை !
+
+*2024-03-05 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/177923) · `ta`
+
+பொதுஜன பெரமுனவின் ஸ்தாபகரும் முன்னாள் நிதி அமைச்சருமான பசில் ராஜபக்ஷ இன்று செவ்வாய்க்கிழமை (05) காலை நாட்டுக்கு வருகை தந்துள்ளார்.
+
+பசில் ராஜபக்ஷவை வரவேற்க ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) உறுப்பினர்கள் குழுவொன்று கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்திற்கு சென்றுள்ளது.
+
+◼️
+
+[Data](articles/2c44fbe4.json)
+
+---
 
 ### The government will disappear if the people's representatives go to the village
 
@@ -248,9 +314,9 @@ S. C. Muthukumarana took sworn in as a new seat before Speaker.
 
 *2024-03-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97736/live-auction-for-divestment-of-srilankan-airlines-to-be-held-today) · `en`
 
-The live auction to choose an investor for the divestment of SriLankan Airlines is slated to be held today (March 05).
+The live auction to choose an investor for the divestment of SriLankan Airlines is scheduled to be held today (March 05).
 
-As such, the bidding will take place live from 10 a.m. to 2 p.m. today, Nimal Siripala de Silva, the Minister of Ports, Shipping and Aviation said while joining Ada Derana’s ‘GET REAL’ segment last week.
+As such, the bidding is expected to take place live from 10 a.m. to 2 p.m. today, Nimal Siripala de Silva, the Minister of Ports, Shipping and Aviation said while joining Ada Derana’s ‘GET REAL’ segment last week.
 
 Meanwhile, a special technical committee has been appointed to assist the live auction process, according to the minister.
 
@@ -288,9 +354,15 @@ Meanwhile, the no-confidence motion against Speaker is due to hand over the oppo
 
 *2024-03-05 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97735/basil-returns-to-sri-lanka) · `en`
 
-Former Finance Minister Basil Rajapaksa returned to the island this morning (March 05).
+Former Finance Minister Basil Rajapaksa returned to the island from the United States this morning (March 05).
 
-A group of members of Sri Lanka Podujana Peramuna (SLPP) were at the Bandaranaike International Airport (BIA) in Katunayake to welcome the party’s founder.
+A group of members of Sri Lanka Podujana Peramuna (SLPP) including Minister Prasanna Ranatunga, SLPP General Secretary Sagara Kariyawasam, MP Sarath Weerasekara, were at the Bandaranaike International Airport (BIA) in Katunayake to accord a warm welcome to the party’s founder.
+
+Speaking to the media following his arrival, the former minister said the SLPP has never attempted to mislead the general public.
+
+While asserting that he has no plans to return to the parliament, Rajapaksa said he would continue to guide the SLPP with election preparations.
+
+Changes need to be made where it is needed, he commented further responding to a question raised by a media person
 
 ◼️
 
@@ -1980,6 +2052,24 @@ He made these comments while joining the national programme held today at Dharma
 
 ---
 
+### අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කර ගැනීමට අමාත්‍යාංශයෙන් ලිපි නෑ
+
+*2024-03-04 20:01:38* · [`adalk`](https://www.ada.lk/breaking_news/අතරමැදි-ශ්‍රේණි-සඳහා-සිසුන්-ඇතුළත්-කර-ගැනීමට-අමාත්‍යාංශයෙන්-ලිපි-නෑ/11-408423) · `si`
+
+අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ ලිපි අධ්‍යාපන අමාත්‍යාංශය මඟින් නිකුත් නොකරන බව අධ්‍යාපන අමාත්‍යාංශය දැනුම් දෙයි.
+
+ඒ අනුව 2024 වර්ෂයේ අතරමැදි පන්ති සඳහා සිසුන් ඇතුළත් කිරීමට අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු බවද අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+පාසල්වල පුරප්පාඩු පවතී නම් විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛ ප‍‍්‍රකාර ව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කරනු ඇතැයිද අමාත්‍යාංශය පවසයි.
+
+තව ද අතරමැදි ශ්‍රේණි සඳහා ළමුන් ඇතුළත් කිරීමට අදාළ ඉල්ලීම්  සඳහා අධ්‍යාපන අමාත්‍යාංශයට නොපැමිණෙන ලෙසට අමාත්‍යාංශය වැඩිදුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/f7e7af66.json)
+
+---
+
 ### A new legal system for a new economy
 
 *2024-03-04 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194128) · `si`
@@ -2097,143 +2187,5 @@ Members of the government and supporting the government except for State Ministe
 [Data](articles/e0f02e6d.json)
 
 [Extended Data](ext_articles/e0f02e6d.ext.json)
-
----
-
-### Massive target of Bangladesh
-
-*2024-03-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194127) · `si`
-
-Sri Lanka scored 206/3, with Kusal Mendis 59* and Sadeera Samarawickrama 61*; Charith 21* with 6 fours; Sadeera and bowlers added 73 for the 4th wicket.
-
-🟩
-
-Sri Lanka scored 206 runs for the loss of 3 wickets for the loss of 3 wickets in their innings.
-
-Kusal Mendis scored 59 runs off 36 balls with 36 off 36 balls while Sadeera Samarawickrama scored 61 not out.
-
-Charith, who played a velocity innings, was not out in 21 balls. It included 6 fours.
-
-Sadeera and the bowls added 73 runs for the four fourth wicket.
-
-◼️
-
-[Data](articles/0bc3d07f.json)
-
-[Extended Data](ext_articles/0bc3d07f.ext.json)
-
----
-
-### Special notice to parents who are trying to put their child to another school
-
-*2024-03-04 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194126) · `si`
-
-The Ministry of Education will not issue letters for intermediate series admissions. Schools must include students for the 2024 intermediate class. Principals have interviewed the Ministry for approval. The Ministry has not been asked to issue no-admission letters for internal series.
-
-🟩
-
-The Ministry of Education has announced that the relevant letters will not be issued by the Ministry of Education to admit students for intermediate series.
-
-The announcement should be forwarded to schools to include students for the intermediate class of 2024.
-
-If there are vacancies in schools, the relevant principals have interviewed the Ministry of Education for approval by the Ministry of Education.
-
-Therefore, the Ministry of Education has stated that the Ministry of Education has not been asked to do not come to the Ministry of Education for the internal series.
-
-◼️
-
-[Data](articles/c15a40d7.json)
-
-[Extended Data](ext_articles/c15a40d7.ext.json)
-
----
-
-### The Commando arrested with explosives is detained and questioned
-
-*2024-03-04 19:02:36* · [`adalk`](https://www.ada.lk/breaking_news/පුපුරණ-ද්‍රව්‍ය සමග-අත්අඩංගුවට-ගත්-කමාන්ඩෝ-සෙබලා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-408418) · `si`
-
-A 33-year-old man from the Second Commando Regiment was arrested in Medawachchiya for carrying high-power explosives. He will be interrogated for 3 days starting November 6th.
-
-🟩
-
-Medawachchiya Magistrate's Court today (3) has been granted to the Medawachchiya Police today to interpret a large quantity of high-power explosive materials in Medawachchiya.
-
-Accordingly, the suspect will be interrogated at the Medawachchiya Police Station for a period of 3 days from the November 6th.
-
-The second commandos was a 33-year-old man who served at the Second Commando Regiment, Thirijuna, Kilinochchi Army Base.
-
-Medawachchiya Police OIC RMB Ratnayake, Medawachchiya OIC, RMB Ratnayake, was conducting a long distance bus service using roadblocks in the Medawachchiya town.
-
-This commanduro is traveling from Jaffna to Moneragala to the house of the bubble, Kuruitenna and Mahiyanganaya. The soldier was four powerful dates naters, six non-electric det nates, T.N.T. Police have found five grams of high-power explosives and 20 feet of Det Court.
-
-...
-
-[Data](articles/ab8b9d3c.json)
-
-[Extended Data](ext_articles/ab8b9d3c.ext.json)
-
----
-
-### Sri Lankan Partnership In Bombing, Starving & Helping “The Gaza Fund”
-
-*2024-03-04 18:47:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankan-partnership-in-bombing-starving-helping-the-gaza-fund/) · `en`
-
-“At least 30,000 people killed and 70,457 injured in Gaza. I am appalled by the tragic human toll” said the UN Secretary General Antonio Gutteres yesterday. This is the updated score card of the Israeli genocide.
-
-Now, aptly dubbed as the “Flour Massacre”, on 29 February 2024 more than 117 people were killed and 760 injured in Gaza City by Israeli troops firing at starving people gathering to receive rare distribution of food. Aid trucks carrying flour were believed to be on the way. The pathological liar Israel said, “deaths due a stampede”. In another version said, “Israel forces fired only warning shots to control the crowd.”
-
-United Nations Office for the Coordination of Humanitarian Affairs (OCHA), reports there are 2.2 million people in Gaza who are malnourished. Nearly 600,000 are a step away from starving to death. Israel is using ‘HUNGER’ as a method of warfare.
-
-...
-
-[Data](articles/a84b101a.json)
-
-[Extended Data](ext_articles/a84b101a.ext.json)
-
----
-
-### Work for the previous employee who padders Katunayake in 20 crores
-
-*2024-03-04 18:42:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-20ක-ස්වර්ණාභරණ-කටුනායකින්-පන්නන්නගිය-සේවකයාට-වැඩ-වරදියි/11-408417) · `si`
-
-A Katunayake airport employee, involved in a smuggling racket with other workers, was arrested by Customs Drug Administration officers. The racket involved gold, jewelry, and ATM cards. Minister Ranjith Siyambalapitiya monitored the incident.
-
-🟩
-
-A large number of airports employees who tried to leave the Katunayake airport on Rs.
-
-The Customs Drug Advanced Investigations have revealed that the racket had been carried out with a group of other airport workers.
-
-The airport employee is a minor employee in the office of Katunayake Airport Terminal Supervisor and has emitted the airport when he does not have its work.
-
-Officers in the Customs Drug Administration Division have been arrested at around 08/04 while he was carrying the parcel of the airport departure terminal at the airport departure terminal.
-
-කටුනායක ගුවන් තොටුපොළ අධි ආරක්ෂිත කළාපය සහ මහජනයා ගැවසෙන ( Public Area ) වෙන් කිරීමට යොදා ඇති වානේ දොරක සවි කර ඇති ලූවර් පටි ඈත් කර මෙම ස්වර්ණාභරණ තොගය ඇතුළත් පාර්සලය මුළින්ම පිට කර තිබේ.
-
-At first glance of ATM cards in this parcel, the number of cards prepared from gold, the golden (capsules) and the rings, breadcrumbs, rings, rings.
-
-...
-
-[Data](articles/05fb1248.json)
-
-[Extended Data](ext_articles/05fb1248.ext.json)
-
----
-
-### Electricity tariff to be reduced by 21.9%: PUCSL
-
-*2024-03-04 18:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-by-21-9-PUCSL/108-278216) · `en`
-
-The Public Utilities Commission said that the electricity tariff will be reduced by 21.9 percent.
-
-While addressing the media they said for the electricity consumers using less than 30 units, the current amount of Rs.12 per unit will be reduced to Rs. 8.
-
-Also, the electricity tariff for consumers using between 60 and 90 units will be reduced by 30 percent.
-
-◼️
-
-[Data](articles/7b9056ca.json)
-
-[Extended Data](ext_articles/7b9056ca.ext.json)
 
 ---

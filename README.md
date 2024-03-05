@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 07:15:41**
+As of **2024-03-05 07:30:59**
 
 ## Newspaper Stats
 
-*Scraped **10,888** Articles*
+*Scraped **10,893** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 106
+colombotelegraphcom | 107
 bbccomsinhala | 129
 dbsjeyarajcom | 173
 newsfirstlk | 363
@@ -17,20 +17,42 @@ dailyftlk | 584
 islandlk | 592
 adalk | 923
 adaderanalk | 1,323
-tamilmirrorlk | 1,325
+tamilmirrorlk | 1,327
 virakesarilk | 1,458
-dailymirrorlk | 1,659
-adaderanasinhalalk | 1,691
+dailymirrorlk | 1,660
+adaderanasinhalalk | 1,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-10,885 (100.0%) of 10,888 articles have been extended.
+10,888 (100.0%) of 10,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### කැබිනට් මණ්ඩලයෙන් මහ බැංකු ප්‍රධානීන්ට හදිසි දැනුම්දීමක්
+
+*2024-03-05 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194136) · `si`
+
+මහ බැංකු සේවකයින්ගේ වැටුප් වැඩිකිරීම සම්බන්ධයෙන් පාර්ලිමේන්තුවට කරුණු ඉදිරිපත් කරන ලෙස කැබිනට් මණ්ඩලය විසින් මහ බැංකු ප්‍රධානීන්ට දැනුම් දී තිබේ.
+
+මහ බැංකු සේවකයින්ගේ වැටුප් සියයට 70කින් වැඩි කිරීම සම්බන්ධයෙන් මහ බැංකු ප්‍රධානීන් කැබිනට් මණ්ඩලයට කරුණු ඉදිරිපත් කළ අවස්ථාවේ මෙම දැනුම්දීම සිදුකර ඇති බව වාර්තා වේ.
+
+අදාළ වැටුප් වැඩිකර ගැනීමේ සිද්ධිය සම්බන්ධයෙන් ප්‍රශ්න කිරීම සඳහා මහබැංකු අධිපති නන්දලාල් වීරසිංහ මහතා ඇතුළු ප්‍රධානීන් කැබිනට් මණ්ඩලය හමුවට කැඳවා තිබිණි.
+
+එහිදී අදාළ වැටුප් වැඩිකර ගැනීම පිළිබඳව කැබිනට් මණ්ඩලයේ දැඩි විරෝධය එල්ල වී ඇති බව වාර්තා වේ.
+
+අමාත්‍යවරුන් කිහිපදෙනෙකු විසින් ද අදාළ වැටුල් වැඩිකර ගැනීමේ සිදුවීම සම්බන්ධයෙන් මහ බැංකු නිලධාරීන්ගෙන් සෘජුවම ප්‍රශ්න කර ඇති අතර එහිදී මහබැංකු නිලධාරීන් ලබාදුන් පිළිතුරු පිළිබඳව අමාත්‍යවරුන් සිය අප්‍රසාදය පළකර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද මහ බැංකු සේවකයින්ගේ වැටුප් ඉහළ නැංවීම තමාව ද දැනුවත් නොකර සිදුකර ඇති බවට එහිදී ප්‍රකාශ කර ඇති අතර ජනාධිපතිවරයා ද අදාළ සිදුවීමට සිය විරෝධය පළකර ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/ed5e98b4.json)
+
+---
 
 ### Bondholder agreement delay unlikely to affect IMF review: Coomaraswamy
 
@@ -47,6 +69,8 @@ While this process could take some time, he was confident that the bondholders, 
 ...
 
 [Data](articles/2a5307c7.json)
+
+[Extended Data](ext_articles/2a5307c7.ext.json)
 
 ---
 
@@ -95,6 +119,52 @@ The scheme is valid until March 2024 while the visa is valid for 30 days, permit
 ...
 
 [Data](articles/f7d9859c.json)
+
+[Extended Data](ext_articles/f7d9859c.ext.json)
+
+---
+
+### Colombo Plan to further expand maritime sector
+
+*2024-03-05 04:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Plan-to-further-expand-maritime-sector/108-278231) · `en`
+
+From left: Rohan Masakorala -Lead Consultant, Maritime Advisory Programme, CP, Dr. Benjamin Reyes-Secretary General CP and Khalid Hamoud, Ambassador of Saudi Arabia to Sri Lanka
+
+Dr. Benjami Reyes, the Secretary General of Colombo Plan (CP) met with the Saudi Arabian Ambassador to Sri Lanka Khalid Hamoud Alkahtani recently to discuss further cooperation in the maritime sector as a member country of the Colombo Plan.
+
+The Lead Consultant to the CP Maritime Advisory Programme, Rohan Masakorala, joined the discussion where areas of infrastructure, capacity building and trade facilitation were the topics of concern. The Saudi Ambassador to Sri Lanka has expressed optimism and conveyed his continuing support to future collaboration initiatives with CP, as a leading gulf state.
+
+...
+
+[Data](articles/9f71001f.json)
+
+---
+
+### ’புதிய சட்டக் கட்டமைப்பு அறிமுகம் செய்யப்படும்’
+
+*2024-03-05 03:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சட்டக்-கட்டமைப்பு-அறிமுகம்-செய்யப்படும்/175-334209) · `ta`
+
+நாட்டில் புதிய பொருளாதார மாற்றத்தை ஏற்படுத்துவதற்காக கடந்த 14 மாதங்களில் 42 புதிய சட்டங்கள் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ளன. மேலும், 62 சட்டங்களை, பாராளுமன்றத்தில் சமர்ப்பித்து நிறைவேற்ற எதிர்பார்க்கிறோம் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொழும்பு பண்டாரநாயக்க சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று முன்தினம்  இடம்பெற்ற சட்ட சீர்திருத்தம் தொடர்பாக ‘வட்ஸ் நிவ்’ இளம் சட்டத்தரணிகளுடனான கலந்துரையாடலில் ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+அரசு எடுத்துள்ள நடவடிக்கைகளைப் பார்க்கும்போது, கடந்த 14 மாதங்களில் 42 சட்டங்கள் கொண்டு வரப்பட்டு நிறைவேற்றப்பட்டுள்ளன. இதுவொரு சாதனையாகும். எஞ்சிய 62 சட்டங்களை எவ்வாறு முன்வைப்பது என்பதுதான் சட்டமா அதிபருக்கு இருக்கும் சவாலாகும். அதற்காக பாராளுமன்றத் தேர்தலை ஒத்திவைக்க முடியாது. இம்முறை நிறைவேற்ற முடியாததை அடுத்த பாராளுமன்றத்தில் முன்வைக்க நேரிடும். இந்த வேலைத்திட்டம் முன்னெடுக்கப்பட்டால், அடுத்த சில ஆண்டுகளில் புதிய பொருளாதாரத்தை உருவாக்கும் புதிய சட்டக் கட்டமைப்பு உருவாகும்.
+
+...
+
+[Data](articles/33b3a05c.json)
+
+---
+
+### விபத்தில் அருட்தந்தை பலி
+
+*2024-03-05 03:01:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-அருட்தந்தை-பலி/175-334208) · `ta`
+
+டிப்பர் மோதி படுகாயமடைந்த அருட்தந்தை, மன்னார் வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்ட நிலையில் உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/08b75f84.json)
 
 ---
 
@@ -167,6 +237,18 @@ The Extraordinary Gazette bearing No.2373/59 dated 3 March was issued by the Sec
 [Data](articles/d9a0fe7d.json)
 
 [Extended Data](ext_articles/d9a0fe7d.ext.json)
+
+---
+
+### The Hardware & Software Of Reconciliation
+
+*2024-03-05 01:30:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-hardware-software-of-reconciliation/) · `en`
+
+President Ranil Wickremesinghe addressing a conference of over 300 members from inter-religious committees from across the country summed up his plan for national reconciliation in less than 20 minutes. The president was clear in his articulation. He spoke with no notes. There were no superfluities in his speech. He noted how racism and bigotry have become convenient tools for politicians to wield power and for religious leaders to maintain their authority. He pointed to lessons learned from prolonged use of these divisive tactics, which ultimately led the country into a devastating conflict. He took two questions from the audience and before the organisers of the conference could even thank him on stage he left the podium for his next meeting.
+
+...
+
+[Data](articles/80088226.json)
 
 ---
 
@@ -2123,133 +2205,5 @@ Speaking to reporters, Marikkar said a “somewhat tough” administration is ca
 [Data](articles/f2d6f157.json)
 
 [Extended Data](ext_articles/f2d6f157.ext.json)
-
----
-
-### Fake artificial intelligence images to show that blacks are supported by blacks - Trump's supporters controversial action
-
-*2024-03-04 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/177880) · `ta`
-
-Trump's supporters use AI to create fake images showing blacks supporting Trump, aiming to win black voters' support for the 2020 election. The Blackwoters Matter Organization denies these images are true, highlighting a controversial trend before the US election.
-
-🟩
-
-Trump's supporters target black voters by creating fake artificial intelligence images.
-
-The BBC has revealed that Trump's supporters are creating images of blacks with blacks and black people with Trump to make former President Donald Trump feel that blacks are supported.
-
-Trump is now openly trying to gain their support, as the support of blacks is important to win the 2020 election.
-
-The organizer of the Blackwoters Matter Organization said that such fake pictures are used to show that the blacks are supported by the blacksmiths.
-
-One of these films said that these films are not true.
-
-The fake pictures of Trump supporters using artificial intelligence are a new trend before the US election.
-
-There are also a group of people who have created such films. They have created a picture of Trump's black women.
-
-In the first sight, it seems like a real film, but many facts are visible.
-
-◼️
-
-[Data](articles/160eae8c.json)
-
-[Extended Data](ext_articles/160eae8c.ext.json)
-
----
-
-### Lori is in the road
-
-*2024-03-04 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194116) · `si`
-
-Lori is in the road. A cab carrying illegal teak stems was stopped by Wildlife Officers in Karuwalagaswewa. The driver tried to escape but fell into mud. The cab was taken into custody by Nawagattegama Police with 30 illegal woods. The operation was based on information about timber racketeering.
-
-🟩
-
-A cab carrying a stock of teak stems as illegal has been transporting a mud in Karuwalagaswewa.
-
-A group of Wildlife Officership of a Wildlife Officer to be transported as illegal as illegal was commanded to stop it.
-
-The driver of the cab had tried to escape the fleeing of the fleeing of the fleeing of the fleeing of the fleeing.
-
-The cab had fallen into a mud and the suspects had gone to the cab.
-
-According to the sub-residents of the Puttalam and Kadaduwa areas were later revealed.
-
-The cab was taken into custody by the Nawagattegama Police with 30 illegal woods with 30 illegal wood.
-
-The operation was carried out by the operation of Wildlife Officers on information that continued to carry on timber racketeering using the cab.
-
-Taking a backhoe was used to be produced before the Anamaduwa Court of Anakuwa.
-
-◼️
-
-[Data](articles/b872050e.json)
-
-[Extended Data](ext_articles/b872050e.ext.json)
-
----
-
-### Nissanka among nominees for ICC Player of the Month
-
-*2024-03-04 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97724/nissanka-among-nominees-for-icc-player-of-the-month) · `en`
-
-Three top-order batters from India, Sri Lanka and New Zealand have made the shortlist for the ICC Men’s Player of the Month Award for February 2024.
-
-Pathum Nissanka is a top contender for the ICC Men’s Player of the Month for February 2024 after he slammed the first ever double century in ODIs by a Sri Lankan. The 25-year-old blasted 210* off just 139 balls against Afghanistan in Pallekele and then went on to end the series with another terrific hundred (118 off 101 balls).
-
-Nissanka beat Sanath Jayasuriya’s 24-year-old record for the highest score by a Sri Lankan in ODIs.
-
-Jayasuriya had scored 189 against India in Sharjah in 2000. In the last 18 overs, Nissanka slammed 110 runs. He took merely 48 balls to reach his double ton after crossing his century, smashing 20 fours and eight sixes.
-
-...
-
-[Data](articles/993a8834.json)
-
-[Extended Data](ext_articles/993a8834.ext.json)
-
----
-
-### Public urged to conserve water amidst dwindling resources
-
-*2024-03-04 14:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-urged-to-conserve-water-amidst-dwindling-resources/108-278211) · `en`
-
-Colombo, March 04 (Daily Mirror) - The Irrigation Department has advised the public to exercise caution and use water sparingly.
-
-Speaking to Daily Mirror, Director General of Irrigation A. Gunasekara said that this call comes in the light of the dwindling water levels observed in rivers, which serve as crucial sources for pipe borne drinking water across the region.
-
-“The current capacity of the water tanks stands at 50-60 percent, a level projected to further diminish with a prolonged absence of rainfall for the next two months,” he pointed out.
-
-“In response to this situation, citizens are urged to use water sparingly and adopt water-saving practices in their daily routines,” Gunasekara added.
-
-Meanwhile, Dr. Hemali Kothalawala, Director of the Department of Animal Production and Health, emphasized the need for special attention to be given to animals during this period of water scarcity.
-
-...
-
-[Data](articles/70f5e044.json)
-
-[Extended Data](ext_articles/70f5e044.ext.json)
-
----
-
-### Electricity Board spokesman's bottle lamp story…!
-
-*2024-03-04 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/177876) · `ta`
-
-The Ceylon Electricity Board's (CEB) Media Spokesman Priyantha faced criticism for derogatory comments about the upcountry plantation community. His remarks sparked controversy, leading to his resignation. The incident highlighted the disparity between the elite and the people living under the poverty line, with politicians and officials expressing concern over the lack of electricity and its impact on education.
-
-🟩
-
-The comments expressed by our country's politicians and state officials in the recent past are mocking the people living under the Mediterranean and Poverty line.. They are speaking in the media and parliament, which is regarded as the elite.
-
-During a television interview, the Ceylon Electricity Board (CEB) Media Spokesman Priyantha, who was contemptuous of the upcountry plantation community, was severely criticized not only in the media but also in parliament last week.. He is a deputy general manager of the Ceylon Electricity and Operational Strategy Division of the Ceylon Electricity Board.
-
-The Ceylon Electricity Board's Engineers Association, which criticized his views on the Sri Lankan people who consume electricity, was very dangerous, and that his views were damaging the Electricity Board and the government.
-
-...
-
-[Data](articles/2ad2dcfa.json)
-
-[Extended Data](ext_articles/2ad2dcfa.ext.json)
 
 ---

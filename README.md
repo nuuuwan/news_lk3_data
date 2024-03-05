@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 16:33:58**
+As of **2024-03-05 16:49:21**
 
 ## Newspaper Stats
 
-*Scraped **11,013** Articles*
+*Scraped **11,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ newsfirstlk | 363
 economynextcom | 569
 dailyftlk | 584
 islandlk | 592
-adalk | 930
+adalk | 931
 adaderanalk | 1,340
 tamilmirrorlk | 1,343
 virakesarilk | 1,480
 dailymirrorlk | 1,680
-adaderanasinhalalk | 1,720
+adaderanasinhalalk | 1,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,009 (100.0%) of 11,013 articles have been extended.
+11,013 (100.0%) of 11,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
+
+### කොළඹ සරසවිය ඉදිරිපිට මාර්ගය හදිසියේ වසයි
+
+*2024-03-05 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194168) · `si`
+
+කොළඹ විශ්වවිද්‍යාලය ඉදිරිපිට මාර්ගය හදිසියේ වසා දැමීමට පියවර ගෙන තිබේ.
+
+ඒ, ශිෂ්‍ය සංගම්වල විරෝධතාවයක් හේතුවෙන් අදාළ මාර්ගයේ ඇතිවී තිබෙන දැඩි රථවාහන තදබදය හේතුවෙනි.
+
+◼️
+
+[Data](articles/2bcd6de0.json)
+
+---
+
+### කුසගින්නේ මියයන පලස්තීන දරුවෝ
+
+*2024-03-05 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194167) · `si`
+
+මාස 05ක් තිස්සේ ඊශ්‍රායල සම්බාධකවලට සහ නොනවතින ප්‍රහාරයන්ට ලක් වූ උතුරු ගාසා තීරයේ පලස්තීන දරුවන් සාගින්නෙන් මියයන බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
+
+පසුගිය ඔක්තෝබර් මාසයෙන් පසු ප්‍රථම වරට ලෝක සෞඛ්‍ය සංවිධානයේ නියෝජිත පිරිසක් උතුරු ගාසා තීරයේ අල්-අවුදා සහ කමාල්-අද්වාන් රෝහල්වල නිරීක්ෂණ චාරිකාවක නිරත වී තිබුණි.
+
+එහිදී හෙළිදරව් වූ දෑ අතිශය ඛේදජනක බව ලෝක සෞඛ්‍ය සංවිධානයේ ප්‍රධානී ටෙඩ්‍රොස් ඇඩනම් ගෙබ්‍රියේසස් සඳහන් කළේය.
+
+ආහාර නොමැතිවීම නිසා කමාල් අද්වාන් රෝහලේ ළමුන් දස දෙනෙකුවත් මියගොස් ඇති බවත්, විදුලිය නොමැතිවීම නිසා එම රෝහල් ක්‍රියාකාරීත්වය මෙන්ම රෝගීන් ද අනතුරට ලක්වන බවත් ලෝක සෞඛ්‍ය සංවිධානයේ ප්‍රධානියා "x" අවකාශයේ සටහනක් තබමින් ප්‍රකාශ කළේය.
+
+එමෙන්ම විශේෂයෙන් ළමුන් ඇතුළු ගාසා තීරයේ සිවිල් වැසියන්ට මානුෂීය ආධාර ආරක්ෂිතව, අඛණ්ඩව ලබාදීම සඳහා ඉඩ සලසන ලෙස ඔහු ඊශ්‍රායල රජය වෙතින් ඉල්ලීමක් ද කළේය.
+
+හමාස් සෞඛ්‍ය අමාත්‍යාංශය ප්‍රකාශ කළ පරිදි කමාල්-අද්වාන් රෝහලේ ළමුන් 15දෙනෙකු මන්දපෝෂණයෙන් සහ විජලනයෙන් මියගොස් ඇති අතර 16 වැනි දරුවා දකුණු දිග රෆා නගරයේ රෝහලකදී සාගින්නෙන් මියගොස් තිබේ.
+
+...
+
+[Data](articles/60e1ddab.json)
+
+---
+
+### චීනයෙන් ලෝකයට පණිවුඩයක්
+
+*2024-03-05 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194166) · `si`
+
+14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය අද (05) උදෑසන බෙයිජිං හිදී ආරම්භ විය.
+
+චීන ජනාධිපති ෂී ජින්පින් ඇතුළු චීන කොමියුනිස්ට් පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 2900ක පමණ පිරිසක් මෙම සමාරම්භක උත්සවයට එක්ව සිටියහ.
+
+මෙම දෙවැනි සැසිවාරයේ දී චීන අග්‍රාමාත්‍යවරයා 2024 රාජ්‍ය කාර්ය වාර්තාව ඉදිරිපත් කළේය.
+
+කොරෝනා වසංගතය පාලනයෙන් පසු තීරණාත්මක ජයග්‍රහණය ලබාගත් චීනය ප්‍රධාන ආර්ථික හා සමාජ සංවර්ධන ඉලක්ක පූර්ණ ලෙස සාක්ෂාත් ක‍ර ගත් බවත් නවීකරණ සමාජවාදී රටක් නිර්මාණය කර ගැනීමට කටයුතු කරමින් සිටින බවත් චීන අග්‍රාමාත්‍යවරයා එහිදී ප්‍රකාශ කර තිබේ.
+
+ඔහු තවදුරටත් පැවසුවේ 2024 දී චීන ආර්ථිකය 5%කින් පමණ වර්ධනය වෙතැයි අපේක්ෂා කරන බවය.
+
+චීන මහජන සමූහාණ්ඩුව ස්ථාපිත කිරීමේ 75වැනි සංවත්සරය මෙම වසරට යෙදී  තිබෙන අතර ‘14වැනි පස් අවුරුදු සැලැස්ම’ ක්‍රියාවට නැංවීමේ තීරණාත්මක වසරක් ලෙසට ද මෙම වසර සැලකේ.
+
+◼️
+
+[Data](articles/dc8c02c8.json)
+
+---
 
 ### Asela Sampath tenders apology to ex-Minister Channan Jayasumana
 
@@ -45,6 +103,8 @@ At the outset of the hearing before the Colombo District Court, Counsel appearin
 ...
 
 [Data](articles/33bb1e2d.json)
+
+[Extended Data](ext_articles/33bb1e2d.ext.json)
 
 ---
 
@@ -122,6 +182,8 @@ Accordingly, it is reported that the two tourists were allegedly assaulted by th
 
 [Data](articles/c755497a.json)
 
+[Extended Data](ext_articles/c755497a.ext.json)
+
 ---
 
 ### Restaurant arrested with drugs
@@ -183,6 +245,8 @@ Most complaints from vehicle users claimed that they are unable to get the maxim
 ◼️
 
 [Data](articles/ebb0848b.json)
+
+[Extended Data](ext_articles/ebb0848b.ext.json)
 
 ---
 
@@ -459,6 +523,8 @@ The firearm in question is suspected to have been used in the shooting of the me
 ...
 
 [Data](articles/3681f2dc.json)
+
+[Extended Data](ext_articles/3681f2dc.ext.json)
 
 ---
 
@@ -965,6 +1031,18 @@ The deadline to submit expressions of interest for SriLankan Airlines has also b
 [Data](articles/322f8d9f.json)
 
 [Extended Data](ext_articles/322f8d9f.ext.json)
+
+---
+
+### කඩුවෙල වෙඩි තැබීමක්
+
+*2024-03-05 13:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-වෙඩි-තැබීමක්/11-408434) · `si`
+
+කඩුවෙල කොරතොට ප්‍රදේශයේ ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැලක් ඉදිරිපිට පුද්ගලයකු  පැමිණි අහසට වෙඩි තබා පලා ගොස් ඇතැයි නවගමුව පොලිසිය පවසයි. අදාල ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැල අසලට තවත් පුද්ගලයකු සමග පැමිණ යතුරු පැදිය මාර්ගය අසල නවත්වා ඉන් බැසවිත් කෑ ගසමින් 38mm වර්ගයේ රිවෝල්වරයක් භාවිතා කරමින් අහස දෙසට වෙඩිල්ලක් තබා පලා ගොස් ඇත. මෙම සිද්ධිය යම්කිසි කප්පම් ගැනීමේ සිද්ධියක් මත සිදු කර ඇතැයි සැක කරන බවද පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/1b730abe.json)
 
 ---
 
@@ -2125,93 +2203,5 @@ Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation 
 [Data](articles/3319148b.json)
 
 [Extended Data](ext_articles/3319148b.ext.json)
-
----
-
-### Import permit frauds threaten essential food supply chain
-
-*2024-03-05 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-permit-frauds-threaten-essential-food-supply-chain/108-278260) · `en`
-
-The members of the Essential Food Commodities and Traders Association yesterday raised concerns with Trade Minister Nalin Fernando about alleged frauds in getting approval by the Agriculture Ministry authorities to import items such as green gram, black gram, Kurakkan, maize and cowpea, Daily Mirror learns.
-
-Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation of these food crops. Later, the ban was lifted allowing such imports into the country subjected to a levy of Rs.300 a kilo and approval from the Agriculture Ministry. President Ranil Wickremesinghe issued the gazette notification in this regard on February 19, 2024. However, an informed source said that obtaining approval from the Ministry for import permits had become fraudulent.
-
-...
-
-[Data](articles/9e81096b.json)
-
-[Extended Data](ext_articles/9e81096b.ext.json)
-
----
-
-### France becomes only country to explicitly guarantee abortion as constitutional right
-
-*2024-03-05 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97734/france-becomes-only-country-to-explicitly-guarantee-abortion-as-constitutional-right) · `en`
-
-French lawmakers on Monday overwhelmingly approved a bill to enshrine abortion rights in France’s constitution, making it the only country to explicitly guarantee a woman’s right to voluntarily terminate a pregnancy.
-
-The historic move was proposed by President Emmanuel Macron as a way to prevent the kind of rollback of abortion rights seen in the United States in recent years, and the vote during a special joint session of France’s parliament drew a long-standing ovation among lawmakers.
-
-The measure was approved in a 780-72 vote in the Palace of Versailles. Abortion enjoys wide support in France across most of the political spectrum, and has been legal since 1975.
-
-Many female legislators in the hall smiled broadly as they cheered. While a small group of protesters stood outside the joint session, there were jubilant scenes of celebrations all over France as women’s rights activists hailed the measure promised by Macron within hours of the Dobbs ruling by the U.S. Supreme Court in 2022.
-
-...
-
-[Data](articles/aab19ccf.json)
-
-[Extended Data](ext_articles/aab19ccf.ext.json)
-
----
-
-### Two persons arrested in the Alari House
-
-*2024-03-05 08:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மப்-பை-நம்பி-அலரி-மாளிகைக்குள்-சென்ற-இருவர்-கைது/175-334212) · `ta`
-
-Two men mistakenly entered the Colombo Allevalli Complex, following Google Map instructions, and were arrested by the Prime Minister's Security Division. They were guided to a barrier near the Alari House but crossed it, leading to their arrest.
-
-🟩
-
-Following the instructions on the Google Map, the Fort Magistrate has granted bail to two men who have mistakenly crossed the Colombo Allevalli Complex.
-
-Following the incident, police said that the men and the sea were arrested.
-
-It is said that the two had gone to the night hotel in Kalupitiya and tried to return to the shelter on Muharndra Road and relied on the Google map.
-
-However, the guidelines have guided them to go to a barrier near the roundabout of the Alary House. In an attempt to find their way, they crossed the wall and indifferently entered the Alarm Galleus.
-
-Meanwhile, the two persons of the Prime Minister's Security Division have arrested the two men and handed over to the Kaluppitti police.
-
-◼️
-
-[Data](articles/01e31f92.json)
-
-[Extended Data](ext_articles/01e31f92.ext.json)
-
----
-
-### Two persons arrested in Google
-
-*2024-03-05 08:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூகுள்-மப்-பைநம்பி-அலரி-மாளிகைக்குள்-சென்ற-இருவர்-கைது/175-334212) · `ta`
-
-Two men mistakenly entered the Colombo Allevalli Complex, guided by Google Maps, and were arrested by the Prime Minister's Security Division. They were trying to return to a shelter on Muharnda Road but ended up in the Alarm Galleus.
-
-🟩
-
-Following the instructions on the Google Map, the Fort Magistrate has granted bail to two men who have mistakenly crossed the Colombo Allevalli Complex.
-
-Following the incident, police said that the men and the sea were arrested.
-
-It is said that the two had gone to the night hotel in Kalupitiya and tried to return to the shelter on Muharndra Road and relied on the Google map.
-
-However, the guidelines have guided them to go to a barrier near the roundabout of the Alary House. In an attempt to find their way, they crossed the wall and indifferently entered the Alarm Galleus.
-
-Meanwhile, the two persons of the Prime Minister's Security Division have arrested the two men and handed over to the Kaluppitti police.
-
-◼️
-
-[Data](articles/3771ede8.json)
-
-[Extended Data](ext_articles/3771ede8.ext.json)
 
 ---

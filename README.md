@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 21:17:38**
+As of **2024-03-05 21:33:12**
 
 ## Newspaper Stats
 
-*Scraped **11,057** Articles*
+*Scraped **11,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ tamilmirrorlk | 1,345
 adaderanalk | 1,348
 virakesarilk | 1,491
 dailymirrorlk | 1,689
-adaderanasinhalalk | 1,731
+adaderanasinhalalk | 1,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,056 (100.0%) of 11,057 articles have been extended.
+11,057 (100.0%) of 11,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### பெருந்தோட்ட மக்களின் உழைப்புக்கு ஏற்ற சம்பளத்தை பெற்றுக்கொடுக்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - வடிவேல் சுரேஷ்
+### Facebook Instagram සහ  Messenger බිඳ වැටේ
+
+*2024-03-05 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194179) · `si`
+
+ලොව ප්‍රධානතම සමාජ මාධ්‍ය ජාල අතර ඉදිරියෙන් ඇති Facebook, Instagram සහ Messenger ජාල බිඳවැටී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/30db120d.json)
+
+---
+
+### Vadivel Suresh should take steps to get the salaries of plantation people - Vadivel Suresh
 
 *2024-03-05 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178008) · `ta`
 
-மலையக பிரதேசங்களில் பணியாற்றும் அரச உத்தியோகத்தர்கள் இடமாற்றங்களை விடுத்து மனமாற்றங்களை ஏற்படுத்திக்கொள்ள வேண்டும். பெருந்தோட்ட மக்களுக்கு உழைப்புக்கு ஏற்ற சம்பளத்தை தோட்ட கம்பனிகளுக்கு வழங்க முடியாது என்றால் அவர்கள் பெருந்தோட்டங்களை விட்டு வெளியேற வேண்டும், தோட்டங்களை நிர்வகிக்க எமக்கு முடியும் என எதிர்க்கட்சி உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+Vadivel Suresh calls for plantation companies to pay salaries or vacate, criticizes delayed land rights and racism, and demands better development programs for hill country.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல்வாங்கல்கள் சட்டமூலம், நம்பிக்கைப்பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச்) சட்டமூலம், ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்குவிடுதல் (திருத்தச்) சட்டமூலம் மீதான இரண்டாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+Public officials working in the hill country should make transfers. Opposition member Vadivel Suresh said that if the plantation companies cannot afford the salaries of the plantation people, they should leave plantations and manage the gardens.
+
+He said this while addressing the second day debate on the Bind Receivables Bill, Trusting Receivables (Amendment) Bill, Amendment (Amendment) Bill, Financial Leasing (Amendment) Bill.
+
+Public Officers who serve in the hill country should take the transfers and make a better service.. I am demanding more concern during the development programs in the mountain plantation and that the people should be open to the people there.
 
 ...
 
 [Data](articles/71dab074.json)
+
+[Extended Data](ext_articles/71dab074.ext.json)
 
 ---
 
@@ -2215,29 +2235,5 @@ They are urging the government to reverse the Cabinet paper that proposes to red
 [Data](articles/a85d0acd.json)
 
 [Extended Data](ext_articles/a85d0acd.ext.json)
-
----
-
-### Vocational training for high -quality students
-
-*2024-03-05 11:42:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தர-மாணவர்களுக்கு-தொழில்-பயிற்சி/175-334220) · `ta`
-
-The Ministry of Education launches a vocational training program for GCE Advanced Level students today, offering English, guidance, or professional lessons. Minister Susil Premajayantha aims to equip students with knowledge, attitude, and skills.
-
-🟩
-
-The Ministry of Education has pointed out that the program of providing vocational training for students who appeared for the GCE Advanced Level Examination this year will commence today (05).
-
-The Ministry of Education has asked the students to come to the respective centers before 2 pm.
-
-It provides an opportunity to study an English language, guidance or a professional lesson for your choice.
-
-In addition, the Minister of Education, Susil Premajayantha, is expected to perform children with knowledge, attitude and skills through this proposed educational reform.
-
-◼️
-
-[Data](articles/d70fc886.json)
-
-[Extended Data](ext_articles/d70fc886.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 17:17:33**
+As of **2024-03-05 17:33:58**
 
 ## Newspaper Stats
 
-*Scraped **11,020** Articles*
+*Scraped **11,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 931
-adaderanalk | 1,342
 tamilmirrorlk | 1,343
+adaderanalk | 1,344
 virakesarilk | 1,480
 dailymirrorlk | 1,680
 adaderanasinhalalk | 1,724
@@ -26,23 +26,61 @@ adaderanasinhalalk | 1,724
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,019 (100.0%) of 11,020 articles have been extended.
+11,020 (100.0%) of 11,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### ශිෂ්‍ය විරෝධයට පොලීසියෙන් කඳුළු ගෑස්
+### Police tear gas in student protest
 
 *2024-03-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194169) · `si`
 
-කොළඹ විශ්වවිද්‍යාලය ඉදිරිපිට මාර්ගය අවහිර කරමින් අද (05) පස්වරුවේ පැවැති ශිෂ්‍ය සංගම් විරෝධතාවට පොලීසිය කඳුළු ගෑස් සහ ජල ප්‍රහාර එල්ලකර තිබේ.
+Police used tear gas and water cannons during student protests near the University of Colombo and the Ministry of Sports.
 
-කොළඹ ක්‍රීඩා අමාත්‍යාංශය ඉදිරිපිටදී මෙලෙස කඳුළු ගෑස් සහ ජල ප්‍රහාර එල්ලකර ඇති බව වාර්තා වෙයි.
+🟩
+
+Tear gas and water attacks have been attacked by the police stating the road in front of the University of Colombo.
+
+Tear gas and water attacks have been reported in front of the Ministry of Sports of Colombo.
 
 ◼️
 
 [Data](articles/30a5e705.json)
+
+[Extended Data](ext_articles/30a5e705.ext.json)
+
+---
+
+### Cabinet nod to develop Galle Harbour for commercial and recreation activities
+
+*2024-03-05 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97747/cabinet-nod-to-develop-galle-harbour-for-commercial-and-recreation-activities) · `en`
+
+The Cabinet of Ministers has green-lighted a proposal to develop the Galle Harbour for commercial and recreation activities.
+
+Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has furnished the proposal seeking to invite aspirations/proposals to select an investor for the proposed project for developing the Galle Harbour.
+
+Accordingly, the selected investor will be tasked with construction, monitoring and handing over after investing in construction development work of the water break, deep water passenger shaft, retention wall, oceanic wall, excavation of channels, and oceanic structures related to land filing as well as post mixed-development activities of the filled lands.
+
+...
+
+[Data](articles/a3af019f.json)
+
+---
+
+### Tear gas fired at protesting uni students in Colombo
+
+*2024-03-05 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97746/tear-gas-fired-at-protesting-uni-students-in-colombo) · `en`
+
+UPDATE (4.58 p.m.) : Police have used tear gas and water cannons to disperse protesting students near the Colombo University, a short while ago.
+
+Earlier, it was reported that the road in front of the University of Colombo has reportedly been closed to traffic due to a protest by a group of university students.
+
+Ada Derana reporter said that severe traffic congestion has been reported in the area due to the protest march launched by the students’ union of the university.
+
+◼️
+
+[Data](articles/7aca1e46.json)
 
 ---
 
@@ -2167,47 +2205,5 @@ Moreover, the newly appointed IGP has a troubling history that casts serious dou
 [Data](articles/261f92ea.json)
 
 [Extended Data](ext_articles/261f92ea.ext.json)
-
----
-
-### Basil returns to Sri Lanka
-
-*2024-03-05 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97735/basil-returns-to-sri-lanka) · `en`
-
-Former Finance Minister Basil Rajapaksa returned to the island from the United States this morning (March 05).
-
-A group of members of Sri Lanka Podujana Peramuna (SLPP) including Minister Prasanna Ranatunga, SLPP General Secretary Sagara Kariyawasam, MP Sarath Weerasekara, were at the Bandaranaike International Airport (BIA) in Katunayake to accord a warm welcome to the party’s founder.
-
-Speaking to the media following his arrival, the former minister said the SLPP has never attempted to mislead the general public.
-
-While asserting that he has no plans to return to the parliament, Rajapaksa said he would continue to guide the SLPP with election preparations.
-
-Changes need to be made where it is needed, he commented further responding to a question raised by a media person
-
-◼️
-
-[Data](articles/2ff26ff5.json)
-
-[Extended Data](ext_articles/2ff26ff5.ext.json)
-
----
-
-### Basil to arrive
-
-*2024-03-05 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194144) · `si`
-
-Basil Rajapaksa arrived in Sri Lanka today, welcomed by MPs and political figures including Chandrasena, Abeygunawardena, Ranatunga, and Fernando.
-
-🟩
-
-Basil Rajapaksa has arrived in Sri Lanka this morning (05).
-
-Sri Lanka Kariya Kariyawasam, Members of Parliament, SM, the MPs of the Sri Lanka Kariya Kariyawasam, the MPs of the Sri Lanka Kariyaweera, to welcome Basil Rajapaksa. Chandrasena, Rohitan Abeygunawardena, Prasanna Ranatunga and Arundika Fernando were also present.
-
-◼️
-
-[Data](articles/74f428b0.json)
-
-[Extended Data](ext_articles/74f428b0.ext.json)
 
 ---

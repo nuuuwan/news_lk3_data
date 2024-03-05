@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 01:33:02**
+As of **2024-03-06 01:50:59**
 
 ## Newspaper Stats
 
-*Scraped **11,102** Articles*
+*Scraped **11,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 575
-dailyftlk | 591
 islandlk | 592
+dailyftlk | 593
 adalk | 936
 tamilmirrorlk | 1,348
 adaderanalk | 1,354
-virakesarilk | 1,501
+virakesarilk | 1,502
 dailymirrorlk | 1,695
 adaderanasinhalalk | 1,735
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,102 (100.0%) of 11,102 articles have been extended.
+11,102 (100.0%) of 11,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### பொருளாதார பாதிப்பு காரணமாக குழந்தை பெற்றுக்கொள்வதை தவிர்த்துள்ள தம்பதிகள் – 2023 ஆம் ஆண்டு இலங்கை  சனத்தொகையில் பாரிய வீழ்ச்சி
+
+*2024-03-06 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178018) · `ta`
+
+பல்வேறு காரணங்களுக்காக 2023 ஆம் ஆண்டு நாட்டின் சனத்தொகையில் பாரிய வீழ்ச்சி ஏற்பட்டுள்ளதாக தொகை மதிப்பு புள்ளி விபர திணைக்களம் தெரிவித்துள்ளது. 2022 ஆம் ஆண்டுடன் ஒப்பிடும் போது இது வீழ்ச்சியை நோக்கி சென்றுள்ளதாக புள்ளி விபரங்கள் தெரிவிக்கின்றன. அதாவது 2022 ஆம் ஆண்டை விட 2023 ஆம் ஆண்டு சனத்தொகையானது 144,395 ஆல் வீழ்ச்சியடைந்துள்ளது. இதற்கு இறப்பு வீத அதிகரிப்பு மற்றும் சிசு மரண வீதங்கள் காரணங்களாக காட்டப்பட்டாலும் பொருளாதார நெருக்கடி மிகப்பிரதான உள்ளதை அறியக்கூடியதாகவுள்ளது.
+
+அதாவது கொரோனாவுக்குப் பிறகு 2021,2022,2023 ஆம் ஆண்டுகளில் திருமணம் முடித்தவர்கள் குழந்தைப் பேற்றை பிற்போட்டுள்ளதாக புள்ளி விபரங்கள் தெரிவிக்கின்றன. அதே வேளை பொருளாதார நெருக்கடி காரணமாக நாட்டை விட்டு வெளியேறியோர் கடந்த வருடம் அதிகரித்துள்ளமையும் சுட்டிக்காட்டப்பட்டுள்ளது. சிலர் தொழில் தேடி சென்றுள்ள அதே வேளை பலர் நாட்டை விட்டே புலம்பெயர்ந்துள்ளனர்.
+
+...
+
+[Data](articles/9d1f2213.json)
+
+---
+
+### Militarisation: Something old; something new
+
+*2024-03-06 01:19:31* · [`dailyftlk`](https://www.ft.lk/columns/Militarisation-Something-old-something-new/4-759217) · `en`
+
+If dignity was what the retired general was after, higher pensions/benefits to lower rank retirees would have served better (especially the disabled/seriously injured)
+
+“Are we so morally sick, so deaf and dumb and blind, that we do not understand this?”
+
+In 2023, bankrupt Sri Lanka added $ 16.6 billion to its central government debt, an increase of 21%.
+
+Sri Lanka ranks a high 43 in Global Militarisation Index and a low 83 in Social Progress Index. When it comes to militarisation, Sri Lanka outranks most developed countries. We also outrank our neighbours, including India (77); only Pakistan, at 44, is slightly ahead of us.
+
+...
+
+[Data](articles/22326897.json)
+
+---
+
+### Adani wind project in Mannar and ecological threats
+
+*2024-03-06 01:13:23* · [`dailyftlk`](https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216) · `en`
+
+The panellists viewed Mannar as a pristine location and failed to acknowledge the serious
+
+Having attended the 27 February WNPS hosted media conference that highlighted ecological threats faced in Mannar due to the proposed wind farm development by the Adani group, I am sharing my views below:
+
+First, I wish to present the synopsis of a public lecture titled, “Mannar Wind Power and Avian Issues” that I delivered seven years ago at the Institution of Engineers SL on 2 March 2017:
+
+Meeting the growing electric power demand presents Sri Lanka with challenging options. Rapid expansion of wind power capacity can help to reduce coal-based power generation that undermines national energy security and harms the environment.
+
+...
+
+[Data](articles/8a2c57aa.json)
+
+---
 
 ### Multidimensional challenges unique to Sri Lankan households in each district
 
@@ -2213,77 +2263,5 @@ This latest move, the team management believes, will encourage players to perfor
 [Data](articles/dbbe23ce.json)
 
 [Extended Data](ext_articles/dbbe23ce.ext.json)
-
----
-
-### Government approves meals at Rs. 110 per student
-
-*2024-03-05 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-meals-at-Rs-110-per-student/108-278277) · `en`
-
-Colombo, March 5 (Daily Mirror) - The government approves providing meals for Rs. 110 per student under the School Food Programme.
-
-Accordingly, the Cabinet granted approval for the resolution furnished by the Minister of Education to increase the amount spent for a meal for a student up to Rs. 110 and to implement the ‘School Food Programme’ for 170 days within 2024 for students in the primary division.
-
-The food programme will be implemented for students from Grades 1 to 5 in government schools.
-
-Addressing the media at the weekly Cabinet decisions briefing, Cabinet spokesman and Minister Bandula Gunawadana said the School Food Programme is implemented in 7,902 schools in 100 education zones in the island, covering a total of 1.08 million students.
-
-Earlier, approval was granted to provide an amount of Rs. 85 per day for a meal for each student.
-
-...
-
-[Data](articles/476d2e03.json)
-
-[Extended Data](ext_articles/476d2e03.ext.json)
-
----
-
-### Speaker warned MPs
-
-*2024-03-05 14:54:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்களை-எச்சரித்தார்-சபாநாயகர்/175-334231) · `ta`
-
-MP Mahinda Yapa Abeywardena warns MPs against criticizing senior government officials, suggesting that such comments will be removed from Hansard. He argues that MPs cannot respond to allegations against civil servants and suggests summoning officials to Parliament for investigation.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena, who pointed out that he had received complaints from senior government officials that MPs were making unfair allegations against him, have asked MPs to avoid criticizing these officials.
-
-“Critical comments made by MPs on civil servants will be removed from Hansard in the future.”
-
-“MPs criticize them is unreasonable as they have no way to respond to allegations against civil servants. If any MPs are to investigate a public official, they can summon such officials to Parliament, ”he said.. Said.
-
-◼️
-
-[Data](articles/73acdef3.json)
-
-[Extended Data](ext_articles/73acdef3.ext.json)
-
----
-
-### Asela Sampath says Channa Jayattha does not insult again
-
-*2024-03-05 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194161) · `si`
-
-Professor Channa Jayasumana regrets insulting a compensation case at the Colombo District Court, which has been settled without further insults. The case involved Asela Sampath, who was involved in the Criminal Investigation Department, and was defended by attorneys including Tissa Velragoda.
-
-🟩
-
-Professor Channa Jayasumana has expressed regret that Asela resources have taken place at the Colombo District Court that he had insulted the compensation case filed by the Colombo District Court.
-
-Further, the case has been settled with the fact that there is no insult based on it again.
-
-A statement made by the next year, the next year's statement, the next year, the next year, the next year's statement had been purchased in the Kotte and then a live video and then based on it.Parliamentarian Channa Jayasena had been handed over to the case.
-
-Prof. Channna Jayasumana had previously said that the statement of such value is not known to be demanded depending on such value of such value or any other place in Kotte or anywhere.
-
-Mr. Asela Sampath was involved in the Criminal Investigation Department, MP Jayasehana complained about it.
-
-Attorneys-at-Law Tissa Velragoda also appeared on behalf of Professor Channa Jayasumna.
-
-◼️
-
-[Data](articles/b9db6b32.json)
-
-[Extended Data](ext_articles/b9db6b32.ext.json)
 
 ---

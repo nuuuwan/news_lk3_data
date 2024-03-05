@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-05 16:49:21**
+As of **2024-03-05 17:02:53**
 
 ## Newspaper Stats
 
-*Scraped **11,017** Articles*
+*Scraped **11,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 569
 dailyftlk | 584
 islandlk | 592
 adalk | 931
-adaderanalk | 1,340
+adaderanalk | 1,342
 tamilmirrorlk | 1,343
 virakesarilk | 1,480
 dailymirrorlk | 1,680
@@ -26,67 +26,117 @@ adaderanasinhalalk | 1,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,013 (100.0%) of 11,017 articles have been extended.
+11,017 (100.0%) of 11,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-05 (Tuesday)
 
-### කොළඹ සරසවිය ඉදිරිපිට මාර්ගය හදිසියේ වසයි
+### Road closed due to protest by uni students in Colombo
+
+*2024-03-05 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97746/road-closed-due-to-protest-by-uni-students-in-colombo) · `en`
+
+The road in front of the University of Colombo has reportedly been closed to traffic due to a protest by a group of university students.
+
+Ada Derana reporter said that severe traffic congestion has been reported in the area due to the protest march launched by the students’ union of the university.
+
+◼️
+
+[Data](articles/a41379d4.json)
+
+---
+
+### Road in front of the University of Colombo is sudden
 
 *2024-03-05 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194168) · `si`
 
-කොළඹ විශ්වවිද්‍යාලය ඉදිරිපිට මාර්ගය හදිසියේ වසා දැමීමට පියවර ගෙන තිබේ.
+Steps to close the road in front of the University of Colombo due to protest traffic congestion.
 
-ඒ, ශිෂ්‍ය සංගම්වල විරෝධතාවයක් හේතුවෙන් අදාළ මාර්ගයේ ඇතිවී තිබෙන දැඩි රථවාහන තදබදය හේතුවෙනි.
+🟩
+
+Steps have been taken to close the road in front of the University of Colombo.
+
+It is due to the strict traffic congestion caused by a protest in student unions.
 
 ◼️
 
 [Data](articles/2bcd6de0.json)
 
+[Extended Data](ext_articles/2bcd6de0.ext.json)
+
 ---
 
-### කුසගින්නේ මියයන පලස්තීන දරුවෝ
+### Hunger Dying Palestinian Children
 
 *2024-03-05 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194167) · `si`
 
-මාස 05ක් තිස්සේ ඊශ්‍රායල සම්බාධකවලට සහ නොනවතින ප්‍රහාරයන්ට ලක් වූ උතුරු ගාසා තීරයේ පලස්තීන දරුවන් සාගින්නෙන් මියයන බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
+The World Health Organization reports severe malnutrition and dehydration among Palestinian children in Gaza, with 15 children killed and 16 in hospitals. Tedros Adhanom Ghebreyesus, WHO Director-General, calls the situation tragic and requests Israeli government intervention to protect civilians. The UNHRC suspects the Nova musical shows are suspicious.
 
-පසුගිය ඔක්තෝබර් මාසයෙන් පසු ප්‍රථම වරට ලෝක සෞඛ්‍ය සංවිධානයේ නියෝජිත පිරිසක් උතුරු ගාසා තීරයේ අල්-අවුදා සහ කමාල්-අද්වාන් රෝහල්වල නිරීක්ෂණ චාරිකාවක නිරත වී තිබුණි.
+🟩
 
-එහිදී හෙළිදරව් වූ දෑ අතිශය ඛේදජනක බව ලෝක සෞඛ්‍ය සංවිධානයේ ප්‍රධානී ටෙඩ්‍රොස් ඇඩනම් ගෙබ්‍රියේසස් සඳහන් කළේය.
+The World Health Organization says that the Palestinian children in the north Gaza die for five months of attacks for five months.
 
-ආහාර නොමැතිවීම නිසා කමාල් අද්වාන් රෝහලේ ළමුන් දස දෙනෙකුවත් මියගොස් ඇති බවත්, විදුලිය නොමැතිවීම නිසා එම රෝහල් ක්‍රියාකාරීත්වය මෙන්ම රෝගීන් ද අනතුරට ලක්වන බවත් ලෝක සෞඛ්‍ය සංවිධානයේ ප්‍රධානියා "x" අවකාශයේ සටහනක් තබමින් ප්‍රකාශ කළේය.
+For the first time since October last October, a group of World Health Organization has visited al-mornado and Kamal experiences in the North Gazaka.
 
-එමෙන්ම විශේෂයෙන් ළමුන් ඇතුළු ගාසා තීරයේ සිවිල් වැසියන්ට මානුෂීය ආධාර ආරක්ෂිතව, අඛණ්ඩව ලබාදීම සඳහා ඉඩ සලසන ලෙස ඔහු ඊශ්‍රායල රජය වෙතින් ඉල්ලීමක් ද කළේය.
+The head of the World Health Organization, Tedrosus, the Head of the World Health Organization said that the revelation was very tragic.
 
-හමාස් සෞඛ්‍ය අමාත්‍යාංශය ප්‍රකාශ කළ පරිදි කමාල්-අද්වාන් රෝහලේ ළමුන් 15දෙනෙකු මන්දපෝෂණයෙන් සහ විජලනයෙන් මියගොස් ඇති අතර 16 වැනි දරුවා දකුණු දිග රෆා නගරයේ රෝහලකදී සාගින්නෙන් මියගොස් තිබේ.
+The head of the World Health Organization has said that the hospitality of the "X" is a note of the "X" space that the hospitality is in danger due to lack of food and the lack of electricity.
+
+He also requested the Israeli government to allow human assistance to protect civilians in the Gaza, especially children.
+
+According to the Ministry of Health, 15 children were killed in Malnutrition and Dehydration, while the 16th child died in a hospital in the southern Rapa.
 
 ...
 
 [Data](articles/60e1ddab.json)
 
+[Extended Data](ext_articles/60e1ddab.ext.json)
+
 ---
 
-### චීනයෙන් ලෝකයට පණිවුඩයක්
+### Sri Lanka’s export earnings record marginal drop in January
+
+*2024-03-05 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97745/sri-lankas-export-earnings-record-marginal-drop-in-january) · `en`
+
+Sri Lanka’s earnings from merchandise exports in January 2024 amounted to USD 970.7 million, marking a decline of 0.77% as opposed to the corresponding month last year, according to the Export Development Board (EDB).
+
+Compared to January 2023, agricultural exports have shown a ‘modest increase’ of 3.58%, reaching USD 225.43 million in January 2024, with export earnings from tea, rubber and rubber-furnished products, coconut0-based products showing positive growth, the EDB said in a press release.
+
+However, industrial exports have experienced a decline of 2.08% during the same period, dropping to USD 744.77 million, with earnings from apparel and textile, spices and essential oils, electrical and electronic components, diamonds, gems and jewellery witnessing negative growth.
+
+With regard to Sri Lanka’s performance in its top 15 major export markets, the EDB said Italy, Germany, and Canada have shown positive growth in January 2024 in comparison to the corresponding month last year.
+
+...
+
+[Data](articles/6a8d8fe3.json)
+
+---
+
+### Message to the world from China
 
 *2024-03-05 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194166) · `si`
 
-14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය අද (05) උදෑසන බෙයිජිං හිදී ආරම්භ විය.
+The 2nd session of the 14th Chinese People's Congress opened in Beijing, with Chinese President Xi Jinping and 2900 representatives present. The Prime Minister presented the State Action Report 2024, highlighting China's achievements in economic and social development post-pandemic, aiming for a 5% economy growth in 2024. The year marks the 75th anniversary of the People's Republic of China, focusing on the "Five Year Plan".
 
-චීන ජනාධිපති ෂී ජින්පින් ඇතුළු චීන කොමියුනිස්ට් පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 2900ක පමණ පිරිසක් මෙම සමාරම්භක උත්සවයට එක්ව සිටියහ.
+🟩
 
-මෙම දෙවැනි සැසිවාරයේ දී චීන අග්‍රාමාත්‍යවරයා 2024 රාජ්‍ය කාර්ය වාර්තාව ඉදිරිපත් කළේය.
+The second session of the 14th Chinese People Congress began in Beijing this morning.
 
-කොරෝනා වසංගතය පාලනයෙන් පසු තීරණාත්මක ජයග්‍රහණය ලබාගත් චීනය ප්‍රධාන ආර්ථික හා සමාජ සංවර්ධන ඉලක්ක පූර්ණ ලෙස සාක්ෂාත් ක‍ර ගත් බවත් නවීකරණ සමාජවාදී රටක් නිර්මාණය කර ගැනීමට කටයුතු කරමින් සිටින බවත් චීන අග්‍රාමාත්‍යවරයා එහිදී ප්‍රකාශ කර තිබේ.
+Chinese Communist Party, including the Chinese President Xi Ginepin, and about 2900 representatives of the Chinese Communist Party and the National People's Congress as well as representatives of the National People's Congress were also present.
 
-ඔහු තවදුරටත් පැවසුවේ 2024 දී චීන ආර්ථිකය 5%කින් පමණ වර්ධනය වෙතැයි අපේක්ෂා කරන බවය.
+The Prime Minister of the Chinese Prime Minister presented the State Action Report 2024 at the second session.
 
-චීන මහජන සමූහාණ්ඩුව ස්ථාපිත කිරීමේ 75වැනි සංවත්සරය මෙම වසරට යෙදී  තිබෙන අතර ‘14වැනි පස් අවුරුදු සැලැස්ම’ ක්‍රියාවට නැංවීමේ තීරණාත්මක වසරක් ලෙසට ද මෙම වසර සැලකේ.
+The Prime Minister of the Chinese Prime Minister has stated that China has achieved the main economic and social development goals of the Korona epidemic.
+
+He added that in 2024, the Chinese economy is expected to increase by 5%.
+
+The year 75th anniversary of the establishment of the People's Republic of China is also considered a decisive year to implement the '' 'Five Year Plan.
 
 ◼️
 
 [Data](articles/dc8c02c8.json)
+
+[Extended Data](ext_articles/dc8c02c8.ext.json)
 
 ---
 
@@ -1034,15 +1084,21 @@ The deadline to submit expressions of interest for SriLankan Airlines has also b
 
 ---
 
-### කඩුවෙල වෙඩි තැබීමක්
+### Kaduwela Shooting
 
 *2024-03-05 13:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවෙල-වෙඩි-තැබීමක්/11-408434) · `si`
 
-කඩුවෙල කොරතොට ප්‍රදේශයේ ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැලක් ඉදිරිපිට පුද්ගලයකු  පැමිණි අහසට වෙඩි තබා පලා ගොස් ඇතැයි නවගමුව පොලිසිය පවසයි. අදාල ගොඩනැගිලි ද්‍රව්‍ය අලෙවි සැල අසලට තවත් පුද්ගලයකු සමග පැමිණ යතුරු පැදිය මාර්ගය අසල නවත්වා ඉන් බැසවිත් කෑ ගසමින් 38mm වර්ගයේ රිවෝල්වරයක් භාවිතා කරමින් අහස දෙසට වෙඩිල්ලක් තබා පලා ගොස් ඇත. මෙම සිද්ධිය යම්කිසි කප්පම් ගැනීමේ සිද්ධියක් මත සිදු කර ඇතැයි සැක කරන බවද පොලිසිය පවසයි.
+A person in Korathota, Karattota, was involved in a shooting incident with a shopkeeper, suspected of extortion.
+
+🟩
+
+Navagamuwa Police say that a person arrived in front of a shopkeeper in Korathota, Karattota. The building materials came with another person to the sales plan and stopped the motorcycle and stopped the route and shouting and shouting and shouting and shouting and shouting with the sky to flee. The incident is suspected that the incident has been done on an extortion.
 
 ◼️
 
 [Data](articles/1b730abe.json)
+
+[Extended Data](ext_articles/1b730abe.ext.json)
 
 ---
 
@@ -2163,45 +2219,5 @@ The Prime Minister's Security Division has arrested the two officials and handed
 [Data](articles/b1345fde.json)
 
 [Extended Data](ext_articles/b1345fde.ext.json)
-
----
-
-### For all the respected citizens of loving Sri Lanka ...
-
-*2024-03-05 09:13:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அன்பான-இலங்கையின்-அனைத்து-மரியாதைக்குரிய-குடிமக்களுக்கும்/175-334213) · `ta`
-
-Dr. Nandalal Weerasinghe and Mr. Jayantha Kovilkodake discuss the need for central bank officials in Sri Lanka to broaden their understanding beyond economics, including social sciences and human behavior, to mitigate social unrest. They highlight the Central Bank of Sri Lanka's role in affecting social development indicators and criticize the focus on data over human factors. They also discuss historical salary policies and their impacts, urging the Governor of CBSL to consider social and moral implications in decision-making.
-
-🟩
-
-In the conversation between Dr. Nandalal Weerasinghe and Mr. Jayantha Kovilkodake, we would like to raise some of the unprecedented things.
-
-Central bank officials must have a wider understanding than the economy.Their education must include social science, such as human behavior to understand the social impacts of sociology, peace and conflict studies and the social impacts of their decisions.
-
-The current decision -making process is the risk of maintaining social unrest due to lack of this broader understanding.This recent incident, which was brought to light through social media, illustrates this.
-
-The Central Bank of Sri Lanka, which is considered a professional organization that supports policymakers, has contributed to the current economic situation to affect other social development indicators.
-
-...
-
-[Data](articles/626c8921.json)
-
-[Extended Data](ext_articles/626c8921.ext.json)
-
----
-
-### Import Permit frauds threaten essential food supply chain
-
-*2024-03-05 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-Permit-frauds-threaten-essential-food-supply-chain/108-278260) · `en`
-
-The members of the Essential Food Commodities and Traders Association yesterday raised concerns with Trade Minister Nalin Fernando about alleged frauds in getting approval by the Agriculture Ministry authorities to import items such as green gram, black gram, Kurakkan, maize and cowpea, Daily Mirror learns.
-
-Sri Lanka imposed a ban on imports earlier in a move to boost local cultivation of these food crops. Later, the ban was lifted allowing such imports into the country subjected to a levy of Rs.300 a kilo and approval from the Agriculture Ministry. President Ranil Wickremesinghe issued the gazette notification in this regard on February 19, 2024. However, an informed source said that obtaining approval from the Ministry for import permits had become fraudulent.
-
-...
-
-[Data](articles/3319148b.json)
-
-[Extended Data](ext_articles/3319148b.ext.json)
 
 ---

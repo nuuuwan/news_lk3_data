@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 23:02:57**
+As of **2024-03-06 23:17:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,328 (100.0%) of 11,331 articles have been extended.
+11,331 (100.0%) of 11,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### ஜனாதிபதி - முஸ்லிம் எம்.பி.க்களுக்கிடையில் விசேட சந்திப்பு
+### A special meeting between President - Muslim MPs
 
 *2024-03-06 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178123) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் முஸ்லிம் பாராளுமன்ற உறுப்பினர்களுக்கிடையிலான விசேட சந்திப்பொன்று புதன்கிழமை (6) பாராளுமன்ற கட்டடத் தொகுதியில் இடம்பெற்றுள்ளது.
+President Ranil Wickremesinghe met with Muslim MPs on Wednesday to discuss the 13th Amendment, addressing issues like teacher transfers, civil service appointments, land disputes, and educational development in the Eastern Province.
 
-அரசியலமைப்பின் 13ஆவது திருத்தத்துக்கமைய மாகாணசபைகளுக்கான அதிகாரப்பகிர்வில் பொலிஸ் அதிகாரத்தைத் தவிர ஏனையவற்றை வழங்குவதற்காகப் பாராளுமன்றத்தில் கூட்டு இணக்கப்பாட்டை ஏற்படுத்தப்படுத்தும் நோக்கில் தமிழ் மற்றும் முஸ்லிம் பாராளுமன்ற உறுப்பினர்களை சந்திக்கவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த வாரம் தெரிவித்திருந்தார். அந்த வகையிலேயே புதன்கிழமை (6) இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+🟩
 
-இந்த சந்திப்பில் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், பாராளுமன்ற உறுப்பினர்களான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ், ஏ.எல்.எம்.அதாஉல்லா, எம்.சி. பைசால் காஸிம், செய்யத் அலிஸாஹிர் மௌலானா, சட்டத்தரணி எஸ்.எம்.எம். முஷாரப் முதுனபின் ஆகியோர் கலந்து கொண்டிருந்தனர்.
+A special meeting between President Ranil Wickremesinghe and Muslim MPs was held on Wednesday (6) at the Parliament building.
 
-...
+President Ranil Wickremesinghe said last week that he would meet Tamil and Muslim parliamentarians in Parliament to provide a joint compliance with Parliament to provide all things besides the police authority for the 13th Amendment to the Constitution.. The meeting took place on Wednesday (6).
+
+Eastern Province Governor Senthil Thondaman and Members of Parliament, Attorney -at -Law HMM. Haris, ALM Ataullah, MC. Faisal Qasim, to Alizahir Maulana, Attorney SMM. Musharraf Mudunabin was also present.
+
+The issues facing the Muslim people, the Ampara District Teacher Transfer issue, the appointment of the Eastern Province Civil Administrative Service Officers, the land issues, the permission of the Kattankudy school in the Kattankudy school, and the Batticaloa district education development matters.
+
+◼️
 
 [Data](articles/41f0e48d.json)
+
+[Extended Data](ext_articles/41f0e48d.ext.json)
 
 ---
 
@@ -63,6 +71,8 @@ Established in 2019, ATIRE has rapidly become a leading manufacturer and distrib
 ...
 
 [Data](articles/16f171c9.json)
+
+[Extended Data](ext_articles/16f171c9.ext.json)
 
 ---
 
@@ -109,6 +119,8 @@ Addressing an event organized in Colombo to unveil a stamp for Hatton National B
 ◼️
 
 [Data](articles/3bf2bde5.json)
+
+[Extended Data](ext_articles/3bf2bde5.ext.json)
 
 ---
 

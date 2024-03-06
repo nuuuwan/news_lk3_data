@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 18:09:20**
+As of **2024-03-06 18:21:01**
 
 ## Newspaper Stats
 
-*Scraped **11,278** Articles*
+*Scraped **11,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,38 @@ adalk | 955
 tamilmirrorlk | 1,375
 adaderanalk | 1,379
 virakesarilk | 1,535
-dailymirrorlk | 1,722
+dailymirrorlk | 1,723
 adaderanasinhalalk | 1,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,274 (100.0%) of 11,278 articles have been extended.
+11,278 (100.0%) of 11,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### නුවරඑළිය තැපැල් කාර්යාලය ගැන ස්ථාවරය
+### Station on Nuwara Eliya Post Office
 
 *2024-03-06 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194215) · `si`
 
-නුවරඑළිය තැපැල් කාර්යාලය සංචාරක හෝටලයක් බවට පත්කිරීම සඳහා ගෙන තිබෙන තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන රිට් පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස නීතිපතිවරයා අද (06) අභියාචනාධිකරණය හමුවේ මූලික විරෝධතා මතු කළේය.
+The Attorney General protested the Nuwara Eliya Post Office's plan to transfer to an Indian company, but the decision was not issued. The S. U. B. Appeal was heard by the Court of Appeal with Kadiyadda and Mayadunne Core.
 
-එම තැපැල් කාර්යාලය  ඉන්දියානු සමාගමක් වෙත පැවරීමට සැලසුම් කර ඇති බව අදාළ පෙත්සමෙහි සඳහන් ය.
+🟩
 
-අදාළ පෙත්සම එස්. යූ. බී. කරලියද්ද සහ මායාදුන්නේ කොරයා යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The Attorney General raised the precise protests to be heard without being heard without the issuance of the decision to be a potential for a potential to be a potential for the post office.
+
+The petition states that the post office is planning to hand over the post office to an Indian company.
+
+The petition is the S. U. B. Appeal was called before the Court of Appeal with Kadiyadda and Mayadunne Core.
 
 ◼️
 
 [Data](articles/3f8c61cc.json)
+
+[Extended Data](ext_articles/3f8c61cc.ext.json)
 
 ---
 
@@ -62,21 +68,51 @@ Maldivian Minister Ghassan also reiterated the importance of defence cooperation
 
 [Data](articles/66eadba2.json)
 
+[Extended Data](ext_articles/66eadba2.ext.json)
+
 ---
 
-### ‘පොඩි මැණිකේ’ සිද්ධියට තවත් පිරිසකගේ වැඩ තහනම්
+### Another group suspended for 'Podi Menica' incident
 
 *2024-03-06 17:10:59* · [`adalk`](https://www.ada.lk/breaking_news/‘පොඩි-මැණිකේ’-සිද්ධියට-තවත්-පිරිසකගේ-වැඩ-තහනම්/11-408459) · `si`
 
-ඊයේ 5දා පෙරවරු 5.55ට කොළඹ කොටුව සිට බදුල්ල බලා පිටත්වූ ‘පොඩි මැණිකේ’ පළමු පංතියේ මැදිරියක ප්‍රවේශපත් නොමැතිව ගමන් කළ විදේශිකයන් දෙදෙනෙක්ට නාවලපිටිය දුම්රිය ස්ථානයේදී  පහර දුන් සිද්ධිය සම්බන්ධයෙන් නාවලපිටිය දුම්රිය ස්ථානයේ සේවය කල නිලධාරීන් තිදෙනකුගේ සේවය අත්හිටුවූ බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Department of Railways suspended six officers following the 'Podi Menica' incident, where two foreigners were assaulted at Nawalapitiya Railway Station.
 
-නාවලපිටිය කාර්යභාර නිලධාරී පරීක්‍ෂකවරයා කලහාකාරී සිදුවීමේදී නියමිත රාජකාරි නිසියාකාරව නොකිරීමේ චෝදනාවට සහ එම දුම්රියේ ආරක්‍ෂාව සඳහා යොදවා සිටි ආරක්ෂක නිලධාරීන් දෙදෙනාගේ සේවය ද මෙසේ අත්හිටුවූ බව ද එම දෙපාර්තමේන්තුව කියයි.
+🟩
 
-මෙම සිද්ධිය සම්බ්නධයෙන් දැනට දුම්රිය දෙපාර්තමේන්තුවේ නිලධාරීන් හය දෙනකුගේ සේවය අත්හිටුවීමට දුම්රිය සාමාන්‍යාධිකාරීවරයා මේ වන විට  කටයුතු කළ බව ද එම දෙපාර්තමේන්තුව කියයි.
+The Department of Railways said that two foreigners who had been assaulted in the Nawalapitiya Railway Station
+
+Official Inspector in the Nawalapitiya Farer Password
+
+The Department said that the General Manager of the Railway General (CSE) has taken steps to suspend the service of six officers of the Railway Department.
 
 ◼️
 
 [Data](articles/d090fe81.json)
+
+[Extended Data](ext_articles/d090fe81.ext.json)
+
+---
+
+### Six railway employees suspended over assault on foreigners at Nawalapitiya
+
+*2024-03-06 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-railway-employees-suspended-over-assault-on-foreigners-at-Nawalapitiya/108-278362) · `en`
+
+Colombo, March 6 (Daily Mirror) - Following the incident of assaulting foreigners at the Nawalapitiya Railway Station, six railway employees were suspended for non-performance of their duties, the Railways Department said.
+
+They said the General Manager, Sri Lanka Railways has taken steps to suspend the services of the two security officers employed for the protection of the train.
+
+The incident occurred in the intercity express train that departed for Badulla yesterday morning (5.55 a.m.) from Colombo Fort, where two foreigners did not possess their tickets for class one.
+
+Accordingly, the two security officers were suspended due to the non-performance of their duties.
+
+It was reported that Nawalapitiya railway station employees had allegedly assaulted two tourists and forcibly removed them from the train.
+
+The tourists had allegedly travelled in the first-class compartment, with only one of them possessing a valid ticket.
+
+◼️
+
+[Data](articles/2736f8ce.json)
 
 ---
 
@@ -216,17 +252,25 @@ Police attacked a protest march organized by the Inter University Students Feder
 
 ---
 
-### මියගිය වෛද්‍ය සිසුවා ගේ මරණ පරීක්ෂණයේ සාක්ෂී
+### Death medical student witnesses evidence
 
 *2024-03-06 16:47:24* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-වෛද්‍ය-සිසුවා-ගේ-මරණ-පරීක්ෂණයේ-සාක්ෂී/11-408457) · `si`
 
-සිද්ධිය වූ දිනයේ නාවලපිටිය රෝහලේ තිබුණු සායනික පුහුණුව හමාර කොට ගල්පොත්ත නමැති ස්ථානයේ නාන්න යමු කියල අප දොළොස් දෙනකු පමණ පිරිසක් කතා වී එහි ගියා . අප පස් දෙනෙකු පමණ එහි ගල්පොත්තක් වැනි ස්ථානයක කකුල් තියාගෙන සිටින විට එක්වරම සමබරතාවය ගිලිහී ගොස් අප ජලයේ ගිලුනා . මම එහි පාරුවක් අල්ලාගෙන සිටියත් ඉසුරු පේන්න හිටියේ නැහැ . අප කෑ ගසා අවටින් උදව් ඉල්ලා සිටියා . ඒ අය වතුරේ කිමිදී ගොස් විනාඩි විස්සකට පසු ඉසුරුව ගොඩට ගෙනාවා .
+A medical student from the University of Peradeniya, who couldn't swim, drowned during a clinical training trip to Nawalapitiya Hospital. Rescuers found him unconscious in the Mahaweli River. Despite efforts, he was pronounced dead at the Peradeniya Teaching Hospital, with the cause of death determined to be oxygen deprivation.
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ සිසුන් කණ්ඩායමක් නවලපිටිය රෝහලේ සායනික පුහුණුවකට ගොස් එය නිමාවීමෙන් පසු මහවැලි ගඟේ අතු ගංගාවක් වූ ගල්පොත්ත නමැති ස්ථානයේ දිය නෑමට ගොස් ජලයේ ගිලි අසාධ්‍ය තත්වයෙන් පෙරදෙණිය ශික්ෂණ රෝහලලේ දින දහයකට ආසන්න කාලයක් දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිට මියගිය ඉසුරු මදුශාන් තිලකරත්න (24) නැමැති සිසුවා සමඟ දියේ ගිලි බේරාගත් පී.එච්. ලසිත් ප්‍රමෝද්‍ය වෛද්‍ය සිසුවා පේරාදෙණිය ශික්ෂණ රෝහලේ හදිසි මරණ පරීක්ෂක අමල් ජයවර්ධන මහතා ඉදිරියේ සාක්ෂි දෙමින් ඒ බව අවධාරණය කළේය .
+🟩
+
+There were about twelve people in the Nawalapitiya hospital and went to Galpoththa, where the clinical training at Nawalapitiya.. At about five of us, when the legs have legs like a rift, we lost and sank us in water. I was holding a streets there, but was not visual. We shouted and asked for help. They brought the Come on the water and brought him to the land of the water.
+
+A group of students of the University of Peradeniya went to clinical training at the Nawaelpitiya Hospital and was taken to a branch of the Mahaweli River.The PH, rescued with the student with the student. The Medical student of Lasith Stress emphasizes witnessing before the Peradeniya Teacher Hospital Amal Jayawardena.
+
+We were both studied in Kingswood College to the Fifth Class. The two us in the same year were the Medical Faculty of the University of Peradeniya. The students who were focused on clinical training to the Nawalapitiya Hospital were included.
 
 ...
 
 [Data](articles/22abf5d6.json)
+
+[Extended Data](ext_articles/22abf5d6.ext.json)
 
 ---
 
@@ -2311,25 +2355,5 @@ Responding to a verbal issue that MP SMM Marikkar, MP Sama Marikkar, responded b
 [Data](articles/cf9dcba9.json)
 
 [Extended Data](ext_articles/cf9dcba9.ext.json)
-
----
-
-### 1 month ban on gold MP
-
-*2024-03-06 11:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-எம்-பிக்கு-1-மாத-கால-தடை/175-334269) · `ta`
-
-Mahinda Yapa Abeywardena suspended Ali Sabri Rahim's parliamentary visit for one month, based on a report submitted by the Committee on Ethics and Privacy on January 24, 2024.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena today announced that Ali Sabri Rahim's parliamentary visit has been suspended for a period of one month.
-
-He said that the suspension was based on the recommendations of the report submitted by Parliament on January 24, 2024 by Chairman of the Committee on Ethics and Privacy.
-
-◼️
-
-[Data](articles/02ae60cf.json)
-
-[Extended Data](ext_articles/02ae60cf.ext.json)
 
 ---

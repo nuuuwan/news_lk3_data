@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 06:53:40**
+As of **2024-03-06 07:16:09**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 1,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,125 (100.0%) of 11,127 articles have been extended.
+11,127 (100.0%) of 11,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### ප්‍රදේශ කිහිපයකට අද වැසි
+### Showers in several areas
 
 *2024-03-06 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194183) · `si`
 
-දකුණු පළාතේත් රත්නපුර සහ කළුතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකිය.
+Showers expected in the Southern Province, Ratnapura, and Kalutara districts, with dry weather elsewhere.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers during the evening or even night in the Southern Province and in the Ratnapura and Kalutara districts.
+
+The Department of Meteorology announced that there was a dry weather in the rest of the island.
+
+In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
 
 ◼️
 
 [Data](articles/be2d46df.json)
 
+[Extended Data](ext_articles/be2d46df.ext.json)
+
 ---
 
-### தாய்ப்பால் புரைக்கேறி குழந்தை உயிரிழப்பு
+### Breastfeeding
 
 *2024-03-06 04:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-புரைக்கேறி-குழந்தை-உயிரிழப்பு/175-334258) · `ta`
 
-இந்தப் சம்பவம் பலாங்கொடை பகுதியில் நேற்று இடம்பெற்றுள்ளது. பலாங்கொடை ஆதார வைத்தியசாலையில் நடத்தப்பட்ட பிரேத பரிசோதனையில் இந்த விடயம் தெரியவந்துள்ளது.
+Autopsy in Balangoda reveals breastfeeding incident details.
+
+🟩
+
+The incident took place yesterday in Balangoda. An autopsy conducted at the Balangoda Resource Hospital revealed this.
 
 ◼️
 
 [Data](articles/51a4c317.json)
+
+[Extended Data](ext_articles/51a4c317.ext.json)
 
 ---
 
@@ -1814,7 +1826,7 @@ The PPP would be on a build operate transfer basis. (Colombo/Mar05/2024)
 
 ---
 
-### Sri Lanka stocks close near thee-month high in high turnover
+### Sri Lanka stocks close near 3-month high in high turnover
 
 *2024-03-05 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-near-thee-month-high-in-high-turnover-153280/) · `en`
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 18:33:16**
+As of **2024-03-06 18:51:16**
 
 ## Newspaper Stats
 
-*Scraped **11,279** Articles*
+*Scraped **11,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ islandlk | 601
 adalk | 955
 tamilmirrorlk | 1,375
 adaderanalk | 1,379
-virakesarilk | 1,535
-dailymirrorlk | 1,723
+virakesarilk | 1,539
+dailymirrorlk | 1,725
 adaderanasinhalalk | 1,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,279 (100.0%) of 11,279 articles have been extended.
+11,279 (99.9%) of 11,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Millennium City case against ASP Udugampola fixed for further defence evidence
+
+*2024-03-06 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Millennium-City-case-against-ASP-Udugampola-fixed-for-further-defence-evidence/108-278364) · `en`
+
+Colombo, March 6 (Daily Mirror) - The Millennium City safe-house case filed against former police officer ASP Kulasiri Udugampola was today fixed for further defence evidence by the Colombo High Court.
+
+When the case came up before High Court Judge Adithya Patabendige, a witness called by defence provided evidence regarding the incident.
+
+The Attorney General had filed indictments against the accused for raiding a safe-house used by Army intelligence personnel at the Millennium City housing scheme I  Athurugiriya on January 02, 2002 and publicised information regarding Army officials and their undercover operations.
+
+The prosecution further alleged that information had been gathered in Colombo, Athurugiriya, Kandy and Katugastota to endanger the country's national security.
+
+◼️
+
+[Data](articles/41d5d612.json)
+
+---
+
+### அமெரிக்க ஜனாதிபதித் தேர்தல் : நிக்கி ஹேலி விலகுகிறார்
+
+*2024-03-06 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178103) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலுக்கான குடியரசுக் கட்சி வேட்பாளருக்கான போட்டியிலிருந்து நிக்கி ஹேலி விலகவுள்ளார் என உள்ளூர் ஊடகங்கள் தெரிவித்துள்ளன.
+
+இதனால், முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் மாத்திரமே குடியரசுக் கட்சியின் எஞ்சியுள்ள ஒரேயொரு போட்டியாளர் ஆவார்.
+
+தென் கரோலினா மாநில முன்னாள் ஆளுநரும் ஐநாவுக்கான அமெரிக்காவின் முன்னாள் தூதுவருமான நிக்கி ஹேலி, தனது தீர்மானத்தை தென் கரோலினா மாநிலத்தின் தலைநகர் சார்ள்ஸ்டனில் உள்ளூர் நேரப்படி இன்று புதன் காலை 10.00 மணிக்கு (இலங்கை, இந்திய நேரப்படி இரவு 8.30) அறிவிக்கவுள்ளார்.
+
+இதுவரை நடைபெற்ற குடியரசுக் கட்சியின் உட்கட்சித் தேர்தல்களில் வொஷிங்டன் டி.சி மற்றும் வேர்மண்ட் மாநிலத்தில் மாத்திரமே நிக்கி ஹேலி வெற்றியீட்டிய நிலையில் அவர் இப்போட்டியிலிருந்து விலகுகிறார்.
+
+◼️
+
+[Data](articles/0160e5fb.json)
+
+---
+
+### பெறுமதி சேர் வரி (திருத்தச்) சட்டமூலம் 24 மேலதிக வாக்குகளால் நிறைவேற்றம்
+
+*2024-03-06 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178102) · `ta`
+
+பெறுமதி சேர் வரி (திருத்தச்) சட்டமூலம் இரண்டாம் மதிப்பீடு மீதான வாக்கெடுப்பு 24 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டது. ஆதரவாக 59 வாக்குகளும் எதிராக 35 வாக்குகளும் அளிக்கப்பட்டன.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற  பெறுமதி சேர் வரி, சமூக அறவீட்டு வரி உள்ளிட்ட வரி சட்டமூலம் மீதான இரண்டாம் மதிப்பீடு மீதான விவாதம் இடம்பெற்றது.இதன்போது பெறுமதி சேர் வரி சட்டமூலத்துக்கு சபை அனுமதி வழங்குகிறதா? என சபாநாயகர் வினவிய போது ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எரான் விக்கிரமரத்ன வாக்கெடுப்பை கோரினார்.
+
+அதன் பிரகாரம் வாக்களிப்பு கோரப்பட்ட போது பெறுமதிசேர் வரி (திருத்தச்) சட்டமூலத்துக்கு ஆதரவாக 59 வாக்குகளும்,எதிராக 35 வாக்குகளும் அளிக்கப்பட்டன. 24 மேலதிக வாக்குகளால் சட்டமூலம் நிறைவேற்றப்பட்டது .
+
+◼️
+
+[Data](articles/a051fb12.json)
+
+---
 
 ### Station on Nuwara Eliya Post Office
 
@@ -69,6 +121,42 @@ Maldivian Minister Ghassan also reiterated the importance of defence cooperation
 [Data](articles/66eadba2.json)
 
 [Extended Data](ext_articles/66eadba2.ext.json)
+
+---
+
+### வடக்கு, கிழக்கு, மலையக மக்களுக்கு எவ்வித பதிலையும் வழங்காது அரசாங்கம் மௌனம் காக்கின்றது - தேசிய மக்கள் சக்தி
+
+*2024-03-06 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178089) · `ta`
+
+வடக்கு, கிழக்கு, மலையக மக்களுக்கு எவ்வித பதிலையும் வழங்காது அரசாங்கம் கள்ள மௌனம் சாதித்துக்கொண்டிருக்கிறது என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவித்தார்.
+
+மக்கள் விடுதலை முன்னணி தலைமையகத்தில் இடம்பெற்ற தேசிய மக்கள் சக்தியின் பெண்கள் அமைப்பின் ஊடகச் சந்திப்பின் போதே அதன் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சரோஜா சாவித்திரி போல்ராஜ் மேற்கண்டவாறு கூறினார்.
+
+எதிர்வரும் 8 ஆம் திகதி 113 ஆவது சர்வதேச மகளிர் தினத்தை தேசிய மக்கள் சக்தியின் பெண்கள் அமைப்பாகிய நாங்கள் கொண்டாடவிருக்கிறோம்.
+
+இத்தருணத்தில் பொருளாதார பின்னடைவை சந்தித்துள்ள நாட்டு மக்கள் அத்தியாவசிய உணவுப் பொருட்களை கொள்வனவு செய்யமுடியாது, மருத்துச் செலவைத் தாங்கிக்கொள்ள முடியாது நெருக்கடியான வாழ்க்கைக்கு முகம்கொடுத்து வருகின்றனர்.
+
+குறிப்பாக 70 இலட்சம் பேர் அதாவது, இலங்கையின் சனத்தொகையில் மூன்றில் இரண்டு பங்கினர் அடுத்தவேளை உணவை பெற்றுக்கொள்வதற்கு போராடிக்கொண்டிருக்கிறார்கள்.
+
+...
+
+[Data](articles/0c694a42.json)
+
+---
+
+### ரமழானை முன்னிட்டு 50 தொன் பேரீச்சம் பழங்கங்களை இலங்கைக்கு வழங்கிய சவுதி அரேபியா
+
+*2024-03-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178092) · `ta`
+
+சவுதி அரேபியாவின் மன்னர் சல்மான் மனிதாபிமான உதவிகள் மற்றும் நிவாரணங்களுக்கான மையம், இரு புனிதஸ்த்தலங்களின் பாதுகாவலர் மன்னர் சல்மான் பின் அப்துல் அசீஸ் அல் ஸுஊத்  நன்கொடையான 50 தொன் பேரீச்சம்பழங்களை, இலங்கை ஜனநாயக சோசலிச குடியரசிற்கு கையளித்தது.
+
+சவூதி அரேபியாவின் இலங்கைக்கான தூதுவர்  கலித் ஹமூத் அல்-கஹ்தானி , புத்த சாசனம் மற்றும் மத கலாசார அமைச்சின் செயலாளர் சோமரத்ன விதானபதிரான மற்றும் முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்களப் பணிப்பாளர் திரு ஸைனுல் ஆபிதீன் முகம்மது பைசல் ஆகியோர்களிடம் இந்த பேரிச்சம்பழங்களை உத்தியோகபூர்வமாக கையளித்தார்.
+
+இது தொடர்பாக கொழும்பிலுள்ள முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்களத்தில் இன்று புதன்கிழமை (06) விஷேட நிகழ்வொன்று இடம் பெற்றது. இந்த விழாவில் மன்னர் சல்மான் மனிதாபிமான உதவி மற்றும் நிவாரணகளுக்கான மையத்தின் அதிகாரிகள், சவுதி அரேபிய இராச்சியத்திற்காக புதிதாக நியமனம் பெற்ற இலங்கைத் தூதுவர் கெளரவ அமீர் அஜவாத் அவர்கள் உட்பட, இலங்கை வெளிவிவகார அமைச்சின் அதிகாரிகள், அரச திணைக்களங்கள் மற்றும் தூதரக அதிகாரிகள் எனப் பலரும் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/9cdb440b.json)
 
 ---
 
@@ -155,6 +243,22 @@ National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr
 [Data](articles/11a9d785.json)
 
 [Extended Data](ext_articles/11a9d785.ext.json)
+
+---
+
+### Ambassadors of six countries meet Anura Kumara
+
+*2024-03-06 17:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambassadors-of-six-countries-meet-Anura-Kumara/108-278361) · `en`
+
+Colombo, March 6 (Daily Mirror)- Ambassadors of six countries met leader of the National People's Power Anura Kumara Dissanayake at the head office of the JVP this afternoon (6), party sources said.
+
+Ambassador of the State of Palestine Dr. Zuhair M.H. Dar Zaid, Ambassador of the Republic of Turkey Ms. R. Demet Sekercioglu, High Commissioner of the Republic of Bangladesh Tareq M.D. Ariful Islam, Ms. Dewi Gustina Tobing, Ambassador of the Republic of Indonesia, Heru Prayitno, Head of Chancery of the Embassy, Badli Hisham Bin Adam Malaysian High Commissioner and Ms. Fathimath Ghina, Acting Ambassador of the Republic of Maldives attended the meeting.
+
+National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr. Rizvie Salih and Muditha Nanayakkara represented the NPP.
+
+...
+
+[Data](articles/5dd74ba1.json)
 
 ---
 
@@ -2229,133 +2333,5 @@ META stocks fell 1.5 percent following the fall of social media sites such as Fa
 [Data](articles/27b47e0c.json)
 
 [Extended Data](ext_articles/27b47e0c.ext.json)
-
----
-
-### It is reasonable to reduce the electricity tariff by 35 percent - Janaka Ratnayake
-
-*2024-03-06 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178046) · `ta`
-
-Janaka Ratnayake, former chairman of the Public Use Commission, suggests reducing the electricity tariff by 35% if the government ensures public distribution of Ceylon Electricity Board profits. He highlights the need for transparency and justification for the proposed reduction, citing the CEB's revenue and the impact of corruption and improper planning.
-
-🟩
-
-As the Chairman of the Public Utilities Commission in 2022, I see the success of my sacrifice that the recommendation of the public welfare proposal was implemented two years later.. However, if the government ensures the public distribution of the profits received by the Ceylon Electricity Board, it is healthy to reduce the electricity tariff by 35 percent, said Janaka Ratnayake, former chairman of the Public Use Commission.
-
-He made this statement during a media briefing held at his private office in Colombo yesterday regarding the permission of the Sri Lanka Public Use Commission to permit the 21.9 per cent power reduction in effect from midnight yesterday (4).
-
-Steps have been taken to reduce electricity tariffs by 21.9 per cent of the public welfare. Nevertheless, it is mandatory for the Ceylon Electricity Board (CEB) to distribute the profits made by the Ceylon Electricity Board (CEB) in the past.. The clarity should be public.
-
-...
-
-[Data](articles/b3a87e7d.json)
-
-[Extended Data](ext_articles/b3a87e7d.ext.json)
-
----
-
-### Basil is not Basil, DH. The Rajapaksas have no power, despite Rajapakse got up
-
-*2024-03-06 11:22:20* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-නෙමෙයි-ඩී-ඒ්--රාජපක්ෂ-නැගිටලා-ආවත්-නැවත්-රාජපක්ෂවරුන්ට-බලයක්-නෑ/11-408443) · `si`
-
-"Basil Rajapaksa's return sparks no enthusiasm among Sri Lankans. Ms. Kaviratne criticizes the government's economic policies, highlighting the electricity bill increase and lack of relief for common people. She suggests a new president is needed."
-
-🟩
-
-"Basil Rajapaksa returned to Sri Lanka again, but the people are not ready to return to the Rajapaksas."
-
-Ms. Kaviratne made this statement at a press conference held in Kaikala, Rattota yesterday (05).
-
-"The electricity bill of the electricity bills by 400 percent of the people. And it was only reduced to the super rich. The farmer did not provide any relief to the prosecutor to the fisherman for the taxi driver. The price of a kilo of paddy is Rs.
-
-Also, the prices of the paddy will be taken to take a soap.. If this government is working today, I have been suspected to prepare the people to return to the president.
-
-The Central Bank officials think of what the law is to increase the stairs on what basis is it ignore.
-
-Whatever anyone says, a new president should be appointed.
-
-◼️
-
-[Data](articles/eeabb2cb.json)
-
-[Extended Data](ext_articles/eeabb2cb.ext.json)
-
----
-
-### 28 thousand penalties for those who exhibited outdated soft drinks in Jaffna
-
-*2024-03-06 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178045) · `ta`
-
-In Jaffna, businesses displaying outdated soft drinks were fined 28,000 rupees. Inspectors raided businesses in Chavakachcheri Nagar and Meesalai, filing cases against two shop owners who were fined 20,000 and 8,000 rupees respectively.
-
-🟩
-
-Businessmen who have displayed an outdated soft drink in Jaffna have been fined 28 thousand rupees.
-
-Public health inspectors were conducting raids at business centers in Chavakachcheri Nagar and Meesalai areas.
-
-At the time, the Chavakachcheri Magistrate's Court has filed a case against two shoplifting owners who have displayed outdated soft drinks.
-
-When the case was taken up for hearing on Tuesday, the two were fiercely warned of the crime, and the two were fined 20 thousand rupees and the other person was sentenced to Rs 08,000.
-
-◼️
-
-[Data](articles/81407c14.json)
-
-[Extended Data](ext_articles/81407c14.ext.json)
-
----
-
-### Additional Health Secretary produced before court
-
-*2024-03-06 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97766/additional-health-secretary-produced-before-court) · `en`
-
-Additional Secretary of the Ministry of Health Dr. Saman Ratnayake was produced before the Maligakanda Magistrate’s Court this morning (March 06).
-
-Rathnayake was arrested by the Criminal Investigation Department (CID) on March 01 in connection with the substandard human immunoglobulin procurement scandal.
-
-◼️
-
-[Data](articles/f7d81883.json)
-
-[Extended Data](ext_articles/f7d81883.ext.json)
-
----
-
-### Saman Ratnayake to appear in court
-
-*2024-03-06 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194195) · `si`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, has been sentenced to the Maligakanda Magistrate's Court.
-
-🟩
-
-Additional Secretary to the Ministry of Health Saman Ratnayake has been sentenced to the Maligakanda Magistrate's Court.
-
-◼️
-
-[Data](articles/28294613.json)
-
-[Extended Data](ext_articles/28294613.ext.json)
-
----
-
-### Given the weights of the central bank employees by grades
-
-*2024-03-06 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194194) · `si`
-
-Prime Minister Dinesh Gunawardena revealed the salaries of the Central Bank of Sri Lanka's employees by grade to parliament. MP SMM Marikkar and MP Sama Marikkar engaged in a verbal exchange.
-
-🟩
-
-Prime Minister Dinesh Gunawardena presented the salaries of the Central Bank of Sri Lanka to parliament today (06).
-
-Responding to a verbal issue that MP SMM Marikkar, MP Sama Marikkar, responded by MP SMM Marikkar.
-
-◼️
-
-[Data](articles/cf9dcba9.json)
-
-[Extended Data](ext_articles/cf9dcba9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 01:17:25**
+As of **2024-03-07 01:33:14**
 
 ## Newspaper Stats
 
-*Scraped **11,338** Articles*
+*Scraped **11,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,134 @@ bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-dailyftlk | 598
+dailyftlk | 601
 islandlk | 601
 adalk | 959
-tamilmirrorlk | 1,378
+tamilmirrorlk | 1,379
 adaderanalk | 1,383
 virakesarilk | 1,549
-dailymirrorlk | 1,729
+dailymirrorlk | 1,731
 adaderanasinhalalk | 1,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,337 (100.0%) of 11,338 articles have been extended.
+11,338 (99.9%) of 11,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### ’முருகன், ரொபட் பயஸை உயிருடன் விடுதலை செய்க’
+### EFL 3PL expands operations in India with launch of flagship distribution centre in Mumbai
+
+*2024-03-07 01:10:33* · [`dailyftlk`](https://www.ft.lk/business/EFL-3PL-expands-operations-in-India-with-launch-of-flagship-distribution-centre-in-Mumbai/34-759241) · `en`
+
+EFL 3PL India Team with EFL Global Team at the Brand Launch DC Opening Ceremony
+
+EFL Global’s Founder/President Hanif Yusoof (right) and Global CEO Senthilnathan Shanmugam unveiling the plaque
+
+Spread across 175,000 sq ft, the company has invested $ 5 m in establishing the state of the art Grade ‘A’ warehousing facility
+
+EFL 3PL, a subsidiary of EFL Global yesterday announced the launch of its flagship Grade A warehousing facility in the vibrant Bhiwandi region of Mumbai.
+
+This strategic expansion, with an investment of $ 5 million, marks a significant milestone in EFL 3PL’s commitment to enhancing its presence in India and solidifying its position as a leader in end-to-end logistics solutions and supply chain management.
+
+...
+
+[Data](articles/e5edfded.json)
+
+---
+
+### Kapruka breaks boundaries with ‘Partner Central’
+
+*2024-03-07 01:07:56* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-breaks-boundaries-with-Partner-Central/34-759240) · `en`
+
+Kapruka.com, Sri Lanka’s leading e-commerce website launched the ‘Kapruka Partner Central’ which provides an enhanced platform for partners to showcase their products and connect with a global audience on 29 February 2024.
+
+The event to launch the platform, which will mark a new era of empowerment and opportunity for partners across the digital space, was held at the Lotus Tower, Colombo.
+
+...
+
+[Data](articles/651682f9.json)
+
+---
+
+### Hocus pocus plans and good plans
+
+*2024-03-07 00:56:58* · [`dailyftlk`](https://www.ft.lk/columns/Hocus-pocus-plans-and-good-plans/4-759238) · `en`
+
+President Wickremesinghe’s forte is announcing hocus pocus plans. Hocus pocus are statements that suggest and insinuate some beneficial outcome but do not explain how the proposed action will deliver any benefits to society. So RW says he will drive economic growth by creating a green economy, and then lets this hang in the air. He does not do two crucial things to give this claim credibility. He does not explain what a green economy is, and how a green economy will drive economic growth and who will benefit.
+
+...
+
+[Data](articles/e05dc2ab.json)
+
+---
+
+### ஹர்ஷ கேள்விக்கு ஜனாதிபதி பதிலடி
+
+*2024-03-07 00:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷ-கேள்விக்கு-ஜனாதிபதி-பதிலடி/175-334306) · `ta`
+
+நான் எவ்வளவு காலம் ஜனாதிபதியாக இருக்கப் போகின்றேன் என்பதற்கு முன்னர் நீங்கள் இன்னும் எவ்வளவு காலத்திற்கு தலைவராக இருக்கப் போகின்றீர்கள் என்பது பிரச்சினையானது என்று அரசாங்க நிதிபற்றிய குழுவின் தலைவரான எதிர்க்கட்சி உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வாவை பார்த்து ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (06) ஹர்ஷ டி சில்வாவினால் ஜனாதிபதியிடம் முன்வைக்கப்பட்ட கேள்வியொன்றுக்கு பதிலளிக்கையிலேயே அவர் இவ்வாறு கூறினார்.
+
+நிதி அமைச்சர் என்ற வகையில் ஜனாதிபதியிடம் சில கேள்விகளை எழுப்புகின்றேன். அதாவது சர்வதேச கடன் மறுசீரமைப்பு தொடர்பான பணிகள் தற்போது முன்னெடுக்கப்பட்டு வருகின்றது. சில மாதங்களே தேர்தலுக்கு உள்ளது. அடுத்து வரும் அரசாங்கம் இது தொடர்பான வேலைத்திட்டங்களை தொடர்ந்து முன்னெடுத்துச் செல்ல காத்திருக்கின்றது. இதனால் பாராளுமன்றத்தில் அங்கம் வகிக்கும் அனைத்துக் கட்சிகளுடனும் இணைந்து இணக்கப்பாட்டை ஏற்படுத்திக்கொள்வது சிறந்தது என்று கருதுகின்றேன்.
+
+...
+
+[Data](articles/4ae36897.json)
+
+---
+
+### Murugan
 
 *2024-03-07 00:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-ரொபட்-பயஸை-உயிருடன்-விடுதலை-செய்க/175-334305) · `ta`
 
-இந்திய சிறையில் இருக்கின்ற முருகன், ரொபட் பயஸ் உள்ளிட்டவர்களையாவது உயிருடன் விடுதலை செய்து   அவர்களுடைய  குடும்பத்தோடு அவர்கள் சேர நடவடிக்கை எடுக்குமாறு தமிழ்நாட்டினுடைய முதலமைச்சர்,  இந்தியப்பிரதமர் மற்றும் இலங்கை அரசிடம் தமிழ் தேசியக்கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான சிவஞானம் சிறிதரன் வேண்டுகோள் விடுத்தார்.
+Sivagnanam Sridharan appeals for the release of Murugan and Robert Paes from Indian jail, highlighting the plight of Shantan, a young man imprisoned and later released, and the unjust killing of Sivanesan by Sri Lankan soldiers.
 
-பாராளுமன்றத்தில் புதன்கிழமை (06) இடம்பெற்ற வரித்திருத்தச் சட்டமூல திருத்தங்கள் மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு வேண்டுகோள் விடுத்தார்.
+🟩
 
-இன்றைய நாள் 16 வருடங்களுக்கு முதல் எங்களுடைய மண்ணிலே மாமனிதர் கிட்டினன் சிவனேசன்  இலங்கையினுடைய படையினரால் ஆழ ஊடுருவும் படை என்ற பெயரில் மிக மறைமுககொலை செய்யப்பட்டிருந்தார் இந்த பாராளுமன்றத்தினுடைய  உறுப்பினராக இருந்த சிவனேசன் அநியாயமாக கொல்லப்பட்டார்.
+The Chief Minister of Tamil Nadu, the Indian Prime Minister and the Government of Sri Lanka to take steps to join their families, including Murugan and Robert Paes, who are in the Indian jail.. Sivagnanam Sridharan appealed.
 
-இதேவேளை இந்தியாவிலேயே சிறையில் அடைக்கப்பட்டு  பின்னர் விடுதலை ஆகியும் கூட வீடு வர முடியாமல் சில நாட்களுக்கு முதல் மரணத்தை தழுவிக் கொண்ட   சாந்தன்னுக்கும் நான் இந்த இடத்திலே எங்களுடைய அஞ்சலிகளை செய்து கொள்கிறேன்
+He appealed to the debate on the amendments to the Taxes Bill on Wednesday (06) in Parliament.
+
+Sivanesan, a member of the parliament, was unjustly killed in the name of a deep infiltration force by Sri Lankan soldiers.
+
+Meanwhile, I am making our tribute to Shantan, who has embraced the first death for a few days without being imprisoned in India and later released.
+
+It is the biggest crisis and a grievance of a young man who left the age of 53 at the age of 20 who was trying to see his mother, to see relatives.
 
 ...
 
 [Data](articles/4b3b93ce.json)
+
+[Extended Data](ext_articles/4b3b93ce.ext.json)
+
+---
+
+### Women belong in All Places where Major Decisions are being made
+
+*2024-03-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Women-belong-in-All-Places-where-Major-Decisions-are-being-made/172-278370) · `en`
+
+...
+
+[Data](articles/65aeb420.json)
+
+---
+
+### “One of the Tests of Leadership is the Ability to Recognize a Problem  before it becomes an Emergency” A Fight for Survival fuelled by ‘Inferior’ Thinking
+
+*2024-03-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/One-of-the-Tests-of-Leadership-is-the-Ability-to-Recognize-a-Problem-before-it-becomes-an-Emergency-A-Fight-for-Survival-fuelled-by-Inferior-Thinking/172-278371) · `en`
+
+Sri Lankans as a whole haven’t read enough about politics or believe too much about its abilities that it’s the cure for all ills; otherwise, Sri Lankans would not have been cheated by their lawmakers for 76 long years! Now, we are trying to ‘read’ Anura Kumara Dissanayake and the National People’s Power. We have already read the Wickremesinghe chapter, and only the former hints that all the government’s stolen monies will be brought back and the culprits punished, when a new government assumes power.
+
+We voters have an issue. We don’t demand that the lawmaker talks the truth. When the two Chapters of the highest Buddhist Order of this island nation started giving enough hints of late that politicians cannot be trusted, many thought that this call came very late.
+
+...
+
+[Data](articles/a4e2e3c4.json)
 
 ---
 
@@ -2187,153 +2281,5 @@ The Trincomalee District Court has issued an interim injunction in the case of t
 [Data](articles/d05311c3.json)
 
 [Extended Data](ext_articles/d05311c3.ext.json)
-
----
-
-### Gotabaya’s book ’The Conspiracy to Oust Me from the Presidency’ out tomorrow
-
-*2024-03-06 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabayas-book-The-Conspiracy-to-Oust-Me-from-the-Presidency-out-tomorrow/108-278358) · `en`
-
-Colombo, March 6 (Daily Mirror) - Former President Gotabaya Rajapaksa is set to release a book tomorrow titled "The Conspiracy to Oust Me from the Presidency."
-
-In a statement, the former President said that the book delves into his firsthand experience of an internationally sponsored regime change operation that led to his removal from power.
-
-"I believe that this book is important not only for Sri Lankans but also for foreigners," he said.
-
-He said the book will be accessible in both the English and Sinhala languages ​​from leading bookstores.
-
-◼️
-
-[Data](articles/56cd97f3.json)
-
-[Extended Data](ext_articles/56cd97f3.ext.json)
-
----
-
-### Chemper arrested for defrauding Rs. 25 lakhs of housing loan installments
-
-*2024-03-06 15:14:46* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-ණය-වාරික-වලින්-ලක්ෂ-25-ක්-වංචා-කළ-නිලධාරිනිය-අල්ලයි/11-408449) · `si`
-
-A 44-year-old woman from Waskaduwa was arrested for defrauding Rs. 25 lakhs in housing loan installments. The Kalutara A Housing Divisional Criminal Investigation Unit and the Kalutara Special Criminal Investigation Unit are involved. The case was reported by an audit officer in the Housing Development Court. Investigations show that some of the fraudulent payments have been made, and the police are still investigating.
-
-🟩
-
-The Kalutara A Housing Divisional Criminal Investigation Unit, the Kalutara Special Criminal Investigation Unit, the Kalutara Special Criminal Investigation Unit said.
-
-The suspect was a 44 year old woman from the Waskaduwa area.
-
-The suspect has been arrested following a complaint by a audit officer in the Housing Development Court.
-
-It is said that a portion of the cheated prices have been paid, and is currently under investigation into over Rs.
-
-Investigations have revealed that the carbon copy has been revealed that the carbon copy has been revealed in the area where the carbon copy has been removed and fraudulent in the area.
-
-Investigations made so far revealed that the computer database has been changed to the receipt.The police said that further investigations are conducting further investigations.
-
-◼️
-
-[Data](articles/07e8628c.json)
-
-[Extended Data](ext_articles/07e8628c.ext.json)
-
----
-
-### Sri Lanka Women’s cricket team to tour South Africa
-
-*2024-03-06 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Womens-cricket-team-to-tour-South-Africa/108-278357) · `en`
-
-Colombo, (SLC) - The Sri Lanka Women’s Team will tour South Africa during the March–April period to engage in a white ball contest.
-
-During the tour, Sri Lanka will play three T20Is and three ODIs with the South African women’s National Team.
-
-◼️
-
-[Data](articles/3155a44a.json)
-
-[Extended Data](ext_articles/3155a44a.ext.json)
-
----
-
-### Gotabaya Rajapaksa set to release new book on ‘conspiracies’ to oust him
-
-*2024-03-06 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97773/gotabaya-rajapaksa-set-to-release-new-book-on-conspiracies-to-oust-him) · `en`
-
-Former President Gotabaya Rajapaksa, in a new book penned on the series of events that forced him to bow out in 2022, has made controversial allegations about meticulously orchestrated ‘conspiracies’ to remove him from power.
-
-The former Sri Lankan leader claims that he was ousted through ‘conspiracies and mob violence sponsored by interested foreign parties and with the participation of specific sections of Sri Lankan society’.
-
-Rajapaksa has detailed the purported internationally sponsored regime change operation and the manipulation of internal politics against him in his new book titled “The Conspiracy to oust me from the Presidency”.
-
-The book is scheduled to be launched tomorrow (March 07), Ada Derana learns.
-
-◼️
-
-[Data](articles/8adfad47.json)
-
-[Extended Data](ext_articles/8adfad47.ext.json)
-
----
-
-### Damage to main internet cables in the Red Sea;Damage to Internet service in Asia, Europe and the Middle East
-
-*2024-03-06 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178057) · `ta`
-
-Damage to main internet cables in the Red Sea affects internet service in Asia, Europe, and the Middle East. HGC Global Communications reports four of the 15 cables disconnected. Investigations are ongoing to determine if the damage was intentional or accidental. The incident follows attacks on cargo ships by Houthi supporters, who claim to target ships heading towards Israel.
-
-🟩
-
-Several communications cables in the Red Sea are damaged. As a result of this, the telecommunications company said that internet service between Asia and Europe has been affected by the Internet, a US official said.
-
-Internet service has been blocked after the underlying cables have been damaged by major providers in Asia, Europe and the Middle East.
-
-HGC Global Communications Telecommunication Agency (HGC), HGC Global Communications Telecommunication Agency said that four of the 15 cables were recently disconnected.
-
-The cables of four major telecommunications networks, including Asia-Africa 1, Europe India Gateway, Sikam and DGN Gulf, have been damaged.
-
-The US official said that investigations are being carried out to find out whether the cables were deliberately cut or the ships were cut off by anchor.
-
-Following the war between Israel and Hamas in October last year, Houthi clansmen are attacked on cargo ships in the Red Sea.
-
-...
-
-[Data](articles/ae89ade5.json)
-
-[Extended Data](ext_articles/ae89ade5.ext.json)
-
----
-
-### Gold prices up in world market
-
-*2024-03-06 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194206) · `si`
-
-Gold prices worldwide have seen a significant increase, reaching a record high of $2,141.59 for a 24-karat ounce. Prices have risen by nearly $100 in the last 30 days and by over $200 in the past six months, with a total increase of about $315. Global geopolitical events, especially in the Asian market, have contributed to this trend. The Central Bank's interest rates, particularly in the US, are expected to influence gold prices further, with analysts predicting a rise to $2,300 due to expected interest rate cuts.
-
-🟩
-
-Gold prices in the world market showed a record focus.
-
-US $ 2,141 and 59 cents was reported yesterday as the highest price for a 24-karatt-gold ounce.
-
-Gold prices have gone up in nearly $ 100 when the last 30 days.
-
-When the period of six months, the price of a gold was rise in more than $ 200.
-
-The price of a golden ounce has increased by about $ 315.
-
-The global geopolitical warming has been particularly influenced by gold prices.
-
-The golden bulk around the world is temporary when there is instability this way.
-
-It also increased the demand for gold items in the Asian market and the gold price has been increased.
-
-The Central Bank's interest rate is an important factor in the American squad, or the Central Bank.
-
-Analysts forecast that the price of gold will rise to $ 2,300 because American interest rates are expected to be cut this year.
-
-◼️
-
-[Data](articles/48909a83.json)
-
-[Extended Data](ext_articles/48909a83.ext.json)
 
 ---

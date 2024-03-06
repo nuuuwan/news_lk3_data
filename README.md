@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 03:17:34**
+As of **2024-03-07 03:33:32**
 
 ## Newspaper Stats
 
-*Scraped **11,355** Articles*
+*Scraped **11,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 591
 islandlk | 601
 dailyftlk | 603
 adalk | 959
-tamilmirrorlk | 1,381
+tamilmirrorlk | 1,382
 adaderanalk | 1,383
 virakesarilk | 1,556
 dailymirrorlk | 1,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,355 (100.0%) of 11,355 articles have been extended.
+11,355 (100.0%) of 11,356 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -171,6 +171,26 @@ Shantan, who was suffering from cancer, died. This is the natural death. Do not 
 [Data](articles/80b1ceab.json)
 
 [Extended Data](ext_articles/80b1ceab.ext.json)
+
+---
+
+### ’சம்பள அதிகரிப்பால் சபையில் சர்ச்சை’
+
+*2024-03-07 01:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பால்-சபையில்-சர்ச்சை/175-334309) · `ta`
+
+மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு விவகாரம் தொடர்பில் எதிர்க்கட்சி உறுப்பினர்கள் பிரதமரிடம் எழுப்பிய கேள்விகளால் சபையில் புதன்கிழமை (06)  சர்ச்சை ஏற்பட்டது.
+
+எதிர்க்கட்சியினர் அதிருப்தியை வெளியிட்டு கருத்துக்களை முன்வைத்த போது, ஆளும் கட்சி உறுப்பினர்கள் அடிக்கடி குறுக்கீடுகளை செய்ததால் சர்ச்சை ஏற்பட்டது.
+
+மத்திய வங்கி பணியாளர்களின் சம்பள அதிகரிப்பு விவகாரம் தொடர்பில் மத்திய வங்கியின் ஆளுநர் உட்பட அதிகாரிகள்  கட்சித் தலைவர் கூட்டத்துக்கு அழைக்கப்பட்ட போதும், அங்கு எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என்றே எதிர்க்கட்சியினர் குற்றஞ்சாட்டினர்.
+
+பாராளுமன்றம்   சபாநாயகர் தலைமையில் கூடிய பின்னர் பிரதமரித்திலான கேள்வி நேரத்தின்போது, மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு விவகாரம் தொடர்பில் எதிர்க்கட்சி உறுப்பினர்கள் கேள்வியெழுப்பினர்.
+
+இதன்போது பிரதமர் அதற்கு பதிலளிக்கையில்,  தான் விரிவான பதிலை எதிர்பார்ப்பதாக மரிக்கார் எம்.பி கூறியதையடுத்தே சர்ச்சை உருவானது.
+
+...
+
+[Data](articles/4d885f75.json)
 
 ---
 
@@ -2293,25 +2313,5 @@ The two foreign women said that they were not living in the sea that they had be
 [Data](articles/7d4d6924.json)
 
 [Extended Data](ext_articles/7d4d6924.ext.json)
-
----
-
-### Immunoglobulin scandal: Addl Health Secretary gives confidential statement to magistrate
-
-*2024-03-06 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97775/immunoglobulin-scandal-addl-health-secretary-gives-confidential-statement-to-magistrate) · `en`
-
-The Additional Secretary of the Health Ministry Dr. Saman Ratnayake, who was recently arrested by the CID and remanded over the procurement of substandard medicine, has reportedly made a 4-hour-long confidential statement to the Maligakanda Magistrate today (06).
-
-Dr. Saman Ratnayake was produced before the Maligakanda Magistrate today, and reportedly made a confidential statement for around four hours, before being escorted back to remand prison.
-
-On Friday (March 01), the Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal. He was ordered remanded after being produced at court the following day.
-
-Meanwhile on Friday, the Additional Health Secretary had stated before the courts that he was willing to make a confession regarding the matter, following which the court ordered him to be separated from the other arrested suspects in the case.
-
-◼️
-
-[Data](articles/6cff218b.json)
-
-[Extended Data](ext_articles/6cff218b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 10:17:23**
+As of **2024-03-06 10:33:17**
 
 ## Newspaper Stats
 
-*Scraped **11,161** Articles*
+*Scraped **11,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,83 @@ economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 939
-tamilmirrorlk | 1,354
+tamilmirrorlk | 1,355
 adaderanalk | 1,359
 virakesarilk | 1,512
 dailymirrorlk | 1,707
-adaderanasinhalalk | 1,743
+adaderanasinhalalk | 1,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,158 (100.0%) of 11,161 articles have been extended.
+11,161 (100.0%) of 11,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### நான் இரண்டு ஓய்வூதியங்களை பெறுகிறேனா? மறுக்கின்றார் சந்திரிகா
+### 5 வயதுச் சிறுமி துஷ்பிரயோகம்; பகுதி நேர ஆசிரியருக்கு கடூழிய சிறை
+
+*2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/175-334265) · `ta`
+
+பாலியல் துஷ்பிரயோக குற்றச்சாட்டில் குற்றவாளியாக இனங்காணப்பட்ட  ஒருவருக்கு 12 வருட கடூழிய சிறை தண்டனை விதித்து, நுவரெலியா மேல் நீதிமன்ற  நீதவான் விராஜ் வீரசூரிய நேற்று (05) தீர்ப்பளித்துள்ளார்.
+
+நேட்டன்பிரிஜ் பொலிஸ் பிரிவுக்குட்பட்ட கிளவட்டன் பகுதியை சேர்ந்தவருக்கே இவ்வாறு கடூழிய சிறைத் தண்டனை வழங்கப்பட்டுள்ளது.
+
+கடந்த 2010 ஆண்டு ஜனவரி மாத காலப்பகுதியில் கிளவட்டன் பகுதி பாடசாலை ஒன்றில் பகுதிநேர ஆசிரியராக கடமையாற்றிய இராஜரட்ணம் கேதீஸ்வரன் என்பவர் தரம் ஐந்தில் கல்வி கற்ற சிறுமியை பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+
+இது தொடர்பான வழக்கு விசாரணை நுவரெலியா மேல் நீதிமன்றத்தில் கடந்த 14 வருடங்களாக விசாரிக்கப்பட்ட நிலையில்  வழங்கப்பட்ட சாட்சியங்களின் அடிப்படையில்  இந்த பகுதி நேர ஆசிரியர் குற்றவாளியாக இனங்காணப்பட்ட நிலையில் இவருக்கு கடூழிய சிறை தண்டனை வழங்கப்பட்டது.
+
+அத்துடன் குற்றவாளியாக இனங்காணப்பட்டவர், பாதிக்கப்பட்ட சிறுமிக்கு ஐந்து லட்சம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் இத் தொகை வழங்காவிட்டால் மேலும் 2 வருட சிறை தண்டனை அனுபவிக்க வேண்டும் என நீதிபதி அறிவித்தார். R
+
+◼️
+
+[Data](articles/c7286376.json)
+
+---
+
+### වැට් බදු නිදහස් කරන භාණ්ඩ ගැන ජනපති හෙළිකරයි
+
+*2024-03-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194192) · `si`
+
+ඉදිරියේ දී වැට් බදු ප්‍රතිශතය තවත් පහළ දැමීමට බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
+
+ඒ අනුව පොත්, පාසල් උපකරණ, සෞඛ්‍ය උපකරණ හා ඖෂධ යන ආදිය ද වැට් බද්දෙන් නිදහස් කිරීමට බලාපොරොත්තු වන බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+හැකිළී තිබුණ ආර්ථිකය මේ වනවිට යථාතත්ත්වයට පත්වෙමින් පවතින බවද පැවසු ජනාධිපතිවරයා අසීරු වුවත් දිනෙන් දින ආර්ථිකය ශක්තිමත් කරන බව ද කියා සිටියේය.
+
+◼️
+
+[Data](articles/0f7acafa.json)
+
+---
+
+### Do I receive two pensions?Chandrika denies
 
 *2024-03-06 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178031) · `ta`
 
-முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தான் இரண்டு ஓய்வூதியங்களை பெறுவதாக மிகிந்தலை விகாராதிபதி தெரிவித்துள்ளதை நிராகரித்துள்ளார்.
+Chandrika Kumaratunga denies receiving two pensions, rejecting allegations by the chief cleric of the Mikindala Rajamaha Vihara. She clarifies she's only receiving the pension as a former president.
 
-மிகிந்தல ரஜமஹா விகாரையின் தலைமை மதகுரு வலஹதம்மரட்ண தேரர் முன்வைத்துள்ள குற்றச்சாட்டுகளையே ஜனாதிபதி நிராகரித்துள்ளார்.
+🟩
 
-முன்னாள் ஜனாதிபதி என்ற அடிப்படையில் எனக்கு வழங்கப்படும் ஓய்வூதியத்தை மாத்திரம் நான் பெறுகின்றேன் என முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+Former President Chandrika Kumaratunga has rejected Mikindalai's claim that he is receiving two pensions.
 
-முன்னாள் ஜனாதிபதி மகிந்தராஜபக்ச தனது பதவிக்காலத்தில் முன்னாள் ஜனாதிபதிகளிற்கான ஓய்வூதியத்தை 97000 ஆக அதிகரித்தார் எனினும் எனக்கும் முன்னாள் ஜனாதிபதி டிபி விஜயதுங்கவிற்கும் இந்த ஓய்வுதிய அதிகரிப்பு வழங்கப்படவில்லை எனவும் முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+The President has rejected the allegations made by the chief cleric of the Mikindala Rajamaha Vihara.
 
-எனினும் மைத்திரிபாலசிறிசேனஜனாதிபதியானதும இது சரிசெய்யப்பட்டது என தெரிவித்துள்ள முன்னாள் ஜனாதிபதி தனது வங்கிகணக்கிற்கு அனுப்பப்படும்  ஓய்வூதியம் சமூக சேவைகளிற்காக பயன்படுத்தப்படுவதாகவும் தெரிவித்துள்ளார்.
+I am only getting the pension given to me as a former president, ”the former President said.
+
+Former President Mahinda Rajapaksa has increased his pension for former presidents during his tenure, but former President TP Vijayatunga has not been given a hike.
+
+However, Maithripalasinananagam's President said that it was remedied that the former president said that the pension sent to his bank account is being used for social services.
 
 ◼️
 
 [Data](articles/8827c3e5.json)
+
+[Extended Data](ext_articles/8827c3e5.ext.json)
 
 ---
 
@@ -64,6 +108,8 @@ He said the suspension was imposed in terms of the recommendations of the report
 
 [Data](articles/5f9a9b2f.json)
 
+[Extended Data](ext_articles/5f9a9b2f.ext.json)
+
 ---
 
 ### President delivers special statement in parliament
@@ -74,7 +120,13 @@ President Ranil Wickremesinghe has arrived at the parliament to deliver a specia
 
 The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
 
-◼️
+Addressing the Chamber, the Head of State said the citizens are now benefitting from the ‘strenuous efforts’ taken by the government to revive the economy.
+
+“We made an ‘economic plan’ with the IMF. As a result of implementing this plan, the country returned to normalcy day by day. This reduced the pressure [on the people] and alleviated the hardships.”
+
+Wickremesinghe further mentioned that the country’s economy, which contracted for six consecutive quarters, began to revive in the Q3 of 2023, while adding that international financial institutions have forecast a potential economic growth for Sri Lanka, ranging from 2% - 3% for the year 2024.
+
+...
 
 [Data](articles/5d75877a.json)
 
@@ -99,6 +151,8 @@ The driver of the lorry has been arrested by the Potuhera police.
 ◼️
 
 [Data](articles/a1463829.json)
+
+[Extended Data](ext_articles/a1463829.ext.json)
 
 ---
 
@@ -356,13 +410,13 @@ The MP Charitha Herath says that there is no political future, the General who d
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
+In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
+
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
-
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -2137,49 +2191,5 @@ Those crossings were reported in Dankotuwa Porcelain, which crossed Rs 28 worth 
 [Data](articles/96595652.json)
 
 [Extended Data](ext_articles/96595652.ext.json)
-
----
-
-### Suspect arrested in Newwham shooting incident
-
-*2024-03-05 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194175) · `si`
-
-A 26-year-old from Colombo 14 was arrested for attempting to murder someone with a motorcycle in February. Police found 4 ice narcotics and 100 milligrams of drugs on him. He was also found with a hidden pistol, magazine, and ammunition in his home.
-
-🟩
-
-The Colombo Crimes Division has been arrested by the Colombo Crimes Division for supporting a crime of attempting to launch a murder.
-
-The arrested was a 26-year-old resident of Colombo 14.
-
-The police found 4 ice narcotics and 100 milligrams of the suspect in possession of the suspect.
-
-The suspect was arrested by the police in connection with a motorcycle to shot a person in front of a motorcycle near the coastal police division in February 25.
-
-It has been revealed that the suspect was kept in the suspect before the firearm was used to commit the crime.
-
-Police have also recovered a pistol-type firearm, a magazine and three ammunition in a foreign country was hidden in the suspect's house.
-
-The suspect was produced before the Aluthkade No. 02 to the Magistrate's Court today (05).
-
-◼️
-
-[Data](articles/d2682ae3.json)
-
-[Extended Data](ext_articles/d2682ae3.ext.json)
-
----
-
-### Imthiaz's 'Mage Kathawa' launched...
-
-*2024-03-05 19:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Imthiaz-s-Mage-Kathawa-launched/110-278290) · `en`
-
-The autobiography 'Mage Kathawa' of SJB MP Imthiaz Bakeer Markar was launched at the Ananda College auditorium today (05). The event saw the participation of a plethora of dignitaries including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, former President Chandrika Kumaratunge, Ministers, MPs, academics, and other distinguished guests. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/30b3f85f.json)
-
-[Extended Data](ext_articles/30b3f85f.ext.json)
 
 ---

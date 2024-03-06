@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 13:52:28**
+As of **2024-03-06 14:03:44**
 
 ## Newspaper Stats
 
-*Scraped **11,216** Articles*
+*Scraped **11,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,151 @@ economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 945
-adaderanalk | 1,367
 tamilmirrorlk | 1,368
-virakesarilk | 1,525
+adaderanalk | 1,369
+virakesarilk | 1,526
 dailymirrorlk | 1,712
-adaderanasinhalalk | 1,752
+adaderanasinhalalk | 1,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,213 (100.0%) of 11,216 articles have been extended.
+11,216 (100.0%) of 11,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### முன்னாள் நிதியமைச்சர் வீட்டில் கைவரிசை
+### Seven men arrested in India over alleged gang-rape of tourist
+
+*2024-03-06 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97771/seven-men-arrested-in-india-over-alleged-gang-rape-of-tourist) · `en`
+
+Seven men are now in custody in India for the alleged gang-rape of a tourist and assault on her husband, authorities said, in a case that has shone a new spotlight on the endemic problem of sexual violence against women in the country.
+
+On Saturday, police announced that three men had been arrested in connection with the incident and that they were seeking four more.
+
+Dumka Deputy Commissioner Anjaneyulu Dodde confirmed to CNN Tuesday that four further suspects had now been detained.
+
+The couple, who had been traveling by motorcycle from the state of West Bengal to neighboring Nepal, were found late Friday by police officers on patrol, said Pitambar Singh Kherwar, superintendent of Dumka district police in Jharkhand state.
+
+They were taken to the hospital, where the woman told the doctor she had been raped, he said.
+
+Police have formed a special investigative team, Kherwar said. It is unclear whether the suspects have legal representation.
+
+...
+
+[Data](articles/2e87e223.json)
+
+---
+
+### පාසලේදී ලිස්සා වැටුණු සිසුවිය මරුට
+
+*2024-03-06 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194202) · `si`
+
+පාසල තුළ ලිස්සා වැටීමෙන් බරපතළ තුවාල ලැබූ සිසුවියක් රෝහල් ගත කිරීමෙන් පසු මියගොස් තිබේ.
+
+එම අනතුර සිදුවී තිබුණේ අද (06) උදෑසන 7.15ත් 7.30ත් අතර කාලයේදීය.
+
+"ඒ දැරිය නාමලේඛනය අරගෙන පන්තියට එනකොට බිම ලිස්සලා වැටිලා තියෙනවා. එතන අඩි එකහමාරක පමණ කොන්ක්‍රීට් ගලක් තිබිලා... ඒකේ නිකට වැදිලා. ඊට පස්සේ තමයි නැති වෙලා තියෙන්නේ."
+
+"වයස අවුරුදු 13යි. 8 වසරේ ඉගෙන ගනිමින් සිටියේ. මීපාගම පාසලක මේ සිද්ධිය වුණේ. "
+
+"උදේ 7.15ත් 7.30ත් අතර අනතුර වෙලා තියෙන්නේ. රෝහලට ගෙනාවට පස්සේ දැරිය මියගිහින් තියෙනවා."
+
+◼️
+
+[Data](articles/983230ae.json)
+
+---
+
+### Alizabri Rahim's parliamentary service suspended for a period of one month
+
+*2024-03-06 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178061) · `ta`
+
+Alizabri Rahim's parliamentary service suspended for a month from Wednesday, as per the Speaker's announcement.
+
+🟩
+
+Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a month from Wednesday (06), the Speaker said.
+
+◼️
+
+[Data](articles/74477903.json)
+
+[Extended Data](ext_articles/74477903.ext.json)
+
+---
+
+### அதிகாரத்திற்காக நான் ஒருபோதும் பொய் சொல்லவில்லை : அதிகாரத்திற்கு கனவு காணும் அரசியல்வாதிகள் யதார்த்தத்தைப் புரிந்துகொள்ளவில்லை - ஜனாதிபதி
+
+*2024-03-06 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178068) · `ta`
+
+அதிகாரத்திற்காக நான் ஒருபோதும் பொய் சொல்லவில்லை என்றும்  இன்றும் நான் அதிகாரத்திற்காக அன்றி, நாட்டை மீளக் கட்டியெழுப்பவே முயற்சிக்கிறேன் என்றும் அதிகாரத்திற்கு கனவு காணும் அரசியல்வாதிகள் யதார்த்தத்தைப் புரிந்துகொள்ளவில்லை என்றும் ஜனாதிபதி தெரிவித்தார்.
+
+அரசாங்கம் முன்னெடுக்கும் வேலைத் திட்டங்களின் பலனாக நாட்டின் பொருளாதாரம் வலுவடைந்திருப்பதாகவும், எதிர்காலத்தில் மக்களுக்கு மேலும் பல நிவாரணங்களைப் பெற்றுகொடுக்க எதிர்பார்த்திருப்பதாகவும் அந்த செயற்பாடுகள் அனைத்தும் அறிவியல் முறைமைகளுக்கு அமைய, படிப்படியாக முன்னெடுக்கப்பட்டு வருவதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று புதன்கிழமை (06) பாராளுமன்றத்தில் ஆற்றிய விசேட உரையின் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/b987c529.json)
+
+---
+
+### Handwriting at home of former finance minister
 
 *2024-03-06 13:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-நிதியமைச்சர்-வீட்டில்-கைவரிசை/175-334279) · `ta`
 
-முன்னாள் நிதி மற்றும் திட்டமிடல் அமைச்சர் மறைந்த ரொனி டி மெல்லின் வீட்டுக்குள் செவ்வாய்க்கிழமை (05) இரவு புகுந்த திருடர்கள் குழு, பெறுமதியான பல பொருட்கள் மற்றும் சொத்துக்களை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Thieves broke into former Finance Minister Ronnie de Mellin's home, stealing items. Police are investigating.
 
-தெவிநுவர 103 தபால் நிலையத்திற்கு முன்பாக அமைந்துள்ள வீட்டிலேயே இவ்வாறு கைவரிசை காட்டப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பில் தெவிநுவர வீட்டின் காவற்காரர்,  கந்தர பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததோடு, ரொனி டி மெல்லின் பிரத்தியேக செயலாளர்  கே.எச்.வில்பிரட், பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோனிடமும் முறைப்பாடு செய்துள்ளார்.
+Former Finance and Planning Minister Ronnie de Mellin's house on Tuesday night (05), a group of thieves, have stolen many items and assets, police said.
 
-பொலிஸ் மா அதிபரின் விசேட உத்தரவின் பேரில் கந்தரை பொலிஸாருக்கு மேலதிகமாக மற்றுமொரு பொலிஸ் குழு விசாரணைகளை மேற்கொள்ள உள்ளது.
+The handcuffs are shown in the house located in front of the 103 post office.
 
-மறைந்த ரொனி டி மெல்லின் இறுதிச் சடங்குகள் நடைபெற்று ஒரு வாரமாகிற நிலையிலேயே இவ்வாறு கைவரிசை காண்பிக்கப்பட்டுள்ளது.
+The guards of the Tevinuwara house have lodged a complaint at the Kandara Police Station and have lodged a complaint with Ronnie de Mellin's Private Secretary KH Wilpred and Inspector General of Police, Deshpandu.
+
+Another police team is conducting investigations in addition to the Kandarai police on the special orders of the Inspector General of Police.
+
+The funeral of the late Ronnie de Mellin was a week after the funeral.
 
 ◼️
 
 [Data](articles/7a270840.json)
 
+[Extended Data](ext_articles/7a270840.ext.json)
+
 ---
 
-### පොලිස් ලොක්කාගේ අශෝභන හැසිරීමෙන් ගමක් ම කැලඹෙයි
+### A village is disturbed by the police boss's mischievous conduct
 
 *2024-03-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194201) · `si`
 
-පුත්තලම උඩප්පුව පොලිසියේ නිලධාරියෙකු සිදුකළ පහරදීමකින් ප්‍රදේශවාසීන් දෙදෙනෙකු තුවාල ලබා හලාවත රෝහලට ඇතුළත් කර තිබේ.
+A village in Puttalam is disturbed by police misconduct, leading to assaults and unrest. Two residents were hospitalized, and the Mundalama Police were called to manage the situation. The Udappuwa Police, including the OIC of the CID, are under investigation for their actions.
 
-මෙම පහරදීමත් සමග ඇතිවූ නොසන්සුන්තාව පාලනය කිරීමට මුන්දලම පොලීසිය කැඳවීමත් පියවර ගැණුනි.
+🟩
 
-පුත්තලම උඩප්පුව ප්‍රදේශයේදී ඊයේ රාත්‍රි 9.30ට පමණ ගැටුමක් හටගෙන තිබුණේ උඩප්පුව පොලීසියේ, අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා සහ ප්‍රදේශවාසින් පිරිසක් අතරය.
+Two residents of the area were admitted to the Chilaw Hospital with the assault conducted by the Udappuwa police officer in Puttalam.
 
-පහරදීම සිදුකරන අවස්ථාවේ නිලධාරියා ඉතා අශෝභන ලෙස හැසිරෙමින් රැස්ව සිටි ජනතාවට පරුෂ වචනයෙන් බැණවදින අයුරු පුද්ගලයෙකු වීඩියෝගත කර තිබේ.
+The Mundalama Police were taken to control the unrest with the attack.
 
-උඩප්පුව පොලීසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා පහරදීම සිදුකරන්නේ අනෙක් පොලිස් නිලධාරීන් දෙදෙනා පැමිණි මෝටර් රථයට ප්‍රදේශවාසීන් කෙළ ගැසූ බව පවසමිනි.
+The Udappuwa Police, the OIC of the Udupuwara Police and the CID should be in the Udappuwa area in the Udappuwa area in Puttalam.
 
-මෙම සිදුවීමත් සමග උඩප්පුව ප්‍රදේශයේ හටගත් නොසන්සුන්කාරී තත්වය පාලනය කිරීම සඳහා මුන්දලම පොලිසියේ නිලධාරීන් කැඳවා තිබුණි.
+At the time of the attack, the officer has violently bowing the people to the people.
+
+The OIC of the Udappuwa Police Criminal Investigation Division (CID) is assaulted by the two other police officers who had come to the residents of the area.
+
+The police officers were summoned to control the unrest in the Udappuwa area.
+
+"Headlights hit a car. VIP Lite has been stopped. The police came in the car. I and there were more people. We said not to beat the headlights to dim. Then we left the sound. I went to the fish wal. Two policemen came. They're the Udu Police. The rip was hit by my ear. I was dragged. When asked why they are smiling, we can bow down to us. "
 
 ...
 
 [Data](articles/b5c06ef7.json)
+
+[Extended Data](ext_articles/b5c06ef7.ext.json)
 
 ---
 
@@ -87,6 +177,24 @@ Recent media reports revealed that the CBSL had increased the salaries of its em
 ...
 
 [Data](articles/693af192.json)
+
+[Extended Data](ext_articles/693af192.ext.json)
+
+---
+
+### 29% - 89% salary hikes given to CBSL employees: PM reveals in parliament
+
+*2024-03-06 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97770/29-89-salary-hikes-given-to-cbsl-employees-pm-revealsinparliament) · `en`
+
+Prime Minister Dinesh Gunawardena detailed the recent salary hikes of those employed at the Central Bank of Sri Lanka (CBSL).
+
+Responding to a question raised by Samagi Jana Balawegaya (SJB) MP S. M. Marikkar in Parliament this morning (06 March), the Premier provided a detailed explanation of the amounts and percentages by which the salaries were increased by for each position within the CBSL, emphasisng that these facts were made easily accessible to the public.
+
+Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition, following which the CBSL officials were summoned before the Cabinet, party leaders’ meeting and the Committee on Public Finance (COPF).
+
+...
+
+[Data](articles/6b061e05.json)
 
 ---
 
@@ -139,24 +247,6 @@ Minister of State Shehan Semasinghe further stated that the Samurdhi business wi
 [Data](articles/c49e07f3.json)
 
 [Extended Data](ext_articles/c49e07f3.ext.json)
-
----
-
-### Alizabri Rahim's parliamentary service suspended for a period of one month
-
-*2024-03-06 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178061) · `ta`
-
-Alizabri Rahim's parliamentary service suspended for a month from Wednesday, as per the Speaker's announcement.
-
-🟩
-
-Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a month from Wednesday (06), the Speaker said.
-
-◼️
-
-[Data](articles/74477903.json)
-
-[Extended Data](ext_articles/74477903.ext.json)
 
 ---
 
@@ -1646,13 +1736,13 @@ The Leader, the Leader of the Leader, the leaders of the leaders and their suppo
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
-In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
-
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -2207,101 +2297,5 @@ The Assistant District Secretary, Assistant Divisional Secretary, Pradeshiya Sab
 [Data](articles/b617d2e7.json)
 
 [Extended Data](ext_articles/b617d2e7.ext.json)
-
----
-
-### We support the same China policy - Sri Lanka's announcement of the 55th session of the UN Human Rights Council
-
-*2024-03-06 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178021) · `ta`
-
-Sri Lanka supports China's policy at the 55th UN Human Rights Council session, welcoming China's cooperation on human rights. Sri Lanka's stance is that human rights violations should be addressed fairly, without political influence, and criticizes the UN for politicization.
-
-🟩
-
-Sri Lanka, which announced at the 55th session of the UN Human Rights Council (UNHRC), has said that its support for the same China policy and is heavily welcomed by China's cooperation in dealing with human rights issues, said the interventions set by other parties in the internal affairs of any sovereignty.
-
-The 55th session of the United Nations Human Rights Council commenced in Geneva on February 26. The UN Human Rights Council of Sri Lanka's Human Rights Council, Volcker Turk's verbal report on Sri Lanka's human rights and accountability situation was read last Friday (1), and the United Nations Permanent Resident Fund Himali Arunathilaka was responding to the High Commission's report on the same day.
-
-...
-
-[Data](articles/6722b569.json)
-
-[Extended Data](ext_articles/6722b569.ext.json)
-
----
-
-### Mullaitivu District Secretariat Additional District Government Agent Jayakanth
-
-*2024-03-06 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178020) · `ta`
-
-Jayakanth, a graduate of the University of Peradeniya, MPA, and MA, has been appointed as the Additional District Government Agent (Land) in Mullaitivu District. He has served as Divisional Secretary and Assistant Government Agent, and is recognized for his 17-year tenure as the best Divisional Secretary in Jaffna and Mullaitivu districts.
-
-🟩
-
-C. Jayakanth has assumed the duty of the Mullaitivu District Secretariat as Additional District Government Agent (Land).
-
-In 2006, he received the Sri Lankan Administrative Service from the Sri Lanka Administrative Service and served as Divisional Secretary and Assistant Government Agent.
-
-He has been promoted to the Additional District Secretariat (Land) of the District Secretariat and has been promoted to the District Secretariat as the best Divisional Secretary in the public minds of the public for over 17 years in the districts of Jaffna and Mullaitivu.
-
-He is a proud graduate of the University of Peradeniya, a MPA at Sri Jayawardena University and MA degree from Madurai Kamarajar University.
-
-It is also worth noting that the new Divisional Secretariat of the Pudukkudiyiruppu area of the Mullaitivu District has been working at the Divisional Secretariat for the people of Pudukkudiyiruppu.
-
-◼️
-
-[Data](articles/0538fbb7.json)
-
-[Extended Data](ext_articles/0538fbb7.ext.json)
-
----
-
-### Air Force Commander Udni Rajapaksa
-
-*2024-03-06 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178019) · `ta`
-
-Air Mashal Udni Rajapakse, Sri Lanka Air Force Commander, announced a ceremony to unite North and South in Jaffna on the 73rd anniversary of the Air Force. The event marks the Air Force's growth from six officers to over 20 regional branches and 73 industrial areas. It includes educational and social service programs, with 73 schools in the Northern Province receiving Rs 100 million, 73,000 Tamil English books, and 73,000 saplings. Rajapakse emphasizes the importance of unity and socio-economic development.
-
-🟩
-
-Sri Lanka Air Force Commander Air Mashal Udni Rajapakse said that the ceremony to connect the North and the South in the Jaffna courtyard on the 73rd anniversary of the Sri Lanka Air Force.
-
-This was stated in a statement sent to the media regarding the 73rd anniversary of the Sri Lanka Air Force to be held in Jaffna.
-
-He added that I am proud to have passed the 73 -year history of the Sri Lankan Air Force. Our Air Force, which started as Royal Air Force, had six officers and 24 other officers.
-
-We currently have about 20 regional branches and more than 73 industrial areas.
-
-We are making arrangements to honor the 73rd anniversary of educational and social service programs.
-
-With the approval of the Ministry of Education, 73 schools selected in the Northern Province will be planted at a cost of Rs 100 million, 73 thousand Tamil English books and 73 thousand saplings under the program of my book to the North.
-
-...
-
-[Data](articles/8f3f2d23.json)
-
-[Extended Data](ext_articles/8f3f2d23.ext.json)
-
----
-
-### Couples who have avoided childbirth due to economic damage
-
-*2024-03-06 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178018) · `ta`
-
-In 2023, Sri Lanka's population fell by 144,395 from 2022, partly due to economic crisis, leading to fewer marriages and childbirths. The number of Sri Lankans migrating abroad increased from 85,572 in 2022 to 222,715 in 2023. The annual death rate rose from 125,334 in 2014 to 190,600 in 2023, partly due to COVID-19 effects. Economic burdens and concerns about job safety have led many newlyweds to delay or avoid childbirth.
-
-🟩
-
-For various reasons, the country's population has fallen in 2023, according to the Department of Value Statistics. Statistics show that this has moved towards the fall compared to 2022. This means that the population of 2023 has fallen by 144,395 over 2022. Although the death rate increase and infant death rate, the economic crisis is very popular.
-
-Statistics show that those who married the child in the aftermath of Corona on 2021,2022,2023. At the same time, people who left the country have been pointed out that the economic crisis has increased last year. While some have gone to work, many have migrated to the country.
-
-The impact has increased by 2023, based on statistics taken since 2014. 85,572 Sri Lankans went abroad in 2022 due to economic crises. But in the next 2023, the amount increased to 222,715.
-
-...
-
-[Data](articles/9d1f2213.json)
-
-[Extended Data](ext_articles/9d1f2213.ext.json)
 
 ---

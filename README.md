@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 07:53:33**
+As of **2024-03-06 08:02:55**
 
 ## Newspaper Stats
 
-*Scraped **11,129** Articles*
+*Scraped **11,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 936
 tamilmirrorlk | 1,350
 adaderanalk | 1,355
 virakesarilk | 1,508
-dailymirrorlk | 1,699
+dailymirrorlk | 1,700
 adaderanasinhalalk | 1,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,128 (100.0%) of 11,129 articles have been extended.
+11,129 (100.0%) of 11,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Meta’s Facebook, Instagram back up after global outage
+
+*2024-03-06 07:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Metas-Facebook-Instagram-back-up-after-global-outage/108-278310) · `en`
+
+March 5 (Reuters) - Meta-owned Facebook and Instagram were back up on Tuesday after a more than two-hour outage that was caused by a technical issue and impacted hundreds of thousands of users globally.
+
+The disruptions started at around 10 a.m. ET (1500 GMT), with many users saying on rival social media platform X they had been booted out of Facebook and Instagram and were unable to log in.
+
+The White House National Security Council was monitoring the incident and not aware of any specific malicious cyber activity at this time, a spokesperson said.
+
+At the peak of the outage, there were more than 550,000 reports of disruptions for Facebook and about 92,000 for Instagram, according to outage tracking website Downdetector.com.
+
+"Earlier today, a technical issue caused people to have difficulty accessing some of our services. We resolved the issue ... for everyone who was impacted," Meta spokesperson Andy Stone said in a post on X, without elaborating on the issue.
+
+...
+
+[Data](articles/a51cefdb.json)
+
+---
 
 ### Showers expected in certain parts of the country
 
@@ -45,6 +65,8 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 ◼️
 
 [Data](articles/071ba9f7.json)
+
+[Extended Data](ext_articles/071ba9f7.ext.json)
 
 ---
 
@@ -2177,25 +2199,5 @@ Vavuniya Government Agent Sarath Chandra, Additional Government Agent. The Deput
 [Data](articles/9a22cc90.json)
 
 [Extended Data](ext_articles/9a22cc90.ext.json)
-
----
-
-### Road in front of the University of Colombo is sudden
-
-*2024-03-05 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194168) · `si`
-
-Steps to close the road in front of the University of Colombo due to protest traffic congestion.
-
-🟩
-
-Steps have been taken to close the road in front of the University of Colombo.
-
-It is due to the strict traffic congestion caused by a protest in student unions.
-
-◼️
-
-[Data](articles/2bcd6de0.json)
-
-[Extended Data](ext_articles/2bcd6de0.ext.json)
 
 ---

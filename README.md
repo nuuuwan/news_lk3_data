@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 12:33:32**
+As of **2024-03-06 12:49:23**
 
 ## Newspaper Stats
 
-*Scraped **11,186** Articles*
+*Scraped **11,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 942
-tamilmirrorlk | 1,355
+tamilmirrorlk | 1,364
 adaderanalk | 1,364
 virakesarilk | 1,522
 dailymirrorlk | 1,708
@@ -26,23 +26,69 @@ adaderanasinhalalk | 1,748
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,183 (100.0%) of 11,186 articles have been extended.
+11,186 (99.9%) of 11,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### පාකිස්තාන ක්‍රිකට් කණ්ඩායමට හමුදා පුහුණුවක්
+### காற்று மாசு அதிகரிப்பு
+
+*2024-03-06 12:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்று-மாசு-அதிகரிப்பு/175-334276) · `ta`
+
+கடந்த 24 மணி நேரத்தில் காற்றின் நிலை மிகவும் மோசமடைந்துள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+இதனால் கொழும்பு மாவட்டத்தில் அதிகூடிய  காற்று மாசு சுட்டெண் 114 ஆக பதிவாகியுள்ளது.
+
+இதற்கமைய, இந்தச் சூழல் ஏனைய நபர்களுக்கு பாதகமான உடல்நலப் பாதிப்புகளை ஏற்படுத்தக்கூடும் என்று அறிக்கை மேலும் கூறியுள்ளது.
+
+மேலும், காலி கராப்பிட்டியில் 90 ஆகவும், புத்தளத்தில் 88 ஆகவும், குருநாகல் மற்றும் அனுராதபுரத்தில் 86 ஆகவும் காற்று மாசு சுட்டெண் பதிவாகியுள்ளது.
+
+நாட்டின் காற்று மாசுக் குறியீடு 50ஐத் தாண்டியிருப்பதால், உணர்திறன் உடையவர்கள் பாதிக்கப்படும் அபாயம் உள்ளதால், மக்கள் இது குறித்து கவனம் செலுத்துமாறு அந்த அமைப்பு கேட்டுக்கொள்கிறது.
+
+இந்த காற்றின் நிலை அவ்வப்போது மாறலாம் என்றும் நாளையும் (07) இந்த நிலையை எதிர்பார்க்கலாம் என்றும் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/14f53b96.json)
+
+---
+
+### நீல பெண் கைது
+
+*2024-03-06 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நீல-பெண்-கைது/73-334275) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள பிறைந்துறைச்சேனை பகுதியில் போதை பொருள் வியாபாரி ஒருவரின் வீட்டை திங்கட்கிழமை (04) இரவு முற்றுகையிட்ட விசேட அதிரடிப்படையினர் வியாபாரத்தில் ஈடுபட்டுக் கொண்டிருந்த பிரபல பெண் வியாபாரி ஒருவரை கைது செய்தனர்.
+
+நீல நிறம் கொண்ட புதிய ஜஸ் போதை பொருள் உட்பட 4 கிராம் 470 மில்லிக்கிராம் ஜஸ் போதை பொருள் பணம் என்பவற்றை மீட்டு ஒப்படைத்துள்ளதாக வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+
+வாழைச்சேனை கடதாசிஆலை முகாம் விசேட அதிரடிப்படைக்கு கிடைத்த தகவல் ஒன்றினையடுத்து அம்பாறை மட்டக்களப்பு உதவிப் பொலிஸ் பணிப்பாளர் வாவிடவிதானவின் ஆலோசனைக்கமைய   முகாம் பொறுப்பதிகாரி கே. ஜி. லக்மால் தலைமையிலான குழுவினர் வாழைச்சேனை பிறந்துறைச்சேனை பகுதியிலுள்ள குறித்த வீட்டை  முற்றுகையிட்டனர்.
+
+இதன்போது போதை வியாபாரத்தில் ஈடுபட்டுவந்த பெண் ஒருவரை கைது செய்ததுடன் அவரிடமிருந்து 340 மில்லிக்கிராம் புதிய வகையான நீல நிறம் கொண்ட ஜஸ் போதை பொருள் மற்றும் வெள்ளை நிறமுiடைய 4 கிராம் 130 மில்லிக்கிராம் உட்பட 4 கிராம் 470 மில்லிக்கிராம் ஜஸ் போதை பொருள் மற்றும் 8 ஆயிரத்து 750 ரூபாய் பணத்தை மீட்டனர்.
+
+...
+
+[Data](articles/5fbaa2a3.json)
+
+---
+
+### Army training for Pakistan cricket team
 
 *2024-03-06 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194197) · `si`
 
-පාකිස්තාන යුද හමුදාව මඟින් මෙහෙයවන විශේෂ පුහුණු කඳවුරකට පාකිස්තාන ක්‍රිකට් ක්‍රීඩකයන්ව සහභාගී කරවීමට එරට ක්‍රිකට් ආයතනය තීරණය කර තිබේ.
+Pakistan cricket team undergoes special army training from March 25 to April 8, focusing on World Cup preparation.
 
-මාර්තු 25 වැනිදා සිට අප්‍රේල් 8 දක්වා මෙම පුහුණු කඳවුර පවත්වනු ලබන්නේ, පාකිස්තාන පිලේ ඉදිරි තරග සංචාර සහ ලෝක කුසලානය ඉලක්ක කර ගනිමිනි.
+🟩
+
+The Cricket team has decided to participate in Pakistan cricketers on a special training camp led by Pakistani Army.
+
+The training camp will be held from March 25 to April 8, targeting the Pakistanic Team and World Cup.
 
 ◼️
 
 [Data](articles/89b386c0.json)
+
+[Extended Data](ext_articles/89b386c0.ext.json)
 
 ---
 
@@ -60,23 +106,51 @@ Explaining further, Dr. Mahipala stated that there is a significant increase in 
 
 [Data](articles/6f79aa4c.json)
 
+[Extended Data](ext_articles/6f79aa4c.ext.json)
+
 ---
 
-### 15 හැවිරිදි දැරියක්ව රවටා අපහරණය කළ තරුණයා අත්අඩංගුවට
+### தாயின் கணவரால் சிறுமி  துஷ்பிரயோகம்
+
+*2024-03-06 12:05:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாயின்-கணவரால்-சிறுமி-துஷ்பிரயோகம்/76-334274) · `ta`
+
+மஹியங்கனை , கெசல்பொத்த பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் கல்வி கற்கும் 12 வயதுடைய மாணவி ஒருவரை காது கேளாத மற்றும் வாய் பேச முடியாத அவரது தாயின்  இரண்டாவது கணவர் , துஷ்பிரயோகத்திற்கு  உட்படுத்திய  சம்பவம்  செவ்வாய்க்கிழமை  (05) பதிவாகியுள்ளது .
+
+குறித்த மாணவி  பாடசாலை  முடிந்து வீட்டுக்குச் செல்ல முடியாது என  அதிபரிடம்  தெரிவித்ததையடுத்து  இது தொடர்பில்  பாடசாலையின்  அதிபரால் மஹியங்கனை சிறுவர் மற்றும் மகளிர் பணியக அதிகாரிகளுக்கு  அறிவித்துள்ளார் .
+
+இதற்கமைய பாடசாலைக்கு  சென்ற  அதிகாரிகளால்  , குறித்த  சிறுமி மஹியங்கனை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு  ,  வைத்தியர்களால் பரிசோதனை  செய்த  போது,  மாணவி  பல தடவைகளை  குறித்த நபரால்  துஷ்பிரயோகத்திற்குள்ளாகியமை தெரியவந்துள்ளது .
+
+இதனையடுத்து கெசல்பொத்த, மாபாக்கடையில் வசிக்கும் 48 வயதுடைய சந்தேக நபரை கைது செய்து மேலதிக  விசாரணைகளை  மேற்கொண்டு வருவதாக  மஹியங்கனை பொலிஸார்
+
+மேலும் , குறித்த  சிறுமியின் தாயும் காது கேளாத மற்றும் வாய் பேச முடியாத பெண் என்பது  குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/4fc0ae60.json)
+
+---
+
+### Youth arrested for deceiving 15-year-old girl
 
 *2024-03-06 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194196) · `si`
 
-මීගහකිවුල, කළුගහකඳුර ප්‍රදේශයේ 15 හැවිරිදි පාසල් දැරියක්ව රවටා රැගෙන ගොස් ඥාති නිවසක රඳවාගෙන අපහරණය කළ බව පැවසෙන තරුණයෙක් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+A 32-year-old man from Mahiyangana Santa was arrested for allegedly deceiving a 15-year-old girl in Kalugahakandura, Meegahakandura. The girl's parents arrested him. She's set to appear before the Badulla Medical Officer today.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මහියංගන පූජා නගරය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 32ක තරුණයෙකි.
+🟩
 
-දැරියගේ දෙමාපියන් විසින් පොලීසිය වෙත කරන ලද පැමිණිල්ලක් මත සැකකරු  අත්අඩංගුවට ගෙන ඇත.
+A young man has been arrested on suspicion of deceiving a 15-year-old school girl in the Kalugahakandura, Meegahakandura.
 
-සිද්ධියට සම්බන්ධ දැරිය අද (06) බදුල්ල අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The suspect is a 32 year old resident of Mahiyangana Santa.
+
+The suspect was arrested by the parents of the girl.
+
+The girl involved in the incident is due to be produced before the Badulla Medical Officer today (06).
 
 ◼️
 
 [Data](articles/01a885f6.json)
+
+[Extended Data](ext_articles/01a885f6.ext.json)
 
 ---
 
@@ -105,6 +179,18 @@ Ukraine hit Russia's landing cell in February using similar unmanned aircraft.
 [Data](articles/6f9cc1e9.json)
 
 [Extended Data](ext_articles/6f9cc1e9.ext.json)
+
+---
+
+### வற் வரிப்பட்டியலில் இருந்து நீக்கப்படும்
+
+*2024-03-06 11:43:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-வரிப்பட்டியலில்-இருந்து-நீக்கப்படும்/175-334272) · `ta`
+
+புத்தகங்கள், பாடசாலை உபகரணங்கள், மருந்து மற்றும் சுகாதார உபகரணங்கள் போன்ற பொருட்கள், வற் வரிப்பட்டியலில் இருந்து நீக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க , புதன்கிழமை   (06) பாராளுமன்றத்தில் உரையாற்றிய போது  தெரிவித்துள்ளார் .
+
+◼️
+
+[Data](articles/d1449542.json)
 
 ---
 
@@ -181,6 +267,22 @@ On the 20th of last month, a departmental supervisory committee was chaired by M
 [Data](articles/426c920b.json)
 
 [Extended Data](ext_articles/426c920b.ext.json)
+
+---
+
+### ‘மெட்டா’ வுக்கு 100 மில்லியன் டொலர் நட்டம்
+
+*2024-03-06 11:32:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெட்டா-வுக்கு-100-மில்லியன்-டொலர்-நட்டம்/175-334270) · `ta`
+
+ஃபேஸ்புக், மெசஞ்சர், இன்ஸ்டாகிராம் சமூக ஊடகங்கள் திடீரென முடக்கப்பட்டதால், சமூக வலைதளங்களுக்குச் சொந்தமான மார்க் ஜூக்கர்பெர்க்கின் ‘மெட்டா’ நிறுவனம் 100 மில்லியன் அமெரிக்க டொலர் வருமானத்தை இழந்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+உலகம் முழுவதும் பேஸ்புக், மெசஞ்சர் மற்றும் இன்ஸ்டாகிராம் சமூக ஊடகங்கள் செவ்வாய்க்கிழமை (05) இரவு  திடீரென முடக்கப்பட்டன. பேஸ்புக், மெசஞ்சர் மற்றும் இன்ஸ்டாகிராம் போன்ற சமூக ஊடகங்கள் ஒரே நேரத்தில் முடக்கப்பட்டமை இதுவே முதல் முறையாக கருதப்படுகிறது.
+
+சமூக ஊடக தளங்களான Facebook, Messenger மற்றும் Instagram ஆகியவற்றின் வீழ்ச்சியைத் தொடர்ந்து Meta பங்குகளும் 1.5 சதவீதம் சரிந்தன. ஃபேஸ்புக், மெசஞ்சர் மற்றும் இன்ஸ்டாகிராம் செயலிழந்ததற்கு தொழில்நுட்பக் கோளாறுதான் காரணம் என தெரிவித்த 'மெட்டா' நிறுவனத்தின் தொழில்நுட்ப பிரிவு, சில மணி நேரம் கழித்து, பிழையை சரி செய்தது.
+
+◼️
+
+[Data](articles/27b47e0c.json)
 
 ---
 
@@ -312,6 +414,58 @@ Responding to a verbal issue that MP SMM Marikkar, MP Sama Marikkar, responded b
 
 ---
 
+### தங்க எம்.பிக்கு 1 மாத கால தடை
+
+*2024-03-06 11:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-எம்-பிக்கு-1-மாத-கால-தடை/175-334269) · `ta`
+
+தங்கக் கடத்தல் வழக்கில் அலி சப்ரி ரஹீமின் பாராளுமன்ற வருகை இன்று முதல் ஒரு மாத காலத்திற்கு இடைநிறுத்தப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்று அறிவித்துள்ளார்.
+
+நெறிமுறைகள் மற்றும் சிறப்புரிமைகள் தொடர்பான குழுவின் தலைவர் சமல் ராஜபக்சவினால் 2024 ஜனவரி 24 ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட அறிக்கையின் பரிந்துரைகளின் அடிப்படையில் இந்த இடைநிறுத்தம் விதிக்கப்பட்டுள்ளதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/02ae60cf.json)
+
+---
+
+### ”இந்த கட்டண திருத்தம் அரசாங்கத்தால் வழங்கப்படவில்லை”
+
+*2024-03-06 10:57:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-கட்டண-திருத்தம்-அரசாங்கத்தால்-வழங்கப்படவில்லை/175-334268) · `ta`
+
+அண்மைய மின்சாரக் கட்டணத் திருத்தமானது தற்போதைய அரசாங்கத்தினாலோ அல்லது தற்போதைய அரசியல் அதிகாரிகளாலோ வழங்கப்படவில்லை மாறாக சிவில் அமைப்புகள், பொதுமக்கள் மற்றும் ஊடகங்கள், இலங்கையின் முன்னாள் பொதுப் பயன்பாடுகள் ஆணைக்குழு (PUCSL) ஆகியவற்றின் கூட்டு முயற்சியால் வழங்கப்பட்டுள்ளது என பொதுப் பயன்பாடுகள் ஆணைக்குழு முன்னாள் தலைவர் ஜனக ரத்நாயக்க தெரிவித்தார்.
+
+இன்று செய்தியாளர்களிடம் பேசிய அவர், தற்போதைய PUCSL தலைவரால் சமீபத்தில் அறிவிக்கப்பட்ட 21.9 சதவீத மின் கட்டண திருத்தத்தை பாராட்டினார்.
+
+இந்த கட்டண திருத்தத்தை வழங்க PUCSL உறுப்பினர்களோ அல்லது அரசியல் அதிகாரங்களோ உடன்படவில்லை என்று அவர் கூறினார்.
+
+"முன்னாள் PUCSL தலைவராக நான் இருந்த காலத்தில் இந்த திருத்தத்தை வழங்குவதற்காக நான் இந்த பணியை தொடங்கினேன். அதனால் நான் எனது வேலையை இழந்தேன். எனது பதவிக்காலத்தில் நான் கையெழுத்திட்ட பிரேரணை நிறைவேற்றப்பட்டு மக்களுக்கு நன்மை பயக்கும். பிப்ரவரி 2022 இல் நான் செய்த மின் கட்டண திருத்தத்திற்கான முன்மொழிவு மார்ச் 2024 இல் நடைமுறைக்கு வந்தது.
+
+...
+
+[Data](articles/2bc0c629.json)
+
+---
+
+### இன்று அதிகரித்த வெப்பநிலை காணப்படும்
+
+*2024-03-06 10:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334267) · `ta`
+
+மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் இரத்தினபுரி,புத்தளம் மற்றும் மட்டக்களப்பு   மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+தென் மாகாணத்தின் சில இடங்களிலும் அத்துடன் இரத்தினபுரி மற்றும் களுத்துறை மாவட்டங்களின் சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வட திசையில் இருந்து வடகிழக்குத் திசையை நோக்கி காற்று வீசும்.
+
+நாட்டை சூழ உள்ள கடல் பிராந்தியங்கள் மிதமான அலையுடன் காணப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0bc84fd5.json)
+
+---
+
 ### President reveals plans to exempt school essentials, medicines & medical equipment from VAT
 
 *2024-03-06 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97765/president-reveals-plans-to-exempt-school-essentials-medicines-medical-equipment-from-vat) · `en`
@@ -413,6 +567,26 @@ The U.S. wants any Security Council support for a ceasefire to be linked to the 
 [Data](articles/259774f3.json)
 
 [Extended Data](ext_articles/259774f3.ext.json)
+
+---
+
+### கடுமையான தீர்மானங்கள் ஊடாகவே இதிலிருந்து மீள முடியும்
+
+*2024-03-06 10:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுமையான-தீர்மானங்கள்-ஊடாகவே-இதிலிருந்து-மீள-முடியும்/175-334266) · `ta`
+
+அழகிய வார்த்தைகள், வாக்குறுதிகளால் பொருளாதார நெருக்கடிக்கு தீர்வுகாண முடியாது, கடுமையான தீர்மானங்கள் ஊடாகவே நெருக்கடியில் இருந்து மீள முடியும் என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+மேலும், .பொருளாதாரம் ஆரம்ப கட்ட ஸ்திரப்படுத்தலில் காணப்படுகிறது. நாட்டு மக்களுக்கு தொடர்ந்து நிவாரணம் வழங்கப்படும் என்றும் ஜனாதிபதி கூறினார்.
+
+புத்தகம், மருந்து பொருட்கள் உள்ளிட்ட தெரிவு செய்யப்பட்ட பொருட்கள் வற் வரி பட்டியலில் இருந்து நீக்கப்படும் என்றும் குறிப்பிட்டார்.
+
+அத்துடன் பொருளாதாரத்துக்கு பாதிப்பு ஏற்படும் வகையில் நிவாரணம் வழங்கப் போவதில்லை என்றும் ஜனாதிபதி கூறினார். R
+
+1. 2022 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம் ஆண்டு அரச வருவாயை 50 சதவீத்திற்கும் மேல் அதிகரிக்க முடிந்ததாகவும் கடந்த வருடம் முதன்மைக் கணக்கில் உபரியைப் பெற முடிந்ததாகவும் தெரிவித்த ஜனாதிபதி, இதன்மூலம் மூன்று முதல் நான்கு ஆண்டுகளாக அரசாங்கத்திற்கு சேவை வழங்கிய ஒப்பந்ததாரர்களுக்கு வழங்க வேண்டிய நிலுவைத் தொகை முழுமையாக செலுத்தப்பட்டுள்ளதாகத் தெரிவித்தார்.
+
+...
+
+[Data](articles/3977803f.json)
 
 ---
 
@@ -2037,217 +2211,5 @@ The Railway Department announced that two Second Grade OICs and a railway style 
 [Data](articles/c799169b.json)
 
 [Extended Data](ext_articles/c799169b.ext.json)
-
----
-
-### Facebook returned to us!
-
-*2024-03-05 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178013) · `ta`
-
-Facebook, Instagram, and Messenger are back online after a brief outage.
-
-🟩
-
-Facebook, one of the global media, has failed, and has returned to normal after about an hour.
-
-As such, Facebook, Instagram and Messenger, which were globally paralyzed, have begun to work again.
-
-◼️
-
-[Data](articles/9578ee65.json)
-
-[Extended Data](ext_articles/9578ee65.ext.json)
-
----
-
-### Plans to revive the Kantale Sugar Factory
-
-*2024-03-05 22:15:37* · [`adalk`](https://www.ada.lk/breaking_news/කන්තලේ-සීනි-කම්හලට-යළි-පණ-දීමට-සැලසුම්/11-408438) · `si`
-
-The Kantale Sugar Factory, once a significant employer, is being revived with the involvement of senior officials including the Minister of Investment Promotion and the Chairman of Lanka Sugar. The factory, covering 23,000 acres, was inaugurated by the Minister and aims to re-employ over 1,000 workers.
-
-🟩
-
-The State Ministry of Investment Promotion (
-
-Investment Promotion of Government Minister Dilum Amunugama, Minister of Investment Promotion, and other senior officers including the Chairman of Lanka Sugar Samarakoon, including the Chairman of Ceylon Sugar Company (04), including the Chairman of Ceylon Sugar Company.
-
-The Minister was inaugurated on Kantale Sugar Factory and other property.
-
-The State Minister instructed officials to set up a plan for the factory expeditious and submitting a plan and submitting them to him.
-
-The Kantale Sugar has had twenty-three thousand acres, and sugar cane was cultivated.
-
-A group of more than 1,000 employees have served. About 35 employees, including security personnel, are employed.
-
-The sugar factory was opened by Mrs. Sirimavo Bandaranaike, who was the post of Prime Minister on October 02 in 1960.
-
-◼️
-
-[Data](articles/aa2d231d.json)
-
-[Extended Data](ext_articles/aa2d231d.ext.json)
-
----
-
-### They're big now
-
-*2024-03-05 22:06:53* · [`adalk`](https://www.ada.lk/picture_story/එයාලා-දැන්-ලොකුයි/10-408437) · `si`
-
-The National Zoological Pubs, born at Dehiwala National Zoo, celebrated their second birthday with a party featuring three parcels in the bananas, attended by Dinasana Deputy Director Nimal Senarath, Animal Trustee Thilak Pushpakumara, and other guests.
-
-🟩
-
-The second birthday of the National Zoological Pubs, who were born to the Robin and Girl, who was born in the Dehiwala National Zoo, was celebrated at the zoo premises.
-
-It was celebrated with three parcels in the bananas. Dinasana Deputy Director of the National Gardens' Nimal Senarath, Animal Trustee Thilak Pushpakumara and a group of visitors including Thilak Pushpakumara were also present.
-
-◼️
-
-[Data](articles/afdb6ba8.json)
-
-[Extended Data](ext_articles/afdb6ba8.ext.json)
-
----
-
-### We provide assistance to the needs of Sri Lanka: Steps to resume passenger shipping service - Santosh Ja
-
-*2024-03-05 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178010) · `ta`
-
-Indian High Commissioner Santosh Jha announced Sri Lanka and Nagapattinam will resume passenger shipping service by month-end, highlighting India's assistance to Sri Lanka's needs, including infrastructure, digital technology, and the Edka Agreement's benefits to Sri Lanka.
-
-🟩
-
-Indian High Commissioner Santosh Jha said that we have provided assistance to the needs of Sri Lanka and that the Edka Agreement will benefit Sri Lanka than India.
-
-He added that by the end of this month, Sri Lanka and Nagapattinam are taking steps to resume the passenger shipping service.
-
-The Indian High Commissioner Santosh Ja said in response to a question answer in the "Indian Story: Reformed | Reform | Change" organized by the Sri Lanka Press Association at Hilton Hotel in Colombo today (5).
-
-As far as India is concerned, we are carrying out infrastructure and development in the city and villages with speed and power. Our Prime Minister gives the best leadership.
-
-India has been successful in the city and rural level in transport, industry, 5G technology and digital. Leadership played an important role.
-
-In particular, the digital ID card, digital financial and cash flow digit ID card can be addressed.
-
-...
-
-[Data](articles/915ba504.json)
-
-[Extended Data](ext_articles/915ba504.ext.json)
-
----
-
-### Breaded social media restoration
-
-*2024-03-05 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194181) · `si`
-
-Instagram and Messenger were leading in social media restoration, with reports from various countries indicating that social media services have been restored.
-
-🟩
-
-Instagram, and Messenger networks were ahead of the world's leading social media outlets today (05).
-
-It was reported that the situation was reported from many countries in the world and the social media has been restored.
-
-◼️
-
-[Data](articles/4f39a2ac.json)
-
-[Extended Data](ext_articles/4f39a2ac.ext.json)
-
----
-
-### All South Asian countries have surpassed Sri Lanka: Imthiaz
-
-*2024-03-05 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-South-Asian-countries-have-surpassed-Sri-Lanka-Imthiaz/108-278297) · `en`
-
-Colombo, March 05 (Daily Mirror) - While saying that Sri Lanka is currently at an impasse, SJB MP Imthiaz Bakeer  Markar called upon leaders and citizens to transcend political differences and unite for the collective betterment of the island nation.
-
-He made these sentiments in the thanksgiving address at the launch of his autobiography held at the Ananda College auditorium today (05).
-
-The event saw the participation of a plethora of dignitaries including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, former President Chandrika Kumaratunge, Ministers, MPs, academics and other distinguished guests.
-
-In his address, Markar highlighted the urgent necessity to discard separatist tendencies to pave the way for a prosperous Sri Lanka.
-
-He lamented the nation's current plight, contrasting it with the promising trajectory observed during its post-independence era when it paralleled Japan in development.
-
-...
-
-[Data](articles/990a547e.json)
-
-[Extended Data](ext_articles/990a547e.ext.json)
-
----
-
-### Handing over the no -confidence motion against the Speaker
-
-*2024-03-05 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178011) · `ta`
-
-Ranjith Mathuma Bandara, General Secretary of the United People's Power, handed over a no-confidence motion against Speaker Mahinda Yapa Abeywardena to Saminda Kularatne, Deputy Secretary General of Parliament. The motion, signed by 44, including opposition leader Sajith Premadasa, alleges the Speaker's actions violate the Constitution and Parliament's Standing Orders.
-
-🟩
-
-United People's Power General Secretary Ranjith Mathuma Bandara has handed over the no -confidence motion against Speaker Mahinda Yapa Abeywardena to the Deputy Secretary General of Parliament, Saminda Kularatne.
-
-Opposition parties handed over the motion to the Deputy Secretary General in Parliament on Tuesday (5).
-
-44 people, including opposition leader Sajith Premadasa, United People's Power and United People's Alliance, Tamil National Alliance, National People's Power and Independent Opposition members have signed the motion.
-
-When the Deputy Secretary General of Parliament was handed over a no -confidence motion against the Speaker.
-
-When the Ceremony Bill is passed, the Speaker has come up with allegations against him that the Speaker has been acting in violation of the Constitutional Constitutional Constitutional Resolutions on the Speaker's boycott and the Speaker's allegations that the Speaker is acting in violation of the Constitution.
-
-...
-
-[Data](articles/f1cf32b4.json)
-
-[Extended Data](ext_articles/f1cf32b4.ext.json)
-
----
-
-### Youth farmer earned by 40 lakhs from watermelon
-
-*2024-03-05 21:55:58* · [`adalk`](https://www.ada.lk/breaking_news/අක්කරයක-කොමඩු-වගාවෙන්-මාස-දෙකකින්-ලක්ෂ-40ක්-ඉපයූ-තරුණ-ගොවියා/11-408436) · `si`
-
-A 39-year-old farmer in Anuradhapura, Buddhika Sudarshana, earned 40 lakhs from watermelon crops using a modern drop water planting system, despite heavy rains destroying other farmers' crops.
-
-🟩
-
-Troops of a young farmer in Anuradhapura, a young farmer in the Thirappan Divisional Secretariat Division has been reported from the pig.
-
-This is a 39 year old Buddhika Sudarshana, a resident of farmer farming Diriya Gardens.
-
-The farmer said he was able to earn a high income by the watermelon crops that took place in an acre.
-
-"In December 2023, I will begin a time of cultivating watermets on the earth's watermelons. At that time, the watermelon plants will be completely destroyed by the earth.. But I was able to cultivate memers into a new way with modern technology.
-
-This modern technology is originally installed in the pipeline system, from the tate, the tape has gone over. It is called the drop water planting system.
-
-A good harvest, the harvest was able to give me a good price. It was because I had a good price because rain for the shortage of a watermelon was high.
-
-...
-
-[Data](articles/ce4855bf.json)
-
-[Extended Data](ext_articles/ce4855bf.ext.json)
-
----
-
-### Sri Lanka, India working to link power grids via $1.2bn undersea transmission line
-
-*2024-03-05 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97754/sri-lanka-india-working-to-link-power-grids-via-12bn-undersea-transmission-line) · `en`
-
-Sri Lanka and India are working on an estimated USD 1.2 billion undersea transmission line that will link the island nation’s power grind with that of India to provide energy security to this country, a top Sri Lankan official said on Tuesday.
-
-The proposal is to link Sri Lanka’s north central town of Anuradhapura and Chennai, the capital of Tamil Nadu state in India through a direct power line. After a 130km overland transmission line in India, an undersea line (via a submarine cable) will emerge at Thiruketheeswaram in Mannar in northeast Sri Lanka.
-
-Sulakshana Jayawardena, Secretary to the Ministry of Power and Energy said, “This will raise our hopes on energy security.” He said this days after the fifth meeting of the India-Sri Lanka joint working group (JWG) for cooperation in the power sector was held on February 28 here. The High Commissioner of India to Sri Lanka Santosh Jha also attended the meeting.
-
-...
-
-[Data](articles/ae4d3f19.json)
-
-[Extended Data](ext_articles/ae4d3f19.ext.json)
 
 ---

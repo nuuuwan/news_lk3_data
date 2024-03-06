@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 17:53:37**
+As of **2024-03-06 18:09:20**
 
 ## Newspaper Stats
 
-*Scraped **11,274** Articles*
+*Scraped **11,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,90 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 953
+adalk | 955
 tamilmirrorlk | 1,375
-adaderanalk | 1,378
+adaderanalk | 1,379
 virakesarilk | 1,535
 dailymirrorlk | 1,722
-adaderanasinhalalk | 1,763
+adaderanasinhalalk | 1,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,273 (100.0%) of 11,274 articles have been extended.
+11,274 (100.0%) of 11,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### சந்திரனில் அணுஉலை அமைக்க ரஷ்யா, சீனா முயற்சி
+### නුවරඑළිය තැපැල් කාර්යාලය ගැන ස්ථාවරය
+
+*2024-03-06 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194215) · `si`
+
+නුවරඑළිය තැපැල් කාර්යාලය සංචාරක හෝටලයක් බවට පත්කිරීම සඳහා ගෙන තිබෙන තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර තිබෙන රිට් පෙත්සම විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස නීතිපතිවරයා අද (06) අභියාචනාධිකරණය හමුවේ මූලික විරෝධතා මතු කළේය.
+
+එම තැපැල් කාර්යාලය  ඉන්දියානු සමාගමක් වෙත පැවරීමට සැලසුම් කර ඇති බව අදාළ පෙත්සමෙහි සඳහන් ය.
+
+අදාළ පෙත්සම එස්. යූ. බී. කරලියද්ද සහ මායාදුන්නේ කොරයා යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/3f8c61cc.json)
+
+---
+
+### Sri Lanka and Maldives must work together to counter violent extremism, illicit trafficking – State Minister
+
+*2024-03-06 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97780/sri-lanka-and-maldives-must-work-together-to-counter-violent-extremism-illicit-trafficking-state-minister-) · `en`
+
+State Minister of Defence Premitha Bandara Tennakoon has emphasised the importance of working to together with the Maldives to counter several common challenges, including violent extremism, illicit trafficking and humanitarian crises.
+
+During a meeting with the Maldivian Defence Minister Mohamed Ghassan Maumoon at the Ministry of Defence in Maldives on 05 March, Tennakoon stressed upon the importance of working together to counter common challenges such as climate change and environmental security, violent extremism, illicit trafficking, disasters and humanitarian crises.
+
+Maldivian Minister Ghassan also reiterated the importance of defence cooperation and relationship between Maldives and Sri Lanka and highlighted the critical role played through collaborative efforts to ensure regional peace and stability.
+
+...
+
+[Data](articles/66eadba2.json)
+
+---
+
+### ‘පොඩි මැණිකේ’ සිද්ධියට තවත් පිරිසකගේ වැඩ තහනම්
+
+*2024-03-06 17:10:59* · [`adalk`](https://www.ada.lk/breaking_news/‘පොඩි-මැණිකේ’-සිද්ධියට-තවත්-පිරිසකගේ-වැඩ-තහනම්/11-408459) · `si`
+
+ඊයේ 5දා පෙරවරු 5.55ට කොළඹ කොටුව සිට බදුල්ල බලා පිටත්වූ ‘පොඩි මැණිකේ’ පළමු පංතියේ මැදිරියක ප්‍රවේශපත් නොමැතිව ගමන් කළ විදේශිකයන් දෙදෙනෙක්ට නාවලපිටිය දුම්රිය ස්ථානයේදී  පහර දුන් සිද්ධිය සම්බන්ධයෙන් නාවලපිටිය දුම්රිය ස්ථානයේ සේවය කල නිලධාරීන් තිදෙනකුගේ සේවය අත්හිටුවූ බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+නාවලපිටිය කාර්යභාර නිලධාරී පරීක්‍ෂකවරයා කලහාකාරී සිදුවීමේදී නියමිත රාජකාරි නිසියාකාරව නොකිරීමේ චෝදනාවට සහ එම දුම්රියේ ආරක්‍ෂාව සඳහා යොදවා සිටි ආරක්ෂක නිලධාරීන් දෙදෙනාගේ සේවය ද මෙසේ අත්හිටුවූ බව ද එම දෙපාර්තමේන්තුව කියයි.
+
+මෙම සිද්ධිය සම්බ්නධයෙන් දැනට දුම්රිය දෙපාර්තමේන්තුවේ නිලධාරීන් හය දෙනකුගේ සේවය අත්හිටුවීමට දුම්රිය සාමාන්‍යාධිකාරීවරයා මේ වන විට  කටයුතු කළ බව ද එම දෙපාර්තමේන්තුව කියයි.
+
+◼️
+
+[Data](articles/d090fe81.json)
+
+---
+
+### Russia and China try to build a nuclear power on the moon
 
 *2024-03-06 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178094) · `ta`
 
-2033 -2035 ஆம் ஆண்டுகளுக்கு இடைப்பட்ட காலப்பகுதியில் சந்திரனில் அணுஉலை அமைப்பதற்கு இவ்விரு நாடுகளும் விரும்புவதாக ரஷ்ய விண்வெளி ஆராய்ச்சி நிறுவனமான ரொஸ்கொஸ்மோஸின் தலைவர் யூரி பொரிசோவ் தெரிவித்துள்ளார்.
+Russia and China aim to build a nuclear reactor on the moon by 2033-2035, aiming to power lunar quarters, as solar panels are insufficient. The project, led by Roscosmos's Yuri Borisov, is challenging and requires automated operation without human presence.
 
-சந்திரனில் அணுசக்தி ஆனது. எதிர்க்கால சந்திரமண்டல குடியிருப்புகளுக்கான மின்சக்தியை அளிக்கும். சூரியத் தகடுகள் போதுமான அளவு மின்சாரத்தை வழங்க மாட்டாது என அவர் கூறினார்.
+🟩
 
-இத்திட்டம் மிக சவாலானது. மனிதர்களின் பிரசன்னமின்றி, தன்னியக்க முறையில் இது செயற்படுத்தப்பட வேண்டும் எனவும் பொரிசோவ் கூறினார்.
+Between 2033 and2035, the two countries want to build a nuclear reactor on the moon, said Roscosmos, president of Roscosmos, Yuri Borisov.
+
+Became nuclear in the moon. Providing electricity to the opposite lunar quarters. He said solar plates would not provide enough electricity.
+
+This project is very challenging. Barisov said that it should be operated in an automated manner without the presence of humans.
 
 ◼️
 
 [Data](articles/088a5c51.json)
+
+[Extended Data](ext_articles/088a5c51.ext.json)
 
 ---
 
@@ -159,6 +213,20 @@ Police attacked a protest march organized by the Inter University Students Feder
 [Data](articles/f2fcfc5a.json)
 
 [Extended Data](ext_articles/f2fcfc5a.ext.json)
+
+---
+
+### මියගිය වෛද්‍ය සිසුවා ගේ මරණ පරීක්ෂණයේ සාක්ෂී
+
+*2024-03-06 16:47:24* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-වෛද්‍ය-සිසුවා-ගේ-මරණ-පරීක්ෂණයේ-සාක්ෂී/11-408457) · `si`
+
+සිද්ධිය වූ දිනයේ නාවලපිටිය රෝහලේ තිබුණු සායනික පුහුණුව හමාර කොට ගල්පොත්ත නමැති ස්ථානයේ නාන්න යමු කියල අප දොළොස් දෙනකු පමණ පිරිසක් කතා වී එහි ගියා . අප පස් දෙනෙකු පමණ එහි ගල්පොත්තක් වැනි ස්ථානයක කකුල් තියාගෙන සිටින විට එක්වරම සමබරතාවය ගිලිහී ගොස් අප ජලයේ ගිලුනා . මම එහි පාරුවක් අල්ලාගෙන සිටියත් ඉසුරු පේන්න හිටියේ නැහැ . අප කෑ ගසා අවටින් උදව් ඉල්ලා සිටියා . ඒ අය වතුරේ කිමිදී ගොස් විනාඩි විස්සකට පසු ඉසුරුව ගොඩට ගෙනාවා .
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ සිසුන් කණ්ඩායමක් නවලපිටිය රෝහලේ සායනික පුහුණුවකට ගොස් එය නිමාවීමෙන් පසු මහවැලි ගඟේ අතු ගංගාවක් වූ ගල්පොත්ත නමැති ස්ථානයේ දිය නෑමට ගොස් ජලයේ ගිලි අසාධ්‍ය තත්වයෙන් පෙරදෙණිය ශික්ෂණ රෝහලලේ දින දහයකට ආසන්න කාලයක් දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිට මියගිය ඉසුරු මදුශාන් තිලකරත්න (24) නැමැති සිසුවා සමඟ දියේ ගිලි බේරාගත් පී.එච්. ලසිත් ප්‍රමෝද්‍ය වෛද්‍ය සිසුවා පේරාදෙණිය ශික්ෂණ රෝහලේ හදිසි මරණ පරීක්ෂක අමල් ජයවර්ධන මහතා ඉදිරියේ සාක්ෂි දෙමින් ඒ බව අවධාරණය කළේය .
+
+...
+
+[Data](articles/22abf5d6.json)
 
 ---
 
@@ -2263,97 +2331,5 @@ He said that the suspension was based on the recommendations of the report submi
 [Data](articles/02ae60cf.json)
 
 [Extended Data](ext_articles/02ae60cf.ext.json)
-
----
-
-### "This payment revision is not provided by the government"
-
-*2024-03-06 10:57:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-கட்டண-திருத்தம்-அரசாங்கத்தால்-வழங்கப்படவில்லை/175-334268) · `ta`
-
-Janaka Ratnayake, former PUC Chairman, claims the recent power tariff amendment was not by the government but by civil organizations, media, and PUCSL. He praises the 21.9% amendment and criticizes the current PUCSL Chairman for not reducing electricity bills as promised. Ratnayake also highlights the CEB's profits and calls for benefits for low-income users and those using 0-30 units of electricity.
-
-🟩
-
-Former Chairman of the Public Utilities Commission Janaka Ratnayake said that the recent power tariff amendment was not provided by the current government or the current political authorities, but by the joint venture of civil organizations, civilians and media and former Sri Lanka's former PUCSL (PUCSL).
-
-Speaking to reporters today, he praised the current 21.9 per cent electricity tariff amendment by the current PUCSL Chairman.
-
-He said that neither PUCSL members nor political powers were to provide this payment amendment.
-
-“I started this task to make this amendment when I was the former PUCSL Chairman. So i lost my job. The resolution I signed during my tenure would be beneficial for the people. The proposal for the electricity bill I made on February 2022 came into effect in March 2024.
-
-...
-
-[Data](articles/2bc0c629.json)
-
-[Extended Data](ext_articles/2bc0c629.ext.json)
-
----
-
-### Increased temperatures today
-
-*2024-03-06 10:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334267) · `ta`
-
-Increased temperatures in Western and Southern Provinces, Ratnapura, Puttalam, and Batticaloa. Chance of rain in Southern Province and parts of Ratnapura and Kalutara. Snow in Sabaragamuwa, Western Provinces, Galle, and Matara. Wind from N to NE at 20-30 km/h. Moderate waves in sea regions.
-
-🟩
-
-The Department of Meteorology said that increased temperatures will be seen today in the Western and Southern Provinces as well as in Ratnapura, Puttalam and Batticaloa districts.
-
-There is a chance of rain in the evening or night in some parts of the Southern Province, as well as some parts of the Ratnapura and Kalutara districts.
-
-In the morning, the snow will be seen in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
-
-In the sea regions, the wind blows from the north to the northeast at 20 - 30 km / h.
-
-The sea regions around the country are reported to be in a moderate wave.
-
-◼️
-
-[Data](articles/0bc84fd5.json)
-
-[Extended Data](ext_articles/0bc84fd5.ext.json)
-
----
-
-### President reveals plans to exempt school essentials, medicines & medical equipment from VAT
-
-*2024-03-06 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97765/president-reveals-plans-to-exempt-school-essentials-medicines-medical-equipment-from-vat) · `en`
-
-President Ranil Wickremesinghe, delivering a special statement in parliament on Wednesday (March 06), revealed that the government intends to reduce the Value-Added Tax (VAT) in the future.
-
-As such, school exercise books, stationery items, medicines and medical equipment are planned to be exempted from the VAT, he added.
-
-Wickremesinghe arrived at the parliament complex on Wednesday morning to brief the House on the progress of Sri Lanka’s economic recovery process.
-
-Addressing the parliamentary proceedings, the Head of State acknowledged that imposing the VAT was ‘undoubtedly a bitter and challenging’ decision, adding that this helped boost state revenue to nearly 11% of the GDP.
-
-“We made the decision to implement such a tax with great reluctance. However, considering the economic ailment we face, there are no other viable options.”
-
-He explained that the growth in state revenue gave assurances to the international community of the island nation’s capacity to repay its outstanding debts.
-
-...
-
-[Data](articles/66d7aab3.json)
-
-[Extended Data](ext_articles/66d7aab3.ext.json)
-
----
-
-### President arrives in Parliament
-
-*2024-03-06 10:38:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-පාර්ලිමේන්තුවට-පැමිණෙයි/11-408442) · `si`
-
-President Ranil Wickremesinghe attended the start of Parliament today, where he made a special statement.
-
-🟩
-
-President Ranil Wickremesinghe has come to the beginning of Parliament today (06). The parliamentarian meeting is being held and participated in. He has informed a special statement in Parliament today.
-
-◼️
-
-[Data](articles/fa21dff2.json)
-
-[Extended Data](ext_articles/fa21dff2.ext.json)
 
 ---

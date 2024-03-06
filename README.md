@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 16:48:36**
+As of **2024-03-06 17:03:25**
 
 ## Newspaper Stats
 
-*Scraped **11,262** Articles*
+*Scraped **11,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,72 +15,198 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 950
+adalk | 951
 tamilmirrorlk | 1,375
-adaderanalk | 1,376
-virakesarilk | 1,532
-dailymirrorlk | 1,720
-adaderanasinhalalk | 1,761
+adaderanalk | 1,377
+virakesarilk | 1,534
+dailymirrorlk | 1,721
+adaderanasinhalalk | 1,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,255 (99.9%) of 11,262 articles have been extended.
+11,262 (99.9%) of 11,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### மத்திய வங்கி அலுவலக உதவியாளரின் சம்பளம் ரூ.188,827
+### හුංගම වෙඩිතැබීමකින් පුද්ගලයෙක් මරුට
+
+*2024-03-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194213) · `si`
+
+පොලීසිය සඳහන් කළේ අද (06) උදෑසන කාලයේදී මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+වෙඩිවැදීමෙන් තුවාල ලැබූ 39 හැවිරිදි පුද්ගලයා රන්න රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා තංගල්ල රෝහලට මාරුකර යැවීමේදී මියගොස් ඇත.
+
+ගල්කටස් වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති බවට පොලීසිය සැක කරයි.
+
+කාන්තාවක් සමග පැවැති අනියම් සම්බන්ධතාවයක් හේතුවෙන් මරණකරු සහ සැකකරු අතර ඇතිවූ ආරවුලක් දුරදිග යෑමෙන් මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදුකර ඇති මූලික විමර්ශනවලදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+හුංගම පොලීසිය සඳහන් කළේ සිද්ධියට සම්බන්ධ සැකකරුව අත්අඩංගුවට ගෙන ඇති බවය.
+
+වැඩිදුරටත් අනාවරණය වී ඇත්තේ ඝාතනයට ලක්වූ ධීවරයා හා සැකකරු යන දෙදෙනාම එකම කාන්තාවක සමග අනියම් සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇති බවත් එය හේතු කොටගෙන දෙදෙනා අතර කලක පටන් ආරවුල් තිබූ බවත්ය.
+
+මෙම පුද්ගලයා ධීවර රැකියාවට ගොස් මීට දින දෙකකට පමණ ඉහතදී යළි පැමිණ සිටියදී මෙලෙස ඝාතනය වී තිබේ.
+
+ඔහු අද පෙරවරු 10.30ට පමණ මුදල් තැන්පත් කිරීම සඳහා රන්න නගරයේ පිහිටි බැංකුවට යාමට නිවෙසින් පිටත්වී තිබුණි.
+
+...
+
+[Data](articles/8f0c48f6.json)
+
+---
+
+### 22-year-old nabbed with Kerala cannabis worth Rs. 1 mn
+
+*2024-03-06 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97778/22-year-old-nabbed-with-kerala-cannabis-worth-rs-1-mn) · `en`
+
+Sri Lanka Navy has apprehended a youth who was in possession of a stock of Kerala cannabis worth more than Rs. 1 million.
+
+The contraband was impounded on Tuesday (March 05) during a coordinated operation mounted by the Naval Deployment Veththalakerni in the Northern Naval Command and the Police Special Task Force (STF) in Kilinochchi.
+
+During this operation, a motorcycle was intercepted on suspicion and it was revealed that the rider was peddling about 3.96kg of Kerala cannabis. Accordingly, the suspect was taken into custody, along with Kerala cannabis and the vehicle.
+
+The gross street value of seized Kerala cannabis is believed to be over Rs. 1 million, the Navy said.
+
+The suspect held in this operation was identified as a resident of Uduththurei - North, aged 22.
+
+The accused, along with Kerala cannabis and the motorcycle, has been handed over to the Maradankerni Police for onward legal action.
+
+◼️
+
+[Data](articles/f3de07c4.json)
+
+---
+
+### Central Bank Office Assistant Salary Rs. 188,827
 
 *2024-03-06 16:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-அலுவலக-உதவியாளரின்-சம்பளம்-ரூ-188-827/175-334290) · `ta`
 
-மத்திய வங்கியின் மிகக் குறைந்த தரவரிசையில் பணிபுரியும் அலுவலக உதவியாளரின் தரம் 1க்கான மொத்த சம்பளம் 29.53 சதவீதத்தால் அதிகரிக்கப்பட்டு ரூ.188,827 ஆகவுள்ளது என பிரதமர் தினேஷ் குணவர்தன இன்று தெரிவித்தார்.
+The Central Bank's Grade 1 office assistant salary is increased to Rs. 188,827, a 29.53% rise, and the Deputy Governor's salary by 76.97%. Employees also have rights to housing, vehicle, welfare, and medical loans.
 
-பிரதி ஆளுநரின் மொத்த சம்பளம் ரூபா 76.97 வீதத்தால் அதிகரிக்கப்பட்டுள்ளதாகவும் அது ரூ. 1,728,419 ஆக உயர்ந்துள்ளதாகவும்  SJB பாராளுமன்ற உறுப்பினர் எஸ்.எம் மரிக்கார் பாராளுமன்றத்தில் எழுப்பிய கேள்விக்கு பிரதமர் பதிலளித்தார்.
+🟩
 
-மேலும் மத்திய வங்கி ஊழியர்களுக்கு வீட்டுக் கடன்கள், வாகனக் கடன்கள், நலன்புரிக் கடன்கள் மற்றும் மருத்துவ வசதிகள் போன்றவற்றுக்கும் உரிமை உண்டு என்று பிரதமர் கூறினார்.
+Prime Minister Dinesh Gunawardena today said that the total salary for the Grade 1 of the Central Bank's low -ranking office assistant will be increased by 29.53 per cent to Rs 188,827.
+
+The total salary of the Deputy Governor has been increased by Rs 76.97 per cent.. The Prime Minister responded to a question raised by SJB MP SM Marikar in Parliament.
+
+The Prime Minister also said that central bank employees have the right to housing loans, vehicle loans, welfare loans and medical facilities.
 
 ◼️
 
 [Data](articles/9b887593.json)
 
+[Extended Data](ext_articles/9b887593.ext.json)
+
 ---
 
-### බයිඩන් - ට්‍රම්ප් සටන නොවැම්බරයේ
+### Alizabri Rahim's parliamentary service suspended for a period of one month
+
+*2024-03-06 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178061) · `ta`
+
+Alizabri Rahim's parliamentary service suspended for a month from Wednesday, as per the Speaker's announcement.
+
+🟩
+
+Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a month from Wednesday (06), the Speaker said.
+
+◼️
+
+[Data](articles/74477903.json)
+
+[Extended Data](ext_articles/74477903.ext.json)
+
+---
+
+### Saman Ratnayake gives four hours confidential statement to magistrate
+
+*2024-03-06 16:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Saman-Ratnayake-gives-four-hours-confidential-statement-to-magistrate/108-278360) · `en`
+
+Colombo, March 6 (Daily Mirror) - Additional Secretary of Health Dr. Saman Ratnayake, who was arrested in connection with the alleged import of substandard Immunoglobulin injections, today provided a confidential statement (in-camera) before Maligakanda Magistrate Lochani Abeywickrema.
+
+The prison officials brought the suspect before the Maligakanda Magistrate’s Court early this morning. He provided a statement in chambers for a four-hour-period and was subsequently brought back to the Mahara Prison.
+
+Saman Ratnayake has been named as the tenth suspect in this case.
+
+Ten suspects including former Health Minister Keheliya Rambukwella have been remanded till March 14 by the Maligakanda Magistrate’s Court regarding this incident for allegedly committing offences under the Public Property Act.
+
+◼️
+
+[Data](articles/0c077300.json)
+
+---
+
+### மாலைதீவு பாதுகாப்பு அமைச்சரை பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் சந்தித்தார்
+
+*2024-03-06 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178090) · `ta`
+
+பாதுகாப்பு இராஜாங்க அமைச்சர் கௌரவ பிரமித்த பண்டார தென்னகோன் மாலைதீவு பாதுகாப்பு அமைச்சர் கௌரவ மொஹமட் கஸ்ஸான் மஃமூனை நேற்று (மார்ச் 05) மாலைதீவு பாதுகாப்பு அமைச்சில் சந்தித்தார்.
+
+இந்த சந்திப்பின் போது, இராஜாங்க அமைச்சர் தென்னகோன் உள்ளிட்ட குழுவினரை வரவேற்ற அமைச்சர் கஸ்ஸான் மாலைதீவுக்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டமைக்கு நன்றி தெரிவித்தார். மாலைதீவின் தேசிய பாதுகாப்புப் படைக்கு வழங்கப்பட்ட தொடர்ச்சியான பயிற்சி உதவிகளுக்காக இலங்கை அரசாங்கம் மற்றும் ஆயுதப்படைகளுக்கு அவர் நன்றி தெரிவித்தார்.
+
+மாலைதீவுக்கும் இலங்கைக்கும் இடையிலான பாதுகாப்பு ஒத்துழைப்பு மற்றும் உறவின் முக்கியத்துவத்தை மேலும் வலியுறுத்திய அமைச்சர் கஸ்ஸான், பிராந்திய அமைதி மற்றும் ஸ்திரத்தன்மையை உறுதிப்படுத்துவதற்கு இரு நாடுகளுக்குமிடையில் மேடற்கொள்ளப்பட்டுவரும் கூட்டு முயற்சியின் முக்கியதுவத்தை இதன்போது எடுத்துரைத்தார்.
+
+...
+
+[Data](articles/5b038bd1.json)
+
+---
+
+### Bideen - Trump Battle in November
 
 *2024-03-06 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194212) · `si`
 
-ඒ පක්ෂ අපේක්ෂකත්වය සඳහා පැවැත්වෙන මේ ප්‍රාථමික මැතිවරණ කොට්ඨාස එනම් ප්‍රයිමරීස් හි ඩිමොක්‍රටික් පක්ෂයේ පෙරමුණ ගෙන සිටින්නේ වත්මන් ජනාධිපති ජෝ බයිඩන් ය.
+Joe Biden, Democratic candidate, leads, but Donald Trump, Republican candidate, is leading in several states. Nikki Haley won 86 representatives, but Trump won 12 states. The November presidential election will feature Trump vs. Biden.
 
-අපේක්ෂකත්වය සඳහා රිපබ්ලිකන් පක්ෂය තුළ තරගකාරී තත්ත්වයක් පැවතියත් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඉන් පෙරමුණ ගෙන සිටියි.
+🟩
 
-ඔහුගේ ප්‍රතිවාදියා වන නිකී හේලි දැනට කොට්ඨාස දෙකක් ජයගෙන තිබුණාය.
+The current president Joe Biden is the leading Joor of the Democratic Party (Prime Minister), which is held for the party candidate.
 
-එහිදී ඇලබාමා, ඇලස්කා, ආර්කන්සාස්, කැලිෆෝනියා, කොලරාඩෝ, මෙයින්, මැසචුසෙට්, මිනසොටා, උතුරු කැරොලයිනා, ඔක්ලහෝමා, ටෙනිසි, ටෙක්සාස්, යූටා, වර්මොන්ට්, වර්ජිනියා යන ප්‍රාන්ත 15 සඳහා සහ අමෙරිකානු ස්වයං පාලන කලාපයක් වන අමෙරිකානු සමෝවා කලාපය සඳහා ප්‍රාථමික මැතිවරණ පැවැත්වුණි.
+Despite the competitiveness of the Republican Party for candidate, former President Donald Trump is taking the lead in the leading.
 
-ඊට අමතරව අයෝවා ප්‍රාන්තයේ ඩිමොක්‍රටික් ප්‍රාථමික මැතිවරණයේ තැපැල් ඡන්ද විමසීමත් පැවැත්වුණේ ඊයේ ය.
+His opponent, Niki Halley, has now won two divisions.
 
-මිලියන සංඛ්‍යාත පිරිසක් ඡන්දය භාවිත කරන මේ සුපිරි අඟහරුවාදා ඡන්දයේ ප්‍රතිඵල දැන් නිකුත් වෙමින් පවතියි.
+There, Primary elections were held for the US Samusette, Massachusette, Texas, Yaka, Virginia, Texas, Yaka, Virginia, Texas, Yaka, Virginia.
+
+The postal voting in the Democratic primary election in Iowa was held yesterday.
+
+The results of the voting of millions of people vote are now being released.
+
+Accordingly, Iowa Postal voting as well as Alabama, California, Colorado, Massachuse, Massachusett, Texas, Youth and Virginia.
+
+However, in the American Samova defeated, Baiden was defeated.
+
+Meanwhile, former President of former President Donald Trump won 12 states who have won the Republican party leader.
+
+However, his rival candidates were able to win the state of Vermont, defeating him.
 
 ...
 
 [Data](articles/22f70f9c.json)
 
+[Extended Data](ext_articles/22f70f9c.ext.json)
+
 ---
 
-### மாணவர்கள் மீது நீர்த்தாரைப் பிரயோகம்
+### Reservoir
 
 *2024-03-06 16:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-மீது-நீர்த்தாரைப்-பிரயோகம்/175-334289) · `ta`
 
-புஞ்சி பொரளையில் பல்கலைக்கழகங்களுக்கு இடையிலான மாணவர் சம்மேளனத்தின் ஏற்பாட்டில் இடம்பெற்ற ஆர்ப்பாட்ட பேரணியில் கலந்து கொண்ட மாணவர்களை கலைக்க பொலிஸார் நீர்த்தாரை பிரயோகித்துள்ளனர்.
+Police dissolved students in reservoir during demonstration rally organized by Students Federation. Two, including Madushan Chandrajith, arrested.
 
-பல்கலைக்கழகங்களுக்கு இடையிலான மாணவர் சம்மேளனத்தின் ஒருங்கிணைப்பாளர் மதுஷன் சந்திரஜித் உட்பட இரு மாணவர்கள் இதன்போது கைது செய்யப்பட்டுள்ளனர்.
+🟩
+
+Police have used the reservoir to dissolve students who participated in a demonstration rally organized by the Students Federation between the Universities in Punji Borela.
+
+Two students, including Madushan Chandrajith, coordinator of the Inter -Student Federation, have been arrested.
 
 ◼️
 
 [Data](articles/5a7be956.json)
+
+[Extended Data](ext_articles/5a7be956.ext.json)
 
 ---
 
@@ -102,19 +228,67 @@ In Tuesday’s incident, after the trucks were rerouted they were stopped by “
 
 [Data](articles/f11d1fd3.json)
 
+[Extended Data](ext_articles/f11d1fd3.ext.json)
+
 ---
 
-### தரமற்ற மருந்துகளை கக்கினார் சமன்
+### மன்னார் பள்ளிமுனை கிராம மீனவர்கள் போராட்டம் முன்னெடுப்பு
+
+*2024-03-06 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178088) · `ta`
+
+மன்னார் பள்ளிமுனை கிராம மீனவர்கள் எதிர்நோக்கும் பிரச்சினைகளுக்கு துரித நடவடிக்கைகளை முன்னெடுக்க கோரி குறித்த கிராம மக்கள் இன்று புதன்கிழமை (6) காலை கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுத்தனர்.
+
+பள்ளிமுனை புனித லூசியா மீனவர் கூட்டுறவு சங்கத்தின் ஏற்பாட்டில் இன்றைய தினம் காலை 9.30 மணியளவில் பள்ளிமுனை மீன் சந்தை கட்டிடத் தொகுதிக்கு முன் குறித்த கவனயீர்ப்பு போராட்டம்  ஆரம்பமானது.
+
+குறித்த போராட்டத்தில் பள்ளிமுனை பங்குத்தந்தை, குறித்த கிராம மீனவர்கள் என பல நூற்றுக்கணக்கானவர்கள் கலந்து கொண்டனர்.
+
+கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டவர்கள் மன்னார் மாவட்டச் செயலகம் வரை அமைதியான முறையில் பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளை ஏந்தியவாறு சென்றனர்.
+
+இதன்போது பள்ளிமுனை கிராம மீனவர்கள் தமது வாழ்வாதாரத்தையும் தமக்கான இடங்களையும் தக்கவைப்பதில் பல்வேறு இடையூறுகளுக்கு முகம் கொடுத்து வருவதாக தெரிவித்தனர்.
+
+மேலும், மன்னார் சௌத்பார் மீன்பிடி துறையில் மீனவர்கள் வாழ்வாதாரம் மற்றும் மீன் பிடி எல்லை பிரச்சினைகளுக்கு முகம் கொடுத்து வருகின்றனர்.
+
+...
+
+[Data](articles/d91a1055.json)
+
+---
+
+### සප්ත කන්‍යා ගුවන් අනතුරට අදට වසර 50ක්
+
+*2024-03-06 16:17:55* · [`adalk`](https://www.ada.lk/breaking_news/සප්ත-කන්‍යා-ගුවන්-අනතුරට-අදට-වසර-50ක්/11-408456) · `si`
+
+මගීන් 182ක් සහ කාර්ය මණ්ඩලයේ 9දෙනා මරණයට පත්කල සප්ත කන්‍යා ගුවන් අනතුරට අදට වසර 50ක්
+
+සප්ත කන්‍යා කදුවැටිය පාමුල සිදුවු  ගුවන් සිදුවු ගුවන් අනතුරට වසර 50ක් පිරිම නිමිත්තෙන් අනතුරින් මියගිය පිරිස සිහිකරමින් අනුමස්මරණ උත්සවයක් 05දා පස්වරුවේ අඹගමුව සප්ත කන්‍යාකදුවැටිය පාමුල ඇති ස්මාරකය අභියසදි මෙරට ඉන්දුසියානු තානාපතිනි දේවි ගුස්ටිනා ටොබින් (Dewi Gustina Tobing) මහත්මිය සහ මධ්‍යම පළාත් ආණ්ඩුකාර නිතිඥ ලලිත් යු. ගමගේ මහතාගේ ප්‍රධානත්වයෙන් සිදු කෙරුණි.
+
+මාටින්එයා ගුවන් සේවයේ 138 ගුවන් යානය 1974 දෙසැම්බර් 4 දින ශ්‍රී ලංකාවේ සප්ත කන්‍යා කඳු වැටියේ ගැටී විනාශයට පත් වු අතර  එය ඉන්දුනීසියාවේ සුරාබයා සිට කොළඹට එමින් තිබු   මැක්ඩොනල් ඩග්ලස් DC-8-55CF යානය මෙමඅනතුරට පත්වු අතර මෙම අනතුරින් යානයේ සිටි මගීන් 191ක් සිටි අතර  හජ්ජි සැමරීමට මක්කම බලා ගමන්ගනිමින් සිටි ඉන්දුනීසියානු මගීන් 182ක් සහ කාර්ය මණ්ඩලයේ 9දෙනා  මෙහිදි  මරණයට පත් වූහ.
+
+මෙම පිරිස සිහි කිරිම සදහා ඉන්දුනිසායනු රජය විසින් සප්තකන්‍යා කදුවැටිය පාමුල ස්මාරකය ඉදිකළේය.
+
+...
+
+[Data](articles/9c6917ed.json)
+
+---
+
+### Equated non -standard drugs
 
 *2024-03-06 16:11:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-மருந்துகளை-கக்கினார்-சமன்/175-334287) · `ta`
 
-சுகாதார அமைச்சின் மேலதிக செயலாளர் சமன் ரத்நாயக்க   மாளிகாக்ன நீதவான் லோச்சனி அபேவிக்ரம வீரசிங்க முன்னிலையில் தரமற்ற மருந்துகள் கொள்வனவு தொடர்பான அனைத்து தகவல்களையும் வெளியிட்டு இரகசிய வாக்குமூலம் ஒன்றை அளித்துள்ளார்.
+Saman Ratnayake, Additional Secretary to the Ministry of Health, secretly confessed to equating non-standard drugs, following a court order.
 
-சந்தேகநபரான சமன் ரத்நாயக்கவை நீதிமன்றில் முன்னிலைப்படுத்துமாறு சிறைச்சாலை அத்தியட்சகருக்கு வழங்கப்பட்ட உத்தரவின் பிரகாரம், நீதவான் அறையில்  ஆஜர்படுத்திய பின்னர் அவர் இரகசிய வாக்குமூலம் அளித்துள்ளார்.
+🟩
+
+Additional Secretary to the Ministry of Health, Saman Ratnayake, has issued a secret confidential confession in the presence of Magistrate Lochani Abeywickrama Weerasinghe.
+
+He has made a secret confession after the order issued to the prison superintendent to present the suspect Saman Ratnayake in court.
 
 ◼️
 
 [Data](articles/eaebb38b.json)
+
+[Extended Data](ext_articles/eaebb38b.ext.json)
 
 ---
 
@@ -224,25 +398,33 @@ He said the book explains the first experience of the internationally sponsored 
 
 ---
 
-### `சதி` புத்தகம் எழுதுகிறார் கோட்டார்
+### Gotar writes the book 'Conspiracy'
 
 *2024-03-06 15:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதி-புத்தகம்-எழுதுகிறார்-கோட்டார்/175-334286) · `ta`
 
-2019 நவம்பரில் தான் ஜனாதிபதியாகத் தெரிவு செய்யப்பட்ட காலத்திலிருந்து, சில வெளிநாட்டு சக்திகள் மற்றும் உள்ளூர் கட்சிகள் என்னை ஆட்சியில் இருந்து அகற்றும் நோக்கத்தில் இருந்ததாக முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தெரிவித்தார்.
+Gotabhaya Rajapaksa, former President of Sri Lanka, claims foreign powers and local parties conspired to remove him from power since his election in November 2019. He announced a book titled "Conspiracy to Excrement Me from the President," highlighting the first internationally sponsored regime change operation in Sri Lanka.
 
-இன்று (6) வெளியிட்டுள்ள அறிக்கை ஒன்றில் கோட்டாபய ராஜபக்ச இதை குறிப்பிட்டுள்ளார். மேலும்,
+🟩
 
-"ஜனாதிபதி பதவியில் இருந்து என்னை வெளியேற்றுவதற்கான சதி" என்ற தலைப்பில் புத்தகத்தை வெளியிடுவதாகவும் அறிவித்தார்.
+Former President Gotabhaya Rajapakse said that since November 2019 was elected president, some foreign powers and local parties were aimed at removing me from power.
 
-இந்த நாடு சுதந்திரமடைந்த முதல் அறுபது வருடங்களில் ஒருபோதும் அனுபவித்திராத வகையில் இன்று வெளிநாட்டுத் தலையீடும், உள் அரசியலின் சூழ்ச்சியும் இலங்கையில் உள்ளதாக ராஜபக்ச கூறினார்.
+Gotabhaya Rajapaksa stated this in a statement issued today (6). Further,
 
-தம்மை வெளியேற்றுவதற்கான அரசியல் பிரச்சாரம் இலங்கையின் அரசியலில் ஒரு புதிய அம்சத்தைக் கொண்டுவந்தது என்றும், சுதந்திரம் பெற்றதில் இருந்து தேர்தலுக்குப் பிறகு அமைதியான அதிகாரப் பரிமாற்றங்களை மட்டுமே இந்நாடு அனுபவித்து வந்ததாகவும் அவர் கூறினார்.
+He also announced that he would publish the book titled "Conspiracy to Excrement Me from the President."
 
-எனவே, 2022 ஆம் ஆண்டு நிகழ்வுகள் இந்த நாட்டின் எதிர்காலத்திற்கு கடுமையான தாக்கங்கள் நிறைந்தவை என்று ராஜபக்ச கூறினார்.
+Rajapakse said that Sri Lanka is in Sri Lanka today that the country has never experienced foreign intervention and internal politics.
 
-...
+He said that the political campaign for the expulsion of him was a new aspect of Sri Lankan politics and that the country was only enjoying peaceful power exchanges since independence.
+
+Therefore, Rajapakse said that the events of 2022 were severely impacted on the future of this country.
+
+He said the book explains the first experience of the internationally sponsored regime change operation. Remble
+
+◼️
 
 [Data](articles/c54b7e86.json)
+
+[Extended Data](ext_articles/c54b7e86.ext.json)
 
 ---
 
@@ -479,6 +661,8 @@ Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arr
 ◼️
 
 [Data](articles/c87baac3.json)
+
+[Extended Data](ext_articles/c87baac3.ext.json)
 
 ---
 
@@ -909,24 +1093,6 @@ Despite the encouraging statistics, the district still grapples with significant
 [Data](articles/bd54ee78.json)
 
 [Extended Data](ext_articles/bd54ee78.ext.json)
-
----
-
-### Alizabri Rahim's parliamentary service suspended for a period of one month
-
-*2024-03-06 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178061) · `ta`
-
-Alizabri Rahim's parliamentary service suspended for a month from Wednesday, as per the Speaker's announcement.
-
-🟩
-
-Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a month from Wednesday (06), the Speaker said.
-
-◼️
-
-[Data](articles/74477903.json)
-
-[Extended Data](ext_articles/74477903.ext.json)
 
 ---
 
@@ -2000,9 +2166,11 @@ As such, school exercise books, stationery items, medicines and medical equipmen
 
 Wickremesinghe arrived at the parliament complex on Wednesday morning to brief the House on the progress of Sri Lanka’s economic recovery process.
 
-Addressing the parliamentary proceedings, the Head of State said imposing the VAT was not an easy decision to make, adding that this helped boost state revenue to nearly 11% of the GDP.
+Addressing the parliamentary proceedings, the Head of State acknowledged that imposing the VAT was ‘undoubtedly a bitter and challenging’ decision, adding that this helped boost state revenue to nearly 11% of the GDP.
 
-He explained that the growth in state revenue gave assurances to the international community that the island nation was capable of settling its outstanding debts.
+“We made the decision to implement such a tax with great reluctance. However, considering the economic ailment we face, there are no other viable options.”
+
+He explained that the growth in state revenue gave assurances to the international community of the island nation’s capacity to repay its outstanding debts.
 
 ...
 
@@ -2177,153 +2345,5 @@ The judge also announced that the victim should be sentenced to 2 years in priso
 [Data](articles/03a2b130.json)
 
 [Extended Data](ext_articles/03a2b130.ext.json)
-
----
-
-### 5 year old girl abuse;Rigorous imprisonment for part -time teacher
-
-*2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/175-334265) · `ta`
-
-A 5-year-old girl was sexually abused by Rajaratnam Ketheeswaran, a part-time teacher, in 2010. He was sentenced to life imprisonment. The victim may receive 2 years in prison and compensation.
-
-🟩
-
-Nuwara Eliya High Court Magistrate Viraj Weerasuriya yesterday (05) sentenced a man to 12 years in prison for allegedly accused of sexual abuse.
-
-A person who belongs to the Clavatan area belonging to the Nathanirij police division has been sentenced to life imprisonment.
-
-Rajaratnam Ketheeswaran, who was a part -time teacher at a Klavatan area school in January 2010, had sexually abused a grade five educated girl.
-
-He was sentenced to life imprisonment after the case was identified as a part -time teacher guilty on the basis of evidence that had been heard in the Nuwara Eliya High Court for the past 14 years.
-
-The judge also announced that the victim should be sentenced to 2 years in prison if the victim should be paid a compensation of Rs.. Remble
-
-◼️
-
-[Data](articles/c7286376.json)
-
-[Extended Data](ext_articles/c7286376.ext.json)
-
----
-
-### President Ranil Wickremesinghe's Speech in Parliament
-
-*2024-03-06 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178034) · `ta`
-
-President Ranil Wickremesinghe announced quick restructuring of foreign state loans, extending credit from 2023 to 2027, and early stabilization of the economy. He removed selected items from taxes and emphasized that beautiful words and promises alone cannot resolve economic crises.
-
-🟩
-
-President Ranil Wickremesinghe said that foreign state loans will be restructured quickly and will be paid for credit for the period from 2023 to 2027.
-
-The President also said that the economy is in the early stabilization and that the people will continue to provide relief.
-
-President Ranil Wickremesinghe said this while delivered a special speech in Parliament.
-
-He also said that the selected items, including the book and pharmaceuticals, will be removed from the list of taxes.
-
-He also said that he would not provide relief to the impact of the economy.
-
-Meanwhile, a party lies for power. He said that I am not working for power and working for the country.
-
-The president said that beautiful words and promises cannot resolve the economic crisis, he said.
-
-◼️
-
-[Data](articles/2d17b5c5.json)
-
-[Extended Data](ext_articles/2d17b5c5.ext.json)
-
----
-
-### Soil smuggling in Chavakachcheri Nunavai: Tipper driver's escape;Two persons arrested for chasing Tipper
-
-*2024-03-06 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178032) · `ta`
-
-In Chavakachcheri, a tipper driver escaped after a chase by police, who were investigating a mudslide. Two were arrested for chasing the tipper, but the driver remains at large.
-
-🟩
-
-The Chavakachcheri police, who were on traffic on Wednesday morning at around 2.00 am on Wednesday morning, were trafficking from Nunavil to Chavakachcheri.
-
-Subsequently, the police chased the tipper vehicle and put it in the surrounding area of Chavakachcheri.
-
-Tipper driver has escaped. Three young men were chasing the tipper on two motorcycles, knowing that the mudslide was taking place in their town.
-
-The young man who was on a motorcycle was arrested for his death as the other motorcycle driver was in a driver.. He was also arrested with a motorcycle with him.
-
-Tipper driver has not yet been arrested. Further investigations are being carried out by Chavakachcheri police.
-
-◼️
-
-[Data](articles/c928218a.json)
-
-[Extended Data](ext_articles/c928218a.ext.json)
-
----
-
-### President reveals about VAT release goods
-
-*2024-03-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194192) · `si`
-
-President Ranil Wickremesinghe announced a future VAT decrease, including exemptions for books, school, health equipment, and medicines, indicating a steady economic recovery.
-
-🟩
-
-President Ranil Wickremesinghe says that the VAT is expected to decline further in the future.
-
-The President was speaking at a special statement in parliament.
-
-The President added that books, school equipment, health equipment and medicines are expected to be released from VAT.
-
-The president said that the economy was likely to be constantly being recovered.
-
-◼️
-
-[Data](articles/0f7acafa.json)
-
-[Extended Data](ext_articles/0f7acafa.ext.json)
-
----
-
-### Do I receive two pensions?Chandrika denies
-
-*2024-03-06 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178031) · `ta`
-
-Chandrika Kumaratunga denies receiving two pensions, rejecting allegations by the chief cleric of the Mikindala Rajamaha Vihara. She clarifies she's only receiving the pension as a former president.
-
-🟩
-
-Former President Chandrika Kumaratunga has rejected Mikindalai's claim that he is receiving two pensions.
-
-The President has rejected the allegations made by the chief cleric of the Mikindala Rajamaha Vihara.
-
-I am only getting the pension given to me as a former president, ”the former President said.
-
-Former President Mahinda Rajapaksa has increased his pension for former presidents during his tenure, but former President TP Vijayatunga has not been given a hike.
-
-However, Maithripalasinananagam's President said that it was remedied that the former president said that the pension sent to his bank account is being used for social services.
-
-◼️
-
-[Data](articles/8827c3e5.json)
-
-[Extended Data](ext_articles/8827c3e5.ext.json)
-
----
-
-### Parliamentary attendence of Ali Sabri Raheem suspended for one month
-
-*2024-03-06 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-attendence-of-Ali-Sabri-Raheem-suspended-for-one-month/108-278326) · `en`
-
-Colombo, March 6 (Daily Mirror) - Parliamentary attendence of Ali Sabri Raheem has been suspended for a period of one month from today over the gold smuggling case, Speaker Mahinda Yapa Abeywardane anounced today.
-
-He said the suspension was imposed in terms of the recommendations of the report which was presented to Parliament on 24 January 2024 by the Chairman of the Committee on Ethics and Privileges Chamal Rajapaksa.
-
-◼️
-
-[Data](articles/5f9a9b2f.json)
-
-[Extended Data](ext_articles/5f9a9b2f.ext.json)
 
 ---

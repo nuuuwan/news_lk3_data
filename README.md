@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 19:50:43**
+As of **2024-03-06 20:02:31**
 
 ## Newspaper Stats
 
-*Scraped **11,296** Articles*
+*Scraped **11,299** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 132
+bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 578
 dailyftlk | 593
 islandlk | 601
-adalk | 956
+adalk | 957
 tamilmirrorlk | 1,375
-adaderanalk | 1,380
+adaderanalk | 1,381
 virakesarilk | 1,542
 dailymirrorlk | 1,726
 adaderanasinhalalk | 1,768
@@ -26,99 +26,163 @@ adaderanasinhalalk | 1,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,291 (100.0%) of 11,296 articles have been extended.
+11,296 (100.0%) of 11,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### பல்கலை மாணவர்கள் இருவரும் பிணையில் விடுதலை!
+### Sri Lanka FCDO advice campaign gains UK’s House of Lords support
 
-*2024-03-06 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178112) · `ta`
+*2024-03-06 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97782/sri-lanka-fcdo-advice-campaign-gains-uks-house-of-lords-support) · `en`
 
-'ஜே.வி. பியின் புதிய பல்கலைக்கழக மாணவர் சங்கங்கள் பல்வேறு  கோரிக்கைகளை முன்வைத்து செவ்வாய்க்கிழமை (05) முன்னெடுத்த  ஆர்ப்பாட்டத்தின் போது கைது செய்யப்பட்ட இரண்டு பல்கலைக்கழக மாணவர்களைக் கொழும்பு பிரதான நீதிவான் பிரசன்ன அல்விஸ் புதன்கிழமை (06) பிணையில் விடுவித்துள்ளார்.
+In January, Experience Travel Group published an open letter with 35 signatories calling for FCDO advice on Sri Lanka to be amended.
 
-மொரட்டுவை மற்றும் ஜயவர்தனபுர பல்கலைக்கழக மாணவர்களான சத்துரங்க ரூபசிங்க மற்றும் சுதர்சன ஆகிய இருவருமே பிணையில் விடுவிக்கப்பட்டனர்.
+It criticised mentions of fuel and food shortages in the country dating back to the 2022 political unrest and continued references to the 2019 terrorist attacks.
+
+The letter, signed by tourism providers in the UK and Sri Lanka, labelled current advice “overly harsh” and said the UK the government was “systematically undermining the travel industry” in Sri Lanka.
+
+The letter came to the attention of Conservative peer Lord Naseby, who told the House of Lords the FCDO comments “currently cause me concern because they refer to the fact that protests are going on when they are not”.
+
+He added: “They say that there is a fuel shortage, but there is not and has not been for 18 months. They also say that there are other difficulties of a terrorist nature, which we have not had for five years.”
+
+Naseby urged foreign secretary David Cameron to re-examine the guidance.
+
+...
+
+[Data](articles/486cc50f.json)
+
+---
+
+### Both university students released on bail!
+
+*2024-03-06 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178112) · `ta`
+
+Two university students, Sathuranga Rupasinghe and Sudarshana, were released on bail by JV. Colombo Chief Justice Prasanna Alwis after being arrested during a demonstration on Tuesday.
+
+🟩
+
+'JV. Colombo Chief Justice Prasanna Alwis has released two university students who were arrested during a demonstration on Tuesday (05) on Tuesday (05).
+
+Students of Moratuwa and Jayawardenapura University, Sathuranga Rupasinghe and Sudarshana were released on bail.
 
 ◼️
 
 [Data](articles/863268e8.json)
 
+[Extended Data](ext_articles/863268e8.ext.json)
+
 ---
 
-### பங்களாதேஷுக்கு வெற்றி இலக்கு 166 ஓட்டங்கள்
+### The winning target for Bangladesh is 166 runs
 
-*2024-03-06 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178110) · `ta`
+*2024-03-06 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178110) · `ta`
 
-சுற்றுலா இலங்கை அணிக்கும் பங்களாதேஷ் அணிக்கும் இடையிலான இரண்டாவது இருபதுக்கு 20 போட்டி தற்போது சில்ஹெட்டில் தற்சமயம் நடைபெற்று வருகிறது.
+Bangladesh's target is 166 runs. In the 2nd T20 match in Chilhead, Bangladesh won the toss and chose to bat. Sri Lanka scored 165/5 in 20 overs.
 
-நாணய சுழற்சியில் வெற்றி பெற்ற பங்களாதேஷ் அணி முதலில் துடுப்பெடுத்தாட இலங்கை அணிக்கு வாய்ப்பளித்தது.
+🟩
 
-அதன்படி களம் இறங்கிய இலங்கை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் முடிவில் 05 விக்கெட் இழப்பிற்கு 165 ரன்கள் எடுத்தது.
+The second Twenty20 match between the Sri Lankan team and Bangladesh is currently underway in Chilhead.
+
+Bangladesh won the currency spin and gave the Sri Lankan team the opportunity to bat first.
+
+Accordingly, the Sri Lankan team scored 165 runs for the loss of 5 wickets at the end of the 20 overs.
 
 ◼️
 
 [Data](articles/10e279a5.json)
 
+[Extended Data](ext_articles/10e279a5.ext.json)
+
 ---
 
-### ඉන්දියාවෙන් එන මත්ද්‍රව්‍ය බාරගන්න ලංකාවේ ප්‍රධානියා ?
+### Is Sri Lanka's head taken to accept drugs from India?
 
 *2024-03-06 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194219) · `si`
 
-ශ්‍රී ලංකාව වෙත ප්‍රවාහනය කරමින් තිබූ ඉන්දීය රුපියල් කෝටි 108ක් වටිනා හෂීස් මත්ද්‍රව්‍ය තොගයක් රැගත් යාත්‍රාවක්, පසුගිය මාර්තු 4 වනදා රාත්‍රියේ තමිල්නාඩුව ආසන්න මුහුදේදී එරට ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන තිබුණි.
+Sri Lanka's head allegedly involved in drug smuggling from India, with drugs worth Rs. 2,000 billion recovered. Suspects revealed plans to hand over drugs at sea to an unidentified Sri Lankan. The Indian Drugs Bureau implicated a South Indian mastermind, with Juffer Sardhik, a DMK party member, and his brother, linked to the drug trade.
 
-ඔවුන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අනාවරණ වී ඇත්තේ, එම මත්ද්‍රව්‍ය තොගය ගැඹුරු මුහුදේදී ශ්‍රී ලාංකිකයෙකුට භාරදීමට සූදානම් කර තිබූ බවය.
+🟩
 
-සැකකරුවන්ගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී ඔවුන් පවසා ඇත්තේ, අදාළ මත්ද්‍රව්‍ය තොගය පම්බන් වෙරළතීරයේ සිටින අයෙකුගෙන් ලබාගෙන එය ගැඹුරු මුහුදේදී ශ්‍රී ලංකාවේ සිට පැමිණෙන නාඳුනන පුද්ගලයෙකු වෙත භාරදීමට නියමිතව තිබූ බවය.
+The vessel carrying drugs worth Rs.
 
-ඔවුන්ගෙන් ලද තොරතුරුවලට අනුව අත්අඩංගුවට ගැනුණු එම මත්ද්‍රව්‍ය ජාලයේ මහා මොළකරු තමන් ඉන්දියාවේ සිට ශ්‍රී ලංකාව වෙත මත්ද්‍රව්‍ය ප්‍රවාහන කරන ජාවාරමකට සම්බන්ධ බවට පිළිගෙන තිබූ බවද ඉන්දීය මාධ්‍ය වාර්තාවල සඳහන් ය.
+In the interrogation of them, it has been revealed that the drug was prepared to hand over the drug at the deep sea.
 
-මේ අතර දකුණු ඉන්දියාවේ සිට ශ්‍රී ලංකාව වෙත අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කරන ජාවාරමක් පිළිබඳව ද පසුගියදා අනාවරණය වුණි.
+In the interrogation of the suspects, they have said that it was to be handed over to a person in Pamban collapse and handed over to an unidentified person from Sri Lanka.
+
+According to Indian media reports, the monk of the drug was arrested according to their information from them.
+
+Meanwhile, it has been revealed about a racket of ice transporting Sri Lanka from South India.
+
+Two suspects were arrested with an ice drugs worth Rs.
+
+The drug has been recovered from the Madurai, while he was taken transporting in a garbage yard in Chennai.
+
+Indian media reports that they were to transport them to Sri Lanka through the sea.
+
+The Indian Drugs Bureau has revealed that the masterminds of the drug is manufactured to the masterminder of the drug, the masterminds of the drug on the country of South India.
 
 ...
 
 [Data](articles/1eaa48ae.json)
 
+[Extended Data](ext_articles/1eaa48ae.ext.json)
+
 ---
 
-### උඩප්පුව සිද්ධියේ පොලිස් ස්ථානාධිපති අත්අඩංගුවට
+### Udappuwa Police OIC arrested
 
 *2024-03-06 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194218) · `si`
 
-උඩප්පුව පොලීසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා අත්අඩංගුවට ගෙන තාවකාලිකව ඔහුගේ වැඩ තහනම් කර තිබේ.
+Udappuwa Police OIC arrested for assaulting civilians, leading to unrest. Mundalama Police called to control situation.
 
-ඊයේ රාත්‍රියේ සිදුවී තිබූ මෙම පහරදීමත් සමග හටගත් නොසන්සුන්තාව පාලනය කිරීමට මුන්දලම පොලීසිය කැඳවීමටද පියවර ගැනුණි.
+🟩
 
-පුත්තලම උඩප්පුව ප්‍රදේශයේදී ඊයේ රාත්‍රි 9.30ට පමණ ගැටුමක් හටගෙන තිබුණේ උඩප්පුව පොලීසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති උප පොලිස් පරීක්ෂක රාජපක්ෂ සහ ප්‍රදේශවාසින් පිරිසක් අතරය.
+The OIC of the Udappuwa Police Criminal Investigation Division has been arrested and temporarily suspended.
 
-පහරදීම සිදුකරන අවස්ථාවේ නිලධාරියා ඉතා අශෝභන ලෙස හැසිරෙමින් රැස්ව සිටි ජනතාවට පරුෂ වචනයෙන් බැණවදින අයුරු පුද්ගලයෙකු වීඩියෝගත කර තිබේ.
+The Mundalama Police were also called to control the unrest in the incident last night.
 
-උඩප්පුව පොලිසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා පහරදීම සිදුකරන්නේ සිවිල් පුද්ගලයින් දෙදෙනෙකු සමග ඔහු පැමිණි මෝටර් රථයට ප්‍රදේශවාසීන් කෙළ ගැසූ බව පවසමිනි.
+The Udappuwa Police Inspector Rajapakse and a group of residents were abundant in the Udappuwa area in Udappuwa.
 
-පහරදීමෙන් තුවාල ලැබූ ප්‍රදේශවාසින් දෙදෙනෙකු උඩප්පුව ග්‍රාමීය රෝහලට ඇතුළත් කිරීමෙන් පසු එක් පුද්ගලයෙකු හලාවත මහ රෝහලට මාරුකර යවා තිබුණි.
+At the time of the attack, the officer has violently bowing the people to the people.
 
-සිද්ධියෙන් පසු තමාටද තුවාල සිදුවූ බව පවසමින් පොලිස් නිලධාරියාද ඊයේ රාත්‍රියේ උඩප්පුව රෝහලට ඇතුලත් වී තිබුණි.
+The OIC of the Udappuwa Police Investigation Division (CID) is assaulted by the attack on two civilians.
+
+A person was transferred to the Udappuwa Rural Hospital after being injured in the attack.
+
+The police officer had also been admitted to the Udappuwa hospital last night claiming he was injured after the incident.
+
+He was arrested in the hospital this morning and the DIG in charge of Puttalam Nalaka Silva has taken steps to ban his work.
+
+The two civilians in the car have also been arrested.
 
 ...
 
 [Data](articles/b23d870c.json)
 
+[Extended Data](ext_articles/b23d870c.ext.json)
+
 ---
 
-### බංග්ලාදේශයට ලකුණු 166ක ඉලක්කයක්
+### A target of 166 runs to Bangladesh
 
 *2024-03-06 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194217) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර දෙවන T20 තරගය සිලට් හිදී මේ වනවිට පැවැත්වෙයි.
+Bangladesh won the toss in the 2nd T20 match against Sri Lanka Tourism, choosing to bat first. Sri Lanka scored 165 runs in 20 overs, losing 5 wickets.
 
-එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+🟩
 
-ඒ් අනුව පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී රැස් කළ ලකුණු සංඛ්‍යාව 165කි.
+The second T20 match between the Sri Lanka Tourism and Bangladesh will be held at Syllel.
+
+The Bangladesh team won the advantage of the coin and they decided to give the Sri Lankan team first to bat first.
+
+According to the Sri Lanka Sri Lanka scored 165 runs for the loss of 5 wickets at the end of 20 overs.
 
 ◼️
 
 [Data](articles/8efe1a1b.json)
+
+[Extended Data](ext_articles/8efe1a1b.ext.json)
 
 ---
 
@@ -837,6 +901,22 @@ He has made a secret confession after the order issued to the prison superintend
 [Data](articles/eaebb38b.json)
 
 [Extended Data](ext_articles/eaebb38b.ext.json)
+
+---
+
+### මහ බැංකුව වැටුප් වැඩි කිරිම ගැන මුදල් කාරක සභා වාර්තාව අනුව තීරණයක්
+
+*2024-03-06 16:07:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුව-වැටුප්-වැඩි-කිරිම-ගැන-මුදල්-කාරක-සභා-වාර්තාව-අනුව-තීරණයක්/11-408455) · `si`
+
+එක් එක් ආයතන නිෂ්පාදනය වැඩිකර ගැනීම සඳහා වෘත්තීය සමිති සමග සාමුහික ගිවිසුම් ඇතිකර ගන්නා බවත්, එහෙත් එහිදී එක් එක් ආයතන අනුගමනය කරන සූත්‍ර වෙනස් බවත්, මහා බැංකුවේ සේවකයන් වැටුප් වැඩි කිරීම සම්බන්ධයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව සකසන වාර්තාවේදී ඒ ගැන අවධානය යොමුකරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+
+මහා බැංකුව සම්බන්ධයෙන් පමණක් නොව අනෙකුත් බැංකු ගැනද එහිදී අවධානය යොමුකරන ලෙස පැවසූ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා, ඒ සියලු තොරතුරු සලකා බැලූ වාර්තාවක්, පාර්ලිමේන්තුවේ මුදල් පිළිබඳ කාරක සභාවෙන් බලාපොරොත්තු වන, එහි සභාපති පා. ම. ආචාර්ය හර්ෂ ද සිල්වා මහතා වෙත සඳහන් කළේය.
+
+මේ ප්‍රශ්නය පාර්ලිමේන්තුව හැටියට විසඳා ගනිමු, යනුවෙන්ද ඔහු කියා සිටියේය.ඔහු මේ බව කියා සිටියේ, අග්‍රාමාත්‍යවරයාගෙන් අසනු ලබන ප්‍රශ්න යටතේ පා.ම.එස් එම් මරික්කාර් මහතා, 2024.03.06 දින විමසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+
+◼️
+
+[Data](articles/5f1143e0.json)
 
 ---
 
@@ -1852,6 +1932,28 @@ The Ministry further stated that steps are being taken to introduce training pro
 
 ---
 
+### හලාවත මත්ද්‍රව්‍ය මෙහෙයුමක් අතරතුර පලා යාමට තැත්කළ  සැකකරුවෙකු පොලිස් අත්අඩංගුවට පත්වීමෙන් පසු  මිය යයි
+
+*2024-03-06 13:13:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgr920qpz11o) · `si`
+
+හලාවත මත්ද්‍රව්‍ය මෙහෙයුමක් අතරතුර පලා යාමට තැත්කළ  සැකකරුවෙකු පොලිස් අත්අඩංගුවට පත්වීමෙන් පසු  මිය යයි
+
+පොලිසිය විසින් පසුගිය වසරේ දෙසැම්බර් මස 17 වෙනිදා සිට ආරම්භ කළ "යුක්තිය" මෙහෙයුම මේ වන විටත් අඛණ්ඩව ක්‍රියාත්මක වෙමින් පවතී.
+
+එම මෙහෙයුම අඛණ්ඩව ක්‍රියාත්මක කරන බව පසුගියදා පැවති මාධ්‍ය හමුවකදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් පැවසුවේය.
+
+මේ අතර හලාවත කොට්ඨාසයේ පොලිස් විෂ මත්ද්‍රව්‍ය අංශය ක්‍රියාත්මක කළ වැටලීමක් අතරතුර පුද්ගලයෙකු මියයාමේ සිද්ධියක්  මාදම්පේ පොලිස් වසමට අයත් පම්බල ග්‍රාමයෙන්  ( මාර්තු 6 වැනිදා) වාර්තා විය.
+
+හලාවත කොට්ඨාස විෂ මත්ද්‍රව්‍ය අංශයට ලැබුණු තොරතුරක් මත එම අංශයේ පොලිස් නිලධාරීන් පිරිසක් විසින් ත්‍රිරෝද රථයක් ලුහුබැඳ  ගොස් ඇති අතර එහිදී එම ත්‍රිරෝද රථයේ  සිටි පුද්ගලයින්  දෙදෙනෙකු  ත්‍රිරෝද  රථයෙන් පැන  දිව ගොස් ඇති බව පොලිසිය පැවසුවේය.
+
+එම මෙහෙයුමේදී සැකකරුවන් දෙදෙනෙකු පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර ඉන් එක් සැකකරුවෙකු මෙලෙස මරණයට පත්ව තිබේ.
+
+...
+
+[Data](articles/a51c040e.json)
+
+---
+
 ### Latest decision taken by the government on prosperity
 
 *2024-03-06 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194200) · `si`
@@ -2259,75 +2361,5 @@ The training camp will be held from March 25 to April 8, targeting the Pakistani
 [Data](articles/89b386c0.json)
 
 [Extended Data](ext_articles/89b386c0.ext.json)
-
----
-
-### 5% of country’s population suffering from glaucoma – Health Secretary
-
-*2024-03-06 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97767/5-of-countrys-population-suffering-from-glaucoma-health-secretary-) · `en`
-
-Nearly 5% of Sri Lanka’s population is currently suffering from glaucoma, according to the Secretary to the Ministry of Health specialist Dr. Palitha Mahipala.
-
-Explaining further, Dr. Mahipala stated that there is a significant increase in the number of glaucoma patients not only in Sri Lanka, but also across the world, adding that the disease was also one of the main causes of blindness.
-
-“If you take the world, 3.54% are suffering from glaucoma, but if you take Sri Lanka, it’s almost 5%. This may also be because of our increased elderly population”, the Health Secretary explained, emphasising the importance of going for regular eye check-ups, and making use of the programmes in place within the country’s health system to detect eye illnesses early.
-
-◼️
-
-[Data](articles/6f79aa4c.json)
-
-[Extended Data](ext_articles/6f79aa4c.ext.json)
-
----
-
-### Check the eyes if you work for 50 years
-
-*2024-03-06 12:07:18* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-50ට-වැඩිනම්-ඇස්-පරීක්ෂා-කර-ගන්න/11-408444) · `si`
-
-Health Secretary Palitha Mahipala emphasized the importance of eye checks for people over 50, especially those with family history of the disease. The Ministry of Health and National Eye Hospital are focusing on a world free from Glaucoma through education and targeted programs across Sri Lanka. The Vision 2020 and 2030 programs play a crucial role in preventing vision loss and disability.
-
-🟩
-
-The Secretary to the Ministry of Health, medical Palitha Mahipala said that it is very important for people over 50 years of age and that their relatives have the disease, and is very important.
-
-The Health Secretary was speaking at a special media briefing at the National Eye Hospital on the National Eye Hospital in the National Eye Hospital yesterday (05).
-
-In the year 2024, the Ministry of Health and the National Eye Hospital have taken place on March 10 to 16, and the theme to the theme in this year, "as the theme, we have been taken to a world free from Glocoma."
-
-Measures to educate patients in the National Eye Hospital as well as patients with patients in the island across the country. Galle, Puttalam, Badulla, Kandy, Kandy and JaffnaThese programs are being implemented targeting the districts.
-
-Speaking further, the Health Secretary said that the disease could be introduced as a major cause of the gleen, which can prevent the blindness, leading to blindness, leading to blindness.
-
-...
-
-[Data](articles/95beceb7.json)
-
-[Extended Data](ext_articles/95beceb7.ext.json)
-
----
-
-### Girl abuse by mother's husband
-
-*2024-03-06 12:05:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாயின்-கணவரால்-சிறுமி-துஷ்பிரயோகம்/76-334274) · `ta`
-
-A 12-year-old girl in Mahiyanganaya, Kesalpotha, was reported for abuse by her mother's husband. She was unable to return home after school, leading to her hospitalization. A 48-year-old suspect was arrested, and the mother is deaf.
-
-🟩
-
-A 12 -year -old student who is educated at a school in Kesalpotha area, Mahiyanganaya, has been reported on Tuesday (05).
-
-Mahiyanganan has informed the Children's and Women Bureau Officers by the Principal of the school after the student told the principal that the student could not go home after school.
-
-According to the authorities who went to the school, the girl was admitted to the Mahiyangan resource hospital and examined by the doctors.
-
-Subsequently, Mahiyanganaya police said that a 48 -year -old suspect was arrested and is conducting further investigations.
-
-Also, the girl's mother is also a deaf and unable woman.
-
-◼️
-
-[Data](articles/4fc0ae60.json)
-
-[Extended Data](ext_articles/4fc0ae60.ext.json)
 
 ---

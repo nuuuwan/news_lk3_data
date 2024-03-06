@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 00:33:17**
+As of **2024-03-07 00:47:46**
 
 ## Newspaper Stats
 
-*Scraped **11,332** Articles*
+*Scraped **11,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-dailyftlk | 594
+dailyftlk | 597
 islandlk | 601
 adalk | 959
 tamilmirrorlk | 1,377
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,332 (100.0%) of 11,332 articles have been extended.
+11,332 (100.0%) of 11,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Pragmatic economic policy regime for Sri Lanka
+
+*2024-03-06 23:45:41* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatic-economic-policy-regime-for-Sri-Lanka/4-759233) · `en`
+
+Sri Lankan people may remain hopeful that a new and pure Government may usher in a new policy regime to bring in long-awaited prosperity to them – Pic by Shehan Gunasekara
+
+Sri Lanka will face elections sometime in the future, and a new Government may be elected. It could be led by one of the old political parties or could be a brand-new party. The purpose of this note is to provide some thoughts on designing a pragmatic economic policy regime by the incoming new Government.
+
+...
+
+[Data](articles/1ca241b5.json)
+
+---
+
+### Revitalising Sri Lanka: NPP’s vision for innovation leadership
+
+*2024-03-06 23:40:51* · [`dailyftlk`](https://www.ft.lk/columns/Revitalising-Sri-Lanka-NPP-s-vision-for-innovation-leadership/4-759232) · `en`
+
+Amidst the ongoing economic crisis, Sri Lanka ranked 85th in the Global Innovation Index (GII) 2022, bringing to light several areas pertaining to innovation in which the country has progressed, and also several areas that need to be improved. The GII 2022 report could be used as a starting point to pay more attention to innovation in entrepreneurship, investments, businesses, social changes, and also in the overall economy, which, in the current economic context, could make a significant positive change.
+
+With an eye on the next five years, the NPP envisions a country that not only competes but excels in innovation on the global stage. The party is resolute in its goal to secure a position within the top 50 ranks of the Global Innovation Index, showcasing the determination to transform our nation into a hub of cutting-edge advancements.
+
+...
+
+[Data](articles/c7486ccd.json)
+
+---
 
 ### Bangladesh wins 08 wickets
 
@@ -55,6 +83,20 @@ Sri Lanka and Bangladesh are in a balanced series in each of the three matches.
 [Data](articles/d92a86bd.json)
 
 [Extended Data](ext_articles/d92a86bd.ext.json)
+
+---
+
+### Finding solutions to manage the talent drain
+
+*2024-03-06 23:37:58* · [`dailyftlk`](https://www.ft.lk/columns/Finding-solutions-to-manage-the-talent-drain/4-759231) · `en`
+
+President (then Prime Minister) pointed out in 2016 that “given the future growth potential and envisaged development plans, Sri Lanka will have to overcome the scarcity of skilled human resources apart from managing power and water requirements”. Sri Lanka eight years later is still looking for sustainable Human Resource solutions
+
+Official records suggest that over 1.1 million Sri Lankans have left the country in 2022 with a monthly average of about 94,000 while only 27.6% of total departures have left for foreign employment purposes, most of them low- and semi-skilled workers. In 2023, around 300,000. However there is evidence that middle-class professionals joined the exodus in 2022 and 2023 thinking that the country would take years to recover. Overall critical sectors like healthcare, banking sector and information technology increasingly struggle with talent shortages.
+
+...
+
+[Data](articles/f787dbe5.json)
 
 ---
 
@@ -2303,63 +2345,5 @@ The Dubai Police had requested the police branch across the International Police
 [Data](articles/bc1444d1.json)
 
 [Extended Data](ext_articles/bc1444d1.ext.json)
-
----
-
-### 13-year-old girl dies in slip-and-fall accident at school
-
-*2024-03-06 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97772/13-year-old-girl-dies-in-slip-and-fall-accident-at-school) · `en`
-
-A 13-year-old female student has died in a slip-and-fall accident at a school in Kalawana.
-
-Reportedly, she succumbed to injuries upon admission to the hospital.
-
-The incident had taken place between 7.15 a.m. and 7.30 a.m. today (March 06) at the Meepagama Jayanthi Maha Vidyalaya in Kalawana.
-
-◼️
-
-[Data](articles/728a8b75.json)
-
-[Extended Data](ext_articles/728a8b75.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-06 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178071) · `ta`
-
-Today's US $ 302.9735 to Rs. exchange rate is not provided.
-
-🟩
-
-The US $ 302.9735 was reported at Rs.
-
-◼️
-
-[Data](articles/cf73a3b8.json)
-
-[Extended Data](ext_articles/cf73a3b8.ext.json)
-
----
-
-### Schoolgirl dies suddenly during Kalawana school assembly
-
-*2024-03-06 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schoolgirl-dies-suddenly-during-Kalawana-school-assembly/108-278355) · `en`
-
-Kalawana, March 6 (Daily Mirror) - A 13-year-old student from the Meepagama School in Kalawana died after collapsing during the school's morning assembly today.
-
-The post mortem examination to determine the cause of her death was scheduled to take place at the Kalawana Hospital.
-
-The girl, who was in Grade 8 and a resident of Kukulegama in Kalawana, collapsed during the assembly and was rushed to the Kalawana Base Hospital.
-
-A hospital spokesperson said she was pronounced dead upon admission to the hospital.
-
-It was reported that the girl's elder brother had also succumbed to epilepsy a few months ago.
-
-◼️
-
-[Data](articles/e022c72a.json)
-
-[Extended Data](ext_articles/e022c72a.ext.json)
 
 ---

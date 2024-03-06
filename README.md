@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 15:02:52**
+As of **2024-03-06 15:17:44**
 
 ## Newspaper Stats
 
-*Scraped **11,230** Articles*
+*Scraped **11,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,74 +17,156 @@ dailyftlk | 593
 islandlk | 601
 adalk | 945
 tamilmirrorlk | 1,369
-adaderanalk | 1,370
+adaderanalk | 1,371
 virakesarilk | 1,528
-dailymirrorlk | 1,716
-adaderanasinhalalk | 1,755
+dailymirrorlk | 1,717
+adaderanasinhalalk | 1,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,225 (100.0%) of 11,230 articles have been extended.
+11,230 (100.0%) of 11,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### හිටපු ජනපති පොතක් ලියයි
+### Sri Lanka Women’s cricket team to tour South Africa
+
+*2024-03-06 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Womens-cricket-team-to-tour-South-Africa/108-278357) · `en`
+
+Colombo, (SLC) - The Sri Lanka Women’s Team will tour South Africa during the March–April period to engage in a white ball contest.
+
+During the tour, Sri Lanka will play three T20Is and three ODIs with the South African women’s National Team.
+
+◼️
+
+[Data](articles/3155a44a.json)
+
+---
+
+### Gotabaya Rajapaksa set to release new book on ‘conspiracies’ to oust him
+
+*2024-03-06 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97773/gotabaya-rajapaksa-set-to-release-new-book-on-conspiracies-to-oust-him) · `en`
+
+Former President Gotabaya Rajapaksa, in a new book penned on the series of events that forced him to bow out in 2022, has made controversial allegations about meticulously orchestrated ‘conspiracies’ to remove him from power.
+
+The former Sri Lankan leader claims that he was ousted through ‘conspiracies and mob violence sponsored by interested foreign parties and with the participation of specific sections of Sri Lankan society’.
+
+Rajapaksa has detailed the purported internationally sponsored regime change operation and the manipulation of internal politics against him in his new book titled “The Conspiracy to oust me from the Presidency”.
+
+The book is scheduled to be launched tomorrow (March 07), Ada Derana learns.
+
+◼️
+
+[Data](articles/8adfad47.json)
+
+---
+
+### ලෝක වෙළෙඳපොළේ රන් මිල වාර්තාගත ලෙස ඉහළට
+
+*2024-03-06 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194206) · `si`
+
+ලෝක වෙළෙඳපොළේ රන් මිල මේ වනවිට වාර්තාගත අන්දමේ ඉහළ යාමක් පෙන්නුම් කරයි.
+
+කැරට් 24 රන් අවුන්සයක් සඳහා ඉතිහාසයේ මෙතෙක් සටහන් වූ ඉහළම මිල විදියට අමෙරිකානු ඩොලර් 2,141යි ශත 59ක් ඊයේ (05) වාර්තා වුණි.
+
+පසුගිය දින 30ක කාලය සැලකූ විට ඩොලර් 100කට ආසන්න ප්‍රමාණයකින් රන් මිල ඉහළ ගොස් තිබේ.
+
+මාස 06ක කාලය සැලකූ විට රන් අවුන්සයක මිල ඩොලර් 200කට වැඩි ප්‍රමාණයකින් ඉහළ ගොසිනි.
+
+අවුරුද්දක කාලය සැලකූ විට රන් අවුන්සයක මිල ඩොලර් 315කින් පමණ ඉහළ ගොස් තිබේ.
+
+රන් මිල මේ විදිහට කැපී පෙනෙන ලෙස ඉහළ යාමට ගෝලීය භූ දේශපාලනික උණුසුම විශේෂයෙන් බලපා ඇත.
+
+ලොව පුරා මහ බැංකු රන් තොග රැස් කිරීමට පෙළඹෙන්නේ මේ විදියේ අස්ථාවරත්වයක් පවතින විටය.
+
+ඒ වගේම ආසියානු වෙළෙඳපොළවල රන් භාණ්ඩ සඳහා ඉල්ලුම ඉහළ යාමත් රන් මිල ඉහළ යාමට බලපා තිබේ.
+
+රන් මිල මේ ආකාරයෙන් තවදුරටත් ඉහළ මට්ටමක පවත්වා ගැනීමට වැදගත් වන සාධකයක් තමයි අමෙරිකානු මධ්‍යම සංචිතයේ නැත්නම් මහ බැංකුවේ පොලී අනුපාතිකය.
+
+අමෙරිකානු පොලී අනුපාත මේ වසරේදී කපා හැරීමක් අපේක්ෂා කරන නිසා රන් අවුන්සයක මිල ඩොලර් 2,300 දක්වා ඉහළ යනු ඇති බවට විශ්ලේෂකයන් පුරෝකථනය කරයි.
+
+◼️
+
+[Data](articles/48909a83.json)
+
+---
+
+### Former President writes a book
 
 *2024-03-06 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194205) · `si`
 
-"ජනපති ධුරයෙන් මා නෙරපීමේ කුමන්ත්‍රණය" නමින් හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් කෘතියක් රචනා කර තිබේ.
+Gotabhaya Rajapaksa, former President, wrote a book accusing foreign interference and violent protests of conspiring against him in 2022. The book, titled "conspiracy to expel myself as presidency," is set to be launched soon.
 
-2022 වසරේදී තමන්ට මුහුණදීමට සිදුවූ අභියෝගය පිළිබඳව එම කෘතියේ සඳහන් කර ඇති බව හිටපු ජනපති පවසයි.
+🟩
 
-"මෙම කෘතියේ අන්තර්ගතය වන්නේ ප්‍රජාතන්ත්‍රවාදීව බලයට පත්වූ ජනාධිපතිවරයෙකු විදේශීය පාර්ශ්වයන්ගේ මැදිහත්වීමෙන් සහ ශ්‍රී ලාංකේය සමාජයේ විශේෂිත කොටස් ගණනාවකගේ සහභාගීත්වයෙන් දියත් කරන ලද කුමන්ත්‍රණ සහ ප්‍රචණ්ඩකාරී උද්ඝෝෂණ තුළින් නෙරපා හැරීම පිළිබඳ වෘත්තාන්තයි" යනුවෙන් එහි පසු කවරයේ සඳහන් වෙයි.
+Former President Gotabhaya Rajapaksa has written a book by President Gotabhaya Rajapaksa, "conspiracy to expel myself as presidency."
 
-මෙම කෘතිය හෙට නිල වශයෙන් එළිදක්වීමට නියමිත බව ආරංචි මාර්ග සඳහන් කරයි.
+The former President says that he had the challenge to face in 2022 in the year 2022.
+
+The contents of this work states that a democratic president is the intervention of the foreign parties and the exports of Sri Lankan society with a special conspiracies and violent protesters.
+
+Sources say that tomorrow is to be launched tomorrow.
 
 ◼️
 
 [Data](articles/25413f31.json)
 
+[Extended Data](ext_articles/25413f31.ext.json)
+
 ---
 
-### என்னை பதவியிலிருந்து அகற்றுவதற்கான சதி - நூல் வெளியிடுகின்றார் கோட்டாபய
+### Gotabhaya publishes the conspiracy to remove me from office
 
 *2024-03-06 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178075) · `ta`
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தன்னை பதவியிலிருந்து அகற்றுவதற்காக மேற்கொள்ளப்பட்ட சதிகுறித்து நூல்ஒன்றை வெளியிடவுள்ளார்.
+Gotabhaya Rajapakse plans to publish a book on the conspiracy to remove him from office, highlighting foreign intervention in Sri Lankan politics and the peaceful regime change after his presidency.
 
-அறிக்கையொன்றில் இதனை தெரிவித்துள்ள அவர் 2019 நவம்பரில் தான் ஜனாதிபதியாக தெரிவு செய்யப்பட்டது முதல் சில உள்நாட்டு வெளிநாட்டு சக்திகள் தன்னை பதவியிலிருந்து அகற்றுவதில் தீவிரமாகயிருந்தன என அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-ஜனாதிபதி பதவியிலிருந்து என்னை வெளியேற்றுவதற்கான சதி முயற்சிகள் என்ற நூலை வெளியிடவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+Former President Gotabhaya Rajapakse will publish a book on the conspiracy to remove himself.
 
-உள்நாட்டு அரசியலில் வெளிநாட்டு தலையீடு என்பது இலங்கை அரசியலின் ஒரு பகுதியாகிவிட்டது என தெரிவித்துள்ள அவர் இலங்கை சுதந்திரம் பெற்றபின்னர் முதல் 60 வருடங்களில் இந்த நிலை காணப்படவில்லை எனவும் தெரிவித்துள்ளார்.
+He said in a statement that he had been active in the removal of some domestic foreign powers since he was elected president in November 2019.
 
-என்னை அரசியலில் இருந்து அகற்றுவதற்கான அரசியல் பிரச்சாரம் இலங்கை அரசியலில் புதிய அம்சத்தை கொண்டுவந்தது எனவும் குறிப்பிட்டுள்ள கோட்டாபய ராஜபக்ச சுதந்திரத்தின் பின்னர் இலங்கையில் ஆட்சிமாற்றங்கள் அமைதியான முறையிலேயே இடம்பெற்றுள்ளன எனவும் குறிப்பிட்டுள்ளார்.
+He said he would publish a conspiracy to expel me from the post of President.
 
-...
+He said that foreign intervention in domestic politics has become part of Sri Lankan politics, he said.
+
+He said that the political campaign for the removal of me from politics had brought a new aspect in Sri Lankan politics and that the regime change in Sri Lanka was peaceful after the independence of Gotabhaya Rajapaksa.
+
+Gotabhaya Rajapaksa, who has said that the events of 2022 have been severely impact on the country's future.
+
+◼️
 
 [Data](articles/1607778c.json)
 
+[Extended Data](ext_articles/1607778c.ext.json)
+
 ---
 
-### මන්නා රමේෂ් කොටුවෙයි
+### Manna Ramesh
 
 *2024-03-06 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194204) · `si`
 
-පාතාල කල්ලි සාමාජිකයෙකු වන "මන්නා රමේෂ්" නැමැත්තාව ඩුබායීහීදී අත්අඩංගුවට ගෙන ඇති බවට මෙරට ආරක්ෂක අංශ වෙත නිල වශයෙන් දැනුම්දී තිබේ.
+Manna Ramesh, an underworld gang member, is being sought by Sri Lankan security forces. Dubai Police requested his extradition for crimes including human killings in Avissawella.
 
-ඒ අනුව ඔහුව මෙරටට ගෙන ඒම සඳහා ඉදිරියේදී පොලිස් නිලධාරීන් කණ්ඩායමක් එරටට යෑමට නියමිත බව වාර්තා වෙයි.
+🟩
 
-අවිස්සාවේල්ල සහ ඒ ආසන්න ප්‍රදේශවල සිදුවූ මිනිස් ඝාතන ඇතුළු අපරාධ රැසක් සම්බන්ධයෙන් මෙරට පොලිසිවලට අවශ්‍යව සිටි  "මන්නා රමේෂ්" නමැත්තා ඩුබායිහි සැඟව සිටින බව වාර්තා විය.
+The Security Forces in the country has officially informed the security forces of Manna Ramesh, a underworld gang member.
 
-ඔහු මෙරටට භාරදෙන ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ජාත්‍යන්තර පොලිස් ශාඛාව හරහා ඩුබායි පොලීසියෙන් ඉල්ලීමක් කර තිබුණි.
+Accordingly, a group of police officers will visit the country to bring him to Sri Lanka.
+
+The "manna Ramesh 'wanted to do in Dubai, including human killings in Avissawella and nearby areas.
+
+The Dubai Police had requested the police branch across the International Police Branch to hand over him to the country.
 
 ◼️
 
 [Data](articles/bc1444d1.json)
+
+[Extended Data](ext_articles/bc1444d1.ext.json)
 
 ---
 
@@ -183,6 +265,8 @@ The Prime Minister said the Central Bank employees are entitled to housing loans
 ◼️
 
 [Data](articles/57fb1af5.json)
+
+[Extended Data](ext_articles/57fb1af5.ext.json)
 
 ---
 
@@ -1438,23 +1522,29 @@ In a statement issued by the Madras Central Revenue Investigation Unit of the Ma
 
 ---
 
-### 5 வயதுச் சிறுமி துஷ்பிரயோகம்; பகுதி நேர ஆசிரியருக்கு கடூழிய சிறை
+### 5 year old girl abuse;Rigorous imprisonment for part -time teacher
 
 *2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/76-334265) · `ta`
 
-பாலியல் துஷ்பிரயோக குற்றச்சாட்டில் குற்றவாளியாக இனங்காணப்பட்ட  ஒருவருக்கு 12 வருட கடூழிய சிறை தண்டனை விதித்து, நுவரெலியா மேல் நீதிமன்ற  நீதவான் விராஜ் வீரசூரிய நேற்று (05) தீர்ப்பளித்துள்ளார்.
+A 5-year-old girl was sexually abused by Rajaratnam Ketheeswaran, a part-time teacher, in 2010. He was sentenced to life imprisonment. The victim may receive 2 years in prison and compensation.
 
-நேட்டன்பிரிஜ் பொலிஸ் பிரிவுக்குட்பட்ட கிளவட்டன் பகுதியை சேர்ந்தவருக்கே இவ்வாறு கடூழிய சிறைத் தண்டனை வழங்கப்பட்டுள்ளது.
+🟩
 
-கடந்த 2010 ஆண்டு ஜனவரி மாத காலப்பகுதியில் கிளவட்டன் பகுதி பாடசாலை ஒன்றில் பகுதிநேர ஆசிரியராக கடமையாற்றிய இராஜரட்ணம் கேதீஸ்வரன் என்பவர் தரம் ஐந்தில் கல்வி கற்ற சிறுமியை பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+Nuwara Eliya High Court Magistrate Viraj Weerasuriya yesterday (05) sentenced a man to 12 years in prison for allegedly accused of sexual abuse.
 
-இது தொடர்பான வழக்கு விசாரணை நுவரெலியா மேல் நீதிமன்றத்தில் கடந்த 14 வருடங்களாக விசாரிக்கப்பட்ட நிலையில்  வழங்கப்பட்ட சாட்சியங்களின் அடிப்படையில்  இந்த பகுதி நேர ஆசிரியர் குற்றவாளியாக இனங்காணப்பட்ட நிலையில் இவருக்கு கடூழிய சிறை தண்டனை வழங்கப்பட்டது.
+A person who belongs to the Clavatan area belonging to the Nathanirij police division has been sentenced to life imprisonment.
 
-அத்துடன் குற்றவாளியாக இனங்காணப்பட்டவர், பாதிக்கப்பட்ட சிறுமிக்கு ஐந்து லட்சம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் இத் தொகை வழங்காவிட்டால் மேலும் 2 வருட சிறை தண்டனை அனுபவிக்க வேண்டும் என நீதிபதி அறிவித்தார். R
+Rajaratnam Ketheeswaran, who was a part -time teacher at a Klavatan area school in January 2010, had sexually abused a grade five educated girl.
+
+He was sentenced to life imprisonment after the case was identified as a part -time teacher guilty on the basis of evidence that had been heard in the Nuwara Eliya High Court for the past 14 years.
+
+The judge also announced that the victim should be sentenced to 2 years in prison if the victim should be paid a compensation of Rs.. Remble
 
 ◼️
 
 [Data](articles/03a2b130.json)
+
+[Extended Data](ext_articles/03a2b130.ext.json)
 
 ---
 
@@ -2227,75 +2317,5 @@ Meanwhile, police spokesman's lawyer said that 341 persons were killed during th
 [Data](articles/393c5b86.json)
 
 [Extended Data](ext_articles/393c5b86.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-03-06 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194183) · `si`
-
-Showers expected in the Southern Province, Ratnapura, and Kalutara districts, with dry weather elsewhere.
-
-🟩
-
-Showers during the evening or even night in the Southern Province and in the Ratnapura and Kalutara districts.
-
-The Department of Meteorology announced that there was a dry weather in the rest of the island.
-
-In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
-
-◼️
-
-[Data](articles/be2d46df.json)
-
-[Extended Data](ext_articles/be2d46df.ext.json)
-
----
-
-### Prohibition on political activities in schools
-
-*2024-03-06 04:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-அரசியல்-செயற்பாடுகளுக்கு-தடை/175-334262) · `ta`
-
-The Cabinet approved allowing provincial governors to ban schools from political activities, addressing complaints about such activities. Minister Bandula Gunawardena announced this at a press conference.
-
-🟩
-
-The Cabinet has approved the idea of giving provincial governors the power to ban schools and school premises for political activities.
-
-Minister and Cabinet spokesman Bandula Gunawardena said this at a press conference announcing the Cabinet decisions yesterday.
-
-Complaints have been made from various sides that political activities are being carried out in school and school premises.
-
-Minister and Cabinet spokesman Bandula Gunawardena said that the President has submitted the proposal to empower the provincial governors to prohibit political activities, including meetings, including meetings in those areas.. (A)
-
-◼️
-
-[Data](articles/601f4ebd.json)
-
-[Extended Data](ext_articles/601f4ebd.ext.json)
-
----
-
-### A review of the Reconciliation Commission Act
-
-*2024-03-06 04:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்க-ஆணைக்குழு-சட்டம்-தொடர்பில்-ஆராய்வு/175-334261) · `ta`
-
-Two discussions in Colombo raised awareness on the 'Truth, Integration and Reconciliation Commission Act' draft, aiming to promote national reconciliation and social justice in Sri Lanka. Representatives from civil society, university professors, and journalists participated, discussing the Interim Secretariat's program and the proposed bill for an independent Commission.
-
-🟩
-
-Two special discussions have been held in Colombo recently to raise awareness on the draft of the 'Truth, Integration and Reconciliation Commission Act' to promote national reconciliation, unity and social justice in Sri Lanka.
-
-One of them was held with the participation of representatives of the Himalayan Committee and representatives of civil society organizations and many other experts.. The next discussion was held with the participation of university professors, journalists and representatives of other civil societies.
-
-Here, focus on the current program of the Interim Secretariat for the Truth for National Reconciliation and Reconciliation Mechanism in the country and the proposed bill to establish this independent Commission.
-
-The people who joined the meeting contribute fully and put forward suggestions and ideas. (A)
-
-◼️
-
-[Data](articles/599fd4b5.json)
-
-[Extended Data](ext_articles/599fd4b5.ext.json)
 
 ---

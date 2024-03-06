@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 09:02:48**
+As of **2024-03-06 09:17:30**
 
 ## Newspaper Stats
 
-*Scraped **11,143** Articles*
+*Scraped **11,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,80 @@ newsfirstlk | 363
 economynextcom | 575
 dailyftlk | 593
 islandlk | 601
-adalk | 938
+adalk | 939
 tamilmirrorlk | 1,354
-adaderanalk | 1,356
+adaderanalk | 1,357
 virakesarilk | 1,508
-dailymirrorlk | 1,701
+dailymirrorlk | 1,702
 adaderanasinhalalk | 1,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,139 (100.0%) of 11,143 articles have been extended.
+11,143 (100.0%) of 11,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### மீண்டும் வழமைக்குத்திரும்பியது
+### Suspended end-of-term school tests in WP resume today
+
+*2024-03-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97761/suspended-end-of-term-school-tests-in-wp-resume-today) · `en`
+
+The Grade 10 and 11 end-of-term tests of the government schools in the Western Province, which were suspended after exam papers were found to have been leaked, have been resumed.
+
+Accordingly, the students will sit for the rest of the test papers starting today (March 06).
+
+The exam was suspended last week after the Science, English and Mathematics papers for Grades 10 and 11 were leaked to social media platforms prior to the scheduled test dates.
+
+The three subjects that were cancelled are slated to be held after preparing new test papers, the Western Provincial Education Department mentioned.
+
+Meanwhile, the Criminal Investigation Department (CID) has initiated an investigation after a complaint was filed on the matter.
+
+◼️
+
+[Data](articles/62211533.json)
+
+---
+
+### UK calls for all political parties in SL to honour IMF programme
+
+*2024-03-06 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-calls-for-all-political-parties-in-SL-to-honour-IMF-programme/108-278321) · `en`
+
+Colombo, March 6 (Daily Mirror) - British High Commissioner Andrew Patrick emphasized the need for the main three parties, if not all the major parties, to recognize the agreement with the International Monetary Fund (IMF).
+
+In an interview with Daily Mirror, he said, “I know it's a debated issue here, whether the government should have entered into an IMF deal and what the future of the IMF deal is.
+
+The High Commissioner made such remarks in the wake of the main parties making various remarks about the IMF programme. They even vowed to renegotiate the programme.
+
+“I wanted to say that as Sri Lanka approaches an election, I'm sure there will be candidates who will say that they don't need to have this deal. It's very difficult. Or they will say that they have a different way out, suggesting that renegotiations are easy,” he said.
+
+...
+
+[Data](articles/368684b9.json)
+
+---
+
+### Back to us
 
 *2024-03-06 08:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வழமைக்குத்திரும்பியது/175-334263) · `ta`
 
-உலகளாவிய ரீதியில் பேஸ்புக், இன்ஸ்டாக்ராம் மற்றும் மெசெஞ்சர் ஆகிய செயலிகள் திடீரென செயலிழந்த நிலையில் உலகளவின் அதன் பயனாளர்கள் பெரும் சிரமத்திற்குள்ளாகினர்
+Facebook, Instagram, and Messenger experienced a global outage, lasting about 2 hours, but have since returned to normal. The company apologized on Twitter and promised further repairs.
 
-இதையடுத்து, சுமார் 2 மணி நேரத்தின் பின் இவை மீண்டும் வழமைக்குத் திரும்பியுள்ளன.
+🟩
 
-எனினும் தனது டுவிட்டர் பக்கத்தில் மன்னிப்பு கேட்டதுடன், மீண்டும் விரைவில் சரிசெய்யப்படும் என்றும் குறிப்பிட்டிருந்தனர். R
+Worldwide its users are in great difficulty as Facebook, Instagram and Messenger suddenly crashed into the worldwide
+
+Subsequently, these have returned to normal after about 2 hours.
+
+However, he apologized on his Twitter page and said that it would be repaired again soon. Remble
 
 ◼️
 
 [Data](articles/4f1ed312.json)
+
+[Extended Data](ext_articles/4f1ed312.ext.json)
 
 ---
 
@@ -76,19 +120,35 @@ The MP Charitha Herath says that there is no political future, the General who d
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
+In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
+
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
 
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
-
 ...
 
 [Data](articles/d3ae41f0.json)
 
 [Extended Data](ext_articles/d3ae41f0.ext.json)
+
+---
+
+### චීන ජාතික මහජන කොංග්‍රසයේ වාර්ෂික සැසිවාරය ඇරඹේ
+
+*2024-03-06 08:00:50* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතික-මහජන-කොංග්‍රසයේ-වාර්ෂික-සැසිවාරය-ඇරඹේ/11-408440) · `si`
+
+චීනයේ රාජ්‍ය පාලනය පිළිබඳ ඉහළම බල ආයතනය වන චීන ජාතික මහජන කොංග්‍රසයේ වාර්ෂික සැසිවාරය ඇරඹේ. ඒ, බෙයිජිං අගනුවර පිහිටි මහ ශාලාවේ දී යි.
+
+14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය ඊයේ (5) පෙරවරුවේ  ආරම්භ විය. චීන කොමියුනිස්ට් පක්ෂ මහලේකම්, ජනාධිපති ෂී ජින්පිං මහතා ඇතුළු පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 3000 ක පමණ පිරිසක් සමාරම්භක උත්සවයට එක්වූහ.
+
+චීන අග්‍රාමාත්‍ය ලී ච්‍යං මහතා සැසිවාරය වෙත රාජ්‍ය කාර්ය වාර්තාව ඉදිරිපත් කරමින් පැවසුවේ, 2023 වසරේ රටේ ප්‍රධාන ආර්ථික හා සමාජ සංවර්ධන ඉලක්ක පූර්ණ ලෙස සාක්ෂාත් කිරීමට චීනය සමත් වූ බවයි.  2024 වසරේ රටේ දළ දේශීය නිෂ්පාදිත වටිනාකමේ 5% ක වර්ධනයක් අපේක්ෂා කරන බව ද අගමැතිවරයා එහිදී පැවසීය.
+
+...
+
+[Data](articles/b5d0bcae.json)
 
 ---
 
@@ -112,21 +172,29 @@ However, he said the present government could have gone for early negotiations w
 
 ---
 
-### රු. කෝටි 150ක් නීති විරෝධීව උපයා ගත්තැයි දෙමටගොඩ රුවන්ට, බිරිඳට හා පුතාට නඩු
+### Rs. Dematgoda Ruwan, wife and son have sued Dematgoda Ruwan, who has earned illegally earned
 
 *2024-03-06 07:47:41* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-150ක්-නීති-විරෝධීව-උපයා-ගත්තැයි-දෙමටගොඩ-රුවන්ට--බිරිඳට-හා-පුතාට-නඩු/11-408439) · `si`
 
-නීති විරෝධී අන්දමින් උපයාගත් රුපියල් කෝටි 150කට අධික මුදලක් යොදවා සුඛෝපභොගී යාන වාහන රන්ආභරණ ඇතුළු දේපළ උපයාගත් බවට චෝදනා කරමින් මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කාරයකු ලෙස ප්‍රකට දෙමටගොඩ රුවන්, ඔහුගේ පුතාට සහ බිරිඳට එරෙහිව නීතිපතිවරයා කොළඹ මහාධිකරණයේ වෙන වෙනම නඩු තුනක් පැවරීය.
+Rs. Dematgoda Ruwan's wife and son sued him for illegal earnings. The Attorney General filed cases against them under the Currency Irrigation Act and for investing in Sri Lanka, vehicles, and Rs. 20679650.
 
-නීති විරෝධී අන්දමින් උපයාගත් මුදල් මෙරට ආයෝජනය කර මුදල් විශුද්ධිකරණ පනත යටතේ වැරදි කළ බවට චෝදනා 20ක් යටතේ නීතිපතිවරයා විත්තිකරුවන්ට එරෙහිව වෙන වෙනම නඩු පවරා ඇත.
+🟩
 
-මෙලෙස චෝදනා නගමින් වෙන වෙනම නඩු පවරා ඇත්තේ සිරිනාථ පතිරනලාගේ රුවන් චමිල ප්‍රසන්න හෙවත් දෙමටගොඩ රුවන්, සිරිනාථ පතිරනලාගේ තරිඳු මධුසංඛ (පුතා) සහ ජෝන් පීටර්ලාගේ ශානිකා ලක්මිණි (බිරිඳ) එරෙහිවය.
+The Attorney General was issued in the Colombo High Court against his son and his wife, accusing of receiving over Rs.
 
-2019 ජනවාරි පළමුවැනිදාත් 2021 මාර්තු 23 වැනිදාත් අතර කාලය තුළදී පොදු අරමුණක් සහිතව කටයුතු කරමින් මුදල් විශුද්ධිකරණය කිරීමට කුමන්ත්‍රණය කිරීම, නීති විරෝධී ක්‍රියාවන් වලින් උපයාගත් මුදල් ශ්‍රී ලංකාවේ ආයෝජනය කර මුදල් විශූද්ධීකරන පනත යටතේ වැරදි කිරීම, එම වැරදි කිරීමට ආධාර අනුබල දීම ඇතුළු චෝදනා යටතේ විතත්තිකරුවන්ට එරෙහිව වෙන වෙනම නඩු පවරා ඇත.
+The Attorney General has filed a separate case against the defendants under the 20 allegations under the Currency Irrigation Act.
 
-...
+Sidata Pathiranlage Ruwan, Ruwan Chamila's Ruwan, Sira Pathiranla's Tharindu Madusan, Pathiraini (son) and Shanikani's Shani (Wife) is against John Peter.
+
+Invested in Sri Lanka and the Finance Act of March 20, 2019, invested in Sri Lanka and investment under the Finance ActThe separate cases have been filed.
+
+The Attorney General has also been accused of investing in Sri Lanka, two radiation vehicles and more luxury vehicles and Rs. 20679650 and Rs..
+
+◼️
 
 [Data](articles/14b79579.json)
+
+[Extended Data](ext_articles/14b79579.ext.json)
 
 ---
 
@@ -324,21 +392,27 @@ Minister and Cabinet spokesman Bandula Gunawardena said that the President has s
 
 ---
 
-### நல்லிணக்க ஆணைக்குழு சட்டம் தொடர்பில் ஆராய்வு
+### A review of the Reconciliation Commission Act
 
 *2024-03-06 04:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்க-ஆணைக்குழு-சட்டம்-தொடர்பில்-ஆராய்வு/175-334261) · `ta`
 
-இலங்கையில் தேசிய நல்லிணக்கம், ஒற்றுமை மற்றும் சமூக நீதியை மேம்படுத்தும் நோக்கில் உத்தேச 'உண்மை, ஒருமைப்பாடு மற்றும் நல்லிணக்க ஆணைக்குழு சட்டத்தின்' வரைவு தொடர்பில் விழிப்புணர்வை ஏற்படுத்தும் இரண்டு விசேட கலந்துரையாடல்கள் அண்மையில் கொழும்பில் நடைபெற்றுள்ளன.
+Two discussions in Colombo raised awareness on the 'Truth, Integration and Reconciliation Commission Act' draft, aiming to promote national reconciliation and social justice in Sri Lanka. Representatives from civil society, university professors, and journalists participated, discussing the Interim Secretariat's program and the proposed bill for an independent Commission.
 
-அவற்றில் ஒரு கலந்துரையாடல் ஹிமாலயன் குழுவின் பிரதிநிதிகள் மற்றும் சிவில் சமூக அமைப்புகளின் பிரதிநிதிகள் மற்றும் பல நிபுணத்துவ அறிவுள்ள பல தரப்பினரின் பங்கேற்புடன் நடைபெற்றுள்ளது. அடுத்த கலந்துரையாடல் பல்கலைக்கழக பேராசிரியர்கள், ஊடகவியலாளர்கள் மற்றும் பிற சிவில் சமூகங்களின் பிரதிநிதிகளின் பங்கேற்புடன் நடைபெற்றுள்ளது.
+🟩
 
-இங்கு, நாட்டில் தேசிய நல்லிணக்கத்திற்கான உண்மை மற்றும் நல்லிணக்க பொறிமுறைக்கான இடைக்கால செயலகத்தின் தற்போதைய வேலைத் திட்டங்கள் குறித்தும் இந்த சுயாதீன ஆணைக்குழுவை ஸ்தாபிப்பதற்கான உத்தேச சட்டமூலம் குறித்தும் முக்கியமாக கவனம் செலுத்தப்பட்டுள்ளது.
+Two special discussions have been held in Colombo recently to raise awareness on the draft of the 'Truth, Integration and Reconciliation Commission Act' to promote national reconciliation, unity and social justice in Sri Lanka.
 
-இக்கலந்துரையாடலில் இணைந்திருந்த நபர்கள் அதற்கு முழுமையாக பங்களிப்பதோடு ஆலோசனைகளையும் யோசனைகளையும் முன்வைத்துள்ளனர். (a)
+One of them was held with the participation of representatives of the Himalayan Committee and representatives of civil society organizations and many other experts.. The next discussion was held with the participation of university professors, journalists and representatives of other civil societies.
+
+Here, focus on the current program of the Interim Secretariat for the Truth for National Reconciliation and Reconciliation Mechanism in the country and the proposed bill to establish this independent Commission.
+
+The people who joined the meeting contribute fully and put forward suggestions and ideas. (A)
 
 ◼️
 
 [Data](articles/599fd4b5.json)
+
+[Extended Data](ext_articles/599fd4b5.ext.json)
 
 ---
 
@@ -2137,71 +2211,5 @@ Meanwhile, it has been reported that the road traffic in front of the University
 [Data](articles/cf6c8b61.json)
 
 [Extended Data](ext_articles/cf6c8b61.ext.json)
-
----
-
-### Sri Lanka to seek BOT investor for Galle leisure port
-
-*2024-03-05 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-bot-investor-for-galle-leisure-port-153275/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given the approval to call for expressions of interests from private investors to develop Galle Port as a leisure and commercial port as a public private partnership (PPP), Minister Bandula Gunawardana said.
-
-The private party will have to invest on a breakwater, sea wall, deep passenger anchorage, channel and land filling.
-
-Mixed development projects would be set up on the filled land, he said.
-
-The PPP would be on a build operate transfer basis. (Colombo/Mar05/2024)
-
-◼️
-
-[Data](articles/d4bd67e9.json)
-
-[Extended Data](ext_articles/d4bd67e9.ext.json)
-
----
-
-### Sri Lanka stocks close near 3-month high in high turnover
-
-*2024-03-05 17:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-near-thee-month-high-in-high-turnover-153280/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main stock index edged 0.34 percent firmer on Tuesday to hit its highest in near three months with the turnover recording at near 1.5 billion rupees, the bourse data showed.
-
-The broader All Share Price Index (ASPI) closed 0.34 percent or 36.42 points up, at 10,841.65, its highest finish since December 12, 2024, while more liquid S&P SL20 Index edged up 0.24 percent, or 7.46 points, at 3,092.25.
-
-Turnover stayed above the 1 billion-mark for the seventh straight session, at 1.5 billion.
-
-“There were a lot of retailers in the market and some local funds were active. Foreigners are still on the selling side,” a senior stockbroker said.
-
-“Sentiment is bit positive with the expectation that investors who will get the divestment funds from Expolanka may reinvest in some other stocks.”
-
-Expolanka on Holdings Plc announced a trading suspension following Friday’s announcement of de-listing with effect from 4th March 2024.
-
-...
-
-[Data](articles/5232dc3e.json)
-
-[Extended Data](ext_articles/5232dc3e.ext.json)
-
----
-
-### Demonstrators released in front of the Speaker's official residence
-
-*2024-03-05 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/177994) · `ta`
-
-Kaduwela Magistrate ordered the release of 13 protesters arrested for demonstrating near the Speaker's residence. They were charged with forming an organized committee and disrupting the police and public.
-
-🟩
-
-Kaduwela Magistrate Sanima Vijayabandara today (05) ordered the release of the 13 persons arrested by the Talangama police for protesting in front of the Speaker's official residence near the Battaramulla Polthuwa junction.
-
-Thirteen community activists who informed the Speaker of the country during the protest on May 4, 2022 or its day, were arrested by the Talangama police and later released on bail by the Kaduwela court.
-
-The police have filed a chargesheet in court on several charges, including the formation of an organized committee and disrupting the police and the public.
-
-◼️
-
-[Data](articles/cb68b837.json)
-
-[Extended Data](ext_articles/cb68b837.ext.json)
 
 ---

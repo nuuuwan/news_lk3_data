@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 05:37:37**
+As of **2024-03-06 05:56:08**
 
 ## Newspaper Stats
 
-*Scraped **11,116** Articles*
+*Scraped **11,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ bbccomsinhala | 131
 dbsjeyarajcom | 173
 newsfirstlk | 363
 economynextcom | 575
-islandlk | 592
 dailyftlk | 593
+islandlk | 601
 adalk | 936
 tamilmirrorlk | 1,349
 adaderanalk | 1,354
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,116 (100.0%) of 11,116 articles have been extended.
+11,116 (99.9%) of 11,125 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1302,6 +1302,46 @@ The suspect, a 29-year-old resident of Polpithigama, had previously been arreste
 
 ---
 
+### Shirtworks debuts exclusive readymade and tailored suits
+
+*2024-03-05 19:42:00* · [`islandlk`](http://island.lk/shirtworks-debuts-exclusive-readymade-and-tailored-suits/) · `en`
+
+Shirtworks (SWX), Sri Lanka’s Home of Menswear, reaffirms it’s dedication to exceptional style and the re-launch of its SWX Store in Colombo 04 with an exclusive launch of Readymade and Bespoke Suitings. This exciting development promises a refined experience for discerning gentlemen seeking premium quality and personalized elegance.
+
+Shirtworks (SWX), has long been a haven for modern gentlemen, offering a curated selection of renowned brands like ED’s Array, Leonardo, Class One, Crocodile & Emerald. Its acclaimed “Bespoke” section elevates the experience further, featuring superfine fabrics and world-class designs for a perfect fit.
+
+...
+
+[Data](articles/a166879b.json)
+
+---
+
+### Pan Asia Bank joins hands with AIA Insurance to bring world-class protection, health and investment coverage to its valued customers
+
+*2024-03-05 19:41:00* · [`islandlk`](http://island.lk/pan-asia-bank-joins-hands-with-aia-insurance-to-bring-world-class-protection-health-and-investment-coverage-to-its-valued-customers/) · `en`
+
+Reaffirming its customer-centric focus, the Truly Sri Lankan Bank, Pan Asia Bank, has forged a strategic partnership with AIA Insurance Lanka, to provide comprehensive insurance solutions – including protection, health and investment solutions – that meet the changing needs of the Bank’s valued consumers.
+
+Expressing his enthusiasm about the new partnership, Naleen Edirisinghe, CEO of Pan Asia Bank said, “We are pleased to partner with AIA Insurance to offer unparalleled customer convenience and a diverse array of insurance solutions – spanning retirement plans, investment plans, life and health insurance. This strategic collaboration will offer our valued customers a much wider choice to ensure their financial security for a lifetime that best suits their needs without being constrained in their choices. Pan Asia Bank is committed to empower its customers with industry-best financial solutions.”
+
+...
+
+[Data](articles/09a53922.json)
+
+---
+
+### Sri Lanka celebrates its remarkable recovery at ITB travel fair in Berlin
+
+*2024-03-05 19:39:00* · [`islandlk`](http://island.lk/sri-lanka-celebrates-its-remarkable-recovery-at-itb-travel-fair-in-berlin/) · `en`
+
+Sri Lanka Tourism is all set to give it’s best at the ITB Berlin this year, which will kick off on the 5th of March 2024 and continue till 7th March 2024 at Messe Berlin, Germany. The Island paradise will showcase all its Tourism Products to lure the International tourists to come and have an experience of a lifetime.
+
+...
+
+[Data](articles/96ff7d6c.json)
+
+---
+
 ### Railway strike temporarily opened
 
 *2024-03-05 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194176) · `si`
@@ -1325,6 +1365,34 @@ Railway Trade Unions said that after an explanation made by the railway authorit
 [Data](articles/5f900b50.json)
 
 [Extended Data](ext_articles/5f900b50.ext.json)
+
+---
+
+### Dilip de S. Wijeyeratne appointed to Janashakthi Life Board
+
+*2024-03-05 19:37:00* · [`islandlk`](http://island.lk/dilip-de-s-wijeyeratne-appointed-to-janashakthi-life-board/) · `en`
+
+Janashakthi Life, a member of the Janashakthi Group, announces the appointment of Dilip de S. Wijeyeratne as an Independent, Non-Executive Director to the Company’s Board of Directors, effective from 14th February 2024.
+
+...
+
+[Data](articles/cdcd6e83.json)
+
+---
+
+### Lanka Milk Food shares nourish bourse into a degree of vibrancy
+
+*2024-03-05 19:32:00* · [`islandlk`](http://island.lk/lanka-milk-food-shares-nourish-bourse-into-a-degree-of-vibrancy/) · `en`
+
+Although the stock market kicked off on a very bullish note yesterday, during the latter part of the day it slowed down, market analysts said.
+
+Lanka Milk Food shares were in demand in considerable amounts but the reasons for the development could not be immediately ascertained. Both indices moved upwards. The All- Share Price Index went up by 38.29 points, while the S and P SL20 rose by 12.16 points. Turnover stood at Rs 1.5 billion with two crossings.
+
+Those crossings were reported in Dankotuwa Porcelain, which crossed Rs 28 worth 5.36 million shares to the tune of Rs 150 million and DFCC Bank’s 300,000 shares crossed to the tune of Rs 20.7 million; its shares traded at Rs 69.
+
+...
+
+[Data](articles/96595652.json)
 
 ---
 
@@ -2129,129 +2197,5 @@ With regard to Sri Lanka’s performance in its top 15 major export markets, the
 [Data](articles/6a8d8fe3.json)
 
 [Extended Data](ext_articles/6a8d8fe3.ext.json)
-
----
-
-### Message to the world from China
-
-*2024-03-05 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194166) · `si`
-
-The 2nd session of the 14th Chinese People's Congress opened in Beijing, with Chinese President Xi Jinping and 2900 representatives present. The Prime Minister presented the State Action Report 2024, highlighting China's achievements in economic and social development post-pandemic, aiming for a 5% economy growth in 2024. The year marks the 75th anniversary of the People's Republic of China, focusing on the "Five Year Plan".
-
-🟩
-
-The second session of the 14th Chinese People Congress began in Beijing this morning.
-
-Chinese Communist Party, including the Chinese President Xi Ginepin, and about 2900 representatives of the Chinese Communist Party and the National People's Congress as well as representatives of the National People's Congress were also present.
-
-The Prime Minister of the Chinese Prime Minister presented the State Action Report 2024 at the second session.
-
-The Prime Minister of the Chinese Prime Minister has stated that China has achieved the main economic and social development goals of the Korona epidemic.
-
-He added that in 2024, the Chinese economy is expected to increase by 5%.
-
-The year 75th anniversary of the establishment of the People's Republic of China is also considered a decisive year to implement the '' 'Five Year Plan.
-
-◼️
-
-[Data](articles/dc8c02c8.json)
-
-[Extended Data](ext_articles/dc8c02c8.ext.json)
-
----
-
-### Asela Sampath tenders apology to ex-Minister Channan Jayasumana
-
-*2024-03-05 16:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asela-Sampath-tenders-apology-to-ex-Minister-Channan-Jayasumana/108-278281) · `en`
-
-Colombo, March 5 (Daily Mirror)- Asela Sampath, the National Organizer of the All Ceylon Restaurant Owners’ Association, today tendered an apology and expressed regret to former Minister and Parliamentarian Dr. Channa Jayasumana against two false statements he had made by on 21 June 2021 against Dr. Channan Jayasumana on social media regarding the Sinovac Covid-19 vaccine proposed to be manufactured in Sri Lanka with the approval of the World Health Organization.
-
-The defendant had made a defamatory statement against Dr. Jayasumana alleging that the plaintiff in this case had accepted monetary and other advantages with regard to the proposed programme for which Dr. Jayasumana had sued for Rs. 5,000,000 from Asela Sampath for slandering him.
-
-At the outset of the hearing before the Colombo District Court, Counsel appearing on behalf of Asela, Sampath pleaded that his client was willing to tender an apology in court to Dr. Channa Jayasumana.
-
-...
-
-[Data](articles/33bb1e2d.json)
-
-[Extended Data](ext_articles/33bb1e2d.ext.json)
-
----
-
-### The firearm emerged from the buffale
-
-*2024-03-05 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194164) · `si`
-
-The Police Special Task Force arrested 9 suspects in Pubudugoda, including a criminal hiding in Dubai, for a ransom demand shooting at Kandana on August 4 last year. A firearm with two magazines of 45 bullets was found.
-
-🟩
-
-The Police Special Task Force has arrested 9 persons on suspicion of shooting at the Kandana, demanding ransom.
-
-The shooting was carried out on August 4 last year and found the firearm that were suspected to be used.
-
-The fanless, who is hiding in Dubai, an organized criminal and a drug dealer, is found in Dubai.
-
-Two magazines with 45 bullets can be operated by the firearm.
-
-The raid was carried out in Pubudugoda, Pubudugoda, Pamunugama police division today (05).
-
-In the house of an organized criminal, a hide criminal in Dubai, was found in the house of the little mother's home.
-
-Three suspects and six suspects were arrested at the house.
-
-◼️
-
-[Data](articles/6590fc07.json)
-
-[Extended Data](ext_articles/6590fc07.ext.json)
-
----
-
-### Java Lane - Today
-
-*2024-03-05 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/177974) · `ta`
-
-Java Lane and Moragasmullai face off in the 3rd semi-finals of the Yusuf Bowl. Java Lane's B team, with Rinon Club, remains undefeated. Java Lane won a penalty shootout against Moragasmullai, and in group C, Corporation won 2-1, while Victory lost 0-1. Moragasmullai is second in their group, having beaten Java Lane in the quarter-finals. Java Lane is favored to win today's quarter-finals and advance, but Moragasmullai is not expected to lose.
-
-🟩
-
-The Java Lane Club and the Moragasmullai club will play today (05) in the 3rd semi -finals of the Yusuf Bowl football between the 19 -year -old teams organized by the City Football League.
-
-The B team with the Rinon Club, which he played twice, ended without a loss.
-
-In order to decide the first team for the B team, Java Lane won the number 9 - 8 in the implementation of the penalty.
-
-In one of the two matches he played in the C. group, the Corporation won 2 - 1. In the other match, Victory lost to 0 - 1.
-
-Accordingly, the group came to second place in Moragasmulla and won the quarterly opposing Java Lane.
-
-The Java Lane Corporation is a bit strong in the two teams and is expected to win today's quarter -finals and advance to the semi -finals.
-
-However, the Moragasmullai Corporation cannot expect this match to slip.
-
-◼️
-
-[Data](articles/e6ff077c.json)
-
-[Extended Data](ext_articles/e6ff077c.ext.json)
-
----
-
-### Railway workers allegedly assault two tourists
-
-*2024-03-05 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-workers-allegedly-assault-two-tourists/108-278280) · `en`
-
-Railway workers allegedly assaulted two tourists on a train travelling from Colombo to Badulla.
-
-These tourists had reportedly travelled in the first-class compartment with second-class tickets.
-
-Accordingly, it is reported that the two tourists were allegedly assaulted by the employees of the Nawalapitiya railway station and pulled out of the train.
-
-◼️
-
-[Data](articles/c755497a.json)
-
-[Extended Data](ext_articles/c755497a.ext.json)
 
 ---

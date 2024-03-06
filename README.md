@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 14:17:41**
+As of **2024-03-06 14:33:22**
 
 ## Newspaper Stats
 
-*Scraped **11,222** Articles*
+*Scraped **11,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ islandlk | 601
 adalk | 945
 tamilmirrorlk | 1,368
 adaderanalk | 1,369
-virakesarilk | 1,526
-dailymirrorlk | 1,714
+virakesarilk | 1,527
+dailymirrorlk | 1,715
 adaderanasinhalalk | 1,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,219 (100.0%) of 11,222 articles have been extended.
+11,222 (100.0%) of 11,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-06 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178071) · `ta`
+
+இன்று புதன்கிழமை (மார்ச் 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 302.9735 ஆகவும் விற்பனை விலை ரூபா 312.6086 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cf73a3b8.json)
+
+---
+
+### Schoolgirl dies suddenly during Kalawana school assembly
+
+*2024-03-06 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schoolgirl-dies-suddenly-during-Kalawana-school-assembly/108-278355) · `en`
+
+Kalawana, March 6 (Daily Mirror) - A 13-year-old student from the Meepagama School in Kalawana died after collapsing during the school's morning assembly today.
+
+The post mortem examination to determine the cause of her death was scheduled to take place at the Kalawana Hospital.
+
+The girl, who was in Grade 8 and a resident of Kukulegama in Kalawana, collapsed during the assembly and was rushed to the Kalawana Base Hospital.
+
+A hospital spokesperson said she was pronounced dead upon admission to the hospital.
+
+It was reported that the girl's elder brother had also succumbed to epilepsy a few months ago.
+
+◼️
+
+[Data](articles/e022c72a.json)
+
+---
 
 ### Seven men arrested in India over alleged gang-rape of tourist
 
@@ -69,6 +101,8 @@ The Prime Minister said the Central Bank employees are entitled to housing loans
 ◼️
 
 [Data](articles/81e30334.json)
+
+[Extended Data](ext_articles/81e30334.ext.json)
 
 ---
 
@@ -113,6 +147,8 @@ Despite the encouraging statistics, the district still grapples with significant
 ...
 
 [Data](articles/bd54ee78.json)
+
+[Extended Data](ext_articles/bd54ee78.ext.json)
 
 ---
 
@@ -257,6 +293,8 @@ Recent media reports revealed that the CBSL had increased the salaries of its em
 ...
 
 [Data](articles/6b061e05.json)
+
+[Extended Data](ext_articles/6b061e05.ext.json)
 
 ---
 
@@ -2263,55 +2301,5 @@ Professor Von Beyme, Head of the Institute of Political Science at the Universit
 [Data](articles/58f02c67.json)
 
 [Extended Data](ext_articles/58f02c67.ext.json)
-
----
-
-### The ‘Gentlemen’s Game’ in need of Gentlemen - EDITORIAL
-
-*2024-03-06 03:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Gentlemens-Game-in-need-of-Gentlemen-EDITORIAL/172-278299) · `en`
-
-Hooray and congratulations! Our national cricket team won a full series of matches. It was against Afghanistan, but no matter, at last we have won a whole series. It was refreshing to see our team win. The huge crowd at the third T-20 match, vouched for the regeneration of interest among the fans of the game in the country.
-
-While we won all of the test matches, it was the absence of spectators which was prominent. Despite the fact entrance to the games were free, a sparse crowd attended the matches.
-
-During an earlier era we were enthralled when we beat teams like India, Pakistan and Australia. In those days beating even England was no big deal.
-
-But times have changed. At the Dambulla Cricket Stadium where the last T-20 match between Afghanistan and our national team took place, we witnessed a sad change for the worse in the spirit the game was played.
-
-...
-
-[Data](articles/8eb79447.json)
-
-[Extended Data](ext_articles/8eb79447.ext.json)
-
----
-
-### The children of Sri Lankans born in India were granted citizenship rights
-
-*2024-03-06 02:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178024) · `ta`
-
-Sri Lankan children born in India, including those returning from India, were granted Sri Lankan citizenship, with NGO Ober Ceylon's assistance.
-
-🟩
-
-Sri Lankan children of Sri Lankans who returned from India were granted the right of Sri Lankan citizenship on Tuesday (5).
-
-Sri Lankans who traveled to India during the 90th war came to Sri Lanka after the end of the war in India.
-
-The children of Sri Lankans born in India in India had trouble getting the right of Sri Lankan citizenship.
-
-This was followed by the contribution of the NGOs called Ober Ceylon under the patronage of the Department of Immigration and Emigration.
-
-As a part of this, 71 children of Sri Lankans born in India over the age of 22 were granted citizenship today.
-
-Thus, the citizens from Vavuniya, Mannar, Mullaitivu, Kilinochchi, Jaffna, Trincomalee and Batticaloa received.
-
-Vavuniya Government Agent Sarath Chandra, Additional Government Agent. The Deputy Controller of the Department of Immigration and Emigration. H. G. Preaching, Ober company headmaster. C. Many people, including Suryakumari, were present.
-
-◼️
-
-[Data](articles/e995e039.json)
-
-[Extended Data](ext_articles/e995e039.ext.json)
 
 ---

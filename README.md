@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 11:33:22**
+As of **2024-03-06 11:52:31**
 
 ## Newspaper Stats
 
-*Scraped **11,173** Articles*
+*Scraped **11,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,64 @@ dailyftlk | 593
 islandlk | 601
 adalk | 940
 tamilmirrorlk | 1,355
-adaderanalk | 1,362
+adaderanalk | 1,363
 virakesarilk | 1,516
 dailymirrorlk | 1,708
-adaderanasinhalalk | 1,745
+adaderanasinhalalk | 1,746
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,172 (100.0%) of 11,173 articles have been extended.
+11,173 (100.0%) of 11,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### සමන් රත්නායක අධිකරණය හමුවට
+### Additional Health Secretary produced before court
+
+*2024-03-06 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97766/additional-health-secretary-produced-before-court) · `en`
+
+Additional Secretary of the Ministry of Health Dr. Saman Ratnayake arrived at the Maligakanda Magistrate’s Court this morning (March 06).
+
+Rathnayake was arrested by the Criminal Investigation Department (CID) on March 01 in connection with the substandard human immunoglobulin procurement scandal.
+
+◼️
+
+[Data](articles/f7d81883.json)
+
+---
+
+### Saman Ratnayake to appear in court
 
 *2024-03-06 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194195) · `si`
 
-සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතාව මේ වනවිට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට රැගෙනවිත් තිබේ.
+Saman Ratnayake, Additional Secretary to the Ministry of Health, has been sentenced to the Maligakanda Magistrate's Court.
+
+🟩
+
+Additional Secretary to the Ministry of Health Saman Ratnayake has been sentenced to the Maligakanda Magistrate's Court.
 
 ◼️
 
 [Data](articles/28294613.json)
+
+[Extended Data](ext_articles/28294613.ext.json)
+
+---
+
+### ශ්‍රේණි අනුව මහ බැංකු සේවකයින්ගේ පඩි වැඩි වුණ හැටි
+
+*2024-03-06 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194194) · `si`
+
+ශ්‍රී ලංකා මහ බැංකු සේවකයින්ගේ වැටුප් වැඩිකර ඇති ආකාරය අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා එක් එක් තනතුර අනුව අද (06) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස් එම් මරික්කාර් මහතා ඉදිරිපත් කළ වාචික ප්‍රශ්නයකට පිළිතුරු දෙමින් අගමැතිවරයා එම විස්තරය පැහැදිලි කළේය.
+
+◼️
+
+[Data](articles/cf9dcba9.json)
 
 ---
 
@@ -54,7 +88,11 @@ As such, school exercise books, stationery items, medicines and medical equipmen
 
 Wickremesinghe arrived at the parliament complex on Wednesday morning to brief the House on the progress of Sri Lanka’s economic recovery process.
 
-◼️
+Addressing the parliamentary proceedings, the Head of State said imposing the VAT was not an easy decision to make, adding that this helped boost state revenue to nearly 11% of the GDP.
+
+He explained that the growth in state revenue gave assurances to the international community that the island nation was capable of settling its outstanding debts.
+
+...
 
 [Data](articles/66d7aab3.json)
 
@@ -654,13 +692,13 @@ The Leader, the Leader of the Leader, the leaders of the leaders and their suppo
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
+In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
+
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
-
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -2205,49 +2243,5 @@ Apart from Pathirana's struggle, Sri Lanka's overall performance was excellent a
 [Data](articles/4825a234.json)
 
 [Extended Data](ext_articles/4825a234.ext.json)
-
----
-
-### Planned railway strike temporarily called off
-
-*2024-03-05 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97751/planned-railway-strike-temporarily-called-off) · `en`
-
-The employees of Sri Lanka Railways have temporarily called off the indefinite strike that was planned to be launched from midnight today (March 05), says the Locomotive Operating Engineers’ Association.
-
-The trade unions of locomotive operating engineers, railway guards, and railway supervisory managers were supposed to join this strike action to urge the government to reverse the Cabinet paper proposing to reduce their salaries.
-
-However, the trade union action was suspended following a discussion held with the authorities this evening.
-
-◼️
-
-[Data](articles/070b5504.json)
-
-[Extended Data](ext_articles/070b5504.ext.json)
-
----
-
-### 13 protesters acquitted
-
-*2024-03-05 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194178) · `si`
-
-13 protesters acquitted by Kaduwela Magistrate's Court after 2-year trial, with 50 lawyers defending them against charges including organizational expansion and police abstention.
-
-🟩
-
-Kaduwela Magistrate's Court today (05) was arrested by the Talangama Police to hand over a letter to the Speaker at the Talagamuwa Court and the Thalawaswela court in the area near the informs of the Palagala court in June 04 or nearly 04 May 2022..
-
-Thalangama Police have been arrested by the Talangama Police and remanded at the Maharagama Police.
-
-The 13 suspects were approved by nearly fifty lawyers.
-
-The suspects had accused the court on the allegations including organizational expansion, abstaining to the police and the public.
-
-The case was heard in the Kaduwela Magistrate's Court for two years and the 13 suspects were acquitted of the 13 suspects and released the 13 suspects.
-
-◼️
-
-[Data](articles/d8c01d3d.json)
-
-[Extended Data](ext_articles/d8c01d3d.ext.json)
 
 ---

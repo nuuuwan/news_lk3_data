@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 18:21:01**
+As of **2024-03-06 18:33:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,278 (100.0%) of 11,279 articles have been extended.
+11,279 (100.0%) of 11,279 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,8 @@ The tourists had allegedly travelled in the first-class compartment, with only o
 ◼️
 
 [Data](articles/2736f8ce.json)
+
+[Extended Data](ext_articles/2736f8ce.ext.json)
 
 ---
 

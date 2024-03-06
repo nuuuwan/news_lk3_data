@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 01:50:14**
+As of **2024-03-07 02:02:46**
 
 ## Newspaper Stats
 
-*Scraped **11,346** Articles*
+*Scraped **11,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-dailyftlk | 601
 islandlk | 601
+dailyftlk | 602
 adalk | 959
 tamilmirrorlk | 1,379
 adaderanalk | 1,383
-virakesarilk | 1,551
+virakesarilk | 1,553
 dailymirrorlk | 1,731
 adaderanasinhalalk | 1,772
 
@@ -26,37 +26,99 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,344 (100.0%) of 11,346 articles have been extended.
+11,346 (100.0%) of 11,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### அநுரகுமாரவுக்கான அழைப்பு அசாதாரணமானதல்ல ; இலங்கை தலைவர்களுக்கான வழமையான அழைப்பை ஒத்ததே - இந்திய உயர்ஸ்தானிகர்
+### USAID empowers women entrepreneurs to drive economic growth in Sri Lanka
+
+*2024-03-07 01:52:11* · [`dailyftlk`](https://www.ft.lk/news/USAID-empowers-women-entrepreneurs-to-drive-economic-growth-in-Sri-Lanka/56-759244) · `en`
+
+The United States Agency for International Development (USAID) and the Women’s Development Federation (WDF) marked the successful culmination of the “Capacity Building Program on Trade and Market Access for Women Entrepreneurs” by honouring forty resilient women entrepreneurs from Sri Lanka’s Southern districts, including Hambantota, Galle, Matara, and Monaragala, at a ceremony in Weerawila.
+
+These women entrepreneurs have completed a year-long journey, during which they received training and mentorship from USAID and WDF, equipping them with essential skills to effectively manage their micro and small businesses.
+
+Moreover, they have gained invaluable insights into expanding their market reach and accessing both domestic and international trade opportunities. This program, supported by the United States, stands as a significant milestone in empowering women-led and women-owned enterprises and driving socio-economic development in the region.
+
+...
+
+[Data](articles/492a8145.json)
+
+---
+
+### சாந்தனை நாட்டுக்கு அழைக்க மனிதாபிமான அடிப்படையில் நடவடிக்கைகள் முன்னெடுக்கப்பட்டன - வெளிநாட்டலுவல்கள் அமைச்சர்
+
+*2024-03-07 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178128) · `ta`
+
+சாந்தனை அவரது குடும்பத்துடன் ஒன்று சேர்ப்பதற்கு மனிதாபிமான அடிப்படையில் நடவடிக்கைகளை முன்னெடுத்தோம்.இந்தியா அனுமதி வழங்கவில்லை.புற்றுநோய் காரணமாகவே அவர் உயிரிழந்தார். ஆகவே பொய்யான குற்றச்சாட்டுக்களை முன்வைக்க வேண்டாம் என வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி சபையில் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற அமர்வில் உரையாற்றிய  தமிழ்த் தேசிய மக்கள் முன்னணி பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் உரையாற்றும் சாந்தனின் மரணத்துக்கு இலங்கை அரசாங்கம் பொறுப்புக் கூற வேண்டும். அவரை நாட்டுக்கு அழைத்து வர நடவடிக்கைகள் எடுக்கப்படவில்லை என்று குறிப்பிட்டார். இதற்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சாந்தன் இந்தியாவின் முன்னாள் பிரதமரின் கொலையுடன் தொடர்புடைய குற்றவாளியாவார். இந்தியாவிலேயே அவர் தடுத்து வைக்கப்பட்டிருந்தார். அவரை இலங்கைக்கு அழைத்து வருவது தொடர்பில் டக்ளஸ் தேவானந்தா உள்ளிட்ட வடக்கு பாராளுமன்ற உறுப்பினர்கள் கோரிக்கைகளை முன்வைத்திருந்தனர்.
+
+...
+
+[Data](articles/80b1ceab.json)
+
+---
+
+### இலங்கை - அமெரிக்க மக்கள் தொடர்பை வலுப்படுத்த இத்திட்டம் உதவும் - அமெரிக்கத்தூதுவர் ஜுலி சங்
+
+*2024-03-07 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178127) · `ta`
+
+இலங்கையில் பின்தங்கிய பிரதேசங்களில் கற்பித்தல் உள்ளிட்ட சமூகப்பணிகளை முன்னெடுப்பதற்காக வருகைதந்துள்ள அமெரிக்க பீஸ் கோப்ஸ் தன்னார்வத் தொண்டர்கள், அடுத்த இருவருடகாலத்துக்கு தமது அர்ப்பணிப்புடன்கூடிய சேவையை உறுதிப்படுத்தி புதன்கிழமை (6) சத்தியப்பிரமாணம் செய்துகொண்டனர்.
+
+அமெரிக்காவின் பீஸ் கோப்ஸ் அமைப்பின் ஊடாக அடுத்துவரும் இருவருடகாலத்துக்கு தன்னார்வ அடிப்படையில் இலங்கையில் சேவையாற்றவுள்ள தொண்டர்களை அறிமுகப்படுத்துவதுடன், அவர்கள் சத்தியப்பிரமாணம் செய்யும் நிகழ்வு புதன்கிழமை (6) கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/d4ace5cf.json)
+
+---
+
+### The call for Anuragumara is not extraordinary;Similar to the usual call for Sri Lankan leaders - Indian High Commissioner
 
 *2024-03-07 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178126) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்கவுக்கு அண்மையில் விடுக்கப்பட்ட அழைப்பு, ஏனைய நாடுகளைச்சேர்ந்த முக்கிய நபர்களுக்கு வழமையாக விடுக்கப்படும் அழைப்பைப்போன்றது எனவும், இது அசாதாரணமான விடயம் அல்ல எனவும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்துள்ளார்.
+The Indian High Commissioner Santosh Ja stated that the call to Anura Kumara Dissanayake, a Sri Lankan leader, is routine, similar to calls for key figures from other countries. Dissanayake visited India for talks with Indian officials, part of a delegation led by him. Santosh Ja also mentioned that other candidates for Sri Lanka's presidential election have visited India before, and the country will welcome them again.
 
-இவ்வருட இறுதியில் ஜனாதிபதி தேர்தல் நடைபெறுமென எதிர்பார்க்கப்படும் நிலையில், தேசிய மக்கள் சக்தியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்க தலைமையிலான குழுவினர் கடந்த மாதத்தொடக்கத்தில் இந்தியாவுக்கு 5 நாட்கள் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்தனர். இந்திய அரசாங்கத்தின் அழைப்பின்பேரில் இடம்பெற்ற இவ்விஜயத்தின்போது அநுரகுமார திஸாநாயக்க தலைமையிலான குழுவினர் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர், இந்தியாவின் தேசிய பாதுகாப்பு ஆலோசகர் மற்றும் குஜராத் முதலமைச்சர் பூபேந்திர பட்டேல் உள்ளங்கலாக இந்தியாவின் உயர்மட்ட அரசியல் பிரமுகர்கள் பலரை சந்தித்துப் பேச்சுவார்த்தை நடத்தியிருந்தனர்.
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja said that the recent call to Anura Kumara Dissanayake, the leader of the National People's Power and Member of Parliament, is similar to the routine call for key figures from other countries.
+
+As the presidential election is expected to be held later this year, a delegation led by National People's Power Leader and Member of Parliament Anura Kumara Dissanayake made a five -day official visit to India in the beginning last month.. During the call of the Government of India, a delegation led by Anuragumara Dissanayake held talks with Indian External Affairs Minister S. Jaishankar, India's National Security Advisor and Gujarat Chief Minister Bhubendra Patel.
+
+In response to a question raised by a media regarding this, Indian High Commissioner Santosh Ja said the above.
 
 ...
 
 [Data](articles/8bf62d60.json)
 
+[Extended Data](ext_articles/8bf62d60.ext.json)
+
 ---
 
-### இலங்கையின் கொழும்பில் மிகப்பிரமாண்டமாக நடைபெற்ற சர்வதேச கீதை பெருவிழா
+### International Gita Festival held in Colombo, Sri Lanka
 
 *2024-03-07 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178125) · `ta`
 
-நான்கு நாள் அமர்வுகளைக் கொண்ட சர்வதேச கீதை பெருவிழா 2024 மார்ச் 01ஆம் திகதி முதல் 2024 மார்ச் 04ஆம் திகதி வரை இலங்கையின் கொழும்பில் நடைபெற்றதுடன் இலங்கை பாராளுமன்றத்தின் சபாநாயகர் கௌரவ மகிந்த யாப்பா அபேவர்த்தன அவர்களுக்கு புனித பகவத் கீதை நூலின் பிரதி ஒன்று கையளிக்கப்பட்ட நிலையில் நிறைவடைந்துள்ளது.
+The 5th International Gita Festival in Colombo, Sri Lanka, from 04th March 2024, united over 30 religious institutions. It featured nearly a thousand artists and was visited by dignitaries including the Prime Minister of Sri Lanka and the High Commissioner of India. The festival included a discussion on the Gita's themes of peace and unity, with experts from around the world participating.
 
-இந்தியாவின் ஹரியானா மாநிலத்தின் குருஷேத்ரா மேம்பாட்டு வாரியம், இலங்கையின் புத்தசாசன சமய மற்றும் கலாசார அலுவல்கள் அமைச்சு, மற்றும் கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயத்தின் கலாசாரப் பிரிவான சுவாமி விவேகானந்தா கலாசார நிலையம் ஆகியவை இணைந்து இலங்கையில் உள்ள 30க்கும் அதிகமான மத மற்றும் சமூக நிறுவனங்களின் ஒன்றிணைவுடன் இலங்கையில் முதல் தடவையாக குறித்த 5ஆவது சர்வதேச கீதை பெருவிழாவை ஒழுங்கமைத்திருந்தன.
+🟩
+
+The four -day International Gita Festival was held in Colombo, Colombo, Sri Lanka from 04th March 2024 and the Hon.
+
+The Kurukshetra Development Board of Haryana, the Ministry of Buddhist Religious and Cultural Affairs of Sri Lanka, and the Cultural Division of the Indian High Commission in Colombo, Swami Vivekananda Cultural Center, organized the 5th International Festival in Sri Lanka with the unification of more than 30 religious and social institutions in Sri Lanka.
+
+As a part of the event, nearly a thousand artists, including volunteers of Iskcon, Ramakrishna Mission and Mayurapathi Sri Padrakali Temple, performed various rivers, including the pilgrimage to Vikramagadevi Park, Colombo.. Dinesh Gunawardena, Prime Minister of Sri Lanka and Hon.. Bandula Gunawardena and Hon.. Vidura Wickramanayake, High Commissioner Santosh Ja and Indians from India visited the pilgrimage.
 
 ...
 
 [Data](articles/41a5078a.json)
+
+[Extended Data](ext_articles/41a5078a.ext.json)
 
 ---
 
@@ -2227,65 +2289,5 @@ The petitions were summoned before the Court of Appeal today, Judge DN Samarakoo
 [Data](articles/3b26fa7c.json)
 
 [Extended Data](ext_articles/3b26fa7c.ext.json)
-
----
-
-### Career Guidance at School 6 Children
-
-*2024-03-06 15:26:35* · [`adalk`](https://www.ada.lk/breaking_news/6-වසරෙන්-ඉහළ-දරුවන්ට--පාසලේ-දී-වෘත්තීය-මාර්ගෝපදේශනය/11-408450) · `si`
-
-Education Minister Susil Premajayantha emphasizes the importance of career guidance for children, highlighting the need for professional direction as many current occupations will disappear. The Ministry of Education has initiated a significant debate and aims to provide meaningful promotions. This initiative is part of a national program at Maharagama Central College, marking the start of a career guidance course for A/L students across the country, including in Sinhala and Tamil. The program aims to align with the 6th grade reforms, providing clear direction for children's future careers. It is not limited to school-level students and will be conducted by Skills Development Officers in their areas. The Minister also mentioned that the course is designed for students who have sat for the O/L examination, aiming to move away from traditional courses and incorporate updates from the National Institute of Education and curriculum changes.
-
-🟩
-
-Minister of Education Susil Premajayantha said that many of the world's occupations will not be seen in the next few years and the children should be given the right professional guidance.
-
-The Ministry of Education is a meaningful promotions that the Ministry of Education has completed a meaningful debate and the parents who have completed the examination this year, the parents are the responsibility of the parents.
-
-The Minister made these comments participating in the National Program at the Maharagama Central College to mark the initial training course implemented by the Ministry of Education on the A / L students across the country.
-
-The course of the guidance has not been at school level, and in 33,37,000 students who have appeared for students this year, the same course will be held in Sinhala and Tamil.
-
-...
-
-[Data](articles/222dc617.json)
-
-[Extended Data](ext_articles/222dc617.ext.json)
-
----
-
-### Police fire water cannons at protest in Borella; ISUF convenor arrested
-
-*2024-03-06 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97774/police-fire-water-cannons-at-protest-in-borella-isuf-convenor-arrested) · `en`
-
-Police have fired water cannons at a protest march organised by the Inter-University Students’ Federation (IUSF) in Colombo today (06 March).
-
-Accordingly, water cannons were used in an attempt to disperse the protesting students near the Borella Junction.
-
-Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arrested by the police during the protest.
-
-◼️
-
-[Data](articles/0c17a1ff.json)
-
-[Extended Data](ext_articles/0c17a1ff.ext.json)
-
----
-
-### Police fire water cannons at protest in Borella; IUSF convenor arrested
-
-*2024-03-06 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97774/police-fire-water-cannons-at-protest-in-borella-iusf-convenor-arrested) · `en`
-
-Police have fired water cannons at a protest march organised by the Inter-University Students’ Federation (IUSF) in Colombo today (06 March).
-
-Accordingly, water cannons were used in an attempt to disperse the protesting students near the Borella Junction.
-
-Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arrested by the police during the protest.
-
-◼️
-
-[Data](articles/c87baac3.json)
-
-[Extended Data](ext_articles/c87baac3.ext.json)
 
 ---

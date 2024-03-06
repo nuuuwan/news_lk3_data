@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 16:17:49**
+As of **2024-03-06 16:33:09**
 
 ## Newspaper Stats
 
-*Scraped **11,250** Articles*
+*Scraped **11,255** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 131
+bbccomsinhala | 132
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 949
+adalk | 950
 tamilmirrorlk | 1,371
 adaderanalk | 1,374
-virakesarilk | 1,531
-dailymirrorlk | 1,719
-adaderanasinhalalk | 1,759
+virakesarilk | 1,532
+dailymirrorlk | 1,720
+adaderanasinhalalk | 1,760
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,250 (100.0%) of 11,250 articles have been extended.
+11,250 (100.0%) of 11,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### ජම්පටාවීදියේ වැරදුණු කුරුමානම - සිව් දෙනෙක් අත්අඩංගුවට
+
+*2024-03-06 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194211) · `si`
+
+පසුගිය 25 වනදා ජම්පටාවීදිය ප්‍රදේශයේදී පුද්ගයෙකුට වෙඩිතබා ඝාතනය කිරීමට තැත්කිරීම සම්බන්ධයෙන් වෙඩික්කරු පැමිණි යතුරුපැදියේ පැදිකරු හා ඊට ආධාර අනුබල දුන් පුද්ගලයන් තිදෙනෙකු කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී වෙඩික්කරු පැමිණි යතුරුපැදිය සහ ගිනි අවිය ප්‍රවාහනය කළ ත්‍රිරෝද රථයද සිය භාරයට ගත් පොලීසිය, සැකකරුවකු සතුව තිබී අදාළ අපරාධය සඳහා භාවිත නොකළ වෙනත් ගිනි අවියක් ද සොයාගත් බව පොලීසිය පැවසුවේය.
+
+මේ වෙඩික්කරුවන් වෙඩි තැබීමෙන් අනතුරුව වැල්ලම්පිටිය ප්‍රදේශයේදී ගිනි අවිය සැඟවීම සඳහා අදාළ ත්‍රිරෝද රථයට ලබාදෙන අයුරු දැක්වෙන සීසීටීවී දර්ශන පෙළක්ද හමුවී තිබේ.
+
+සැකකරුවන් අද අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට අධිකරණයට අවසර හිමිවුණි.
+
+සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන කොළඹ අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂවරයාගේ උපදෙස් මත එම කොට්ඨාසයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඇන්ස්ලම් සිල්වා මහතාගේ අධීක්ෂණය යටතේ  සංවිධානාත්මක අපරාධ අංශයේ වැඩබලන ස්ථානාධිපති රේණුක චතුරංග මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් සිදුකරයි.
+
+◼️
+
+[Data](articles/0e94d7cc.json)
+
+---
+
+### நானுஓயாவில் முச்சக்கர வண்டி திருட்டு ; பொது மக்களின் உதவியை நாடும் பொலிஸார்
+
+*2024-03-06 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178085) · `ta`
+
+நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட பங்களாஹத்த பகுதியில் வீட்டுக்கு  முன்பாக நிறுத்தி வைக்கப்பட்டிருந்த முச்சக்கர வண்டியினை திங்கட்கிழமை (04) ஆம் திகதி இனந்தெரியாதோரால் திருடப்பட்டுள்ளது. இவ் திருட்டுச் சம்பவம் தொடர்பில் நானுஓயா பொலிஸ் நிலையத்தில் செவ்வாய்க்கிழமை (05) முறைப்பாடு ஒன்றும் பதிவு செய்யப்பட்டுள்ளது.
+
+cp YS 3772 என்ற இலக்கத்தகடு இலக்கத்தைக் கொண்ட டிவிஎஸ் கறுப்பு நிற முச்சக்கர வண்டியினை உரிமையாளர் எரிபொருள் இன்றி தனது வீட்டுக்கு முன் நிறுத்தப்பட்டிருந்ததாக உரிமையாளர் பொலிஸாரிடம்  முறைப்பாடு செய்துள்ளார்.
+
+குறித்த முச்சக்கர வண்டி  தொடர்பான தகவல் கிடைத்தால் 0775343893 என்ற இலக்கத்திற்கு அல்லது அருகில் உள்ள பொலிஸ் நிலையத்திற்கு உடனடியாக தெரிவிக்குமாறு நானுஓயா பொலிஸார் மற்றும்  உரிமையாளர்  பொதுமக்களிடம் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/08e1a09f.json)
+
+---
 
 ### Get rid of the other three;Democratic fighters party demanding Indian state
 
@@ -147,6 +183,24 @@ Meanwhile on Friday, the Additional Health Secretary had stated before the court
 [Data](articles/6cff218b.json)
 
 [Extended Data](ext_articles/6cff218b.ext.json)
+
+---
+
+### මම කිසිදා බලය වෙනුවෙන් අසත්‍ය ප්‍රකාශ කළේ නැහැ
+
+*2024-03-06 15:38:19* · [`adalk`](https://www.ada.lk/breaking_news/මම-කිසිදා-බලය-වෙනුවෙන්-අසත්‍ය-ප්‍රකාශ-කළේ-නැහැ/11-408451) · `si`
+
+මල නොතලා රොන් ගන්නා ආකාරයෙන් ජනතාවගෙන් බදු අය කරගත යුතුය යන්න සමාන්‍ය කියමනක් තිබෙන බවත්, එහෙත් මල් තලමින් රොන් ගන්න අවස්ථාවනුත් තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේදී අද (06දා) විශේෂ ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+අද අපේ රට කිසියම් ආර්ථික ස්ථාවරත්වයකට පත්ව ඇති බව හැමෝම පිළිගන්නවා. නමුත් එසේ පිළිගන්නා බවක් නොපෙන්වා අප ක්‍රියාත්මක කරන වැඩපිළිවෙල විවේචනය කරන අයත් ඉන්නවා. ආර්ථිකයේ ශක්තිමත් බවක් පෙනෙන්න තිබුණත් එය ජනතාවට දැනෙන්නෙ නෑ කියලා සමහරු චෝදනා කරනවා. ජනතාවට අනවශ්‍ය ලෙස බදු බර පටවලා තියෙන බවත් කියනවා. විදුලි බිල, ඉන්ධන මිල ඕනෑවට වඩා ඉහළ දමා ඇති බව ද කියනවා.
+
+සාමාන්‍යයෙන් කියමනක් තියෙනවා, මල නොතලා රොන් ගන්නවා වගේ තමයි ජනතාවගෙන් බදු අය කරගත යුත්තේ කියලා. හැබැයි අප ඒ පිළිවෙත රකින්නේ නෑ කියලා අපව විවේනය කරනවා.හැබැයි ඒ විවේචකයන් අමතක කරන දෙයක් තියෙනවා. මල් තලමින් රොන් ගන්න අවස්ථාවනුත් තියෙන බව.
+
+...
+
+[Data](articles/26e0da73.json)
 
 ---
 
@@ -1256,6 +1310,26 @@ Ratnayake claimed that the fuel prices published on the official page on X, offi
 
 ---
 
+### Fuel price revision a gimmick to mislead people, can reduce by a maximum of Rs. 200
+
+*2024-03-06 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-price-revision-a-gimmick-to-mislead-people-can-reduce-by-a-maximum-of-Rs-200/108-278347) · `en`
+
+Colombo, March 6 (Daily Mirror) - While reducing the prices of Lanka Super Diesel 4 Star Euro 4 and Lanka Petrol 95 Octane Euro 4, the government has played a small gimmick on the people, former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayaka said.
+
+Addressing the media yesterday, he said the recent fuel price revision has misled the people.
+
+Reducing the fuel prices by Rs. 9 and Rs. 10 is of no use to the people. As he had mentioned in 2022, the fuel prices can be reduced by a maximum of Rs. 200, he added.
+
+Ratnayake claimed that the fuel prices published on the official page on X, officially known as Twitter, by the Power and Energy Minister were wrong and that their formula was also wrong.
+
+"If we calculate the fuel prices according to the trends of the world market, the fuel prices can be reduced by a maximum of Rs. 200.
+
+...
+
+[Data](articles/f32c3721.json)
+
+---
+
 ### Army training for Pakistan cricket team
 
 *2024-03-06 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194197) · `si`
@@ -2192,6 +2266,32 @@ President Ranil Wickremesinghe has come to the parliament shortly.
 
 ---
 
+### ඔලිම්පික් 2024: ශ්‍රී ලංකාවේ  පූර්ව සුදානම කොහොමද?
+
+*2024-03-06 09:36:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p478l4e06o) · `si`
+
+2024 ඔලිම්පික් තරගාවලිය ලබන ජුලි මාසයේදී ප්‍රංශයේ පැරිස් අගනුවරදී ආරම්භ කිරීමට නියමිතව ඇත.
+
+ශ්‍රී ලංකාව අවසන්වරට ඔලිම්පික් පදක්කම දිනා වසර 24ක් ගෙවීයන මොහොතේ නැවත වරක් ඔලිම්පික් පදක්කමක බලාපොරොත්තුවක් ගෙන දීමට ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන්ට මෙවර හැකි වෙයි ද ?
+
+21ක් වසරකට පසු මලල ක්‍රීඩා ඉසව්වෙන් ශ්‍රී ලංකාවට රන් පදක්කමක් දිනා දුන් තරුෂි
+
+ඔලිම්පික් තරගාවලිය වෙනුවෙන් සුදුසුකම් ලැබීම සඳහා තමන්ගේ දක්ෂතා අනුව ජාත්‍යන්තර ශ්‍රේණිගත කිරීම්වල ඉහළට ඒම සඳහා මේ වසරේ ජුනි මාසය තෙක් ක්‍රීඩක ක්‍රීඩිකාවන්ට අවස්ථාව හිමිවන බව ක්‍රීඩා අධ්‍යක්ෂක ජනරාල් ආචාර්ය ෂේමාල් ප්‍රනාන්දු පැවසුවේය.
+
+"එක් එක් තරග ඉසව් වෙනුවෙන් තරගකරුවන් හෝ තරගකාරියන් තෝරා ගන්නා කාල සීමාව වෙනස්."
+
+"කොහොම වුනත් ජුනි මාසය අවසන් වෙද්දී එක් එක් ක්‍රීඩාවන්ට අදාළව තියෙන ශ්‍රේණිගත කිරීම් වැදගත්."
+
+"මොකද තරගාවලිය පටන් ගන්නේ ජුලි මාසය අවසානයේ දී." ඔහු පැවසුවේය.
+
+මෙවර ඔලිම්පික් නියෝජනය කරන්න හැකිවෙතැයි අනුමාන කරන ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් කවුද ?
+
+...
+
+[Data](articles/c8fdb3b4.json)
+
+---
+
 ### Parliamentary Council begins
 
 *2024-03-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194190) · `si`
@@ -2227,111 +2327,5 @@ Meanwhile, the driver of the lorry is now under arrest in connection with the fa
 [Data](articles/d2e44164.json)
 
 [Extended Data](ext_articles/d2e44164.ext.json)
-
----
-
-### In Vavuniya, police demanded to help identify the body of a woman
-
-*2024-03-06 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178028) · `ta`
-
-Vavuniya police are seeking help to identify an elderly woman found dead in Vavuniya Hospital on November 7, 2023. The woman, about 5 feet tall, was unidentified at the time of her death.
-
-🟩
-
-Vavuniya police on Tuesday (05) said they would help identify the body of an elderly woman in Vavuniya.
-
-An elderly woman was allowed to receive treatment at the Vavuniya Hospital on November 7 with a dotted shirt.
-
-The elderly woman died yesterday without treatment.
-
-The elderly woman who is about 5 feet tall has not yet been identified. The body of the woman was placed in the autopsy of the Vavuniya Hospital
-
-Police have said that the woman or relatives should contact the Vavuniya Hospital or the Vavuniya Police.
-
-◼️
-
-[Data](articles/64c18fd9.json)
-
-[Extended Data](ext_articles/64c18fd9.ext.json)
-
----
-
-### Halt excessive scrutiny of nations - SL tells Human Right Council
-
-*2024-03-06 09:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Halt-excessive-scrutiny-of-nations-SL-tells-Human-Right-Council/108-278322) · `en`
-
-Colombo, March 6 (Daily Mirror) - Sri Lanka has called for the UN Human Rights Council to halt its excessive scrutiny of nations in the global south through intrusive mechanisms while ignoring violations elsewhere to regain credibility.
-
-Sri Lanka also expressed disappointment that the Council's persistent and disproportionate attention on Sri Lanka is not beneficial to the nation.
-
-Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanent Representative of Sri Lanka Himalee Subhashini Arunatilaka, underscored the urgent need for the global human rights framework to uphold objectivity and universality, and ensure that alleged violations are addressed impartially, regardless of the size or the influence of the country concerned
-
-...
-
-[Data](articles/e788b598.json)
-
-[Extended Data](ext_articles/e788b598.ext.json)
-
----
-
-### If the statue of the Buddha is not removed, the massive struggle will erupt
-
-*2024-03-06 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178027) · `ta`
-
-The Buddha statue in Chiripuram, placed behind the Chowkadi Pillaiyar temple and in front of an army camp, is seen as a systematic occupation by the Tamil National People's Front. Kanagaratnam Sukhas, the media spokesman, calls for its immediate removal to prevent a massive struggle. The Tamil homeland is at stake, with occupations intensifying under President Ranil Wickremesinghe.
-
-🟩
-
-We have come here after the information available to us that a Buddha statue was placed in Chiripuram. That information is real. A statue of Buddha is placed behind the Chowkadi Pillaiyar temple and in front of the army camp. The Tamil National People's Front media spokesman Kanagaratnam Sukhas said this was a systematic occupation.
-
-He was speaking to the media after visiting the area on Tuesday night (05).
-
-The Buddha statue is placed in a manner that occupies the temple. We cannot allow this. This is because the Tamil homeland is now, and the occupations have intensified since Ranil Wickremesinghe became President. The next dimension is the statue of the Buddha.
-
-We tell the army to immediately remove this Buddha statue. If you take appropriate measures to remove it, we will soon talk to the people and organizations around the military camp, and we are going to carry out massive protests against it.. Then we will declare the people as those struggles.
-
-...
-
-[Data](articles/2893db52.json)
-
-[Extended Data](ext_articles/2893db52.ext.json)
-
----
-
-### Social Security Assistance Tax (Amendment) Bill and Value Added Tax Amendment Bill
-
-*2024-03-06 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178026) · `ta`
-
-The Social Security Assistance Tax (Amendment) Bill and Value Added Tax Amendment Bill, without Attorney General's recommendation, cannot be included in the Parliamentary Registry. Opposition leader Sajith Premadasa suggests postponing them without debate. The Prime Minister highlighted this issue in Cabinet. The Department of Home Affairs lacks proper programs for implementing legal guidelines, leading to opposition against both tax increases and amendment bills.
-
-🟩
-
-How can it be incorporated into the Parliamentary Registry when there is no recommendation from the Attorney General's Department regarding the Social Security Assistance Tax (Amendment) Bill and the Value Added Tax Amendment Bill.. Opposition leader Sajith Premadasa questioned, "I ask you to postpone the bill without debate."
-
-Social Security Assistance Tax (Amendment) Bill and Value Added Tax Amendment Bill is available today (yesterday).. How, then, can be included in tomorrow's (today) parliamentary order?This should be included in the regulation only after the recommendation of the Attorney General.. The Prime Minister has expressed this conflict in the Cabinet or a committee meeting.
-
-...
-
-[Data](articles/8dc4c5fc.json)
-
-[Extended Data](ext_articles/8dc4c5fc.ext.json)
-
----
-
-### Halt excessive scrutiny of nations - SL tells Human Rights Council
-
-*2024-03-06 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Halt-excessive-scrutiny-of-nations-SL-tells-Human-Rights-Council/108-278319) · `en`
-
-Sri Lanka has called for the UN Human Rights Council to halt its excessive scrutiny of nations in the global south through intrusive mechanisms while ignoring violations elsewhere to regain credibility.
-
-Sri Lanka also expressed disappointment that the Council’s persistent and disproportionate attention on Sri Lanka is not beneficial to the nation.
-
-Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanent Representative of Sri Lanka Himalee Subhashini Arunatilaka, underscored the urgent need for the global human rights framework to uphold objectivity and universality, and ensure that alleged violations are addressed impartially, regardless of the size or the influence of the country concerned.
-
-...
-
-[Data](articles/e245b165.json)
-
-[Extended Data](ext_articles/e245b165.ext.json)
 
 ---

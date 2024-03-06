@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 19:03:11**
+As of **2024-03-06 19:18:03**
 
 ## Newspaper Stats
 
-*Scraped **11,288** Articles*
+*Scraped **11,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 578
 dailyftlk | 593
 islandlk | 601
-adalk | 955
+adalk | 956
 tamilmirrorlk | 1,375
 adaderanalk | 1,379
 virakesarilk | 1,540
@@ -26,41 +26,53 @@ adaderanasinhalalk | 1,765
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,285 (100.0%) of 11,288 articles have been extended.
+11,288 (100.0%) of 11,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### யாழ்ப்பாண இந்திய துணை தூதரகத்தை முடக்கி தொடர் போராட்டங்களை முன்னெடுப்போம் - றேகன் எச்சரிக்கை!
+### We will carry out a series of protests by disabled the Jaffna Indian Embassy - Regan warning!
 
 *2024-03-06 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178107) · `ta`
 
-எதிர்காலத்தில் யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்திற்கு முன்னால் தொடர்ச்சியான போராட்டங்களை முன்னெடுத்து தூதரகத்தின் செயல்பாடுகளை முடக்க வேண்டிய சூழ்நிலை ஏற்படும் என வழி வடக்கு மீனவ கூட்டுறவு சங்கங்களின் சமாசத்தின் தலைவர் பாக்கியநாதன் றேகன் அவர்கள் தெரிவித்துள்ளார்.
+Bakhiyanathan Regan, head of the Northern Fisheries Co-operative Societies' Society, warns of future protests against the Jaffna Indian Embassy. He criticizes the embassy for not addressing issues raised by the local marine industry community, despite multiple attempts.
 
-இன்றைய தினம் யாழ்ப்பாண மாவட்ட மீனவ அமைப்புகளின் சம்மேளன அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த சில தினங்களுக்கு முன்னர் யாழ்ப்பாணம் இந்தியத் துணை தூதரகத்திற்கு முன்னால் இழுவை மடி தொழிலுக்கு எதிரான போராட்டம் ஒன்றினை மேற்கொண்டிருந்தோம். அதற்கான எந்த ஒரு தீர்வுகளும் இந்திய துணை தூதரகத்தால் எங்களுக்குப் பெற்றுத் தரப்படவில்லை.
+The head of the Northern Fisheries Co -operative Societies' Society, Bakhiyanathan Regan, said that in the future, there would be a situation where the embassy would carry out a series of struggles in front of the Indian Consulate in Jaffna in the future.
 
-இந்தியத் துணைத் தூதரகத்திடம் நாங்கள் மகஜரை கொடுத்துள்ளோம். அவர்கள் இன்று வரை எங்களுக்கு பதில் தரவில்லை என்றால், இந்தியத் துணைத் தூதரகமானது யாழ்ப்பாணத்தில் டிசா கொடுப்பதற்கு மட்டும் தான் இருக்கிறது. எங்களுக்கான பதில் இதுவரை கிடைக்கவில்லை.
+He was speaking at a media briefing held at the Federation of Fisheries Organizations in Jaffna today.. There he said more,
+
+Just a few days ago, we had been fighting a protest against the tragedy business in front of the Indian embassy in Jaffna. No solutions have been given to us by the Indian Consulate.
+
+We have given the Mahajar to the Indian Consulate. If they have not answered us to date, the Indian Consulate is only to give Deca in Jaffna. We have not yet received the answer.
 
 ...
 
 [Data](articles/344d648d.json)
 
+[Extended Data](ext_articles/344d648d.ext.json)
+
 ---
 
-### මෝදර වීදියේ වෙඩිතැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested for shooting incident in Modara Street
 
 *2024-03-06 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194216) · `si`
 
-මෝදර වීදිය ප්‍රදේශයේදී පුද්ගලයෙකුට වෙඩිතබා මනුෂ්‍ය ඝාතනයකට තැත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+A suspect was arrested for an attempted murder in Modara Street.
 
-පොලීසිය සඳහන් කළේ අදාළ අපරාධය සඳහා ආධාර අනුබල දුන් සැකකරුවෙකු එලෙස අත්අඩංගුවට ගත් බවය.
+🟩
+
+A suspect has been arrested in connection with the attempt to attempt to take a shot hanging murder in Modara Street.
+
+Police said that a suspect who supported the crime was arrested.
 
 ◼️
 
 [Data](articles/d9881d8b.json)
+
+[Extended Data](ext_articles/d9881d8b.ext.json)
 
 ---
 
@@ -749,6 +761,24 @@ The Nanuoya police and the owner have asked the public to immediately report to 
 [Data](articles/08e1a09f.json)
 
 [Extended Data](ext_articles/08e1a09f.ext.json)
+
+---
+
+### රොනීගේ ‌ගෙදරට හොරු පනී
+
+*2024-03-06 16:01:42* · [`adalk`](https://www.ada.lk/breaking_news/රොනීගේ-‌ගෙදරට-හොරු-පනී/11-408454) · `si`
+
+හිටපු මුදල් හා ක්‍රමසම්පාදන අමාත්‍ය, අභාවප්‍රාප්ත රොනී ද මැල් මහතාට අයත් දෙවිනුවර, 103 කණුව ඉදිරිපිට පිහිටා තිබූ නිවසට ඊයේ (05) රාත්‍රියේදී ඇතුළු වූ සොරුන් කණ්ඩායමක් විසින් එහි වටිනා භාණ්ඩ හා දේපළ රැසක් සොරාගෙන ගොස් තිබෙනවා.
+
+මේ සම්බන්ධයෙන් දෙවිනුවර නිවසේ මුරකරු විසින් ගන්දර පොලිස් ස්ථානයට පැමිණිල්ලක් සිදුකර ඇති අතර, රොනී ද මැල් මහතාගේ පෞද්ගලික ලේකම් කේ.එච්.විල්ෆ්‍රඩ් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා වෙතද පැමිණිලි කර තිබෙනවා.
+
+ඒ අනුව ගන්දර පොලීසියට අමතරව, පොලිස්පති විශේෂ නියෝගය මත තවත් පොලිස් කණ්ඩායමක් පරීක්ෂණ සිදුකිරීමට නියමිතය.
+
+අභාවප්‍රාප්ත රොනී ද මැල් මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකර මේ වන විට ගතව ඇත්තේ සතියක කාලයකි.
+
+◼️
+
+[Data](articles/09553d12.json)
 
 ---
 
@@ -2321,31 +2351,5 @@ Answer;I know nothing about the new direction in the dual -sided relationship, a
 [Data](articles/589ef783.json)
 
 [Extended Data](ext_articles/589ef783.ext.json)
-
----
-
-### More victories to Trump, Trump in internal elections
-
-*2024-03-06 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178048) · `ta`
-
-Trump wins 15 states, increasing his chances for the Republican nomination. Baidan wins 15 states for the Democratic nomination, with Jason Palmer leading in American Samoa.
-
-🟩
-
-Donald Trump has won the election in 15 states on Tuesday for the election of the Republican candidate for the US presidential election.
-
-US media predicts that Trump tops at least 12 states in the election.
-
-Trump has won the victory in the states of Alabama, Arkansas, Colorado, California, Mayin, Massachusetts, Minnesota, North Carolina, Oklahoma, Tennessee, Texas and Verginia.
-
-With the victories of yesterday's election results, the chances of the presidential nomination of the Republican Party have increased.
-
-Meanwhile, President Baidan won 15 state elections held on Tuesday for the nomination of the Democratic candidate.. However, Jason Palmer was the first in the American Samoa region.
-
-◼️
-
-[Data](articles/f313d120.json)
-
-[Extended Data](ext_articles/f313d120.ext.json)
 
 ---

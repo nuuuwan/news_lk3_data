@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 14:50:32**
+As of **2024-03-06 15:02:52**
 
 ## Newspaper Stats
 
-*Scraped **11,225** Articles*
+*Scraped **11,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 945
-tamilmirrorlk | 1,368
+tamilmirrorlk | 1,369
 adaderanalk | 1,370
-virakesarilk | 1,527
-dailymirrorlk | 1,715
-adaderanasinhalalk | 1,753
+virakesarilk | 1,528
+dailymirrorlk | 1,716
+adaderanasinhalalk | 1,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,224 (100.0%) of 11,225 articles have been extended.
+11,225 (100.0%) of 11,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### හිටපු ජනපති පොතක් ලියයි
+
+*2024-03-06 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194205) · `si`
+
+"ජනපති ධුරයෙන් මා නෙරපීමේ කුමන්ත්‍රණය" නමින් හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් කෘතියක් රචනා කර තිබේ.
+
+2022 වසරේදී තමන්ට මුහුණදීමට සිදුවූ අභියෝගය පිළිබඳව එම කෘතියේ සඳහන් කර ඇති බව හිටපු ජනපති පවසයි.
+
+"මෙම කෘතියේ අන්තර්ගතය වන්නේ ප්‍රජාතන්ත්‍රවාදීව බලයට පත්වූ ජනාධිපතිවරයෙකු විදේශීය පාර්ශ්වයන්ගේ මැදිහත්වීමෙන් සහ ශ්‍රී ලාංකේය සමාජයේ විශේෂිත කොටස් ගණනාවකගේ සහභාගීත්වයෙන් දියත් කරන ලද කුමන්ත්‍රණ සහ ප්‍රචණ්ඩකාරී උද්ඝෝෂණ තුළින් නෙරපා හැරීම පිළිබඳ වෘත්තාන්තයි" යනුවෙන් එහි පසු කවරයේ සඳහන් වෙයි.
+
+මෙම කෘතිය හෙට නිල වශයෙන් එළිදක්වීමට නියමිත බව ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/25413f31.json)
+
+---
+
+### என்னை பதவியிலிருந்து அகற்றுவதற்கான சதி - நூல் வெளியிடுகின்றார் கோட்டாபய
+
+*2024-03-06 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178075) · `ta`
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தன்னை பதவியிலிருந்து அகற்றுவதற்காக மேற்கொள்ளப்பட்ட சதிகுறித்து நூல்ஒன்றை வெளியிடவுள்ளார்.
+
+அறிக்கையொன்றில் இதனை தெரிவித்துள்ள அவர் 2019 நவம்பரில் தான் ஜனாதிபதியாக தெரிவு செய்யப்பட்டது முதல் சில உள்நாட்டு வெளிநாட்டு சக்திகள் தன்னை பதவியிலிருந்து அகற்றுவதில் தீவிரமாகயிருந்தன என அவர் குறிப்பிட்டுள்ளார்.
+
+ஜனாதிபதி பதவியிலிருந்து என்னை வெளியேற்றுவதற்கான சதி முயற்சிகள் என்ற நூலை வெளியிடவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+உள்நாட்டு அரசியலில் வெளிநாட்டு தலையீடு என்பது இலங்கை அரசியலின் ஒரு பகுதியாகிவிட்டது என தெரிவித்துள்ள அவர் இலங்கை சுதந்திரம் பெற்றபின்னர் முதல் 60 வருடங்களில் இந்த நிலை காணப்படவில்லை எனவும் தெரிவித்துள்ளார்.
+
+என்னை அரசியலில் இருந்து அகற்றுவதற்கான அரசியல் பிரச்சாரம் இலங்கை அரசியலில் புதிய அம்சத்தை கொண்டுவந்தது எனவும் குறிப்பிட்டுள்ள கோட்டாபய ராஜபக்ச சுதந்திரத்தின் பின்னர் இலங்கையில் ஆட்சிமாற்றங்கள் அமைதியான முறையிலேயே இடம்பெற்றுள்ளன எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/1607778c.json)
+
+---
+
+### මන්නා රමේෂ් කොටුවෙයි
+
+*2024-03-06 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194204) · `si`
+
+පාතාල කල්ලි සාමාජිකයෙකු වන "මන්නා රමේෂ්" නැමැත්තාව ඩුබායීහීදී අත්අඩංගුවට ගෙන ඇති බවට මෙරට ආරක්ෂක අංශ වෙත නිල වශයෙන් දැනුම්දී තිබේ.
+
+ඒ අනුව ඔහුව මෙරටට ගෙන ඒම සඳහා ඉදිරියේදී පොලිස් නිලධාරීන් කණ්ඩායමක් එරටට යෑමට නියමිත බව වාර්තා වෙයි.
+
+අවිස්සාවේල්ල සහ ඒ ආසන්න ප්‍රදේශවල සිදුවූ මිනිස් ඝාතන ඇතුළු අපරාධ රැසක් සම්බන්ධයෙන් මෙරට පොලිසිවලට අවශ්‍යව සිටි  "මන්නා රමේෂ්" නමැත්තා ඩුබායිහි සැඟව සිටින බව වාර්තා විය.
+
+ඔහු මෙරටට භාරදෙන ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ජාත්‍යන්තර පොලිස් ශාඛාව හරහා ඩුබායි පොලීසියෙන් ඉල්ලීමක් කර තිබුණි.
+
+◼️
+
+[Data](articles/bc1444d1.json)
+
+---
 
 ### 13-year-old girl dies in slip-and-fall accident at school
 
@@ -45,6 +101,8 @@ The incident had taken place between 7.15 a.m. and 7.30 a.m. today (March 06) at
 ◼️
 
 [Data](articles/728a8b75.json)
+
+[Extended Data](ext_articles/728a8b75.ext.json)
 
 ---
 
@@ -109,6 +167,22 @@ Police have formed a special investigative team, Kherwar said. It is unclear whe
 [Data](articles/2e87e223.json)
 
 [Extended Data](ext_articles/2e87e223.ext.json)
+
+---
+
+### Central Bank’s lowest ranking employee’s salary increased to Rs. 188,827: Prime Minister
+
+*2024-03-06 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Banks-lowest-ranking-employees-salary-increased-to-Rs-188-827-Prime-Minister/155-278353) · `en`
+
+Parliament, March 6 (Daily Mirror)- The gross salary of the lowest ranking employee of the Central Bank, that of an Office Assistant - Grade 1, has been increased by 29.53 per cent up to Rs. 188,827, Prime Minister Dinesh Gunawardane said today.
+
+Responding to a question by SJB MP S.M. Marikkar, he told Parliament that the gross salary of the Deputy Governor has been increased by 76.97 per cent upto Rs. 1,728,419.
+
+The Prime Minister said the Central Bank employees are entitled to housing loans, vehicle loans, welfare loans and medical facilities as well.
+
+◼️
+
+[Data](articles/57fb1af5.json)
 
 ---
 
@@ -1364,6 +1438,26 @@ In a statement issued by the Madras Central Revenue Investigation Unit of the Ma
 
 ---
 
+### 5 வயதுச் சிறுமி துஷ்பிரயோகம்; பகுதி நேர ஆசிரியருக்கு கடூழிய சிறை
+
+*2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/76-334265) · `ta`
+
+பாலியல் துஷ்பிரயோக குற்றச்சாட்டில் குற்றவாளியாக இனங்காணப்பட்ட  ஒருவருக்கு 12 வருட கடூழிய சிறை தண்டனை விதித்து, நுவரெலியா மேல் நீதிமன்ற  நீதவான் விராஜ் வீரசூரிய நேற்று (05) தீர்ப்பளித்துள்ளார்.
+
+நேட்டன்பிரிஜ் பொலிஸ் பிரிவுக்குட்பட்ட கிளவட்டன் பகுதியை சேர்ந்தவருக்கே இவ்வாறு கடூழிய சிறைத் தண்டனை வழங்கப்பட்டுள்ளது.
+
+கடந்த 2010 ஆண்டு ஜனவரி மாத காலப்பகுதியில் கிளவட்டன் பகுதி பாடசாலை ஒன்றில் பகுதிநேர ஆசிரியராக கடமையாற்றிய இராஜரட்ணம் கேதீஸ்வரன் என்பவர் தரம் ஐந்தில் கல்வி கற்ற சிறுமியை பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+
+இது தொடர்பான வழக்கு விசாரணை நுவரெலியா மேல் நீதிமன்றத்தில் கடந்த 14 வருடங்களாக விசாரிக்கப்பட்ட நிலையில்  வழங்கப்பட்ட சாட்சியங்களின் அடிப்படையில்  இந்த பகுதி நேர ஆசிரியர் குற்றவாளியாக இனங்காணப்பட்ட நிலையில் இவருக்கு கடூழிய சிறை தண்டனை வழங்கப்பட்டது.
+
+அத்துடன் குற்றவாளியாக இனங்காணப்பட்டவர், பாதிக்கப்பட்ட சிறுமிக்கு ஐந்து லட்சம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் இத் தொகை வழங்காவிட்டால் மேலும் 2 வருட சிறை தண்டனை அனுபவிக்க வேண்டும் என நீதிபதி அறிவித்தார். R
+
+◼️
+
+[Data](articles/03a2b130.json)
+
+---
+
 ### 5 year old girl abuse;Rigorous imprisonment for part -time teacher
 
 *2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/175-334265) · `ta`
@@ -2203,111 +2297,5 @@ The people who joined the meeting contribute fully and put forward suggestions a
 [Data](articles/599fd4b5.json)
 
 [Extended Data](ext_articles/599fd4b5.ext.json)
-
----
-
-### Maximum price for egg
-
-*2024-03-06 04:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-அதிகபட்ச-விலை/175-334259) · `ta`
-
-The Ministry of Agriculture plans to set a maximum egg price next week, aiming to control market prices during festivals. This decision follows a discussion led by Agriculture Minister Mahinda Amaraweera, highlighting the need for normal pricing during festivals. Additionally, 4 crore eggs will be imported from India to help curb prices.
-
-🟩
-
-The Ministry of Agriculture has decided to send the price of the Consumer Authority to the Consumer Authority next week to make a special gazette notification to fix the peak retail price for the egg.
-
-The decision was taken during a discussion held yesterday under the leadership of Agriculture Minister Mahinda Amaraweera.
-
-During the discussion, it was pointed out that the price of eggs in the market has increased uncontrollably.
-
-In this context, the peak pricing of the egg will be set to provide for the consumers at normal prices during the festival.
-
-Meanwhile, it has been decided to import about 4 crore eggs from India in the coming festive season to curb egg prices in the market.. (A)
-
-◼️
-
-[Data](articles/1c74aa60.json)
-
-[Extended Data](ext_articles/1c74aa60.ext.json)
-
----
-
-### Breastfeeding
-
-*2024-03-06 04:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-புரைக்கேறி-குழந்தை-உயிரிழப்பு/175-334258) · `ta`
-
-Autopsy in Balangoda reveals breastfeeding incident details.
-
-🟩
-
-The incident took place yesterday in Balangoda. An autopsy conducted at the Balangoda Resource Hospital revealed this.
-
-◼️
-
-[Data](articles/51a4c317.json)
-
-[Extended Data](ext_articles/51a4c317.ext.json)
-
----
-
-### All parties Sticking to IMF pact vital to see Lanka out of woods  - British HC Andrew Patrick
-
-*2024-03-06 03:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/All-parties-Sticking-to-IMF-pact-vital-to-see-Lanka-out-of-woods-British-HC-Andrew-Patrick/231-278302) · `en`
-
-Sri Lanka has come a long way. It has made some very significant  progress over the past year though it caused a lot of hardship for  people.
-
-Better to go back to the situation before 2019 when the UNHRC Resolution was consensual
-
-British High Commissioner Andrew Patrick, in an exclusive interview with Daily Mirror, shared his views on bilateral ties and the way forward to strengthen bonds.
-
-He spoke to Daily Mirror in the wake of the two countries celebrating 75 years of diplomatic relations.
-
-Q   In recent times, we saw the two countries engaging with each other in a number of ways. So what is the new direction on bilateral relations between the UK and Sri Lanka?
-
-Well, I am not sure of a new direction in bilateral relations. However, we’ve had very strong bonds for many years enabling both countries to celebrate 75 years of diplomatic relations recently.
-
-...
-
-[Data](articles/d7337c0d.json)
-
-[Extended Data](ext_articles/d7337c0d.ext.json)
-
----
-
-### Action to serve electric buses
-
-*2024-03-06 03:44:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-பஸ்களை-சேவையில்-ஈடுபடுத்த-நடவடிக்கை/175-334257) · `ta`
-
-Transport Minister Bandula Gunawardena plans to introduce 200 electric buses with modern facilities, starting with 50 before the Tamil-Sinhala New Year. Future buses, including those imported by private companies and the Sri Lanka Transport Board, will be required to have CCRVs and cameras.
-
-🟩
-
-Transport and Highways Minister Bandula Gunawardena said that 200 electric buses with modern facilities will be operated.
-
-As a first step, we will serve 50 electric buses before the Tamil -Sinhala New Year, ”he said.
-
-CCRVs in all buses imported by the private and the Sri Lanka Transport Board in the future. Minister Bandula Gunawardena has said that it will be mandatory to fit the cameras. (A)
-
-◼️
-
-[Data](articles/4886c9ca.json)
-
-[Extended Data](ext_articles/4886c9ca.ext.json)
-
----
-
-### Honouring the Unsung Heroes of Sri Lanka on International Women’s Day
-
-*2024-03-06 03:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Honouring-the-Unsung-Heroes-of-Sri-Lanka-on-International-Womens-Day/172-278301) · `en`
-
-As we celebrate International Women’s Day, it prompts us to wonder, what does it truly mean to be a woman? In a world marked by increasing competitiveness and relentless pace, women often find themselves questioning their place and value. Today, as we honour the spirit of womanhood, it is imperative to recognise the enduring legacy of women and address the scarcity of female role models to inspire the next generation.
-
-Being a woman is a profound journey, marked by the diverse roles of daughter, wife, mother, educator, career woman and a caregiver to her family. From the moment a child is cradled protectively in her womb, she begins a journey of nurturing and guidance that extends far beyond birth. A mother’s love envelops her child, shaping their perceptions and experiences as they navigate the world.
-
-...
-
-[Data](articles/5699ed7b.json)
-
-[Extended Data](ext_articles/5699ed7b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 15:33:25**
+As of **2024-03-06 15:51:26**
 
 ## Newspaper Stats
 
-*Scraped **11,237** Articles*
+*Scraped **11,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,206 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 946
-tamilmirrorlk | 1,369
-adaderanalk | 1,371
+adalk | 948
+tamilmirrorlk | 1,370
+adaderanalk | 1,372
 virakesarilk | 1,530
-dailymirrorlk | 1,717
-adaderanasinhalalk | 1,757
+dailymirrorlk | 1,719
+adaderanasinhalalk | 1,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,233 (100.0%) of 11,237 articles have been extended.
+11,237 (99.9%) of 11,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### බොරැල්ලේදී අන්තරේට ජල ප්‍රහාරයක්
+### அசிட் வீச்சில் ஐவருக்கு எரிகாயம்
+
+*2024-03-06 15:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அசிட்-வீச்சில்-ஐவருக்கு-எரிகாயம்/76-334285) · `ta`
+
+வழக்கு விசாரணைக்காக வந்து கொண்டிருந்த போது மேற்கொள்ளப்பட்ட அசிட் வீச்சில் ஐவர் காயமடைந்துள்ளனர்.
+
+இரத்தினபுரி மேல் நீதிமன்ற வளாகத்திற்கு அருகில் புதன்கிழமை (06) காலை இடம்பெற்ற அசிட் வீச்சினால் ஐவர் காயமடைந்து இரத்தினபுரி போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக இரத்தினபுரி தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+வழக்கு ஒன்றுக்காக வந்த ஒருவர், வீதியில் பயணித்த அவரது மனைவி மற்றும் மூன்று குழந்தைகள் மீது அசிட் வீச்சு தாக்குதல் நடத்தியுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+இரத்தினபுரியின் புதிய நகரத்தில் 2023 ஆம் ஆண்டு ஏப்ரல் மாதம் 23 ஆம் திகதி இடம்பெற்ற வாகன விபத்துடன் தொடர்புடைய பிரதான பிரதிவாதியை இலக்கு வைத்தே  அசிட் வீச்சு நடத்தப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+வழக்கு விசாரணைக்கு ஆஜராக வந்தபோது தாக்குதல் நடத்தப்பட்டுள்ளது. கார் விபத்தில் உயிரிழந்த இளைஞனின் தந்தையே  அசிட் வீச்சை மேற்கொண்டார் என்ற சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார் என இரத்தினபுரி பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c10fcec9.json)
+
+---
+
+### පුතාගේ මරණයේ පළිය ගන්න පියා ගැසූ ඇසිඩ් ප්‍රහාරය
+
+*2024-03-06 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194209) · `si`
+
+අද (06) උදෑසන රත්නපුර මහාධිකරණ සංකීර්ණය අසල දී පුද්ගලයින් පිරිසකට ඇසිඩ් ප්‍රහාරයක් එල්ල කර තිබේ.
+
+එම ඇසිඩ් ප්‍රහාරයෙන් පුද්ගලයින් තිදෙනෙකු තුවාල ලබා රත්නපුර ශික්ෂණ රෝහලට ඇතුළත් කර අති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+රිය අනතුරක් සම්බන්ධ නඩුවක් සඳහා පැමිණෙමින් සිටි පුද්ගලයෙකු ඉලක්ක කර එම ඇසිඩ් ප්‍රහාරය එල්ල කර ඇති අතර ඉන් එම අවස්ථාවේදී මාර්ගයේ ගමන් කරමින් සිටි දරුවන් දෙදෙනෙක්ද තුවාල ලබා ඇති බව වාර්තා වෙයි.
+
+ඇසිඩ් ප්‍රහාරයට ලක්ව ඇත්තේ පසුගිය වසරේ සිංහල අලුත් අවුරුදු දා රත්නපුර සමන් දේවාලය අසල සිදු වූ මාරක රිය අනතුරේ ප්‍රධාන සැකකරු බව හඳුනාගෙන ඇත.
+
+ඇසිඩ් ප්‍රහාරය එල්ල කළ බවට සැකපිට අදාළ රිය අනතුරෙන් මියගිය තරුණයාගේ පියා රත්නපුර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/5b713eec.json)
+
+---
+
+### Police disperse IUSF protest in Punchi Borella
+
+*2024-03-06 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-disperse-IUSF-protest-in-Punchi-Borella/108-278359) · `en`
+
+Colombo, March 6 (Daily Mirror) -Police used water cannons to disperse a group of students participating in a protest march organized by the Inter-University Students' Federation at Punchi Borella.
+
+Two students, including the convener of the Inter-University Students' Federation Madhushan Chandrajit, have been arrested.
+
+◼️
+
+[Data](articles/4299e29b.json)
+
+---
+
+### ටෙලිකොම් අතුරු තහනම ඉවත් කරන්නැයි ඉල්ලයි
+
+*2024-03-06 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194208) · `si`
+
+ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ සහ ලංකා හොස්පිට්ල්ස් ආයතනයේ කොටස් පැවරීමේ ක්‍රියාවලිය සම්බන්ධයෙන් නිකුත් කර තිබෙන අතුරු තහනම් නියෝගය ඉවත් කරන ලෙස නීතිපතිවරයා අද (06) අභියාචනාධිකරණය හමුවේ ඉල්ලීමක් කළේය.
+
+දැනට තෝරාගෙන ඇති අයදුම්කරුවන් පදනම් කරගෙන එම කොටස් පැවරීමේ ක්‍රියාවලියේ ඉදිරි පියවර ගැනීම මාර්තු මස 12 වනදා තෙක් අත්හිටුවමින් පසුගියදා අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+ශ්‍රී ලංකා ටෙලිකොම් ආයතනය වෙනුවෙන් ලයිකා මොබයිල් එස්.ඒ.ආර්.එල් සමාගම සහ පිටිගෝ කොමේරිකෝ ඉන්ටර්නැෂනල් සමාගම මෙන්ම ලංකා හොස්පිට්ල්ස් ආයතනය වෙනුවෙන් ලයිකා ලීසිං හෝල්ඩිං සමාගම සහ හයිම්ස් ඉන්ටනැෂනල් සමාගම විසින් ඉදිරිපත් කළ රිට් පෙත්සම් දෙකක් අද යළි කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් සුමති ධර්මවර්ධන මහතා මෙම ඉල්ලීම කර තිබුණි.
+
+මෙම පෙත්සම් අද අභියාචනාධිකරනය විනිසුරු ඩී.එන් සමරකෝන් මහතා ඉදිරියේ කැඳවනු ලැබු අතර අදාළ ඉල්ලීම සම්බන්ධයෙන් මේ වනවිට කරුණු දැක්වීම සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/3b26fa7c.json)
+
+---
+
+### 6 වසරෙන් ඉහළ දරුවන්ට  පාසලේ දී වෘත්තීය මාර්ගෝපදේශනය
+
+*2024-03-06 15:26:35* · [`adalk`](https://www.ada.lk/breaking_news/6-වසරෙන්-ඉහළ-දරුවන්ට--පාසලේ-දී-වෘත්තීය-මාර්ගෝපදේශනය/11-408450) · `si`
+
+අද වනවිට ලෝකයේ පවතින බොහෝ වෘත්තීන් ඉදිරි වසර කිහිපය තුළ දැකිය නොහැකිවන බවත්, ගෝලීය ආර්ථික අවශ්‍යතා අනුව වෙනස්වන නවීන වෘත්තීය අවස්ථා වෙත දරුවන් යොමු කළ යුත්තේ නිවැරදි වෘත්තීය මගපෙන්වීම් ලබාදෙමින් බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+
+ඒ අනුව අධ්‍යාපන අමාත්‍යාංශය විසින් මෙවර උසස් පෙළ අවසන් කළ සියලු‍ සිසුදරුවන් වෙත ලබාදී ඇති වෘත්තීය මාර්ගෝපදේශන වැඩසටහන අර්ථවත් පිටුබලයක් සලසනු ඇති බවත්, විභාගය අවසන් කළ දරුවන් ප්‍රතිඵල එනතුරු නිවසේ රඳවා නොගෙන එම වැඩසටහන සමග සම්බන්ධ කරවීම දෙමව්පියන්ගේ වගකීමක් වන බවත් අමාත්‍යවරයා පැවැසීය.
+
+අමාත්‍යවරයා මේ අදහස් පළ කළේ, දිවයින පුරා උසස් පෙළට පෙනී සිටි සිසුන් වෙනුවෙන් වෘත්තීය මාර්ගෝපදේශනය, ඉංග්‍රීසි සහ තොරතුරු තාක්ෂණ කුසලතා ලබාදීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් ක්‍රියාවට නංවනු ලබන වෘත්තීය පුහුණු පාඨමාලාව ආරම්භ කිරීම නිමිත්තෙන් මහරගම මධ්‍ය මහා විද්‍යාලයේ පැවති ජාතික වැඩසටහනට එක්වෙමිනි.
+
+...
+
+[Data](articles/222dc617.json)
+
+---
+
+### Police fire water cannons at protest in Borella; ISUF convenor arrested
+
+*2024-03-06 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97774/police-fire-water-cannons-at-protest-in-borella-isuf-convenor-arrested) · `en`
+
+Police have fired water cannons at a protest march organised by the Inter-University Students’ Federation (IUSF) in Colombo today (06 March).
+
+Accordingly, water cannons were used in an attempt to disperse the protesting students near the Borella Junction.
+
+Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arrested by the police during the protest.
+
+◼️
+
+[Data](articles/0c17a1ff.json)
+
+---
+
+### Anthare water attack in Borella
 
 *2024-03-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194207) · `si`
 
-බොරැල්ල මංසන්ධියේදී අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බල මණ්ඩලය සංවිධානය කළ විරෝධතා පා ගමනකට පොලීසිය ජල ප්‍රහාරයක් එල්ලකර තිබේ.
+Police protest march by Inter University Students Federation at Borella Junction.
+
+🟩
+
+Police have launched a protest march organized by the Inter University Students Federation at Borella Junction.
 
 ◼️
 
 [Data](articles/8806a086.json)
 
+[Extended Data](ext_articles/8806a086.ext.json)
+
 ---
 
-### திருக்கோணேஸ்வர ஆலய நிர்வாக சபை தொடர்பான வழக்கு : கட்டாணை மேலும் 14 நாட்களுக்கு நீடிப்பு
+### Case on Thirukoneswara Temple Executive Council
 
 *2024-03-06 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178078) · `ta`
 
-திருக்கோணேஸ்வர ஆலய நிர்வாக சபை தொடர்பான வழக்கு விசாரணை திருகோணமலை மாவட்ட நீதிமன்றில் இன்று புதன்கிழமை (06) எடுத்துக்கொள்ளப்பட்டபோது கட்டாணையை மேலும் 14 நாட்களுக்கு நீடித்து நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Trincomalee District Court ordered the extension of the Thirukoneswara Temple Executive Council's construction by 14 days, appointed Taneswaran as the Chairman of the Interim Executive Council, and issued an interim injunction to prevent members from acting as members of the Goneswara Temple.
 
-திருகோணமலை திருக்கோணேஸ்வர ஆலய நிர்வாக சபைக்கு எதிராக தொடரப்பட்ட வழக்கு விசாரணை மாவட்ட நீதிபதி மாணிக்கவாசகர்  கணேசராஜா முன்னிலையில் இன்றைய தினம் எடுத்துக் கொள்ளப்பட்டது. குறித்த வழக்கில் வழக்காளி சார்பாக பதிவு செய்யப்பட்ட சட்டத்தரணி சண்முகம் தில்லைராசன், சிரேஷ்ட சட்டத்தரணி இராமலிங்கம் திருக்குமரநாதன் மற்றும் சட்டத்தரணி கரிகாலன் ஆகியோரும் ஆலய நிர்வாக சபை சார்பில் ஜனாதிபதி சட்டத்தரணி சத்தார் மற்றும் சட்டத்தரணி ஐஸ்வர்யா சிவகுமார் ஆகியோர் ஆஜராகி இருந்தனர்.
+🟩
 
-இதன்போது இருதரப்பு சமர்ப்பணங்களையும் ஆராய்ந்த நீதிபதி இடைக்கால நிர்வாக சபையின் தலைவராக திருகோணமலை பட்டிணமும் சூழலும் பிரதேச செயலக செயலாளர் தனேஸ்வரன் அவர்களை நியமித்ததோடு நிர்வாக சபைக்கு எதிராக வழங்கிய கட்டாணையை மேலும் 14 நாட்களுக்கு நீடித்து உத்தரவிட்டுள்ளார்.
+The court has ordered the Trincomalee District Court on Wednesday (06) at the Trincomalee District Court on Wednesday (06).
+
+The trial against the Trincomalee Thirukoneswara Temple Executive Council was taken up in the presence of District Judge Ganesarajah today.. Attorney -at -Law Shanmugam Dillairasan, Senior Attorney Ramalingam Thirukumaranathan and Attorney -at -Law Karikalan were also present on behalf of the temple administration.
+
+The judge, who examined the bilateral submissions, appointed Divisional Secretariat Secretary Taneswaran as the Chairman of the Interim Executive Council and the Chairman of the Interim Executive Council and ordered the extension of the construction of the Administrative Council for a further 14 days.
+
+The Trincomalee District Court has issued an interim injunction in the case of the Trincomalee District Court on the 21st of last month to prevent members from acting as members of the Goneswara Temple.
 
 ...
 
 [Data](articles/d05311c3.json)
+
+[Extended Data](ext_articles/d05311c3.ext.json)
+
+---
+
+### Gotabaya’s book ’The Conspiracy to Oust Me from the Presidency’ out tomorrow
+
+*2024-03-06 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabayas-book-The-Conspiracy-to-Oust-Me-from-the-Presidency-out-tomorrow/108-278358) · `en`
+
+Colombo, March 6 (Daily Mirror) - Former President Gotabaya Rajapaksa is set to release a book tomorrow titled "The Conspiracy to Oust Me from the Presidency."
+
+In a statement, the former President said that the book delves into his firsthand experience of an internationally sponsored regime change operation that led to his removal from power.
+
+"I believe that this book is important not only for Sri Lankans but also for foreigners," he said.
+
+He said the book will be accessible in both the English and Sinhala languages ​​from leading bookstores.
+
+◼️
+
+[Data](articles/56cd97f3.json)
+
+---
+
+### නිවාස ණය වාරික වලින් ලක්ෂ 25 ක් වංචා කළ නිලධාරිනිය අල්ලයි
+
+*2024-03-06 15:14:46* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-ණය-වාරික-වලින්-ලක්ෂ-25-ක්-වංචා-කළ-නිලධාරිනිය-අල්ලයි/11-408449) · `si`
+
+නිවාස ණයකරුවන් ගෙවන  වාරික මුදල්  වලින් රුපියල් ලක්ෂ 25 කට ආසන්න මුදලක් වංචා කල බවට සැකපිට කළුතර නිවාස සංවර්ධන අධිකාරියේ ණය අයකර ගැනීමේ නිළධාරිනියක  අත්අඩංගුවට ගත්බව කළුතර කොට්ඨාස  විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වස්කඩුව ප්‍රදේශයේ පදිංචි 44 හැවිරිදි කාන්තාවක  බව පොලිසිය කීය.
+
+නිවාස සංවර්ධන අධිකරණයේ විගණක නිළධාරියෙක් විසින් කල පැමිණිල්ලක් මත සැකකාරිය අත්අඩංගුවට ගෙන තිබේ.
+
+වංචා කරන ලද රුපියල් ලක්ෂ විසිපහක පමණ මුදලින් කොටසක් ගෙවා ඇති බවත් , රුපියල් ලක්ෂ 17කට අධික මුදලක් සම්බන්ධයෙන් මේ වනවිට විමර්ශන සිදුකරමින් පවතින බවත්  පැවසේ.
+
+ණයකරුවන් විසින් ලබාදෙන වාරික වලට ලදුපත් නිකුත් කිරීමේදී කාබන් පිටපත ඉවත්කොට මුදල සඳහන් කරන ස්ථානයේ වංචනික ලෙස වෙනස් කිරීම් කර ඇති බවට මෙතෙක් කල  පරීක්ෂණවලදී හෙළිව ඇතැයි පරීක්ෂණ සිදුකරන නිලධාරියෙක් කීය.
+
+ලදුපත් වලට අනුව පරිගණක දත්ත පද්ධතියද වෙනස් කර ඇති බවට මෙතෙක් කළ පරීක්ෂණවලදී අනාවරණය වන බවත්, ඒ සඳහා තවත් නිලධාරීන් සහාය දක්වා ඇද්ද? යන්න සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරන බවත් පොලිසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/07e8628c.json)
 
 ---
 
@@ -96,23 +254,31 @@ The book is scheduled to be launched tomorrow (March 07), Ada Derana learns.
 
 ---
 
-### செங்கடலில் முக்கிய இணைய கேபிள்கள் சேதம் ; ஆசியா, ஐரோப்பா மற்றும் மத்திய கிழக்கில் இணைய சேவை பாதிப்பு
+### Damage to main internet cables in the Red Sea;Damage to Internet service in Asia, Europe and the Middle East
 
 *2024-03-06 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178057) · `ta`
 
-செங்கடலில் கடலுக்கடியில் உள்ள பல தகவல் தொடர்பு கேபிள்கள் சேதமடைந்துள்ளன. இதன் காரணமாக ஆசியா மற்றும் ஐரோப்பா இடையே இணைய சேவை 25 சதவீதம் பாதிக்கப்பட்டுள்ளதாக  தொலைத்தொடர்பு நிறுவனம் தெரிவித்துள்ளதுடன் அமெரிக்க அதிகாரியொருவரும் தெரிவித்துள்ளார்.
+Damage to main internet cables in the Red Sea affects internet service in Asia, Europe, and the Middle East. HGC Global Communications reports four of the 15 cables disconnected. Investigations are ongoing to determine if the damage was intentional or accidental. The incident follows attacks on cargo ships by Houthi supporters, who claim to target ships heading towards Israel.
 
-ஆசியா, ஐரோப்பா மற்றும் மத்திய கிழக்கு நாடுகளில் உள்ள முக்கிய வழங்குனர்களின் கடலுக்கடியில் கேபிள்கள் சேதமடைந்ததைத் தொடர்ந்து இணையச் சேவை தடைபட்டுள்ளது.
+🟩
 
-15 கேபிள்களில் நான்கு சமீபத்தில் துண்டிக்கப்பட்டதையடுத்து, போக்குவரத்தை மாற்றியமைக்கும் நடவடிக்கையை எடுத்துள்ளதாக ஹொங்கொங்கை தளமாகக் கொண்ட எச்.ஜி.சி  குளோபல் கம்யூனிகேஷன்ஸ் தொலை தொடர்பு நிறுவனம் தெரிவித்துள்ளது.
+Several communications cables in the Red Sea are damaged. As a result of this, the telecommunications company said that internet service between Asia and Europe has been affected by the Internet, a US official said.
 
-ஆசியா-ஆப்பிரிக்கா- ஐரோப்பா 1, ஐரோப்பா இந்தியா கேட்வே, சீகாம் மற்றும் டிஜிஎன் வளைகுடா உள்ளிட்ட நான்கு முக்கிய தொலைத்தொடர்பு வலையமைப்புகளின் கேபிள்கள் சேதமடைந்துள்ளன.
+Internet service has been blocked after the underlying cables have been damaged by major providers in Asia, Europe and the Middle East.
 
-கேபிள்கள் வேண்டுமென்றே வெட்டப்பட்டதா அல்லது கப்பல்கள் நங்கூரம் இடப்பட்டதன் மூலம் துண்டிக்கப்பட்டதா என்பதை கண்டறிய விசாரணைகளை மேற்கொள்ளப்படுவதாக அமெரிக்க அதிகாரி தெரிவித்துள்ளார்.
+HGC Global Communications Telecommunication Agency (HGC), HGC Global Communications Telecommunication Agency said that four of the 15 cables were recently disconnected.
+
+The cables of four major telecommunications networks, including Asia-Africa 1, Europe India Gateway, Sikam and DGN Gulf, have been damaged.
+
+The US official said that investigations are being carried out to find out whether the cables were deliberately cut or the ships were cut off by anchor.
+
+Following the war between Israel and Hamas in October last year, Houthi clansmen are attacked on cargo ships in the Red Sea.
 
 ...
 
 [Data](articles/ae89ade5.json)
+
+[Extended Data](ext_articles/ae89ade5.ext.json)
 
 ---
 
@@ -854,25 +1020,35 @@ It is said that the condition of this wind can change from time to time and expe
 
 ---
 
-### ප්‍රාථමික සිසුන්ගේ දිවා ආහාරයට රු. 25ක් වැඩි කරයි
+### Primary students' lunch is Rs. Will increase 25
 
 *2024-03-06 12:21:42* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-සිසුන්ගේ-දිවා-ආහාරයට-රු--25ක්-වැඩි-කරයි/11-408446) · `si`
 
-දිවයිනේ ප්‍රාථමික පාසල්වල 1_5 ශ්‍රේණිවල  සිසුන්ට දැනට ක්‍රියාත්මක කරන දිවා ආහාර වේල සඳහා රුපියල්25 මුදලක් වැඩි කිරීමට ඊයේ(5) දා කැබිනට් මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+Primary school students' lunch cost will increase by Rs. 25. The Cabinet approved a lunch nutrition program for 1,500 students in 1,500 primary schools, covering 1.08 million students across 7,902 schools. Suppliers face challenges due to insufficient product prices. The program, underway since 2015, requires suppliers to provide 75 grams of dry rice, three humbles, and dhal daily, along with fish, sooonyatt, and local fruits for the next five days. Despite the program's benefits, suppliers find it difficult to prepare this diet at Rs. 85 per year. The Committee recommended the Cabinet pay Rs. 110 to suppliers in 2024.
 
-මෙම දිවා ආහාර පෝෂණ වැඩසටහන ක්‍රියාත්මක කරන්න සැපයුම්කරුවන් සඳහා එක් සිසුවෙකුගේ දිනක ආහාර වෙල සඳහා දැනට ගෙවනු ලබන මුදල රුපියල් 85 වන අතර එම මුදල ඉදිරියේදී  රුපියල් 110 දක්වා වැඩි කෙරේ.
+🟩
 
-දිවයිනේ අධ්‍යාපන කලාප කාර්යාල 100ට අයත් පාසල් 7902 ක සිසුන් මිලියන 1.08ක් ආවරණය පරිදි මෙම වැඩසටහන දැනට ක්‍රියාත්මක වෙයි.
+The Cabinet approval has been approved by the students of 1_5 students in 1_5 students in the primary schools in the island yesterday (5).
 
-දිවා ආහාර වැඩසටහන පවත්වා ගෙන යන සැපයුම්කරුවන් වෙනුවෙන් වර්තමාන භාණ්ඩ  මිල ඉහළ යෑම අනුව රුපියල් 85 ක දීමනාව ප්‍රමාණවත් නොවන බව සැපයුම්කරුවන් පෙන්වා දුන්නද ඒ කෙරෙහි රජයේ අවධානය යොමු නොවී තිබුණි.
+Implement this lunch nutrition program for suppliers is Rs. 85 and the cost is Rs.
 
-මේ තත්ත්වය අනුව ඇතැම් කලාප කාර්යාල වල පෝෂණ වැඩසටහන පවත්වාගෙන ගිය සැපයුම්කරුවන් එයින් ඉවත් වී සිටි සිද්ධීන්ට වාර්තා විය .
+The program is currently underway covering 1.08 million students of 7902 schools belonging to 100 of the Education Zonal Offices.
 
-සැපයුම්කරුවන්ට දරුවන්ට ආහාර ලබා දිය යුතු ආකාරය පිළිබඳ වට්ටෝරුවක් ලබා දී ඇති අතර එය විදුහල්පතිවරු සෑම දිනකම අධීක්ෂණය කළ යුතුවෙයි.
+Suppliers show that the current product prices are not sufficient for the suppliers of the day-food program.
+
+In this regard, the suppliers who maintained the nutrition program of certain Zone offices were reported to the cases that they had left.
+
+The suppliers have given a recipe on how to give food and the principals should monitor the principals every day.
+
+Accordingly, 75 grams of dry rice every day should be given 75 grams of dry rice and three humbles, dhal.
+
+The next five days from Monday to Friday should be given to the above diet, fish, fish, sooonyatt.. In addition, a local fruits should also join the food.
 
 ...
 
 [Data](articles/28d6b925.json)
+
+[Extended Data](ext_articles/28d6b925.ext.json)
 
 ---
 
@@ -2117,177 +2293,5 @@ The Leader, the Leader of the Leader, the leaders of the leaders and their suppo
 [Data](articles/a42780ae.json)
 
 [Extended Data](ext_articles/a42780ae.ext.json)
-
----
-
-### 99kg of hashish being smuggled to Sri Lanka seized near TN coast
-
-*2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
-
-As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
-
-The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
-
-Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
-
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
-
-...
-
-[Data](articles/d3ae41f0.json)
-
-[Extended Data](ext_articles/d3ae41f0.ext.json)
-
----
-
-### The Chinese People's Congress Annual Session begins
-
-*2024-03-06 08:00:50* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතික-මහජන-කොංග්‍රසයේ-වාර්ෂික-සැසිවාරය-ඇරඹේ/11-408440) · `si`
-
-The Chinese National People's Congress, China's highest power, began today at Beijing Capital Hall. President Xi Jinping and other leaders attended. China achieved its 2023 economic and social goals, with GDP growth expected in 2024. The country is focusing on reconstruction and opening, encouraging state, NGO, and foreign investment enterprises. It aims to build a modern industrial system and continues a peaceful foreign policy.
-
-🟩
-
-The Chinese National People's Congress, the highest power in China, begins today. It was at Beijing Capital Hall.
-
-Second Session of the 14th Chinese People Congress commenced yesterday (5). The Chinese Communist Party Secretary General and the party's leaders, including President Xi Ginping, joined the inauguration ceremony.
-
-Chinese Prime Minister Lee Chang said China was able to achieve the main economic and social development goals of the country in 2023.The Prime Minister said that the growth of GDP was expected to increase in 2024, he said.
-
-The country's task report states that China is implementing the reconstruction and opening of the new year with more heavily determination and strength than ever before.. Steps will be taken to encourage and operate the rehabilitation and openness, encouraging the state and non-governmental enterprises as well as foreign investment enterprises.
-
-...
-
-[Data](articles/b5d0bcae.json)
-
-[Extended Data](ext_articles/b5d0bcae.ext.json)
-
----
-
-### Will not deviate from IMF programme, but will renegotiate terms and conditions: NPP
-
-*2024-03-06 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Will-not-deviate-from-IMF-programme-but-will-renegotiate-terms-and-conditions-NPP/155-278316) · `en`
-
-Colombo, March 6 (Daily Mirror) - The National People’s Power (NPP) said it would not derail the IMF programme if it won the presidency but would renegotiate its terms and conditions on implementations since the current austerity measures had burdened people and the attempts of the government to sell off public assets would bring severe economic consequences to the country.
-
-NPP economic council member Prof. Anil Jayantha said his party would also seek speedy actions on the debt restructuring process.
-
-Also, he said that a homegrown solution to stabilise the economy is needed and NPP is ready to come out with such plans of unleashing the growth potential, increasing government revenue, rebuilding foreign reserves and directing the economy for a sustainable growth.
-
-However, he said the present government could have gone for early negotiations with creditors in advance and explored other options available and adopted by other countries if it had a genuine intention of recovering the economy.
-
-...
-
-[Data](articles/0142c5b5.json)
-
-[Extended Data](ext_articles/0142c5b5.ext.json)
-
----
-
-### Will not deviate from IMF programme, but will renegotiate terms and conditions: NPP
-
-*2024-03-06 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-not-deviate-from-IMF-programme-but-will-renegotiate-terms-and-conditions-NPP/108-278316) · `en`
-
-Colombo, March 6 (Daily Mirror) - The National People’s Power (NPP) said it would not derail the IMF programme if it won the presidency but would renegotiate its terms and conditions on implementations since the current austerity measures had burdened people and the attempts of the government to sell off public assets would bring severe economic consequences to the country.
-
-NPP economic council member Prof. Anil Jayantha said his party would also seek speedy actions on the debt restructuring process.
-
-Also, he said that a homegrown solution to stabilise the economy is needed and NPP is ready to come out with such plans of unleashing the growth potential, increasing government revenue, rebuilding foreign reserves and directing the economy for a sustainable growth.
-
-However, he said the present government could have gone for early negotiations with creditors in advance and explored other options available and adopted by other countries if it had a genuine intention of recovering the economy.
-
-...
-
-[Data](articles/79ff01ec.json)
-
-[Extended Data](ext_articles/79ff01ec.ext.json)
-
----
-
-### Rs. Dematgoda Ruwan, wife and son have sued Dematgoda Ruwan, who has earned illegally earned
-
-*2024-03-06 07:47:41* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-150ක්-නීති-විරෝධීව-උපයා-ගත්තැයි-දෙමටගොඩ-රුවන්ට--බිරිඳට-හා-පුතාට-නඩු/11-408439) · `si`
-
-Rs. Dematgoda Ruwan's wife and son sued him for illegal earnings. The Attorney General filed cases against them under the Currency Irrigation Act and for investing in Sri Lanka, vehicles, and Rs. 20679650.
-
-🟩
-
-The Attorney General was issued in the Colombo High Court against his son and his wife, accusing of receiving over Rs.
-
-The Attorney General has filed a separate case against the defendants under the 20 allegations under the Currency Irrigation Act.
-
-Sidata Pathiranlage Ruwan, Ruwan Chamila's Ruwan, Sira Pathiranla's Tharindu Madusan, Pathiraini (son) and Shanikani's Shani (Wife) is against John Peter.
-
-Invested in Sri Lanka and the Finance Act of March 20, 2019, invested in Sri Lanka and investment under the Finance ActThe separate cases have been filed.
-
-The Attorney General has also been accused of investing in Sri Lanka, two radiation vehicles and more luxury vehicles and Rs. 20679650 and Rs..
-
-◼️
-
-[Data](articles/14b79579.json)
-
-[Extended Data](ext_articles/14b79579.ext.json)
-
----
-
-### Rapid increase in glaucoma patients
-
-*2024-03-06 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194188) · `si`
-
-Glaucoma cases in Sri Lanka have surged to 5%, significantly higher than the global average of 3.54%. This increase is attributed to the prevalence of the disease among the elderly population. Preventive programs are in place to identify and manage the condition early.
-
-🟩
-
-It is estimated that about 5 percent of the country's population has become victims of glucoma.
-
-He says that the number of glaucoma suffered and in the country, the disease is the increase in the size of the disease.
-
-The main reason is that the lordo loke and Sri Lankans, the disease is the disease of glucoma. How many percent of the world is 3.54%. But there are nearly 5% in Sri Lanka. This is one reason why our adult population increases. Therefore, nearly 5% of our country estimated that the disease is suffering from the disease. Therefore, directing the eyes is very important. Programs have been made to identify and prevent preventative disorders in advance in principle. "
-
-◼️
-
-[Data](articles/a5cbfcb0.json)
-
-[Extended Data](ext_articles/a5cbfcb0.ext.json)
-
----
-
-### Meta’s Facebook, Instagram back up after global outage
-
-*2024-03-06 07:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Metas-Facebook-Instagram-back-up-after-global-outage/108-278310) · `en`
-
-March 5 (Reuters) - Meta-owned Facebook and Instagram were back up on Tuesday after a more than two-hour outage that was caused by a technical issue and impacted hundreds of thousands of users globally.
-
-The disruptions started at around 10 a.m. ET (1500 GMT), with many users saying on rival social media platform X they had been booted out of Facebook and Instagram and were unable to log in.
-
-The White House National Security Council was monitoring the incident and not aware of any specific malicious cyber activity at this time, a spokesperson said.
-
-At the peak of the outage, there were more than 550,000 reports of disruptions for Facebook and about 92,000 for Instagram, according to outage tracking website Downdetector.com.
-
-"Earlier today, a technical issue caused people to have difficulty accessing some of our services. We resolved the issue ... for everyone who was impacted," Meta spokesperson Andy Stone said in a post on X, without elaborating on the issue.
-
-...
-
-[Data](articles/a51cefdb.json)
-
-[Extended Data](ext_articles/a51cefdb.ext.json)
-
----
-
-### Showers expected in certain parts of the country
-
-*2024-03-06 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97759/showers-expected-in-certain-parts-of-the-country) · `en`
-
-Showers may occur at a few places in Southern province and in Ratnapura and Kalutara districts in the evening or night, says the Meteorology Department.
-
-Mainly dry weather will prevail in the other areas of the island, it said.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/071ba9f7.json)
-
-[Extended Data](ext_articles/071ba9f7.ext.json)
 
 ---

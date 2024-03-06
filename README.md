@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 13:34:18**
+As of **2024-03-06 13:52:28**
 
 ## Newspaper Stats
 
-*Scraped **11,213** Articles*
+*Scraped **11,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,91 +16,173 @@ economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 945
-adaderanalk | 1,366
-tamilmirrorlk | 1,367
+adaderanalk | 1,367
+tamilmirrorlk | 1,368
 virakesarilk | 1,525
 dailymirrorlk | 1,712
-adaderanasinhalalk | 1,751
+adaderanasinhalalk | 1,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,207 (99.9%) of 11,213 articles have been extended.
+11,213 (100.0%) of 11,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### பரீட்சைக்குத் தோற்றிய மாணவர்களுக்கான தொழிற்பயிற்சி ஆரம்பம்
+### முன்னாள் நிதியமைச்சர் வீட்டில் கைவரிசை
+
+*2024-03-06 13:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-நிதியமைச்சர்-வீட்டில்-கைவரிசை/175-334279) · `ta`
+
+முன்னாள் நிதி மற்றும் திட்டமிடல் அமைச்சர் மறைந்த ரொனி டி மெல்லின் வீட்டுக்குள் செவ்வாய்க்கிழமை (05) இரவு புகுந்த திருடர்கள் குழு, பெறுமதியான பல பொருட்கள் மற்றும் சொத்துக்களை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தெவிநுவர 103 தபால் நிலையத்திற்கு முன்பாக அமைந்துள்ள வீட்டிலேயே இவ்வாறு கைவரிசை காட்டப்பட்டுள்ளது.
+
+இது தொடர்பில் தெவிநுவர வீட்டின் காவற்காரர்,  கந்தர பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததோடு, ரொனி டி மெல்லின் பிரத்தியேக செயலாளர்  கே.எச்.வில்பிரட், பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோனிடமும் முறைப்பாடு செய்துள்ளார்.
+
+பொலிஸ் மா அதிபரின் விசேட உத்தரவின் பேரில் கந்தரை பொலிஸாருக்கு மேலதிகமாக மற்றுமொரு பொலிஸ் குழு விசாரணைகளை மேற்கொள்ள உள்ளது.
+
+மறைந்த ரொனி டி மெல்லின் இறுதிச் சடங்குகள் நடைபெற்று ஒரு வாரமாகிற நிலையிலேயே இவ்வாறு கைவரிசை காண்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7a270840.json)
+
+---
+
+### පොලිස් ලොක්කාගේ අශෝභන හැසිරීමෙන් ගමක් ම කැලඹෙයි
+
+*2024-03-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194201) · `si`
+
+පුත්තලම උඩප්පුව පොලිසියේ නිලධාරියෙකු සිදුකළ පහරදීමකින් ප්‍රදේශවාසීන් දෙදෙනෙකු තුවාල ලබා හලාවත රෝහලට ඇතුළත් කර තිබේ.
+
+මෙම පහරදීමත් සමග ඇතිවූ නොසන්සුන්තාව පාලනය කිරීමට මුන්දලම පොලීසිය කැඳවීමත් පියවර ගැණුනි.
+
+පුත්තලම උඩප්පුව ප්‍රදේශයේදී ඊයේ රාත්‍රි 9.30ට පමණ ගැටුමක් හටගෙන තිබුණේ උඩප්පුව පොලීසියේ, අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා සහ ප්‍රදේශවාසින් පිරිසක් අතරය.
+
+පහරදීම සිදුකරන අවස්ථාවේ නිලධාරියා ඉතා අශෝභන ලෙස හැසිරෙමින් රැස්ව සිටි ජනතාවට පරුෂ වචනයෙන් බැණවදින අයුරු පුද්ගලයෙකු වීඩියෝගත කර තිබේ.
+
+උඩප්පුව පොලීසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා පහරදීම සිදුකරන්නේ අනෙක් පොලිස් නිලධාරීන් දෙදෙනා පැමිණි මෝටර් රථයට ප්‍රදේශවාසීන් කෙළ ගැසූ බව පවසමිනි.
+
+මෙම සිදුවීමත් සමග උඩප්පුව ප්‍රදේශයේ හටගත් නොසන්සුන්කාරී තත්වය පාලනය කිරීම සඳහා මුන්දලම පොලිසියේ නිලධාරීන් කැඳවා තිබුණි.
+
+...
+
+[Data](articles/b5c06ef7.json)
+
+---
+
+### Prime Minister explains recent CBSL salary hike in Parliament
+
+*2024-03-06 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97770/prime-minister-explains-recent-cbsl-salary-hike-in-parliament-) · `en`
+
+Prime Minister Dinesh Gunawardena detailed the recent salary hikes of those employed at the Central Bank of Sri Lanka (CBSL).
+
+Responding to a question raised by Samagi Jana Balawegaya (SJB) MP S. M. Marikkar in Parliament this morning (06 March), the Premier provided a detailed explanation of the amounts and percentages by which the salaries were increased by for each position within the CBSL, emphasisng that these facts were made easily accessible to the public.
+
+Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition, following which the CBSL officials were summoned before the Cabinet, party leaders’ meeting and the Committee on Public Finance (COPF).
+
+...
+
+[Data](articles/693af192.json)
+
+---
+
+### Vocational training for students who appeared for the exam
 
 *2024-03-06 13:20:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைக்குத்-தோற்றிய-மாணவர்களுக்கான-தொழிற்பயிற்சி-ஆரம்பம்/175-334278) · `ta`
 
-இந்த வருடம் (2024) க.பொ.த உயர்தரப் பரீட்சைக்கு தோற்றிய மாணவர்களுக்கு ஆங்கிலம், தகவல் தொழில்நுட்பம் மற்றும் வழிகாட்டல் பயிற்சிகளை வழங்கும் நாடளாவிய வேலைத்திட்டம் இன்று ஆரம்பிக்கப்பட்டது.
+The Nationwide Program for the GCE Advanced Level Examination, launched in 2024, offers vocational training in English, IT, and Guidance to 25,000 students. Training will be held at 300 stations nationwide and is set to conclude before the GCE Ordinary Level Examination begins.
 
-இந்த வருடம் க.பொ.த உயர்தரப் பரீட்சைக்குத் தோற்றிய 25,000 மாணவர்கள் இந்தத் திட்டத்தில் பதிவு செய்துள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-இன்று முதல் நாடளாவிய ரீதியில் அமைந்துள்ள 300 நிலையங்களில் பயிற்சி நிகழ்ச்சிகள் நடத்தப்படவுள்ளதாக அமைச்சு மேலும் தெரிவித்துள்ளது.
+This year (2024), the Nationwide Program for the GCE Advanced Level Examination has been launched today for the students who have been given English, Information Technology and Guidance Training.
 
-கல்வி அமைச்சர் சுசில் பிரேமஜயந்தவின் தலைமையில் மஹரகம மத்திய மகா வித்தியாலயத்தில் இந்த வேலைத்திட்டம் ஆரம்பிக்கப்பட்டது.
+The Ministry of Education said that 25,000 students who appeared for the GCE Advanced Level Examination this year have registered in the scheme.
 
-கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சைகள் ஆரம்பமாவதற்கு முன்னர் இந்தப் பயிற்சித் திட்டங்கள் நிறைவடையும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+Training programs will be held at 300 stations located across the country from today, the Ministry said.
 
-இவ்வருடம் க.பொ.த சாதாரண தரப் பரீட்சைக்கு தோற்றவுள்ள மாணவர்களுக்கு பயிற்சித் திட்டங்களை அறிமுகப்படுத்துவதற்கும் நடவடிக்கை எடுக்கப்பட்டு வருவதாக அமைச்சு மேலும் தெரிவித்துள்ளது.
+The program was launched at the Maharagama Central Maha Vidyalaya under the patronage of Education Minister Susil Premajayantha.
+
+The Ministry of Education has said that these training programs will be completed before the GCE Ordinary Level Examination begins.
+
+The Ministry further stated that steps are being taken to introduce training programs for students who are sitting for the GCE Ordinary Level Examination this year.
 
 ◼️
 
 [Data](articles/ab945368.json)
 
+[Extended Data](ext_articles/ab945368.ext.json)
+
 ---
 
-### සමෘද්ධිය ගැන රජයෙන් ගත් අලුත්ම තීරණය
+### Latest decision taken by the government on prosperity
 
 *2024-03-06 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194200) · `si`
 
-සමෘද්ධි ව්‍යාපාරය කිසිදු අවස්ථාවක අහෝසි කිරීමට රජය බලාපොරොත්තු නොවන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+The government, led by Minister Shehan Semasinghe, has decided not to expect the Samurdhi business. The Minister stated in parliament that the Samurdhi business will continue as is, with the welfare benefit board advising the Ministry of Social Empowerment and the Department of Samurdhi. The number of beneficiaries has been adjusted to 24 million since July 20, with Samurdhi Development Officers' consent.
 
-අද (06) පාර්ලිමේන්තුවේ දී අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-එමෙන්ම සමෘද්ධි ව්‍යාපාරය සවිලබ ගැන්වීම සඳහා විශේෂ වගකීමක් ඉදිරියට ගෙනයන බවද මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා වැඩිදුරටත් පැවසීය.
+Minister of State Shehan Semasinghe says the government does not expect the Samurdhi business in any case.
 
-"ජනාධිපතිවරයා සහ අගමැතිවරයා උපදෙස් ලබාදුන්නේ, පවතින ක්‍රමවේදය තුළ සුබ සාධක ප්‍රතිලාභ මණ්ඩලයට මේ අනිවාර්ය දායකත්වය ලබාදිය යුතු මුදල් කාණ්ඩය කපාගෙන ඉතිරි මුදල් ප්‍රතිලාභියාගේ බැංකු ගිණුමට ඍජුවම ලබාදීමට හැකියාවක් නෑ. ඒ නිසා අපි සමාජ සවිබල ගැන්වීමේ අමාත්‍යාංශයට හා සමෘද්ධි දෙපාර්තමේන්තුවටත් උපදෙස් ලබාදීලා තියෙනවා. ලක්ෂ 20ක ප්‍රතිලාභීන් ප්‍රමාණය ලක්ෂ 24ක් දක්වා 2024 ජුලි මාසයේ සිට වැඩිකරන අවස්ථාවේ දී මේ සියලු ප්‍රතිලාභීන් සමාජ ආරක්ෂණ වැඩපිළිවෙලට දායකත්වය සපයන ක්‍රමවේදය සකස් කරන්න කියලා. මේ වනවිටම සමෘද්ධි සංවර්ධන නිලධාරීන් විසින් ඔවුන්ගේ කැමැත්ත ලබාගෙන තියෙනවා මේ දායකත්ව මුදල දැනට ප්‍රතිලාභය ලබන බැංකු ගිණුමෙන් සමෘද්ධි ව්‍යාපාරයට බැර කිරීම සඳහා..."
+Speaking in parliament today (06), the State Minister made this statement.
+
+Minister of State Shehan Semasinghe further stated that the Samurdhi business will continue to carry out the Samurdhi business.
+
+"The President and the Prime Minister advised the welfare benefit board to the welfare beneficiary in the existing system.. Therefore, we have advised the Ministry of Social Empowerment and the Department of Samurdhi. The number of beneficiaries will be adjusted to 24 million beneficiaries since July 20. Samurdhi Development Officers have obtained their consent to cure the Samurdhi business in the bank account ... "
 
 ◼️
 
 [Data](articles/c49e07f3.json)
 
+[Extended Data](ext_articles/c49e07f3.ext.json)
+
 ---
 
-### அலிசப்ரி ரஹீமின் பாராளுமன்ற சேவை ஒருமாத காலத்திற்கு இடைநிறுத்தம்
+### Alizabri Rahim's parliamentary service suspended for a period of one month
 
 *2024-03-06 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178061) · `ta`
 
-பாராளுமன்ற உறுப்பினர் அலிசப்ரி ரஹீமின் பாராளுமன்ற சேவை இன்று புதன்கிழமை (06) முதல் ஒருமாத காலத்துக்கு இடை நிறுத்தப்பட்டுள்ளதாக சபாநாயக்கர் தெரிவித்துள்ளார்.
+Alizabri Rahim's parliamentary service suspended for a month from Wednesday, as per the Speaker's announcement.
+
+🟩
+
+Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a month from Wednesday (06), the Speaker said.
 
 ◼️
 
 [Data](articles/74477903.json)
 
+[Extended Data](ext_articles/74477903.ext.json)
+
 ---
 
-### சிலி விமானக் கண்காட்சியிலிருந்து இஸ்ரேலிய நிறுவனங்கள் நீக்கம்
+### Israeli companies remove from Chilean Airport Exhibition
 
 *2024-03-06 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178063) · `ta`
 
-சிலியில் நடைபெறவுள்ள சர்வதேச விமானக் கண்காட்சியிலிருந்து இஸ்ரேலிய நிறுவனங்கள் நீக்கப்படும் என சிலி பாதுகாப்பு அமைச்சு அறிவித்துள்ளது.
+Chile's Defense Ministry has removed Israeli companies from the International Air Fair in Santiago, Chile, due to the government's decision, possibly influenced by President Kabriel Boric's criticism of Israel's actions in Gaza.
 
-தென் அமெரிக்காவின் மிகப் பெரிய விமானக் கண்காட்சி எதிர்வரும் ஏப்ரல் மாதம் சிலியின் சான்டியாகோ நகரில் நடைபெறவுள்ளது.
+🟩
 
-இந்நிலையில், 2024 கண்காட்சியில் இஸ்ரேலிய நிறுவனங்களை அனுமதிப்பதில்லை என சிலி அரசாங்கம் தீர்மானித்துள்ளது என சிலி பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+Chile Defense Ministry has announced that Israeli companies will be removed from the International Air Fair in Chile.
 
-இதற்கான காரணத்தை அவ்வமைச்சு அறிவிக்கவில்லை. ஆனால், இடதுசாரி ஜனாதிபதி கெப்ரியேல் போரிக், காஸா மீதான இஸ்ரேலின் தாக்குதல்களை கடுமையாக விமர்சித்து வருகிறார்.
+South America's largest aircraft exhibition will be held in Santiago, Chile in April.
 
-சிலியில் பெரும் எண்ணிக்கையான பலஸ்தீன மக்கள் வசிக்கின்றனர். காஸா மீதான இஸ்ரேலின் தாக்குதல்களுக்கு எதிர்ப்பு தெரிவித்து, இஸ்ரேலுக்கான தனது தூதுவரை கடந்த ஒக்டோபர் மாதம் சிலி திருப்பி அழைத்திருந்தது.
+The Chilean Defense Ministry has said that the Chilean government has decided not to allow Israeli companies at the 2024 exhibition.
+
+The government did not announce the reason for this. However, left -wing President Kabriel Boric has been severely criticizing Israel's attacks on Gaza.
+
+There are a large number of Palestinian people living in Chile. Chile returned to Israel's ambassador to Israel last October in protest of Israel's attacks on Gaza.
 
 ◼️
 
 [Data](articles/64ac8de5.json)
+
+[Extended Data](ext_articles/64ac8de5.ext.json)
 
 ---
 
@@ -118,21 +200,31 @@ Recently, former Pakistan team director Mohammad Hafeez too criticised the fitne
 
 [Data](articles/27911a50.json)
 
+[Extended Data](ext_articles/27911a50.ext.json)
+
 ---
 
-### கருங்கடலில் ஓங்கும் உக்ரைனின் கை
+### Hand
 
 *2024-03-06 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178062) · `ta`
 
-ரஷ்யா உக்ரைன் இடையேயான போரில் கருங்கடலில் ரோந்தில் ஈடுபட்ட ரஷ்ய போர்  கப்பலை உக்ரைன் தகர்த்துள்ளது. இது உக்ரைன் போர் நடவடிக்கையில் ஒரு மைல் கல்லாக பார்க்கப்படுகின்றது.
+Ukraine has successfully attacked and sunk Russia's warship, Sergei Kodov, in the Black Sea, marking a significant victory in the ongoing conflict. This action, attributed to Ukraine's Navy's Group 13, is seen as a major setback for Russia, highlighting Ukraine's growing naval capabilities.
 
-ரஷ்யா மற்றும் உக்ரைன் இடையேயான போரானது 2 ஆண்டுகளை கடந்து நீடித்து வருகிறது. இதில், உக்ரைனை நிலம், நீர் உள்ளிட்ட பகுதிகளில் சூழ்ந்து கொண்டு ரஷ்யா போர்  நடவடிக்கையில் ஈடுபட்டது. இந்த போரில்  உக்ரைன் மிக பெரிய இழப்பை ஆரம்பத்தில் சந்திக்க நேரிட்டது.  ஆனால் தற்போது உக்ரைனின் பதில் தாக்குதல்கள் ரஷ்யாவிற்கு பாதிப்பை ஏற்படுத்தி வருகின்றது. குறிப்பாக ரஷ்ய கப்பல்கள் உக்ரைனால் தாக்குதலுக்கு உள்ளாக்கப்படுகின்றது.
+🟩
 
-அண்மைக்காலமாக கருங்கடல் பகுதியில் ரஷ்யாவின் ரோந்து கப்பல் நிறுத்தப்பட்டு உக்ரைனுக்கு பெரும்  அச்சுறுத்தலாக இருந்து வந்தது.
+Ukraine has broken the Russian warship that patrolled the Black Sea in the war between Ukraine Ukraine. It is seen as a milestone in the Ukraine war.
+
+The battle between Russia and Ukraine lasts 2 years. In this, Russia engaged in war operations surrounding Ukraine land and water. In this war, Ukraine had the biggest loss in the beginning.But now Ukraine's response attacks are damaging Russia. Russian ships in particular are being attacked by Ukraine.
+
+Recently, Russia's patrol ship in the Black Sea has been a major threat to Ukraine.
+
+Group 13, a special sector of the Ukraine Navy, has severely attacked Russia's new patrol vessel. The ship, Sergei Kodov, worth 538 Kodiru Pa, has attacked the Ukraine Navy's unmanned aircraft Magura V5.. Of these, it is said that the ship has been demolished.The edge of the ship, the right and left side of the ship, is severely affected.
 
 ...
 
 [Data](articles/3ee2a08c.json)
+
+[Extended Data](ext_articles/3ee2a08c.ext.json)
 
 ---
 
@@ -1554,13 +1646,13 @@ The Leader, the Leader of the Leader, the leaders of the leaders and their suppo
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
+In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
+
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
-
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -2211,63 +2303,5 @@ The impact has increased by 2023, based on statistics taken since 2014. 85,572 S
 [Data](articles/9d1f2213.json)
 
 [Extended Data](ext_articles/9d1f2213.ext.json)
-
----
-
-### Militarisation: Something old; something new
-
-*2024-03-06 01:19:31* · [`dailyftlk`](https://www.ft.lk/columns/Militarisation-Something-old-something-new/4-759217) · `en`
-
-If dignity was what the retired general was after, higher pensions/benefits to lower rank retirees would have served better (especially the disabled/seriously injured)
-
-Had Sri Lanka used a part of her massive defence budget to provide an honourable and viable way out for her soldiers post-war, the twin problems of high desertions and criminalisation of deserters could have been minimised. 10 years on, no political leader is interested in acknowledging the issue let alone addressing it
-
-“Are we so morally sick, so deaf and dumb and blind, that we do not understand this?”
-
-In 2023, bankrupt Sri Lanka added $ 16.6 billion to its central government debt, an increase of 21%.
-
-Sri Lanka ranks a high 43 in Global Militarisation Index and a low 83 in Social Progress Index. When it comes to militarisation, Sri Lanka outranks most developed countries. We also outrank our neighbours, including India (77); only Pakistan, at 44, is slightly ahead of us.
-
-...
-
-[Data](articles/22326897.json)
-
-[Extended Data](ext_articles/22326897.ext.json)
-
----
-
-### Adani wind project in Mannar and ecological threats
-
-*2024-03-06 01:13:23* · [`dailyftlk`](https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216) · `en`
-
-The panellists viewed Mannar as a pristine location and failed to acknowledge the serious threats facing the island’s ecology on multiple fronts
-
-Wind farms located at close proximity to wetlands is not a new phenomenon. Thus, Mannar is not an exception. Experts covering various fields should work as a team and collaborate to formulate rules and guidelines to cover matters such as setback from sensitive zones, adoption of mitigatory measures, collection of data from operational wind farms for analysis, etc. The experiences drawn in Mannar will become useful as more project developments take place in wind resource rich regions of SL
-
-Having attended the 27 February WNPS hosted media conference that highlighted ecological threats faced in Mannar due to the proposed wind farm development by the Adani group, I am sharing my views below:
-
-...
-
-[Data](articles/8a2c57aa.json)
-
-[Extended Data](ext_articles/8a2c57aa.ext.json)
-
----
-
-### Multidimensional challenges unique to Sri Lankan households in each district
-
-*2024-03-06 00:47:57* · [`dailyftlk`](https://www.ft.lk/news/Multidimensional-challenges-unique-to-Sri-Lankan-households-in-each-district/56-759209) · `en`
-
-UNDP-led initiative launches district profiles of socio-economic context and Multidimensional Poverty and Vulnerability in Sri Lanka
-
-Stemming from an analysis of data based on the United Nations Development Program (UNDP)’s National Citizen Survey 2022-23 and Multidimensional Vulnerability Index 2023 (developed together with Oxford Poverty and Human Development Initiative), and the National Multidimensional Poverty Index 2019, the MVI District Profiles were launched on Monday.
-
-The publication was officially handed over to State Minister of Finance Shehan Semasinghe by UNDP Sri Lanka Resident Representative Azusa Kubota in the presence of Secretary to Prime Minister Anura Dissanayake and other high-level representatives.
-
-...
-
-[Data](articles/e3271ca6.json)
-
-[Extended Data](ext_articles/e3271ca6.ext.json)
 
 ---

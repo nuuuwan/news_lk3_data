@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 15:17:44**
+As of **2024-03-06 15:33:25**
 
 ## Newspaper Stats
 
-*Scraped **11,233** Articles*
+*Scraped **11,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 945
+adalk | 946
 tamilmirrorlk | 1,369
 adaderanalk | 1,371
-virakesarilk | 1,528
+virakesarilk | 1,530
 dailymirrorlk | 1,717
-adaderanasinhalalk | 1,756
+adaderanasinhalalk | 1,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,230 (100.0%) of 11,233 articles have been extended.
+11,233 (100.0%) of 11,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### බොරැල්ලේදී අන්තරේට ජල ප්‍රහාරයක්
+
+*2024-03-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194207) · `si`
+
+බොරැල්ල මංසන්ධියේදී අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බල මණ්ඩලය සංවිධානය කළ විරෝධතා පා ගමනකට පොලීසිය ජල ප්‍රහාරයක් එල්ලකර තිබේ.
+
+◼️
+
+[Data](articles/8806a086.json)
+
+---
+
+### திருக்கோணேஸ்வர ஆலய நிர்வாக சபை தொடர்பான வழக்கு : கட்டாணை மேலும் 14 நாட்களுக்கு நீடிப்பு
+
+*2024-03-06 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178078) · `ta`
+
+திருக்கோணேஸ்வர ஆலய நிர்வாக சபை தொடர்பான வழக்கு விசாரணை திருகோணமலை மாவட்ட நீதிமன்றில் இன்று புதன்கிழமை (06) எடுத்துக்கொள்ளப்பட்டபோது கட்டாணையை மேலும் 14 நாட்களுக்கு நீடித்து நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+திருகோணமலை திருக்கோணேஸ்வர ஆலய நிர்வாக சபைக்கு எதிராக தொடரப்பட்ட வழக்கு விசாரணை மாவட்ட நீதிபதி மாணிக்கவாசகர்  கணேசராஜா முன்னிலையில் இன்றைய தினம் எடுத்துக் கொள்ளப்பட்டது. குறித்த வழக்கில் வழக்காளி சார்பாக பதிவு செய்யப்பட்ட சட்டத்தரணி சண்முகம் தில்லைராசன், சிரேஷ்ட சட்டத்தரணி இராமலிங்கம் திருக்குமரநாதன் மற்றும் சட்டத்தரணி கரிகாலன் ஆகியோரும் ஆலய நிர்வாக சபை சார்பில் ஜனாதிபதி சட்டத்தரணி சத்தார் மற்றும் சட்டத்தரணி ஐஸ்வர்யா சிவகுமார் ஆகியோர் ஆஜராகி இருந்தனர்.
+
+இதன்போது இருதரப்பு சமர்ப்பணங்களையும் ஆராய்ந்த நீதிபதி இடைக்கால நிர்வாக சபையின் தலைவராக திருகோணமலை பட்டிணமும் சூழலும் பிரதேச செயலக செயலாளர் தனேஸ்வரன் அவர்களை நியமித்ததோடு நிர்வாக சபைக்கு எதிராக வழங்கிய கட்டாணையை மேலும் 14 நாட்களுக்கு நீடித்து உத்தரவிட்டுள்ளார்.
+
+...
+
+[Data](articles/d05311c3.json)
+
+---
 
 ### Sri Lanka Women’s cricket team to tour South Africa
 
@@ -43,6 +71,8 @@ During the tour, Sri Lanka will play three T20Is and three ODIs with the South A
 ◼️
 
 [Data](articles/3155a44a.json)
+
+[Extended Data](ext_articles/3155a44a.ext.json)
 
 ---
 
@@ -62,35 +92,63 @@ The book is scheduled to be launched tomorrow (March 07), Ada Derana learns.
 
 [Data](articles/8adfad47.json)
 
+[Extended Data](ext_articles/8adfad47.ext.json)
+
 ---
 
-### ලෝක වෙළෙඳපොළේ රන් මිල වාර්තාගත ලෙස ඉහළට
+### செங்கடலில் முக்கிய இணைய கேபிள்கள் சேதம் ; ஆசியா, ஐரோப்பா மற்றும் மத்திய கிழக்கில் இணைய சேவை பாதிப்பு
+
+*2024-03-06 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178057) · `ta`
+
+செங்கடலில் கடலுக்கடியில் உள்ள பல தகவல் தொடர்பு கேபிள்கள் சேதமடைந்துள்ளன. இதன் காரணமாக ஆசியா மற்றும் ஐரோப்பா இடையே இணைய சேவை 25 சதவீதம் பாதிக்கப்பட்டுள்ளதாக  தொலைத்தொடர்பு நிறுவனம் தெரிவித்துள்ளதுடன் அமெரிக்க அதிகாரியொருவரும் தெரிவித்துள்ளார்.
+
+ஆசியா, ஐரோப்பா மற்றும் மத்திய கிழக்கு நாடுகளில் உள்ள முக்கிய வழங்குனர்களின் கடலுக்கடியில் கேபிள்கள் சேதமடைந்ததைத் தொடர்ந்து இணையச் சேவை தடைபட்டுள்ளது.
+
+15 கேபிள்களில் நான்கு சமீபத்தில் துண்டிக்கப்பட்டதையடுத்து, போக்குவரத்தை மாற்றியமைக்கும் நடவடிக்கையை எடுத்துள்ளதாக ஹொங்கொங்கை தளமாகக் கொண்ட எச்.ஜி.சி  குளோபல் கம்யூனிகேஷன்ஸ் தொலை தொடர்பு நிறுவனம் தெரிவித்துள்ளது.
+
+ஆசியா-ஆப்பிரிக்கா- ஐரோப்பா 1, ஐரோப்பா இந்தியா கேட்வே, சீகாம் மற்றும் டிஜிஎன் வளைகுடா உள்ளிட்ட நான்கு முக்கிய தொலைத்தொடர்பு வலையமைப்புகளின் கேபிள்கள் சேதமடைந்துள்ளன.
+
+கேபிள்கள் வேண்டுமென்றே வெட்டப்பட்டதா அல்லது கப்பல்கள் நங்கூரம் இடப்பட்டதன் மூலம் துண்டிக்கப்பட்டதா என்பதை கண்டறிய விசாரணைகளை மேற்கொள்ளப்படுவதாக அமெரிக்க அதிகாரி தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ae89ade5.json)
+
+---
+
+### Gold prices up in world market
 
 *2024-03-06 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194206) · `si`
 
-ලෝක වෙළෙඳපොළේ රන් මිල මේ වනවිට වාර්තාගත අන්දමේ ඉහළ යාමක් පෙන්නුම් කරයි.
+Gold prices worldwide have seen a significant increase, reaching a record high of $2,141.59 for a 24-karat ounce. Prices have risen by nearly $100 in the last 30 days and by over $200 in the past six months, with a total increase of about $315. Global geopolitical events, especially in the Asian market, have contributed to this trend. The Central Bank's interest rates, particularly in the US, are expected to influence gold prices further, with analysts predicting a rise to $2,300 due to expected interest rate cuts.
 
-කැරට් 24 රන් අවුන්සයක් සඳහා ඉතිහාසයේ මෙතෙක් සටහන් වූ ඉහළම මිල විදියට අමෙරිකානු ඩොලර් 2,141යි ශත 59ක් ඊයේ (05) වාර්තා වුණි.
+🟩
 
-පසුගිය දින 30ක කාලය සැලකූ විට ඩොලර් 100කට ආසන්න ප්‍රමාණයකින් රන් මිල ඉහළ ගොස් තිබේ.
+Gold prices in the world market showed a record focus.
 
-මාස 06ක කාලය සැලකූ විට රන් අවුන්සයක මිල ඩොලර් 200කට වැඩි ප්‍රමාණයකින් ඉහළ ගොසිනි.
+US $ 2,141 and 59 cents was reported yesterday as the highest price for a 24-karatt-gold ounce.
 
-අවුරුද්දක කාලය සැලකූ විට රන් අවුන්සයක මිල ඩොලර් 315කින් පමණ ඉහළ ගොස් තිබේ.
+Gold prices have gone up in nearly $ 100 when the last 30 days.
 
-රන් මිල මේ විදිහට කැපී පෙනෙන ලෙස ඉහළ යාමට ගෝලීය භූ දේශපාලනික උණුසුම විශේෂයෙන් බලපා ඇත.
+When the period of six months, the price of a gold was rise in more than $ 200.
 
-ලොව පුරා මහ බැංකු රන් තොග රැස් කිරීමට පෙළඹෙන්නේ මේ විදියේ අස්ථාවරත්වයක් පවතින විටය.
+The price of a golden ounce has increased by about $ 315.
 
-ඒ වගේම ආසියානු වෙළෙඳපොළවල රන් භාණ්ඩ සඳහා ඉල්ලුම ඉහළ යාමත් රන් මිල ඉහළ යාමට බලපා තිබේ.
+The global geopolitical warming has been particularly influenced by gold prices.
 
-රන් මිල මේ ආකාරයෙන් තවදුරටත් ඉහළ මට්ටමක පවත්වා ගැනීමට වැදගත් වන සාධකයක් තමයි අමෙරිකානු මධ්‍යම සංචිතයේ නැත්නම් මහ බැංකුවේ පොලී අනුපාතිකය.
+The golden bulk around the world is temporary when there is instability this way.
 
-අමෙරිකානු පොලී අනුපාත මේ වසරේදී කපා හැරීමක් අපේක්ෂා කරන නිසා රන් අවුන්සයක මිල ඩොලර් 2,300 දක්වා ඉහළ යනු ඇති බවට විශ්ලේෂකයන් පුරෝකථනය කරයි.
+It also increased the demand for gold items in the Asian market and the gold price has been increased.
+
+The Central Bank's interest rate is an important factor in the American squad, or the Central Bank.
+
+Analysts forecast that the price of gold will rise to $ 2,300 because American interest rates are expected to be cut this year.
 
 ◼️
 
 [Data](articles/48909a83.json)
+
+[Extended Data](ext_articles/48909a83.ext.json)
 
 ---
 
@@ -793,6 +851,28 @@ It is said that the condition of this wind can change from time to time and expe
 [Data](articles/14f53b96.json)
 
 [Extended Data](ext_articles/14f53b96.ext.json)
+
+---
+
+### ප්‍රාථමික සිසුන්ගේ දිවා ආහාරයට රු. 25ක් වැඩි කරයි
+
+*2024-03-06 12:21:42* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-සිසුන්ගේ-දිවා-ආහාරයට-රු--25ක්-වැඩි-කරයි/11-408446) · `si`
+
+දිවයිනේ ප්‍රාථමික පාසල්වල 1_5 ශ්‍රේණිවල  සිසුන්ට දැනට ක්‍රියාත්මක කරන දිවා ආහාර වේල සඳහා රුපියල්25 මුදලක් වැඩි කිරීමට ඊයේ(5) දා කැබිනට් මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+
+මෙම දිවා ආහාර පෝෂණ වැඩසටහන ක්‍රියාත්මක කරන්න සැපයුම්කරුවන් සඳහා එක් සිසුවෙකුගේ දිනක ආහාර වෙල සඳහා දැනට ගෙවනු ලබන මුදල රුපියල් 85 වන අතර එම මුදල ඉදිරියේදී  රුපියල් 110 දක්වා වැඩි කෙරේ.
+
+දිවයිනේ අධ්‍යාපන කලාප කාර්යාල 100ට අයත් පාසල් 7902 ක සිසුන් මිලියන 1.08ක් ආවරණය පරිදි මෙම වැඩසටහන දැනට ක්‍රියාත්මක වෙයි.
+
+දිවා ආහාර වැඩසටහන පවත්වා ගෙන යන සැපයුම්කරුවන් වෙනුවෙන් වර්තමාන භාණ්ඩ  මිල ඉහළ යෑම අනුව රුපියල් 85 ක දීමනාව ප්‍රමාණවත් නොවන බව සැපයුම්කරුවන් පෙන්වා දුන්නද ඒ කෙරෙහි රජයේ අවධානය යොමු නොවී තිබුණි.
+
+මේ තත්ත්වය අනුව ඇතැම් කලාප කාර්යාල වල පෝෂණ වැඩසටහන පවත්වාගෙන ගිය සැපයුම්කරුවන් එයින් ඉවත් වී සිටි සිද්ධීන්ට වාර්තා විය .
+
+සැපයුම්කරුවන්ට දරුවන්ට ආහාර ලබා දිය යුතු ආකාරය පිළිබඳ වට්ටෝරුවක් ලබා දී ඇති අතර එය විදුහල්පතිවරු සෑම දිනකම අධීක්ෂණය කළ යුතුවෙයි.
+
+...
+
+[Data](articles/28d6b925.json)
 
 ---
 
@@ -2209,113 +2289,5 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 [Data](articles/071ba9f7.json)
 
 [Extended Data](ext_articles/071ba9f7.ext.json)
-
----
-
-### Sri Lanka central bank salary hike dispute with parliament deepens
-
-*2024-03-06 07:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-salary-hike-dispute-with-parliament-deepens-153291/) · `en`
-
-ECONOMYNEXT – A steep salary hike by the central bank outside parliament’s control of public finances has come under fire at a meeting of legislators at a meeting in parliament where officials of the monetary authority were questioned.
-
-Party leaders had slammed the officials for giving themselves salary hikes of up to 70 percent following a severe currency collapse saying they had no ‘ethical right’ to do so when the entire public was suffering.
-
-The meeting was attended by the leadership and union leaders of the agency, a statement from the parliament said.
-
-The original bill submitted to parliament by the agency had a provision to pay salaries as an independent decision by the clause was struck down by the Supreme Court, saying it needed a constitutional amendment,  party leaders have said.
-
-Though the central bank was allowed to operate independently, there was no provision to hike salaries as it wished, party leaders had said.
-
-...
-
-[Data](articles/059f50ee.json)
-
-[Extended Data](ext_articles/059f50ee.ext.json)
-
----
-
-### Exchange top of the Petroleum Corporation
-
-*2024-03-06 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194187) · `si`
-
-The Ceylon Petroleum Corporation's foreign exchange income has significantly increased, driven by growth in fuel supply income and burning oil exports. State Minister Ranjith Siyambalapitiya noted that fuel prices will align with global market conditions.
-
-🟩
-
-The foreign exchange income of the Ceylon Petroleum Corporation has increased significantly.
-
-A spokesperson has revealed that the proceeds of the proceeds of the corporation have increased compared to last year.
-
-The vessels have shown a significant growth in the income earned through the fuel supply process and it is a key to the increase in the currency of the corporation.
-
-In addition, the Ceylon Petroleum Corporation has earned a significant income through the export of the burning oil exports.
-
-Meanwhile, State Minister Ranjith Siyambalapitiya stated that the fuel prices will operate on the expenses conducted by the Ceylon Petroleum Corporation in accordance with the conditions of the world market.
-
-◼️
-
-[Data](articles/dc20b475.json)
-
-[Extended Data](ext_articles/dc20b475.ext.json)
-
----
-
-### Western Province school examinations from today
-
-*2024-03-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194186) · `si`
-
-Western Province Grade 10 and 11 exams resume today after suspension due to premature release on social media. New question papers prepared. Education Minister Susil Premajayantha announces measures from new education reform program.
-
-🟩
-
-The final investigation of Grade 10 and 11 of the schools in the Western Province which was temporarily suspended will be held from today (06).
-
-The Department of Education The Department of Education stated that examination will be held for subjects not so far.
-
-Examination in 10,11 were temporarily suspended as the examination was released to the social media before the examination was released.
-
-The CID has already begun an investigation into the incident.
-
-However, after preparation of new question paper, the examination will be held today, the Western Province Education Department further said.
-
-Meanwhile, Minister of Education Susil Premajayantha said that plans have been made to take measures to take measures to take action only from the new education reform program.
-
-◼️
-
-[Data](articles/b0a30185.json)
-
-[Extended Data](ext_articles/b0a30185.ext.json)
-
----
-
-### 3 killed in Pothuhera lorry
-
-*2024-03-06 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194185) · `si`
-
-In Pothuhera, a lorry accident killed 3 near Bandagolla Junction, injuring 4 in a three-wheeler. The lorry driver was arrested. A child died in an accident near Pubooni Vidyalaya, and a bicyclist was killed by a lorry in Puthichchana.
-
-🟩
-
-Three persons were killed in an accident near Bandagolla Junction in Pothuhera.
-
-The accident occurred that the accident had occurred when a three-wheeler had trained a three-wheeler from the area from Kurunegala to Colombo.
-
-Four persons in the three-wheeler have been seriously injured and rushed to the Kurunegala hospital while three were killed.
-
-The driver of the lorry has been arrested by the Pothuhera Police regarding the accident, Police Headquarters added.
-
-Meanwhile, a four-year-old child was killed in an accident near the Pubooni Vidyalaya in Puboadhale.
-
-A bicyclist collided with a lorry that was driven to Puthichchana.
-
-The child who was seriously injured in the accident died on admission to the Puttalam Hospital.
-
-Meanwhile, police spokesman's lawyer said that 341 persons were killed during the past two months alone.
-
-◼️
-
-[Data](articles/393c5b86.json)
-
-[Extended Data](ext_articles/393c5b86.ext.json)
 
 ---

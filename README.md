@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 03:51:05**
+As of **2024-03-07 04:02:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,356 (100.0%) of 11,358 articles have been extended.
+11,358 (100.0%) of 11,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Speaking in Parliament during the debate on amendments related to Social Securit
 
 [Data](articles/930306d2.json)
 
+[Extended Data](ext_articles/930306d2.ext.json)
+
 ---
 
 ### Govt.’s select fuel price reduction a ‘gimmick’: Ex-PUCSL Chief
@@ -71,6 +73,8 @@ Ratnayake said that back in 2022, he had indicated that fuel prices could be sla
 ...
 
 [Data](articles/8caf09d6.json)
+
+[Extended Data](ext_articles/8caf09d6.ext.json)
 
 ---
 

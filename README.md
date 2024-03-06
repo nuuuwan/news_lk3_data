@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 18:51:16**
+As of **2024-03-06 19:03:11**
 
 ## Newspaper Stats
 
-*Scraped **11,285** Articles*
+*Scraped **11,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,57 @@ colombotelegraphcom | 108
 bbccomsinhala | 132
 dbsjeyarajcom | 174
 newsfirstlk | 363
-economynextcom | 577
+economynextcom | 578
 dailyftlk | 593
 islandlk | 601
 adalk | 955
 tamilmirrorlk | 1,375
 adaderanalk | 1,379
-virakesarilk | 1,539
+virakesarilk | 1,540
 dailymirrorlk | 1,725
-adaderanasinhalalk | 1,764
+adaderanasinhalalk | 1,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,279 (99.9%) of 11,285 articles have been extended.
+11,285 (100.0%) of 11,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### யாழ்ப்பாண இந்திய துணை தூதரகத்தை முடக்கி தொடர் போராட்டங்களை முன்னெடுப்போம் - றேகன் எச்சரிக்கை!
+
+*2024-03-06 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178107) · `ta`
+
+எதிர்காலத்தில் யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்திற்கு முன்னால் தொடர்ச்சியான போராட்டங்களை முன்னெடுத்து தூதரகத்தின் செயல்பாடுகளை முடக்க வேண்டிய சூழ்நிலை ஏற்படும் என வழி வடக்கு மீனவ கூட்டுறவு சங்கங்களின் சமாசத்தின் தலைவர் பாக்கியநாதன் றேகன் அவர்கள் தெரிவித்துள்ளார்.
+
+இன்றைய தினம் யாழ்ப்பாண மாவட்ட மீனவ அமைப்புகளின் சம்மேளன அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த சில தினங்களுக்கு முன்னர் யாழ்ப்பாணம் இந்தியத் துணை தூதரகத்திற்கு முன்னால் இழுவை மடி தொழிலுக்கு எதிரான போராட்டம் ஒன்றினை மேற்கொண்டிருந்தோம். அதற்கான எந்த ஒரு தீர்வுகளும் இந்திய துணை தூதரகத்தால் எங்களுக்குப் பெற்றுத் தரப்படவில்லை.
+
+இந்தியத் துணைத் தூதரகத்திடம் நாங்கள் மகஜரை கொடுத்துள்ளோம். அவர்கள் இன்று வரை எங்களுக்கு பதில் தரவில்லை என்றால், இந்தியத் துணைத் தூதரகமானது யாழ்ப்பாணத்தில் டிசா கொடுப்பதற்கு மட்டும் தான் இருக்கிறது. எங்களுக்கான பதில் இதுவரை கிடைக்கவில்லை.
+
+...
+
+[Data](articles/344d648d.json)
+
+---
+
+### මෝදර වීදියේ වෙඩිතැබීමේ සිද්ධියට සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-03-06 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194216) · `si`
+
+මෝදර වීදිය ප්‍රදේශයේදී පුද්ගලයෙකුට වෙඩිතබා මනුෂ්‍ය ඝාතනයකට තැත් කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ අදාළ අපරාධය සඳහා ආධාර අනුබල දුන් සැකකරුවෙකු එලෙස අත්අඩංගුවට ගත් බවය.
+
+◼️
+
+[Data](articles/d9881d8b.json)
+
+---
 
 ### Millennium City case against ASP Udugampola fixed for further defence evidence
 
@@ -48,39 +80,53 @@ The prosecution further alleged that information had been gathered in Colombo, A
 
 [Data](articles/41d5d612.json)
 
+[Extended Data](ext_articles/41d5d612.ext.json)
+
 ---
 
-### அமெரிக்க ஜனாதிபதித் தேர்தல் : நிக்கி ஹேலி விலகுகிறார்
+### US presidential election: Nikki Haley quit
 
 *2024-03-06 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178103) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலுக்கான குடியரசுக் கட்சி வேட்பாளருக்கான போட்டியிலிருந்து நிக்கி ஹேலி விலகவுள்ளார் என உள்ளூர் ஊடகங்கள் தெரிவித்துள்ளன.
+Nikki Haley, former governor and US ambassador, quits as Republican candidate for US presidential election, leaving Donald Trump as the sole contender.
 
-இதனால், முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் மாத்திரமே குடியரசுக் கட்சியின் எஞ்சியுள்ள ஒரேயொரு போட்டியாளர் ஆவார்.
+🟩
 
-தென் கரோலினா மாநில முன்னாள் ஆளுநரும் ஐநாவுக்கான அமெரிக்காவின் முன்னாள் தூதுவருமான நிக்கி ஹேலி, தனது தீர்மானத்தை தென் கரோலினா மாநிலத்தின் தலைநகர் சார்ள்ஸ்டனில் உள்ளூர் நேரப்படி இன்று புதன் காலை 10.00 மணிக்கு (இலங்கை, இந்திய நேரப்படி இரவு 8.30) அறிவிக்கவுள்ளார்.
+Local media reports that Nikki Haley will quit the Republican candidate for the US presidential election.
 
-இதுவரை நடைபெற்ற குடியரசுக் கட்சியின் உட்கட்சித் தேர்தல்களில் வொஷிங்டன் டி.சி மற்றும் வேர்மண்ட் மாநிலத்தில் மாத்திரமே நிக்கி ஹேலி வெற்றியீட்டிய நிலையில் அவர் இப்போட்டியிலிருந்து விலகுகிறார்.
+Thus, former President Donald Trump is the only contestant in the Republican Party.
+
+Nikki Haley, a former governor of South Carolina and former US ambassador to the United Nations, will announce his decision at 10.00 am in Sri Lanka at 10.00 am local time in Charlestton, the capital of the state of South Carolina.
+
+He is quitting the contest as Nikki Haley won only the state of Washington DC and Warmond in the Republican internal elections so far.
 
 ◼️
 
 [Data](articles/0160e5fb.json)
 
+[Extended Data](ext_articles/0160e5fb.ext.json)
+
 ---
 
-### பெறுமதி சேர் வரி (திருத்தச்) சட்டமூலம் 24 மேலதிக வாக்குகளால் நிறைவேற்றம்
+### The Value Added Tax (Amendment) Bill is fulfilled by 24 more votes
 
 *2024-03-06 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178102) · `ta`
 
-பெறுமதி சேர் வரி (திருத்தச்) சட்டமூலம் இரண்டாம் மதிப்பீடு மீதான வாக்கெடுப்பு 24 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டது. ஆதரவாக 59 வாக்குகளும் எதிராக 35 வாக்குகளும் அளிக்கப்பட்டன.
+The Value Added Tax (Amendment) Bill passed with 24 more votes, totaling 59 in favor and 35 against, after a second evaluation in Parliament.
 
-பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற  பெறுமதி சேர் வரி, சமூக அறவீட்டு வரி உள்ளிட்ட வரி சட்டமூலம் மீதான இரண்டாம் மதிப்பீடு மீதான விவாதம் இடம்பெற்றது.இதன்போது பெறுமதி சேர் வரி சட்டமூலத்துக்கு சபை அனுமதி வழங்குகிறதா? என சபாநாயகர் வினவிய போது ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எரான் விக்கிரமரத்ன வாக்கெடுப்பை கோரினார்.
+🟩
 
-அதன் பிரகாரம் வாக்களிப்பு கோரப்பட்ட போது பெறுமதிசேர் வரி (திருத்தச்) சட்டமூலத்துக்கு ஆதரவாக 59 வாக்குகளும்,எதிராக 35 வாக்குகளும் அளிக்கப்பட்டன. 24 மேலதிக வாக்குகளால் சட்டமூலம் நிறைவேற்றப்பட்டது .
+Vote on the Second Evaluation of the Value Added Tax (Amendment) Bill was passed by 24 additional votes. 59 votes were cast in favor and 35 votes.
+
+The second assessment of the Tax Bill on Wednesday (6) in Parliament (6), including the Social Charity Tax, was debated.United People's Power MP Eran Wickremaratne sought a referendum when the Speaker asked.
+
+Accordingly, when the vote was sought, 59 votes were cast in favor of the Value Tax (Amendment) Bill and 35 votes against. The bill was passed by 24 additional votes.
 
 ◼️
 
 [Data](articles/a051fb12.json)
+
+[Extended Data](ext_articles/a051fb12.ext.json)
 
 ---
 
@@ -124,39 +170,53 @@ Maldivian Minister Ghassan also reiterated the importance of defence cooperation
 
 ---
 
-### வடக்கு, கிழக்கு, மலையக மக்களுக்கு எவ்வித பதிலையும் வழங்காது அரசாங்கம் மௌனம் காக்கின்றது - தேசிய மக்கள் சக்தி
+### The government is silent on the North, East and the hill country.
 
 *2024-03-06 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178089) · `ta`
 
-வடக்கு, கிழக்கு, மலையக மக்களுக்கு எவ்வித பதிலையும் வழங்காது அரசாங்கம் கள்ள மௌனம் சாதித்துக்கொண்டிருக்கிறது என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவித்தார்.
+The government remains silent on issues affecting the North, East, and hill country, according to National Executive Council Member Saroja Savitri Bolraj. Economic crisis post-2022 has led to unemployment and food shortages, particularly impacting two-thirds of Sri Lanka's population. Land issues, missing persons, and the plight of women, fishermen, and plantation workers are unresolved. The government's lack of action is criticized, with calls for increased salaries, improved education, and health facilities in the affected areas.
 
-மக்கள் விடுதலை முன்னணி தலைமையகத்தில் இடம்பெற்ற தேசிய மக்கள் சக்தியின் பெண்கள் அமைப்பின் ஊடகச் சந்திப்பின் போதே அதன் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் சரோஜா சாவித்திரி போல்ராஜ் மேற்கண்டவாறு கூறினார்.
+🟩
 
-எதிர்வரும் 8 ஆம் திகதி 113 ஆவது சர்வதேச மகளிர் தினத்தை தேசிய மக்கள் சக்தியின் பெண்கள் அமைப்பாகிய நாங்கள் கொண்டாடவிருக்கிறோம்.
+The government is silent for the people of the North, East and the hill country, said National Executive Council Member Saroja Savitri Bolraj, a member of the National People's Power.
 
-இத்தருணத்தில் பொருளாதார பின்னடைவை சந்தித்துள்ள நாட்டு மக்கள் அத்தியாவசிய உணவுப் பொருட்களை கொள்வனவு செய்யமுடியாது, மருத்துச் செலவைத் தாங்கிக்கொள்ள முடியாது நெருக்கடியான வாழ்க்கைக்கு முகம்கொடுத்து வருகின்றனர்.
+During a media briefing of the National People's Power Women's Organization held at the Janatha Vimukthi Peramuna Headquarters, its National Executive Council member Saroja Savitri Bolraj said the above.
 
-குறிப்பாக 70 இலட்சம் பேர் அதாவது, இலங்கையின் சனத்தொகையில் மூன்றில் இரண்டு பங்கினர் அடுத்தவேளை உணவை பெற்றுக்கொள்வதற்கு போராடிக்கொண்டிருக்கிறார்கள்.
+We will celebrate the 113rd International Women's Day on the 8th of this month, as the Women's Organization of the National People's Power.
+
+At this point, the people who have suffered economic setbacks are unable to buy essential foods, and are facing a crisis life.
+
+In particular, over 70 million, ie, two -thirds of Sri Lanka's population, are struggling to get food next.
+
+The main reason for this is the massive economic crisis in Sri Lanka after 2022. Due to this economic crisis, more than 15 lakh people have been unemployed in the last two years.
 
 ...
 
 [Data](articles/0c694a42.json)
 
+[Extended Data](ext_articles/0c694a42.ext.json)
+
 ---
 
-### ரமழானை முன்னிட்டு 50 தொன் பேரீச்சம் பழங்கங்களை இலங்கைக்கு வழங்கிய சவுதி அரேபியா
+### Saudi Arabia, who presented 50 tonnes of pearls to Sri Lanka in front of Ramadan
 
 *2024-03-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178092) · `ta`
 
-சவுதி அரேபியாவின் மன்னர் சல்மான் மனிதாபிமான உதவிகள் மற்றும் நிவாரணங்களுக்கான மையம், இரு புனிதஸ்த்தலங்களின் பாதுகாவலர் மன்னர் சல்மான் பின் அப்துல் அசீஸ் அல் ஸுஊத்  நன்கொடையான 50 தொன் பேரீச்சம்பழங்களை, இலங்கை ஜனநாயக சோசலிச குடியரசிற்கு கையளித்தது.
+Saudi Arabia donated 50 tonnes of pearls to Sri Lanka, highlighting strong ties and humanitarian efforts, especially during Ramadan.
 
-சவூதி அரேபியாவின் இலங்கைக்கான தூதுவர்  கலித் ஹமூத் அல்-கஹ்தானி , புத்த சாசனம் மற்றும் மத கலாசார அமைச்சின் செயலாளர் சோமரத்ன விதானபதிரான மற்றும் முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்களப் பணிப்பாளர் திரு ஸைனுல் ஆபிதீன் முகம்மது பைசல் ஆகியோர்களிடம் இந்த பேரிச்சம்பழங்களை உத்தியோகபூர்வமாக கையளித்தார்.
+🟩
 
-இது தொடர்பாக கொழும்பிலுள்ள முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்களத்தில் இன்று புதன்கிழமை (06) விஷேட நிகழ்வொன்று இடம் பெற்றது. இந்த விழாவில் மன்னர் சல்மான் மனிதாபிமான உதவி மற்றும் நிவாரணகளுக்கான மையத்தின் அதிகாரிகள், சவுதி அரேபிய இராச்சியத்திற்காக புதிதாக நியமனம் பெற்ற இலங்கைத் தூதுவர் கெளரவ அமீர் அஜவாத் அவர்கள் உட்பட, இலங்கை வெளிவிவகார அமைச்சின் அதிகாரிகள், அரச திணைக்களங்கள் மற்றும் தூதரக அதிகாரிகள் எனப் பலரும் கலந்துகொண்டனர்.
+Saudi Arabia's King Salman handed over 50 tonnes of beings donated to the Democratic Socialist Republic of Sri Lanka, Salman bin Abdul Aziz al -Zouud, the guardian of the two sacred places.
+
+The Ambassador to Sri Lanka of Saudi Arabia, Kalit Hamood al-Qahdani, officially handed over these pearls to the Secretary of the Ministry of Buddhist Charter and Religious and Cultural and Mr. Zainul Abideen Mohammed Faisal, Director of the Department of Muslim Religious and Cultural Affairs.
+
+A special event was held at the Department of Muslim Religious and Cultural Affairs in Colombo on Wednesday (06). The function was attended by officials of the Center for Humanitarian Aid and Relief, including the newly appointed Sri Lankan Ambassador for the Saudi Arabian Kingdom, Hon. Amir Ajawad, officials of the Sri Lankan Foreign Ministry, State Department and Embassy.
 
 ...
 
 [Data](articles/9cdb440b.json)
+
+[Extended Data](ext_articles/9cdb440b.ext.json)
 
 ---
 
@@ -259,6 +319,8 @@ National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr
 ...
 
 [Data](articles/5dd74ba1.json)
+
+[Extended Data](ext_articles/5dd74ba1.ext.json)
 
 ---
 
@@ -2285,53 +2347,5 @@ Meanwhile, President Baidan won 15 state elections held on Tuesday for the nomin
 [Data](articles/f313d120.json)
 
 [Extended Data](ext_articles/f313d120.ext.json)
-
----
-
-### 12 “Silakodi beaches” in Sri Lanka
-
-*2024-03-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178043) · `ta`
-
-Sri Lanka's Maritime Environmental Protection Authority has identified 12 major beaches for the "Neelakodi Beach" project, aiming to earn the Blue Flag Beach status. Steps are in progress to achieve this for 4 coasts.
-
-🟩
-
-The Maritime Environmental Protection Authority has said that 12 major beaches have been identified in Sri Lanka to implement the "Neelakodi Beach" idea.
-
-The Blue Flag Beach is an international environmental recognition provided to praise the country's efforts to protect and maintain coastal and maritime environmental organizations.
-
-Accordingly, the Commission said that the necessary steps are already underway to bring 4 coasts in the country.
-
-The information was made when the Department of Environmental, Natural Resources and Sustainable Development Supervisory Committee discussed the "blue flag beach".
-
-On the 20th of last month, a departmental supervisory committee was chaired by MP Ajith Mannapperuma. During this time a discussion was held on the concept of "blue flag beach" aimed at maintaining the country's shores to attract tourists.
-
-◼️
-
-[Data](articles/426c920b.json)
-
-[Extended Data](ext_articles/426c920b.ext.json)
-
----
-
-### $ 100 million losses per Meta
-
-*2024-03-06 11:32:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெட்டா-வுக்கு-100-மில்லியன்-டொலர்-நட்டம்/175-334270) · `ta`
-
-Facebook, Messenger, and Instagram were suddenly disabled globally, causing $100 million losses for Mark Zuckerberg. This is the first time these platforms have been disabled simultaneously. META stocks fell 1.5% due to the outage.
-
-🟩
-
-Foreign media reports that Facebook, Messenger and Instagram are suddenly disabled, and Mark Zuckerberg, a social networking -owned Mark Zuckerberg, has lost $ 100 million.
-
-Facebook, Messenger and Instagram social media around the world were suddenly disabled on Tuesday night (05) night. This is the first time that social media such as Facebook, Messenger and Instagram have been disabled simultaneously.
-
-META stocks fell 1.5 percent following the fall of social media sites such as Facebook, Messenger and Instagram. A few hours later, the Technology Division of 'Meta' said that Facebook, Messenger and Instagram were the cause of the failure of the technology disorder.
-
-◼️
-
-[Data](articles/27b47e0c.json)
-
-[Extended Data](ext_articles/27b47e0c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 20:33:53**
+As of **2024-03-06 20:51:43**
 
 ## Newspaper Stats
 
-*Scraped **11,302** Articles*
+*Scraped **11,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 957
 tamilmirrorlk | 1,376
 adaderanalk | 1,381
 virakesarilk | 1,544
-dailymirrorlk | 1,726
+dailymirrorlk | 1,727
 adaderanasinhalalk | 1,768
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,300 (100.0%) of 11,302 articles have been extended.
+11,302 (100.0%) of 11,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### முருகன், ரொபட் பயஸ் உள்ளிட்டவர்களையாவது உயிருடன் விடுதலை செய்யுங்கள்- இந்திய மற்றும் இலங்கை அரசிடம் சிறிதரன் எம்.பி. வேண்டுகோல்
+### Murugan, Robert Bias, etc.. Call
 
 *2024-03-06 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178116) · `ta`
 
-இந்தியச் சிறையில் இருக்கின்ற முருகன், ரொபட் பயஸ் உள்ளிட்டவர்களையாவது உயிருடன் விடுதலை செய்து   அவர்களுடைய  குடும்பத்தோடு சேர நடவடிக்கை எடுக்குமாறு தமிழ்நாட்டினுடைய முதலமைச்சர்,  இந்தியப்பிரதமர் மற்றும் இலங்கை அரசிடம் கேட்கிறோம் என தமிழ் தேசியக்கூட்டமைப்பு உறுப்பினர் சிவஞானம் சிறிதரன் தெரிவித்தார்.
+Sivagnanam Sridharan, a Tamil National Alliance member, called for the release of Murugan, Robert Paes, and their families from Indian jails, highlighting the plight of young men like Santhan, who died in prison. He criticized the handling of Santhan's case and urged officials to address these issues.
 
-பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல்வாங்கல்கள் சட்டமூலம், நம்பிக்கைப்பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச்) சட்டமூலம், ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்குவிடுதல் (திருத்தச்) சட்டமூலம் மீதான மூன்றாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-இன்றைய நாள் 16 வருடங்களுக்கு முன்னர் எங்களுடைய மண்ணிலே மாமனிதர் கிட்டினன் சிவனேசன் இலங்கையினுடைய படையினரால் ஆழ ஊடுருவும் படை என்ற பெயரில் மிக மறைமுகமாக கொலை செய்யப்பட்டிருந்தார் இந்த பாராளுமன்றத்தினுடைய  உறுப்பினராக இருந்த சிவனேசன் அநியாயமாக கொல்லப்பட்டார்.
+Tamil National Alliance member Sivagnanam Sridharan said that the Chief Minister of Tamil Nadu, the Indian Prime Minister and the Government of Sri Lanka, said that Murugan, who is in the Indian jail, including Robert Paes, and their family to join their family.
+
+He said this while addressing the third day debate on the Conflict Bill, Trusting Receivables (Amendment) Bill, Amendment (Amendment) Bill, Financial Leasing (Amendment) Bill.
+
+Sivanesan, a member of this parliament, was unjustly killed in the name of a deep infiltration force by Sri Lankan soldiers on our soil 16 years ago.
+
+At the same time, I am making our tribute to Shantan, who died a few days ago, who was imprisoned in India and later released.
+
+The biggest crisis and a grievance of a young man at the age of 20, who was trying to see his mother, to see his relatives, is the biggest crisis and a grievance in this soil.
 
 ...
 
 [Data](articles/01cf2378.json)
+
+[Extended Data](ext_articles/01cf2378.ext.json)
+
+---
+
+### UK’s misinformation on Sri Lanka raises concerns
+
+*2024-03-06 20:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-misinformation-on-Sri-Lanka-raises-concerns/108-278366) · `en`
+
+British Conservative peer Lord Michael Naseby on Tuesday called on the British government to assist Sri Lanka by way of updating Britain's Travel Advisory on Sri Lanka to provide more accurate information, in order to better assist the country.
+
+“It is the UK's Foreign, Commonwealth and Development Office (FCDO) comments on that country (Sri Lanka) that currently cause me concern because they refer to the fact that protests are going on when they are not. They say that there is a fuel shortage, but there is not and has not been for 18 months. They also say that there are other difficulties of a terrorist nature, which we have not had for five years,” Lord Naseby told the House of Lords that held a seven-hour debate on Britain's Foreign Affairs.
+
+Claiming that tourism sector is rapidly recovering in Sri Lanka, Lord Naseby believed that more British tourists would visit the country if the FCDO provided more accurate Travel Advisory information on Sri Lanka.
+
+...
+
+[Data](articles/1f519f33.json)
 
 ---
 
@@ -70,17 +96,23 @@ Is the Council permission for the Value Added Tax Bill?United People's Power MP 
 
 ---
 
-### கற்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு விளக்கமறியல்!
+### Explain to the Officer in charge of the Kalpitiya Police Station!
 
 *2024-03-06 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178115) · `ta`
 
-கற்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் நிஷாந்த குமாரவை எதிர்வரும் 13 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு புத்தளம் மேலதிக மாவட்ட நீதிபதியும் நீதிவானுமான அயோனா விமலரத்ன புதன்கிழமை (06) உத்தரவிட்டுள்ளார்.
+Justice Ayona Wimalaratne ordered Nishantha Kumara to be detained at Kalpitiya Police Station, following interrogation by Puttalam court over a police officer's rape.
 
-கற்பிட்டி பொலிஸ் நிலையத்தில் கடமையாற்றிய பொலிஸ் உத்தியோகத்தர் பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் புத்தளம் நீதிமன்றில் முன்னிலையாகி நிலையிலேயே அவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+🟩
+
+Puttalam Additional District Judge and Justice Ayona Wimalaratne on Wednesday (06) has ordered the police inspector Nishantha Kumara to be kept in connection with the Kalpitiya Police Station.
+
+He has been interrogated by the Puttalam court in connection with the rape of a police officer who was on duty at the Kalpitiya police station.
 
 ◼️
 
 [Data](articles/7b148866.json)
+
+[Extended Data](ext_articles/7b148866.ext.json)
 
 ---
 
@@ -2341,31 +2373,5 @@ The next five days from Monday to Friday should be given to the above diet, fish
 [Data](articles/28d6b925.json)
 
 [Extended Data](ext_articles/28d6b925.ext.json)
-
----
-
-### Arresting the blue woman
-
-*2024-03-06 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நீல-பெண்-கைது/73-334275) · `ta`
-
-A famous female drug dealer was arrested by a Special Task Force on Monday night. She was involved in a blockade of a drug dealer's house. The police recovered 4 grams of a new blue-colored drug, 340 milligrams of another blue drug, and 8,750 rupees. The woman, 36, has been handed over to her husband, who was also arrested and interrogated.
-
-🟩
-
-A famous female dealer was arrested by Special Task Force who was blocking the house of a drug dealer on Monday night (04).
-
-The Valaichenai police said that 4 grams of 470 milligram jazz, including a blue -colored new jazz drug, has been handed over.
-
-In addition to the information received by the Special Task Force of the Valaichenai Kadadasi Camp. G. A group led by Lakmal blockaded the house in the Valaichenai Birth Sechen area.
-
-A woman who was involved in the drug trade was arrested and 340 milligrams of new blue -colored jazz drug and white color, including 4 grams of 470 milligrams, and recovered 8 thousand 750 rupees.
-
-The 36 -year -old woman has been handed over to her and that her husband has already been arrested and interrogated by her husband.
-
-◼️
-
-[Data](articles/5fbaa2a3.json)
-
-[Extended Data](ext_articles/5fbaa2a3.ext.json)
 
 ---

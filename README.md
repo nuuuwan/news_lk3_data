@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 23:52:19**
+As of **2024-03-07 00:02:45**
 
 ## Newspaper Stats
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,331 (100.0%) of 11,332 articles have been extended.
+11,332 (100.0%) of 11,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Bangladesh wins 08 wickets
+
+*2024-03-06 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
+
+Bangladesh won by 8 wickets in the 2nd T20 match against Sri Lanka, who scored 165/5 in 20 overs. Bangladesh achieved the win in 18.1 overs. The series is evenly balanced.
+
+🟩
+
+Bangladesh won by 8 wickets in the second Twenty20 match against Sri Lanka.
+
+The Sri Lankan team first won the bowling of Bangladesh in the tournament in Chillhead, Bangladesh.
+
+Sri Lanka scored 165 runs for the loss of 05 wickets in 20 overs
+
+The Bangladesh team then won the target of winning only two wickets in 18.1 overs.
+
+Sri Lanka and Bangladesh are in a balanced series in each of the three matches.
+
+◼️
+
+[Data](articles/d92a86bd.json)
+
+[Extended Data](ext_articles/d92a86bd.ext.json)
+
+---
 
 ### Udappuwa Crimes OIC arrested over assault incident
 
@@ -49,6 +75,8 @@ Police stated that blood samples were also obtained from the policeman in questi
 ◼️
 
 [Data](articles/c7e80ae7.json)
+
+[Extended Data](ext_articles/c7e80ae7.ext.json)
 
 ---
 
@@ -273,32 +301,6 @@ It has been increased to Rs.
 [Data](articles/637dcdee.json)
 
 [Extended Data](ext_articles/637dcdee.ext.json)
-
----
-
-### Bangladesh wins 08 wickets
-
-*2024-03-06 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
-
-Bangladesh won by 8 wickets in the 2nd T20 match against Sri Lanka, who scored 165/5 in 20 overs. Bangladesh achieved the win in 18.1 overs. The series is evenly balanced.
-
-🟩
-
-Bangladesh won by 8 wickets in the second Twenty20 match against Sri Lanka.
-
-The Sri Lankan team first won the bowling of Bangladesh in the tournament in Chillhead, Bangladesh.
-
-Sri Lanka scored 165 runs for the loss of 05 wickets in 20 overs
-
-The Bangladesh team then won the target of winning only two wickets in 18.1 overs.
-
-Sri Lanka and Bangladesh are in a balanced series in each of the three matches.
-
-◼️
-
-[Data](articles/d92a86bd.json)
-
-[Extended Data](ext_articles/d92a86bd.ext.json)
 
 ---
 

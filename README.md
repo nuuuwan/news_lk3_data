@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 19:18:03**
+As of **2024-03-06 19:33:06**
 
 ## Newspaper Stats
 
-*Scraped **11,289** Articles*
+*Scraped **11,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ dailyftlk | 593
 islandlk | 601
 adalk | 956
 tamilmirrorlk | 1,375
-adaderanalk | 1,379
+adaderanalk | 1,380
 virakesarilk | 1,540
-dailymirrorlk | 1,725
+dailymirrorlk | 1,726
 adaderanasinhalalk | 1,765
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,288 (100.0%) of 11,289 articles have been extended.
+11,289 (100.0%) of 11,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Nikki Haley to end White House bid, clearing path for a Trump-Biden rematch
+
+*2024-03-06 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97781/nikki-haley-to-end-white-house-bid-clearing-path-for-a-trump-biden-rematch) · `en`
+
+Former U.S. Ambassador to the United Nations Nikki Haley will suspend her presidential campaign on Wednesday, according to a source familiar with her plans, ensuring that Donald Trump will win the Republican nomination and once again face Democratic President Joe Biden in November’s election.
+
+Haley will give a speech at 10 a.m. local time (1500 GMT) to address her future in the race, the source said, but she will not make an endorsement at that time. She will urge Trump to try to win the backing of her supporters, which include a significant chunk of moderate Republicans and independent voters, the source added.
+
+Haley’s decision to suspend her campaign comes a day after Super Tuesday, opens new tab, when Trump beat her soundly in 14 of the 15 Republican nominating contests.
+
+Haley lasted longer than any other Republican challenger to Trump but never posed a serious threat to the former president, whose iron grip on the party’s base remains firm despite his multiple criminal indictments.
+
+...
+
+[Data](articles/ce3eca42.json)
+
+---
 
 ### We will carry out a series of protests by disabled the Jaffna Indian Embassy - Regan warning!
 
@@ -93,6 +111,18 @@ The prosecution further alleged that information had been gathered in Colombo, A
 [Data](articles/41d5d612.json)
 
 [Extended Data](ext_articles/41d5d612.ext.json)
+
+---
+
+### University Students' Union protest
+
+*2024-03-06 18:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/University-Students-Union-protest/110-278363) · `en`
+
+The Inter University Students' Union held a protest marching from Borella where police fired water cannons at them. The students then entered the premises of the National Hospital Colombo and continued their picketing. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/b9c7b71d.json)
 
 ---
 
@@ -764,21 +794,27 @@ The Nanuoya police and the owner have asked the public to immediately report to 
 
 ---
 
-### රොනීගේ ‌ගෙදරට හොරු පනී
+### Thinking at Ronnie's house
 
 *2024-03-06 16:01:42* · [`adalk`](https://www.ada.lk/breaking_news/රොනීගේ-‌ගෙදරට-හොරු-පනී/11-408454) · `si`
 
-හිටපු මුදල් හා ක්‍රමසම්පාදන අමාත්‍ය, අභාවප්‍රාප්ත රොනී ද මැල් මහතාට අයත් දෙවිනුවර, 103 කණුව ඉදිරිපිට පිහිටා තිබූ නිවසට ඊයේ (05) රාත්‍රියේදී ඇතුළු වූ සොරුන් කණ්ඩායමක් විසින් එහි වටිනා භාණ්ඩ හා දේපළ රැසක් සොරාගෙන ගොස් තිබෙනවා.
+A former Finance and Planning Minister, near Devinuwara and 103th Post, stole valuable items from a house yesterday. The teacher of Devinuwara Hospital filed a complaint. Police are investigating. Ronan Death Deepal's funeral has been held.
 
-මේ සම්බන්ධයෙන් දෙවිනුවර නිවසේ මුරකරු විසින් ගන්දර පොලිස් ස්ථානයට පැමිණිල්ලක් සිදුකර ඇති අතර, රොනී ද මැල් මහතාගේ පෞද්ගලික ලේකම් කේ.එච්.විල්ෆ්‍රඩ් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා වෙතද පැමිණිලි කර තිබෙනවා.
+🟩
 
-ඒ අනුව ගන්දර පොලීසියට අමතරව, පොලිස්පති විශේෂ නියෝගය මත තවත් පොලිස් කණ්ඩායමක් පරීක්ෂණ සිදුකිරීමට නියමිතය.
+The former Finance and Planning Minister, who was in front of the Devinuwara, which was in front of the Devinuwara and 103th Post, has stolen its valuable products and property yesterday (05).
 
-අභාවප්‍රාප්ත රොනී ද මැල් මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු සිදුකර මේ වන විට ගතව ඇත්තේ සතියක කාලයකි.
+The teacher of Devinuwara Hospital has lodged a complaint with the Ven.
+
+Accordingly, in addition to Gandara police, another police team will be conducting further investigations.
+
+The funeral of the late Ronan Death Deepal's body was taken by now.
 
 ◼️
 
 [Data](articles/09553d12.json)
+
+[Extended Data](ext_articles/09553d12.ext.json)
 
 ---
 
@@ -2303,53 +2339,5 @@ President Ranil Wickremesinghe, speaking to Parliament on Wednesday (06), said t
 [Data](articles/d1449542.json)
 
 [Extended Data](ext_articles/d1449542.ext.json)
-
----
-
-### Crucial Red Sea data cables cut, telecoms firm says
-
-*2024-03-06 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crucial-Red-Sea-data-cables-cut-telecoms-firm-says/108-278343) · `en`
-
-March 6 (BBC) - Several undersea communications cables in the Red Sea have been cut, affecting 25% of data traffic flowing between Asia and Europe, a telecoms company and a US official say.
-
-Hong Kong-based HGC Global Communications said it had taken measures to reroute traffic after four of the 15 cables were recently severed.
-
-The US official said it was trying to find out whether the cables were cut deliberately or snagged by an anchor.
-
-Last month, Yemen's internationally-recognised government warned that the Iran-backed Houthi movement might sabotage the undersea cables in addition to attacking ships in the sea.
-
-The Houthis - who control much of western Yemen's Red Sea coast - denied last week that they had targeted cables and blamed US and British military strikes for any damage to them.
-
-US and British forces have targeted Houthi weapons and infrastructure in response to the drone and missile attacks on merchant vessels passing through the Red Sea and the Gulf of Aden.
-
-...
-
-[Data](articles/065908a9.json)
-
-[Extended Data](ext_articles/065908a9.ext.json)
-
----
-
-### The government does not support the new reconciliation efforts;Suspicion of winning - British Ambassador to Sri Lanka
-
-*2024-03-06 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178047) · `ta`
-
-The British Ambassador to Sri Lanka expressed skepticism about the government's reconciliation efforts, citing a lack of support. He also voiced concerns about the Geneva resolution and the international community's involvement in Sri Lankan affairs. The ambassador acknowledged the long-standing bond between the UK and Sri Lanka, celebrating 75 years of diplomatic relations, but did not specify a new direction in bilateral relations. He mentioned the UK's involvement in co-sponsoring the Geneva resolution and expressed concern over its submission. The ambassador highlighted human rights as a crucial issue in bilateral relations and Britain's efforts to aid Sri Lanka's economic recovery. Regarding the establishment of a Truth Reconciliation Commission, the ambassador noted skepticism among the public and human rights experts about the government's efforts.
-
-🟩
-
-The British Ambassador to Sri Lanka, said that the government is suspicious of the government's new reconciliation efforts to benefit;It is realized that these efforts of the government still have no vast support. He has also said
-
-Sometimes I am very concerned about the manner in which the Geneva resolution is submitted and the question of whether the international community is interfering with Sri Lankan matters, he said.
-
-Question;We have seen that both countries have increased mutual involvement in recent years-what is the new direction of the bilateral relationship between the two countries?
-
-Answer;I know nothing about the new direction in the dual -sided relationship, although there has been a long -standing bond between our two countries, which has recently celebrated 75 years of diplomatic relations.
-
-...
-
-[Data](articles/589ef783.json)
-
-[Extended Data](ext_articles/589ef783.ext.json)
 
 ---

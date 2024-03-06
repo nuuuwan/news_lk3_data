@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 00:47:46**
+As of **2024-03-07 01:02:51**
 
 ## Newspaper Stats
 
-*Scraped **11,335** Articles*
+*Scraped **11,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-dailyftlk | 597
+dailyftlk | 598
 islandlk | 601
 adalk | 959
 tamilmirrorlk | 1,377
 adaderanalk | 1,383
-virakesarilk | 1,548
+virakesarilk | 1,549
 dailymirrorlk | 1,729
 adaderanasinhalalk | 1,772
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,332 (100.0%) of 11,335 articles have been extended.
+11,335 (100.0%) of 11,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### அதிகார பகிர்வு நாட்டை பிளவுப்படுத்தாது இருண்ட யுகத்தில் இருந்து மீள அதிகார பகிர்வை அவசியமாக்க வேண்டும் -  வெளிவிவகாரத்துறை அமைச்சர் வலியுறுத்தல்
+
+*2024-03-06 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178124) · `ta`
+
+அதிகார பகிர்வு நாட்டை பிளவுப்படுத்தாது. ஆகவே அதிகார பகிர்வு தொடர்பில் அரசியல் கட்சிகள் தமது  நிலைப்பாட்டை அர்ப்பணிப்புடன் நாட்டுக்காக குறிப்பிட வேண்டும்.அதிகார பகிர்வு என்றவுடன் அதற்கு எதிர்ப்பு தெரிவிக்கும் சந்தர்ப்பவாத அரசியலில் இருந்து முதலில் விடுப்பட வேண்டும். இன நல்லிணக்கம் உறுதிப்படுத்தப்பட்டால் மாத்திரமே நாடு என்ற ரீதியில் முன்னேற்றமடைய முடியும். இருண்ட யுகத்தில் இருந்து வெளியேற அதிகார பகிர்வை சாத்தியமாக்க வேண்டும் என வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற வரித்திருத்தச் சட்டமூலங்கள் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதாரத்தில் பிரபல்யமான தீர்மானங்களை எடுத்தால் என்ன நேரிடும் என்பதற்கும்,காலத்துக்கு காலம் பொருளாதார கொள்கைகளை மாற்றியமைத்தால்  என்ன நேரிடும் என்பதற்கும் இலங்கை சிறந்ததொரு எடுத்துக்காட்டாக காணப்படுகிறது. பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு  கடுமையான தீர்மானங்களை முன்னெடுத்துள்ளமையின் பயனை நாட்டு மக்கள் பெற்றுக்கொள்வார்கள்.
+
+...
+
+[Data](articles/8a22d564.json)
+
+---
 
 ### Pragmatic economic policy regime for Sri Lanka
 
@@ -43,6 +59,8 @@ Sri Lanka will face elections sometime in the future, and a new Government may b
 ...
 
 [Data](articles/1ca241b5.json)
+
+[Extended Data](ext_articles/1ca241b5.ext.json)
 
 ---
 
@@ -57,6 +75,8 @@ With an eye on the next five years, the NPP envisions a country that not only co
 ...
 
 [Data](articles/c7486ccd.json)
+
+[Extended Data](ext_articles/c7486ccd.ext.json)
 
 ---
 
@@ -98,6 +118,8 @@ Official records suggest that over 1.1 million Sri Lankans have left the country
 
 [Data](articles/f787dbe5.json)
 
+[Extended Data](ext_articles/f787dbe5.ext.json)
+
 ---
 
 ### Udappuwa Crimes OIC arrested over assault incident
@@ -119,6 +141,20 @@ Police stated that blood samples were also obtained from the policeman in questi
 [Data](articles/c7e80ae7.json)
 
 [Extended Data](ext_articles/c7e80ae7.ext.json)
+
+---
+
+### How Anura and the NPP are winning the public imagination
+
+*2024-03-06 23:00:25* · [`dailyftlk`](https://www.ft.lk/columns/How-Anura-and-the-NPP-are-winning-the-public-imagination/4-759230) · `en`
+
+The secret of Anura Kumara Dissanayaka and the NPP’s success, the reason why the combination is drawing record crowds and is the only political entity in the field to do so, is really simple. It’s the public imagination, stupid!
+
+Anura and the NPP have seized the public imagination in a way that nobody in this election year has. They have done so, not by resorting to base invocations of race and religion as Gotabaya Rajapaksa did. They have done so, because they are not boring while almost all others are; they have not lost credibility as all others have; they are interesting and have social energy while the others are tired and lack authentic passion; they have a positive message which motivates and mobilises while others are shrilly negative, imaginatively timid, stale and samey.
+
+...
+
+[Data](articles/593ed4cf.json)
 
 ---
 
@@ -2293,57 +2329,5 @@ Sources say that tomorrow is to be launched tomorrow.
 [Data](articles/25413f31.json)
 
 [Extended Data](ext_articles/25413f31.ext.json)
-
----
-
-### Gotabhaya publishes the conspiracy to remove me from office
-
-*2024-03-06 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178075) · `ta`
-
-Gotabhaya Rajapakse plans to publish a book on the conspiracy to remove him from office, highlighting foreign intervention in Sri Lankan politics and the peaceful regime change after his presidency.
-
-🟩
-
-Former President Gotabhaya Rajapakse will publish a book on the conspiracy to remove himself.
-
-He said in a statement that he had been active in the removal of some domestic foreign powers since he was elected president in November 2019.
-
-He said he would publish a conspiracy to expel me from the post of President.
-
-He said that foreign intervention in domestic politics has become part of Sri Lankan politics, he said.
-
-He said that the political campaign for the removal of me from politics had brought a new aspect in Sri Lankan politics and that the regime change in Sri Lanka was peaceful after the independence of Gotabhaya Rajapaksa.
-
-Gotabhaya Rajapaksa, who has said that the events of 2022 have been severely impact on the country's future.
-
-◼️
-
-[Data](articles/1607778c.json)
-
-[Extended Data](ext_articles/1607778c.ext.json)
-
----
-
-### Manna Ramesh
-
-*2024-03-06 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194204) · `si`
-
-Manna Ramesh, an underworld gang member, is being sought by Sri Lankan security forces. Dubai Police requested his extradition for crimes including human killings in Avissawella.
-
-🟩
-
-The Security Forces in the country has officially informed the security forces of Manna Ramesh, a underworld gang member.
-
-Accordingly, a group of police officers will visit the country to bring him to Sri Lanka.
-
-The "manna Ramesh 'wanted to do in Dubai, including human killings in Avissawella and nearby areas.
-
-The Dubai Police had requested the police branch across the International Police Branch to hand over him to the country.
-
-◼️
-
-[Data](articles/bc1444d1.json)
-
-[Extended Data](ext_articles/bc1444d1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 17:34:54**
+As of **2024-03-06 17:53:37**
 
 ## Newspaper Stats
 
-*Scraped **11,273** Articles*
+*Scraped **11,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 601
 adalk | 953
 tamilmirrorlk | 1,375
 adaderanalk | 1,378
-virakesarilk | 1,534
+virakesarilk | 1,535
 dailymirrorlk | 1,722
 adaderanasinhalalk | 1,763
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,763
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,271 (100.0%) of 11,273 articles have been extended.
+11,273 (100.0%) of 11,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### சந்திரனில் அணுஉலை அமைக்க ரஷ்யா, சீனா முயற்சி
+
+*2024-03-06 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178094) · `ta`
+
+2033 -2035 ஆம் ஆண்டுகளுக்கு இடைப்பட்ட காலப்பகுதியில் சந்திரனில் அணுஉலை அமைப்பதற்கு இவ்விரு நாடுகளும் விரும்புவதாக ரஷ்ய விண்வெளி ஆராய்ச்சி நிறுவனமான ரொஸ்கொஸ்மோஸின் தலைவர் யூரி பொரிசோவ் தெரிவித்துள்ளார்.
+
+சந்திரனில் அணுசக்தி ஆனது. எதிர்க்கால சந்திரமண்டல குடியிருப்புகளுக்கான மின்சக்தியை அளிக்கும். சூரியத் தகடுகள் போதுமான அளவு மின்சாரத்தை வழங்க மாட்டாது என அவர் கூறினார்.
+
+இத்திட்டம் மிக சவாலானது. மனிதர்களின் பிரசன்னமின்றி, தன்னியக்க முறையில் இது செயற்படுத்தப்பட வேண்டும் எனவும் பொரிசோவ் கூறினார்.
+
+◼️
+
+[Data](articles/088a5c51.json)
+
+---
 
 ### Amassadors of six countries meet Anura Kumara
 
@@ -45,6 +61,8 @@ National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr
 ...
 
 [Data](articles/11a9d785.json)
+
+[Extended Data](ext_articles/11a9d785.ext.json)
 
 ---
 
@@ -308,7 +326,7 @@ Two students, including Madushan Chandrajith, coordinator of the Inter -Student 
 
 ---
 
-### UN Food Agency Says Aid Convoy Turned Away By Israel, Looted
+### UN Food Agency says aid convoy turned away by Israel, looted
 
 *2024-03-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97777/un-food-agency-says-aid-convoy-turned-away-by-israel-looted) · `en`
 
@@ -454,21 +472,31 @@ The Nanuoya police and the owner have asked the public to immediately report to 
 
 ---
 
-### ජපු‌රේ ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයෙක් ඇද වැටී මරුට
+### A senior lecturer in Jupura is killed and killed
 
 *2024-03-06 15:51:46* · [`adalk`](https://www.ada.lk/breaking_news/ජපු‌රේ-ජ්‍යෙෂ්ඨ-කථිකාචාර්යවරයෙක්-ඇද-වැටී-මරුට/11-408453) · `si`
 
-වෙළඳ සැලකට ගොස් යළි එමින් සිටියදී හදිසියේ ඇති වූ අසාත්මිකතාවක් හේතුවෙන්ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයේ ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයෙකු මහමග ඇදවැටි ජීවිතක්ෂයට පත්ව ඇතැයි මහරගම පොලිසිය පවසයි.
+A senior lecturer at the University of Sri Jayewardenepura, Maharagaya, died. The deceased, a 60-year-old from the Faculty of Applied Sciences, was found dead in Maharagama. The police are investigating under the guidance of Maragama Police Chief Inspector Chairka Rajapaksa.
 
-මෙසේ මියගොස් ඇත්තේ පන්නිපිටිය ඇරැව්වල , රත්න මාවතේ , අංක 45 /  D හි පදිංචි එදිරිසූරිය ආරච්චිගේ ටෙරන්ස් ආනන්ද ඉදිරිසූරිය (60) ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයේ පරිගණක විද්‍යා අධ්‍යයන අංශයේ ව්‍යවහාරික විද්‍යා පීඨයේ ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයෙකු බව පොලිසිය කියයි.
+🟩
 
-කථිකාචාර්යවරයා පෞද්ගලික අවශ්‍යතාවයක් සඳහා මහරගම නගරයට ආසන්නයේ පිහිටි වෙළඳ සැලකට ගොස් යළි නිවසට යාම සඳහා මහරගම පිළියන්දල (341) බස් මාර්ගයට පැමිණ ඇරව්වල දෙසට යමින් සිටියදී එක් වරම ඇති වූ අසාත්මිකතාවක් හේතුවෙන් යාබද විදුලි කණුවක් අල්ලාගෙන මඳ වේලාවක් සිට පසුව බිම ඇද වැටි අනතුරකට ලක්ව තිබුණි.
+A senior lecturer at the University of Sri Jayewardenepura, Maharagaya has died of a senior student of the University of Sri Jayewardenepura, Colombo.
 
-පසුව මේ බව දුටු අසල්වාසීන් 1990 සුවසැරිය ගිලන් රථයක් ගෙන්වා රෝහල්ගත කිරීමට යාමේදී එහි සිටි හෙද නිලධාරිනිය කථිකාචාර්යවරයා පරීක්ෂා කොට පවසා ඇත්තේ ඔහු මිය ගොස් ඇති බවයි.
+The deceased has been identified as a senior lecturer at the Faculty of Applied Sciences of the Computer Science Study of the Computer Science Study of the Department of Computer Sciences, University of Sri Jayewardenepura (60).
+
+The lecturer was to return to a shop in Maharagama to reach a shop near the Maharagama town and returned to the house of Maharagama.
+
+The neighbors were later brought to hospital in 1990, the Speaker was inspected and said that he had died.
+
+Meanwhile, the lecturer's wife had come to the place and identified husband's body.
+
+Maharagama Emergency Death Inspector Simadaglassey Pipeasiri to the scene and ordered the police to take the body to the Kalubowila Teaching Hospital for post mortem.
 
 ...
 
 [Data](articles/7d30d990.json)
+
+[Extended Data](ext_articles/7d30d990.ext.json)
 
 ---
 
@@ -2327,33 +2355,5 @@ President Ranil Wickremesinghe has come to the beginning of Parliament today (06
 [Data](articles/fa21dff2.json)
 
 [Extended Data](ext_articles/fa21dff2.ext.json)
-
----
-
-### 12 years rigorous imprisonment for sexual abuse
-
-*2024-03-06 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178039) · `ta`
-
-A 37-year-old man, Rajaratnam Ketheeswaran, was sentenced to 12 years in prison for sexual abuse. He was a part-time teacher accused of abusing a schoolgirl in 2010. The Nuwara Eliya High Court found him guilty based on evidence heard over 14 years. The judge also ordered compensation for the victim and a fine of five thousand rupees, with an additional two months imprisonment if not paid.
-
-🟩
-
-The Nuwara Eliya High Court on Tuesday (05) evening sentenced a 12 -year -old imprisonment to a man who was accused of sexual abuse.
-
-Rajaratnam Ketheeswaran (age 37), a native of Clavatan, belonging to the Notenpirij police division, has been sentenced to life imprisonment.
-
-Nuwara Eliya District High Court Magistrate Viraj Weerasuriya has sentenced the sentence.
-
-Rajaratnam Ketheeswaran, who was a part -time teacher at a school in the Klavatan area in January 2010, has been sued by the Nuwara Eliya High Court alleging that a schoolgirl has sexually abused a schoolgirl.
-
-He was sentenced to 12 years in prison after the case was identified as a part -time teacher guilty on the basis of evidence that had been heard in the Nuwara Eliya High Court for the past 14 years.
-
-The judge also announced that the victim should be given a compensation of Rs.
-
-...
-
-[Data](articles/7d0efae1.json)
-
-[Extended Data](ext_articles/7d0efae1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 10:33:17**
+As of **2024-03-06 10:51:11**
 
 ## Newspaper Stats
 
-*Scraped **11,163** Articles*
+*Scraped **11,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 593
 islandlk | 601
 adalk | 939
 tamilmirrorlk | 1,355
-adaderanalk | 1,359
-virakesarilk | 1,512
+adaderanalk | 1,360
+virakesarilk | 1,515
 dailymirrorlk | 1,707
 adaderanasinhalalk | 1,744
 
@@ -26,47 +26,139 @@ adaderanasinhalalk | 1,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,161 (100.0%) of 11,163 articles have been extended.
+11,163 (100.0%) of 11,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### 5 வயதுச் சிறுமி துஷ்பிரயோகம்; பகுதி நேர ஆசிரியருக்கு கடூழிய சிறை
+### US now pushes UN to back ‘immediate’ Gaza ceasefire to free hostages
+
+*2024-03-06 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97764/us-now-pushes-un-to-back-immediate-gaza-ceasefire-to-free-hostages) · `en`
+
+The United States on Tuesday revised language in a draft United Nations Security Council resolution to back “an immediate ceasefire of roughly six weeks in Gaza together with the release of all hostages,” according to the text seen by Reuters.
+
+The third revision of the text - first proposed by the U.S. two weeks ago - now reflects blunt remarks by Vice President Kamala Harris. The initial U.S. draft had shown support for “a temporary ceasefire” in the Israel-Hamas war.
+
+The U.S. wants any Security Council support for a ceasefire to be linked to the release of hostages held by Hamas in Gaza. Hamas attacked Israel on Oct. 7, killing 1,200 people and taking 253 hostages, according to Israeli tallies.
+
+...
+
+[Data](articles/259774f3.json)
+
+---
+
+### இலங்கைக்கு கடத்த முற்பட்ட 99 கிலோ கிராம் ஹசீஸ் போதைப் பொருள் தமிழகத்தில் கைப்பற்றல்
+
+*2024-03-06 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178029) · `ta`
+
+தமிழகத்தின் ராமநாதபுரம் மாவட்டம் மண்டபம்  கடற்கரை அருகே இலங்கைக்கு கடத்த முற்பட்ட  99 கிலோ கிராம் ஹசீஸ் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+இதனை மத்திய பொருளாதாரப் புலனாய்வு பணியகம் மற்றும்  மண்டபம் கடலோர காவல் படை  கைப்பற்றியுள்ளது.
+
+கைப்பற்றப்பட்ட ஹசீஸ் போதைப் பொருள் இலங்கை மதிப்பில் 401 கோடி  (இந்திய மதிப்பில்  108 கோடி) ரூபாவாகும்.
+
+ராமேஸ்வரம், தனுஷ்கோடி கடல் வழியாக படகு மூலம் இலங்கைக்கு போதைப்பொருட்கள் கடத்திச் செல்வதாக சென்னை மண்டல மத்திய வருவாய் புலனாய்வு பிரிவு அதிகாரிகளுக்கு ரகசிய தகவல் கிடைத்துள்ளது.
+
+அதை தொடர்ந்து மத்திய வருவாய் புலனாய்வு பிரிவினர் இந்திய கடலோர காவல் படையினருடன் இணைந்து ரோந்து கப்பலில் தனுஷ்கோடி கடல் பகுதிக்கு நேற்று முன்தினம் விரைந்துள்ளனர்.
+
+அப்போது தனுஷ்கோடி அருகே நடுக்கடலில் சென்று கொண்டிருந்த நாட்டு படகை சந்தேகத்தின்பேரில் பிடித்து சோதனை செய்தனர். இதில் அந்த படகில் பல கோடி ரூபாய் மதிப்புள்ள போதைப்பொருட்கள் இருப்பது கண்டுபிடிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a4d53264.json)
+
+---
+
+### 5 year old girl abuse;Rigorous imprisonment for part -time teacher
 
 *2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/175-334265) · `ta`
 
-பாலியல் துஷ்பிரயோக குற்றச்சாட்டில் குற்றவாளியாக இனங்காணப்பட்ட  ஒருவருக்கு 12 வருட கடூழிய சிறை தண்டனை விதித்து, நுவரெலியா மேல் நீதிமன்ற  நீதவான் விராஜ் வீரசூரிய நேற்று (05) தீர்ப்பளித்துள்ளார்.
+A 5-year-old girl was sexually abused by Rajaratnam Ketheeswaran, a part-time teacher, in 2010. He was sentenced to life imprisonment. The victim may receive 2 years in prison and compensation.
 
-நேட்டன்பிரிஜ் பொலிஸ் பிரிவுக்குட்பட்ட கிளவட்டன் பகுதியை சேர்ந்தவருக்கே இவ்வாறு கடூழிய சிறைத் தண்டனை வழங்கப்பட்டுள்ளது.
+🟩
 
-கடந்த 2010 ஆண்டு ஜனவரி மாத காலப்பகுதியில் கிளவட்டன் பகுதி பாடசாலை ஒன்றில் பகுதிநேர ஆசிரியராக கடமையாற்றிய இராஜரட்ணம் கேதீஸ்வரன் என்பவர் தரம் ஐந்தில் கல்வி கற்ற சிறுமியை பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+Nuwara Eliya High Court Magistrate Viraj Weerasuriya yesterday (05) sentenced a man to 12 years in prison for allegedly accused of sexual abuse.
 
-இது தொடர்பான வழக்கு விசாரணை நுவரெலியா மேல் நீதிமன்றத்தில் கடந்த 14 வருடங்களாக விசாரிக்கப்பட்ட நிலையில்  வழங்கப்பட்ட சாட்சியங்களின் அடிப்படையில்  இந்த பகுதி நேர ஆசிரியர் குற்றவாளியாக இனங்காணப்பட்ட நிலையில் இவருக்கு கடூழிய சிறை தண்டனை வழங்கப்பட்டது.
+A person who belongs to the Clavatan area belonging to the Nathanirij police division has been sentenced to life imprisonment.
 
-அத்துடன் குற்றவாளியாக இனங்காணப்பட்டவர், பாதிக்கப்பட்ட சிறுமிக்கு ஐந்து லட்சம் ரூபாய் நஷ்ட ஈடு வழங்க வேண்டும் எனவும் இத் தொகை வழங்காவிட்டால் மேலும் 2 வருட சிறை தண்டனை அனுபவிக்க வேண்டும் என நீதிபதி அறிவித்தார். R
+Rajaratnam Ketheeswaran, who was a part -time teacher at a Klavatan area school in January 2010, had sexually abused a grade five educated girl.
+
+He was sentenced to life imprisonment after the case was identified as a part -time teacher guilty on the basis of evidence that had been heard in the Nuwara Eliya High Court for the past 14 years.
+
+The judge also announced that the victim should be sentenced to 2 years in prison if the victim should be paid a compensation of Rs.. Remble
 
 ◼️
 
 [Data](articles/c7286376.json)
 
+[Extended Data](ext_articles/c7286376.ext.json)
+
 ---
 
-### වැට් බදු නිදහස් කරන භාණ්ඩ ගැන ජනපති හෙළිකරයි
+### நாட்டு மக்களுக்கு தொடர்ந்து நிவாரணம் வழங்கப்படும் : ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் விசேட உரை !
+
+*2024-03-06 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178034) · `ta`
+
+வெளிநாட்டு அரசமுறை கடன்கள் வெகுவிரைவில் மறுசீரமைக்கப்படும் என்றும் 2023 முதல் 2027 ஆம் ஆண்டு வரையான காலப்பகுதிக்கு கடன் செலுத்தலுக்காக காலவகாசம் பெற்றுக் கொள்ளப்படும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அத்துடன் பொருளாதாரம் ஆரம்ப கட்ட ஸ்திரப்படுத்தலில் காணப்படுகிறது என்றும் நாட்டு மக்களுக்கு தொடர்ந்து நிவாரணம் வழங்கப்படும் என்றும் ஜனாதிபதி கூறினார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் தற்போது விசேட உரையொன்றை நிகழ்த்தும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+புத்தகம், மருந்து பொருட்கள் உள்ளிட்ட தெரிவு செய்யப்பட்ட பொருட்கள் வற் வரி பட்டியலில் இருந்து நீக்கப்படும் என்றும் குறிப்பிட்டார்.
+
+அத்துடன் பொருளாதாரத்துக்கு பாதிப்பு ஏற்படும் வகையில் நிவாரணம் வழங்கப் போவதில்லை என்றும் கூறினார்.
+
+இதேவேளை, ஒரு தரப்பினர் அதிகாரத்துக்காக பொய்யுரைக்கிறார்கள். நான் அதிகாரத்துக்காக செயல்படவில்லை என்றும் நாட்டுக்காகவே செயற்படுகிறேன் என்றும் கூறினார்.
+
+...
+
+[Data](articles/2d17b5c5.json)
+
+---
+
+### சாவகச்சேரி நுணாவில் பகுதியில் மண் கடத்தல் : டிப்பர் சாரதி தப்பிப்பு ; டிப்பரை துரத்தி வந்த இருவர் கைது!
+
+*2024-03-06 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178032) · `ta`
+
+நுணாவில் பகுதியில் இருந்து சாவகச்சேரி நோக்கி பயணித்து கொண்டிருந்த டிப்பர் வாகனத்தை இன்று புதன்கிழமை அதிகாலை 2.00  மணியளவில் போக்குவரத்து கடமையில் இருந்த  சாவகச்சேரி பொலிஸார் மறித்துள்ளனர்.
+
+இதனையடுத்து டிப்பர்  வாகனத்தை துரத்திச்  சென்ற பொலிஸார் சாவகச்சேரி சுற்றுவட்டத்தில் வைத்து அதனை மறித்துள்ளனர்.
+
+இதன்போது டிப்பர் சாரதி தப்பிச் சென்றுள்ளார். தமது ஊரில் மண் கடத்தல் இடம்பெறுவதை அறிந்த அந்த ஊர் இளைஞர்கள் மூவர் இரண்டு மோட்டார் சைக்கிள்களில் டிப்பரை துரத்தி வந்தனர்.
+
+இந்நிலையில் ஒரு மோட்டார் சைக்கிளில் வந்த அந்த ஊர் இளைஞன் அங்கிருந்து சென்ற நிலையில் மற்றைய மோட்டார் சைக்கிள் சாரதி மதுபோதையில் இருந்ததால் கைது செய்யப்பட்டுள்ளார். அவருடன் மோட்டார் சைக்கிளில் பின்னால் அமர்ந்து வந்தவரும் கைது செய்யப்பட்டுள்ளார்.
+
+டிப்பர் சாரதி இதுவரை கைது செய்யப்படவில்லை. மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/c928218a.json)
+
+---
+
+### President reveals about VAT release goods
 
 *2024-03-06 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194192) · `si`
 
-ඉදිරියේ දී වැට් බදු ප්‍රතිශතය තවත් පහළ දැමීමට බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced a future VAT decrease, including exemptions for books, school, health equipment, and medicines, indicating a steady economic recovery.
 
-පාර්ලිමේන්තුවේ දී විශේෂ ප්‍රකාශයක් සිදුකරමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
+🟩
 
-ඒ අනුව පොත්, පාසල් උපකරණ, සෞඛ්‍ය උපකරණ හා ඖෂධ යන ආදිය ද වැට් බද්දෙන් නිදහස් කිරීමට බලාපොරොත්තු වන බව ද ජනාධිපතිවරයා මෙහිදී පැවසීය.
+President Ranil Wickremesinghe says that the VAT is expected to decline further in the future.
 
-හැකිළී තිබුණ ආර්ථිකය මේ වනවිට යථාතත්ත්වයට පත්වෙමින් පවතින බවද පැවසු ජනාධිපතිවරයා අසීරු වුවත් දිනෙන් දින ආර්ථිකය ශක්තිමත් කරන බව ද කියා සිටියේය.
+The President was speaking at a special statement in parliament.
+
+The President added that books, school equipment, health equipment and medicines are expected to be released from VAT.
+
+The president said that the economy was likely to be constantly being recovered.
 
 ◼️
 
 [Data](articles/0f7acafa.json)
+
+[Extended Data](ext_articles/0f7acafa.ext.json)
 
 ---
 
@@ -116,7 +208,7 @@ He said the suspension was imposed in terms of the recommendations of the report
 
 *2024-03-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97763/president-delivers-special-statement-in-parliament) · `en`
 
-President Ranil Wickremesinghe has arrived at the parliament to deliver a special statement on the progress of Sri Lanka’s economic recovery process.
+President Ranil Wickremesinghe arrived at the parliament this morning (March 06) to deliver a special statement on the progress of Sri Lanka’s economic recovery process.
 
 The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
 
@@ -410,13 +502,13 @@ The MP Charitha Herath says that there is no political future, the General who d
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
-In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
-
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -2119,77 +2211,5 @@ Expressing his enthusiasm about the new partnership, Naleen Edirisinghe, CEO of 
 [Data](articles/09a53922.json)
 
 [Extended Data](ext_articles/09a53922.ext.json)
-
----
-
-### Sri Lanka celebrates its remarkable recovery at ITB travel fair in Berlin
-
-*2024-03-05 19:39:00* · [`islandlk`](http://island.lk/sri-lanka-celebrates-its-remarkable-recovery-at-itb-travel-fair-in-berlin/) · `en`
-
-Sri Lanka Tourism is all set to give it’s best at the ITB Berlin this year, which will kick off on the 5th of March 2024 and continue till 7th March 2024 at Messe Berlin, Germany. The Island paradise will showcase all its Tourism Products to lure the International tourists to come and have an experience of a lifetime.
-
-...
-
-[Data](articles/96ff7d6c.json)
-
-[Extended Data](ext_articles/96ff7d6c.ext.json)
-
----
-
-### Railway strike temporarily opened
-
-*2024-03-05 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194176) · `si`
-
-The Locotiv Inter Engineers Association temporarily suspended a planned train strike from midnight today, following discussions with railway authorities. The strike was to protest a cabinet paper aimed at reducing wages.
-
-🟩
-
-The train strike was temporarily suspended from midnight today, says the Locotiv Inter Engineers Association.
-
-They had planned to have the boycott demanding the removal of the cabinet paper proposed to reduce their wages.
-
-Accordingly, the railway associations including Railway Regulators and Supervising Managers and Railways were due to join the strike.
-
-However, a discussion has held a discussion with railway authorities this afternoon.
-
-Railway Trade Unions said that after an explanation made by the railway authorities, the strike was temporarily suspended.
-
-◼️
-
-[Data](articles/5f900b50.json)
-
-[Extended Data](ext_articles/5f900b50.ext.json)
-
----
-
-### Dilip de S. Wijeyeratne appointed to Janashakthi Life Board
-
-*2024-03-05 19:37:00* · [`islandlk`](http://island.lk/dilip-de-s-wijeyeratne-appointed-to-janashakthi-life-board/) · `en`
-
-Janashakthi Life, a member of the Janashakthi Group, announces the appointment of Dilip de S. Wijeyeratne as an Independent, Non-Executive Director to the Company’s Board of Directors, effective from 14th February 2024.
-
-...
-
-[Data](articles/cdcd6e83.json)
-
-[Extended Data](ext_articles/cdcd6e83.ext.json)
-
----
-
-### Lanka Milk Food shares nourish bourse into a degree of vibrancy
-
-*2024-03-05 19:32:00* · [`islandlk`](http://island.lk/lanka-milk-food-shares-nourish-bourse-into-a-degree-of-vibrancy/) · `en`
-
-Although the stock market kicked off on a very bullish note yesterday, during the latter part of the day it slowed down, market analysts said.
-
-Lanka Milk Food shares were in demand in considerable amounts but the reasons for the development could not be immediately ascertained. Both indices moved upwards. The All- Share Price Index went up by 38.29 points, while the S and P SL20 rose by 12.16 points. Turnover stood at Rs 1.5 billion with two crossings.
-
-Those crossings were reported in Dankotuwa Porcelain, which crossed Rs 28 worth 5.36 million shares to the tune of Rs 150 million and DFCC Bank’s 300,000 shares crossed to the tune of Rs 20.7 million; its shares traded at Rs 69.
-
-...
-
-[Data](articles/96595652.json)
-
-[Extended Data](ext_articles/96595652.ext.json)
 
 ---

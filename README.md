@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 09:33:23**
+As of **2024-03-06 09:51:50**
 
 ## Newspaper Stats
 
-*Scraped **11,150** Articles*
+*Scraped **11,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ dailyftlk | 593
 islandlk | 601
 adalk | 939
 tamilmirrorlk | 1,354
-adaderanalk | 1,357
-virakesarilk | 1,508
-dailymirrorlk | 1,704
-adaderanasinhalalk | 1,741
+adaderanalk | 1,358
+virakesarilk | 1,511
+dailymirrorlk | 1,705
+adaderanasinhalalk | 1,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,146 (100.0%) of 11,150 articles have been extended.
+11,150 (99.9%) of 11,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### ජනාධිපති පාර්ලිමේන්තුවට එයි
+
+*2024-03-06 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194191) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු සභාගර්භයට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/f53b6487.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-03-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194190) · `si`
+
+◼️
+
+[Data](articles/4bad7edd.json)
+
+---
+
+### Three killed in head-on collision in Pothuhera
+
+*2024-03-06 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97762/three-killed-in-head-on-collision-in-pothuhera-) · `en`
+
+Three individuals have died in a tragic road accident involving a three-wheeler and lorry near the Bulugolla Junction in Pothuhera.
+
+According to the police, a lorry travelling from Kurunegala to Colombo had collided head-on with a three-wheeler on Tuesday night (March 05).
+
+Four people who were inside the three-wheeler had been rushed to the Kurunegala Teaching Hospital with critical injuries, however, three of them later died while receiving treatment.
+
+The identities of the deceased have not yet been established, the police said.
+
+Meanwhile, the driver of the lorry is now under arrest in connection with the fatal accident.
+
+◼️
+
+[Data](articles/d2e44164.json)
+
+---
+
+### வவுனியாவில் பெண் ஒருவரின் சடலத்தை அடையாளம் காண உதவுமாறு பொலிஸார் கோரிக்கை
+
+*2024-03-06 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178028) · `ta`
+
+வவுனியாவில் வயோதிபப் பெண் ஒருவரின் சடலத்தை அடையாளம் காண உதவுமாறு வவுனியா பொலிஸார் செவ்வாய்க்கிழமை (05) தெரிவித்தனர்.
+
+வவுனியா வைத்தியசாலையில் கடந்த நவம்பர் மாதம் 07 ஆம் திகதி புள்ளி நிறச் சட்டையுடன் வயோதிபப் பெண் ஒருவர் சிகிச்சை பெற அனுமதிக்கப்பட்டிருந்தார்.
+
+அவருக்கான சிகிச்சைகள் வவுனியா வைத்தியசாலையில் இடம்பெற்று வந்த நிலையில் நேற்றைய தினம் குறித்த வயோதிபப்  பெண் சிகிச்சை பலனின்றி மரணமடைந்துள்ளார்.
+
+சுமார் 5 அடி உயரமுடைய குறித்த வயோதிபப் பெண் யார் என இதுவரை அடையாளம் காணப்படவில்லை. குறித்த பெண்ணின் சடலம் வவுனியா வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள
+
+குறித்த பெண் தொடர்பாக தகவல் தெரிந்தோர் அல்லது உறவினர்கள் வவுனியா வைத்தியசாலையை அல்லது வவுனியா பொலிசாரை தொடர்பு கொள்ளுமாறு பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/64c18fd9.json)
+
+---
 
 ### Halt excessive scrutiny of nations - SL tells Human Right Council
 
@@ -45,6 +107,38 @@ Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanen
 ...
 
 [Data](articles/e788b598.json)
+
+[Extended Data](ext_articles/e788b598.ext.json)
+
+---
+
+### சுழிபுர புத்தர் சிலையை அகற்றா விட்டால் பாரிய போராட்டம் வெடிக்கும் - சுகாஷ் எச்சரிக்கை!
+
+*2024-03-06 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178027) · `ta`
+
+சுழிபுரத்திலே புத்தர் சிலை ஒன்று வைக்கப்பட்டதாக எங்களுக்கு கிடைக்கப்பெற்ற தகவலை அடுத்து நாங்கள் இங்கே வந்திருக்கின்றோம். அந்த தகவல் உண்மையானது. சவுக்கடி பிள்ளையார் கோவிலுக்கு பின்பாகவும் இராணுவ முகாமிற்கு முன்பாகவும் புத்தர் சிலை வைக்கப்பட்டுள்ளது. இது திட்டமிட்ட ஒரு ஆக்கிரமிப்பு என தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஸ் அவர்கள் தெரிவித்துள்ளார்.
+
+நேற்று செவ்வாய்க்கிழமை (05) இரவு குறித்த பகுதிக்கு சென்று பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+கோயிலை ஆக்கிரமிக்கின்ற வகையிலே இந்த புத்தர் சிலை வைக்கப்பட்டுள்ளது. இதை நாங்கள் அனுமதிக்க முடியாது. ஏனென்றால் தமிழர் தாயகம் எங்கும் தற்சமயம், அதுவும் ரணில் விக்கிரமசிங்க அவர்கள் ஜனாதிபதியாக வந்ததன் பின்னர் ஆக்கிரமிப்புகள் மிகத் தீவிரம் பெற்றுள்ளது. அதனுடைய அடுத்தகட்ட பரிமாணம் தான் இந்த புத்தர் சிலை.
+
+...
+
+[Data](articles/2893db52.json)
+
+---
+
+### சமூகப் பாதுகாப்பு உதவுத் தொகை வரி (திருத்தச்) சட்டமூலம் மற்றும் பெறுமதி சேர் வரி திருத்தச் சட்டமூலம் மீதான விவாதத்தை ஒத்திவைக்க வேண்டும் - எதிர்க்கட்சித் தலைவர்
+
+*2024-03-06 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178026) · `ta`
+
+சமூகப் பாதுகாப்பு உதவுத் தொகை வரி (திருத்தச்) சட்டமூலம் மற்றும் பெறுமதி சேர் வரி திருத்தச் சட்டமூலம்  தொடர்பில் சட்டமா அதிபர் திணைக்களத்திடம் இருந்து  பரிந்துரை எதுவும் முன்வைக்கப்படாத நிலையில் எவ்வாறு இதனை பராளுமன்ற ஒழுங்குப் பத்திரத்தில் உள்வாங்க முடியும். அதனால் இந்த சட்டமூலத்தை விவாதத்துக்கு எடுத்துக்கொள்ளாமல் ஒத்திவைக்க வேண்டும்  என கேட்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கேள்வி எழுப்பினார்.
+
+சமூகப் பாதுகாப்பு உதவுத் தொகை வரி (திருத்தச்) சட்டமூலம் மற்றும் பெறுமதி சேர் வரி திருத்தச் சட்டமூலம்  தொடர்பில் சட்டமா அதிபரின் பரிந்தரை இன்று (நேற்று) கிடைக்கிறது. அப்படியானால் எவ்வாறு நாளைய (இன்றைய) பாராளுமன்ற ஒழுங்கு பத்திரத்தில் உள்வாங்க முடியும்.  சட்டமா அதிபரின் பரிந்துரைக்கு பின்னரே இது ஒழுங்குப்பத்திரத்தில் உள்வாங்கப்பட வேண்டும்.. இந்த முரண்பாட்டை அமைச்சரவையிலோ அல்லது குழு கூட்டத்திலாே பிரதமர் இந்த விடயத்தை தெரிவித்திருக்கிறார்.
+
+...
+
+[Data](articles/8dc4c5fc.json)
 
 ---
 
@@ -61,6 +155,8 @@ Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanen
 ...
 
 [Data](articles/e245b165.json)
+
+[Extended Data](ext_articles/e245b165.ext.json)
 
 ---
 
@@ -156,13 +252,13 @@ The MP Charitha Herath says that there is no political future, the General who d
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
-In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
-
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -193,6 +289,24 @@ The country's task report states that China is implementing the reconstruction a
 [Data](articles/b5d0bcae.json)
 
 [Extended Data](ext_articles/b5d0bcae.ext.json)
+
+---
+
+### Will not deviate from IMF programme, but will renegotiate terms and conditions: NPP
+
+*2024-03-06 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Will-not-deviate-from-IMF-programme-but-will-renegotiate-terms-and-conditions-NPP/155-278316) · `en`
+
+Colombo, March 6 (Daily Mirror) - The National People’s Power (NPP) said it would not derail the IMF programme if it won the presidency but would renegotiate its terms and conditions on implementations since the current austerity measures had burdened people and the attempts of the government to sell off public assets would bring severe economic consequences to the country.
+
+NPP economic council member Prof. Anil Jayantha said his party would also seek speedy actions on the debt restructuring process.
+
+Also, he said that a homegrown solution to stabilise the economy is needed and NPP is ready to come out with such plans of unleashing the growth potential, increasing government revenue, rebuilding foreign reserves and directing the economy for a sustainable growth.
+
+However, he said the present government could have gone for early negotiations with creditors in advance and explored other options available and adopted by other countries if it had a genuine intention of recovering the economy.
+
+...
+
+[Data](articles/0142c5b5.json)
 
 ---
 
@@ -321,6 +435,8 @@ Though the central bank was allowed to operate independently, there was no provi
 ...
 
 [Data](articles/059f50ee.json)
+
+[Extended Data](ext_articles/059f50ee.ext.json)
 
 ---
 
@@ -2047,169 +2163,5 @@ Addressing the media, he said that even though the government had not reduced th
 [Data](articles/c90dba46.json)
 
 [Extended Data](ext_articles/c90dba46.ext.json)
-
----
-
-### Sri Lanka to join US-led International Counter Ransomware Initiative
-
-*2024-03-05 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97749/sri-lanka-to-join-us-led-international-counter-ransomware-initiative) · `en`
-
-Sri Lanka has received an invitation to join the inaugural International Counter Ransomware Initiative, which the United States has started as a common platform in 2021 with a group of other countries for international coordination to eliminate ransomware, the government said.
-
-So far, 48 countries around the world and the European Union as well as the International Police (Interpol) have joined the initiative.
-
-Since Sri Lanka has recently faced various problems due to ransomware, it has been recognized that it can benefit from joining the International Counter Ransomware Initiative, the Govt. Information Department said.
-
-Accordingly, the Cabinet of Ministers has approved the joint proposal presented by the President in his capacity as the Minister of Technology and Minister of Justice, Prison Affairs and Constitutional Reforms to join the International Counter Ransomware Initiative and taking further action.
-
-◼️
-
-[Data](articles/fabcd036.json)
-
-[Extended Data](ext_articles/fabcd036.ext.json)
-
----
-
-### Muzammil's son hides with a woman attack
-
-*2024-03-05 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194174) · `si`
-
-JM Muzmil's son, Muzammil, is under investigation for hiding with a woman involved in an assault. The police are conducting further investigations to arrest him. The complaint was lodged with the Wellawatte police, and the woman was hospitalized after the assault. The suspect and his mobile have been misled by the police in the Southern Province. The vehicle and mobile phone were taken into custody there. The suspects have not yet been informed that they will surrender to the police. The Police Media Spokesman's Office has issued a statement in response to the Governor of the Uva Province's statement.
-
-🟩
-
-The police said that investigations are being conducted further investigations to arrest him a son of JM Muzmil.
-
-The Police Media Spokesman's office said in a statement that these investigations are conducted on a complaint lodged to the Wellawatte police.
-
-The complaint states that the woman had been hospitalized after assaulting a woman at a flat area in Wellawatte.
-
-Meanwhile, the suspect and his mobile have been misled by the police and had been misled by the police in the Southern Province.
-
-It also states that the Son of Governor, JM Muzmil, will be confronted with hiding in another area.
-
-However, the vehicle and mobile phone was taken into custody in the Southern Province.
-
-The suspects, the suspect, the father of the suspect, has not yet been informed the police that he will surrender him to the police.
-
-The Police Media Spokesman's Office has issued the statement clearly explaining the correct situation in response to a statement made by the Governor of the Uva Province.
-
-◼️
-
-[Data](articles/1b3b4da3.json)
-
-[Extended Data](ext_articles/1b3b4da3.ext.json)
-
----
-
-### If you come to the hands of this
-
-*2024-03-05 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194173) · `si`
-
-A man was arrested in Pothuhera with 45 notes, handled by DIG, Attorney-at-Law Nihal Talduuwa.
-
-🟩
-
-The police said that a man was arrested by a man in possession of 45 notes in Pothuhera.
-
-The police spokesman, DIG, Attorney-at-Law Nihal Talduuwa to take care of the banknotes.
-
-◼️
-
-[Data](articles/7f0be537.json)
-
-[Extended Data](ext_articles/7f0be537.ext.json)
-
----
-
-### Sri Lankan FM and OIC Secretary General discuss cooperation, Palestine
-
-*2024-03-05 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97748/sri-lankan-fm-and-oic-secretary-general-discuss-cooperation-palestine) · `en`
-
-The Secretary-General of the Organisation of Islamic Cooperation (OIC) Hissein Brahim Taha and Sri Lanka’s foreign minister Ali Sabry met on Monday in Jeddah to discuss cooperation and address shared concerns.
-
-Sabry highlighted Sri Lanka’s initiatives aimed at enhancing the well-being of its Muslim community. He reiterated Sri Lanka’s stance on the Palestinian cause, affirming support for the two-state solution, foreign media reported.
-
-Taha discussed the OIC’s role in advancing the welfare of Muslim communities worldwide and commended Sri Lanka’s government for supporting Muslims and the Palestinians.
-
-During the meeting, held at the OIC General Secretariat in Jeddah, both sides discussed the prospects for enhancing cooperation between the OIC and Sri Lanka.
-
-...
-
-[Data](articles/af1b2f35.json)
-
-[Extended Data](ext_articles/af1b2f35.ext.json)
-
----
-
-### Panama prohibits former presidential election
-
-*2024-03-05 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178003) · `ta`
-
-Panama's former President Ricardo Martineli, sentenced to 10 years for money laundering, is barred from the upcoming presidential election.
-
-🟩
-
-A court has ruled that Panama's former President Ricardo Martineli is not eligible to contest the upcoming presidential election.
-
-This is because he was sentenced to 10 years in prison last year on money laundering.
-
-71 -year -old billionaire businessman, Ricardo Martineli, was the president from 2009 to 2014.
-
-Panama officials ordered him to arrest him last month. Subsequently, Martinelli sought asylum in the Nikaragua distance.
-
-In this case, the jail sentence on Martineli was confirmed on Monday. Subsequently, the Panama Elections Court has banned him from contesting the election.
-
-◼️
-
-[Data](articles/e466bcfa.json)
-
-[Extended Data](ext_articles/e466bcfa.ext.json)
-
----
-
-### The party leaders are deeply displeasant to increase the sum of the wages
-
-*2024-03-05 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194172) · `si`
-
-Party leaders and Central Bank officials disagree on wage increases, arguing no legal or moral right to 70% increase amid suffering. A Collective Agreement between unions and management is registered, costing nearly Rs. 232 million.
-
-🟩
-
-The Central Bank's top officials have been displeased at the party leaders meeting in Parliament today regarding the increase of employee salaries by a self-determination.
-
-The party leaders also arguct that there is no legal power on salary increases.
-
-There is no moral right to increase salary increases by 70% at a time when people are suffering, but there is no moral right to increase salary.
-
-The monthly increase of Rs. It has also been revealed that nearly 232 million cost.
-
-The Collectuity Agreement (Collective Agreement) between the unions and management, which has been carried out between the trade unions and management has been registered with the Department of Parliament.
-
-◼️
-
-[Data](articles/c0a664a5.json)
-
-[Extended Data](ext_articles/c0a664a5.ext.json)
-
----
-
-### Railway union's work is abandoned!
-
-*2024-03-05 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178000) · `ta`
-
-Railway union work abandoned. Locomotive Comparison Engineers Association claims several unions, including Locomotive Operation Engineers Association, have ceased workforce struggle. Cabinet has provided a solution to promotion issue.
-
-🟩
-
-The Locomotive Comparison Engineers Association said that several railway trade unions, including the Locomotive Operation Engineers Association, have abandoned the workforce struggle which will be launched from midnight on Tuesday (5) on Tuesday (5).
-
-The union also said that the Cabinet has given a solution to the issue of promotion, the main issue of the workplace.
-
-◼️
-
-[Data](articles/24a79dbe.json)
-
-[Extended Data](ext_articles/24a79dbe.ext.json)
 
 ---

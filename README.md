@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 09:17:30**
+As of **2024-03-06 09:33:23**
 
 ## Newspaper Stats
 
-*Scraped **11,146** Articles*
+*Scraped **11,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,57 @@ colombotelegraphcom | 108
 bbccomsinhala | 131
 dbsjeyarajcom | 174
 newsfirstlk | 363
-economynextcom | 575
+economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 939
 tamilmirrorlk | 1,354
 adaderanalk | 1,357
 virakesarilk | 1,508
-dailymirrorlk | 1,702
+dailymirrorlk | 1,704
 adaderanasinhalalk | 1,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,143 (100.0%) of 11,146 articles have been extended.
+11,146 (100.0%) of 11,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Halt excessive scrutiny of nations - SL tells Human Right Council
+
+*2024-03-06 09:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Halt-excessive-scrutiny-of-nations-SL-tells-Human-Right-Council/108-278322) · `en`
+
+Colombo, March 6 (Daily Mirror) - Sri Lanka has called for the UN Human Rights Council to halt its excessive scrutiny of nations in the global south through intrusive mechanisms while ignoring violations elsewhere to regain credibility.
+
+Sri Lanka also expressed disappointment that the Council's persistent and disproportionate attention on Sri Lanka is not beneficial to the nation.
+
+Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanent Representative of Sri Lanka Himalee Subhashini Arunatilaka, underscored the urgent need for the global human rights framework to uphold objectivity and universality, and ensure that alleged violations are addressed impartially, regardless of the size or the influence of the country concerned
+
+...
+
+[Data](articles/e788b598.json)
+
+---
+
+### Halt excessive scrutiny of nations - SL tells Human Rights Council
+
+*2024-03-06 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Halt-excessive-scrutiny-of-nations-SL-tells-Human-Rights-Council/108-278319) · `en`
+
+Sri Lanka has called for the UN Human Rights Council to halt its excessive scrutiny of nations in the global south through intrusive mechanisms while ignoring violations elsewhere to regain credibility.
+
+Sri Lanka also expressed disappointment that the Council’s persistent and disproportionate attention on Sri Lanka is not beneficial to the nation.
+
+Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanent Representative of Sri Lanka Himalee Subhashini Arunatilaka, underscored the urgent need for the global human rights framework to uphold objectivity and universality, and ensure that alleged violations are addressed impartially, regardless of the size or the influence of the country concerned.
+
+...
+
+[Data](articles/e245b165.json)
+
+---
 
 ### Suspended end-of-term school tests in WP resume today
 
@@ -50,6 +82,8 @@ Meanwhile, the Criminal Investigation Department (CID) has initiated an investig
 
 [Data](articles/62211533.json)
 
+[Extended Data](ext_articles/62211533.ext.json)
+
 ---
 
 ### UK calls for all political parties in SL to honour IMF programme
@@ -67,6 +101,8 @@ The High Commissioner made such remarks in the wake of the main parties making v
 ...
 
 [Data](articles/368684b9.json)
+
+[Extended Data](ext_articles/368684b9.ext.json)
 
 ---
 
@@ -136,19 +172,27 @@ Following a tip-off that narcotics substances were being smuggled from India to 
 
 ---
 
-### චීන ජාතික මහජන කොංග්‍රසයේ වාර්ෂික සැසිවාරය ඇරඹේ
+### The Chinese People's Congress Annual Session begins
 
 *2024-03-06 08:00:50* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතික-මහජන-කොංග්‍රසයේ-වාර්ෂික-සැසිවාරය-ඇරඹේ/11-408440) · `si`
 
-චීනයේ රාජ්‍ය පාලනය පිළිබඳ ඉහළම බල ආයතනය වන චීන ජාතික මහජන කොංග්‍රසයේ වාර්ෂික සැසිවාරය ඇරඹේ. ඒ, බෙයිජිං අගනුවර පිහිටි මහ ශාලාවේ දී යි.
+The Chinese National People's Congress, China's highest power, began today at Beijing Capital Hall. President Xi Jinping and other leaders attended. China achieved its 2023 economic and social goals, with GDP growth expected in 2024. The country is focusing on reconstruction and opening, encouraging state, NGO, and foreign investment enterprises. It aims to build a modern industrial system and continues a peaceful foreign policy.
 
-14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය ඊයේ (5) පෙරවරුවේ  ආරම්භ විය. චීන කොමියුනිස්ට් පක්ෂ මහලේකම්, ජනාධිපති ෂී ජින්පිං මහතා ඇතුළු පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 3000 ක පමණ පිරිසක් සමාරම්භක උත්සවයට එක්වූහ.
+🟩
 
-චීන අග්‍රාමාත්‍ය ලී ච්‍යං මහතා සැසිවාරය වෙත රාජ්‍ය කාර්ය වාර්තාව ඉදිරිපත් කරමින් පැවසුවේ, 2023 වසරේ රටේ ප්‍රධාන ආර්ථික හා සමාජ සංවර්ධන ඉලක්ක පූර්ණ ලෙස සාක්ෂාත් කිරීමට චීනය සමත් වූ බවයි.  2024 වසරේ රටේ දළ දේශීය නිෂ්පාදිත වටිනාකමේ 5% ක වර්ධනයක් අපේක්ෂා කරන බව ද අගමැතිවරයා එහිදී පැවසීය.
+The Chinese National People's Congress, the highest power in China, begins today. It was at Beijing Capital Hall.
+
+Second Session of the 14th Chinese People Congress commenced yesterday (5). The Chinese Communist Party Secretary General and the party's leaders, including President Xi Ginping, joined the inauguration ceremony.
+
+Chinese Prime Minister Lee Chang said China was able to achieve the main economic and social development goals of the country in 2023.The Prime Minister said that the growth of GDP was expected to increase in 2024, he said.
+
+The country's task report states that China is implementing the reconstruction and opening of the new year with more heavily determination and strength than ever before.. Steps will be taken to encourage and operate the rehabilitation and openness, encouraging the state and non-governmental enterprises as well as foreign investment enterprises.
 
 ...
 
 [Data](articles/b5d0bcae.json)
+
+[Extended Data](ext_articles/b5d0bcae.ext.json)
 
 ---
 
@@ -257,6 +301,26 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 [Data](articles/071ba9f7.json)
 
 [Extended Data](ext_articles/071ba9f7.ext.json)
+
+---
+
+### Sri Lanka central bank salary hike dispute with parliament deepens
+
+*2024-03-06 07:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-salary-hike-dispute-with-parliament-deepens-153291/) · `en`
+
+ECONOMYNEXT – A steep salary hike by the central bank outside parliament’s control of public finances has come under fire at a meeting of legislators at a meeting in parliament where officials of the monetary authority were questioned.
+
+Party leaders had slammed the officials for giving themselves salary hikes of up to 70 percent following a severe currency collapse saying they had no ‘ethical right’ to do so when the entire public was suffering.
+
+The meeting was attended by the leadership and union leaders of the agency, a statement from the parliament said.
+
+The original bill submitted to parliament by the agency had a provision to pay salaries as an independent decision by the clause was struck down by the Supreme Court, saying it needed a constitutional amendment,  party leaders have said.
+
+Though the central bank was allowed to operate independently, there was no provision to hike salaries as it wished, party leaders had said.
+
+...
+
+[Data](articles/059f50ee.json)
 
 ---
 
@@ -2147,69 +2211,5 @@ The union also said that the Cabinet has given a solution to the issue of promot
 [Data](articles/24a79dbe.json)
 
 [Extended Data](ext_articles/24a79dbe.ext.json)
-
----
-
-### A reservoir in Colombo
-
-*2024-03-05 17:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நீர்த்தாரை-பிரயோகம்/175-334240) · `ta`
-
-Police used tear gas on Colombo University Students Association protests, leading to water attacks near the Sports Ministry.
-
-🟩
-
-Police have threw tear gas bombs on the protest by Colombo University Students Association.
-
-Tears and water attacks have been carried out in front of the Sports Ministry in Colombo.
-
-◼️
-
-[Data](articles/d93838ce.json)
-
-[Extended Data](ext_articles/d93838ce.ext.json)
-
----
-
-### Chandrika refutes getting two pensions
-
-*2024-03-05 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chandrika-refutes-getting-two-pensions/108-278285) · `en`
-
-Colombo, March 5 (Daily Mirror)- Former President Chandrika Kumaratunge today refuted claims by Mihintale Raja Maha Viharadhipathi Ven. Walaha Hengunawewe Dhammarathana Thera that she was getting two pensions.
-
-A statement issued by her office said the allegations by the Thera are false and baseless.
-
-The statement said she was getting only the pension entitled to her as the former President.
-
-It also said that former President Mahinda Rajapaksa during his tenure, increased the pension of the President upto Rs. 97,000 and that the pension of Ms. Kumaratunge and former president D.B. Wijetunge were not increased even though the retired Presidents should also have enjoyed an increase in line with the salary hike of the President.
-
-However, the statement added that the situation was rectified after Maithripala Sirisena was elected President in 2015 and the pension of Ms. Kumaratunge which is credited to her bank account is used only for social services.
-
-◼️
-
-[Data](articles/981fc350.json)
-
-[Extended Data](ext_articles/981fc350.ext.json)
-
----
-
-### University student union demonstration
-
-*2024-03-05 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/177996) · `ta`
-
-University of Colombo students protested, leading to police using tear gas and water. Heavy traffic and road closures resulted.
-
-🟩
-
-Police have used tear gas and water to dissolve students who were protesting near the University of Colombo.
-
-It is reported that heavy traffic congestion in the area has been caused by a demonstration rally launched by the University Students Union.
-
-Meanwhile, it has been reported that the road traffic in front of the University of Colombo has been closed due to the struggle of a group of university students.
-
-◼️
-
-[Data](articles/cf6c8b61.json)
-
-[Extended Data](ext_articles/cf6c8b61.ext.json)
 
 ---

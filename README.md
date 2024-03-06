@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 21:17:54**
+As of **2024-03-06 21:33:45**
 
 ## Newspaper Stats
 
-*Scraped **11,306** Articles*
+*Scraped **11,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,75 @@ islandlk | 601
 adalk | 958
 tamilmirrorlk | 1,376
 adaderanalk | 1,381
-virakesarilk | 1,544
-dailymirrorlk | 1,727
+virakesarilk | 1,545
+dailymirrorlk | 1,728
 adaderanasinhalalk | 1,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,305 (100.0%) of 11,306 articles have been extended.
+11,306 (100.0%) of 11,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### බංග්ලාදේශයට ජය
+### பங்களாதேஷ் 08 விக்கெட்டுக்களால் வெற்றி
+
+*2024-03-06 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
+
+இலங்கைக்கு எதிரான இரண்டாவது இருபதுக்கு 20 போட்டியில் பங்களாதேஷ் 08 விக்கெட்டுக்களால் வெற்றிப்பெற்றுள்ளது.
+
+பங்களாதேஷின் சில்ஹெட்டில் நடைபெற்ற இந்த போட்டியில் நாணய சுழற்சியில் வெற்றி பெற்ற பங்களாதேஷ் அணி பந்துவீச்சை தெரிவுசெய்ய முதலில் துடுப்பெடுத்தாடியது இலங்கை அணி.
+
+இலங்கை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் நிறைவில் 05 விக்கெட்டுக்களை இழந்து 165 ஓட்டங்களை பெற்றது
+
+பின்னர் பதிலுக்கு துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 18.1 ஓவர்கள் நிறைவில் 02 விக்கெட்டுக்களை மாத்திரம் இழந்து வெற்றி இலக்கை அடைந்தது.
+
+இதற்கமை 3 போட்டிகள் கொண்ட இந்தத் தொடரில் இலங்கை அணியும் பங்களாதேஷ் அணியும் தலா ஒவ்வொரு போட்டிகளில் வெற்றிப்பெற்று சமநிலையில் உள்ளன.
+
+◼️
+
+[Data](articles/d92a86bd.json)
+
+---
+
+### First Lady calls for humanized foreign ties
+
+*2024-03-06 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-Lady-calls-for-humanized-foreign-ties/108-278367) · `en`
+
+At a time where it is repeatedly stressed that Sri Lanka needs to work closely with other nations, First lady Maithreee Wickremesinghe called for diplomatic ties which would become connections of hearts, minds and souls.
+
+Ms. Wickremesinghe highlighted this point at the swearing in of US Peace Corps volunteers in Colombo.
+
+“The character of a nation consist not only of its geography and climate, origin, dominant culture, contemporary leaders in politics but also the caliber of its people and connections made by those people, the connections of the hearts, minds, souls especially in an era when connectivity and reality is valued at the expense of human contacts, what would be more real and tangible or human,” she said.
+
+Ms. Wickremesinghe also called for digital whelm for the people of this nation while highlighting that it would be an opportunity for individual education achievement and mobility as well as a general drive for Sri Lankans for economic prospects.
+
+...
+
+[Data](articles/f0a9705c.json)
+
+---
+
+### Win to Bangladesh
 
 *2024-03-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194221) · `si`
 
-ශ්‍රී ලංකාවට එරෙහිව පැවති දෙවන විස්සයි විස්ස තරගය බංග්ලාදේශ කණ්ඩායම කඩුලු 8කින් ජයගැනීමට සමත්විය.
+Bangladesh defeats Sri Lanka in the 2nd T20I by 8 wickets, winning by 170 runs.
 
-පන්දුවාර 18යි එක් පන්දුවක් අවසානයේ ලකුණු 170ක් රැස්කරගනිමින් ඔවුන් එම ජය හිමිකරගත්තේය.
+🟩
+
+Bangladesh won the Second Twenty Twenty20 match against Sri Lanka by 8 wickets.
+
+They won the victory over 170 runs in the end of the balls.
 
 ◼️
 
 [Data](articles/fd563fdc.json)
+
+[Extended Data](ext_articles/fd563fdc.ext.json)
 
 ---
 
@@ -2315,49 +2359,5 @@ It has been found that this is the case when the lecturer went to the market nea
 [Data](articles/bc9f8f3b.json)
 
 [Extended Data](ext_articles/bc9f8f3b.ext.json)
-
----
-
-### Ali Sabry's parliamentary service suspended for a month
-
-*2024-03-06 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194199) · `si`
-
-MP Ali Sabri Raheem suspends Parliament for a month, including the Dhamma and Privilege Committee, and faces Speaker's reprimand.
-
-🟩
-
-The Speaker informed that MP Ali Sabri Raheem has decided to suspend the Parliament for a monthly MP Ali Sabri Rahee.
-
-The suspension of the committee of the committee on Dhamma and Privilege Committee will be implemented today (06) for a month.
-
-The Speaker was also reprimanded by the Speaker to do not advance.
-
-◼️
-
-[Data](articles/b0f926a7.json)
-
-[Extended Data](ext_articles/b0f926a7.ext.json)
-
----
-
-### A person who obtained the Covid Vaccine 217
-
-*2024-03-06 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194198) · `si`
-
-A 62-year-old man in Germany received 217 Covid vaccine doses in 29 months, despite medical advice, with no reported side effects.
-
-🟩
-
-Doctors say that the 62-year-old man in Germany has been injected 217 times, despite medical advice.
-
-It states that the doses had been injected within 29 months.
-
-Experts regarding the incident said that the person had many doses, but he has not had side effects.
-
-◼️
-
-[Data](articles/c0ee7750.json)
-
-[Extended Data](ext_articles/c0ee7750.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 14:33:22**
+As of **2024-03-06 14:50:32**
 
 ## Newspaper Stats
 
-*Scraped **11,224** Articles*
+*Scraped **11,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 593
 islandlk | 601
 adalk | 945
 tamilmirrorlk | 1,368
-adaderanalk | 1,369
+adaderanalk | 1,370
 virakesarilk | 1,527
 dailymirrorlk | 1,715
 adaderanasinhalalk | 1,753
@@ -26,21 +26,43 @@ adaderanasinhalalk | 1,753
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,222 (100.0%) of 11,224 articles have been extended.
+11,224 (100.0%) of 11,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### 13-year-old girl dies in slip-and-fall accident at school
+
+*2024-03-06 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97772/13-year-old-girl-dies-in-slip-and-fall-accident-at-school) · `en`
+
+A 13-year-old female student has died in a slip-and-fall accident at a school in Kalawana.
+
+Reportedly, she succumbed to injuries upon admission to the hospital.
+
+The incident had taken place between 7.15 a.m. and 7.30 a.m. today (March 06) at the Meepagama Jayanthi Maha Vidyalaya in Kalawana.
+
+◼️
+
+[Data](articles/728a8b75.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-03-06 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178071) · `ta`
 
-இன்று புதன்கிழமை (மார்ச் 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 302.9735 ஆகவும் விற்பனை விலை ரூபா 312.6086 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's US $ 302.9735 to Rs. exchange rate is not provided.
+
+🟩
+
+The US $ 302.9735 was reported at Rs.
 
 ◼️
 
 [Data](articles/cf73a3b8.json)
+
+[Extended Data](ext_articles/cf73a3b8.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ It was reported that the girl's elder brother had also succumbed to epilepsy a f
 ◼️
 
 [Data](articles/e022c72a.json)
+
+[Extended Data](ext_articles/e022c72a.ext.json)
 
 ---
 
@@ -2285,21 +2309,5 @@ Being a woman is a profound journey, marked by the diverse roles of daughter, wi
 [Data](articles/5699ed7b.json)
 
 [Extended Data](ext_articles/5699ed7b.ext.json)
-
----
-
-### Could Party Politics Resolve Ongoing National Crisis in Sri Lanka?
-
-*2024-03-06 03:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Could-Party-Politics-Resolve-Ongoing-National-Crisis-in-Sri-Lanka/172-278300) · `en`
-
-It has been observed that divisive politics is one of the inborn deficiencies in party politics although political parties are considered as vital components of Parliamentary Democracy. It is not possible to activate representative democracy or parliamentary democracy without political parties.
-
-Professor Von Beyme, Head of the Institute of Political Science at the University of Heidelberg, in his book titled “Political Parties in Western Democracies” has pointed out that “political parties are often defined as power oriented organizations aiming at governmental responsibilities without accepting a share in the burden of running a government which pursue the goal of placing their avowed representatives in governmental position”.
-
-...
-
-[Data](articles/58f02c67.json)
-
-[Extended Data](ext_articles/58f02c67.ext.json)
 
 ---

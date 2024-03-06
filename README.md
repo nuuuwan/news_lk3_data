@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 13:02:55**
+As of **2024-03-06 13:17:31**
 
 ## Newspaper Stats
 
-*Scraped **11,203** Articles*
+*Scraped **11,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 943
+adalk | 945
 adaderanalk | 1,366
 tamilmirrorlk | 1,366
 virakesarilk | 1,522
 dailymirrorlk | 1,711
-adaderanasinhalalk | 1,748
+adaderanasinhalalk | 1,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,195 (99.9%) of 11,203 articles have been extended.
+11,203 (100.0%) of 11,207 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,6 +58,22 @@ Dr Schober said: “We were able to take blood samples ourselves when the man re
 
 [Data](articles/1186a76f.json)
 
+[Extended Data](ext_articles/1186a76f.ext.json)
+
+---
+
+### පාසලේ උදෑසන රැස්වීමේදී  කලාන්තය සෑදී වැටීමෙන් ශිෂ්‍යාවක් මරුට
+
+*2024-03-06 12:51:55* · [`adalk`](https://www.ada.lk/breaking_news/පාසලේ-උදෑසන-රැස්වීමේදී--කලාන්තය-සෑදී-වැටීමෙන්-ශිෂ්‍යාවක්-මරුට/11-408448) · `si`
+
+කලවාන මීපාගම ජයන්ති මහා විද්‍යාලයේ ඉගෙනුම ලබන ශිෂ්‍යාවක් කලාන්තය සෑදී බිම ඇද වැටීමෙන්  අද (06) වනදා  මියගොස් ඇති බව කලවාන පොලිසිය පැවසීය .
+
+මෙලෙස මියගොස් ඇත්තේ කලවාන දකුණ කුකුළේගම  පදිංචි දිසානායක මුදියන්සේලාගේ ඉමල්කා සත්සරණි   නැමැති 13   හැවිරිදි පාසල් ශිෂ්‍යාවකි. ඇය එම පාසලේ 08 වන ශ්‍රේණියේ ඉගෙනුම ලබමින් සිටින ශිෂ්‍යාවකි. ඇය පාසලේ උදෑසන රැස්වීමේදී  කලාන්තය සෑදී  වැටී ඇති අතර පසුව ඇය කලවාන මූලික රෝහල වෙත ඇතුලත් කර තිබේ. රෝහල වෙත ඇතුළත් කරන විටත් ඇය මියගොස් සිටි බව රෝහල් ප්‍රකාශකකු පැවසීය.ඇයගේ දහහතර හැවිරිදි  වැඩිමල් සහෝදරයාද පසුගිය කාලයේ  වලිප්පු රෝගය සැදී මියගොස් තිබේ. එම පවුලේ සිටි දරුවන් දෙදෙනා මෙම දරුවන් වන අතර කලවාන මූලික රෝහල වෙත පැමිණි මියගිය ශිෂ්‍යාවගේ මව පාලනය කර ගැනීමට රෝහල් කාර්‍ය මණ්ඩලයට මහත් පරිශ්‍රමයක් දැරීමට සිදු විය. ඉතා දක්ෂ දරුවන් දෙදෙනෙකු වන මෙම දරුවන් දෙදෙනා අහිමි වීම පිළිබඳව ජයන්ති මහා විද්‍යාලයේ විදුහල්පතිතුමා ඇතුළු ගුරුවරුන් ශිෂ්‍ය ශිෂ්‍යාවන් සිය ශෝකය ප්‍රකාශ කර සිටිති .
+
+◼️
+
+[Data](articles/bf8a6287.json)
+
 ---
 
 ### Ali Sabri Raheem suspended from parliament for one month
@@ -78,25 +94,85 @@ Later, the MP was fined Rs. 7.5 million and released on payment of same while th
 
 [Data](articles/2ec6c2d8.json)
 
+[Extended Data](ext_articles/2ec6c2d8.ext.json)
+
 ---
 
-### மயங்கி விழுந்து இருவர் மரணம்
+### The death of two people
 
 *2024-03-06 12:49:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயங்கி-விழுந்து-இருவர்-மரணம்/175-334277) · `ta`
 
-மயங்கி விழுந்து மரணமடைவோரின் எண்ணிக்கை அதிகரித்துள்ளதாக அறியமுடிகின்றது. இந்நிலையில், புதன்கிழமையும் (06) இதுவரையில் மயங்கிவிழுந்து இருவர் மரணித்துள்ளனர்.
+Two people died on Wednesday: a 13-year-old schoolgirl from Meebagama and a 60-year-old senior lecturer from Sri Jayawardenapura University due to a sudden allergy.
 
-கலவான மீபாகம பிரதேசத்தைச் சேர்ந்த பாடசாலை மாணவி ஒருவர் புதன்கிழமை (06) தரையில் விழுந்து உயிரிழந்துள்ளதாக கலவான பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கலவான பிரதேசத்தை சேர்ந்த இமல்கா சட்சராணி என்ற 13 வயதுடைய பாடசாலை மாணவியே உயிரிழந்துள்ளார்.
+It is known that the number of deaths and deaths have increased. In this case, two people have died on Wednesday (06).
 
-இவர் பாடசாலையில் 08ஆம் தரத்தில் கல்வி கற்கும் மாணவியாவார். மருத்துவமனையில் அனுமதிக்கப்பட்ட போதும் அவர் இறந்துவிட்டதாக மருத்துவமனை செய்தித் தொடர்பாளர் தெரிவித்தார்.
+A schoolgirl from Meebagama, a schoolgirl, fell to the ground on Wednesday (06), a mixed police said.
 
-இந்நிலையில், ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகத்தின் சிரேஷ்ட விரிவுரையாளர் ஒருவர் கடைக்குச் சென்று திரும்பும் போது திடீரென ஏற்பட்ட ஒவ்வாமை காரணமாக வீதியில் விழுந்து மரணமடைந்துள்ளார் என  மஹரகம பொலிஸார் தெரிவித்தனர்.
+A 13 -year -old schoolgirl named Imalka Satsarani, a resident of Kalamana, has died.
 
-...
+He is a student of grade 08 in school. The hospital spokesman said he died despite being admitted to the hospital.
+
+In this case, a senior lecturer at Sri Jayawardenapura University has died on the road due to a sudden allergy when he returns to the shop, Maharagama police said.
+
+The deceased is Deran Ananda Erisuriya (60) from the Arachchi, Pannipitiya area of Pannipitiya.. He said that he is serving as the Senior Lecturer of the Faculty of Applied Science of the University of the University of Sri Jayawardenapura.
+
+It has been found that this is the case when the lecturer went to the market near Maharagama for personal needs.
+
+◼️
 
 [Data](articles/bc9f8f3b.json)
+
+[Extended Data](ext_articles/bc9f8f3b.ext.json)
+
+---
+
+### අලී සබ්‍රි රහීම්ගේ පාර්ලිමේන්තු සේවය මසකට අත්හිටුවයි
+
+*2024-03-06 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194199) · `si`
+
+රත්‍රං තොගයක් සමග කටුනායක ගුවන් තොටුපොළේ දී අත්අඩංගුවට ගෙන පසුව දඩ ගෙවා නිදහස් වූ පාර්ලිමේන්තු මන්ත්‍රී අලී සබ්‍රි රහීම් මහතාට මාසයක් පාර්ලිමේන්තුව අත්හිටුවීමට තීරණය කර ඇති බව කථානායකවරයා දැනුම් දුන්නේය.
+
+ආචාර්ය ධර්ම සහ වරප්‍රසාද පිළිබඳ කමිටුවේ නිර්දේශයක් මත අද (06) දින සිට මාසයක කාලයක් සඳහා එම අත්හිටුවීම ක්‍රියාත්මක වේ.
+
+මීට අමතරව මෙවැනි ක්‍රියා මින් ඉදිරියට සිදුනොකරන ලෙසට ද කථානායකවරයා විසින් තරවටු කර සිටියේය.
+
+◼️
+
+[Data](articles/b0f926a7.json)
+
+---
+
+### කොවිඩ් එන්නත 217 වරක් ලබාගත් පුද්ගලයෙක්
+
+*2024-03-06 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194198) · `si`
+
+ජර්මනියේ 62 හැවිරිදි පුද්ගලයෙක් වෛද්‍ය උපදෙස් නොතකා කොවිඩ් එන්නත 217 වරක් එන්නත් කරගෙන ඇති බව වෛද්‍යවරු පවසති.
+
+එම මාත්‍රා පුද්ගලිකව මිලදී ගෙන මාස 29ක් ඇතුළත එන්නත් කර තිබූ බව එහි දැක්වෙයි.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් පරීක්ෂා කළ විශේෂඥයින් පැවසුවේ එම පුද්ගලයාට එසේ මාත්‍රා විශාල ගණනක් ලබා ගත්තද ඉන් මෙතෙක් ඔහුට අතුරු ආබාධ ඇතිවී නොමැති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/c0ee7750.json)
+
+---
+
+### වායු දුෂණය තරමක් ඉහළට
+
+*2024-03-06 12:30:01* · [`adalk`](https://www.ada.lk/breaking_news/වායු-දුෂණය-තරමක්-ඉහළට/11-408447) · `si`
+
+අද දින උදෑසන 8ට අවසන් වූ පැය 24 ක කාලය තුළ වායු තත්වය විශාල වශයෙන් දුෂණය වී ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි. වැඩිම වායු දුෂණ වාර්තා වී ඇත්තේ කොළඹ දිස්ත්‍රික්කයේ වන අතර එම වායු දූෂණ දර්ශකය 114 ක් ලෙස සටහන් වේ.
+
+මෙම තත්වය සංවේදී පුද්ගලයින්ගේ සෞඛ්‍යමය වශයෙන් අහිතකර බලපෑමක් ඇති විය හැකි බව එම වාර්තාවේ වැඩිදුරටත් දැක්වේ. රටේම වායු දූෂණය දර්ශකයේ 50 සීමාව ඉක්මවා තිබීම සංවේදී පුද්ගලයින්ට බලපෑමක් ඇති වීමේ අවධානමක් පැවතිය හැකි බැවින් මේ පිළිබඳව ජනතාව අවධානය පසුවන්නැයි එම සංවිධානය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+මීට අමතරව වායු දූෂණ දර්ශකය ගාල්ල කරාපිටියේ 90ක්ද පුත්තලම නගරයේ 88 ක්ද කුරුණෑගල සහ අනුරාධපුරය නගරවල 86 වශයෙන්ද සටහන් වේ.
+
+◼️
+
+[Data](articles/b2cadb93.json)
 
 ---
 
@@ -172,6 +248,8 @@ Ratnayake claimed that the fuel prices published on the official page on X, offi
 
 [Data](articles/cef40fa6.json)
 
+[Extended Data](ext_articles/cef40fa6.ext.json)
+
 ---
 
 ### Army training for Pakistan cricket team
@@ -212,19 +290,29 @@ Explaining further, Dr. Mahipala stated that there is a significant increase in 
 
 ---
 
-### අවුරුදු 50ට වැඩිනම් ඇස් පරීක්ෂා කර ගන්න
+### Check the eyes if you work for 50 years
 
 *2024-03-06 12:07:18* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-50ට-වැඩිනම්-ඇස්-පරීක්ෂා-කර-ගන්න/11-408444) · `si`
 
-වයස අවුරුදු 50 ට වැඩි ජනතාව අනිවාර්යයෙන්ම තමන්ගේ අක්ෂි පරීක්ෂා කර ගැනීම ඉතාම වැදගත් වන බවත්, එමෙන්ම තමන්ගේ ඥාතියකුට, පවුලේ කෙනෙකුට ග්ලෝකෝමා රෝගය තිබේ නම් ඒ අයත් අක්ෂි පරීක්ෂා කර ගැනීම ද, ඉතාම වැදගත් වන බව  සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල ප්‍රකාශ කරයි.
+Health Secretary Palitha Mahipala emphasized the importance of eye checks for people over 50, especially those with family history of the disease. The Ministry of Health and National Eye Hospital are focusing on a world free from Glaucoma through education and targeted programs across Sri Lanka. The Vision 2020 and 2030 programs play a crucial role in preventing vision loss and disability.
 
-සෞඛ්‍ය ලේකම්වරයා මේ බව ප්‍රකාශ කරන ලදදේ ඊයේ (05දා) පෙරවරුවේ ජාතික අක්ෂි රෝහලේ දී ග්ලෝකෝමා රෝගය පිලිබදව මාධ්‍ය දැනුවත් කිරීම සදහා පැවති විශේෂ මාධ්‍ය හමුවකට සහභාගී වෙමින්ය.
+🟩
 
-2024 වර්ෂයේ, ලෝක ග්ලෝකෝමා සතිය මාර්තු මස 10 සිට 16 දක්වා ක්‍රියාත්මක කිරීමට සෞඛ්‍ය අමාත්‍යංශය හා ජාතික අක්ෂි රෝහල කටයුතු සිදු කර ඇති අතර, මෙම වර්ෂයේ දී තේමාව වශයෙන් “ග්ලෝකෝමා වලින් තොර ලෝකයක් සදහා එක් වෙමු” යන්න ගෙන ඇත.
+The Secretary to the Ministry of Health, medical Palitha Mahipala said that it is very important for people over 50 years of age and that their relatives have the disease, and is very important.
+
+The Health Secretary was speaking at a special media briefing at the National Eye Hospital on the National Eye Hospital in the National Eye Hospital yesterday (05).
+
+In the year 2024, the Ministry of Health and the National Eye Hospital have taken place on March 10 to 16, and the theme to the theme in this year, "as the theme, we have been taken to a world free from Glocoma."
+
+Measures to educate patients in the National Eye Hospital as well as patients with patients in the island across the country. Galle, Puttalam, Badulla, Kandy, Kandy and JaffnaThese programs are being implemented targeting the districts.
+
+Speaking further, the Health Secretary said that the disease could be introduced as a major cause of the gleen, which can prevent the blindness, leading to blindness, leading to blindness.
 
 ...
 
 [Data](articles/95beceb7.json)
+
+[Extended Data](ext_articles/95beceb7.ext.json)
 
 ---
 
@@ -318,17 +406,25 @@ He told Parliament that the government will also take steps to further reduce th
 
 [Data](articles/252b8692.json)
 
+[Extended Data](ext_articles/252b8692.ext.json)
+
 ---
 
-### வற் பட்டியலில் இருந்து நீக்கப்படும் பொருட்களின் விபரம்
+### Dirt
 
 *2024-03-06 11:43:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வற்-பட்டியலில்-இருந்து-நீக்கப்படும்-பொருட்களின்-விபரம்/150-334272) · `ta`
 
-புத்தகங்கள், பாடசாலை உபகரணங்கள், மருந்து மற்றும் சுகாதார உபகரணங்கள் போன்ற பொருட்கள், வற் வரிப்பட்டியலில் இருந்து நீக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க , புதன்கிழமை   (06) பாராளுமன்றத்தில் உரையாற்றிய போது  தெரிவித்துள்ளார் .
+President Ranil Wickremesinghe announced on Wednesday that books, school equipment, pharmaceuticals, and health equipment will be exempted from taxes.
+
+🟩
+
+President Ranil Wickremesinghe, speaking to Parliament on Wednesday (06), said that books, school equipment, pharmaceuticals and health equipment will be removed from the tax list.
 
 ◼️
 
 [Data](articles/1873a58d.json)
+
+[Extended Data](ext_articles/1873a58d.ext.json)
 
 ---
 
@@ -369,6 +465,8 @@ US and British forces have targeted Houthi weapons and infrastructure in respons
 ...
 
 [Data](articles/065908a9.json)
+
+[Extended Data](ext_articles/065908a9.ext.json)
 
 ---
 
@@ -1328,13 +1426,13 @@ The Leader, the Leader of the Leader, the leaders of the leaders and their suppo
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
+In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
+
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
-
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -2155,107 +2253,5 @@ Being a woman is a profound journey, marked by the diverse roles of daughter, wi
 [Data](articles/be37a38b.json)
 
 [Extended Data](ext_articles/be37a38b.ext.json)
-
----
-
-### Yall. Sainamurali Nallai, who served as the Indian Deputy Ambassador, met with the Brahmacharya Swamis
-
-*2024-03-06 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178017) · `ta`
-
-Sainamurali Nallai, Indian Deputy Ambassador, met with Brahmacharya Swamis and Jaffna Indian Vice-Chancellor Saimurali at the Athena Guru's Vastalam in Nallur. Discussions focused on changing religious customs among the youth and future of religious Siddhartha. Sarudirumurugan from the Sivaphoomi Foundation and the Indian Ambassador were also present.
-
-🟩
-
-Jaffna Indian Vice -Chancellor Saimurali met on Sunday (4) at the Vastalam of the Athena Guru, located in Nallur.
-
-At this meeting, religious leaders were discussed by the religious leaders about the changing religious outward customs of the younger community, and the answer to the religious Siddhartha in the future.
-
-Sivaphoomi Foundation Founder, Sarudirumurugan and Indian Ambassador were also present.
-
-◼️
-
-[Data](articles/818b3580.json)
-
-[Extended Data](ext_articles/818b3580.ext.json)
-
----
-
-### 2024-03-05 (Tuesday)
-
-### Facebook and Instagram restored after major outages
-
-*2024-03-05 23:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97757/facebook-and-instagram-restored-after-major-outages) · `en`
-
-Meta says it has resolved a “technical issue” which caused Facebook, Messenger and Instagram to go down.
-
-Hundreds of thousands of users worldwide were unable to access them for around two hours on Tuesday.
-
-People trying to log onto the websites and apps were finding error messages and were unable to refresh their feeds as normal.
-
-Meta also apologised to those who had been affected, saying it resolved the problem as quickly as it could.
-
-Tracking website Downdetector indicated the outages had affected multiple countries.
-
-Meta’s platforms are some of the most popular in the world. Facebook has three billion active monthly users, while Instagram is expected to hit 1.4 billion worldwide later this year.
-
-Threads, its rival to Twitter, that was launched in 2023, also reported outages. WhatsApp - which Meta also owns - was unaffected.
-
-The biggest outage Meta experienced was in 2021, when founder Mark Zuckerberg apologised for the disruption caused.
-
-...
-
-[Data](articles/96593f6f.json)
-
-[Extended Data](ext_articles/96593f6f.ext.json)
-
----
-
-### UN team finds evidence of sexual violence by Hamas since Oct. 7
-
-*2024-03-05 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97756/un-team-finds-evidence-of-sexual-violence-by-hamas-since-oct-7) · `en`
-
-The United Nations has found “reasonable grounds” to conclude that Hamas committed sexual violence during its Oct. 7 attack in Israel, and said there are indications such violence continues to be carried out against those being held hostage by the group.
-
-A UN team that investigated the allegations against Hamas, which is designated a terrorist group by the United States and the European Union, received what it called “clear and convincing information” that women and children held in captivity were subjected to rape, torture and inhumane treatment.
-
-The team reviewed more than 5,000 photos and 50 hours of footage of the attacks, as well as conducting interviews with dozens of Israeli officials. It said the true prevalence of sexual violence during the attack and afterward “may take months or years to emerge and may never be fully known.”
-
-...
-
-[Data](articles/e9cc8e99.json)
-
-[Extended Data](ext_articles/e9cc8e99.ext.json)
-
----
-
-### Railway station servants attacked foreign tourists
-
-*2024-03-05 23:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178016) · `ta`
-
-Two railway station workers in Nawalapitiya, Sri Lanka, were temporarily suspended for attacking two foreign tourists traveling from Colombo to Badulla. The incident is under investigation.
-
-🟩
-
-Transport Minister Bandula Gunawardena said that two workers of the railway station have been temporarily suspended for attacking two foreign tourists at the Nawalapitiya railway station.
-
-Two tourists traveling from Colombo to Badulla to Badulla have been attacked at the Nawalapitiya railway station.
-
-Two persons involved in the incident have been temporarily suspended as investigations are underway under the leadership of the Nawalapitiya Railway Station.
-
-It is reported that the attack has been attacked by tourists allegedly visiting the UK.
-
-Tourists have boarded the first class in Peradeniya to travel to Ella.
-
-Only one of the two tourists had a ticket for the ticket examination conducted there.
-
-The Railway Controller has been working to take the tourists on the train.. Following their opposition, the Navalapitiya Railway Station Administration has been informed.
-
-Since then, a group of employees have beaten the tourists on the train.
-
-◼️
-
-[Data](articles/6d4ca595.json)
-
-[Extended Data](ext_articles/6d4ca595.ext.json)
 
 ---

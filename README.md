@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 02:17:45**
+As of **2024-03-07 02:33:57**
 
 ## Newspaper Stats
 
-*Scraped **11,350** Articles*
+*Scraped **11,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 591
 islandlk | 601
 dailyftlk | 603
 adalk | 959
-tamilmirrorlk | 1,379
+tamilmirrorlk | 1,380
 adaderanalk | 1,383
 virakesarilk | 1,553
 dailymirrorlk | 1,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,349 (100.0%) of 11,350 articles have been extended.
+11,350 (100.0%) of 11,351 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Held on 3 March at the prestigious Shangri-La Colombo, this landmark event coinc
 ...
 
 [Data](articles/feeff466.json)
+
+[Extended Data](ext_articles/feeff466.ext.json)
 
 ---
 
@@ -195,6 +197,24 @@ The event to launch the platform, which will mark a new era of empowerment and o
 [Data](articles/651682f9.json)
 
 [Extended Data](ext_articles/651682f9.ext.json)
+
+---
+
+### ’பாதை வெற்றி உறுதியாகிறது’
+
+*2024-03-07 01:03:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதை-வெற்றி-உறுதியாகிறது/175-334307) · `ta`
+
+அரசாங்கம் முன்னெடுக்கும் வேலைத்திட்டங்களின் பலனாக நாட்டின் பொருளாதாரம் வலுவடைந்திருப்பதாகவும், எதிர்காலத்தில் மக்களுக்கு மேலும் பல நிவாரணங்களைப் பெற்றுகொடுக்க எதிர்பார்த்திருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அந்த செயற்பாடுகள் அனைத்தும்அறிவியல் முறைமைகளுக்கு அமைய, படிப்படியாக முன்னெடுக்கப்பட்டு வருவதாகவும், அதிகாரத்திற்காக ஒரு போதும் தான் பொய் சொல்லவில்லை என்பதோடு,  அதிகாரத்திற்காக அன்றி நாட்டை மீளக்கட்டியெழுப்புவதே தனது நோக்கமாகும்எனவும் குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க புதன் கிழமை (06) பாராளுமன்றத்தில் ஆற்றிய விசேட உரையில் இவ்வாறு கூறினார்.
+
+சிலஅரசியல் குழுக்கள் அதிகாரத்தைப் பெற்றுகொள்ளும் நோக்கில் யதார்த்தத்தை மறந்துவிட்டு, கற்பனைக்கதை சொல்கிறார்கள் என சுட்டிக்காட்டிய ஜனாதிபதி,  இன்று நாட்டின் முன்பிருக்கும் பிரச்சனைகளுக்கு, சில்லறைத் தனமான தீர்வுகள்இல்லை என்றும், அவ்வாறான தீர்வுகளால் நாட்டின் பொருளாதாரத்தை மீளமைக்க முடியாதென்பதை அடிப்படை பொருளாதார அறிவுள்ளவர்கள் அறிவர் எனவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/41bc4ee2.json)
 
 ---
 
@@ -2287,21 +2307,5 @@ The father of the victim has been arrested by the Ratnapura Police.
 [Data](articles/5b713eec.json)
 
 [Extended Data](ext_articles/5b713eec.ext.json)
-
----
-
-### Police disperse IUSF protest in Punchi Borella
-
-*2024-03-06 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-disperse-IUSF-protest-in-Punchi-Borella/108-278359) · `en`
-
-Colombo, March 6 (Daily Mirror) -Police used water cannons to disperse a group of students participating in a protest march organized by the Inter-University Students' Federation at Punchi Borella.
-
-Two students, including the convener of the Inter-University Students' Federation Madhushan Chandrajit, have been arrested.
-
-◼️
-
-[Data](articles/4299e29b.json)
-
-[Extended Data](ext_articles/4299e29b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 22:17:37**
+As of **2024-03-06 22:33:32**
 
 ## Newspaper Stats
 
-*Scraped **11,323** Articles*
+*Scraped **11,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ economynextcom | 591
 dailyftlk | 593
 islandlk | 601
 adalk | 958
-tamilmirrorlk | 1,376
+tamilmirrorlk | 1,377
 adaderanalk | 1,382
-virakesarilk | 1,545
+virakesarilk | 1,547
 dailymirrorlk | 1,728
-adaderanasinhalalk | 1,771
+adaderanasinhalalk | 1,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,315 (99.9%) of 11,323 articles have been extended.
+11,323 (100.0%) of 11,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### හිටපු පොලිස් ස්ථානාධිපතිට වැඩ වරදියි
+
+*2024-03-06 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194223) · `si`
+
+කල්පිටිය පොලිස් ස්ථානයේ හිටපු පොලිස් ස්ථානාධිපතිවරයා මාර්තු මස 13 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+ආධුනික පොලිස් කොස්තාපල්වරියකට අතවර කිරීමේ චෝදනාව යටතේ සැකකාර හිටපු ස්ථානාධිපති අද (06) පුත්තලම මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+
+පැමිණිලි පාර්ශ්වයට තර්ජනය කිරීම සහ බළපෑම් කිරීමේ චෝදනාව හේතුවෙන් වින්දිතයින් ආරක්ෂා කිරීමේ පනතේ ප්‍රතිපාදන ප්‍රකාරව පුත්තලම මහෙස්ත්‍රාත් අයෝමා විමලරත්න විනිසුරුවරිය මෙම නියෝගය ලබාදී තිබේ.
+
+සැකකාර සැකකාර හිටපු ස්ථානාධිපති එම නඩුව කැඳවූ පෙබරවාරි මස 12 වනදා අධිකරණය හමුවේ පෙනී නොසිටි අතර ඔහු වෙනුවෙන් නීතිඥ නියෝජනයක් නොතිබීමද විශේෂත්වයකි.
+
+ඊට පසුදින සැකකාර හිටපු ස්ථානාධිපති මෝසමක් මාර්ගයෙන් අධිකරණය හමුවේ පෙනී සිටි අතර එහිදී ඔහුව රුපියල් ලක්ෂ 5ක ශරීර ඇප මත මුදාහැර තිබුණි.
+
+ඊට අදාළ නඩුව වයඹ පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති කිත්සිරි ජයලත් මහතාගේ අධීක්ෂණය යටතේ කුලියාපිටිය ජ්‍යේෂ්ඨ පොලිස් අධිකාරී මහේෂ් කුමාරසිංහ මහතාගේ ප්‍රධානත්වයෙන් විශේෂ විමර්ශන කණ්ඩායමක් විසින් පවත්වාගෙන යනු ලබයි.
+
+...
+
+[Data](articles/594a5197.json)
+
+---
+
+### வடமாகாணத்தில் சூரிய மின்கல திட்டம் : சீனா - இந்தியாவுக்கு அனுமதி வழங்கவில்லை - மின்சாரத்துறை அமைச்சர்
+
+*2024-03-06 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178081) · `ta`
+
+இந்திய அரசாங்கத்தின் நிதியுதவியின் கீழ் வடக்கு மாகாணத்தில் முன்னெடுக்கப்படும் மின் உற்பத்தி அபிவிருத்தியால் அனலைத் தீவு,நெடுந்தீவு மற்றும் நயினாத்தீவு பகுதிகளில் வாழும் மக்கள் பயனடைவார்கள். வடக்கு மாகாணத்தில் சூரிய மின்கல திட்டத்துக்கு சீனாவுக்கும், இந்தியாவுக்கும் அனுமதி வழங்கப்படவில்லை என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை இடம்பெற்ற அமர்வின் போது  பாராளுமன்ற உறுப்பினர்  அத்துரலியே ரத்ன தேரர் முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+வடக்கு மாகாணத்தில் சீன நிறுவனத்துக்கு  சூரிய மின்கல திட்டம் வழங்கப்படவுமில்லை, சீன நிறுவனம் அவ்வாறான கோரிக்கைகள் எதனையும் விடுக்கவில்லை. அதேபோல் வடக்கு மாகாணத்தில் சூரிய மின்கல திட்டத்தை முன்னெடுக்க அதானி நிறுவனத்துக்கு அனுமதி வழங்கப்படவில்லை.
+
+...
+
+[Data](articles/76f04c90.json)
+
+---
+
+### ராவண லங்கா நியூஸ் இணையதள ஆசிரியர் சிஐடியினரால் கைது!
+
+*2024-03-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178122) · `ta`
+
+உரிமம் இன்றி இணையதளம் நடத்தி, இராணுவத் தளபதி மற்றும் இராணுவ உயர் அதிகாரிகளை அவமதிக்கும் வகையில் செய்தி வெளியிட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட இணையதள ஆசிரியரை எதிர்வரும் 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்க கொழும்பு கோட்டை நீதிமன்றம் புதன்கிழமை (6) உத்தரவிட்டது.
+
+குற்றப் புலனாய்வுத் திணைக்களத்தின் கணினி குற்றப் புலனாய்வுப் பிரிவு அதிகாரிகளால் கைது செய்யப்பட்ட கல்கந்தே புரன்வத்தலகே நிஸங்கவே இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+சந்தேக நபர் ராவண லங்கா நியூஸ் என்ற இணையத்தளத்தை நடத்தி வருவதாகவும், அவர் வெளியிட்டுள்ள செய்திகள் தேசிய பாதுகாப்பு மற்றும் பொதுமக்களின் பாதுகாப்புக்கு அச்சுறுத்தலாக உள்ளதாகவும் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/1fc06468.json)
+
+---
+
+### நாட்டில் இறப்பு வீதம் அதிகரித்தது ; பிறப்பு வீதம் குறைந்தது
+
+*2024-03-06 21:37:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இறப்பு-வீதம்-அதிகரித்தது-பிறப்பு-வீதம்-குறைந்தது/175-334304) · `ta`
+
+பொருளாதார பாதிப்பினால்  நாட்டில் இறப்பு வீதம் உயர்வடைந்து, பிறப்பு வீதம் குறைவடைந்துள்ளது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அசோக அபேசிங்க தெரிவித்தார்.
+
+பொருளாதாரப் பாதிப்பில் இருந்து மீண்டு விட்டோம் என அரசாங்கம் குறிப்பிடுகிறது. ஆனால் சமூக கட்டமைப்பில் மக்கள் வாழும் போராட்டத்தை எதிர்கொண்டுள்ளார்கள் எனவும் குறிப்பிட்டார்.
+
+பாராளுமன்றத்தில் இன்று (6) இடம்பெற்ற வரித்திருத்தச் சட்டமூலங்கள் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டில் 57 இலட்சம் குடும்பங்கள் உள்ள நிலையில் அவர்களில் 91 சதவீதமானோரின் வாழ்க்கை  செலவுகள்  உயர்வடைந்துள்ளன.
+
+பெரும்பாலான குடும்பங்கள் மூன்று வேளை உணவை இரண்டு வேளையாக மட்டுப்படுத்திக் கொண்டுள்ளார்கள். ஆனால் நாடு இயல்பு நிலைக்கு திரும்பி விட்டது என்று அரசாங்கம் குறிப்பிடுகிறது.
+
+2022ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2023ஆம் ஆண்டு மொத்த சனத்தொகை வளர்ச்சி 1 இலட்சத்து 44 ஆயிரத்தால் வீழ்ச்சியடைந்துள்ளது. பிறப்பு வீதமும், குறைவடைந்துள்ளது. பொருளாதார பாதிப்பால் பல்வேறு நெருக்கடிகளுக்கு முகம் கொடுத்தவர்களில் 7120 பேர் உயிரிழந்துள்ளார்கள்.
+
+...
+
+[Data](articles/a84065a2.json)
+
+---
 
 ### Govt has commenced essential development projects - State Minister
 
@@ -1042,6 +1118,8 @@ The yield curve is now sloping upwards and more 12 month bills have been sold ov
 
 [Data](articles/3d2e47c3.json)
 
+[Extended Data](ext_articles/3d2e47c3.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up, LOLC Finance trade pushes turnover past 2.2bn
@@ -1063,6 +1141,8 @@ Companies contributing to the All Share Price Index in the day were Commercial B
 ...
 
 [Data](articles/88b1585d.json)
+
+[Extended Data](ext_articles/88b1585d.ext.json)
 
 ---
 
@@ -1554,6 +1634,8 @@ Speaking in parliament Wednesday March 06 morning, MP de Silva asked President W
 
 [Data](articles/51b44dec.json)
 
+[Extended Data](ext_articles/51b44dec.ext.json)
+
 ---
 
 ### Underworld figure ‘Manna Ramesh’ arrested in Dubai
@@ -1661,6 +1743,8 @@ The centers will offer women suffering from domestic abuse, who have nowhere to 
 ...
 
 [Data](articles/71b26960.json)
+
+[Extended Data](ext_articles/71b26960.ext.json)
 
 ---
 
@@ -2160,6 +2244,8 @@ Duty, EV allowances to Sri Lanka’s migrant workers who remit via official chan
 
 [Data](articles/491c2b7e.json)
 
+[Extended Data](ext_articles/491c2b7e.ext.json)
+
 ---
 
 ### Seven men arrested in India over alleged gang-rape of tourist
@@ -2245,117 +2331,5 @@ The accident had occurred between 7.15 am today (06).
 [Data](articles/983230ae.json)
 
 [Extended Data](ext_articles/983230ae.ext.json)
-
----
-
-### Matale district records lowest vulnerability despite persistent economic challenges
-
-*2024-03-06 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matale-district-records-lowest-vulnerability-despite-persistent-economic-challenges/108-278352) · `en`
-
-Matale, March 6 (Daily Mirror) - Matale District in Sri Lanka ranked the lowest in Sri Lanka’s Multidimensional Vulnerability Index (MVI) compared to national averages, recent data by the United Nations showed.
-
-With an MVI of 0.142, Matale has demonstrated commendable resilience against multidimensional vulnerabilities, notably lower than the national average of 0.206, according to the MVI District Profiles launched by the United Nations Development Program (UNDP), Monday.
-
-The MVI, is an indicator that attempts to capture the intersecting and overlapping vulnerabilities households face, beyond measures of financial vulnerability considering educational, health-related, and other kinds of vulnerabilities.
-
-Despite the encouraging statistics, the district still grapples with significant economic challenges, particularly in employment and digital accessibility.
-
-...
-
-[Data](articles/bd54ee78.json)
-
-[Extended Data](ext_articles/bd54ee78.ext.json)
-
----
-
-### I have never lied for power: politicians who dream of power do not understand the reality - the president
-
-*2024-03-06 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178068) · `ta`
-
-It seems you've provided a detailed overview of the economic and social situation in Sri Lanka, including various economic indicators, government policies, and the impact of these on the population. Your message touches on a wide range of topics, from economic recovery and debt management to social welfare programs and the role of the government in addressing the economic crisis.
-
-
-
-Given the breadth and depth of the information you've shared, it's clear that the government and other stakeholders are working on multiple fronts to address the economic challenges faced by the country. This includes efforts to stabilize the economy, manage debt, improve social welfare, and modernize various sectors of the economy.
-
-
-
-Your message also highlights the importance of collective action and the need for a comprehensive approach to address the economic crisis. It underscores the government's commitment to rebuilding the country and improving the lives of its citizens, despite the challenges.
-
-
-
-If you have specific questions or need further analysis on any of the points you've mentioned, please let me know!
-
-🟩
-
-The President said that I have never lied for power and that I am still trying to rebuild the country, not for power, and that politicians who dream of power do not understand the reality.
-
-President Ranil Wickremesinghe said that the country's economy was strengthened as a result of the government's programs and that all the activities were being carried out in the future, and that all the activities were being carried out in the future.
-
-President Ranil Wickremesinghe made this statement during a special speech in Parliament today (06).
-
-The president pointed out that some political groups have forgotten the reality and tell the fantasy, and that the problems of the country today have no retail solutions, and that the basic economists know that such solutions cannot restore the economy of the country.
-
-...
-
-[Data](articles/b987c529.json)
-
-[Extended Data](ext_articles/b987c529.ext.json)
-
----
-
-### Handwriting at home of former finance minister
-
-*2024-03-06 13:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-நிதியமைச்சர்-வீட்டில்-கைவரிசை/175-334279) · `ta`
-
-Thieves broke into former Finance Minister Ronnie de Mellin's home, stealing items. Police are investigating.
-
-🟩
-
-Former Finance and Planning Minister Ronnie de Mellin's house on Tuesday night (05), a group of thieves, have stolen many items and assets, police said.
-
-The handcuffs are shown in the house located in front of the 103 post office.
-
-The guards of the Tevinuwara house have lodged a complaint at the Kandara Police Station and have lodged a complaint with Ronnie de Mellin's Private Secretary KH Wilpred and Inspector General of Police, Deshpandu.
-
-Another police team is conducting investigations in addition to the Kandarai police on the special orders of the Inspector General of Police.
-
-The funeral of the late Ronnie de Mellin was a week after the funeral.
-
-◼️
-
-[Data](articles/7a270840.json)
-
-[Extended Data](ext_articles/7a270840.ext.json)
-
----
-
-### A village is disturbed by the police boss's mischievous conduct
-
-*2024-03-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194201) · `si`
-
-A village in Puttalam is disturbed by police misconduct, leading to assaults and unrest. Two residents were hospitalized, and the Mundalama Police were called to manage the situation. The Udappuwa Police, including the OIC of the CID, are under investigation for their actions.
-
-🟩
-
-Two residents of the area were admitted to the Chilaw Hospital with the assault conducted by the Udappuwa police officer in Puttalam.
-
-The Mundalama Police were taken to control the unrest with the attack.
-
-The Udappuwa Police, the OIC of the Udupuwara Police and the CID should be in the Udappuwa area in the Udappuwa area in Puttalam.
-
-At the time of the attack, the officer has violently bowing the people to the people.
-
-The OIC of the Udappuwa Police Criminal Investigation Division (CID) is assaulted by the two other police officers who had come to the residents of the area.
-
-The police officers were summoned to control the unrest in the Udappuwa area.
-
-"Headlights hit a car. VIP Lite has been stopped. The police came in the car. I and there were more people. We said not to beat the headlights to dim. Then we left the sound. I went to the fish wal. Two policemen came. They're the Udu Police. The rip was hit by my ear. I was dragged. When asked why they are smiling, we can bow down to us. "
-
-...
-
-[Data](articles/b5c06ef7.json)
-
-[Extended Data](ext_articles/b5c06ef7.ext.json)
 
 ---

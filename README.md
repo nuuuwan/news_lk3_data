@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 17:17:45**
+As of **2024-03-06 17:34:54**
 
 ## Newspaper Stats
 
-*Scraped **11,271** Articles*
+*Scraped **11,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,58 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 952
+adalk | 953
 tamilmirrorlk | 1,375
 adaderanalk | 1,378
 virakesarilk | 1,534
-dailymirrorlk | 1,721
+dailymirrorlk | 1,722
 adaderanasinhalalk | 1,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,268 (100.0%) of 11,271 articles have been extended.
+11,271 (100.0%) of 11,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### කාසියේ වාසිය බංග්ලාදේශයට
+### Amassadors of six countries meet Anura Kumara
+
+*2024-03-06 17:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Amassadors-of-six-countries-meet-Anura-Kumara/108-278361) · `en`
+
+Colombo, March 6 (Daily Mirror)- Ambassadors of six countries met leader of the National People's Power Anura Kumara Dissanayake at the head office of the JVP this afternoon (6), party sources said.
+
+Ambassador of the State of Palestine Dr. Zuhair M.H. Dar Zaid, Ambassador of the Republic of Turkey Ms. R. Demet Sekercioglu, High Commissioner of the Republic of Bangladesh Tareq M.D. Ariful Islam, Ms. Dewi Gustina Tobing, Ambassador of the Republic of Indonesia, Heru Prayitno, Head of Chancery of the Embassy, Badli Hisham Bin Adam Malaysian High Commissioner and Ms. Fathimath Ghina, Acting Ambassador of the Republic of Maldives attended the meeting.
+
+National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr. Rizvie Salih and Muditha Nanayakkara represented the NPP.
+
+...
+
+[Data](articles/11a9d785.json)
+
+---
+
+### Bangladesh to the coin
 
 *2024-03-06 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194214) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර දෙවන 20-20 තරගය සිලට් හිදී අද (06) පැවැත්වෙයි.
+Bangladesh won the coin toss in the 2nd 20-20 match against Sri Lanka Tourism, deciding to bat first. Sri Lanka is predicted to win the series 1-0.
 
-එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+🟩
 
-තරග 3කින් සමන්විත මෙම තරගාවලියේ 1 - 0ක් ලෙස පෙරමුණ ගෙන සිටින්නේ ශ්‍රී ලංකා කණ්ඩායමය.
+The second 20-20 match between the Sri Lanka Tourism and Bangladesh will be held today (06) at Sylt.
+
+The Bangladesh team won the advantage of the coin and they decided to give the Sri Lankan team first to bat first.
+
+Sri Lanka team is forecasting as 1 - 0 in the three-match series.
 
 ◼️
 
 [Data](articles/4979f70e.json)
+
+[Extended Data](ext_articles/4979f70e.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ When the petitions were taken up again before Appeals Court Judge D. N. Samarako
 ...
 
 [Data](articles/87b4995d.json)
+
+[Extended Data](ext_articles/87b4995d.ext.json)
 
 ---
 
@@ -102,15 +126,21 @@ Police investigations have revealed that a person who had been waiting for him h
 
 ---
 
-### අන්තරේට බොරැල්ලෙදී ජල ප්‍රහාරයක්  කැඳවුම්කරු අත්ඩංගුවට
+### Convener arrested in Borella to Borella
 
 *2024-03-06 16:50:29* · [`adalk`](https://www.ada.lk/breaking_news/අන්තරේට-බොරැල්ලෙදී-ජල-ප්‍රහාරයක්--කැඳවුම්කරු-අත්ඩංගුවට/11-408458) · `si`
 
-බොරැල්ල මංසන්ධියේදී අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බල මණ්ඩලය සංවිධානය කළ විරෝධතා පා ගමනකට පොලීසිය ජල ප්‍රහාරයක් එල්ලකර තිබේ. මේ අතරතුර අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත් අත්ඩංගුවට ගත් බව පොලිසිය පවසයි.
+Police arrested Madushan Chandrajith, convener of the Inter University Students Federation, during a protest march at Borella Junction.
+
+🟩
+
+Police attacked a protest march organized by the Inter University Students Federation at Borella Junction. Meanwhile, convener of the Inter University Students Federation Madushan Chandrajith has been arrested, police said.
 
 ◼️
 
 [Data](articles/f2fcfc5a.json)
+
+[Extended Data](ext_articles/f2fcfc5a.ext.json)
 
 ---
 
@@ -421,6 +451,24 @@ The Nanuoya police and the owner have asked the public to immediately report to 
 [Data](articles/08e1a09f.json)
 
 [Extended Data](ext_articles/08e1a09f.ext.json)
+
+---
+
+### ජපු‌රේ ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයෙක් ඇද වැටී මරුට
+
+*2024-03-06 15:51:46* · [`adalk`](https://www.ada.lk/breaking_news/ජපු‌රේ-ජ්‍යෙෂ්ඨ-කථිකාචාර්යවරයෙක්-ඇද-වැටී-මරුට/11-408453) · `si`
+
+වෙළඳ සැලකට ගොස් යළි එමින් සිටියදී හදිසියේ ඇති වූ අසාත්මිකතාවක් හේතුවෙන්ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයේ ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයෙකු මහමග ඇදවැටි ජීවිතක්ෂයට පත්ව ඇතැයි මහරගම පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ පන්නිපිටිය ඇරැව්වල , රත්න මාවතේ , අංක 45 /  D හි පදිංචි එදිරිසූරිය ආරච්චිගේ ටෙරන්ස් ආනන්ද ඉදිරිසූරිය (60) ශ්‍රී ජයවර්ධනපුර විශ්ව විද්‍යාලයේ පරිගණක විද්‍යා අධ්‍යයන අංශයේ ව්‍යවහාරික විද්‍යා පීඨයේ ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයෙකු බව පොලිසිය කියයි.
+
+කථිකාචාර්යවරයා පෞද්ගලික අවශ්‍යතාවයක් සඳහා මහරගම නගරයට ආසන්නයේ පිහිටි වෙළඳ සැලකට ගොස් යළි නිවසට යාම සඳහා මහරගම පිළියන්දල (341) බස් මාර්ගයට පැමිණ ඇරව්වල දෙසට යමින් සිටියදී එක් වරම ඇති වූ අසාත්මිකතාවක් හේතුවෙන් යාබද විදුලි කණුවක් අල්ලාගෙන මඳ වේලාවක් සිට පසුව බිම ඇද වැටි අනතුරකට ලක්ව තිබුණි.
+
+පසුව මේ බව දුටු අසල්වාසීන් 1990 සුවසැරිය ගිලන් රථයක් ගෙන්වා රෝහල්ගත කිරීමට යාමේදී එහි සිටි හෙද නිලධාරිනිය කථිකාචාර්යවරයා පරීක්ෂා කොට පවසා ඇත්තේ ඔහු මිය ගොස් ඇති බවයි.
+
+...
+
+[Data](articles/7d30d990.json)
 
 ---
 
@@ -2307,41 +2355,5 @@ The judge also announced that the victim should be given a compensation of Rs.
 [Data](articles/7d0efae1.json)
 
 [Extended Data](ext_articles/7d0efae1.ext.json)
-
----
-
-### Government to obtain debt moratorium from 2023 to 2027: President
-
-*2024-03-06 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-obtain-debt-moratorium-from-2023-to-2027-President/108-278328) · `en`
-
-Parliament March  6 (Daily Mirror)- The government is expecting to obtain a debt moratorium from 2023 to 2027, President Ranil Wickremesinghe announced in Parliament today.
-
-Making a special statement in Parliament, he said the government will resume repaying debts between the period of 2027 and 2042.
-
-"We are expecting to obtain a debt moratorium from 2023 to 2027. It means that from January 2023 to December 2027. After that, we will repay the debts from 2027 to 2042," he said.
-
-◼️
-
-[Data](articles/d5e059f2.json)
-
-[Extended Data](ext_articles/d5e059f2.ext.json)
-
----
-
-### US now pushes UN to back ‘immediate’ Gaza ceasefire to free hostages
-
-*2024-03-06 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97764/us-now-pushes-un-to-back-immediate-gaza-ceasefire-to-free-hostages) · `en`
-
-The United States on Tuesday revised language in a draft United Nations Security Council resolution to back “an immediate ceasefire of roughly six weeks in Gaza together with the release of all hostages,” according to the text seen by Reuters.
-
-The third revision of the text - first proposed by the U.S. two weeks ago - now reflects blunt remarks by Vice President Kamala Harris. The initial U.S. draft had shown support for “a temporary ceasefire” in the Israel-Hamas war.
-
-The U.S. wants any Security Council support for a ceasefire to be linked to the release of hostages held by Hamas in Gaza. Hamas attacked Israel on Oct. 7, killing 1,200 people and taking 253 hostages, according to Israeli tallies.
-
-...
-
-[Data](articles/259774f3.json)
-
-[Extended Data](ext_articles/259774f3.ext.json)
 
 ---

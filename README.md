@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 16:33:09**
+As of **2024-03-06 16:48:36**
 
 ## Newspaper Stats
 
-*Scraped **11,255** Articles*
+*Scraped **11,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,153 @@ economynextcom | 577
 dailyftlk | 593
 islandlk | 601
 adalk | 950
-tamilmirrorlk | 1,371
-adaderanalk | 1,374
+tamilmirrorlk | 1,375
+adaderanalk | 1,376
 virakesarilk | 1,532
 dailymirrorlk | 1,720
-adaderanasinhalalk | 1,760
+adaderanasinhalalk | 1,761
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,250 (100.0%) of 11,255 articles have been extended.
+11,255 (99.9%) of 11,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### ජම්පටාවීදියේ වැරදුණු කුරුමානම - සිව් දෙනෙක් අත්අඩංගුවට
+### மத்திய வங்கி அலுவலக உதவியாளரின் சம்பளம் ரூ.188,827
+
+*2024-03-06 16:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-அலுவலக-உதவியாளரின்-சம்பளம்-ரூ-188-827/175-334290) · `ta`
+
+மத்திய வங்கியின் மிகக் குறைந்த தரவரிசையில் பணிபுரியும் அலுவலக உதவியாளரின் தரம் 1க்கான மொத்த சம்பளம் 29.53 சதவீதத்தால் அதிகரிக்கப்பட்டு ரூ.188,827 ஆகவுள்ளது என பிரதமர் தினேஷ் குணவர்தன இன்று தெரிவித்தார்.
+
+பிரதி ஆளுநரின் மொத்த சம்பளம் ரூபா 76.97 வீதத்தால் அதிகரிக்கப்பட்டுள்ளதாகவும் அது ரூ. 1,728,419 ஆக உயர்ந்துள்ளதாகவும்  SJB பாராளுமன்ற உறுப்பினர் எஸ்.எம் மரிக்கார் பாராளுமன்றத்தில் எழுப்பிய கேள்விக்கு பிரதமர் பதிலளித்தார்.
+
+மேலும் மத்திய வங்கி ஊழியர்களுக்கு வீட்டுக் கடன்கள், வாகனக் கடன்கள், நலன்புரிக் கடன்கள் மற்றும் மருத்துவ வசதிகள் போன்றவற்றுக்கும் உரிமை உண்டு என்று பிரதமர் கூறினார்.
+
+◼️
+
+[Data](articles/9b887593.json)
+
+---
+
+### බයිඩන් - ට්‍රම්ප් සටන නොවැම්බරයේ
+
+*2024-03-06 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194212) · `si`
+
+ඒ පක්ෂ අපේක්ෂකත්වය සඳහා පැවැත්වෙන මේ ප්‍රාථමික මැතිවරණ කොට්ඨාස එනම් ප්‍රයිමරීස් හි ඩිමොක්‍රටික් පක්ෂයේ පෙරමුණ ගෙන සිටින්නේ වත්මන් ජනාධිපති ජෝ බයිඩන් ය.
+
+අපේක්ෂකත්වය සඳහා රිපබ්ලිකන් පක්ෂය තුළ තරගකාරී තත්ත්වයක් පැවතියත් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඉන් පෙරමුණ ගෙන සිටියි.
+
+ඔහුගේ ප්‍රතිවාදියා වන නිකී හේලි දැනට කොට්ඨාස දෙකක් ජයගෙන තිබුණාය.
+
+එහිදී ඇලබාමා, ඇලස්කා, ආර්කන්සාස්, කැලිෆෝනියා, කොලරාඩෝ, මෙයින්, මැසචුසෙට්, මිනසොටා, උතුරු කැරොලයිනා, ඔක්ලහෝමා, ටෙනිසි, ටෙක්සාස්, යූටා, වර්මොන්ට්, වර්ජිනියා යන ප්‍රාන්ත 15 සඳහා සහ අමෙරිකානු ස්වයං පාලන කලාපයක් වන අමෙරිකානු සමෝවා කලාපය සඳහා ප්‍රාථමික මැතිවරණ පැවැත්වුණි.
+
+ඊට අමතරව අයෝවා ප්‍රාන්තයේ ඩිමොක්‍රටික් ප්‍රාථමික මැතිවරණයේ තැපැල් ඡන්ද විමසීමත් පැවැත්වුණේ ඊයේ ය.
+
+මිලියන සංඛ්‍යාත පිරිසක් ඡන්දය භාවිත කරන මේ සුපිරි අඟහරුවාදා ඡන්දයේ ප්‍රතිඵල දැන් නිකුත් වෙමින් පවතියි.
+
+...
+
+[Data](articles/22f70f9c.json)
+
+---
+
+### மாணவர்கள் மீது நீர்த்தாரைப் பிரயோகம்
+
+*2024-03-06 16:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-மீது-நீர்த்தாரைப்-பிரயோகம்/175-334289) · `ta`
+
+புஞ்சி பொரளையில் பல்கலைக்கழகங்களுக்கு இடையிலான மாணவர் சம்மேளனத்தின் ஏற்பாட்டில் இடம்பெற்ற ஆர்ப்பாட்ட பேரணியில் கலந்து கொண்ட மாணவர்களை கலைக்க பொலிஸார் நீர்த்தாரை பிரயோகித்துள்ளனர்.
+
+பல்கலைக்கழகங்களுக்கு இடையிலான மாணவர் சம்மேளனத்தின் ஒருங்கிணைப்பாளர் மதுஷன் சந்திரஜித் உட்பட இரு மாணவர்கள் இதன்போது கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/5a7be956.json)
+
+---
+
+### UN Food Agency Says Aid Convoy Turned Away By Israel, Looted
+
+*2024-03-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97777/un-food-agency-says-aid-convoy-turned-away-by-israel-looted) · `en`
+
+The UN’s food agency on Tuesday said that its aid convoy had been turned away by Israeli forces at a checkpoint to northern Gaza, after which it was looted by “desperate people”.
+
+The World Food Programme said the 14-truck food convoy waited at the Wadi Gaza checkpoint, inside southeast Gaza, for three hours before being turned away by the Israeli army.
+
+It was the first convoy attempted since the agency halted deliveries to the north of Gaza on February 20, after its convoy of trucks faced gunfire and looting.
+
+At the time, the agency described the situation in northern Gaza as “complete chaos and violence due to the collapse of civil order”.
+
+In Tuesday’s incident, after the trucks were rerouted they were stopped by “a large crowd of desperate people who looted the food”, taking about 200 tons, the WFP said in a statement.
+
+...
+
+[Data](articles/f11d1fd3.json)
+
+---
+
+### தரமற்ற மருந்துகளை கக்கினார் சமன்
+
+*2024-03-06 16:11:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-மருந்துகளை-கக்கினார்-சமன்/175-334287) · `ta`
+
+சுகாதார அமைச்சின் மேலதிக செயலாளர் சமன் ரத்நாயக்க   மாளிகாக்ன நீதவான் லோச்சனி அபேவிக்ரம வீரசிங்க முன்னிலையில் தரமற்ற மருந்துகள் கொள்வனவு தொடர்பான அனைத்து தகவல்களையும் வெளியிட்டு இரகசிய வாக்குமூலம் ஒன்றை அளித்துள்ளார்.
+
+சந்தேகநபரான சமன் ரத்நாயக்கவை நீதிமன்றில் முன்னிலைப்படுத்துமாறு சிறைச்சாலை அத்தியட்சகருக்கு வழங்கப்பட்ட உத்தரவின் பிரகாரம், நீதவான் அறையில்  ஆஜர்படுத்திய பின்னர் அவர் இரகசிய வாக்குமூலம் அளித்துள்ளார்.
+
+◼️
+
+[Data](articles/eaebb38b.json)
+
+---
+
+### Four arrested
 
 *2024-03-06 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194211) · `si`
 
-පසුගිය 25 වනදා ජම්පටාවීදිය ප්‍රදේශයේදී පුද්ගයෙකුට වෙඩිතබා ඝාතනය කිරීමට තැත්කිරීම සම්බන්ධයෙන් වෙඩික්කරු පැමිණි යතුරුපැදියේ පැදිකරු හා ඊට ආධාර අනුබල දුන් පුද්ගලයන් තිදෙනෙකු කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන තිබේ.
+Four, including a motorcycle rider and supporters, arrested in Jampataviya area. Police found an unused firearm. CCTV footage from Wellampitiya area shows the incident. Suspects held for seven days.
 
-එහිදී වෙඩික්කරු පැමිණි යතුරුපැදිය සහ ගිනි අවිය ප්‍රවාහනය කළ ත්‍රිරෝද රථයද සිය භාරයට ගත් පොලීසිය, සැකකරුවකු සතුව තිබී අදාළ අපරාධය සඳහා භාවිත නොකළ වෙනත් ගිනි අවියක් ද සොයාගත් බව පොලීසිය පැවසුවේය.
+🟩
 
-මේ වෙඩික්කරුවන් වෙඩි තැබීමෙන් අනතුරුව වැල්ලම්පිටිය ප්‍රදේශයේදී ගිනි අවිය සැඟවීම සඳහා අදාළ ත්‍රිරෝද රථයට ලබාදෙන අයුරු දැක්වෙන සීසීටීවී දර්ශන පෙළක්ද හමුවී තිබේ.
+The motorcycle motorcyclist and a group of persons who had supported the shot of the Jampataviya area on the 25th of the Jampaviya area have been arrested by the Organized Criminal Investigation Division of the Colombo Crimes Division.
 
-සැකකරුවන් අද අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව දින 7ක් රඳවාගෙන ප්‍රශ්න කිරීමට අධිකරණයට අවසර හිමිවුණි.
+The police, who had transported the motorcycle and the three-wheeler transporting the motorcycle and a three-wheeler, had also found another firearm that had not been used for the crime.
 
-සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන කොළඹ අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂවරයාගේ උපදෙස් මත එම කොට්ඨාසයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඇන්ස්ලම් සිල්වා මහතාගේ අධීක්ෂණය යටතේ  සංවිධානාත්මක අපරාධ අංශයේ වැඩබලන ස්ථානාධිපති රේණුක චතුරංග මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් සිදුකරයි.
+After shooting the shooting shooting, a CCTV display of CCTV areas has been found in the Wellampitiya area.
+
+The suspects were permitted to hold seven days after the suspects were produced in court today.
+
+Registration of the Director of the Colombo Crimes Division, the Organized Criarian OIC of the Organized Crime Division (SLFP) team is under the supervision of the OIC of the OIC of the Colombo Crimes Division.
 
 ◼️
 
 [Data](articles/0e94d7cc.json)
 
+[Extended Data](ext_articles/0e94d7cc.ext.json)
+
 ---
 
-### நானுஓயாவில் முச்சக்கர வண்டி திருட்டு ; பொது மக்களின் உதவியை நாடும் பொலிஸார்
+### Three -wheeler theft in Nanuoya;Police seeking the help of the public
 
 *2024-03-06 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178085) · `ta`
 
-நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட பங்களாஹத்த பகுதியில் வீட்டுக்கு  முன்பாக நிறுத்தி வைக்கப்பட்டிருந்த முச்சக்கர வண்டியினை திங்கட்கிழமை (04) ஆம் திகதி இனந்தெரியாதோரால் திருடப்பட்டுள்ளது. இவ் திருட்டுச் சம்பவம் தொடர்பில் நானுஓயா பொலிஸ் நிலையத்தில் செவ்வாய்க்கிழமை (05) முறைப்பாடு ஒன்றும் பதிவு செய்யப்பட்டுள்ளது.
+A three-wheeler, TVS black CP YS 3772, was stolen from Nanuoya on Monday. The owner reported it to the police on Tuesday. The police are seeking the public's help to find it. Call 0775343893 if you have information.
 
-cp YS 3772 என்ற இலக்கத்தகடு இலக்கத்தைக் கொண்ட டிவிஎஸ் கறுப்பு நிற முச்சக்கர வண்டியினை உரிமையாளர் எரிபொருள் இன்றி தனது வீட்டுக்கு முன் நிறுத்தப்பட்டிருந்ததாக உரிமையாளர் பொலிஸாரிடம்  முறைப்பாடு செய்துள்ளார்.
+🟩
 
-குறித்த முச்சக்கர வண்டி  தொடர்பான தகவல் கிடைத்தால் 0775343893 என்ற இலக்கத்திற்கு அல்லது அருகில் உள்ள பொலிஸ் நிலையத்திற்கு உடனடியாக தெரிவிக்குமாறு நானுஓயா பொலிஸார் மற்றும்  உரிமையாளர்  பொதுமக்களிடம் கேட்டுக்கொண்டுள்ளனர்.
+A three -wheeler parked in front of the Nanuoya Police Division has been stolen on Monday (04). A complaint was lodged at the Nanuoya Police Station on Tuesday (05).
+
+The owner has lodged a complaint with the police that the TVS black three -wheeler, which is a digit digit CP YS 3772, was parked in front of his home without fuel.
+
+The Nanuoya police and the owner have asked the public to immediately report to the nearest police station for 0775343893 if the three -wheeler information is available.
 
 ◼️
 
 [Data](articles/08e1a09f.json)
+
+[Extended Data](ext_articles/08e1a09f.ext.json)
 
 ---
 
@@ -123,6 +221,28 @@ He said the book explains the first experience of the internationally sponsored 
 [Data](articles/146441f1.json)
 
 [Extended Data](ext_articles/146441f1.ext.json)
+
+---
+
+### `சதி` புத்தகம் எழுதுகிறார் கோட்டார்
+
+*2024-03-06 15:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதி-புத்தகம்-எழுதுகிறார்-கோட்டார்/175-334286) · `ta`
+
+2019 நவம்பரில் தான் ஜனாதிபதியாகத் தெரிவு செய்யப்பட்ட காலத்திலிருந்து, சில வெளிநாட்டு சக்திகள் மற்றும் உள்ளூர் கட்சிகள் என்னை ஆட்சியில் இருந்து அகற்றும் நோக்கத்தில் இருந்ததாக முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தெரிவித்தார்.
+
+இன்று (6) வெளியிட்டுள்ள அறிக்கை ஒன்றில் கோட்டாபய ராஜபக்ச இதை குறிப்பிட்டுள்ளார். மேலும்,
+
+"ஜனாதிபதி பதவியில் இருந்து என்னை வெளியேற்றுவதற்கான சதி" என்ற தலைப்பில் புத்தகத்தை வெளியிடுவதாகவும் அறிவித்தார்.
+
+இந்த நாடு சுதந்திரமடைந்த முதல் அறுபது வருடங்களில் ஒருபோதும் அனுபவித்திராத வகையில் இன்று வெளிநாட்டுத் தலையீடும், உள் அரசியலின் சூழ்ச்சியும் இலங்கையில் உள்ளதாக ராஜபக்ச கூறினார்.
+
+தம்மை வெளியேற்றுவதற்கான அரசியல் பிரச்சாரம் இலங்கையின் அரசியலில் ஒரு புதிய அம்சத்தைக் கொண்டுவந்தது என்றும், சுதந்திரம் பெற்றதில் இருந்து தேர்தலுக்குப் பிறகு அமைதியான அதிகாரப் பரிமாற்றங்களை மட்டுமே இந்நாடு அனுபவித்து வந்ததாகவும் அவர் கூறினார்.
+
+எனவே, 2022 ஆம் ஆண்டு நிகழ்வுகள் இந்த நாட்டின் எதிர்காலத்திற்கு கடுமையான தாக்கங்கள் நிறைந்தவை என்று ராஜபக்ச கூறினார்.
+
+...
+
+[Data](articles/c54b7e86.json)
 
 ---
 
@@ -186,21 +306,29 @@ Meanwhile on Friday, the Additional Health Secretary had stated before the court
 
 ---
 
-### මම කිසිදා බලය වෙනුවෙන් අසත්‍ය ප්‍රකාශ කළේ නැහැ
+### I didn't say false for the power of
 
 *2024-03-06 15:38:19* · [`adalk`](https://www.ada.lk/breaking_news/මම-කිසිදා-බලය-වෙනුවෙන්-අසත්‍ය-ප්‍රකාශ-කළේ-නැහැ/11-408451) · `si`
 
-මල නොතලා රොන් ගන්නා ආකාරයෙන් ජනතාවගෙන් බදු අය කරගත යුතුය යන්න සමාන්‍ය කියමනක් තිබෙන බවත්, එහෙත් මල් තලමින් රොන් ගන්න අවස්ථාවනුත් තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe discussed economic stability and taxation in Parliament, acknowledging criticism of economic policies. He highlighted the economic recovery, increased foreign debt reduction, and the strengthening of the rupee. He also mentioned efforts to attract investment, modernize agriculture, and improve social security. Despite challenges, he emphasized the importance of systematic planning and the need to avoid returning to economic instability.
 
-පාර්ලිමේන්තුවේදී අද (06දා) විශේෂ ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-අද අපේ රට කිසියම් ආර්ථික ස්ථාවරත්වයකට පත්ව ඇති බව හැමෝම පිළිගන්නවා. නමුත් එසේ පිළිගන්නා බවක් නොපෙන්වා අප ක්‍රියාත්මක කරන වැඩපිළිවෙල විවේචනය කරන අයත් ඉන්නවා. ආර්ථිකයේ ශක්තිමත් බවක් පෙනෙන්න තිබුණත් එය ජනතාවට දැනෙන්නෙ නෑ කියලා සමහරු චෝදනා කරනවා. ජනතාවට අනවශ්‍ය ලෙස බදු බර පටවලා තියෙන බවත් කියනවා. විදුලි බිල, ඉන්ධන මිල ඕනෑවට වඩා ඉහළ දමා ඇති බව ද කියනවා.
+President Ranil Wickremesinghe said that there is a general saying that the flowers should be taxed from the people who do not pay the flower.
 
-සාමාන්‍යයෙන් කියමනක් තියෙනවා, මල නොතලා රොන් ගන්නවා වගේ තමයි ජනතාවගෙන් බදු අය කරගත යුත්තේ කියලා. හැබැයි අප ඒ පිළිවෙත රකින්නේ නෑ කියලා අපව විවේනය කරනවා.හැබැයි ඒ විවේචකයන් අමතක කරන දෙයක් තියෙනවා. මල් තලමින් රොන් ගන්න අවස්ථාවනුත් තියෙන බව.
+He was speaking at a special statement in Parliament today (06).
+
+Everyone admits that our country is in any economic stability today. But there are those who criticize our implementation of the program we implement without accepting so.. Some allegate that the public seems to be strong, but some complain that they don't feel it. It is said that the masses have unnecessary taxes on the taxes. The electricity bill, fuel prices have been increased.
+
+There is usually a saying that the people should be taxed from the people. But we will never protect us that we don't keep that order.. That the flowers have to take the rons of romon.
+
+This is a wonderful lesson for us. It is not possible that the rons were able to ignore the flowers in general. The situation is different. We go today. Recently, we had to cross the economic vast bridge. Go on a ride.
 
 ...
 
 [Data](articles/26e0da73.json)
+
+[Extended Data](ext_articles/26e0da73.ext.json)
 
 ---
 
@@ -335,6 +463,22 @@ Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arr
 [Data](articles/0c17a1ff.json)
 
 [Extended Data](ext_articles/0c17a1ff.ext.json)
+
+---
+
+### Police fire water cannons at protest in Borella; IUSF convenor arrested
+
+*2024-03-06 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97774/police-fire-water-cannons-at-protest-in-borella-iusf-convenor-arrested) · `en`
+
+Police have fired water cannons at a protest march organised by the Inter-University Students’ Federation (IUSF) in Colombo today (06 March).
+
+Accordingly, water cannons were used in an attempt to disperse the protesting students near the Borella Junction.
+
+Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arrested by the police during the protest.
+
+◼️
+
+[Data](articles/c87baac3.json)
 
 ---
 
@@ -1328,6 +1472,8 @@ Ratnayake claimed that the fuel prices published on the official page on X, offi
 
 [Data](articles/f32c3721.json)
 
+[Extended Data](ext_articles/f32c3721.ext.json)
+
 ---
 
 ### Army training for Pakistan cricket team
@@ -2179,153 +2325,5 @@ He said the suspension was imposed in terms of the recommendations of the report
 [Data](articles/5f9a9b2f.json)
 
 [Extended Data](ext_articles/5f9a9b2f.ext.json)
-
----
-
-### President delivers special statement in parliament
-
-*2024-03-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97763/president-delivers-special-statement-in-parliament) · `en`
-
-President Ranil Wickremesinghe arrived at the parliament this morning (March 06) to deliver a special statement on the progress of Sri Lanka’s economic recovery process.
-
-The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
-
-Addressing the Chamber, the Head of State said the citizens are now benefitting from the ‘strenuous efforts’ taken by the government to revive the economy.
-
-“We made an ‘economic plan’ with the IMF. As a result of implementing this plan, the country returned to normalcy day by day. This reduced the pressure [on the people] and alleviated the hardships.”
-
-Wickremesinghe further mentioned that the country’s economy, which contracted for six consecutive quarters, began to revive in the Q3 of 2023, while adding that international financial institutions have forecast a potential economic growth for Sri Lanka, ranging from 2% - 3% for the year 2024.
-
-...
-
-[Data](articles/5d75877a.json)
-
-[Extended Data](ext_articles/5d75877a.ext.json)
-
----
-
-### President addresses parliament on economic revival progress
-
-*2024-03-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97763/president-addresses-parliament-on-economic-revival-progress) · `en`
-
-President Ranil Wickremesinghe arrived at the parliament this morning (March 06) to deliver a special statement on the progress of Sri Lanka’s economic recovery process.
-
-The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
-
-Addressing the Chamber, the Head of State said the citizens are now benefitting from the ‘strenuous efforts’ taken by the government to revive the economy.
-
-“We made an ‘economic plan’ with the IMF. As a result of implementing this plan, the country returned to normalcy day by day. This reduced the pressure [on the people] and alleviated the hardships.”
-
-Wickremesinghe further mentioned that the country’s economy, which contracted for six consecutive quarters, began to revive in the Q3 of 2023, while adding that international financial institutions have forecast a potential economic growth for Sri Lanka, ranging from 2% - 3% for the year 2024.
-
-...
-
-[Data](articles/f712ecce.json)
-
-[Extended Data](ext_articles/f712ecce.ext.json)
-
----
-
-### Three killed in accident at Potuhera on Colombo-Kurunegala Road
-
-*2024-03-06 09:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-killed-in-accident-at-Potuhera-on-Colombo-Kurunegala-Road/108-278323) · `en`
-
-Potuhera, March 6 (Daily Mirror) - Three persons died in an accident near Bulogolla Junction in Potuhera on the Colombo-Kurunegala Main Road last night.
-
-Police said the accident occurred when a three-wheeler collided head-on with a vegetable transport lorry travelling from Kurunegala to Colombo.
-
-In the accident, four people who were travelling in the three-wheeler were seriously injured and admitted to the Kurunegala Hospital, where three died.
-
-Police said the identities of the deceased have not been confirmed yet.
-
-The driver of the lorry has been arrested by the Potuhera police.
-
-◼️
-
-[Data](articles/a1463829.json)
-
-[Extended Data](ext_articles/a1463829.ext.json)
-
----
-
-### President arrives in Parliament
-
-*2024-03-06 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194191) · `si`
-
-President Ranil Wickremesinghe has arrived at Parliament.
-
-🟩
-
-President Ranil Wickremesinghe has come to the parliament shortly.
-
-◼️
-
-[Data](articles/f53b6487.json)
-
-[Extended Data](ext_articles/f53b6487.ext.json)
-
----
-
-### ඔලිම්පික් 2024: ශ්‍රී ලංකාවේ  පූර්ව සුදානම කොහොමද?
-
-*2024-03-06 09:36:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6p478l4e06o) · `si`
-
-2024 ඔලිම්පික් තරගාවලිය ලබන ජුලි මාසයේදී ප්‍රංශයේ පැරිස් අගනුවරදී ආරම්භ කිරීමට නියමිතව ඇත.
-
-ශ්‍රී ලංකාව අවසන්වරට ඔලිම්පික් පදක්කම දිනා වසර 24ක් ගෙවීයන මොහොතේ නැවත වරක් ඔලිම්පික් පදක්කමක බලාපොරොත්තුවක් ගෙන දීමට ශ්‍රී ලංකා ක්‍රීඩක ක්‍රීඩිකාවන්ට මෙවර හැකි වෙයි ද ?
-
-21ක් වසරකට පසු මලල ක්‍රීඩා ඉසව්වෙන් ශ්‍රී ලංකාවට රන් පදක්කමක් දිනා දුන් තරුෂි
-
-ඔලිම්පික් තරගාවලිය වෙනුවෙන් සුදුසුකම් ලැබීම සඳහා තමන්ගේ දක්ෂතා අනුව ජාත්‍යන්තර ශ්‍රේණිගත කිරීම්වල ඉහළට ඒම සඳහා මේ වසරේ ජුනි මාසය තෙක් ක්‍රීඩක ක්‍රීඩිකාවන්ට අවස්ථාව හිමිවන බව ක්‍රීඩා අධ්‍යක්ෂක ජනරාල් ආචාර්ය ෂේමාල් ප්‍රනාන්දු පැවසුවේය.
-
-"එක් එක් තරග ඉසව් වෙනුවෙන් තරගකරුවන් හෝ තරගකාරියන් තෝරා ගන්නා කාල සීමාව වෙනස්."
-
-"කොහොම වුනත් ජුනි මාසය අවසන් වෙද්දී එක් එක් ක්‍රීඩාවන්ට අදාළව තියෙන ශ්‍රේණිගත කිරීම් වැදගත්."
-
-"මොකද තරගාවලිය පටන් ගන්නේ ජුලි මාසය අවසානයේ දී." ඔහු පැවසුවේය.
-
-මෙවර ඔලිම්පික් නියෝජනය කරන්න හැකිවෙතැයි අනුමාන කරන ලාංකික ක්‍රීඩක ක්‍රීඩිකාවන් කවුද ?
-
-...
-
-[Data](articles/c8fdb3b4.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-03-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194190) · `si`
-
-Parliamentary Council commences.
-
-🟩
-
-◼️
-
-[Data](articles/4bad7edd.json)
-
-[Extended Data](ext_articles/4bad7edd.ext.json)
-
----
-
-### Three killed in head-on collision in Pothuhera
-
-*2024-03-06 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97762/three-killed-in-head-on-collision-in-pothuhera-) · `en`
-
-Three individuals have died in a tragic road accident involving a three-wheeler and lorry near the Bulugolla Junction in Pothuhera.
-
-According to the police, a lorry travelling from Kurunegala to Colombo had collided head-on with a three-wheeler on Tuesday night (March 05).
-
-Four people who were inside the three-wheeler had been rushed to the Kurunegala Teaching Hospital with critical injuries, however, three of them later died while receiving treatment.
-
-The identities of the deceased have not yet been established, the police said.
-
-Meanwhile, the driver of the lorry is now under arrest in connection with the fatal accident.
-
-◼️
-
-[Data](articles/d2e44164.json)
-
-[Extended Data](ext_articles/d2e44164.ext.json)
 
 ---

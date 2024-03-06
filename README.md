@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 02:48:32**
+As of **2024-03-07 03:03:26**
 
 ## Newspaper Stats
 
-*Scraped **11,354** Articles*
+*Scraped **11,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 591
 islandlk | 601
 dailyftlk | 603
 adalk | 959
-tamilmirrorlk | 1,380
+tamilmirrorlk | 1,381
 adaderanalk | 1,383
 virakesarilk | 1,556
 dailymirrorlk | 1,731
@@ -26,65 +26,87 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,351 (100.0%) of 11,354 articles have been extended.
+11,354 (100.0%) of 11,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### வல்வை முதியோர் இல்லத்தின் செயற்பாடுகளை உடனடியாக நிறுத்துமாறு வடக்கு மாகாண ஆளுநர் பணிப்புரை
+### Governor of the Northern Province to stop the activities of the Valve Elderly Home
 
 *2024-03-07 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178131) · `ta`
 
-யாழ்ப்பாணம் வல்வெட்டித்துறையில் எவ்வித அனுமதியும் இன்றி செயற்படும் முதியோர் இல்லத்தின் நடவடிக்கைகளுக்குத் தடைவிதிக்குமாறு வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் அவர்கள் விடுத்த பணிப்புரைக்கு அமைய, ஆளுநரின் செயலாளரால் பருத்தித்துறை பிரதேச செயலாளருக்குக் கடிதம் ஊடாக அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+BSM Charles, Governor of Northern Province, has been ordered to halt activities at the Valve Elderly Home in Valvettithurai, Jaffna, due to non-registration. Legal action is being considered. The "Abhayam" received a complaint about the home, leading to the Governor's intervention.
 
-அத்துடன், வல்வை முதியோர் இல்லம் எவ்வித வசதிகளும் இன்றியும் இதுவரை பதிவு செய்யாமலும் இயங்கியமை தொடர்பில் உரிய சட்ட நடவடிக்கைகளை முன்னெடுக்குமாறு அறிவுறுத்தப்பட்டுள்ளது.
+🟩
 
-வல்வை முதியோர் இல்லம் தொடர்பில், வடக்கு மாகாண  ஆளுநரின் நேரடி கண்காணிப்பின் கீழ் இயங்கும் “அபயம்” 24 மணித்தியால குறைகேள் வலையமைப்பிற்கு முறைப்பாடு கிடைத்தது. இந்த முறைப்பாடு தொடர்பில் பருத்தித்துறை பிரதேச செயலாளரிடமிருந்து பெறப்பட்ட கள விஜய அறிக்கை  ஆளுநரிடம் சமர்பிக்கப்பட்டது. விடயங்களை ஆராய்ந்த வடக்கு மாகாண  ஆளுநர் குறித்த முதியோர் இல்லம் தொடர்பில் உடனடியாக நடவடிக்கைகளை மேற்கொண்டு அறிக்கை சமர்பிக்குமாறு அறிவுறுத்தியுள்ளார்.
+The Governor of the Northern Province, BSM Charles, has been instructed by the Governor's Secretary to the Point Pedro Divisional Secretary to ban the activities of the elderly home in Valvettithurai in Valvettithurai in Jaffna.
+
+In addition, it has been advised to take appropriate legal action on the fact that the Valve Elderly Home has not yet registered.
+
+The "Abhayam", which is under the direct supervision of the Governor of the Northern Province, received a complaint with the Northern Province on the Valve Elderly Home.. The field report received from the Point Pedro Divisional Secretary was submitted to the Governor. He has advised the Governor of the Northern Province to take immediate action on the elderly home on the Governor of the Northern Province.
 
 ◼️
 
 [Data](articles/d46d53ac.json)
 
+[Extended Data](ext_articles/d46d53ac.ext.json)
+
 ---
 
-### 145ஆவது நீலவர்ணங்களின் கிரிக்கெட் சமர் : றோயலிடம் கடந்த வருடம் அடைந்த தோல்வியை நிவர்த்திகுமா பரி.தோமா?
+### Cricket of 145 Blues: Royal's defeat last year.
 
 *2024-03-07 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178130) · `ta`
 
-றோயல் கல்லூரிக்கும் கல்கிஸ்ஸை பரி. தோமா  கல்லூரிக்கும் இடையிலான டி.எஸ். சேனாநாயக்க ஞாபகார்த்த கேடய 145ஆவது நீலவர்ணங்களின் மாபெரும் 3 நாள் கிரிக்கெட் போட்டி எஸ்.எஸ்.சி. மைதானத்தில் வியாழக்கிழமை (07) ஆரம்பமாகவுள்ளது.
+Royal College faces Toma College in the 145th annual cricket match, a record in World Schools history, with alumni from around the world attending. Toma, led by Maid Perera, is a strong team, while Royal, led by Sineet Jayawardene, struggled last year. Royal's Dassis Manjanayake led a victory by 181 runs in the 144th match. Key players for Royal include Yasindu Dissanayake, Sneath Jayawardena, and Ramu Perera. Toma's Maid Perera leads with 844 runs, including 3 centuries, and Nathan Caldera with 367 runs and 36 wickets. The match is expected to be intense, with both teams aiming for victory.
 
-இந்தப் போட்டியைக் கண்டுகளிக்கவென உலகம் முழுவதும் வாழ்ந்து வரும் இரண்டு கல்லூரிகளினதும் பழைய மாணவர்கள் பெருந்திரளாக வருகை தந்துள்ளனர்.
+🟩
 
-இந்த கிரிக்கெட் சமர் தொடர்ச்சியாக 145ஆவது வருடமாக நடைபெறவுள்ளமை உலக பாடசாலைகள் கிரிக்கெட் வரலாற்றில் ஒரு சாதனையாகும்.
+Royal College. TS between Toma College. Senanayake Memorial Shield. The stadium begins on Thursday (07).
 
-இரண்டு  கல்லூரிகளினதும்   பாரம்பரிய பண்பாடுகளை வெளிக்கொண்டுவரும் அதேவேளை மறக்க முடியாத ஓர் அற்புதமான போட்டியாகவும் இந்த கிரிக்கெட் சமர் பார்க்கப்படுகிறது.
+The alumni of the two colleges living around the world have come to visit the competition.
 
-அத்துடன் நீலவர்ணங்களின் சமரானது ஒருபுறம் வீரர்களிடையே போட்டித்தன்மையை ஏற்படுத்தும் அதேவேளை, இரண்டு கல்லூரிகளினதும் சமகால மாணவர்களினதும் பழைய மாணவர்களினதும் ஒன்றுகூடலாகவும் அமைகிறது.
+This is a record in the history of the World Schools for the 145th consecutive year.
 
-நடப்பு பாடசாலை கிரிக்கெட் பருவகாலத்தில் பல வெற்றிகளுடன் தோல்வி அடையாமல் பலம் வாய்ந்த அணியாகத் திகழும் மஹித் பெரேரா தலைமையிலான பரி.தோமா அணி கடந்த வருடம் அடைந்த தோல்வியை நிவர்த்திக்க முயற்சிக்கவுள்ளது.
+The cricket Samar is also seen as an unforgettable competition while revealing the traditional cultures of the two colleges.
+
+Also, the Samaritan of the sapphire, on the one hand, is a gathering of two colleges, contemporary students and alumni of the two.
+
+The Toma team, led by Maid Perera, who is a powerful team, will not lose many success during the current school cricket season.
+
+On the other hand, the results of the Royal team led by Sineet Jayawardene, who played the Sri Lankan team at the Under -19 World Cup cricket matches, were not satisfactory.
+
+Last year, in a similar manner, when the two teams met in the 144th sapphire. The Toma team was a powerful team and was permitted as a winning team.
 
 ...
 
 [Data](articles/3d1f050b.json)
 
+[Extended Data](ext_articles/3d1f050b.ext.json)
+
 ---
 
-### யாழ்ப்பாணப் பல்கலைக்கழகத்திற்கு இந்தியத் துணைத் தூதுவர் சாய் முரளி விஜயம்
+### Indian Ambassador Sai Murali visits Jaffna University
 
 *2024-03-07 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178129) · `ta`
 
-யாழ்ப்பாணத்திற்கான புதிய இந்தியத் துணைத் தூதுவர் சாய் முரளி, யாழ்ப்பாணப் பல்கலைக்கழகத்திற்கு புதன்கிழமை (06) விஜயம் செய்தார்.
+Indian Ambassador Sai Murali met with Jaffna University's officials, discussing education cooperation and university development.
 
-இதன்போது யாழ்ப்பாணப் பல்கலைக்கழக துணைவேந்தர் பேராசிரியர் சிவக்கொழுந்து சிறீசற்குணராஜாவை அவரது அலுவலகத்தில் சந்தித்துப் பேசினார்.
+🟩
 
-பல்கலைக்கழகத்தின் வளர்ச்சித் திட்டங்கள் குறித்த முன்மொழிவுகள் உட்பட கல்வித் துறையில் கூட்டுத் திட்டங்கள் மற்றும் ஒத்துழைப்பு குறித்து விவாதிக்கப்பட்டது.
+New Indian Ambassador to Jaffna Sai Murali visited the University of Jaffna on Wednesday (06).
 
-குறித்த சந்திப்பில் கலைப்பீட பீடாதிபதி பேராசிரியர் சிவசுப்பிரமணியம் ரகுராம், இந்து கற்கைகள் பீட பீடாதிபதி ச.பத்மநாதன் உள்ளிட்டோரும் கலந்து கொண்டனர்.
+Vice Chancellor of the University of Jaffna, Professor Sivakasandu met Sirishatturanarajah at his office.
+
+Joint programs and cooperation in the field of education, including proposals on the development of the university, were discussed.
+
+Prof. Sivasubramaniam Raghuram, the Faculty of Arts and Faculty of Hindu Studies, C. Padmanathan, were also present at the meeting.
 
 ◼️
 
 [Data](articles/3d095e0f.json)
+
+[Extended Data](ext_articles/3d095e0f.ext.json)
 
 ---
 
@@ -193,6 +215,20 @@ In response to a question raised by a media regarding this, Indian High Commissi
 [Data](articles/8bf62d60.json)
 
 [Extended Data](ext_articles/8bf62d60.ext.json)
+
+---
+
+### ’நடுத்தர மக்களை சுரண்டி பிழைக்கிறார்கள்’
+
+*2024-03-07 01:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுத்தர-மக்களை-சுரண்டி-பிழைக்கிறார்கள்/175-334308) · `ta`
+
+வரி உள்ளடங்களாக 92 ரூபாவுக்கு இறக்குமதி செய்யப்படும் பெரிய வெங்காயம் ஒரு கிலோகிராம் சந்தையில்  365  ரூபாவுக்கு விற்கப்படுகிறது. 110  ரூபாய்க்கு இறக்குமதி செய்யப்படும் உருளைக்கிழங்கு 203 ரூபாவுக்கு விற்கப்படுகிறது. சில்லறை , மொத்த வியாபாரிகள் நடுத்தர மக்களை சுரண்டி  பிழைக்கிறார்கள்.  நுகர்வோர் அதிகார சபை என்ன செய்கிறது என்பது தெரியவில்லை.நுகர்வோர் அதிகார சபைக்கும்,சந்தைக்கும் இடையில் தொடர்பற்ற நிலையே உள்ளது  என எதிர்க்கட்சி எம்.பி.யான பாட்டலி சம்பிக்க ரணவக்க  குற்றம்சாட்டினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (06) இடம்பெற்ற வரி திருத்தச் சட்டமூல திருத்தங்கள்  மீதான விவாதத்தில் உரையாற்றிய போதே  இவ்வாறு குற்றம்சாட்டிய அவர் மேலும்  பேசுகையில்,
+
+...
+
+[Data](articles/8ca3d039.json)
 
 ---
 
@@ -2267,31 +2303,5 @@ Meanwhile on Friday, the Additional Health Secretary had stated before the court
 [Data](articles/6cff218b.json)
 
 [Extended Data](ext_articles/6cff218b.ext.json)
-
----
-
-### I didn't say false for the power of
-
-*2024-03-06 15:38:19* · [`adalk`](https://www.ada.lk/breaking_news/මම-කිසිදා-බලය-වෙනුවෙන්-අසත්‍ය-ප්‍රකාශ-කළේ-නැහැ/11-408451) · `si`
-
-President Ranil Wickremesinghe discussed economic stability and taxation in Parliament, acknowledging criticism of economic policies. He highlighted the economic recovery, increased foreign debt reduction, and the strengthening of the rupee. He also mentioned efforts to attract investment, modernize agriculture, and improve social security. Despite challenges, he emphasized the importance of systematic planning and the need to avoid returning to economic instability.
-
-🟩
-
-President Ranil Wickremesinghe said that there is a general saying that the flowers should be taxed from the people who do not pay the flower.
-
-He was speaking at a special statement in Parliament today (06).
-
-Everyone admits that our country is in any economic stability today. But there are those who criticize our implementation of the program we implement without accepting so.. Some allegate that the public seems to be strong, but some complain that they don't feel it. It is said that the masses have unnecessary taxes on the taxes. The electricity bill, fuel prices have been increased.
-
-There is usually a saying that the people should be taxed from the people. But we will never protect us that we don't keep that order.. That the flowers have to take the rons of romon.
-
-This is a wonderful lesson for us. It is not possible that the rons were able to ignore the flowers in general. The situation is different. We go today. Recently, we had to cross the economic vast bridge. Go on a ride.
-
-...
-
-[Data](articles/26e0da73.json)
-
-[Extended Data](ext_articles/26e0da73.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 11:52:31**
+As of **2024-03-06 12:03:26**
 
 ## Newspaper Stats
 
-*Scraped **11,175** Articles*
+*Scraped **11,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 940
+adalk | 942
 tamilmirrorlk | 1,355
 adaderanalk | 1,363
-virakesarilk | 1,516
+virakesarilk | 1,522
 dailymirrorlk | 1,708
 adaderanasinhalalk | 1,746
 
@@ -26,23 +26,155 @@ adaderanasinhalalk | 1,746
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,173 (100.0%) of 11,175 articles have been extended.
+11,175 (99.9%) of 11,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
+### ஆளில்லா விமானங்களை பயன்படுத்தி ரஸ்யாவின் மற்றுமொரு போர்க்கப்பலை அழித்தது உக்ரைன்
+
+*2024-03-06 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178051) · `ta`
+
+விசேட படையணியான குரூப் 13 இன் கடல்சார் ஆளில்லா விமானங்கள் கருங்கடலில் சேர்கேய் கொட்டொவ் என்ற 1300 தொன் ரஸ்ய ரோந்து கப்பலை தாக்கி அழித்துள்ளன என உக்ரைன் தெரிவித்துள்ளது.
+
+மகுரா விஐந்து கடல்சார் ஆளில்லா விமானங்களின் தாக்குதல்கள் காரணமாக ரஸ்ய கப்பலிற்கு பலத்த சேதம் ஏற்பட்டது கப்பல் தீப்பற்றி எரிந்தது என தெரிவித்துள்ள உக்ரைன் இராணுவம் இந்த கப்பல் மூழ்கிவிட்டதாக பின்னர் தெரிவித்துள்ளது.
+
+உக்ரைன் கடற்படை உக்ரைனின் டிஜிட்டல் மாற்றத்திற்கான அமைச்சுடன் இணைந்து இந்த நடவடிக்கையை மேற்கொண்டதாக உக்ரைன் தெரிவித்துள்ளது.
+
+முன்னரும் இந்த கப்பலை தாக்கினோம் ஆனால் இந்த முறை நிச்சயமாக அழித்துவிட்டோம் என உக்ரைனின் பாதுகாப்பு புலனாய்வு பிரிவை சேர்ந்த ஒருவர் தெரிவித்துள்ளார்.
+
+ரஸ்யாவின் ஏழு கடற்படை வீரர்கள் கொல்லப்பட்டனர் ஆறுபேர் காயமடைந்;தனர் என தெரிவித்துள்ள உக்ரைனின் பாதுகாப்பு புலனாய்வு பிரிவு இந்த தகவல் எவ்வாறு கிடைத்தது என்பதை தெரிவிக்கவில்லை.
+
+இதேவகையான ஆளில்லா விமானங்களை பயன்படுத்தி பெப்ரவரியில் ரஸ்யாவின் தரையிறங்கு கலத்தினை உக்ரைன் தாக்கியிருந்தது.
+
+◼️
+
+[Data](articles/6f9cc1e9.json)
+
+---
+
+### அரசாங்கத்தின் புதிய நல்லிணக்க முயற்சிகளுக்கு பரந்துபட்ட ஆதரவில்லை ; வெற்றியளிக்குமா என்ற சந்தேகம் காணப்படுகின்றது - இலங்கைக்கான பிரிட்டன் தூதுவர்
+
+*2024-03-06 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178047) · `ta`
+
+அரசாங்கத்தின் புதிய நல்லிணக்க  முயற்சிகள் பலனளிக்குமா என சமூகத்தில் சந்தேகம் காணப்படுவதாக தெரிவித்துள்ள இலங்கைக்கான பிரிட்டன் தூதுவர் அன்றூ பட்ரிக்; அரசாங்கத்தின் இந்த முயற்சிகளிற்கு இன்னமும் பரந்துபட்ட ஆதரவு கிடைக்கவில்லை என்பதை உணரமுடிகின்றது. எனவும் தெரிவித்துள்ளார்
+
+சிலவேளைகளில் ஜெனீவா  தீர்மானம் சமர்ப்பிக்கப்படும் விதம் குறித்து நான் சிறியளவு கரிசனைகொண்டுள்ளேன்,சர்வதேச சமூகம் இலங்கை விடயங்களில் தலையிடுகின்றதா என்ற கேள்வி தனக்கு எழுவதாகவும் அவர் குறிப்பிட்டுள்ளார்
+
+கேள்வி ; சமீபகாலங்களில் இரண்டு நாடுகளும் பரஸ்பரம் ஈடுபாட்டை அதிகரித்துள்ளதை காண்கின்றோம்-இரு நாடுகளிற்கும் இடையிலான இருதரப்பு உறவின் புதிய திசை எது?
+
+பதில் ; எனக்கு இரு தரப்பு உறவில் புதிய திசை குறித்து எதுவும் தெரியாது, எனினும் எங்கள் இரு நாடுகளிற்கும் இடையில் நீண்டகாலமாக வலுவான பிணைப்பு காணப்பட்டது இது 75வருட கால இராஜதந்திர உறவுகளை சமீபத்தில் கொண்டாடுவதற்கு காரணமாக அமைந்தது.
+
+...
+
+[Data](articles/589ef783.json)
+
+---
+
+### உட்கட்சித் தேர்தல்களில் பைடன்,  ட்ரம்புக்கு மேலும் வெற்றிகள்
+
+*2024-03-06 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178048) · `ta`
+
+அமெரிக்க ஜனாதிபதித் தேர்தலின் குடியரசுக் கட்சி வேட்பாளர் தெரிவுக்காக 15 மாநிலங்களில் நேற்று செவ்வாய்க்கிழமை நடைபெற்ற தேர்தல்களில் டொனால்ட் ட்ரம்ப் அதிக வெற்றிகளைப் பெற்றுள்ளார்.
+
+இத்தேர்தலில் குறைந்தபட்சம் 12 மாநிலங்களில் ட்ரம்ப் முதலிடம் பெற்றுள்ளார் என அமெரிக்க ஊடகங்கள் கணித்துள்ளன.
+
+அலபாமா, ஆர்கன்சாஸ், கொலராடோ, கலிபோர்னியா, மேய்ன், மசாசூசெட்ஸ், மினேசோட்டா, வட கரோலினா, ஒக்லஹோமா, டென்னஸி, டெக்ஸாஸ், வேர்ஜீனியா ஆகிய மாநிலங்களில் ட்ரம்ப் வெற்றி பெற்றுள்ளார் என எதிர்வுகூறப்பட்டுள்ளது.
+
+நேற்றைய தேர்தல் பெறுபேறுகளில் பெற்ற வெற்றிகள் மூலம், குடியரசுக் கட்சியின் ஜனாதிபதி வேட்பாளர் நியமனத்தைப் பெறும் வாய்ப்பு மேலும் அதிகரித்துள்ளது.
+
+இதேவேளை ஜனநாயகக் கட்சியின் வேட்பாளர் நியமனத்துக்காக நேற்று செவ்வாய்க்கிழமை நடைபெற்ற உட்கட்சித் தேர்தல்களில்  15 மாநிலங்களில் ஜனாதிபதி  பைடன் வெற்றியீட்டியுள்ளார். எனினும், அமெரக்கன் சமோவா பிராந்தியத்தில் மாத்திரம் ஜேசன் பால்மர் முதலிடம் பெற்றார்.
+
+◼️
+
+[Data](articles/f313d120.json)
+
+---
+
+### இலங்கையில் 12 “நீலக்கொடி கடற்கரைகள்” அடையாளம்
+
+*2024-03-06 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178043) · `ta`
+
+“நீலக்கொடி கடற்கரை” யோசனையை நடைமுறைப்படுத்துவதற்காக இலங்கையில் தற்போது 12 முக்கிய கடற்கரைகள் அடையாளம் காணப்பட்டுள்ளதாக கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை தெரிவித்துள்ளது.
+
+நீலக்கொடி கடற்கரை (Blue Flag Beach) என்பது கடலோர மற்றும் கடல் சுற்றுச்சூழல் அமைப்புகளைப் பாதுகாப்பதற்கும் பராமரிப்பதற்காகவும் நாட்டின் முயற்சிகளை பாராட்டும் நோக்கில்  வழங்கப்படும் சர்வதேச சுற்றுச்சூழல் அங்கீகாரம் ஆகும்.
+
+அதன்படி, நாட்டில்  4 கடற்கரைகளை செயல்பாட்டு நிலைக்கு கொண்டு வர தேவையான நடவடிக்கைகள் ஏற்கனவே எடுக்கப்பட்டு வருவதாக ஆணையம் தெரிவித்துள்ளது.
+
+சுற்றுச்சூழல், இயற்கை வளங்கள் மற்றும் நிலையான வளர்ச்சிக்கான துறைசார் மேற்பார்வைக் குழு "நீலக் கொடி கடற்கரை" என்ற விடயம் தொடர்பில் கலந்துரையாடிய போதே இந்தத் தகவல் தெரிவிக்கப்பட்டது.
+
+கடந்த மாதம் 20 ஆம் திகதி பாராளுமன்ற உறுப்பினர் அஜித் மான்னப்பெரும தலைமையில் துறைசார் மேற்பார்வைக் குழு ஒன்று கூடியது. இதன் போது சுற்றுலாப் பயணிகளை ஈர்க்கும் வகையில் நாட்டின் கரையோரங்களைத் பராமரிப்பதை நோக்கமாகக் கொண்ட “நீலக் கொடி கடற்கரை” என்ற கருத்துருவில் கலந்துரையாடல் நடைபெற்றது.
+
+◼️
+
+[Data](articles/426c920b.json)
+
+---
+
+### மின்சார கட்டணம் 35 சதவீதத்தால் குறைக்கப்படுவதே நியாயமானது - ஜனக ரத்நாயக்க
+
+*2024-03-06 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178046) · `ta`
+
+கடந்த 2022ஆம் ஆண்டு காலப்பகுதியில் பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் என்ற ரீதியில் பொதுமக்கள் நலன்கருதி என்னால் முன்வைக்கப்பட்ட மின்கட்டணம் தொடர்பான பரிந்துரை இரண்டு ஆண்டுகளுக்கு பின்னர் அமுல்படுத்தப்படுவதென்பது என்னுடைய தியாகத்துக்கு கிடைத்த வெற்றியாகவே பார்க்கின்றேன். எனினும் இலங்கை மின்சாரசபை பெற்றுக்கொண்டுள்ள இலாபத்தை பொதுமக்களுக்கு உரியவாறு பகிர்ந்தளிக்கப்படுவதை அரசாங்கம் உறுதிப்படுத்துவதாயின் மின் கட்டணம் 35 வீதத்தால் குறைக்கப்படுவதே ஆரோக்கியமானது என பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் முன்னாள் தலைவர் ஜனக ரத்நாயக்க தெரிவித்தார்.
+
+நேற்றுமுன்தினம் (4) நள்ளிரவு முதல் அமுலாகும் வகையில் 21.9 சதவீத மின்கட்டண குறைப்புக்கு இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு அனுமதி வழங்கியுள்ளமை தொடர்பில் நேற்று கொழும்பிலுள்ள அவரது பிரத்தியேக அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/b3a87e7d.json)
+
+---
+
+### බැසිල් නෙමෙයි ඩී.ඒ්. රාජපක්ෂ නැගිටලා ආවත් නැවත් රාජපක්ෂවරුන්ට බලයක් නෑ
+
+*2024-03-06 11:22:20* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-නෙමෙයි-ඩී-ඒ්--රාජපක්ෂ-නැගිටලා-ආවත්-නැවත්-රාජපක්ෂවරුන්ට-බලයක්-නෑ/11-408443) · `si`
+
+"බැසිල් රාජපක්ෂ නැවත ලංකාවට ආවා බැසිල් රාජපක්ෂ නෙවෙයි ඩ් එ රාජපක්ෂ යළි වලෙන් නැගිටලා ආවත් මේ රටේ යළි බලය රාජපක්ෂවරුන්ට ලබා දීමට ජනතාව සූදානම් නෑ" යැයි පාර්ලිමේන්තු මන්ත්‍රීනි රෝහිනී කවිරත්න මහත්මිය කියයි.
+
+කවිරත්න මහත්මිය එසේ ප්‍රකාශ කළේ රටේ වර්තමාන දේශපාලන හා ආර්ථික තත්ත්වය පිළිබඳ මාධ්‍ය දැනුවත් කිරීමේ සාකච්ඡාවකට එක් වෙමින් රත්තොට කයිකාවල ප්‍රදේශයේ ඊයේ (05) දින පැවති මාධ්‍ය හමුවකදීය.
+
+"විදුලි බිල සීයට 400 කින් වැඩි කොට එය සියයට 21කින් අඩු කලාට ජනතාවට දැනෙන්නෑ. ඒ වගේමයි ඉන්ධධනමිල අඩු කළේ සුපිරි ධනවතුන්ට පමණයි. ගොවියාට ධීවරයාට කුලී රථ රියැදුරාට රාජ්‍ය සේවකයාට එයින්  කිසිම සහනයක් සලසා නෑ. වී කිලෝ එකක මිල රුපියල් සීයයි .
+
+වී කිලෝ දෙක තුනක් අලෙවි කරලා තමා සබන් කැටයක් ගන්න වෙන්නේ.ඒ වගේම භාණ්ඩ මිල දිනෙන් දින වැඩි වැඩිවෙනවා ජනතාව අද කබලෙන් ලිපට වැටිලා ඉවරයි. මේ රජය අද කටයුතු කරගෙන යන ආකාරය දෙස බලන විට ජනතාව යළි අරගලයකට සූදානම් කිරීමක්දෝයි මට සැක හිතෙනවා.ජනාධිපතිවරණයක් පැවැත්වුවහොත් ජනාධිපතිවරයාට ප්‍රමුඛ මේ ආණ්ඩුවට ගෙදර යෑමට සිදුවන එක සක්කරයාටවත් නවත්තන්න බැරි තත්ත්වයකටයි අද පත්වෙලා තියෙන්නේ.
+
+...
+
+[Data](articles/eeabb2cb.json)
+
+---
+
+### யாழில் காலாவதியான குளிர்பானங்களை காட்சிப்படுத்தியவர்களுக்கு 28 ஆயிரம் தண்டம்
+
+*2024-03-06 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178045) · `ta`
+
+யாழ்ப்பாணத்தில் காலாவதியான குளிர்பானத்தை விற்பனைக்காக காட்சிப்படுத்தியிருந்த வர்த்தகர்களுக்கு 28 ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+
+சாவகச்சேரி நகர் பகுதி மற்றும் மீசாலை ஆகிய பகுதிகளில் உள்ள வர்த்தக நிலையங்களில் பொது சுகாதார பரிசோதகர்கள் திடீர் சோதனை நடவடிக்கைகள் மேற்கொள்ளப்பட்டன.
+
+அதன்போது , காலாவதியான குளிர்பான வகைகளை விற்பனைக்காக காட்சிப்படுத்தியிருந்த இரண்டு வர்த்தக நிலைய உரிமையாளர்களுக்கு எதிராக சாவகச்சேரி நீதவான் நீதிமன்றில் வழக்கு தொடரப்பட்டது.
+
+குறித்த வழக்கு நேற்று செவ்வாய்க்கிழமை விசாரணைக்கு எடுத்து கொள்ளப்பட்ட போது, இருவரும் குற்றத்தை ஏற்றுக்கொண்டதை அடுத்து, இருவரையும் கடுமையாக எச்சரித்த மன்று, ஒருவருக்கு 20 ஆயிரம் ரூபாய் தண்டமும், மற்றைய நபருக்கு 08 ஆயிரம் ரூபாய் தண்டமும் விதித்தது.
+
+◼️
+
+[Data](articles/81407c14.json)
+
+---
+
 ### Additional Health Secretary produced before court
 
 *2024-03-06 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97766/additional-health-secretary-produced-before-court) · `en`
 
-Additional Secretary of the Ministry of Health Dr. Saman Ratnayake arrived at the Maligakanda Magistrate’s Court this morning (March 06).
+Additional Secretary of the Ministry of Health Dr. Saman Ratnayake was produced before the Maligakanda Magistrate’s Court this morning (March 06).
 
 Rathnayake was arrested by the Criminal Investigation Department (CID) on March 01 in connection with the substandard human immunoglobulin procurement scandal.
 
 ◼️
 
 [Data](articles/f7d81883.json)
+
+[Extended Data](ext_articles/f7d81883.ext.json)
 
 ---
 
@@ -64,17 +196,23 @@ Additional Secretary to the Ministry of Health Saman Ratnayake has been sentence
 
 ---
 
-### ශ්‍රේණි අනුව මහ බැංකු සේවකයින්ගේ පඩි වැඩි වුණ හැටි
+### Given the weights of the central bank employees by grades
 
 *2024-03-06 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194194) · `si`
 
-ශ්‍රී ලංකා මහ බැංකු සේවකයින්ගේ වැටුප් වැඩිකර ඇති ආකාරය අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා එක් එක් තනතුර අනුව අද (06) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+Prime Minister Dinesh Gunawardena revealed the salaries of the Central Bank of Sri Lanka's employees by grade to parliament. MP SMM Marikkar and MP Sama Marikkar engaged in a verbal exchange.
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස් එම් මරික්කාර් මහතා ඉදිරිපත් කළ වාචික ප්‍රශ්නයකට පිළිතුරු දෙමින් අගමැතිවරයා එම විස්තරය පැහැදිලි කළේය.
+🟩
+
+Prime Minister Dinesh Gunawardena presented the salaries of the Central Bank of Sri Lanka to parliament today (06).
+
+Responding to a verbal issue that MP SMM Marikkar, MP Sama Marikkar, responded by MP SMM Marikkar.
 
 ◼️
 
 [Data](articles/cf9dcba9.json)
+
+[Extended Data](ext_articles/cf9dcba9.ext.json)
 
 ---
 
@@ -97,6 +235,18 @@ He explained that the growth in state revenue gave assurances to the internation
 [Data](articles/66d7aab3.json)
 
 [Extended Data](ext_articles/66d7aab3.ext.json)
+
+---
+
+### ජනාධිපති පාර්ලිමේන්තුවට පැමිණෙයි
+
+*2024-03-06 10:38:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-පාර්ලිමේන්තුවට-පැමිණෙයි/11-408442) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (06) උදෑසන පාර්ලිමේන්තුව ආරම්භයත් සමග පැමිණ තිබෙනවා. මේවනවිට පාර්ලිමෙන්තු රැස්වීම පැවැත්වෙමින් පවතින අතර ඊට සහභාගීවී ඇත. ඔහු විසින් අද දින පාර්ලිමේන්තුවේ විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිත බවද පාර්ලිමේනතු ආරංචිමාර්ග දන්වා සිටිනවා.
+
+◼️
+
+[Data](articles/fa21dff2.json)
 
 ---
 
@@ -692,13 +842,13 @@ The Leader, the Leader of the Leader, the leaders of the leaders and their suppo
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
-In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
-
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -1357,6 +1507,8 @@ The impact has increased by 2023, based on statistics taken since 2014. 85,572 S
 *2024-03-06 01:19:31* · [`dailyftlk`](https://www.ft.lk/columns/Militarisation-Something-old-something-new/4-759217) · `en`
 
 If dignity was what the retired general was after, higher pensions/benefits to lower rank retirees would have served better (especially the disabled/seriously injured)
+
+Had Sri Lanka used a part of her massive defence budget to provide an honourable and viable way out for her soldiers post-war, the twin problems of high desertions and criminalisation of deserters could have been minimised. 10 years on, no political leader is interested in acknowledging the issue let alone addressing it
 
 “Are we so morally sick, so deaf and dumb and blind, that we do not understand this?”
 
@@ -2057,191 +2209,5 @@ During the surveillance at deep sea, the team found a country boat sailing towar
 [Data](articles/722113bd.json)
 
 [Extended Data](ext_articles/722113bd.ext.json)
-
----
-
-### A year to recover from the economic crisis - the Finance Minister
-
-*2024-03-05 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/177962) · `ta`
-
-The Finance Minister, Sehan Semasinghe, stated that it will take at least a year to recover from the economic crisis, with long-term plans implemented to address it. The government faced short-term crises, which opposition parties used for political gain. The International Monetary Fund's cooperation helped maintain financial discipline and stabilize the country's economy, which has seen a 11% increase in state income. Essential commodities shortages were addressed, and President Ranil Wickremesinghe's decisions aimed at stabilizing the economy. The Janatha Vimukthi Peramuna criticizes the current economic recovery, arguing for a favorable solution.
-
-🟩
-
-It takes at least a year to recover from the economic crisis.. Minister of Finance Sehan Semasinghe said that we will do politics to the people in regard to the economic situation.
-
-Tuesday (05) in ParliamentSpeaking in a debate on the (Amendment) Bill.
-
-The people have faced short -term crises by the government's actions and resolutions for economic recovery. Opposition parties use this for their political gain.
-
-Long -term plans have been implemented to address the economic crisis.
-
-Following the cooperation of the International Monetary Fund, the country's financial discipline has been maintained and the fund has been stabilized. Currently increased by 11 percent of the country's state income. Steps have been taken to address the problems of the social structure.
-
-...
-
-[Data](articles/13cbf84a.json)
-
-[Extended Data](ext_articles/13cbf84a.ext.json)
-
----
-
-### 324 fatal accidents for two months - 341 deaths
-
-*2024-03-05 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194180) · `si`
-
-From January 1 to March 1, 324 fatal accidents occurred, resulting in 341 deaths and 1,355 injuries. The police highlighted the need for special attention to motorcycles and three-wheelers, and emphasized the importance of pedestrian safety.
-
-🟩
-
-According to the police, 324 fatal accidents have been reported from January 1 to 1st March.
-
-The Police Media Spokesperson, DIG's Court Attorney Nihal Thalduwa, 651, is 651 and 1,355 injured.
-
-Of the 324 fatal accidents, 341 persons were killed in the first two months.
-
-Attorney at Law, the police spokesman, Nihal Talduuwa said that special attention should be paid to motorcycle and three-wheeler in consideration.
-
-If a person travels with a pavement shift, the police are informed that the ownership of its ownership should be given to the pedestrian.
-
-All drivers should pay close attention to this, police said.
-
-However, DIG's spokesman said the road to take care of the roads traveling with a pavement and vehicles.
-
-"There were eight fatal accidents in the island yesterday. Four fatal accidents occur on the pedestrian shift shifting through the road. "
-
-"Pettah 74-year-old man moved to the bus."
-
-A 55-year-old woman killed in three-wheeler in Navagamuwa Korathota.. In moving off the sidewalk. "
-
-...
-
-[Data](articles/efaf7921.json)
-
-[Extended Data](ext_articles/efaf7921.ext.json)
-
----
-
-### Facebook, Instagram down during outage; thousands affected
-
-*2024-03-05 21:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facebook-Instagram-down-during-outage-thousands-affected/108-278295) · `en`
-
-March 05 - Meta-owned platforms, including Facebook, Instagram, and Threads, are currently facing technical issues, rendering them inaccessible for many users on Tuesday. The outage has impacted functionalities across these social media platforms.
-
-Users are reporting various issues, such as being logged out of their Facebook accounts, making it impossible to log back in. Similarly, Instagram users are encountering difficulties refreshing their feeds, with stories and comments failing to load for some individuals. Threads, an app developed by Meta, is also experiencing a complete shutdown, displaying an error message upon launch.
-
-Reports on DownDetector, a website that tracks internet service outages, surged rapidly for all three platforms following the onset of the issue. Despite the widespread user complaints, Meta has yet to acknowledge the problem officially.
-
-◼️
-
-[Data](articles/43e71511.json)
-
-[Extended Data](ext_articles/43e71511.ext.json)
-
----
-
-### Meta’s Facebook, Instagram down for many users across the world
-
-*2024-03-05 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97752/metas-facebook-instagram-down-for-many-users-across-the-world-) · `en`
-
-Meta-owned social media platforms Facebook and Instagram were down for hundreds of thousands of users on Tuesday in a global outage that has been going on for more than an hour.
-
-The disruptions started around 10:00 am ET (1500 GMT), with many users saying on rival social media platform X they had been booted out of Facebook and Instagram and were unable to log in.
-
-There were more than 300,000 reports of outages for Facebook and 40,000 reports for Instagram on tracking website Downdetector.com.
-
-“We’re aware people are having trouble accessing our services. We are working on this now,” Meta spokesperson Andy Stone said in a post on X.
-
-The social media giant, shares of which were down 1.5% in late morning trade, has about 3.19 billion daily active users across its family of apps, which also include WhatsApp and Threads.
-
-Meta’s status dashboard showed the application programming interface for WhatsApp Business was also facing issues.
-
-...
-
-[Data](articles/86f647ec.json)
-
-[Extended Data](ext_articles/86f647ec.ext.json)
-
----
-
-### Facebook, Instagram & Threads down as users face login problems
-
-*2024-03-05 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97752/facebook-instagram-threads-down-as-users-face-login-problems) · `en`
-
-Meta’s social media platforms Instagram, Facebook and Threads were down for many users on Tuesday.
-
-Facebook and Threads seem to be particularly impacted. Neither app was loading as of 10 a.m. ET, when reports of the outage started to surface on DownDetector.com. Instagram feeds aren’t refreshing for some users, while others are still able to access the app.
-
-The service disruption follows a major outage in 2021, when Facebook, Instagram and WhatsApp were down for more than six hours. At the time, Facebook, now Meta, said the outage was caused by “configuration changes on backbone routers.”
-
-“We’re aware people are having trouble accessing our services. We are working on this now,” Meta spokesperson Andy Stone said in a post on the social media site X.
-
-◼️
-
-[Data](articles/b5c9f408.json)
-
-[Extended Data](ext_articles/b5c9f408.ext.json)
-
----
-
-### Facebook Instagram and Messenger break down
-
-*2024-03-05 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194179) · `si`
-
-Facebook, Instagram, and Messenger are among the world's leading social media networks, but they have reportedly collapsed.
-
-🟩
-
-It is reported that Facebook, and Messenger network has collapsed among the world's leading social media networks.
-
-◼️
-
-[Data](articles/30db120d.json)
-
-[Extended Data](ext_articles/30db120d.ext.json)
-
----
-
-### Vadivel Suresh should take steps to get the salaries of plantation people - Vadivel Suresh
-
-*2024-03-05 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178008) · `ta`
-
-Vadivel Suresh calls for plantation companies to pay salaries or vacate, criticizes delayed land rights and racism, and demands better development programs for hill country.
-
-🟩
-
-Public officials working in the hill country should make transfers. Opposition member Vadivel Suresh said that if the plantation companies cannot afford the salaries of the plantation people, they should leave plantations and manage the gardens.
-
-He said this while addressing the second day debate on the Bind Receivables Bill, Trusting Receivables (Amendment) Bill, Amendment (Amendment) Bill, Financial Leasing (Amendment) Bill.
-
-Public Officers who serve in the hill country should take the transfers and make a better service.. I am demanding more concern during the development programs in the mountain plantation and that the people should be open to the people there.
-
-...
-
-[Data](articles/71dab074.json)
-
-[Extended Data](ext_articles/71dab074.ext.json)
-
----
-
-### Sri Lanka aim for T20I series win over Bangladesh
-
-*2024-03-05 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-aim-for-T20I-series-win-over-Bangladesh/108-278293) · `en`
-
-Colombo, Mar. 5 (Daily Mirror) - After a splendid batting performance from Sri Lanka's top order, they will aim for a Twenty20 International (T20I) Series win against Bangladesh when the two teams clash in the second match at the Sylhet International Cricket Stadium tomorrow.
-
-Sri Lanka are likely to replace young fast bowler Matheesha Pathirana for the second T20I with either Dilshan Madushanka or Nuwan Thushara.
-
-Pathirana showed signs of injury concern during the first T20I, bowling nine wides and three no-balls in a lengthy spell.
-
-Despite Pathirana struggling, Sri Lanka's top and middle order performed well, with stand-in Captain Charith Asalanka providing a strong finish after impressive knocks from opener Kusal Mendis and middle-order batter Sadeera Samarawickrama.
-
-Apart from Pathirana's struggle, Sri Lanka's overall performance was excellent and changes are unlikely, the Daily Mirror learns.
-
-...
-
-[Data](articles/4825a234.json)
-
-[Extended Data](ext_articles/4825a234.ext.json)
 
 ---

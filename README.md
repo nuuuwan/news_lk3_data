@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 02:02:46**
+As of **2024-03-07 02:17:45**
 
 ## Newspaper Stats
 
-*Scraped **11,349** Articles*
+*Scraped **11,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
 islandlk | 601
-dailyftlk | 602
+dailyftlk | 603
 adalk | 959
 tamilmirrorlk | 1,379
 adaderanalk | 1,383
@@ -26,55 +26,93 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,346 (100.0%) of 11,349 articles have been extended.
+11,349 (100.0%) of 11,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
+### Inaugural IMRA Awards honours outstanding achievements of Muslim women and others
+
+*2024-03-07 01:59:47* · [`dailyftlk`](https://www.ft.lk/news/Inaugural-IMRA-Awards-honours-outstanding-achievements-of-Muslim-women-and-others/56-759245) · `en`
+
+From left: Saarah Deen Ismail, Yasmin Cader, Rezani Aziz, Chief Guest Deshamanya Radhika Coomaraswamy, Shahnasz Hakeem, Feroza Ameen, Dr. Shemoon Marleen, Farzana Jameel, Ferial Ashroff, Juwairiya Mohideen, Neetha Dhammachari Ariyaratne, Anushya Coomaraswamy, and Fathima Aziz
+
+The All Ceylon Muslim Women’s Association (ACMWA), a venerable organisation with a 71-year legacy, proudly hosted the inaugural IMRA Awards to recognise the exceptional accomplishments of Muslim women in Sri Lanka.
+
+Held on 3 March at the prestigious Shangri-La Colombo, this landmark event coincided with the upcoming International Women’s Day and showcased the remarkable achievements of strong, visionary women from the community.
+
+...
+
+[Data](articles/feeff466.json)
+
+---
+
 ### USAID empowers women entrepreneurs to drive economic growth in Sri Lanka
 
 *2024-03-07 01:52:11* · [`dailyftlk`](https://www.ft.lk/news/USAID-empowers-women-entrepreneurs-to-drive-economic-growth-in-Sri-Lanka/56-759244) · `en`
 
+One of the forty women entrepreneurs who completed the year-long USAID and WDF training and mentorship program receives her certificate from USAID Sri Lanka and Maldives Economic Growth Deputy Director Dennis Wesner
+
+USAID officials chat with women entrepreneurs supported by a USAID and WDF training and mentorship program in Weerawila
+
+An entrepreneur smiles following a certificate award ceremony upon completion of a year-long USAID and WDF training and mentorship program
+
 The United States Agency for International Development (USAID) and the Women’s Development Federation (WDF) marked the successful culmination of the “Capacity Building Program on Trade and Market Access for Women Entrepreneurs” by honouring forty resilient women entrepreneurs from Sri Lanka’s Southern districts, including Hambantota, Galle, Matara, and Monaragala, at a ceremony in Weerawila.
-
-These women entrepreneurs have completed a year-long journey, during which they received training and mentorship from USAID and WDF, equipping them with essential skills to effectively manage their micro and small businesses.
-
-Moreover, they have gained invaluable insights into expanding their market reach and accessing both domestic and international trade opportunities. This program, supported by the United States, stands as a significant milestone in empowering women-led and women-owned enterprises and driving socio-economic development in the region.
 
 ...
 
 [Data](articles/492a8145.json)
 
+[Extended Data](ext_articles/492a8145.ext.json)
+
 ---
 
-### சாந்தனை நாட்டுக்கு அழைக்க மனிதாபிமான அடிப்படையில் நடவடிக்கைகள் முன்னெடுக்கப்பட்டன - வெளிநாட்டலுவல்கள் அமைச்சர்
+### Humanitarian activities were carried out to invite Santhan to the country - Minister of Foreign Affairs
 
 *2024-03-07 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178128) · `ta`
 
-சாந்தனை அவரது குடும்பத்துடன் ஒன்று சேர்ப்பதற்கு மனிதாபிமான அடிப்படையில் நடவடிக்கைகளை முன்னெடுத்தோம்.இந்தியா அனுமதி வழங்கவில்லை.புற்றுநோய் காரணமாகவே அவர் உயிரிழந்தார். ஆகவே பொய்யான குற்றச்சாட்டுக்களை முன்வைக்க வேண்டாம் என வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி சபையில் தெரிவித்தார்.
+India denied permission for humanitarian reasons to bring Santhan, accused of murdering former Indian PM, to Sri Lanka. Despite efforts by Northern MPs, no immediate response from India. Santhan, suffering from cancer, died naturally.
 
-பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற அமர்வில் உரையாற்றிய  தமிழ்த் தேசிய மக்கள் முன்னணி பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் உரையாற்றும் சாந்தனின் மரணத்துக்கு இலங்கை அரசாங்கம் பொறுப்புக் கூற வேண்டும். அவரை நாட்டுக்கு அழைத்து வர நடவடிக்கைகள் எடுக்கப்படவில்லை என்று குறிப்பிட்டார். இதற்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-சாந்தன் இந்தியாவின் முன்னாள் பிரதமரின் கொலையுடன் தொடர்புடைய குற்றவாளியாவார். இந்தியாவிலேயே அவர் தடுத்து வைக்கப்பட்டிருந்தார். அவரை இலங்கைக்கு அழைத்து வருவது தொடர்பில் டக்ளஸ் தேவானந்தா உள்ளிட்ட வடக்கு பாராளுமன்ற உறுப்பினர்கள் கோரிக்கைகளை முன்வைத்திருந்தனர்.
+We have carried out a humanitarian basis to join Santhan with his family. India did not grant permission.. Foreign Affairs Minister Ali Sabri told the House not to make false allegations.
+
+Speaking at a session in Parliament on Wednesday (6). He noted that steps were not taken to bring him to the country. In response, he said the above.
+
+Shantan is accused in connection with the murder of former Prime Minister of India. He was detained in India. Northern MPs, including Douglas Devananda, had made demands for bringing him to Sri Lanka.
+
+In this case, the government tried to bring Shantan to Sri Lanka on a humanitarian basis and join his relatives. But the favorable answers from the Indian government were not immediately available.
+
+Shantan, who was suffering from cancer, died. This is the natural death. Do not use this issue to politics. Get rid of the opposition to all.
 
 ...
 
 [Data](articles/80b1ceab.json)
 
+[Extended Data](ext_articles/80b1ceab.ext.json)
+
 ---
 
-### இலங்கை - அமெரிக்க மக்கள் தொடர்பை வலுப்படுத்த இத்திட்டம் உதவும் - அமெரிக்கத்தூதுவர் ஜுலி சங்
+### This program to strengthen Sri Lanka -American people
 
 *2024-03-07 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178127) · `ta`
 
-இலங்கையில் பின்தங்கிய பிரதேசங்களில் கற்பித்தல் உள்ளிட்ட சமூகப்பணிகளை முன்னெடுப்பதற்காக வருகைதந்துள்ள அமெரிக்க பீஸ் கோப்ஸ் தன்னார்வத் தொண்டர்கள், அடுத்த இருவருடகாலத்துக்கு தமது அர்ப்பணிப்புடன்கூடிய சேவையை உறுதிப்படுத்தி புதன்கிழமை (6) சத்தியப்பிரமாணம் செய்துகொண்டனர்.
+US Peace COPS volunteers, sponsored by the US government, have been sworn in for two years to serve in Sri Lanka, focusing on social work and education in disadvantaged areas. This marks the first time since 1962 that Piece Cops volunteers have been introduced in Sri Lanka. Education Minister Susil Premajayantha expressed hope for improved English skills among the younger generation through this program. US High Commissioner Julie Sung highlighted the long-standing cooperation between the US and Sri Lanka, thanking the volunteers for their contributions to Sri Lanka's development.
 
-அமெரிக்காவின் பீஸ் கோப்ஸ் அமைப்பின் ஊடாக அடுத்துவரும் இருவருடகாலத்துக்கு தன்னார்வ அடிப்படையில் இலங்கையில் சேவையாற்றவுள்ள தொண்டர்களை அறிமுகப்படுத்துவதுடன், அவர்கள் சத்தியப்பிரமாணம் செய்யும் நிகழ்வு புதன்கிழமை (6) கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+🟩
+
+Volunteers of American Piece Copes volunteers, who have come to carry out social work, including teaching in the backward areas of Sri Lanka, have been sworn in on Wednesday (6), confirming their dedicated service for the next two years.
+
+The event will be introduced by volunteers in Sri Lanka for two years through the US Peace COPS and their swearing -in ceremony was held on Wednesday (6) at the Bandaranaike Memorial International Conference Hall in Colombo.
+
+'Piece Cops' is a welfare organization sponsored by the US government. Through this organization, US volunteers are united and sent to over 60 countries to serve communities.Volunteers who do so will work in social work, including teaching in schools in disadvantaged areas, implementing priority programs, establishing interconnections, sharing culture and knowledge, and helping future generations.
 
 ...
 
 [Data](articles/d4ace5cf.json)
+
+[Extended Data](ext_articles/d4ace5cf.ext.json)
 
 ---
 
@@ -2265,29 +2303,5 @@ Two students, including the convener of the Inter-University Students' Federatio
 [Data](articles/4299e29b.json)
 
 [Extended Data](ext_articles/4299e29b.ext.json)
-
----
-
-### Telecom demands to be removed
-
-*2024-03-06 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194208) · `si`
-
-The Attorney General requested the Court to remove an interim injunction order issued by the Institute of Telecom and Lanka Hospitals, affecting the transfer process of selected candidates until March 12. The request was made by General Sumathi Dharmawardena on behalf of Sri Lanka Telecom, Pitigo Commemorate Company, and Himsopitles Company. The petitions were heard by Judge DN Samarakoon at the Court of Appeal.
-
-🟩
-
-The Attorney General asked the Court today to remove the interim injunction order issued by the Institute of Telecom and Lanka Hospitals.
-
-Based on the currently selected candidates, the transfer of the transfer process was suspended until March 12, an interim injunction.
-
-Extra Solicitor, who was present on behalf of the Attorney General for Sri Lanka Telecom, Pitigo Commemorate Company and Himsopitles Company and Himsopitles Company and Himsopitles Company and Himsopitles.The request was made by General Sumathi Dharmawardena.
-
-The petitions were summoned before the Court of Appeal today, Judge DN Samarakoon and is currently being made regarding the request.
-
-◼️
-
-[Data](articles/3b26fa7c.json)
-
-[Extended Data](ext_articles/3b26fa7c.ext.json)
 
 ---

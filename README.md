@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 08:17:43**
+As of **2024-03-06 08:33:29**
 
 ## Newspaper Stats
 
-*Scraped **11,137** Articles*
+*Scraped **11,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 575
 dailyftlk | 593
 islandlk | 601
 adalk | 937
-tamilmirrorlk | 1,351
+tamilmirrorlk | 1,352
 adaderanalk | 1,356
 virakesarilk | 1,508
 dailymirrorlk | 1,701
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,130 (99.9%) of 11,137 articles have been extended.
+11,137 (100.0%) of 11,138 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,17 +36,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
 
+In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
+
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
 
-“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
-
 ...
 
 [Data](articles/d3ae41f0.json)
+
+[Extended Data](ext_articles/d3ae41f0.ext.json)
 
 ---
 
@@ -66,21 +68,29 @@ However, he said the present government could have gone for early negotiations w
 
 [Data](articles/79ff01ec.json)
 
+[Extended Data](ext_articles/79ff01ec.ext.json)
+
 ---
 
-### ග්ලුකෝමා රෝගීන්ගේ ශීඝ්‍ර ඉහළ යෑමක්
+### Rapid increase in glaucoma patients
 
 *2024-03-06 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194188) · `si`
 
-මෙරට ජනගහනයෙන් සියයට 5ක පමණ ප්‍රමාණයක් ග්ලුකෝමා රෝගයට ගොදුරු වී ඇති බව බවට ඇස්තමේන්තු ගත කර ඇති බව සෞඛ්‍ය අමාත්‍යංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+Glaucoma cases in Sri Lanka have surged to 5%, significantly higher than the global average of 3.54%. This increase is attributed to the prevalence of the disease among the elderly population. Preventive programs are in place to identify and manage the condition early.
 
-ඔහු පවසන්නේ, ලොව පුරා ග්ලුකෝමා රෝගයෙන් පීඩාවිඳින ප්‍රමාණය මෙන්ම මෙරට තුළ ද මෙම රෝගයට ගොදුරු වූවන් ප්‍රමාණයේ යම් ඉහළ යාමක් දක්නට ලැබෙන බවය.
+🟩
 
-"ලොකේ ගත්තත්, ලංකාව ගත්තත් අන්ධභාවයට පත්වෙන්න තුඩු දෙන එක ප්‍රධාන හේතුවක් තමා ග්ලුකෝමා රෝගී තත්ත්වය. ලෝකයේ සියයට කීයක් ඉන්නවද කිව්වොත් 3.54%යි. හැබැයි ලංකාවේ 5%කට ආසන්න ප්‍රමාණයක් ඉන්නවා. අපේ වැඩිහිටි ජනගහනය වැඩිවීම මෙයට එක් හේතුවක් වෙන්න පුළුවන්. ඒ නිසා අපේ රටේ 5%කට පමණ ආසන්න ප්‍රමාණයක් ඇස්තමේන්තු කරලා තියෙනවා මේ රෝගයෙන් පෙළෙනවා කියලා. ඒ නිසා ඇස් පරීක්ෂා කරගැනීම සඳහා යොමු කරන එක ඉතා වැදගත් වෙනවා. ප්‍රතිපත්තිමය වශයෙන් අපේ රටේ තියෙන අක්ෂි ආබාධ කල් ඇතිව හඳුනාගෙන වළක්වා ගත හැකි ආබාධ වළක්වා ගැනීමට වැඩසටහන් සම්පාදනය කරලා තියෙනවා."
+It is estimated that about 5 percent of the country's population has become victims of glucoma.
+
+He says that the number of glaucoma suffered and in the country, the disease is the increase in the size of the disease.
+
+The main reason is that the lordo loke and Sri Lankans, the disease is the disease of glucoma. How many percent of the world is 3.54%. But there are nearly 5% in Sri Lanka. This is one reason why our adult population increases. Therefore, nearly 5% of our country estimated that the disease is suffering from the disease. Therefore, directing the eyes is very important. Programs have been made to identify and prevent preventative disorders in advance in principle. "
 
 ◼️
 
 [Data](articles/a5cbfcb0.json)
+
+[Extended Data](ext_articles/a5cbfcb0.ext.json)
 
 ---
 
@@ -124,45 +134,57 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 
 ---
 
-### ඛනිජ තෙල් සංස්ථාවේ විදෙස් විනිමය ඉහළට
+### Exchange top of the Petroleum Corporation
 
 *2024-03-06 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194187) · `si`
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ විදේශ විනිමය ආදායම් සැලකිය යුතු ප්‍රමාණයකින් ඉහළ ගොස් තිබේ.
+The Ceylon Petroleum Corporation's foreign exchange income has significantly increased, driven by growth in fuel supply income and burning oil exports. State Minister Ranjith Siyambalapitiya noted that fuel prices will align with global market conditions.
 
-පසුගිය වසරට සාපේක්ෂව එම සංස්ථාවේ ඩොලර් අදායම ඉහළ ගොස් ඇති බවට නවතම අදායම් වාර්තා මඟින් අනාවරණය කර ඇති බව එහි ප්‍රකාශකයෙකු පැවසුවේය.
+🟩
 
-නෞකා වෙත ඉන්ධන සැපයීමේ ක්‍රියාවලිය හරහා උපයාගන්නා ආදායම්වල කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කර ඇති අතර සංස්ථාවේ ඩොලර් ආදායම් ඉහළ යාමට එය ප්‍රධාන හේතුවක් වී ඇති බව සඳහන්ය.
+The foreign exchange income of the Ceylon Petroleum Corporation has increased significantly.
 
-ඊට අමතරව පසුගිය කාලය තුළ සිදුකළ දැවී තෙල් අපනයනය කිරීමේ කාර්යය හරහා ද ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සැලකිය යුතු ආදායමක් උපයා ඇති බව වාර්තා වේ.
+A spokesperson has revealed that the proceeds of the proceeds of the corporation have increased compared to last year.
 
-මේ අතර ලෝක වෙළෙඳපොළේ තත්ත්වයන්ට අනුකූලව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සිදුකරනු ලබන වියදම් මත ඉන්ධන මිල සුත්‍රය ක්‍රියාත්මක වන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසුවේය.
+The vessels have shown a significant growth in the income earned through the fuel supply process and it is a key to the increase in the currency of the corporation.
+
+In addition, the Ceylon Petroleum Corporation has earned a significant income through the export of the burning oil exports.
+
+Meanwhile, State Minister Ranjith Siyambalapitiya stated that the fuel prices will operate on the expenses conducted by the Ceylon Petroleum Corporation in accordance with the conditions of the world market.
 
 ◼️
 
 [Data](articles/dc20b475.json)
 
+[Extended Data](ext_articles/dc20b475.ext.json)
+
 ---
 
-### අත්හිටවු බස්නාහිර පළාත් පාසල් විභාග අද සිට
+### Western Province school examinations from today
 
 *2024-03-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194186) · `si`
 
-තාවකාලිකව අත්හිටුවා තිබූ බස්නාහිර පළාතේ පාසල්වල 10 සහ 11 ශ්‍රේණිවල අවසාන වාර පරීක්ෂණ කටයුතු අද (06) දිනයේ සිට යළි පැවැත්වීමට නියමිතව තිබේ.
+Western Province Grade 10 and 11 exams resume today after suspension due to premature release on social media. New question papers prepared. Education Minister Susil Premajayantha announces measures from new education reform program.
 
-බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්ලමේන්තුව සඳහන් කළේ, වාර විභාගයේ මෙතෙක් නොපැවැත්වූ විෂයන් සඳහා විභාග කටයුතු පැවැත්වීමට නියමිතව ඇති බවය.
+🟩
 
-විභාගය පැවැත්වීමට පෙර විද්‍යාව, ඉංග්‍රීසි සහ ගණිතය යන  ප්‍රශ්න පත්‍ර  සමාජ මාධ්‍ය වෙත නිකුත් වීම හේතුවෙන් 10,11 ශ්‍රේණිවල විභාග කටයුතු තාවකාලිකව අත්හිටුවනු ලැබීය.
+The final investigation of Grade 10 and 11 of the schools in the Western Province which was temporarily suspended will be held from today (06).
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් මේ වන විටත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් විමර්ශනයක් ආරම්භ කර තිබේ.
+The Department of Education The Department of Education stated that examination will be held for subjects not so far.
 
-කෙසේවෙතත් නව ප්‍රශ්න පත්‍ර සකස් කිරීමෙන් අනතුරුව අද සිට අදාළ ශ්‍රේණිවල විභාග කටයුතු යළි පැවැත්වීමට නියමිත බව බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
+Examination in 10,11 were temporarily suspended as the examination was released to the social media before the examination was released.
 
-මේ අතර කොළඹ පැවැති උත්සවයකට එක්වෙමින් අදහස් දැක්වු අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පැවසුවේ නව අධ්‍යාපන ප්‍රතිසංස්කරණ වැඩසටහන හරහා විභාග කේන්ද්‍රීය අධ්‍යාපනයෙන් විතැන් වු ක්‍රියාමාර්ග ගැනීමට අවශ්‍ය සැලසුම් සකස් කර ඇති බවය.
+The CID has already begun an investigation into the incident.
+
+However, after preparation of new question paper, the examination will be held today, the Western Province Education Department further said.
+
+Meanwhile, Minister of Education Susil Premajayantha said that plans have been made to take measures to take measures to take action only from the new education reform program.
 
 ◼️
 
 [Data](articles/b0a30185.json)
+
+[Extended Data](ext_articles/b0a30185.ext.json)
 
 ---
 
@@ -220,23 +242,47 @@ In some places in the Western and Sabaragamuwa Province, some locations are expe
 
 ---
 
-### முட்டைக்கு அதிகபட்ச விலை
+### பாடசாலைகளில் அரசியல் செயற்பாடுகளுக்கு தடை
+
+*2024-03-06 04:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-அரசியல்-செயற்பாடுகளுக்கு-தடை/175-334262) · `ta`
+
+பாடசாலைகள் மற்றும் பாடசாலை வளாகங்களை அரசியல் செயற்பாடுகளுக்காக பயன்படுத்துவதற்கு தடைவிதிக்கும் அதிகாரத்தை மாகாண ஆளுநர்களுக்கு வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் செய்தியாளர் சந்திப்பில் நேற்று அமைச்சரும், அமைச்சரவை பேச்சாளருமான பந்துல குணவர்தன மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+பாடசாலை மற்றும் பாடசாலை வளாகங்களில் அரசியல் செயற்பாடுகள் முன்னெடுக்கப்படுவதால் மாணவர்களின் கற்றல் செயற்பாடுகளுக்கு இடையூறு ஏற்படுவதாக பல்வேறு தரப்பிடமிருந்து முறைப்பாடுகள் முன்வைக்கப்பட்டுள்ளன.
+
+அவற்றினை கருத்திற்கொண்டு, அந்த பகுதிகளில் கூட்டங்கள் உள்ளிட்ட அரசியல் செயற்பாடுகளை முன்னெடுப்பதனை தடை செய்வதற்கு மாகாண ஆளுநர்களுக்கு அதிகாரம் வழங்குவதற்காக ஜனாதிபதி சமர்ப்பித்த யோசனைக்கு அனுமதி வழங்கப்பட்டுள்ளதாக அமைச்சரும், அமைச்சரவை பேச்சாளருமான பந்துல குணவர்தன தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/601f4ebd.json)
+
+---
+
+### Maximum price for egg
 
 *2024-03-06 04:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-அதிகபட்ச-விலை/175-334259) · `ta`
 
-முட்டைக்கான உச்சபட்ச சில்லறை விலையை நிர்ணயித்து விசேட வர்த்தமானி அறிவித்தலை வெளியிடுவதற்காக, விலை நிர்ணயத்தை அடுத்த வாரம் நுகர்வோர் அதிகார சபைக்கு அனுப்புவதற்கு விவசாய அமைச்சுத் தீர்மானித்துள்ளது.
+The Ministry of Agriculture plans to set a maximum egg price next week, aiming to control market prices during festivals. This decision follows a discussion led by Agriculture Minister Mahinda Amaraweera, highlighting the need for normal pricing during festivals. Additionally, 4 crore eggs will be imported from India to help curb prices.
 
-விவசாய அமைச்சர் மஹிந்த அமரவீர தலைமையில் நேற்று இடம்பெற்ற கலந்துரையாடல் ஒன்றின் போது இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-தற்போது சந்தையில் முட்டையின் விலை கட்டுப்பாடின்றி பாரிய அளவு அதிகரித்துள்ளதாக குறித்த  கலந்துரையாடலின் போது சுட்டிக்காட்டப்பட்டுள்ளது.
+The Ministry of Agriculture has decided to send the price of the Consumer Authority to the Consumer Authority next week to make a special gazette notification to fix the peak retail price for the egg.
 
-இந்தநிலையில் எதிர்வரும் பண்டிகை காலத்தில் நுகர்வோருக்கு சாதாரண விலையில் முட்டையை வழங்குவதற்காக முட்டைக்கான உச்சபட்ச விலை நிர்ணயம் செய்யப்படவுள்ளது.
+The decision was taken during a discussion held yesterday under the leadership of Agriculture Minister Mahinda Amaraweera.
 
-இதேவேளை, சந்தையில் முட்டையின் விலை உயர்வைக் கட்டுப்படுத்தும் வகையில், எதிர்வரும் பண்டிகைக் காலத்தில் இந்தியாவில் இருந்து சுமார் 4 கோடி முட்டைகளை இறக்குமதி செய்வதற்கும் இதன்போது தீர்மானிக்கப்பட்டுள்ளது. (a)
+During the discussion, it was pointed out that the price of eggs in the market has increased uncontrollably.
+
+In this context, the peak pricing of the egg will be set to provide for the consumers at normal prices during the festival.
+
+Meanwhile, it has been decided to import about 4 crore eggs from India in the coming festive season to curb egg prices in the market.. (A)
 
 ◼️
 
 [Data](articles/1c74aa60.json)
+
+[Extended Data](ext_articles/1c74aa60.ext.json)
 
 ---
 
@@ -1014,17 +1060,23 @@ The sugar factory was opened by Mrs. Sirimavo Bandaranaike, who was the post of 
 
 ---
 
-### එයාලා දැන් ලොකුයි
+### They're big now
 
 *2024-03-05 22:06:53* · [`adalk`](https://www.ada.lk/picture_story/එයාලා-දැන්-ලොකුයි/10-408437) · `si`
 
-දෙහිවල ජාතික සත්වෝද්‍යානයේ සිටින රොබින් සහ කෙල්ල යන  ව්‍යාඝ්‍ර යුවලට දාව ඉපදුනු  පිරිමි ව්‍යාඝු පැටවුන් තිදෙනා වන අකීරා, තියෝ, ඩූමා යන  පැටවුන්ගේ  දෙවන උපන් දිනය මාර්තු මස 05 වන දිදෙහිවල ජාතික සත්වෝද්‍යාන අධ්‍යක්ෂ මෙහෙයුම් අනෝමා ප්‍රියදර්ශනී මහත්මිය  ඇතුලු නිලධාරීන් විසින් සත්වෝද්‍යාන පරිශ්‍රයේදී  සැමරීම  සිදු කරනු ලැබිණි.
+The National Zoological Pubs, born at Dehiwala National Zoo, celebrated their second birthday with a party featuring three parcels in the bananas, attended by Dinasana Deputy Director Nimal Senarath, Animal Trustee Thilak Pushpakumara, and other guests.
 
-මෙහිදී කෙසෙල් කොලවල එතූ මස් පාර්සල් තුනක් ලබා දෙමින් සැමරීම සිදු කරනු ලැබිණි. මෙම අවස්ථාවට සත්වෝද්‍යාන නියෝජ්‍ය අධ්‍යක්ෂිකා දිනූෂිකා මානවඩු අධ්‍යාපන නිලධාරී නිහාල් සෙනරත්,  සත්ව භාරකරු තිලක් පුෂ්පකුමාර මහතා ඇතුලු නිධාරීන් සමග නරඹන්නන් පිරිසක්ද සහභාගිවී සිටියහ.
+🟩
+
+The second birthday of the National Zoological Pubs, who were born to the Robin and Girl, who was born in the Dehiwala National Zoo, was celebrated at the zoo premises.
+
+It was celebrated with three parcels in the bananas. Dinasana Deputy Director of the National Gardens' Nimal Senarath, Animal Trustee Thilak Pushpakumara and a group of visitors including Thilak Pushpakumara were also present.
 
 ◼️
 
 [Data](articles/afdb6ba8.json)
+
+[Extended Data](ext_articles/afdb6ba8.ext.json)
 
 ---
 
@@ -2161,23 +2213,5 @@ A bond maturing on 15.09.2027 closed at 11.85/95 percent, down from 11.90/12.05 
 [Data](articles/02976efb.json)
 
 [Extended Data](ext_articles/02976efb.ext.json)
-
----
-
-### AKD’s visit to India was on routine invitation: high commissioner to Sri Lanka
-
-*2024-03-05 17:17:00* · [`economynextcom`](https://economynext.com/akds-visit-to-india-was-on-routine-invitation-high-commissioner-to-sri-lanka-153268/) · `en`
-
-ECONOMYNEXT — Sri Lanka leftist leader Anura Kumara Dissanayake’s recent high-profile visit to India was on a routine invitation generally extended to eminent persons from other countries and not at all unusual, according to Indian High Commissioner Santosh Jha.
-
-The high commissioner told EconomyNext on the sidelines of an event in Colombo on Tuesday March 05 that the invitation was part of a visitation scheme by the Indian Council for Cultural Relations, an autonomous organisation of the Government of India, involved in India’s global cultural relations, through cultural exchange with other countries and their people.
-
-“It was a normal invitation to a Sri Lankan leader. We have a scheme, by which we bring business leaders, political leaders and cultural leaders from other countries to India, called the Distinguished Visitors Programme of the Indian Council for Cultural Relation. It was under that scheme that he was invited,” said Jha.
-
-...
-
-[Data](articles/63626233.json)
-
-[Extended Data](ext_articles/63626233.ext.json)
 
 ---

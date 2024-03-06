@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 04:33:00**
+As of **2024-03-07 04:50:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,358 (100.0%) of 11,359 articles have been extended.
+11,359 (100.0%) of 11,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,17 +194,25 @@ The United States Agency for International Development (USAID) and the Women’s
 
 ---
 
-### ’நாட்டை சீரழித்தவர்களை பாதுகாக்கும் ஜனாதிபதி’
+### President
 
 *2024-03-07 01:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-சீரழித்தவர்களை-பாதுகாக்கும்-ஜனாதிபதி/175-334310) · `ta`
 
-நாட்டை சீரழித்தவர்களை பாதுகாக்கும் செயற்பாடுகளிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க ஈடுபடுகின்றார் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa criticizes President Ranil Wickremesinghe for protecting those who have degraded the country. The opposition leader mentioned the hell and the hanging bridge, accusing the president of preventing the people from getting rid of the country and not getting the country's assets. The president, in response, claimed to be in a big fire, noting that the thieves are within the crowd and that he has never received votes from them. He also criticized the Ceremonial Backup Act and the attempt to turn the Constitutional Council into a tool of the executive sector. The United People's Power has prepared a solution for economic progress, expecting growth that benefits everyone.
 
-பெப்ரவரி 20ஆம் திகதி இரண்டாவது மதிப்பீட்டு விவாதத்துக்கு எடுத்துக்கொள்ளப்பட்டு, ஒத்திவைக்கப்பட்ட பிணைப் பொறுப்பளிக்கப்பட்ட கொடுக்கல், வாங்கல்கள் சட்டமூலம், நம்பிக்கைப் பொறுப்பு பற்றுச் சீட்டுக்கள் (திருத்தச்) சட்டமூலம், ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்குவிடுதல் (திருத்தச்) சட்டமூலம், உள்நாட்டு நம்பிக்கைப் பொறுப்புத் (திருத்தச்) சட்டமூலம், கம்பனிகள் (திருத்தச்) சட்டமூலம், ஆவணங்கள் பதிவுக் கட்டளைச் சட்டம் (திருத்தச்) சட்டமூலம் ஆகியன மீதான மூன்றாம் நாள் விவாதம் புதன்கிழமை (06)  பாராளுமன்றத்தில் நடைபெற்ற போது அதில் உரையாற்றுகையிலேயே எதிர்க்கட்சித் தலைவர் இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+Opposition leader Sajith Premadasa said President Ranil Wickremesinghe is engaged in the process of protecting those who have degraded the country.
+
+The Second Assessment Discussion on February 20th was taken up and adjourned bail, the Bill, the Bill, the Bureau of Relations (Amendment) Bill, the Amendment (Amendment) Bill, the Financial Lease (Amendment) Bill, the Internal Trust (Amendment) Bill (Amendment) BillThe Opposition Leader said this while addressing the third day debate on the Bill and the Registration Ordinance (Amendment) Bill in Parliament on Wednesday (06).
+
+While addressing the President, he mentioned the hell and the hanging bridge. But you are the founders of hell. You are the one who prevented the people of this country from getting rid of the country.
 
 ...
 
 [Data](articles/6c4e19d3.json)
+
+[Extended Data](ext_articles/6c4e19d3.ext.json)
 
 ---
 

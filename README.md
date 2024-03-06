@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 22:50:52**
+As of **2024-03-06 23:02:57**
 
 ## Newspaper Stats
 
-*Scraped **11,328** Articles*
+*Scraped **11,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,58 @@ bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-dailyftlk | 593
+dailyftlk | 594
 islandlk | 601
 adalk | 959
 tamilmirrorlk | 1,377
 adaderanalk | 1,382
-virakesarilk | 1,547
-dailymirrorlk | 1,728
+virakesarilk | 1,548
+dailymirrorlk | 1,729
 adaderanasinhalalk | 1,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,327 (100.0%) of 11,328 articles have been extended.
+11,328 (100.0%) of 11,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### ஜனாதிபதி - முஸ்லிம் எம்.பி.க்களுக்கிடையில் விசேட சந்திப்பு
+
+*2024-03-06 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178123) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் முஸ்லிம் பாராளுமன்ற உறுப்பினர்களுக்கிடையிலான விசேட சந்திப்பொன்று புதன்கிழமை (6) பாராளுமன்ற கட்டடத் தொகுதியில் இடம்பெற்றுள்ளது.
+
+அரசியலமைப்பின் 13ஆவது திருத்தத்துக்கமைய மாகாணசபைகளுக்கான அதிகாரப்பகிர்வில் பொலிஸ் அதிகாரத்தைத் தவிர ஏனையவற்றை வழங்குவதற்காகப் பாராளுமன்றத்தில் கூட்டு இணக்கப்பாட்டை ஏற்படுத்தப்படுத்தும் நோக்கில் தமிழ் மற்றும் முஸ்லிம் பாராளுமன்ற உறுப்பினர்களை சந்திக்கவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த வாரம் தெரிவித்திருந்தார். அந்த வகையிலேயே புதன்கிழமை (6) இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+இந்த சந்திப்பில் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், பாராளுமன்ற உறுப்பினர்களான சட்டத்தரணி எச்.எம்.எம். ஹரீஸ், ஏ.எல்.எம்.அதாஉல்லா, எம்.சி. பைசால் காஸிம், செய்யத் அலிஸாஹிர் மௌலானா, சட்டத்தரணி எஸ்.எம்.எம். முஷாரப் முதுனபின் ஆகியோர் கலந்து கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/41f0e48d.json)
+
+---
+
+### Atire becomes the World’s 1st carbon neutral solid tire company
+
+*2024-03-06 22:22:58* · [`dailyftlk`](https://www.ft.lk/business/Atire-becomes-the-World-s-1st-carbon-neutral-solid-tire-company/34-759229) · `en`
+
+Atire Ltd. CEO and Director Saveen Abeyratne receiving the certificate from the Secretary to the Ministry of Environment Prabath Chandrakeerth
+
+In a ground-breaking move, ATIRE Ltd., the rapidly growing industrial solid tire company based in Sri Lanka, has redefined the standards of environmental responsibility by becoming the world’s first carbon-neutral industrial solid tire manufacturing company.
+
+This incredible milestone, certified by the Sri Lanka Climate Fund - under the Ministry of Environment of Sri Lanka, highlights ATIRE’s commitment to pioneering sustainable industrial practices.
+
+Established in 2019, ATIRE has rapidly become a leading manufacturer and distributor of world-class specialty solid tires, serving diverse industrial sectors across over 40 countries worldwide. Renowned for their performance and longevity, ATIRE’s products cater to various applications, including material handling, construction, agriculture, accessibility, and ports.
+
+...
+
+[Data](articles/16f171c9.json)
+
+---
 
 ### Former OIC worries
 
@@ -59,6 +93,22 @@ The suspects have also been suspended from the recommendation of the Police Comm
 [Data](articles/594a5197.json)
 
 [Extended Data](ext_articles/594a5197.ext.json)
+
+---
+
+### Have your own pic on postal stamps for Rs.2,000
+
+*2024-03-06 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-your-own-pic-on-postal-stamps-for-Rs-2-000/108-278368) · `en`
+
+Colombo, March 6 (Daily Mirror) - The Sri Lanka Postal Department is offering citizens the chance to design postal stamps featuring their own photographs or events, with a creation cost of Rs.2000, said Postmaster General Ruwan Sathkumara.
+
+Addressing an event organized in Colombo to unveil a stamp for Hatton National Bank (HNB), he announced that individuals can now acquire a sheet of stamps with 20 stamps tailored for special occasions like weddings, gatherings, and parties or their own photographs.
+
+"Families can enhance the uniqueness of their wedding cards by using these stamps, featuring photos of the couple. These stamps can also serve as postal stamps," he mentioned.
+
+◼️
+
+[Data](articles/3bf2bde5.json)
 
 ---
 
@@ -196,7 +246,7 @@ It has been increased to Rs.
 
 ### Bangladesh wins 08 wickets
 
-*2024-03-06 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
+*2024-03-06 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
 
 Bangladesh won by 8 wickets in the 2nd T20 match against Sri Lanka, who scored 165/5 in 20 overs. Bangladesh achieved the win in 18.1 overs. The series is evenly balanced.
 
@@ -314,23 +364,31 @@ The biggest crisis and a grievance of a young man at the age of 20, who was tryi
 
 ---
 
-### සමන් පැය හතරක් වමාරයි
+### Saman four hours
 
 *2024-03-06 20:03:48* · [`adalk`](https://www.ada.lk/breaking_news/සමන්-පැය-හතරක්-වමාරයි/11-408461) · `si`
 
-බාල බෙහෙත් ජාවාරම පිළිබඳ සියලු තොරතුරු හෙළි කරමින් සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක නමැත්තා මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය හමුවේ පැය 04ක කාලයක රහස් පාපෝච්චාරණයක් අද (06දා) කළේය.
+Saman Ratnayake, Additional Secretary to the Ministry of Health, supervised the arrest of Maliyakkanda Magistrate Lokawellama Weerasinghe on the 6th. Weerasinghe was produced in court based on a presidential order presented by prison officials. He was detained on a prison bus until 11:00 pm, then taken to court. After four hours, he was returned to prison around 3:00 pm.
 
-සැකකාර සමන් රත්නායක නමැත්තා අධිකරණයට ඉදිරිපත් කිරීමට බන්ධනාගාර අධිකාරිවරයාට කළ නියමයට අනුව ඔහු මහේස්ත්‍රාත්වරියගේ නිල මැදිරියට ඉදිරිපත් කිරීමෙන් අනතුරුව ඔහු එලෙස පාපෝච්චාරණය කළේය.
+🟩
 
-රහස් පාපෝච්චාරණය කිරීම සඳහා ඔහු 04 වැනිදා පෙරවරුවේ අධිකරණයට ඉදිරිපත් කරන ලෙස කළ නියමයට අනුව බන්ධනාගාර නිලධාරීන් විසින් විශේෂ ආරක්‍ෂාව යටතේ ඔහු අධිකරණයට ඉදිරිපත් කළ අතර ඉන් අනතුරුව ඔහු අද (06දා) යළිත් වරක් අධිකරණයට ඉදිරිපත් කරන ලදි.
+The Additional Secretary to the Ministry of Health, Saman Ratnayake, the Additional Secretary to the Ministry of Health, said that the Additional Secretary to the Ministry of Health said Maliyakkanda Magistrate Lokawellama Weerasinghe on the 6th.
 
-බන්ධනාගාර නිලධාරීන් විසින් උදෑසන 9.00ට පමණ විශේෂ ආරක්‍ෂාව සහිත බන්ධනාගාර බස් රථයකින් ඔහු අධිකරණයට කැඳවාගෙන පැමිණි අතර දහවල් 11.00 පමණ වනතුරු ඔහු එම බස්රථයේ රඳවා තබන ලදි.
+He was submitted to the Magistrate's official compartment to the supervision of Prisons Saman Ratnayake to produce the suspect.
 
-අධිකරණයෙන් ලද කැඳවීමකට අනුව දහවල් 11.00ට පමණ සැකකාර සමන් රත්නායක නමැත්තා මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මියගේ නිල මැදිරියට ඉදිරිපත් කිරීමට බන්ධනාගාර නිලධාරීන් විසින් පියවර ගන්නා ලදි.
+According to the presence of the secret, he was produced before courts on the basis of the presidential presidential presented by the prison officials. He was produced before courts today (06).
 
-...
+Prison officials were taken to court on a special security prison bus and he was detained at the bus until 11:00 pm.
+
+Prison officials were taken by the prison officials to submit the suspect Saman Ratnayake at around 11.00 pm on a summon.
+
+For four hours, he was taken back to the prison around 3.00 pm.
+
+◼️
 
 [Data](articles/04a63c48.json)
+
+[Extended Data](ext_articles/04a63c48.ext.json)
 
 ---
 
@@ -2293,65 +2351,5 @@ Duty, EV allowances to Sri Lanka’s migrant workers who remit via official chan
 [Data](articles/491c2b7e.json)
 
 [Extended Data](ext_articles/491c2b7e.ext.json)
-
----
-
-### Seven men arrested in India over alleged gang-rape of tourist
-
-*2024-03-06 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97771/seven-men-arrested-in-india-over-alleged-gang-rape-of-tourist) · `en`
-
-Seven men are now in custody in India for the alleged gang-rape of a tourist and assault on her husband, authorities said, in a case that has shone a new spotlight on the endemic problem of sexual violence against women in the country.
-
-On Saturday, police announced that three men had been arrested in connection with the incident and that they were seeking four more.
-
-Dumka Deputy Commissioner Anjaneyulu Dodde confirmed to CNN Tuesday that four further suspects had now been detained.
-
-The couple, who had been traveling by motorcycle from the state of West Bengal to neighboring Nepal, were found late Friday by police officers on patrol, said Pitambar Singh Kherwar, superintendent of Dumka district police in Jharkhand state.
-
-They were taken to the hospital, where the woman told the doctor she had been raped, he said.
-
-Police have formed a special investigative team, Kherwar said. It is unclear whether the suspects have legal representation.
-
-...
-
-[Data](articles/2e87e223.json)
-
-[Extended Data](ext_articles/2e87e223.ext.json)
-
----
-
-### Central Bank’s lowest ranking employee’s salary increased to Rs. 188,827: Prime Minister
-
-*2024-03-06 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Banks-lowest-ranking-employees-salary-increased-to-Rs-188-827-Prime-Minister/155-278353) · `en`
-
-Parliament, March 6 (Daily Mirror)- The gross salary of the lowest ranking employee of the Central Bank, that of an Office Assistant - Grade 1, has been increased by 29.53 per cent up to Rs. 188,827, Prime Minister Dinesh Gunawardane said today.
-
-Responding to a question by SJB MP S.M. Marikkar, he told Parliament that the gross salary of the Deputy Governor has been increased by 76.97 per cent upto Rs. 1,728,419.
-
-The Prime Minister said the Central Bank employees are entitled to housing loans, vehicle loans, welfare loans and medical facilities as well.
-
-◼️
-
-[Data](articles/57fb1af5.json)
-
-[Extended Data](ext_articles/57fb1af5.ext.json)
-
----
-
-### Central Bank’s lowest ranking employee’s salary increased to Rs. 188,827: Prime Minister
-
-*2024-03-06 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Banks-lowest-ranking-employees-salary-increased-to-Rs-188-827-Prime-Minister/108-278353) · `en`
-
-Parliament, March 6 (Daily Mirror)- The gross salary of the lowest ranking employee of the Central Bank, that of an Office Assistant - Grade 1, has been increased by 29.53 per cent up to Rs. 188,827, Prime Minister Dinesh Gunawardane said today.
-
-Responding to a question by SJB MP S.M. Marikkar, he told Parliament that the gross salary of the Deputy Governor has been increased by 76.97 per cent upto Rs. 1,728,419.
-
-The Prime Minister said the Central Bank employees are entitled to housing loans, vehicle loans, welfare loans and medical facilities as well.
-
-◼️
-
-[Data](articles/81e30334.json)
-
-[Extended Data](ext_articles/81e30334.ext.json)
 
 ---

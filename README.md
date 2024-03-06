@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 16:03:56**
+As of **2024-03-06 16:17:49**
 
 ## Newspaper Stats
 
@@ -26,51 +26,67 @@ adaderanasinhalalk | 1,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,245 (100.0%) of 11,250 articles have been extended.
+11,250 (100.0%) of 11,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### ஏனைய மூவரையும் விடுவியுங்கள் ; இந்திய அரசை கோரும் ஜனநாயக போராளிகள் கட்சி
+### Get rid of the other three;Democratic fighters party demanding Indian state
 
 *2024-03-06 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178083) · `ta`
 
-முருகன், றொபேட்டயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் விரைந்து சிறப்பு முகாம்களில் இருந்து விடுவித்து தாயகம் திரும்ப ஆவண செய்ய வேண்டும் என இந்திய மத்திய மானில அரசுகளை எமது மக்களின் சார்பில் கேட்டுகொள்வதாக ஜனநாயகபோராளிகள் கட்சியின் தலைவர் சி.வேந்தன் தெரிவித்தார்.
+The Democratic Party leader C. Vendan demands the release of Murugan, Robateayas, and Jayakumar, who were convicted in Sriperumbudur cases. The Eelam Tamils feel their justifications and demands for a homeland are ignored. The relationship between the Eelam Tamils and India has been strained, with the Sri Lankan Indian Treaty and its staff in Sri Lanka being based on mutual welfare and security. The tragic event of the Siripur Buddha has widened the gap. The Eelam Tamils urge the Indian Central Manila Government to release the convicted individuals.
 
-தசாப்தங்கள் கடந்தும் ஈழத்தமிழர்களது நியாயங்களையும்  அறைகூவல்களையும் இந்தியா புரிந்துகொள்ள வேண்டும் என தமிழினம் கருதுகிறது.
+🟩
 
-ஈழத்தமிழர்களதும் இந்தியாவினதும் சமூக அரசியல் பொருளாதார பாதுகாப்பு உறவுநிலைகள் பன்னெடுங்கால வரலாற்றுக்கு உரியவை.
+Democratic Party leader C. Vendan said that Murugan, Robateayas and Jayakumar should quickly release the special camps and return their homeland.
 
-இந்தியா தனது பிராந்தியத்தின் நலன் மற்றும் ஈழத்தமிழினத்தின் பாதுகாப்பு அரசியல் உரிமை என்பவற்றை கருத்தில் கொண்டே தனது முழுமையான  பலத்தின்  திரட்சியின் அடிப்படையில்தான் இலங்கை இந்திய ஒப்பந்தத்தையும் இலங்கையில் தனது படைத்தரையிறக்கத்தையும் நிகழ்தியிருந்தது.
+The Tamils feel that India should understand the justifications and chambers of the Eelam Tamils after decades.
 
-அதற்கு பின்னரான சில கசப்பான அசாதாரணமான நிகழ்வுகள் இந்திய ஈழத்தமிழர்களது உறவு நிலைகளில் இடைவெளியினை ஏற்படுத்தி இறுதியில் சிறிபெரும் புத்தூரில் ஏற்படுத்தப்பட்ட துன்பியல் நிகழ்வினை அடுத்து ஈழத்தமிழர்களை இந்தியா முற்றுமுழுதாக கைவிட்டுவிட்டது.
+The socio -political and economic security relations of the Eelam Tamils and India are worthy of history.
+
+The Sri Lankan Indian Treaty and its Staff in Sri Lanka were based on the accumulation of its full strength, considering the welfare of its region and the security of the Eelam Tamil.
+
+Some of the bitter extraordinary events after that have been abandoned by the Eelam Tamils in the aftermath of the tragic event of the Siripur Buddha, which has finally created a gap in the relationship of the Indian Eelam Tamils.
+
+We and our people think that the relationship between us and India has been abandoned.
 
 ...
 
 [Data](articles/7b8f48a3.json)
 
+[Extended Data](ext_articles/7b8f48a3.ext.json)
+
 ---
 
-### புத்தகம் வெளியிடுகின்றார் கோட்டாபய ராஜபக்ச
+### Gotabhaya Rajapaksa publishes the book
 
 *2024-03-06 15:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகம்-வெளியிடுகின்றார்-கோட்டாபய-ராஜபக்ச/175-334286) · `ta`
 
-2019 நவம்பரில் தான் ஜனாதிபதியாகத் தெரிவு செய்யப்பட்ட காலத்திலிருந்து, சில வெளிநாட்டு சக்திகள் மற்றும் உள்ளூர் கட்சிகள் என்னை ஆட்சியில் இருந்து அகற்றும் நோக்கத்தில் இருந்ததாக முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தெரிவித்தார்.
+Gotabhaya Rajapaksa, former President of Sri Lanka, claims foreign powers and local parties conspired to remove him from power since his election in November 2019. He announced a book titled "Conspiracy to Excrement Me from the President," highlighting the first internationally sponsored regime change operation in Sri Lanka.
 
-இன்று (6) வெளியிட்டுள்ள அறிக்கை ஒன்றில் கோட்டாபய ராஜபக்ச இதை குறிப்பிட்டுள்ளார். மேலும்,
+🟩
 
-"ஜனாதிபதி பதவியில் இருந்து என்னை வெளியேற்றுவதற்கான சதி" என்ற தலைப்பில் புத்தகத்தை வெளியிடுவதாகவும் அறிவித்தார்.
+Former President Gotabhaya Rajapakse said that since November 2019 was elected president, some foreign powers and local parties were aimed at removing me from power.
 
-இந்த நாடு சுதந்திரமடைந்த முதல் அறுபது வருடங்களில் ஒருபோதும் அனுபவித்திராத வகையில் இன்று வெளிநாட்டுத் தலையீடும், உள் அரசியலின் சூழ்ச்சியும் இலங்கையில் உள்ளதாக ராஜபக்ச கூறினார்.
+Gotabhaya Rajapaksa stated this in a statement issued today (6). Further,
 
-தம்மை வெளியேற்றுவதற்கான அரசியல் பிரச்சாரம் இலங்கையின் அரசியலில் ஒரு புதிய அம்சத்தைக் கொண்டுவந்தது என்றும், சுதந்திரம் பெற்றதில் இருந்து தேர்தலுக்குப் பிறகு அமைதியான அதிகாரப் பரிமாற்றங்களை மட்டுமே இந்நாடு அனுபவித்து வந்ததாகவும் அவர் கூறினார்.
+He also announced that he would publish the book titled "Conspiracy to Excrement Me from the President."
 
-எனவே, 2022 ஆம் ஆண்டு நிகழ்வுகள் இந்த நாட்டின் எதிர்காலத்திற்கு கடுமையான தாக்கங்கள் நிறைந்தவை என்று ராஜபக்ச கூறினார்.
+Rajapakse said that Sri Lanka is in Sri Lanka today that the country has never experienced foreign intervention and internal politics.
 
-...
+He said that the political campaign for his expulsion had brought a new aspect in Sri Lanka's politics and that the country had only enjoyed peaceful power exchanges since independence.
+
+Therefore, Rajapakse said that the events of 2022 were severely impacted on the future of this country.
+
+He said the book explains the first experience of the internationally sponsored regime change operation. Remble
+
+◼️
 
 [Data](articles/146441f1.json)
+
+[Extended Data](ext_articles/146441f1.ext.json)
 
 ---
 
@@ -88,21 +104,29 @@ Accordingly, a group of police officers are reportedly slated to travel to Dubai
 
 [Data](articles/d690b55f.json)
 
+[Extended Data](ext_articles/d690b55f.ext.json)
+
 ---
 
-### රුසියානු කාන්තාවන් ගොඩදැමූ ලාංකික තරුණයෝ
+### Sri Lankan youths who have landed Russian women
 
 *2024-03-06 15:44:29* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-කාන්තාවන්-ගොඩදැමූ-ලාංකික-තරුණයෝ/11-408452) · `si`
 
-හික්කඩුව පන්නම්ගොඩ මුහුදු තීරයෙන් දිය නෑමට ගොස් සිටියදී හදිසියේ ආ දියවැලකට හසුව  මුහුදේ දියඹටම  ගසා ගෙන යමින් ජීවිතයත් මරණයත් අතර සිටි රුසියානු ජාතික කාන්තාවන් දෙදෙනකු  සිය දිවි පරදුවට තබා පොලිස් ජීවිතාරක්ෂක නිලධාරීන් හා වෙරළාරක්ෂක ජීවිතාරක්ෂක නිලධාරීන් විසින් නිරූපදරිතව අද (6) බේරාගෙන තිබේ.
+Two Russian women rescued from the sea by Sri Lankan police and coast protection officials. They claimed to have been swimming, not living in the sea.
 
-මේ  විදෙස් කාන්තාවන් දෙදෙනා තමන් දිය නාමින් සිටි වෙරළේ සිට දිය වැලට හසුව දියඹ මුහුදේ මීටර 250ක පමණ දුරක් ගසාගෙන යමින් සිටියදී පොලිස් හා වෙරළාරක්ෂක ජීවිතාරක්ෂක නිලධාරීන් විසින් මේ කාන්තාවන් දෙදෙනා බේරාගෙන තිබිනි.
+🟩
 
-දිය වැළට හසුව දියඹ මුහුදට ගසාගෙන ගිය ආකාරයට යලි  තමන්ට ජීවත්වීමට ලැබෙන්නේ නැතැයි සිතූ බවත් තමන්ගේ ජීවිත බේරාගත් පොලිස් හා වෙරලාරක්ෂක නිලධාරීන්ට සිය ජීවිතයම ණය බව සතුටු සිනා වගුරුවමින් මේ විදෙස් කාන්තාවන් දෙදෙනා කීහ.
+Two Russian national women in the sea while the Hikkaduwa was bathing from the sea saw the seaplace and two Russian women were rescued by police life protectors and coast protection security officials today (6).
+
+The two women had rescued the two women as the police and coast protection officials while two overseas were taken away from the dawn of the dawn.
+
+The two foreign women said that they were not living in the sea that they had been swimming to the sea as they were swollen to the sea.
 
 ◼️
 
 [Data](articles/7d4d6924.json)
+
+[Extended Data](ext_articles/7d4d6924.ext.json)
 
 ---
 
@@ -110,11 +134,19 @@ Accordingly, a group of police officers are reportedly slated to travel to Dubai
 
 *2024-03-06 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97775/immunoglobulin-scandal-addl-health-secretary-gives-confidential-statement-to-magistrate) · `en`
 
-The Additional Secretary of the Health Ministry Saman Ratnayake, who was recently arrested by the CID and remanded, has reportedly made a 4-hour long confidential statement to the Maligakanda Magistrate today (06).
+The Additional Secretary of the Health Ministry Dr. Saman Ratnayake, who was recently arrested by the CID and remanded over the procurement of substandard medicine, has reportedly made a 4-hour-long confidential statement to the Maligakanda Magistrate today (06).
+
+Dr. Saman Ratnayake was produced before the Maligakanda Magistrate today, and reportedly made a confidential statement for around four hours, before being escorted back to remand prison.
+
+On Friday (March 01), the Criminal Investigation Department (CID) apprehended him in connection with the substandard human intravenous immunoglobulin (IVIG) procurement scandal. He was ordered remanded after being produced at court the following day.
+
+Meanwhile on Friday, the Additional Health Secretary had stated before the courts that he was willing to make a confession regarding the matter, following which the court ordered him to be separated from the other arrested suspects in the case.
 
 ◼️
 
 [Data](articles/6cff218b.json)
+
+[Extended Data](ext_articles/6cff218b.ext.json)
 
 ---
 

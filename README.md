@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 17:03:25**
+As of **2024-03-06 17:17:45**
 
 ## Newspaper Stats
 
-*Scraped **11,268** Articles*
+*Scraped **11,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,102 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 951
+adalk | 952
 tamilmirrorlk | 1,375
-adaderanalk | 1,377
+adaderanalk | 1,378
 virakesarilk | 1,534
 dailymirrorlk | 1,721
-adaderanasinhalalk | 1,762
+adaderanasinhalalk | 1,763
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,262 (99.9%) of 11,268 articles have been extended.
+11,268 (100.0%) of 11,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### හුංගම වෙඩිතැබීමකින් පුද්ගලයෙක් මරුට
+### කාසියේ වාසිය බංග්ලාදේශයට
+
+*2024-03-06 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194214) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර දෙවන 20-20 තරගය සිලට් හිදී අද (06) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+
+තරග 3කින් සමන්විත මෙම තරගාවලියේ 1 - 0ක් ලෙස පෙරමුණ ගෙන සිටින්නේ ශ්‍රී ලංකා කණ්ඩායමය.
+
+◼️
+
+[Data](articles/4979f70e.json)
+
+---
+
+### AG seeks to lift interim order on divestment of SLT, Lanka Hospitals
+
+*2024-03-06 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97779/ag-seeks-to-lift-interim-order-on-divestment-of-slt-lanka-hospitals) · `en`
+
+The Attorney General has requested the Appeals Court to lift the interim order imposed pertaining to the divestment of Sri Lanka Telecom (SLT) and Lanka Hospitals.
+
+Last week, the Appeals Court delivered an interim order temporarily halting all future measures regarding the divestment of SLT and Lanka Hospitals until March 12.
+
+The relevant order was issued upon consideration of a writ petition filed by Lycamobile SARL and Pettigo Comércio Internacional on behalf of SLT and another filed by Lyca Leasing Holding Limited and HIMS International on behalf of Lanka Hospitals.
+
+When the petitions were taken up again before Appeals Court Judge D. N. Samarakoon today (March 06), Additional Solicitor General Sumathi Dharmawardhane made the request on behalf of the Attorney General.
+
+...
+
+[Data](articles/87b4995d.json)
+
+---
+
+### Man dies in a shooting of Hungama
 
 *2024-03-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194213) · `si`
 
-පොලීසිය සඳහන් කළේ අද (06) උදෑසන කාලයේදී මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+A man died in a shooting in Hungama today. The 39-year-old injured man was admitted to Tangalle Hospital. Police suspect the shooting was with a firearm. The victim and suspect had a dispute over a woman. The victim went fishing two days ago and was shot on his way to the bank in Ranna town. The suspect, known as "Bopeasala" from Kawadamodara village, was arrested.
 
-වෙඩිවැදීමෙන් තුවාල ලැබූ 39 හැවිරිදි පුද්ගලයා රන්න රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා තංගල්ල රෝහලට මාරුකර යැවීමේදී මියගොස් ඇත.
+🟩
 
-ගල්කටස් වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති බවට පොලීසිය සැක කරයි.
+The police said that this shooting was carried out today.
 
-කාන්තාවක් සමග පැවැති අනියම් සම්බන්ධතාවයක් හේතුවෙන් මරණකරු සහ සැකකරු අතර ඇතිවූ ආරවුලක් දුරදිග යෑමෙන් මෙම ඝාතනය සිදුකර ඇති බවට දැනට සිදුකර ඇති මූලික විමර්ශනවලදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The 39-year-old man who was injured in shooting was admitted to the Tangalle Hospital for further treatment.
 
-හුංගම පොලීසිය සඳහන් කළේ සිද්ධියට සම්බන්ධ සැකකරුව අත්අඩංගුවට ගෙන ඇති බවය.
+Police suspect that the shooting has been carried out by a galzotous firearm.
 
-වැඩිදුරටත් අනාවරණය වී ඇත්තේ ඝාතනයට ලක්වූ ධීවරයා හා සැකකරු යන දෙදෙනාම එකම කාන්තාවක සමග අනියම් සම්බන්ධතාවයක් පවත්වාගෙන ගොස් ඇති බවත් එය හේතු කොටගෙන දෙදෙනා අතර කලක පටන් ආරවුල් තිබූ බවත්ය.
+According to police, the premises have been revealed that the murder had been carried out by the deceased and the suspect, police said.
 
-මෙම පුද්ගලයා ධීවර රැකියාවට ගොස් මීට දින දෙකකට පමණ ඉහතදී යළි පැමිණ සිටියදී මෙලෙස ඝාතනය වී තිබේ.
+The Hungama Police said that the suspect had been arrested.
 
-ඔහු අද පෙරවරු 10.30ට පමණ මුදල් තැන්පත් කිරීම සඳහා රන්න නගරයේ පිහිටි බැංකුවට යාමට නිවෙසින් පිටත්වී තිබුණි.
+The victim has been revealed that both the murdered fisherman and the suspect had been a casual affair with the same woman and had been disputed with the two.
+
+The victim had gone to fishing about two days ago.
+
+He had left home to go to the bank in the Ranna town around 10.30 am.
+
+He had gone on a motorcycle and a friend went a friend from another motorcy before him.
+
+Police investigations have revealed that a person who had been waiting for him had been shooting.
 
 ...
 
 [Data](articles/8f0c48f6.json)
+
+[Extended Data](ext_articles/8f0c48f6.ext.json)
+
+---
+
+### අන්තරේට බොරැල්ලෙදී ජල ප්‍රහාරයක්  කැඳවුම්කරු අත්ඩංගුවට
+
+*2024-03-06 16:50:29* · [`adalk`](https://www.ada.lk/breaking_news/අන්තරේට-බොරැල්ලෙදී-ජල-ප්‍රහාරයක්--කැඳවුම්කරු-අත්ඩංගුවට/11-408458) · `si`
+
+බොරැල්ල මංසන්ධියේදී අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බල මණ්ඩලය සංවිධානය කළ විරෝධතා පා ගමනකට පොලීසිය ජල ප්‍රහාරයක් එල්ලකර තිබේ. මේ අතරතුර අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත් අත්ඩංගුවට ගත් බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/f2fcfc5a.json)
 
 ---
 
@@ -77,6 +133,8 @@ The accused, along with Kerala cannabis and the motorcycle, has been handed over
 ◼️
 
 [Data](articles/f3de07c4.json)
+
+[Extended Data](ext_articles/f3de07c4.ext.json)
 
 ---
 
@@ -136,21 +194,31 @@ Ten suspects including former Health Minister Keheliya Rambukwella have been rem
 
 [Data](articles/0c077300.json)
 
+[Extended Data](ext_articles/0c077300.ext.json)
+
 ---
 
-### மாலைதீவு பாதுகாப்பு அமைச்சரை பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் சந்தித்தார்
+### Defense Minister of State for Defense Bandara Tennakoon
 
 *2024-03-06 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178090) · `ta`
 
-பாதுகாப்பு இராஜாங்க அமைச்சர் கௌரவ பிரமித்த பண்டார தென்னகோன் மாலைதீவு பாதுகாப்பு அமைச்சர் கௌரவ மொஹமட் கஸ்ஸான் மஃமூனை நேற்று (மார்ச் 05) மாலைதீவு பாதுகாப்பு அமைச்சில் சந்தித்தார்.
+Defense Minister Bandara Tennakoon met with Maldivian Defense Minister Mohammed Kassan Mumoon, discussing security cooperation, training assistance, and addressing common challenges like climate change and violent extremism.
 
-இந்த சந்திப்பின் போது, இராஜாங்க அமைச்சர் தென்னகோன் உள்ளிட்ட குழுவினரை வரவேற்ற அமைச்சர் கஸ்ஸான் மாலைதீவுக்கு உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டமைக்கு நன்றி தெரிவித்தார். மாலைதீவின் தேசிய பாதுகாப்புப் படைக்கு வழங்கப்பட்ட தொடர்ச்சியான பயிற்சி உதவிகளுக்காக இலங்கை அரசாங்கம் மற்றும் ஆயுதப்படைகளுக்கு அவர் நன்றி தெரிவித்தார்.
+🟩
 
-மாலைதீவுக்கும் இலங்கைக்கும் இடையிலான பாதுகாப்பு ஒத்துழைப்பு மற்றும் உறவின் முக்கியத்துவத்தை மேலும் வலியுறுத்திய அமைச்சர் கஸ்ஸான், பிராந்திய அமைதி மற்றும் ஸ்திரத்தன்மையை உறுதிப்படுத்துவதற்கு இரு நாடுகளுக்குமிடையில் மேடற்கொள்ளப்பட்டுவரும் கூட்டு முயற்சியின் முக்கியதுவத்தை இதன்போது எடுத்துரைத்தார்.
+Defense Minister of State for Defense Bandara Tennakoon met with the Maldivian Defense Minister of Defense Mohammed Kassan Mumoon yesterday (March 05) at the Maldivian Defense Ministry.
+
+During the meeting, Minister Kassan thanked the Minister for his official visit to the Maldives who welcomed the delegation including the Minister of State Tennakoon.. He thanked the Sri Lankan government and the armed forces for continuous training assistance provided to the Maldives National Security Forces.
+
+Minister Kassan emphasized the importance of security cooperation and the importance of the Maldives and Sri Lanka, and highlighted the significance of the joint venture between the two countries to ensure regional peace and stability.
+
+Minister Tennakoon thanked the Maldives Defense Minister for inviting Maldives to visit. The Minister of Defense has promised to provide continuous military education and training assistance to the Maldives' National Security Forces.
 
 ...
 
 [Data](articles/5b038bd1.json)
+
+[Extended Data](ext_articles/5b038bd1.ext.json)
 
 ---
 
@@ -232,43 +300,59 @@ In Tuesday’s incident, after the trucks were rerouted they were stopped by “
 
 ---
 
-### மன்னார் பள்ளிமுனை கிராம மீனவர்கள் போராட்டம் முன்னெடுப்பு
+### Mannar Pallimunai Village fishermen protest
 
 *2024-03-06 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178088) · `ta`
 
-மன்னார் பள்ளிமுனை கிராம மீனவர்கள் எதிர்நோக்கும் பிரச்சினைகளுக்கு துரித நடவடிக்கைகளை முன்னெடுக்க கோரி குறித்த கிராம மக்கள் இன்று புதன்கிழமை (6) காலை கவனயீர்ப்பு போராட்டம் ஒன்றை முன்னெடுத்தனர்.
+Fishermen in Mannar Pallimunai Village protested for immediate action on livelihood issues, including disruptions, border problems, and the impact of small business fishermen on coastal sea farms.
 
-பள்ளிமுனை புனித லூசியா மீனவர் கூட்டுறவு சங்கத்தின் ஏற்பாட்டில் இன்றைய தினம் காலை 9.30 மணியளவில் பள்ளிமுனை மீன் சந்தை கட்டிடத் தொகுதிக்கு முன் குறித்த கவனயீர்ப்பு போராட்டம்  ஆரம்பமானது.
+🟩
 
-குறித்த போராட்டத்தில் பள்ளிமுனை பங்குத்தந்தை, குறித்த கிராம மீனவர்கள் என பல நூற்றுக்கணக்கானவர்கள் கலந்து கொண்டனர்.
+The villagers launched a protest on Wednesday morning (6), demanding speedy measures to be taken on the problems faced by the Mannar Pallimunai village fishermen.
 
-கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டவர்கள் மன்னார் மாவட்டச் செயலகம் வரை அமைதியான முறையில் பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளை ஏந்தியவாறு சென்றனர்.
+The protests began at 9.30 am today at the St. Lucia Fishermen's Co -operative Society in front of the Pallimunai fish market building.
 
-இதன்போது பள்ளிமுனை கிராம மீனவர்கள் தமது வாழ்வாதாரத்தையும் தமக்கான இடங்களையும் தக்கவைப்பதில் பல்வேறு இடையூறுகளுக்கு முகம் கொடுத்து வருவதாக தெரிவித்தனர்.
+Hundreds of people participated in the protest, including the school fishermen and the village fishermen.
 
-மேலும், மன்னார் சௌத்பார் மீன்பிடி துறையில் மீனவர்கள் வாழ்வாதாரம் மற்றும் மீன் பிடி எல்லை பிரச்சினைகளுக்கு முகம் கொடுத்து வருகின்றனர்.
+Those involved in the protests went to the Mannar District Secretariat peacefully carrying banners written by various text.
+
+The village fishermen said that the fishermen of the school were facing various disruptions in retaining their livelihoods and their places.
+
+In addition, fishermen in the Mannar Saudbar Fisheries Department are facing livelihood and fishing border problems.
 
 ...
 
 [Data](articles/d91a1055.json)
 
+[Extended Data](ext_articles/d91a1055.ext.json)
+
 ---
 
-### සප්ත කන්‍යා ගුවන් අනතුරට අදට වසර 50ක්
+### 50 years for Rabara Virgin Air
 
 *2024-03-06 16:17:55* · [`adalk`](https://www.ada.lk/breaking_news/සප්ත-කන්‍යා-ගුවන්-අනතුරට-අදට-වසර-50ක්/11-408456) · `si`
 
-මගීන් 182ක් සහ කාර්ය මණ්ඩලයේ 9දෙනා මරණයට පත්කල සප්ත කන්‍යා ගුවන් අනතුරට අදට වසර 50ක්
+A tragic air crash involving Martiny's 138 airline, with 191 passengers and 9 staff killed, occurred in Sri Lanka. The Indonesian government and the Governor of the Central Province, Lalith U Gamage, are involved in memorializing the victims.
 
-සප්ත කන්‍යා කදුවැටිය පාමුල සිදුවු  ගුවන් සිදුවු ගුවන් අනතුරට වසර 50ක් පිරිම නිමිත්තෙන් අනතුරින් මියගිය පිරිස සිහිකරමින් අනුමස්මරණ උත්සවයක් 05දා පස්වරුවේ අඹගමුව සප්ත කන්‍යාකදුවැටිය පාමුල ඇති ස්මාරකය අභියසදි මෙරට ඉන්දුසියානු තානාපතිනි දේවි ගුස්ටිනා ටොබින් (Dewi Gustina Tobing) මහත්මිය සහ මධ්‍යම පළාත් ආණ්ඩුකාර නිතිඥ ලලිත් යු. ගමගේ මහතාගේ ප්‍රධානත්වයෙන් සිදු කෙරුණි.
+🟩
 
-මාටින්එයා ගුවන් සේවයේ 138 ගුවන් යානය 1974 දෙසැම්බර් 4 දින ශ්‍රී ලංකාවේ සප්ත කන්‍යා කඳු වැටියේ ගැටී විනාශයට පත් වු අතර  එය ඉන්දුනීසියාවේ සුරාබයා සිට කොළඹට එමින් තිබු   මැක්ඩොනල් ඩග්ලස් DC-8-55CF යානය මෙමඅනතුරට පත්වු අතර මෙම අනතුරින් යානයේ සිටි මගීන් 191ක් සිටි අතර  හජ්ජි සැමරීමට මක්කම බලා ගමන්ගනිමින් සිටි ඉන්දුනීසියානු මගීන් 182ක් සහ කාර්ය මණ්ඩලයේ 9දෙනා  මෙහිදි  මරණයට පත් වූහ.
+182 passengers and 50 passengers for the rabbited virgin air end held today
 
-මෙම පිරිස සිහි කිරිම සදහා ඉන්දුනිසායනු රජය විසින් සප්තකන්‍යා කදුවැටිය පාමුල ස්මාරකය ඉදිකළේය.
+Devi Gustina Todbin, DEWI GUSTINA TEOBING at the base of the flight crash at the Base of Ravtalan Kellawatiya, the Governor of the Central Province, and the Governor of the Central Province Lalith Jan. Gamage was chaired by Mr. Gamage.
+
+Martiny's 138 airline was destroyed by Indonesia from Indonesia in Sri Lanka, which was 191 passengers in the crash and Makkos to celebrate HjjThere were 182 Indonesian passengers and the nine staff were killed.
+
+The Indonesana government to the Memorial has built monument at the base of the Sri Lankan government.
+
+The tourist chief is a premier program at the time of the end of the fifty years and has a two-minute silence to commemorate the dead.
+
+The Indology, Expendian, Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusta Tobin said.
 
 ...
 
 [Data](articles/9c6917ed.json)
+
+[Extended Data](ext_articles/9c6917ed.ext.json)
 
 ---
 
@@ -2259,91 +2343,5 @@ The U.S. wants any Security Council support for a ceasefire to be linked to the 
 [Data](articles/259774f3.json)
 
 [Extended Data](ext_articles/259774f3.ext.json)
-
----
-
-### Can be recovered from this through severe decisions
-
-*2024-03-06 10:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுமையான-தீர்மானங்கள்-ஊடாகவே-இதிலிருந்து-மீள-முடியும்/175-334266) · `ta`
-
-President Ranil Wickremesinghe emphasized the need for strict resolutions to recover from the economic crisis, highlighting increased state revenue, reduced inflation, and a decrease in the value of the US dollar. He also mentioned a temporary loan repayment plan and the reduction of foreign loan amounts.
-
-🟩
-
-President Ranil Wickremesinghe said that beautiful words and promises cannot resolve the economic crisis, but through strict resolutions it can be recovered from the crisis.
-
-Also,. The economy is found in the initial phase stability. The President also said that the people of the country will continue to provide relief.
-
-He also said that the selected items, including the book and pharmaceuticals, will be removed from the list of taxes.
-
-The President also said that he would not provide relief to the economy.. Remble
-
-௧. The President said that the state's revenue was increased by 50 percent in 2023 compared to 2022 and that last year was able to obtain surplus in the main account last year, he said.
-
-௨. Inflation fell from 70% in September 2022 due to the coordinated micro economic question management initiative to 5.9% in February 2022.Stated
-
-...
-
-[Data](articles/3977803f.json)
-
-[Extended Data](ext_articles/3977803f.ext.json)
-
----
-
-### 99 kilograms of Hazis drug seizure in Tamil Nadu
-
-*2024-03-06 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178029) · `ta`
-
-Central Economic Intelligence Bureau and the Hall seized 99 kg of Hassees in Tamil Nadu, valued at 408 crores. A boat carrying drugs was found and confiscated by the Indian Coast Guard near Dhanushkodi, with three arrests.
-
-🟩
-
-99 kilograms of Hassees has been seized from the Ramanathapuram district of Ramanathapuram district of Tamil Nadu.
-
-This was seized by the Central Economic Intelligence Bureau and the Hall.
-
-401 crores (108 crores of Indian value) in Sri Lanka's value.
-
-Rameshwaram and Dhanushkodi Sea has received confidential information from the Madras Regional Central Revenue Investigation Unit of the Sri Lankan smuggling of drugs to Sri Lanka by boat.
-
-Following this, the Central Revenue Intelligence Unit, along with the Indian Coast Guard, rushed to the Dhanushkodi Sea on a patrol vessel yesterday.
-
-At the time, the country's boat was searched in the middle of the sea near Dhanushkodi.. The boat has found several crores worth of drugs.
-
-Following this, the Indian Coast Guard confiscated the drug and boat and arrested three people aboard the boat.
-
-In a statement issued by the Madras Central Revenue Investigation Unit of the Madras Regional Center on the seizure of the drug,
-
-...
-
-[Data](articles/a4d53264.json)
-
-[Extended Data](ext_articles/a4d53264.ext.json)
-
----
-
-### 5 year old girl abuse;Rigorous imprisonment for part -time teacher
-
-*2024-03-06 10:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/5-வயதுச்-சிறுமி-துஷ்பிரயோகம்-பகுதி-நேர-ஆசிரியருக்கு-கடூழிய-சிறை/76-334265) · `ta`
-
-A 5-year-old girl was sexually abused by Rajaratnam Ketheeswaran, a part-time teacher, in 2010. He was sentenced to life imprisonment. The victim may receive 2 years in prison and compensation.
-
-🟩
-
-Nuwara Eliya High Court Magistrate Viraj Weerasuriya yesterday (05) sentenced a man to 12 years in prison for allegedly accused of sexual abuse.
-
-A person who belongs to the Clavatan area belonging to the Nathanirij police division has been sentenced to life imprisonment.
-
-Rajaratnam Ketheeswaran, who was a part -time teacher at a Klavatan area school in January 2010, had sexually abused a grade five educated girl.
-
-He was sentenced to life imprisonment after the case was identified as a part -time teacher guilty on the basis of evidence that had been heard in the Nuwara Eliya High Court for the past 14 years.
-
-The judge also announced that the victim should be sentenced to 2 years in prison if the victim should be paid a compensation of Rs.. Remble
-
-◼️
-
-[Data](articles/03a2b130.json)
-
-[Extended Data](ext_articles/03a2b130.ext.json)
 
 ---

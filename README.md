@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 21:03:05**
+As of **2024-03-06 21:17:54**
 
 ## Newspaper Stats
 
-*Scraped **11,305** Articles*
+*Scraped **11,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,57 @@ tamilmirrorlk | 1,376
 adaderanalk | 1,381
 virakesarilk | 1,544
 dailymirrorlk | 1,727
-adaderanasinhalalk | 1,769
+adaderanasinhalalk | 1,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,303 (100.0%) of 11,305 articles have been extended.
+11,305 (100.0%) of 11,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### තුන්වන විනිසුරුගෙන් ශ්‍රී ලංකාවට එරෙහිව ආන්දෝලනාත්මක තීරණයක්
+### බංග්ලාදේශයට ජය
+
+*2024-03-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194221) · `si`
+
+ශ්‍රී ලංකාවට එරෙහිව පැවති දෙවන විස්සයි විස්ස තරගය බංග්ලාදේශ කණ්ඩායම කඩුලු 8කින් ජයගැනීමට සමත්විය.
+
+පන්දුවාර 18යි එක් පන්දුවක් අවසානයේ ලකුණු 170ක් රැස්කරගනිමින් ඔවුන් එම ජය හිමිකරගත්තේය.
+
+◼️
+
+[Data](articles/fd563fdc.json)
+
+---
+
+### Controversy decision against Sri Lanka
 
 *2024-03-06 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194220) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර දැන් පැවැත්වෙන දෙවන විස්සයි විස්ස තරගය අතරතුරදී සිදුවූ සුවිශේෂී සිදුවීමක් වෙත මේ වනවිට ලෝකයේම අවධානය යොමුව තිබේ.
+In the second T20, Sri Lanka vs. Bangladesh, Kusal Mendis was out due to a no-ball decision, sparking controversy. The field judge initially called it a wide, but after reviewing with Ultra Edge technology, the third umpire overturned the decision, leading to unrest among the Sri Lankan players.
 
-එහිදී තරගයේ සිව්වන පන්දුවාරයේ බිනුර යොමුකළ පළමු පන්දුව සෞම්‍ය ශංකර්ගේ පිත්තේ ගෑවී කඩුලු රකින කුසල් මෙන්ඩිස් රැකගනු ලැබීය.
+🟩
 
-පිටියේ විනිසුරුවරයා එහිදී සෞම්‍ය ශංකර් දැවී ගිය පිතිකරුවෙකු ලෙස නම්කළ අතර සෞම්‍ය ශංකර් එය තුන්වන විනිසුරු වෙත යොමුකරන ලෙසට ඉල්ලා සිටියේය.
+The world is focused on an unique event during the second T20, between Sri Lanka and Bangladesh.
 
-එහිදී Ultra edge තාක්ෂණය පරීක්ෂා කිරීමේදී එය පිත්තේ ගෑවී යන බවට පෙණුම් කළද තෙවැනි විනිසුරු විසින් තීරණය කළේ එය පෙන්නුම් කරන අවස්ථාවේ පන්දුව සහ පිත්ත අතර පරතරයක් පවතින බැවින් ඔහු නොදැවුණු ක්‍රීඩකයෙක් ලෙස නම් කිරීමටය.
+The first ball of the fourth over the fourth over the fourth ball, Kusal Mendis was protected by a tendegrade.
 
-එහිදී පිටියේ යම් නොසන්සුන්කාරී තත්ත්වයක් ඇතිවූ අතර එම තීරණයට එරෙහිව ශ්‍රී ලංකා ක්‍රීඩකයින් පිටියේ විනිසුරු වෙත කරුණු දක්වන අයුරු දැකගත හැකිවිය.
+The field judge was named a tendency to bowledist, and the temperate Shankar requested to send it to the third judge.
 
-...
+While checking the Ultra Edge technology, the third judge decided to name the ball and the bat, as it was a gap between the ball and the bat.
+
+There was some unrest in the field and the Sri Lankan players respond to the field of the Sri Lankan players.
+
+The third judge requires a factor to change the decision to change the decision by the Third Edge technology.
+
+◼️
 
 [Data](articles/279f2e26.json)
+
+[Extended Data](ext_articles/279f2e26.ext.json)
 
 ---
 
@@ -138,21 +160,27 @@ He has been interrogated by the Puttalam court in connection with the rape of a 
 
 ---
 
-### හුංගම වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට
+### Hungama shot dead
 
 *2024-03-06 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හුංගම-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-408460) · `si`
 
-හුංගම කහඳමෝදර ප්‍රදේශයේදී අද (06දා) දහවල් සිදු කළ වෙඩි තැබීමකින් පුද්ගලයෙක් මිය ගොස් ඇති බව හුංගම පොලීසිය කියයි.
+In Hungama, a shooting incident occurred near Kahandamodara Junction, leading to the death of Ediriweera Jayasuriya Patriaden Patriaden, a 42-year-old boat skier. The police are investigating and have not yet arrested any suspects.
 
-කහඳමෝදර හන්දිය ආසන්නයේදී මෙම වෙඩි තැබීම සිදුකර ඇති අතර, වෙඩි වැදුණු පුද්ගලයා තංගල්ල මූලික රෝහලට රැගෙන යෑමෙන් පසු මිය ගොස් ඇති බව පොලීසිය පවසයි.
+🟩
 
-මෙලෙස ජිවිතක්ෂයට පත්ව ඇත්තේ, කහඳමෝදර පදිංචි එදිරිවීර ජයසූරිය පටබැඳිගේ උපුල් ප්‍රියදර්ශන (42) නමැති බෝට්ටු ස්කීපර්වරයෙක් බව දැනට හෙළි වී ඇති බව පොලීසිය කියයි.
+Hungama Police say that a shooting person has been killed in a shooting conducted in the Hungama Kahandamodara area.
 
-ගල් කටස් වර්ගයේ ගිනිඅවියකින් වෙඩි තැබීම සිදුකර ඇති බවට පොලීසිය සැකකරයි. මෙතෙක් සැකකරුවන් අත්අඩංගුවට ගෙන නොමැත. සිද්ධිය සම්බන්ධයෙන් හුංගම පොලීසිය පරීක්ෂණ සිදු කරයි.
+The shooting was carried out near Kahandamodara Junction, police said.
+
+According to the police, Ediriweera Jayasuriya Patriaden Patriaden (42) is a boat skier of the Upul Priyadhana (42), a resident of Kahandamodara.
+
+Police suspect that the stone Katus was shot dead. The suspects have not been arrested yet. Hungama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/fd7ca6da.json)
+
+[Extended Data](ext_articles/fd7ca6da.ext.json)
 
 ---
 
@@ -2331,27 +2359,5 @@ Experts regarding the incident said that the person had many doses, but he has n
 [Data](articles/c0ee7750.json)
 
 [Extended Data](ext_articles/c0ee7750.ext.json)
-
----
-
-### Air pollution slightly upward
-
-*2024-03-06 12:30:01* · [`adalk`](https://www.ada.lk/breaking_news/වායු-දුෂණය-තරමක්-ඉහළට/11-408447) · `si`
-
-Air pollution in Sri Lanka has slightly increased, with the highest levels in Colombo. The National Building Research Organization warns that this could negatively impact health, especially for sensitive individuals. The average air pollution index poses a risk to vulnerable populations.
-
-🟩
-
-The National Building Research Organization says that the gas situation has been raped in the 24 hours ending today.The highest air corruption has been reported in Colombo and 114 is recorded as 114.
-
-The report further states that this situation can have a healthy adverse effect of sensitive people.. The people requests the public to take attention to the public, as the average air pollution index in the country can have a risk to have a risk of sensitive people.
-
-In addition, 88 in the city of Trincomalee, Galle, Galle and 88 in the city of Puttalam.
-
-◼️
-
-[Data](articles/b2cadb93.json)
-
-[Extended Data](ext_articles/b2cadb93.ext.json)
 
 ---

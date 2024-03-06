@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 11:17:51**
+As of **2024-03-06 11:33:22**
 
 ## Newspaper Stats
 
-*Scraped **11,172** Articles*
+*Scraped **11,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 1,355
 adaderanalk | 1,362
 virakesarilk | 1,516
 dailymirrorlk | 1,708
-adaderanasinhalalk | 1,744
+adaderanasinhalalk | 1,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,172 (100.0%) of 11,172 articles have been extended.
+11,172 (100.0%) of 11,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### සමන් රත්නායක අධිකරණය හමුවට
+
+*2024-03-06 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194195) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම් සමන් රත්නායක මහතාව මේ වනවිට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට රැගෙනවිත් තිබේ.
+
+◼️
+
+[Data](articles/28294613.json)
+
+---
 
 ### President reveals plans to exempt school essentials, medicines & medical equipment from VAT
 
@@ -2237,27 +2249,5 @@ The case was heard in the Kaduwela Magistrate's Court for two years and the 13 s
 [Data](articles/d8c01d3d.json)
 
 [Extended Data](ext_articles/d8c01d3d.ext.json)
-
----
-
-### Special Notice for E -Consumers
-
-*2024-03-05 20:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-பாவனையாளர்களுக்கான-விசேட-அறிவிப்பு/175-334253) · `ta`
-
-The Public Utilities Commission has reduced the fee for recovering electricity from 3,000 to 800 rupees for E-Consumers, allowing for easier power supply reform.
-
-🟩
-
-The Public Utilities Commission said that the people have been given relief in obtaining new power supply and withdrawal of the disconnected power supply.
-
-Previously after disconnecting the electrical connection, the fee for recovering electricity was 3,000 rupees. The Public Applications Commission has decided to reduce it to Rs 800.
-
-In addition, the amount of money cannot be paid during the power supply reform. Remble
-
-◼️
-
-[Data](articles/339cf175.json)
-
-[Extended Data](ext_articles/339cf175.ext.json)
 
 ---

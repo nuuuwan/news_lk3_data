@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 10:02:42**
+As of **2024-03-06 10:17:23**
 
 ## Newspaper Stats
 
-*Scraped **11,158** Articles*
+*Scraped **11,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,87 @@ islandlk | 601
 adalk | 939
 tamilmirrorlk | 1,354
 adaderanalk | 1,359
-virakesarilk | 1,511
-dailymirrorlk | 1,705
+virakesarilk | 1,512
+dailymirrorlk | 1,707
 adaderanasinhalalk | 1,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,157 (100.0%) of 11,158 articles have been extended.
+11,158 (100.0%) of 11,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
+### நான் இரண்டு ஓய்வூதியங்களை பெறுகிறேனா? மறுக்கின்றார் சந்திரிகா
+
+*2024-03-06 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178031) · `ta`
+
+முன்னாள் ஜனாதிபதி சந்திரிகா குமாரதுங்க தான் இரண்டு ஓய்வூதியங்களை பெறுவதாக மிகிந்தலை விகாராதிபதி தெரிவித்துள்ளதை நிராகரித்துள்ளார்.
+
+மிகிந்தல ரஜமஹா விகாரையின் தலைமை மதகுரு வலஹதம்மரட்ண தேரர் முன்வைத்துள்ள குற்றச்சாட்டுகளையே ஜனாதிபதி நிராகரித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி என்ற அடிப்படையில் எனக்கு வழங்கப்படும் ஓய்வூதியத்தை மாத்திரம் நான் பெறுகின்றேன் என முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி மகிந்தராஜபக்ச தனது பதவிக்காலத்தில் முன்னாள் ஜனாதிபதிகளிற்கான ஓய்வூதியத்தை 97000 ஆக அதிகரித்தார் எனினும் எனக்கும் முன்னாள் ஜனாதிபதி டிபி விஜயதுங்கவிற்கும் இந்த ஓய்வுதிய அதிகரிப்பு வழங்கப்படவில்லை எனவும் முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+எனினும் மைத்திரிபாலசிறிசேனஜனாதிபதியானதும இது சரிசெய்யப்பட்டது என தெரிவித்துள்ள முன்னாள் ஜனாதிபதி தனது வங்கிகணக்கிற்கு அனுப்பப்படும்  ஓய்வூதியம் சமூக சேவைகளிற்காக பயன்படுத்தப்படுவதாகவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8827c3e5.json)
+
+---
+
+### Parliamentary attendence of Ali Sabri Raheem suspended for one month
+
+*2024-03-06 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-attendence-of-Ali-Sabri-Raheem-suspended-for-one-month/108-278326) · `en`
+
+Colombo, March 6 (Daily Mirror) - Parliamentary attendence of Ali Sabri Raheem has been suspended for a period of one month from today over the gold smuggling case, Speaker Mahinda Yapa Abeywardane anounced today.
+
+He said the suspension was imposed in terms of the recommendations of the report which was presented to Parliament on 24 January 2024 by the Chairman of the Committee on Ethics and Privileges Chamal Rajapaksa.
+
+◼️
+
+[Data](articles/5f9a9b2f.json)
+
+---
+
 ### President delivers special statement in parliament
 
 *2024-03-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97763/president-delivers-special-statement-in-parliament) · `en`
 
-President Ranil Wickremesinghe has arrived at the parliament to deliver a special statement.
+President Ranil Wickremesinghe has arrived at the parliament to deliver a special statement on the progress of Sri Lanka’s economic recovery process.
 
 The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
 
 ◼️
 
 [Data](articles/5d75877a.json)
+
+[Extended Data](ext_articles/5d75877a.ext.json)
+
+---
+
+### Three killed in accident at Potuhera on Colombo-Kurunegala Road
+
+*2024-03-06 09:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-killed-in-accident-at-Potuhera-on-Colombo-Kurunegala-Road/108-278323) · `en`
+
+Potuhera, March 6 (Daily Mirror) - Three persons died in an accident near Bulogolla Junction in Potuhera on the Colombo-Kurunegala Main Road last night.
+
+Police said the accident occurred when a three-wheeler collided head-on with a vegetable transport lorry travelling from Kurunegala to Colombo.
+
+In the accident, four people who were travelling in the three-wheeler were seriously injured and admitted to the Kurunegala Hospital, where three died.
+
+Police said the identities of the deceased have not been confirmed yet.
+
+The driver of the lorry has been arrested by the Potuhera police.
+
+◼️
+
+[Data](articles/a1463829.json)
 
 ---
 
@@ -2125,75 +2181,5 @@ The autobiography 'Mage Kathawa' of SJB MP Imthiaz Bakeer Markar was launched at
 [Data](articles/30b3f85f.json)
 
 [Extended Data](ext_articles/30b3f85f.ext.json)
-
----
-
-### Cabinet extends validity of scheme for Sri Lankans abroad to import electric vehicles
-
-*2024-03-05 19:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-extends-validity-of-scheme-for-Sri-Lankans-abroad-to-import-electric-vehicles/108-278289) · `en`
-
-Colombo, March 5 (Daily Mirror) - The Cabinet has approved an extension of the validity period for the scheme enabling Sri Lankans working abroad to import fully electric vehicles, Cabinet spokesman and Minister Bandula Gunawardana said.
-
-He said Cabinet approval was granted in August 2022 for the rollout of a scheme allowing Sri Lankans employed overseas to import fully electric vehicles.
-
-This scheme operates on the condition of formal bank transfers of foreign remittances through licenced banks in Sri Lanka.
-
-At the Cabinet meeting held in January 2024, it was further decided to extend the validity period of the scheme till June 30, 2024.
-
-In line with this, the Cabinet has given approval to the proposal by the President, acting in his role as the Minister of Finance, to present the Import and Export Control Regulations No. 2 of 2024, issued under the Import and Export Control Act No. 1 of 1969, to parliament for approval.
-
-◼️
-
-[Data](articles/58a22ae9.json)
-
-[Extended Data](ext_articles/58a22ae9.ext.json)
-
----
-
-### Posts to the President demanding the release of occupied land!
-
-*2024-03-05 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178007) · `ta`
-
-Posts to President demand land release in 5 districts. Mannar Socio-Economic Development Institute organized. Postcards sent to various departments. Event held in Kilinochchi. Over 100 landowners asked to release land. Land documents unobtainable due to war, leading to difficulties in land acquisition and development.
-
-🟩
-
-A attention was carried out on the topic "Voice of the Landscape of Land" demanding the release of the lands of the people who lost the land in the five districts in the north.
-
-The Mannar Socio -Economic Development Institute has long been trying to help the people and has organized the postage process.
-
-Postcards have been sent to the Department of Army, Forest Department, Wildlife, Navy, Factories and Archeology Department.
-
-The event was held on Tuesday (05) at 10.30 am at the Jayapuram Public Hall in Kilinochchi.
-
-In the meantime, more than 100 land owners who have lost their lands in the Kilinochchi district have been asked to release the land by postal cards to the President.
-
-Due to the long -term war, land documents are unable to obtain and certain lands are occupied by the Western parties.
-
-Thus, people have been facing long -lasting difficulties in obtaining and developing land, including residences and fields.
-
-...
-
-[Data](articles/30cd579d.json)
-
-[Extended Data](ext_articles/30cd579d.ext.json)
-
----
-
-### Salary hike for CB officials unfair: Party leaders
-
-*2024-03-05 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Salary-hike-for-CB-officials-unfair-Party-leaders/108-278286) · `en`
-
-Parliament, March 5 (Daily Mirror)- The salary hike for Central Bank officials cost an extra sum of Rs 232 million monthly, it was revealed at the party leaders meeting today.
-
-The party leaders have informed the Central Bank officials that it is unfair for them to increase their salaries at a time when ordinary citizens are undergoing various hardships.
-
-"Party leaders have also been of the opinion that Central Bank officials should have foregone a salary hike even if there was legal provisions for them to obtain it when people of this nation are undergoing difficulties," an official statement from Parliament media unit said.
-
-...
-
-[Data](articles/04096441.json)
-
-[Extended Data](ext_articles/04096441.ext.json)
 
 ---

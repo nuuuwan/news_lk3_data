@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 22:04:39**
+As of **2024-03-06 22:17:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,310 (99.9%) of 11,323 articles have been extended.
+11,315 (99.9%) of 11,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -530,6 +530,8 @@ A statement from the president’s media division (PMD) quoted the state ministe
 
 [Data](articles/1830ed25.json)
 
+[Extended Data](ext_articles/1830ed25.ext.json)
+
 ---
 
 ### Sri Lanka sees 1,995 new companies registered in Jan 2024: President
@@ -549,6 +551,8 @@ Following is the English translation of President Ranil Wickremesinghe’s full 
 ...
 
 [Data](articles/14174f4d.json)
+
+[Extended Data](ext_articles/14174f4d.ext.json)
 
 ---
 
@@ -601,6 +605,8 @@ Wickremesinghe invited all parties represented in parliament to support the refo
 ...
 
 [Data](articles/01072186.json)
+
+[Extended Data](ext_articles/01072186.ext.json)
 
 ---
 
@@ -691,6 +697,8 @@ VAT was vital to boost government revenues, Wickremesinghe said. “Because of t
 ...
 
 [Data](articles/c6dc8bb2.json)
+
+[Extended Data](ext_articles/c6dc8bb2.ext.json)
 
 ---
 
@@ -787,6 +795,8 @@ A bond maturing on 01.07.2032 closed at 12.50/13.00 percent up from 12.60/90 per
 ◼️
 
 [Data](articles/ca25cf38.json)
+
+[Extended Data](ext_articles/ca25cf38.ext.json)
 
 ---
 

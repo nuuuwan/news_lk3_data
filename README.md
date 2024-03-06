@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 07:43:21**
+As of **2024-03-06 07:53:33**
 
 ## Newspaper Stats
 
-*Scraped **11,128** Articles*
+*Scraped **11,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 593
 islandlk | 601
 adalk | 936
 tamilmirrorlk | 1,350
-adaderanalk | 1,354
+adaderanalk | 1,355
 virakesarilk | 1,508
 dailymirrorlk | 1,699
 adaderanasinhalalk | 1,737
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,128 (100.0%) of 11,128 articles have been extended.
+11,128 (100.0%) of 11,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Showers expected in certain parts of the country
+
+*2024-03-06 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97759/showers-expected-in-certain-parts-of-the-country) · `en`
+
+Showers may occur at a few places in Southern province and in Ratnapura and Kalutara districts in the evening or night, says the Meteorology Department.
+
+Mainly dry weather will prevail in the other areas of the island, it said.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/071ba9f7.json)
+
+---
 
 ### 3 killed in Pothuhera lorry
 
@@ -2181,29 +2197,5 @@ It is due to the strict traffic congestion caused by a protest in student unions
 [Data](articles/2bcd6de0.json)
 
 [Extended Data](ext_articles/2bcd6de0.ext.json)
-
----
-
-### We have requested the implementation of issues accepted during the 2016 speech week -Director of the National Fisheries Cooperation Movement
-
-*2024-03-05 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/177963) · `ta`
-
-The Director of the National Fisheries Movement urged the Indian Vice-Chancellor to implement issues accepted during the 2016 speech week, highlighting the rights of Sri Lankan fishermen, especially those in the Northern Provinces affected by Indian fishermen's violations. A protest was staged, and a letter was handed over to the Northern Governor to stop these violations. Indian officials in Jaffna have accepted the request, emphasizing the need for immediate action to proceed with negotiations.
-
-🟩
-
-The Director of the National Fisheries Movement, Kekumara, said that we have urged the Indian Vice -Chancellor to implement the issues accepted during the 2016 speech week.
-
-He said this while speaking to the media after participating in a protest in the Northern Provincial Fisheries Internet demanding the suspension of Indian fishermen's violations of the Indian fishermen.
-
-Today we have staged a protest demanding the rights of Sri Lankan fishermen, especially the Northern fishermen who are affected by the violations of Indian fishermen.
-
-Northern fishermen were eagerly attended. We handed over a letter to the Northern Governor to immediately stop the Indian fishermen's violations. We have also handed over the clock at the Indian Embassy. We then discussed. It was a creative discussion.
-
-...
-
-[Data](articles/ebd1af41.json)
-
-[Extended Data](ext_articles/ebd1af41.ext.json)
 
 ---

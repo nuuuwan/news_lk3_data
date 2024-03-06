@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 14:03:44**
+As of **2024-03-06 14:17:41**
 
 ## Newspaper Stats
 
-*Scraped **11,220** Articles*
+*Scraped **11,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 945
 tamilmirrorlk | 1,368
 adaderanalk | 1,369
 virakesarilk | 1,526
-dailymirrorlk | 1,712
+dailymirrorlk | 1,714
 adaderanasinhalalk | 1,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,216 (100.0%) of 11,220 articles have been extended.
+11,219 (100.0%) of 11,222 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,25 +52,67 @@ Police have formed a special investigative team, Kherwar said. It is unclear whe
 
 [Data](articles/2e87e223.json)
 
+[Extended Data](ext_articles/2e87e223.ext.json)
+
 ---
 
-### පාසලේදී ලිස්සා වැටුණු සිසුවිය මරුට
+### Central Bank’s lowest ranking employee’s salary increased to Rs. 188,827: Prime Minister
+
+*2024-03-06 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Banks-lowest-ranking-employees-salary-increased-to-Rs-188-827-Prime-Minister/108-278353) · `en`
+
+Parliament, March 6 (Daily Mirror)- The gross salary of the lowest ranking employee of the Central Bank, that of an Office Assistant - Grade 1, has been increased by 29.53 per cent up to Rs. 188,827, Prime Minister Dinesh Gunawardane said today.
+
+Responding to a question by SJB MP S.M. Marikkar, he told Parliament that the gross salary of the Deputy Governor has been increased by 76.97 per cent upto Rs. 1,728,419.
+
+The Prime Minister said the Central Bank employees are entitled to housing loans, vehicle loans, welfare loans and medical facilities as well.
+
+◼️
+
+[Data](articles/81e30334.json)
+
+---
+
+### Student killed in school
 
 *2024-03-06 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194202) · `si`
 
-පාසල තුළ ලිස්සා වැටීමෙන් බරපතළ තුවාල ලැබූ සිසුවියක් රෝහල් ගත කිරීමෙන් පසු මියගොස් තිබේ.
+A 13-year-old student at Meepagama school died after a fall at 7.15 am, hitting her head on a concrete stone.
 
-එම අනතුර සිදුවී තිබුණේ අද (06) උදෑසන 7.15ත් 7.30ත් අතර කාලයේදීය.
+🟩
 
-"ඒ දැරිය නාමලේඛනය අරගෙන පන්තියට එනකොට බිම ලිස්සලා වැටිලා තියෙනවා. එතන අඩි එකහමාරක පමණ කොන්ක්‍රීට් ගලක් තිබිලා... ඒකේ නිකට වැදිලා. ඊට පස්සේ තමයි නැති වෙලා තියෙන්නේ."
+A student who was seriously injured in the school has died after being hospitalized.
 
-"වයස අවුරුදු 13යි. 8 වසරේ ඉගෙන ගනිමින් සිටියේ. මීපාගම පාසලක මේ සිද්ධිය වුණේ. "
+The accident had occurred between 7.15 am today (06).
 
-"උදේ 7.15ත් 7.30ත් අතර අනතුර වෙලා තියෙන්නේ. රෝහලට ගෙනාවට පස්සේ දැරිය මියගිහින් තියෙනවා."
+"When the girl was taken list and came to the class, the floor was slipped. There is a concrete stone for a core and a half feet there.. It's chin hit. Then it's lost. "
+
+"Age 13. 8 Learning in the year. This incident took place at a Meepagama school. "
+
+"The accident between 7.15 am and 7.30 am. After being taken to the hospital, the girl is dead. "
 
 ◼️
 
 [Data](articles/983230ae.json)
+
+[Extended Data](ext_articles/983230ae.ext.json)
+
+---
+
+### Matale district records lowest vulnerability despite persistent economic challenges
+
+*2024-03-06 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matale-district-records-lowest-vulnerability-despite-persistent-economic-challenges/108-278352) · `en`
+
+Matale, March 6 (Daily Mirror) - Matale District in Sri Lanka ranked the lowest in Sri Lanka’s Multidimensional Vulnerability Index (MVI) compared to national averages, recent data by the United Nations showed.
+
+With an MVI of 0.142, Matale has demonstrated commendable resilience against multidimensional vulnerabilities, notably lower than the national average of 0.206, according to the MVI District Profiles launched by the United Nations Development Program (UNDP), Monday.
+
+The MVI, is an indicator that attempts to capture the intersecting and overlapping vulnerabilities households face, beyond measures of financial vulnerability considering educational, health-related, and other kinds of vulnerabilities.
+
+Despite the encouraging statistics, the district still grapples with significant economic challenges, particularly in employment and digital accessibility.
+
+...
+
+[Data](articles/bd54ee78.json)
 
 ---
 
@@ -92,19 +134,39 @@ Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a 
 
 ---
 
-### அதிகாரத்திற்காக நான் ஒருபோதும் பொய் சொல்லவில்லை : அதிகாரத்திற்கு கனவு காணும் அரசியல்வாதிகள் யதார்த்தத்தைப் புரிந்துகொள்ளவில்லை - ஜனாதிபதி
+### I have never lied for power: politicians who dream of power do not understand the reality - the president
 
 *2024-03-06 13:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178068) · `ta`
 
-அதிகாரத்திற்காக நான் ஒருபோதும் பொய் சொல்லவில்லை என்றும்  இன்றும் நான் அதிகாரத்திற்காக அன்றி, நாட்டை மீளக் கட்டியெழுப்பவே முயற்சிக்கிறேன் என்றும் அதிகாரத்திற்கு கனவு காணும் அரசியல்வாதிகள் யதார்த்தத்தைப் புரிந்துகொள்ளவில்லை என்றும் ஜனாதிபதி தெரிவித்தார்.
+It seems you've provided a detailed overview of the economic and social situation in Sri Lanka, including various economic indicators, government policies, and the impact of these on the population. Your message touches on a wide range of topics, from economic recovery and debt management to social welfare programs and the role of the government in addressing the economic crisis.
 
-அரசாங்கம் முன்னெடுக்கும் வேலைத் திட்டங்களின் பலனாக நாட்டின் பொருளாதாரம் வலுவடைந்திருப்பதாகவும், எதிர்காலத்தில் மக்களுக்கு மேலும் பல நிவாரணங்களைப் பெற்றுகொடுக்க எதிர்பார்த்திருப்பதாகவும் அந்த செயற்பாடுகள் அனைத்தும் அறிவியல் முறைமைகளுக்கு அமைய, படிப்படியாக முன்னெடுக்கப்பட்டு வருவதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று புதன்கிழமை (06) பாராளுமன்றத்தில் ஆற்றிய விசேட உரையின் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+Given the breadth and depth of the information you've shared, it's clear that the government and other stakeholders are working on multiple fronts to address the economic challenges faced by the country. This includes efforts to stabilize the economy, manage debt, improve social welfare, and modernize various sectors of the economy.
+
+
+
+Your message also highlights the importance of collective action and the need for a comprehensive approach to address the economic crisis. It underscores the government's commitment to rebuilding the country and improving the lives of its citizens, despite the challenges.
+
+
+
+If you have specific questions or need further analysis on any of the points you've mentioned, please let me know!
+
+🟩
+
+The President said that I have never lied for power and that I am still trying to rebuild the country, not for power, and that politicians who dream of power do not understand the reality.
+
+President Ranil Wickremesinghe said that the country's economy was strengthened as a result of the government's programs and that all the activities were being carried out in the future, and that all the activities were being carried out in the future.
+
+President Ranil Wickremesinghe made this statement during a special speech in Parliament today (06).
+
+The president pointed out that some political groups have forgotten the reality and tell the fantasy, and that the problems of the country today have no retail solutions, and that the basic economists know that such solutions cannot restore the economy of the country.
 
 ...
 
 [Data](articles/b987c529.json)
+
+[Extended Data](ext_articles/b987c529.ext.json)
 
 ---
 
@@ -2251,51 +2313,5 @@ Vavuniya Government Agent Sarath Chandra, Additional Government Agent. The Deput
 [Data](articles/e995e039.json)
 
 [Extended Data](ext_articles/e995e039.ext.json)
-
----
-
-### In the Eastern Province, the illegal fisheries system should be stopped in the North as the illegal seas
-
-*2024-03-06 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178023) · `ta`
-
-The Eastern Province's Governor halted illegal industrial systems, prompting the Northern Province's Governor to do the same. Fishermen in the North demanded a halt to Indian fishing, and the Governor detailed the illegal systems, leading to their cessation.
-
-🟩
-
-The Governor of the Northern Province and the Governor of the Northern Province should take steps to stop the illegal industrial system in the Northern Province, as the Governor of the Eastern Province has stopped the illegal industrial system in the Eastern Province.
-
-He told the media that the Northern Provincial Fishermen's Internet demanded that the Indian fishermen be halted.
-
-When the fishermen fought against illegal industrial systems in the Eastern Province, he took them into detail on illegal industrial systems and immediately stopped illegal industrial systems.said.
-
-◼️
-
-[Data](articles/dd7528f6.json)
-
-[Extended Data](ext_articles/dd7528f6.ext.json)
-
----
-
-### People's struggle in Mannar Adampan area;Request to set up a roadblock
-
-*2024-03-06 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178022) · `ta`
-
-Residents of Mannar Adampan demand a roadblock in Narundi, following two deaths from accidents. Authorities have pledged action.
-
-🟩
-
-The people of Adamban area on Tuesday (5) went on strike demanding the construction of a roadblock in Narundi on the Mannar Adampan main road.
-
-On Monday (4), the general public was protesting demanding the construction of a road barrier on the road, where a tipper vehicle crashed into a road accident on Monday (4).
-
-The people have expressed their resources that there have been two deaths due to the lack of any roadblocks so far.
-
-The Assistant District Secretary, Assistant Divisional Secretary, Pradeshiya Sabha Secretary, Road Development Authority, Executive Engineer and Police have abandoned the protest as they will soon take action to prevent accidents.
-
-◼️
-
-[Data](articles/b617d2e7.json)
-
-[Extended Data](ext_articles/b617d2e7.ext.json)
 
 ---

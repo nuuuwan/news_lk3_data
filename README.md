@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 20:51:43**
+As of **2024-03-06 21:03:05**
 
 ## Newspaper Stats
 
-*Scraped **11,303** Articles*
+*Scraped **11,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 economynextcom | 578
 dailyftlk | 593
 islandlk | 601
-adalk | 957
+adalk | 958
 tamilmirrorlk | 1,376
 adaderanalk | 1,381
 virakesarilk | 1,544
 dailymirrorlk | 1,727
-adaderanasinhalalk | 1,768
+adaderanasinhalalk | 1,769
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,302 (100.0%) of 11,303 articles have been extended.
+11,303 (100.0%) of 11,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### තුන්වන විනිසුරුගෙන් ශ්‍රී ලංකාවට එරෙහිව ආන්දෝලනාත්මක තීරණයක්
+
+*2024-03-06 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194220) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර දැන් පැවැත්වෙන දෙවන විස්සයි විස්ස තරගය අතරතුරදී සිදුවූ සුවිශේෂී සිදුවීමක් වෙත මේ වනවිට ලෝකයේම අවධානය යොමුව තිබේ.
+
+එහිදී තරගයේ සිව්වන පන්දුවාරයේ බිනුර යොමුකළ පළමු පන්දුව සෞම්‍ය ශංකර්ගේ පිත්තේ ගෑවී කඩුලු රකින කුසල් මෙන්ඩිස් රැකගනු ලැබීය.
+
+පිටියේ විනිසුරුවරයා එහිදී සෞම්‍ය ශංකර් දැවී ගිය පිතිකරුවෙකු ලෙස නම්කළ අතර සෞම්‍ය ශංකර් එය තුන්වන විනිසුරු වෙත යොමුකරන ලෙසට ඉල්ලා සිටියේය.
+
+එහිදී Ultra edge තාක්ෂණය පරීක්ෂා කිරීමේදී එය පිත්තේ ගෑවී යන බවට පෙණුම් කළද තෙවැනි විනිසුරු විසින් තීරණය කළේ එය පෙන්නුම් කරන අවස්ථාවේ පන්දුව සහ පිත්ත අතර පරතරයක් පවතින බැවින් ඔහු නොදැවුණු ක්‍රීඩකයෙක් ලෙස නම් කිරීමටය.
+
+එහිදී පිටියේ යම් නොසන්සුන්කාරී තත්ත්වයක් ඇතිවූ අතර එම තීරණයට එරෙහිව ශ්‍රී ලංකා ක්‍රීඩකයින් පිටියේ විනිසුරු වෙත කරුණු දක්වන අයුරු දැකගත හැකිවිය.
+
+...
+
+[Data](articles/279f2e26.json)
+
+---
 
 ### Murugan, Robert Bias, etc.. Call
 
@@ -71,6 +91,8 @@ Claiming that tourism sector is rapidly recovering in Sri Lanka, Lord Naseby bel
 ...
 
 [Data](articles/1f519f33.json)
+
+[Extended Data](ext_articles/1f519f33.ext.json)
 
 ---
 
@@ -113,6 +135,24 @@ He has been interrogated by the Puttalam court in connection with the rape of a 
 [Data](articles/7b148866.json)
 
 [Extended Data](ext_articles/7b148866.ext.json)
+
+---
+
+### හුංගම වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට
+
+*2024-03-06 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හුංගම-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-408460) · `si`
+
+හුංගම කහඳමෝදර ප්‍රදේශයේදී අද (06දා) දහවල් සිදු කළ වෙඩි තැබීමකින් පුද්ගලයෙක් මිය ගොස් ඇති බව හුංගම පොලීසිය කියයි.
+
+කහඳමෝදර හන්දිය ආසන්නයේදී මෙම වෙඩි තැබීම සිදුකර ඇති අතර, වෙඩි වැදුණු පුද්ගලයා තංගල්ල මූලික රෝහලට රැගෙන යෑමෙන් පසු මිය ගොස් ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස ජිවිතක්ෂයට පත්ව ඇත්තේ, කහඳමෝදර පදිංචි එදිරිවීර ජයසූරිය පටබැඳිගේ උපුල් ප්‍රියදර්ශන (42) නමැති බෝට්ටු ස්කීපර්වරයෙක් බව දැනට හෙළි වී ඇති බව පොලීසිය කියයි.
+
+ගල් කටස් වර්ගයේ ගිනිඅවියකින් වෙඩි තැබීම සිදුකර ඇති බවට පොලීසිය සැකකරයි. මෙතෙක් සැකකරුවන් අත්අඩංගුවට ගෙන නොමැත. සිද්ධිය සම්බන්ධයෙන් හුංගම පොලීසිය පරීක්ෂණ සිදු කරයි.
+
+◼️
+
+[Data](articles/fd7ca6da.json)
 
 ---
 
@@ -2313,65 +2353,5 @@ In addition, 88 in the city of Trincomalee, Galle, Galle and 88 in the city of P
 [Data](articles/b2cadb93.json)
 
 [Extended Data](ext_articles/b2cadb93.ext.json)
-
----
-
-### An increase in air pollution
-
-*2024-03-06 12:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்று-மாசு-அதிகரிப்பு/175-334276) · `ta`
-
-Air pollution in Colombo district spiked to 114, affecting health. Other districts like Galle Karapitiya, Puttalam, Kurunegala, and Anuradhapura also recorded high levels. The National Building Research Institute warns of potential health risks and advises caution.
-
-🟩
-
-The National Building Research Institute said the wind condition has deteriorated over the past 24 hours.
-
-As a result, the highest air pollution index in the Colombo district has been recorded at 114.
-
-Accordingly, the report further stated that this environment could have adverse health problems for other persons.
-
-In addition, the air pollution index has been recorded at 90 in Galle Karapitiya, 88 in Puttalam and 86 in Kurunegala and Anuradhapura.
-
-The organization urges people to focus on it because the country's air pollution code has exceeded 50 and is at risk of those who are sensitive.
-
-It is said that the condition of this wind can change from time to time and expect this to be expected tomorrow (07).
-
-◼️
-
-[Data](articles/14f53b96.json)
-
-[Extended Data](ext_articles/14f53b96.ext.json)
-
----
-
-### Primary students' lunch is Rs. Will increase 25
-
-*2024-03-06 12:21:42* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-සිසුන්ගේ-දිවා-ආහාරයට-රු--25ක්-වැඩි-කරයි/11-408446) · `si`
-
-Primary school students' lunch cost will increase by Rs. 25. The Cabinet approved a lunch nutrition program for 1,500 students in 1,500 primary schools, covering 1.08 million students across 7,902 schools. Suppliers face challenges due to insufficient product prices. The program, underway since 2015, requires suppliers to provide 75 grams of dry rice, three humbles, and dhal daily, along with fish, sooonyatt, and local fruits for the next five days. Despite the program's benefits, suppliers find it difficult to prepare this diet at Rs. 85 per year. The Committee recommended the Cabinet pay Rs. 110 to suppliers in 2024.
-
-🟩
-
-The Cabinet approval has been approved by the students of 1_5 students in 1_5 students in the primary schools in the island yesterday (5).
-
-Implement this lunch nutrition program for suppliers is Rs. 85 and the cost is Rs.
-
-The program is currently underway covering 1.08 million students of 7902 schools belonging to 100 of the Education Zonal Offices.
-
-Suppliers show that the current product prices are not sufficient for the suppliers of the day-food program.
-
-In this regard, the suppliers who maintained the nutrition program of certain Zone offices were reported to the cases that they had left.
-
-The suppliers have given a recipe on how to give food and the principals should monitor the principals every day.
-
-Accordingly, 75 grams of dry rice every day should be given 75 grams of dry rice and three humbles, dhal.
-
-The next five days from Monday to Friday should be given to the above diet, fish, fish, sooonyatt.. In addition, a local fruits should also join the food.
-
-...
-
-[Data](articles/28d6b925.json)
-
-[Extended Data](ext_articles/28d6b925.ext.json)
 
 ---

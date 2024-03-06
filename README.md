@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 21:33:45**
+As of **2024-03-06 21:52:31**
 
 ## Newspaper Stats
 
-*Scraped **11,308** Articles*
+*Scraped **11,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,90 @@ dailyftlk | 593
 islandlk | 601
 adalk | 958
 tamilmirrorlk | 1,376
-adaderanalk | 1,381
+adaderanalk | 1,382
 virakesarilk | 1,545
 dailymirrorlk | 1,728
-adaderanasinhalalk | 1,770
+adaderanasinhalalk | 1,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,306 (100.0%) of 11,308 articles have been extended.
+11,308 (100.0%) of 11,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### பங்களாதேஷ் 08 விக்கெட்டுக்களால் வெற்றி
+### Govt has commenced essential development projects - State Minister
+
+*2024-03-06 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97783/govt-has-commenced-essential-development-projects-state-minister) · `en`
+
+In a recent announcement, State Minister for Urban Development and Housing, Arundika Fernando, revealed that the government has commenced crucial development projects.
+
+He also highlighted the growing interest from India, China, and several Western nations in investing in the country.
+
+State Minister Fernando made these statements at a press briefing held at the Presidential Media Centre today (06), under the theme ‘Collective Path to a Stable Country.’
+
+“In response to the economic crisis that halted development projects last season, the government has taken action as the economy shows signs of improvement. Necessary development work is now underway to address the country’s pressing needs and stimulate growth.
+
+Plans have been set to commence 2000 houses project in Colombo and its suburbs, with support from Chinese aid. Additionally, initiatives are in place to issue deeds to all residents residing in flats, ensuring proper documentation and ownership rights.
+
+...
+
+[Data](articles/051f3f72.json)
+
+---
+
+### අද මුල්වරට එළියට ආ මහ බැංකුවේ මහ පඩි ලැයිස්තුව
+
+*2024-03-06 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194222) · `si`
+
+මහ බැංකුවේ නව වැටුප් වැඩිවීමට අනුව එහි කාර්යාල සහායකයෙකුගේ මාසික දළ වැටුප රුපියල් එක්ලක්ෂ අසූඅට දහසක් දක්වා ඉහළ නංවා ඇති බව අද පාර්ලිමේන්තුවේදී අනාවරණ විය.
+
+ඒ එම වැටුප් වැඩිවීම් අග්‍රාමාත්‍යවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කරනු ලැබූ අවස්ථාවේදීය.
+
+මහ බැංකුවේ නියෝජ්‍ය අධිපතිවරයෙකුගේ මාසික දළ වැටුප රුපියල් නව ලක්ෂයේ සිට රුපියල් 17 ලක්ෂය දක්වාද වැඩිකර ඇති බවත් එහිදී අනාවරණ විය.
+
+ඒ අනුව ශ්‍රී ලංකා මහබැංකුවේ වැටුප් වැඩිවී ඇත්තේ කෙසේ ද යන්න අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවට පැහැදිළි කළේය.
+
+කාර්යාල සහායක පන්තියේ පළමු ශ්‍රේණියේ සේවකයෙකුගේ මාසික දළ වැටුප රුපියල් එක්ලක්ෂ හතළිස් පන්දහස් හත්සිය හැත්තෑ තුනකි.
+
+නව වැටුප් වැඩිවීමත් සමග එය රුපියල් එක්ලක්ෂ අසූඅට දහස් අටසිය විසිහතක් දක්වා ඉහළ යයි.
+
+එමෙන්ම එම කාණ්ඩයේ දෙවැනි සහ තෙවැනි ශ්‍රේණි සඳහා ද වැටුප් වැඩි වී ඇති අතර කාර්යාල සහායක තුන්වැනි පන්තියේ සේවකයෙකුගේ මාසික දළ වැටුප රුපියල් එක්ලක්ෂ හැටහතර දහස් හයසිය තිස්හතරේ සිට රුපියල් දෙලක්ෂ විසිතුන්දහස් හත්සිය හැට තුනක් දක්වා ඉහළ ගොස් තිබේ.
+
+කළමනාකාර සහකාර පන්තියේ ශ්‍රේණි 05ක් සඳහා ද වැටුප් වැඩිකර තිබේ.
+
+...
+
+[Data](articles/637dcdee.json)
+
+---
+
+### Bangladesh wins 08 wickets
 
 *2024-03-06 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
 
-இலங்கைக்கு எதிரான இரண்டாவது இருபதுக்கு 20 போட்டியில் பங்களாதேஷ் 08 விக்கெட்டுக்களால் வெற்றிப்பெற்றுள்ளது.
+Bangladesh won by 8 wickets in the 2nd T20 match against Sri Lanka, who scored 165/5 in 20 overs. Bangladesh achieved the win in 18.1 overs. The series is evenly balanced.
 
-பங்களாதேஷின் சில்ஹெட்டில் நடைபெற்ற இந்த போட்டியில் நாணய சுழற்சியில் வெற்றி பெற்ற பங்களாதேஷ் அணி பந்துவீச்சை தெரிவுசெய்ய முதலில் துடுப்பெடுத்தாடியது இலங்கை அணி.
+🟩
 
-இலங்கை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் நிறைவில் 05 விக்கெட்டுக்களை இழந்து 165 ஓட்டங்களை பெற்றது
+Bangladesh won by 8 wickets in the second Twenty20 match against Sri Lanka.
 
-பின்னர் பதிலுக்கு துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 18.1 ஓவர்கள் நிறைவில் 02 விக்கெட்டுக்களை மாத்திரம் இழந்து வெற்றி இலக்கை அடைந்தது.
+The Sri Lankan team first won the bowling of Bangladesh in the tournament in Chillhead, Bangladesh.
 
-இதற்கமை 3 போட்டிகள் கொண்ட இந்தத் தொடரில் இலங்கை அணியும் பங்களாதேஷ் அணியும் தலா ஒவ்வொரு போட்டிகளில் வெற்றிப்பெற்று சமநிலையில் உள்ளன.
+Sri Lanka scored 165 runs for the loss of 05 wickets in 20 overs
+
+The Bangladesh team then won the target of winning only two wickets in 18.1 overs.
+
+Sri Lanka and Bangladesh are in a balanced series in each of the three matches.
 
 ◼️
 
 [Data](articles/d92a86bd.json)
+
+[Extended Data](ext_articles/d92a86bd.ext.json)
 
 ---
 
@@ -67,6 +119,8 @@ Ms. Wickremesinghe also called for digital whelm for the people of this nation w
 ...
 
 [Data](articles/f0a9705c.json)
+
+[Extended Data](ext_articles/f0a9705c.ext.json)
 
 ---
 
@@ -2307,57 +2361,5 @@ The deceased has been identified as Kalawana South Kubaragama, a 13 year old sch
 [Data](articles/bf8a6287.json)
 
 [Extended Data](ext_articles/bf8a6287.ext.json)
-
----
-
-### Ali Sabri Raheem suspended from parliament for one month
-
-*2024-03-06 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97768/ali-sabri-raheem-suspended-from-parliament-for-one-month) · `en`
-
-Puttalam District MP Ali Sabri Raheem has been suspended from Parliament for a period of one month with effect from Wednesday (March 06).
-
-A resolution proposing the suspension of Raheem from parliamentary proceedings was approved by the MPs during today’s proceedings.
-
-Raheem was embroiled in controversy last year after he was detained at the Bandaranaike International Airport (BIA) in Colombo on May 23 along with a stock of undeclared stock of gold and mobile phones.
-
-The officials of Revenue Task Force Directorate of Sri Lanka Customs at the airport’s VIP terminal ‘Gold Route’ had impounded more than 3kg of undeclared gold jewellery and 91 mobile phones from the possession of the parliamentarian who was returning to the island from Dubai. The total value of the seized items were estimated to have exceeded Rs. 78 million.
-
-Later, the MP was fined Rs. 7.5 million and released on payment of same while the undeclared gold and mobile phones have been confiscated.
-
-◼️
-
-[Data](articles/2ec6c2d8.json)
-
-[Extended Data](ext_articles/2ec6c2d8.ext.json)
-
----
-
-### The death of two people
-
-*2024-03-06 12:49:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயங்கி-விழுந்து-இருவர்-மரணம்/175-334277) · `ta`
-
-Two people died on Wednesday: a 13-year-old schoolgirl from Meebagama and a 60-year-old senior lecturer from Sri Jayawardenapura University due to a sudden allergy.
-
-🟩
-
-It is known that the number of deaths and deaths have increased. In this case, two people have died on Wednesday (06).
-
-A schoolgirl from Meebagama, a schoolgirl, fell to the ground on Wednesday (06), a mixed police said.
-
-A 13 -year -old schoolgirl named Imalka Satsarani, a resident of Kalamana, has died.
-
-He is a student of grade 08 in school. The hospital spokesman said he died despite being admitted to the hospital.
-
-In this case, a senior lecturer at Sri Jayawardenapura University has died on the road due to a sudden allergy when he returns to the shop, Maharagama police said.
-
-The deceased is Deran Ananda Erisuriya (60) from the Arachchi, Pannipitiya area of Pannipitiya.. He said that he is serving as the Senior Lecturer of the Faculty of Applied Science of the University of the University of Sri Jayawardenapura.
-
-It has been found that this is the case when the lecturer went to the market near Maharagama for personal needs.
-
-◼️
-
-[Data](articles/bc9f8f3b.json)
-
-[Extended Data](ext_articles/bc9f8f3b.ext.json)
 
 ---

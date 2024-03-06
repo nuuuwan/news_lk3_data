@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 01:02:51**
+As of **2024-03-07 01:17:25**
 
 ## Newspaper Stats
 
-*Scraped **11,337** Articles*
+*Scraped **11,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 591
 dailyftlk | 598
 islandlk | 601
 adalk | 959
-tamilmirrorlk | 1,377
+tamilmirrorlk | 1,378
 adaderanalk | 1,383
 virakesarilk | 1,549
 dailymirrorlk | 1,729
@@ -26,25 +26,53 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,335 (100.0%) of 11,337 articles have been extended.
+11,337 (100.0%) of 11,338 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-07 (Thursday)
+
+### ’முருகன், ரொபட் பயஸை உயிருடன் விடுதலை செய்க’
+
+*2024-03-07 00:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-ரொபட்-பயஸை-உயிருடன்-விடுதலை-செய்க/175-334305) · `ta`
+
+இந்திய சிறையில் இருக்கின்ற முருகன், ரொபட் பயஸ் உள்ளிட்டவர்களையாவது உயிருடன் விடுதலை செய்து   அவர்களுடைய  குடும்பத்தோடு அவர்கள் சேர நடவடிக்கை எடுக்குமாறு தமிழ்நாட்டினுடைய முதலமைச்சர்,  இந்தியப்பிரதமர் மற்றும் இலங்கை அரசிடம் தமிழ் தேசியக்கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான சிவஞானம் சிறிதரன் வேண்டுகோள் விடுத்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (06) இடம்பெற்ற வரித்திருத்தச் சட்டமூல திருத்தங்கள் மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு வேண்டுகோள் விடுத்தார்.
+
+இன்றைய நாள் 16 வருடங்களுக்கு முதல் எங்களுடைய மண்ணிலே மாமனிதர் கிட்டினன் சிவனேசன்  இலங்கையினுடைய படையினரால் ஆழ ஊடுருவும் படை என்ற பெயரில் மிக மறைமுககொலை செய்யப்பட்டிருந்தார் இந்த பாராளுமன்றத்தினுடைய  உறுப்பினராக இருந்த சிவனேசன் அநியாயமாக கொல்லப்பட்டார்.
+
+இதேவேளை இந்தியாவிலேயே சிறையில் அடைக்கப்பட்டு  பின்னர் விடுதலை ஆகியும் கூட வீடு வர முடியாமல் சில நாட்களுக்கு முதல் மரணத்தை தழுவிக் கொண்ட   சாந்தன்னுக்கும் நான் இந்த இடத்திலே எங்களுடைய அஞ்சலிகளை செய்து கொள்கிறேன்
+
+...
+
+[Data](articles/4b3b93ce.json)
+
+---
+
 ### 2024-03-06 (Wednesday)
 
-### அதிகார பகிர்வு நாட்டை பிளவுப்படுத்தாது இருண்ட யுகத்தில் இருந்து மீள அதிகார பகிர்வை அவசியமாக்க வேண்டும் -  வெளிவிவகாரத்துறை அமைச்சர் வலியுறுத்தல்
+### Defense sharing should not split the country and make power sharing from the dark age -Foreign Minister insists on
 
 *2024-03-06 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178124) · `ta`
 
-அதிகார பகிர்வு நாட்டை பிளவுப்படுத்தாது. ஆகவே அதிகார பகிர்வு தொடர்பில் அரசியல் கட்சிகள் தமது  நிலைப்பாட்டை அர்ப்பணிப்புடன் நாட்டுக்காக குறிப்பிட வேண்டும்.அதிகார பகிர்வு என்றவுடன் அதற்கு எதிர்ப்பு தெரிவிக்கும் சந்தர்ப்பவாத அரசியலில் இருந்து முதலில் விடுப்பட வேண்டும். இன நல்லிணக்கம் உறுதிப்படுத்தப்பட்டால் மாத்திரமே நாடு என்ற ரீதியில் முன்னேற்றமடைய முடியும். இருண்ட யுகத்தில் இருந்து வெளியேற அதிகார பகிர்வை சாத்தியமாக்க வேண்டும் என வெளிநாட்டலுவல்கள் அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+Foreign Affairs Minister Ali Sabri emphasizes the importance of power devolution in Sri Lanka, arguing it's crucial for national unity and progress. He cites Sri Lanka's economic recovery post-crisis and India's stabilization under Manmohan Singh as examples. Sri Lanka's multi-ethnic community, including Tamils, Muslims, and Sinhalese, can progress together, with the Tamil National People's Front advocating for a political solution. The minister warns against the dangers of language-based division, referencing Colvin R.D. Silva's warning against a war that could have been avoided if Tamil-Sinhala languages were declared royal in 1956. He calls for all political parties to focus on the country's welfare over politics, highlighting the need for a Truth and Reconciliation Commission to address war-related issues without external interference.
 
-பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற வரித்திருத்தச் சட்டமூலங்கள் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொருளாதாரத்தில் பிரபல்யமான தீர்மானங்களை எடுத்தால் என்ன நேரிடும் என்பதற்கும்,காலத்துக்கு காலம் பொருளாதார கொள்கைகளை மாற்றியமைத்தால்  என்ன நேரிடும் என்பதற்கும் இலங்கை சிறந்ததொரு எடுத்துக்காட்டாக காணப்படுகிறது. பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு  கடுமையான தீர்மானங்களை முன்னெடுத்துள்ளமையின் பயனை நாட்டு மக்கள் பெற்றுக்கொள்வார்கள்.
+Devolution of power does not split the country. Therefore, political parties should dedicate their position on the sharing of power and refer to the country for the country.. If ethnic harmony is confirmed only can the country progress. Foreign Affairs Minister Ali Sabri said devolution of power should be made possible to get out of the dark era.
+
+He was speaking at a debate on the Taxes Bill on Wednesday (6) in Parliament.
+
+Sri Lanka is an excellent example of what will happen if you make popular decisions in the economy and what will happen if timely economic policies change. The people of the country will take the benefit of taking strict resolutions to recover from the economic crisis.
+
+India faced the worst economic crisis in 1991. The then Prime Minister of India Narasinghe Rao. Manmohan Singh appointed Finance Minister and stabilized India's economy. Since 1991, many political parties have ruled India but economic policy has not been changed for political purposes.
 
 ...
 
 [Data](articles/8a22d564.json)
+
+[Extended Data](ext_articles/8a22d564.ext.json)
 
 ---
 
@@ -155,6 +183,8 @@ Anura and the NPP have seized the public imagination in a way that nobody in thi
 ...
 
 [Data](articles/593ed4cf.json)
+
+[Extended Data](ext_articles/593ed4cf.ext.json)
 
 ---
 
@@ -2305,29 +2335,5 @@ Analysts forecast that the price of gold will rise to $ 2,300 because American i
 [Data](articles/48909a83.json)
 
 [Extended Data](ext_articles/48909a83.ext.json)
-
----
-
-### Former President writes a book
-
-*2024-03-06 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194205) · `si`
-
-Gotabhaya Rajapaksa, former President, wrote a book accusing foreign interference and violent protests of conspiring against him in 2022. The book, titled "conspiracy to expel myself as presidency," is set to be launched soon.
-
-🟩
-
-Former President Gotabhaya Rajapaksa has written a book by President Gotabhaya Rajapaksa, "conspiracy to expel myself as presidency."
-
-The former President says that he had the challenge to face in 2022 in the year 2022.
-
-The contents of this work states that a democratic president is the intervention of the foreign parties and the exports of Sri Lankan society with a special conspiracies and violent protesters.
-
-Sources say that tomorrow is to be launched tomorrow.
-
-◼️
-
-[Data](articles/25413f31.json)
-
-[Extended Data](ext_articles/25413f31.ext.json)
 
 ---

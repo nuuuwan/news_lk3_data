@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 08:33:29**
+As of **2024-03-06 08:50:24**
 
 ## Newspaper Stats
 
-*Scraped **11,138** Articles*
+*Scraped **11,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,47 @@ tamilmirrorlk | 1,352
 adaderanalk | 1,356
 virakesarilk | 1,508
 dailymirrorlk | 1,701
-adaderanasinhalalk | 1,740
+adaderanasinhalalk | 1,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,137 (100.0%) of 11,138 articles have been extended.
+11,138 (100.0%) of 11,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
+### මැතිවරණ දිනය ගැන උදයංග වීරතුංගගෙන් ඉඟියක්
+
+*2024-03-06 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194189) · `si`
+
+එළඹෙන සිංහල හින්දු අලුත් අවුරුද්දෙන් පසු මහ මැතිවරණයක් සඳහා දින ප්‍රකාශයට පත් කිරීමට නියමිත බව රුසියාවේ හිටපු ශ්‍රී ලංකා තනාපති උදයංග වීරතුංග මහතා පවසයි.
+
+ඔහු පවසන්නේ විවිධ වරප්‍රසාද හේතුවෙන් ඇතැම් අමාත්‍යවරුන් ඉදිරි මැතිවරණවලදී වත්මන් ජනාධිපතිවරයාට සහය පළ කරන බවට ප්‍රකාශ කළ ද එය ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගම් මට්ටමේ මතය නොවන බවය.
+
+"කැට තියලා කියනවා සිංහල අවුරුද්ද ඉවර වුණාට පස්සේ, මහ මැතිවරණයකට දින නියම වෙනවා. මහ මැතිවරණයෙන් පොහොට්ටු බහුතරය දිනාගන්නා බව අපට විශ්වාසයි. අද බැසිල් මහත්තයා සුදානම් නායකත්වය දෙන්න අපේ පෙරමුණට. ඒක පිළිගන්න අය ආවේ. මන්ත්‍රීවරු 50කට වැඩි ප්‍රමාණයක් බැසිල් මහත්තයා පිළිගන්න ආවා. ඒකම හොඳ ආරම්භයක් නේ. රනිල් වික්‍රමසිංහ අපේ පක්ෂයෙන් ආවොත් ලක්ෂ දෙකහමාරට තව 50,000ක් එකතු වෙයි. ඔය ප්‍රකාශයකයෝ පත්කරත් ඔයිට වඩා ලැබෙනවා. ඇමතිකම බේරගන්න, යම්කිසි තනතුරක් ලබාගන්න උඩ දාලා ගත්තට ගමේ ජනතාවගේ දැක්මක් තියෙනවා. පොහොට්ටුවේ නායකයා කරන්නේ ඒ ඉල්ලීම."
+
+ජනවරම විනාශ කර ගත් පොදුජන පෙරමුණට දේශපාලන අනාගතයක් නොමැති බව මහාචාර්ය චරිත හේරත් මන්ත්‍රීවරයා පවසයි.
+
+...
+
+[Data](articles/f2d931f6.json)
+
+---
+
 ### 99kg of hashish being smuggled to Sri Lanka seized near TN coast
 
 *2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
-
-In its continuous hunt against smuggling of narcotics substances @IndiaCoastGuard & #DRI Chennai in a joint operation apprehended a country boat off #Mandapam & seized 99 kgs hashish drug worth Rs 108 crores. #anti-narco ops pic.twitter.com/gtXL6zmuAq— Indian Coast Guard (@IndiaCoastGuard) March 5, 2024
 
 As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
 
 The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
 
 Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
 
 ...
 
@@ -242,21 +260,27 @@ In some places in the Western and Sabaragamuwa Province, some locations are expe
 
 ---
 
-### பாடசாலைகளில் அரசியல் செயற்பாடுகளுக்கு தடை
+### Prohibition on political activities in schools
 
 *2024-03-06 04:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-அரசியல்-செயற்பாடுகளுக்கு-தடை/175-334262) · `ta`
 
-பாடசாலைகள் மற்றும் பாடசாலை வளாகங்களை அரசியல் செயற்பாடுகளுக்காக பயன்படுத்துவதற்கு தடைவிதிக்கும் அதிகாரத்தை மாகாண ஆளுநர்களுக்கு வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet approved allowing provincial governors to ban schools from political activities, addressing complaints about such activities. Minister Bandula Gunawardena announced this at a press conference.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் செய்தியாளர் சந்திப்பில் நேற்று அமைச்சரும், அமைச்சரவை பேச்சாளருமான பந்துல குணவர்தன மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-பாடசாலை மற்றும் பாடசாலை வளாகங்களில் அரசியல் செயற்பாடுகள் முன்னெடுக்கப்படுவதால் மாணவர்களின் கற்றல் செயற்பாடுகளுக்கு இடையூறு ஏற்படுவதாக பல்வேறு தரப்பிடமிருந்து முறைப்பாடுகள் முன்வைக்கப்பட்டுள்ளன.
+The Cabinet has approved the idea of giving provincial governors the power to ban schools and school premises for political activities.
 
-அவற்றினை கருத்திற்கொண்டு, அந்த பகுதிகளில் கூட்டங்கள் உள்ளிட்ட அரசியல் செயற்பாடுகளை முன்னெடுப்பதனை தடை செய்வதற்கு மாகாண ஆளுநர்களுக்கு அதிகாரம் வழங்குவதற்காக ஜனாதிபதி சமர்ப்பித்த யோசனைக்கு அனுமதி வழங்கப்பட்டுள்ளதாக அமைச்சரும், அமைச்சரவை பேச்சாளருமான பந்துல குணவர்தன தெரிவித்துள்ளார். (a)
+Minister and Cabinet spokesman Bandula Gunawardena said this at a press conference announcing the Cabinet decisions yesterday.
+
+Complaints have been made from various sides that political activities are being carried out in school and school premises.
+
+Minister and Cabinet spokesman Bandula Gunawardena said that the President has submitted the proposal to empower the provincial governors to prohibit political activities, including meetings, including meetings in those areas.. (A)
 
 ◼️
 
 [Data](articles/601f4ebd.json)
+
+[Extended Data](ext_articles/601f4ebd.ext.json)
 
 ---
 
@@ -2185,33 +2209,5 @@ High Court Judge ordered the pilgrimage to the pilgrimage to another two months 
 [Data](articles/2f04b7a9.json)
 
 [Extended Data](ext_articles/2f04b7a9.ext.json)
-
----
-
-### Sri Lanka rupee closes at 307.95/108.05 to the US dollar
-
-*2024-03-05 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-307-95-108-05-to-the-us-dollar-153270/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 307.95/108.05 to the US dollar in the spot forex market Tuesday stronger from 308.05/15 a day earlier dealers said, while bond yields were flat.
-
-The rupee opened at 307.50/90 levels to the US and official buying was seen till 308, market participants said.
-
-Sri Lanka’s rupee has strengthened amid broadly deflationary policy (selling down CB held securities and withdrawing liquidity).
-
-There is also a growing supplier credit build up on fuel imports.
-
-When the rupee gains (central bank dollar purchases are less than the liquidity withdrawals) banks also cut their open positions.
-
-When a credit spike drives up import demand and if the central bank does not intervene, the rupee turns and moves in the opposite direction.
-
-A bond maturing on 01.02.2026 closed at 10.65/70 percent Tuesday marginally weaker from 10.60/75 percent on Monday.
-
-A bond maturing on 15.09.2027 closed at 11.85/95 percent, down from 11.90/12.05 percent.
-
-...
-
-[Data](articles/02976efb.json)
-
-[Extended Data](ext_articles/02976efb.ext.json)
 
 ---

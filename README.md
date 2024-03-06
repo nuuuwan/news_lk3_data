@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 03:03:26**
+As of **2024-03-07 03:17:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,354 (100.0%) of 11,355 articles have been extended.
+11,355 (100.0%) of 11,355 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -218,17 +218,27 @@ In response to a question raised by a media regarding this, Indian High Commissi
 
 ---
 
-### ’நடுத்தர மக்களை சுரண்டி பிழைக்கிறார்கள்’
+### Exploration of the middle people
 
 *2024-03-07 01:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுத்தர-மக்களை-சுரண்டி-பிழைக்கிறார்கள்/175-334308) · `ta`
 
-வரி உள்ளடங்களாக 92 ரூபாவுக்கு இறக்குமதி செய்யப்படும் பெரிய வெங்காயம் ஒரு கிலோகிராம் சந்தையில்  365  ரூபாவுக்கு விற்கப்படுகிறது. 110  ரூபாய்க்கு இறக்குமதி செய்யப்படும் உருளைக்கிழங்கு 203 ரூபாவுக்கு விற்கப்படுகிறது. சில்லறை , மொத்த வியாபாரிகள் நடுத்தர மக்களை சுரண்டி  பிழைக்கிறார்கள்.  நுகர்வோர் அதிகார சபை என்ன செய்கிறது என்பது தெரியவில்லை.நுகர்வோர் அதிகார சபைக்கும்,சந்தைக்கும் இடையில் தொடர்பற்ற நிலையே உள்ளது  என எதிர்க்கட்சி எம்.பி.யான பாட்டலி சம்பிக்க ரணவக்க  குற்றம்சாட்டினார்.
+Middle class exploited by retailers and wholesalers. MP Patali Champika Ranawaka criticizes Consumer Affairs Authority. Tax amendment bill debate highlights government's tax revenue expectations and issues with tax collection.
 
-பாராளுமன்றத்தில் புதன்கிழமை (06) இடம்பெற்ற வரி திருத்தச் சட்டமூல திருத்தங்கள்  மீதான விவாதத்தில் உரையாற்றிய போதே  இவ்வாறு குற்றம்சாட்டிய அவர் மேலும்  பேசுகையில்,
+🟩
 
-...
+Large onions imported for 92 rupees, including taxes, are sold for 365 rupees in a kilogram market. Potatoes imported for 110 rupees are sold for 203 rupees. Retail and wholesalers are exploiting the middle class.Opposition MP Patali Champika Ranawaka accused the Consumer Affairs Authority of being unrelated to the Consumer Affairs Authority and the market.
+
+Speaking at the debate on the amendment of the Tax Amendment Bill on Wednesday (06) in Parliament, he said.
+
+The government is expecting to get 400 billion rupees through the tax increase from January 1, 2024.. The National Revenue Department has not charged 956 billion rupees tax revenues.
+
+Two liquor manufacturers did not pay 70 per cent of the tax. The Companies have paid taxes following the recommendation of the Parliamentary Route to cancel the permits of these companies.
+
+◼️
 
 [Data](articles/8ca3d039.json)
+
+[Extended Data](ext_articles/8ca3d039.ext.json)
 
 ---
 

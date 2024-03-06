@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 03:33:32**
+As of **2024-03-07 03:51:05**
 
 ## Newspaper Stats
 
-*Scraped **11,356** Articles*
+*Scraped **11,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
 islandlk | 601
-dailyftlk | 603
+dailyftlk | 605
 adalk | 959
 tamilmirrorlk | 1,382
 adaderanalk | 1,383
@@ -26,11 +26,53 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,355 (100.0%) of 11,356 articles have been extended.
+11,356 (100.0%) of 11,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Siyambalapitiya stresses Parliamentary authority on Central Bank salaries
+
+*2024-03-07 03:28:52* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-stresses-Parliamentary-authority-on-Central-Bank-salaries/56-759258) · `en`
+
+Calls for comprehensive reports from CoPF before presenting recommendations to Parliament
+
+Says aim to generate additional Rs. 14 b via Social Security Tax, opening 8,000 more tax files
+
+Assures to boost tax revenue, reform policies, gradually increase tax files while stabilising the economy
+
+Pledges to address concerns over parate law with swift action for implementation
+
+State Minister of Finance Ranjith Siyambalapitiya yesterday outlined the importance of Parliamentary authority in decisions concerning the increase of Central Bank employee salaries, insisting on the principles of social equity.
+
+Speaking in Parliament during the debate on amendments related to Social Security Tax and Value Added Tax, he stressed the need for comprehensive reports from the Committee on Public Finance (CoPF), incorporating diverse perspectives, before presenting recommendations to the Parliament.
+
+...
+
+[Data](articles/930306d2.json)
+
+---
+
+### Govt.’s select fuel price reduction a ‘gimmick’: Ex-PUCSL Chief
+
+*2024-03-07 03:26:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-s-select-fuel-price-reduction-a-gimmick-Ex-PUCSL-Chief/56-759257) · `en`
+
+Says move misleads public, prices could be slashed by up to Rs. 200
+
+Questions accuracy of fuel prices published via Minister’s social media, allege both incorrect prices and formula
+
+Highlights people’s rights, calls civil organisations to demand better policies
+
+Former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayake criticised the recent select fuel price revision by the Government, labelling it as a mere gimmick aimed at misleading the public. Speaking to the media, Ratnayake expressed that the reduction of Rs. 9 and Rs. 10 respectively for Lanka Super Diesel 4 Star Euro 4 and Lanka Petrol 95 Octane Euro 4 was insufficient and misleading the people.
+
+Ratnayake said that back in 2022, he had indicated that fuel prices could be slashed by up to Rs. 200.
+
+...
+
+[Data](articles/8caf09d6.json)
+
+---
 
 ### Governor of the Northern Province to stop the activities of the Valve Elderly Home
 
@@ -174,23 +216,31 @@ Shantan, who was suffering from cancer, died. This is the natural death. Do not 
 
 ---
 
-### ’சம்பள அதிகரிப்பால் சபையில் சர்ச்சை’
+### Controversy in the congregation
 
 *2024-03-07 01:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பால்-சபையில்-சர்ச்சை/175-334309) · `ta`
 
-மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு விவகாரம் தொடர்பில் எதிர்க்கட்சி உறுப்பினர்கள் பிரதமரிடம் எழுப்பிய கேள்விகளால் சபையில் புதன்கிழமை (06)  சர்ச்சை ஏற்பட்டது.
+Opposition members in the House criticized the prime minister for a salary increase for central bank employees, leading to controversy. The Governor of the Central Bank was accused of attending a party leader's meeting on the issue. The debate was sparked by Marikar MP's demand for a detailed response. Harsha de Silva, the chairman of the committee, called for a resolution. The Governor of the Central Bank admitted a shortage and defended the central bank's independence.
 
-எதிர்க்கட்சியினர் அதிருப்தியை வெளியிட்டு கருத்துக்களை முன்வைத்த போது, ஆளும் கட்சி உறுப்பினர்கள் அடிக்கடி குறுக்கீடுகளை செய்ததால் சர்ச்சை ஏற்பட்டது.
+🟩
 
-மத்திய வங்கி பணியாளர்களின் சம்பள அதிகரிப்பு விவகாரம் தொடர்பில் மத்திய வங்கியின் ஆளுநர் உட்பட அதிகாரிகள்  கட்சித் தலைவர் கூட்டத்துக்கு அழைக்கப்பட்ட போதும், அங்கு எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என்றே எதிர்க்கட்சியினர் குற்றஞ்சாட்டினர்.
+The controversy in the House on Wednesday (06) was raised by opposition members to the prime minister over the salary increase of central bank employees.
 
-பாராளுமன்றம்   சபாநாயகர் தலைமையில் கூடிய பின்னர் பிரதமரித்திலான கேள்வி நேரத்தின்போது, மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்பு விவகாரம் தொடர்பில் எதிர்க்கட்சி உறுப்பினர்கள் கேள்வியெழுப்பினர்.
+The controversy caused controversy over the frequent interference of the ruling party members when the opposition expressed dissatisfaction.
 
-இதன்போது பிரதமர் அதற்கு பதிலளிக்கையில்,  தான் விரிவான பதிலை எதிர்பார்ப்பதாக மரிக்கார் எம்.பி கூறியதையடுத்தே சர்ச்சை உருவானது.
+Opposition parties have accused the central bank's governor, including the Governor of the Central Bank, to the party leader's meeting on the salary increase of the central bank employees.
+
+During the Prime Minister's Question Time after the Parliament was headed by the Speaker, opposition members questioned the salary increase of central bank employees.
+
+In response, the controversy arose after the Marikar MP said that he was expecting a detailed response.
+
+The Governor of the Central Bank should ask his conscience whether the salary increased amid economic impact. The entire population criticizes the central bank.
 
 ...
 
 [Data](articles/4d885f75.json)
+
+[Extended Data](ext_articles/4d885f75.ext.json)
 
 ---
 
@@ -2273,45 +2323,5 @@ Speaking in parliament Wednesday March 06 morning, MP de Silva asked President W
 [Data](articles/51b44dec.json)
 
 [Extended Data](ext_articles/51b44dec.ext.json)
-
----
-
-### Underworld figure ‘Manna Ramesh’ arrested in Dubai
-
-*2024-03-06 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97776/underworld-figure-manna-ramesh-arrested-in-dubai) · `en`
-
-Sri Lankan security forces have been informed that notorious underworld figure Ramesh Priyajanaka, also known as ‘Manna Ramesh’, has been arrested in Dubai.
-
-Accordingly, a group of police officers are reportedly slated to travel to Dubai to escort the wanted criminal back to Sri Lanka, upon a request made to the Dubai Police that he be handed over to Sri Lankan authorities.
-
-‘Manna Ramesh’ is reportedly wanted for numerous crimes including multiple murders in the Avissawella area.
-
-◼️
-
-[Data](articles/d690b55f.json)
-
-[Extended Data](ext_articles/d690b55f.ext.json)
-
----
-
-### Sri Lankan youths who have landed Russian women
-
-*2024-03-06 15:44:29* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-කාන්තාවන්-ගොඩදැමූ-ලාංකික-තරුණයෝ/11-408452) · `si`
-
-Two Russian women rescued from the sea by Sri Lankan police and coast protection officials. They claimed to have been swimming, not living in the sea.
-
-🟩
-
-Two Russian national women in the sea while the Hikkaduwa was bathing from the sea saw the seaplace and two Russian women were rescued by police life protectors and coast protection security officials today (6).
-
-The two women had rescued the two women as the police and coast protection officials while two overseas were taken away from the dawn of the dawn.
-
-The two foreign women said that they were not living in the sea that they had been swimming to the sea as they were swollen to the sea.
-
-◼️
-
-[Data](articles/7d4d6924.json)
-
-[Extended Data](ext_articles/7d4d6924.ext.json)
 
 ---

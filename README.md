@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 01:33:14**
+As of **2024-03-07 01:50:14**
 
 ## Newspaper Stats
 
-*Scraped **11,344** Articles*
+*Scraped **11,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 601
 adalk | 959
 tamilmirrorlk | 1,379
 adaderanalk | 1,383
-virakesarilk | 1,549
+virakesarilk | 1,551
 dailymirrorlk | 1,731
 adaderanasinhalalk | 1,772
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,338 (99.9%) of 11,344 articles have been extended.
+11,344 (100.0%) of 11,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### அநுரகுமாரவுக்கான அழைப்பு அசாதாரணமானதல்ல ; இலங்கை தலைவர்களுக்கான வழமையான அழைப்பை ஒத்ததே - இந்திய உயர்ஸ்தானிகர்
+
+*2024-03-07 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178126) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்கவுக்கு அண்மையில் விடுக்கப்பட்ட அழைப்பு, ஏனைய நாடுகளைச்சேர்ந்த முக்கிய நபர்களுக்கு வழமையாக விடுக்கப்படும் அழைப்பைப்போன்றது எனவும், இது அசாதாரணமான விடயம் அல்ல எனவும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்துள்ளார்.
+
+இவ்வருட இறுதியில் ஜனாதிபதி தேர்தல் நடைபெறுமென எதிர்பார்க்கப்படும் நிலையில், தேசிய மக்கள் சக்தியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான அநுரகுமார திஸாநாயக்க தலைமையிலான குழுவினர் கடந்த மாதத்தொடக்கத்தில் இந்தியாவுக்கு 5 நாட்கள் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்தனர். இந்திய அரசாங்கத்தின் அழைப்பின்பேரில் இடம்பெற்ற இவ்விஜயத்தின்போது அநுரகுமார திஸாநாயக்க தலைமையிலான குழுவினர் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர், இந்தியாவின் தேசிய பாதுகாப்பு ஆலோசகர் மற்றும் குஜராத் முதலமைச்சர் பூபேந்திர பட்டேல் உள்ளங்கலாக இந்தியாவின் உயர்மட்ட அரசியல் பிரமுகர்கள் பலரை சந்தித்துப் பேச்சுவார்த்தை நடத்தியிருந்தனர்.
+
+...
+
+[Data](articles/8bf62d60.json)
+
+---
+
+### இலங்கையின் கொழும்பில் மிகப்பிரமாண்டமாக நடைபெற்ற சர்வதேச கீதை பெருவிழா
+
+*2024-03-07 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178125) · `ta`
+
+நான்கு நாள் அமர்வுகளைக் கொண்ட சர்வதேச கீதை பெருவிழா 2024 மார்ச் 01ஆம் திகதி முதல் 2024 மார்ச் 04ஆம் திகதி வரை இலங்கையின் கொழும்பில் நடைபெற்றதுடன் இலங்கை பாராளுமன்றத்தின் சபாநாயகர் கௌரவ மகிந்த யாப்பா அபேவர்த்தன அவர்களுக்கு புனித பகவத் கீதை நூலின் பிரதி ஒன்று கையளிக்கப்பட்ட நிலையில் நிறைவடைந்துள்ளது.
+
+இந்தியாவின் ஹரியானா மாநிலத்தின் குருஷேத்ரா மேம்பாட்டு வாரியம், இலங்கையின் புத்தசாசன சமய மற்றும் கலாசார அலுவல்கள் அமைச்சு, மற்றும் கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயத்தின் கலாசாரப் பிரிவான சுவாமி விவேகானந்தா கலாசார நிலையம் ஆகியவை இணைந்து இலங்கையில் உள்ள 30க்கும் அதிகமான மத மற்றும் சமூக நிறுவனங்களின் ஒன்றிணைவுடன் இலங்கையில் முதல் தடவையாக குறித்த 5ஆவது சர்வதேச கீதை பெருவிழாவை ஒழுங்கமைத்திருந்தன.
+
+...
+
+[Data](articles/41a5078a.json)
+
+---
 
 ### EFL 3PL expands operations in India with launch of flagship distribution centre in Mumbai
 
@@ -50,6 +78,8 @@ This strategic expansion, with an investment of $ 5 million, marks a significant
 
 [Data](articles/e5edfded.json)
 
+[Extended Data](ext_articles/e5edfded.ext.json)
+
 ---
 
 ### Kapruka breaks boundaries with ‘Partner Central’
@@ -64,6 +94,8 @@ The event to launch the platform, which will mark a new era of empowerment and o
 
 [Data](articles/651682f9.json)
 
+[Extended Data](ext_articles/651682f9.ext.json)
+
 ---
 
 ### Hocus pocus plans and good plans
@@ -76,21 +108,33 @@ President Wickremesinghe’s forte is announcing hocus pocus plans. Hocus pocus 
 
 [Data](articles/e05dc2ab.json)
 
+[Extended Data](ext_articles/e05dc2ab.ext.json)
+
 ---
 
-### ஹர்ஷ கேள்விக்கு ஜனாதிபதி பதிலடி
+### President retaliates to Harsha question
 
 *2024-03-07 00:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷ-கேள்விக்கு-ஜனாதிபதி-பதிலடி/175-334306) · `ta`
 
-நான் எவ்வளவு காலம் ஜனாதிபதியாக இருக்கப் போகின்றேன் என்பதற்கு முன்னர் நீங்கள் இன்னும் எவ்வளவு காலத்திற்கு தலைவராக இருக்கப் போகின்றீர்கள் என்பது பிரச்சினையானது என்று அரசாங்க நிதிபற்றிய குழுவின் தலைவரான எதிர்க்கட்சி உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வாவை பார்த்து ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe responded to Dr. Harsha de Silva's question about the ongoing international debt renovation work, emphasizing the importance of compliance with all parliamentary parties. He also mentioned an upcoming meeting with party leaders and the presentation of a legal draft post-negotiations with the International Monetary Fund.
 
-பாராளுமன்றத்தில் புதன்கிழமை (06) ஹர்ஷ டி சில்வாவினால் ஜனாதிபதியிடம் முன்வைக்கப்பட்ட கேள்வியொன்றுக்கு பதிலளிக்கையிலேயே அவர் இவ்வாறு கூறினார்.
+🟩
 
-நிதி அமைச்சர் என்ற வகையில் ஜனாதிபதியிடம் சில கேள்விகளை எழுப்புகின்றேன். அதாவது சர்வதேச கடன் மறுசீரமைப்பு தொடர்பான பணிகள் தற்போது முன்னெடுக்கப்பட்டு வருகின்றது. சில மாதங்களே தேர்தலுக்கு உள்ளது. அடுத்து வரும் அரசாங்கம் இது தொடர்பான வேலைத்திட்டங்களை தொடர்ந்து முன்னெடுத்துச் செல்ல காத்திருக்கின்றது. இதனால் பாராளுமன்றத்தில் அங்கம் வகிக்கும் அனைத்துக் கட்சிகளுடனும் இணைந்து இணக்கப்பாட்டை ஏற்படுத்திக்கொள்வது சிறந்தது என்று கருதுகின்றேன்.
+President Ranil Wickremesinghe looked at the leader of the government -funded committee, Dr. Harsha de Silva, the leader of the government -funded committee.
+
+He said this in response to a question posed to the president by Harsha de Silva on Wednesday (06) in Parliament.
+
+As the Minister of Finance, I raise some questions to the President. This means that the work on international debt renovation is currently underway. Just a few months to the election. The next government is looking forward to continuing the programs related to this. I think it is best to make a compliance with all parties that are part of Parliament.
+
+We don't know exactly how long you will be. In this case, we are looking forward to carrying out programs under the leadership of Sajith. I would like to question this.
+
+President Ranil Wickremesinghe replied, "The problem is how long you are going to be the leader of the government finances before you are going to be.". Sampika Ranawaka was also gone.
 
 ...
 
 [Data](articles/4ae36897.json)
+
+[Extended Data](ext_articles/4ae36897.ext.json)
 
 ---
 
@@ -128,6 +172,8 @@ It is the biggest crisis and a grievance of a young man who left the age of 53 a
 
 [Data](articles/65aeb420.json)
 
+[Extended Data](ext_articles/65aeb420.ext.json)
+
 ---
 
 ### “One of the Tests of Leadership is the Ability to Recognize a Problem  before it becomes an Emergency” A Fight for Survival fuelled by ‘Inferior’ Thinking
@@ -141,6 +187,8 @@ We voters have an issue. We don’t demand that the lawmaker talks the truth. Wh
 ...
 
 [Data](articles/a4e2e3c4.json)
+
+[Extended Data](ext_articles/a4e2e3c4.ext.json)
 
 ---
 
@@ -2239,47 +2287,5 @@ Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arr
 [Data](articles/c87baac3.json)
 
 [Extended Data](ext_articles/c87baac3.ext.json)
-
----
-
-### Anthare water attack in Borella
-
-*2024-03-06 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194207) · `si`
-
-Police protest march by Inter University Students Federation at Borella Junction.
-
-🟩
-
-Police have launched a protest march organized by the Inter University Students Federation at Borella Junction.
-
-◼️
-
-[Data](articles/8806a086.json)
-
-[Extended Data](ext_articles/8806a086.ext.json)
-
----
-
-### Case on Thirukoneswara Temple Executive Council
-
-*2024-03-06 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178078) · `ta`
-
-The Trincomalee District Court ordered the extension of the Thirukoneswara Temple Executive Council's construction by 14 days, appointed Taneswaran as the Chairman of the Interim Executive Council, and issued an interim injunction to prevent members from acting as members of the Goneswara Temple.
-
-🟩
-
-The court has ordered the Trincomalee District Court on Wednesday (06) at the Trincomalee District Court on Wednesday (06).
-
-The trial against the Trincomalee Thirukoneswara Temple Executive Council was taken up in the presence of District Judge Ganesarajah today.. Attorney -at -Law Shanmugam Dillairasan, Senior Attorney Ramalingam Thirukumaranathan and Attorney -at -Law Karikalan were also present on behalf of the temple administration.
-
-The judge, who examined the bilateral submissions, appointed Divisional Secretariat Secretary Taneswaran as the Chairman of the Interim Executive Council and the Chairman of the Interim Executive Council and ordered the extension of the construction of the Administrative Council for a further 14 days.
-
-The Trincomalee District Court has issued an interim injunction in the case of the Trincomalee District Court on the 21st of last month to prevent members from acting as members of the Goneswara Temple.
-
-...
-
-[Data](articles/d05311c3.json)
-
-[Extended Data](ext_articles/d05311c3.ext.json)
 
 ---

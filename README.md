@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 06:16:39**
+As of **2024-03-06 06:53:40**
 
 ## Newspaper Stats
 
-*Scraped **11,125** Articles*
+*Scraped **11,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ economynextcom | 575
 dailyftlk | 593
 islandlk | 601
 adalk | 936
-tamilmirrorlk | 1,349
+tamilmirrorlk | 1,350
 adaderanalk | 1,354
 virakesarilk | 1,508
 dailymirrorlk | 1,699
-adaderanasinhalalk | 1,735
+adaderanasinhalalk | 1,736
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,116 (99.9%) of 11,125 articles have been extended.
+11,125 (100.0%) of 11,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට අද වැසි
+
+*2024-03-06 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194183) · `si`
+
+දකුණු පළාතේත් රත්නපුර සහ කළුතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි ඇතිවිය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/be2d46df.json)
+
+---
+
+### தாய்ப்பால் புரைக்கேறி குழந்தை உயிரிழப்பு
+
+*2024-03-06 04:13:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-புரைக்கேறி-குழந்தை-உயிரிழப்பு/175-334258) · `ta`
+
+இந்தப் சம்பவம் பலாங்கொடை பகுதியில் நேற்று இடம்பெற்றுள்ளது. பலாங்கொடை ஆதார வைத்தியசாலையில் நடத்தப்பட்ட பிரேத பரிசோதனையில் இந்த விடயம் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/51a4c317.json)
+
+---
 
 ### All parties Sticking to IMF pact vital to see Lanka out of woods  - British HC Andrew Patrick
 
@@ -1314,6 +1342,8 @@ Shirtworks (SWX), has long been a haven for modern gentlemen, offering a curated
 
 [Data](articles/a166879b.json)
 
+[Extended Data](ext_articles/a166879b.ext.json)
+
 ---
 
 ### Pan Asia Bank joins hands with AIA Insurance to bring world-class protection, health and investment coverage to its valued customers
@@ -1328,6 +1358,8 @@ Expressing his enthusiasm about the new partnership, Naleen Edirisinghe, CEO of 
 
 [Data](articles/09a53922.json)
 
+[Extended Data](ext_articles/09a53922.ext.json)
+
 ---
 
 ### Sri Lanka celebrates its remarkable recovery at ITB travel fair in Berlin
@@ -1339,6 +1371,8 @@ Sri Lanka Tourism is all set to give it’s best at the ITB Berlin this year, wh
 ...
 
 [Data](articles/96ff7d6c.json)
+
+[Extended Data](ext_articles/96ff7d6c.ext.json)
 
 ---
 
@@ -1378,6 +1412,8 @@ Janashakthi Life, a member of the Janashakthi Group, announces the appointment o
 
 [Data](articles/cdcd6e83.json)
 
+[Extended Data](ext_articles/cdcd6e83.ext.json)
+
 ---
 
 ### Lanka Milk Food shares nourish bourse into a degree of vibrancy
@@ -1393,6 +1429,8 @@ Those crossings were reported in Dankotuwa Porcelain, which crossed Rs 28 worth 
 ...
 
 [Data](articles/96595652.json)
+
+[Extended Data](ext_articles/96595652.ext.json)
 
 ---
 
@@ -2149,53 +2187,5 @@ At the same time, Amazon's stock prices have increased the value of Pesos's weal
 [Data](articles/ef237d14.json)
 
 [Extended Data](ext_articles/ef237d14.ext.json)
-
----
-
-### Hunger Dying Palestinian Children
-
-*2024-03-05 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194167) · `si`
-
-The World Health Organization reports severe malnutrition and dehydration among Palestinian children in Gaza, with 15 children killed and 16 in hospitals. Tedros Adhanom Ghebreyesus, WHO Director-General, calls the situation tragic and requests Israeli government intervention to protect civilians. The UNHRC suspects the Nova musical shows are suspicious.
-
-🟩
-
-The World Health Organization says that the Palestinian children in the north Gaza die for five months of attacks for five months.
-
-For the first time since October last October, a group of World Health Organization has visited al-mornado and Kamal experiences in the North Gazaka.
-
-The head of the World Health Organization, Tedrosus, the Head of the World Health Organization said that the revelation was very tragic.
-
-The head of the World Health Organization has said that the hospitality of the "X" is a note of the "X" space that the hospitality is in danger due to lack of food and the lack of electricity.
-
-He also requested the Israeli government to allow human assistance to protect civilians in the Gaza, especially children.
-
-According to the Ministry of Health, 15 children were killed in Malnutrition and Dehydration, while the 16th child died in a hospital in the southern Rapa.
-
-...
-
-[Data](articles/60e1ddab.json)
-
-[Extended Data](ext_articles/60e1ddab.ext.json)
-
----
-
-### Sri Lanka’s export earnings record marginal drop in January
-
-*2024-03-05 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97745/sri-lankas-export-earnings-record-marginal-drop-in-january) · `en`
-
-Sri Lanka’s earnings from merchandise exports in January 2024 amounted to USD 970.7 million, marking a decline of 0.77% as opposed to the corresponding month last year, according to the Export Development Board (EDB).
-
-Compared to January 2023, agricultural exports have shown a ‘modest increase’ of 3.58%, reaching USD 225.43 million in January 2024, with export earnings from tea, rubber and rubber-furnished products, coconut0-based products showing positive growth, the EDB said in a press release.
-
-However, industrial exports have experienced a decline of 2.08% during the same period, dropping to USD 744.77 million, with earnings from apparel and textile, spices and essential oils, electrical and electronic components, diamonds, gems and jewellery witnessing negative growth.
-
-With regard to Sri Lanka’s performance in its top 15 major export markets, the EDB said Italy, Germany, and Canada have shown positive growth in January 2024 in comparison to the corresponding month last year.
-
-...
-
-[Data](articles/6a8d8fe3.json)
-
-[Extended Data](ext_articles/6a8d8fe3.ext.json)
 
 ---

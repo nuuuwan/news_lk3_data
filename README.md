@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 11:02:47**
+As of **2024-03-06 11:17:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,167 (100.0%) of 11,172 articles have been extended.
+11,172 (100.0%) of 11,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,35 @@ Wickremesinghe arrived at the parliament complex on Wednesday morning to brief t
 
 [Data](articles/66d7aab3.json)
 
+[Extended Data](ext_articles/66d7aab3.ext.json)
+
 ---
 
-### பாலியல் துஷ்பிரயோக குற்றச்சாட்டில்  கைதான நபருக்கு 12 வருட கடூழிய சிறை தண்டனை !
+### 12 years rigorous imprisonment for sexual abuse
 
 *2024-03-06 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178039) · `ta`
 
-பாலியல் துஷ்பிரயோக குற்றச்சாட்டில் குற்றவாளியாக இனங்காணப்பட்ட  ஒருவருக்கு 12 வருட கடூழிய சிறை தண்டனை விதித்து நுவரெலியா மேல் நீதிமன்றம் நேற்று செவ்வாய்க்கிழமை (05) மாலை  தீர்ப்பளித்துள்ளது.
+A 37-year-old man, Rajaratnam Ketheeswaran, was sentenced to 12 years in prison for sexual abuse. He was a part-time teacher accused of abusing a schoolgirl in 2010. The Nuwara Eliya High Court found him guilty based on evidence heard over 14 years. The judge also ordered compensation for the victim and a fine of five thousand rupees, with an additional two months imprisonment if not paid.
 
-நோட்டன்பிரிஜ் பொலிஸ் பிரிவுக்குட்பட்ட கிளவட்டன் பகுதியைச் சேர்ந்த இராஜரட்ணம் கேதீஸ்வரன் (வயது 37) என்பவருக்கு இந்த கடூழிய சிறை தண்டனை வழங்கப்பட்டுள்ளது.
+🟩
 
-நுவரெலியா மாவட்ட மேல் நீதிமன்ற  நீதவான் விராஜ் வீரசூரிய இத் தண்டனையை வழங்கியுள்ளார்.
+The Nuwara Eliya High Court on Tuesday (05) evening sentenced a 12 -year -old imprisonment to a man who was accused of sexual abuse.
 
-கடந்த 2010 ஆண்டு ஜனவரி மாத காலப்பகுதியில் கிளவட்டன் பகுதி பாடசாலை ஒன்றில் பகுதிநேர ஆசிரியராக கடமையாற்றிய இராஜரட்ணம் கேதீஸ்வரன் என்பவர் தரம் ஐந்தில் கல்வி கற்ற சிறுமியான பாடசாலை மாணவியை பாலியல் துஷ்பிரயோகம் செய்துள்ளதாக அவர் மீது வழக்கு நுவரெலியா மேல் நீதி மன்றத்தில் வழக்கு தொடரப்பட்டிருந்தது.
+Rajaratnam Ketheeswaran (age 37), a native of Clavatan, belonging to the Notenpirij police division, has been sentenced to life imprisonment.
 
-இது தொடர்பான வழக்கு விசாரணை நுவரெலியா மேல் நீதிமன்றத்தில் கடந்த 14 வருடங்களாக விசாரிக்கப்பட்ட நிலையில்  வழங்கப்பட்ட சாட்சியங்களின் அடிப்படையில்  இந்த பகுதி நேர ஆசிரியர் குற்றவாளியாக இனங்காணப்பட்ட நிலையில் இவருக்கு 12 வருட கடூழிய சிறை தண்டனை வழங்கப்பட்டது.
+Nuwara Eliya District High Court Magistrate Viraj Weerasuriya has sentenced the sentence.
+
+Rajaratnam Ketheeswaran, who was a part -time teacher at a school in the Klavatan area in January 2010, has been sued by the Nuwara Eliya High Court alleging that a schoolgirl has sexually abused a schoolgirl.
+
+He was sentenced to 12 years in prison after the case was identified as a part -time teacher guilty on the basis of evidence that had been heard in the Nuwara Eliya High Court for the past 14 years.
+
+The judge also announced that the victim should be given a compensation of Rs.
 
 ...
 
 [Data](articles/7d0efae1.json)
+
+[Extended Data](ext_articles/7d0efae1.ext.json)
 
 ---
 
@@ -81,6 +91,8 @@ Making a special statement in Parliament, he said the government will resume rep
 ◼️
 
 [Data](articles/d5e059f2.json)
+
+[Extended Data](ext_articles/d5e059f2.ext.json)
 
 ---
 
@@ -321,6 +333,8 @@ Wickremesinghe further mentioned that the country’s economy, which contracted 
 ...
 
 [Data](articles/f712ecce.json)
+
+[Extended Data](ext_articles/f712ecce.ext.json)
 
 ---
 
@@ -596,25 +610,31 @@ The MP Charitha Herath says that there is no political future, the General who d
 
 ---
 
-### මම පාර්ලිමේන්තුවට එන්නේ නෑ
+### I'm not coming to Parliament
 
 *2024-03-06 08:10:37* · [`adalk`](https://www.ada.lk/breaking_news/මම-පාර්ලිමේන්තුවට-එන්නේ-නෑ/11-408441) · `si`
 
-ශ්‍රී ලංකා පොදු ජන පෙරමුණේ නිර්මාතෘ , එම පක්ෂයේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතා ඊයේ (05දා) කටුනායක ගුවන් තොටුපොළ ඔස්සේ ශ්‍රී ලංකාවට පැමිණියේය .
+Basil Rajapaksa, Sri Lanka's National Organizer, arrived in Sri Lanka but did not visit Parliament. He mentioned organizing a Common Filling for future elections, despite party MPs being divided.
 
-ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක ප්‍රසන්න රණතුංග මහතා ඔහුව පිළිගැනීම සිදු කල අතර පොදු ජන පෙරමුණේ ලේකම් නීතීඥ සාගර කාරියවසම් මහතා ද පැමිණ සිටියහ .
+🟩
 
-කටුනායක ගුවන් තොටුපොළෙන් පිටතට පැමිණි බැසිල් රාජපක්ෂ මහතා මාධ්‍යවේදීන් අමතමින් මෙසේ පැවසීය .
+Basil Rajapaksa, the National Organizer of the Government of Sri Lanka, arrived in Sri Lanka on the Katunayake airport yesterday (05).
 
-"මම සෑම වසරකම මගේ දරුවන් බලන්න ඇමෙරිකාවට යනවා. මම පාර්ලිමේන්තුවට එන්නෙ නැහැ . හැබැයි ඊළඟට පැමිණීමට නියමිත පාර්ලිමේන්තු මැතිවරණය හෝ ජනාධිපතිවරණය යන මැතිවරණ දෙකෙන් කුමන මැතිවරණය තිබ්බත්, මම පොදු ජන පෙරමුණ සංවිධානය කරනවා.
+The Chief Government Whip Prasanna Ranatunga was recognized and the General Assembly Sagar Kariyawasam was also present.
 
-ඒ වගේම කවුරු මෙම මැතිවරණ සදහා තරග කළත් පොහොට්ටුවේ සහයෝගයෙන් තමයි දිනන්න වෙන්නෙ. අපගේ පක්ෂයේ මන්ත්‍රීවරුන් පිල් කීපයකට බෙදී සිටිනවා . ආයෙත් එක් වෙනවා. ඒක තමයි ස්වභාවය.
+He was speaking at the Bandaranaike International Airport and told journalists:
 
-ඉදිරි මැතිවරණ වලට තරග කිරීම පිළිබඳව නායකතුමා , ජනතාව සහ පාක්ෂිකයන් එක් වී අවශ්‍ය තීරණ ගනීවි"
+"I go to America every year to America. I'm not coming to Parliament. But the next two elections were organized by the next two election elections, I would organize the Common Filling.
+
+And even though someone contests for these elections, it is in support of the pointer. Our party MPs are divided into several piles. Getting back together. That's the nature of nature.
+
+The Leader, the Leader of the Leader, the leaders of the leaders and their supporters will be made to join the future elections.
 
 ◼️
 
 [Data](articles/a42780ae.json)
+
+[Extended Data](ext_articles/a42780ae.ext.json)
 
 ---
 
@@ -1306,13 +1326,11 @@ Sri Lanka ranks a high 43 in Global Militarisation Index and a low 83 in Social 
 
 *2024-03-06 01:13:23* · [`dailyftlk`](https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216) · `en`
 
-The panellists viewed Mannar as a pristine location and failed to acknowledge the serious
+The panellists viewed Mannar as a pristine location and failed to acknowledge the serious threats facing the island’s ecology on multiple fronts
+
+Wind farms located at close proximity to wetlands is not a new phenomenon. Thus, Mannar is not an exception. Experts covering various fields should work as a team and collaborate to formulate rules and guidelines to cover matters such as setback from sensitive zones, adoption of mitigatory measures, collection of data from operational wind farms for analysis, etc. The experiences drawn in Mannar will become useful as more project developments take place in wind resource rich regions of SL
 
 Having attended the 27 February WNPS hosted media conference that highlighted ecological threats faced in Mannar due to the proposed wind farm development by the Adani group, I am sharing my views below:
-
-First, I wish to present the synopsis of a public lecture titled, “Mannar Wind Power and Avian Issues” that I delivered seven years ago at the Institution of Engineers SL on 2 March 2017:
-
-Meeting the growing electric power demand presents Sri Lanka with challenging options. Rapid expansion of wind power capacity can help to reduce coal-based power generation that undermines national energy security and harms the environment.
 
 ...
 

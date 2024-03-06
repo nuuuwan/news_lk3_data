@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 23:33:29**
+As of **2024-03-06 23:52:19**
 
 ## Newspaper Stats
 
-*Scraped **11,331** Articles*
+*Scraped **11,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 594
 islandlk | 601
 adalk | 959
 tamilmirrorlk | 1,377
-adaderanalk | 1,382
+adaderanalk | 1,383
 virakesarilk | 1,548
 dailymirrorlk | 1,729
 adaderanasinhalalk | 1,772
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,331 (100.0%) of 11,331 articles have been extended.
+11,331 (100.0%) of 11,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### Udappuwa Crimes OIC arrested over assault incident
+
+*2024-03-06 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97784/udappuwa-crimes-oic-arrested-over-assault-incident-) · `en`
+
+The Officer-In-Charge (OIC) of the Udappuwa Police Crimes Division was arrested and subsequently suspended from the service, for allegedly assaulting a group of villagers on Tuesday night (05 March).
+
+According to police, witnesses had also videotaped the police officer in question using crude language with the area residents, blasting them for reportedly having spat on his vehicle, in which he had been travelling in with two other persons.
+
+Two civilians were subsequently admitted to the Udappuwa Rural Hospital after sustaining injuries in the altercation. Meanwhile, the Crimes OIC who claims to have also sustained injuries in the incident, was also hospitalised.
+
+He was arrested this morning (06) while still in hospital, and was suspended from his duties pending investigations.
+
+Police stated that blood samples were also obtained from the policeman in question, to determine whether or not he had been under the influence of alcohol at the time of the incident.
+
+◼️
+
+[Data](articles/c7e80ae7.json)
+
+---
 
 ### A special meeting between President - Muslim MPs
 
@@ -2339,29 +2359,5 @@ It was reported that the girl's elder brother had also succumbed to epilepsy a f
 [Data](articles/e022c72a.json)
 
 [Extended Data](ext_articles/e022c72a.ext.json)
-
----
-
-### Sri Lanka extends expat electric vehicle import scheme to June
-
-*2024-03-06 13:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-expat-electric-vehicle-import-scheme-to-june-153391/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of ministers have approved the extension of an electrical vehicle import licence scheme, meant for Sri Lankan expatriates, till June 30.
-
-The scheme was implemented on the basis that Sri Lankan expatriates make formal bank transfers of foreign remittances through licensed banks in Sri Lanka.
-
-The President received approval from the Cabinet to submit the Import and Export Control Act No. 2 of 2024, issued under the Import and Export Control Act No. 1 of 1969, to parliament for parliament approval.
-
-The Cabinet had previously extended a deadline given to expatriate workers who had remitted foreign exchange for the purpose of importing EVs, as amounts were insufficient to import them. The deadline was extended to September of 2023.
-
-Sri Lanka gives expatriate workers more time to qualify for EV permit
-
-Duty, EV allowances to Sri Lanka’s migrant workers who remit via official channels
-
-...
-
-[Data](articles/491c2b7e.json)
-
-[Extended Data](ext_articles/491c2b7e.ext.json)
 
 ---

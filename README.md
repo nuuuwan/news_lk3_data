@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 21:52:31**
+As of **2024-03-06 22:04:39**
 
 ## Newspaper Stats
 
-*Scraped **11,310** Articles*
+*Scraped **11,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 108
 bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
-economynextcom | 578
+economynextcom | 591
 dailyftlk | 593
 islandlk | 601
 adalk | 958
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,771
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,308 (100.0%) of 11,310 articles have been extended.
+11,310 (99.9%) of 11,323 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,31 +50,43 @@ Plans have been set to commence 2000 houses project in Colombo and its suburbs, 
 
 [Data](articles/051f3f72.json)
 
+[Extended Data](ext_articles/051f3f72.ext.json)
+
 ---
 
-### අද මුල්වරට එළියට ආ මහ බැංකුවේ මහ පඩි ලැයිස්තුව
+### List of the Central Bank's Great Pay
 
 *2024-03-06 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194222) · `si`
 
-මහ බැංකුවේ නව වැටුප් වැඩිවීමට අනුව එහි කාර්යාල සහායකයෙකුගේ මාසික දළ වැටුප රුපියල් එක්ලක්ෂ අසූඅට දහසක් දක්වා ඉහළ නංවා ඇති බව අද පාර්ලිමේන්තුවේදී අනාවරණ විය.
+The Central Bank of Sri Lanka has increased salaries for various positions, including office assistants, first-grade employees, and managing assistants, with the monthly gross wage for an office assistant now at Rs. 1000. The Prime Minister, Dinesh Gunawardena, presented these salary increases to parliament.
 
-ඒ එම වැටුප් වැඩිවීම් අග්‍රාමාත්‍යවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කරනු ලැබූ අවස්ථාවේදීය.
+🟩
 
-මහ බැංකුවේ නියෝජ්‍ය අධිපතිවරයෙකුගේ මාසික දළ වැටුප රුපියල් නව ලක්ෂයේ සිට රුපියල් 17 ලක්ෂය දක්වාද වැඩිකර ඇති බවත් එහිදී අනාවරණ විය.
+According to the increase in the new bank's new salary, the monthly gross coverage of its office assistant has been increased to a thousand Rs.
 
-ඒ අනුව ශ්‍රී ලංකා මහබැංකුවේ වැටුප් වැඩිවී ඇත්තේ කෙසේ ද යන්න අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවට පැහැදිළි කළේය.
+The salary increases were presented by the Prime Minister to parliament.
 
-කාර්යාල සහායක පන්තියේ පළමු ශ්‍රේණියේ සේවකයෙකුගේ මාසික දළ වැටුප රුපියල් එක්ලක්ෂ හතළිස් පන්දහස් හත්සිය හැත්තෑ තුනකි.
+It was revealed that the monthly staff of the Central Bank has increased from Rs.
 
-නව වැටුප් වැඩිවීමත් සමග එය රුපියල් එක්ලක්ෂ අසූඅට දහස් අටසිය විසිහතක් දක්වා ඉහළ යයි.
+The Prime Minister Dinesh Gunawardena explained how the Sri Lanka Central Bank had increased.
 
-එමෙන්ම එම කාණ්ඩයේ දෙවැනි සහ තෙවැනි ශ්‍රේණි සඳහා ද වැටුප් වැඩි වී ඇති අතර කාර්යාල සහායක තුන්වැනි පන්තියේ සේවකයෙකුගේ මාසික දළ වැටුප රුපියල් එක්ලක්ෂ හැටහතර දහස් හයසිය තිස්හතරේ සිට රුපියල් දෙලක්ෂ විසිතුන්දහස් හත්සිය හැට තුනක් දක්වා ඉහළ ගොස් තිබේ.
+The monthly gross wage of a first-grade employee first grade employee in the office assistant class was Rs.
 
-කළමනාකාර සහකාර පන්තියේ ශ්‍රේණි 05ක් සඳහා ද වැටුප් වැඩිකර තිබේ.
+With the increase in new salaries, it is up to Rs.
+
+The second and third grades of the category have increased and the monthly average average of the third class of the third class of the third class of the third class of Rs.
+
+The salaries have also been increased for five Managing Assistant Class series.
+
+The previous monthly officer's previous monthly officer was one-seven hundred three thousand three hundred and fifty three.
+
+It has been increased to Rs.
 
 ...
 
 [Data](articles/637dcdee.json)
+
+[Extended Data](ext_articles/637dcdee.ext.json)
 
 ---
 
@@ -108,7 +120,7 @@ Sri Lanka and Bangladesh are in a balanced series in each of the three matches.
 
 *2024-03-06 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-Lady-calls-for-humanized-foreign-ties/108-278367) · `en`
 
-At a time where it is repeatedly stressed that Sri Lanka needs to work closely with other nations, First lady Maithreee Wickremesinghe called for diplomatic ties which would become connections of hearts, minds and souls.
+At a time where it is repeatedly stressed that Sri Lanka needs to work closely with other nations, First lady Maithree Wickremesinghe called for diplomatic ties which would become connections of hearts, minds and souls.
 
 Ms. Wickremesinghe highlighted this point at the swearing in of US Peace Corps volunteers in Colombo.
 
@@ -502,6 +514,44 @@ Police said that a suspect who supported the crime was arrested.
 
 ---
 
+### Sri Lanka’s Hilton Colombo ready for private investment: state minister
+
+*2024-03-06 18:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-hilton-colombo-ready-for-private-investment-state-minister-153452/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Hilton Colombo is ready for private sector investment, with four businessmen already expressing interest, State Minister for Urban Development and Housing Arundika Fernando said.
+
+However, securing the expected financial investment for the project’s success is essential, Fernando told reporters on Wednesday March 06.
+
+Meanwhile, progress on the Hyatt Hotel, which falls under Fernando’s ministry, has reached the halfway mark, with efforts underway to seek an investor for its completion, he said. There is also a proposal to attract investors for the development of both sides of D R Wijewardene Mawatha, stretching from Colombo Lotus Tower to the Lakehouse Roundabout.
+
+A statement from the president’s media division (PMD) quoted the state minister as highlighting growing interest from India, China, and “several Western nations” in investing in the country.
+
+...
+
+[Data](articles/1830ed25.json)
+
+---
+
+### Sri Lanka sees 1,995 new companies registered in Jan 2024: President
+
+*2024-03-06 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-1995-new-companies-registered-in-jan-2024-president-153451/) · `en`
+
+ECONOMYNEXT – Sri Lanka has seen 1,995 new companies set up qin in January 2024, on top of 4,500 companies registered in 2023, as the country emerged from an economic crisis, President Ranil Wickremesinghe said.
+
+“The resurgence of the economy has encouraged the establishment of new ventures,” President Wickremesinghe told parliament Wednesday.
+
+“In 2022, the Company Registrar recorded the registration of 17,819 companies, a figure that rose to 22,376 in 2023. Additionally, in January 2024, 1,995 new companies were registered.”
+
+Wickremesinghe said his current endeavours were dedicated to national reconstruction rather than personal power accumulation, and pointed out some economic indicators that ‘illustrate this progress’ including the uptick in domestic tourism. (Colombo/Mar6/2024)
+
+Following is the English translation of President Ranil Wickremesinghe’s full address to the Parliament on 06th March 2024:
+
+...
+
+[Data](articles/14174f4d.json)
+
+---
+
 ### Millennium City case against ASP Udugampola fixed for further defence evidence
 
 *2024-03-06 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Millennium-City-case-against-ASP-Udugampola-fixed-for-further-defence-evidence/108-278364) · `en`
@@ -533,6 +583,24 @@ The Inter University Students' Union held a protest marching from Borella where 
 [Data](articles/b9c7b71d.json)
 
 [Extended Data](ext_articles/b9c7b71d.ext.json)
+
+---
+
+### Sri Lanka will bring new laws to sustain economic reforms: president
+
+*2024-03-06 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-bring-new-laws-to-sustain-economic-reforms-president-153422/) · `en`
+
+ECONOMYNEXT — Sri Lanka will introduce legislation to sustain its current course of recovery and reforms, which will include an Economic Reform Act, President Ranil Wickremesinghe said.
+
+Acknowledging difficulties faced by sections of the population in the wake of Sri Lanka’s 2022 financial crisis, the worst in decades, Wickremesinghe told parliament on Wednesday March 06 that his administration intends to uplift all.
+
+“While certain segments of society have faced hardships due to our current practices, we’re striving to uplift the entire society and establish a sustainable economy where growth benefits all. As Professor Henpitagedara Gnanavasa Thero emphasized in 1983, addressing economic problems collectively is key to fostering societal peace and happiness,” he said.
+
+Wickremesinghe invited all parties represented in parliament to support the reforms.
+
+...
+
+[Data](articles/01072186.json)
 
 ---
 
@@ -604,6 +672,28 @@ The petition is the S. U. B. Appeal was called before the Court of Appeal with K
 
 ---
 
+### Sri Lanka plans to lift VAT from books, school supplies: President
+
+*2024-03-06 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-lift-vat-from-books-school-supplies-president-153425/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to lift value added tax from books, school supplies, and medical devices, President Ranil Wickremesinghe said in parliament today.
+
+“We are expecting to exempt books, school supplies, medical devices and medicine from VAT,” President Wickremesinghe said on Wednesday.
+
+“We will be able to reduce the VAT charge in the future. The more the economy strengthens the more we take actions to make people’s lives easier.”
+
+A growing number of Sri Lankans, especially those who are hit by higher personal income tax rates, also go to private hospitals and send their children to private schools.
+
+VAT was vital to boost government revenues, Wickremesinghe said. “Because of the VAT, the government’s revenue has been strengthened. Internationally, we were able to prove that we are capable of settling our debts,” Wickremesinghe said.
+
+“Through the strengthening of government revenue and economic revival, the rupee strengthened.”
+
+...
+
+[Data](articles/c6dc8bb2.json)
+
+---
+
 ### Sri Lanka and Maldives must work together to counter violent extremism, illicit trafficking – State Minister
 
 *2024-03-06 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97780/sri-lanka-and-maldives-must-work-together-to-counter-violent-extremism-illicit-trafficking-state-minister-) · `en`
@@ -669,6 +759,34 @@ A special event was held at the Department of Muslim Religious and Cultural Affa
 [Data](articles/9cdb440b.json)
 
 [Extended Data](ext_articles/9cdb440b.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 307.80/88 to the US dollar
+
+*2024-03-06 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-307-80-88-to-the-us-dollar-153416/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 307.80/88 to the US dollar in the spot forex market Wednesday, stronger from 307.95/308.05 a day earlier, dealers said, while bond yields were flat.
+
+The rupee opened at 307.75/308.00 levels to the US, market participants said.
+
+Sri Lanka’s rupee has strengthened amid broadly deflationary policy (selling down CB held securities and withdrawing liquidity).
+
+A bond maturing on 01.02.2026 closed at 10.60/75 percent from 10.65/70 percent Tuesday.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.85/95 percent.
+
+A bond maturing on 01.07.2028 closed at 12.20/30 percent up from 12.15/22 percent.
+
+A bond maturing on 15.07.2029 closed at 12.25/50 percent from 12.25/40 percent.
+
+A bond maturing on 15.05.2030 closed at 12.35/50 percent up from 12.25/45 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/13.00 percent up from 12.60/90 percent. (Colombo/Mar6/2024)
+
+◼️
+
+[Data](articles/ca25cf38.json)
 
 ---
 
@@ -891,6 +1009,50 @@ We were both studied in Kingswood College to the Fifth Class. The two us in the 
 [Data](articles/22abf5d6.json)
 
 [Extended Data](ext_articles/22abf5d6.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields up, Rs42bn 12-month bills sold
+
+*2024-03-06 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-up-rs42bn-12-month-bills-sold-153411/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields edged up across maturities at Wednesday’s auction with the 3-month yield moving edging up 9 basis points to 9.96 percent, data from the state debt office shows.
+
+The debt office sold 64.6 billion rupees of 3-month bills after offering 64.68 billion rupees.
+
+The 6-month yield rose 13 basis points to 10.08 percent, with 60 billion rupees offered and 52.84 billion rupees.
+
+The 12-month yield rose 9 basis points to 10.14 percent with 42.47 billion rupees of bills sold after offering 60 billion rupees.
+
+All 160 billion rupees of bills offered have been sold. However data also shows that some market participants are buying bills with printed money borrowed from central bank windows.
+
+The yield curve is now sloping upwards and more 12 month bills have been sold over the past two weeks. (Colombo/Mar06/2024)
+
+◼️
+
+[Data](articles/3d2e47c3.json)
+
+---
+
+### Sri Lanka stocks close up, LOLC Finance trade pushes turnover past 2.2bn
+
+*2024-03-06 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-lolc-finance-trade-pushes-turnover-past-2-2bn-153409/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.37 percent, or 40.07 points, at 10,881; while the S&P SL20 Index closed up 0.26 percent, or 8.05 points, at 3,100.
+
+Turnover topped 2.2 billion. Nearly half of this came from an LOLC Finance Plc trade (1bn), which market participants speculated was an internal transfer, possibly foreign selling and local buying. The share closed up at 4.80.
+
+Lanka Milk Foods (CWE) Plc also saw some activity (151mn), and the share closed up at 26.50.
+
+“There was some selling pressure in the morning but then it picked up. We see interest in the equity market returning with the low interest rates,” a market participant said.
+
+Companies contributing to the All Share Price Index in the day were Commercial Bank of Ceylon Plc (up at 90.90), Chevron Lubricants Lanka Plc (up at 106.25), and Sunshine Holdings Plc (up at 56.90).
+
+...
+
+[Data](articles/88b1585d.json)
 
 ---
 
@@ -1366,6 +1528,24 @@ He said the book explains the first experience of the internationally sponsored 
 
 ---
 
+### Sri Lanka president quips about parliamentary committee’s future amid speculation
+
+*2024-03-06 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-quips-about-parliamentary-committees-future-amid-speculation-153404/) · `en`
+
+ECONOMYNEXT — Amid speculation over the possibility of an early dissolution of parliament, President Ranil Wickremesinghe joked to opposition MP Harsha de Silva that the chairmanship of a parliamentary committee the latter heads may not last much longer.
+
+Speaking in parliament Wednesday March 06 morning, MP de Silva asked President Wickremesinghe, who was present at the legislature, to discuss Sri Lanka’s plans for the restructure of external debt with all political parties represented in parliament.
+
+“Restructuring of foreign debt is now going on. There’s only a few months left for the election. The next government will be obliged to continue the restructuring process. I propose to you that a consensus is reached with all parties that represent parliament upon some deliberation, because we can’t say for sure how long you’ll be there,” said de Silva.
+
+“We expect to commence work under [incumbent opposition leader] Premadasa,” he added.
+
+...
+
+[Data](articles/51b44dec.json)
+
+---
+
 ### Underworld figure ‘Manna Ramesh’ arrested in Dubai
 
 *2024-03-06 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97776/underworld-figure-manna-ramesh-arrested-in-dubai) · `en`
@@ -1449,6 +1629,28 @@ This is a wonderful lesson for us. It is not possible that the rons were able to
 [Data](articles/26e0da73.json)
 
 [Extended Data](ext_articles/26e0da73.ext.json)
+
+---
+
+### Sri Lanka to bring in new laws, increase safe houses for women
+
+*2024-03-06 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-in-new-laws-increase-safe-houses-for-women-153402/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister for Women and Children’s affairs, Geetha Kumarasinghe, said that the government will present two new bills in parliament shortly to strengthen women’s rights in the country.
+
+“We have worked on two new bills that we will introduce to parliament after Cabinet approval. One seeks to empower women, and the other is to establish equality,” Kumarasinghe said.
+
+Sri Lanka drafts new laws to address gender socialisation, form national women’s commission
+
+Kumarasinghe said her ministry had also completed the construction of 12 protection centers for women.
+
+“We have currently completed the construction of 12 protection centers,” Kumarasinghe said in parliament on Tuesday in response to an opposition legislator’s query. “Women can stay in these centers (randavum madyasthana) for upto three months.”
+
+The centers will offer women suffering from domestic abuse, who have nowhere to go if they leave their homes, a temporary respite.
+
+...
+
+[Data](articles/71b26960.json)
 
 ---
 
@@ -1928,6 +2130,28 @@ It was reported that the girl's elder brother had also succumbed to epilepsy a f
 
 ---
 
+### Sri Lanka extends expat electric vehicle import scheme to June
+
+*2024-03-06 13:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-expat-electric-vehicle-import-scheme-to-june-153391/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of ministers have approved the extension of an electrical vehicle import licence scheme, meant for Sri Lankan expatriates, till June 30.
+
+The scheme was implemented on the basis that Sri Lankan expatriates make formal bank transfers of foreign remittances through licensed banks in Sri Lanka.
+
+The President received approval from the Cabinet to submit the Import and Export Control Act No. 2 of 2024, issued under the Import and Export Control Act No. 1 of 1969, to parliament for parliament approval.
+
+The Cabinet had previously extended a deadline given to expatriate workers who had remitted foreign exchange for the purpose of importing EVs, as amounts were insufficient to import them. The deadline was extended to September of 2023.
+
+Sri Lanka gives expatriate workers more time to qualify for EV permit
+
+Duty, EV allowances to Sri Lanka’s migrant workers who remit via official channels
+
+...
+
+[Data](articles/491c2b7e.json)
+
+---
+
 ### Seven men arrested in India over alleged gang-rape of tourist
 
 *2024-03-06 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97771/seven-men-arrested-in-india-over-alleged-gang-rape-of-tourist) · `en`
@@ -2123,243 +2347,5 @@ The police officers were summoned to control the unrest in the Udappuwa area.
 [Data](articles/b5c06ef7.json)
 
 [Extended Data](ext_articles/b5c06ef7.ext.json)
-
----
-
-### Prime Minister explains recent CBSL salary hike in Parliament
-
-*2024-03-06 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97770/prime-minister-explains-recent-cbsl-salary-hike-in-parliament-) · `en`
-
-Prime Minister Dinesh Gunawardena detailed the recent salary hikes of those employed at the Central Bank of Sri Lanka (CBSL).
-
-Responding to a question raised by Samagi Jana Balawegaya (SJB) MP S. M. Marikkar in Parliament this morning (06 March), the Premier provided a detailed explanation of the amounts and percentages by which the salaries were increased by for each position within the CBSL, emphasisng that these facts were made easily accessible to the public.
-
-Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition, following which the CBSL officials were summoned before the Cabinet, party leaders’ meeting and the Committee on Public Finance (COPF).
-
-...
-
-[Data](articles/693af192.json)
-
-[Extended Data](ext_articles/693af192.ext.json)
-
----
-
-### 29% - 89% salary hikes given to CBSL employees: PM reveals in parliament
-
-*2024-03-06 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97770/29-89-salary-hikes-given-to-cbsl-employees-pm-revealsinparliament) · `en`
-
-Prime Minister Dinesh Gunawardena detailed the recent salary hikes of those employed at the Central Bank of Sri Lanka (CBSL).
-
-Responding to a question raised by Samagi Jana Balawegaya (SJB) MP S. M. Marikkar in Parliament this morning (06 March), the Premier provided a detailed explanation of the amounts and percentages by which the salaries were increased by for each position within the CBSL, emphasisng that these facts were made easily accessible to the public.
-
-Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition, following which the CBSL officials were summoned before the Cabinet, party leaders’ meeting and the Committee on Public Finance (COPF).
-
-...
-
-[Data](articles/6b061e05.json)
-
-[Extended Data](ext_articles/6b061e05.ext.json)
-
----
-
-### Vocational training for students who appeared for the exam
-
-*2024-03-06 13:20:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைக்குத்-தோற்றிய-மாணவர்களுக்கான-தொழிற்பயிற்சி-ஆரம்பம்/175-334278) · `ta`
-
-The Nationwide Program for the GCE Advanced Level Examination, launched in 2024, offers vocational training in English, IT, and Guidance to 25,000 students. Training will be held at 300 stations nationwide and is set to conclude before the GCE Ordinary Level Examination begins.
-
-🟩
-
-This year (2024), the Nationwide Program for the GCE Advanced Level Examination has been launched today for the students who have been given English, Information Technology and Guidance Training.
-
-The Ministry of Education said that 25,000 students who appeared for the GCE Advanced Level Examination this year have registered in the scheme.
-
-Training programs will be held at 300 stations located across the country from today, the Ministry said.
-
-The program was launched at the Maharagama Central Maha Vidyalaya under the patronage of Education Minister Susil Premajayantha.
-
-The Ministry of Education has said that these training programs will be completed before the GCE Ordinary Level Examination begins.
-
-The Ministry further stated that steps are being taken to introduce training programs for students who are sitting for the GCE Ordinary Level Examination this year.
-
-◼️
-
-[Data](articles/ab945368.json)
-
-[Extended Data](ext_articles/ab945368.ext.json)
-
----
-
-### Suspect attempting to flee during a drug operation in Chilaw dies after being arrested
-
-*2024-03-06 13:13:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgr920qpz11o) · `si`
-
-A suspect involved in a drug operation in Chilaw died after being arrested. The operation, which began on December 17, is ongoing. Two suspects were arrested, one of whom died. The incident was reported to BBC Sinhala and Eye. The suspects tried to escape but were caught by police. The deceased was taken to Chilaw Hospital, where he was pronounced dead. The other suspect was arrested with over 6 grams of ice. The police have been accused of killing the suspects during arrest.
-
-🟩
-
-Suspect attempting to flee during a drug operation in Chilaw dies after being arrested
-
-The "justice operation operated from December 17 last year is still underway.
-
-At a media briefing held recently, the operation was continuously implemented.
-
-Meanwhile, a person owned by the Madampe Police Division (March 6) was reported from the Madampe Police Division (March 6).
-
-Police officers have been pursued by a group of police officers on a tip off received by the Chilaw divisional poisoning drug department.
-
-Two suspects have been arrested by the police in the operation, one of them had died.
-
-The incident had told BBC Sinhala, Eye, that the dead man and the suspect who was in custody has tried to escape the police officers.
-
-"My name is antenny herman. This is my house. At about 100 am at around 100 am, two people entered the garden of my home. They ran back on my home without my permission. I followed me too. "
-
-...
-
-[Data](articles/a51c040e.json)
-
-[Extended Data](ext_articles/a51c040e.ext.json)
-
----
-
-### Latest decision taken by the government on prosperity
-
-*2024-03-06 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194200) · `si`
-
-The government, led by Minister Shehan Semasinghe, has decided not to expect the Samurdhi business. The Minister stated in parliament that the Samurdhi business will continue as is, with the welfare benefit board advising the Ministry of Social Empowerment and the Department of Samurdhi. The number of beneficiaries has been adjusted to 24 million since July 20, with Samurdhi Development Officers' consent.
-
-🟩
-
-Minister of State Shehan Semasinghe says the government does not expect the Samurdhi business in any case.
-
-Speaking in parliament today (06), the State Minister made this statement.
-
-Minister of State Shehan Semasinghe further stated that the Samurdhi business will continue to carry out the Samurdhi business.
-
-"The President and the Prime Minister advised the welfare benefit board to the welfare beneficiary in the existing system.. Therefore, we have advised the Ministry of Social Empowerment and the Department of Samurdhi. The number of beneficiaries will be adjusted to 24 million beneficiaries since July 20. Samurdhi Development Officers have obtained their consent to cure the Samurdhi business in the bank account ... "
-
-◼️
-
-[Data](articles/c49e07f3.json)
-
-[Extended Data](ext_articles/c49e07f3.ext.json)
-
----
-
-### Israeli companies remove from Chilean Airport Exhibition
-
-*2024-03-06 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178063) · `ta`
-
-Chile's Defense Ministry has removed Israeli companies from the International Air Fair in Santiago, Chile, due to the government's decision, possibly influenced by President Kabriel Boric's criticism of Israel's actions in Gaza.
-
-🟩
-
-Chile Defense Ministry has announced that Israeli companies will be removed from the International Air Fair in Chile.
-
-South America's largest aircraft exhibition will be held in Santiago, Chile in April.
-
-The Chilean Defense Ministry has said that the Chilean government has decided not to allow Israeli companies at the 2024 exhibition.
-
-The government did not announce the reason for this. However, left -wing President Kabriel Boric has been severely criticizing Israel's attacks on Gaza.
-
-There are a large number of Palestinian people living in Chile. Chile returned to Israel's ambassador to Israel last October in protest of Israel's attacks on Gaza.
-
-◼️
-
-[Data](articles/64ac8de5.json)
-
-[Extended Data](ext_articles/64ac8de5.ext.json)
-
----
-
-### PCB prioritises fitness, Pakistan team to train with army
-
-*2024-03-06 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PCB-prioritises-fitness-Pakistan-team-to-train-with-army/108-278351) · `en`
-
-New Delhi, Mar. 6 (Crictoday) - The Pakistan Cricket Board (PCB) announced a ten-day training camp for the national team, scheduled from March 25th to April 8th at the Pakistan Army’s Kakul academy. This decision comes amidst a packed cricketing calendar, raising concerns among players and fans.
-
-PCB chairman Mohsin Naqvi expressed his concerns about the team’s fitness, observing a lack of six-hitting power during recent matches. He emphasized the importance of this camp, aiming to improve the team’s fitness before crucial upcoming series against New Zealand, Ireland, England, and the T20 World Cup.
-
-Recently, former Pakistan team director Mohammad Hafeez too criticised the fitness of the players and blamed Babar Azam and ex-coaches for not pushing for top-standard fitness.
-
-...
-
-[Data](articles/27911a50.json)
-
-[Extended Data](ext_articles/27911a50.ext.json)
-
----
-
-### Hand
-
-*2024-03-06 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178062) · `ta`
-
-Ukraine has successfully attacked and sunk Russia's warship, Sergei Kodov, in the Black Sea, marking a significant victory in the ongoing conflict. This action, attributed to Ukraine's Navy's Group 13, is seen as a major setback for Russia, highlighting Ukraine's growing naval capabilities.
-
-🟩
-
-Ukraine has broken the Russian warship that patrolled the Black Sea in the war between Ukraine Ukraine. It is seen as a milestone in the Ukraine war.
-
-The battle between Russia and Ukraine lasts 2 years. In this, Russia engaged in war operations surrounding Ukraine land and water. In this war, Ukraine had the biggest loss in the beginning.But now Ukraine's response attacks are damaging Russia. Russian ships in particular are being attacked by Ukraine.
-
-Recently, Russia's patrol ship in the Black Sea has been a major threat to Ukraine.
-
-Group 13, a special sector of the Ukraine Navy, has severely attacked Russia's new patrol vessel. The ship, Sergei Kodov, worth 538 Kodiru Pa, has attacked the Ukraine Navy's unmanned aircraft Magura V5.. Of these, it is said that the ship has been demolished.The edge of the ship, the right and left side of the ship, is severely affected.
-
-...
-
-[Data](articles/3ee2a08c.json)
-
-[Extended Data](ext_articles/3ee2a08c.ext.json)
-
----
-
-### German patient vaccinated against Covid 217 times
-
-*2024-03-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97769/german-patient-vaccinated-against-covid-217-times) · `en`
-
-A 62-year-old man from Germany has, against medical advice, been vaccinated 217 times against Covid, doctors report.
-
-The bizarre case is documented in The Lancet Infectious Diseases journal.
-
-The shots were bought and given privately within the space of 29 months.
-
-The man appears to have suffered no ill effects, researchers from the University of Erlangen-Nuremberg say.
-
-“We learned about his case via newspaper articles,” Dr Kilian Schober, from the university’s microbiology department, said.
-
-“We then contacted him and invited him to undergo various tests in Erlangen. He was very interested in doing so.”
-
-The researchers also tested some frozen blood samples of his that had been stored in recent years.
-
-Dr Schober said: “We were able to take blood samples ourselves when the man received a further vaccination during the study at his own insistence.
-
-“We were able to use these samples to determine exactly how the immune system reacts to the vaccination.”
-
-...
-
-[Data](articles/1186a76f.json)
-
-[Extended Data](ext_articles/1186a76f.ext.json)
-
----
-
-### Student dies after making art at the school's morning meeting
-
-*2024-03-06 12:51:55* · [`adalk`](https://www.ada.lk/breaking_news/පාසලේ-උදෑසන-රැස්වීමේදී--කලාන්තය-සෑදී-වැටීමෙන්-ශිෂ්‍යාවක්-මරුට/11-408448) · `si`
-
-A 13-year-old student from Jayanthi Maha Vidyalaya, Kalawana, died after creating art during a morning meeting. She was admitted to Kalawana Basic Hospital, where she passed away. The hospital staff had to manage the grieving family. The school's chairman and the talented children expressed condolences.
-
-🟩
-
-A student of the Jayanthi Maha Vidyalaya, Kalawana, Kalawana has died this morning.
-
-The deceased has been identified as Kalawana South Kubaragama, a 13 year old school for Dissanayake Muduzala's Imulka Sathings. She is a student in Grade 8 of the school. She has made art formed in the middle of the morning meeting and later she has been admitted to the Kalawana Basic Hospital. Hospital spokesman said that she was also killed when she was admitted to the hospital. The fourteenth older brother of the said. The two children were children, and the hospital staff had to take a great effort to control the mother of the deceased who had arrived at the Kalawana Base Hospital.. The Chairman of the Jayanthi Maha Vidyalaya, including the two children, who are very talented children, have expressed their condolences.
-
-◼️
-
-[Data](articles/bf8a6287.json)
-
-[Extended Data](ext_articles/bf8a6287.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 10:51:11**
+As of **2024-03-06 11:02:47**
 
 ## Newspaper Stats
 
-*Scraped **11,167** Articles*
+*Scraped **11,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 939
+adalk | 940
 tamilmirrorlk | 1,355
-adaderanalk | 1,360
-virakesarilk | 1,515
-dailymirrorlk | 1,707
+adaderanalk | 1,362
+virakesarilk | 1,516
+dailymirrorlk | 1,708
 adaderanasinhalalk | 1,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,163 (100.0%) of 11,167 articles have been extended.
+11,167 (100.0%) of 11,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### President reveals plans to exempt school essentials, medicines & medical equipment from VAT
+
+*2024-03-06 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97765/president-reveals-plans-to-exempt-school-essentials-medicines-medical-equipment-from-vat) · `en`
+
+President Ranil Wickremesinghe, delivering a special statement in parliament on Wednesday (March 06), revealed that the government intends to reduce the Value-Added Tax (VAT) in the future.
+
+As such, school exercise books, stationery items, medicines and medical equipment are planned to be exempted from the VAT, he added.
+
+Wickremesinghe arrived at the parliament complex on Wednesday morning to brief the House on the progress of Sri Lanka’s economic recovery process.
+
+◼️
+
+[Data](articles/66d7aab3.json)
+
+---
+
+### பாலியல் துஷ்பிரயோக குற்றச்சாட்டில்  கைதான நபருக்கு 12 வருட கடூழிய சிறை தண்டனை !
+
+*2024-03-06 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178039) · `ta`
+
+பாலியல் துஷ்பிரயோக குற்றச்சாட்டில் குற்றவாளியாக இனங்காணப்பட்ட  ஒருவருக்கு 12 வருட கடூழிய சிறை தண்டனை விதித்து நுவரெலியா மேல் நீதிமன்றம் நேற்று செவ்வாய்க்கிழமை (05) மாலை  தீர்ப்பளித்துள்ளது.
+
+நோட்டன்பிரிஜ் பொலிஸ் பிரிவுக்குட்பட்ட கிளவட்டன் பகுதியைச் சேர்ந்த இராஜரட்ணம் கேதீஸ்வரன் (வயது 37) என்பவருக்கு இந்த கடூழிய சிறை தண்டனை வழங்கப்பட்டுள்ளது.
+
+நுவரெலியா மாவட்ட மேல் நீதிமன்ற  நீதவான் விராஜ் வீரசூரிய இத் தண்டனையை வழங்கியுள்ளார்.
+
+கடந்த 2010 ஆண்டு ஜனவரி மாத காலப்பகுதியில் கிளவட்டன் பகுதி பாடசாலை ஒன்றில் பகுதிநேர ஆசிரியராக கடமையாற்றிய இராஜரட்ணம் கேதீஸ்வரன் என்பவர் தரம் ஐந்தில் கல்வி கற்ற சிறுமியான பாடசாலை மாணவியை பாலியல் துஷ்பிரயோகம் செய்துள்ளதாக அவர் மீது வழக்கு நுவரெலியா மேல் நீதி மன்றத்தில் வழக்கு தொடரப்பட்டிருந்தது.
+
+இது தொடர்பான வழக்கு விசாரணை நுவரெலியா மேல் நீதிமன்றத்தில் கடந்த 14 வருடங்களாக விசாரிக்கப்பட்ட நிலையில்  வழங்கப்பட்ட சாட்சியங்களின் அடிப்படையில்  இந்த பகுதி நேர ஆசிரியர் குற்றவாளியாக இனங்காணப்பட்ட நிலையில் இவருக்கு 12 வருட கடூழிய சிறை தண்டனை வழங்கப்பட்டது.
+
+...
+
+[Data](articles/7d0efae1.json)
+
+---
+
+### Government to obtain debt moratorium from 2023 to 2027: President
+
+*2024-03-06 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-obtain-debt-moratorium-from-2023-to-2027-President/108-278328) · `en`
+
+Parliament March  6 (Daily Mirror)- The government is expecting to obtain a debt moratorium from 2023 to 2027, President Ranil Wickremesinghe announced in Parliament today.
+
+Making a special statement in Parliament, he said the government will resume repaying debts between the period of 2027 and 2042.
+
+"We are expecting to obtain a debt moratorium from 2023 to 2027. It means that from January 2023 to December 2027. After that, we will repay the debts from 2027 to 2042," he said.
+
+◼️
+
+[Data](articles/d5e059f2.json)
+
+---
 
 ### US now pushes UN to back ‘immediate’ Gaza ceasefire to free hostages
 
@@ -46,27 +98,39 @@ The U.S. wants any Security Council support for a ceasefire to be linked to the 
 
 [Data](articles/259774f3.json)
 
+[Extended Data](ext_articles/259774f3.ext.json)
+
 ---
 
-### இலங்கைக்கு கடத்த முற்பட்ட 99 கிலோ கிராம் ஹசீஸ் போதைப் பொருள் தமிழகத்தில் கைப்பற்றல்
+### 99 kilograms of Hazis drug seizure in Tamil Nadu
 
 *2024-03-06 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178029) · `ta`
 
-தமிழகத்தின் ராமநாதபுரம் மாவட்டம் மண்டபம்  கடற்கரை அருகே இலங்கைக்கு கடத்த முற்பட்ட  99 கிலோ கிராம் ஹசீஸ் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
+Central Economic Intelligence Bureau and the Hall seized 99 kg of Hassees in Tamil Nadu, valued at 408 crores. A boat carrying drugs was found and confiscated by the Indian Coast Guard near Dhanushkodi, with three arrests.
 
-இதனை மத்திய பொருளாதாரப் புலனாய்வு பணியகம் மற்றும்  மண்டபம் கடலோர காவல் படை  கைப்பற்றியுள்ளது.
+🟩
 
-கைப்பற்றப்பட்ட ஹசீஸ் போதைப் பொருள் இலங்கை மதிப்பில் 401 கோடி  (இந்திய மதிப்பில்  108 கோடி) ரூபாவாகும்.
+99 kilograms of Hassees has been seized from the Ramanathapuram district of Ramanathapuram district of Tamil Nadu.
 
-ராமேஸ்வரம், தனுஷ்கோடி கடல் வழியாக படகு மூலம் இலங்கைக்கு போதைப்பொருட்கள் கடத்திச் செல்வதாக சென்னை மண்டல மத்திய வருவாய் புலனாய்வு பிரிவு அதிகாரிகளுக்கு ரகசிய தகவல் கிடைத்துள்ளது.
+This was seized by the Central Economic Intelligence Bureau and the Hall.
 
-அதை தொடர்ந்து மத்திய வருவாய் புலனாய்வு பிரிவினர் இந்திய கடலோர காவல் படையினருடன் இணைந்து ரோந்து கப்பலில் தனுஷ்கோடி கடல் பகுதிக்கு நேற்று முன்தினம் விரைந்துள்ளனர்.
+401 crores (108 crores of Indian value) in Sri Lanka's value.
 
-அப்போது தனுஷ்கோடி அருகே நடுக்கடலில் சென்று கொண்டிருந்த நாட்டு படகை சந்தேகத்தின்பேரில் பிடித்து சோதனை செய்தனர். இதில் அந்த படகில் பல கோடி ரூபாய் மதிப்புள்ள போதைப்பொருட்கள் இருப்பது கண்டுபிடிக்கப்பட்டுள்ளது.
+Rameshwaram and Dhanushkodi Sea has received confidential information from the Madras Regional Central Revenue Investigation Unit of the Sri Lankan smuggling of drugs to Sri Lanka by boat.
+
+Following this, the Central Revenue Intelligence Unit, along with the Indian Coast Guard, rushed to the Dhanushkodi Sea on a patrol vessel yesterday.
+
+At the time, the country's boat was searched in the middle of the sea near Dhanushkodi.. The boat has found several crores worth of drugs.
+
+Following this, the Indian Coast Guard confiscated the drug and boat and arrested three people aboard the boat.
+
+In a statement issued by the Madras Central Revenue Investigation Unit of the Madras Regional Center on the seizure of the drug,
 
 ...
 
 [Data](articles/a4d53264.json)
+
+[Extended Data](ext_articles/a4d53264.ext.json)
 
 ---
 
@@ -96,45 +160,59 @@ The judge also announced that the victim should be sentenced to 2 years in priso
 
 ---
 
-### நாட்டு மக்களுக்கு தொடர்ந்து நிவாரணம் வழங்கப்படும் : ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் விசேட உரை !
+### President Ranil Wickremesinghe's Speech in Parliament
 
 *2024-03-06 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178034) · `ta`
 
-வெளிநாட்டு அரசமுறை கடன்கள் வெகுவிரைவில் மறுசீரமைக்கப்படும் என்றும் 2023 முதல் 2027 ஆம் ஆண்டு வரையான காலப்பகுதிக்கு கடன் செலுத்தலுக்காக காலவகாசம் பெற்றுக் கொள்ளப்படும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced quick restructuring of foreign state loans, extending credit from 2023 to 2027, and early stabilization of the economy. He removed selected items from taxes and emphasized that beautiful words and promises alone cannot resolve economic crises.
 
-அத்துடன் பொருளாதாரம் ஆரம்ப கட்ட ஸ்திரப்படுத்தலில் காணப்படுகிறது என்றும் நாட்டு மக்களுக்கு தொடர்ந்து நிவாரணம் வழங்கப்படும் என்றும் ஜனாதிபதி கூறினார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க பாராளுமன்றத்தில் தற்போது விசேட உரையொன்றை நிகழ்த்தும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said that foreign state loans will be restructured quickly and will be paid for credit for the period from 2023 to 2027.
 
-புத்தகம், மருந்து பொருட்கள் உள்ளிட்ட தெரிவு செய்யப்பட்ட பொருட்கள் வற் வரி பட்டியலில் இருந்து நீக்கப்படும் என்றும் குறிப்பிட்டார்.
+The President also said that the economy is in the early stabilization and that the people will continue to provide relief.
 
-அத்துடன் பொருளாதாரத்துக்கு பாதிப்பு ஏற்படும் வகையில் நிவாரணம் வழங்கப் போவதில்லை என்றும் கூறினார்.
+President Ranil Wickremesinghe said this while delivered a special speech in Parliament.
 
-இதேவேளை, ஒரு தரப்பினர் அதிகாரத்துக்காக பொய்யுரைக்கிறார்கள். நான் அதிகாரத்துக்காக செயல்படவில்லை என்றும் நாட்டுக்காகவே செயற்படுகிறேன் என்றும் கூறினார்.
+He also said that the selected items, including the book and pharmaceuticals, will be removed from the list of taxes.
 
-...
+He also said that he would not provide relief to the impact of the economy.
+
+Meanwhile, a party lies for power. He said that I am not working for power and working for the country.
+
+The president said that beautiful words and promises cannot resolve the economic crisis, he said.
+
+◼️
 
 [Data](articles/2d17b5c5.json)
 
+[Extended Data](ext_articles/2d17b5c5.ext.json)
+
 ---
 
-### சாவகச்சேரி நுணாவில் பகுதியில் மண் கடத்தல் : டிப்பர் சாரதி தப்பிப்பு ; டிப்பரை துரத்தி வந்த இருவர் கைது!
+### Soil smuggling in Chavakachcheri Nunavai: Tipper driver's escape;Two persons arrested for chasing Tipper
 
 *2024-03-06 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178032) · `ta`
 
-நுணாவில் பகுதியில் இருந்து சாவகச்சேரி நோக்கி பயணித்து கொண்டிருந்த டிப்பர் வாகனத்தை இன்று புதன்கிழமை அதிகாலை 2.00  மணியளவில் போக்குவரத்து கடமையில் இருந்த  சாவகச்சேரி பொலிஸார் மறித்துள்ளனர்.
+In Chavakachcheri, a tipper driver escaped after a chase by police, who were investigating a mudslide. Two were arrested for chasing the tipper, but the driver remains at large.
 
-இதனையடுத்து டிப்பர்  வாகனத்தை துரத்திச்  சென்ற பொலிஸார் சாவகச்சேரி சுற்றுவட்டத்தில் வைத்து அதனை மறித்துள்ளனர்.
+🟩
 
-இதன்போது டிப்பர் சாரதி தப்பிச் சென்றுள்ளார். தமது ஊரில் மண் கடத்தல் இடம்பெறுவதை அறிந்த அந்த ஊர் இளைஞர்கள் மூவர் இரண்டு மோட்டார் சைக்கிள்களில் டிப்பரை துரத்தி வந்தனர்.
+The Chavakachcheri police, who were on traffic on Wednesday morning at around 2.00 am on Wednesday morning, were trafficking from Nunavil to Chavakachcheri.
 
-இந்நிலையில் ஒரு மோட்டார் சைக்கிளில் வந்த அந்த ஊர் இளைஞன் அங்கிருந்து சென்ற நிலையில் மற்றைய மோட்டார் சைக்கிள் சாரதி மதுபோதையில் இருந்ததால் கைது செய்யப்பட்டுள்ளார். அவருடன் மோட்டார் சைக்கிளில் பின்னால் அமர்ந்து வந்தவரும் கைது செய்யப்பட்டுள்ளார்.
+Subsequently, the police chased the tipper vehicle and put it in the surrounding area of Chavakachcheri.
 
-டிப்பர் சாரதி இதுவரை கைது செய்யப்படவில்லை. மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Tipper driver has escaped. Three young men were chasing the tipper on two motorcycles, knowing that the mudslide was taking place in their town.
+
+The young man who was on a motorcycle was arrested for his death as the other motorcycle driver was in a driver.. He was also arrested with a motorcycle with him.
+
+Tipper driver has not yet been arrested. Further investigations are being carried out by Chavakachcheri police.
 
 ◼️
 
 [Data](articles/c928218a.json)
+
+[Extended Data](ext_articles/c928218a.ext.json)
 
 ---
 
@@ -223,6 +301,26 @@ Wickremesinghe further mentioned that the country’s economy, which contracted 
 [Data](articles/5d75877a.json)
 
 [Extended Data](ext_articles/5d75877a.ext.json)
+
+---
+
+### President addresses parliament on economic revival progress
+
+*2024-03-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97763/president-addresses-parliament-on-economic-revival-progress) · `en`
+
+President Ranil Wickremesinghe arrived at the parliament this morning (March 06) to deliver a special statement on the progress of Sri Lanka’s economic recovery process.
+
+The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
+
+Addressing the Chamber, the Head of State said the citizens are now benefitting from the ‘strenuous efforts’ taken by the government to revive the economy.
+
+“We made an ‘economic plan’ with the IMF. As a result of implementing this plan, the country returned to normalcy day by day. This reduced the pressure [on the people] and alleviated the hardships.”
+
+Wickremesinghe further mentioned that the country’s economy, which contracted for six consecutive quarters, began to revive in the Q3 of 2023, while adding that international financial institutions have forecast a potential economic growth for Sri Lanka, ranging from 2% - 3% for the year 2024.
+
+...
+
+[Data](articles/f712ecce.json)
 
 ---
 
@@ -495,6 +593,28 @@ The MP Charitha Herath says that there is no political future, the General who d
 [Data](articles/f2d931f6.json)
 
 [Extended Data](ext_articles/f2d931f6.ext.json)
+
+---
+
+### මම පාර්ලිමේන්තුවට එන්නේ නෑ
+
+*2024-03-06 08:10:37* · [`adalk`](https://www.ada.lk/breaking_news/මම-පාර්ලිමේන්තුවට-එන්නේ-නෑ/11-408441) · `si`
+
+ශ්‍රී ලංකා පොදු ජන පෙරමුණේ නිර්මාතෘ , එම පක්ෂයේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතා ඊයේ (05දා) කටුනායක ගුවන් තොටුපොළ ඔස්සේ ශ්‍රී ලංකාවට පැමිණියේය .
+
+ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක ප්‍රසන්න රණතුංග මහතා ඔහුව පිළිගැනීම සිදු කල අතර පොදු ජන පෙරමුණේ ලේකම් නීතීඥ සාගර කාරියවසම් මහතා ද පැමිණ සිටියහ .
+
+කටුනායක ගුවන් තොටුපොළෙන් පිටතට පැමිණි බැසිල් රාජපක්ෂ මහතා මාධ්‍යවේදීන් අමතමින් මෙසේ පැවසීය .
+
+"මම සෑම වසරකම මගේ දරුවන් බලන්න ඇමෙරිකාවට යනවා. මම පාර්ලිමේන්තුවට එන්නෙ නැහැ . හැබැයි ඊළඟට පැමිණීමට නියමිත පාර්ලිමේන්තු මැතිවරණය හෝ ජනාධිපතිවරණය යන මැතිවරණ දෙකෙන් කුමන මැතිවරණය තිබ්බත්, මම පොදු ජන පෙරමුණ සංවිධානය කරනවා.
+
+ඒ වගේම කවුරු මෙම මැතිවරණ සදහා තරග කළත් පොහොට්ටුවේ සහයෝගයෙන් තමයි දිනන්න වෙන්නෙ. අපගේ පක්ෂයේ මන්ත්‍රීවරුන් පිල් කීපයකට බෙදී සිටිනවා . ආයෙත් එක් වෙනවා. ඒක තමයි ස්වභාවය.
+
+ඉදිරි මැතිවරණ වලට තරග කිරීම පිළිබඳව නායකතුමා , ජනතාව සහ පාක්ෂිකයන් එක් වී අවශ්‍ය තීරණ ගනීවි"
+
+◼️
+
+[Data](articles/a42780ae.json)
 
 ---
 
@@ -2121,95 +2241,5 @@ In addition, the amount of money cannot be paid during the power supply reform. 
 [Data](articles/339cf175.json)
 
 [Extended Data](ext_articles/339cf175.ext.json)
-
----
-
-### Banks yet to implement Cabinet decision to suspend Parate execution laws: Sajith alleges
-
-*2024-03-05 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Banks-yet-to-implement-Cabinet-decision-to-suspend-Parate-execution-laws-Sajith-alleges/108-278287) · `en`
-
-Parliament, March 5 (Daily Mirror)- Claiming that the property of the Small and Medium Scale entrepreneurs are being auctioned despite the Cabinet decision to suspend the Parate execution laws, Opposition leader Sajith Premadasa urged the government to instruct the banking network to implement the suspension order.
-
-Raising a question under 27/2, he told Parliament that financial institutions had published advertisements on auctioning property of the Small and Medium Scale entrepreneurs even after the Cabinet decision to suspend the Parate execution laws.
-
-He said the Central Bank must issue a circular to the banks to implement the suspension of the Parate execution laws as decided by the Cabinet if more time is needed to pass laws to implement the suspension order.
-
-He said it is against the Cabinet decision for financial institutions to advertise property for auctioning while capitalizing on the delay in implementing the suspension for their own advantage.
-
-◼️
-
-[Data](articles/6649793c.json)
-
-[Extended Data](ext_articles/6649793c.ext.json)
-
----
-
-### No strike tomorrow; trains will operate as usual
-
-*2024-03-05 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-strike-tomorrow-trains-will-operate-as-usual/108-278291) · `en`
-
-Colombo, March 05 (Daily Mirror) - The railway strike, which was scheduled to be launched tonight by several railway trade unions, has been called off following a favourable response by the Transport Ministry, Locomotive Engine Operators’ Union (LEOU) secretary Indika Dodangoda said.
-
-Addressing the media, he said the strike was scheduled to commence tonight over salary anomalies.
-
-Therefore, the union had called for a strike, but since the Cabinet office has informed that the relevant decision will be sent to the Transport Ministry today, there is no need to carry out the planned strike, and the strike will be called off, the convenor informed.
-
-Train services will operate as scheduled for the convenience of the commuters.
-
-◼️
-
-[Data](articles/ef9a603b.json)
-
-[Extended Data](ext_articles/ef9a603b.ext.json)
-
----
-
-### Youth arrested with 45 counterfeit currency notes
-
-*2024-03-05 19:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97750/youth-arrested-with-45-counterfeit-currency-notes) · `en`
-
-An individual has been arrested while in possession of 45 counterfeit currency notes of the Rs. 5,000 denomination at Kuripotta in the Pothuhera police area.
-
-Police said the suspect was arrested yesterday (04) by officers of Pothuhera Police after searching him based on a suspicion.
-
-The suspect, a 29-year-old resident of Polpithigama, had previously been arrested on charges of printing and possession of counterfeit currency notes and was currently out on bail, police said.
-
-◼️
-
-[Data](articles/9077a1eb.json)
-
-[Extended Data](ext_articles/9077a1eb.ext.json)
-
----
-
-### Shirtworks debuts exclusive readymade and tailored suits
-
-*2024-03-05 19:42:00* · [`islandlk`](http://island.lk/shirtworks-debuts-exclusive-readymade-and-tailored-suits/) · `en`
-
-Shirtworks (SWX), Sri Lanka’s Home of Menswear, reaffirms it’s dedication to exceptional style and the re-launch of its SWX Store in Colombo 04 with an exclusive launch of Readymade and Bespoke Suitings. This exciting development promises a refined experience for discerning gentlemen seeking premium quality and personalized elegance.
-
-Shirtworks (SWX), has long been a haven for modern gentlemen, offering a curated selection of renowned brands like ED’s Array, Leonardo, Class One, Crocodile & Emerald. Its acclaimed “Bespoke” section elevates the experience further, featuring superfine fabrics and world-class designs for a perfect fit.
-
-...
-
-[Data](articles/a166879b.json)
-
-[Extended Data](ext_articles/a166879b.ext.json)
-
----
-
-### Pan Asia Bank joins hands with AIA Insurance to bring world-class protection, health and investment coverage to its valued customers
-
-*2024-03-05 19:41:00* · [`islandlk`](http://island.lk/pan-asia-bank-joins-hands-with-aia-insurance-to-bring-world-class-protection-health-and-investment-coverage-to-its-valued-customers/) · `en`
-
-Reaffirming its customer-centric focus, the Truly Sri Lankan Bank, Pan Asia Bank, has forged a strategic partnership with AIA Insurance Lanka, to provide comprehensive insurance solutions – including protection, health and investment solutions – that meet the changing needs of the Bank’s valued consumers.
-
-Expressing his enthusiasm about the new partnership, Naleen Edirisinghe, CEO of Pan Asia Bank said, “We are pleased to partner with AIA Insurance to offer unparalleled customer convenience and a diverse array of insurance solutions – spanning retirement plans, investment plans, life and health insurance. This strategic collaboration will offer our valued customers a much wider choice to ensure their financial security for a lifetime that best suits their needs without being constrained in their choices. Pan Asia Bank is committed to empower its customers with industry-best financial solutions.”
-
-...
-
-[Data](articles/09a53922.json)
-
-[Extended Data](ext_articles/09a53922.ext.json)
 
 ---

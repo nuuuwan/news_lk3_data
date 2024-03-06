@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 12:17:57**
+As of **2024-03-06 12:33:32**
 
 ## Newspaper Stats
 
-*Scraped **11,183** Articles*
+*Scraped **11,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ dailyftlk | 593
 islandlk | 601
 adalk | 942
 tamilmirrorlk | 1,355
-adaderanalk | 1,363
+adaderanalk | 1,364
 virakesarilk | 1,522
 dailymirrorlk | 1,708
-adaderanasinhalalk | 1,746
+adaderanasinhalalk | 1,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,183 (100.0%) of 11,183 articles have been extended.
+11,183 (100.0%) of 11,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### පාකිස්තාන ක්‍රිකට් කණ්ඩායමට හමුදා පුහුණුවක්
+
+*2024-03-06 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194197) · `si`
+
+පාකිස්තාන යුද හමුදාව මඟින් මෙහෙයවන විශේෂ පුහුණු කඳවුරකට පාකිස්තාන ක්‍රිකට් ක්‍රීඩකයන්ව සහභාගී කරවීමට එරට ක්‍රිකට් ආයතනය තීරණය කර තිබේ.
+
+මාර්තු 25 වැනිදා සිට අප්‍රේල් 8 දක්වා මෙම පුහුණු කඳවුර පවත්වනු ලබන්නේ, පාකිස්තාන පිලේ ඉදිරි තරග සංචාර සහ ලෝක කුසලානය ඉලක්ක කර ගනිමිනි.
+
+◼️
+
+[Data](articles/89b386c0.json)
+
+---
+
+### 5% of country’s population suffering from glaucoma – Health Secretary
+
+*2024-03-06 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97767/5-of-countrys-population-suffering-from-glaucoma-health-secretary-) · `en`
+
+Nearly 5% of Sri Lanka’s population is currently suffering from glaucoma, according to the Secretary to the Ministry of Health specialist Dr. Palitha Mahipala.
+
+Explaining further, Dr. Mahipala stated that there is a significant increase in the number of glaucoma patients not only in Sri Lanka, but also across the world, adding that the disease was also one of the main causes of blindness.
+
+“If you take the world, 3.54% are suffering from glaucoma, but if you take Sri Lanka, it’s almost 5%. This may also be because of our increased elderly population”, the Health Secretary explained, emphasising the importance of going for regular eye check-ups, and making use of the programmes in place within the country’s health system to detect eye illnesses early.
+
+◼️
+
+[Data](articles/6f79aa4c.json)
+
+---
+
+### 15 හැවිරිදි දැරියක්ව රවටා අපහරණය කළ තරුණයා අත්අඩංගුවට
+
+*2024-03-06 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194196) · `si`
+
+මීගහකිවුල, කළුගහකඳුර ප්‍රදේශයේ 15 හැවිරිදි පාසල් දැරියක්ව රවටා රැගෙන ගොස් ඥාති නිවසක රඳවාගෙන අපහරණය කළ බව පැවසෙන තරුණයෙක් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මහියංගන පූජා නගරය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 32ක තරුණයෙකි.
+
+දැරියගේ දෙමාපියන් විසින් පොලීසිය වෙත කරන ලද පැමිණිල්ලක් මත සැකකරු  අත්අඩංගුවට ගෙන ඇත.
+
+සිද්ධියට සම්බන්ධ දැරිය අද (06) බදුල්ල අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/01a885f6.json)
+
+---
 
 ### Ukraine destroyed Russia's other warship using unmanned flights
 
@@ -2201,67 +2249,5 @@ Sulakshana Jayawardena, Secretary to the Ministry of Power and Energy said, “T
 [Data](articles/ae4d3f19.json)
 
 [Extended Data](ext_articles/ae4d3f19.ext.json)
-
----
-
-### Disrupted Facebook
-
-*2024-03-05 21:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடக்கியது-முகநூல்/175-334254) · `ta`
-
-"Facebook, Instagram, Messenger crashed nationwide without explanation. Facebook hasn't disclosed the cause."
-
-🟩
-
-Social media, including Facebook, Instagram, Messenger, has suddenly crashed across the country.
-
-The reason for that has not yet been released. It is also worth noting that Facebook has not released the reason for the implementation.
-
-◼️
-
-[Data](articles/5d45e266.json)
-
-[Extended Data](ext_articles/5d45e266.ext.json)
-
----
-
-### Avoid making bogus allegations against state top officials - Speaker urges parliamentarians
-
-*2024-03-05 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/177940) · `ta`
-
-Parliamentarians urged to avoid false allegations against state officials, as Speaker Mahinda Yapa Abeywardena highlighted concerns over baseless accusations.
-
-🟩
-
-Members of Parliament should avoid the presence of the state's top officials and their service to insult fake allegations. Speaker Mahinda Yapa Abeywardena informed the House that state officials have expressed concern over the fake allegations of MPs.
-
-It is observed that the Member of Parliament is baselessly presenting to the honor of the state's top officials.
-
-The lack of chance of state officials to clarify the allegations made by a few MPs will be considered unjust.
-
-If there are any problems with state officials, there are instructions for handling it properly. Therefore, MPs must avoid the proposal of false accusations to insult state officials. Therefore, I urge you to remove the allegations leveled at state officials in accordance with the Secondary Command (91) (9).
-
-◼️
-
-[Data](articles/5a4c32ae.json)
-
-[Extended Data](ext_articles/5a4c32ae.ext.json)
-
----
-
-### Drugs worth Rs 108 crore bound for Sri Lanka seized in Tamil Nadu
-
-*2024-03-05 21:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drugs-worth-Rs-108-crore-bound-for-Sri-Lanka-seized-in-Tamil-Nadu/108-278296) · `en`
-
-March 05 - In a joint operation, the Indian Coast Guard (ICG) and Directorate of Revenue Intelligence (DRI) busted a drug smuggling attempt near Mandapam on Tuesday. Four people have been apprehended and drugs worth Rs 108 crore seized.
-
-Officers of the DRI Chennai Zonal Unit along with the Indian Coast Guard received a tip-off about the smuggling of narcotics substances from India to Sri Lanka via the coastal route near the Mandapam coast. The DRI and Coast Guard team mounted surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
-
-During the surveillance at deep sea, the team found a country boat sailing towards Sri Lanka and intercepted it after a brief hot pursuit. The team inspected the boat and found five sacks concealed inside. The country boat along with the contraband and three persons on board were brought to Coast Guard Station Mandapam for further investigation.
-
-...
-
-[Data](articles/722113bd.json)
-
-[Extended Data](ext_articles/722113bd.ext.json)
 
 ---

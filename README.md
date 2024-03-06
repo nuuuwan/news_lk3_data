@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 20:17:47**
+As of **2024-03-06 20:33:53**
 
 ## Newspaper Stats
 
-*Scraped **11,300** Articles*
+*Scraped **11,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 601
 adalk | 957
 tamilmirrorlk | 1,376
 adaderanalk | 1,381
-virakesarilk | 1,542
+virakesarilk | 1,544
 dailymirrorlk | 1,726
 adaderanasinhalalk | 1,768
 
@@ -26,25 +26,61 @@ adaderanasinhalalk | 1,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,299 (100.0%) of 11,300 articles have been extended.
+11,300 (100.0%) of 11,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### பெறுமதி சேர் வரி (திருத்தச்) சட்டமூலம் நிறைவேற்றப்பட்டது
+### முருகன், ரொபட் பயஸ் உள்ளிட்டவர்களையாவது உயிருடன் விடுதலை செய்யுங்கள்- இந்திய மற்றும் இலங்கை அரசிடம் சிறிதரன் எம்.பி. வேண்டுகோல்
+
+*2024-03-06 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178116) · `ta`
+
+இந்தியச் சிறையில் இருக்கின்ற முருகன், ரொபட் பயஸ் உள்ளிட்டவர்களையாவது உயிருடன் விடுதலை செய்து   அவர்களுடைய  குடும்பத்தோடு சேர நடவடிக்கை எடுக்குமாறு தமிழ்நாட்டினுடைய முதலமைச்சர்,  இந்தியப்பிரதமர் மற்றும் இலங்கை அரசிடம் கேட்கிறோம் என தமிழ் தேசியக்கூட்டமைப்பு உறுப்பினர் சிவஞானம் சிறிதரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (6) இடம்பெற்ற பிணைப்பொறுப்பளிக்கப்பட்ட கொடுக்கல்வாங்கல்கள் சட்டமூலம், நம்பிக்கைப்பொறுப்பு பற்றுச்சீட்டுக்கள் (திருத்தச்) சட்டமூலம், ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்குவிடுதல் (திருத்தச்) சட்டமூலம் மீதான மூன்றாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இன்றைய நாள் 16 வருடங்களுக்கு முன்னர் எங்களுடைய மண்ணிலே மாமனிதர் கிட்டினன் சிவனேசன் இலங்கையினுடைய படையினரால் ஆழ ஊடுருவும் படை என்ற பெயரில் மிக மறைமுகமாக கொலை செய்யப்பட்டிருந்தார் இந்த பாராளுமன்றத்தினுடைய  உறுப்பினராக இருந்த சிவனேசன் அநியாயமாக கொல்லப்பட்டார்.
+
+...
+
+[Data](articles/01cf2378.json)
+
+---
+
+### The Value Added Tax (Amendment) Bill was passed
 
 *2024-03-06 19:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெறுமதி-சேர்-வரி-திருத்தச்-சட்டமூலம்-நிறைவேற்றப்பட்டது/175-334291) · `ta`
 
-பெறுமதி சேர் வரி (திருத்தச் ) சட்டமூலம் இரண்டாம் மதிப்பீடு மீதான வாக்கெடுப்பு 24 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டது.
+The Value Added Tax (Amendment) Bill passed with 24 more votes in a referendum. Parliament debated the Tax Bill, including Value Added Tax and Social Charity Tax, with MP Eran Wickremaratne seeking a referendum.
 
-பாராளுமன்றத்தில் இன்று இடம்பெற்ற  பெறுமதி சேர் வரி, சமூக அறவீட்டு வரி உள்ளிட்ட வரி சட்டமூலம் மீதான இரண்டாம் மதிப்பீடு மீதான விவாதம் இடம்பெற்றது.
+🟩
 
-இதன்போது பெறுமதி சேர் வரி சட்டமூலத்துக்கு சபை அனுமதி வழங்குகிறதா?  என சபாநாயகர் வினவிய போது ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எரான் விக்கிரமரத்ன வாக்கெடுப்பை கோரினார்.
+The referendum on the second assessment of the Value Added Tax (Amendment) Bill was passed by 24 more votes.
+
+The debate on the second assessment of the Tax Bill, including the Value Added Tax and Social Charity Tax, took place in Parliament today.
+
+Is the Council permission for the Value Added Tax Bill?United People's Power MP Eran Wickremaratne sought a referendum when the Speaker asked.
 
 ◼️
 
 [Data](articles/4a115564.json)
+
+[Extended Data](ext_articles/4a115564.ext.json)
+
+---
+
+### கற்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு விளக்கமறியல்!
+
+*2024-03-06 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178115) · `ta`
+
+கற்பிட்டி பொலிஸ் நிலையப் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் நிஷாந்த குமாரவை எதிர்வரும் 13 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு புத்தளம் மேலதிக மாவட்ட நீதிபதியும் நீதிவானுமான அயோனா விமலரத்ன புதன்கிழமை (06) உத்தரவிட்டுள்ளார்.
+
+கற்பிட்டி பொலிஸ் நிலையத்தில் கடமையாற்றிய பொலிஸ் உத்தியோகத்தர் பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் புத்தளம் நீதிமன்றில் முன்னிலையாகி நிலையிலேயே அவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7b148866.json)
 
 ---
 
@@ -2331,49 +2367,5 @@ The 36 -year -old woman has been handed over to her and that her husband has alr
 [Data](articles/5fbaa2a3.json)
 
 [Extended Data](ext_articles/5fbaa2a3.ext.json)
-
----
-
-### Fuel price revision a gimmic to mislead people, can reduce by a maximum of Rs. 200
-
-*2024-03-06 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-price-revision-a-gimmic-to-mislead-people-can-reduce-by-a-maximum-of-Rs-200/108-278347) · `en`
-
-Colombo, March 6 (Daily Mirror) - While reducing the prices of Lanka Super Diesel 4 Star Euro 4 and Lanka Petrol 95 Octane Euro 4, the government has played a small gimmic on the people, former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayaka said.
-
-Addressing the media yesterday, he said the recent fuel price revision has misled the people.
-
-Reducing the fuel prices by Rs. 9 and Rs. 10 is of no use to the people. As he had mentioned in 2022, the fuel prices can be reduced by a maximum of Rs. 200, he added.
-
-Ratnayake claimed that the fuel prices published on the official page on X, officially known as Twitter, by the Power and Energy Minister were wrong and that their formula was also wrong.
-
-"If we calculate the fuel prices according to the trends of the world market, the fuel prices can be reduced by a maximum of Rs. 200.
-
-...
-
-[Data](articles/cef40fa6.json)
-
-[Extended Data](ext_articles/cef40fa6.ext.json)
-
----
-
-### Fuel price revision a gimmick to mislead people, can reduce by a maximum of Rs. 200
-
-*2024-03-06 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-price-revision-a-gimmick-to-mislead-people-can-reduce-by-a-maximum-of-Rs-200/108-278347) · `en`
-
-Colombo, March 6 (Daily Mirror) - While reducing the prices of Lanka Super Diesel 4 Star Euro 4 and Lanka Petrol 95 Octane Euro 4, the government has played a small gimmick on the people, former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayaka said.
-
-Addressing the media yesterday, he said the recent fuel price revision has misled the people.
-
-Reducing the fuel prices by Rs. 9 and Rs. 10 is of no use to the people. As he had mentioned in 2022, the fuel prices can be reduced by a maximum of Rs. 200, he added.
-
-Ratnayake claimed that the fuel prices published on the official page on X, officially known as Twitter, by the Power and Energy Minister were wrong and that their formula was also wrong.
-
-"If we calculate the fuel prices according to the trends of the world market, the fuel prices can be reduced by a maximum of Rs. 200.
-
-...
-
-[Data](articles/f32c3721.json)
-
-[Extended Data](ext_articles/f32c3721.ext.json)
 
 ---

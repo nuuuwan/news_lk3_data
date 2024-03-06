@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 08:02:55**
+As of **2024-03-06 08:17:43**
 
 ## Newspaper Stats
 
-*Scraped **11,130** Articles*
+*Scraped **11,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 economynextcom | 575
 dailyftlk | 593
 islandlk | 601
-adalk | 936
-tamilmirrorlk | 1,350
-adaderanalk | 1,355
+adalk | 937
+tamilmirrorlk | 1,351
+adaderanalk | 1,356
 virakesarilk | 1,508
-dailymirrorlk | 1,700
-adaderanasinhalalk | 1,737
+dailymirrorlk | 1,701
+adaderanasinhalalk | 1,740
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,129 (100.0%) of 11,130 articles have been extended.
+11,130 (99.9%) of 11,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### 99kg of hashish being smuggled to Sri Lanka seized near TN coast
+
+*2024-03-06 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97760/99kg-of-hashish-being-smuggled-to-sri-lanka-seized-near-tn-coast) · `en`
+
+As many as 99 kg of hashish, said to be worth ₹ 108 crore, was seized from a country boat near Mandapam coast in Tamil Nadu by India’s Directorate of Revenue Intelligence and Indian Coast Guard Mandapam, an official said on Tuesday.
+
+The country craft was heading toward Sri Lanka, and it was intercepted after a hot pursuit by the joint team of officials from the DRI, Chennai zonal unit, and ICG Mandapam.
+
+Following a tip-off that narcotics substances were being smuggled from India to Sri Lanka via the coastal route near the Mandapam Sea coast, the officials took up surveillance over the Gulf of Mannar through a Coast Guard ship on the intervening night of March 4 and 5.
+
+“During the surveillance in the deep sea, officers of DRI and the Coast Guard identified a country boat sailing towards Sri Lanka and intercepted the same after a brief hot pursuit,” an official release here said. On interception, officers rummaged the boat and found five sacks concealed inside it.
+
+...
+
+[Data](articles/d3ae41f0.json)
+
+---
+
+### Will not deviate from IMF programme, but will renegotiate terms and conditions: NPP
+
+*2024-03-06 07:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-not-deviate-from-IMF-programme-but-will-renegotiate-terms-and-conditions-NPP/108-278316) · `en`
+
+Colombo, March 6 (Daily Mirror) - The National People’s Power (NPP) said it would not derail the IMF programme if it won the presidency but would renegotiate its terms and conditions on implementations since the current austerity measures had burdened people and the attempts of the government to sell off public assets would bring severe economic consequences to the country.
+
+NPP economic council member Prof. Anil Jayantha said his party would also seek speedy actions on the debt restructuring process.
+
+Also, he said that a homegrown solution to stabilise the economy is needed and NPP is ready to come out with such plans of unleashing the growth potential, increasing government revenue, rebuilding foreign reserves and directing the economy for a sustainable growth.
+
+However, he said the present government could have gone for early negotiations with creditors in advance and explored other options available and adopted by other countries if it had a genuine intention of recovering the economy.
+
+...
+
+[Data](articles/79ff01ec.json)
+
+---
+
+### ග්ලුකෝමා රෝගීන්ගේ ශීඝ්‍ර ඉහළ යෑමක්
+
+*2024-03-06 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194188) · `si`
+
+මෙරට ජනගහනයෙන් සියයට 5ක පමණ ප්‍රමාණයක් ග්ලුකෝමා රෝගයට ගොදුරු වී ඇති බව බවට ඇස්තමේන්තු ගත කර ඇති බව සෞඛ්‍ය අමාත්‍යංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+
+ඔහු පවසන්නේ, ලොව පුරා ග්ලුකෝමා රෝගයෙන් පීඩාවිඳින ප්‍රමාණය මෙන්ම මෙරට තුළ ද මෙම රෝගයට ගොදුරු වූවන් ප්‍රමාණයේ යම් ඉහළ යාමක් දක්නට ලැබෙන බවය.
+
+"ලොකේ ගත්තත්, ලංකාව ගත්තත් අන්ධභාවයට පත්වෙන්න තුඩු දෙන එක ප්‍රධාන හේතුවක් තමා ග්ලුකෝමා රෝගී තත්ත්වය. ලෝකයේ සියයට කීයක් ඉන්නවද කිව්වොත් 3.54%යි. හැබැයි ලංකාවේ 5%කට ආසන්න ප්‍රමාණයක් ඉන්නවා. අපේ වැඩිහිටි ජනගහනය වැඩිවීම මෙයට එක් හේතුවක් වෙන්න පුළුවන්. ඒ නිසා අපේ රටේ 5%කට පමණ ආසන්න ප්‍රමාණයක් ඇස්තමේන්තු කරලා තියෙනවා මේ රෝගයෙන් පෙළෙනවා කියලා. ඒ නිසා ඇස් පරීක්ෂා කරගැනීම සඳහා යොමු කරන එක ඉතා වැදගත් වෙනවා. ප්‍රතිපත්තිමය වශයෙන් අපේ රටේ තියෙන අක්ෂි ආබාධ කල් ඇතිව හඳුනාගෙන වළක්වා ගත හැකි ආබාධ වළක්වා ගැනීමට වැඩසටහන් සම්පාදනය කරලා තියෙනවා."
+
+◼️
+
+[Data](articles/a5cbfcb0.json)
+
+---
 
 ### Meta’s Facebook, Instagram back up after global outage
 
@@ -50,6 +102,8 @@ At the peak of the outage, there were more than 550,000 reports of disruptions f
 
 [Data](articles/a51cefdb.json)
 
+[Extended Data](ext_articles/a51cefdb.ext.json)
+
 ---
 
 ### Showers expected in certain parts of the country
@@ -67,6 +121,48 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 [Data](articles/071ba9f7.json)
 
 [Extended Data](ext_articles/071ba9f7.ext.json)
+
+---
+
+### ඛනිජ තෙල් සංස්ථාවේ විදෙස් විනිමය ඉහළට
+
+*2024-03-06 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194187) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ විදේශ විනිමය ආදායම් සැලකිය යුතු ප්‍රමාණයකින් ඉහළ ගොස් තිබේ.
+
+පසුගිය වසරට සාපේක්ෂව එම සංස්ථාවේ ඩොලර් අදායම ඉහළ ගොස් ඇති බවට නවතම අදායම් වාර්තා මඟින් අනාවරණය කර ඇති බව එහි ප්‍රකාශකයෙකු පැවසුවේය.
+
+නෞකා වෙත ඉන්ධන සැපයීමේ ක්‍රියාවලිය හරහා උපයාගන්නා ආදායම්වල කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කර ඇති අතර සංස්ථාවේ ඩොලර් ආදායම් ඉහළ යාමට එය ප්‍රධාන හේතුවක් වී ඇති බව සඳහන්ය.
+
+ඊට අමතරව පසුගිය කාලය තුළ සිදුකළ දැවී තෙල් අපනයනය කිරීමේ කාර්යය හරහා ද ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සැලකිය යුතු ආදායමක් උපයා ඇති බව වාර්තා වේ.
+
+මේ අතර ලෝක වෙළෙඳපොළේ තත්ත්වයන්ට අනුකූලව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව සිදුකරනු ලබන වියදම් මත ඉන්ධන මිල සුත්‍රය ක්‍රියාත්මක වන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/dc20b475.json)
+
+---
+
+### අත්හිටවු බස්නාහිර පළාත් පාසල් විභාග අද සිට
+
+*2024-03-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194186) · `si`
+
+තාවකාලිකව අත්හිටුවා තිබූ බස්නාහිර පළාතේ පාසල්වල 10 සහ 11 ශ්‍රේණිවල අවසාන වාර පරීක්ෂණ කටයුතු අද (06) දිනයේ සිට යළි පැවැත්වීමට නියමිතව තිබේ.
+
+බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්ලමේන්තුව සඳහන් කළේ, වාර විභාගයේ මෙතෙක් නොපැවැත්වූ විෂයන් සඳහා විභාග කටයුතු පැවැත්වීමට නියමිතව ඇති බවය.
+
+විභාගය පැවැත්වීමට පෙර විද්‍යාව, ඉංග්‍රීසි සහ ගණිතය යන  ප්‍රශ්න පත්‍ර  සමාජ මාධ්‍ය වෙත නිකුත් වීම හේතුවෙන් 10,11 ශ්‍රේණිවල විභාග කටයුතු තාවකාලිකව අත්හිටුවනු ලැබීය.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් මේ වන විටත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් විමර්ශනයක් ආරම්භ කර තිබේ.
+
+කෙසේවෙතත් නව ප්‍රශ්න පත්‍ර සකස් කිරීමෙන් අනතුරුව අද සිට අදාළ ශ්‍රේණිවල විභාග කටයුතු යළි පැවැත්වීමට නියමිත බව බස්නාහිර පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
+
+මේ අතර කොළඹ පැවැති උත්සවයකට එක්වෙමින් අදහස් දැක්වු අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පැවසුවේ නව අධ්‍යාපන ප්‍රතිසංස්කරණ වැඩසටහන හරහා විභාග කේන්ද්‍රීය අධ්‍යාපනයෙන් විතැන් වු ක්‍රියාමාර්ග ගැනීමට අවශ්‍ය සැලසුම් සකස් කර ඇති බවය.
+
+◼️
+
+[Data](articles/b0a30185.json)
 
 ---
 
@@ -121,6 +217,26 @@ In some places in the Western and Sabaragamuwa Province, some locations are expe
 [Data](articles/be2d46df.json)
 
 [Extended Data](ext_articles/be2d46df.ext.json)
+
+---
+
+### முட்டைக்கு அதிகபட்ச விலை
+
+*2024-03-06 04:16:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-அதிகபட்ச-விலை/175-334259) · `ta`
+
+முட்டைக்கான உச்சபட்ச சில்லறை விலையை நிர்ணயித்து விசேட வர்த்தமானி அறிவித்தலை வெளியிடுவதற்காக, விலை நிர்ணயத்தை அடுத்த வாரம் நுகர்வோர் அதிகார சபைக்கு அனுப்புவதற்கு விவசாய அமைச்சுத் தீர்மானித்துள்ளது.
+
+விவசாய அமைச்சர் மஹிந்த அமரவீர தலைமையில் நேற்று இடம்பெற்ற கலந்துரையாடல் ஒன்றின் போது இந்தத் தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+
+தற்போது சந்தையில் முட்டையின் விலை கட்டுப்பாடின்றி பாரிய அளவு அதிகரித்துள்ளதாக குறித்த  கலந்துரையாடலின் போது சுட்டிக்காட்டப்பட்டுள்ளது.
+
+இந்தநிலையில் எதிர்வரும் பண்டிகை காலத்தில் நுகர்வோருக்கு சாதாரண விலையில் முட்டையை வழங்குவதற்காக முட்டைக்கான உச்சபட்ச விலை நிர்ணயம் செய்யப்படவுள்ளது.
+
+இதேவேளை, சந்தையில் முட்டையின் விலை உயர்வைக் கட்டுப்படுத்தும் வகையில், எதிர்வரும் பண்டிகைக் காலத்தில் இந்தியாவில் இருந்து சுமார் 4 கோடி முட்டைகளை இறக்குமதி செய்வதற்கும் இதன்போது தீர்மானிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/1c74aa60.json)
 
 ---
 
@@ -895,6 +1011,20 @@ The sugar factory was opened by Mrs. Sirimavo Bandaranaike, who was the post of 
 [Data](articles/aa2d231d.json)
 
 [Extended Data](ext_articles/aa2d231d.ext.json)
+
+---
+
+### එයාලා දැන් ලොකුයි
+
+*2024-03-05 22:06:53* · [`adalk`](https://www.ada.lk/picture_story/එයාලා-දැන්-ලොකුයි/10-408437) · `si`
+
+දෙහිවල ජාතික සත්වෝද්‍යානයේ සිටින රොබින් සහ කෙල්ල යන  ව්‍යාඝ්‍ර යුවලට දාව ඉපදුනු  පිරිමි ව්‍යාඝු පැටවුන් තිදෙනා වන අකීරා, තියෝ, ඩූමා යන  පැටවුන්ගේ  දෙවන උපන් දිනය මාර්තු මස 05 වන දිදෙහිවල ජාතික සත්වෝද්‍යාන අධ්‍යක්ෂ මෙහෙයුම් අනෝමා ප්‍රියදර්ශනී මහත්මිය  ඇතුලු නිලධාරීන් විසින් සත්වෝද්‍යාන පරිශ්‍රයේදී  සැමරීම  සිදු කරනු ලැබිණි.
+
+මෙහිදී කෙසෙල් කොලවල එතූ මස් පාර්සල් තුනක් ලබා දෙමින් සැමරීම සිදු කරනු ලැබිණි. මෙම අවස්ථාවට සත්වෝද්‍යාන නියෝජ්‍ය අධ්‍යක්ෂිකා දිනූෂිකා මානවඩු අධ්‍යාපන නිලධාරී නිහාල් සෙනරත්,  සත්ව භාරකරු තිලක් පුෂ්පකුමාර මහතා ඇතුලු නිධාරීන් සමග නරඹන්නන් පිරිසක්ද සහභාගිවී සිටියහ.
+
+◼️
+
+[Data](articles/afdb6ba8.json)
 
 ---
 
@@ -2049,155 +2179,5 @@ The high commissioner told EconomyNext on the sidelines of an event in Colombo o
 [Data](articles/63626233.json)
 
 [Extended Data](ext_articles/63626233.ext.json)
-
----
-
-### Protesting university students tear-gassed
-
-*2024-03-05 17:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protesting-university-students-tear-gassed/108-278282) · `en`
-
-Colombo, March 05 (Daily Mirror) - Tensions erupted near the University of Colombo as police resorted to tear gas and water cannons to disperse protesting students.
-
-The incident occurred shortly after reports surfaced of a road closure in front of the university premises due to the demonstration organized by a group of university students.
-
-Furthermore, severe traffic congestion also gripped the area as the protesting students initiated a protest march.
-
-◼️
-
-[Data](articles/0da5ba84.json)
-
-[Extended Data](ext_articles/0da5ba84.ext.json)
-
----
-
-### Police tear gas in student protest
-
-*2024-03-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194169) · `si`
-
-Police used tear gas and water cannons during student protests near the University of Colombo and the Ministry of Sports.
-
-🟩
-
-Tear gas and water attacks have been attacked by the police stating the road in front of the University of Colombo.
-
-Tear gas and water attacks have been reported in front of the Ministry of Sports of Colombo.
-
-◼️
-
-[Data](articles/30a5e705.json)
-
-[Extended Data](ext_articles/30a5e705.ext.json)
-
----
-
-### Cabinet nod to develop Galle Harbour for commercial and recreation activities
-
-*2024-03-05 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97747/cabinet-nod-to-develop-galle-harbour-for-commercial-and-recreation-activities) · `en`
-
-The Cabinet of Ministers has green-lighted a proposal to develop the Galle Harbour for commercial and recreation activities.
-
-Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has furnished the proposal seeking to invite aspirations/proposals to select an investor for the proposed project for developing the Galle Harbour.
-
-Accordingly, the selected investor will be tasked with construction, monitoring and handing over after investing in construction development work of the water break, deep water passenger shaft, retention wall, oceanic wall, excavation of channels, and oceanic structures related to land filing as well as post mixed-development activities of the filled lands.
-
-...
-
-[Data](articles/a3af019f.json)
-
-[Extended Data](ext_articles/a3af019f.ext.json)
-
----
-
-### Elderly body body recovered in Vavuniya
-
-*2024-03-05 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/177983) · `ta`
-
-An elderly man's body was found in Vavuniya's Omanthai Navakkulam area, suspected to have died a few days ago. Police are investigating with forensic help.
-
-🟩
-
-The body of an elderly man was recovered today (05) from water in the Omanthai Omanthai Navakkulam area in Vavuniya.
-
-The Omanthai police were informed about the body of a body in the area, which was found as an abandoned stain.
-
-Police who went to the scene have recovered the body and are conducting investigations with the help of forensic police.
-
-Police have expressed suspicion that the body may have died a few days ago as the body was rotten.
-
-Meanwhile, Surendrasekaran, a sudden death investigator, visited the body and visited the body.
-
-The body was recovered in his presence and relatives identified as 69 -year -old Arunachalam Sivarasa from the village.
-
-Omanthai police, which are conducting investigations into the incident, are carrying out steps to undergo an anatomical examination.
-
-◼️
-
-[Data](articles/5b3dc44e.json)
-
-[Extended Data](ext_articles/5b3dc44e.ext.json)
-
----
-
-### Tear gas fired at protesting uni students in Colombo
-
-*2024-03-05 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97746/tear-gas-fired-at-protesting-uni-students-in-colombo) · `en`
-
-UPDATE (4.58 p.m.) : Police have used tear gas and water cannons to disperse protesting students near the Colombo University, a short while ago.
-
-Earlier, it was reported that the road in front of the University of Colombo has reportedly been closed to traffic due to a protest by a group of university students.
-
-Ada Derana reporter said that severe traffic congestion has been reported in the area due to the protest march launched by the students’ union of the university.
-
-◼️
-
-[Data](articles/7aca1e46.json)
-
-[Extended Data](ext_articles/7aca1e46.ext.json)
-
----
-
-### Road closed due to protest by uni students in Colombo
-
-*2024-03-05 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97746/road-closed-due-to-protest-by-uni-students-in-colombo) · `en`
-
-The road in front of the University of Colombo has reportedly been closed to traffic due to a protest by a group of university students.
-
-Ada Derana reporter said that severe traffic congestion has been reported in the area due to the protest march launched by the students’ union of the university.
-
-◼️
-
-[Data](articles/a41379d4.json)
-
-[Extended Data](ext_articles/a41379d4.ext.json)
-
----
-
-### The children of Sri Lankans born in India have been given citizenship rights
-
-*2024-03-05 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/177976) · `ta`
-
-Sri Lankans born in India now have citizenship rights, thanks to NGOs and government efforts.
-
-🟩
-
-The children of Sri Lankans who returned from India were granted the right of Sri Lanka on Tuesday (05).
-
-Sri Lankans who traveled to India during the 90th war came to Sri Lanka after the end of the war in India.
-
-The children of Sri Lankans born in India in India had trouble getting the right of Sri Lankan citizenship.
-
-This was followed by the contribution of the NGOs called Ober Ceylon under the sponsorship of the Department of Immigration and Emigration.
-
-As a part of this, 71 children of Sri Lankans born in India over the age of 22 were granted citizenship today.
-
-Thus, the citizens from Vavuniya, Mannar, Mullaitivu, Kilinochchi, Jaffna, Trincomalee and Batticaloa.
-
-Vavuniya Government Agent Sarath Chandra, Additional Government Agent. The Deputy Controller of the Department of Immigration and Emigration. H. G. Preaching, Ober company headmaster. C. Many people, including Suryakumari, were present.
-
-◼️
-
-[Data](articles/9a22cc90.json)
-
-[Extended Data](ext_articles/9a22cc90.ext.json)
 
 ---

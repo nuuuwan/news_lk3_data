@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 12:49:23**
+As of **2024-03-06 13:02:55**
 
 ## Newspaper Stats
 
-*Scraped **11,195** Articles*
+*Scraped **11,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,162 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 942
-tamilmirrorlk | 1,364
-adaderanalk | 1,364
+adalk | 943
+adaderanalk | 1,366
+tamilmirrorlk | 1,366
 virakesarilk | 1,522
-dailymirrorlk | 1,708
+dailymirrorlk | 1,711
 adaderanasinhalalk | 1,748
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,186 (99.9%) of 11,195 articles have been extended.
+11,195 (99.9%) of 11,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### காற்று மாசு அதிகரிப்பு
+### German patient vaccinated against Covid 217 times
+
+*2024-03-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97769/german-patient-vaccinated-against-covid-217-times) · `en`
+
+A 62-year-old man from Germany has, against medical advice, been vaccinated 217 times against Covid, doctors report.
+
+The bizarre case is documented in The Lancet Infectious Diseases journal.
+
+The shots were bought and given privately within the space of 29 months.
+
+The man appears to have suffered no ill effects, researchers from the University of Erlangen-Nuremberg say.
+
+“We learned about his case via newspaper articles,” Dr Kilian Schober, from the university’s microbiology department, said.
+
+“We then contacted him and invited him to undergo various tests in Erlangen. He was very interested in doing so.”
+
+The researchers also tested some frozen blood samples of his that had been stored in recent years.
+
+Dr Schober said: “We were able to take blood samples ourselves when the man received a further vaccination during the study at his own insistence.
+
+“We were able to use these samples to determine exactly how the immune system reacts to the vaccination.”
+
+...
+
+[Data](articles/1186a76f.json)
+
+---
+
+### Ali Sabri Raheem suspended from parliament for one month
+
+*2024-03-06 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97768/ali-sabri-raheem-suspended-from-parliament-for-one-month) · `en`
+
+Puttalam District MP Ali Sabri Raheem has been suspended from Parliament for a period of one month with effect from Wednesday (March 06).
+
+A resolution proposing the suspension of Raheem from parliamentary proceedings was approved by the MPs during today’s proceedings.
+
+Raheem was embroiled in controversy last year after he was detained at the Bandaranaike International Airport (BIA) in Colombo on May 23 along with a stock of undeclared stock of gold and mobile phones.
+
+The officials of Revenue Task Force Directorate of Sri Lanka Customs at the airport’s VIP terminal ‘Gold Route’ had impounded more than 3kg of undeclared gold jewellery and 91 mobile phones from the possession of the parliamentarian who was returning to the island from Dubai. The total value of the seized items were estimated to have exceeded Rs. 78 million.
+
+Later, the MP was fined Rs. 7.5 million and released on payment of same while the undeclared gold and mobile phones have been confiscated.
+
+◼️
+
+[Data](articles/2ec6c2d8.json)
+
+---
+
+### மயங்கி விழுந்து இருவர் மரணம்
+
+*2024-03-06 12:49:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மயங்கி-விழுந்து-இருவர்-மரணம்/175-334277) · `ta`
+
+மயங்கி விழுந்து மரணமடைவோரின் எண்ணிக்கை அதிகரித்துள்ளதாக அறியமுடிகின்றது. இந்நிலையில், புதன்கிழமையும் (06) இதுவரையில் மயங்கிவிழுந்து இருவர் மரணித்துள்ளனர்.
+
+கலவான மீபாகம பிரதேசத்தைச் சேர்ந்த பாடசாலை மாணவி ஒருவர் புதன்கிழமை (06) தரையில் விழுந்து உயிரிழந்துள்ளதாக கலவான பொலிஸார் தெரிவித்தனர்.
+
+கலவான பிரதேசத்தை சேர்ந்த இமல்கா சட்சராணி என்ற 13 வயதுடைய பாடசாலை மாணவியே உயிரிழந்துள்ளார்.
+
+இவர் பாடசாலையில் 08ஆம் தரத்தில் கல்வி கற்கும் மாணவியாவார். மருத்துவமனையில் அனுமதிக்கப்பட்ட போதும் அவர் இறந்துவிட்டதாக மருத்துவமனை செய்தித் தொடர்பாளர் தெரிவித்தார்.
+
+இந்நிலையில், ஸ்ரீ ஜயவர்தனபுர பல்கலைக்கழகத்தின் சிரேஷ்ட விரிவுரையாளர் ஒருவர் கடைக்குச் சென்று திரும்பும் போது திடீரென ஏற்பட்ட ஒவ்வாமை காரணமாக வீதியில் விழுந்து மரணமடைந்துள்ளார் என  மஹரகம பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/bc9f8f3b.json)
+
+---
+
+### An increase in air pollution
 
 *2024-03-06 12:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்று-மாசு-அதிகரிப்பு/175-334276) · `ta`
 
-கடந்த 24 மணி நேரத்தில் காற்றின் நிலை மிகவும் மோசமடைந்துள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+Air pollution in Colombo district spiked to 114, affecting health. Other districts like Galle Karapitiya, Puttalam, Kurunegala, and Anuradhapura also recorded high levels. The National Building Research Institute warns of potential health risks and advises caution.
 
-இதனால் கொழும்பு மாவட்டத்தில் அதிகூடிய  காற்று மாசு சுட்டெண் 114 ஆக பதிவாகியுள்ளது.
+🟩
 
-இதற்கமைய, இந்தச் சூழல் ஏனைய நபர்களுக்கு பாதகமான உடல்நலப் பாதிப்புகளை ஏற்படுத்தக்கூடும் என்று அறிக்கை மேலும் கூறியுள்ளது.
+The National Building Research Institute said the wind condition has deteriorated over the past 24 hours.
 
-மேலும், காலி கராப்பிட்டியில் 90 ஆகவும், புத்தளத்தில் 88 ஆகவும், குருநாகல் மற்றும் அனுராதபுரத்தில் 86 ஆகவும் காற்று மாசு சுட்டெண் பதிவாகியுள்ளது.
+As a result, the highest air pollution index in the Colombo district has been recorded at 114.
 
-நாட்டின் காற்று மாசுக் குறியீடு 50ஐத் தாண்டியிருப்பதால், உணர்திறன் உடையவர்கள் பாதிக்கப்படும் அபாயம் உள்ளதால், மக்கள் இது குறித்து கவனம் செலுத்துமாறு அந்த அமைப்பு கேட்டுக்கொள்கிறது.
+Accordingly, the report further stated that this environment could have adverse health problems for other persons.
 
-இந்த காற்றின் நிலை அவ்வப்போது மாறலாம் என்றும் நாளையும் (07) இந்த நிலையை எதிர்பார்க்கலாம் என்றும் கூறப்படுகிறது.
+In addition, the air pollution index has been recorded at 90 in Galle Karapitiya, 88 in Puttalam and 86 in Kurunegala and Anuradhapura.
+
+The organization urges people to focus on it because the country's air pollution code has exceeded 50 and is at risk of those who are sensitive.
+
+It is said that the condition of this wind can change from time to time and expect this to be expected tomorrow (07).
 
 ◼️
 
 [Data](articles/14f53b96.json)
 
+[Extended Data](ext_articles/14f53b96.ext.json)
+
 ---
 
-### நீல பெண் கைது
+### Arresting the blue woman
 
 *2024-03-06 12:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/நீல-பெண்-கைது/73-334275) · `ta`
 
-வாழைச்சேனை பொலிஸ் பிரிவிலுள்ள பிறைந்துறைச்சேனை பகுதியில் போதை பொருள் வியாபாரி ஒருவரின் வீட்டை திங்கட்கிழமை (04) இரவு முற்றுகையிட்ட விசேட அதிரடிப்படையினர் வியாபாரத்தில் ஈடுபட்டுக் கொண்டிருந்த பிரபல பெண் வியாபாரி ஒருவரை கைது செய்தனர்.
+A famous female drug dealer was arrested by a Special Task Force on Monday night. She was involved in a blockade of a drug dealer's house. The police recovered 4 grams of a new blue-colored drug, 340 milligrams of another blue drug, and 8,750 rupees. The woman, 36, has been handed over to her husband, who was also arrested and interrogated.
 
-நீல நிறம் கொண்ட புதிய ஜஸ் போதை பொருள் உட்பட 4 கிராம் 470 மில்லிக்கிராம் ஜஸ் போதை பொருள் பணம் என்பவற்றை மீட்டு ஒப்படைத்துள்ளதாக வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-வாழைச்சேனை கடதாசிஆலை முகாம் விசேட அதிரடிப்படைக்கு கிடைத்த தகவல் ஒன்றினையடுத்து அம்பாறை மட்டக்களப்பு உதவிப் பொலிஸ் பணிப்பாளர் வாவிடவிதானவின் ஆலோசனைக்கமைய   முகாம் பொறுப்பதிகாரி கே. ஜி. லக்மால் தலைமையிலான குழுவினர் வாழைச்சேனை பிறந்துறைச்சேனை பகுதியிலுள்ள குறித்த வீட்டை  முற்றுகையிட்டனர்.
+A famous female dealer was arrested by Special Task Force who was blocking the house of a drug dealer on Monday night (04).
 
-இதன்போது போதை வியாபாரத்தில் ஈடுபட்டுவந்த பெண் ஒருவரை கைது செய்ததுடன் அவரிடமிருந்து 340 மில்லிக்கிராம் புதிய வகையான நீல நிறம் கொண்ட ஜஸ் போதை பொருள் மற்றும் வெள்ளை நிறமுiடைய 4 கிராம் 130 மில்லிக்கிராம் உட்பட 4 கிராம் 470 மில்லிக்கிராம் ஜஸ் போதை பொருள் மற்றும் 8 ஆயிரத்து 750 ரூபாய் பணத்தை மீட்டனர்.
+The Valaichenai police said that 4 grams of 470 milligram jazz, including a blue -colored new jazz drug, has been handed over.
+
+In addition to the information received by the Special Task Force of the Valaichenai Kadadasi Camp. G. A group led by Lakmal blockaded the house in the Valaichenai Birth Sechen area.
+
+A woman who was involved in the drug trade was arrested and 340 milligrams of new blue -colored jazz drug and white color, including 4 grams of 470 milligrams, and recovered 8 thousand 750 rupees.
+
+The 36 -year -old woman has been handed over to her and that her husband has already been arrested and interrogated by her husband.
+
+◼️
+
+[Data](articles/5fbaa2a3.json)
+
+[Extended Data](ext_articles/5fbaa2a3.ext.json)
+
+---
+
+### Fuel price revision a gimmic to mislead people, can reduce by a maximum of Rs. 200
+
+*2024-03-06 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-price-revision-a-gimmic-to-mislead-people-can-reduce-by-a-maximum-of-Rs-200/108-278347) · `en`
+
+Colombo, March 6 (Daily Mirror) - While reducing the prices of Lanka Super Diesel 4 Star Euro 4 and Lanka Petrol 95 Octane Euro 4, the government has played a small gimmic on the people, former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayaka said.
+
+Addressing the media yesterday, he said the recent fuel price revision has misled the people.
+
+Reducing the fuel prices by Rs. 9 and Rs. 10 is of no use to the people. As he had mentioned in 2022, the fuel prices can be reduced by a maximum of Rs. 200, he added.
+
+Ratnayake claimed that the fuel prices published on the official page on X, officially known as Twitter, by the Power and Energy Minister were wrong and that their formula was also wrong.
+
+"If we calculate the fuel prices according to the trends of the world market, the fuel prices can be reduced by a maximum of Rs. 200.
 
 ...
 
-[Data](articles/5fbaa2a3.json)
+[Data](articles/cef40fa6.json)
 
 ---
 
@@ -110,23 +212,45 @@ Explaining further, Dr. Mahipala stated that there is a significant increase in 
 
 ---
 
-### தாயின் கணவரால் சிறுமி  துஷ்பிரயோகம்
+### අවුරුදු 50ට වැඩිනම් ඇස් පරීක්ෂා කර ගන්න
+
+*2024-03-06 12:07:18* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-50ට-වැඩිනම්-ඇස්-පරීක්ෂා-කර-ගන්න/11-408444) · `si`
+
+වයස අවුරුදු 50 ට වැඩි ජනතාව අනිවාර්යයෙන්ම තමන්ගේ අක්ෂි පරීක්ෂා කර ගැනීම ඉතාම වැදගත් වන බවත්, එමෙන්ම තමන්ගේ ඥාතියකුට, පවුලේ කෙනෙකුට ග්ලෝකෝමා රෝගය තිබේ නම් ඒ අයත් අක්ෂි පරීක්ෂා කර ගැනීම ද, ඉතාම වැදගත් වන බව  සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල ප්‍රකාශ කරයි.
+
+සෞඛ්‍ය ලේකම්වරයා මේ බව ප්‍රකාශ කරන ලදදේ ඊයේ (05දා) පෙරවරුවේ ජාතික අක්ෂි රෝහලේ දී ග්ලෝකෝමා රෝගය පිලිබදව මාධ්‍ය දැනුවත් කිරීම සදහා පැවති විශේෂ මාධ්‍ය හමුවකට සහභාගී වෙමින්ය.
+
+2024 වර්ෂයේ, ලෝක ග්ලෝකෝමා සතිය මාර්තු මස 10 සිට 16 දක්වා ක්‍රියාත්මක කිරීමට සෞඛ්‍ය අමාත්‍යංශය හා ජාතික අක්ෂි රෝහල කටයුතු සිදු කර ඇති අතර, මෙම වර්ෂයේ දී තේමාව වශයෙන් “ග්ලෝකෝමා වලින් තොර ලෝකයක් සදහා එක් වෙමු” යන්න ගෙන ඇත.
+
+...
+
+[Data](articles/95beceb7.json)
+
+---
+
+### Girl abuse by mother's husband
 
 *2024-03-06 12:05:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாயின்-கணவரால்-சிறுமி-துஷ்பிரயோகம்/76-334274) · `ta`
 
-மஹியங்கனை , கெசல்பொத்த பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் கல்வி கற்கும் 12 வயதுடைய மாணவி ஒருவரை காது கேளாத மற்றும் வாய் பேச முடியாத அவரது தாயின்  இரண்டாவது கணவர் , துஷ்பிரயோகத்திற்கு  உட்படுத்திய  சம்பவம்  செவ்வாய்க்கிழமை  (05) பதிவாகியுள்ளது .
+A 12-year-old girl in Mahiyanganaya, Kesalpotha, was reported for abuse by her mother's husband. She was unable to return home after school, leading to her hospitalization. A 48-year-old suspect was arrested, and the mother is deaf.
 
-குறித்த மாணவி  பாடசாலை  முடிந்து வீட்டுக்குச் செல்ல முடியாது என  அதிபரிடம்  தெரிவித்ததையடுத்து  இது தொடர்பில்  பாடசாலையின்  அதிபரால் மஹியங்கனை சிறுவர் மற்றும் மகளிர் பணியக அதிகாரிகளுக்கு  அறிவித்துள்ளார் .
+🟩
 
-இதற்கமைய பாடசாலைக்கு  சென்ற  அதிகாரிகளால்  , குறித்த  சிறுமி மஹியங்கனை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு  ,  வைத்தியர்களால் பரிசோதனை  செய்த  போது,  மாணவி  பல தடவைகளை  குறித்த நபரால்  துஷ்பிரயோகத்திற்குள்ளாகியமை தெரியவந்துள்ளது .
+A 12 -year -old student who is educated at a school in Kesalpotha area, Mahiyanganaya, has been reported on Tuesday (05).
 
-இதனையடுத்து கெசல்பொத்த, மாபாக்கடையில் வசிக்கும் 48 வயதுடைய சந்தேக நபரை கைது செய்து மேலதிக  விசாரணைகளை  மேற்கொண்டு வருவதாக  மஹியங்கனை பொலிஸார்
+Mahiyanganan has informed the Children's and Women Bureau Officers by the Principal of the school after the student told the principal that the student could not go home after school.
 
-மேலும் , குறித்த  சிறுமியின் தாயும் காது கேளாத மற்றும் வாய் பேச முடியாத பெண் என்பது  குறிப்பிடத்தக்கது .
+According to the authorities who went to the school, the girl was admitted to the Mahiyangan resource hospital and examined by the doctors.
+
+Subsequently, Mahiyanganaya police said that a 48 -year -old suspect was arrested and is conducting further investigations.
+
+Also, the girl's mother is also a deaf and unable woman.
 
 ◼️
 
 [Data](articles/4fc0ae60.json)
+
+[Extended Data](ext_articles/4fc0ae60.ext.json)
 
 ---
 
@@ -182,15 +306,69 @@ Ukraine hit Russia's landing cell in February using similar unmanned aircraft.
 
 ---
 
-### வற் வரிப்பட்டியலில் இருந்து நீக்கப்படும்
+### Books, school supplies, medicines, health equipment to be exempted from VAT: President
 
-*2024-03-06 11:43:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-வரிப்பட்டியலில்-இருந்து-நீக்கப்படும்/175-334272) · `ta`
+*2024-03-06 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Books-school-supplies-medicines-health-equipment-to-be-exempted-from-VAT-President/108-278344) · `en`
+
+Parliament, March 6 (Daily Mirror)- President Ranil Wickremesinghe today announced that items such as books, school supplies, medicines and health equipment will be exempted from the VAT list.
+
+He told Parliament that the government will also take steps to further reduce the VAT percentage in the future.
+
+◼️
+
+[Data](articles/252b8692.json)
+
+---
+
+### வற் பட்டியலில் இருந்து நீக்கப்படும் பொருட்களின் விபரம்
+
+*2024-03-06 11:43:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வற்-பட்டியலில்-இருந்து-நீக்கப்படும்-பொருட்களின்-விபரம்/150-334272) · `ta`
 
 புத்தகங்கள், பாடசாலை உபகரணங்கள், மருந்து மற்றும் சுகாதார உபகரணங்கள் போன்ற பொருட்கள், வற் வரிப்பட்டியலில் இருந்து நீக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க , புதன்கிழமை   (06) பாராளுமன்றத்தில் உரையாற்றிய போது  தெரிவித்துள்ளார் .
 
 ◼️
 
+[Data](articles/1873a58d.json)
+
+---
+
+### Will be removed from the tax list
+
+*2024-03-06 11:43:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-வரிப்பட்டியலில்-இருந்து-நீக்கப்படும்/175-334272) · `ta`
+
+President Ranil Wickremesinghe announced on Wednesday that books, school equipment, pharmaceuticals, and health equipment will be exempted from taxes.
+
+🟩
+
+President Ranil Wickremesinghe, speaking to Parliament on Wednesday (06), said that books, school equipment, pharmaceuticals and health equipment will be removed from the tax list.
+
+◼️
+
 [Data](articles/d1449542.json)
+
+[Extended Data](ext_articles/d1449542.ext.json)
+
+---
+
+### Crucial Red Sea data cables cut, telecoms firm says
+
+*2024-03-06 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crucial-Red-Sea-data-cables-cut-telecoms-firm-says/108-278343) · `en`
+
+March 6 (BBC) - Several undersea communications cables in the Red Sea have been cut, affecting 25% of data traffic flowing between Asia and Europe, a telecoms company and a US official say.
+
+Hong Kong-based HGC Global Communications said it had taken measures to reroute traffic after four of the 15 cables were recently severed.
+
+The US official said it was trying to find out whether the cables were cut deliberately or snagged by an anchor.
+
+Last month, Yemen's internationally-recognised government warned that the Iran-backed Houthi movement might sabotage the undersea cables in addition to attacking ships in the sea.
+
+The Houthis - who control much of western Yemen's Red Sea coast - denied last week that they had targeted cables and blamed US and British military strikes for any damage to them.
+
+US and British forces have targeted Houthi weapons and infrastructure in response to the drone and missile attacks on merchant vessels passing through the Red Sea and the Gulf of Aden.
+
+...
+
+[Data](articles/065908a9.json)
 
 ---
 
@@ -270,19 +448,25 @@ On the 20th of last month, a departmental supervisory committee was chaired by M
 
 ---
 
-### ‘மெட்டா’ வுக்கு 100 மில்லியன் டொலர் நட்டம்
+### $ 100 million losses per Meta
 
 *2024-03-06 11:32:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெட்டா-வுக்கு-100-மில்லியன்-டொலர்-நட்டம்/175-334270) · `ta`
 
-ஃபேஸ்புக், மெசஞ்சர், இன்ஸ்டாகிராம் சமூக ஊடகங்கள் திடீரென முடக்கப்பட்டதால், சமூக வலைதளங்களுக்குச் சொந்தமான மார்க் ஜூக்கர்பெர்க்கின் ‘மெட்டா’ நிறுவனம் 100 மில்லியன் அமெரிக்க டொலர் வருமானத்தை இழந்துள்ளதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+Facebook, Messenger, and Instagram were suddenly disabled globally, causing $100 million losses for Mark Zuckerberg. This is the first time these platforms have been disabled simultaneously. META stocks fell 1.5% due to the outage.
 
-உலகம் முழுவதும் பேஸ்புக், மெசஞ்சர் மற்றும் இன்ஸ்டாகிராம் சமூக ஊடகங்கள் செவ்வாய்க்கிழமை (05) இரவு  திடீரென முடக்கப்பட்டன. பேஸ்புக், மெசஞ்சர் மற்றும் இன்ஸ்டாகிராம் போன்ற சமூக ஊடகங்கள் ஒரே நேரத்தில் முடக்கப்பட்டமை இதுவே முதல் முறையாக கருதப்படுகிறது.
+🟩
 
-சமூக ஊடக தளங்களான Facebook, Messenger மற்றும் Instagram ஆகியவற்றின் வீழ்ச்சியைத் தொடர்ந்து Meta பங்குகளும் 1.5 சதவீதம் சரிந்தன. ஃபேஸ்புக், மெசஞ்சர் மற்றும் இன்ஸ்டாகிராம் செயலிழந்ததற்கு தொழில்நுட்பக் கோளாறுதான் காரணம் என தெரிவித்த 'மெட்டா' நிறுவனத்தின் தொழில்நுட்ப பிரிவு, சில மணி நேரம் கழித்து, பிழையை சரி செய்தது.
+Foreign media reports that Facebook, Messenger and Instagram are suddenly disabled, and Mark Zuckerberg, a social networking -owned Mark Zuckerberg, has lost $ 100 million.
+
+Facebook, Messenger and Instagram social media around the world were suddenly disabled on Tuesday night (05) night. This is the first time that social media such as Facebook, Messenger and Instagram have been disabled simultaneously.
+
+META stocks fell 1.5 percent following the fall of social media sites such as Facebook, Messenger and Instagram. A few hours later, the Technology Division of 'Meta' said that Facebook, Messenger and Instagram were the cause of the failure of the technology disorder.
 
 ◼️
 
 [Data](articles/27b47e0c.json)
+
+[Extended Data](ext_articles/27b47e0c.ext.json)
 
 ---
 
@@ -414,55 +598,73 @@ Responding to a verbal issue that MP SMM Marikkar, MP Sama Marikkar, responded b
 
 ---
 
-### தங்க எம்.பிக்கு 1 மாத கால தடை
+### 1 month ban on gold MP
 
 *2024-03-06 11:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்க-எம்-பிக்கு-1-மாத-கால-தடை/175-334269) · `ta`
 
-தங்கக் கடத்தல் வழக்கில் அலி சப்ரி ரஹீமின் பாராளுமன்ற வருகை இன்று முதல் ஒரு மாத காலத்திற்கு இடைநிறுத்தப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இன்று அறிவித்துள்ளார்.
+Mahinda Yapa Abeywardena suspended Ali Sabri Rahim's parliamentary visit for one month, based on a report submitted by the Committee on Ethics and Privacy on January 24, 2024.
 
-நெறிமுறைகள் மற்றும் சிறப்புரிமைகள் தொடர்பான குழுவின் தலைவர் சமல் ராஜபக்சவினால் 2024 ஜனவரி 24 ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட அறிக்கையின் பரிந்துரைகளின் அடிப்படையில் இந்த இடைநிறுத்தம் விதிக்கப்பட்டுள்ளதாக அவர் கூறினார்.
+🟩
+
+Speaker Mahinda Yapa Abeywardena today announced that Ali Sabri Rahim's parliamentary visit has been suspended for a period of one month.
+
+He said that the suspension was based on the recommendations of the report submitted by Parliament on January 24, 2024 by Chairman of the Committee on Ethics and Privacy.
 
 ◼️
 
 [Data](articles/02ae60cf.json)
 
+[Extended Data](ext_articles/02ae60cf.ext.json)
+
 ---
 
-### ”இந்த கட்டண திருத்தம் அரசாங்கத்தால் வழங்கப்படவில்லை”
+### "This payment revision is not provided by the government"
 
 *2024-03-06 10:57:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-கட்டண-திருத்தம்-அரசாங்கத்தால்-வழங்கப்படவில்லை/175-334268) · `ta`
 
-அண்மைய மின்சாரக் கட்டணத் திருத்தமானது தற்போதைய அரசாங்கத்தினாலோ அல்லது தற்போதைய அரசியல் அதிகாரிகளாலோ வழங்கப்படவில்லை மாறாக சிவில் அமைப்புகள், பொதுமக்கள் மற்றும் ஊடகங்கள், இலங்கையின் முன்னாள் பொதுப் பயன்பாடுகள் ஆணைக்குழு (PUCSL) ஆகியவற்றின் கூட்டு முயற்சியால் வழங்கப்பட்டுள்ளது என பொதுப் பயன்பாடுகள் ஆணைக்குழு முன்னாள் தலைவர் ஜனக ரத்நாயக்க தெரிவித்தார்.
+Janaka Ratnayake, former PUC Chairman, claims the recent power tariff amendment was not by the government but by civil organizations, media, and PUCSL. He praises the 21.9% amendment and criticizes the current PUCSL Chairman for not reducing electricity bills as promised. Ratnayake also highlights the CEB's profits and calls for benefits for low-income users and those using 0-30 units of electricity.
 
-இன்று செய்தியாளர்களிடம் பேசிய அவர், தற்போதைய PUCSL தலைவரால் சமீபத்தில் அறிவிக்கப்பட்ட 21.9 சதவீத மின் கட்டண திருத்தத்தை பாராட்டினார்.
+🟩
 
-இந்த கட்டண திருத்தத்தை வழங்க PUCSL உறுப்பினர்களோ அல்லது அரசியல் அதிகாரங்களோ உடன்படவில்லை என்று அவர் கூறினார்.
+Former Chairman of the Public Utilities Commission Janaka Ratnayake said that the recent power tariff amendment was not provided by the current government or the current political authorities, but by the joint venture of civil organizations, civilians and media and former Sri Lanka's former PUCSL (PUCSL).
 
-"முன்னாள் PUCSL தலைவராக நான் இருந்த காலத்தில் இந்த திருத்தத்தை வழங்குவதற்காக நான் இந்த பணியை தொடங்கினேன். அதனால் நான் எனது வேலையை இழந்தேன். எனது பதவிக்காலத்தில் நான் கையெழுத்திட்ட பிரேரணை நிறைவேற்றப்பட்டு மக்களுக்கு நன்மை பயக்கும். பிப்ரவரி 2022 இல் நான் செய்த மின் கட்டண திருத்தத்திற்கான முன்மொழிவு மார்ச் 2024 இல் நடைமுறைக்கு வந்தது.
+Speaking to reporters today, he praised the current 21.9 per cent electricity tariff amendment by the current PUCSL Chairman.
+
+He said that neither PUCSL members nor political powers were to provide this payment amendment.
+
+“I started this task to make this amendment when I was the former PUCSL Chairman. So i lost my job. The resolution I signed during my tenure would be beneficial for the people. The proposal for the electricity bill I made on February 2022 came into effect in March 2024.
 
 ...
 
 [Data](articles/2bc0c629.json)
 
+[Extended Data](ext_articles/2bc0c629.ext.json)
+
 ---
 
-### இன்று அதிகரித்த வெப்பநிலை காணப்படும்
+### Increased temperatures today
 
 *2024-03-06 10:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334267) · `ta`
 
-மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் இரத்தினபுரி,புத்தளம் மற்றும் மட்டக்களப்பு   மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Increased temperatures in Western and Southern Provinces, Ratnapura, Puttalam, and Batticaloa. Chance of rain in Southern Province and parts of Ratnapura and Kalutara. Snow in Sabaragamuwa, Western Provinces, Galle, and Matara. Wind from N to NE at 20-30 km/h. Moderate waves in sea regions.
 
-தென் மாகாணத்தின் சில இடங்களிலும் அத்துடன் இரத்தினபுரி மற்றும் களுத்துறை மாவட்டங்களின் சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+🟩
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+The Department of Meteorology said that increased temperatures will be seen today in the Western and Southern Provinces as well as in Ratnapura, Puttalam and Batticaloa districts.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் வட திசையில் இருந்து வடகிழக்குத் திசையை நோக்கி காற்று வீசும்.
+There is a chance of rain in the evening or night in some parts of the Southern Province, as well as some parts of the Ratnapura and Kalutara districts.
 
-நாட்டை சூழ உள்ள கடல் பிராந்தியங்கள் மிதமான அலையுடன் காணப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+In the morning, the snow will be seen in some parts of the Sabaragamuwa and Western Provinces as well as some of the Galle and Matara districts.
+
+In the sea regions, the wind blows from the north to the northeast at 20 - 30 km / h.
+
+The sea regions around the country are reported to be in a moderate wave.
 
 ◼️
 
 [Data](articles/0bc84fd5.json)
+
+[Extended Data](ext_articles/0bc84fd5.ext.json)
 
 ---
 
@@ -570,23 +772,31 @@ The U.S. wants any Security Council support for a ceasefire to be linked to the 
 
 ---
 
-### கடுமையான தீர்மானங்கள் ஊடாகவே இதிலிருந்து மீள முடியும்
+### Can be recovered from this through severe decisions
 
 *2024-03-06 10:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுமையான-தீர்மானங்கள்-ஊடாகவே-இதிலிருந்து-மீள-முடியும்/175-334266) · `ta`
 
-அழகிய வார்த்தைகள், வாக்குறுதிகளால் பொருளாதார நெருக்கடிக்கு தீர்வுகாண முடியாது, கடுமையான தீர்மானங்கள் ஊடாகவே நெருக்கடியில் இருந்து மீள முடியும் என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the need for strict resolutions to recover from the economic crisis, highlighting increased state revenue, reduced inflation, and a decrease in the value of the US dollar. He also mentioned a temporary loan repayment plan and the reduction of foreign loan amounts.
 
-மேலும், .பொருளாதாரம் ஆரம்ப கட்ட ஸ்திரப்படுத்தலில் காணப்படுகிறது. நாட்டு மக்களுக்கு தொடர்ந்து நிவாரணம் வழங்கப்படும் என்றும் ஜனாதிபதி கூறினார்.
+🟩
 
-புத்தகம், மருந்து பொருட்கள் உள்ளிட்ட தெரிவு செய்யப்பட்ட பொருட்கள் வற் வரி பட்டியலில் இருந்து நீக்கப்படும் என்றும் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said that beautiful words and promises cannot resolve the economic crisis, but through strict resolutions it can be recovered from the crisis.
 
-அத்துடன் பொருளாதாரத்துக்கு பாதிப்பு ஏற்படும் வகையில் நிவாரணம் வழங்கப் போவதில்லை என்றும் ஜனாதிபதி கூறினார். R
+Also,. The economy is found in the initial phase stability. The President also said that the people of the country will continue to provide relief.
 
-1. 2022 ஆம் ஆண்டுடன் ஒப்பிடுகையில் 2023 ஆம் ஆண்டு அரச வருவாயை 50 சதவீத்திற்கும் மேல் அதிகரிக்க முடிந்ததாகவும் கடந்த வருடம் முதன்மைக் கணக்கில் உபரியைப் பெற முடிந்ததாகவும் தெரிவித்த ஜனாதிபதி, இதன்மூலம் மூன்று முதல் நான்கு ஆண்டுகளாக அரசாங்கத்திற்கு சேவை வழங்கிய ஒப்பந்ததாரர்களுக்கு வழங்க வேண்டிய நிலுவைத் தொகை முழுமையாக செலுத்தப்பட்டுள்ளதாகத் தெரிவித்தார்.
+He also said that the selected items, including the book and pharmaceuticals, will be removed from the list of taxes.
+
+The President also said that he would not provide relief to the economy.. Remble
+
+௧. The President said that the state's revenue was increased by 50 percent in 2023 compared to 2022 and that last year was able to obtain surplus in the main account last year, he said.
+
+௨. Inflation fell from 70% in September 2022 due to the coordinated micro economic question management initiative to 5.9% in February 2022.Stated
 
 ...
 
 [Data](articles/3977803f.json)
+
+[Extended Data](ext_articles/3977803f.ext.json)
 
 ---
 
@@ -2047,169 +2257,5 @@ Since then, a group of employees have beaten the tourists on the train.
 [Data](articles/6d4ca595.json)
 
 [Extended Data](ext_articles/6d4ca595.ext.json)
-
----
-
-### Salary to the state and private sector to be increased
-
-*2024-03-05 23:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-மற்றும்-தனியார்-துறைக்கு-சம்பளம்-அதிகரிக்கப்பட-வேண்டும்/175-334256) · `ta`
-
-Governor Nandalal Weerasinghe suggests increasing salaries in both public and private sectors to aid recovery from economic crisis.
-
-🟩
-
-Governor of the Central Bank Nandalal Weerasinghe said that salaries need to be increased in all public and private services.
-
-He added that important salary should be increased when recovering from the economic crisis. Remble
-
-◼️
-
-[Data](articles/73c13aec.json)
-
-[Extended Data](ext_articles/73c13aec.ext.json)
-
----
-
-### The workplace is temporarily paused
-
-*2024-03-05 22:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பு-தற்காலிகமாக-இடைநிறுத்தம்/175-334255) · `ta`
-
-The train workplace, scheduled for midnight, is suspended due to a strike demanding salary reduction removal. Railway unions, regulators, and supervisors are involved. After discussions with officials, the workplace was paused.
-
-🟩
-
-It is reported that the train workplace, which was scheduled to be carried out from midnight today, has been suspended.
-
-They were planning to go on strike demanding the removal of the Cabinet paper proposed to reduce their salary.
-
-According to the Railway Locomotive Operating Engineers Association, the railway trade unions, including the railway regulators and supervisory managers, will be involved in the work.
-
-However, a discussion with railway officials has been held this afternoon.
-
-Railway trade unions said that after the explanation of the railway authorities, it was decided to suspend the workplace.. Remble
-
-◼️
-
-[Data](articles/8971a351.json)
-
-[Extended Data](ext_articles/8971a351.ext.json)
-
----
-
-### Salary Increase of Central Bank Officers
-
-*2024-03-05 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178015) · `ta`
-
-Central Bank officials' 70% salary hike, despite public servants' 20k increase, sparks debate. Opposition argues it's against the law, citing no joint agreement with central bank unions. The government's stance on central bank independence is questioned, with claims of illegal salary increases.
-
-🟩
-
-Central Bank officials have increased their salary by 70 percent when public servants are struggling to carry out a 20 thousand salary increase.. The government should decide on giving this power to the central bank. Opposition member Dayasiri Jayasekara said that the salary increase of central bank officials is contrary to the law.
-
-He said this while addressing the second day debate on the Bind Receivables Bill, Trusting Receivables (Amendment) Bill, Amendment (Amendment) Bill, Financial Leasing (Amendment) Bill.
-
-Other banks and financial institutions in the country are based on the actions of the central bank in the country. Bank loans are only one hundred per cent of the Central Bank. But if the rest of the country goes to the banks of the country, the interest is 20.5 per cent.. That is why when we were told to allow the central bank to act independently, we were told that it should be somewhat independent.
-
-...
-
-[Data](articles/176eab78.json)
-
-[Extended Data](ext_articles/176eab78.ext.json)
-
----
-
-### Three railway employees suspended for allegedly assaulting 2 foreigners
-
-*2024-03-05 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97755/three-railway-employees-suspended-for-allegedly-assaulting-2-foreigners) · `en`
-
-Two Class 2 Station Masters and a Railway Guard have been suspended from service for assaulting two foreigners at the Nawalapitiya railway station.
-
-◼️
-
-[Data](articles/7fe9d33a.json)
-
-[Extended Data](ext_articles/7fe9d33a.ext.json)
-
----
-
-### Recent electricity tariff revision not given by the government
-
-*2024-03-05 22:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recent-electricity-tariff-revision-not-given-by-the-government/108-278298) · `en`
-
-Colombo, March 5 (Daily Mirror) - The recent electricity tariff revision was not given by the incumbent government or current political authorities but by the collective efforts of civil organisations, the public and the media, former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayaka said.
-
-Addressing the media today, he praised the 21.9 percent electricity tariff revision announced recently by the current PUCSL chairman.
-
-He claimed that the PUCSL members or the political authority did not agree to provide this tariff revision.
-
-"I started this mission to grant this revision during my tenure as the former PUCSL chairman. I lost my job because of that. The proposal, which was signed by me during my tenure, was passed and received as a benefit to the people. The proposal for the electricity tariff revision, which I made in February 2022, has become a reality in March 2024.
-
-...
-
-[Data](articles/265f6f6f.json)
-
-[Extended Data](ext_articles/265f6f6f.ext.json)
-
----
-
-### It is necessary to increase salaries in all public and private service sector - the central bank
-
-*2024-03-05 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178014) · `ta`
-
-Central Bank Governor Nandalal Weerasinghe emphasizes the need to raise salaries in both public and private sectors to aid recovery from economic crises.
-
-🟩
-
-Governor of the Central Bank Nandalal Weerasinghe said that salaries need to be increased in all state and private services.
-
-Governor of the Central Bank Nandalal Weerasinghe added that important salary should be increased when recovering from the economic crisis.
-
-◼️
-
-[Data](articles/9c34b72b.json)
-
-[Extended Data](ext_articles/9c34b72b.ext.json)
-
----
-
-### Speaker's actions have been mocked among the people
-
-*2024-03-05 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/177986) · `ta`
-
-Speaker Mahinda Yapa Abeywardena's actions are being criticized by the public and opposition MPs. The new police chief and Inspector General of Police's actions are also being mocked. The Speaker's voting rights are questioned, and there's controversy over the appointment of the new Inspector General of Police.
-
-🟩
-
-The actions of Speaker Mahinda Yapa Abeywardena have been mocked among the entire population. Opposition Independent Member of Parliament Chandima Weerakkody said that the Speaker's activities are being shocked by all the leaders of the Sabha.
-
-He was speaking at a debate on the Bill on Tuesday (05) in Parliament, including the Broadcasting Bill, including the Finance Department.
-
-The new police chief has also been insulted by the activities of the new Inspector General of Police.. The Speaker's actions are shy to all those who head the council.
-
-When the Constituent Assembly convened on the appointment of the new Inspector General of Police. Article 41 of the Constitutional Council is clearly stated that the Speaker can vote only when there is a balance in the vote.
-
-...
-
-[Data](articles/69c7c167.json)
-
-[Extended Data](ext_articles/69c7c167.ext.json)
-
----
-
-### Railway employees who assaulted foreigners suspended
-
-*2024-03-05 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194182) · `si`
-
-Railway Department suspends two Second Grade OICs and a railway style for assaulting foreigners.
-
-🟩
-
-The Railway Department announced that two Second Grade OICs and a railway style of Railways regarding the assault.
-
-◼️
-
-[Data](articles/c799169b.json)
-
-[Extended Data](ext_articles/c799169b.ext.json)
 
 ---

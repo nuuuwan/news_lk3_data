@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 04:17:43**
+As of **2024-03-07 04:33:00**
 
 ## Newspaper Stats
 
-*Scraped **11,358** Articles*
+*Scraped **11,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 591
 islandlk | 601
 dailyftlk | 605
 adalk | 959
-tamilmirrorlk | 1,382
+tamilmirrorlk | 1,383
 adaderanalk | 1,383
 virakesarilk | 1,556
 dailymirrorlk | 1,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,358 (100.0%) of 11,358 articles have been extended.
+11,358 (100.0%) of 11,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,20 @@ The United States Agency for International Development (USAID) and the Women’s
 [Data](articles/492a8145.json)
 
 [Extended Data](ext_articles/492a8145.ext.json)
+
+---
+
+### ’நாட்டை சீரழித்தவர்களை பாதுகாக்கும் ஜனாதிபதி’
+
+*2024-03-07 01:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-சீரழித்தவர்களை-பாதுகாக்கும்-ஜனாதிபதி/175-334310) · `ta`
+
+நாட்டை சீரழித்தவர்களை பாதுகாக்கும் செயற்பாடுகளிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க ஈடுபடுகின்றார் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பெப்ரவரி 20ஆம் திகதி இரண்டாவது மதிப்பீட்டு விவாதத்துக்கு எடுத்துக்கொள்ளப்பட்டு, ஒத்திவைக்கப்பட்ட பிணைப் பொறுப்பளிக்கப்பட்ட கொடுக்கல், வாங்கல்கள் சட்டமூலம், நம்பிக்கைப் பொறுப்பு பற்றுச் சீட்டுக்கள் (திருத்தச்) சட்டமூலம், ஈட்டுச்சட்டம் (திருத்தச்) சட்டமூலம், நிதி குத்தகைக்குவிடுதல் (திருத்தச்) சட்டமூலம், உள்நாட்டு நம்பிக்கைப் பொறுப்புத் (திருத்தச்) சட்டமூலம், கம்பனிகள் (திருத்தச்) சட்டமூலம், ஆவணங்கள் பதிவுக் கட்டளைச் சட்டம் (திருத்தச்) சட்டமூலம் ஆகியன மீதான மூன்றாம் நாள் விவாதம் புதன்கிழமை (06)  பாராளுமன்றத்தில் நடைபெற்ற போது அதில் உரையாற்றுகையிலேயே எதிர்க்கட்சித் தலைவர் இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/6c4e19d3.json)
 
 ---
 
@@ -2307,25 +2321,5 @@ He said the book explains the first experience of the internationally sponsored 
 [Data](articles/c54b7e86.json)
 
 [Extended Data](ext_articles/c54b7e86.ext.json)
-
----
-
-### Sri Lanka president quips about parliamentary committee’s future amid speculation
-
-*2024-03-06 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-quips-about-parliamentary-committees-future-amid-speculation-153404/) · `en`
-
-ECONOMYNEXT — Amid speculation over the possibility of an early dissolution of parliament, President Ranil Wickremesinghe joked to opposition MP Harsha de Silva that the chairmanship of a parliamentary committee the latter heads may not last much longer.
-
-Speaking in parliament Wednesday March 06 morning, MP de Silva asked President Wickremesinghe, who was present at the legislature, to discuss Sri Lanka’s plans for the restructure of external debt with all political parties represented in parliament.
-
-“Restructuring of foreign debt is now going on. There’s only a few months left for the election. The next government will be obliged to continue the restructuring process. I propose to you that a consensus is reached with all parties that represent parliament upon some deliberation, because we can’t say for sure how long you’ll be there,” said de Silva.
-
-“We expect to commence work under [incumbent opposition leader] Premadasa,” he added.
-
-...
-
-[Data](articles/51b44dec.json)
-
-[Extended Data](ext_articles/51b44dec.ext.json)
 
 ---

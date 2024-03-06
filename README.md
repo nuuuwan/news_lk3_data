@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 07:16:09**
+As of **2024-03-06 07:31:11**
 
 ## Newspaper Stats
 
-*Scraped **11,127** Articles*
+*Scraped **11,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 1,350
 adaderanalk | 1,354
 virakesarilk | 1,508
 dailymirrorlk | 1,699
-adaderanasinhalalk | 1,736
+adaderanasinhalalk | 1,737
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,127 (100.0%) of 11,127 articles have been extended.
+11,127 (100.0%) of 11,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### පොතුහැර ලොරි - ත්‍රිවිල් අනතුරින් 3ක් මරුට
+
+*2024-03-06 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194185) · `si`
+
+පොතුහැර, බුළුගොල්ල හංදිය අසල සිදුවු රිය අනතුරකින් පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+
+අදාළ ප්‍රදේශයේ දී කුරූණෑගල දෙස සිට කොළඹ දක්වා ධාවනය වු එළවළු ප්‍රවාහන ලොරියක් සහ ඊට ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ත්‍රිරෝද රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිස් මුලස්ථානය පැවසුවේය.
+
+අනතුරින් ත්‍රිරෝද රථයේ ගමන්ගත් පුද්ගලයින් සිව්දෙනෙකු බරපතළ තුවාල ලබා කුරුණෑගල රෝහලට ඇතුළත් කර ඇති අතර එහිදි තිදෙනෙකු මියගොස් තිබේ.
+
+අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරු පොතුහැර පොලීසිය මඟින් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මුලස්ථානය වැඩිදුරටත් සඳහන් කළේය.
+
+මේ අතර නොරච්චෝලය පොලිස් වසමේ පුලච්චේන හංදියේ ඉලංතඩිය අතුරු මාර්ගයේ පුලච්චේන විදුහල අසල සිදුවු අනතුරකින් සිව්හැවිරිදි දරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පූලච්චේන දෙසට ධාවනය වූ ලොරි රථයක පාපැදියක් ගැටී අනතුර සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබු පාපැදියේ ගමන්කළ කුඩා දරුවා පුත්තලම රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+
+...
+
+[Data](articles/393c5b86.json)
+
+---
 
 ### Showers in several areas
 
@@ -2173,31 +2197,5 @@ Northern fishermen were eagerly attended. We handed over a letter to the Norther
 [Data](articles/ebd1af41.json)
 
 [Extended Data](ext_articles/ebd1af41.ext.json)
-
----
-
-### Bessos tops the rich list
-
-*2024-03-05 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/177980) · `ta`
-
-Jev Bezos tops the rich list with $200 billion, followed by Ilon Musk at $198 billion. Tesla's stock drop impacts Musk's wealth, while Amazon's stock rise benefits Bezos.
-
-🟩
-
-Jev Bezos tops the list of the world's richest people.Ilon Musk has been ranked 2nd.
-
-The wealth of Amazon's founder, Jev Bessees, is $ 200 billion according to the list of Bloomberg rich. The wealth value of Ilon Musk, the president of Twitter, Tesla and SpaceX, is $ 198 billion.
-
-Franad Arnold, chief executive officer of LVMH, from France, is ranked 3rd with $ 197 billion.
-
-Tesla's stock prices have fallen by 25 per cent in the past few months, and Muscle's wealth has fallen by $ 30 billion.
-
-At the same time, Amazon's stock prices have increased the value of Pesos's wealth.
-
-◼️
-
-[Data](articles/ef237d14.json)
-
-[Extended Data](ext_articles/ef237d14.ext.json)
 
 ---

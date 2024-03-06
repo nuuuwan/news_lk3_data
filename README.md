@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 15:51:26**
+As of **2024-03-06 16:03:56**
 
 ## Newspaper Stats
 
-*Scraped **11,245** Articles*
+*Scraped **11,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 577
 dailyftlk | 593
 islandlk | 601
-adalk | 948
-tamilmirrorlk | 1,370
-adaderanalk | 1,372
-virakesarilk | 1,530
+adalk | 949
+tamilmirrorlk | 1,371
+adaderanalk | 1,374
+virakesarilk | 1,531
 dailymirrorlk | 1,719
 adaderanasinhalalk | 1,759
 
@@ -26,49 +26,147 @@ adaderanasinhalalk | 1,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,237 (99.9%) of 11,245 articles have been extended.
+11,245 (100.0%) of 11,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### அசிட் வீச்சில் ஐவருக்கு எரிகாயம்
+### ஏனைய மூவரையும் விடுவியுங்கள் ; இந்திய அரசை கோரும் ஜனநாயக போராளிகள் கட்சி
+
+*2024-03-06 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178083) · `ta`
+
+முருகன், றொபேட்டயஸ் மற்றும் ஜெயக்குமார் ஆகியோர் விரைந்து சிறப்பு முகாம்களில் இருந்து விடுவித்து தாயகம் திரும்ப ஆவண செய்ய வேண்டும் என இந்திய மத்திய மானில அரசுகளை எமது மக்களின் சார்பில் கேட்டுகொள்வதாக ஜனநாயகபோராளிகள் கட்சியின் தலைவர் சி.வேந்தன் தெரிவித்தார்.
+
+தசாப்தங்கள் கடந்தும் ஈழத்தமிழர்களது நியாயங்களையும்  அறைகூவல்களையும் இந்தியா புரிந்துகொள்ள வேண்டும் என தமிழினம் கருதுகிறது.
+
+ஈழத்தமிழர்களதும் இந்தியாவினதும் சமூக அரசியல் பொருளாதார பாதுகாப்பு உறவுநிலைகள் பன்னெடுங்கால வரலாற்றுக்கு உரியவை.
+
+இந்தியா தனது பிராந்தியத்தின் நலன் மற்றும் ஈழத்தமிழினத்தின் பாதுகாப்பு அரசியல் உரிமை என்பவற்றை கருத்தில் கொண்டே தனது முழுமையான  பலத்தின்  திரட்சியின் அடிப்படையில்தான் இலங்கை இந்திய ஒப்பந்தத்தையும் இலங்கையில் தனது படைத்தரையிறக்கத்தையும் நிகழ்தியிருந்தது.
+
+அதற்கு பின்னரான சில கசப்பான அசாதாரணமான நிகழ்வுகள் இந்திய ஈழத்தமிழர்களது உறவு நிலைகளில் இடைவெளியினை ஏற்படுத்தி இறுதியில் சிறிபெரும் புத்தூரில் ஏற்படுத்தப்பட்ட துன்பியல் நிகழ்வினை அடுத்து ஈழத்தமிழர்களை இந்தியா முற்றுமுழுதாக கைவிட்டுவிட்டது.
+
+...
+
+[Data](articles/7b8f48a3.json)
+
+---
+
+### புத்தகம் வெளியிடுகின்றார் கோட்டாபய ராஜபக்ச
+
+*2024-03-06 15:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகம்-வெளியிடுகின்றார்-கோட்டாபய-ராஜபக்ச/175-334286) · `ta`
+
+2019 நவம்பரில் தான் ஜனாதிபதியாகத் தெரிவு செய்யப்பட்ட காலத்திலிருந்து, சில வெளிநாட்டு சக்திகள் மற்றும் உள்ளூர் கட்சிகள் என்னை ஆட்சியில் இருந்து அகற்றும் நோக்கத்தில் இருந்ததாக முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தெரிவித்தார்.
+
+இன்று (6) வெளியிட்டுள்ள அறிக்கை ஒன்றில் கோட்டாபய ராஜபக்ச இதை குறிப்பிட்டுள்ளார். மேலும்,
+
+"ஜனாதிபதி பதவியில் இருந்து என்னை வெளியேற்றுவதற்கான சதி" என்ற தலைப்பில் புத்தகத்தை வெளியிடுவதாகவும் அறிவித்தார்.
+
+இந்த நாடு சுதந்திரமடைந்த முதல் அறுபது வருடங்களில் ஒருபோதும் அனுபவித்திராத வகையில் இன்று வெளிநாட்டுத் தலையீடும், உள் அரசியலின் சூழ்ச்சியும் இலங்கையில் உள்ளதாக ராஜபக்ச கூறினார்.
+
+தம்மை வெளியேற்றுவதற்கான அரசியல் பிரச்சாரம் இலங்கையின் அரசியலில் ஒரு புதிய அம்சத்தைக் கொண்டுவந்தது என்றும், சுதந்திரம் பெற்றதில் இருந்து தேர்தலுக்குப் பிறகு அமைதியான அதிகாரப் பரிமாற்றங்களை மட்டுமே இந்நாடு அனுபவித்து வந்ததாகவும் அவர் கூறினார்.
+
+எனவே, 2022 ஆம் ஆண்டு நிகழ்வுகள் இந்த நாட்டின் எதிர்காலத்திற்கு கடுமையான தாக்கங்கள் நிறைந்தவை என்று ராஜபக்ச கூறினார்.
+
+...
+
+[Data](articles/146441f1.json)
+
+---
+
+### Underworld figure ‘Manna Ramesh’ arrested in Dubai
+
+*2024-03-06 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97776/underworld-figure-manna-ramesh-arrested-in-dubai) · `en`
+
+Sri Lankan security forces have been informed that notorious underworld figure Ramesh Priyajanaka, also known as ‘Manna Ramesh’, has been arrested in Dubai.
+
+Accordingly, a group of police officers are reportedly slated to travel to Dubai to escort the wanted criminal back to Sri Lanka, upon a request made to the Dubai Police that he be handed over to Sri Lankan authorities.
+
+‘Manna Ramesh’ is reportedly wanted for numerous crimes including multiple murders in the Avissawella area.
+
+◼️
+
+[Data](articles/d690b55f.json)
+
+---
+
+### රුසියානු කාන්තාවන් ගොඩදැමූ ලාංකික තරුණයෝ
+
+*2024-03-06 15:44:29* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-කාන්තාවන්-ගොඩදැමූ-ලාංකික-තරුණයෝ/11-408452) · `si`
+
+හික්කඩුව පන්නම්ගොඩ මුහුදු තීරයෙන් දිය නෑමට ගොස් සිටියදී හදිසියේ ආ දියවැලකට හසුව  මුහුදේ දියඹටම  ගසා ගෙන යමින් ජීවිතයත් මරණයත් අතර සිටි රුසියානු ජාතික කාන්තාවන් දෙදෙනකු  සිය දිවි පරදුවට තබා පොලිස් ජීවිතාරක්ෂක නිලධාරීන් හා වෙරළාරක්ෂක ජීවිතාරක්ෂක නිලධාරීන් විසින් නිරූපදරිතව අද (6) බේරාගෙන තිබේ.
+
+මේ  විදෙස් කාන්තාවන් දෙදෙනා තමන් දිය නාමින් සිටි වෙරළේ සිට දිය වැලට හසුව දියඹ මුහුදේ මීටර 250ක පමණ දුරක් ගසාගෙන යමින් සිටියදී පොලිස් හා වෙරළාරක්ෂක ජීවිතාරක්ෂක නිලධාරීන් විසින් මේ කාන්තාවන් දෙදෙනා බේරාගෙන තිබිනි.
+
+දිය වැළට හසුව දියඹ මුහුදට ගසාගෙන ගිය ආකාරයට යලි  තමන්ට ජීවත්වීමට ලැබෙන්නේ නැතැයි සිතූ බවත් තමන්ගේ ජීවිත බේරාගත් පොලිස් හා වෙරලාරක්ෂක නිලධාරීන්ට සිය ජීවිතයම ණය බව සතුටු සිනා වගුරුවමින් මේ විදෙස් කාන්තාවන් දෙදෙනා කීහ.
+
+◼️
+
+[Data](articles/7d4d6924.json)
+
+---
+
+### Immunoglobulin scandal: Addl Health Secretary gives confidential statement to magistrate
+
+*2024-03-06 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97775/immunoglobulin-scandal-addl-health-secretary-gives-confidential-statement-to-magistrate) · `en`
+
+The Additional Secretary of the Health Ministry Saman Ratnayake, who was recently arrested by the CID and remanded, has reportedly made a 4-hour long confidential statement to the Maligakanda Magistrate today (06).
+
+◼️
+
+[Data](articles/6cff218b.json)
+
+---
+
+### Burn for five
 
 *2024-03-06 15:34:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அசிட்-வீச்சில்-ஐவருக்கு-எரிகாயம்/76-334285) · `ta`
 
-வழக்கு விசாரணைக்காக வந்து கொண்டிருந்த போது மேற்கொள்ளப்பட்ட அசிட் வீச்சில் ஐவர் காயமடைந்துள்ளனர்.
+Five people were injured in an acid attack during a trial in Ratnapura. The attacker, the husband of one of the victims, targeted his family on the street. The incident is linked to a vehicle accident on April 23, 2023. The father of a young man involved in the accident has been arrested.
 
-இரத்தினபுரி மேல் நீதிமன்ற வளாகத்திற்கு அருகில் புதன்கிழமை (06) காலை இடம்பெற்ற அசிட் வீச்சினால் ஐவர் காயமடைந்து இரத்தினபுரி போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக இரத்தினபுரி தலைமையக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-வழக்கு ஒன்றுக்காக வந்த ஒருவர், வீதியில் பயணித்த அவரது மனைவி மற்றும் மூன்று குழந்தைகள் மீது அசிட் வீச்சு தாக்குதல் நடத்தியுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+Five people were injured in the acid attack while coming for trial.
 
-இரத்தினபுரியின் புதிய நகரத்தில் 2023 ஆம் ஆண்டு ஏப்ரல் மாதம் 23 ஆம் திகதி இடம்பெற்ற வாகன விபத்துடன் தொடர்புடைய பிரதான பிரதிவாதியை இலக்கு வைத்தே  அசிட் வீச்சு நடத்தப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Ratnapura police said that five people were injured and admitted to the Ratnapura Teaching Hospital.
 
-வழக்கு விசாரணைக்கு ஆஜராக வந்தபோது தாக்குதல் நடத்தப்பட்டுள்ளது. கார் விபத்தில் உயிரிழந்த இளைஞனின் தந்தையே  அசிட் வீச்சை மேற்கொண்டார் என்ற சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார் என இரத்தினபுரி பொலிஸார் தெரிவித்தனர்.
+Police said that a man who came for a case had attacked his wife and three children who was traveling on the street.
+
+Police said that the acid was targeted by the main defendant in connection with the vehicle accident on April 23, 2023 in the new city of Ratnapura.
+
+The attack has been carried out when the case came to trial. Ratnapura police said that the father of a young man who died in a car accident has been arrested on suspicion of carrying acid.
 
 ◼️
 
 [Data](articles/c10fcec9.json)
 
+[Extended Data](ext_articles/c10fcec9.ext.json)
+
 ---
 
-### පුතාගේ මරණයේ පළිය ගන්න පියා ගැසූ ඇසිඩ් ප්‍රහාරය
+### Acid attack on his father to take revenge
 
 *2024-03-06 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194209) · `si`
 
-අද (06) උදෑසන රත්නපුර මහාධිකරණ සංකීර්ණය අසල දී පුද්ගලයින් පිරිසකට ඇසිඩ් ප්‍රහාරයක් එල්ල කර තිබේ.
+Azid was attacked by students near the High Court Complex, injuring three people. The attack, targeting a person involved in a fatal accident, was linked to the suspect of the accident. The father of the victim was arrested.
 
-එම ඇසිඩ් ප්‍රහාරයෙන් පුද්ගලයින් තිදෙනෙකු තුවාල ලබා රත්නපුර ශික්ෂණ රෝහලට ඇතුළත් කර අති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+🟩
 
-රිය අනතුරක් සම්බන්ධ නඩුවක් සඳහා පැමිණෙමින් සිටි පුද්ගලයෙකු ඉලක්ක කර එම ඇසිඩ් ප්‍රහාරය එල්ල කර ඇති අතර ඉන් එම අවස්ථාවේදී මාර්ගයේ ගමන් කරමින් සිටි දරුවන් දෙදෙනෙක්ද තුවාල ලබා ඇති බව වාර්තා වෙයි.
+Azid was attacked by a group of students near the High Court Complex this morning.
 
-ඇසිඩ් ප්‍රහාරයට ලක්ව ඇත්තේ පසුගිය වසරේ සිංහල අලුත් අවුරුදු දා රත්නපුර සමන් දේවාලය අසල සිදු වූ මාරක රිය අනතුරේ ප්‍රධාන සැකකරු බව හඳුනාගෙන ඇත.
+Three people were injured and admitted to the Ratnapura Teaching Hospital with injuries in acid attack.
 
-ඇසිඩ් ප්‍රහාරය එල්ල කළ බවට සැකපිට අදාළ රිය අනතුරෙන් මියගිය තරුණයාගේ පියා රත්නපුර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The acid attack has been launched targeting a person who is on a case of an accident and two children were injured in the road.
+
+Acid was attacked by the new New Year last year, the main suspect of the fatal accident at Sail Devalaya, Ratnapura.
+
+The father of the victim has been arrested by the Ratnapura Police.
 
 ◼️
 
 [Data](articles/5b713eec.json)
+
+[Extended Data](ext_articles/5b713eec.ext.json)
 
 ---
 
@@ -84,39 +182,55 @@ Two students, including the convener of the Inter-University Students' Federatio
 
 [Data](articles/4299e29b.json)
 
+[Extended Data](ext_articles/4299e29b.ext.json)
+
 ---
 
-### ටෙලිකොම් අතුරු තහනම ඉවත් කරන්නැයි ඉල්ලයි
+### Telecom demands to be removed
 
 *2024-03-06 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194208) · `si`
 
-ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ සහ ලංකා හොස්පිට්ල්ස් ආයතනයේ කොටස් පැවරීමේ ක්‍රියාවලිය සම්බන්ධයෙන් නිකුත් කර තිබෙන අතුරු තහනම් නියෝගය ඉවත් කරන ලෙස නීතිපතිවරයා අද (06) අභියාචනාධිකරණය හමුවේ ඉල්ලීමක් කළේය.
+The Attorney General requested the Court to remove an interim injunction order issued by the Institute of Telecom and Lanka Hospitals, affecting the transfer process of selected candidates until March 12. The request was made by General Sumathi Dharmawardena on behalf of Sri Lanka Telecom, Pitigo Commemorate Company, and Himsopitles Company. The petitions were heard by Judge DN Samarakoon at the Court of Appeal.
 
-දැනට තෝරාගෙන ඇති අයදුම්කරුවන් පදනම් කරගෙන එම කොටස් පැවරීමේ ක්‍රියාවලියේ ඉදිරි පියවර ගැනීම මාර්තු මස 12 වනදා තෙක් අත්හිටුවමින් පසුගියදා අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+🟩
 
-ශ්‍රී ලංකා ටෙලිකොම් ආයතනය වෙනුවෙන් ලයිකා මොබයිල් එස්.ඒ.ආර්.එල් සමාගම සහ පිටිගෝ කොමේරිකෝ ඉන්ටර්නැෂනල් සමාගම මෙන්ම ලංකා හොස්පිට්ල්ස් ආයතනය වෙනුවෙන් ලයිකා ලීසිං හෝල්ඩිං සමාගම සහ හයිම්ස් ඉන්ටනැෂනල් සමාගම විසින් ඉදිරිපත් කළ රිට් පෙත්සම් දෙකක් අද යළි කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් සුමති ධර්මවර්ධන මහතා මෙම ඉල්ලීම කර තිබුණි.
+The Attorney General asked the Court today to remove the interim injunction order issued by the Institute of Telecom and Lanka Hospitals.
 
-මෙම පෙත්සම් අද අභියාචනාධිකරනය විනිසුරු ඩී.එන් සමරකෝන් මහතා ඉදිරියේ කැඳවනු ලැබු අතර අදාළ ඉල්ලීම සම්බන්ධයෙන් මේ වනවිට කරුණු දැක්වීම සිදුකරනු ලබයි.
+Based on the currently selected candidates, the transfer of the transfer process was suspended until March 12, an interim injunction.
+
+Extra Solicitor, who was present on behalf of the Attorney General for Sri Lanka Telecom, Pitigo Commemorate Company and Himsopitles Company and Himsopitles Company and Himsopitles Company and Himsopitles.The request was made by General Sumathi Dharmawardena.
+
+The petitions were summoned before the Court of Appeal today, Judge DN Samarakoon and is currently being made regarding the request.
 
 ◼️
 
 [Data](articles/3b26fa7c.json)
 
+[Extended Data](ext_articles/3b26fa7c.ext.json)
+
 ---
 
-### 6 වසරෙන් ඉහළ දරුවන්ට  පාසලේ දී වෘත්තීය මාර්ගෝපදේශනය
+### Career Guidance at School 6 Children
 
 *2024-03-06 15:26:35* · [`adalk`](https://www.ada.lk/breaking_news/6-වසරෙන්-ඉහළ-දරුවන්ට--පාසලේ-දී-වෘත්තීය-මාර්ගෝපදේශනය/11-408450) · `si`
 
-අද වනවිට ලෝකයේ පවතින බොහෝ වෘත්තීන් ඉදිරි වසර කිහිපය තුළ දැකිය නොහැකිවන බවත්, ගෝලීය ආර්ථික අවශ්‍යතා අනුව වෙනස්වන නවීන වෘත්තීය අවස්ථා වෙත දරුවන් යොමු කළ යුත්තේ නිවැරදි වෘත්තීය මගපෙන්වීම් ලබාදෙමින් බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසීය.
+Education Minister Susil Premajayantha emphasizes the importance of career guidance for children, highlighting the need for professional direction as many current occupations will disappear. The Ministry of Education has initiated a significant debate and aims to provide meaningful promotions. This initiative is part of a national program at Maharagama Central College, marking the start of a career guidance course for A/L students across the country, including in Sinhala and Tamil. The program aims to align with the 6th grade reforms, providing clear direction for children's future careers. It is not limited to school-level students and will be conducted by Skills Development Officers in their areas. The Minister also mentioned that the course is designed for students who have sat for the O/L examination, aiming to move away from traditional courses and incorporate updates from the National Institute of Education and curriculum changes.
 
-ඒ අනුව අධ්‍යාපන අමාත්‍යාංශය විසින් මෙවර උසස් පෙළ අවසන් කළ සියලු‍ සිසුදරුවන් වෙත ලබාදී ඇති වෘත්තීය මාර්ගෝපදේශන වැඩසටහන අර්ථවත් පිටුබලයක් සලසනු ඇති බවත්, විභාගය අවසන් කළ දරුවන් ප්‍රතිඵල එනතුරු නිවසේ රඳවා නොගෙන එම වැඩසටහන සමග සම්බන්ධ කරවීම දෙමව්පියන්ගේ වගකීමක් වන බවත් අමාත්‍යවරයා පැවැසීය.
+🟩
 
-අමාත්‍යවරයා මේ අදහස් පළ කළේ, දිවයින පුරා උසස් පෙළට පෙනී සිටි සිසුන් වෙනුවෙන් වෘත්තීය මාර්ගෝපදේශනය, ඉංග්‍රීසි සහ තොරතුරු තාක්ෂණ කුසලතා ලබාදීම වෙනුවෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් ක්‍රියාවට නංවනු ලබන වෘත්තීය පුහුණු පාඨමාලාව ආරම්භ කිරීම නිමිත්තෙන් මහරගම මධ්‍ය මහා විද්‍යාලයේ පැවති ජාතික වැඩසටහනට එක්වෙමිනි.
+Minister of Education Susil Premajayantha said that many of the world's occupations will not be seen in the next few years and the children should be given the right professional guidance.
+
+The Ministry of Education is a meaningful promotions that the Ministry of Education has completed a meaningful debate and the parents who have completed the examination this year, the parents are the responsibility of the parents.
+
+The Minister made these comments participating in the National Program at the Maharagama Central College to mark the initial training course implemented by the Ministry of Education on the A / L students across the country.
+
+The course of the guidance has not been at school level, and in 33,37,000 students who have appeared for students this year, the same course will be held in Sinhala and Tamil.
 
 ...
 
 [Data](articles/222dc617.json)
+
+[Extended Data](ext_articles/222dc617.ext.json)
 
 ---
 
@@ -133,6 +247,8 @@ Meanwhile, the convenor of the IUSF Madushan Chandrajith was also reportedly arr
 ◼️
 
 [Data](articles/0c17a1ff.json)
+
+[Extended Data](ext_articles/0c17a1ff.ext.json)
 
 ---
 
@@ -194,27 +310,35 @@ He said the book will be accessible in both the English and Sinhala languages �
 
 [Data](articles/56cd97f3.json)
 
+[Extended Data](ext_articles/56cd97f3.ext.json)
+
 ---
 
-### නිවාස ණය වාරික වලින් ලක්ෂ 25 ක් වංචා කළ නිලධාරිනිය අල්ලයි
+### Chemper arrested for defrauding Rs. 25 lakhs of housing loan installments
 
 *2024-03-06 15:14:46* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-ණය-වාරික-වලින්-ලක්ෂ-25-ක්-වංචා-කළ-නිලධාරිනිය-අල්ලයි/11-408449) · `si`
 
-නිවාස ණයකරුවන් ගෙවන  වාරික මුදල්  වලින් රුපියල් ලක්ෂ 25 කට ආසන්න මුදලක් වංචා කල බවට සැකපිට කළුතර නිවාස සංවර්ධන අධිකාරියේ ණය අයකර ගැනීමේ නිළධාරිනියක  අත්අඩංගුවට ගත්බව කළුතර කොට්ඨාස  විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි.
+A 44-year-old woman from Waskaduwa was arrested for defrauding Rs. 25 lakhs in housing loan installments. The Kalutara A Housing Divisional Criminal Investigation Unit and the Kalutara Special Criminal Investigation Unit are involved. The case was reported by an audit officer in the Housing Development Court. Investigations show that some of the fraudulent payments have been made, and the police are still investigating.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වස්කඩුව ප්‍රදේශයේ පදිංචි 44 හැවිරිදි කාන්තාවක  බව පොලිසිය කීය.
+🟩
 
-නිවාස සංවර්ධන අධිකරණයේ විගණක නිළධාරියෙක් විසින් කල පැමිණිල්ලක් මත සැකකාරිය අත්අඩංගුවට ගෙන තිබේ.
+The Kalutara A Housing Divisional Criminal Investigation Unit, the Kalutara Special Criminal Investigation Unit, the Kalutara Special Criminal Investigation Unit said.
 
-වංචා කරන ලද රුපියල් ලක්ෂ විසිපහක පමණ මුදලින් කොටසක් ගෙවා ඇති බවත් , රුපියල් ලක්ෂ 17කට අධික මුදලක් සම්බන්ධයෙන් මේ වනවිට විමර්ශන සිදුකරමින් පවතින බවත්  පැවසේ.
+The suspect was a 44 year old woman from the Waskaduwa area.
 
-ණයකරුවන් විසින් ලබාදෙන වාරික වලට ලදුපත් නිකුත් කිරීමේදී කාබන් පිටපත ඉවත්කොට මුදල සඳහන් කරන ස්ථානයේ වංචනික ලෙස වෙනස් කිරීම් කර ඇති බවට මෙතෙක් කල  පරීක්ෂණවලදී හෙළිව ඇතැයි පරීක්ෂණ සිදුකරන නිලධාරියෙක් කීය.
+The suspect has been arrested following a complaint by a audit officer in the Housing Development Court.
 
-ලදුපත් වලට අනුව පරිගණක දත්ත පද්ධතියද වෙනස් කර ඇති බවට මෙතෙක් කළ පරීක්ෂණවලදී අනාවරණය වන බවත්, ඒ සඳහා තවත් නිලධාරීන් සහාය දක්වා ඇද්ද? යන්න සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරන බවත් පොලිසිය සඳහන් කරයි.
+It is said that a portion of the cheated prices have been paid, and is currently under investigation into over Rs.
+
+Investigations have revealed that the carbon copy has been revealed that the carbon copy has been revealed in the area where the carbon copy has been removed and fraudulent in the area.
+
+Investigations made so far revealed that the computer database has been changed to the receipt.The police said that further investigations are conducting further investigations.
 
 ◼️
 
 [Data](articles/07e8628c.json)
+
+[Extended Data](ext_articles/07e8628c.ext.json)
 
 ---
 
@@ -2177,121 +2301,5 @@ Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanen
 [Data](articles/e245b165.json)
 
 [Extended Data](ext_articles/e245b165.ext.json)
-
----
-
-### Suspended end-of-term school tests in WP resume today
-
-*2024-03-06 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97761/suspended-end-of-term-school-tests-in-wp-resume-today) · `en`
-
-The Grade 10 and 11 end-of-term tests of the government schools in the Western Province, which were suspended after exam papers were found to have been leaked, have been resumed.
-
-Accordingly, the students will sit for the rest of the test papers starting today (March 06).
-
-The exam was suspended last week after the Science, English and Mathematics papers for Grades 10 and 11 were leaked to social media platforms prior to the scheduled test dates.
-
-The three subjects that were cancelled are slated to be held after preparing new test papers, the Western Provincial Education Department mentioned.
-
-Meanwhile, the Criminal Investigation Department (CID) has initiated an investigation after a complaint was filed on the matter.
-
-◼️
-
-[Data](articles/62211533.json)
-
-[Extended Data](ext_articles/62211533.ext.json)
-
----
-
-### UK calls for all political parties in SL to honour IMF programme
-
-*2024-03-06 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-calls-for-all-political-parties-in-SL-to-honour-IMF-programme/108-278321) · `en`
-
-Colombo, March 6 (Daily Mirror) - British High Commissioner Andrew Patrick emphasized the need for the main three parties, if not all the major parties, to recognize the agreement with the International Monetary Fund (IMF).
-
-In an interview with Daily Mirror, he said, “I know it's a debated issue here, whether the government should have entered into an IMF deal and what the future of the IMF deal is.
-
-The High Commissioner made such remarks in the wake of the main parties making various remarks about the IMF programme. They even vowed to renegotiate the programme.
-
-“I wanted to say that as Sri Lanka approaches an election, I'm sure there will be candidates who will say that they don't need to have this deal. It's very difficult. Or they will say that they have a different way out, suggesting that renegotiations are easy,” he said.
-
-...
-
-[Data](articles/368684b9.json)
-
-[Extended Data](ext_articles/368684b9.ext.json)
-
----
-
-### Back to us
-
-*2024-03-06 08:39:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வழமைக்குத்திரும்பியது/175-334263) · `ta`
-
-Facebook, Instagram, and Messenger experienced a global outage, lasting about 2 hours, but have since returned to normal. The company apologized on Twitter and promised further repairs.
-
-🟩
-
-Worldwide its users are in great difficulty as Facebook, Instagram and Messenger suddenly crashed into the worldwide
-
-Subsequently, these have returned to normal after about 2 hours.
-
-However, he apologized on his Twitter page and said that it would be repaired again soon. Remble
-
-◼️
-
-[Data](articles/4f1ed312.json)
-
-[Extended Data](ext_articles/4f1ed312.ext.json)
-
----
-
-### Hint of Udayanga Weeratunga on election day
-
-*2024-03-06 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194189) · `si`
-
-Udayanga Weeratunga hints at a general election after the Sinhalese Hindu New Year, criticizing ministers for privileges. Basil Rajapaksa gains support, with over 50 MPs. Charitha Herath claims no political future, while Akila Viraj Kariyawasam supports Wickremesinghe. The SLMC negotiates with UNP and JVP.
-
-🟩
-
-Former Sri Lanka Ambarangama, Sri Lanka Ambarangama, Russia, says that a general election will be announced for a general election after the coming Sinhalese Hindu New Year.
-
-He says that some ministers say that some ministers have been assisted in the present President due to various privileges.
-
-"Kubala has been buried after the Sinhala Year's over the end of the year. We are confident that the majority of the masses in general. Today, Mr. Basil's preparing leads to the front leader. People who accept that. Basil welcomed over 50 MPs. That's a good start. If Ranil Wickremesinghe comes from our party, 50,000 more than Rs.. You will appoint those claims and get more than you. Save the portfolios, you have a vision of the village of the village to get some post. That request is the leader of the pointer. "
-
-The MP Charitha Herath says that there is no political future, the General who destroyed the mandate.
-
-...
-
-[Data](articles/f2d931f6.json)
-
-[Extended Data](ext_articles/f2d931f6.ext.json)
-
----
-
-### I'm not coming to Parliament
-
-*2024-03-06 08:10:37* · [`adalk`](https://www.ada.lk/breaking_news/මම-පාර්ලිමේන්තුවට-එන්නේ-නෑ/11-408441) · `si`
-
-Basil Rajapaksa, Sri Lanka's National Organizer, arrived in Sri Lanka but did not visit Parliament. He mentioned organizing a Common Filling for future elections, despite party MPs being divided.
-
-🟩
-
-Basil Rajapaksa, the National Organizer of the Government of Sri Lanka, arrived in Sri Lanka on the Katunayake airport yesterday (05).
-
-The Chief Government Whip Prasanna Ranatunga was recognized and the General Assembly Sagar Kariyawasam was also present.
-
-He was speaking at the Bandaranaike International Airport and told journalists:
-
-"I go to America every year to America. I'm not coming to Parliament. But the next two elections were organized by the next two election elections, I would organize the Common Filling.
-
-And even though someone contests for these elections, it is in support of the pointer. Our party MPs are divided into several piles. Getting back together. That's the nature of nature.
-
-The Leader, the Leader of the Leader, the leaders of the leaders and their supporters will be made to join the future elections.
-
-◼️
-
-[Data](articles/a42780ae.json)
-
-[Extended Data](ext_articles/a42780ae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 20:02:31**
+As of **2024-03-06 20:17:47**
 
 ## Newspaper Stats
 
-*Scraped **11,299** Articles*
+*Scraped **11,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 578
 dailyftlk | 593
 islandlk | 601
 adalk | 957
-tamilmirrorlk | 1,375
+tamilmirrorlk | 1,376
 adaderanalk | 1,381
 virakesarilk | 1,542
 dailymirrorlk | 1,726
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,768
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,296 (100.0%) of 11,299 articles have been extended.
+11,299 (100.0%) of 11,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
+
+### பெறுமதி சேர் வரி (திருத்தச்) சட்டமூலம் நிறைவேற்றப்பட்டது
+
+*2024-03-06 19:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெறுமதி-சேர்-வரி-திருத்தச்-சட்டமூலம்-நிறைவேற்றப்பட்டது/175-334291) · `ta`
+
+பெறுமதி சேர் வரி (திருத்தச் ) சட்டமூலம் இரண்டாம் மதிப்பீடு மீதான வாக்கெடுப்பு 24 மேலதிக வாக்குகளால் நிறைவேற்றப்பட்டது.
+
+பாராளுமன்றத்தில் இன்று இடம்பெற்ற  பெறுமதி சேர் வரி, சமூக அறவீட்டு வரி உள்ளிட்ட வரி சட்டமூலம் மீதான இரண்டாம் மதிப்பீடு மீதான விவாதம் இடம்பெற்றது.
+
+இதன்போது பெறுமதி சேர் வரி சட்டமூலத்துக்கு சபை அனுமதி வழங்குகிறதா?  என சபாநாயகர் வினவிய போது ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எரான் விக்கிரமரத்ன வாக்கெடுப்பை கோரினார்.
+
+◼️
+
+[Data](articles/4a115564.json)
+
+---
 
 ### Sri Lanka FCDO advice campaign gains UK’s House of Lords support
 
@@ -51,6 +67,8 @@ Naseby urged foreign secretary David Cameron to re-examine the guidance.
 ...
 
 [Data](articles/486cc50f.json)
+
+[Extended Data](ext_articles/486cc50f.ext.json)
 
 ---
 
@@ -904,19 +922,25 @@ He has made a secret confession after the order issued to the prison superintend
 
 ---
 
-### මහ බැංකුව වැටුප් වැඩි කිරිම ගැන මුදල් කාරක සභා වාර්තාව අනුව තීරණයක්
+### The Central Bank is a decision on the Cash Committee Report
 
 *2024-03-06 16:07:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුව-වැටුප්-වැඩි-කිරිම-ගැන-මුදල්-කාරක-සභා-වාර්තාව-අනුව-තීරණයක්/11-408455) · `si`
 
-එක් එක් ආයතන නිෂ්පාදනය වැඩිකර ගැනීම සඳහා වෘත්තීය සමිති සමග සාමුහික ගිවිසුම් ඇතිකර ගන්නා බවත්, එහෙත් එහිදී එක් එක් ආයතන අනුගමනය කරන සූත්‍ර වෙනස් බවත්, මහා බැංකුවේ සේවකයන් වැටුප් වැඩි කිරීම සම්බන්ධයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව සකසන වාර්තාවේදී ඒ ගැන අවධානය යොමුකරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+Prime Minister Dinesh Gunawardena will address trade unions to boost institutional production, focusing on the Cash Committee Report, Parliament's Committee, and Parliament's Chairman.
 
-මහා බැංකුව සම්බන්ධයෙන් පමණක් නොව අනෙකුත් බැංකු ගැනද එහිදී අවධානය යොමුකරන ලෙස පැවසූ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා, ඒ සියලු තොරතුරු සලකා බැලූ වාර්තාවක්, පාර්ලිමේන්තුවේ මුදල් පිළිබඳ කාරක සභාවෙන් බලාපොරොත්තු වන, එහි සභාපති පා. ම. ආචාර්ය හර්ෂ ද සිල්වා මහතා වෙත සඳහන් කළේය.
+🟩
 
-මේ ප්‍රශ්නය පාර්ලිමේන්තුව හැටියට විසඳා ගනිමු, යනුවෙන්ද ඔහු කියා සිටියේය.ඔහු මේ බව කියා සිටියේ, අග්‍රාමාත්‍යවරයාගෙන් අසනු ලබන ප්‍රශ්න යටතේ පා.ම.එස් එම් මරික්කාර් මහතා, 2024.03.06 දින විමසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+Prime Minister Dinesh Gunawardena will focus on the trade unions to increase each institutional production.Said.
+
+Prime Minister Dinesh Gunawardena, who was not focused on the Great Bank but also the report, the Committee of Parliament, the Chairman of Parliament, the Chairman of Parliament. And. He said to Dr. Harsha de Silva.
+
+He said this issue was resolved as parliament, "he said:
 
 ◼️
 
 [Data](articles/5f1143e0.json)
+
+[Extended Data](ext_articles/5f1143e0.ext.json)
 
 ---
 
@@ -1932,25 +1956,35 @@ The Ministry further stated that steps are being taken to introduce training pro
 
 ---
 
-### හලාවත මත්ද්‍රව්‍ය මෙහෙයුමක් අතරතුර පලා යාමට තැත්කළ  සැකකරුවෙකු පොලිස් අත්අඩංගුවට පත්වීමෙන් පසු  මිය යයි
+### Suspect attempting to flee during a drug operation in Chilaw dies after being arrested
 
 *2024-03-06 13:13:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgr920qpz11o) · `si`
 
-හලාවත මත්ද්‍රව්‍ය මෙහෙයුමක් අතරතුර පලා යාමට තැත්කළ  සැකකරුවෙකු පොලිස් අත්අඩංගුවට පත්වීමෙන් පසු  මිය යයි
+A suspect involved in a drug operation in Chilaw died after being arrested. The operation, which began on December 17, is ongoing. Two suspects were arrested, one of whom died. The incident was reported to BBC Sinhala and Eye. The suspects tried to escape but were caught by police. The deceased was taken to Chilaw Hospital, where he was pronounced dead. The other suspect was arrested with over 6 grams of ice. The police have been accused of killing the suspects during arrest.
 
-පොලිසිය විසින් පසුගිය වසරේ දෙසැම්බර් මස 17 වෙනිදා සිට ආරම්භ කළ "යුක්තිය" මෙහෙයුම මේ වන විටත් අඛණ්ඩව ක්‍රියාත්මක වෙමින් පවතී.
+🟩
 
-එම මෙහෙයුම අඛණ්ඩව ක්‍රියාත්මක කරන බව පසුගියදා පැවති මාධ්‍ය හමුවකදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් පැවසුවේය.
+Suspect attempting to flee during a drug operation in Chilaw dies after being arrested
 
-මේ අතර හලාවත කොට්ඨාසයේ පොලිස් විෂ මත්ද්‍රව්‍ය අංශය ක්‍රියාත්මක කළ වැටලීමක් අතරතුර පුද්ගලයෙකු මියයාමේ සිද්ධියක්  මාදම්පේ පොලිස් වසමට අයත් පම්බල ග්‍රාමයෙන්  ( මාර්තු 6 වැනිදා) වාර්තා විය.
+The "justice operation operated from December 17 last year is still underway.
 
-හලාවත කොට්ඨාස විෂ මත්ද්‍රව්‍ය අංශයට ලැබුණු තොරතුරක් මත එම අංශයේ පොලිස් නිලධාරීන් පිරිසක් විසින් ත්‍රිරෝද රථයක් ලුහුබැඳ  ගොස් ඇති අතර එහිදී එම ත්‍රිරෝද රථයේ  සිටි පුද්ගලයින්  දෙදෙනෙකු  ත්‍රිරෝද  රථයෙන් පැන  දිව ගොස් ඇති බව පොලිසිය පැවසුවේය.
+At a media briefing held recently, the operation was continuously implemented.
 
-එම මෙහෙයුමේදී සැකකරුවන් දෙදෙනෙකු පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර ඉන් එක් සැකකරුවෙකු මෙලෙස මරණයට පත්ව තිබේ.
+Meanwhile, a person owned by the Madampe Police Division (March 6) was reported from the Madampe Police Division (March 6).
+
+Police officers have been pursued by a group of police officers on a tip off received by the Chilaw divisional poisoning drug department.
+
+Two suspects have been arrested by the police in the operation, one of them had died.
+
+The incident had told BBC Sinhala, Eye, that the dead man and the suspect who was in custody has tried to escape the police officers.
+
+"My name is antenny herman. This is my house. At about 100 am at around 100 am, two people entered the garden of my home. They ran back on my home without my permission. I followed me too. "
 
 ...
 
 [Data](articles/a51c040e.json)
+
+[Extended Data](ext_articles/a51c040e.ext.json)
 
 ---
 
@@ -2341,25 +2375,5 @@ Ratnayake claimed that the fuel prices published on the official page on X, offi
 [Data](articles/f32c3721.json)
 
 [Extended Data](ext_articles/f32c3721.ext.json)
-
----
-
-### Army training for Pakistan cricket team
-
-*2024-03-06 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194197) · `si`
-
-Pakistan cricket team undergoes special army training from March 25 to April 8, focusing on World Cup preparation.
-
-🟩
-
-The Cricket team has decided to participate in Pakistan cricketers on a special training camp led by Pakistani Army.
-
-The training camp will be held from March 25 to April 8, targeting the Pakistanic Team and World Cup.
-
-◼️
-
-[Data](articles/89b386c0.json)
-
-[Extended Data](ext_articles/89b386c0.ext.json)
 
 ---

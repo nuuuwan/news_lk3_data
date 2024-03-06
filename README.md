@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 09:51:50**
+As of **2024-03-06 10:02:42**
 
 ## Newspaper Stats
 
-*Scraped **11,157** Articles*
+*Scraped **11,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 593
 islandlk | 601
 adalk | 939
 tamilmirrorlk | 1,354
-adaderanalk | 1,358
+adaderanalk | 1,359
 virakesarilk | 1,511
 dailymirrorlk | 1,705
 adaderanasinhalalk | 1,743
@@ -26,31 +26,57 @@ adaderanasinhalalk | 1,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,150 (99.9%) of 11,157 articles have been extended.
+11,157 (100.0%) of 11,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### ජනාධිපති පාර්ලිමේන්තුවට එයි
+### President delivers special statement in parliament
+
+*2024-03-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97763/president-delivers-special-statement-in-parliament) · `en`
+
+President Ranil Wickremesinghe has arrived at the parliament to deliver a special statement.
+
+The parliamentary proceedings, presided over by Speaker Mahinda Yapa Abeywardena, commenced around 9.30 a.m.
+
+◼️
+
+[Data](articles/5d75877a.json)
+
+---
+
+### President arrives in Parliament
 
 *2024-03-06 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194191) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු සභාගර්භයට පැමිණ තිබේ.
+President Ranil Wickremesinghe has arrived at Parliament.
+
+🟩
+
+President Ranil Wickremesinghe has come to the parliament shortly.
 
 ◼️
 
 [Data](articles/f53b6487.json)
 
+[Extended Data](ext_articles/f53b6487.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-03-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194190) · `si`
+
+Parliamentary Council commences.
+
+🟩
 
 ◼️
 
 [Data](articles/4bad7edd.json)
+
+[Extended Data](ext_articles/4bad7edd.ext.json)
 
 ---
 
@@ -72,25 +98,33 @@ Meanwhile, the driver of the lorry is now under arrest in connection with the fa
 
 [Data](articles/d2e44164.json)
 
+[Extended Data](ext_articles/d2e44164.ext.json)
+
 ---
 
-### வவுனியாவில் பெண் ஒருவரின் சடலத்தை அடையாளம் காண உதவுமாறு பொலிஸார் கோரிக்கை
+### In Vavuniya, police demanded to help identify the body of a woman
 
 *2024-03-06 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178028) · `ta`
 
-வவுனியாவில் வயோதிபப் பெண் ஒருவரின் சடலத்தை அடையாளம் காண உதவுமாறு வவுனியா பொலிஸார் செவ்வாய்க்கிழமை (05) தெரிவித்தனர்.
+Vavuniya police are seeking help to identify an elderly woman found dead in Vavuniya Hospital on November 7, 2023. The woman, about 5 feet tall, was unidentified at the time of her death.
 
-வவுனியா வைத்தியசாலையில் கடந்த நவம்பர் மாதம் 07 ஆம் திகதி புள்ளி நிறச் சட்டையுடன் வயோதிபப் பெண் ஒருவர் சிகிச்சை பெற அனுமதிக்கப்பட்டிருந்தார்.
+🟩
 
-அவருக்கான சிகிச்சைகள் வவுனியா வைத்தியசாலையில் இடம்பெற்று வந்த நிலையில் நேற்றைய தினம் குறித்த வயோதிபப்  பெண் சிகிச்சை பலனின்றி மரணமடைந்துள்ளார்.
+Vavuniya police on Tuesday (05) said they would help identify the body of an elderly woman in Vavuniya.
 
-சுமார் 5 அடி உயரமுடைய குறித்த வயோதிபப் பெண் யார் என இதுவரை அடையாளம் காணப்படவில்லை. குறித்த பெண்ணின் சடலம் வவுனியா வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள
+An elderly woman was allowed to receive treatment at the Vavuniya Hospital on November 7 with a dotted shirt.
 
-குறித்த பெண் தொடர்பாக தகவல் தெரிந்தோர் அல்லது உறவினர்கள் வவுனியா வைத்தியசாலையை அல்லது வவுனியா பொலிசாரை தொடர்பு கொள்ளுமாறு பொலிஸார் தெரிவித்துள்ளனர்.
+The elderly woman died yesterday without treatment.
+
+The elderly woman who is about 5 feet tall has not yet been identified. The body of the woman was placed in the autopsy of the Vavuniya Hospital
+
+Police have said that the woman or relatives should contact the Vavuniya Hospital or the Vavuniya Police.
 
 ◼️
 
 [Data](articles/64c18fd9.json)
+
+[Extended Data](ext_articles/64c18fd9.ext.json)
 
 ---
 
@@ -112,33 +146,47 @@ Speaking at the 55th Session of the Human Rights Council in Geneva, the Permanen
 
 ---
 
-### சுழிபுர புத்தர் சிலையை அகற்றா விட்டால் பாரிய போராட்டம் வெடிக்கும் - சுகாஷ் எச்சரிக்கை!
+### If the statue of the Buddha is not removed, the massive struggle will erupt
 
 *2024-03-06 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178027) · `ta`
 
-சுழிபுரத்திலே புத்தர் சிலை ஒன்று வைக்கப்பட்டதாக எங்களுக்கு கிடைக்கப்பெற்ற தகவலை அடுத்து நாங்கள் இங்கே வந்திருக்கின்றோம். அந்த தகவல் உண்மையானது. சவுக்கடி பிள்ளையார் கோவிலுக்கு பின்பாகவும் இராணுவ முகாமிற்கு முன்பாகவும் புத்தர் சிலை வைக்கப்பட்டுள்ளது. இது திட்டமிட்ட ஒரு ஆக்கிரமிப்பு என தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஸ் அவர்கள் தெரிவித்துள்ளார்.
+The Buddha statue in Chiripuram, placed behind the Chowkadi Pillaiyar temple and in front of an army camp, is seen as a systematic occupation by the Tamil National People's Front. Kanagaratnam Sukhas, the media spokesman, calls for its immediate removal to prevent a massive struggle. The Tamil homeland is at stake, with occupations intensifying under President Ranil Wickremesinghe.
 
-நேற்று செவ்வாய்க்கிழமை (05) இரவு குறித்த பகுதிக்கு சென்று பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-கோயிலை ஆக்கிரமிக்கின்ற வகையிலே இந்த புத்தர் சிலை வைக்கப்பட்டுள்ளது. இதை நாங்கள் அனுமதிக்க முடியாது. ஏனென்றால் தமிழர் தாயகம் எங்கும் தற்சமயம், அதுவும் ரணில் விக்கிரமசிங்க அவர்கள் ஜனாதிபதியாக வந்ததன் பின்னர் ஆக்கிரமிப்புகள் மிகத் தீவிரம் பெற்றுள்ளது. அதனுடைய அடுத்தகட்ட பரிமாணம் தான் இந்த புத்தர் சிலை.
+We have come here after the information available to us that a Buddha statue was placed in Chiripuram. That information is real. A statue of Buddha is placed behind the Chowkadi Pillaiyar temple and in front of the army camp. The Tamil National People's Front media spokesman Kanagaratnam Sukhas said this was a systematic occupation.
+
+He was speaking to the media after visiting the area on Tuesday night (05).
+
+The Buddha statue is placed in a manner that occupies the temple. We cannot allow this. This is because the Tamil homeland is now, and the occupations have intensified since Ranil Wickremesinghe became President. The next dimension is the statue of the Buddha.
+
+We tell the army to immediately remove this Buddha statue. If you take appropriate measures to remove it, we will soon talk to the people and organizations around the military camp, and we are going to carry out massive protests against it.. Then we will declare the people as those struggles.
 
 ...
 
 [Data](articles/2893db52.json)
 
+[Extended Data](ext_articles/2893db52.ext.json)
+
 ---
 
-### சமூகப் பாதுகாப்பு உதவுத் தொகை வரி (திருத்தச்) சட்டமூலம் மற்றும் பெறுமதி சேர் வரி திருத்தச் சட்டமூலம் மீதான விவாதத்தை ஒத்திவைக்க வேண்டும் - எதிர்க்கட்சித் தலைவர்
+### Social Security Assistance Tax (Amendment) Bill and Value Added Tax Amendment Bill
 
 *2024-03-06 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178026) · `ta`
 
-சமூகப் பாதுகாப்பு உதவுத் தொகை வரி (திருத்தச்) சட்டமூலம் மற்றும் பெறுமதி சேர் வரி திருத்தச் சட்டமூலம்  தொடர்பில் சட்டமா அதிபர் திணைக்களத்திடம் இருந்து  பரிந்துரை எதுவும் முன்வைக்கப்படாத நிலையில் எவ்வாறு இதனை பராளுமன்ற ஒழுங்குப் பத்திரத்தில் உள்வாங்க முடியும். அதனால் இந்த சட்டமூலத்தை விவாதத்துக்கு எடுத்துக்கொள்ளாமல் ஒத்திவைக்க வேண்டும்  என கேட்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கேள்வி எழுப்பினார்.
+The Social Security Assistance Tax (Amendment) Bill and Value Added Tax Amendment Bill, without Attorney General's recommendation, cannot be included in the Parliamentary Registry. Opposition leader Sajith Premadasa suggests postponing them without debate. The Prime Minister highlighted this issue in Cabinet. The Department of Home Affairs lacks proper programs for implementing legal guidelines, leading to opposition against both tax increases and amendment bills.
 
-சமூகப் பாதுகாப்பு உதவுத் தொகை வரி (திருத்தச்) சட்டமூலம் மற்றும் பெறுமதி சேர் வரி திருத்தச் சட்டமூலம்  தொடர்பில் சட்டமா அதிபரின் பரிந்தரை இன்று (நேற்று) கிடைக்கிறது. அப்படியானால் எவ்வாறு நாளைய (இன்றைய) பாராளுமன்ற ஒழுங்கு பத்திரத்தில் உள்வாங்க முடியும்.  சட்டமா அதிபரின் பரிந்துரைக்கு பின்னரே இது ஒழுங்குப்பத்திரத்தில் உள்வாங்கப்பட வேண்டும்.. இந்த முரண்பாட்டை அமைச்சரவையிலோ அல்லது குழு கூட்டத்திலாே பிரதமர் இந்த விடயத்தை தெரிவித்திருக்கிறார்.
+🟩
+
+How can it be incorporated into the Parliamentary Registry when there is no recommendation from the Attorney General's Department regarding the Social Security Assistance Tax (Amendment) Bill and the Value Added Tax Amendment Bill.. Opposition leader Sajith Premadasa questioned, "I ask you to postpone the bill without debate."
+
+Social Security Assistance Tax (Amendment) Bill and Value Added Tax Amendment Bill is available today (yesterday).. How, then, can be included in tomorrow's (today) parliamentary order?This should be included in the regulation only after the recommendation of the Attorney General.. The Prime Minister has expressed this conflict in the Cabinet or a committee meeting.
 
 ...
 
 [Data](articles/8dc4c5fc.json)
+
+[Extended Data](ext_articles/8dc4c5fc.ext.json)
 
 ---
 
@@ -307,6 +355,8 @@ However, he said the present government could have gone for early negotiations w
 ...
 
 [Data](articles/0142c5b5.json)
+
+[Extended Data](ext_articles/0142c5b5.ext.json)
 
 ---
 
@@ -2145,23 +2195,5 @@ The party leaders have informed the Central Bank officials that it is unfair for
 [Data](articles/04096441.json)
 
 [Extended Data](ext_articles/04096441.ext.json)
-
----
-
-### Transport Minister not efficient, only talks: Gemunu
-
-*2024-03-05 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Transport-Minister-not-efficient-only-talks-Gemunu/108-278288) · `en`
-
-Colombo, March 5 (Daily Mirror) - The current Transport Minister is not efficient with his work and is only limited to his talks, Lanka Private Bus Owners' Association (LPBOA) president Gemunu Wijerathne claimed today.
-
-Addressing the media, he said that even though the government had not reduced the price of Super Diesel, the bus operators will continue with their services.
-
-"It had been two years since Minister Bandula Gunawardana assumed duties as Transport Minister, but nothing has been done for the private bus service. He continuously use to say that while operating 3,000 buses, the Sri Lanka Transport Board (SLTB) incurs a loss of Rs. 10 million per day. If the SLTB incurs such a loss, the Minister should be able to imagine how much of losses the private bus operators incur while operating 14,000 buses per day," Wijerathne said.
-
-...
-
-[Data](articles/c90dba46.json)
-
-[Extended Data](ext_articles/c90dba46.ext.json)
 
 ---

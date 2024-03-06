@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-06 07:31:11**
+As of **2024-03-06 07:43:21**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 1,737
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,127 (100.0%) of 11,128 articles have been extended.
+11,128 (100.0%) of 11,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-06 (Wednesday)
 
-### පොතුහැර ලොරි - ත්‍රිවිල් අනතුරින් 3ක් මරුට
+### 3 killed in Pothuhera lorry
 
 *2024-03-06 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194185) · `si`
 
-පොතුහැර, බුළුගොල්ල හංදිය අසල සිදුවු රිය අනතුරකින් පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+In Pothuhera, a lorry accident killed 3 near Bandagolla Junction, injuring 4 in a three-wheeler. The lorry driver was arrested. A child died in an accident near Pubooni Vidyalaya, and a bicyclist was killed by a lorry in Puthichchana.
 
-අදාළ ප්‍රදේශයේ දී කුරූණෑගල දෙස සිට කොළඹ දක්වා ධාවනය වු එළවළු ප්‍රවාහන ලොරියක් සහ ඊට ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ත්‍රිරෝද රථයක් එකිනෙක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිස් මුලස්ථානය පැවසුවේය.
+🟩
 
-අනතුරින් ත්‍රිරෝද රථයේ ගමන්ගත් පුද්ගලයින් සිව්දෙනෙකු බරපතළ තුවාල ලබා කුරුණෑගල රෝහලට ඇතුළත් කර ඇති අතර එහිදි තිදෙනෙකු මියගොස් තිබේ.
+Three persons were killed in an accident near Bandagolla Junction in Pothuhera.
 
-අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරු පොතුහැර පොලීසිය මඟින් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මුලස්ථානය වැඩිදුරටත් සඳහන් කළේය.
+The accident occurred that the accident had occurred when a three-wheeler had trained a three-wheeler from the area from Kurunegala to Colombo.
 
-මේ අතර නොරච්චෝලය පොලිස් වසමේ පුලච්චේන හංදියේ ඉලංතඩිය අතුරු මාර්ගයේ පුලච්චේන විදුහල අසල සිදුවු අනතුරකින් සිව්හැවිරිදි දරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Four persons in the three-wheeler have been seriously injured and rushed to the Kurunegala hospital while three were killed.
 
-පූලච්චේන දෙසට ධාවනය වූ ලොරි රථයක පාපැදියක් ගැටී අනතුර සිදුව ඇත.
+The driver of the lorry has been arrested by the Pothuhera Police regarding the accident, Police Headquarters added.
 
-අනතුරින් බරපතළ තුවාල ලැබු පාපැදියේ ගමන්කළ කුඩා දරුවා පුත්තලම රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+Meanwhile, a four-year-old child was killed in an accident near the Pubooni Vidyalaya in Puboadhale.
 
-...
+A bicyclist collided with a lorry that was driven to Puthichchana.
+
+The child who was seriously injured in the accident died on admission to the Puttalam Hospital.
+
+Meanwhile, police spokesman's lawyer said that 341 persons were killed during the past two months alone.
+
+◼️
 
 [Data](articles/393c5b86.json)
+
+[Extended Data](ext_articles/393c5b86.ext.json)
 
 ---
 

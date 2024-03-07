@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 18:50:51**
+As of **2024-03-07 19:03:06**
 
 ## Newspaper Stats
 
-*Scraped **11,509** Articles*
+*Scraped **11,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 977
-adaderanalk | 1,401
 tamilmirrorlk | 1,401
-virakesarilk | 1,576
-dailymirrorlk | 1,751
-adaderanasinhalalk | 1,809
+adaderanalk | 1,402
+virakesarilk | 1,577
+dailymirrorlk | 1,752
+adaderanasinhalalk | 1,810
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,509 (100.0%) of 11,509 articles have been extended.
+11,509 (100.0%) of 11,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Sri Lankans among crew members rescued after fatal Houthi attack on ship off Yemen
+
+*2024-03-07 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97803/sri-lankans-among-crew-members-rescued-after-fatal-houthi-attack-on-ship-off-yemen) · `en`
+
+Two Sri Lankans are among the 21 crew members rescued by the Indian warship INS Kolkata from the cargo ship ‘True Confidence’ which was attacked by a missile by Houthi rebels in the Gulf of Aden, according to the Sri Lanka Navy.
+
+The navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sri Lankan nationals has sustained injuries in the attack.
+
+◼️
+
+[Data](articles/4bc1cf90.json)
+
+---
+
+### රාජ්‍ය සංගීත සම්මාන උළෙල උත්කර්ෂවත් ලෙස පැවැත්වෙයි
+
+*2024-03-07 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194265) · `si`
+
+වසර 06කට පසුව රාජ්‍ය සංගීත සම්මාන උළෙල ඊයේ (06) නෙළුම් පොකුණ එළිමහන් රංග පීඨයේ දී පැවැත්විණි.
+
+''සුභාවිත සංගීත කලාවක හෙට දවස” වෙනුවෙන් විශිෂ්ටතම නිර්මාණ සහ ශිල්පීන් ඇගයීම හා දිරිගැන්වීම ප්‍රධාන අරමුණ කරගනිමින් මෙම සම්මාන උළෙල පවත්වයි.
+
+මෙහිදී ජීවිතයට එක් වරක් පමණක් ලැබෙන සංගීතාභිමානීය යාවජීව සම්මාන ප්‍රවීණ සංගීතවේදීන් වන දේවානන්ද වෛද්‍යසේකර සහ ඇන්තනී සුරේන්ද්‍ර යන මහත්වරු දෙපළට හිමිවීම විශේෂත්වයකි.
+
+ළමා, කාන්තා සහ පිරිමි යන කාණ්ඩ යටතේ විවිධ අංශයන් ගණනාවක් යටතේ විශිෂ්ටතම සම්මාන,කුසලතා සම්මාන, ජූරියේ විශේෂ ඇගයීම් ආදී ලෙස සම්මාන සහ සහතික පත්‍ර මෙහිදී පිරිනැමිණි.
+
+බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය විසින් මෙම සම්මාන උළෙල සංවිධානය කර තිබුණි.
+
+◼️
+
+[Data](articles/eba50d89.json)
+
+---
 
 ### Hoouti released 21
 
@@ -49,6 +83,40 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 [Data](articles/212b6dc8.json)
 
 [Extended Data](ext_articles/212b6dc8.ext.json)
+
+---
+
+### சிஐடியில் தடுத்து வைக்கப்பட்டுள்ள ஹரக்கட்டா, குடுசலிந்து இருவரையும் அவதானிக்கச் சென்ற கோட்டை நீதிவான்!
+
+*2024-03-07 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178195) · `ta`
+
+குற்றப் புலனாய்வுத் திணைக்களத்துக்கு வியாழக்கிழமை (07) மாலை கோட்டை நீதவான் திலின கமகே விஜயம் செய்து, விளக்கமறியலில் வைக்கப்பட்டுள்ள குடுசலிந்து மற்றும் ஹரக்கட்டா உள்ளிட்ட சந்தேக நபர்களை அவதானித்துள்ளார்.
+
+சந்தேக நபர்களை நீதிமன்றில் முன்னிலைப்படுத்துமாறும் இவர்களை வெளியே அழைத்துச் செல்லும்போது நீதிமன்றத்துக்கு அறிவிக்குமாறும்  அதன்போது சட்ட உதவிகளை வழங்குமாறும் குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளர்களுக்கு நீதிவான் உத்தரவிட்டுள்ளார்.
+
+தான் காய்ச்சலால் பாதிக்கப்பட்டுள்ளதாக ஹரக்கட்டா நீதிவானிடம் தெரிவித்தபோது அது தொடர்பான சிகிச்சைகளை வழங்குமாறு குற்றப் புலனாய்வு திணைக்களத்துக்கு  நீதிவான் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7eda2c42.json)
+
+---
+
+### Deshabandu’s appointment as IGP challenged before Supreme Court
+
+*2024-03-07 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandus-appointment-as-IGP-challenged-before-Supreme-Court/108-278430) · `en`
+
+Colombo, March 07 (Daily Mirror) -  A Fundamental Rights petition has been filed before the Supreme Court seeking an order preventing Deshabandu Tennakoon from functioning as the Inspector General of Police.
+
+The Anti Corruption Movement affiliated to the Samagi Jana Balawegaya (SJB) filed this petition, further seeking a declaration that newly appointed IGP Deshabandu Tennakoon is unfit to hold public office including any post in the Sri Lanka Police Force.
+
+Convener of the Anti Corruption Movement Niroshan Padukka and Committee Member Ananda Palitha filed this petition naming IGP Deshabandu Tennakoon, members of the Constitutional Council, members of the National Police Commission and the Attorney General as respondents.
+
+The petitioners stated that the appointment of Deshabandu Tennakoon as IGP by the President on February 27 is contrary to the rule of law and violating the provisions of the Constitution.
+
+◼️
+
+[Data](articles/920e0672.json)
 
 ---
 
@@ -2181,105 +2249,5 @@ However, as SLPP, as a party, has not yet made any formal decision.
 [Data](articles/ab3b1b93.json)
 
 [Extended Data](ext_articles/ab3b1b93.ext.json)
-
----
-
-### Udappuwa Police OIC released on bail
-
-*2024-03-07 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194235) · `si`
-
-The OIC of Udappuwa Police CID was released on bail after an argument and assault on civilians. The sub-inspector and others were hospitalized. The driver, owner, and sub-inspector were arrested. The injured sub-inspector was also arrested at the hospital. The situation led to tension and control by Udappuwa and Mundalama Police Stations. Suspects are in Puttalam Court for an identification parade.
-
-🟩
-
-The OIC of the Udappuwa Police Criminal Investigation Division has been released on bail.
-
-A Sub Inspector of the Udappuwa police division in the Udappuwa Police Division on March 5 and several of his friends were reported in an argument and assault on two civilians.
-
-The sub-inspector of the sub-inspector and other two persons were admitted to the Udappuwa hospital for further treatment were transferred to the Puttalam Hospital and the other person to the Chilaw Hospital.
-
-The investigation was revealed that several civilians were present in the sub Inspector's car at the time of the conflict.
-
-Accordingly, the driver of the vehicle has been arrested by the vehicle, the owner, car, car, car and the relevant sub-inspector.
-
-The arrested persons were residents of Udappuwa and Correspondi.
-
-Meanwhile, the injured sub-inspector was also arrested by the Mundalama Police while at the Puttalam Hospital.
-
-...
-
-[Data](articles/344b5dac.json)
-
-[Extended Data](ext_articles/344b5dac.ext.json)
-
----
-
-### Police sergeant arrested for aiding ’Harak Kata’s’ escape bid
-
-*2024-03-07 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-sergeant-arrested-for-aiding-Harak-Katas-escape-bid/108-278413) · `en`
-
-Midigama, March 7 (Daily Mirror) - A police sergeant assigned to the Matara Division Crime Investigation Unit has been arrested for his involvement in aiding and abetting the failed escape attempt of organized criminal Nandun Chinthaka alias 'Harak Kata' from the Criminal Investigation Department (CID).
-
-The 36-year-old sergeant, a resident of Ahangama, was arrested by the Terrorism Investigation Division (TID).
-
-The IGP handed over the investigations into the escape attempt by 'Harak Kata' to the TID.
-
-Accordingly, during the investigations carried out through telephone data, police recovered a motorcycle and a safety helmet brought to the CID to aid Harak Kata's escape attempt.
-
-It was revealed that a person called 'Sudda' was also involved in bringing the helmet and during the investigations regarding the suspect, it was revealed that he had changed his place of residence.
-
-...
-
-[Data](articles/3ac90236.json)
-
-[Extended Data](ext_articles/3ac90236.ext.json)
-
----
-
-### Sri Lanka rupee opens at 307.65/75 to the US dollar
-
-*2024-03-07 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-307-65-75-to-the-us-dollar-153611/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 307.65/75 to the US dollar in the spot forex market Thursday stronger from 307.80/88 a day earlier, dealers said, while bond yields were slightly up.
-
-A bond maturing on 01.08.2026 was quoted at 10.85/11.00 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.90/12.10 percent from 11.90/12.00 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.29/30 percent from 12.20/30 percent.
-
-The Colombo Stock Exchange opened up; the All Share Price Index was up 0.27 percent at 10,910. And the S&P SL20 was up 0.23 percent at 3,107. (Colombo/Mar7/2024)
-
-◼️
-
-[Data](articles/6a11685d.json)
-
-[Extended Data](ext_articles/6a11685d.ext.json)
-
----
-
-### Emergency decision of the Finance Ministry on the Payment
-
-*2024-03-07 10:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவு-குறித்து-நிதியமைச்சின்-அவசர-முடிவு/175-334316) · `ta`
-
-The Finance Ministry will pay Rs 7,500 monthly to 410,000 disabled and unidentified kidney patients, and Rs 3,000 to 820,000 elderly from April 1st, 2025, to March 3rd, 2025.
-
-🟩
-
-The Ministry of Finance has decided to pay for the insurance benefit scheme for the disabled, unidentified kidney patients and those receiving the elderly.
-
-It is reported that appropriate allowances will be made with effect from April 1st.
-
-Accordingly, the 410,000 alternatives will be paid a monthly allowance of Rs 7,500 each and Rs.
-
-In addition, 820,000 people who receive the elderly assistance will be paid Rs 3,000 each.
-
-These allowances should be paid from April 1st to 3rd March 2025 this year, the Finance Ministry said.
-
-◼️
-
-[Data](articles/10993f6a.json)
-
-[Extended Data](ext_articles/10993f6a.ext.json)
 
 ---

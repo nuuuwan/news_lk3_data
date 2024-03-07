@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 18:33:09**
+As of **2024-03-07 18:50:51**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 1,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,507 (100.0%) of 11,509 articles have been extended.
+11,509 (100.0%) of 11,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### හූති ප්‍රහාරයට ලක්වූ නැවේ සිටි 21ක් මුදාගනී
+### Hoouti released 21
 
 *2024-03-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194264) · `si`
 
-යේමනයේ ඒඩ්න් වරායට ඔබ්බෙන් ඒඩ්න් බොක්කේ යාත්‍රා කරමින් පැවති වාණිජ නෞකාවකට හූති කැරලිකරුවන් එල්ලකළ මිසයිල ප්‍රහාර හමුවේ තුවාල ලැබූ සහ නිරුපද්‍රිතව සිටි පුද්ගලයින් 21 දෙනෙකු මුදාගෙන තිබේ.
+Hoouti released 21, rescuing 10 from missile strikes. Indian Navy redeemed suspects with Coltata ship, helicopters, and boats.
 
-INS කොල්කටා නෞකාව, හෙලිකොප්ටර් යානා සහ බෝට්ටු යොදාගනිමින් එම පිරිස මුදාගත් බව ඉන්දීය නාවික හමුදාව මේ බව සඳහන් කළේය.
+🟩
+
+Ten persons were rescued from the missile strikes and a commercialized ship to a commercial ship, Yemen, and the missile attacks on the LTTE's calendar.
+
+The Indian Navy said that the suspects were redeemed by the Coltata ship, helicopters and boats.
 
 ◼️
 
 [Data](articles/212b6dc8.json)
+
+[Extended Data](ext_articles/212b6dc8.ext.json)
 
 ---
 
@@ -1290,21 +1296,27 @@ Maithripala Sirisena said that the house was obtained from a minister and later 
 
 ---
 
-### පරාටේ නීතිය අත්හිටුවීමේ කැබිනට් තීරණය වහාම ක්‍රියාත්මක කරනවා
+### The cabinet decision to suspend the law law will be implemented immediately
 
 *2024-03-07 13:36:03* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීමේ-කැබිනට්-තීරණය-වහාම-ක්‍රියාත්මක-කරනවා/11-408473) · `si`
 
-අවශ්‍ය සංශෝධන පාර්ලිමේන්තුවට ඉදිරිපත් කරන තුරු, පරාටේ නීතිය අත්හිටුවීමේ කැබිනට් තීරණය වහාම ක්‍රියාත්මක කිරීමට කටයුතු කරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී අද සහතික විය. බැංකු අංශයේ තිබෙන බේරුම්කරණ කමිටුව ක්‍රියාත්මක තත්වයට පත්කළ යුතු බවද ඔහු අවධාරණය කළේය.
+The cabinet has decided to immediately implement the suspension of the law law, with Prime Minister Dinesh Gunawardena assuring its prompt execution. The law addresses issues in the banking sector, including loan defaults and public auctions.
 
-අග්‍රාමාත්‍යවරයා මෙම අදහස් පළ කළේ, පවතින පරාටේ නීතිය යටතේ ජනතාවගේ ඉඩම් ඇතුළු දේපළ වෙන්දේසි කිරීමට වාණිජ බැංකු කටයුතු කරමින් සිටින බවත්, එය වැළක්වීමට ආණ්ඩුව මැදිහත් විය යුතු බවත් සඳහන් කරමින්, විපක්ෂ නායකවරයා පාර්ලිමේන්තුවේදී මතු කළ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+🟩
 
-" ඒ නිසා අපි කැබිනට් මණ්ඩලයද ජනාධිපතිතුමා ඉතා පැහැදිලිව මුදල් අමාත්‍යතුමා හැටියට තීරණය කරා මේක කල්දාන්න ඒ අතරතුර වහාම සංශෝධනයක් පාර්ලිමේන්තුවට ගේන්න.
+Prime Minister Dinesh Gunawardena assured in Parliament today to promptly implementation of the Required Amendments to Parliament.. He emphasized that the Settlement Committee in the banking sector should be implemented.
 
-"මේ කියන දේ තමයි අපි සාකච්ඡා කරලා කැබිනට් මණ්ඩලයේ පැමිණි එකඟතාවය. ඒ අනුව මෙය තාවකාලික අත්හිටුවන්න මාස කිහිපයකට තීරණයක් අරන් තියෙනවා. ඒක කියාත්මක කිරීමට උදාවෙනවා."
+The Prime Minister expressed his comments to auction and prevent the government to aucilize the government and the government should intervene in Parliament, saying that the government should intervene in Parliament, saying that the government should intervene.
+
+"Therefore, we also decided as the Cabinet of the Cabinet as Minister of Finance and bring amendment immediately to Parliament.
+
+"This is what we have discussed in the cabinet and attended the Cabinet. Accordingly, this has been taken for several months to suspend temporary suspension. It's up to work. "
 
 ...
 
 [Data](articles/a1fad05e.json)
+
+[Extended Data](ext_articles/a1fad05e.ext.json)
 
 ---
 

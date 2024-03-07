@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 13:02:54**
+As of **2024-03-07 13:17:45**
 
 ## Newspaper Stats
 
-*Scraped **11,437** Articles*
+*Scraped **11,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 966
+adalk | 967
 adaderanalk | 1,390
-tamilmirrorlk | 1,395
-virakesarilk | 1,564
+tamilmirrorlk | 1,396
+virakesarilk | 1,565
 dailymirrorlk | 1,742
 adaderanasinhalalk | 1,787
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 1,787
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,436 (100.0%) of 11,437 articles have been extended.
+11,437 (100.0%) of 11,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### காஸா யுத்தத்துக்கு 5 மாதங்கள் பூர்த்தி: நாகரிகத்துக்கு அவமானம் என்கிறது சீனா
+
+*2024-03-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178153) · `ta`
+
+காஸாவில் நடைபெறும் யுத்தமானது நாகரிகத்துக்கு ஓர் அவமானம் என சீனா விமர்சித்துள்ளதுடன், உடனடியாக போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டும் என வலியுறுத்தியுள்ளது.
+
+இஸ்ரேலுக்கும் ஹமாஸுக்கும் இடையில் கடந்த ஒக்டோபர் 7 ஆம் திகதி ஆரம்பமான யுத்தத்துக்கு இன்றுடன் 5 மாதங்கள் பூர்த்தியாகின்றன.
+
+இந்நிலையில் சீன வெளிவிவகார அமைச்சர் வாங் யீ, பெய்ஜிங்கில் இன்று நடத்திய செய்தியாளர் மாநாட்டில் காஸா யுத்தம் குறித்து கூறுகையில், இது மனித குலத்துக்கு ஒரு துயரம் என்பதுடன், இன்றைய நாகரிகத்துக்கு அவமானமாகும் எனக் கூறினார்.
+
+சுர்வதேச சமூகம் அவசரமாக செயற்பட்டு காஸாவில் உடனடியாக போர் நிறுத்தத்தை ஏற்படுத்துவதுடன், அவசர மனிதாபிமான உதவிகளை உறுதிப்படுத்துவது தார்மீக பொறுப்பாகும் எனவும் அவர் கூறினார்.
+
+காஸாவில் ரமழானுக்கு முன்னர் போர் நிறுத்தத்தை அமுல்படுத்துவதற்கான பேச்சுவார்த்தைகள் எகிப்தில் நடைபெறுகின்றன. போர்நிறுத்த நிபந்தனைகளை தரப்பினரும் ஏற்றுக்கொள்ளச் செய்வதற்கு மத்தியஸ்தர்கள் திணறுகின்றனர்.
+
+◼️
+
+[Data](articles/1cc92634.json)
+
+---
+
+### The mysterious death of the Madrasa student;4 people bail with heavy conditions;Explanation for Moulavi
+
+*2024-03-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178151) · `ta`
+
+Four suspects, including Moulavi, were released on bail with severe conditions for destroying CCTV footage related to the mysterious death of a Madrasa student. The case was postponed, and the student's death remains under investigation.
+
+🟩
+
+The Kalmunai Magistrate's Court released four suspects on bail under a severe condition on charges of destroying the main forensic of CCTV on the mysterious death of the student.
+
+The case was taken up in the presence of Kalmunai Court Justice MSM Samsuddin on Wednesday (6), and four suspects arrested on charges of destroying Sisirvi videos, including Moulavi, were brought to the House.
+
+The magistrate ordered the release of four suspects on bail under a severe condition on charges of destroying the main forensic of the Sisirvi scene, which was kept in the case.
+
+...
+
+[Data](articles/3b89367b.json)
+
+[Extended Data](ext_articles/3b89367b.ext.json)
+
+---
+
+### ධාවනය වෙමින් තිබු බසයක රියදුරු සිහිසුන් වී අනතුරකට ලක්වේ
+
+*2024-03-07 12:45:21* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනය-වෙමින්-තිබු-බසයක-රියදුරු-සිහිසුන්-වී-අනතුරකට-ලක්වේ/11-408470) · `si`
+
+පුද්ගලික බස් රථයක රියදුරුට හටගත් හදීසි රෝගී තත්ත්වයක් හේතුවෙන් ධාවනය කරමින් තිබූ එම බස් රථය
+
+පාලනය කර ගැනීමට නොහැකිව මැදවච්චිය නගරයේ දී නිවසක් සහිත ගරාජයක් තුළට කඩා වැදී දරුණු රිය
+
+අද(07) උදෑසන මෙම පුද්ගලික බස් රථය වවිනියාව ප්‍රදේශයේ පිහිටි පුද්ගලික අඟලුම් හලකට සේවකයින් රැගෙන යමින් සිට ඇත. එහිදී 40 කට ආසන්න සේවකයින් සංඛ්‍යාවක් රැගෙන යමින් සිටි මෙම බස් රථයේ රියදුරු එක් වරම රෝගී වී ඇත. එහිදී රියදුරුට බස් රථය පාලනය කර ගැනීමට නොහැකිව ධාවනය වෙමින් තීබූ ප්‍රදේශයේම පාරෙන් ඉවතට පැන නිවසක් සහිත ගරාජයක ගැටී ඇත. එම අවස්ථාවේ ගරාජයේ හිමිකරු නිවස තුළ සිට නොමැති අතර අනතුරින් ජීවිත හානි කිසිවක් සිදුව නොමැත. ඒ වන විටත් රියදුරුට පියවි සිහිය තිබී නොමැති බව ප්‍රදේශ වාසීහු කියති. එම අනතුරින් 13 දෙනෙකු තුවාල ලබා ඇති අතර ඉන් සුලු තුවාල ලැබූ 06 දෙනෙකු මැදවච්චිය රෝහලේ ප්‍රථිකාර ලබයි. මෙම අනතුරින් බරපතල තුවාල ලැබූ 07 දෙනෙකු වැඩි දුර ප්‍රථිකාර සඳහා අනුරාධපුර ශීක්ෂණ රෝහල වෙත මාරු කර යැවීමට මැදවච්චිය රෝහල් බලධාරින් කටයුතු කළේය.
+
+◼️
+
+[Data](articles/0510f862.json)
+
+---
+
+### அனைத்து குடும்பங்களுக்கும் வீடுகள் வழங்க திட்டம்
+
+*2024-03-07 12:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-குடும்பங்களுக்கும்-வீடுகள்-வழங்க-திட்டம்/175-334324) · `ta`
+
+கொழும்பு கஜிமாவத்தையில் வசிக்கும் அனைத்து வீடற்ற குடும்பங்களுக்கும் வீடுகளை வழங்கத் தேவையான பணிகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+அரசாங்கத்தின் வீடுகள் வழங்கும் கொள்கைகள் மற்றும் அளவுகோல்களுக்கு அமைவாகவே இப்பணிகள் முன்னெடுக்கப்பட வேண்டுமெனவும் ஜனாதிபதி அறிவித்தார்.
+
+கொழும்பு கஜிமாவத்தை வீட்டுப் பிரச்சினை தொடர்பில் புதன்கிழமை (06) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+கொழும்பு மாநகரப் பகுதிக்குள் அரசாங்கத்திற்குச் சொந்தமான, பயன்படுத்தப்படாத கட்டடங்கள் மற்றும் காணிகள் தொடர்பில் ஆராய்ந்து அந்த காணிகளை அபிவிருத்தி செய்து வர்த்தக நடவடிக்கைகளுக்கு வழங்குவதற்கான சாத்தியக்கூறுகள் தொடர்பில் கவனம் செலுத்துமாறு ஜனாதிபதி, அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+
+அரச துறையின் தலையீட்டுடன் தனியார் முதலீடுகள் ஊடாக இந்த வேலைத் திட்டத்தை நடைமுறைப்படுத்துவதன் முக்கியத்துவத்தையும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/26013493.json)
+
+---
 
 ### 13 injured in bus accident
 
@@ -55,28 +133,6 @@ It is also reported that the private bus was transported to the garment stall in
 [Data](articles/223bb855.json)
 
 [Extended Data](ext_articles/223bb855.ext.json)
-
----
-
-### The mysterious death of the Madrasa student;4 people bail with heavy conditions;Explanation for Moulavi
-
-*2024-03-07 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178151) · `ta`
-
-Four suspects, including Moulavi, were released on bail with severe conditions for destroying CCTV footage related to the mysterious death of a Madrasa student. The case was postponed, and the student's death remains under investigation.
-
-🟩
-
-The Kalmunai Magistrate's Court released four suspects on bail under a severe condition on charges of destroying the main forensic of CCTV on the mysterious death of the student.
-
-The case was taken up in the presence of Kalmunai Court Justice MSM Samsuddin on Wednesday (6), and four suspects arrested on charges of destroying Sisirvi videos, including Moulavi, were brought to the House.
-
-The magistrate ordered the release of four suspects on bail under a severe condition on charges of destroying the main forensic of the Sisirvi scene, which was kept in the case.
-
-...
-
-[Data](articles/3b89367b.json)
-
-[Extended Data](ext_articles/3b89367b.ext.json)
 
 ---
 
@@ -282,17 +338,25 @@ Ruwan Wickremesinghe pointed out that Ranil Wickremesinghe has played a major ro
 
 ---
 
-### උඩප්පුව පොලීසියේ අපරාධ විමරෂණ අංශයේ ස්ථානාධිපතිගේ වැඩ තහනම්
+### Udappuwa Police Criminal Investigation Division's OIC suspended
 
 *2024-03-07 11:37:32* · [`adalk`](https://www.ada.lk/breaking_news/උඩප්පුව-පොලීසියේ-අපරාධ-විමරෂණ-අංශයේ-ස්ථානාධිපතිගේ-වැඩ-තහනම්/11-408469) · `si`
 
-උඩප්පුව පොලිස්ථානයේ අපරාධ විමරෂණ අංශයේ ස්ථානාධිපති වරයාගේ රාජකාරි තාවකාලිකව අද 07 දින සිට තහනම් කිරීමට කටයුතු කර ඇතිබව පුත්තලම දිසා භාර නියෝජ්‍ය පොලිස්පති නාලක සිල්වා මහතා පවසයි. මෙසේ රාජකාරිය තාවකාලික තහනමකට ලක්ව ඇත්තේ උඩප්පුව පොලිස්ථානයට අනුයුක්තව සේවය කරනු ලබන අපරාධ විමර්ෂණ අංශයේ ස්ථානාධිපති චාමර කුමාර රාජපක්ෂ යන අය බව මුන්දලම පොලීසිය පවසයි. ඉක්ත් 5දා රාත්‍රියේ උඩප්පුව ප්‍රදේශයේ ගම්මුන් පිරිසක් සහ ස්ථානාධිපතිවරයා අතර ඇති ගැටුමකදී ගම්මුන් හට පරුෂ වචනයෙන් බැන සිදුකළ පහර දීමක් හේතුවෙන් මෙසේ රාජකාරිය තහනමකට ලක්කළ බව නියෝජ්‍ය පොලිස්පත්වරයාගෙන් සිදුකළ විමසීකදී පැවසුවේය.
+The OIC of Udappuwa Police CID was suspended after an incident involving villagers and the OIC. The OIC and two civilians were attacked, and the OIC was hospitalized. Further investigations are underway.
 
-මෙසේ පහර කෑමට ලක්ව තුවාල ලබා රෝහල් ගතකර ඇත්තේ ආඩිමුනේ උඩප්පුව පදිංචි චන්ද්‍ර ප්‍රදීපන් සහ රගුවරන්න නමැති පුද්ගලයින් දෙදෙනෙකි. ඒ අනුව උඩප්පුව ප්‍රාදේශීය රෝහලට ඇතුලත් කරන ලද තුවාල කරුවනගෙන් එක් අයෙකු වැඩිදුර ප්‍රතිකාර සඳහා හලාවත රෝහලට ඇතුලත් කර ඇත.
+🟩
+
+Puttalam District Changes, Nalaka Silva said that the officials of the Udappuwa Police Station was temporarily banned from today.. Mundalama Police say that the duties have been a temporary ban on the Criminal Investigation Division at the Udappuwa Police Center Chamara Kumara Rajapaksa.. According to the Deputy Police, the duties were banned due to a group of villagers and the OIC in the Udappuwa area at Udappuwa at the Udappuwa.
+
+The Udahale of Udigawa, a resident of Udappuwa, Appearuwa, has been hospitalized and hospitalized. Accordingly, the Udappuwa Regional Hospital has been admitted to the Chilaw Hospital for further treatment.
+
+The OIC of the Criminal Investigation Division and two more civilians were traveling in Udappuwa in the Udappuwa area while traveling in the Udappuwa area.
 
 ...
 
 [Data](articles/304108e8.json)
+
+[Extended Data](ext_articles/304108e8.ext.json)
 
 ---
 
@@ -2269,73 +2333,5 @@ The issues facing the Muslim people, the Ampara District Teacher Transfer issue,
 [Data](articles/41f0e48d.json)
 
 [Extended Data](ext_articles/41f0e48d.ext.json)
-
----
-
-### Atire becomes the World’s 1st carbon neutral solid tire company
-
-*2024-03-06 22:22:58* · [`dailyftlk`](https://www.ft.lk/business/Atire-becomes-the-World-s-1st-carbon-neutral-solid-tire-company/34-759229) · `en`
-
-Atire Ltd. CEO and Director Saveen Abeyratne receiving the certificate from the Secretary to the Ministry of Environment Prabath Chandrakeerth
-
-In a ground-breaking move, ATIRE Ltd., the rapidly growing industrial solid tire company based in Sri Lanka, has redefined the standards of environmental responsibility by becoming the world’s first carbon-neutral industrial solid tire manufacturing company.
-
-This incredible milestone, certified by the Sri Lanka Climate Fund - under the Ministry of Environment of Sri Lanka, highlights ATIRE’s commitment to pioneering sustainable industrial practices.
-
-Established in 2019, ATIRE has rapidly become a leading manufacturer and distributor of world-class specialty solid tires, serving diverse industrial sectors across over 40 countries worldwide. Renowned for their performance and longevity, ATIRE’s products cater to various applications, including material handling, construction, agriculture, accessibility, and ports.
-
-...
-
-[Data](articles/16f171c9.json)
-
-[Extended Data](ext_articles/16f171c9.ext.json)
-
----
-
-### Former OIC worries
-
-*2024-03-06 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194223) · `si`
-
-The former OIC of Kalpitiya Police was remanded until March 13, facing allegations of threatening complainants and crack charges. Despite not appealing on Feb 12, he appeared in court the next day and was released on bail. The case is under the supervision of Senior Superintendent of Police Mahesh Kumarasinghe, with the suspects suspended by the Police Commission on Feb 15.
-
-🟩
-
-The former OIC of the Kalpitiya Police had remanded until March 13.
-
-The former OIC was produced before the Puttalam Magistrate's Court today (06).
-
-Puttalam Magistrate Ioma Wimalaratne has issued the order in accordance with the allegations of threatening the complainants and crack charges.
-
-Former OIC of the former OIC was not appealing in court on February 12, but there was no legal action to be held.
-
-The next day's former OIC appeared in court through a motion of the court and was released on bail of Rs.
-
-Senior Superintendent of Police Mahesh Kumarasinghe is maintained by Senior Superintendent of Police Mahesh Kumarasinghe under the supervision of the case in charge of the North Western Province Kithsiri Jayalath.
-
-The suspects have also been suspended from the recommendation of the Police Commission on 15th February.
-
-◼️
-
-[Data](articles/594a5197.json)
-
-[Extended Data](ext_articles/594a5197.ext.json)
-
----
-
-### Have your own pic on postal stamps for Rs.2,000
-
-*2024-03-06 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-your-own-pic-on-postal-stamps-for-Rs-2-000/108-278368) · `en`
-
-Colombo, March 6 (Daily Mirror) - The Sri Lanka Postal Department is offering citizens the chance to design postal stamps featuring their own photographs or events, with a creation cost of Rs.2000, said Postmaster General Ruwan Sathkumara.
-
-Addressing an event organized in Colombo to unveil a stamp for Hatton National Bank (HNB), he announced that individuals can now acquire a sheet of stamps with 20 stamps tailored for special occasions like weddings, gatherings, and parties or their own photographs.
-
-"Families can enhance the uniqueness of their wedding cards by using these stamps, featuring photos of the couple. These stamps can also serve as postal stamps," he mentioned.
-
-◼️
-
-[Data](articles/3bf2bde5.json)
-
-[Extended Data](ext_articles/3bf2bde5.ext.json)
 
 ---

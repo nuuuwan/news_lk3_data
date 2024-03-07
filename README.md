@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 23:52:13**
+As of **2024-03-08 00:17:41**
 
 ## Newspaper Stats
 
-*Scraped **11,564** Articles*
+*Scraped **11,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
 adaderanalk | 1,408
-virakesarilk | 1,586
-dailymirrorlk | 1,761
+virakesarilk | 1,587
+dailymirrorlk | 1,762
 adaderanasinhalalk | 1,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,552 (99.9%) of 11,564 articles have been extended.
+11,566 (100.0%) of 11,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Ottawa: Four children among six found dead in house
+
+*2024-03-07 23:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-Four-children-among-six-found-dead-in-house/108-278454) · `en`
+
+BBC News, Toronto - Canadian police are treating the deaths of four children and two adults at a house in Ottawa as homicides.
+
+Officers were responding to an emergency call placed at approximately 22:52 local time (03:52 GMT) on Wednesday when they found the six people.
+
+Ottawa police chief Eric Stubbs has described the incident as a "mass shooting".
+
+Sri Lanka's High Commission in Ottawa told the BBC on Thursday that the victims were a family of Sri Lankan nationals.
+
+The commission did not provide further details, referring questions to police.
+
+In a statement early on Thursday morning, the Ottawa Police Service called the investigation into the deaths "tragic and complex".
+
+Officials have also said that at least one person had been taken to hospital in the Ottawa area with serious but not life-threatening injuries.
+
+They added that there was no ongoing threat to public safety.
+
+Chief Stubbs called the incident a "real tragedy" that would continue to have a "significant" impact on the whole city.
+
+...
+
+[Data](articles/01b75ede.json)
+
+[Extended Data](ext_articles/01b75ede.ext.json)
+
+---
 
 ### Minister Kanchana says efforts underway to further alleviate fuel prices
 
@@ -48,21 +78,29 @@ These remarks were made during his participation in a press conference titled �
 
 [Data](articles/ab2df36b.json)
 
+[Extended Data](ext_articles/ab2df36b.ext.json)
+
 ---
 
-### කැනඩාවේ වෙඩිතැබීමකින් ශ්‍රී ලාංකික පවුලක 6ක් මරුට
+### Six Sri Lankan family killed in Canada shot
 
 *2024-03-07 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194273) · `si`
 
-කැනඩාවේ අගනුවර වන ඔටාවා හි නිවසක් තුළ සිදුකළ වෙඩිතැබීමකින් ශ්‍රී ලාංකිකයින් බවට හඳුනාගත් පවුලක 6 දෙනෙක් මියගොස් තිබේ.
+A Sri Lankan family in Canada was killed in a shooting. The mother died, children were killed, and the father was hospitalized with serious injuries. One suspect was arrested.
 
-එහිදී එම පවුලේ මව සහ දරුවන් ජීවිතක්ෂයට පත්ව ඇති අතර පියා බරපතළ තුවාල සහිතව රෝහලේ ගත කර ඇත.
+🟩
 
-ඔටාවා පොලීසිය පැවසුවේ මෙම අපරාධය සම්බන්ධයෙන් එක් සැකකරුවෙක් අත්අඩංගුවට  ගත් බවයි.
+A family identified as Sri Lankans have been killed in a shooting in the capital of Canada, the capital of Canada.
+
+The mother of the family had died and children were killed and her father spent hospitalized in the hospital with serious injuries.
+
+The Ottawa Police said that one suspect was arrested on the crime.
 
 ◼️
 
 [Data](articles/4cef2619.json)
+
+[Extended Data](ext_articles/4cef2619.ext.json)
 
 ---
 
@@ -255,6 +293,28 @@ The Swedish government said separately it would take the formal decision for the
 [Data](articles/fc4c1606.json)
 
 [Extended Data](ext_articles/fc4c1606.ext.json)
+
+---
+
+### Although the Cabinet and the president have decided to suspend the Parade law, commercial banks are auctioning for competition - Sajith Premadasa
+
+*2024-03-07 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178181) · `ta`
+
+Sajith Premadasa criticizes the suspension of the Paratete Act by the Cabinet and President, pointing out that commercial banks are not adhering to it. He highlights the importance of the act for micro, small, and medium-sized industries, which contribute significantly to the economy. Premadasa also mentions discussions with international financial institutions about implementing the act without causing banking crises.
+
+🟩
+
+Even the President also announced in Parliament that the Paratete Act was suspended until December 15, but today commercial banks are not implementing this. The Opposition Leader said that after the auction of private banks under the Paratede Act, there was no such thing in passing the law.
+
+I raise this issue for the micro, small and medium -sized industry that contributes to 50% of the country's GDP and 52% of employment. The Opposition Leader said that even if commercial banks did not implement the decision taken by the Cabinet, a Cabinet would not be useful.
+
+Opposition Leader Sajith Premadasa said this while speaking in Parliament on Thursday (07) on the suspension of the Paratete Act and the implementation of it.
+
+...
+
+[Data](articles/3b18bb77.json)
+
+[Extended Data](ext_articles/3b18bb77.ext.json)
 
 ---
 
@@ -528,6 +588,8 @@ Speaking to reporters on Wednesday March 06, State Minister Arundika Fernando sa
 
 [Data](articles/3c7491c2.json)
 
+[Extended Data](ext_articles/3c7491c2.ext.json)
+
 ---
 
 ### 3 women die from breast cancer every day in Sri Lanka!-Doctor Lanka Jayasuriya Dissanayake
@@ -687,6 +749,8 @@ Speaking to reporters on Wednesday March 06, Nanayakkara said there has been pro
 ...
 
 [Data](articles/4d1d83ed.json)
+
+[Extended Data](ext_articles/4d1d83ed.ext.json)
 
 ---
 
@@ -990,6 +1054,8 @@ Transport Minister Bandula Gunawardana said price regulations are being planned 
 
 [Data](articles/3d6dfed9.json)
 
+[Extended Data](ext_articles/3d6dfed9.ext.json)
+
 ---
 
 ### Four-year-old child killed in a lorry
@@ -1081,6 +1147,8 @@ A bond maturing on 01.07.2032 closed at 12.60/13.00 percent up from 12.50/13.00 
 ◼️
 
 [Data](articles/40cb189b.json)
+
+[Extended Data](ext_articles/40cb189b.ext.json)
 
 ---
 
@@ -1235,6 +1303,8 @@ They said there was heavy retail activity in LOLC Group after yesterday’s larg
 ...
 
 [Data](articles/00e3d587.json)
+
+[Extended Data](ext_articles/00e3d587.ext.json)
 
 ---
 
@@ -1456,6 +1526,8 @@ At the time, all performance criteria except one of expenditure arrears were met
 
 [Data](articles/3d775f23.json)
 
+[Extended Data](ext_articles/3d775f23.ext.json)
+
 ---
 
 ### Rohitha Abeygunawardena sought to attack;Investigate through the Private Committee - Chanakyan
@@ -1578,6 +1650,8 @@ In November 2023, Wijesekara told parliament that several countries including Ru
 
 [Data](articles/b64f1d7a.json)
 
+[Extended Data](ext_articles/b64f1d7a.ext.json)
+
 ---
 
 ### The activities that affect the people in the Mannar Island area should be completely stopped
@@ -1685,6 +1759,8 @@ Opposition Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam tweeted Thur
 ...
 
 [Data](articles/2769388f.json)
+
+[Extended Data](ext_articles/2769388f.ext.json)
 
 ---
 
@@ -2177,47 +2253,5 @@ Minister of Transport Lasantha Alagiyawanna has been elected to the post of Chai
 [Data](articles/378ef04a.json)
 
 [Extended Data](ext_articles/378ef04a.ext.json)
-
----
-
-### Commander inspires schoolgirl’s aviation dream at ’’Air Tattoo’’
-
-*2024-03-07 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Commander-inspires-schoolgirls-aviation-dream-at-Air-Tattoo/110-278425) · `en`
-
-The "Air Tattoo - 2024" educational and technical exhibition, held in conjunction with the 73rd anniversary of the Sri Lanka Air Force, was inaugurated yesterday at the Muttraweli Ground in Jaffna. Air Marshal Udeni Rajapaksa, Commander of the Sri Lanka Air Force presenting a symbolic aircraft souvenir to a schoolgirl, inspiring her dream of becoming an aviator.
-
-◼️
-
-[Data](articles/b2014d36.json)
-
-[Extended Data](ext_articles/b2014d36.ext.json)
-
----
-
-### Protesters damages to Mexico President
-
-*2024-03-07 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194245) · `si`
-
-Demonstrators in Mexico protesting the 2014 disappearance of 43 students were hit by a cab, leading to arrests and police using tear gas. President Manuel Lopez Obrador was present at a press conference.
-
-🟩
-
-A group of demonstrators in Mexico has been rolled by a cab, a cab.
-
-The group agitated against the loss of 43 students in 2014.
-
-A video circulation of social media shows that a white cab is hit by the main door of the President.
-
-According to foreign media reports, the president's manuel lopez obtakor was participating in the daily press conference.
-
-It is reported that the police had tear gas to control the protesters and that security barriers were established to prevent protesters from the president.
-
-About 100 people have been arrested for this protest and the damaged by the President was arrested.
-
-◼️
-
-[Data](articles/e76af0ca.json)
-
-[Extended Data](ext_articles/e76af0ca.ext.json)
 
 ---

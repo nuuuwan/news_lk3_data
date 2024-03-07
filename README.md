@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 07:22:10**
+As of **2024-03-07 07:33:04**
 
 ## Newspaper Stats
 
-*Scraped **11,370** Articles*
+*Scraped **11,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,113 @@ dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
 dailyftlk | 605
-islandlk | 611
+islandlk | 612
 adalk | 959
-tamilmirrorlk | 1,383
-adaderanalk | 1,383
+adaderanalk | 1,384
+tamilmirrorlk | 1,385
 virakesarilk | 1,556
-dailymirrorlk | 1,731
-adaderanasinhalalk | 1,773
+dailymirrorlk | 1,737
+adaderanasinhalalk | 1,775
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,370 (100.0%) of 11,370 articles have been extended.
+11,378 (100.0%) of 11,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### වැඩතහනම් කළ දුම්රිය සේවකයින් යළි සේවයට
+
+*2024-03-07 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194227) · `si`
+
+විදේශිකයින් දෙදෙනෙකු හට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් වැඩතහනමකට ලක් වූ දුම්රිය සේවකයින් තිදෙනෙකු යළි සේවයේ පිහිටුවා තිබේ.
+
+මූලික පරීක්ෂණවලින් අනතුරුව ඉදිරි විනය ක්‍රියාමාර්ගවලට යටත්ව එම අදාළ නිලධාරීන් යළි සේවයේ පිහිටුවා ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+පසුගිය 05 වන දින කොළඹ සිට බදුල්ල බලා ධාවනය වූ දුම්රියේ වායූසමීකරණය කරන ලද පළමු පංතියේ මැදිරියක විදේශිකයින් දෙදෙනෙකු ප්‍රවේශ පත්‍ර නොමැතිව ගමන් කිරීම හේතුවෙන් කළහකාරී සිදුවීමක් ඇති වී තිබිණි.
+
+එම සිදුවීම පදනම් කරගනිමින් දුම්රිය ස්ථානාධිපතිවරුන් දෙදෙනෙකු, දුම්රිය නියාමකවරයෙකුගේ සහ දුම්රිය ආරක්ෂක අංශ සාමාජිකයෙකුගේ සේවය අත්හිටුවීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+
+කෙසේවෙතත් අදාළ සිදුවීම සම්බන්ධයෙන් මූලික වාර්තාවක් කැඳවා ඉදිරි පරීක්ෂණවලට යටත්ව දුම්රිය ස්ථානාධිපතිවරුන් දෙදෙනා සහ දුම්රිය නියාමකවරයා යළි සේවයේ පිහිටුවා තිබේ.
+
+අදාළ සිද්ධිය සම්බන්ධයෙන් වැඩතහනමට ලක් වූ නාවලපිටිය දුම්රිය ස්ථානයේ ආරක්ෂක අංශ කාර්යය භාර නිලධාරියාගේ තහනම තවදුරටත් ක්‍රියාත්මක බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+...
+
+[Data](articles/008b56c1.json)
+
+---
+
+### IMF second review of Sri Lanka’s bailout package begins today
+
+*2024-03-07 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97785/imf-second-review-of-sri-lankas-bailout-package-begins-today-) · `en`
+
+The second review of the Extended Fund Facility (EFF) program of International Monetary Fund (IMF) kicks off today (March 07) with an opening meeting scheduled with President Ranil Wickremesinghe.
+
+Taking to his X handle (formerly Twitter), the Finance State Minister Shehan Semasinghe said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
+
+◼️
+
+[Data](articles/0b251d81.json)
+
+---
+
+### President, MR, Basil to discuss possible alliance for polls
+
+*2024-03-07 07:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-MR-Basil-to-discuss-possible-alliance-for-polls/108-278395) · `en`
+
+Colombo, March 7 (Daily Mirror) - Basil Rajapaksa who spearheads the Sri Lanka Podujana Peramuna (SLPP) , along with former President Mahinda Rajapaksa will meet President Ranil Wickremesinghe this evening to discuss the future political arrangements between the two sides ahead of the presidential and parliamentary elections.
+
+Basil Rajapaksa, who was in the United States, arrived in the country on Tuesday.the meeting takes place at a time when electoral alliances are being formed among various parties in view of the national elections pending. Also, it takes place at a time when the parties discuss which election should be conducted first .
+
+A section of the SLPP coordinated by MP Nimal Lanza has already pledged support to the President. The group has already started conducting political rallies across the country to galvanize public support for the President.
+
+Also, Chief Government Whip Prasanna Ranatunga also said the SLPP should back the President.
+
+...
+
+[Data](articles/aa85b6ea.json)
+
+---
+
+### IMF නියෝජිතයින් අද ජනපති හමුවෙයි
+
+*2024-03-07 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194226) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකමේ දෙවන වාරිකයට අදාළ සමාලෝචන කටයුතු අද (07) ආරම්භ කිරීමට නියමිතව තිබේ.
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේ, ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අද පෙරවරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සමාලෝචන කටයුතු ආරම්භ කිරීමට නියමිත බවය.
+
+ඒ අනුව සති දෙකක පමණ කාලයක් සමාලෝචන කටයුතු පැවැත්වීමට නියමිත බව "අද දෙරණ" කළ විමසීමකට පිළිතුරු ලබාදෙමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/d70f7138.json)
+
+---
+
+### Dry weather prevails over the island: Met Dept
+
+*2024-03-07 06:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-prevails-over-the-island-Met-Dept/108-278396) · `en`
+
+Colombo, March 7 (Daily Mirror) - The forecasting division of the National Meteorological Centre said that except for a few showers in the Ratnapura, Galle and Matara districts in the evening or night, mainly dry weather will prevail over the island.
+
+However, misty conditions can be expected at some places in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts during the morning.
+
+Mainly, fair weather will prevail in sea areas around the island.
+
+The winds will be easterly or north-easterly in the sea areas off the coast extending from Mannar to Matara via Kankesanthurai, Trincomalee, Pottuvil and Hambantota, and the winds will be variable in direction in the other sea areas around the island.
+
+◼️
+
+[Data](articles/eb8c0309.json)
+
+[Extended Data](ext_articles/eb8c0309.ext.json)
+
+---
 
 ### Hot weather no longer - keep close
 
@@ -53,6 +143,46 @@ The Department of Meteorology announces a stations in the Western and Sabaragamu
 [Data](articles/189ec5e9.json)
 
 [Extended Data](ext_articles/189ec5e9.ext.json)
+
+---
+
+### NSB Sthree celebrates International Women’s Day 2024 with a special offering
+
+*2024-03-07 06:20:00* · [`islandlk`](http://island.lk/nsb-sthree-celebrates-international-womens-day-2024-with-a-special-offering/) · `en`
+
+As the world celebrates International Women’s Day 2024 under the theme “Invest in Women: Accelerate Progress,” NSB (National Savings Bank) reaffirms its commitment to empowering women and advancing gender equality through financial inclusion and economic empowerment initiatives.
+
+This year’s theme underscores the critical importance of investing in women’s education, health, economic opportunities, and leadership roles to accelerate progress towards a more inclusive and equitable society.
+
+NSB acknowledges the significance of women taking control of their income and actively seeking new avenues for economic empowerment. Financial control empowers women to make informed decisions about their finances, secure their future, and contribute to the economic well-being of their families and communities.
+
+...
+
+[Data](articles/8cfbc6ab.json)
+
+[Extended Data](ext_articles/8cfbc6ab.ext.json)
+
+---
+
+### Posts Department aims Rs.21bn revenue for 2024
+
+*2024-03-07 04:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Posts-Department-aims-Rs-21bn-revenue-for-2024/108-278387) · `en`
+
+Sri Lanka’s Posts Department said it is hoping to record a revenue of Rs.21 billion for 2024 and operate as a self-sustaining institution that is independent of Treasury funds.
+
+Elaborating on the department’s new outlook as a business service provider from a public service provider, Postmaster General Ruwan Sathkumara said that the department has initiated strategic collaborations with the private sector, in order to bridge the revenue gap and reach breakeven.
+
+The department secured an agreement with global logistics and package delivery company United Parcel Service, Sathkumara said.
+
+He shared the information on the sidelines of the commemorative stamp launch for Hatton National Bank’s 135th anniversary, which also saw the Posts Department’s first-ever issuance of a first day cover stamp to a private bank.
+
+Speaking to Mirror Business, Sathkumara emphasised that the department has the potential to capitalise on strategic partnerships, innovative services and public awareness.
+
+...
+
+[Data](articles/245d3e9e.json)
+
+[Extended Data](ext_articles/245d3e9e.ext.json)
 
 ---
 
@@ -99,6 +229,74 @@ Ratnayake said that back in 2022, he had indicated that fuel prices could be sla
 [Data](articles/8caf09d6.json)
 
 [Extended Data](ext_articles/8caf09d6.ext.json)
+
+---
+
+### Salary hike exaggerated to erode independence: Dr. Weerasinghe
+
+*2024-03-07 03:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Salary-hike-exaggerated-to-erode-independence-Dr-Weerasinghe/155-278392) · `en`
+
+Cautions that undermining independence could take SL back to troubled state
+
+The recent uproar over the Central Bank’s salary increases has caught widespread attention and according to Governor Dr. Nandalal Weerasinghe, this controversy is a deliberate attempt to undermine the institution’s autonomy.
+
+He cautioned that exaggerating the salary increases to undermine the financial sector regulator’s independence could severely impact the economy, potentially regressing it to its troubled state just a few years ago.
+
+“Our need for the Central Bank independence in setting wages and salaries for the staff is quite important to avoid undue influence from the fiscal authorities. That was the issue earlier.
+
+The salary issue we can talk temperately, if it is immoral or unethical. That we can discuss separately. But using this issue to oppose the Central Bank or compromise the independence by changing law is a major risk,” he added.
+
+...
+
+[Data](articles/6cb5f5d8.json)
+
+[Extended Data](ext_articles/6cb5f5d8.ext.json)
+
+---
+
+### Model Development Programs
+
+*2024-03-07 02:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-வேலைத்திட்டங்கள்-ஆரம்பித்துள்ளன/175-334312) · `ta`
+
+The government has initiated crucial development programs, with support from India, China, and Western countries. Arundika Fernando, Urban Development and Housing Minister, announced that due to the economic crisis, no development plans were implemented previously. However, with the economy recovering, development work has started, including a project to build 2000 houses in Colombo with Chinese assistance.
+
+🟩
+
+The government has now launched the most essential development programs. Urban Development and Housing Minister Arundika Fernando said India, China and many other Western countries have come forward for investment in this country.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+Due to the economic crisis, no development plans have been implemented in the past. But now that the economy returns to some strong situation, the necessary development work has begun.
+
+The plan to build 2000 houses under Chinese assistance in Colombo and its adjoining areas will be launched. He also said that it is also planned to provide licenses to residents of the stairs. (A)
+
+◼️
+
+[Data](articles/a16d1a7e.json)
+
+[Extended Data](ext_articles/a16d1a7e.ext.json)
+
+---
+
+### Discussion on the educational structure
+
+*2024-03-07 02:42:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்விக்-கட்டமைப்பு-தொடர்பில்-கலந்துரையாடல்/175-334311) · `ta`
+
+The Department of Education held the Third and Fourth Discussions on the National Education Policy Structure Program till 2033, with Parliamentarian Velusamy Radhakrishnan. They investigated amendments and new issues for the National Education Policy Scheme.
+
+🟩
+
+The Department of Education has conducted the Third and Fourth Discussions on the National Education Policy Structure Program till 2033.
+
+The discussion was held recently under the patronage of Parliamentarian Velusamy Radhakrishnan, Chairman of the Department of Education.
+
+The amendments to be made in the National Education Policy Scheme and the new issues to be included in it have been investigated.. (A)
+
+◼️
+
+[Data](articles/7a1c9087.json)
+
+[Extended Data](ext_articles/7a1c9087.ext.json)
 
 ---
 
@@ -153,6 +351,28 @@ Last year, in a similar manner, when the two teams met in the 144th sapphire. Th
 [Data](articles/3d1f050b.json)
 
 [Extended Data](ext_articles/3d1f050b.ext.json)
+
+---
+
+### Low-level teacher capacity key barrier for ed-tech implementation
+
+*2024-03-07 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Low-level-teacher-capacity-key-barrier-for-ed-tech-implementation/108-278389) · `en`
+
+The low level of teacher capacity along with reduced affordability of hardware remains major barriers towards successfully implementing ed-tech in Sri Lanka, a recent Institute of Policy Studies (IPS) study revealed.
+
+The COVID-19 pandemic sparked renewed interest in ed-tech worldwide, leading to diverse impacts in the way it has been integrated into policies, programmes and interventions, while the interest in ed-tech continued to grow in the post-pandemic period.
+
+In Sri Lanka, the Akura initiative and Nenasa programme have been recognised as two such successful ed-tech programmes.
+
+The Akura initiative in Sri Lanka enables schools to connect with parents, individually and collectively, to communicate school activities, send invoices and provide feedback on student learning outcomes, by facilitating clearer and easier communication between schools and parents.
+
+However, the access to and affordability of hardware for the users remain key challenges, in addition to high operational costs.
+
+...
+
+[Data](articles/a159d437.json)
+
+[Extended Data](ext_articles/a159d437.ext.json)
 
 ---
 
@@ -953,24 +1173,6 @@ For over 70 years, Crocodile has been a prominent name in global fashion. Establ
 [Data](articles/cd9b7ba9.json)
 
 [Extended Data](ext_articles/cd9b7ba9.ext.json)
-
----
-
-### NSB Sthree celebrates International Women’s Day 2024 with a special offering
-
-*2024-03-06 21:14:00* · [`islandlk`](http://island.lk/nsb-sthree-celebrates-international-womens-day-2024-with-a-special-offering/) · `en`
-
-As the world celebrates International Women’s Day 2024 under the theme “Invest in Women: Accelerate Progress,” NSB (National Savings Bank) reaffirms its commitment to empowering women and advancing gender equality through financial inclusion and economic empowerment initiatives.
-
-This year’s theme underscores the critical importance of investing in women’s education, health, economic opportunities, and leadership roles to accelerate progress towards a more inclusive and equitable society.
-
-NSB acknowledges the significance of women taking control of their income and actively seeking new avenues for economic empowerment. Financial control empowers women to make informed decisions about their finances, secure their future, and contribute to the economic well-being of their families and communities.
-
-...
-
-[Data](articles/8cfbc6ab.json)
-
-[Extended Data](ext_articles/8cfbc6ab.ext.json)
 
 ---
 
@@ -2037,253 +2239,5 @@ Ten suspects including former Health Minister Keheliya Rambukwella have been rem
 [Data](articles/0c077300.json)
 
 [Extended Data](ext_articles/0c077300.ext.json)
-
----
-
-### Defense Minister of State for Defense Bandara Tennakoon
-
-*2024-03-06 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178090) · `ta`
-
-Defense Minister Bandara Tennakoon met with Maldivian Defense Minister Mohammed Kassan Mumoon, discussing security cooperation, training assistance, and addressing common challenges like climate change and violent extremism.
-
-🟩
-
-Defense Minister of State for Defense Bandara Tennakoon met with the Maldivian Defense Minister of Defense Mohammed Kassan Mumoon yesterday (March 05) at the Maldivian Defense Ministry.
-
-During the meeting, Minister Kassan thanked the Minister for his official visit to the Maldives who welcomed the delegation including the Minister of State Tennakoon.. He thanked the Sri Lankan government and the armed forces for continuous training assistance provided to the Maldives National Security Forces.
-
-Minister Kassan emphasized the importance of security cooperation and the importance of the Maldives and Sri Lanka, and highlighted the significance of the joint venture between the two countries to ensure regional peace and stability.
-
-Minister Tennakoon thanked the Maldives Defense Minister for inviting Maldives to visit. The Minister of Defense has promised to provide continuous military education and training assistance to the Maldives' National Security Forces.
-
-...
-
-[Data](articles/5b038bd1.json)
-
-[Extended Data](ext_articles/5b038bd1.ext.json)
-
----
-
-### Bideen - Trump Battle in November
-
-*2024-03-06 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194212) · `si`
-
-Joe Biden, Democratic candidate, leads, but Donald Trump, Republican candidate, is leading in several states. Nikki Haley won 86 representatives, but Trump won 12 states. The November presidential election will feature Trump vs. Biden.
-
-🟩
-
-The current president Joe Biden is the leading Joor of the Democratic Party (Prime Minister), which is held for the party candidate.
-
-Despite the competitiveness of the Republican Party for candidate, former President Donald Trump is taking the lead in the leading.
-
-His opponent, Niki Halley, has now won two divisions.
-
-There, Primary elections were held for the US Samusette, Massachusette, Texas, Yaka, Virginia, Texas, Yaka, Virginia, Texas, Yaka, Virginia.
-
-The postal voting in the Democratic primary election in Iowa was held yesterday.
-
-The results of the voting of millions of people vote are now being released.
-
-Accordingly, Iowa Postal voting as well as Alabama, California, Colorado, Massachuse, Massachusett, Texas, Youth and Virginia.
-
-However, in the American Samova defeated, Baiden was defeated.
-
-Meanwhile, former President of former President Donald Trump won 12 states who have won the Republican party leader.
-
-However, his rival candidates were able to win the state of Vermont, defeating him.
-
-...
-
-[Data](articles/22f70f9c.json)
-
-[Extended Data](ext_articles/22f70f9c.ext.json)
-
----
-
-### Reservoir
-
-*2024-03-06 16:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-மீது-நீர்த்தாரைப்-பிரயோகம்/175-334289) · `ta`
-
-Police dissolved students in reservoir during demonstration rally organized by Students Federation. Two, including Madushan Chandrajith, arrested.
-
-🟩
-
-Police have used the reservoir to dissolve students who participated in a demonstration rally organized by the Students Federation between the Universities in Punji Borela.
-
-Two students, including Madushan Chandrajith, coordinator of the Inter -Student Federation, have been arrested.
-
-◼️
-
-[Data](articles/5a7be956.json)
-
-[Extended Data](ext_articles/5a7be956.ext.json)
-
----
-
-### UN Food Agency says aid convoy turned away by Israel, looted
-
-*2024-03-06 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97777/un-food-agency-says-aid-convoy-turned-away-by-israel-looted) · `en`
-
-The UN’s food agency on Tuesday said that its aid convoy had been turned away by Israeli forces at a checkpoint to northern Gaza, after which it was looted by “desperate people”.
-
-The World Food Programme said the 14-truck food convoy waited at the Wadi Gaza checkpoint, inside southeast Gaza, for three hours before being turned away by the Israeli army.
-
-It was the first convoy attempted since the agency halted deliveries to the north of Gaza on February 20, after its convoy of trucks faced gunfire and looting.
-
-At the time, the agency described the situation in northern Gaza as “complete chaos and violence due to the collapse of civil order”.
-
-In Tuesday’s incident, after the trucks were rerouted they were stopped by “a large crowd of desperate people who looted the food”, taking about 200 tons, the WFP said in a statement.
-
-...
-
-[Data](articles/f11d1fd3.json)
-
-[Extended Data](ext_articles/f11d1fd3.ext.json)
-
----
-
-### Mannar Pallimunai Village fishermen protest
-
-*2024-03-06 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178088) · `ta`
-
-Fishermen in Mannar Pallimunai Village protested for immediate action on livelihood issues, including disruptions, border problems, and the impact of small business fishermen on coastal sea farms.
-
-🟩
-
-The villagers launched a protest on Wednesday morning (6), demanding speedy measures to be taken on the problems faced by the Mannar Pallimunai village fishermen.
-
-The protests began at 9.30 am today at the St. Lucia Fishermen's Co -operative Society in front of the Pallimunai fish market building.
-
-Hundreds of people participated in the protest, including the school fishermen and the village fishermen.
-
-Those involved in the protests went to the Mannar District Secretariat peacefully carrying banners written by various text.
-
-The village fishermen said that the fishermen of the school were facing various disruptions in retaining their livelihoods and their places.
-
-In addition, fishermen in the Mannar Saudbar Fisheries Department are facing livelihood and fishing border problems.
-
-...
-
-[Data](articles/d91a1055.json)
-
-[Extended Data](ext_articles/d91a1055.ext.json)
-
----
-
-### 50 years for Rabara Virgin Air
-
-*2024-03-06 16:17:55* · [`adalk`](https://www.ada.lk/breaking_news/සප්ත-කන්‍යා-ගුවන්-අනතුරට-අදට-වසර-50ක්/11-408456) · `si`
-
-A tragic air crash involving Martiny's 138 airline, with 191 passengers and 9 staff killed, occurred in Sri Lanka. The Indonesian government and the Governor of the Central Province, Lalith U Gamage, are involved in memorializing the victims.
-
-🟩
-
-182 passengers and 50 passengers for the rabbited virgin air end held today
-
-Devi Gustina Todbin, DEWI GUSTINA TEOBING at the base of the flight crash at the Base of Ravtalan Kellawatiya, the Governor of the Central Province, and the Governor of the Central Province Lalith Jan. Gamage was chaired by Mr. Gamage.
-
-Martiny's 138 airline was destroyed by Indonesia from Indonesia in Sri Lanka, which was 191 passengers in the crash and Makkos to celebrate HjjThere were 182 Indonesian passengers and the nine staff were killed.
-
-The Indonesana government to the Memorial has built monument at the base of the Sri Lankan government.
-
-The tourist chief is a premier program at the time of the end of the fifty years and has a two-minute silence to commemorate the dead.
-
-The Indology, Expendian, Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusani Gusta Tobin said.
-
-...
-
-[Data](articles/9c6917ed.json)
-
-[Extended Data](ext_articles/9c6917ed.ext.json)
-
----
-
-### Equated non -standard drugs
-
-*2024-03-06 16:11:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-மருந்துகளை-கக்கினார்-சமன்/175-334287) · `ta`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, secretly confessed to equating non-standard drugs, following a court order.
-
-🟩
-
-Additional Secretary to the Ministry of Health, Saman Ratnayake, has issued a secret confidential confession in the presence of Magistrate Lochani Abeywickrama Weerasinghe.
-
-He has made a secret confession after the order issued to the prison superintendent to present the suspect Saman Ratnayake in court.
-
-◼️
-
-[Data](articles/eaebb38b.json)
-
-[Extended Data](ext_articles/eaebb38b.ext.json)
-
----
-
-### The Central Bank is a decision on the Cash Committee Report
-
-*2024-03-06 16:07:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුව-වැටුප්-වැඩි-කිරිම-ගැන-මුදල්-කාරක-සභා-වාර්තාව-අනුව-තීරණයක්/11-408455) · `si`
-
-Prime Minister Dinesh Gunawardena will address trade unions to boost institutional production, focusing on the Cash Committee Report, Parliament's Committee, and Parliament's Chairman.
-
-🟩
-
-Prime Minister Dinesh Gunawardena will focus on the trade unions to increase each institutional production.Said.
-
-Prime Minister Dinesh Gunawardena, who was not focused on the Great Bank but also the report, the Committee of Parliament, the Chairman of Parliament, the Chairman of Parliament. And. He said to Dr. Harsha de Silva.
-
-He said this issue was resolved as parliament, "he said:
-
-◼️
-
-[Data](articles/5f1143e0.json)
-
-[Extended Data](ext_articles/5f1143e0.ext.json)
-
----
-
-### Four arrested
-
-*2024-03-06 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194211) · `si`
-
-Four, including a motorcycle rider and supporters, arrested in Jampataviya area. Police found an unused firearm. CCTV footage from Wellampitiya area shows the incident. Suspects held for seven days.
-
-🟩
-
-The motorcycle motorcyclist and a group of persons who had supported the shot of the Jampataviya area on the 25th of the Jampaviya area have been arrested by the Organized Criminal Investigation Division of the Colombo Crimes Division.
-
-The police, who had transported the motorcycle and the three-wheeler transporting the motorcycle and a three-wheeler, had also found another firearm that had not been used for the crime.
-
-After shooting the shooting shooting, a CCTV display of CCTV areas has been found in the Wellampitiya area.
-
-The suspects were permitted to hold seven days after the suspects were produced in court today.
-
-Registration of the Director of the Colombo Crimes Division, the Organized Criarian OIC of the Organized Crime Division (SLFP) team is under the supervision of the OIC of the OIC of the Colombo Crimes Division.
-
-◼️
-
-[Data](articles/0e94d7cc.json)
-
-[Extended Data](ext_articles/0e94d7cc.ext.json)
-
----
-
-### Three -wheeler theft in Nanuoya;Police seeking the help of the public
-
-*2024-03-06 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178085) · `ta`
-
-A three-wheeler, TVS black CP YS 3772, was stolen from Nanuoya on Monday. The owner reported it to the police on Tuesday. The police are seeking the public's help to find it. Call 0775343893 if you have information.
-
-🟩
-
-A three -wheeler parked in front of the Nanuoya Police Division has been stolen on Monday (04). A complaint was lodged at the Nanuoya Police Station on Tuesday (05).
-
-The owner has lodged a complaint with the police that the TVS black three -wheeler, which is a digit digit CP YS 3772, was parked in front of his home without fuel.
-
-The Nanuoya police and the owner have asked the public to immediately report to the nearest police station for 0775343893 if the three -wheeler information is available.
-
-◼️
-
-[Data](articles/08e1a09f.json)
-
-[Extended Data](ext_articles/08e1a09f.ext.json)
 
 ---

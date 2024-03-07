@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 14:17:36**
+As of **2024-03-07 14:33:03**
 
 ## Newspaper Stats
 
-*Scraped **11,451** Articles*
+*Scraped **11,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ dailyftlk | 606
 islandlk | 612
 adalk | 967
 adaderanalk | 1,391
-tamilmirrorlk | 1,396
+tamilmirrorlk | 1,397
 virakesarilk | 1,568
 dailymirrorlk | 1,746
-adaderanasinhalalk | 1,790
+adaderanasinhalalk | 1,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,451 (100.0%) of 11,451 articles have been extended.
+11,451 (100.0%) of 11,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### උද්ඝෝෂකයින් මෙක්සිකෝ ජනපති මැදුරට හානි කරයි
+
+*2024-03-07 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194245) · `si`
+
+මෙක්සිකෝවේ උද්ඝෝෂකයින් පිරිසක් එරට ජනපති මැදුරේ ප්‍රධාන දොර, කැබ් රථයක් හප්පවා පෙරළා දමා තිබේ.
+
+2014 වසරේදී සිසුන් 43ක් අතුරුදන් කිරීමේ සිද්ධියට විරෝධය දක්වමින් එම පිරිස උද්ඝෝෂණය කර තිබුණි.
+
+සමාජ මාධ්‍යයේ සංසරණය වන වීඩියෝවක දැක්වෙන්නේ සුදු පාට කැබ් රථයක් ජනපති මැදුරේ ප්‍රධාන දොරටුවේ හප්පන බවය.
+
+එම අවස්ථාවේ ජනාධිපති Andres Manuel Lopez Obrador එම පරිශ්‍රය තුළ දෛනික මාධ්‍ය හමුවට එක්වෙමින් සිටි බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+උද්ඝෝෂකයින් පාලනය සඳහා පොලීසිය විසින් කඳුළු ගෑස් ප්‍රහාර එල්ලකළ බවත් ජනපති මැදුර තුළට උද්ඝෝෂකයින් පැමිණීම වැළැක්වීමට ආරක්ෂක බාධක ස්ථාපනය කළ බවත් වාර්තා වෙයි.
+
+මෙම විරෝධතාවය සඳහා 100ක පමණ පිරිසක් එක්වී ඇති අතර ජනපති මැදුරට හානිකළ පිරිස අත්අඩංගුවට ගත් බවත් සඳහන් ය.
+
+◼️
+
+[Data](articles/e76af0ca.json)
+
+---
+
+### ව්‍යාජ වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන ගිය පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-03-07 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194244) · `si`
+
+වෛද්‍යවරයෙකු ලෙස පෙනී සිටිමින් බියගම, බණ්ඩාරවත්ත ප්‍රදේශයේ නීතිවිරෝධී ලෙස වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන ගිය පුද්ගලයෙකු බියගම පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+66 හැවිරිදි එම ප්‍රදේශයේම පදිංචිකරුවෙකු වන අදාළ පුද්ගලයා වෛද්‍යවරයෙකු වන සිය පුත්‍රයාගේ නම ව්‍යාජ ලෙස භාවිත කරමින් මෙම වෛද්‍ය ප්‍රතිකාර මධ්‍යස්ථානය පවත්වාගෙන ගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+සැකකරුගේ පුත්‍රයා ලියාපදිංචි වෛද්‍යවරයෙකු වන අතර ඔහු විසින් 2017 වසරේ දී අදාළ වෛද්‍ය මධ්‍යස්ථානය ලියාපදිංචි කර ඇති බව සඳහන්ය.
+
+2023 වසරේ ජුලි මාසයේ දී ඔහු විදෙස්ගත වී ඇති අතර අනතුරුව ඔහුගේ පියා විසින් සිය පුත්‍රයාගේ නම ව්‍යාජ ලෙස භාවිතා කරමින් වෛද්‍යවරයෙකු ලෙස පෙනී සිට අදාළ වෛද්‍ය මධ්‍යස්ථානය පවත්වාගෙන ගොස් තිබේ.
+
+◼️
+
+[Data](articles/7dbacd0d.json)
+
+---
+
+### புதிய மின் இணைப்பு குறித்து வெளியான அறிவிப்பு
+
+*2024-03-07 13:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-மின்-இணைப்பு-குறித்து-வெளியான-அறிவிப்பு/175-334334) · `ta`
+
+புதிய மின் இணைப்பைப் பெற்றுக் கொள்ளும் போது தவணை முறையில் பணம் செலுத்தும் வாய்ப்பு உள்ளதாக மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+பாராளுமன்ற உறுப்பினர் எச்.எம்.தர்மசேன எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே அவர் இதனைக் கூறியுள்ளார்.
+
+மின் இணைப்புக்கான கட்டணத்தில் 25 சதவீத தொகையை மட்டும் செலுத்திவிட்டு, மீதமுள்ள தொகையை 10 அல்லது 12 தவணைகளில் செலுத்தும் வசதியை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a8820df3.json)
+
+---
 
 ### Trade union complaint to governor
 
@@ -2305,71 +2361,5 @@ The president pointed out that some political groups have forgotten the reality 
 [Data](articles/41bc4ee2.json)
 
 [Extended Data](ext_articles/41bc4ee2.ext.json)
-
----
-
-### Hocus pocus plans and good plans
-
-*2024-03-07 00:56:58* · [`dailyftlk`](https://www.ft.lk/columns/Hocus-pocus-plans-and-good-plans/4-759238) · `en`
-
-President Wickremesinghe’s forte is announcing hocus pocus plans. Hocus pocus are statements that suggest and insinuate some beneficial outcome but do not explain how the proposed action will deliver any benefits to society. So RW says he will drive economic growth by creating a green economy, and then lets this hang in the air. He does not do two crucial things to give this claim credibility. He does not explain what a green economy is, and how a green economy will drive economic growth and who will benefit.
-
-...
-
-[Data](articles/e05dc2ab.json)
-
-[Extended Data](ext_articles/e05dc2ab.ext.json)
-
----
-
-### President retaliates to Harsha question
-
-*2024-03-07 00:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷ-கேள்விக்கு-ஜனாதிபதி-பதிலடி/175-334306) · `ta`
-
-President Ranil Wickremesinghe responded to Dr. Harsha de Silva's question about the ongoing international debt renovation work, emphasizing the importance of compliance with all parliamentary parties. He also mentioned an upcoming meeting with party leaders and the presentation of a legal draft post-negotiations with the International Monetary Fund.
-
-🟩
-
-President Ranil Wickremesinghe looked at the leader of the government -funded committee, Dr. Harsha de Silva, the leader of the government -funded committee.
-
-He said this in response to a question posed to the president by Harsha de Silva on Wednesday (06) in Parliament.
-
-As the Minister of Finance, I raise some questions to the President. This means that the work on international debt renovation is currently underway. Just a few months to the election. The next government is looking forward to continuing the programs related to this. I think it is best to make a compliance with all parties that are part of Parliament.
-
-We don't know exactly how long you will be. In this case, we are looking forward to carrying out programs under the leadership of Sajith. I would like to question this.
-
-President Ranil Wickremesinghe replied, "The problem is how long you are going to be the leader of the government finances before you are going to be.". Sampika Ranawaka was also gone.
-
-...
-
-[Data](articles/4ae36897.json)
-
-[Extended Data](ext_articles/4ae36897.ext.json)
-
----
-
-### Murugan
-
-*2024-03-07 00:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-ரொபட்-பயஸை-உயிருடன்-விடுதலை-செய்க/175-334305) · `ta`
-
-Sivagnanam Sridharan appeals for the release of Murugan and Robert Paes from Indian jail, highlighting the plight of Shantan, a young man imprisoned and later released, and the unjust killing of Sivanesan by Sri Lankan soldiers.
-
-🟩
-
-The Chief Minister of Tamil Nadu, the Indian Prime Minister and the Government of Sri Lanka to take steps to join their families, including Murugan and Robert Paes, who are in the Indian jail.. Sivagnanam Sridharan appealed.
-
-He appealed to the debate on the amendments to the Taxes Bill on Wednesday (06) in Parliament.
-
-Sivanesan, a member of the parliament, was unjustly killed in the name of a deep infiltration force by Sri Lankan soldiers.
-
-Meanwhile, I am making our tribute to Shantan, who has embraced the first death for a few days without being imprisoned in India and later released.
-
-It is the biggest crisis and a grievance of a young man who left the age of 53 at the age of 20 who was trying to see his mother, to see relatives.
-
-...
-
-[Data](articles/4b3b93ce.json)
-
-[Extended Data](ext_articles/4b3b93ce.ext.json)
 
 ---

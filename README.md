@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 23:03:01**
+As of **2024-03-07 23:17:59**
 
 ## Newspaper Stats
 
-*Scraped **11,551** Articles*
+*Scraped **11,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 606
 islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
-adaderanalk | 1,406
+adaderanalk | 1,407
 virakesarilk | 1,586
 dailymirrorlk | 1,761
 adaderanasinhalalk | 1,817
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,550 (100.0%) of 11,551 articles have been extended.
+11,551 (100.0%) of 11,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Six of ‘Sri Lankan family’ found shot dead in Ottawa home, including four children
+
+*2024-03-07 22:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97807/six-of-sri-lankan-family-found-shot-dead-in-ottawa-home-including-four-children) · `en`
+
+(AP) — Police in Ottawa on Thursday were investigating a suspected multiple homicide following the deaths of two adults and four children at a house in the southern part of the Canadian capital.
+
+A seventh person was in hospital with serious, but non-life-threatening, injuries. It was not immediately announced how the victims died Wednesday, but the Ottawa mayor referred to the case as a “multiple homicide,” and police said a suspect had been arrested.
+
+Sri Lanka’s high commission in Ottawa said the victims were a family of Sri Lankan nationals who were not Canadian citizens. The high commission said the father survived but his wife and children died, adding that it is in touch with relatives in the country’s capital of Colombo.
+
+Canadian authorities have not confirmed the identities of the deceased, their ages or the identity of the person in hospital.
+
+...
+
+[Data](articles/539be796.json)
+
+---
 
 ### A Sri Lankan who served on a ship attacked by Houthis hurts
 
@@ -2221,27 +2239,5 @@ Earlier, Mr. Premadasa said the location of the wind power project should be chn
 [Data](articles/af3f74af.json)
 
 [Extended Data](ext_articles/af3f74af.ext.json)
-
----
-
-### The lecturer shoots the medical student
-
-*2024-03-07 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194242) · `si`
-
-A medical student in Bangladesh was shot by a lecturer, leading to his arrest after protests against the lecturer's arrest began.
-
-🟩
-
-A medical student was injured in a shooting at a medical college in Bangladesh.
-
-According to media reports, he was arrested yesterday after the patronage began yesterday (06) after the commencement of the protest against the arrest of the lecturer.
-
-There was a dispute between Sharif and 23-year-old medical student and Sharif had shot.
-
-◼️
-
-[Data](articles/82cb5798.json)
-
-[Extended Data](ext_articles/82cb5798.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 01:18:04**
+As of **2024-03-08 01:33:13**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,567 (100.0%) of 11,568 articles have been extended.
+11,568 (100.0%) of 11,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### கனடாவில் துப்பாக்கிச்சூடு :  ஒரே குடும்பத்தைச் சேர்ந்த 6 இலங்கையர்கள் பலி!
+### Shooting in Canada: 6 Sri Lankans belonging to the same family killed
 
 *2024-03-08 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178212) · `ta`
 
-கனடாவின் தலைநகர் ஒட்டாவாவில் உள்ள வீடொன்றில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் இலங்கையர்கள் என அடையாளம் காணப்பட்ட ஒரே குடும்பத்தைச் சேர்ந்த 6 பேர் உயிரிழந்துள்ளனர்.
+In Ottawa, a shooting at a house killed 6 Sri Lankans from the same family, including the mother and children, and seriously injured the father. A suspect was arrested.
 
-இதன்போது தாய் மற்றும் பிள்ளைகள் உயிரிழந்துள்ளதுடன் தந்தை பலத்த காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-இந்தக் குற்றச் சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக ஒட்டாவா பொலிஸார் தெரிவித்தனர்.
+Six people belonging to the same family who were identified as Sri Lankans were killed in a shooting at a house in Ottawa, the capital of Canada.
+
+The mother and children have died and the father has been admitted to the hospital with serious injuries.
+
+Ottawa police said that a suspect was arrested in connection with the crime.
 
 ◼️
 
 [Data](articles/762eb188.json)
+
+[Extended Data](ext_articles/762eb188.ext.json)
 
 ---
 

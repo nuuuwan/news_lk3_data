@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 13:17:45**
+As of **2024-03-07 13:33:35**
 
 ## Newspaper Stats
 
-*Scraped **11,440** Articles*
+*Scraped **11,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,79 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 967
-adaderanalk | 1,390
+adaderanalk | 1,391
 tamilmirrorlk | 1,396
 virakesarilk | 1,565
 dailymirrorlk | 1,742
-adaderanasinhalalk | 1,787
+adaderanasinhalalk | 1,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,437 (100.0%) of 11,440 articles have been extended.
+11,440 (100.0%) of 11,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### காஸா யுத்தத்துக்கு 5 மாதங்கள் பூர்த்தி: நாகரிகத்துக்கு அவமானம் என்கிறது சீனா
+### නව විදුලි සම්බන්ධතාවයට රජයෙන් සහනයක්
+
+*2024-03-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194241) · `si`
+
+නව විදුලි සබඳතාවක් ලබා ගැනීමේදී අය කර ගන්නා ගාස්තුව වාරික වශයෙන් ගෙවීමේ අවස්ථාව ඉදිරියේදී විදුලි පාරිභෝගිකයන්ට හිමිවන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+පාර්ලිමේන්තු මන්ත්‍රී එච්.එම්.ධර්මසේන වාචික පිළිතුරු අපේක්ෂාවෙන් යොමුකළ පැනයකට අද පාර්ලිමේන්තුවේදි පිළිතුරු ලබාදෙමින් ඔහු මේ බව පැවසීය.
+
+එහිදී අදහස් දැක්වූ විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා,
+
+...
+
+[Data](articles/2098198a.json)
+
+---
+
+### Indian painter gets donor hands in rare transplant surgery at Delhi hospital
+
+*2024-03-07 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97792/indian-painter-gets-donor-hands-in-rare-transplant-surgery-at-delhi-hospital) · `en`
+
+An Indian painter who had lost both his hands in an accident has received a new set of limbs after a donation by a woman who had pledged her organs to be used following her death and as doctors at Delhi’s Sir Ganga Ram Hospital performed a complex surgery.
+
+In October 2020, Raj Kumar, now 45, was crossing the railway tracks in Nangloi on his bicycle when he lost control and was run over by the train losing both his hands. Kumar had been using prosthetics but his prosthetic trial was unsuccessful.
+
+His only hope was a hand transplant. And, a pledge by Meena Mehta, former administrative head of a South Delhi school who was declared brain-dead, came to his help.
+
+Kumar underwent a bilateral hand transplant under the team of Dr Mahesh Mangal, Chairman, Department of Plastic and Cosmetic Surgery, and Dr Swaroop Singh Gambhir, Senior Consultant, Plastic and Cosmetic Surgery, at Sir Ganga Ram Hospital.
+
+...
+
+[Data](articles/14d091eb.json)
+
+---
+
+### 5 months of Gaza War: China is a shame for civilization
 
 *2024-03-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178153) · `ta`
 
-காஸாவில் நடைபெறும் யுத்தமானது நாகரிகத்துக்கு ஓர் அவமானம் என சீனா விமர்சித்துள்ளதுடன், உடனடியாக போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டும் என வலியுறுத்தியுள்ளது.
+China criticizes Gaza War as a civilization shame, urging ceasefire. Chinese Foreign Minister Wang Yi calls it a tragedy, highlighting the urgent need for a ceasefire and humanitarian aid. Negotiations for a ceasefire before Ramadan are ongoing in Egypt, with mediators facing challenges in accepting conditions.
 
-இஸ்ரேலுக்கும் ஹமாஸுக்கும் இடையில் கடந்த ஒக்டோபர் 7 ஆம் திகதி ஆரம்பமான யுத்தத்துக்கு இன்றுடன் 5 மாதங்கள் பூர்த்தியாகின்றன.
+🟩
 
-இந்நிலையில் சீன வெளிவிவகார அமைச்சர் வாங் யீ, பெய்ஜிங்கில் இன்று நடத்திய செய்தியாளர் மாநாட்டில் காஸா யுத்தம் குறித்து கூறுகையில், இது மனித குலத்துக்கு ஒரு துயரம் என்பதுடன், இன்றைய நாகரிகத்துக்கு அவமானமாகும் எனக் கூறினார்.
+China has criticized the war in Gaza as an insult to civilization and urged the immediate implementation of the ceasefire.
 
-சுர்வதேச சமூகம் அவசரமாக செயற்பட்டு காஸாவில் உடனடியாக போர் நிறுத்தத்தை ஏற்படுத்துவதுடன், அவசர மனிதாபிமான உதவிகளை உறுதிப்படுத்துவது தார்மீக பொறுப்பாகும் எனவும் அவர் கூறினார்.
+The war between Israel and Hamas on the 7th of October is 5 months today.
 
-காஸாவில் ரமழானுக்கு முன்னர் போர் நிறுத்தத்தை அமுல்படுத்துவதற்கான பேச்சுவார்த்தைகள் எகிப்தில் நடைபெறுகின்றன. போர்நிறுத்த நிபந்தனைகளை தரப்பினரும் ஏற்றுக்கொள்ளச் செய்வதற்கு மத்தியஸ்தர்கள் திணறுகின்றனர்.
+At a press conference held in Beijing today, Chinese Foreign Minister Wang Yi said that this was a tragedy for mankind and a shame for today's civilization.
+
+He said that the international community is urgently working in Gaza and setting up a ceasefire in Gaza and ensuring emergency humanitarian aid is a moral responsibility.
+
+Negotiations to implement a ceasefire before Ramadan in Gaza are held in Egypt. Mediators are struggling to accept the ceasefire conditions.
 
 ◼️
 
 [Data](articles/1cc92634.json)
+
+[Extended Data](ext_articles/1cc92634.ext.json)
 
 ---
 
@@ -74,39 +114,51 @@ The magistrate ordered the release of four suspects on bail under a severe condi
 
 ---
 
-### ධාවනය වෙමින් තිබු බසයක රියදුරු සිහිසුන් වී අනතුරකට ලක්වේ
+### The driver of a travel bus is unconscious and injured
 
 *2024-03-07 12:45:21* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනය-වෙමින්-තිබු-බසයක-රියදුරු-සිහිසුන්-වී-අනතුරකට-ලක්වේ/11-408470) · `si`
 
-පුද්ගලික බස් රථයක රියදුරුට හටගත් හදීසි රෝගී තත්ත්වයක් හේතුවෙන් ධාවනය කරමින් තිබූ එම බස් රථය
+A private bus driver collapsed and crashed into a garage in Medawachchiya, injuring 13, including himself. The driver was unconscious, and the garage owner was not home. The injured were taken to Medawachchiya Hospital, then to Anuradhapura for further treatment.
 
-පාලනය කර ගැනීමට නොහැකිව මැදවච්චිය නගරයේ දී නිවසක් සහිත ගරාජයක් තුළට කඩා වැදී දරුණු රිය
+🟩
 
-අද(07) උදෑසන මෙම පුද්ගලික බස් රථය වවිනියාව ප්‍රදේශයේ පිහිටි පුද්ගලික අඟලුම් හලකට සේවකයින් රැගෙන යමින් සිට ඇත. එහිදී 40 කට ආසන්න සේවකයින් සංඛ්‍යාවක් රැගෙන යමින් සිටි මෙම බස් රථයේ රියදුරු එක් වරම රෝගී වී ඇත. එහිදී රියදුරුට බස් රථය පාලනය කර ගැනීමට නොහැකිව ධාවනය වෙමින් තීබූ ප්‍රදේශයේම පාරෙන් ඉවතට පැන නිවසක් සහිත ගරාජයක ගැටී ඇත. එම අවස්ථාවේ ගරාජයේ හිමිකරු නිවස තුළ සිට නොමැති අතර අනතුරින් ජීවිත හානි කිසිවක් සිදුව නොමැත. ඒ වන විටත් රියදුරුට පියවි සිහිය තිබී නොමැති බව ප්‍රදේශ වාසීහු කියති. එම අනතුරින් 13 දෙනෙකු තුවාල ලබා ඇති අතර ඉන් සුලු තුවාල ලැබූ 06 දෙනෙකු මැදවච්චිය රෝහලේ ප්‍රථිකාර ලබයි. මෙම අනතුරින් බරපතල තුවාල ලැබූ 07 දෙනෙකු වැඩි දුර ප්‍රථිකාර සඳහා අනුරාධපුර ශීක්ෂණ රෝහල වෙත මාරු කර යැවීමට මැදවච්චිය රෝහල් බලධාරින් කටයුතු කළේය.
+The bus was driven by a private bus driver due to the driver of a private bus
+
+Unable to control, Medawachchiya collapsed into a garage with a house in Medawachchiya
+
+The private bus was taken to a private inclination to a private inclination area in Vavuniya this morning (07). The driver of the bus, which was carrying nearly 40, has been ill. The driver was running out of control and accidentally collided with a garage with a house with a house. At that time the owner of the garage is not within the house and has no life damage in danger. Regardes also say that the driver has already unconsciously. 13 injured in the accident and injured in the Medawachchiya Hospital. The Medawachchiya Hospital authorities have been transferred to the Anuradhapura Terrorist Hospital for further injuries.
 
 ◼️
 
 [Data](articles/0510f862.json)
 
+[Extended Data](ext_articles/0510f862.ext.json)
+
 ---
 
-### அனைத்து குடும்பங்களுக்கும் வீடுகள் வழங்க திட்டம்
+### Plan to provide housing for all families
 
 *2024-03-07 12:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-குடும்பங்களுக்கும்-வீடுகள்-வழங்க-திட்டம்/175-334324) · `ta`
 
-கொழும்பு கஜிமாவத்தையில் வசிக்கும் அனைத்து வீடற்ற குடும்பங்களுக்கும் வீடுகளை வழங்கத் தேவையான பணிகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe directs authorities to provide housing for homeless families in Ghazimawatte, Colombo, following a discussion on the Gazihavam Housing issue. The plan includes investigating government-owned properties for housing and trade operations, emphasizing private investment with state intervention.
 
-அரசாங்கத்தின் வீடுகள் வழங்கும் கொள்கைகள் மற்றும் அளவுகோல்களுக்கு அமைவாகவே இப்பணிகள் முன்னெடுக்கப்பட வேண்டுமெனவும் ஜனாதிபதி அறிவித்தார்.
+🟩
 
-கொழும்பு கஜிமாவத்தை வீட்டுப் பிரச்சினை தொடர்பில் புதன்கிழமை (06) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+President Ranil Wickremesinghe has issued a directive to the relevant authorities to carry out the necessary tasks to provide houses to all the homeless families living in Ghazimawatte, Colombo.
 
-கொழும்பு மாநகரப் பகுதிக்குள் அரசாங்கத்திற்குச் சொந்தமான, பயன்படுத்தப்படாத கட்டடங்கள் மற்றும் காணிகள் தொடர்பில் ஆராய்ந்து அந்த காணிகளை அபிவிருத்தி செய்து வர்த்தக நடவடிக்கைகளுக்கு வழங்குவதற்கான சாத்தியக்கூறுகள் தொடர்பில் கவனம் செலுத்துமாறு ஜனாதிபதி, அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+The President also announced that the work should be carried out in accordance with the policies and criteria of the government.
 
-அரச துறையின் தலையீட்டுடன் தனியார் முதலீடுகள் ஊடாக இந்த வேலைத் திட்டத்தை நடைமுறைப்படுத்துவதன் முக்கியத்துவத்தையும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe gave these instructions during a discussion held at the Presidential Office on Wednesday afternoon on the Gazihavam Housing issue in Colombo.
+
+The President also directed the authorities to investigate the government -owned, unused buildings and land within the Colombo Municipal area and focus on the possibility of developing and providing trade operations.
+
+The President also pointed out the importance of implementing this program through private investments with the intervention of the state sector.
 
 ...
 
 [Data](articles/26013493.json)
+
+[Extended Data](ext_articles/26013493.ext.json)
 
 ---
 
@@ -2293,45 +2345,5 @@ Police stated that blood samples were also obtained from the policeman in questi
 [Data](articles/c7e80ae7.json)
 
 [Extended Data](ext_articles/c7e80ae7.ext.json)
-
----
-
-### How Anura and the NPP are winning the public imagination
-
-*2024-03-06 23:00:25* · [`dailyftlk`](https://www.ft.lk/columns/How-Anura-and-the-NPP-are-winning-the-public-imagination/4-759230) · `en`
-
-The secret of Anura Kumara Dissanayaka and the NPP’s success, the reason why the combination is drawing record crowds and is the only political entity in the field to do so, is really simple. It’s the public imagination, stupid!
-
-Anura and the NPP have seized the public imagination in a way that nobody in this election year has. They have done so, not by resorting to base invocations of race and religion as Gotabaya Rajapaksa did. They have done so, because they are not boring while almost all others are; they have not lost credibility as all others have; they are interesting and have social energy while the others are tired and lack authentic passion; they have a positive message which motivates and mobilises while others are shrilly negative, imaginatively timid, stale and samey.
-
-...
-
-[Data](articles/593ed4cf.json)
-
-[Extended Data](ext_articles/593ed4cf.ext.json)
-
----
-
-### A special meeting between President - Muslim MPs
-
-*2024-03-06 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178123) · `ta`
-
-President Ranil Wickremesinghe met with Muslim MPs on Wednesday to discuss the 13th Amendment, addressing issues like teacher transfers, civil service appointments, land disputes, and educational development in the Eastern Province.
-
-🟩
-
-A special meeting between President Ranil Wickremesinghe and Muslim MPs was held on Wednesday (6) at the Parliament building.
-
-President Ranil Wickremesinghe said last week that he would meet Tamil and Muslim parliamentarians in Parliament to provide a joint compliance with Parliament to provide all things besides the police authority for the 13th Amendment to the Constitution.. The meeting took place on Wednesday (6).
-
-Eastern Province Governor Senthil Thondaman and Members of Parliament, Attorney -at -Law HMM. Haris, ALM Ataullah, MC. Faisal Qasim, to Alizahir Maulana, Attorney SMM. Musharraf Mudunabin was also present.
-
-The issues facing the Muslim people, the Ampara District Teacher Transfer issue, the appointment of the Eastern Province Civil Administrative Service Officers, the land issues, the permission of the Kattankudy school in the Kattankudy school, and the Batticaloa district education development matters.
-
-◼️
-
-[Data](articles/41f0e48d.json)
-
-[Extended Data](ext_articles/41f0e48d.ext.json)
 
 ---

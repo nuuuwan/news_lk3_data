@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 09:02:58**
+As of **2024-03-07 09:17:58**
 
 ## Newspaper Stats
 
-*Scraped **11,388** Articles*
+*Scraped **11,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 591
 dailyftlk | 605
 islandlk | 612
 adalk | 959
-adaderanalk | 1,384
+adaderanalk | 1,386
 tamilmirrorlk | 1,386
 virakesarilk | 1,556
 dailymirrorlk | 1,737
@@ -26,65 +26,121 @@ adaderanasinhalalk | 1,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,385 (100.0%) of 11,388 articles have been extended.
+11,388 (100.0%) of 11,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### හරක් කටා ට පැනයෑමට උදව් කළ පොලිස් සැරයන් අත්අඩංගුවට
+### Police Sergeant arrested for aiding and abetting “Harak Kata’s” escape bid
 
-*2024-03-07 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194231) · `si`
+*2024-03-07 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97787/police-sergeant-arrested-for-aiding-and-abetting-harak-katas-escape-bid) · `en`
 
-නඳුන් චින්තක නොහොත් 'හරක් කටා' යන සංවිධානාත්මක අපරාධකරු අපරාධ පරීක්ෂණ දෙපාර්මේන්තුවෙන් පැන යාමට තැත් කිරීමේ සිද්ධියට ආධාර අනුබල දුන් පොලිස් සැරයන්වරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A police officer has been arrested on charges of aiding and abetting the foiled attempt by the notorious criminal figure Nadun Chinthaka alias “Harak Kata” to escape custody.
 
-නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, අදාළ පොලිස් සැරයන්වරයාව ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාසය විසින් එලෙස අත්අඩංගුවට ගෙන ඇති බවය.
+The apprehended officer was identified as a 36-year-old Police Sergeant attached to the Matara Divisional Crimes Investigation Division.
 
-දුරකථන දත්ත ඔස්සේ සිදුකරන ලද විමර්ශනයේ දී හරක් කටා ට පළායෑමට භාවිත කිරීමේ අරමුණින් රැගෙන එන ලද යතුරුපැදියක් හා ආරක්ෂක හිස් වැසුමක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තිබී අත්අඩංගුවට ගෙන තිබිණි.
+The Terrorism Investigation Division (TID) is conducting further investigations into the suspect under the provisions of the Prevention of Terrorism Act (PTA).
 
-එම ආරක්ෂක හිස්වැසුම රැගෙන ඒම සඳහා සුද්දා නැමති පුද්ගලයෙකු සම්බන්ධ වී තිබූ අතර, එම සැකකරු සම්බන්ධයෙන් සොයා බැලීමේ දී ඔහු පදිංචි ස්ථානයෙන් මඟහැර ගොස් ඇති බවට අනාවරණය වුණි.
+◼️
 
-සුද්දා නැමති එම පුද්ගලයා පිළිබඳව තවදුරටත් දුරකථන විශ්ලේෂණ සිදුකර ඇති අතර, එහිදී සුද්දා යන අය මාතර කොට්ඨාස අපරාධ විමර්ශන අංශයට අනුයුක්ත පොලිස් සැරයන්වරයෙකු සමග සම්බන්ධ වී ඇති බවට තොරතුරු අනාවරණය වී ඇත.
-
-...
-
-[Data](articles/d1aa6fe9.json)
+[Data](articles/ac082a33.json)
 
 ---
 
-### හූති කැරලිකරුවන්ගෙන් වෙළෙඳ නෞකාවකට ප්‍රහාරයක්
+### Police Sergeant arrested for helping beef
+
+*2024-03-07 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194231) · `si`
+
+A police sergeant was arrested for supporting the Organization Occupiers' 'Beef' announcement. The arrest was made by the Terrorist Prevention and Investigation Division, and a motorcycle and protective gear were seized. Suddha, involved in the operation, is attached to the Matara Division Criminal Investigation Division. The sergeant was also involved in the Criminal Investigation Department.
+
+🟩
+
+A police sergeant has been arrested for supporting the announcement of the Organization Occupiers 'Beef' or 'Beef'.
+
+The police media division issued an announcement, said the police sergeant had been arrested by the Terrorist Prevention and Investigation Division.
+
+A motorcycle and a protective empower was arrested in the CID in the investigation of the telephone data.
+
+A man named Suddha had been involved in the operation to bring the helmet.
+
+It has been revealed that the person named Suddha has been carried out further, while Suddha is attached to the Matara Division Criminal Investigation Division.
+
+In addition, it has been revealed that the sergeant had been involved in the 'Criminal Investigation Department' to the Criminal Investigation Department.
+
+Accordingly, the police sergeant has been arrested in the Midigama Police Division yesterday.
+
+◼️
+
+[Data](articles/d1aa6fe9.json)
+
+[Extended Data](ext_articles/d1aa6fe9.ext.json)
+
+---
+
+### Three crew members killed in Houthi missile attack on cargo ship
+
+*2024-03-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97786/three-crew-members-killed-in-houthi-missile-attack-on-cargo-ship) · `en`
+
+A missile attack by Yemen’s Houthi rebels on a commercial ship in the Gulf of Aden on Wednesday killed three of its crew members and forced survivors to abandon the vessel, the U.S. military said. It was the first fatal strike in a campaign of assaults by the Iranian-backed group over Israel’s war on Hamas in the Gaza Strip.
+
+The attack on the Barbados-flagged, Liberian-owned bulk carrier True Confidence further escalates the conflict on a crucial maritime route linking Asia and the Middle East to Europe that has disrupted global shipping. The Houthis have launched attacks since November, and the U.S. began an airstrike campaign in January that so far hasn’t halted their attacks.
+
+...
+
+[Data](articles/c26aac96.json)
+
+---
+
+### Houthi rebels an attack on a vessel
 
 *2024-03-07 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194230) · `si`
 
-දකුණු යේමනයේ භාණ්ඩ ප්‍රවාහන නෞකාවකට හූති කැරලිකරුවන් එල්ල කළ මිසයිල ප්‍රහාරයකින් එම නෞකාවේ කාර්යය මණ්ඩල සාමාජිකයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Houthi rebels attacked a vessel in South Yemen, killing three crew members and injuring four. The target was the Carbados Flagged Pargery Transport Ship in the Gulf of Aid, marking the first attack on cargo ship staff.
 
-ඒඩ්න් බොක්ක ආශ්‍රිත මුහුදු ප්‍රදේශයේ දී බාබඩෝස් ධජය සහිත භාණ්ඩ ප්‍රවාහන නෞකාවක් ඉලක්ක කරගනිමින් කැරලිකරුවන් විසින් මෙම ප්‍රහාරය එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-එහිදී නෞකාවේ කාර්යය මණ්ඩල සාමාජිකයින් තිදෙනෙකු මියගොස් තවත් සිව් දෙනෙකු බරපතළ තුවාල ලබා තිබේ.
+Three staff members of the ship was killed in a missile attack on a suitile boat to an expedition of goods in the South Yemen.
 
-ගාසා තීරයේ පවතින ඊශ්‍රායලය සහ හමාස් යුද ගැටුම්වල දී පලස්තීනුවන්ට සහය පළකිරීමේ අරමුණින් මෙම ප්‍රහාරය එල්ල කළ බව හූති කැරලිකරුවන් පෙන්වාදෙයි.
+The attack targeted the attack targeting the Carbados Flag, aimed at the Carbadadadadadadadadadadad Pargery Transport Ship in the Gulf of Aid.
 
-කෙසේවෙතත් භාණ්ඩ ප්‍රවාහන නෞකාවකට හූති කැරලිකරුවන් එල්ල කළ ප්‍රහාරයකින් එහි කාර්යය මණ්ඩල සාමාජිකයින් මියගිය පළමු අවස්ථාව මෙය ලෙස සැලකේ.
+Three staff members of the ship were killed and four others were seriously injured.
+
+The attack on the attack on Palestinians in the conflict in the Gaza and Hamas conflict the attack.
+
+However, this is the first time that the staff deceased to an excitement of the cargo vebility.
 
 ◼️
 
 [Data](articles/e3f4858d.json)
 
+[Extended Data](ext_articles/e3f4858d.ext.json)
+
 ---
 
-### ළමා අපයෝජකයින්ගේ නම් ලැයිස්තුවක් ළඟදීම
+### Soon a list of child abusers
 
 *2024-03-07 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194229) · `si`
 
-ළමා ලිංගික අපයෝජන චෝදනාවන්ට වරදකරුවන් වූ පුද්ගලයින්ගේ නාමලේඛනයක් සකස් කිරීමට බලාපොරොත්තු වන බව ජාතික ළමා ආරක්ෂක අධිකාරිය පවසයි.
+The National Child Protection Authority (NVQ) plans to compile a list of individuals charged with child sexual abuse, aiming to mitigate risks to children. Chairperson Udaya Kumara Amarasinghe highlighted the increase in sexual abuse incidents over the past year, with 1,618 cases reported in 2022 and 1,497 in 2023.
 
-එම අධිකාරියේ සභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය උදය කුමාර අමරසිංහ මහතා පැවසුවේ, අදාළ පුද්ගලයින්ගෙන් ළමුන්ට පවතින අවදානම පිළිබඳව සලකා බලා මෙම පියවර ගෙන ඇති බවය.
+🟩
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් උදය කුමාර අමරසිංහ මහතා මේ බව සඳහන් කළේය.
+The National Child Protection Authority (NVQ) stated that he is looking to prepare a list of persons who are guilty of child sexual abuse charges.
+
+The Chairperson of the Authority Udaya Kumara Amarasinghe said that the measures had been taken to consider the risk of children from the relevant persons.
+
+He was speaking at a media briefing held in the Health Promotion Bureau.
+
+"Especially sexually abuse errors, especially sexually abuse, suffering and punishes and have a risk for children. So you have to create a way to limit these. We have already proposed some methods. The Child Protection Authority is planning to make a list of child abuse offenders. Those who are free, but those who need can take that information. Secondly, we are discussing that sexual abuse has ended the punishment periods of serious abuse.
+
+The Udaya Kumara Amarasinghe said that it would increase a growth in sexual abuse incidents on children over the past year.
 
 ...
 
 [Data](articles/128bbec2.json)
+
+[Extended Data](ext_articles/128bbec2.ext.json)
 
 ---
 
@@ -2231,45 +2287,5 @@ Police investigations have revealed that a person who had been waiting for him h
 [Data](articles/8f0c48f6.json)
 
 [Extended Data](ext_articles/8f0c48f6.ext.json)
-
----
-
-### Convener arrested in Borella to Borella
-
-*2024-03-06 16:50:29* · [`adalk`](https://www.ada.lk/breaking_news/අන්තරේට-බොරැල්ලෙදී-ජල-ප්‍රහාරයක්--කැඳවුම්කරු-අත්ඩංගුවට/11-408458) · `si`
-
-Police arrested Madushan Chandrajith, convener of the Inter University Students Federation, during a protest march at Borella Junction.
-
-🟩
-
-Police attacked a protest march organized by the Inter University Students Federation at Borella Junction. Meanwhile, convener of the Inter University Students Federation Madushan Chandrajith has been arrested, police said.
-
-◼️
-
-[Data](articles/f2fcfc5a.json)
-
-[Extended Data](ext_articles/f2fcfc5a.ext.json)
-
----
-
-### Death medical student witnesses evidence
-
-*2024-03-06 16:47:24* · [`adalk`](https://www.ada.lk/breaking_news/මියගිය-වෛද්‍ය-සිසුවා-ගේ-මරණ-පරීක්ෂණයේ-සාක්ෂී/11-408457) · `si`
-
-A medical student from the University of Peradeniya, who couldn't swim, drowned during a clinical training trip to Nawalapitiya Hospital. Rescuers found him unconscious in the Mahaweli River. Despite efforts, he was pronounced dead at the Peradeniya Teaching Hospital, with the cause of death determined to be oxygen deprivation.
-
-🟩
-
-There were about twelve people in the Nawalapitiya hospital and went to Galpoththa, where the clinical training at Nawalapitiya.. At about five of us, when the legs have legs like a rift, we lost and sank us in water. I was holding a streets there, but was not visual. We shouted and asked for help. They brought the Come on the water and brought him to the land of the water.
-
-A group of students of the University of Peradeniya went to clinical training at the Nawaelpitiya Hospital and was taken to a branch of the Mahaweli River.The PH, rescued with the student with the student. The Medical student of Lasith Stress emphasizes witnessing before the Peradeniya Teacher Hospital Amal Jayawardena.
-
-We were both studied in Kingswood College to the Fifth Class. The two us in the same year were the Medical Faculty of the University of Peradeniya. The students who were focused on clinical training to the Nawalapitiya Hospital were included.
-
-...
-
-[Data](articles/22abf5d6.json)
-
-[Extended Data](ext_articles/22abf5d6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 22:03:30**
+As of **2024-03-07 22:17:51**
 
 ## Newspaper Stats
 
-*Scraped **11,542** Articles*
+*Scraped **11,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,76 @@ dailyftlk | 606
 islandlk | 612
 adalk | 983
 tamilmirrorlk | 1,403
-adaderanalk | 1,404
-virakesarilk | 1,581
-dailymirrorlk | 1,760
+adaderanalk | 1,405
+virakesarilk | 1,583
+dailymirrorlk | 1,761
 adaderanasinhalalk | 1,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,539 (100.0%) of 11,542 articles have been extended.
+11,542 (100.0%) of 11,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### විදෙස්ගත ශ්‍රමික ප්‍රේෂණවල සැලකියයුතු වර්ධනයක්
+### வெடுக்குநாறிமலை ஆலயத்தின் பூசகர் கைது செய்யப்பட்டார்! நீதிமன்ற உத்தரவையும் மீறி பொலிசார் அராஜகம்!
+
+*2024-03-07 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178209) · `ta`
+
+வவுனியா வெடுக்குநாறிமலை ஆதிஇலிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரி தின ஏற்பாடுகளை முன்னெடுத்துக்கொண்டிருந்த ஆலயத்தின் பூசகர் உட்பட இருவர் நெடுங்கேணி பொலிசாரால் வலுக்கட்டாயமாக கைதுசெய்யப்பட்டனர்.
+
+நாளை வெள்ளிக்கிழமை (8) மகாசிவராத்திரி தினத்தை முன்னிட்டு வெடுக்குநாறிமலையில் விசேட பூஜை வழிபாடுகளை மேற்கொள்வதற்கு ஆலயநிர்வாகத்தினர் முயற்சிகளை எடுத்திருந்தனர்.
+
+இந்நிலையில் அவர்களது முயற்சிக்கு பொலிசாரால் தடங்கல் ஏற்படுத்தப்பட்ட நிலையில் ஆலயத்தின் நிர்வாகத்தினால் வவுனியா நீதிமன்றில் நகர்த்தல் பத்திரம் தாக்கல்செய்யப்பட்டிருந்தது.
+
+அதனை செவ்வாய்க்கிழமை (5) விசாரணைக்கு எடுத்த நீதிமன்றம் வெடுக்குநாறிமலை ஆலயவிடயத்தில் நீதிமன்றம் ஏற்கனவே வழங்கிய கட்டளையின்படி செயற்படுமாறு ஆலயநிர்வாகத்திற்கு உத்தரவு வழங்கியது.
+
+இதனையடுத்து சிவராத்திரி தின ஏற்பாடுகளை முன்னெடுப்பதற்காக வியாழக்கிழமை (7) மாலை உழவியந்திரத்தில்   சென்றுகொண்டிருந்த பூசாரி உட்பட இருவர் நெடுங்கேணி பொலிசாரால் செவ்வாய்க்கிழமை (5) வழிமறிக்கப்பட்டுக் கைதுசெய்யப்பட்டனர்.
+
+...
+
+[Data](articles/7a59de5d.json)
+
+---
+
+### President to invite Opposition parties to discuss IMF programme
+
+*2024-03-07 21:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-invite-Opposition-parties-to-discuss-IMF-programme/108-278438) · `en`
+
+Colombo, March 07 (Daily Mirror) -  President Ranil Wickremesinghe has announced plans to convene a meeting next Monday (11) inviting leaders, including those from the Opposition to contribute ideas in line with the ongoing discussions with officials from the International Monetary Fund (IMF).
+
+He revealed this at the launching ceremony of the "Press Vs. Prez" book today (07), with the President presiding over the event.
+
+“Yesterday, MP Harsha de Silva suggested the involvement of Opposition representatives in discussions on debt management. I intend to invite all leaders, including those from the Opposition, to participate in these discussions with the IMF and adhere to their final decisions. Together, we can navigate this journey towards a stable future,” he said.
+
+...
+
+[Data](articles/f2b49ae1.json)
+
+---
+
+### Significant increase in labor remittances
 
 *2024-03-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194272) · `si`
 
-විදෙස්ගත ශ්‍රී ලාංකික ශ්‍රමිකයින් විසින් 2024 පෙබරවාරි මාසයේදී අමෙරිකානු ඩොලර් මිලියන 476.2ක මුදලක් මෙරටට එවා ඇතැයි ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+In February 2024, Sri Lanka's labor remittances increased significantly, with the Central Bank reporting US $ 476.2 million sent and earned, a 16.88% and 113.92% increase from February 2023.
 
-එසේම එම මාසයේදී ශ්‍රී ලංකාව සංචාරකයින් මගින් අමෙරිකානු ඩොලර් මිලියන 345.7ක් උපයා ඇති බවත් ශ්‍රී ලංකා මහ බැංකුව පැවසීය.
+🟩
 
-එය 2023 පෙබරවාරි මාසයට සාපේක්ෂව පිළිවෙළින් 16.88% සහ 113.92% වර්ධනයකි.
+US $ 476.2 million in February 2024 has sent US $ 476.2 million in February 2024, the Central Bank of Sri Lanka.
+
+The Central Bank said Sri Lanka has earned US $ 345.7 million in the same month.
+
+It is 16.88% and 113.92% respectively compared to February 2023.
 
 ◼️
 
 [Data](articles/9cb1e463.json)
+
+[Extended Data](ext_articles/9cb1e463.ext.json)
 
 ---
 
@@ -63,6 +105,26 @@ This statement resonated with both President Wickremesinghe and the IMF team, hi
 ...
 
 [Data](articles/e0821d2e.json)
+
+[Extended Data](ext_articles/e0821d2e.ext.json)
+
+---
+
+### யாழ். சுழிபுரம் பகுதியில் வைக்கப்பட்ட புத்தர் சிலை அகற்றப்பட்டுள்ளது
+
+*2024-03-07 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178208) · `ta`
+
+யாழ்ப்பாணம் சுழிபுரம் பகுதியில் வைக்கப்பட்டிருந்த புத்தர் சிலையொன்று அண்மையில் சர்ச்சையை ஏற்படுத்திய நிலையில் குறித்த சிலை அங்கிருந்து தற்போது அகற்றப்பட்டுள்ளதாகத் தகவல்கள் தெரிவிக்கின்றன.
+
+சுழிபுரம் சவுக்கடி பிள்ளையார் ஆலயத்திற்குப் பின் புறமாக உள்ள அரச மரத்தின் கீழ் குறித்த புத்தர் சிலை வைக்கப்பட்டிருந்தது.
+
+அப்பகுதி கடற்படையினரால் புத்தர் சிலை வைக்கப்பட்டு இருக்கலாம் என அப்பகுதி மக்கள் சந்தேகித்த நிலையில்,புத்தர் சிலையை அடுத்து விகாரை தோற்றம் பெறலாம் என அச்சப்பட்டனர்.
+
+இது தொடர்பில் ஊடகங்களில் செய்திகள் வெளியாகி பேசுபொருளான நிலையில் குறித்த புத்தர் சிலை அவ்விடத்திலிருந்து அகற்றப்பட்டுள்ளதாக பிரதேசவாசிகள் தகவல் வெளியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/bf51d7a0.json)
 
 ---
 
@@ -1004,6 +1066,26 @@ Then a hand grenade exploded with a massive noise when the garbage burned down. 
 
 ---
 
+### IMF team says Sri Lanka’s EFF program showing positive signs
+
+*2024-03-07 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97797/imf-team-says-sri-lankas-eff-program-showing-positive-signs) · `en`
+
+The International Monetary Fund (IMF)’s Senior Mission Chief for Sri Lanka Peter Breuer says the IMF program is showing signs of working and is translating into real outcomes thanks to the Sri Lankan authorities’ commitment to the program and its implementation.
+
+He had stated this during the meeting held today (07) between President Ranil Wickremesinghe and the visiting IMF team at the Finance Ministry, the President’s Media Division (PMD) reported.
+
+Mr. Breuer further stated that it is heartening to see the country’s economy starting to turn around following the recent economic crisis.
+
+The IMF will commence its second review of the Extended Fund Facility (EFF) program for Sri Lanka today (March 07) with an opening meeting with President Wickremesinghe.
+
+Taking to X (formerly Twitter), Finance State Minister Shehan Semasinghe had said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
+
+...
+
+[Data](articles/4b2e557b.json)
+
+---
+
 ### IMF team says Sri Lanka’s EFF program showing signs of working
 
 *2024-03-07 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97797/imf-team-says-sri-lankas-eff-program-showing-signs-of-working) · `en`
@@ -1189,6 +1271,8 @@ Accordingly, special train services are scheduled to operate on March 8, 9 and 1
 ◼️
 
 [Data](articles/ab994ec6.json)
+
+[Extended Data](ext_articles/ab994ec6.ext.json)
 
 ---
 
@@ -2143,95 +2227,5 @@ The four suspects have also been assaulted by the four poles and iron chains tha
 [Data](articles/62bc1f3e.json)
 
 [Extended Data](ext_articles/62bc1f3e.ext.json)
-
----
-
-### Government relief to new electricity connection
-
-*2024-03-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194241) · `si`
-
-The Minister of Power and Energy, Kanchana Wijesekara, announced that recipients of the fee for new electricity connections will be paid in order. This follows two policy decisions: extending time without disconnecting electricity for small bills and reducing the return amount from Rs. 3,000 to Rs. 1,300, further reduced to Rs. 800 this year.
-
-🟩
-
-The Minister of Power and Energy Kanchana Wijesekara says that the recipients of the fee will be paid in order to pay a new electricity.
-
-He was responding to a query in Parliament today as a question raised by MP HM Dhanasena.
-
-Minister of Power and Energy, Kanchana Wijesekara, speaking to the occasion.
-
-"In the recent past we have taken 2 policy decisions. The first issue gives them some time without disconnecting electricity in the homes of small bills. For the settlement of it. Also, the return of about Rs. 3,000 was reduced to Rs. 1300. In addition, we have taken steps to reduce it to Rs. 800 this year. It is reported that it is now worth paying Rs. 35,000 and Rs.. It has been approved by the board of directors officially educate it. "
-
-◼️
-
-[Data](articles/2098198a.json)
-
-[Extended Data](ext_articles/2098198a.ext.json)
-
----
-
-### The engine capacity considers 450 cc registration
-
-*2024-03-07 12:56:02* · [`adalk`](https://www.ada.lk/breaking_news/එන්ජින්-ධාරිතාව-450-සීසී--වැඩි-යතුරු-පැදි-ලියාපදිංචියට-සලකා-බලයි/11-408471) · `si`
-
-The government aims to expand the 450 cc category, with Parliamentarian Rohitha Abeygunawardena proposing to allow 450 cc motor bicycles. The Ministry of Transport and Public Defense will review this proposal.
-
-🟩
-
-It is reported that the government is focusing on allowing more than 450 ccs in the 450 cc category.
-
-Parliamentarian Rohitha Abeygunawardena has taken advance to Parliamentary proposal to be adjourned by MP Rohitha Abeygunawardena, proposing to allow the 450 motor bicycle registration to the 450s.. Leader of the House Susil Premajayantha stated that the Ministry of Transport and the Public Defense Ministry will be presented with the Cabinet paper in the future.
-
-◼️
-
-[Data](articles/57d5fc3e.json)
-
-[Extended Data](ext_articles/57d5fc3e.ext.json)
-
----
-
-### Indian painter gets donor hands in rare transplant surgery at Delhi hospital
-
-*2024-03-07 12:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97792/indian-painter-gets-donor-hands-in-rare-transplant-surgery-at-delhi-hospital) · `en`
-
-An Indian painter who had lost both his hands in an accident has received a new set of limbs after a donation by a woman who had pledged her organs to be used following her death and as doctors at Delhi’s Sir Ganga Ram Hospital performed a complex surgery.
-
-In October 2020, Raj Kumar, now 45, was crossing the railway tracks in Nangloi on his bicycle when he lost control and was run over by the train losing both his hands. Kumar had been using prosthetics but his prosthetic trial was unsuccessful.
-
-His only hope was a hand transplant. And, a pledge by Meena Mehta, former administrative head of a South Delhi school who was declared brain-dead, came to his help.
-
-Kumar underwent a bilateral hand transplant under the team of Dr Mahesh Mangal, Chairman, Department of Plastic and Cosmetic Surgery, and Dr Swaroop Singh Gambhir, Senior Consultant, Plastic and Cosmetic Surgery, at Sir Ganga Ram Hospital.
-
-...
-
-[Data](articles/14d091eb.json)
-
-[Extended Data](ext_articles/14d091eb.ext.json)
-
----
-
-### 5 months of Gaza War: China is a shame for civilization
-
-*2024-03-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178153) · `ta`
-
-China criticizes Gaza War as a civilization shame, urging ceasefire. Chinese Foreign Minister Wang Yi calls it a tragedy, highlighting the urgent need for a ceasefire and humanitarian aid. Negotiations for a ceasefire before Ramadan are ongoing in Egypt, with mediators facing challenges in accepting conditions.
-
-🟩
-
-China has criticized the war in Gaza as an insult to civilization and urged the immediate implementation of the ceasefire.
-
-The war between Israel and Hamas on the 7th of October is 5 months today.
-
-At a press conference held in Beijing today, Chinese Foreign Minister Wang Yi said that this was a tragedy for mankind and a shame for today's civilization.
-
-He said that the international community is urgently working in Gaza and setting up a ceasefire in Gaza and ensuring emergency humanitarian aid is a moral responsibility.
-
-Negotiations to implement a ceasefire before Ramadan in Gaza are held in Egypt. Mediators are struggling to accept the ceasefire conditions.
-
-◼️
-
-[Data](articles/1cc92634.json)
-
-[Extended Data](ext_articles/1cc92634.ext.json)
 
 ---

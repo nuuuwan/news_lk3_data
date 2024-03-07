@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 11:02:44**
+As of **2024-03-07 11:17:29**
 
 ## Newspaper Stats
 
-*Scraped **11,405** Articles*
+*Scraped **11,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 605
 islandlk | 612
 adalk | 962
 adaderanalk | 1,387
-tamilmirrorlk | 1,390
+tamilmirrorlk | 1,392
 virakesarilk | 1,558
 dailymirrorlk | 1,738
 adaderanasinhalalk | 1,783
@@ -26,11 +26,45 @@ adaderanasinhalalk | 1,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,405 (100.0%) of 11,405 articles have been extended.
+11,405 (100.0%) of 11,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### இனி உங்கள் புகைப்படங்களை முத்திரையாக்கலாம்
+
+*2024-03-07 10:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-உங்கள்-புகைப்படங்களை-முத்திரையாக்கலாம்/175-334319) · `ta`
+
+இலங்கை தபால் திணைக்களம் பிரஜைகளுக்கு தங்களின் சொந்த புகைப்படங்கள் அல்லது நிகழ்வுகளை உள்ளடக்கிய முத்திரைகளை வடிவமைத்துக்கொள்ளும் வாய்ப்பை ரூபாய் 2000 செலவில் வழங்குவதாக தபால் திணைக்கள அதிபர் ருவன் சத்குமார தெரிவித்தார்.
+
+ஹட்டன் நேஷனல் வங்கியின் (HNB) முத்திரையை வெளியிடுவதற்காக கொழும்பில் ஏற்பாடு செய்யப்பட்டிருந்த நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றிய அவர், திருமணங்கள், ஒன்றுகூடல்கள் மற்றும் விருந்துகள் போன்ற விசேட சந்தர்ப்பங்களுக்கு ஏற்ப 20 முத்திரைகள் கொண்ட முத்திரைத் தாளையோ அல்லது தமது சொந்த புகைப்படங்களையோ பெற்றுக்கொள்ள முடியும் என அறிவித்தார்.
+
+தம்பதிகளின் புகைப்படங்களைக் கொண்ட இந்த முத்திரைகளைப் பயன்படுத்துவதன் மூலம் குடும்பங்கள் தங்கள் திருமண அட்டைகளின் தனித்துவத்தை அதிகரிக்கலாம். இந்த முத்திரைகள் தபால் முத்திரைகளாகவும் பயன்படுத்தலாம் ," என்றும் அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/dc2dc736.json)
+
+---
+
+### கூட்டணி குறித்து கலந்துரையாட விசேட சந்திப்பு
+
+*2024-03-07 10:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டணி-குறித்து-கலந்துரையாட-விசேட-சந்திப்பு/175-334318) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவை (SLPP) முன்னின்று நடத்தும் பசில் ராஜபக்சவும், முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவம் இன்று மாலை ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்து பாராளுமன்ற தேர்தல் மற்றும் ஜனாதிபதி தேர்தலுக்கு முன்னதாக இரு தரப்பினருக்கும் இடையிலான எதிர்கால அரசியல் ஏற்பாடுகள் குறித்து கலந்துரையாடவுள்ளனர்.
+
+அமெரிக்காவில் இருந்த பசில் ராஜபக்ச செவ்வாய்க்கிழமை நாடு திரும்பினார். தேர்தல் நிலுவையில் உள்ளதைக் கருத்தில் கொண்டு பல்வேறு கட்சிகளுக்கு இடையே தேர்தல் கூட்டணி உருவாகி வரும் வேளையிலும்  எந்தத் தேர்தலை முதலில் நடத்த வேண்டும் என்று கட்சிகள் விவாதிக்கும் சந்தரப்பத்திலும் இச்சந்திப்பு நடைபெறுகிறது.
+
+பாராளுமன்ற உறுப்பினர் நிமல் லான்சாவினால் ஒருங்கிணைக்கப்பட்ட ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஒரு பகுதியினர் ஜனாதிபதிக்கு ஆதரவளிப்பதாக ஏற்கனவே உறுதியளித்துள்ளனர். ஜனாதிபதிக்கு மக்கள் ஆதரவைப் பெறுவதற்காக நாடு முழுவதும் அரசியல் பேரணிகளை இந்த குழு ஏற்கனவே நடத்தத் தொடங்கியுள்ளது.
+
+அத்துடன், ஸ்ரீலங்கா பொதுஜன பெரமுன ஜனாதிபதிக்கு ஆதரவளிக்க வேண்டும் எனவும் அரசாங்கத்தின் பிரதம கொறடா பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ab3b1b93.json)
+
+---
 
 ### Udappuwa Police OIC released on bail
 
@@ -2285,39 +2319,5 @@ The prosecution further alleged that information had been gathered in Colombo, A
 [Data](articles/41d5d612.json)
 
 [Extended Data](ext_articles/41d5d612.ext.json)
-
----
-
-### University Students' Union protest
-
-*2024-03-06 18:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/University-Students-Union-protest/110-278363) · `en`
-
-The Inter University Students' Union held a protest marching from Borella where police fired water cannons at them. The students then entered the premises of the National Hospital Colombo and continued their picketing. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/b9c7b71d.json)
-
-[Extended Data](ext_articles/b9c7b71d.ext.json)
-
----
-
-### Sri Lanka will bring new laws to sustain economic reforms: president
-
-*2024-03-06 18:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-bring-new-laws-to-sustain-economic-reforms-president-153422/) · `en`
-
-ECONOMYNEXT — Sri Lanka will introduce legislation to sustain its current course of recovery and reforms, which will include an Economic Reform Act, President Ranil Wickremesinghe said.
-
-Acknowledging difficulties faced by sections of the population in the wake of Sri Lanka’s 2022 financial crisis, the worst in decades, Wickremesinghe told parliament on Wednesday March 06 that his administration intends to uplift all.
-
-“While certain segments of society have faced hardships due to our current practices, we’re striving to uplift the entire society and establish a sustainable economy where growth benefits all. As Professor Henpitagedara Gnanavasa Thero emphasized in 1983, addressing economic problems collectively is key to fostering societal peace and happiness,” he said.
-
-Wickremesinghe invited all parties represented in parliament to support the reforms.
-
-...
-
-[Data](articles/01072186.json)
-
-[Extended Data](ext_articles/01072186.ext.json)
 
 ---

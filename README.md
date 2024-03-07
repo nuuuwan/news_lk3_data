@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 11:33:51**
+As of **2024-03-07 11:53:02**
 
 ## Newspaper Stats
 
-*Scraped **11,414** Articles*
+*Scraped **11,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,106 +13,156 @@ bbccomsinhala | 135
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-dailyftlk | 605
+dailyftlk | 606
 islandlk | 612
 adalk | 962
 adaderanalk | 1,388
 tamilmirrorlk | 1,393
 virakesarilk | 1,559
 dailymirrorlk | 1,739
-adaderanasinhalalk | 1,785
+adaderanasinhalalk | 1,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,407 (99.9%) of 11,414 articles have been extended.
+11,414 (100.0%) of 11,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### 'ஷெல்' எரிபொருள்  நிறுவனம் மீண்டும் இலங்கையில்
+### අම්බානි පුතුගේ මංගල උත්සවයට ගිය ලංකාවේ සූපවේදීන් යළි දිවයිනට
+
+*2024-03-07 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194238) · `si`
+
+ආසියාවේ ධනවත් ම පුද්ගලයා විසින් පවත්වනු ලබූ මංගල සාදයේ ආහාර පිසීම සඳහා ඉන්දියාවට ගොස් සිටි ලාංකීය සූපවේදීන් පිරිස අද (07) උදෑසන යළි දිවයිනට පැමිණියහ.
+
+ඉන්දියාවේ ප්‍රකෝටිපති ව්‍යාපාරික මුකේෂ් අම්බානි මහතාගේ බාල පුත් ආනන්ත් අම්බානිගේ විවාහ මංගල උත්සවය පසුගිය දා අතිඋත්කර්ෂවත් අයුරින් ගුජරාටි ප්‍රාන්තයේදී පැවැත්වුණි.
+
+එම විවාහ මංගල උත්සවයේ ආහාර පිසීම සඳහා ලංකාවේ සූපවේදීන් 13 දෙනෙකු එක්ව සිටි අතර, ඔවුන් Citrus හෝටල් සමූහය නියෝජනය කරමින් කොළඹ Citrus හෝටලයේ Ceylon Curry Club අවන්හල නියෝජනය කරන සූපවේදීන් පිරිසකි.
+
+මෙම සූපවේදීන් පිරිස පාරිභෝගික ප්‍රතිචාර සහ ගූගල් ඇගයීම් සහ නිර්දේශ මත තෝරා ගෙන තිබිණි.
+
+මොවුන් අවන්හල තුළ දී ලංකාවටම ආවේනික වූ ආහාරපාන, නවතම ක්‍රමවලට පිළියෙල කර පාරිභෝගිකයින්ට ලබාදී තිබේ.
+
+මෙම සූපවේදීන් 13 දෙනා අතර එක් සූපවේදිනියක් ද ඇතුළත් වී සිටී.
+
+...
+
+[Data](articles/e4590050.json)
+
+---
+
+### 'Shell' fuel company again in Sri Lanka
 
 *2024-03-07 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178141) · `ta`
 
-'ஷெல்' நிறுவனம் 63 வருடங்களின் பின்னர் எதிர்வரும் 19ஆம் திகதி முதல் இலங்கையில் மீண்டும் எரிபொருள் நடவடிக்கைகளை ஆரம்பிக்கவுள்ளது.
+Shell returns to Sri Lanka after 63 years, marking a significant reunion with the local energy industry. The company's first fuel vessel will dock in Colombo on the 19th, under the new government's Energy and Economic Reform Scheme, allowing it to import, store, and distribute fuel.
 
-1880ஆம் ஆண்டு முதல் இலங்கையில் செயற்பட்டு வந்த ஷெல் எரிபொருள் நிறுவனம் 1961ஆம் ஆண்டு ஸ்ரீலங்கா சுதந்திர கட்சி அரசாங்கத்தினால் அரசுடைமையாக்கப்பட்டது.
+🟩
 
-அதன் பின்னர் குறித்த நிறுவனம் ஆசியாவில் தமது செயற்பாடுகளை இலங்கையிலிருந்து அகற்றி சிங்கப்பூரில் ஆரம்பித்து இன்று சிங்கப்பூரில் மாபெரும் நிறுவனமாக மாறியுள்ளது.
+'Shell' will start fuel operations in Sri Lanka from the 19th of this month after 63 years.
 
-எவ்வாறாயினும், அறுபத்து மூன்று வருடங்களின் பின்னர், ஷெல் நிறுவனம் இலங்கையின் எரிசக்தி துறையில் மீண்டும் இணைந்துள்ளது.
+The Shell Fuel Company, which has been operating in Sri Lanka since 1880, was nationalized by the Sri Lanka Freedom Party government in 1961.
 
-இந்நிறுவனத்தின் முதலாவது எரிபொருள் கப்பல் 63 வருடங்களின் பின்னர் எதிர்வரும் 19ஆம் திகதி கொழும்பு துறைமுகத்திற்குள் பிரவேசிக்கவுள்ளது.
+The company has since removed its operations in Asia from Sri Lanka and started in Singapore and became a great company in Singapore today.
 
-தற்போதைய அரசாங்கத்தின் எரிசக்தி மற்றும் பொருளாதார சீர்திருத்தத் திட்டத்தின் கீழ், இறக்குமதி செய்வதற்கும், சேமித்து வைப்பதற்கும், விநியோகிப்பதற்கும் அனுமதி வழங்கப்பட்டுள்ளது.
+However, sixty -three years later, shell has reunited the Sri Lankan energy industry.
+
+The company's first fuel vessel will enter the port of Colombo on the 19th of this month after 63 years.
+
+Under the current government's Energy and Economic Reform Scheme, it has been allowed to import, store and distribute.
 
 ◼️
 
 [Data](articles/4b6828bc.json)
 
+[Extended Data](ext_articles/4b6828bc.ext.json)
+
 ---
 
-### ලෝක කුසලානයට ඉදිවන සුපිරි ක්‍රිකට් පිටිය
+### The super cricket field being built to the World Cup
 
 *2024-03-07 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194237) · `si`
 
-එළඹෙන ජුනි මස 02 වනදා ආරම්භ වන විස්සයි විස්ස ලෝක තරගාවලිය වෙත ලොවපුරා ක්‍රිකට් ක්‍රීඩා ලෝලීන්ගේ අවධානය මේ වනවිටත් යොමුවී අවසන්.
+The Nassau County International Cricket Stadium, built for the World Cup, hosts a unique competition featuring India, Pakistan, the US, and Ireland. It's a 34,000-capacity venue, part of a worldwide focus on cricket.
 
-මේ සුවිශේෂී කතාව වාර්තාවන්නේ ලෝක කුසලාන තරගාවලිය ආරම්භයට පසුදින එනම් ජුනි මස 03 වනදා සිට තරග පැවැත්වෙන සුවිශේෂී ක්‍රීඩාංගණයක් පිළිබඳවය.
+🟩
 
-Nassau County International Cricket Stadium එහෙමත් නැත්නම් නිව්යෝක් ක්‍රිකට් ක්‍රීඩාංගනයේ තවමත් තණකොළ ගහක්වත් නැතිවීම විශේෂත්වයක්.
+The worldwide focus on the Twenty Twenty World Championship, which will commence on June 2, is now over.
 
-තවත් මාස 03ක් ඉතිරිව තිබියදී ලෝකෙම මවිත කරවමින් අභියෝගය භාරගත් අමෙරිකාව ක්‍රීඩාංගණය ඉදිකිරීම මේ වනවිට ආරම්භ කර තිබේ.
+This unique story is about a unique stadium from June 3 following the World Cup.
 
-34,000කට එකවර තරගය නැරඹිය හැකි පහසුකම් සහිතව ඉදිවන මෙම ක්‍රීඩාංගණයේ මාසයක ප්‍රගතිය මුල්වරට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ඊයේ මුල්වරට එළිදැක්වීය.
+Nassau County International Cricket Stadium Or Stadiuum or Lack of grassy of the New York Cricket Stadium.
 
-ලෝක කුසලාන තරගාවලිය සඳහාම ඉදිවන මෙම ක්‍රීඩාංගණය වෙත ලෝකයේම අවධානය යොමුවූ තවත් හේතුවක් වන්නේ ක්‍රිකට් ලෝකයේ ආන්දෝලනාත්මක තරගයක් වන ඉන්දු පාකිස්තාන ක්‍රිකට් තරගය ද මෙම ක්‍රීඩාංගණයේදී පැවැත්වීමය.
+The United States has launched the world to surprise the world with another three months left.
 
-මූලික වටයේ තරගවලදී ඉන්දීය කණ්ඩායම තරගවදින තරග ත්‍රිත්වයක් ම මෙම ක්‍රීඩාංගණයේදී පැවැත්වීම තවත් සුවිශේෂී කරුණකි.
+The International Cricket Council launched a month at the stadium, which was built on a month at the stadium that 34,000 can visit the match at the same time.
+
+Another reason to the Ground Competition, the world's focus is on the world's controversial competition in the world in this stadium.
+
+The Indian team is conducting a Trinity Competition competing in the preliminary round.
+
+In addition to Pakistan, they will play in this contest against the host American team and Irish group.
+
+Meanwhile, this new stadium and a unique memory will be constructed for the 2024 World Cup.
 
 ...
 
 [Data](articles/62730a43.json)
 
+[Extended Data](ext_articles/62730a43.ext.json)
+
 ---
 
-### හදිසියේම රාජ්‍යතාන්ත්‍රිකයින් පිරිසක් අනුර හමුවෙයි
+### Suddenly, a group of diplomats meet
 
 *2024-03-07 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194236) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සහ රටවල් 06ක රාජ්‍යතාන්ත්‍රික නිලධාරීන් අතර හමුවක් ඊයේ පවත්වා තිබේ.
+Anura Kumara Dissanayake, leader of the National Power, met with diplomatic officers from six countries: Palestine, Turkey, Bangladesh, Malaysia, and Maldives, to discuss economic policies and the national promote's functioning.
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සහ රටවල් 06ක රාජ්‍යතාන්ත්‍රික නිලධාරීන් අතර හමුවක් ඊයේ පස්වරුවේ පැලවත්ත ජනතා විමුක්ති පෙරමුණ පක්ෂ කාර්යාලයේදී පැවැත්වුණි.
+🟩
 
-එම සාකච්ඡාව සඳහා පලස්තීන, තුර්කි, බංග්ලාදේශ, ඉන්දුනීසියානු, මැලේසියානු සහ මාලදිවයින් තානාපතිවරුන් සහ මහකොමසාරිස්වරුන් සහභාගී වී තිබේ.
+Leader of the National Power Anura Kumara Dissanayake and the diplomatic officers of six countries have held a meeting.
 
-එහිදී ජාතික ජන බලවේගයේ ආර්ථික ප්‍රතිපත්ති සහ ක්‍රියාකාරීත්වය පිළිබඳව සාකච්ඡාවට ලක් වී ඇත.
+Leader of the National Power Anura Kumara Dissanayake and six countries held at the party office in the party office.
+
+Palestinian, Turkish, Turkish, Turkish, Bangladeshi, Malaysian and Maldives have participated in the discussion.
+
+The economic policies and functioning of the national promote is discussed.
 
 ◼️
 
 [Data](articles/b6066d65.json)
 
+[Extended Data](ext_articles/b6066d65.ext.json)
+
 ---
 
-### ”தபால் திணைக்களம் 2024ல் ரூ.21 பில்லியன் வருவாயைப் பெறும்”
+### “The Postal Department will receive a revenue of Rs 21 billion in 2024”
 
 *2024-03-07 11:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-திணைக்களம்-2024ல்-ரூ-21-பில்லியன்-வருவாயைப்-பெறும்/175-334320) · `ta`
 
-இலங்கையின் தபால் திணைக்களம் 2024 ஆம் ஆண்டில் ரூ.21 பில்லியன் வருவாயைப் பதிவுசெய்து, திறைசேரி நிதியில் இருந்து சுயாதீனமான ஒரு தன்னிறைவான நிறுவனமாகச் செயற்படும் என நம்புவதாகக் கூறியுள்ளது.
+The Postal Department of Sri Lanka aims to generate Rs 21 billion in revenue by 2024, focusing on commercial postal services like COD and EMS, despite a decline in traditional postal use. It has partnered with UPS and recorded a loss of Rs 3.2 billion last year.
 
-பொது சேவை வழங்குநரிடமிருந்து வணிக சேவை வழங்குனராக திணைக்களத்தின் புதிய கண்ணோட்டத்தைப் பற்றி விளக்கிய தபால் மா அதிபர் ருவன் சத்குமார, வருவாய் இடைவெளியைக் குறைப்பதற்கும் இடைவெளியை அடைவதற்கும் திணைக்களம் தனியார் துறையுடன் மூலோபாய ஒத்துழைப்புகளை ஆரம்பித்துள்ளதாக தெரிவித்தார்.
+🟩
 
-உலகளாவிய லொஜிஸ்டிக்ஸ் மற்றும் பக்கேஜ் டெலிவரி நிறுவனமான யுனைடெட் பார்சல் சேவையுடன் இத்துறை ஒப்பந்தம் செய்துள்ளதாக சத்குமார கூறினார்.
+The Postal Department of Sri Lanka said it hoped to register a revenue of Rs 21 billion by 2024 and act as an independent self -sufficient company from the Treasury Fund.
 
-ஹட்டன் நஷனல் வங்கியின் 135வது ஆண்டு நிறைவை முன்னிட்டு நினைவு முத்திரை வெளியீட்டு விழாவையொட்டி, தபால் திணைக்களம் முதன்முதலில் தனியார் வங்கியொன்றுக்கு முதல் நாள் அட்டை முத்திரையை வழங்கியதையும் அவர் பகிர்ந்துகொண்டார்.
+Speaking about the new outlook of the Department from the Public Service Provider, the Deputy Chancellor Ruwan Satkumara said the department has initiated strategic cooperation with the private sector to reduce the revenue gap and gap.
 
-"பாரம்பரிய அஞ்சல் சேவைகள் உலகளாவிய பயன்பாட்டில் சரிவைக் காண்கின்றன, ஆனால் வணிக அஞ்சல் சேவைகள், காஷ் ஒன் டெலிவரி (COD) மற்றும் EMS சேவைகளுக்கு குறிப்பிடத்தக்க தேவை உள்ளது.
+Katkumara said the department had signed an agreement with the United Parcel Service, a global Logistics and Pakaj delivery company.
+
+He also shared the first day's card stamps by the Postal Department to the Postal Department, on the 135th anniversary of the Hatton National Bank.
+
+“Traditional postal services see a decline in global use, but there is a significant need for commercial postal services, Kash One Delivery (COD) and EMS services.
 
 ...
 
 [Data](articles/24c56e16.json)
+
+[Extended Data](ext_articles/24c56e16.ext.json)
 
 ---
 
@@ -133,6 +183,8 @@ According to Mr. Amarasinghe, the country has witnessed a disturbing increase in
 ...
 
 [Data](articles/c8c2c47f.json)
+
+[Extended Data](ext_articles/c8c2c47f.ext.json)
 
 ---
 
@@ -231,6 +283,8 @@ It was revealed that a person called 'Sudda' was also involved in bringing the h
 ...
 
 [Data](articles/3ac90236.json)
+
+[Extended Data](ext_articles/3ac90236.ext.json)
 
 ---
 
@@ -882,27 +936,35 @@ NSB acknowledges the significance of women taking control of their income and ac
 
 ---
 
-### හූති මිසයිල ප්‍රහාරයට ලක්වූ වෙළෙඳ නෞකාවේ ශ්‍රී ලාංකිකයින් දෙදෙනෙක්
+### Two Sri Lankans in the vessel was attacked by Huthothi
 
 *2024-03-07 05:38:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clkmv8kgggjo) · `si`
 
-දකුණු යේමනයට ආසන්න මුහුදු සීමාවේ යාත්‍රා කරමින් තිබූ භාණ්ඩ ප්‍රවාහන නෞකාවකට හූතිවරු එල්ල කළ මිසයිල ප්‍රහාරයකින් එම නෞකාවේ කාර්ය මණ්ඩල සාමාජිකයින් තිදෙනෙකු මිය ගොස් ඇතැයි ඇමෙරිකා එක්සත් ජනපද බලධාරීන් පවසයි.
+Two Sri Lankans on a vessel attacked by Houthi in the Red Sea. US reports three killed, first attack on merchants. Ship, with Barbados flag, abandoned and burning. US Army confirms attack at 11:30 am local time. Houthi claims targeting Palestinians in Gaza. US Central Command reports three killed, three injured. Iran criticizes ship's staff for ignoring warnings. British embassy in Yemen condemns attacks, calling them inevitable consequence of missile strikes on international ships.
 
-මෙය හූතින් රතු මුහුදේදී වෙළඳ නෞකාවලට එල්ල කළ ප්‍රහාරවලින් මරණ වාර්තා වූ පළමු අවස්ථාව ය.
+🟩
 
-True Confidence නමැති බාබඩෝස් ධජය සහිත මෙම නෞකාව ප්‍රහාරයෙන් පසු අතහැර දමා තිබූ අතර ගින්නක් සමග මුහුදේ පාවෙමින් තිබුණි.
+US authorities say that three staff members of an missile strike was killed in the area near the South Yemen.
 
-ග්‍රිනිච් වේලාවෙන් පෙරවරු 11.30 ට පමණ ඒඩන් බොක්කේදී නෞකාවට ප්‍රහාරය එල්ල වී ඇති බව ඇමෙරිකා එක්සත් ජනපද හමුදාව පැවසීය.
+This was the first time the attacks on mercels at the Red Sea was the first time.
 
-හූතින් පවසන්නේ ගාසා තීරයේ ඊශ්‍රායලය සහ හමාස් අතර  පවතින යුද්ධයේදී පලස්තීනුවන්ට සහාය දැක්වීම සඳහා තමන් මෙම ප්‍රහාර එල්ල කරන බවය.
+The ship with the Barbados flag, with the Babadades Flag, was abandoned after the attack and was floating in the sea with a fire.
 
-මැද පෙරදිග මෙහෙයුම් අධීක්‍ෂණය කරන ඇමෙරිකා එක්සත් ජනපද මධ්‍යම විධානය (Centcom) පැවසුවේ ප්‍රහාරයෙන් නෞකා  කාර්ය මණ්ඩල සාමාජිකයින් තිදෙනෙකු මිය ගොස් ඇති බවයි.
+The US Army said that the ship was attacked at around 11.30 am at the Greenach time.
 
-එමෙන්ම අවම වශයෙන් තවත් සිව්දෙනෙකු තුවාල ලබා ඇති අතර, තිදෙනෙකුගේ තත්ත්වය බරපතල බවද ඇමෙරිකා එක්සත් ජනපද මධ්‍යම විධානය සඳහන් කළේය.
+Hoout says he is attacking Palestinians in the war between Israel and Hamas in Gaza.
+
+The US Central Command (US Central Command) to monitor the Middle East operations (CENTCOM) said that three shipped staff members were killed.
+
+The United States Central command stated that the US central command states that three others were injured and three others were injured.
+
+"Such commercial attacks by hooo, the global sailors of the global sailors have been sabotaged and the lives of the international maritime have posted the US central command in their social media accounts.
 
 ...
 
 [Data](articles/a2073567.json)
+
+[Extended Data](ext_articles/a2073567.ext.json)
 
 ---
 
@@ -1165,6 +1227,22 @@ Prof. Sivasubramaniam Raghuram, the Faculty of Arts and Faculty of Hindu Studies
 [Data](articles/3d095e0f.json)
 
 [Extended Data](ext_articles/3d095e0f.ext.json)
+
+---
+
+### Inaugural IMRA Awards honours outstanding achievements of Muslim women and others
+
+*2024-03-07 01:59:47* · [`dailyftlk`](https://www.ft.lk/front-page/Inaugural-IMRA-Awards-honours-outstanding-achievements-of-Muslim-women-and-others/44-759245) · `en`
+
+From left: Saarah Deen Ismail, Yasmin Cader, Rezani Aziz, Chief Guest Deshamanya Radhika Coomaraswamy, Shahnasz Hakeem, Feroza Ameen, Dr. Shemoon Marleen, Farzana Jameel, Ferial Ashroff, Juwairiya Mohideen, Neetha Dhammachari Ariyaratne, Anushya Coomaraswamy, and Fathima Aziz
+
+The All Ceylon Muslim Women’s Association (ACMWA), a venerable organisation with a 71-year legacy, proudly hosted the inaugural IMRA Awards to recognise the exceptional accomplishments of Muslim women in Sri Lanka.
+
+Held on 3 March at the prestigious Shangri-La Colombo, this landmark event coincided with the upcoming International Women’s Day and showcased the remarkable achievements of strong, visionary women from the community.
+
+...
+
+[Data](articles/c53153a4.json)
 
 ---
 
@@ -2265,73 +2343,5 @@ Accordingly, the Sri Lankan team scored 165 runs for the loss of 5 wickets at th
 [Data](articles/10e279a5.json)
 
 [Extended Data](ext_articles/10e279a5.ext.json)
-
----
-
-### Is Sri Lanka's head taken to accept drugs from India?
-
-*2024-03-06 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194219) · `si`
-
-Sri Lanka's head allegedly involved in drug smuggling from India, with drugs worth Rs. 2,000 billion recovered. Suspects revealed plans to hand over drugs at sea to an unidentified Sri Lankan. The Indian Drugs Bureau implicated a South Indian mastermind, with Juffer Sardhik, a DMK party member, and his brother, linked to the drug trade.
-
-🟩
-
-The vessel carrying drugs worth Rs.
-
-In the interrogation of them, it has been revealed that the drug was prepared to hand over the drug at the deep sea.
-
-In the interrogation of the suspects, they have said that it was to be handed over to a person in Pamban collapse and handed over to an unidentified person from Sri Lanka.
-
-According to Indian media reports, the monk of the drug was arrested according to their information from them.
-
-Meanwhile, it has been revealed about a racket of ice transporting Sri Lanka from South India.
-
-Two suspects were arrested with an ice drugs worth Rs.
-
-The drug has been recovered from the Madurai, while he was taken transporting in a garbage yard in Chennai.
-
-Indian media reports that they were to transport them to Sri Lanka through the sea.
-
-The Indian Drugs Bureau has revealed that the masterminds of the drug is manufactured to the masterminder of the drug, the masterminds of the drug on the country of South India.
-
-...
-
-[Data](articles/1eaa48ae.json)
-
-[Extended Data](ext_articles/1eaa48ae.ext.json)
-
----
-
-### Udappuwa Police OIC arrested
-
-*2024-03-06 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194218) · `si`
-
-Udappuwa Police OIC arrested for assaulting civilians, leading to unrest. Mundalama Police called to control situation.
-
-🟩
-
-The OIC of the Udappuwa Police Criminal Investigation Division has been arrested and temporarily suspended.
-
-The Mundalama Police were also called to control the unrest in the incident last night.
-
-The Udappuwa Police Inspector Rajapakse and a group of residents were abundant in the Udappuwa area in Udappuwa.
-
-At the time of the attack, the officer has violently bowing the people to the people.
-
-The OIC of the Udappuwa Police Investigation Division (CID) is assaulted by the attack on two civilians.
-
-A person was transferred to the Udappuwa Rural Hospital after being injured in the attack.
-
-The police officer had also been admitted to the Udappuwa hospital last night claiming he was injured after the incident.
-
-He was arrested in the hospital this morning and the DIG in charge of Puttalam Nalaka Silva has taken steps to ban his work.
-
-The two civilians in the car have also been arrested.
-
-...
-
-[Data](articles/b23d870c.json)
-
-[Extended Data](ext_articles/b23d870c.ext.json)
 
 ---

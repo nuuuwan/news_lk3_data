@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 19:17:47**
+As of **2024-03-07 19:33:23**
 
 ## Newspaper Stats
 
@@ -26,53 +26,69 @@ adaderanasinhalalk | 1,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,513 (100.0%) of 11,516 articles have been extended.
+11,516 (100.0%) of 11,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### හූති ප්‍රහාරයට ලක්වූ නෞකාවේ සිටි ලාංකිකයින් ගැන ආරංචියක්
+### Hoouti was about news about Sri Lankans who were attacked
 
 *2024-03-07 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194266) · `si`
 
-හූති ප්‍රහාරයට ලක්වූ නෞකාවේ සිටි ලාංකිකයින් දෙදෙනාගෙන් එක් අයෙකු තුවාල ලබා ඇති බව ශ්‍රී ලංකා නාවික හමුදාව පවසයි.
+A ship carrying Sri Lankans, Nepal defenders, and staff was attacked by the Sri Lanka Navy, injuring one. The Foreign Minister of Sri Lanka is investigating. After the attack, a fire broke out, and 21 were rescued. The ship, carrying steel products and trucks, was attacked by a Greek company under a Liberian flag, 50 nautical miles from Aid. The Indian Navy rescued the injured and said the attack was shifted despite warnings.
 
-මේ අතර ප්‍රහාරයට ලක්වූ නෞකාවේ සිටි ලාංකිකයින් සම්බන්ධයෙන් අප විදේශ කටයුතු අමාත්‍ය අලි සබ්‍රි මහතාගෙන් විමසීමක් කළේය.
+🟩
 
-විදේශ අමාත්‍යවරයා සඳහන් කළේ, සිද්ධිය ගැන සොයාබැලීම සඳහා අවශ්‍ය පියවර ගනිමින් සිටින බවය.
+One of the two Sri Lankans in the ship was attacked by the Sri Lanka Navy said that one of the two Sri Lankans were injured.
 
-විදෙස් මාධ්‍යවලට අනුව ප්‍රහාරයට ලක්වූ නෞකාවේ ශ්‍රී ලාංකික ආරක්ෂකයින් දෙදෙනෙකු, නේපාල ආරක්ෂකයෙක් සහ කාර්ය මණ්ඩලයේ විසි දෙනෙක් පමණ සිට තිබුණි.
+Meanwhile, we asked the Foreign Minister of Foreign Minister Ali Sabri regarding the Sri Lankans who were infected with the ship.
 
-කාර්ය මණ්ඩලය අතර පිලිපීන ජාතිකයින් 15 දෙනෙක්, වියට්නාම ජාතිකයින් සිවුදෙනෙක් සහ ඉන්දියානුවෙක් අයත්.
+The Foreign Minister said that steps are being taken to investigate the incident.
 
-ප්‍රහාරයෙන් පසු නෞකාවේ ගින්නක් හටගෙන ඇති අතර පිරිස නෞකාව අත්හැර දමා තිබේ.
+Two Sri Lankan guards, Nepal defenders, and staff were in the attack on foreign media.
 
-අමෙරිකානු වාර්තාවල අනුව තුවාල ලැබූවන්ගෙන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බව දැක්වෙයි.
+There are 15 Filipino between staff, four Vietnamese and an Indian.
 
-හූති ප්‍රහාරයෙන් නෞකාවේ ගමන් කළ පුද්ගලයින් තිදෙනකු ජීවිතක්ෂයට පත්ව ඇති අතර තවත් සිව් දෙනෙකු තුවාල ලබා තිබේ.
+After the attack, a fire had erupted and the crowd had abandoned the ship.
 
-මියගිය පිරිසෙන් දෙදෙනෙකු පිලිපීන ජාතිකයින් වන අතර අනෙක් පුද්ගලයා වියට්නාම ජාතිකයෙක්.
+Three of the injured have been critical in US reports.
+
+Three persons who traveled by the hoothy attack were killed and four others were injured.
+
+Two of the deceased were Filipinon and the other was Vietnam.
+
+Meanwhile, 21 persons were redeemed by the shipwreck and the injured in the ship.
+
+The Indian Navy said that the suspects were redeemed by the Coltata ship, helicopters and boats.
 
 ...
 
 [Data](articles/919fa20b.json)
 
+[Extended Data](ext_articles/919fa20b.ext.json)
+
 ---
 
-### මූල්‍ය අරමුදල ලංකාව ගැන සතුටින්
+### Monetary Fund happily
 
 *2024-03-07 18:50:47* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-අරමුදල-ලංකාව-ගැන-සතුටින්/11-408483) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන නිසි ලෙස ක්‍රියාත්මක වන බව පෙන්නුම් කරමින් ශ්‍රී ලංකාවේ ආර්ථිකය නැවත යථා තත්ත්වයට පත්වීමට ආරම්භවීම සතුටට කරුණක් බව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහා වන ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් මහතා ප්‍රකාශ කළේය.
+The International Monetary Fund (IMF) has expressed optimism about Sri Lanka's economy recovery, with President Ranil Wickremesinghe and the IMF delegation meeting at the Ministry of Finance. The authorities were thanked for program implementation.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායම අතර හමුවක් අද (07) මුදල් අමාත්‍යංශයේදී පැවැති අතර එහිදී ඔහු මේ බව ප්‍රකාශ කළේය‍
+🟩
 
-එසේම මෙම වැඩසටහන ක්‍රියාත්මක කිරීම වෙනුවෙන් ශ්‍රී ලංකා බලධාරීන්ගේ කැපවීම සම්බන්ධයෙන් ද ඒ සිය ස්තූතිය පළ කරන බවද ඔහු සඳහන් කළේය.
+The International Monetary Fund (UN Sen.) The International Monetary Fund, Sri Lanka's Senior Mission, for Sri Lanka, said that the Sri Lankan economy begins to restore the Sri Lankan economy.
+
+President Ranil Wickremesinghe and the International Monetary Fund delegation held at the Ministry of Finance today (07)
+
+He also thanked the Sri Lankan authorities for the implementation of the program.
 
 ◼️
 
 [Data](articles/1434683b.json)
+
+[Extended Data](ext_articles/1434683b.ext.json)
 
 ---
 
@@ -1558,23 +1574,33 @@ The lorry traveling to Jaffna through the Point Pedro Road crashed into a shop i
 
 ---
 
-### පහර කෑමෙන් සිසුවාත් ගුරුවරුන් දෙදෙනෙකුත් රෝහලේ
+### Two student hospitalized due to attack
 
 *2024-03-07 13:18:07* · [`adalk`](https://www.ada.lk/breaking_news/පහර-කෑමෙන්-සිසුවාත්-ගුරුවරුන්-දෙදෙනෙකුත්-රෝහලේ/11-408472) · `si`
 
-ගල්නෑව නගරයේ ප්‍රධාන පාසලක සිසුන් දෙදෙනෙකු අතර ඇතිවූ ආරවුලක් විසඳීමට ගිය ක්‍රීඩා ගුරුවරයෙකුගේ පහර කෑ බව කියන සිසුවෙකු, රෝහල්ගත කර ඇති බවත්, එම සිසුවාගේ සහෝදරයාගේ පහර කෑමට ලක් වූ එම පාසලේ ගුරුවරුන් දෙදෙනකු තුවාල ලබා රෝහල්ගත කර ඇති බව ගල්නෑව  පොලිසිය පවසයි.
+Two students and a sports teacher hospitalized after a confrontation at a school in Galnewa. A 17-year-old was arrested. Dispute between students led to assaults.
 
-මෙම පහර දීම සම්බන්ධයෙන් 17 හැවිරිදි  තරුණයෙකු  බුල්නෑව ලෝළුගස්වැව ප්‍රදේශයේදී අත්අඩංගුවට ගත් බවද පොලිසිය කියයි.
+🟩
 
-පාසලේ ක්‍රීඩා පුහුණුවක් අතරතුර එම පාසලේ 9 ශ්‍රේණියේ සහ 11 ශ්‍රේණියේ සිසුන් දෙදෙනෙකු අතර එල්ලේ පිත්තක් සම්බන්ධයෙන් ඇති වූ ආරවුලක් ගැටුමක් දක්වා දුර දිග ගොස් තිබූ බව පොලිසිය කියයි.
+A student of a sports teacher has been hospitalized and two teachers who were assaulted by the student who had been assaulted by two students in the Galnewa town have been hospitalized.
 
-එම ගැටුම විසඳීමට පාසලේ ක්‍රීඩා ගුරුවරයා සහ තවත් ගුරුවරයකු සමග මැදිහත් වී 11වන ශ්‍රේණියේ සිසුවාට කළ පහරදීමකින් එම සිසුවා රෝහල්ගත කර ඇති බව පොලිසිය සඳහන් කළේය.
+A 17-year-old youth was arrested in Lalgaswewa area regarding the attack.
 
-පහර කෑමට  ලක් වූ එම සිසුවා ගල්නෑව  රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතරවාරයේදී ක්‍රීඩා ගුරුවරයා සිද්ධිය පැහැදිලි කිරීම සඳහා දරුවාගේ භාරකරුවන් සොයා එම නිවසට ගිය අවස්ථාවේදී දරුවාගේ සහෝදරයෙකු, තවත් පුද්ගලයන් තිදෙනකු සමග පැමිණ පොලු වලින් හා අතින් පයින් පහර දී ඇති බවද පොලීසිය කියයි.
+Police say a dispute between two students in the school and a blatter of two students in the school were in a confrontation took place during the school sporting training.
+
+The student has been hospitalized following an assault on the school's sporting teacher and another teacher to resolve the conflict.
+
+The girl is being treated at the Galnewa Hospital while the sports teacher went to the house, the child's guardians had come with the child's caretakers, three others.
+
+It is reported that the child's grandmother and the little mother was coherently taken to a room safely at home.
+
+The four suspects have also been assaulted by the four poles and iron chains that the teacher had to talk to another teacher and rescue him.
 
 ...
 
 [Data](articles/62bc1f3e.json)
+
+[Extended Data](ext_articles/62bc1f3e.ext.json)
 
 ---
 

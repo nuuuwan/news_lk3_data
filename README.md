@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 17:53:21**
+As of **2024-03-07 18:08:58**
 
 ## Newspaper Stats
 
-*Scraped **11,503** Articles*
+*Scraped **11,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 976
-adaderanalk | 1,400
+adaderanalk | 1,401
 tamilmirrorlk | 1,401
-virakesarilk | 1,574
-dailymirrorlk | 1,750
+virakesarilk | 1,575
+dailymirrorlk | 1,751
 adaderanasinhalalk | 1,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,503 (100.0%) of 11,503 articles have been extended.
+11,503 (100.0%) of 11,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Heat advisory: Temperatures to reach ‘caution level’ in 10 districts
+
+*2024-03-07 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97802/heat-advisory-temperatures-to-reach-caution-level-in-10-districts) · `en`
+
+The Meteorology Department has issued a heat Index Advisory for tomorrow (08) for the North-western and Southern provinces and Rathnapura, Anuradhapura, Mannar, Vavuniya and Mullaitivu districts.
+
+Heat index, the temperature felt on the human body is expected to increase up to ‘Caution Level’ at some places in North-western and Southern provinces and in Rathnapura, Anuradhapura, Mannar, Vavuniya and Mullaitivu districts, it said.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps, the Department warned.
+
+Thus, members of the public have been advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They were also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/5b3fe0c7.json)
+
+---
+
+### ஹமாஸ் பேச்சுவார்த்தைக் குழுவினர் கெய்ரோவிலிருந்து வெளியேறினர்
+
+*2024-03-07 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178192) · `ta`
+
+போர்நிறுத்தம் குறித்த பேச்சுவார்த்தைகளில் ஈடுபட்டுவந்த ஹமாஸ் இயக்கத்தின் பிரதிநிதிகள் கெய்ரோவிலிருந்து வெளியேறியுள்ளனர் என எகிப்திய அதிகாரிகள் இன்று தெரிவித்துள்ளன ர்.
+
+காஸாவில் இஸ்ரேல் -ஹமாஸ் இடையே போர் நிறுத்தம் ஏற்படுத்துவது குறித்து கத்தார், எகிப்து ஏற்பாட்டில், எகிப்திய தலைநகர் கெய்ரோவில் பேச்சுவார்த்கைள் நடைபெற்றுவந்தன.
+
+ஆலோசனைகளுக்காக ஹமாஸ் பிரதிநிதிகள் கெய்ரோவிலிருந்து வெளியேறியுள்ளனர். எனினும் அடுத்த வாரம் மீண்டும் பேச்சுவார்த்தை ஆரம்பமாகும் என எகிப்திய அரசாங்க வட்டாரமொன்று தெரிவித்ததாக எகிப்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+உடன்பாடொன்றை ஏற்படுத்துவதற்கு மத்தியஸ்தர்கள் மேற்கொண்ட அனைத்து முயற்சிகளையும் இஸ்ரேல் தடுத்துவிட்டது என ஹமாஸ் பிரதிநிதி சமி அபு ஸுஹ்ரி கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/e4d60808.json)
+
+---
+
+### CEB to introduce instalment payment scheme for new connections: Minister
+
+*2024-03-07 17:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-to-introduce-instalment-payment-scheme-for-new-connections-Minister/108-278429) · `en`
+
+Parliament, March 7 (Daily Mirror)- Steps are being taken to introduce a mechanism to pay the connection charge for new electricity connections through an instalment payment scheme, Power and Energy Minister Kanchana Wijesekara said today.
+
+He told Parliament that the proposal to introduce the instalment payment scheme has been approved by the Board of Directors of the Ceylon Electricity Board (CEB) and that it will be announced by next week.
+
+Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the Minister said the new system will allow consumers to obtain new connections after paying only 25 per cent of the total connection fee, which is around Rs. 40,000, and pay the rest in ten or twelve instalments.
+
+◼️
+
+[Data](articles/a0a76b47.json)
+
+---
 
 ### Four-year-old child killed in a lorry
 
@@ -2227,75 +2279,5 @@ The rupee equivalent of the dollar tariff for Adani wind plants is 27.65 rupees,
 [Data](articles/2c9f27eb.json)
 
 [Extended Data](ext_articles/2c9f27eb.ext.json)
-
----
-
-### Ambassadors meet among Anura and countries
-
-*2024-03-07 09:49:48* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හ-රටවල්-හයක-තානාපතිවරුන්-අතර-හමුවක්/11-408465) · `si`
-
-Yesterday, Ambassadors and representatives met with Anura Kumara Dissanayake, National Zoological Leader, including Turkish, Bangladeshi, Indonesian, and Maldivian diplomats, and former MPs Bimal Ratnayake and Nalinad Jayatissa.
-
-🟩
-
-A meeting between the Ambassadors and the National Zoological Leader Anura Kumara Dissanayake was held yesterday.
-
-The Turkish Ambassador of Palestine, the Turkish Ambassador, Bangladesh High Commissioner, Bangladesh High Commissioner, the Indonesian Ambassador, Maladivian Ambassador.
-
-Former MPs Bimal Ratnayake and Nalinad Jayatissa, representing the national folk force, has joined the meeting.
-
-◼️
-
-[Data](articles/8d7eeae9.json)
-
-[Extended Data](ext_articles/8d7eeae9.ext.json)
-
----
-
-### Sudden decision from the Ministry of Finance about payments
-
-*2024-03-07 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194234) · `si`
-
-The Ministry of Finance will pay Rs. 7,500 monthly to unidentified kidney patients and the elderly from April 1, 2023, until March 3, 2025. Additionally, 820,000 adult aid recipients will receive Rs. 3,000 each.
-
-🟩
-
-The Ministry of Finance has decided to conduct the payments for the benefit of unidentified kidney patients and the elderly catchment patients, unidentified kidney patients and elderly assistance.
-
-It is reported that the payments are due to be implemented from the first on April 1.
-
-Accordingly, a monthly allowance of Rs. 7,500 each month of Rs.
-
-In addition, 820,000 people receive adult aid are expected to be given Rs. 3,000 each.
-
-The allowance should be paid until March 3, 2025 to March 3, 2025.
-
-◼️
-
-[Data](articles/1469021a.json)
-
-[Extended Data](ext_articles/1469021a.ext.json)
-
----
-
-### Three railway employees, suspended over alleged assault, reinstated
-
-*2024-03-07 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97788/three-railway-employees-suspended-over-alleged-assault-reinstated) · `en`
-
-The three railway employees, who were suspended from service for allegedly assaulting two foreign nationals, have been reinstated pending disciplinary action.
-
-A contentious situation had ensued at the Nawalapitiya railway station on Tuesday (March 05) after two foreigners were found to have been travelling in the first-class compartment of the Badulla-bound ‘Podi Menike’ express train without tickets.
-
-Subsequently, the Railway Department suspended the services of two Station Masters (Class 2) and a Railway Guard for allegedly assaulting the two tourists.
-
-The suspension imposed on the three employees has thus been lifted after a preliminary inquiry.
-
-However, the suspension of the security officer attached to the Nawalapitiya railway station continues to be in place, the Railway Department added.
-
-◼️
-
-[Data](articles/b1cf1e64.json)
-
-[Extended Data](ext_articles/b1cf1e64.ext.json)
 
 ---

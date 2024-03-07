@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 12:33:26**
+As of **2024-03-07 12:47:50**
 
 ## Newspaper Stats
 
-*Scraped **11,433** Articles*
+*Scraped **11,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 606
 islandlk | 612
 adalk | 965
 adaderanalk | 1,390
-tamilmirrorlk | 1,394
-virakesarilk | 1,563
+tamilmirrorlk | 1,395
+virakesarilk | 1,564
 dailymirrorlk | 1,742
-adaderanasinhalalk | 1,786
+adaderanasinhalalk | 1,787
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,427 (99.9%) of 11,433 articles have been extended.
+11,433 (100.0%) of 11,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### பஸ் விபத்தில் 13 காயம்
+
+*2024-03-07 12:34:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-13-காயம்/175-334323) · `ta`
+
+வவுனியா மெதவாச்சி பகுதியில் தனியார் பஸ்ஸொன்று, சாரதியின் கவனக்குறைவால் அருகிலிருந்த வீட்டின் கராஜ் மீது மோதி விபத்துக்குள்ளானதில் 13 பேர் காயமடைந்து மெதவாச்சி வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+தனியார் பஸ்ஸின் சாரதி திடீரென சுகயீனமடைந்ததால் பஸ்ஸை கட்டுப்படுத்த முடியாமல் மெதவாச்சியிலுள்ள வீடொன்றுடன் கூடிய கராஜ் மீது மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த விபத்தில், 13 பேர் காயமடைந்துள்ளதாகவும் அவர்களில் 6 பேர் சிறு காயங்களுக்குள்ளாகி வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதற்கமைய, படுகாயமடைந்த 07 பேர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+மேலும், இந்த தனியார் பஸ் வவுனியாவில் அமைந்துள்ள ஆடை விற்பனை நிலையத்திற்கு ஊழியர்களை ஏற்றிச் சென்றதாகவும், விபத்து இடம்பெற்ற போது பஸ்ஸில் சுமார் 40 பணியாளர்கள் இருந்ததாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/223bb855.json)
+
+---
+
+### மத்ரஸா மாணவனின் மர்ம மரணம் ; 4 பேருக்கு கடும் நிபந்தனையுடன் பிணை ; மௌலவிக்கு விளக்கமறியல்
+
+*2024-03-07 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178151) · `ta`
+
+மாணவனின் மர்ம மரணம் தொடர்பில்  சிசிடிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் கைதான  4 சந்தேக நபர்களை கடும் நிபந்தனையின் கீழ் பிணையில்   விடுவித்தது கல்முனை நீதிவான் நீதிமன்றம்.
+
+குறித்த வழக்கு  நேற்று புதன்கிழமை (6)  கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில், மௌலவி உட்பட  சிசிரிவி காணொளிகளை அழித்த குற்றச்சாட்டில் கைது செய்யப்பட்ட 4 சந்தேக நபர்களும்  மன்றில்  முன்னிலைப்படுத்தப்பட்டனர்.
+
+இதன்போது விளக்கமறியலில் வைக்கப்பட்டிருந்த  சிசிரிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் கைதான  4 சந்தேக நபர்களை கடும் நிபந்தனையின் கீழ் பிணையில் விடுதலை செய்ய உத்தரவிட்ட  நீதிவான் மற்றுமொரு சந்தேக நபரான மௌலவியை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டார்.
+
+...
+
+[Data](articles/3b89367b.json)
+
+---
 
 ### President instructs to expedite housing for homeless families in Kajimawatta
 
@@ -50,51 +86,97 @@ Wickremesinghe has also underscored the significance of implementing the program
 
 [Data](articles/359a121b.json)
 
----
-
-### பொதுமக்கள் இருவர் மீது தாக்குதல் ; உடப்பு குற்றப்பிரிவு பொறுப்பதிகாரி இடைநிறுத்தம்
-
-*2024-03-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178136) · `ta`
-
-பொதுமக்கள் இருவர் மீது செவ்வாய்க்கிழமை இரவு (மார்ச் 05) தாக்குதல் நடத்திய சம்பவம் தொடர்பில் உடப்பு பொலிஸ் குற்றப்பிரிவின் பொறுப்பதிகாரி சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளார்.
-
-இந்நிலையில், நேற்று புதன்கிழமை (06) காலை வைத்தியசாலையில் வைத்து கைது செய்யப்பட்டதோடு, பணியிலிருந்தும் இடைநிறுத்தப்பட்டுள்ளார்.
-
-சம்பவத்தின் போது அவர் மதுபோதையில் இருந்தாரா இல்லையா என்பதை அறிய இரத்த மாதிரிகளும் பெறப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/3ce972ec.json)
+[Extended Data](ext_articles/359a121b.ext.json)
 
 ---
 
-### தன்சானியாவில் விபத்தில் இரு இலங்கையர்கள் பலி
+### Two Sri Lankans killed in accident in Tanzania
 
-*2024-03-07 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178149) · `ta`
+*2024-03-07 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178149) · `ta`
 
-கிழக்கு ஆபிரிக்காவில் உள்ள தன்சானியாவில் செவ்வாய்க்கிழமை (மார்ச் 05) இரவு இடம்பெற்ற வாகன விபத்தில் இரண்டு இலங்கையைச் சேர்ந்த இளைஞர்கள் உயிரிழந்துள்ளார்கள்.
+Two Sri Lankan youths died in a Tanzania accident while traveling from Darus Salam to Mahenge. One was 23, from Galle Kottukoda, and the other 33, from Galle Maguluwa.
 
-இரு இளைஞர்களும் தன்சானியாவில் தாருஸ் சலாம் நகரிலிருந்து மஹேங்கே நகருக்கு பயணித்துக் கொண்டிருந்த போதே இந்த விபத்து இடம்பெற்றுள்ளதாக சர்வதேச ஊடகச் செய்திகள் தெரிவித்துள்ளன.
+🟩
 
-உயிரிழந்தவர்களில் ஒருவர்  காலி கொட்டுகொட பகுதியை சேர்ந்த 23 வயதுடையவர் எனவும், மற்றையவர் காலி மகுலுவ பகுதியைச் சேர்ந்த 33 வயதுடையவர் எனவும் அடையாளம் காணப்பட்டுள்ளனர்.
+Two Sri Lankan youths were killed in a vehicle accident in Tanzania, East Africa on Tuesday night (March 05).
+
+International media reports that the accident occurred while the two youths were traveling from Darus Salam in Tanzania to Mahenge.
+
+One of the deceased has been identified as 23 years old from Galle Kottukoda and the other is 33 years old from Galle Maguluwa.
 
 ◼️
 
 [Data](articles/f77e01be.json)
 
+[Extended Data](ext_articles/f77e01be.ext.json)
+
 ---
 
-### இருவரை தாக்கிய பொலிஸ் அதிகாரி பணி இடைநிறுத்தம்
+### Attack on two civilians;Bodied committee suspended
+
+*2024-03-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178136) · `ta`
+
+A police officer in the Udappu Police Crime Branch was suspended after being arrested for an attack on two civilians. Blood samples were taken to determine if he was under the influence of alcohol at the time of the incident.
+
+🟩
+
+The police officer in charge of the Udappu Police Crime Branch has been suspended from the service of the police on Tuesday night (March 05).
+
+In this case, he was arrested at the hospital on Wednesday morning and suspended from work.
+
+Blood samples have also been obtained to know whether or not he was in alcohol at the time of the incident, police said.
+
+◼️
+
+[Data](articles/3ce972ec.json)
+
+[Extended Data](ext_articles/3ce972ec.ext.json)
+
+---
+
+### කාන්තාවකගේ දෑත් චිත්‍ර ශිල්පියෙකුට බද්ධ කරයි
+
+*2024-03-07 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194240) · `si`
+
+සාර්ථක වූ දෑත් බද්ධ කිරීමේ සැත්කමක් පිළිබඳව සුවිශේෂී කතාවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙහි තවත් සුවිශේෂී කරුණක් වන්නේ මෙලෙස නැවත දෑත් හිමිව ඇත්තේ චිත්‍ර ශිල්පියෙකුට වීමය.
+
+අවාසනාවන්ත දුම්රිය අනතුරකින් 2020 වර්ෂයේදී මෙම චිත්‍ර ශිල්පියාට සිය දෑත් අහිමිව ගොස් ඇත.
+
+දෑත් අහිමිව සිටි චිත්‍ර ශිල්පියාට පසුගියදිනක යළි දෑත් හිමිවන්නේ සිය ශරීරාංග පරිත්‍යාග කළ කාන්තාවක් නිසාවෙනි.
+
+එම කාන්තාවගේ වකුගඩු, අක්මාව සහ අක්ෂි කොටස් තවත් පුද්ගලයින් තිදෙනෙකු වෙත බද්ධ කර ඇති බවද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මෙම සැත්කමට පැය 12ක් ගතවී ඇති අතර දිල්ලියේදී වෙනත් අයෙකුගේ දෑත් සාර්ථක ලෙස බද්ධ කිරීමේ ප්‍රථම සැත්කම මෙයයි.
+
+45 හැවිරිදි වියේ පසුවන මෙම වාසනාවන්ත චිත්‍ර ශිල්පියාට නැවතත් දෑත් හිමිව තිබීමේ සම්පූර්ණ ගෞරවය අති දක්ෂ වෛද්‍යවරුන්ටත් සිය ශරීරාංග පරිත්‍යාග කළ කාන්තාවටත් හිමිවියයුතුමය.
+
+සැත්කම සාර්ථකව නිමවූ පසුව සමූහ ඡායාරූපය ගැනීමේදී චිත්‍ර ශිල්පියා සිය අලුත් දෑතේ මහපට ඇඟිලි ඉහළට ඔසවමින් ස්තූතිය පුදකළ අයුරු දැකගත හැකිවිය.
+
+◼️
+
+[Data](articles/969044e6.json)
+
+---
+
+### A police officer who attacked two men suspended
 
 *2024-03-07 12:12:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரை-தாக்கிய-பொலிஸ்-அதிகாரி-பணி-இடைநிறுத்தம்/175-334322) · `ta`
 
-இருவரை தாக்கிய குற்றச்சாட்டில் உடப்பு பொலிஸ் நிலையத்தின் உப பொலிஸ் பரிசோதகர் ஒருவர் பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+A Sub Inspector of Police at Udappu Police Station has been suspended for allegedly assaulting two men.
 
-தனது நண்பர்களுடன் இணைந்து பொதுமக்கள் இருவர் மீது தாக்குதல் நடத்தியதாக கூறப்படும் சம்பவம் தொடர்பில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+🟩
+
+The police media spokesman's office said that a Sub Inspector of Police at Udappu Police Station has been suspended for allegedly assaulting the two men.
+
+The move has been taken over the alleged attack on two civilians along with his friends.
 
 ◼️
 
 [Data](articles/859bf0dd.json)
+
+[Extended Data](ext_articles/859bf0dd.ext.json)
 
 ---
 
@@ -156,37 +238,51 @@ The Houthis have been attacking ships in the Red Sea since November in what they
 
 ---
 
-### மாணவர்களின் கல்விக்காக  அன்று முதல் ஜனாதிபதி ரணில் விக்ரமசிங்க பாரிய சேவையாற்றியுள்ளார்  - ருவன் விஜேவர்தன
+### President Ranil Wickremesinghe has been a massive service for the education of the students - Ruwan Wijewardena
 
 *2024-03-07 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178148) · `ta`
 
-மல்வானை அல் முபாரக் மத்திய கல்லூரியின் நூற்றாண்டு விழாவை முன்னிட்டு கடந்த வருடம் செப்டெம்பர் மாதம் 6ஆம் திகதி கல்லூரியில் இடம்பெற்ற நிகழ்வில் கலந்து கொண்ட  ஜனாதிபதி ரணில் விக்ரமசிங்க, அனைத்து வசதிகளுடன் கூடிய கேட்போர் கூடத்தை நிர்மாணிப்பதாக வாக்குறுதி அளித்திருந்தார்.
+President Ranil Wickremesinghe pledged to build an auditorium for Malwanai Al Mubarak Central College, marking the centenary last year. The foundation stone was laid with Ruwan Wijewardena, highlighting the project's importance for education and climate change. The auditorium will be constructed with all necessary amenities and is expected to be completed with Navy assistance.
 
-அதற்கமைய கேட்போர் கூடத்திற்கான அடிக்கல் நாட்டு விழா காலநிலைமாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தனவின் பங்களிப்புடன் நேற்று (06) நடைபெற்றது.
+🟩
 
-ஜனாதிபதியின் பணிப்புரைக்கு அமைய இந்த கேட்போர் கூடம் அமைப்பதற்கான நிதி ஒதுக்கப்பட்டதுடன், ஒரே நேரத்தில் சுமார் 5000 மாணவர்கள் ஒன்று கூடக்கூடிய சகல வசதிகளுடன் இந்த புதிய கேட்போர் கூடம் நிர்மாணிக்கப்பட உள்ளது.
+President Ranil Wickremesinghe, who was present at the college held on September 6 last year to mark the centenary of Malwanai Al Mubarak Central College, promised to construct a auditorium with all facilities.
 
-புதிய கேட்போர் கூட அடிக்கல் நாட்டும் நிகழ்வில் கலந்து கொண்டு உரையாற்றிய ருவன் விஜேவர்தன, கடற்படையினரின் பங்களிப்புடன் கேட்போர் கூடத்தின் நிர்மாணப் பணிகள் துரிதமாக பூர்த்தி செய்யப்பட்டு மாணவர்களிடம் கையளிக்கப்படும் என்று தெரிவித்தார்.
+The foundation stone for the auditorium was held yesterday (06) with the participation of President's Senior Advisor Ruwan Wijewardena on climate change.
+
+The new auditorium is to be constructed with all the amenities that can be built at the same time, with all the amenities that can be made at the same time.
+
+Speaking at the foundation stone laying ceremony, Ruwan Wijewardena said that with the participation of the Navy, the construction of the auditorium will be completed and handed over to the students.
+
+Ruwan Wickremesinghe pointed out that Ranil Wickremesinghe has played a major role for the education of the students and that the construction of the new hospital will begin next month in response to the promise made by the President of Biyagama.
 
 ...
 
 [Data](articles/89a7f0c5.json)
 
+[Extended Data](ext_articles/89a7f0c5.ext.json)
+
 ---
 
-### சுழிபுரம் புத்தர் சிலைக்கு எதிராக நாளை எதிர்ப்பு போராட்டம்!
+### Opposition protest against the statue of Buddha
 
 *2024-03-07 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178144) · `ta`
 
-சுழிபுரம் - சவுக்கடியில் வைக்கப்பட்டுள்ள புத்தர் சிலைக்கு எதிர்ப்பு தெரிவித்து நாளை வெள்ளிக்கிழமை (08) இடம்பெறவுள்ள போராட்டத்தில் கலந்துகொள்ளுமாறு தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ் அழைப்பு விடுத்துள்ளார்.
+Tamil National People's Front spokesperson Kanagaratnam Sukash has organized a protest against the Buddha statue in Chiripuram-Chowkadi for tomorrow, March 8th, at 10:30 am.
 
-அவர் இன்று வெளியிட்ட ஊடக அறிக்கை ஊடாக அழைப்பு விடுத்துள்ளார். அவ் அறிக்கையில் குறிப்பிடப்பட்டுள்ளதாவது,
+🟩
 
-சுழிபுரத்தில் கடற்படையினரால் சவுக்கடிப் பிள்ளையார் கோயிலடியில் வைக்கப்பட்டுள்ள புத்தர் சிலையை அகற்றக்கோரி, நாளை வெள்ளிக்கிழமை (08.03.2024) மு.ப 10.30 மணிக்கு எதிர்ப்புப் போராட்டம் சவுக்கடிப் பிள்ளையார் கோயில் முன்பாக நடைபெறவுள்ளது.
+Tamil National People's Front media spokesman Kanagaratnam Sukash has called for a protest to be held tomorrow (08) in protest of the Buddha statue of Chiripuram - Chowkadi.
+
+He has called through a media report released today. In the report,
+
+The protest will be held tomorrow (08.03.2024) at 10.30 am on Friday (08.03.2024).
 
 ◼️
 
 [Data](articles/82821d93.json)
+
+[Extended Data](ext_articles/82821d93.ext.json)
 
 ---
 
@@ -209,6 +305,34 @@ The certificates were awarded to all the successful completed scholarship succes
 [Data](articles/e64127da.json)
 
 [Extended Data](ext_articles/e64127da.ext.json)
+
+---
+
+### 'Shell' fuel company again in Sri Lanka
+
+*2024-03-07 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178141) · `ta`
+
+Shell returns to Sri Lanka after 63 years, marking a significant reunion with the local energy industry. The company's first fuel vessel will dock in Colombo on the 19th, under the new government's Energy and Economic Reform Scheme, allowing it to import, store, and distribute fuel.
+
+🟩
+
+'Shell' will start fuel operations in Sri Lanka from the 19th of this month after 63 years.
+
+The Shell Fuel Company, which has been operating in Sri Lanka since 1880, was nationalized by the Sri Lanka Freedom Party government in 1961.
+
+The company has since removed its operations in Asia from Sri Lanka and started in Singapore and became a great company in Singapore today.
+
+However, sixty -three years later, shell has reunited the Sri Lankan energy industry.
+
+The company's first fuel vessel will enter the port of Colombo on the 19th of this month after 63 years.
+
+Under the current government's Energy and Economic Reform Scheme, it has been allowed to import, store and distribute.
+
+◼️
+
+[Data](articles/4b6828bc.json)
+
+[Extended Data](ext_articles/4b6828bc.ext.json)
 
 ---
 
@@ -291,34 +415,6 @@ The wedding ceremony was held at a private zoo belonging to Mr. Ambani in the ci
 [Data](articles/e4590050.json)
 
 [Extended Data](ext_articles/e4590050.ext.json)
-
----
-
-### 'Shell' fuel company again in Sri Lanka
-
-*2024-03-07 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178141) · `ta`
-
-Shell returns to Sri Lanka after 63 years, marking a significant reunion with the local energy industry. The company's first fuel vessel will dock in Colombo on the 19th, under the new government's Energy and Economic Reform Scheme, allowing it to import, store, and distribute fuel.
-
-🟩
-
-'Shell' will start fuel operations in Sri Lanka from the 19th of this month after 63 years.
-
-The Shell Fuel Company, which has been operating in Sri Lanka since 1880, was nationalized by the Sri Lanka Freedom Party government in 1961.
-
-The company has since removed its operations in Asia from Sri Lanka and started in Singapore and became a great company in Singapore today.
-
-However, sixty -three years later, shell has reunited the Sri Lankan energy industry.
-
-The company's first fuel vessel will enter the port of Colombo on the 19th of this month after 63 years.
-
-Under the current government's Energy and Economic Reform Scheme, it has been allowed to import, store and distribute.
-
-◼️
-
-[Data](articles/4b6828bc.json)
-
-[Extended Data](ext_articles/4b6828bc.ext.json)
 
 ---
 
@@ -2231,79 +2327,5 @@ The Chinese company does not provide a solar battery scheme in the Northern Prov
 [Data](articles/76f04c90.json)
 
 [Extended Data](ext_articles/76f04c90.ext.json)
-
----
-
-### Ravana Lanka News Website Teacher Arrested by CIT
-
-*2024-03-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178122) · `ta`
-
-A teacher was arrested for running an unlicensed website and insulting military officials, posing a threat to national security.
-
-🟩
-
-The Colombo Fort Court on Wednesday (6) ordered the internet teacher who was arrested on the charge of conducting a website without license and insulting the military commander and the military.
-
-Calcande Pranwathalake Nisanga has been detained by the Criminal Investigation Department's Computer Criminal Investigation Department of the Criminal Investigation Department.
-
-The Criminal Investigation Department officials said that the suspect is running the Ravana Lanka News website and the reports he has published is a threat to national security and public safety.
-
-◼️
-
-[Data](articles/1fc06468.json)
-
-[Extended Data](ext_articles/1fc06468.ext.json)
-
----
-
-### Death rate increased in the country;Lower
-
-*2024-03-06 21:37:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இறப்பு-வீதம்-அதிகரித்தது-பிறப்பு-வீதம்-குறைந்தது/175-334304) · `ta`
-
-Asoka Abeysinghe, a parliamentarian, reported an increase in the death rate and a decrease in the birth rate due to economic impacts. Despite government claims of recovery, he highlighted ongoing struggles in a debate on the Taxes Bill. The population growth in 2023 fell significantly, with a notable reduction in births and an increase in deaths linked to economic crises.
-
-🟩
-
-United People's Power Parliamentarian Asoka Abeysinghe said the death rate of the country has increased and the birth rate has decreased due to economic impact.
-
-The government states that we have recovered from the economic impact. But he said that people are facing the struggle to live in a social structure.
-
-He was speaking at a debate on the Taxes Bill today (6) in Parliament.
-
-With 57 lakh families in the country, 91 percent of them have risen.
-
-Most families have been limited to three times a while. But the government states that the country has returned to normalcy.
-
-The total population growth in 2023 fell by 1 lakh 44 thousand compared to 2022. Birth rate has also been reduced. 7120 people have died of people who have faced various crises due to economic impact.
-
-The government should remember that relief cannot be deceived by the people. Remble
-
-◼️
-
-[Data](articles/a84065a2.json)
-
-[Extended Data](ext_articles/a84065a2.ext.json)
-
----
-
-### Govt has commenced essential development projects - State Minister
-
-*2024-03-06 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97783/govt-has-commenced-essential-development-projects-state-minister) · `en`
-
-In a recent announcement, State Minister for Urban Development and Housing, Arundika Fernando, revealed that the government has commenced crucial development projects.
-
-He also highlighted the growing interest from India, China, and several Western nations in investing in the country.
-
-State Minister Fernando made these statements at a press briefing held at the Presidential Media Centre today (06), under the theme ‘Collective Path to a Stable Country.’
-
-“In response to the economic crisis that halted development projects last season, the government has taken action as the economy shows signs of improvement. Necessary development work is now underway to address the country’s pressing needs and stimulate growth.
-
-Plans have been set to commence 2000 houses project in Colombo and its suburbs, with support from Chinese aid. Additionally, initiatives are in place to issue deeds to all residents residing in flats, ensuring proper documentation and ownership rights.
-
-...
-
-[Data](articles/051f3f72.json)
-
-[Extended Data](ext_articles/051f3f72.ext.json)
 
 ---

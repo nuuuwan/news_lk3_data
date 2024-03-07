@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 12:02:56**
+As of **2024-03-07 12:17:42**
 
 ## Newspaper Stats
 
-*Scraped **11,419** Articles*
+*Scraped **11,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,59 +12,145 @@ colombotelegraphcom | 108
 bbccomsinhala | 135
 dbsjeyarajcom | 174
 newsfirstlk | 363
-economynextcom | 591
+economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 965
-adaderanalk | 1,388
+adaderanalk | 1,389
 tamilmirrorlk | 1,393
 virakesarilk | 1,559
-dailymirrorlk | 1,739
+dailymirrorlk | 1,742
 adaderanasinhalalk | 1,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,416 (100.0%) of 11,419 articles have been extended.
+11,419 (99.9%) of 11,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### පාර්ලිමේන්තුවේ කියුම් කෙරුම් ඉගෙනගත්තෝ
+### Udappuwa Sub-Inspector arrested over alleged assault granted bail
+
+*2024-03-07 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97790/udappuwa-sub-inspector-arrested-over-alleged-assault-granted-bail) · `en`
+
+The officer-in-charge (OIC) of Udappuwa Police Crimes Division, who was arrested for allegedly assaulting several civilians, has been released on bail after being produced before the Puttalam Magistrate’s Court.
+
+Additionally, the Sub-Inspector in question was suspended from duties with effect from today (March 07) on the orders of the OIC of Puttalam Division, the police media division said in a press release.
+
+He was arrested for allegedly assaulting several individuals in Udappuwa on Tuesday night (March 05) during an altercation that ensued between him and several other civilians.
+
+According to the police, witnesses had also videotaped the police officer in question using crude language on the area residents and blasting them for reportedly having spat on his vehicle, in which he had been travelling with two other individuals.
+
+...
+
+[Data](articles/ca1c1d19.json)
+
+---
+
+### Bollywood icons to grace opening ceremony of Legends Cricket Trophy 2024
+
+*2024-03-07 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bollywood-icons-to-grace-opening-ceremony-of-Legends-Cricket-Trophy-2024/108-278416) · `en`
+
+Delhi, March 7 (crictracker) - The stage is set, the anticipation palpable, as the cricketing world eagerly awaits the dazzling opening ceremony of the Legends Cricket Trophy, slated to be held in Sri Lanka. Promising to be a unique celebration of cricketing excellence and entertainment, the event will witness legendary cricketers grace the field and feature stellar performances by renowned stars from the entertainment industry.
+
+Icons such as Sanjay Dutt, Badshah, Emran Hashmi, and Jacqueline Fernandez are poised to light up the event with their electrifying performances, adding a unique dimension to this already eagerly awaited spectacle.
+
+The action-packed tournament spanned across 11 days will also see some of the biggest cricketing stars from the yesteryears including Chris Gayle, Yuvraj Singh, and Harbhajan Singh, among others. This event promises epic matches in the new 90-ball format that will reignite cherished rivalries and celebrate cricketing excellence.
+
+...
+
+[Data](articles/85b7b572.json)
+
+---
+
+### Three killed in first fatal Houthi attack on Red Sea shipping: Two Lankans among crew
+
+*2024-03-07 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-killed-in-first-fatal-Houthi-attack-on-Red-Sea-shipping-Two-Lankans-among-crew/108-278417) · `en`
+
+LONDON, March 7 (Reuters) - A Houthi missile attack killed three seafarers on a Red Sea merchant ship, which had a crew of 20 members including two Sri Lankans, on Wednesday, U.S. Central Command (CENTCOM) said, the first fatalities reported since the Iran-aligned Yemeni group began strikes against shipping in one of the world's busiest trade lanes.
+
+The Houthis claimed responsibility for the attack, which set the Greek-owned, Barbados-flagged ship True Confidence ablaze around 50 nautical miles off the coast of Yemen's port of Aden.
+
+In an earlier message on X responding to the Houthi claim, Britain's embassy wrote: "At least 2 innocent sailors have died. This was the sad but inevitable consequence of the Houthis recklessly firing missiles at international shipping. They must stop."
+
+The Houthis have been attacking ships in the Red Sea since November in what they say is a campaign in solidarity with Palestinians during the war in Gaza.
+
+...
+
+[Data](articles/6477d607.json)
+
+---
+
+### They learned the claims of Parliament
 
 *2024-03-07 11:33:10* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-කියුම්-කෙරුම්-ඉගෙනගත්තෝ/11-408467) · `si`
 
-පාර්ලිමේන්තු කටයුු සහ ක්‍රියා පටිපාටි පිළිබඳ පැවැත්වූ ‌ෙකටි කාලීන පාඨමාලාව සාර්ථකව නිමාකළ ශ්‍රී ලංකා රජරට විශ්ව විදයාලයේ විද්‍යෘර්ථයින් සදහා පැවති සහතිකපත් ප්‍රදානය කිරීමේ උත්සවය පසුගියදා  මිහින්තලේ රජරට විශ්ව විද්‍යාලයේදී පැවැත්විනි.
+Rajarata University recently held a Certificate of Scripture of the Government of Parliament and procedures event. This event empowered Sri Lankan youth to better understand Parliament's claims, enhancing their participation in citizenship. Successful scholars received certificates, and a special proposal was made for 10-day scholars.
 
-රටේ පුරවැසියා පාර්ලිමේන්තු ක්‍රියාදාමයට වඩාත් සක්‍රීයව දායක කර ගැනීම වෙනුවෙන් ක්‍රියාත්මක විවෘත පාර්ලිමේන්තු සංකල්පය අනුව මෙරට තරුණ ප්‍රජාවට අද වන විට වැඩි වශයෙන්පා ර්ලිමේන්තු කටයුුතු සමඟ සම්බන්ධ වීමට අවස්ථාව ලැබී ඇති බවත්, පාර්ලිමේන්තු කටයුු පිළිබඳ දැනුම තරුණ ප්‍රජාවට ඉතා වැදගත් බවත් මීට සහභාගීවූ පාර්ලිටේන්තුටේ මහටල්කේ කුෂානි රෝහණදීර මහත්මිය පෙන්වා දුන්නාය.
+🟩
 
-මෙහිදී පාඨමාලාව සාර්ථකව නිමකළ සියලු විද්‍යෘර්ථයින් සදහා සහතිකපත් ප්‍රදානය කළ අතර පාඨමාලාව අවසානයේ විශිෂ්ටතම නිබන්ධන ඉදිරිපත් කළ විද්‍යෘර්ථයින් 10 දෙනා සදහා විශේෂ ත්‍යගප්‍රදානයක්ද සිදුවිය.
+The Certificate of Scripture of the Government of Parliament and procedures was held at Rajarata University recently.
+
+The youth of the country has been able to join the Sri Lankan youth to participate in the country's citizenship more effectively and the knowledge of Parliament is very important to the youth and the knowledge of the youth.Given.
+
+The certificates were awarded to all the successful completed scholarship successfully and at the end of the course, a special proposal was held for the 10-day scholars.
 
 ◼️
 
 [Data](articles/e64127da.json)
 
+[Extended Data](ext_articles/e64127da.ext.json)
+
 ---
 
-### ජෝතීර්යවේදියා දුම්රියේ ගැටී මරුට
+### Paid Rs. 3,000 re-connection fee two months ago: MP contradicts Kanchana
+
+*2024-03-07 11:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paid-Rs-3-000-re-connection-fee-two-months-ago-MP-contradicts-Kanchana/108-278415) · `en`
+
+Parliament, March 7 (Daily Mirror)- Contradicting the Power and Energy Minister's claim that the electricity re-connection fee was reduced to Rs. 800 this year, newly appointed Anuradhapura District MP M.C. Muthukumarana said he paid Rs. 3,000 as reconnection fee two months ago.
+
+MP Muthukumarana told this in Parliament after Minister Kanchana Wijesekara said that the reconnection fee which was Rs. 3,000 earlier was reduced to Rs. 1,300 last year and that it was further reduced to Rs. 800 from this year.
+
+"Minister, the reconnection fee you stated is wrong. I also paid Rs. 3,000 two months ago. I request you to look into this matter," MP Muthukumarana  said.
+
+Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the Minister said the electricity re-connection fee was reduced from Rs. 3,000 to Rs. 1,300 last year and that it was further reduced to Rs. 800 this year.
+
+◼️
+
+[Data](articles/7a7d2233.json)
+
+---
+
+### Jativa hit by train
 
 *2024-03-07 11:24:56* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතීර්යවේදියා-දුම්රියේ-ගැටී-මරුට/11-408466) · `si`
 
-මහරගම පමුණුව ප්‍රදේශයට රෙදිපිළි මිලදී ගැනීම සඳහා දෛනිකව පැමිණෙන ජනතාවගේ හස්ත සංඥා අනුව පලාඵල කීමට පුරුදුව සිටි ජෝතිර්වේදියෙකු ඊයේ (06) දා මහරගම දුම්රිය ස්ථානය අසලදී දුම්රියේ ගැටේ ජීවිතක්ෂයට පත්ව ඇතැයි මහරගම පොලිසිය පවසයි.
+A 75-year-old man from Hakarala, Maharagama, was hit by a train near Maharawal road, Maharagama, while traveling to Duru Laboratories. He was a resident of Ravaya, Rassagala Road, Balangoda, and worked in the Pamunura area, buying machinery and textures. The train was slow, and the incident is under investigation.
 
-මෙසේ මියගොස් ඇත්තේ බලංගොඩ රාස්සගල හැරමිටිගල පාරේ පදිංචි මහා වීර වික්‍රමාරච්චිගේ චන්ද්‍රපාල නමැති හෝකන්දර ප්‍රදේශයේ තාවකාලිකව පදිංචිව සිටි (75) හැවිරිදි ජෝතිර්වේදියකු බව පොලිසිය කියයි.
+🟩
 
-මෙම පුද්ගලයා වසර ගණනාවක සිට මහරගම පමුණුව ප්‍රදේශයේ රැඳී සිටිමින් එමේ ප්‍රදේශයට දෛනිකව රෙදිපිළි මිලදී ගැනීම සඳහා පැමිණෙන ජනතාවගේ හස්ත සංඥා අනුව පලාපල කීමටත් යන්ත්‍ර මන්ත්‍ර ගුරුකම් කරදීමටත් පුරුදුව සිටි පුද්ගලයෙකු පුද්ගලයෙකු බව පැවසේ.
+A hostly named a hostly, a hostly, was hit by the train to the Duru Laboratories to the Pamunuwa Pamunuwa, Maharagama yesterday (06), Maharagama Police said.
 
-ඒ අනුව මෙම පුද්ගලයා  සුපුරුදු පරිදි (06) දා උදෑසන මහරගම නගරයට පැමිණ හයිලේවල් මාර්ගය දෙස සිට පමුණුව දෙසට යමින් සිටියදී උදෑසන 9.55 පමණ  අවිස්සාවේල්ල දෙස සිට කොළඹ දෙසට ධාවනය වෙමින් තිබූ අංක 9254
+The deceased has been identified as a 75-year-old hostier, a resident of Hakarala, a resident of the Hakarala, a resident of Ravaya in Rassagala Road, Balangoda.
 
-දරන මන්දගාමී දුම්රිය මහරගම දුම්රිය ස්ථානයට පැමිණ දුම්රිය ස්ථානයේ තිබූ භාණ්ඩ තොගයක් දුම්රියට පටවා යළි 9.57 ගමන් අරඹනවාත් සමගම මෙසේ දුම්රියේ ගැටී අනතුරක් සිදුව තිබුණි.
+It is said that this person is a person who is a person who is a person who used to be played in the Pamunura area of Maharagama and buying machinery to buy the textures.
+
+Accordingly, the man was traveling to Maharagama in Maharagama on the morning of the next morning, near the Highlight road from Maharawal road.
+
+Slow train was caught by the train and restored the train and started traveling again.
+
+The police ordered the police after the police arrived at the scene and commenced investigations into the incident.
+
+Accordingly, the Deaths of the Police have ordered the police at Kalubowila Teaching Hospital on the post mortem examination of the remains.
 
 ...
 
 [Data](articles/19e2154a.json)
+
+[Extended Data](ext_articles/19e2154a.ext.json)
 
 ---
 
@@ -159,6 +245,24 @@ Meanwhile, this new stadium and a unique memory will be constructed for the 2024
 [Data](articles/62730a43.json)
 
 [Extended Data](ext_articles/62730a43.ext.json)
+
+---
+
+### Sri Lanka state bus service makes Rs1.098bn in 2023: Minister
+
+*2024-03-07 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-bus-service-makes-rs1-098bn-in-2023-minister-153626/) · `en`
+
+ECONOMYNEXT – Sri Lanka Transport Board (SLTB) has made a profit of 1.098 billion rupees in 2023, despite facing the threat of closure, Minister of Transport Bandula Gunawardena has said.
+
+“At a time when there is an opinion that it should be privatised, we have promised to make Langama [SLTB] profit by 2025. Accordingly, by the end of 2023, Langama recorded a profit of 1098 million rupees,” Gunawardena said at an event to appoint new drivers and conductors.
+
+The Ceylon Transport Board provides a “silent service” that no one can see, as it even operates on very difficult roads without the sole objective of profit, Gunawardena was quoted in a statement by the Department of Government Information.
+
+The State transport service has faced criticism for delays in its implementation of digitalisation, and for its loss-making practices that make it unable to improve service.
+
+...
+
+[Data](articles/1d1aab3b.json)
 
 ---
 
@@ -334,6 +438,26 @@ It was revealed that a person called 'Sudda' was also involved in bringing the h
 
 ---
 
+### Sri Lanka rupee opens at 307.65/75 to the US dollar
+
+*2024-03-07 10:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-307-65-75-to-the-us-dollar-153611/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 307.65/75 to the US dollar in the spot forex market Thursday stronger from 307.80/88 a day earlier, dealers said, while bond yields were slightly up.
+
+A bond maturing on 01.08.2026 was quoted at 10.85/11.00 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.10 percent from 11.90/12.00 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.29/30 percent from 12.20/30 percent.
+
+The Colombo Stock Exchange opened up; the All Share Price Index was up 0.27 percent at 10,910. And the S&P SL20 was up 0.23 percent at 3,107. (Colombo/Mar7/2024)
+
+◼️
+
+[Data](articles/6a11685d.json)
+
+---
+
 ### Emergency decision of the Finance Ministry on the Payment
 
 *2024-03-07 10:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவு-குறித்து-நிதியமைச்சின்-அவசர-முடிவு/175-334316) · `ta`
@@ -414,19 +538,45 @@ Udaya Kumara Amarasinghe added that 1,232 cases of sexual harassment were report
 
 ---
 
-### අනුර හ රටවල් හයක තානාපතිවරුන් අතර හමුවක්
+### Sri Lanka’s Adani wind power purchase price below other non-tendered rates: Minister
+
+*2024-03-07 09:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-wind-power-purchase-price-below-other-non-tendered-rates-minister-153607/) · `en`
+
+ECONOMYNEXT- The proposed purchase price of a wind power project by India’s Adani group in Sri Lanka is below other renewable rate give without competitive tender, according to Energy Minister Kanchana Wijesekera.
+
+The rupee equivalent of the dollar tariff for Adani wind plants is 27.65 rupees, a unit Wijesekera told parliament, which was below a rate set for feed in tariffs by a committee.
+
+“You requested and we were also blamed for giving only 22.50 rupees for rooftop solar and to take it to 45 rupees to encourage it,” Wijesekera said responding to a question from Athureliye Rathana, a monk who supports renewable energy and opposed chemical fertilizer.
+
+“We were told to give 45 rupees. We appointed a committee, which looked at the US dollar rate at the time, interest and import costs and gave a feed in tariff of 37 rupees a unit.”
+
+“Ground mounted wind is given 43 rupees for plants below 10 MW. The Adani proposal is below 30 rupees.
+
+...
+
+[Data](articles/2c9f27eb.json)
+
+---
+
+### Ambassadors meet among Anura and countries
 
 *2024-03-07 09:49:48* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හ-රටවල්-හයක-තානාපතිවරුන්-අතර-හමුවක්/11-408465) · `si`
 
-රටවල් හයක තානාපතිවරුන් හා ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් ඊයේ පවත්වා තිබේ.
+Yesterday, Ambassadors and representatives met with Anura Kumara Dissanayake, National Zoological Leader, including Turkish, Bangladeshi, Indonesian, and Maldivian diplomats, and former MPs Bimal Ratnayake and Nalinad Jayatissa.
 
-මෙම හමුව සඳහා පලස්තීනයේ තානාපතිවරයා, තුර්කි තානාපතිවරයා, බංග්ලාදේශ මහකොමසාරිස්වරිය, ඉන්දුනීසියානු තානාපතිවරයා, මැලේසියානු මහකොමසාරිස්වරයා, මාලදිවයින් වැඩ බලන තානාපතිවරිය ඇතුළු පිරිසක් එක්ව තිබේ.
+🟩
 
-මෙම හමුව සඳහා ජාතික ජන බලවේගය නියෝජය කරමින් හිටපු මන්ත්‍රීවරුන් වන බිමල් රත්නායක හා නලිනද ජයතිස්ස යන මහත්වරුන් එක්ව තිබේ.
+A meeting between the Ambassadors and the National Zoological Leader Anura Kumara Dissanayake was held yesterday.
+
+The Turkish Ambassador of Palestine, the Turkish Ambassador, Bangladesh High Commissioner, Bangladesh High Commissioner, the Indonesian Ambassador, Maladivian Ambassador.
+
+Former MPs Bimal Ratnayake and Nalinad Jayatissa, representing the national folk force, has joined the meeting.
 
 ◼️
 
 [Data](articles/8d7eeae9.json)
+
+[Extended Data](ext_articles/8d7eeae9.ext.json)
 
 ---
 
@@ -839,6 +989,26 @@ Sri Lanka's assistant coach Naveed Navas said that the relevant complaint was ex
 [Data](articles/02ba688d.json)
 
 [Extended Data](ext_articles/02ba688d.ext.json)
+
+---
+
+### Sri Lanka central bank profits from printing money, parliament has some control: Harsha
+
+*2024-03-07 07:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-profits-from-printing-money-parliament-has-some-control-harsha-153483/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank is making profits from printing money and the balance goes to the consolidated fund according to its own law, Harsha de Silva, chairman of the parliament’s Committee on Public Finance said.
+
+The comments came amid an intensifying debate about control of public finances and independence given to central bankers to spend money without parliamentary approval.
+
+Sri Lanka’s parliament is in a battle with the macro-economists who run the country’s central bank after staff gave themselves steep salary hikes to offset monetary instability the agency itself created by printing money to target potential output.
+
+Legislators insisted that the central bank came under the parliament’s control of public finance.
+
+As a state agency, the Central Bank should not hike salaries so steeply, especially after Treasury circulars were issued to cut spending, legislators said.
+
+...
+
+[Data](articles/ce20ba67.json)
 
 ---
 
@@ -2149,197 +2319,5 @@ They won the victory over 170 runs in the end of the balls.
 [Data](articles/fd563fdc.json)
 
 [Extended Data](ext_articles/fd563fdc.ext.json)
-
----
-
-### Controversy decision against Sri Lanka
-
-*2024-03-06 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194220) · `si`
-
-In the second T20, Sri Lanka vs. Bangladesh, Kusal Mendis was out due to a no-ball decision, sparking controversy. The field judge initially called it a wide, but after reviewing with Ultra Edge technology, the third umpire overturned the decision, leading to unrest among the Sri Lankan players.
-
-🟩
-
-The world is focused on an unique event during the second T20, between Sri Lanka and Bangladesh.
-
-The first ball of the fourth over the fourth over the fourth ball, Kusal Mendis was protected by a tendegrade.
-
-The field judge was named a tendency to bowledist, and the temperate Shankar requested to send it to the third judge.
-
-While checking the Ultra Edge technology, the third judge decided to name the ball and the bat, as it was a gap between the ball and the bat.
-
-There was some unrest in the field and the Sri Lankan players respond to the field of the Sri Lankan players.
-
-The third judge requires a factor to change the decision to change the decision by the Third Edge technology.
-
-◼️
-
-[Data](articles/279f2e26.json)
-
-[Extended Data](ext_articles/279f2e26.ext.json)
-
----
-
-### 86 orange villages targeting exports
-
-*2024-03-06 20:15:43* · [`adalk`](https://www.ada.lk/breaking_news/අපනයනය-ඉලක්ක-කර-ගත්-තැඹිලි-ගම්මාන-86ක්/11-408462) · `si`
-
-The Ministry of Agriculture and Plantation Industries has selected 86 orange villages for export expansion, aiming to monopolize the international market with Sri Lanka's high-quality oranges. Minister Mahinda Amaraweera has ordered officials to support these villages with facilities, seedlings, and technical advice.
-
-🟩
-
-The Ministry of Agriculture and Plantation Industries have been selected by the Ministry of Agriculture and Plantation Industries and 45,000 orange plants.
-
-The Ministry stated that Sri Lanka has been owned by the monopoly on the international market, as the higher quality of the Sri Lankan work and quality.
-
-Accordingly, Moneragala, Matara, Kurunegala, Puttalam, Puttalam, Puttalam, Puttalam, Puttalam, Puttalam, Matale, Ampara, Puttalam
-
-Minister Mahinda Amaraweera has instructed the officials to take steps to provide the necessary facilities to facilitate the most acreage of one village.
-
-It will also be provided with orange seedlings and technical knowledge and advice.
-
-◼️
-
-[Data](articles/27404ce6.json)
-
-[Extended Data](ext_articles/27404ce6.ext.json)
-
----
-
-### Murugan, Robert Bias, etc.. Call
-
-*2024-03-06 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178116) · `ta`
-
-Sivagnanam Sridharan, a Tamil National Alliance member, called for the release of Murugan, Robert Paes, and their families from Indian jails, highlighting the plight of young men like Santhan, who died in prison. He criticized the handling of Santhan's case and urged officials to address these issues.
-
-🟩
-
-Tamil National Alliance member Sivagnanam Sridharan said that the Chief Minister of Tamil Nadu, the Indian Prime Minister and the Government of Sri Lanka, said that Murugan, who is in the Indian jail, including Robert Paes, and their family to join their family.
-
-He said this while addressing the third day debate on the Conflict Bill, Trusting Receivables (Amendment) Bill, Amendment (Amendment) Bill, Financial Leasing (Amendment) Bill.
-
-Sivanesan, a member of this parliament, was unjustly killed in the name of a deep infiltration force by Sri Lankan soldiers on our soil 16 years ago.
-
-At the same time, I am making our tribute to Shantan, who died a few days ago, who was imprisoned in India and later released.
-
-The biggest crisis and a grievance of a young man at the age of 20, who was trying to see his mother, to see his relatives, is the biggest crisis and a grievance in this soil.
-
-...
-
-[Data](articles/01cf2378.json)
-
-[Extended Data](ext_articles/01cf2378.ext.json)
-
----
-
-### Saman four hours
-
-*2024-03-06 20:03:48* · [`adalk`](https://www.ada.lk/breaking_news/සමන්-පැය-හතරක්-වමාරයි/11-408461) · `si`
-
-Saman Ratnayake, Additional Secretary to the Ministry of Health, supervised the arrest of Maliyakkanda Magistrate Lokawellama Weerasinghe on the 6th. Weerasinghe was produced in court based on a presidential order presented by prison officials. He was detained on a prison bus until 11:00 pm, then taken to court. After four hours, he was returned to prison around 3:00 pm.
-
-🟩
-
-The Additional Secretary to the Ministry of Health, Saman Ratnayake, the Additional Secretary to the Ministry of Health, said that the Additional Secretary to the Ministry of Health said Maliyakkanda Magistrate Lokawellama Weerasinghe on the 6th.
-
-He was submitted to the Magistrate's official compartment to the supervision of Prisons Saman Ratnayake to produce the suspect.
-
-According to the presence of the secret, he was produced before courts on the basis of the presidential presidential presented by the prison officials. He was produced before courts today (06).
-
-Prison officials were taken to court on a special security prison bus and he was detained at the bus until 11:00 pm.
-
-Prison officials were taken by the prison officials to submit the suspect Saman Ratnayake at around 11.00 pm on a summon.
-
-For four hours, he was taken back to the prison around 3.00 pm.
-
-◼️
-
-[Data](articles/04a63c48.json)
-
-[Extended Data](ext_articles/04a63c48.ext.json)
-
----
-
-### UK’s misinformation on Sri Lanka raises concerns
-
-*2024-03-06 20:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-misinformation-on-Sri-Lanka-raises-concerns/108-278366) · `en`
-
-British Conservative peer Lord Michael Naseby on Tuesday called on the British government to assist Sri Lanka by way of updating Britain's Travel Advisory on Sri Lanka to provide more accurate information, in order to better assist the country.
-
-“It is the UK's Foreign, Commonwealth and Development Office (FCDO) comments on that country (Sri Lanka) that currently cause me concern because they refer to the fact that protests are going on when they are not. They say that there is a fuel shortage, but there is not and has not been for 18 months. They also say that there are other difficulties of a terrorist nature, which we have not had for five years,” Lord Naseby told the House of Lords that held a seven-hour debate on Britain's Foreign Affairs.
-
-Claiming that tourism sector is rapidly recovering in Sri Lanka, Lord Naseby believed that more British tourists would visit the country if the FCDO provided more accurate Travel Advisory information on Sri Lanka.
-
-...
-
-[Data](articles/1f519f33.json)
-
-[Extended Data](ext_articles/1f519f33.ext.json)
-
----
-
-### The Value Added Tax (Amendment) Bill was passed
-
-*2024-03-06 19:57:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெறுமதி-சேர்-வரி-திருத்தச்-சட்டமூலம்-நிறைவேற்றப்பட்டது/175-334291) · `ta`
-
-The Value Added Tax (Amendment) Bill passed with 24 more votes in a referendum. Parliament debated the Tax Bill, including Value Added Tax and Social Charity Tax, with MP Eran Wickremaratne seeking a referendum.
-
-🟩
-
-The referendum on the second assessment of the Value Added Tax (Amendment) Bill was passed by 24 more votes.
-
-The debate on the second assessment of the Tax Bill, including the Value Added Tax and Social Charity Tax, took place in Parliament today.
-
-Is the Council permission for the Value Added Tax Bill?United People's Power MP Eran Wickremaratne sought a referendum when the Speaker asked.
-
-◼️
-
-[Data](articles/4a115564.json)
-
-[Extended Data](ext_articles/4a115564.ext.json)
-
----
-
-### Explain to the Officer in charge of the Kalpitiya Police Station!
-
-*2024-03-06 19:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178115) · `ta`
-
-Justice Ayona Wimalaratne ordered Nishantha Kumara to be detained at Kalpitiya Police Station, following interrogation by Puttalam court over a police officer's rape.
-
-🟩
-
-Puttalam Additional District Judge and Justice Ayona Wimalaratne on Wednesday (06) has ordered the police inspector Nishantha Kumara to be kept in connection with the Kalpitiya Police Station.
-
-He has been interrogated by the Puttalam court in connection with the rape of a police officer who was on duty at the Kalpitiya police station.
-
-◼️
-
-[Data](articles/7b148866.json)
-
-[Extended Data](ext_articles/7b148866.ext.json)
-
----
-
-### Hungama shot dead
-
-*2024-03-06 19:48:30* · [`adalk`](https://www.ada.lk/breaking_news/හුංගම-වෙඩි-තැබීමකින්-පුද්ගලයෙක්-මරුට/11-408460) · `si`
-
-In Hungama, a shooting incident occurred near Kahandamodara Junction, leading to the death of Ediriweera Jayasuriya Patriaden Patriaden, a 42-year-old boat skier. The police are investigating and have not yet arrested any suspects.
-
-🟩
-
-Hungama Police say that a shooting person has been killed in a shooting conducted in the Hungama Kahandamodara area.
-
-The shooting was carried out near Kahandamodara Junction, police said.
-
-According to the police, Ediriweera Jayasuriya Patriaden Patriaden (42) is a boat skier of the Upul Priyadhana (42), a resident of Kahandamodara.
-
-Police suspect that the stone Katus was shot dead. The suspects have not been arrested yet. Hungama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fd7ca6da.json)
-
-[Extended Data](ext_articles/fd7ca6da.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 02:17:41**
+As of **2024-03-08 02:33:05**
 
 ## Newspaper Stats
 
-*Scraped **11,572** Articles*
+*Scraped **11,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
 adaderanalk | 1,408
-virakesarilk | 1,593
-dailymirrorlk | 1,762
+virakesarilk | 1,595
+dailymirrorlk | 1,764
 adaderanasinhalalk | 1,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,572 (100.0%) of 11,572 articles have been extended.
+11,572 (100.0%) of 11,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### International Women’s Day and Women  in Lanka - EDITORIAL
+
+*2024-03-08 02:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/International-Womens-Day-and-Women-in-Lanka-EDITORIAL/172-278458) · `en`
+
+The world celebrates International Women’s Day, today. March 8 is a day set apart to recognise the cultural, political, social and economic achievements made by women. It also serves as an opportunity to inspire efforts to end gender biases and discrimination, and achieve gender equality.
+
+International Women’s Day is linked to the women’s movements during the Russian Revolution. On March 8, 1917, thousands of women in Russia heralded the start of the Russian revolution by going on strike to demand bread and in protest at the toll of Russian lives lost in during World War I.
+
+Within days, The Tsar (Russian King) abdicated, and women were given the right to vote. International Women’s Day has been celebrated on 8th March ever since.
+
+...
+
+[Data](articles/f5796947.json)
+
+---
+
+### Famine looms in Gaza as Biden, Trump play politics
+
+*2024-03-08 02:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Famine-looms-in-Gaza-as-Biden-Trump-play-politics/172-278457) · `en`
+
+Palestinians running toward parachutes attached to food parcels, airdropped from US aircraft on a beach in the Gaza Strip. AFP
+
+With a dangerous Donald Trump just one hurdle away from breasting the 2024 presidential tape after his sweeping victory at the Super Tuesday poll to pick the Republican Party candidate, the Palestinian people, if they are fortunate enough to survive Israel’s genocide, are likely to see a worse catastrophe than they are being inflicted now under his presidency.
+
+Hours after his Super Tuesday feat, in an interview with Fox News, Trump voiced explicit backing for Israel’s war on Gaza until “total victory”. When asked whether he was on board with the way Israel was “taking the fight to Gaza”, Trump responded, “You’ve got to finish the problem”. He expressed no concern over the civilian deaths. “You had a horrible invasion that took place that would have never happened if I was president,” he boasted.
+
+...
+
+[Data](articles/08d82480.json)
+
+---
+
+### விபுலானந்தா தமிழ் வித்தியாலயத்தின் கல்வி பொது தராதர சாதாரண தர மாணவர்களுக்கான கருத்தரங்கு!
+
+*2024-03-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178218) · `ta`
+
+கொழும்பு விபுலானந்தா தமிழ் மகா வித்தியாலயத்தின் கல்வி பொது தராதர சாதாரண தர மாணவர்களுக்கான கருத்தரங்கு வியாழக்கிழமை (7) பாடசாலையின் அதிபர் என். ரவிச்சந்திரன் தலைமையில் இடம்பெற்றது.
+
+இந்த நிகழ்வில் பாடசலையின் அதிபரின் அழைப்பினபேரில் கலந்துகொண்ட ஐ.டி.எம் நேசன் கெம்பஸ் மற்றும் ஜனனம் அறக்கட்டளையின்  ஸ்தாபகருமான கலாநிதி விநாயகமூர்த்தி ஜனகன் பிரதம அதிதியாக  கலந்து கொண்டதுடன், அகில இலங்கை கிறிஸ்தவ அபிவிருத்தி ஒன்றியத்தின் தலைவர் வண பிதா சந்ரு பெர்னாண்டோ கௌரவ அதிதியாக கலந்து கொண்டார்.
+
+அதேவேளை  மாணவர்களின்  கல்வியை  மேம்படுத்தும் நோக்கில்  சாதாரண  தர  மாணவர்களுக்கான கருத்தரங்கை  நடாத்துவதற்கான  அன்பளிப்பும் கலாநிதி  விநாயகமூர்த்தி ஜனகனால் வழங்கி வைக்கப்பட்டமை விசேட  அம்சமாகும்.
+
+இந்த நிகழ்வில் உரையாற்றிய கலாநிதி ஜனகன், கொழும்பு 09, விபுலானந்தா  தமிழ் வித்தியாலயத்தின் 1993ஆம் ஆண்டு பழைய மாணவர் சங்கத்தால் விடுக்கப்பட்ட வேண்டுகோளுக்கு அமைய பாடசாலை முழுவதற்கும் வர்ணம் பூசுவதற்கான நிதியை நன்கொடையாக வழங்கவுள்ளதாக உறுதியளித்தார்.
+
+...
+
+[Data](articles/38e06b9c.json)
+
+---
+
+### இலங்கையில்  பெண்களின் அரசியல் பிரதிநிதித்துவம் மிகக்குறைந்த மட்டத்தில் - நெதர்லாந்து தூதுவர் போனி ஹார்பாக்
+
+*2024-03-08 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178217) · `ta`
+
+இலங்கை வலுவான ஜனநாயக கொள்கையை கொண்டுள்ள போதிலும் பெண்களின் அரசியல் பிரதிநிதித்துவம் மிகக்குறைந்த மட்டத்திலேயே காணப்படுகின்றது. இந்த நிலைமை வெகுவிரைவில் மாற வேண்டும் என நெதர்லாந்து தூதுவர் போனி ஹார்பாக் தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில், உலகளவில் மக்கள் மத்தியில் சமூக வலைத் தளங்களின் செல்வாக்கு அதிகரித்துள்ளதால் கருத்து சுதந்திரத்தை மட்டுப்படுத்தும் விதமான சட்டங்கள் கொண்டு வரப்படுகின்றன. என்றாலும்கூட ஜனநாயக நாடொன்றில் மக்களின் கருத்து சுதந்திரம் பாதுகாக்கப்பட வேண்டியது கட்டாயம் என்றார்.
+
+◼️
+
+[Data](articles/4212c239.json)
+
+---
 
 ### Carrying artists of the president. Prez ”Book
 
@@ -2213,95 +2277,5 @@ Mohan Priyadarshana de Silva, Prasanna Ranawira, K. Qatar Mastan, Diana Kamage, 
 [Data](articles/459d8923.json)
 
 [Extended Data](ext_articles/459d8923.ext.json)
-
----
-
-### Two arrested with 3kg
-
-*2024-03-07 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194249) · `si`
-
-Two residents of Sedawatta and Matuliya, aged 27 and 31, were arrested by the police for possessing over 3kg of ice narcotics. The raid was based on information from the Police Narcotics Bureau. The suspects and the ice drug were taken into custody in the Wattala Police Division in Helakanda.
-
-🟩
-
-Two suspects have been arrested by the police with more than 3kg of ice cast.
-
-The arrested persons were residents of Sedawatta and Matuliya areas aged 27 and 31 years old.
-
-The raid was carried out according to information received by the Police Narcotics Bureau.
-
-The suspects and the Ice drug have been taken into custody in the Wattala Police Division in Helakanda area.
-
-Police have found 3 335 grams 335 grams of ice narcotics in possession.
-
-◼️
-
-[Data](articles/1a3eaf4a.json)
-
-[Extended Data](ext_articles/1a3eaf4a.ext.json)
-
----
-
-### Rohitha came to attack - Shaanakiyan
-
-*2024-03-07 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194248) · `si`
-
-Rohitha Abeygunawardena accused MP Shaanakiyan of attacking him. Two MPs clashed with the PM.
-
-🟩
-
-Two Members of Parliament have gone to clash at the Prime Minister of Parliament.
-
-Ilankai Thamil Arasu Kachchi Kachchi Kachchi Kachchi Kachchi Kachchi Shranakkiyan Mr Parliamentas MP Rohitha Abeygunawardena said that MP Rohitha Abeygunawardena tried to attack him.
-
-◼️
-
-[Data](articles/0d0b1e2e.json)
-
-[Extended Data](ext_articles/0d0b1e2e.ext.json)
-
----
-
-### “Solving the street dog problem”
-
-*2024-03-07 14:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெருநாய்-பிரச்சினைக்கு-தீர்வு-காண-வேண்டும்/175-334337) · `ta`
-
-Defense Minister Pramitha Bandara Tennakoon highlighted the issue of 6.2 million street dogs causing tourism problems, emphasizing the need for new laws to protect animals.
-
-🟩
-
-Defense Minister Pramitha Bandara Tennakoon today said that about 6.2 million street vendors are wandering around in different parts of the country.
-
-He told Parliament that this situation has caused massive problems in tourism like Sigiriya.
-
-According to statistics available, there are 6.2 million street dogs in the country, which has caused huge problems.
-
-He said it was important to solve the problem as it has caused serious problems in tourism areas.
-
-Minister Tennakoon said the government was planning to bring new laws to reduce the harm to animals and stressed the need to address everything before animals.
-
-◼️
-
-[Data](articles/b3e62eda.json)
-
-[Extended Data](ext_articles/b3e62eda.ext.json)
-
----
-
-### Rohitha becomes chairman
-
-*2024-03-07 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194247) · `si`
-
-Rohitha Abeygunawardena elected Chairman of COPE Committee.
-
-🟩
-
-Parliamentarian Rohitha Abeygunawardena has been elected to the post of Chairman of the Committee (COPE) of the Committee.
-
-◼️
-
-[Data](articles/4a5ddc64.json)
-
-[Extended Data](ext_articles/4a5ddc64.ext.json)
 
 ---

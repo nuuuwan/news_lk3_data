@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 12:17:42**
+As of **2024-03-07 12:33:26**
 
 ## Newspaper Stats
 
-*Scraped **11,427** Articles*
+*Scraped **11,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 965
-adaderanalk | 1,389
-tamilmirrorlk | 1,393
-virakesarilk | 1,559
+adaderanalk | 1,390
+tamilmirrorlk | 1,394
+virakesarilk | 1,563
 dailymirrorlk | 1,742
 adaderanasinhalalk | 1,786
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 1,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,419 (99.9%) of 11,427 articles have been extended.
+11,427 (99.9%) of 11,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### President instructs to expedite housing for homeless families in Kajimawatta
+
+*2024-03-07 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97791/president-instructs-to-expedite-housing-for-homeless-families-in-kajimawatta) · `en`
+
+President Ranil Wickremesinghe has instructed officials to take necessary steps to provide housing for all homeless families in Kajimawatte, Colombo.
+
+He also emphasized that the work must adhere to the government’s housing policies and criteria, the President’s Media Division (PMD) said in a statement.
+
+These instructions were provided by the Head of State during a discussion held yesterday afternoon (March 06) at the Presidential Secretariat regarding the housing issue in the Kajimawatta, Colombo.
+
+Additionally, the President instructed officials to examine underutilized government-owned buildings and lands within the Colombo Municipal Area, exploring the potential for development and utilization for commercial purposes.
+
+Wickremesinghe has also underscored the significance of implementing the program through private investments, with the intervention of the public sector.
+
+...
+
+[Data](articles/359a121b.json)
+
+---
+
+### பொதுமக்கள் இருவர் மீது தாக்குதல் ; உடப்பு குற்றப்பிரிவு பொறுப்பதிகாரி இடைநிறுத்தம்
+
+*2024-03-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178136) · `ta`
+
+பொதுமக்கள் இருவர் மீது செவ்வாய்க்கிழமை இரவு (மார்ச் 05) தாக்குதல் நடத்திய சம்பவம் தொடர்பில் உடப்பு பொலிஸ் குற்றப்பிரிவின் பொறுப்பதிகாரி சேவையில் இருந்து இடைநிறுத்தப்பட்டுள்ளார்.
+
+இந்நிலையில், நேற்று புதன்கிழமை (06) காலை வைத்தியசாலையில் வைத்து கைது செய்யப்பட்டதோடு, பணியிலிருந்தும் இடைநிறுத்தப்பட்டுள்ளார்.
+
+சம்பவத்தின் போது அவர் மதுபோதையில் இருந்தாரா இல்லையா என்பதை அறிய இரத்த மாதிரிகளும் பெறப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3ce972ec.json)
+
+---
+
+### தன்சானியாவில் விபத்தில் இரு இலங்கையர்கள் பலி
+
+*2024-03-07 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178149) · `ta`
+
+கிழக்கு ஆபிரிக்காவில் உள்ள தன்சானியாவில் செவ்வாய்க்கிழமை (மார்ச் 05) இரவு இடம்பெற்ற வாகன விபத்தில் இரண்டு இலங்கையைச் சேர்ந்த இளைஞர்கள் உயிரிழந்துள்ளார்கள்.
+
+இரு இளைஞர்களும் தன்சானியாவில் தாருஸ் சலாம் நகரிலிருந்து மஹேங்கே நகருக்கு பயணித்துக் கொண்டிருந்த போதே இந்த விபத்து இடம்பெற்றுள்ளதாக சர்வதேச ஊடகச் செய்திகள் தெரிவித்துள்ளன.
+
+உயிரிழந்தவர்களில் ஒருவர்  காலி கொட்டுகொட பகுதியை சேர்ந்த 23 வயதுடையவர் எனவும், மற்றையவர் காலி மகுலுவ பகுதியைச் சேர்ந்த 33 வயதுடையவர் எனவும் அடையாளம் காணப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/f77e01be.json)
+
+---
+
+### இருவரை தாக்கிய பொலிஸ் அதிகாரி பணி இடைநிறுத்தம்
+
+*2024-03-07 12:12:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரை-தாக்கிய-பொலிஸ்-அதிகாரி-பணி-இடைநிறுத்தம்/175-334322) · `ta`
+
+இருவரை தாக்கிய குற்றச்சாட்டில் உடப்பு பொலிஸ் நிலையத்தின் உப பொலிஸ் பரிசோதகர் ஒருவர் பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது.
+
+தனது நண்பர்களுடன் இணைந்து பொதுமக்கள் இருவர் மீது தாக்குதல் நடத்தியதாக கூறப்படும் சம்பவம் தொடர்பில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/859bf0dd.json)
+
+---
 
 ### Udappuwa Sub-Inspector arrested over alleged assault granted bail
 
@@ -48,6 +114,8 @@ According to the police, witnesses had also videotaped the police officer in que
 
 [Data](articles/ca1c1d19.json)
 
+[Extended Data](ext_articles/ca1c1d19.ext.json)
+
 ---
 
 ### Bollywood icons to grace opening ceremony of Legends Cricket Trophy 2024
@@ -63,6 +131,8 @@ The action-packed tournament spanned across 11 days will also see some of the bi
 ...
 
 [Data](articles/85b7b572.json)
+
+[Extended Data](ext_articles/85b7b572.ext.json)
 
 ---
 
@@ -81,6 +151,42 @@ The Houthis have been attacking ships in the Red Sea since November in what they
 ...
 
 [Data](articles/6477d607.json)
+
+[Extended Data](ext_articles/6477d607.ext.json)
+
+---
+
+### மாணவர்களின் கல்விக்காக  அன்று முதல் ஜனாதிபதி ரணில் விக்ரமசிங்க பாரிய சேவையாற்றியுள்ளார்  - ருவன் விஜேவர்தன
+
+*2024-03-07 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178148) · `ta`
+
+மல்வானை அல் முபாரக் மத்திய கல்லூரியின் நூற்றாண்டு விழாவை முன்னிட்டு கடந்த வருடம் செப்டெம்பர் மாதம் 6ஆம் திகதி கல்லூரியில் இடம்பெற்ற நிகழ்வில் கலந்து கொண்ட  ஜனாதிபதி ரணில் விக்ரமசிங்க, அனைத்து வசதிகளுடன் கூடிய கேட்போர் கூடத்தை நிர்மாணிப்பதாக வாக்குறுதி அளித்திருந்தார்.
+
+அதற்கமைய கேட்போர் கூடத்திற்கான அடிக்கல் நாட்டு விழா காலநிலைமாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தனவின் பங்களிப்புடன் நேற்று (06) நடைபெற்றது.
+
+ஜனாதிபதியின் பணிப்புரைக்கு அமைய இந்த கேட்போர் கூடம் அமைப்பதற்கான நிதி ஒதுக்கப்பட்டதுடன், ஒரே நேரத்தில் சுமார் 5000 மாணவர்கள் ஒன்று கூடக்கூடிய சகல வசதிகளுடன் இந்த புதிய கேட்போர் கூடம் நிர்மாணிக்கப்பட உள்ளது.
+
+புதிய கேட்போர் கூட அடிக்கல் நாட்டும் நிகழ்வில் கலந்து கொண்டு உரையாற்றிய ருவன் விஜேவர்தன, கடற்படையினரின் பங்களிப்புடன் கேட்போர் கூடத்தின் நிர்மாணப் பணிகள் துரிதமாக பூர்த்தி செய்யப்பட்டு மாணவர்களிடம் கையளிக்கப்படும் என்று தெரிவித்தார்.
+
+...
+
+[Data](articles/89a7f0c5.json)
+
+---
+
+### சுழிபுரம் புத்தர் சிலைக்கு எதிராக நாளை எதிர்ப்பு போராட்டம்!
+
+*2024-03-07 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178144) · `ta`
+
+சுழிபுரம் - சவுக்கடியில் வைக்கப்பட்டுள்ள புத்தர் சிலைக்கு எதிர்ப்பு தெரிவித்து நாளை வெள்ளிக்கிழமை (08) இடம்பெறவுள்ள போராட்டத்தில் கலந்துகொள்ளுமாறு தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ் அழைப்பு விடுத்துள்ளார்.
+
+அவர் இன்று வெளியிட்ட ஊடக அறிக்கை ஊடாக அழைப்பு விடுத்துள்ளார். அவ் அறிக்கையில் குறிப்பிடப்பட்டுள்ளதாவது,
+
+சுழிபுரத்தில் கடற்படையினரால் சவுக்கடிப் பிள்ளையார் கோயிலடியில் வைக்கப்பட்டுள்ள புத்தர் சிலையை அகற்றக்கோரி, நாளை வெள்ளிக்கிழமை (08.03.2024) மு.ப 10.30 மணிக்கு எதிர்ப்புப் போராட்டம் சவுக்கடிப் பிள்ளையார் கோயில் முன்பாக நடைபெறவுள்ளது.
+
+◼️
+
+[Data](articles/82821d93.json)
 
 ---
 
@@ -121,6 +227,8 @@ Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the 
 ◼️
 
 [Data](articles/7a7d2233.json)
+
+[Extended Data](ext_articles/7a7d2233.ext.json)
 
 ---
 
@@ -263,6 +371,8 @@ The State transport service has faced criticism for delays in its implementation
 ...
 
 [Data](articles/1d1aab3b.json)
+
+[Extended Data](ext_articles/1d1aab3b.ext.json)
 
 ---
 
@@ -456,6 +566,8 @@ The Colombo Stock Exchange opened up; the All Share Price Index was up 0.27 perc
 
 [Data](articles/6a11685d.json)
 
+[Extended Data](ext_articles/6a11685d.ext.json)
+
 ---
 
 ### Emergency decision of the Finance Ministry on the Payment
@@ -555,6 +667,8 @@ The rupee equivalent of the dollar tariff for Adani wind plants is 27.65 rupees,
 ...
 
 [Data](articles/2c9f27eb.json)
+
+[Extended Data](ext_articles/2c9f27eb.ext.json)
 
 ---
 
@@ -1009,6 +1123,8 @@ As a state agency, the Central Bank should not hike salaries so steeply, especia
 ...
 
 [Data](articles/ce20ba67.json)
+
+[Extended Data](ext_articles/ce20ba67.ext.json)
 
 ---
 
@@ -2189,135 +2305,5 @@ Plans have been set to commence 2000 houses project in Colombo and its suburbs, 
 [Data](articles/051f3f72.json)
 
 [Extended Data](ext_articles/051f3f72.ext.json)
-
----
-
-### List of the Central Bank's Great Pay
-
-*2024-03-06 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194222) · `si`
-
-The Central Bank of Sri Lanka has increased salaries for various positions, including office assistants, first-grade employees, and managing assistants, with the monthly gross wage for an office assistant now at Rs. 1000. The Prime Minister, Dinesh Gunawardena, presented these salary increases to parliament.
-
-🟩
-
-According to the increase in the new bank's new salary, the monthly gross coverage of its office assistant has been increased to a thousand Rs.
-
-The salary increases were presented by the Prime Minister to parliament.
-
-It was revealed that the monthly staff of the Central Bank has increased from Rs.
-
-The Prime Minister Dinesh Gunawardena explained how the Sri Lanka Central Bank had increased.
-
-The monthly gross wage of a first-grade employee first grade employee in the office assistant class was Rs.
-
-With the increase in new salaries, it is up to Rs.
-
-The second and third grades of the category have increased and the monthly average average of the third class of the third class of the third class of the third class of Rs.
-
-The salaries have also been increased for five Managing Assistant Class series.
-
-The previous monthly officer's previous monthly officer was one-seven hundred three thousand three hundred and fifty three.
-
-It has been increased to Rs.
-
-...
-
-[Data](articles/637dcdee.json)
-
-[Extended Data](ext_articles/637dcdee.ext.json)
-
----
-
-### President’s comments on debt moratorium enliven share market
-
-*2024-03-06 21:16:00* · [`islandlk`](http://island.lk/presidents-comments-on-debt-moratorium-enliven-share-market/) · `en`
-
-President Ranil Wickremesinghe’s positive comments yesterday in parliament, especially on the external debt restructuring exercise, where the government is to request a debt moratorium from bondholders, created a positive sentiment in the stock market.
-
-“The government hopes to avoid repaying debt till December 2027 under restructuring talks underway and repay them in the period running up to 2042, President Ranil Wickremesinghe said.
-
-“We are in discussions to restructure all debt, including foreign debt. We hope to end these discussions in the near future, President Wickremesinghe told parliament yesterday.
-
-Sri Lanka had a foreign debt service of US$ 6 billion a year in 2022 or about 9.5 percent of gross domestic product.
-
-Accordingly, both indices moved upwards. The All Share Price Index went up by 40.1 points while S and P SL20 rose by 14.8 points. Turnover stood at Rs 2.29 billion with four crossings.
-
-...
-
-[Data](articles/201d2754.json)
-
-[Extended Data](ext_articles/201d2754.ext.json)
-
----
-
-### ComBank & IFC empowered MSMEs via 27 skills development programmes in 2023
-
-*2024-03-06 21:16:00* · [`islandlk`](http://island.lk/combank-ifc-empowered-msmes-via-27-skills-development-programmes-in-2023/) · `en`
-
-The Commercial Bank of Ceylon conducted 27 skills development programmes for micro, small and medium enterprises (MSMEs) in collaboration with the International Finance Corporation (IFC) in 2023, using a standardized format developed to revitalize MSME businesses.
-
-These programmes were conducted in areas such as Negombo, Ratnapura, Vavuniya, Kandy, Kadawatha, Akkaraipattu, Jaffna, Nuwara Eliya, Badulla and Minuwangoda and the topics covered were ‘Revisiting Business Strategy (Operational Plan/ Human Resources Plan),’ ‘Profitability and Productivity (Financial Resilience/ Basics of Borrowing),’ ‘Digital Transformation and Digital Market Place (Trends/ Benefits/ Handling Customers/ Payment options/ Policies & Security/ Best Practices),’ ‘Digital Brand Management (Online Presence/ Content Marketing/ Marketing Brand Management/ Measuring results)’ and ‘Women Empowerment and Entrepreneurship’ which was exclusively for women entrepreneurs.
-
-...
-
-[Data](articles/b943c9a6.json)
-
-[Extended Data](ext_articles/b943c9a6.ext.json)
-
----
-
-### Crocodile unveils all-new dynamic kids collection for boys at One Galle Face Mall
-
-*2024-03-06 21:16:00* · [`islandlk`](http://island.lk/crocodile-unveils-all-new-dynamic-kids-collection-for-boys-at-one-galle-face-mall/) · `en`
-
-Crocodile, the esteemed fashion brand celebrated for its timeless designs and unwavering commitment to quality, proudly introduces its latest venture: Crocodile Kids for Boys. The launch event, held recently at One Galle Face Mall, was an exciting and full of engaging activities for the young attendees. It marked a significant milestone for Crocodile as it ventured into the realm of children’s fashion, bringing forth a collection that combines playful styles, vibrant colours, and utmost comfort.
-
-For over 70 years, Crocodile has been a prominent name in global fashion. Established in Sri Lanka in 2008, the company has grown into a premium brand, known for its quality and excellence. With wide selection of fashion available for men, women and now boys, Crocodile is renowned in the world of fashion and has set extraordinarily high standards in Sri Lanka over the years.
-
-...
-
-[Data](articles/cd9b7ba9.json)
-
-[Extended Data](ext_articles/cd9b7ba9.ext.json)
-
----
-
-### First Lady calls for humanized foreign ties
-
-*2024-03-06 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-Lady-calls-for-humanized-foreign-ties/108-278367) · `en`
-
-At a time where it is repeatedly stressed that Sri Lanka needs to work closely with other nations, First lady Maithree Wickremesinghe called for diplomatic ties which would become connections of hearts, minds and souls.
-
-Ms. Wickremesinghe highlighted this point at the swearing in of US Peace Corps volunteers in Colombo.
-
-“The character of a nation consist not only of its geography and climate, origin, dominant culture, contemporary leaders in politics but also the caliber of its people and connections made by those people, the connections of the hearts, minds, souls especially in an era when connectivity and reality is valued at the expense of human contacts, what would be more real and tangible or human,” she said.
-
-Ms. Wickremesinghe also called for digital whelm for the people of this nation while highlighting that it would be an opportunity for individual education achievement and mobility as well as a general drive for Sri Lankans for economic prospects.
-
-...
-
-[Data](articles/f0a9705c.json)
-
-[Extended Data](ext_articles/f0a9705c.ext.json)
-
----
-
-### Win to Bangladesh
-
-*2024-03-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194221) · `si`
-
-Bangladesh defeats Sri Lanka in the 2nd T20I by 8 wickets, winning by 170 runs.
-
-🟩
-
-Bangladesh won the Second Twenty Twenty20 match against Sri Lanka by 8 wickets.
-
-They won the victory over 170 runs in the end of the balls.
-
-◼️
-
-[Data](articles/fd563fdc.json)
-
-[Extended Data](ext_articles/fd563fdc.ext.json)
 
 ---

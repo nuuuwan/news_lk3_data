@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 04:33:10**
+As of **2024-03-08 04:51:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,577 (100.0%) of 11,579 articles have been extended.
+11,579 (100.0%) of 11,579 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1191,6 +1191,8 @@ A mother, 35, and four children died from injuries from a â€œknifelike object.â€
 ...
 
 [Data](articles/f5ce5bf1.json)
+
+[Extended Data](ext_articles/f5ce5bf1.ext.json)
 
 ---
 

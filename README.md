@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 21:52:05**
+As of **2024-03-07 22:03:30**
 
 ## Newspaper Stats
 
-*Scraped **11,539** Articles*
+*Scraped **11,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 983
-adaderanalk | 1,403
 tamilmirrorlk | 1,403
+adaderanalk | 1,404
 virakesarilk | 1,581
-dailymirrorlk | 1,759
-adaderanasinhalalk | 1,816
+dailymirrorlk | 1,760
+adaderanasinhalalk | 1,817
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,537 (100.0%) of 11,539 articles have been extended.
+11,539 (100.0%) of 11,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### විදෙස්ගත ශ්‍රමික ප්‍රේෂණවල සැලකියයුතු වර්ධනයක්
+
+*2024-03-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194272) · `si`
+
+විදෙස්ගත ශ්‍රී ලාංකික ශ්‍රමිකයින් විසින් 2024 පෙබරවාරි මාසයේදී අමෙරිකානු ඩොලර් මිලියන 476.2ක මුදලක් මෙරටට එවා ඇතැයි ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+එසේම එම මාසයේදී ශ්‍රී ලංකාව සංචාරකයින් මගින් අමෙරිකානු ඩොලර් මිලියන 345.7ක් උපයා ඇති බවත් ශ්‍රී ලංකා මහ බැංකුව පැවසීය.
+
+එය 2023 පෙබරවාරි මාසයට සාපේක්ෂව පිළිවෙළින් 16.88% සහ 113.92% වර්ධනයකි.
+
+◼️
+
+[Data](articles/9cb1e463.json)
+
+---
+
+### President reiterates govt’s commitment to sustaining momentum and advancing economic agenda
+
+*2024-03-07 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97805/president-reiterates-govts-commitment-to-sustaining-momentum-and-advancing-economic-agenda) · `en`
+
+During the meeting between President Ranil Wickremesinghe and the IMF team at the Finance Ministry today (07), the Senior Mission Chief for Sri Lanka Peter Breuer emphasized that the IMF program is exhibiting promising signs of efficacy, translating into tangible outcomes.
+
+He commended the authorities for their unwavering commitment to the program’s implementation, noting that such dedication is instrumental in driving positive change, the President’s Media Division (PMD) said.
+
+Mr. Breuer further expressed his satisfaction at witnessing the economy starting to turn around, underscoring the significance of this progress.
+
+This statement resonated with both President Wickremesinghe and the IMF team, highlighting the collective efforts and collaboration that have contributed to Sri Lanka’s economic recovery, the PMD release said.
+
+...
+
+[Data](articles/e0821d2e.json)
+
+---
 
 ### Sweden set to become NATO’s 32nd member as PM visits Washington
 
@@ -50,25 +84,33 @@ The Swedish government said separately it would take the formal decision for the
 
 [Data](articles/fc4c1606.json)
 
+[Extended Data](ext_articles/fc4c1606.ext.json)
+
 ---
 
-### සිසු ගැටුමට මැදිහත්වූ ගුරුවරුන්ට අමානුෂික ප්‍රහාරයක්
+### Inhuman attack on teachers who interfered with student clash
 
 *2024-03-07 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194271) · `si`
 
-පාසල් සිසුන් දෙදෙනෙකුගේ ආරවුලක් විසඳීමට ගිය ගුරුවරුන් දෙදෙනෙකු අමානුෂික ලෙස පහරකෑමට ලක්වීමේ සිද්ධියක් අනුරාධපුර ගල්නෑව ප්‍රදේශයෙන් වාර්තා වෙයි.
+Two teachers in Galnewa, Anuradhapura, assaulted over a student dispute during sports training. One teacher hospitalized, and a relative of the disputing student brutally assaulted. A 17-year-old and others arrested.
 
-අනුරාධපුර ගල්නෑව ප්‍රදේශයේ පාසලක නිවාසාන්තර ක්‍රීඩා පුහුණුවීමක් අතරතුරදී සිසුන් දෙදෙනෙකු අතර එම ආරවුල ඇතිවී තිබේ.
+🟩
 
-පසුව ගුරුවරුන් පහරදුන් බව කියමින් එක් සිසුවෙකු රෝහල්ගතවීමත් සමග සිදුවීම පැහැදිලි කරදීමට ගුරුවරුන් ඔහුගේ නිවසට ගොස් තිබේ.
+The Galnewa area in general area Anuradhapura has been assaulted by two teachers who have been assaulted to resolve a dispute for two schoolchildren.
 
-ඒ අනුව එම ආරවුල ඇති කරගත් එක් සිසුවෙකුගේ ඥාතීන් පිරිසක් මෙලෙස අමානුෂික ලෙස පහරදුන් බව ගුරුවරුන් පවසයි.
+The dispute between two students have been caused by two students during an intermediate sports training in the Galnewa area in Anuradhapura.
 
-සිද්ධිය සම්බන්ධයෙන් 17 හැවිරිදි තරුණයෙකු පොලිස් අත්අඩංගුවට ගෙන ඇති අතර පහරදීම සිදුකළ සෙසු පිරිස සොයා විමර්ශන ක්‍රියාත්මකය.
+The teachers have gone to his home to explain that the teachers were assaulted and hospitalized.
+
+Accordingly, one of the relatives of one student who created the dispute have been brutally assaulted.
+
+A 17-year-old youth has been arrested in connection with the incident and the rest of the assailants have been arrested.
 
 ◼️
 
 [Data](articles/ec17d64c.json)
+
+[Extended Data](ext_articles/ec17d64c.ext.json)
 
 ---
 
@@ -1126,6 +1168,30 @@ Accordingly, special train services are scheduled to operate on March 8, 9 and 1
 
 ---
 
+### Special trains on main, northern lines during long weekend
+
+*2024-03-07 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-trains-on-main-northern-lines-during-long-weekend/108-278428) · `en`
+
+Colombo, March 6 (Daily Mirror) - The Railways Department has assigned special train services on the main line and the northern line to facilitate the movements of commuters during the upcoming long weekend.
+
+They said one train is scheduled to leave for Badulla from Colombo Fort at 7.30 a.m. on Friday (8).
+
+On March 10, a train is scheduled to leave for Colombo Fort from Badulla at 745 a.m.
+
+Another train service will operate from Colombo Fort to Badulla at 7.30 p.m. on March 7, 8 and 10.
+
+Meanwhile, another train service will operate from Badulla to Colombo Fort at 5.20 p.m. on March 7, 8 and 10.
+
+Several train services are scheduled to operate on the northern line between Anuradhapura and Kankesanthurai (KKS) during the long weekend.
+
+Accordingly, special train services are scheduled to operate on March 8, 9 and 10 between Anuradhapura and KKS at 6 a.m., and another train is scheduled to operate between KKS and Anuradhapura at 4.30 p.m. on the said days.
+
+◼️
+
+[Data](articles/ab994ec6.json)
+
+---
+
 ### 'State Music Awards' Nelum Pokuna
 
 *2024-03-07 16:03:21* · [`adalk`](https://www.ada.lk/breaking_news/’රාජ්‍ය-සංගීත-සම්මාන-උලෙළ’-නෙළුම්-පොකුණ-සරසයි/11-408480) · `si`
@@ -2167,75 +2233,5 @@ Negotiations to implement a ceasefire before Ramadan in Gaza are held in Egypt. 
 [Data](articles/1cc92634.json)
 
 [Extended Data](ext_articles/1cc92634.ext.json)
-
----
-
-### The mysterious death of the Madrasa student;4 people bail with heavy conditions;Explanation for Moulavi
-
-*2024-03-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178151) · `ta`
-
-Four suspects, including Moulavi, were released on bail with severe conditions for destroying CCTV footage related to the mysterious death of a Madrasa student. The case was postponed, and the student's death remains under investigation.
-
-🟩
-
-The Kalmunai Magistrate's Court released four suspects on bail under a severe condition on charges of destroying the main forensic of CCTV on the mysterious death of the student.
-
-The case was taken up in the presence of Kalmunai Court Justice MSM Samsuddin on Wednesday (6), and four suspects arrested on charges of destroying Sisirvi videos, including Moulavi, were brought to the House.
-
-The magistrate ordered the release of four suspects on bail under a severe condition on charges of destroying the main forensic of the Sisirvi scene, which was kept in the case.
-
-...
-
-[Data](articles/3b89367b.json)
-
-[Extended Data](ext_articles/3b89367b.ext.json)
-
----
-
-### The driver of a travel bus is unconscious and injured
-
-*2024-03-07 12:45:21* · [`adalk`](https://www.ada.lk/breaking_news/ධාවනය-වෙමින්-තිබු-බසයක-රියදුරු-සිහිසුන්-වී-අනතුරකට-ලක්වේ/11-408470) · `si`
-
-A private bus driver collapsed and crashed into a garage in Medawachchiya, injuring 13, including himself. The driver was unconscious, and the garage owner was not home. The injured were taken to Medawachchiya Hospital, then to Anuradhapura for further treatment.
-
-🟩
-
-The bus was driven by a private bus driver due to the driver of a private bus
-
-Unable to control, Medawachchiya collapsed into a garage with a house in Medawachchiya
-
-The private bus was taken to a private inclination to a private inclination area in Vavuniya this morning (07). The driver of the bus, which was carrying nearly 40, has been ill. The driver was running out of control and accidentally collided with a garage with a house with a house. At that time the owner of the garage is not within the house and has no life damage in danger. Regardes also say that the driver has already unconsciously. 13 injured in the accident and injured in the Medawachchiya Hospital. The Medawachchiya Hospital authorities have been transferred to the Anuradhapura Terrorist Hospital for further injuries.
-
-◼️
-
-[Data](articles/0510f862.json)
-
-[Extended Data](ext_articles/0510f862.ext.json)
-
----
-
-### Plan to provide housing for all families
-
-*2024-03-07 12:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-குடும்பங்களுக்கும்-வீடுகள்-வழங்க-திட்டம்/175-334324) · `ta`
-
-President Ranil Wickremesinghe directs authorities to provide housing for homeless families in Ghazimawatte, Colombo, following a discussion on the Gazihavam Housing issue. The plan includes investigating government-owned properties for housing and trade operations, emphasizing private investment with state intervention.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the relevant authorities to carry out the necessary tasks to provide houses to all the homeless families living in Ghazimawatte, Colombo.
-
-The President also announced that the work should be carried out in accordance with the policies and criteria of the government.
-
-President Ranil Wickremesinghe gave these instructions during a discussion held at the Presidential Office on Wednesday afternoon on the Gazihavam Housing issue in Colombo.
-
-The President also directed the authorities to investigate the government -owned, unused buildings and land within the Colombo Municipal area and focus on the possibility of developing and providing trade operations.
-
-The President also pointed out the importance of implementing this program through private investments with the intervention of the state sector.
-
-...
-
-[Data](articles/26013493.json)
-
-[Extended Data](ext_articles/26013493.ext.json)
 
 ---

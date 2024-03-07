@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 04:17:43**
+As of **2024-03-08 04:33:10**
 
 ## Newspaper Stats
 
-*Scraped **11,577** Articles*
+*Scraped **11,579** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
 bbccomsinhala | 135
-dbsjeyarajcom | 175
+dbsjeyarajcom | 177
 newsfirstlk | 363
 economynextcom | 605
 dailyftlk | 606
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,576 (100.0%) of 11,577 articles have been extended.
+11,577 (100.0%) of 11,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### கனடாவில் துப்பாக்கி சூடு: 6 இலங்கையர்கள் பலி
+### Firing in Canada: 6 Sri Lankans killed
 
 *2024-03-08 04:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-துப்பாக்கி-சூடு-6-இலங்கையர்கள்-பலி/175-334369) · `ta`
 
-கனடாவின் தலைநகர் ஒட்டாவாவின் தெற்கு பகுதியில் உள்ள வீடொன்றில் 4 குழந்தைகள் உட்பட 6 ஆறு பேரின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+In Ottawa, Canada, 6, including 4 children, were found dead in a house. A Sri Lankan suspect is arrested.
 
-தாய், அவரது நான்கு குழந்தைகள் மற்றும் அக்குடும்பத்தின் உறவினர் ஒருவர் என அறுவர் கொல்லப்பட்டுள்ளனர் என்று ஒட்டாவா பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இந்த சம்பவம் தொடர்பில் இலங்கைப் பிரஜையான சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
+The bodies of six people, including 4 children, have been found in a house in the southwestern part of the Canada capital, Ottawa.
+
+Ottawa police said that the mother, her four children and a relative of the family were killed.
+
+A Sri Lankan citizen suspect has been arrested in connection with the incident. (A)
 
 ◼️
 
 [Data](articles/797a95b0.json)
+
+[Extended Data](ext_articles/797a95b0.ext.json)
 
 ---
 
@@ -1168,6 +1174,26 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 
 ---
 
+### Two Adults and Four Children Brutally Murdered in Suburban Home in Ottawa,Canada. Another Hospitalised with Injuries. All victims of  Sri Lankan Origin.Police Arrest 10  Year old Student from Sri Lanka as Lone Suspect
+
+*2024-03-07 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83735) · `en`
+
+Police have charged a 19-year-old man with the murder of two adults and four children in an Ottawa-area townhouse Wednesday night, which police say is the largest murder in recent memory in the city.
+
+Febrio De-Zoysa is believed to be in Canada from Sri Lanka as a student and was living in the house, police said. He has been charged with six counts of first-degree murder and one count of attempted murder.
+
+Police found the victims — a Sri Lankan family that was new to Canada — inside the home at what they described as “a horrific scene,” after being called just before 11 p.m. to Barrhaven, a quiet suburb.
+
+“This was a senseless act of violence perpetrated on purely innocent people,” Ottawa police chief Eric Stubbs said. “This one will undoubtedly weigh on the hearts of everyone for a long time.”
+
+A mother, 35, and four children died from injuries from a “knifelike object.” A 40-year-old family acquaintance living at the house was also found dead.
+
+...
+
+[Data](articles/f5ce5bf1.json)
+
+---
+
 ### Harakatta, who has been detained at CIT, is the fortress who goes to observe both of them!
 
 *2024-03-07 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178195) · `ta`
@@ -2277,19 +2303,5 @@ SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public 
 [Data](articles/887153bf.json)
 
 [Extended Data](ext_articles/887153bf.ext.json)
-
----
-
-### Rohitha Abeygunawardane new COPE Chairman
-
-*2024-03-07 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardane-new-COPE-Chairman/108-278427) · `en`
-
-SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public Enterprises today.
-
-◼️
-
-[Data](articles/a67abb66.json)
-
-[Extended Data](ext_articles/a67abb66.ext.json)
 
 ---

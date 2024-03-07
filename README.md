@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 01:03:03**
+As of **2024-03-08 01:18:04**
 
 ## Newspaper Stats
 
-*Scraped **11,567** Articles*
+*Scraped **11,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
 adaderanalk | 1,408
-virakesarilk | 1,588
+virakesarilk | 1,589
 dailymirrorlk | 1,762
 adaderanasinhalalk | 1,818
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,567 (100.0%) of 11,567 articles have been extended.
+11,567 (100.0%) of 11,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### கனடாவில் துப்பாக்கிச்சூடு :  ஒரே குடும்பத்தைச் சேர்ந்த 6 இலங்கையர்கள் பலி!
+
+*2024-03-08 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178212) · `ta`
+
+கனடாவின் தலைநகர் ஒட்டாவாவில் உள்ள வீடொன்றில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் இலங்கையர்கள் என அடையாளம் காணப்பட்ட ஒரே குடும்பத்தைச் சேர்ந்த 6 பேர் உயிரிழந்துள்ளனர்.
+
+இதன்போது தாய் மற்றும் பிள்ளைகள் உயிரிழந்துள்ளதுடன் தந்தை பலத்த காயங்களுடன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இந்தக் குற்றச் சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக ஒட்டாவா பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/762eb188.json)
+
+---
 
 ### Sadev, Dineet and Nathan. Toma scored 297 runs
 
@@ -2249,29 +2265,5 @@ Meanwhile, MPs Anura Dissanayaka, Rauff Hakeem, Dilan Perera, Dayasiri Jayasekar
 [Data](articles/8642909c.json)
 
 [Extended Data](ext_articles/8642909c.ext.json)
-
----
-
-### New heavins to Kajimawatta
-
-*2024-03-07 14:21:44* · [`adalk`](https://www.ada.lk/breaking_news/කජිමාවත්තට-අළුත්-හෙවනක්/11-408476) · `si`
-
-President Ranil Wickremesinghe directs officials to immediately address homelessness in Colombo, aligning with government policies. Officials explore Urban Power and Lands for solutions, emphasizing private investment.
-
-🟩
-
-President Ranil Wickremesinghe has instructed the relevant officials to provide the necessary activities to provide immediate houses for all homeless families in Colombo, Colombo.
-
-The President also informed the government to carry out these activities in accordance with the government policies and policies of the houses.
-
-The officials have also advised the officials to look into the possibilities of the Urban Power and Lands in the Colombo Municipal Council.
-
-The President also pointed out the importance of implementing the implementation by private investment through private investment.
-
-◼️
-
-[Data](articles/31b6bb49.json)
-
-[Extended Data](ext_articles/31b6bb49.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 10:50:43**
+As of **2024-03-07 11:02:44**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 1,783
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,404 (100.0%) of 11,405 articles have been extended.
+11,405 (100.0%) of 11,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### උඩප්පුව සිද්ධියේ පොලිස් ස්ථානාධිපතිට ඇප
+### Udappuwa Police OIC released on bail
 
 *2024-03-07 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194235) · `si`
 
-අත්අඩංගුවට ගත් උඩප්පුව පොලීසියේ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපතිවරයා ඇප මත මුදාහැර තිබේ.
+The OIC of Udappuwa Police CID was released on bail after an argument and assault on civilians. The sub-inspector and others were hospitalized. The driver, owner, and sub-inspector were arrested. The injured sub-inspector was also arrested at the hospital. The situation led to tension and control by Udappuwa and Mundalama Police Stations. Suspects are in Puttalam Court for an identification parade.
 
-මාර්තු 5 වනදා රාත්‍රියේ උඩප්පුව පොලිස් වසමේ උඩප්පුව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරනු ලබන උප පොලිස් පරීක්ෂකවරයෙකු සහ ඔහුගේ මිතුරන් කිහිපදෙනෙකු සිවිල් පුද්ගලයින් දෙදෙනෙකු සමග ඇති වූ බහින් බස්වීමක් හා පහරදීමක් සම්බන්ධයෙන් වාර්තා වුණි.
+🟩
 
-එහිදී උප පොලිස් පරීක්ෂකවරයා සහ අනෙක් පුද්ගලයින් දෙදෙනාගෙන් එක් අයෙක් තුවාල ලබා ප්‍රතිකාර සඳහා උඩප්පුව රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා උප පොලිස් පරීක්ෂකවරයා පුත්තලම රෝහලටත් අනෙක් පුද්ගලයා හලාවත රෝහලටත් මාරු කර යවා ඇත.
+The OIC of the Udappuwa Police Criminal Investigation Division has been released on bail.
 
-ගැටුම සිදුවන අවස්ථාවේ දී උප පොලිස් පරීක්ෂකවරයාගේ මෝටර් රථය තුළ තවත් සිවිල් පුද්ගලයින් කිහිපදෙනකු සිට ඇති බවද සිදුකළ විමර්ශනයේ දී අනාවරණය වුණි.
+A Sub Inspector of the Udappuwa police division in the Udappuwa Police Division on March 5 and several of his friends were reported in an argument and assault on two civilians.
 
-ඒ අනුව එම රථයේ රියදුරු, මෝටර් රථයේ හිමිකරු , මෝටර්  රථය හා අදාළ උප පොලිස් පරීක්ෂකවරයාට අයත් යතුරුපැදියක් සිද්ධිය වූ දිනම අත්අඩංගුවට ගෙන තිබේ.
+The sub-inspector of the sub-inspector and other two persons were admitted to the Udappuwa hospital for further treatment were transferred to the Puttalam Hospital and the other person to the Chilaw Hospital.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 28ක් හා 58ක් වූ උඩප්පුව හා කොත්තන්තිවු ප්‍රදේශවල පදිංචිකරුවන්ය.
+The investigation was revealed that several civilians were present in the sub Inspector's car at the time of the conflict.
+
+Accordingly, the driver of the vehicle has been arrested by the vehicle, the owner, car, car, car and the relevant sub-inspector.
+
+The arrested persons were residents of Udappuwa and Correspondi.
+
+Meanwhile, the injured sub-inspector was also arrested by the Mundalama Police while at the Puttalam Hospital.
 
 ...
 
 [Data](articles/344b5dac.json)
+
+[Extended Data](ext_articles/344b5dac.ext.json)
 
 ---
 
 ### Emergency decision of the Finance Ministry on the Payment
 
 *2024-03-07 10:07:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவு-குறித்து-நிதியமைச்சின்-அவசர-முடிவு/175-334316) · `ta`
+
+The Finance Ministry will pay Rs 7,500 monthly to 410,000 disabled and unidentified kidney patients, and Rs 3,000 to 820,000 elderly from April 1st, 2025, to March 3rd, 2025.
+
+🟩
 
 The Ministry of Finance has decided to pay for the insurance benefit scheme for the disabled, unidentified kidney patients and those receiving the elderly.
 

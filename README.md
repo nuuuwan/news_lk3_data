@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 18:08:58**
+As of **2024-03-07 18:20:27**
 
 ## Newspaper Stats
 
-*Scraped **11,506** Articles*
+*Scraped **11,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 612
 adalk | 976
 adaderanalk | 1,401
 tamilmirrorlk | 1,401
-virakesarilk | 1,575
+virakesarilk | 1,576
 dailymirrorlk | 1,751
 adaderanasinhalalk | 1,808
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,503 (100.0%) of 11,506 articles have been extended.
+11,506 (100.0%) of 11,507 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,47 @@ Thus, members of the public have been advised to stay hydrated, take breaks in t
 
 [Data](articles/5b3fe0c7.json)
 
+[Extended Data](ext_articles/5b3fe0c7.ext.json)
+
 ---
 
-### ஹமாஸ் பேச்சுவார்த்தைக் குழுவினர் கெய்ரோவிலிருந்து வெளியேறினர்
+### Hamas negotiating crew left Cairo
 
-*2024-03-07 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178192) · `ta`
+*2024-03-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178192) · `ta`
 
-போர்நிறுத்தம் குறித்த பேச்சுவார்த்தைகளில் ஈடுபட்டுவந்த ஹமாஸ் இயக்கத்தின் பிரதிநிதிகள் கெய்ரோவிலிருந்து வெளியேறியுள்ளனர் என எகிப்திய அதிகாரிகள் இன்று தெரிவித்துள்ளன ர்.
+Hamas negotiators left Cairo after talks with Qatar and Egypt on a ceasefire with Israel. Negotiations to resume next week. Hamas representative Sami Abu Zuhri claims Israel has obstructed efforts.
 
-காஸாவில் இஸ்ரேல் -ஹமாஸ் இடையே போர் நிறுத்தம் ஏற்படுத்துவது குறித்து கத்தார், எகிப்து ஏற்பாட்டில், எகிப்திய தலைநகர் கெய்ரோவில் பேச்சுவார்த்கைள் நடைபெற்றுவந்தன.
+🟩
 
-ஆலோசனைகளுக்காக ஹமாஸ் பிரதிநிதிகள் கெய்ரோவிலிருந்து வெளியேறியுள்ளனர். எனினும் அடுத்த வாரம் மீண்டும் பேச்சுவார்த்தை ஆரம்பமாகும் என எகிப்திய அரசாங்க வட்டாரமொன்று தெரிவித்ததாக எகிப்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+Egyptian officials today said that representatives of the Hamas movement, who were negotiating on the ceasefire, had left Cairo.
 
-உடன்பாடொன்றை ஏற்படுத்துவதற்கு மத்தியஸ்தர்கள் மேற்கொண்ட அனைத்து முயற்சிகளையும் இஸ்ரேல் தடுத்துவிட்டது என ஹமாஸ் பிரதிநிதி சமி அபு ஸுஹ்ரி கூறியுள்ளார்.
+Qatar and Egypt's arrangement held talks in the Egyptian capital of Cairo over the ceasefire between Israel and Hamas in Gaza.
+
+Hamas representatives have left Cairo for advice. However, the Egyptian media has reported that a government sources have reported that the negotiations will begin again next week.
+
+Hamas Representative Sami Abu Zuhri has said that Israel has blocked all efforts by the mediators to establish an agreement.
 
 ◼️
 
 [Data](articles/e4d60808.json)
+
+[Extended Data](ext_articles/e4d60808.ext.json)
+
+---
+
+### சாணக்கியன் எம்.பியின் பாதுகாப்பு தொடர்பில் கவனம் செலுத்த வேண்டும் - எதிர்க்கட்சித் தலைவர் சபாநாயகரிடம் கோரிக்கை
+
+*2024-03-07 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178190) · `ta`
+
+எதிர்க்கட்சி உறுப்பினர் இராசமாணிக்கம் எம்.பியின் பாதுகாப்பை சபாநாயகர் உறுதிப்படுத்த வேண்டும் என்பதுடன், அவரின் குற்றச்சாட்டு தொடர்பாக உரிய நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (07) ஒழுங்குப் பிரச்சினை ஒன்றை முன்வைத்து குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+பாராளுமன்றத்துக்குள்ளும் பாராளுமன்ற வளாகத்திலும் பாராளுமன்ற உறுப்பினர்களின் பாதுகாப்பை உறுதிப்படுத்துவது சபாநாயகர் உள்ளிட்ட அதன் பணியாட்தொகுதியின் கடமையாகும். எதிர்க்கட்சி உறுப்பினர் இராசமாணிக்கம் தெரிவித்திருந்ததன் பிரகாரம் அவர் பிரதமரை சந்திப்பதற்கு அவரது காரியாலயத்துக்கு சென்றபோது, ஆளும் கட்சி உறுப்பினர் ராேஹித்த அபேகுணவர்த்தன அவரை தாக்குவதற்கு முயற்சித்ததாக இந்த சபையில் குற்றம் சாட்டியிருந்தார். இது பாரிய குற்றச்சாட்டாகும்.
+
+...
+
+[Data](articles/2b19a04c.json)
 
 ---
 
@@ -81,6 +105,8 @@ Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the 
 ◼️
 
 [Data](articles/a0a76b47.json)
+
+[Extended Data](ext_articles/a0a76b47.ext.json)
 
 ---
 
@@ -2257,27 +2283,5 @@ Udaya Kumara Amarasinghe added that 1,232 cases of sexual harassment were report
 [Data](articles/3f03199e.json)
 
 [Extended Data](ext_articles/3f03199e.ext.json)
-
----
-
-### Sri Lanka’s Adani wind power purchase price below other non-tendered rates: Minister
-
-*2024-03-07 09:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-wind-power-purchase-price-below-other-non-tendered-rates-minister-153607/) · `en`
-
-ECONOMYNEXT- The proposed purchase price of a wind power project by India’s Adani group in Sri Lanka is below other renewable rate give without competitive tender, according to Energy Minister Kanchana Wijesekera.
-
-The rupee equivalent of the dollar tariff for Adani wind plants is 27.65 rupees, a unit Wijesekera told parliament, which was below a rate set for feed in tariffs by a committee.
-
-“You requested and we were also blamed for giving only 22.50 rupees for rooftop solar and to take it to 45 rupees to encourage it,” Wijesekera said responding to a question from Athureliye Rathana, a monk who supports renewable energy and opposed chemical fertilizer.
-
-“We were told to give 45 rupees. We appointed a committee, which looked at the US dollar rate at the time, interest and import costs and gave a feed in tariff of 37 rupees a unit.”
-
-“Ground mounted wind is given 43 rupees for plants below 10 MW. The Adani proposal is below 30 rupees.
-
-...
-
-[Data](articles/2c9f27eb.json)
-
-[Extended Data](ext_articles/2c9f27eb.ext.json)
 
 ---

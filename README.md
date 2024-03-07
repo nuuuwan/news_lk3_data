@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 20:02:47**
+As of **2024-03-07 20:18:10**
 
 ## Newspaper Stats
 
-*Scraped **11,522** Articles*
+*Scraped **11,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,58 @@ adalk | 980
 tamilmirrorlk | 1,401
 adaderanalk | 1,402
 virakesarilk | 1,580
-dailymirrorlk | 1,752
+dailymirrorlk | 1,753
 adaderanasinhalalk | 1,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,518 (100.0%) of 11,522 articles have been extended.
+11,522 (100.0%) of 11,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### சட்டவிரோத செயல்களில் ஈடுபட்ட 22 இந்தியர்கள் தலங்கமவில் கைது!
+### 22 Indians arrested in illegal activities
 
 *2024-03-07 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178205) · `ta`
 
-கணினி மற்றும் ஸ்மார்ட் போன்களை பயன்படுத்தி சட்டவிரோத செயல்களில் ஈடுபட்டதாக கூறப்படும் 22 இந்திய பிரஜைகளை கைது செய்துள்ளதாக தலங்கம பொலிஸார் தெரிவித்துள்ளனர்.
+22 Indians arrested in Talangama for illegal computer and smartphone activities, as per a complaint by an Indian embassy.
 
-இந்திய தூதரகத்தின் அதிகாரி ஒருவர்  பொலிஸில் செய்த முறைப்பாட்டின் பிரகாரம், தலங்கம நாகஹமுல்ல பிரதேசத்தில் உள்ள வீடொன்றில் வைத்தே சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸ் அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+🟩
+
+Talangama police have arrested 22 Indian citizens allegedly involved in illegal activities using computer and smart phones.
+
+According to a complaint lodged by an Indian embassy, a police officer said that the suspects were arrested in a house in Nagahamulla area in Talangama.
 
 ◼️
 
 [Data](articles/c193a63e.json)
 
+[Extended Data](ext_articles/c193a63e.ext.json)
+
 ---
 
-### இலங்கையில் நாளாந்தம் 3 பெண்கள் மார்பகப் புற்றுநோயினால் உயிரிழக்கின்றனர்! -டாக்டர் லங்கா ஜயசூரிய திஸாநாயக்க
+### 3 women die from breast cancer every day in Sri Lanka!-Doctor Lanka Jayasuriya Dissanayake
 
 *2024-03-07 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178197) · `ta`
 
-இலங்கையில் வருடாந்தம் 1,095 பெண்கள் மார்பகப் புற்றுநோயால் இறப்பதாகவும் 5,475 பெண்கள் மார்பக புற்றுநோயால் பாதிக்கப்படுவதாகவும் டாக்டர் லங்கா ஜயசூரிய திஸாநாயக்க கூறுகிறார்.
+Dr. Lanka Jayasuriya Dissanayake highlighted the alarming statistics of breast cancer in Sri Lanka at an event in Kandy, stating that 1,095 women die annually from the disease, affecting 5,475 women, with every 8 women at risk.
 
-சர்வதேச மகளிர் தினத்தை முன்னிட்டு கண்டியில் வியாழக்கிழமை (07) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்ட இந்திரா ஜயசூரிய புற்றுநோய் அறக்கட்டளையின் தலைவர் டாக்டர் லங்கா ஜயசூரிய திஸாநாயக்க இதனைத் தெரிவித்தார்.
+🟩
 
-இந்த நாட்டில் வாழும் ஒவ்வொரு 8 பெண்களில் ஒருவருக்கு மார்பகப் புற்றுநோய் ஏற்படும் அபாயம் உள்ளது. இது மிகவும் வருத்தமளிக்கிறது. இந்த மார்பகப் புற்றுநோயால் எமது நாட்டில் தினமும் மூன்று பெண்கள் உயிரிழக்கின்றனர் என்றும் கூறினார்.
+Dr. Lanka Jayasuriya Dissanayake says 1,095 women die of breast cancer annually in Sri Lanka and 5,475 women suffer from breast cancer.
+
+Dr. Lanka Jayasuriya Dissanayake, president of the Indira Jayasuriya Cancer Foundation, was speaking at an event held in Kandy on Thursday (07) in Kandy on the occasion of International Women's Day.
+
+Every 8 women living in this country have the risk of breast cancer. It is very sad. He said that three women die daily in our country due to this breast cancer.
 
 ◼️
 
 [Data](articles/4b45db74.json)
+
+[Extended Data](ext_articles/4b45db74.ext.json)
 
 ---
 
@@ -84,25 +96,33 @@ It is reported that the meeting will be held at length at length.
 
 ---
 
-### "வடக்கின் போர்" கிரிக்கெட் போட்டி இன்று ஆரம்பம்
+### The "War of the North" Cricket Tournament begins today
 
 *2024-03-07 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178201) · `ta`
 
-"வடக்கின் போர்" என வர்ணிக்கப்படும் யாழ்ப்பாணம் மத்திய கல்லூரிக்கும் யாழ்ப்பாணம் பரியோவான் கல்லூரிக்கும் இடையிலான நூற்றாண்டு கால கிரிக்கெட் போட்டி இன்று வியாழக்கிழமை (7) ஆரம்பமாகியது.
+The "War of the North" Cricket Tournament, featuring Jaffna Central College vs. Jaffna Barioan College, kicked off today. Central College lost all wickets for 157 runs in 56.5 balls, with Sayanthan scoring 55, Newton 24, and Similton 22. Barioan College ended the first day with 109 runs, with Abhiyasan and Kindusan contributing.
 
-117 ஆவது முறையாக இடம்பெறும் இப்போட்டி, இம்முறையும் யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் 7ஆம், 8ஆம், 9ஆம் ஆகிய மூன்று தினங்களும் நடைபெறவுள்ளது.
+🟩
 
-ஆரம்ப நிகழ்வு காலை 9 மணியளவில் இரண்டு கல்லூரி கீதங்களுடன் ஆரம்பித்ததுடன் இரண்டு கல்லூரி அணி வீரர்களும் கைலாகு கொடுத்து அறிமுகப்படுத்தினர்.
+The Central Cricket Tournament between Jaffna Central College and Jaffna Barioan College, which is described as the "War of the North", commenced on Thursday (7).
 
-நாணயச் சுழற்சியில் வெற்றி பெற்ற யாழ்ப்பாணம் மத்திய கல்லூரி முதலில் துடுப்பெடுத்தாட தீர்மானித்து களமிறங்கியது.
+The tournament, which will be held for the 117th time, will be held this time and the three days of the 7th, 8th and 9th at the Central College Ground in Jaffna.
 
-அந்த வகையில் முதலில் துடுப்பெடுத்தாடிய யாழ்ப்பாணம் மத்திய கல்லூரி அணி, யாழ்ப்பாணம் பரியோவான் கல்லூரி அணியின் அபார பந்துவீச்சில் தடுமாறி 56.5 பந்துப் பரிமாற்றங்கள் நிறைவில் 157 ஓட்டங்களுக்குச் சகல விக்கெட்டுகளையும் இழந்தது.
+The inaugural event started at 9 am with two college anthems and two college team players introduced Kaiila.
 
-யாழ்ப்பாணம் மத்திய கல்லூரி அணி சார்பில் சயந்தன் 55 ஓட்டங்களையும், நியூட்டன் 24 ஓட்டங்களையும், சிமில்டன் 22 ஓட்டங்களையும் அதிகபட்சமாகப் பெற்றுக்கொண்டனர்.
+Jaffna Central College, which won the currency cycle, decided to bat first.
+
+The Jaffna Central College team, who first batted first, stumbled on the Jaffna Barovan College team's great bowling and lost all wickets for 157 runs in 56.5 balls.
+
+Sayanthan scored 55 runs, Newton 24 and Similton 22 for the Jaffna Central College team.
+
+In the bowling, Kavisan took 5 wickets, Madhulan 3 wickets and Randio took one wicket on behalf of the Jaffna Bariyan College team.
 
 ...
 
 [Data](articles/5aa64b08.json)
+
+[Extended Data](ext_articles/5aa64b08.ext.json)
 
 ---
 
@@ -129,6 +149,22 @@ Minister of Power and Energy Kanchantsa Wijesekara, Speaking further,
 [Data](articles/6c49aa89.json)
 
 [Extended Data](ext_articles/6c49aa89.ext.json)
+
+---
+
+### Talks for Gaza ceasefire at a standstill
+
+*2024-03-07 19:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talks-for-Gaza-ceasefire-at-a-standstill/108-278432) · `en`
+
+March 07, (CNN) - A ceasefire deal in Gaza that would see Israeli hostages freed and the first break in the fighting in more than three months is unlikely to happen by the start of Ramadan which the Biden administration had been aiming for, according to sources familiar with the negotiations.
+
+Negotiators had hoped to have a draft agreement this week after days of meetings in Cairo, “but it won’t happen,” said one diplomat familiar with the discussions who described the last few days of talks as “very hectic.”
+
+Two American officials agreed that the prospects are not promising of Israel and Hamas agreeing to the temporary truce by the start of the Muslim holy month early next week.
+
+...
+
+[Data](articles/ed668a94.json)
 
 ---
 
@@ -544,21 +580,29 @@ Minister Kanchana Wijesekara was speaking at a special press conference held at 
 
 ---
 
-### රට හැර ගැය වෛද්‍ය පුතු වෙනුවට රොගීන්ට ප්‍රතිකාර කල පියෙක්
+### The Father who was treated with a medical son instead of the country
 
 *2024-03-07 16:45:17* · [`adalk`](https://www.ada.lk/breaking_news/රට-හැර-ගැය-වෛද්‍ය-පුතු-වෙනුවට-රොගීන්ට-ප්‍රතිකාර-කල-පියෙක්/11-408481) · `si`
 
-වෛද්‍ය පුතු විදේශ ගතවීමෙන් අනතුරුව  ඔහුගේ වෛද්‍ය මධ්‍යස්ථානය ඒ අයුරින්ම පවත්වාගෙන යමින් රෝගීන්ට ප්‍රතිකාර ලබා දුන් 66 හැවිරිදි පුද්ගලයකු බියගම පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය කියයි.
+Biyagama Police arrested a 66-year-old man for exploiting a medical center in Bandarawatta, Biyagama, where he was treated in July 2023. Investigations revealed he had two employees involved. The suspect claimed no medical treatment was needed.
 
-සුදුසුකම් නොලත් වෛද්‍යවරයෙකු විසින් බියගම බණ්ඩාරවත්ත ප්‍රදේශයේ වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන යන බවට බියගම පොලිසියට ලද තොරතුරකට අනුව වැටලීම කළ බව පොලිසිය සඳහන් කරයි.
+🟩
 
-අදාල වෛද්‍ය මධ්‍යස්ථානයේ වටලා සිදුකළ වැඩිදුර විමර්ශනවලදී අත්අඩංගුවට ගත් 66 හැවිරිදි  සැකකරුගේ පුතු වෛද්‍යවරයෙකු බවත් 2017 වසරේ මෙම වෛද්‍ය මධ්‍යස්ථානය ලියාපදිංචි කර ඇති බවත්   ඔහු 2023 වසරේ ජූලි මාසයේදී  විදේශගතවීමෙන් අනතුරුව සැකකරු විසින් මේ දක්වා වෛද්‍ය පුතුගේ  නම භාවිතා කරමින්  රෝගීන්ට ප්‍රතිකාර ලබා දී ඇති බව වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත. සැකකරු යටතේ සේවකයන් දෙදෙනෙක්ද සිටින බව පොලිස් විමර්ශනවලදී වැඩිදුරටත් අනාවරණය වී ඇත.
+The Biyagama Police have arrested a 66-year-old man who was admitted to the patients after the passage of the medical son.
 
-අත්අඩංගුවට ගත් මෙම සැකකරුට වෛද්‍ය ප්‍රතිකාර කිරීමට හෝ වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන යාමට කිසිදු සුදුසුකමක් නොමැති අයෙක් බවට වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත
+According to the Biyagama Police, the Biyagama Police had raided a medical center in Bandarawatta, Biyagama.
 
-...
+Further investigations have been identified by the 66-year-old suspect in July 2023, after exploiting the relevant medical center, he was registered in July 2023 and had been treated in July in July.has. Police investigations have revealed that there were two employees under the suspect.
+
+The arrested suspect has revealed that there is no need for medical treatment or maintaining a medical center
+
+Biyagama police OIC Chief Police Stadium
+
+◼️
 
 [Data](articles/a571c2d8.json)
+
+[Extended Data](ext_articles/a571c2d8.ext.json)
 
 ---
 
@@ -2223,25 +2267,5 @@ Under the current government's Energy and Economic Reform Scheme, it has been al
 [Data](articles/4b6828bc.json)
 
 [Extended Data](ext_articles/4b6828bc.ext.json)
-
----
-
-### Paid Rs. 3,000 re-connection fee two months ago: MP contradicts Kanchana
-
-*2024-03-07 11:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paid-Rs-3-000-re-connection-fee-two-months-ago-MP-contradicts-Kanchana/108-278415) · `en`
-
-Parliament, March 7 (Daily Mirror)- Contradicting the Power and Energy Minister's claim that the electricity re-connection fee was reduced to Rs. 800 this year, newly appointed Anuradhapura District MP M.C. Muthukumarana said he paid Rs. 3,000 as reconnection fee two months ago.
-
-MP Muthukumarana told this in Parliament after Minister Kanchana Wijesekara said that the reconnection fee which was Rs. 3,000 earlier was reduced to Rs. 1,300 last year and that it was further reduced to Rs. 800 from this year.
-
-"Minister, the reconnection fee you stated is wrong. I also paid Rs. 3,000 two months ago. I request you to look into this matter," MP Muthukumarana  said.
-
-Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the Minister said the electricity re-connection fee was reduced from Rs. 3,000 to Rs. 1,300 last year and that it was further reduced to Rs. 800 this year.
-
-◼️
-
-[Data](articles/7a7d2233.json)
-
-[Extended Data](ext_articles/7a7d2233.ext.json)
 
 ---

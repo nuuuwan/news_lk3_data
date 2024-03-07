@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 02:33:05**
+As of **2024-03-08 02:49:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,572 (100.0%) of 11,576 articles have been extended.
+11,576 (100.0%) of 11,576 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Within days, The Tsar (Russian King) abdicated, and women were given the right t
 
 [Data](articles/f5796947.json)
 
+[Extended Data](ext_articles/f5796947.ext.json)
+
 ---
 
 ### Famine looms in Gaza as Biden, Trump play politics
@@ -62,37 +64,53 @@ Hours after his Super Tuesday feat, in an interview with Fox News, Trump voiced 
 
 [Data](articles/08d82480.json)
 
+[Extended Data](ext_articles/08d82480.ext.json)
+
 ---
 
-### விபுலானந்தா தமிழ் வித்தியாலயத்தின் கல்வி பொது தராதர சாதாரண தர மாணவர்களுக்கான கருத்தரங்கு!
+### Vipulananda Tamil Vidyalaya Seminar for Education Public Standards
 
 *2024-03-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178218) · `ta`
 
-கொழும்பு விபுலானந்தா தமிழ் மகா வித்தியாலயத்தின் கல்வி பொது தராதர சாதாரண தர மாணவர்களுக்கான கருத்தரங்கு வியாழக்கிழமை (7) பாடசாலையின் அதிபர் என். ரவிச்சந்திரன் தலைமையில் இடம்பெற்றது.
+Vipulananda Tamil Vidyalaya hosted a seminar on education standards, featuring Dr. Vinayagamoorthy as the chief guest and Van Pitha Pitha Pitha Pitha Sandru Fernando as the guest of honor. Dr. Janakan promised to fund school painting, and Dr. Vinayaka Murthy was honored.
 
-இந்த நிகழ்வில் பாடசலையின் அதிபரின் அழைப்பினபேரில் கலந்துகொண்ட ஐ.டி.எம் நேசன் கெம்பஸ் மற்றும் ஜனனம் அறக்கட்டளையின்  ஸ்தாபகருமான கலாநிதி விநாயகமூர்த்தி ஜனகன் பிரதம அதிதியாக  கலந்து கொண்டதுடன், அகில இலங்கை கிறிஸ்தவ அபிவிருத்தி ஒன்றியத்தின் தலைவர் வண பிதா சந்ரு பெர்னாண்டோ கௌரவ அதிதியாக கலந்து கொண்டார்.
+🟩
 
-அதேவேளை  மாணவர்களின்  கல்வியை  மேம்படுத்தும் நோக்கில்  சாதாரண  தர  மாணவர்களுக்கான கருத்தரங்கை  நடாத்துவதற்கான  அன்பளிப்பும் கலாநிதி  விநாயகமூர்த்தி ஜனகனால் வழங்கி வைக்கப்பட்டமை விசேட  அம்சமாகும்.
+The Principal of the school N.. Ravichandran led by Ravichandran.
 
-இந்த நிகழ்வில் உரையாற்றிய கலாநிதி ஜனகன், கொழும்பு 09, விபுலானந்தா  தமிழ் வித்தியாலயத்தின் 1993ஆம் ஆண்டு பழைய மாணவர் சங்கத்தால் விடுக்கப்பட்ட வேண்டுகோளுக்கு அமைய பாடசாலை முழுவதற்கும் வர்ணம் பூசுவதற்கான நிதியை நன்கொடையாக வழங்கவுள்ளதாக உறுதியளித்தார்.
+At the invitation of the Chancellor of the School, Dr. Vinayagamoorthy, the founder of the Jananam Foundation, Dr. Vinayagamoorthy, was the chief guest and the President of the All Ceylon Christian Development Union, Van Pitha Pitha Pitha Pitha Sandru Fernando was the guest of honor.
 
-...
+At the same time, it is a special feature that Dr. Vinayagamoorthy Janakan was also gifted to hold a seminar for ordinary students to improve the education of the students.
+
+Speaking at the event, Dr. Janakan promised to donate funds for painting the entire school at the request of the Alumni Association of Vipulananda Tamil Vidyalaya in Colombo 09, Colombo 09.
+
+During the event, Dr. Vinayaka Murthy was given a monument to Janakan.
+
+◼️
 
 [Data](articles/38e06b9c.json)
 
+[Extended Data](ext_articles/38e06b9c.ext.json)
+
 ---
 
-### இலங்கையில்  பெண்களின் அரசியல் பிரதிநிதித்துவம் மிகக்குறைந்த மட்டத்தில் - நெதர்லாந்து தூதுவர் போனி ஹார்பாக்
+### Political representation of women in Sri Lanka
 
 *2024-03-08 01:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178217) · `ta`
 
-இலங்கை வலுவான ஜனநாயக கொள்கையை கொண்டுள்ள போதிலும் பெண்களின் அரசியல் பிரதிநிதித்துவம் மிகக்குறைந்த மட்டத்திலேயே காணப்படுகின்றது. இந்த நிலைமை வெகுவிரைவில் மாற வேண்டும் என நெதர்லாந்து தூதுவர் போனி ஹார்பாக் தெரிவித்தார்.
+Sri Lanka's political representation of women is low, despite strong democratic policies. The Netherlands Ambassador Bonnie Harbak urged for change, highlighting the impact of social networks on freedom of expression laws.
 
-அவர் மேலும் தெரிவிக்கையில், உலகளவில் மக்கள் மத்தியில் சமூக வலைத் தளங்களின் செல்வாக்கு அதிகரித்துள்ளதால் கருத்து சுதந்திரத்தை மட்டுப்படுத்தும் விதமான சட்டங்கள் கொண்டு வரப்படுகின்றன. என்றாலும்கூட ஜனநாயக நாடொன்றில் மக்களின் கருத்து சுதந்திரம் பாதுகாக்கப்பட வேண்டியது கட்டாயம் என்றார்.
+🟩
+
+Although Sri Lanka has a strong democratic policy, the political representation of women is at a very low level. The Netherlands Ambassador Bonnie Harbak said the situation should be changed soon.
+
+He added that the influence of social networks among the worldwide has increased the laws that restrict freedom of expression.. Nevertheless, it is mandatory for the freedom of the people to be protected in a democratic country.
 
 ◼️
 
 [Data](articles/4212c239.json)
+
+[Extended Data](ext_articles/4212c239.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 13:33:35**
+As of **2024-03-07 13:50:06**
 
 ## Newspaper Stats
 
-*Scraped **11,442** Articles*
+*Scraped **11,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,67 @@ islandlk | 612
 adalk | 967
 adaderanalk | 1,391
 tamilmirrorlk | 1,396
-virakesarilk | 1,565
-dailymirrorlk | 1,742
+virakesarilk | 1,567
+dailymirrorlk | 1,743
 adaderanasinhalalk | 1,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,440 (100.0%) of 11,442 articles have been extended.
+11,442 (100.0%) of 11,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### නව විදුලි සම්බන්ධතාවයට රජයෙන් සහනයක්
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-07 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178159) · `ta`
+
+இன்று வியாழக்கிழமை (மார்ச் 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 303.0947 ஆகவும் விற்பனை விலை ரூபா 312.4368 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8b23e5ee.json)
+
+---
+
+### யாழ். நல்லூர் ஆலயம் முன்பாக விபத்து
+
+*2024-03-07 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178156) · `ta`
+
+யாழ்ப்பாணம் நல்லூர் கந்தசுவாமி கோயிலுக்கு முன்பாக வேகக் கட்டுப்பாட்டை இழந்த லொறி கடை கட்டிடத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+பருத்தித்துறை வீதியூடாக யாழ்ப்பாணம் நோக்கி பயணித்த லொறி இன்று வியாழக்கிழமை (07) நல்லூர் ஆலயத்துக்கு முன்பாக உள்ள வளைவில் திரும்பும் போது அங்கிருந்த கடை கட்டத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/b2238ea0.json)
+
+---
+
+### Government relief to new electricity connection
 
 *2024-03-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194241) · `si`
 
-නව විදුලි සබඳතාවක් ලබා ගැනීමේදී අය කර ගන්නා ගාස්තුව වාරික වශයෙන් ගෙවීමේ අවස්ථාව ඉදිරියේදී විදුලි පාරිභෝගිකයන්ට හිමිවන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+The Minister of Power and Energy, Kanchana Wijesekara, announced that recipients of the fee for new electricity connections will be paid in order. This follows two policy decisions: extending time without disconnecting electricity for small bills and reducing the return amount from Rs. 3,000 to Rs. 1,300, further reduced to Rs. 800 this year.
 
-පාර්ලිමේන්තු මන්ත්‍රී එච්.එම්.ධර්මසේන වාචික පිළිතුරු අපේක්ෂාවෙන් යොමුකළ පැනයකට අද පාර්ලිමේන්තුවේදි පිළිතුරු ලබාදෙමින් ඔහු මේ බව පැවසීය.
+🟩
 
-එහිදී අදහස් දැක්වූ විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා,
+The Minister of Power and Energy Kanchana Wijesekara says that the recipients of the fee will be paid in order to pay a new electricity.
 
-...
+He was responding to a query in Parliament today as a question raised by MP HM Dhanasena.
+
+Minister of Power and Energy, Kanchana Wijesekara, speaking to the occasion.
+
+"In the recent past we have taken 2 policy decisions. The first issue gives them some time without disconnecting electricity in the homes of small bills. For the settlement of it. Also, the return of about Rs. 3,000 was reduced to Rs. 1300. In addition, we have taken steps to reduce it to Rs. 800 this year. It is reported that it is now worth paying Rs. 35,000 and Rs.. It has been approved by the board of directors officially educate it. "
+
+◼️
 
 [Data](articles/2098198a.json)
+
+[Extended Data](ext_articles/2098198a.ext.json)
 
 ---
 
@@ -63,6 +97,8 @@ Kumar underwent a bilateral hand transplant under the team of Dr Mahesh Mangal, 
 ...
 
 [Data](articles/14d091eb.json)
+
+[Extended Data](ext_articles/14d091eb.ext.json)
 
 ---
 
@@ -159,6 +195,26 @@ The President also pointed out the importance of implementing this program throu
 [Data](articles/26013493.json)
 
 [Extended Data](ext_articles/26013493.ext.json)
+
+---
+
+### Excessive exposure to sunlight may cause blindness
+
+*2024-03-07 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excessive-exposure-to-sunlight-may-cause-blindness/108-278418) · `en`
+
+Colombo, March 7 (Daily Mirror) - During the prevalence of dry weather, exposure to excessive sunlight can lead to blindness, Eye Surgeon Dr. Mudita Kulatunga said.
+
+She mentioned that it is important to drink water to prevent the eyes from drying due to excessive sunlight and to use glasses and helmets to prevent the reflection of ultraviolet rays into the eyes.
+
+The doctor advised parents to make the children wear a face protective cap or sunglasses to protect their eyes from direct sunlight.
+
+People who spend a considerable amount of time outdoors and are exposed to sunlight (Ultra Violet (UV) Rays) almost all the time are likely to develop severe eye problems such as macular degeneration.
+
+Construction workers who always engage in their work outdoors, supervisors, and traffic police are essentially advised to wear sunglasses.
+
+◼️
+
+[Data](articles/8b73b4aa.json)
 
 ---
 
@@ -1640,7 +1696,7 @@ He cautioned that exaggerating the salary increases to undermine the financial s
 
 “Our need for the Central Bank independence in setting wages and salaries for the staff is quite important to avoid undue influence from the fiscal authorities. That was the issue earlier.
 
-The salary issue we can talk temperately, if it is immoral or unethical. That we can discuss separately. But using this issue to oppose the Central Bank or compromise the independence by changing law is a major risk,” he added.
+The salary issue we can talk temperately if it is immoral or unethical. That we can discuss separately. But using this issue to oppose the Central Bank or compromise the independence by changing law is a major risk,” he added.
 
 ...
 
@@ -2281,69 +2337,5 @@ With an eye on the next five years, the NPP envisions a country that not only co
 [Data](articles/c7486ccd.json)
 
 [Extended Data](ext_articles/c7486ccd.ext.json)
-
----
-
-### Bangladesh wins 08 wickets
-
-*2024-03-06 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178121) · `ta`
-
-Bangladesh won by 8 wickets in the 2nd T20 match against Sri Lanka, who scored 165/5 in 20 overs. Bangladesh achieved the win in 18.1 overs. The series is evenly balanced.
-
-🟩
-
-Bangladesh won by 8 wickets in the second Twenty20 match against Sri Lanka.
-
-The Sri Lankan team first won the bowling of Bangladesh in the tournament in Chillhead, Bangladesh.
-
-Sri Lanka scored 165 runs for the loss of 05 wickets in 20 overs
-
-The Bangladesh team then won the target of winning only two wickets in 18.1 overs.
-
-Sri Lanka and Bangladesh are in a balanced series in each of the three matches.
-
-◼️
-
-[Data](articles/d92a86bd.json)
-
-[Extended Data](ext_articles/d92a86bd.ext.json)
-
----
-
-### Finding solutions to manage the talent drain
-
-*2024-03-06 23:37:58* · [`dailyftlk`](https://www.ft.lk/columns/Finding-solutions-to-manage-the-talent-drain/4-759231) · `en`
-
-President (then Prime Minister) pointed out in 2016 that “given the future growth potential and envisaged development plans, Sri Lanka will have to overcome the scarcity of skilled human resources apart from managing power and water requirements”. Sri Lanka eight years later is still looking for sustainable Human Resource solutions
-
-Official records suggest that over 1.1 million Sri Lankans have left the country in 2022 with a monthly average of about 94,000 while only 27.6% of total departures have left for foreign employment purposes, most of them low- and semi-skilled workers. In 2023, around 300,000. However there is evidence that middle-class professionals joined the exodus in 2022 and 2023 thinking that the country would take years to recover. Overall critical sectors like healthcare, banking sector and information technology increasingly struggle with talent shortages.
-
-...
-
-[Data](articles/f787dbe5.json)
-
-[Extended Data](ext_articles/f787dbe5.ext.json)
-
----
-
-### Udappuwa Crimes OIC arrested over assault incident
-
-*2024-03-06 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97784/udappuwa-crimes-oic-arrested-over-assault-incident-) · `en`
-
-The Officer-In-Charge (OIC) of the Udappuwa Police Crimes Division was arrested and subsequently suspended from the service, for allegedly assaulting a group of villagers on Tuesday night (05 March).
-
-According to police, witnesses had also videotaped the police officer in question using crude language with the area residents, blasting them for reportedly having spat on his vehicle, in which he had been travelling in with two other persons.
-
-Two civilians were subsequently admitted to the Udappuwa Rural Hospital after sustaining injuries in the altercation. Meanwhile, the Crimes OIC who claims to have also sustained injuries in the incident, was also hospitalised.
-
-He was arrested this morning (06) while still in hospital, and was suspended from his duties pending investigations.
-
-Police stated that blood samples were also obtained from the policeman in question, to determine whether or not he had been under the influence of alcohol at the time of the incident.
-
-◼️
-
-[Data](articles/c7e80ae7.json)
-
-[Extended Data](ext_articles/c7e80ae7.ext.json)
 
 ---

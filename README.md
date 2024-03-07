@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 19:33:23**
+As of **2024-03-07 19:50:42**
 
 ## Newspaper Stats
 
-*Scraped **11,516** Articles*
+*Scraped **11,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 1,401
 adaderanalk | 1,402
 virakesarilk | 1,577
 dailymirrorlk | 1,752
-adaderanasinhalalk | 1,811
+adaderanasinhalalk | 1,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,516 (100.0%) of 11,516 articles have been extended.
+11,516 (100.0%) of 11,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### බැසිල් මහින්ද රනිල් විශේෂ හමුවක්
+
+*2024-03-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194268) · `si`
+
+පසුගියදා දිවයිනට පැමිණි බැසිල් රාජපක්ෂ මහතා සහ විශේෂ පාර්ශ්ව කිහිපයක් අතර අද රාත්‍රියේ විශේෂ සාකච්ඡාවක් සිදුකිරීමට නියමිත බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+
+එම ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරන්නේ මෙම සාකච්ඡාවට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද එක්වනු ඇති බවය.
+
+එම හමුවේදී ඉදිරි දේශපාලන කටයුතු පිළිබඳ දීර්ඝ වශයෙන් සාකච්ඡා කෙරෙනු ඇති බව වාර්තාවෙයි.
+
+◼️
+
+[Data](articles/6ac7388b.json)
+
+---
+
+### වැට් නැත්නම් තෙල් මිල අඩුකරන්න පුළුවන් - කංචන
+
+*2024-03-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194267) · `si`
+
+වැට් බදු පැනවීම නොතිබුණේ නම් ඉන්ධන ලීටරයක් දැනට අලෙවි වන මිලට වඩා රුපියල් 50 ක් 55ක් වැනි මුදලක් අඩුවෙන් අලෙවිකළ හැකි බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+අද ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවේදී අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ  විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර,
+
+"විදුලි ගාස්තුව අඩුකිරීම සඳුදා සිදුවුණා , ආපනශාලා ඇතුළු පාර්ශ්ව ඉරිදා මිල වැඩිකළා , ඔවුන් යම් උපක්‍රමයක් භාවිත කළා වැඩිකළ ප්‍රමාණය අඩු කරලා අඩුකළා කිව්වා ඒ අඩුකිරීම කිසිසේත් ප්‍රමාණවත් නැහැ මිල තීන්දු කරන්නේ පවතින තත්ත්වය අනුව ඉදිරි මැතිවරණය කුමක් වුවත් නියං තත්ත්වයක් ගල් අඟුරු මිල වැඩිවීමක් වුණොත් ඒ තත්ත්ව සැලකිල්ලට ගන්නවා"
+
+"එක් කණ්ඩායමක් දිහා බලලා කරන දෙයක් නෙවෙයි මිල සූත්‍රයේ වියදම් නිරූපණය වෙන්න පමණයි කරන්නේ වැට් බද්ද එකතුවුණේ නැත්නම් ඉන්ධන ලීටරයකින් රු.50 - රු. 55ක් අඩු කරන්න පුළුවන්"
+
+◼️
+
+[Data](articles/6c49aa89.json)
+
+---
 
 ### Hoouti was about news about Sri Lankans who were attacked
 
@@ -2241,55 +2277,5 @@ The State transport service has faced criticism for delays in its implementation
 [Data](articles/1d1aab3b.json)
 
 [Extended Data](ext_articles/1d1aab3b.ext.json)
-
----
-
-### Suddenly, a group of diplomats meet
-
-*2024-03-07 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194236) · `si`
-
-Anura Kumara Dissanayake, leader of the National Power, met with diplomatic officers from six countries: Palestine, Turkey, Bangladesh, Malaysia, and Maldives, to discuss economic policies and the national promote's functioning.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake and the diplomatic officers of six countries have held a meeting.
-
-Leader of the National Power Anura Kumara Dissanayake and six countries held at the party office in the party office.
-
-Palestinian, Turkish, Turkish, Turkish, Bangladeshi, Malaysian and Maldives have participated in the discussion.
-
-The economic policies and functioning of the national promote is discussed.
-
-◼️
-
-[Data](articles/b6066d65.json)
-
-[Extended Data](ext_articles/b6066d65.ext.json)
-
----
-
-### “The Postal Department will receive a revenue of Rs 21 billion in 2024”
-
-*2024-03-07 11:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-திணைக்களம்-2024ல்-ரூ-21-பில்லியன்-வருவாயைப்-பெறும்/175-334320) · `ta`
-
-The Postal Department of Sri Lanka aims to generate Rs 21 billion in revenue by 2024, focusing on commercial postal services like COD and EMS, despite a decline in traditional postal use. It has partnered with UPS and recorded a loss of Rs 3.2 billion last year.
-
-🟩
-
-The Postal Department of Sri Lanka said it hoped to register a revenue of Rs 21 billion by 2024 and act as an independent self -sufficient company from the Treasury Fund.
-
-Speaking about the new outlook of the Department from the Public Service Provider, the Deputy Chancellor Ruwan Satkumara said the department has initiated strategic cooperation with the private sector to reduce the revenue gap and gap.
-
-Katkumara said the department had signed an agreement with the United Parcel Service, a global Logistics and Pakaj delivery company.
-
-He also shared the first day's card stamps by the Postal Department to the Postal Department, on the 135th anniversary of the Hatton National Bank.
-
-“Traditional postal services see a decline in global use, but there is a significant need for commercial postal services, Kash One Delivery (COD) and EMS services.
-
-...
-
-[Data](articles/24c56e16.json)
-
-[Extended Data](ext_articles/24c56e16.ext.json)
 
 ---

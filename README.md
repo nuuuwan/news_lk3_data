@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 07:10:42**
+As of **2024-03-07 07:22:10**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,773
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,368 (100.0%) of 11,370 articles have been extended.
+11,370 (100.0%) of 11,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### උණුසුම් කාලගුණය තවදුරටත් - විමසිල්ලෙන් ඉන්න
+### Hot weather no longer - keep close
 
 *2024-03-07 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194224) · `si`
 
-වයඹ හා දකුණු පළාත් සහ රත්නපුර හා මන්නාරම දිස්ත්‍රික්ක සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ﻿ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+The Meteorology Department has issued a warning for hot weather in the North Western and Southern provinces, and Colombo-Ratnapura and Mannar districts. People are advised to be aware of the human body's heat index. Dry weather is expected in Ratnapura, Galle, and Matara districts. Meteorological stations are set up in Western and Sabaragamuwa provinces, and in parts of Galle and Matara districts.
 
-ඒ අනුව අද දින අදාළ ප්‍රදේශවල උණුසුම් දර්ශකය හෙවත් එනම් මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතින බැවින් විමසිලිමත් වන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම්දෙයි.
+🟩
 
-රත්නපුර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ඇතිවිය හැකි වැසි ස්වල්පයක් හැරුන විට දිවයින පුරා ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතී.
+An inquirying of warm weather conditions has been issued for the North Western and Southern provinces and the Colombo-Ratnapura and Mannar districts.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Accordingly, the Meteorology Department is informed of the people of the Meteorological Department to be aware of the hot index of the human body today.
+
+In the Ratnapura, Galle and Matara districts, there is a mainly dry weather throughout the country.
+
+The Department of Meteorology announces a stations in the Western and Sabaragamuwa provinces and in some places in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/189ec5e9.json)
+
+[Extended Data](ext_articles/189ec5e9.ext.json)
 
 ---
 

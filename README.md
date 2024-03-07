@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 05:02:40**
+As of **2024-03-08 05:17:50**
 
 ## Newspaper Stats
 
@@ -1154,6 +1154,22 @@ The awards ceremony was organized by the Ministry of Buddha Sasana and Cultural 
 
 ---
 
+### Ronnie De Mel the Socialist MP  who  Ushered in  a Capitalist Economy as Finance Minister.
+
+*2024-03-07 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83715) · `en`
+
+The  ascension of Junius Richard Jayewardene to the premier seat of poitical power in 1977  paved the way for a drastic transformation of Sri Lanka’s politico-economic landscape and environment. J.R. Jayewardene known popularly as “JR” ushered in political, economic and electoral changes that utterly changed Sri Lanka.  In the words of William Butler Yeats “All changed, changed utterly”
+
+The advent of JR as Prime Minister in 1977 and as the first executive president in 1978 saw great changes in three vital spheres. Firstly the economy was liberalised and free enterprise encouraged. Secondly the Westminster model of Parliamentary governance introduced by the British was turned into an executive presidency. Parliament was de-valued. Thirdly the prevailing “first past the post winner” electoral practice was replaced with the proportional representation scheme.
+
+...
+
+[Data](articles/670bb669.json)
+
+[Extended Data](ext_articles/670bb669.ext.json)
+
+---
+
 ### Hoouti released 21
 
 *2024-03-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194264) · `si`
@@ -2291,19 +2307,5 @@ Mr. Rohitha Abeygunawardena has been appointed as the Chairman of the Parliament
 [Data](articles/9cebe629.json)
 
 [Extended Data](ext_articles/9cebe629.ext.json)
-
----
-
-### Rohitha Abeygunawardane new COPE Chairman
-
-*2024-03-07 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rohitha-Abeygunawardane-new-COPE-Chairman/155-278427) · `en`
-
-SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public Enterprises today.
-
-◼️
-
-[Data](articles/887153bf.json)
-
-[Extended Data](ext_articles/887153bf.ext.json)
 
 ---

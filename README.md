@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 19:50:42**
+As of **2024-03-07 20:02:47**
 
 ## Newspaper Stats
 
-*Scraped **11,518** Articles*
+*Scraped **11,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 979
+adalk | 980
 tamilmirrorlk | 1,401
 adaderanalk | 1,402
-virakesarilk | 1,577
+virakesarilk | 1,580
 dailymirrorlk | 1,752
 adaderanasinhalalk | 1,813
 
@@ -26,45 +26,109 @@ adaderanasinhalalk | 1,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,516 (100.0%) of 11,518 articles have been extended.
+11,518 (100.0%) of 11,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### බැසිල් මහින්ද රනිල් විශේෂ හමුවක්
+### சட்டவிரோத செயல்களில் ஈடுபட்ட 22 இந்தியர்கள் தலங்கமவில் கைது!
+
+*2024-03-07 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178205) · `ta`
+
+கணினி மற்றும் ஸ்மார்ட் போன்களை பயன்படுத்தி சட்டவிரோத செயல்களில் ஈடுபட்டதாக கூறப்படும் 22 இந்திய பிரஜைகளை கைது செய்துள்ளதாக தலங்கம பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்திய தூதரகத்தின் அதிகாரி ஒருவர்  பொலிஸில் செய்த முறைப்பாட்டின் பிரகாரம், தலங்கம நாகஹமுல்ல பிரதேசத்தில் உள்ள வீடொன்றில் வைத்தே சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸ் அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c193a63e.json)
+
+---
+
+### இலங்கையில் நாளாந்தம் 3 பெண்கள் மார்பகப் புற்றுநோயினால் உயிரிழக்கின்றனர்! -டாக்டர் லங்கா ஜயசூரிய திஸாநாயக்க
+
+*2024-03-07 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178197) · `ta`
+
+இலங்கையில் வருடாந்தம் 1,095 பெண்கள் மார்பகப் புற்றுநோயால் இறப்பதாகவும் 5,475 பெண்கள் மார்பக புற்றுநோயால் பாதிக்கப்படுவதாகவும் டாக்டர் லங்கா ஜயசூரிய திஸாநாயக்க கூறுகிறார்.
+
+சர்வதேச மகளிர் தினத்தை முன்னிட்டு கண்டியில் வியாழக்கிழமை (07) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்ட இந்திரா ஜயசூரிய புற்றுநோய் அறக்கட்டளையின் தலைவர் டாக்டர் லங்கா ஜயசூரிய திஸாநாயக்க இதனைத் தெரிவித்தார்.
+
+இந்த நாட்டில் வாழும் ஒவ்வொரு 8 பெண்களில் ஒருவருக்கு மார்பகப் புற்றுநோய் ஏற்படும் அபாயம் உள்ளது. இது மிகவும் வருத்தமளிக்கிறது. இந்த மார்பகப் புற்றுநோயால் எமது நாட்டில் தினமும் மூன்று பெண்கள் உயிரிழக்கின்றனர் என்றும் கூறினார்.
+
+◼️
+
+[Data](articles/4b45db74.json)
+
+---
+
+### Basil Mahinda Ranil meets a special meeting
 
 *2024-03-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194268) · `si`
 
-පසුගියදා දිවයිනට පැමිණි බැසිල් රාජපක්ෂ මහතා සහ විශේෂ පාර්ශ්ව කිහිපයක් අතර අද රාත්‍රියේ විශේෂ සාකච්ඡාවක් සිදුකිරීමට නියමිත බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+Basil Mahinda Ranil hosts a special meeting with Basil Rajapaksa and others. President Mahinda Rajapaksa and President Ranil Wickremesinghe are present. The meeting is expected to be lengthy.
 
-එම ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරන්නේ මෙම සාකච්ඡාවට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද එක්වනු ඇති බවය.
+🟩
 
-එම හමුවේදී ඉදිරි දේශපාලන කටයුතු පිළිබඳ දීර්ඝ වශයෙන් සාකච්ඡා කෙරෙනු ඇති බව වාර්තාවෙයි.
+Political sources say that Basil Rajapaksa and several special parties have come to the island recently.
+
+The sources further states that the President Mahinda Rajapaksa and President Ranil Wickremesinghe are also joined.
+
+It is reported that the meeting will be held at length at length.
 
 ◼️
 
 [Data](articles/6ac7388b.json)
 
+[Extended Data](ext_articles/6ac7388b.ext.json)
+
 ---
 
-### වැට් නැත්නම් තෙල් මිල අඩුකරන්න පුළුවන් - කංචන
+### "வடக்கின் போர்" கிரிக்கெட் போட்டி இன்று ஆரம்பம்
+
+*2024-03-07 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178201) · `ta`
+
+"வடக்கின் போர்" என வர்ணிக்கப்படும் யாழ்ப்பாணம் மத்திய கல்லூரிக்கும் யாழ்ப்பாணம் பரியோவான் கல்லூரிக்கும் இடையிலான நூற்றாண்டு கால கிரிக்கெட் போட்டி இன்று வியாழக்கிழமை (7) ஆரம்பமாகியது.
+
+117 ஆவது முறையாக இடம்பெறும் இப்போட்டி, இம்முறையும் யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் 7ஆம், 8ஆம், 9ஆம் ஆகிய மூன்று தினங்களும் நடைபெறவுள்ளது.
+
+ஆரம்ப நிகழ்வு காலை 9 மணியளவில் இரண்டு கல்லூரி கீதங்களுடன் ஆரம்பித்ததுடன் இரண்டு கல்லூரி அணி வீரர்களும் கைலாகு கொடுத்து அறிமுகப்படுத்தினர்.
+
+நாணயச் சுழற்சியில் வெற்றி பெற்ற யாழ்ப்பாணம் மத்திய கல்லூரி முதலில் துடுப்பெடுத்தாட தீர்மானித்து களமிறங்கியது.
+
+அந்த வகையில் முதலில் துடுப்பெடுத்தாடிய யாழ்ப்பாணம் மத்திய கல்லூரி அணி, யாழ்ப்பாணம் பரியோவான் கல்லூரி அணியின் அபார பந்துவீச்சில் தடுமாறி 56.5 பந்துப் பரிமாற்றங்கள் நிறைவில் 157 ஓட்டங்களுக்குச் சகல விக்கெட்டுகளையும் இழந்தது.
+
+யாழ்ப்பாணம் மத்திய கல்லூரி அணி சார்பில் சயந்தன் 55 ஓட்டங்களையும், நியூட்டன் 24 ஓட்டங்களையும், சிமில்டன் 22 ஓட்டங்களையும் அதிகபட்சமாகப் பெற்றுக்கொண்டனர்.
+
+...
+
+[Data](articles/5aa64b08.json)
+
+---
+
+### Can Reduce VAT or Oil Prices - Kanchan
 
 *2024-03-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194267) · `si`
 
-වැට් බදු පැනවීම නොතිබුණේ නම් ඉන්ධන ලීටරයක් දැනට අලෙවි වන මිලට වඩා රුපියල් 50 ක් 55ක් වැනි මුදලක් අඩුවෙන් අලෙවිකළ හැකි බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+Kanchana Wijesekara, Power and Energy Minister, suggests reducing VAT or oil prices to market a liter of fuel at Rs. 50-55. He mentions reducing electricity fees and restaurant prices, and criticizes the coal price hike.
 
-අද ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවේදී අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ  විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර,
+Power and Energy Minister Kanchana Wijesekara says that if the VAT is not imposed, a liter of fuel can be marketed at least Rs. 50 to 55 rupees.
 
-"විදුලි ගාස්තුව අඩුකිරීම සඳුදා සිදුවුණා , ආපනශාලා ඇතුළු පාර්ශ්ව ඉරිදා මිල වැඩිකළා , ඔවුන් යම් උපක්‍රමයක් භාවිත කළා වැඩිකළ ප්‍රමාණය අඩු කරලා අඩුකළා කිව්වා ඒ අඩුකිරීම කිසිසේත් ප්‍රමාණවත් නැහැ මිල තීන්දු කරන්නේ පවතින තත්ත්වය අනුව ඉදිරි මැතිවරණය කුමක් වුවත් නියං තත්ත්වයක් ගල් අඟුරු මිල වැඩිවීමක් වුණොත් ඒ තත්ත්ව සැලකිල්ලට ගන්නවා"
+At the press conference held at the press conference, the minister expressed these views.
 
-"එක් කණ්ඩායමක් දිහා බලලා කරන දෙයක් නෙවෙයි මිල සූත්‍රයේ වියදම් නිරූපණය වෙන්න පමණයි කරන්නේ වැට් බද්ද එකතුවුණේ නැත්නම් ඉන්ධන ලීටරයකින් රු.50 - රු. 55ක් අඩු කරන්න පුළුවන්"
+Minister of Power and Energy Kanchantsa Wijesekara, Speaking further,
+
+"The electricity fee reduced on Monday, the restaurants, including Sunday, reduced the amount of increased significant, the increase in the proximity to the increase in the price of a coal price hikeTake "
+
+"The cost of the price formula is not only used to look at a group.. 55 can be reduced "
 
 ◼️
 
 [Data](articles/6c49aa89.json)
+
+[Extended Data](ext_articles/6c49aa89.ext.json)
 
 ---
 
@@ -477,6 +541,24 @@ Minister Kanchana Wijesekara was speaking at a special press conference held at 
 [Data](articles/4b532374.json)
 
 [Extended Data](ext_articles/4b532374.ext.json)
+
+---
+
+### රට හැර ගැය වෛද්‍ය පුතු වෙනුවට රොගීන්ට ප්‍රතිකාර කල පියෙක්
+
+*2024-03-07 16:45:17* · [`adalk`](https://www.ada.lk/breaking_news/රට-හැර-ගැය-වෛද්‍ය-පුතු-වෙනුවට-රොගීන්ට-ප්‍රතිකාර-කල-පියෙක්/11-408481) · `si`
+
+වෛද්‍ය පුතු විදේශ ගතවීමෙන් අනතුරුව  ඔහුගේ වෛද්‍ය මධ්‍යස්ථානය ඒ අයුරින්ම පවත්වාගෙන යමින් රෝගීන්ට ප්‍රතිකාර ලබා දුන් 66 හැවිරිදි පුද්ගලයකු බියගම පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය කියයි.
+
+සුදුසුකම් නොලත් වෛද්‍යවරයෙකු විසින් බියගම බණ්ඩාරවත්ත ප්‍රදේශයේ වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන යන බවට බියගම පොලිසියට ලද තොරතුරකට අනුව වැටලීම කළ බව පොලිසිය සඳහන් කරයි.
+
+අදාල වෛද්‍ය මධ්‍යස්ථානයේ වටලා සිදුකළ වැඩිදුර විමර්ශනවලදී අත්අඩංගුවට ගත් 66 හැවිරිදි  සැකකරුගේ පුතු වෛද්‍යවරයෙකු බවත් 2017 වසරේ මෙම වෛද්‍ය මධ්‍යස්ථානය ලියාපදිංචි කර ඇති බවත්   ඔහු 2023 වසරේ ජූලි මාසයේදී  විදේශගතවීමෙන් අනතුරුව සැකකරු විසින් මේ දක්වා වෛද්‍ය පුතුගේ  නම භාවිතා කරමින්  රෝගීන්ට ප්‍රතිකාර ලබා දී ඇති බව වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත. සැකකරු යටතේ සේවකයන් දෙදෙනෙක්ද සිටින බව පොලිස් විමර්ශනවලදී වැඩිදුරටත් අනාවරණය වී ඇත.
+
+අත්අඩංගුවට ගත් මෙම සැකකරුට වෛද්‍ය ප්‍රතිකාර කිරීමට හෝ වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන යාමට කිසිදු සුදුසුකමක් නොමැති අයෙක් බවට වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත
+
+...
+
+[Data](articles/a571c2d8.json)
 
 ---
 
@@ -2161,121 +2243,5 @@ Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the 
 [Data](articles/7a7d2233.json)
 
 [Extended Data](ext_articles/7a7d2233.ext.json)
-
----
-
-### Jativa hit by train
-
-*2024-03-07 11:24:56* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතීර්යවේදියා-දුම්රියේ-ගැටී-මරුට/11-408466) · `si`
-
-A 75-year-old man from Hakarala, Maharagama, was hit by a train near Maharawal road, Maharagama, while traveling to Duru Laboratories. He was a resident of Ravaya, Rassagala Road, Balangoda, and worked in the Pamunura area, buying machinery and textures. The train was slow, and the incident is under investigation.
-
-🟩
-
-A hostly named a hostly, a hostly, was hit by the train to the Duru Laboratories to the Pamunuwa Pamunuwa, Maharagama yesterday (06), Maharagama Police said.
-
-The deceased has been identified as a 75-year-old hostier, a resident of Hakarala, a resident of the Hakarala, a resident of Ravaya in Rassagala Road, Balangoda.
-
-It is said that this person is a person who is a person who is a person who used to be played in the Pamunura area of Maharagama and buying machinery to buy the textures.
-
-Accordingly, the man was traveling to Maharagama in Maharagama on the morning of the next morning, near the Highlight road from Maharawal road.
-
-Slow train was caught by the train and restored the train and started traveling again.
-
-The police ordered the police after the police arrived at the scene and commenced investigations into the incident.
-
-Accordingly, the Deaths of the Police have ordered the police at Kalubowila Teaching Hospital on the post mortem examination of the remains.
-
-...
-
-[Data](articles/19e2154a.json)
-
-[Extended Data](ext_articles/19e2154a.ext.json)
-
----
-
-### Sri Lankan chefs arrived again to the island
-
-*2024-03-07 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194238) · `si`
-
-Sri Lankan chefs, including those from the CITRUS Hotel Group, returned to the island to cook for the wedding of Mukh Ambani's son in Gujarat, India. They prepared food for the wedding and a supplementary meal for the night of March 4. The event featured chefs from Sri Lanka, England, Dubai, China, and India, with the chefs arriving from Mumbai, India.
-
-🟩
-
-The Sri Lankan chefs who had been in India returned to the island this morning (07) to cook.
-
-The wedding son of Mukh Ambani in India, the youngest son of Mukh Ambani, the wedding of the youngest son of Mukh Ambani was held in Gujarati.
-
-Thirteen chefs joined the cooking of the wedding, while they represent CITRUS Hotel Group representing a group of chefs representing CITRUS hostel in Colombo.
-
-The chefs were selected on customer feedback and google evaluations and recommendations.
-
-They have been preparing to prepare for the latest categories of food in Sri Lanka in the restaurant.
-
-Among the 13 chefs is also included in one chef.
-
-They had prepared lunch for the attendance of the wedding of Anneth Ambani on March 3, as a supplementary date for their foods was also given to the night of the night of March 4, the time of time.
-
-The wedding ceremony was held at a private zoo belonging to Mr. Ambani in the city of Gujarati, India.
-
-...
-
-[Data](articles/e4590050.json)
-
-[Extended Data](ext_articles/e4590050.ext.json)
-
----
-
-### The super cricket field being built to the World Cup
-
-*2024-03-07 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194237) · `si`
-
-The Nassau County International Cricket Stadium, built for the World Cup, hosts a unique competition featuring India, Pakistan, the US, and Ireland. It's a 34,000-capacity venue, part of a worldwide focus on cricket.
-
-🟩
-
-The worldwide focus on the Twenty Twenty World Championship, which will commence on June 2, is now over.
-
-This unique story is about a unique stadium from June 3 following the World Cup.
-
-Nassau County International Cricket Stadium Or Stadiuum or Lack of grassy of the New York Cricket Stadium.
-
-The United States has launched the world to surprise the world with another three months left.
-
-The International Cricket Council launched a month at the stadium, which was built on a month at the stadium that 34,000 can visit the match at the same time.
-
-Another reason to the Ground Competition, the world's focus is on the world's controversial competition in the world in this stadium.
-
-The Indian team is conducting a Trinity Competition competing in the preliminary round.
-
-In addition to Pakistan, they will play in this contest against the host American team and Irish group.
-
-Meanwhile, this new stadium and a unique memory will be constructed for the 2024 World Cup.
-
-...
-
-[Data](articles/62730a43.json)
-
-[Extended Data](ext_articles/62730a43.ext.json)
-
----
-
-### Sri Lanka state bus service makes Rs1.098bn in 2023: Minister
-
-*2024-03-07 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-bus-service-makes-rs1-098bn-in-2023-minister-153626/) · `en`
-
-ECONOMYNEXT – Sri Lanka Transport Board (SLTB) has made a profit of 1.098 billion rupees in 2023, despite facing the threat of closure, Minister of Transport Bandula Gunawardena has said.
-
-“At a time when there is an opinion that it should be privatised, we have promised to make Langama [SLTB] profit by 2025. Accordingly, by the end of 2023, Langama recorded a profit of 1098 million rupees,” Gunawardena said at an event to appoint new drivers and conductors.
-
-The Ceylon Transport Board provides a “silent service” that no one can see, as it even operates on very difficult roads without the sole objective of profit, Gunawardena was quoted in a statement by the Department of Government Information.
-
-The State transport service has faced criticism for delays in its implementation of digitalisation, and for its loss-making practices that make it unable to improve service.
-
-...
-
-[Data](articles/1d1aab3b.json)
-
-[Extended Data](ext_articles/1d1aab3b.ext.json)
 
 ---

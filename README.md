@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 15:17:38**
+As of **2024-03-07 15:33:11**
 
 ## Newspaper Stats
 
-*Scraped **11,467** Articles*
+*Scraped **11,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,106 @@ dailyftlk | 606
 islandlk | 612
 adalk | 970
 adaderanalk | 1,393
-tamilmirrorlk | 1,398
+tamilmirrorlk | 1,400
 virakesarilk | 1,569
-dailymirrorlk | 1,748
+dailymirrorlk | 1,749
 adaderanasinhalalk | 1,796
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,464 (100.0%) of 11,467 articles have been extended.
+11,467 (100.0%) of 11,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### අයිස් කිලෝ 3ක් සමග දෙදෙනෙක් අත්අඩංගුවට
+### Rohitha Abeygunawardane new COPE Chairman
+
+*2024-03-07 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardane-new-COPE-Chairman/108-278427) · `en`
+
+SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public Enterprises today.
+
+◼️
+
+[Data](articles/a67abb66.json)
+
+---
+
+### கோபா குழுத் தலைவராக லசந்த மீண்டும் தெரிவு
+
+*2024-03-07 14:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-குழுத்-தலைவராக-லசந்த-மீண்டும்-தெரிவு/175-334338) · `ta`
+
+பொதுக் கணக்குகள் தொடர்பான குழுவின் தலைவராக பாராளுமன்ற உறுப்பினர் லசந்த அழகியவண்ண இன்று மீண்டும் தெரிவு செய்யப்பட்டுள்ளார்.
+
+கோபாவின் உறுப்பினர்களாக மொஹான் பிரியதர்ஷன டி சில்வா, பிரசன்ன ரணவீர, கே. காதர் மஸ்தான், டயானா கமகே, சாமர சம்பத் தசநாயக்க, வஜிர அபேவர்தன, ஏ.எல்.எம். அதாவுல்லா, விமலவீர திஸாநாயக்க, ஜயந்த கெட்டகொட, (கலாநிதி) மேஜர், பிரதீப் உந்துகொட, கொடாவுருக் உந்துகொட , பிரேம்நாத் சி. டோலவத்தே, முதித பிரிஷாந்தி, MWD சஹான் பிரதீப் விதான, மதுர விதானகே, டி. வீரசிங்க மற்றும் மஞ்சுளா திஸாநாயக்க ஆகியோர்  அங்கம் வகிப்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/459d8923.json)
+
+---
+
+### Two arrested with 3kg
 
 *2024-03-07 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194249) · `si`
 
-අයිස් මත්ද්‍රව්‍ය කිලෝ 3කට අධික ප්‍රමාණයක් සමග සැකකරුවන් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two residents of Sedawatta and Matuliya, aged 27 and 31, were arrested by the police for possessing over 3kg of ice narcotics. The raid was based on information from the Police Narcotics Bureau. The suspects and the ice drug were taken into custody in the Wattala Police Division in Helakanda.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ වයස අවුරුදු 27 සහ 31 හැවිරිදි වියේ පසුවන සේදවත්ත සහ මට්ටකුලිය ප්‍රදේශවල පදිංචිකරුවන් දෙදෙනෙකි.
+🟩
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයට ලද තොරතුරකට අනුව මෙම වැටලීම සිදුකර ඇත.
+Two suspects have been arrested by the police with more than 3kg of ice cast.
 
-වත්තල පොලිස් වසමේ හැඳල ඇළකන්ද ප්‍රදේශයේදී මෙම සැකකරුවන් සහ අයිස් මත්ද්‍රව්‍ය තොගය පොලීසිය සිය භාරයට ගෙන ඇත.
+The arrested persons were residents of Sedawatta and Matuliya areas aged 27 and 31 years old.
 
-එහිදී සැකකරුවන් සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ 03යි ග්‍රෑම් 336ක් පොලීසිය සොයාගෙන ඇත.
+The raid was carried out according to information received by the Police Narcotics Bureau.
+
+The suspects and the Ice drug have been taken into custody in the Wattala Police Division in Helakanda area.
+
+Police have found 3 335 grams 335 grams of ice narcotics in possession.
 
 ◼️
 
 [Data](articles/1a3eaf4a.json)
 
+[Extended Data](ext_articles/1a3eaf4a.ext.json)
+
 ---
 
-### රෝහිත මට පහරදෙන්න ආවා - ෂානක්කියන්
+### Rohitha came to attack - Shaanakiyan
 
 *2024-03-07 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194248) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන් දෙදෙනෙක් අතර පාර්ලිමේන්තුවේ අගමැති කාර්යාලය තුළ ගැටුමක් ඇතිවීමට ගොස් තිබේ.
+Two Members of Parliament have gone to clash at the Prime Minister of Parliament.
 
-අද (07) පාර්ලිමේන්තු සභා ගර්භයේදී ඉලංකෙයි තමිල් අරසු කච්චි පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ෂානක්කියන් රාසමාණික්කම් මහතා සඳහන් කළේ පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා එලෙස තමාට පහරදීමට උත්සාහ කළ බවය.
+Ilankai Thamil Arasu Kachchi Kachchi Kachchi Kachchi Kachchi Kachchi Shranakkiyan Mr Parliamentas MP Rohitha Abeygunawardena said that MP Rohitha Abeygunawardena tried to attack him.
 
 ◼️
 
 [Data](articles/0d0b1e2e.json)
+
+[Extended Data](ext_articles/0d0b1e2e.ext.json)
+
+---
+
+### ”தெருநாய் பிரச்சினைக்கு தீர்வு காண வேண்டும்”
+
+*2024-03-07 14:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெருநாய்-பிரச்சினைக்கு-தீர்வு-காண-வேண்டும்/175-334337) · `ta`
+
+நாட்டின் பல்வேறு பகுதிகளில் சுமார் 6.2 மில்லியன் தெருநாய்கள் சுற்றித் திரிவதாக பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித பண்டார தென்னகோன் இன்று தெரிவித்தார்.
+
+இந்த நிலைமை சீகிரியா போன்ற சுற்றுலாப் பகுதிகளில் பாரிய பிரச்சினைகளை ஏற்படுத்தியுள்ளதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+கிடைக்கப்பெற்றுள்ள புள்ளிவிபரங்களின்படி நாட்டில் 6.2 மில்லியன் தெருநாய்கள் காணப்படுவதாகவும், இது பாரிய பிரச்சினைகளை ஏற்படுத்தியுள்ளதாகவும் அமைச்சர் கூறினார்.
+
+சுற்றுலாப் பகுதிகளிலும் இது பாரதூரமான பிரச்சினைகளை ஏற்படுத்தியுள்ளதால், இப்பிரச்சினைக்குத் தீர்வு காண்பது முக்கியம் என்றார்.
+
+விலங்குகளுக்கு ஏற்படும் தீங்குகளை குறைப்பதற்காக புதிய சட்டங்களை கொண்டு வர அரசாங்கம் திட்டமிட்டுள்ளதாக தெரிவித்த அமைச்சர் தென்னக்கோன், விலங்குகளால் ஏற்படும் பிரச்சினைகளுக்கு எல்லாவற்றிற்கும் முன்னதாக தீர்வு காணப்பட வேண்டியதன் அவசியத்தை வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/b3e62eda.json)
 
 ---
 
@@ -234,19 +288,25 @@ Officials said a 20 -year -old man had attacked and the victim was also injured 
 
 ---
 
-### ජනපති දුන් පොරොන්දුවක් මල්වා‌නේ අල් මුබාරක්ට  මල්ඵළ ගනියි
+### The President's promise to Mubarak al-Mubarak
 
 *2024-03-07 14:13:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-දුන්-පොරොන්දුවක්-මල්වා‌නේ-අල්-මුබාරක්ට--මල්ඵළ-ගනියි/11-408475) · `si`
 
-මල්වාන, අල් මුබාරක් මධ්‍ය මහා විද්‍යාලයට සියවසක් සපිරීම නිමිත්තෙන් පසුගිය වසරේ සැප්තැම්බර් 06 වනදා විද්‍යාලයේ පැවති උත්සවයට එක් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී දරුවන්ට ලබා දුන් පොරොන්දුව අනුව විද්‍යාලයේ අංග සම්පුර්ණ ශ්‍රවණාගාරයක් ඉදිකිරීම සඳහා මුල්ගල් තැබීම දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතාගේ සහභාගිත්වයෙන් ඊයේ (06) දා සිදු විය.
+President Ranil Wickremesinghe attended the Mubarana Festival at Mubarak Central College, promising a new auditorium for 5,000 students. Ruwan Wijewardene announced immediate construction.
 
-ජනාධිපතිවරයාගේ උපදෙස් අනුව මෙම ශ්‍රවණාගාරය ඉදිකිරීම සඳහා කඩිනමින් ප්‍රතිපාදන වෙන් කෙරුණු අතර එකවර සිසුන් 5000කට පමණ එක්රැස් විය හැකි සියලු පහසුකම්වලින් සමන්විතව මෙම නව ශ්‍රවණාගාරය ඉදි කිරීමට නියමිතය.
+🟩
 
-නව ශ්‍රවණාගාරයට මුල්ගල් තැබීම වෙනුවෙන් විද්‍යාලයේ පැවති උත්සවයේ දි අදහස් දැක්වූ රුවන් විජේවර්ධන මහතා සඳහන් කළේ නාවික හමුදාවේ ශ්‍රම දායකත්වය ලබා ගනිමින් ශ්‍රවණාගාරයේ ඉදිකිරීම් කඩිනමින් නිමකර, සිසු අයිතියට පවරා දීමට කටයුතු කරන බවයි.
+Foundation of the Festival of the College, Ranil Wickremesinghe, attending the Festival of Mubarana, Mubarak Central College, was attended by President Ranil Wickremesinghe with the participation of a fullest auditorchanics President of Climate Change.6rd.
+
+According to the President's instructions, the auditorium was allocated to build this auditorium and will be constructed with all the facilities that collect around 5,000 students.
+
+Speaking at the ceremony to lay the foundation of the new auditorium, Ruwan Wijewardene said that the construction of the auditorium will be implemented with immediate end.
 
 ◼️
 
 [Data](articles/e202925c.json)
+
+[Extended Data](ext_articles/e202925c.ext.json)
 
 ---
 
@@ -2247,83 +2307,5 @@ The "Abhayam", which is under the direct supervision of the Governor of the Nort
 [Data](articles/d46d53ac.json)
 
 [Extended Data](ext_articles/d46d53ac.ext.json)
-
----
-
-### Cricket of 145 Blues: Royal's defeat last year.
-
-*2024-03-07 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178130) · `ta`
-
-Royal College faces Toma College in the 145th annual cricket match, a record in World Schools history, with alumni from around the world attending. Toma, led by Maid Perera, is a strong team, while Royal, led by Sineet Jayawardene, struggled last year. Royal's Dassis Manjanayake led a victory by 181 runs in the 144th match. Key players for Royal include Yasindu Dissanayake, Sneath Jayawardena, and Ramu Perera. Toma's Maid Perera leads with 844 runs, including 3 centuries, and Nathan Caldera with 367 runs and 36 wickets. The match is expected to be intense, with both teams aiming for victory.
-
-🟩
-
-Royal College. TS between Toma College. Senanayake Memorial Shield. The stadium begins on Thursday (07).
-
-The alumni of the two colleges living around the world have come to visit the competition.
-
-This is a record in the history of the World Schools for the 145th consecutive year.
-
-The cricket Samar is also seen as an unforgettable competition while revealing the traditional cultures of the two colleges.
-
-Also, the Samaritan of the sapphire, on the one hand, is a gathering of two colleges, contemporary students and alumni of the two.
-
-The Toma team, led by Maid Perera, who is a powerful team, will not lose many success during the current school cricket season.
-
-On the other hand, the results of the Royal team led by Sineet Jayawardene, who played the Sri Lankan team at the Under -19 World Cup cricket matches, were not satisfactory.
-
-Last year, in a similar manner, when the two teams met in the 144th sapphire. The Toma team was a powerful team and was permitted as a winning team.
-
-...
-
-[Data](articles/3d1f050b.json)
-
-[Extended Data](ext_articles/3d1f050b.ext.json)
-
----
-
-### Low-level teacher capacity key barrier for ed-tech implementation
-
-*2024-03-07 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Low-level-teacher-capacity-key-barrier-for-ed-tech-implementation/108-278389) · `en`
-
-The low level of teacher capacity along with reduced affordability of hardware remains major barriers towards successfully implementing ed-tech in Sri Lanka, a recent Institute of Policy Studies (IPS) study revealed.
-
-The COVID-19 pandemic sparked renewed interest in ed-tech worldwide, leading to diverse impacts in the way it has been integrated into policies, programmes and interventions, while the interest in ed-tech continued to grow in the post-pandemic period.
-
-In Sri Lanka, the Akura initiative and Nenasa programme have been recognised as two such successful ed-tech programmes.
-
-The Akura initiative in Sri Lanka enables schools to connect with parents, individually and collectively, to communicate school activities, send invoices and provide feedback on student learning outcomes, by facilitating clearer and easier communication between schools and parents.
-
-However, the access to and affordability of hardware for the users remain key challenges, in addition to high operational costs.
-
-...
-
-[Data](articles/a159d437.json)
-
-[Extended Data](ext_articles/a159d437.ext.json)
-
----
-
-### Indian Ambassador Sai Murali visits Jaffna University
-
-*2024-03-07 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178129) · `ta`
-
-Indian Ambassador Sai Murali met with Jaffna University's officials, discussing education cooperation and university development.
-
-🟩
-
-New Indian Ambassador to Jaffna Sai Murali visited the University of Jaffna on Wednesday (06).
-
-Vice Chancellor of the University of Jaffna, Professor Sivakasandu met Sirishatturanarajah at his office.
-
-Joint programs and cooperation in the field of education, including proposals on the development of the university, were discussed.
-
-Prof. Sivasubramaniam Raghuram, the Faculty of Arts and Faculty of Hindu Studies, C. Padmanathan, were also present at the meeting.
-
-◼️
-
-[Data](articles/3d095e0f.json)
-
-[Extended Data](ext_articles/3d095e0f.ext.json)
 
 ---

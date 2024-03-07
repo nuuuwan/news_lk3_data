@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 13:50:06**
+As of **2024-03-07 14:02:58**
 
 ## Newspaper Stats
 
-*Scraped **11,445** Articles*
+*Scraped **11,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,43 +18,161 @@ islandlk | 612
 adalk | 967
 adaderanalk | 1,391
 tamilmirrorlk | 1,396
-virakesarilk | 1,567
-dailymirrorlk | 1,743
-adaderanasinhalalk | 1,788
+virakesarilk | 1,568
+dailymirrorlk | 1,746
+adaderanasinhalalk | 1,790
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,442 (100.0%) of 11,445 articles have been extended.
+11,445 (99.9%) of 11,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### வடமாகாண இலங்கை கல்வி நிர்வாக சேவை உத்தியோகத்தர்களின் இடமாற்றங்களில் முறைகேடு - ஆளுநருக்கு தொழிற்சங்கம் முறைப்பாடு
+
+*2024-03-07 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178163) · `ta`
+
+வடக்கு மாகாண பொதுச்சேவைக்கு விடுவிக்கப்பட்டுள்ள இலங்கை கல்வி நிர்வாக சேவை உத்தியோகத்தர்களுக்கு மாகாண மட்டத்தினுள் இடமாற்றம் செய்யப்பட்ட போது, தேசிய இடமாற்றக் கொள்கை மீறப்பட்டுள்ளதுடன், அவ்விடமாற்றங்களுள் முறையற்ற, பாரபட்சமான சந்தர்ப்பங்களும் அவதானிக்கப்பட்டுள்ளதாக இ.க.நி.சேவை வாண்மையாளர்கள் (மட்டுப்படுத்தப்பட்ட) தேசிய சங்கத்தின் செயலாளர் - வடக்கு மாகாண ஆளுநருக்கு கடிதம் மூலம் முறையிட்டுள்ளார்.
+
+இச்சங்கத்தின் செயலாளர் ஆர்.ஏக்கநாயக்க, வடக்கு மாகாண ஆளுநருக்கு கடந்த 29ம் திகதி எழுதியுள்ள முறைப்பாட்டுக் கடிதத்தில், இ.க.நி.சேவை உத்தியோகத்தர்களுக்கான மாகாண இடமாற்றக் கொள்கையில் தேசிய இடமாற்றக் கொள்கையிலிருந்தான வேறுபாடுகள் மற்றும் மாற்றங்களை சுட்டிக்காட்டியிருப்பதுடன், இம்மாகாண இடமாற்றக் கொள்கையை தயாரித்த குழுவின் தலைவரான வடக்கு மாகாணக் கல்விப் பணிப்பாளரே, இடமாற்ற சபையின் தலைவராகவும் கடமையாற்றியுள்ளதன் மூலம் அதிகாரத் துஸ்பிரயோகம் மற்றும் பழிவாங்கல்கள் இடம்பெற்றுள்ளமை உறுதிப்படுத்தப்பட்டுள்ளதாக குற்றஞ்சுமத்தியுள்ளார்.
+
+...
+
+[Data](articles/b2bb57ed.json)
+
+---
+
+### Some 6.2 mn stray dogs roaming in the country: Pramitha Bandara
+
+*2024-03-07 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-6-2-mn-stray-dogs-roaming-in-the-country-Pramitha-Bandara/108-278423) · `en`
+
+Parliament, March 7 (Daily Mirror)- Some 6.2 million stray dogs are roaming in different parts of the country, State Minister of Defence Pramitha Bandara Tennakoon said today.
+
+He told Parliament that this situation has caused serious issues in tourist areas such as Sigiriya.
+
+The Minister said, according to statistics available, there are 6.2 million stray dogs in the country and that this has posed serious issues.
+
+He said it is important to find solutions to address this issue as it has posed serious issues in tourist areas as well.
+
+Minister Tennakoon said the government is planning to bring in new Acts to minimise harm to animals and stressed the need to find solutions to issues caused by animals before all.
+
+◼️
+
+[Data](articles/7f4aa928.json)
+
+---
+
+### පැජට් පාරේ නිවස ගැන මෛත්‍රී කට අරී
+
+*2024-03-07 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194243) · `si`
+
+තමා ජනාධිපති ධුරය දැරූ සමයේ පදිංචිව සිටි කොළඹ, පැජට් පාරේ පිහිටි නිවස සම්බන්ධයෙන් අසත්‍ය පුවත් පළ කරන ලද පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට බලාපොරොත්තු වන බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+අද (07) පාර්ලිමේන්තුවේ දී මේ සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් කරමින් ඒ මහතා පවසා සිටියේ, අදාළ නිවස සම්බන්ධයෙන් අධිකරණ තීන්දුවක් ලබාදීමට වසර 2 හමාරකට පෙර තමා එම නිවසෙන් පැමිණි බවය.
+
+එම නිවස තමා ලබා ගත්තේ ඇමතිවරයෙකුගෙන් බවත් පසුව එය පිළිසකර කර තමා එහි ජීවත් වූ බවත් මෛත්‍රීපාල සිරිසේන මහතා පැවසීය.
+
+...
+
+[Data](articles/e3192041.json)
+
+---
+
+### Wildlife Minister to look into environmental issues caused by Mannar wind power project
+
+*2024-03-07 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wildlife-Minister-to-look-into-environmental-issues-caused-by-Mannar-wind-power-project/108-278421) · `en`
+
+Parliament, March 07 (Daily Mirror)- Wildlife Minister Pavitnhradevi Wanniarachchi today told Parliament that she will look into the environmental issues caused by the proposed wind power project in Mannar.
+
+The Minister gave this assurance in response to a question raised by Leader of Opposition Sajith Premadasa who said the proposed wind power project might block the birds’ corridor in Mannar.
+
+The Minister said she will have a dialogue with Professor Sampath Seneviratne of Colombo University who had warned of the environmental effect of the wind power project.
+
+“I don’t know whether there is a bird corridor in the area where the wind power project is to be set up . I will talk to the said professor and look  into it,” the Minister said.
+
+Earlier, Mr. Premadasa said the location of the wind power project should be chnaged so that more than 150 species of birds would be saved.
+
+◼️
+
+[Data](articles/af3f74af.json)
+
+---
+
+### ආචාර්යවරයා වෛද්‍ය සිසුවා ට වෙඩි තබයි
+
+*2024-03-07 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194242) · `si`
+
+බංග්ලාදේශයේ වෛද්‍ය විද්‍යාලයක දී සිදුකළ වෙඩිතැබීමකින් වෛද්‍ය සිසුවෙක් තුවාල ලබා තිබේ.
+
+මාධ්‍ය වාර්තා සඳහන් කර ඇත්තේ රයිහාන් ෂරීෆ් නම් එම ආචාර්යවරයා අත්අඩංගුවට ගන්නා ලෙස බලකරමින් වෛද්‍ය සිසුන් විරෝධතා ඇරඹීමෙන් අනතුරුව ඊයේ (06) ඔහුව අත්අඩංගුවට ගෙන ඇති බවයි.
+
+එහිදී ෂරීෆ් සහ 23 හැවිරිදි වෛද්‍ය සිසුවා අතර ආරවුලක් හටගෙන ඇති අතර එම අවස්ථාවේදී ෂරීෆ් විසින් සිසුවාට වෙඩිතබා තිබුණි.
+
+◼️
+
+[Data](articles/82cb5798.json)
+
+---
+
+### Group of 13 Sri Lankan chefs who went to Ambani’s son’s wedding return
+
+*2024-03-07 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Group-of-13-Sri-Lankan-chefs-who-went-to-Ambanis-sons-wedding-return/108-278422) · `en`
+
+Katunayaka, March 7 (Daily Mirror) - Thirteen chefs who were selected and taken from Sri Lanka to prepare food for the wedding ceremony of Anant Ambani, the youngest son of Indian billionaire businessman Ambani, returned to Sri Lanka this morning through the Bandaranaike International Airport (BIA).
+
+These chefs were selected based on customer feedback, Google reviews and recommendations.
+
+These 13 chefs have prepared and served Sri Lankan food in the latest ways in their restaurants.
+
+These chefs were given the opportunity to prepare lunch for the invitees attending the wedding on March 3, and based on the response and compliments of the food they prepared, they arranged dinner on March 3 and 4 as well, where the group of Sri Lankan chefs had the responsibility and opportunity to prepare food.
+
+The wedding ceremony was held in a private zoo belonging to Ambani in the city of "Jam" in the state of Gujarat, India.
+
+...
+
+[Data](articles/89859f5c.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-03-07 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178159) · `ta`
 
-இன்று வியாழக்கிழமை (மார்ச் 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 303.0947 ஆகவும் விற்பனை விலை ரூபா 312.4368 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's US dollar to Rs. exchange rate is Rs.
+
+🟩
+
+The US dollar purchasing price was Rs.
 
 ◼️
 
 [Data](articles/8b23e5ee.json)
 
+[Extended Data](ext_articles/8b23e5ee.ext.json)
+
 ---
 
-### யாழ். நல்லூர் ஆலயம் முன்பாக விபத்து
+### Yall. An accident in front of the Nallur temple
 
 *2024-03-07 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178156) · `ta`
 
-யாழ்ப்பாணம் நல்லூர் கந்தசுவாமி கோயிலுக்கு முன்பாக வேகக் கட்டுப்பாட்டை இழந்த லொறி கடை கட்டிடத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+A lorry crashed into a shop near the Nallur Kandaswamy Temple in Jaffna, causing an accident on Point Pedro Road on Thursday.
 
-பருத்தித்துறை வீதியூடாக யாழ்ப்பாணம் நோக்கி பயணித்த லொறி இன்று வியாழக்கிழமை (07) நல்லூர் ஆலயத்துக்கு முன்பாக உள்ள வளைவில் திரும்பும் போது அங்கிருந்த கடை கட்டத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+🟩
+
+A lorry shop has crashed into a building with a speeding control of the Nallur Kandaswamy Temple in Jaffna.
+
+The lorry traveling to Jaffna through the Point Pedro Road crashed into a shop in front of the Nallur temple on Thursday (07).
 
 ◼️
 
 [Data](articles/b2238ea0.json)
+
+[Extended Data](ext_articles/b2238ea0.ext.json)
 
 ---
 
@@ -215,6 +333,8 @@ Construction workers who always engage in their work outdoors, supervisors, and 
 ◼️
 
 [Data](articles/8b73b4aa.json)
+
+[Extended Data](ext_articles/8b73b4aa.ext.json)
 
 ---
 
@@ -2225,117 +2345,5 @@ It is the biggest crisis and a grievance of a young man who left the age of 53 a
 [Data](articles/4b3b93ce.json)
 
 [Extended Data](ext_articles/4b3b93ce.ext.json)
-
----
-
-### Murugan
-
-*2024-03-07 00:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/முருகன்-ரொபட்-பயஸை-உயிருடன்-விடுதலை-செய்க/150-334305) · `ta`
-
-Sivagnanam Sridharan appeals for the release of Murugan and Robert Paes from Indian jail, urging Tamil Nadu Chief Minister, Indian Prime Minister, and Sri Lankan Government to reunite families. Sivanesan, a parliament member, was killed by Sri Lankan soldiers. Shantan, who died in prison, is mourned. Sridharan, with Sri Lanka's Foreign Minister and President, has made efforts to bring Shantan's family to India.
-
-🟩
-
-Murugan, who is in the Indian jail, including Robert Paes, to release them alive and take steps to join their families to join the Tamil Nadu Chief Minister, Indian Prime Minister and the Government of Sri Lanka.. Sivagnanam Sridharan appealed.
-
-He appealed to the debate on the amendments to the Taxes Bill on Wednesday (06) in Parliament.
-
-Sivanesan, a member of the parliament, was unjustly killed in the name of a deep -infiltrated force by Sri Lankan soldiers.
-
-Meanwhile, I am making our tribute to Shantan, who has embraced the first death for a few days without being imprisoned in India and later released.
-
-It is the biggest crisis and a grievance of a young man who left the age of 53 at the age of 20 who was trying to see his mother, to see relatives.
-
-...
-
-[Data](articles/a611cb80.json)
-
-[Extended Data](ext_articles/a611cb80.ext.json)
-
----
-
-### Women belong in All Places where Major Decisions are being made
-
-*2024-03-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Women-belong-in-All-Places-where-Major-Decisions-are-being-made/172-278370) · `en`
-
-...
-
-[Data](articles/65aeb420.json)
-
-[Extended Data](ext_articles/65aeb420.ext.json)
-
----
-
-### “One of the Tests of Leadership is the Ability to Recognize a Problem  before it becomes an Emergency” A Fight for Survival fuelled by ‘Inferior’ Thinking
-
-*2024-03-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/One-of-the-Tests-of-Leadership-is-the-Ability-to-Recognize-a-Problem-before-it-becomes-an-Emergency-A-Fight-for-Survival-fuelled-by-Inferior-Thinking/172-278371) · `en`
-
-Sri Lankans as a whole haven’t read enough about politics or believe too much about its abilities that it’s the cure for all ills; otherwise, Sri Lankans would not have been cheated by their lawmakers for 76 long years! Now, we are trying to ‘read’ Anura Kumara Dissanayake and the National People’s Power. We have already read the Wickremesinghe chapter, and only the former hints that all the government’s stolen monies will be brought back and the culprits punished, when a new government assumes power.
-
-We voters have an issue. We don’t demand that the lawmaker talks the truth. When the two Chapters of the highest Buddhist Order of this island nation started giving enough hints of late that politicians cannot be trusted, many thought that this call came very late.
-
-...
-
-[Data](articles/a4e2e3c4.json)
-
-[Extended Data](ext_articles/a4e2e3c4.ext.json)
-
----
-
-### 2024-03-06 (Wednesday)
-
-### Defense sharing should not split the country and make power sharing from the dark age -Foreign Minister insists on
-
-*2024-03-06 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178124) · `ta`
-
-Foreign Affairs Minister Ali Sabri emphasizes the importance of power devolution in Sri Lanka, arguing it's crucial for national unity and progress. He cites Sri Lanka's economic recovery post-crisis and India's stabilization under Manmohan Singh as examples. Sri Lanka's multi-ethnic community, including Tamils, Muslims, and Sinhalese, can progress together, with the Tamil National People's Front advocating for a political solution. The minister warns against the dangers of language-based division, referencing Colvin R.D. Silva's warning against a war that could have been avoided if Tamil-Sinhala languages were declared royal in 1956. He calls for all political parties to focus on the country's welfare over politics, highlighting the need for a Truth and Reconciliation Commission to address war-related issues without external interference.
-
-🟩
-
-Devolution of power does not split the country. Therefore, political parties should dedicate their position on the sharing of power and refer to the country for the country.. If ethnic harmony is confirmed only can the country progress. Foreign Affairs Minister Ali Sabri said devolution of power should be made possible to get out of the dark era.
-
-He was speaking at a debate on the Taxes Bill on Wednesday (6) in Parliament.
-
-Sri Lanka is an excellent example of what will happen if you make popular decisions in the economy and what will happen if timely economic policies change. The people of the country will take the benefit of taking strict resolutions to recover from the economic crisis.
-
-India faced the worst economic crisis in 1991. The then Prime Minister of India Narasinghe Rao. Manmohan Singh appointed Finance Minister and stabilized India's economy. Since 1991, many political parties have ruled India but economic policy has not been changed for political purposes.
-
-...
-
-[Data](articles/8a22d564.json)
-
-[Extended Data](ext_articles/8a22d564.ext.json)
-
----
-
-### Pragmatic economic policy regime for Sri Lanka
-
-*2024-03-06 23:45:41* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatic-economic-policy-regime-for-Sri-Lanka/4-759233) · `en`
-
-Sri Lankan people may remain hopeful that a new and pure Government may usher in a new policy regime to bring in long-awaited prosperity to them – Pic by Shehan Gunasekara
-
-Sri Lanka will face elections sometime in the future, and a new Government may be elected. It could be led by one of the old political parties or could be a brand-new party. The purpose of this note is to provide some thoughts on designing a pragmatic economic policy regime by the incoming new Government.
-
-...
-
-[Data](articles/1ca241b5.json)
-
-[Extended Data](ext_articles/1ca241b5.ext.json)
-
----
-
-### Revitalising Sri Lanka: NPP’s vision for innovation leadership
-
-*2024-03-06 23:40:51* · [`dailyftlk`](https://www.ft.lk/columns/Revitalising-Sri-Lanka-NPP-s-vision-for-innovation-leadership/4-759232) · `en`
-
-Amidst the ongoing economic crisis, Sri Lanka ranked 85th in the Global Innovation Index (GII) 2022, bringing to light several areas pertaining to innovation in which the country has progressed, and also several areas that need to be improved. The GII 2022 report could be used as a starting point to pay more attention to innovation in entrepreneurship, investments, businesses, social changes, and also in the overall economy, which, in the current economic context, could make a significant positive change.
-
-With an eye on the next five years, the NPP envisions a country that not only competes but excels in innovation on the global stage. The party is resolute in its goal to secure a position within the top 50 ranks of the Global Innovation Index, showcasing the determination to transform our nation into a hub of cutting-edge advancements.
-
-...
-
-[Data](articles/c7486ccd.json)
-
-[Extended Data](ext_articles/c7486ccd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 18:20:27**
+As of **2024-03-07 18:33:09**
 
 ## Newspaper Stats
 
-*Scraped **11,507** Articles*
+*Scraped **11,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 976
+adalk | 977
 adaderanalk | 1,401
 tamilmirrorlk | 1,401
 virakesarilk | 1,576
 dailymirrorlk | 1,751
-adaderanasinhalalk | 1,808
+adaderanasinhalalk | 1,809
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,506 (100.0%) of 11,507 articles have been extended.
+11,507 (100.0%) of 11,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### හූති ප්‍රහාරයට ලක්වූ නැවේ සිටි 21ක් මුදාගනී
+
+*2024-03-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194264) · `si`
+
+යේමනයේ ඒඩ්න් වරායට ඔබ්බෙන් ඒඩ්න් බොක්කේ යාත්‍රා කරමින් පැවති වාණිජ නෞකාවකට හූති කැරලිකරුවන් එල්ලකළ මිසයිල ප්‍රහාර හමුවේ තුවාල ලැබූ සහ නිරුපද්‍රිතව සිටි පුද්ගලයින් 21 දෙනෙකු මුදාගෙන තිබේ.
+
+INS කොල්කටා නෞකාව, හෙලිකොප්ටර් යානා සහ බෝට්ටු යොදාගනිමින් එම පිරිස මුදාගත් බව ඉන්දීය නාවික හමුදාව මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/212b6dc8.json)
+
+---
 
 ### Heat advisory: Temperatures to reach ‘caution level’ in 10 districts
 
@@ -76,19 +90,27 @@ Hamas Representative Sami Abu Zuhri has said that Israel has blocked all efforts
 
 ---
 
-### சாணக்கியன் எம்.பியின் பாதுகாப்பு தொடர்பில் கவனம் செலுத்த வேண்டும் - எதிர்க்கட்சித் தலைவர் சபாநாயகரிடம் கோரிக்கை
+### Chanakyan should focus on MP's security - request to Opposition Leader Speaker
 
 *2024-03-07 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178190) · `ta`
 
-எதிர்க்கட்சி உறுப்பினர் இராசமாணிக்கம் எம்.பியின் பாதுகாப்பை சபாநாயகர் உறுதிப்படுத்த வேண்டும் என்பதுடன், அவரின் குற்றச்சாட்டு தொடர்பாக உரிய நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa urged the Speaker to ensure MP Rasamanikam's safety, following his accusation against ruling party member Rahitha Abeygunawardena. Premadasa emphasized the Speaker's duty to protect MPs and the importance of addressing accusations of physical harm.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (07) ஒழுங்குப் பிரச்சினை ஒன்றை முன்வைத்து குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்துக்குள்ளும் பாராளுமன்ற வளாகத்திலும் பாராளுமன்ற உறுப்பினர்களின் பாதுகாப்பை உறுதிப்படுத்துவது சபாநாயகர் உள்ளிட்ட அதன் பணியாட்தொகுதியின் கடமையாகும். எதிர்க்கட்சி உறுப்பினர் இராசமாணிக்கம் தெரிவித்திருந்ததன் பிரகாரம் அவர் பிரதமரை சந்திப்பதற்கு அவரது காரியாலயத்துக்கு சென்றபோது, ஆளும் கட்சி உறுப்பினர் ராேஹித்த அபேகுணவர்த்தன அவரை தாக்குவதற்கு முயற்சித்ததாக இந்த சபையில் குற்றம் சாட்டியிருந்தார். இது பாரிய குற்றச்சாட்டாகும்.
+Opposition leader Sajith Premadasa said the Speaker should ensure the safety of Opposition Member Rasamanikam MP and take appropriate action on his allegation.
+
+He said this in a statement on Thursday (07) in Parliament.
+
+It is the duty of the Speaker, including the Speaker, to ensure the safety of MPs within the Parliament and the Parliamentary Complex. According to opposition member Rasamanikam, he went to his office to meet the Prime Minister and accused the ruling party member Rahitha Abeygunawardena of trying to attack him.. This is a massive accusation.
+
+There are various ideas and ideas for everyone in Parliament. However, no one has the right to have a physical harm to a Member of Parliament for any comments on our positions. Whether it is the ruling party or the opposition.
 
 ...
 
 [Data](articles/2b19a04c.json)
+
+[Extended Data](ext_articles/2b19a04c.ext.json)
 
 ---
 
@@ -1268,6 +1290,24 @@ Maithripala Sirisena said that the house was obtained from a minister and later 
 
 ---
 
+### පරාටේ නීතිය අත්හිටුවීමේ කැබිනට් තීරණය වහාම ක්‍රියාත්මක කරනවා
+
+*2024-03-07 13:36:03* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීමේ-කැබිනට්-තීරණය-වහාම-ක්‍රියාත්මක-කරනවා/11-408473) · `si`
+
+අවශ්‍ය සංශෝධන පාර්ලිමේන්තුවට ඉදිරිපත් කරන තුරු, පරාටේ නීතිය අත්හිටුවීමේ කැබිනට් තීරණය වහාම ක්‍රියාත්මක කිරීමට කටයුතු කරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී අද සහතික විය. බැංකු අංශයේ තිබෙන බේරුම්කරණ කමිටුව ක්‍රියාත්මක තත්වයට පත්කළ යුතු බවද ඔහු අවධාරණය කළේය.
+
+අග්‍රාමාත්‍යවරයා මෙම අදහස් පළ කළේ, පවතින පරාටේ නීතිය යටතේ ජනතාවගේ ඉඩම් ඇතුළු දේපළ වෙන්දේසි කිරීමට වාණිජ බැංකු කටයුතු කරමින් සිටින බවත්, එය වැළක්වීමට ආණ්ඩුව මැදිහත් විය යුතු බවත් සඳහන් කරමින්, විපක්ෂ නායකවරයා පාර්ලිමේන්තුවේදී මතු කළ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+
+" ඒ නිසා අපි කැබිනට් මණ්ඩලයද ජනාධිපතිතුමා ඉතා පැහැදිලිව මුදල් අමාත්‍යතුමා හැටියට තීරණය කරා මේක කල්දාන්න ඒ අතරතුර වහාම සංශෝධනයක් පාර්ලිමේන්තුවට ගේන්න.
+
+"මේ කියන දේ තමයි අපි සාකච්ඡා කරලා කැබිනට් මණ්ඩලයේ පැමිණි එකඟතාවය. ඒ අනුව මෙය තාවකාලික අත්හිටුවන්න මාස කිහිපයකට තීරණයක් අරන් තියෙනවා. ඒක කියාත්මක කිරීමට උදාවෙනවා."
+
+...
+
+[Data](articles/a1fad05e.json)
+
+---
+
 ### Wildlife Minister to look into environmental issues caused by Mannar wind power project
 
 *2024-03-07 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wildlife-Minister-to-look-into-environmental-issues-caused-by-Mannar-wind-power-project/108-278421) · `en`
@@ -2229,59 +2269,5 @@ These allowances should be paid from April 1st to 3rd March 2025 this year, the 
 [Data](articles/10993f6a.json)
 
 [Extended Data](ext_articles/10993f6a.ext.json)
-
----
-
-### Transfer temporarily stopped
-
-*2024-03-07 10:04:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றம்-தற்காலிகமாக-நிறுத்தம்/175-334315) · `ta`
-
-The Public Service Commission temporarily halted a permanent officer's transfer from provincial to central government, pending a new notice. This decision was communicated via a 2020 circular, which was later rescinded.
-
-🟩
-
-The Public Service Commission has decided to suspend a permanent appointment officer in the provincial public service until the re -notice of transfer of the appropriate position in the central government.
-
-It is reported that the Public Service Commission has announced the circular to all the Secretaries, Provincial Chief Secretaries and Department Heads of the Ministry.
-
-The Public Service Commission issued a circular in 2020 that a permanent appointment officer in the provincial public service could be transferred to the appropriate position in the central government.
-
-According to the circular, the appointment officer has been given appropriate transfers, subject to several conditions.
-
-However, it is reported that the Public Service Commission has canceled the circular issued on January 30, 2020.
-
-◼️
-
-[Data](articles/930de1d1.json)
-
-[Extended Data](ext_articles/930de1d1.ext.json)
-
----
-
-### Name of Child Abuse Criminals soon
-
-*2024-03-07 10:02:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-துஷ்பிரயோக-குற்றவாளிகளின்-பெயர்-பட்டியல்-விரைவில்/175-334314) · `ta`
-
-The National Child Protection Authority is preparing a list of individuals convicted of sexually abusing children, highlighting a rise in such cases over the past year. 1,618 incidents of sexual abuse of girls under 18 were reported in 2023, up from 1,232 cases in 2022.
-
-🟩
-
-The National Child Protection Authority has said that the list of persons identified as guilty of sexually abusing children is expected to prepare.
-
-Senior Lecturer Udaya Kumara Amarasinghe, Chairman of the Authority, said that the action was taken in view of the risk of children by the children.
-
-He was speaking at a media briefing held at the Health Development Bureau yesterday.
-
-Amarasinghe also said that there was some growth in sexual abuse cases of children over the past year.
-
-Meanwhile, 1,618 incidents of sexual abuse of girls under the age of 18 in Sri Lanka by 2022 were reported in 2023.
-
-Udaya Kumara Amarasinghe added that 1,232 cases of sexual harassment were reported in 2022 and such incidents increased to 1,497 by 2023.
-
-◼️
-
-[Data](articles/3f03199e.json)
-
-[Extended Data](ext_articles/3f03199e.ext.json)
 
 ---

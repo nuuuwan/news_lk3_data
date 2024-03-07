@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 23:33:26**
+As of **2024-03-07 23:52:13**
 
 ## Newspaper Stats
 
-*Scraped **11,552** Articles*
+*Scraped **11,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ colombotelegraphcom | 108
 bbccomsinhala | 135
 dbsjeyarajcom | 175
 newsfirstlk | 363
-economynextcom | 595
+economynextcom | 605
 dailyftlk | 606
 islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
-adaderanalk | 1,407
+adaderanalk | 1,408
 virakesarilk | 1,586
 dailymirrorlk | 1,761
-adaderanasinhalalk | 1,817
+adaderanasinhalalk | 1,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,552 (100.0%) of 11,552 articles have been extended.
+11,552 (99.9%) of 11,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Minister Kanchana says efforts underway to further alleviate fuel prices
+
+*2024-03-07 23:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97808/minister-kanchana-says-efforts-underway-to-further-alleviate-fuel-prices) · `en`
+
+Minister of Power and Energy, Kanchana Wijesekera, announced that the revised Electricity Act has been sent to the Legal Draftsman’s Department for review. He anticipates presenting it to Parliament for approval in April following Cabinet endorsement.
+
+Additionally, the minister expressed readiness to engage stakeholders to discuss reducing fuel prices further through a transparent pricing formula.
+
+These remarks were made during his participation in a press conference titled ‘Collective Path to a Stable Country’ held today (07) at the Presidential Media Centre.
+
+“Effective from midnight on March 5, 2024, electricity charges saw a significant reduction of 21.9%. Notably, consumers using less than 30 units will experience a remarkable 33% decrease in unit price, while those in the 31-60 unit category will witness a reduction of 28%. Moreover, bills for consumers utilizing 60-90 units will decrease by 30%, and for those consuming between 90 and 180 units, bills were lowered by 24%.
+
+...
+
+[Data](articles/ab2df36b.json)
+
+---
+
+### කැනඩාවේ වෙඩිතැබීමකින් ශ්‍රී ලාංකික පවුලක 6ක් මරුට
+
+*2024-03-07 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194273) · `si`
+
+කැනඩාවේ අගනුවර වන ඔටාවා හි නිවසක් තුළ සිදුකළ වෙඩිතැබීමකින් ශ්‍රී ලාංකිකයින් බවට හඳුනාගත් පවුලක 6 දෙනෙක් මියගොස් තිබේ.
+
+එහිදී එම පවුලේ මව සහ දරුවන් ජීවිතක්ෂයට පත්ව ඇති අතර පියා බරපතළ තුවාල සහිතව රෝහලේ ගත කර ඇත.
+
+ඔටාවා පොලීසිය පැවසුවේ මෙම අපරාධය සම්බන්ධයෙන් එක් සැකකරුවෙක් අත්අඩංගුවට  ගත් බවයි.
+
+◼️
+
+[Data](articles/4cef2619.json)
+
+---
 
 ### Six of ‘Sri Lankan family’ found shot dead in Ottawa home, including four children
 
@@ -480,6 +514,22 @@ He said the Prime Minister is the Prime Minister of Sri Lanka and he had all the
 
 ---
 
+### Most Sri Lanka ruling party MPs want to back Wickremesinghe: state minister
+
+*2024-03-07 19:37:00* · [`economynextcom`](https://economynext.com/most-sri-lanka-ruling-party-mps-want-to-back-wickremesinghe-state-minister-153733/) · `en`
+
+ECONOMYNEXT — A large majority of the parliamentary group of the ruling Sri Lanka Podujana Peramuna (SLPP) believe that President Ranil Wickremesinghe should run for president, but the party will have to decide on who they will support, an MP said.
+
+Speaking to reporters on Wednesday March 06, State Minister Arundika Fernando said the SLPP’s parliamentary group overwhelmingly believes that President Wickremesinghe should be the one to govern the country going forward.
+
+“We think at the moment that it is Ranil Wickremesinghe who can govern this country going forward. We will present our proposal to the party. If the party decides there’s someone better than that… None of this is about individuals. If the party proposes someone better, we will consider it. But now a large majority of our parliamentary group believes Mr Wickremesinghe can rescue the country from this situation,” said Fernando.
+
+...
+
+[Data](articles/3c7491c2.json)
+
+---
+
 ### 3 women die from breast cancer every day in Sri Lanka!-Doctor Lanka Jayasuriya Dissanayake
 
 *2024-03-07 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178197) · `ta`
@@ -621,6 +671,22 @@ Two American officials agreed that the prospects are not promising of Israel and
 [Data](articles/ed668a94.json)
 
 [Extended Data](ext_articles/ed668a94.ext.json)
+
+---
+
+### Sri Lanka president to discuss plantation worker wages with employers
+
+*2024-03-07 19:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-discuss-plantation-worker-wages-with-employers-153730/) · `en`
+
+ECONOMYNEXT — Sri Lanka plans to facilitate an increase in the daily wage of plantation workers soon, with President Ranil Wickremesinghe expecting to hold urgent discussions with plantation owners,  Labour Minister Manusha Nanayakkara said.
+
+Speaking to reporters on Wednesday March 06, Nanayakkara said there has been progress yet on discussions already being held between workers, plantation unions and employers due to the two sides being unable to reach a consensus. However, according to the minister, an increase in wages is round the corner.
+
+“The president instructed us to work towards increasing plantation workers’ wages. We discussed with workers, unions and employers. There is no progress on those discussions yet as the two sides couldn’t agree. Yesterday too we had a discussion and agreed to take their proposals and discuss those proposals with unions.
+
+...
+
+[Data](articles/4d1d83ed.json)
 
 ---
 
@@ -902,6 +968,30 @@ Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the 
 
 ---
 
+### Sri Lanka plans bootha price controls
+
+*2024-03-07 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-bootha-price-controls-153673/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s combined harvesters for rice is next in line for price controls, according to statements made in a parliament, as price controls are also planned for three-wheelers and school vans in the wake of a currency crisis.
+
+The price charged for harvesting rice by owners of harvesting machines (colloquially known as a boothaya) is to be regulated from the next Maha season, State Minister of Agriculture Mohan Priyadarshana De Silva said.
+
+Member of Parliament Samanpriya Herath, said however, owners of combined harvesters had also bought the machines on lease and had to service debt.
+
+“The industry is in danger of collapse, so that we also have to take into account.”
+
+Due to competition between owners fees have come down in some cases.
+
+Transport Minister Bandula Gunawardana said price regulations are being planned for three-wheelers and school vans.
+
+“There was an idea earlier to set up a separate regulatory authority for three wheelers,” Gunawardana told reporters Tuesday.
+
+...
+
+[Data](articles/3d6dfed9.json)
+
+---
+
 ### Four-year-old child killed in a lorry
 
 *2024-03-07 17:19:26* · [`adalk`](https://www.ada.lk/breaking_news/පාපැදියෙන්-සෙල්ලම්-කරමින්-සිටි-අවුරුදු-හතරේ-දරුවෙක්--ලොරියක-ගැටි-මරුට/11-408482) · `si`
@@ -965,6 +1055,32 @@ In particular, the limits of the Australian market are minimal and the high fuel
 [Data](articles/e80ec6b3.json)
 
 [Extended Data](ext_articles/e80ec6b3.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 307.30/40 to the US dollar
+
+*2024-03-07 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-307-30-40-to-the-us-dollar-153699/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 307.30/40 to the US dollar in the spot forex market Thursday, stronger from 307.95/308.05 a day earlier, dealers said, while bond yields were up.
+
+The rupee had opened at 307.65/75 levels to the US dollar, market participants said.
+
+A bond maturing on 01.02.2026 closed at 10.65/75 percent up from 10.60/75 percent Tuesday.
+
+A bond maturing on 15.09.2027 closed at 12.00/10 percent up from 11.90/12.00 percent.
+
+A bond maturing on 01.07.2028 closed up at 12.20/40 percent from 12.20/30 percent.
+
+A bond maturing on 15.07.2029 closed up at 12.25/70 percent from 12.25/50 percent.
+
+A bond maturing on 15.05.2030 closed at 12.35/70 percent from 12.35/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.60/13.00 percent up from 12.50/13.00 percent. (Colombo/Mar7/2024)
+
+◼️
+
+[Data](articles/40cb189b.json)
 
 ---
 
@@ -1099,6 +1215,26 @@ Two brothers who were accused of killing their brother-in-law in 2004 were sente
 [Data](articles/aee35f5b.json)
 
 [Extended Data](ext_articles/aee35f5b.ext.json)
+
+---
+
+### Sri Lanka stocks close up 1-pct, crossings, retail push turnover to 2.6bn
+
+*2024-03-07 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-crossings-retail-push-turnover-to-2-6bn-153693/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 1.51 percent, or 164.18 points, at 11,045; the first time since last October that it went above 11,000. While the S&P SL20 Index closed up 1.52 percent, or 47.15 points, at 3,147.
+
+Turnover topped 2.6 billion. Most of this was from crossings in Lanka Milk Foods (CWE) Plc (216mn) up at 28.00, Central Finance Company Plc (199mn) up at 106.20, and John Keells Holdings Plc (183mn) up at 189.00.
+
+“But there was also significant retail activity; turnover and volume are up, the market is getting quite bullish,” a market participant said. “There are funds coming into equity which is creating a lot of demand.”
+
+They said there was heavy retail activity in LOLC Group after yesterday’s larger crossing; LOLC Holdings Plc (50mn) up at 408.00, LOLC Finance Plc (150mn) up at 5.60, Browns Investments Plc (136mn) up at 5.40.
+
+...
+
+[Data](articles/00e3d587.json)
 
 ---
 
@@ -1302,6 +1438,26 @@ Bruvar said this was the President Ranil Wickremesinghe and the International Mo
 
 ---
 
+### Sri Lanka commences IMF second review
+
+*2024-03-07 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-commences-imf-second-review-153688/) · `en`
+
+ECONOMYNEXT – Sri Lanka has commenced the second review of the International Monetary Fund, State Minister of Finance Shehan Semasinghe has said.
+
+“The IMF 2nd review is commencing today, with an opening meeting scheduled with the President. This marks an important milestone in our ongoing efforts to enhance stability and economic growth,” Semasinghe said on social media platform X (twitter).
+
+“We expect to conclude a successful review and reach the staff level agreement which will pave the way for accessing the third tranche. This will accelerate our growth trajectory, fostering increased confidence in the economy.”
+
+In December, the International Monetary Fund approved the release of 337 million US dollars to Sri Lanka under the first review of its program and called for quick implementation of debt agreements reached with official creditors.
+
+At the time, all performance criteria except one of expenditure arrears were met.
+
+...
+
+[Data](articles/3d775f23.json)
+
+---
+
 ### Rohitha Abeygunawardena sought to attack;Investigate through the Private Committee - Chanakyan
 
 *2024-03-07 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178182) · `ta`
@@ -1402,6 +1558,28 @@ Vice Chancellor of the University of Aesthetic University Prof. Mahanamba Wickre
 
 ---
 
+### Sri Lanka considering nuclear power as an energy option: Min
+
+*2024-03-07 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-considering-nuclear-power-as-an-energy-option-min-153681/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s government is considering nuclear power as an option and has secured Cabinet approval, Minister of Power and Energy Kanchana Wijesekera said.
+
+“We are in the process of calling EOIs, so we are evaluating certain things,” Wijesekara said at a press briefing on Thursday.
+
+Wijesekera said that in order to develop nuclear power, a legal framework must be put in place as well as plans on dealing with an emergency.
+
+“We have got the cabinet approval to call for EOIs from suitable investors to establish a nuclear power plant in Sri Lanka, but before you establish a nuclear power plant there are certain legal frameworks required by global agencies.
+
+“There are certain criteria that we need to fulfil so we are in the process of doing that.”
+
+In November 2023, Wijesekara told parliament that several countries including Russia, France and the United States had offered to collaborate with Sri Lanka on nuclear technology.
+
+...
+
+[Data](articles/b64f1d7a.json)
+
+---
+
 ### The activities that affect the people in the Mannar Island area should be completely stopped
 
 *2024-03-07 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178171) · `ta`
@@ -1489,6 +1667,24 @@ The power plant has been reduced from midnight on the 4th of last month. He said
 [Data](articles/e11ba9fb.json)
 
 [Extended Data](ext_articles/e11ba9fb.ext.json)
+
+---
+
+### Sri Lanka ruling party MP Rohitha Abeygunawardena appointed COPE chair
+
+*2024-03-07 15:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-mp-rohitha-abeygunawardena-appointed-cope-chair-153669/) · `en`
+
+ECONOMYNEXT — Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena has been appointed chairman of the parliamentary Committee on Public Enterprises (COPE).
+
+Meanwhile, MP Lasantha Alagiyawanna appointed as chair of the Committee on Public Accounts (COPA) on Thursday October 07, parliament sources said.
+
+Opposition Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam tweeted Thursday afternoon that MP Abeygunwardena had tried to assault him.
+
+“MP Rohitha Abeygunardena tried to assault me in parliament a short while ago. This happened in the Prime Minister’s office within the parliament complex. I have raised a privilege issue and am concerned for my safety as he has threatened to assault me outside parliament as well,” Rasamanickam said.
+
+...
+
+[Data](articles/2769388f.json)
 
 ---
 
@@ -2023,223 +2219,5 @@ About 100 people have been arrested for this protest and the damaged by the Pres
 [Data](articles/e76af0ca.json)
 
 [Extended Data](ext_articles/e76af0ca.ext.json)
-
----
-
-### Knife at University of Mexico: Two women kill
-
-*2024-03-07 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178168) · `ta`
-
-Two women at the University of Mexico killed a 20-year-old man, and the victim was also injured.
-
-🟩
-
-Officials said a 20 -year -old man had attacked and the victim was also injured in the incident.
-
-◼️
-
-[Data](articles/a1898a27.json)
-
-[Extended Data](ext_articles/a1898a27.ext.json)
-
----
-
-### The President's promise to Mubarak al-Mubarak
-
-*2024-03-07 14:13:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-දුන්-පොරොන්දුවක්-මල්වා‌නේ-අල්-මුබාරක්ට--මල්ඵළ-ගනියි/11-408475) · `si`
-
-President Ranil Wickremesinghe attended the Mubarana Festival at Mubarak Central College, promising a new auditorium for 5,000 students. Ruwan Wijewardene announced immediate construction.
-
-🟩
-
-Foundation of the Festival of the College, Ranil Wickremesinghe, attending the Festival of Mubarana, Mubarak Central College, was attended by President Ranil Wickremesinghe with the participation of a fullest auditorchanics President of Climate Change.6rd.
-
-According to the President's instructions, the auditorium was allocated to build this auditorium and will be constructed with all the facilities that collect around 5,000 students.
-
-Speaking at the ceremony to lay the foundation of the new auditorium, Ruwan Wijewardene said that the construction of the auditorium will be implemented with immediate end.
-
-◼️
-
-[Data](articles/e202925c.json)
-
-[Extended Data](ext_articles/e202925c.ext.json)
-
----
-
-### Man arrested for running a fake medical center
-
-*2024-03-07 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194244) · `si`
-
-A 66-year-old man was arrested for running an illegal medical center in Biyagama, Bandarawatta. He was a doctor, and his son, a registered doctor, registered the center in 2017. The son, who was abroad in July 2023, used his father's name to operate the center.
-
-🟩
-
-The Biyagama Police have arrested a person who was illegally running a medical medical center in Bandarawatta, Biyagama.
-
-The 66-year-old resident of the same area, the man who was a doctor, has been conducting the medical treatment, police said.
-
-The suspect's son is a registered doctor and he has registered the relevant Medical Center in 2017.
-
-In July, 2023, he was abroad and followed the relevant Medical Center with his father, falsely used his father's name.
-
-◼️
-
-[Data](articles/7dbacd0d.json)
-
-[Extended Data](ext_articles/7dbacd0d.ext.json)
-
----
-
-### Notice of new power connection
-
-*2024-03-07 13:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-மின்-இணைப்பு-குறித்து-வெளியான-அறிவிப்பு/175-334334) · `ta`
-
-Minister Kanjana Wijesekera announced a new power supply to be paid in installments, with 25% of the cost paid upfront and the rest in 10 or 12 installments.
-
-🟩
-
-Minister of Power and Energy Kanjana Wijesekera said that the new power supply is likely to be paid in installments.
-
-He was responding to a question raised by MP HM Dharmasena.
-
-He added that steps have been taken to introduce the remaining amount of money in 10 or 12 installments, paying only 25 per cent of the cost of power connection.
-
-◼️
-
-[Data](articles/a8820df3.json)
-
-[Extended Data](ext_articles/a8820df3.ext.json)
-
----
-
-### Close observation of people with high assets
-
-*2024-03-07 13:51:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-වත්කම්-ඇති-අය-ගැන-සමීප-නිරීක්ෂණයක්/11-408474) · `si`
-
-The Department of Inland Revenue announces a focus on tax conformity, deploying new officers to enhance tax compliance among high-income individuals.
-
-🟩
-
-The Department of Inland Revenue issues announcement to focus on the tax conformal to the tax conformal to the tax conformity of the tax compliance.
-
-The department releases a none of the new officers to be deployed to deploy additional assets and providing technical facilities to high income and higher assets.
-
-◼️
-
-[Data](articles/1cc770b7.json)
-
-[Extended Data](ext_articles/1cc770b7.ext.json)
-
----
-
-### Trade union complaint to governor
-
-*2024-03-07 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178163) · `ta`
-
-Trade union complaint to governor: The Secretary to the Northern Province - Secretary to the Northern Provincial Association (ICFI), the Secretary of the National Association (Limited) National Association (NCP) has appealed to the Governor of the Northern Province that the National Transfer Policy has been violated and improper and discriminatory on the occasions when the Sri Lanka Education Administrative Service Officers have been transferred to the Northern Province Public Service. The Secretary of the Association, RAKanayake, in a letter to the Governor of the Northern Province on the 29th of last month, has pointed out the differences and changes from the National Transfer Policy in the Provincial Transfer Policy of the IK Service Officers and the Chairman of the Northern Provincial Council of the Northern Provincial Council, Northern Provincial Council, Chairman of the Northern Provincial Council. He alleges that the abuse and retaliation of power through it has been confirmed. In addition, the IK Service in the Transfers has not been represented by any trade unions, and from all the zones of the North, 60 per cent of the officers have been given transfers in one annual transfer and 100 per cent of the Jaffna District Zone. In accordance with the National Transfer Policy, the Governor has requested the Governor to suspend the transfers until the Northern Province IT NGO has reviewed and revised, policy policy and the participation of trade union representatives in the IT Service Transfer Board.
-
-🟩
-
-The Secretary to the Northern Province - Secretary to the Northern Provincial Association (ICFI), the Secretary of the National Association (Limited) National Association (NCP) has appealed to the Governor of the Northern Province that the National Transfer Policy has been violated and improper and discriminatory on the occasions when the Sri Lanka Education Administrative Service Officers have been transferred to the Northern Province Public Service.
-
-The Secretary of the Association, RAKanayake, in a letter to the Governor of the Northern Province on the 29th of last month, has pointed out the differences and changes from the National Transfer Policy in the Provincial Transfer Policy of the IK Service Officers and the Chairman of the Northern Provincial Council of the Northern Provincial Council, Northern Provincial Council, Chairman of the Northern Provincial Council.He alleges that the abuse and retaliation of power through it has been confirmed.
-
-...
-
-[Data](articles/b2bb57ed.json)
-
-[Extended Data](ext_articles/b2bb57ed.ext.json)
-
----
-
-### Some 6.2 mn stray dogs roaming in the country: Pramitha Bandara
-
-*2024-03-07 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-6-2-mn-stray-dogs-roaming-in-the-country-Pramitha-Bandara/108-278423) · `en`
-
-Parliament, March 7 (Daily Mirror)- Some 6.2 million stray dogs are roaming in different parts of the country, State Minister of Defence Pramitha Bandara Tennakoon said today.
-
-He told Parliament that this situation has caused serious issues in tourist areas such as Sigiriya.
-
-The Minister said, according to statistics available, there are 6.2 million stray dogs in the country and that this has posed serious issues.
-
-He said it is important to find solutions to address this issue as it has posed serious issues in tourist areas as well.
-
-Minister Tennakoon said the government is planning to bring in new Acts to minimise harm to animals and stressed the need to find solutions to issues caused by animals before all.
-
-◼️
-
-[Data](articles/7f4aa928.json)
-
-[Extended Data](ext_articles/7f4aa928.ext.json)
-
----
-
-### Maithri Surnsenced the house on Pagtat Road
-
-*2024-03-07 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194243) · `si`
-
-Maithripala Sirisena plans legal action against residents of a house on Pagtat Road, Colombo, where he lived during his presidency. He obtained the house from a minister and denies allegations of living in a palace.
-
-🟩
-
-Former President Maithripala Sirisena says he is looking to take legal action against persons on the house of Pagtated Road, Colombo, who was residing at the time of the presidency.
-
-He made this special statement in parliament today (07), he said that he had returned from the house for two and a half years.
-
-Maithripala Sirisena said that the house was obtained from a minister and later lived there and lived there.
-
-"I took the house from a minister. It's a minister's house. It was not a palace. On the other hand, he sent the propaganda from political and media, writing this, writing this. I completely reject the most false, false propaganda like this. 2 and a half years ago I came out of that house. Misconceptions have helped us mainly to go through the media mainly about chariting and sleeplessness, on the Online Act,. So I hope that I am under the Online Act and Parliamentary privileges under the online privileges that made the wrong issues that have filed the wrong matter.. "
-
-◼️
-
-[Data](articles/e3192041.json)
-
-[Extended Data](ext_articles/e3192041.ext.json)
-
----
-
-### The cabinet decision to suspend the law law will be implemented immediately
-
-*2024-03-07 13:36:03* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීමේ-කැබිනට්-තීරණය-වහාම-ක්‍රියාත්මක-කරනවා/11-408473) · `si`
-
-The cabinet has decided to immediately implement the suspension of the law law, with Prime Minister Dinesh Gunawardena assuring its prompt execution. The law addresses issues in the banking sector, including loan defaults and public auctions.
-
-🟩
-
-Prime Minister Dinesh Gunawardena assured in Parliament today to promptly implementation of the Required Amendments to Parliament.. He emphasized that the Settlement Committee in the banking sector should be implemented.
-
-The Prime Minister expressed his comments to auction and prevent the government to aucilize the government and the government should intervene in Parliament, saying that the government should intervene in Parliament, saying that the government should intervene.
-
-"Therefore, we also decided as the Cabinet of the Cabinet as Minister of Finance and bring amendment immediately to Parliament.
-
-"This is what we have discussed in the cabinet and attended the Cabinet. Accordingly, this has been taken for several months to suspend temporary suspension. It's up to work. "
-
-...
-
-[Data](articles/a1fad05e.json)
-
-[Extended Data](ext_articles/a1fad05e.ext.json)
-
----
-
-### Wildlife Minister to look into environmental issues caused by Mannar wind power project
-
-*2024-03-07 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wildlife-Minister-to-look-into-environmental-issues-caused-by-Mannar-wind-power-project/108-278421) · `en`
-
-Parliament, March 07 (Daily Mirror)- Wildlife Minister Pavitnhradevi Wanniarachchi today told Parliament that she will look into the environmental issues caused by the proposed wind power project in Mannar.
-
-The Minister gave this assurance in response to a question raised by Leader of Opposition Sajith Premadasa who said the proposed wind power project might block the birds’ corridor in Mannar.
-
-The Minister said she will have a dialogue with Professor Sampath Seneviratne of Colombo University who had warned of the environmental effect of the wind power project.
-
-“I don’t know whether there is a bird corridor in the area where the wind power project is to be set up . I will talk to the said professor and look  into it,” the Minister said.
-
-Earlier, Mr. Premadasa said the location of the wind power project should be chnaged so that more than 150 species of birds would be saved.
-
-◼️
-
-[Data](articles/af3f74af.json)
-
-[Extended Data](ext_articles/af3f74af.ext.json)
 
 ---

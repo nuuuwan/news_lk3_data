@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 16:03:40**
+As of **2024-03-07 16:17:30**
 
 ## Newspaper Stats
 
-*Scraped **11,483** Articles*
+*Scraped **11,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 612
 adalk | 972
 adaderanalk | 1,395
 tamilmirrorlk | 1,401
-virakesarilk | 1,571
+virakesarilk | 1,572
 dailymirrorlk | 1,749
 adaderanasinhalalk | 1,801
 
@@ -26,97 +26,151 @@ adaderanasinhalalk | 1,801
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,473 (99.9%) of 11,483 articles have been extended.
+11,483 (100.0%) of 11,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### மன்னார் தீவு பகுதியில் மக்களை பாதிக்கும்  நடவடிக்கைகள் முற்றாக நிறுத்தப்பட வேண்டும் - அருட்தந்தை எஸ்.மாக்கஸ்
+### ரோஹித அபேகுணவர்தன அச்சுறுத்தல் விடுத்து தாக்க முற்பட்டார் ; சிறப்புரிமை குழு ஊடாக விசாரணை செய்யுங்கள் - சாணக்கியன்
+
+*2024-03-07 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178182) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன பிரதமர் அலுவலகத்தில் வைத்து எனக்கு அச்சுறுத்தல் விடுத்து, தாக்குவதற்கு முற்பட்டார். இவரது செயற்பாடுகளினால் எனது உயிருக்கு அச்சுறுத்தல் காணப்படுகிறது. ஆகவே இச்சம்பவம் தொடர்பில் சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை முன்னெடுங்கள் என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம்  பிரதி சபாநாயகரிடம் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (07) இடம்பெற்ற சபை ஒத்திவைப்பு விவாதத்தில்  ஒழுங்கு பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/e97f9b99.json)
+
+---
+
+### The activities that affect the people in the Mannar Island area should be completely stopped
 
 *2024-03-07 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178171) · `ta`
 
-எமது மீனவர்களின் வாழ்வாதாரத்தை அழிக்கும் வகையில் இந்திய மீனவர்களின் அத்து மீறிய நடவடிக்கை இடம்பெற்று வருகின்றது. இந்நிலையில், மன்னார் தீவு பகுதியில் மக்களை பாதிக்கும் வகையில் கனிய மணல் அகழ்வு மற்றும் காற்றாலை மின் உற்பத்தி கோபுரங்கள் அமைக்கும் நடவடிக்கைகள் மக்களின் எதிர்ப்பையும் மீறி ரகசியமாக இடம்பெற்று வருகின்றது என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் தெரிவித்தார்.
+Activities in Mannar Island, including heavy sand excavations and wind power towers, are secretly set up, affecting local fishermen's livelihoods. Indian fishermen's actions are seen as attempts to destroy these livelihoods. Despite efforts over 10 years, no decision has been made. Mannar district residents are united to protect Mannar Island from foreign powers.
 
-மன்னாரில் உள்ள அலுவலகத்தில் வியாழக்கிழமை (7) மதியம் இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-இந்திய மீனவர்களின் அத்து மீறிய வருகையின் காரணமாக கடல் வளம்  சுறண்டப்படுவதினால் எமது மீனவர்கள் வாழ முடியாத நிலை காணப்படுகிறது. கடந்த 10 வருடங்களுக்கு மேலாக நாங்கள் பல்வேறு முயற்சிகளை முன்னெடுத்த போதும் இதற்கு எவ்வித முடிவும் கிடைக்காத நிலை காணப்படுகின்றது.
+Indian fishermen are taking place to destroy the livelihood of our fishermen. In this backdrop, the Mannar Citizens Committee Chairman Aruttantha Sakamas Adikallar said that the process of setting up of heavy sand excavations and wind power generation towers in the Mannar Island area is in secret.
 
-இலங்கை  கடற்பரப்பினுல் ஆயிரக்கணக்கான இந்திய இழுவைப்படகுகள் வந்து மீன் வளங்களை அழிப்பதோடு, மீனவர்களின் சொத்துக்களும் அழிக்கப்படுகின்றது. இதனால் எமது மீனவர்களின் வாழ்வாதாரம் பாதிக்கப்படுகிறது.
+He was speaking at a media briefing held at the office in Mannar on Thursday (7) afternoon.
+
+Our fishermen are unable to live due to the violation of Indian fishermen. Although we have made various efforts over the past 10 years, there has been no decision.
+
+Thousands of Indian dragons come to the Sri Lankan waters and destroy the fishermen's property and the property of fishermen. This affects the livelihood of our fishermen.
+
+The action of Indian fishermen is aimed at destroying the livelihood of our fishermen.
+
+The people of Mannar district have joined hands with us to protect Mannar Island. Other foreign powers are trying to be a prosperous Mannar soil.
 
 ...
 
 [Data](articles/0f28fe2e.json)
 
+[Extended Data](ext_articles/0f28fe2e.ext.json)
+
 ---
 
-### கோப் குழுவின் புதிய தலைவராக ரோஹித அபேகுணவர்தன தெரிவு
+### Rohitha Abeygunawardena as the new chairman of the Cobb group
 
 *2024-03-07 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178178) · `ta`
 
-அரசாங்க பொறுப்பு முயற்சிகள் தொடர்பான குழுவின் (கோப் குழு) புதிய தலைவராக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன இன்று வியாழக்கிழமை (07) தெரிவு செய்யப்பட்டுள்ளார்.
+Rohitha Abeygunawardena, Sri Lanka's parliamentarian, is now the Chairman of the Government Responsibility Committee (COPE Committee).
+
+🟩
+
+Sri Lanka PA's parliamentarian Rohitha Abeygunawardena has been elected as the new Chairman of the Government Responsibility Committee (COPE Committee) today (07).
 
 ◼️
 
 [Data](articles/14609293.json)
 
+[Extended Data](ext_articles/14609293.ext.json)
+
 ---
 
-### හෙට ප්‍රදේශ රැසකට උණුසුම් තත්ත්වයක්
+### There is a hot situation to many areas tomorrow
 
 *2024-03-07 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194255) · `si`
 
-හෙට (08) දිනයේ ප්‍රදේශ රැසක උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Department of Meteorology warns of high temperatures in multiple areas tomorrow.
+
+🟩
+
+The Department of Meteorology issued a new statement that heat at several places tomorrow (08).
 
 ◼️
 
 [Data](articles/a549dcb0.json)
 
+[Extended Data](ext_articles/a549dcb0.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා - තායිලන්ත වෙළෙඳ ගිවිසුමට එරෙහිව FR පෙත්සමක්
+### FR petition against Sri Lanka - Thailand trade agreement
 
 *2024-03-07 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194253) · `si`
 
-ශ්‍රී ලංකාව සහ තායිලන්තය අතර අත්සන් කර තිබෙන නිදහස් වෙළෙඳ ගිවිසුම ක්‍රියාත්මක කිරීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබේ.
+A fundamental rights petition challenges Sri Lanka-Thailand's Free Trade Agreement, naming the Attorney General, Prime Minister, Cabinet, and Ministry of Cabinet as respondents.
 
-එහි වගඋත්තරකරුවන් ලෙස ජනාධිපතිවරයා වෙනුවෙන් නීතිපතිවරයා, අග්‍රාමාත්‍යවරයා ඇතුළු අමාත්‍ය මණ්ඩල සාමාජිකයින්, මුදල් හා වෙළෙඳ අමාත්‍යංශ වල ලේකම්වරු ඇතුළු 27 දෙනෙකු නම් කර තිබුණි.
+🟩
+
+A fundamental rights petition filed before the Supreme Court demanding an order to issue a prevention of the Free Trade Agreement signed between Sri Lanka and Thailand.
+
+Attorney General, the Attorney General, members including the Prime Minister, members including the Cabinet Members of the Prime Minister and the Ministry of Cabinet Members were named as respondents.
 
 ◼️
 
 [Data](articles/5ec8f8d1.json)
 
+[Extended Data](ext_articles/5ec8f8d1.ext.json)
+
 ---
 
-### පරාටේ නීතිය ගැන අගමැති දුන් පොරොන්දුව
+### The Prime Minister promised the Prime law
 
 *2024-03-07 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194254) · `si`
 
-පරාටේ නීතිය අත්තිටුවීමේ කැබිනට් තීරණය වහාම ක්‍රියාත්මක කරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී සහතික විය.
+Prime Minister Dinesh Gunawardena assured Parliament of immediate implementation of the Paradise Law, responding to Opposition Leader's questions. He emphasized the need for a Settlement Committee in banking and the law's revisions over the years. The Cabinet, including the Minister of Finance, agreed to bring amendments to Parliament.
 
-විපක්ෂනායකවරයා පාර්ලිමේන්තුවේදී මතුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් අග්‍රාමාත්‍යවරයා මෙම අදහස් පළකළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් අග්‍රාමාත්‍යවරයා පැවසුවේ බැංකු අංශයේ තිබෙන බේරුම්කරණ කමිටුව ක්‍රියාත්මක තත්වයට පත්කළ යුතු බවය.
+Prime Minister Dinesh Gunawardena assured Parliament that the Cabinet decision to the Paradise Law is implemented immediately.
 
-"විපක්ෂ නායකතුමා කලින් කීප වතාවක් මේ ප්‍රශ්නය ගත්තා. මම සම්පූර්ණයෙන් එකඟයි මේ පරාටේ ක්‍රියාත්මක කිරීමේ නීතිය. මේ පසුගිය අවුරුදු ගණනාවක් තුළ කීප වාරයක් සංශෝධනය කරලා තිබෙනවා. කියවා බැලුවොත් මම හිතන්නෙ ඔබතුමත් කියවලා බලලා තිබෙනවා වසර දහයෙන් දහයට සංශෝධනය කරලා තිබෙනවා. පළවෙනියෙන් ගෙනාපු සීමාව දැන් කීප වතාවක් වැඩි කරලා තිබෙනවා. එයින් අදහස් කරන්නේ පාර්ලිමේන්තුව මේ කටයුතු කරලා තිබෙන්නේ මේ පිළිබඳව ප්‍රශ්නයෙන් ගැඹුරෙන් අවධානයට යොමු නොකර වෙන්නත් පුළුවන් මේක සම්බන්ධ කරලා තිබෙන්නේ. ඒ නිසා අපි කැබිනට් මණ්ඩලයද ජනාධිපතිතුමා ඉතා පැහැදිලිව මුදල් අමාත්‍යතුමා හැටියට තීරණය කරා මේක කල්දාන්න ඒ අතරතුර වහාම සංශෝධනයක් පාර්ලිමේන්තුවට ගේන්න."
+The Prime Minister expressed his views in response to a question raised by the Opposition Leader in Parliament.
+
+Speaking further the Prime Minister said that the Settlement Committee in the banking sector should be implemented.
+
+"Opposition leader took this question several times. I fully agree with the law of implementation of this parallel. This has been revised several times in the past years. If you read, you think that you have been revised for ten years. The festival of the first time has now been increased several times. This means that Parliament has done this from the problem with the question, and this is connected to this. So we also decided the Cabinet of the Cabinet as Minister of Finance and bring amendment immediately to Parliament. "
 
 ...
 
 [Data](articles/a25c5197.json)
 
+[Extended Data](ext_articles/a25c5197.ext.json)
+
 ---
 
-### குண்டு வெடிப்பில் ஒருவர் காயம்
+### One injury in the blast
 
 *2024-03-07 15:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/குண்டு-வெடிப்பில்-ஒருவர்-காயம்/73-334343) · `ta`
 
-மட்டக்களப்பு வாகரை பொலிஸ் நிலையத்திற்கு முன்னால் உள்ள வீடு ஒன்றில் குப்பைக்குள் இருந்து குண்டு ஒன்று வெடித்ததில் ஒருவர் படுகாயமடைந்தார். இந்த சம்பவம்  வியாழக்கிழமை (07) பகல் 12 மணிக்கு இடம்பெற்றுள்ளதாக வாகரை பொலிஸார் தெரிவித்தனர்.
+A bomb explosion injured one person in Batticaloa, near the Vaharai police station, during land cleaning and burning. The incident occurred on Thursday at 12 noon.
 
-குறித்த பொலிஸ் நிலையத்துக்கு முன்னால் உள்ள வீடு ஒன்றின் உரிமையாளர்    காணியை துப்பரவு செய்து அதன்குப்பைகளை தீயிட்டு எரித்துக் கொண்டிருந்தபோது அதில் இருந்த கைக்குண்டு ஒன்று பாரிய சத்தத்துடன் வெடித்து சிதறியதில் அவர் படுகாயமடைந்து மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+One person was injured when a bomb exploded in a house in front of the Vaharai police station in Batticaloa. The incident took place on Thursday (07) at 12 noon, Vaharai police said.
+
+The owner of a house in front of the police station was cleaning the land and burning it, he was admitted to the Teaching Hospital when a handgun exploded with a massive noise.
 
 ◼️
 
 [Data](articles/aceb4dfe.json)
+
+[Extended Data](ext_articles/aceb4dfe.ext.json)
 
 ---
 
@@ -134,25 +188,33 @@ The IUSF convenor and another student activist were arrested by police during th
 
 [Data](articles/0ff08bec.json)
 
+[Extended Data](ext_articles/0ff08bec.ext.json)
+
 ---
 
-### කජිමාවත්තේ නිවාස අහිමි පවුල් ගැන ජනපතිගෙන් නියෝගයක්
+### President orders regarding homeless families in Kajimawatte
 
 *2024-03-07 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194252) · `si`
 
-කොළඹ කජිමාවත්තේ පදිංචි, නිවාස අහිමි සියලු පවුල් සඳහා කඩිනමින් නිවාස ලබාදීමට අවශ්‍ය කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+President Ranil Wickremesinghe ordered immediate housing for homeless families in Kajimawatte, emphasizing adherence to government policies. He discussed the need for private investment and highlighted the challenges of implementing housing projects amid economic difficulties.
 
-නිවාස ලබාදීමේ රජයේ ප්‍රතිපත්ති හා නිර්ණායකයන්ට අනුකූලව එම කටයුතු සිදු කරන ලෙසද ජනාධිපතිවරයා දැනුම් දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම උපදෙස් ලබා දුන්නේ කොළඹ කජීමා වත්ත නිවාස ගැටලුව පිළිබඳ ඊයේ (06) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවට එක්වෙමිනි.
+President Ranil Wickremesinghe instructed the relevant officials to provide immediate housing residents of the Colombo resident of Colombo.
 
-කොළඹ නාගරික බල ප්‍රදේශය තුළ පවතින ඌන උපයෝජිත රජය සතු ගොඩනැගිලි සහ ඉඩම් පිළිබඳව සොයා බලා එම ඉඩම් වාණිජ කටයුතු සඳහා සංවර්ධනය කර ලබාදීමට ඇති හැකියාව සොයා බලන ලෙස ද ජනාධිපතිවරයා මෙහිදී නිලධාරීන්ට උපදෙස් දුන්නේය.
+The President also informed the government to carry out these activities in accordance with the government policies and policies of the houses.
 
-එම වැඩපිළිවෙළ රාජ්‍ය අංශයේ මැදිහත්වීමෙන් පෞද්ගලික ආයෝජන මගින් ක්‍රියාවට නැංවීමේ වැදගත්කම ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+President Ranil Wickremesinghe gave this advice participating at the discussion held at the Presidential Secretariat yesterday (06) at the Presidential Secretariat.
+
+The President also instructed the officials to look into the existing government buildings and lands in the Colombo Municipal area and look into the land for commercial purposes.
+
+The President also pointed out the importance of implementing the program by private investment through private sector intervention.
 
 ...
 
 [Data](articles/d1050f74.json)
+
+[Extended Data](ext_articles/d1050f74.ext.json)
 
 ---
 
@@ -174,19 +236,25 @@ The Ceylon Electricity Board (CEB) is currently working on introducing this faci
 
 ---
 
-### අන්තරේ කැඳවුම්කරුට ඇප
+### Attorney convener released on bail
 
 *2024-03-07 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194251) · `si`
 
-අන්තර්විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත් ඇපමත මුදාහැර තිබේ.
+Madushan Chandrajith, Interview Students Federation convener, arrested by Student Students Federation, released on bail.
 
-ඊයේ බොරැල්ලේදී පැවති විරෝධතාවක් අතරතුරදී අන්තර්විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත් පොලීසිය විසින් අත්අඩංගුවට ගත්තේය.
+🟩
 
-ඔහු සහ ඊයේ විරෝධතාව අතරතුරදී අත්අඩංගුවට ගනු ලැබූ තවත් අයෙකු අද අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ලක්ෂ 5 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැර තිබේ.
+The convener of the Interview Students Federation Madushan Chandrajith has been released on basement.
+
+Convener of the Interview Student Federation Madushan Chandrajith was arrested by the convener of the Student Students Federation in Borella yesterday.
+
+Another person arrested in the protest was presented to the Aluthkade Magistrate's Court today on two bail of Rs.
 
 ◼️
 
 [Data](articles/2c5a5182.json)
+
+[Extended Data](ext_articles/2c5a5182.ext.json)
 
 ---
 
@@ -2227,29 +2295,5 @@ Also, Chief Government Whip Prasanna Ranatunga also said the SLPP should back th
 [Data](articles/aa85b6ea.json)
 
 [Extended Data](ext_articles/aa85b6ea.ext.json)
-
----
-
-### IMF representatives meet President today
-
-*2024-03-07 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194226) · `si`
-
-IMF representatives meet President Ranil Wickremesinghe today to review activities related to the second premium of $330 million, with a review expected to take about two weeks. The goal is to complete the work needed for the third premium, also $330 million, by June.
-
-🟩
-
-Review activities related to the second premium of the IMF is due to commence today (07).
-
-Finance State Minister Shehan Semasinghe said that the International Monetary Fund representatives to meet President Ranil Wickremesinghe this morning.
-
-The Minister of Finance Shehan Semasinghe said that the review was scheduled to take action for about two weeks.
-
-"The President met the president in the morning, held this initial meet, and they will review the officials and other agencies they need, or other agencies. After this review is complete, complete the work we need to get the third premium. It will be able to get it in June about June. But we expect to cope with the lengthy review that should be completed. There have been two installments at the time. The first premium is $ 330 million and a second premium $ 330 million. The third installment is similar amounts of money. "
-
-◼️
-
-[Data](articles/d70f7138.json)
-
-[Extended Data](ext_articles/d70f7138.ext.json)
 
 ---

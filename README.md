@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 07:50:32**
+As of **2024-03-07 08:02:55**
 
 ## Newspaper Stats
 
-*Scraped **11,382** Articles*
+*Scraped **11,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 1,384
 tamilmirrorlk | 1,385
 virakesarilk | 1,556
 dailymirrorlk | 1,737
-adaderanasinhalalk | 1,775
+adaderanasinhalalk | 1,776
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,382 (100.0%) of 11,382 articles have been extended.
+11,382 (100.0%) of 11,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### තෙවන විනිසුරුගේ තීරණය ගැන ශ්‍රී ලංකා කණ්ඩායමෙන් පැමිණිල්ලක්
+
+*2024-03-07 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194228) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සමග පැවති දෙවන 20යි 20 ක්‍රිකට් තරගය කඩුලු 8කින් ජය ගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වුණි.
+
+තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවි ලකුණු 165ක් ලබාගත්තේය.
+
+එම ඉනිම වෙනුවෙන් කමින්දු මෙන්ඩිස් ලකුණු 37ක් සහ කුසල් මෙන්ඩිස් ලකුණු 36ක් ලබා ගැනීමට සමත්වුණි.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි බංග්ලාදේශ කණ්ඩායම පන්දුවාර 18යි එක් පන්දුවක් තුළ කඩුලු දෙකක් පමණක් දැවි ලකුණු 170ක් ලබාගනිමින් ජයග්‍රහණය වාර්තා කළේය.
+
+එම ඉනිම වෙනුවෙන් නජ්මුල් හොසෙයින් ෂැන්ටෝ නොදැවී ලකුණු 53ක් ලබා ගැනීමට සමත් වුණි.
+
+ඒ අනුව දෙරට අතර පැවැත්වෙන තරග තුනකින් යුත් 20යි 20 තරගාවලිය තරග එකට එකක් ලෙස කණ්ඩායම් දෙකම සම තත්ත්වයේ පසු වේ.
+
+මෙම තරගයේ හතර වන පන්දුවාරයේ පළමුව පන්දුවේ දී ප්‍රධාන විනිසුරුවරයා ලබාදුන් දැවීයාමේ තීන්දුව තෙවන විනිසුරුවරයා නොදැවී යාමක් ලෙස ප්‍රකාශයට පත්කිරීම සම්බන්ධයෙන් පැමිණිලි කිරීමට ශ්‍රී ලංකා කණ්ඩායම තීරණය කර තිබේ.
+
+ශ්‍රී ලංකා කණ්ඩායමේ සහය පුහුණුකරු නවීඩ් නවාස් මහතා සඳහන් කළේ, තරග තීරකවරයා හරහා අදාළ පැමිණිල්ල සිදුකිරීමට බලාපොරොත්තු වන බවය.
+
+◼️
+
+[Data](articles/02ba688d.json)
+
+---
 
 ### Railway employees to work
 
@@ -2239,25 +2265,5 @@ Parliamentarian Alizabri Rahim's parliamentary service has been suspended for a 
 [Data](articles/74477903.json)
 
 [Extended Data](ext_articles/74477903.ext.json)
-
----
-
-### Saman Ratnayake gives four hours confidential statement to magistrate
-
-*2024-03-06 16:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Saman-Ratnayake-gives-four-hours-confidential-statement-to-magistrate/108-278360) · `en`
-
-Colombo, March 6 (Daily Mirror) - Additional Secretary of Health Dr. Saman Ratnayake, who was arrested in connection with the alleged import of substandard Immunoglobulin injections, today provided a confidential statement (in-camera) before Maligakanda Magistrate Lochani Abeywickrema.
-
-The prison officials brought the suspect before the Maligakanda Magistrate’s Court early this morning. He provided a statement in chambers for a four-hour-period and was subsequently brought back to the Mahara Prison.
-
-Saman Ratnayake has been named as the tenth suspect in this case.
-
-Ten suspects including former Health Minister Keheliya Rambukwella have been remanded till March 14 by the Maligakanda Magistrate’s Court regarding this incident for allegedly committing offences under the Public Property Act.
-
-◼️
-
-[Data](articles/0c077300.json)
-
-[Extended Data](ext_articles/0c077300.ext.json)
 
 ---

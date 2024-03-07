@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 20:50:23**
+As of **2024-03-07 21:02:44**
 
 ## Newspaper Stats
 
-*Scraped **11,527** Articles*
+*Scraped **11,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 982
 tamilmirrorlk | 1,402
 adaderanalk | 1,402
 virakesarilk | 1,580
-dailymirrorlk | 1,754
-adaderanasinhalalk | 1,813
+dailymirrorlk | 1,758
+adaderanasinhalalk | 1,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,527 (100.0%) of 11,527 articles have been extended.
+11,527 (100.0%) of 11,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### ලංකාවට ආ විදේශිකයින් සංචාරක ක්ෂේත්‍රයේ ව්‍යාපාරවල යෙදෙයි
+
+*2024-03-07 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194269) · `si`
+
+සංචාරක වීසා මත මෙරටට පැමිණෙන සංචාරකයින් ව්‍යාපාරවල නිරතවන බවට තොරතුරු අනාවරණය වී තිබේ.
+
+ඒ අනුව දකුණු වෙරළ තීරයේ සිදුවන එවැනි ව්‍යාපාර සම්බන්ධයෙන් අද අප සොයා බැලීමක් සිදුකළේය.
+
+සුන්දර වෙරළ තීරයන්, සාම්ප්‍රදායික ආහාරපාන, ඵෙතිහාසික උරුමයන්, වනජීවි, ආයුර්වේද ඇතුළු තවත් සංචාරක ආකර්ෂණයන්  රැසකට හිමිකම් කියන ශ්‍රී ලංකාව ලොව ප්‍රමුඛ සංචාරක ගමනාන්තයකි.
+
+එම සුන්දරත්වය විඳගැනීම සඳහා ලංකාවට එන සංචාරකයින් ගණන මෙවර සැලකියයුතු ලෙස ඉහළ ගොස් තිබේ.
+
+සංචාරක වීසා මත ලංකාවට එන ඇතැම් සංචාරකයින් මේ වනවිට සිය නිවාඩුව අතරතුර ව්‍යාපාර කිරීමට පටන් ගෙන තිබේ.
+
+ඒ සංචාරක විශාල වශයෙන් ගැවසෙන, දකුණු වෙරළ තීරයේ, ගාල්ල, උණවටුන සහ මිරිස්ස වැනි සංචාරක කලාපවලය.
+
+සංචාරක කර්මාන්තයේ නිරතවූවන් පෙන්වා දෙන්නේ, එම ප්‍රදේශවල නවාතැගෙන සිටින රුසියානු සහ යුක්‍රේන ජාතිකයින් නීතිවිරෝධී ලෙස සංචාරක කර්මාන්තයේ නිරත වන බවය.
+
+ඒ , කුලියට ගන්නා නිවාස හා නිකේතන තවත් පාර්ශ්ව වෙත වැඩිමිලට ලබාදීම, විදෙස් මුදල් හුවමාරුව, යතුරුපැදි සහ ත්‍රීරෝද කුලියට දීම, ආහාරපාන සැපයීම ඇතුලු විවිධ සේවා සපයමිනි.
+
+...
+
+[Data](articles/e7db02e9.json)
+
+---
 
 ### Sri Lankans rescued on the ship's ship
 
@@ -53,6 +79,18 @@ The Indian Navy has stated that the group has been rescued by instructions, heli
 [Data](articles/3b4ad1d9.json)
 
 [Extended Data](ext_articles/3b4ad1d9.ext.json)
+
+---
+
+### 'Press vs Prez' book launched...
+
+*2024-03-07 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Press-vs-Prez-book-launched/110-278433) · `en`
+
+The "Press Vs. Prez" book was officially launched at the Nelum Pokuna Theater in Colombo today (07) under the patronage of President Ranil Wickremesinghe. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/6cb77eac.json)
 
 ---
 
@@ -91,6 +129,24 @@ According to a complaint lodged by an Indian embassy, a police officer said that
 [Data](articles/c193a63e.json)
 
 [Extended Data](ext_articles/c193a63e.ext.json)
+
+---
+
+### Rohitha Abeygunawardhane attempted to assault me: Rasamanickam
+
+*2024-03-07 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardhane-attempted-to-assault-me-Rasamanickam/108-278435) · `en`
+
+Colombo, March 07 (Daily Mirror) - Parliamentarian Rajaputhiran Rasamanickam said MP Rohitha Abeygunawardhane threatened him and attempted to physically assault him in the Prime Minister's Office in Parliament today.
+
+Raising a privileges issue in Parliament, he said MP Abeygunawardhane threatned him for walking into the Prime Minister's Office.
+
+"How dare you walked into our Prime Minsiter's office?", he questioned and threatened me and tried to physically assault me threatening me to meet him by the lift. State Minister Ashoka Priyantha, who was there, prevented him. My life is under threat," the MP said.
+
+He said the Prime Minister is the Prime Minister of Sri Lanka and he had all the rights to meet him as a Member of Parliament and a citizen of this country.
+
+...
+
+[Data](articles/8de25dda.json)
 
 ---
 
@@ -1248,6 +1304,18 @@ Mr. Rohitha Abeygunawardena has been appointed as the Chairman of the Parliament
 
 ### Rohitha Abeygunawardane new COPE Chairman
 
+*2024-03-07 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rohitha-Abeygunawardane-new-COPE-Chairman/155-278427) · `en`
+
+SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public Enterprises today.
+
+◼️
+
+[Data](articles/887153bf.json)
+
+---
+
+### Rohitha Abeygunawardane new COPE Chairman
+
 *2024-03-07 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardane-new-COPE-Chairman/108-278427) · `en`
 
 SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public Enterprises today.
@@ -2181,89 +2249,5 @@ The move has been taken over the alleged attack on two civilians along with his 
 [Data](articles/859bf0dd.json)
 
 [Extended Data](ext_articles/859bf0dd.ext.json)
-
----
-
-### Udappuwa Sub-Inspector arrested over alleged assault granted bail
-
-*2024-03-07 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97790/udappuwa-sub-inspector-arrested-over-alleged-assault-granted-bail) · `en`
-
-The officer-in-charge (OIC) of Udappuwa Police Crimes Division, who was arrested for allegedly assaulting several civilians, has been released on bail after being produced before the Puttalam Magistrate’s Court.
-
-Additionally, the Sub-Inspector in question was suspended from duties with effect from today (March 07) on the orders of the OIC of Puttalam Division, the police media division said in a press release.
-
-He was arrested for allegedly assaulting several individuals in Udappuwa on Tuesday night (March 05) during an altercation that ensued between him and several other civilians.
-
-According to the police, witnesses had also videotaped the police officer in question using crude language on the area residents and blasting them for reportedly having spat on his vehicle, in which he had been travelling with two other individuals.
-
-...
-
-[Data](articles/ca1c1d19.json)
-
-[Extended Data](ext_articles/ca1c1d19.ext.json)
-
----
-
-### Bollywood icons to grace opening ceremony of Legends Cricket Trophy 2024
-
-*2024-03-07 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bollywood-icons-to-grace-opening-ceremony-of-Legends-Cricket-Trophy-2024/108-278416) · `en`
-
-Delhi, March 7 (crictracker) - The stage is set, the anticipation palpable, as the cricketing world eagerly awaits the dazzling opening ceremony of the Legends Cricket Trophy, slated to be held in Sri Lanka. Promising to be a unique celebration of cricketing excellence and entertainment, the event will witness legendary cricketers grace the field and feature stellar performances by renowned stars from the entertainment industry.
-
-Icons such as Sanjay Dutt, Badshah, Emran Hashmi, and Jacqueline Fernandez are poised to light up the event with their electrifying performances, adding a unique dimension to this already eagerly awaited spectacle.
-
-The action-packed tournament spanned across 11 days will also see some of the biggest cricketing stars from the yesteryears including Chris Gayle, Yuvraj Singh, and Harbhajan Singh, among others. This event promises epic matches in the new 90-ball format that will reignite cherished rivalries and celebrate cricketing excellence.
-
-...
-
-[Data](articles/85b7b572.json)
-
-[Extended Data](ext_articles/85b7b572.ext.json)
-
----
-
-### Three killed in first fatal Houthi attack on Red Sea shipping: Two Lankans among crew
-
-*2024-03-07 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-killed-in-first-fatal-Houthi-attack-on-Red-Sea-shipping-Two-Lankans-among-crew/108-278417) · `en`
-
-LONDON, March 7 (Reuters) - A Houthi missile attack killed three seafarers on a Red Sea merchant ship, which had a crew of 20 members including two Sri Lankans, on Wednesday, U.S. Central Command (CENTCOM) said, the first fatalities reported since the Iran-aligned Yemeni group began strikes against shipping in one of the world's busiest trade lanes.
-
-The Houthis claimed responsibility for the attack, which set the Greek-owned, Barbados-flagged ship True Confidence ablaze around 50 nautical miles off the coast of Yemen's port of Aden.
-
-In an earlier message on X responding to the Houthi claim, Britain's embassy wrote: "At least 2 innocent sailors have died. This was the sad but inevitable consequence of the Houthis recklessly firing missiles at international shipping. They must stop."
-
-The Houthis have been attacking ships in the Red Sea since November in what they say is a campaign in solidarity with Palestinians during the war in Gaza.
-
-...
-
-[Data](articles/6477d607.json)
-
-[Extended Data](ext_articles/6477d607.ext.json)
-
----
-
-### President Ranil Wickremesinghe has been a massive service for the education of the students - Ruwan Wijewardena
-
-*2024-03-07 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178148) · `ta`
-
-President Ranil Wickremesinghe pledged to build an auditorium for Malwanai Al Mubarak Central College, marking the centenary last year. The foundation stone was laid with Ruwan Wijewardena, highlighting the project's importance for education and climate change. The auditorium will be constructed with all necessary amenities and is expected to be completed with Navy assistance.
-
-🟩
-
-President Ranil Wickremesinghe, who was present at the college held on September 6 last year to mark the centenary of Malwanai Al Mubarak Central College, promised to construct a auditorium with all facilities.
-
-The foundation stone for the auditorium was held yesterday (06) with the participation of President's Senior Advisor Ruwan Wijewardena on climate change.
-
-The new auditorium is to be constructed with all the amenities that can be built at the same time, with all the amenities that can be made at the same time.
-
-Speaking at the foundation stone laying ceremony, Ruwan Wijewardena said that with the participation of the Navy, the construction of the auditorium will be completed and handed over to the students.
-
-Ruwan Wickremesinghe pointed out that Ranil Wickremesinghe has played a major role for the education of the students and that the construction of the new hospital will begin next month in response to the promise made by the President of Biyagama.
-
-...
-
-[Data](articles/89a7f0c5.json)
-
-[Extended Data](ext_articles/89a7f0c5.ext.json)
 
 ---

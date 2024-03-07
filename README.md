@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 15:33:11**
+As of **2024-03-07 15:50:36**
 
 ## Newspaper Stats
 
-*Scraped **11,470** Articles*
+*Scraped **11,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 970
-adaderanalk | 1,393
+adalk | 972
+adaderanalk | 1,394
 tamilmirrorlk | 1,400
 virakesarilk | 1,569
 dailymirrorlk | 1,749
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,796
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,467 (100.0%) of 11,470 articles have been extended.
+11,470 (100.0%) of 11,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### CEB to introduce instalment payments for new electricity connections
+
+*2024-03-07 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97794/ceb-to-introduce-instalment-payments-for-new-electricity-connections) · `en`
+
+Minister of Power & Energy Kanchana Wijesekera says the electricity consumers will be allowed to make the payments for their new connections on an instalment basis.
+
+Addressing the parliamentary session earlier today (March 07), the lawmaker said the consumers will be able to pay 25% of the connection fee upfront and the remaining amount within 10 or 12 instalments.
+
+The Ceylon Electricity Board (CEB) is currently working on introducing this facility to the consumers and its Board of Directors has also green-lighted the endeavour, Wijesekera said further.
+
+◼️
+
+[Data](articles/93f0091e.json)
+
+---
+
+### කෝප් සභාපතිකම රෝහිතට
+
+*2024-03-07 15:19:06* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-සභාපතිකම-රෝහිතට/11-408477) · `si`
+
+මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ (කෝප් කමිටුව) සභාපති ධුරයට පත් කර ඇත. සාමාජික මන්ත්‍රීවරුන්ගේ වැඩි ඡන්දයෙන් ඔහු එම තනතුරට පත්ව තිබේ. රාජ්‍ය ආයතන වල පවතින අක්‍රමිකතා රැසක් ආණාවරණය කර ගන්නා ප්‍රධානම කාරක සභාවක් වන්නේ කෝප් කමිටුවයි.
+
+◼️
+
+[Data](articles/9cebe629.json)
+
+---
 
 ### Rohitha Abeygunawardane new COPE Chairman
 
@@ -42,19 +70,27 @@ SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public 
 
 [Data](articles/a67abb66.json)
 
+[Extended Data](ext_articles/a67abb66.ext.json)
+
 ---
 
-### கோபா குழுத் தலைவராக லசந்த மீண்டும் தெரிவு
+### Lasantha re -elected as the leader of the Gopa group
 
 *2024-03-07 14:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-குழுத்-தலைவராக-லசந்த-மீண்டும்-தெரிவு/175-334338) · `ta`
 
-பொதுக் கணக்குகள் தொடர்பான குழுவின் தலைவராக பாராளுமன்ற உறுப்பினர் லசந்த அழகியவண்ண இன்று மீண்டும் தெரிவு செய்யப்பட்டுள்ளார்.
+Lasantha Alagiyavanna re-elected as Gopa group leader and Chairman of Public Accounts Committee.
 
-கோபாவின் உறுப்பினர்களாக மொஹான் பிரியதர்ஷன டி சில்வா, பிரசன்ன ரணவீர, கே. காதர் மஸ்தான், டயானா கமகே, சாமர சம்பத் தசநாயக்க, வஜிர அபேவர்தன, ஏ.எல்.எம். அதாவுல்லா, விமலவீர திஸாநாயக்க, ஜயந்த கெட்டகொட, (கலாநிதி) மேஜர், பிரதீப் உந்துகொட, கொடாவுருக் உந்துகொட , பிரேம்நாத் சி. டோலவத்தே, முதித பிரிஷாந்தி, MWD சஹான் பிரதீப் விதான, மதுர விதானகே, டி. வீரசிங்க மற்றும் மஞ்சுளா திஸாநாயக்க ஆகியோர்  அங்கம் வகிப்பதும் குறிப்பிடத்தக்கது.
+🟩
+
+Parliamentarian Lasantha Alagiyavanna has been re -elected as the Chairman of the Committee on Public Accounts.
+
+Mohan Priyadarshana de Silva, Prasanna Ranawira, K. Qatar Mastan, Diana Kamage, Samara Sampath Dasanayake, Vajira Abeywardena, ALM. Ataullah, Wimalaweera Dissanayake, Jayantha Ketagoda, (Dr.) Major, Pradeep Undukoda, Kodaurukkuttu, Premnath C. Dolawatte, Muditha Prishanti, MWD Sahan Pradeep Vidhana, Madura Vidhanage, D. It is also noteworthy that Weerasinghe and Manjula Dissanayake are also a part of it.
 
 ◼️
 
 [Data](articles/459d8923.json)
+
+[Extended Data](ext_articles/459d8923.ext.json)
 
 ---
 
@@ -88,6 +124,10 @@ Police have found 3 335 grams 335 grams of ice narcotics in possession.
 
 *2024-03-07 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194248) · `si`
 
+Rohitha Abeygunawardena accused MP Shaanakiyan of attacking him. Two MPs clashed with the PM.
+
+🟩
+
 Two Members of Parliament have gone to clash at the Prime Minister of Parliament.
 
 Ilankai Thamil Arasu Kachchi Kachchi Kachchi Kachchi Kachchi Kachchi Shranakkiyan Mr Parliamentas MP Rohitha Abeygunawardena said that MP Rohitha Abeygunawardena tried to attack him.
@@ -100,23 +140,29 @@ Ilankai Thamil Arasu Kachchi Kachchi Kachchi Kachchi Kachchi Kachchi Shranakkiya
 
 ---
 
-### ”தெருநாய் பிரச்சினைக்கு தீர்வு காண வேண்டும்”
+### “Solving the street dog problem”
 
 *2024-03-07 14:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெருநாய்-பிரச்சினைக்கு-தீர்வு-காண-வேண்டும்/175-334337) · `ta`
 
-நாட்டின் பல்வேறு பகுதிகளில் சுமார் 6.2 மில்லியன் தெருநாய்கள் சுற்றித் திரிவதாக பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித பண்டார தென்னகோன் இன்று தெரிவித்தார்.
+Defense Minister Pramitha Bandara Tennakoon highlighted the issue of 6.2 million street dogs causing tourism problems, emphasizing the need for new laws to protect animals.
 
-இந்த நிலைமை சீகிரியா போன்ற சுற்றுலாப் பகுதிகளில் பாரிய பிரச்சினைகளை ஏற்படுத்தியுள்ளதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
 
-கிடைக்கப்பெற்றுள்ள புள்ளிவிபரங்களின்படி நாட்டில் 6.2 மில்லியன் தெருநாய்கள் காணப்படுவதாகவும், இது பாரிய பிரச்சினைகளை ஏற்படுத்தியுள்ளதாகவும் அமைச்சர் கூறினார்.
+Defense Minister Pramitha Bandara Tennakoon today said that about 6.2 million street vendors are wandering around in different parts of the country.
 
-சுற்றுலாப் பகுதிகளிலும் இது பாரதூரமான பிரச்சினைகளை ஏற்படுத்தியுள்ளதால், இப்பிரச்சினைக்குத் தீர்வு காண்பது முக்கியம் என்றார்.
+He told Parliament that this situation has caused massive problems in tourism like Sigiriya.
 
-விலங்குகளுக்கு ஏற்படும் தீங்குகளை குறைப்பதற்காக புதிய சட்டங்களை கொண்டு வர அரசாங்கம் திட்டமிட்டுள்ளதாக தெரிவித்த அமைச்சர் தென்னக்கோன், விலங்குகளால் ஏற்படும் பிரச்சினைகளுக்கு எல்லாவற்றிற்கும் முன்னதாக தீர்வு காணப்பட வேண்டியதன் அவசியத்தை வலியுறுத்தினார்.
+According to statistics available, there are 6.2 million street dogs in the country, which has caused huge problems.
+
+He said it was important to solve the problem as it has caused serious problems in tourism areas.
+
+Minister Tennakoon said the government was planning to bring new laws to reduce the harm to animals and stressed the need to address everything before animals.
 
 ◼️
 
 [Data](articles/b3e62eda.json)
+
+[Extended Data](ext_articles/b3e62eda.ext.json)
 
 ---
 
@@ -207,6 +253,24 @@ Meanwhile, MP Rohitha Abeygunawardena has been elected the chairman of the Commi
 [Data](articles/8642909c.json)
 
 [Extended Data](ext_articles/8642909c.ext.json)
+
+---
+
+### කජිමාවත්තට අළුත් හෙවනක්
+
+*2024-03-07 14:21:44* · [`adalk`](https://www.ada.lk/breaking_news/කජිමාවත්තට-අළුත්-හෙවනක්/11-408476) · `si`
+
+කොළඹ කජිමාවත්තේ පදිංචි, නිවාස අහිමි සියලු පවුල් සඳහා කඩිනමින් නිවාස ලබාදීමට අවශ්‍ය කටයුතු සිදු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබාදී ඇත.
+
+නිවාස ලබාදීමේ රජයේ ප්‍රතිපත්ති හා නිර්ණායකයන්ට අනුකූලව එම කටයුතු සිදු කරන ලෙසද ජනාධිපතිවරයා දැනුම් දුන්නේය.
+
+කොළඹ නාගරික බල ප්‍රදේශය තුළ පවතින ඌන උපයෝජිත රජය සතු ගොඩනැගිලි සහ ඉඩම් පිළිබඳව සොයා බලා එම ඉඩම් වාණිජ කටයුතු සඳහා සංවර්ධනය කර ලබාදීමට ඇති හැකියාව සොයා බලන ලෙස ද නිලධාරීන්ට උපදෙස් දී  ඇත.
+
+මෙම ක්‍රියාදාමය රාජ්‍ය අංශයේ මැදිහත්වීමෙන් පෞද්ගලික ආයෝජන මගින් ක්‍රියාවට නැංවීමේ වැදගත්කම ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+◼️
+
+[Data](articles/31b6bb49.json)
 
 ---
 
@@ -1976,11 +2040,13 @@ The International Monetary Fund (IMF) will commence its second review of the Ext
 
 Taking to his X handle (formerly Twitter), Finance State Minister Shehan Semasinghe said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
 
-He said the government expects to conclude a successful review and reach the staff-level agreement which will pave the way for accessing the third tranche.
+The lawmaker said the government aims to conclude a successful review and reach the staff-level agreement which will help unlock the third tranche of the global lender’s bailout package of USD 2.9 billion.
 
 “This will accelerate our growth trajectory, fostering increased confidence in the economy,” he added.
 
-◼️
+Speaking to Ada Derana in this regard, Semasinghe said Sri Lanka is expecting the third tranche of the IMF loan in June.
+
+...
 
 [Data](articles/0b251d81.json)
 
@@ -2237,75 +2303,5 @@ The plan to build 2000 houses under Chinese assistance in Colombo and its adjoin
 [Data](articles/a16d1a7e.json)
 
 [Extended Data](ext_articles/a16d1a7e.ext.json)
-
----
-
-### Discussion on the educational structure
-
-*2024-03-07 02:42:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்விக்-கட்டமைப்பு-தொடர்பில்-கலந்துரையாடல்/175-334311) · `ta`
-
-The Department of Education held the Third and Fourth Discussions on the National Education Policy Structure Program till 2033, with Parliamentarian Velusamy Radhakrishnan. They investigated amendments and new issues for the National Education Policy Scheme.
-
-🟩
-
-The Department of Education has conducted the Third and Fourth Discussions on the National Education Policy Structure Program till 2033.
-
-The discussion was held recently under the patronage of Parliamentarian Velusamy Radhakrishnan, Chairman of the Department of Education.
-
-The amendments to be made in the National Education Policy Scheme and the new issues to be included in it have been investigated.. (A)
-
-◼️
-
-[Data](articles/7a1c9087.json)
-
-[Extended Data](ext_articles/7a1c9087.ext.json)
-
----
-
-### Tiger: 'Wilpattu', the highest tiger density in Asia, according to our research
-
-*2024-03-07 02:17:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2yx3n4r18o) · `si`
-
-"Wilpattu, Sri Lanka's largest national park, boasts the highest tiger density in Asia, with an estimated 313 tigers. Recent research highlights the birth of eight calves, including a fifth female calf born to a female tiger in Maradankamaduwa. This information is based on a study conducted since 2011 by wildlife researcher Kithsiri Gunawardena."
-
-🟩
-
-It is not included in this. Video header is estimated that about 313 Tigers live in Wilpattu.
-
-Tiger: 'Wilpattu', the highest tiger density in Asia, according to our research
-
-Wilpattu is a popular LTTE cadres in the world, the largest national park in Sri Lanka.
-
-Eight Tigers in the calves have seen these days.
-
-'' Wilpattu. Eight female animals have been placed these days. The fifth chance that the female sheltered female shed in Maradankamaduwa. I researched the Tigers in Wilpattu from 2011. But this was the case, "Wildlife Researchers Kithsiri Gunawardena told BBC Sinhala.
-
-◼️
-
-[Data](articles/02bee6b8.json)
-
-[Extended Data](ext_articles/02bee6b8.ext.json)
-
----
-
-### Governor of the Northern Province to stop the activities of the Valve Elderly Home
-
-*2024-03-07 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178131) · `ta`
-
-BSM Charles, Governor of Northern Province, has been ordered to halt activities at the Valve Elderly Home in Valvettithurai, Jaffna, due to non-registration. Legal action is being considered. The "Abhayam" received a complaint about the home, leading to the Governor's intervention.
-
-🟩
-
-The Governor of the Northern Province, BSM Charles, has been instructed by the Governor's Secretary to the Point Pedro Divisional Secretary to ban the activities of the elderly home in Valvettithurai in Valvettithurai in Jaffna.
-
-In addition, it has been advised to take appropriate legal action on the fact that the Valve Elderly Home has not yet registered.
-
-The "Abhayam", which is under the direct supervision of the Governor of the Northern Province, received a complaint with the Northern Province on the Valve Elderly Home.. The field report received from the Point Pedro Divisional Secretary was submitted to the Governor. He has advised the Governor of the Northern Province to take immediate action on the elderly home on the Governor of the Northern Province.
-
-◼️
-
-[Data](articles/d46d53ac.json)
-
-[Extended Data](ext_articles/d46d53ac.ext.json)
 
 ---

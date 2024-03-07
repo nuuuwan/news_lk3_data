@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 00:47:41**
+As of **2024-03-08 01:03:03**
 
 ## Newspaper Stats
 
@@ -26,31 +26,45 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,566 (100.0%) of 11,567 articles have been extended.
+11,567 (100.0%) of 11,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### சதேவ், தினேத், நேதன் ஆகியோரின் துடுப்பாட்டங்களுடன் பரி. தோமா 297 ஓட்டங்களைக் குவித்தது
+### Sadev, Dineet and Nathan. Toma scored 297 runs
 
 *2024-03-08 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178211) · `ta`
 
-கொழும்பு எஸ்.எஸ்.சி. விளையாட்டரங்கில் வியாழக்கிழமை (07) ஆரம்பமான டி.எஸ். சேனாநாயக்க ஞாகார்த்த கேடயத்துக்கான றோயல் - தோமியன் 145ஆவது நீலவர்ணங்களின் கிரிக்கெட் சமரில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பரி. தோமா அணி சகல விக்கெட்களையும் இழந்து 297 ஓட்டங்களைக் குவித்தது.
+Toma scored 297 runs in a match against Colombo SSC, losing all wickets. Sadev Soyza and Senathi Bullenkulama started with 66 runs, followed by 66 from Sadev and Dineet Gunawardena. Sadev scored 83, and after tea, Toma scored 173, with Dineet and Maid Perera adding 58, and Nathan Chardera and Akash Fernando 60. Ramiru Perera and Sneet Jayawardena took 4 wickets each. The Royal team aims to prevent wickets in the second day's first part.
 
-முதலாம் நாள் ஆட்டத்தில் ஒரு ஓவர் மீதம் இருக்கையில் பரி. தோமாவின் கடைசி விக்கெட் சரிந்ததால் அத்துடன் முதலாம் நாள் ஆட்டம் முடிவுக்கு வந்தது.
+🟩
 
-இந்தப் போட்டியின் ஆரம்பத்தில் பரி. தோமா  அணியின் துடுப்பாட்டம் மிகச் சிறப்பாக இருந்தது.
+Colombo SSC. TS started on Thursday (07) at the playground. Royal for Senanayake Gnanakarta Shield. The Toma team lost all the wickets and scored 297 runs.
 
-முதலாம் நாள் ஆட்டத்தின் மதிய போசன இடைவேளையின்போது பரி. தோமா அணி ஒரு விக்கெட்டை மாத்திரம் இழந்து 97 ஓட்டங்களைப் பெற்று நல்ல நிலையில் இருந்தது.
+In the first day's game. As Thoma's last wicket fell, as well as the first day of the game.
 
-சதேவ் சொய்ஸா, சேனாதி புலேன்குலம ஆகிய இருவரும் 66 ஓட்டங்களைப் பகிர்ந்து நல்ல ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+At the beginning of this competition. The Toma team was very good.
 
-புலேன்குலம 13 ஓட்டங்களுடன் ஆட்டம் இழந்த பின்னர் சதேவ் சொய்ஸா, தினேத் குணவர்தன ஆகிய இருவரும் இரண்டாவது விக்கெட்டில் மேலும் 66 ஓட்டங்களைப் பகிர்ந்தனர்.
+During the first day of the first day of the lunch break. The Toma team lost only one wicket and scored 97 runs.
+
+Sadev Soyza and Senathi Bullenkulama shared 66 runs and made a good start.
+
+Sadev Soyza and Dineet Gunawardena shared 66 runs in the second wicket after they lost 13 runs with 13 runs.
+
+Until then, Sadev Soyza, who was patiently, tried to hit the ball and lost the match with 83 runs.
+
+Then when the game was stopped at the tea break. The Toma team lost 2 wickets and scored 173 runs.
+
+However, after the tea break, only 124 runs fell by the remaining 8 wickets to join the total number.
+
+Meanwhile, Dineet Gunawardena and team captain Maid Perera shared 58 runs in the 3rd wicket.
 
 ...
 
 [Data](articles/f3765363.json)
+
+[Extended Data](ext_articles/f3765363.ext.json)
 
 ---
 

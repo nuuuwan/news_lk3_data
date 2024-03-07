@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 09:17:58**
+As of **2024-03-07 09:33:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,779
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,388 (100.0%) of 11,390 articles have been extended.
+11,390 (100.0%) of 11,390 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Terrorism Investigation Division (TID) is conducting further investigations 
 ◼️
 
 [Data](articles/ac082a33.json)
+
+[Extended Data](ext_articles/ac082a33.ext.json)
 
 ---
 
@@ -89,6 +91,8 @@ The attack on the Barbados-flagged, Liberian-owned bulk carrier True Confidence 
 ...
 
 [Data](articles/c26aac96.json)
+
+[Extended Data](ext_articles/c26aac96.ext.json)
 
 ---
 

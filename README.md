@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 07:33:04**
+As of **2024-03-07 07:50:32**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 1,775
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,378 (100.0%) of 11,382 articles have been extended.
+11,382 (100.0%) of 11,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### වැඩතහනම් කළ දුම්රිය සේවකයින් යළි සේවයට
+### Railway employees to work
 
 *2024-03-07 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194227) · `si`
 
-විදේශිකයින් දෙදෙනෙකු හට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් වැඩතහනමකට ලක් වූ දුම්රිය සේවකයින් තිදෙනෙකු යළි සේවයේ පිහිටුවා තිබේ.
+Railway employees involved in an assault on two foreigners have been re-employed under further disciplinary action. The incident occurred on a train from Colombo, where the two foreigners caused physical harm to passengers without tickets. The Railway Department suspended services at two stations, a railway register, and a railway guard. A base report on the incident is under review. The security officer at Nawalapitiya Railway Station has been banned further.
 
-මූලික පරීක්ෂණවලින් අනතුරුව ඉදිරි විනය ක්‍රියාමාර්ගවලට යටත්ව එම අදාළ නිලධාරීන් යළි සේවයේ පිහිටුවා ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-පසුගිය 05 වන දින කොළඹ සිට බදුල්ල බලා ධාවනය වූ දුම්රියේ වායූසමීකරණය කරන ලද පළමු පංතියේ මැදිරියක විදේශිකයින් දෙදෙනෙකු ප්‍රවේශ පත්‍ර නොමැතිව ගමන් කිරීම හේතුවෙන් කළහකාරී සිදුවීමක් ඇති වී තිබිණි.
+Three relating railway employees have been re-employed on an assault incident to two foreigners.
 
-එම සිදුවීම පදනම් කරගනිමින් දුම්රිය ස්ථානාධිපතිවරුන් දෙදෙනෙකු, දුම්රිය නියාමකවරයෙකුගේ සහ දුම්රිය ආරක්ෂක අංශ සාමාජිකයෙකුගේ සේවය අත්හිටුවීමට දුම්රිය දෙපාර්තමේන්තුව පියවර ගනු ලැබීය.
+After preliminary investigations, the relevant officers have been re-employed under further disciplinary action, the Railway Department said.
 
-කෙසේවෙතත් අදාළ සිදුවීම සම්බන්ධයෙන් මූලික වාර්තාවක් කැඳවා ඉදිරි පරීක්ෂණවලට යටත්ව දුම්රිය ස්ථානාධිපතිවරුන් දෙදෙනා සහ දුම්රිය නියාමකවරයා යළි සේවයේ පිහිටුවා තිබේ.
+On the 5th of the train traveling from Colombo from Colombo on the 5th, two foreigners had caused a large number of phical to travel without tickets.
 
-අදාළ සිද්ධිය සම්බන්ධයෙන් වැඩතහනමට ලක් වූ නාවලපිටිය දුම්රිය ස්ථානයේ ආරක්ෂක අංශ කාර්යය භාර නිලධාරියාගේ තහනම තවදුරටත් ක්‍රියාත්මක බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+On the event, the Railway Department took steps to suspend the services of two stations, a railway register and a railway guard.
 
-...
+However, a base report on the incident has been summoned, however, has been reviewed under further investigations.
+
+The ban in charge of the security officer in the Nawalapitiya Railway Station is further implemented in connection with the incident.
+
+The Department of Railways said that steps will be taken to take action after investigations.
+
+◼️
 
 [Data](articles/008b56c1.json)
+
+[Extended Data](ext_articles/008b56c1.ext.json)
 
 ---
 
@@ -65,6 +73,8 @@ Taking to his X handle (formerly Twitter), the Finance State Minister Shehan Sem
 ◼️
 
 [Data](articles/0b251d81.json)
+
+[Extended Data](ext_articles/0b251d81.ext.json)
 
 ---
 
@@ -84,21 +94,31 @@ Also, Chief Government Whip Prasanna Ranatunga also said the SLPP should back th
 
 [Data](articles/aa85b6ea.json)
 
+[Extended Data](ext_articles/aa85b6ea.ext.json)
+
 ---
 
-### IMF නියෝජිතයින් අද ජනපති හමුවෙයි
+### IMF representatives meet President today
 
 *2024-03-07 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194226) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකමේ දෙවන වාරිකයට අදාළ සමාලෝචන කටයුතු අද (07) ආරම්භ කිරීමට නියමිතව තිබේ.
+IMF representatives meet President Ranil Wickremesinghe today to review activities related to the second premium of $330 million, with a review expected to take about two weeks. The goal is to complete the work needed for the third premium, also $330 million, by June.
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේ, ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අද පෙරවරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සමාලෝචන කටයුතු ආරම්භ කිරීමට නියමිත බවය.
+🟩
 
-ඒ අනුව සති දෙකක පමණ කාලයක් සමාලෝචන කටයුතු පැවැත්වීමට නියමිත බව "අද දෙරණ" කළ විමසීමකට පිළිතුරු ලබාදෙමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+Review activities related to the second premium of the IMF is due to commence today (07).
 
-...
+Finance State Minister Shehan Semasinghe said that the International Monetary Fund representatives to meet President Ranil Wickremesinghe this morning.
+
+The Minister of Finance Shehan Semasinghe said that the review was scheduled to take action for about two weeks.
+
+"The President met the president in the morning, held this initial meet, and they will review the officials and other agencies they need, or other agencies. After this review is complete, complete the work we need to get the third premium. It will be able to get it in June about June. But we expect to cope with the lengthy review that should be completed. There have been two installments at the time. The first premium is $ 330 million and a second premium $ 330 million. The third installment is similar amounts of money. "
+
+◼️
 
 [Data](articles/d70f7138.json)
+
+[Extended Data](ext_articles/d70f7138.ext.json)
 
 ---
 

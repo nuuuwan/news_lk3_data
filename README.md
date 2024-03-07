@@ -1,68 +1,186 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 11:17:29**
+As of **2024-03-07 11:33:51**
 
 ## Newspaper Stats
 
-*Scraped **11,407** Articles*
+*Scraped **11,414** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 134
+bbccomsinhala | 135
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
 dailyftlk | 605
 islandlk | 612
 adalk | 962
-adaderanalk | 1,387
-tamilmirrorlk | 1,392
-virakesarilk | 1,558
-dailymirrorlk | 1,738
-adaderanasinhalalk | 1,783
+adaderanalk | 1,388
+tamilmirrorlk | 1,393
+virakesarilk | 1,559
+dailymirrorlk | 1,739
+adaderanasinhalalk | 1,785
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,405 (100.0%) of 11,407 articles have been extended.
+11,407 (99.9%) of 11,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### இனி உங்கள் புகைப்படங்களை முத்திரையாக்கலாம்
+### 'ஷெல்' எரிபொருள்  நிறுவனம் மீண்டும் இலங்கையில்
+
+*2024-03-07 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178141) · `ta`
+
+'ஷெல்' நிறுவனம் 63 வருடங்களின் பின்னர் எதிர்வரும் 19ஆம் திகதி முதல் இலங்கையில் மீண்டும் எரிபொருள் நடவடிக்கைகளை ஆரம்பிக்கவுள்ளது.
+
+1880ஆம் ஆண்டு முதல் இலங்கையில் செயற்பட்டு வந்த ஷெல் எரிபொருள் நிறுவனம் 1961ஆம் ஆண்டு ஸ்ரீலங்கா சுதந்திர கட்சி அரசாங்கத்தினால் அரசுடைமையாக்கப்பட்டது.
+
+அதன் பின்னர் குறித்த நிறுவனம் ஆசியாவில் தமது செயற்பாடுகளை இலங்கையிலிருந்து அகற்றி சிங்கப்பூரில் ஆரம்பித்து இன்று சிங்கப்பூரில் மாபெரும் நிறுவனமாக மாறியுள்ளது.
+
+எவ்வாறாயினும், அறுபத்து மூன்று வருடங்களின் பின்னர், ஷெல் நிறுவனம் இலங்கையின் எரிசக்தி துறையில் மீண்டும் இணைந்துள்ளது.
+
+இந்நிறுவனத்தின் முதலாவது எரிபொருள் கப்பல் 63 வருடங்களின் பின்னர் எதிர்வரும் 19ஆம் திகதி கொழும்பு துறைமுகத்திற்குள் பிரவேசிக்கவுள்ளது.
+
+தற்போதைய அரசாங்கத்தின் எரிசக்தி மற்றும் பொருளாதார சீர்திருத்தத் திட்டத்தின் கீழ், இறக்குமதி செய்வதற்கும், சேமித்து வைப்பதற்கும், விநியோகிப்பதற்கும் அனுமதி வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4b6828bc.json)
+
+---
+
+### ලෝක කුසලානයට ඉදිවන සුපිරි ක්‍රිකට් පිටිය
+
+*2024-03-07 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194237) · `si`
+
+එළඹෙන ජුනි මස 02 වනදා ආරම්භ වන විස්සයි විස්ස ලෝක තරගාවලිය වෙත ලොවපුරා ක්‍රිකට් ක්‍රීඩා ලෝලීන්ගේ අවධානය මේ වනවිටත් යොමුවී අවසන්.
+
+මේ සුවිශේෂී කතාව වාර්තාවන්නේ ලෝක කුසලාන තරගාවලිය ආරම්භයට පසුදින එනම් ජුනි මස 03 වනදා සිට තරග පැවැත්වෙන සුවිශේෂී ක්‍රීඩාංගණයක් පිළිබඳවය.
+
+Nassau County International Cricket Stadium එහෙමත් නැත්නම් නිව්යෝක් ක්‍රිකට් ක්‍රීඩාංගනයේ තවමත් තණකොළ ගහක්වත් නැතිවීම විශේෂත්වයක්.
+
+තවත් මාස 03ක් ඉතිරිව තිබියදී ලෝකෙම මවිත කරවමින් අභියෝගය භාරගත් අමෙරිකාව ක්‍රීඩාංගණය ඉදිකිරීම මේ වනවිට ආරම්භ කර තිබේ.
+
+34,000කට එකවර තරගය නැරඹිය හැකි පහසුකම් සහිතව ඉදිවන මෙම ක්‍රීඩාංගණයේ මාසයක ප්‍රගතිය මුල්වරට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ඊයේ මුල්වරට එළිදැක්වීය.
+
+ලෝක කුසලාන තරගාවලිය සඳහාම ඉදිවන මෙම ක්‍රීඩාංගණය වෙත ලෝකයේම අවධානය යොමුවූ තවත් හේතුවක් වන්නේ ක්‍රිකට් ලෝකයේ ආන්දෝලනාත්මක තරගයක් වන ඉන්දු පාකිස්තාන ක්‍රිකට් තරගය ද මෙම ක්‍රීඩාංගණයේදී පැවැත්වීමය.
+
+මූලික වටයේ තරගවලදී ඉන්දීය කණ්ඩායම තරගවදින තරග ත්‍රිත්වයක් ම මෙම ක්‍රීඩාංගණයේදී පැවැත්වීම තවත් සුවිශේෂී කරුණකි.
+
+...
+
+[Data](articles/62730a43.json)
+
+---
+
+### හදිසියේම රාජ්‍යතාන්ත්‍රිකයින් පිරිසක් අනුර හමුවෙයි
+
+*2024-03-07 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194236) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සහ රටවල් 06ක රාජ්‍යතාන්ත්‍රික නිලධාරීන් අතර හමුවක් ඊයේ පවත්වා තිබේ.
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සහ රටවල් 06ක රාජ්‍යතාන්ත්‍රික නිලධාරීන් අතර හමුවක් ඊයේ පස්වරුවේ පැලවත්ත ජනතා විමුක්ති පෙරමුණ පක්ෂ කාර්යාලයේදී පැවැත්වුණි.
+
+එම සාකච්ඡාව සඳහා පලස්තීන, තුර්කි, බංග්ලාදේශ, ඉන්දුනීසියානු, මැලේසියානු සහ මාලදිවයින් තානාපතිවරුන් සහ මහකොමසාරිස්වරුන් සහභාගී වී තිබේ.
+
+එහිදී ජාතික ජන බලවේගයේ ආර්ථික ප්‍රතිපත්ති සහ ක්‍රියාකාරීත්වය පිළිබඳව සාකච්ඡාවට ලක් වී ඇත.
+
+◼️
+
+[Data](articles/b6066d65.json)
+
+---
+
+### ”தபால் திணைக்களம் 2024ல் ரூ.21 பில்லியன் வருவாயைப் பெறும்”
+
+*2024-03-07 11:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-திணைக்களம்-2024ல்-ரூ-21-பில்லியன்-வருவாயைப்-பெறும்/175-334320) · `ta`
+
+இலங்கையின் தபால் திணைக்களம் 2024 ஆம் ஆண்டில் ரூ.21 பில்லியன் வருவாயைப் பதிவுசெய்து, திறைசேரி நிதியில் இருந்து சுயாதீனமான ஒரு தன்னிறைவான நிறுவனமாகச் செயற்படும் என நம்புவதாகக் கூறியுள்ளது.
+
+பொது சேவை வழங்குநரிடமிருந்து வணிக சேவை வழங்குனராக திணைக்களத்தின் புதிய கண்ணோட்டத்தைப் பற்றி விளக்கிய தபால் மா அதிபர் ருவன் சத்குமார, வருவாய் இடைவெளியைக் குறைப்பதற்கும் இடைவெளியை அடைவதற்கும் திணைக்களம் தனியார் துறையுடன் மூலோபாய ஒத்துழைப்புகளை ஆரம்பித்துள்ளதாக தெரிவித்தார்.
+
+உலகளாவிய லொஜிஸ்டிக்ஸ் மற்றும் பக்கேஜ் டெலிவரி நிறுவனமான யுனைடெட் பார்சல் சேவையுடன் இத்துறை ஒப்பந்தம் செய்துள்ளதாக சத்குமார கூறினார்.
+
+ஹட்டன் நஷனல் வங்கியின் 135வது ஆண்டு நிறைவை முன்னிட்டு நினைவு முத்திரை வெளியீட்டு விழாவையொட்டி, தபால் திணைக்களம் முதன்முதலில் தனியார் வங்கியொன்றுக்கு முதல் நாள் அட்டை முத்திரையை வழங்கியதையும் அவர் பகிர்ந்துகொண்டார்.
+
+"பாரம்பரிய அஞ்சல் சேவைகள் உலகளாவிய பயன்பாட்டில் சரிவைக் காண்கின்றன, ஆனால் வணிக அஞ்சல் சேவைகள், காஷ் ஒன் டெலிவரி (COD) மற்றும் EMS சேவைகளுக்கு குறிப்பிடத்தக்க தேவை உள்ளது.
+
+...
+
+[Data](articles/24c56e16.json)
+
+---
+
+### NCPA to compile list of offenders convicted of child sexual abuse
+
+*2024-03-07 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97789/ncpa-to-compile-list-of-offenders-convicted-of-child-sexual-abuse) · `en`
+
+The National Child Protection Authority (NCPA) says it intends to compile a list containing the names of the offenders convicted of child sexual abuse.
+
+Mr. Chanaka Udayakumara Amarasinghe, the NCPA chairman, explained that these convicts are most likely to repeat the offences once they are released from custody after serving their prison sentences, adding that this leaves children at risk of falling prey to molesters.
+
+Joining a media briefing held at the Health Promotion Bureau, Mr. Amarasinghe said the NCPA is in the process of preparing a list of convicted child molesters to make their information available to the concerned parties.
+
+Additionally, the NCPA is discussing whether legal provisions can be introduced to either prevent or restrict the ex-convicts from entering the premises frequented by children, after being released from prison.
+
+According to Mr. Amarasinghe, the country has witnessed a disturbing increase in the number of cases of child sexual abuse in 2023.
+
+...
+
+[Data](articles/c8c2c47f.json)
+
+---
+
+### You can no longer stamp your photos
 
 *2024-03-07 10:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-உங்கள்-புகைப்படங்களை-முத்திரையாக்கலாம்/175-334319) · `ta`
 
-இலங்கை தபால் திணைக்களம் பிரஜைகளுக்கு தங்களின் சொந்த புகைப்படங்கள் அல்லது நிகழ்வுகளை உள்ளடக்கிய முத்திரைகளை வடிவமைத்துக்கொள்ளும் வாய்ப்பை ரூபாய் 2000 செலவில் வழங்குவதாக தபால் திணைக்கள அதிபர் ருவன் சத்குமார தெரிவித்தார்.
+Sri Lanka's Postal Department allows individuals to design their own photos or events for Rs. 2000, offering a unique stamp option for weddings, gatherings, and feasts.
 
-ஹட்டன் நேஷனல் வங்கியின் (HNB) முத்திரையை வெளியிடுவதற்காக கொழும்பில் ஏற்பாடு செய்யப்பட்டிருந்த நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றிய அவர், திருமணங்கள், ஒன்றுகூடல்கள் மற்றும் விருந்துகள் போன்ற விசேட சந்தர்ப்பங்களுக்கு ஏற்ப 20 முத்திரைகள் கொண்ட முத்திரைத் தாளையோ அல்லது தமது சொந்த புகைப்படங்களையோ பெற்றுக்கொள்ள முடியும் என அறிவித்தார்.
+🟩
 
-தம்பதிகளின் புகைப்படங்களைக் கொண்ட இந்த முத்திரைகளைப் பயன்படுத்துவதன் மூலம் குடும்பங்கள் தங்கள் திருமண அட்டைகளின் தனித்துவத்தை அதிகரிக்கலாம். இந்த முத்திரைகள் தபால் முத்திரைகளாகவும் பயன்படுத்தலாம் ," என்றும் அவர் குறிப்பிட்டார்.
+Postal Department Chancellor Ruwan Satkumara said that the Postal Department of Sri Lanka will be offering the opportunity to design their own photos or events at a cost of Rs. 2000.
+
+Speaking at an event organized in Colombo to publish the Hatton National Bank (HNB) stamp, he announced that he could get 20 stamps or their own photos of 20 stamps in accordance with special occasions such as weddings, gatherings and feasts.
+
+Families can increase the uniqueness of their wedding cards by using these stamps with photos of couples. These seals can also be used as postal stamps, ”he said.
 
 ◼️
 
 [Data](articles/dc2dc736.json)
 
+[Extended Data](ext_articles/dc2dc736.ext.json)
+
 ---
 
-### கூட்டணி குறித்து கலந்துரையாட விசேட சந்திப்பு
+### A special meeting to discuss the coalition
 
 *2024-03-07 10:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டணி-குறித்து-கலந்துரையாட-விசேட-சந்திப்பு/175-334318) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவை (SLPP) முன்னின்று நடத்தும் பசில் ராஜபக்சவும், முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவம் இன்று மாலை ஜனாதிபதி ரணில் விக்ரமசிங்கவைச் சந்தித்து பாராளுமன்ற தேர்தல் மற்றும் ஜனாதிபதி தேர்தலுக்கு முன்னதாக இரு தரப்பினருக்கும் இடையிலான எதிர்கால அரசியல் ஏற்பாடுகள் குறித்து கலந்துரையாடவுள்ளனர்.
+Basil Rajapaksa, leader of the Sri Lanka PA (SLPP), meets with former President Mahinda Rajapaksa to discuss political arrangements for upcoming elections. The party is considering which elections to prioritize in case of an electoral alliance. A section of the SLPP, led by MP Nimal Lansa, supports the president, and the Prime Minister of Sri Lanka, Prasanna Ranatunga, has also expressed support. However, the SLPP has not made a formal decision yet. Basil Rajapaksa plans to express dissatisfaction with the president over direct contact with a separatist group. The leaders are expected to discuss pending issues and decide on the election order.
 
-அமெரிக்காவில் இருந்த பசில் ராஜபக்ச செவ்வாய்க்கிழமை நாடு திரும்பினார். தேர்தல் நிலுவையில் உள்ளதைக் கருத்தில் கொண்டு பல்வேறு கட்சிகளுக்கு இடையே தேர்தல் கூட்டணி உருவாகி வரும் வேளையிலும்  எந்தத் தேர்தலை முதலில் நடத்த வேண்டும் என்று கட்சிகள் விவாதிக்கும் சந்தரப்பத்திலும் இச்சந்திப்பு நடைபெறுகிறது.
+🟩
 
-பாராளுமன்ற உறுப்பினர் நிமல் லான்சாவினால் ஒருங்கிணைக்கப்பட்ட ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஒரு பகுதியினர் ஜனாதிபதிக்கு ஆதரவளிப்பதாக ஏற்கனவே உறுதியளித்துள்ளனர். ஜனாதிபதிக்கு மக்கள் ஆதரவைப் பெறுவதற்காக நாடு முழுவதும் அரசியல் பேரணிகளை இந்த குழு ஏற்கனவே நடத்தத் தொடங்கியுள்ளது.
+Basil Rajapaksa, who is leading the Sri Lanka PA (SLPP), will meet with former President Mahinda Rajapaksa this evening and discuss the future political arrangements between the two sides ahead of the parliamentary elections and the presidential election.
 
-அத்துடன், ஸ்ரீலங்கா பொதுஜன பெரமுன ஜனாதிபதிக்கு ஆதரவளிக்க வேண்டும் எனவும் அரசாங்கத்தின் பிரதம கொறடா பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Basil Rajapaksa from the United States returned to the country on Tuesday. Considering the election pending, the party is in the process of discussing which elections should be held in the event of an electoral alliance between various parties.
+
+A section of the Sri Lanka PA, which was coordinated by MP Nimal Lansa, has already promised to support the president.The committee has already begun to hold political rallies across the country to get people's support for the president.
+
+The Prime Minister of the Government of Sri Lanka, Prasanna Ranatunga, said that the Sri Lankan PA should support the President.
+
+However, as SLPP, as a party, has not yet made any formal decision.
 
 ...
 
 [Data](articles/ab3b1b93.json)
+
+[Extended Data](ext_articles/ab3b1b93.ext.json)
 
 ---
 
@@ -93,6 +211,26 @@ Meanwhile, the injured sub-inspector was also arrested by the Mundalama Police w
 [Data](articles/344b5dac.json)
 
 [Extended Data](ext_articles/344b5dac.ext.json)
+
+---
+
+### Police sergeant arrested for aiding ’Harak Kata’s’ escape bid
+
+*2024-03-07 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-sergeant-arrested-for-aiding-Harak-Katas-escape-bid/108-278413) · `en`
+
+Midigama, March 7 (Daily Mirror) - A police sergeant assigned to the Matara Division Crime Investigation Unit has been arrested for his involvement in aiding and abetting the failed escape attempt of organized criminal Nandun Chinthaka alias 'Harak Kata' from the Criminal Investigation Department (CID).
+
+The 36-year-old sergeant, a resident of Ahangama, was arrested by the Terrorism Investigation Division (TID).
+
+The IGP handed over the investigations into the escape attempt by 'Harak Kata' to the TID.
+
+Accordingly, during the investigations carried out through telephone data, police recovered a motorcycle and a safety helmet brought to the CID to aid Harak Kata's escape attempt.
+
+It was revealed that a person called 'Sudda' was also involved in bringing the helmet and during the investigations regarding the suspect, it was revealed that he had changed his place of residence.
+
+...
+
+[Data](articles/3ac90236.json)
 
 ---
 
@@ -741,6 +879,30 @@ NSB acknowledges the significance of women taking control of their income and ac
 [Data](articles/8cfbc6ab.json)
 
 [Extended Data](ext_articles/8cfbc6ab.ext.json)
+
+---
+
+### හූති මිසයිල ප්‍රහාරයට ලක්වූ වෙළෙඳ නෞකාවේ ශ්‍රී ලාංකිකයින් දෙදෙනෙක්
+
+*2024-03-07 05:38:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clkmv8kgggjo) · `si`
+
+දකුණු යේමනයට ආසන්න මුහුදු සීමාවේ යාත්‍රා කරමින් තිබූ භාණ්ඩ ප්‍රවාහන නෞකාවකට හූතිවරු එල්ල කළ මිසයිල ප්‍රහාරයකින් එම නෞකාවේ කාර්ය මණ්ඩල සාමාජිකයින් තිදෙනෙකු මිය ගොස් ඇතැයි ඇමෙරිකා එක්සත් ජනපද බලධාරීන් පවසයි.
+
+මෙය හූතින් රතු මුහුදේදී වෙළඳ නෞකාවලට එල්ල කළ ප්‍රහාරවලින් මරණ වාර්තා වූ පළමු අවස්ථාව ය.
+
+True Confidence නමැති බාබඩෝස් ධජය සහිත මෙම නෞකාව ප්‍රහාරයෙන් පසු අතහැර දමා තිබූ අතර ගින්නක් සමග මුහුදේ පාවෙමින් තිබුණි.
+
+ග්‍රිනිච් වේලාවෙන් පෙරවරු 11.30 ට පමණ ඒඩන් බොක්කේදී නෞකාවට ප්‍රහාරය එල්ල වී ඇති බව ඇමෙරිකා එක්සත් ජනපද හමුදාව පැවසීය.
+
+හූතින් පවසන්නේ ගාසා තීරයේ ඊශ්‍රායලය සහ හමාස් අතර  පවතින යුද්ධයේදී පලස්තීනුවන්ට සහාය දැක්වීම සඳහා තමන් මෙම ප්‍රහාර එල්ල කරන බවය.
+
+මැද පෙරදිග මෙහෙයුම් අධීක්‍ෂණය කරන ඇමෙරිකා එක්සත් ජනපද මධ්‍යම විධානය (Centcom) පැවසුවේ ප්‍රහාරයෙන් නෞකා  කාර්ය මණ්ඩල සාමාජිකයින් තිදෙනෙකු මිය ගොස් ඇති බවයි.
+
+එමෙන්ම අවම වශයෙන් තවත් සිව්දෙනෙකු තුවාල ලබා ඇති අතර, තිදෙනෙකුගේ තත්ත්වය බරපතල බවද ඇමෙරිකා එක්සත් ජනපද මධ්‍යම විධානය සඳහන් කළේය.
+
+...
+
+[Data](articles/a2073567.json)
 
 ---
 
@@ -2171,153 +2333,5 @@ The two civilians in the car have also been arrested.
 [Data](articles/b23d870c.json)
 
 [Extended Data](ext_articles/b23d870c.ext.json)
-
----
-
-### A target of 166 runs to Bangladesh
-
-*2024-03-06 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194217) · `si`
-
-Bangladesh won the toss in the 2nd T20 match against Sri Lanka Tourism, choosing to bat first. Sri Lanka scored 165 runs in 20 overs, losing 5 wickets.
-
-🟩
-
-The second T20 match between the Sri Lanka Tourism and Bangladesh will be held at Syllel.
-
-The Bangladesh team won the advantage of the coin and they decided to give the Sri Lankan team first to bat first.
-
-According to the Sri Lanka Sri Lanka scored 165 runs for the loss of 5 wickets at the end of 20 overs.
-
-◼️
-
-[Data](articles/8efe1a1b.json)
-
-[Extended Data](ext_articles/8efe1a1b.ext.json)
-
----
-
-### Nikki Haley to end White House bid, clearing path for a Trump-Biden rematch
-
-*2024-03-06 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97781/nikki-haley-to-end-white-house-bid-clearing-path-for-a-trump-biden-rematch) · `en`
-
-Former U.S. Ambassador to the United Nations Nikki Haley will suspend her presidential campaign on Wednesday, according to a source familiar with her plans, ensuring that Donald Trump will win the Republican nomination and once again face Democratic President Joe Biden in November’s election.
-
-Haley will give a speech at 10 a.m. local time (1500 GMT) to address her future in the race, the source said, but she will not make an endorsement at that time. She will urge Trump to try to win the backing of her supporters, which include a significant chunk of moderate Republicans and independent voters, the source added.
-
-Haley’s decision to suspend her campaign comes a day after Super Tuesday, opens new tab, when Trump beat her soundly in 14 of the 15 Republican nominating contests.
-
-Haley lasted longer than any other Republican challenger to Trump but never posed a serious threat to the former president, whose iron grip on the party’s base remains firm despite his multiple criminal indictments.
-
-...
-
-[Data](articles/ce3eca42.json)
-
-[Extended Data](ext_articles/ce3eca42.ext.json)
-
----
-
-### We will carry out a series of protests by disabled the Jaffna Indian Embassy - Regan warning!
-
-*2024-03-06 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178107) · `ta`
-
-Bakhiyanathan Regan, head of the Northern Fisheries Co-operative Societies' Society, warns of future protests against the Jaffna Indian Embassy. He criticizes the embassy for not addressing issues raised by the local marine industry community, despite multiple attempts.
-
-🟩
-
-The head of the Northern Fisheries Co -operative Societies' Society, Bakhiyanathan Regan, said that in the future, there would be a situation where the embassy would carry out a series of struggles in front of the Indian Consulate in Jaffna in the future.
-
-He was speaking at a media briefing held at the Federation of Fisheries Organizations in Jaffna today.. There he said more,
-
-Just a few days ago, we had been fighting a protest against the tragedy business in front of the Indian embassy in Jaffna. No solutions have been given to us by the Indian Consulate.
-
-We have given the Mahajar to the Indian Consulate. If they have not answered us to date, the Indian Consulate is only to give Deca in Jaffna. We have not yet received the answer.
-
-...
-
-[Data](articles/344d648d.json)
-
-[Extended Data](ext_articles/344d648d.ext.json)
-
----
-
-### Suspect arrested for shooting incident in Modara Street
-
-*2024-03-06 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194216) · `si`
-
-A suspect was arrested for an attempted murder in Modara Street.
-
-🟩
-
-A suspect has been arrested in connection with the attempt to attempt to take a shot hanging murder in Modara Street.
-
-Police said that a suspect who supported the crime was arrested.
-
-◼️
-
-[Data](articles/d9881d8b.json)
-
-[Extended Data](ext_articles/d9881d8b.ext.json)
-
----
-
-### Sri Lanka’s Hilton Colombo ready for private investment: state minister
-
-*2024-03-06 18:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-hilton-colombo-ready-for-private-investment-state-minister-153452/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Hilton Colombo is ready for private sector investment, with four businessmen already expressing interest, State Minister for Urban Development and Housing Arundika Fernando said.
-
-However, securing the expected financial investment for the project’s success is essential, Fernando told reporters on Wednesday March 06.
-
-Meanwhile, progress on the Hyatt Hotel, which falls under Fernando’s ministry, has reached the halfway mark, with efforts underway to seek an investor for its completion, he said. There is also a proposal to attract investors for the development of both sides of D R Wijewardene Mawatha, stretching from Colombo Lotus Tower to the Lakehouse Roundabout.
-
-A statement from the president’s media division (PMD) quoted the state minister as highlighting growing interest from India, China, and “several Western nations” in investing in the country.
-
-...
-
-[Data](articles/1830ed25.json)
-
-[Extended Data](ext_articles/1830ed25.ext.json)
-
----
-
-### Sri Lanka sees 1,995 new companies registered in Jan 2024: President
-
-*2024-03-06 18:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-1995-new-companies-registered-in-jan-2024-president-153451/) · `en`
-
-ECONOMYNEXT – Sri Lanka has seen 1,995 new companies set up qin in January 2024, on top of 4,500 companies registered in 2023, as the country emerged from an economic crisis, President Ranil Wickremesinghe said.
-
-“The resurgence of the economy has encouraged the establishment of new ventures,” President Wickremesinghe told parliament Wednesday.
-
-“In 2022, the Company Registrar recorded the registration of 17,819 companies, a figure that rose to 22,376 in 2023. Additionally, in January 2024, 1,995 new companies were registered.”
-
-Wickremesinghe said his current endeavours were dedicated to national reconstruction rather than personal power accumulation, and pointed out some economic indicators that ‘illustrate this progress’ including the uptick in domestic tourism. (Colombo/Mar6/2024)
-
-Following is the English translation of President Ranil Wickremesinghe’s full address to the Parliament on 06th March 2024:
-
-...
-
-[Data](articles/14174f4d.json)
-
-[Extended Data](ext_articles/14174f4d.ext.json)
-
----
-
-### Millennium City case against ASP Udugampola fixed for further defence evidence
-
-*2024-03-06 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Millennium-City-case-against-ASP-Udugampola-fixed-for-further-defence-evidence/108-278364) · `en`
-
-Colombo, March 6 (Daily Mirror) - The Millennium City safe-house case filed against former police officer ASP Kulasiri Udugampola was today fixed for further defence evidence by the Colombo High Court.
-
-When the case came up before High Court Judge Adithya Patabendige, a witness called by defence provided evidence regarding the incident.
-
-The Attorney General had filed indictments against the accused for raiding a safe-house used by Army intelligence personnel at the Millennium City housing scheme I  Athurugiriya on January 02, 2002 and publicised information regarding Army officials and their undercover operations.
-
-The prosecution further alleged that information had been gathered in Colombo, Athurugiriya, Kandy and Katugastota to endanger the country's national security.
-
-◼️
-
-[Data](articles/41d5d612.json)
-
-[Extended Data](ext_articles/41d5d612.ext.json)
 
 ---

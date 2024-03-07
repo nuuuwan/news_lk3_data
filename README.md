@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 08:48:58**
+As of **2024-03-07 09:02:58**
 
 ## Newspaper Stats
 
-*Scraped **11,385** Articles*
+*Scraped **11,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adaderanalk | 1,384
 tamilmirrorlk | 1,386
 virakesarilk | 1,556
 dailymirrorlk | 1,737
-adaderanasinhalalk | 1,776
+adaderanasinhalalk | 1,779
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,384 (100.0%) of 11,385 articles have been extended.
+11,385 (100.0%) of 11,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### හරක් කටා ට පැනයෑමට උදව් කළ පොලිස් සැරයන් අත්අඩංගුවට
+
+*2024-03-07 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194231) · `si`
+
+නඳුන් චින්තක නොහොත් 'හරක් කටා' යන සංවිධානාත්මක අපරාධකරු අපරාධ පරීක්ෂණ දෙපාර්මේන්තුවෙන් පැන යාමට තැත් කිරීමේ සිද්ධියට ආධාර අනුබල දුන් පොලිස් සැරයන්වරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, අදාළ පොලිස් සැරයන්වරයාව ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාසය විසින් එලෙස අත්අඩංගුවට ගෙන ඇති බවය.
+
+දුරකථන දත්ත ඔස්සේ සිදුකරන ලද විමර්ශනයේ දී හරක් කටා ට පළායෑමට භාවිත කිරීමේ අරමුණින් රැගෙන එන ලද යතුරුපැදියක් හා ආරක්ෂක හිස් වැසුමක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තිබී අත්අඩංගුවට ගෙන තිබිණි.
+
+එම ආරක්ෂක හිස්වැසුම රැගෙන ඒම සඳහා සුද්දා නැමති පුද්ගලයෙකු සම්බන්ධ වී තිබූ අතර, එම සැකකරු සම්බන්ධයෙන් සොයා බැලීමේ දී ඔහු පදිංචි ස්ථානයෙන් මඟහැර ගොස් ඇති බවට අනාවරණය වුණි.
+
+සුද්දා නැමති එම පුද්ගලයා පිළිබඳව තවදුරටත් දුරකථන විශ්ලේෂණ සිදුකර ඇති අතර, එහිදී සුද්දා යන අය මාතර කොට්ඨාස අපරාධ විමර්ශන අංශයට අනුයුක්ත පොලිස් සැරයන්වරයෙකු සමග සම්බන්ධ වී ඇති බවට තොරතුරු අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/d1aa6fe9.json)
+
+---
+
+### හූති කැරලිකරුවන්ගෙන් වෙළෙඳ නෞකාවකට ප්‍රහාරයක්
+
+*2024-03-07 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194230) · `si`
+
+දකුණු යේමනයේ භාණ්ඩ ප්‍රවාහන නෞකාවකට හූති කැරලිකරුවන් එල්ල කළ මිසයිල ප්‍රහාරයකින් එම නෞකාවේ කාර්යය මණ්ඩල සාමාජිකයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඒඩ්න් බොක්ක ආශ්‍රිත මුහුදු ප්‍රදේශයේ දී බාබඩෝස් ධජය සහිත භාණ්ඩ ප්‍රවාහන නෞකාවක් ඉලක්ක කරගනිමින් කැරලිකරුවන් විසින් මෙම ප්‍රහාරය එල්ල කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එහිදී නෞකාවේ කාර්යය මණ්ඩල සාමාජිකයින් තිදෙනෙකු මියගොස් තවත් සිව් දෙනෙකු බරපතළ තුවාල ලබා තිබේ.
+
+ගාසා තීරයේ පවතින ඊශ්‍රායලය සහ හමාස් යුද ගැටුම්වල දී පලස්තීනුවන්ට සහය පළකිරීමේ අරමුණින් මෙම ප්‍රහාරය එල්ල කළ බව හූති කැරලිකරුවන් පෙන්වාදෙයි.
+
+කෙසේවෙතත් භාණ්ඩ ප්‍රවාහන නෞකාවකට හූති කැරලිකරුවන් එල්ල කළ ප්‍රහාරයකින් එහි කාර්යය මණ්ඩල සාමාජිකයින් මියගිය පළමු අවස්ථාව මෙය ලෙස සැලකේ.
+
+◼️
+
+[Data](articles/e3f4858d.json)
+
+---
+
+### ළමා අපයෝජකයින්ගේ නම් ලැයිස්තුවක් ළඟදීම
+
+*2024-03-07 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194229) · `si`
+
+ළමා ලිංගික අපයෝජන චෝදනාවන්ට වරදකරුවන් වූ පුද්ගලයින්ගේ නාමලේඛනයක් සකස් කිරීමට බලාපොරොත්තු වන බව ජාතික ළමා ආරක්ෂක අධිකාරිය පවසයි.
+
+එම අධිකාරියේ සභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය උදය කුමාර අමරසිංහ මහතා පැවසුවේ, අදාළ පුද්ගලයින්ගෙන් ළමුන්ට පවතින අවදානම පිළිබඳව සලකා බලා මෙම පියවර ගෙන ඇති බවය.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් උදය කුමාර අමරසිංහ මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/128bbec2.json)
+
+---
 
 ### Sri Lankan team lodges a complaint with third judge's decision
 
@@ -356,23 +412,29 @@ The amendments to be made in the National Education Policy Scheme and the new is
 
 ---
 
-### කොටියා : 'අපේ පර්යේෂණය අනුව ආසියාවේ වැඩිම කොටි ඝනත්වය තියෙන වනාන්තරය විල්පත්තුව'
+### Tiger: 'Wilpattu', the highest tiger density in Asia, according to our research
 
 *2024-03-07 02:17:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2yx3n4r18o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, විල්පත්තුවේ කොටි 313ක් පමණ ජීවත් වෙන බවට ගණන් බලා තිබේ.
+"Wilpattu, Sri Lanka's largest national park, boasts the highest tiger density in Asia, with an estimated 313 tigers. Recent research highlights the birth of eight calves, including a fifth female calf born to a female tiger in Maradankamaduwa. This information is based on a study conducted since 2011 by wildlife researcher Kithsiri Gunawardena."
 
-කොටියා : 'අපේ පර්යේෂණය අනුව ආසියාවේ වැඩිම කොටි ඝනත්වය තියෙන වනාන්තරය විල්පත්තුව'
+🟩
 
-ශ්‍රී ලංකාවේ විශාලම ජාතික වනෝද්‍යානය වන විල්පත්තුව ලෝකයේ ජනප්‍රිය කොටි පරාදීසයකි.
+It is not included in this. Video header is estimated that about 313 Tigers live in Wilpattu.
 
-පැටවුන් සමග සිටින කොටි ධේනුවෝ අට දෙනෙක් මේ දිනවල දක්නට ලැබෙති.
+Tiger: 'Wilpattu', the highest tiger density in Asia, according to our research
 
-''2018 අපි කළ පර්යේෂණයකට අනුව දැනට ආසියාවේ වැඩිම කොටි ඝනත්වය තියෙන වනාන්තරය විල්පත්තුව. මේ දිනවල ගැහැනු සතුන් අට දෙනෙක් පැටව් දාලා. මරදන්මඩුව ප්‍රදේශයේ පැටව් බිහි කළ ගැහැනු  සත්ත්වයා මේ පැටව් බිහි කළ පස්වැනි අවස්ථාව. මම 2011 ඉඳලා විල්පත්තුවේ කොටි ගැන පර්යේෂණ කරනවා. නමුත් මෙහෙම දෙයක් වාර්තා වූ පළවැනි අවස්ථාව මේක'' යනුවෙන් වනජීවී පර්යේෂක කිත්සිරි ගුණවර්ධන BBC සිංහල සේවයට පැවසුවේය.
+Wilpattu is a popular LTTE cadres in the world, the largest national park in Sri Lanka.
+
+Eight Tigers in the calves have seen these days.
+
+'' Wilpattu. Eight female animals have been placed these days. The fifth chance that the female sheltered female shed in Maradankamaduwa. I researched the Tigers in Wilpattu from 2011. But this was the case, "Wildlife Researchers Kithsiri Gunawardena told BBC Sinhala.
 
 ◼️
 
 [Data](articles/02bee6b8.json)
+
+[Extended Data](ext_articles/02bee6b8.ext.json)
 
 ---
 
@@ -2209,77 +2271,5 @@ We were both studied in Kingswood College to the Fifth Class. The two us in the 
 [Data](articles/22abf5d6.json)
 
 [Extended Data](ext_articles/22abf5d6.ext.json)
-
----
-
-### Sri Lanka Treasuries yields up, Rs42bn 12-month bills sold
-
-*2024-03-06 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-up-rs42bn-12-month-bills-sold-153411/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields edged up across maturities at Wednesday’s auction with the 3-month yield moving edging up 9 basis points to 9.96 percent, data from the state debt office shows.
-
-The debt office sold 64.6 billion rupees of 3-month bills after offering 64.68 billion rupees.
-
-The 6-month yield rose 13 basis points to 10.08 percent, with 60 billion rupees offered and 52.84 billion rupees.
-
-The 12-month yield rose 9 basis points to 10.14 percent with 42.47 billion rupees of bills sold after offering 60 billion rupees.
-
-All 160 billion rupees of bills offered have been sold. However data also shows that some market participants are buying bills with printed money borrowed from central bank windows.
-
-The yield curve is now sloping upwards and more 12 month bills have been sold over the past two weeks. (Colombo/Mar06/2024)
-
-◼️
-
-[Data](articles/3d2e47c3.json)
-
-[Extended Data](ext_articles/3d2e47c3.ext.json)
-
----
-
-### Sri Lanka stocks close up, LOLC Finance trade pushes turnover past 2.2bn
-
-*2024-03-06 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-lolc-finance-trade-pushes-turnover-past-2-2bn-153409/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.37 percent, or 40.07 points, at 10,881; while the S&P SL20 Index closed up 0.26 percent, or 8.05 points, at 3,100.
-
-Turnover topped 2.2 billion. Nearly half of this came from an LOLC Finance Plc trade (1bn), which market participants speculated was an internal transfer, possibly foreign selling and local buying. The share closed up at 4.80.
-
-Lanka Milk Foods (CWE) Plc also saw some activity (151mn), and the share closed up at 26.50.
-
-“There was some selling pressure in the morning but then it picked up. We see interest in the equity market returning with the low interest rates,” a market participant said.
-
-Companies contributing to the All Share Price Index in the day were Commercial Bank of Ceylon Plc (up at 90.90), Chevron Lubricants Lanka Plc (up at 106.25), and Sunshine Holdings Plc (up at 56.90).
-
-...
-
-[Data](articles/88b1585d.json)
-
-[Extended Data](ext_articles/88b1585d.ext.json)
-
----
-
-### 22-year-old nabbed with Kerala cannabis worth Rs. 1 mn
-
-*2024-03-06 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97778/22-year-old-nabbed-with-kerala-cannabis-worth-rs-1-mn) · `en`
-
-Sri Lanka Navy has apprehended a youth who was in possession of a stock of Kerala cannabis worth more than Rs. 1 million.
-
-The contraband was impounded on Tuesday (March 05) during a coordinated operation mounted by the Naval Deployment Veththalakerni in the Northern Naval Command and the Police Special Task Force (STF) in Kilinochchi.
-
-During this operation, a motorcycle was intercepted on suspicion and it was revealed that the rider was peddling about 3.96kg of Kerala cannabis. Accordingly, the suspect was taken into custody, along with Kerala cannabis and the vehicle.
-
-The gross street value of seized Kerala cannabis is believed to be over Rs. 1 million, the Navy said.
-
-The suspect held in this operation was identified as a resident of Uduththurei - North, aged 22.
-
-The accused, along with Kerala cannabis and the motorcycle, has been handed over to the Maradankerni Police for onward legal action.
-
-◼️
-
-[Data](articles/f3de07c4.json)
-
-[Extended Data](ext_articles/f3de07c4.ext.json)
 
 ---

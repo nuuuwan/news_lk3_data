@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 22:51:28**
+As of **2024-03-07 23:03:01**
 
 ## Newspaper Stats
 
-*Scraped **11,550** Articles*
+*Scraped **11,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 175
 newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
-islandlk | 612
+islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
 adaderanalk | 1,406
@@ -26,23 +26,29 @@ adaderanasinhalalk | 1,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,547 (100.0%) of 11,550 articles have been extended.
+11,550 (100.0%) of 11,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### ஹவுத்திக்களால்  தாக்கப்பட்ட கப்பலில் பணியாற்றிய இலங்கையர் ஒருவருக்கும் காயம்!
+### A Sri Lankan who served on a ship attacked by Houthis hurts
 
 *2024-03-07 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178210) · `ta`
 
-ஏடன் வளைகுடாவில் ஹவுத்தி கிளர்ச்சியாளர்களால் ஏவுகணைத் தாக்குதலுக்கு உள்ளான சரக்குக் கப்பலிலிருந்து இந்திய போர்க் கப்பலான ஐஎன்எஸ் கொல்கத்தாவால் மீட்கப்பட்ட 21 பணியாளர்களில் இரண்டு இலங்கையர்களும் உள்ளடங்குவதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+Two Sri Lankans rescued from a ship attacked by Houthis in the Gulf of Aden. One injured.
 
-மீட்கப்பட்ட இலங்கைப் பிரஜைகளில் ஒருவர் தாக்குதலில் காயமடைந்துள்ளதாக கடற்படை பேச்சாளர் கயான் விக்கிரமசூரிய மேலும் உறுதிப்படுத்தியுள்ளார்.
+🟩
+
+The Sri Lankan navy reports that two Sri Lankans are among the 21 employees rescued by the Indian warship, the Indian warship ship from the freight vessel, which was launched by Houthi insurgents in the Gulf of Aden.
+
+Navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sri Lankan citizens was injured in the attack.
 
 ◼️
 
 [Data](articles/271a625f.json)
+
+[Extended Data](ext_articles/271a625f.ext.json)
 
 ---
 
@@ -198,19 +204,27 @@ The Swedish government said separately it would take the formal decision for the
 
 ---
 
-### சாணக்கியனின் குற்றச்சாட்டுக்களை ஹன்சாட்டிலிருந்து நீக்குங்கள் ; குற்றச்சாட்டுக்களை ஊடகங்கள் மத்தியில் முன்வையுங்கள் - ரோஹித அபேகுணவர்தன சாணக்கியனுக்கு சவால்
+### Delete Chanakyan's allegations from Hansat;Prior accusation among the media - Challenge to Rohitha Abeygunawardena Chanakyan
 
 *2024-03-07 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178176) · `ta`
 
-தங்கச் சங்கிலி அறுப்பு விவகாரம் தொடர்பில் நான் சபைக்கு தெளிவுப்படுத்தியுள்ளேன். எனது பெயரை குறிப்பிட்டு சாணக்கியன் இராசமாணிக்கம் குறிப்பிட்ட பொய்யான குற்றச்சாட்டுக்களை ஹன்சாட் பதிவில் இருந்து நீக்குங்கள் என சபைக்கு தலைமை தாங்கிய பிரதி சபாநாயகர் அஜித் ராஜபக்ஷவிடம் வலியுறுத்திய ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன,பாராளுமன்ற சிறப்புரிமைகளை பயன்படுத்திக் கொண்டு குற்றச்சாட்டுக்களை முன்வைக்காமல், வெளியில் வந்து முடிந்தால் ஊடகங்கள் முன்னிலையில் குற்றச்சாட்டுக்களை முன்வைக்குமாறு பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசாணிக்கத்துக்கு சவால் விடுத்தார்.
+Chanakyan Rasamanikam urged Hansat to remove false accusations, challenging Rohitha Abeygunawardena Chanakyan's allegations. He clarified the gold chain cutting issue in Parliament, emphasizing the importance of addressing public issues over personal disputes.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (07) இடம்பெற்ற சபை ஒத்திவைப்பு விவாதத்தின் போது  ஒழுங்கு பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பாராளுமன்ற  நிலையியல் கட்டளையின் பிரகாரம்  சபையில் ஒரு உறுப்பினர் இல்லாத போது அவரை தொடர்புப்படுத்தி பேச கூடாது.  நான் சபையில் இல்லாத போது பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம்  எனது பெயரை குறிப்பிட்டு பொய்யான குற்றச்சாட்டுக்களை முன்வைத்துள்ளார்.
+I have made clear to the congregation regarding the gold chain cutting issue. Chanakyan Rasamanikam urged Deputy Speaker Ajith Rajapaksa, who urged the Hansat to remove the false accusations from the Hansat record.
+
+He was speaking on the issue of order during the adjournment debate held in Parliament on Thursday (07).
+
+According to the Parliamentary Standing Ordinance, he should not contact him when there is no member of the House.When I am not in the House, MP Chanakyan Rasamanikam has made false allegations by referring to my name.
+
+I challenge him to refer to the allegations that the parliamentary privileges refer to the congregation among the media outdoors. I have clarified in the congregation regarding the gold chain cutting issue. So go out and mention the chain cutting issue.
 
 ...
 
 [Data](articles/a7f5be73.json)
+
+[Extended Data](ext_articles/a7f5be73.ext.json)
 
 ---
 
@@ -1432,19 +1446,29 @@ The Department of Meteorology issued a new statement that heat at several places
 
 ---
 
-### புதிய மின் இணைப்புக்கான கட்டணத்தை தவணை அடிப்படையில் செலுத்த வாய்ப்பளிக்கப்படும் - காஞ்சன விஜேசேகர
+### The fee for the new power connection will be paid on the basis of installment - Kanjana Wijesekera
 
 *2024-03-07 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178166) · `ta`
 
-புதிதாக மின் இணைப்பை பெற்றுக்கொள்ளும் சேவை கட்டணத்தில் 25 சதவீதத்தை முதல் கட்டமாகவும்,மிகுதி கட்டணத்தை தவணை அடிப்படையிலும் செலுத்துவதற்கான வசதிகள் ஏற்படுத்திக் கொடுக்கப்படும். துண்டிக்கப்பட்ட மின்சாரத்தை மீள இணைக்கும் போது அறவிடப்படும் மேலதிக கட்டணம் 800 ரூபாவாக நிர்ணயிக்கப்படும் என மின்சாரத்துறை மற்றும் வலுசக்தி  அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+Kanjana Wijesekera explains new power connection fees, including installment payments and high fees for reconnections. MP H. Dharmasena questions the economic impact, highlighting the cost of power supply and the need for affordability. The Minister of Power and Energy responds, emphasizing timely payments and installment plans.
 
-பாராளுமன்றத்தில் நேற்று வியாழக்கிழமை (07)  இடம்பெற்ற அமர்வில் வாய்மூல விடைக்கான வினாக்களின் போது  பாராளுமன்ற உறுப்பினர் எச்.தர்மசேன முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மின் துண்டிக்கப்பட்டு மீள் இணைப்பு வழங்கும் போது பெற்றுக்கொள்ளப்படும் கட்டணங்கள் மின்சாரத்துறை சேவை நிர்வாக கட்டமைப்புக்கு பயன்படுத்தப்படுகிறது. இதற்கமைய 2019 ஆம் ஆண்டு மின்சார மீள் இணைப்புகள் ஊடாக சுமார் 78 இலட்சம் ரூபா வருமானமாக பெற்றுக்கொள்ளப்பட்டுள்ளன.
+The first phase of the new power connection will be provided to the first phase of the service fee for the first phase and the payment of high fees on installment.. The additional fee of Rs.
+
+In response to questions posed by MP H. Dharmasena during the query questions at the session held in Parliament yesterday (07).
+
+The fees obtained when the power cut off and re -connection is used for the power sector service management structure. Accordingly, in the year 2019, the electricity connections have been earmarked for about Rs 78 lakh.
+
+In 2023. Steps have been taken to incorporate 120 MW of electricity through the Uma Oya project.
+
+The power plant has been reduced from midnight on the 4th of last month. He said special attention has been paid to generate more electricity through the windmill, solar system and water industry by limiting the power supply through fuel and coal.
 
 ...
 
 [Data](articles/e11ba9fb.json)
+
+[Extended Data](ext_articles/e11ba9fb.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 01:50:12**
+As of **2024-03-08 02:03:02**
 
 ## Newspaper Stats
 
-*Scraped **11,571** Articles*
+*Scraped **11,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
 adaderanalk | 1,408
-virakesarilk | 1,592
+virakesarilk | 1,593
 dailymirrorlk | 1,762
 adaderanasinhalalk | 1,818
 
@@ -26,59 +26,105 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,568 (100.0%) of 11,571 articles have been extended.
+11,571 (100.0%) of 11,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தில் இலங்கையின் அர்ப்பணிப்பு பாராட்டப்பட வேண்டும் - பீட்டர் ப்ரூவர்
+### ஜனாதிபதியை கேலிச்சித்திர கலைஞர்கள் நோக்கிய விதம் “Press Vs. Prez” நூல் வௌியிடு
+
+*2024-03-08 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178216) · `ta`
+
+கடந்த காலத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வகிபாகத்தை இந்நாட்டு கேலிச்சித்திரக் கலைஞர்கள் சித்தரித்த விதத்தை பாராளுமன்ற உறுப்பினர் வஜீர அபேவர்தன “Press Vs. Prez” என்ற நூலாக வௌியிட்டார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் வியாழக்கிழமை (07) கொழும்பு நெலும் பொக்குண கலையரங்கத்தில் இந்த நூல் வௌியிடப்பட்டது.
+
+இவ்வாறான தொகுப்புகள் ஜனநாயகத்தின் ஒரு அங்கமாகும் எனவும், அதனால் நாட்டில் சுதந்திரம் நிலைநாட்டப்பட்டுள்ளமையை உறுதி செய்ய முடிந்துள்ளதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்
+
+சர்வாதிகார ஆட்சியில் இவ்வாறான படைப்புகள் ஒருபோதும் பிறக்காது என்றும், குற்றவியல் அவதூறு சட்டத்தை நீக்கியமை குறித்து பெருமையடைவதாகவும் ஜனாதிபதி மேலும் குறிப்பிட்டார்.
+
+கடந்த காலங்களில் அரசாங்கம் சிரமப்பட்டு முன்னெடுத்த வேலைத்திட்டங்களினால் நாட்டின் பொருளாதாரத்தை சாதகமான நிலைக்கு கொண்டு வர முடிந்துள்ளதாகவும், ஒரு நாடாக நாம் இக்கட்டான காலத்தின் கடைசி பகுதியில் இருக்கிறோம் என்றும்  ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/03653283.json)
+
+---
+
+### Sri Lanka's commitment to the project with the IMF -Peter Brewar
 
 *2024-03-08 01:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178215) · `ta`
 
-சர்வதேச நாணய நிதியத்துடன் இணைந்து இந்த திட்டத்தை நடைமுறைப்படுத்துவதில் இலங்கை அரசாங்கத்தின் உறுதியான அர்ப்பணிப்பைப் பாராட்டுவதாகவும், அத்தகைய அர்ப்பணிப்புக்கள் முன்னேற்றகரமான மாற்றங்களை ஏற்படுத்தும் என்றும் சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான தூதக்குழுவின் தலைவர் பீட்டர் ப்ரூவர் (Peter Breuer) தெரிவித்தார்.
+Peter Breuer, IMF Chairman, commends Sri Lanka's dedication to IMF projects, praising the government's efforts and progress. President Ranil Wickremesinghe highlights successful economic recovery plans and the importance of joint efforts with the IMF for sustainable growth.
 
-நிதி அமைச்சில் வியாழக்கிழமை (07) ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து கலந்துரையாடிய போதே அவர் இதனைத் தெரிவித்தார்.
+🟩
 
-சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தை இலங்கை உரிய முறையில் நடைமுறைப்படுத்துவதால், அதன் பிரதிபலன்களை காண முடிந்துள்ளதாகவும் பீட்டர் ப்ரூவர் சுட்டிக்காட்டினார்.
+Peter Breuer, Chairman of the International Monetary Fund, said that the Sri Lankan government praised the firm commitment to the implementation of the project in partnership with the International Monetary Fund and that such dedication would bring about progress.
 
-இலங்கையின் பொருளாதாரம் மீண்டும் வலுவடைந்துள்ளமை மகிழ்ச்சிக்குரியதென தெரிவித்த அவர் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அர்பணிப்புக்கும் பாராட்டு தெரிவித்தார்.
+He made this statement while addressing President Ranil Wickremesinghe at the Ministry of Finance on Thursday (07).
 
-இதன்போது நாட்டை பொருளாதார சரிவிலிருந்து மீட்பதற்கான அரசாங்கத்தின் திட்டம் வெற்றிகரமாக செயற்படுத்தப்பட்டு வருவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+Peter Breauver pointed out that Sri Lanka has appropriately implemented a program with the IMF.
+
+He also congratulated President Ranil Wickremesinghe's dedication of Sri Lanka's economy again.
+
+President Ranil Wickremesinghe pointed out that the government's plan to recover the country from the economic downturn is being successfully implemented.
+
+The President also pointed out that the recognition of Sri Lanka's progress is emphasizing the accepted joint effort to achieve economic growth between Sri Lanka and the International Monetary Fund.
 
 ...
 
 [Data](articles/ee0b05f6.json)
 
+[Extended Data](ext_articles/ee0b05f6.ext.json)
+
 ---
 
-### நாணய நிதியத்துடனான செயற்பாடுகளில் எதிர்க்கட்சிகளின் ஈடுபாட்டை வரவேற்கின்றேன்; திங்களன்று சகல எதிர்தரப்புக்களுடன் பேச்சு - ஜனாதிபதி
+### I welcome the involvement of the opposition parties in activities with the Monetary Fund;Talk with all the opposition on Monday - President
 
 *2024-03-08 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178214) · `ta`
 
-சர்வதேச நாணய நிதியத்துடனான செயற்பாடுகளில் எதிர்க்கட்சிகளையும் இணைத்துக் கொள்ளுமாறு ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா பாராளுமன்றத்தில் முன்வைத்த கோரிக்கை வரவேற்கத்தக்கது. அதற்கமைய எதிர்வரும் திங்கட்கிழமை சகல எதிர்க்கட்சிகளுடனும் இது தொடர்பில் கலந்துரையாடவுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe will discuss incorporating opposition parties in activities with the IMF next Monday. MP Harsha de Silva's request for opposition involvement was welcomed. A book reveals how journalists and caricaturists viewed challenging times in President Wickremesinghe's life, highlighting the economy's recovery and the country's democratic history.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வாழ்க்கையில் சவாலான காலங்களை  ஊடகவியலாளர்கள் மற்றும் கேலிச்சித்திரக் கலைஞர்கள் எவ்வாறு நோக்கினார்கள் என்பதை வெளிப்படுத்தும் வகையில் பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தனவினால் தொகுக்கப்பட்ட “Press Vs. Prez” நூல் வியாழக்கிழமை (7) கொழும்பு தாமரை தடாக கலையரங்கில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் வெளியிடப்பட்டது. இந்நிகழ்வில் உரையாற்றும் போது மேற்கண்டவாறு தெரிவித்த ஜனாதிபதி மேலும் குறிப்பிடுகையில்,
+🟩
+
+United People's Power MP Harsha de Silva's request to incorporate opposition parties in activities with the IMF. President Ranil Wickremesinghe said that he will discuss the matter with all the opposition parties next Monday.
+
+Comps vs compiled by MP Vajira Abeywardena to reveal how journalists and caricatists viewed the challenging times in the life of President Ranil Wickremesinghe. Prez "Book was published on Thursday (7) at the Lotus Gallery of Colombo under the leadership of President Ranil Wickremesinghe. Speaking at the event, the President further stated that he said.
+
+Today most people have forgotten what the situation was in 2022. I have forgotten some of them. I could not even find a place to be sworn in as an interim president on that day. In the end, I left the Chief Justice and sworn in in a Vikarai. Some people plotted to surround parliament that day. That effort was thwarted by the military. We have forgotten it today.
 
 ...
 
 [Data](articles/a1368cc1.json)
 
+[Extended Data](ext_articles/a1368cc1.ext.json)
+
 ---
 
-### கோப் குழுவின் தலைவராக ராேஹித்த அபேகுணவர்த்தன தெரிவு
+### Rahitha Abeygunawardena is the Chairman of the Cobb Group
 
 *2024-03-08 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178213) · `ta`
 
-அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழுவின்  (கோப்) தலைவராக பொதுஜன பெரமுனவின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பிளர் ரோஹித அபே குணவர்தன  தெரிவு செய்யப்பட்டுள்ளார்.
+Rahitha Abeygunawardena, Chairman of Cobb Group, and Rohitha Abe Gunawardena, MP of Kalutara District, elected Chairman of COP. Committee dissolved due to controversy. New session begins with selection held yesterday. Rohitha Abe Gunawardena elected leader. Minister of State for COP elected unanimously.
 
-அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழுவின் தலைவராக ஏற்கனவே அரச தரப்பு எம்.பி. யான  பேராசிரியர் ரஞ்சித் பண்டார இருந்த நிலையில் அவர் கிரிக்கெட் சபை சர்ச்சை மற்றும் அவருக்கு எதிரான  பாலியல் துன்புறுத்தல் குற்றச்சாட்டினால் குழுவின் நடவடிக்கைகள் ஒத்திவைக்கப்பட்டன
+🟩
 
-இந்நிலையில் 5ஆவது பாராளுமன்ற கூட்டத்தொடர் ஒத்தி வைக்கப்பட்டதால் குழு கலைக்கப்பட்டு தற்போது 5 ஆவது கூட்டத்தொடர் ஆரம்பமாயுள்ளநிலையில் குழுவுக்கான தலைவர்  தெரிவு நேற்று  வியாழக்கிழமை இடப்பெற்றது.
+Rohitha Abe Gunawardena, Member of Parliament of the Kalutara District of the PA, has been elected as the Chairman of the Committee of Government Responsibility (COP).
+
+The Committee on Government Responsibility is already the Chairman of the State MP. While Professor Ranjith Bandara was present, the committee's actions were postponed due to the controversy and the sexual harassment of him against him.
+
+In this backdrop, the committee was dissolved and the 5th session began as the 5th parliamentary session was postponed and the selection of the committee was held yesterday.
+
+Independent Opposition MP on behalf of opposition parties. Deputy Commissioner of Forum. Rohitha Abe Gunawardena Mahinda Gunawardena MP, MP of the Kalutara District of the PA on the state government, has been proposed by Dylan Perera MP. Yal proposed and proposed by the Sanjeeva enemy MP.
+
+Rohitha Abe Gunawardena MP in the vote for the chairman's election.He was elected as the leader.
 
 ...
 
 [Data](articles/3317e78a.json)
+
+[Extended Data](ext_articles/3317e78a.ext.json)
 
 ---
 
@@ -2247,21 +2293,5 @@ Parliamentarian Rohitha Abeygunawardena has been elected to the post of Chairman
 [Data](articles/4a5ddc64.json)
 
 [Extended Data](ext_articles/4a5ddc64.ext.json)
-
----
-
-### Lasantha Alagiyawanna re-elected COPA Chairman
-
-*2024-03-07 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lasantha-Alagiyawanna-re-elected-COPA-Chairman/108-278426) · `en`
-
-Parliament, March 7 (Daily Mirror)- Parliamentarian Lasantha Alagiyawanna was re-elected as the Chairman of the Committee on Public Accounts today.
-
-The members of the COPA are Mohan Priyadarshana De Silva, Prasanna Ranaweera,  K. Kader Masthan, Diana Gamage,  Chamara Sampath Dasanayake,  Vajira Abeywardana,  A.L.M. Athaullah,  Wimalaweera Dissanayake,  Jayantha Ketagoda, (Dr) Major Pradeep Undugoda,  Karunadasa Kodithuwakku,  Isuru Dodangoda,  Premnath C. Dolawatte, Muditha Prishanthi,  M.W.D. Sahan Pradeep Withana, Madhura Withanage, D. Weerasingha and Manjula Dissanayake.
-
-◼️
-
-[Data](articles/3a833b47.json)
-
-[Extended Data](ext_articles/3a833b47.ext.json)
 
 ---

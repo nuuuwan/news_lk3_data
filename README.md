@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 14:33:03**
+As of **2024-03-07 14:49:15**
 
 ## Newspaper Stats
 
-*Scraped **11,454** Articles*
+*Scraped **11,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,76 +15,188 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 967
-adaderanalk | 1,391
-tamilmirrorlk | 1,397
-virakesarilk | 1,568
-dailymirrorlk | 1,746
-adaderanasinhalalk | 1,792
+adalk | 969
+adaderanalk | 1,392
+tamilmirrorlk | 1,398
+virakesarilk | 1,569
+dailymirrorlk | 1,748
+adaderanasinhalalk | 1,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,451 (100.0%) of 11,454 articles have been extended.
+11,454 (99.9%) of 11,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### උද්ඝෝෂකයින් මෙක්සිකෝ ජනපති මැදුරට හානි කරයි
+### Lasantha Alagiyawanna re-elected COPA Chairman
+
+*2024-03-07 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lasantha-Alagiyawanna-re-elected-COPA-Chairman/108-278426) · `en`
+
+Parliament, March 7 (Daily Mirror)- Parliamentarian Lasantha Alagiyawanna was re-elected as the Chairman of the Committee on Public Accounts today.
+
+The members of the COPA are Mohan Priyadarshana De Silva, Prasanna Ranaweera,  K. Kader Masthan, Diana Gamage,  Chamara Sampath Dasanayake,  Vajira Abeywardana,  A.L.M. Athaullah,  Wimalaweera Dissanayake,  Jayantha Ketagoda, (Dr) Major Pradeep Undugoda,  Karunadasa Kodithuwakku,  Isuru Dodangoda,  Premnath C. Dolawatte, Muditha Prishanthi,  M.W.D. Sahan Pradeep Withana, Madhura Withanage, D. Weerasingha and Manjula Dissanayake.
+
+◼️
+
+[Data](articles/3a833b47.json)
+
+---
+
+### சாணக்கியன் எம். பி மீது தாக்குதல் முயற்சி
+
+*2024-03-07 14:30:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாணக்கியன்-எம்-பி-மீது-தாக்குதல்-முயற்சி/175-334336) · `ta`
+
+பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன என்னை அச்சுறுத்தியதோடு தாக்க முற்பட்டார் என சாணக்கியன் எம்.பி சபையில் தெரிவித்தார்.
+
+பிரதமர் அலுவலகம் செல்லும் வழியில் நீர் எவ்வாறு எமது நாட்டின் பிரதமரை சந்திக்கலாம் என்று கூறி தாக்க முற்பட்டார் என்றும் குறிப்பிட்டுள்ளார்.
+
+இவ்வாறான இனவாதிகள் நாட்டில் இருக்கும் வரை எவ்வாறு எமது மக்களுக்கான நீதி கிடைக்கும்? தமிழ் பாராளுமன்ற உறுப்பினர்களுக்கே உயிருக்கு உத்தரவாதம் இந்நாட்டில் இல்லை. எனது சிறப்புரிமை மீறியமைக்காக பாராளுமன்றத்தில் எனது வாக்குமூலம் பதியப்பட்டதென சாணக்கியன் எம்.பி சபையில் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/d5dd8bba.json)
+
+---
+
+### Lasantha Alagiyawanna elected new chairman of COPA
+
+*2024-03-07 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97793/lasantha-alagiyawanna-elected-new-chairman-of-copa) · `en`
+
+State Minister Lasantha Alagiyawanna has been elected as the new chairman of the Committee on Public Accounts (COPA).
+
+Meanwhile, MPs Tissa Attanayake, Kabir Hashim, Niroshan Perera, J. C. Alawathuwala, Ashok Abeysinghe, Sivagnanam Shritharan, Hector Appuhamy, M. Udayakumar, Weerasumana Weerasinghe, Dr. Harini Amarasuriya have been nominated to serve in the committee.
+
+◼️
+
+[Data](articles/1387ce90.json)
+
+---
+
+### කෝපා සභාපති ලසන්ත
+
+*2024-03-07 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194246) · `si`
+
+ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා රජයේ ගිණුම් කාරක සභාවේ (කෝපා) සභාපති ධුරයට තේරී පත්ව තිබේ.
+
+◼️
+
+[Data](articles/378ef04a.json)
+
+---
+
+### Commander inspires schoolgirl’s aviation dream at ’’Air Tattoo’’
+
+*2024-03-07 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Commander-inspires-schoolgirls-aviation-dream-at-Air-Tattoo/110-278425) · `en`
+
+The "Air Tattoo - 2024" educational and technical exhibition, held in conjunction with the 73rd anniversary of the Sri Lanka Air Force, was inaugurated yesterday at the Muttraweli Ground in Jaffna. Air Marshal Udeni Rajapaksa, Commander of the Sri Lanka Air Force presenting a symbolic aircraft souvenir to a schoolgirl, inspiring her dream of becoming an aviator.
+
+◼️
+
+[Data](articles/b2014d36.json)
+
+---
+
+### Protesters damages to Mexico President
 
 *2024-03-07 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194245) · `si`
 
-මෙක්සිකෝවේ උද්ඝෝෂකයින් පිරිසක් එරට ජනපති මැදුරේ ප්‍රධාන දොර, කැබ් රථයක් හප්පවා පෙරළා දමා තිබේ.
+Demonstrators in Mexico protesting the 2014 disappearance of 43 students were hit by a cab, leading to arrests and police using tear gas. President Manuel Lopez Obrador was present at a press conference.
 
-2014 වසරේදී සිසුන් 43ක් අතුරුදන් කිරීමේ සිද්ධියට විරෝධය දක්වමින් එම පිරිස උද්ඝෝෂණය කර තිබුණි.
+🟩
 
-සමාජ මාධ්‍යයේ සංසරණය වන වීඩියෝවක දැක්වෙන්නේ සුදු පාට කැබ් රථයක් ජනපති මැදුරේ ප්‍රධාන දොරටුවේ හප්පන බවය.
+A group of demonstrators in Mexico has been rolled by a cab, a cab.
 
-එම අවස්ථාවේ ජනාධිපති Andres Manuel Lopez Obrador එම පරිශ්‍රය තුළ දෛනික මාධ්‍ය හමුවට එක්වෙමින් සිටි බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+The group agitated against the loss of 43 students in 2014.
 
-උද්ඝෝෂකයින් පාලනය සඳහා පොලීසිය විසින් කඳුළු ගෑස් ප්‍රහාර එල්ලකළ බවත් ජනපති මැදුර තුළට උද්ඝෝෂකයින් පැමිණීම වැළැක්වීමට ආරක්ෂක බාධක ස්ථාපනය කළ බවත් වාර්තා වෙයි.
+A video circulation of social media shows that a white cab is hit by the main door of the President.
 
-මෙම විරෝධතාවය සඳහා 100ක පමණ පිරිසක් එක්වී ඇති අතර ජනපති මැදුරට හානිකළ පිරිස අත්අඩංගුවට ගත් බවත් සඳහන් ය.
+According to foreign media reports, the president's manuel lopez obtakor was participating in the daily press conference.
+
+It is reported that the police had tear gas to control the protesters and that security barriers were established to prevent protesters from the president.
+
+About 100 people have been arrested for this protest and the damaged by the President was arrested.
 
 ◼️
 
 [Data](articles/e76af0ca.json)
 
+[Extended Data](ext_articles/e76af0ca.ext.json)
+
 ---
 
-### ව්‍යාජ වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන ගිය පුද්ගලයෙක් අත්අඩංගුවට
+### மெக்ஸிக்கோ பல்கலைக்கழகத்தில் கத்திக்குத்து : இரு பெண்கள் பலி
+
+*2024-03-07 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178168) · `ta`
+
+20 வயதான ஓர் இளைஞனே தாக்குதல் நடத்தியதாகவும், அவ்விளைஞனும் இச்சம்பவத்தில காயமடைந்ததாகவும் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a1898a27.json)
+
+---
+
+### Man arrested for running a fake medical center
 
 *2024-03-07 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194244) · `si`
 
-වෛද්‍යවරයෙකු ලෙස පෙනී සිටිමින් බියගම, බණ්ඩාරවත්ත ප්‍රදේශයේ නීතිවිරෝධී ලෙස වෛද්‍ය මධ්‍යස්ථානයක් පවත්වාගෙන ගිය පුද්ගලයෙකු බියගම පොලීසිය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+A 66-year-old man was arrested for running an illegal medical center in Biyagama, Bandarawatta. He was a doctor, and his son, a registered doctor, registered the center in 2017. The son, who was abroad in July 2023, used his father's name to operate the center.
 
-66 හැවිරිදි එම ප්‍රදේශයේම පදිංචිකරුවෙකු වන අදාළ පුද්ගලයා වෛද්‍යවරයෙකු වන සිය පුත්‍රයාගේ නම ව්‍යාජ ලෙස භාවිත කරමින් මෙම වෛද්‍ය ප්‍රතිකාර මධ්‍යස්ථානය පවත්වාගෙන ගොස් ඇති බව පොලීසිය පැවසුවේය.
+🟩
 
-සැකකරුගේ පුත්‍රයා ලියාපදිංචි වෛද්‍යවරයෙකු වන අතර ඔහු විසින් 2017 වසරේ දී අදාළ වෛද්‍ය මධ්‍යස්ථානය ලියාපදිංචි කර ඇති බව සඳහන්ය.
+The Biyagama Police have arrested a person who was illegally running a medical medical center in Bandarawatta, Biyagama.
 
-2023 වසරේ ජුලි මාසයේ දී ඔහු විදෙස්ගත වී ඇති අතර අනතුරුව ඔහුගේ පියා විසින් සිය පුත්‍රයාගේ නම ව්‍යාජ ලෙස භාවිතා කරමින් වෛද්‍යවරයෙකු ලෙස පෙනී සිට අදාළ වෛද්‍ය මධ්‍යස්ථානය පවත්වාගෙන ගොස් තිබේ.
+The 66-year-old resident of the same area, the man who was a doctor, has been conducting the medical treatment, police said.
+
+The suspect's son is a registered doctor and he has registered the relevant Medical Center in 2017.
+
+In July, 2023, he was abroad and followed the relevant Medical Center with his father, falsely used his father's name.
 
 ◼️
 
 [Data](articles/7dbacd0d.json)
 
+[Extended Data](ext_articles/7dbacd0d.ext.json)
+
 ---
 
-### புதிய மின் இணைப்பு குறித்து வெளியான அறிவிப்பு
+### Notice of new power connection
 
 *2024-03-07 13:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-மின்-இணைப்பு-குறித்து-வெளியான-அறிவிப்பு/175-334334) · `ta`
 
-புதிய மின் இணைப்பைப் பெற்றுக் கொள்ளும் போது தவணை முறையில் பணம் செலுத்தும் வாய்ப்பு உள்ளதாக மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Minister Kanjana Wijesekera announced a new power supply to be paid in installments, with 25% of the cost paid upfront and the rest in 10 or 12 installments.
 
-பாராளுமன்ற உறுப்பினர் எச்.எம்.தர்மசேன எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே அவர் இதனைக் கூறியுள்ளார்.
+🟩
 
-மின் இணைப்புக்கான கட்டணத்தில் 25 சதவீத தொகையை மட்டும் செலுத்திவிட்டு, மீதமுள்ள தொகையை 10 அல்லது 12 தவணைகளில் செலுத்தும் வசதியை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+Minister of Power and Energy Kanjana Wijesekera said that the new power supply is likely to be paid in installments.
+
+He was responding to a question raised by MP HM Dharmasena.
+
+He added that steps have been taken to introduce the remaining amount of money in 10 or 12 installments, paying only 25 per cent of the cost of power connection.
 
 ◼️
 
 [Data](articles/a8820df3.json)
+
+[Extended Data](ext_articles/a8820df3.ext.json)
+
+---
+
+### ඉහළ වත්කම් ඇති අය ගැන සමීප නිරීක්ෂණයක්
+
+*2024-03-07 13:51:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-වත්කම්-ඇති-අය-ගැන-සමීප-නිරීක්ෂණයක්/11-408474) · `si`
+
+ඉතා ඉහළ වත්කම් සහිත් පුද්ගලයන්ගේ බදු අනුකූලතාවනය පිළිබඳව ඉදිරියේදි වඩා සමීප ලෙස අවධානය යොමු කිරීමට දේශීය ආදායම් දෙපාර්තමේන්තුව බලාපොරොත්තු වන බව එම දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+ඉහළ ආදායම් ලබන සහ ඉහළ වත්කම් සහිත පුද්ගලයන් සම්බන්ධ අධීක්ෂණයක් කිරීම ඳහා විශාල බදු ගෙවන්නන්ගේ කාර්යාලය යටතේ පිහිටුවා ඇති ඉහළ වත්කම් සහිත පුද්ගල අංශය වෙත අතිරේන නිලධාරීන් යෙදවීමටත් තාක්ෂණික පහසුකම් ලබාදිමටත් කටයුතු කර ඇතැයි එම දෙපාර්තමේන්තුව නිවෙදනයක් නිකුත්කරමින් පවසයි.
+
+◼️
+
+[Data](articles/1cc770b7.json)
 
 ---
 
@@ -279,6 +391,20 @@ Minister of Power and Energy, Kanchana Wijesekara, speaking to the occasion.
 [Data](articles/2098198a.json)
 
 [Extended Data](ext_articles/2098198a.ext.json)
+
+---
+
+### එන්ජින් ධාරිතාව 450 සීසී  වැඩි යතුරු පැදි ලියාපදිංචියට සලකා බලයි
+
+*2024-03-07 12:56:02* · [`adalk`](https://www.ada.lk/breaking_news/එන්ජින්-ධාරිතාව-450-සීසී--වැඩි-යතුරු-පැදි-ලියාපදිංචියට-සලකා-බලයි/11-408471) · `si`
+
+එන්ජින් ධාරිතාව 450 සීසී කාණ්ඩයට වැඩි යතුරුපැදි නීත්‍යනුකූල ලියාපදිංචියට අවසර දීමට රජයේ අවධානය යොමුව තිබෙන බව වාර්තා වනවා.
+
+එන්ජින් ධාරිතාව 450 සිසී කාණ්ඩයට වැඩි යතුරු පැදි ලියාපදිංචියට අවසර ලබා දෙන ලෙස යෝජනා කරමින් පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන විසින් ඊයේ පාර්ලිමේන්තුවට කල් තැබීමේ යෝජනාවක්ගෙන රැගෙන එනු ලැබුවා. ඊට ප්‍රතිචාර දක්වමින් සභානායක අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා ප්‍රකාශකර සිටියේ ප්‍රවාහන අමාත්‍යංශය සහ මහජන ආරක්ෂක අමාත්‍යංශය එක්ව ඉදිරියේදී මේ සම්බන්ඳව කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කිරීමට නියමිත බවයි.
+
+◼️
+
+[Data](articles/57d5fc3e.json)
 
 ---
 
@@ -2181,185 +2307,5 @@ Shantan, who was suffering from cancer, died. This is the natural death. Do not 
 [Data](articles/80b1ceab.json)
 
 [Extended Data](ext_articles/80b1ceab.ext.json)
-
----
-
-### Controversy in the congregation
-
-*2024-03-07 01:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-அதிகரிப்பால்-சபையில்-சர்ச்சை/175-334309) · `ta`
-
-Opposition members in the House criticized the prime minister for a salary increase for central bank employees, leading to controversy. The Governor of the Central Bank was accused of attending a party leader's meeting on the issue. The debate was sparked by Marikar MP's demand for a detailed response. Harsha de Silva, the chairman of the committee, called for a resolution. The Governor of the Central Bank admitted a shortage and defended the central bank's independence.
-
-🟩
-
-The controversy in the House on Wednesday (06) was raised by opposition members to the prime minister over the salary increase of central bank employees.
-
-The controversy caused controversy over the frequent interference of the ruling party members when the opposition expressed dissatisfaction.
-
-Opposition parties have accused the central bank's governor, including the Governor of the Central Bank, to the party leader's meeting on the salary increase of the central bank employees.
-
-During the Prime Minister's Question Time after the Parliament was headed by the Speaker, opposition members questioned the salary increase of central bank employees.
-
-In response, the controversy arose after the Marikar MP said that he was expecting a detailed response.
-
-The Governor of the Central Bank should ask his conscience whether the salary increased amid economic impact. The entire population criticizes the central bank.
-
-...
-
-[Data](articles/4d885f75.json)
-
-[Extended Data](ext_articles/4d885f75.ext.json)
-
----
-
-### This program to strengthen Sri Lanka -American people
-
-*2024-03-07 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178127) · `ta`
-
-US Peace COPS volunteers, sponsored by the US government, have been sworn in for two years to serve in Sri Lanka, focusing on social work and education in disadvantaged areas. This marks the first time since 1962 that Piece Cops volunteers have been introduced in Sri Lanka. Education Minister Susil Premajayantha expressed hope for improved English skills among the younger generation through this program. US High Commissioner Julie Sung highlighted the long-standing cooperation between the US and Sri Lanka, thanking the volunteers for their contributions to Sri Lanka's development.
-
-🟩
-
-Volunteers of American Piece Copes volunteers, who have come to carry out social work, including teaching in the backward areas of Sri Lanka, have been sworn in on Wednesday (6), confirming their dedicated service for the next two years.
-
-The event will be introduced by volunteers in Sri Lanka for two years through the US Peace COPS and their swearing -in ceremony was held on Wednesday (6) at the Bandaranaike Memorial International Conference Hall in Colombo.
-
-'Piece Cops' is a welfare organization sponsored by the US government. Through this organization, US volunteers are united and sent to over 60 countries to serve communities.Volunteers who do so will work in social work, including teaching in schools in disadvantaged areas, implementing priority programs, establishing interconnections, sharing culture and knowledge, and helping future generations.
-
-...
-
-[Data](articles/d4ace5cf.json)
-
-[Extended Data](ext_articles/d4ace5cf.ext.json)
-
----
-
-### The call for Anuragumara is not extraordinary;Similar to the usual call for Sri Lankan leaders - Indian High Commissioner
-
-*2024-03-07 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178126) · `ta`
-
-The Indian High Commissioner Santosh Ja stated that the call to Anura Kumara Dissanayake, a Sri Lankan leader, is routine, similar to calls for key figures from other countries. Dissanayake visited India for talks with Indian officials, part of a delegation led by him. Santosh Ja also mentioned that other candidates for Sri Lanka's presidential election have visited India before, and the country will welcome them again.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja said that the recent call to Anura Kumara Dissanayake, the leader of the National People's Power and Member of Parliament, is similar to the routine call for key figures from other countries.
-
-As the presidential election is expected to be held later this year, a delegation led by National People's Power Leader and Member of Parliament Anura Kumara Dissanayake made a five -day official visit to India in the beginning last month.. During the call of the Government of India, a delegation led by Anuragumara Dissanayake held talks with Indian External Affairs Minister S. Jaishankar, India's National Security Advisor and Gujarat Chief Minister Bhubendra Patel.
-
-In response to a question raised by a media regarding this, Indian High Commissioner Santosh Ja said the above.
-
-...
-
-[Data](articles/8bf62d60.json)
-
-[Extended Data](ext_articles/8bf62d60.ext.json)
-
----
-
-### Exploration of the middle people
-
-*2024-03-07 01:26:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடுத்தர-மக்களை-சுரண்டி-பிழைக்கிறார்கள்/175-334308) · `ta`
-
-Middle class exploited by retailers and wholesalers. MP Patali Champika Ranawaka criticizes Consumer Affairs Authority. Tax amendment bill debate highlights government's tax revenue expectations and issues with tax collection.
-
-🟩
-
-Large onions imported for 92 rupees, including taxes, are sold for 365 rupees in a kilogram market. Potatoes imported for 110 rupees are sold for 203 rupees. Retail and wholesalers are exploiting the middle class.Opposition MP Patali Champika Ranawaka accused the Consumer Affairs Authority of being unrelated to the Consumer Affairs Authority and the market.
-
-Speaking at the debate on the amendment of the Tax Amendment Bill on Wednesday (06) in Parliament, he said.
-
-The government is expecting to get 400 billion rupees through the tax increase from January 1, 2024.. The National Revenue Department has not charged 956 billion rupees tax revenues.
-
-Two liquor manufacturers did not pay 70 per cent of the tax. The Companies have paid taxes following the recommendation of the Parliamentary Route to cancel the permits of these companies.
-
-◼️
-
-[Data](articles/8ca3d039.json)
-
-[Extended Data](ext_articles/8ca3d039.ext.json)
-
----
-
-### International Gita Festival held in Colombo, Sri Lanka
-
-*2024-03-07 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178125) · `ta`
-
-The 5th International Gita Festival in Colombo, Sri Lanka, from 04th March 2024, united over 30 religious institutions. It featured nearly a thousand artists and was visited by dignitaries including the Prime Minister of Sri Lanka and the High Commissioner of India. The festival included a discussion on the Gita's themes of peace and unity, with experts from around the world participating.
-
-🟩
-
-The four -day International Gita Festival was held in Colombo, Colombo, Sri Lanka from 04th March 2024 and the Hon.
-
-The Kurukshetra Development Board of Haryana, the Ministry of Buddhist Religious and Cultural Affairs of Sri Lanka, and the Cultural Division of the Indian High Commission in Colombo, Swami Vivekananda Cultural Center, organized the 5th International Festival in Sri Lanka with the unification of more than 30 religious and social institutions in Sri Lanka.
-
-As a part of the event, nearly a thousand artists, including volunteers of Iskcon, Ramakrishna Mission and Mayurapathi Sri Padrakali Temple, performed various rivers, including the pilgrimage to Vikramagadevi Park, Colombo.. Dinesh Gunawardena, Prime Minister of Sri Lanka and Hon.. Bandula Gunawardena and Hon.. Vidura Wickramanayake, High Commissioner Santosh Ja and Indians from India visited the pilgrimage.
-
-...
-
-[Data](articles/41a5078a.json)
-
-[Extended Data](ext_articles/41a5078a.ext.json)
-
----
-
-### EFL 3PL expands operations in India with launch of flagship distribution centre in Mumbai
-
-*2024-03-07 01:10:33* · [`dailyftlk`](https://www.ft.lk/business/EFL-3PL-expands-operations-in-India-with-launch-of-flagship-distribution-centre-in-Mumbai/34-759241) · `en`
-
-EFL 3PL India Team with EFL Global Team at the Brand Launch DC Opening Ceremony
-
-EFL Global’s Founder/President Hanif Yusoof (right) and Global CEO Senthilnathan Shanmugam unveiling the plaque
-
-Spread across 175,000 sq ft, the company has invested $ 5 m in establishing the state of the art Grade ‘A’ warehousing facility
-
-EFL 3PL, a subsidiary of EFL Global yesterday announced the launch of its flagship Grade A warehousing facility in the vibrant Bhiwandi region of Mumbai.
-
-This strategic expansion, with an investment of $ 5 million, marks a significant milestone in EFL 3PL’s commitment to enhancing its presence in India and solidifying its position as a leader in end-to-end logistics solutions and supply chain management.
-
-...
-
-[Data](articles/e5edfded.json)
-
-[Extended Data](ext_articles/e5edfded.ext.json)
-
----
-
-### Kapruka breaks boundaries with ‘Partner Central’
-
-*2024-03-07 01:07:56* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-breaks-boundaries-with-Partner-Central/34-759240) · `en`
-
-Kapruka.com, Sri Lanka’s leading e-commerce website launched the ‘Kapruka Partner Central’ which provides an enhanced platform for partners to showcase their products and connect with a global audience on 29 February 2024.
-
-The event to launch the platform, which will mark a new era of empowerment and opportunity for partners across the digital space, was held at the Lotus Tower, Colombo.
-
-...
-
-[Data](articles/651682f9.json)
-
-[Extended Data](ext_articles/651682f9.ext.json)
-
----
-
-### The pathway is sure to win
-
-*2024-03-07 01:03:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதை-வெற்றி-உறுதியாகிறது/175-334307) · `ta`
-
-President Ranil Wickremesinghe emphasized the strengthening of the country's economy through government programs, aiming for more relief for the people. He criticized political groups for focusing on power rather than solutions, and highlighted the importance of gradual, science-based activities. He also addressed criticisms of increased tax burdens and unnecessary cost increases, urging the nation to decide on the path forward.
-
-🟩
-
-President Ranil Wickremesinghe said that the economy of the country is strengthened as a result of the government's programs and is looking forward to getting more relief to the people in the future.
-
-He said that all those activities are being carried out gradually in accordance with science and that he has never been lying for power and is to restore the country rather than power.
-
-President Ranil Wickremesinghe said this in a special speech delivered in Parliament on Wednesday (06).
-
-The president pointed out that some political groups have forgotten the reality and say that they are aimed at gaining power, and that there are no retail solutions to the problems of the country today, and that the basic economists know that such solutions cannot restore the country's economy.
-
-...
-
-[Data](articles/41bc4ee2.json)
-
-[Extended Data](ext_articles/41bc4ee2.ext.json)
 
 ---

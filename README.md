@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 15:02:50**
+As of **2024-03-07 15:17:38**
 
 ## Newspaper Stats
 
-*Scraped **11,464** Articles*
+*Scraped **11,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,72 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 969
+adalk | 970
 adaderanalk | 1,393
 tamilmirrorlk | 1,398
 virakesarilk | 1,569
 dailymirrorlk | 1,748
-adaderanasinhalalk | 1,794
+adaderanasinhalalk | 1,796
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,462 (100.0%) of 11,464 articles have been extended.
+11,464 (100.0%) of 11,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### රෝහිත කෝප් සභාපති ධුරයට
+### අයිස් කිලෝ 3ක් සමග දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-03-07 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194249) · `si`
+
+අයිස් මත්ද්‍රව්‍ය කිලෝ 3කට අධික ප්‍රමාණයක් සමග සැකකරුවන් දෙදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ වයස අවුරුදු 27 සහ 31 හැවිරිදි වියේ පසුවන සේදවත්ත සහ මට්ටකුලිය ප්‍රදේශවල පදිංචිකරුවන් දෙදෙනෙකි.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයට ලද තොරතුරකට අනුව මෙම වැටලීම සිදුකර ඇත.
+
+වත්තල පොලිස් වසමේ හැඳල ඇළකන්ද ප්‍රදේශයේදී මෙම සැකකරුවන් සහ අයිස් මත්ද්‍රව්‍ය තොගය පොලීසිය සිය භාරයට ගෙන ඇත.
+
+එහිදී සැකකරුවන් සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ 03යි ග්‍රෑම් 336ක් පොලීසිය සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/1a3eaf4a.json)
+
+---
+
+### රෝහිත මට පහරදෙන්න ආවා - ෂානක්කියන්
+
+*2024-03-07 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194248) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන් දෙදෙනෙක් අතර පාර්ලිමේන්තුවේ අගමැති කාර්යාලය තුළ ගැටුමක් ඇතිවීමට ගොස් තිබේ.
+
+අද (07) පාර්ලිමේන්තු සභා ගර්භයේදී ඉලංකෙයි තමිල් අරසු කච්චි පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී ෂානක්කියන් රාසමාණික්කම් මහතා සඳහන් කළේ පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා එලෙස තමාට පහරදීමට උත්සාහ කළ බවය.
+
+◼️
+
+[Data](articles/0d0b1e2e.json)
+
+---
+
+### Rohitha becomes chairman
 
 *2024-03-07 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194247) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප් කමිටුවේ) සභාපති ධුරයට තේරී පත්ව තිබේ.
+Rohitha Abeygunawardena elected Chairman of COPE Committee.
+
+🟩
+
+Parliamentarian Rohitha Abeygunawardena has been elected to the post of Chairman of the Committee (COPE) of the Committee.
 
 ◼️
 
 [Data](articles/4a5ddc64.json)
+
+[Extended Data](ext_articles/4a5ddc64.ext.json)
 
 ---
 
@@ -111,6 +151,8 @@ Meanwhile, MP Rohitha Abeygunawardena has been elected the chairman of the Commi
 ◼️
 
 [Data](articles/8642909c.json)
+
+[Extended Data](ext_articles/8642909c.ext.json)
 
 ---
 
@@ -189,6 +231,22 @@ Officials said a 20 -year -old man had attacked and the victim was also injured 
 [Data](articles/a1898a27.json)
 
 [Extended Data](ext_articles/a1898a27.ext.json)
+
+---
+
+### ජනපති දුන් පොරොන්දුවක් මල්වා‌නේ අල් මුබාරක්ට  මල්ඵළ ගනියි
+
+*2024-03-07 14:13:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-දුන්-පොරොන්දුවක්-මල්වා‌නේ-අල්-මුබාරක්ට--මල්ඵළ-ගනියි/11-408475) · `si`
+
+මල්වාන, අල් මුබාරක් මධ්‍ය මහා විද්‍යාලයට සියවසක් සපිරීම නිමිත්තෙන් පසුගිය වසරේ සැප්තැම්බර් 06 වනදා විද්‍යාලයේ පැවති උත්සවයට එක් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී දරුවන්ට ලබා දුන් පොරොන්දුව අනුව විද්‍යාලයේ අංග සම්පුර්ණ ශ්‍රවණාගාරයක් ඉදිකිරීම සඳහා මුල්ගල් තැබීම දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතාගේ සහභාගිත්වයෙන් ඊයේ (06) දා සිදු විය.
+
+ජනාධිපතිවරයාගේ උපදෙස් අනුව මෙම ශ්‍රවණාගාරය ඉදිකිරීම සඳහා කඩිනමින් ප්‍රතිපාදන වෙන් කෙරුණු අතර එකවර සිසුන් 5000කට පමණ එක්රැස් විය හැකි සියලු පහසුකම්වලින් සමන්විතව මෙම නව ශ්‍රවණාගාරය ඉදි කිරීමට නියමිතය.
+
+නව ශ්‍රවණාගාරයට මුල්ගල් තැබීම වෙනුවෙන් විද්‍යාලයේ පැවති උත්සවයේ දි අදහස් දැක්වූ රුවන් විජේවර්ධන මහතා සඳහන් කළේ නාවික හමුදාවේ ශ්‍රම දායකත්වය ලබා ගනිමින් ශ්‍රවණාගාරයේ ඉදිකිරීම් කඩිනමින් නිමකර, සිසු අයිතියට පවරා දීමට කටයුතු කරන බවයි.
+
+◼️
+
+[Data](articles/e202925c.json)
 
 ---
 
@@ -2267,61 +2325,5 @@ Prof. Sivasubramaniam Raghuram, the Faculty of Arts and Faculty of Hindu Studies
 [Data](articles/3d095e0f.json)
 
 [Extended Data](ext_articles/3d095e0f.ext.json)
-
----
-
-### Inaugural IMRA Awards honours outstanding achievements of Muslim women and others
-
-*2024-03-07 01:59:47* · [`dailyftlk`](https://www.ft.lk/front-page/Inaugural-IMRA-Awards-honours-outstanding-achievements-of-Muslim-women-and-others/44-759245) · `en`
-
-From left: Saarah Deen Ismail, Yasmin Cader, Rezani Aziz, Chief Guest Deshamanya Radhika Coomaraswamy, Shahnasz Hakeem, Feroza Ameen, Dr. Shemoon Marleen, Farzana Jameel, Ferial Ashroff, Juwairiya Mohideen, Neetha Dhammachari Ariyaratne, Anushya Coomaraswamy, and Fathima Aziz
-
-The All Ceylon Muslim Women’s Association (ACMWA), a venerable organisation with a 71-year legacy, proudly hosted the inaugural IMRA Awards to recognise the exceptional accomplishments of Muslim women in Sri Lanka.
-
-Held on 3 March at the prestigious Shangri-La Colombo, this landmark event coincided with the upcoming International Women’s Day and showcased the remarkable achievements of strong, visionary women from the community.
-
-...
-
-[Data](articles/c53153a4.json)
-
-[Extended Data](ext_articles/c53153a4.ext.json)
-
----
-
-### Inaugural IMRA Awards honours outstanding achievements of Muslim women and others
-
-*2024-03-07 01:59:47* · [`dailyftlk`](https://www.ft.lk/news/Inaugural-IMRA-Awards-honours-outstanding-achievements-of-Muslim-women-and-others/56-759245) · `en`
-
-From left: Saarah Deen Ismail, Yasmin Cader, Rezani Aziz, Chief Guest Deshamanya Radhika Coomaraswamy, Shahnasz Hakeem, Feroza Ameen, Dr. Shemoon Marleen, Farzana Jameel, Ferial Ashroff, Juwairiya Mohideen, Neetha Dhammachari Ariyaratne, Anushya Coomaraswamy, and Fathima Aziz
-
-The All Ceylon Muslim Women’s Association (ACMWA), a venerable organisation with a 71-year legacy, proudly hosted the inaugural IMRA Awards to recognise the exceptional accomplishments of Muslim women in Sri Lanka.
-
-Held on 3 March at the prestigious Shangri-La Colombo, this landmark event coincided with the upcoming International Women’s Day and showcased the remarkable achievements of strong, visionary women from the community.
-
-...
-
-[Data](articles/feeff466.json)
-
-[Extended Data](ext_articles/feeff466.ext.json)
-
----
-
-### USAID empowers women entrepreneurs to drive economic growth in Sri Lanka
-
-*2024-03-07 01:52:11* · [`dailyftlk`](https://www.ft.lk/news/USAID-empowers-women-entrepreneurs-to-drive-economic-growth-in-Sri-Lanka/56-759244) · `en`
-
-One of the forty women entrepreneurs who completed the year-long USAID and WDF training and mentorship program receives her certificate from USAID Sri Lanka and Maldives Economic Growth Deputy Director Dennis Wesner
-
-USAID officials chat with women entrepreneurs supported by a USAID and WDF training and mentorship program in Weerawila
-
-An entrepreneur smiles following a certificate award ceremony upon completion of a year-long USAID and WDF training and mentorship program
-
-The United States Agency for International Development (USAID) and the Women’s Development Federation (WDF) marked the successful culmination of the “Capacity Building Program on Trade and Market Access for Women Entrepreneurs” by honouring forty resilient women entrepreneurs from Sri Lanka’s Southern districts, including Hambantota, Galle, Matara, and Monaragala, at a ceremony in Weerawila.
-
-...
-
-[Data](articles/492a8145.json)
-
-[Extended Data](ext_articles/492a8145.ext.json)
 
 ---

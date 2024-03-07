@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 16:17:30**
+As of **2024-03-07 16:33:15**
 
 ## Newspaper Stats
 
-*Scraped **11,484** Articles*
+*Scraped **11,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,119 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 972
-adaderanalk | 1,395
+adaderanalk | 1,396
 tamilmirrorlk | 1,401
 virakesarilk | 1,572
-dailymirrorlk | 1,749
-adaderanasinhalalk | 1,801
+dailymirrorlk | 1,750
+adaderanasinhalalk | 1,803
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,483 (100.0%) of 11,484 articles have been extended.
+11,484 (100.0%) of 11,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### ரோஹித அபேகுணவர்தன அச்சுறுத்தல் விடுத்து தாக்க முற்பட்டார் ; சிறப்புரிமை குழு ஊடாக விசாரணை செய்யுங்கள் - சாணக்கியன்
+### කුඩු සළිඳු සහ හරක් කටා නිරීක්ෂණයට කොටුව මහෙස්ත්‍රාත් CID යයි
+
+*2024-03-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194257) · `si`
+
+රැඳවුම් නියෝග මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා සිටින සෙල්ලප්පෙරුමගේ සළිඳු ගුණරත්න නොහොත් කුඩු සළිඳු සහ වික්‍රමරත්න නදුන් චින්තක නොහොත් හරක් කටා ඇතුළු සැකකරුවන් නිරීක්ෂණය කිරීමට කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (07) පස්වරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ගියේය.
+
+සැකකරුවන් නිරීක්ෂණය කරන අවස්ථාවේදී කීමට යමක් ඇති බව පවසමින්, රැඳවුම් නියෝග අවසන් බැවින් අධිකරණයට ඉදිරිපත් කරන ලෙස හරක් කටා සහ කුඩු සළිඳු මහෙස්ත්‍රාත්වරයාගෙන් ඉල්ලීමක් කර තිබේ.
+
+එහිදී රැඳවුම් නියෝග අවසන් සැකකරුවන් අධිකරණයට ඉදිරිපත් කරන ලෙසත් පිටතට සැකකරුවන් රැගෙන යන අවස්ථාවලදී අධිකරණය දැනුවත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාට නියෝග කර ඇති අතර පිටතට රැගෙන යන අවස්ථාවලදී නීතිඥ සහායක් ලබා දෙන ලෙසටද දැනුම් දී ඇත.
+
+සැකකරුවන් රඳවා සිටින ස්ථානවල සීසීටීවි කැමරා 4න් එකක් සැකකරුවන් ආවරණය වන පරිදි යොදවා ඇති බවත් එම කැමරා ක්‍රියාකාරී තත්තවයේ ඇති බවත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ස්ථානාධිපතිවරයා මහෙස්ත්‍රාත්වරයා හමුවේ දැනුම් දුනි.
+
+...
+
+[Data](articles/618d94f6.json)
+
+---
+
+### CSE’s All Share Price Index crosses 11,000-point mark
+
+*2024-03-07 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97796/cses-all-share-price-index-crosses-11000-point-mark) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) surpassed 11,000 points today (March 07) for the first time since October 05, 2023.
+
+The ASPI closed at 11,045.90 points at the end of trading today, marking an increase of 1.51% (164.18 points) from the previous day.
+
+Meanwhile, the S&P SL20 closed at 3,147.45 points today, up by 1.52% (47.15 points) from the previous day.
+
+More than 160 million shares were traded overall within the day and the market turnover topped Rs. 2.63 billion.
+
+◼️
+
+[Data](articles/42a80398.json)
+
+---
+
+### ප්‍රතිඵල ලැබෙමින් පවතින බව IMF කියයි
+
+*2024-03-07 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194256) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල මෙරට තුළ ක්‍රියාත්මක කර ඇති වැඩසටහනේ ප්‍රතිඵල ලැබෙමින් පවතින බව මෙරට සාකච්ඡාවක් සඳහා පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ කණ්ඩායම් ප්‍රධානී පීටර් බෘෘවර් පවසයි.
+
+එම වැඩසටහන සාර්ථකව ක්‍රියාත්මක කිරීමට බලධාරීන් කැපවී සිටීම වැදගත් බවද ඔහු පවසා තිබේ.
+
+ඒ හේතුවෙන් ආර්ථිකය නැවතත් වර්ධනය වෙමින් පවතින බවද ඔහු තවදුරටත් පෙන්වාදී ඇත.
+
+බෘෘවර් මේ බව පවසා ඇත්තේ අද (07) උදෑසන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ කණ්ඩායම අතර මුදල් අමාත්‍යාංශයේ පැවැති සාකච්ඡාවේදී ය.
+
+◼️
+
+[Data](articles/31cbdf07.json)
+
+---
+
+### Rohitha Abeygunawardena sought to attack;Investigate through the Private Committee - Chanakyan
 
 *2024-03-07 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178182) · `ta`
 
-பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன பிரதமர் அலுவலகத்தில் வைத்து எனக்கு அச்சுறுத்தல் விடுத்து, தாக்குவதற்கு முற்பட்டார். இவரது செயற்பாடுகளினால் எனது உயிருக்கு அச்சுறுத்தல் காணப்படுகிறது. ஆகவே இச்சம்பவம் தொடர்பில் சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை முன்னெடுங்கள் என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம்  பிரதி சபாநாயகரிடம் வலியுறுத்தினார்.
+Rohitha Abeygunawardena threatened MP Chanakyan Rasamanikam at the Prime Minister's Office, leading to a call for investigation by the TNA parliamentarian. The incident, involving improper behavior and threats, has raised concerns about the safety and rights of Tamil members in Parliament.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (07) இடம்பெற்ற சபை ஒத்திவைப்பு விவாதத்தில்  ஒழுங்கு பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
+
+Parliamentarian Rohitha Abeygunawardena threatened me at the Prime Minister's Office and sought to attack. My life is threatened by his actions. The Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam urged the Deputy Speaker to investigate the incident through privilege and disciplinary committee.
+
+He was speaking at the adjournment debate held in Parliament on Thursday (07).
+
+When I visited the Prime Minister's Office in Parliament, MP Rohitha Abeygunawardena said, "Why have you come to meet our Prime Minister?". In the meantime he threatened me and tried to attack. Servants of the Prime Minister's Office, Minister of State for the Minister. Member of Parliament Rohitha Abeygunawardena behaved improperly. Our Prime Minister referred to as our Prime Minister and said, 'What do you say?'. I can do the same. We must act with morality.
 
 ...
 
 [Data](articles/e97f9b99.json)
+
+[Extended Data](ext_articles/e97f9b99.ext.json)
+
+---
+
+### Special trains on main, nothern lines during long weekend
+
+*2024-03-07 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-trains-on-main-nothern-lines-during-long-weekend/108-278428) · `en`
+
+Colombo, March 6 (Daily Mirror) - The Railways Department has assigned special train services on the main line and the northern line to facilitate the movements of commuters during the upcoming long weekend.
+
+They said one train is scheduled to leave for Badulla from Colombo Fort at 7.30 a.m. on Friday (8).
+
+On March 10, a train is scheduled to leave for Colombo Fort from Badulla at 745 a.m.
+
+Another train service will operate from Colombo Fort to Badulla at 7.30 p.m. on March 7, 8 and 10.
+
+Meanwhile, another train service will operate from Badulla to Colombo Fort at 5.20 p.m. on March 7, 8 and 10.
+
+Several train services are scheduled to operate on the northern line between Anuradhapura and Kankesanthurai (KKS) during the long weekend.
+
+Accordingly, special train services are scheduled to operate on March 8, 9 and 10 between Anuradhapura and KKS at 6 a.m., and another train is scheduled to operate between KKS and Anuradhapura at 4.30 p.m. on the said days.
+
+◼️
+
+[Data](articles/3397be55.json)
 
 ---
 
@@ -2201,99 +2287,5 @@ Sri Lanka's assistant coach Naveed Navas said that the relevant complaint was ex
 [Data](articles/02ba688d.json)
 
 [Extended Data](ext_articles/02ba688d.ext.json)
-
----
-
-### Sri Lanka central bank profits from printing money, parliament has some control: Harsha
-
-*2024-03-07 07:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-profits-from-printing-money-parliament-has-some-control-harsha-153483/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank is making profits from printing money and the balance goes to the consolidated fund according to its own law, Harsha de Silva, chairman of the parliament’s Committee on Public Finance said.
-
-The comments came amid an intensifying debate about control of public finances and independence given to central bankers to spend money without parliamentary approval.
-
-Sri Lanka’s parliament is in a battle with the macro-economists who run the country’s central bank after staff gave themselves steep salary hikes to offset monetary instability the agency itself created by printing money to target potential output.
-
-Legislators insisted that the central bank came under the parliament’s control of public finance.
-
-As a state agency, the Central Bank should not hike salaries so steeply, especially after Treasury circulars were issued to cut spending, legislators said.
-
-...
-
-[Data](articles/ce20ba67.json)
-
-[Extended Data](ext_articles/ce20ba67.ext.json)
-
----
-
-### Railway employees to work
-
-*2024-03-07 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194227) · `si`
-
-Railway employees involved in an assault on two foreigners have been re-employed under further disciplinary action. The incident occurred on a train from Colombo, where the two foreigners caused physical harm to passengers without tickets. The Railway Department suspended services at two stations, a railway register, and a railway guard. A base report on the incident is under review. The security officer at Nawalapitiya Railway Station has been banned further.
-
-🟩
-
-Three relating railway employees have been re-employed on an assault incident to two foreigners.
-
-After preliminary investigations, the relevant officers have been re-employed under further disciplinary action, the Railway Department said.
-
-On the 5th of the train traveling from Colombo from Colombo on the 5th, two foreigners had caused a large number of phical to travel without tickets.
-
-On the event, the Railway Department took steps to suspend the services of two stations, a railway register and a railway guard.
-
-However, a base report on the incident has been summoned, however, has been reviewed under further investigations.
-
-The ban in charge of the security officer in the Nawalapitiya Railway Station is further implemented in connection with the incident.
-
-The Department of Railways said that steps will be taken to take action after investigations.
-
-◼️
-
-[Data](articles/008b56c1.json)
-
-[Extended Data](ext_articles/008b56c1.ext.json)
-
----
-
-### IMF second review of Sri Lanka’s bailout package begins today
-
-*2024-03-07 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97785/imf-second-review-of-sri-lankas-bailout-package-begins-today-) · `en`
-
-The International Monetary Fund (IMF) will commence its second review of the Extended Fund Facility (EFF) program for Sri Lanka today (March 07) with an opening meeting scheduled with President Ranil Wickremesinghe.
-
-Taking to his X handle (formerly Twitter), Finance State Minister Shehan Semasinghe said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
-
-The lawmaker said the government aims to conclude a successful review and reach the staff-level agreement which will help unlock the third tranche of the global lender’s bailout package of USD 2.9 billion.
-
-“This will accelerate our growth trajectory, fostering increased confidence in the economy,” he added.
-
-Speaking to Ada Derana in this regard, Semasinghe said Sri Lanka is expecting the third tranche of the IMF loan in June.
-
-...
-
-[Data](articles/0b251d81.json)
-
-[Extended Data](ext_articles/0b251d81.ext.json)
-
----
-
-### President, MR, Basil to discuss possible alliance for polls
-
-*2024-03-07 07:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-MR-Basil-to-discuss-possible-alliance-for-polls/108-278395) · `en`
-
-Colombo, March 7 (Daily Mirror) - Basil Rajapaksa who spearheads the Sri Lanka Podujana Peramuna (SLPP) , along with former President Mahinda Rajapaksa will meet President Ranil Wickremesinghe this evening to discuss the future political arrangements between the two sides ahead of the presidential and parliamentary elections.
-
-Basil Rajapaksa, who was in the United States, arrived in the country on Tuesday.the meeting takes place at a time when electoral alliances are being formed among various parties in view of the national elections pending. Also, it takes place at a time when the parties discuss which election should be conducted first .
-
-A section of the SLPP coordinated by MP Nimal Lanza has already pledged support to the President. The group has already started conducting political rallies across the country to galvanize public support for the President.
-
-Also, Chief Government Whip Prasanna Ranatunga also said the SLPP should back the President.
-
-...
-
-[Data](articles/aa85b6ea.json)
-
-[Extended Data](ext_articles/aa85b6ea.ext.json)
 
 ---

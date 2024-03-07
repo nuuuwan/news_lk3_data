@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 16:33:15**
+As of **2024-03-07 16:48:20**
 
 ## Newspaper Stats
 
-*Scraped **11,488** Articles*
+*Scraped **11,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,99 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 972
-adaderanalk | 1,396
+adaderanalk | 1,398
 tamilmirrorlk | 1,401
 virakesarilk | 1,572
 dailymirrorlk | 1,750
-adaderanasinhalalk | 1,803
+adaderanasinhalalk | 1,804
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,484 (100.0%) of 11,488 articles have been extended.
+11,488 (100.0%) of 11,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### කුඩු සළිඳු සහ හරක් කටා නිරීක්ෂණයට කොටුව මහෙස්ත්‍රාත් CID යයි
+### Two men arrested with over 3.3kg of ‘Ice’ in Wattala
 
-*2024-03-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194257) · `si`
+*2024-03-07 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97798/two-men-arrested-with-over-33kg-of-ice-in-wattala) · `en`
 
-රැඳවුම් නියෝග මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රඳවා සිටින සෙල්ලප්පෙරුමගේ සළිඳු ගුණරත්න නොහොත් කුඩු සළිඳු සහ වික්‍රමරත්න නදුන් චින්තක නොහොත් හරක් කටා ඇතුළු සැකකරුවන් නිරීක්ෂණය කිරීමට කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (07) පස්වරුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ගියේය.
+The Police Narcotics Bureau (PNB) has arrested two suspects along with more than 3 kilograms of crystal methamphetamine, commonly known as ‘Ice’.
 
-සැකකරුවන් නිරීක්ෂණය කරන අවස්ථාවේදී කීමට යමක් ඇති බව පවසමින්, රැඳවුම් නියෝග අවසන් බැවින් අධිකරණයට ඉදිරිපත් කරන ලෙස හරක් කටා සහ කුඩු සළිඳු මහෙස්ත්‍රාත්වරයාගෙන් ඉල්ලීමක් කර තිබේ.
+The duo, aged 27 and 31, was taken into custody during an operation conducted in Elakanda, Hendala of Wattala police area on Wednesday (March 06).
 
-එහිදී රැඳවුම් නියෝග අවසන් සැකකරුවන් අධිකරණයට ඉදිරිපත් කරන ලෙසත් පිටතට සැකකරුවන් රැගෙන යන අවස්ථාවලදී අධිකරණය දැනුවත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාට නියෝග කර ඇති අතර පිටතට රැගෙන යන අවස්ථාවලදී නීතිඥ සහායක් ලබා දෙන ලෙසටද දැනුම් දී ඇත.
+They were identified as residents of Sedawatta and Mattakkuliya areas.
 
-සැකකරුවන් රඳවා සිටින ස්ථානවල සීසීටීවි කැමරා 4න් එකක් සැකකරුවන් ආවරණය වන පරිදි යොදවා ඇති බවත් එම කැමරා ක්‍රියාකාරී තත්තවයේ ඇති බවත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ස්ථානාධිපතිවරයා මහෙස්ත්‍රාත්වරයා හමුවේ දැනුම් දුනි.
+The PNB officers have seized 3.3kg of ‘Ice’ from the possession of the suspects.
+
+◼️
+
+[Data](articles/513a6e89.json)
+
+---
+
+### IMF team says Sri Lanka’s EFF program showing signs of working
+
+*2024-03-07 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97797/imf-team-says-sri-lankas-eff-program-showing-signs-of-working) · `en`
+
+The International Monetary Fund (IMF)’s Senior Mission Chief for Sri Lanka Peter Breuer says the IMF program is showing signs of working and is translating into real outcomes thanks to the Sri Lankan authorities’ commitment to the program and its implementation.
+
+He had stated this during the meeting held today (07) between President Ranil Wickremesinghe and the visiting IMF team at the Finance Ministry, the President’s Media Division (PMD) reported.
+
+Mr. Breuer further stated that it is heartening to see the country’s economy starting to turn around following the recent economic crisis.
+
+The IMF will commence its second review of the Extended Fund Facility (EFF) program for Sri Lanka today (March 07) with an opening meeting with President Wickremesinghe.
+
+Taking to X (formerly Twitter), Finance State Minister Shehan Semasinghe had said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
 
 ...
 
+[Data](articles/ca4a74bb.json)
+
+---
+
+### පියයුරු පිළිකාවෙන් වසරකට 1000කට වැඩි පිරිසක් ශ්‍රී ලංකාවේ මරුට
+
+*2024-03-07 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194258) · `si`
+
+වසරකට මෙරට කාන්තාවන් 1,095ක් පියයුරු පිළිකා හේතුවෙන් මරණයට පත්වන බවත් වසරකට මෙරට කාන්තාවන් 5,475 දෙනෙකු පියයුරු පිළිකාවට ගොදුරුවන බවත් වෛද්‍ය ලංකා ජයසූරිය දිසානායක පවසයි.
+
+ලෝක කාන්තා දිනය වෙනුවෙන් අද (07) මහනුවර පැවති උත්සවයකට සහභාගී වූ ඉන්දිරා ජයසූරිය පිළිකා භාරයේ සභාපතිනි, වෛද්‍ය ලංකා ජයසූරිය දිසානායක මේ බව හෙළි කළාය.
+
+"මෙරට ජීවත් වන සෑම කාන්තාවන් 08 දෙනෙකුගෙන් එක් අයෙකුට පියයුරු පිළිකා වැළඳීමේ අවදානම තිබෙනවා. ඉතාමත් කනගාටුයි. මේ පියයුරු පිළිකා හේතුවෙන් අප රටේ කාන්තාවන් තිදෙනෙක් දිනකට මරණයට පත්වෙනවා. ඒ වගේම අප රටේ තවත් කාන්තාවන් 15  දෙනෙක් පියයුරු පිළිකා රෝගීන් වශයෙන් දිනකට හඳුනාගන්නවා. කාන්තාවක් වී ඉපදීමම පියයුරු පිළිකා අවදානමට ලක්වීමක්. ඇල්කොහොල්, දුම් පානය, මත්ද්‍රව්‍ය භාවිතය, ව්‍යායාම මදකම, වැරදි ආහාර පුරුදු වගේම ලේ ඥාතීන් ට පියයුරු පිළිකා තිබීමද මේ පිළිකා තත්ත්වය ඇතිවීමට හේතු වෙන්න පුළුවන්. හැබැයි මේ වනවිට වෛද්‍ය  පර්යේෂණ මගින් තහවුරු කොට තිබෙනවා. මව් කිරි ලබාදුන් කාන්තාවන් ට පියයුරු පිළිකා වැළඳීමේ අවදානම අවමයි කියලා."
+
+...
+
+[Data](articles/699aa165.json)
+
+---
+
+### Fort Magistrate CID to monitor the powder and monarch
+
+*2024-03-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194257) · `si`
+
+Fort Magistrate Thilina Gamage visited the CID to monitor Criminal Investigations Unknown and Wickremaratne. Beef and Kudu requested the trekkanda Magistrate to submit to court as detention orders expired. The Magistrate ordered the CID Director to release suspects once produced in court. The CID OIC notified the suspects of 4 cecic cameras. The Magistrate ordered the CID OIC to provide treatment.
+
+🟩
+
+Fort Magistrate Thilina Gamage went to the CID today (07) to monitor the Criminal Investigations Unknown and Wickremaratne.
+
+Beef and Kudu has requested the trekkanda Magistrate to submit to court as detention orders are over at the time of observing the suspects.
+
+The Magistrate has also ordered the Director of the Criminal Investigation Department when the final suspects were produced before the courts and to take out the suspects.
+
+The OIC of the Criminal Investigations Department (CID) OIC of the CID has notified one of 4 cecic cameras in the suspects.
+
+The Magistrate has ordered the OIC of the Criminal Investigation Department (CID) to provide treatment with herself.
+
+◼️
+
 [Data](articles/618d94f6.json)
+
+[Extended Data](ext_articles/618d94f6.ext.json)
 
 ---
 
@@ -66,23 +128,31 @@ More than 160 million shares were traded overall within the day and the market t
 
 [Data](articles/42a80398.json)
 
+[Extended Data](ext_articles/42a80398.ext.json)
+
 ---
 
-### ප්‍රතිඵල ලැබෙමින් පවතින බව IMF කියයි
+### IMF says that the results are being received
 
 *2024-03-07 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194256) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල මෙරට තුළ ක්‍රියාත්මක කර ඇති වැඩසටහනේ ප්‍රතිඵල ලැබෙමින් පවතින බව මෙරට සාකච්ඡාවක් සඳහා පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ කණ්ඩායම් ප්‍රධානී පීටර් බෘෘවර් පවසයි.
+IMF's Pira Bruvrewart reports positive outcomes from the program, indicating economic growth and government commitment.
 
-එම වැඩසටහන සාර්ථකව ක්‍රියාත්මක කිරීමට බලධාරීන් කැපවී සිටීම වැදගත් බවද ඔහු පවසා තිබේ.
+🟩
 
-ඒ හේතුවෙන් ආර්ථිකය නැවතත් වර්ධනය වෙමින් පවතින බවද ඔහු තවදුරටත් පෙන්වාදී ඇත.
+The International Monetary Fund (IMF) team leader Pira Bruvrewart says that the results of the program implemented in the country.
 
-බෘෘවර් මේ බව පවසා ඇත්තේ අද (07) උදෑසන ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ කණ්ඩායම අතර මුදල් අමාත්‍යාංශයේ පැවැති සාකච්ඡාවේදී ය.
+He has said that the authorities are committed to the success of the program successfully.
+
+As a result, the economy is growing again.
+
+Bruvar said this was the President Ranil Wickremesinghe and the International Monetary Fund team at the Ministry of Finance.
 
 ◼️
 
 [Data](articles/31cbdf07.json)
+
+[Extended Data](ext_articles/31cbdf07.ext.json)
 
 ---
 
@@ -129,6 +199,8 @@ Accordingly, special train services are scheduled to operate on March 8, 9 and 1
 ◼️
 
 [Data](articles/3397be55.json)
+
+[Extended Data](ext_articles/3397be55.ext.json)
 
 ---
 
@@ -2203,89 +2275,5 @@ The attack on the Barbados-flagged, Liberian-owned bulk carrier True Confidence 
 [Data](articles/c26aac96.json)
 
 [Extended Data](ext_articles/c26aac96.ext.json)
-
----
-
-### Houthi rebels an attack on a vessel
-
-*2024-03-07 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194230) · `si`
-
-Houthi rebels attacked a vessel in South Yemen, killing three crew members and injuring four. The target was the Carbados Flagged Pargery Transport Ship in the Gulf of Aid, marking the first attack on cargo ship staff.
-
-🟩
-
-Three staff members of the ship was killed in a missile attack on a suitile boat to an expedition of goods in the South Yemen.
-
-The attack targeted the attack targeting the Carbados Flag, aimed at the Carbadadadadadadadadadadad Pargery Transport Ship in the Gulf of Aid.
-
-Three staff members of the ship were killed and four others were seriously injured.
-
-The attack on the attack on Palestinians in the conflict in the Gaza and Hamas conflict the attack.
-
-However, this is the first time that the staff deceased to an excitement of the cargo vebility.
-
-◼️
-
-[Data](articles/e3f4858d.json)
-
-[Extended Data](ext_articles/e3f4858d.ext.json)
-
----
-
-### Soon a list of child abusers
-
-*2024-03-07 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194229) · `si`
-
-The National Child Protection Authority (NVQ) plans to compile a list of individuals charged with child sexual abuse, aiming to mitigate risks to children. Chairperson Udaya Kumara Amarasinghe highlighted the increase in sexual abuse incidents over the past year, with 1,618 cases reported in 2022 and 1,497 in 2023.
-
-🟩
-
-The National Child Protection Authority (NVQ) stated that he is looking to prepare a list of persons who are guilty of child sexual abuse charges.
-
-The Chairperson of the Authority Udaya Kumara Amarasinghe said that the measures had been taken to consider the risk of children from the relevant persons.
-
-He was speaking at a media briefing held in the Health Promotion Bureau.
-
-"Especially sexually abuse errors, especially sexually abuse, suffering and punishes and have a risk for children. So you have to create a way to limit these. We have already proposed some methods. The Child Protection Authority is planning to make a list of child abuse offenders. Those who are free, but those who need can take that information. Secondly, we are discussing that sexual abuse has ended the punishment periods of serious abuse.
-
-The Udaya Kumara Amarasinghe said that it would increase a growth in sexual abuse incidents on children over the past year.
-
-...
-
-[Data](articles/128bbec2.json)
-
-[Extended Data](ext_articles/128bbec2.ext.json)
-
----
-
-### Sri Lankan team lodges a complaint with third judge's decision
-
-*2024-03-07 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194228) · `si`
-
-Sri Lanka complains about third judge's decision in a 20/20 match. Bangladesh won with 170 runs in 18 overs, Sri Lanka scored 205 in 20 overs. Njjamal Hoshont scored 53 not out for Bangladesh. Sri Lanka lodged complaint about Ticketing verdict through referee.
-
-🟩
-
-The Bangladesh team won the second 20 and 20 wickets in 8 wickets.
-
-Sri Lanka won the first 20 wickets in their allotted 205 runs in the final 20 overs.
-
-Around 37 runs for the innings and Kusal Mendis scored 36 runs.
-
-Bangladesh scored 170 runs for the loss of 170 wickets in their first 18 overs.
-
-Njjamal Hoshont was able to score 53 not out.
-
-Accordingly, both groups of two and 20 tournaments are in the face of the two countries.
-
-The Sri Lankan team has decided to complain about the declaration of Ticketing verdict as the third judge in the bat first over the fourth over the final.
-
-Sri Lanka's assistant coach Naveed Navas said that the relevant complaint was expected to be lodged through the referee.
-
-◼️
-
-[Data](articles/02ba688d.json)
-
-[Extended Data](ext_articles/02ba688d.ext.json)
 
 ---

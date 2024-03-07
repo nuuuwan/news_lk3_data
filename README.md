@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 19:03:06**
+As of **2024-03-07 19:17:47**
 
 ## Newspaper Stats
 
-*Scraped **11,513** Articles*
+*Scraped **11,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 977
+adalk | 979
 tamilmirrorlk | 1,401
 adaderanalk | 1,402
 virakesarilk | 1,577
 dailymirrorlk | 1,752
-adaderanasinhalalk | 1,810
+adaderanasinhalalk | 1,811
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,509 (100.0%) of 11,513 articles have been extended.
+11,513 (100.0%) of 11,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### හූති ප්‍රහාරයට ලක්වූ නෞකාවේ සිටි ලාංකිකයින් ගැන ආරංචියක්
+
+*2024-03-07 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194266) · `si`
+
+හූති ප්‍රහාරයට ලක්වූ නෞකාවේ සිටි ලාංකිකයින් දෙදෙනාගෙන් එක් අයෙකු තුවාල ලබා ඇති බව ශ්‍රී ලංකා නාවික හමුදාව පවසයි.
+
+මේ අතර ප්‍රහාරයට ලක්වූ නෞකාවේ සිටි ලාංකිකයින් සම්බන්ධයෙන් අප විදේශ කටයුතු අමාත්‍ය අලි සබ්‍රි මහතාගෙන් විමසීමක් කළේය.
+
+විදේශ අමාත්‍යවරයා සඳහන් කළේ, සිද්ධිය ගැන සොයාබැලීම සඳහා අවශ්‍ය පියවර ගනිමින් සිටින බවය.
+
+විදෙස් මාධ්‍යවලට අනුව ප්‍රහාරයට ලක්වූ නෞකාවේ ශ්‍රී ලාංකික ආරක්ෂකයින් දෙදෙනෙකු, නේපාල ආරක්ෂකයෙක් සහ කාර්ය මණ්ඩලයේ විසි දෙනෙක් පමණ සිට තිබුණි.
+
+කාර්ය මණ්ඩලය අතර පිලිපීන ජාතිකයින් 15 දෙනෙක්, වියට්නාම ජාතිකයින් සිවුදෙනෙක් සහ ඉන්දියානුවෙක් අයත්.
+
+ප්‍රහාරයෙන් පසු නෞකාවේ ගින්නක් හටගෙන ඇති අතර පිරිස නෞකාව අත්හැර දමා තිබේ.
+
+අමෙරිකානු වාර්තාවල අනුව තුවාල ලැබූවන්ගෙන් තිදෙනෙකුගේ තත්ත්වය බරපතළ බව දැක්වෙයි.
+
+හූති ප්‍රහාරයෙන් නෞකාවේ ගමන් කළ පුද්ගලයින් තිදෙනකු ජීවිතක්ෂයට පත්ව ඇති අතර තවත් සිව් දෙනෙකු තුවාල ලබා තිබේ.
+
+මියගිය පිරිසෙන් දෙදෙනෙකු පිලිපීන ජාතිකයින් වන අතර අනෙක් පුද්ගලයා වියට්නාම ජාතිකයෙක්.
+
+...
+
+[Data](articles/919fa20b.json)
+
+---
+
+### මූල්‍ය අරමුදල ලංකාව ගැන සතුටින්
+
+*2024-03-07 18:50:47* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-අරමුදල-ලංකාව-ගැන-සතුටින්/11-408483) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන නිසි ලෙස ක්‍රියාත්මක වන බව පෙන්නුම් කරමින් ශ්‍රී ලංකාවේ ආර්ථිකය නැවත යථා තත්ත්වයට පත්වීමට ආරම්භවීම සතුටට කරුණක් බව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව සඳහා වන ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘෘවර් මහතා ප්‍රකාශ කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායම අතර හමුවක් අද (07) මුදල් අමාත්‍යංශයේදී පැවැති අතර එහිදී ඔහු මේ බව ප්‍රකාශ කළේය‍
+
+එසේම මෙම වැඩසටහන ක්‍රියාත්මක කිරීම වෙනුවෙන් ශ්‍රී ලංකා බලධාරීන්ගේ කැපවීම සම්බන්ධයෙන් ද ඒ සිය ස්තූතිය පළ කරන බවද ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1434683b.json)
+
+---
 
 ### Sri Lankans among crew members rescued after fatal Houthi attack on ship off Yemen
 
@@ -38,31 +82,45 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Two Sri Lankans are among the 21 crew members rescued by the Indian warship INS Kolkata from the cargo ship ‘True Confidence’ which was attacked by a missile by Houthi rebels in the Gulf of Aden, according to the Sri Lanka Navy.
 
-The navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sri Lankan nationals has sustained injuries in the attack.
+The navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sri Lankan nationals had sustained injuries in the attack.
 
-◼️
+India’s navy evacuated all 20 crew from a stricken vessel in the Red Sea on March 7, after a Houthi attack killed three seafarers in the first civilian fatalities from the Yemeni group’s campaign against the key shipping route.
+
+The Iran-aligned militants fired a missile at the Barbados-flagged, Greek-operated ‘True Confidence’ on Wednesday about 50 nautical miles off the port of Aden, setting it ablaze.
+
+In a statement, the owners and manager said all 20 crew and three armed guards on board were taken to hospital in Djibouti in the Horn of Africa by an Indian warship.
+
+...
 
 [Data](articles/4bc1cf90.json)
 
+[Extended Data](ext_articles/4bc1cf90.ext.json)
+
 ---
 
-### රාජ්‍ය සංගීත සම්මාන උළෙල උත්කර්ෂවත් ලෙස පැවැත්වෙයි
+### State Music Awards will be centered
 
 *2024-03-07 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194265) · `si`
 
-වසර 06කට පසුව රාජ්‍ය සංගීත සම්මාන උළෙල ඊයේ (06) නෙළුම් පොකුණ එළිමහන් රංග පීඨයේ දී පැවැත්විණි.
+The State Music Awards, organized by the Ministry of Buddha Sasana and Cultural Affairs, were held at the Nelum Pokuna Theater. Sangitha Philanthi Awards were presented to Ven. Devananda and Anthony Surendra. Awards included excellence and encouragement for artists and prospects.
 
-''සුභාවිත සංගීත කලාවක හෙට දවස” වෙනුවෙන් විශිෂ්ටතම නිර්මාණ සහ ශිල්පීන් ඇගයීම හා දිරිගැන්වීම ප්‍රධාන අරමුණ කරගනිමින් මෙම සම්මාන උළෙල පවත්වයි.
+🟩
 
-මෙහිදී ජීවිතයට එක් වරක් පමණක් ලැබෙන සංගීතාභිමානීය යාවජීව සම්මාන ප්‍රවීණ සංගීතවේදීන් වන දේවානන්ද වෛද්‍යසේකර සහ ඇන්තනී සුරේන්ද්‍ර යන මහත්වරු දෙපළට හිමිවීම විශේෂත්වයකි.
+The State Music Awards ceremony was held yesterday (06) at the Faculty of the Nelum Pokuna Theater.
 
-ළමා, කාන්තා සහ පිරිමි යන කාණ්ඩ යටතේ විවිධ අංශයන් ගණනාවක් යටතේ විශිෂ්ටතම සම්මාන,කුසලතා සම්මාන, ජූරියේ විශේෂ ඇගයීම් ආදී ලෙස සම්මාන සහ සහතික පත්‍ර මෙහිදී පිරිනැමිණි.
+The awards ceremony is conducting the excellence and encouragement of the artists and prospects for the tomorrow.
 
-බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය විසින් මෙම සම්මාන උළෙල සංවිධානය කර තිබුණි.
+Sangitha Philanthi Awards, Ven. Devananda and Anthony Surendra receives only once in life.
+
+Awards and Certificates were presented as awarded awards, merit awards, jury special assessment under the children, women's and male.
+
+The awards ceremony was organized by the Ministry of Buddha Sasana and Cultural Affairs.
 
 ◼️
 
 [Data](articles/eba50d89.json)
+
+[Extended Data](ext_articles/eba50d89.ext.json)
 
 ---
 
@@ -86,19 +144,25 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 
 ---
 
-### சிஐடியில் தடுத்து வைக்கப்பட்டுள்ள ஹரக்கட்டா, குடுசலிந்து இருவரையும் அவதானிக்கச் சென்ற கோட்டை நீதிவான்!
+### Harakatta, who has been detained at CIT, is the fortress who goes to observe both of them!
 
 *2024-03-07 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178195) · `ta`
 
-குற்றப் புலனாய்வுத் திணைக்களத்துக்கு வியாழக்கிழமை (07) மாலை கோட்டை நீதவான் திலின கமகே விஜயம் செய்து, விளக்கமறியலில் வைக்கப்பட்டுள்ள குடுசலிந்து மற்றும் ஹரக்கட்டா உள்ளிட்ட சந்தேக நபர்களை அவதானித்துள்ளார்.
+Fort Magistrate Thilina Kamage visited CIT, observed suspects Kudusalindu and Harakkatta, and ordered the Director to present them in court with legal assistance. Harakkatta, suffering from fever, was ordered to receive treatment.
 
-சந்தேக நபர்களை நீதிமன்றில் முன்னிலைப்படுத்துமாறும் இவர்களை வெளியே அழைத்துச் செல்லும்போது நீதிமன்றத்துக்கு அறிவிக்குமாறும்  அதன்போது சட்ட உதவிகளை வழங்குமாறும் குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளர்களுக்கு நீதிவான் உத்தரவிட்டுள்ளார்.
+🟩
 
-தான் காய்ச்சலால் பாதிக்கப்பட்டுள்ளதாக ஹரக்கட்டா நீதிவானிடம் தெரிவித்தபோது அது தொடர்பான சிகிச்சைகளை வழங்குமாறு குற்றப் புலனாய்வு திணைக்களத்துக்கு  நீதிவான் உத்தரவிட்டுள்ளார்.
+Fort Magistrate Thilina Kamage visited the Criminal Investigation Department on Thursday evening and observed the suspects, including Kudusalindu and Harakkatta.
+
+The magistrate has ordered the Director of the Criminal Investigation Department to present the suspects in court and to inform the court and provide legal assistance.
+
+When Harakatta told the Justice of the Judge that he was suffering from fever, the judge ordered the Criminal Investigation Department to provide treatment.
 
 ◼️
 
 [Data](articles/7eda2c42.json)
+
+[Extended Data](ext_articles/7eda2c42.ext.json)
 
 ---
 
@@ -117,6 +181,8 @@ The petitioners stated that the appointment of Deshabandu Tennakoon as IGP by th
 ◼️
 
 [Data](articles/920e0672.json)
+
+[Extended Data](ext_articles/920e0672.ext.json)
 
 ---
 
@@ -1492,6 +1558,26 @@ The lorry traveling to Jaffna through the Point Pedro Road crashed into a shop i
 
 ---
 
+### පහර කෑමෙන් සිසුවාත් ගුරුවරුන් දෙදෙනෙකුත් රෝහලේ
+
+*2024-03-07 13:18:07* · [`adalk`](https://www.ada.lk/breaking_news/පහර-කෑමෙන්-සිසුවාත්-ගුරුවරුන්-දෙදෙනෙකුත්-රෝහලේ/11-408472) · `si`
+
+ගල්නෑව නගරයේ ප්‍රධාන පාසලක සිසුන් දෙදෙනෙකු අතර ඇතිවූ ආරවුලක් විසඳීමට ගිය ක්‍රීඩා ගුරුවරයෙකුගේ පහර කෑ බව කියන සිසුවෙකු, රෝහල්ගත කර ඇති බවත්, එම සිසුවාගේ සහෝදරයාගේ පහර කෑමට ලක් වූ එම පාසලේ ගුරුවරුන් දෙදෙනකු තුවාල ලබා රෝහල්ගත කර ඇති බව ගල්නෑව  පොලිසිය පවසයි.
+
+මෙම පහර දීම සම්බන්ධයෙන් 17 හැවිරිදි  තරුණයෙකු  බුල්නෑව ලෝළුගස්වැව ප්‍රදේශයේදී අත්අඩංගුවට ගත් බවද පොලිසිය කියයි.
+
+පාසලේ ක්‍රීඩා පුහුණුවක් අතරතුර එම පාසලේ 9 ශ්‍රේණියේ සහ 11 ශ්‍රේණියේ සිසුන් දෙදෙනෙකු අතර එල්ලේ පිත්තක් සම්බන්ධයෙන් ඇති වූ ආරවුලක් ගැටුමක් දක්වා දුර දිග ගොස් තිබූ බව පොලිසිය කියයි.
+
+එම ගැටුම විසඳීමට පාසලේ ක්‍රීඩා ගුරුවරයා සහ තවත් ගුරුවරයකු සමග මැදිහත් වී 11වන ශ්‍රේණියේ සිසුවාට කළ පහරදීමකින් එම සිසුවා රෝහල්ගත කර ඇති බව පොලිසිය සඳහන් කළේය.
+
+පහර කෑමට  ලක් වූ එම සිසුවා ගල්නෑව  රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතරවාරයේදී ක්‍රීඩා ගුරුවරයා සිද්ධිය පැහැදිලි කිරීම සඳහා දරුවාගේ භාරකරුවන් සොයා එම නිවසට ගිය අවස්ථාවේදී දරුවාගේ සහෝදරයෙකු, තවත් පුද්ගලයන් තිදෙනකු සමග පැමිණ පොලු වලින් හා අතින් පයින් පහර දී ඇති බවද පොලීසිය කියයි.
+
+...
+
+[Data](articles/62bc1f3e.json)
+
+---
+
 ### Government relief to new electricity connection
 
 *2024-03-07 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194241) · `si`
@@ -2179,75 +2265,5 @@ He also shared the first day's card stamps by the Postal Department to the Posta
 [Data](articles/24c56e16.json)
 
 [Extended Data](ext_articles/24c56e16.ext.json)
-
----
-
-### NCPA to compile list of offenders convicted of child sexual abuse
-
-*2024-03-07 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97789/ncpa-to-compile-list-of-offenders-convicted-of-child-sexual-abuse) · `en`
-
-The National Child Protection Authority (NCPA) says it intends to compile a list containing the names of the offenders convicted of child sexual abuse.
-
-Mr. Chanaka Udayakumara Amarasinghe, the NCPA chairman, explained that these convicts are most likely to repeat the offences once they are released from custody after serving their prison sentences, adding that this leaves children at risk of falling prey to molesters.
-
-Joining a media briefing held at the Health Promotion Bureau, Mr. Amarasinghe said the NCPA is in the process of preparing a list of convicted child molesters to make their information available to the concerned parties.
-
-Additionally, the NCPA is discussing whether legal provisions can be introduced to either prevent or restrict the ex-convicts from entering the premises frequented by children, after being released from prison.
-
-According to Mr. Amarasinghe, the country has witnessed a disturbing increase in the number of cases of child sexual abuse in 2023.
-
-...
-
-[Data](articles/c8c2c47f.json)
-
-[Extended Data](ext_articles/c8c2c47f.ext.json)
-
----
-
-### You can no longer stamp your photos
-
-*2024-03-07 10:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-உங்கள்-புகைப்படங்களை-முத்திரையாக்கலாம்/175-334319) · `ta`
-
-Sri Lanka's Postal Department allows individuals to design their own photos or events for Rs. 2000, offering a unique stamp option for weddings, gatherings, and feasts.
-
-🟩
-
-Postal Department Chancellor Ruwan Satkumara said that the Postal Department of Sri Lanka will be offering the opportunity to design their own photos or events at a cost of Rs. 2000.
-
-Speaking at an event organized in Colombo to publish the Hatton National Bank (HNB) stamp, he announced that he could get 20 stamps or their own photos of 20 stamps in accordance with special occasions such as weddings, gatherings and feasts.
-
-Families can increase the uniqueness of their wedding cards by using these stamps with photos of couples. These seals can also be used as postal stamps, ”he said.
-
-◼️
-
-[Data](articles/dc2dc736.json)
-
-[Extended Data](ext_articles/dc2dc736.ext.json)
-
----
-
-### A special meeting to discuss the coalition
-
-*2024-03-07 10:40:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டணி-குறித்து-கலந்துரையாட-விசேட-சந்திப்பு/175-334318) · `ta`
-
-Basil Rajapaksa, leader of the Sri Lanka PA (SLPP), meets with former President Mahinda Rajapaksa to discuss political arrangements for upcoming elections. The party is considering which elections to prioritize in case of an electoral alliance. A section of the SLPP, led by MP Nimal Lansa, supports the president, and the Prime Minister of Sri Lanka, Prasanna Ranatunga, has also expressed support. However, the SLPP has not made a formal decision yet. Basil Rajapaksa plans to express dissatisfaction with the president over direct contact with a separatist group. The leaders are expected to discuss pending issues and decide on the election order.
-
-🟩
-
-Basil Rajapaksa, who is leading the Sri Lanka PA (SLPP), will meet with former President Mahinda Rajapaksa this evening and discuss the future political arrangements between the two sides ahead of the parliamentary elections and the presidential election.
-
-Basil Rajapaksa from the United States returned to the country on Tuesday. Considering the election pending, the party is in the process of discussing which elections should be held in the event of an electoral alliance between various parties.
-
-A section of the Sri Lanka PA, which was coordinated by MP Nimal Lansa, has already promised to support the president.The committee has already begun to hold political rallies across the country to get people's support for the president.
-
-The Prime Minister of the Government of Sri Lanka, Prasanna Ranatunga, said that the Sri Lankan PA should support the President.
-
-However, as SLPP, as a party, has not yet made any formal decision.
-
-...
-
-[Data](articles/ab3b1b93.json)
-
-[Extended Data](ext_articles/ab3b1b93.ext.json)
 
 ---

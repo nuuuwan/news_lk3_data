@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 21:17:37**
+As of **2024-03-07 21:33:19**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 1,815
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,532 (100.0%) of 11,537 articles have been extended.
+11,537 (100.0%) of 11,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### අලුත්ම නේටෝ සාමාජිකයා
+### New NATO MEMBER
 
 *2024-03-07 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194270) · `si`
 
-මාර්තු 07 වනදා සිට ස්වීඩනයට නේටෝ සංවිධානයේ සාමාජිකත්වය හිමිවන බව වාර්තා වෙයි.
+Sweden joins NATO as a member on March 7th.
+
+🟩
+
+It is reported that the NATO organization is the members of Sweden from March 7th.
 
 ◼️
 
 [Data](articles/7e101b75.json)
 
+[Extended Data](ext_articles/7e101b75.ext.json)
+
 ---
 
-### “பஸ்களில் சீண்டுவோர் எண்ணிக்கை குறைந்துவிட்டது”
+### “The number of buses in buses has declined”
 
 *2024-03-07 20:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-சீண்டுவோர்-எண்ணிக்கை-குறைந்துவிட்டது/175-334356) · `ta`
 
-பஸ் மற்றும் பொது இடங்களில் சிறுவர்கள் மற்றும் பெண்கள் மீது இடம்பெறும் பாலியல் துஷ்பிரயோகங்கள், அது தொடர்பான முறைப்பாடுகள் குறைவடைந்து வருவதாக பிரதிப் பொலிஸ் மா அதிபரான பொலிஸ் ஊடகப் பேச்சாளர்  நிஹால் தல்துவ தெரிவித்தார்.
+"Deputy Inspector General Nihal Dalduwa reports a decrease in sexual abuse complaints and crimes, now at 20 per day, with public cooperation."
 
-குறித்த குற்றங்களுக்காக ஒரு நாளுக்கு 20 பேர் கைது செய்யப்பட்ட நிலையில் தற்போது அதன் எண்ணிக்கை இரண்டாக குறைவடைந்துள்ளது.
+🟩
 
-மற்றும் பொது இடங்களில் சிறுவர்கள் மற்றும் பெண்கள் மீது இடம்பெறும் பாலியல் துஷ்பிரயோகங்கள் தொடர்பில் நடவடிக்கை எடுப்பதற்கு பொது மக்களும் ஒத்துழைப்பு வழங்கி வருவதாகவும் அவர் தெரிவித்தார். R
+Deputy Inspector General of Police Nihal Dalduwa said that the sexual abuse and complaints of children and girls in bus and public places are declining.
+
+The number of crimes has now been reduced to 20 people per day.
+
+He also said that the public is cooperating with the public to take action on sexual abuse of children and girls in public places.. Remble
 
 ◼️
 
 [Data](articles/d98901d0.json)
+
+[Extended Data](ext_articles/d98901d0.ext.json)
 
 ---
 
@@ -92,17 +104,23 @@ The eldest housing and resorts to other parties and resorts, foreign services, f
 
 ---
 
-### කෝටි දෙක ගජමුතු දෙකක් සමඟ දෙදෙනෙක් අත්අඩංගුවට
+### Two suspects arrested with two million gajamuth
 
 *2024-03-07 20:21:08* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-දෙක-ගජමුතු-දෙකක්-සමඟ-දෙදෙනෙක්-අත්අඩංගුවට/11-408489) · `si`
 
-යුද්ධ හමුදා බුද්ධි අංශය මගින් ලබාදුන් බුද්ධි තොරතුරක් මත හලාවත කොට්ඨාස අපරාධ විමර්ෂණඅංශයේ නිලධාරීන් විසින් අබකදවිල පාර, හලාවතයන ප්‍රදේශයේ පිහිටි තානායම අසල වෙරල තිරයේදි  සිදුකල වැටලීමක් අතරතුර රුපියල් කෝටි දෙකකට ආසන්න මුදලකට අලෙවි කිරීම සදහා සැලසුම් කර තිබූ ගජමුතු දෙකක් සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවටගෙන ඇත.
+In Chilaw, two suspects, aged 31, arrested with two million gajamuth, linked to coastal centers and army intelligence. Further investigations underway.
 
-එම සැකකරුවන් කුරුණැගල පදිංචි වයස අවුරුදු 35 සහ 31ක වයසේ පසුවන පුද්ගලයින්බවටඅනාවරණය වී ඇත. මේ පිළිබඳව ඉදිරි විමර්ශන කටයුතු හලාවත පොලිස් ස්ථානය විසින් සිදුකරනු ලබයි.
+🟩
+
+In the Chilaw Division Criminal Criminal Criminal Criminal Criminal Investigations, two suspects have been arrested along with two coastal centers in the coast of the army intelligence.
+
+The suspects have been revealed in Kurunegala, Kurunegala residents of age and 31 years old. The Chilaw Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f7c02d72.json)
+
+[Extended Data](ext_articles/f7c02d72.ext.json)
 
 ---
 
@@ -175,6 +193,8 @@ In his discussions with key Sri Lankan officials, international partners, and di
 ...
 
 [Data](articles/323aa2ee.json)
+
+[Extended Data](ext_articles/323aa2ee.ext.json)
 
 ---
 
@@ -1330,17 +1350,27 @@ Another person arrested in the protest was presented to the Aluthkade Magistrate
 
 ---
 
-### பஷில், கோட்டா ஆகியோரால் நாட்டுக்கு ஏற்பட்ட பாதிப்பு : சபை ஒத்திவைப்பு விவாதம் நடத்த வேண்டும் என்கிறார் சாணக்கியன்
+### The impact of the country by Bashil and Kota
 
 *2024-03-07 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178174) · `ta`
 
-காட்டு விலங்குகளினால்  விவசாய பயிர்நிலங்களுக்கு  ஏற்பட்டுள்ள பாதிப்பு தொடர்பில் சபை ஒத்திவைப்பு  விவாதம் நடத்துவதை போல் கோட்டாபய ராஜபக்ஷ, பஷில் ராஜபக்ஷ ஆகியோரால் நாட்டுக்கு ஏற்பட்ட பாதிப்பு தொடர்பில் சபை ஒத்திவைப்பு விவாதம் நடத்த வேண்டும். பொருளாதார படுகொலையாளி என்று உயர்நீதிமன்றத்தால் பெயர் குறிப்பிடப்பட்ட பஷில் ராஜபக்ஷவை வரவேற்க ஆளும் தரப்பினர் வெட்கமில்லாமல் சென்றுள்ளார்கள். ராஜபக்ஷ குடும்ப அரசியல் இந்த நாட்டுக்கு ஆபத்தானது என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+The text discusses the impact of wild animals on agriculture and the political implications of the Rajapaksa family's actions. It highlights the economic consequences of elephant damage in Mandur and Vavuniya, criticizes the Rajapaksas for not addressing wildlife issues, and mentions the political maneuvers of Gotabhaya Rajapaksa and Bashil Rajapaksa. The TNA calls for a debate on the Rajapaksas' impact and criticizes the government's handling of the economy and the Tamil people's issues.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (07) இடம்பெற்ற   வன விலங்குகளால் பயிர்களுக்கு ஏற்படும் சேதம் தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
+
+Gotabhaya Rajapaksa and Basil Rajapaksa should hold a postponement debate on the country's impact on the impact of wild animals. The ruling party has shamelessly visited Bashil Rajapakse, who was named as an economic assassinist. Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that Rajapakse family politics is dangerous to this country.
+
+He said this while addressing the adjournment debate on the damage to crops by wildlife in Parliament on Thursday (07).
+
+Agriculture, Livestock and Fisheries. Farmers are economically affected by the destruction of agricultural crops by wild elephants. Elephant infiltration has intensified in Mandur and Vavuniya in the Batticaloa district.
+
+The dealer, who refers to the chairman of the Batticaloa District Development Committee on the elephant -human conflict, speaks irresponsibly at the meeting, "Did you take the number of elephants, elephant officer and elephant problem?"
 
 ...
 
 [Data](articles/69fac3e0.json)
+
+[Extended Data](ext_articles/69fac3e0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 21:02:44**
+As of **2024-03-07 21:17:37**
 
 ## Newspaper Stats
 
-*Scraped **11,532** Articles*
+*Scraped **11,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,94 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 982
-tamilmirrorlk | 1,402
+adalk | 983
 adaderanalk | 1,402
-virakesarilk | 1,580
-dailymirrorlk | 1,758
-adaderanasinhalalk | 1,814
+tamilmirrorlk | 1,403
+virakesarilk | 1,581
+dailymirrorlk | 1,759
+adaderanasinhalalk | 1,815
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,527 (100.0%) of 11,532 articles have been extended.
+11,532 (100.0%) of 11,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### ලංකාවට ආ විදේශිකයින් සංචාරක ක්ෂේත්‍රයේ ව්‍යාපාරවල යෙදෙයි
+### අලුත්ම නේටෝ සාමාජිකයා
+
+*2024-03-07 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194270) · `si`
+
+මාර්තු 07 වනදා සිට ස්වීඩනයට නේටෝ සංවිධානයේ සාමාජිකත්වය හිමිවන බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/7e101b75.json)
+
+---
+
+### “பஸ்களில் சீண்டுவோர் எண்ணிக்கை குறைந்துவிட்டது”
+
+*2024-03-07 20:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-சீண்டுவோர்-எண்ணிக்கை-குறைந்துவிட்டது/175-334356) · `ta`
+
+பஸ் மற்றும் பொது இடங்களில் சிறுவர்கள் மற்றும் பெண்கள் மீது இடம்பெறும் பாலியல் துஷ்பிரயோகங்கள், அது தொடர்பான முறைப்பாடுகள் குறைவடைந்து வருவதாக பிரதிப் பொலிஸ் மா அதிபரான பொலிஸ் ஊடகப் பேச்சாளர்  நிஹால் தல்துவ தெரிவித்தார்.
+
+குறித்த குற்றங்களுக்காக ஒரு நாளுக்கு 20 பேர் கைது செய்யப்பட்ட நிலையில் தற்போது அதன் எண்ணிக்கை இரண்டாக குறைவடைந்துள்ளது.
+
+மற்றும் பொது இடங்களில் சிறுவர்கள் மற்றும் பெண்கள் மீது இடம்பெறும் பாலியல் துஷ்பிரயோகங்கள் தொடர்பில் நடவடிக்கை எடுப்பதற்கு பொது மக்களும் ஒத்துழைப்பு வழங்கி வருவதாகவும் அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/d98901d0.json)
+
+---
+
+### Foreign foreigners engaged in tourism businesses
 
 *2024-03-07 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194269) · `si`
 
-සංචාරක වීසා මත මෙරටට පැමිණෙන සංචාරකයින් ව්‍යාපාරවල නිරතවන බවට තොරතුරු අනාවරණය වී තිබේ.
+Tourists, including Russians and Ukrainians, engage in businesses like housing, resorts, and currency exchange in Sri Lanka, impacting local small and medium-scale businesses. Protests have been launched against this practice, especially in the Unawatuna area of Galle.
 
-ඒ අනුව දකුණු වෙරළ තීරයේ සිදුවන එවැනි ව්‍යාපාර සම්බන්ධයෙන් අද අප සොයා බැලීමක් සිදුකළේය.
+🟩
 
-සුන්දර වෙරළ තීරයන්, සාම්ප්‍රදායික ආහාරපාන, ඵෙතිහාසික උරුමයන්, වනජීවි, ආයුර්වේද ඇතුළු තවත් සංචාරක ආකර්ෂණයන්  රැසකට හිමිකම් කියන ශ්‍රී ලංකාව ලොව ප්‍රමුඛ සංචාරක ගමනාන්තයකි.
+It has been revealed that tourists to visit Sri Lanka are engaged in tourist visa.
 
-එම සුන්දරත්වය විඳගැනීම සඳහා ලංකාවට එන සංචාරකයින් ගණන මෙවර සැලකියයුතු ලෙස ඉහළ ගොස් තිබේ.
+We have also looked into such businesses in the South Coast.
 
-සංචාරක වීසා මත ලංකාවට එන ඇතැම් සංචාරකයින් මේ වනවිට සිය නිවාඩුව අතරතුර ව්‍යාපාර කිරීමට පටන් ගෙන තිබේ.
+Sri Lanka is a world leader tourist destination, including beautiful beaches, traditional food, historical heritage, wildlife, Ayurveda.
 
-ඒ සංචාරක විශාල වශයෙන් ගැවසෙන, දකුණු වෙරළ තීරයේ, ගාල්ල, උණවටුන සහ මිරිස්ස වැනි සංචාරක කලාපවලය.
+The number of tourists coming to Sri Lanka has significantly increased this year.
 
-සංචාරක කර්මාන්තයේ නිරතවූවන් පෙන්වා දෙන්නේ, එම ප්‍රදේශවල නවාතැගෙන සිටින රුසියානු සහ යුක්‍රේන ජාතිකයින් නීතිවිරෝධී ලෙස සංචාරක කර්මාන්තයේ නිරත වන බවය.
+Some of the travelers come to Sri Lanka on tourist visas have already begun to do business during their vacation.
 
-ඒ , කුලියට ගන්නා නිවාස හා නිකේතන තවත් පාර්ශ්ව වෙත වැඩිමිලට ලබාදීම, විදෙස් මුදල් හුවමාරුව, යතුරුපැදි සහ ත්‍රීරෝද කුලියට දීම, ආහාරපාන සැපයීම ඇතුලු විවිධ සේවා සපයමිනි.
+Tourist zones such as large ranks, Galle, Unawatuna and Mirissa, in the South Coast, Galle, Unawatuna and Mirissa.
+
+The tourism industry points out that Russian and Ukrainians who are staying in those areas are illegally engaged in tourism.
+
+The eldest housing and resorts to other parties and resorts, foreign services, foreign currency exchange, motorcycle and three-wheelers and supply services.
 
 ...
 
 [Data](articles/e7db02e9.json)
+
+[Extended Data](ext_articles/e7db02e9.ext.json)
+
+---
+
+### කෝටි දෙක ගජමුතු දෙකක් සමඟ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-03-07 20:21:08* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-දෙක-ගජමුතු-දෙකක්-සමඟ-දෙදෙනෙක්-අත්අඩංගුවට/11-408489) · `si`
+
+යුද්ධ හමුදා බුද්ධි අංශය මගින් ලබාදුන් බුද්ධි තොරතුරක් මත හලාවත කොට්ඨාස අපරාධ විමර්ෂණඅංශයේ නිලධාරීන් විසින් අබකදවිල පාර, හලාවතයන ප්‍රදේශයේ පිහිටි තානායම අසල වෙරල තිරයේදි  සිදුකල වැටලීමක් අතරතුර රුපියල් කෝටි දෙකකට ආසන්න මුදලකට අලෙවි කිරීම සදහා සැලසුම් කර තිබූ ගජමුතු දෙකක් සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවටගෙන ඇත.
+
+එම සැකකරුවන් කුරුණැගල පදිංචි වයස අවුරුදු 35 සහ 31ක වයසේ පසුවන පුද්ගලයින්බවටඅනාවරණය වී ඇත. මේ පිළිබඳව ඉදිරි විමර්ශන කටයුතු හලාවත පොලිස් ස්ථානය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/f7c02d72.json)
 
 ---
 
@@ -92,6 +140,8 @@ The "Press Vs. Prez" book was officially launched at the Nelum Pokuna Theater in
 
 [Data](articles/6cb77eac.json)
 
+[Extended Data](ext_articles/6cb77eac.ext.json)
+
 ---
 
 ### Indian Warship rescues crew members from attacked ship in Gulf of Aden
@@ -109,6 +159,22 @@ The incident occurred on March 6th when the Barbados-flagged Bulk Carrier MV Tru
 [Data](articles/30b24356.json)
 
 [Extended Data](ext_articles/30b24356.ext.json)
+
+---
+
+### UNFPA Director urges action to safeguard women’s rights in post-pandemic Sri Lanka
+
+*2024-03-07 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Director-urges-action-to-safeguard-womens-rights-in-post-pandemic-Sri-Lanka/108-278436) · `en`
+
+Sri Lanka, March 07 - Amidst the challenges of a post-pandemic world and economic uncertainties, the United Nations Population Fund (UNFPA) underscores the critical importance of protecting the rights and dignity of women and girls in Sri Lanka.
+
+During a recent three-day visit to the island nation, Pio Smith, the Asia-Pacific Regional Director of UNFPA, emphasized the urgent need for dedicated efforts towards the health, safety, and wellbeing of women and girls.
+
+In his discussions with key Sri Lankan officials, international partners, and diplomatic representatives, Mr. Smith reiterated UNFPA's commitment to supporting Sri Lanka's recovery journey. Gender equality and empowerment were highlighted as integral pillars for progress in the nation's development trajectory.
+
+...
+
+[Data](articles/323aa2ee.json)
 
 ---
 
@@ -147,6 +213,8 @@ He said the Prime Minister is the Prime Minister of Sri Lanka and he had all the
 ...
 
 [Data](articles/8de25dda.json)
+
+[Extended Data](ext_articles/8de25dda.ext.json)
 
 ---
 
@@ -1262,6 +1330,20 @@ Another person arrested in the protest was presented to the Aluthkade Magistrate
 
 ---
 
+### பஷில், கோட்டா ஆகியோரால் நாட்டுக்கு ஏற்பட்ட பாதிப்பு : சபை ஒத்திவைப்பு விவாதம் நடத்த வேண்டும் என்கிறார் சாணக்கியன்
+
+*2024-03-07 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178174) · `ta`
+
+காட்டு விலங்குகளினால்  விவசாய பயிர்நிலங்களுக்கு  ஏற்பட்டுள்ள பாதிப்பு தொடர்பில் சபை ஒத்திவைப்பு  விவாதம் நடத்துவதை போல் கோட்டாபய ராஜபக்ஷ, பஷில் ராஜபக்ஷ ஆகியோரால் நாட்டுக்கு ஏற்பட்ட பாதிப்பு தொடர்பில் சபை ஒத்திவைப்பு விவாதம் நடத்த வேண்டும். பொருளாதார படுகொலையாளி என்று உயர்நீதிமன்றத்தால் பெயர் குறிப்பிடப்பட்ட பஷில் ராஜபக்ஷவை வரவேற்க ஆளும் தரப்பினர் வெட்கமில்லாமல் சென்றுள்ளார்கள். ராஜபக்ஷ குடும்ப அரசியல் இந்த நாட்டுக்கு ஆபத்தானது என தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (07) இடம்பெற்ற   வன விலங்குகளால் பயிர்களுக்கு ஏற்படும் சேதம் தொடர்பான சபை ஒத்திவைப்பு விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/69fac3e0.json)
+
+---
+
 ### Sergeant arrested for helping beef
 
 *2024-03-07 15:20:47* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටාට-පැන-යාමට-උදව්-කළයැ-සැරයන්-අත්අඩංගුවට/11-408478) · `si`
@@ -1311,6 +1393,8 @@ SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public 
 ◼️
 
 [Data](articles/887153bf.json)
+
+[Extended Data](ext_articles/887153bf.ext.json)
 
 ---
 
@@ -2131,123 +2215,5 @@ It is also reported that the private bus was transported to the garment stall in
 [Data](articles/223bb855.json)
 
 [Extended Data](ext_articles/223bb855.ext.json)
-
----
-
-### President instructs to expedite housing for homeless families in Kajimawatta
-
-*2024-03-07 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97791/president-instructs-to-expedite-housing-for-homeless-families-in-kajimawatta) · `en`
-
-President Ranil Wickremesinghe has instructed officials to take necessary steps to provide housing for all homeless families in Kajimawatte, Colombo.
-
-He also emphasized that the work must adhere to the government’s housing policies and criteria, the President’s Media Division (PMD) said in a statement.
-
-These instructions were provided by the Head of State during a discussion held yesterday afternoon (March 06) at the Presidential Secretariat regarding the housing issue in the Kajimawatta, Colombo.
-
-Additionally, the President instructed officials to examine underutilized government-owned buildings and lands within the Colombo Municipal Area, exploring the potential for development and utilization for commercial purposes.
-
-Wickremesinghe has also underscored the significance of implementing the program through private investments, with the intervention of the public sector.
-
-...
-
-[Data](articles/359a121b.json)
-
-[Extended Data](ext_articles/359a121b.ext.json)
-
----
-
-### Two Sri Lankans killed in accident in Tanzania
-
-*2024-03-07 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178149) · `ta`
-
-Two Sri Lankan youths died in a Tanzania accident while traveling from Darus Salam to Mahenge. One was 23, from Galle Kottukoda, and the other 33, from Galle Maguluwa.
-
-🟩
-
-Two Sri Lankan youths were killed in a vehicle accident in Tanzania, East Africa on Tuesday night (March 05).
-
-International media reports that the accident occurred while the two youths were traveling from Darus Salam in Tanzania to Mahenge.
-
-One of the deceased has been identified as 23 years old from Galle Kottukoda and the other is 33 years old from Galle Maguluwa.
-
-◼️
-
-[Data](articles/f77e01be.json)
-
-[Extended Data](ext_articles/f77e01be.ext.json)
-
----
-
-### Attack on two civilians;Bodied committee suspended
-
-*2024-03-07 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178136) · `ta`
-
-A police officer in the Udappu Police Crime Branch was suspended after being arrested for an attack on two civilians. Blood samples were taken to determine if he was under the influence of alcohol at the time of the incident.
-
-🟩
-
-The police officer in charge of the Udappu Police Crime Branch has been suspended from the service of the police on Tuesday night (March 05).
-
-In this case, he was arrested at the hospital on Wednesday morning and suspended from work.
-
-Blood samples have also been obtained to know whether or not he was in alcohol at the time of the incident, police said.
-
-◼️
-
-[Data](articles/3ce972ec.json)
-
-[Extended Data](ext_articles/3ce972ec.ext.json)
-
----
-
-### Transplants a woman's hands to a painter
-
-*2024-03-07 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194240) · `si`
-
-A painter, who lost his hands in a train accident, had his body donated to a woman. Her kidney, liver, and eye were transplanted into others. This 12-hour surgery in Delhi was the first to successfully transplant someone else.
-
-🟩
-
-Foreign media reports of a special story on the successful hands.
-
-Another unique feature is that it is again a painter.
-
-In 2020, the painter lost his hands in 2020 in an unfortunate train accident.
-
-The painter who lost his hands will return to the recent woman because of a donation of his body.
-
-Foreign media reports that the woman's kidney, liver and eye sections have been transplanted into three other people.
-
-The surgery has been 12 hours and this is the first surgery to successfully transplant someone else in Delhi.
-
-This is the 45-year-old artist, this lucky artist has been able to receive the full honorable doctors and his body to donate his body.
-
-When the surgery is successfully completed, the artist appealed to the top of his hands with his new hands.
-
-◼️
-
-[Data](articles/969044e6.json)
-
-[Extended Data](ext_articles/969044e6.ext.json)
-
----
-
-### A police officer who attacked two men suspended
-
-*2024-03-07 12:12:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரை-தாக்கிய-பொலிஸ்-அதிகாரி-பணி-இடைநிறுத்தம்/175-334322) · `ta`
-
-A Sub Inspector of Police at Udappu Police Station has been suspended for allegedly assaulting two men.
-
-🟩
-
-The police media spokesman's office said that a Sub Inspector of Police at Udappu Police Station has been suspended for allegedly assaulting the two men.
-
-The move has been taken over the alleged attack on two civilians along with his friends.
-
-◼️
-
-[Data](articles/859bf0dd.json)
-
-[Extended Data](ext_articles/859bf0dd.ext.json)
 
 ---

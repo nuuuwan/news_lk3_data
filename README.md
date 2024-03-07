@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 16:48:20**
+As of **2024-03-07 17:02:43**
 
 ## Newspaper Stats
 
-*Scraped **11,491** Articles*
+*Scraped **11,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 972
-adaderanalk | 1,398
+adaderanalk | 1,399
 tamilmirrorlk | 1,401
 virakesarilk | 1,572
 dailymirrorlk | 1,750
-adaderanasinhalalk | 1,804
+adaderanasinhalalk | 1,806
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,488 (100.0%) of 11,491 articles have been extended.
+11,491 (100.0%) of 11,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### විදුලි බිල අඩුකිරීමට සාපේක්ෂව භාණ්ඩ හා සේවා මිල අඩුවිය යුතුයි - කංචන
+
+*2024-03-07 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194260) · `si`
+
+විදුලි ගාස්තු අඩු කිරීමට සමගාමීව භාණ්ඩ හා සේවාවල මිල අඩු කිරීමට අදාළ ව්‍යාපාරිකයන්ට බලපෑම් කළ යුතු බව විදුලිබල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා අද (07) පැවසීය.
+
+අමාත්‍ය කාංචන විජේසේකර මහතා ඒ බව පැවසුවේ ජනාධිපති මාධ්‍ය ඒකකයේදී පැවති විශේෂ මාධ්‍ය හමුවට එක් වෙමිනි.
+
+◼️
+
+[Data](articles/4b532374.json)
+
+---
+
+### මස්සිනාව ඝාතනය කළ අයියා මලෝ පෝරකය ට
+
+*2024-03-07 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194259) · `si`
+
+2004 වසරේදී සිය මස්සිනාව ඝාතනය කළ බවට චෝදනා එල්ලවී සිටි සහෝදරයින් දෙදෙනෙක් ට අද (07) තංගල්ල මහාධිකරණය මරණ දණ්ඩනය නියම කළේය.
+
+◼️
+
+[Data](articles/aee35f5b.json)
+
+---
+
+### Indian warship saves 21 crew members from drone-hit vessel in Gulf of Aden
+
+*2024-03-07 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97799/indian-warship-saves-21-crew-members-from-drone-hit-vessel-in-gulf-of-aden) · `en`
+
+Indian Navy swiftly responded to a distress call from the Gulf of Aden where a merchant vessel caught fire after being hit by a missile, and rescued 21 crew members, including one Indian national.
+
+The Indian Navy informed in a statement on Thursday that its naval warship, INS Kolkata swiftly acted against Wednesday’s maritime incident and all the crew members were safely evacuated to Djibouti.
+
+As per the Navy, Barbados Flagged Bulk Carrier MV True Confidence was reportedly hit by a drone/ missile, approximately 55 nm South West of Aden, on Wednesday, resulting in a fire onboard and critical injuries to some of the crew members forcing the crew to abandon the ship.
+
+INS Kolkata, deployed for Maritime Security Operations arrived at the scene of action at 1645 hours and rescued 21 crew members, including one Indian national, from the life raft using its integral helicopter and boats. Critical medical aid was also provided to the injured crew by the ship’s medical team.
+
+...
+
+[Data](articles/83db6390.json)
+
+---
 
 ### Two men arrested with over 3.3kg of ‘Ice’ in Wattala
 
@@ -47,6 +91,8 @@ The PNB officers have seized 3.3kg of ‘Ice’ from the possession of the suspe
 ◼️
 
 [Data](articles/513a6e89.json)
+
+[Extended Data](ext_articles/513a6e89.ext.json)
 
 ---
 
@@ -68,21 +114,31 @@ Taking to X (formerly Twitter), Finance State Minister Shehan Semasinghe had sai
 
 [Data](articles/ca4a74bb.json)
 
+[Extended Data](ext_articles/ca4a74bb.ext.json)
+
 ---
 
-### පියයුරු පිළිකාවෙන් වසරකට 1000කට වැඩි පිරිසක් ශ්‍රී ලංකාවේ මරුට
+### More than 1,000 people die in breast cancer
 
 *2024-03-07 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194258) · `si`
 
-වසරකට මෙරට කාන්තාවන් 1,095ක් පියයුරු පිළිකා හේතුවෙන් මරණයට පත්වන බවත් වසරකට මෙරට කාන්තාවන් 5,475 දෙනෙකු පියයුරු පිළිකාවට ගොදුරුවන බවත් වෛද්‍ය ලංකා ජයසූරිය දිසානායක පවසයි.
+Dr. Jayasuriya Dissanayake reported that 1,095 women in Sri Lanka die from breast cancer annually. Factors like smoking, drug abuse, and lifestyle can increase the risk. Medical research shows that breast cancer in women is minimal, and about 1% of breast cancer cases are in men.
 
-ලෝක කාන්තා දිනය වෙනුවෙන් අද (07) මහනුවර පැවති උත්සවයකට සහභාගී වූ ඉන්දිරා ජයසූරිය පිළිකා භාරයේ සභාපතිනි, වෛද්‍ය ලංකා ජයසූරිය දිසානායක මේ බව හෙළි කළාය.
+🟩
 
-"මෙරට ජීවත් වන සෑම කාන්තාවන් 08 දෙනෙකුගෙන් එක් අයෙකුට පියයුරු පිළිකා වැළඳීමේ අවදානම තිබෙනවා. ඉතාමත් කනගාටුයි. මේ පියයුරු පිළිකා හේතුවෙන් අප රටේ කාන්තාවන් තිදෙනෙක් දිනකට මරණයට පත්වෙනවා. ඒ වගේම අප රටේ තවත් කාන්තාවන් 15  දෙනෙක් පියයුරු පිළිකා රෝගීන් වශයෙන් දිනකට හඳුනාගන්නවා. කාන්තාවක් වී ඉපදීමම පියයුරු පිළිකා අවදානමට ලක්වීමක්. ඇල්කොහොල්, දුම් පානය, මත්ද්‍රව්‍ය භාවිතය, ව්‍යායාම මදකම, වැරදි ආහාර පුරුදු වගේම ලේ ඥාතීන් ට පියයුරු පිළිකා තිබීමද මේ පිළිකා තත්ත්වය ඇතිවීමට හේතු වෙන්න පුළුවන්. හැබැයි මේ වනවිට වෛද්‍ය  පර්යේෂණ මගින් තහවුරු කොට තිබෙනවා. මව් කිරි ලබාදුන් කාන්තාවන් ට පියයුරු පිළිකා වැළඳීමේ අවදානම අවමයි කියලා."
+Dr. Jayasuriya Dissanayake says that 1,095 women will die for breast cancer every year.
 
-...
+Dr. Jayasuriya Dissanayake revealed this to the Third Minister of Indira Jayasuriya, who participated in the event held in Kandy today (07).
+
+"Every eight women living in Sri Lanka has the risk of breast cancer. Sorry. Three women in our country die due to this breast cancer. And 15 more women in our country identify a day as breast cancer. A woman is a risk of breast cancer. Smoking, smoking, drug abuse, exercise, misconduct, and blood relatives can lead to this cancer condition. However, medical research has been confirmed. Women who gave birth to breast cancer are minimal. "
+
+She added that not only for women but also breast cancer. About 1% of breast cancer have been identified men.
+
+◼️
 
 [Data](articles/699aa165.json)
+
+[Extended Data](ext_articles/699aa165.ext.json)
 
 ---
 
@@ -2207,73 +2263,5 @@ Accordingly, the Minister of Finance added that the review process will be held 
 [Data](articles/044b19ee.json)
 
 [Extended Data](ext_articles/044b19ee.ext.json)
-
----
-
-### Police Sergeant arrested for aiding and abetting “Harak Kata’s” escape bid
-
-*2024-03-07 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97787/police-sergeant-arrested-for-aiding-and-abetting-harak-katas-escape-bid) · `en`
-
-A police officer has been arrested on charges of being complicit the foiled attempt by the notorious underworld figure Nadun Chinthaka alias “Harak Kata” to escape custody.
-
-The apprehended officer was identified as a Police Sergeant attached to the Matara Divisional Crimes Investigation Division.
-
-The Terrorism Investigation Division (TID) had arrested the 36-year-old on Wednesday (March 06) for aiding and abetting the infamous criminal gang leader and covering up information vital to the ongoing investigations.
-
-According to the police media division, the suspect was also involved with Jayasekara Withanage Ruwan Chamara alias “Midigama Ruwan” who operates from overseas and orchestrated “Harak Kata’s” escape bid at the CID.
-
-Investigating officers have uncovered a WhatsApp messages exchanged between the arrested police sergeant and “Midigama Ruwan”.
-
-...
-
-[Data](articles/ac082a33.json)
-
-[Extended Data](ext_articles/ac082a33.ext.json)
-
----
-
-### Police Sergeant arrested for helping beef
-
-*2024-03-07 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194231) · `si`
-
-A police sergeant was arrested for supporting the Organization Occupiers' 'Beef' announcement. The arrest was made by the Terrorist Prevention and Investigation Division, and a motorcycle and protective gear were seized. Suddha, involved in the operation, is attached to the Matara Division Criminal Investigation Division. The sergeant was also involved in the Criminal Investigation Department.
-
-🟩
-
-A police sergeant has been arrested for supporting the announcement of the Organization Occupiers 'Beef' or 'Beef'.
-
-The police media division issued an announcement, said the police sergeant had been arrested by the Terrorist Prevention and Investigation Division.
-
-A motorcycle and a protective empower was arrested in the CID in the investigation of the telephone data.
-
-A man named Suddha had been involved in the operation to bring the helmet.
-
-It has been revealed that the person named Suddha has been carried out further, while Suddha is attached to the Matara Division Criminal Investigation Division.
-
-In addition, it has been revealed that the sergeant had been involved in the 'Criminal Investigation Department' to the Criminal Investigation Department.
-
-Accordingly, the police sergeant has been arrested in the Midigama Police Division yesterday.
-
-◼️
-
-[Data](articles/d1aa6fe9.json)
-
-[Extended Data](ext_articles/d1aa6fe9.ext.json)
-
----
-
-### Three crew members killed in Houthi missile attack on cargo ship
-
-*2024-03-07 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97786/three-crew-members-killed-in-houthi-missile-attack-on-cargo-ship) · `en`
-
-A missile attack by Yemen’s Houthi rebels on a commercial ship in the Gulf of Aden on Wednesday killed three of its crew members and forced survivors to abandon the vessel, the U.S. military said. It was the first fatal strike in a campaign of assaults by the Iranian-backed group over Israel’s war on Hamas in the Gaza Strip.
-
-The attack on the Barbados-flagged, Liberian-owned bulk carrier True Confidence further escalates the conflict on a crucial maritime route linking Asia and the Middle East to Europe that has disrupted global shipping. The Houthis have launched attacks since November, and the U.S. began an airstrike campaign in January that so far hasn’t halted their attacks.
-
-...
-
-[Data](articles/c26aac96.json)
-
-[Extended Data](ext_articles/c26aac96.ext.json)
 
 ---

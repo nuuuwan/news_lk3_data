@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 20:18:10**
+As of **2024-03-07 20:33:26**
 
 ## Newspaper Stats
 
-*Scraped **11,523** Articles*
+*Scraped **11,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
-adalk | 980
-tamilmirrorlk | 1,401
+adalk | 982
+tamilmirrorlk | 1,402
 adaderanalk | 1,402
 virakesarilk | 1,580
-dailymirrorlk | 1,753
+dailymirrorlk | 1,754
 adaderanasinhalalk | 1,813
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,522 (100.0%) of 11,523 articles have been extended.
+11,523 (100.0%) of 11,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### தாக்குதலுக்குள்ளான கப்பலில் இருந்த இலங்கையர்கள் மீட்பு
+
+*2024-03-07 20:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலுக்குள்ளான-கப்பலில்-இருந்த-இலங்கையர்கள்-மீட்பு/175-334355) · `ta`
+
+ஏமன் நாட்டின் ஏடன் துறைமுகத்திற்கு அப்பால் ஏடன் வளைகுடா பகுதியில் பயணித்துக் கொண்டிருந்த வணிகக் கப்பலின் மீது ஹூதி கிளர்ச்சியாளர்கள் ஏவுகணைகளை வீசி தாக்கியதில் காயமடைந்தவர்கள் உட்பட 21 பேர் மீட்கப்பட்டுள்ளனர்
+
+இந்திய கடற்படையினரால் இந்த மீட்பு நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளதாக இலங்கை கடற்படை பேச்சாளர் தெரிவித்தார்.
+
+மேலும், இவ்வாறு மீட்கப்பட்டவர்களில் இரண்டு இலங்கையர்களும் அடங்குவதாக தெரிவிக்கப்படுகிறது. அவர்களில் ஒருவர் காயமடைந்துள்ளதாகவும் இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+INS கொல்கத்தா கப்பல், ஹெலிகொப்டர்கள் மற்றும் படகுகள் மூலம் அந்த குழுவினர் மீட்கப்பட்டதாக இந்திய கடற்படை தெரிவித்துள்ளதாக அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/3b4ad1d9.json)
+
+---
+
+### Indian Warship rescues crew members from attacked ship in Gulf of Aden
+
+*2024-03-07 20:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Warship-rescues-crew-members-from-attacked-ship-in-Gulf-of-Aden/108-278434) · `en`
+
+March 07 - An Indian warship, INS Kolkata, swiftly responded to a distress call in the Gulf of Aden, rescuing 21 crew members from the cargo ship 'True Confidence' after it was targeted by a missile launched by Houthi rebels.
+
+Among those rescued were two Sri Lankans, one of whom sustained injuries during the attack, as reported by the Sri Lanka Navy Spokesman.
+
+The incident occurred on March 6th when the Barbados-flagged Bulk Carrier MV True Confidence came under attack by a drone or missile approximately 55 nautical miles southwest of Aden. The attack ignited a fire onboard and resulted in critical injuries to several crew members, though specific details about the injured Sri Lankan are yet to be disclosed. It remains unclear if there were additional Sri Lankan nationals among the ship's crew.
+
+...
+
+[Data](articles/30b24356.json)
+
+---
 
 ### 22 Indians arrested in illegal activities
 
@@ -152,6 +186,26 @@ Minister of Power and Energy Kanchantsa Wijesekara, Speaking further,
 
 ---
 
+### මිතුරාගේ රු. මිලියන 5කට විද්ද මිතුරා
+
+*2024-03-07 19:20:19* · [`adalk`](https://www.ada.lk/breaking_news/මිතුරාගේ-රු--මිලියන-5කට-විද්ද-මිතුරා/11-408485) · `si`
+
+කොළඹ තරුපයේ හෝටලයකදී තම කුළුපග ව්‍යාපාරික මිතුරාට නින්ද ගිය අතරවාරයේදී මිතුරාගේ බෑගයේ තිබූ රුපියල් ලක්ෂ 50 ක  මුදලක් රැගෙන අනෙක් මිතුරා පලා ගොස් ඇතැයි කොල්ලූපිටිය පොලිසිය කියයි.
+
+පැමිණිකාර ව්‍යාපාරිකයා සහ මුදල් සොරාගෙන පලා ගිය ඔහුගේ මිතුරා පාසල් වියේ සිටම කුළුපග මිතුරන් වන අතර වහනයක් මිලදී ගැනීම සඳහා පැමිණ  දෙදෙනාම හෝටලයේ කාමරයක මත්පැන් පානය කර ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අධික ලෙස මත්පැන් පානය කිරීම හේතුවෙන් ව්‍යාපාරික මිතුරාට නින්ද යාමෙන් අනතුරුව  සැකකාර මිතුරා ඔහුගේ මුදලුත් රැගෙන පලා ගොස් ඇතැයි පොලිසිය කියයි.
+
+පැමිණිලිකාර ව්‍යාපාරිකයා කහව පදිංචි පදිංචිකරුවෙකු බවත් පලා ගිය සැකකරු කොස්ගොඩ මාදෝබේ පදිංචි කරුවෙකු බව පොලිසිය සඳහන් කරයි.
+
+කොල්ලූපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක මනතුංග මහතා ඇතුළු කණ්ඩායමක් පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/5bb195aa.json)
+
+---
+
 ### Talks for Gaza ceasefire at a standstill
 
 *2024-03-07 19:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talks-for-Gaza-ceasefire-at-a-standstill/108-278432) · `en`
@@ -165,6 +219,8 @@ Two American officials agreed that the prospects are not promising of Israel and
 ...
 
 [Data](articles/ed668a94.json)
+
+[Extended Data](ext_articles/ed668a94.ext.json)
 
 ---
 
@@ -203,6 +259,22 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 [Data](articles/919fa20b.json)
 
 [Extended Data](ext_articles/919fa20b.ext.json)
+
+---
+
+### වැඩබලන පොලිස්පතිගේ පත්කිරීමට එරෙහිව මූලික අයිතිවාසිකම් පෙත්සම් දෙකක්
+
+*2024-03-07 19:01:08* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-මූලික-අයිතිවාසිකම්-පෙත්සම්-දෙකක්/11-408484) · `si`
+
+වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් නීතිය පිළිබඳ මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය සහ සමගි ජන බලවේගයේ හිටපු පළාත් සභා මන්ත්‍රී නිරෝෂණ පාදුක්ක මහතා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් අද (07) ගොනු කළහ.
+
+මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය සහ නිරෝෂණ පාදුක්ක මහතා ගොනු කළ මෙම පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් වන පාර්ලිමේන්තු මන්ත්‍රීවරුන් කර ඇත.
+
+වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධූරයට පත් කිරීමට ව්‍යවස්ථාදායක සභාවේ පූර්ණ අනුමැතිය නොලැබුණු බවත් ව්‍යවස්ථාදායක සභාවේ පූර්ණ අනුමැතියකින් තොරව තෙන්නකෝන් මහතා පොලිස්පති ධූරයට පත් කිරීම නීතියට පටහැනි බවත් පෙන්වා දෙන පෙත්සම්කරුවෝ ඒ අනුව දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධූරයට පත් කිරීම නීත්‍යානුකූල නොවන බවට ප්‍රකාශ කරන්නැයයි ඉල්ලා සිටිති.
+
+◼️
+
+[Data](articles/57f19368.json)
 
 ---
 
@@ -2173,99 +2245,5 @@ Ruwan Wickremesinghe pointed out that Ranil Wickremesinghe has played a major ro
 [Data](articles/89a7f0c5.json)
 
 [Extended Data](ext_articles/89a7f0c5.ext.json)
-
----
-
-### Udappuwa Police Criminal Investigation Division's OIC suspended
-
-*2024-03-07 11:37:32* · [`adalk`](https://www.ada.lk/breaking_news/උඩප්පුව-පොලීසියේ-අපරාධ-විමරෂණ-අංශයේ-ස්ථානාධිපතිගේ-වැඩ-තහනම්/11-408469) · `si`
-
-The OIC of Udappuwa Police CID was suspended after an incident involving villagers and the OIC. The OIC and two civilians were attacked, and the OIC was hospitalized. Further investigations are underway.
-
-🟩
-
-Puttalam District Changes, Nalaka Silva said that the officials of the Udappuwa Police Station was temporarily banned from today.. Mundalama Police say that the duties have been a temporary ban on the Criminal Investigation Division at the Udappuwa Police Center Chamara Kumara Rajapaksa.. According to the Deputy Police, the duties were banned due to a group of villagers and the OIC in the Udappuwa area at Udappuwa at the Udappuwa.
-
-The Udahale of Udigawa, a resident of Udappuwa, Appearuwa, has been hospitalized and hospitalized. Accordingly, the Udappuwa Regional Hospital has been admitted to the Chilaw Hospital for further treatment.
-
-The OIC of the Criminal Investigation Division and two more civilians were traveling in Udappuwa in the Udappuwa area while traveling in the Udappuwa area.
-
-...
-
-[Data](articles/304108e8.json)
-
-[Extended Data](ext_articles/304108e8.ext.json)
-
----
-
-### Opposition protest against the statue of Buddha
-
-*2024-03-07 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178144) · `ta`
-
-Tamil National People's Front spokesperson Kanagaratnam Sukash has organized a protest against the Buddha statue in Chiripuram-Chowkadi for tomorrow, March 8th, at 10:30 am.
-
-🟩
-
-Tamil National People's Front media spokesman Kanagaratnam Sukash has called for a protest to be held tomorrow (08) in protest of the Buddha statue of Chiripuram - Chowkadi.
-
-He has called through a media report released today. In the report,
-
-The protest will be held tomorrow (08.03.2024) at 10.30 am on Friday (08.03.2024).
-
-◼️
-
-[Data](articles/82821d93.json)
-
-[Extended Data](ext_articles/82821d93.ext.json)
-
----
-
-### They learned the claims of Parliament
-
-*2024-03-07 11:33:10* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-කියුම්-කෙරුම්-ඉගෙනගත්තෝ/11-408467) · `si`
-
-Rajarata University recently held a Certificate of Scripture of the Government of Parliament and procedures event. This event empowered Sri Lankan youth to better understand Parliament's claims, enhancing their participation in citizenship. Successful scholars received certificates, and a special proposal was made for 10-day scholars.
-
-🟩
-
-The Certificate of Scripture of the Government of Parliament and procedures was held at Rajarata University recently.
-
-The youth of the country has been able to join the Sri Lankan youth to participate in the country's citizenship more effectively and the knowledge of Parliament is very important to the youth and the knowledge of the youth.Given.
-
-The certificates were awarded to all the successful completed scholarship successfully and at the end of the course, a special proposal was held for the 10-day scholars.
-
-◼️
-
-[Data](articles/e64127da.json)
-
-[Extended Data](ext_articles/e64127da.ext.json)
-
----
-
-### 'Shell' fuel company again in Sri Lanka
-
-*2024-03-07 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178141) · `ta`
-
-Shell returns to Sri Lanka after 63 years, marking a significant reunion with the local energy industry. The company's first fuel vessel will dock in Colombo on the 19th, under the new government's Energy and Economic Reform Scheme, allowing it to import, store, and distribute fuel.
-
-🟩
-
-'Shell' will start fuel operations in Sri Lanka from the 19th of this month after 63 years.
-
-The Shell Fuel Company, which has been operating in Sri Lanka since 1880, was nationalized by the Sri Lanka Freedom Party government in 1961.
-
-The company has since removed its operations in Asia from Sri Lanka and started in Singapore and became a great company in Singapore today.
-
-However, sixty -three years later, shell has reunited the Sri Lankan energy industry.
-
-The company's first fuel vessel will enter the port of Colombo on the 19th of this month after 63 years.
-
-Under the current government's Energy and Economic Reform Scheme, it has been allowed to import, store and distribute.
-
-◼️
-
-[Data](articles/4b6828bc.json)
-
-[Extended Data](ext_articles/4b6828bc.ext.json)
 
 ---

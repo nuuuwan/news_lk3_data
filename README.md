@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 17:02:43**
+As of **2024-03-07 17:17:48**
 
 ## Newspaper Stats
 
-*Scraped **11,494** Articles*
+*Scraped **11,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,113 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 972
-adaderanalk | 1,399
+adaderanalk | 1,400
 tamilmirrorlk | 1,401
-virakesarilk | 1,572
+virakesarilk | 1,574
 dailymirrorlk | 1,750
-adaderanasinhalalk | 1,806
+adaderanasinhalalk | 1,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,491 (100.0%) of 11,494 articles have been extended.
+11,494 (100.0%) of 11,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### විදුලි බිල අඩුකිරීමට සාපේක්ෂව භාණ්ඩ හා සේවා මිල අඩුවිය යුතුයි - කංචන
+### දේශබන්දුගේ පත්වීමට එරෙහිව තවත් පෙත්සම්
+
+*2024-03-07 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194261) · `si`
+
+වැඩබලන පොලිස්පතිවරයා වශයෙන් කටයුතු කළ දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත් කිරීම නීති විරෝධී යැයි තීන්දු කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට මූලික අයිතිවාසිකම් පෙත්සම් 02ක් ඉදිරිපත් කර තිබේ.
+
+සමගි ජන බලවේගයේ නිරෝෂන් පාදුක්ක මහතා විසින් එක් පෙත්සමක් ඉදිරිපත් කළ අතර මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය විසින් තවත් පෙත්සමක් ඉදිරිපත් කර ඇත.
+
+එම පෙත්සම්බල වග උත්තරකරුවන් ලෙස ආණ්ඩුක්‍රම ව්‍යස්ථාදායක සභාවේ සාමාජිකයින්, නීතිපතිවරයා, පොලිස්පති දේශබන්දු තෙන්නකෝන් ඇතුළු පිරිසක් නම් කර තිබේ.
+
+පෙත්සම්කරුවෝ කියා සිටින්නේ දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත් කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ විධිමත් අනුමැතියක් ලැබී නොමැති බවය.
+
+◼️
+
+[Data](articles/76699886.json)
+
+---
+
+### கஜிமாவத்தையில் வசிக்கும் அனைத்து வீடற்ற குடும்பங்களுக்கும் துரிதமாக வீடுகளை வழங்குமாறு ஜனாதிபதி பணிப்பு
+
+*2024-03-07 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178187) · `ta`
+
+கொழும்பு கஜிமாவத்தையில் வசிக்கும் அனைத்து வீடற்ற குடும்பங்களுக்கும் வீடுகளை வழங்கத் தேவையான பணிகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+அரசாங்கத்தின் வீடுகள் வழங்கும் கொள்கைகள் மற்றும் அளவுகோல்களுக்கு அமைவாகவே இப்பணிகள் முன்னெடுக்கப்பட வேண்டுமெனவும் ஜனாதிபதி அறிவித்தார்.
+
+கொழும்பு கஜிமாவத்தை வீட்டுப் பிரச்சினை தொடர்பில் புதன்கிழமை (06) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+கொழும்பு மாநகரப் பகுதிக்குள் அரசாங்கத்திற்குச் சொந்தமான, பயன்படுத்தப்படாத கட்டடங்கள் மற்றும் காணிகள் தொடர்பில் ஆராய்ந்து அந்த காணிகளை அபிவிருத்தி செய்து வர்த்தக நடவடிக்கைகளுக்கு வழங்குவதற்கான சாத்தியக்கூறுகள் தொடர்பில் கவனம் செலுத்துமாறு ஜனாதிபதி, அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+
+அரச துறையின் தலையீட்டுடன் தனியார் முதலீடுகள் ஊடாக இந்த வேலைத் திட்டத்தை நடைமுறைப்படுத்துவதன் முக்கியத்துவத்தையும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/d17c383c.json)
+
+---
+
+### Petition filed against Sri Lanka-Thailand FTA
+
+*2024-03-07 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97800/petition-filed-against-sri-lanka-thailand-fta) · `en`
+
+A fundamental rights (FR) petition has been filed before the Supreme Court challenging the Sri Lanka-Thailand Free Trade Agreement (SLTFTA).
+
+The petitioners have requested the Supreme Court to deliver an order preventing the implementation of the trade deal.
+
+A total of 27 individuals including the Attorney General (on behalf of the President), the Prime Minister, the Cabinet Ministers, Secretary to the Finance Ministry and Secretary to the Trade Ministry have been named as respondents of this petition.
+
+During the visit of Thai Prime Minister Srettha Thavisin and his delegation of business dignitaries in February, Sri Lanka inked the historic trade agreement with Thailand in a bid to boost market opportunities, with negotiations covering various aspects such as trade in goods, investment, customs procedure, and intellectual property rights.
+
+...
+
+[Data](articles/2d2a9b9a.json)
+
+---
+
+### Goods and services should be decreased relative to reducing electricity tariff - Kanana
 
 *2024-03-07 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194260) · `si`
 
-විදුලි ගාස්තු අඩු කිරීමට සමගාමීව භාණ්ඩ හා සේවාවල මිල අඩු කිරීමට අදාළ ව්‍යාපාරිකයන්ට බලපෑම් කළ යුතු බව විදුලිබල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා අද (07) පැවසීය.
+Kanchana Wijesekara, Minister of Power and Energy, suggested that businesses should help reduce electricity tariffs by lowering the prices of goods and services.
 
-අමාත්‍ය කාංචන විජේසේකර මහතා ඒ බව පැවසුවේ ජනාධිපති මාධ්‍ය ඒකකයේදී පැවති විශේෂ මාධ්‍ය හමුවට එක් වෙමිනි.
+🟩
+
+Minister of Power and Energy Kanchana Wijesekara today (07) said that the businessmen should influence the price of goods and services.
+
+Minister Kanchana Wijesekara was speaking at a special press conference held at the Presidential Media Unit.
 
 ◼️
 
 [Data](articles/4b532374.json)
 
+[Extended Data](ext_articles/4b532374.ext.json)
+
 ---
 
-### මස්සිනාව ඝාතනය කළ අයියා මලෝ පෝරකය ට
+### Ayalo Arts, who killed Missinaya
 
 *2024-03-07 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194259) · `si`
 
-2004 වසරේදී සිය මස්සිනාව ඝාතනය කළ බවට චෝදනා එල්ලවී සිටි සහෝදරයින් දෙදෙනෙක් ට අද (07) තංගල්ල මහාධිකරණය මරණ දණ්ඩනය නියම කළේය.
+Ayalo Arts, two brothers accused of killing their brother-in-law in 2004, were sentenced to death.
+
+🟩
+
+Two brothers who were accused of killing their brother-in-law in 2004 were sentenced to death.
 
 ◼️
 
 [Data](articles/aee35f5b.json)
+
+[Extended Data](ext_articles/aee35f5b.ext.json)
 
 ---
 
@@ -73,6 +141,8 @@ INS Kolkata, deployed for Maritime Security Operations arrived at the scene of a
 ...
 
 [Data](articles/83db6390.json)
+
+[Extended Data](ext_articles/83db6390.ext.json)
 
 ---
 
@@ -93,6 +163,22 @@ The PNB officers have seized 3.3kg of ‘Ice’ from the possession of the suspe
 [Data](articles/513a6e89.json)
 
 [Extended Data](ext_articles/513a6e89.ext.json)
+
+---
+
+### மட்டக்களப்பில் வீடு ஒன்றில் குப்பைக்குள் கிடந்த குண்டு வெடிப்பு ; ஒருவர் படுகாயம்
+
+*2024-03-07 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178185) · `ta`
+
+மட்டக்களப்பு வாகரை பொலிஸ் நிலையத்திற்கு முன்னால் உள்ள வீடு ஒன்றில் குப்பைக்குள் இருந்து குண்டு ஒன்று வெடித்ததில் ஒருவர் படுகாயமடைந்த சம்பவம் இன்று வியாழக்கிழமை (07) பகல் 12 தணிக்கு இடம்பெற்றுள்ளதாக வாகரை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் நிலையத்துக்கு முன்னால் உள்ள வீடு ஒன்றின் உரிமையாளர்  சம்பவதினமான இன்று பகல் காணியை துப்பரவு செய்துள்ளார்.
+
+பின்னர் குப்பைகளை தீயிட்டு எரித்தப் போது கைக்குண்டு ஒன்று பாரிய சத்தத்துடன் வெடித்து சிதறியுள்ளது. இந்நிலையில், வீட்டின் உரிமையாளர படுகாயமடைந்த நிலையில் மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/00613eeb.json)
 
 ---
 
@@ -2165,103 +2251,5 @@ Following the war between Israel and Hamas in October last year, Houthi clansmen
 [Data](articles/ae89ade5.json)
 
 [Extended Data](ext_articles/ae89ade5.ext.json)
-
----
-
-### Seven sentences for Mattakkuliya clash
-
-*2024-03-07 09:27:51* · [`adalk`](https://www.ada.lk/breaking_news/මට්ටක්කුලිය-ගැටුමට-හතක්-අල්ලයි/11-408463) · `si`
-
-Seven individuals were detained for a clash near Mattakkuliya Punkuliya Punkulawatta Junction, leading to hospital admissions. A drug network operator was among the arrested. The incident involved a dispute between parties at Mattakkuliya Povesta and Kahakuliya Junction on December 26, with further investigations led by Police Inspector Harischandra.
-
-🟩
-
-Seven persons were arrested in connection with a clash between the two parties near the Mattakkuliya Punkuliya Punkulawatta Junction.
-
-A son and another woman has been admitted to the Colombo National Hospital in the incident.
-
-Police sources said that there is a person who operates the drug network of organized criminal criminal gangs among the arrested
-
-Police investigations further revealed that Dananjaya Umakangana was a dispute between the two parties in the Mattakkuliya Povesta and Kahakuliya Junction at Mattakkuliya Junction on December 26.
-
-Police Inspector Harischandra and a group of police investigations are conducting further investigations.
-
-◼️
-
-[Data](articles/1cafe3b5.json)
-
-[Extended Data](ext_articles/1cafe3b5.ext.json)
-
----
-
-### Houthi insurgents missile attack on cargo ship: 3 killed
-
-*2024-03-07 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178133) · `ta`
-
-Houthi insurgents attacked a cargo ship in the Gulf of Aden, killing 3. The US and British navies retaliated. The ship, under Liberian ownership but flying the Barbados flag, was targeted. Three sailors died, six were injured.
-
-🟩
-
-The US military said that three employees were killed in a missile attack on Wednesday by Houthi insurgents on a cargo ship in the Gulf of Aden.
-
-While Israel is attacking Gaza, Houthi insurgents operating in Yemen are attacking Iran in the Gulf of the Red Sea and the Gulf of the Red Sea and the Gulf of Israel in support of Israel.
-
-The US and British navy are collectively retaliating as frequent missile strikes towards the cargo ship.
-
-In this case, a cargo ship owned by a Liberia country was traveling in the Gulf with the Barbados flag. Houthi rebels launched a missile attack on the ship.
-
-Three sailors have died. Six people were injured. Following this, the ship left the ship and the staff left.
-
-Three sailors have died. The British embassy in Yemen said it was an irresponsible attack on Houthi insurgents on the international ship.
-
-Houthi rebels have been attacked by five missiles in the last two days. Two missiles have hit cargo ships. The US ship attacked and destroyed one third.
-
-◼️
-
-[Data](articles/589f3d2f.json)
-
-[Extended Data](ext_articles/589f3d2f.ext.json)
-
----
-
-### Former Kalpitiya Police OIC remanded over allegation of sexual assault
-
-*2024-03-07 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Kalpitiya-Police-OIC-remanded-over-allegation-of-sexual-assault/108-278410) · `en`
-
-Kalpitiya, March 7 (Daily Mirror) - The former Officer-in-Charge (OIC) of the Kalpitiya Police Station who was charged over sexually assaulting a female police constable, has been remanded till March 12 by the Puttalam Magistrate's Court.
-
-Police said the suspect was remanded in accordance with the provisions of the Victims Protection Act due to the allegation of threatening and influencing the complainant.
-
-The former OIC was earlier interdicted from service by the National Police Commission over the allegations.
-
-The Kuliyapitiya Division Senior Superintendent of Police launched an investigation after the alleged incident and subsequently reported the matter to courts.
-
-Earlier, the Puttalam Magistrate's Court granted bail to the suspect and when the case taken up before the Magistrate, the suspect was remanded for threatening the victim woman constable to withdraw the complaint.
-
-◼️
-
-[Data](articles/f01c5587.json)
-
-[Extended Data](ext_articles/f01c5587.ext.json)
-
----
-
-### IMF representatives who meet the president today
-
-*2024-03-07 09:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-ஜனாதிபதியை-சந்திக்கும்-IMF-பிரதிநிதிகள்/175-334313) · `ta`
-
-IMF representatives meet President Ranil Wickremesinghe today, with a two-week review process.
-
-🟩
-
-Finance Minister Shehan Semasinghe said that representatives of the International Monetary Fund will meet President Ranil Wickremesinghe today.
-
-Accordingly, the Minister of Finance added that the review process will be held for about two weeks.. Remble
-
-◼️
-
-[Data](articles/044b19ee.json)
-
-[Extended Data](ext_articles/044b19ee.ext.json)
 
 ---

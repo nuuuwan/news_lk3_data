@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 09:51:37**
+As of **2024-03-07 10:02:49**
 
 ## Newspaper Stats
 
-*Scraped **11,396** Articles*
+*Scraped **11,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,128 @@ newsfirstlk | 363
 economynextcom | 591
 dailyftlk | 605
 islandlk | 612
-adalk | 960
-adaderanalk | 1,386
+adalk | 962
+adaderanalk | 1,387
 tamilmirrorlk | 1,387
-virakesarilk | 1,557
+virakesarilk | 1,558
 dailymirrorlk | 1,738
-adaderanasinhalalk | 1,781
+adaderanasinhalalk | 1,782
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,390 (99.9%) of 11,396 articles have been extended.
+11,396 (100.0%) of 11,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### පළාත් රාජ්‍ය සේවා නිලධාරීන්ගේ ස්ථාන මාරු තාවකාලිකව නවතී
+### දීමනා ගෙවීම ගැන මුදල් අමාත්‍යාංශයෙන් හදිසි තීරණයක්
+
+*2024-03-07 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194234) · `si`
+
+වෙනත් හැකියාවන් සහිත පුද්ගලයින්, හඳුනානොගත් වකුගඩු රෝගීන් සහ වැඩිහිටි ආධාර ලබන පුද්ගලයින් සඳහා වන ගෙවීම් අස්වැසුම ප්‍රතිලාභ ක්‍රමවේදය හරහා සිදුකිරීමට මුදල් අමාත්‍යාංශය තීරණය කර තිබේ.
+
+අප්‍රේල් මස පළමු වන දින සිට ක්‍රියාත්මක වන පරිදි අදාළ ගෙවීම් සිදුකිරීමට නියමිත බව වාර්තා වේ.
+
+ඒ අනුව ආධාර ලබන වෙනත් හැකියාන් සහිත පුද්ගලයින් 410,000ක් සඳහා මාසිකව රුපියල් 7,500 බැගින් දීමනාවක් ද වකුගඩු ආධාර ලබා පුද්ගලයින් 50,000ක් සඳහා රුපියල් 7,500 බැගින් දීමනාවක් ද ලබාදීමට නියමිතය.
+
+ඊට අමතරව වැඩිහිටි ආධාර ලබන පුද්ගලයින් 820,000ක් සඳහා රුපියල් 3,000 බැගින් දීමනාවක් ද ලබාදීමට නියමිතව තිබේ.
+
+මෙම දීමනා මේ වසරේ අප්‍රේල් මස පළමු වන දින සිට 2025 වසරේ මාර්තු 03 වන දින දක්වා ගෙවීම් සිදුකළ යුතු බව මුදල් අමාත්‍යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1469021a.json)
+
+---
+
+### Three railway employees, suspended over alleged assault, reinstated
+
+*2024-03-07 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97788/three-railway-employees-suspended-over-alleged-assault-reinstated) · `en`
+
+The three railway employees, who were suspended from service for allegedly assaulting two foreign nationals, have been reinstated pending disciplinary action.
+
+A contentious situation had ensued at the Nawalapitiya railway station on Tuesday (March 05) after two foreigners were found to have been travelling in the first-class compartment of the Badulla-bound ‘Podi Menike’ express train without tickets.
+
+Subsequently, the Railway Department suspended the services of two Station Masters (Class 2) and a Railway Guard for allegedly assaulting the two tourists.
+
+The suspension imposed on the three employees has thus been lifted after a preliminary inquiry.
+
+However, the suspension of the security officer attached to the Nawalapitiya railway station continues to be in place, the Railway Department added.
+
+◼️
+
+[Data](articles/b1cf1e64.json)
+
+---
+
+### 'ஹரக் கட்டா' வை தப்பிக்க வைக்க முயற்சித்த பொலிஸ் சார்ஜென்ட் கைது
+
+*2024-03-07 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178134) · `ta`
+
+திட்டமிடப்பட்ட குற்றச்செயல்களில் ஈடுபடும் ஹரக் கட்டா எனப்படும் நதுன் சிந்தகவை குற்றப்புலனாய்வுத் திணைக்களத்திலிருந்து தப்பிக்க வைக்க முயற்சித்த குற்றச்சாட்டில்  பொலிஸ் சார்ஜென்ட் ஒருவர்  பயங்கரவாத குற்றத்தடுப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+கைதுசெய்யப்பட்ட 36 வயதுடைய பொலிஸ் சார்ஜென்ட் மாத்தறை பிரதேச குற்றப்புலனாய்வுப் பிரிவில் கடமையாற்றுபவர்  என அடையாளம் காணப்பட்டுள்ளார்.
+
+அவரிடம் பயங்கரவாதத் தடுப்புச்சட்டத்தின்  கீழ் பயங்கரவாத விசாரணைப் பிரிவு மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறது.
+
+◼️
+
+[Data](articles/a95cff0b.json)
+
+---
+
+### අම්බානි පුතුගේ විවාහ උත්සවයට ලංකාවෙන් සූපවේදීන් පිරිසකුත් එක්වෙලා
+
+*2024-03-07 09:35:01* · [`adalk`](https://www.ada.lk/breaking_news/අම්බානි-පුතුගේ-විවාහ-උත්සවයට-ලංකාවෙන්-සූපවේදීන්-පිරිසකුත්-එක්වෙලා/11-408464) · `si`
+
+ඉන්දියාවේ ප්‍රකෝටිපති ව්‍යාපාරික අම්බානි මහතාගේ බාල පුත් ආනත් අම්බානි ( Anant  Ambani ) මහතාගේ විවාහ මංගල උත්සවයේ ආහාර පිසීම සදහා ශ්‍රී ලංකාවෙන් සූපවේදීන් 13 දෙනෙකු තෝරා ගෙන, රැගෙන ගොස් තිබූ අතර ඔවුන් 03/07 දින උදෑසන යළිත් කටුනායක ගුවන් තොටුපොළ ඔස්සේ ශ්‍රී ලංකාවට පැමිණියහ.
+
+ඔවුන් " සිට්‍රස් " ( Citrus ) හෝටල් සමූහය නියෝජනය කරමින් කොළඹ සිට්‍රස් හෝටලයේ " සිලෝන් කරි ක්ල්බ් " ( Ceylon Curry Club ) අවන්හල නියෝජනය කරන සූපවේදීන් පිරිසකි.
+
+මෙම සූපවේදීන් පාරිභෝගික ප්‍රතිචාර සහ ගූගල් ඇගැයීම් සහ නිර්දේශ මත තෝරා ගෙන තිබුණි. ශ්‍රී ලාංකික සූපවේදීන් ශ්‍රී ලංකාවට ආවේනික වූ ආහාරපාන , නවතම ක්‍රම වලට පිළියෙල කර පිරිනැමීම මෙම  අවන්හල තුළ දී සිදු කර ගෙන ගොස් තිබුණි .
+
+මෙම පිරිසට සූපවේදීන් 12 දෙනෙකු සහ එක් සූපවේදිනියක් ද ඇතුළත් වී සිටියහ .
+
+...
+
+[Data](articles/4effa9cd.json)
+
+---
+
+### Transfers of Provincial Public Service Officers temporarily hacked
 
 *2024-03-07 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194233) · `si`
 
-පළාත් රාජ්‍ය සේවයේ ස්ථීර පත්වීමක් දරන නිලධාරියෙකු මධ්‍යම රජයේ අනුරූපී තනතුරක් සඳහා ස්ථාන මාරු කිරීම නැවත දැනුම්දෙන තුරු අත්හිටුඅවීමට රාජ්‍ය සේවා කොමිෂන් සභාව තීරණය කර තිබේ.
+The Public Service Commission has temporarily halted transfers of Provincial Public Service Officers to central government positions until permanent appointments are made.
+
+🟩
+
+The Public Service Commission has decided to discontinue until a permanent appointment of the provincial public service to the transfer of transparent position for a central government corresponding position.
 
 ◼️
 
 [Data](articles/abb60e1c.json)
 
+[Extended Data](ext_articles/abb60e1c.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-03-07 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194232) · `si`
+
+Parliamentary Council commences.
+
+🟩
 
 ◼️
 
 [Data](articles/939560bb.json)
+
+[Extended Data](ext_articles/939560bb.ext.json)
 
 ---
 
@@ -82,23 +168,53 @@ Following the war between Israel and Hamas in October last year, Houthi clansmen
 
 ---
 
-### சரக்கு கப்பல் மீது ஹவுத்தி கிளர்ச்சியாளர்கள் ஏவுகணைத் தாக்குதல் : 3 பேர் பலி
+### මට්ටක්කුලිය ගැටුමට හතක් අල්ලයි
+
+*2024-03-07 09:27:51* · [`adalk`](https://www.ada.lk/breaking_news/මට්ටක්කුලිය-ගැටුමට-හතක්-අල්ලයි/11-408463) · `si`
+
+මට්ටක්කුලිය පොකුණ වත්ත හන්දිය අසලදී දෙපාර්ශවයක් අතර සිදුවූ ගැටුමක් සම්බන්ධයෙන් පුද්ගලයන් හත් දෙනකු අත්අඩංගුවට ගත් බව මට්ටක්කුලිය පොලිසිය කියයි.
+
+එම ගැටුමේදී පොරවකින් සහ යකඩ පොල්ලකින් සිදුවූ පහර දීමෙන් තුවාල ලද එකම පවුලේ පියෙක් පුතෙකු සහ තවත් කාන්තාවක් කොළඹ ජාතික රෝහල වෙත ඇතුලත් කර ඇත.
+
+අත්අඩංගුවට පත්වූවන්  අතර සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයකු වන බොනී විස්ටා නිපුනගේ මත්ද්‍රව්‍ය  ජාලය මෙහෙයවන  පුද්ගලයකු සිටින බව පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+
+2023 දෙසැම්බර් 26 වෙනි දින මට්ටක්කුලිය පොකුණු වත්ත හන්දිය අසලදී ධනංජය උමයංගන යන අයට තවත් පාර්ශවයක් විසින් පිහියෙන් ඇණ ඝාතනය කිරීමේ සිද්ධියකට අදාළව දෙපාර්ශවය අතර සිදුවන ආරවුලක් බවට පොලිස් විමර්ශනවලදී වැඩිදුරටත් අනාවරණය වී ඇත
+
+මට්ටක්කුලිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රෝහණ කරුණාරත්න මහතාගේ උපදෙස් මත පොලිස් පරීක්ෂක හරිස්චන්ද්‍ර මහතා ඇතුළු කණ්ඩායමක් පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/1cafe3b5.json)
+
+---
+
+### Houthi insurgents missile attack on cargo ship: 3 killed
 
 *2024-03-07 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178133) · `ta`
 
-ஏடன் வளைகுடாவில் சரக்கு கப்பல் மீது ஹவுத்தி கிளர்ச்சியாளர்கள் புதன்கிழமை நடத்திய ஏவுகணைத் தாக்குதலில் அதன் மூன்று பணியாளர்கள் கொல்லப்பட்டுள்ளதாக அமெரிக்க இராணுவம் தெரிவித்துள்ளது.
+Houthi insurgents attacked a cargo ship in the Gulf of Aden, killing 3. The US and British navies retaliated. The ship, under Liberian ownership but flying the Barbados flag, was targeted. Three sailors died, six were injured.
 
-இஸ்ரேல் காசா மீது தாக்குதல் நடத்தி வரும் நிலையில், பாலஸ்தீன மக்களுக்கு ஆதரவாக இஸ்ரேலுடன் தொடர்புடைய நாடுகளில் சரக்கு கப்பல்களை செங்கடல் மற்றும் ஏடன் வளைகுடா பகுதிகளில் ஈரான் ஆதரவுடன் ஏமனில் இயங்கி வரும் ஹவுத்தி கிளர்ச்சியாளர்கள் தாக்குதல் நடத்தி வருகின்றனர்.
+🟩
 
-சரக்கு கப்பலை நோக்கி அடிக்கடி ஏவுகணை தாக்குதல் நடத்திவரும் நிலையில் அமெரிக்கா மற்றும் பிரித்தானிய கடற்படைகள் கூட்டாக பதிலடி கொடுத்து வருகின்றன.
+The US military said that three employees were killed in a missile attack on Wednesday by Houthi insurgents on a cargo ship in the Gulf of Aden.
 
-இந்நிலையில் லைபீரியா நாட்டைச் சேர்ந்தவருக்கு சொந்தமான சரக்கு கப்பல் ஒன்று பார்படோஸ் கொடியுடன் ஏடன் வளைகுடாவில் சென்று கொண்டிருந்தது. இந்த கப்பல் மீது ஹவுத்தி கிளர்ச்சியாளர்கள் ஏவுகணை தாக்குதல் நடத்தினர்.
+While Israel is attacking Gaza, Houthi insurgents operating in Yemen are attacking Iran in the Gulf of the Red Sea and the Gulf of the Red Sea and the Gulf of Israel in support of Israel.
 
-இதில் மூன்று மாலுமிகள் உயிரிழந்துள்ளனர். ஆறு பேர் காயம் அடைந்தனர். இதனைத் தொடர்ந்து கப்பலை  அங்கேயே விட்டுவிட்டு பணியாளர்கள் வெளியேறிவிட்டனர்.
+The US and British navy are collectively retaliating as frequent missile strikes towards the cargo ship.
 
-...
+In this case, a cargo ship owned by a Liberia country was traveling in the Gulf with the Barbados flag. Houthi rebels launched a missile attack on the ship.
+
+Three sailors have died. Six people were injured. Following this, the ship left the ship and the staff left.
+
+Three sailors have died. The British embassy in Yemen said it was an irresponsible attack on Houthi insurgents on the international ship.
+
+Houthi rebels have been attacked by five missiles in the last two days. Two missiles have hit cargo ships. The US ship attacked and destroyed one third.
+
+◼️
 
 [Data](articles/589f3d2f.json)
+
+[Extended Data](ext_articles/589f3d2f.ext.json)
 
 ---
 
@@ -120,19 +236,27 @@ Earlier, the Puttalam Magistrate's Court granted bail to the suspect and when th
 
 [Data](articles/f01c5587.json)
 
+[Extended Data](ext_articles/f01c5587.ext.json)
+
 ---
 
-### இன்று ஜனாதிபதியை சந்திக்கும் IMF பிரதிநிதிகள்
+### IMF representatives who meet the president today
 
 *2024-03-07 09:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-ஜனாதிபதியை-சந்திக்கும்-IMF-பிரதிநிதிகள்/175-334313) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் இன்று ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து மீளாய்வு நடவடிக்கைகளை ஆரம்பிக்க உள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க குறிப்பிட்டார்.
+IMF representatives meet President Ranil Wickremesinghe today, with a two-week review process.
 
-இதன்படி, இந்த மீளாய்வு நடவடிக்கைகள் சுமார் இரண்டு வாரங்களுக்கு நடைபெறும் என நிதி இராஜாங்க அமைச்சர் மேலும் தெரிவித்தார். R
+🟩
+
+Finance Minister Shehan Semasinghe said that representatives of the International Monetary Fund will meet President Ranil Wickremesinghe today.
+
+Accordingly, the Minister of Finance added that the review process will be held for about two weeks.. Remble
 
 ◼️
 
 [Data](articles/044b19ee.json)
+
+[Extended Data](ext_articles/044b19ee.ext.json)
 
 ---
 
@@ -140,13 +264,17 @@ Earlier, the Puttalam Magistrate's Court granted bail to the suspect and when th
 
 *2024-03-07 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97787/police-sergeant-arrested-for-aiding-and-abetting-harak-katas-escape-bid) · `en`
 
-A police officer has been arrested on charges of aiding and abetting the foiled attempt by the notorious criminal figure Nadun Chinthaka alias “Harak Kata” to escape custody.
+A police officer has been arrested on charges of being complicit the foiled attempt by the notorious underworld figure Nadun Chinthaka alias “Harak Kata” to escape custody.
 
-The apprehended officer was identified as a 36-year-old Police Sergeant attached to the Matara Divisional Crimes Investigation Division.
+The apprehended officer was identified as a Police Sergeant attached to the Matara Divisional Crimes Investigation Division.
 
-The Terrorism Investigation Division (TID) is conducting further investigations into the suspect under the provisions of the Prevention of Terrorism Act (PTA).
+The Terrorism Investigation Division (TID) had arrested the 36-year-old on Wednesday (March 06) for aiding and abetting the infamous criminal gang leader and covering up information vital to the ongoing investigations.
 
-◼️
+According to the police media division, the suspect was also involved with Jayasekara Withanage Ruwan Chamara alias “Midigama Ruwan” who operates from overseas and orchestrated “Harak Kata’s” escape bid at the CID.
+
+Investigating officers have uncovered a WhatsApp messages exchanged between the arrested police sergeant and “Midigama Ruwan”.
+
+...
 
 [Data](articles/ac082a33.json)
 
@@ -1572,23 +1700,29 @@ The third judge requires a factor to change the decision to change the decision 
 
 ---
 
-### අපනයනය ඉලක්ක කර ගත් තැඹිලි ගම්මාන 86ක්
+### 86 orange villages targeting exports
 
 *2024-03-06 20:15:43* · [`adalk`](https://www.ada.lk/breaking_news/අපනයනය-ඉලක්ක-කර-ගත්-තැඹිලි-ගම්මාන-86ක්/11-408462) · `si`
 
-අපනයනය ඉලක්ක කර ගනිමින් තැඹිලි වගා කිරීම සඳහා කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය විසින් ගම්මාන 86ක් තෝරාගෙන ඇති අතර,ඒවායෙහි තැඹිලි පැළ 45,000ක් වගා කිරීමට තීරණය කර තිබේ.
+The Ministry of Agriculture and Plantation Industries has selected 86 orange villages for export expansion, aiming to monopolize the international market with Sri Lanka's high-quality oranges. Minister Mahinda Amaraweera has ordered officials to support these villages with facilities, seedlings, and technical advice.
 
-අමාත්‍යාංශය සඳහන් කර සිටියේ, මෙරට තැඹිලිවල රසය හා ගුණාත්මකභාවය ඉහළ මට්ටමක පැවතීම හේතුවෙන් අන්තර්ජාතික වෙළෙඳපොළේ තැඹිලි පිළිබඳ ඒකාධිකාරිය ශ්‍රී ලංකාවට හිමිව ඇති බවයි.
+🟩
 
-ඒ අනුව මොනරාගල, මාතර, කුරුණෑගල, කෑගල්ල, ගම්පහ,කළුතර, පුත්තලම, රත්නපුර, හම්බන්තොට, අනුරාධපුර, ත්‍රිකුණාමලය, පොළොන්නරුව, අම්පාර, මාතලේ, ගාල්ල, මඩකලපුව, යාපනය සහමහනුවර දිස්ත්‍රික්කවල ගම්මාන 86ක්තැඹිලි වගා කිරීම සඳහා තෝරාගෙන ඇතැයි අමාත්‍යාංශය වැඩිදුරටත් පැවසීය.
+The Ministry of Agriculture and Plantation Industries have been selected by the Ministry of Agriculture and Plantation Industries and 45,000 orange plants.
 
-මෙහිදී එක් ගම්මානයක වැඩි අක්කර ප්‍රමාණයක් තැඹිලි වගා කිරීමට යම් අයෙකුට අවශ්‍ය නම් ඒ සඳහා අවශ්‍ය පහසුකම් සැපයීමට පියවර ගන්නා ලෙස විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා විසින් නිලධාරීන්ට උපදෙස් දී තිබේ.
+The Ministry stated that Sri Lanka has been owned by the monopoly on the international market, as the higher quality of the Sri Lankan work and quality.
 
-එසේම මේ යටතේ තැඹිලි පැළ හා තාක්ෂණික දැනුම මෙන්ම උපදෙස් නොමිලයේ ලබා දීමටද නියමිතය.
+Accordingly, Moneragala, Matara, Kurunegala, Puttalam, Puttalam, Puttalam, Puttalam, Puttalam, Puttalam, Matale, Ampara, Puttalam
+
+Minister Mahinda Amaraweera has instructed the officials to take steps to provide the necessary facilities to facilitate the most acreage of one village.
+
+It will also be provided with orange seedlings and technical knowledge and advice.
 
 ◼️
 
 [Data](articles/27404ce6.json)
+
+[Extended Data](ext_articles/27404ce6.ext.json)
 
 ---
 
@@ -2135,125 +2269,5 @@ VAT was vital to boost government revenues, Wickremesinghe said. “Because of t
 [Data](articles/c6dc8bb2.json)
 
 [Extended Data](ext_articles/c6dc8bb2.ext.json)
-
----
-
-### Sri Lanka and Maldives must work together to counter violent extremism, illicit trafficking – State Minister
-
-*2024-03-06 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97780/sri-lanka-and-maldives-must-work-together-to-counter-violent-extremism-illicit-trafficking-state-minister-) · `en`
-
-State Minister of Defence Premitha Bandara Tennakoon has emphasised the importance of working to together with the Maldives to counter several common challenges, including violent extremism, illicit trafficking and humanitarian crises.
-
-During a meeting with the Maldivian Defence Minister Mohamed Ghassan Maumoon at the Ministry of Defence in Maldives on 05 March, Tennakoon stressed upon the importance of working together to counter common challenges such as climate change and environmental security, violent extremism, illicit trafficking, disasters and humanitarian crises.
-
-Maldivian Minister Ghassan also reiterated the importance of defence cooperation and relationship between Maldives and Sri Lanka and highlighted the critical role played through collaborative efforts to ensure regional peace and stability.
-
-...
-
-[Data](articles/66eadba2.json)
-
-[Extended Data](ext_articles/66eadba2.ext.json)
-
----
-
-### The government is silent on the North, East and the hill country.
-
-*2024-03-06 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178089) · `ta`
-
-The government remains silent on issues affecting the North, East, and hill country, according to National Executive Council Member Saroja Savitri Bolraj. Economic crisis post-2022 has led to unemployment and food shortages, particularly impacting two-thirds of Sri Lanka's population. Land issues, missing persons, and the plight of women, fishermen, and plantation workers are unresolved. The government's lack of action is criticized, with calls for increased salaries, improved education, and health facilities in the affected areas.
-
-🟩
-
-The government is silent for the people of the North, East and the hill country, said National Executive Council Member Saroja Savitri Bolraj, a member of the National People's Power.
-
-During a media briefing of the National People's Power Women's Organization held at the Janatha Vimukthi Peramuna Headquarters, its National Executive Council member Saroja Savitri Bolraj said the above.
-
-We will celebrate the 113rd International Women's Day on the 8th of this month, as the Women's Organization of the National People's Power.
-
-At this point, the people who have suffered economic setbacks are unable to buy essential foods, and are facing a crisis life.
-
-In particular, over 70 million, ie, two -thirds of Sri Lanka's population, are struggling to get food next.
-
-The main reason for this is the massive economic crisis in Sri Lanka after 2022. Due to this economic crisis, more than 15 lakh people have been unemployed in the last two years.
-
-...
-
-[Data](articles/0c694a42.json)
-
-[Extended Data](ext_articles/0c694a42.ext.json)
-
----
-
-### Saudi Arabia, who presented 50 tonnes of pearls to Sri Lanka in front of Ramadan
-
-*2024-03-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178092) · `ta`
-
-Saudi Arabia donated 50 tonnes of pearls to Sri Lanka, highlighting strong ties and humanitarian efforts, especially during Ramadan.
-
-🟩
-
-Saudi Arabia's King Salman handed over 50 tonnes of beings donated to the Democratic Socialist Republic of Sri Lanka, Salman bin Abdul Aziz al -Zouud, the guardian of the two sacred places.
-
-The Ambassador to Sri Lanka of Saudi Arabia, Kalit Hamood al-Qahdani, officially handed over these pearls to the Secretary of the Ministry of Buddhist Charter and Religious and Cultural and Mr. Zainul Abideen Mohammed Faisal, Director of the Department of Muslim Religious and Cultural Affairs.
-
-A special event was held at the Department of Muslim Religious and Cultural Affairs in Colombo on Wednesday (06). The function was attended by officials of the Center for Humanitarian Aid and Relief, including the newly appointed Sri Lankan Ambassador for the Saudi Arabian Kingdom, Hon. Amir Ajawad, officials of the Sri Lankan Foreign Ministry, State Department and Embassy.
-
-...
-
-[Data](articles/9cdb440b.json)
-
-[Extended Data](ext_articles/9cdb440b.ext.json)
-
----
-
-### Sri Lanka rupee closes at 307.80/88 to the US dollar
-
-*2024-03-06 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-307-80-88-to-the-us-dollar-153416/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 307.80/88 to the US dollar in the spot forex market Wednesday, stronger from 307.95/308.05 a day earlier, dealers said, while bond yields were flat.
-
-The rupee opened at 307.75/308.00 levels to the US, market participants said.
-
-Sri Lanka’s rupee has strengthened amid broadly deflationary policy (selling down CB held securities and withdrawing liquidity).
-
-A bond maturing on 01.02.2026 closed at 10.60/75 percent from 10.65/70 percent Tuesday.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.85/95 percent.
-
-A bond maturing on 01.07.2028 closed at 12.20/30 percent up from 12.15/22 percent.
-
-A bond maturing on 15.07.2029 closed at 12.25/50 percent from 12.25/40 percent.
-
-A bond maturing on 15.05.2030 closed at 12.35/50 percent up from 12.25/45 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/13.00 percent up from 12.60/90 percent. (Colombo/Mar6/2024)
-
-◼️
-
-[Data](articles/ca25cf38.json)
-
-[Extended Data](ext_articles/ca25cf38.ext.json)
-
----
-
-### Another group suspended for 'Podi Menica' incident
-
-*2024-03-06 17:10:59* · [`adalk`](https://www.ada.lk/breaking_news/‘පොඩි-මැණිකේ’-සිද්ධියට-තවත්-පිරිසකගේ-වැඩ-තහනම්/11-408459) · `si`
-
-The Department of Railways suspended six officers following the 'Podi Menica' incident, where two foreigners were assaulted at Nawalapitiya Railway Station.
-
-🟩
-
-The Department of Railways said that two foreigners who had been assaulted in the Nawalapitiya Railway Station
-
-Official Inspector in the Nawalapitiya Farer Password
-
-The Department said that the General Manager of the Railway General (CSE) has taken steps to suspend the service of six officers of the Railway Department.
-
-◼️
-
-[Data](articles/d090fe81.json)
-
-[Extended Data](ext_articles/d090fe81.ext.json)
 
 ---

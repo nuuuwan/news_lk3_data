@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 02:03:02**
+As of **2024-03-08 02:17:41**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,571 (100.0%) of 11,572 articles have been extended.
+11,572 (100.0%) of 11,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### ஜனாதிபதியை கேலிச்சித்திர கலைஞர்கள் நோக்கிய விதம் “Press Vs. Prez” நூல் வௌியிடு
+### Carrying artists of the president. Prez ”Book
 
 *2024-03-08 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178216) · `ta`
 
-கடந்த காலத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வகிபாகத்தை இந்நாட்டு கேலிச்சித்திரக் கலைஞர்கள் சித்தரித்த விதத்தை பாராளுமன்ற உறுப்பினர் வஜீர அபேவர்தன “Press Vs. Prez” என்ற நூலாக வௌியிட்டார்.
+President Ranil Wickremesinghe launched a book of caricatures depicting his role, emphasizing democracy and the abolition of the Criminal Slander Act. The book, compiled by Parliamentarian Vajira Abeywardena, features 618 caricatures and contributions from 40 artists and 20 journalists. It highlights the country's economic recovery and the importance of freedom of expression in democracy.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் வியாழக்கிழமை (07) கொழும்பு நெலும் பொக்குண கலையரங்கத்தில் இந்த நூல் வௌியிடப்பட்டது.
+🟩
 
-இவ்வாறான தொகுப்புகள் ஜனநாயகத்தின் ஒரு அங்கமாகும் எனவும், அதனால் நாட்டில் சுதந்திரம் நிலைநாட்டப்பட்டுள்ளமையை உறுதி செய்ய முடிந்துள்ளதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்
+Parliamentarian Vajira Abeywardena has depicted President Ranil Wickremesinghe's role in the past. Prez. ”
 
-சர்வாதிகார ஆட்சியில் இவ்வாறான படைப்புகள் ஒருபோதும் பிறக்காது என்றும், குற்றவியல் அவதூறு சட்டத்தை நீக்கியமை குறித்து பெருமையடைவதாகவும் ஜனாதிபதி மேலும் குறிப்பிட்டார்.
+The book was launched at the Pokuna Gallery of Colombo on Thursday (07) under the leadership of President Ranil Wickremesinghe.
 
-கடந்த காலங்களில் அரசாங்கம் சிரமப்பட்டு முன்னெடுத்த வேலைத்திட்டங்களினால் நாட்டின் பொருளாதாரத்தை சாதகமான நிலைக்கு கொண்டு வர முடிந்துள்ளதாகவும், ஒரு நாடாக நாம் இக்கட்டான காலத்தின் கடைசி பகுதியில் இருக்கிறோம் என்றும்  ஜனாதிபதி சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe said that such collections are part of democracy and therefore it has been able to ensure that independence has been established in the country.
+
+The President added that such works would never be born in the dictatorial regime and boasted of the abolition of the Criminal Slander Act.
+
+The President pointed out that the government's difficulty in the past has been able to bring the country's economy to favorable and we are in the last part of the dilemma.
+
+The President thanked all the soldiers who made all these caricatures, who were delighted at the time of this difficult time.
+
+President Ranil Wickremesinghe has been compiled in 618 caricatures published in the newspapers on his visit to May 2023 since June 23, 2021.
 
 ...
 
 [Data](articles/03653283.json)
+
+[Extended Data](ext_articles/03653283.ext.json)
 
 ---
 

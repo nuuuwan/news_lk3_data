@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 04:02:59**
+As of **2024-03-08 04:17:43**
 
 ## Newspaper Stats
 
-*Scraped **11,576** Articles*
+*Scraped **11,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 605
 dailyftlk | 606
 islandlk | 613
 adalk | 983
-tamilmirrorlk | 1,403
+tamilmirrorlk | 1,404
 adaderanalk | 1,408
 virakesarilk | 1,595
 dailymirrorlk | 1,764
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,576 (100.0%) of 11,576 articles have been extended.
+11,576 (100.0%) of 11,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### கனடாவில் துப்பாக்கி சூடு: 6 இலங்கையர்கள் பலி
+
+*2024-03-08 04:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-துப்பாக்கி-சூடு-6-இலங்கையர்கள்-பலி/175-334369) · `ta`
+
+கனடாவின் தலைநகர் ஒட்டாவாவின் தெற்கு பகுதியில் உள்ள வீடொன்றில் 4 குழந்தைகள் உட்பட 6 ஆறு பேரின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+
+தாய், அவரது நான்கு குழந்தைகள் மற்றும் அக்குடும்பத்தின் உறவினர் ஒருவர் என அறுவர் கொல்லப்பட்டுள்ளனர் என்று ஒட்டாவா பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில் இலங்கைப் பிரஜையான சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/797a95b0.json)
+
+---
 
 ### International Women’s Day and Women  in Lanka - EDITORIAL
 
@@ -2275,25 +2291,5 @@ SLPP MP Rohitha Abeygunawardane was elected chairman of the Committee on Public 
 [Data](articles/a67abb66.json)
 
 [Extended Data](ext_articles/a67abb66.ext.json)
-
----
-
-### Lasantha re -elected as the leader of the Gopa group
-
-*2024-03-07 14:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோபா-குழுத்-தலைவராக-லசந்த-மீண்டும்-தெரிவு/175-334338) · `ta`
-
-Lasantha Alagiyavanna re-elected as Gopa group leader and Chairman of Public Accounts Committee.
-
-🟩
-
-Parliamentarian Lasantha Alagiyavanna has been re -elected as the Chairman of the Committee on Public Accounts.
-
-Mohan Priyadarshana de Silva, Prasanna Ranawira, K. Qatar Mastan, Diana Kamage, Samara Sampath Dasanayake, Vajira Abeywardena, ALM. Ataullah, Wimalaweera Dissanayake, Jayantha Ketagoda, (Dr.) Major, Pradeep Undukoda, Kodaurukkuttu, Premnath C. Dolawatte, Muditha Prishanti, MWD Sahan Pradeep Vidhana, Madura Vidhanage, D. It is also noteworthy that Weerasinghe and Manjula Dissanayake are also a part of it.
-
-◼️
-
-[Data](articles/459d8923.json)
-
-[Extended Data](ext_articles/459d8923.ext.json)
 
 ---

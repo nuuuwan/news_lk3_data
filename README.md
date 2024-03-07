@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 22:17:51**
+As of **2024-03-07 22:33:24**
 
 ## Newspaper Stats
 
-*Scraped **11,546** Articles*
+*Scraped **11,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 606
 islandlk | 612
 adalk | 983
 tamilmirrorlk | 1,403
-adaderanalk | 1,405
+adaderanalk | 1,406
 virakesarilk | 1,583
 dailymirrorlk | 1,761
 adaderanasinhalalk | 1,817
@@ -26,29 +26,53 @@ adaderanasinhalalk | 1,817
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,542 (100.0%) of 11,546 articles have been extended.
+11,546 (100.0%) of 11,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### வெடுக்குநாறிமலை ஆலயத்தின் பூசகர் கைது செய்யப்பட்டார்! நீதிமன்ற உத்தரவையும் மீறி பொலிசார் அராஜகம்!
+### Workers’ remittances and tourism earnings up in February 2024
+
+*2024-03-07 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97806/workers-remittances-and-tourism-earnings-up-in-february-2024) · `en`
+
+Sri Lanka has recorded an over 16 percent increase in workers’ remittances while tourism earnings has increased by nearly 114 percent in February 2024 compared to the previous year, according to the latest data from the Central Bank of Sri Lanka (CBSL).
+
+Workers’ remittances reached USD 476.2 million in February 2024, showing a growth of 16.88% compared to February 2023.
+
+Meanwhile the earnings from tourism in February 2024 was recorded as USD 345.7 million. This is an increase of 113.92% compared with the same month last year.
+
+◼️
+
+[Data](articles/0a0d594c.json)
+
+---
+
+### The priest of the Vedukunnarimalai temple was arrested!Police are anarchy in violation of court order!
 
 *2024-03-07 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178209) · `ta`
 
-வவுனியா வெடுக்குநாறிமலை ஆதிஇலிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரி தின ஏற்பாடுகளை முன்னெடுத்துக்கொண்டிருந்த ஆலயத்தின் பூசகர் உட்பட இருவர் நெடுங்கேணி பொலிசாரால் வலுக்கட்டாயமாக கைதுசெய்யப்பட்டனர்.
+The priest of Vedukunnarimalai temple was arrested by the Nedungeni police during Shivaratri day arrangements at Adi Ilingeswarar Temple in Vavuniya, disrupting temple management. The Vavuniya court ordered the temple to follow a previous court ruling, which was violated by the police's arrest.
 
-நாளை வெள்ளிக்கிழமை (8) மகாசிவராத்திரி தினத்தை முன்னிட்டு வெடுக்குநாறிமலையில் விசேட பூஜை வழிபாடுகளை மேற்கொள்வதற்கு ஆலயநிர்வாகத்தினர் முயற்சிகளை எடுத்திருந்தனர்.
+🟩
 
-இந்நிலையில் அவர்களது முயற்சிக்கு பொலிசாரால் தடங்கல் ஏற்படுத்தப்பட்ட நிலையில் ஆலயத்தின் நிர்வாகத்தினால் வவுனியா நீதிமன்றில் நகர்த்தல் பத்திரம் தாக்கல்செய்யப்பட்டிருந்தது.
+Two persons, including the priest of the temple, were forcibly arrested by the Nedungeni police who were carrying out the Shivaratri day arrangements at the Adi Ilingeswarar Temple in Vavuniya.
 
-அதனை செவ்வாய்க்கிழமை (5) விசாரணைக்கு எடுத்த நீதிமன்றம் வெடுக்குநாறிமலை ஆலயவிடயத்தில் நீதிமன்றம் ஏற்கனவே வழங்கிய கட்டளையின்படி செயற்படுமாறு ஆலயநிர்வாகத்திற்கு உத்தரவு வழங்கியது.
+The temple was taken to perform a special pooja at Vettukkunnimalai on Friday (8).
 
-இதனையடுத்து சிவராத்திரி தின ஏற்பாடுகளை முன்னெடுப்பதற்காக வியாழக்கிழமை (7) மாலை உழவியந்திரத்தில்   சென்றுகொண்டிருந்த பூசாரி உட்பட இருவர் நெடுங்கேணி பொலிசாரால் செவ்வாய்க்கிழமை (5) வழிமறிக்கப்பட்டுக் கைதுசெய்யப்பட்டனர்.
+In this case, the management of the temple has been deployed in the Vavuniya court as the administration of the temple has been disrupted by the police.
 
-...
+The court on Tuesday (5) ordered the temple to act as per the order already issued by the court on the Vedukkunnarimalai temple.
+
+Following this, two men, including a priest, who was on their way to Piliyandi, were arrested by the Nedungeni police on Tuesday (5) to carry out the Shivaratri Day arrangements.
+
+The Vavuniya court has ordered the worship of Pooja at the Vedukkunnarimalai temple last year. The order was re -confirmed by the court on Tuesday (5). It is noteworthy that the police have arrested two persons in violation of the court ruling.
+
+◼️
 
 [Data](articles/7a59de5d.json)
+
+[Extended Data](ext_articles/7a59de5d.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ He revealed this at the launching ceremony of the "Press Vs. Prez" book today (0
 ...
 
 [Data](articles/f2b49ae1.json)
+
+[Extended Data](ext_articles/f2b49ae1.ext.json)
 
 ---
 
@@ -110,21 +136,27 @@ This statement resonated with both President Wickremesinghe and the IMF team, hi
 
 ---
 
-### யாழ். சுழிபுரம் பகுதியில் வைக்கப்பட்ட புத்தர் சிலை அகற்றப்பட்டுள்ளது
+### Yall. The statue of Buddha placed in the Chiripuram area has been removed
 
 *2024-03-07 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178208) · `ta`
 
-யாழ்ப்பாணம் சுழிபுரம் பகுதியில் வைக்கப்பட்டிருந்த புத்தர் சிலையொன்று அண்மையில் சர்ச்சையை ஏற்படுத்திய நிலையில் குறித்த சிலை அங்கிருந்து தற்போது அகற்றப்பட்டுள்ளதாகத் தகவல்கள் தெரிவிக்கின்றன.
+The statue of Buddha in Chiripuram, Jaffna, was removed, sparking fears of a Vihara's origin.
 
-சுழிபுரம் சவுக்கடி பிள்ளையார் ஆலயத்திற்குப் பின் புறமாக உள்ள அரச மரத்தின் கீழ் குறித்த புத்தர் சிலை வைக்கப்பட்டிருந்தது.
+🟩
 
-அப்பகுதி கடற்படையினரால் புத்தர் சிலை வைக்கப்பட்டு இருக்கலாம் என அப்பகுதி மக்கள் சந்தேகித்த நிலையில்,புத்தர் சிலையை அடுத்து விகாரை தோற்றம் பெறலாம் என அச்சப்பட்டனர்.
+According to reports, a statue of Buddha, which was placed in the Chiripuram area in Jaffna, has recently been disputed.
 
-இது தொடர்பில் ஊடகங்களில் செய்திகள் வெளியாகி பேசுபொருளான நிலையில் குறித்த புத்தர் சிலை அவ்விடத்திலிருந்து அகற்றப்பட்டுள்ளதாக பிரதேசவாசிகள் தகவல் வெளியிட்டுள்ளனர்.
+The statue of Buddha was placed under the royal tree behind the Chiripuram Chowkadi Pillaiyar temple.
+
+The people of the area suspected that the statue of Buddha may have been placed by the navy in the area, and feared that the Vihara could be originated in the wake of the Buddha statue.
+
+Residents have reported that the statue of Buddha has been removed from the site as news reports in the media.
 
 ◼️
 
 [Data](articles/bf51d7a0.json)
+
+[Extended Data](ext_articles/bf51d7a0.ext.json)
 
 ---
 
@@ -1083,6 +1115,8 @@ Taking to X (formerly Twitter), Finance State Minister Shehan Semasinghe had sai
 ...
 
 [Data](articles/4b2e557b.json)
+
+[Extended Data](ext_articles/4b2e557b.ext.json)
 
 ---
 
@@ -2197,35 +2231,5 @@ The lorry traveling to Jaffna through the Point Pedro Road crashed into a shop i
 [Data](articles/b2238ea0.json)
 
 [Extended Data](ext_articles/b2238ea0.ext.json)
-
----
-
-### Two student hospitalized due to attack
-
-*2024-03-07 13:18:07* · [`adalk`](https://www.ada.lk/breaking_news/පහර-කෑමෙන්-සිසුවාත්-ගුරුවරුන්-දෙදෙනෙකුත්-රෝහලේ/11-408472) · `si`
-
-Two students and a sports teacher hospitalized after a confrontation at a school in Galnewa. A 17-year-old was arrested. Dispute between students led to assaults.
-
-🟩
-
-A student of a sports teacher has been hospitalized and two teachers who were assaulted by the student who had been assaulted by two students in the Galnewa town have been hospitalized.
-
-A 17-year-old youth was arrested in Lalgaswewa area regarding the attack.
-
-Police say a dispute between two students in the school and a blatter of two students in the school were in a confrontation took place during the school sporting training.
-
-The student has been hospitalized following an assault on the school's sporting teacher and another teacher to resolve the conflict.
-
-The girl is being treated at the Galnewa Hospital while the sports teacher went to the house, the child's guardians had come with the child's caretakers, three others.
-
-It is reported that the child's grandmother and the little mother was coherently taken to a room safely at home.
-
-The four suspects have also been assaulted by the four poles and iron chains that the teacher had to talk to another teacher and rescue him.
-
-...
-
-[Data](articles/62bc1f3e.json)
-
-[Extended Data](ext_articles/62bc1f3e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 21:33:19**
+As of **2024-03-07 21:52:05**
 
 ## Newspaper Stats
 
-*Scraped **11,537** Articles*
+*Scraped **11,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 983
-adaderanalk | 1,402
+adaderanalk | 1,403
 tamilmirrorlk | 1,403
 virakesarilk | 1,581
 dailymirrorlk | 1,759
-adaderanasinhalalk | 1,815
+adaderanasinhalalk | 1,816
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,537 (100.0%) of 11,537 articles have been extended.
+11,537 (100.0%) of 11,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Sweden set to become NATO’s 32nd member as PM visits Washington
+
+*2024-03-07 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97804/sweden-set-to-become-natos-32nd-member-as-pm-visits-washington) · `en`
+
+(Reuters) - Sweden is expected to formally join NATO in Washington on Thursday, two years after Russia’s invasion of Ukraine forced a complete rethink of its national security policy and the realisation the alliance offered the best guarantee of safety.
+
+Swedish Prime Minister Ulf Kristersson is in Washington to hand over the final documentation, with the White House saying in a statement ahead of President Joe Biden’s State of the Union Address that Sweden would join on Thursday.
+
+“Having Sweden as a NATO Ally will make the United States and our Allies even safer,” the statement said.
+
+Kristersson said NATO Secretary General Jens Stoltenberg had informed him that Sweden had been formally invited to join after all member states accepted the country’s accession protocol.
+
+The Swedish government said separately it would take the formal decision for the country to join NATO on Thursday.
+
+...
+
+[Data](articles/fc4c1606.json)
+
+---
+
+### සිසු ගැටුමට මැදිහත්වූ ගුරුවරුන්ට අමානුෂික ප්‍රහාරයක්
+
+*2024-03-07 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194271) · `si`
+
+පාසල් සිසුන් දෙදෙනෙකුගේ ආරවුලක් විසඳීමට ගිය ගුරුවරුන් දෙදෙනෙකු අමානුෂික ලෙස පහරකෑමට ලක්වීමේ සිද්ධියක් අනුරාධපුර ගල්නෑව ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+අනුරාධපුර ගල්නෑව ප්‍රදේශයේ පාසලක නිවාසාන්තර ක්‍රීඩා පුහුණුවීමක් අතරතුරදී සිසුන් දෙදෙනෙකු අතර එම ආරවුල ඇතිවී තිබේ.
+
+පසුව ගුරුවරුන් පහරදුන් බව කියමින් එක් සිසුවෙකු රෝහල්ගතවීමත් සමග සිදුවීම පැහැදිලි කරදීමට ගුරුවරුන් ඔහුගේ නිවසට ගොස් තිබේ.
+
+ඒ අනුව එම ආරවුල ඇති කරගත් එක් සිසුවෙකුගේ ඥාතීන් පිරිසක් මෙලෙස අමානුෂික ලෙස පහරදුන් බව ගුරුවරුන් පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් 17 හැවිරිදි තරුණයෙකු පොලිස් අත්අඩංගුවට ගෙන ඇති අතර පහරදීම සිදුකළ සෙසු පිරිස සොයා විමර්ශන ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/ec17d64c.json)
+
+---
 
 ### New NATO MEMBER
 
@@ -2197,53 +2237,5 @@ The President also pointed out the importance of implementing this program throu
 [Data](articles/26013493.json)
 
 [Extended Data](ext_articles/26013493.ext.json)
-
----
-
-### Excessive exposure to sunlight may cause blindness
-
-*2024-03-07 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excessive-exposure-to-sunlight-may-cause-blindness/108-278418) · `en`
-
-Colombo, March 7 (Daily Mirror) - During the prevalence of dry weather, exposure to excessive sunlight can lead to blindness, Eye Surgeon Dr. Mudita Kulatunga said.
-
-She mentioned that it is important to drink water to prevent the eyes from drying due to excessive sunlight and to use glasses and helmets to prevent the reflection of ultraviolet rays into the eyes.
-
-The doctor advised parents to make the children wear a face protective cap or sunglasses to protect their eyes from direct sunlight.
-
-People who spend a considerable amount of time outdoors and are exposed to sunlight (Ultra Violet (UV) Rays) almost all the time are likely to develop severe eye problems such as macular degeneration.
-
-Construction workers who always engage in their work outdoors, supervisors, and traffic police are essentially advised to wear sunglasses.
-
-◼️
-
-[Data](articles/8b73b4aa.json)
-
-[Extended Data](ext_articles/8b73b4aa.ext.json)
-
----
-
-### 13 injured in bus accident
-
-*2024-03-07 12:34:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-13-காயம்/175-334323) · `ta`
-
-13 injured in Medawachi bus crash due to driver's illness. Bus crashed into house, 6 hospitalized, 7 transferred to Anuradhapura Teaching Hospital.
-
-🟩
-
-A private bus in Medawachi, Vavuniya, was injured when a private bus crashed into a nearby house due to the driver's negligence.
-
-The driver of the private bus was suddenly ill and crashed into a karaj with a house in Medawachi, unable to control the bus, police said.
-
-Thirteen people were injured in the crash and six of them were injured and are being treated at the hospital, police said.
-
-Accordingly, seven injured have been transferred to the Anuradhapura Teaching Hospital for further treatment.
-
-It is also reported that the private bus was transported to the garment stall in Vavuniya and that there were about 40 employees on the bus when the accident occurred.
-
-◼️
-
-[Data](articles/223bb855.json)
-
-[Extended Data](ext_articles/223bb855.ext.json)
 
 ---

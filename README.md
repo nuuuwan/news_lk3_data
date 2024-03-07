@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 06:38:16**
+As of **2024-03-07 07:10:42**
 
 ## Newspaper Stats
 
-*Scraped **11,359** Articles*
+*Scraped **11,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 133
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
-islandlk | 601
 dailyftlk | 605
+islandlk | 611
 adalk | 959
 tamilmirrorlk | 1,383
 adaderanalk | 1,383
 virakesarilk | 1,556
 dailymirrorlk | 1,731
-adaderanasinhalalk | 1,772
+adaderanasinhalalk | 1,773
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,359 (100.0%) of 11,359 articles have been extended.
+11,368 (100.0%) of 11,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### උණුසුම් කාලගුණය තවදුරටත් - විමසිල්ලෙන් ඉන්න
+
+*2024-03-07 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194224) · `si`
+
+වයඹ හා දකුණු පළාත් සහ රත්නපුර හා මන්නාරම දිස්ත්‍රික්ක සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ﻿ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව අද දින අදාළ ප්‍රදේශවල උණුසුම් දර්ශකය හෙවත් එනම් මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතින බැවින් විමසිලිමත් වන ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම්දෙයි.
+
+රත්නපුර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ඇතිවිය හැකි වැසි ස්වල්පයක් හැරුන විට දිවයින පුරා ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතී.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/189ec5e9.json)
+
+---
 
 ### Siyambalapitiya stresses Parliamentary authority on Central Bank salaries
 
@@ -875,6 +893,78 @@ It has been increased to Rs.
 [Data](articles/637dcdee.json)
 
 [Extended Data](ext_articles/637dcdee.ext.json)
+
+---
+
+### President’s comments on debt moratorium enliven share market
+
+*2024-03-06 21:16:00* · [`islandlk`](http://island.lk/presidents-comments-on-debt-moratorium-enliven-share-market/) · `en`
+
+President Ranil Wickremesinghe’s positive comments yesterday in parliament, especially on the external debt restructuring exercise, where the government is to request a debt moratorium from bondholders, created a positive sentiment in the stock market.
+
+“The government hopes to avoid repaying debt till December 2027 under restructuring talks underway and repay them in the period running up to 2042, President Ranil Wickremesinghe said.
+
+“We are in discussions to restructure all debt, including foreign debt. We hope to end these discussions in the near future, President Wickremesinghe told parliament yesterday.
+
+Sri Lanka had a foreign debt service of US$ 6 billion a year in 2022 or about 9.5 percent of gross domestic product.
+
+Accordingly, both indices moved upwards. The All Share Price Index went up by 40.1 points while S and P SL20 rose by 14.8 points. Turnover stood at Rs 2.29 billion with four crossings.
+
+...
+
+[Data](articles/201d2754.json)
+
+[Extended Data](ext_articles/201d2754.ext.json)
+
+---
+
+### ComBank & IFC empowered MSMEs via 27 skills development programmes in 2023
+
+*2024-03-06 21:16:00* · [`islandlk`](http://island.lk/combank-ifc-empowered-msmes-via-27-skills-development-programmes-in-2023/) · `en`
+
+The Commercial Bank of Ceylon conducted 27 skills development programmes for micro, small and medium enterprises (MSMEs) in collaboration with the International Finance Corporation (IFC) in 2023, using a standardized format developed to revitalize MSME businesses.
+
+These programmes were conducted in areas such as Negombo, Ratnapura, Vavuniya, Kandy, Kadawatha, Akkaraipattu, Jaffna, Nuwara Eliya, Badulla and Minuwangoda and the topics covered were ‘Revisiting Business Strategy (Operational Plan/ Human Resources Plan),’ ‘Profitability and Productivity (Financial Resilience/ Basics of Borrowing),’ ‘Digital Transformation and Digital Market Place (Trends/ Benefits/ Handling Customers/ Payment options/ Policies & Security/ Best Practices),’ ‘Digital Brand Management (Online Presence/ Content Marketing/ Marketing Brand Management/ Measuring results)’ and ‘Women Empowerment and Entrepreneurship’ which was exclusively for women entrepreneurs.
+
+...
+
+[Data](articles/b943c9a6.json)
+
+[Extended Data](ext_articles/b943c9a6.ext.json)
+
+---
+
+### Crocodile unveils all-new dynamic kids collection for boys at One Galle Face Mall
+
+*2024-03-06 21:16:00* · [`islandlk`](http://island.lk/crocodile-unveils-all-new-dynamic-kids-collection-for-boys-at-one-galle-face-mall/) · `en`
+
+Crocodile, the esteemed fashion brand celebrated for its timeless designs and unwavering commitment to quality, proudly introduces its latest venture: Crocodile Kids for Boys. The launch event, held recently at One Galle Face Mall, was an exciting and full of engaging activities for the young attendees. It marked a significant milestone for Crocodile as it ventured into the realm of children’s fashion, bringing forth a collection that combines playful styles, vibrant colours, and utmost comfort.
+
+For over 70 years, Crocodile has been a prominent name in global fashion. Established in Sri Lanka in 2008, the company has grown into a premium brand, known for its quality and excellence. With wide selection of fashion available for men, women and now boys, Crocodile is renowned in the world of fashion and has set extraordinarily high standards in Sri Lanka over the years.
+
+...
+
+[Data](articles/cd9b7ba9.json)
+
+[Extended Data](ext_articles/cd9b7ba9.ext.json)
+
+---
+
+### NSB Sthree celebrates International Women’s Day 2024 with a special offering
+
+*2024-03-06 21:14:00* · [`islandlk`](http://island.lk/nsb-sthree-celebrates-international-womens-day-2024-with-a-special-offering/) · `en`
+
+As the world celebrates International Women’s Day 2024 under the theme “Invest in Women: Accelerate Progress,” NSB (National Savings Bank) reaffirms its commitment to empowering women and advancing gender equality through financial inclusion and economic empowerment initiatives.
+
+This year’s theme underscores the critical importance of investing in women’s education, health, economic opportunities, and leadership roles to accelerate progress towards a more inclusive and equitable society.
+
+NSB acknowledges the significance of women taking control of their income and actively seeking new avenues for economic empowerment. Financial control empowers women to make informed decisions about their finances, secure their future, and contribute to the economic well-being of their families and communities.
+
+...
+
+[Data](articles/8cfbc6ab.json)
+
+[Extended Data](ext_articles/8cfbc6ab.ext.json)
 
 ---
 
@@ -2189,145 +2279,5 @@ The Nanuoya police and the owner have asked the public to immediately report to 
 [Data](articles/08e1a09f.json)
 
 [Extended Data](ext_articles/08e1a09f.ext.json)
-
----
-
-### Thinking at Ronnie's house
-
-*2024-03-06 16:01:42* · [`adalk`](https://www.ada.lk/breaking_news/රොනීගේ-‌ගෙදරට-හොරු-පනී/11-408454) · `si`
-
-A former Finance and Planning Minister, near Devinuwara and 103th Post, stole valuable items from a house yesterday. The teacher of Devinuwara Hospital filed a complaint. Police are investigating. Ronan Death Deepal's funeral has been held.
-
-🟩
-
-The former Finance and Planning Minister, who was in front of the Devinuwara, which was in front of the Devinuwara and 103th Post, has stolen its valuable products and property yesterday (05).
-
-The teacher of Devinuwara Hospital has lodged a complaint with the Ven.
-
-Accordingly, in addition to Gandara police, another police team will be conducting further investigations.
-
-The funeral of the late Ronan Death Deepal's body was taken by now.
-
-◼️
-
-[Data](articles/09553d12.json)
-
-[Extended Data](ext_articles/09553d12.ext.json)
-
----
-
-### A senior lecturer in Jupura is killed and killed
-
-*2024-03-06 15:51:46* · [`adalk`](https://www.ada.lk/breaking_news/ජපු‌රේ-ජ්‍යෙෂ්ඨ-කථිකාචාර්යවරයෙක්-ඇද-වැටී-මරුට/11-408453) · `si`
-
-A senior lecturer at the University of Sri Jayewardenepura, Maharagaya, died. The deceased, a 60-year-old from the Faculty of Applied Sciences, was found dead in Maharagama. The police are investigating under the guidance of Maragama Police Chief Inspector Chairka Rajapaksa.
-
-🟩
-
-A senior lecturer at the University of Sri Jayewardenepura, Maharagaya has died of a senior student of the University of Sri Jayewardenepura, Colombo.
-
-The deceased has been identified as a senior lecturer at the Faculty of Applied Sciences of the Computer Science Study of the Computer Science Study of the Department of Computer Sciences, University of Sri Jayewardenepura (60).
-
-The lecturer was to return to a shop in Maharagama to reach a shop near the Maharagama town and returned to the house of Maharagama.
-
-The neighbors were later brought to hospital in 1990, the Speaker was inspected and said that he had died.
-
-Meanwhile, the lecturer's wife had come to the place and identified husband's body.
-
-Maharagama Emergency Death Inspector Simadaglassey Pipeasiri to the scene and ordered the police to take the body to the Kalubowila Teaching Hospital for post mortem.
-
-...
-
-[Data](articles/7d30d990.json)
-
-[Extended Data](ext_articles/7d30d990.ext.json)
-
----
-
-### Get rid of the other three;Democratic fighters party demanding Indian state
-
-*2024-03-06 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178083) · `ta`
-
-The Democratic Party leader C. Vendan demands the release of Murugan, Robateayas, and Jayakumar, who were convicted in Sriperumbudur cases. The Eelam Tamils feel their justifications and demands for a homeland are ignored. The relationship between the Eelam Tamils and India has been strained, with the Sri Lankan Indian Treaty and its staff in Sri Lanka being based on mutual welfare and security. The tragic event of the Siripur Buddha has widened the gap. The Eelam Tamils urge the Indian Central Manila Government to release the convicted individuals.
-
-🟩
-
-Democratic Party leader C. Vendan said that Murugan, Robateayas and Jayakumar should quickly release the special camps and return their homeland.
-
-The Tamils feel that India should understand the justifications and chambers of the Eelam Tamils after decades.
-
-The socio -political and economic security relations of the Eelam Tamils and India are worthy of history.
-
-The Sri Lankan Indian Treaty and its Staff in Sri Lanka were based on the accumulation of its full strength, considering the welfare of its region and the security of the Eelam Tamil.
-
-Some of the bitter extraordinary events after that have been abandoned by the Eelam Tamils in the aftermath of the tragic event of the Siripur Buddha, which has finally created a gap in the relationship of the Indian Eelam Tamils.
-
-We and our people think that the relationship between us and India has been abandoned.
-
-...
-
-[Data](articles/7b8f48a3.json)
-
-[Extended Data](ext_articles/7b8f48a3.ext.json)
-
----
-
-### Gotabhaya Rajapaksa publishes the book
-
-*2024-03-06 15:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தகம்-வெளியிடுகின்றார்-கோட்டாபய-ராஜபக்ச/175-334286) · `ta`
-
-Gotabhaya Rajapaksa, former President of Sri Lanka, claims foreign powers and local parties conspired to remove him from power since his election in November 2019. He announced a book titled "Conspiracy to Excrement Me from the President," highlighting the first internationally sponsored regime change operation in Sri Lanka.
-
-🟩
-
-Former President Gotabhaya Rajapakse said that since November 2019 was elected president, some foreign powers and local parties were aimed at removing me from power.
-
-Gotabhaya Rajapaksa stated this in a statement issued today (6). Further,
-
-He also announced that he would publish the book titled "Conspiracy to Excrement Me from the President."
-
-Rajapakse said that Sri Lanka is in Sri Lanka today that the country has never experienced foreign intervention and internal politics.
-
-He said that the political campaign for his expulsion had brought a new aspect in Sri Lanka's politics and that the country had only enjoyed peaceful power exchanges since independence.
-
-Therefore, Rajapakse said that the events of 2022 were severely impacted on the future of this country.
-
-He said the book explains the first experience of the internationally sponsored regime change operation. Remble
-
-◼️
-
-[Data](articles/146441f1.json)
-
-[Extended Data](ext_articles/146441f1.ext.json)
-
----
-
-### Gotar writes the book 'Conspiracy'
-
-*2024-03-06 15:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதி-புத்தகம்-எழுதுகிறார்-கோட்டார்/175-334286) · `ta`
-
-Gotabhaya Rajapaksa, former President of Sri Lanka, claims foreign powers and local parties conspired to remove him from power since his election in November 2019. He announced a book titled "Conspiracy to Excrement Me from the President," highlighting the first internationally sponsored regime change operation in Sri Lanka.
-
-🟩
-
-Former President Gotabhaya Rajapakse said that since November 2019 was elected president, some foreign powers and local parties were aimed at removing me from power.
-
-Gotabhaya Rajapaksa stated this in a statement issued today (6). Further,
-
-He also announced that he would publish the book titled "Conspiracy to Excrement Me from the President."
-
-Rajapakse said that Sri Lanka is in Sri Lanka today that the country has never experienced foreign intervention and internal politics.
-
-He said that the political campaign for the expulsion of him was a new aspect of Sri Lankan politics and that the country was only enjoying peaceful power exchanges since independence.
-
-Therefore, Rajapakse said that the events of 2022 were severely impacted on the future of this country.
-
-He said the book explains the first experience of the internationally sponsored regime change operation. Remble
-
-◼️
-
-[Data](articles/c54b7e86.json)
-
-[Extended Data](ext_articles/c54b7e86.ext.json)
 
 ---

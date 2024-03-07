@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 09:33:33**
+As of **2024-03-07 09:51:37**
 
 ## Newspaper Stats
 
-*Scraped **11,390** Articles*
+*Scraped **11,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 economynextcom | 591
 dailyftlk | 605
 islandlk | 612
-adalk | 959
+adalk | 960
 adaderanalk | 1,386
-tamilmirrorlk | 1,386
-virakesarilk | 1,556
-dailymirrorlk | 1,737
-adaderanasinhalalk | 1,779
+tamilmirrorlk | 1,387
+virakesarilk | 1,557
+dailymirrorlk | 1,738
+adaderanasinhalalk | 1,781
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,390 (100.0%) of 11,390 articles have been extended.
+11,390 (99.9%) of 11,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### පළාත් රාජ්‍ය සේවා නිලධාරීන්ගේ ස්ථාන මාරු තාවකාලිකව නවතී
+
+*2024-03-07 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194233) · `si`
+
+පළාත් රාජ්‍ය සේවයේ ස්ථීර පත්වීමක් දරන නිලධාරියෙකු මධ්‍යම රජයේ අනුරූපී තනතුරක් සඳහා ස්ථාන මාරු කිරීම නැවත දැනුම්දෙන තුරු අත්හිටුඅවීමට රාජ්‍ය සේවා කොමිෂන් සභාව තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/abb60e1c.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-03-07 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194232) · `si`
+
+◼️
+
+[Data](articles/939560bb.json)
+
+---
+
+### Damage to main internet cables in the Red Sea;Damage to Internet service in Asia, Europe and the Middle East
+
+*2024-03-07 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178057) · `ta`
+
+Damage to main internet cables in the Red Sea affects internet service in Asia, Europe, and the Middle East. HGC Global Communications reports four of the 15 cables disconnected. Investigations are ongoing to determine if the damage was intentional or accidental. The incident follows attacks on cargo ships by Houthi supporters, who claim to target ships heading towards Israel.
+
+🟩
+
+Several communications cables in the Red Sea are damaged. As a result of this, the telecommunications company said that internet service between Asia and Europe has been affected by the Internet, a US official said.
+
+Internet service has been blocked after the underlying cables have been damaged by major providers in Asia, Europe and the Middle East.
+
+HGC Global Communications Telecommunication Agency (HGC), HGC Global Communications Telecommunication Agency said that four of the 15 cables were recently disconnected.
+
+The cables of four major telecommunications networks, including Asia-Africa 1, Europe India Gateway, Sikam and DGN Gulf, have been damaged.
+
+The US official said that investigations are being carried out to find out whether the cables were deliberately cut or the ships were cut off by anchor.
+
+Following the war between Israel and Hamas in October last year, Houthi clansmen are attacked on cargo ships in the Red Sea.
+
+...
+
+[Data](articles/ae89ade5.json)
+
+[Extended Data](ext_articles/ae89ade5.ext.json)
+
+---
+
+### சரக்கு கப்பல் மீது ஹவுத்தி கிளர்ச்சியாளர்கள் ஏவுகணைத் தாக்குதல் : 3 பேர் பலி
+
+*2024-03-07 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178133) · `ta`
+
+ஏடன் வளைகுடாவில் சரக்கு கப்பல் மீது ஹவுத்தி கிளர்ச்சியாளர்கள் புதன்கிழமை நடத்திய ஏவுகணைத் தாக்குதலில் அதன் மூன்று பணியாளர்கள் கொல்லப்பட்டுள்ளதாக அமெரிக்க இராணுவம் தெரிவித்துள்ளது.
+
+இஸ்ரேல் காசா மீது தாக்குதல் நடத்தி வரும் நிலையில், பாலஸ்தீன மக்களுக்கு ஆதரவாக இஸ்ரேலுடன் தொடர்புடைய நாடுகளில் சரக்கு கப்பல்களை செங்கடல் மற்றும் ஏடன் வளைகுடா பகுதிகளில் ஈரான் ஆதரவுடன் ஏமனில் இயங்கி வரும் ஹவுத்தி கிளர்ச்சியாளர்கள் தாக்குதல் நடத்தி வருகின்றனர்.
+
+சரக்கு கப்பலை நோக்கி அடிக்கடி ஏவுகணை தாக்குதல் நடத்திவரும் நிலையில் அமெரிக்கா மற்றும் பிரித்தானிய கடற்படைகள் கூட்டாக பதிலடி கொடுத்து வருகின்றன.
+
+இந்நிலையில் லைபீரியா நாட்டைச் சேர்ந்தவருக்கு சொந்தமான சரக்கு கப்பல் ஒன்று பார்படோஸ் கொடியுடன் ஏடன் வளைகுடாவில் சென்று கொண்டிருந்தது. இந்த கப்பல் மீது ஹவுத்தி கிளர்ச்சியாளர்கள் ஏவுகணை தாக்குதல் நடத்தினர்.
+
+இதில் மூன்று மாலுமிகள் உயிரிழந்துள்ளனர். ஆறு பேர் காயம் அடைந்தனர். இதனைத் தொடர்ந்து கப்பலை  அங்கேயே விட்டுவிட்டு பணியாளர்கள் வெளியேறிவிட்டனர்.
+
+...
+
+[Data](articles/589f3d2f.json)
+
+---
+
+### Former Kalpitiya Police OIC remanded over allegation of sexual assault
+
+*2024-03-07 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Kalpitiya-Police-OIC-remanded-over-allegation-of-sexual-assault/108-278410) · `en`
+
+Kalpitiya, March 7 (Daily Mirror) - The former Officer-in-Charge (OIC) of the Kalpitiya Police Station who was charged over sexually assaulting a female police constable, has been remanded till March 12 by the Puttalam Magistrate's Court.
+
+Police said the suspect was remanded in accordance with the provisions of the Victims Protection Act due to the allegation of threatening and influencing the complainant.
+
+The former OIC was earlier interdicted from service by the National Police Commission over the allegations.
+
+The Kuliyapitiya Division Senior Superintendent of Police launched an investigation after the alleged incident and subsequently reported the matter to courts.
+
+Earlier, the Puttalam Magistrate's Court granted bail to the suspect and when the case taken up before the Magistrate, the suspect was remanded for threatening the victim woman constable to withdraw the complaint.
+
+◼️
+
+[Data](articles/f01c5587.json)
+
+---
+
+### இன்று ஜனாதிபதியை சந்திக்கும் IMF பிரதிநிதிகள்
+
+*2024-03-07 09:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-ஜனாதிபதியை-சந்திக்கும்-IMF-பிரதிநிதிகள்/175-334313) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் இன்று ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்து மீளாய்வு நடவடிக்கைகளை ஆரம்பிக்க உள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க குறிப்பிட்டார்.
+
+இதன்படி, இந்த மீளாய்வு நடவடிக்கைகள் சுமார் இரண்டு வாரங்களுக்கு நடைபெறும் என நிதி இராஜாங்க அமைச்சர் மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/044b19ee.json)
+
+---
 
 ### Police Sergeant arrested for aiding and abetting “Harak Kata’s” escape bid
 
@@ -1468,6 +1572,26 @@ The third judge requires a factor to change the decision to change the decision 
 
 ---
 
+### අපනයනය ඉලක්ක කර ගත් තැඹිලි ගම්මාන 86ක්
+
+*2024-03-06 20:15:43* · [`adalk`](https://www.ada.lk/breaking_news/අපනයනය-ඉලක්ක-කර-ගත්-තැඹිලි-ගම්මාන-86ක්/11-408462) · `si`
+
+අපනයනය ඉලක්ක කර ගනිමින් තැඹිලි වගා කිරීම සඳහා කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය විසින් ගම්මාන 86ක් තෝරාගෙන ඇති අතර,ඒවායෙහි තැඹිලි පැළ 45,000ක් වගා කිරීමට තීරණය කර තිබේ.
+
+අමාත්‍යාංශය සඳහන් කර සිටියේ, මෙරට තැඹිලිවල රසය හා ගුණාත්මකභාවය ඉහළ මට්ටමක පැවතීම හේතුවෙන් අන්තර්ජාතික වෙළෙඳපොළේ තැඹිලි පිළිබඳ ඒකාධිකාරිය ශ්‍රී ලංකාවට හිමිව ඇති බවයි.
+
+ඒ අනුව මොනරාගල, මාතර, කුරුණෑගල, කෑගල්ල, ගම්පහ,කළුතර, පුත්තලම, රත්නපුර, හම්බන්තොට, අනුරාධපුර, ත්‍රිකුණාමලය, පොළොන්නරුව, අම්පාර, මාතලේ, ගාල්ල, මඩකලපුව, යාපනය සහමහනුවර දිස්ත්‍රික්කවල ගම්මාන 86ක්තැඹිලි වගා කිරීම සඳහා තෝරාගෙන ඇතැයි අමාත්‍යාංශය වැඩිදුරටත් පැවසීය.
+
+මෙහිදී එක් ගම්මානයක වැඩි අක්කර ප්‍රමාණයක් තැඹිලි වගා කිරීමට යම් අයෙකුට අවශ්‍ය නම් ඒ සඳහා අවශ්‍ය පහසුකම් සැපයීමට පියවර ගන්නා ලෙස විෂය භාර අමාත්‍ය මහින්ද අමරවීර මහතා විසින් නිලධාරීන්ට උපදෙස් දී තිබේ.
+
+එසේම මේ යටතේ තැඹිලි පැළ හා තාක්ෂණික දැනුම මෙන්ම උපදෙස් නොමිලයේ ලබා දීමටද නියමිතය.
+
+◼️
+
+[Data](articles/27404ce6.json)
+
+---
+
 ### Murugan, Robert Bias, etc.. Call
 
 *2024-03-06 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178116) · `ta`
@@ -2131,165 +2255,5 @@ The Department said that the General Manager of the Railway General (CSE) has ta
 [Data](articles/d090fe81.json)
 
 [Extended Data](ext_articles/d090fe81.ext.json)
-
----
-
-### Six railway employees suspended over assault on foreigners at Nawalapitiya
-
-*2024-03-06 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-railway-employees-suspended-over-assault-on-foreigners-at-Nawalapitiya/108-278362) · `en`
-
-Colombo, March 6 (Daily Mirror) - Following the incident of assaulting foreigners at the Nawalapitiya Railway Station, six railway employees were suspended for non-performance of their duties, the Railways Department said.
-
-They said the General Manager, Sri Lanka Railways has taken steps to suspend the services of the two security officers employed for the protection of the train.
-
-The incident occurred in the intercity express train that departed for Badulla yesterday morning (5.55 a.m.) from Colombo Fort, where two foreigners did not possess their tickets for class one.
-
-Accordingly, the two security officers were suspended due to the non-performance of their duties.
-
-It was reported that Nawalapitiya railway station employees had allegedly assaulted two tourists and forcibly removed them from the train.
-
-The tourists had allegedly travelled in the first-class compartment, with only one of them possessing a valid ticket.
-
-◼️
-
-[Data](articles/2736f8ce.json)
-
-[Extended Data](ext_articles/2736f8ce.ext.json)
-
----
-
-### Russia and China try to build a nuclear power on the moon
-
-*2024-03-06 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178094) · `ta`
-
-Russia and China aim to build a nuclear reactor on the moon by 2033-2035, aiming to power lunar quarters, as solar panels are insufficient. The project, led by Roscosmos's Yuri Borisov, is challenging and requires automated operation without human presence.
-
-🟩
-
-Between 2033 and2035, the two countries want to build a nuclear reactor on the moon, said Roscosmos, president of Roscosmos, Yuri Borisov.
-
-Became nuclear in the moon. Providing electricity to the opposite lunar quarters. He said solar plates would not provide enough electricity.
-
-This project is very challenging. Barisov said that it should be operated in an automated manner without the presence of humans.
-
-◼️
-
-[Data](articles/088a5c51.json)
-
-[Extended Data](ext_articles/088a5c51.ext.json)
-
----
-
-### Amassadors of six countries meet Anura Kumara
-
-*2024-03-06 17:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Amassadors-of-six-countries-meet-Anura-Kumara/108-278361) · `en`
-
-Colombo, March 6 (Daily Mirror)- Ambassadors of six countries met leader of the National People's Power Anura Kumara Dissanayake at the head office of the JVP this afternoon (6), party sources said.
-
-Ambassador of the State of Palestine Dr. Zuhair M.H. Dar Zaid, Ambassador of the Republic of Turkey Ms. R. Demet Sekercioglu, High Commissioner of the Republic of Bangladesh Tareq M.D. Ariful Islam, Ms. Dewi Gustina Tobing, Ambassador of the Republic of Indonesia, Heru Prayitno, Head of Chancery of the Embassy, Badli Hisham Bin Adam Malaysian High Commissioner and Ms. Fathimath Ghina, Acting Ambassador of the Republic of Maldives attended the meeting.
-
-National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr. Rizvie Salih and Muditha Nanayakkara represented the NPP.
-
-...
-
-[Data](articles/11a9d785.json)
-
-[Extended Data](ext_articles/11a9d785.ext.json)
-
----
-
-### Ambassadors of six countries meet Anura Kumara
-
-*2024-03-06 17:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambassadors-of-six-countries-meet-Anura-Kumara/108-278361) · `en`
-
-Colombo, March 6 (Daily Mirror)- Ambassadors of six countries met leader of the National People's Power Anura Kumara Dissanayake at the head office of the JVP this afternoon (6), party sources said.
-
-Ambassador of the State of Palestine Dr. Zuhair M.H. Dar Zaid, Ambassador of the Republic of Turkey Ms. R. Demet Sekercioglu, High Commissioner of the Republic of Bangladesh Tareq M.D. Ariful Islam, Ms. Dewi Gustina Tobing, Ambassador of the Republic of Indonesia, Heru Prayitno, Head of Chancery of the Embassy, Badli Hisham Bin Adam Malaysian High Commissioner and Ms. Fathimath Ghina, Acting Ambassador of the Republic of Maldives attended the meeting.
-
-National Executive Members of the NPP Bimal Ratnayaka, Dr. Nalinda Jayatissa, Dr. Rizvie Salih and Muditha Nanayakkara represented the NPP.
-
-...
-
-[Data](articles/5dd74ba1.json)
-
-[Extended Data](ext_articles/5dd74ba1.ext.json)
-
----
-
-### Bangladesh to the coin
-
-*2024-03-06 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194214) · `si`
-
-Bangladesh won the coin toss in the 2nd 20-20 match against Sri Lanka Tourism, deciding to bat first. Sri Lanka is predicted to win the series 1-0.
-
-🟩
-
-The second 20-20 match between the Sri Lanka Tourism and Bangladesh will be held today (06) at Sylt.
-
-The Bangladesh team won the advantage of the coin and they decided to give the Sri Lankan team first to bat first.
-
-Sri Lanka team is forecasting as 1 - 0 in the three-match series.
-
-◼️
-
-[Data](articles/4979f70e.json)
-
-[Extended Data](ext_articles/4979f70e.ext.json)
-
----
-
-### AG seeks to lift interim order on divestment of SLT, Lanka Hospitals
-
-*2024-03-06 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97779/ag-seeks-to-lift-interim-order-on-divestment-of-slt-lanka-hospitals) · `en`
-
-The Attorney General has requested the Appeals Court to lift the interim order imposed pertaining to the divestment of Sri Lanka Telecom (SLT) and Lanka Hospitals.
-
-Last week, the Appeals Court delivered an interim order temporarily halting all future measures regarding the divestment of SLT and Lanka Hospitals until March 12.
-
-The relevant order was issued upon consideration of a writ petition filed by Lycamobile SARL and Pettigo Comércio Internacional on behalf of SLT and another filed by Lyca Leasing Holding Limited and HIMS International on behalf of Lanka Hospitals.
-
-When the petitions were taken up again before Appeals Court Judge D. N. Samarakoon today (March 06), Additional Solicitor General Sumathi Dharmawardhane made the request on behalf of the Attorney General.
-
-...
-
-[Data](articles/87b4995d.json)
-
-[Extended Data](ext_articles/87b4995d.ext.json)
-
----
-
-### Man dies in a shooting of Hungama
-
-*2024-03-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194213) · `si`
-
-A man died in a shooting in Hungama today. The 39-year-old injured man was admitted to Tangalle Hospital. Police suspect the shooting was with a firearm. The victim and suspect had a dispute over a woman. The victim went fishing two days ago and was shot on his way to the bank in Ranna town. The suspect, known as "Bopeasala" from Kawadamodara village, was arrested.
-
-🟩
-
-The police said that this shooting was carried out today.
-
-The 39-year-old man who was injured in shooting was admitted to the Tangalle Hospital for further treatment.
-
-Police suspect that the shooting has been carried out by a galzotous firearm.
-
-According to police, the premises have been revealed that the murder had been carried out by the deceased and the suspect, police said.
-
-The Hungama Police said that the suspect had been arrested.
-
-The victim has been revealed that both the murdered fisherman and the suspect had been a casual affair with the same woman and had been disputed with the two.
-
-The victim had gone to fishing about two days ago.
-
-He had left home to go to the bank in the Ranna town around 10.30 am.
-
-He had gone on a motorcycle and a friend went a friend from another motorcy before him.
-
-Police investigations have revealed that a person who had been waiting for him had been shooting.
-
-...
-
-[Data](articles/8f0c48f6.json)
-
-[Extended Data](ext_articles/8f0c48f6.ext.json)
 
 ---

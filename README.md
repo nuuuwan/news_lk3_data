@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 14:02:58**
+As of **2024-03-07 14:17:36**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 1,790
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,445 (99.9%) of 11,451 articles have been extended.
+11,451 (100.0%) of 11,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
 
-### வடமாகாண இலங்கை கல்வி நிர்வாக சேவை உத்தியோகத்தர்களின் இடமாற்றங்களில் முறைகேடு - ஆளுநருக்கு தொழிற்சங்கம் முறைப்பாடு
+### Trade union complaint to governor
 
 *2024-03-07 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178163) · `ta`
 
-வடக்கு மாகாண பொதுச்சேவைக்கு விடுவிக்கப்பட்டுள்ள இலங்கை கல்வி நிர்வாக சேவை உத்தியோகத்தர்களுக்கு மாகாண மட்டத்தினுள் இடமாற்றம் செய்யப்பட்ட போது, தேசிய இடமாற்றக் கொள்கை மீறப்பட்டுள்ளதுடன், அவ்விடமாற்றங்களுள் முறையற்ற, பாரபட்சமான சந்தர்ப்பங்களும் அவதானிக்கப்பட்டுள்ளதாக இ.க.நி.சேவை வாண்மையாளர்கள் (மட்டுப்படுத்தப்பட்ட) தேசிய சங்கத்தின் செயலாளர் - வடக்கு மாகாண ஆளுநருக்கு கடிதம் மூலம் முறையிட்டுள்ளார்.
+Trade union complaint to governor: The Secretary to the Northern Province - Secretary to the Northern Provincial Association (ICFI), the Secretary of the National Association (Limited) National Association (NCP) has appealed to the Governor of the Northern Province that the National Transfer Policy has been violated and improper and discriminatory on the occasions when the Sri Lanka Education Administrative Service Officers have been transferred to the Northern Province Public Service. The Secretary of the Association, RAKanayake, in a letter to the Governor of the Northern Province on the 29th of last month, has pointed out the differences and changes from the National Transfer Policy in the Provincial Transfer Policy of the IK Service Officers and the Chairman of the Northern Provincial Council of the Northern Provincial Council, Northern Provincial Council, Chairman of the Northern Provincial Council. He alleges that the abuse and retaliation of power through it has been confirmed. In addition, the IK Service in the Transfers has not been represented by any trade unions, and from all the zones of the North, 60 per cent of the officers have been given transfers in one annual transfer and 100 per cent of the Jaffna District Zone. In accordance with the National Transfer Policy, the Governor has requested the Governor to suspend the transfers until the Northern Province IT NGO has reviewed and revised, policy policy and the participation of trade union representatives in the IT Service Transfer Board.
 
-இச்சங்கத்தின் செயலாளர் ஆர்.ஏக்கநாயக்க, வடக்கு மாகாண ஆளுநருக்கு கடந்த 29ம் திகதி எழுதியுள்ள முறைப்பாட்டுக் கடிதத்தில், இ.க.நி.சேவை உத்தியோகத்தர்களுக்கான மாகாண இடமாற்றக் கொள்கையில் தேசிய இடமாற்றக் கொள்கையிலிருந்தான வேறுபாடுகள் மற்றும் மாற்றங்களை சுட்டிக்காட்டியிருப்பதுடன், இம்மாகாண இடமாற்றக் கொள்கையை தயாரித்த குழுவின் தலைவரான வடக்கு மாகாணக் கல்விப் பணிப்பாளரே, இடமாற்ற சபையின் தலைவராகவும் கடமையாற்றியுள்ளதன் மூலம் அதிகாரத் துஸ்பிரயோகம் மற்றும் பழிவாங்கல்கள் இடம்பெற்றுள்ளமை உறுதிப்படுத்தப்பட்டுள்ளதாக குற்றஞ்சுமத்தியுள்ளார்.
+🟩
+
+The Secretary to the Northern Province - Secretary to the Northern Provincial Association (ICFI), the Secretary of the National Association (Limited) National Association (NCP) has appealed to the Governor of the Northern Province that the National Transfer Policy has been violated and improper and discriminatory on the occasions when the Sri Lanka Education Administrative Service Officers have been transferred to the Northern Province Public Service.
+
+The Secretary of the Association, RAKanayake, in a letter to the Governor of the Northern Province on the 29th of last month, has pointed out the differences and changes from the National Transfer Policy in the Provincial Transfer Policy of the IK Service Officers and the Chairman of the Northern Provincial Council of the Northern Provincial Council, Northern Provincial Council, Chairman of the Northern Provincial Council.He alleges that the abuse and retaliation of power through it has been confirmed.
 
 ...
 
 [Data](articles/b2bb57ed.json)
+
+[Extended Data](ext_articles/b2bb57ed.ext.json)
 
 ---
 
@@ -64,21 +70,31 @@ Minister Tennakoon said the government is planning to bring in new Acts to minim
 
 [Data](articles/7f4aa928.json)
 
+[Extended Data](ext_articles/7f4aa928.ext.json)
+
 ---
 
-### පැජට් පාරේ නිවස ගැන මෛත්‍රී කට අරී
+### Maithri Surnsenced the house on Pagtat Road
 
 *2024-03-07 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194243) · `si`
 
-තමා ජනාධිපති ධුරය දැරූ සමයේ පදිංචිව සිටි කොළඹ, පැජට් පාරේ පිහිටි නිවස සම්බන්ධයෙන් අසත්‍ය පුවත් පළ කරන ලද පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට බලාපොරොත්තු වන බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+Maithripala Sirisena plans legal action against residents of a house on Pagtat Road, Colombo, where he lived during his presidency. He obtained the house from a minister and denies allegations of living in a palace.
 
-අද (07) පාර්ලිමේන්තුවේ දී මේ සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් කරමින් ඒ මහතා පවසා සිටියේ, අදාළ නිවස සම්බන්ධයෙන් අධිකරණ තීන්දුවක් ලබාදීමට වසර 2 හමාරකට පෙර තමා එම නිවසෙන් පැමිණි බවය.
+🟩
 
-එම නිවස තමා ලබා ගත්තේ ඇමතිවරයෙකුගෙන් බවත් පසුව එය පිළිසකර කර තමා එහි ජීවත් වූ බවත් මෛත්‍රීපාල සිරිසේන මහතා පැවසීය.
+Former President Maithripala Sirisena says he is looking to take legal action against persons on the house of Pagtated Road, Colombo, who was residing at the time of the presidency.
 
-...
+He made this special statement in parliament today (07), he said that he had returned from the house for two and a half years.
+
+Maithripala Sirisena said that the house was obtained from a minister and later lived there and lived there.
+
+"I took the house from a minister. It's a minister's house. It was not a palace. On the other hand, he sent the propaganda from political and media, writing this, writing this. I completely reject the most false, false propaganda like this. 2 and a half years ago I came out of that house. Misconceptions have helped us mainly to go through the media mainly about chariting and sleeplessness, on the Online Act,. So I hope that I am under the Online Act and Parliamentary privileges under the online privileges that made the wrong issues that have filed the wrong matter.. "
+
+◼️
 
 [Data](articles/e3192041.json)
+
+[Extended Data](ext_articles/e3192041.ext.json)
 
 ---
 
@@ -100,21 +116,29 @@ Earlier, Mr. Premadasa said the location of the wind power project should be chn
 
 [Data](articles/af3f74af.json)
 
+[Extended Data](ext_articles/af3f74af.ext.json)
+
 ---
 
-### ආචාර්යවරයා වෛද්‍ය සිසුවා ට වෙඩි තබයි
+### The lecturer shoots the medical student
 
 *2024-03-07 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194242) · `si`
 
-බංග්ලාදේශයේ වෛද්‍ය විද්‍යාලයක දී සිදුකළ වෙඩිතැබීමකින් වෛද්‍ය සිසුවෙක් තුවාල ලබා තිබේ.
+A medical student in Bangladesh was shot by a lecturer, leading to his arrest after protests against the lecturer's arrest began.
 
-මාධ්‍ය වාර්තා සඳහන් කර ඇත්තේ රයිහාන් ෂරීෆ් නම් එම ආචාර්යවරයා අත්අඩංගුවට ගන්නා ලෙස බලකරමින් වෛද්‍ය සිසුන් විරෝධතා ඇරඹීමෙන් අනතුරුව ඊයේ (06) ඔහුව අත්අඩංගුවට ගෙන ඇති බවයි.
+🟩
 
-එහිදී ෂරීෆ් සහ 23 හැවිරිදි වෛද්‍ය සිසුවා අතර ආරවුලක් හටගෙන ඇති අතර එම අවස්ථාවේදී ෂරීෆ් විසින් සිසුවාට වෙඩිතබා තිබුණි.
+A medical student was injured in a shooting at a medical college in Bangladesh.
+
+According to media reports, he was arrested yesterday after the patronage began yesterday (06) after the commencement of the protest against the arrest of the lecturer.
+
+There was a dispute between Sharif and 23-year-old medical student and Sharif had shot.
 
 ◼️
 
 [Data](articles/82cb5798.json)
+
+[Extended Data](ext_articles/82cb5798.ext.json)
 
 ---
 
@@ -135,6 +159,8 @@ The wedding ceremony was held in a private zoo belonging to Ambani in the city o
 ...
 
 [Data](articles/89859f5c.json)
+
+[Extended Data](ext_articles/89859f5c.ext.json)
 
 ---
 

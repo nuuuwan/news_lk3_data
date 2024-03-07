@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 14:49:15**
+As of **2024-03-07 15:02:50**
 
 ## Newspaper Stats
 
-*Scraped **11,462** Articles*
+*Scraped **11,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 969
-adaderanalk | 1,392
+adaderanalk | 1,393
 tamilmirrorlk | 1,398
 virakesarilk | 1,569
 dailymirrorlk | 1,748
-adaderanasinhalalk | 1,793
+adaderanasinhalalk | 1,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,454 (99.9%) of 11,462 articles have been extended.
+11,462 (100.0%) of 11,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### රෝහිත කෝප් සභාපති ධුරයට
+
+*2024-03-07 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194247) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප් කමිටුවේ) සභාපති ධුරයට තේරී පත්ව තිබේ.
+
+◼️
+
+[Data](articles/4a5ddc64.json)
+
+---
 
 ### Lasantha Alagiyawanna re-elected COPA Chairman
 
@@ -44,21 +56,29 @@ The members of the COPA are Mohan Priyadarshana De Silva, Prasanna Ranaweera,  
 
 [Data](articles/3a833b47.json)
 
+[Extended Data](ext_articles/3a833b47.ext.json)
+
 ---
 
-### சாணக்கியன் எம். பி மீது தாக்குதல் முயற்சி
+### Chanakyan M. Attempted attack on B
 
 *2024-03-07 14:30:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாணக்கியன்-எம்-பி-மீது-தாக்குதல்-முயற்சி/175-334336) · `ta`
 
-பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன என்னை அச்சுறுத்தியதோடு தாக்க முற்பட்டார் என சாணக்கியன் எம்.பி சபையில் தெரிவித்தார்.
+Chanakyan MP claimed PA threatened and attacked him, aiming for PM's office. He questioned justice for Tamils against racists.
 
-பிரதமர் அலுவலகம் செல்லும் வழியில் நீர் எவ்வாறு எமது நாட்டின் பிரதமரை சந்திக்கலாம் என்று கூறி தாக்க முற்பட்டார் என்றும் குறிப்பிட்டுள்ளார்.
+🟩
 
-இவ்வாறான இனவாதிகள் நாட்டில் இருக்கும் வரை எவ்வாறு எமது மக்களுக்கான நீதி கிடைக்கும்? தமிழ் பாராளுமன்ற உறுப்பினர்களுக்கே உயிருக்கு உத்தரவாதம் இந்நாட்டில் இல்லை. எனது சிறப்புரிமை மீறியமைக்காக பாராளுமன்றத்தில் எனது வாக்குமூலம் பதியப்பட்டதென சாணக்கியன் எம்.பி சபையில் தெரிவித்தார். R
+Chanakyan MP told the House that PA had threatened me and tried to attack me.
+
+On the way to the Prime Minister's Office, he said he tried to attack the Prime Minister of our country.
+
+How can we get justice for our people as long as these racists are in the country?Tamil MPs are not guaranteed in this country. Chanakyan MP told the House that my confession was filed in Parliament for my violation of my privilege. Remble
 
 ◼️
 
 [Data](articles/d5dd8bba.json)
+
+[Extended Data](ext_articles/d5dd8bba.ext.json)
 
 ---
 
@@ -74,17 +94,41 @@ Meanwhile, MPs Tissa Attanayake, Kabir Hashim, Niroshan Perera, J. C. Alawathuwa
 
 [Data](articles/1387ce90.json)
 
+[Extended Data](ext_articles/1387ce90.ext.json)
+
 ---
 
-### කෝපා සභාපති ලසන්ත
+### Lasantha and Rohitha elected as COPA, COPE chairmen
+
+*2024-03-07 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97793/lasantha-and-rohitha-elected-as-copa-cope-chairmen) · `en`
+
+State Minister Lasantha Alagiyawanna has been elected as the new chairman of the Committee on Public Accounts (COPA).
+
+MPs Tissa Attanayake, Kabir Hashim, Niroshan Perera, J. C. Alawathuwala, Ashok Abeysinghe, Sivagnanam Shritharan, Hector Appuhamy, M. Udayakumar, Weerasumana Weerasinghe, Dr. Harini Amarasuriya have been nominated to serve in the committee.
+
+Meanwhile, MP Rohitha Abeygunawardena has been elected the chairman of the Committee on Public Enterprises (COPE).
+
+◼️
+
+[Data](articles/8642909c.json)
+
+---
+
+### Lasantha, Chairman of Kopa
 
 *2024-03-07 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194246) · `si`
 
-ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා රජයේ ගිණුම් කාරක සභාවේ (කෝපා) සභාපති ධුරයට තේරී පත්ව තිබේ.
+Lasantha Alagiyawanna, Minister of Transport, elected Chairman of Government Accounting Committee (Kapa).
+
+🟩
+
+Minister of Transport Lasantha Alagiyawanna has been elected to the post of Chairman of the Government Accounting Committee (Kapa).
 
 ◼️
 
 [Data](articles/378ef04a.json)
+
+[Extended Data](ext_articles/378ef04a.ext.json)
 
 ---
 
@@ -97,6 +141,8 @@ The "Air Tattoo - 2024" educational and technical exhibition, held in conjunctio
 ◼️
 
 [Data](articles/b2014d36.json)
+
+[Extended Data](ext_articles/b2014d36.ext.json)
 
 ---
 
@@ -128,15 +174,21 @@ About 100 people have been arrested for this protest and the damaged by the Pres
 
 ---
 
-### மெக்ஸிக்கோ பல்கலைக்கழகத்தில் கத்திக்குத்து : இரு பெண்கள் பலி
+### Knife at University of Mexico: Two women kill
 
 *2024-03-07 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178168) · `ta`
 
-20 வயதான ஓர் இளைஞனே தாக்குதல் நடத்தியதாகவும், அவ்விளைஞனும் இச்சம்பவத்தில காயமடைந்ததாகவும் அதிகாரிகள் தெரிவித்துள்ளனர்.
+Two women at the University of Mexico killed a 20-year-old man, and the victim was also injured.
+
+🟩
+
+Officials said a 20 -year -old man had attacked and the victim was also injured in the incident.
 
 ◼️
 
 [Data](articles/a1898a27.json)
+
+[Extended Data](ext_articles/a1898a27.ext.json)
 
 ---
 
@@ -186,17 +238,23 @@ He added that steps have been taken to introduce the remaining amount of money i
 
 ---
 
-### ඉහළ වත්කම් ඇති අය ගැන සමීප නිරීක්ෂණයක්
+### Close observation of people with high assets
 
 *2024-03-07 13:51:03* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-වත්කම්-ඇති-අය-ගැන-සමීප-නිරීක්ෂණයක්/11-408474) · `si`
 
-ඉතා ඉහළ වත්කම් සහිත් පුද්ගලයන්ගේ බදු අනුකූලතාවනය පිළිබඳව ඉදිරියේදි වඩා සමීප ලෙස අවධානය යොමු කිරීමට දේශීය ආදායම් දෙපාර්තමේන්තුව බලාපොරොත්තු වන බව එම දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Department of Inland Revenue announces a focus on tax conformity, deploying new officers to enhance tax compliance among high-income individuals.
 
-ඉහළ ආදායම් ලබන සහ ඉහළ වත්කම් සහිත පුද්ගලයන් සම්බන්ධ අධීක්ෂණයක් කිරීම ඳහා විශාල බදු ගෙවන්නන්ගේ කාර්යාලය යටතේ පිහිටුවා ඇති ඉහළ වත්කම් සහිත පුද්ගල අංශය වෙත අතිරේන නිලධාරීන් යෙදවීමටත් තාක්ෂණික පහසුකම් ලබාදිමටත් කටයුතු කර ඇතැයි එම දෙපාර්තමේන්තුව නිවෙදනයක් නිකුත්කරමින් පවසයි.
+🟩
+
+The Department of Inland Revenue issues announcement to focus on the tax conformal to the tax conformal to the tax conformity of the tax compliance.
+
+The department releases a none of the new officers to be deployed to deploy additional assets and providing technical facilities to high income and higher assets.
 
 ◼️
 
 [Data](articles/1cc770b7.json)
+
+[Extended Data](ext_articles/1cc770b7.ext.json)
 
 ---
 
@@ -394,17 +452,23 @@ Minister of Power and Energy, Kanchana Wijesekara, speaking to the occasion.
 
 ---
 
-### එන්ජින් ධාරිතාව 450 සීසී  වැඩි යතුරු පැදි ලියාපදිංචියට සලකා බලයි
+### The engine capacity considers 450 cc registration
 
 *2024-03-07 12:56:02* · [`adalk`](https://www.ada.lk/breaking_news/එන්ජින්-ධාරිතාව-450-සීසී--වැඩි-යතුරු-පැදි-ලියාපදිංචියට-සලකා-බලයි/11-408471) · `si`
 
-එන්ජින් ධාරිතාව 450 සීසී කාණ්ඩයට වැඩි යතුරුපැදි නීත්‍යනුකූල ලියාපදිංචියට අවසර දීමට රජයේ අවධානය යොමුව තිබෙන බව වාර්තා වනවා.
+The government aims to expand the 450 cc category, with Parliamentarian Rohitha Abeygunawardena proposing to allow 450 cc motor bicycles. The Ministry of Transport and Public Defense will review this proposal.
 
-එන්ජින් ධාරිතාව 450 සිසී කාණ්ඩයට වැඩි යතුරු පැදි ලියාපදිංචියට අවසර ලබා දෙන ලෙස යෝජනා කරමින් පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන විසින් ඊයේ පාර්ලිමේන්තුවට කල් තැබීමේ යෝජනාවක්ගෙන රැගෙන එනු ලැබුවා. ඊට ප්‍රතිචාර දක්වමින් සභානායක අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා ප්‍රකාශකර සිටියේ ප්‍රවාහන අමාත්‍යංශය සහ මහජන ආරක්ෂක අමාත්‍යංශය එක්ව ඉදිරියේදී මේ සම්බන්ඳව කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කිරීමට නියමිත බවයි.
+🟩
+
+It is reported that the government is focusing on allowing more than 450 ccs in the 450 cc category.
+
+Parliamentarian Rohitha Abeygunawardena has taken advance to Parliamentary proposal to be adjourned by MP Rohitha Abeygunawardena, proposing to allow the 450 motor bicycle registration to the 450s.. Leader of the House Susil Premajayantha stated that the Ministry of Transport and the Public Defense Ministry will be presented with the Cabinet paper in the future.
 
 ◼️
 
 [Data](articles/57d5fc3e.json)
+
+[Extended Data](ext_articles/57d5fc3e.ext.json)
 
 ---
 
@@ -2259,53 +2323,5 @@ The United States Agency for International Development (USAID) and the Women’s
 [Data](articles/492a8145.json)
 
 [Extended Data](ext_articles/492a8145.ext.json)
-
----
-
-### President
-
-*2024-03-07 01:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-சீரழித்தவர்களை-பாதுகாக்கும்-ஜனாதிபதி/175-334310) · `ta`
-
-Sajith Premadasa criticizes President Ranil Wickremesinghe for protecting those who have degraded the country. The opposition leader mentioned the hell and the hanging bridge, accusing the president of preventing the people from getting rid of the country and not getting the country's assets. The president, in response, claimed to be in a big fire, noting that the thieves are within the crowd and that he has never received votes from them. He also criticized the Ceremonial Backup Act and the attempt to turn the Constitutional Council into a tool of the executive sector. The United People's Power has prepared a solution for economic progress, expecting growth that benefits everyone.
-
-🟩
-
-Opposition leader Sajith Premadasa said President Ranil Wickremesinghe is engaged in the process of protecting those who have degraded the country.
-
-The Second Assessment Discussion on February 20th was taken up and adjourned bail, the Bill, the Bill, the Bureau of Relations (Amendment) Bill, the Amendment (Amendment) Bill, the Financial Lease (Amendment) Bill, the Internal Trust (Amendment) Bill (Amendment) BillThe Opposition Leader said this while addressing the third day debate on the Bill and the Registration Ordinance (Amendment) Bill in Parliament on Wednesday (06).
-
-While addressing the President, he mentioned the hell and the hanging bridge. But you are the founders of hell. You are the one who prevented the people of this country from getting rid of the country.
-
-...
-
-[Data](articles/6c4e19d3.json)
-
-[Extended Data](ext_articles/6c4e19d3.ext.json)
-
----
-
-### Humanitarian activities were carried out to invite Santhan to the country - Minister of Foreign Affairs
-
-*2024-03-07 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178128) · `ta`
-
-India denied permission for humanitarian reasons to bring Santhan, accused of murdering former Indian PM, to Sri Lanka. Despite efforts by Northern MPs, no immediate response from India. Santhan, suffering from cancer, died naturally.
-
-🟩
-
-We have carried out a humanitarian basis to join Santhan with his family. India did not grant permission.. Foreign Affairs Minister Ali Sabri told the House not to make false allegations.
-
-Speaking at a session in Parliament on Wednesday (6). He noted that steps were not taken to bring him to the country. In response, he said the above.
-
-Shantan is accused in connection with the murder of former Prime Minister of India. He was detained in India. Northern MPs, including Douglas Devananda, had made demands for bringing him to Sri Lanka.
-
-In this case, the government tried to bring Shantan to Sri Lanka on a humanitarian basis and join his relatives. But the favorable answers from the Indian government were not immediately available.
-
-Shantan, who was suffering from cancer, died. This is the natural death. Do not use this issue to politics. Get rid of the opposition to all.
-
-...
-
-[Data](articles/80b1ceab.json)
-
-[Extended Data](ext_articles/80b1ceab.ext.json)
 
 ---

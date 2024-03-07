@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 23:52:13**
+As of **2024-03-08 00:02:42**
 
 ## Newspaper Stats
 
-*Scraped **11,564** Articles*
+*Scraped **11,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,403
 adaderanalk | 1,408
-virakesarilk | 1,586
-dailymirrorlk | 1,761
+virakesarilk | 1,587
+dailymirrorlk | 1,762
 adaderanasinhalalk | 1,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,552 (99.9%) of 11,564 articles have been extended.
+11,552 (99.9%) of 11,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### Ottawa: Four children among six found dead in house
+
+*2024-03-07 23:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-Four-children-among-six-found-dead-in-house/108-278454) · `en`
+
+BBC News, Toronto - Canadian police are treating the deaths of four children and two adults at a house in Ottawa as homicides.
+
+Officers were responding to an emergency call placed at approximately 22:52 local time (03:52 GMT) on Wednesday when they found the six people.
+
+Ottawa police chief Eric Stubbs has described the incident as a "mass shooting".
+
+Sri Lanka's High Commission in Ottawa told the BBC on Thursday that the victims were a family of Sri Lankan nationals.
+
+The commission did not provide further details, referring questions to police.
+
+In a statement early on Thursday morning, the Ottawa Police Service called the investigation into the deaths "tragic and complex".
+
+Officials have also said that at least one person had been taken to hospital in the Ottawa area with serious but not life-threatening injuries.
+
+They added that there was no ongoing threat to public safety.
+
+Chief Stubbs called the incident a "real tragedy" that would continue to have a "significant" impact on the whole city.
+
+...
+
+[Data](articles/01b75ede.json)
+
+---
 
 ### Minister Kanchana says efforts underway to further alleviate fuel prices
 
@@ -255,6 +283,22 @@ The Swedish government said separately it would take the formal decision for the
 [Data](articles/fc4c1606.json)
 
 [Extended Data](ext_articles/fc4c1606.ext.json)
+
+---
+
+### அமைச்சரவையும் ஜனாதிபதியும் பராட்டே சட்டத்தை இடைநிறுத்த முடிவு செய்தாலும், வணிக வங்கிகள் போட்டிக்கு ஏலம் விட்டு வருகின்றன - சஜித் பிரேமதாச
+
+*2024-03-07 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178181) · `ta`
+
+பராட்டே சட்டம் டிசம்பர் 15 ஆம் திகதி வரை இடைநிறுத்தப்பட்டதாக ஜனாதிபதி கூட பாராளுமன்றத்தில் அறிவித்தார், என்றாலும் இன்று வணிக வங்கிகள் இதை நடைமுறைப்படுத்துவதாக இல்லை. பராட்டே சட்டத்தின் கீழ் தனியார் வங்கிகள் ஏலத்தை நடத்திய பின்னர், சட்டத்தை நிறைவேற்றுவதில் எந்தப்பலனும் இல்லை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+நாட்டின் மொத்த உள்நாட்டு உற்பத்தியில் 50% மற்றும் வேலைவாய்ப்பில் 52% பங்களிக்கும் நுண், சிறிய மற்றும் நடுத்தர அளவிலான தொழில்துறையினருக்காகவே இந்தப் பிரச்சினையை எழுப்புகிறேன். அமைச்சரவையினால் எடுக்கப்பட்ட தீர்மானத்தைக் கூட வணிக வங்கிகள் நடைமுறைப்படுத்தாவிடின்  அமைச்சரவையொன்று இருந்து பயனில்லை.நீங்கள் அமைச்சர்களாக இருந்தும் பயனில்லை என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+பராட்டே சட்டத்தை இடைநிறுத்தியும் அதனை உரியவாறு அமுல்படுத்தாமை தொடர்பில் இன்று வியாழக்கிழமை (07) பாராளுமன்றத்தில் கருத்து தெரிவிக்கும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/3b18bb77.json)
 
 ---
 
@@ -2177,47 +2221,5 @@ Minister of Transport Lasantha Alagiyawanna has been elected to the post of Chai
 [Data](articles/378ef04a.json)
 
 [Extended Data](ext_articles/378ef04a.ext.json)
-
----
-
-### Commander inspires schoolgirl’s aviation dream at ’’Air Tattoo’’
-
-*2024-03-07 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Commander-inspires-schoolgirls-aviation-dream-at-Air-Tattoo/110-278425) · `en`
-
-The "Air Tattoo - 2024" educational and technical exhibition, held in conjunction with the 73rd anniversary of the Sri Lanka Air Force, was inaugurated yesterday at the Muttraweli Ground in Jaffna. Air Marshal Udeni Rajapaksa, Commander of the Sri Lanka Air Force presenting a symbolic aircraft souvenir to a schoolgirl, inspiring her dream of becoming an aviator.
-
-◼️
-
-[Data](articles/b2014d36.json)
-
-[Extended Data](ext_articles/b2014d36.ext.json)
-
----
-
-### Protesters damages to Mexico President
-
-*2024-03-07 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194245) · `si`
-
-Demonstrators in Mexico protesting the 2014 disappearance of 43 students were hit by a cab, leading to arrests and police using tear gas. President Manuel Lopez Obrador was present at a press conference.
-
-🟩
-
-A group of demonstrators in Mexico has been rolled by a cab, a cab.
-
-The group agitated against the loss of 43 students in 2014.
-
-A video circulation of social media shows that a white cab is hit by the main door of the President.
-
-According to foreign media reports, the president's manuel lopez obtakor was participating in the daily press conference.
-
-It is reported that the police had tear gas to control the protesters and that security barriers were established to prevent protesters from the president.
-
-About 100 people have been arrested for this protest and the damaged by the President was arrested.
-
-◼️
-
-[Data](articles/e76af0ca.json)
-
-[Extended Data](ext_articles/e76af0ca.ext.json)
 
 ---

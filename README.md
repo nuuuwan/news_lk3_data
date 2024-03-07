@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 08:33:07**
+As of **2024-03-07 08:48:58**
 
 ## Newspaper Stats
 
-*Scraped **11,384** Articles*
+*Scraped **11,385** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 133
+bbccomsinhala | 134
 dbsjeyarajcom | 174
 newsfirstlk | 363
 economynextcom | 591
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,776
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,384 (100.0%) of 11,384 articles have been extended.
+11,384 (100.0%) of 11,385 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,9 +98,13 @@ The Department of Railways said that steps will be taken to take action after in
 
 *2024-03-07 07:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97785/imf-second-review-of-sri-lankas-bailout-package-begins-today-) · `en`
 
-The second review of the Extended Fund Facility (EFF) program of International Monetary Fund (IMF) kicks off today (March 07) with an opening meeting scheduled with President Ranil Wickremesinghe.
+The International Monetary Fund (IMF) will commence its second review of the Extended Fund Facility (EFF) program for Sri Lanka today (March 07) with an opening meeting scheduled with President Ranil Wickremesinghe.
 
-Taking to his X handle (formerly Twitter), the Finance State Minister Shehan Semasinghe said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
+Taking to his X handle (formerly Twitter), Finance State Minister Shehan Semasinghe said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
+
+He said the government expects to conclude a successful review and reach the staff-level agreement which will pave the way for accessing the third tranche.
+
+“This will accelerate our growth trajectory, fostering increased confidence in the economy,” he added.
 
 ◼️
 
@@ -349,6 +353,26 @@ The amendments to be made in the National Education Policy Scheme and the new is
 [Data](articles/7a1c9087.json)
 
 [Extended Data](ext_articles/7a1c9087.ext.json)
+
+---
+
+### කොටියා : 'අපේ පර්යේෂණය අනුව ආසියාවේ වැඩිම කොටි ඝනත්වය තියෙන වනාන්තරය විල්පත්තුව'
+
+*2024-03-07 02:17:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2yx3n4r18o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, විල්පත්තුවේ කොටි 313ක් පමණ ජීවත් වෙන බවට ගණන් බලා තිබේ.
+
+කොටියා : 'අපේ පර්යේෂණය අනුව ආසියාවේ වැඩිම කොටි ඝනත්වය තියෙන වනාන්තරය විල්පත්තුව'
+
+ශ්‍රී ලංකාවේ විශාලම ජාතික වනෝද්‍යානය වන විල්පත්තුව ලෝකයේ ජනප්‍රිය කොටි පරාදීසයකි.
+
+පැටවුන් සමග සිටින කොටි ධේනුවෝ අට දෙනෙක් මේ දිනවල දක්නට ලැබෙති.
+
+''2018 අපි කළ පර්යේෂණයකට අනුව දැනට ආසියාවේ වැඩිම කොටි ඝනත්වය තියෙන වනාන්තරය විල්පත්තුව. මේ දිනවල ගැහැනු සතුන් අට දෙනෙක් පැටව් දාලා. මරදන්මඩුව ප්‍රදේශයේ පැටව් බිහි කළ ගැහැනු  සත්ත්වයා මේ පැටව් බිහි කළ පස්වැනි අවස්ථාව. මම 2011 ඉඳලා විල්පත්තුවේ කොටි ගැන පර්යේෂණ කරනවා. නමුත් මෙහෙම දෙයක් වාර්තා වූ පළවැනි අවස්ථාව මේක'' යනුවෙන් වනජීවී පර්යේෂක කිත්සිරි ගුණවර්ධන BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/02bee6b8.json)
 
 ---
 
@@ -2257,27 +2281,5 @@ The accused, along with Kerala cannabis and the motorcycle, has been handed over
 [Data](articles/f3de07c4.json)
 
 [Extended Data](ext_articles/f3de07c4.ext.json)
-
----
-
-### Central Bank Office Assistant Salary Rs. 188,827
-
-*2024-03-06 16:37:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்திய-வங்கி-அலுவலக-உதவியாளரின்-சம்பளம்-ரூ-188-827/175-334290) · `ta`
-
-The Central Bank's Grade 1 office assistant salary is increased to Rs. 188,827, a 29.53% rise, and the Deputy Governor's salary by 76.97%. Employees also have rights to housing, vehicle, welfare, and medical loans.
-
-🟩
-
-Prime Minister Dinesh Gunawardena today said that the total salary for the Grade 1 of the Central Bank's low -ranking office assistant will be increased by 29.53 per cent to Rs 188,827.
-
-The total salary of the Deputy Governor has been increased by Rs 76.97 per cent.. The Prime Minister responded to a question raised by SJB MP SM Marikar in Parliament.
-
-The Prime Minister also said that central bank employees have the right to housing loans, vehicle loans, welfare loans and medical facilities.
-
-◼️
-
-[Data](articles/9b887593.json)
-
-[Extended Data](ext_articles/9b887593.ext.json)
 
 ---

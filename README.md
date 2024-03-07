@@ -1,36 +1,160 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-07 15:50:36**
+As of **2024-03-07 16:03:40**
 
 ## Newspaper Stats
 
-*Scraped **11,473** Articles*
+*Scraped **11,483** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
 bbccomsinhala | 135
-dbsjeyarajcom | 174
+dbsjeyarajcom | 175
 newsfirstlk | 363
 economynextcom | 595
 dailyftlk | 606
 islandlk | 612
 adalk | 972
-adaderanalk | 1,394
-tamilmirrorlk | 1,400
-virakesarilk | 1,569
+adaderanalk | 1,395
+tamilmirrorlk | 1,401
+virakesarilk | 1,571
 dailymirrorlk | 1,749
-adaderanasinhalalk | 1,796
+adaderanasinhalalk | 1,801
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,470 (100.0%) of 11,473 articles have been extended.
+11,473 (99.9%) of 11,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-07 (Thursday)
+
+### மன்னார் தீவு பகுதியில் மக்களை பாதிக்கும்  நடவடிக்கைகள் முற்றாக நிறுத்தப்பட வேண்டும் - அருட்தந்தை எஸ்.மாக்கஸ்
+
+*2024-03-07 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178171) · `ta`
+
+எமது மீனவர்களின் வாழ்வாதாரத்தை அழிக்கும் வகையில் இந்திய மீனவர்களின் அத்து மீறிய நடவடிக்கை இடம்பெற்று வருகின்றது. இந்நிலையில், மன்னார் தீவு பகுதியில் மக்களை பாதிக்கும் வகையில் கனிய மணல் அகழ்வு மற்றும் காற்றாலை மின் உற்பத்தி கோபுரங்கள் அமைக்கும் நடவடிக்கைகள் மக்களின் எதிர்ப்பையும் மீறி ரகசியமாக இடம்பெற்று வருகின்றது என மன்னார் பிரஜைகள் குழுவின் தலைவர் அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் தெரிவித்தார்.
+
+மன்னாரில் உள்ள அலுவலகத்தில் வியாழக்கிழமை (7) மதியம் இடம்பெற்ற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+இந்திய மீனவர்களின் அத்து மீறிய வருகையின் காரணமாக கடல் வளம்  சுறண்டப்படுவதினால் எமது மீனவர்கள் வாழ முடியாத நிலை காணப்படுகிறது. கடந்த 10 வருடங்களுக்கு மேலாக நாங்கள் பல்வேறு முயற்சிகளை முன்னெடுத்த போதும் இதற்கு எவ்வித முடிவும் கிடைக்காத நிலை காணப்படுகின்றது.
+
+இலங்கை  கடற்பரப்பினுல் ஆயிரக்கணக்கான இந்திய இழுவைப்படகுகள் வந்து மீன் வளங்களை அழிப்பதோடு, மீனவர்களின் சொத்துக்களும் அழிக்கப்படுகின்றது. இதனால் எமது மீனவர்களின் வாழ்வாதாரம் பாதிக்கப்படுகிறது.
+
+...
+
+[Data](articles/0f28fe2e.json)
+
+---
+
+### கோப் குழுவின் புதிய தலைவராக ரோஹித அபேகுணவர்தன தெரிவு
+
+*2024-03-07 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178178) · `ta`
+
+அரசாங்க பொறுப்பு முயற்சிகள் தொடர்பான குழுவின் (கோப் குழு) புதிய தலைவராக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன இன்று வியாழக்கிழமை (07) தெரிவு செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/14609293.json)
+
+---
+
+### හෙට ප්‍රදේශ රැසකට උණුසුම් තත්ත්වයක්
+
+*2024-03-07 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194255) · `si`
+
+හෙට (08) දිනයේ ප්‍රදේශ රැසක උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නවතම නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/a549dcb0.json)
+
+---
+
+### ශ්‍රී ලංකා - තායිලන්ත වෙළෙඳ ගිවිසුමට එරෙහිව FR පෙත්සමක්
+
+*2024-03-07 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194253) · `si`
+
+ශ්‍රී ලංකාව සහ තායිලන්තය අතර අත්සන් කර තිබෙන නිදහස් වෙළෙඳ ගිවිසුම ක්‍රියාත්මක කිරීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබේ.
+
+එහි වගඋත්තරකරුවන් ලෙස ජනාධිපතිවරයා වෙනුවෙන් නීතිපතිවරයා, අග්‍රාමාත්‍යවරයා ඇතුළු අමාත්‍ය මණ්ඩල සාමාජිකයින්, මුදල් හා වෙළෙඳ අමාත්‍යංශ වල ලේකම්වරු ඇතුළු 27 දෙනෙකු නම් කර තිබුණි.
+
+◼️
+
+[Data](articles/5ec8f8d1.json)
+
+---
+
+### පරාටේ නීතිය ගැන අගමැති දුන් පොරොන්දුව
+
+*2024-03-07 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194254) · `si`
+
+පරාටේ නීතිය අත්තිටුවීමේ කැබිනට් තීරණය වහාම ක්‍රියාත්මක කරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී සහතික විය.
+
+විපක්ෂනායකවරයා පාර්ලිමේන්තුවේදී මතුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් අග්‍රාමාත්‍යවරයා මෙම අදහස් පළකළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් අග්‍රාමාත්‍යවරයා පැවසුවේ බැංකු අංශයේ තිබෙන බේරුම්කරණ කමිටුව ක්‍රියාත්මක තත්වයට පත්කළ යුතු බවය.
+
+"විපක්ෂ නායකතුමා කලින් කීප වතාවක් මේ ප්‍රශ්නය ගත්තා. මම සම්පූර්ණයෙන් එකඟයි මේ පරාටේ ක්‍රියාත්මක කිරීමේ නීතිය. මේ පසුගිය අවුරුදු ගණනාවක් තුළ කීප වාරයක් සංශෝධනය කරලා තිබෙනවා. කියවා බැලුවොත් මම හිතන්නෙ ඔබතුමත් කියවලා බලලා තිබෙනවා වසර දහයෙන් දහයට සංශෝධනය කරලා තිබෙනවා. පළවෙනියෙන් ගෙනාපු සීමාව දැන් කීප වතාවක් වැඩි කරලා තිබෙනවා. එයින් අදහස් කරන්නේ පාර්ලිමේන්තුව මේ කටයුතු කරලා තිබෙන්නේ මේ පිළිබඳව ප්‍රශ්නයෙන් ගැඹුරෙන් අවධානයට යොමු නොකර වෙන්නත් පුළුවන් මේක සම්බන්ධ කරලා තිබෙන්නේ. ඒ නිසා අපි කැබිනට් මණ්ඩලයද ජනාධිපතිතුමා ඉතා පැහැදිලිව මුදල් අමාත්‍යතුමා හැටියට තීරණය කරා මේක කල්දාන්න ඒ අතරතුර වහාම සංශෝධනයක් පාර්ලිමේන්තුවට ගේන්න."
+
+...
+
+[Data](articles/a25c5197.json)
+
+---
+
+### குண்டு வெடிப்பில் ஒருவர் காயம்
+
+*2024-03-07 15:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/குண்டு-வெடிப்பில்-ஒருவர்-காயம்/73-334343) · `ta`
+
+மட்டக்களப்பு வாகரை பொலிஸ் நிலையத்திற்கு முன்னால் உள்ள வீடு ஒன்றில் குப்பைக்குள் இருந்து குண்டு ஒன்று வெடித்ததில் ஒருவர் படுகாயமடைந்தார். இந்த சம்பவம்  வியாழக்கிழமை (07) பகல் 12 மணிக்கு இடம்பெற்றுள்ளதாக வாகரை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பொலிஸ் நிலையத்துக்கு முன்னால் உள்ள வீடு ஒன்றின் உரிமையாளர்    காணியை துப்பரவு செய்து அதன்குப்பைகளை தீயிட்டு எரித்துக் கொண்டிருந்தபோது அதில் இருந்த கைக்குண்டு ஒன்று பாரிய சத்தத்துடன் வெடித்து சிதறியதில் அவர் படுகாயமடைந்து மட்டு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/aceb4dfe.json)
+
+---
+
+### IUSF convenor released on bail
+
+*2024-03-07 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97795/iusf-convenor-released-on-bail) · `en`
+
+The convenor of the Inter-University Students’ Federation (IUSF) Madushan Chandrajith and another student activist, who were arrested during a protest in Colombo yesterday, have been released on bail.
+
+They were ordered released on personal bonds of Rs. 500,000 each by the Colombo Magistrate’s Court when they were produced before the court today (07).
+
+The IUSF convenor and another student activist were arrested by police during the protest march staged by a large number of university students in Colombo yesterday, which was subsequently met with water cannons fired by the police.
+
+◼️
+
+[Data](articles/0ff08bec.json)
+
+---
+
+### කජිමාවත්තේ නිවාස අහිමි පවුල් ගැන ජනපතිගෙන් නියෝගයක්
+
+*2024-03-07 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194252) · `si`
+
+කොළඹ කජිමාවත්තේ පදිංචි, නිවාස අහිමි සියලු පවුල් සඳහා කඩිනමින් නිවාස ලබාදීමට අවශ්‍ය කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+නිවාස ලබාදීමේ රජයේ ප්‍රතිපත්ති හා නිර්ණායකයන්ට අනුකූලව එම කටයුතු සිදු කරන ලෙසද ජනාධිපතිවරයා දැනුම් දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම උපදෙස් ලබා දුන්නේ කොළඹ කජීමා වත්ත නිවාස ගැටලුව පිළිබඳ ඊයේ (06) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවට එක්වෙමිනි.
+
+කොළඹ නාගරික බල ප්‍රදේශය තුළ පවතින ඌන උපයෝජිත රජය සතු ගොඩනැගිලි සහ ඉඩම් පිළිබඳව සොයා බලා එම ඉඩම් වාණිජ කටයුතු සඳහා සංවර්ධනය කර ලබාදීමට ඇති හැකියාව සොයා බලන ලෙස ද ජනාධිපතිවරයා මෙහිදී නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+එම වැඩපිළිවෙළ රාජ්‍ය අංශයේ මැදිහත්වීමෙන් පෞද්ගලික ආයෝජන මගින් ක්‍රියාවට නැංවීමේ වැදගත්කම ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/d1050f74.json)
+
+---
 
 ### CEB to introduce instalment payments for new electricity connections
 
@@ -46,17 +170,41 @@ The Ceylon Electricity Board (CEB) is currently working on introducing this faci
 
 [Data](articles/93f0091e.json)
 
+[Extended Data](ext_articles/93f0091e.ext.json)
+
 ---
 
-### කෝප් සභාපතිකම රෝහිතට
+### අන්තරේ කැඳවුම්කරුට ඇප
+
+*2024-03-07 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194251) · `si`
+
+අන්තර්විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත් ඇපමත මුදාහැර තිබේ.
+
+ඊයේ බොරැල්ලේදී පැවති විරෝධතාවක් අතරතුරදී අන්තර්විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත් පොලීසිය විසින් අත්අඩංගුවට ගත්තේය.
+
+ඔහු සහ ඊයේ විරෝධතාව අතරතුරදී අත්අඩංගුවට ගනු ලැබූ තවත් අයෙකු අද අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ලක්ෂ 5 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/2c5a5182.json)
+
+---
+
+### Rohitha
 
 *2024-03-07 15:19:06* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-සභාපතිකම-රෝහිතට/11-408477) · `si`
 
-මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ (කෝප් කමිටුව) සභාපති ධුරයට පත් කර ඇත. සාමාජික මන්ත්‍රීවරුන්ගේ වැඩි ඡන්දයෙන් ඔහු එම තනතුරට පත්ව තිබේ. රාජ්‍ය ආයතන වල පවතින අක්‍රමිකතා රැසක් ආණාවරණය කර ගන්නා ප්‍රධානම කාරක සභාවක් වන්නේ කෝප් කමිටුවයි.
+Mr. Rohitha Abeygunawardena, appointed Chairman of the Parliamentary Select Committee on Public Business, leads the COPE committee investigating government irregularities.
+
+🟩
+
+Mr. Rohitha Abeygunawardena has been appointed as the Chairman of the Parliamentary Select Committee of the Public Business. He has been appointed to the post with a majority of member MPs. The COPE committee is one of the main committees of a number of irregularities in government institutions.
 
 ◼️
 
 [Data](articles/9cebe629.json)
+
+[Extended Data](ext_articles/9cebe629.ext.json)
 
 ---
 
@@ -242,11 +390,13 @@ Meanwhile, MPs Tissa Attanayake, Kabir Hashim, Niroshan Perera, J. C. Alawathuwa
 
 *2024-03-07 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97793/lasantha-and-rohitha-elected-as-copa-cope-chairmen) · `en`
 
-State Minister Lasantha Alagiyawanna has been elected as the new chairman of the Committee on Public Accounts (COPA).
+State Minister Lasantha Alagiyawanna has been elected as the chairman of the Committee on Public Accounts (COPA).
 
-MPs Tissa Attanayake, Kabir Hashim, Niroshan Perera, J. C. Alawathuwala, Ashok Abeysinghe, Sivagnanam Shritharan, Hector Appuhamy, M. Udayakumar, Weerasumana Weerasinghe, Dr. Harini Amarasuriya have been nominated to serve in the committee.
+Meanwhile, SLPP MP Rohitha Abeygunawardena has been elected the chairman of the Committee on Public Enterprises (COPE).
 
-Meanwhile, MP Rohitha Abeygunawardena has been elected the chairman of the Committee on Public Enterprises (COPE).
+New MPs nominated to the COPA are as Tissa Attanayake, Kabir Hashim, Niroshan Perera, J. C. Alawathuwala, Ashok Abeysinghe, Sivagnanam Shritharan, Hector Appuhamy, M. Udayakumar, Weerasumana Weerasinghe, Dr. Harini Amarasuriya.
+
+Meanwhile, MPs Anura Dissanayaka, Rauff Hakeem, Dilan Perera, Dayasiri Jayasekara, Eran Wickramaratne, Nalin Bandara Jayamaha, S. M. Marikkar, Hesha Withanage, Shanakiyan Rajaputhiran Rasamanickam, Gamini Waleboda, Prof. Charitha Herath have been nominated to serve in the COPE.
 
 ◼️
 
@@ -256,21 +406,27 @@ Meanwhile, MP Rohitha Abeygunawardena has been elected the chairman of the Commi
 
 ---
 
-### කජිමාවත්තට අළුත් හෙවනක්
+### New heavins to Kajimawatta
 
 *2024-03-07 14:21:44* · [`adalk`](https://www.ada.lk/breaking_news/කජිමාවත්තට-අළුත්-හෙවනක්/11-408476) · `si`
 
-කොළඹ කජිමාවත්තේ පදිංචි, නිවාස අහිමි සියලු පවුල් සඳහා කඩිනමින් නිවාස ලබාදීමට අවශ්‍ය කටයුතු සිදු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබාදී ඇත.
+President Ranil Wickremesinghe directs officials to immediately address homelessness in Colombo, aligning with government policies. Officials explore Urban Power and Lands for solutions, emphasizing private investment.
 
-නිවාස ලබාදීමේ රජයේ ප්‍රතිපත්ති හා නිර්ණායකයන්ට අනුකූලව එම කටයුතු සිදු කරන ලෙසද ජනාධිපතිවරයා දැනුම් දුන්නේය.
+🟩
 
-කොළඹ නාගරික බල ප්‍රදේශය තුළ පවතින ඌන උපයෝජිත රජය සතු ගොඩනැගිලි සහ ඉඩම් පිළිබඳව සොයා බලා එම ඉඩම් වාණිජ කටයුතු සඳහා සංවර්ධනය කර ලබාදීමට ඇති හැකියාව සොයා බලන ලෙස ද නිලධාරීන්ට උපදෙස් දී  ඇත.
+President Ranil Wickremesinghe has instructed the relevant officials to provide the necessary activities to provide immediate houses for all homeless families in Colombo, Colombo.
 
-මෙම ක්‍රියාදාමය රාජ්‍ය අංශයේ මැදිහත්වීමෙන් පෞද්ගලික ආයෝජන මගින් ක්‍රියාවට නැංවීමේ වැදගත්කම ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+The President also informed the government to carry out these activities in accordance with the government policies and policies of the houses.
+
+The officials have also advised the officials to look into the possibilities of the Urban Power and Lands in the Colombo Municipal Council.
+
+The President also pointed out the importance of implementing the implementation by private investment through private investment.
 
 ◼️
 
 [Data](articles/31b6bb49.json)
+
+[Extended Data](ext_articles/31b6bb49.ext.json)
 
 ---
 
@@ -2095,213 +2251,5 @@ The Minister of Finance Shehan Semasinghe said that the review was scheduled to 
 [Data](articles/d70f7138.json)
 
 [Extended Data](ext_articles/d70f7138.ext.json)
-
----
-
-### Dry weather prevails over the island: Met Dept
-
-*2024-03-07 06:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-prevails-over-the-island-Met-Dept/108-278396) · `en`
-
-Colombo, March 7 (Daily Mirror) - The forecasting division of the National Meteorological Centre said that except for a few showers in the Ratnapura, Galle and Matara districts in the evening or night, mainly dry weather will prevail over the island.
-
-However, misty conditions can be expected at some places in the Western and Sabaragamuwa Provinces and in the Galle and Matara districts during the morning.
-
-Mainly, fair weather will prevail in sea areas around the island.
-
-The winds will be easterly or north-easterly in the sea areas off the coast extending from Mannar to Matara via Kankesanthurai, Trincomalee, Pottuvil and Hambantota, and the winds will be variable in direction in the other sea areas around the island.
-
-◼️
-
-[Data](articles/eb8c0309.json)
-
-[Extended Data](ext_articles/eb8c0309.ext.json)
-
----
-
-### Hot weather no longer - keep close
-
-*2024-03-07 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194224) · `si`
-
-The Meteorology Department has issued a warning for hot weather in the North Western and Southern provinces, and Colombo-Ratnapura and Mannar districts. People are advised to be aware of the human body's heat index. Dry weather is expected in Ratnapura, Galle, and Matara districts. Meteorological stations are set up in Western and Sabaragamuwa provinces, and in parts of Galle and Matara districts.
-
-🟩
-
-An inquirying of warm weather conditions has been issued for the North Western and Southern provinces and the Colombo-Ratnapura and Mannar districts.
-
-Accordingly, the Meteorology Department is informed of the people of the Meteorological Department to be aware of the hot index of the human body today.
-
-In the Ratnapura, Galle and Matara districts, there is a mainly dry weather throughout the country.
-
-The Department of Meteorology announces a stations in the Western and Sabaragamuwa provinces and in some places in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/189ec5e9.json)
-
-[Extended Data](ext_articles/189ec5e9.ext.json)
-
----
-
-### NSB Sthree celebrates International Women’s Day 2024 with a special offering
-
-*2024-03-07 06:20:00* · [`islandlk`](http://island.lk/nsb-sthree-celebrates-international-womens-day-2024-with-a-special-offering/) · `en`
-
-As the world celebrates International Women’s Day 2024 under the theme “Invest in Women: Accelerate Progress,” NSB (National Savings Bank) reaffirms its commitment to empowering women and advancing gender equality through financial inclusion and economic empowerment initiatives.
-
-This year’s theme underscores the critical importance of investing in women’s education, health, economic opportunities, and leadership roles to accelerate progress towards a more inclusive and equitable society.
-
-NSB acknowledges the significance of women taking control of their income and actively seeking new avenues for economic empowerment. Financial control empowers women to make informed decisions about their finances, secure their future, and contribute to the economic well-being of their families and communities.
-
-...
-
-[Data](articles/8cfbc6ab.json)
-
-[Extended Data](ext_articles/8cfbc6ab.ext.json)
-
----
-
-### Two Sri Lankans in the vessel was attacked by Huthothi
-
-*2024-03-07 05:38:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clkmv8kgggjo) · `si`
-
-Two Sri Lankans on a vessel attacked by Houthi in the Red Sea. US reports three killed, first attack on merchants. Ship, with Barbados flag, abandoned and burning. US Army confirms attack at 11:30 am local time. Houthi claims targeting Palestinians in Gaza. US Central Command reports three killed, three injured. Iran criticizes ship's staff for ignoring warnings. British embassy in Yemen condemns attacks, calling them inevitable consequence of missile strikes on international ships.
-
-🟩
-
-US authorities say that three staff members of an missile strike was killed in the area near the South Yemen.
-
-This was the first time the attacks on mercels at the Red Sea was the first time.
-
-The ship with the Barbados flag, with the Babadades Flag, was abandoned after the attack and was floating in the sea with a fire.
-
-The US Army said that the ship was attacked at around 11.30 am at the Greenach time.
-
-Hoout says he is attacking Palestinians in the war between Israel and Hamas in Gaza.
-
-The US Central Command (US Central Command) to monitor the Middle East operations (CENTCOM) said that three shipped staff members were killed.
-
-The United States Central command stated that the US central command states that three others were injured and three others were injured.
-
-"Such commercial attacks by hooo, the global sailors of the global sailors have been sabotaged and the lives of the international maritime have posted the US central command in their social media accounts.
-
-...
-
-[Data](articles/a2073567.json)
-
-[Extended Data](ext_articles/a2073567.ext.json)
-
----
-
-### Posts Department aims Rs.21bn revenue for 2024
-
-*2024-03-07 04:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Posts-Department-aims-Rs-21bn-revenue-for-2024/108-278387) · `en`
-
-Sri Lanka’s Posts Department said it is hoping to record a revenue of Rs.21 billion for 2024 and operate as a self-sustaining institution that is independent of Treasury funds.
-
-Elaborating on the department’s new outlook as a business service provider from a public service provider, Postmaster General Ruwan Sathkumara said that the department has initiated strategic collaborations with the private sector, in order to bridge the revenue gap and reach breakeven.
-
-The department secured an agreement with global logistics and package delivery company United Parcel Service, Sathkumara said.
-
-He shared the information on the sidelines of the commemorative stamp launch for Hatton National Bank’s 135th anniversary, which also saw the Posts Department’s first-ever issuance of a first day cover stamp to a private bank.
-
-Speaking to Mirror Business, Sathkumara emphasised that the department has the potential to capitalise on strategic partnerships, innovative services and public awareness.
-
-...
-
-[Data](articles/245d3e9e.json)
-
-[Extended Data](ext_articles/245d3e9e.ext.json)
-
----
-
-### Siyambalapitiya stresses Parliamentary authority on Central Bank salaries
-
-*2024-03-07 03:28:52* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-stresses-Parliamentary-authority-on-Central-Bank-salaries/56-759258) · `en`
-
-Calls for comprehensive reports from CoPF before presenting recommendations to Parliament
-
-Says aim to generate additional Rs. 14 b via Social Security Tax, opening 8,000 more tax files
-
-Assures to boost tax revenue, reform policies, gradually increase tax files while stabilising the economy
-
-Pledges to address concerns over parate law with swift action for implementation
-
-State Minister of Finance Ranjith Siyambalapitiya yesterday outlined the importance of Parliamentary authority in decisions concerning the increase of Central Bank employee salaries, insisting on the principles of social equity.
-
-Speaking in Parliament during the debate on amendments related to Social Security Tax and Value Added Tax, he stressed the need for comprehensive reports from the Committee on Public Finance (CoPF), incorporating diverse perspectives, before presenting recommendations to the Parliament.
-
-...
-
-[Data](articles/930306d2.json)
-
-[Extended Data](ext_articles/930306d2.ext.json)
-
----
-
-### Govt.’s select fuel price reduction a ‘gimmick’: Ex-PUCSL Chief
-
-*2024-03-07 03:26:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-s-select-fuel-price-reduction-a-gimmick-Ex-PUCSL-Chief/56-759257) · `en`
-
-Says move misleads public, prices could be slashed by up to Rs. 200
-
-Questions accuracy of fuel prices published via Minister’s social media, allege both incorrect prices and formula
-
-Highlights people’s rights, calls civil organisations to demand better policies
-
-Former Public Utilities Commission of Sri Lanka (PUCSL) Commissioner Janaka Ratnayake criticised the recent select fuel price revision by the Government, labelling it as a mere gimmick aimed at misleading the public. Speaking to the media, Ratnayake expressed that the reduction of Rs. 9 and Rs. 10 respectively for Lanka Super Diesel 4 Star Euro 4 and Lanka Petrol 95 Octane Euro 4 was insufficient and misleading the people.
-
-Ratnayake said that back in 2022, he had indicated that fuel prices could be slashed by up to Rs. 200.
-
-...
-
-[Data](articles/8caf09d6.json)
-
-[Extended Data](ext_articles/8caf09d6.ext.json)
-
----
-
-### Salary hike exaggerated to erode independence: Dr. Weerasinghe
-
-*2024-03-07 03:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Salary-hike-exaggerated-to-erode-independence-Dr-Weerasinghe/155-278392) · `en`
-
-Cautions that undermining independence could take SL back to troubled state
-
-The recent uproar over the Central Bank’s salary increases has caught widespread attention and according to Governor Dr. Nandalal Weerasinghe, this controversy is a deliberate attempt to undermine the institution’s autonomy.
-
-He cautioned that exaggerating the salary increases to undermine the financial sector regulator’s independence could severely impact the economy, potentially regressing it to its troubled state just a few years ago.
-
-“Our need for the Central Bank independence in setting wages and salaries for the staff is quite important to avoid undue influence from the fiscal authorities. That was the issue earlier.
-
-The salary issue we can talk temperately if it is immoral or unethical. That we can discuss separately. But using this issue to oppose the Central Bank or compromise the independence by changing law is a major risk,” he added.
-
-...
-
-[Data](articles/6cb5f5d8.json)
-
-[Extended Data](ext_articles/6cb5f5d8.ext.json)
-
----
-
-### Model Development Programs
-
-*2024-03-07 02:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-வேலைத்திட்டங்கள்-ஆரம்பித்துள்ளன/175-334312) · `ta`
-
-The government has initiated crucial development programs, with support from India, China, and Western countries. Arundika Fernando, Urban Development and Housing Minister, announced that due to the economic crisis, no development plans were implemented previously. However, with the economy recovering, development work has started, including a project to build 2000 houses in Colombo with Chinese assistance.
-
-🟩
-
-The government has now launched the most essential development programs. Urban Development and Housing Minister Arundika Fernando said India, China and many other Western countries have come forward for investment in this country.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Due to the economic crisis, no development plans have been implemented in the past. But now that the economy returns to some strong situation, the necessary development work has begun.
-
-The plan to build 2000 houses under Chinese assistance in Colombo and its adjoining areas will be launched. He also said that it is also planned to provide licenses to residents of the stairs. (A)
-
-◼️
-
-[Data](articles/a16d1a7e.json)
-
-[Extended Data](ext_articles/a16d1a7e.ext.json)
 
 ---

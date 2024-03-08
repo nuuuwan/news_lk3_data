@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 13:53:04**
+As of **2024-03-08 14:04:28**
 
 ## Newspaper Stats
 
-*Scraped **11,673** Articles*
+*Scraped **11,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,117 @@ islandlk | 627
 adalk | 990
 tamilmirrorlk | 1,413
 adaderanalk | 1,418
-virakesarilk | 1,606
+virakesarilk | 1,607
 dailymirrorlk | 1,779
-adaderanasinhalalk | 1,831
+adaderanasinhalalk | 1,832
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,671 (100.0%) of 11,673 articles have been extended.
+11,673 (100.0%) of 11,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### කාන්තා දිනය වෙනුවෙන් ජනපතිගෙන් පනත් කෙටුම්පත් දෙකක්
+### පොලීසියේ වෙනසක් කළ ලීලා ගුණරත්න
+
+*2024-03-08 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194290) · `si`
+
+ජාත්‍යන්තර කාන්තා දිනය වන අද, සුවිශේෂී කාන්තාවක් පිළිබඳව අද දෙරණට වාර්තා වුණි.
+
+ඇය ශ්‍රී ලංකා කාන්තා පොලිස් පළමු කණ්ඩායමේ සාමාජිකාවක වූ පොලිස් කොස්තාපල්වරියක වූ ලීලා ගුණරත්න මහත්මියයි.
+
+1866දී පිරිමි නිලධාරීන්ගෙන් ආරම්භ වූ ශ්‍රී ලංකා පොලීසියට කාන්තා නිලධාරිනියන්ගේ අවශ්‍යතාව දැනෙන්නේ දශක අටක් පමණ ඉක්ම ගිය පසුවය.
+
+ඒ අනුව 1953දී කාන්තා පොලිස් නිලධාරිනියන් පොලිස් සේවයට අවශ්‍යද යන්න අත්හදා බැලීමට නිලධාරිනියන් සිව් දෙනෙකු බඳවා ගැනුණි.
+
+එහි සාර්ථකත්වයත් සමගම කාන්තා පොලිස් කොස්තාපල්වරියන් බඳවා ගැනීම ඇරඹුණු මුල් කාලයේදීම සේවයට එක්වූ පොලිස් කොස්තාපල්වරියක් මේ වනවිට වේයන්ගොඩ තල්ගස්මොටේ ගම්මානයේ සිය සැඳෑ සමය ගෙවමින් සිටින්නීය.
+
+1935 වසරේ උපත ලැබූ ලීලා ගුණරත්න මහත්මිය සහෝදර සහෝදරියන් පස් දෙනෙකුගෙන් යුත් පවුලක දියණියකි.
+
+වේයන්ගොඩ ශාන්ත මරියා විද්‍යාලයෙන් අධ්‍යාපනය ලැබූ ඇය ශ්‍රී ලංකා පොලීසියේ පළමු දැල්පන්දු කණ්ඩායමේ සාමාජිකාවකද වූවාය.
+
+එහි කෙටි කලක් සේවය කළ පසු ඇය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඇඟිලි සලකුණු අංශයේ රාජකාරි කළාය.
+
+...
+
+[Data](articles/d53c296c.json)
+
+---
+
+### 249 பேருடன் பறந்த விமானத்திலிருந்து கழன்று வீழ்ந்த சக்கரம்: அமெரிக்காவில் சம்பவம்
+
+*2024-03-08 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178249) · `ta`
+
+பறந்துகொண்டிருந்த சர்வதேச விமானத்தின் சக்கரமொன்று கழன்று வீழ்ந்த சம்பவம் அமெரிக்காவில் நேற்று இடம்பெற்றுள்ளது.
+
+சான்பிரான்சிஸ்கோ சர்வதேச விமானநிலையத்திலிருந்து ஜப்பானை நோக்கி புறப்பட்ட யுனைடெட் எயார்லைன்ஸ் விமானமொன்றிலிருந்தே இவ்வாறு சக்கரம் கழன்றது.
+
+போயிங் 777 ரகத்தைச் சேர்ந்த அவ்விமானம் தரையிலிருந்து கிளம்பிய நிலையில் அதன் சக்கரமொன்று கழன்று, விமான நிலையத்தின் வாகனத் தரப்பிடப் பகுதியில் வீழ்ந்தது.
+
+ஜப்பானின் ஒசாக்கா நகரை நோக்கி புறப்பட்ட அவ்விமானத்தில்  249 பேர் இருந்தனர் என யுனைடெட் எயார்லைன்ஸ் நிறுவனம் தெரிவித்துள்ளது.
+
+போயிங் 777 விமானத்தின் ஒவ்வொரு சக்கரத் தொகுதியிலும் 6 சக்கரங்கள் இருப்பதாகவும், ஏதேனும் ஒரு சக்கரம் சேதமடைந்தால் அல்லது தொலைந்தாலும் விமானம் பாதுகாப்பாக தரையிறங்கக் கூடிய வகையில் அவ்விமானம் வடிவமைக்கப்பட்டுள்ளதாகவும் யுனைடெட் எயார்லைன்ஸ் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/bf167730.json)
+
+---
+
+### May the light of the Sri Lankan people light light on the lives of the people of Sri Lanka - President
+
+*2024-03-08 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178242) · `ta`
+
+President Ranil Wickremesinghe congratulated the Sri Lankan people on Maha Shivaratri, highlighting the Hindu prayer's impact on spreading wisdom and eliminating suffering. The government's efforts to alleviate the economic crisis have been successful, aiming for the prosperity of all Sri Lankans. Emphasizing unity and the elimination of arrogance, the nation looks forward to a peaceful and prosperous future.
+
+🟩
+
+President Ranil Wickremesinghe said in his congratulations that the light of the Hindu people on Maha Shivaratri Day will be light in the lives of the entire Sri Lankan people.
+
+The prayer of Lord Shiva remembered by Hindu devotees around the world to release all lives from suffering.
+
+Hindu devotees around the world are praying to spread the wisdom to help eliminate the Mamat and the arrogance of human beings.
+
+In the last two years, the government has been very committed to rescue the people affected by the unprecedented economic crisis.
+
+Today's initiatives have been successful with the expectation of prosperity of the people of Sri Lanka as a whole.
+
+To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all should unite as a nation without Mamadi and arrogance and advance the plan for the future of the country.
+
+◼️
+
+[Data](articles/6d753978.json)
+
+[Extended Data](ext_articles/6d753978.ext.json)
+
+---
+
+### President pays two bills for Women's Day
 
 *2024-03-08 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194289) · `si`
 
-මෙරට කාන්තාවන්ගේ අභිවෘද්ධිය වෙනුවෙන් නව පනත් කෙටුම්පත් දෙකක් එළඹෙන මැයි මාසයේදී පාර්ලිමේන්තුවට ගෙන එන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced two bills for women's empowerment and gender equality in Sri Lanka, aiming to improve women's rights.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ කාන්තා දින සැමරුම් ජාතික උත්සවයට අද (08) එක්වෙමිනි.
+🟩
 
-"කාන්තාවන් සවිබල ගැන්වීමේ පනත සහ ස්ත්‍රී පුරුෂ සමාජභාවය සහ සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත. වැදගත් කෙටුම්පත් දෙකක්."
+President Ranil Wickremesinghe says that two new bills will be brought to parliament in May for the betterment of women in Sri Lanka.
 
-මෙවර එහි ජාත්‍යන්තර තේමාව වන්නේ " කාන්තාවන් සඳහා ආයෝජන කරන්න - ප්‍රගතිය වේගවත් කරන්න " යන්නය.
+The President was speaking at the Women's Day's Day Day Celebrations today (08).
 
-ජාත්‍යන්තර කාන්තා දිනය වෙනුවෙන් සංවිධානය කෙරුණු මෙරට ජාතික උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල වෝටර්ස් ඒජ් හිදී අද පැවැත්වුණි.
+"The Bill of Empowerment Act and Gender and Equality Bill of Gender and Equality. Two important drafts. "
+
+This year its international theme is to "invest in women - speed up the progress".
+
+President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe in the country, organized for the International Women's Day.
 
 ◼️
 
 [Data](articles/03f2fb74.json)
+
+[Extended Data](ext_articles/03f2fb74.ext.json)
 
 ---
 
@@ -98,34 +178,6 @@ Meanwhile, the problem of drinking water in Nalladhani area due to the prevailin
 
 ---
 
-### May the light of the Sri Lankan people light light on the lives of the people of Sri Lanka - President
-
-*2024-03-08 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178242) · `ta`
-
-President Ranil Wickremesinghe congratulated the Sri Lankan people on Maha Shivaratri, highlighting the Hindu prayer's impact on spreading wisdom and eliminating suffering. The government's efforts to alleviate the economic crisis have been successful, aiming for the prosperity of all Sri Lankans. Emphasizing unity and the elimination of arrogance, the nation looks forward to a peaceful and prosperous future.
-
-🟩
-
-President Ranil Wickremesinghe said in his congratulations that the light of the Hindu people on Maha Shivaratri Day will be light in the lives of the entire Sri Lankan people.
-
-The prayer of Lord Shiva remembered by Hindu devotees around the world to release all lives from suffering.
-
-Hindu devotees around the world are praying to spread the wisdom to help eliminate the Mamat and the arrogance of human beings.
-
-In the last two years, the government has been very committed to rescue the people affected by the unprecedented economic crisis.
-
-Today's initiatives have been successful with the expectation of prosperity of the people of Sri Lanka as a whole.
-
-To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all should unite as a nation without Mamadi and arrogance and advance the plan for the future of the country.
-
-◼️
-
-[Data](articles/6d753978.json)
-
-[Extended Data](ext_articles/6d753978.ext.json)
-
----
-
 ### Murugan asks for the opportunity to go to England
 
 *2024-03-08 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194288) · `si`
@@ -154,25 +206,35 @@ In 2006, Mahaha went to England and joined his father's family and shedding medi
 
 ---
 
-### පාලවියෙ විහාරස්ථානයක හිමිවරු දෙනමකට අමානුෂිකව පහරදීලා
+### Initly assaulted by the owners of the Palavi temple
 
 *2024-03-08 12:14:09* · [`adalk`](https://www.ada.lk/breaking_news/පාලවියෙ-විහාරස්ථානයක-හිමිවරු-දෙනමකට-අමානුෂිකව-පහරදීලා/11-408493) · `si`
 
-පුත්තලම පාලවිය බෞද්ධ සංස්කෘතික මධ්‍යස්ථානයෙ ආරම්භයෙ සිට වැඩ වාසය කල හිමිනමකට හා තවත් හිමිනමකට අමානුෂිකව දායක සභාවේ පිරිසක් විසින් පහර දීමේන් බරපතල තුවාල හා අස්ථි බිදිමකට ලක්ව පුත්තලම මූලික රෝහලට ඇතුලත් කර ඇති බව පුත්තලම මුලස්ථාන පොලිසිය කියයි.
+The LTTE was admitted to Puttalam Base Hospital with serious injuries after being assaulted by the owners of the Palavi temple and another monk. The victims were also beaten by the owners of Walakana and Walapana. The Palvana Buddhist Cultural Center has been in operation for a year, with ongoing disputes between groups. Six individuals were arrested by the Heathena Police for the attack, with further investigations led by OIC Sub Inspector Jeevan Kumara.
 
-මෙසේ පහර කෑමට ලක්ව ඇත්තේ වලපනෙ අස්ථ දස්සි හා අරඹගෙ අරියධම්ම සුගතපාල යන හිමිවරු දෙනමක් බව කියයි.
+🟩
 
-මෙම පාලවිය බෞද්ධ සංස්කෘතිත මධ්‍යස්ථානය වසරකට පෙර ආරම්භ කර ඇති අතර එහි ආරම්භයෙ සිට දරුණු පහර කැමට මෙම වලපනේ අත්තදස්සී හිමියන් රැදි සිට ඇති බව කියයි.
+The LTTE has been admitted to the Puttalam Base Hospital with serious injuries and bones in the face of the work of the Puttalam Palace and another monk.
 
-දායක සභාවේ පිරිසක් අතර දිගින් දිගටම ඇතිව තිබු ආරවුලක් මත මෙම අමානුෂීක පහර දීම් සිදුව ඇති බව කියයි.
+The victims were beaten by the owners of Walakana boundaries and the owners of Walapana
 
-මෙම ආරවුල හේතුවෙන් පසුගිය දිනවල මෙම හිමියන්ගේ හම්බන්තොට ගොස් නැවත විහාරස්ථානයට පැමිනි අවස්ථාවේදි එම හිමියන් රැදි සිටි ගොඩනැගිල්ලේ දොර අගුලු කඩා උන් වහන්සේට අයත් දෑ සොරකම් කර තිබු බව කියයි.
+The Palvana Buddhist Cultural Center has commenced a year ago and there are the Higher who will be raised from the start of itself.
 
-ඉන් පසුව ඒ බව පුත්තලම මුලස්ථාන පොලිසියට ගොස් පැමිනිලි කර ආපසු නැවත මෙම විහාරස්ථානයට පැමින සිටියදී කඩා වැදුන දායක සභාවේ පියකු හා පුතෙකු ඇතුළු පිරිසක් එක්වි ඉතා අමානුෂීක පහර දී සිවුරු ගලවා දමා ඇති බව කියයි.
+The Athroka assaulted assaulces have been reported on a continuous dispute between a group of people.
+
+The owners of the ownership went back to the Viharaya and came back to the temple due to the dispute due to the dispute and returned to the temple.
+
+It is then that the father and a son and a son who broke back to the Puttalam Viharaya have come to the attack and back to this temple.
+
+Later, the monks who ran to escape the attack from the temple and were attacked by the Athroshaka Aki.
+
+The assaults were then attacked the Puttalam Headquarters and the inhumane, the inhumane, who had broken up to the temple.
 
 ...
 
 [Data](articles/ed3c0920.json)
+
+[Extended Data](ext_articles/ed3c0920.ext.json)
 
 ---
 
@@ -2187,41 +2249,5 @@ Canadian authorities have not confirmed the identities of the deceased, their ag
 [Data](articles/539be796.json)
 
 [Extended Data](ext_articles/539be796.ext.json)
-
----
-
-### A Sri Lankan who served on a ship attacked by Houthis hurts
-
-*2024-03-07 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178210) · `ta`
-
-Two Sri Lankans rescued from a ship attacked by Houthis in the Gulf of Aden. One injured.
-
-🟩
-
-The Sri Lankan navy reports that two Sri Lankans are among the 21 employees rescued by the Indian warship, the Indian warship ship from the freight vessel, which was launched by Houthi insurgents in the Gulf of Aden.
-
-Navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sri Lankan citizens was injured in the attack.
-
-◼️
-
-[Data](articles/271a625f.json)
-
-[Extended Data](ext_articles/271a625f.ext.json)
-
----
-
-### IMF program is exhibiting promising signs of efficacy – IMF Mission Chief for Sri Lanka
-
-*2024-03-07 22:26:00* · [`islandlk`](http://island.lk/imf-program-is-exhibiting-promising-signs-of-efficacy-imf-mission-chief-for-sri-lanka/) · `en`
-
-During the meeting between President Ranil Wickremesinghe and the IMF team at the Finance Ministry today (07), Peter Breuer, the Senior Mission Chief for Sri Lanka, delivered encouraging remarks. Breuer emphasized that the IMF program is exhibiting promising signs of efficacy, translating into tangible outcomes. He commended the authorities for their unwavering commitment to the program’s implementation, noting that such dedication is instrumental in driving positive change.
-
-Mr. Breuer further expressed his satisfaction at witnessing the economy starting to turn around, underscoring the significance of this progress. This statement resonated with both President Wickremesinghe and the IMF team, highlighting the collective efforts and collaboration that have contributed to Sri Lanka’s economic recovery.
-
-...
-
-[Data](articles/50ce97bd.json)
-
-[Extended Data](ext_articles/50ce97bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 09:33:23**
+As of **2024-03-08 09:51:58**
 
 ## Newspaper Stats
 
-*Scraped **11,630** Articles*
+*Scraped **11,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,129 @@ economynextcom | 605
 dailyftlk | 617
 islandlk | 627
 adalk | 984
-adaderanalk | 1,411
+adaderanalk | 1,412
 tamilmirrorlk | 1,413
 virakesarilk | 1,596
-dailymirrorlk | 1,770
-adaderanasinhalalk | 1,824
+dailymirrorlk | 1,772
+adaderanasinhalalk | 1,825
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,628 (100.0%) of 11,630 articles have been extended.
+11,630 (100.0%) of 11,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### கனடாவில் கொலை செய்யப்பட்ட இலங்கை குடும்பம் அடையாளம் ; சந்தேகநபர் கைது
+### මත්ද්‍රව්‍ය අඩංගු පොලිතීන් කැබැල්ලක් ස්වරාලයේ සිරවීමෙන් සැකකරුවෙකු මරුට
+
+*2024-03-08 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194282) · `si`
+
+පොලිස් වැටලීමකදී පළාගිය සැකකරුවෙක් බිම ඇදවැටී සිහිසුන්වී ඇති අතර රෝහල්ගත කිරීමෙන් පසු ඔහු මියගොස් ඇති බව හෙළිවී තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය ඊයේ හලාවත රෝහලේදී සිදුකර ඇත.
+
+එහිදී, මත්ද්‍රව්‍ය අඩංගු පොලිතීන් කවර කැබැල්ලක් ස්වරාලයේ සිරවීම හේතුවෙන් හුස්ම ගැනීමට නොහැකිවීමෙන් සිදුවූ මරණයක් බවට හලාවත රෝහලේ විශේෂඥ අධිකරණ ද්‍යෛ නිලධරියා විසින් පශ්චාත් මරණ පරීක්ෂණ වාර්තාව නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/58918937.json)
+
+---
+
+### Gaza ceasefire talks show no sign of progress, US says onus on Hamas
+
+*2024-03-08 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97812/gaza-ceasefire-talks-show-no-sign-of-progress-us-says-onus-on-hamas) · `en`
+
+Hamas on Thursday left Gaza ceasefire talks in Cairo where there was no sign of progress just days before the start of Ramadan, while the U.S. said the onus was on the Palestinian militant group to strike a deal on Israeli hostages.
+
+Israel and Hamas blamed each other for the lack of agreement after four days of talks mediated by Qatar and Egypt about a 40-day ceasefire amid fears violence could escalate during the Muslim fasting month.
+
+Egyptian security sources said talks, taking place without an Israeli delegation in Cairo, would resume on Sunday, the expected start of Ramadan.
+
+Senior U.S. administration officials said the onus was on Hamas to complete a hostage deal and attributed the delay to what they described as Hamas so far not agreeing to release sick and elderly hostages.
+
+A Hamas official told Reuters the United States was in partnership with Israel and that such comments were misleading. Hamas has insisted that a ceasefire deal include a process toward ending the war altogether.
+
+...
+
+[Data](articles/bd8c9f11.json)
+
+---
+
+### Vets dispute Pramitha Bandara’s stray dog population claim over data accuracy
+
+*2024-03-08 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vets-dispute-Pramitha-Bandaras-stray-dog-population-claim-over-data-accuracy/108-278461) · `en`
+
+Colombo, March 8 (Daily Mirror) - The declaration by Defence State Minister Pramitha Bandara Tennakoon in Parliament yesterday regarding the population of stray dogs in the country is without foundation and it is asserted that the State Minister issued this statement without possessing accurate data on the subject, advisor to the Association of Veterinarians for Humane Management of Animal Population,  Dr. Chamith Nanayakkara said.
+
+The State Minister said that some 6.2 million stray dogs are roaming in different parts of the country and that this situation has caused serious issues in tourist areas such as Sigiriya.
+
+He mentioned that previously, inaccurate statements had been circulated about the monkey population in the country, citing incorrect figures and contributing to a false perception within the community that there are three million monkeys in the country.
+
+...
+
+[Data](articles/2f182325.json)
+
+---
+
+### Ramya Vanigasekara passess away
+
+*2024-03-08 09:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ramya-Vanigasekara-passess-away/108-278464) · `en`
+
+Veteran actress, journalist and radio news anchor Ms. Ramya Vanigasekara has passed away at the age of  73 years old.
+
+◼️
+
+[Data](articles/d44179a4.json)
+
+---
+
+### Sri Lankan family identified in Canada;Arrests
 
 *2024-03-08 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178220) · `ta`
 
-கனடாவின் தலைநகர்  ஒட்டாவாவில் படுகொலை செய்யப்பட்ட  ஒரே குடும்பத்தைச் சேர்ந்த ஆறு இலங்கையர்களும் அடையாளம் காணப்பட்டுள்ளார்கள்.
+Six Sri Lankans, including five children under seven, were murdered in Ottawa, Canada. The suspect is a 19-year-old Sri Lankan educated in Canada.
 
-இவர்கள்  தெற்கு ஒட்டாவாவிலுள்ள  பார்ஹேவன் புறநகரில் புதன்கிழமை வீடொன்றில் வைத்து கூரிய ஆயுதத்தால் தாக்கி கொல்லப்பட்டுள்ளனர்.
+🟩
 
-சம்பவத்தில் தாய் மற்றும் அவரது நான்கு பிள்ளைகள் மற்றும் வீட்டில் வசித்து வந்த 40 வயதுடைய ஆண் ஒருவரும் உயிரிழந்துள்ளார்கள்.
+Six Sri Lankans have been identified from the same family who have been assassinated in the capital of Canada, Ottawa.
 
-உயிரிழந்த நான்கு குழந்தைகளும் ஏழு வயதுக்குட்பட்டவர்கள் எனவும் தெரிவிக்கப்பட்டுள்ளது. இந்த சம்பவத்தில் 35 வயதுடைய தர்ஷனி பண்டாரநாயக்க என்ற தாயும், 07 வயதுடைய  இனுக விக்கிரமசிங்க, 04 வயதுடைய அஸ்வினி விக்கிரமசிங்க, 02 வயதுடைய றின்யானா விக்கிரமசிங்க மற்றும் 02 மாதங்களான கெலீ விக்கிரமசிங்க ஆகிய நான் பிள்ளைகளும் உயிரிழந்துள்ளனர்.
+They were attacked by a sharp weapon in a house on Wednesday in the suburbs of Barhevan in south Ottawa.
 
-உயிரிழந்தவர்களில் 5 பேர் இலங்கையிலிருந்து கனடாவுக்கு புதிதாக வந்தவர்கள் என பொலிஸார் அடையாளம் கண்டுள்ளனர்.
+The mother and her four children and a 40 -year -old man who lived in the house died in the incident.
 
-சந்தேக நபர் கனடாவில் கல்வி கற்கும் 19 வயதுடைய ஃபேப்ரியோ டி சொய்சா என்ற இலங்கையர் என ஒட்டாவா பொலிஸ்  தெரிவித்துள்ளது.
+The four children who died are under the age of seven. The mother of 35 -year -old Darsani Bandaranaike, 07 -year -old Inuga Wickremesinghe, 04 -year -old Aswini Wickremesinghe, 02 -year -old Rinyana Wickremesinghe and Keli Wickremesinghe, 02 months.
+
+Police have identified that five of the victims were new from Sri Lanka to Canada.
+
+Ottawa police said the suspect is a 19 -year -old Fabrio de Soyza, a Sri Lankan who is educated in Canada.
 
 ◼️
 
 [Data](articles/397b1684.json)
 
+[Extended Data](ext_articles/397b1684.ext.json)
+
 ---
 
-### සැකකරුවෙක් අත්අඩංගුවට ගැනීමට මහජන සහාය ඉල්ලයි
+### Public assistance demands to arrest a suspect
 
 *2024-03-08 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194281) · `si`
 
-පොලීසිය සඳහන් කරන්නේ විදෙස් ජාතික කාන්තාවක් නවාතැන් ගෙන සිටි නිවසකට ඇතුළුවූ සැකකරු මුදල් ඇතුළු ඇය සතු වටිනා දේපොළ සොරකම් කර ඇති බවටය.
+Public assistance requested police to arrest a suspect accused of breaking into a house where a national woman was staying, claiming the suspect had stolen something.
+
+🟩
+
+The police said that the suspect who entered a house where a national woman had lodged in a house was stolen.
 
 ◼️
 
 [Data](articles/19febee1.json)
+
+[Extended Data](ext_articles/19febee1.ext.json)
 
 ---
 
@@ -92,7 +168,7 @@ She also served as a journalist and a radio news.
 
 Veteran actress, journalist and former radio news presenter Ramya Wanigasekara passed away on Friday morning (March 08), family sources told Ada Derana.
 
-Wanigasekara, born in 1936 in Kegalle, made her debut stage drama appearance in 1976 with a minor role in the stage drama ‘Hasthiraja Mahaththaya’. She had her breakthrough role in the 1978 stage drama ‘Mana Ranjana Weda Warjana’.
+Wanigasekara made her debut stage drama appearance in 1976 with a minor role in the stage drama ‘Hasthiraja Mahaththaya’. She had her breakthrough role in the 1978 stage drama ‘Mana Ranjana Weda Warjana’.
 
 She also acted in many other stage dramas, including ‘Kelani Palama’, ‘Ahasin Wetunu Minissu’, ‘Jailer Unnahe’, ‘Raja Kathawa’, ‘Muhudu Puththu’, and ‘Siri Sangabo’.
 
@@ -2115,89 +2191,5 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 [Data](articles/212b6dc8.json)
 
 [Extended Data](ext_articles/212b6dc8.ext.json)
-
----
-
-### Two Adults and Four Children Brutally Murdered in Suburban Home in Ottawa,Canada. Another Hospitalised with Injuries. All victims of  Sri Lankan Origin.Police Arrest 19 Year old Student from Sri Lanka as Lone Suspect
-
-*2024-03-07 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83735) · `en`
-
-Police have charged a 19-year-old man with the murder of two adults and four children in an Ottawa-area townhouse Wednesday night, which police say is the largest murder in recent memory in the city.
-
-Febrio De-Zoysa is believed to be in Canada from Sri Lanka as a student and was living in the house, police said. He has been charged with six counts of first-degree murder and one count of attempted murder.
-
-Police found the victims — a Sri Lankan family that was new to Canada — inside the home at what they described as “a horrific scene,” after being called just before 11 p.m. to Barrhaven, a quiet suburb.
-
-“This was a senseless act of violence perpetrated on purely innocent people,” Ottawa police chief Eric Stubbs said. “This one will undoubtedly weigh on the hearts of everyone for a long time.”
-
-A mother, 35, and four children died from injuries from a “knifelike object.” A 40-year-old family acquaintance living at the house was also found dead.
-
-...
-
-[Data](articles/f5ce5bf1.json)
-
-[Extended Data](ext_articles/f5ce5bf1.ext.json)
-
----
-
-### Harakatta, who has been detained at CIT, is the fortress who goes to observe both of them!
-
-*2024-03-07 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178195) · `ta`
-
-Fort Magistrate Thilina Kamage visited CIT, observed suspects Kudusalindu and Harakkatta, and ordered the Director to present them in court with legal assistance. Harakkatta, suffering from fever, was ordered to receive treatment.
-
-🟩
-
-Fort Magistrate Thilina Kamage visited the Criminal Investigation Department on Thursday evening and observed the suspects, including Kudusalindu and Harakkatta.
-
-The magistrate has ordered the Director of the Criminal Investigation Department to present the suspects in court and to inform the court and provide legal assistance.
-
-When Harakatta told the Justice of the Judge that he was suffering from fever, the judge ordered the Criminal Investigation Department to provide treatment.
-
-◼️
-
-[Data](articles/7eda2c42.json)
-
-[Extended Data](ext_articles/7eda2c42.ext.json)
-
----
-
-### Deshabandu’s appointment as IGP challenged before Supreme Court
-
-*2024-03-07 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deshabandus-appointment-as-IGP-challenged-before-Supreme-Court/108-278430) · `en`
-
-Colombo, March 07 (Daily Mirror) -  A Fundamental Rights petition has been filed before the Supreme Court seeking an order preventing Deshabandu Tennakoon from functioning as the Inspector General of Police.
-
-The Anti Corruption Movement affiliated to the Samagi Jana Balawegaya (SJB) filed this petition, further seeking a declaration that newly appointed IGP Deshabandu Tennakoon is unfit to hold public office including any post in the Sri Lanka Police Force.
-
-Convener of the Anti Corruption Movement Niroshan Padukka and Committee Member Ananda Palitha filed this petition naming IGP Deshabandu Tennakoon, members of the Constitutional Council, members of the National Police Commission and the Attorney General as respondents.
-
-The petitioners stated that the appointment of Deshabandu Tennakoon as IGP by the President on February 27 is contrary to the rule of law and violating the provisions of the Constitution.
-
-◼️
-
-[Data](articles/920e0672.json)
-
-[Extended Data](ext_articles/920e0672.ext.json)
-
----
-
-### Heat advisory: Temperatures to reach ‘caution level’ in 10 districts
-
-*2024-03-07 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97802/heat-advisory-temperatures-to-reach-caution-level-in-10-districts) · `en`
-
-The Meteorology Department has issued a heat Index Advisory for tomorrow (08) for the North-western and Southern provinces and Rathnapura, Anuradhapura, Mannar, Vavuniya and Mullaitivu districts.
-
-Heat index, the temperature felt on the human body is expected to increase up to ‘Caution Level’ at some places in North-western and Southern provinces and in Rathnapura, Anuradhapura, Mannar, Vavuniya and Mullaitivu districts, it said.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps, the Department warned.
-
-Thus, members of the public have been advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They were also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/5b3fe0c7.json)
-
-[Extended Data](ext_articles/5b3fe0c7.ext.json)
 
 ---

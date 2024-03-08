@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 01:17:38**
+As of **2024-03-09 01:33:04**
 
 ## Newspaper Stats
 
@@ -31,6 +31,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Maha Shivaratri Pooja event at Swayambu Lingeshwarar Shiva Temple
+
+*2024-03-09 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178296) · `ta`
+
+Maha Shivaratri Pooja at Swayambu Lingeshwarar Shiva Temple, including anointing, pooja, and Pongal events.
+
+🟩
+
+The Maha Shivaratri Pooja event was held on Friday (08) at the Swayambu Lingeshwara Shiva Temple in the Komarangadawala (Kumarasan Kadavai) forest in the Komarangadawala (Kumarasan Kadavai) forest. The anointing and pooja events for the Swayambu Lingam were also held and the Pongal event was held.
+
+◼️
+
+[Data](articles/0b461be5.json)
+
+[Extended Data](ext_articles/0b461be5.ext.json)
+
+---
 
 ### Investment in women as a pathway to societal progress
 
@@ -139,24 +157,6 @@ At the same time , Sri Lanka announced its participation in the Red Sea operatio
 [Data](articles/0bf8bca2.json)
 
 [Extended Data](ext_articles/0bf8bca2.ext.json)
-
----
-
-### Maha Shivaratri Pooja event at Swayambu Lingeshwarar Shiva Temple
-
-*2024-03-08 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178296) · `ta`
-
-Maha Shivaratri Pooja at Swayambu Lingeshwarar Shiva Temple, including anointing, pooja, and Pongal events.
-
-🟩
-
-The Maha Shivaratri Pooja event was held on Friday (08) at the Swayambu Lingeshwara Shiva Temple in the Komarangadawala (Kumarasan Kadavai) forest in the Komarangadawala (Kumarasan Kadavai) forest. The anointing and pooja events for the Swayambu Lingam were also held and the Pongal event was held.
-
-◼️
-
-[Data](articles/0b461be5.json)
-
-[Extended Data](ext_articles/0b461be5.ext.json)
 
 ---
 

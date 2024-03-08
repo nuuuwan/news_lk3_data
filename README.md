@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 13:33:23**
+As of **2024-03-08 13:53:04**
 
 ## Newspaper Stats
 
-*Scraped **11,671** Articles*
+*Scraped **11,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 economynextcom | 608
 dailyftlk | 617
 islandlk | 627
-adalk | 989
+adalk | 990
 tamilmirrorlk | 1,413
 adaderanalk | 1,418
 virakesarilk | 1,606
 dailymirrorlk | 1,779
-adaderanasinhalalk | 1,830
+adaderanasinhalalk | 1,831
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,669 (100.0%) of 11,671 articles have been extended.
+11,671 (100.0%) of 11,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### කාන්තා දිනය වෙනුවෙන් ජනපතිගෙන් පනත් කෙටුම්පත් දෙකක්
+
+*2024-03-08 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194289) · `si`
+
+මෙරට කාන්තාවන්ගේ අභිවෘද්ධිය වෙනුවෙන් නව පනත් කෙටුම්පත් දෙකක් එළඹෙන මැයි මාසයේදී පාර්ලිමේන්තුවට ගෙන එන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ කාන්තා දින සැමරුම් ජාතික උත්සවයට අද (08) එක්වෙමිනි.
+
+"කාන්තාවන් සවිබල ගැන්වීමේ පනත සහ ස්ත්‍රී පුරුෂ සමාජභාවය සහ සමානාත්මතාවය පිළිබඳ පනත් කෙටුම්පත. වැදගත් කෙටුම්පත් දෙකක්."
+
+මෙවර එහි ජාත්‍යන්තර තේමාව වන්නේ " කාන්තාවන් සඳහා ආයෝජන කරන්න - ප්‍රගතිය වේගවත් කරන්න " යන්නය.
+
+ජාත්‍යන්තර කාන්තා දිනය වෙනුවෙන් සංවිධානය කෙරුණු මෙරට ජාතික උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල වෝටර්ස් ඒජ් හිදී අද පැවැත්වුණි.
+
+◼️
+
+[Data](articles/03f2fb74.json)
+
+---
 
 ### Opportunities for opposition leaders to discuss with the high -level committee of the International Monetary Fund
 
@@ -52,43 +72,57 @@ Accordingly, President Ranil Wickremesinghe has called for a meeting at the Pres
 
 ---
 
-### சிவனொளிபாத மலை பருவ காலத்தில் 3 தொன் பிளாஸ்டிக் போத்தல்கள் சேகரிப்பு
+### Collection of 3 ton plastic bottles during the Sivanolipada Mountain Season
 
 *2024-03-08 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178236) · `ta`
 
-2023 ஆம் ஆண்டு தொடக்கம் 2024 ஆம் ஆண்டு வரையான சிவனொளிபாத மலை பருவகாலம் ஆரம்பமாகி 3 மாதங்களில் மூன்று தொன் பிளாஸ்டிக் போத்தல்கள் சேகரிகரிக்கப்பட்டுள்ளதாக மஸ்கெலியா பிரதேச சபை தெரிவித்துள்ளது.
+Since 2023, 3 tonnes of plastic bottles have been collected in Maskeliya during the Sivanolipada Mountain Season. Despite efforts to manage waste, some pilgrims still litter. The collected bottles are to be recycled, and there's a water issue in Nalladhani due to dry weather, with discussions ongoing with the Water Supply Board.
 
-யாத்திரைக்கான மார்க்கத்தில் செல்லும் யாத்திரீகர்கள் பிளாஸ்டிக் தண்ணீர் போத்தல்களை வெளியேற்ற குப்பை தொட்டிகள் வைக்கப்பட்டுள்ளது. இருப்பினும்  சில யாத்திரீகர்கள் பிளாஸ்டிக் தண்ணீர் போத்தல்களை குப்பைத் தொட்டிகளில் போடாமல் சுற்றுச்சூழலில் வீசுகிறார்கள்.
+🟩
 
-குப்பைகளை அகற்றுவதற்காக வைக்கப்பட்டுள்ள குப்பைத் தொட்டிகளில் உணவு பொருட்களை அப்புறப்படுத்துமாறு பிரதேச சபையினால் அறிவுறுத்தப்பட்டாலும் அதனை யாத்திரீகர்கள் பின்பற்றுவதில்லை.
+The Maskeliya Pradeshiya Sabha said that three tonnes of plastic bottles have been collected in three months since the beginning of 2023 to 2024.
 
-சேகரிக்கப்பட்ட பிளாஸ்டிக் போத்தல்கள் நல்லதண்ணி குப்பை சேகரிக்கும் மத்திய நிலையத்திற்கு கொண்டு செல்லப்பட்டு அங்கிருந்து தனியாருக்கு விற்பனை செய்யப்படும்.
+Pilgrims who go to the pilgrimage have been placed in garbage bins to discharge plastic water bottles. However, some pilgrims throw plastic water bottles into the environment without putting it in trash.
 
-இதேவேளை, தற்போது நிலவும் வறண்ட வானிலை காரணமாக நல்லதண்ணி பிரதேசத்தில் குடிநீர் பிரச்சினை ஏற்பட்டுள்ளது. இப்பிரச்சினைக்கு தீர்வு காண நீர் வழங்கல் சபையுடன் கலந்துரையாடல் இடம்பெற்று வருவதாக தெரிவித்துள்ளார்.
+Although the Pradeshiya Sabha is advised to dispose of food items in the garbage bins, it is not followed by pilgrims.
+
+The collected plastic bottles will be taken to the center of garbage collection and then sold to the private sector.
+
+Meanwhile, the problem of drinking water in Nalladhani area due to the prevailing dry weather. He said that a discussion is being held with the Water Supply Board to address the issue.
 
 ◼️
 
 [Data](articles/427867f9.json)
 
+[Extended Data](ext_articles/427867f9.ext.json)
+
 ---
 
-### மகா சிவராத்திரி தினத்தில் ஏற்றப்படும் ஒளியானது இலங்கை மக்களின் வாழ்விலும் ஒளியேற்றுவதாக அமையட்டும் - மகா சிவராத்திரி வாழ்த்தில் ஜனாதிபதி
+### May the light of the Sri Lankan people light light on the lives of the people of Sri Lanka - President
 
 *2024-03-08 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178242) · `ta`
 
-மகா சிவராத்திரி தினத்தில் இந்து மக்களினால் ஏற்றப்படும் ஒளியானது, முழு இலங்கை மக்களின் வாழ்விலும் ஒளியேற்றுவதாக அமையட்டும் என பிராத்திக்கிறேன் என ஜனாதிபதி ரணில் விக்ரமசிங்க தனது வாழ்த்து செய்தியில் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe congratulated the Sri Lankan people on Maha Shivaratri, highlighting the Hindu prayer's impact on spreading wisdom and eliminating suffering. The government's efforts to alleviate the economic crisis have been successful, aiming for the prosperity of all Sri Lankans. Emphasizing unity and the elimination of arrogance, the nation looks forward to a peaceful and prosperous future.
 
-உலகெங்கிலும் உள்ள இந்து பக்தர்களினால், அனைத்து உயிர்களையும் துன்பத்திலிருந்து விடுவிக்க சிவபெருமானிடம் செய்த பிரார்த்தனையை நினைவு கூறுவதாக அமைந்திருக்கிறது.
+🟩
 
-மனிதர்களிடம் இருக்கும் மமதையும், அகந்தையையும் அகற்ற உதவும் ஞானத்தைப் பரவச் செய்யும் வகையில் உலகெங்கிலும் உள்ள இந்து பக்தர்கள் பிரார்த்தனை செய்கின்றனர்.
+President Ranil Wickremesinghe said in his congratulations that the light of the Hindu people on Maha Shivaratri Day will be light in the lives of the entire Sri Lankan people.
 
-கடந்த இரண்டு வருடங்களில் வரலாறு காணாத பொருளாதார நெருக்கடியால் பாதிக்கப்பட்ட நாட்டு மக்களை மீட்க அரசாங்கம் மிகுந்த அர்ப்பணிப்புடன் செயற்பட்டது.
+The prayer of Lord Shiva remembered by Hindu devotees around the world to release all lives from suffering.
 
-இந்து மக்கள் மாத்திரமன்றி ஒட்டுமொத்த இலங்கை மக்களின் வாழ்வையும் செழிப்பாக்கும் எதிர்பார்ப்புடன் இன்று மேற்கொள்ளப்படும் முன்னெடுப்புகள் வெற்றிகரமான நிலைக்கு வந்துள்ளது.
+Hindu devotees around the world are praying to spread the wisdom to help eliminate the Mamat and the arrogance of human beings.
 
-...
+In the last two years, the government has been very committed to rescue the people affected by the unprecedented economic crisis.
+
+Today's initiatives have been successful with the expectation of prosperity of the people of Sri Lanka as a whole.
+
+To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all should unite as a nation without Mamadi and arrogance and advance the plan for the future of the country.
+
+◼️
 
 [Data](articles/6d753978.json)
+
+[Extended Data](ext_articles/6d753978.ext.json)
 
 ---
 
@@ -117,6 +151,28 @@ In 2006, Mahaha went to England and joined his father's family and shedding medi
 [Data](articles/dbf8410c.json)
 
 [Extended Data](ext_articles/dbf8410c.ext.json)
+
+---
+
+### පාලවියෙ විහාරස්ථානයක හිමිවරු දෙනමකට අමානුෂිකව පහරදීලා
+
+*2024-03-08 12:14:09* · [`adalk`](https://www.ada.lk/breaking_news/පාලවියෙ-විහාරස්ථානයක-හිමිවරු-දෙනමකට-අමානුෂිකව-පහරදීලා/11-408493) · `si`
+
+පුත්තලම පාලවිය බෞද්ධ සංස්කෘතික මධ්‍යස්ථානයෙ ආරම්භයෙ සිට වැඩ වාසය කල හිමිනමකට හා තවත් හිමිනමකට අමානුෂිකව දායක සභාවේ පිරිසක් විසින් පහර දීමේන් බරපතල තුවාල හා අස්ථි බිදිමකට ලක්ව පුත්තලම මූලික රෝහලට ඇතුලත් කර ඇති බව පුත්තලම මුලස්ථාන පොලිසිය කියයි.
+
+මෙසේ පහර කෑමට ලක්ව ඇත්තේ වලපනෙ අස්ථ දස්සි හා අරඹගෙ අරියධම්ම සුගතපාල යන හිමිවරු දෙනමක් බව කියයි.
+
+මෙම පාලවිය බෞද්ධ සංස්කෘතිත මධ්‍යස්ථානය වසරකට පෙර ආරම්භ කර ඇති අතර එහි ආරම්භයෙ සිට දරුණු පහර කැමට මෙම වලපනේ අත්තදස්සී හිමියන් රැදි සිට ඇති බව කියයි.
+
+දායක සභාවේ පිරිසක් අතර දිගින් දිගටම ඇතිව තිබු ආරවුලක් මත මෙම අමානුෂීක පහර දීම් සිදුව ඇති බව කියයි.
+
+මෙම ආරවුල හේතුවෙන් පසුගිය දිනවල මෙම හිමියන්ගේ හම්බන්තොට ගොස් නැවත විහාරස්ථානයට පැමිනි අවස්ථාවේදි එම හිමියන් රැදි සිටි ගොඩනැගිල්ලේ දොර අගුලු කඩා උන් වහන්සේට අයත් දෑ සොරකම් කර තිබු බව කියයි.
+
+ඉන් පසුව ඒ බව පුත්තලම මුලස්ථාන පොලිසියට ගොස් පැමිනිලි කර ආපසු නැවත මෙම විහාරස්ථානයට පැමින සිටියදී කඩා වැදුන දායක සභාවේ පියකු හා පුතෙකු ඇතුළු පිරිසක් එක්වි ඉතා අමානුෂීක පහර දී සිවුරු ගලවා දමා ඇති බව කියයි.
+
+...
+
+[Data](articles/ed3c0920.json)
 
 ---
 
@@ -1182,15 +1238,15 @@ There have been reports that Adani had proposed to sell power at 14 US cents or 
 
 *2024-03-08 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97810/evening-thundershowers-possible-in-some-areas-today) · `en`
 
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or at night today, the Meteorology Department says.
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and Galle and Matara districts in the evening or at night today, the Meteorology Department says.
 
 However, mainly dry weather will prevail in the other areas of the island.
 
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and Galle and Matara districts during the morning.
 
 Mainly fair weather will prevail in sea areas around the island.
 
-Winds will be easterly or north-easterly in the sea areas off the coast extending from Kankesanturai to Matara via Trincomalee, Pottuvil and Hambantota, and winds will be variable in direction in the other sea areas around the island. wind speed will be (15-30) kmph.
+Winds will be easterly or north-easterly in the sea areas off the coast extending from Kankesanturai to Matara via Trincomalee, Pottuvil and Hambantota, and winds will be variable in direction in the other sea areas around the island. The wind speed will be 15-30 kmph.
 
 ◼️
 
@@ -2167,51 +2223,5 @@ Mr. Breuer further expressed his satisfaction at witnessing the economy starting
 [Data](articles/50ce97bd.json)
 
 [Extended Data](ext_articles/50ce97bd.ext.json)
-
----
-
-### Workers’ remittances and tourism earnings up in February 2024
-
-*2024-03-07 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97806/workers-remittances-and-tourism-earnings-up-in-february-2024) · `en`
-
-Sri Lanka has recorded an over 16 percent increase in workers’ remittances while tourism earnings has increased by nearly 114 percent in February 2024 compared to the previous year, according to the latest data from the Central Bank of Sri Lanka (CBSL).
-
-Workers’ remittances reached USD 476.2 million in February 2024, showing a growth of 16.88% compared to February 2023.
-
-Meanwhile the earnings from tourism in February 2024 was recorded as USD 345.7 million. This is an increase of 113.92% compared with the same month last year.
-
-◼️
-
-[Data](articles/0a0d594c.json)
-
-[Extended Data](ext_articles/0a0d594c.ext.json)
-
----
-
-### The priest of the Vedukunnarimalai temple was arrested!Police are anarchy in violation of court order!
-
-*2024-03-07 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178209) · `ta`
-
-The priest of Vedukunnarimalai temple was arrested by the Nedungeni police during Shivaratri day arrangements at Adi Ilingeswarar Temple in Vavuniya, disrupting temple management. The Vavuniya court ordered the temple to follow a previous court ruling, which was violated by the police's arrest.
-
-🟩
-
-Two persons, including the priest of the temple, were forcibly arrested by the Nedungeni police who were carrying out the Shivaratri day arrangements at the Adi Ilingeswarar Temple in Vavuniya.
-
-The temple was taken to perform a special pooja at Vettukkunnimalai on Friday (8).
-
-In this case, the management of the temple has been deployed in the Vavuniya court as the administration of the temple has been disrupted by the police.
-
-The court on Tuesday (5) ordered the temple to act as per the order already issued by the court on the Vedukkunnarimalai temple.
-
-Following this, two men, including a priest, who was on their way to Piliyandi, were arrested by the Nedungeni police on Tuesday (5) to carry out the Shivaratri Day arrangements.
-
-The Vavuniya court has ordered the worship of Pooja at the Vedukkunnarimalai temple last year. The order was re -confirmed by the court on Tuesday (5). It is noteworthy that the police have arrested two persons in violation of the court ruling.
-
-◼️
-
-[Data](articles/7a59de5d.json)
-
-[Extended Data](ext_articles/7a59de5d.ext.json)
 
 ---

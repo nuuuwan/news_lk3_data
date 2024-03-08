@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 22:50:13**
+As of **2024-03-08 23:02:44**
 
 ## Newspaper Stats
 
-*Scraped **11,752** Articles*
+*Scraped **11,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 617
 islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
-adaderanalk | 1,426
+adaderanalk | 1,427
 virakesarilk | 1,619
 dailymirrorlk | 1,794
 adaderanasinhalalk | 1,847
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,752 (100.0%) of 11,752 articles have been extended.
+11,752 (100.0%) of 11,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Govt. planning to implement cluster education system by amalgamating multiple schools
+
+*2024-03-08 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97828/govt-planning-to-implement-cluster-education-system-by-amalgamating-multiple-schools) · `en`
+
+The “Presidential Scholarship” program proposed by President Ranil Wickremesinghe holds immense potential to provide crucial assistance to economically disadvantaged students, says State Minister for Education Aravindh Kumar.
+
+This initiative is geared towards supporting 100,000 students during the 2024/2025 academic year, he added.
+
+The state minister expressed confidence that this program would play a pivotal role in facilitating the successful completion of education for these students.
+
+Moreover, Kumar emphasized plans to establish 20 Zonal Education Offices as part of ongoing education reforms. These offices are envisioned to play a pivotal role in implementing future educational initiatives and ensuring the efficient administration of educational policies.
+
+He shared these views during the media briefing at the Presidential Media Centre (PMC) today.
+
+...
+
+[Data](articles/f321e283.json)
+
+---
 
 ### Plastic water bottles of plastic water closed
 
@@ -2351,29 +2371,5 @@ Thus, the public has been requested to provide any available information about t
 [Data](articles/12356a4f.json)
 
 [Extended Data](ext_articles/12356a4f.ext.json)
-
----
-
-### Lorry and motorcycle collided face -to -face in Nanuoya;Two people at the hospital
-
-*2024-03-08 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178224) · `ta`
-
-In Nanuoya, a lorry and motorcycle collided, injuring two people from Thalawakelle and Kotakkalai, aged 27 and 28. The lorry driver was arrested for treating the injured.
-
-🟩
-
-Two persons were injured in a motorcycle collision with a lorry in front of the Nuwara Eliya Pradeshiya Sabha on Thursday afternoon at the Nanuoya Police Division, Nanuoya Rathalla Cross Road.
-
-Police said the lorry driver had been arrested for treatment of two motorcyclists in the accident.
-
-The injured were reported to be from Thalawakelle and Kotakkalai, aged 27 and 28.
-
-Police said the motorcycle traveling from Nuwara Eliya to Talawakelle and a lorry from Nanuoya Ratalla to Nuwara Eliya collided.
-
-◼️
-
-[Data](articles/3fe3b7ba.json)
-
-[Extended Data](ext_articles/3fe3b7ba.ext.json)
 
 ---

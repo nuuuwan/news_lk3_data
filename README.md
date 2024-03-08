@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 19:17:35**
+As of **2024-03-08 19:33:14**
 
 ## Newspaper Stats
 
-*Scraped **11,732** Articles*
+*Scraped **11,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 1,419
 adaderanalk | 1,425
 virakesarilk | 1,615
 dailymirrorlk | 1,787
-adaderanasinhalalk | 1,842
+adaderanasinhalalk | 1,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,731 (100.0%) of 11,732 articles have been extended.
+11,732 (100.0%) of 11,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### කැනඩාවේ සමූහ ඝාතනයේ තොරතුරු රැසක් එළියට
+
+*2024-03-08 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194302) · `si`
+
+කැනඩාවේ ඔටාවා අගනුවර දී ඝාතනයට ලක්වූ සිව්දරු මව මෙරට පොල්ගහවෙල පදිංචිකාරියකි.
+
+35 හැවිරිදි දර්ශනී දිලන්තිකා ඒකනායකගේ මව හැඬු කඳුළින් අද දෙරණට මෙලෙස පැවසීය.
+
+"මට දැනුණා මොනවා හරි වෙයි කියලා. මට නිකන් මිනී පෙට්ටි වගයක් පෙණුනා. ලොකු කරදරයක් ද දන්නේ නෑ කියලා මම හිතුවා. යන තැනකට දෙයක් කරගන්නවා අම්මා කියනවා... හැමවෙලාවේම හිතන්නේ බුදුදහම ගැන. අනේ කොච්චරවත් පන්සල් ගානේ ගිය දරුවානේ..."
+
+මෙම සමූහ ඝාතනය සිදුවන්නේ, කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බැර්හෙවන් ප්‍රදේශයේ ශ්‍රී ලාංකික පවුලක් ජීවත් වූ නිවසකය.
+
+සිද්ධිය වන අවස්ථාවේ නිවසේ සිට තිබුණේ, 35 හැවිරිදි මව, දරුවන් සිව්දෙනා සහ ඔවුන් සමගම පදිංචිව සිටි තවත් ශ්‍රී ලාංකිකයින් දෙදෙනෙකි.
+
+38 හැවිරිදි ධනුෂ්ක වික්‍රමසිංහ නම් දරුවන්ගේ පියා එම අවස්ථාවේ නිවසට පැමිණෙන විට වෙනදා මෙන් නිවසේ විදුලි පහන් දල්වා තිබී නැහැ.
+
+පියා නිවසට ඇතුළුවනවාත් සමගම කිසියම් කෙනෙකු පහරදී ඇති අතර පැවති අන්ධකාරය හේතුවෙන් පහරදුන් පුද්ගලයා එකවිට හඳුනාගැනීමට නොහැකි වී තිබේ.
+
+...
+
+[Data](articles/8eb70846.json)
+
+---
 
 ### Gold hits fresh record, heads for best week in 5 months
 
@@ -314,23 +338,31 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 
 ---
 
-### கெடுபிடிகளுக்கு மத்தியில் வழிபாடு
+### Amiturism
 
 *2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கெடுபிடிகளுக்கு-மத்தியில்-வழிபாடு/72-334387) · `ta`
 
-வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்டநிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
+The temple in Vavuniya Vidunarimalai was closed due to arrests of the chief priest and temple administrator. Police and Special Task Force secured the area, allowing only local residents. Civilians from far were blocked on the main road. Parliamentarians and religious leaders were present, guiding the public to the temple.
 
-மகாசிவராத்திரி தினத்தினை முன்னிட்டு அது தொடர்பான ஏற்பாடுகளை செய்துகொண்டிருந்த ஆலயத்தின் பிரதம பூசாரி மற்றும் நிர்வாக உறுப்பினர் ஆகியோர்    நெடுங்கேணி பொலிஸாரால் வியாழக்கிழமை (07) கைதுசெய்யப்பட்டிருந்தனர்.
+🟩
 
-இதனையடுத்து  ஆலயத்தினை சுற்றி விசேட அதிரடிப்படை மற்றும் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளதுடன் ஆலயத்திற்கு செல்லும் பிரதான பாதைக்கு பொலிஸ் வீதித்தடை போடப்பட்டு. அந்த பகுதிக்குள் வசிப்பவர்கள் மாத்திரம் பொலிஸாரின் விசாரணைக்கு பின்னர் உள்ளே அனுமதிக்கப்பட்டனர்.
+The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vidunarimalai.
 
-இதேவேளை மகாசிவராத்திரி வழிபாட்டிற்காக தூர இடங்களில் இருந்து வருகைதந்த பொதுமக்கள், உள்ளே செல்லமுடியாதவாறு பிரதான வீதியில் தரித்து நின்றனர்.
+The chief priest of the temple and the administrator of the temple were arrested by the Nedungeni police on Thursday (07).
 
-சம்பவ இடத்திற்கு பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், செல்வராசா கஜேந்திரன், வேலன் சுவாமிகள்,ரவிகரன் ஆகியோரும் பிரசன்னமாகியிருந்தனர்
+Subsequently, the Special Task Force and Police have been deployed around the temple and the police road has been laid to the main road to the temple.. Only the residents of the area were allowed inside after the police investigation.
+
+Meanwhile, the civilians who came from far away places for the Mahasivaratri worship were on the main road so that they could not go in.
+
+Parliamentarian Sivagnanam Sridharan, Selvarasa Gajendran, Velan Swamis and Ravikaran were also present at the scene.
+
+Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
 
 ...
 
 [Data](articles/f71d11b5.json)
+
+[Extended Data](ext_articles/f71d11b5.ext.json)
 
 ---
 
@@ -2279,19 +2311,5 @@ Wanigasekara also appeared in a number of television dramas, including ‘Koombi
 [Data](articles/f2c107b3.json)
 
 [Extended Data](ext_articles/f2c107b3.ext.json)
-
----
-
-### Battle against corruption
-
-*2024-03-08 08:48:00* · [`islandlk`](http://island.lk/battle-against-corruption/) · `en`
-
-We as a nation had many names officially and many unofficially such as Pearl of the Indian Ocean, Teardrop Isle, Serendipitous Land, Paradise, Land of the Lotus Eaters. We were famous for our smiles and friendliness; the modest charm of our youth; scenic wonders and the fast and easy accessibility of vastly different climatic conditions, vegetation and terrain. Ceylon was known for its tea. Most of those complimentary names are now obliterated by what we are currently recognised for: corruption; being a country with people up to all sorts of dishonest practices and corruption rife from top to bottom. Well known was a Cabinet Minister asking for a santhosam from a country to accept a project! He still sits in Parliament, nodding many times.
-
-...
-
-[Data](articles/4abdf338.json)
-
-[Extended Data](ext_articles/4abdf338.ext.json)
 
 ---

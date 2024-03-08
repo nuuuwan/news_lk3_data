@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 20:17:42**
+As of **2024-03-08 20:33:22**
 
 ## Newspaper Stats
 
-*Scraped **11,737** Articles*
+*Scraped **11,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 economynextcom | 616
 dailyftlk | 617
 islandlk | 627
-adalk | 996
+adalk | 997
 tamilmirrorlk | 1,419
-adaderanalk | 1,425
+adaderanalk | 1,426
 virakesarilk | 1,615
 dailymirrorlk | 1,789
-adaderanasinhalalk | 1,843
+adaderanasinhalalk | 1,844
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,736 (100.0%) of 11,737 articles have been extended.
+11,737 (100.0%) of 11,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### දකුණේ සෙල්ලං දාන විදේශිකයෝ උකුස්සාට කොටු වූ හැටි
+
+*2024-03-08 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194303) · `si`
+
+සංචාරක වීසා මත මෙරටට පැමිණ සිටින රුසියානු සහ යුක්‍රේන ජාතිකයන් ව්‍යාපාරවල නිරතවන බවට "අද දෙරණ" ඊයේ (07) අනාවරණ කළේය.
+
+මේවන විට  විදෙස් සංචාරයකයින් වැඩි වශයෙන් මෙරටට පැමි‍ණෙමින් සිටින අතර එලෙස සංචාරක වීසාමත පැමිණෙන විදේශිකයින් නීතිවිරෝධී අයුරින් මෙරට තුළ සංචාරක කර්මාන්තයේ නිරත වන බවට දේශීය සංචාරක කර්මාන්තයේ නිරතවූවන් චෝදනා කරයි.
+
+එම චෝදනා සම්බන්ධයෙන් සොයාබැලීමට "අද දෙරණ" උකුස්සා දකුණු පළාතේ ගවේෂණයක නිරත විය.
+
+එහිදී දැකගත හැකිවුණේ සමාජ මාධ්‍ය ගිණුම් මඟින් විවිධ සමූහ ගොඩ නඟාගනිමින් රුසියානුවන් හා යුක්‍රේන ජාතිකයන් සංචාරක කර්මාන්තයේ නිරත වන බවය.
+
+දකුණු පළාතේ සංචාරක මර්මස්ථානවල සිදුකළ ගවේෂණයේදී චෝදනාව සනාථ කරන තවත් සාක්ෂි රැසක් උකුසු ඇසට හසුවිය.
+
+දිවයිනට පැමිණි සංචාරක යුවළක්, මෙරටට පැමිණ සිටින විදේශිකයෙකු විසින් සංචාරකයන් සඳහා මඟපෙන්වන ස්ථානයකට කැටුව යන අයුරු ද දැකගත හැකි විය.
+
+එමෙන්ම මේ විදේශකයෙකු විසින් වෙනත් විදේශ සංචාරකයෙකුගේ විදෙස් මුදල් ලබාගෙන ඔහුට රුපියල් ලබාදෙන ආකාරය ද එහිදී දැකගැනීමට ලැබුණි.
+
+...
+
+[Data](articles/1fbfbde4.json)
+
+---
+
+### ‘He’s in great shock’: Surviving father, community struggle to process mass killing of family
+
+*2024-03-08 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97827/hes-in-great-shock-surviving-father-community-struggle-to-process-mass-killing-of-family) · `en`
+
+Canada’s Barrhaven residents and members of Ottawa’s Sri Lankan community say they are struggling to process the horrific mass killing of four young children, their mother and a family acquaintance.
+
+Their bodies were found in their home in Barrhaven, about 15 kilometres south of Ottawa’s downtown core, on Wednesday night.
+
+Only the children’s father survived. He was injured in the attack with an edged weapon and was taken to hospital.
+
+“We are all shocked, no doubt about that,” said Bhante Suneetha, who met the family at a local Buddhist monastery, and described them as sweet and kind.
+
+“In my life, I haven’t heard of such a tragic moment in our community.”
+
+Into the night, dozens of residents moved by what happened streamed silently into a dark tree-lined park two blocks away from the townhouse.
+
+They lit candles and dropped off flowers and stuffed animals at a makeshift memorial.
+
+On Thursday, police said the family were newcomers to Canada from Sri Lanka.
+
+...
+
+[Data](articles/215a284d.json)
+
+---
+
+### ජනපතිගෙන් අනුරට, සජිත්ට හා ශ්‍රීධරන්ට ආරාධනා
+
+*2024-03-08 20:09:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-අනුරට--සජිත්ට-හා-ශ්‍රීධරන්ට-ආරාධනා/11-408501) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනා පිළිබඳ එහි නියෝජිත කණ්ඩායම සමඟ සාකච්ඡා කිරීමට පාර්ලිමේන්තුව පිළිගත් විපක්ෂයේ පක්ෂ නායකයන් වෙත අවස්ථාව සලසා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පියවර ගෙන තිබේ.
+
+ඒ අනුව එළැඹෙන සඳුදා (11) ජනාධිපති කාර්යාලයේ පැවැත්වෙන මෙම සාකච්ඡාව සඳහා විපක්ෂ නායක සජිත් ප්‍රේමදාස, අනුර කුමාර දිසානායක, දෙමළ ජාතික සන්ධානයේ නායක සිවඥානම් ශ්‍රීධරන් යන මහත්වරුන්ට ආරාධනා කර තිබෙන අතර ඔවුන් සමඟ කැමති ඕනෑම අයෙකුට ද සහභාගිවීමට අවස්ථාව සලසා දී ඇත.
+
+තවද පාර්ලිමේන්තුවේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාට ද මේ සඳහා සහභාගීවන ලෙස දැනුම් දී තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩපිළිවෙළෙහි යෝජනා සම්බන්ධව එහි නියෝජිතයන් සමඟ සාකච්ඡා කිරීමට අවස්ථාව සළසා දෙන ලෙස පසුගියදා පාර්ලිමේන්තුවේ දී හර්ෂ ද සිල්වා මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙතින් ඉල්ලීමක් කර තිබු අතර, රට යළි ගොඩනැගීමට නම් ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන සාර්ථකව ඉදිරියට ගෙනයා යුතු බවත්, ඒ සඳහා සියලු පක්ෂවල සාමුහික වගවීම අවශ්‍ය බවත් ජනාධිපතිවරයාගේ ද ස්ථාවරයයි.
+
+...
+
+[Data](articles/1fbd366e.json)
+
+---
 
 ### Gunmen kidnap 227 pupils from school in Nigeria
 
@@ -610,41 +678,47 @@ ECONOMYNEXT – Two bills, aimed at advancing gender equality and empowering wom
 
 ---
 
-### දුම්රිය සතු ඉඩම් දිර්ඝ කාලින බද්දට
+### Last year lease
 
 *2024-03-08 16:53:36* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සතු-ඉඩම්-දිර්ඝ-කාලින-බද්දට/11-408499) · `si`
 
-දුම්රිය දෙපාර්තුමේන්තුව සතු ඉඩම් වල දුම්රිය සේවකයින් සහ වෙනත් පුද්ගලයින් ඉදි
+Last year, railway employees and others built on Railway Department lands. Residents were lectured and given long-term leases. Minister Bandula Gunawardena approved further land use. Agriculture is conducted in certain areas. A preliminary investigation found railway employees only did their duty. New Assistant Commerce Authority offices opened in Colombo and Anuradhapura to address land issues.
 
-කිරිම් සිදු කර ඇති බවත්, එම ඉඩම් වල පදිංචිකරුවන්ට දිර්ඝ කාලින බදු පදනමක් මත එම
+🟩
 
-ඉඩම් වල තවදුරටත් රැදි සිටිමට අවසර ලබාදෙන ප්‍රවාහන අමාත්‍ය බන්දුල
+Railway employees and other persons built in lands belonging to the Railway Department
 
-අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඒ බැව් කියා සිටියේ (08) දින නාවලපිටිය දුම්රිය
+The masses have been carried out and the residents of the lands have been a long-lectured basis
 
-මෙහිදි වැඩිදුරටත් අදහස් දැක් වු අමාත්‍ය බන්දුල ගුණවර්ධන මහතා කියා සිටියේ
+Minister of Transport Bandula who permission to be permitted to be held on further land
 
-දුම්රිය දෙපාර්තුමේන්තුව සතු ඇතැම් ඉඩම් වල කෘෂිකර්මාන්තය සිදු කරන බවයි.
+Minister Bandula Gunawardena was told by Nawalapitiya Railway
 
-වසර දහයකට වඩා ඉඩම් වල පදිංචිකරුවන්ට එම ඉඩම් වල තක්සේරු වාර්තාවක්
+Speaking further Minister Bandula Gunawardena said
 
-ලබාගෙන දිර්ඝ කාලින බදු පදනමක් මත එම ඉඩම් වල භුක්ති විදිමට අවසර ලබාදෙන
+Agriculture is conducting agriculture in certain areas of the Railway Department.
 
-කොළඹට පමණක් සිමා වි තිබු සහකාර වාණිජ අධිකාරි කාර්යාලයක් නාවලපිටියේ (08)
+An assessment record of those lands for more than ten years
 
-දින ස්ථාපනය කල බවත්, තවත් කාර්යාලයක් අනුරාධපුර ප්‍රදේශයේ ස්ථාපනය කරන
+Acquired by obtaining a long-term lease basis
 
-එම කාර්යාල වලට ගොස් තම ඉඩම් වල පවතින ගැටළු සම්බන්ධයෙන් විසදුම් ලබා
+An Assistant Commerce Office limited to Colombo (08)
 
-පහර දුන්නේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් මුලික විමර්ෂණයක් සිදු කල බවත්, එම
+The days were installed and another office installed in Anuradhapura
 
-විමර්ෂණය අනුව දුම්රිය සේවකයින් සිදු කර ඇත්තේ රාජකාරිය පමණක් බවයි.
+Go to these offices and provides solutions to the issues of their land
 
-නව සහකාර වාණිජ අධිකාරි කාර්යාලය විවෘත කිරිමේ අවස්තාවට මහනුවර දිස්ත්‍රික්
+A preliminary investigation was carried out regarding the incident that was attacked.
+
+According to investigation, the railway employees have done only duty.
+
+Kandy District to open the new Assistant Commerce Authority Office
 
 ◼️
 
 [Data](articles/7c5ab064.json)
+
+[Extended Data](ext_articles/7c5ab064.ext.json)
 
 ---
 
@@ -2277,77 +2351,5 @@ Veteran actress, journalist and radio news anchor Ms. Ramya Vanigasekara has pas
 [Data](articles/d44179a4.json)
 
 [Extended Data](ext_articles/d44179a4.ext.json)
-
----
-
-### Sri Lankan family identified in Canada;Arrests
-
-*2024-03-08 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178220) · `ta`
-
-Six Sri Lankans, including five children under seven, were murdered in Ottawa, Canada. The suspect is a 19-year-old Sri Lankan educated in Canada.
-
-🟩
-
-Six Sri Lankans have been identified from the same family who have been assassinated in the capital of Canada, Ottawa.
-
-They were attacked by a sharp weapon in a house on Wednesday in the suburbs of Barhevan in south Ottawa.
-
-The mother and her four children and a 40 -year -old man who lived in the house died in the incident.
-
-The four children who died are under the age of seven. The mother of 35 -year -old Darsani Bandaranaike, 07 -year -old Inuga Wickremesinghe, 04 -year -old Aswini Wickremesinghe, 02 -year -old Rinyana Wickremesinghe and Keli Wickremesinghe, 02 months.
-
-Police have identified that five of the victims were new from Sri Lanka to Canada.
-
-Ottawa police said the suspect is a 19 -year -old Fabrio de Soyza, a Sri Lankan who is educated in Canada.
-
-◼️
-
-[Data](articles/397b1684.json)
-
-[Extended Data](ext_articles/397b1684.ext.json)
-
----
-
-### Public assistance demands to arrest a suspect
-
-*2024-03-08 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194281) · `si`
-
-Public assistance requested police to arrest a suspect accused of breaking into a house where a national woman was staying, claiming the suspect had stolen something.
-
-🟩
-
-The police said that the suspect who entered a house where a national woman had lodged in a house was stolen.
-
-◼️
-
-[Data](articles/19febee1.json)
-
-[Extended Data](ext_articles/19febee1.ext.json)
-
----
-
-### Sri Lanka to call tenders for 50MW Mannar wind power plant
-
-*2024-03-08 09:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-tenders-for-50mw-mannar-wind-power-plant-153766/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to call tenders for a 50 MegaWatt wind plant in the North Eastern Mannar area, next week Energy Minister Kanchana Wijesekera said as investor interest increased amid economic stability.
-
-“A lot of investors are showing interest,” Minister Wijesekera told reporters Thursday. “Accordingly, we plan to call tenders for 10 wind and solar plants from local and foreign investors.”
-
-“Next week we plan to advertise tenders for a 50MW wind plant in Mannar.”
-
-Mannar is an area with a Ceylon Electricity Board wind plant with proven plant factor of around 45 percent which sharply reduces the costs per unit.
-
-Daily output sometimes gusts up to 60 percent according to some of the data in the public domain.
-
-Sri Lanka will also reach agreements with investors for other sites who have proposed prices between 26 and 30 rupees, Minister Wijesekera said.
-
-Bids for a 100MW renewable plant in Siyambalanduwa had come in at 8 US cents a unit, he said.
-
-...
-
-[Data](articles/b16be6e2.json)
-
-[Extended Data](ext_articles/b16be6e2.ext.json)
 
 ---

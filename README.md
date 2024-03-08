@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 00:17:50**
+As of **2024-03-09 00:33:38**
 
 ## Newspaper Stats
 
-*Scraped **11,759** Articles*
+*Scraped **11,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,97 @@ islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,428
-virakesarilk | 1,621
-dailymirrorlk | 1,796
+virakesarilk | 1,623
+dailymirrorlk | 1,801
 adaderanasinhalalk | 1,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,759 (100.0%) of 11,759 articles have been extended.
+11,759 (99.9%) of 11,766 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-09 (Saturday)
+
+### Investment in women as a pathway to societal progress
+
+*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Investment-in-women-as-a-pathway-to-societal-progress/172-278517) · `en`
+
+Investing in women also includes actively addressing discrimination and ensuring laws, policies, budgets and investments that respond to their needs
+
+It is time that Sri Lanka prioritizes women’s empowerment and recognizes that gender equality is not only a matter of rights but the bedrock of an equitable, peaceful and prosperous society. However, it takes investment to build inclusive communities and societies with the full participation of women and girls from all backgrounds
+
+When global crises such as climate disasters, poverty, and hunger occur, women and girls are affected the most
+
+Gender inequality is also reflected in women’s representation and participation in leadership, which remains abysmally low in Sri Lanka
+
+...
+
+[Data](articles/18b74aaa.json)
+
+---
+
+### Ambitious Presidential candidates and a powerful constitution
+
+*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ambitious-Presidential-candidates-and-a-powerful-constitution/172-278511) · `en`
+
+The question of whether the current president can invoke a presidential election after 4 years in office poses a legal challenge
+
+The Wickremesinghe of today is different from the one in the past; demonstrating strategic acumen due to his maturity
+
+This article has been prepared based on a discussion with K. B. Gunaratne, Former Director of Agriculture, who worked directly with three presidents of this country.
+
+...
+
+[Data](articles/880e2447.json)
+
+---
+
+### The executive prevails ultimately
+
+*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-executive-prevails-ultimately/172-278515) · `en`
+
+Despite the executive colliding head on sometimes with the Parliament and some other times with judiciary, the Constitutional Council and “independent Commissions in the recent past, the former has emerged victorious always, sometimes at the expense of the rules of the duel.
+
+For instance, in spite of the battle between the executive on behalf of the two ruling parties and the Election Commission backed by the Opposition parties over the local government elections having been dragging on for more than a year, the two ruling parties – the United National Party (UNP) and the Sri Lanka Podujana Peramuna (SLPP) can boast to have the “mission accomplished.”
+
+...
+
+[Data](articles/ac5e037e.json)
+
+---
+
+### Harin Fernando is right Sri Lanka is part of civilizational India and should aspire to be part of economic India
+
+*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Harin-Fernando-is-right-Sri-Lanka-is-part-of-civilizational-India-and-should-aspire-to-be-part-of-economic-India/172-278516) · `en`
+
+Every attempt by successive Sri Lankan governments to open up the local economy to the world has been obstructed by a minority of individuals and groups with vested interests. The picture shows Colombo Port City, a project funded by China, and these groups have been skeptical of such foreign investments
+
+Those days, I noted, when the queues get shortened, the country would revert to the old habits
+
+How much of a window to India that Sri Lanka could now aspire to be is open to question
+
+...
+
+[Data](articles/e134b3c6.json)
+
+---
+
+### Can protesting undergrads think of a ‘new’ colour?
+
+*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-protesting-undergrads-think-of-a-new-colour/172-278513) · `en`
+
+Parents of university students are a worried lot at present. This is because there is speculation that their children in university may be featuring in a number of protests throughout March, according media reports.
+
+There are the pluses and minuses of such protests. Protests of this nature will certainly be of news value to the media. Protesting undergrads have often won their rights and also the hearts of the down-trodden masses. But from the perspective of the country’s economy and the future of these students there are people who disapprove of such violent gatherings. Critics ask the question whether such gatherings have to be so disruptive and violent at times! They in return ask the question whether these undergraduates cannot think of an innovative way of staging a protest that will grab the attention of the government and also win their demands?
+
+...
+
+[Data](articles/e66a826b.json)
+
+---
 
 ### 2024-03-08 (Friday)
 
@@ -49,6 +129,34 @@ At the same time , Sri Lanka announced its participation in the Red Sea operatio
 [Data](articles/0bf8bca2.json)
 
 [Extended Data](ext_articles/0bf8bca2.ext.json)
+
+---
+
+### சுயம்பு லிங்கேஸ்வரர் சிவன் ஆலயத்தில் மஹா சிவராத்திரி பூசை நிகழ்வு
+
+*2024-03-08 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178296) · `ta`
+
+இந்து பௌத்த சங்கத்தின் ஏற்பாட்டில் கோமரன்கடவெல (குமரேசன் கடவை) காட்டுப் பகுதியில் உள்ள கி பி 9-13ம் நூற்றாண்டு காலத்திற்கு உரிய “சுயம்பு லிங்கேஸ்வரர் சிவன் ஆலயத்தில்  மஹா சிவராத்திரி பூசை நிகழ்வு வெள்ளிக்கிழமை (08) இடம்பெற்றது. இதன்போது சுயம்பு லிங்கத்திற்கான அபிஷேகம் மற்றும் பூசை நிகழ்வுகளும் இடம்பெற்றதோடு பொங்கல் நிகழ்வும் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/0b461be5.json)
+
+---
+
+### யாழ் - மன்னார் பிரதான வீதியில் திடீரென தீ பற்றிய மோட்டார் சைக்கிள் ; அதிர்ஷ்டவசமாக உயிர் தப்பிய இருவர்
+
+*2024-03-08 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178295) · `ta`
+
+மன்னார் திருக்கேதீஸ்வரத்தில் சிவராத்திரியை அனுஷ்டிப்பதற்கு யாழ் - மன்னார் பிரதான வீதியூடாக மன்னார் திருக்கேதீஸ்வரம் ஆலயம் நோக்கி வெள்ளிக்கிழமை (08) மாலை இருவர் மோட்டார் சைக்கிளில் வந்து கொண்டிருந்த போது குறித்த மோட்டார் சைக்கிள் திடீரென தீப்பற்றியது.
+
+இதன் போது குறித்த மோட்டார் சைக்கிளில் பயணித்த இருவரும் மோட்டார் சைக்கிளில் இருந்து பாய்ந்து அதிர்ஷ்டவசமாக உயிர் தப்பினர்.
+
+குறித்த சம்பவம் வெள்ளிக்கிழமை (8) மாலை யாழ் மன்னார் பிரதான வீதி பள்ளமடு வீதியில் இடம் பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/295e8c9e.json)
 
 ---
 
@@ -2213,139 +2321,5 @@ At the media, Ottawa Police Head of Ottawa Police, Eric Stubs said that there we
 [Data](articles/f050be05.json)
 
 [Extended Data](ext_articles/f050be05.ext.json)
-
----
-
-### The US will construct a temporary port in Gaza: Bidan
-
-*2024-03-08 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178234) · `ta`
-
-US plans to build a temporary port in Gaza for humanitarian aid, with President Joe Biden urging Israel to increase expenses.
-
-🟩
-
-President Joe Biden has announced that the US will construct a port along the Gaza coast for distributing humanitarian aid products.
-
-President Baidan also said that Israel should allow Gaza to allow more and more expenses.
-
-◼️
-
-[Data](articles/e647a12c.json)
-
-[Extended Data](ext_articles/e647a12c.ext.json)
-
----
-
-### An IMF conversation for the opposition
-
-*2024-03-08 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194286) · `si`
-
-President Ranil Wickremesinghe is discussing IMF proposals in a meeting at the Presidential Secretariat on Monday.
-
-🟩
-
-President Ranil Wickremesinghe has taken steps to hold a discussion with the International Monetary Fund's proposals.
-
-President Ranil Wickremesinghe has summoned a meeting at the Presidential Secretariat on Monday (11) at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/bc4c52a8.json)
-
-[Extended Data](ext_articles/bc4c52a8.ext.json)
-
----
-
-### Women's Day programme at Nalanda College
-
-*2024-03-08 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Women-s-Day-programme-at-Nalanda-College/110-278485) · `en`
-
-A ceremony was held today at Nalanda College in view of International Women's Day by the Community Police Unit in Colombo. Inspector General of Police (IGP) Deshabandu Tennakoon participated at the event. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/c36d3a7c.json)
-
-[Extended Data](ext_articles/c36d3a7c.ext.json)
-
----
-
-### Ramya Wenigasekara
-
-*2024-03-08 11:05:49* · [`adalk`](https://www.ada.lk/breaking_news/රම්‍යා-වනිගසේකර-සමුගනියි/11-408491) · `si`
-
-Ramya Wanigasekara, a renowned radio announcer, passed away at 88. Born in 1936 in Kegalle, she joined radio in 1980 and became a beloved figure in teledrama and movies.
-
-🟩
-
-Ramya Wanigasekara, a veteran radio announcer and Rangana, has been deternated this morning.
-
-The age of 88 years of the age of 88, 1936, in general area, Kegalle, Kegalle.
-
-In 1974, Vedaka was connected to theater and joined the radio in 1980. From 1981 since 1981, she served as a retreating horticide announcement. After taking the source of events, she served on a contract basis for its contract basis.
-
-As well as her abilities were rantized in the performance. So she was close to the audience along with teledrama and movies.
-
-Later, she had died this morning while she was receiving treatment at the National Hospital.
-
-◼️
-
-[Data](articles/858edd14.json)
-
-[Extended Data](ext_articles/858edd14.ext.json)
-
----
-
-### President to convene meeting with opposition party leaders, IMF delegation on Monday
-
-*2024-03-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97815/president-to-convene-meeting-with-opposition-party-leaders-imf-delegation-on-monday) · `en`
-
-President Ranil Wickremesinghe has convened a meeting on Monday (March 11) with the leaders of opposition parties in parliament and the visiting high-level delegation of the International Monetary Fund (IMF).
-
-During the meeting, scheduled to be held at the Presidential Secretariat, the opposition party leaders will be given the opportunity to discuss the IMF’s proposal with the high-level delegation.
-
-◼️
-
-[Data](articles/0768d3e2.json)
-
-[Extended Data](ext_articles/0768d3e2.ext.json)
-
----
-
-### President to convene meeting with opposition’s party leaders, IMF delegates on Monday
-
-*2024-03-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97815/president-to-convene-meeting-with-oppositions-party-leaders-imf-delegates-on-monday) · `en`
-
-President Ranil Wickremesinghe has convened a meeting on Monday (March 11) with the leaders of accepted opposition parties in parliament and the visiting high-level delegation of the International Monetary Fund (IMF).
-
-During the meeting, the opposition party leaders will be offered the chance to discuss the IMF’s proposals with the delegates.
-
-In a proactive move, Leader of the Opposition Sajith Premadasa, leader of the National People’s Power (NPP) Anura Kumara Dissanayake, and Tamil National Alliance (TNA) leader S. Sridharan have been invited to participate in these deliberations.
-
-The meeting is slated to be held at the Presidential Secretariat, with an open invitation extended to interested individuals to join alongside the invited leaders.
-
-...
-
-[Data](articles/77f62735.json)
-
-[Extended Data](ext_articles/77f62735.ext.json)
-
----
-
-### Rajiv Gandhi assassination convict Sriharan moves Indian court for Sri Lankan passport, UK visa
-
-*2024-03-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97814/rajiv-gandhi-assassination-convict-sriharan-moves-indian-court-for-sri-lankan-passport-uk-visa) · `en`
-
-V Sriharan alias Murugan, key convict in former prime minister Rajiv Gandhi assassination case who was freed in 2022, has moved India’s Madras high court for permission to attend visa interview for travel to the United Kingdom, and also to visit Sri Lanka consulate in Chennai to process his travel documents.
-
-A division bench of justice M S Ramesh and Justice Sunder Mohan, before which the petition filed by S Nalini on behalf of her husband Sriharan came up for hearing on Thursday, however, told her counsel S Duraiswamy and V Elangovan that the bench could not hear the case as Justice Sunder Mohan had appeared for CBI in the Rajiv Gandhi assassination case.
-
-The bench said it would refer the case to the chief justice, to be posted before another bench.
-
-...
-
-[Data](articles/ee9431da.json)
-
-[Extended Data](ext_articles/ee9431da.ext.json)
 
 ---

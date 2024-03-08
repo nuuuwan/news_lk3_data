@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 18:08:38**
+As of **2024-03-08 18:20:26**
 
 ## Newspaper Stats
 
-*Scraped **11,713** Articles*
+*Scraped **11,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 614
 dailyftlk | 617
 islandlk | 627
 adalk | 995
-tamilmirrorlk | 1,413
+tamilmirrorlk | 1,414
 adaderanalk | 1,423
 virakesarilk | 1,612
 dailymirrorlk | 1,785
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,713 (100.0%) of 11,713 articles have been extended.
+11,713 (100.0%) of 11,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### கடும் கெடுபிடிகளுக்கு மத்தியில்  வெடுக்குநாறிமலையில்  வழிபாடு
+
+*2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடும்-கெடுபிடிகளுக்கு-மத்தியில்-வெடுக்குநாறிமலையில்-வழிபாடு/72-334387) · `ta`
+
+வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்டநிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
+
+மகாசிவராத்திரி தினத்தினை முன்னிட்டு அது தொடர்பான ஏற்பாடுகளை செய்துகொண்டிருந்த ஆலயத்தின் பிரதம பூசாரி மற்றும் நிர்வாக உறுப்பினர் ஆகியோர்    நெடுங்கேணி பொலிஸாரால் வியாழக்கிழமை (07) கைதுசெய்யப்பட்டிருந்தனர்.
+
+இதனையடுத்து  ஆலயத்தினை சுற்றி விசேட அதிரடிப்படை மற்றும் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளதுடன் ஆலயத்திற்கு செல்லும் பிரதான பாதைக்கு பொலிஸ் வீதித்தடை போடப்பட்டு. அந்த பகுதிக்குள் வசிப்பவர்கள் மாத்திரம் பொலிஸாரின் விசாரணைக்கு பின்னர் உள்ளே அனுமதிக்கப்பட்டனர்.
+
+இதேவேளை மகாசிவராத்திரி வழிபாட்டிற்காக தூர இடங்களில் இருந்து வருகைதந்த பொதுமக்கள், உள்ளே செல்லமுடியாதவாறு பிரதான வீதியில் தரித்து நின்றனர்.
+
+சம்பவ இடத்திற்கு பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், செல்வராசா கஜேந்திரன், வேலன் சுவாமிகள்,ரவிகரன் ஆகியோரும் பிரசன்னமாகியிருந்தனர்
+
+...
+
+[Data](articles/7070d6e0.json)
+
+---
 
 ### Save foreign woman
 
@@ -2293,21 +2313,5 @@ In Sri Lanka, companies that have embraced gender equality and diversity have re
 [Data](articles/019d906d.json)
 
 [Extended Data](ext_articles/019d906d.ext.json)
-
----
-
-### #InspireInclusion – “Count Her In”
-
-*2024-03-08 06:02:01* · [`dailyftlk`](https://www.ft.lk/columns/InspireInclusion-Count-Her-In/4-759290) · `en`
-
-The International Women's Day (IWD) is a global celebration of achievements of women in a multitude of spheres – economic, social, cultural, and political.  As we celebrate IWD 2024 with the theme #InspireInclusion – “Count Her In”, it may be worthwhile to reflect upon what ‘inclusion’ means.
-
-Inclusion is the state of being valued, respected, and supported for one’s authentic self.  Therefore, it is essential that we embrace women as their authentic selves and reaffirm our commitment to creating a world where women are valued, empowered and included.  The theme recognizes that, despite progress, women face significant obstacles to achieve equal participation in the economy and calls for ensuring equal opportunity for women and girls to build their capabilities and strengthen their capacity to learn, earn, and lead.
-
-...
-
-[Data](articles/3da81244.json)
-
-[Extended Data](ext_articles/3da81244.ext.json)
 
 ---

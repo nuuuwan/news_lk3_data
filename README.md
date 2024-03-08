@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 06:16:36**
+As of **2024-03-08 06:53:24**
 
 ## Newspaper Stats
 
-*Scraped **11,588** Articles*
+*Scraped **11,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ dbsjeyarajcom | 177
 newsfirstlk | 363
 economynextcom | 605
 dailyftlk | 613
-islandlk | 613
+islandlk | 627
 adalk | 983
 tamilmirrorlk | 1,404
 adaderanalk | 1,408
 virakesarilk | 1,595
 dailymirrorlk | 1,766
-adaderanasinhalalk | 1,818
+adaderanasinhalalk | 1,819
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,579 (99.9%) of 11,588 articles have been extended.
+11,587 (99.9%) of 11,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### අද සවස් කාලයේදී වැසි
+
+*2024-03-08 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194274) · `si`
+
+අද (08) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් එලෙස වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/29e5fac0.json)
+
+---
 
 ### NPP and bird cage economy
 
@@ -43,6 +59,8 @@ It was Chen Yun, a theoretical economist and a Chinese Communist Party Politburo
 ...
 
 [Data](articles/2b7c47bc.json)
+
+[Extended Data](ext_articles/2b7c47bc.ext.json)
 
 ---
 
@@ -58,6 +76,54 @@ n The salary hikes at the CBSL could set a precedent for similar demands across 
 
 [Data](articles/e799dd20.json)
 
+[Extended Data](ext_articles/e799dd20.ext.json)
+
+---
+
+### Empowering women and nurturing communities: Bogawantalawa Teas supports its female cadre
+
+*2024-03-08 05:45:00* · [`islandlk`](http://island.lk/empowering-women-and-nurturing-communities-bogawantalawa-teas-supports-its-female-cadre/) · `en`
+
+Bogawantalawa Teas prioritizes social responsibility in its tea cultivation, manufacturing, and marketing. This commitment is embedded in its Sustainability Policy, focusing on employee, community, and societal well-being. The company implements initiatives aligned with the UN Women Empowerment Principles, aiming to enhance gender equality and women’s rights in tea plantation communities.
+
+The company ensures fair labour practices, promoting equal treatment and pay for all employees. It actively prevents child labour, supports women’s freedom to associate, and offers training for career advancement.
+
+Bogawantalawa engages with local NGOs and government bodies to address women’s specific needs and enhance their employability through education and vocational training. It partners with healthcare providers to improve healthcare access and sanitation for women.
+
+...
+
+[Data](articles/0cb32e00.json)
+
+---
+
+### Hemas Hospitals celebrates International Women’s Day with HER MARCH
+
+*2024-03-08 05:45:00* · [`islandlk`](http://island.lk/hemas-hospitals-celebrates-international-womens-day-with-her-march/) · `en`
+
+Marking International Women’s Day, Hemas Hospitals has unveiled “HER MARCH”, an initiative dedicated to sparking discussions and action on women’s wellness and the critical role of preventive healthcare. With a steadfast commitment to enhancing the health and wellbeing of women across Sri Lanka, underscored by patient-centric care, Hemas Hospitals introduces an array of specially curated packages for women. These comprehensive health assessments are provided at attractive prices, and are available through various banks and a widely available digital healthcare platform, for a limited time.
+
+...
+
+[Data](articles/bae11efc.json)
+
+---
+
+### Peter Dooley Naval Institute of Germany supporting training of SL seafarers
+
+*2024-03-08 05:45:00* · [`islandlk`](http://island.lk/peter-dooley-naval-institute-of-germany-supporting-training-of-sl-seafarers/) · `en`
+
+Peter Dooley Naval Institute of Germany has expressed its willingness to provide technical training for Sri Lankan seafarers.On March 6, Rainer Sterk, the training manager of that institution, informed Minister of Ports and Shipping Nimal Siripala de Silva about the project at the minister’s office.
+
+Stark said that at present, the Peter Dooley Naval Institute provides technical training to seafarers in many countries, including the Philippines, and 15 youths have been trained as merchant marine cadets, jointly with the Central Marine Institute of Sri Lanka.
+
+Minister Nimal Siripala de Silva expressed his thanks to Stark and requested that a program be prepared for the training of merchant mariners jointly with the Mahapola Maritime Academy in the future.
+
+Stark, who responded positively to the minister’s request, told the minister that he would discuss with the top management of the Peter Dooley Institute and prepare an urgent program.
+
+...
+
+[Data](articles/da6cb8d9.json)
+
 ---
 
 ### Expanding Ed-tech through partnerships and AI to improve quality education: Insights for Sri Lanka
@@ -71,6 +137,8 @@ Use of technology in education has notably enhanced productivity and
 ...
 
 [Data](articles/984ce4dd.json)
+
+[Extended Data](ext_articles/984ce4dd.ext.json)
 
 ---
 
@@ -98,6 +166,8 @@ He said the Gazette pertaining to the restructuring of the Ceylon Electricity Bo
 
 [Data](articles/69c91404.json)
 
+[Extended Data](ext_articles/69c91404.ext.json)
+
 ---
 
 ### Commonwealth Enterprise and Investment Council Chie completes successful visit to SL
@@ -113,6 +183,8 @@ Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland con
 ...
 
 [Data](articles/61f4ff60.json)
+
+[Extended Data](ext_articles/61f4ff60.ext.json)
 
 ---
 
@@ -131,6 +203,8 @@ The program was organised under the theme “Equity and equality for her”.
 ...
 
 [Data](articles/cd5d57e7.json)
+
+[Extended Data](ext_articles/cd5d57e7.ext.json)
 
 ---
 
@@ -154,6 +228,56 @@ Ministerial Consultative Committee on Water Supply and Estate Infrastructure Dev
 
 [Data](articles/8f26acb9.json)
 
+[Extended Data](ext_articles/8f26acb9.ext.json)
+
+---
+
+### KIST launches new squeezable bottles for its sauce range
+
+*2024-03-08 05:28:00* · [`islandlk`](http://island.lk/kist-launches-new-squeezable-bottles-for-its-sauce-range/) · `en`
+
+Cargills Food & Beverages Limited, renowned for producing a wide range of food and beverages under the trusted Sri Lankan brand KIST, is launching an exotic sauce collection in an easy-to-use squeezable bottle named ‘KIST Squeeasy Buddy.’ This collection embodies the concept of a culinary companion, designed to support day-to-day cooking needs.
+
+The introduction of this range confirms that KIST is a versatile sauce brand catering to the needs of today’s customers, including travelers, home chefs, foodies, gourmet food enthusiasts, and party mavens. Known for its popular regular sauce range, featuring classics like Tomato, Chilli, Hot Chilli, Sweet & Sour, and Garlic, KIST is expanding its horizons with this new sauce line.
+
+The range encompasses various sauce categories, such as cooking sauces, dressings, dips, and specially crafted sauces for meat dishes.
+
+...
+
+[Data](articles/03caaaff.json)
+
+---
+
+### Commonwealth Enterprise and Investment Council chairman Lord Marland’s Sri Lanka visit a resounding success
+
+*2024-03-08 05:28:00* · [`islandlk`](http://island.lk/commonwealth-enterprise-and-investment-council-chairman-lord-marlands-sri-lanka-visit-a-resounding-success/) · `en`
+
+Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland concluded a successful 3-day visit to Sri Lanka as part of a larger trip to South and South East Asia. The visit presented a significant opportunity to foster further ties between the government, business sector, and the CWEIC.
+
+CWEIC is a commercial, not-for-profit membership organisation with an official mandate from the Commonwealth Heads of Government to facilitate trade and investment throughout the 56 Commonwealth member nations. CWEIC has multiple Strategic Partners (members) in Sri Lanka including Port City Colombo, Capital Maharaja Group, Hypower Engineering International, and LOLC Holdings from the Private sector. In 2023, the Government of Sri Lanka rejoined as a Strategic Partner. Lord Marland’s visit showcased promising opportunities for international investors, particularly in Sri Lanka’s vibrant hospitality, energy, and financial service sectors.
+
+...
+
+[Data](articles/7093ca1d.json)
+
+---
+
+### Big power brinkmanship and that elusive ship in Red Sea
+
+*2024-03-08 04:07:00* · [`islandlk`](http://island.lk/big-power-brinkmanship-and-that-elusive-ship-in-red-sea/) · `en`
+
+There appears to be confusion over diverse reports on the deployment of a Sri Lanka Navy ship in the Red Sea, to participate in a US-led military operation against Houthi ship attacks. President Ranil Wickemesinghe has remarked on this mission at various events, but it is still not clear whether a vessel is to be sent, has already been sent, or will not be sent.
+
+Over the past several weeks, media reports have conveyed that:
+
+– The Red Sea deployment to join the US-led “Operation Prosperity Guardian” is unlikely, as none of the Offshore Patrol Vessels in service with the SLN are equipped to operate in a missile environment (The Island 07.02.24)
+
+– No ship has still been sent (The Sunday Times 18.02.24 citing a foreign ministry source)
+
+...
+
+[Data](articles/a4395da4.json)
+
 ---
 
 ### Firing in Canada: 6 Sri Lankans killed
@@ -175,6 +299,34 @@ A Sri Lankan citizen suspect has been arrested in connection with the incident. 
 [Data](articles/797a95b0.json)
 
 [Extended Data](ext_articles/797a95b0.ext.json)
+
+---
+
+### Envoy Kananathan and Central African Republic President Faustin Touadéra hold talks
+
+*2024-03-08 03:49:00* · [`islandlk`](http://island.lk/envoy-kananathan-and-central-african-republic-president-faustin-touadera-hold-talks/) · `en`
+
+Sri Lanka’s envoy to Kenya, Kana Kananathan, yesterday (07) had talks with Central African Republic President Faustin-Archange Touadéra in the Central African Republic. The discussions revolved around enhancing bilateral ties, emphasising potential collaboration avenues. Talks also focussed on mining opportunities for Sri Lankans in the Central African Republic.
+
+President Touadéra and High Commissioner Kananathan’s dialogue underscored a mutual commitment to strengthening economic bonds and establishing strategic partnerships. The primary goal is to optimise the abundant mineral wealth in the Central African Republic for the benefit of Sri Lankan entrepreneurs, fostering shared growth and prosperity.
+
+The Central African Republic stands out for its wealth in diamonds, gold, uranium, iron ore, copper, and manganese.
+
+...
+
+[Data](articles/8713aa06.json)
+
+---
+
+### Battle against corruption
+
+*2024-03-08 03:29:00* · [`islandlk`](http://island.lk/battle-against-corruption/) · `en`
+
+We as a nation had many names officially and many unofficially such as Pearl of the Indian Ocean, Teardrop Isle, Serendipitous Land, Paradise, Land of the Lotus Eaters. We were famous for our smiles and friendliness; the modest charm of our youth; scenic wonders and the fast and easy accessibility of vastly different climatic conditions, vegetation and terrain. Ceylon was known for its tea. Most of those complimentary names are now obliterated by what we are currently recognised for: corruption; being a country with people up to all sorts of dishonest practices and corruption rife from top to bottom. Well known was a Cabinet Minister asking for a santhosam from a country to accept a project! He still sits in Parliament, nodding many times.
+
+...
+
+[Data](articles/4abdf338.json)
 
 ---
 
@@ -277,6 +429,8 @@ Educating school teachers on energy conservation can lead to a brighter future w
 ...
 
 [Data](articles/5cca84eb.json)
+
+[Extended Data](ext_articles/5cca84eb.ext.json)
 
 ---
 
@@ -555,6 +709,20 @@ Navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sr
 [Data](articles/271a625f.json)
 
 [Extended Data](ext_articles/271a625f.ext.json)
+
+---
+
+### IMF program is exhibiting promising signs of efficacy – IMF Mission Chief for Sri Lanka
+
+*2024-03-07 22:26:00* · [`islandlk`](http://island.lk/imf-program-is-exhibiting-promising-signs-of-efficacy-imf-mission-chief-for-sri-lanka/) · `en`
+
+During the meeting between President Ranil Wickremesinghe and the IMF team at the Finance Ministry today (07), Peter Breuer, the Senior Mission Chief for Sri Lanka, delivered encouraging remarks. Breuer emphasized that the IMF program is exhibiting promising signs of efficacy, translating into tangible outcomes. He commended the authorities for their unwavering commitment to the program’s implementation, noting that such dedication is instrumental in driving positive change.
+
+Mr. Breuer further expressed his satisfaction at witnessing the economy starting to turn around, underscoring the significance of this progress. This statement resonated with both President Wickremesinghe and the IMF team, highlighting the collective efforts and collaboration that have contributed to Sri Lanka’s economic recovery.
+
+...
+
+[Data](articles/50ce97bd.json)
 
 ---
 
@@ -2053,229 +2221,5 @@ Accordingly, special train services are scheduled to operate on March 8, 9 and 1
 [Data](articles/ab994ec6.json)
 
 [Extended Data](ext_articles/ab994ec6.ext.json)
-
----
-
-### 'State Music Awards' Nelum Pokuna
-
-*2024-03-07 16:03:21* · [`adalk`](https://www.ada.lk/breaking_news/’රාජ්‍ය-සංගීත-සම්මාන-උලෙළ’-නෙළුම්-පොකුණ-සරසයි/11-408480) · `si`
-
-"Nelum Pokuna's 'State Music Awards Festival' honored Sangithabhima Vidyalaya's Devananda Devananda and Anthony Surathrandra with lifetime achievement awards, presented by the Ministry of Cultural Affairs and the State Music Advisor. Notable attendees included Prof. Mahanamba Wickremasinghe and Prince Mahanamba Wickramasinghe."
-
-🟩
-
-The 'State Music Awards Festival was held at the main objective of the main objective of' 'Tomorrow Tomorrow' for tomorrow.
-
-Sangithabhima Vidyalaya Vidyalaka Devananda Devananda and Anthony Surathrandra receives only once in life.
-
-Awards and Certificates were presented as awarded awards, merit awards, jury special assessment under the children, women's and male.
-
-Buddhasasana Religious and Cultural Affairs, Secretary of the Ministry of Cultural and Cultural Affairs, the Director of Cultural and Cultural Affairs of the Ministry of Cultural Affairs, the Director of Cultural Affairs and the State Music Advisor jointly organized the award..
-
-Vice Chancellor of the University of Aesthetic University Prof. Mahanamba Wickremasinghe, Prince Mahanamba Wickramasinghe, of the President of the State Music Panel were present at the occasion.
-
-◼️
-
-[Data](articles/2f589eae.json)
-
-[Extended Data](ext_articles/2f589eae.ext.json)
-
----
-
-### Sri Lanka considering nuclear power as an energy option: Min
-
-*2024-03-07 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-considering-nuclear-power-as-an-energy-option-min-153681/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s government is considering nuclear power as an option and has secured Cabinet approval, Minister of Power and Energy Kanchana Wijesekera said.
-
-“We are in the process of calling EOIs, so we are evaluating certain things,” Wijesekara said at a press briefing on Thursday.
-
-Wijesekera said that in order to develop nuclear power, a legal framework must be put in place as well as plans on dealing with an emergency.
-
-“We have got the cabinet approval to call for EOIs from suitable investors to establish a nuclear power plant in Sri Lanka, but before you establish a nuclear power plant there are certain legal frameworks required by global agencies.
-
-“There are certain criteria that we need to fulfil so we are in the process of doing that.”
-
-In November 2023, Wijesekara told parliament that several countries including Russia, France and the United States had offered to collaborate with Sri Lanka on nuclear technology.
-
-...
-
-[Data](articles/b64f1d7a.json)
-
-[Extended Data](ext_articles/b64f1d7a.ext.json)
-
----
-
-### The activities that affect the people in the Mannar Island area should be completely stopped
-
-*2024-03-07 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178171) · `ta`
-
-Activities in Mannar Island, including heavy sand excavations and wind power towers, are secretly set up, affecting local fishermen's livelihoods. Indian fishermen's actions are seen as attempts to destroy these livelihoods. Despite efforts over 10 years, no decision has been made. Mannar district residents are united to protect Mannar Island from foreign powers.
-
-🟩
-
-Indian fishermen are taking place to destroy the livelihood of our fishermen. In this backdrop, the Mannar Citizens Committee Chairman Aruttantha Sakamas Adikallar said that the process of setting up of heavy sand excavations and wind power generation towers in the Mannar Island area is in secret.
-
-He was speaking at a media briefing held at the office in Mannar on Thursday (7) afternoon.
-
-Our fishermen are unable to live due to the violation of Indian fishermen. Although we have made various efforts over the past 10 years, there has been no decision.
-
-Thousands of Indian dragons come to the Sri Lankan waters and destroy the fishermen's property and the property of fishermen. This affects the livelihood of our fishermen.
-
-The action of Indian fishermen is aimed at destroying the livelihood of our fishermen.
-
-The people of Mannar district have joined hands with us to protect Mannar Island. Other foreign powers are trying to be a prosperous Mannar soil.
-
-...
-
-[Data](articles/0f28fe2e.json)
-
-[Extended Data](ext_articles/0f28fe2e.ext.json)
-
----
-
-### Rohitha Abeygunawardena as the new chairman of the Cobb group
-
-*2024-03-07 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178178) · `ta`
-
-Rohitha Abeygunawardena, Sri Lanka's parliamentarian, is now the Chairman of the Government Responsibility Committee (COPE Committee).
-
-🟩
-
-Sri Lanka PA's parliamentarian Rohitha Abeygunawardena has been elected as the new Chairman of the Government Responsibility Committee (COPE Committee) today (07).
-
-◼️
-
-[Data](articles/14609293.json)
-
-[Extended Data](ext_articles/14609293.ext.json)
-
----
-
-### There is a hot situation to many areas tomorrow
-
-*2024-03-07 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194255) · `si`
-
-The Department of Meteorology warns of high temperatures in multiple areas tomorrow.
-
-🟩
-
-The Department of Meteorology issued a new statement that heat at several places tomorrow (08).
-
-◼️
-
-[Data](articles/a549dcb0.json)
-
-[Extended Data](ext_articles/a549dcb0.ext.json)
-
----
-
-### The fee for the new power connection will be paid on the basis of installment - Kanjana Wijesekera
-
-*2024-03-07 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178166) · `ta`
-
-Kanjana Wijesekera explains new power connection fees, including installment payments and high fees for reconnections. MP H. Dharmasena questions the economic impact, highlighting the cost of power supply and the need for affordability. The Minister of Power and Energy responds, emphasizing timely payments and installment plans.
-
-🟩
-
-The first phase of the new power connection will be provided to the first phase of the service fee for the first phase and the payment of high fees on installment.. The additional fee of Rs.
-
-In response to questions posed by MP H. Dharmasena during the query questions at the session held in Parliament yesterday (07).
-
-The fees obtained when the power cut off and re -connection is used for the power sector service management structure. Accordingly, in the year 2019, the electricity connections have been earmarked for about Rs 78 lakh.
-
-In 2023. Steps have been taken to incorporate 120 MW of electricity through the Uma Oya project.
-
-The power plant has been reduced from midnight on the 4th of last month. He said special attention has been paid to generate more electricity through the windmill, solar system and water industry by limiting the power supply through fuel and coal.
-
-...
-
-[Data](articles/e11ba9fb.json)
-
-[Extended Data](ext_articles/e11ba9fb.ext.json)
-
----
-
-### Sri Lanka ruling party MP Rohitha Abeygunawardena appointed COPE chair
-
-*2024-03-07 15:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-mp-rohitha-abeygunawardena-appointed-cope-chair-153669/) · `en`
-
-ECONOMYNEXT — Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena has been appointed chairman of the parliamentary Committee on Public Enterprises (COPE).
-
-Meanwhile, MP Lasantha Alagiyawanna appointed as chair of the Committee on Public Accounts (COPA) on Thursday October 07, parliament sources said.
-
-Opposition Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam tweeted Thursday afternoon that MP Abeygunwardena had tried to assault him.
-
-“MP Rohitha Abeygunardena tried to assault me in parliament a short while ago. This happened in the Prime Minister’s office within the parliament complex. I have raised a privilege issue and am concerned for my safety as he has threatened to assault me outside parliament as well,” Rasamanickam said.
-
-...
-
-[Data](articles/2769388f.json)
-
-[Extended Data](ext_articles/2769388f.ext.json)
-
----
-
-### FR petition against Sri Lanka - Thailand trade agreement
-
-*2024-03-07 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194253) · `si`
-
-A fundamental rights petition challenges Sri Lanka-Thailand's Free Trade Agreement, naming the Attorney General, Prime Minister, Cabinet, and Ministry of Cabinet as respondents.
-
-🟩
-
-A fundamental rights petition filed before the Supreme Court demanding an order to issue a prevention of the Free Trade Agreement signed between Sri Lanka and Thailand.
-
-Attorney General, the Attorney General, members including the Prime Minister, members including the Cabinet Members of the Prime Minister and the Ministry of Cabinet Members were named as respondents.
-
-◼️
-
-[Data](articles/5ec8f8d1.json)
-
-[Extended Data](ext_articles/5ec8f8d1.ext.json)
-
----
-
-### The Prime Minister promised the Prime law
-
-*2024-03-07 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194254) · `si`
-
-Prime Minister Dinesh Gunawardena assured Parliament of immediate implementation of the Paradise Law, responding to Opposition Leader's questions. He emphasized the need for a Settlement Committee in banking and the law's revisions over the years. The Cabinet, including the Minister of Finance, agreed to bring amendments to Parliament.
-
-🟩
-
-Prime Minister Dinesh Gunawardena assured Parliament that the Cabinet decision to the Paradise Law is implemented immediately.
-
-The Prime Minister expressed his views in response to a question raised by the Opposition Leader in Parliament.
-
-Speaking further the Prime Minister said that the Settlement Committee in the banking sector should be implemented.
-
-"Opposition leader took this question several times. I fully agree with the law of implementation of this parallel. This has been revised several times in the past years. If you read, you think that you have been revised for ten years. The festival of the first time has now been increased several times. This means that Parliament has done this from the problem with the question, and this is connected to this. So we also decided the Cabinet of the Cabinet as Minister of Finance and bring amendment immediately to Parliament. "
-
-...
-
-[Data](articles/a25c5197.json)
-
-[Extended Data](ext_articles/a25c5197.ext.json)
-
----
-
-### One injury in the blast
-
-*2024-03-07 15:39:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/குண்டு-வெடிப்பில்-ஒருவர்-காயம்/73-334343) · `ta`
-
-A bomb explosion injured one person in Batticaloa, near the Vaharai police station, during land cleaning and burning. The incident occurred on Thursday at 12 noon.
-
-🟩
-
-One person was injured when a bomb exploded in a house in front of the Vaharai police station in Batticaloa. The incident took place on Thursday (07) at 12 noon, Vaharai police said.
-
-The owner of a house in front of the police station was cleaning the land and burning it, he was admitted to the Teaching Hospital when a handgun exploded with a massive noise.
-
-◼️
-
-[Data](articles/aceb4dfe.json)
-
-[Extended Data](ext_articles/aceb4dfe.ext.json)
 
 ---

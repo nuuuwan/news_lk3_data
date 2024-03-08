@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 15:17:38**
+As of **2024-03-08 15:33:27**
 
 ## Newspaper Stats
 
-*Scraped **11,681** Articles*
+*Scraped **11,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ dailyftlk | 617
 islandlk | 627
 adalk | 991
 tamilmirrorlk | 1,413
-adaderanalk | 1,418
+adaderanalk | 1,419
 virakesarilk | 1,608
 dailymirrorlk | 1,781
-adaderanasinhalalk | 1,834
+adaderanasinhalalk | 1,835
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,681 (100.0%) of 11,681 articles have been extended.
+11,681 (100.0%) of 11,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### උතුරු කොරියාව, දකුණේ අගනුවර ඉලක්ක කර පෙරහුරුවක
+
+*2024-03-08 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194293) · `si`
+
+උතුරු කොරියාව ඕනෑම මොහොතක යුද්ධයකට සූදානම් බව පිළිබිඹු කරමින් එරට නායක කිම් ජොං අන්, සිය කාලතුවක්කු හමුදාවේ වෙඩිතැබීමේ පෙරහුරුවක් මෙහෙයවීමට එක්වී තිබේ.
+
+උතුරු කොරියානු රාජ්‍ය ප්‍රවෘත්ති සේවාව සඳහන් කළේ දකුණු කොරියානු දේශසීමාවේ රඳවා ඇති බලඇණියක් එහිදී සතුරු අගනුවරට ප්‍රහාරයක් එල්ල කරන ආකාරය අත්හදාබැලූ බවයි.
+
+මිලියන 10ක ජනකායක් වෙසෙන දකුණු කොරියාවේ සෝල් අගනුවරට ප්‍රහාරයක් එල්ල කිරීම සඳහා අවශ්‍ය බලය මෙමගින් අත්හදාබලා ඇති බව වාර්තා වෙයි.
+
+එමගින් වැදගත් හමුදාමය පෙරහුරුවක් සපුරාලීමට හැකි වූ බවත්, එය තම යුද ශක්තිය විදහා පෑමක් බවත් උතුරු කොරියානු රාජ්‍ය ප්‍රවෘත්ති සේවාව සඳහන් කළේය.
+
+කෙසේ නමුත් උතුරු කොරියාව මෙම ප්‍රහාර එල්ල කර ඇත්තේ දකුණු කොරියාව දෙසට නොව කහ මුහුදටයි.
+
+එම පෙරහුරුව ඊයේ (07) පෙරවරු 11 සිට පස්වරු 5 දක්වා පැවති බව දකුණු කොරියානු ඒකාබද්ධ මාණ්ඩලික ප්‍රධානී කාර්යාලය සඳහන් කළේය.
+
+උතුරු කොරියාව මෙම කාලතුවක්කු ප්‍රහාර පෙරහුරුව සිදුකර ඇත්තේ, දකුණු කොරියාව සහ අමෙරිකා එක්සත් ජනපදය අතර, ඒකාබද්ධ නාවික අභ්‍යාසයක් ක්‍රියාත්මක වන අතරතුර ය.
+
+...
+
+[Data](articles/3396e02d.json)
+
+---
+
+### US to set up temporary port on Gaza coast for aid delivery
+
+*2024-03-08 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97820/us-to-set-up-temporary-port-on-gaza-coast-for-aid-delivery) · `en`
+
+The US military will construct a port in Gaza to get more humanitarian aid into the territory by sea, President Joe Biden has announced.
+
+The temporary port will increase the amount of humanitarian assistance to Palestinians by “hundreds of additional truckloads” per day, officials say.
+
+However, Mr Biden said the initiative will not include US troops on the ground in Gaza.
+
+The UN warns that a quarter of the population is on the brink of famine.
+
+The president made the official announcement during his State of the Union address on Thursday.
+
+He said the port, which will be built by the US military, will involve a temporary pier to transport supplies from ships at sea to the shore.
+
+It is not clear who will build the causeway or secure the aid on land, meaning crucial questions about whether the operation can succeed remain unanswered.
+
+...
+
+[Data](articles/80bbed76.json)
+
+---
 
 ### Government to introduce two bills on gender equality, women’s empowerment
 
@@ -2189,55 +2237,5 @@ President Ranil Wickremesinghe has been compiled in 618 caricatures published in
 [Data](articles/03653283.json)
 
 [Extended Data](ext_articles/03653283.ext.json)
-
----
-
-### Sri Lanka's commitment to the project with the IMF -Peter Brewar
-
-*2024-03-08 01:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178215) · `ta`
-
-Peter Breuer, IMF Chairman, commends Sri Lanka's dedication to IMF projects, praising the government's efforts and progress. President Ranil Wickremesinghe highlights successful economic recovery plans and the importance of joint efforts with the IMF for sustainable growth.
-
-🟩
-
-Peter Breuer, Chairman of the International Monetary Fund, said that the Sri Lankan government praised the firm commitment to the implementation of the project in partnership with the International Monetary Fund and that such dedication would bring about progress.
-
-He made this statement while addressing President Ranil Wickremesinghe at the Ministry of Finance on Thursday (07).
-
-Peter Breauver pointed out that Sri Lanka has appropriately implemented a program with the IMF.
-
-He also congratulated President Ranil Wickremesinghe's dedication of Sri Lanka's economy again.
-
-President Ranil Wickremesinghe pointed out that the government's plan to recover the country from the economic downturn is being successfully implemented.
-
-The President also pointed out that the recognition of Sri Lanka's progress is emphasizing the accepted joint effort to achieve economic growth between Sri Lanka and the International Monetary Fund.
-
-...
-
-[Data](articles/ee0b05f6.json)
-
-[Extended Data](ext_articles/ee0b05f6.ext.json)
-
----
-
-### I welcome the involvement of the opposition parties in activities with the Monetary Fund;Talk with all the opposition on Monday - President
-
-*2024-03-08 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178214) · `ta`
-
-President Ranil Wickremesinghe will discuss incorporating opposition parties in activities with the IMF next Monday. MP Harsha de Silva's request for opposition involvement was welcomed. A book reveals how journalists and caricaturists viewed challenging times in President Wickremesinghe's life, highlighting the economy's recovery and the country's democratic history.
-
-🟩
-
-United People's Power MP Harsha de Silva's request to incorporate opposition parties in activities with the IMF. President Ranil Wickremesinghe said that he will discuss the matter with all the opposition parties next Monday.
-
-Comps vs compiled by MP Vajira Abeywardena to reveal how journalists and caricatists viewed the challenging times in the life of President Ranil Wickremesinghe. Prez "Book was published on Thursday (7) at the Lotus Gallery of Colombo under the leadership of President Ranil Wickremesinghe. Speaking at the event, the President further stated that he said.
-
-Today most people have forgotten what the situation was in 2022. I have forgotten some of them. I could not even find a place to be sworn in as an interim president on that day. In the end, I left the Chief Justice and sworn in in a Vikarai. Some people plotted to surround parliament that day. That effort was thwarted by the military. We have forgotten it today.
-
-...
-
-[Data](articles/a1368cc1.json)
-
-[Extended Data](ext_articles/a1368cc1.ext.json)
 
 ---

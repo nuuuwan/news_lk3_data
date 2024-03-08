@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 23:02:44**
+As of **2024-03-08 23:17:54**
 
 ## Newspaper Stats
 
-*Scraped **11,753** Articles*
+*Scraped **11,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,427
-virakesarilk | 1,619
-dailymirrorlk | 1,794
+virakesarilk | 1,621
+dailymirrorlk | 1,795
 adaderanasinhalalk | 1,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,752 (100.0%) of 11,753 articles have been extended.
+11,753 (100.0%) of 11,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### கீரிமலை நகுலேச்சர ஆலயத்தின் முத்தேர் இரதோற்சவம்
+
+*2024-03-08 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178293) · `ta`
+
+வரலாற்று சிறப்புமிக்க யாழ்ப்பாணம் கீரிமலை நகுலாம்பிகை சமேத நகுலேஸ்வரர் தேவஸ்தானத்தின் வருடாந்த மஹோற்சவத்தின் முத்தேர் இரதோற்சவம் இன்று வெள்ளிக்கிழமை (8) பக்திபூர்வமாக இடம்பெற்றது.
+
+கருவறையில் வீற்றிருக்கும் விநாயகர், நகுலேஸ்வர் நகுலாம்பிகை, முருகன் வள்ளி, தெய்வானை ஆகிய தெய்வங்களுக்கு விஷேட, அபிஷேக இடம்பெற்று, வசந்த மண்டபத்தில் அருள்பாலிக்கும் எம்பெருமானுக்கு அலங்கார தீபராதனை இடம்பெற்று அலங்கரிக்கப்பட்ட மலர்தண்டிகையில் எம்பெருமான் வீற்றிருந்து உள்வீதியூடாக வலம் வந்தார். பின்னர் வெளிவீதியூடாக தேரேறி வலம் வந்து பக்தர்களுக்கு அருள்பாலித்தார்.
+
+இதில் பல பகுதியில் வருகைதந்த பக்தர்கள் கலந்து கொண்டு இஷ்ட சித்திகளை பெற்றுச்சென்றதுடன் தமது நேர்த்திக்கடன்களை நிறைவேற்றிக் கொண்டனர்.
+
+◼️
+
+[Data](articles/b21ce10f.json)
+
+---
 
 ### Govt. planning to implement cluster education system by amalgamating multiple schools
 
@@ -49,6 +65,8 @@ He shared these views during the media briefing at the Presidential Media Centre
 ...
 
 [Data](articles/f321e283.json)
+
+[Extended Data](ext_articles/f321e283.ext.json)
 
 ---
 
@@ -99,6 +117,18 @@ Sen continued the second day of the second day (8) today (8). Jones College. Sac
 [Data](articles/078e272d.json)
 
 [Extended Data](ext_articles/078e272d.ext.json)
+
+---
+
+### Celebrating Maha Shivaratri...
+
+*2024-03-08 21:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Celebrating-Maha-Shivaratri/110-278509) · `en`
+
+Hindu devotees are seen engaged in religious observances at a Hindu temple in Colombo, today to mark Maha Shivaratri. Maha Shivarathri is a Hindu festival celebrated in honour of Lord Shiva and in particular signifies the night when Shiva performs the heavenly dance. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/cd5b2b55.json)
 
 ---
 
@@ -777,6 +807,26 @@ To eliminate this gap, the Union was founded in Parliament at the request of the
 [Data](articles/ccdaffa7.json)
 
 [Extended Data](ext_articles/ccdaffa7.ext.json)
+
+---
+
+### பரந்துபட்ட அரசியல் கூட்டணியில் தேசிய மக்கள் சக்தியும் ஒன்றிணைய வேண்டும் - சுதந்திர மக்கள் சபை
+
+*2024-03-08 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178255) · `ta`
+
+பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமையில் பரந்துபட்ட அரசியல் கூட்டணி எதிர்வரும் 15 ஆம் திகதி ஸ்தாபிக்கப்படும்.
+
+தேசிய மக்கள் சக்தியினரும் இந்த அரசியல் கூட்டணியில் இணைந்துக் கொள்ள வேண்டும் என சுதந்திர மக்கள் சபையின் பிரதிநிதியும்,பாராளுமன்ற உறுப்பினருமான டிலான் பெரேரா தெரிவித்தார்.
+
+கொழும்பில் உள்ள சுதந்திர மக்கள் சபை காரியாலயத்தில் வெள்ளிக்கிழமை (08) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஐக்கிய தேசியக் கட்சியுடன் கூட்டணியமைப்பதற்கு அரசாங்கத்தில் அமைச்சு மற்றும் இராஜாங்க அமைச்சு பதவிகளை வகிப்பவர்கள் ஆர்வம் காட்டியுள்ள நிலையில் அமைச்சு பதவி இல்லாத பொதுஜன பெரமுனவின் உறுப்பினர்கள் அதற்கு எதிர்ப்பு தெரிவித்து வருகிறார்கள்.
+
+ஐக்கிய தேசியக் கட்சியுடன் கூட்டணியமைத்து பொதுத்தேர்தலில் போட்டியிட்டால் ஸ்ரீ லங்கா பெரமுனவுக்கு 20 இற்கும் குறைவான ஆசனங்களே கிடைக்கப் பெறும் அத்துடன் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஐக்கிய தேசியக் கட்சிக்கு முன்னுரிமை வழங்குவார்.
+
+...
+
+[Data](articles/1edbc52c.json)
 
 ---
 
@@ -2295,81 +2345,5 @@ The Navy has educated the Navy in this regard and investigations have commenced 
 [Data](articles/a9fc5ed6.json)
 
 [Extended Data](ext_articles/a9fc5ed6.ext.json)
-
----
-
-### Two persons including Buddhist Thera abducted Valamburi Sangam
-
-*2024-03-08 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178227) · `ta`
-
-A Buddhist Thera and another person were arrested in Kalkuda for abducting Valamburi Sangam. The Special Task Force (STF) apprehended them. Investigations are ongoing, with plans to bring them to court.
-
-🟩
-
-Two persons, including Buddhist Thera, have been arrested with a Valambisang worth Rs.
-
-The Special Task Force (STF) has been arrested on Thursday night in the Kalkuda area, Kalkuda police said.
-
-The police said that steps have been taken to produce in court after the investigation.
-
-◼️
-
-[Data](articles/3807c0d1.json)
-
-[Extended Data](ext_articles/3807c0d1.ext.json)
-
----
-
-### Ramya Wanigasekara: The massive voice personality and excellent performance go out
-
-*2024-03-08 10:27:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2xvgp4kvl4o) · `si`
-
-Ramya Wanigasekara, a renowned Sri Lankan actress and radio personality, passed away. Born on July 17, 1950, in Kegalle, she began her career in stage drama and television, gaining fame for her roles in "Kelani Balama" and "Ranghara Mendis." She also received numerous awards for her contributions to the arts.
-
-🟩
-
-Ramya Wanigasekara: The massive voice personality and excellent performance go out
-
-Ramya Wanigasekara's voice was extinguished by the Sri Lankan radio prisons for a massive voice personality.
-
-She passed away from the Colombo National Hospital.
-
-It is a huge personality in a huge personality as a synagogue actor, a senior news announcer and background.
-
-Wanigasekara was born on 17 July 17 July 1950 in the Kotiyakumbura area in Kegalle.
-
-Her father was an estate superintendent of the Hettimulla and a woman born in Eheliyagoda area.
-
-Ramya Wanigasekara began his primary education at the Hotel College, Kotiyakumbura Maha Vidyalaya.
-
-She was then educated in several schools, the secondary education was completed by Royal College, Ruwanwella.
-
-In 1974, she first joined the stage drama drama, as Chandah Gunatilleke, manufactured by Chanday, as a background singer.
-
-She then served as a background for many stage plays produced by Jayatissa Alahakoon.
-
-...
-
-[Data](articles/64738329.json)
-
-[Extended Data](ext_articles/64738329.ext.json)
-
----
-
-### Police seek public assistance to nab suspect who burgled a foreigner’s house
-
-*2024-03-08 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97813/police-seek-public-assistance-to-nab-suspect-who-burgled-a-foreigners-house-) · `en`
-
-Sri Lanka Police have requested public assistance to apprehend a suspect who is wanted in connection with a robbery in Hikkaduwa.
-
-The suspect is accused of breaking into a house in the Wavulagoda area of Hikkaduwa on January 21, where a foreign woman was residing and stealing around Rs. 760,000 in cash, 02 ATM cards and several other valuables.
-
-Thus, the public has been requested to provide any available information about the suspect (pictured below) by contacting any of the following telephone numbers:
-
-◼️
-
-[Data](articles/12356a4f.json)
-
-[Extended Data](ext_articles/12356a4f.ext.json)
 
 ---

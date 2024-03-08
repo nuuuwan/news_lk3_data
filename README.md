@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 23:52:30**
+As of **2024-03-09 00:02:49**
 
 ## Newspaper Stats
 
-*Scraped **11,758** Articles*
+*Scraped **11,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,428
 virakesarilk | 1,621
-dailymirrorlk | 1,795
+dailymirrorlk | 1,796
 adaderanasinhalalk | 1,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,757 (100.0%) of 11,758 articles have been extended.
+11,758 (100.0%) of 11,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Sri Lanka juggles support for Palestinian cause while deepening ties with Israel
+
+*2024-03-08 23:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-juggles-support-for-Palestinian-cause-while-deepening-ties-with-Israel/108-278531) · `en`
+
+Colombo, March 08 (Daily Mirror) - Sri Lanka is navigating a delicate balance between its support for the two-state solution in Palestine and its efforts to strengthen ties with Israel, as evidenced by recent developments such as the opening of a Honorary Consulate in Haifa , participation in Red Sea operations and opening a fund for children affected by the conflict in Gaza .
+
+The government always articulates Sri Lanka’s traditional stand on the two - state solution to the Palestinian issue , and at the same time, seeks to enhance ties with Israel .
+
+President Ranil Wickremesinghe recently convened a meeting at the Presidential Secretariat with the Ambassadors from ten Middle Eastern nations. Throughout the discussions, the President reemphasized Sri Lanka’s unwavering commitment to the two-state solution in Palestine.
+
+At the same time , Sri Lanka announced its participation in the Red Sea operations to counter Houthi attacks , a move disliked by the envoys of West Asian countries .
+
+...
+
+[Data](articles/0bf8bca2.json)
+
+---
 
 ### Sri Lanka to introduce gender budgeting, new laws on gender equality & women empowerment
 
@@ -161,6 +179,8 @@ Sri Lanka’s central bank had swap lines from the Reserve Bank of India and the
 ...
 
 [Data](articles/a9e639f9.json)
+
+[Extended Data](ext_articles/a9e639f9.ext.json)
 
 ---
 
@@ -2325,33 +2345,5 @@ The bench said it would refer the case to the chief justice, to be posted before
 [Data](articles/ee9431da.json)
 
 [Extended Data](ext_articles/ee9431da.ext.json)
-
----
-
-### 'My child who has lived with the Buddha. What must you feel? '
-
-*2024-03-08 10:49:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyezp7w07d4o) · `si`
-
-The mother of a Sri Lankan family, Jayanthi Ekanayake, mourns the loss of her daughter and grandchildren, expressing her grief and confusion over their sudden deaths.
-
-🟩
-
-The mother of the woman who died of losing his daughter and her children, his daughter and her children, told the BBC Sinhala.
-
-'My child who has lived with the Buddha. What must you feel? '
-
-Internationally, six members of a Sri Lankan family, including four children and four children in Ottawa, is also internationally involved.
-
-The mother of the woman who died of her daughter and her children, Jayanthi Ekanayake commented on BBC Sinhala service.
-
-"My girl lived with my girl and her Buddha. What may you feel at the time. Tell me about this door and tell me to give all the same. We were today, and went tomorrow. Can't tell the moment we die mom. He constantly said. '' Jayanthi Ekanayake said.
-
-A 19-year-old Sri Lankan student who lived with the murder had been arrested by a 19-year-old Sri Lankan student.
-
-◼️
-
-[Data](articles/dd88e433.json)
-
-[Extended Data](ext_articles/dd88e433.ext.json)
 
 ---

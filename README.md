@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 11:02:57**
+As of **2024-03-08 11:17:46**
 
 ## Newspaper Stats
 
-*Scraped **11,642** Articles*
+*Scraped **11,647** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 135
+bbccomsinhala | 136
 dbsjeyarajcom | 177
 newsfirstlk | 363
 economynextcom | 605
 dailyftlk | 617
 islandlk | 627
 adalk | 985
-adaderanalk | 1,413
 tamilmirrorlk | 1,413
-virakesarilk | 1,599
+adaderanalk | 1,415
+virakesarilk | 1,601
 dailymirrorlk | 1,773
 adaderanasinhalalk | 1,827
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 1,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,642 (100.0%) of 11,642 articles have been extended.
+11,642 (100.0%) of 11,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### President to convene meeting with opposition party leaders, IMF delegation on Monday
+
+*2024-03-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97815/president-to-convene-meeting-with-opposition-party-leaders-imf-delegation-on-monday) · `en`
+
+President Ranil Wickremesinghe has convened a meeting on Monday (March 11) with the leaders of opposition parties in parliament and the visiting high-level delegation of the International Monetary Fund (IMF).
+
+During the meeting, scheduled to be held at the Presidential Secretariat, the opposition party leaders will be given the opportunity to discuss the IMF’s proposal with the high-level delegation.
+
+◼️
+
+[Data](articles/0768d3e2.json)
+
+---
+
+### Rajiv Gandhi assassination convict Sriharan moves Indian court for Sri Lankan passport, UK visa
+
+*2024-03-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97814/rajiv-gandhi-assassination-convict-sriharan-moves-indian-court-for-sri-lankan-passport-uk-visa) · `en`
+
+V Sriharan alias Murugan, key convict in former prime minister Rajiv Gandhi assassination case who was freed in 2022, has moved India’s Madras high court for permission to attend visa interview for travel to the United Kingdom, and also to visit Sri Lanka consulate in Chennai to process his travel documents.
+
+A division bench of justice M S Ramesh and Justice Sunder Mohan, before which the petition filed by S Nalini on behalf of her husband Sriharan came up for hearing on Thursday, however, told her counsel S Duraiswamy and V Elangovan that the bench could not hear the case as Justice Sunder Mohan had appeared for CBI in the Rajiv Gandhi assassination case.
+
+The bench said it would refer the case to the chief justice, to be posted before another bench.
+
+...
+
+[Data](articles/ee9431da.json)
+
+---
+
+### சுழிபுரத்தில் புத்தர் சிலை அகற்றப்பட்டதால் போராட்டம் கைவிடப்படுகின்றது - சுகாஷ் அறிவிப்பு
+
+*2024-03-08 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178230) · `ta`
+
+சுழிபுரத்தில் புத்தர் சிலை அகற்றப்பட்டதால் போராட்டம் கைவிடப்படுவதாக தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ் அறிவித்துள்ளார்.
+
+குறித்த பகுதியில் புத்தர் சிலை வைத்ததால் அதனை அகற்றுமாறு கோரி இன்று வெள்ளிக்கிழமை போராட்டம் ஒன்றினை நடாத்துவதற்கு அழைப்பு விடுக்கப்பட்டிருந்தது.
+
+இந்நிலையில் சுழிபுரத்தில் புத்தர் சிலை அகற்றப்பட்டதால் போராட்டம் கைவிடப்படுகின்றது என அவர் தெரிவித்துள்ளார்.
+
+போராடினால் மட்டுமே இனம் வாழும். போராட்டங்களால் எதையும் சாதிக்க முடியாதென்பவர்கள், இனியாவது எம்மோடு கைகோர்ப்பார்கள் என்று நம்புகின்றோம். இனத்துக்காக இறுதிவரை விடிவுவரை போராடுவோம் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6ceea042.json)
+
+---
 
 ### Fishing vessel is back missing
 
@@ -51,6 +99,22 @@ The Navy has educated the Navy in this regard and investigations have commenced 
 [Data](articles/a9fc5ed6.json)
 
 [Extended Data](ext_articles/a9fc5ed6.ext.json)
+
+---
+
+### வலம்புரி சங்கை கடத்திய பௌத்த தேரர் உட்பட இருவர் கைது
+
+*2024-03-08 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178227) · `ta`
+
+மாத்தறையில் இருந்து மட்டக்களப்பிற்கு கடத்தி கொண்டு செல்லப்பட்ட  ஒருகோடி ரூபா பெறுமதியான வலம்புரிசங்குடன் பௌத்த தேரர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களை மட்டு கல்குடா  பிரதேசத்தில் வைத்து நேற்று வியாழக்கிழமை (7) இரவு விசேட அதிரடிப்படையினர் கைது செய்துள்ளதாக கல்குடா பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவர்கள் விசாரணையின் பின்னர் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3807c0d1.json)
 
 ---
 
@@ -236,7 +300,7 @@ A Hamas official told Reuters the United States was in partnership with Israel a
 
 *2024-03-08 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vets-dispute-Pramitha-Bandaras-stray-dog-population-claim-over-data-accuracy/108-278461) · `en`
 
-Colombo, March 8 (Daily Mirror) - The declaration by Defence State Minister Pramitha Bandara Tennakoon in Parliament yesterday regarding the population of stray dogs in the country is without foundation and it is asserted that the State Minister issued this statement without possessing accurate data on the subject, advisor to the Association of Veterinarians for Humane Management of Animal Population,  Dr. Chamith Nanayakkara said.
+Colombo, March 8 (Daily Mirror) - The declaration by Defense State Minister Pramitha Bandara Tennakoon in Parliament yesterday regarding the population of stray dogs in the country is baseless and it is asserted that the State Minister issued this statement without possessing accurate data on the subject, advisor to the Association of Veterinarians for Humane Management of Animal Population,  Dr. Chamith Nanayakkara said.
 
 The State Minister said that some 6.2 million stray dogs are roaming in different parts of the country and that this situation has caused serious issues in tourist areas such as Sigiriya.
 
@@ -999,6 +1063,30 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 [Data](articles/7093ca1d.json)
 
 [Extended Data](ext_articles/7093ca1d.ext.json)
+
+---
+
+### කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක් කැනඩාවේදී 'සමුහ ඝාතනය' කෙරේ
+
+*2024-03-08 04:40:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c80kqvgw1qdo) · `si`
+
+කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක් කැනඩාවේදී 'සමුහ ඝාතනය' කෙරේ
+
+ඔටාවාහිදී කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක සාමාජිකයින්ගේ මරණ "සමූහ ඝාතනයක්" බව කැනේඩියානු පොලිසිය විසින් පවසයි.
+
+මියගිය හයදෙනා කැනඩාවට මෑතකදී පැමිණි අය බවත්, වින්දිතයින්ගෙන් බාලයා මාස තුනකට අඩු වයසින් පසුවන බවත් පොලිසිය කියා සිටියි.
+
+මෙම ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ල වී ඇත්තේ එම පවුල සමඟ ජීවත් වූ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකුට ය.
+
+"මේක තනිකරම අහිංසක මිනිස්සු ටිකකට කරපු  නිරර්ථක ප්‍රචණ්ඩ ක්‍රියාවක්" ඔටාවා හි පොලිස් ප්‍රධානියා  බ්‍රහස්පතින්දා (ඊයේ) පැවසීය.
+
+ඔටාවා ප්‍රාන්තයේ පිහිටි බාර්හේවන් ප්‍රදේශයෙන් ඉකුත් බදාදා එරට දේශීය වේලාවෙන් 22:52ට (ශ්‍රී ලංකා වේලාවෙන් බ්‍රහස්පතින්දා උදෑසන 9.22 ට පමණ) ලද හදිසි ඇමතුම්වලට පොලිස් නිලධාරීන් විසින්  ප්‍රතිචාර දක්වා තිබේ.
+
+එහි පැමිණි සිය නිලධාරීන් ඉක්මනින් සැකකරු හඳුනාගෙන ඇති බවත්, ඔහුව කිසිදු පරිශ්‍රමයකින් තොරව අත්අඩංගුවට ගත් බවත් පොලිස් ප්‍රධානී එරික් ස්ටබ්ස් පැවසීය.
+
+...
+
+[Data](articles/37463290.json)
 
 ---
 
@@ -2079,127 +2167,5 @@ Every 8 women living in this country have the risk of breast cancer. It is very 
 [Data](articles/4b45db74.json)
 
 [Extended Data](ext_articles/4b45db74.ext.json)
-
----
-
-### Basil Mahinda Ranil meets a special meeting
-
-*2024-03-07 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194268) · `si`
-
-Basil Mahinda Ranil hosts a special meeting with Basil Rajapaksa and others. President Mahinda Rajapaksa and President Ranil Wickremesinghe are present. The meeting is expected to be lengthy.
-
-🟩
-
-Political sources say that Basil Rajapaksa and several special parties have come to the island recently.
-
-The sources further states that the President Mahinda Rajapaksa and President Ranil Wickremesinghe are also joined.
-
-It is reported that the meeting will be held at length at length.
-
-◼️
-
-[Data](articles/6ac7388b.json)
-
-[Extended Data](ext_articles/6ac7388b.ext.json)
-
----
-
-### The "War of the North" Cricket Tournament begins today
-
-*2024-03-07 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178201) · `ta`
-
-The "War of the North" Cricket Tournament, featuring Jaffna Central College vs. Jaffna Barioan College, kicked off today. Central College lost all wickets for 157 runs in 56.5 balls, with Sayanthan scoring 55, Newton 24, and Similton 22. Barioan College ended the first day with 109 runs, with Abhiyasan and Kindusan contributing.
-
-🟩
-
-The Central Cricket Tournament between Jaffna Central College and Jaffna Barioan College, which is described as the "War of the North", commenced on Thursday (7).
-
-The tournament, which will be held for the 117th time, will be held this time and the three days of the 7th, 8th and 9th at the Central College Ground in Jaffna.
-
-The inaugural event started at 9 am with two college anthems and two college team players introduced Kaiila.
-
-Jaffna Central College, which won the currency cycle, decided to bat first.
-
-The Jaffna Central College team, who first batted first, stumbled on the Jaffna Barovan College team's great bowling and lost all wickets for 157 runs in 56.5 balls.
-
-Sayanthan scored 55 runs, Newton 24 and Similton 22 for the Jaffna Central College team.
-
-In the bowling, Kavisan took 5 wickets, Madhulan 3 wickets and Randio took one wicket on behalf of the Jaffna Bariyan College team.
-
-...
-
-[Data](articles/5aa64b08.json)
-
-[Extended Data](ext_articles/5aa64b08.ext.json)
-
----
-
-### Can Reduce VAT or Oil Prices - Kanchan
-
-*2024-03-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194267) · `si`
-
-Kanchana Wijesekara, Power and Energy Minister, suggests reducing VAT or oil prices to market a liter of fuel at Rs. 50-55. He mentions reducing electricity fees and restaurant prices, and criticizes the coal price hike.
-
-🟩
-
-Power and Energy Minister Kanchana Wijesekara says that if the VAT is not imposed, a liter of fuel can be marketed at least Rs. 50 to 55 rupees.
-
-At the press conference held at the press conference, the minister expressed these views.
-
-Minister of Power and Energy Kanchantsa Wijesekara, Speaking further,
-
-"The electricity fee reduced on Monday, the restaurants, including Sunday, reduced the amount of increased significant, the increase in the proximity to the increase in the price of a coal price hikeTake "
-
-"The cost of the price formula is not only used to look at a group.. 55 can be reduced "
-
-◼️
-
-[Data](articles/6c49aa89.json)
-
-[Extended Data](ext_articles/6c49aa89.ext.json)
-
----
-
-### Friend's Rs. Five million is friend
-
-*2024-03-07 19:20:19* · [`adalk`](https://www.ada.lk/breaking_news/මිතුරාගේ-රු--මිලියන-5කට-විද්ද-මිතුරා/11-408485) · `si`
-
-A friend with Rs. Five million was reported missing from a Colombo hotel. The police suspect the friend fled after heavy drinking, allegedly stealing money and fleeing from a school. The case is being investigated by the CID OIC Inspector Manathunga.
-
-🟩
-
-Kolupitiya Police say that his friend was sleeping at a hotel in Colombo at a hotel in Colombo.
-
-Police investigations have revealed that the complaint was from school, who fled and stole the complaint and stealing money.
-
-The suspect friend has fled after heavy drinking due to heavy drinking.
-
-The policeman is a resident of Kahawa, police said.
-
-The Criminal Investigation Division OIC of the Criminal Investigation Division (CID) OIC Inspector Manathunga is conducting further investigations on the instructions of the Kollupitiya Police.
-
-◼️
-
-[Data](articles/5bb195aa.json)
-
-[Extended Data](ext_articles/5bb195aa.ext.json)
-
----
-
-### Talks for Gaza ceasefire at a standstill
-
-*2024-03-07 19:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talks-for-Gaza-ceasefire-at-a-standstill/108-278432) · `en`
-
-March 07, (CNN) - A ceasefire deal in Gaza that would see Israeli hostages freed and the first break in the fighting in more than three months is unlikely to happen by the start of Ramadan which the Biden administration had been aiming for, according to sources familiar with the negotiations.
-
-Negotiators had hoped to have a draft agreement this week after days of meetings in Cairo, “but it won’t happen,” said one diplomat familiar with the discussions who described the last few days of talks as “very hectic.”
-
-Two American officials agreed that the prospects are not promising of Israel and Hamas agreeing to the temporary truce by the start of the Muslim holy month early next week.
-
-...
-
-[Data](articles/ed668a94.json)
-
-[Extended Data](ext_articles/ed668a94.ext.json)
 
 ---

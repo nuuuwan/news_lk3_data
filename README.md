@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 07:15:51**
+As of **2024-03-08 07:54:13**
 
 ## Newspaper Stats
 
-*Scraped **11,616** Articles*
+*Scraped **11,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,61 @@ economynextcom | 605
 dailyftlk | 617
 islandlk | 627
 adalk | 983
-tamilmirrorlk | 1,409
 adaderanalk | 1,410
+tamilmirrorlk | 1,411
 virakesarilk | 1,595
-dailymirrorlk | 1,767
+dailymirrorlk | 1,768
 adaderanasinhalalk | 1,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,596 (99.8%) of 11,616 articles have been extended.
+11,615 (100.0%) of 11,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### ஜனாதிபதி விருது பெற்றவர் கைது
+### President, Mahinda, Basil talks end with no decision on alliance
+
+*2024-03-08 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-Mahinda-Basil-talks-end-with-no-decision-on-alliance/108-278460) · `en`
+
+Colombo, March 8 (Daily Mirror) - The meeting among President Ranil Wickremesinghe, Sri Lanka Podujana Peramuna (SLPP) leaders Mahinda Rajapaksa and Basil Rajapaksa ended with no final decision on the formation of an alliance ahead of the pending national elections, Daily Mirror learns .
+
+The three leaders met yesterday to discuss outstanding political matters ahead of the presidential elections slated to be conducted later this year .
+
+Daily Mirror learns that the two SLPP leaders sought clarity on two policy matters - alienation of national assets and power devolution - from the President to decide on the party’s stand to forge an alliance.
+
+...
+
+[Data](articles/cd52d6e7.json)
+
+---
+
+### President's Award recipient arrested
 
 *2024-03-08 06:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/ஜனாதிபதி-விருது-பெற்றவர்-கைது/94-334377) · `ta`
 
-பொலன்னறுவை வலேகடை பிரதேசத்தில் உள்ள தோட்டமொன்றில் தொல்பொருட்களை தோண்டுவதற்கு பயன்படுத்திய கருவிகள் மற்றும் நவீன கார் என்பனவற்றுடன் ஜனாதிபதி விருது பெற்றவர் உட்பட ஐவர்  கைது செய்யப்பட்டதாக பொலன்னறுவை   குற்றப் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
+Five, including a President's Award recipient, arrested for using archaeological digging equipment in Polonnaruwa. Suspects, aged 30-50, from various locations, were found with a scanning machine and cameras. They had permission from the Archaeological Department and were searching for treasure.
 
-கைது செய்யப்பட்ட பிரதான சந்தேகநபர் கடவத்தையை வசிப்பிடமாகவும், ஏனைய சந்தேகநபர்கள் பண்டாரவளை, கலேவெல, கந்தளை, மீரிகம ஆகிய பிரதேசங்களை வசிப்பிடமாகவும் கொண்டவர்கள் எனவும், அவர்கள் 30 முதல் 50 வயதுக்குட்பட்டவர்கள் எனவும்   குற்றப் புலனாய்வுப் பிரிவின் கட்டளைத் தளபதி ஏ.டி. பண்டார   தெரிவித்தார்.
+🟩
 
-பூமிக்கு அடியில் பொருட்கள் உள்ளதா எனப் பார்ப்பதற்காக ஸ்கேனிங் இயந்திரத்துடன் கைது செய்யப்பட்ட 46 வயதுடைய சந்தேகநபர் 1999ஆம் ஆண்டு இயந்திரத்தை உருவாக்கி ஜனாதிபதி விருதைப் பெற்ற பண்டாரவளை பிரதேசத்தைச் சேர்ந்தவர் எனவும் பண்டார தெரிவித்தார்.
+The Polonnaruwa Criminal Investigation Department said that five persons, including the president's award, were arrested with equipment and modern car used for digging archaeologies in a garden in Valegadai area in Polonnaruwa.
 
-பூமிக்கு அடியில் உள்ள அனைத்து பொருட்களும் கமராவாகும் வகையில் இயந்திரமொன்று உருவாக்கப்பட்டுள்ளதாகவும், அவர் உருவாக்கிய இயந்திரத்திற்கு மற்றுமொரு கமெரா கவனமாக பொருத்தப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+The arrested suspect is the resident of Kadawatha and the other suspects are resident of Bandarawela, Galewela, Kandala and Mirigama, and they are aged 30 to 50 years.. Said Bandara.
+
+Bandara said that a 46 -year -old suspect, who was arrested with the scanning machine to see if there were materials underneath, hails from the Bandarawela area who received the President's award in 1999.
+
+Police say that all the material underneath the earth has been created to become a camera and another camera has been carefully fitted to the machine he created.
+
+Police said the suspects had received the permission of the Archaeological Department a few years ago and had arrived in the car to search for the treasure for the second time a week ago.
 
 ...
 
 [Data](articles/52326963.json)
+
+[Extended Data](ext_articles/52326963.ext.json)
 
 ---
 
@@ -66,45 +90,61 @@ Rajapaksa who recalls several of his failures, most notably the organic farming 
 
 [Data](articles/e4633bf9.json)
 
+[Extended Data](ext_articles/e4633bf9.ext.json)
+
 ---
 
-### කැනඩාවේදී ශ්‍රී ලාංකික පවුලක 6 දෙනෙක් ඝාතනය කිරීම ගැන තවත් තොරතුරු
+### More information about the killing of six in Sri Lankan family in Canada
 
 *2024-03-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194276) · `si`
 
-කැනඩාවේ ඔටාවා හි නිවසක් තුළ ශ්‍රී ලාංකික පවුලක 6 දෙනෙකු ඝාතනය කිරීමේ සිද්ධිය පිළිබඳව තවත් තොරතුරු වාර්තා වෙයි.
+In Canada, a Sri Lankan family was killed, including the mother, four children, and a 40-year-old man. The suspect, a 19-year-old Sri Lankan student, was involved. This is the first such incident in Ottawa in three decades.
 
-විදෙස් වාර්තා සඳහන් කළේ, මව සහ ඇයගේ දරුවන් සිව් දෙනෙකු මෙන්ම එම නිවසේ ජීවත් වූ 40 හැවිරිදි පුද්ගලයෙකු සිද්ධියෙන් මිය ගොස් ඇති බවය.
+🟩
 
-මිය ගිය දරුවන් සිව් දෙනාම වයස අවුරුදු හතට අඩු අය බවද වාර්තා වෙයි.
+In Canada's home, 6 more information about the killing of 6 persons with a Sri Lankan family.
 
-ඔටාවා පොලිස් ප්‍රධානියා සඳහන් කළේ සැකකරු 19 හැවිරිදි ෆේබ්‍රියන් ද සොයිසා නමැති කැනඩාවේ අධ්‍යාපනය ලබන ශ්‍රී ලාංකිකයෙකු බවය.
+Foreign reports said that the mother and her four children died in the incident as well as a 40-year-old man who lived in the house.
 
-මෙම සිදුවීම ප්‍රථමයෙන් වෙඩි තැබීමක් ලෙස පොලීසිය දක්වා තිබුණද පසුව ප්‍රකාශ කළේ  ආයුධයකින් ඝාතන සිදුකර ඇති බවය.
+Fourteen children have been identified as seven years old.
 
-දශක තුනක පමණ කාලයකදී ඔටාවා හි මෙවැනි ඝාතනයක් සිදුවූ පළමු අවස්ථාව මෙය වන බව නගරාධිපතිවරයා ප්‍රකාශ කර තිබේ.
+The Chief of Ottawa Police said that the suspect was a Sri Lankan who was studying in Canada, 19-year-old Farbrean de Zoysa.
+
+The incident was first known as a shooting but later stated that a weapon was killed.
+
+The Mayor has said that this is the first time in Ottawa, about three decades.
 
 ◼️
 
 [Data](articles/9fe1961e.json)
 
+[Extended Data](ext_articles/9fe1961e.ext.json)
+
 ---
 
-### வலம்புரி கடத்திய பிக்கு கைது
+### Valamburi abducted Piku arrested
 
 *2024-03-08 06:42:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வலம்புரி-கடத்திய-பிக்கு-கைது/73-334376) · `ta`
 
-மாத்தறையில் இருந்து மட்டக்களப்பு விற்பனைக்காக கடத்தி கொண்டுவரப்பட்ட ஒருகோடி ரூபாய் பெறுமதியன வலம்புரிசங்கு ஒன்றுடன் பௌத்த தேரர் ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளனர்.
+A Buddhist Thera and another person were arrested in Matara for selling a Valamburi conch worth Rs 1 crore. The Special Task Force (STF) rescued them in Kalkuda.
 
-மட்டு கல்குடா  பிரதேசத்தில் வைத்து விசேட அதிரடிப்படையினர்  வியாழக்கிழமை (7) இரவு கைது செய்து தம்மிடம் ஒப்படைத்துள்ளதாக கல்குடா பொலிஸார் தெரிவித்தனர்.
+🟩
 
-தாண்டியடி விசேட அதிரடிப்படைக்கு கிடைத்த தகவல் ஒன்றினையடுத்து விசேட அதிரடிப்படைத் தளபதி சிரேஸ்ட பிரதிப் பொலிஸ் மா அதிபர் வருண ஜயசுந்தரவின் ஆலோசனைக்கமைய அம்பாறை மட்டக்களப்பு உதவிப் பொலிஸ் பணிப்பாளர் வாவிடவிதானவின் வழிகாட்டலின்கீழ்  தாண்டியடி விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி தலைமையிலான குழுவினர்   கல்குடா  தபால் கந்தோருக்கு அருகாமையில் அன்றையதினம் இரவு கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
+Two persons, including a Buddhist Thera, have been arrested for sale from Matara for sale.
 
-இந்த நிலையில் அங்கு பௌத்த தேரர் உட்பட இருவர் வலம்புரிசங்கு ஒன்றை விற்பனைக்காக கடத்தி வந்ததை அவதானித்த விசேட அதிரடிப்படையினர் அவர்களை சுற்றிவழைத்து மடக்கிபிடித்து கைது செய்ததுடன் ஒரு கோடி ரூபாய் பெறுமதியான வலம்புரி சங்கு ஒன்றை மீட்டனர்.
+The Special Task Force (STF) has been arrested on Thursday night in the Kalkuda area and handed over to them, Calcutta police said.
 
-...
+On the advice of the Special Task Force Commander Senior Deputy Inspector General of Police Varuna Jayasundera, Ampara Batticaloa Police Director of the Batticaloa Police, Under the guidance of the Ampara Batticaloa Police.
+
+In this case, the Special Task Force, who observed that two men, including Buddhist Thera had been abducted for sale, were arrested and arrested and rescued a Valamburi conch worth Rs 1 crore.
+
+The police said that the arrests and the proof of the proof and the Special Task Force have been handed over to them after the investigation.
+
+◼️
 
 [Data](articles/0d388d1d.json)
+
+[Extended Data](ext_articles/0d388d1d.ext.json)
 
 ---
 
@@ -126,23 +166,31 @@ Winds will be easterly or north-easterly in the sea areas off the coast extendin
 
 [Data](articles/8ab4dabb.json)
 
+[Extended Data](ext_articles/8ab4dabb.ext.json)
+
 ---
 
-### சாணக்கியனை லிப்டுக்கு அழைத்துச் சென்றேன்: ரோஹித
+### I took Chanakyan to the lift: Rohita
 
 *2024-03-08 06:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாணக்கியனை-லிப்டுக்கு-அழைத்துச்-சென்றேன்-ரோஹித/175-334375) · `ta`
 
-சாணக்கியன் எம்.பி.யை நான் பாதுகாப்பாக பிரதமரிடம் அழைத்து  செல்லவே லிப்டுக்கு   (மின்தூக்கி )அருகில் வருமாறு அழைத்தேன் என அரச தரப்பு எம்.பி.யும் முன்னாள் அமைச்சருமான ரோஹித அபேகுணவர்தன தெரிவித்தார்.
+Rohitha Abeygunawardena, a former state MP, invited Chanakyan MP to the lift, aiming to protect the Prime Minister. Chanakyan accused Abeygunawardena of attacking the Prime Minister, prompting Abeygunawardena to request an investigation by the Private and Disciplinary Committee.
 
-சாணக்கியனின் குற்றச்சாட்டு தொடர்பில்  சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை உடனடியாக முன்னெடுக்க வேண்டுமென   பிரதி சபாநாயகரிடம் வலியுறுத்தி கருத்து தெரிவித்த போதே  ரோஹித அபேகுணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-பிரதமரை சந்திக்க வந்த தன்னை நான் தாக்க முற்பட்டதாக சாணக்கியன் எம்.பி கூறி சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை மேற்கொள்ள வேண்டுமென வலியுறுத்தினார். நான் அந்த விசாரணைக்குழு முன்பாக ஆஜராவேன் .எனக்கு எந்த பிரச்சினையும் இல்லை.
+"I invited the Chanakyan MP to take the Prime Minister safely to the Lift (Mutt)," said Rohitha Abeygunawardena, former state MP and former minister.
 
-பிரதமரை சந்திக்க வந்த சாணக்கியனிடம்'' நீங்கள் பிரதமரையா சந்திக்க வந்தீர்கள்.லிப்டுக்கு வாருங்கள் அழைத்து செல்கின்றேன் என்றே கூறினேனே. அதாவது பிரதமரை சந்திக்க வந்த சாணக்கியன் எம்.பி. யை பாதுகாப்பாக பிரதரிடம் அழைத்து செல்லவே நான் முயற்சித்தேன். ஆனால் இவரிடம் இந்தளவுக்கு பயம் இருக்கும் என்பது எனக்குத்தெரியாது என்றார்.
+Rohitha Abeygunawardena said this while urging the Deputy Speaker to investigate the immediate investigation through the Private and Disciplinary Committee on Chanakyan's allegation.
+
+Chanakyan MP urged the MP to investigate through the Private Committee and the disciplinary committee, saying that I was trying to attack the Prime Minister.. I will appear before that inquiry. I have no problems.
+
+"You came to meet the Prime Minister.". That is, Chanakyan MP who came to meet the Prime Minister. I tried to take it to the Prime Minister safely. But I do not know that he has so much fear.
 
 ◼️
 
 [Data](articles/c99265a1.json)
+
+[Extended Data](ext_articles/c99265a1.ext.json)
 
 ---
 
@@ -190,15 +238,23 @@ Officers then entered the home and discovered the victims, which included a moth
 
 [Data](articles/ace18c91.json)
 
+[Extended Data](ext_articles/ace18c91.ext.json)
+
 ---
 
-### ஆதி லிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரியை தடுக்க முயற்சி
+### Trying to prevent Shivaratri at Adi Lingeshwar Temple
 
 *2024-03-08 06:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதி-லிங்கேஸ்வரர்-ஆலயத்தில்-சிவராத்திரியை-தடுக்க-முயற்சி/175-334374) · `ta`
+
+Attempting to stop Shivaratri celebrations at Adi Lingeshwar Temple.
+
+🟩
 
 ◼️
 
 [Data](articles/53655e61.json)
+
+[Extended Data](ext_articles/53655e61.ext.json)
 
 ---
 
@@ -211,6 +267,8 @@ In Sri Lanka, companies that have embraced gender equality and diversity have re
 ...
 
 [Data](articles/019d906d.json)
+
+[Extended Data](ext_articles/019d906d.ext.json)
 
 ---
 
@@ -225,6 +283,8 @@ Inclusion is the state of being valued, respected, and supported for one’s aut
 ...
 
 [Data](articles/3da81244.json)
+
+[Extended Data](ext_articles/3da81244.ext.json)
 
 ---
 
@@ -242,6 +302,8 @@ Female entrepreneurs around the world have played a very vital role during the p
 
 [Data](articles/b0133f3e.json)
 
+[Extended Data](ext_articles/b0133f3e.ext.json)
+
 ---
 
 ### Freedom from political bondage
@@ -255,6 +317,8 @@ With the disappearance of queues for essential items, and the steadfast repressi
 ...
 
 [Data](articles/24c6b2b8.json)
+
+[Extended Data](ext_articles/24c6b2b8.ext.json)
 
 ---
 
@@ -482,6 +546,24 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 
 ---
 
+### ’சதிகளை எதிர்கொள்ள முடியாமற்போனது’
+
+*2024-03-08 04:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதிகளை-எதிர்கொள்ள-முடியாமற்போனது/175-334371) · `ta`
+
+சர்வதேச சக்திகளும் ஒரு சில உள்நாட்டு தரப்பினரும் என்னை ஜனாதிபதி பதவியில் இருந்து அகற்றுவதற்காக வன்முறையுடன் கூடிய எதிர்ப்புகளையும் நாசகார செயற்பாடுகளையும் வகுத்து, அதற்கான நிதியுதவிகளை வழங்கினர் என்று முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ  நேற்று வெளியிட்ட தனது நூலில் தெரிவித்துள்ளார்.
+
+'ஜனாதிபதி பதவியிலிருந்து என்னை அகற்றுவதற்கான சதி' என்ற பெயரிலான இந்த நூல் நேற்று காலை முதல் விற்பனை செய்யப்பட்டு வருகின்றது.
+
+வைராக்கியம் கொண்ட சர்வதேச சக்திகளும் ஒரு சில உள்நாட்டு தரப்பினரும் தம்மை ஆட்சியிலிருந்து அகற்றும் வரை, அவர்களின் நடவடிக்கைகளை நிறுத்த மாட்டார்கள் என்பதை தாம் அறிந்திருந்ததாக கோட்டாபய ராஜபக்ஷ  தெரிவித்துள்ளார்.
+
+மக்களை பாதிப்பிற்குள்ளாக்கும் வகையில், முன்னெடுக்கப்பட்டு வந்த அரசியல் சதி மற்றும் நாசகார செயல்களை முடிவுக்கு கொண்டு வருவதற்காக தாம் இராஜினாமா செய்ததாகவும் அவர் தனது நூலில் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/2d2c465c.json)
+
+---
+
 ### Big power brinkmanship and that elusive ship in Red Sea
 
 *2024-03-08 04:07:00* · [`islandlk`](http://island.lk/big-power-brinkmanship-and-that-elusive-ship-in-red-sea/) · `en`
@@ -502,23 +584,45 @@ Over the past several weeks, media reports have conveyed that:
 
 ---
 
-### இன்று முதல் விசேட ரயில் சேவைகள்
+### Special train services from today
 
 *2024-03-08 04:06:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-விசேட-ரயில்-சேவைகள்/175-334370) · `ta`
 
-நீண்ட வார இறுதி விடுமுறையை முன்னிட்டு இன்று முதல் விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன.
+Special train services start today for the long weekend, focusing on northern and hill country areas. Services include a train from Colombo Fort to Badulla at 7.30 am, two from Badulla to Colombo Fort at 7.45 am and 5.20 pm on March 10, and a special service from Anuradhapura to Kankesanthurai.
 
-வடக்கு மற்றும் மலையக மார்க்கங்களில் இந்த ரயில் சேவைகள் முன்னெடுக்கப்படும் என ரயில்வே போக்குவரத்து அத்தியட்சகர் என்.எம்.ஜே. இதிபொல தெரிவித்துள்ளார்.
+🟩
 
-நேற்று இரவு தபால் ரயில் சேவைக்கு முன்னதாக பதுளை நோக்கி ரயிலொன்று புறப்பட்டிருந்தது. இன்று காலை 7.30 மணிக்கு கொழும்பு கோட்டையிலிருந்து பதுளை நோக்கி ரயிலொன்று சேவையில் ஈடுபடவுள்ளது.
+Special train services will be carried out from today to mark the long weekend holiday.
 
-அத்துடன், எதிர்வரும் மார்ச் 10 ஆம் திகதி காலை 7.45 மற்றும் மாலை 5.20 மணிக்கு பதுளையிலிருந்து கொழும்பு கோட்டை நோக்கி இரண்டு ரயில்கள் பயணிக்கவுள்ளன.
+Railway Transport Superintendent NMJ says these rail services will be carried out in the northern and hill country.. Having said.
 
-இதனை தவிர இன்று அநுராதபுரத்திலிருந்து காங்கேசன்துறை வரையிலும் விசேட ரயிலொன்று சேவையில் ஈடுபடவுள்ளது. (a)
+A train departed towards Badulla before the postal train service last night. A railway service will be operated from Colombo Fort to Badulla at 7.30 am today.
+
+In addition, two trains will travel from Badulla to Colombo Fort at 7.45 am on March 10 and 5.20 pm.
+
+In addition to this, a special train service will be held from Anuradhapura to Kankesanthurai today. (A)
 
 ◼️
 
 [Data](articles/8a19a5d8.json)
+
+[Extended Data](ext_articles/8a19a5d8.ext.json)
+
+---
+
+### கனடாவில் துப்பாக்கி சூடு: 6 இலங்கையர்கள் பலி
+
+*2024-03-08 04:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கனடாவில்-துப்பாக்கி-சூடு-6-இலங்கையர்கள்-பலி/150-334369) · `ta`
+
+கனடாவின் தலைநகர் ஒட்டாவாவின் தெற்கு பகுதியில் உள்ள வீடொன்றில் 4 குழந்தைகள் உட்பட 6 ஆறு பேரின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+
+தாய், அவரது நான்கு குழந்தைகள் மற்றும் அக்குடும்பத்தின் உறவினர் ஒருவர் என அறுவர் கொல்லப்பட்டுள்ளனர் என்று ஒட்டாவா பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில் இலங்கைப் பிரஜையான சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/43d097b3.json)
 
 ---
 
@@ -969,6 +1073,8 @@ Mr. Breuer further expressed his satisfaction at witnessing the economy starting
 ...
 
 [Data](articles/50ce97bd.json)
+
+[Extended Data](ext_articles/50ce97bd.ext.json)
 
 ---
 
@@ -2105,71 +2211,5 @@ Minister Kanchana Wijesekara was speaking at a special press conference held at 
 [Data](articles/4b532374.json)
 
 [Extended Data](ext_articles/4b532374.ext.json)
-
----
-
-### The Father who was treated with a medical son instead of the country
-
-*2024-03-07 16:45:17* · [`adalk`](https://www.ada.lk/breaking_news/රට-හැර-ගැය-වෛද්‍ය-පුතු-වෙනුවට-රොගීන්ට-ප්‍රතිකාර-කල-පියෙක්/11-408481) · `si`
-
-Biyagama Police arrested a 66-year-old man for exploiting a medical center in Bandarawatta, Biyagama, where he was treated in July 2023. Investigations revealed he had two employees involved. The suspect claimed no medical treatment was needed.
-
-🟩
-
-The Biyagama Police have arrested a 66-year-old man who was admitted to the patients after the passage of the medical son.
-
-According to the Biyagama Police, the Biyagama Police had raided a medical center in Bandarawatta, Biyagama.
-
-Further investigations have been identified by the 66-year-old suspect in July 2023, after exploiting the relevant medical center, he was registered in July 2023 and had been treated in July in July.has. Police investigations have revealed that there were two employees under the suspect.
-
-The arrested suspect has revealed that there is no need for medical treatment or maintaining a medical center
-
-Biyagama police OIC Chief Police Stadium
-
-◼️
-
-[Data](articles/a571c2d8.json)
-
-[Extended Data](ext_articles/a571c2d8.ext.json)
-
----
-
-### Ayalo Arts, who killed Missinaya
-
-*2024-03-07 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194259) · `si`
-
-Ayalo Arts, two brothers accused of killing their brother-in-law in 2004, were sentenced to death.
-
-🟩
-
-Two brothers who were accused of killing their brother-in-law in 2004 were sentenced to death.
-
-◼️
-
-[Data](articles/aee35f5b.json)
-
-[Extended Data](ext_articles/aee35f5b.ext.json)
-
----
-
-### Sri Lanka stocks close up 1-pct, crossings, retail push turnover to 2.6bn
-
-*2024-03-07 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-crossings-retail-push-turnover-to-2-6bn-153693/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 1.51 percent, or 164.18 points, at 11,045; the first time since last October that it went above 11,000. While the S&P SL20 Index closed up 1.52 percent, or 47.15 points, at 3,147.
-
-Turnover topped 2.6 billion. Most of this was from crossings in Lanka Milk Foods (CWE) Plc (216mn) up at 28.00, Central Finance Company Plc (199mn) up at 106.20, and John Keells Holdings Plc (183mn) up at 189.00.
-
-“But there was also significant retail activity; turnover and volume are up, the market is getting quite bullish,” a market participant said. “There are funds coming into equity which is creating a lot of demand.”
-
-They said there was heavy retail activity in LOLC Group after yesterday’s larger crossing; LOLC Holdings Plc (50mn) up at 408.00, LOLC Finance Plc (150mn) up at 5.60, Browns Investments Plc (136mn) up at 5.40.
-
-...
-
-[Data](articles/00e3d587.json)
-
-[Extended Data](ext_articles/00e3d587.ext.json)
 
 ---

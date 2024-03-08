@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 17:33:33**
+As of **2024-03-08 17:53:43**
 
 ## Newspaper Stats
 
-*Scraped **11,712** Articles*
+*Scraped **11,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,413
 adaderanalk | 1,423
 virakesarilk | 1,612
 dailymirrorlk | 1,785
-adaderanasinhalalk | 1,839
+adaderanasinhalalk | 1,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,709 (100.0%) of 11,712 articles have been extended.
+11,712 (100.0%) of 11,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### දියේ ගිලෙමින් සිටි විදෙස් කතක් බේරාගනී
+
+*2024-03-08 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194299) · `si`
+
+කොටවිල පොලිස් වසමේ මිරිස්ස වෙරළ තීරයේ මුහුදේ දියනෑමට ගිය විදෙස් කාන්තාවක් දිය වැලකට හසුව ගසාගෙන ගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ, එම අවස්ථාවේ දී රාජකාරියේ යෙදී සිටි පොලිස් සංචාරක කොට්ඨාසයට අනුයුක්ත ජීවිතාරක්ෂක ඒකකයේ පොලිස් නිලධාරීන් විසින් බේරාගෙන තිබේ.
+
+එලෙස විදෙස් කාන්තාව බේරාගෙන ඇත්තේ සැරයන් 72167 මංජුල, පොලිස් කොස්තාපල් 20373 ළහිරු සහ පොලිස් කොස්තාපල් 19407 ලක්ෂාන් යන නිලධාරීන් විසිනි.
+
+◼️
+
+[Data](articles/5f1cc20d.json)
+
+---
 
 ### Sinkhole in Wellawatta causes traffic restrictions
 
@@ -45,6 +61,8 @@ Motorists commuting to Colombo are advised by the police to consider utilizing t
 ◼️
 
 [Data](articles/2e21e17c.json)
+
+[Extended Data](ext_articles/2e21e17c.ext.json)
 
 ---
 
@@ -86,6 +104,8 @@ However, Minister Fernando confirmed that the appointment of a new Board of Dire
 
 [Data](articles/622480c8.json)
 
+[Extended Data](ext_articles/622480c8.ext.json)
+
 ---
 
 ### Vehicular movement on Galle Road disrupted in Wellawatta
@@ -99,6 +119,8 @@ The police have advised the motorists travelling to Colombo to use the Marine Dr
 ◼️
 
 [Data](articles/5aecd35d.json)
+
+[Extended Data](ext_articles/5aecd35d.ext.json)
 
 ---
 
@@ -2281,23 +2303,5 @@ Inclusion is the state of being valued, respected, and supported for one’s aut
 [Data](articles/3da81244.json)
 
 [Extended Data](ext_articles/3da81244.ext.json)
-
----
-
-### Power of women entrepreneurship in Sri Lanka
-
-*2024-03-08 05:58:57* · [`dailyftlk`](https://www.ft.lk/columns/Power-of-women-entrepreneurship-in-Sri-Lanka/4-759289) · `en`
-
-The Power of Women as Entrepreneurs needs special recognition, and the government needs to facilitate them to find new export markets and financial assistance to expand their businesses.  We all know that the private sector especially, the SME sector is the engine of growth, and most of the businesses are severely affected due to ongoing economic conditions and new Tax systems discourage small businesses from competing with other players in the business.
-
-The aim of this article is to create greater awareness of the role played by Women entrepreneurs and give them due recognition. We will be celebrating Women Entrepreneurs Day on 8 March 2024.
-
-Female entrepreneurs around the world have played a very vital role during the past few decades. The number of women entrepreneurs has increased all across the globe. These female entrepreneurs have proven themselves to be pivotal change-makers in society.
-
-...
-
-[Data](articles/b0133f3e.json)
-
-[Extended Data](ext_articles/b0133f3e.ext.json)
 
 ---

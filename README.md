@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 06:53:24**
+As of **2024-03-08 07:15:51**
 
 ## Newspaper Stats
 
-*Scraped **11,603** Articles*
+*Scraped **11,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,248 @@ bbccomsinhala | 135
 dbsjeyarajcom | 177
 newsfirstlk | 363
 economynextcom | 605
-dailyftlk | 613
+dailyftlk | 617
 islandlk | 627
 adalk | 983
-tamilmirrorlk | 1,404
-adaderanalk | 1,408
+tamilmirrorlk | 1,409
+adaderanalk | 1,410
 virakesarilk | 1,595
-dailymirrorlk | 1,766
-adaderanasinhalalk | 1,819
+dailymirrorlk | 1,767
+adaderanasinhalalk | 1,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,587 (99.9%) of 11,603 articles have been extended.
+11,596 (99.8%) of 11,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### අද සවස් කාලයේදී වැසි
+### ஜனாதிபதி விருது பெற்றவர் கைது
+
+*2024-03-08 06:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/ஜனாதிபதி-விருது-பெற்றவர்-கைது/94-334377) · `ta`
+
+பொலன்னறுவை வலேகடை பிரதேசத்தில் உள்ள தோட்டமொன்றில் தொல்பொருட்களை தோண்டுவதற்கு பயன்படுத்திய கருவிகள் மற்றும் நவீன கார் என்பனவற்றுடன் ஜனாதிபதி விருது பெற்றவர் உட்பட ஐவர்  கைது செய்யப்பட்டதாக பொலன்னறுவை   குற்றப் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட பிரதான சந்தேகநபர் கடவத்தையை வசிப்பிடமாகவும், ஏனைய சந்தேகநபர்கள் பண்டாரவளை, கலேவெல, கந்தளை, மீரிகம ஆகிய பிரதேசங்களை வசிப்பிடமாகவும் கொண்டவர்கள் எனவும், அவர்கள் 30 முதல் 50 வயதுக்குட்பட்டவர்கள் எனவும்   குற்றப் புலனாய்வுப் பிரிவின் கட்டளைத் தளபதி ஏ.டி. பண்டார   தெரிவித்தார்.
+
+பூமிக்கு அடியில் பொருட்கள் உள்ளதா எனப் பார்ப்பதற்காக ஸ்கேனிங் இயந்திரத்துடன் கைது செய்யப்பட்ட 46 வயதுடைய சந்தேகநபர் 1999ஆம் ஆண்டு இயந்திரத்தை உருவாக்கி ஜனாதிபதி விருதைப் பெற்ற பண்டாரவளை பிரதேசத்தைச் சேர்ந்தவர் எனவும் பண்டார தெரிவித்தார்.
+
+பூமிக்கு அடியில் உள்ள அனைத்து பொருட்களும் கமராவாகும் வகையில் இயந்திரமொன்று உருவாக்கப்பட்டுள்ளதாகவும், அவர் உருவாக்கிய இயந்திரத்திற்கு மற்றுமொரு கமெரா கவனமாக பொருத்தப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/52326963.json)
+
+---
+
+### Shavendra and Kamal villains in GR’s new book
+
+*2024-03-08 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-and-Kamal-villains-in-GRs-new-book/108-278459) · `en`
+
+Former President Gotabaya Rajapaksa has acknowledged his shortcomings in appointing key defence personnel, including General Shavendra Silva and General (Retd.) Kamal Gunaratne in his tell-all memoir “The Conspiracy to Oust Me” launched yesterday (March 7).
+
+Rajapaksa recounts the dramatic circumstances which led to his ousting in 2022, describing it as a first-hand experience of an internationally-sponsored regime change operation.
+
+Rajapaksa who recalls several of his failures, most notably the organic farming initiative, also interestingly points out failures in the national security apparatus under his own administration.
+
+“I appointed officers with long years of experience whom I had worked with for many years to the most important positions in the law and order and security apparatus.
+
+...
+
+[Data](articles/e4633bf9.json)
+
+---
+
+### කැනඩාවේදී ශ්‍රී ලාංකික පවුලක 6 දෙනෙක් ඝාතනය කිරීම ගැන තවත් තොරතුරු
+
+*2024-03-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194276) · `si`
+
+කැනඩාවේ ඔටාවා හි නිවසක් තුළ ශ්‍රී ලාංකික පවුලක 6 දෙනෙකු ඝාතනය කිරීමේ සිද්ධිය පිළිබඳව තවත් තොරතුරු වාර්තා වෙයි.
+
+විදෙස් වාර්තා සඳහන් කළේ, මව සහ ඇයගේ දරුවන් සිව් දෙනෙකු මෙන්ම එම නිවසේ ජීවත් වූ 40 හැවිරිදි පුද්ගලයෙකු සිද්ධියෙන් මිය ගොස් ඇති බවය.
+
+මිය ගිය දරුවන් සිව් දෙනාම වයස අවුරුදු හතට අඩු අය බවද වාර්තා වෙයි.
+
+ඔටාවා පොලිස් ප්‍රධානියා සඳහන් කළේ සැකකරු 19 හැවිරිදි ෆේබ්‍රියන් ද සොයිසා නමැති කැනඩාවේ අධ්‍යාපනය ලබන ශ්‍රී ලාංකිකයෙකු බවය.
+
+මෙම සිදුවීම ප්‍රථමයෙන් වෙඩි තැබීමක් ලෙස පොලීසිය දක්වා තිබුණද පසුව ප්‍රකාශ කළේ  ආයුධයකින් ඝාතන සිදුකර ඇති බවය.
+
+දශක තුනක පමණ කාලයකදී ඔටාවා හි මෙවැනි ඝාතනයක් සිදුවූ පළමු අවස්ථාව මෙය වන බව නගරාධිපතිවරයා ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/9fe1961e.json)
+
+---
+
+### வலம்புரி கடத்திய பிக்கு கைது
+
+*2024-03-08 06:42:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வலம்புரி-கடத்திய-பிக்கு-கைது/73-334376) · `ta`
+
+மாத்தறையில் இருந்து மட்டக்களப்பு விற்பனைக்காக கடத்தி கொண்டுவரப்பட்ட ஒருகோடி ரூபாய் பெறுமதியன வலம்புரிசங்கு ஒன்றுடன் பௌத்த தேரர் ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+மட்டு கல்குடா  பிரதேசத்தில் வைத்து விசேட அதிரடிப்படையினர்  வியாழக்கிழமை (7) இரவு கைது செய்து தம்மிடம் ஒப்படைத்துள்ளதாக கல்குடா பொலிஸார் தெரிவித்தனர்.
+
+தாண்டியடி விசேட அதிரடிப்படைக்கு கிடைத்த தகவல் ஒன்றினையடுத்து விசேட அதிரடிப்படைத் தளபதி சிரேஸ்ட பிரதிப் பொலிஸ் மா அதிபர் வருண ஜயசுந்தரவின் ஆலோசனைக்கமைய அம்பாறை மட்டக்களப்பு உதவிப் பொலிஸ் பணிப்பாளர் வாவிடவிதானவின் வழிகாட்டலின்கீழ்  தாண்டியடி விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி தலைமையிலான குழுவினர்   கல்குடா  தபால் கந்தோருக்கு அருகாமையில் அன்றையதினம் இரவு கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
+
+இந்த நிலையில் அங்கு பௌத்த தேரர் உட்பட இருவர் வலம்புரிசங்கு ஒன்றை விற்பனைக்காக கடத்தி வந்ததை அவதானித்த விசேட அதிரடிப்படையினர் அவர்களை சுற்றிவழைத்து மடக்கிபிடித்து கைது செய்ததுடன் ஒரு கோடி ரூபாய் பெறுமதியான வலம்புரி சங்கு ஒன்றை மீட்டனர்.
+
+...
+
+[Data](articles/0d388d1d.json)
+
+---
+
+### Evening thundershowers possible in some areas today
+
+*2024-03-08 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97810/evening-thundershowers-possible-in-some-areas-today) · `en`
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or at night today, the Meteorology Department says.
+
+However, mainly dry weather will prevail in the other areas of the island.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+Mainly fair weather will prevail in sea areas around the island.
+
+Winds will be easterly or north-easterly in the sea areas off the coast extending from Kankesanturai to Matara via Trincomalee, Pottuvil and Hambantota, and winds will be variable in direction in the other sea areas around the island. wind speed will be (15-30) kmph.
+
+◼️
+
+[Data](articles/8ab4dabb.json)
+
+---
+
+### சாணக்கியனை லிப்டுக்கு அழைத்துச் சென்றேன்: ரோஹித
+
+*2024-03-08 06:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாணக்கியனை-லிப்டுக்கு-அழைத்துச்-சென்றேன்-ரோஹித/175-334375) · `ta`
+
+சாணக்கியன் எம்.பி.யை நான் பாதுகாப்பாக பிரதமரிடம் அழைத்து  செல்லவே லிப்டுக்கு   (மின்தூக்கி )அருகில் வருமாறு அழைத்தேன் என அரச தரப்பு எம்.பி.யும் முன்னாள் அமைச்சருமான ரோஹித அபேகுணவர்தன தெரிவித்தார்.
+
+சாணக்கியனின் குற்றச்சாட்டு தொடர்பில்  சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை உடனடியாக முன்னெடுக்க வேண்டுமென   பிரதி சபாநாயகரிடம் வலியுறுத்தி கருத்து தெரிவித்த போதே  ரோஹித அபேகுணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
+
+பிரதமரை சந்திக்க வந்த தன்னை நான் தாக்க முற்பட்டதாக சாணக்கியன் எம்.பி கூறி சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை மேற்கொள்ள வேண்டுமென வலியுறுத்தினார். நான் அந்த விசாரணைக்குழு முன்பாக ஆஜராவேன் .எனக்கு எந்த பிரச்சினையும் இல்லை.
+
+பிரதமரை சந்திக்க வந்த சாணக்கியனிடம்'' நீங்கள் பிரதமரையா சந்திக்க வந்தீர்கள்.லிப்டுக்கு வாருங்கள் அழைத்து செல்கின்றேன் என்றே கூறினேனே. அதாவது பிரதமரை சந்திக்க வந்த சாணக்கியன் எம்.பி. யை பாதுகாப்பாக பிரதரிடம் அழைத்து செல்லவே நான் முயற்சித்தேன். ஆனால் இவரிடம் இந்தளவுக்கு பயம் இருக்கும் என்பது எனக்குத்தெரியாது என்றார்.
+
+◼️
+
+[Data](articles/c99265a1.json)
+
+---
+
+### Showers in the evening today
 
 *2024-03-08 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194274) · `si`
 
-අද (08) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers or thundershowers in the evening or night in the Western and Sabaragamuwa Province, including Galle and Matara districts. Some areas may see rain in the morning.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් එලෙස වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers or thundershowers will occur at several places in the evening or night in the evening or night.
+
+The latest announcement issued by the Department of Western and Sabaragamuwa Province and in the Galle and Matara districts.
+
+In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
 
 ◼️
 
 [Data](articles/29e5fac0.json)
+
+[Extended Data](ext_articles/29e5fac0.ext.json)
+
+---
+
+### Sri Lankan family murdered in Ottawa identified; teen suspect arrested
+
+*2024-03-08 06:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97809/sri-lankan-family-murdered-in-ottawa-identified-teen-suspect-arrested) · `en`
+
+Canadian police are describing the deaths of members of a Sri Lankan family, including four young children, in Ottawa as a “mass killing”.
+
+Police say the six victims were newcomers to Canada, and the youngest was less than three months old.
+
+A 19-year-old student from Sri Lanka who lived with the family has been charged in the killings.
+
+“This was a senseless act of violence perpetrated on purely innocent people,” said Ottawa’s police chief on Thursday.
+
+Officers responded to emergency calls placed at approximately 22:52 local time (03:52 GMT) on Wednesday from the Ottawa suburb of Barrhaven.
+
+When they arrived, police chief Eric Stubbs said officers quickly identified the suspect, who was arrested without incident.
+
+Officers then entered the home and discovered the victims, which included a mother, her four children, and an acquaintance who was living with the family.
+
+...
+
+[Data](articles/ace18c91.json)
+
+---
+
+### ஆதி லிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரியை தடுக்க முயற்சி
+
+*2024-03-08 06:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதி-லிங்கேஸ்வரர்-ஆலயத்தில்-சிவராத்திரியை-தடுக்க-முயற்சி/175-334374) · `ta`
+
+◼️
+
+[Data](articles/53655e61.json)
+
+---
+
+### Empowering the Economy: Celebrating women’s impact on International Women’s Day 2024 in Sri Lanka
+
+*2024-03-08 06:07:18* · [`dailyftlk`](https://www.ft.lk/columns/Empowering-the-Economy-Celebrating-women-s-impact-on-International-Women-s-Day-2024-in-Sri-Lanka/4-759291) · `en`
+
+In Sri Lanka, companies that have embraced gender equality and diversity have reaped the rewards of a diverse workforce. For example, MAS Holdings, a leading apparel manufacturer in Sri Lanka, has prioritsed gender diversity and inclusion in its workforce, with women occupying key leadership positions across the organization
+
+...
+
+[Data](articles/019d906d.json)
+
+---
+
+### #InspireInclusion – “Count Her In”
+
+*2024-03-08 06:02:01* · [`dailyftlk`](https://www.ft.lk/columns/InspireInclusion-Count-Her-In/4-759290) · `en`
+
+The International Women's Day (IWD) is a global celebration of achievements of women in a multitude of spheres – economic, social, cultural, and political.  As we celebrate IWD 2024 with the theme #InspireInclusion – “Count Her In”, it may be worthwhile to reflect upon what ‘inclusion’ means.
+
+Inclusion is the state of being valued, respected, and supported for one’s authentic self.  Therefore, it is essential that we embrace women as their authentic selves and reaffirm our commitment to creating a world where women are valued, empowered and included.  The theme recognizes that, despite progress, women face significant obstacles to achieve equal participation in the economy and calls for ensuring equal opportunity for women and girls to build their capabilities and strengthen their capacity to learn, earn, and lead.
+
+...
+
+[Data](articles/3da81244.json)
+
+---
+
+### Power of women entrepreneurship in Sri Lanka
+
+*2024-03-08 05:58:57* · [`dailyftlk`](https://www.ft.lk/columns/Power-of-women-entrepreneurship-in-Sri-Lanka/4-759289) · `en`
+
+The Power of Women as Entrepreneurs needs special recognition, and the government needs to facilitate them to find new export markets and financial assistance to expand their businesses.  We all know that the private sector especially, the SME sector is the engine of growth, and most of the businesses are severely affected due to ongoing economic conditions and new Tax systems discourage small businesses from competing with other players in the business.
+
+The aim of this article is to create greater awareness of the role played by Women entrepreneurs and give them due recognition. We will be celebrating Women Entrepreneurs Day on 8 March 2024.
+
+Female entrepreneurs around the world have played a very vital role during the past few decades. The number of women entrepreneurs has increased all across the globe. These female entrepreneurs have proven themselves to be pivotal change-makers in society.
+
+...
+
+[Data](articles/b0133f3e.json)
+
+---
+
+### Freedom from political bondage
+
+*2024-03-08 05:53:26* · [`dailyftlk`](https://www.ft.lk/opinion/Freedom-from-political-bondage/14-759287) · `en`
+
+We have given up hope of escaping from this bondage because we have tried many times and failed every time
+
+With the disappearance of queues for essential items, and the steadfast repression of any descent, it appears as if most of us have settled down to the realities of economic hardships with resignation and despondency. This being a society that was dominated by colonisers for centuries and shaped by beliefs in fate and mystic powers for millennia that kind of thinking can be expected. But giving up any hope of overcoming this adversity and bracing things to get worse as if we are in an inescapable bondage of sort is inexcusable.
+
+...
+
+[Data](articles/24c6b2b8.json)
 
 ---
 
@@ -94,6 +304,8 @@ Bogawantalawa engages with local NGOs and government bodies to address women’s
 
 [Data](articles/0cb32e00.json)
 
+[Extended Data](ext_articles/0cb32e00.ext.json)
+
 ---
 
 ### Hemas Hospitals celebrates International Women’s Day with HER MARCH
@@ -105,6 +317,8 @@ Marking International Women’s Day, Hemas Hospitals has unveiled “HER MARCH�
 ...
 
 [Data](articles/bae11efc.json)
+
+[Extended Data](ext_articles/bae11efc.ext.json)
 
 ---
 
@@ -123,6 +337,8 @@ Stark, who responded positively to the minister’s request, told the minister t
 ...
 
 [Data](articles/da6cb8d9.json)
+
+[Extended Data](ext_articles/da6cb8d9.ext.json)
 
 ---
 
@@ -246,6 +462,8 @@ The range encompasses various sauce categories, such as cooking sauces, dressing
 
 [Data](articles/03caaaff.json)
 
+[Extended Data](ext_articles/03caaaff.ext.json)
+
 ---
 
 ### Commonwealth Enterprise and Investment Council chairman Lord Marland’s Sri Lanka visit a resounding success
@@ -259,6 +477,8 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 ...
 
 [Data](articles/7093ca1d.json)
+
+[Extended Data](ext_articles/7093ca1d.ext.json)
 
 ---
 
@@ -277,6 +497,28 @@ Over the past several weeks, media reports have conveyed that:
 ...
 
 [Data](articles/a4395da4.json)
+
+[Extended Data](ext_articles/a4395da4.ext.json)
+
+---
+
+### இன்று முதல் விசேட ரயில் சேவைகள்
+
+*2024-03-08 04:06:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-விசேட-ரயில்-சேவைகள்/175-334370) · `ta`
+
+நீண்ட வார இறுதி விடுமுறையை முன்னிட்டு இன்று முதல் விசேட ரயில் சேவைகள் முன்னெடுக்கப்படவுள்ளன.
+
+வடக்கு மற்றும் மலையக மார்க்கங்களில் இந்த ரயில் சேவைகள் முன்னெடுக்கப்படும் என ரயில்வே போக்குவரத்து அத்தியட்சகர் என்.எம்.ஜே. இதிபொல தெரிவித்துள்ளார்.
+
+நேற்று இரவு தபால் ரயில் சேவைக்கு முன்னதாக பதுளை நோக்கி ரயிலொன்று புறப்பட்டிருந்தது. இன்று காலை 7.30 மணிக்கு கொழும்பு கோட்டையிலிருந்து பதுளை நோக்கி ரயிலொன்று சேவையில் ஈடுபடவுள்ளது.
+
+அத்துடன், எதிர்வரும் மார்ச் 10 ஆம் திகதி காலை 7.45 மற்றும் மாலை 5.20 மணிக்கு பதுளையிலிருந்து கொழும்பு கோட்டை நோக்கி இரண்டு ரயில்கள் பயணிக்கவுள்ளன.
+
+இதனை தவிர இன்று அநுராதபுரத்திலிருந்து காங்கேசன்துறை வரையிலும் விசேட ரயிலொன்று சேவையில் ஈடுபடவுள்ளது. (a)
+
+◼️
+
+[Data](articles/8a19a5d8.json)
 
 ---
 
@@ -316,6 +558,8 @@ The Central African Republic stands out for its wealth in diamonds, gold, uraniu
 
 [Data](articles/8713aa06.json)
 
+[Extended Data](ext_articles/8713aa06.ext.json)
+
 ---
 
 ### Battle against corruption
@@ -327,6 +571,8 @@ We as a nation had many names officially and many unofficially such as Pearl of 
 ...
 
 [Data](articles/4abdf338.json)
+
+[Extended Data](ext_articles/4abdf338.ext.json)
 
 ---
 
@@ -1925,301 +2171,5 @@ They said there was heavy retail activity in LOLC Group after yesterday’s larg
 [Data](articles/00e3d587.json)
 
 [Extended Data](ext_articles/00e3d587.ext.json)
-
----
-
-### Indian warship saves 21 crew members from drone-hit vessel in Gulf of Aden
-
-*2024-03-07 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97799/indian-warship-saves-21-crew-members-from-drone-hit-vessel-in-gulf-of-aden) · `en`
-
-Indian Navy swiftly responded to a distress call from the Gulf of Aden where a merchant vessel caught fire after being hit by a missile, and rescued 21 crew members, including one Indian national.
-
-The Indian Navy informed in a statement on Thursday that its naval warship, INS Kolkata swiftly acted against Wednesday’s maritime incident and all the crew members were safely evacuated to Djibouti.
-
-As per the Navy, Barbados Flagged Bulk Carrier MV True Confidence was reportedly hit by a drone/ missile, approximately 55 nm South West of Aden, on Wednesday, resulting in a fire onboard and critical injuries to some of the crew members forcing the crew to abandon the ship.
-
-INS Kolkata, deployed for Maritime Security Operations arrived at the scene of action at 1645 hours and rescued 21 crew members, including one Indian national, from the life raft using its integral helicopter and boats. Critical medical aid was also provided to the injured crew by the ship’s medical team.
-
-...
-
-[Data](articles/83db6390.json)
-
-[Extended Data](ext_articles/83db6390.ext.json)
-
----
-
-### Two men arrested with over 3.3kg of ‘Ice’ in Wattala
-
-*2024-03-07 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97798/two-men-arrested-with-over-33kg-of-ice-in-wattala) · `en`
-
-The Police Narcotics Bureau (PNB) has arrested two suspects along with more than 3 kilograms of crystal methamphetamine, commonly known as ‘Ice’.
-
-The duo, aged 27 and 31, was taken into custody during an operation conducted in Elakanda, Hendala of Wattala police area on Wednesday (March 06).
-
-They were identified as residents of Sedawatta and Mattakkuliya areas.
-
-The PNB officers have seized 3.3kg of ‘Ice’ from the possession of the suspects.
-
-◼️
-
-[Data](articles/513a6e89.json)
-
-[Extended Data](ext_articles/513a6e89.ext.json)
-
----
-
-### A bomb blast in a house in Batticaloa;Injury
-
-*2024-03-07 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178185) · `ta`
-
-A bomb in Batticaloa's Vaharai injured one person. The explosion occurred after garbage burned down in a house near the police station. The house owner was admitted to Madhu Teaching Hospital.
-
-🟩
-
-Vaharai police said that one person was injured when a bomb exploded in a house in front of the Vaharai police station in Batticaloa.
-
-The owner of a house in front of the police station has cleaned the day today.
-
-Then a hand grenade exploded with a massive noise when the garbage burned down. In this case, the owner of the house has been admitted to the Madhu Teaching Hospital after being injured.
-
-◼️
-
-[Data](articles/00613eeb.json)
-
-[Extended Data](ext_articles/00613eeb.ext.json)
-
----
-
-### IMF team says Sri Lanka’s EFF program showing positive signs
-
-*2024-03-07 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97797/imf-team-says-sri-lankas-eff-program-showing-positive-signs) · `en`
-
-The International Monetary Fund (IMF)’s Senior Mission Chief for Sri Lanka Peter Breuer says the IMF program is showing signs of working and is translating into real outcomes thanks to the Sri Lankan authorities’ commitment to the program and its implementation.
-
-He had stated this during the meeting held today (07) between President Ranil Wickremesinghe and the visiting IMF team at the Finance Ministry, the President’s Media Division (PMD) reported.
-
-Mr. Breuer further stated that it is heartening to see the country’s economy starting to turn around following the recent economic crisis.
-
-The IMF will commence its second review of the Extended Fund Facility (EFF) program for Sri Lanka today (March 07) with an opening meeting with President Wickremesinghe.
-
-Taking to X (formerly Twitter), Finance State Minister Shehan Semasinghe had said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
-
-...
-
-[Data](articles/4b2e557b.json)
-
-[Extended Data](ext_articles/4b2e557b.ext.json)
-
----
-
-### IMF team says Sri Lanka’s EFF program showing signs of working
-
-*2024-03-07 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97797/imf-team-says-sri-lankas-eff-program-showing-signs-of-working) · `en`
-
-The International Monetary Fund (IMF)’s Senior Mission Chief for Sri Lanka Peter Breuer says the IMF program is showing signs of working and is translating into real outcomes thanks to the Sri Lankan authorities’ commitment to the program and its implementation.
-
-He had stated this during the meeting held today (07) between President Ranil Wickremesinghe and the visiting IMF team at the Finance Ministry, the President’s Media Division (PMD) reported.
-
-Mr. Breuer further stated that it is heartening to see the country’s economy starting to turn around following the recent economic crisis.
-
-The IMF will commence its second review of the Extended Fund Facility (EFF) program for Sri Lanka today (March 07) with an opening meeting with President Wickremesinghe.
-
-Taking to X (formerly Twitter), Finance State Minister Shehan Semasinghe had said this marks a crucial milestone in the ongoing efforts by the government to enhance stability and economic growth.
-
-...
-
-[Data](articles/ca4a74bb.json)
-
-[Extended Data](ext_articles/ca4a74bb.ext.json)
-
----
-
-### More than 1,000 people die in breast cancer
-
-*2024-03-07 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194258) · `si`
-
-Dr. Jayasuriya Dissanayake reported that 1,095 women in Sri Lanka die from breast cancer annually. Factors like smoking, drug abuse, and lifestyle can increase the risk. Medical research shows that breast cancer in women is minimal, and about 1% of breast cancer cases are in men.
-
-🟩
-
-Dr. Jayasuriya Dissanayake says that 1,095 women will die for breast cancer every year.
-
-Dr. Jayasuriya Dissanayake revealed this to the Third Minister of Indira Jayasuriya, who participated in the event held in Kandy today (07).
-
-"Every eight women living in Sri Lanka has the risk of breast cancer. Sorry. Three women in our country die due to this breast cancer. And 15 more women in our country identify a day as breast cancer. A woman is a risk of breast cancer. Smoking, smoking, drug abuse, exercise, misconduct, and blood relatives can lead to this cancer condition. However, medical research has been confirmed. Women who gave birth to breast cancer are minimal. "
-
-She added that not only for women but also breast cancer. About 1% of breast cancer have been identified men.
-
-◼️
-
-[Data](articles/699aa165.json)
-
-[Extended Data](ext_articles/699aa165.ext.json)
-
----
-
-### Fort Magistrate CID to monitor the powder and monarch
-
-*2024-03-07 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194257) · `si`
-
-Fort Magistrate Thilina Gamage visited the CID to monitor Criminal Investigations Unknown and Wickremaratne. Beef and Kudu requested the trekkanda Magistrate to submit to court as detention orders expired. The Magistrate ordered the CID Director to release suspects once produced in court. The CID OIC notified the suspects of 4 cecic cameras. The Magistrate ordered the CID OIC to provide treatment.
-
-🟩
-
-Fort Magistrate Thilina Gamage went to the CID today (07) to monitor the Criminal Investigations Unknown and Wickremaratne.
-
-Beef and Kudu has requested the trekkanda Magistrate to submit to court as detention orders are over at the time of observing the suspects.
-
-The Magistrate has also ordered the Director of the Criminal Investigation Department when the final suspects were produced before the courts and to take out the suspects.
-
-The OIC of the Criminal Investigations Department (CID) OIC of the CID has notified one of 4 cecic cameras in the suspects.
-
-The Magistrate has ordered the OIC of the Criminal Investigation Department (CID) to provide treatment with herself.
-
-◼️
-
-[Data](articles/618d94f6.json)
-
-[Extended Data](ext_articles/618d94f6.ext.json)
-
----
-
-### CSE’s All Share Price Index crosses 11,000-point mark
-
-*2024-03-07 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97796/cses-all-share-price-index-crosses-11000-point-mark) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) surpassed 11,000 points today (March 07) for the first time since October 05, 2023.
-
-The ASPI closed at 11,045.90 points at the end of trading today, marking an increase of 1.51% (164.18 points) from the previous day.
-
-Meanwhile, the S&P SL20 closed at 3,147.45 points today, up by 1.52% (47.15 points) from the previous day.
-
-More than 160 million shares were traded overall within the day and the market turnover topped Rs. 2.63 billion.
-
-◼️
-
-[Data](articles/42a80398.json)
-
-[Extended Data](ext_articles/42a80398.ext.json)
-
----
-
-### IMF says that the results are being received
-
-*2024-03-07 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194256) · `si`
-
-IMF's Pira Bruvrewart reports positive outcomes from the program, indicating economic growth and government commitment.
-
-🟩
-
-The International Monetary Fund (IMF) team leader Pira Bruvrewart says that the results of the program implemented in the country.
-
-He has said that the authorities are committed to the success of the program successfully.
-
-As a result, the economy is growing again.
-
-Bruvar said this was the President Ranil Wickremesinghe and the International Monetary Fund team at the Ministry of Finance.
-
-◼️
-
-[Data](articles/31cbdf07.json)
-
-[Extended Data](ext_articles/31cbdf07.ext.json)
-
----
-
-### Sri Lanka commences IMF second review
-
-*2024-03-07 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-commences-imf-second-review-153688/) · `en`
-
-ECONOMYNEXT – Sri Lanka has commenced the second review of the International Monetary Fund, State Minister of Finance Shehan Semasinghe has said.
-
-“The IMF 2nd review is commencing today, with an opening meeting scheduled with the President. This marks an important milestone in our ongoing efforts to enhance stability and economic growth,” Semasinghe said on social media platform X (twitter).
-
-“We expect to conclude a successful review and reach the staff level agreement which will pave the way for accessing the third tranche. This will accelerate our growth trajectory, fostering increased confidence in the economy.”
-
-In December, the International Monetary Fund approved the release of 337 million US dollars to Sri Lanka under the first review of its program and called for quick implementation of debt agreements reached with official creditors.
-
-At the time, all performance criteria except one of expenditure arrears were met.
-
-...
-
-[Data](articles/3d775f23.json)
-
-[Extended Data](ext_articles/3d775f23.ext.json)
-
----
-
-### Rohitha Abeygunawardena sought to attack;Investigate through the Private Committee - Chanakyan
-
-*2024-03-07 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178182) · `ta`
-
-Rohitha Abeygunawardena threatened MP Chanakyan Rasamanikam at the Prime Minister's Office, leading to a call for investigation by the TNA parliamentarian. The incident, involving improper behavior and threats, has raised concerns about the safety and rights of Tamil members in Parliament.
-
-🟩
-
-Parliamentarian Rohitha Abeygunawardena threatened me at the Prime Minister's Office and sought to attack. My life is threatened by his actions. The Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam urged the Deputy Speaker to investigate the incident through privilege and disciplinary committee.
-
-He was speaking at the adjournment debate held in Parliament on Thursday (07).
-
-When I visited the Prime Minister's Office in Parliament, MP Rohitha Abeygunawardena said, "Why have you come to meet our Prime Minister?". In the meantime he threatened me and tried to attack. Servants of the Prime Minister's Office, Minister of State for the Minister. Member of Parliament Rohitha Abeygunawardena behaved improperly. Our Prime Minister referred to as our Prime Minister and said, 'What do you say?'. I can do the same. We must act with morality.
-
-...
-
-[Data](articles/e97f9b99.json)
-
-[Extended Data](ext_articles/e97f9b99.ext.json)
-
----
-
-### Special trains on main, nothern lines during long weekend
-
-*2024-03-07 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-trains-on-main-nothern-lines-during-long-weekend/108-278428) · `en`
-
-Colombo, March 6 (Daily Mirror) - The Railways Department has assigned special train services on the main line and the northern line to facilitate the movements of commuters during the upcoming long weekend.
-
-They said one train is scheduled to leave for Badulla from Colombo Fort at 7.30 a.m. on Friday (8).
-
-On March 10, a train is scheduled to leave for Colombo Fort from Badulla at 745 a.m.
-
-Another train service will operate from Colombo Fort to Badulla at 7.30 p.m. on March 7, 8 and 10.
-
-Meanwhile, another train service will operate from Badulla to Colombo Fort at 5.20 p.m. on March 7, 8 and 10.
-
-Several train services are scheduled to operate on the northern line between Anuradhapura and Kankesanthurai (KKS) during the long weekend.
-
-Accordingly, special train services are scheduled to operate on March 8, 9 and 10 between Anuradhapura and KKS at 6 a.m., and another train is scheduled to operate between KKS and Anuradhapura at 4.30 p.m. on the said days.
-
-◼️
-
-[Data](articles/3397be55.json)
-
-[Extended Data](ext_articles/3397be55.ext.json)
-
----
-
-### Special trains on main, northern lines during long weekend
-
-*2024-03-07 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-trains-on-main-northern-lines-during-long-weekend/108-278428) · `en`
-
-Colombo, March 6 (Daily Mirror) - The Railways Department has assigned special train services on the main line and the northern line to facilitate the movements of commuters during the upcoming long weekend.
-
-They said one train is scheduled to leave for Badulla from Colombo Fort at 7.30 a.m. on Friday (8).
-
-On March 10, a train is scheduled to leave for Colombo Fort from Badulla at 745 a.m.
-
-Another train service will operate from Colombo Fort to Badulla at 7.30 p.m. on March 7, 8 and 10.
-
-Meanwhile, another train service will operate from Badulla to Colombo Fort at 5.20 p.m. on March 7, 8 and 10.
-
-Several train services are scheduled to operate on the northern line between Anuradhapura and Kankesanthurai (KKS) during the long weekend.
-
-Accordingly, special train services are scheduled to operate on March 8, 9 and 10 between Anuradhapura and KKS at 6 a.m., and another train is scheduled to operate between KKS and Anuradhapura at 4.30 p.m. on the said days.
-
-◼️
-
-[Data](articles/ab994ec6.json)
-
-[Extended Data](ext_articles/ab994ec6.ext.json)
 
 ---

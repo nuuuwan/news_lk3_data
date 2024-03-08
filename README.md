@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 19:02:40**
+As of **2024-03-08 19:17:35**
 
 ## Newspaper Stats
 
-*Scraped **11,731** Articles*
+*Scraped **11,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 616
 dailyftlk | 617
 islandlk | 627
 adalk | 995
-tamilmirrorlk | 1,418
+tamilmirrorlk | 1,419
 adaderanalk | 1,425
 virakesarilk | 1,615
 dailymirrorlk | 1,787
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,842
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,723 (99.9%) of 11,731 articles have been extended.
+11,731 (100.0%) of 11,732 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,57 +52,81 @@ Gold first surpassed its December peak on Tuesday, primarily aided by growing in
 
 [Data](articles/644733ca.json)
 
+[Extended Data](ext_articles/644733ca.ext.json)
+
 ---
 
-### வெள்ளவத்தையில் பெரிய துளை
+### Lane
 
 *2024-03-08 18:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-பெரிய-துளை/175-334390) · `ta`
 
-காலி வீதி வெள்ளவத்தை டபிள்யூ.ஏ. சில்வா மாவத்தைக்கு அருகாமையில் உள்ள சந்தியில் காலி நோக்கி செல்லும் பாதையின் ஒரு பகுதி மூடப்பட்டுள்ளது.
+A large hole on Galle Street near Silva Mawatha, Wellawatte, WA, has closed a part of the road. Police have allowed buses and heavy vehicles to bypass the area, affecting travel from Galle to Colombo.
 
-சுமார் 4 அடி விட்டம் கொண்ட பெரிய துளை ஏற்பட்டுள்ளதாக பொலிஸார்   தெரிவித்துள்ளனர்.
+🟩
 
-இதன் காரணமாக காலியிலிருந்து கொழும்பு நோக்கிச் செல்லும் பஸ்கள் மற்றும் ஏனைய கனரக வாகனங்கள் கரையோர மார்க்கமாக கொழும்பு நோக்கிச் செல்ல அனுமதிக்கப்பட்டன.
+Galle Street Wellawatte WA. A part of the road to Galle is closed at the junction near Silva Mawatha.
+
+The police said that a large hole with a diameter of about 4 feet has occurred.
+
+As a result, buses and other heavy vehicles traveling from Galle to Colombo were allowed to travel to Colombo.
 
 ◼️
 
 [Data](articles/175287fa.json)
 
+[Extended Data](ext_articles/175287fa.ext.json)
+
 ---
 
-### රන් මිලේ වාර්තාගත ‍වෙනසක්
+### Gold price recorded
 
 *2024-03-08 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194301) · `si`
 
-කැරට් 24 රන් අවුන්සයක් සඳහා ඉතිහාසයේ මෙතෙක් සටහන් වූ ඉහළම මිල විදියට අමෙරිකානු ඩොලර් 2,170යි ශත 99ක් වාර්තා වී ඇත.
+Gold price hits new high of 99 cents.
+
+🟩
+
+The highest price in history has been recorded so far and 99 cents reported.
 
 ◼️
 
 [Data](articles/eeec91e1.json)
 
+[Extended Data](ext_articles/eeec91e1.ext.json)
+
 ---
 
-### கூடுக்குள் குட்டி சிறுத்தை :  தொழிலாளிக்கு  கூண்டு
+### Cutty leopard in the nest: cage for the worker
 
 *2024-03-08 18:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கூடுக்குள்-குட்டி-சிறுத்தை-தொழிலாளிக்கு-கூண்டு/76-334389) · `ta`
 
-தலவாக்கலை பொலிஸ் பிரிவுக்கு உட்பட்ட கட்டுகலை தோட்டத்தில் சிறுத்தை குட்டி ஒன்று உயிரிழந்த நிலையில் மீட்கப்பட்டுள்ளது.
+A leopard cub was rescued in Katugala, Talawakelle, and a worker was arrested for its death. The suspect was remanded until Tuesday. The leopard died in a cage, and the police are investigating.
 
-இந்த சிறுத்தை குட்டி உயிரிழந்தமைக்கு காரணமானவர் என்ற சந்தேகத்தின் பேரில் தொழிலாளி ஒருவரை தலவாக்கலை பொலிஸார் வெள்ளிக்கிழமை (08) பகல் கைது செய்தனர்.
+🟩
 
-இவ்வாறு சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட தொழிலாளியை நுவரெலியா மாவட்ட நீதவான் நீதிமன்றத்தில் பொலிஸார் ஆஜர்படுத்தினர்.
+A leopard cub has been rescued in the Katugala estate belonging to the Talawakelle police division.
 
-சந்தேக நபரை இம்மாதம் 12ஆம் திகதி  செவ்வாய் கிழமை வரை விளக்கமறியலில் வைக்க  நுவரெலியா மாவட்ட நீதவான் பிரபுதிகா லங்கான்தினி உத்தரவு பிறப்பித்துள்ளார்.
+Talawakelle police arrested a worker on Friday (08) on suspicion of causing the leopard's death.
 
-தலவாக்கலை, கட்டுக்கலை தோட்டப்பிரிவில் சிறுத்தைகள் இருப்பதாகவும் இவைகள் இரவு நேரங்களில் மக்கள் குடியிருப்பு பகுதிகளுக்கு வந்து செல்வதாக பலமுறை சொல்லப்பட்டு வந்தது.
+The worker who was arrested on suspicion was produced at the Nuwara Eliya District Magistrate's Court.
 
-இந்த நிலையில் இந்த தோட்டத் தொழிலாளி   கூடு ஒன்றை அமைத்து வீட்டுக்கு வெளியில் வைத்துள்ளார்.
+Nuwara Eliya District Magistrate Prabhudika Lanka has ordered the suspect to be remanded until Tuesday 12th of this month.
 
-இந்த கூட்டுக்குள் (07.03.2024) இரவு வேளையில் சிறுத்தை குட்டி ஒன்று   சிக்கி கொண்டுள்ளது.
+It has been repeatedly said that there are leopards in the Talawakkalai and Tukkalai plantation sect.
+
+In this case, the plantation worker set up a nest and kept outside the house.
+
+A leopard cub is trapped in the night (07.03.2024).
+
+The Talawakelle police have been rescued on Friday (08) as the leopard died in the joint.
+
+The Talawakelle police have registered a case against him and ordered the Magistrate to appear before the Nuwara Eliya District Magistrate's Court.
 
 ...
 
 [Data](articles/6314f474.json)
+
+[Extended Data](ext_articles/6314f474.ext.json)
 
 ---
 
@@ -122,6 +146,8 @@ To this end, he said the establishment of the National Commission for Women mark
 
 [Data](articles/0dd26be5.json)
 
+[Extended Data](ext_articles/0dd26be5.ext.json)
+
 ---
 
 ### Over Rs. 2.5 bn annual rent paid for vehicles rented by public institutions
@@ -139,6 +165,8 @@ According to a question raised by MP Gunawardene on the number of running condit
 ◼️
 
 [Data](articles/4c3ae41c.json)
+
+[Extended Data](ext_articles/4c3ae41c.ext.json)
 
 ---
 
@@ -258,9 +286,37 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 
 ---
 
-### கெடுபிடிகளுக்கு மத்தியில்  வெடுக்குநாறியில்  வழிபாடு
+### Amidgive
 
 *2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கெடுபிடிகளுக்கு-மத்தியில்-வெடுக்குநாறியில்-வழிபாடு/72-334387) · `ta`
+
+The temple in Vavuniya Vettu Nirimalai was closed after the arrest of its chief priest and administrator. Only residents were allowed in, and civilians from far were blocked. Parliamentarians and religious leaders were present, and the Special Task Force ensured security.
+
+🟩
+
+The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vettu Nirimalai.
+
+The chief priest of the temple and the administrator of the temple were arrested by the Nedungeni police on Thursday (07).
+
+Subsequently, the Special Task Force and Police have been deployed around the temple and the police road has been laid to the main road to the temple.. Only the residents of the area were allowed inside after the police investigation.
+
+Meanwhile, the civilians who came from far away places for the Mahasivaratri worship were on the main road so that they could not go in.
+
+Parliamentarian Sivagnanam Sridharan, Selvarasa Gajendran, Velan Swamis and Ravikaran were also present at the scene.
+
+Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
+
+...
+
+[Data](articles/78ca7178.json)
+
+[Extended Data](ext_articles/78ca7178.ext.json)
+
+---
+
+### கெடுபிடிகளுக்கு மத்தியில் வழிபாடு
+
+*2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கெடுபிடிகளுக்கு-மத்தியில்-வழிபாடு/72-334387) · `ta`
 
 வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்டநிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
 
@@ -274,7 +330,7 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 
 ...
 
-[Data](articles/78ca7178.json)
+[Data](articles/f71d11b5.json)
 
 ---
 
@@ -1294,6 +1350,8 @@ Under President Mahinda Rajapaksa’s tenure, the Sri Lankan civil war, which sp
 
 [Data](articles/2f65bb9f.json)
 
+[Extended Data](ext_articles/2f65bb9f.ext.json)
+
 ---
 
 ### Electoral Prospects In India & Tamil Nadu Have Better Predictability Now
@@ -2235,33 +2293,5 @@ We as a nation had many names officially and many unofficially such as Pearl of 
 [Data](articles/4abdf338.json)
 
 [Extended Data](ext_articles/4abdf338.ext.json)
-
----
-
-### A threat to the police witnesses?
-
-*2024-03-08 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194279) · `si`
-
-The Attorney General claimed in the Supreme Court that police witnesses were threatened, with a leading witness killed by the Criminal Investigations Department. Despite this, the Supreme Court decided not to examine the petition.
-
-🟩
-
-The Attorney General has stated in the Supreme Court that the police witnesses have been threatened by the Supreme Court.
-
-It was reported that the Attorney General had made this notice when he was called by a former police Narcotics Bureau.
-
-Senior State Counsel Shamitry Wickrema appeared for the Attorney General
-
-He said that a group of officers had been deployed to the safety of the victims and the Witnesses to protect the victims.
-
-The State Counsel has stated that a leading witness has been killed by the criminal inquiries of the Criminal Investigations Department.
-
-After considering the petition, the three-member Supreme Court Bench, said Ada Derana reporter, the three-member Supreme Court Bench was decided not to examine the relevant petition.
-
-◼️
-
-[Data](articles/35e73058.json)
-
-[Extended Data](ext_articles/35e73058.ext.json)
 
 ---

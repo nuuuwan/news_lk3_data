@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 20:50:34**
+As of **2024-03-08 21:02:48**
 
 ## Newspaper Stats
 
-*Scraped **11,740** Articles*
+*Scraped **11,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,426
-virakesarilk | 1,615
+virakesarilk | 1,616
 dailymirrorlk | 1,789
-adaderanasinhalalk | 1,844
+adaderanasinhalalk | 1,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,740 (100.0%) of 11,740 articles have been extended.
+11,740 (100.0%) of 11,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### ප්‍රභූ ජීවිත රැසක් මරුකටින් බේරූ අභීත පොලිස් කත
+
+*2024-03-08 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194304) · `si`
+
+තීක්ෂණ නුවණින් සහ ස්ථානෝචිත ප්‍රඥාවෙන් මව්බිමේ ගෞරවය ආරක්ෂා කළ අභීත පොලිස් කතක් පිළිබඳව අද දෙරණට වාර්තා වන්නේ අදට යෙදී ඇති කාන්තා දිනයේ වැදගත්කම තව තවත් තීව්‍ර කරමිනි.
+
+◼️
+
+[Data](articles/916448b8.json)
+
+---
+
+### வெள்ளவத்தையில் வீதியின் ஒரு பகுதியில் ஏற்பட்டுள்ள பாரிய குழி!
+
+*2024-03-08 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178288) · `ta`
+
+காலி வீதி வெள்ளவத்தை டபிள்யூ.ஏ.சில்வா மாவத்தைக்கு அருகாமையில் உள்ள சந்தியில் காலி நோக்கி செல்லும் பாதையின் ஒரு பகுதி  மூடப்பட்டுள்ளது.
+
+சுமார் 4 அடி விட்டம் கொண்ட பாரிய குழி ஒன்று ஏற்பட்டுள்ளதன் காரணமாகவே பாதையின் ஒரு பகுதி மூடப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதன் காரணமாக காலியிலிருந்து கொழும்பு நோக்கிச் செல்லும் பஸ்கள் மற்றும் ஏனைய கனரக வாகனங்கள் கடல் மார்க்கமான வீதி ஊடாக கொழும்பு நோக்கிச் செல்ல ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3ed6273e.json)
+
+---
 
 ### Foreigners were trapped in the south
 
@@ -2339,37 +2367,5 @@ A Hamas official told Reuters the United States was in partnership with Israel a
 [Data](articles/bd8c9f11.json)
 
 [Extended Data](ext_articles/bd8c9f11.ext.json)
-
----
-
-### Vets dispute Pramitha Bandara’s stray dog population claim over data accuracy
-
-*2024-03-08 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vets-dispute-Pramitha-Bandaras-stray-dog-population-claim-over-data-accuracy/108-278461) · `en`
-
-Colombo, March 8 (Daily Mirror) - The declaration by Defense State Minister Pramitha Bandara Tennakoon in Parliament yesterday regarding the population of stray dogs in the country is baseless and it is asserted that the State Minister issued this statement without possessing accurate data on the subject, advisor to the Association of Veterinarians for Humane Management of Animal Population,  Dr. Chamith Nanayakkara said.
-
-The State Minister said that some 6.2 million stray dogs are roaming in different parts of the country and that this situation has caused serious issues in tourist areas such as Sigiriya.
-
-He mentioned that previously, inaccurate statements had been circulated about the monkey population in the country, citing incorrect figures and contributing to a false perception within the community that there are three million monkeys in the country.
-
-...
-
-[Data](articles/2f182325.json)
-
-[Extended Data](ext_articles/2f182325.ext.json)
-
----
-
-### Ramya Vanigasekara passess away
-
-*2024-03-08 09:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ramya-Vanigasekara-passess-away/108-278464) · `en`
-
-Veteran actress, journalist and radio news anchor Ms. Ramya Vanigasekara has passed away at the age of  73 years old.
-
-◼️
-
-[Data](articles/d44179a4.json)
-
-[Extended Data](ext_articles/d44179a4.ext.json)
 
 ---

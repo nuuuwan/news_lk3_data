@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 19:50:51**
+As of **2024-03-08 20:02:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,843
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,733 (100.0%) of 11,736 articles have been extended.
+11,736 (100.0%) of 11,736 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Parents and residents blamed the kidnapping on lack of security in the area.
 ...
 
 [Data](articles/e19c0873.json)
+
+[Extended Data](ext_articles/e19c0873.ext.json)
 
 ---
 
@@ -1416,27 +1418,35 @@ Under President Mahinda Rajapaksa’s tenure, the Sri Lankan civil war, which sp
 
 ---
 
-### 'මම ලියන හැටි' : සමන් වික්‍රමාරච්චි
+### 'How I write': Saman Wickremarachchi
 
 *2024-03-08 12:45:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c97w5vv58y7o) · `si`
 
-සමන් වික්‍රමාරච්චි යනු සිංහල සාහිත්‍යය තුළ ගණනාවකින් පෝෂණය කරන සාහිත්‍යකරුවෙකි.
+Saman Wickremarachchi, a Sinhala literature critic and translator, discusses his writing process, emphasizing the importance of exploring subjectivity and the influence of philosophical and theoretical readings on his work. He describes his writing as a cluttered process, where ideas and characters evolve during writing.
 
-ඔහු අතින් ලියවුණු  'අසංධිමිත්තා' සහ 'අප්පච්චි ඇවිත්' යන නවකතා සුවිශාල පාඨක සහ විචාරක ඇගයීමකට ලක් විය.
+🟩
 
-එසේම ඔහු සාහිත්‍ය විචාරකයෙක්, පරිවර්තකයෙක් සහ කෙටිකතාකරුවෙක් ලෙස දශක කිහිපයක් තිස්සේ සිංහල සාහිත්‍ය එහි සීමාවන්ගෙන් ඉදිරියට ගෙන යාමට දරන වෑයම කිසිසේත්ම අමතක කල නොහැකිය.
+Saman Wickramarachchi is a literary that feeds in a number of Sinhala literature.
 
-මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැඳුණු ඔහුටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+The novels of 'Astandipalat' and 'Agrate' and 'Father' were assessed.
 
-මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළ කර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+As a literary critic, a translator and a short-story, is by means of trying to advance Sinhala literature from its limits.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි. ලියන තැන, ලියන විදිහ, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+I talk to him with the objective of understanding his feelings and writing when he joined him as a novelist.
 
-මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+The questions I hear in this discussion is currently published by I have published 'Nimna's History' (2019) and writes from this linkker '(2014) and the experiences I have faced.
+
+It is well known for all writer's writing process. Where writing, writing, writing, belong to the writer's abundance.
+
+The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
 
 ...
 
 [Data](articles/6b898500.json)
+
+[Extended Data](ext_articles/6b898500.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 12:51:46**
+As of **2024-03-08 13:02:47**
 
 ## Newspaper Stats
 
@@ -141,6 +141,10 @@ Accordingly, President Ranil Wickremesinghe has called for a meeting at the Pres
 Colombo, March 8 (Daily Mirror)- President Ranil Wickremesinghe has convened a party leaders meeting on Monday to discuss the International Monetary Fund's proposals with its high level delegation, the President's Media Division (PMD) said.
 
 The meeting has offered a chance to accepted opposition party leaders in Parliament to discuss the International Monetary Fund's proposals with its high level delegation, the PMD added.
+
+Leader of the Opposition Sajith Premadasa, leader of the National People's Power (NPP) Anura Kumara Dissanayake and Tamil National Alliance (TNA) leader Sivagnanam Sridharan have been invited to participate in these discussions.
+
+The individuals interested in joining the discussion have been given the opportunity to participate alongside the invited leaders, the PMD said.
 
 ◼️
 

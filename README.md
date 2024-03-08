@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 13:17:42**
+As of **2024-03-08 13:33:23**
 
 ## Newspaper Stats
 
-*Scraped **11,669** Articles*
+*Scraped **11,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 627
 adalk | 989
 tamilmirrorlk | 1,413
 adaderanalk | 1,418
-virakesarilk | 1,604
+virakesarilk | 1,606
 dailymirrorlk | 1,779
 adaderanasinhalalk | 1,830
 
@@ -26,31 +26,97 @@ adaderanasinhalalk | 1,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,667 (100.0%) of 11,669 articles have been extended.
+11,669 (100.0%) of 11,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### මුරුගන් එංගලන්තයට යන්න අවස්ථාව ඉල්ලයි
+### Opportunities for opposition leaders to discuss with the high -level committee of the International Monetary Fund
+
+*2024-03-08 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178237) · `ta`
+
+The Presidential Media Unit announced that President Ranil Wickremesinghe will host a meeting on Monday for opposition leaders to discuss IMF proposals with its high-level committee.
+
+🟩
+
+The Presidential Media Unit said that steps have been taken to provide an opportunity to discuss the proposals of the International Monetary Fund with its high -level committee.
+
+Accordingly, President Ranil Wickremesinghe has called for a meeting at the Presidential Office on Monday to give this opportunity to the leaders of the opposition parties approved in Parliament.
+
+◼️
+
+[Data](articles/e9e3f615.json)
+
+[Extended Data](ext_articles/e9e3f615.ext.json)
+
+---
+
+### சிவனொளிபாத மலை பருவ காலத்தில் 3 தொன் பிளாஸ்டிக் போத்தல்கள் சேகரிப்பு
+
+*2024-03-08 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178236) · `ta`
+
+2023 ஆம் ஆண்டு தொடக்கம் 2024 ஆம் ஆண்டு வரையான சிவனொளிபாத மலை பருவகாலம் ஆரம்பமாகி 3 மாதங்களில் மூன்று தொன் பிளாஸ்டிக் போத்தல்கள் சேகரிகரிக்கப்பட்டுள்ளதாக மஸ்கெலியா பிரதேச சபை தெரிவித்துள்ளது.
+
+யாத்திரைக்கான மார்க்கத்தில் செல்லும் யாத்திரீகர்கள் பிளாஸ்டிக் தண்ணீர் போத்தல்களை வெளியேற்ற குப்பை தொட்டிகள் வைக்கப்பட்டுள்ளது. இருப்பினும்  சில யாத்திரீகர்கள் பிளாஸ்டிக் தண்ணீர் போத்தல்களை குப்பைத் தொட்டிகளில் போடாமல் சுற்றுச்சூழலில் வீசுகிறார்கள்.
+
+குப்பைகளை அகற்றுவதற்காக வைக்கப்பட்டுள்ள குப்பைத் தொட்டிகளில் உணவு பொருட்களை அப்புறப்படுத்துமாறு பிரதேச சபையினால் அறிவுறுத்தப்பட்டாலும் அதனை யாத்திரீகர்கள் பின்பற்றுவதில்லை.
+
+சேகரிக்கப்பட்ட பிளாஸ்டிக் போத்தல்கள் நல்லதண்ணி குப்பை சேகரிக்கும் மத்திய நிலையத்திற்கு கொண்டு செல்லப்பட்டு அங்கிருந்து தனியாருக்கு விற்பனை செய்யப்படும்.
+
+இதேவேளை, தற்போது நிலவும் வறண்ட வானிலை காரணமாக நல்லதண்ணி பிரதேசத்தில் குடிநீர் பிரச்சினை ஏற்பட்டுள்ளது. இப்பிரச்சினைக்கு தீர்வு காண நீர் வழங்கல் சபையுடன் கலந்துரையாடல் இடம்பெற்று வருவதாக தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/427867f9.json)
+
+---
+
+### மகா சிவராத்திரி தினத்தில் ஏற்றப்படும் ஒளியானது இலங்கை மக்களின் வாழ்விலும் ஒளியேற்றுவதாக அமையட்டும் - மகா சிவராத்திரி வாழ்த்தில் ஜனாதிபதி
+
+*2024-03-08 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178242) · `ta`
+
+மகா சிவராத்திரி தினத்தில் இந்து மக்களினால் ஏற்றப்படும் ஒளியானது, முழு இலங்கை மக்களின் வாழ்விலும் ஒளியேற்றுவதாக அமையட்டும் என பிராத்திக்கிறேன் என ஜனாதிபதி ரணில் விக்ரமசிங்க தனது வாழ்த்து செய்தியில் தெரிவித்துள்ளார்.
+
+உலகெங்கிலும் உள்ள இந்து பக்தர்களினால், அனைத்து உயிர்களையும் துன்பத்திலிருந்து விடுவிக்க சிவபெருமானிடம் செய்த பிரார்த்தனையை நினைவு கூறுவதாக அமைந்திருக்கிறது.
+
+மனிதர்களிடம் இருக்கும் மமதையும், அகந்தையையும் அகற்ற உதவும் ஞானத்தைப் பரவச் செய்யும் வகையில் உலகெங்கிலும் உள்ள இந்து பக்தர்கள் பிரார்த்தனை செய்கின்றனர்.
+
+கடந்த இரண்டு வருடங்களில் வரலாறு காணாத பொருளாதார நெருக்கடியால் பாதிக்கப்பட்ட நாட்டு மக்களை மீட்க அரசாங்கம் மிகுந்த அர்ப்பணிப்புடன் செயற்பட்டது.
+
+இந்து மக்கள் மாத்திரமன்றி ஒட்டுமொத்த இலங்கை மக்களின் வாழ்வையும் செழிப்பாக்கும் எதிர்பார்ப்புடன் இன்று மேற்கொள்ளப்படும் முன்னெடுப்புகள் வெற்றிகரமான நிலைக்கு வந்துள்ளது.
+
+...
+
+[Data](articles/6d753978.json)
+
+---
+
+### Murugan asks for the opportunity to go to England
 
 *2024-03-08 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194288) · `si`
 
-හිටපු ඉන්දීය අග්‍රාමාත්‍ය රජිව් ගාන්ධි ඝාතනය සම්බන්ධයෙන් වැරදිකරුවෙක් වී සිරගතව සිට 2022 දී නිදහස ලැබූ වී. ශ්‍රී හරන් නොහොත් මුරුගන්, තමාට එංගලන්තයට යාමට අවශ්‍ය ගුවන් ගමන් ලේඛන ලබාගැනීමට අවස්ථාව දෙන ලෙස ඉල්ලා මදුරාසි මහාධිකරණයේ පෙත්සමක් ගොනුකර තිබේ.
+Murugan, alias Sri Haran, petitions for aviation documents to go to England, claiming refuge. He was released from prison in 2022 for the assassination of Rajiv Gandhi. Nalini, arrested as a suspect in the murder, was pregnant. Mahaha went to England in 2006, earning a medical degree in Medical Physics.
 
-එහිදී ඔහු අවසර ඉල්ලා ඇත්තේ චෙන්නායි නුවර පිහිටි ශ්‍රී ලංකා කොන්සියුලේට් කාර්යාලයට ගොස් තම ගුවන් ගමන් ලේඛන සාදා ගැනීමට සහ එංගලන්තයට යෑම සඳහා වීසා ලබාගැනීමට අදාළ සම්මුඛ පරීක්ෂණයට සහභාගී වීමට අවසර දෙන ලෙසය.
+🟩
 
-ඔහුගේ අරමුණ වන්නේ එංගලන්තයට ගොස් එහි සරණාගත භාවය සඳහා ඉල්ලුම් කිරීම බව වාර්තා වෙයි.
+Rami Gandhi was guilty of the assassination of former Indian Prime Minister Rajiv Gandhi and was released from imprisonment to 2022. Sri Haran alias Murugan, Madharasha High Court has filed a petition in the Meadium High Court demanding the opportunity to obtain aviation documents he needs to go to England.
 
-ඉන්දීය මාධ්‍ය සඳහන් කළේ රජීව් ගාන්ධි ඝාතනය සම්බන්ධයෙන් වැරදිකරුවෙක් වී පසුව නිදහස ලැබූ, මුරුගන් ගේ බිරිඳ වන එස්. නාලිනී විසින් මෙම පෙත්සම ගොනුකර ඇති බවය.
+He has asked for permission to go to the Sri Lanka Consulate in Chennai and allows the interview to make visa to create their flights and to go to England.
 
-රජීව් ගාන්ධි ඝාතනයේ සැකකාරියක් ලෙස නාලිනී ව 1991 ජුනි 14 වනදා අත්අඩංගුවට ගන්නා විට ඇය දෙමස් ගැබිනියකි.
+It is reported that his purpose is to go to England and applying for refuge.
 
-2006 වසරේදී මෙහාරා එංගන්තයට ගොස් එහි සිටි සිය පියාගේ පවුලේ අය හා එක්වුණු අතර ඇය වෛද්‍ය භෞතික විද්‍යාව පිළිබඳ උපාධිය හදාරා මේ වනවිට එරට රැකියාවක යෙදෙන්නීය.
+Indian media stated that he was a guilty of the assassination of Rajiv Gandhi and was later released and released from Susagan's wife. The petition has been filed by Nalini.
+
+When Nalini was arrested as a suspect in Rajiv Gandhi's murder, she was a pregnant.
+
+In 2006, Mahaha went to England and joined his father's family and shedding medical degree in Medical Physics.
 
 ◼️
 
 [Data](articles/dbf8410c.json)
+
+[Extended Data](ext_articles/dbf8410c.ext.json)
 
 ---
 
@@ -74,21 +140,27 @@ Police said that a search operation was initiated after informing the Sri Lanka 
 
 ---
 
-### ඉන්ධන මිල තවදුරටත් අඩු කරනවා
+### Fuel prices further reduce
 
 *2024-03-08 11:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-තවදුරටත්-අඩු-කරනවා/11-408492) · `si`
 
-විදුලි බල මණ්ඩල සංශෝධිත නව පනත් කෙටුම්පත නිෂ්කාශන කටයුතු සඳහා නීති දෙපාර්තමේන්තුව වෙත යොමු කර ඇති බවත් කැබිනට් අනුමැතියෙන් පසු ලබන අප්‍රේල් මාසයේදී පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කර ගැනීමට අපේක්ෂා කරන බවත් විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+Minister Kanchana Wijesekara announced a 21.9% reduction in electricity tariffs from midnight 2024, affecting various consumer categories. Fuel prices are also expected to decrease. The reduction is attributed to high rainfall, economic stability, and efforts to replace old power plants.
 
-මිල සූත්‍රය සම්බන්ධයෙන් පාර්ශ්වකරුවන් කැඳවා ඔවුන්ගෙන් විමසීම් සිදු කොට ඉන්ධන මිල තවදුරටත් අඩු කිරීමට සූදානම් බව ද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (07දා) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+The Minister of Power and Energy Kanchana Wijesekara said that the CEB has been referred to the legal clearance of the CEB.
 
-"2024 මාර්තු මස 05 වන දින මධ්‍යම රාත්‍රියේ සිට විදුලි ගාස්තු 21.9%කින් අඩු කිරීමට හැකියාව ලැබුණා. ඒකක 30ට අඩු කාණ්ඩයේ පාරිභෝගිකයන්ගේ විදුලි ඒකක මිල 33%කින් අඩු කෙරුණා. ඒකක 31ත් 60ත් අතර පාරිභෝගිකයන්ගේ බිල්පත 28%කින් පහළ ගියා. ඒකක 60ත් 90ත් අතර පාරිභෝගිකයන්ගේ බිල්පත 30%කින් ද, ඒකක 90ත් 180ත් අතර පාරිභෝගිකයින්ගේ බිල්පත 24%කින් ද පහළ ගියා.
+The Minister said that the partners summoned the stakeholders about the price formula and promptly to reduce the fuel prices.
+
+Minister of Power and Energy Kanchana Wijesekara was speaking at a press conference held at the Presidential Media Center yesterday (07).
+
+"Electricity tariffs from midnight 2024 to reduce electricity tariffs by 21.9%. The consumer's electricity units of less than 30 units reduced by 33%. The bill of customers between 31 to 60 units fell by 28%. The bill of customers between 60 to 90 units, the bill of customers between 90 and 180 units and 180 units fell by 24%.
 
 ...
 
 [Data](articles/005c0a87.json)
+
+[Extended Data](ext_articles/005c0a87.ext.json)
 
 ---
 
@@ -151,26 +223,6 @@ Sweden's Prime Minister Ulve Christterson, who welcomed Sweden's merger in Nate 
 [Data](articles/1f89040a.json)
 
 [Extended Data](ext_articles/1f89040a.ext.json)
-
----
-
-### Opportunities for opposition leaders to discuss with the high -level committee of the International Monetary Fund
-
-*2024-03-08 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178237) · `ta`
-
-The Presidential Media Unit announced that President Ranil Wickremesinghe will host a meeting on Monday for opposition leaders to discuss IMF proposals with its high-level committee.
-
-🟩
-
-The Presidential Media Unit said that steps have been taken to provide an opportunity to discuss the proposals of the International Monetary Fund with its high -level committee.
-
-Accordingly, President Ranil Wickremesinghe has called for a meeting at the Presidential Office on Monday to give this opportunity to the leaders of the opposition parties approved in Parliament.
-
-◼️
-
-[Data](articles/e9e3f615.json)
-
-[Extended Data](ext_articles/e9e3f615.ext.json)
 
 ---
 
@@ -2161,45 +2213,5 @@ The Vavuniya court has ordered the worship of Pooja at the Vedukkunnarimalai tem
 [Data](articles/7a59de5d.json)
 
 [Extended Data](ext_articles/7a59de5d.ext.json)
-
----
-
-### President to invite Opposition parties to discuss IMF programme
-
-*2024-03-07 21:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-invite-Opposition-parties-to-discuss-IMF-programme/108-278438) · `en`
-
-Colombo, March 07 (Daily Mirror) -  President Ranil Wickremesinghe has announced plans to convene a meeting next Monday (11) inviting leaders, including those from the Opposition to contribute ideas in line with the ongoing discussions with officials from the International Monetary Fund (IMF).
-
-He revealed this at the launching ceremony of the "Press Vs. Prez" book today (07), with the President presiding over the event.
-
-“Yesterday, MP Harsha de Silva suggested the involvement of Opposition representatives in discussions on debt management. I intend to invite all leaders, including those from the Opposition, to participate in these discussions with the IMF and adhere to their final decisions. Together, we can navigate this journey towards a stable future,” he said.
-
-...
-
-[Data](articles/f2b49ae1.json)
-
-[Extended Data](ext_articles/f2b49ae1.ext.json)
-
----
-
-### Significant increase in labor remittances
-
-*2024-03-07 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194272) · `si`
-
-In February 2024, Sri Lanka's labor remittances increased significantly, with the Central Bank reporting US $ 476.2 million sent and earned, a 16.88% and 113.92% increase from February 2023.
-
-🟩
-
-US $ 476.2 million in February 2024 has sent US $ 476.2 million in February 2024, the Central Bank of Sri Lanka.
-
-The Central Bank said Sri Lanka has earned US $ 345.7 million in the same month.
-
-It is 16.88% and 113.92% respectively compared to February 2023.
-
-◼️
-
-[Data](articles/9cb1e463.json)
-
-[Extended Data](ext_articles/9cb1e463.ext.json)
 
 ---

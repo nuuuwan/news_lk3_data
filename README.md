@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 15:03:54**
+As of **2024-03-08 15:17:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,834
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,678 (100.0%) of 11,681 articles have been extended.
+11,681 (100.0%) of 11,681 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,29 +42,33 @@ Addressing the International Women’s Day celebration today, President Ranil Wi
 
 The Women's Empowerment Act was officially gazetted yesterday and the Gender Equality Act is set to be gazetted next week.
 
-UNP Chairman and Member of Parliament Vajira Abeywardene and Minister of Labour Manusha Nanayakkra who elaborated on the Women’s Empowerment Bill and the Gender Equality Bill, said the two Bills will provide more security and economic stability to women.
-
-Both were speaking during a programme organized by the UNP Women’s wing Lak Wanitha Peramuna to mark International Women’s Day this morning.
-
-...
+◼️
 
 [Data](articles/346f207f.json)
 
+[Extended Data](ext_articles/346f207f.ext.json)
+
 ---
 
-### 107 வயதான முதியவர் யாழ்ப்பாணத்தில் உயிரிழப்பு!
+### A 107 -year -old man dies in Jaffna
 
 *2024-03-08 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178254) · `ta`
 
-யாழ்ப்பாணம் - சாவகச்சேரியில் 107 வயது முதியவர் ஒருவர் நேற்று வியாழக்கிழமை (07) சுகயீனம் காரணமாக  உயிரிழந்துள்ளார்.
+A 107-year-old man from Jaffna, born in 1917, passed away after a month-long illness. He had 10 children, 75 grandchildren, and 25 great-grandchildren.
 
-1917ஆம் ஆண்டு இவர் பிறந்துள்ளார். இவர் தனது 107 வயது பிறந்தநாளை அண்மையில் வெகுவிமர்சியாக கொண்டாடியிருந்தார். இவருக்கு 10 பிள்ளைகள், 75 பேரப்பிள்ளைகள், 25 பூட்டப்பிள்ளைகள் 5 கொள்ளுப் பேரப் பிள்ளைகள் உள்ளனர்.
+🟩
 
-கடந்த 1 மாத காலமாக சுகயீனமுற்ற நிலையில் உயிரிழந்துள்ளார்.  இலங்கையில் ஆங்கிலேயர் ஆண்ட காலப்பகுதியில் இவர் பணிபுரிந்தமை குறிப்பிடத்தக்கது.
+A 107 -year -old man died yesterday (07) in Chavakachcheri in Jaffna.
+
+He was born in 1917. He recently celebrated his 107 -year -old birthday. He has 10 children, 75 grandchildren, 25 lockups and 5 grandchildren.
+
+He has died for the past 1 month.It is noteworthy that he worked during the British period in Sri Lanka.
 
 ◼️
 
 [Data](articles/72fc5dc2.json)
+
+[Extended Data](ext_articles/72fc5dc2.ext.json)
 
 ---
 
@@ -238,19 +242,25 @@ To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all 
 
 ---
 
-### අත්අඩංගුවට ගත් සැකකරු රෝහල් ගත කරන විට මියගිහින්
+### The suspect died when hospitalized
 
 *2024-03-08 13:32:26* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-සැකකරු-රෝහල්-ගත-කරන-විට-මියගිහින්/11-408494) · `si`
 
-මාදම්පේ පොලිස් වසමේ පම්බල ප‍්‍රදේශයේදී හලාවත කොට්ඨාස විෂ මත්ද්‍රවය ඒකකයේ නිලධාරින් ඛණ්ඩායමක් විසින් ලද තොරතුරකට අනුව පසුගිය 06 වැනිදා මත්ද්‍රව්‍ය වැටලිමක් සිදු කර ඇති අතර, එහිදි සැක කරුවන් දෙදෙනකු අත්අඩංගුවට ගැනීමට යාපම්දී පලා ගොස් ඇත. නිලධාරීන් විසින් ඔවුන් පසු පස ලූ‍හුබැඳ යා‌ෙම්දී එක් සැකකරුවකු බිම ඇද වැටී ඇති අතර, පසුව නිලධාරීන් විසින් සැකකරුවන් දෙදෙදනාම අත්අඩංගුවට ගෙන ඇත.
+Two suspects arrested in a drug raid by the Chilaw divisional poisoning unit were hospitalized, where one died. The Chilaw Responsibility Act issued a post-mortem examination, suggesting the death was due to drug overdose.
 
-බිම ඇද වැටී සිටි සැකකරු සිහිසුන් වීම හේතුවෙන් නිලධාරින් විසින් එම පුද්ගලයාා හලාවත රෝහලට ඇතුලත් කල බව පොලීසිය පවසයි. සැකකරු පරීක්ෂා කළ ‌ෛවද්‍යවරුන් විසින් ඔහු මිය‌ගොස් ඇති බවට දන්වා ඇත. මරණ කරු වයස අවුරුදු 37 ක් වූ හලාවත ප්‍රදේශයේ පදිංචි අයෙකි.
+🟩
 
-මත්ද්‍රවය අඩංගු පොලිතින් වර කැබැල්ලක් ස්වරාලයේ හිරවීම හේතුවෙන් හුස්ම ගැනීමට නොහැකි වීමෙන් සිදුවූ මරණයක් බවට හලාවත පරෝහල් වි‌ෙශ්ෂඥ අධිකරණ‌ ‌ෛවද්‍යය නිලධාරියා විසින් පශ්චාත් මරණ පරික්ෂණ වාර්තාවක්ද නිකුත්කර ඇති බව පොළීසිය අන්වා සිටියි.
+Chilaw divisional poisoning unit of Chilastic poisoning unit in the Madampe Police Division has passed a drug raid on the 6th and had fled to the arrest of two suspects.. One suspect has fallen on the ground while the officials have fallen to the ground and later arrested the suspects.
+
+The suspects were admitted to the Chilaw Hospital due to unconsciously survived the suspect.. The suspect has been told that he had died by checked doctors. The delade was a 37 year old resident of Chilaw.
+
+The Chilaya is an estimate that a post mortem examination has been issued by the Chilaw Responsibility Act of a death sentence from the starvation of drugs.
 
 ◼️
 
 [Data](articles/312a3424.json)
+
+[Extended Data](ext_articles/312a3424.ext.json)
 
 ---
 

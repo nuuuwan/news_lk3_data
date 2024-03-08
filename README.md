@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 23:33:32**
+As of **2024-03-08 23:52:30**
 
 ## Newspaper Stats
 
-*Scraped **11,757** Articles*
+*Scraped **11,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 110
 bbccomsinhala | 139
 dbsjeyarajcom | 178
 newsfirstlk | 363
-economynextcom | 616
+economynextcom | 617
 dailyftlk | 617
 islandlk | 627
 adalk | 997
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,756 (100.0%) of 11,757 articles have been extended.
+11,757 (100.0%) of 11,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Under the proposed Women’s Empowerment Act, the establishment of a separate co
 ...
 
 [Data](articles/63fcfcb1.json)
+
+[Extended Data](ext_articles/63fcfcb1.ext.json)
 
 ---
 
@@ -139,6 +141,26 @@ Sen continued the second day of the second day (8) today (8). Jones College. Sac
 [Data](articles/078e272d.json)
 
 [Extended Data](ext_articles/078e272d.ext.json)
+
+---
+
+### Sri Lanka foreign reserves inch up to US$4517 in Feb 2024
+
+*2024-03-08 22:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-inch-up-to-us4517-in-feb-2024-153874/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross official reserves inched up to 4,517 million US dollars in February 2024 from 4,496 million US dollars in January, official data showed.
+
+Gross official reserves include fiscal balances which are usually borrowed – unless they are privatization proceeds  – and monetary reserves, which are a central bank asset.
+
+A reserve collecting central bank is expected to buy them against the note issue (which is a perpetual interest free liability) or by purchasing them by selling down domestic assets outright.
+
+Post-1960s inflationist central bank also started to borrow dollars through central bank swaps after a desperate Fed started the practice to stop its gold losses as interest rates were mistargeted for statistical aims rejecting classical economic principes, analysts say.
+
+Sri Lanka’s central bank had swap lines from the Reserve Bank of India and the People’s Bank of China.
+
+...
+
+[Data](articles/a9e639f9.json)
 
 ---
 
@@ -2331,29 +2353,5 @@ A 19-year-old Sri Lankan student who lived with the murder had been arrested by 
 [Data](articles/dd88e433.json)
 
 [Extended Data](ext_articles/dd88e433.ext.json)
-
----
-
-### Struggle is abandoned as the statue of Buddha is removed in Chiripuram - Sukash
-
-*2024-03-08 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178230) · `ta`
-
-Protest in Chiripuram ends with Buddha statue removal. Tamil National People's Front spokesperson Kanagaratnam Sukash announced the protest's abandonment. The statue was initially called for removal.
-
-🟩
-
-Tamil National People's Front media spokesman Kanagaratnam Sukash has announced that the protest is abandoned due to the removal of the Buddha statue in Chiripuram.
-
-The Buddha statue was called for a protest on Friday, demanding the removal of the statue of Buddha.
-
-In this case, the statue of the Buddha in Chiripuram is abandoned, he said.
-
-Forty. We believe that those who cannot achieve anything by the struggles will join us anymore. We will fight for the end of the race, ”he added.
-
-◼️
-
-[Data](articles/6ceea042.json)
-
-[Extended Data](ext_articles/6ceea042.ext.json)
 
 ---

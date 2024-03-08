@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 10:51:27**
+As of **2024-03-08 11:02:57**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,640 (100.0%) of 11,642 articles have been extended.
+11,642 (100.0%) of 11,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### ධීවර යාත්‍රාවක් යළිත් අතුරුදන්
+### Fishing vessel is back missing
 
 *2024-03-08 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194284) · `si`
 
-කල්පිටියෙන් ධීවර කටයුතු සඳහා මුහුදු ගිය ධීවර යාත්‍රාවක් නැවත ගොඩබිමට නොපැමිණි බවට සඳහන් කරමින් කල්පිටිය පොලිසීයට එම යාත්‍රාවේ හිමිකරු පැමිණිලි කර තිබේ.
+A fishing vessel is missing in Kalpitiya, with three fishermen aged 21, 37, and 38 from Evtatoadaka. The Navy has been informed and is investigating.
 
-මෙම යාත්‍රාවේ ධීවරයින් තිදෙනෙක් ගමන් කර ඇති අතර ඔවුන් 21, 37 සහ 38 යන වයස්වල පසුවන ඊච්චන්කාඩුව ප්‍රදේශයේ පදිංචිකරුවන්ය.
+🟩
 
-මේ සම්බන්ධයෙන් නාවික හමුදාව දැනුවත් කර සෝදිසි කටයුතු ආරම්භ කර ඇති බව පොලීසිය පවසයි.
+The owner of the vessel has complained to the Kalpitiya Police stating that a fishing vessel in the sea for fisheries in Kalpitiya.
+
+Three fishermen of this vessel have traveled and residents of the Evtatoadaka area in the ages of 21, 37 and 38.
+
+The Navy has educated the Navy in this regard and investigations have commenced investigations.
 
 ◼️
 
 [Data](articles/a9fc5ed6.json)
+
+[Extended Data](ext_articles/a9fc5ed6.ext.json)
 
 ---
 
@@ -107,6 +113,8 @@ The plastic water bottles discarded by Sri Pada pilgrims were taken to the garba
 ...
 
 [Data](articles/e933db0e.json)
+
+[Extended Data](ext_articles/e933db0e.ext.json)
 
 ---
 
@@ -774,7 +782,7 @@ With the disappearance of queues for essential items, and the steadfast repressi
 
 *2024-03-08 05:51:38* · [`dailyftlk`](https://www.ft.lk/columns/NPP-and-bird-cage-economy/4-759286) · `en`
 
-NPP’s bird cage economy would be realistically grounded on a rejuvenated real
+NPP’s bird cage economy would be realistically grounded on a rejuvenated real sector rather than on an IMF stabilised financial sector
 
 It was Chen Yun, a theoretical economist and a Chinese Communist Party Politburo member from 1934 to 1987 who rejected Mao Zedong’s reliance on the revolutionary enthusiasm of masses to promote rapid economic growth, and propounded the theory of a bird cage economy characterised by a dominant plan and subordinate local markets. Yun stressed the importance of the market to improve agricultural production and productivity. And it was that model which was later picked up by Deng Xiaoping and put into practice.
 
@@ -858,7 +866,7 @@ Stark, who responded positively to the minister’s request, told the minister t
 
 *2024-03-08 05:44:05* · [`dailyftlk`](https://www.ft.lk/columns/Expanding-Ed-tech-through-partnerships-and-AI-to-improve-quality-education-Insights-for-Sri-Lanka/4-759284) · `en`
 
-Use of technology in education has notably enhanced productivity and
+Use of technology in education has notably enhanced productivity and resilience in the educational sector
 
 ‘’Currently an assessment could be deployed in about 5 minutes, in class, student responses are instantaneous and so are the results (he doesn’t need to grade them separately). Traditional assessment usually takes 3-4 hours each’’ -- an assistant teacher at a Composite School in India who has been using Class Saathi, an Ed-tech initiative which is a Bluetooth clicker-based smart classroom solution that makes formative assessment easy and fast.
 

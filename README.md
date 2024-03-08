@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 16:49:29**
+As of **2024-03-08 17:02:41**
 
 ## Newspaper Stats
 
-*Scraped **11,705** Articles*
+*Scraped **11,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,413
 adaderanalk | 1,422
 virakesarilk | 1,610
 dailymirrorlk | 1,783
-adaderanasinhalalk | 1,838
+adaderanasinhalalk | 1,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,695 (99.9%) of 11,705 articles have been extended.
+11,705 (100.0%) of 11,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### උණුසුම අවධානය යොමු කළ යුතු මට්ටමට
+
+*2024-03-08 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194298) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (09) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව වයඹ, දකුණු හා උතුරු මැද සහ පළාත්වලත් මොනරාගල, රත්නපුර, මන්නාරම, වවුනියා මුලතිව් හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/2d196c0b.json)
+
+---
 
 ### Advisory issued for rising temperatures in 5 districts
 
@@ -47,6 +63,8 @@ Thus, members of the public have been advised to stay hydrated, take breaks in t
 ...
 
 [Data](articles/ffe48f99.json)
+
+[Extended Data](ext_articles/ffe48f99.ext.json)
 
 ---
 
@@ -72,21 +90,29 @@ Sri Lankan teachers are paid low salaries. At Sri Lanka’s salary scales with d
 
 [Data](articles/d5c537fa.json)
 
+[Extended Data](ext_articles/d5c537fa.ext.json)
+
 ---
 
-### ගාලු පාරේ කොටසක් වැසෙයි
+### Part of Galle Road closed
 
 *2024-03-08 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194296) · `si`
 
-ගාලු පාර, වැල්ලවත්ත, දුම්රියපොළ පාර ප්‍රදේශයෙන් ගිලා බැස්මකට ලක්ව ඇතැයි වාර්තා වේ.
+Galle Road, Wellawatte, and Railway Station Road are closed, limiting Wellawatte to one lane. Buses now travel via the coastal road to Colombo and back to Galle.
 
-මේ හේතුවෙන් වැල්ලවත්ත ප්‍රදේශයෙන් මාර්ගය එක් මංතීරුවකට පමණක් සීමා කර තිබේ.
+🟩
 
-ඒ අනුව බස් රථ වෙරළ පාරෙන් සහ කොළඹ සිට ගාල්ල බලා යන මංතීරුව භාවිතා කරමින් කොළඹට ගමන් කරන බව ද වාර්තා වේ.
+It is reported that the Galle Road, Wellawatte and Railway Station Road have been reported from the area.
+
+As a result, the road from Wellawatte is limited to one lane.
+
+It is reported that the buses will travel to Colombo using the coastal road and Colombo to Galle.
 
 ◼️
 
 [Data](articles/45f3724b.json)
+
+[Extended Data](ext_articles/45f3724b.ext.json)
 
 ---
 
@@ -105,6 +131,8 @@ When inquired by Ada Derana, Minister Fernando said that accordingly the new boa
 ◼️
 
 [Data](articles/0695e42d.json)
+
+[Extended Data](ext_articles/0695e42d.ext.json)
 
 ---
 
@@ -269,6 +297,8 @@ The government as well as MPs from the main opposition Samagi Jana Balawegaya (S
 ...
 
 [Data](articles/4ffdfd0c.json)
+
+[Extended Data](ext_articles/4ffdfd0c.ext.json)
 
 ---
 
@@ -542,6 +572,8 @@ The IMF second review commenced on Thursday at the Finance Ministry. Wickremesin
 
 [Data](articles/7a8dbc30.json)
 
+[Extended Data](ext_articles/7a8dbc30.ext.json)
+
 ---
 
 ### Collection of 3 ton plastic bottles during the Sivanolipada Mountain Season
@@ -738,6 +770,8 @@ Responding to questions raised by a YouTube channel on Thursday March 07, Abeysi
 
 [Data](articles/8313ccb8.json)
 
+[Extended Data](ext_articles/8313ccb8.ext.json)
+
 ---
 
 ### Murugan asks for the opportunity to go to England
@@ -915,6 +949,8 @@ Sri Lanka’s Softlogic looking to cut debt, sell down subsidiaries
 ◼️
 
 [Data](articles/26ce7115.json)
+
+[Extended Data](ext_articles/26ce7115.ext.json)
 
 ---
 
@@ -1132,25 +1168,31 @@ The bench said it would refer the case to the chief justice, to be posted before
 
 ---
 
-### 'අනේ බුදු බණ එක්ක ජීවත් වෙච්ච දරුවා මගේ. මොනවා හිතෙන්න ඇද්ද?'
+### 'My child who has lived with the Buddha. What must you feel? '
 
 *2024-03-08 10:49:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyezp7w07d4o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, සිය දියණිය සහ ඇගේ දරුවන් ඇතුළු පිරිස අහිමි වීම ගැන මිය ගිය කාන්තාවගේ මව වූ ජයන්ති ඒකනායක BBC සිංහල සේවයට අදහස් පළ කළාය.
+The mother of a Sri Lankan family, Jayanthi Ekanayake, mourns the loss of her daughter and grandchildren, expressing her grief and confusion over their sudden deaths.
 
-'අනේ බුදු බණ එක්ක ජීවත් වෙච්ච දරුවා මගේ. මොනවා හිතෙන්න ඇද්ද?'
+🟩
 
-කැනඩාවේ, ඔටාවාහි දී කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක සාමාජිකයින් හය දෙනෙකු ඝාතනයට ලක් වීම ගැන ජාත්‍යන්තරයේ ද අවදානය යොමුව තිබේ.
+The mother of the woman who died of losing his daughter and her children, his daughter and her children, told the BBC Sinhala.
 
-සිය දියණිය සහ ඇගේ දරුවන් ඇතුළු පිරිස අහිමි වීම ගැන මිය ගිය කාන්තාවගේ මව වූ ජයන්ති ඒකනායක BBC සිංහල සේවයට අදහස් පළ කළාය.
+'My child who has lived with the Buddha. What must you feel? '
 
-''අනේ මගේ කෙල්ල, බුදු බණ එක්ක ජිවත් වෙච්ච දරුවා මගේ. මොනවා හිතෙන්න ඇද්ද ඒ වෙලාවේ. මේ ගේ දොර ගැන කියන කොටත් කියනවා මට නම් මුකුත් එපා අයියට ඔක්කොම දෙන්න කියලා. අපි අද හිටියා, හෙට ගියා. අපි මැරෙන මොහොත කියන්න බෑ අම්මා. එයා නිතරම එහෙම කිවුවා.'' යනුවෙන් ජයන්ති ඒකනායක පැවසුවා ය.
+Internationally, six members of a Sri Lankan family, including four children and four children in Ottawa, is also internationally involved.
 
-මෙම ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ල වී ඇති එම පවුල සමඟ ජීවත් වූ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+The mother of the woman who died of her daughter and her children, Jayanthi Ekanayake commented on BBC Sinhala service.
+
+"My girl lived with my girl and her Buddha. What may you feel at the time. Tell me about this door and tell me to give all the same. We were today, and went tomorrow. Can't tell the moment we die mom. He constantly said. '' Jayanthi Ekanayake said.
+
+A 19-year-old Sri Lankan student who lived with the murder had been arrested by a 19-year-old Sri Lankan student.
 
 ◼️
 
 [Data](articles/dd88e433.json)
+
+[Extended Data](ext_articles/dd88e433.ext.json)
 
 ---
 
@@ -1974,6 +2016,8 @@ There have been reports that Adani had proposed to sell power at 14 US cents or 
 
 [Data](articles/e63452af.json)
 
+[Extended Data](ext_articles/e63452af.ext.json)
+
 ---
 
 ### Evening thundershowers possible in some areas today
@@ -2231,21 +2275,5 @@ Stark, who responded positively to the minister’s request, told the minister t
 [Data](articles/da6cb8d9.json)
 
 [Extended Data](ext_articles/da6cb8d9.ext.json)
-
----
-
-### Expanding Ed-tech through partnerships and AI to improve quality education: Insights for Sri Lanka
-
-*2024-03-08 05:44:05* · [`dailyftlk`](https://www.ft.lk/columns/Expanding-Ed-tech-through-partnerships-and-AI-to-improve-quality-education-Insights-for-Sri-Lanka/4-759284) · `en`
-
-Use of technology in education has notably enhanced productivity and resilience in the educational sector
-
-‘’Currently an assessment could be deployed in about 5 minutes, in class, student responses are instantaneous and so are the results (he doesn’t need to grade them separately). Traditional assessment usually takes 3-4 hours each’’ -- an assistant teacher at a Composite School in India who has been using Class Saathi, an Ed-tech initiative which is a Bluetooth clicker-based smart classroom solution that makes formative assessment easy and fast.
-
-...
-
-[Data](articles/984ce4dd.json)
-
-[Extended Data](ext_articles/984ce4dd.ext.json)
 
 ---

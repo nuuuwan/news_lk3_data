@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 17:17:31**
+As of **2024-03-08 17:33:33**
 
 ## Newspaper Stats
 
-*Scraped **11,709** Articles*
+*Scraped **11,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,118 @@ dailyftlk | 617
 islandlk | 627
 adalk | 995
 tamilmirrorlk | 1,413
-adaderanalk | 1,422
+adaderanalk | 1,423
 virakesarilk | 1,612
-dailymirrorlk | 1,783
+dailymirrorlk | 1,785
 adaderanasinhalalk | 1,839
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,706 (100.0%) of 11,709 articles have been extended.
+11,709 (100.0%) of 11,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### பாலின சமத்துவம் மற்றும் பெண்களுக்கு அதிகாரமளித்தல் ஆகிய இரு சட்டமூலங்களும் பாராளுமன்றில் சமர்ப்பிக்கப்படும் - ஜனாதிபதி
+### Sinkhole in Wellawatta causes traffic restrictions
+
+*2024-03-08 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinkhole-in-Wellawatta-causes-traffic-restrictions/108-278499) · `en`
+
+Colombo, March 08 (Daily Mirror) - The vehicular movement on Galle Road has been hampered due to a sinkhole in Wellawatta near Station Road.
+
+Accordingly, police have restricted vehicular movement along the Galle Road to one lane.
+
+Motorists commuting to Colombo are advised by the police to consider utilizing the Marine Drive route as an alternative.
+
+◼️
+
+[Data](articles/2e21e17c.json)
+
+---
+
+### Both the Gender Equality and the Empowerment of Women will be presented in Parliament - the President
 
 *2024-03-08 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178273) · `ta`
 
-பாலினச் சமத்துவம் மற்றும் பெண்களுக்கு அதிகாரமளித்தல் ஆகிய இரண்டு சட்டமூலங்களும் எதிர்வரும் மே மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced the tablement of Gender Equality and Women's Empowerment in Parliament in May, during the National Women's Day event. The law of empowerment for women was published in the Gazette, with the Gender Equality Act to follow next week.
 
-சர்வதேச மகளிர் தினத்தின் தேசிய நிகழ்வில் இன்று வெள்ளிக்கிழமை (08) உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு தெரிவித்தார்.
+🟩
 
-இதேவேளை, பெண்களுக்கு அதிகாரமளிக்கும் சட்டம் நேற்று வர்த்தமானியில் வெளியிடப்பட்டதாகவும், பாலினச் சமத்துவச் சட்டம் அடுத்த வாரம் வர்த்தமானியில் வெளியிடப்படும் எனவும் ஜனாதிபதி மேலும் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said both the Gender Equality and the Empowerment of Women would be tabled in Parliament in May.
+
+President Ranil Wickremesinghe said this while addressing the National Women's Day National Event on Friday (08).
+
+Meanwhile, the President further stated that the law of empowerment for women was published in the Gazette yesterday and the Gender Equality Act will be published in the Gazette next week.
 
 ◼️
 
 [Data](articles/dd447eef.json)
 
+[Extended Data](ext_articles/dd447eef.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலையில் கடும் பாதுகாப்பு! 5 கிலோ மீற்றர்  நடந்து சென்று சிவனை வழிபட்ட பொதுமக்கள்!
+### Consumer Affairs Authority Board including Chairman resigns
+
+*2024-03-08 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consumer-Affairs-Authority-Board-including-Chairman-resigns/108-278498) · `en`
+
+Colombo, March 08 (Daily Mirror) - The entire Board of Directors of the Consumer Affairs Authority (CAA), including its Chairman, has tendered their resignations.
+
+According to Trade Minister Nalin Fernando, the 15-member Board, led by Chairman Attorney-at-Law Shantha Niriella has stepped down in response to a directive issued by the ministry.
+
+The resignations come following a notification from the ministry, compelling the Board to vacate their positions. The specific reasons behind the directive remain undisclosed.
+
+However, Minister Fernando confirmed that the appointment of a new Board of Directors is scheduled for Monday, hinting at an imminent restructuring within the organization.
+
+◼️
+
+[Data](articles/622480c8.json)
+
+---
+
+### Vehicular movement on Galle Road disrupted in Wellawatta
+
+*2024-03-08 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97824/vehicular-movement-on-galle-road-disrupted-in-wellawatta) · `en`
+
+A small sinkhole near the Station Road in Wellawatta has disrupted vehicular movement on Galle Road.
+
+The police have advised the motorists travelling to Colombo to use the Marine Drive for the time being.
+
+◼️
+
+[Data](articles/5aecd35d.json)
+
+---
+
+### Severe protection in Vedukkunni!The public who walked 5 kilometers and worshiped Lord Shiva!
 
 *2024-03-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178271) · `ta`
 
-வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்ட நிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
+In Vedukkunni, devotees walked 5 km for temple darshan, but the chief priest and temple manager were arrested for forest area infringement. The Special Task Force and police secured the area, blocking access for worshippers. Parliamentarians and swamis were allowed entry with guidance. Despite the roadblock, some managed to reach the temple by foot.
 
-மகாசிவராத்திரி தினத்தினை முன்னிட்டு அது தொடர்பான ஏற்பாடுகளை செய்துகொண்டிருந்த ஆலயத்தின் பிரதம பூசாரி மற்றும் நிர்வாக உறுப்பினர் ஆகியோர் நேற்று வியாழக்கிழமை (07)  இரவு நெடுங்கேணி பொலிஸாரால் கைதுசெய்யப்பட்டிருந்தனர்.
+🟩
 
-அரச காட்டுப்பகுதிக்குள் அத்துமீறி நுளைந்த குற்றச்சாட்டின் அடிப்படையில் அவர்கள் கைதுசெய்யப்பட்டு இன்றையதினம் வவுனியா நீதவானிடம் முற்படுத்தப்பட்டுள்ளனர்.
+The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vedukkunnarimalai.
 
-இதனையடுத்து இன்றையதினம் ஆலயத்தினை சுற்றி விசேட அதிரடிப்படை மற்றும் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளதுடன் ஆலயத்திற்கு செல்லும் பிரதான பாதைக்கு பொலிஸ் வீதித்தடை போடப்பட்டு.
+The chief priest of the temple and the manager of the temple were arrested by the Nedungeni police on Thursday night (07) night.
 
-இதேவேளை மகா சிவராத்திரி வழிபாட்டிற்காக தூர இடங்களில் இருந்து வருகை தந்த பொதுமக்கள், உள்ளே செல்லமுடியாதவாறு பிரதான வீதியில் தரித்தி நின்றனர்.
+They have been arrested on the basis of allegations of infringement in the state forest area and are being tried to the Vavuniya Magistrate today.
 
-சம்பவ இடத்திற்கு பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், செல்வராசா கயேந்திரன், வேலன் சுவாமிகள், ரவிகரன் ஆகியோரும் பிரசன்னமாகியிருந்தனர் சென்றனர்.
+Subsequently, the Special Task Force and Police have been put up around the temple today and the police road has been laid on the main road to the temple.
+
+Meanwhile, the civilians who come from far away places for the Maha Shivaratri worship have been on the main road so that they cannot go in.
+
+Parliamentarian Sivagnanam Sridharan, Selvarasa Kayendran, Velan Swamis and Ravikaran were also present at the scene.
+
+Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
 
 ...
 
 [Data](articles/1ebde8eb.json)
+
+[Extended Data](ext_articles/1ebde8eb.ext.json)
 
 ---
 
@@ -228,15 +290,21 @@ Local resident Muhammad Adam said the number of kidnappers is more than 280.
 
 ---
 
-### නාවිකයෝ 17ක් එකවර කිමිදෙති
+### 17 sailors dial at once
 
 *2024-03-08 16:04:19* · [`adalk`](https://www.ada.lk/breaking_news/නාවිකයෝ-17ක්-එකවර-කිමිදෙති/11-408498) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාවේ කිමිදුම් අංශයේ නාවිකයන් දහහත් දෙනෙකු සඳහා  කිමිදුම් පාඨමාලාව සාර්ථකව සම්පූර්ණ කර විසිර යාම හා ලාංඡන පැළඳවීම, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ගේ ප්‍රධානත්වයෙන් පසුගියදා ත්‍රිකුණාමලය, නාවික තඨාකාංගනයේ කිමිදුම් පාසලේදී සිදු කෙරිණි.
+17 sailors complete dive courses under Navy Vice Admiral Priyantha Perera's guidance.
+
+🟩
+
+The Navy Vice Admiral Priyantha Perera recently presented the sailors of the Sri Lanka Navy to successfully completion and dispersal the dive courses.
 
 ◼️
 
 [Data](articles/80a2c91c.json)
+
+[Extended Data](ext_articles/80a2c91c.ext.json)
 
 ---
 
@@ -2231,53 +2299,5 @@ Female entrepreneurs around the world have played a very vital role during the p
 [Data](articles/b0133f3e.json)
 
 [Extended Data](ext_articles/b0133f3e.ext.json)
-
----
-
-### Freedom from political bondage
-
-*2024-03-08 05:53:26* · [`dailyftlk`](https://www.ft.lk/opinion/Freedom-from-political-bondage/14-759287) · `en`
-
-We have given up hope of escaping from this bondage because we have tried many times and failed every time
-
-With the disappearance of queues for essential items, and the steadfast repression of any descent, it appears as if most of us have settled down to the realities of economic hardships with resignation and despondency. This being a society that was dominated by colonisers for centuries and shaped by beliefs in fate and mystic powers for millennia that kind of thinking can be expected. But giving up any hope of overcoming this adversity and bracing things to get worse as if we are in an inescapable bondage of sort is inexcusable.
-
-...
-
-[Data](articles/24c6b2b8.json)
-
-[Extended Data](ext_articles/24c6b2b8.ext.json)
-
----
-
-### NPP and bird cage economy
-
-*2024-03-08 05:51:38* · [`dailyftlk`](https://www.ft.lk/columns/NPP-and-bird-cage-economy/4-759286) · `en`
-
-NPP’s bird cage economy would be realistically grounded on a rejuvenated real sector rather than on an IMF stabilised financial sector
-
-It was Chen Yun, a theoretical economist and a Chinese Communist Party Politburo member from 1934 to 1987 who rejected Mao Zedong’s reliance on the revolutionary enthusiasm of masses to promote rapid economic growth, and propounded the theory of a bird cage economy characterised by a dominant plan and subordinate local markets. Yun stressed the importance of the market to improve agricultural production and productivity. And it was that model which was later picked up by Deng Xiaoping and put into practice.
-
-...
-
-[Data](articles/2b7c47bc.json)
-
-[Extended Data](ext_articles/2b7c47bc.ext.json)
-
----
-
-### Economic concerns surrounding salary increases at Central Bank of Sri Lanka
-
-*2024-03-08 05:46:51* · [`dailyftlk`](https://www.ft.lk/columns/Economic-concerns-surrounding-salary-increases-at-Central-Bank-of-Sri-Lanka/4-759285) · `en`
-
-Reports of substantial salary hikes at the Central Bank of Sri Lanka (CBSL) raise concerns regarding the economic implications of these decisions. Led by Governor Dr. Nandalal Weerasinghe, the CBSL has defended these raises as lawful under the Central Bank Act, citing the need for competitive salaries to retain skilled personnel. However, several economic arguments suggest that these salary increases may not be in the best interest of economic stability in the nation.
-
-n The salary hikes at the CBSL could set a precedent for similar demands across the economy. Trade unions have already seized upon this case to press for wage increases for their members. As the public sector often sets the tone for wage-setting practices, the CBSL’s actions risk undermining its primary mission of maintaining price stability. Widespread wage increases could fuel inflationary pressures, ultimately eroding the purchasing power of consumers and destabilizing the economy.
-
-...
-
-[Data](articles/e799dd20.json)
-
-[Extended Data](ext_articles/e799dd20.ext.json)
 
 ---

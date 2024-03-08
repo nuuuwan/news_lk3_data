@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 14:17:55**
+As of **2024-03-08 14:33:11**
 
 ## Newspaper Stats
 
-*Scraped **11,675** Articles*
+*Scraped **11,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 1,413
 adaderanalk | 1,418
 virakesarilk | 1,607
 dailymirrorlk | 1,779
-adaderanasinhalalk | 1,832
+adaderanasinhalalk | 1,833
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,675 (100.0%) of 11,675 articles have been extended.
+11,675 (100.0%) of 11,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### මිල සුත්‍රය අක්‍රීය වී කිරිපිටි මිල පාලනය සමාගම් අතට
+
+*2024-03-08 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194291) · `si`
+
+ආනයනික කිරිපිටි මිල තීරණය කිරීම සඳහා සකස් කරන ලද මිල සූත්‍රය 2019 වසරේ සිට ක්‍රියාත්මක නොවීම හේතුවෙන් ආනයනික සමාගම් අධික ලාභයක් ලබාගනිමින් කිරිපිටි අලෙවි කර ඇති බවට රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණ වුණි.
+
+භාණ්ඩගාර නියෝජ්‍ය ලේකම්, ඒ. කේ. සෙනවිරත්න මහතා මේ පිළිබඳව රජයේ මුදල් පිළිබඳ කාරක සභාවේ දී මෙලෙස අදහස් දැක්වීය.
+
+"බද්ද අඩුකරාට මිල අඩු වෙලා නෑ. ඒ දේ ඇබ්සෝප් කරන්න සහ රජය විදියට අපිට යම් ආදායමක් ගැනීමේ අදහසින් තමා මේක කරලා තියෙන්නේ."
+
+"2023 ජනවාරි ගත්තොත් කිලෝ 1කට CIF වටිනාකම රු 1550ක් ඇවිත් තියෙනවා. පෙබරවාරි වෙද්දි රු 1,465කට අඩුවෙලා."
+
+වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතා අමාත්‍යාංශයේ නිලධාරියෙක් - "කිරිපිටිවලට මිල සුත්‍රයක් නැහැනේ."
+
+හර්ෂ ද සිල්වා - "මොකද නැත්තේ 2018 මමනේ මිල සුත්‍රය හැඳුවේ. වෙන ඒවා වගේ නෙමෙයි හැමෝම එකඟ වුණා ඒකට. කවදා ඉඳලද මිල සුත්‍රය අයින් කරේ."
+
+වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතා අමාත්‍යාංශයේ නිලධාරියෙක් - "මිල සුත්‍රයක් හැදුවත් භාණ්ඩාගාරයෙන් අනුමැතිය ලැබුණේ නැහැලු."
+
+...
+
+[Data](articles/b64ca528.json)
+
+---
 
 ### Collection of 3 ton plastic bottles during the Sivanolipada Mountain Season
 
@@ -2243,25 +2267,5 @@ The Ottawa Police said that one suspect was arrested on the crime.
 [Data](articles/4cef2619.json)
 
 [Extended Data](ext_articles/4cef2619.ext.json)
-
----
-
-### Six of ‘Sri Lankan family’ found shot dead in Ottawa home, including four children
-
-*2024-03-07 22:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97807/six-of-sri-lankan-family-found-shot-dead-in-ottawa-home-including-four-children) · `en`
-
-(AP) — Police in Ottawa on Thursday were investigating a suspected multiple homicide following the deaths of two adults and four children at a house in the southern part of the Canadian capital.
-
-A seventh person was in hospital with serious, but non-life-threatening, injuries. It was not immediately announced how the victims died Wednesday, but the Ottawa mayor referred to the case as a “multiple homicide,” and police said a suspect had been arrested.
-
-Sri Lanka’s high commission in Ottawa said the victims were a family of Sri Lankan nationals who were not Canadian citizens. The high commission said the father survived but his wife and children died, adding that it is in touch with relatives in the country’s capital of Colombo.
-
-Canadian authorities have not confirmed the identities of the deceased, their ages or the identity of the person in hospital.
-
-...
-
-[Data](articles/539be796.json)
-
-[Extended Data](ext_articles/539be796.ext.json)
 
 ---

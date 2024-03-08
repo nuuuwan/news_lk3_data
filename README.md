@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 21:52:24**
+As of **2024-03-08 22:03:20**
 
 ## Newspaper Stats
 
-*Scraped **11,746** Articles*
+*Scraped **11,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,426
-virakesarilk | 1,617
-dailymirrorlk | 1,792
-adaderanasinhalalk | 1,845
+virakesarilk | 1,618
+dailymirrorlk | 1,793
+adaderanasinhalalk | 1,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,746 (100.0%) of 11,746 articles have been extended.
+11,746 (100.0%) of 11,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Gold prices surge to fresh record high
+
+*2024-03-08 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-prices-surge-to-fresh-record-high/108-278510) · `en`
+
+March 8 (Reuters) - Gold prices surged to a fresh record high on Friday as data showing a rise in the U.S. unemployment rate boosted expectations that the Federal Reserve could begin cutting interest rates soon.
+
+Spot gold rose 0.7% to $2,173.49 per ounce by 10:42 a.m. ET (1542 GMT), while U.S. gold futures added 0.7% to $2,180.50.
+
+Bullion was on track to post its biggest weekly percentage increase since mid-October.
+
+Gold reached an all-time high of $2,185.19 after a report showed a rise in the U.S. unemployment rate and a moderation in wage gains despite job growth acceleration in February.
+
+"We still believe the same underlying premise remains, which is the combination of the expectation that the Fed is still going to cut rates later this year and dollar weakness," said David Meger, director of metals trading at High Ridge Futures.
+
+...
+
+[Data](articles/497580fb.json)
+
+---
+
+### வடக்கின் பெரும் போர் பெரும் துடுப்பாட்டப் போட்டியில் யாழ்ப்பாணம் மத்திய கல்லூரி வெற்றி வாய்ப்பில் மிகவும் பலவீனமான நிலையில் உள்ளது
+
+*2024-03-08 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178291) · `ta`
+
+இரண்டாவது இன்னிங்ஸில் துடுப்பெடுத்தாடி வரும் யாழ். மத்திய கல்லூரி வெள்ளிக்கிழமை (08) இரண்டாம் நாள் ஆட்டம் முடிவில் 140 ஓட்டங்களுக்கு 9 விக்கெட்களை இழந்துள்ளது. இன்னும் ஒரு விக்கெட்டே கைவசமுள்ள நிலையில் சென். ஜோன்ஸ் கல்லூரியைவிட 69 ஓட்டங்களே முன்னிலை வகிக்கிறது.
+
+வடக்கின் பெரும் போர் என்று அழைக்கப்படும் யாழ். மத்திய கல்லூரி - சென். ஜோன்ஸ் கல்லூரி அணிகளின் 117ஆவது பெருந்துடுப்பாட்டப் போட்டி வியாழக்கிழமை (7) யாழ். மத்திய கல்லூரி மைதானத்தில் ஆரம்பமானது.
+
+நாணயச் சுழற்சியில் வென்ற யாழ். மத்திய கல்லூரி முதலில் துடுப்பெடுத்தாடியது. முதல் இன்னிங்ஸில் அந்த அணி 56.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 157 ஓட்டங்களைப் பெற்றது. இதில், சயந்தன் அதிகபட்சமாக 55 ஓட்டங்களை எடுத்தார்.
+
+பதிலுக்கு தனது முதல் இன்னிங்ஸை தொடங்கிய சென். ஜோன்ஸ் கல்லூரி முதல் நாள் ஆட்டம் முடிவில் 30.5 ஓவர்களில் 2 விக்கெட்கள் இழப்புக்கு 109 ஓட்டங்களைப் பெற்றிருந்தது. சச்சின் 36 ஓட்டங்களுடன் ஆட்டமிழக்காது இருந்தார்.
+
+...
+
+[Data](articles/078e272d.json)
+
+---
 
 ### Tension on the Mount of Vedukkuni: Many arrested
 
@@ -51,6 +89,20 @@ Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis 
 [Data](articles/0216c02a.json)
 
 [Extended Data](ext_articles/0216c02a.ext.json)
+
+---
+
+### බොරැල්ල හංදියේ වාහන 4ක් ගැටෙයි
+
+*2024-03-08 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194305) · `si`
+
+අප වාර්තාකරු පැවසුවේ මෝටර් රථයක් අධික වේගයෙන් ගමන් කර නවතා තිබූ පෞද්ගලික බස් රථයක් ගැටී අනතුර සිදුව ඇති බවය.
+
+අනතුරින් ඒ අසලින් ගමන්ගත් තවත් වෑන් රථයකට හා මෝටර් රථයකට ද හානි සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/145eceb4.json)
 
 ---
 
@@ -2303,75 +2355,5 @@ The plastic water bottles discarded by Sri Pada pilgrims were taken to the garba
 [Data](articles/e933db0e.json)
 
 [Extended Data](ext_articles/e933db0e.ext.json)
-
----
-
-### Suspect arrested with a golden sword
-
-*2024-03-08 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194283) · `si`
-
-A 62-year-old from Dickwella was arrested with a golden sword during a raid by the Kataragama Police Special Task Force, following a tip.
-
-🟩
-
-A golden sword has been arrested in a raid conducted by a tip off received by the STF.
-
-The raid was carried out by the Kataragama Police Special Task Force yesterday evening yesterday (07).
-
-The golden sword was transported by a cab.
-
-The suspect arrested with the sword was a 62 year old Dickwella area.
-
-◼️
-
-[Data](articles/362b116b.json)
-
-[Extended Data](ext_articles/362b116b.ext.json)
-
----
-
-### Action to appear in court, including the priest of the temple
-
-*2024-03-08 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178223) · `ta`
-
-An executive member of the Vavuniya Vedukkunni Temple, involved in organizing Shivaratri Pooja, was arrested by the Nedungeni police. Steps are being taken to bring them to court today.
-
-🟩
-
-An executive member of the Vavuniya Vedukkunni Temple, who was involved in the organizing of Shivaratri Pooja, was arrested by the Nedungeni police yesterday.
-
-It is reported that steps have been taken to produce the two of them in the Vavuniya court today.
-
-◼️
-
-[Data](articles/5f71cff1.json)
-
-[Extended Data](ext_articles/5f71cff1.ext.json)
-
----
-
-### Arrest of the Adi Shiva Temple
-
-*2024-03-08 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178221) · `ta`
-
-The All Ceylon Saiva Mahasabha condemns the arrest of priest Sivathiru Mathimukha Raja at the Vedukkunni Mountain Adi Shiva Temple during Maha Shivaratri. This is seen as a grave incident, threatening the worship of Saivites in Sri Lanka. The Mahasabha calls for government action against the Nedungeni Police Station and urges the government to ensure no obstacles to Maha Shivaratri rituals.
-
-🟩
-
-The All Ceylon Saiva Mahasabha has strongly condemned the arrest of the priest Sivathiru Mathimukha Raja, who went to the Maha Shivaratri Pooja of the Vedukkunni Mountain Adi Shiva Temple.
-
-Shivaratri is the most classic first fasting of the Saivites around the world.
-
-Accordingly, the worship of the Adi Shiva Temple, which is worshiped by the Tamil Saivan Temple in the Vavuniya district of Vavuniya in the Vavuniya Sivapu region, was the worst arrests of the worship of the Adi Shiva Temple and the worship of the devotees of the devotees.
-
-This is an unforgivable incident that the most threatening of the worship of the Saivites of Sri Lanka is the same and the arrest of a vegetarian cleric.
-
-We are urging the government to take appropriate action against the Nedungeni Police Station and the police who have arbitrarily acted in violation of court orders.
-
-...
-
-[Data](articles/f2f99a2b.json)
-
-[Extended Data](ext_articles/f2f99a2b.ext.json)
 
 ---

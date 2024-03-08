@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 15:33:27**
+As of **2024-03-08 15:52:07**
 
 ## Newspaper Stats
 
-*Scraped **11,683** Articles*
+*Scraped **11,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,67 @@ tamilmirrorlk | 1,413
 adaderanalk | 1,419
 virakesarilk | 1,608
 dailymirrorlk | 1,781
-adaderanasinhalalk | 1,835
+adaderanasinhalalk | 1,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,681 (100.0%) of 11,683 articles have been extended.
+11,683 (100.0%) of 11,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### උතුරු කොරියාව, දකුණේ අගනුවර ඉලක්ක කර පෙරහුරුවක
+### පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ අධ්‍යක්ෂ මණ්ඩලය අල්ලා අස්වෙයි
+
+*2024-03-08 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194294) · `si`
+
+පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ සභාපතිවරයා ඇතුළු අධ්‍යක්ෂ මණ්ඩලය ඉල්ලා අස්වී තිබේ.
+
+වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා සඳහන් කළේ, ශාන්ත නිරිඇල්ල මහතා ඇතුළු 15 දෙනෙකුගෙන් සමන්විත අධ්‍යක්ෂ මණ්ඩලය මෙලෙස ඉල්ලා අස් වී ඇති බවය.
+
+අමාත්‍යවරයා විසින් සිදුකළ දැනුම්දීමක් අනුව ඔවුන් මෙම පියවර ගෙන ඇති බව සඳහන් ය.
+
+ඒ අනුව නව අධ්‍යක්ෂ මණ්ඩලය සඳුදා දිනයේ පත්කිරීමට නියමිත බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා "අද දෙරණ" කළ විමසීමකදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4152ddfe.json)
+
+---
+
+### North Korea, target the capital of the South
 
 *2024-03-08 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194293) · `si`
 
-උතුරු කොරියාව ඕනෑම මොහොතක යුද්ධයකට සූදානම් බව පිළිබිඹු කරමින් එරට නායක කිම් ජොං අන්, සිය කාලතුවක්කු හමුදාවේ වෙඩිතැබීමේ පෙරහුරුවක් මෙහෙයවීමට එක්වී තිබේ.
+North Korea's artillery rehearsal targeting South Korea's capital reflects readiness for war. The North Korean Kingdom News Service claimed South Korean border forces tested hostile actions against the capital. Despite North Korea's military rehearsals, it's alleged that the attacks were not on South Korea but elsewhere. The rehearsal occurred at the South Korean Staff Office, involving more soldiers than last year and targeting both South Korea and the US during a joint exercise. The South Korean President accused North Korea of provocative exercises against its capital.
 
-උතුරු කොරියානු රාජ්‍ය ප්‍රවෘත්ති සේවාව සඳහන් කළේ දකුණු කොරියානු දේශසීමාවේ රඳවා ඇති බලඇණියක් එහිදී සතුරු අගනුවරට ප්‍රහාරයක් එල්ල කරන ආකාරය අත්හදාබැලූ බවයි.
+🟩
 
-මිලියන 10ක ජනකායක් වෙසෙන දකුණු කොරියාවේ සෝල් අගනුවරට ප්‍රහාරයක් එල්ල කිරීම සඳහා අවශ්‍ය බලය මෙමගින් අත්හදාබලා ඇති බව වාර්තා වෙයි.
+Kim Jong has joined the shooting rehearsal of his artillery, reflecting that North Korea is ready for war.
 
-එමගින් වැදගත් හමුදාමය පෙරහුරුවක් සපුරාලීමට හැකි වූ බවත්, එය තම යුද ශක්තිය විදහා පෑමක් බවත් උතුරු කොරියානු රාජ්‍ය ප්‍රවෘත්ති සේවාව සඳහන් කළේය.
+The North Korean Kingdom News Service stated that the fleet of the South Korean border has experimented with the hostile capital.
 
-කෙසේ නමුත් උතුරු කොරියාව මෙම ප්‍රහාර එල්ල කර ඇත්තේ දකුණු කොරියාව දෙසට නොව කහ මුහුදටයි.
+It is reported that there is power to attack South Korea, who lives in a crowd.
 
-එම පෙරහුරුව ඊයේ (07) පෙරවරු 11 සිට පස්වරු 5 දක්වා පැවති බව දකුණු කොරියානු ඒකාබද්ධ මාණ්ඩලික ප්‍රධානී කාර්යාලය සඳහන් කළේය.
+The North Korean Kingdom News Service said that it was able to meet an important military rehearsal and to manipulate his war energy.
 
-උතුරු කොරියාව මෙම කාලතුවක්කු ප්‍රහාර පෙරහුරුව සිදුකර ඇත්තේ, දකුණු කොරියාව සහ අමෙරිකා එක්සත් ජනපදය අතර, ඒකාබද්ධ නාවික අභ්‍යාසයක් ක්‍රියාත්මක වන අතරතුර ය.
+However, North Korea has launched these attacks on South Korea, not to South Korea.
+
+The rehearsal was at the South Korean Staff Office yesterday (07).
+
+North Korea was performing this artillery attacks on South Korea and the United States, while a joint shipping exercise was operated.
+
+More than the previous year, a number of soldiers participating in the previous month.
+
+North Korean public news service was said to have shown the preparations in North Korea to face a true war through the rehearsal.
 
 ...
 
 [Data](articles/3396e02d.json)
+
+[Extended Data](ext_articles/3396e02d.ext.json)
 
 ---
 
@@ -77,6 +105,8 @@ It is not clear who will build the causeway or secure the aid on land, meaning c
 ...
 
 [Data](articles/80bbed76.json)
+
+[Extended Data](ext_articles/80bbed76.ext.json)
 
 ---
 
@@ -2207,35 +2237,5 @@ Educating school teachers on energy conservation can lead to a brighter future w
 [Data](articles/5cca84eb.json)
 
 [Extended Data](ext_articles/5cca84eb.ext.json)
-
----
-
-### Carrying artists of the president. Prez ”Book
-
-*2024-03-08 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178216) · `ta`
-
-President Ranil Wickremesinghe launched a book of caricatures depicting his role, emphasizing democracy and the abolition of the Criminal Slander Act. The book, compiled by Parliamentarian Vajira Abeywardena, features 618 caricatures and contributions from 40 artists and 20 journalists. It highlights the country's economic recovery and the importance of freedom of expression in democracy.
-
-🟩
-
-Parliamentarian Vajira Abeywardena has depicted President Ranil Wickremesinghe's role in the past. Prez. ”
-
-The book was launched at the Pokuna Gallery of Colombo on Thursday (07) under the leadership of President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe said that such collections are part of democracy and therefore it has been able to ensure that independence has been established in the country.
-
-The President added that such works would never be born in the dictatorial regime and boasted of the abolition of the Criminal Slander Act.
-
-The President pointed out that the government's difficulty in the past has been able to bring the country's economy to favorable and we are in the last part of the dilemma.
-
-The President thanked all the soldiers who made all these caricatures, who were delighted at the time of this difficult time.
-
-President Ranil Wickremesinghe has been compiled in 618 caricatures published in the newspapers on his visit to May 2023 since June 23, 2021.
-
-...
-
-[Data](articles/03653283.json)
-
-[Extended Data](ext_articles/03653283.ext.json)
 
 ---

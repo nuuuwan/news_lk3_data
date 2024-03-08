@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 07:42:50**
+As of **2024-03-08 07:15:51**
 
 ## Newspaper Stats
 
@@ -26,35 +26,27 @@ adaderanasinhalalk | 1,820
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,608 (99.9%) of 11,616 articles have been extended.
+11,596 (99.8%) of 11,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### President's Award recipient arrested
+### ஜனாதிபதி விருது பெற்றவர் கைது
 
 *2024-03-08 06:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/ஜனாதிபதி-விருது-பெற்றவர்-கைது/94-334377) · `ta`
 
-Five, including a President's Award recipient, arrested for using archaeological digging equipment in Polonnaruwa. Suspects, aged 30-50, from various locations, were found with a scanning machine and cameras. They had permission from the Archaeological Department and were searching for treasure.
+பொலன்னறுவை வலேகடை பிரதேசத்தில் உள்ள தோட்டமொன்றில் தொல்பொருட்களை தோண்டுவதற்கு பயன்படுத்திய கருவிகள் மற்றும் நவீன கார் என்பனவற்றுடன் ஜனாதிபதி விருது பெற்றவர் உட்பட ஐவர்  கைது செய்யப்பட்டதாக பொலன்னறுவை   குற்றப் புலனாய்வு பிரிவினர் தெரிவித்தனர்.
 
-🟩
+கைது செய்யப்பட்ட பிரதான சந்தேகநபர் கடவத்தையை வசிப்பிடமாகவும், ஏனைய சந்தேகநபர்கள் பண்டாரவளை, கலேவெல, கந்தளை, மீரிகம ஆகிய பிரதேசங்களை வசிப்பிடமாகவும் கொண்டவர்கள் எனவும், அவர்கள் 30 முதல் 50 வயதுக்குட்பட்டவர்கள் எனவும்   குற்றப் புலனாய்வுப் பிரிவின் கட்டளைத் தளபதி ஏ.டி. பண்டார   தெரிவித்தார்.
 
-The Polonnaruwa Criminal Investigation Department said that five persons, including the president's award, were arrested with equipment and modern car used for digging archaeologies in a garden in Valegadai area in Polonnaruwa.
+பூமிக்கு அடியில் பொருட்கள் உள்ளதா எனப் பார்ப்பதற்காக ஸ்கேனிங் இயந்திரத்துடன் கைது செய்யப்பட்ட 46 வயதுடைய சந்தேகநபர் 1999ஆம் ஆண்டு இயந்திரத்தை உருவாக்கி ஜனாதிபதி விருதைப் பெற்ற பண்டாரவளை பிரதேசத்தைச் சேர்ந்தவர் எனவும் பண்டார தெரிவித்தார்.
 
-The arrested suspect is the resident of Kadawatha and the other suspects are resident of Bandarawela, Galewela, Kandala and Mirigama, and they are aged 30 to 50 years.. Said Bandara.
-
-Bandara said that a 46 -year -old suspect, who was arrested with the scanning machine to see if there were materials underneath, hails from the Bandarawela area who received the President's award in 1999.
-
-Police say that all the material underneath the earth has been created to become a camera and another camera has been carefully fitted to the machine he created.
-
-Police said the suspects had received the permission of the Archaeological Department a few years ago and had arrived in the car to search for the treasure for the second time a week ago.
+பூமிக்கு அடியில் உள்ள அனைத்து பொருட்களும் கமராவாகும் வகையில் இயந்திரமொன்று உருவாக்கப்பட்டுள்ளதாகவும், அவர் உருவாக்கிய இயந்திரத்திற்கு மற்றுமொரு கமெரா கவனமாக பொருத்தப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
 
 ...
 
 [Data](articles/52326963.json)
-
-[Extended Data](ext_articles/52326963.ext.json)
 
 ---
 
@@ -74,61 +66,45 @@ Rajapaksa who recalls several of his failures, most notably the organic farming 
 
 [Data](articles/e4633bf9.json)
 
-[Extended Data](ext_articles/e4633bf9.ext.json)
-
 ---
 
-### More information about the killing of six in Sri Lankan family in Canada
+### කැනඩාවේදී ශ්‍රී ලාංකික පවුලක 6 දෙනෙක් ඝාතනය කිරීම ගැන තවත් තොරතුරු
 
 *2024-03-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194276) · `si`
 
-In Canada, a Sri Lankan family was killed, including the mother, four children, and a 40-year-old man. The suspect, a 19-year-old Sri Lankan student, was involved. This is the first such incident in Ottawa in three decades.
+කැනඩාවේ ඔටාවා හි නිවසක් තුළ ශ්‍රී ලාංකික පවුලක 6 දෙනෙකු ඝාතනය කිරීමේ සිද්ධිය පිළිබඳව තවත් තොරතුරු වාර්තා වෙයි.
 
-🟩
+විදෙස් වාර්තා සඳහන් කළේ, මව සහ ඇයගේ දරුවන් සිව් දෙනෙකු මෙන්ම එම නිවසේ ජීවත් වූ 40 හැවිරිදි පුද්ගලයෙකු සිද්ධියෙන් මිය ගොස් ඇති බවය.
 
-In Canada's home, 6 more information about the killing of 6 persons with a Sri Lankan family.
+මිය ගිය දරුවන් සිව් දෙනාම වයස අවුරුදු හතට අඩු අය බවද වාර්තා වෙයි.
 
-Foreign reports said that the mother and her four children died in the incident as well as a 40-year-old man who lived in the house.
+ඔටාවා පොලිස් ප්‍රධානියා සඳහන් කළේ සැකකරු 19 හැවිරිදි ෆේබ්‍රියන් ද සොයිසා නමැති කැනඩාවේ අධ්‍යාපනය ලබන ශ්‍රී ලාංකිකයෙකු බවය.
 
-Fourteen children have been identified as seven years old.
+මෙම සිදුවීම ප්‍රථමයෙන් වෙඩි තැබීමක් ලෙස පොලීසිය දක්වා තිබුණද පසුව ප්‍රකාශ කළේ  ආයුධයකින් ඝාතන සිදුකර ඇති බවය.
 
-The Chief of Ottawa Police said that the suspect was a Sri Lankan who was studying in Canada, 19-year-old Farbrean de Zoysa.
-
-The incident was first known as a shooting but later stated that a weapon was killed.
-
-The Mayor has said that this is the first time in Ottawa, about three decades.
+දශක තුනක පමණ කාලයකදී ඔටාවා හි මෙවැනි ඝාතනයක් සිදුවූ පළමු අවස්ථාව මෙය වන බව නගරාධිපතිවරයා ප්‍රකාශ කර තිබේ.
 
 ◼️
 
 [Data](articles/9fe1961e.json)
 
-[Extended Data](ext_articles/9fe1961e.ext.json)
-
 ---
 
-### Valamburi abducted Piku arrested
+### வலம்புரி கடத்திய பிக்கு கைது
 
 *2024-03-08 06:42:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வலம்புரி-கடத்திய-பிக்கு-கைது/73-334376) · `ta`
 
-A Buddhist Thera and another person were arrested in Matara for selling a Valamburi conch worth Rs 1 crore. The Special Task Force (STF) rescued them in Kalkuda.
+மாத்தறையில் இருந்து மட்டக்களப்பு விற்பனைக்காக கடத்தி கொண்டுவரப்பட்ட ஒருகோடி ரூபாய் பெறுமதியன வலம்புரிசங்கு ஒன்றுடன் பௌத்த தேரர் ஒருவர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளனர்.
 
-🟩
+மட்டு கல்குடா  பிரதேசத்தில் வைத்து விசேட அதிரடிப்படையினர்  வியாழக்கிழமை (7) இரவு கைது செய்து தம்மிடம் ஒப்படைத்துள்ளதாக கல்குடா பொலிஸார் தெரிவித்தனர்.
 
-Two persons, including a Buddhist Thera, have been arrested for sale from Matara for sale.
+தாண்டியடி விசேட அதிரடிப்படைக்கு கிடைத்த தகவல் ஒன்றினையடுத்து விசேட அதிரடிப்படைத் தளபதி சிரேஸ்ட பிரதிப் பொலிஸ் மா அதிபர் வருண ஜயசுந்தரவின் ஆலோசனைக்கமைய அம்பாறை மட்டக்களப்பு உதவிப் பொலிஸ் பணிப்பாளர் வாவிடவிதானவின் வழிகாட்டலின்கீழ்  தாண்டியடி விசேட அதிரடிப்படை முகாம் பொறுப்பதிகாரி தலைமையிலான குழுவினர்   கல்குடா  தபால் கந்தோருக்கு அருகாமையில் அன்றையதினம் இரவு கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
 
-The Special Task Force (STF) has been arrested on Thursday night in the Kalkuda area and handed over to them, Calcutta police said.
+இந்த நிலையில் அங்கு பௌத்த தேரர் உட்பட இருவர் வலம்புரிசங்கு ஒன்றை விற்பனைக்காக கடத்தி வந்ததை அவதானித்த விசேட அதிரடிப்படையினர் அவர்களை சுற்றிவழைத்து மடக்கிபிடித்து கைது செய்ததுடன் ஒரு கோடி ரூபாய் பெறுமதியான வலம்புரி சங்கு ஒன்றை மீட்டனர்.
 
-On the advice of the Special Task Force Commander Senior Deputy Inspector General of Police Varuna Jayasundera, Ampara Batticaloa Police Director of the Batticaloa Police, Under the guidance of the Ampara Batticaloa Police.
-
-In this case, the Special Task Force, who observed that two men, including Buddhist Thera had been abducted for sale, were arrested and arrested and rescued a Valamburi conch worth Rs 1 crore.
-
-The police said that the arrests and the proof of the proof and the Special Task Force have been handed over to them after the investigation.
-
-◼️
+...
 
 [Data](articles/0d388d1d.json)
-
-[Extended Data](ext_articles/0d388d1d.ext.json)
 
 ---
 
@@ -150,31 +126,23 @@ Winds will be easterly or north-easterly in the sea areas off the coast extendin
 
 [Data](articles/8ab4dabb.json)
 
-[Extended Data](ext_articles/8ab4dabb.ext.json)
-
 ---
 
-### I took Chanakyan to the lift: Rohita
+### சாணக்கியனை லிப்டுக்கு அழைத்துச் சென்றேன்: ரோஹித
 
 *2024-03-08 06:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாணக்கியனை-லிப்டுக்கு-அழைத்துச்-சென்றேன்-ரோஹித/175-334375) · `ta`
 
-Rohitha Abeygunawardena, a former state MP, invited Chanakyan MP to the lift, aiming to protect the Prime Minister. Chanakyan accused Abeygunawardena of attacking the Prime Minister, prompting Abeygunawardena to request an investigation by the Private and Disciplinary Committee.
+சாணக்கியன் எம்.பி.யை நான் பாதுகாப்பாக பிரதமரிடம் அழைத்து  செல்லவே லிப்டுக்கு   (மின்தூக்கி )அருகில் வருமாறு அழைத்தேன் என அரச தரப்பு எம்.பி.யும் முன்னாள் அமைச்சருமான ரோஹித அபேகுணவர்தன தெரிவித்தார்.
 
-🟩
+சாணக்கியனின் குற்றச்சாட்டு தொடர்பில்  சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை உடனடியாக முன்னெடுக்க வேண்டுமென   பிரதி சபாநாயகரிடம் வலியுறுத்தி கருத்து தெரிவித்த போதே  ரோஹித அபேகுணவர்தன மேற்கண்டவாறு தெரிவித்தார்.
 
-"I invited the Chanakyan MP to take the Prime Minister safely to the Lift (Mutt)," said Rohitha Abeygunawardena, former state MP and former minister.
+பிரதமரை சந்திக்க வந்த தன்னை நான் தாக்க முற்பட்டதாக சாணக்கியன் எம்.பி கூறி சிறப்புரிமை மற்றும் ஒழுக்காற்று குழு ஊடாக விசாரணைகளை மேற்கொள்ள வேண்டுமென வலியுறுத்தினார். நான் அந்த விசாரணைக்குழு முன்பாக ஆஜராவேன் .எனக்கு எந்த பிரச்சினையும் இல்லை.
 
-Rohitha Abeygunawardena said this while urging the Deputy Speaker to investigate the immediate investigation through the Private and Disciplinary Committee on Chanakyan's allegation.
-
-Chanakyan MP urged the MP to investigate through the Private Committee and the disciplinary committee, saying that I was trying to attack the Prime Minister.. I will appear before that inquiry. I have no problems.
-
-"You came to meet the Prime Minister.". That is, Chanakyan MP who came to meet the Prime Minister. I tried to take it to the Prime Minister safely. But I do not know that he has so much fear.
+பிரதமரை சந்திக்க வந்த சாணக்கியனிடம்'' நீங்கள் பிரதமரையா சந்திக்க வந்தீர்கள்.லிப்டுக்கு வாருங்கள் அழைத்து செல்கின்றேன் என்றே கூறினேனே. அதாவது பிரதமரை சந்திக்க வந்த சாணக்கியன் எம்.பி. யை பாதுகாப்பாக பிரதரிடம் அழைத்து செல்லவே நான் முயற்சித்தேன். ஆனால் இவரிடம் இந்தளவுக்கு பயம் இருக்கும் என்பது எனக்குத்தெரியாது என்றார்.
 
 ◼️
 
 [Data](articles/c99265a1.json)
-
-[Extended Data](ext_articles/c99265a1.ext.json)
 
 ---
 
@@ -222,23 +190,15 @@ Officers then entered the home and discovered the victims, which included a moth
 
 [Data](articles/ace18c91.json)
 
-[Extended Data](ext_articles/ace18c91.ext.json)
-
 ---
 
-### Trying to prevent Shivaratri at Adi Lingeshwar Temple
+### ஆதி லிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரியை தடுக்க முயற்சி
 
 *2024-03-08 06:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதி-லிங்கேஸ்வரர்-ஆலயத்தில்-சிவராத்திரியை-தடுக்க-முயற்சி/175-334374) · `ta`
-
-Attempting to stop Shivaratri celebrations at Adi Lingeshwar Temple.
-
-🟩
 
 ◼️
 
 [Data](articles/53655e61.json)
-
-[Extended Data](ext_articles/53655e61.ext.json)
 
 ---
 
@@ -251,8 +211,6 @@ In Sri Lanka, companies that have embraced gender equality and diversity have re
 ...
 
 [Data](articles/019d906d.json)
-
-[Extended Data](ext_articles/019d906d.ext.json)
 
 ---
 
@@ -267,8 +225,6 @@ Inclusion is the state of being valued, respected, and supported for one’s aut
 ...
 
 [Data](articles/3da81244.json)
-
-[Extended Data](ext_articles/3da81244.ext.json)
 
 ---
 
@@ -286,8 +242,6 @@ Female entrepreneurs around the world have played a very vital role during the p
 
 [Data](articles/b0133f3e.json)
 
-[Extended Data](ext_articles/b0133f3e.ext.json)
-
 ---
 
 ### Freedom from political bondage
@@ -301,8 +255,6 @@ With the disappearance of queues for essential items, and the steadfast repressi
 ...
 
 [Data](articles/24c6b2b8.json)
-
-[Extended Data](ext_articles/24c6b2b8.ext.json)
 
 ---
 

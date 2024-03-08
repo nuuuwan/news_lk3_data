@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 17:02:41**
+As of **2024-03-08 17:17:31**
 
 ## Newspaper Stats
 
-*Scraped **11,706** Articles*
+*Scraped **11,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 614
 dailyftlk | 617
 islandlk | 627
-adalk | 994
+adalk | 995
 tamilmirrorlk | 1,413
 adaderanalk | 1,422
-virakesarilk | 1,610
+virakesarilk | 1,612
 dailymirrorlk | 1,783
 adaderanasinhalalk | 1,839
 
@@ -26,25 +26,69 @@ adaderanasinhalalk | 1,839
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,705 (100.0%) of 11,706 articles have been extended.
+11,706 (100.0%) of 11,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### උණුසුම අවධානය යොමු කළ යුතු මට්ටමට
+### பாலின சமத்துவம் மற்றும் பெண்களுக்கு அதிகாரமளித்தல் ஆகிய இரு சட்டமூலங்களும் பாராளுமன்றில் சமர்ப்பிக்கப்படும் - ஜனாதிபதி
+
+*2024-03-08 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178273) · `ta`
+
+பாலினச் சமத்துவம் மற்றும் பெண்களுக்கு அதிகாரமளித்தல் ஆகிய இரண்டு சட்டமூலங்களும் எதிர்வரும் மே மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+சர்வதேச மகளிர் தினத்தின் தேசிய நிகழ்வில் இன்று வெள்ளிக்கிழமை (08) உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு தெரிவித்தார்.
+
+இதேவேளை, பெண்களுக்கு அதிகாரமளிக்கும் சட்டம் நேற்று வர்த்தமானியில் வெளியிடப்பட்டதாகவும், பாலினச் சமத்துவச் சட்டம் அடுத்த வாரம் வர்த்தமானியில் வெளியிடப்படும் எனவும் ஜனாதிபதி மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/dd447eef.json)
+
+---
+
+### வெடுக்குநாறிமலையில் கடும் பாதுகாப்பு! 5 கிலோ மீற்றர்  நடந்து சென்று சிவனை வழிபட்ட பொதுமக்கள்!
+
+*2024-03-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178271) · `ta`
+
+வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்ட நிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
+
+மகாசிவராத்திரி தினத்தினை முன்னிட்டு அது தொடர்பான ஏற்பாடுகளை செய்துகொண்டிருந்த ஆலயத்தின் பிரதம பூசாரி மற்றும் நிர்வாக உறுப்பினர் ஆகியோர் நேற்று வியாழக்கிழமை (07)  இரவு நெடுங்கேணி பொலிஸாரால் கைதுசெய்யப்பட்டிருந்தனர்.
+
+அரச காட்டுப்பகுதிக்குள் அத்துமீறி நுளைந்த குற்றச்சாட்டின் அடிப்படையில் அவர்கள் கைதுசெய்யப்பட்டு இன்றையதினம் வவுனியா நீதவானிடம் முற்படுத்தப்பட்டுள்ளனர்.
+
+இதனையடுத்து இன்றையதினம் ஆலயத்தினை சுற்றி விசேட அதிரடிப்படை மற்றும் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளதுடன் ஆலயத்திற்கு செல்லும் பிரதான பாதைக்கு பொலிஸ் வீதித்தடை போடப்பட்டு.
+
+இதேவேளை மகா சிவராத்திரி வழிபாட்டிற்காக தூர இடங்களில் இருந்து வருகை தந்த பொதுமக்கள், உள்ளே செல்லமுடியாதவாறு பிரதான வீதியில் தரித்தி நின்றனர்.
+
+சம்பவ இடத்திற்கு பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், செல்வராசா கயேந்திரன், வேலன் சுவாமிகள், ரவிகரன் ஆகியோரும் பிரசன்னமாகியிருந்தனர் சென்றனர்.
+
+...
+
+[Data](articles/1ebde8eb.json)
+
+---
+
+### To the level that should be focused on warmth
 
 *2024-03-08 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194298) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (09) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of low temperatures in North Western, Southern, North, and North Central provinces tomorrow. Stay hydrated, rest in shade, and avoid outdoor stress.
 
-ඒ අනුව වයඹ, දකුණු හා උතුරු මැද සහ පළාත්වලත් මොනරාගල, රත්නපුර, මන්නාරම, වවුනියා මුලතිව් හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+The Meteorological Department says that the temperature of several areas on the island will continue to pay attention tomorrow (09).
+
+Accordingly, in the North Western, Southern and North and North Central and North Central and provinces, the heat of the human body will be focused on a lowest level of warmth.
+
+The Department has informed the health advice including adequate water, the rest of the shadow, and the stress of the outdoors.
 
 ◼️
 
 [Data](articles/2d196c0b.json)
+
+[Extended Data](ext_articles/2d196c0b.ext.json)
 
 ---
 
@@ -181,6 +225,18 @@ Local resident Muhammad Adam said the number of kidnappers is more than 280.
 [Data](articles/022b79b0.json)
 
 [Extended Data](ext_articles/022b79b0.ext.json)
+
+---
+
+### නාවිකයෝ 17ක් එකවර කිමිදෙති
+
+*2024-03-08 16:04:19* · [`adalk`](https://www.ada.lk/breaking_news/නාවිකයෝ-17ක්-එකවර-කිමිදෙති/11-408498) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ කිමිදුම් අංශයේ නාවිකයන් දහහත් දෙනෙකු සඳහා  කිමිදුම් පාඨමාලාව සාර්ථකව සම්පූර්ණ කර විසිර යාම හා ලාංඡන පැළඳවීම, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා ගේ ප්‍රධානත්වයෙන් පසුගියදා ත්‍රිකුණාමලය, නාවික තඨාකාංගනයේ කිමිදුම් පාසලේදී සිදු කෙරිණි.
+
+◼️
+
+[Data](articles/80a2c91c.json)
 
 ---
 
@@ -2223,57 +2279,5 @@ n The salary hikes at the CBSL could set a precedent for similar demands across 
 [Data](articles/e799dd20.json)
 
 [Extended Data](ext_articles/e799dd20.ext.json)
-
----
-
-### Empowering women and nurturing communities: Bogawantalawa Teas supports its female cadre
-
-*2024-03-08 05:45:00* · [`islandlk`](http://island.lk/empowering-women-and-nurturing-communities-bogawantalawa-teas-supports-its-female-cadre/) · `en`
-
-Bogawantalawa Teas prioritizes social responsibility in its tea cultivation, manufacturing, and marketing. This commitment is embedded in its Sustainability Policy, focusing on employee, community, and societal well-being. The company implements initiatives aligned with the UN Women Empowerment Principles, aiming to enhance gender equality and women’s rights in tea plantation communities.
-
-The company ensures fair labour practices, promoting equal treatment and pay for all employees. It actively prevents child labour, supports women’s freedom to associate, and offers training for career advancement.
-
-Bogawantalawa engages with local NGOs and government bodies to address women’s specific needs and enhance their employability through education and vocational training. It partners with healthcare providers to improve healthcare access and sanitation for women.
-
-...
-
-[Data](articles/0cb32e00.json)
-
-[Extended Data](ext_articles/0cb32e00.ext.json)
-
----
-
-### Hemas Hospitals celebrates International Women’s Day with HER MARCH
-
-*2024-03-08 05:45:00* · [`islandlk`](http://island.lk/hemas-hospitals-celebrates-international-womens-day-with-her-march/) · `en`
-
-Marking International Women’s Day, Hemas Hospitals has unveiled “HER MARCH”, an initiative dedicated to sparking discussions and action on women’s wellness and the critical role of preventive healthcare. With a steadfast commitment to enhancing the health and wellbeing of women across Sri Lanka, underscored by patient-centric care, Hemas Hospitals introduces an array of specially curated packages for women. These comprehensive health assessments are provided at attractive prices, and are available through various banks and a widely available digital healthcare platform, for a limited time.
-
-...
-
-[Data](articles/bae11efc.json)
-
-[Extended Data](ext_articles/bae11efc.ext.json)
-
----
-
-### Peter Dooley Naval Institute of Germany supporting training of SL seafarers
-
-*2024-03-08 05:45:00* · [`islandlk`](http://island.lk/peter-dooley-naval-institute-of-germany-supporting-training-of-sl-seafarers/) · `en`
-
-Peter Dooley Naval Institute of Germany has expressed its willingness to provide technical training for Sri Lankan seafarers.On March 6, Rainer Sterk, the training manager of that institution, informed Minister of Ports and Shipping Nimal Siripala de Silva about the project at the minister’s office.
-
-Stark said that at present, the Peter Dooley Naval Institute provides technical training to seafarers in many countries, including the Philippines, and 15 youths have been trained as merchant marine cadets, jointly with the Central Marine Institute of Sri Lanka.
-
-Minister Nimal Siripala de Silva expressed his thanks to Stark and requested that a program be prepared for the training of merchant mariners jointly with the Mahapola Maritime Academy in the future.
-
-Stark, who responded positively to the minister’s request, told the minister that he would discuss with the top management of the Peter Dooley Institute and prepare an urgent program.
-
-...
-
-[Data](articles/da6cb8d9.json)
-
-[Extended Data](ext_articles/da6cb8d9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 17:53:43**
+As of **2024-03-08 18:08:38**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,712 (100.0%) of 11,713 articles have been extended.
+11,713 (100.0%) of 11,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### දියේ ගිලෙමින් සිටි විදෙස් කතක් බේරාගනී
+### Save foreign woman
 
 *2024-03-08 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194299) · `si`
 
-කොටවිල පොලිස් වසමේ මිරිස්ස වෙරළ තීරයේ මුහුදේ දියනෑමට ගිය විදෙස් කාන්තාවක් දිය වැලකට හසුව ගසාගෙන ගොස් තිබේ.
+A foreign woman was rescued from a break at Mirissa Beach by police officers from the 72167 Manjula, Police Constable 20373 Lahiru, and others.
 
-පොලීසිය සඳහන් කළේ, එම අවස්ථාවේ දී රාජකාරියේ යෙදී සිටි පොලිස් සංචාරක කොට්ඨාසයට අනුයුක්ත ජීවිතාරක්ෂක ඒකකයේ පොලිස් නිලධාරීන් විසින් බේරාගෙන තිබේ.
+🟩
 
-එලෙස විදෙස් කාන්තාව බේරාගෙන ඇත්තේ සැරයන් 72167 මංජුල, පොලිස් කොස්තාපල් 20373 ළහිරු සහ පොලිස් කොස්තාපල් 19407 ලක්ෂාන් යන නිලධාරීන් විසිනි.
+A foreign woman who was traveling to the sea at the Mirissa Beach in the Kotawila Police Division has been hacked to a break.
+
+Police said the police officers attached to the police tourist area on duty at the time.
+
+The officers of the 72167 Manjula, Police Constable 20373 Lahiru and Police Constables have rescued.
 
 ◼️
 
 [Data](articles/5f1cc20d.json)
+
+[Extended Data](ext_articles/5f1cc20d.ext.json)
 
 ---
 

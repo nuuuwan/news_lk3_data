@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 09:17:56**
+As of **2024-03-08 09:33:23**
 
 ## Newspaper Stats
 
-*Scraped **11,628** Articles*
+*Scraped **11,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,71 @@ islandlk | 627
 adalk | 984
 adaderanalk | 1,411
 tamilmirrorlk | 1,413
-virakesarilk | 1,595
+virakesarilk | 1,596
 dailymirrorlk | 1,770
-adaderanasinhalalk | 1,823
+adaderanasinhalalk | 1,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,626 (100.0%) of 11,628 articles have been extended.
+11,628 (100.0%) of 11,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### රම්‍යා වනිගසේකර දිවි ගමනට සමුදෙයි
+### கனடாவில் கொலை செய்யப்பட்ட இலங்கை குடும்பம் அடையாளம் ; சந்தேகநபர் கைது
+
+*2024-03-08 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178220) · `ta`
+
+கனடாவின் தலைநகர்  ஒட்டாவாவில் படுகொலை செய்யப்பட்ட  ஒரே குடும்பத்தைச் சேர்ந்த ஆறு இலங்கையர்களும் அடையாளம் காணப்பட்டுள்ளார்கள்.
+
+இவர்கள்  தெற்கு ஒட்டாவாவிலுள்ள  பார்ஹேவன் புறநகரில் புதன்கிழமை வீடொன்றில் வைத்து கூரிய ஆயுதத்தால் தாக்கி கொல்லப்பட்டுள்ளனர்.
+
+சம்பவத்தில் தாய் மற்றும் அவரது நான்கு பிள்ளைகள் மற்றும் வீட்டில் வசித்து வந்த 40 வயதுடைய ஆண் ஒருவரும் உயிரிழந்துள்ளார்கள்.
+
+உயிரிழந்த நான்கு குழந்தைகளும் ஏழு வயதுக்குட்பட்டவர்கள் எனவும் தெரிவிக்கப்பட்டுள்ளது. இந்த சம்பவத்தில் 35 வயதுடைய தர்ஷனி பண்டாரநாயக்க என்ற தாயும், 07 வயதுடைய  இனுக விக்கிரமசிங்க, 04 வயதுடைய அஸ்வினி விக்கிரமசிங்க, 02 வயதுடைய றின்யானா விக்கிரமசிங்க மற்றும் 02 மாதங்களான கெலீ விக்கிரமசிங்க ஆகிய நான் பிள்ளைகளும் உயிரிழந்துள்ளனர்.
+
+உயிரிழந்தவர்களில் 5 பேர் இலங்கையிலிருந்து கனடாவுக்கு புதிதாக வந்தவர்கள் என பொலிஸார் அடையாளம் கண்டுள்ளனர்.
+
+சந்தேக நபர் கனடாவில் கல்வி கற்கும் 19 வயதுடைய ஃபேப்ரியோ டி சொய்சா என்ற இலங்கையர் என ஒட்டாவா பொலிஸ்  தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/397b1684.json)
+
+---
+
+### සැකකරුවෙක් අත්අඩංගුවට ගැනීමට මහජන සහාය ඉල්ලයි
+
+*2024-03-08 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194281) · `si`
+
+පොලීසිය සඳහන් කරන්නේ විදෙස් ජාතික කාන්තාවක් නවාතැන් ගෙන සිටි නිවසකට ඇතුළුවූ සැකකරු මුදල් ඇතුළු ඇය සතු වටිනා දේපොළ සොරකම් කර ඇති බවටය.
+
+◼️
+
+[Data](articles/19febee1.json)
+
+---
+
+### Ramya Wanigasekara receives
 
 *2024-03-08 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194280) · `si`
 
-ප්‍රවීන රංගන ශිල්පිනියක් වන රම්‍යා වනිගසේකර මහත්මිය අභාවප්‍රාප්ත වී තිබේ.
+Ramya Wanigasekara, a journalist and radio news anchor, has passed away.
 
-ඇය මාධ්‍යවේදිනියක් සහ ගුවන් විදුලි ප්‍රවෘත්ති නිවේදිකාවක් ලෙස ද කටයුතු කළාය.
+🟩
+
+Ramya Wanigasekara has passed away.
+
+She also served as a journalist and a radio news.
 
 ◼️
 
 [Data](articles/305cfbb7.json)
+
+[Extended Data](ext_articles/305cfbb7.ext.json)
 
 ---
 
@@ -52,9 +92,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Veteran actress, journalist and former radio news presenter Ramya Wanigasekara passed away on Friday morning (March 08), family sources told Ada Derana.
 
+Wanigasekara, born in 1936 in Kegalle, made her debut stage drama appearance in 1976 with a minor role in the stage drama ‘Hasthiraja Mahaththaya’. She had her breakthrough role in the 1978 stage drama ‘Mana Ranjana Weda Warjana’.
+
+She also acted in many other stage dramas, including ‘Kelani Palama’, ‘Ahasin Wetunu Minissu’, ‘Jailer Unnahe’, ‘Raja Kathawa’, ‘Muhudu Puththu’, and ‘Siri Sangabo’.
+
+In 1980, Wanigasekara began her career as a radio host with Radio Ceylon and was a regular news anchor until her retirement in 2006. She later joined Sri Lanka Broadcasting Corporation on contract basis, where she worked as a relief newscaster.
+
+Wanigasekara also appeared in a number of television dramas, including ‘Koombiyo’, ‘Ahas Gawwa’, ‘Denuwara Menike’, ‘Kande Gedara’ and ‘Yes Boss’.
+
 ◼️
 
 [Data](articles/f2c107b3.json)
+
+[Extended Data](ext_articles/f2c107b3.ext.json)
 
 ---
 
@@ -2149,53 +2199,5 @@ Thus, members of the public have been advised to stay hydrated, take breaks in t
 [Data](articles/5b3fe0c7.json)
 
 [Extended Data](ext_articles/5b3fe0c7.ext.json)
-
----
-
-### Hamas negotiating crew left Cairo
-
-*2024-03-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/178192) · `ta`
-
-Hamas negotiators left Cairo after talks with Qatar and Egypt on a ceasefire with Israel. Negotiations to resume next week. Hamas representative Sami Abu Zuhri claims Israel has obstructed efforts.
-
-🟩
-
-Egyptian officials today said that representatives of the Hamas movement, who were negotiating on the ceasefire, had left Cairo.
-
-Qatar and Egypt's arrangement held talks in the Egyptian capital of Cairo over the ceasefire between Israel and Hamas in Gaza.
-
-Hamas representatives have left Cairo for advice. However, the Egyptian media has reported that a government sources have reported that the negotiations will begin again next week.
-
-Hamas Representative Sami Abu Zuhri has said that Israel has blocked all efforts by the mediators to establish an agreement.
-
-◼️
-
-[Data](articles/e4d60808.json)
-
-[Extended Data](ext_articles/e4d60808.ext.json)
-
----
-
-### Chanakyan should focus on MP's security - request to Opposition Leader Speaker
-
-*2024-03-07 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178190) · `ta`
-
-Opposition leader Sajith Premadasa urged the Speaker to ensure MP Rasamanikam's safety, following his accusation against ruling party member Rahitha Abeygunawardena. Premadasa emphasized the Speaker's duty to protect MPs and the importance of addressing accusations of physical harm.
-
-🟩
-
-Opposition leader Sajith Premadasa said the Speaker should ensure the safety of Opposition Member Rasamanikam MP and take appropriate action on his allegation.
-
-He said this in a statement on Thursday (07) in Parliament.
-
-It is the duty of the Speaker, including the Speaker, to ensure the safety of MPs within the Parliament and the Parliamentary Complex. According to opposition member Rasamanikam, he went to his office to meet the Prime Minister and accused the ruling party member Rahitha Abeygunawardena of trying to attack him.. This is a massive accusation.
-
-There are various ideas and ideas for everyone in Parliament. However, no one has the right to have a physical harm to a Member of Parliament for any comments on our positions. Whether it is the ruling party or the opposition.
-
-...
-
-[Data](articles/2b19a04c.json)
-
-[Extended Data](ext_articles/2b19a04c.ext.json)
 
 ---

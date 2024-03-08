@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 12:02:54**
+As of **2024-03-08 12:17:33**
 
 ## Newspaper Stats
 
-*Scraped **11,662** Articles*
+*Scraped **11,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 987
 tamilmirrorlk | 1,413
 adaderanalk | 1,417
 virakesarilk | 1,604
-dailymirrorlk | 1,776
+dailymirrorlk | 1,777
 adaderanasinhalalk | 1,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,653 (99.9%) of 11,662 articles have been extended.
+11,662 (100.0%) of 11,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Expatriate workers send USD 476.4 million in February
+
+*2024-03-08 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expatriate-workers-send-USD-476-4-million-in-February/108-278491) · `en`
+
+Colombo, March 8 (Daily Mirror) - In February, expatriate workers sent a total of USD 476.4 million to the country, marking a 14 percent increase compared to the same month last year, the Labour and Foreign Employment Ministry said.
+
+They said during the past period, an amount of 9691.4 million US dollars has been sent to this country.
+
+The Labour and Foreign Employment Ministry says that there has been a good response to the requests to expatriate workers to send money to the country through legal systems.
+
+◼️
+
+[Data](articles/c8c35ae1.json)
+
+---
 
 ### President and Prime Minister’s messages for ‘Maha Shivaratri’
 
@@ -48,37 +64,51 @@ The President’s message for ‘Maha Shivaratri’ further read: “On this aus
 
 [Data](articles/c6bb23c0.json)
 
+[Extended Data](ext_articles/c6bb23c0.ext.json)
+
 ---
 
-### நேட்டோவில் உத்தியோகபூர்வமாக இணைந்தது சுவீடன்
+### Officially joined in NATO Sweden
 
 *2024-03-08 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178238) · `ta`
 
-நேட்டோ அமைப்பில் சுவீடன் நேற்றிரவு உத்தியோகபூர்வமாக இணைந்து  கொண்டது. நேட்டோவின் 32 ஆவது அங்கத்துவ நாடு சுவீடன் ஆகும்.
+Sweden, the 32nd NATO member, officially joined last night, marking a significant shift from its long-term non-alignment stance, influenced by Russia's invasion of Ukraine. PM Ulve Christterson hailed it as a victory for independence.
 
-நீண்டகாலம் அணிசேரா நாடாக விளங்கிய சுவீடன், உக்ரேன் மீதான ரஷ்யாவின் படையெடுப்பின் பின்னர், நேட்டோவில் இணைவதற்கு விண்ணப்பித்தது.
+🟩
 
-பின்னர் இவ்விரு நாடுகளும் தமது சம்மத்தை தெரிவித்த நிலையில், நேட்டோவில் சுவீடன் இணைந்துகொண்டது.
+Sweden officially joined the NATO system last night. Sweden is the 32nd member of NATO.
 
-நேட்Nhவில்  சுவீடன் இணைந்ததை வரவேற்றுள்ள சுவீடன் பிரதமர் ஊல்வ் கிறிஸ்டேர்சன், இது சுதந்திரத்துக்கான ஒரு வெற்றி என கூறியுள்ளார்.
+Sweden, who was a long -term non -alignment country, applied to join NATO after Russia's invasion of Ukraine.
+
+Later, the two countries expressed their consent, and Sweden joined NATO.
+
+Sweden's Prime Minister Ulve Christterson, who welcomed Sweden's merger in Nate NH, said it was a victory for independence.
 
 ◼️
 
 [Data](articles/1f89040a.json)
 
+[Extended Data](ext_articles/1f89040a.ext.json)
+
 ---
 
-### சர்வதேச நாணய நிதியத்தின் உயர்மட்டக் குழுவுடன் கலந்துரையாட எதிர்க்கட்சிகளின் தலைவர்களுக்கு வாய்ப்பு
+### Opportunities for opposition leaders to discuss with the high -level committee of the International Monetary Fund
 
 *2024-03-08 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178237) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் குறித்து அதன் உயர்மட்டக் குழுவுடன் கலந்துரையாடுவதற்கான வாய்ப்பை ஏற்படுத்திக் கொடுக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+The Presidential Media Unit announced that President Ranil Wickremesinghe will host a meeting on Monday for opposition leaders to discuss IMF proposals with its high-level committee.
 
-அதன்படி, பாராளுமன்றத்தில்  அங்கீகரிக்கப்பட்ட எதிர்க்கட்சிகளின் தலைவர்களுக்கு இந்த வாய்ப்பை ஏற்படுத்திக் கொடுப்பதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க, எதிர்வரும் திங்கட்கிழமை ஜனாதிபதி அலுவலகத்தில் கூட்டமொன்றுக்கு அழைப்பு விடுத்துள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+🟩
+
+The Presidential Media Unit said that steps have been taken to provide an opportunity to discuss the proposals of the International Monetary Fund with its high -level committee.
+
+Accordingly, President Ranil Wickremesinghe has called for a meeting at the Presidential Office on Monday to give this opportunity to the leaders of the opposition parties approved in Parliament.
 
 ◼️
 
 [Data](articles/e9e3f615.json)
+
+[Extended Data](ext_articles/e9e3f615.ext.json)
 
 ---
 
@@ -93,6 +123,8 @@ The meeting has offered a chance to accepted opposition party leaders in Parliam
 ◼️
 
 [Data](articles/5cc70f48.json)
+
+[Extended Data](ext_articles/5cc70f48.ext.json)
 
 ---
 
@@ -353,6 +385,8 @@ Meanwhile, the current extremely dry weather condition has caused a drinking wat
 ◼️
 
 [Data](articles/4ff02f1b.json)
+
+[Extended Data](ext_articles/4ff02f1b.ext.json)
 
 ---
 
@@ -640,6 +674,8 @@ Bids for a 100MW renewable plant in Siyambalanduwa had come in at 8 US cents a u
 
 [Data](articles/b16be6e2.json)
 
+[Extended Data](ext_articles/b16be6e2.ext.json)
+
 ---
 
 ### Ramya Wanigasekara receives
@@ -679,6 +715,8 @@ The proposals will be vetted under Special Guidelines on Divestiture of State-Ow
 ◼️
 
 [Data](articles/2e08294d.json)
+
+[Extended Data](ext_articles/2e08294d.ext.json)
 
 ---
 
@@ -977,6 +1015,8 @@ There have been reports that Adani had proposed to sell power at 14 US cents or 
 ...
 
 [Data](articles/c0f0128f.json)
+
+[Extended Data](ext_articles/c0f0128f.ext.json)
 
 ---
 
@@ -2167,31 +2207,5 @@ I challenge him to refer to the allegations that the parliamentary privileges re
 [Data](articles/a7f5be73.json)
 
 [Extended Data](ext_articles/a7f5be73.ext.json)
-
----
-
-### Inhuman attack on teachers who interfered with student clash
-
-*2024-03-07 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194271) · `si`
-
-Two teachers in Galnewa, Anuradhapura, assaulted over a student dispute during sports training. One teacher hospitalized, and a relative of the disputing student brutally assaulted. A 17-year-old and others arrested.
-
-🟩
-
-The Galnewa area in general area Anuradhapura has been assaulted by two teachers who have been assaulted to resolve a dispute for two schoolchildren.
-
-The dispute between two students have been caused by two students during an intermediate sports training in the Galnewa area in Anuradhapura.
-
-The teachers have gone to his home to explain that the teachers were assaulted and hospitalized.
-
-Accordingly, one of the relatives of one student who created the dispute have been brutally assaulted.
-
-A 17-year-old youth has been arrested in connection with the incident and the rest of the assailants have been arrested.
-
-◼️
-
-[Data](articles/ec17d64c.json)
-
-[Extended Data](ext_articles/ec17d64c.ext.json)
 
 ---

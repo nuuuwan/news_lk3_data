@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 10:17:57**
+As of **2024-03-08 10:33:13**
 
 ## Newspaper Stats
 
-*Scraped **11,637** Articles*
+*Scraped **11,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ economynextcom | 605
 dailyftlk | 617
 islandlk | 627
 adalk | 985
-adaderanalk | 1,412
+adaderanalk | 1,413
 tamilmirrorlk | 1,413
-virakesarilk | 1,598
+virakesarilk | 1,599
 dailymirrorlk | 1,772
-adaderanasinhalalk | 1,825
+adaderanasinhalalk | 1,826
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,637 (100.0%) of 11,637 articles have been extended.
+11,637 (100.0%) of 11,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Police seek public assistance to nab suspect who burgled a foreigner’s house
+
+*2024-03-08 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97813/police-seek-public-assistance-to-nab-suspect-who-burgled-a-foreigners-house-) · `en`
+
+Sri Lanka Police have requested public assistance to apprehend a suspect who is wanted in connection with a robbery in Hikkaduwa.
+
+The suspect is accused of breaking into a house in the Wavulagoda area of Hikkaduwa on January 21, where a foreign woman was residing and stealing around Rs. 760,000 in cash, 02 ATM cards and several other valuables.
+
+Thus, the public has been requested to provide any available information about the suspect (pictured below) by contacting any of the following telephone numbers:
+
+◼️
+
+[Data](articles/12356a4f.json)
+
+---
+
+### நானுஓயாவில் லொறியும் மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதி விபத்து ; இருவர் வைத்தியசாலையில்
+
+*2024-03-08 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178224) · `ta`
+
+நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட நானுஓயா ரதல்ல குறுக்கு வீதியில் நேற்று  வியாழக்கிழமை (07) பிற்பகல் நுவரெலியா பிரதேச சபைக்கு முன்பாக லொறி ஒன்றுடன் மோட்டார் சைக்கிள் மோதி இடம்பெற்ற விபத்தில் இருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இருவரும் படுகாயமடைந்த  நிலையில் சிகிச்சைக்காக நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், இதில் மோட்டார் சைக்கிள் சாரதி மேலதிக சிகிச்சைக்காக கண்டி போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாகவும் லொறி சாரதியை கைது செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த விபத்தில் காயங்களுக்கு உள்ளாகியவர்கள் 27 மற்றும் 28 வயதுடைய தலவாக்கலை மற்றும் கொட்டக்கலை பகுதிகளை சேர்ந்தவர்கள் என தெரிவிக்கப்படுகின்றது.
+
+நுவரெலியாவில் இருந்து தலவாக்கலை நோக்கி பயணித்த மோட்டார் சைக்கிளும் நானுஓயா ரதல்லவிலிருந்து நுவரெலியாவை நோக்கி சென்ற லொறியும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3fe3b7ba.json)
+
+---
+
+### රන් පැහැති කඩුවක් සමග සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-03-08 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194283) · `si`
+
+පොලිස් විශේෂ කාර්ය බළකායට ලද තොරතුරක් අනුව සිදුකළ වැටලීමකදී රන් පැහැති කඩුවක් සමග පුද්ගලයෙක් අත්අඩංගුවට ගෙන ඇත.
+
+ඊයේ (07) සවස ලුණුගම්වෙහෙර පොලිස් වසමේදී වැටලීම සිදුකර තිබුණේ කතරගම පොලිස් විශේෂ කාර්ය බළකායට අයත් නිලධාරීන් කණ්ඩායමකි.
+
+කැබ් රථයකින් අදාළ රන් පැහැති කඩුව ප්‍රවාහනය කරමින් සිට තිබේ.
+
+කඩුව සමග අත්අඩංගුවට ගත් සැකකරු 62 හැවිරිදි දික්වැල්ල ප්‍රදේශයේ පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/362b116b.json)
+
+---
 
 ### Action to appear in court, including the priest of the temple
 
@@ -2147,71 +2199,5 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 [Data](articles/919fa20b.json)
 
 [Extended Data](ext_articles/919fa20b.ext.json)
-
----
-
-### Two fundamental rights petitions on the appointment of acting IGP
-
-*2024-03-07 19:01:08* · [`adalk`](https://www.ada.lk/breaking_news/වැඩබලන-පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-මූලික-අයිතිවාසිකම්-පෙත්සම්-දෙකක්/11-408484) · `si`
-
-Prof. Savitri Gunasekera and Niroshana Padukka filed two fundamental rights petitions against the appointment of the Acting IGP, challenging the Legislative Council's approval process.
-
-🟩
-
-Acting Inspector General of Professor Savithri Gunasekera and former Provincial Councilor of the House Prof. Savitri Gunasekera and former Provincial Councilor of the House have filed two fundamental rights petitions on behalf of the Supreme Court today (07).
-
-Members of the Legislative Members of the Legislative Parliamentarians have been appointed as respondents in these petitions, which filed Mr. Savithri Gunasekera and Niroshana Padukka.
-
-The petitioners who point out that the Legislative Council has not been fully approved by the Legislative Council to appoint it as the IGP without the fullest approval that Mr. Deshabandu Tennakoon was not approved by the IGP.
-
-◼️
-
-[Data](articles/57f19368.json)
-
-[Extended Data](ext_articles/57f19368.ext.json)
-
----
-
-### Monetary Fund happily
-
-*2024-03-07 18:50:47* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-අරමුදල-ලංකාව-ගැන-සතුටින්/11-408483) · `si`
-
-The International Monetary Fund (IMF) has expressed optimism about Sri Lanka's economy recovery, with President Ranil Wickremesinghe and the IMF delegation meeting at the Ministry of Finance. The authorities were thanked for program implementation.
-
-🟩
-
-The International Monetary Fund (UN Sen.) The International Monetary Fund, Sri Lanka's Senior Mission, for Sri Lanka, said that the Sri Lankan economy begins to restore the Sri Lankan economy.
-
-President Ranil Wickremesinghe and the International Monetary Fund delegation held at the Ministry of Finance today (07)
-
-He also thanked the Sri Lankan authorities for the implementation of the program.
-
-◼️
-
-[Data](articles/1434683b.json)
-
-[Extended Data](ext_articles/1434683b.ext.json)
-
----
-
-### Sri Lankans among crew members rescued after fatal Houthi attack on ship off Yemen
-
-*2024-03-07 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97803/sri-lankans-among-crew-members-rescued-after-fatal-houthi-attack-on-ship-off-yemen) · `en`
-
-Two Sri Lankans are among the 21 crew members rescued by the Indian warship INS Kolkata from the cargo ship ‘True Confidence’ which was attacked by a missile by Houthi rebels in the Gulf of Aden, according to the Sri Lanka Navy.
-
-The navy spokesman Gayan Wickremasuriya further confirmed that one of the rescued Sri Lankan nationals had sustained injuries in the attack.
-
-India’s navy evacuated all 20 crew from a stricken vessel in the Red Sea on March 7, after a Houthi attack killed three seafarers in the first civilian fatalities from the Yemeni group’s campaign against the key shipping route.
-
-The Iran-aligned militants fired a missile at the Barbados-flagged, Greek-operated ‘True Confidence’ on Wednesday about 50 nautical miles off the port of Aden, setting it ablaze.
-
-In a statement, the owners and manager said all 20 crew and three armed guards on board were taken to hospital in Djibouti in the Horn of Africa by an Indian warship.
-
-...
-
-[Data](articles/4bc1cf90.json)
-
-[Extended Data](ext_articles/4bc1cf90.ext.json)
 
 ---

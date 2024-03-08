@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 08:03:07**
+As of **2024-03-08 08:17:51**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,821
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,619 (100.0%) of 11,620 articles have been extended.
+11,620 (100.0%) of 11,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### මහා ශිව රාත්‍රී දිනය අද
+### The Maha Sivi Night Day today
 
 *2024-03-08 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194278) · `si`
 
-ලොව පුරා හින්දු බැතිමතුන් ඉමහත් භක්තියෙන් සමරන මහා ශිව රාත්‍රී දිනය අදට (08) යෙදී තිබේ.
+Today's Maha Sivi Night is a significant Hindu event where devotees worldwide honor Shiva through sacrifices and charity.
 
-ශිව දෙවියන් උදෙසා පුද පූජා පවත්වන හින්දු බැතිමතුන්ගේ ධාර්මික මංගල්‍යය මෙය වෙයි.
+🟩
 
-රාත්‍රි නිදි වර්ජිතව උපවාසයේ යෙදී ශිව දෙවියන්ට පුද පූජා පැවැත්වීමෙන් මෝහාන්ධකාරය දුරු වී ප්‍රඥාලෝක දැල්වේවා යන ප්‍රාර්ථනයෙන් හින්දු බැතිමතුන් පුණ්‍ය ක්‍රියාවල නිරත වෙයි.
+Hindu devotees around the world have been honored with great devotion to the great Shiva Nighty.
+
+This is the righteous feast of Hindu devotees who will sacrifice to Shiva.
+
+The night sacrificing sacrifices to Shiva and sacrifice to Siva Handsion, Hindus devotees will engage in charity.
 
 ◼️
 
 [Data](articles/c6ae4104.json)
+
+[Extended Data](ext_articles/c6ae4104.ext.json)
 
 ---
 

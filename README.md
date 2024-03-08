@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 07:54:13**
+As of **2024-03-08 08:03:07**
 
 ## Newspaper Stats
 
-*Scraped **11,619** Articles*
+*Scraped **11,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,410
 tamilmirrorlk | 1,411
 virakesarilk | 1,595
 dailymirrorlk | 1,768
-adaderanasinhalalk | 1,820
+adaderanasinhalalk | 1,821
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,615 (100.0%) of 11,619 articles have been extended.
+11,619 (100.0%) of 11,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### මහා ශිව රාත්‍රී දිනය අද
+
+*2024-03-08 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194278) · `si`
+
+ලොව පුරා හින්දු බැතිමතුන් ඉමහත් භක්තියෙන් සමරන මහා ශිව රාත්‍රී දිනය අදට (08) යෙදී තිබේ.
+
+ශිව දෙවියන් උදෙසා පුද පූජා පවත්වන හින්දු බැතිමතුන්ගේ ධාර්මික මංගල්‍යය මෙය වෙයි.
+
+රාත්‍රි නිදි වර්ජිතව උපවාසයේ යෙදී ශිව දෙවියන්ට පුද පූජා පැවැත්වීමෙන් මෝහාන්ධකාරය දුරු වී ප්‍රඥාලෝක දැල්වේවා යන ප්‍රාර්ථනයෙන් හින්දු බැතිමතුන් පුණ්‍ය ක්‍රියාවල නිරත වෙයි.
+
+◼️
+
+[Data](articles/c6ae4104.json)
+
+---
 
 ### President, Mahinda, Basil talks end with no decision on alliance
 
@@ -45,6 +61,8 @@ Daily Mirror learns that the two SLPP leaders sought clarity on two policy matte
 ...
 
 [Data](articles/cd52d6e7.json)
+
+[Extended Data](ext_articles/cd52d6e7.ext.json)
 
 ---
 
@@ -546,21 +564,27 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 
 ---
 
-### ’சதிகளை எதிர்கொள்ள முடியாமற்போனது’
+### Can't confront the conspiracies
 
 *2024-03-08 04:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதிகளை-எதிர்கொள்ள-முடியாமற்போனது/175-334371) · `ta`
 
-சர்வதேச சக்திகளும் ஒரு சில உள்நாட்டு தரப்பினரும் என்னை ஜனாதிபதி பதவியில் இருந்து அகற்றுவதற்காக வன்முறையுடன் கூடிய எதிர்ப்புகளையும் நாசகார செயற்பாடுகளையும் வகுத்து, அதற்கான நிதியுதவிகளை வழங்கினர் என்று முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ  நேற்று வெளியிட்ட தனது நூலில் தெரிவித்துள்ளார்.
+Gotabhaya Rajapakse accuses international powers and domestic parties of orchestrating violent protests to oust him from presidency, claiming he resigned to end political conspiracy. His book, 'Conspiracy to Remove Me from the President', has been a bestseller since its release.
 
-'ஜனாதிபதி பதவியிலிருந்து என்னை அகற்றுவதற்கான சதி' என்ற பெயரிலான இந்த நூல் நேற்று காலை முதல் விற்பனை செய்யப்பட்டு வருகின்றது.
+🟩
 
-வைராக்கியம் கொண்ட சர்வதேச சக்திகளும் ஒரு சில உள்நாட்டு தரப்பினரும் தம்மை ஆட்சியிலிருந்து அகற்றும் வரை, அவர்களின் நடவடிக்கைகளை நிறுத்த மாட்டார்கள் என்பதை தாம் அறிந்திருந்ததாக கோட்டாபய ராஜபக்ஷ  தெரிவித்துள்ளார்.
+Former President Gotabhaya Rajapakse said in his book yesterday that the international powers and a few domestic parties have set up violent protests and destroying activities to remove me from the presidency.
 
-மக்களை பாதிப்பிற்குள்ளாக்கும் வகையில், முன்னெடுக்கப்பட்டு வந்த அரசியல் சதி மற்றும் நாசகார செயல்களை முடிவுக்கு கொண்டு வருவதற்காக தாம் இராஜினாமா செய்ததாகவும் அவர் தனது நூலில் குறிப்பிட்டுள்ளார். (a)
+The book, titled 'Conspiracy to Remove Me from the President', has been sold since yesterday morning.
+
+Gotabhaya Rajapakse said that he knew that the zealous international powers and a few domestic parties would not stop their actions until they were removed.
+
+In his book, he also stated that he had resigned to end the political conspiracy and destructive act to impact the people.. (A)
 
 ◼️
 
 [Data](articles/2d2c465c.json)
+
+[Extended Data](ext_articles/2d2c465c.ext.json)
 
 ---
 
@@ -610,19 +634,25 @@ In addition to this, a special train service will be held from Anuradhapura to K
 
 ---
 
-### கனடாவில் துப்பாக்கி சூடு: 6 இலங்கையர்கள் பலி
+### Firing in Canada: 6 Sri Lankans killed
 
 *2024-03-08 04:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கனடாவில்-துப்பாக்கி-சூடு-6-இலங்கையர்கள்-பலி/150-334369) · `ta`
 
-கனடாவின் தலைநகர் ஒட்டாவாவின் தெற்கு பகுதியில் உள்ள வீடொன்றில் 4 குழந்தைகள் உட்பட 6 ஆறு பேரின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+In Ottawa, 6, including 4 children, found dead in a house. A Sri Lankan suspect arrested.
 
-தாய், அவரது நான்கு குழந்தைகள் மற்றும் அக்குடும்பத்தின் உறவினர் ஒருவர் என அறுவர் கொல்லப்பட்டுள்ளனர் என்று ஒட்டாவா பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இந்த சம்பவம் தொடர்பில் இலங்கைப் பிரஜையான சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
+The bodies of six six people, including 4 children, have been found in a house in the southwestern part of Ottawa, the capital of Canada.
+
+Ottawa police said that the mother, her four children and a relative of the family were killed.
+
+A Sri Lankan citizen suspect has been arrested in connection with the incident. (A)
 
 ◼️
 
 [Data](articles/43d097b3.json)
+
+[Extended Data](ext_articles/43d097b3.ext.json)
 
 ---
 
@@ -1854,7 +1884,7 @@ The Indian Navy said that the suspects were redeemed by the Coltata ship, helico
 
 ---
 
-### Two Adults and Four Children Brutally Murdered in Suburban Home in Ottawa,Canada. Another Hospitalised with Injuries. All victims of  Sri Lankan Origin.Police Arrest 10  Year old Student from Sri Lanka as Lone Suspect
+### Two Adults and Four Children Brutally Murdered in Suburban Home in Ottawa,Canada. Another Hospitalised with Injuries. All victims of  Sri Lankan Origin.Police Arrest 19 Year old Student from Sri Lanka as Lone Suspect
 
 *2024-03-07 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83735) · `en`
 
@@ -2191,25 +2221,5 @@ During the visit of Thai Prime Minister Srettha Thavisin and his delegation of b
 [Data](articles/2d2a9b9a.json)
 
 [Extended Data](ext_articles/2d2a9b9a.ext.json)
-
----
-
-### Goods and services should be decreased relative to reducing electricity tariff - Kanana
-
-*2024-03-07 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194260) · `si`
-
-Kanchana Wijesekara, Minister of Power and Energy, suggested that businesses should help reduce electricity tariffs by lowering the prices of goods and services.
-
-🟩
-
-Minister of Power and Energy Kanchana Wijesekara today (07) said that the businessmen should influence the price of goods and services.
-
-Minister Kanchana Wijesekara was speaking at a special press conference held at the Presidential Media Unit.
-
-◼️
-
-[Data](articles/4b532374.json)
-
-[Extended Data](ext_articles/4b532374.ext.json)
 
 ---

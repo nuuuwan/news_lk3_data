@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 00:02:49**
+As of **2024-03-09 00:17:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,758 (100.0%) of 11,759 articles have been extended.
+11,759 (100.0%) of 11,759 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ At the same time , Sri Lanka announced its participation in the Red Sea operatio
 ...
 
 [Data](articles/0bf8bca2.json)
+
+[Extended Data](ext_articles/0bf8bca2.ext.json)
 
 ---
 

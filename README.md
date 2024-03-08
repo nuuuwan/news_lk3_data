@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 08:50:32**
+As of **2024-03-08 09:02:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 1,822
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,623 (100.0%) of 11,626 articles have been extended.
+11,626 (100.0%) of 11,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### පොලිස් සාක්ෂිකරුවන් ට තර්ජනයක් ?
+### Battle against corruption
 
-*2024-03-08 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194279) · `si`
+*2024-03-08 08:48:00* · [`islandlk`](http://island.lk/battle-against-corruption/) · `en`
 
-ඇප මත මුදාහැර සිටින පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ හිටපු පොලිස් නිලධාරීන් පිරිසක් අපරාධයක වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ කොට්ඨාසයට අනුයුක්ත කිරීම නිසා එම සිද්ධියට සම්බන්ධ පොලිස් සාක්ෂිකරුවන්ට තර්ජන එල්ලවී තිබෙන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර ඇත.
-
-අත්අඩංගුවට පත්වූ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ හිටපු නිලධාරියෙකු වන සුමේධ වීරසිංහ විසින් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් ඊයේ  කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා මෙම දැනුම්දීම සිදු කළ බව වාර්තා විය.
-
-නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා කරුණු දක්වමින් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් අත්අඩංගුවට ගනු ලබන මත්ද්‍රව්‍ය නැවතත් ජාවාරම්කරුවන්ට අලෙවි කිරීමේ සිද්ධිය සම්බන්ධයෙන් එම කාර්යාංශයට අනුයුක්ත පොලිස් නිලධාරීන් 19 දෙනෙකු අත්අඩංගුවට ගෙන පසුව ඇප මත මුදාහැර ඇති බව ප්‍රකාශ කළේය.
-
-අනතුරුව එම නිලධාරීන්ගෙන් පිරිසක් වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ අධිකාරියේ රාජකාරියට යොදවා ඇති බව ඔහු පැවසීය.
+We as a nation had many names officially and many unofficially such as Pearl of the Indian Ocean, Teardrop Isle, Serendipitous Land, Paradise, Land of the Lotus Eaters. We were famous for our smiles and friendliness; the modest charm of our youth; scenic wonders and the fast and easy accessibility of vastly different climatic conditions, vegetation and terrain. Ceylon was known for its tea. Most of those complimentary names are now obliterated by what we are currently recognised for: corruption; being a country with people up to all sorts of dishonest practices and corruption rife from top to bottom. Well known was a Cabinet Minister asking for a santhosam from a country to accept a project! He still sits in Parliament, nodding many times.
 
 ...
 
+[Data](articles/4abdf338.json)
+
+[Extended Data](ext_articles/4abdf338.ext.json)
+
+---
+
+### A threat to the police witnesses?
+
+*2024-03-08 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194279) · `si`
+
+The Attorney General claimed in the Supreme Court that police witnesses were threatened, with a leading witness killed by the Criminal Investigations Department. Despite this, the Supreme Court decided not to examine the petition.
+
+🟩
+
+The Attorney General has stated in the Supreme Court that the police witnesses have been threatened by the Supreme Court.
+
+It was reported that the Attorney General had made this notice when he was called by a former police Narcotics Bureau.
+
+Senior State Counsel Shamitry Wickrema appeared for the Attorney General
+
+He said that a group of officers had been deployed to the safety of the victims and the Witnesses to protect the victims.
+
+The State Counsel has stated that a leading witness has been killed by the criminal inquiries of the Criminal Investigations Department.
+
+After considering the petition, the three-member Supreme Court Bench, said Ada Derana reporter, the three-member Supreme Court Bench was decided not to examine the relevant petition.
+
+◼️
+
 [Data](articles/35e73058.json)
+
+[Extended Data](ext_articles/35e73058.ext.json)
 
 ---
 
@@ -332,19 +356,19 @@ In some places in the Western and Sabaragamuwa Province, some locations are expe
 
 *2024-03-08 06:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97809/sri-lankan-family-murdered-in-ottawa-identified-teen-suspect-arrested) · `en`
 
-Canadian police are describing the deaths of members of a Sri Lankan family, including four young children, in Ottawa as a “mass killing”.
+Six people including a mother, her four young children and a family acquaintance were killed inside a townhouse in the south Ottawa suburb of Barrhaven late Wednesday night.
 
-Police say the six victims were newcomers to Canada, and the youngest was less than three months old.
+During a media briefing Thursday afternoon, Ottawa police Chief Eric Stubbs said there were initially two calls to 911 around 10:52 p.m. Wednesday.
 
-A 19-year-old student from Sri Lanka who lived with the family has been charged in the killings.
+He said first responders arrived within minutes to the home on Berrigan Drive near Palmadeo Drive, a residential area close to two schools.
 
-“This was a senseless act of violence perpetrated on purely innocent people,” said Ottawa’s police chief on Thursday.
+Police have identified five of the victims as a family of newcomers to Canada from Sri Lanka. They are:
 
-Officers responded to emergency calls placed at approximately 22:52 local time (03:52 GMT) on Wednesday from the Ottawa suburb of Barrhaven.
+Police said Ekanayake’s husband was injured and is currently in hospital in stable condition. He’s since been identified as Dhanushka Wickramasinghe.
 
-When they arrived, police chief Eric Stubbs said officers quickly identified the suspect, who was arrested without incident.
+Another man, 40-year-old Amarakoonmubiayansela Ge Gamini Amarakoon, was also killed.
 
-Officers then entered the home and discovered the victims, which included a mother, her four children, and an acquaintance who was living with the family.
+Febrio De-Zoysa, 19, is charged with six counts of first-degree murder and one count of attempted murder. Police said he is a Sri Lankan national who is believed to be in Canada as a student.
 
 ...
 
@@ -658,41 +682,55 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 
 ---
 
-### ’மின்சார சபைச் சட்டமூலம் ஏப்ரலில் சமர்பிக்கப்படும்’
+### The Electricity Board Bill will be tabled in April
 
 *2024-03-08 04:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபைச்-சட்டமூலம்-ஏப்ரலில்-சமர்பிக்கப்படும்/175-334373) · `ta`
 
-திருத்தம் செய்யப்பட்ட மின்சார சபைச் சட்டமூலம் சட்டமா அதிபர் திணைக்களத்தின் அனுமதிக்காக அனுப்பி வைக்கப்பட்டுள்ளது, அமைச்சரவையின் அனுமதிக்குப் பின்னர் எதிர்வரும் ஏப்ரல் மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என்று  மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+The Electricity Board Bill, amended with 46 changes, will be approved by the Attorney General and presented to Parliament in April, according to Power and Energy Minister Kanjana Wijesekera.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் இதனைத் தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-மின்சார சபையின் மறுசீரமைப்பு தொடர்பான வர்த்தமானி கடந்த டிசம்பர் மாதம் வெளியிடப்பட்டது. இதன்படி, புதிய சட்டத்தில் உள்ள குறைபாடுகள் மற்றும் மாற்றங்களை உரிய தரப்பினரும், அரசியல் கட்சிகள் மற்றும் தொழிற்சங்கங்கத்தினரும் சுட்டிக்காட்டியிருந்தனர். இது தொடர்பான 46 திருத்தங்களுடன் கூடிய சட்டமூலம் சட்டமா அதிபர் திணைக்களத்தின் அனுமதிக்காக அனுப்பி வைக்கப்பட்டுள்ளது.
+The Amendment Electricity Board Bill has been sent to the Attorney General's Department for approval and the approval of the Cabinet will be presented in Parliament in April, said Power and Energy Minister Kanjana Wijesekera.
 
-அதனையடுத்து அமைச்சரவை அங்கீகாரத்துடன் ஏப்ரல் மாதம் பாராளுமன்றத்தில் சமர்பிக்க முடியும் என்றார். (a)
+The Minister said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+The Gazette on the Reorganization of the Electricity Board was released last December. Accordingly, the shortcomings and changes in the new law pointed out by the appropriate parties, political parties and trade unions. A total of 46 amendments to this has been sent to the Attorney General's Department for approval.
+
+He said that the Cabinet would subsequently be presented to Parliament in April with the approval of the Cabinet. (A)
 
 ◼️
 
 [Data](articles/8bfb5bbe.json)
 
+[Extended Data](ext_articles/8bfb5bbe.ext.json)
+
 ---
 
-### இலங்கையின் அர்ப்பணிப்புக்கு ஐ.எம்.எப். பாராட்டு
+### IMF for Sri Lanka's dedication. Appreciate
 
 *2024-03-08 04:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அர்ப்பணிப்புக்கு-ஐ-எம்-எப்-பாராட்டு/175-334372) · `ta`
 
-சர்வதேச நாணய நிதியத்துடன் இணைந்து இந்த திட்டத்தை நடைமுறைப்படுத்துவதில் இலங்கை அரசாங்கத்தின் உறுதியான அர்ப்பணிப்பைப் பாராட்டுகின்றோம் என  சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான தூதக்குழுவின் தலைவர் பீட்டர் ப்ரூவர் தெரிவித்தார்.
+Peter Brouver, IMF Chairman, praises Sri Lanka's firm commitment to an IMF project, led by President Ranil Wickremesinghe. The government's economic recovery plan is progressing, with joint efforts between Sri Lanka and the IMF highlighted. Discussions focused on financial stability, structural restructuring, and future orientation.
 
-நிதி அமைச்சில் நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து கலந்துரையாடிய போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தை இலங்கை உரிய முறையில் நடைமுறைப்படுத்துவதால், அதன் பிரதிபலன்களை காண முடிந்துள்ளதாகவும் பீட்டர் ப்ரூவர் சுட்டிக்காட்டினார்.
+"We are praising the Sri Lankan government's firm commitment to implementing the project in partnership with the International Monetary Fund," said Peter Brouver, Chairman of the International Monetary Fund.
 
-இலங்கையின் பொருளாதாரம் மீண்டும் வலுவடைந்துள்ளமை மகிழ்ச்சிக்குரியது எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அர்பணிப்புக்கும் பாராட்டுக்கள் என்றும் அவர் தெரிவித்தார்.
+He was speaking at the meeting with President Ranil Wickremesinghe at the Ministry of Finance yesterday.
 
-இதன்போது நாட்டை பொருளாதார சரிவிலிருந்து மீட்பதற்கான அரசாங்கத்தின் திட்டம் வெற்றிகரமாக செயற்படுத்தப்பட்டு வருவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டினார்.
+Peter Brouver pointed out that Sri Lanka has been implementing a program with the International Monetary Fund.
+
+He said that it is a pleasure to re -strengthen the economy of Sri Lanka and congratulate President Ranil Wickremesinghe's dedication.
+
+President Ranil Wickremesinghe pointed out that the government's plan to recover the country from the economic downturn is being successfully implemented.
+
+The President also pointed out that the recognition of Sri Lanka's progress is emphasizing the accepted joint effort to achieve economic growth between Sri Lanka and the International Monetary Fund.
 
 ...
 
 [Data](articles/74976959.json)
+
+[Extended Data](ext_articles/74976959.ext.json)
 
 ---
 
@@ -825,20 +863,6 @@ The Central African Republic stands out for its wealth in diamonds, gold, uraniu
 [Data](articles/8713aa06.json)
 
 [Extended Data](ext_articles/8713aa06.ext.json)
-
----
-
-### Battle against corruption
-
-*2024-03-08 03:29:00* · [`islandlk`](http://island.lk/battle-against-corruption/) · `en`
-
-We as a nation had many names officially and many unofficially such as Pearl of the Indian Ocean, Teardrop Isle, Serendipitous Land, Paradise, Land of the Lotus Eaters. We were famous for our smiles and friendliness; the modest charm of our youth; scenic wonders and the fast and easy accessibility of vastly different climatic conditions, vegetation and terrain. Ceylon was known for its tea. Most of those complimentary names are now obliterated by what we are currently recognised for: corruption; being a country with people up to all sorts of dishonest practices and corruption rife from top to bottom. Well known was a Cabinet Minister asking for a santhosam from a country to accept a project! He still sits in Parliament, nodding many times.
-
-...
-
-[Data](articles/4abdf338.json)
-
-[Extended Data](ext_articles/4abdf338.ext.json)
 
 ---
 

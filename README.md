@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 09:51:58**
+As of **2024-03-08 10:02:40**
 
 ## Newspaper Stats
 
-*Scraped **11,634** Articles*
+*Scraped **11,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 economynextcom | 605
 dailyftlk | 617
 islandlk | 627
-adalk | 984
+adalk | 985
 adaderanalk | 1,412
 tamilmirrorlk | 1,413
-virakesarilk | 1,596
+virakesarilk | 1,598
 dailymirrorlk | 1,772
 adaderanasinhalalk | 1,825
 
@@ -26,25 +26,63 @@ adaderanasinhalalk | 1,825
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,630 (100.0%) of 11,634 articles have been extended.
+11,634 (100.0%) of 11,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### මත්ද්‍රව්‍ය අඩංගු පොලිතීන් කැබැල්ලක් ස්වරාලයේ සිරවීමෙන් සැකකරුවෙකු මරුට
+### வெடுக்குநாறி ஆலய பூசகர் உட்பட இருவரையும் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை
+
+*2024-03-08 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178223) · `ta`
+
+சிவராத்திரி பூசைக்கான ஒழுங்கமைப்பில் ஈடுபட்டிருந்த வவுனியா வெடுக்குநாறி ஆலய பூசகர் உட்பட நிர்வாகசபை உறுப்பினர் ஒருவரும் நேற்று நெடுங்கேணி பொலிஸாரால் கைது செய்யப்பட்டிருந்தனர்.
+
+இந்நிலையில் அவர்கள் இருவரையும் வவுனியா நீதிமன்றத்தில் இன்று ஆஜர்ப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/5f71cff1.json)
+
+---
+
+### வெடுக்குநாறி மலை ஆதி சிவன் கோவில் பூசகர் சிவத்திரு மதிமுகராசா கைது - அகில இலங்கை சைவ மகா சபை கண்டனம்
+
+*2024-03-08 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178221) · `ta`
+
+வெடுக்குநாறி மலை ஆதி சிவன் கோவில் மகா சிவராத்திரி பூசை ஏற்பாடுகளுக்கு சென்ற பூசகர் சிவத்திரு மதிமுக ராசாவை கைது செய்தமை மிகப் பாரதூரமான சைவத்தமிழர்களின் அடிப்படை வழிபாட்டுரிமையை மீறும் செயல் என அகில இலங்கை சைவ மகாசபை கடும் கண்டனம் வெளியிட்டுள்ளது.
+
+உலகம் பூராகவும் உள்ள சைவர்களின் மிக உன்னதமான முதன்மையான விரதம் சிவராத்திரி ஆகும்.
+
+அந்த வகையில் வன்னி சிவப் பிராந்தியத்தில் வவுனியா மாவட்டத்தில் உள்ள தொன்று தொட்டு தமிழ்ச் சைவர்கள் வழிபட்டு வரும் ஆதி சிவன் கோவிலின் மகா சிவராத்திரி வழிபாடுகளுக்கு சென்ற  பூசகர் மிக மோசமான முறையில் கைது செய்யப்பட்டமையையும்  பக்தர்களின் வழிபாடுகளிற்கு ஆலய பரிபாலன சபையினரின் பூசை ஏற்பாடுகளுக்கு  பலத்த இடையூறு விளைவிக்கப்பட்டு துப்பாக்கி முனையில் அச்சுறுத்தப்பட்டமை சைவசமயிகளிற்கு தாங்கொணாத வலியை ஏற்படுத்தி உள்ளது.
+
+இது இலங்கையின் சைவசமயிகளின் வழிபாட்டு உரிமைக்கு விடுவிக்கப்பட்ட பாரிய அச்சுறுத்தலும்  அதே நேரம் சைவ சமய மதகுருவை மோசமாக நடாத்தி கைது செய்தமை மன்னிக்க முடியாத பாரதூரமான சம்பவமாகும்.
+
+...
+
+[Data](articles/f2f99a2b.json)
+
+---
+
+### Suspect dies after drug polythene of drugs
 
 *2024-03-08 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194282) · `si`
 
-පොලිස් වැටලීමකදී පළාගිය සැකකරුවෙක් බිම ඇදවැටී සිහිසුන්වී ඇති අතර රෝහල්ගත කිරීමෙන් පසු ඔහු මියගොස් ඇති බව හෙළිවී තිබේ.
+A suspect, identified after hospitalization, died from drug overdose. A post mortem at Chilaw Hospital was conducted and reported by the hospital's Specialist Judicial Court Officer.
 
-සිද්ධිය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය ඊයේ හලාවත රෝහලේදී සිදුකර ඇත.
+🟩
 
-එහිදී, මත්ද්‍රව්‍ය අඩංගු පොලිතීන් කවර කැබැල්ලක් ස්වරාලයේ සිරවීම හේතුවෙන් හුස්ම ගැනීමට නොහැකිවීමෙන් සිදුවූ මරණයක් බවට හලාවත රෝහලේ විශේෂඥ අධිකරණ ද්‍යෛ නිලධරියා විසින් පශ්චාත් මරණ පරීක්ෂණ වාර්තාව නිකුත් කර තිබේ.
+The suspect, who had fled the floor, has been identified after hospitalization.
+
+The post mortem was conducted at the Chilaw Hospital yesterday.
+
+The post mortem report has been issued by the Chilaw Hospital Specialist Judicial Court (S) Extestant Extetent Court Officer of the Chilaw Hospital.
 
 ◼️
 
 [Data](articles/58918937.json)
+
+[Extended Data](ext_articles/58918937.ext.json)
 
 ---
 
@@ -66,6 +104,8 @@ A Hamas official told Reuters the United States was in partnership with Israel a
 
 [Data](articles/bd8c9f11.json)
 
+[Extended Data](ext_articles/bd8c9f11.ext.json)
+
 ---
 
 ### Vets dispute Pramitha Bandara’s stray dog population claim over data accuracy
@@ -82,6 +122,8 @@ He mentioned that previously, inaccurate statements had been circulated about th
 
 [Data](articles/2f182325.json)
 
+[Extended Data](ext_articles/2f182325.ext.json)
+
 ---
 
 ### Ramya Vanigasekara passess away
@@ -93,6 +135,8 @@ Veteran actress, journalist and radio news anchor Ms. Ramya Vanigasekara has pas
 ◼️
 
 [Data](articles/d44179a4.json)
+
+[Extended Data](ext_articles/d44179a4.ext.json)
 
 ---
 
@@ -1710,6 +1754,24 @@ The suspects have been revealed in Kurunegala, Kurunegala residents of age and 3
 
 ---
 
+### අද වායු දූෂණය වැඩි වෙයි
+
+*2024-03-07 20:12:02* · [`adalk`](https://www.ada.lk/breaking_news/අද-වායු-දූෂණය-වැඩි-වෙයි/11-408488) · `si`
+
+අද(08) දිනයේදි දිනයේදි සමහර නගරවලවල  වායු දූෂණ තත්වය තරමක් වැඩි විය හැකි යැයි බලාපොරොත්තු වන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සදහන් කරයි.
+
+ඊයේ (07) උදෑසන 08.00 ට අවසන් වූ පැය 24 තුළ පැවති සාමානය වායු ගුණ තත්තත්තවය සැලකීමේදී, බදුල්ල නගරයේ  පමණක් ශුද්‍ර අංශු (PM2.5) ප්‍රමාණය ශ්‍රී ලංකා වායුගුණ තත්තත්තව දර්ශකය (SL AQI), 101-150 අගයක, එනම් සංවෙදි  පුද්ගලයන්ටසෞඛ්‍යමය වශයෙන්  අහිතකර අගයක පැවැති බවද පෙන්වා දෙයි.
+
+ඊයේ දිනයේදි  අනෙකුත්  නගරවල ශුද්‍ර අංශු (PM2.5) ප්‍රමාණය ශ්‍රී ලංකා වායුගුණ තත්වය දර්ශකය මධ්‍යයම අගයක (SL AQI, 51-100) පැවැති බවද සදහන්කරයි.
+
+කොළඹ නගරයේ සමාන්‍ය ශුද්‍ර අංශූ මට්ම 47 ක් විය යුතු වුවත් ඊයේ දිනයේදි කොළඹ නගරය ශුද්‍ර අංශූ මට්ම  94 ක් බවට පත් වි තිබු අතර යාපනය නගරය ශුද්‍ර අංශූ මට්ම41 විය යුතු ඊයේ දිනයේදි එම අඟය  82 වි තිබෙන අතර කුරුණෑගල නගරයේ ශුද්‍ර අංශූ මට්ම 45 ක් විය යුතු වුවත් (ඊයේ එම අඟය  90 වි තිබු අතර වවුනියාව නගරය ශුද්‍ර අංශූ මට්ම 34 ක් වුවත් ඊයේ එම අඟය  68 විය.
+
+...
+
+[Data](articles/60e914a4.json)
+
+---
+
 ### Sri Lankans rescued on the ship's ship
 
 *2024-03-07 20:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலுக்குள்ளான-கப்பலில்-இருந்த-இலங்கையர்கள்-மீட்பு/175-334355) · `ta`
@@ -2129,67 +2191,5 @@ In a statement, the owners and manager said all 20 crew and three armed guards o
 [Data](articles/4bc1cf90.json)
 
 [Extended Data](ext_articles/4bc1cf90.ext.json)
-
----
-
-### State Music Awards will be centered
-
-*2024-03-07 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194265) · `si`
-
-The State Music Awards, organized by the Ministry of Buddha Sasana and Cultural Affairs, were held at the Nelum Pokuna Theater. Sangitha Philanthi Awards were presented to Ven. Devananda and Anthony Surendra. Awards included excellence and encouragement for artists and prospects.
-
-🟩
-
-The State Music Awards ceremony was held yesterday (06) at the Faculty of the Nelum Pokuna Theater.
-
-The awards ceremony is conducting the excellence and encouragement of the artists and prospects for the tomorrow.
-
-Sangitha Philanthi Awards, Ven. Devananda and Anthony Surendra receives only once in life.
-
-Awards and Certificates were presented as awarded awards, merit awards, jury special assessment under the children, women's and male.
-
-The awards ceremony was organized by the Ministry of Buddha Sasana and Cultural Affairs.
-
-◼️
-
-[Data](articles/eba50d89.json)
-
-[Extended Data](ext_articles/eba50d89.ext.json)
-
----
-
-### Ronnie De Mel the Socialist MP  who  Ushered in  a Capitalist Economy as Finance Minister.
-
-*2024-03-07 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83715) · `en`
-
-The  ascension of Junius Richard Jayewardene to the premier seat of poitical power in 1977  paved the way for a drastic transformation of Sri Lanka’s politico-economic landscape and environment. J.R. Jayewardene known popularly as “JR” ushered in political, economic and electoral changes that utterly changed Sri Lanka.  In the words of William Butler Yeats “All changed, changed utterly”
-
-The advent of JR as Prime Minister in 1977 and as the first executive president in 1978 saw great changes in three vital spheres. Firstly the economy was liberalised and free enterprise encouraged. Secondly the Westminster model of Parliamentary governance introduced by the British was turned into an executive presidency. Parliament was de-valued. Thirdly the prevailing “first past the post winner” electoral practice was replaced with the proportional representation scheme.
-
-...
-
-[Data](articles/670bb669.json)
-
-[Extended Data](ext_articles/670bb669.ext.json)
-
----
-
-### Hoouti released 21
-
-*2024-03-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194264) · `si`
-
-Hoouti released 21, rescuing 10 from missile strikes. Indian Navy redeemed suspects with Coltata ship, helicopters, and boats.
-
-🟩
-
-Ten persons were rescued from the missile strikes and a commercialized ship to a commercial ship, Yemen, and the missile attacks on the LTTE's calendar.
-
-The Indian Navy said that the suspects were redeemed by the Coltata ship, helicopters and boats.
-
-◼️
-
-[Data](articles/212b6dc8.json)
-
-[Extended Data](ext_articles/212b6dc8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 14:50:05**
+As of **2024-03-08 15:03:54**
 
 ## Newspaper Stats
 
-*Scraped **11,678** Articles*
+*Scraped **11,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,82 @@ newsfirstlk | 363
 economynextcom | 608
 dailyftlk | 617
 islandlk | 627
-adalk | 990
+adalk | 991
 tamilmirrorlk | 1,413
 adaderanalk | 1,418
-virakesarilk | 1,607
-dailymirrorlk | 1,780
+virakesarilk | 1,608
+dailymirrorlk | 1,781
 adaderanasinhalalk | 1,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,676 (100.0%) of 11,678 articles have been extended.
+11,678 (100.0%) of 11,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### මත්ද්‍රව්‍ය සමග 23 හැවිරිදි කාන්තාවක් අත්අඩංගුවට
+### Government to introduce two bills on gender equality, women’s empowerment
+
+*2024-03-08 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-introduce-two-bills-on-gender-equality-womens-empowerment/108-278495) · `en`
+
+Colombo, March 08 (Daily Mirror)- Two new legislations which ensure women’s rights and economic empowerment were announced by the government today as the country marked the International Women’s Day with the rest of the world.
+
+Addressing the International Women’s Day celebration today, President Ranil Wickremesinghe announced that two bills focusing on Gender Equality and Women's Empowerment will be introduced to Parliament in May.
+
+The Women's Empowerment Act was officially gazetted yesterday and the Gender Equality Act is set to be gazetted next week.
+
+UNP Chairman and Member of Parliament Vajira Abeywardene and Minister of Labour Manusha Nanayakkra who elaborated on the Women’s Empowerment Bill and the Gender Equality Bill, said the two Bills will provide more security and economic stability to women.
+
+Both were speaking during a programme organized by the UNP Women’s wing Lak Wanitha Peramuna to mark International Women’s Day this morning.
+
+...
+
+[Data](articles/346f207f.json)
+
+---
+
+### 107 வயதான முதியவர் யாழ்ப்பாணத்தில் உயிரிழப்பு!
+
+*2024-03-08 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178254) · `ta`
+
+யாழ்ப்பாணம் - சாவகச்சேரியில் 107 வயது முதியவர் ஒருவர் நேற்று வியாழக்கிழமை (07) சுகயீனம் காரணமாக  உயிரிழந்துள்ளார்.
+
+1917ஆம் ஆண்டு இவர் பிறந்துள்ளார். இவர் தனது 107 வயது பிறந்தநாளை அண்மையில் வெகுவிமர்சியாக கொண்டாடியிருந்தார். இவருக்கு 10 பிள்ளைகள், 75 பேரப்பிள்ளைகள், 25 பூட்டப்பிள்ளைகள் 5 கொள்ளுப் பேரப் பிள்ளைகள் உள்ளனர்.
+
+கடந்த 1 மாத காலமாக சுகயீனமுற்ற நிலையில் உயிரிழந்துள்ளார்.  இலங்கையில் ஆங்கிலேயர் ஆண்ட காலப்பகுதியில் இவர் பணிபுரிந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/72fc5dc2.json)
+
+---
+
+### A 23 year old woman arrested with drug
 
 *2024-03-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194292) · `si`
 
-පොලිස් විශේෂ කාර්ය බළකාය නැගෙනහිර පළාතේ සෝදිසි මෙහෙයුම්වලට අදාළව වාලච්චේන සෙම්මන්නෝඩේ ගම්මානයේදී මත්ද්‍රව්‍ය වැටලීමක් සිදුකර තිබේ.
+A 23-year-old woman was arrested in Valachchenai village for drug possession, including 53 grams of ice, 240 grams of ice, 24 milligrams of Kerala cannabis, and Rs. 86,000. The Special Task Force, led by Inspector G. L. Kumara, conducted the raid.
 
-එහිදී අයිස් මත්ද්‍රව්‍ය සමග 23 හැවිරිදි කාන්තාවක් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-පොලිස් විශේෂ කාර්ය බළකායේ වාලච්චේන කඳවුරේ අණදෙන නිලධාරි පොලිස් පරීක්ෂක කේ. ජී. එල්. කුමාර මහතාට ලැබී තිබූ තොරතුරකට අනුව වැටලීම සිදුකර තිබේ.
+Special Task Force has made a drug raid in the Valachchenahnonda village, along with investigations into the Eastern Province.
 
-ඒ අනුව අදාළ ගම්මානායේ නිවසක් පරීක්ෂා කිරීමේදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 53යි මිලිග්‍රෑම් 240ක්, කේරළ ගංජා ග්‍රෑම් 24යි මිලිග්‍රෑම් 30ක්,මත්පෙති 2,950ක් සහ මුදල් රුපියල් 86,000ක් නිලධාරීන් භාරයට ගෙන ඇත.
+A 23-year-old woman was arrested with ice drugs.
 
-පසුව අදාළ සැකකාරිය සහ මත්ද්‍රව්‍ය ඉදිරි පරීක්ෂණ කටයුතු සඳහා වාලච්චේන පොලීසියට භාරදී ඇත.
+Police Inspector of the Special Task Force of the Police Special Task Force. G. L. Kumara's raid was raided by information.
+
+Accordingly, inspecting a house in the village, 53 grams of ice, 240 grams of ice, 24 milligrams of Kerala cannabis and Rs. 86,000.
+
+The Valachchenai has been handed over to the Valachchenai Police for the later suspect and drug advancement.
 
 ◼️
 
 [Data](articles/898b81f5.json)
+
+[Extended Data](ext_articles/898b81f5.ext.json)
 
 ---
 
@@ -196,6 +238,22 @@ To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all 
 
 ---
 
+### අත්අඩංගුවට ගත් සැකකරු රෝහල් ගත කරන විට මියගිහින්
+
+*2024-03-08 13:32:26* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-සැකකරු-රෝහල්-ගත-කරන-විට-මියගිහින්/11-408494) · `si`
+
+මාදම්පේ පොලිස් වසමේ පම්බල ප‍්‍රදේශයේදී හලාවත කොට්ඨාස විෂ මත්ද්‍රවය ඒකකයේ නිලධාරින් ඛණ්ඩායමක් විසින් ලද තොරතුරකට අනුව පසුගිය 06 වැනිදා මත්ද්‍රව්‍ය වැටලිමක් සිදු කර ඇති අතර, එහිදි සැක කරුවන් දෙදෙනකු අත්අඩංගුවට ගැනීමට යාපම්දී පලා ගොස් ඇත. නිලධාරීන් විසින් ඔවුන් පසු පස ලූ‍හුබැඳ යා‌ෙම්දී එක් සැකකරුවකු බිම ඇද වැටී ඇති අතර, පසුව නිලධාරීන් විසින් සැකකරුවන් දෙදෙදනාම අත්අඩංගුවට ගෙන ඇත.
+
+බිම ඇද වැටී සිටි සැකකරු සිහිසුන් වීම හේතුවෙන් නිලධාරින් විසින් එම පුද්ගලයාා හලාවත රෝහලට ඇතුලත් කල බව පොලීසිය පවසයි. සැකකරු පරීක්ෂා කළ ‌ෛවද්‍යවරුන් විසින් ඔහු මිය‌ගොස් ඇති බවට දන්වා ඇත. මරණ කරු වයස අවුරුදු 37 ක් වූ හලාවත ප්‍රදේශයේ පදිංචි අයෙකි.
+
+මත්ද්‍රවය අඩංගු පොලිතින් වර කැබැල්ලක් ස්වරාලයේ හිරවීම හේතුවෙන් හුස්ම ගැනීමට නොහැකි වීමෙන් සිදුවූ මරණයක් බවට හලාවත පරෝහල් වි‌ෙශ්ෂඥ අධිකරණ‌ ‌ෛවද්‍යය නිලධාරියා විසින් පශ්චාත් මරණ පරික්ෂණ වාර්තාවක්ද නිකුත්කර ඇති බව පොළීසිය අන්වා සිටියි.
+
+◼️
+
+[Data](articles/312a3424.json)
+
+---
+
 ### President pays two bills for Women's Day
 
 *2024-03-08 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194289) · `si`
@@ -279,6 +337,8 @@ Femina Women’s Expo 2024, Sri Lanka’s largest women’s exhibition was launc
 ◼️
 
 [Data](articles/6719cf9c.json)
+
+[Extended Data](ext_articles/6719cf9c.ext.json)
 
 ---
 
@@ -2169,99 +2229,5 @@ Today most people have forgotten what the situation was in 2022. I have forgotte
 [Data](articles/a1368cc1.json)
 
 [Extended Data](ext_articles/a1368cc1.ext.json)
-
----
-
-### Rahitha Abeygunawardena is the Chairman of the Cobb Group
-
-*2024-03-08 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178213) · `ta`
-
-Rahitha Abeygunawardena, Chairman of Cobb Group, and Rohitha Abe Gunawardena, MP of Kalutara District, elected Chairman of COP. Committee dissolved due to controversy. New session begins with selection held yesterday. Rohitha Abe Gunawardena elected leader. Minister of State for COP elected unanimously.
-
-🟩
-
-Rohitha Abe Gunawardena, Member of Parliament of the Kalutara District of the PA, has been elected as the Chairman of the Committee of Government Responsibility (COP).
-
-The Committee on Government Responsibility is already the Chairman of the State MP. While Professor Ranjith Bandara was present, the committee's actions were postponed due to the controversy and the sexual harassment of him against him.
-
-In this backdrop, the committee was dissolved and the 5th session began as the 5th parliamentary session was postponed and the selection of the committee was held yesterday.
-
-Independent Opposition MP on behalf of opposition parties. Deputy Commissioner of Forum. Rohitha Abe Gunawardena Mahinda Gunawardena MP, MP of the Kalutara District of the PA on the state government, has been proposed by Dylan Perera MP. Yal proposed and proposed by the Sanjeeva enemy MP.
-
-Rohitha Abe Gunawardena MP in the vote for the chairman's election.He was elected as the leader.
-
-...
-
-[Data](articles/3317e78a.json)
-
-[Extended Data](ext_articles/3317e78a.ext.json)
-
----
-
-### Sadev, Dineet and Nathan. Toma scored 297 runs
-
-*2024-03-08 00:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178211) · `ta`
-
-Toma scored 297 runs in a match against Colombo SSC, losing all wickets. Sadev Soyza and Senathi Bullenkulama started with 66 runs, followed by 66 from Sadev and Dineet Gunawardena. Sadev scored 83, and after tea, Toma scored 173, with Dineet and Maid Perera adding 58, and Nathan Chardera and Akash Fernando 60. Ramiru Perera and Sneet Jayawardena took 4 wickets each. The Royal team aims to prevent wickets in the second day's first part.
-
-🟩
-
-Colombo SSC. TS started on Thursday (07) at the playground. Royal for Senanayake Gnanakarta Shield. The Toma team lost all the wickets and scored 297 runs.
-
-In the first day's game. As Thoma's last wicket fell, as well as the first day of the game.
-
-At the beginning of this competition. The Toma team was very good.
-
-During the first day of the first day of the lunch break. The Toma team lost only one wicket and scored 97 runs.
-
-Sadev Soyza and Senathi Bullenkulama shared 66 runs and made a good start.
-
-Sadev Soyza and Dineet Gunawardena shared 66 runs in the second wicket after they lost 13 runs with 13 runs.
-
-Until then, Sadev Soyza, who was patiently, tried to hit the ball and lost the match with 83 runs.
-
-Then when the game was stopped at the tea break. The Toma team lost 2 wickets and scored 173 runs.
-
-However, after the tea break, only 124 runs fell by the remaining 8 wickets to join the total number.
-
-Meanwhile, Dineet Gunawardena and team captain Maid Perera shared 58 runs in the 3rd wicket.
-
-...
-
-[Data](articles/f3765363.json)
-
-[Extended Data](ext_articles/f3765363.ext.json)
-
----
-
-### 2024-03-07 (Thursday)
-
-### Ottawa: Four children among six found dead in house
-
-*2024-03-07 23:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-Four-children-among-six-found-dead-in-house/108-278454) · `en`
-
-BBC News, Toronto - Canadian police are treating the deaths of four children and two adults at a house in Ottawa as homicides.
-
-Officers were responding to an emergency call placed at approximately 22:52 local time (03:52 GMT) on Wednesday when they found the six people.
-
-Ottawa police chief Eric Stubbs has described the incident as a "mass shooting".
-
-Sri Lanka's High Commission in Ottawa told the BBC on Thursday that the victims were a family of Sri Lankan nationals.
-
-The commission did not provide further details, referring questions to police.
-
-In a statement early on Thursday morning, the Ottawa Police Service called the investigation into the deaths "tragic and complex".
-
-Officials have also said that at least one person had been taken to hospital in the Ottawa area with serious but not life-threatening injuries.
-
-They added that there was no ongoing threat to public safety.
-
-Chief Stubbs called the incident a "real tragedy" that would continue to have a "significant" impact on the whole city.
-
-...
-
-[Data](articles/01b75ede.json)
-
-[Extended Data](ext_articles/01b75ede.ext.json)
 
 ---

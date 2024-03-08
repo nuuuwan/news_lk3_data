@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 19:02:40**
+As of **2024-03-08 18:51:06**
 
 ## Newspaper Stats
 
-*Scraped **11,731** Articles*
+*Scraped **11,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 617
 islandlk | 627
 adalk | 995
 tamilmirrorlk | 1,418
-adaderanalk | 1,425
+adaderanalk | 1,424
 virakesarilk | 1,615
 dailymirrorlk | 1,787
 adaderanasinhalalk | 1,842
@@ -26,33 +26,11 @@ adaderanasinhalalk | 1,842
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,723 (99.9%) of 11,731 articles have been extended.
+11,723 (99.9%) of 11,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
-
-### Gold hits fresh record, heads for best week in 5 months
-
-*2024-03-08 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97826/gold-hits-fresh-record-heads-for-best-week-in-5-months) · `en`
-
-Gold prices hit record highs for a fourth consecutive session on Friday on growing speculations over June interest rate cuts ahead of key U.S. jobs data due later in the day.
-
-Spot gold rose 0.4% to $2,168.28 per ounce as of 1057 GMT, while U.S. gold futures added 0.5% to $2,175.50.
-
-Gold reached a new all-time high of $2,170.99 earlier in the session and has gained more than 4.1% so far this week, setting it on track to post its biggest weekly percentage increase since mid-October.
-
-“I think a lot of the demand that we’ve seen coming from is really in the paper market. It’s just speculative demand,” said Michael Widmer, Bank of America’s head of Metals Research.
-
-“You always had good support from Chinese buying and central bank buying. But that was never enough to take prices high.”
-
-Gold first surpassed its December peak on Tuesday, primarily aided by growing indications of cooling price pressures and bullion’s traditional safe-haven cachet.
-
-...
-
-[Data](articles/644733ca.json)
-
----
 
 ### வெள்ளவத்தையில் பெரிய துளை
 
@@ -2263,5 +2241,27 @@ After considering the petition, the three-member Supreme Court Bench, said Ada D
 [Data](articles/35e73058.json)
 
 [Extended Data](ext_articles/35e73058.ext.json)
+
+---
+
+### Six Sri Lankans knifed to death in Ottawa; 19-year old arrested
+
+*2024-03-08 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Six-Sri-Lankans-knifed-to-death-in-Ottawa-19-year-old-arrested/155-278463) · `en`
+
+The Ottawa Police Service Homicide Unit  in Canada arrested a 19-years-old Sri Lankan student who was involved in last night’s homicide where six including five members of a Sri Lankan family were killed.
+
+According to the immediate release issued by the Ottawa police, the Ottawa Police Service Homicide Unit has charged a man in relation to the homicides on Berrigan Drive that left six persons dead and one injured.
+
+Febrio De-Zoysa, 19-years-old, has been charged with six counts of first-degree murder and one count of attempted murder.
+
+He is a Sri Lankan national who is believed to be in Canada as a student.
+
+Police have identified the victims of last night’s homicide as Darshani Banbaranayake Gama Walwwe Darshani Dilanthika Ekanyake (female) 35-years-old. Her husband was also injured and is in hospital in a stable condition.
+
+...
+
+[Data](articles/f05b4180.json)
+
+[Extended Data](ext_articles/f05b4180.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 08:33:24**
+As of **2024-03-08 08:50:32**
 
 ## Newspaper Stats
 
-*Scraped **11,623** Articles*
+*Scraped **11,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ dailyftlk | 617
 islandlk | 627
 adalk | 984
 adaderanalk | 1,410
-tamilmirrorlk | 1,411
+tamilmirrorlk | 1,413
 virakesarilk | 1,595
 dailymirrorlk | 1,770
-adaderanasinhalalk | 1,821
+adaderanasinhalalk | 1,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,620 (100.0%) of 11,623 articles have been extended.
+11,623 (100.0%) of 11,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### පොලිස් සාක්ෂිකරුවන් ට තර්ජනයක් ?
+
+*2024-03-08 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194279) · `si`
+
+ඇප මත මුදාහැර සිටින පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ හිටපු පොලිස් නිලධාරීන් පිරිසක් අපරාධයක වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ කොට්ඨාසයට අනුයුක්ත කිරීම නිසා එම සිද්ධියට සම්බන්ධ පොලිස් සාක්ෂිකරුවන්ට තර්ජන එල්ලවී තිබෙන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර ඇත.
+
+අත්අඩංගුවට පත්වූ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ හිටපු නිලධාරියෙකු වන සුමේධ වීරසිංහ විසින් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් ඊයේ  කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා මෙම දැනුම්දීම සිදු කළ බව වාර්තා විය.
+
+නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා කරුණු දක්වමින් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් අත්අඩංගුවට ගනු ලබන මත්ද්‍රව්‍ය නැවතත් ජාවාරම්කරුවන්ට අලෙවි කිරීමේ සිද්ධිය සම්බන්ධයෙන් එම කාර්යාංශයට අනුයුක්ත පොලිස් නිලධාරීන් 19 දෙනෙකු අත්අඩංගුවට ගෙන පසුව ඇප මත මුදාහැර ඇති බව ප්‍රකාශ කළේය.
+
+අනතුරුව එම නිලධාරීන්ගෙන් පිරිසක් වින්දිතයින් හා සාක්ෂිකරුවන් ආරක්ෂා කිරීමේ අධිකාරියේ රාජකාරියට යොදවා ඇති බව ඔහු පැවසීය.
+
+...
+
+[Data](articles/35e73058.json)
+
+---
 
 ### Six Sri Lankans knifed to death in Ottawa; 19-year old arrested
 
@@ -49,6 +67,30 @@ Police have identified the victims of last night’s homicide as Darshani Banbar
 ...
 
 [Data](articles/f05b4180.json)
+
+[Extended Data](ext_articles/f05b4180.ext.json)
+
+---
+
+### Shooting in Canada: 6 Sri Lankans belonging to the same family killed
+
+*2024-03-08 08:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178212) · `ta`
+
+In Ottawa, a shooting at a house killed 6 Sri Lankans from the same family, including the mother and children, and seriously injured the father. A suspect was arrested.
+
+🟩
+
+Six people belonging to the same family who were identified as Sri Lankans were killed in a shooting at a house in Ottawa, the capital of Canada.
+
+The mother and children have died and the father has been admitted to the hospital with serious injuries.
+
+Ottawa police said that a suspect was arrested in connection with the crime.
+
+◼️
+
+[Data](articles/762eb188.json)
+
+[Extended Data](ext_articles/762eb188.ext.json)
 
 ---
 
@@ -73,6 +115,8 @@ Meanwhile, Sri Lanka has officially reported 11 HIV cases among the transgender 
 ...
 
 [Data](articles/a817915b.json)
+
+[Extended Data](ext_articles/a817915b.ext.json)
 
 ---
 
@@ -614,6 +658,44 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 
 ---
 
+### ’மின்சார சபைச் சட்டமூலம் ஏப்ரலில் சமர்பிக்கப்படும்’
+
+*2024-03-08 04:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபைச்-சட்டமூலம்-ஏப்ரலில்-சமர்பிக்கப்படும்/175-334373) · `ta`
+
+திருத்தம் செய்யப்பட்ட மின்சார சபைச் சட்டமூலம் சட்டமா அதிபர் திணைக்களத்தின் அனுமதிக்காக அனுப்பி வைக்கப்பட்டுள்ளது, அமைச்சரவையின் அனுமதிக்குப் பின்னர் எதிர்வரும் ஏப்ரல் மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என்று  மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் இதனைத் தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+மின்சார சபையின் மறுசீரமைப்பு தொடர்பான வர்த்தமானி கடந்த டிசம்பர் மாதம் வெளியிடப்பட்டது. இதன்படி, புதிய சட்டத்தில் உள்ள குறைபாடுகள் மற்றும் மாற்றங்களை உரிய தரப்பினரும், அரசியல் கட்சிகள் மற்றும் தொழிற்சங்கங்கத்தினரும் சுட்டிக்காட்டியிருந்தனர். இது தொடர்பான 46 திருத்தங்களுடன் கூடிய சட்டமூலம் சட்டமா அதிபர் திணைக்களத்தின் அனுமதிக்காக அனுப்பி வைக்கப்பட்டுள்ளது.
+
+அதனையடுத்து அமைச்சரவை அங்கீகாரத்துடன் ஏப்ரல் மாதம் பாராளுமன்றத்தில் சமர்பிக்க முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/8bfb5bbe.json)
+
+---
+
+### இலங்கையின் அர்ப்பணிப்புக்கு ஐ.எம்.எப். பாராட்டு
+
+*2024-03-08 04:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அர்ப்பணிப்புக்கு-ஐ-எம்-எப்-பாராட்டு/175-334372) · `ta`
+
+சர்வதேச நாணய நிதியத்துடன் இணைந்து இந்த திட்டத்தை நடைமுறைப்படுத்துவதில் இலங்கை அரசாங்கத்தின் உறுதியான அர்ப்பணிப்பைப் பாராட்டுகின்றோம் என  சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான தூதக்குழுவின் தலைவர் பீட்டர் ப்ரூவர் தெரிவித்தார்.
+
+நிதி அமைச்சில் நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து கலந்துரையாடிய போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+சர்வதேச நாணய நிதியத்துடனான வேலைத்திட்டத்தை இலங்கை உரிய முறையில் நடைமுறைப்படுத்துவதால், அதன் பிரதிபலன்களை காண முடிந்துள்ளதாகவும் பீட்டர் ப்ரூவர் சுட்டிக்காட்டினார்.
+
+இலங்கையின் பொருளாதாரம் மீண்டும் வலுவடைந்துள்ளமை மகிழ்ச்சிக்குரியது எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அர்பணிப்புக்கும் பாராட்டுக்கள் என்றும் அவர் தெரிவித்தார்.
+
+இதன்போது நாட்டை பொருளாதார சரிவிலிருந்து மீட்பதற்கான அரசாங்கத்தின் திட்டம் வெற்றிகரமாக செயற்படுத்தப்பட்டு வருவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/74976959.json)
+
+---
+
 ### Can't confront the conspiracies
 
 *2024-03-08 04:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதிகளை-எதிர்கொள்ள-முடியாமற்போனது/175-334371) · `ta`
@@ -967,28 +1049,6 @@ Rohitha Abe Gunawardena MP in the vote for the chairman's election.He was electe
 [Data](articles/3317e78a.json)
 
 [Extended Data](ext_articles/3317e78a.ext.json)
-
----
-
-### Shooting in Canada: 6 Sri Lankans belonging to the same family killed
-
-*2024-03-08 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178212) · `ta`
-
-In Ottawa, a shooting at a house killed 6 Sri Lankans from the same family, including the mother and children, and seriously injured the father. A suspect was arrested.
-
-🟩
-
-Six people belonging to the same family who were identified as Sri Lankans were killed in a shooting at a house in Ottawa, the capital of Canada.
-
-The mother and children have died and the father has been admitted to the hospital with serious injuries.
-
-Ottawa police said that a suspect was arrested in connection with the crime.
-
-◼️
-
-[Data](articles/762eb188.json)
-
-[Extended Data](ext_articles/762eb188.ext.json)
 
 ---
 
@@ -1568,19 +1628,27 @@ According to a complaint lodged by an Indian embassy, a police officer said that
 
 ---
 
-### කෝපා නව සභාපති ලසන්ත අලගියවන්න
+### Lasantha Alagawanna
 
 *2024-03-07 19:44:21* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-නව-සභාපති-ලසන්ත-අලගියවන්න/11-408487) · `si`
 
-පාර්ලිමේන්තුවේ රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (කෝපා කමිටුවේ) නව සභාපතිවරයා ලෙස රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා ආණ්ඩු පක්ෂය සහ විපක්ෂය නියෝජනය කරන සාමාජික මන්ත්‍රීරවරුන්ගේ යෝජනා ස්ථිරත්වයෙන් ඒකමතිකව පත් කරගන්නා ලදි. ඒ නවවැනි පාර්ලිමේන්තුවේ පස් වැනි සභාවාරය සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ පළමු රැස්වීම අද (07) පැවති අවස්ථවේදීය.
+Lasantha Alagiyawanna, new Chairman of the Committee on Public Accounts, discussed future activities with members. Parliamentarians Vajira Abeywardena and Mohan Priyadarshana De Silva, among others, were present.
 
-එහිදි රාජ්‍ය අමාත්‍ය  ලසන්ත අලගියවන්න මහතාගේ  නම පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා විසින් යෝජනා කළ අතර පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීතරන් මහතා විසින් ස්ථිර කරන ලදී.
+🟩
 
-මෙහිදී නව සභාපතිවරයා විසින්  කමිටුවේ ඉදිරි කටයුතු පිළිබඳව පැමිණ සිටි සාමාජික මන්ත්‍රීවරුන් සමග සාකච්ඡා කළ අතර මෙම ඉදිරි කටයුතු සාර්ථක කර ගැනීම සඳහා  කමිටු සාමාජිකයන් සියළුදෙනාගේම සහය අපේක්ෂා කරන බවත් පැවසීය.
+Minister of State Lasantha Alagiyawanna was the new Chairman of the Committee on Public Accounts (Capa Committee).. The first meeting of the Committee on Public Accounts was held today (07).
 
-...
+State Minister Lasantha Alagiyawanna, MP Vajira Abeywardena proposed by Parliamentaries Vajira Abeywardena. Confirmed by Mr. Sitharan.
+
+He said that the new chairman had discussed the future activities of the Committee and the members of the members are looking for support to achieve this.
+
+Minister of State Ministers Mohan Priyadarshana De Silva, Prasanna Ranaweera, Diyain Gamage, Chamaka Gamage, and Parliamentarians Tissa Attanayake, Niroshan Perera, Ashok Abeysinghe, Hector AppuhamiS. Sri Lanka, M. Mrs. Udayakumar, (Dr.) Major Pradeep Undugoda, Rahandas Kodithaku, Isuru Dodangi, Madurane Weerasana and Manjulana Weerasana and Manjula Dissanayake were present.
+
+◼️
 
 [Data](articles/0ddef97f.json)
+
+[Extended Data](ext_articles/0ddef97f.ext.json)
 
 ---
 
@@ -2123,99 +2191,5 @@ Transport Minister Bandula Gunawardana said price regulations are being planned 
 [Data](articles/3d6dfed9.json)
 
 [Extended Data](ext_articles/3d6dfed9.ext.json)
-
----
-
-### Four-year-old child killed in a lorry
-
-*2024-03-07 17:19:26* · [`adalk`](https://www.ada.lk/breaking_news/පාපැදියෙන්-සෙල්ලම්-කරමින්-සිටි-අවුරුදු-හතරේ-දරුවෙක්--ලොරියක-ගැටි-මරුට/11-408482) · `si`
-
-A 4-year-old child was killed by a lorry while riding a bicycle. The child, Mohamed Saki, was six months old. The incident occurred near Puttalam, and the police are investigating the driver's negligence.
-
-🟩
-
-The Noroichchola Phithurai Puthui journeys along the way to enter his bicycle
-
-Dimodi Batta Lorry has been killed after admitting to the Puttalam Base Hospital
-
-Norochcholai police say. The deceased is Mohamed Saki Saki Saki Saki Saki Saki Saki Saki Mohamed is six months old.
-
-Little children riding the home of the house of the house where the dead child was taken by his parents
-
-It is said that the road has come to the road from playing with a group.
-
-Batta lorry was on the road, and the Puttalam basic
-
-This death is not a good DIMO Batta with no proper search for the child on the proper neglect of parent
-
-Police officers say that there is an accident on the driver's negligence. The Norochcholai Police have commenced investigations into the death.
-
-◼️
-
-[Data](articles/3e215e28.json)
-
-[Extended Data](ext_articles/3e215e28.ext.json)
-
----
-
-### News for those who have a new vehicle
-
-*2024-03-07 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194262) · `si`
-
-BYD leads global EV market, surpassing Tesla in Japan. Tesla's growth slows, selling 18.1M vehicles in 2023, while BYD's sales rise 73%. BYD's expansion benefits from high fuel prices in Australia, where EV demand grows. Tesla's new models, including the Cybertruck, are introduced in 2023, with the Model 3 updated for Australia, Europe, and China. BYD's sales in India increase 314% over the previous year, and a Super Car is targeted at the market.
-
-🟩
-
-China's BYD is now being crowned in the world's vehicle market.
-
-Elon Mask's Tesla e-vehicle was able to become 1 in Japan, defeated Nissan in Japan 2015 or 2016.
-
-Since then, the Tesla has crossed the Tesla, which became the most difficult of electric vehicle, was in the fourth quarter of 2023.
-
-In October to December last year, the BYD arrived at the front, selling 526,409 electronic vehicles compared to 484,000 electronic vehicles.
-
-But the total number of 2023, Tesla sold 18.1 million to the vehicles.
-
-However, when the petrol fuel or batteries were treated, 3 million vehicles have been marketed in the year 2023.
-
-When BYD increased by 73% in 2023, Tesla production grew 38%.
-
-Chinese electrical vehicles shows that byD shows a rapid global expansion during the last 18 months.
-
-In particular, the limits of the Australian market are minimal and the high fuel prices, bYD vehicles are a beneficial situation.
-
-...
-
-[Data](articles/e80ec6b3.json)
-
-[Extended Data](ext_articles/e80ec6b3.ext.json)
-
----
-
-### Sri Lanka rupee closes at 307.30/40 to the US dollar
-
-*2024-03-07 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-307-30-40-to-the-us-dollar-153699/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 307.30/40 to the US dollar in the spot forex market Thursday, stronger from 307.95/308.05 a day earlier, dealers said, while bond yields were up.
-
-The rupee had opened at 307.65/75 levels to the US dollar, market participants said.
-
-A bond maturing on 01.02.2026 closed at 10.65/75 percent up from 10.60/75 percent Tuesday.
-
-A bond maturing on 15.09.2027 closed at 12.00/10 percent up from 11.90/12.00 percent.
-
-A bond maturing on 01.07.2028 closed up at 12.20/40 percent from 12.20/30 percent.
-
-A bond maturing on 15.07.2029 closed up at 12.25/70 percent from 12.25/50 percent.
-
-A bond maturing on 15.05.2030 closed at 12.35/70 percent from 12.35/50 percent.
-
-A bond maturing on 01.07.2032 closed at 12.60/13.00 percent up from 12.50/13.00 percent. (Colombo/Mar7/2024)
-
-◼️
-
-[Data](articles/40cb189b.json)
-
-[Extended Data](ext_articles/40cb189b.ext.json)
 
 ---

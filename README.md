@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 09:02:59**
+As of **2024-03-08 09:17:56**
 
 ## Newspaper Stats
 
-*Scraped **11,626** Articles*
+*Scraped **11,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ economynextcom | 605
 dailyftlk | 617
 islandlk | 627
 adalk | 984
-adaderanalk | 1,410
+adaderanalk | 1,411
 tamilmirrorlk | 1,413
 virakesarilk | 1,595
 dailymirrorlk | 1,770
-adaderanasinhalalk | 1,822
+adaderanasinhalalk | 1,823
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,626 (100.0%) of 11,626 articles have been extended.
+11,626 (100.0%) of 11,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### රම්‍යා වනිගසේකර දිවි ගමනට සමුදෙයි
+
+*2024-03-08 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194280) · `si`
+
+ප්‍රවීන රංගන ශිල්පිනියක් වන රම්‍යා වනිගසේකර මහත්මිය අභාවප්‍රාප්ත වී තිබේ.
+
+ඇය මාධ්‍යවේදිනියක් සහ ගුවන් විදුලි ප්‍රවෘත්ති නිවේදිකාවක් ලෙස ද කටයුතු කළාය.
+
+◼️
+
+[Data](articles/305cfbb7.json)
+
+---
+
+### Veteran actress & journalist Ramya Wanigasekara passes away
+
+*2024-03-08 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97811/veteran-actress-journalist-ramya-wanigasekara-passes-away) · `en`
+
+Veteran actress, journalist and former radio news presenter Ramya Wanigasekara passed away on Friday morning (March 08), family sources told Ada Derana.
+
+◼️
+
+[Data](articles/f2c107b3.json)
+
+---
 
 ### Battle against corruption
 
@@ -2171,49 +2197,5 @@ There are various ideas and ideas for everyone in Parliament. However, no one ha
 [Data](articles/2b19a04c.json)
 
 [Extended Data](ext_articles/2b19a04c.ext.json)
-
----
-
-### CEB to introduce instalment payment scheme for new connections: Minister
-
-*2024-03-07 17:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-to-introduce-instalment-payment-scheme-for-new-connections-Minister/108-278429) · `en`
-
-Parliament, March 7 (Daily Mirror)- Steps are being taken to introduce a mechanism to pay the connection charge for new electricity connections through an instalment payment scheme, Power and Energy Minister Kanchana Wijesekara said today.
-
-He told Parliament that the proposal to introduce the instalment payment scheme has been approved by the Board of Directors of the Ceylon Electricity Board (CEB) and that it will be announced by next week.
-
-Responding to an oral question raised by Parliamentarian W.H.M. Dharmasena, the Minister said the new system will allow consumers to obtain new connections after paying only 25 per cent of the total connection fee, which is around Rs. 40,000, and pay the rest in ten or twelve instalments.
-
-◼️
-
-[Data](articles/a0a76b47.json)
-
-[Extended Data](ext_articles/a0a76b47.ext.json)
-
----
-
-### Sri Lanka plans bootha price controls
-
-*2024-03-07 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-bootha-price-controls-153673/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s combined harvesters for rice is next in line for price controls, according to statements made in a parliament, as price controls are also planned for three-wheelers and school vans in the wake of a currency crisis.
-
-The price charged for harvesting rice by owners of harvesting machines (colloquially known as a boothaya) is to be regulated from the next Maha season, State Minister of Agriculture Mohan Priyadarshana De Silva said.
-
-Member of Parliament Samanpriya Herath, said however, owners of combined harvesters had also bought the machines on lease and had to service debt.
-
-“The industry is in danger of collapse, so that we also have to take into account.”
-
-Due to competition between owners fees have come down in some cases.
-
-Transport Minister Bandula Gunawardana said price regulations are being planned for three-wheelers and school vans.
-
-“There was an idea earlier to set up a separate regulatory authority for three wheelers,” Gunawardana told reporters Tuesday.
-
-...
-
-[Data](articles/3d6dfed9.json)
-
-[Extended Data](ext_articles/3d6dfed9.ext.json)
 
 ---

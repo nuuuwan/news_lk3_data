@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 00:33:38**
+As of **2024-03-09 00:48:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,759 (99.9%) of 11,766 articles have been extended.
+11,761 (100.0%) of 11,766 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Gender inequality is also reflected in women’s representation and participatio
 
 [Data](articles/18b74aaa.json)
 
+[Extended Data](ext_articles/18b74aaa.ext.json)
+
 ---
 
 ### Ambitious Presidential candidates and a powerful constitution
@@ -63,6 +65,8 @@ This article has been prepared based on a discussion with K. B. Gunaratne, Forme
 ...
 
 [Data](articles/880e2447.json)
+
+[Extended Data](ext_articles/880e2447.ext.json)
 
 ---
 

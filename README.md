@@ -1,58 +1,184 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 16:17:34**
+As of **2024-03-08 16:33:25**
 
 ## Newspaper Stats
 
-*Scraped **11,687** Articles*
+*Scraped **11,695** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 136
+bbccomsinhala | 137
 dbsjeyarajcom | 178
 newsfirstlk | 363
 economynextcom | 608
 dailyftlk | 617
 islandlk | 627
-adalk | 992
+adalk | 994
 tamilmirrorlk | 1,413
-adaderanalk | 1,419
-virakesarilk | 1,608
-dailymirrorlk | 1,781
+adaderanalk | 1,420
+virakesarilk | 1,610
+dailymirrorlk | 1,783
 adaderanasinhalalk | 1,837
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,684 (100.0%) of 11,687 articles have been extended.
+11,687 (99.9%) of 11,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### මිනී පිට්ටනියක් බඳු ගාසා
+### வெடுக்குநாறிமலையில் ஐஸ்கிறீம் வியாபாரியை கலைத்த பொலிஸார் ; பொதுமக்கள் குழப்பம்!
+
+*2024-03-08 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178257) · `ta`
+
+வெடுக்குநாறிமலையில் ஐஸ்கிறீம் வியாபாரத்தில் ஈடுபட்ட வியாபாரியினை பொலிஸார் கலைத்தமையால் ஆலய வளாகத்தில் குழப்பநிலை ஏற்பட்டது.
+
+வெடுக்குநாறிமலையில் இன்று லெள்ளிக்கிழமை சிவராத்திரி வழிபாடுகளை மேற்கொள்ளச் சென்ற பொதுமக்களுக்கு பொலிஸாரால் பல்வேறு அசௌகரியங்கள் ஏற்படுத்தப்பட்டது.
+
+இதனால் 5 கிலோ மீற்றர்கள் நடந்துசென்ற பொதுமக்கள் நீர் இன்றி அசௌகரியத்தை எதிர்கொண்டனர்.
+
+இதேவேளை ஆலய வளாகத்தில் ஐஸ் கிறீம் வியாபாரத்தில் ஈடுபட்ட வியாபாரி ஒருவரை பொலிஸார் விற்பனையில் ஈடுபட வேண்டாம் என தெரிவித்து ஆலய வளாகத்தை விட்டு அகற்றினர். இதனால்  பொதுமக்களுக்கும் பொலிஸாருக்கும் இடையில் குழப்பநிலை ஏற்பட்டது.
+
+◼️
+
+[Data](articles/474faeaa.json)
+
+---
+
+### நைஜீரியாவில் 200 மாணவர்கள் ஆயுதக்குழுவினால் கடத்தல்
+
+*2024-03-08 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178262) · `ta`
+
+நைஜீரியாவில் ஆயுதக்குழுவொன்றினால் இருநூற்றுக்கும் அதிகமான மாணவர்கள் கடத்திச் செல்லப்பட்டுள்ளனர் என ஆசிரியர் ஒருவரும்  உள்ளூர் மக்களும் தெரிவித்துள்ளனர்.
+
+நைஜீரியாவின் வடமேற்குப் பிராந்தியத்திலுள்ள கதுனா மாநிலத்தில் நேற்று வியாழக்கிழமை இச்சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கதுனா மாநிலத்தின் உள்ளூராட்சி அதிகாரிகள் இச்சம்பவத்தை உறுதிப்படுத்தியுள்ளனர். எனினும், எத்தனை பேர் கடத்தப்பட்டனர் என்பது குறித்து ஆராய்ந்து வருவதாக அவர்கள் தெரிவித்துள்ளனர்.
+
+கடத்தப்பட்டவர்களின் எண்ணிக்கை 280 இற்கும் அதிகம் என உள்ளூர்வாசியான முஹம்மத் ஆதம் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/022b79b0.json)
+
+---
+
+### 23-year-old woman arrested with drugs in Valaichchenai
+
+*2024-03-08 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97821/23-year-old-woman-arrested-with-drugs-in-valaichchenai) · `en`
+
+A 23-year-old woman has been arrested while in possession of narcotics including crystal methamphetamine (‘Ice’).
+
+The arrest was made in Semmannodai village in Valaichchenai, based on a tip-off received by the Valaichchenai STF camp.
+
+Accordingly, the STF officers managed to impound 53 grams of ‘Ice’, 24 grams of Kerala cannabis, 2,950 narcotic pills and Rs. 86,000 in cash upon searching a house in the village.
+
+The female suspect has been handed over to the Valaichchenai Police for further investigations.
+
+◼️
+
+[Data](articles/722ac447.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාස භංගයට අත්සන් කළා
+
+*2024-03-08 15:55:25* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකට-එරෙහි-විශ්වාස-භංගයට-අත්සන්-කළා/11-408497) · `si`
+
+කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට තමන් අත්සන් නොකළ බවට පැතිර යන කතාව ස්.ජ.බ. පාර්ලිමේන්තු මන්ත්‍රී ඉරාන් වික්‍රමරත්න තරයේ ප්‍රතික්ෂේප කරයි.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ ස්ථාවර නියෝගවල ප්‍රතිපාදන උල්ලංඝනය පක්ෂපාතිත්වයෙන් හැසිරීම සම්බන්ධයෙන් කථානායකවරයාට එරෙහිව සජීවීව පාර්ලිමේන්තුවේදී ප්‍රශ්න කිරීම සම්බන්ධයෙන් තමන් ඉදිරියෙන්ම සිටින බව ඔහු පැවසීය.
+
+කථානායක කාර්යාලයේදී තමන් විශ්වාස භංග යෝජනාවට අත්සන් කළේ ජා. ජ. බ වේගයේ පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතාට පසුව ළඟ 46 වැනි මන්ත්‍රීවරයා ලෙස බවත්, තමා එම යොජනාවට අත්සන් නොකළ බවට වූ කතාව සාමාන්‍ය ජනතාව අතර ස.ජ.බ. ය තුළ බෙදීමක් ඇති බවට වැරදි අවබෝධයක් ඇති කිරීමේ ද්වේෂසහගත චේතනාවෙන් ප්‍රචාරය කර ඇති බවත් ඔහු චෝදනා කළේය.
+
+පාර්ලිමේන්තුවේදී අපක්ෂපාතීව කටයුතු කළ යුතු කථානායකවරයා විසින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය කිරීම සම්බන්ධයෙන් පසුගියදා කථානායකවරයාගෙන් අසන ලද ප්‍රශ්නවලට තවමත් පිළිතුරු බලාපොරොත්තුවෙන් සිටින බවද ඉරාන් වික්‍රමරත්න වැඩිදුරටත් පැහැදිලි කළේය.
+
+◼️
+
+[Data](articles/199d0ac2.json)
+
+---
+
+### මාස තුනට ශ්‍රී පාදයේ ප්ලාස්ටික් වතුර බෝතල් ටොන් තුනක් දාලා ගිහින්
+
+*2024-03-08 15:51:03* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනට-ශ්‍රී-පාදයේ-ප්ලාස්ටික්-වතුර-බෝතල්-ටොන්-තුනක්-දාලා-ගිහින්/11-408496) · `si`
+
+2023-2024 ශ්‍රි පාද වන්දනා වාරය ආරම්භ කර මාස තුනක් වැනි කෙටි කාලයක් තුල නල්ලතන්නිය සිට ශ්‍රි පාද උඩ මළුව දක්වා මාර්ගයේ වන්දනාකරුවන් විසින් බැහැර කර තිබු ප්ලාස්ටික් වතුර බෝතල් ටොන් තුනක් පමණ එක්රැස් කර ඇති බව මස්කෙලිය ප්‍රාදේශිය සභාවේ ලේකම් එස්.රාජවීරන් මහතා පැවසිය.
+
+එම මාර්ගයේ ගමන් ගන්නා වන්දනාකරුවන් රැගෙන යන ප්ලාස්ටික් වතුර බෝතල් බැහැර කිරිමට කසල බදුන් සවි කර ඇති බවත්, ඇතැම් වන්දනාකරුවන් ප්ලාස්ටික් වතුර බෝතල් කසල බදුන් වලට බැහැර කරන අතර , තවත් වන්දනාකරුවන් පිරිසක් ප්ලාස්ටික් වතුර බෝතල් පරිසරයට මුදා හරින බවයි ලේකම්වරයා කියා සිටියේ.
+
+තවද වන්දනාකරුවන් රැගෙන යන පිසු ආහාර ද්‍රව්‍ය අනුභව කර ඉන් ඉවත ලන කැලි කසල වර්ග කර කැලි කසල බැහැර කිරිමට සකස් කර ඇති බදුන් වලට බැහැර කරන ලෙසට උපදෙස් ලබා දි තිබුණද එම උපදෙස් ඇතැම් වන්දනාකරුවන් විසින් නොපිලිපදින බවයි ලේකම්වරයා කියා සිටින්නේ.
+
+ශ්‍රි පාද වන්දනාකරුවන් විසින් බැහැර කර තිබු ප්ලාස්ටික් වතුර බෝතල් නල්ලතන්නියේ කැලි කසල ප්‍රතිචක්‍රිකරණ මධ්‍යස්ථානය වෙත රැගෙන විත් එම ප්ලාස්ටික් වතුර බෝතල්  පෞද්ගලික අංශය වෙත අලෙවි කරන බවද ලේකම්වරයා පැවසිය.
+
+...
+
+[Data](articles/ecadb4e7.json)
+
+---
+
+### Man dies after packet of heroin gets stuck in his throat
+
+*2024-03-08 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-dies-after-packet-of-heroin-gets-stuck-in-his-throat/108-278497) · `en`
+
+A man who fled with a packet of heroin to escape the police, has died after the packet got stuck in his throat.
+
+The post mortem report has revealed that the suspect involved in drug trafficking had died of suffocation.
+
+The post mortem was performed by the JMO of the Chilaw General Hospital Dr. Ilangaratne Banda.
+
+The deceased, Mirissa Pathirage Prabhath Abeyweera was a resident of Ratnauyana in Chilaw.
+
+The suspect who had previous convictions for drug offences had fallen down and died when the police gave chase to arrest him.
+
+Police said the suspect and another individual were travelling by trishaw in the Pambala area when they checked the trishaw on suspicion. However, the two men alighted from the trishaw and fled and one of them fell on the ground. Police had rushed him to hospital only to be pronounced dead on admission.
+
+Chilaw Magistrate Shashitha De Silva who held the preliminary magesterial inquiry had ordered the JMO to perform the post mortem examination.
+
+◼️
+
+[Data](articles/f0e8b2ea.json)
+
+---
+
+### Aside Gasa like a coffin
 
 *2024-03-08 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194295) · `si`
 
-ගාසා තීරයට ඊශ්‍රායල හමුදා එල්ල කළ ප්‍රහාර හේතුවෙන් මේ දක්වා පලස්තීනුවන් 31,000කට ආසන්න ගණනක් ජීවිතක්ෂයට පත්ව තිබේ.
+Nearly 31,000 Palestinians have died in the Gaza conflict, leading to a humanitarian crisis. Israel continues military operations, despite international pressure. The US and Egypt are involved in negotiations for a ceasefire, with Israel and Hamas at odds. President Biden supports Israel and plans to build a port in Gaza for humanitarian aid.
 
-තවත් මිලියන සංඛ්‍යාත පිරිසක් සාගතයකට ගොදුරුවීමේ අවදානම මැද ගාසා තීරයේ සටන් විරාමයක් වහා ඇති කළ යුතු බවට ජාත්‍යන්තරයෙන් ඊශ්‍රායලයට එල්ල වන්නේ දැඩි බලපෑමකි.
+🟩
 
-මාස 5ක් තිස්සේ සිදුවන ගාසා යුද්ධයෙන් මෙතෙක් නොවූ විරූ මානුෂීය අර්බුදයක් ඇති වී තිබෙන බව  ජාත්‍යන්තර විචාරකයෝ පවසති.
+Nearly 31,000 Palestinians have died in due attack on the Gaza core.
 
-එහෙත් ඊශ්‍රායල හමුදා පුහුණු පාසලක නිලධාරීන් විසිරයාමේ උත්සවයකට ඊයේ (07) සහභාගී වෙමින් ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු ප්‍රකාශ කළේ ගාසා තීරයේ හමුදා මෙහෙයුම් අඛණ්ඩව ක්‍රියාත්මක කරන බවයි.
+Others, internationally, is an influence of a ceasefire at Gaza until the risk of famine.
 
-ජාත්‍යන්තරයෙන් එල්ල වන පීඩනය ඉහළයමින් පැවතුනද, යුද්ධය නතර කිරීමට දරන උත්සාහයන්ට එරෙහිව ඊශ්‍රායලය එක්සත්ව නැගී සිටිය යුතු බව නෙතන්යාහු කියා සිටියේය.
+International critics say that a humanitarian crisis has been caused by the wars of the war for 5 months.
 
-උතුරු සහ මධ්‍යම ගාසා තීරයෙන් පමණක් නොව දකුණු ගාසා තීරයේ ඛාන් යූනිස් නගරයෙන් පවා පළා ආ මිලියන 1.5ක් පමණ පලස්තීනුවන් දැන් ඊජිප්තු දේශසීමාවේ පිහිටි රෆා නගරයේ රැඳී සිටියි.
+However, Israeli Prime Minister Benjamin Netanyahu, attended a ceremony at a Military Training School yesterday (07), said that military operations continue in Gaza.
 
-එහි මහා පරිමාණ ගොඩබිම් මෙහෙයුමක් දියත් කිරීම අනතුරුදායක බවට අමෙරිකාව පවා ප්‍රකාශ කර තිබේ.
+Although the international pressure is rising, Israel must be able to stand up with the efforts to stop the war.
+
+The Palestinians of Khan Yunis in the North and Central Gaza are now staying in RAFA in RAFA.
+
+Even the US has said that launching a large scale landing operation is dangerous.
+
+The Prime Minister Nethonuu is called the Hamas Last Fort of Hamas.
+
+Netanyahu said that if anyone says that the operation is not launched, it is such as defeating the war.
+
+Netanyahu stressed that it would not be done.
 
 ...
 
 [Data](articles/8a0a351a.json)
+
+[Extended Data](ext_articles/8a0a351a.ext.json)
 
 ---
 
@@ -180,6 +306,18 @@ He has died for the past 1 month.It is noteworthy that he worked during the Brit
 
 ---
 
+### UNP Women’s day celebration...
+
+*2024-03-08 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-Womens-day-celebration/110-278494) · `en`
+
+A ceremony organized by the UNP women’s wing 'Lak Wanitha Peramuna' to mark International Women’s Day was held at a hotel in Kotte. Chief of Presidential Staff Sagala Ratnayake, UNP General Secretary Palitha Range Bandara and Lak Vanitha Peramuna President Shanthini Kongahage were aslo present. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/18d878bf.json)
+
+---
+
 ### A 23 year old woman arrested with drug
 
 *2024-03-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194292) · `si`
@@ -206,21 +344,27 @@ The Valachchenai has been handed over to the Valachchenai Police for the later s
 
 ---
 
-### කාන්තා හිංසනය හා ප්‍රචණ්ඩත්වය පිටුදකිමු
+### Still the victimization and violence
 
 *2024-03-08 14:24:03* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-හිංසනය-හා-ප්‍රචණ්ඩත්වය-පිටුදකිමු/11-408495) · `si`
 
-ජාත්‍යන්තර කාන්තා දිනය වෙනුවෙන් Ogilvy Sri Lanka සහ, ශ්‍රී ලංකාවේ කාන්තාවන්ට සහ ගැහැනු දරුවන්ට එරෙහි ප්‍රචණ්ඩත්වය පිටුදැකීම සඳහා කටයුතු කරන Women In Need (WIN) සංවිධානය එක්ව සංවිධානය කළ දැනුවත් කිරීමේ වැඩසටහනක් මාර්තු මස 08 දා පිටකොටුව බෝ ගහ අසලදී පැවැත්විණි.
+On March 8, Wiodone (Win Win) organized an awareness program for International Women's Day in Sri Lanka, featuring a sculpture titled "Masterpiece of Abuse," highlighting violence against women. The event aimed to raise awareness about the challenges faced by women in the country, advocating for a focus on addressing these issues rather than just celebrating women's day.
 
-'Masterpiece of Abuse' යනු හිංසනය පිළිබඳව සහ හිංසනයේ ගොදුරු බවට පත් වී ඉන් ගැලවුණු කාන්තාවන් පිළිබඳව සමාජය දැනුවත් කිරීම අරමුණු කරගෙන, ජාත්‍යන්තර කාන්තා දිනය නිමිත්තෙන් නිරාවරණය කරනු ලබන මූර්තියක් වන අතර කාන්තාවන්ට මුහුණ දීමට සිදු වූ ප්‍රචණ්ඩකාරී සිදුවීම් සහ අපයෝජනයන් පිළිබඳ කරුණු ඇතුළත් පුවත්පත් පිටු යොදාගෙන මෙම මූර්තිය නිර්මාණය කර තිබේ.
+🟩
 
-කාන්තා දිනයේදී පමණක් මාධ්‍යයන් හි කතිකාවට ලක්වන සුබපැතුම් හා බලගැන්වීමට වලට වඩා ප්‍රබල ලෙස ‘අත්හැරීමේ කලාව’ (forsaken art)  මගින් වසර පුරා අපයෝජනයට හා හිංසනයට ලක්වන කාන්තාවන්ගේ යථාර්ථය සමාජයට නිරූපණය කිරීම මෙහි අපේක්ෂාව විය.
+Awareness program organized by the Wiodone (Win Win) organized by the International Women's Day and women with women and girls in Sri Lanka was held on March 8.
 
-දිවයින පුරා කාන්තාවන්ට මුහුණ දීමට සිදුවන මෙම ගැටලු මෙන්ම, ඒවාට මුහුණ දුන් කාන්තාවන් එදිනෙදා ජීවිතයේදී මුහුණ දෙන දුෂ්කර අභියෝගයන් පිළිබඳව  මෙහිදී ජනතාවගේ අවධානයට යොමුකෙරිණි.
+'Masterpiece of abuse' is a sculpture of violence and violent women, using pressing the violent events and abuses of womenThe sculpture is created.
+
+It was advisable to represent the "art of dropping than the congratulations of the media in the women's day alone.
+
+These problems, as well as women who faced women around the country, were brought to the public about difficult challenges in everyday life.
 
 ◼️
 
 [Data](articles/0f715d90.json)
+
+[Extended Data](ext_articles/0f715d90.ext.json)
 
 ---
 
@@ -871,6 +1015,32 @@ The police said that steps have been taken to produce in court after the investi
 [Data](articles/3807c0d1.json)
 
 [Extended Data](ext_articles/3807c0d1.ext.json)
+
+---
+
+### රම්‍යා වනිගසේකර: දැවැන්ත හඬ පෞරුෂය සහ විශිෂ්ට රංග පෞරුෂය නිවී යයි
+
+*2024-03-08 10:27:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2xvgp4kvl4o) · `si`
+
+රම්‍යා වනිගසේකර: දැවැන්ත හඬ පෞරුෂය සහ විශිෂ්ට රංග පෞරුෂය නිවී යයි
+
+දැවැන්ත හඬ පෞරුෂයකින් මීට දශක කිහිපයකට පෙර ශ්‍රී ලාංකික ගුවන් විදුලි ශ්‍රාවකයින්ට ප්‍රවෘත්ති ඉදරිපත් කළ, රම්‍යා වනිගසේකරගේ හඬ සිකුරාදා (මාර්තු 08) පෙරවරුවේ නිවී ගියේ ය.
+
+කලක් අසනීප තත්ත්වයෙන් පසුවූ ඇය අභාවප්‍රාප්ත වූයේ, කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ය.
+
+චරිතාංග රංගන ශිල්පිනියක, ජ්‍යෙෂ්ඨ ප්‍රවෘත්ති නිවේදිකාවක සහ පසුබිම් ගායිකාවක ලෙස ද දැවැන්ත පෞරුෂයක් හිමි කරගෙන සිටි ඇය පිළිබඳ මතකාවර්ජනයකි, මේ.
+
+කෑගල්ල, කොටියාකුඹුර ප්‍රදේශයේදී 1950 ජූලි මස 17 වන දා රම්‍ය වනිගසේකර උපත ලැබුවේ, දරුවන් 7 දෙනෙකුගෙන් යුත් පවුලේ පස් වැන්නා ලෙස ය.
+
+ඇයගේ පියා හෙට්ටිමුල්ල ප්‍රදේශයේ පදිංචිව සිටි වතු අධිකාරිවරයෙකු ව‍ූ අතර, මව ඇහැලියගොඩ ප්‍රදේශයේ උපන් කාන්තාවකි.
+
+රම්‍යා වනිගසේකර සිය ප්‍රාථමික අධ්‍යාපනය ආරම්භ කළේ, කොටියාකුඹුර අම්පේ මහා විද්‍යාලයෙනි.
+
+ඉන්පසු පාසල් කිහිපයකින් ම අධ්‍යාපනය ලැබූ ඇය, ද්විතීක අධ්‍යාපනය අවසන් කළේ, රුවන්වැල්ල රාජකීය විද්‍යාලයෙනි.
+
+...
+
+[Data](articles/64738329.json)
 
 ---
 
@@ -2073,175 +2243,5 @@ In his book, he also stated that he had resigned to end the political conspiracy
 [Data](articles/2d2c465c.json)
 
 [Extended Data](ext_articles/2d2c465c.ext.json)
-
----
-
-### Big power brinkmanship and that elusive ship in Red Sea
-
-*2024-03-08 04:07:00* · [`islandlk`](http://island.lk/big-power-brinkmanship-and-that-elusive-ship-in-red-sea/) · `en`
-
-There appears to be confusion over diverse reports on the deployment of a Sri Lanka Navy ship in the Red Sea, to participate in a US-led military operation against Houthi ship attacks. President Ranil Wickemesinghe has remarked on this mission at various events, but it is still not clear whether a vessel is to be sent, has already been sent, or will not be sent.
-
-Over the past several weeks, media reports have conveyed that:
-
-– The Red Sea deployment to join the US-led “Operation Prosperity Guardian” is unlikely, as none of the Offshore Patrol Vessels in service with the SLN are equipped to operate in a missile environment (The Island 07.02.24)
-
-– No ship has still been sent (The Sunday Times 18.02.24 citing a foreign ministry source)
-
-...
-
-[Data](articles/a4395da4.json)
-
-[Extended Data](ext_articles/a4395da4.ext.json)
-
----
-
-### Special train services from today
-
-*2024-03-08 04:06:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-விசேட-ரயில்-சேவைகள்/175-334370) · `ta`
-
-Special train services start today for the long weekend, focusing on northern and hill country areas. Services include a train from Colombo Fort to Badulla at 7.30 am, two from Badulla to Colombo Fort at 7.45 am and 5.20 pm on March 10, and a special service from Anuradhapura to Kankesanthurai.
-
-🟩
-
-Special train services will be carried out from today to mark the long weekend holiday.
-
-Railway Transport Superintendent NMJ says these rail services will be carried out in the northern and hill country.. Having said.
-
-A train departed towards Badulla before the postal train service last night. A railway service will be operated from Colombo Fort to Badulla at 7.30 am today.
-
-In addition, two trains will travel from Badulla to Colombo Fort at 7.45 am on March 10 and 5.20 pm.
-
-In addition to this, a special train service will be held from Anuradhapura to Kankesanthurai today. (A)
-
-◼️
-
-[Data](articles/8a19a5d8.json)
-
-[Extended Data](ext_articles/8a19a5d8.ext.json)
-
----
-
-### Firing in Canada: 6 Sri Lankans killed
-
-*2024-03-08 04:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கனடாவில்-துப்பாக்கி-சூடு-6-இலங்கையர்கள்-பலி/150-334369) · `ta`
-
-In Ottawa, 6, including 4 children, found dead in a house. A Sri Lankan suspect arrested.
-
-🟩
-
-The bodies of six six people, including 4 children, have been found in a house in the southwestern part of Ottawa, the capital of Canada.
-
-Ottawa police said that the mother, her four children and a relative of the family were killed.
-
-A Sri Lankan citizen suspect has been arrested in connection with the incident. (A)
-
-◼️
-
-[Data](articles/43d097b3.json)
-
-[Extended Data](ext_articles/43d097b3.ext.json)
-
----
-
-### Firing in Canada: 6 Sri Lankans killed
-
-*2024-03-08 04:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனடாவில்-துப்பாக்கி-சூடு-6-இலங்கையர்கள்-பலி/175-334369) · `ta`
-
-In Ottawa, Canada, 6, including 4 children, were found dead in a house. A Sri Lankan suspect is arrested.
-
-🟩
-
-The bodies of six people, including 4 children, have been found in a house in the southwestern part of the Canada capital, Ottawa.
-
-Ottawa police said that the mother, her four children and a relative of the family were killed.
-
-A Sri Lankan citizen suspect has been arrested in connection with the incident. (A)
-
-◼️
-
-[Data](articles/797a95b0.json)
-
-[Extended Data](ext_articles/797a95b0.ext.json)
-
----
-
-### Envoy Kananathan and Central African Republic President Faustin Touadéra hold talks
-
-*2024-03-08 03:49:00* · [`islandlk`](http://island.lk/envoy-kananathan-and-central-african-republic-president-faustin-touadera-hold-talks/) · `en`
-
-Sri Lanka’s envoy to Kenya, Kana Kananathan, yesterday (07) had talks with Central African Republic President Faustin-Archange Touadéra in the Central African Republic. The discussions revolved around enhancing bilateral ties, emphasising potential collaboration avenues. Talks also focussed on mining opportunities for Sri Lankans in the Central African Republic.
-
-President Touadéra and High Commissioner Kananathan’s dialogue underscored a mutual commitment to strengthening economic bonds and establishing strategic partnerships. The primary goal is to optimise the abundant mineral wealth in the Central African Republic for the benefit of Sri Lankan entrepreneurs, fostering shared growth and prosperity.
-
-The Central African Republic stands out for its wealth in diamonds, gold, uranium, iron ore, copper, and manganese.
-
-...
-
-[Data](articles/8713aa06.json)
-
-[Extended Data](ext_articles/8713aa06.ext.json)
-
----
-
-### International Women’s Day and Women  in Lanka - EDITORIAL
-
-*2024-03-08 02:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/International-Womens-Day-and-Women-in-Lanka-EDITORIAL/172-278458) · `en`
-
-The world celebrates International Women’s Day, today. March 8 is a day set apart to recognise the cultural, political, social and economic achievements made by women. It also serves as an opportunity to inspire efforts to end gender biases and discrimination, and achieve gender equality.
-
-International Women’s Day is linked to the women’s movements during the Russian Revolution. On March 8, 1917, thousands of women in Russia heralded the start of the Russian revolution by going on strike to demand bread and in protest at the toll of Russian lives lost in during World War I.
-
-Within days, The Tsar (Russian King) abdicated, and women were given the right to vote. International Women’s Day has been celebrated on 8th March ever since.
-
-...
-
-[Data](articles/f5796947.json)
-
-[Extended Data](ext_articles/f5796947.ext.json)
-
----
-
-### Famine looms in Gaza as Biden, Trump play politics
-
-*2024-03-08 02:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Famine-looms-in-Gaza-as-Biden-Trump-play-politics/172-278457) · `en`
-
-Palestinians running toward parachutes attached to food parcels, airdropped from US aircraft on a beach in the Gaza Strip. AFP
-
-With a dangerous Donald Trump just one hurdle away from breasting the 2024 presidential tape after his sweeping victory at the Super Tuesday poll to pick the Republican Party candidate, the Palestinian people, if they are fortunate enough to survive Israel’s genocide, are likely to see a worse catastrophe than they are being inflicted now under his presidency.
-
-Hours after his Super Tuesday feat, in an interview with Fox News, Trump voiced explicit backing for Israel’s war on Gaza until “total victory”. When asked whether he was on board with the way Israel was “taking the fight to Gaza”, Trump responded, “You’ve got to finish the problem”. He expressed no concern over the civilian deaths. “You had a horrible invasion that took place that would have never happened if I was president,” he boasted.
-
-...
-
-[Data](articles/08d82480.json)
-
-[Extended Data](ext_articles/08d82480.ext.json)
-
----
-
-### Vipulananda Tamil Vidyalaya Seminar for Education Public Standards
-
-*2024-03-08 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178218) · `ta`
-
-Vipulananda Tamil Vidyalaya hosted a seminar on education standards, featuring Dr. Vinayagamoorthy as the chief guest and Van Pitha Pitha Pitha Pitha Sandru Fernando as the guest of honor. Dr. Janakan promised to fund school painting, and Dr. Vinayaka Murthy was honored.
-
-🟩
-
-The Principal of the school N.. Ravichandran led by Ravichandran.
-
-At the invitation of the Chancellor of the School, Dr. Vinayagamoorthy, the founder of the Jananam Foundation, Dr. Vinayagamoorthy, was the chief guest and the President of the All Ceylon Christian Development Union, Van Pitha Pitha Pitha Pitha Sandru Fernando was the guest of honor.
-
-At the same time, it is a special feature that Dr. Vinayagamoorthy Janakan was also gifted to hold a seminar for ordinary students to improve the education of the students.
-
-Speaking at the event, Dr. Janakan promised to donate funds for painting the entire school at the request of the Alumni Association of Vipulananda Tamil Vidyalaya in Colombo 09, Colombo 09.
-
-During the event, Dr. Vinayaka Murthy was given a monument to Janakan.
-
-◼️
-
-[Data](articles/38e06b9c.json)
-
-[Extended Data](ext_articles/38e06b9c.ext.json)
 
 ---

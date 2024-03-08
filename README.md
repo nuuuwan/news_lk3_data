@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 05:37:43**
+As of **2024-03-08 05:56:11**
 
 ## Newspaper Stats
 
-*Scraped **11,579** Articles*
+*Scraped **11,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,148 @@ bbccomsinhala | 135
 dbsjeyarajcom | 177
 newsfirstlk | 363
 economynextcom | 605
-dailyftlk | 606
+dailyftlk | 613
 islandlk | 613
 adalk | 983
 tamilmirrorlk | 1,404
 adaderanalk | 1,408
 virakesarilk | 1,595
-dailymirrorlk | 1,764
+dailymirrorlk | 1,766
 adaderanasinhalalk | 1,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,579 (100.0%) of 11,579 articles have been extended.
+11,579 (99.9%) of 11,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### NPP and bird cage economy
+
+*2024-03-08 05:51:38* · [`dailyftlk`](https://www.ft.lk/columns/NPP-and-bird-cage-economy/4-759286) · `en`
+
+NPP’s bird cage economy would be realistically grounded on a rejuvenated real
+
+It was Chen Yun, a theoretical economist and a Chinese Communist Party Politburo member from 1934 to 1987 who rejected Mao Zedong’s reliance on the revolutionary enthusiasm of masses to promote rapid economic growth, and propounded the theory of a bird cage economy characterised by a dominant plan and subordinate local markets. Yun stressed the importance of the market to improve agricultural production and productivity. And it was that model which was later picked up by Deng Xiaoping and put into practice.
+
+...
+
+[Data](articles/2b7c47bc.json)
+
+---
+
+### Economic concerns surrounding salary increases at Central Bank of Sri Lanka
+
+*2024-03-08 05:46:51* · [`dailyftlk`](https://www.ft.lk/columns/Economic-concerns-surrounding-salary-increases-at-Central-Bank-of-Sri-Lanka/4-759285) · `en`
+
+Reports of substantial salary hikes at the Central Bank of Sri Lanka (CBSL) raise concerns regarding the economic implications of these decisions. Led by Governor Dr. Nandalal Weerasinghe, the CBSL has defended these raises as lawful under the Central Bank Act, citing the need for competitive salaries to retain skilled personnel. However, several economic arguments suggest that these salary increases may not be in the best interest of economic stability in the nation.
+
+n The salary hikes at the CBSL could set a precedent for similar demands across the economy. Trade unions have already seized upon this case to press for wage increases for their members. As the public sector often sets the tone for wage-setting practices, the CBSL’s actions risk undermining its primary mission of maintaining price stability. Widespread wage increases could fuel inflationary pressures, ultimately eroding the purchasing power of consumers and destabilizing the economy.
+
+...
+
+[Data](articles/e799dd20.json)
+
+---
+
+### Expanding Ed-tech through partnerships and AI to improve quality education: Insights for Sri Lanka
+
+*2024-03-08 05:44:05* · [`dailyftlk`](https://www.ft.lk/columns/Expanding-Ed-tech-through-partnerships-and-AI-to-improve-quality-education-Insights-for-Sri-Lanka/4-759284) · `en`
+
+Use of technology in education has notably enhanced productivity and
+
+‘’Currently an assessment could be deployed in about 5 minutes, in class, student responses are instantaneous and so are the results (he doesn’t need to grade them separately). Traditional assessment usually takes 3-4 hours each’’ -- an assistant teacher at a Composite School in India who has been using Class Saathi, an Ed-tech initiative which is a Bluetooth clicker-based smart classroom solution that makes formative assessment easy and fast.
+
+...
+
+[Data](articles/984ce4dd.json)
+
+---
+
+### Electricity Act revision underway sends Bill for legal review: Kanchana
+
+*2024-03-08 05:36:53* · [`dailyftlk`](https://www.ft.lk/news/Electricity-Act-revision-underway-sends-Bill-for-legal-review-Kanchana/56-759282) · `en`
+
+Aims to present Bill to Parliament next month after Cabinet approval
+
+Expresses willingness to engage stakeholders in discussions to further reduce fuel prices via transparent pricing formula
+
+Heavy rainfall alleviates power generation challenges, partially offsetting 2022 loss of over Rs. 270 b
+
+Ministry aims to integrate Siambalanduwa project into national grid by second half of 2025, enhancing capacity by 100 MW at an affordable rate
+
+Several large-scale wind and solar projects in pipeline, with plans to release tender notice for a 50 MW in Mannar next week
+
+Power and Energy Minister Kanchana Wijesekera yesterday announced that the revised Electricity Act has been sent to the Legal Draftsman’s Department for review.
+
+Speaking to the media at the Presidential Media Centre (PMC) anticipates presenting it to Parliament for approval next month following Cabinet approval.
+
+He said the Gazette pertaining to the restructuring of the Ceylon Electricity Board (CEB) was published last December.
+
+...
+
+[Data](articles/69c91404.json)
+
+---
+
+### Commonwealth Enterprise and Investment Council Chie completes successful visit to SL
+
+*2024-03-08 05:33:07* · [`dailyftlk`](https://www.ft.lk/business/Commonwealth-Enterprise-and-Investment-Council-Chie-completes-successful-visit-to-SL/34-759281) · `en`
+
+From left : CWEIC Chairman Lord Marland and President Ranil Wickremesinghe
+
+From left :  State Minister of Investment Promotion Dilum Amunugama
+
+Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland concluded a successful 3-day visit to Sri Lanka as part of a larger trip to South and South East Asia. The visit presented a significant opportunity to foster further ties between the Government, business sector and the CWEIC.
+
+...
+
+[Data](articles/61f4ff60.json)
+
+---
+
+### Former female MPs felicitated in Parliament ahead of International Women’s Day 2024
+
+*2024-03-08 05:29:44* · [`dailyftlk`](https://www.ft.lk/news/Former-female-MPs-felicitated-in-Parliament-ahead-of-International-Women-s-Day-2024/56-759280) · `en`
+
+Parliament unveils special photo wall with photographs of all women MPs from 1931 to date
+
+Former female Parliame-ntarians were felicitated during a special felicitation program organised by Women Parliamentarians’ Caucus, held yesterday in Parliament ahead of the International Women’s Day 2024.
+
+The event was held under the patronage of Speaker Mahinda Yapa Abeywardena and several dignitaries including Prime Minister Dinesh Gunawardena, leader of the Opposition Sajith Premadasa, Chair of the Women Parliamentarians’ Caucus (Dr.) Sudarshini Fernandopulle, Acting Secretary General of Parliament Chaminda Kularatne participated in this event.
+
+The program was organised under the theme “Equity and equality for her”.
+
+...
+
+[Data](articles/cd5d57e7.json)
+
+---
+
+### Speaker reveals MPs appointed to Parliamentary committees
+
+*2024-03-08 05:28:27* · [`dailyftlk`](https://www.ft.lk/news/Speaker-reveals-MPs-appointed-to-Parliamentary-committees/56-759279) · `en`
+
+Speaker of the House Mahinda Yapa Abeywardana revealed the lists of members appointed to 36 committees for the fifth session of the ninth Parliament.
+
+The appointments were made in accordance with the motions approved by Parliament on 9 February.
+
+Ministerial Consultative Committee on Finance, Economic Stabilisation and National Policies
+
+Ministerial Consultative Committee on Women, Child Affairs and Social Empowerment
+
+Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms
+
+Ministerial Consultative Committee on Water Supply and Estate Infrastructure Development
+
+◼️
+
+[Data](articles/8f26acb9.json)
+
+---
 
 ### Firing in Canada: 6 Sri Lankans killed
 
@@ -133,6 +257,26 @@ He added that the influence of social networks among the worldwide has increased
 [Data](articles/4212c239.json)
 
 [Extended Data](ext_articles/4212c239.ext.json)
+
+---
+
+### How female change-makers are driving Sri Lanka’s energy saving platform
+
+*2024-03-08 01:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/How-female-change-makers-are-driving-Sri-Lankas-energy-saving-platform/131-278455) · `en`
+
+For centuries women have been at the forefront in managing energy in households. Here in the picture some women are seen installing a solar power system on the roof of a home
+
+With rising energy costs, there has been a growing interest in implementing energy saving measures
+
+Efforts have been made to develop a large waste material supply channel also known as RDF (Refuse Derived Fuel)
+
+It has been suggested to implement loan schemes and incentive schemes for renewable energy installations such as solar power
+
+Educating school teachers on energy conservation can lead to a brighter future with energy conservation
+
+...
+
+[Data](articles/5cca84eb.json)
 
 ---
 
@@ -2133,179 +2277,5 @@ The owner of a house in front of the police station was cleaning the land and bu
 [Data](articles/aceb4dfe.json)
 
 [Extended Data](ext_articles/aceb4dfe.ext.json)
-
----
-
-### IUSF convenor released on bail
-
-*2024-03-07 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97795/iusf-convenor-released-on-bail) · `en`
-
-The convenor of the Inter-University Students’ Federation (IUSF) Madushan Chandrajith and another student activist, who were arrested during a protest in Colombo yesterday, have been released on bail.
-
-They were ordered released on personal bonds of Rs. 500,000 each by the Colombo Magistrate’s Court when they were produced before the court today (07).
-
-The IUSF convenor and another student activist were arrested by police during the protest march staged by a large number of university students in Colombo yesterday, which was subsequently met with water cannons fired by the police.
-
-◼️
-
-[Data](articles/0ff08bec.json)
-
-[Extended Data](ext_articles/0ff08bec.ext.json)
-
----
-
-### President orders regarding homeless families in Kajimawatte
-
-*2024-03-07 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194252) · `si`
-
-President Ranil Wickremesinghe ordered immediate housing for homeless families in Kajimawatte, emphasizing adherence to government policies. He discussed the need for private investment and highlighted the challenges of implementing housing projects amid economic difficulties.
-
-🟩
-
-President Ranil Wickremesinghe instructed the relevant officials to provide immediate housing residents of the Colombo resident of Colombo.
-
-The President also informed the government to carry out these activities in accordance with the government policies and policies of the houses.
-
-President Ranil Wickremesinghe gave this advice participating at the discussion held at the Presidential Secretariat yesterday (06) at the Presidential Secretariat.
-
-The President also instructed the officials to look into the existing government buildings and lands in the Colombo Municipal area and look into the land for commercial purposes.
-
-The President also pointed out the importance of implementing the program by private investment through private sector intervention.
-
-...
-
-[Data](articles/d1050f74.json)
-
-[Extended Data](ext_articles/d1050f74.ext.json)
-
----
-
-### CEB to introduce instalment payments for new electricity connections
-
-*2024-03-07 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97794/ceb-to-introduce-instalment-payments-for-new-electricity-connections) · `en`
-
-Minister of Power & Energy Kanchana Wijesekera says the electricity consumers will be allowed to make the payments for their new connections on an instalment basis.
-
-Addressing the parliamentary session earlier today (March 07), the lawmaker said the consumers will be able to pay 25% of the connection fee upfront and the remaining amount within 10 or 12 instalments.
-
-The Ceylon Electricity Board (CEB) is currently working on introducing this facility to the consumers and its Board of Directors has also green-lighted the endeavour, Wijesekera said further.
-
-◼️
-
-[Data](articles/93f0091e.json)
-
-[Extended Data](ext_articles/93f0091e.ext.json)
-
----
-
-### A packet packet of powder is drowned
-
-*2024-03-07 15:22:53* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-පැකට්-එකක්-උගුරෙ-හිර-වෙලා--ජාවාරම්කරුවකු-මරුට/11-408479) · `si`
-
-Prabhat Abeywara, a Chilaw resident, died from respiratory disorders after being found with 5000 grams of heroin. A post-mortem was conducted by Chilaw Hospital. Two suspects were involved in drug trafficking and were pursued by police. One was killed, and the other was captured.
-
-🟩
-
-Chilaw Hospital, arilly conducted by Chilaw Hospital to the Chilaw Magistrate Shashitha De Silva on a post mortem to be treated at the Chilaw Hospital.
-
-Mr. Ilangaratne Bunga says that the death is a death due to the respiratory disorders, which have been imprisoned with a rational polythene covering.
-
-The deceased is Prabhat Abeywara, a resident of Chilaw, Ratnawna, Chilaw, Kegalle. According to police investigations, the patronage had 5000 grams of heroin.
-
-On the 6th of the June 6, a number of pre-arrangements were accused of a number of pre-LTTE and a person wanted to take a person in the Pambala area regarding the drug trafficking of drug trafficking in Chilaw.
-
-According to a tip off received by the police and the Chilaw division of the Chilaw divisional unit, the police team said that two persons in the back of the seat have fled the back of the three wheeler.
-
-...
-
-[Data](articles/eaa386cd.json)
-
-[Extended Data](ext_articles/eaa386cd.ext.json)
-
----
-
-### Attorney convener released on bail
-
-*2024-03-07 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194251) · `si`
-
-Madushan Chandrajith, Interview Students Federation convener, arrested by Student Students Federation, released on bail.
-
-🟩
-
-The convener of the Interview Students Federation Madushan Chandrajith has been released on basement.
-
-Convener of the Interview Student Federation Madushan Chandrajith was arrested by the convener of the Student Students Federation in Borella yesterday.
-
-Another person arrested in the protest was presented to the Aluthkade Magistrate's Court today on two bail of Rs.
-
-◼️
-
-[Data](articles/2c5a5182.json)
-
-[Extended Data](ext_articles/2c5a5182.ext.json)
-
----
-
-### The impact of the country by Bashil and Kota
-
-*2024-03-07 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178174) · `ta`
-
-The text discusses the impact of wild animals on agriculture and the political implications of the Rajapaksa family's actions. It highlights the economic consequences of elephant damage in Mandur and Vavuniya, criticizes the Rajapaksas for not addressing wildlife issues, and mentions the political maneuvers of Gotabhaya Rajapaksa and Bashil Rajapaksa. The TNA calls for a debate on the Rajapaksas' impact and criticizes the government's handling of the economy and the Tamil people's issues.
-
-🟩
-
-Gotabhaya Rajapaksa and Basil Rajapaksa should hold a postponement debate on the country's impact on the impact of wild animals. The ruling party has shamelessly visited Bashil Rajapakse, who was named as an economic assassinist. Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that Rajapakse family politics is dangerous to this country.
-
-He said this while addressing the adjournment debate on the damage to crops by wildlife in Parliament on Thursday (07).
-
-Agriculture, Livestock and Fisheries. Farmers are economically affected by the destruction of agricultural crops by wild elephants. Elephant infiltration has intensified in Mandur and Vavuniya in the Batticaloa district.
-
-The dealer, who refers to the chairman of the Batticaloa District Development Committee on the elephant -human conflict, speaks irresponsibly at the meeting, "Did you take the number of elephants, elephant officer and elephant problem?"
-
-...
-
-[Data](articles/69fac3e0.json)
-
-[Extended Data](ext_articles/69fac3e0.ext.json)
-
----
-
-### Sergeant arrested for helping beef
-
-*2024-03-07 15:20:47* · [`adalk`](https://www.ada.lk/breaking_news/හරක්-කටාට-පැන-යාමට-උදව්-කළයැ-සැරයන්-අත්අඩංගුවට/11-408478) · `si`
-
-A police sergeant, involved in organized crime and drug dealing, was arrested by the Terrorism Investigation Division. The suspect, from the Matara Division Criminal Investigation Division, was detained in Mandamagama North Keneagahawatta.
-
-🟩
-
-The Terrorism Investigation Division (TBA), police spokesman, said that a police sergeant who is an organized criminal and a drug dealer in detention detention detention department has been arrested by the Terrorism Investigation Division.
-
-The suspect is an officer attached to the Matara Division Criminal Investigation Division. The suspect was arrested at the residence in the Mandamagama North Keneagahawatta.
-
-The Terrorism Investigation Division is conducted by the Inspector General of Investigation by the Inspector General of Police and instructed by the IGP's orders and instructions on the help of a police constable.
-
-◼️
-
-[Data](articles/0d4bf14d.json)
-
-[Extended Data](ext_articles/0d4bf14d.ext.json)
-
----
-
-### Rohitha
-
-*2024-03-07 15:19:06* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-සභාපතිකම-රෝහිතට/11-408477) · `si`
-
-Mr. Rohitha Abeygunawardena, appointed Chairman of the Parliamentary Select Committee on Public Business, leads the COPE committee investigating government irregularities.
-
-🟩
-
-Mr. Rohitha Abeygunawardena has been appointed as the Chairman of the Parliamentary Select Committee of the Public Business. He has been appointed to the post with a majority of member MPs. The COPE committee is one of the main committees of a number of irregularities in government institutions.
-
-◼️
-
-[Data](articles/9cebe629.json)
-
-[Extended Data](ext_articles/9cebe629.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 00:48:09**
+As of **2024-03-09 01:02:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,761 (100.0%) of 11,766 articles have been extended.
+11,766 (100.0%) of 11,766 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,6 +82,8 @@ For instance, in spite of the battle between the executive on behalf of the two 
 
 [Data](articles/ac5e037e.json)
 
+[Extended Data](ext_articles/ac5e037e.ext.json)
+
 ---
 
 ### Harin Fernando is right Sri Lanka is part of civilizational India and should aspire to be part of economic India
@@ -98,6 +100,8 @@ How much of a window to India that Sri Lanka could now aspire to be is open to q
 
 [Data](articles/e134b3c6.json)
 
+[Extended Data](ext_articles/e134b3c6.ext.json)
+
 ---
 
 ### Can protesting undergrads think of a ‘new’ colour?
@@ -111,6 +115,8 @@ There are the pluses and minuses of such protests. Protests of this nature will 
 ...
 
 [Data](articles/e66a826b.json)
+
+[Extended Data](ext_articles/e66a826b.ext.json)
 
 ---
 
@@ -136,31 +142,43 @@ At the same time , Sri Lanka announced its participation in the Red Sea operatio
 
 ---
 
-### சுயம்பு லிங்கேஸ்வரர் சிவன் ஆலயத்தில் மஹா சிவராத்திரி பூசை நிகழ்வு
+### Maha Shivaratri Pooja event at Swayambu Lingeshwarar Shiva Temple
 
 *2024-03-08 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178296) · `ta`
 
-இந்து பௌத்த சங்கத்தின் ஏற்பாட்டில் கோமரன்கடவெல (குமரேசன் கடவை) காட்டுப் பகுதியில் உள்ள கி பி 9-13ம் நூற்றாண்டு காலத்திற்கு உரிய “சுயம்பு லிங்கேஸ்வரர் சிவன் ஆலயத்தில்  மஹா சிவராத்திரி பூசை நிகழ்வு வெள்ளிக்கிழமை (08) இடம்பெற்றது. இதன்போது சுயம்பு லிங்கத்திற்கான அபிஷேகம் மற்றும் பூசை நிகழ்வுகளும் இடம்பெற்றதோடு பொங்கல் நிகழ்வும் இடம்பெற்றது.
+Maha Shivaratri Pooja at Swayambu Lingeshwarar Shiva Temple, including anointing, pooja, and Pongal events.
+
+🟩
+
+The Maha Shivaratri Pooja event was held on Friday (08) at the Swayambu Lingeshwara Shiva Temple in the Komarangadawala (Kumarasan Kadavai) forest in the Komarangadawala (Kumarasan Kadavai) forest. The anointing and pooja events for the Swayambu Lingam were also held and the Pongal event was held.
 
 ◼️
 
 [Data](articles/0b461be5.json)
 
+[Extended Data](ext_articles/0b461be5.ext.json)
+
 ---
 
-### யாழ் - மன்னார் பிரதான வீதியில் திடீரென தீ பற்றிய மோட்டார் சைக்கிள் ; அதிர்ஷ்டவசமாக உயிர் தப்பிய இருவர்
+### A motorcycle on fire on Jaffna- Mannar main road;Fortunately two survivors
 
 *2024-03-08 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178295) · `ta`
 
-மன்னார் திருக்கேதீஸ்வரத்தில் சிவராத்திரியை அனுஷ்டிப்பதற்கு யாழ் - மன்னார் பிரதான வீதியூடாக மன்னார் திருக்கேதீஸ்வரம் ஆலயம் நோக்கி வெள்ளிக்கிழமை (08) மாலை இருவர் மோட்டார் சைக்கிளில் வந்து கொண்டிருந்த போது குறித்த மோட்டார் சைக்கிள் திடீரென தீப்பற்றியது.
+A motorcycle caught fire on Jaffna-Mannar main road near Mannar Thirukkadeeswaram temple during Shivaratri. Two men survived by jumping off.
 
-இதன் போது குறித்த மோட்டார் சைக்கிளில் பயணித்த இருவரும் மோட்டார் சைக்கிளில் இருந்து பாய்ந்து அதிர்ஷ்டவசமாக உயிர் தப்பினர்.
+🟩
 
-குறித்த சம்பவம் வெள்ளிக்கிழமை (8) மாலை யாழ் மன்னார் பிரதான வீதி பள்ளமடு வீதியில் இடம் பெற்றுள்ளது.
+The motorcycle suddenly caught fire on the Mannar Thirukkadeeswaram temple on Friday evening (08) through the Jaffna -Mannar main road to observe Shivaratri in Mannar.
+
+During this time, the two men who were traveling on the motorcycle jumped off the motorcycle and survived.
+
+The incident took place on Friday evening (8) at the Mannar Main Road, Jaffna.
 
 ◼️
 
 [Data](articles/295e8c9e.json)
+
+[Extended Data](ext_articles/295e8c9e.ext.json)
 
 ---
 

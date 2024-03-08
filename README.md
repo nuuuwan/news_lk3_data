@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 04:50:47**
+As of **2024-03-09 05:04:00**
 
 ## Newspaper Stats
 
-*Scraped **11,766** Articles*
+*Scraped **11,767** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 110
+colombotelegraphcom | 111
 bbccomsinhala | 139
 dbsjeyarajcom | 178
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,766 (100.0%) of 11,766 articles have been extended.
+11,766 (100.0%) of 11,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -241,6 +241,18 @@ He shared these views during the media briefing at the Presidential Media Centre
 [Data](articles/f321e283.json)
 
 [Extended Data](ext_articles/f321e283.ext.json)
+
+---
+
+### Oh! Gaza, Oh! Palestine
+
+*2024-03-08 22:38:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/oh-gaza-oh-palestine/) · `en`
+
+We are so immersed in our own national issues, so worried and angry about what is happening with a non-elected illicit regime hanging on to power like blood sucking leeches and robbing the country’s wealth that we do not hear and see the desperate cries coming from the rubble of bombed out and devastated Gaza. We are so immersed in our bankrupted country’s economic collapse, not knowing where our next meal comes from, not knowing where to get some medicine for our ill and the elderly or books and bus fare for our children to go to school that we do not hear and see the desperate cries coming from the rubble of bombed out and devastated Gaza. The death toll in Gaza is passing the mark of 30,000. So many children and women, so many elderly who could not run away from bombs in time have died, practically all of them civilians. This is genocide. This is extermination.
+
+...
+
+[Data](articles/d414470c.json)
 
 ---
 
@@ -2307,41 +2319,5 @@ The individuals interested in joining the discussion have been given the opportu
 [Data](articles/88479c82.json)
 
 [Extended Data](ext_articles/88479c82.ext.json)
-
----
-
-### The assassination of six Sri Lankans killed in Canada - what the suspect said in court
-
-*2024-03-08 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194287) · `si`
-
-A Sri Lankan youth, Frank de Zoysa, was arrested in Canada for the assassination of six family members, including five children. The suspect, who lived in the same house, was accused of using a sharp weapon. The incident is considered a rivalry murder, marking the worst in Ottawa's history.
-
-🟩
-
-The Sri Lankan youth, including five members, including five members of the largest family of five members of the land of Canada, has been produced in court.
-
-The suspect had little spoken very little and only before the back of the court, his name and birthplace were mentioned.
-
-Foreign media reports that the suspect has been accused of six murders and trying to kill murder.
-
-However, the cause of the Wickremesinghe family is yet to be reported yet.
-
-The court ordered the suspect not to speak to them.
-
-One of them is Dhanushka Wickremasinghe who was hospitalized and hospitalized.
-
-A Sri Lankan youth was arrested in Canada, a 19-year-old Frank de Zoysa, who was studying in Canada.
-
-Says Canada Police said that the victim is a sharp weapon.
-
-The youth is living in the same house with the accused.
-
-At the media, Ottawa Police Head of Ottawa Police, Eric Stubs said that there were two calls on Wednesday at 10.52 pm on the 911 emergency phone.
-
-...
-
-[Data](articles/f050be05.json)
-
-[Extended Data](ext_articles/f050be05.ext.json)
 
 ---

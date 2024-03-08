@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 23:17:54**
+As of **2024-03-08 23:33:32**
 
 ## Newspaper Stats
 
-*Scraped **11,756** Articles*
+*Scraped **11,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 617
 islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
-adaderanalk | 1,427
+adaderanalk | 1,428
 virakesarilk | 1,621
 dailymirrorlk | 1,795
 adaderanasinhalalk | 1,847
@@ -26,25 +26,47 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,753 (100.0%) of 11,756 articles have been extended.
+11,756 (100.0%) of 11,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### கீரிமலை நகுலேச்சர ஆலயத்தின் முத்தேர் இரதோற்சவம்
+### Sri Lanka to introduce gender budgeting, new laws on gender equality & women empowerment
+
+*2024-03-08 23:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97829/sri-lanka-to-introduce-gender-budgeting-new-laws-on-gender-equality-women-empowerment) · `en`
+
+President Ranil Wickremesinghe on Friday (March 08) unveiled plans to introduce two significant bills aimed at advancing gender equality and women empowerment, with both slated for presentation to Parliament in May.
+
+Addressing the National Celebration of International Women’s Day at the Water’s Edge, Battaramulla, the President outlined the key provisions of these legislative initiatives.
+
+Under the proposed Women’s Empowerment Act, the establishment of a separate commission is envisaged, he said further, adding that this commission’s primary objective will be to facilitate the advancement and empowerment of women by implementing mechanisms to protect their rights, all by constitutional provisions. President Wickremesinghe noted that the draft of this bill was published in the Gazette on Thursday (March 07), marking a significant step towards its realization.
+
+...
+
+[Data](articles/63fcfcb1.json)
+
+---
+
+### The Muther Radhoshavam of the Kirimalai Nakulachechara Temple
 
 *2024-03-08 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178293) · `ta`
 
-வரலாற்று சிறப்புமிக்க யாழ்ப்பாணம் கீரிமலை நகுலாம்பிகை சமேத நகுலேஸ்வரர் தேவஸ்தானத்தின் வருடாந்த மஹோற்சவத்தின் முத்தேர் இரதோற்சவம் இன்று வெள்ளிக்கிழமை (8) பக்திபூர்வமாக இடம்பெற்றது.
+The historic Jaffna Nakulambigai Samadha Nakuleswarar Devasthanam's Muther Radhosavam was held, featuring special Abhishekam in the sanctum sanctorum and Vasantha Mandapam. Therari offered blessings, attracting devotees from across the country.
 
-கருவறையில் வீற்றிருக்கும் விநாயகர், நகுலேஸ்வர் நகுலாம்பிகை, முருகன் வள்ளி, தெய்வானை ஆகிய தெய்வங்களுக்கு விஷேட, அபிஷேக இடம்பெற்று, வசந்த மண்டபத்தில் அருள்பாலிக்கும் எம்பெருமானுக்கு அலங்கார தீபராதனை இடம்பெற்று அலங்கரிக்கப்பட்ட மலர்தண்டிகையில் எம்பெருமான் வீற்றிருந்து உள்வீதியூடாக வலம் வந்தார். பின்னர் வெளிவீதியூடாக தேரேறி வலம் வந்து பக்தர்களுக்கு அருள்பாலித்தார்.
+🟩
 
-இதில் பல பகுதியில் வருகைதந்த பக்தர்கள் கலந்து கொண்டு இஷ்ட சித்திகளை பெற்றுச்சென்றதுடன் தமது நேர்த்திக்கடன்களை நிறைவேற்றிக் கொண்டனர்.
+The Muther Radhosavam of the historic Jaffna Nakulambigai Samadha Nakuleswarar Devasthanam was held on Friday (8).
+
+In the sanctum sanctorum, Nakuleshwar Nakulambigai, Murugan Valli and Deivanai were special, Abhishekam, and in the Vasantha Mandapam. Then, through the outskirts, Therari came to the pilgrimage and offered his blessings to the devotees.
+
+Devotees who visited many parts of the country participated in the event and obtained their exquisite.
 
 ◼️
 
 [Data](articles/b21ce10f.json)
+
+[Extended Data](ext_articles/b21ce10f.ext.json)
 
 ---
 
@@ -129,6 +151,8 @@ Hindu devotees are seen engaged in religious observances at a Hindu temple in Co
 ◼️
 
 [Data](articles/cd5b2b55.json)
+
+[Extended Data](ext_articles/cd5b2b55.ext.json)
 
 ---
 
@@ -810,23 +834,31 @@ To eliminate this gap, the Union was founded in Parliament at the request of the
 
 ---
 
-### பரந்துபட்ட அரசியல் கூட்டணியில் தேசிய மக்கள் சக்தியும் ஒன்றிணைய வேண்டும் - சுதந்திர மக்கள் சபை
+### The National People's Power should unite in the widespread political alliance - the Freedom People's Council
 
 *2024-03-08 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178255) · `ta`
 
-பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி தலைமையில் பரந்துபட்ட அரசியல் கூட்டணி எதிர்வரும் 15 ஆம் திகதி ஸ்தாபிக்கப்படும்.
+The National People's Power is uniting in the Freedom People's Council, a political alliance led by the United People's Power. Dylan Perera, a representative of the Independent People's Council, urged national unity in this coalition. Sri Lanka Peramuna's alliance with the United National Party could lead to less than 20 seats in the general election, prompting President Ranil Wickremesinghe to prioritize the United National Party. The PA's boycott is understood, and coalitions should only form when the truth is understood. The United People's Sabha-led coalition will be established on the 15th.
 
-தேசிய மக்கள் சக்தியினரும் இந்த அரசியல் கூட்டணியில் இணைந்துக் கொள்ள வேண்டும் என சுதந்திர மக்கள் சபையின் பிரதிநிதியும்,பாராளுமன்ற உறுப்பினருமான டிலான் பெரேரா தெரிவித்தார்.
+🟩
 
-கொழும்பில் உள்ள சுதந்திர மக்கள் சபை காரியாலயத்தில் வெள்ளிக்கிழமை (08) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+The broader political coalition headed by the main opposition United People's Power will be established on the 15th.
 
-ஐக்கிய தேசியக் கட்சியுடன் கூட்டணியமைப்பதற்கு அரசாங்கத்தில் அமைச்சு மற்றும் இராஜாங்க அமைச்சு பதவிகளை வகிப்பவர்கள் ஆர்வம் காட்டியுள்ள நிலையில் அமைச்சு பதவி இல்லாத பொதுஜன பெரமுனவின் உறுப்பினர்கள் அதற்கு எதிர்ப்பு தெரிவித்து வருகிறார்கள்.
+Dylan Perera, a representative of the Independent People's Council and a Member of Parliament, said the national people should join this political coalition.
 
-ஐக்கிய தேசியக் கட்சியுடன் கூட்டணியமைத்து பொதுத்தேர்தலில் போட்டியிட்டால் ஸ்ரீ லங்கா பெரமுனவுக்கு 20 இற்கும் குறைவான ஆசனங்களே கிடைக்கப் பெறும் அத்துடன் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஐக்கிய தேசியக் கட்சிக்கு முன்னுரிமை வழங்குவார்.
+He was speaking at a media briefing held at the Independent People's Council office in Colombo on Friday (08).
+
+Members of the Ministry of PA, which are not in the ministry, are opposed to the government and the Ministry of State for the Ministry of State and the Ministry of State for alliance with the United National Party.
+
+If Sri Lanka Peramuna will get less than 20 seats if he has allied with the United National Party and contests the general election, President Ranil Wickremesinghe will give priority to the United National Party.
+
+Most of the members of the PA have been able to understand the boycott of the PA, which has been well understood in the present state.
 
 ...
 
 [Data](articles/1edbc52c.json)
+
+[Extended Data](ext_articles/1edbc52c.ext.json)
 
 ---
 
@@ -2323,27 +2355,5 @@ Forty. We believe that those who cannot achieve anything by the struggles will j
 [Data](articles/6ceea042.json)
 
 [Extended Data](ext_articles/6ceea042.ext.json)
-
----
-
-### Fishing vessel is back missing
-
-*2024-03-08 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194284) · `si`
-
-A fishing vessel is missing in Kalpitiya, with three fishermen aged 21, 37, and 38 from Evtatoadaka. The Navy has been informed and is investigating.
-
-🟩
-
-The owner of the vessel has complained to the Kalpitiya Police stating that a fishing vessel in the sea for fisheries in Kalpitiya.
-
-Three fishermen of this vessel have traveled and residents of the Evtatoadaka area in the ages of 21, 37 and 38.
-
-The Navy has educated the Navy in this regard and investigations have commenced investigations.
-
-◼️
-
-[Data](articles/a9fc5ed6.json)
-
-[Extended Data](ext_articles/a9fc5ed6.ext.json)
 
 ---

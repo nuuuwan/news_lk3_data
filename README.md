@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 14:33:11**
+As of **2024-03-08 14:50:05**
 
 ## Newspaper Stats
 
-*Scraped **11,676** Articles*
+*Scraped **11,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,66 @@ adalk | 990
 tamilmirrorlk | 1,413
 adaderanalk | 1,418
 virakesarilk | 1,607
-dailymirrorlk | 1,779
-adaderanasinhalalk | 1,833
+dailymirrorlk | 1,780
+adaderanasinhalalk | 1,834
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,675 (100.0%) of 11,676 articles have been extended.
+11,676 (100.0%) of 11,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### මිල සුත්‍රය අක්‍රීය වී කිරිපිටි මිල පාලනය සමාගම් අතට
+### මත්ද්‍රව්‍ය සමග 23 හැවිරිදි කාන්තාවක් අත්අඩංගුවට
+
+*2024-03-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194292) · `si`
+
+පොලිස් විශේෂ කාර්ය බළකාය නැගෙනහිර පළාතේ සෝදිසි මෙහෙයුම්වලට අදාළව වාලච්චේන සෙම්මන්නෝඩේ ගම්මානයේදී මත්ද්‍රව්‍ය වැටලීමක් සිදුකර තිබේ.
+
+එහිදී අයිස් මත්ද්‍රව්‍ය සමග 23 හැවිරිදි කාන්තාවක් අත්අඩංගුවට ගෙන ඇත.
+
+පොලිස් විශේෂ කාර්ය බළකායේ වාලච්චේන කඳවුරේ අණදෙන නිලධාරි පොලිස් පරීක්ෂක කේ. ජී. එල්. කුමාර මහතාට ලැබී තිබූ තොරතුරකට අනුව වැටලීම සිදුකර තිබේ.
+
+ඒ අනුව අදාළ ගම්මානායේ නිවසක් පරීක්ෂා කිරීමේදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 53යි මිලිග්‍රෑම් 240ක්, කේරළ ගංජා ග්‍රෑම් 24යි මිලිග්‍රෑම් 30ක්,මත්පෙති 2,950ක් සහ මුදල් රුපියල් 86,000ක් නිලධාරීන් භාරයට ගෙන ඇත.
+
+පසුව අදාළ සැකකාරිය සහ මත්ද්‍රව්‍ය ඉදිරි පරීක්ෂණ කටයුතු සඳහා වාලච්චේන පොලීසියට භාරදී ඇත.
+
+◼️
+
+[Data](articles/898b81f5.json)
+
+---
+
+### Prices to disabled the price control of milk powder companies
 
 *2024-03-08 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194291) · `si`
 
-ආනයනික කිරිපිටි මිල තීරණය කිරීම සඳහා සකස් කරන ලද මිල සූත්‍රය 2019 වසරේ සිට ක්‍රියාත්මක නොවීම හේතුවෙන් ආනයනික සමාගම් අධික ලාභයක් ලබාගනිමින් කිරිපිටි අලෙවි කර ඇති බවට රජයේ මුදල් පිළිබඳ කාරක සභාවේදී අනාවරණ වුණි.
+The government's decision to reduce milk powder prices has been met with skepticism. Deputy Secretary A. K. Mr. Seneviratne defended the move, stating it was aimed at generating government income. However, an official from the Ministry of Trade, Commerce, and Food Protection denied any price reduction for milk powder. Harsha de Silva, a critic, claimed the price form from 2018 was never agreed upon and was extended yearly until 2019, when the Ministry of Finance stopped it. The Ministry of Trade brought a document to the Deputy Secretary, who could not approve it, leading to the price form's suspension in December 2019.
 
-භාණ්ඩගාර නියෝජ්‍ය ලේකම්, ඒ. කේ. සෙනවිරත්න මහතා මේ පිළිබඳව රජයේ මුදල් පිළිබඳ කාරක සභාවේ දී මෙලෙස අදහස් දැක්වීය.
+🟩
 
-"බද්ද අඩුකරාට මිල අඩු වෙලා නෑ. ඒ දේ ඇබ්සෝප් කරන්න සහ රජය විදියට අපිට යම් ආදායමක් ගැනීමේ අදහසින් තමා මේක කරලා තියෙන්නේ."
+The Pricing Form prepared to determine the price of imported milk
 
-"2023 ජනවාරි ගත්තොත් කිලෝ 1කට CIF වටිනාකම රු 1550ක් ඇවිත් තියෙනවා. පෙබරවාරි වෙද්දි රු 1,465කට අඩුවෙලා."
+Deputy Secretary, A. K. Mr. Seneviratne commented on the Government Finance of the Government.
 
-වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතා අමාත්‍යාංශයේ නිලධාරියෙක් - "කිරිපිටිවලට මිල සුත්‍රයක් නැහැනේ."
+"The tax reduced by the tax has not reduced. We have done this from the idea of obtaining it and to make some income as the government. "
 
-හර්ෂ ද සිල්වා - "මොකද නැත්තේ 2018 මමනේ මිල සුත්‍රය හැඳුවේ. වෙන ඒවා වගේ නෙමෙයි හැමෝම එකඟ වුණා ඒකට. කවදා ඉඳලද මිල සුත්‍රය අයින් කරේ."
+"If you get January 2023, the CIF value of Rs. 1550 has come. In the past February was reduced to Rs. "
 
-වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතා අමාත්‍යාංශයේ නිලධාරියෙක් - "මිල සුත්‍රයක් හැදුවත් භාණ්ඩාගාරයෙන් අනුමැතිය ලැබුණේ නැහැලු."
+An officer of the Ministry of Trade, Commerce and Food Protection - "will not be a price to milk powder."
+
+Harsha de Silva - "No matter what I don't have the 2018 price form. Not like it, everyone agreed to it. Ever away, when he removes the price. "
+
+An official of the Ministry of Trade, Commerce and Food Protection - "Prices were formulated but not approved by the Treasury."
 
 ...
 
 [Data](articles/b64ca528.json)
+
+[Extended Data](ext_articles/b64ca528.ext.json)
 
 ---
 
@@ -241,6 +267,18 @@ In 2006, Mahaha went to England and joined his father's family and shedding medi
 [Data](articles/dbf8410c.json)
 
 [Extended Data](ext_articles/dbf8410c.ext.json)
+
+---
+
+### Femina Women’s Expo 2024 at BMICH
+
+*2024-03-08 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Femina-Womens-Expo-2024-at-BMICH/110-278493) · `en`
+
+Femina Women’s Expo 2024, Sri Lanka’s largest women’s exhibition was launched today at the BMICH Colombo. It will be held till Sunday (10). This unique event is dedicated to honouring and celebrating Sri Lanka’s women and coincides with International Women’s Day 2024, which is marked worldwide on March 8. The Chief of Police in charge of the Child and Women Abuse Prevention Division, DIG Renuka Jayasundara participated in the event. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/6719cf9c.json)
 
 ---
 
@@ -2225,47 +2263,5 @@ Chief Stubbs called the incident a "real tragedy" that would continue to have a 
 [Data](articles/01b75ede.json)
 
 [Extended Data](ext_articles/01b75ede.ext.json)
-
----
-
-### Minister Kanchana says efforts underway to further alleviate fuel prices
-
-*2024-03-07 23:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97808/minister-kanchana-says-efforts-underway-to-further-alleviate-fuel-prices) · `en`
-
-Minister of Power and Energy, Kanchana Wijesekera, announced that the revised Electricity Act has been sent to the Legal Draftsman’s Department for review. He anticipates presenting it to Parliament for approval in April following Cabinet endorsement.
-
-Additionally, the minister expressed readiness to engage stakeholders to discuss reducing fuel prices further through a transparent pricing formula.
-
-These remarks were made during his participation in a press conference titled ‘Collective Path to a Stable Country’ held today (07) at the Presidential Media Centre.
-
-“Effective from midnight on March 5, 2024, electricity charges saw a significant reduction of 21.9%. Notably, consumers using less than 30 units will experience a remarkable 33% decrease in unit price, while those in the 31-60 unit category will witness a reduction of 28%. Moreover, bills for consumers utilizing 60-90 units will decrease by 30%, and for those consuming between 90 and 180 units, bills were lowered by 24%.
-
-...
-
-[Data](articles/ab2df36b.json)
-
-[Extended Data](ext_articles/ab2df36b.ext.json)
-
----
-
-### Six Sri Lankan family killed in Canada shot
-
-*2024-03-07 23:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194273) · `si`
-
-A Sri Lankan family in Canada was killed in a shooting. The mother died, children were killed, and the father was hospitalized with serious injuries. One suspect was arrested.
-
-🟩
-
-A family identified as Sri Lankans have been killed in a shooting in the capital of Canada, the capital of Canada.
-
-The mother of the family had died and children were killed and her father spent hospitalized in the hospital with serious injuries.
-
-The Ottawa Police said that one suspect was arrested on the crime.
-
-◼️
-
-[Data](articles/4cef2619.json)
-
-[Extended Data](ext_articles/4cef2619.ext.json)
 
 ---

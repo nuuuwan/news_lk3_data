@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 20:33:22**
+As of **2024-03-08 20:50:34**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 1,844
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,737 (100.0%) of 11,740 articles have been extended.
+11,740 (100.0%) of 11,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### දකුණේ සෙල්ලං දාන විදේශිකයෝ උකුස්සාට කොටු වූ හැටි
+### Foreigners were trapped in the south
 
 *2024-03-08 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194303) · `si`
 
-සංචාරක වීසා මත මෙරටට පැමිණ සිටින රුසියානු සහ යුක්‍රේන ජාතිකයන් ව්‍යාපාරවල නිරතවන බවට "අද දෙරණ" ඊයේ (07) අනාවරණ කළේය.
+Russians and Ukrainians in Sri Lanka on tourist visas are reportedly trapped in the south, facing issues with the local tourism industry. They've been spotted on social media and at guided locations, indicating conflicts with locals. Government intervention is sought.
 
-මේවන විට  විදෙස් සංචාරයකයින් වැඩි වශයෙන් මෙරටට පැමි‍ණෙමින් සිටින අතර එලෙස සංචාරක වීසාමත පැමිණෙන විදේශිකයින් නීතිවිරෝධී අයුරින් මෙරට තුළ සංචාරක කර්මාන්තයේ නිරත වන බවට දේශීය සංචාරක කර්මාන්තයේ නිරතවූවන් චෝදනා කරයි.
+🟩
 
-එම චෝදනා සම්බන්ධයෙන් සොයාබැලීමට "අද දෙරණ" උකුස්සා දකුණු පළාතේ ගවේෂණයක නිරත විය.
+Rharrana and Ukrainians who have come to Sri Lanka on tourist visa have revealed Ada Derana yesterday (07).
 
-එහිදී දැකගත හැකිවුණේ සමාජ මාධ්‍ය ගිණුම් මඟින් විවිධ සමූහ ගොඩ නඟාගනිමින් රුසියානුවන් හා යුක්‍රේන ජාතිකයන් සංචාරක කර්මාන්තයේ නිරත වන බවය.
+The local tourism industry alleges that foreign tourists are currently in Sri Lanka.
 
-දකුණු පළාතේ සංචාරක මර්මස්ථානවල සිදුකළ ගවේෂණයේදී චෝදනාව සනාථ කරන තවත් සාක්ෂි රැසක් උකුසු ඇසට හසුවිය.
+The Ada Derana was explored in the Southern Province.
 
-දිවයිනට පැමිණි සංචාරක යුවළක්, මෙරටට පැමිණ සිටින විදේශිකයෙකු විසින් සංචාරකයන් සඳහා මඟපෙන්වන ස්ථානයකට කැටුව යන අයුරු ද දැකගත හැකි විය.
+There he was seen that the Russians and Ukrainians are engaged in tourism in social media accounts.
 
-එමෙන්ම මේ විදේශකයෙකු විසින් වෙනත් විදේශ සංචාරකයෙකුගේ විදෙස් මුදල් ලබාගෙන ඔහුට රුපියල් ලබාදෙන ආකාරය ද එහිදී දැකගැනීමට ලැබුණි.
+Another number of evidence has been made to the eye at the search of exploration carried out in the Southern Province.
 
-...
+A tourist couple who arrived in the island have been found that a foreigner who has come to Sri Lanka to a guided place.
+
+It was also seen where a foreign tourist was able to get foreign tourists and offers him.
+
+Sri Lankans engaged in tourism are said that foreigners are in conflicts between local tourism industry.
+
+Ada Derana bearer today until Ada Derana has been involved in the intervention of government officials.
+
+◼️
 
 [Data](articles/1fbfbde4.json)
+
+[Extended Data](ext_articles/1fbfbde4.ext.json)
 
 ---
 
@@ -80,23 +90,33 @@ On Thursday, police said the family were newcomers to Canada from Sri Lanka.
 
 [Data](articles/215a284d.json)
 
+[Extended Data](ext_articles/215a284d.ext.json)
+
 ---
 
-### ජනපතිගෙන් අනුරට, සජිත්ට හා ශ්‍රීධරන්ට ආරාධනා
+### President invites Sajith and Sridharan
 
 *2024-03-08 20:09:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-අනුරට--සජිත්ට-හා-ශ්‍රීධරන්ට-ආරාධනා/11-408501) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනා පිළිබඳ එහි නියෝජිත කණ්ඩායම සමඟ සාකච්ඡා කිරීමට පාර්ලිමේන්තුව පිළිගත් විපක්ෂයේ පක්ෂ නායකයන් වෙත අවස්ථාව සලසා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පියවර ගෙන තිබේ.
+President Ranil Wickremesinghe invites Sajith Premadasa, Anura Kumara Dissanayake, and Sivagnaganam Sividharan to discuss IMF proposals. Hersha de Silva requests the President to facilitate discussions with the IMF. Key participants include State Ministers, Presidential Staff, and Economic State Institute Senior Advisors.
 
-ඒ අනුව එළැඹෙන සඳුදා (11) ජනාධිපති කාර්යාලයේ පැවැත්වෙන මෙම සාකච්ඡාව සඳහා විපක්ෂ නායක සජිත් ප්‍රේමදාස, අනුර කුමාර දිසානායක, දෙමළ ජාතික සන්ධානයේ නායක සිවඥානම් ශ්‍රීධරන් යන මහත්වරුන්ට ආරාධනා කර තිබෙන අතර ඔවුන් සමඟ කැමති ඕනෑම අයෙකුට ද සහභාගිවීමට අවස්ථාව සලසා දී ඇත.
+🟩
 
-තවද පාර්ලිමේන්තුවේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාට ද මේ සඳහා සහභාගීවන ලෙස දැනුම් දී තිබේ.
+President Ranil Wickremesinghe has taken steps to allow the party leaders who are recognized to discuss the International Monetary Fund's proposals.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩපිළිවෙළෙහි යෝජනා සම්බන්ධව එහි නියෝජිතයන් සමඟ සාකච්ඡා කිරීමට අවස්ථාව සළසා දෙන ලෙස පසුගියදා පාර්ලිමේන්තුවේ දී හර්ෂ ද සිල්වා මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙතින් ඉල්ලීමක් කර තිබු අතර, රට යළි ගොඩනැගීමට නම් ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන සාර්ථකව ඉදිරියට ගෙනයා යුතු බවත්, ඒ සඳහා සියලු පක්ෂවල සාමුහික වගවීම අවශ්‍ය බවත් ජනාධිපතිවරයාගේ ද ස්ථාවරයයි.
+Accordingly, Opposition Leader Sajith Premadasa, Anura Kumara Dissanayake, Leader of the TNA leader Sivagnaganam Sividharan has been invited to attend the leader Sivagneam Sirasharan.
 
-...
+The Chairman of the Committee of Parliament has also been informed to participate in this regard.
+
+Hersha de Silva has requested the President Ranil Wickremesinghe to provide the opportunity to discuss the opportunity to discuss the proposals with the International Monetary Fund.The President is the key to collective accountability in all parties.
+
+State Ministers Shehan Semasinghe, Presidential Staff Level Sanaganayake, Presidential Secretariat, Secretary to the Ministry of Finance, Sagan Ekanayake, Secretary to the Ministry of Finance. M. Mahinda Siriwardena and Economic State Institute Senior Advisor to Dr. R. H. S. Samaratunga will also participate.
+
+◼️
 
 [Data](articles/1fbd366e.json)
+
+[Extended Data](ext_articles/1fbd366e.ext.json)
 
 ---
 

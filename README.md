@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 11:52:10**
+As of **2024-03-08 12:02:54**
 
 ## Newspaper Stats
 
-*Scraped **11,653** Articles*
+*Scraped **11,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,51 +12,143 @@ colombotelegraphcom | 108
 bbccomsinhala | 136
 dbsjeyarajcom | 177
 newsfirstlk | 363
-economynextcom | 605
+economynextcom | 608
 dailyftlk | 617
 islandlk | 627
-adalk | 986
+adalk | 987
 tamilmirrorlk | 1,413
-adaderanalk | 1,416
-virakesarilk | 1,602
-dailymirrorlk | 1,774
+adaderanalk | 1,417
+virakesarilk | 1,604
+dailymirrorlk | 1,776
 adaderanasinhalalk | 1,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,652 (100.0%) of 11,653 articles have been extended.
+11,653 (99.9%) of 11,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### කැනඩාවේදී ශ්‍රී ලාංකිකයින් 6 දෙනෙක් ඝාතනය - සැකකරු අධිකරණයේදී කියූ දේ
+### President and Prime Minister’s messages for ‘Maha Shivaratri’
+
+*2024-03-08 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97816/president-and-prime-ministers-messages-for-maha-shivaratri) · `en`
+
+President Ranil Wickremesinghe, in his message for ‘Maha Shivaratri’ celebrated today (March 08), says it is imperative for everyone to collectively help advance the future of Sri Lanka, without ego and arrogance.
+
+Recalling the government’s commitment over the past two years to redeeming the country’s people affected by the unprecedented economic crisis, the Head of State said this effort is now on the verge of success, fulfilling hopes of prosperity.
+
+The President’s message for ‘Maha Shivaratri’ further read: “On this auspicious occasion of ‘Maha Shivaratri,’ Hindu devotees worldwide commemorate their devotion to Lord Shiva, seeking liberation for all living beings from suffering.
+
+“Moreover, Hindu devotees worldwide unite in this endeavour, aiming to spread wisdom that helps eradicate ego and arrogance from humanity.
+
+...
+
+[Data](articles/c6bb23c0.json)
+
+---
+
+### நேட்டோவில் உத்தியோகபூர்வமாக இணைந்தது சுவீடன்
+
+*2024-03-08 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178238) · `ta`
+
+நேட்டோ அமைப்பில் சுவீடன் நேற்றிரவு உத்தியோகபூர்வமாக இணைந்து  கொண்டது. நேட்டோவின் 32 ஆவது அங்கத்துவ நாடு சுவீடன் ஆகும்.
+
+நீண்டகாலம் அணிசேரா நாடாக விளங்கிய சுவீடன், உக்ரேன் மீதான ரஷ்யாவின் படையெடுப்பின் பின்னர், நேட்டோவில் இணைவதற்கு விண்ணப்பித்தது.
+
+பின்னர் இவ்விரு நாடுகளும் தமது சம்மத்தை தெரிவித்த நிலையில், நேட்டோவில் சுவீடன் இணைந்துகொண்டது.
+
+நேட்Nhவில்  சுவீடன் இணைந்ததை வரவேற்றுள்ள சுவீடன் பிரதமர் ஊல்வ் கிறிஸ்டேர்சன், இது சுதந்திரத்துக்கான ஒரு வெற்றி என கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/1f89040a.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்தின் உயர்மட்டக் குழுவுடன் கலந்துரையாட எதிர்க்கட்சிகளின் தலைவர்களுக்கு வாய்ப்பு
+
+*2024-03-08 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178237) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் குறித்து அதன் உயர்மட்டக் குழுவுடன் கலந்துரையாடுவதற்கான வாய்ப்பை ஏற்படுத்திக் கொடுக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+அதன்படி, பாராளுமன்றத்தில்  அங்கீகரிக்கப்பட்ட எதிர்க்கட்சிகளின் தலைவர்களுக்கு இந்த வாய்ப்பை ஏற்படுத்திக் கொடுப்பதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க, எதிர்வரும் திங்கட்கிழமை ஜனாதிபதி அலுவலகத்தில் கூட்டமொன்றுக்கு அழைப்பு விடுத்துள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e9e3f615.json)
+
+---
+
+### President convenes party leaders’ meeting to discuss IMF proposals
+
+*2024-03-08 11:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-convenes-party-leaders-meeting-to-discuss-IMF-proposals/108-278489) · `en`
+
+Colombo, March 8 (Daily Mirror)- President Ranil Wickremesinghe has convened a party leaders meeting on Monday to discuss the International Monetary Fund's proposals with its high level delegation, the President's Media Division (PMD) said.
+
+The meeting has offered a chance to accepted opposition party leaders in Parliament to discuss the International Monetary Fund's proposals with its high level delegation, the PMD added.
+
+◼️
+
+[Data](articles/5cc70f48.json)
+
+---
+
+### The assassination of six Sri Lankans killed in Canada - what the suspect said in court
 
 *2024-03-08 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194287) · `si`
 
-කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බැර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු නිවස තුළදීම සාහසික ලෙස ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ ශ්‍රී ලාංකික තරුණයා අධිකරණයට ඉදිරිපත්කර තිබේ.
+A Sri Lankan youth, Frank de Zoysa, was arrested in Canada for the assassination of six family members, including five children. The suspect, who lived in the same house, was accused of using a sharp weapon. The incident is considered a rivalry murder, marking the worst in Ottawa's history.
 
-එහිදී සැකකරු ඉතා අඩුවෙන් කථාකර ඇති අතර අධිකරණයේ නැවත වාඩි වීමට ප්‍රථම ඔහුගේ නම සහ උපන් ස්ථානය පමණක් සඳහන් කර තිබුණි.
+🟩
 
-විදෙස් මාධ්‍ය වාර්තා කළේ, මේ වනවිට සැකකරුට මිනීමැරුම් හයක් සහ මිනී මැරීමට උත්සාහ කිරීම යන චෝදනා එල්ල වී ඇති බවය.
+The Sri Lankan youth, including five members, including five members of the largest family of five members of the land of Canada, has been produced in court.
 
-කෙසේ වුව ද මෙම සැකකරු විසින් වික්‍රමසිංහ පවුල ඝාතනය කිරීමට හේතුව මෙතෙක් වාර්තා වී නැත.
+The suspect had little spoken very little and only before the back of the court, his name and birthplace were mentioned.
 
-පුද්ගලයින් 5 දෙනෙකු ගේ නම් සඳහන් කරමින් සැකකරුට අධිකරණය නියෝග කර ඇත්තේ ඔවුන්ට කථා නොකරන ලෙසය.
+Foreign media reports that the suspect has been accused of six murders and trying to kill murder.
 
-ඉන් එක් අයෙකු වන්නේ බරපතළ තුවාල ලබා රෝහල්ගත කර සිටින ධනුෂ්ක වික්‍රමසිංහ ය.
+However, the cause of the Wickremesinghe family is yet to be reported yet.
 
-ඝාතනය සම්බන්ධයෙන් කැනඩාවේ ඉගෙනුම ලබමින් සිටි 19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසා නම් ශ්‍රී ලාංකික තරුණයෙකු අත්අඩංගුවට ගැනුණි.
+The court ordered the suspect not to speak to them.
 
-කැනඩා පොලිසිය පවසන්නනේ, සාහසිකයා මෙම සමූහ ඝාතනය සඳහා යොදාගෙන ඇත්තේ, තියුණු ආයුධයක් බවය.
+One of them is Dhanushka Wickremasinghe who was hospitalized and hospitalized.
 
-චෝදනාවට ලක්ව සිටින තරුණයා ඝාතනයට ලක්වූ පවුල සමඟ එම නිවසේම ජීවත්ව සිටි බව සඳහන් ය.
+A Sri Lankan youth was arrested in Canada, a 19-year-old Frank de Zoysa, who was studying in Canada.
+
+Says Canada Police said that the victim is a sharp weapon.
+
+The youth is living in the same house with the accused.
+
+At the media, Ottawa Police Head of Ottawa Police, Eric Stubs said that there were two calls on Wednesday at 10.52 pm on the 911 emergency phone.
 
 ...
 
 [Data](articles/f050be05.json)
+
+[Extended Data](ext_articles/f050be05.ext.json)
+
+---
+
+### The US will construct a temporary port in Gaza: Bidan
+
+*2024-03-08 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178234) · `ta`
+
+US plans to build a temporary port in Gaza for humanitarian aid, with President Joe Biden urging Israel to increase expenses.
+
+🟩
+
+President Joe Biden has announced that the US will construct a port along the Gaza coast for distributing humanitarian aid products.
+
+President Baidan also said that Israel should allow Gaza to allow more and more expenses.
+
+◼️
+
+[Data](articles/e647a12c.json)
+
+[Extended Data](ext_articles/e647a12c.ext.json)
 
 ---
 
@@ -77,26 +169,6 @@ President Ranil Wickremesinghe has summoned a meeting at the Presidential Secret
 [Data](articles/bc4c52a8.json)
 
 [Extended Data](ext_articles/bc4c52a8.ext.json)
-
----
-
-### The US will construct a temporary port in Gaza: Bidan
-
-*2024-03-08 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178234) · `ta`
-
-US plans to build a temporary port in Gaza for humanitarian aid, with President Joe Biden urging Israel to increase expenses.
-
-🟩
-
-President Joe Biden has announced that the US will construct a port along the Gaza coast for distributing humanitarian aid products.
-
-President Baidan also said that Israel should allow Gaza to allow more and more expenses.
-
-◼️
-
-[Data](articles/e647a12c.json)
-
-[Extended Data](ext_articles/e647a12c.ext.json)
 
 ---
 
@@ -261,6 +333,26 @@ Police said the motorcycle traveling from Nuwara Eliya to Talawakelle and a lorr
 [Data](articles/3fe3b7ba.json)
 
 [Extended Data](ext_articles/3fe3b7ba.ext.json)
+
+---
+
+### Three tons of plastic bottles collected in Sri Pada within three months
+
+*2024-03-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-tons-of-plastic-bottles-collected-in-Sri-Pada-within-three-months/108-278472) · `en`
+
+Maskeliya, March 8 (Daily Mirror) - Three tons of plastic bottles discarded by pilgrims visiting Sri Pada have been collected within three months since the beginning of the Sri Pada season this year,Maskeliya Pradeshiya Sabha announced.
+
+Secretary of the maskeliya Pradeshiya Sabha S. Rajaweeran said garbage bins have been installed to dispose of plastic water bottles carried by pilgrims travelling along that route.
+
+He said, however, some pilgrims just throw plastic water bottles into the environment without putting them into garbage bins.
+
+The plastic water bottles discarded by Sri Pada pilgrims were taken to the garbage recycling center in Nallathanniya, from where it will be sold to the private sector, the secretary said.
+
+Meanwhile, the current extremely dry weather condition has caused a drinking water problem in the Nallathanniya area. Discussions are underway with the Water Supply Board to solve this issue, according to the secretary.
+
+◼️
+
+[Data](articles/4ff02f1b.json)
 
 ---
 
@@ -526,6 +618,30 @@ The police said that the suspect who entered a house where a national woman had 
 
 ---
 
+### Sri Lanka to call tenders for 50MW Mannar wind power plant
+
+*2024-03-08 09:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-call-tenders-for-50mw-mannar-wind-power-plant-153766/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to call tenders for a 50 MegaWatt wind plant in the North Eastern Mannar area, next week Energy Minister Kanchana Wijesekera said as investor interest increased amid economic stability.
+
+“A lot of investors are showing interest,” Minister Wijesekera told reporters Thursday. “Accordingly, we plan to call tenders for 10 wind and solar plants from local and foreign investors.”
+
+“Next week we plan to advertise tenders for a 50MW wind plant in Mannar.”
+
+Mannar is an area with a Ceylon Electricity Board wind plant with proven plant factor of around 45 percent which sharply reduces the costs per unit.
+
+Daily output sometimes gusts up to 60 percent according to some of the data in the public domain.
+
+Sri Lanka will also reach agreements with investors for other sites who have proposed prices between 26 and 30 rupees, Minister Wijesekera said.
+
+Bids for a 100MW renewable plant in Siyambalanduwa had come in at 8 US cents a unit, he said.
+
+...
+
+[Data](articles/b16be6e2.json)
+
+---
+
 ### Ramya Wanigasekara receives
 
 *2024-03-08 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194280) · `si`
@@ -543,6 +659,26 @@ She also served as a journalist and a radio news.
 [Data](articles/305cfbb7.json)
 
 [Extended Data](ext_articles/305cfbb7.ext.json)
+
+---
+
+### Euro Exim Bank, Fairfirst interested in Sri Lanka Insurance
+
+*2024-03-08 08:55:00* · [`economynextcom`](https://economynext.com/euro-exim-bank-fairfirst-interested-in-sri-lanka-insurance-153762/) · `en`
+
+ECONOMYNEXT – Five local and international investors have responded to a request for proposals to divest Sri Lanka Insurance, the island’s State Enterprises Restructuring Unit said.
+
+LIC (Lanka) Limited, Union Assurance PLC and Asiri Hospital Holdings PLC have responded to the sale of Sri Lanka Insurance Corporation Life Limited.
+
+Euro Exim Bank Limited, Fairfirst Insurance Limited, have submitted proposals to Sri Lanka Insurance Corporation General Limited.
+
+Sri Lanka Insurance was split ahead of the sale to keep to legal requirements which were not followed earlier.
+
+The proposals will be vetted under Special Guidelines on Divestiture of State-Owned Enterprises approved by cabinet. Alvarez and Marsal are advisors to the transaction. (Colombo/Mar08/2024)
+
+◼️
+
+[Data](articles/2e08294d.json)
 
 ---
 
@@ -817,6 +953,30 @@ The police said that the arrests and the proof of the proof and the Special Task
 [Data](articles/0d388d1d.json)
 
 [Extended Data](ext_articles/0d388d1d.ext.json)
+
+---
+
+### Sri Lanka negotiating power purchase price with India’s Adani: Minister
+
+*2024-03-08 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-negotiating-power-purchase-price-with-adani-minister-153735/) · `en`
+
+ECONOMYNEXT – Sri Lanka is still negotiating the power purchase price with India’s Adani group, Energy Minister Kanchana Wijesekera said, amid concerns about the government procurement without tender.
+
+Adani Group had proposed to sell a unit of wind power at 9.7 US cents per kiloWatt hour.
+
+That is about 30 to 31 Sri Lanka rupees at our exchange rates,” Minister Wijesekera said. “During the evaluation it has been reduced further to below 30 rupees. That price also we have not yet agreed, the evaluation is still ongoing.”
+
+The price will apply to plants in Mannar and Pooneryn which are coming as a single project.
+
+Minister Wijesekera told parliament a day earlier that a price of 27.65 rupees a unit (8.97 US cents) was being discussed.
+
+Minister Wijesekera said claims made that Adani had proposed to sell power at 50 rupees was not correct.
+
+There have been reports that Adani had proposed to sell power at 14 US cents or 50 rupees at an exchange rate of 360 rupees.
+
+...
+
+[Data](articles/c0f0128f.json)
 
 ---
 
@@ -2033,179 +2193,5 @@ A 17-year-old youth has been arrested in connection with the incident and the re
 [Data](articles/ec17d64c.json)
 
 [Extended Data](ext_articles/ec17d64c.ext.json)
-
----
-
-### New NATO MEMBER
-
-*2024-03-07 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194270) · `si`
-
-Sweden joins NATO as a member on March 7th.
-
-🟩
-
-It is reported that the NATO organization is the members of Sweden from March 7th.
-
-◼️
-
-[Data](articles/7e101b75.json)
-
-[Extended Data](ext_articles/7e101b75.ext.json)
-
----
-
-### “The number of buses in buses has declined”
-
-*2024-03-07 20:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களில்-சீண்டுவோர்-எண்ணிக்கை-குறைந்துவிட்டது/175-334356) · `ta`
-
-"Deputy Inspector General Nihal Dalduwa reports a decrease in sexual abuse complaints and crimes, now at 20 per day, with public cooperation."
-
-🟩
-
-Deputy Inspector General of Police Nihal Dalduwa said that the sexual abuse and complaints of children and girls in bus and public places are declining.
-
-The number of crimes has now been reduced to 20 people per day.
-
-He also said that the public is cooperating with the public to take action on sexual abuse of children and girls in public places.. Remble
-
-◼️
-
-[Data](articles/d98901d0.json)
-
-[Extended Data](ext_articles/d98901d0.ext.json)
-
----
-
-### Foreign foreigners engaged in tourism businesses
-
-*2024-03-07 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194269) · `si`
-
-Tourists, including Russians and Ukrainians, engage in businesses like housing, resorts, and currency exchange in Sri Lanka, impacting local small and medium-scale businesses. Protests have been launched against this practice, especially in the Unawatuna area of Galle.
-
-🟩
-
-It has been revealed that tourists to visit Sri Lanka are engaged in tourist visa.
-
-We have also looked into such businesses in the South Coast.
-
-Sri Lanka is a world leader tourist destination, including beautiful beaches, traditional food, historical heritage, wildlife, Ayurveda.
-
-The number of tourists coming to Sri Lanka has significantly increased this year.
-
-Some of the travelers come to Sri Lanka on tourist visas have already begun to do business during their vacation.
-
-Tourist zones such as large ranks, Galle, Unawatuna and Mirissa, in the South Coast, Galle, Unawatuna and Mirissa.
-
-The tourism industry points out that Russian and Ukrainians who are staying in those areas are illegally engaged in tourism.
-
-The eldest housing and resorts to other parties and resorts, foreign services, foreign currency exchange, motorcycle and three-wheelers and supply services.
-
-...
-
-[Data](articles/e7db02e9.json)
-
-[Extended Data](ext_articles/e7db02e9.ext.json)
-
----
-
-### Two suspects arrested with two million gajamuth
-
-*2024-03-07 20:21:08* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-දෙක-ගජමුතු-දෙකක්-සමඟ-දෙදෙනෙක්-අත්අඩංගුවට/11-408489) · `si`
-
-In Chilaw, two suspects, aged 31, arrested with two million gajamuth, linked to coastal centers and army intelligence. Further investigations underway.
-
-🟩
-
-In the Chilaw Division Criminal Criminal Criminal Criminal Criminal Investigations, two suspects have been arrested along with two coastal centers in the coast of the army intelligence.
-
-The suspects have been revealed in Kurunegala, Kurunegala residents of age and 31 years old. The Chilaw Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f7c02d72.json)
-
-[Extended Data](ext_articles/f7c02d72.ext.json)
-
----
-
-### Air pollution is increasing today
-
-*2024-03-07 20:12:02* · [`adalk`](https://www.ada.lk/breaking_news/අද-වායු-දූෂණය-වැඩි-වෙයි/11-408488) · `si`
-
-Air pollution in Sri Lanka is rising, with PM2.5 levels reaching 61-150 and SL Aqi between 51-100. Cities like Kandy and Colombo have seen significant increases, with Kandy's air quality index (AQI) at 47 and Colombo's at 41.
-
-🟩
-
-The National Building Research Organization (NBRO) says that some cities will be able to increase their air pollution today (08).
-
-At the time of the 24 hours ended at 08.00 am yesterday (07) at 08.00 am at 08.00 am, the Sri Lankan air travelers (PM2.5), the Sri Lanka's air travelers (SL Aqi), which is, 61-150It also pointed out that the value was valued.
-
-It is also mentioned that the Sri Lankan easeholder situation index (SL Aqi, 51-100) was held at other cities yesterday.
-
-The city was 47 estimated at the city of Kandy, but the city of Colombo yesterday that the city should be 41 at 41 charminal number last 41.(The same horn was 90 yesterday and the city of Vavuniya was 34, but the same horn yesterday was 68.
-
-Palvera of 40, but the same horn was 84, but the death of the chamber of Karapitiya yesterday, even though Matma was 38 of the deaths in Kandy.The National Building Research Organization states that the horror was 56, but the city of Badulla was 62 of the deaths of Badulla yesterday.
-
-◼️
-
-[Data](articles/60e914a4.json)
-
-[Extended Data](ext_articles/60e914a4.ext.json)
-
----
-
-### Sri Lankans rescued on the ship's ship
-
-*2024-03-07 20:08:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலுக்குள்ளான-கப்பலில்-இருந்த-இலங்கையர்கள்-மீட்பு/175-334355) · `ta`
-
-21 Sri Lankans, including injured, rescued by Indian Navy after Houthi missile attack. Two Sri Lankans among them, one injured. Rescue involved instructions, helicopters, and boats.
-
-🟩
-
-21 people, including injured, have been rescued after Houthi rebels fired missiles
-
-The Sri Lanka Navy spokesman said the rescue operation was carried out by the Indian Navy.
-
-It is also reported that two Sri Lankans include these rescued. One of them was injured, the Sri Lankan navy said.
-
-The Indian Navy has stated that the group has been rescued by instructions, helicopters and boats.. Remble
-
-◼️
-
-[Data](articles/3b4ad1d9.json)
-
-[Extended Data](ext_articles/3b4ad1d9.ext.json)
-
----
-
-### 'Press vs Prez' book launched...
-
-*2024-03-07 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Press-vs-Prez-book-launched/110-278433) · `en`
-
-The "Press Vs. Prez" book was officially launched at the Nelum Pokuna Theater in Colombo today (07) under the patronage of President Ranil Wickremesinghe. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/6cb77eac.json)
-
-[Extended Data](ext_articles/6cb77eac.ext.json)
-
----
-
-### Indian Warship rescues crew members from attacked ship in Gulf of Aden
-
-*2024-03-07 20:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Warship-rescues-crew-members-from-attacked-ship-in-Gulf-of-Aden/108-278434) · `en`
-
-March 07 - An Indian warship, INS Kolkata, swiftly responded to a distress call in the Gulf of Aden, rescuing 21 crew members from the cargo ship 'True Confidence' after it was targeted by a missile launched by Houthi rebels.
-
-Among those rescued were two Sri Lankans, one of whom sustained injuries during the attack, as reported by the Sri Lanka Navy Spokesman.
-
-The incident occurred on March 6th when the Barbados-flagged Bulk Carrier MV True Confidence came under attack by a drone or missile approximately 55 nautical miles southwest of Aden. The attack ignited a fire onboard and resulted in critical injuries to several crew members, though specific details about the injured Sri Lankan are yet to be disclosed. It remains unclear if there were additional Sri Lankan nationals among the ship's crew.
-
-...
-
-[Data](articles/30b24356.json)
-
-[Extended Data](ext_articles/30b24356.ext.json)
 
 ---

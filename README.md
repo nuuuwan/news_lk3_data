@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 21:17:55**
+As of **2024-03-08 21:33:20**
 
 ## Newspaper Stats
 
-*Scraped **11,742** Articles*
+*Scraped **11,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,426
-virakesarilk | 1,616
-dailymirrorlk | 1,789
+virakesarilk | 1,617
+dailymirrorlk | 1,792
 adaderanasinhalalk | 1,845
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,742 (100.0%) of 11,742 articles have been extended.
+11,742 (100.0%) of 11,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### வெடுக்குநாறி மலையில் பதற்றம் : பலர் கைது
+
+*2024-03-08 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178290) · `ta`
+
+வெடுக்குநாறி மலையில் சிவராத்திரி பூஜை வழிபாடுகள் இன்று வெள்ளிக்கிழமை (08) மாலைவேளையில் நடைபெற்றுகொண்டிருந்த போது சற்று பதற்றநிலை அதிகரித்தது. இதனால் பலர் கைதுசெய்யப்பட்டுள்ளதுடன் தாக்குதல் சம்பவமும் இடம்பெற்றுள்ளது.
+
+வெடுக்குநாறி மலையில் சிவராத்திரி பூஜை வழிபாடுகள் நடைபெற்றுகொண்டிருந்த போது பொலிஸார் மாலை ஆறுமணியுடன் அனைத்து வழிபாடுகளையும் முடிவுக்கு கொண்டுவருமாறு தெரிவித்திருந்தனர்.
+
+இதேவேளை நாடாளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் மற்றும் வேலன் சுவாமிகள் உள்ளி்ட்ட பலர் கைதுசெய்யப்பட்டிருந்ததுடன் வழிபாடுகளில் கலந்துகொண்ட பெண்களையும் அவ்விடத்திலிருந்து அப்புறப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0216c02a.json)
+
+---
 
 ### Insight into custody policemen who saved many elite lives
 
@@ -69,6 +85,26 @@ Due to this, buses and other heavy vehicles traveling from Galle to Colombo have
 [Data](articles/3ed6273e.json)
 
 [Extended Data](ext_articles/3ed6273e.ext.json)
+
+---
+
+### Sri Lanka face Bangladesh in T20I series decider
+
+*2024-03-08 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-face-Bangladesh-in-T20I-series-decider/108-278502) · `en`
+
+Mar. 9 (AFP) - Sri Lanka takes on Bangladesh in the third and last game of the three-match Twenty20 International (T20I) series at the Sylhet International Cricket Stadium in Sylhet tomorrow.
+
+The series is locked at 1-1 at this moment. Sri Lanka edged Bangladesh past by three wickets following a thrilling contest in the first match while the hosts took sweet revenge in the second game, thrashing the visitors by eights in comprehensive fashion.
+
+Overall Bangladesh won five and lost 10 in the 15 matches between the two sides in this format.
+
+A series victory for either side will be a huge booster ahead of the ICC T20I World Cup to be held in the United States of America (USA) and the West Indies.
+
+After losing the first match, Bangladesh played a near perfect game in the second game with Captain Najmul Hossain Shanto leading from the front.
+
+...
+
+[Data](articles/d2fd2a13.json)
 
 ---
 
@@ -1832,6 +1868,24 @@ The individuals interested in joining the discussion have been given the opportu
 
 ---
 
+### President convenes party leaders’ meeting to discuss IMF proposals
+
+*2024-03-08 11:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-convenes-party-leaders-meeting-to-discuss-IMF-proposals/155-278489) · `en`
+
+Colombo, March 8 (Daily Mirror)- President Ranil Wickremesinghe has convened a party leaders meeting on Monday to discuss the International Monetary Fund's proposals with its high level delegation, the President's Media Division (PMD) said.
+
+The meeting has offered a chance to accepted opposition party leaders in Parliament to discuss the International Monetary Fund's proposals with its high level delegation, the PMD added.
+
+Leader of the Opposition Sajith Premadasa, leader of the National People's Power (NPP) Anura Kumara Dissanayake and Tamil National Alliance (TNA) leader Sivagnanam Sridharan have been invited to participate in these discussions.
+
+The individuals interested in joining the discussion have been given the opportunity to participate alongside the invited leaders, the PMD said.
+
+◼️
+
+[Data](articles/88479c82.json)
+
+---
+
 ### The assassination of six Sri Lankans killed in Canada - what the suspect said in court
 
 *2024-03-08 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194287) · `si`
@@ -2309,75 +2363,5 @@ We are urging the government to take appropriate action against the Nedungeni Po
 [Data](articles/f2f99a2b.json)
 
 [Extended Data](ext_articles/f2f99a2b.ext.json)
-
----
-
-### An elephant hospital for the first time in the island
-
-*2024-03-08 09:36:58* · [`adalk`](https://www.ada.lk/picture_story/දිවයිනේ-ප්‍රථම-වතාවට-අලි-රෝහලක්/10-408490) · `si`
-
-The Tame Elephants Association has opened the island's first private elephant hospital, focusing on treatment and breeding. Maharagama S. N. Tama Elephant Association's Roshan is leading this initiative, aiming to improve elephant care and breeding.
-
-🟩
-
-Members of the Tame Elephants Association have been opened to open a private hospital with the first time in the island and a private hospital with a private hospital with tame elephants.
-
-The headship has been taken by the Maharagama S.. N. Tama Elephant Association says that according to the concept of Roshan
-
-The Sitha was taken to this hospital in Habarana to shoot at Mahiyanganaya and recovered from the Habarana.
-
-It is noteworthy that a Shraid of Raja to bring about their first natural collection process with the opening of the breeding center.
-
-In addition to treatment of the tame elephants, traditional elephant, Roshan, he is also happy to train the elephants who are being used in the island that they are able to start this place for the first time in the country.
-
-...
-
-[Data](articles/f5c46f39.json)
-
-[Extended Data](ext_articles/f5c46f39.ext.json)
-
----
-
-### Suspect dies after drug polythene of drugs
-
-*2024-03-08 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194282) · `si`
-
-A suspect, identified after hospitalization, died from drug overdose. A post mortem at Chilaw Hospital was conducted and reported by the hospital's Specialist Judicial Court Officer.
-
-🟩
-
-The suspect, who had fled the floor, has been identified after hospitalization.
-
-The post mortem was conducted at the Chilaw Hospital yesterday.
-
-The post mortem report has been issued by the Chilaw Hospital Specialist Judicial Court (S) Extestant Extetent Court Officer of the Chilaw Hospital.
-
-◼️
-
-[Data](articles/58918937.json)
-
-[Extended Data](ext_articles/58918937.ext.json)
-
----
-
-### Gaza ceasefire talks show no sign of progress, US says onus on Hamas
-
-*2024-03-08 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97812/gaza-ceasefire-talks-show-no-sign-of-progress-us-says-onus-on-hamas) · `en`
-
-Hamas on Thursday left Gaza ceasefire talks in Cairo where there was no sign of progress just days before the start of Ramadan, while the U.S. said the onus was on the Palestinian militant group to strike a deal on Israeli hostages.
-
-Israel and Hamas blamed each other for the lack of agreement after four days of talks mediated by Qatar and Egypt about a 40-day ceasefire amid fears violence could escalate during the Muslim fasting month.
-
-Egyptian security sources said talks, taking place without an Israeli delegation in Cairo, would resume on Sunday, the expected start of Ramadan.
-
-Senior U.S. administration officials said the onus was on Hamas to complete a hostage deal and attributed the delay to what they described as Hamas so far not agreeing to release sick and elderly hostages.
-
-A Hamas official told Reuters the United States was in partnership with Israel and that such comments were misleading. Hamas has insisted that a ceasefire deal include a process toward ending the war altogether.
-
-...
-
-[Data](articles/bd8c9f11.json)
-
-[Extended Data](ext_articles/bd8c9f11.ext.json)
 
 ---

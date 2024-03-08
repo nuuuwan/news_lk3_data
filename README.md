@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 08:17:51**
+As of **2024-03-08 08:33:24**
 
 ## Newspaper Stats
 
-*Scraped **11,620** Articles*
+*Scraped **11,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 economynextcom | 605
 dailyftlk | 617
 islandlk | 627
-adalk | 983
+adalk | 984
 adaderanalk | 1,410
 tamilmirrorlk | 1,411
 virakesarilk | 1,595
-dailymirrorlk | 1,768
+dailymirrorlk | 1,770
 adaderanasinhalalk | 1,821
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,620 (100.0%) of 11,620 articles have been extended.
+11,620 (100.0%) of 11,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Six Sri Lankans knifed to death in Ottawa; 19-year old arrested
+
+*2024-03-08 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Six-Sri-Lankans-knifed-to-death-in-Ottawa-19-year-old-arrested/155-278463) · `en`
+
+The Ottawa Police Service Homicide Unit  in Canada arrested a 19-years-old Sri Lankan student who was involved in last night’s homicide where six including five members of a Sri Lankan family were killed.
+
+According to the immediate release issued by the Ottawa police, the Ottawa Police Service Homicide Unit has charged a man in relation to the homicides on Berrigan Drive that left six persons dead and one injured.
+
+Febrio De-Zoysa, 19-years-old, has been charged with six counts of first-degree murder and one count of attempted murder.
+
+He is a Sri Lankan national who is believed to be in Canada as a student.
+
+Police have identified the victims of last night’s homicide as Darshani Banbaranayake Gama Walwwe Darshani Dilanthika Ekanyake (female) 35-years-old. Her husband was also injured and is in hospital in a stable condition.
+
+...
+
+[Data](articles/f05b4180.json)
+
+---
+
+### Sri Lanka sees uptick in HIV/AIDS cases in 2023
+
+*2024-03-08 07:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-sees-uptick-in-HIVAIDS-cases-in-2023/108-278437) · `en`
+
+Colombo, March 08 (Daily Mirror) -  Sri Lanka has experienced a significant surge in HIV/AIDS cases in 2023 recording close to 700 cases.
+
+According to the National STD/AIDS Control Programme, Sri Lanka has logged 694 cases reflecting a 13 per cent increase compared to the year 2022, which saw 607 cases.
+
+Out of the cases reported in 2023, 91 males and five females fall within the age range of 15-24, while the remaining cases are individuals above 25 years old.
+
+The male-to-female ratio of reported HIV cases in 2023 stands at 7.5:1
+
+The fourth quarter (October-December) marked the highest number of cases (209) reported in a single quarter since 2009.
+
+Furthermore, 2023 has reported 59 deaths related to HIV/AIDS while Sri Lanka has conducted 1,068,309 HIV tests in 2023.
+
+Meanwhile, Sri Lanka has officially reported 11 HIV cases among the transgender community, while a total of 4,706 males and 1,472 females have contracted HIV thus far since 2009.
+
+...
+
+[Data](articles/a817915b.json)
+
+---
 
 ### The Maha Sivi Night Day today
 
@@ -1524,6 +1568,22 @@ According to a complaint lodged by an Indian embassy, a police officer said that
 
 ---
 
+### කෝපා නව සභාපති ලසන්ත අලගියවන්න
+
+*2024-03-07 19:44:21* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-නව-සභාපති-ලසන්ත-අලගියවන්න/11-408487) · `si`
+
+පාර්ලිමේන්තුවේ රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (කෝපා කමිටුවේ) නව සභාපතිවරයා ලෙස රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා ආණ්ඩු පක්ෂය සහ විපක්ෂය නියෝජනය කරන සාමාජික මන්ත්‍රීරවරුන්ගේ යෝජනා ස්ථිරත්වයෙන් ඒකමතිකව පත් කරගන්නා ලදි. ඒ නවවැනි පාර්ලිමේන්තුවේ පස් වැනි සභාවාරය සඳහා රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ පළමු රැස්වීම අද (07) පැවති අවස්ථවේදීය.
+
+එහිදි රාජ්‍ය අමාත්‍ය  ලසන්ත අලගියවන්න මහතාගේ  නම පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා විසින් යෝජනා කළ අතර පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීතරන් මහතා විසින් ස්ථිර කරන ලදී.
+
+මෙහිදී නව සභාපතිවරයා විසින්  කමිටුවේ ඉදිරි කටයුතු පිළිබඳව පැමිණ සිටි සාමාජික මන්ත්‍රීවරුන් සමග සාකච්ඡා කළ අතර මෙම ඉදිරි කටයුතු සාර්ථක කර ගැනීම සඳහා  කමිටු සාමාජිකයන් සියළුදෙනාගේම සහය අපේක්ෂා කරන බවත් පැවසීය.
+
+...
+
+[Data](articles/0ddef97f.json)
+
+---
+
 ### Rohitha Abeygunawardhane attempted to assault me: Rasamanickam
 
 *2024-03-07 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardhane-attempted-to-assault-me-Rasamanickam/108-278435) · `en`
@@ -2157,75 +2217,5 @@ A bond maturing on 01.07.2032 closed at 12.60/13.00 percent up from 12.50/13.00 
 [Data](articles/40cb189b.json)
 
 [Extended Data](ext_articles/40cb189b.ext.json)
-
----
-
-### More petitions against Deshabandu's appointment
-
-*2024-03-07 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194261) · `si`
-
-Deshabandu Tennakoon, acting IGP, faces two petitions challenging his appointment. Niroshan Padukka and Prof. Savitri Gunasekera filed them, arguing the Constitutional Council failed to follow proper procedures. The Attorney General and Inspector General of Constitution are respondents.
-
-🟩
-
-Deshabandu Tennakoon, acting as acting IGP, has submitted two fundamental rights petitions on the Supreme Court demanding an IGP.
-
-Niroshan Padukka of the Samagi Podayakka presented a petition and Prof. Savitri Gunasekera has filed another petition.
-
-The Attorney General and Inspector General of Constitution, the Attorney General and Inspector General of Constitution has been named as respondents.
-
-The petitioners claim that the Constitutional Council has not received the proper entity of the Constitutional Council to appoint Deshabandu Tennakoon as IGP.
-
-◼️
-
-[Data](articles/76699886.json)
-
-[Extended Data](ext_articles/76699886.ext.json)
-
----
-
-### The President has to provide fast houses to all the homeless families living in Ghajimawatha
-
-*2024-03-07 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178187) · `ta`
-
-President Ranil Wickremesinghe directs authorities to provide houses for homeless families in Gajimawatte, Colombo, following a discussion on housing issues. He emphasizes adherence to government policies, exploration of unused government properties for development, and the importance of private investment.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the relevant authorities to carry out the necessary tasks to provide houses to all the homeless families living in Gajimawatte, Colombo.
-
-The President also announced that the work should be carried out in accordance with the policies and criteria of the government.
-
-President Ranil Wickremesinghe gave these instructions during a discussion held at the Presidential Office on Wednesday afternoon on the Gazihavam Housing issue in Colombo.
-
-The President also directed the authorities to investigate the government -owned, unused buildings and land within the Colombo Municipal area and focus on the possibility of developing and providing trade operations.
-
-The President also pointed out the importance of implementing this program through private investments with the intervention of the state sector.
-
-...
-
-[Data](articles/d17c383c.json)
-
-[Extended Data](ext_articles/d17c383c.ext.json)
-
----
-
-### Petition filed against Sri Lanka-Thailand FTA
-
-*2024-03-07 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97800/petition-filed-against-sri-lanka-thailand-fta) · `en`
-
-A fundamental rights (FR) petition has been filed before the Supreme Court challenging the Sri Lanka-Thailand Free Trade Agreement (SLTFTA).
-
-The petitioners have requested the Supreme Court to deliver an order preventing the implementation of the trade deal.
-
-A total of 27 individuals including the Attorney General (on behalf of the President), the Prime Minister, the Cabinet Ministers, Secretary to the Finance Ministry and Secretary to the Trade Ministry have been named as respondents of this petition.
-
-During the visit of Thai Prime Minister Srettha Thavisin and his delegation of business dignitaries in February, Sri Lanka inked the historic trade agreement with Thailand in a bid to boost market opportunities, with negotiations covering various aspects such as trade in goods, investment, customs procedure, and intellectual property rights.
-
-...
-
-[Data](articles/2d2a9b9a.json)
-
-[Extended Data](ext_articles/2d2a9b9a.ext.json)
 
 ---

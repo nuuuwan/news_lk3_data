@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 18:33:21**
+As of **2024-03-08 18:51:06**
 
 ## Newspaper Stats
 
-*Scraped **11,723** Articles*
+*Scraped **11,730** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 109
+colombotelegraphcom | 110
 bbccomsinhala | 138
 dbsjeyarajcom | 178
 newsfirstlk | 363
@@ -16,69 +16,175 @@ economynextcom | 616
 dailyftlk | 617
 islandlk | 627
 adalk | 995
-tamilmirrorlk | 1,415
-adaderanalk | 1,423
+tamilmirrorlk | 1,418
+adaderanalk | 1,424
 virakesarilk | 1,615
-dailymirrorlk | 1,786
-adaderanasinhalalk | 1,841
+dailymirrorlk | 1,787
+adaderanasinhalalk | 1,842
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,714 (99.9%) of 11,723 articles have been extended.
+11,723 (99.9%) of 11,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### 92 හැවිරිදි රූපට් මර්ඩොක් 6 වන වරටත් විවාහ ගිවිස ගනී
+### வெள்ளவத்தையில் பெரிய துளை
+
+*2024-03-08 18:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-பெரிய-துளை/175-334390) · `ta`
+
+காலி வீதி வெள்ளவத்தை டபிள்யூ.ஏ. சில்வா மாவத்தைக்கு அருகாமையில் உள்ள சந்தியில் காலி நோக்கி செல்லும் பாதையின் ஒரு பகுதி மூடப்பட்டுள்ளது.
+
+சுமார் 4 அடி விட்டம் கொண்ட பெரிய துளை ஏற்பட்டுள்ளதாக பொலிஸார்   தெரிவித்துள்ளனர்.
+
+இதன் காரணமாக காலியிலிருந்து கொழும்பு நோக்கிச் செல்லும் பஸ்கள் மற்றும் ஏனைய கனரக வாகனங்கள் கரையோர மார்க்கமாக கொழும்பு நோக்கிச் செல்ல அனுமதிக்கப்பட்டன.
+
+◼️
+
+[Data](articles/175287fa.json)
+
+---
+
+### රන් මිලේ වාර්තාගත ‍වෙනසක්
+
+*2024-03-08 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194301) · `si`
+
+කැරට් 24 රන් අවුන්සයක් සඳහා ඉතිහාසයේ මෙතෙක් සටහන් වූ ඉහළම මිල විදියට අමෙරිකානු ඩොලර් 2,170යි ශත 99ක් වාර්තා වී ඇත.
+
+◼️
+
+[Data](articles/eeec91e1.json)
+
+---
+
+### கூடுக்குள் குட்டி சிறுத்தை :  தொழிலாளிக்கு  கூண்டு
+
+*2024-03-08 18:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கூடுக்குள்-குட்டி-சிறுத்தை-தொழிலாளிக்கு-கூண்டு/76-334389) · `ta`
+
+தலவாக்கலை பொலிஸ் பிரிவுக்கு உட்பட்ட கட்டுகலை தோட்டத்தில் சிறுத்தை குட்டி ஒன்று உயிரிழந்த நிலையில் மீட்கப்பட்டுள்ளது.
+
+இந்த சிறுத்தை குட்டி உயிரிழந்தமைக்கு காரணமானவர் என்ற சந்தேகத்தின் பேரில் தொழிலாளி ஒருவரை தலவாக்கலை பொலிஸார் வெள்ளிக்கிழமை (08) பகல் கைது செய்தனர்.
+
+இவ்வாறு சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட தொழிலாளியை நுவரெலியா மாவட்ட நீதவான் நீதிமன்றத்தில் பொலிஸார் ஆஜர்படுத்தினர்.
+
+சந்தேக நபரை இம்மாதம் 12ஆம் திகதி  செவ்வாய் கிழமை வரை விளக்கமறியலில் வைக்க  நுவரெலியா மாவட்ட நீதவான் பிரபுதிகா லங்கான்தினி உத்தரவு பிறப்பித்துள்ளார்.
+
+தலவாக்கலை, கட்டுக்கலை தோட்டப்பிரிவில் சிறுத்தைகள் இருப்பதாகவும் இவைகள் இரவு நேரங்களில் மக்கள் குடியிருப்பு பகுதிகளுக்கு வந்து செல்வதாக பலமுறை சொல்லப்பட்டு வந்தது.
+
+இந்த நிலையில் இந்த தோட்டத் தொழிலாளி   கூடு ஒன்றை அமைத்து வீட்டுக்கு வெளியில் வைத்துள்ளார்.
+
+இந்த கூட்டுக்குள் (07.03.2024) இரவு வேளையில் சிறுத்தை குட்டி ஒன்று   சிக்கி கொண்டுள்ளது.
+
+...
+
+[Data](articles/6314f474.json)
+
+---
+
+### President underscores govt’s commitment to amplify women’s role in sustainable development
+
+*2024-03-08 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97825/president-underscores-govts-commitment-to-amplify-womens-role-in-sustainable-development) · `en`
+
+President Ranil Wickremesinghe, in his message for International Women’s Day, asserted that the government is actively engaged in amplifying the role of women in propelling sustainable development.
+
+He emphasized that special focus is directed towards empowering women entrepreneurs in fast-growing sectors such as digital and green economies.
+
+Stressing that the government’s commitment to Women’s Day extends beyond mere symbolism,  Wickremesinghe pointed out that multiple initiatives have been taken in this regard, such as the formulation of new policies and regulations, including a national gender policy designed to combat discrimination against women.
+
+To this end, he said the establishment of the National Commission for Women marks a significant milestone, accompanied by the drafting of legislation dedicated to promoting gender equality and women’s empowerment.
+
+...
+
+[Data](articles/0dd26be5.json)
+
+---
+
+### Over Rs. 2.5 bn annual rent paid for vehicles rented by public institutions
+
+*2024-03-08 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-Rs-2-5-bn-annual-rent-paid-for-vehicles-rented-by-public-institutions/108-278500) · `en`
+
+Colombo, March 08 (Daily Mirror) - It was revealed in parliament that more than Rs. 2.5 billion is paid annually as rental for vehicles acquired by government agencies.
+
+This was revealed by the Finance Ministry in reply to a question raised by SLPP MP Kokila Gunawardene on vehicles acquired by public institutions.
+
+It was revealed that 4,427 vehicles have been acquired by the public institutions on rental basis and that Rs. 2,562 million is paid as annual rent for the said vehicles.
+
+According to a question raised by MP Gunawardene on the number of running condition vehicles in public institutions, the ministry said some 69,121 vehicles are in running condition as of March 1, 2024.
+
+◼️
+
+[Data](articles/4c3ae41c.json)
+
+---
+
+### 92-year-old Rupert Murdock engaged in the 6th time
 
 *2024-03-08 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194300) · `si`
 
-ප්‍රකට මාධ්‍ය අධිපතිවරයෙකු වන 92 හැවිරිදි රූපට් මර්ඩොක් හය වන වරටත් විවාහ ගිවිස ගෙන තිබේ.
+92-year-old Rupert Murdock is engaged for the 6th year. His fiancée, a 67-year-old retired molecular biologist, is from Eliyan. Their wedding is set for June in California.
 
-රුසියානු සම්භවයක් සහිත එලීනා ශුකෝවා නම් 67 හැවිරිදි විශ්‍රාමික අණුක ජීව විද්‍යාඥවරියක් සමග ඔහු මෙලෙස විවාහ ගිවිස ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ඒ අනුව ඔවුන් දෙදෙනාගේ විවාහය ලබන ජුනි මාසයේ කැලිෆෝනියා හිදී පැවැත්වීමට සැලසුම් කර ඇති බව සඳහන් වේ.
+The 92-year-old Rupert Murdock, a well-known media manner, has been engaged in the sixth consecutive year.
 
-රූපට් මර්ඩොක් පසුගිය වසරේ ගුවන්විදුලි නිවේදිකාවක සමග විවාහ ගිවිස ගත්ත ද එය වසරක් වැනි කෙටි කාලයක් තුළ අවසන් වී තිබිණි.
+According to foreign media reports, Eliyan origin, a 67-year-old retired molecular biologist, has been engaged in a 67-year-old retired.
+
+Accordingly, their marriage is scheduled to be held at California next June.
+
+Ruptons Murdoch was engaged with a radio announcer last year, but it was over a year.
 
 ◼️
 
 [Data](articles/0ea86d8b.json)
 
+[Extended Data](ext_articles/0ea86d8b.ext.json)
+
 ---
 
-### கொழும்பு காற்று மோசம்
+### Colombo air is bad
 
 *2024-03-08 18:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-காற்று-மோசம்/95-334388) · `ta`
 
-கொழும்பு நகரில் காற்றின் தர சுட்டெண் 158 (பி.எம்.2.5) எனவும், சுட்டெண் மேலும் மோசமடைந்தால், கடுமையான அவதானம் செலுத்தப்பட வேண்டுமெனவும் அதிகாரிகள் தெரிவிக்கின்றனர்.
+Colombo's air quality index is 158 (PM2.5), with Akurana, Jaffna, Kandy also affected. Officials warn of worsening conditions.
 
-கொழும்பைத் தவிர அக்குறணை, யாழ்ப்பாணம் மற்றும் கண்டி ஆகிய பகுதிகளில் வளி மாசு நிலைமை மோசமாக உள்ளதாக வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+🟩
+
+Officials say that the air quality index in Colombo is 158 (PM2.5) and if the index worsens, it should be paid serious attention.
+
+The Department of Meteorology has further stated that the situation in Akurana, Jaffna and Kandy, besides Colombo, is worse.
 
 ◼️
 
 [Data](articles/eb79299e.json)
 
+[Extended Data](ext_articles/eb79299e.ext.json)
+
 ---
 
-### ஜனாதிபதி கல்வி புலமைப் பரிசில் திட்டம் நிதி நெருக்கடியிலுள்ள மாணவர்களுக்கு பெரும் உதவியாக அமையும் : அரவிந்தகுமார்
+### The Presidential Education Scholarship Program will be a great help for students in the financial crisis: Aravindakumar
 
 *2024-03-08 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178280) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கருத்தியலுக்கு அமைய 2024/2025 ஆம் ஆண்டுக்காக  முன்மொழியப்பட்ட `ஜனாதிபதி கல்வி புலமைப் பரிசில்' திட்டம் பொருளாதார நெருக்கடியிலுள்ள பாடசாலை மாணவர்களின் கல்வியை வெற்றிகரமாக நிறைவு செய்வதற்கு பெரும் உறுதுணையாக இருக்கும் என கல்வி இராஜாங்க அமைச்சர் அரவிந்தகுமார் தெரிவித்தார்.
+The Presidential Education Scholarship Program, proposed for 2024/2025, will support students in economic crisis. Minister of State for Education Aravindakumar announced 20 new Zonal Education Offices and educational reforms, including conducting exams at earlier grades and starting classes for pre-Grade students.
 
-எதிர்காலத்தில் மேற்கொள்ளப்படவுள்ள கல்விச் சீர்திருத்தங்களை இலக்காகக் கொண்டு புதிதாக 20 வலயக் கல்வி அலுவலங்கள் ஸ்தாபிக்கப்படவுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (8) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி இராஜாங்க அமைச்சர் அரவிந்தகுமார் இதனைத் தெரிவித்தார்.
+Minister of State for Education Aravindakumar said that the 'Presidential Education Scholarship' program proposed for 2024/2025 will be a great commitment to successfully complete the education of school students in the economic crisis.
 
-“2024/2025 ஆம் ஆண்டுக்காக முன்மொழியப்பட்ட 'ஜனாதிபதி கல்வி புலமைப் பரிசில்' திட்டம் பொருளாதார சிரமங்களுக்கு உள்ளான பாடசாலை மாணவர்களின் கல்வி நடவடிக்கைகளை வெற்றிகரமாக முடிப்பதற்கு பெரும் ஆதரவை வழங்கும் என்பதைக் கூற வேண்டும். ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கு அமைய இந்த வேலைத்திட்டம் அமுல்படுத்தப்படுகிறது.
+The Minister of State also stated that 20 new Zonal Education Offices will be set up aimed at the future of the future.
+
+Minister of State for Education Aravindakumar made this statement at a media briefing held at the Presidential Media Center on Friday.
+
+“The Presidential Education Scholarship Program, proposed for 2024/2025, will be given a great support for the successful completion of the educational activities of the school students who have been under economic difficulties.. The program is being implemented on the advice of President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/2ef22ec2.json)
+
+[Extended Data](ext_articles/2ef22ec2.ext.json)
 
 ---
 
@@ -97,6 +203,8 @@ Fitch Ratings – Mumbai/Colombo – 07 Mar 2024: Fitch Ratings has affirmed Sin
 ...
 
 [Data](articles/44188aeb.json)
+
+[Extended Data](ext_articles/44188aeb.ext.json)
 
 ---
 
@@ -128,37 +236,75 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 
 ---
 
-### மட்டக்களப்பில் மனித பாவனைக்கு உதவாத ஜூஸ் விற்பனை செய்த கம்பனி முகாமையாளர், முகவர், வர்த்தகருக்கு அபராதம்
+### கெடுபிடிகளுக்கு மத்தியில்  வெடுக்குநாறியில்  வழிபாடு
+
+*2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கெடுபிடிகளுக்கு-மத்தியில்-வெடுக்குநாறியில்-வழிபாடு/72-334387) · `ta`
+
+வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்டநிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
+
+மகாசிவராத்திரி தினத்தினை முன்னிட்டு அது தொடர்பான ஏற்பாடுகளை செய்துகொண்டிருந்த ஆலயத்தின் பிரதம பூசாரி மற்றும் நிர்வாக உறுப்பினர் ஆகியோர்    நெடுங்கேணி பொலிஸாரால் வியாழக்கிழமை (07) கைதுசெய்யப்பட்டிருந்தனர்.
+
+இதனையடுத்து  ஆலயத்தினை சுற்றி விசேட அதிரடிப்படை மற்றும் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளதுடன் ஆலயத்திற்கு செல்லும் பிரதான பாதைக்கு பொலிஸ் வீதித்தடை போடப்பட்டு. அந்த பகுதிக்குள் வசிப்பவர்கள் மாத்திரம் பொலிஸாரின் விசாரணைக்கு பின்னர் உள்ளே அனுமதிக்கப்பட்டனர்.
+
+இதேவேளை மகாசிவராத்திரி வழிபாட்டிற்காக தூர இடங்களில் இருந்து வருகைதந்த பொதுமக்கள், உள்ளே செல்லமுடியாதவாறு பிரதான வீதியில் தரித்து நின்றனர்.
+
+சம்பவ இடத்திற்கு பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், செல்வராசா கஜேந்திரன், வேலன் சுவாமிகள்,ரவிகரன் ஆகியோரும் பிரசன்னமாகியிருந்தனர்
+
+...
+
+[Data](articles/78ca7178.json)
+
+---
+
+### Company Manager, Agent and Trader
 
 *2024-03-08 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178269) · `ta`
 
-மட்டக்களப்பில் மனித பாவனைக்கு உதவாத ஜூஸ் விற்பனை செய்த கம்பனி முகாமையாளர், முகவர் மற்றும் விற்பனை செய்த வர்த்தகர் ஆகிய மூவருக்கு அபராதம் விதிக்கப்பட்டுள்ளது.
+In Batticaloa, a company manager, agency, and trader were fined for selling juice with excess Carmosine, Sulphurdioxide, and other impurities. The Magistrate's Court ordered the seizure and destruction of the juice bottles, following a public health inspector's raid. The juice was sent to Colombo for analysis, revealing the impurities. The court fined the parties involved, with the trader and company manager each paying 20,000 rupees.
 
-மட்டக்களப்பு நீதவான் நீதிமன்ற பதில் நீதவானும் ஏறாவூர் சுற்றுலா நீதிமன்ற மேலதிக நீதவான் வியாழக்கிழமை (7) உத்தரவிட்டு வர்த்தக நிலையங்களில் விற்பனைக்கு வைத்திருக்கும் அந்த ஜூஸ் போத்தல்களை  கைப்பற்றி அழிக்குமாறு பொது சுகாதார பரிசோதகர்களுக்கு கட்டளை பிறப்பித்துள்ளார்.
+🟩
 
-மட்டக்களப்பு பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் சுகுணன் தலைமையிலான கோட்டமுனை பொது சுகாதார பரிசோதகர் த.மிதுனராஜ். எஸ்.அமிர்தாப், ஜே.யசோதரன் ஆகிய பொது சுகாதார பரிசோதகர்கள் கொண்ட குழுவினர் கடந்த டிசம்பர் மாதம் வர்தக நிலையங்களை முற்றுகையிட்டு சோதனை நடவடிக்கைகளை மேற்கொண்டனர்.
+Three of the company manager, agencies and traders sold in Batticaloa have been fined.
 
-இதன் போது ஒரு வர்த்தக நிலையத்தில்  ஜூஸ் போத்தல்களை கைப்பற்றி அதனை கொழும்பிலுள்ள பகுப்பாய்வு திணைக்களத்திற்கு அனுப்பியது.
+The Batticaloa Magistrate's Court in response to the Eravur Tourism Court on Thursday (7) ordered the public health inspectors to seize and destroy the juice bottles that were sold in trade centers.
+
+Kottamunai Public Health Inspector led by Dr. Sukunan, Director of Regional Health Services in Batticaloa. A team of public health inspectors such as S. Amirtab and J. Yasodharan carried out raids last December.
+
+During this time, a trade center seized juice bottles and sent it to the Analysis Department in Colombo.
+
+It was found that the Sulphurdioxide, which is a low -quality, principal, has been diagnosed with the excess of Carmosine - Carmosine - SuntSet Yellow & Tarazine.
+
+Following this, the Magistrate's Court in response to the Jose Production Company Manager, Sales Agency and the trader filed a case at the Batticaloa Magistrate's Court on Thursday (07).
 
 ...
 
 [Data](articles/559179cb.json)
 
+[Extended Data](ext_articles/559179cb.ext.json)
+
 ---
 
-### வேலு குமார் எம்.பிக்கு பாராளுமன்றத்தில் மிக முக்கிய பதவி
+### Velu Kumar MP is the most important post in Parliament
 
 *2024-03-08 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178261) · `ta`
 
-மலையக பெருந்தோட்ட சமூகத்தின் பரிணாமத்திற்கான பாராளுமன்ற ஒன்றியம் தமிழ் முற்போக்கு கூட்டணியின் முயற்சியால் ஒன்பதாவது பாராளுமன்றத்தில் ஸ்தாபிக்கப்பட்டது. அதன் போது, ஒன்றியத்தின் தலைவராக கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலு குமார் ஏகமனதாக தெரிவுசெய்யப்பட்டார்.
+Velu Kumar MP, elected as President of the Union in the 9th Parliament, represents the upcountry plantation community. The Union, established by the Tamil Progressive Alliance, aims to address the community's needs and future development.
 
-உப தலைவர்களாக பாராளுமன்ற உறுப்பினர்களான சுஜித் சஞ்சய பெரேரா, நயனா வாசலகே மற்றும் உதயகுமார் ஆகியோர் தெரிவுசெய்யப்பட்டனர். இவ் அங்குராட்பன நிகழ்வில் பல கட்சிகளினது தலைவர்களும், சிரேஷ்ட பாராளுமன்ற உறுப்பினர்களும் கலந்துகொண்டிருந்தனர்.
+🟩
 
-பாராளுமன்றத்திற்குள், பல குழுக்கள் மற்றும் ஒன்றியங்கள் இயங்கி வருகின்றன. எனினும், அவ்வாறு இயங்குகின்ற எந்த ஒன்றிலும் நேரடியாக மலையக பெருந்தோட்ட சமூகத்தின் பிரச்சினைகள் ஆராயப்படுவது மிக குறைந்தமட்டத்திலேயே உள்ளது. அதனால், மலையக பெருந்தோட்ட சமூகத்தின் எதிர்காலம் தொடர்பான, கொள்கைவகுப்புக்கள் மற்றும் செயற்திட்டங்களை உருவாக்குதல் போன்றன இடம்பெறுவது இல்லை.
+The Parliament for the evolution of the upcountry plantation community was established in the ninth parliament by the efforts of the Tamil Progressive Alliance. At the same time, Kandy district parliamentarian Velu Kumar was unanimously elected as the President of the Union.
 
-...
+Vice Presidents Sujith Sanjaya Perera, Nayana Vasalake and Udayakumar were elected as Vice Presidents. Leaders of many parties and senior MPs were present at the event.
+
+Within the Parliament, many groups and unions are running. However, the problems of the mountain plantation community are being investigated directly on anything that is doing so is very low. Thus, there is no such thing as the development of policymakers and projects related to the future of the mountain plantation community.
+
+To eliminate this gap, the Union was founded in Parliament at the request of the Tamil Progressive Alliance to carry out the activities of the Upcountry Plantation Community.
+
+◼️
 
 [Data](articles/ccdaffa7.json)
+
+[Extended Data](ext_articles/ccdaffa7.ext.json)
 
 ---
 
@@ -193,6 +339,8 @@ A total of 47 laymen from Thailand were temporarily ordained at the Gangaramaya 
 ◼️
 
 [Data](articles/059e8a86.json)
+
+[Extended Data](ext_articles/059e8a86.ext.json)
 
 ---
 
@@ -315,6 +463,8 @@ ECONOMYNEXT – Two bills, aimed at advancing gender equality and empowering wom
 ...
 
 [Data](articles/697adec5.json)
+
+[Extended Data](ext_articles/697adec5.ext.json)
 
 ---
 
@@ -1112,6 +1262,18 @@ In 2006, Mahaha went to England and joined his father's family and shedding medi
 
 ---
 
+### The Steps To Achieve Justice In Sri Lanka
+
+*2024-03-08 12:50:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-steps-to-achieve-justice-in-sri-lanka/) · `en`
+
+Under President Mahinda Rajapaksa’s tenure, the Sri Lankan civil war, which spanned from 1983 to 2009, reached its brutal conclusion on May 18, 2009. This marked the end of a 25-year conflict between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE), a separatist rebel group. The conflict stemmed from longstanding grievances, including discriminatory policies against the Tamil minority, perpetrated by successive governments dominated by the Sinhala-Buddhist community. The LTTE sought to establish a separate state in the North and East of Sri Lanka, leading to a protracted and violent struggle. During the final stages of the war, an estimated 40,000 Tamil civilians were killed, predominantly in the rebel-hold north of the country (Lynch, 2011). The Sri Lankan military achieved a decisive victory, decimating the entire military leadership of the LTTE, including its leader Velupillai Prabhakaran.
+
+...
+
+[Data](articles/2f65bb9f.json)
+
+---
+
 ### Electoral Prospects In India & Tamil Nadu Have Better Predictability Now
 
 *2024-03-08 12:38:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-prospects-in-india-tamil-nadu-have-better-predictability-now/) · `en`
@@ -1121,6 +1283,8 @@ BJP and Modi commenced their electoral journey earlier this time than in 2014 an
 ...
 
 [Data](articles/d1abe36e.json)
+
+[Extended Data](ext_articles/d1abe36e.ext.json)
 
 ---
 
@@ -2099,167 +2263,5 @@ Police have identified the victims of last night’s homicide as Darshani Banbar
 [Data](articles/f05b4180.json)
 
 [Extended Data](ext_articles/f05b4180.ext.json)
-
----
-
-### Shooting in Canada: 6 Sri Lankans belonging to the same family killed
-
-*2024-03-08 08:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178212) · `ta`
-
-In Ottawa, a shooting at a house killed 6 Sri Lankans from the same family, including the mother and children, and seriously injured the father. A suspect was arrested.
-
-🟩
-
-Six people belonging to the same family who were identified as Sri Lankans were killed in a shooting at a house in Ottawa, the capital of Canada.
-
-The mother and children have died and the father has been admitted to the hospital with serious injuries.
-
-Ottawa police said that a suspect was arrested in connection with the crime.
-
-◼️
-
-[Data](articles/762eb188.json)
-
-[Extended Data](ext_articles/762eb188.ext.json)
-
----
-
-### Sri Lanka sees uptick in HIV/AIDS cases in 2023
-
-*2024-03-08 07:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-sees-uptick-in-HIVAIDS-cases-in-2023/108-278437) · `en`
-
-Colombo, March 08 (Daily Mirror) -  Sri Lanka has experienced a significant surge in HIV/AIDS cases in 2023 recording close to 700 cases.
-
-According to the National STD/AIDS Control Programme, Sri Lanka has logged 694 cases reflecting a 13 per cent increase compared to the year 2022, which saw 607 cases.
-
-Out of the cases reported in 2023, 91 males and five females fall within the age range of 15-24, while the remaining cases are individuals above 25 years old.
-
-The male-to-female ratio of reported HIV cases in 2023 stands at 7.5:1
-
-The fourth quarter (October-December) marked the highest number of cases (209) reported in a single quarter since 2009.
-
-Furthermore, 2023 has reported 59 deaths related to HIV/AIDS while Sri Lanka has conducted 1,068,309 HIV tests in 2023.
-
-Meanwhile, Sri Lanka has officially reported 11 HIV cases among the transgender community, while a total of 4,706 males and 1,472 females have contracted HIV thus far since 2009.
-
-...
-
-[Data](articles/a817915b.json)
-
-[Extended Data](ext_articles/a817915b.ext.json)
-
----
-
-### The Maha Sivi Night Day today
-
-*2024-03-08 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194278) · `si`
-
-Today's Maha Sivi Night is a significant Hindu event where devotees worldwide honor Shiva through sacrifices and charity.
-
-🟩
-
-Hindu devotees around the world have been honored with great devotion to the great Shiva Nighty.
-
-This is the righteous feast of Hindu devotees who will sacrifice to Shiva.
-
-The night sacrificing sacrifices to Shiva and sacrifice to Siva Handsion, Hindus devotees will engage in charity.
-
-◼️
-
-[Data](articles/c6ae4104.json)
-
-[Extended Data](ext_articles/c6ae4104.ext.json)
-
----
-
-### President, Mahinda, Basil talks end with no decision on alliance
-
-*2024-03-08 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-Mahinda-Basil-talks-end-with-no-decision-on-alliance/108-278460) · `en`
-
-Colombo, March 8 (Daily Mirror) - The meeting among President Ranil Wickremesinghe, Sri Lanka Podujana Peramuna (SLPP) leaders Mahinda Rajapaksa and Basil Rajapaksa ended with no final decision on the formation of an alliance ahead of the pending national elections, Daily Mirror learns .
-
-The three leaders met yesterday to discuss outstanding political matters ahead of the presidential elections slated to be conducted later this year .
-
-Daily Mirror learns that the two SLPP leaders sought clarity on two policy matters - alienation of national assets and power devolution - from the President to decide on the party’s stand to forge an alliance.
-
-...
-
-[Data](articles/cd52d6e7.json)
-
-[Extended Data](ext_articles/cd52d6e7.ext.json)
-
----
-
-### President's Award recipient arrested
-
-*2024-03-08 06:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/ஜனாதிபதி-விருது-பெற்றவர்-கைது/94-334377) · `ta`
-
-Five, including a President's Award recipient, arrested for using archaeological digging equipment in Polonnaruwa. Suspects, aged 30-50, from various locations, were found with a scanning machine and cameras. They had permission from the Archaeological Department and were searching for treasure.
-
-🟩
-
-The Polonnaruwa Criminal Investigation Department said that five persons, including the president's award, were arrested with equipment and modern car used for digging archaeologies in a garden in Valegadai area in Polonnaruwa.
-
-The arrested suspect is the resident of Kadawatha and the other suspects are resident of Bandarawela, Galewela, Kandala and Mirigama, and they are aged 30 to 50 years.. Said Bandara.
-
-Bandara said that a 46 -year -old suspect, who was arrested with the scanning machine to see if there were materials underneath, hails from the Bandarawela area who received the President's award in 1999.
-
-Police say that all the material underneath the earth has been created to become a camera and another camera has been carefully fitted to the machine he created.
-
-Police said the suspects had received the permission of the Archaeological Department a few years ago and had arrived in the car to search for the treasure for the second time a week ago.
-
-...
-
-[Data](articles/52326963.json)
-
-[Extended Data](ext_articles/52326963.ext.json)
-
----
-
-### Shavendra and Kamal villains in GR’s new book
-
-*2024-03-08 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-and-Kamal-villains-in-GRs-new-book/108-278459) · `en`
-
-Former President Gotabaya Rajapaksa has acknowledged his shortcomings in appointing key defence personnel, including General Shavendra Silva and General (Retd.) Kamal Gunaratne in his tell-all memoir “The Conspiracy to Oust Me” launched yesterday (March 7).
-
-Rajapaksa recounts the dramatic circumstances which led to his ousting in 2022, describing it as a first-hand experience of an internationally-sponsored regime change operation.
-
-Rajapaksa who recalls several of his failures, most notably the organic farming initiative, also interestingly points out failures in the national security apparatus under his own administration.
-
-“I appointed officers with long years of experience whom I had worked with for many years to the most important positions in the law and order and security apparatus.
-
-...
-
-[Data](articles/e4633bf9.json)
-
-[Extended Data](ext_articles/e4633bf9.ext.json)
-
----
-
-### More information about the killing of six in Sri Lankan family in Canada
-
-*2024-03-08 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194276) · `si`
-
-In Canada, a Sri Lankan family was killed, including the mother, four children, and a 40-year-old man. The suspect, a 19-year-old Sri Lankan student, was involved. This is the first such incident in Ottawa in three decades.
-
-🟩
-
-In Canada's home, 6 more information about the killing of 6 persons with a Sri Lankan family.
-
-Foreign reports said that the mother and her four children died in the incident as well as a 40-year-old man who lived in the house.
-
-Fourteen children have been identified as seven years old.
-
-The Chief of Ottawa Police said that the suspect was a Sri Lankan who was studying in Canada, 19-year-old Farbrean de Zoysa.
-
-The incident was first known as a shooting but later stated that a weapon was killed.
-
-The Mayor has said that this is the first time in Ottawa, about three decades.
-
-◼️
-
-[Data](articles/9fe1961e.json)
-
-[Extended Data](ext_articles/9fe1961e.ext.json)
 
 ---

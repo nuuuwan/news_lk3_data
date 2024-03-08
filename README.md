@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 11:17:46**
+As of **2024-03-08 11:33:20**
 
 ## Newspaper Stats
 
-*Scraped **11,647** Articles*
+*Scraped **11,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 economynextcom | 605
 dailyftlk | 617
 islandlk | 627
-adalk | 985
+adalk | 986
 tamilmirrorlk | 1,413
-adaderanalk | 1,415
-virakesarilk | 1,601
-dailymirrorlk | 1,773
-adaderanasinhalalk | 1,827
+adaderanalk | 1,416
+virakesarilk | 1,602
+dailymirrorlk | 1,774
+adaderanasinhalalk | 1,828
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,642 (100.0%) of 11,647 articles have been extended.
+11,647 (100.0%) of 11,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### විපක්ෂයට IMF සාකච්ඡාවක්
+
+*2024-03-08 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194286) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනා සම්බන්ධයෙන් එහි ඉහළ පෙළේ නියෝජිත පිරිස සමග සාකච්ඡාවක් සිදුකිරීමට විපක්ෂයට අවස්ථාව ලබාදීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පියවර ගෙන තිබේ.
+
+ජනාධිපති මාධ්‍ය ඒකකය සඳහන් කරන්නේ අදාළ සාකච්ඡාව සඳහා පාර්ලිමේන්තුව පිළිගත් විපක්ෂයේ පක්ෂ නායකයින් වෙත අවස්ථාව සලසා දෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් එළැඹෙන සඳුදා (11) ජනාධිපති කාර්යාලයේදී රැස්වීමක් කැඳවා ඇති බවය.
+
+◼️
+
+[Data](articles/bc4c52a8.json)
+
+---
+
+### காஸாவில் தற்காலிக துறைமுகமொன்றை அமெரிக்கா நிர்மாணிக்கும்: பைடன்
+
+*2024-03-08 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178234) · `ta`
+
+மனிதாபிமான உதவிப் பொருட்களை விநியோகிப்பற்காக காஸா கடற்கரையோரத்தில் துறைமுகம் ஒன்றை அமெரிக்கா நிர்மாணிக்கும் என ஜனாதிபதி ஜோ பைடன் தெரவித்துள்ளார்.
+
+காஸாவுக்கு மேலும் அதிகளவு விநியோங்களை இஸ்ரேல் அனுமதிக்க வேண்டும் எனவும் ஜனாதிபதி பைடன் கூறினார்.
+
+◼️
+
+[Data](articles/e647a12c.json)
+
+---
 
 ### President to convene meeting with opposition party leaders, IMF delegation on Monday
 
@@ -43,6 +71,26 @@ During the meeting, scheduled to be held at the Presidential Secretariat, the op
 ◼️
 
 [Data](articles/0768d3e2.json)
+
+[Extended Data](ext_articles/0768d3e2.ext.json)
+
+---
+
+### President to convene meeting with opposition’s party leaders, IMF delegates on Monday
+
+*2024-03-08 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97815/president-to-convene-meeting-with-oppositions-party-leaders-imf-delegates-on-monday) · `en`
+
+President Ranil Wickremesinghe has convened a meeting on Monday (March 11) with the leaders of accepted opposition parties in parliament and the visiting high-level delegation of the International Monetary Fund (IMF).
+
+During the meeting, scheduled to be held at the Presidential Secretariat, the opposition party leaders will be offered the chance to discuss the IMF’s proposals with the delegates.
+
+A team led by IMF’s Senior Mission Chief for Sri Lanka, Peter Breuer, is in Sri Lanka for the second review of the Extended Fund Facility (EFF) program for the island nation.
+
+The review process kicked off on Thursday (March 07) with an opening meeting with President Wickremesinghe during which Mr. Breuer said the IMF program is exhibiting promising signs of efficacy, translating into tangible outcomes owing to the Sri Lankan authorities’ commitment to the program and its implementation.
+
+...
+
+[Data](articles/77f62735.json)
 
 ---
 
@@ -60,23 +108,31 @@ The bench said it would refer the case to the chief justice, to be posted before
 
 [Data](articles/ee9431da.json)
 
+[Extended Data](ext_articles/ee9431da.ext.json)
+
 ---
 
-### சுழிபுரத்தில் புத்தர் சிலை அகற்றப்பட்டதால் போராட்டம் கைவிடப்படுகின்றது - சுகாஷ் அறிவிப்பு
+### Struggle is abandoned as the statue of Buddha is removed in Chiripuram - Sukash
 
 *2024-03-08 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178230) · `ta`
 
-சுழிபுரத்தில் புத்தர் சிலை அகற்றப்பட்டதால் போராட்டம் கைவிடப்படுவதாக தமிழ் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரத்தினம் சுகாஷ் அறிவித்துள்ளார்.
+Protest in Chiripuram ends with Buddha statue removal. Tamil National People's Front spokesperson Kanagaratnam Sukash announced the protest's abandonment. The statue was initially called for removal.
 
-குறித்த பகுதியில் புத்தர் சிலை வைத்ததால் அதனை அகற்றுமாறு கோரி இன்று வெள்ளிக்கிழமை போராட்டம் ஒன்றினை நடாத்துவதற்கு அழைப்பு விடுக்கப்பட்டிருந்தது.
+🟩
 
-இந்நிலையில் சுழிபுரத்தில் புத்தர் சிலை அகற்றப்பட்டதால் போராட்டம் கைவிடப்படுகின்றது என அவர் தெரிவித்துள்ளார்.
+Tamil National People's Front media spokesman Kanagaratnam Sukash has announced that the protest is abandoned due to the removal of the Buddha statue in Chiripuram.
 
-போராடினால் மட்டுமே இனம் வாழும். போராட்டங்களால் எதையும் சாதிக்க முடியாதென்பவர்கள், இனியாவது எம்மோடு கைகோர்ப்பார்கள் என்று நம்புகின்றோம். இனத்துக்காக இறுதிவரை விடிவுவரை போராடுவோம் என அவர் மேலும் தெரிவித்தார்.
+The Buddha statue was called for a protest on Friday, demanding the removal of the statue of Buddha.
+
+In this case, the statue of the Buddha in Chiripuram is abandoned, he said.
+
+Forty. We believe that those who cannot achieve anything by the struggles will join us anymore. We will fight for the end of the race, ”he added.
 
 ◼️
 
 [Data](articles/6ceea042.json)
+
+[Extended Data](ext_articles/6ceea042.ext.json)
 
 ---
 
@@ -102,19 +158,25 @@ The Navy has educated the Navy in this regard and investigations have commenced 
 
 ---
 
-### வலம்புரி சங்கை கடத்திய பௌத்த தேரர் உட்பட இருவர் கைது
+### Two persons including Buddhist Thera abducted Valamburi Sangam
 
 *2024-03-08 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178227) · `ta`
 
-மாத்தறையில் இருந்து மட்டக்களப்பிற்கு கடத்தி கொண்டு செல்லப்பட்ட  ஒருகோடி ரூபா பெறுமதியான வலம்புரிசங்குடன் பௌத்த தேரர் உட்பட இருவர் கைது செய்யப்பட்டுள்ளனர்.
+A Buddhist Thera and another person were arrested in Kalkuda for abducting Valamburi Sangam. The Special Task Force (STF) apprehended them. Investigations are ongoing, with plans to bring them to court.
 
-இவர்களை மட்டு கல்குடா  பிரதேசத்தில் வைத்து நேற்று வியாழக்கிழமை (7) இரவு விசேட அதிரடிப்படையினர் கைது செய்துள்ளதாக கல்குடா பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் விசாரணையின் பின்னர் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two persons, including Buddhist Thera, have been arrested with a Valambisang worth Rs.
+
+The Special Task Force (STF) has been arrested on Thursday night in the Kalkuda area, Kalkuda police said.
+
+The police said that steps have been taken to produce in court after the investigation.
 
 ◼️
 
 [Data](articles/3807c0d1.json)
+
+[Extended Data](ext_articles/3807c0d1.ext.json)
 
 ---
 
@@ -157,6 +219,26 @@ Police said the motorcycle traveling from Nuwara Eliya to Talawakelle and a lorr
 [Data](articles/3fe3b7ba.json)
 
 [Extended Data](ext_articles/3fe3b7ba.ext.json)
+
+---
+
+### Maskeliya Pradeshiya Sabha collects three tons of plastic bottles during Sri Pada season
+
+*2024-03-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maskeliya-Pradeshiya-Sabha-collects-three-tons-of-plastic-bottles-during-Sri-Pada-season/108-278472) · `en`
+
+Maskeliya, March 8 (Daily Mirror) - The Maskeliya Pradeshiya Sabha announced today that within three months of the 2023–2024 Sri Pada season commencing, they have successfully gathered three tons of plastic bottles discarded by pilgrims visiting Sri Pada.
+
+Pradeshiya Sabha Secretary S. Rajaweeran said garbage bins have been installed to dispose of plastic water bottles carried by pilgrims travelling along that route.
+
+Some pilgrims just throw plastic water bottles into the environment without putting them into garbage bins.
+
+Pilgrims do not follow the instructions given by the Pradeshiya Sabha to dispose of the raw food items in the bins placed for the disposal of garbage.
+
+The plastic water bottles discarded by Sri Pada pilgrims were taken to the garbage recycling center in Nallathanniya, from where it will be sold to the private sector, the secretary said.
+
+...
+
+[Data](articles/9c7b02f9.json)
 
 ---
 
@@ -249,6 +331,24 @@ We are urging the government to take appropriate action against the Nedungeni Po
 [Data](articles/f2f99a2b.json)
 
 [Extended Data](ext_articles/f2f99a2b.ext.json)
+
+---
+
+### දිවයිනේ ප්‍රථම වතාවට අලි රෝහලක්
+
+*2024-03-08 09:36:58* · [`adalk`](https://www.ada.lk/picture_story/දිවයිනේ-ප්‍රථම-වතාවට-අලි-රෝහලක්/10-408490) · `si`
+
+දිවයිනේ ප්‍රථම වතාවට  හිලෑ  අලි ඇතුන් බෝ කර ගැනීම සඳහා අභිජනන මධ්‍යස්ථානයක් මෙන්ම හීලෑ අලි ඇතුන්ට  දේශීය හා බටහිර වෛද්‍ය ප්‍රතිකාර සිදුකරන පුද්ගලික රෝහලක් 07 දින විවෘත කිරීමට හීලෑ අලි ඇතුන්ගේ සංගමයේ සාමාජිකයින් පියවර ගනු ලැබීය.
+
+මේ සඳහා මූලිකත්වය ගෙන ක්‍රියාකොට ඇත්තේ මහියංගණය ප්‍රදේශයේ දී  ග්‍රාමාරක්ෂක භටයකුගේ වෙඩි පහරකට ලක්ව තුවාල ලබා සිටි සීතා ඇතින්නගේ  හිමිකාරීත්වය දරන  මහරගම එස්. එන්. රොෂාන් මහතාගේ සංකල්පයකට අනුව බව හීලෑ අලි  ඇතුන්ගේ සංගමය කියයි
+
+මෙම අවස්ථාවේදී මහියංගනයේදී වෙඩි වැදී  තුවාල ලබා සුව අතට පත් වූ සීතා ඇතින්න හබරණ ප්‍රදේශයේ මෙම රෝහලට  ගෙන්වා තිබුණු අතර ඇයගෙන් හීලෑ අලි පැටවුන් බෝ කිරීමට අභිජනනය කිරීමේ මංගල කටයුත්තද සිදුකිරීම විශේෂත්වයකි.
+
+ඒ සඳහා රාජා නමැති හස්තියෙක්  ගෙන්වා ඔවුන් ගේ පළමු ස්වභාවික එකතුවීමේ ක්‍රියාවලිය අභිජනන මධ්‍යස්ථානය ආරම්භ කිරීමත් සමඟ සිදු කිරීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/f5c46f39.json)
 
 ---
 
@@ -1066,27 +1166,37 @@ CWEIC is a commercial, not-for-profit membership organisation with an official m
 
 ---
 
-### කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක් කැනඩාවේදී 'සමුහ ඝාතනය' කෙරේ
+### Sri Lankan family, including four children, is 'mass murder' in Canada
 
 *2024-03-08 04:40:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c80kqvgw1qdo) · `si`
 
-කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක් කැනඩාවේදී 'සමුහ ඝාතනය' කෙරේ
+A Sri Lankan family, including four children, was killed in Canada. The 19-year-old accused, living with the family, was arrested. Ottawa Mayor described it as a "significant tragedy."
 
-ඔටාවාහිදී කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක සාමාජිකයින්ගේ මරණ "සමූහ ඝාතනයක්" බව කැනේඩියානු පොලිසිය විසින් පවසයි.
+🟩
 
-මියගිය හයදෙනා කැනඩාවට මෑතකදී පැමිණි අය බවත්, වින්දිතයින්ගෙන් බාලයා මාස තුනකට අඩු වයසින් පසුවන බවත් පොලිසිය කියා සිටියි.
+Sri Lankan family, including four children, is 'mass murder' in Canada
 
-මෙම ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ල වී ඇත්තේ එම පවුල සමඟ ජීවත් වූ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකුට ය.
+The Canadian police say that the deaths of a Sri Lankan family, including four children, including four children.
 
-"මේක තනිකරම අහිංසක මිනිස්සු ටිකකට කරපු  නිරර්ථක ප්‍රචණ්ඩ ක්‍රියාවක්" ඔටාවා හි පොලිස් ප්‍රධානියා  බ්‍රහස්පතින්දා (ඊයේ) පැවසීය.
+Police say that the victims have recently arrived in Canada and the youngest youngerly from the victims.
 
-ඔටාවා ප්‍රාන්තයේ පිහිටි බාර්හේවන් ප්‍රදේශයෙන් ඉකුත් බදාදා එරට දේශීය වේලාවෙන් 22:52ට (ශ්‍රී ලංකා වේලාවෙන් බ්‍රහස්පතින්දා උදෑසන 9.22 ට පමණ) ලද හදිසි ඇමතුම්වලට පොලිස් නිලධාරීන් විසින්  ප්‍රතිචාර දක්වා තිබේ.
+The murder had been accused of a 19-year-old student who lived with the family.
 
-එහි පැමිණි සිය නිලධාරීන් ඉක්මනින් සැකකරු හඳුනාගෙන ඇති බවත්, ඔහුව කිසිදු පරිශ්‍රමයකින් තොරව අත්අඩංගුවට ගත් බවත් පොලිස් ප්‍රධානී එරික් ස්ටබ්ස් පැවසීය.
+"This is a futility violence," this is a futility violence, "said Thursday (yesterday).
+
+Police officers responded to emergency calls on Wednesday in the State of Ottawa, Ottawan.
+
+Eric Stabs said that his officials received their officials have been identified soon and he was arrested without any attempts.
+
+Later, officers entered the house and found victims, and it includes the mother, her four children, and who lived with the family.
+
+It contains nothing here. Play Video, "Ottawa Mayor" - OTTAWA DIFFICULT TO PROVINCE WOME WOME WOME HAIR AGAIN THE MONTAGE WORLD HAVE BEENGRACTIVE IN THE HAVE FROM HAVE HAVEAs well as.
 
 ...
 
 [Data](articles/37463290.json)
+
+[Extended Data](ext_articles/37463290.ext.json)
 
 ---
 
@@ -2063,109 +2173,5 @@ In his discussions with key Sri Lankan officials, international partners, and di
 [Data](articles/323aa2ee.json)
 
 [Extended Data](ext_articles/323aa2ee.ext.json)
-
----
-
-### 22 Indians arrested in illegal activities
-
-*2024-03-07 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178205) · `ta`
-
-22 Indians arrested in Talangama for illegal computer and smartphone activities, as per a complaint by an Indian embassy.
-
-🟩
-
-Talangama police have arrested 22 Indian citizens allegedly involved in illegal activities using computer and smart phones.
-
-According to a complaint lodged by an Indian embassy, a police officer said that the suspects were arrested in a house in Nagahamulla area in Talangama.
-
-◼️
-
-[Data](articles/c193a63e.json)
-
-[Extended Data](ext_articles/c193a63e.ext.json)
-
----
-
-### Lasantha Alagawanna
-
-*2024-03-07 19:44:21* · [`adalk`](https://www.ada.lk/breaking_news/කෝපා-නව-සභාපති-ලසන්ත-අලගියවන්න/11-408487) · `si`
-
-Lasantha Alagiyawanna, new Chairman of the Committee on Public Accounts, discussed future activities with members. Parliamentarians Vajira Abeywardena and Mohan Priyadarshana De Silva, among others, were present.
-
-🟩
-
-Minister of State Lasantha Alagiyawanna was the new Chairman of the Committee on Public Accounts (Capa Committee).. The first meeting of the Committee on Public Accounts was held today (07).
-
-State Minister Lasantha Alagiyawanna, MP Vajira Abeywardena proposed by Parliamentaries Vajira Abeywardena. Confirmed by Mr. Sitharan.
-
-He said that the new chairman had discussed the future activities of the Committee and the members of the members are looking for support to achieve this.
-
-Minister of State Ministers Mohan Priyadarshana De Silva, Prasanna Ranaweera, Diyain Gamage, Chamaka Gamage, and Parliamentarians Tissa Attanayake, Niroshan Perera, Ashok Abeysinghe, Hector AppuhamiS. Sri Lanka, M. Mrs. Udayakumar, (Dr.) Major Pradeep Undugoda, Rahandas Kodithaku, Isuru Dodangi, Madurane Weerasana and Manjulana Weerasana and Manjula Dissanayake were present.
-
-◼️
-
-[Data](articles/0ddef97f.json)
-
-[Extended Data](ext_articles/0ddef97f.ext.json)
-
----
-
-### Rohitha Abeygunawardhane attempted to assault me: Rasamanickam
-
-*2024-03-07 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohitha-Abeygunawardhane-attempted-to-assault-me-Rasamanickam/108-278435) · `en`
-
-Colombo, March 07 (Daily Mirror) - Parliamentarian Rajaputhiran Rasamanickam said MP Rohitha Abeygunawardhane threatened him and attempted to physically assault him in the Prime Minister's Office in Parliament today.
-
-Raising a privileges issue in Parliament, he said MP Abeygunawardhane threatned him for walking into the Prime Minister's Office.
-
-"How dare you walked into our Prime Minsiter's office?", he questioned and threatened me and tried to physically assault me threatening me to meet him by the lift. State Minister Ashoka Priyantha, who was there, prevented him. My life is under threat," the MP said.
-
-He said the Prime Minister is the Prime Minister of Sri Lanka and he had all the rights to meet him as a Member of Parliament and a citizen of this country.
-
-...
-
-[Data](articles/8de25dda.json)
-
-[Extended Data](ext_articles/8de25dda.ext.json)
-
----
-
-### Most Sri Lanka ruling party MPs want to back Wickremesinghe: state minister
-
-*2024-03-07 19:37:00* · [`economynextcom`](https://economynext.com/most-sri-lanka-ruling-party-mps-want-to-back-wickremesinghe-state-minister-153733/) · `en`
-
-ECONOMYNEXT — A large majority of the parliamentary group of the ruling Sri Lanka Podujana Peramuna (SLPP) believe that President Ranil Wickremesinghe should run for president, but the party will have to decide on who they will support, an MP said.
-
-Speaking to reporters on Wednesday March 06, State Minister Arundika Fernando said the SLPP’s parliamentary group overwhelmingly believes that President Wickremesinghe should be the one to govern the country going forward.
-
-“We think at the moment that it is Ranil Wickremesinghe who can govern this country going forward. We will present our proposal to the party. If the party decides there’s someone better than that… None of this is about individuals. If the party proposes someone better, we will consider it. But now a large majority of our parliamentary group believes Mr Wickremesinghe can rescue the country from this situation,” said Fernando.
-
-...
-
-[Data](articles/3c7491c2.json)
-
-[Extended Data](ext_articles/3c7491c2.ext.json)
-
----
-
-### 3 women die from breast cancer every day in Sri Lanka!-Doctor Lanka Jayasuriya Dissanayake
-
-*2024-03-07 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178197) · `ta`
-
-Dr. Lanka Jayasuriya Dissanayake highlighted the alarming statistics of breast cancer in Sri Lanka at an event in Kandy, stating that 1,095 women die annually from the disease, affecting 5,475 women, with every 8 women at risk.
-
-🟩
-
-Dr. Lanka Jayasuriya Dissanayake says 1,095 women die of breast cancer annually in Sri Lanka and 5,475 women suffer from breast cancer.
-
-Dr. Lanka Jayasuriya Dissanayake, president of the Indira Jayasuriya Cancer Foundation, was speaking at an event held in Kandy on Thursday (07) in Kandy on the occasion of International Women's Day.
-
-Every 8 women living in this country have the risk of breast cancer. It is very sad. He said that three women die daily in our country due to this breast cancer.
-
-◼️
-
-[Data](articles/4b45db74.json)
-
-[Extended Data](ext_articles/4b45db74.ext.json)
 
 ---

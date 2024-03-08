@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 10:02:40**
+As of **2024-03-08 10:17:57**
 
 ## Newspaper Stats
 
@@ -26,41 +26,55 @@ adaderanasinhalalk | 1,825
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,634 (100.0%) of 11,637 articles have been extended.
+11,637 (100.0%) of 11,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### வெடுக்குநாறி ஆலய பூசகர் உட்பட இருவரையும் நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை
+### Action to appear in court, including the priest of the temple
 
 *2024-03-08 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178223) · `ta`
 
-சிவராத்திரி பூசைக்கான ஒழுங்கமைப்பில் ஈடுபட்டிருந்த வவுனியா வெடுக்குநாறி ஆலய பூசகர் உட்பட நிர்வாகசபை உறுப்பினர் ஒருவரும் நேற்று நெடுங்கேணி பொலிஸாரால் கைது செய்யப்பட்டிருந்தனர்.
+An executive member of the Vavuniya Vedukkunni Temple, involved in organizing Shivaratri Pooja, was arrested by the Nedungeni police. Steps are being taken to bring them to court today.
 
-இந்நிலையில் அவர்கள் இருவரையும் வவுனியா நீதிமன்றத்தில் இன்று ஆஜர்ப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
+
+An executive member of the Vavuniya Vedukkunni Temple, who was involved in the organizing of Shivaratri Pooja, was arrested by the Nedungeni police yesterday.
+
+It is reported that steps have been taken to produce the two of them in the Vavuniya court today.
 
 ◼️
 
 [Data](articles/5f71cff1.json)
 
+[Extended Data](ext_articles/5f71cff1.ext.json)
+
 ---
 
-### வெடுக்குநாறி மலை ஆதி சிவன் கோவில் பூசகர் சிவத்திரு மதிமுகராசா கைது - அகில இலங்கை சைவ மகா சபை கண்டனம்
+### Arrest of the Adi Shiva Temple
 
 *2024-03-08 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178221) · `ta`
 
-வெடுக்குநாறி மலை ஆதி சிவன் கோவில் மகா சிவராத்திரி பூசை ஏற்பாடுகளுக்கு சென்ற பூசகர் சிவத்திரு மதிமுக ராசாவை கைது செய்தமை மிகப் பாரதூரமான சைவத்தமிழர்களின் அடிப்படை வழிபாட்டுரிமையை மீறும் செயல் என அகில இலங்கை சைவ மகாசபை கடும் கண்டனம் வெளியிட்டுள்ளது.
+The All Ceylon Saiva Mahasabha condemns the arrest of priest Sivathiru Mathimukha Raja at the Vedukkunni Mountain Adi Shiva Temple during Maha Shivaratri. This is seen as a grave incident, threatening the worship of Saivites in Sri Lanka. The Mahasabha calls for government action against the Nedungeni Police Station and urges the government to ensure no obstacles to Maha Shivaratri rituals.
 
-உலகம் பூராகவும் உள்ள சைவர்களின் மிக உன்னதமான முதன்மையான விரதம் சிவராத்திரி ஆகும்.
+🟩
 
-அந்த வகையில் வன்னி சிவப் பிராந்தியத்தில் வவுனியா மாவட்டத்தில் உள்ள தொன்று தொட்டு தமிழ்ச் சைவர்கள் வழிபட்டு வரும் ஆதி சிவன் கோவிலின் மகா சிவராத்திரி வழிபாடுகளுக்கு சென்ற  பூசகர் மிக மோசமான முறையில் கைது செய்யப்பட்டமையையும்  பக்தர்களின் வழிபாடுகளிற்கு ஆலய பரிபாலன சபையினரின் பூசை ஏற்பாடுகளுக்கு  பலத்த இடையூறு விளைவிக்கப்பட்டு துப்பாக்கி முனையில் அச்சுறுத்தப்பட்டமை சைவசமயிகளிற்கு தாங்கொணாத வலியை ஏற்படுத்தி உள்ளது.
+The All Ceylon Saiva Mahasabha has strongly condemned the arrest of the priest Sivathiru Mathimukha Raja, who went to the Maha Shivaratri Pooja of the Vedukkunni Mountain Adi Shiva Temple.
 
-இது இலங்கையின் சைவசமயிகளின் வழிபாட்டு உரிமைக்கு விடுவிக்கப்பட்ட பாரிய அச்சுறுத்தலும்  அதே நேரம் சைவ சமய மதகுருவை மோசமாக நடாத்தி கைது செய்தமை மன்னிக்க முடியாத பாரதூரமான சம்பவமாகும்.
+Shivaratri is the most classic first fasting of the Saivites around the world.
+
+Accordingly, the worship of the Adi Shiva Temple, which is worshiped by the Tamil Saivan Temple in the Vavuniya district of Vavuniya in the Vavuniya Sivapu region, was the worst arrests of the worship of the Adi Shiva Temple and the worship of the devotees of the devotees.
+
+This is an unforgivable incident that the most threatening of the worship of the Saivites of Sri Lanka is the same and the arrest of a vegetarian cleric.
+
+We are urging the government to take appropriate action against the Nedungeni Police Station and the police who have arbitrarily acted in violation of court orders.
 
 ...
 
 [Data](articles/f2f99a2b.json)
+
+[Extended Data](ext_articles/f2f99a2b.ext.json)
 
 ---
 
@@ -1754,21 +1768,29 @@ The suspects have been revealed in Kurunegala, Kurunegala residents of age and 3
 
 ---
 
-### අද වායු දූෂණය වැඩි වෙයි
+### Air pollution is increasing today
 
 *2024-03-07 20:12:02* · [`adalk`](https://www.ada.lk/breaking_news/අද-වායු-දූෂණය-වැඩි-වෙයි/11-408488) · `si`
 
-අද(08) දිනයේදි දිනයේදි සමහර නගරවලවල  වායු දූෂණ තත්වය තරමක් වැඩි විය හැකි යැයි බලාපොරොත්තු වන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය සදහන් කරයි.
+Air pollution in Sri Lanka is rising, with PM2.5 levels reaching 61-150 and SL Aqi between 51-100. Cities like Kandy and Colombo have seen significant increases, with Kandy's air quality index (AQI) at 47 and Colombo's at 41.
 
-ඊයේ (07) උදෑසන 08.00 ට අවසන් වූ පැය 24 තුළ පැවති සාමානය වායු ගුණ තත්තත්තවය සැලකීමේදී, බදුල්ල නගරයේ  පමණක් ශුද්‍ර අංශු (PM2.5) ප්‍රමාණය ශ්‍රී ලංකා වායුගුණ තත්තත්තව දර්ශකය (SL AQI), 101-150 අගයක, එනම් සංවෙදි  පුද්ගලයන්ටසෞඛ්‍යමය වශයෙන්  අහිතකර අගයක පැවැති බවද පෙන්වා දෙයි.
+🟩
 
-ඊයේ දිනයේදි  අනෙකුත්  නගරවල ශුද්‍ර අංශු (PM2.5) ප්‍රමාණය ශ්‍රී ලංකා වායුගුණ තත්වය දර්ශකය මධ්‍යයම අගයක (SL AQI, 51-100) පැවැති බවද සදහන්කරයි.
+The National Building Research Organization (NBRO) says that some cities will be able to increase their air pollution today (08).
 
-කොළඹ නගරයේ සමාන්‍ය ශුද්‍ර අංශූ මට්ම 47 ක් විය යුතු වුවත් ඊයේ දිනයේදි කොළඹ නගරය ශුද්‍ර අංශූ මට්ම  94 ක් බවට පත් වි තිබු අතර යාපනය නගරය ශුද්‍ර අංශූ මට්ම41 විය යුතු ඊයේ දිනයේදි එම අඟය  82 වි තිබෙන අතර කුරුණෑගල නගරයේ ශුද්‍ර අංශූ මට්ම 45 ක් විය යුතු වුවත් (ඊයේ එම අඟය  90 වි තිබු අතර වවුනියාව නගරය ශුද්‍ර අංශූ මට්ම 34 ක් වුවත් ඊයේ එම අඟය  68 විය.
+At the time of the 24 hours ended at 08.00 am yesterday (07) at 08.00 am at 08.00 am, the Sri Lankan air travelers (PM2.5), the Sri Lanka's air travelers (SL Aqi), which is, 61-150It also pointed out that the value was valued.
 
-...
+It is also mentioned that the Sri Lankan easeholder situation index (SL Aqi, 51-100) was held at other cities yesterday.
+
+The city was 47 estimated at the city of Kandy, but the city of Colombo yesterday that the city should be 41 at 41 charminal number last 41.(The same horn was 90 yesterday and the city of Vavuniya was 34, but the same horn yesterday was 68.
+
+Palvera of 40, but the same horn was 84, but the death of the chamber of Karapitiya yesterday, even though Matma was 38 of the deaths in Kandy.The National Building Research Organization states that the horror was 56, but the city of Badulla was 62 of the deaths of Badulla yesterday.
+
+◼️
 
 [Data](articles/60e914a4.json)
+
+[Extended Data](ext_articles/60e914a4.ext.json)
 
 ---
 

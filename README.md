@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 11:33:20**
+As of **2024-03-08 11:52:10**
 
 ## Newspaper Stats
 
-*Scraped **11,652** Articles*
+*Scraped **11,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,83 @@ tamilmirrorlk | 1,413
 adaderanalk | 1,416
 virakesarilk | 1,602
 dailymirrorlk | 1,774
-adaderanasinhalalk | 1,828
+adaderanasinhalalk | 1,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,647 (100.0%) of 11,652 articles have been extended.
+11,652 (100.0%) of 11,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### විපක්ෂයට IMF සාකච්ඡාවක්
+### කැනඩාවේදී ශ්‍රී ලාංකිකයින් 6 දෙනෙක් ඝාතනය - සැකකරු අධිකරණයේදී කියූ දේ
+
+*2024-03-08 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194287) · `si`
+
+කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බැර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු නිවස තුළදීම සාහසික ලෙස ඝාතනය කිරීමේ සිද්ධියට සම්බන්ධ ශ්‍රී ලාංකික තරුණයා අධිකරණයට ඉදිරිපත්කර තිබේ.
+
+එහිදී සැකකරු ඉතා අඩුවෙන් කථාකර ඇති අතර අධිකරණයේ නැවත වාඩි වීමට ප්‍රථම ඔහුගේ නම සහ උපන් ස්ථානය පමණක් සඳහන් කර තිබුණි.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ, මේ වනවිට සැකකරුට මිනීමැරුම් හයක් සහ මිනී මැරීමට උත්සාහ කිරීම යන චෝදනා එල්ල වී ඇති බවය.
+
+කෙසේ වුව ද මෙම සැකකරු විසින් වික්‍රමසිංහ පවුල ඝාතනය කිරීමට හේතුව මෙතෙක් වාර්තා වී නැත.
+
+පුද්ගලයින් 5 දෙනෙකු ගේ නම් සඳහන් කරමින් සැකකරුට අධිකරණය නියෝග කර ඇත්තේ ඔවුන්ට කථා නොකරන ලෙසය.
+
+ඉන් එක් අයෙකු වන්නේ බරපතළ තුවාල ලබා රෝහල්ගත කර සිටින ධනුෂ්ක වික්‍රමසිංහ ය.
+
+ඝාතනය සම්බන්ධයෙන් කැනඩාවේ ඉගෙනුම ලබමින් සිටි 19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසා නම් ශ්‍රී ලාංකික තරුණයෙකු අත්අඩංගුවට ගැනුණි.
+
+කැනඩා පොලිසිය පවසන්නනේ, සාහසිකයා මෙම සමූහ ඝාතනය සඳහා යොදාගෙන ඇත්තේ, තියුණු ආයුධයක් බවය.
+
+චෝදනාවට ලක්ව සිටින තරුණයා ඝාතනයට ලක්වූ පවුල සමඟ එම නිවසේම ජීවත්ව සිටි බව සඳහන් ය.
+
+...
+
+[Data](articles/f050be05.json)
+
+---
+
+### An IMF conversation for the opposition
 
 *2024-03-08 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194286) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනා සම්බන්ධයෙන් එහි ඉහළ පෙළේ නියෝජිත පිරිස සමග සාකච්ඡාවක් සිදුකිරීමට විපක්ෂයට අවස්ථාව ලබාදීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පියවර ගෙන තිබේ.
+President Ranil Wickremesinghe is discussing IMF proposals in a meeting at the Presidential Secretariat on Monday.
 
-ජනාධිපති මාධ්‍ය ඒකකය සඳහන් කරන්නේ අදාළ සාකච්ඡාව සඳහා පාර්ලිමේන්තුව පිළිගත් විපක්ෂයේ පක්ෂ නායකයින් වෙත අවස්ථාව සලසා දෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් එළැඹෙන සඳුදා (11) ජනාධිපති කාර්යාලයේදී රැස්වීමක් කැඳවා ඇති බවය.
+🟩
+
+President Ranil Wickremesinghe has taken steps to hold a discussion with the International Monetary Fund's proposals.
+
+President Ranil Wickremesinghe has summoned a meeting at the Presidential Secretariat on Monday (11) at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/bc4c52a8.json)
 
+[Extended Data](ext_articles/bc4c52a8.ext.json)
+
 ---
 
-### காஸாவில் தற்காலிக துறைமுகமொன்றை அமெரிக்கா நிர்மாணிக்கும்: பைடன்
+### The US will construct a temporary port in Gaza: Bidan
 
 *2024-03-08 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178234) · `ta`
 
-மனிதாபிமான உதவிப் பொருட்களை விநியோகிப்பற்காக காஸா கடற்கரையோரத்தில் துறைமுகம் ஒன்றை அமெரிக்கா நிர்மாணிக்கும் என ஜனாதிபதி ஜோ பைடன் தெரவித்துள்ளார்.
+US plans to build a temporary port in Gaza for humanitarian aid, with President Joe Biden urging Israel to increase expenses.
 
-காஸாவுக்கு மேலும் அதிகளவு விநியோங்களை இஸ்ரேல் அனுமதிக்க வேண்டும் எனவும் ஜனாதிபதி பைடன் கூறினார்.
+🟩
+
+President Joe Biden has announced that the US will construct a port along the Gaza coast for distributing humanitarian aid products.
+
+President Baidan also said that Israel should allow Gaza to allow more and more expenses.
 
 ◼️
 
 [Data](articles/e647a12c.json)
+
+[Extended Data](ext_articles/e647a12c.ext.json)
 
 ---
 
@@ -91,6 +131,8 @@ The review process kicked off on Thursday (March 07) with an opening meeting wit
 ...
 
 [Data](articles/77f62735.json)
+
+[Extended Data](ext_articles/77f62735.ext.json)
 
 ---
 
@@ -240,6 +282,8 @@ The plastic water bottles discarded by Sri Pada pilgrims were taken to the garba
 
 [Data](articles/9c7b02f9.json)
 
+[Extended Data](ext_articles/9c7b02f9.ext.json)
+
 ---
 
 ### Maskeliya council collects three tons of plastic bottles during Sri Pada season
@@ -334,21 +378,29 @@ We are urging the government to take appropriate action against the Nedungeni Po
 
 ---
 
-### දිවයිනේ ප්‍රථම වතාවට අලි රෝහලක්
+### An elephant hospital for the first time in the island
 
 *2024-03-08 09:36:58* · [`adalk`](https://www.ada.lk/picture_story/දිවයිනේ-ප්‍රථම-වතාවට-අලි-රෝහලක්/10-408490) · `si`
 
-දිවයිනේ ප්‍රථම වතාවට  හිලෑ  අලි ඇතුන් බෝ කර ගැනීම සඳහා අභිජනන මධ්‍යස්ථානයක් මෙන්ම හීලෑ අලි ඇතුන්ට  දේශීය හා බටහිර වෛද්‍ය ප්‍රතිකාර සිදුකරන පුද්ගලික රෝහලක් 07 දින විවෘත කිරීමට හීලෑ අලි ඇතුන්ගේ සංගමයේ සාමාජිකයින් පියවර ගනු ලැබීය.
+The Tame Elephants Association has opened the island's first private elephant hospital, focusing on treatment and breeding. Maharagama S. N. Tama Elephant Association's Roshan is leading this initiative, aiming to improve elephant care and breeding.
 
-මේ සඳහා මූලිකත්වය ගෙන ක්‍රියාකොට ඇත්තේ මහියංගණය ප්‍රදේශයේ දී  ග්‍රාමාරක්ෂක භටයකුගේ වෙඩි පහරකට ලක්ව තුවාල ලබා සිටි සීතා ඇතින්නගේ  හිමිකාරීත්වය දරන  මහරගම එස්. එන්. රොෂාන් මහතාගේ සංකල්පයකට අනුව බව හීලෑ අලි  ඇතුන්ගේ සංගමය කියයි
+🟩
 
-මෙම අවස්ථාවේදී මහියංගනයේදී වෙඩි වැදී  තුවාල ලබා සුව අතට පත් වූ සීතා ඇතින්න හබරණ ප්‍රදේශයේ මෙම රෝහලට  ගෙන්වා තිබුණු අතර ඇයගෙන් හීලෑ අලි පැටවුන් බෝ කිරීමට අභිජනනය කිරීමේ මංගල කටයුත්තද සිදුකිරීම විශේෂත්වයකි.
+Members of the Tame Elephants Association have been opened to open a private hospital with the first time in the island and a private hospital with a private hospital with tame elephants.
 
-ඒ සඳහා රාජා නමැති හස්තියෙක්  ගෙන්වා ඔවුන් ගේ පළමු ස්වභාවික එකතුවීමේ ක්‍රියාවලිය අභිජනන මධ්‍යස්ථානය ආරම්භ කිරීමත් සමඟ සිදු කිරීම විශේෂත්වයකි.
+The headship has been taken by the Maharagama S.. N. Tama Elephant Association says that according to the concept of Roshan
+
+The Sitha was taken to this hospital in Habarana to shoot at Mahiyanganaya and recovered from the Habarana.
+
+It is noteworthy that a Shraid of Raja to bring about their first natural collection process with the opening of the breeding center.
+
+In addition to treatment of the tame elephants, traditional elephant, Roshan, he is also happy to train the elephants who are being used in the island that they are able to start this place for the first time in the country.
 
 ...
 
 [Data](articles/f5c46f39.json)
+
+[Extended Data](ext_articles/f5c46f39.ext.json)
 
 ---
 
@@ -1076,7 +1128,7 @@ He said the Gazette pertaining to the restructuring of the Ceylon Electricity Bo
 
 From left : CWEIC Chairman Lord Marland and President Ranil Wickremesinghe
 
-From left :  State Minister of Investment Promotion Dilum Amunugama
+From left :  State Minister of Investment Promotion Dilum Amunugama and CWEIC Chairman Lord Marland
 
 Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland concluded a successful 3-day visit to Sri Lanka as part of a larger trip to South and South East Asia. The visit presented a significant opportunity to foster further ties between the Government, business sector and the CWEIC.
 
@@ -2155,23 +2207,5 @@ The incident occurred on March 6th when the Barbados-flagged Bulk Carrier MV Tru
 [Data](articles/30b24356.json)
 
 [Extended Data](ext_articles/30b24356.ext.json)
-
----
-
-### UNFPA Director urges action to safeguard women’s rights in post-pandemic Sri Lanka
-
-*2024-03-07 19:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-Director-urges-action-to-safeguard-womens-rights-in-post-pandemic-Sri-Lanka/108-278436) · `en`
-
-Sri Lanka, March 07 - Amidst the challenges of a post-pandemic world and economic uncertainties, the United Nations Population Fund (UNFPA) underscores the critical importance of protecting the rights and dignity of women and girls in Sri Lanka.
-
-During a recent three-day visit to the island nation, Pio Smith, the Asia-Pacific Regional Director of UNFPA, emphasized the urgent need for dedicated efforts towards the health, safety, and wellbeing of women and girls.
-
-In his discussions with key Sri Lankan officials, international partners, and diplomatic representatives, Mr. Smith reiterated UNFPA's commitment to supporting Sri Lanka's recovery journey. Gender equality and empowerment were highlighted as integral pillars for progress in the nation's development trajectory.
-
-...
-
-[Data](articles/323aa2ee.json)
-
-[Extended Data](ext_articles/323aa2ee.ext.json)
 
 ---

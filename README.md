@@ -1,70 +1,158 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 16:33:25**
+As of **2024-03-08 16:49:29**
 
 ## Newspaper Stats
 
-*Scraped **11,695** Articles*
+*Scraped **11,705** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 108
-bbccomsinhala | 137
+bbccomsinhala | 138
 dbsjeyarajcom | 178
 newsfirstlk | 363
-economynextcom | 608
+economynextcom | 614
 dailyftlk | 617
 islandlk | 627
 adalk | 994
 tamilmirrorlk | 1,413
-adaderanalk | 1,420
+adaderanalk | 1,422
 virakesarilk | 1,610
 dailymirrorlk | 1,783
-adaderanasinhalalk | 1,837
+adaderanasinhalalk | 1,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,687 (99.9%) of 11,695 articles have been extended.
+11,695 (99.9%) of 11,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### வெடுக்குநாறிமலையில் ஐஸ்கிறீம் வியாபாரியை கலைத்த பொலிஸார் ; பொதுமக்கள் குழப்பம்!
+### Advisory issued for rising temperatures in 5 districts
+
+*2024-03-08 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97823/advisory-issued-for-rising-temperatures-in-5-districts) · `en`
+
+The Meteorology Department has issued a heat Index Advisory for Saturday (March 09) for five districts in the country.
+
+Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution Level’ in parts of Ratnapura, Anuradhapura, Mannar, Vavuniya and Mullaitivu districts tomorrow.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
+
+Thus, members of the public have been advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They were also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-coloured clothing.
+
+...
+
+[Data](articles/ffe48f99.json)
+
+---
+
+### Sri Lanka to teach Japanese, Chinese, Korean in schools, but teachers in short supply
+
+*2024-03-08 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-teach-japanese-chinese-korean-in-schools-but-teachers-in-short-supply-153810/) · `en`
+
+ECONOMYNEXT- Sri Lanka wants to introduce more foreign languages to the school curriculum to make it easier for school leavers to get jobs, but there is a shortage of teachers, State Minister for Education, Aravindh Kumar, said.
+
+Sri Lankans are already seeking jobs in Japan and Korea where local language skills are a requirement.
+
+“We are planning on introducing foreign languages such as Japanese, Chinese and Korean in order to create jobs for local people,” Kumar said to reporters Friday.
+
+“When I met with the Japanese ambassador, he said he will give Sri Lankans jobs with a salary of 500,000 in Japan, however, they must know Japanese language.”
+
+Sri Lanka, however, does not have enough foreign language teachers.
+
+Sri Lanka has lost more than 5,000 teachers, after the latest currency collapse, according to reports.
+
+Sri Lankan teachers are paid low salaries. At Sri Lanka’s salary scales with depreciating rupee, it is not possible to recruit foreign teachers.
+
+...
+
+[Data](articles/d5c537fa.json)
+
+---
+
+### ගාලු පාරේ කොටසක් වැසෙයි
+
+*2024-03-08 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194296) · `si`
+
+ගාලු පාර, වැල්ලවත්ත, දුම්රියපොළ පාර ප්‍රදේශයෙන් ගිලා බැස්මකට ලක්ව ඇතැයි වාර්තා වේ.
+
+මේ හේතුවෙන් වැල්ලවත්ත ප්‍රදේශයෙන් මාර්ගය එක් මංතීරුවකට පමණක් සීමා කර තිබේ.
+
+ඒ අනුව බස් රථ වෙරළ පාරෙන් සහ කොළඹ සිට ගාල්ල බලා යන මංතීරුව භාවිතා කරමින් කොළඹට ගමන් කරන බව ද වාර්තා වේ.
+
+◼️
+
+[Data](articles/45f3724b.json)
+
+---
+
+### CAA Director Board resigns
+
+*2024-03-08 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97822/caa-director-board-resigns) · `en`
+
+The Board of Directors including the Chairman of the Consumer Affairs Authority (CAA) have resigned.
+
+Trade Minister Nalin Fernando mentioned that the 15-member Board of Directors including Shantha Niriella have resigned in this manner.
+
+Reportedly, they have taken this step in compliance with a notification made by the minister.
+
+When inquired by Ada Derana, Minister Fernando said that accordingly the new board of directors would be appointed on Monday.
+
+◼️
+
+[Data](articles/0695e42d.json)
+
+---
+
+### Police dissolved the ice cream merchantThe public is confused!
 
 *2024-03-08 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178257) · `ta`
 
-வெடுக்குநாறிமலையில் ஐஸ்கிறீம் வியாபாரத்தில் ஈடுபட்ட வியாபாரியினை பொலிஸார் கலைத்தமையால் ஆலய வளாகத்தில் குழப்பநிலை ஏற்பட்டது.
+Police dissolved ice cream merchant at Vettukkanarimalai temple, causing confusion and inconvenience for worshippers, including discomfort without water. A dealer removed the temple premises, demanding the police not sell, leading to public-police confusion.
 
-வெடுக்குநாறிமலையில் இன்று லெள்ளிக்கிழமை சிவராத்திரி வழிபாடுகளை மேற்கொள்ளச் சென்ற பொதுமக்களுக்கு பொலிஸாரால் பல்வேறு அசௌகரியங்கள் ஏற்படுத்தப்பட்டது.
+🟩
 
-இதனால் 5 கிலோ மீற்றர்கள் நடந்துசென்ற பொதுமக்கள் நீர் இன்றி அசௌகரியத்தை எதிர்கொண்டனர்.
+The trader of the ice cream business in Vettukkanarimalai caused confusion in the temple premises due to the dissolution of the police.
 
-இதேவேளை ஆலய வளாகத்தில் ஐஸ் கிறீம் வியாபாரத்தில் ஈடுபட்ட வியாபாரி ஒருவரை பொலிஸார் விற்பனையில் ஈடுபட வேண்டாம் என தெரிவித்து ஆலய வளாகத்தை விட்டு அகற்றினர். இதனால்  பொதுமக்களுக்கும் பொலிஸாருக்கும் இடையில் குழப்பநிலை ஏற்பட்டது.
+Various inconveniences were created by the police for the public who went to worship the Shivaratri worship at Vettu Nirimalai today.
+
+The public, who walked 5 kilometers, faced discomfort without water.
+
+Meanwhile, a dealer involved in the ice cream business in the temple premises removed the temple premises demanding that the police not be selling.. This caused confusion between the public and the police.
 
 ◼️
 
 [Data](articles/474faeaa.json)
 
+[Extended Data](ext_articles/474faeaa.ext.json)
+
 ---
 
-### நைஜீரியாவில் 200 மாணவர்கள் ஆயுதக்குழுவினால் கடத்தல்
+### Abduction of 200 students in Nigeria
 
 *2024-03-08 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178262) · `ta`
 
-நைஜீரியாவில் ஆயுதக்குழுவொன்றினால் இருநூற்றுக்கும் அதிகமான மாணவர்கள் கடத்திச் செல்லப்பட்டுள்ளனர் என ஆசிரியர் ஒருவரும்  உள்ளூர் மக்களும் தெரிவித்துள்ளனர்.
+In Kaduna, Nigeria, over 200 students were abducted by an armed group on Thursday. Local officials are investigating the exact number.
 
-நைஜீரியாவின் வடமேற்குப் பிராந்தியத்திலுள்ள கதுனா மாநிலத்தில் நேற்று வியாழக்கிழமை இச்சம்பவம் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-கதுனா மாநிலத்தின் உள்ளூராட்சி அதிகாரிகள் இச்சம்பவத்தை உறுதிப்படுத்தியுள்ளனர். எனினும், எத்தனை பேர் கடத்தப்பட்டனர் என்பது குறித்து ஆராய்ந்து வருவதாக அவர்கள் தெரிவித்துள்ளனர்.
+More than two hundred students have been abducted by an armed group in Nigeria, a teacher and local people said.
 
-கடத்தப்பட்டவர்களின் எண்ணிக்கை 280 இற்கும் அதிகம் என உள்ளூர்வாசியான முஹம்மத் ஆதம் தெரிவித்துள்ளார்.
+The incident took place on Thursday in the state of Kaduna in the northwestern region of Nigeria.
+
+Local government officials of Kaduna State have confirmed the incident. However, they said they were investigating how many were abducted.
+
+Local resident Muhammad Adam said the number of kidnappers is more than 280.
 
 ◼️
 
 [Data](articles/022b79b0.json)
+
+[Extended Data](ext_articles/022b79b0.ext.json)
 
 ---
 
@@ -84,41 +172,57 @@ The female suspect has been handed over to the Valaichchenai Police for further 
 
 [Data](articles/722ac447.json)
 
+[Extended Data](ext_articles/722ac447.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාස භංගයට අත්සන් කළා
+### Signed the no confidence against the speaker
 
 *2024-03-08 15:55:25* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකට-එරෙහි-විශ්වාස-භංගයට-අත්සන්-කළා/11-408497) · `si`
 
-කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට තමන් අත්සන් නොකළ බවට පැතිර යන කතාව ස්.ජ.බ. පාර්ලිමේන්තු මන්ත්‍රී ඉරාන් වික්‍රමරත්න තරයේ ප්‍රතික්ෂේප කරයි.
+Iran Wickramaratne denies signing a no-confidence motion against the Speaker, claiming he was impartial and asked questions on behalf of the Hon. The incident occurred at the Speaker's Office, Ja. J., and involved the 47th Member of Parliament.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ ස්ථාවර නියෝගවල ප්‍රතිපාදන උල්ලංඝනය පක්ෂපාතිත්වයෙන් හැසිරීම සම්බන්ධයෙන් කථානායකවරයාට එරෙහිව සජීවීව පාර්ලිමේන්තුවේදී ප්‍රශ්න කිරීම සම්බන්ධයෙන් තමන් ඉදිරියෙන්ම සිටින බව ඔහු පැවසීය.
+🟩
 
-කථානායක කාර්යාලයේදී තමන් විශ්වාස භංග යෝජනාවට අත්සන් කළේ ජා. ජ. බ වේගයේ පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතාට පසුව ළඟ 46 වැනි මන්ත්‍රීවරයා ලෙස බවත්, තමා එම යොජනාවට අත්සන් නොකළ බවට වූ කතාව සාමාන්‍ය ජනතාව අතර ස.ජ.බ. ය තුළ බෙදීමක් ඇති බවට වැරදි අවබෝධයක් ඇති කිරීමේ ද්වේෂසහගත චේතනාවෙන් ප්‍රචාරය කර ඇති බවත් ඔහු චෝදනා කළේය.
+The story of the no-confidence motion against the Speaker. Parliamentarian Iran Wickramaratne strongly denies.
 
-පාර්ලිමේන්තුවේදී අපක්ෂපාතීව කටයුතු කළ යුතු කථානායකවරයා විසින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝනය කිරීම සම්බන්ධයෙන් පසුගියදා කථානායකවරයාගෙන් අසන ලද ප්‍රශ්නවලට තවමත් පිළිතුරු බලාපොරොත්තුවෙන් සිටින බවද ඉරාන් වික්‍රමරත්න වැඩිදුරටත් පැහැදිලි කළේය.
+He said that he was in the forefront of questioning Parliament on behalf of the Hon.
+
+He was signed the no-confidence motion at the Speaker's Office, Ja. J. The speech is the 47th Member of Rice and the story of the general public.. He accused the misunderstanding of misconceptions that there was a division.
+
+Iran Wickramaratne further explained that the questions asked by the Speaker of Parliament to act impartially in Parliament.
 
 ◼️
 
 [Data](articles/199d0ac2.json)
 
+[Extended Data](ext_articles/199d0ac2.ext.json)
+
 ---
 
-### මාස තුනට ශ්‍රී පාදයේ ප්ලාස්ටික් වතුර බෝතල් ටොන් තුනක් දාලා ගිහින්
+### Three months of plastic water bottles of the three months have left three tons of water
 
 *2024-03-08 15:51:03* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනට-ශ්‍රී-පාදයේ-ප්ලාස්ටික්-වතුර-බෝතල්-ටොන්-තුනක්-දාලා-ගිහින්/11-408496) · `si`
 
-2023-2024 ශ්‍රි පාද වන්දනා වාරය ආරම්භ කර මාස තුනක් වැනි කෙටි කාලයක් තුල නල්ලතන්නිය සිට ශ්‍රි පාද උඩ මළුව දක්වා මාර්ගයේ වන්දනාකරුවන් විසින් බැහැර කර තිබු ප්ලාස්ටික් වතුර බෝතල් ටොන් තුනක් පමණ එක්රැස් කර ඇති බව මස්කෙලිය ප්‍රාදේශිය සභාවේ ලේකම් එස්.රාජවීරන් මහතා පැවසිය.
+In three months, pilgrims from Nallathaniya to Sri Dallawaway left three tons of plastic water bottles. The Maskeliya Pradeshiya Sabha Secretary Sarajavaren announced that these bottles will be recycled at Nallathanna's center, despite extreme dry weather affecting water supply.
 
-එම මාර්ගයේ ගමන් ගන්නා වන්දනාකරුවන් රැගෙන යන ප්ලාස්ටික් වතුර බෝතල් බැහැර කිරිමට කසල බදුන් සවි කර ඇති බවත්, ඇතැම් වන්දනාකරුවන් ප්ලාස්ටික් වතුර බෝතල් කසල බදුන් වලට බැහැර කරන අතර , තවත් වන්දනාකරුවන් පිරිසක් ප්ලාස්ටික් වතුර බෝතල් පරිසරයට මුදා හරින බවයි ලේකම්වරයා කියා සිටියේ.
+🟩
 
-තවද වන්දනාකරුවන් රැගෙන යන පිසු ආහාර ද්‍රව්‍ය අනුභව කර ඉන් ඉවත ලන කැලි කසල වර්ග කර කැලි කසල බැහැර කිරිමට සකස් කර ඇති බදුන් වලට බැහැර කරන ලෙසට උපදෙස් ලබා දි තිබුණද එම උපදෙස් ඇතැම් වන්දනාකරුවන් විසින් නොපිලිපදින බවයි ලේකම්වරයා කියා සිටින්නේ.
+2023-2024 The Maskeliya Pradeshiya Sabha Secretary Sarajavaren said that the pilgrims have been excluded from the Nallathaniya to Sri Dallawaway to the Sri Padawala court in three months.
 
-ශ්‍රි පාද වන්දනාකරුවන් විසින් බැහැර කර තිබු ප්ලාස්ටික් වතුර බෝතල් නල්ලතන්නියේ කැලි කසල ප්‍රතිචක්‍රිකරණ මධ්‍යස්ථානය වෙත රැගෙන විත් එම ප්ලාස්ටික් වතුර බෝතල්  පෞද්ගලික අංශය වෙත අලෙවි කරන බවද ලේකම්වරයා පැවසිය.
+The Secretary stated that some pilgrims have been excluded to dispose of plastic water bottles carrying pilgrims.
 
-...
+The Secretary claims that the pilgrims have been instructed to eaten the pilgrims and disposal the garbage prepared and disposal of calves.
+
+The Secretary said that the plastic water bottles excluded by Sri Pind pilgrims would be taken to the recycling center of Nallathanna.
+
+The Secretary of the Maskeliya Pradeshiya Sabha said that with the extreme dry weather, the Water Supply of the Maskeliya Pradeshiya Sabha said.
+
+◼️
 
 [Data](articles/ecadb4e7.json)
+
+[Extended Data](ext_articles/ecadb4e7.ext.json)
 
 ---
 
@@ -143,6 +247,28 @@ Chilaw Magistrate Shashitha De Silva who held the preliminary magesterial inquir
 ◼️
 
 [Data](articles/f0e8b2ea.json)
+
+[Extended Data](ext_articles/f0e8b2ea.ext.json)
+
+---
+
+### Sri Lanka needs to work on its morals before fixing economy: NPP
+
+*2024-03-08 15:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-work-on-its-morals-before-fixing-economy-npp-153809/) · `en`
+
+ECONOMYNEXT — Sri Lanka needs to work on its morality before it solves its economic issues, opposition National People’s Power (NPP) legislator Harini Amarasuriya said.
+
+“We have a government that is utterly unconcerned with what the people want. They’re behaving now as if the people are their enemy,” the MP said speaking at an event.
+
+“They’re confronted with a public that does not accept them or listen to them. They’re acting with a feeling that the people need to be suppressed,” she said.
+
+The NPP is a leftist formation led and effectively controlled by the formerly revolutionary Marxist-Leninist Janatha Vimukthi Peramuna (JVP).
+
+The government as well as MPs from the main opposition Samagi Jana Balawegaya (SJB) have criticised the NPP for being vague about its economic policy and how it plans to steer Sri Lanka through its ongoing recovery and reform process.
+
+...
+
+[Data](articles/4ffdfd0c.json)
 
 ---
 
@@ -316,6 +442,8 @@ A ceremony organized by the UNP women’s wing 'Lak Wanitha Peramuna' to mark In
 
 [Data](articles/18d878bf.json)
 
+[Extended Data](ext_articles/18d878bf.ext.json)
+
 ---
 
 ### A 23 year old woman arrested with drug
@@ -395,6 +523,24 @@ An official of the Ministry of Trade, Commerce and Food Protection - "Prices wer
 [Data](articles/b64ca528.json)
 
 [Extended Data](ext_articles/b64ca528.ext.json)
+
+---
+
+### Sri Lanka president invites party leaders to IMF review meeting
+
+*2024-03-08 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-party-leaders-to-imf-review-meeting-153804/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has convened a meeting with leaders of ‘accepted’ political parties to discuss the proposals put forth by the International Monetary Fund (IMF) delegation.
+
+Leader of the Opposition Sajith Premadasa, leader of the National People’s Power (NPP) Anura Kumara Dissanayake, and Tamil National Alliance (TNA) leader S Sridharan have been invited to participate in these deliberations, the president’s media division said in a statement.
+
+The meeting will be held at the Presidential Secretariat on Monday (11), with an open invitation extended to interested individuals to join alongside the invited leaders.
+
+The IMF second review commenced on Thursday at the Finance Ministry. Wickremesinghe met Peter Breuer, Senior Mission Chief for Sri Lanka who said that the IMF program is “exhibiting promising signs of efficacy, translating into tangible outcomes”.
+
+...
+
+[Data](articles/7a8dbc30.json)
 
 ---
 
@@ -580,6 +726,20 @@ Accordingly, President Ranil Wickremesinghe has called for a meeting at the Pres
 
 ---
 
+### Sri Lanka opposition MP claims president was responsible for predecessor’s exit
+
+*2024-03-08 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-mp-claims-president-was-responsible-for-predecessors-exit-153794/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe was responsible for his predecessor Gotabaya Rajapaksa’s exit since he could’ve contained the Aragalaya protests and resolved the crisis while remaining Prime Minister if he wanted to, opposition MP Ashok Abeysinghe said.
+
+Responding to questions raised by a YouTube channel on Thursday March 07, Abeysinghe said Rajapaksa’s recent “tell-all” book about an alleged conspiracy to oust him should’ve made references to what the main opposition Samagi Jana Balawegaya (SJB) claimed was Wickermesinghe’s decisive role in the former president’s unceremonious departure.
+
+...
+
+[Data](articles/8313ccb8.json)
+
+---
+
 ### Murugan asks for the opportunity to go to England
 
 *2024-03-08 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194288) · `si`
@@ -733,6 +893,28 @@ The President’s message for ‘Maha Shivaratri’ further read: “On this aus
 [Data](articles/c6bb23c0.json)
 
 [Extended Data](ext_articles/c6bb23c0.ext.json)
+
+---
+
+### Sri Lanka’s Softlogic seeks Rs10bn in equity
+
+*2024-03-08 11:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-seeks-rs10bn-in-equity-153785/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Softlogic Holdings Plc is planning to raise 10 billion rupees in equity including through a rights issue to shareholders, a stock exchange filing said.
+
+Directors of Softlogic have decided to issue 298,135,802 ordinary shares of the company to raise 2,981,358,020 rupees, and 178,881,481 warrants in the ratio of 3 warrants for every 5 rights shares, to raise 1,878,255,550 rupees.
+
+The balance 5,140,386,429 rupees is to be raised in “in a manner to be decided by the Board of Directors of the Company upon completion of aforesaid”.
+
+The current stated capital of the company is 12,119,234,553, and the public holding percentage of the company is 13.09 percent, according to the filing.
+
+The group which has interests in retail, leisure, healthcare, and financial services is looking to sell down assets and cut debt, Chairman Ashok Pathirage told shareholders November last year. (Colombo/Mar8/2024)
+
+Sri Lanka’s Softlogic looking to cut debt, sell down subsidiaries
+
+◼️
+
+[Data](articles/26ce7115.json)
 
 ---
 
@@ -950,6 +1132,28 @@ The bench said it would refer the case to the chief justice, to be posted before
 
 ---
 
+### 'අනේ බුදු බණ එක්ක ජීවත් වෙච්ච දරුවා මගේ. මොනවා හිතෙන්න ඇද්ද?'
+
+*2024-03-08 10:49:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyezp7w07d4o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, සිය දියණිය සහ ඇගේ දරුවන් ඇතුළු පිරිස අහිමි වීම ගැන මිය ගිය කාන්තාවගේ මව වූ ජයන්ති ඒකනායක BBC සිංහල සේවයට අදහස් පළ කළාය.
+
+'අනේ බුදු බණ එක්ක ජීවත් වෙච්ච දරුවා මගේ. මොනවා හිතෙන්න ඇද්ද?'
+
+කැනඩාවේ, ඔටාවාහි දී කුඩා දරුවන් සිව් දෙනෙකු ඇතුළු ශ්‍රී ලාංකික පවුලක සාමාජිකයින් හය දෙනෙකු ඝාතනයට ලක් වීම ගැන ජාත්‍යන්තරයේ ද අවදානය යොමුව තිබේ.
+
+සිය දියණිය සහ ඇගේ දරුවන් ඇතුළු පිරිස අහිමි වීම ගැන මිය ගිය කාන්තාවගේ මව වූ ජයන්ති ඒකනායක BBC සිංහල සේවයට අදහස් පළ කළාය.
+
+''අනේ මගේ කෙල්ල, බුදු බණ එක්ක ජිවත් වෙච්ච දරුවා මගේ. මොනවා හිතෙන්න ඇද්ද ඒ වෙලාවේ. මේ ගේ දොර ගැන කියන කොටත් කියනවා මට නම් මුකුත් එපා අයියට ඔක්කොම දෙන්න කියලා. අපි අද හිටියා, හෙට ගියා. අපි මැරෙන මොහොත කියන්න බෑ අම්මා. එයා නිතරම එහෙම කිවුවා.'' යනුවෙන් ජයන්ති ඒකනායක පැවසුවා ය.
+
+මෙම ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ල වී ඇති එම පවුල සමඟ ජීවත් වූ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/dd88e433.json)
+
+---
+
 ### Struggle is abandoned as the statue of Buddha is removed in Chiripuram - Sukash
 
 *2024-03-08 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178230) · `ta`
@@ -1018,29 +1222,39 @@ The police said that steps have been taken to produce in court after the investi
 
 ---
 
-### රම්‍යා වනිගසේකර: දැවැන්ත හඬ පෞරුෂය සහ විශිෂ්ට රංග පෞරුෂය නිවී යයි
+### Ramya Wanigasekara: The massive voice personality and excellent performance go out
 
 *2024-03-08 10:27:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2xvgp4kvl4o) · `si`
 
-රම්‍යා වනිගසේකර: දැවැන්ත හඬ පෞරුෂය සහ විශිෂ්ට රංග පෞරුෂය නිවී යයි
+Ramya Wanigasekara, a renowned Sri Lankan actress and radio personality, passed away. Born on July 17, 1950, in Kegalle, she began her career in stage drama and television, gaining fame for her roles in "Kelani Balama" and "Ranghara Mendis." She also received numerous awards for her contributions to the arts.
 
-දැවැන්ත හඬ පෞරුෂයකින් මීට දශක කිහිපයකට පෙර ශ්‍රී ලාංකික ගුවන් විදුලි ශ්‍රාවකයින්ට ප්‍රවෘත්ති ඉදරිපත් කළ, රම්‍යා වනිගසේකරගේ හඬ සිකුරාදා (මාර්තු 08) පෙරවරුවේ නිවී ගියේ ය.
+🟩
 
-කලක් අසනීප තත්ත්වයෙන් පසුවූ ඇය අභාවප්‍රාප්ත වූයේ, කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ය.
+Ramya Wanigasekara: The massive voice personality and excellent performance go out
 
-චරිතාංග රංගන ශිල්පිනියක, ජ්‍යෙෂ්ඨ ප්‍රවෘත්ති නිවේදිකාවක සහ පසුබිම් ගායිකාවක ලෙස ද දැවැන්ත පෞරුෂයක් හිමි කරගෙන සිටි ඇය පිළිබඳ මතකාවර්ජනයකි, මේ.
+Ramya Wanigasekara's voice was extinguished by the Sri Lankan radio prisons for a massive voice personality.
 
-කෑගල්ල, කොටියාකුඹුර ප්‍රදේශයේදී 1950 ජූලි මස 17 වන දා රම්‍ය වනිගසේකර උපත ලැබුවේ, දරුවන් 7 දෙනෙකුගෙන් යුත් පවුලේ පස් වැන්නා ලෙස ය.
+She passed away from the Colombo National Hospital.
 
-ඇයගේ පියා හෙට්ටිමුල්ල ප්‍රදේශයේ පදිංචිව සිටි වතු අධිකාරිවරයෙකු ව‍ූ අතර, මව ඇහැලියගොඩ ප්‍රදේශයේ උපන් කාන්තාවකි.
+It is a huge personality in a huge personality as a synagogue actor, a senior news announcer and background.
 
-රම්‍යා වනිගසේකර සිය ප්‍රාථමික අධ්‍යාපනය ආරම්භ කළේ, කොටියාකුඹුර අම්පේ මහා විද්‍යාලයෙනි.
+Wanigasekara was born on 17 July 17 July 1950 in the Kotiyakumbura area in Kegalle.
 
-ඉන්පසු පාසල් කිහිපයකින් ම අධ්‍යාපනය ලැබූ ඇය, ද්විතීක අධ්‍යාපනය අවසන් කළේ, රුවන්වැල්ල රාජකීය විද්‍යාලයෙනි.
+Her father was an estate superintendent of the Hettimulla and a woman born in Eheliyagoda area.
+
+Ramya Wanigasekara began his primary education at the Hotel College, Kotiyakumbura Maha Vidyalaya.
+
+She was then educated in several schools, the secondary education was completed by Royal College, Ruwanwella.
+
+In 1974, she first joined the stage drama drama, as Chandah Gunatilleke, manufactured by Chanday, as a background singer.
+
+She then served as a background for many stage plays produced by Jayatissa Alahakoon.
 
 ...
 
 [Data](articles/64738329.json)
+
+[Extended Data](ext_articles/64738329.ext.json)
 
 ---
 
@@ -1738,6 +1952,30 @@ There have been reports that Adani had proposed to sell power at 14 US cents or 
 
 ---
 
+### Sri Lanka negotiating power purchase price with India’s Adani: Minister
+
+*2024-03-08 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-negotiating-power-purchase-price-with-indias-adani-minister-153735/) · `en`
+
+ECONOMYNEXT – Sri Lanka is still negotiating the power purchase price with India’s Adani group, Energy Minister Kanchana Wijesekera said, amid concerns about the government procurement without tender.
+
+Adani Group had proposed to sell a unit of wind power at 9.7 US cents per kiloWatt hour.
+
+That is about 30 to 31 Sri Lanka rupees at our exchange rates,” Minister Wijesekera said. “During the evaluation it has been reduced further to below 30 rupees. That price also we have not yet agreed, the evaluation is still ongoing.”
+
+The price will apply to plants in Mannar and Pooneryn which are coming as a single project.
+
+Minister Wijesekera told parliament a day earlier that a price of 27.65 rupees a unit (8.97 US cents) was being discussed.
+
+Minister Wijesekera said claims made that Adani had proposed to sell power at 50 rupees was not correct.
+
+There have been reports that Adani had proposed to sell power at 14 US cents or 50 rupees at an exchange rate of 360 rupees.
+
+...
+
+[Data](articles/e63452af.json)
+
+---
+
 ### Evening thundershowers possible in some areas today
 
 *2024-03-08 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97810/evening-thundershowers-possible-in-some-areas-today) · `en`
@@ -2009,239 +2247,5 @@ Use of technology in education has notably enhanced productivity and resilience
 [Data](articles/984ce4dd.json)
 
 [Extended Data](ext_articles/984ce4dd.ext.json)
-
----
-
-### Electricity Act revision underway sends Bill for legal review: Kanchana
-
-*2024-03-08 05:36:53* · [`dailyftlk`](https://www.ft.lk/news/Electricity-Act-revision-underway-sends-Bill-for-legal-review-Kanchana/56-759282) · `en`
-
-Aims to present Bill to Parliament next month after Cabinet approval
-
-Expresses willingness to engage stakeholders in discussions to further reduce fuel prices via transparent pricing formula
-
-Heavy rainfall alleviates power generation challenges, partially offsetting 2022 loss of over Rs. 270 b
-
-Ministry aims to integrate Siambalanduwa project into national grid by second half of 2025, enhancing capacity by 100 MW at an affordable rate
-
-Several large-scale wind and solar projects in pipeline, with plans to release tender notice for a 50 MW in Mannar next week
-
-Power and Energy Minister Kanchana Wijesekera yesterday announced that the revised Electricity Act has been sent to the Legal Draftsman’s Department for review.
-
-Speaking to the media at the Presidential Media Centre (PMC) anticipates presenting it to Parliament for approval next month following Cabinet approval.
-
-He said the Gazette pertaining to the restructuring of the Ceylon Electricity Board (CEB) was published last December.
-
-...
-
-[Data](articles/69c91404.json)
-
-[Extended Data](ext_articles/69c91404.ext.json)
-
----
-
-### Commonwealth Enterprise and Investment Council Chie completes successful visit to SL
-
-*2024-03-08 05:33:07* · [`dailyftlk`](https://www.ft.lk/business/Commonwealth-Enterprise-and-Investment-Council-Chie-completes-successful-visit-to-SL/34-759281) · `en`
-
-From left : CWEIC Chairman Lord Marland and President Ranil Wickremesinghe
-
-From left :  State Minister of Investment Promotion Dilum Amunugama and CWEIC Chairman Lord Marland
-
-Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland concluded a successful 3-day visit to Sri Lanka as part of a larger trip to South and South East Asia. The visit presented a significant opportunity to foster further ties between the Government, business sector and the CWEIC.
-
-...
-
-[Data](articles/61f4ff60.json)
-
-[Extended Data](ext_articles/61f4ff60.ext.json)
-
----
-
-### Former female MPs felicitated in Parliament ahead of International Women’s Day 2024
-
-*2024-03-08 05:29:44* · [`dailyftlk`](https://www.ft.lk/news/Former-female-MPs-felicitated-in-Parliament-ahead-of-International-Women-s-Day-2024/56-759280) · `en`
-
-Parliament unveils special photo wall with photographs of all women MPs from 1931 to date
-
-Former female Parliame-ntarians were felicitated during a special felicitation program organised by Women Parliamentarians’ Caucus, held yesterday in Parliament ahead of the International Women’s Day 2024.
-
-The event was held under the patronage of Speaker Mahinda Yapa Abeywardena and several dignitaries including Prime Minister Dinesh Gunawardena, leader of the Opposition Sajith Premadasa, Chair of the Women Parliamentarians’ Caucus (Dr.) Sudarshini Fernandopulle, Acting Secretary General of Parliament Chaminda Kularatne participated in this event.
-
-The program was organised under the theme “Equity and equality for her”.
-
-...
-
-[Data](articles/cd5d57e7.json)
-
-[Extended Data](ext_articles/cd5d57e7.ext.json)
-
----
-
-### Speaker reveals MPs appointed to Parliamentary committees
-
-*2024-03-08 05:28:27* · [`dailyftlk`](https://www.ft.lk/news/Speaker-reveals-MPs-appointed-to-Parliamentary-committees/56-759279) · `en`
-
-Speaker of the House Mahinda Yapa Abeywardana revealed the lists of members appointed to 36 committees for the fifth session of the ninth Parliament.
-
-The appointments were made in accordance with the motions approved by Parliament on 9 February.
-
-Ministerial Consultative Committee on Finance, Economic Stabilisation and National Policies
-
-Ministerial Consultative Committee on Women, Child Affairs and Social Empowerment
-
-Ministerial Consultative Committee on Justice, Prisons Affairs and Constitutional Reforms
-
-Ministerial Consultative Committee on Water Supply and Estate Infrastructure Development
-
-◼️
-
-[Data](articles/8f26acb9.json)
-
-[Extended Data](ext_articles/8f26acb9.ext.json)
-
----
-
-### KIST launches new squeezable bottles for its sauce range
-
-*2024-03-08 05:28:00* · [`islandlk`](http://island.lk/kist-launches-new-squeezable-bottles-for-its-sauce-range/) · `en`
-
-Cargills Food & Beverages Limited, renowned for producing a wide range of food and beverages under the trusted Sri Lankan brand KIST, is launching an exotic sauce collection in an easy-to-use squeezable bottle named ‘KIST Squeeasy Buddy.’ This collection embodies the concept of a culinary companion, designed to support day-to-day cooking needs.
-
-The introduction of this range confirms that KIST is a versatile sauce brand catering to the needs of today’s customers, including travelers, home chefs, foodies, gourmet food enthusiasts, and party mavens. Known for its popular regular sauce range, featuring classics like Tomato, Chilli, Hot Chilli, Sweet & Sour, and Garlic, KIST is expanding its horizons with this new sauce line.
-
-The range encompasses various sauce categories, such as cooking sauces, dressings, dips, and specially crafted sauces for meat dishes.
-
-...
-
-[Data](articles/03caaaff.json)
-
-[Extended Data](ext_articles/03caaaff.ext.json)
-
----
-
-### Commonwealth Enterprise and Investment Council chairman Lord Marland’s Sri Lanka visit a resounding success
-
-*2024-03-08 05:28:00* · [`islandlk`](http://island.lk/commonwealth-enterprise-and-investment-council-chairman-lord-marlands-sri-lanka-visit-a-resounding-success/) · `en`
-
-Commonwealth Enterprise and Investment Council (CWEIC) Chairman Lord Marland concluded a successful 3-day visit to Sri Lanka as part of a larger trip to South and South East Asia. The visit presented a significant opportunity to foster further ties between the government, business sector, and the CWEIC.
-
-CWEIC is a commercial, not-for-profit membership organisation with an official mandate from the Commonwealth Heads of Government to facilitate trade and investment throughout the 56 Commonwealth member nations. CWEIC has multiple Strategic Partners (members) in Sri Lanka including Port City Colombo, Capital Maharaja Group, Hypower Engineering International, and LOLC Holdings from the Private sector. In 2023, the Government of Sri Lanka rejoined as a Strategic Partner. Lord Marland’s visit showcased promising opportunities for international investors, particularly in Sri Lanka’s vibrant hospitality, energy, and financial service sectors.
-
-...
-
-[Data](articles/7093ca1d.json)
-
-[Extended Data](ext_articles/7093ca1d.ext.json)
-
----
-
-### Sri Lankan family, including four children, is 'mass murder' in Canada
-
-*2024-03-08 04:40:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c80kqvgw1qdo) · `si`
-
-A Sri Lankan family, including four children, was killed in Canada. The 19-year-old accused, living with the family, was arrested. Ottawa Mayor described it as a "significant tragedy."
-
-🟩
-
-Sri Lankan family, including four children, is 'mass murder' in Canada
-
-The Canadian police say that the deaths of a Sri Lankan family, including four children, including four children.
-
-Police say that the victims have recently arrived in Canada and the youngest youngerly from the victims.
-
-The murder had been accused of a 19-year-old student who lived with the family.
-
-"This is a futility violence," this is a futility violence, "said Thursday (yesterday).
-
-Police officers responded to emergency calls on Wednesday in the State of Ottawa, Ottawan.
-
-Eric Stabs said that his officials received their officials have been identified soon and he was arrested without any attempts.
-
-Later, officers entered the house and found victims, and it includes the mother, her four children, and who lived with the family.
-
-It contains nothing here. Play Video, "Ottawa Mayor" - OTTAWA DIFFICULT TO PROVINCE WOME WOME WOME HAIR AGAIN THE MONTAGE WORLD HAVE BEENGRACTIVE IN THE HAVE FROM HAVE HAVEAs well as.
-
-...
-
-[Data](articles/37463290.json)
-
-[Extended Data](ext_articles/37463290.ext.json)
-
----
-
-### The Electricity Board Bill will be tabled in April
-
-*2024-03-08 04:36:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபைச்-சட்டமூலம்-ஏப்ரலில்-சமர்பிக்கப்படும்/175-334373) · `ta`
-
-The Electricity Board Bill, amended with 46 changes, will be approved by the Attorney General and presented to Parliament in April, according to Power and Energy Minister Kanjana Wijesekera.
-
-🟩
-
-The Amendment Electricity Board Bill has been sent to the Attorney General's Department for approval and the approval of the Cabinet will be presented in Parliament in April, said Power and Energy Minister Kanjana Wijesekera.
-
-The Minister said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-The Gazette on the Reorganization of the Electricity Board was released last December. Accordingly, the shortcomings and changes in the new law pointed out by the appropriate parties, political parties and trade unions. A total of 46 amendments to this has been sent to the Attorney General's Department for approval.
-
-He said that the Cabinet would subsequently be presented to Parliament in April with the approval of the Cabinet. (A)
-
-◼️
-
-[Data](articles/8bfb5bbe.json)
-
-[Extended Data](ext_articles/8bfb5bbe.ext.json)
-
----
-
-### IMF for Sri Lanka's dedication. Appreciate
-
-*2024-03-08 04:30:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அர்ப்பணிப்புக்கு-ஐ-எம்-எப்-பாராட்டு/175-334372) · `ta`
-
-Peter Brouver, IMF Chairman, praises Sri Lanka's firm commitment to an IMF project, led by President Ranil Wickremesinghe. The government's economic recovery plan is progressing, with joint efforts between Sri Lanka and the IMF highlighted. Discussions focused on financial stability, structural restructuring, and future orientation.
-
-🟩
-
-"We are praising the Sri Lankan government's firm commitment to implementing the project in partnership with the International Monetary Fund," said Peter Brouver, Chairman of the International Monetary Fund.
-
-He was speaking at the meeting with President Ranil Wickremesinghe at the Ministry of Finance yesterday.
-
-Peter Brouver pointed out that Sri Lanka has been implementing a program with the International Monetary Fund.
-
-He said that it is a pleasure to re -strengthen the economy of Sri Lanka and congratulate President Ranil Wickremesinghe's dedication.
-
-President Ranil Wickremesinghe pointed out that the government's plan to recover the country from the economic downturn is being successfully implemented.
-
-The President also pointed out that the recognition of Sri Lanka's progress is emphasizing the accepted joint effort to achieve economic growth between Sri Lanka and the International Monetary Fund.
-
-...
-
-[Data](articles/74976959.json)
-
-[Extended Data](ext_articles/74976959.ext.json)
-
----
-
-### Can't confront the conspiracies
-
-*2024-03-08 04:23:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதிகளை-எதிர்கொள்ள-முடியாமற்போனது/175-334371) · `ta`
-
-Gotabhaya Rajapakse accuses international powers and domestic parties of orchestrating violent protests to oust him from presidency, claiming he resigned to end political conspiracy. His book, 'Conspiracy to Remove Me from the President', has been a bestseller since its release.
-
-🟩
-
-Former President Gotabhaya Rajapakse said in his book yesterday that the international powers and a few domestic parties have set up violent protests and destroying activities to remove me from the presidency.
-
-The book, titled 'Conspiracy to Remove Me from the President', has been sold since yesterday morning.
-
-Gotabhaya Rajapakse said that he knew that the zealous international powers and a few domestic parties would not stop their actions until they were removed.
-
-In his book, he also stated that he had resigned to end the political conspiracy and destructive act to impact the people.. (A)
-
-◼️
-
-[Data](articles/2d2c465c.json)
-
-[Extended Data](ext_articles/2d2c465c.ext.json)
 
 ---

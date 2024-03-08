@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 19:33:14**
+As of **2024-03-08 19:50:51**
 
 ## Newspaper Stats
 
-*Scraped **11,733** Articles*
+*Scraped **11,736** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 110
-bbccomsinhala | 138
+bbccomsinhala | 139
 dbsjeyarajcom | 178
 newsfirstlk | 363
 economynextcom | 616
@@ -19,40 +19,70 @@ adalk | 995
 tamilmirrorlk | 1,419
 adaderanalk | 1,425
 virakesarilk | 1,615
-dailymirrorlk | 1,787
+dailymirrorlk | 1,789
 adaderanasinhalalk | 1,843
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,732 (100.0%) of 11,733 articles have been extended.
+11,733 (100.0%) of 11,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### කැනඩාවේ සමූහ ඝාතනයේ තොරතුරු රැසක් එළියට
+### Gunmen kidnap 227 pupils from school in Nigeria
+
+*2024-03-08 19:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gunmen-kidnap-227-pupils-from-school-in-Nigeria/108-278508) · `en`
+
+KADUNA, Nigeria, March 7 (Reuters) - Gunmen in Nigeria kidnapped more than 200 school pupils in the northern town of Kuriga on Thursday, a teacher, local councillor and parents of the missing children said, in the biggest mass abduction from a school since 2021.
+
+Police in Kaduna state did not respond to requests for comment on the abductions, which happened shortly after morning assembly at the Local Government Education Authority School in the town of Kuriga.
+
+"The number of the kidnapped from the secondary section based on the statistics we took together with the parents is 187 while that of the primary section is 40 for now," said Sani Abdullahi, a home economics teacher.
+
+Local councillor for Kuriga Idris Maiallura said he had been to the school and said the gunmen initially took 100 primary schools pupils but later freed them while others escaped.
+
+Parents and residents blamed the kidnapping on lack of security in the area.
+
+...
+
+[Data](articles/e19c0873.json)
+
+---
+
+### Crowd in Canada massacre is outstanding
 
 *2024-03-08 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194302) · `si`
 
-කැනඩාවේ ඔටාවා අගනුවර දී ඝාතනයට ලක්වූ සිව්දරු මව මෙරට පොල්ගහවෙල පදිංචිකාරියකි.
+A horrific massacre in Ottawa, Canada, claimed the lives of a Sri Lankan family, including four children. The incident unfolded in their home, with the attacker, Frank de Zoysa, a 19-year-old Sri Lankan student, being arrested. The family had recently moved to Canada, and the mother expressed fears before the tragedy.
 
-35 හැවිරිදි දර්ශනී දිලන්තිකා ඒකනායකගේ මව හැඬු කඳුළින් අද දෙරණට මෙලෙස පැවසීය.
+🟩
 
-"මට දැනුණා මොනවා හරි වෙයි කියලා. මට නිකන් මිනී පෙට්ටි වගයක් පෙණුනා. ලොකු කරදරයක් ද දන්නේ නෑ කියලා මම හිතුවා. යන තැනකට දෙයක් කරගන්නවා අම්මා කියනවා... හැමවෙලාවේම හිතන්නේ බුදුදහම ගැන. අනේ කොච්චරවත් පන්සල් ගානේ ගිය දරුවානේ..."
+The mother of the four killed in the capital city of Canada was a resident of Sri Lanka.
 
-මෙම සමූහ ඝාතනය සිදුවන්නේ, කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බැර්හෙවන් ප්‍රදේශයේ ශ්‍රී ලාංකික පවුලක් ජීවත් වූ නිවසකය.
+The mother of 35-year-old Dillynika Ekanayake told Ada Derana
 
-සිද්ධිය වන අවස්ථාවේ නිවසේ සිට තිබුණේ, 35 හැවිරිදි මව, දරුවන් සිව්දෙනා සහ ඔවුන් සමගම පදිංචිව සිටි තවත් ශ්‍රී ලාංකිකයින් දෙදෙනෙකි.
+"I felt that something would happen. I just got some of the grave boxes. I thought there was no big trouble. Mother says something to go.. Everywhere thinks of Buddhism. Oh, how many temples went ... "
 
-38 හැවිරිදි ධනුෂ්ක වික්‍රමසිංහ නම් දරුවන්ගේ පියා එම අවස්ථාවේ නිවසට පැමිණෙන විට වෙනදා මෙන් නිවසේ විදුලි පහන් දල්වා තිබී නැහැ.
+The massacre is in a house where a Sri Lankan family living in the area of the town of Canada.
 
-පියා නිවසට ඇතුළුවනවාත් සමගම කිසියම් කෙනෙකු පහරදී ඇති අතර පැවති අන්ධකාරය හේතුවෙන් පහරදුන් පුද්ගලයා එකවිට හඳුනාගැනීමට නොහැකි වී තිබේ.
+At the time of the incident, there were a 35-year-old mother, four children, and two other Sri Lankans with their residents.
+
+The 38-year-old Danushka Wickremasinghe came to the house at the time of his visit to the children.
+
+Despite the father entered the house, a man had been attacked and the man attacked by the darkness had not been able to identify.
+
+However, he was attacked by Dhanushka de Zoysa, who was living in the house with her, and his family members.
+
+It was a momentary after his arms were bleeding and attacked by a sharp weapon.
 
 ...
 
 [Data](articles/8eb70846.json)
+
+[Extended Data](ext_articles/8eb70846.ext.json)
 
 ---
 
@@ -1386,6 +1416,30 @@ Under President Mahinda Rajapaksa’s tenure, the Sri Lankan civil war, which sp
 
 ---
 
+### 'මම ලියන හැටි' : සමන් වික්‍රමාරච්චි
+
+*2024-03-08 12:45:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c97w5vv58y7o) · `si`
+
+සමන් වික්‍රමාරච්චි යනු සිංහල සාහිත්‍යය තුළ ගණනාවකින් පෝෂණය කරන සාහිත්‍යකරුවෙකි.
+
+ඔහු අතින් ලියවුණු  'අසංධිමිත්තා' සහ 'අප්පච්චි ඇවිත්' යන නවකතා සුවිශාල පාඨක සහ විචාරක ඇගයීමකට ලක් විය.
+
+එසේම ඔහු සාහිත්‍ය විචාරකයෙක්, පරිවර්තකයෙක් සහ කෙටිකතාකරුවෙක් ලෙස දශක කිහිපයක් තිස්සේ සිංහල සාහිත්‍ය එහි සීමාවන්ගෙන් ඉදිරියට ගෙන යාමට දරන වෑයම කිසිසේත්ම අමතක කල නොහැකිය.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැඳුණු ඔහුටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළ කර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි. ලියන තැන, ලියන විදිහ, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+
+මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/6b898500.json)
+
+---
+
 ### Electoral Prospects In India & Tamil Nadu Have Better Predictability Now
 
 *2024-03-08 12:38:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-prospects-in-india-tamil-nadu-have-better-predictability-now/) · `en`
@@ -2267,49 +2321,5 @@ She also served as a journalist and a radio news.
 [Data](articles/305cfbb7.json)
 
 [Extended Data](ext_articles/305cfbb7.ext.json)
-
----
-
-### Euro Exim Bank, Fairfirst interested in Sri Lanka Insurance
-
-*2024-03-08 08:55:00* · [`economynextcom`](https://economynext.com/euro-exim-bank-fairfirst-interested-in-sri-lanka-insurance-153762/) · `en`
-
-ECONOMYNEXT – Five local and international investors have responded to a request for proposals to divest Sri Lanka Insurance, the island’s State Enterprises Restructuring Unit said.
-
-LIC (Lanka) Limited, Union Assurance PLC and Asiri Hospital Holdings PLC have responded to the sale of Sri Lanka Insurance Corporation Life Limited.
-
-Euro Exim Bank Limited, Fairfirst Insurance Limited, have submitted proposals to Sri Lanka Insurance Corporation General Limited.
-
-Sri Lanka Insurance was split ahead of the sale to keep to legal requirements which were not followed earlier.
-
-The proposals will be vetted under Special Guidelines on Divestiture of State-Owned Enterprises approved by cabinet. Alvarez and Marsal are advisors to the transaction. (Colombo/Mar08/2024)
-
-◼️
-
-[Data](articles/2e08294d.json)
-
-[Extended Data](ext_articles/2e08294d.ext.json)
-
----
-
-### Veteran actress & journalist Ramya Wanigasekara passes away
-
-*2024-03-08 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97811/veteran-actress-journalist-ramya-wanigasekara-passes-away) · `en`
-
-Veteran actress, journalist and former radio news presenter Ramya Wanigasekara passed away on Friday morning (March 08), family sources told Ada Derana.
-
-Wanigasekara made her debut stage drama appearance in 1976 with a minor role in the stage drama ‘Hasthiraja Mahaththaya’. She had her breakthrough role in the 1978 stage drama ‘Mana Ranjana Weda Warjana’.
-
-She also acted in many other stage dramas, including ‘Kelani Palama’, ‘Ahasin Wetunu Minissu’, ‘Jailer Unnahe’, ‘Raja Kathawa’, ‘Muhudu Puththu’, and ‘Siri Sangabo’.
-
-In 1980, Wanigasekara began her career as a radio host with Radio Ceylon and was a regular news anchor until her retirement in 2006. She later joined Sri Lanka Broadcasting Corporation on contract basis, where she worked as a relief newscaster.
-
-Wanigasekara also appeared in a number of television dramas, including ‘Koombiyo’, ‘Ahas Gawwa’, ‘Denuwara Menike’, ‘Kande Gedara’ and ‘Yes Boss’.
-
-◼️
-
-[Data](articles/f2c107b3.json)
-
-[Extended Data](ext_articles/f2c107b3.ext.json)
 
 ---

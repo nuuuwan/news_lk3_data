@@ -1,54 +1,164 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 18:20:26**
+As of **2024-03-08 18:33:21**
 
 ## Newspaper Stats
 
-*Scraped **11,714** Articles*
+*Scraped **11,723** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 108
+colombotelegraphcom | 109
 bbccomsinhala | 138
 dbsjeyarajcom | 178
 newsfirstlk | 363
-economynextcom | 614
+economynextcom | 616
 dailyftlk | 617
 islandlk | 627
 adalk | 995
-tamilmirrorlk | 1,414
+tamilmirrorlk | 1,415
 adaderanalk | 1,423
-virakesarilk | 1,612
-dailymirrorlk | 1,785
-adaderanasinhalalk | 1,840
+virakesarilk | 1,615
+dailymirrorlk | 1,786
+adaderanasinhalalk | 1,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,713 (100.0%) of 11,714 articles have been extended.
+11,714 (99.9%) of 11,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### கடும் கெடுபிடிகளுக்கு மத்தியில்  வெடுக்குநாறிமலையில்  வழிபாடு
+### 92 හැවිරිදි රූපට් මර්ඩොක් 6 වන වරටත් විවාහ ගිවිස ගනී
+
+*2024-03-08 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194300) · `si`
+
+ප්‍රකට මාධ්‍ය අධිපතිවරයෙකු වන 92 හැවිරිදි රූපට් මර්ඩොක් හය වන වරටත් විවාහ ගිවිස ගෙන තිබේ.
+
+රුසියානු සම්භවයක් සහිත එලීනා ශුකෝවා නම් 67 හැවිරිදි විශ්‍රාමික අණුක ජීව විද්‍යාඥවරියක් සමග ඔහු මෙලෙස විවාහ ගිවිස ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඒ අනුව ඔවුන් දෙදෙනාගේ විවාහය ලබන ජුනි මාසයේ කැලිෆෝනියා හිදී පැවැත්වීමට සැලසුම් කර ඇති බව සඳහන් වේ.
+
+රූපට් මර්ඩොක් පසුගිය වසරේ ගුවන්විදුලි නිවේදිකාවක සමග විවාහ ගිවිස ගත්ත ද එය වසරක් වැනි කෙටි කාලයක් තුළ අවසන් වී තිබිණි.
+
+◼️
+
+[Data](articles/0ea86d8b.json)
+
+---
+
+### கொழும்பு காற்று மோசம்
+
+*2024-03-08 18:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-காற்று-மோசம்/95-334388) · `ta`
+
+கொழும்பு நகரில் காற்றின் தர சுட்டெண் 158 (பி.எம்.2.5) எனவும், சுட்டெண் மேலும் மோசமடைந்தால், கடுமையான அவதானம் செலுத்தப்பட வேண்டுமெனவும் அதிகாரிகள் தெரிவிக்கின்றனர்.
+
+கொழும்பைத் தவிர அக்குறணை, யாழ்ப்பாணம் மற்றும் கண்டி ஆகிய பகுதிகளில் வளி மாசு நிலைமை மோசமாக உள்ளதாக வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/eb79299e.json)
+
+---
+
+### ஜனாதிபதி கல்வி புலமைப் பரிசில் திட்டம் நிதி நெருக்கடியிலுள்ள மாணவர்களுக்கு பெரும் உதவியாக அமையும் : அரவிந்தகுமார்
+
+*2024-03-08 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178280) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கருத்தியலுக்கு அமைய 2024/2025 ஆம் ஆண்டுக்காக  முன்மொழியப்பட்ட `ஜனாதிபதி கல்வி புலமைப் பரிசில்' திட்டம் பொருளாதார நெருக்கடியிலுள்ள பாடசாலை மாணவர்களின் கல்வியை வெற்றிகரமாக நிறைவு செய்வதற்கு பெரும் உறுதுணையாக இருக்கும் என கல்வி இராஜாங்க அமைச்சர் அரவிந்தகுமார் தெரிவித்தார்.
+
+எதிர்காலத்தில் மேற்கொள்ளப்படவுள்ள கல்விச் சீர்திருத்தங்களை இலக்காகக் கொண்டு புதிதாக 20 வலயக் கல்வி அலுவலங்கள் ஸ்தாபிக்கப்படவுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (8) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கல்வி இராஜாங்க அமைச்சர் அரவிந்தகுமார் இதனைத் தெரிவித்தார்.
+
+“2024/2025 ஆம் ஆண்டுக்காக முன்மொழியப்பட்ட 'ஜனாதிபதி கல்வி புலமைப் பரிசில்' திட்டம் பொருளாதார சிரமங்களுக்கு உள்ளான பாடசாலை மாணவர்களின் கல்வி நடவடிக்கைகளை வெற்றிகரமாக முடிப்பதற்கு பெரும் ஆதரவை வழங்கும் என்பதைக் கூற வேண்டும். ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனைக்கு அமைய இந்த வேலைத்திட்டம் அமுல்படுத்தப்படுகிறது.
+
+...
+
+[Data](articles/2ef22ec2.json)
+
+---
+
+### Sri Lanka’s Singer Finance rated ‘BBB(lka)’; with a stable outlook: Fitch
+
+*2024-03-08 18:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-singer-finance-rated-bbblka-with-a-stable-outlook-fitch-153819/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it has affirmed Singer Finance (Lanka) Plc’s (SFL) National Long-Term Rating of ‘BBB(lka)’. The outlook is stable.
+
+Fitch also affirmed SFL’s outstanding senior unsecured debt at ‘BBB(lka)’ and outstanding subordinated
+
+“SFL’s rating is based on our expectation of support from its parent, consumer-durable retailer, Singer (Sri Lanka) PLC (Singer, A(lka)/Stable),” the rating agency said.
+
+Fitch Ratings – Mumbai/Colombo – 07 Mar 2024: Fitch Ratings has affirmed Singer Finance (Lanka) PLC’s (SFL) National Long-Term Rating of ‘BBB(lka)’. The Outlook is Stable. Fitch has also affirmed SFL’s outstanding senior unsecured debt at ‘BBB(lka)’ and outstanding subordinated unsecured debentures at ‘BB+(lka)’.
+
+...
+
+[Data](articles/44188aeb.json)
+
+---
+
+### Amidsta
 
 *2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடும்-கெடுபிடிகளுக்கு-மத்தியில்-வெடுக்குநாறிமலையில்-வழிபாடு/72-334387) · `ta`
 
-வவுனியா வெடுக்குநாறிமலையினை சுற்றி  பொலிஸாரால் கடுமையான பாதுகாப்பு போடப்பட்டநிலையில் 5 கிலோமீற்றர் தூரம் நடந்துசென்று, பொதுமக்கள் ஆலய தரிசனத்தை முன்னெடுத்தனர்.
+The temple in Vavuniya Vettu Nirimalai was closed for darshan due to arrests of the chief priest and temple administrator. Only residents were allowed after police investigation. Civilians from far were blocked. Parliamentarians and others were present, allowing them to visit at 10 am. The public walked 5 km from the main road. Buddhist clergy and Sinhalese from Kurundurmalai were also present.
 
-மகாசிவராத்திரி தினத்தினை முன்னிட்டு அது தொடர்பான ஏற்பாடுகளை செய்துகொண்டிருந்த ஆலயத்தின் பிரதம பூசாரி மற்றும் நிர்வாக உறுப்பினர் ஆகியோர்    நெடுங்கேணி பொலிஸாரால் வியாழக்கிழமை (07) கைதுசெய்யப்பட்டிருந்தனர்.
+🟩
 
-இதனையடுத்து  ஆலயத்தினை சுற்றி விசேட அதிரடிப்படை மற்றும் பொலிஸ் பாதுகாப்பு போடப்பட்டுள்ளதுடன் ஆலயத்திற்கு செல்லும் பிரதான பாதைக்கு பொலிஸ் வீதித்தடை போடப்பட்டு. அந்த பகுதிக்குள் வசிப்பவர்கள் மாத்திரம் பொலிஸாரின் விசாரணைக்கு பின்னர் உள்ளே அனுமதிக்கப்பட்டனர்.
+The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vettu Nirimalai.
 
-இதேவேளை மகாசிவராத்திரி வழிபாட்டிற்காக தூர இடங்களில் இருந்து வருகைதந்த பொதுமக்கள், உள்ளே செல்லமுடியாதவாறு பிரதான வீதியில் தரித்து நின்றனர்.
+The chief priest of the temple and the administrator of the temple were arrested by the Nedungeni police on Thursday (07).
 
-சம்பவ இடத்திற்கு பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன், செல்வராசா கஜேந்திரன், வேலன் சுவாமிகள்,ரவிகரன் ஆகியோரும் பிரசன்னமாகியிருந்தனர்
+Subsequently, the Special Task Force and Police have been deployed around the temple and the police road has been laid to the main road to the temple.. Only the residents of the area were allowed inside after the police investigation.
+
+Meanwhile, the civilians who came from far away places for the Mahasivaratri worship were on the main road so that they could not go in.
+
+Parliamentarian Sivagnanam Sridharan, Selvarasa Gajendran, Velan Swamis and Ravikaran were also present at the scene.
+
+Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
 
 ...
 
 [Data](articles/7070d6e0.json)
+
+[Extended Data](ext_articles/7070d6e0.ext.json)
+
+---
+
+### மட்டக்களப்பில் மனித பாவனைக்கு உதவாத ஜூஸ் விற்பனை செய்த கம்பனி முகாமையாளர், முகவர், வர்த்தகருக்கு அபராதம்
+
+*2024-03-08 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178269) · `ta`
+
+மட்டக்களப்பில் மனித பாவனைக்கு உதவாத ஜூஸ் விற்பனை செய்த கம்பனி முகாமையாளர், முகவர் மற்றும் விற்பனை செய்த வர்த்தகர் ஆகிய மூவருக்கு அபராதம் விதிக்கப்பட்டுள்ளது.
+
+மட்டக்களப்பு நீதவான் நீதிமன்ற பதில் நீதவானும் ஏறாவூர் சுற்றுலா நீதிமன்ற மேலதிக நீதவான் வியாழக்கிழமை (7) உத்தரவிட்டு வர்த்தக நிலையங்களில் விற்பனைக்கு வைத்திருக்கும் அந்த ஜூஸ் போத்தல்களை  கைப்பற்றி அழிக்குமாறு பொது சுகாதார பரிசோதகர்களுக்கு கட்டளை பிறப்பித்துள்ளார்.
+
+மட்டக்களப்பு பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் சுகுணன் தலைமையிலான கோட்டமுனை பொது சுகாதார பரிசோதகர் த.மிதுனராஜ். எஸ்.அமிர்தாப், ஜே.யசோதரன் ஆகிய பொது சுகாதார பரிசோதகர்கள் கொண்ட குழுவினர் கடந்த டிசம்பர் மாதம் வர்தக நிலையங்களை முற்றுகையிட்டு சோதனை நடவடிக்கைகளை மேற்கொண்டனர்.
+
+இதன் போது ஒரு வர்த்தக நிலையத்தில்  ஜூஸ் போத்தல்களை கைப்பற்றி அதனை கொழும்பிலுள்ள பகுப்பாய்வு திணைக்களத்திற்கு அனுப்பியது.
+
+...
+
+[Data](articles/559179cb.json)
+
+---
+
+### வேலு குமார் எம்.பிக்கு பாராளுமன்றத்தில் மிக முக்கிய பதவி
+
+*2024-03-08 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178261) · `ta`
+
+மலையக பெருந்தோட்ட சமூகத்தின் பரிணாமத்திற்கான பாராளுமன்ற ஒன்றியம் தமிழ் முற்போக்கு கூட்டணியின் முயற்சியால் ஒன்பதாவது பாராளுமன்றத்தில் ஸ்தாபிக்கப்பட்டது. அதன் போது, ஒன்றியத்தின் தலைவராக கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலு குமார் ஏகமனதாக தெரிவுசெய்யப்பட்டார்.
+
+உப தலைவர்களாக பாராளுமன்ற உறுப்பினர்களான சுஜித் சஞ்சய பெரேரா, நயனா வாசலகே மற்றும் உதயகுமார் ஆகியோர் தெரிவுசெய்யப்பட்டனர். இவ் அங்குராட்பன நிகழ்வில் பல கட்சிகளினது தலைவர்களும், சிரேஷ்ட பாராளுமன்ற உறுப்பினர்களும் கலந்துகொண்டிருந்தனர்.
+
+பாராளுமன்றத்திற்குள், பல குழுக்கள் மற்றும் ஒன்றியங்கள் இயங்கி வருகின்றன. எனினும், அவ்வாறு இயங்குகின்ற எந்த ஒன்றிலும் நேரடியாக மலையக பெருந்தோட்ட சமூகத்தின் பிரச்சினைகள் ஆராயப்படுவது மிக குறைந்தமட்டத்திலேயே உள்ளது. அதனால், மலையக பெருந்தோட்ட சமூகத்தின் எதிர்காலம் தொடர்பான, கொள்கைவகுப்புக்கள் மற்றும் செயற்திட்டங்களை உருவாக்குதல் போன்றன இடம்பெறுவது இல்லை.
+
+...
+
+[Data](articles/ccdaffa7.json)
 
 ---
 
@@ -71,6 +181,18 @@ The officers of the 72167 Manjula, Police Constable 20373 Lahiru and Police Cons
 [Data](articles/5f1cc20d.json)
 
 [Extended Data](ext_articles/5f1cc20d.ext.json)
+
+---
+
+### 47 Thais temporarily ordained
+
+*2024-03-08 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/47-Thais-temporarily-ordained/110-278496) · `en`
+
+A total of 47 laymen from Thailand were temporarily ordained at the Gangaramaya Temple in Colombo today (08). Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/059e8a86.json)
 
 ---
 
@@ -177,6 +299,22 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 [Data](articles/1ebde8eb.json)
 
 [Extended Data](ext_articles/1ebde8eb.ext.json)
+
+---
+
+### Gender budgeting, two new bills to empower women: Sri Lanka president
+
+*2024-03-08 16:57:00* · [`economynextcom`](https://economynext.com/gender-budgeting-two-new-bills-to-empower-women-sri-lanka-president-153849/) · `en`
+
+ECONOMYNEXT – Two bills, aimed at advancing gender equality and empowering women, will be presented to Parliament in May, Sri Lanka’s President Ranil Wickremesinghe has said.
+
+“It is imperative that women’s rights go beyond mere rhetoric; therefore, it is crucial to enact appropriate legislation, a task that has been neglected for far too long,” Wickremesinghe said at an International Women’s Day event at the Water’s Edge, Battaramulla on Friday.
+
+“In celebrating International Women’s Day, the usual practice in our country is to hold a ceremony, discuss women’s rights and return home. This routine occurs every year. However, this time, we have decided to implement concrete actions to amplify women’s voices,” Wickremesinghe said.
+
+...
+
+[Data](articles/697adec5.json)
 
 ---
 
@@ -971,6 +1109,18 @@ In 2006, Mahaha went to England and joined his father's family and shedding medi
 [Data](articles/dbf8410c.json)
 
 [Extended Data](ext_articles/dbf8410c.ext.json)
+
+---
+
+### Electoral Prospects In India & Tamil Nadu Have Better Predictability Now
+
+*2024-03-08 12:38:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-prospects-in-india-tamil-nadu-have-better-predictability-now/) · `en`
+
+BJP and Modi commenced their electoral journey earlier this time than in 2014 and 2019. Yet to be on terra firma the opposing formation has still not pulled its act together. To forecast with fair accuracy, diligent study is of the essence. Both political and electoral dynamics together with statistical data need to be keenly recognized. In the forthcoming elections, growing disarray of the opposition formations have inevitably placed difficulties in the facile movement of the BJP. An examination of Lok Sabha elections from 1991 would show how party alliances have become an important part of seat trading.
+
+...
+
+[Data](articles/d1abe36e.json)
 
 ---
 
@@ -2111,207 +2261,5 @@ The Mayor has said that this is the first time in Ottawa, about three decades.
 [Data](articles/9fe1961e.json)
 
 [Extended Data](ext_articles/9fe1961e.ext.json)
-
----
-
-### Valamburi abducted Piku arrested
-
-*2024-03-08 06:42:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வலம்புரி-கடத்திய-பிக்கு-கைது/73-334376) · `ta`
-
-A Buddhist Thera and another person were arrested in Matara for selling a Valamburi conch worth Rs 1 crore. The Special Task Force (STF) rescued them in Kalkuda.
-
-🟩
-
-Two persons, including a Buddhist Thera, have been arrested for sale from Matara for sale.
-
-The Special Task Force (STF) has been arrested on Thursday night in the Kalkuda area and handed over to them, Calcutta police said.
-
-On the advice of the Special Task Force Commander Senior Deputy Inspector General of Police Varuna Jayasundera, Ampara Batticaloa Police Director of the Batticaloa Police, Under the guidance of the Ampara Batticaloa Police.
-
-In this case, the Special Task Force, who observed that two men, including Buddhist Thera had been abducted for sale, were arrested and arrested and rescued a Valamburi conch worth Rs 1 crore.
-
-The police said that the arrests and the proof of the proof and the Special Task Force have been handed over to them after the investigation.
-
-◼️
-
-[Data](articles/0d388d1d.json)
-
-[Extended Data](ext_articles/0d388d1d.ext.json)
-
----
-
-### Sri Lanka negotiating power purchase price with India’s Adani: Minister
-
-*2024-03-08 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-negotiating-power-purchase-price-with-adani-minister-153735/) · `en`
-
-ECONOMYNEXT – Sri Lanka is still negotiating the power purchase price with India’s Adani group, Energy Minister Kanchana Wijesekera said, amid concerns about the government procurement without tender.
-
-Adani Group had proposed to sell a unit of wind power at 9.7 US cents per kiloWatt hour.
-
-That is about 30 to 31 Sri Lanka rupees at our exchange rates,” Minister Wijesekera said. “During the evaluation it has been reduced further to below 30 rupees. That price also we have not yet agreed, the evaluation is still ongoing.”
-
-The price will apply to plants in Mannar and Pooneryn which are coming as a single project.
-
-Minister Wijesekera told parliament a day earlier that a price of 27.65 rupees a unit (8.97 US cents) was being discussed.
-
-Minister Wijesekera said claims made that Adani had proposed to sell power at 50 rupees was not correct.
-
-There have been reports that Adani had proposed to sell power at 14 US cents or 50 rupees at an exchange rate of 360 rupees.
-
-...
-
-[Data](articles/c0f0128f.json)
-
-[Extended Data](ext_articles/c0f0128f.ext.json)
-
----
-
-### Sri Lanka negotiating power purchase price with India’s Adani: Minister
-
-*2024-03-08 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-negotiating-power-purchase-price-with-indias-adani-minister-153735/) · `en`
-
-ECONOMYNEXT – Sri Lanka is still negotiating the power purchase price with India’s Adani group, Energy Minister Kanchana Wijesekera said, amid concerns about the government procurement without tender.
-
-Adani Group had proposed to sell a unit of wind power at 9.7 US cents per kiloWatt hour.
-
-That is about 30 to 31 Sri Lanka rupees at our exchange rates,” Minister Wijesekera said. “During the evaluation it has been reduced further to below 30 rupees. That price also we have not yet agreed, the evaluation is still ongoing.”
-
-The price will apply to plants in Mannar and Pooneryn which are coming as a single project.
-
-Minister Wijesekera told parliament a day earlier that a price of 27.65 rupees a unit (8.97 US cents) was being discussed.
-
-Minister Wijesekera said claims made that Adani had proposed to sell power at 50 rupees was not correct.
-
-There have been reports that Adani had proposed to sell power at 14 US cents or 50 rupees at an exchange rate of 360 rupees.
-
-...
-
-[Data](articles/e63452af.json)
-
-[Extended Data](ext_articles/e63452af.ext.json)
-
----
-
-### Evening thundershowers possible in some areas today
-
-*2024-03-08 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97810/evening-thundershowers-possible-in-some-areas-today) · `en`
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and Galle and Matara districts in the evening or at night today, the Meteorology Department says.
-
-However, mainly dry weather will prevail in the other areas of the island.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and Galle and Matara districts during the morning.
-
-Mainly fair weather will prevail in sea areas around the island.
-
-Winds will be easterly or north-easterly in the sea areas off the coast extending from Kankesanturai to Matara via Trincomalee, Pottuvil and Hambantota, and winds will be variable in direction in the other sea areas around the island. The wind speed will be 15-30 kmph.
-
-◼️
-
-[Data](articles/8ab4dabb.json)
-
-[Extended Data](ext_articles/8ab4dabb.ext.json)
-
----
-
-### I took Chanakyan to the lift: Rohita
-
-*2024-03-08 06:16:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாணக்கியனை-லிப்டுக்கு-அழைத்துச்-சென்றேன்-ரோஹித/175-334375) · `ta`
-
-Rohitha Abeygunawardena, a former state MP, invited Chanakyan MP to the lift, aiming to protect the Prime Minister. Chanakyan accused Abeygunawardena of attacking the Prime Minister, prompting Abeygunawardena to request an investigation by the Private and Disciplinary Committee.
-
-🟩
-
-"I invited the Chanakyan MP to take the Prime Minister safely to the Lift (Mutt)," said Rohitha Abeygunawardena, former state MP and former minister.
-
-Rohitha Abeygunawardena said this while urging the Deputy Speaker to investigate the immediate investigation through the Private and Disciplinary Committee on Chanakyan's allegation.
-
-Chanakyan MP urged the MP to investigate through the Private Committee and the disciplinary committee, saying that I was trying to attack the Prime Minister.. I will appear before that inquiry. I have no problems.
-
-"You came to meet the Prime Minister.". That is, Chanakyan MP who came to meet the Prime Minister. I tried to take it to the Prime Minister safely. But I do not know that he has so much fear.
-
-◼️
-
-[Data](articles/c99265a1.json)
-
-[Extended Data](ext_articles/c99265a1.ext.json)
-
----
-
-### Showers in the evening today
-
-*2024-03-08 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194274) · `si`
-
-Expect showers or thundershowers in the evening or night in the Western and Sabaragamuwa Province, including Galle and Matara districts. Some areas may see rain in the morning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the evening or night in the evening or night.
-
-The latest announcement issued by the Department of Western and Sabaragamuwa Province and in the Galle and Matara districts.
-
-In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
-
-◼️
-
-[Data](articles/29e5fac0.json)
-
-[Extended Data](ext_articles/29e5fac0.ext.json)
-
----
-
-### Sri Lankan family murdered in Ottawa identified; teen suspect arrested
-
-*2024-03-08 06:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97809/sri-lankan-family-murdered-in-ottawa-identified-teen-suspect-arrested) · `en`
-
-Six people including a mother, her four young children and a family acquaintance were killed inside a townhouse in the south Ottawa suburb of Barrhaven late Wednesday night.
-
-During a media briefing Thursday afternoon, Ottawa police Chief Eric Stubbs said there were initially two calls to 911 around 10:52 p.m. Wednesday.
-
-He said first responders arrived within minutes to the home on Berrigan Drive near Palmadeo Drive, a residential area close to two schools.
-
-Police have identified five of the victims as a family of newcomers to Canada from Sri Lanka. They are:
-
-Police said Ekanayake’s husband was injured and is currently in hospital in stable condition. He’s since been identified as Dhanushka Wickramasinghe.
-
-Another man, 40-year-old Amarakoonmubiayansela Ge Gamini Amarakoon, was also killed.
-
-Febrio De-Zoysa, 19, is charged with six counts of first-degree murder and one count of attempted murder. Police said he is a Sri Lankan national who is believed to be in Canada as a student.
-
-...
-
-[Data](articles/ace18c91.json)
-
-[Extended Data](ext_articles/ace18c91.ext.json)
-
----
-
-### Trying to prevent Shivaratri at Adi Lingeshwar Temple
-
-*2024-03-08 06:07:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆதி-லிங்கேஸ்வரர்-ஆலயத்தில்-சிவராத்திரியை-தடுக்க-முயற்சி/175-334374) · `ta`
-
-Attempting to stop Shivaratri celebrations at Adi Lingeshwar Temple.
-
-🟩
-
-◼️
-
-[Data](articles/53655e61.json)
-
-[Extended Data](ext_articles/53655e61.ext.json)
-
----
-
-### Empowering the Economy: Celebrating women’s impact on International Women’s Day 2024 in Sri Lanka
-
-*2024-03-08 06:07:18* · [`dailyftlk`](https://www.ft.lk/columns/Empowering-the-Economy-Celebrating-women-s-impact-on-International-Women-s-Day-2024-in-Sri-Lanka/4-759291) · `en`
-
-In Sri Lanka, companies that have embraced gender equality and diversity have reaped the rewards of a diverse workforce. For example, MAS Holdings, a leading apparel manufacturer in Sri Lanka, has prioritsed gender diversity and inclusion in its workforce, with women occupying key leadership positions across the organization
-
-...
-
-[Data](articles/019d906d.json)
-
-[Extended Data](ext_articles/019d906d.ext.json)
 
 ---

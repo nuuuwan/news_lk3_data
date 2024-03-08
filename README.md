@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 22:17:57**
+As of **2024-03-08 22:33:30**
 
 ## Newspaper Stats
 
-*Scraped **11,750** Articles*
+*Scraped **11,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ islandlk | 627
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,426
-virakesarilk | 1,618
+virakesarilk | 1,619
 dailymirrorlk | 1,794
-adaderanasinhalalk | 1,846
+adaderanasinhalalk | 1,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,749 (100.0%) of 11,750 articles have been extended.
+11,750 (100.0%) of 11,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### ශ්‍රී පාදය වසා ගත් ප්ලාස්ටික් වතුර බෝතල්
+
+*2024-03-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194306) · `si`
+
+ශ්‍රී පාද උඩ මළුව දක්වා මාර්ගයේ වන්දනාකරුවන් බැහැර කර තිබු ප්ලාස්ටික් වතුර බෝතල් ටොන් 03ක් පමණ එක්රැස් කර තිබේ.
+
+ශ්‍රී පාද වන්දනා වාරය ආරම්භ කර මාස තුනක් වැනි කෙටි කාලයක් තුළ නල්ලතන්නිය සිට ශ්‍රී පාද උඩ මළුව දක්වා මාර්ගයේ මෙම ප්ලාස්ටික් වතුර බෝතල් එකතු කළ බව මස්කෙළිය ප්‍රාදේශීය සභාවේ ලේකම් එස්.රාජවීරන් මහතා පවසයි.
+
+ඒ මහතා පැවසුවේ වන්දනාකරුවන් රැගෙන යන ප්ලාස්ටික් වතුර බෝතල් බැහැර කිරීමට කසල බඳුන් සවිකර තිබුණ ද ඇතැම් වන්දනාකරුවන් සිය කැළි කසල පරිසරයට මුදාහරින බවය.
+
+මෙම එකතු කළ ප්ලාස්ටික් වතුර බෝතල් නල්ලතන්නියේ කැළි කසල ප්‍රතිචක්‍රිකරණ මධ්‍යස්ථානය වෙත රැගෙන විත් ඒවා පෞද්ගලික අංශය වෙත අලෙවි කිරීමට සැලසුම් කර ඇති බවද ලේකම්වරයා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/b4845249.json)
+
+---
+
+### Jaffna Central College is very weak in the big bats of the North
+
+*2024-03-08 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178291) · `ta`
+
+Central College lost 9 wickets for 140 runs in the second innings of a match against Jones College in Jaffna. In the first innings, Central College scored 157 runs, with Sayanthan top-scoring with 55. Jones College scored 228 runs in their second innings, leading by 72 runs. Central College's bowlers, including Deison and Abhilash, took 4 wickets each, with Anusant taking 2.
+
+🟩
+
+Jaffna in the second innings. Central College lost 9 wickets for 140 runs at the end of the second day of the second day on Friday (08). Sen still in a wicket -handed place. Only 69 runs are more leading than Jones College.
+
+The Great War of the North. Central College - Sen. Jones College Teams 117th Cultivation Tournament on Thursday (7) Jaffna. Started at the Central College Ground.
+
+Jaffna won the currency cycle. Central College first played. In the first innings, the team lost all wickets in 56.5 overs and scored 157 runs. Of these, Sayanthan scored a maximum of 55 runs.
+
+Sen who started his first innings in response. Jones College scored 109 runs for the loss of 2 wickets in 30.5 overs at the end of the first day of the game. Sachin was unbeaten with 36 runs.
+
+Sen continued the second day of the second day (8) today (8). Jones College. Sachin and team captain Jasial started the match.
+
+...
+
+[Data](articles/078e272d.json)
+
+[Extended Data](ext_articles/078e272d.ext.json)
+
+---
 
 ### Matheesha Pathirana ruled out of 3rd T20I against Bangladesh
 
@@ -43,6 +87,28 @@ Pathirana suffered the injury while bowling in the 2nd T20i game.
 ◼️
 
 [Data](articles/9dedd653.json)
+
+[Extended Data](ext_articles/9dedd653.ext.json)
+
+---
+
+### றோயலை வீழ்ச்சியிலிருந்து இலங்கை இளையோர் அணித் தலைவர்  சினேத் மீட்டார்; ஆட்டம் சம அளவில்
+
+*2024-03-08 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178292) · `ta`
+
+கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் நடைபெற்றுவரும் றோயல் கல்லூரிக்கும் பரி. தோமா கல்லூரிக்கும் இடையிலான 145ஆவது நிலவர்ணங்களின் கிரிக்கெட் சமரில் இலங்கையின் 19 வயதுக்குட்பட்ட உலகக் கிண்ண அணித் தலைவரும் றோயல் அணித் தலைவருமான சினேத் ஜயவர்தன அரைச் சதம் குவித்து றோயலை வீழ்ச்சியிலிருந்து மீட்டெடுத்தார்.
+
+போட்டியின் ஆரம்ப நாளான வியாழனன்று பரி. தோமா அணி முழு நாளும் துடுப்பெடுத்தாடி முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 297 ஓட்டங்களைப் பெற்றது.
+
+பதிலுக்கு போட்டியின் இரண்டாம் நாளான நேற்றைய தினம்  றோயல் அணி முழு நாளும்  தனது  முதலாவது இன்னிங்ஸில் துடுப்பெடுத்தாடி 7 விக்கெட்களை இழந்து 234 ஓட்டங்களைப் பெற்றிருந்தபோது போதிய வெளிச்சம் இன்மை காரணமாக ஆட்டம் நிறுத்தப்பட்டது.
+
+இரண்டு அணிகளும் பெற்றுள்ள மொத்த எண்ணிக்கைகளை நோக்கும்போது இப் போட்டி சம அளவில் மோதிக்கொள்ளப்படுவதாகவே இப்போதைக்கு தென்படுகிறது.
+
+போட்டியின் இரண்டாம் நாளான இன்று வெள்ளிக்கிழமை (08) காலை தனது முதலாவது இன்னிங்ஸை ஆரம்பித்த றோயல், 3ஆவது ஓவரில் 2ஆவது விக்கெட்டை இழந்தபோது ஒரு ஓட்டத்தை மாத்திரமே பெற்றிருந்தது.
+
+...
+
+[Data](articles/bfaabfbf.json)
 
 ---
 
@@ -65,32 +131,6 @@ Gold reached an all-time high of $2,185.19 after a report showed a rise in the U
 [Data](articles/497580fb.json)
 
 [Extended Data](ext_articles/497580fb.ext.json)
-
----
-
-### Jaffna Central College is very weak in the big bats of the North
-
-*2024-03-08 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178291) · `ta`
-
-Central College lost 9 wickets for 140 runs in the second innings of a match against Jones College in Jaffna. In the first innings, Central College scored 157 runs, with Sayanthan top-scoring with 55. Jones College scored 228 runs in their second innings, leading by 72 runs. Central College's bowlers, including Deison and Abhilash, took 4 wickets each, with Anusant taking 2.
-
-🟩
-
-Jaffna in the second innings. Central College lost 9 wickets for 140 runs at the end of the second day of the second day on Friday (08). Sen still in a wicket -handed place. Only 69 runs are more leading than Jones College.
-
-The Great War of the North. Central College - Sen. Jones College Teams 117th Cultivation Tournament on Thursday (7) Jaffna. Started at the Central College Ground.
-
-Jaffna won the currency cycle. Central College first played. In the first innings, the team lost all wickets in 56.5 overs and scored 157 runs. Of these, Sayanthan scored a maximum of 55 runs.
-
-Sen who started his first innings in response. Jones College scored 109 runs for the loss of 2 wickets in 30.5 overs at the end of the first day of the game. Sachin was unbeaten with 36 runs.
-
-Sen continued the second day of the second day (8) today (8). Jones College. Sachin and team captain Jasial started the match.
-
-...
-
-[Data](articles/078e272d.json)
-
-[Extended Data](ext_articles/078e272d.ext.json)
 
 ---
 
@@ -2319,49 +2359,5 @@ Police said the motorcycle traveling from Nuwara Eliya to Talawakelle and a lorr
 [Data](articles/3fe3b7ba.json)
 
 [Extended Data](ext_articles/3fe3b7ba.ext.json)
-
----
-
-### Three tons of plastic bottles collected in Sri Pada within three months
-
-*2024-03-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-tons-of-plastic-bottles-collected-in-Sri-Pada-within-three-months/108-278472) · `en`
-
-Maskeliya, March 8 (Daily Mirror) - Three tons of plastic bottles discarded by pilgrims visiting Sri Pada have been collected within three months since the beginning of the Sri Pada season this year,Maskeliya Pradeshiya Sabha announced.
-
-Secretary of the maskeliya Pradeshiya Sabha S. Rajaweeran said garbage bins have been installed to dispose of plastic water bottles carried by pilgrims travelling along that route.
-
-He said, however, some pilgrims just throw plastic water bottles into the environment without putting them into garbage bins.
-
-The plastic water bottles discarded by Sri Pada pilgrims were taken to the garbage recycling center in Nallathanniya, from where it will be sold to the private sector, the secretary said.
-
-Meanwhile, the current extremely dry weather condition has caused a drinking water problem in the Nallathanniya area. Discussions are underway with the Water Supply Board to solve this issue, according to the secretary.
-
-◼️
-
-[Data](articles/4ff02f1b.json)
-
-[Extended Data](ext_articles/4ff02f1b.ext.json)
-
----
-
-### Maskeliya Pradeshiya Sabha collects three tons of plastic bottles during Sri Pada season
-
-*2024-03-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maskeliya-Pradeshiya-Sabha-collects-three-tons-of-plastic-bottles-during-Sri-Pada-season/108-278472) · `en`
-
-Maskeliya, March 8 (Daily Mirror) - The Maskeliya Pradeshiya Sabha announced today that within three months of the 2023–2024 Sri Pada season commencing, they have successfully gathered three tons of plastic bottles discarded by pilgrims visiting Sri Pada.
-
-Pradeshiya Sabha Secretary S. Rajaweeran said garbage bins have been installed to dispose of plastic water bottles carried by pilgrims travelling along that route.
-
-Some pilgrims just throw plastic water bottles into the environment without putting them into garbage bins.
-
-Pilgrims do not follow the instructions given by the Pradeshiya Sabha to dispose of the raw food items in the bins placed for the disposal of garbage.
-
-The plastic water bottles discarded by Sri Pada pilgrims were taken to the garbage recycling center in Nallathanniya, from where it will be sold to the private sector, the secretary said.
-
-...
-
-[Data](articles/9c7b02f9.json)
-
-[Extended Data](ext_articles/9c7b02f9.ext.json)
 
 ---

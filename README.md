@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 10:33:13**
+As of **2024-03-08 10:51:27**
 
 ## Newspaper Stats
 
-*Scraped **11,640** Articles*
+*Scraped **11,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 985
 adaderanalk | 1,413
 tamilmirrorlk | 1,413
 virakesarilk | 1,599
-dailymirrorlk | 1,772
-adaderanasinhalalk | 1,826
+dailymirrorlk | 1,773
+adaderanasinhalalk | 1,827
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,637 (100.0%) of 11,640 articles have been extended.
+11,640 (100.0%) of 11,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### ධීවර යාත්‍රාවක් යළිත් අතුරුදන්
+
+*2024-03-08 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194284) · `si`
+
+කල්පිටියෙන් ධීවර කටයුතු සඳහා මුහුදු ගිය ධීවර යාත්‍රාවක් නැවත ගොඩබිමට නොපැමිණි බවට සඳහන් කරමින් කල්පිටිය පොලිසීයට එම යාත්‍රාවේ හිමිකරු පැමිණිලි කර තිබේ.
+
+මෙම යාත්‍රාවේ ධීවරයින් තිදෙනෙක් ගමන් කර ඇති අතර ඔවුන් 21, 37 සහ 38 යන වයස්වල පසුවන ඊච්චන්කාඩුව ප්‍රදේශයේ පදිංචිකරුවන්ය.
+
+මේ සම්බන්ධයෙන් නාවික හමුදාව දැනුවත් කර සෝදිසි කටයුතු ආරම්භ කර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a9fc5ed6.json)
+
+---
 
 ### Police seek public assistance to nab suspect who burgled a foreigner’s house
 
@@ -46,41 +62,75 @@ Thus, the public has been requested to provide any available information about t
 
 [Data](articles/12356a4f.json)
 
+[Extended Data](ext_articles/12356a4f.ext.json)
+
 ---
 
-### நானுஓயாவில் லொறியும் மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதி விபத்து ; இருவர் வைத்தியசாலையில்
+### Lorry and motorcycle collided face -to -face in Nanuoya;Two people at the hospital
 
 *2024-03-08 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178224) · `ta`
 
-நானுஓயா பொலிஸ் பிரிவுக்குட்பட்ட நானுஓயா ரதல்ல குறுக்கு வீதியில் நேற்று  வியாழக்கிழமை (07) பிற்பகல் நுவரெலியா பிரதேச சபைக்கு முன்பாக லொறி ஒன்றுடன் மோட்டார் சைக்கிள் மோதி இடம்பெற்ற விபத்தில் இருவர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Nanuoya, a lorry and motorcycle collided, injuring two people from Thalawakelle and Kotakkalai, aged 27 and 28. The lorry driver was arrested for treating the injured.
 
-குறித்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இருவரும் படுகாயமடைந்த  நிலையில் சிகிச்சைக்காக நுவரெலியா மாவட்ட பொது  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், இதில் மோட்டார் சைக்கிள் சாரதி மேலதிக சிகிச்சைக்காக கண்டி போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாகவும் லொறி சாரதியை கைது செய்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த விபத்தில் காயங்களுக்கு உள்ளாகியவர்கள் 27 மற்றும் 28 வயதுடைய தலவாக்கலை மற்றும் கொட்டக்கலை பகுதிகளை சேர்ந்தவர்கள் என தெரிவிக்கப்படுகின்றது.
+Two persons were injured in a motorcycle collision with a lorry in front of the Nuwara Eliya Pradeshiya Sabha on Thursday afternoon at the Nanuoya Police Division, Nanuoya Rathalla Cross Road.
 
-நுவரெலியாவில் இருந்து தலவாக்கலை நோக்கி பயணித்த மோட்டார் சைக்கிளும் நானுஓயா ரதல்லவிலிருந்து நுவரெலியாவை நோக்கி சென்ற லொறியும் நேருக்கு நேர் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+Police said the lorry driver had been arrested for treatment of two motorcyclists in the accident.
+
+The injured were reported to be from Thalawakelle and Kotakkalai, aged 27 and 28.
+
+Police said the motorcycle traveling from Nuwara Eliya to Talawakelle and a lorry from Nanuoya Ratalla to Nuwara Eliya collided.
 
 ◼️
 
 [Data](articles/3fe3b7ba.json)
 
+[Extended Data](ext_articles/3fe3b7ba.ext.json)
+
 ---
 
-### රන් පැහැති කඩුවක් සමග සැකකරුවෙක් අත්අඩංගුවට
+### Maskeliya council collects three tons of plastic bottles during Sri Pada season
+
+*2024-03-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maskeliya-council-collects-three-tons-of-plastic-bottles-during-Sri-Pada-season/108-278472) · `en`
+
+Maskeliya, March 8 (Daily Mirror) - The Maskeliya District Council announced today that within three months of the 2023–2024 Sri Pada season commencing, they have successfully gathered three tons of plastic bottles discarded by pilgrims visiting Sri Pada.
+
+District Council Secretary S. Rajaweeran said garbage bins have been installed to dispose of plastic water bottles carried by pilgrims travelling along that route.
+
+Some pilgrims just throw plastic water bottles into the environment without putting them into garbage bins.
+
+Pilgrims do not follow the instructions given by the District Council to dispose of the raw food items in the bins placed for the disposal of garbage.
+
+The plastic water bottles discarded by Sri Pada pilgrims were taken to the garbage recycling center in Nallathanniya, from where it will be sold to the private sector, the secretary said.
+
+...
+
+[Data](articles/e933db0e.json)
+
+---
+
+### Suspect arrested with a golden sword
 
 *2024-03-08 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194283) · `si`
 
-පොලිස් විශේෂ කාර්ය බළකායට ලද තොරතුරක් අනුව සිදුකළ වැටලීමකදී රන් පැහැති කඩුවක් සමග පුද්ගලයෙක් අත්අඩංගුවට ගෙන ඇත.
+A 62-year-old from Dickwella was arrested with a golden sword during a raid by the Kataragama Police Special Task Force, following a tip.
 
-ඊයේ (07) සවස ලුණුගම්වෙහෙර පොලිස් වසමේදී වැටලීම සිදුකර තිබුණේ කතරගම පොලිස් විශේෂ කාර්ය බළකායට අයත් නිලධාරීන් කණ්ඩායමකි.
+🟩
 
-කැබ් රථයකින් අදාළ රන් පැහැති කඩුව ප්‍රවාහනය කරමින් සිට තිබේ.
+A golden sword has been arrested in a raid conducted by a tip off received by the STF.
 
-කඩුව සමග අත්අඩංගුවට ගත් සැකකරු 62 හැවිරිදි දික්වැල්ල ප්‍රදේශයේ පුද්ගලයෙකි.
+The raid was carried out by the Kataragama Police Special Task Force yesterday evening yesterday (07).
+
+The golden sword was transported by a cab.
+
+The suspect arrested with the sword was a 62 year old Dickwella area.
 
 ◼️
 
 [Data](articles/362b116b.json)
+
+[Extended Data](ext_articles/362b116b.ext.json)
 
 ---
 
@@ -2143,61 +2193,5 @@ Two American officials agreed that the prospects are not promising of Israel and
 [Data](articles/ed668a94.json)
 
 [Extended Data](ext_articles/ed668a94.ext.json)
-
----
-
-### Sri Lanka president to discuss plantation worker wages with employers
-
-*2024-03-07 19:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-discuss-plantation-worker-wages-with-employers-153730/) · `en`
-
-ECONOMYNEXT — Sri Lanka plans to facilitate an increase in the daily wage of plantation workers soon, with President Ranil Wickremesinghe expecting to hold urgent discussions with plantation owners,  Labour Minister Manusha Nanayakkara said.
-
-Speaking to reporters on Wednesday March 06, Nanayakkara said there has been progress yet on discussions already being held between workers, plantation unions and employers due to the two sides being unable to reach a consensus. However, according to the minister, an increase in wages is round the corner.
-
-“The president instructed us to work towards increasing plantation workers’ wages. We discussed with workers, unions and employers. There is no progress on those discussions yet as the two sides couldn’t agree. Yesterday too we had a discussion and agreed to take their proposals and discuss those proposals with unions.
-
-...
-
-[Data](articles/4d1d83ed.json)
-
-[Extended Data](ext_articles/4d1d83ed.ext.json)
-
----
-
-### Hoouti was about news about Sri Lankans who were attacked
-
-*2024-03-07 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194266) · `si`
-
-A ship carrying Sri Lankans, Nepal defenders, and staff was attacked by the Sri Lanka Navy, injuring one. The Foreign Minister of Sri Lanka is investigating. After the attack, a fire broke out, and 21 were rescued. The ship, carrying steel products and trucks, was attacked by a Greek company under a Liberian flag, 50 nautical miles from Aid. The Indian Navy rescued the injured and said the attack was shifted despite warnings.
-
-🟩
-
-One of the two Sri Lankans in the ship was attacked by the Sri Lanka Navy said that one of the two Sri Lankans were injured.
-
-Meanwhile, we asked the Foreign Minister of Foreign Minister Ali Sabri regarding the Sri Lankans who were infected with the ship.
-
-The Foreign Minister said that steps are being taken to investigate the incident.
-
-Two Sri Lankan guards, Nepal defenders, and staff were in the attack on foreign media.
-
-There are 15 Filipino between staff, four Vietnamese and an Indian.
-
-After the attack, a fire had erupted and the crowd had abandoned the ship.
-
-Three of the injured have been critical in US reports.
-
-Three persons who traveled by the hoothy attack were killed and four others were injured.
-
-Two of the deceased were Filipinon and the other was Vietnam.
-
-Meanwhile, 21 persons were redeemed by the shipwreck and the injured in the ship.
-
-The Indian Navy said that the suspects were redeemed by the Coltata ship, helicopters and boats.
-
-...
-
-[Data](articles/919fa20b.json)
-
-[Extended Data](ext_articles/919fa20b.ext.json)
 
 ---

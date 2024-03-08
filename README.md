@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 14:04:28**
+As of **2024-03-08 14:17:55**
 
 ## Newspaper Stats
 
@@ -26,55 +26,95 @@ adaderanasinhalalk | 1,832
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,673 (100.0%) of 11,675 articles have been extended.
+11,675 (100.0%) of 11,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### පොලීසියේ වෙනසක් කළ ලීලා ගුණරත්න
+### Collection of 3 ton plastic bottles during the Sivanolipada Mountain Season
+
+*2024-03-08 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178236) · `ta`
+
+Since 2023, 3 tonnes of plastic bottles have been collected in Maskeliya during the Sivanolipada Mountain Season. Despite efforts to manage waste, some pilgrims still litter. The collected bottles are to be recycled, and there's a water issue in Nalladhani due to dry weather, with discussions ongoing with the Water Supply Board.
+
+🟩
+
+The Maskeliya Pradeshiya Sabha said that three tonnes of plastic bottles have been collected in three months since the beginning of 2023 to 2024.
+
+Pilgrims who go to the pilgrimage have been placed in garbage bins to discharge plastic water bottles. However, some pilgrims throw plastic water bottles into the environment without putting it in trash.
+
+Although the Pradeshiya Sabha is advised to dispose of food items in the garbage bins, it is not followed by pilgrims.
+
+The collected plastic bottles will be taken to the center of garbage collection and then sold to the private sector.
+
+Meanwhile, the problem of drinking water in Nalladhani area due to the prevailing dry weather. He said that a discussion is being held with the Water Supply Board to address the issue.
+
+◼️
+
+[Data](articles/427867f9.json)
+
+[Extended Data](ext_articles/427867f9.ext.json)
+
+---
+
+### Lila Gunaratne who made a change in police
 
 *2024-03-08 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194290) · `si`
 
-ජාත්‍යන්තර කාන්තා දිනය වන අද, සුවිශේෂී කාන්තාවක් පිළිබඳව අද දෙරණට වාර්තා වුණි.
+Lila Gunaratne, a pioneer in Sri Lanka's Women's Police, was born in 1935. She joined the police force in 1953, marking the first time women were recruited. Gunaratne served in various departments, including the Criminal Investigation Department and as a security guard for Sirimavo Bandaranaike. She retired in 1996, leaving a legacy of women in law enforcement.
 
-ඇය ශ්‍රී ලංකා කාන්තා පොලිස් පළමු කණ්ඩායමේ සාමාජිකාවක වූ පොලිස් කොස්තාපල්වරියක වූ ලීලා ගුණරත්න මහත්මියයි.
+🟩
 
-1866දී පිරිමි නිලධාරීන්ගෙන් ආරම්භ වූ ශ්‍රී ලංකා පොලීසියට කාන්තා නිලධාරිනියන්ගේ අවශ්‍යතාව දැනෙන්නේ දශක අටක් පමණ ඉක්ම ගිය පසුවය.
+Today, today, the International Women's Day was reported to Derana today.
 
-ඒ අනුව 1953දී කාන්තා පොලිස් නිලධාරිනියන් පොලිස් සේවයට අවශ්‍යද යන්න අත්හදා බැලීමට නිලධාරිනියන් සිව් දෙනෙකු බඳවා ගැනුණි.
+Lila Gunaratne was a part of the Sri Lanka Women's Police Station Lila group.
 
-එහි සාර්ථකත්වයත් සමගම කාන්තා පොලිස් කොස්තාපල්වරියන් බඳවා ගැනීම ඇරඹුණු මුල් කාලයේදීම සේවයට එක්වූ පොලිස් කොස්තාපල්වරියක් මේ වනවිට වේයන්ගොඩ තල්ගස්මොටේ ගම්මානයේ සිය සැඳෑ සමය ගෙවමින් සිටින්නීය.
+The Sri Lankan Police, who started from the men in 1866, feel the need for women's officials after eight decades.
 
-1935 වසරේ උපත ලැබූ ලීලා ගුණරත්න මහත්මිය සහෝදර සහෝදරියන් පස් දෙනෙකුගෙන් යුත් පවුලක දියණියකි.
+Accordingly, four officials recruited four officers to try the women's police officers in 1953.
 
-වේයන්ගොඩ ශාන්ත මරියා විද්‍යාලයෙන් අධ්‍යාපනය ලැබූ ඇය ශ්‍රී ලංකා පොලීසියේ පළමු දැල්පන්දු කණ්ඩායමේ සාමාජිකාවකද වූවාය.
+With its success, a police constable who participated in the recruitment of the female police constables, a police constable who joined the service was spent on the village of Vanagastota village.
 
-එහි කෙටි කලක් සේවය කළ පසු ඇය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඇඟිලි සලකුණු අංශයේ රාජකාරි කළාය.
+Born in 1935, Lyla Gunaratne is a daughter of five brothers and sisters.
+
+She was educated at St. Mary College, Veyangoda and she was a member of the Sri Lanka Prime Minister of Sri Lanka Police.
+
+After serving there, she was duties in the fingerprint department of the Criminal Investigation Department.
+
+She was also the privilege of their duties in the 1976 fifth Non-Aligned State Summit.
 
 ...
 
 [Data](articles/d53c296c.json)
 
+[Extended Data](ext_articles/d53c296c.ext.json)
+
 ---
 
-### 249 பேருடன் பறந்த விமானத்திலிருந்து கழன்று வீழ்ந்த சக்கரம்: அமெரிக்காவில் சம்பவம்
+### Wheel that fell from a plane flew with 249 people: In the United States
 
 *2024-03-08 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178249) · `ta`
 
-பறந்துகொண்டிருந்த சர்வதேச விமானத்தின் சக்கரமொன்று கழன்று வீழ்ந்த சம்பவம் அமெரிக்காவில் நேற்று இடம்பெற்றுள்ளது.
+A wheel from a United Airlines Boeing 777 fell off near Osaka, Japan, with 249 passengers on board. The aircraft, departing from San Francisco, was designed to land safely with any wheel missing.
 
-சான்பிரான்சிஸ்கோ சர்வதேச விமானநிலையத்திலிருந்து ஜப்பானை நோக்கி புறப்பட்ட யுனைடெட் எயார்லைன்ஸ் விமானமொன்றிலிருந்தே இவ்வாறு சக்கரம் கழன்றது.
+🟩
 
-போயிங் 777 ரகத்தைச் சேர்ந்த அவ்விமானம் தரையிலிருந்து கிளம்பிய நிலையில் அதன் சக்கரமொன்று கழன்று, விமான நிலையத்தின் வாகனத் தரப்பிடப் பகுதியில் வீழ்ந்தது.
+The incident took place in the United States yesterday when an international plane's wheel fell.
 
-ஜப்பானின் ஒசாக்கா நகரை நோக்கி புறப்பட்ட அவ்விமானத்தில்  249 பேர் இருந்தனர் என யுனைடெட் எயார்லைன்ஸ் நிறுவனம் தெரிவித்துள்ளது.
+The wheel was off from the United Airlines flight from the San Francisco International Airport to Japan.
 
-போயிங் 777 விமானத்தின் ஒவ்வொரு சக்கரத் தொகுதியிலும் 6 சக்கரங்கள் இருப்பதாகவும், ஏதேனும் ஒரு சக்கரம் சேதமடைந்தால் அல்லது தொலைந்தாலும் விமானம் பாதுகாப்பாக தரையிறங்கக் கூடிய வகையில் அவ்விமானம் வடிவமைக்கப்பட்டுள்ளதாகவும் யுனைடெட் எயார்லைன்ஸ் தெரிவித்துள்ளது.
+After a Boeing 777, the wheel fell off the ground, and the wheel fell into the airport's vehicle.
+
+United Airlines said that there were 249 people in the city of Osaka, Japan.
+
+United Airlines said that there are 6 wheels in each wheel block of the Boeing 777 aircraft, and if any wheel is damaged or lost, the aircraft is designed to land safely.
 
 ◼️
 
 [Data](articles/bf167730.json)
+
+[Extended Data](ext_articles/bf167730.ext.json)
 
 ---
 
@@ -149,32 +189,6 @@ Accordingly, President Ranil Wickremesinghe has called for a meeting at the Pres
 [Data](articles/e9e3f615.json)
 
 [Extended Data](ext_articles/e9e3f615.ext.json)
-
----
-
-### Collection of 3 ton plastic bottles during the Sivanolipada Mountain Season
-
-*2024-03-08 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178236) · `ta`
-
-Since 2023, 3 tonnes of plastic bottles have been collected in Maskeliya during the Sivanolipada Mountain Season. Despite efforts to manage waste, some pilgrims still litter. The collected bottles are to be recycled, and there's a water issue in Nalladhani due to dry weather, with discussions ongoing with the Water Supply Board.
-
-🟩
-
-The Maskeliya Pradeshiya Sabha said that three tonnes of plastic bottles have been collected in three months since the beginning of 2023 to 2024.
-
-Pilgrims who go to the pilgrimage have been placed in garbage bins to discharge plastic water bottles. However, some pilgrims throw plastic water bottles into the environment without putting it in trash.
-
-Although the Pradeshiya Sabha is advised to dispose of food items in the garbage bins, it is not followed by pilgrims.
-
-The collected plastic bottles will be taken to the center of garbage collection and then sold to the private sector.
-
-Meanwhile, the problem of drinking water in Nalladhani area due to the prevailing dry weather. He said that a discussion is being held with the Water Supply Board to address the issue.
-
-◼️
-
-[Data](articles/427867f9.json)
-
-[Extended Data](ext_articles/427867f9.ext.json)
 
 ---
 
@@ -502,11 +516,11 @@ During the meeting, scheduled to be held at the Presidential Secretariat, the op
 
 President Ranil Wickremesinghe has convened a meeting on Monday (March 11) with the leaders of accepted opposition parties in parliament and the visiting high-level delegation of the International Monetary Fund (IMF).
 
-During the meeting, scheduled to be held at the Presidential Secretariat, the opposition party leaders will be offered the chance to discuss the IMF’s proposals with the delegates.
+During the meeting, the opposition party leaders will be offered the chance to discuss the IMF’s proposals with the delegates.
 
-A team led by IMF’s Senior Mission Chief for Sri Lanka, Peter Breuer, is in Sri Lanka for the second review of the Extended Fund Facility (EFF) program for the island nation.
+In a proactive move, Leader of the Opposition Sajith Premadasa, leader of the National People’s Power (NPP) Anura Kumara Dissanayake, and Tamil National Alliance (TNA) leader S. Sridharan have been invited to participate in these deliberations.
 
-The review process kicked off on Thursday (March 07) with an opening meeting with President Wickremesinghe during which Mr. Breuer said the IMF program is exhibiting promising signs of efficacy, translating into tangible outcomes owing to the Sri Lankan authorities’ commitment to the program and its implementation.
+The meeting is slated to be held at the Presidential Secretariat, with an open invitation extended to interested individuals to join alongside the invited leaders.
 
 ...
 

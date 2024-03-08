@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 12:17:33**
+As of **2024-03-08 12:33:29**
 
 ## Newspaper Stats
 
-*Scraped **11,663** Articles*
+*Scraped **11,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 economynextcom | 608
 dailyftlk | 617
 islandlk | 627
-adalk | 987
+adalk | 988
 tamilmirrorlk | 1,413
-adaderanalk | 1,417
+adaderanalk | 1,418
 virakesarilk | 1,604
-dailymirrorlk | 1,777
+dailymirrorlk | 1,779
 adaderanasinhalalk | 1,829
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,662 (100.0%) of 11,663 articles have been extended.
+11,663 (100.0%) of 11,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Search operation launched after local fishing vessel reported missing
+
+*2024-03-08 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97817/search-operation-launched-after-local-fishing-vessel-reported-missing) · `en`
+
+Kalpitiya Police has received a complaint about a trawler that had set sail from Kalpitiya for fishing activities on Wednesday (March 06) and remains missing ever since.
+
+This complaint has been made by the owner of the fishing vessel, saying that they have not return to the island.
+
+As per reports there have been three Sri Lankan fishermen aboard the vessel in question. They were identified as residents of the Ichchankaduwa area, aged 21, 37 and 38 years.
+
+Police said that a search operation was initiated after informing the Sri Lanka Navy base in Kalpitiya.
+
+◼️
+
+[Data](articles/811907d4.json)
+
+---
 
 ### Expatriate workers send USD 476.4 million in February
 
@@ -45,6 +63,8 @@ The Labour and Foreign Employment Ministry says that there has been a good respo
 ◼️
 
 [Data](articles/c8c35ae1.json)
+
+[Extended Data](ext_articles/c8c35ae1.ext.json)
 
 ---
 
@@ -201,6 +221,38 @@ President Ranil Wickremesinghe has summoned a meeting at the Presidential Secret
 [Data](articles/bc4c52a8.json)
 
 [Extended Data](ext_articles/bc4c52a8.ext.json)
+
+---
+
+### Women's Day programme at Nalanda College
+
+*2024-03-08 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Women-s-Day-programme-at-Nalanda-College/110-278485) · `en`
+
+A ceremony was held today at Nalanda College in view of International Women's Day by the Community Police Unit in Colombo. Inspector General of Police (IGP) Deshabandu Tennakoon participated at the event. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/c36d3a7c.json)
+
+---
+
+### රම්‍යා වනිගසේකර සමුගනියි
+
+*2024-03-08 11:05:49* · [`adalk`](https://www.ada.lk/breaking_news/රම්‍යා-වනිගසේකර-සමුගනියි/11-408491) · `si`
+
+ප්‍රවීණ ගුවන්විදුලි නිවේදිකාවක සහ රංගන ශිලිපිනියකවූ රම්‍යා වනිගසේකර මහත්මිය අද (08) උදෑසන අභාවප්්‍රාප්ත වී තිබෙනවා.
+
+වර්ෂ 1936 ජනි මස 17 කෑගල්ල කොටියාකුඹුරේදී උපත ලත් ඇය මිය යනවිට වයස අවුරුදු 88 වනවා.
+
+වර්ෂ 1974 දී වෙදීකා නාට්‍යවලට සම්බන්දවූ  අතර 1980 දී ගුවන්විදුලියට සම්බන්ධ විය.  1981 පටන් වර්ෂ 2006 දී ඇය විශ්‍රාරාම යනතෙක්ම ප්‍රවෘති නිවේදිකාවක්ව සේවය කලාය. වීශ්‍රාම ගැනීමෙන් අනතුරුවද ඇය වර්ෂ 2008 දක්වා එහි කොන්ත්‍රාත් පදනම මත සේවය සැපයුවේද ඇයට ඇති හැයාවන් හා දක්ෂාතා නිසාවෙන්මය.
+
+නිවේදනය මෙන්ම ඇයගේ හැකියාවන් රංගනයේද අතිවිශිෂ්ථ විය. ඒනිසාවෙන්ම ඇය ටෙලිනාට්‍ය හා චිත්‍රපට අතරින්ද ප්‍රේක්ෂකයන්ට සමීපවිය.
+
+තරමක් අසනීප තත්වයේ පසුවූ ඇය කෙටි කලක සිට ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී අද (08) උදෑසන මිය ගොස් තිබෙනවා.
+
+◼️
+
+[Data](articles/858edd14.json)
 
 ---
 
@@ -2139,73 +2191,5 @@ Residents have reported that the statue of Buddha has been removed from the site
 [Data](articles/bf51d7a0.json)
 
 [Extended Data](ext_articles/bf51d7a0.ext.json)
-
----
-
-### Sweden set to become NATO’s 32nd member as PM visits Washington
-
-*2024-03-07 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/97804/sweden-set-to-become-natos-32nd-member-as-pm-visits-washington) · `en`
-
-(Reuters) - Sweden is expected to formally join NATO in Washington on Thursday, two years after Russia’s invasion of Ukraine forced a complete rethink of its national security policy and the realisation the alliance offered the best guarantee of safety.
-
-Swedish Prime Minister Ulf Kristersson is in Washington to hand over the final documentation, with the White House saying in a statement ahead of President Joe Biden’s State of the Union Address that Sweden would join on Thursday.
-
-“Having Sweden as a NATO Ally will make the United States and our Allies even safer,” the statement said.
-
-Kristersson said NATO Secretary General Jens Stoltenberg had informed him that Sweden had been formally invited to join after all member states accepted the country’s accession protocol.
-
-The Swedish government said separately it would take the formal decision for the country to join NATO on Thursday.
-
-...
-
-[Data](articles/fc4c1606.json)
-
-[Extended Data](ext_articles/fc4c1606.ext.json)
-
----
-
-### Although the Cabinet and the president have decided to suspend the Parade law, commercial banks are auctioning for competition - Sajith Premadasa
-
-*2024-03-07 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178181) · `ta`
-
-Sajith Premadasa criticizes the suspension of the Paratete Act by the Cabinet and President, pointing out that commercial banks are not adhering to it. He highlights the importance of the act for micro, small, and medium-sized industries, which contribute significantly to the economy. Premadasa also mentions discussions with international financial institutions about implementing the act without causing banking crises.
-
-🟩
-
-Even the President also announced in Parliament that the Paratete Act was suspended until December 15, but today commercial banks are not implementing this. The Opposition Leader said that after the auction of private banks under the Paratede Act, there was no such thing in passing the law.
-
-I raise this issue for the micro, small and medium -sized industry that contributes to 50% of the country's GDP and 52% of employment. The Opposition Leader said that even if commercial banks did not implement the decision taken by the Cabinet, a Cabinet would not be useful.
-
-Opposition Leader Sajith Premadasa said this while speaking in Parliament on Thursday (07) on the suspension of the Paratete Act and the implementation of it.
-
-...
-
-[Data](articles/3b18bb77.json)
-
-[Extended Data](ext_articles/3b18bb77.ext.json)
-
----
-
-### Delete Chanakyan's allegations from Hansat;Prior accusation among the media - Challenge to Rohitha Abeygunawardena Chanakyan
-
-*2024-03-07 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178176) · `ta`
-
-Chanakyan Rasamanikam urged Hansat to remove false accusations, challenging Rohitha Abeygunawardena Chanakyan's allegations. He clarified the gold chain cutting issue in Parliament, emphasizing the importance of addressing public issues over personal disputes.
-
-🟩
-
-I have made clear to the congregation regarding the gold chain cutting issue. Chanakyan Rasamanikam urged Deputy Speaker Ajith Rajapaksa, who urged the Hansat to remove the false accusations from the Hansat record.
-
-He was speaking on the issue of order during the adjournment debate held in Parliament on Thursday (07).
-
-According to the Parliamentary Standing Ordinance, he should not contact him when there is no member of the House.When I am not in the House, MP Chanakyan Rasamanikam has made false allegations by referring to my name.
-
-I challenge him to refer to the allegations that the parliamentary privileges refer to the congregation among the media outdoors. I have clarified in the congregation regarding the gold chain cutting issue. So go out and mention the chain cutting issue.
-
-...
-
-[Data](articles/a7f5be73.json)
-
-[Extended Data](ext_articles/a7f5be73.ext.json)
 
 ---

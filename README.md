@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 22:03:20**
+As of **2024-03-08 22:17:57**
 
 ## Newspaper Stats
 
-*Scraped **11,749** Articles*
+*Scraped **11,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,426
 virakesarilk | 1,618
-dailymirrorlk | 1,793
+dailymirrorlk | 1,794
 adaderanasinhalalk | 1,846
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,746 (100.0%) of 11,749 articles have been extended.
+11,749 (100.0%) of 11,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
+
+### Matheesha Pathirana ruled out of 3rd T20I against Bangladesh
+
+*2024-03-08 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-Pathirana-ruled-out-of-3rd-T20I-against-Bangladesh/108-278514) · `en`
+
+Colombo, March 08 (SLC) -  Seamer Matheesha Pathirana will not be available for selection for the 3rd T20I, as the player has sustained a Grade 1 hamstring injury on his left leg.
+
+Pathirana suffered the injury while bowling in the 2nd T20i game.
+
+◼️
+
+[Data](articles/9dedd653.json)
+
+---
 
 ### Gold prices surge to fresh record high
 
@@ -50,23 +64,33 @@ Gold reached an all-time high of $2,185.19 after a report showed a rise in the U
 
 [Data](articles/497580fb.json)
 
+[Extended Data](ext_articles/497580fb.ext.json)
+
 ---
 
-### வடக்கின் பெரும் போர் பெரும் துடுப்பாட்டப் போட்டியில் யாழ்ப்பாணம் மத்திய கல்லூரி வெற்றி வாய்ப்பில் மிகவும் பலவீனமான நிலையில் உள்ளது
+### Jaffna Central College is very weak in the big bats of the North
 
 *2024-03-08 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178291) · `ta`
 
-இரண்டாவது இன்னிங்ஸில் துடுப்பெடுத்தாடி வரும் யாழ். மத்திய கல்லூரி வெள்ளிக்கிழமை (08) இரண்டாம் நாள் ஆட்டம் முடிவில் 140 ஓட்டங்களுக்கு 9 விக்கெட்களை இழந்துள்ளது. இன்னும் ஒரு விக்கெட்டே கைவசமுள்ள நிலையில் சென். ஜோன்ஸ் கல்லூரியைவிட 69 ஓட்டங்களே முன்னிலை வகிக்கிறது.
+Central College lost 9 wickets for 140 runs in the second innings of a match against Jones College in Jaffna. In the first innings, Central College scored 157 runs, with Sayanthan top-scoring with 55. Jones College scored 228 runs in their second innings, leading by 72 runs. Central College's bowlers, including Deison and Abhilash, took 4 wickets each, with Anusant taking 2.
 
-வடக்கின் பெரும் போர் என்று அழைக்கப்படும் யாழ். மத்திய கல்லூரி - சென். ஜோன்ஸ் கல்லூரி அணிகளின் 117ஆவது பெருந்துடுப்பாட்டப் போட்டி வியாழக்கிழமை (7) யாழ். மத்திய கல்லூரி மைதானத்தில் ஆரம்பமானது.
+🟩
 
-நாணயச் சுழற்சியில் வென்ற யாழ். மத்திய கல்லூரி முதலில் துடுப்பெடுத்தாடியது. முதல் இன்னிங்ஸில் அந்த அணி 56.5 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 157 ஓட்டங்களைப் பெற்றது. இதில், சயந்தன் அதிகபட்சமாக 55 ஓட்டங்களை எடுத்தார்.
+Jaffna in the second innings. Central College lost 9 wickets for 140 runs at the end of the second day of the second day on Friday (08). Sen still in a wicket -handed place. Only 69 runs are more leading than Jones College.
 
-பதிலுக்கு தனது முதல் இன்னிங்ஸை தொடங்கிய சென். ஜோன்ஸ் கல்லூரி முதல் நாள் ஆட்டம் முடிவில் 30.5 ஓவர்களில் 2 விக்கெட்கள் இழப்புக்கு 109 ஓட்டங்களைப் பெற்றிருந்தது. சச்சின் 36 ஓட்டங்களுடன் ஆட்டமிழக்காது இருந்தார்.
+The Great War of the North. Central College - Sen. Jones College Teams 117th Cultivation Tournament on Thursday (7) Jaffna. Started at the Central College Ground.
+
+Jaffna won the currency cycle. Central College first played. In the first innings, the team lost all wickets in 56.5 overs and scored 157 runs. Of these, Sayanthan scored a maximum of 55 runs.
+
+Sen who started his first innings in response. Jones College scored 109 runs for the loss of 2 wickets in 30.5 overs at the end of the first day of the game. Sachin was unbeaten with 36 runs.
+
+Sen continued the second day of the second day (8) today (8). Jones College. Sachin and team captain Jasial started the match.
 
 ...
 
 [Data](articles/078e272d.json)
+
+[Extended Data](ext_articles/078e272d.ext.json)
 
 ---
 
@@ -92,17 +116,23 @@ Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis 
 
 ---
 
-### බොරැල්ල හංදියේ වාහන 4ක් ගැටෙයි
+### Four vehicles hit by Borella Junction
 
 *2024-03-08 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194305) · `si`
 
-අප වාර්තාකරු පැවසුවේ මෝටර් රථයක් අධික වේගයෙන් ගමන් කර නවතා තිබූ පෞද්ගලික බස් රථයක් ගැටී අනතුර සිදුව ඇති බවය.
+At Borella Junction, a high-speed car crashed into a parked bus, damaging it and another van and car.
 
-අනතුරින් ඒ අසලින් ගමන්ගත් තවත් වෑන් රථයකට හා මෝටර් රථයකට ද හානි සිදුව තිබුණි.
+🟩
+
+Our correspondent said that the accident had occurred when a car had traveled at high speed and parked bus.
+
+Another van and a car were damaged in the accident.
 
 ◼️
 
 [Data](articles/145eceb4.json)
+
+[Extended Data](ext_articles/145eceb4.ext.json)
 
 ---
 
@@ -2333,27 +2363,5 @@ The plastic water bottles discarded by Sri Pada pilgrims were taken to the garba
 [Data](articles/9c7b02f9.json)
 
 [Extended Data](ext_articles/9c7b02f9.ext.json)
-
----
-
-### Maskeliya council collects three tons of plastic bottles during Sri Pada season
-
-*2024-03-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maskeliya-council-collects-three-tons-of-plastic-bottles-during-Sri-Pada-season/108-278472) · `en`
-
-Maskeliya, March 8 (Daily Mirror) - The Maskeliya District Council announced today that within three months of the 2023–2024 Sri Pada season commencing, they have successfully gathered three tons of plastic bottles discarded by pilgrims visiting Sri Pada.
-
-District Council Secretary S. Rajaweeran said garbage bins have been installed to dispose of plastic water bottles carried by pilgrims travelling along that route.
-
-Some pilgrims just throw plastic water bottles into the environment without putting them into garbage bins.
-
-Pilgrims do not follow the instructions given by the District Council to dispose of the raw food items in the bins placed for the disposal of garbage.
-
-The plastic water bottles discarded by Sri Pada pilgrims were taken to the garbage recycling center in Nallathanniya, from where it will be sold to the private sector, the secretary said.
-
-...
-
-[Data](articles/e933db0e.json)
-
-[Extended Data](ext_articles/e933db0e.ext.json)
 
 ---

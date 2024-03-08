@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 22:33:30**
+As of **2024-03-08 22:50:13**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,750 (100.0%) of 11,752 articles have been extended.
+11,752 (100.0%) of 11,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### ශ්‍රී පාදය වසා ගත් ප්ලාස්ටික් වතුර බෝතල්
+### Plastic water bottles of plastic water closed
 
 *2024-03-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194306) · `si`
 
-ශ්‍රී පාද උඩ මළුව දක්වා මාර්ගයේ වන්දනාකරුවන් බැහැර කර තිබු ප්ලාස්ටික් වතුර බෝතල් ටොන් 03ක් පමණ එක්රැස් කර තිබේ.
+The Sri Pada Uda Maluwaluwa has collected 3 tons of plastic water bottles, excluding pilgrims. These bottles are now being recycled at Nallathan's center.
 
-ශ්‍රී පාද වන්දනා වාරය ආරම්භ කර මාස තුනක් වැනි කෙටි කාලයක් තුළ නල්ලතන්නිය සිට ශ්‍රී පාද උඩ මළුව දක්වා මාර්ගයේ මෙම ප්ලාස්ටික් වතුර බෝතල් එකතු කළ බව මස්කෙළිය ප්‍රාදේශීය සභාවේ ලේකම් එස්.රාජවීරන් මහතා පවසයි.
+🟩
 
-ඒ මහතා පැවසුවේ වන්දනාකරුවන් රැගෙන යන ප්ලාස්ටික් වතුර බෝතල් බැහැර කිරීමට කසල බඳුන් සවිකර තිබුණ ද ඇතැම් වන්දනාකරුවන් සිය කැළි කසල පරිසරයට මුදාහරින බවය.
+The pilgrims have been excluded from the Sri Pada Uda Maluwaluwa has collects about three tons of plastic water supplied.
 
-මෙම එකතු කළ ප්ලාස්ටික් වතුර බෝතල් නල්ලතන්නියේ කැළි කසල ප්‍රතිචක්‍රිකරණ මධ්‍යස්ථානය වෙත රැගෙන විත් ඒවා පෞද්ගලික අංශය වෙත අලෙවි කිරීමට සැලසුම් කර ඇති බවද ලේකම්වරයා වැඩිදුරටත් ප්‍රකාශ කළේය.
+The Maskeliya Pradeshiya Sabha Secretary Sarajavaren said that the plastic water bottles were added to the Nallathaniya to Sri Padawatha.
+
+He said that though, some pilgrims were mounted to dispose of plastic water bottles carrying pilters.
+
+The Secretary further stated that the added plastic water bottles will be taken to the recycling center of Nallathan.
 
 ◼️
 
 [Data](articles/b4845249.json)
+
+[Extended Data](ext_articles/b4845249.ext.json)
 
 ---
 
@@ -80,7 +86,7 @@ Sen continued the second day of the second day (8) today (8). Jones College. Sac
 
 *2024-03-08 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-Pathirana-ruled-out-of-3rd-T20I-against-Bangladesh/108-278514) · `en`
 
-Colombo, March 08 (SLC) -  Seamer Matheesha Pathirana will not be available for selection for the 3rd T20I, as the player has sustained a Grade 1 hamstring injury on his left leg.
+Colombo, March 08 (SLC) -  Seamer Matheesha Pathirana will not be available for selection for the 3rd T20I against Bangladesh, as the player has sustained a Grade 1 hamstring injury on his left leg.
 
 Pathirana suffered the injury while bowling in the 2nd T20i game.
 
@@ -92,23 +98,33 @@ Pathirana suffered the injury while bowling in the 2nd T20i game.
 
 ---
 
-### றோயலை வீழ்ச்சியிலிருந்து இலங்கை இளையோர் அணித் தலைவர்  சினேத் மீட்டார்; ஆட்டம் சம அளவில்
+### Sri Lanka Youth Team Leader Sneath RecoversEquivalent
 
 *2024-03-08 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178292) · `ta`
 
-கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் நடைபெற்றுவரும் றோயல் கல்லூரிக்கும் பரி. தோமா கல்லூரிக்கும் இடையிலான 145ஆவது நிலவர்ணங்களின் கிரிக்கெட் சமரில் இலங்கையின் 19 வயதுக்குட்பட்ட உலகக் கிண்ண அணித் தலைவரும் றோயல் அணித் தலைவருமான சினேத் ஜயவர்தன அரைச் சதம் குவித்து றோயலை வீழ்ச்சியிலிருந்து மீட்டெடுத்தார்.
+Sri Lanka's 19-year-old captain Sineet Jayawardene scored 92 runs in 171 balls for Royal College, rescuing the team from a 234-run deficit against Toma College in a 145-year-old cricket match. Despite losing 4 wickets for 37 runs, including Jayawardene's, Royal College's total was 234, matching Toma's first innings score. The match ended in a draw, with Royal College leading the series 36-35.
 
-போட்டியின் ஆரம்ப நாளான வியாழனன்று பரி. தோமா அணி முழு நாளும் துடுப்பெடுத்தாடி முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 297 ஓட்டங்களைப் பெற்றது.
+🟩
 
-பதிலுக்கு போட்டியின் இரண்டாம் நாளான நேற்றைய தினம்  றோயல் அணி முழு நாளும்  தனது  முதலாவது இன்னிங்ஸில் துடுப்பெடுத்தாடி 7 விக்கெட்களை இழந்து 234 ஓட்டங்களைப் பெற்றிருந்தபோது போதிய வெளிச்சம் இன்மை காரணமாக ஆட்டம் நிறுத்தப்பட்டது.
+Colombo SSC. Royal College at the stadium. Sri Lanka's 19 -year -old World Cup captain and Royal team captain Sineet Jayawardene recovered a half -century in the 145th cricketing of the 145 -year -olds between Toma College and recovered Royal from the fall.
 
-இரண்டு அணிகளும் பெற்றுள்ள மொத்த எண்ணிக்கைகளை நோக்கும்போது இப் போட்டி சம அளவில் மோதிக்கொள்ளப்படுவதாகவே இப்போதைக்கு தென்படுகிறது.
+Thursday, the initial day of the competition. The Toma team scored 297 runs in the first innings and lost all the wickets in the first innings.
 
-போட்டியின் இரண்டாம் நாளான இன்று வெள்ளிக்கிழமை (08) காலை தனது முதலாவது இன்னிங்ஸை ஆரம்பித்த றோயல், 3ஆவது ஓவரில் 2ஆவது விக்கெட்டை இழந்தபோது ஒரு ஓட்டத்தை மாத்திரமே பெற்றிருந்தது.
+On the second day of the match, the Royal team was dismissed for 234 runs for the loss of 7 wickets in their first innings and scored 234 runs.
+
+The match is now seen as an equally clashed when looking at the total number of two teams.
+
+Royal, who started its first innings on Friday morning (08), on the second day of the match, scored only one run when he lost the 2nd wicket in the 3rd over.
+
+However, Sineet Jayawardene patiently batted with Ovina Ambanbola in 3rd wicket and rescued the team from the fall.
+
+Ovan Ambanbola was bowled out for more than 3 hours and faced 160 balls with 36 runs.
 
 ...
 
 [Data](articles/bfaabfbf.json)
+
+[Extended Data](ext_articles/bfaabfbf.ext.json)
 
 ---
 

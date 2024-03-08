@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 12:33:29**
+As of **2024-03-08 12:51:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,829
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,663 (100.0%) of 11,667 articles have been extended.
+11,667 (100.0%) of 11,667 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Police said that a search operation was initiated after informing the Sri Lanka 
 ◼️
 
 [Data](articles/811907d4.json)
+
+[Extended Data](ext_articles/811907d4.ext.json)
 
 ---
 
@@ -234,25 +236,33 @@ A ceremony was held today at Nalanda College in view of International Women's Da
 
 [Data](articles/c36d3a7c.json)
 
+[Extended Data](ext_articles/c36d3a7c.ext.json)
+
 ---
 
-### රම්‍යා වනිගසේකර සමුගනියි
+### Ramya Wenigasekara
 
 *2024-03-08 11:05:49* · [`adalk`](https://www.ada.lk/breaking_news/රම්‍යා-වනිගසේකර-සමුගනියි/11-408491) · `si`
 
-ප්‍රවීණ ගුවන්විදුලි නිවේදිකාවක සහ රංගන ශිලිපිනියකවූ රම්‍යා වනිගසේකර මහත්මිය අද (08) උදෑසන අභාවප්්‍රාප්ත වී තිබෙනවා.
+Ramya Wanigasekara, a renowned radio announcer, passed away at 88. Born in 1936 in Kegalle, she joined radio in 1980 and became a beloved figure in teledrama and movies.
 
-වර්ෂ 1936 ජනි මස 17 කෑගල්ල කොටියාකුඹුරේදී උපත ලත් ඇය මිය යනවිට වයස අවුරුදු 88 වනවා.
+🟩
 
-වර්ෂ 1974 දී වෙදීකා නාට්‍යවලට සම්බන්දවූ  අතර 1980 දී ගුවන්විදුලියට සම්බන්ධ විය.  1981 පටන් වර්ෂ 2006 දී ඇය විශ්‍රාරාම යනතෙක්ම ප්‍රවෘති නිවේදිකාවක්ව සේවය කලාය. වීශ්‍රාම ගැනීමෙන් අනතුරුවද ඇය වර්ෂ 2008 දක්වා එහි කොන්ත්‍රාත් පදනම මත සේවය සැපයුවේද ඇයට ඇති හැයාවන් හා දක්ෂාතා නිසාවෙන්මය.
+Ramya Wanigasekara, a veteran radio announcer and Rangana, has been deternated this morning.
 
-නිවේදනය මෙන්ම ඇයගේ හැකියාවන් රංගනයේද අතිවිශිෂ්ථ විය. ඒනිසාවෙන්ම ඇය ටෙලිනාට්‍ය හා චිත්‍රපට අතරින්ද ප්‍රේක්ෂකයන්ට සමීපවිය.
+The age of 88 years of the age of 88, 1936, in general area, Kegalle, Kegalle.
 
-තරමක් අසනීප තත්වයේ පසුවූ ඇය කෙටි කලක සිට ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී අද (08) උදෑසන මිය ගොස් තිබෙනවා.
+In 1974, Vedaka was connected to theater and joined the radio in 1980. From 1981 since 1981, she served as a retreating horticide announcement. After taking the source of events, she served on a contract basis for its contract basis.
+
+As well as her abilities were rantized in the performance. So she was close to the audience along with teledrama and movies.
+
+Later, she had died this morning while she was receiving treatment at the National Hospital.
 
 ◼️
 
 [Data](articles/858edd14.json)
+
+[Extended Data](ext_articles/858edd14.ext.json)
 
 ---
 

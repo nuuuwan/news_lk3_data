@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 21:33:20**
+As of **2024-03-08 21:52:24**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,742 (100.0%) of 11,746 articles have been extended.
+11,746 (100.0%) of 11,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### வெடுக்குநாறி மலையில் பதற்றம் : பலர் கைது
+### Tension on the Mount of Vedukkuni: Many arrested
 
 *2024-03-08 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178290) · `ta`
 
-வெடுக்குநாறி மலையில் சிவராத்திரி பூஜை வழிபாடுகள் இன்று வெள்ளிக்கிழமை (08) மாலைவேளையில் நடைபெற்றுகொண்டிருந்த போது சற்று பதற்றநிலை அதிகரித்தது. இதனால் பலர் கைதுசெய்யப்பட்டுள்ளதுடன் தாக்குதல் சம்பவமும் இடம்பெற்றுள்ளது.
+During Shivaratri Pooja at Vedukkunni Mountain, police ordered worship to end at 6 PM, leading to arrests and evacuation of women.
 
-வெடுக்குநாறி மலையில் சிவராத்திரி பூஜை வழிபாடுகள் நடைபெற்றுகொண்டிருந்த போது பொலிஸார் மாலை ஆறுமணியுடன் அனைத்து வழிபாடுகளையும் முடிவுக்கு கொண்டுவருமாறு தெரிவித்திருந்தனர்.
+🟩
 
-இதேவேளை நாடாளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் மற்றும் வேலன் சுவாமிகள் உள்ளி்ட்ட பலர் கைதுசெய்யப்பட்டிருந்ததுடன் வழிபாடுகளில் கலந்துகொண்ட பெண்களையும் அவ்விடத்திலிருந்து அப்புறப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+Shivaratri Pooja on Friday evening (08) at the Vedukkunni Mountain. This has resulted in the arrest of many and the attack.
+
+While the Shivaratri pooja was being held at the Vedukkunni hill, the police told them to end all the worship with six o'clock in the evening.
+
+Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis and the women who participated in the worship have been evacuated.
 
 ◼️
 
 [Data](articles/0216c02a.json)
+
+[Extended Data](ext_articles/0216c02a.ext.json)
 
 ---
 
@@ -105,6 +111,8 @@ After losing the first match, Bangladesh played a near perfect game in the secon
 ...
 
 [Data](articles/d2fd2a13.json)
+
+[Extended Data](ext_articles/d2fd2a13.ext.json)
 
 ---
 
@@ -1883,6 +1891,8 @@ The individuals interested in joining the discussion have been given the opportu
 ◼️
 
 [Data](articles/88479c82.json)
+
+[Extended Data](ext_articles/88479c82.ext.json)
 
 ---
 

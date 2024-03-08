@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-08 21:02:48**
+As of **2024-03-08 21:17:55**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 1,845
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,740 (100.0%) of 11,742 articles have been extended.
+11,742 (100.0%) of 11,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-08 (Friday)
 
-### ප්‍රභූ ජීවිත රැසක් මරුකටින් බේරූ අභීත පොලිස් කත
+### Insight into custody policemen who saved many elite lives
 
 *2024-03-08 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194304) · `si`
 
-තීක්ෂණ නුවණින් සහ ස්ථානෝචිත ප්‍රඥාවෙන් මව්බිමේ ගෞරවය ආරක්ෂා කළ අභීත පොලිස් කතක් පිළිබඳව අද දෙරණට වාර්තා වන්නේ අදට යෙදී ඇති කාන්තා දිනයේ වැදගත්කම තව තවත් තීව්‍ර කරමිනි.
+Ada Derana highlights a dedicated police officer who has bravely protected the lives of elites, showcasing their wisdom and courage.
+
+🟩
+
+Today, Ada Derana reports a heavy police person who has defended the honor of the motherland with insight and active wisdom.
 
 ◼️
 
 [Data](articles/916448b8.json)
 
+[Extended Data](ext_articles/916448b8.ext.json)
+
 ---
 
-### வெள்ளவத்தையில் வீதியின் ஒரு பகுதியில் ஏற்பட்டுள்ள பாரிய குழி!
+### A massive pit in a part of the road in Wellawatte!
 
 *2024-03-08 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178288) · `ta`
 
-காலி வீதி வெள்ளவத்தை டபிள்யூ.ஏ.சில்வா மாவத்தைக்கு அருகாமையில் உள்ள சந்தியில் காலி நோக்கி செல்லும் பாதையின் ஒரு பகுதி  மூடப்பட்டுள்ளது.
+A 4-foot diameter pit on WA Silva Mawatha road to Galle Road has been closed, affecting buses and heavy vehicles, rerouting them via the sea road.
 
-சுமார் 4 அடி விட்டம் கொண்ட பாரிய குழி ஒன்று ஏற்பட்டுள்ளதன் காரணமாகவே பாதையின் ஒரு பகுதி மூடப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இதன் காரணமாக காலியிலிருந்து கொழும்பு நோக்கிச் செல்லும் பஸ்கள் மற்றும் ஏனைய கனரக வாகனங்கள் கடல் மார்க்கமான வீதி ஊடாக கொழும்பு நோக்கிச் செல்ல ஏற்பாடு செய்யப்பட்டுள்ளது.
+Part of the road to Galle Road has been closed at the junction near WA Silva Mawatha.
+
+A part of the road has been closed due to a massive pit with about 4 feet in diameter, police said.
+
+Due to this, buses and other heavy vehicles traveling from Galle to Colombo have been arranged to Colombo via the sea road.
 
 ◼️
 
 [Data](articles/3ed6273e.json)
+
+[Extended Data](ext_articles/3ed6273e.ext.json)
 
 ---
 

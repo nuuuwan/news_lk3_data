@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 17:53:08**
+As of **2024-03-09 18:07:25**
 
 ## Newspaper Stats
 
-*Scraped **11,853** Articles*
+*Scraped **11,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,63 @@ tamilmirrorlk | 1,438
 adaderanalk | 1,439
 virakesarilk | 1,632
 dailymirrorlk | 1,815
-adaderanasinhalalk | 1,864
+adaderanasinhalalk | 1,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,852 (100.0%) of 11,853 articles have been extended.
+11,853 (100.0%) of 11,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### பாராளுமன்ற பஸ் பாஸ் இரத்து செய்யப்படாது
+### ජනපතිගේ ආරාධනයට සජිත්ගේ පක්ෂයෙන් ප්‍රතිචාර
+
+*2024-03-09 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194326) · `si`
+
+සමගි ජන බලවේගයේ මන්ත්‍රීවරුන් වැඩි පිරිසකගේ අදහසවී ඇත්තේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් සමග ජනාධිපතිවරයා විසින් කැඳවු සාකච්ඡාව සඳහා සහභාගී නොවීමට බව වාර්තා වෙයි.
+
+ඒ බව එම පක්ෂයේ ජාතික සංවිධායක තිස්ස අත්තනායක මන්ත්‍රීවරයා පවසයි.
+
+කෙසේවෙතත් ඒ සම්බන්ධයෙන් පක්ෂයේ මතය නිල වශයෙන් දැනුම් දෙනු ඇති බව අද (09) පැවති මාධ්‍ය හමුවකදී මන්ත්‍රීවරයා සඳහන් කළේය.
+
+මුල්‍ය අරමුදලේ නියෝජිතයින් පසුගිය වර දිවයිනට පැමිණි අවස්ථාවේදී මෙන්ම මෙවරදී ද ඔවුන් විපක්ෂ නායකවරයා හමුවී සාකච්ඡා කරනු ඇති බව සඳහන් කළ තිස්ස අත්තනායක මන්ත්‍රීවරයා එසේ නොමැතිව ආණ්ඩුවේ වැඩපිළිවෙලට සහාය පළ කරමින් ඔවුන් කැඳවන සාකච්ඡාවට සහභාගී වීමේ අපේක්ෂාවක් සිය පක්ෂයට නොමැති බව පෙන්වා දෙයි.
+
+ලබන 11 වනදා ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජිත පිරිස සමග සාකච්ඡාවක් සඳහා පාර්ලිමේන්තුවේ විපක්ෂය නියෝජනය කරන පක්ෂ නායකයින්ට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ආරාධනයක් සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/1c565c4b.json)
+
+---
+
+### Parliament Bus Pass will not be canceled
 
 *2024-03-09 17:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-பஸ்-பாஸ்-இரத்து-செய்யப்படாது/175-334427) · `ta`
 
-பாராளுமன்ற ஊழியர்களுக்கு வழங்கப்பட்ட இலவச லங்கம பஸ் பாஸ் ரத்து செய்ய திறைசேரியின் தீர்மானத்தை அமைச்சரவை நிராகரித்துள்ளது.
+The Cabinet has rejected the Treasury's decision to cancel the free Lanka bus pass for parliamentary employees, citing economic constraints. Despite the Treasury's decision to cancel the pass due to economic reasons, the Cabinet has decided to continue providing the free bus pass to Parliament employees, deeming it more advantageous than using buses.
 
-நாட்டின் பொருளாதார நிலையை கருத்தில் கொண்டு இந்த ஆண்டு தொடக்கத்தில் இருந்து பாஸை ரத்து செய்ய திறைசேரி முடிவு செய்தது.
+🟩
 
-அந்த பஸ் அனுமதிப்பத்திரத்திற்காக அரசாங்கம் வருடாந்தம் எட்டு கோடி ரூபாவை இலங்கை போக்குவரத்து சபைக்கு வழங்குகிறது.
+The Cabinet has rejected the Treasury's decision to cancel the free Lanka bus pass issued to parliamentary employees.
 
-நாட்டின் தற்போதைய பொருளாதார நிலைமைக்கு ஏற்ப இவ்வளவு தொகையை இந்த வருடம் ஒதுக்க முடியாது என திறைசேரி, பாராளுமன்றத்துக்கு  அறிவித்திருந்தது.
+Considering the country's economic status, the Treasury decided to cancel the pass from the beginning of this year.
 
-இது தொடர்பில் பாராளுமன்ற உத்தியோகத்தர் ஒருவரிடம் நாம் கேட்ட போது, ​​பாராளுமன்ற ஊழியர்களுக்கு வழங்கப்படும் இலவச பஸ் பாஸை தொடர்ந்து  வழங்குவதற்கு அமைச்சரவை தீர்மானம் எடுத்துள்ளதாக தெரிவித்தார்.
+The government provides eight crores annually for the bus permit to the Sri Lanka Transport Board.
 
-பாராளுமன்றத்தில் பஸ்களை பயன்படுத்துவதை விட இவ்வாறான அனுமதிப்பத்திரத்தை வழங்குவது மிகவும் சாதகமானது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+Treasury has informed parliament that this year cannot be allocated so much in accordance with the current economic situation in the country.
+
+When we asked a parliamentary officer in this regard, he said that the Cabinet has decided to continue to provide free bus pass to Parliament employees.
+
+He added that it is more advantageous to make such a license than to use buses in Parliament.
 
 ◼️
 
 [Data](articles/f118765c.json)
+
+[Extended Data](ext_articles/f118765c.ext.json)
 
 ---
 
@@ -2249,35 +2275,5 @@ Pathirana suffered the injury while bowling in the 2nd T20i game.
 [Data](articles/9dedd653.json)
 
 [Extended Data](ext_articles/9dedd653.ext.json)
-
----
-
-### Sri Lanka Youth Team Leader Sneath RecoversEquivalent
-
-*2024-03-08 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178292) · `ta`
-
-Sri Lanka's 19-year-old captain Sineet Jayawardene scored 92 runs in 171 balls for Royal College, rescuing the team from a 234-run deficit against Toma College in a 145-year-old cricket match. Despite losing 4 wickets for 37 runs, including Jayawardene's, Royal College's total was 234, matching Toma's first innings score. The match ended in a draw, with Royal College leading the series 36-35.
-
-🟩
-
-Colombo SSC. Royal College at the stadium. Sri Lanka's 19 -year -old World Cup captain and Royal team captain Sineet Jayawardene recovered a half -century in the 145th cricketing of the 145 -year -olds between Toma College and recovered Royal from the fall.
-
-Thursday, the initial day of the competition. The Toma team scored 297 runs in the first innings and lost all the wickets in the first innings.
-
-On the second day of the match, the Royal team was dismissed for 234 runs for the loss of 7 wickets in their first innings and scored 234 runs.
-
-The match is now seen as an equally clashed when looking at the total number of two teams.
-
-Royal, who started its first innings on Friday morning (08), on the second day of the match, scored only one run when he lost the 2nd wicket in the 3rd over.
-
-However, Sineet Jayawardene patiently batted with Ovina Ambanbola in 3rd wicket and rescued the team from the fall.
-
-Ovan Ambanbola was bowled out for more than 3 hours and faced 160 balls with 36 runs.
-
-...
-
-[Data](articles/bfaabfbf.json)
-
-[Extended Data](ext_articles/bfaabfbf.ext.json)
 
 ---

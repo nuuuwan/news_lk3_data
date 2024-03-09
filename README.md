@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 14:17:47**
+As of **2024-03-09 14:33:10**
 
 ## Newspaper Stats
 
-*Scraped **11,831** Articles*
+*Scraped **11,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,56 +19,86 @@ adalk | 999
 tamilmirrorlk | 1,432
 adaderanalk | 1,437
 virakesarilk | 1,627
-dailymirrorlk | 1,812
+dailymirrorlk | 1,813
 adaderanasinhalalk | 1,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,829 (100.0%) of 11,831 articles have been extended.
+11,831 (100.0%) of 11,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### අවසන් තරගයේ කාසියේ වාසිය බංග්ලාදේශය ට
+### Hasaranga returns, Sri Lanka to bat in T20 series decider against Bangladesh
+
+*2024-03-09 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hasaranga-returns-Sri-Lanka-to-bat-in-T20-series-decider-against-Bangladesh/108-278546) · `en`
+
+Sri Lanka were put into bat first in the third and final T20I against Bangladesh in Sylhet, as suspended captain Wanindu Hasaranga returned to the side after serving a two-match suspension.
+
+Hasaranga replaced left-arm fast bowler Dilshan Madushanka, while Nuwan Thushara came in for the injured Matheesha Pathirana, who was ruled out of today's T20I with a grade 1 hamstring injury on his left leg.
+
+Sri Lanka won the opening T20I between the two teams on Monday by three runs, before Bangladesh recorded a comfortable eight-wicket win in the second match of the series.
+
+◼️
+
+[Data](articles/e8637827.json)
+
+---
+
+### Bangladesh advantage of the final
 
 *2024-03-09 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194319) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන තුන්වන සහ අවසන් T20 තරගය අද (09) පැවැත්වෙයි.
+Bangladesh won the coin toss in the T20 match against Sri Lanka, deciding to bat first. The match, part of a two-game series, will be held today.
 
-එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබා දීමටය.
+🟩
 
-තරග 3කින් සමන්විත T20 තරගාවලියේ එක් තරගය බැගින් දෙපිලම ජයගෙන මේ වනවිට සම තත්ත්වයේ පසුවෙයි.
+Sri Lanka and the T20 match between Sri Lanka and Bangladesh will be held today (09).
+
+Bangladesh won the advantage of its coin and they decided to give the Sri Lankan team first to bat first.
+
+The two sides will win one of the two-match T20 tour.
 
 ◼️
 
 [Data](articles/ae780774.json)
 
+[Extended Data](ext_articles/ae780774.ext.json)
+
 ---
 
-### කාන්තාවන් 40%ක් සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත්වෙයි
+### 40% of women leave the sanitary towels
 
 *2024-03-09 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194317) · `si`
 
-පවතින ආර්ථික අර්බුදයත් සමග මෙරට කාන්තාවන් 40%ක් පමණ කාන්තා සනීපාරක්ෂක භාවිතයෙන් ඉවත්වී ඇති බවට නවතම සමීක්ෂණයකින් අනාවරණ වී තිබේ.
+Due to the economic crisis, 40% of Sri Lankan women have stopped using sanitary towels, impacting daily life and highlighting the high cost of hygiene products.
 
-එම සමීක්ෂණයෙන් අනාවරණ වී ඇත්තේ සනීපාරක්ෂක තුවා සඳහා ඉහළ මිලක් ගෙවීමට සිදුවීම ඊට ප්‍රධාන හේතුවක් වී ඇති බවය.
+🟩
 
-කොවිඩ් වසංගතයත් සමග පැනනැගුණු ආර්ථික අර්බුදය හේතුවෙන් සියලුම භාණ්ඩ සඳහා ගෙවිය යුතු මිල ගණන් අධික ලෙස ඉහළ ගොස් තිබේ.
+With the existing economic crisis, about 40% of Sri Lanka has left the use of women's hygiene.
 
-එය මෙරට පුරවැසියන්ගේ දෛනික ජීවිතයට දැඩි බලපෑමක් එල්ලකර ඇති අතර බොහෝ විට සිදුවූයේ ජනතාව තම පරිභෝජනයට ගන්නා භාණ්ඩ ප්‍රමාණය සීමා කිරීමය.
+The survey revealed that it was a key to a high price of a hygiene towel.
 
-පවුල් පාලනය පිළිබඳ සිවිල් සංවිධානය සිදුකළ නවතම සමීක්ෂණයක් එහි තවත් පැතිකඩක් පිළිබඳව අනාවරණ කර ඇත.
+The prices payable to all items have increased due to the economic crisis erupted with the Cowid plague.
 
-ඔවුන් පවසන්නේ පවතින ආර්ථික අර්බුදය හමුවේ මෙරට වයස අවුරුදු 15ත් 47ත් අතර කාන්තාවන්ගෙන් සියයට 40ක් කාන්තා සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත් වී ඇති බවය.
+It has been severely affected by the daily life of the citizens of this country and often the people limit the amount of goods they consume.
 
-එමගින් කාන්තාවකගේ ජීවවිද්‍යාත්මක චක්‍රයට ඇති කරනු ලබන බලපෑම අවධානය යොමු කළයුතු මට්ටමක පවතින බව එම සංවිධානය පෙන්වා දෙති.
+The latest survey of the civilian organization on family rule has been revealed in its profile.
+
+They say 40 percent of women aged between 15 and 47 percent of women have been withdrawn using women's hygiene towels in the face of the existing economic crisis.
+
+The organization points out that the impact of a woman's biological cycle is at a level of focus.
+
+Meanwhile, the public finance.lk says that the tax of Sri Lanka is higher than taxes, silk, golf sticks and artillery.
 
 ...
 
 [Data](articles/371202bf.json)
+
+[Extended Data](ext_articles/371202bf.ext.json)
 
 ---
 
@@ -2223,33 +2253,5 @@ Fitch Ratings – Mumbai/Colombo – 07 Mar 2024: Fitch Ratings has affirmed Sin
 [Data](articles/44188aeb.json)
 
 [Extended Data](ext_articles/44188aeb.ext.json)
-
----
-
-### Amidsta
-
-*2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடும்-கெடுபிடிகளுக்கு-மத்தியில்-வெடுக்குநாறிமலையில்-வழிபாடு/72-334387) · `ta`
-
-The temple in Vavuniya Vettu Nirimalai was closed for darshan due to arrests of the chief priest and temple administrator. Only residents were allowed after police investigation. Civilians from far were blocked. Parliamentarians and others were present, allowing them to visit at 10 am. The public walked 5 km from the main road. Buddhist clergy and Sinhalese from Kurundurmalai were also present.
-
-🟩
-
-The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vettu Nirimalai.
-
-The chief priest of the temple and the administrator of the temple were arrested by the Nedungeni police on Thursday (07).
-
-Subsequently, the Special Task Force and Police have been deployed around the temple and the police road has been laid to the main road to the temple.. Only the residents of the area were allowed inside after the police investigation.
-
-Meanwhile, the civilians who came from far away places for the Mahasivaratri worship were on the main road so that they could not go in.
-
-Parliamentarian Sivagnanam Sridharan, Selvarasa Gajendran, Velan Swamis and Ravikaran were also present at the scene.
-
-Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
-
-...
-
-[Data](articles/7070d6e0.json)
-
-[Extended Data](ext_articles/7070d6e0.ext.json)
 
 ---

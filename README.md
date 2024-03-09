@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 16:18:03**
+As of **2024-03-09 16:33:04**
 
 ## Newspaper Stats
 
-*Scraped **11,845** Articles*
+*Scraped **11,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,148 @@ economynextcom | 620
 islandlk | 636
 adalk | 999
 tamilmirrorlk | 1,436
-adaderanalk | 1,438
+adaderanalk | 1,439
 virakesarilk | 1,631
 dailymirrorlk | 1,814
-adaderanasinhalalk | 1,861
+adaderanasinhalalk | 1,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,841 (100.0%) of 11,845 articles have been extended.
+11,845 (100.0%) of 11,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### யாழ். நெல்லியடி பகுதிக்கு புதிய இந்திய துணை தூதுவர் விஜயம்!
+### ‘War crime’: UN deplores Israel’s settlement expansion in occupied Palestine territory
+
+*2024-03-09 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97839/war-crime-un-deplores-israels-settlement-expansion-in-occupied-palestine-territory) · `en`
+
+UN Human Rights Chief Volker Türk on Friday deplored Israel’s latest actions regarding the occupied West Bank, saying the drastic acceleration in settlement building is exacerbating long-standing patterns of oppression, violence and discrimination against Palestinians.
+
+“Reports this week that Israel plans to build a further 3,476 settler homes in Maale Adumim, Efrat and Kedar fly in the face of international law,” Türk said.
+
+In a report to the Human Rights Council, Türk said that the establishment and continuing expansion of settlements amount to the transfer by Israel of its own civilian population into the territories that it occupies, which amounts to a war crime under international law.
+
+...
+
+[Data](articles/df01dc24.json)
+
+---
+
+### බංග්ලාදේශයට ලකුණු 175ක ඉලක්කයක්
+
+*2024-03-09 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194324) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර තීරණාත්මක 3වන සහ අවසන් T20 ක්‍රිකට් තරගය සිලට් හිදී මේ වනවිට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත් වූ අතර ඔවුන් පළමුවෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කළේය.
+
+බංග්ලාදේශ කණ්ඩායමේ ආරධනයෙන් පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 තුළ කඩුලු 06ක් දැවී ලකුණු 174ක් රැස් කළේය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් පන්දු 55කට මුහුණ දෙමින් හයේ පහර 6ක් සහ හතරේ පහර 6ක් ද සමගින් ලකුණු 86ක් රැස් කළේය.
+
+ඒ අනුව තරගය ජයගැනීමට බංග්ලාදේශ කණ්ඩායමට හිමිවී ඇති ඉලක්කය ලකුණු 175කි.
+
+◼️
+
+[Data](articles/e20050e0.json)
+
+---
+
+### නයිජීරියාවේ අවිගත් කණ්ඩායමක් පාසල් සිසුන් 280ක් පැහැරගනී
+
+*2024-03-09 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194323) · `si`
+
+නයිජීරියාවේ අවිගත් කණ්ඩායමක් එරට නිරතදිග කුරිගා නගරයේ පිහිටි පාසලක සිසුන් 280ක් පැහැර ගෙන ගොස් තිබේ.
+
+පැහැරගෙන ගොස් සිටින සිසුන් වයස අවුරු 8-15ත් අතර පිරිසක් වන අතර මෙය සතියක් තුළ එරටින් වාර්තා වූ දෙවන සමූහ පැහැර ගැනීමය.
+
+පාසල් සිසුන් ක්‍රීඩාංගණයේ රැස්වී සිටියදී අවිගත් කල්ලි සාමාජිකයින් යතුරුපැදි කිහිපයකින් පාසල තුළට ඇතුළුවී පැහැරගැනීම සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/c360a8a0.json)
+
+---
+
+### Yall. New Indian Ambassador to Nelliyadi area
 
 *2024-03-09 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178317) · `ta`
 
-இலங்கைக்கான இந்திய துணை தூதரகத்தின் யாழ். துணை தூதரக அதிகாரிகள் இன்று சனிக்கிழமை (09) காலை 11:45 மணியளவில் விஜயம் ஒன்றினை மேற்கொண்டனர்.
+Indian Consulate officials, including the Deputy Ambassador, visited the Information Technology Training Center in Nelliyadi, Sri Lanka, on Saturday. This follows the establishment of a partnership between the Information Technology College in Jaffna District and Dhammika Perera's IT College.
 
-நெல்லியடியில் இடம் பெறும் தகவல் தொழில்நுட்ப பயிற்சி நிலையத்தை பார்வையிடவே இந்திய துணை தூதர் தலைமையிலான அதிகாரிகள் வருகை தந்திருந்தனர்.
+🟩
 
-தம்மிக்க பெரேராவின் தகவல் தொழில் நுட்ப கல்லூரியுடன் இணைந்து யாழ்ப்பாண மாவட்டத்தில் நடாத்தப்படுகின்ற தகவல் தொழில்நுட்ப பயிற்சி கூடங்களை பார்வையிடுவதன் தொடர்ச்சியாகவே குறித்த வருகை இடம்பெற்றுள்ளது.
+Indian Consulate in Sri Lanka. Sub -embassy officials made a visit to 11:45 am on Saturday (09).
+
+Officials headed by the Indian Deputy Ambassador to visit the Information Technology Training Center in Nelliyadi.
+
+The arrival of the Information Technology College of Information Technology in the Jaffna District in partnership with Dhammika Perera's Information Technology College has been followed.
 
 ◼️
 
 [Data](articles/a3c9521b.json)
 
+[Extended Data](ext_articles/a3c9521b.ext.json)
+
 ---
 
-### வெடுக்கு நாறியில் பொலிஸார் நடந்துகொண்ட விதம் அடாவடித்தனமே - அமைச்சர் டக்ளஸ்
+### Minister Douglas
 
 *2024-03-09 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178316) · `ta`
 
-வெடுக்குநாறிமலை ஆதி சிவன் கோவிலில் சிவராத்திரி வழிபாட்டில் ஈடுபட்டிருந்தவர்கள் மீது பொலிஸாரால் மேற்கொள்ளப்பட்ட செயற்பாடுகள் அனைத்தும் அடாவடித்தனம் என சுட்டிக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா இவ்வாறான செயற்பாடுகள் நாட்டில் இன நல்லிணக்கதை சீர்குலைக்கும் வகையில் அமைகின்றது எனவும் தெரிவித்துள்ளார்.
+Minister Douglas Devananda criticized police actions during Shivaratri at Adi Shiva Temple, accusing them of disrupting ethnic harmony. He highlighted the police's behavior as a humiliation of Shiva devotees, questioning who authorized such obstacles.
 
-பளைப் பகுதியில் எரிபொருள் நிலைய திறப்புவிழா நிகழ்வு இன்றுகாலை நடைபெற்றது. இந்நிகழ்வில் கலந்துகொண்ட அமைச்சரிடம் ஊடகவியலாளர்கள் குறித்த விடயம் தொடர்பில் கேட்டபோதே இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-சிவராத்திரிதினம் என்பது இந்துக்களின் முக்கிய சமயம் சார் நிகழ்வாகும். இதனை முன்னிடு குறித்த ஆலயத்தில் வழிபாடுகளை மேற்கொள்ள அடியவர்கள் சென்றபோது பொலிசார் தடுத்து நிறுத்து அடாவடியில் ஏடுபடுத்துயுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Minister Douglas Devananda pointed out that all the activities carried out by the police on the Shivaratri worship at the Adi Shiva Temple at the Adi Shiva Temple at the Adi Shiva Temple, said Minister Douglas Devananda that such activities are aimed at disrupting ethnic harmony in the country.
 
-குறிப்பாக வெடுக்குநாறிமலை ஆதி சிவன் கோவிலில் நீதிமன்ற அனுமதியுடன் சிவராத்திரி வழிபாட்டில் ஈடுபட்டுக் கொண்டிருந்த சிவ பக்தர்களையும், அவர்களின் வழிபாட்டையும் அவமானப்படுத்தும் வகையில் பொலிசார் நடந்துகொண்ட விதம் அவர்களது அடாவடித்தனமாகவெ இருக்கின்றது.
+The fuel station inauguration was held this morning. He made this statement when he was asked about the issue of journalists.
+
+Shivaratri is the main religion of the Hindus. It is reported that the police have stopped the temple when they went to worship the temple.
+
+In particular, the manner in which the police behaved in a shame to humiliate the Shiva devotees and their worship of Shivaratri with the permission of the Adi Shiva Temple at the Adi Shiva Temple.
+
+It is his right to see the temple vision. No one has the authority to prevent this. In this case, who allowed the police to perform such obstacles and obstacles in the temple area?At the same time, this cannot be accepted.
 
 ...
 
 [Data](articles/639afe10.json)
 
+[Extended Data](ext_articles/639afe10.ext.json)
+
 ---
 
-### மகளிர் தினத்தில் போதைப்பொருள் பார்ட்டி : 27 பேர் கைது
+### Drug Party on Women's Day: 27 arrested
 
 *2024-03-09 15:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளிர்-தினத்தில்-போதைப்பொருள்-பார்ட்டி-27-பேர்-கைது/175-334425) · `ta`
 
-மகளிர் தினமான வெள்ளிக்கிழமை (08) இரவு  பல்கலைக்கழக மாணவி ஒருவரின் பிறந்தநாள் விழாவிற்கு பேஸ்புக் ஊடாக அழைக்கப்பட்ட பல்கலைக்கழக மாணவிகள் ஐவர் உட்பட இருபத்தேழு பேரை கஹதுடுவ பொலிஸார் கைது செய்துள்ளனர்.
+Kahatuduwa police arrested 27, including 5 university students, for drug use at a birthday party. They seized 20mg of hashish, Wagon R, three other drugs, and three phones.
 
-போதைப்பொருளை நுகர்ந்து கொண்டிருந்த நிலையிலேயே இவர்கள் கைது செய்யப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அவர்களில், தனியார் பல்கலைக்கழகத்தில் கல்வி கற்கும் ஐந்து மாணவிகள் மற்றும் 12 ஆண் மாணவர்கள் உட்பட இருபத்தேழு பேர் இங்கு கைது செய்யப்பட்டுள்ளனர்.
+Kahatuduwa police have arrested twenty -seven people, including five university students who were invited on Facebook for a birthday party of a university student on Friday night (08).
 
-கைது செய்யப்பட்டவர்களில் மூன்று விபச்சாரிகளும் உள்ளடங்குவதுடன், காலி பிரதேசத்தைச் சேர்ந்த நண்பர்கள் நால்வர் வாடகைக்கு எடுத்த காரில் விருந்துக்கு போதைப்பொருள் கொண்டு வந்தமை தெரியவந்துள்ளது.
+They have been arrested while consumption of drugs, police said.
 
-தியத்தலாவ பிரதேசத்தில் உள்ள தனியார் பல்கலைக்கழகம் ஒன்றில் கல்வி கற்க ஹோமாகம உடுவான பகுதியில் உள்ள அடுக்குமாடி குடியிருப்புக்கு 45,000 ரூபாய் வாடகைக்கு விடப்பட்ட வீட்டில் அவரது இருபத்தி இரண்டாவது பிறந்தநாளை முன்னிட்டு இந்த விருந்து இடம்பெற்றது.
+Among them, twenty -seven students, including five students and 12 male students at a private university, have been arrested.
 
-...
+Three of the arrested persons were included in the rented car, including four friends from Galle, were brought to the banquet.
+
+The banquet was held on the occasion of his twenty -second birthday at a house where a rented house of Rs 45,000 was rented to an apartment in the Homagama Uduvana area.
+
+The arrested suspects have seized 20 milligrams of Hashis drug, Wagon R, three drugs and three mobile phones.
+
+The suspects have been arrested on information received by the Chief Inspector of Police Priyankara to the Kahaduduwa Police Station and the suspects are to be produced before the Kesbewa court.
+
+◼️
 
 [Data](articles/616b3d14.json)
+
+[Extended Data](ext_articles/616b3d14.ext.json)
 
 ---
 
@@ -118,23 +194,33 @@ The owner owner calls for authorities to determine why compensation has been pai
 
 ---
 
-### காற்றாலை மின் திட்டம் மெசிடோ அவசர கடிதம்
+### Wind Power Project Messido Emergency letter
 
 *2024-03-09 15:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/காற்றாலை-மின்-திட்டம்-மெசிடோ-அவசர-கடிதம்/72-334424) · `ta`
 
-மன்னார் தீவில் 2 ஆம் கட்டமாக அமைக்கப்படவுள்ள காற்றாலை மின் திட்டத்தினால் ஏற்பட உள்ள பாதிப்பு குறித்து மத்திய சுற்றாடல் அதிகார சபைக்கு அவசர  கடிதம் ஒன்றை அனுப்பி  வைத்துள்ளதாக  மெசிடோ நிறுவனத்தின் பணிப்பாளர் ஜாட்சன் பிகிறாடோ  தெரிவித்தார்.
+Messido's Director Jatson Pirikado sent an emergency letter to the Central Environmental Authority about the wind power project's impact on Mannar Island. Concerns include environmental damage, bird decline, habitat destruction, and economic loss. The project's first phase led to significant environmental impacts, raising concerns about further installations.
 
-மன்னார் மாவட்டத்தில் குறிப்பாக மன்னார் தீவினுள் பெரிதும் பேசுபொருளாக காணப்படும் காற்றாலை மின்சாரத்தினால் ஏற்படுகின்ற, ஏற்படப் போகின்ற பாதிப்புக்கள் குறித்து மன்னார் சமூக பொருளாதார மேம்பாட்டுக்கான நிறுவனம் மின்னஞ்சல் வாயிலாக மத்திய சுற்றாடல் அதிகார சபைக்கு கடிதமொன்றினை அனுப்பி வைத்துள்ளோம்.
+🟩
 
-மன்னார் கரையோரப் பகுதிகளில் காற்றாலைகளை நிறுவுவது தொடர்பில் பொது மக்கள், சமூக ஆர்வலர்கள் தமது கவலைகளை வெளிப்படுத்தி வருகின்றனர்.
+Messido's Director Jatson Pirikado said that an emergency letter has been sent to the Central Environmental Authority regarding the impact of the wind power project to be built on the 2nd phase of the Mannar Island.
 
-காற்றாலை விசையாழி நிறுவலின் முதல் கட்டத்தால் ஏற்பட்டுள்ள  குறிப்பிடத்தக்க சுற்றுச்சூழல் பாதிப்புக்கள் குறித்து தெரிவிக்கப்பட்டுள்ளது.
+We have sent a letter to the Central Environmental Authority by email on the impact of wind power in the Mannar district, especially in the Mannar Island.
 
-போதுமான தணிப்பு நடவடிக்கைகள் இல்லாமல் மேலும் நிறுவல்களை மேற்கொள்ள எத்தனிப்பது குறித்து எம்முடைய கவலை வெளிப்படுத்தப்பட்டுள்ளது.
+The public and community activists are expressing their concerns over the establishment of windmills along the Mannar coast.
+
+The significant environmental impacts of the first phase of the wind turbine installation have been reported.
+
+Our concern has been expressed about how to carry out further installations without adequate sedation.
+
+In the early stages, 30 windmills were installed to generate electricity from 63 to 95 MW.
+
+However, the Environmental Agreement Assessment Report has failed to offer clear values to alleviate the opposite impacts on nature, community and economy.
 
 ...
 
 [Data](articles/b3774aac.json)
+
+[Extended Data](ext_articles/b3774aac.ext.json)
 
 ---
 
@@ -2161,93 +2247,5 @@ After losing the first match, Bangladesh played a near perfect game in the secon
 [Data](articles/d2fd2a13.json)
 
 [Extended Data](ext_articles/d2fd2a13.ext.json)
-
----
-
-### Foreigners were trapped in the south
-
-*2024-03-08 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194303) · `si`
-
-Russians and Ukrainians in Sri Lanka on tourist visas are reportedly trapped in the south, facing issues with the local tourism industry. They've been spotted on social media and at guided locations, indicating conflicts with locals. Government intervention is sought.
-
-🟩
-
-Rharrana and Ukrainians who have come to Sri Lanka on tourist visa have revealed Ada Derana yesterday (07).
-
-The local tourism industry alleges that foreign tourists are currently in Sri Lanka.
-
-The Ada Derana was explored in the Southern Province.
-
-There he was seen that the Russians and Ukrainians are engaged in tourism in social media accounts.
-
-Another number of evidence has been made to the eye at the search of exploration carried out in the Southern Province.
-
-A tourist couple who arrived in the island have been found that a foreigner who has come to Sri Lanka to a guided place.
-
-It was also seen where a foreign tourist was able to get foreign tourists and offers him.
-
-Sri Lankans engaged in tourism are said that foreigners are in conflicts between local tourism industry.
-
-Ada Derana bearer today until Ada Derana has been involved in the intervention of government officials.
-
-◼️
-
-[Data](articles/1fbfbde4.json)
-
-[Extended Data](ext_articles/1fbfbde4.ext.json)
-
----
-
-### ‘He’s in great shock’: Surviving father, community struggle to process mass killing of family
-
-*2024-03-08 20:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97827/hes-in-great-shock-surviving-father-community-struggle-to-process-mass-killing-of-family) · `en`
-
-Canada’s Barrhaven residents and members of Ottawa’s Sri Lankan community say they are struggling to process the horrific mass killing of four young children, their mother and a family acquaintance.
-
-Their bodies were found in their home in Barrhaven, about 15 kilometres south of Ottawa’s downtown core, on Wednesday night.
-
-Only the children’s father survived. He was injured in the attack with an edged weapon and was taken to hospital.
-
-“We are all shocked, no doubt about that,” said Bhante Suneetha, who met the family at a local Buddhist monastery, and described them as sweet and kind.
-
-“In my life, I haven’t heard of such a tragic moment in our community.”
-
-Into the night, dozens of residents moved by what happened streamed silently into a dark tree-lined park two blocks away from the townhouse.
-
-They lit candles and dropped off flowers and stuffed animals at a makeshift memorial.
-
-On Thursday, police said the family were newcomers to Canada from Sri Lanka.
-
-...
-
-[Data](articles/215a284d.json)
-
-[Extended Data](ext_articles/215a284d.ext.json)
-
----
-
-### President invites Sajith and Sridharan
-
-*2024-03-08 20:09:03* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-අනුරට--සජිත්ට-හා-ශ්‍රීධරන්ට-ආරාධනා/11-408501) · `si`
-
-President Ranil Wickremesinghe invites Sajith Premadasa, Anura Kumara Dissanayake, and Sivagnaganam Sividharan to discuss IMF proposals. Hersha de Silva requests the President to facilitate discussions with the IMF. Key participants include State Ministers, Presidential Staff, and Economic State Institute Senior Advisors.
-
-🟩
-
-President Ranil Wickremesinghe has taken steps to allow the party leaders who are recognized to discuss the International Monetary Fund's proposals.
-
-Accordingly, Opposition Leader Sajith Premadasa, Anura Kumara Dissanayake, Leader of the TNA leader Sivagnaganam Sividharan has been invited to attend the leader Sivagneam Sirasharan.
-
-The Chairman of the Committee of Parliament has also been informed to participate in this regard.
-
-Hersha de Silva has requested the President Ranil Wickremesinghe to provide the opportunity to discuss the opportunity to discuss the proposals with the International Monetary Fund.The President is the key to collective accountability in all parties.
-
-State Ministers Shehan Semasinghe, Presidential Staff Level Sanaganayake, Presidential Secretariat, Secretary to the Ministry of Finance, Sagan Ekanayake, Secretary to the Ministry of Finance. M. Mahinda Siriwardena and Economic State Institute Senior Advisor to Dr. R. H. S. Samaratunga will also participate.
-
-◼️
-
-[Data](articles/1fbd366e.json)
-
-[Extended Data](ext_articles/1fbd366e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 03:33:10**
+As of **2024-03-10 03:51:05**
 
 ## Newspaper Stats
 
@@ -26,19 +26,25 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,877 (100.0%) of 11,878 articles have been extended.
+11,878 (100.0%) of 11,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### துப்பாக்கி சூட்டில் ஒருவர் காயம்
+### In injury to someone in the shooting
 
 *2024-03-10 02:58:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-ஒருவர்-காயம்/175-334431) · `ta`
+
+"Injury occurred during a shooting incident."
+
+🟩
 
 ◼️
 
 [Data](articles/80ac3c62.json)
+
+[Extended Data](ext_articles/80ac3c62.ext.json)
 
 ---
 

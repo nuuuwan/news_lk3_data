@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 08:52:07**
+As of **2024-03-09 09:02:53**
 
 ## Newspaper Stats
 
-*Scraped **11,792** Articles*
+*Scraped **11,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 617
 dailyftlk | 617
 islandlk | 636
 adalk | 997
-tamilmirrorlk | 1,424
-adaderanalk | 1,431
+tamilmirrorlk | 1,425
+adaderanalk | 1,432
 virakesarilk | 1,623
 dailymirrorlk | 1,804
 adaderanasinhalalk | 1,851
@@ -26,15 +26,57 @@ adaderanasinhalalk | 1,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,790 (100.0%) of 11,792 articles have been extended.
+11,792 (100.0%) of 11,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### வெடுக்குநாறி விபத்தில் மூவர் காயம்
+### At least 287 school children kidnapped by armed gunmen in Nigeria
+
+*2024-03-09 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97832/at-least-287-school-children-kidnapped-by-armed-gunmen-in-nigeria) · `en`
+
+At least 287 school children, some as young as eight years old, are being held by gunmen who raided their school in Nigeria’s northwestern Kaduna State early Thursday, a police spokesperson told CNN Friday.
+
+More than 300 students were taken early Thursday by the armed bandits on motorcycles who stormed the LEA Primary and Secondary School in the Kuriga village of Kaduna’s Chikun district, the state’s police spokesman Mansur Hassan said.
+
+Some of the students were rescued but 287 of them remain with the kidnappers, Hassan said.
+
+“Students were kidnapped from the school premises on Thursday morning around 8:00 am (local time). About 287 students are still in the hands of the bandits, 100 from the primary side and 187 from the secondary school,” Hassan said, adding that “over 300 students were initially kidnapped, but some were rescued.”
+
+...
+
+[Data](articles/7fcb2862.json)
+
+---
+
+### Three injured in an accident
 
 *2024-03-09 08:31:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விபத்தில்-மூவர்-காயம்/175-334408) · `ta`
+
+Three, including parliamentarian Selvarajah Gajendran, were injured in Vedukkuni Mountain. One was treated at Nedungeni Hospital, then Vavuniya Hospital. Tension arose between police and devotees over water supply to Adisivan Temple in Vavuniya North, leading to roadblocks and disruptions.
+
+🟩
+
+Three persons, including parliamentarian Selvarajah Gajendran, were injured when a drinking water machine was carried out in the Vedukkuni Mountain.
+
+One of them was admitted to the Nedungeni Hospital and later transferred to the Vavuniya Hospital for further treatment.
+
+There was tension between the police and the devotees as the police refused to provide drinking water to the people who visited the Adisivan Temple in Vavuniya North.
+
+The police, who had put on roadblocks since morning, were disrupted to carry drinking water inside the temple premises.. Drinking water supply was carried out amidst severe rhetoric.
+
+◼️
+
+[Data](articles/9354d83e.json)
+
+[Extended Data](ext_articles/9354d83e.ext.json)
+
+---
+
+### வெடுக்குநாறி விபத்தில் எம்.பி உட்பட மூவர் காயம்
+
+*2024-03-09 08:31:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விபத்தில்-எம்-பி-உட்பட-மூவர்-காயம்/175-334408) · `ta`
 
 வெடுக்குநாறி மலையில் குடிநீர் எடுத்துச்சென்ற உழவு இயந்திரம் விபத்துக்குள்ளானதில் பாராளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் உள்ளிட்ட 3 பேர் காயமடைந்துள்ளனர்.
 
@@ -46,29 +88,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/9354d83e.json)
+[Data](articles/bf16ce8f.json)
 
 ---
 
-### அதிகாலை விபத்தில் மூவர் பலி
+### Three killed in early morning accident
 
 *2024-03-09 08:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அதிகாலை-விபத்தில்-மூவர்-பலி/94-334407) · `ta`
 
-சனிக்கிழமை (09) அதிகாலை 1.30 மணியளவில் இடம்பெற்ற வாகன விபத்தில் பாடசாலை மாணவர் உட்பட மூவர் உயிரிழந்துள்ளதாக மிஹிந்தலை பொலிஸார் தெரிவித்தனர்.
+Three killed, including a schoolgirl, in a 1.30 am accident in Rambawewa, Anuradhapura. A group of youths collided with a traveler, killing three aged 14, 19, and 21. Three injured, admitted to Anuradhapura Teaching Hospital. Driver escaped, police investigating.
 
-அநுராதபுரம் - ரம்பேவ பிரதான வீதியில் ரம்பேவ புறநகர் பகுதியிலேயே இவ்விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-ரம்பேவ நகரில் இடம்பெற்ற இசை நிகழ்ச்சி ஒன்றில் கலந்து கொண்டு திரும்பிக்கொண்டிருந்த இளைஞர்கள் பயணித்த கெப் வண்டியொன்று மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Mihintale police said that three people, including a schoolgirl, were killed in a vehicle accident that occurred at around 1.30 am on Saturday (09).
 
-ரம்பேவ வன பிரதேசம் மற்றும் தம்பலகொல்லையில் வசிக்கும் 14, 19 மற்றும் 21 வயதுடைய மூவரே விபத்தில் உயிரிழந்துள்ளனர்.
+The incident took place in the suburb of Rambawewa on the main road of Anuradhapura.
 
-விபத்தில் படுகாயமடைந்த மேலும் மூவர் அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The accident occurred when a group of youths who were traveling in a concert in Rambawa collided with a traveler.
 
-விபத்துக்குப் பிறகு,  கெப் வண்டியின் சாரதி தப்பிச் சென்றார், மேலும் அவரைக் கண்டுபிடிக்க பல பொலிஸ் குழுக்கள் விசாரணையைத் தொடங்கியுள்ளன என பொலிஸார் தெரிவித்தனர்.
+Three people aged 14, 19 and 21, who live in the Rambewa forest area and Thambalakollai, were killed in an accident.
+
+Three more people were injured in the accident and have been admitted to the Anuradhapura Teaching Hospital, police said.
+
+After the accident, the driver of the cab escaped, and several police teams had begun investigations to find him, police said.
 
 ◼️
 
 [Data](articles/b2e0a84d.json)
+
+[Extended Data](ext_articles/b2e0a84d.ext.json)
 
 ---
 
@@ -2189,59 +2237,5 @@ The Valachchenai has been handed over to the Valachchenai Police for the later s
 [Data](articles/898b81f5.json)
 
 [Extended Data](ext_articles/898b81f5.ext.json)
-
----
-
-### Still the victimization and violence
-
-*2024-03-08 14:24:03* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-හිංසනය-හා-ප්‍රචණ්ඩත්වය-පිටුදකිමු/11-408495) · `si`
-
-On March 8, Wiodone (Win Win) organized an awareness program for International Women's Day in Sri Lanka, featuring a sculpture titled "Masterpiece of Abuse," highlighting violence against women. The event aimed to raise awareness about the challenges faced by women in the country, advocating for a focus on addressing these issues rather than just celebrating women's day.
-
-🟩
-
-Awareness program organized by the Wiodone (Win Win) organized by the International Women's Day and women with women and girls in Sri Lanka was held on March 8.
-
-'Masterpiece of abuse' is a sculpture of violence and violent women, using pressing the violent events and abuses of womenThe sculpture is created.
-
-It was advisable to represent the "art of dropping than the congratulations of the media in the women's day alone.
-
-These problems, as well as women who faced women around the country, were brought to the public about difficult challenges in everyday life.
-
-◼️
-
-[Data](articles/0f715d90.json)
-
-[Extended Data](ext_articles/0f715d90.ext.json)
-
----
-
-### Prices to disabled the price control of milk powder companies
-
-*2024-03-08 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194291) · `si`
-
-The government's decision to reduce milk powder prices has been met with skepticism. Deputy Secretary A. K. Mr. Seneviratne defended the move, stating it was aimed at generating government income. However, an official from the Ministry of Trade, Commerce, and Food Protection denied any price reduction for milk powder. Harsha de Silva, a critic, claimed the price form from 2018 was never agreed upon and was extended yearly until 2019, when the Ministry of Finance stopped it. The Ministry of Trade brought a document to the Deputy Secretary, who could not approve it, leading to the price form's suspension in December 2019.
-
-🟩
-
-The Pricing Form prepared to determine the price of imported milk
-
-Deputy Secretary, A. K. Mr. Seneviratne commented on the Government Finance of the Government.
-
-"The tax reduced by the tax has not reduced. We have done this from the idea of obtaining it and to make some income as the government. "
-
-"If you get January 2023, the CIF value of Rs. 1550 has come. In the past February was reduced to Rs. "
-
-An officer of the Ministry of Trade, Commerce and Food Protection - "will not be a price to milk powder."
-
-Harsha de Silva - "No matter what I don't have the 2018 price form. Not like it, everyone agreed to it. Ever away, when he removes the price. "
-
-An official of the Ministry of Trade, Commerce and Food Protection - "Prices were formulated but not approved by the Treasury."
-
-...
-
-[Data](articles/b64ca528.json)
-
-[Extended Data](ext_articles/b64ca528.ext.json)
 
 ---

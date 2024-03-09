@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 09:51:36**
+As of **2024-03-09 10:02:43**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 1,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,802 (100.0%) of 11,803 articles have been extended.
+11,803 (100.0%) of 11,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### පැරෂුටයෙන් ආ මාරයා
+### Manually from Parachu
 
 *2024-03-09 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194312) · `si`
 
-ගාසා තීරයට ගුවනින් හෙළන ලද ආධාර පැකේජයකට යටවීමෙන්  පුද්ගලයින් පස් දෙනෙකු මියගොස් තිබේ.
+A parachute carrying a management package caused a deadly collision, killing five. Aid from the US, Jordan, Egypt, France, Netherlands, and Belgium is being provided to Gaza. The US and Jordan Air Force are jointly aiding Gaza. Jordan reports the accident was due to a plane. The UN states that 2.3 million children in Gaza are a quarter of the population. Aid donations to Gaza are planned to start this weekend.
 
-විදෙස් වාර්තා සඳහන් කළේ ආධාර රැගත් පැරෂුටයක් ක්‍රියාවිරහිත වීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+🟩
 
-එක්සත් ජනපදය, ජෝර්දානය, ඊජිප්තුව, ප්‍රංශය, නෙදර්ලන්තය සහ බෙල්ජියම පසුගිය දිනවල ගාසා තීරයට ගුවන් මඟින් ආධාර ලබා දීමට පියවර ගෙන තිබුණි.
+Five people have been killed by a manufactured package from a gaze collision.
 
-අමෙරිකාව සහ ජෝර්දාන ගුවන් හමුදාව ඒකාබද්ධව ගාසා තීරයට ගුවන් ආධාර හෙළීමක් පසුගියදා සිදුකළ බව විදෙස් වාර්තා සඳහන් කළේය.
+Foreign Reports said that the accident had occurred when a parachute carrying a management.
 
-මේ අතර ජෝර්දානය පවසා ඇත්තේ තම ගුවන් යානයක් හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට වාර්තා වන තොරතුරු අසත්‍ය බවයි.
+The US, Jordan, Egypt, France, Netherlands, and Belgium have been provided with aid to the Gaza.
 
-එක්සත් ජාතීන්ගේ සංවිධානය පවසන්නේ ගාසා තීරයේ මිලියන 2.3 ක ජනගහනයෙන් හතරෙන් එකක් වන ළමයින් කුසගින්නෙන් මිය යන තත්ත්වයක් උදාවී ඇති බවයි.
+The US and the Jordan Air Force jointly performed flight aid to the Gaza.
 
-මෙම සති අන්තයේ සිට ක්‍රියාත්මක වන පරිදි ගාසා තීරයට ආධාර සැපයීම මුහුදු මාර්ගයෙන් සිදුකිරීමට සැලසුම් කර තිබේ.
+Meanwhile, Jordan has said that the incident reported that the accident had occurred due to a plane.
+
+The United Nations says that children of 2.3 million population in Gaza are a quarter of 2.3 million people.
+
+Plans are afoot to donate aid to the Gaza with effect from this weekend.
 
 ◼️
 
 [Data](articles/aad4b06a.json)
+
+[Extended Data](ext_articles/aad4b06a.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 17:02:53**
+As of **2024-03-09 17:17:49**
 
 ## Newspaper Stats
 
-*Scraped **11,850** Articles*
+*Scraped **11,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,81 @@ dailyftlk | 617
 economynextcom | 620
 islandlk | 636
 adalk | 999
-tamilmirrorlk | 1,436
+tamilmirrorlk | 1,437
 adaderanalk | 1,439
 virakesarilk | 1,632
-dailymirrorlk | 1,814
+dailymirrorlk | 1,815
 adaderanasinhalalk | 1,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,848 (100.0%) of 11,850 articles have been extended.
+11,850 (100.0%) of 11,852 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### නුවන් තුෂාරගෙන් කඩුලු ත්‍රිත්වයක්
+### Nuwan Thushara takes hat-trick in third Bangladesh T20I
+
+*2024-03-09 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nuwan-Thushara-takes-hat-trick-in-third-Bangladesh-T20I/108-278548) · `en`
+
+Nuwan Thushara became the fifth Sri Lankan to take a hat-trick in T20I cricket, as he made early breakthroughs to cripple Bangladesh's run chase in the third T20I in Sylhet.
+
+Thushara, bowling his first over in the series, removed Bangladesh captain Najmul Hossain Shanto, Towhid Hridoy and Mahmadullah -- all deceived by his sling arm action -- to reduce the home team to 15 for 4, chasing a target of 175.
+
+Thushara broke through Shanto's defence and castled the stumps with the second ball of the over, before uprooting the off stump to dismiss Hridoy on the next delivery.
+
+He then completed the hat-trick of wickets when he trapped Mahmadullah leg before wicket, the decision being upheld despite the batsmen's review.
+
+Thushara joins Thisara Perera, Lasith Malinga, Akila Dananjaya and Wanindu Hasaranga as the only Sri Lankans to take a hat-trick in the T20I format.
+
+◼️
+
+[Data](articles/a1c7a63f.json)
+
+---
+
+### இலங்கையில் பெண் பிள்ளைகள் குறித்து அதிர்ச்சி செய்தி
+
+*2024-03-09 16:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பெண்-பிள்ளைகள்-குறித்து-அதிர்ச்சி-செய்தி/175-334426) · `ta`
+
+இலங்கையில் 5 - 19 வயது வரையிலான பாடசாலையில் கல்வி கற்கும் 410,000  பெண் பிள்ளைகள்  போசணை குறைப்பாடு காரணமாக எடை குறைவாக இருப்பதாக வைத்தியர்களின் மருத்துவ மற்றும் குடியுரிமைகள் நிபுணத்துவ சங்கத்தின் தலைவர் வைத்தியர் சமல் சஞ்சீவ நேற்று தெரிவித்தார்.
+
+பிரித்தானிய ‘லான்செட் மெடிக்கல் ஜர்னல்’ இதழின் ஆய்வின் படி உலகில் போசணை குறைபாடு காரணமாக உடல் எடை குறைந்தவர்கள் அதிகம் இருக்கும் நாடுகளின் பட்டியலில் இலங்கையும் உள்ளது.
+
+உலகளவில் உடல் எடை குறைவினால் பாதிக்கப்பட்டவர்களில் பெண்களின் வீதம் இந்தியாவுக்கு அடுத்தபடியாக  இலங்கையில் உள்ளது.
+
+199 நாடுகளில் 22 கோடி பேரிடம் சுமார் 1,900 ஆராய்ச்சியாளர்களின் பங்கேற்புடன் நடத்தப்பட்ட ஆராய்ச்சியில் உடற் திணிவுச் சுட்டி (உயரத்திற்கான எடை) முக்கிய அளவுகோலாக எடுக்கப்பட்டுள்ளது.
+
+போசணைக் குறைப்பாட்டால் பாடசலை பிள்ளைகளின் உடல் ஆரோக்கியம் பாதிக்கப்படுவது மட்டு மன்றி, மனவளர்ச்சி குன்றும் ஆபத்தில் உள்ளனர். எனவே இதற்கு அரசாங்கம் நடவடிக்கை எடுக்காவிட்டால் நாட்டில்  மனவளர்ச்சி குன்றிய  பிள்ளைகளின் தலைமுறை உருவாகும்.
+
+...
+
+[Data](articles/45eb367a.json)
+
+---
+
+### No wickets from Nuwan Thushara
 
 *2024-03-09 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194325) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර තීරණාත්මක 3වන සහ අවසන් T20 ක්‍රිකට් තරගය සිලට් හිදී මේ වනවිට පැවැත්වෙයි.
+Nuwan Thushara's triple in the 3rd T20 match between Sri Lanka and Bangladesh at Syllen. Bangladesh chasing 175, scored 15 runs for 4 wickets.
 
-එහිදී වේගපන්දු යවන ක්‍රීඩක නුවන් තුෂාර කඩුලු ත්‍රිත්වයක් ලබා ගැනීමට සමත් විය.
+🟩
 
-ලකුණු 175ක ඉලක්කයක් හඹා යන බංග්ලාදේශ කණ්ඩායම මේ වනවිට කඩුලු 4ක් දැවී ලකුණු 15ක් රැස්කරගෙන සිටී.
+Sri Lanka and Bangladesh will be held at Syllen between the 3rd and final T20 cricket match among Sri Lanka and Bangladesh.
+
+Fast bowler Nuwan Thushara scored a triple.
+
+Chasing a target of 175, Bangladesh has scored 15 runs for the loss of 4 wickets.
 
 ◼️
 
 [Data](articles/39c01b8e.json)
+
+[Extended Data](ext_articles/39c01b8e.ext.json)
 
 ---
 
@@ -66,23 +112,33 @@ In a report to the Human Rights Council, Türk said that the establishment and c
 
 ---
 
-### மன்னார் காற்றாலை மின் திட்டத்தினால் ஏற்பட உள்ள பாதிப்பு குறித்து மத்திய சுற்றாடல் அதிகார சபைக்கு மெசிடோ அவசர  கடிதம்
+### Messido Emergency letter to the Central Environmental Authority on the impact of the Mannar Wind Power Project
 
 *2024-03-09 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178318) · `ta`
 
-மன்னார் தீவில் 2 ஆம் கட்டமாக அமைக்கப்படவுள்ள காற்றாலை மின் திட்டத்தினால் ஏற்பட உள்ள பாதிப்பு குறித்து மத்திய சுற்றாடல் அதிகார சபைக்கு அவசர  கடிதம் ஒன்றை நேற்று வெள்ளிக்கிழமை (8) அனுப்பி  வைத்துள்ளதாக மெசிடோ நிறுவனத்தின் பணிப்பாளர் ஜாட்சன் பிகிறாடோ  தெரிவித்தார்.
+Messido sent an emergency letter to the Central Environmental Authority regarding the Mannar Wind Power Project's impact on Mannar Island. Concerns include environmental damage, bird decline, habitat destruction, and economic impact. The letter highlights the need for adequate mitigation measures.
 
-மன்னார் மாவட்டத்தில் குறிப்பாக மன்னார் தீவினுள் பெரிதும் பேசுபொருளாக காணப்படும் காற்றாலை மின்சாரத்தினால் ஏற்படுகின்ற, ஏற்படப் போகின்ற பாதிப்புக்கள் குறித்து மன்னார் சமூக பொருளாதார மேம்பாட்டுக்கான நிறுவனம் மின்னஞ்சல் வாயிலாக மத்திய சுற்றாடல் அதிகார சபைக்கு கடிதமொன்றினை அனுப்பி வைத்துள்ளோம்.
+🟩
 
-மன்னார் கரையோரப் பகுதிகளில் காற்றாலைகளை நிறுவுவது தொடர்பில் பொது மக்கள், சமூக ஆர்வலர்கள் தமது கவலைகளை வெளிப்படுத்தி வருகின்றனர்.
+Messido's Director Jatson Piqado said that an emergency letter was sent to the Central Environmental Authority on Friday (8) on the impact of the wind power project on the 2nd phase of the Mannar Island.
 
-காற்றாலை விசையாழி நிறுவலின் முதல் கட்டத்தால் ஏற்பட்டுள்ள  குறிப்பிடத்தக்க சுற்றுச்சூழல் பாதிப்புக்கள் குறித்து தெரிவிக்கப்பட்டுள்ளது.
+We have sent a letter to the Central Environmental Authority by email on the impact of wind power in the Mannar district, especially in the Mannar Island.
 
-போதுமான தணிப்பு நடவடிக்கைகள் இல்லாமல் மேலும் நிறுவல்களை மேற்கொள்ள எத்தனிப்பது குறித்து எம்முடைய கவலை வெளிப்படுத்தப்பட்டுள்ளது.
+The public and community activists are expressing their concerns over the establishment of windmills along the Mannar coast.
+
+The significant environmental impacts of the first phase of the wind turbine installation have been reported.
+
+Our concern has been expressed about how to carry out further installations without adequate sedation.
+
+In the early stages, 30 windmills were installed to generate electricity from 63 to 95 MW.
+
+However, the Environmental Agreement Assessment Report has failed to offer clear values to alleviate the opposite impacts on nature, community and economy.
 
 ...
 
 [Data](articles/f878d526.json)
+
+[Extended Data](ext_articles/f878d526.ext.json)
 
 ---
 
@@ -2215,43 +2271,5 @@ Gold reached an all-time high of $2,185.19 after a report showed a rise in the U
 [Data](articles/497580fb.json)
 
 [Extended Data](ext_articles/497580fb.ext.json)
-
----
-
-### Four vehicles hit by Borella Junction
-
-*2024-03-08 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194305) · `si`
-
-At Borella Junction, a high-speed car crashed into a parked bus, damaging it and another van and car.
-
-🟩
-
-Our correspondent said that the accident had occurred when a car had traveled at high speed and parked bus.
-
-Another van and a car were damaged in the accident.
-
-◼️
-
-[Data](articles/145eceb4.json)
-
-[Extended Data](ext_articles/145eceb4.ext.json)
-
----
-
-### Insight into custody policemen who saved many elite lives
-
-*2024-03-08 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194304) · `si`
-
-Ada Derana highlights a dedicated police officer who has bravely protected the lives of elites, showcasing their wisdom and courage.
-
-🟩
-
-Today, Ada Derana reports a heavy police person who has defended the honor of the motherland with insight and active wisdom.
-
-◼️
-
-[Data](articles/916448b8.json)
-
-[Extended Data](ext_articles/916448b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 23:33:26**
+As of **2024-03-09 23:51:46**
 
 ## Newspaper Stats
 
-*Scraped **11,875** Articles*
+*Scraped **11,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 140
 dbsjeyarajcom | 178
 newsfirstlk | 363
 dailyftlk | 617
-economynextcom | 620
+economynextcom | 622
 islandlk | 636
 adalk | 1,000
 tamilmirrorlk | 1,441
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,875 (100.0%) of 11,875 articles have been extended.
+11,875 (100.0%) of 11,877 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -286,6 +286,32 @@ The family were newcomers from Sri Lanka, from which Amarakoon had arrived even 
 
 ---
 
+### Sri Lanka makes 26 revisions to published electricity reform bill
+
+*2024-03-09 19:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-makes-26-revisions-to-published-electricity-reform-bill-153896/) · `en`
+
+ECONOMYNEXT – Sri Lanka has made 26 revisions to an already published electricity reform bill following feed back from stakeholders and lending agencies, Energy Minister Kanchana Wijesekera said.
+
+Following feedback from stakeholders, political parties, and trade unions regarding the
+
+proposed amendments, 46 revisions have been forwarded to the Legal Draftsman’s Department for clearance Minister told reporters in Colombo.
+
+After cabinet approval, the revised bill is targeted to be presented to parliament in April.
+
+Concerns have been expressed about the bill which have several provisions give excessive powers to the minister in charge.
+
+Under the reform bill, the purchase of power was to continue to be a state monopsony.
+
+The state monopsony and the reluctance to publicly tender new plants by higher authorities, especially for renewable power have drawn concern.
+
+Sri Lanka change the existing electricity law to allow non-competitive tendering amid protests.
+
+...
+
+[Data](articles/62fcebee.json)
+
+---
+
 ### Heat advisory raised to caution level in 18 districts tomorrow
 
 *2024-03-09 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-raised-to-caution-level-in-18-districts-tomorrow/108-278549) · `en`
@@ -339,6 +365,22 @@ Attanayake further said that the IMF delegation, similar to the last time they w
 [Data](articles/67404ab8.json)
 
 [Extended Data](ext_articles/67404ab8.ext.json)
+
+---
+
+### Sri Lanka railway station gets digital time schedule
+
+*2024-03-09 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-railway-station-gets-digital-time-schedule-153889/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Fort Railway Station was fitted with a digital time schedule for passenger convenience, which will be displayed on screens around the station.
+
+“Commuters are informed about the train schedules by means of 2 main screens and 7 screens set up inside the station, which are visible to the persons outside the station, and to the commuters inside the station, near the main entrance,” a statement by the Government Information Department said.
+
+The Colombo Fort Railway Station is the main hub of Sri Lanka Railways, where thousands of commuters gather at weekday rush hours. (Colombo/Mar9/2024)
+
+◼️
+
+[Data](articles/3a4c6400.json)
 
 ---
 
@@ -2331,39 +2373,5 @@ Gender inequality is also reflected in women’s representation and participatio
 [Data](articles/18b74aaa.json)
 
 [Extended Data](ext_articles/18b74aaa.ext.json)
-
----
-
-### Ambitious Presidential candidates and a powerful constitution
-
-*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ambitious-Presidential-candidates-and-a-powerful-constitution/172-278511) · `en`
-
-The question of whether the current president can invoke a presidential election after 4 years in office poses a legal challenge
-
-The Wickremesinghe of today is different from the one in the past; demonstrating strategic acumen due to his maturity
-
-This article has been prepared based on a discussion with K. B. Gunaratne, Former Director of Agriculture, who worked directly with three presidents of this country.
-
-...
-
-[Data](articles/880e2447.json)
-
-[Extended Data](ext_articles/880e2447.ext.json)
-
----
-
-### The executive prevails ultimately
-
-*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-executive-prevails-ultimately/172-278515) · `en`
-
-Despite the executive colliding head on sometimes with the Parliament and some other times with judiciary, the Constitutional Council and “independent Commissions in the recent past, the former has emerged victorious always, sometimes at the expense of the rules of the duel.
-
-For instance, in spite of the battle between the executive on behalf of the two ruling parties and the Election Commission backed by the Opposition parties over the local government elections having been dragging on for more than a year, the two ruling parties – the United National Party (UNP) and the Sri Lanka Podujana Peramuna (SLPP) can boast to have the “mission accomplished.”
-
-...
-
-[Data](articles/ac5e037e.json)
-
-[Extended Data](ext_articles/ac5e037e.ext.json)
 
 ---

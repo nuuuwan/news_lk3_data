@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 09:02:53**
+As of **2024-03-09 09:17:46**
 
 ## Newspaper Stats
 
-*Scraped **11,794** Articles*
+*Scraped **11,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ economynextcom | 617
 dailyftlk | 617
 islandlk | 636
 adalk | 997
-tamilmirrorlk | 1,425
+tamilmirrorlk | 1,426
 adaderanalk | 1,432
 virakesarilk | 1,623
-dailymirrorlk | 1,804
-adaderanasinhalalk | 1,851
+dailymirrorlk | 1,807
+adaderanasinhalalk | 1,852
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,792 (100.0%) of 11,794 articles have been extended.
+11,794 (100.0%) of 11,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### දරුවෙක් ඇතුළු තිදෙනෙක් දියේ ගිලී මරුට
+
+*2024-03-09 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194311) · `si`
+
+ප්‍රදේශ දෙකක දී දරුවෙකු සහ පුද්ගලයින් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ සන්දිවෙල් සිත්තන්ඩි ප්‍රදේශයේ චන්දනමඩුආරු ඇළේ ගිලී පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බවය.
+
+‍මෙලෙස මියගොස් ඇත්තේ අවුරුදු 25 හා 33 වයස්වල පසුවන සිත්තන්ඩි 02 ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයින් දෙ‍දෙනෙකි.
+
+මෙම දෙදෙනා තවත් මිතුරන් කිහිපදෙනෙකු සමග ඊයේ (08) දහවල් කාලයේ දිය නෑමට ගොස් සිටිය දී මෙලෙස දියේ ගිලී ඇති බව සඳහන් වේ.
+
+ප්‍රදේශවාසීන් විසින් මොවුන් දෙදෙනාව මාවධිවෙම්ඹු රෝහලට ඇතුළත් කර ඇති අතර එහිදී ඔවුන් මියගොස් ඇති බව පොලීසිය පවසයි.
+
+මේ අතර ඊයේ රාත්‍රියේ උයිලංකුලම තිරුකේදීෂ්වරම් පලාවි වැවේ දිය නෑමට ගිය දරුවෙකු දියේ ගිලී මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 09 හැවිරිදි වව්නියාව පුන්තොට්ටම් ප්‍රදේශයේ පදිංචිව සිටි දරුවෙකි.
+
+උයිලංකුලම තිරුකේෂ්වරම් කෝවිලේ පවත්වනු ලබන උත්සවයක් නැරඹීම සඳහා පිරිසක් සමග පැමිණ දිය නෑමට ගොස් සිටියදී මෙම දරුවා දියේ ගිලි ඇති බව විමර්ශන වලදී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/d207d9d5.json)
+
+---
+
+### கோட்டாவின் முட்டாள்தனம் : சம்பிக்க விளக்கம்
+
+*2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க-விளக்கம்/175-334409) · `ta`
+
+கோட்டாபய ராஜபக்சவை ஜனாதிபதி  பதவியிலிருந்து வெளியேற்ற தேசிய மற்றும் சர்வதேச சூழ்ச்சிகள் எதுவும் முன்னெடுக்கப்படவில்லை எனவும், அவரது முட்டாள்தனமாக நிர்வாகத்தால் பாரிய விளைவுகள் ஏற்பட்டதாகவும் பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+
+நுகேகொட நாவல பகுதியில் இடம்பெற்ற நிகழ்வில் கலந்துகொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச, பொருளாதார படுகொலையாளி என்று உயர்நீதிமன்றம் தீர்ப்பளித்துள்ளது. ஆகவே கடந்த காலம் பற்றி புத்தகம் எழுதுவது பயனற்றது. ராஜபக்சர்களின் வியாக்கியானத்தை நாட்டு மக்கள் கவனத்தில்கொள்வதில்லை என்றார்.
+
+தேசிய மற்றும் சர்வதேசத்தின் சதியினால் தான் ஜனாதிபதி பதவியில் இருந்து வெளியேற்றதாக கோட்டாபய ராஜபக்ச குறிப்பிடுவது நகைப்புக்குரியது.
+
+◼️
+
+[Data](articles/a23baa43.json)
+
+---
+
+### Hit and run vehicle kills three youths in Anuradhapura
+
+*2024-03-09 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hit-and-run-vehicle-kills-three-youths-in-Anuradhapura/108-278538) · `en`
+
+Anuradhapura, March 9 (Daily Mirror) - Three male youths were killed and two other women injured after they were run over by a speeding cab at Rambewa in Anuradhapura early this morning, Police said.
+
+They said the victims were returning home after a musical show when they were knocked down by a cab travelling from Rambewa towards Anuradhapura.
+
+The cab driver fled after the accident and the injured were admitted to the Rambewa and Anuradhapura hospitals.
+
+Three male youths aged between 16 and 21 succumbed to their injuries while two females are receiving treatment at the Anuradhapura Teaching Hospital.
+
+◼️
+
+[Data](articles/d770f441.json)
+
+---
+
+### First elephant breeding ground, hospital opened in Habarana
+
+*2024-03-09 08:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-elephant-breeding-ground-hospital-opened-in-Habarana/108-278537) · `en`
+
+The first private elephant breeding ground and hospital for domesticated elephants was opened on Thursday in the Habarana area.
+
+This project has been initiated according to a concept of S.N. Roshan of Maharagama, the owner of the female elephant “Sita” who was shot at during the Mahiyangana Esala festival by a member of the Civil Defence Force.
+
+The convalescent female elephant Sita and another tusker had been brought to the opening ceremony of the hospital and breeding ground where the first breeding took place.
+
+A traditional owner of elephants Roshan said facilities were available at the hospital and the breeding center to train mahouts. He pointed out that his she elephant Sita survived due to the efforts of the veterinary surgeons at Peradeniya Veterinary Science Faculty.
+
+He said a shortage of domesticated elephants for religious and cultural ceremonies has been felt and that it is imperative that particular attention should be paid on protecting the available domestic elephants.
+
+◼️
+
+[Data](articles/fa5356cf.json)
+
+---
 
 ### At least 287 school children kidnapped by armed gunmen in Nigeria
 
@@ -47,6 +129,8 @@ Some of the students were rescued but 287 of them remain with the kidnappers, Ha
 ...
 
 [Data](articles/7fcb2862.json)
+
+[Extended Data](ext_articles/7fcb2862.ext.json)
 
 ---
 
@@ -74,21 +158,27 @@ The police, who had put on roadblocks since morning, were disrupted to carry dri
 
 ---
 
-### வெடுக்குநாறி விபத்தில் எம்.பி உட்பட மூவர் காயம்
+### Three persons including MP injured in an accident
 
 *2024-03-09 08:31:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விபத்தில்-எம்-பி-உட்பட-மூவர்-காயம்/175-334408) · `ta`
 
-வெடுக்குநாறி மலையில் குடிநீர் எடுத்துச்சென்ற உழவு இயந்திரம் விபத்துக்குள்ளானதில் பாராளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் உள்ளிட்ட 3 பேர் காயமடைந்துள்ளனர்.
+Three, including MP Selvarajah Gajendran, injured in Vedukkuni Mountain accident. One hospitalized, transferred for more treatment. Tension between police and devotees at Adisivan Temple in Vavuniya North over water supply.
 
-அதில் ஒருவர் நெடுங்கேணி வைத்தியசாலயில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைக்காக வவுனியா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+🟩
 
-வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் வருகை தந்த மக்களுக்கு குடிநீர் வழங்க பொலிஸார் மறுப்பு தெரிவித்தமையால் அங்கு பொலிஸாருக்கும் , பக்தர்களுக்கும் இடையில் பதற்ற நிலை ஏற்பட்டிருந்தது.
+Three persons, including parliamentarian Selvarajah Gajendran, were injured when a drinking water machine was carried out in the Vedukkuni Mountain.
 
-இதன்போது காலை முதல் வீதி தடைகளைப் போட்டிருந்த பொலிஸார் ஆலய வளாகத்திற்குள் குடி நீர் எடுத்துச் செல்ல இடையூறு விளைவித்திருந்தனர். கடுமையான வாய்த்தர்க்கத்துக்கு மத்தியில் குடிநீர் விநியோகம் முன்னெடுக்கப்பட்டது.
+One of them was admitted to the Nedungeni Hospital and later transferred to the Vavuniya Hospital for further treatment.
+
+There was tension between the police and the devotees as the police refused to provide drinking water to the people who visited the Adisivan Temple in Vavuniya North.
+
+The police, who had put on roadblocks since morning, were disrupted to carry drinking water inside the temple premises.. Drinking water supply was carried out amidst severe rhetoric.
 
 ◼️
 
 [Data](articles/bf16ce8f.json)
+
+[Extended Data](ext_articles/bf16ce8f.ext.json)
 
 ---
 
@@ -2157,85 +2247,5 @@ It is not clear who will build the causeway or secure the aid on land, meaning c
 [Data](articles/80bbed76.json)
 
 [Extended Data](ext_articles/80bbed76.ext.json)
-
----
-
-### Government to introduce two bills on gender equality, women’s empowerment
-
-*2024-03-08 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-introduce-two-bills-on-gender-equality-womens-empowerment/108-278495) · `en`
-
-Colombo, March 08 (Daily Mirror)- Two new legislations which ensure women’s rights and economic empowerment were announced by the government today as the country marked the International Women’s Day with the rest of the world.
-
-Addressing the International Women’s Day celebration today, President Ranil Wickremesinghe announced that two bills focusing on Gender Equality and Women's Empowerment will be introduced to Parliament in May.
-
-The Women's Empowerment Act was officially gazetted yesterday and the Gender Equality Act is set to be gazetted next week.
-
-◼️
-
-[Data](articles/346f207f.json)
-
-[Extended Data](ext_articles/346f207f.ext.json)
-
----
-
-### A 107 -year -old man dies in Jaffna
-
-*2024-03-08 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178254) · `ta`
-
-A 107-year-old man from Jaffna, born in 1917, passed away after a month-long illness. He had 10 children, 75 grandchildren, and 25 great-grandchildren.
-
-🟩
-
-A 107 -year -old man died yesterday (07) in Chavakachcheri in Jaffna.
-
-He was born in 1917. He recently celebrated his 107 -year -old birthday. He has 10 children, 75 grandchildren, 25 lockups and 5 grandchildren.
-
-He has died for the past 1 month.It is noteworthy that he worked during the British period in Sri Lanka.
-
-◼️
-
-[Data](articles/72fc5dc2.json)
-
-[Extended Data](ext_articles/72fc5dc2.ext.json)
-
----
-
-### UNP Women’s day celebration...
-
-*2024-03-08 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-Womens-day-celebration/110-278494) · `en`
-
-A ceremony organized by the UNP women’s wing 'Lak Wanitha Peramuna' to mark International Women’s Day was held at a hotel in Kotte. Chief of Presidential Staff Sagala Ratnayake, UNP General Secretary Palitha Range Bandara and Lak Vanitha Peramuna President Shanthini Kongahage were aslo present. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/18d878bf.json)
-
-[Extended Data](ext_articles/18d878bf.ext.json)
-
----
-
-### A 23 year old woman arrested with drug
-
-*2024-03-08 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194292) · `si`
-
-A 23-year-old woman was arrested in Valachchenai village for drug possession, including 53 grams of ice, 240 grams of ice, 24 milligrams of Kerala cannabis, and Rs. 86,000. The Special Task Force, led by Inspector G. L. Kumara, conducted the raid.
-
-🟩
-
-Special Task Force has made a drug raid in the Valachchenahnonda village, along with investigations into the Eastern Province.
-
-A 23-year-old woman was arrested with ice drugs.
-
-Police Inspector of the Special Task Force of the Police Special Task Force. G. L. Kumara's raid was raided by information.
-
-Accordingly, inspecting a house in the village, 53 grams of ice, 240 grams of ice, 24 milligrams of Kerala cannabis and Rs. 86,000.
-
-The Valachchenai has been handed over to the Valachchenai Police for the later suspect and drug advancement.
-
-◼️
-
-[Data](articles/898b81f5.json)
-
-[Extended Data](ext_articles/898b81f5.ext.json)
 
 ---

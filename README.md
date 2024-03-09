@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 08:03:08**
+As of **2024-03-09 08:17:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,787 (100.0%) of 11,788 articles have been extended.
+11,788 (100.0%) of 11,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### වෙඩික්කරුවෙක් අත්අඩංගුවට
+### Shopman arrested
 
 *2024-03-09 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194309) · `si`
 
-හුංගම කහඳමෝදර ප්‍රදේශ‍යේ දී පසුගිය 06 වනදා පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Shopman arrested in Hungama Kahandamodara area by Tangalle Divisional CID. Firearm found during interrogation.
 
-තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් විසින් ඊයේ (08) උදෑසන හුංගම කට්ටකඩුව වැව අසලදී ‍මෙම සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+🟩
 
-සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම් අනුව වෙඩි තැබීමට යොදා ගත් ගිනි අවිය සොයාගෙන ඇත.
+The suspect was arrested on the 6th of the Hungama Kahandamodara area in the Hungama.
+
+The suspect was arrested by the Tangalle Divisional Criminal Investigation (Crime Criminal Investigation) Bureau yesterday morning.
+
+According to interrogation from the suspect, the firearm used to shoot was found.
 
 ◼️
 
 [Data](articles/39820344.json)
+
+[Extended Data](ext_articles/39820344.ext.json)
 
 ---
 

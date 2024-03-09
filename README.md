@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 05:17:53**
+As of **2024-03-09 05:37:09**
 
 ## Newspaper Stats
 
-*Scraped **11,767** Articles*
+*Scraped **11,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 178
 newsfirstlk | 363
 economynextcom | 617
 dailyftlk | 617
-islandlk | 627
+islandlk | 635
 adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,428
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,767 (100.0%) of 11,767 articles have been extended.
+11,767 (99.9%) of 11,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -139,6 +139,68 @@ There are the pluses and minuses of such protests. Protests of this nature will 
 ---
 
 ### 2024-03-08 (Friday)
+
+### Ministry of Agriculture pays bulk of fertilizer credit owed by farmers to private sector
+
+*2024-03-08 23:37:00* · [`islandlk`](http://island.lk/ministry-of-agriculture-pays-bulk-of-fertilizer-credit-owed-by-farmers-to-private-sector/) · `en`
+
+Nearly 93 percent of the Rs. 23,000 million fertilizer credit owed by farmers to the private sector that was left unpaid for five years was paid on their behalf last year, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+The minister told journalists recently that until 2021, due to the purchase of fertilizer on credit, the Ministry of Agriculture was supposed to pay farmers’ arrears amounting to Rs.23,000 million to the private sector.
+
+Amaraweera added: ‘Due to the intervention of President Ranil Wickremesinghe as the Minister of Finance, 95 percent of the credit amount, resulting from the purchase of chemical fertilizers from the private sector, was settled.
+
+‘Accordingly, by last year, the government provided the necessary financial allocation to pay an amount of Rs.18,000 million.
+
+...
+
+[Data](articles/5e15a9c2.json)
+
+---
+
+### Cey-Nor Foundation in partnership with SLT Digital Services for a dynamic new website launch
+
+*2024-03-08 23:37:00* · [`islandlk`](http://island.lk/cey-nor-foundation-in-partnership-with-slt-digital-services-for-a-dynamic-new-website-launch/) · `en`
+
+Cey-Nor Foundation Limited, Sri Lanka’s sole government entity specializing in boat and marine equipment manufacturing, proudly unveils its revamped website, signaling a strategic move towards global outreach and enhanced digital engagement. Entrusting their digital transformation to SLT DIGITAL SERVICES highlights Cey-Nor’s progressive vision to adapt and thrive in today’s digital age.
+
+Dr. Dulan Hettiarachchi, the Chairman of Cey-Nor Foundation Limited, emphasized the pressing need for Sri Lanka to capitalize on the burgeoning demand for fish products in international markets, notably Europe and Japan. He stated, “For two centuries, we exported traditional products like tea and rubber. Similarly, there’s untapped potential in exporting fish to these markets. Cey-Nor, with its extensive boat-building capabilities, stands poised to play a pivotal role by augmenting fiber boat production and leveraging technologies like solar power for sustainable, multi-day vessels.”
+
+...
+
+[Data](articles/f7b2c061.json)
+
+---
+
+### Uber Eats Sri Lanka introduces service fee
+
+*2024-03-08 23:36:00* · [`islandlk`](http://island.lk/uber-eats-sri-lanka-introduces-service-fee/) · `en`
+
+Uber Eats Sri Lanka has announced the introduction of a service fee on orders on the popular food and grocery delivery app. From February 29, customers will notice a restructuring in fees, aimed at sustaining a reliable and efficient food delivery service.
+
+While ordering from the Uber Eats app, consumers will now pay delivery charges that comprise both delivery and service fee. The service fee component will be equal to 5% of an order’s value, will range from LKR 25 to LKR 125, and will be visible to customers at checkout, before they confirm the order. The introduction of t his service fee will correspond to a lowered average delivery fee for both food and grocery orders. Small order fees will no longer be charged to all customers
+
+As a result, non-Uber One members are expected to pay about the same level of delivery charges comprising a lowered average delivery fee when selecting food or grocery items and an additional service fee visible during check out.
+
+...
+
+[Data](articles/0d565803.json)
+
+---
+
+### TikTok announces specialized workshops program to empower Sri Lankan female entrepreneurs
+
+*2024-03-08 23:36:00* · [`islandlk`](http://island.lk/tiktok-announces-specialized-workshops-program-to-empower-sri-lankan-female-entrepreneurs/) · `en`
+
+In commemoration of International Women’s Day 2024, TikTok announced an initiative aimed at empowering female business owners in Sri Lanka. Recognizing the unique challenges faced by women-led businesses in emerging markets, TikTok has designed a specialized workshop program, where informative webinars are designed to provide comprehensive guidance on leveraging the platform for business growth and visibility.
+
+In an era where digital platforms play a central role in organizational success, many small businesses, especially those led by women, encounter significant barriers due to a lack of digital literacy, resources, and support networks. Despite possessing the drive and innovation necessary for success, these barriers often hinder #womeninbusiness from thriving in the competitive online marketplace.
+
+...
+
+[Data](articles/d5e74bf0.json)
+
+---
 
 ### Sri Lanka juggles support for Palestinian cause while deepening ties with Israel
 
@@ -258,6 +320,30 @@ We are so immersed in our own national issues, so worried and angry about what i
 
 ---
 
+### Commercial Bank offers attractive home loan packages for John Keells Properties’ latest project – ‘VIMAN’ Ja-Ela
+
+*2024-03-08 22:16:00* · [`islandlk`](http://island.lk/commercial-bank-offers-attractive-home-loan-packages-for-john-keells-properties-latest-project-viman-ja-ela/) · `en`
+
+Offering an unprecedented opportunity to prospective homeowners and investors to own a part of its latest residential project, ‘Viman’ Ja-Ela, John Keells Properties has entered into a strategic collaboration with Commercial Bank to offer attractive housing mortgage solutions. As part of this partnership, John Keells Properties hosted an exclusive event on 15th February for customers of Commercial Bank.
+
+...
+
+[Data](articles/26fe310e.json)
+
+---
+
+### The Event Management Association: Enhancing professional standards and setting industry benchmarks
+
+*2024-03-08 22:16:00* · [`islandlk`](http://island.lk/the-event-management-association-enhancing-professional-standards-and-setting-industry-benchmarks/) · `en`
+
+The Event Management Association (EMA), the only professional industry body in Sri Lanka for event management, with a membership of over 50, sheds light on the often unseen, yet crucial role that professional event managers play in creating and delivering successful events and fostering a thriving industry within the country and the region. They aim to raise awareness among corporates and individuals about the significant benefits they stand to gain when working with a member, endorsed by EMA.
+
+...
+
+[Data](articles/4e4cd326.json)
+
+---
+
 ### Plastic water bottles of plastic water closed
 
 *2024-03-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194306) · `si`
@@ -279,6 +365,20 @@ The Secretary further stated that the added plastic water bottles will be taken 
 [Data](articles/b4845249.json)
 
 [Extended Data](ext_articles/b4845249.ext.json)
+
+---
+
+### MMCA Sri Lanka launches ‘Second Volume’
+
+*2024-03-08 22:15:00* · [`islandlk`](http://island.lk/mmca-sri-lanka-launches-second-volume/) · `en`
+
+The Museum of Modern and Contemporary Art Sri Lanka (MMCA Sri Lanka) announces the launch of its first research publication ‘Second Volume: The Watapuluwa Housing Scheme by Minnette De Silva’. Edited by Sharmini Pereira and Kaumadi Jayaweera, the publication explores the groundbreaking work of architect Minnette De Silva (1918–1998) within the context of the Watapuluwa Housing Scheme, Kandy (1958).
+
+‘Second Volume’ accompanies the MMCA Sri Lanka’s current exhibition ‘88 Acres: The Watapuluwa Housing Scheme by Minnette De Silva’, offering readers unparalleled access to primary research and previously unpublished archival materials. Among the highlights of this publication is a transcript of the animated documentary ‘is this an architectural documentary?’ (2023) by contemporary artists Irushi Tennekoon, Sumedha Kelegama, and Sumudu Athukorala, which provides valuable insights into De Silva’s visionary approach.
+
+...
+
+[Data](articles/4e51e615.json)
 
 ---
 
@@ -2171,155 +2271,5 @@ Police said that a search operation was initiated after informing the Sri Lanka 
 [Data](articles/811907d4.json)
 
 [Extended Data](ext_articles/811907d4.ext.json)
-
----
-
-### Fuel prices further reduce
-
-*2024-03-08 11:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-තවදුරටත්-අඩු-කරනවා/11-408492) · `si`
-
-Minister Kanchana Wijesekara announced a 21.9% reduction in electricity tariffs from midnight 2024, affecting various consumer categories. Fuel prices are also expected to decrease. The reduction is attributed to high rainfall, economic stability, and efforts to replace old power plants.
-
-🟩
-
-The Minister of Power and Energy Kanchana Wijesekara said that the CEB has been referred to the legal clearance of the CEB.
-
-The Minister said that the partners summoned the stakeholders about the price formula and promptly to reduce the fuel prices.
-
-Minister of Power and Energy Kanchana Wijesekara was speaking at a press conference held at the Presidential Media Center yesterday (07).
-
-"Electricity tariffs from midnight 2024 to reduce electricity tariffs by 21.9%. The consumer's electricity units of less than 30 units reduced by 33%. The bill of customers between 31 to 60 units fell by 28%. The bill of customers between 60 to 90 units, the bill of customers between 90 and 180 units and 180 units fell by 24%.
-
-...
-
-[Data](articles/005c0a87.json)
-
-[Extended Data](ext_articles/005c0a87.ext.json)
-
----
-
-### Expatriate workers send USD 476.4 million in February
-
-*2024-03-08 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expatriate-workers-send-USD-476-4-million-in-February/108-278491) · `en`
-
-Colombo, March 8 (Daily Mirror) - In February, expatriate workers sent a total of USD 476.4 million to the country, marking a 14 percent increase compared to the same month last year, the Labour and Foreign Employment Ministry said.
-
-They said during the past period, an amount of 9691.4 million US dollars has been sent to this country.
-
-The Labour and Foreign Employment Ministry says that there has been a good response to the requests to expatriate workers to send money to the country through legal systems.
-
-◼️
-
-[Data](articles/c8c35ae1.json)
-
-[Extended Data](ext_articles/c8c35ae1.ext.json)
-
----
-
-### President and Prime Minister’s messages for ‘Maha Shivaratri’
-
-*2024-03-08 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97816/president-and-prime-ministers-messages-for-maha-shivaratri) · `en`
-
-President Ranil Wickremesinghe, in his message for ‘Maha Shivaratri’ celebrated today (March 08), says it is imperative for everyone to collectively help advance the future of Sri Lanka, without ego and arrogance.
-
-Recalling the government’s commitment over the past two years to redeeming the country’s people affected by the unprecedented economic crisis, the Head of State said this effort is now on the verge of success, fulfilling hopes of prosperity.
-
-The President’s message for ‘Maha Shivaratri’ further read: “On this auspicious occasion of ‘Maha Shivaratri,’ Hindu devotees worldwide commemorate their devotion to Lord Shiva, seeking liberation for all living beings from suffering.
-
-“Moreover, Hindu devotees worldwide unite in this endeavour, aiming to spread wisdom that helps eradicate ego and arrogance from humanity.
-
-...
-
-[Data](articles/c6bb23c0.json)
-
-[Extended Data](ext_articles/c6bb23c0.ext.json)
-
----
-
-### Sri Lanka’s Softlogic seeks Rs10bn in equity
-
-*2024-03-08 11:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-seeks-rs10bn-in-equity-153785/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Softlogic Holdings Plc is planning to raise 10 billion rupees in equity including through a rights issue to shareholders, a stock exchange filing said.
-
-Directors of Softlogic have decided to issue 298,135,802 ordinary shares of the company to raise 2,981,358,020 rupees, and 178,881,481 warrants in the ratio of 3 warrants for every 5 rights shares, to raise 1,878,255,550 rupees.
-
-The balance 5,140,386,429 rupees is to be raised in “in a manner to be decided by the Board of Directors of the Company upon completion of aforesaid”.
-
-The current stated capital of the company is 12,119,234,553, and the public holding percentage of the company is 13.09 percent, according to the filing.
-
-The group which has interests in retail, leisure, healthcare, and financial services is looking to sell down assets and cut debt, Chairman Ashok Pathirage told shareholders November last year. (Colombo/Mar8/2024)
-
-Sri Lanka’s Softlogic looking to cut debt, sell down subsidiaries
-
-◼️
-
-[Data](articles/26ce7115.json)
-
-[Extended Data](ext_articles/26ce7115.ext.json)
-
----
-
-### Officially joined in NATO Sweden
-
-*2024-03-08 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178238) · `ta`
-
-Sweden, the 32nd NATO member, officially joined last night, marking a significant shift from its long-term non-alignment stance, influenced by Russia's invasion of Ukraine. PM Ulve Christterson hailed it as a victory for independence.
-
-🟩
-
-Sweden officially joined the NATO system last night. Sweden is the 32nd member of NATO.
-
-Sweden, who was a long -term non -alignment country, applied to join NATO after Russia's invasion of Ukraine.
-
-Later, the two countries expressed their consent, and Sweden joined NATO.
-
-Sweden's Prime Minister Ulve Christterson, who welcomed Sweden's merger in Nate NH, said it was a victory for independence.
-
-◼️
-
-[Data](articles/1f89040a.json)
-
-[Extended Data](ext_articles/1f89040a.ext.json)
-
----
-
-### President convenes party leaders’ meeting to discuss IMF proposals
-
-*2024-03-08 11:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-convenes-party-leaders-meeting-to-discuss-IMF-proposals/108-278489) · `en`
-
-Colombo, March 8 (Daily Mirror)- President Ranil Wickremesinghe has convened a party leaders meeting on Monday to discuss the International Monetary Fund's proposals with its high level delegation, the President's Media Division (PMD) said.
-
-The meeting has offered a chance to accepted opposition party leaders in Parliament to discuss the International Monetary Fund's proposals with its high level delegation, the PMD added.
-
-Leader of the Opposition Sajith Premadasa, leader of the National People's Power (NPP) Anura Kumara Dissanayake and Tamil National Alliance (TNA) leader Sivagnanam Sridharan have been invited to participate in these discussions.
-
-The individuals interested in joining the discussion have been given the opportunity to participate alongside the invited leaders, the PMD said.
-
-◼️
-
-[Data](articles/5cc70f48.json)
-
-[Extended Data](ext_articles/5cc70f48.ext.json)
-
----
-
-### President convenes party leaders’ meeting to discuss IMF proposals
-
-*2024-03-08 11:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-convenes-party-leaders-meeting-to-discuss-IMF-proposals/155-278489) · `en`
-
-Colombo, March 8 (Daily Mirror)- President Ranil Wickremesinghe has convened a party leaders meeting on Monday to discuss the International Monetary Fund's proposals with its high level delegation, the President's Media Division (PMD) said.
-
-The meeting has offered a chance to accepted opposition party leaders in Parliament to discuss the International Monetary Fund's proposals with its high level delegation, the PMD added.
-
-Leader of the Opposition Sajith Premadasa, leader of the National People's Power (NPP) Anura Kumara Dissanayake and Tamil National Alliance (TNA) leader Sivagnanam Sridharan have been invited to participate in these discussions.
-
-The individuals interested in joining the discussion have been given the opportunity to participate alongside the invited leaders, the PMD said.
-
-◼️
-
-[Data](articles/88479c82.json)
-
-[Extended Data](ext_articles/88479c82.ext.json)
 
 ---

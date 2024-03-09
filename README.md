@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 22:04:04**
+As of **2024-03-09 22:17:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,872 (100.0%) of 11,874 articles have been extended.
+11,874 (100.0%) of 11,874 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -456,6 +456,8 @@ The fourth day of the 'Air Tattoo 2024' educational and technological exhibition
 
 [Data](articles/7107abcb.json)
 
+[Extended Data](ext_articles/7107abcb.ext.json)
+
 ---
 
 ### Parliament Bus Pass will not be canceled
@@ -859,6 +861,8 @@ Police in Ottawa discovered the slain family at their townhouse in the Barrhaven
 ...
 
 [Data](articles/0043f312.json)
+
+[Extended Data](ext_articles/0043f312.ext.json)
 
 ---
 

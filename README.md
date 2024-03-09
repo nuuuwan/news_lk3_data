@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 12:33:06**
+As of **2024-03-09 12:49:16**
 
 ## Newspaper Stats
 
-*Scraped **11,822** Articles*
+*Scraped **11,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 999
 tamilmirrorlk | 1,430
 adaderanalk | 1,436
 virakesarilk | 1,627
-dailymirrorlk | 1,810
+dailymirrorlk | 1,811
 adaderanasinhalalk | 1,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,822 (100.0%) of 11,822 articles have been extended.
+11,822 (100.0%) of 11,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Hit-and-run cab driver arrested after fatal accident in Anuradhapura
+
+*2024-03-09 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hit-and-run-cab-driver-arrested-after-fatal-accident-in-Anuradhapura/108-278544) · `en`
+
+Anuradhapura, March 9 (Daily Mirror) - Police arrested the cab driver involved in a hit-and-run accident at Rambewa in Anuradhapura early this morning.
+
+Three individuals were killed and two women sustained injuries when a cab collided against a group of pedestrians.
+
+Following the incident, the cab driver fled the scene but was later arrested along with two passengers at the Anuradhapura-Jaffna interchange.
+
+The suspects, identified as employees of a vehicle repair shop, were reportedly returning from a musical event when the accident occured.
+
+The driver, reportedly only 18 years old lacked a valid driver's license.
+
+◼️
+
+[Data](articles/57a146ff.json)
+
+---
 
 ### Tension on the Mount of Vedukkuni: Many arrested
 
@@ -2231,23 +2251,5 @@ A total of 47 laymen from Thailand were temporarily ordained at the Gangaramaya 
 [Data](articles/059e8a86.json)
 
 [Extended Data](ext_articles/059e8a86.ext.json)
-
----
-
-### Sinkhole in Wellawatta causes traffic restrictions
-
-*2024-03-08 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinkhole-in-Wellawatta-causes-traffic-restrictions/108-278499) · `en`
-
-Colombo, March 08 (Daily Mirror) - The vehicular movement on Galle Road has been hampered due to a sinkhole in Wellawatta near Station Road.
-
-Accordingly, police have restricted vehicular movement along the Galle Road to one lane.
-
-Motorists commuting to Colombo are advised by the police to consider utilizing the Marine Drive route as an alternative.
-
-◼️
-
-[Data](articles/2e21e17c.json)
-
-[Extended Data](ext_articles/2e21e17c.ext.json)
 
 ---

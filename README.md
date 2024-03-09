@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 10:17:39**
+As of **2024-03-09 10:34:15**
 
 ## Newspaper Stats
 
-*Scraped **11,805** Articles*
+*Scraped **11,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 997
 tamilmirrorlk | 1,427
 adaderanalk | 1,433
 virakesarilk | 1,625
-dailymirrorlk | 1,807
-adaderanasinhalalk | 1,853
+dailymirrorlk | 1,808
+adaderanasinhalalk | 1,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,803 (100.0%) of 11,805 articles have been extended.
+11,805 (100.0%) of 11,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### රඹෑවේ බිහිසුණු අනතුර ගැන තවත් තොරතුරු
+
+*2024-03-09 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194313) · `si`
+
+අද (09) අළුයම රඹෑව ප්‍රදේශයේ දී සිදුවූ අනතුරෙන් මිය ගොස් ඇත්තේ අවුරුදු 16, 19 සහ 21 යන වයස්වල පසුවූ තරුණයින් තිදෙනෙකු බව පොලීසිය පවසයි.
+
+අනතුරට ලක් වූ ගැහැණු ළමුන් දෙදෙනා අනුරාධපුර රෝහලේ ප්‍රතිකාර ලබමින් සිටියි.
+
+අද අළුයම රඹෑව දෙස සිට අනුරාධපුරය දෙසට ධාවනය වූ කැබ් රථයක් මාර්ගයේ ගමන් කරමින් සිටි මෙම පස්දෙනා ගේ ගැටී අනතුර සිදුව තිබේ.
+
+මෙම පිරිස රඹෑව ප්‍රදේශයේ පැවති සංගීත ප්‍රසංගයක් නැරඹීමට ගොස් නැවත නිවෙස් බලා යමින් සිටිය දී මෙලෙස අනතුරට ලක් ව ඇත.
+
+◼️
+
+[Data](articles/5ef289eb.json)
+
+---
+
+### No failures in O/L exams after 2028: Minister
+
+*2024-03-09 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-failures-in-OL-exams-after-2028-Minister/108-278540) · `en`
+
+After 2028, there will be no failures in the GCE Ordinary Level (O/L) examinations, Education Minister Susil Premajayantha said.
+
+While addressing an event held to distribute electric bicycles to rural areas with Hutch Telecommunications Company, he said the Ministry will allow all the students to study up to GCE (O/L) to select their path, whether to follow academic or vocational training.
+
+Accordingly, the children need not leave their schools but can continue for another two years with their academic or vocational training. Subsequently, they will be directed to vocational training programmes.
+
+"We have updated most of the programmes. A total of 4.3 million students are currently studying in 10,126 public schools, over 300 international schools, and over 110 private schools. Now we are in the process of transforming education. For the last 75 years, we followed the curriculum introduced by Britishers because we were under British rule," the Minister said.
+
+...
+
+[Data](articles/324587f0.json)
+
+---
 
 ### Update on 2 Sri Lankans rescued after Houthi missile attack on cargo ship
 
@@ -48,23 +84,31 @@ Later, 20 crew members and the three armed guards who were aboard the attacked v
 
 [Data](articles/2bf05679.json)
 
+[Extended Data](ext_articles/2bf05679.ext.json)
+
 ---
 
-### காஸாவில் பரசூட் பொதுமக்கள் மீது விழுந்து 5 பேர் பலி
+### Five people killed in Parasood in Gaza
 
 *2024-03-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178300) · `ta`
 
-இஸ்ரேல் மீது காஸாவில் செயல்பட்டுவரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த ஆண்டு அக்டோபர் 7 ஆம் திகதி பயங்கரவாத தாக்குதல் நடத்தினர். இந்த தாக்குதலில் இஸ்ரேலில் 1,139 பேர் கொல்லப்பட்டனர். மேலும் பலர் காயமடைந்தனர்.
+In Gaza, a Hamas attack on Israel in October 2022 resulted in 1,139 Israeli deaths and 253 hostages. Israel launched a war in response, killing 30,800, including Hamas members, and 424 in a West clash. The conflict has led to a humanitarian crisis, with a shortage of food and water. Relief efforts, including by the US Air Force, have been hampered by protests and accidents, such as the death of 5 people when relief items fell from a US Air Force aircraft.
 
-தாக்குதல் நடத்திய ஹமாஸ் ஆயுதக்குழுவினர் இஸ்ரேலியர்கள் 253 பேரை காஸாமுனைக்கு பணய கைதிகளாக கடத்தி சென்றனர். இந்த தாக்குதலை தொடர்ந்து காஸாவில் உள்ள ஹமாஸ் ஆயுதக்குழுவினர் மீது இஸ்ரேல் போர் அறிவித்தது.
+🟩
 
-இதனிடையே, காஸாமுனையில் உள்ள பணய கைதிகளில் 100க்கும் மேற்பட்டோரை ஒப்பந்த அடிப்படையில் ஹமாஸ் விடுதலை செய்துள்ளது. ஆனாலும், இன்னும் 130க்கும் மேற்பட்டோர் காஸாவில் பணய கைதிகளாக உள்ளதாக இஸ்ரேல் தெரிவித்துள்ளது. பணய கைதிகளை மீட்கும் நடவடிக்கையில் இஸ்ரேல் ஈடுபட்டு வருகிறது.
+Hamas armed group operating in Gaza on Israel launched a terrorist attack on October 7 last year. 1,139 people were killed in Israel in the attack. Many more were injured.
 
-அதேவேளை, ஹமாஸ் ஆயுதக்குழுவின் தாக்குதலுக்கு பதிலடியாக காஸாமுனை மீது போர் அறிவித்துள்ள இஸ்ரேல் அதிரடி தாக்குதல் நடத்தி வருகிறது. இஸ்ரேல் நடத்திவரும் இந்த தாக்குதலில் காஸா முனையில் ஹமாஸ் ஆயுதக்குழுவினர் உள்பட 30 ஆயிரத்து 800 பேர் உயிரிழந்துள்ளனர். அதேபோல், மேற்குகரையில் நடந்த மோதலில் 424 பேர் உயிரிழந்துள்ளனர்.
+Hamas Armed Forces abducted 253 of Israelis as hostage to Gazamunnu. Following the attack, the Israeli war announced the Hamas armed group in Gaza.
+
+Meanwhile, Hamas has released more than 100 of the hostage in Gazamunai on a contract basis. However, more than 130 people are hostage in Gaza, Israel said. Israel is engaged in the rescue of hostage.
+
+Meanwhile, Israel is launching a war on Gazamunai in response to the Hamas Armed Forces attack.. 30 thousand 800 people, including Hamas Armed Forces, were killed in the attack by Israel. Similarly, 424 people were killed in a clash on the West.
 
 ...
 
 [Data](articles/7adf2800.json)
+
+[Extended Data](ext_articles/7adf2800.ext.json)
 
 ---
 
@@ -2181,55 +2225,5 @@ The female suspect has been handed over to the Valaichchenai Police for further 
 [Data](articles/722ac447.json)
 
 [Extended Data](ext_articles/722ac447.ext.json)
-
----
-
-### Signed the no confidence against the speaker
-
-*2024-03-08 15:55:25* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකට-එරෙහි-විශ්වාස-භංගයට-අත්සන්-කළා/11-408497) · `si`
-
-Iran Wickramaratne denies signing a no-confidence motion against the Speaker, claiming he was impartial and asked questions on behalf of the Hon. The incident occurred at the Speaker's Office, Ja. J., and involved the 47th Member of Parliament.
-
-🟩
-
-The story of the no-confidence motion against the Speaker. Parliamentarian Iran Wickramaratne strongly denies.
-
-He said that he was in the forefront of questioning Parliament on behalf of the Hon.
-
-He was signed the no-confidence motion at the Speaker's Office, Ja. J. The speech is the 47th Member of Rice and the story of the general public.. He accused the misunderstanding of misconceptions that there was a division.
-
-Iran Wickramaratne further explained that the questions asked by the Speaker of Parliament to act impartially in Parliament.
-
-◼️
-
-[Data](articles/199d0ac2.json)
-
-[Extended Data](ext_articles/199d0ac2.ext.json)
-
----
-
-### Three months of plastic water bottles of the three months have left three tons of water
-
-*2024-03-08 15:51:03* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනට-ශ්‍රී-පාදයේ-ප්ලාස්ටික්-වතුර-බෝතල්-ටොන්-තුනක්-දාලා-ගිහින්/11-408496) · `si`
-
-In three months, pilgrims from Nallathaniya to Sri Dallawaway left three tons of plastic water bottles. The Maskeliya Pradeshiya Sabha Secretary Sarajavaren announced that these bottles will be recycled at Nallathanna's center, despite extreme dry weather affecting water supply.
-
-🟩
-
-2023-2024 The Maskeliya Pradeshiya Sabha Secretary Sarajavaren said that the pilgrims have been excluded from the Nallathaniya to Sri Dallawaway to the Sri Padawala court in three months.
-
-The Secretary stated that some pilgrims have been excluded to dispose of plastic water bottles carrying pilgrims.
-
-The Secretary claims that the pilgrims have been instructed to eaten the pilgrims and disposal the garbage prepared and disposal of calves.
-
-The Secretary said that the plastic water bottles excluded by Sri Pind pilgrims would be taken to the recycling center of Nallathanna.
-
-The Secretary of the Maskeliya Pradeshiya Sabha said that with the extreme dry weather, the Water Supply of the Maskeliya Pradeshiya Sabha said.
-
-◼️
-
-[Data](articles/ecadb4e7.json)
-
-[Extended Data](ext_articles/ecadb4e7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 19:51:09**
+As of **2024-03-09 20:02:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,860 (100.0%) of 11,864 articles have been extended.
+11,864 (100.0%) of 11,864 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The family were newcomers from Sri Lanka, from which Amarakoon had arrived even 
 
 [Data](articles/3b550c6b.json)
 
+[Extended Data](ext_articles/3b550c6b.ext.json)
+
 ---
 
 ### Heat advisory raised to caution level in 18 districts tomorrow
@@ -65,6 +67,8 @@ According to the heat advisory issued by the Meteorology Department, 'Caution Le
 ◼️
 
 [Data](articles/cf3719dd.json)
+
+[Extended Data](ext_articles/cf3719dd.ext.json)
 
 ---
 
@@ -203,6 +207,8 @@ Meanwhile, a recent survey has made an alarming revelation about period poverty 
 ...
 
 [Data](articles/b0a9a04c.json)
+
+[Extended Data](ext_articles/b0a9a04c.ext.json)
 
 ---
 
@@ -1002,21 +1008,27 @@ Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis 
 
 ---
 
-### අනුර හමුවෙන්න කියුබානු තානාපති යයි
+### The Cuban Ambassador to Anura Meet
 
 *2024-03-09 11:36:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හමුවෙන්න-කියුබානු-තානාපති-යයි/11-408503) · `si`
 
-ශ්‍රී ලංකාවේ කියුබානු තානාපති ඇන්ඩ්‍රෙස් මාසෙලෝ මහතා හා ජනතා විමුක්ති පෙරමුණේ හා ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් ඊයේ (08දා) ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේදී පවත්වා තිබේ.
+The Cuban Ambassador to Sri Lanka, Andrz Marcello, met with JVP head office to discuss the political relationship between the Communist Party and JVP in Cuba. They discussed challenges with sanctions affecting Cuba and Sri Lanka. The Ambassador announced a Cuban-supported project in Sri Lanka to combat dengue.
 
-මෙහිදී කියුබාවේ කොමියුනිස්ට් පක්ෂය සහ ජනතා විමුක්ති පෙරමුණ අතර පවතින දේශපාලන සබඳතාව සහ ජාතික ජනබලවේගයේ වත්මන් දේශපාලන කටයුතු පිළිබඳ දීර්ඝ වශයෙන් සාකච්ඡා කෙරුණු බව අනුර කුමාර දිසානායක මහතා පවසයි.
+🟩
 
-දීර්ඝ කාලයක් තිස්සේ කියුබාවට පනවා ඇති සම්බාධක සහ කියුබාව සහ ශ්‍රී ලංකාව අතර සෘජු සබඳතා, ඒවායේ ප්‍රගතිය සහ ගැටලුකාරී තත්ත්වයන් පිළිබඳව තානාපතිවරයා තමන්ව දැනුවත් කළ බවද අනුර කුමාර දිසානායක මහතා පැවැසීය.
+A meeting between the Cuban Ambassador to Sri Lanka, Andrz Marcello and the JVP head office of the JVP at the Head Office of the JVP at the Head Office of the JVP.
 
-තවද, ශ්‍රී ලංකාව තුළ ඩෙංගු මර්දනය සඳහා කියුබානු රජයේ සහයෝගය ඇතිව ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමට මේ වන විට සාකච්ඡා පැවැත්වෙන බවත් තවත් මහාද්වීප 03 ක රටවල් සමඟ ද එවැනි ව්‍යාපෘති ක්‍රියාත්මක වන බවත් තානාපතිවරයා පැහැදිලි කළේය.
+Mr. Anura Kumara Dissanayake says that the Political Relationship between the Communist Party and the JVP in Cuba have been discussed at length.
+
+Anura Kumara Dissanayake said that the Ambassador had been informed of their progress and problems between the sanctions and Cuba, which has been imposed in Cuba and Cuba and Cuba and Sri Lanka.
+
+The Ambassador explained that the project will be held in Sri Lanka with the support of the Cuban government to eradicate dengue.
 
 ◼️
 
 [Data](articles/9d57a0d6.json)
+
+[Extended Data](ext_articles/9d57a0d6.ext.json)
 
 ---
 

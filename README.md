@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 18:33:47**
+As of **2024-03-09 18:50:00**
 
 ## Newspaper Stats
 
-*Scraped **11,855** Articles*
+*Scraped **11,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 999
 tamilmirrorlk | 1,438
 adaderanalk | 1,439
 virakesarilk | 1,632
-dailymirrorlk | 1,815
+dailymirrorlk | 1,816
 adaderanasinhalalk | 1,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,855 (100.0%) of 11,855 articles have been extended.
+11,855 (100.0%) of 11,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Funeral rites according to wishes of victims’ families: Foreign Ministry
+
+*2024-03-09 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Funeral-rites-according-to-wishes-of-victims-families-Foreign-Ministry/108-278551) · `en`
+
+Colombo, March 9 (Daily Mirror)- The Ministry of Foreign Affairs said it is in communication with the family members in Sri Lanka of the six Sri Lankans who were murdered in Ottawa, Canada and is facilitating their requests with the relevant Canadian authorities through the Sri Lankan High Commission while respecting their privacy.
+
+The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commission in Ottawa of the tragic death of six Sri Lankans, including a mother, four children, and a family acquaintance, in a residence in Barrhaven, Ottawa on March 7, 2024, the Ministry said in a statement.
+
+"The husband and father of the victims were found injured at the scene, and was admitted to the hospital, where he is currently undergoing treatment. The law enforcement authority has arrested a 19-year-old Sri Lankan in connection with the homicide, and he is currently in police custody," the statement added.
+
+...
+
+[Data](articles/4a0788a9.json)
+
+---
 
 ### Sri Lanka wins T20
 
@@ -2269,19 +2285,5 @@ Sri Lanka’s central bank had swap lines from the Reserve Bank of India and the
 [Data](articles/a9e639f9.json)
 
 [Extended Data](ext_articles/a9e639f9.ext.json)
-
----
-
-### Celebrating Maha Shivaratri...
-
-*2024-03-08 21:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Celebrating-Maha-Shivaratri/110-278509) · `en`
-
-Hindu devotees are seen engaged in religious observances at a Hindu temple in Colombo, today to mark Maha Shivaratri. Maha Shivarathri is a Hindu festival celebrated in honour of Lord Shiva and in particular signifies the night when Shiva performs the heavenly dance. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/cd5b2b55.json)
-
-[Extended Data](ext_articles/cd5b2b55.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 18:07:25**
+As of **2024-03-09 18:19:38**
 
 ## Newspaper Stats
 
-*Scraped **11,854** Articles*
+*Scraped **11,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,53 @@ tamilmirrorlk | 1,438
 adaderanalk | 1,439
 virakesarilk | 1,632
 dailymirrorlk | 1,815
-adaderanasinhalalk | 1,865
+adaderanasinhalalk | 1,866
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,853 (100.0%) of 11,854 articles have been extended.
+11,854 (100.0%) of 11,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### ජනපතිගේ ආරාධනයට සජිත්ගේ පක්ෂයෙන් ප්‍රතිචාර
+### T20 තරගාවලි ජය ශ්‍රී ලංකාවට
+
+*2024-03-09 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194327) · `si`
+
+බංග්ලාදේශ කණ්ඩායම සමග පැවැති 3 වන 20-20 තරගය ලකුණු 28කින් ජයගත් ශ්‍රී ලංකා කණ්ඩායම තරගාවලිය 2ට 1ක් ලෙස අද (09) ජය හිමිකර ගත්තේය.
+
+◼️
+
+[Data](articles/844bb124.json)
+
+---
+
+### Sajith's party responds to President's invitation
 
 *2024-03-09 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194326) · `si`
 
-සමගි ජන බලවේගයේ මන්ත්‍රීවරුන් වැඩි පිරිසකගේ අදහසවී ඇත්තේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් සමග ජනාධිපතිවරයා විසින් කැඳවු සාකච්ඡාව සඳහා සහභාගී නොවීමට බව වාර්තා වෙයි.
+Sajith's party discusses with IMF representatives, with UNP's Tissa Attanayake stating no support for the government's program. President Wickremesinghe invited to oppose parliament leaders' meeting with IMF on 11th.
 
-ඒ බව එම පක්ෂයේ ජාතික සංවිධායක තිස්ස අත්තනායක මන්ත්‍රීවරයා පවසයි.
+🟩
 
-කෙසේවෙතත් ඒ සම්බන්ධයෙන් පක්ෂයේ මතය නිල වශයෙන් දැනුම් දෙනු ඇති බව අද (09) පැවති මාධ්‍ය හමුවකදී මන්ත්‍රීවරයා සඳහන් කළේය.
+Most of the members of the Samagi promos have been viewed for the discussion with the International Monetary Fund representatives.
 
-මුල්‍ය අරමුදලේ නියෝජිතයින් පසුගිය වර දිවයිනට පැමිණි අවස්ථාවේදී මෙන්ම මෙවරදී ද ඔවුන් විපක්ෂ නායකවරයා හමුවී සාකච්ඡා කරනු ඇති බව සඳහන් කළ තිස්ස අත්තනායක මන්ත්‍රීවරයා එසේ නොමැතිව ආණ්ඩුවේ වැඩපිළිවෙලට සහාය පළ කරමින් ඔවුන් කැඳවන සාකච්ඡාවට සහභාගී වීමේ අපේක්ෂාවක් සිය පක්ෂයට නොමැති බව පෙන්වා දෙයි.
+The UNP's national organizer Tissa Attanayake says that this is the same.
 
-ලබන 11 වනදා ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජිත පිරිස සමග සාකච්ඡාවක් සඳහා පාර්ලිමේන්තුවේ විපක්ෂය නියෝජනය කරන පක්ෂ නායකයින්ට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ආරාධනයක් සිදුකර තිබුණි.
+However, a media briefing held today (09) stated that the party's view will be officially informed.
+
+Tissa Attanayake, who said that the Member of the Monetary Fund returns to the island last time, he said that the party had no prospect of supporting the government's program.
+
+President Ranil Wickremesinghe was invited to the party leaders representing the Opposition of Parliament for a discussion with the International Monetary Fund delegation on the 11th.
 
 ◼️
 
 [Data](articles/1c565c4b.json)
+
+[Extended Data](ext_articles/1c565c4b.ext.json)
 
 ---
 
@@ -2259,21 +2277,5 @@ Hindu devotees are seen engaged in religious observances at a Hindu temple in Co
 [Data](articles/cd5b2b55.json)
 
 [Extended Data](ext_articles/cd5b2b55.ext.json)
-
----
-
-### Matheesha Pathirana ruled out of 3rd T20I against Bangladesh
-
-*2024-03-08 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-Pathirana-ruled-out-of-3rd-T20I-against-Bangladesh/108-278514) · `en`
-
-Colombo, March 08 (SLC) -  Seamer Matheesha Pathirana will not be available for selection for the 3rd T20I against Bangladesh, as the player has sustained a Grade 1 hamstring injury on his left leg.
-
-Pathirana suffered the injury while bowling in the 2nd T20i game.
-
-◼️
-
-[Data](articles/9dedd653.json)
-
-[Extended Data](ext_articles/9dedd653.ext.json)
 
 ---

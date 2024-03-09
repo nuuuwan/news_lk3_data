@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 19:17:53**
+As of **2024-03-09 19:33:19**
 
 ## Newspaper Stats
 
-*Scraped **11,859** Articles*
+*Scraped **11,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 1,439
 adaderanalk | 1,441
 virakesarilk | 1,632
 dailymirrorlk | 1,816
-adaderanasinhalalk | 1,866
+adaderanasinhalalk | 1,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,858 (100.0%) of 11,859 articles have been extended.
+11,859 (100.0%) of 11,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### පොලිස් කණ්ඩායමට රග්බි කුසලානයක්
+
+*2024-03-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194328) · `si`
+
+වසර 33කට පසුව ක්ලිෆර්ඩ් කුසලාන රග්බි ශූරතාවය දිනා ගැනීමට පොලිස් කණ්ඩායමට අද හැකිවිය.
+
+◼️
+
+[Data](articles/2749b9de.json)
+
+---
 
 ### SJB to boycott meeting convened by President with IMF delegates
 
@@ -47,6 +59,8 @@ Attanayake further said that the IMF delegation, similar to the last time they w
 ...
 
 [Data](articles/67404ab8.json)
+
+[Extended Data](ext_articles/67404ab8.ext.json)
 
 ---
 
@@ -2263,29 +2277,5 @@ The Event Management Association (EMA), the only professional industry body in S
 [Data](articles/4e4cd326.json)
 
 [Extended Data](ext_articles/4e4cd326.ext.json)
-
----
-
-### Plastic water bottles of plastic water closed
-
-*2024-03-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194306) · `si`
-
-The Sri Pada Uda Maluwaluwa has collected 3 tons of plastic water bottles, excluding pilgrims. These bottles are now being recycled at Nallathan's center.
-
-🟩
-
-The pilgrims have been excluded from the Sri Pada Uda Maluwaluwa has collects about three tons of plastic water supplied.
-
-The Maskeliya Pradeshiya Sabha Secretary Sarajavaren said that the plastic water bottles were added to the Nallathaniya to Sri Padawatha.
-
-He said that though, some pilgrims were mounted to dispose of plastic water bottles carrying pilters.
-
-The Secretary further stated that the added plastic water bottles will be taken to the recycling center of Nallathan.
-
-◼️
-
-[Data](articles/b4845249.json)
-
-[Extended Data](ext_articles/b4845249.ext.json)
 
 ---

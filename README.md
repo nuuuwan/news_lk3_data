@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 08:36:14**
+As of **2024-03-09 08:52:07**
 
 ## Newspaper Stats
 
-*Scraped **11,790** Articles*
+*Scraped **11,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 617
 dailyftlk | 617
 islandlk | 636
 adalk | 997
-tamilmirrorlk | 1,422
+tamilmirrorlk | 1,424
 adaderanalk | 1,431
 virakesarilk | 1,623
 dailymirrorlk | 1,804
@@ -26,27 +26,73 @@ adaderanasinhalalk | 1,851
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,788 (100.0%) of 11,790 articles have been extended.
+11,790 (100.0%) of 11,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+### வெடுக்குநாறி விபத்தில் மூவர் காயம்
+
+*2024-03-09 08:31:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விபத்தில்-மூவர்-காயம்/175-334408) · `ta`
+
+வெடுக்குநாறி மலையில் குடிநீர் எடுத்துச்சென்ற உழவு இயந்திரம் விபத்துக்குள்ளானதில் பாராளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் உள்ளிட்ட 3 பேர் காயமடைந்துள்ளனர்.
+
+அதில் ஒருவர் நெடுங்கேணி வைத்தியசாலயில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைக்காக வவுனியா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் வருகை தந்த மக்களுக்கு குடிநீர் வழங்க பொலிஸார் மறுப்பு தெரிவித்தமையால் அங்கு பொலிஸாருக்கும் , பக்தர்களுக்கும் இடையில் பதற்ற நிலை ஏற்பட்டிருந்தது.
+
+இதன்போது காலை முதல் வீதி தடைகளைப் போட்டிருந்த பொலிஸார் ஆலய வளாகத்திற்குள் குடி நீர் எடுத்துச் செல்ல இடையூறு விளைவித்திருந்தனர். கடுமையான வாய்த்தர்க்கத்துக்கு மத்தியில் குடிநீர் விநியோகம் முன்னெடுக்கப்பட்டது.
+
+◼️
+
+[Data](articles/9354d83e.json)
+
+---
+
+### அதிகாலை விபத்தில் மூவர் பலி
+
+*2024-03-09 08:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அதிகாலை-விபத்தில்-மூவர்-பலி/94-334407) · `ta`
+
+சனிக்கிழமை (09) அதிகாலை 1.30 மணியளவில் இடம்பெற்ற வாகன விபத்தில் பாடசாலை மாணவர் உட்பட மூவர் உயிரிழந்துள்ளதாக மிஹிந்தலை பொலிஸார் தெரிவித்தனர்.
+
+அநுராதபுரம் - ரம்பேவ பிரதான வீதியில் ரம்பேவ புறநகர் பகுதியிலேயே இவ்விபத்து இடம்பெற்றுள்ளது.
+
+ரம்பேவ நகரில் இடம்பெற்ற இசை நிகழ்ச்சி ஒன்றில் கலந்து கொண்டு திரும்பிக்கொண்டிருந்த இளைஞர்கள் பயணித்த கெப் வண்டியொன்று மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ரம்பேவ வன பிரதேசம் மற்றும் தம்பலகொல்லையில் வசிக்கும் 14, 19 மற்றும் 21 வயதுடைய மூவரே விபத்தில் உயிரிழந்துள்ளனர்.
+
+விபத்தில் படுகாயமடைந்த மேலும் மூவர் அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+விபத்துக்குப் பிறகு,  கெப் வண்டியின் சாரதி தப்பிச் சென்றார், மேலும் அவரைக் கண்டுபிடிக்க பல பொலிஸ் குழுக்கள் விசாரணையைத் தொடங்கியுள்ளன என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b2e0a84d.json)
+
+---
+
+### Railway delay on the coastal railway line
 
 *2024-03-09 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194310) · `si`
 
-මුහුදුබඩ දුම්රිය මාර්ගයේ නඩත්තු කටයුත්තක් හේතුවෙන් කොළඹ කොටුව දුම්රිය ස්ථානයේ සිට වැල්ලවත්ත දුම්රිය ස්ථානය දක්වා වූ කොටසේ එක් දුම්රිය මාර්ගයක ගමනාගමනය සීමා කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Due to maintenance on the coastal railway line, traffic will be restricted to one railway station from Colombo Fort Railway Station for three days starting today. This is for bridge maintenance between Slave Island and Kollupitiya stations, affecting train delays on the coastal route.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ අද (09) , හෙට (10)  සහ අනිද්දා (11) යන තෙදින තුළ මෙම සීමා කිරීම සිදුවන බවය.
+🟩
 
-කොම්පඤ්ඤ වීදිය හා කොල්ලුපිටිය දුම්රිය ස්ථාන අතර පාලමක නඩත්තු කටයුත්තක් හා ජල සම්පාදන මණ්ඩලයේ නල එළීමේ කටයුතු හේතුවෙන් මෙම සීමා කිරීම සිදුකරන බව සඳහන් වේ.
+Traffic will be restricted to one railway station from Colombo Fort Railway Station from Colombo Fort Railway Station due to maintenance work on the coastal railway line.
 
-ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් ද සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
+The department stated that this will be launched today (09), tomorrow (10) and tomorrow.
+
+This is the maintenance of a bridge between Slave Island and Kollupitiya railway stations, this is the restriction due to a bridge and the water supply board.
+
+As a result, a train delay is also available on the coastal route.
 
 ◼️
 
 [Data](articles/492757ce.json)
+
+[Extended Data](ext_articles/492757ce.ext.json)
 
 ---
 
@@ -195,6 +241,8 @@ The initiation ceremony, marking the commencement of construction of the new res
 ...
 
 [Data](articles/4a74debf.json)
+
+[Extended Data](ext_articles/4a74debf.ext.json)
 
 ---
 
@@ -2195,51 +2243,5 @@ An official of the Ministry of Trade, Commerce and Food Protection - "Prices wer
 [Data](articles/b64ca528.json)
 
 [Extended Data](ext_articles/b64ca528.ext.json)
-
----
-
-### Sri Lanka president invites party leaders to IMF review meeting
-
-*2024-03-08 14:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-party-leaders-to-imf-review-meeting-153804/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has convened a meeting with leaders of ‘accepted’ political parties to discuss the proposals put forth by the International Monetary Fund (IMF) delegation.
-
-Leader of the Opposition Sajith Premadasa, leader of the National People’s Power (NPP) Anura Kumara Dissanayake, and Tamil National Alliance (TNA) leader S Sridharan have been invited to participate in these deliberations, the president’s media division said in a statement.
-
-The meeting will be held at the Presidential Secretariat on Monday (11), with an open invitation extended to interested individuals to join alongside the invited leaders.
-
-The IMF second review commenced on Thursday at the Finance Ministry. Wickremesinghe met Peter Breuer, Senior Mission Chief for Sri Lanka who said that the IMF program is “exhibiting promising signs of efficacy, translating into tangible outcomes”.
-
-...
-
-[Data](articles/7a8dbc30.json)
-
-[Extended Data](ext_articles/7a8dbc30.ext.json)
-
----
-
-### Collection of 3 ton plastic bottles during the Sivanolipada Mountain Season
-
-*2024-03-08 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178236) · `ta`
-
-Since 2023, 3 tonnes of plastic bottles have been collected in Maskeliya during the Sivanolipada Mountain Season. Despite efforts to manage waste, some pilgrims still litter. The collected bottles are to be recycled, and there's a water issue in Nalladhani due to dry weather, with discussions ongoing with the Water Supply Board.
-
-🟩
-
-The Maskeliya Pradeshiya Sabha said that three tonnes of plastic bottles have been collected in three months since the beginning of 2023 to 2024.
-
-Pilgrims who go to the pilgrimage have been placed in garbage bins to discharge plastic water bottles. However, some pilgrims throw plastic water bottles into the environment without putting it in trash.
-
-Although the Pradeshiya Sabha is advised to dispose of food items in the garbage bins, it is not followed by pilgrims.
-
-The collected plastic bottles will be taken to the center of garbage collection and then sold to the private sector.
-
-Meanwhile, the problem of drinking water in Nalladhani area due to the prevailing dry weather. He said that a discussion is being held with the Water Supply Board to address the issue.
-
-◼️
-
-[Data](articles/427867f9.json)
-
-[Extended Data](ext_articles/427867f9.ext.json)
 
 ---

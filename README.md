@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 11:33:27**
+As of **2024-03-09 11:52:26**
 
 ## Newspaper Stats
 
-*Scraped **11,815** Articles*
+*Scraped **11,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 618
 islandlk | 636
 adalk | 997
 tamilmirrorlk | 1,428
-adaderanalk | 1,435
+adaderanalk | 1,436
 virakesarilk | 1,627
 dailymirrorlk | 1,810
-adaderanasinhalalk | 1,854
+adaderanasinhalalk | 1,855
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,815 (100.0%) of 11,815 articles have been extended.
+11,815 (100.0%) of 11,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### සිමෙන්ති පැටවූ ලොරි රථය පවුලක් ගමන් ගත් යතුරුපැදියේ ගැටෙයි
+
+*2024-03-09 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194314) · `si`
+
+කොළඹ හයිලෙවල් මාර්ගයේ කොස්ගම මිරිස්වත්ත ප්‍රදේශයේදී ඊයේ (08) රාත්‍රියේ සිදුවූ රිය අනතුරකින් දෙදෙනෙකු මියගොස් තිබේ.
+
+කොස්ගම පොලීසිය පැවසුවේ සිමෙන්ති පැටවූ ලොරියක් යතුරුපැදියක ගැටීමෙන් මෙම අනතුර සිදුවී ඇති බවය.
+
+සිමෙන්ති පටවාගෙන කොළඹ සිට අවිස්සාවේල්ල දෙසට ගමන් කරමින් තිබූ ලොරි රථයේ ටයරයක් එක්වරම පුපුරා ගොස් මාර්ගයෙන් ඉවතට පැන ප්‍රතිවිරුද්ධ දෙසට ධාවනය වී යතුරුපැදියේ ගැටී මෙම අනතුර සිදුවී තිබේ.
+
+අනතුරින් යතුරුපැදියේ ගමන් ගත් පිය පුතු දෙදෙනා මියගොස් ඇති අතර බරපතළ තුවාල ලැබූ මව කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ කොස්ගම අලුබෝදල ප්‍රදේශයේ පදිංචිව සිටි 44 හැවිරිදි පියා සහ 08 හැවිරිදි පිරිමි දරුවෙකි.
+
+ලොරි රථයේ රියදුරාව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර කොස්ගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/a015f941.json)
+
+---
+
+### Details emerge on victims in Canada mass killing
+
+*2024-03-09 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97836/details-emerge-on-victims-in-canada-mass-killing) · `en`
+
+A Sri Lankan father who survived the mass murder of his family in Canada said he returned home from work on Wednesday to find his wife and four young children had been killed.
+
+Dhanushka Wickramasinghe, 34, was also attacked but managed to subdue the suspect.
+
+He is now recovering in hospital from a slash to the eye and one of his hands.
+
+A 19-year-old Sri Lankan student who was living with the family was charged with the deaths.
+
+The new details of the night the Wickramasinghe family was killed emerged from a series of media interviews with Bhante Suneetha, the resident monk at a local Buddhist monastery in Ottawa that the family attended.
+
+Mr Suneetha, who visited the father in hospital on Thursday, said he is in “great shock” over what happened.
+
+Police in Ottawa discovered the slain family at their townhouse in the Barrhaven suburb after responding to emergency calls placed at around 22:52 local time (03:52 GMT) on Wednesday.
+
+...
+
+[Data](articles/bb794d43.json)
+
+---
 
 ### Religious centres engaging in conversions to be raided: Minister
 
@@ -2181,71 +2227,5 @@ ECONOMYNEXT – Two bills, aimed at advancing gender equality and empowering wom
 [Data](articles/697adec5.json)
 
 [Extended Data](ext_articles/697adec5.ext.json)
-
----
-
-### Last year lease
-
-*2024-03-08 16:53:36* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සතු-ඉඩම්-දිර්ඝ-කාලින-බද්දට/11-408499) · `si`
-
-Last year, railway employees and others built on Railway Department lands. Residents were lectured and given long-term leases. Minister Bandula Gunawardena approved further land use. Agriculture is conducted in certain areas. A preliminary investigation found railway employees only did their duty. New Assistant Commerce Authority offices opened in Colombo and Anuradhapura to address land issues.
-
-🟩
-
-Railway employees and other persons built in lands belonging to the Railway Department
-
-The masses have been carried out and the residents of the lands have been a long-lectured basis
-
-Minister of Transport Bandula who permission to be permitted to be held on further land
-
-Minister Bandula Gunawardena was told by Nawalapitiya Railway
-
-Speaking further Minister Bandula Gunawardena said
-
-Agriculture is conducting agriculture in certain areas of the Railway Department.
-
-An assessment record of those lands for more than ten years
-
-Acquired by obtaining a long-term lease basis
-
-An Assistant Commerce Office limited to Colombo (08)
-
-The days were installed and another office installed in Anuradhapura
-
-Go to these offices and provides solutions to the issues of their land
-
-A preliminary investigation was carried out regarding the incident that was attacked.
-
-According to investigation, the railway employees have done only duty.
-
-Kandy District to open the new Assistant Commerce Authority Office
-
-◼️
-
-[Data](articles/7c5ab064.json)
-
-[Extended Data](ext_articles/7c5ab064.ext.json)
-
----
-
-### To the level that should be focused on warmth
-
-*2024-03-08 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194298) · `si`
-
-The Meteorological Department warns of low temperatures in North Western, Southern, North, and North Central provinces tomorrow. Stay hydrated, rest in shade, and avoid outdoor stress.
-
-🟩
-
-The Meteorological Department says that the temperature of several areas on the island will continue to pay attention tomorrow (09).
-
-Accordingly, in the North Western, Southern and North and North Central and North Central and provinces, the heat of the human body will be focused on a lowest level of warmth.
-
-The Department has informed the health advice including adequate water, the rest of the shadow, and the stress of the outdoors.
-
-◼️
-
-[Data](articles/2d196c0b.json)
-
-[Extended Data](ext_articles/2d196c0b.ext.json)
 
 ---

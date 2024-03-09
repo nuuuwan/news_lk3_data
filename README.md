@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 15:51:56**
+As of **2024-03-09 16:04:03**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 1,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,840 (100.0%) of 11,841 articles have been extended.
+11,841 (100.0%) of 11,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### මාර්ග සංවර්ධන අධිකාරියට ලැබුණු වන්දි මුදලට මොකද වුණේ ?
+### What happened to the compensation received by the Road Development Authority?
 
 *2024-03-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194321) · `si`
 
-පසුගිය මැයි මාසයේ කැලණිතිස්ස විදුලි බලාගාරය අසල මාර්ගයේදී බස් රථයක් ආරක්ෂිත වැටක ගැටීමෙන් එම වැටට හානි සිදුවී තිබුණි.
+The Road Development Authority received compensation for a fence damaged by a bus collision near the Kelanitissa Power Plant. The bus, "Kelani Tiger," provides free transport on Vesak Poo Dar and Poson Poya Days. The accident occurred on a rainy day. The bus owner was compensated for the damage, but the fence has not been repaired. The owner questions the compensation payment and the fence's condition.
 
-බස් රථයේ හිමිකරු සිදුවූ හානියට නිසිපරිදි වන්දි මුදල් ගෙවා තිබුණ ද මේ දක්වා එම වැට ප්‍රතිසංස්කරණය කර නොමැති බව වාර්තා වෙයි.
+🟩
 
-"කැලණි ටයිගර්" නමින් හඳුන්වන වැලිවේරිය - පිටකොටුව මාර්ගයේ ධාවනය කරන එම පෞද්ගලික බස් රථය සෑම වෙසක් පොහෝ දිනකම මෙන්ම පොසොන් පොහෝ දිනකම මඟීන්ට නොමිලේම ප්‍රවාහන පහසුකම් සපයයි.
+The fence was damaged by a bus collided with a safe fence in the road near the Kelanitissa Power Plant last May.
 
-එලෙස ප්‍රවාහන පහසුකම් සපයන එම බස් රථය පසුගිය වසරේ වෙසක් පොහෝ දිනය දවසේදී මඟින් රැගෙන ධාවනය කෙරුණි.
+It is reported that the fence has not been renovated but the fence has not been renovated.
 
-එදින අධික වැසි සහිත දිනයක් වූ බැවින් එම බස් රථය මාර්ගයේ ලිස්සා ගොස් අනතුරට ලක් විය.
+The private bus driven by the Weliweriya road called Kelani Tiger, "The private bus, which is known as the" Kelani Tiger "provides free transport to the passengers every Vesak Poo Dar and Poson Poya Day.
 
-ඒ කැලණිතිස්ස විදුලි බලාගාරය අසල මාර්ගයේ පිහිටි ආරක්ෂිත වැටෙහි ගැටීමෙනි.
+The bus provided such transport of transport was run by Vesak Poya Day last year.
 
-අනතුරෙන් ආරක්ෂිත වැටට හානි සිදුවූ අතර එම හානිය වෙනුවෙන් බස් රථයේ හිමිකරු මාර්ග සංවර්ධන අධිකාරියට වන්දිය ගෙවනු ලැබුවද අද වනතුරු එම ආරක්ෂිත වැට ප්‍රතිසංස්කරණය කර නොමැති බවට බස් රථයේ හිමිකරු චෝදනා කරයි.
+The bus slipped on the road, as a day was a heavy raining day.
 
-...
+By collision with the safe fence on the road near the Kelanitissa Power Plant.
+
+The owner of the bus has been paid to the safety of the accident and the owner of the bus has been paid to the Road Development Authority for the damage.
+
+The owner owner calls for authorities to determine why compensation has been paid, and what happened to the safest fence and what happened to the money.
+
+◼️
 
 [Data](articles/90c9be00.json)
+
+[Extended Data](ext_articles/90c9be00.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 09:33:47**
+As of **2024-03-09 09:51:36**
 
 ## Newspaper Stats
 
-*Scraped **11,802** Articles*
+*Scraped **11,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,61 @@ tamilmirrorlk | 1,427
 adaderanalk | 1,432
 virakesarilk | 1,624
 dailymirrorlk | 1,807
-adaderanasinhalalk | 1,852
+adaderanasinhalalk | 1,853
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,799 (100.0%) of 11,802 articles have been extended.
+11,802 (100.0%) of 11,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### அநுராதபுரத்தில் விபத்தை ஏற்படுத்தி விட்டு சாரதி தப்பி ஓட்டம்  ;  மூவர் பலி ; இருவர் காயம்
+### පැරෂුටයෙන් ආ මාරයා
 
-*2024-03-09 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178298) · `ta`
+*2024-03-09 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194312) · `si`
 
-அநுராதபுரம், ரம்பேவ பகுதியில் இடம்பெற்ற வீதி விபத்தில்  மூன்று ஆண்கள் உயிரிழந்துள்ளதுடன், இரண்டு பெண்கள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+ගාසා තීරයට ගුවනින් හෙළන ලද ආධාර පැකේජයකට යටවීමෙන්  පුද්ගලයින් පස් දෙනෙකු මියගොස් තිබේ.
 
-இசை நிகழ்ச்சியொன்றில் கலந்து கொண்டு வீடு திரும்பிக் கொண்டிருந்த சிலர் மீதே கெப் ரக வாகனத்தை வேகமாக  ஓட்டி வந்த நபர்  வீதியில் சென்றவர்களை இடித்து தள்ளிவிட்டு அங்கிருந்து தப்பிச் சென்றுள்ளார்.
+විදෙස් වාර්තා සඳහන් කළේ ආධාර රැගත් පැරෂුටයක් ක්‍රියාවිරහිත වීමෙන් මෙම අනතුර සිදුව ඇති බවය.
 
-விபத்தில் காயமடைந்த இரண்டு பெண்கள் தற்போது அநுராதபுரம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+එක්සත් ජනපදය, ජෝර්දානය, ඊජිප්තුව, ප්‍රංශය, නෙදර්ලන්තය සහ බෙල්ජියම පසුගිය දිනවල ගාසා තීරයට ගුවන් මඟින් ආධාර ලබා දීමට පියවර ගෙන තිබුණි.
+
+අමෙරිකාව සහ ජෝර්දාන ගුවන් හමුදාව ඒකාබද්ධව ගාසා තීරයට ගුවන් ආධාර හෙළීමක් පසුගියදා සිදුකළ බව විදෙස් වාර්තා සඳහන් කළේය.
+
+මේ අතර ජෝර්දානය පවසා ඇත්තේ තම ගුවන් යානයක් හේතුවෙන් මෙම අනතුර සිදුව ඇති බවට වාර්තා වන තොරතුරු අසත්‍ය බවයි.
+
+එක්සත් ජාතීන්ගේ සංවිධානය පවසන්නේ ගාසා තීරයේ මිලියන 2.3 ක ජනගහනයෙන් හතරෙන් එකක් වන ළමයින් කුසගින්නෙන් මිය යන තත්ත්වයක් උදාවී ඇති බවයි.
+
+මෙම සති අන්තයේ සිට ක්‍රියාත්මක වන පරිදි ගාසා තීරයට ආධාර සැපයීම මුහුදු මාර්ගයෙන් සිදුකිරීමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/aad4b06a.json)
+
+---
+
+### Driver's escape from accident in Anuradhapura;Three kills;Two people injured
+
+*2024-03-09 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178298) · `ta`
+
+In Anuradhapura, a road accident in Rambawewa resulted in three fatalities and two injuries. The victims were returning from a music show. Two injured women are being treated at the Anuradhapura Teaching Hospital.
+
+🟩
+
+Three men were killed and two women were injured in a road accident in Rambawewa, Anuradhapura.
+
+Some people who were returning home from a music show have fled the road and have fled the road.
+
+Two women who were injured in the accident are currently being treated at the Anuradhapura Teaching Hospital.
 
 ◼️
 
 [Data](articles/acf0d3c2.json)
+
+[Extended Data](ext_articles/acf0d3c2.ext.json)
 
 ---
 
@@ -96,23 +126,31 @@ A project to convert 100 three wheels to electricity powered in a month is curre
 
 [Data](articles/2991e350.json)
 
+[Extended Data](ext_articles/2991e350.ext.json)
+
 ---
 
-### கோட்டாவின் முட்டாள்தனம்:சம்பிக்க
+### Kota's stupidity: Champagne
 
 *2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க/175-334409) · `ta`
 
-கோட்டாபய ராஜபக்சவை ஜனாதிபதி  பதவியிலிருந்து வெளியேற்ற தேசிய மற்றும் சர்வதேச சூழ்ச்சிகள் எதுவும் முன்னெடுக்கப்படவில்லை எனவும், அவரது முட்டாள்தனமாக நிர்வாகத்தால் பாரிய விளைவுகள் ஏற்பட்டதாகவும் பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
+Parliamentarian Patali Champika Ranawaka denies involvement in national and international maneuvers, while former President Gotabhaya Rajapaksa criticizes the Rajapaksas' economic policies and dismisses writing about the past as useless.
 
-நுகேகொட நாவல பகுதியில் இடம்பெற்ற நிகழ்வில் கலந்துகொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச, பொருளாதார படுகொலையாளி என்று உயர்நீதிமன்றம் தீர்ப்பளித்துள்ளது. ஆகவே கடந்த காலம் பற்றி புத்தகம் எழுதுவது பயனற்றது. ராஜபக்சர்களின் வியாக்கியானத்தை நாட்டு மக்கள் கவனத்தில்கொள்வதில்லை என்றார்.
+Parliamentarian Patali Champika Ranawaka has said that none of the national and international maneuvers have been carried out by his stupid administration.
 
-தேசிய மற்றும் சர்வதேசத்தின் சதியினால் தான் ஜனாதிபதி பதவியில் இருந்து வெளியேற்றதாக கோட்டாபய ராஜபக்ச குறிப்பிடுவது நகைப்புக்குரியது.
+He was speaking to the media after attending an event in Nugegoda Nawala area.
+
+Former President Gotabhaya Rajapakse has ruled that the economic assassination. So writing a book about the past is useless. He said the people of the country did not take care of the Rajapaksas.
+
+Gotabhaya Rajapaksa's claim that the presidency is expelled from the conspiracy of national and internationalism is laughable.
 
 ◼️
 
 [Data](articles/30475b6b.json)
+
+[Extended Data](ext_articles/30475b6b.ext.json)
 
 ---
 
@@ -366,11 +404,15 @@ Ottawa Police Service in a statement said that it responded to a home in the 300
 
 *2024-03-09 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97830/three-killed-two-injured-in-hit-and-run-in-anuradhapura) · `en`
 
-Three men were killed and two women were injured by a hit-and-run driver in Rambewa, Anuradhapura early this morning (March 09), the police said.
+Three young men have been killed and two girls were injured by a hit-and-run driver in Rambewa, Anuradhapura early this morning (March 09).
 
-The speeding vehicle, which had been returning from a musical show, had fled the scene after knocking down the pedestrians.
+Police said that a cab, which had been speeding towards Anuradhapura from Rambewa, had fled the scene after knocking down five pedestrians, returning home after attending a concert held in Rambewa.
 
-Two women who were injured in the accident are currently being treated at the Anuradhapura Teaching Hospital.
+The victims were rushed to the Anuradhapura Teaching Hospital, however, the three young men were pronounced dead upon admission to the facility. Meanwhile, the two girls are currently receiving medical attention at the hospital.
+
+The deceased, aged 16, 19 and 21 years, were identified as residents of Rambewa and Pihimbiyagollewa areas.
+
+Mihintale Police has initiated investigations to apprehend the hit-and-run cab driver implicated in the deadly crash.
 
 ◼️
 
@@ -2195,41 +2237,5 @@ The government as well as MPs from the main opposition Samagi Jana Balawegaya (S
 [Data](articles/4ffdfd0c.json)
 
 [Extended Data](ext_articles/4ffdfd0c.ext.json)
-
----
-
-### Aside Gasa like a coffin
-
-*2024-03-08 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194295) · `si`
-
-Nearly 31,000 Palestinians have died in the Gaza conflict, leading to a humanitarian crisis. Israel continues military operations, despite international pressure. The US and Egypt are involved in negotiations for a ceasefire, with Israel and Hamas at odds. President Biden supports Israel and plans to build a port in Gaza for humanitarian aid.
-
-🟩
-
-Nearly 31,000 Palestinians have died in due attack on the Gaza core.
-
-Others, internationally, is an influence of a ceasefire at Gaza until the risk of famine.
-
-International critics say that a humanitarian crisis has been caused by the wars of the war for 5 months.
-
-However, Israeli Prime Minister Benjamin Netanyahu, attended a ceremony at a Military Training School yesterday (07), said that military operations continue in Gaza.
-
-Although the international pressure is rising, Israel must be able to stand up with the efforts to stop the war.
-
-The Palestinians of Khan Yunis in the North and Central Gaza are now staying in RAFA in RAFA.
-
-Even the US has said that launching a large scale landing operation is dangerous.
-
-The Prime Minister Nethonuu is called the Hamas Last Fort of Hamas.
-
-Netanyahu said that if anyone says that the operation is not launched, it is such as defeating the war.
-
-Netanyahu stressed that it would not be done.
-
-...
-
-[Data](articles/8a0a351a.json)
-
-[Extended Data](ext_articles/8a0a351a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 07:51:29**
+As of **2024-03-09 08:03:08**
 
 ## Newspaper Stats
 
-*Scraped **11,787** Articles*
+*Scraped **11,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,422
 adaderanalk | 1,431
 virakesarilk | 1,623
 dailymirrorlk | 1,804
-adaderanasinhalalk | 1,849
+adaderanasinhalalk | 1,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,785 (100.0%) of 11,787 articles have been extended.
+11,787 (100.0%) of 11,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### වෙඩික්කරුවෙක් අත්අඩංගුවට
+
+*2024-03-09 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194309) · `si`
+
+හුංගම කහඳමෝදර ප්‍රදේශ‍යේ දී පසුගිය 06 වනදා පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් විසින් ඊයේ (08) උදෑසන හුංගම කට්ටකඩුව වැව අසලදී ‍මෙම සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම් අනුව වෙඩි තැබීමට යොදා ගත් ගිනි අවිය සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/39820344.json)
+
+---
 
 ### Showers or thundershowers possible in some areas today
 
@@ -45,6 +61,8 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 ◼️
 
 [Data](articles/a01af235.json)
+
+[Extended Data](ext_articles/a01af235.ext.json)
 
 ---
 
@@ -81,6 +99,8 @@ Two women who were injured in the accident are currently being treated at the An
 ◼️
 
 [Data](articles/cb771e8c.json)
+
+[Extended Data](ext_articles/cb771e8c.ext.json)
 
 ---
 
@@ -2241,33 +2261,5 @@ United Airlines said that there are 6 wheels in each wheel block of the Boeing 7
 [Data](articles/bf167730.json)
 
 [Extended Data](ext_articles/bf167730.ext.json)
-
----
-
-### May the light of the Sri Lankan people light light on the lives of the people of Sri Lanka - President
-
-*2024-03-08 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178242) · `ta`
-
-President Ranil Wickremesinghe congratulated the Sri Lankan people on Maha Shivaratri, highlighting the Hindu prayer's impact on spreading wisdom and eliminating suffering. The government's efforts to alleviate the economic crisis have been successful, aiming for the prosperity of all Sri Lankans. Emphasizing unity and the elimination of arrogance, the nation looks forward to a peaceful and prosperous future.
-
-🟩
-
-President Ranil Wickremesinghe said in his congratulations that the light of the Hindu people on Maha Shivaratri Day will be light in the lives of the entire Sri Lankan people.
-
-The prayer of Lord Shiva remembered by Hindu devotees around the world to release all lives from suffering.
-
-Hindu devotees around the world are praying to spread the wisdom to help eliminate the Mamat and the arrogance of human beings.
-
-In the last two years, the government has been very committed to rescue the people affected by the unprecedented economic crisis.
-
-Today's initiatives have been successful with the expectation of prosperity of the people of Sri Lanka as a whole.
-
-To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all should unite as a nation without Mamadi and arrogance and advance the plan for the future of the country.
-
-◼️
-
-[Data](articles/6d753978.json)
-
-[Extended Data](ext_articles/6d753978.ext.json)
 
 ---

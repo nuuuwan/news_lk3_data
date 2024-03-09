@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 16:04:03**
+As of **2024-03-09 16:18:03**
 
 ## Newspaper Stats
 
-*Scraped **11,841** Articles*
+*Scraped **11,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 617
 economynextcom | 620
 islandlk | 636
 adalk | 999
-tamilmirrorlk | 1,434
+tamilmirrorlk | 1,436
 adaderanalk | 1,438
-virakesarilk | 1,629
+virakesarilk | 1,631
 dailymirrorlk | 1,814
 adaderanasinhalalk | 1,861
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 1,861
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,841 (100.0%) of 11,841 articles have been extended.
+11,841 (100.0%) of 11,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### யாழ். நெல்லியடி பகுதிக்கு புதிய இந்திய துணை தூதுவர் விஜயம்!
+
+*2024-03-09 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178317) · `ta`
+
+இலங்கைக்கான இந்திய துணை தூதரகத்தின் யாழ். துணை தூதரக அதிகாரிகள் இன்று சனிக்கிழமை (09) காலை 11:45 மணியளவில் விஜயம் ஒன்றினை மேற்கொண்டனர்.
+
+நெல்லியடியில் இடம் பெறும் தகவல் தொழில்நுட்ப பயிற்சி நிலையத்தை பார்வையிடவே இந்திய துணை தூதர் தலைமையிலான அதிகாரிகள் வருகை தந்திருந்தனர்.
+
+தம்மிக்க பெரேராவின் தகவல் தொழில் நுட்ப கல்லூரியுடன் இணைந்து யாழ்ப்பாண மாவட்டத்தில் நடாத்தப்படுகின்ற தகவல் தொழில்நுட்ப பயிற்சி கூடங்களை பார்வையிடுவதன் தொடர்ச்சியாகவே குறித்த வருகை இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/a3c9521b.json)
+
+---
+
+### வெடுக்கு நாறியில் பொலிஸார் நடந்துகொண்ட விதம் அடாவடித்தனமே - அமைச்சர் டக்ளஸ்
+
+*2024-03-09 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178316) · `ta`
+
+வெடுக்குநாறிமலை ஆதி சிவன் கோவிலில் சிவராத்திரி வழிபாட்டில் ஈடுபட்டிருந்தவர்கள் மீது பொலிஸாரால் மேற்கொள்ளப்பட்ட செயற்பாடுகள் அனைத்தும் அடாவடித்தனம் என சுட்டிக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா இவ்வாறான செயற்பாடுகள் நாட்டில் இன நல்லிணக்கதை சீர்குலைக்கும் வகையில் அமைகின்றது எனவும் தெரிவித்துள்ளார்.
+
+பளைப் பகுதியில் எரிபொருள் நிலைய திறப்புவிழா நிகழ்வு இன்றுகாலை நடைபெற்றது. இந்நிகழ்வில் கலந்துகொண்ட அமைச்சரிடம் ஊடகவியலாளர்கள் குறித்த விடயம் தொடர்பில் கேட்டபோதே இவ்வாறு தெரிவித்துள்ளார்.
+
+சிவராத்திரிதினம் என்பது இந்துக்களின் முக்கிய சமயம் சார் நிகழ்வாகும். இதனை முன்னிடு குறித்த ஆலயத்தில் வழிபாடுகளை மேற்கொள்ள அடியவர்கள் சென்றபோது பொலிசார் தடுத்து நிறுத்து அடாவடியில் ஏடுபடுத்துயுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறிப்பாக வெடுக்குநாறிமலை ஆதி சிவன் கோவிலில் நீதிமன்ற அனுமதியுடன் சிவராத்திரி வழிபாட்டில் ஈடுபட்டுக் கொண்டிருந்த சிவ பக்தர்களையும், அவர்களின் வழிபாட்டையும் அவமானப்படுத்தும் வகையில் பொலிசார் நடந்துகொண்ட விதம் அவர்களது அடாவடித்தனமாகவெ இருக்கின்றது.
+
+...
+
+[Data](articles/639afe10.json)
+
+---
+
+### மகளிர் தினத்தில் போதைப்பொருள் பார்ட்டி : 27 பேர் கைது
+
+*2024-03-09 15:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளிர்-தினத்தில்-போதைப்பொருள்-பார்ட்டி-27-பேர்-கைது/175-334425) · `ta`
+
+மகளிர் தினமான வெள்ளிக்கிழமை (08) இரவு  பல்கலைக்கழக மாணவி ஒருவரின் பிறந்தநாள் விழாவிற்கு பேஸ்புக் ஊடாக அழைக்கப்பட்ட பல்கலைக்கழக மாணவிகள் ஐவர் உட்பட இருபத்தேழு பேரை கஹதுடுவ பொலிஸார் கைது செய்துள்ளனர்.
+
+போதைப்பொருளை நுகர்ந்து கொண்டிருந்த நிலையிலேயே இவர்கள் கைது செய்யப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்தனர்.
+
+அவர்களில், தனியார் பல்கலைக்கழகத்தில் கல்வி கற்கும் ஐந்து மாணவிகள் மற்றும் 12 ஆண் மாணவர்கள் உட்பட இருபத்தேழு பேர் இங்கு கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களில் மூன்று விபச்சாரிகளும் உள்ளடங்குவதுடன், காலி பிரதேசத்தைச் சேர்ந்த நண்பர்கள் நால்வர் வாடகைக்கு எடுத்த காரில் விருந்துக்கு போதைப்பொருள் கொண்டு வந்தமை தெரியவந்துள்ளது.
+
+தியத்தலாவ பிரதேசத்தில் உள்ள தனியார் பல்கலைக்கழகம் ஒன்றில் கல்வி கற்க ஹோமாகம உடுவான பகுதியில் உள்ள அடுக்குமாடி குடியிருப்புக்கு 45,000 ரூபாய் வாடகைக்கு விடப்பட்ட வீட்டில் அவரது இருபத்தி இரண்டாவது பிறந்தநாளை முன்னிட்டு இந்த விருந்து இடம்பெற்றது.
+
+...
+
+[Data](articles/616b3d14.json)
+
+---
 
 ### What happened to the compensation received by the Road Development Authority?
 
@@ -61,6 +115,26 @@ The owner owner calls for authorities to determine why compensation has been pai
 [Data](articles/90c9be00.json)
 
 [Extended Data](ext_articles/90c9be00.ext.json)
+
+---
+
+### காற்றாலை மின் திட்டம் மெசிடோ அவசர கடிதம்
+
+*2024-03-09 15:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/காற்றாலை-மின்-திட்டம்-மெசிடோ-அவசர-கடிதம்/72-334424) · `ta`
+
+மன்னார் தீவில் 2 ஆம் கட்டமாக அமைக்கப்படவுள்ள காற்றாலை மின் திட்டத்தினால் ஏற்பட உள்ள பாதிப்பு குறித்து மத்திய சுற்றாடல் அதிகார சபைக்கு அவசர  கடிதம் ஒன்றை அனுப்பி  வைத்துள்ளதாக  மெசிடோ நிறுவனத்தின் பணிப்பாளர் ஜாட்சன் பிகிறாடோ  தெரிவித்தார்.
+
+மன்னார் மாவட்டத்தில் குறிப்பாக மன்னார் தீவினுள் பெரிதும் பேசுபொருளாக காணப்படும் காற்றாலை மின்சாரத்தினால் ஏற்படுகின்ற, ஏற்படப் போகின்ற பாதிப்புக்கள் குறித்து மன்னார் சமூக பொருளாதார மேம்பாட்டுக்கான நிறுவனம் மின்னஞ்சல் வாயிலாக மத்திய சுற்றாடல் அதிகார சபைக்கு கடிதமொன்றினை அனுப்பி வைத்துள்ளோம்.
+
+மன்னார் கரையோரப் பகுதிகளில் காற்றாலைகளை நிறுவுவது தொடர்பில் பொது மக்கள், சமூக ஆர்வலர்கள் தமது கவலைகளை வெளிப்படுத்தி வருகின்றனர்.
+
+காற்றாலை விசையாழி நிறுவலின் முதல் கட்டத்தால் ஏற்பட்டுள்ள  குறிப்பிடத்தக்க சுற்றுச்சூழல் பாதிப்புக்கள் குறித்து தெரிவிக்கப்பட்டுள்ளது.
+
+போதுமான தணிப்பு நடவடிக்கைகள் இல்லாமல் மேலும் நிறுவல்களை மேற்கொள்ள எத்தனிப்பது குறித்து எம்முடைய கவலை வெளிப்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b3774aac.json)
 
 ---
 
@@ -2175,111 +2249,5 @@ State Ministers Shehan Semasinghe, Presidential Staff Level Sanaganayake, Presid
 [Data](articles/1fbd366e.json)
 
 [Extended Data](ext_articles/1fbd366e.ext.json)
-
----
-
-### 6 killed in a Lankan family in Canada - with the family
-
-*2024-03-08 20:00:19* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩාවේ-ලාංකික-පවුලක-6-මරාදාලා---ඝාතකයා-පවුල-සමගම-සිටි-අයෙක්/11-408500) · `si`
-
-A Canadian family, including a mother, four children, and a family member, was killed. The father was seriously injured. The family was identified as a student of the family 19, a learner in Canada. The victims were a 35-year-old mother, her seven-year-old daughter, and two two-month-old daughters. A man was also killed, and the killings were committed with a sharp instrument.
-
-🟩
-
-The International Media reports that the Canada police had confirmed that six members of a recently migrated company of Canada.
-
-The mother and four children and a family member have been killed. The father of the children was seriously injured.
-
-The family was identified as a student of the family 19. He is a learner in Canada.
-
-The deceased has died in the past 35-year-old mother, daughter of her seven, and daughter, daughter, two and two months old.
-
-Similarly, the family was also killed and a man of the rat. The killings have been attacked with a sharp instrument.
-
-◼️
-
-[Data](articles/ea1651f5.json)
-
-[Extended Data](ext_articles/ea1651f5.ext.json)
-
----
-
-### Gunmen kidnap 227 pupils from school in Nigeria
-
-*2024-03-08 19:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gunmen-kidnap-227-pupils-from-school-in-Nigeria/108-278508) · `en`
-
-KADUNA, Nigeria, March 7 (Reuters) - Gunmen in Nigeria kidnapped more than 200 school pupils in the northern town of Kuriga on Thursday, a teacher, local councillor and parents of the missing children said, in the biggest mass abduction from a school since 2021.
-
-Police in Kaduna state did not respond to requests for comment on the abductions, which happened shortly after morning assembly at the Local Government Education Authority School in the town of Kuriga.
-
-"The number of the kidnapped from the secondary section based on the statistics we took together with the parents is 187 while that of the primary section is 40 for now," said Sani Abdullahi, a home economics teacher.
-
-Local councillor for Kuriga Idris Maiallura said he had been to the school and said the gunmen initially took 100 primary schools pupils but later freed them while others escaped.
-
-Parents and residents blamed the kidnapping on lack of security in the area.
-
-...
-
-[Data](articles/e19c0873.json)
-
-[Extended Data](ext_articles/e19c0873.ext.json)
-
----
-
-### Crowd in Canada massacre is outstanding
-
-*2024-03-08 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194302) · `si`
-
-A horrific massacre in Ottawa, Canada, claimed the lives of a Sri Lankan family, including four children. The incident unfolded in their home, with the attacker, Frank de Zoysa, a 19-year-old Sri Lankan student, being arrested. The family had recently moved to Canada, and the mother expressed fears before the tragedy.
-
-🟩
-
-The mother of the four killed in the capital city of Canada was a resident of Sri Lanka.
-
-The mother of 35-year-old Dillynika Ekanayake told Ada Derana
-
-"I felt that something would happen. I just got some of the grave boxes. I thought there was no big trouble. Mother says something to go.. Everywhere thinks of Buddhism. Oh, how many temples went ... "
-
-The massacre is in a house where a Sri Lankan family living in the area of the town of Canada.
-
-At the time of the incident, there were a 35-year-old mother, four children, and two other Sri Lankans with their residents.
-
-The 38-year-old Danushka Wickremasinghe came to the house at the time of his visit to the children.
-
-Despite the father entered the house, a man had been attacked and the man attacked by the darkness had not been able to identify.
-
-However, he was attacked by Dhanushka de Zoysa, who was living in the house with her, and his family members.
-
-It was a momentary after his arms were bleeding and attacked by a sharp weapon.
-
-...
-
-[Data](articles/8eb70846.json)
-
-[Extended Data](ext_articles/8eb70846.ext.json)
-
----
-
-### Gold hits fresh record, heads for best week in 5 months
-
-*2024-03-08 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97826/gold-hits-fresh-record-heads-for-best-week-in-5-months) · `en`
-
-Gold prices hit record highs for a fourth consecutive session on Friday on growing speculations over June interest rate cuts ahead of key U.S. jobs data due later in the day.
-
-Spot gold rose 0.4% to $2,168.28 per ounce as of 1057 GMT, while U.S. gold futures added 0.5% to $2,175.50.
-
-Gold reached a new all-time high of $2,170.99 earlier in the session and has gained more than 4.1% so far this week, setting it on track to post its biggest weekly percentage increase since mid-October.
-
-“I think a lot of the demand that we’ve seen coming from is really in the paper market. It’s just speculative demand,” said Michael Widmer, Bank of America’s head of Metals Research.
-
-“You always had good support from Chinese buying and central bank buying. But that was never enough to take prices high.”
-
-Gold first surpassed its December peak on Tuesday, primarily aided by growing indications of cooling price pressures and bullion’s traditional safe-haven cachet.
-
-...
-
-[Data](articles/644733ca.json)
-
-[Extended Data](ext_articles/644733ca.ext.json)
 
 ---

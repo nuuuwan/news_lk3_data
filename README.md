@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 08:17:48**
+As of **2024-03-09 08:36:14**
 
 ## Newspaper Stats
 
-*Scraped **11,788** Articles*
+*Scraped **11,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,41 @@ dbsjeyarajcom | 178
 newsfirstlk | 363
 economynextcom | 617
 dailyftlk | 617
-islandlk | 635
+islandlk | 636
 adalk | 997
 tamilmirrorlk | 1,422
 adaderanalk | 1,431
 virakesarilk | 1,623
 dailymirrorlk | 1,804
-adaderanasinhalalk | 1,850
+adaderanasinhalalk | 1,851
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,788 (100.0%) of 11,788 articles have been extended.
+11,788 (100.0%) of 11,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+
+*2024-03-09 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194310) · `si`
+
+මුහුදුබඩ දුම්රිය මාර්ගයේ නඩත්තු කටයුත්තක් හේතුවෙන් කොළඹ කොටුව දුම්රිය ස්ථානයේ සිට වැල්ලවත්ත දුම්රිය ස්ථානය දක්වා වූ කොටසේ එක් දුම්රිය මාර්ගයක ගමනාගමනය සීමා කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ අද (09) , හෙට (10)  සහ අනිද්දා (11) යන තෙදින තුළ මෙම සීමා කිරීම සිදුවන බවය.
+
+කොම්පඤ්ඤ වීදිය හා කොල්ලුපිටිය දුම්රිය ස්ථාන අතර පාලමක නඩත්තු කටයුත්තක් හා ජල සම්පාදන මණ්ඩලයේ නල එළීමේ කටයුතු හේතුවෙන් මෙම සීමා කිරීම සිදුකරන බව සඳහන් වේ.
+
+ඒ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් ද සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/492757ce.json)
+
+---
 
 ### Shopman arrested
 
@@ -161,6 +179,22 @@ The Department has informed the health advice including adequate water, the rest
 [Data](articles/60dfbefc.json)
 
 [Extended Data](ext_articles/60dfbefc.ext.json)
+
+---
+
+### Prime Lands commences construction of ‘The Residence’
+
+*2024-03-09 06:16:00* · [`islandlk`](http://island.lk/prime-lands-commences-construction-of-the-residence/) · `en`
+
+Samagi Mawatha, Thalawathugoda – 80% of the project already sold – Revolutionary 1% monthly installment payment plan available
+
+Unveiling a new era towards luxury housing and upgrading lifestyles, Prime Lands (Pvt) Ltd., the real estate leader, has proudly announced breaking ground and laying the foundation stone at its latest prestigious housing project, ‘The Residence’ at Samagi Mawatha, located in the heart of Thalawathugoda.
+
+The initiation ceremony, marking the commencement of construction of the new residential project, was graced by the presence of the Chairman, Co-Chairperson, homeowners, and the Prime team.
+
+...
+
+[Data](articles/4a74debf.json)
 
 ---
 
@@ -2207,65 +2241,5 @@ Meanwhile, the problem of drinking water in Nalladhani area due to the prevailin
 [Data](articles/427867f9.json)
 
 [Extended Data](ext_articles/427867f9.ext.json)
-
----
-
-### Lila Gunaratne who made a change in police
-
-*2024-03-08 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194290) · `si`
-
-Lila Gunaratne, a pioneer in Sri Lanka's Women's Police, was born in 1935. She joined the police force in 1953, marking the first time women were recruited. Gunaratne served in various departments, including the Criminal Investigation Department and as a security guard for Sirimavo Bandaranaike. She retired in 1996, leaving a legacy of women in law enforcement.
-
-🟩
-
-Today, today, the International Women's Day was reported to Derana today.
-
-Lila Gunaratne was a part of the Sri Lanka Women's Police Station Lila group.
-
-The Sri Lankan Police, who started from the men in 1866, feel the need for women's officials after eight decades.
-
-Accordingly, four officials recruited four officers to try the women's police officers in 1953.
-
-With its success, a police constable who participated in the recruitment of the female police constables, a police constable who joined the service was spent on the village of Vanagastota village.
-
-Born in 1935, Lyla Gunaratne is a daughter of five brothers and sisters.
-
-She was educated at St. Mary College, Veyangoda and she was a member of the Sri Lanka Prime Minister of Sri Lanka Police.
-
-After serving there, she was duties in the fingerprint department of the Criminal Investigation Department.
-
-She was also the privilege of their duties in the 1976 fifth Non-Aligned State Summit.
-
-...
-
-[Data](articles/d53c296c.json)
-
-[Extended Data](ext_articles/d53c296c.ext.json)
-
----
-
-### Wheel that fell from a plane flew with 249 people: In the United States
-
-*2024-03-08 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178249) · `ta`
-
-A wheel from a United Airlines Boeing 777 fell off near Osaka, Japan, with 249 passengers on board. The aircraft, departing from San Francisco, was designed to land safely with any wheel missing.
-
-🟩
-
-The incident took place in the United States yesterday when an international plane's wheel fell.
-
-The wheel was off from the United Airlines flight from the San Francisco International Airport to Japan.
-
-After a Boeing 777, the wheel fell off the ground, and the wheel fell into the airport's vehicle.
-
-United Airlines said that there were 249 people in the city of Osaka, Japan.
-
-United Airlines said that there are 6 wheels in each wheel block of the Boeing 777 aircraft, and if any wheel is damaged or lost, the aircraft is designed to land safely.
-
-◼️
-
-[Data](articles/bf167730.json)
-
-[Extended Data](ext_articles/bf167730.ext.json)
 
 ---

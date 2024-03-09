@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 16:33:04**
+As of **2024-03-09 16:49:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,845 (100.0%) of 11,848 articles have been extended.
+11,848 (100.0%) of 11,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,41 +46,55 @@ In a report to the Human Rights Council, Türk said that the establishment and c
 
 [Data](articles/df01dc24.json)
 
+[Extended Data](ext_articles/df01dc24.ext.json)
+
 ---
 
-### බංග්ලාදේශයට ලකුණු 175ක ඉලක්කයක්
+### Bangladesh target 175 runs
 
 *2024-03-09 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194324) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර තීරණාත්මක 3වන සහ අවසන් T20 ක්‍රිකට් තරගය සිලට් හිදී මේ වනවිට පැවැත්වෙයි.
+Bangladesh won the T20 match against Sri Lanka by 175 runs. Sri Lanka scored 174 runs in 20 overs, with Kusal Mendis' 86 off 55 balls.
 
-තරගයේ කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත් වූ අතර ඔවුන් පළමුවෙන් පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කළේය.
+🟩
 
-බංග්ලාදේශ කණ්ඩායමේ ආරධනයෙන් පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 20 තුළ කඩුලු 06ක් දැවී ලකුණු 174ක් රැස් කළේය.
+Sri Lanka and Bangladesh will be held at Syllen between the 3rd and final T20 cricket match among Sri Lanka and Bangladesh.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් පන්දු 55කට මුහුණ දෙමින් හයේ පහර 6ක් සහ හතරේ පහර 6ක් ද සමගින් ලකුණු 86ක් රැස් කළේය.
+The Bangladesh team was able to win the coin of the match and they first invited the Sri Lankan team to bat first.
 
-ඒ අනුව තරගය ජයගැනීමට බංග්ලාදේශ කණ්ඩායමට හිමිවී ඇති ඉලක්කය ලකුණු 175කි.
+Batting first Sri Lanka scored 174 runs for the loss of 6 wickets in their allotted 20 overs.
+
+Kusal Mendis scored 86 runs off 55 balls with six fours and six fours.
+
+Accordingly, the Bangladesh team has won 175 runs to win the match.
 
 ◼️
 
 [Data](articles/e20050e0.json)
 
+[Extended Data](ext_articles/e20050e0.ext.json)
+
 ---
 
-### නයිජීරියාවේ අවිගත් කණ්ඩායමක් පාසල් සිසුන් 280ක් පැහැරගනී
+### Antiqual group in Nigeria abducted 280 schoolchildren
 
 *2024-03-09 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194323) · `si`
 
-නයිජීරියාවේ අවිගත් කණ්ඩායමක් එරට නිරතදිග කුරිගා නගරයේ පිහිටි පාසලක සිසුන් 280ක් පැහැර ගෙන ගොස් තිබේ.
+In Nigeria, an antiqual group abducted 280 schoolchildren aged 8-15, marking the second incident in a week. The children were taken while attending a stadium on motorbikes.
 
-පැහැරගෙන ගොස් සිටින සිසුන් වයස අවුරු 8-15ත් අතර පිරිසක් වන අතර මෙය සතියක් තුළ එරටින් වාර්තා වූ දෙවන සමූහ පැහැර ගැනීමය.
+🟩
 
-පාසල් සිසුන් ක්‍රීඩාංගණයේ රැස්වී සිටියදී අවිගත් කල්ලි සාමාජිකයින් යතුරුපැදි කිහිපයකින් පාසල තුළට ඇතුළුවී පැහැරගැනීම සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+A arbitrator team in Nigeria has been abroad with 280 students in a school in the country.
+
+The abducted students are 8-15 years old and this is the second crowd recorded in a week.
+
+Foreign media reports that the school students have entered the school in several motorbikes while attending the stadium.
 
 ◼️
 
 [Data](articles/c360a8a0.json)
+
+[Extended Data](ext_articles/c360a8a0.ext.json)
 
 ---
 

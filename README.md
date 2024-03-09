@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 03:17:40**
+As of **2024-03-10 03:33:10**
 
 ## Newspaper Stats
 
-*Scraped **11,877** Articles*
+*Scraped **11,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 617
 economynextcom | 622
 islandlk | 636
 adalk | 1,000
-tamilmirrorlk | 1,441
+tamilmirrorlk | 1,442
 adaderanalk | 1,445
 virakesarilk | 1,632
 dailymirrorlk | 1,819
@@ -26,9 +26,21 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,877 (100.0%) of 11,877 articles have been extended.
+11,877 (100.0%) of 11,878 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-10 (Sunday)
+
+### துப்பாக்கி சூட்டில் ஒருவர் காயம்
+
+*2024-03-10 02:58:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-ஒருவர்-காயம்/175-334431) · `ta`
+
+◼️
+
+[Data](articles/80ac3c62.json)
+
+---
 
 ### 2024-03-09 (Saturday)
 
@@ -2357,25 +2369,5 @@ The Maha Shivaratri Pooja event was held on Friday (08) at the Swayambu Lingeshw
 [Data](articles/0b461be5.json)
 
 [Extended Data](ext_articles/0b461be5.ext.json)
-
----
-
-### Investment in women as a pathway to societal progress
-
-*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Investment-in-women-as-a-pathway-to-societal-progress/172-278517) · `en`
-
-Investing in women also includes actively addressing discrimination and ensuring laws, policies, budgets and investments that respond to their needs
-
-It is time that Sri Lanka prioritizes women’s empowerment and recognizes that gender equality is not only a matter of rights but the bedrock of an equitable, peaceful and prosperous society. However, it takes investment to build inclusive communities and societies with the full participation of women and girls from all backgrounds
-
-When global crises such as climate disasters, poverty, and hunger occur, women and girls are affected the most
-
-Gender inequality is also reflected in women’s representation and participation in leadership, which remains abysmally low in Sri Lanka
-
-...
-
-[Data](articles/18b74aaa.json)
-
-[Extended Data](ext_articles/18b74aaa.ext.json)
 
 ---

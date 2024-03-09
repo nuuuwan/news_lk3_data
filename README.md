@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 12:49:16**
+As of **2024-03-09 13:02:51**
 
 ## Newspaper Stats
 
-*Scraped **11,823** Articles*
+*Scraped **11,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 617
 economynextcom | 619
 islandlk | 636
 adalk | 999
-tamilmirrorlk | 1,430
+tamilmirrorlk | 1,431
 adaderanalk | 1,436
 virakesarilk | 1,627
 dailymirrorlk | 1,811
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,822 (100.0%) of 11,823 articles have been extended.
+11,823 (100.0%) of 11,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### இன்று வெப்பநிலை மேலும் அதிகரிக்கும்
+
+*2024-03-09 12:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வெப்பநிலை-மேலும்-அதிகரிக்கும்/175-334418) · `ta`
+
+இன்று (09) நாடளாவிய ரீதியில் பல பகுதிகளில் வெப்பநிலை குறித்து மேலும், அவதானம் செலுத்த வேண்டும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, வடமேற்கு, தெற்கு மற்றும் வடமத்திய மாகாணங்களிலும் மொனராகலை, இரத்தினபுரி, மன்னார், வவுனியா முல்லைத்தீவு மற்றும் திருகோணமலை மாவட்டங்களின் சில இடங்களிலும் மனித உடலால் உணரப்படும் வெப்பம் அவதானம் செலுத்த வேண்டிய மட்டத்தில் இருக்கும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+
+போதுமான அளவு தண்ணீர் குடிப்பது, முடிந்தவரை நிழலான இடங்களில் ஓய்வெடுப்பது, கடுமையான வெளிப்புறச் செயல்பாடுகளைக் கட்டுப்படுத்துவது உள்ளிட்ட சுகாதார ஆலோசனைகளைப் பின்பற்ற வேண்டும் என்று திணைக்களம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/5804476f.json)
+
+---
 
 ### Hit-and-run cab driver arrested after fatal accident in Anuradhapura
 
@@ -49,6 +65,8 @@ The driver, reportedly only 18 years old lacked a valid driver's license.
 ◼️
 
 [Data](articles/57a146ff.json)
+
+[Extended Data](ext_articles/57a146ff.ext.json)
 
 ---
 
@@ -2237,19 +2255,5 @@ The officers of the 72167 Manjula, Police Constable 20373 Lahiru and Police Cons
 [Data](articles/5f1cc20d.json)
 
 [Extended Data](ext_articles/5f1cc20d.ext.json)
-
----
-
-### 47 Thais temporarily ordained
-
-*2024-03-08 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/47-Thais-temporarily-ordained/110-278496) · `en`
-
-A total of 47 laymen from Thailand were temporarily ordained at the Gangaramaya Temple in Colombo today (08). Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/059e8a86.json)
-
-[Extended Data](ext_articles/059e8a86.ext.json)
 
 ---

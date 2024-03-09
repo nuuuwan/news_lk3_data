@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 06:16:31**
+As of **2024-03-09 06:44:17**
 
 ## Newspaper Stats
 
-*Scraped **11,775** Articles*
+*Scraped **11,778** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 111
+colombotelegraphcom | 112
 bbccomsinhala | 139
 dbsjeyarajcom | 178
 newsfirstlk | 363
@@ -19,18 +19,46 @@ adalk | 997
 tamilmirrorlk | 1,419
 adaderanalk | 1,428
 virakesarilk | 1,623
-dailymirrorlk | 1,801
+dailymirrorlk | 1,803
 adaderanasinhalalk | 1,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,775 (100.0%) of 11,775 articles have been extended.
+11,775 (100.0%) of 11,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### From the Royal-Thomian...
+
+*2024-03-09 06:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/From-the-Royal-Thomian/110-278535) · `en`
+
+Skipper Sineth Jayawardena and Ovina Ambanpola came to the rescue of Royal  College on day two of the 145th Battle of the Blues Big Inter-School Match against the traditional rivals. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/5979cd7e.json)
+
+---
+
+### Vajira to reveal how Ranil became President in another book
+
+*2024-03-09 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vajira-to-reveal-how-Ranil-became-President-in-another-book/108-278534) · `en`
+
+Colombo, March 08 (Daily Mirror) -  UNP Chairman and Member of Parliament Vajira Abeywardene yesterday announced that he will launch another book shortly which relates how the incumbent President Ranil Wickremeisnghe became President of Sri Lanka after the ‘ Aragalaya’( mass protests) in 2022.
+
+This book follows “Press vs the Prez” and the memo of Former President Gotabaya Rajapaksa “The conspiracy to oust me” which were launched on Thursday.
+
+“ This latest book tells the inside story of how the incumbent President became the head of state in Sri Lanka with a solitary seat in Parliament. We have already written it and it will be launched soon,” Abeywardene said.
+
+◼️
+
+[Data](articles/f15bbe70.json)
+
+---
 
 ### Maha Shivaratri Pooja event at Swayambu Lingeshwarar Shiva Temple
 
@@ -1164,6 +1192,20 @@ Most of the members of the PA have been able to understand the boycott of the PA
 
 ---
 
+### Indian Ocean Security Conference & Ranil’s Statement – A Point Of View
+
+*2024-03-08 17:33:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indian-ocean-security-conference-ranils-statement-a-point-of-view/) · `en`
+
+I refer to the front page headlined news report in the Daily News paper of 29th February 2024 and wish to express my independent, objective views as a free thinker.
+
+Indian Ocean as the name suggest is virtually India’s Ocean, because India is the predominant country in the region. The security of the Indian Ocean is a major concern of India, as much as those of the other littoral countries, including Sri Lanka. In this light, saying that Sri Lanka will remain neutral is preposterous. Sri Lanka’s security is also tied up with the Indian Ocean Security. Therefore, it cannot remain neutral and do nothing about it.
+
+...
+
+[Data](articles/5e8f72fc.json)
+
+---
+
 ### Save foreign woman
 
 *2024-03-08 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194299) · `si`
@@ -2219,71 +2261,5 @@ BJP and Modi commenced their electoral journey earlier this time than in 2014 an
 [Data](articles/d1abe36e.json)
 
 [Extended Data](ext_articles/d1abe36e.ext.json)
-
----
-
-### Femina Women’s Expo 2024 at BMICH
-
-*2024-03-08 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Femina-Womens-Expo-2024-at-BMICH/110-278493) · `en`
-
-Femina Women’s Expo 2024, Sri Lanka’s largest women’s exhibition was launched today at the BMICH Colombo. It will be held till Sunday (10). This unique event is dedicated to honouring and celebrating Sri Lanka’s women and coincides with International Women’s Day 2024, which is marked worldwide on March 8. The Chief of Police in charge of the Child and Women Abuse Prevention Division, DIG Renuka Jayasundara participated in the event. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/6719cf9c.json)
-
-[Extended Data](ext_articles/6719cf9c.ext.json)
-
----
-
-### Initly assaulted by the owners of the Palavi temple
-
-*2024-03-08 12:14:09* · [`adalk`](https://www.ada.lk/breaking_news/පාලවියෙ-විහාරස්ථානයක-හිමිවරු-දෙනමකට-අමානුෂිකව-පහරදීලා/11-408493) · `si`
-
-The LTTE was admitted to Puttalam Base Hospital with serious injuries after being assaulted by the owners of the Palavi temple and another monk. The victims were also beaten by the owners of Walakana and Walapana. The Palvana Buddhist Cultural Center has been in operation for a year, with ongoing disputes between groups. Six individuals were arrested by the Heathena Police for the attack, with further investigations led by OIC Sub Inspector Jeevan Kumara.
-
-🟩
-
-The LTTE has been admitted to the Puttalam Base Hospital with serious injuries and bones in the face of the work of the Puttalam Palace and another monk.
-
-The victims were beaten by the owners of Walakana boundaries and the owners of Walapana
-
-The Palvana Buddhist Cultural Center has commenced a year ago and there are the Higher who will be raised from the start of itself.
-
-The Athroka assaulted assaulces have been reported on a continuous dispute between a group of people.
-
-The owners of the ownership went back to the Viharaya and came back to the temple due to the dispute due to the dispute and returned to the temple.
-
-It is then that the father and a son and a son who broke back to the Puttalam Viharaya have come to the attack and back to this temple.
-
-Later, the monks who ran to escape the attack from the temple and were attacked by the Athroshaka Aki.
-
-The assaults were then attacked the Puttalam Headquarters and the inhumane, the inhumane, who had broken up to the temple.
-
-...
-
-[Data](articles/ed3c0920.json)
-
-[Extended Data](ext_articles/ed3c0920.ext.json)
-
----
-
-### Search operation launched after local fishing vessel reported missing
-
-*2024-03-08 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/97817/search-operation-launched-after-local-fishing-vessel-reported-missing) · `en`
-
-Kalpitiya Police has received a complaint about a trawler that had set sail from Kalpitiya for fishing activities on Wednesday (March 06) and remains missing ever since.
-
-This complaint has been made by the owner of the fishing vessel, saying that they have not return to the island.
-
-As per reports there have been three Sri Lankan fishermen aboard the vessel in question. They were identified as residents of the Ichchankaduwa area, aged 21, 37 and 38 years.
-
-Police said that a search operation was initiated after informing the Sri Lanka Navy base in Kalpitiya.
-
-◼️
-
-[Data](articles/811907d4.json)
-
-[Extended Data](ext_articles/811907d4.ext.json)
 
 ---

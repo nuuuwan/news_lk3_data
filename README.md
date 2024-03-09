@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 18:50:00**
+As of **2024-03-09 19:02:46**
 
 ## Newspaper Stats
 
-*Scraped **11,856** Articles*
+*Scraped **11,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 617
 economynextcom | 620
 islandlk | 636
 adalk | 999
-tamilmirrorlk | 1,438
-adaderanalk | 1,439
+tamilmirrorlk | 1,439
+adaderanalk | 1,440
 virakesarilk | 1,632
 dailymirrorlk | 1,816
 adaderanasinhalalk | 1,866
@@ -26,11 +26,47 @@ adaderanasinhalalk | 1,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,855 (100.0%) of 11,856 articles have been extended.
+11,856 (100.0%) of 11,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### 6000 அடி உயரத்தில் இருந்து குதித்து யாழ்ப்பாணத்தில் சாகசம்
+
+*2024-03-09 18:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6000-அடி-உயரத்தில்-இருந்து-குதித்து-யாழ்ப்பாணத்தில்-சாகசம்/71-334428) · `ta`
+
+இலங்கை விமான படையின் 73 வது ஆண்டு நிறைவையொட்டி யாழ்ப்பாணம் முற்றவெளியில் மாபெரும் கண்காட்சியானது சனிக்கிழமை (09)  ஆரம்பமாகியுள்ளது.
+
+இந்த கண்காட்சியானது   எதிர்வரும் 10ஆம் திகதிவரை காலை 10 மணியில் இருந்து இரவு 10 மணிவரை நடைபெறும்.
+
+பாடசாலை சீருடையில் வரும் மாணவர்கள் இந்த நிகழ்வை முற்றுமுழுதாக இலவசமாக பார்வையிடலாம். ஏனையோர் 100 ரூபாய் கட்டணம் செலுத்தி இந்த நிகழ்வை பார்வையிட முடியும்.
+
+இந்த கண்காட்சி மூலம் பெற்றுக் கொள்ளப்படும் முழுத் தொகையும் வடக்கு மாகாணத்தில் காணப்படும் 73 பாடசாலைகளின் புனர் நிர்மாணத்திற்கும், அந்த பாடசாலையில் கல்வி கற்கும் பின்தங்கிய மாணவர்களின் நலன்புரி செயற்பாடுகளுக்கும், அவர்களுக்கு 73ஆயிரம் பாடசாலை புத்தகங்களை வழங்குவதற்கும் ஏற்பாடு செய்யப்பட்டுள்ளது. அத்துடன் நாடளாவிய ரீதியில் 73ஆயிரம் மரக்கன்றுகளை நடும் செயற்றிட்டமும் இதன் மூலம் ஆரம்பிக்கப்பட்டுள்ளது.
+
+வடக்கு மாகாணத்தின் யாழ்ப்பாணத்தை மையமாக கொண்டு ஏற்பாடு செய்யப்பட்டுள்ளதுடன் இதற்கான பூரண அனுசரணையை வடக்கு மாகாண ஆளுநர் செயலகம் ஊடாக இலங்கை விமானப் படை பெற்றுள்ளது.
+
+...
+
+[Data](articles/8816a6ed.json)
+
+---
+
+### Sri Lanka thrash Bangladesh by 28 runs to clinch T20I series
+
+*2024-03-09 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97841/sri-lanka-thrash-bangladesh-by-28-runs-to-clinch-t20i-series) · `en`
+
+A sensational hat-trick by pace bowler Nuwan Thushara rattled Bangladesh top order as the hosts were handed a defeat of 28 runs by Sri Lanka in the third and decisive match of the three-match T20 series in Sylhet International Cricket Stadium on Saturday.
+
+Chasing a target of 175, Bangladesh found themselves reeling at 24 for 5 inside fourth over, courtesy of a fiery hat-trick by pacer Nuwan Thushara who was only playing his eight T20 match. If not for a spectacular rearguard charge by Rishad Hossain and Taskin Ahmed, Bangladesh’s defeat was bound to be a massive one.
+
+Thushara sent shockwaves through the Bangladeshi camp as he rattled the stumps of both Najmul Hossain Shanto and Tawhid Hridoy in fourth over and his first. He then dismissed the seasoned Mahmudullah plumb in front of the wicket, leaving Bangladesh in complete disarray, and picking up his hat-trick as the fifth Sri Lankan bowler in the T20 format.
+
+...
+
+[Data](articles/ef034cc2.json)
+
+---
 
 ### Funeral rites according to wishes of victims’ families: Foreign Ministry
 
@@ -45,6 +81,8 @@ The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commiss
 ...
 
 [Data](articles/4a0788a9.json)
+
+[Extended Data](ext_articles/4a0788a9.ext.json)
 
 ---
 
@@ -2237,53 +2275,5 @@ The Museum of Modern and Contemporary Art Sri Lanka (MMCA Sri Lanka) announces t
 [Data](articles/4e51e615.json)
 
 [Extended Data](ext_articles/4e51e615.ext.json)
-
----
-
-### Jaffna Central College is very weak in the big bats of the North
-
-*2024-03-08 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178291) · `ta`
-
-Central College lost 9 wickets for 140 runs in the second innings of a match against Jones College in Jaffna. In the first innings, Central College scored 157 runs, with Sayanthan top-scoring with 55. Jones College scored 228 runs in their second innings, leading by 72 runs. Central College's bowlers, including Deison and Abhilash, took 4 wickets each, with Anusant taking 2.
-
-🟩
-
-Jaffna in the second innings. Central College lost 9 wickets for 140 runs at the end of the second day of the second day on Friday (08). Sen still in a wicket -handed place. Only 69 runs are more leading than Jones College.
-
-The Great War of the North. Central College - Sen. Jones College Teams 117th Cultivation Tournament on Thursday (7) Jaffna. Started at the Central College Ground.
-
-Jaffna won the currency cycle. Central College first played. In the first innings, the team lost all wickets in 56.5 overs and scored 157 runs. Of these, Sayanthan scored a maximum of 55 runs.
-
-Sen who started his first innings in response. Jones College scored 109 runs for the loss of 2 wickets in 30.5 overs at the end of the first day of the game. Sachin was unbeaten with 36 runs.
-
-Sen continued the second day of the second day (8) today (8). Jones College. Sachin and team captain Jasial started the match.
-
-...
-
-[Data](articles/078e272d.json)
-
-[Extended Data](ext_articles/078e272d.ext.json)
-
----
-
-### Sri Lanka foreign reserves inch up to US$4517 in Feb 2024
-
-*2024-03-08 22:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-inch-up-to-us4517-in-feb-2024-153874/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross official reserves inched up to 4,517 million US dollars in February 2024 from 4,496 million US dollars in January, official data showed.
-
-Gross official reserves include fiscal balances which are usually borrowed – unless they are privatization proceeds  – and monetary reserves, which are a central bank asset.
-
-A reserve collecting central bank is expected to buy them against the note issue (which is a perpetual interest free liability) or by purchasing them by selling down domestic assets outright.
-
-Post-1960s inflationist central bank also started to borrow dollars through central bank swaps after a desperate Fed started the practice to stop its gold losses as interest rates were mistargeted for statistical aims rejecting classical economic principes, analysts say.
-
-Sri Lanka’s central bank had swap lines from the Reserve Bank of India and the People’s Bank of China.
-
-...
-
-[Data](articles/a9e639f9.json)
-
-[Extended Data](ext_articles/a9e639f9.ext.json)
 
 ---

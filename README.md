@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 21:02:53**
+As of **2024-03-09 21:17:55**
 
 ## Newspaper Stats
 
@@ -26,31 +26,43 @@ adaderanasinhalalk | 1,870
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,869 (100.0%) of 11,870 articles have been extended.
+11,870 (100.0%) of 11,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### මැණික් ගලක් නිසා හොරණ ව්‍යාපාරිකයෙක් පැහැරගනී
+### A businessman abducted by gem stone
 
 *2024-03-09 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194331) · `si`
 
-මැණික් ගලක් අලෙවි කිරීමේ සිදුවීමක් මුල්කරගනිමින් ඇතිවූ ආරවුලක් හේතුවෙන් හොරණ ප්‍රදේශයේ රෙදි පිළි ව්‍යාපාරිකයෙකු පැහැරගෙන ගොස් තිබේ.
+A textile businessman in Horana was abducted over a gemstone dispute. He was taken to a garden in Divulapitiya, and his wife reported the incident to police. The abductors threatened her and demanded a ransom. The police arrested the abductors in Millewatta.
 
-පැහැරගත් පිරිස විසින් ව්‍යාපාරිකයා මුදාහැරීමට ඔහුගේ බිරිඳගෙන් රුපියල් ලක්ෂ 35ක කප්පම් මුදලක් ඉල්ලා තිබූ අතර කප්පම්කරුවන් සූක්ෂම ලෙස කොටු කරගැනීමට මොරගහහේන පොලීසිය සමත්වී ඇත.
+🟩
 
-හොරණ කෝරලඉම තේවත්තපාර ප්‍රදේශයේ පදිංචි රෙදිපිළි ව්‍යාපාරිකයාට හලාවත ප්‍රදේශයේ හිතවතෙකු මැණික් ගලක් ලබාදී තිබු‍ණේ එය අලෙවිකරදෙන ලෙස ඉල්ලමිනි.
+A fabric of a cloth in Horana has been abducted due to a dispute based on a gem selling incident.
 
-ව්‍යාපාරිකයා මැණික් ගල රුපියල් ලක්ෂ 10ක මුදලකට මහරගම ප්‍රදේශයේ ශාන්ත නම් හිතවතෙකු මාර්ගයෙන් ගැණුම්කරුවෙකුට අලෙවිකර තිබුණි.
+His wife had demanded a ransom of Rs.
 
-පිළියන්දල ප්‍රදේශයේ මාර්ගයක් අසල ගනුදෙනුව සිදුකර තිබූ අතර පසුව මැණික් ගල මිලදීගත් ගැණුම්කරුවා දින කිහිපයකට පසු ශාන්ත නමැති පුද්ගලයාට පවසා තිබුණේ මැණික් ගල ව්‍යාජ එකක් බවය.
+Textile businessman residing in Horana, Koralaiwela, has given a friend stone in Chilaw area earned it to be marketed.
 
-මහරගම ශාන්ත නමැති පුද්ගලයා තවත් තිදෙනෙකු සමග රාත්‍රී 1.00ට පමණ රෙදිපිළි ව්‍යාපාරිකයාගේ නිවසට ගොස් ඇති අතර ඔහු සමග යමක් පැවසීමට ඇති බව පවසා ව්‍යාපාරිකයාව මෝටර් රථයට නංවාගෙන රැගෙන ගොස් තිබේ.
+The businessman had sold a buyer to a buyer in Maharagama.
 
-...
+The transaction was carried out near a road in Piliyandala.
+
+The man named Shantha, Maharagama has gone to the house of the textile at around 1.00 pm and has taken the business to car.
+
+The businessman had taken several days to be taken to a lonely garden in the Divulapitiya area and the abductors have threatened his wife on several occasions.
+
+The businessman's wife had complained to the Moragahahena Police regarding this while the inspired by police inspection has been agreed to reduce and reduce the extort.
+
+The Moragahahena Police have arrested them in the Millewatta area on the occasion.
+
+◼️
 
 [Data](articles/0304fda7.json)
+
+[Extended Data](ext_articles/0304fda7.ext.json)
 
 ---
 

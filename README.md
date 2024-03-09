@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 23:51:46**
+As of **2024-03-10 00:02:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,875 (100.0%) of 11,877 articles have been extended.
+11,877 (100.0%) of 11,877 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -310,6 +310,8 @@ Sri Lanka change the existing electricity law to allow non-competitive tendering
 
 [Data](articles/62fcebee.json)
 
+[Extended Data](ext_articles/62fcebee.ext.json)
+
 ---
 
 ### Heat advisory raised to caution level in 18 districts tomorrow
@@ -381,6 +383,8 @@ The Colombo Fort Railway Station is the main hub of Sri Lanka Railways, where th
 ◼️
 
 [Data](articles/3a4c6400.json)
+
+[Extended Data](ext_articles/3a4c6400.ext.json)
 
 ---
 

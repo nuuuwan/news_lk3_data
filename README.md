@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 17:33:30**
+As of **2024-03-09 17:53:08**
 
 ## Newspaper Stats
 
-*Scraped **11,852** Articles*
+*Scraped **11,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 617
 economynextcom | 620
 islandlk | 636
 adalk | 999
-tamilmirrorlk | 1,437
+tamilmirrorlk | 1,438
 adaderanalk | 1,439
 virakesarilk | 1,632
 dailymirrorlk | 1,815
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,852 (100.0%) of 11,852 articles have been extended.
+11,852 (100.0%) of 11,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### பாராளுமன்ற பஸ் பாஸ் இரத்து செய்யப்படாது
+
+*2024-03-09 17:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-பஸ்-பாஸ்-இரத்து-செய்யப்படாது/175-334427) · `ta`
+
+பாராளுமன்ற ஊழியர்களுக்கு வழங்கப்பட்ட இலவச லங்கம பஸ் பாஸ் ரத்து செய்ய திறைசேரியின் தீர்மானத்தை அமைச்சரவை நிராகரித்துள்ளது.
+
+நாட்டின் பொருளாதார நிலையை கருத்தில் கொண்டு இந்த ஆண்டு தொடக்கத்தில் இருந்து பாஸை ரத்து செய்ய திறைசேரி முடிவு செய்தது.
+
+அந்த பஸ் அனுமதிப்பத்திரத்திற்காக அரசாங்கம் வருடாந்தம் எட்டு கோடி ரூபாவை இலங்கை போக்குவரத்து சபைக்கு வழங்குகிறது.
+
+நாட்டின் தற்போதைய பொருளாதார நிலைமைக்கு ஏற்ப இவ்வளவு தொகையை இந்த வருடம் ஒதுக்க முடியாது என திறைசேரி, பாராளுமன்றத்துக்கு  அறிவித்திருந்தது.
+
+இது தொடர்பில் பாராளுமன்ற உத்தியோகத்தர் ஒருவரிடம் நாம் கேட்ட போது, ​​பாராளுமன்ற ஊழியர்களுக்கு வழங்கப்படும் இலவச பஸ் பாஸை தொடர்ந்து  வழங்குவதற்கு அமைச்சரவை தீர்மானம் எடுத்துள்ளதாக தெரிவித்தார்.
+
+பாராளுமன்றத்தில் பஸ்களை பயன்படுத்துவதை விட இவ்வாறான அனுமதிப்பத்திரத்தை வழங்குவது மிகவும் சாதகமானது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f118765c.json)
+
+---
 
 ### Nuwan Thushara takes hat-trick in third Bangladesh T20I
 
@@ -2257,27 +2279,5 @@ Ovan Ambanbola was bowled out for more than 3 hours and faced 160 balls with 36 
 [Data](articles/bfaabfbf.json)
 
 [Extended Data](ext_articles/bfaabfbf.ext.json)
-
----
-
-### Gold prices surge to fresh record high
-
-*2024-03-08 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-prices-surge-to-fresh-record-high/108-278510) · `en`
-
-March 8 (Reuters) - Gold prices surged to a fresh record high on Friday as data showing a rise in the U.S. unemployment rate boosted expectations that the Federal Reserve could begin cutting interest rates soon.
-
-Spot gold rose 0.7% to $2,173.49 per ounce by 10:42 a.m. ET (1542 GMT), while U.S. gold futures added 0.7% to $2,180.50.
-
-Bullion was on track to post its biggest weekly percentage increase since mid-October.
-
-Gold reached an all-time high of $2,185.19 after a report showed a rise in the U.S. unemployment rate and a moderation in wage gains despite job growth acceleration in February.
-
-"We still believe the same underlying premise remains, which is the combination of the expectation that the Fed is still going to cut rates later this year and dollar weakness," said David Meger, director of metals trading at High Ridge Futures.
-
-...
-
-[Data](articles/497580fb.json)
-
-[Extended Data](ext_articles/497580fb.ext.json)
 
 ---

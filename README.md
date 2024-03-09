@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 14:33:10**
+As of **2024-03-09 14:51:11**
 
 ## Newspaper Stats
 
-*Scraped **11,832** Articles*
+*Scraped **11,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ islandlk | 636
 adalk | 999
 tamilmirrorlk | 1,432
 adaderanalk | 1,437
-virakesarilk | 1,627
+virakesarilk | 1,628
 dailymirrorlk | 1,813
-adaderanasinhalalk | 1,859
+adaderanasinhalalk | 1,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,831 (100.0%) of 11,832 articles have been extended.
+11,832 (100.0%) of 11,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### அநுராதபுரத்தில் விபத்தை ஏற்படுத்திவிட்டு தப்பி ஓடிய சாரதி கைது
+
+*2024-03-09 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178311) · `ta`
+
+அநுராதபுரம், ரம்பேவ பகுதியில் இன்று சனிக்கிழமை (09)  விபத்தை ஏற்படுத்திவிட்டு தப்பி ஓடிய கெப் ரக வாகனத்தின் சாரதியை பொலிஸார் கைது செய்துள்ளனர்.
+
+கெப் ரக வாகனத்தை வேகமாக  ஓட்டி வந்த இந்த நபர்  வீதியில் சென்றவர்களை மோதித் தள்ளிவிட்டு அங்கிருந்து தப்பிச் சென்றுள்ளார்.
+
+விபத்தில் காயமடைந்த மூன்று ஆண்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதுடன்,  இரண்டு பெண்கள் தற்போது அநுராதபுரம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+இந்நிலையில், விபத்தை ஏற்படுத்தி விட்டு தப்பி ஓடிய சாரதி அவருடன் இருந்த இரு நபர்களுடன் அநுராதபுரம் மற்றும் யாழ்ப்பாணம் இடைமாறும் பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6c112880.json)
+
+---
+
+### 17 හැවිරිදි තරුණියකගේ සිරුරක් තේ වත්තක
+
+*2024-03-09 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194320) · `si`
+
+ඇල්පිටිය පොලිස් වසමේ තලාව පාර, නානායක්කාර මාවත ප්‍රදේශයේ  පිහිටි තේ ඉඩමකදී සිරුර සොයාගෙන ඇත.
+
+අව වාර්තාකරු සඳහන් කළේ ඇයගේ ගෙල කපා ඝාතනය සිදුකර ඇති බවට සැක කෙරෙන බවය.
+
+මියගිය සිසුවිය හංසිකා නදීෂානි නමැති තල්ගහවත්ත, මණ්ඩකන්ද, කරන්දෙනිය ප්‍රදේශයේ පදිංචිකාරිනියකි.
+
+ත්‍රීරෝද රථයකින් පැමිණි පිරිසක් ඊයේ (08) දින කරන්දෙණිය තල්ගහවත්ත, ගඟපාර ප්‍රදේශයේදී ඇයව බලහත්කාරයෙන් රැගෙන ගොස් ඇති බව වාර්තා වෙයි.
+
+සැකකරුවන් මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර ඇල්පිටිය පොලිස් ස්ථානය මගින් වැඩිදුර පරීක්ෂණ සිදු කරයි.
+
+◼️
+
+[Data](articles/cba154e9.json)
+
+---
 
 ### Hasaranga returns, Sri Lanka to bat in T20 series decider against Bangladesh
 
@@ -45,6 +83,8 @@ Sri Lanka won the opening T20I between the two teams on Monday by three runs, be
 ◼️
 
 [Data](articles/e8637827.json)
+
+[Extended Data](ext_articles/e8637827.ext.json)
 
 ---
 
@@ -2209,49 +2249,5 @@ The Department of Meteorology has further stated that the situation in Akurana, 
 [Data](articles/eb79299e.json)
 
 [Extended Data](ext_articles/eb79299e.ext.json)
-
----
-
-### The Presidential Education Scholarship Program will be a great help for students in the financial crisis: Aravindakumar
-
-*2024-03-08 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178280) · `ta`
-
-The Presidential Education Scholarship Program, proposed for 2024/2025, will support students in economic crisis. Minister of State for Education Aravindakumar announced 20 new Zonal Education Offices and educational reforms, including conducting exams at earlier grades and starting classes for pre-Grade students.
-
-🟩
-
-Minister of State for Education Aravindakumar said that the 'Presidential Education Scholarship' program proposed for 2024/2025 will be a great commitment to successfully complete the education of school students in the economic crisis.
-
-The Minister of State also stated that 20 new Zonal Education Offices will be set up aimed at the future of the future.
-
-Minister of State for Education Aravindakumar made this statement at a media briefing held at the Presidential Media Center on Friday.
-
-“The Presidential Education Scholarship Program, proposed for 2024/2025, will be given a great support for the successful completion of the educational activities of the school students who have been under economic difficulties.. The program is being implemented on the advice of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/2ef22ec2.json)
-
-[Extended Data](ext_articles/2ef22ec2.ext.json)
-
----
-
-### Sri Lanka’s Singer Finance rated ‘BBB(lka)’; with a stable outlook: Fitch
-
-*2024-03-08 18:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-singer-finance-rated-bbblka-with-a-stable-outlook-fitch-153819/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it has affirmed Singer Finance (Lanka) Plc’s (SFL) National Long-Term Rating of ‘BBB(lka)’. The outlook is stable.
-
-Fitch also affirmed SFL’s outstanding senior unsecured debt at ‘BBB(lka)’ and outstanding subordinated
-
-“SFL’s rating is based on our expectation of support from its parent, consumer-durable retailer, Singer (Sri Lanka) PLC (Singer, A(lka)/Stable),” the rating agency said.
-
-Fitch Ratings – Mumbai/Colombo – 07 Mar 2024: Fitch Ratings has affirmed Singer Finance (Lanka) PLC’s (SFL) National Long-Term Rating of ‘BBB(lka)’. The Outlook is Stable. Fitch has also affirmed SFL’s outstanding senior unsecured debt at ‘BBB(lka)’ and outstanding subordinated unsecured debentures at ‘BB+(lka)’.
-
-...
-
-[Data](articles/44188aeb.json)
-
-[Extended Data](ext_articles/44188aeb.ext.json)
 
 ---

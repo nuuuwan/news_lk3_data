@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 10:02:43**
+As of **2024-03-09 10:17:39**
 
 ## Newspaper Stats
 
-*Scraped **11,803** Articles*
+*Scraped **11,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 618
 islandlk | 636
 adalk | 997
 tamilmirrorlk | 1,427
-adaderanalk | 1,432
-virakesarilk | 1,624
+adaderanalk | 1,433
+virakesarilk | 1,625
 dailymirrorlk | 1,807
 adaderanasinhalalk | 1,853
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 1,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,803 (100.0%) of 11,803 articles have been extended.
+11,803 (100.0%) of 11,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Update on 2 Sri Lankans rescued after Houthi missile attack on cargo ship
+
+*2024-03-09 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97833/update-on-2-sri-lankans-rescued-after-houthi-missile-attack-on-cargo-ship) · `en`
+
+The Foreign Affairs Ministry has asserted that the two Sri Lankans, who were rescued from the merchant ship ‘True Confidence’ which was attacked by a missile launched by Yemen’s Houthi rebels in the Gulf of Aden, would be repatriated to the island soon.
+
+Three crew members – two Filipino nationals and one Vietnamese – were killed in the missile attack on the Barbados-flagged, Liberian-owned bulk carrier about 50 nautical miles off the port of Aden, setting it ablaze. These were the first civilian fatalities from the Yemeni group’s campaign against the key shipping route.
+
+Reports confirmed that one of the rescued Sri Lankans had sustained injuries in the attack.
+
+Later, 20 crew members and the three armed guards who were aboard the attacked vessel were rescued by the Indian Navy and taken to a hospital in Djibouti in the Horn of Africa via an Indian warship.
+
+...
+
+[Data](articles/2bf05679.json)
+
+---
+
+### காஸாவில் பரசூட் பொதுமக்கள் மீது விழுந்து 5 பேர் பலி
+
+*2024-03-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178300) · `ta`
+
+இஸ்ரேல் மீது காஸாவில் செயல்பட்டுவரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த ஆண்டு அக்டோபர் 7 ஆம் திகதி பயங்கரவாத தாக்குதல் நடத்தினர். இந்த தாக்குதலில் இஸ்ரேலில் 1,139 பேர் கொல்லப்பட்டனர். மேலும் பலர் காயமடைந்தனர்.
+
+தாக்குதல் நடத்திய ஹமாஸ் ஆயுதக்குழுவினர் இஸ்ரேலியர்கள் 253 பேரை காஸாமுனைக்கு பணய கைதிகளாக கடத்தி சென்றனர். இந்த தாக்குதலை தொடர்ந்து காஸாவில் உள்ள ஹமாஸ் ஆயுதக்குழுவினர் மீது இஸ்ரேல் போர் அறிவித்தது.
+
+இதனிடையே, காஸாமுனையில் உள்ள பணய கைதிகளில் 100க்கும் மேற்பட்டோரை ஒப்பந்த அடிப்படையில் ஹமாஸ் விடுதலை செய்துள்ளது. ஆனாலும், இன்னும் 130க்கும் மேற்பட்டோர் காஸாவில் பணய கைதிகளாக உள்ளதாக இஸ்ரேல் தெரிவித்துள்ளது. பணய கைதிகளை மீட்கும் நடவடிக்கையில் இஸ்ரேல் ஈடுபட்டு வருகிறது.
+
+அதேவேளை, ஹமாஸ் ஆயுதக்குழுவின் தாக்குதலுக்கு பதிலடியாக காஸாமுனை மீது போர் அறிவித்துள்ள இஸ்ரேல் அதிரடி தாக்குதல் நடத்தி வருகிறது. இஸ்ரேல் நடத்திவரும் இந்த தாக்குதலில் காஸா முனையில் ஹமாஸ் ஆயுதக்குழுவினர் உள்பட 30 ஆயிரத்து 800 பேர் உயிரிழந்துள்ளனர். அதேபோல், மேற்குகரையில் நடந்த மோதலில் 424 பேர் உயிரிழந்துள்ளனர்.
+
+...
+
+[Data](articles/7adf2800.json)
+
+---
+
+### Driver's escape from accident in Anuradhapura;Three kills;Two people injured
+
+*2024-03-09 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178298) · `ta`
+
+In Anuradhapura, a road accident in Rambawewa resulted in three fatalities and two injuries. The victims were returning from a music show. Two injured women are being treated at the Anuradhapura Teaching Hospital.
+
+🟩
+
+Three men were killed and two women were injured in a road accident in Rambawewa, Anuradhapura.
+
+Some people who were returning home from a music show have fled the road and have fled the road.
+
+Two women who were injured in the accident are currently being treated at the Anuradhapura Teaching Hospital.
+
+◼️
+
+[Data](articles/acf0d3c2.json)
+
+[Extended Data](ext_articles/acf0d3c2.ext.json)
+
+---
 
 ### Manually from Parachu
 
@@ -59,28 +117,6 @@ Plans are afoot to donate aid to the Gaza with effect from this weekend.
 [Data](articles/aad4b06a.json)
 
 [Extended Data](ext_articles/aad4b06a.ext.json)
-
----
-
-### Driver's escape from accident in Anuradhapura;Three kills;Two people injured
-
-*2024-03-09 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178298) · `ta`
-
-In Anuradhapura, a road accident in Rambawewa resulted in three fatalities and two injuries. The victims were returning from a music show. Two injured women are being treated at the Anuradhapura Teaching Hospital.
-
-🟩
-
-Three men were killed and two women were injured in a road accident in Rambawewa, Anuradhapura.
-
-Some people who were returning home from a music show have fled the road and have fled the road.
-
-Two women who were injured in the accident are currently being treated at the Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/acf0d3c2.json)
-
-[Extended Data](ext_articles/acf0d3c2.ext.json)
 
 ---
 
@@ -2195,53 +2231,5 @@ The Secretary of the Maskeliya Pradeshiya Sabha said that with the extreme dry w
 [Data](articles/ecadb4e7.json)
 
 [Extended Data](ext_articles/ecadb4e7.ext.json)
-
----
-
-### Man dies after packet of heroin gets stuck in his throat
-
-*2024-03-08 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-dies-after-packet-of-heroin-gets-stuck-in-his-throat/108-278497) · `en`
-
-A man who fled with a packet of heroin to escape the police, has died after the packet got stuck in his throat.
-
-The post mortem report has revealed that the suspect involved in drug trafficking had died of suffocation.
-
-The post mortem was performed by the JMO of the Chilaw General Hospital Dr. Ilangaratne Banda.
-
-The deceased, Mirissa Pathirage Prabhath Abeyweera was a resident of Ratnauyana in Chilaw.
-
-The suspect who had previous convictions for drug offences had fallen down and died when the police gave chase to arrest him.
-
-Police said the suspect and another individual were travelling by trishaw in the Pambala area when they checked the trishaw on suspicion. However, the two men alighted from the trishaw and fled and one of them fell on the ground. Police had rushed him to hospital only to be pronounced dead on admission.
-
-Chilaw Magistrate Shashitha De Silva who held the preliminary magesterial inquiry had ordered the JMO to perform the post mortem examination.
-
-◼️
-
-[Data](articles/f0e8b2ea.json)
-
-[Extended Data](ext_articles/f0e8b2ea.ext.json)
-
----
-
-### Sri Lanka needs to work on its morals before fixing economy: NPP
-
-*2024-03-08 15:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-work-on-its-morals-before-fixing-economy-npp-153809/) · `en`
-
-ECONOMYNEXT — Sri Lanka needs to work on its morality before it solves its economic issues, opposition National People’s Power (NPP) legislator Harini Amarasuriya said.
-
-“We have a government that is utterly unconcerned with what the people want. They’re behaving now as if the people are their enemy,” the MP said speaking at an event.
-
-“They’re confronted with a public that does not accept them or listen to them. They’re acting with a feeling that the people need to be suppressed,” she said.
-
-The NPP is a leftist formation led and effectively controlled by the formerly revolutionary Marxist-Leninist Janatha Vimukthi Peramuna (JVP).
-
-The government as well as MPs from the main opposition Samagi Jana Balawegaya (SJB) have criticised the NPP for being vague about its economic policy and how it plans to steer Sri Lanka through its ongoing recovery and reform process.
-
-...
-
-[Data](articles/4ffdfd0c.json)
-
-[Extended Data](ext_articles/4ffdfd0c.ext.json)
 
 ---

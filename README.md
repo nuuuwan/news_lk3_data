@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 15:02:57**
+As of **2024-03-09 15:17:51**
 
 ## Newspaper Stats
 
-*Scraped **11,834** Articles*
+*Scraped **11,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,108 @@ bbccomsinhala | 140
 dbsjeyarajcom | 178
 newsfirstlk | 363
 dailyftlk | 617
-economynextcom | 619
+economynextcom | 620
 islandlk | 636
 adalk | 999
 tamilmirrorlk | 1,432
-adaderanalk | 1,437
-virakesarilk | 1,628
-dailymirrorlk | 1,813
+adaderanalk | 1,438
+virakesarilk | 1,629
+dailymirrorlk | 1,814
 adaderanasinhalalk | 1,860
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,834 (100.0%) of 11,834 articles have been extended.
+11,834 (100.0%) of 11,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Sri Lanka’s Dialog Finance rated at ‘AA(lka)’; outlook stable: Fitch
+
+*2024-03-09 15:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dialog-finance-rated-at-aalka-outlook-stable-fitch-153855/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it had affirmed Dialog Finance PLC’s (DF) National Long-Term Rating of ‘AA(lka)’. The outlook is stable.
+
+“We believe DF has a limited role in Dialog’s core business because of its evolving fintech business model, as well as its modest size and negligible financial contribution to the group,” the rating agency said.
+
+Dialog Finance was acquired in 2017 to support Dialog’s aspiration to expand into digital financial services – a key strategic growth area for the parent – “but delays in obtaining necessary regulatory approvals, together with a weak economic environment, disrupted the launch of its fintech-based offerings in a meaningful manner.”
+
+Fitch Ratings – Colombo – 07 Mar 2024: Fitch Ratings has affirmed Dialog Finance PLC’s (DF) National Long-Term Rating of ‘AA(lka)’. The Outlook is Stable.
+
+...
+
+[Data](articles/2369c758.json)
+
+---
+
+### Details emerge on victims in Canada mass killing; father is recovering
+
+*2024-03-09 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Details-emerge-on-victims-in-Canada-mass-killing-father-is-recovering/108-278547) · `en`
+
+March 09, (BBC) -  The Sri Lankan father who survived the mass murder of his family in Canada said he returned home from work on Wednesday to find his wife and four young children had been killed.
+
+Dhanushka Wickramasinghe, 34, was also attacked but managed to subdue the suspect.
+
+He is now recovering in hospital from a slash to the eye and one of his hands.
+
+A 19-year-old Sri Lankan student who was living with the family was charged with the deaths
+
+The new details of the night the Wickramasinghe family was killed emerged from a series of media interviews with Bhante Suneetha, the resident monk at a local Buddhist monastery in Ottawa that the family attended.
+
+Mr Suneetha, who visited the father in hospital on Thursday, said he is in "great shock" over what happened.
+
+Police in Ottawa discovered the slain family at their townhouse in the Barrhaven suburb after responding to emergency calls placed at around 22:52 local time (03:52 GMT) on Wednesday.
+
+...
+
+[Data](articles/7b89041f.json)
+
+---
+
+### 17-year-old girl found murdered at tea estate
+
+*2024-03-09 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97838/17-year-old-girl-found-murdered-at-tea-estate-) · `en`
+
+The body of a 17-year-old girl has been found at a tea estate on Nanayakkara Mawatha in Elpitiya police division.
+
+Ada Derana reporter said that it is suspected that the girl was killed by slitting her throat.
+
+The deceased girl, Hansika Nadishani, was a resident of Talgahawatta area of Mandakanda, Karandeniya, according to the correspondent.
+
+Reports further revealed that she was forcibly taken away by a group of people who had arrived in a three-wheeler yesterday (08).
+
+No suspects have been arrested so far regarding the incident and the Elpitiya Police is conducting further investigations.
+
+◼️
+
+[Data](articles/cfb39a9d.json)
+
+---
+
+### போசணை குறைப்பாட்டினால் 410,000 பெண் பிள்ளைகள் உடல் எடை குறைந்திருப்பதாக ஆய்வில் தகவல்
+
+*2024-03-09 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178307) · `ta`
+
+இலங்கையில் 5 முதல் 19 வயது வரையிலான 410,000 பாடசாலையில் கல்வி கற்கும் பெண் பிள்ளைகள்  போசணைக் குறைபாடு காரணமாக எடை குறைவாக இருப்பதாக வைத்தியர்களின் மருத்துவ மற்றும் குடியுரிமைகள் நிபுணத்துவ சங்கம் தெரிவித்துள்ளது.
+
+இது குறித்து வைத்தியர்களின் மருத்துவ மற்றும் குடியுரிமைகள் நிபுணத்துவ சங்கத்தின் தலைவர் வைத்தியர் சமல் சஞ்சீவ வெள்ளிக்கிழமை தெரிவித்துள்ளதாவது,
+
+பிரித்தானிய ‘லான்செட் மெடிக்கல் ஜர்னல்’ இதழின் ஆய்வின் படி உலகில் போசணை குறைபாடு காரணமாக உடல் எடை குறைந்தவர்கள் அதிகம் இருக்கும் நாடுகளின் பட்டியலில் இலங்கையும் உள்ளது.
+
+உலகளவில் உடல் எடை குறைவினால் பாதிக்கப்பட்டவர்களில் பெண்களின் வீதம் இந்தியாவுக்கு அடுத்தபடியாக  இலங்கையில் உள்ளது.
+
+199 நாடுகளில் 22 கோடி பேரிடம் சுமார் 1,900 ஆராய்ச்சியாளர்களின் பங்கேற்புடன் நடத்தப்பட்ட ஆராய்ச்சியில் உடற் திணிவுச் சுட்டி (உயரத்திற்கான எடை) முக்கிய அளவுகோலாக எடுக்கப்பட்டுள்ளது.
+
+ஒருவரது உடலினது உயரத்திற்கு பொருத்தமான நிறை எவ்வளவு என்பதை கணித்தல் உடற் திணிவுச் சுட்டி ஆகும்.
+
+...
+
+[Data](articles/e6bbd285.json)
+
+---
 
 ### Driver arrested for fleeing an accident in Anuradhapura
 
@@ -2177,89 +2261,5 @@ The Talawakelle police have registered a case against him and ordered the Magist
 [Data](articles/6314f474.json)
 
 [Extended Data](ext_articles/6314f474.ext.json)
-
----
-
-### President underscores govt’s commitment to amplify women’s role in sustainable development
-
-*2024-03-08 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97825/president-underscores-govts-commitment-to-amplify-womens-role-in-sustainable-development) · `en`
-
-President Ranil Wickremesinghe, in his message for International Women’s Day, asserted that the government is actively engaged in amplifying the role of women in propelling sustainable development.
-
-He emphasized that special focus is directed towards empowering women entrepreneurs in fast-growing sectors such as digital and green economies.
-
-Stressing that the government’s commitment to Women’s Day extends beyond mere symbolism,  Wickremesinghe pointed out that multiple initiatives have been taken in this regard, such as the formulation of new policies and regulations, including a national gender policy designed to combat discrimination against women.
-
-To this end, he said the establishment of the National Commission for Women marks a significant milestone, accompanied by the drafting of legislation dedicated to promoting gender equality and women’s empowerment.
-
-...
-
-[Data](articles/0dd26be5.json)
-
-[Extended Data](ext_articles/0dd26be5.ext.json)
-
----
-
-### Over Rs. 2.5 bn annual rent paid for vehicles rented by public institutions
-
-*2024-03-08 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-Rs-2-5-bn-annual-rent-paid-for-vehicles-rented-by-public-institutions/108-278500) · `en`
-
-Colombo, March 08 (Daily Mirror) - It was revealed in parliament that more than Rs. 2.5 billion is paid annually as rental for vehicles acquired by government agencies.
-
-This was revealed by the Finance Ministry in reply to a question raised by SLPP MP Kokila Gunawardene on vehicles acquired by public institutions.
-
-It was revealed that 4,427 vehicles have been acquired by the public institutions on rental basis and that Rs. 2,562 million is paid as annual rent for the said vehicles.
-
-According to a question raised by MP Gunawardene on the number of running condition vehicles in public institutions, the ministry said some 69,121 vehicles are in running condition as of March 1, 2024.
-
-◼️
-
-[Data](articles/4c3ae41c.json)
-
-[Extended Data](ext_articles/4c3ae41c.ext.json)
-
----
-
-### 92-year-old Rupert Murdock engaged in the 6th time
-
-*2024-03-08 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194300) · `si`
-
-92-year-old Rupert Murdock is engaged for the 6th year. His fiancée, a 67-year-old retired molecular biologist, is from Eliyan. Their wedding is set for June in California.
-
-🟩
-
-The 92-year-old Rupert Murdock, a well-known media manner, has been engaged in the sixth consecutive year.
-
-According to foreign media reports, Eliyan origin, a 67-year-old retired molecular biologist, has been engaged in a 67-year-old retired.
-
-Accordingly, their marriage is scheduled to be held at California next June.
-
-Ruptons Murdoch was engaged with a radio announcer last year, but it was over a year.
-
-◼️
-
-[Data](articles/0ea86d8b.json)
-
-[Extended Data](ext_articles/0ea86d8b.ext.json)
-
----
-
-### Colombo air is bad
-
-*2024-03-08 18:14:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-காற்று-மோசம்/95-334388) · `ta`
-
-Colombo's air quality index is 158 (PM2.5), with Akurana, Jaffna, Kandy also affected. Officials warn of worsening conditions.
-
-🟩
-
-Officials say that the air quality index in Colombo is 158 (PM2.5) and if the index worsens, it should be paid serious attention.
-
-The Department of Meteorology has further stated that the situation in Akurana, Jaffna and Kandy, besides Colombo, is worse.
-
-◼️
-
-[Data](articles/eb79299e.json)
-
-[Extended Data](ext_articles/eb79299e.ext.json)
 
 ---

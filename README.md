@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 12:03:36**
+As of **2024-03-09 12:17:46**
 
 ## Newspaper Stats
 
-*Scraped **11,817** Articles*
+*Scraped **11,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 140
 dbsjeyarajcom | 178
 newsfirstlk | 363
 dailyftlk | 617
-economynextcom | 618
+economynextcom | 619
 islandlk | 636
-adalk | 997
-tamilmirrorlk | 1,428
+adalk | 999
+tamilmirrorlk | 1,430
 adaderanalk | 1,436
 virakesarilk | 1,627
 dailymirrorlk | 1,810
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,817 (100.0%) of 11,817 articles have been extended.
+11,817 (100.0%) of 11,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Tension on the Mount of Vedukkuni: Many arrested
+
+*2024-03-09 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178290) · `ta`
+
+During Shivaratri Pooja at Vedukkunni Mountain, police ordered worship to end at 6 PM, leading to arrests and evacuation of women.
+
+🟩
+
+Shivaratri Pooja on Friday evening (08) at the Vedukkunni Mountain. This has resulted in the arrest of many and the attack.
+
+While the Shivaratri pooja was being held at the Vedukkunni hill, the police told them to end all the worship with six o'clock in the evening.
+
+Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis and the women who participated in the worship have been evacuated.
+
+◼️
+
+[Data](articles/0216c02a.json)
+
+[Extended Data](ext_articles/0216c02a.ext.json)
+
+---
 
 ### The lorry loaded with cement collides the family motorcycle
 
@@ -83,6 +105,58 @@ Police in Ottawa discovered the slain family at their townhouse in the Barrhaven
 [Data](articles/bb794d43.json)
 
 [Extended Data](ext_articles/bb794d43.ext.json)
+
+---
+
+### தந்தையின் தொல்லையால் 2 மகள்மார் பாதிப்பு
+
+*2024-03-09 11:30:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தந்தையின்-தொல்லையால்-2-மகள்மார்-பாதிப்பு/76-334417) · `ta`
+
+தந்தையின் தொல்லை காரணமாக   பாடசாலை மாணவிகள் இருவர், நன்னடத்தை கண்காணிப்பின் கீழ்  பாட்டியிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+தினமும் மதுபோதையில் வருகை தரும் தந்தையினால் ஏற்படும் துன்புறுத்தல் காரணமாக பாடசாலை மாணவிகள் இருவரை ஹட்டன் நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தி அவர்களை நன்னடத்தை மேற்பார்வையின் கீழ் பாட்டியிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது என  என திம்புள்ள-பத்தனை பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+திம்புள்ள- பத்தனை பொலிஸ் பிரிவுக்கு உட்பட்ட தேயிலை தோட்டத்தில் வசிக்கும் 16 மற்றும் 14 வயதுடைய இரு பாடசாலை மாணவிகளின் தாயார் கொழும்பு பிரதேசத்தில் பணிபுரிந்து வருவதாகவும் அவ்விரு பெண் பிள்ளைகளும்  பாட்டியின் பராமரிப்பிலேயே இருக்கின்றனர் என திம்புள்ளை- பத்தனை பொலிஸார் தெரிவித்தனர்.
+
+தந்தை தினமும் மைதானத்திற்கு மது போதையில் வந்து பாட்டி மற்றும் இருவரையும் திட்டி திட்டியதாகவும், அந்த நிலை காரணமாக மிகுந்த அச்சத்துடன் வீட்டில் தங்கியிருந்ததாகவும் பாடசாலை மாணவிகள் இருவரும் திம்புள்ள- பத்தனை பொலிஸாரிடம் தெரிவித்தனர்.
+
+...
+
+[Data](articles/d91ef707.json)
+
+---
+
+### කැබ් රියක් තිදෙනෙක් මරු තුළට යවයි
+
+*2024-03-09 11:23:19* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්-රියක්-තිදෙනෙක්-මරු-තුළට-යවයි/11-408502) · `si`
+
+අනුරාධපුර - රඹෑව ප්‍රධාන මාර්ගයේ රඹෑව නගරාසන්නයේදී අද  අළුයම 1.30ට පමණ සිදුවූ මාරක රිය අනතුරකින් පාසල් සිසුවකු ඇතුළු තිදෙනකු මරණයට පත්ව ඇතැයි මහින්තලේ පොලිසිය පවසයි. අනතුරින් බරපතල තුවාල ලැබූ තවත් තිදෙනෙක් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+
+රඹෑව නගරයේ පැවති සංගීත ප්‍රසංගයක් නරඹා ආපසු යමින් සිටි තරුණයන් පිරිසගේ කැබ් රථයක් ගැටීමෙන් අනතුර සිදුව ඇති අතර අනතුරින් පසුව කැබ් රිය පළාගොස් තිබේ.
+
+අවුරුදු 14, 19 සහ21ත් අතර වියේ පසුවන තරුණයින් තිදෙනෙක් මෙසේ මියගොස් තිබේ. අනතුර සිදුකළ කැබ් රථය හා රියදුරු අත්අඩංගුවට ගැනීමට පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/3a2249f7.json)
+
+---
+
+### மாயமான மீனவர்கள் மூவரும் திரும்பினர்
+
+*2024-03-09 11:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மாயமான-மீனவர்கள்-மூவரும்-திரும்பினர்/94-334416) · `ta`
+
+கடற்தொழில் நடவடிக்கைகளுக்காக கடந்த 6 ம் திகதி மூன்று பேருடன் கடலுக்குள் சென்று காணாமல் போனதாக தெரிவிக்கப்படும் இயந்திர படகு மற்றும் அதில் பயணித்த மீனவர்கள் மூவரும் வெள்ளிக்கிழமை (08) பாதுகாப்பாக கரை திரும்பியுள்ளனர் எனத் தெரிவிக்கப்படுகிறது.
+
+கடற்தொழில் நடவடிக்கைகளுக்காக கடலுக்குள் மூன்று மீனவர்கள் பயணித்த இயந்திர படகு கரை திரும்பவில்லை என அந்த இயந்திர படகின் உரிமையாளர் கற்பிட்டி பொலிஸில் முறைப்பாடு செய்திருந்தார்.
+
+இந்த நிலையில் 6 ஆம் திகதி காணாமல் போனதாக கூறப்படும் இயந்திர படகுடன் ஈச்சங்காடு பகுதியைச் சேர்ந்த 21, 37 மற்றும் 38 வயதுடைய மூன்று மீனவர்களும் இரண்டு நாட்களின் பின்னர் வெள்ளிக்கிழமை (08) மீட்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இயந்திர கோளாறு காரணமாக குறித்த இயந்திர படகு இயங்காமல் போனதாகவும், பின்னர் கடலில் மிதக்க ஆரம்பித்த குறித்த படகு இந்திய கடல் எல்லையோரம் வரை சென்றதாகவும் கூறப்படுகிறது.
+
+...
+
+[Data](articles/cca820a6.json)
 
 ---
 
@@ -313,6 +387,24 @@ In the morning, in some places in the Western and Sabaragamuwa Provinces, Galle 
 [Data](articles/841501a0.json)
 
 [Extended Data](ext_articles/841501a0.ext.json)
+
+---
+
+### Sri Lanka official remittances up 16.8-pct in Feb
+
+*2024-03-09 10:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-official-remittances-up-16-8-pct-in-feb-153880/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s official remittances grew 16.8 percent from a year earlier to 476.2 million US dollars, but fell to an 8-month low, official data shows.
+
+Remittances coming through official channels fell to 476.2 million US dollars in February 2024, from 487.6 million in January, after peaking at 569.7 million US dollars in December.
+
+Remittances tend to rise in November and December as overseas workers send extra money to loved ones in for the festive season.
+
+Exchange rate spreads in Sri Lanka banks are wide with the rupee dollar rate volatile, amid the exchange rate regime that is followed, despite deflationary monetary policy helping appreciate the currency. (Colombo/Mar09/2024)
+
+◼️
+
+[Data](articles/eb113fb6.json)
 
 ---
 
@@ -1424,28 +1516,6 @@ Gold reached an all-time high of $2,185.19 after a report showed a rise in the U
 
 ---
 
-### Tension on the Mount of Vedukkuni: Many arrested
-
-*2024-03-08 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178290) · `ta`
-
-During Shivaratri Pooja at Vedukkunni Mountain, police ordered worship to end at 6 PM, leading to arrests and evacuation of women.
-
-🟩
-
-Shivaratri Pooja on Friday evening (08) at the Vedukkunni Mountain. This has resulted in the arrest of many and the attack.
-
-While the Shivaratri pooja was being held at the Vedukkunni hill, the police told them to end all the worship with six o'clock in the evening.
-
-Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis and the women who participated in the worship have been evacuated.
-
-◼️
-
-[Data](articles/0216c02a.json)
-
-[Extended Data](ext_articles/0216c02a.ext.json)
-
----
-
 ### Four vehicles hit by Borella Junction
 
 *2024-03-08 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194305) · `si`
@@ -1613,6 +1683,26 @@ State Ministers Shehan Semasinghe, Presidential Staff Level Sanaganayake, Presid
 [Data](articles/1fbd366e.json)
 
 [Extended Data](ext_articles/1fbd366e.ext.json)
+
+---
+
+### කැනඩාවේ ලාංකික පවුලක 6 මරාදාලා - ඝාතකයා පවුල සමගම සිටි අයෙක්
+
+*2024-03-08 20:00:19* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩාවේ-ලාංකික-පවුලක-6-මරාදාලා---ඝාතකයා-පවුල-සමගම-සිටි-අයෙක්/11-408500) · `si`
+
+කැනඩාවේ පදිංචිය සඳහා මෑතකදී සංක්‍රමණය වූ ලාංකික පවුලක සාමාජිකයන් 6 දෙනෙක ඝාතනය කර ඇතැයි ‌කැනඩා පොලීසිය තහවුරු කළ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එකම පවුලේ මව හා ඇයගේ දරුවන් සිව් දෙනා මෙන්ම පවුලේ හිතවතෙක් මෙසේ ඝාතනය කර තිබේ. දරුවන්ගේ පියා බරපතල තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+ඒම පවුල සමගින්ම සිටි 19 හැවරිදි සිසුවෙක් මෙම ඝාතනය කර ඇති බවට හඳුනාගෙන තිබේ. ඔහු කැනඩාවේ ඉගෙනුම ලබන්නෙකි.
+
+සිද්ධියෙන් මිය ගොස් ඇත්තේ අවුරුදු 35ක් වන මව ඇයගේ හත් හැවැරිදි පුතා, සිව් හැවැරිදි දියණිය, දෙහැවිරිදි සියණිය හා මාස දෙකක් වයසැති සිඟිති බිළිදෙකුයි.
+
+එසේම එම පවුල සමග සිටි 40 හැවැරිදි පුද්ගලයෙක්ද ජීවිතක්ෂයට පත්ව තිබේ. මෙම ඝාතනයන් තියුණු ආයුධයකින් පහරදී සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/ea1651f5.json)
 
 ---
 
@@ -2129,111 +2219,5 @@ Motorists commuting to Colombo are advised by the police to consider utilizing t
 [Data](articles/2e21e17c.json)
 
 [Extended Data](ext_articles/2e21e17c.ext.json)
-
----
-
-### Both the Gender Equality and the Empowerment of Women will be presented in Parliament - the President
-
-*2024-03-08 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178273) · `ta`
-
-President Ranil Wickremesinghe announced the tablement of Gender Equality and Women's Empowerment in Parliament in May, during the National Women's Day event. The law of empowerment for women was published in the Gazette, with the Gender Equality Act to follow next week.
-
-🟩
-
-President Ranil Wickremesinghe said both the Gender Equality and the Empowerment of Women would be tabled in Parliament in May.
-
-President Ranil Wickremesinghe said this while addressing the National Women's Day National Event on Friday (08).
-
-Meanwhile, the President further stated that the law of empowerment for women was published in the Gazette yesterday and the Gender Equality Act will be published in the Gazette next week.
-
-◼️
-
-[Data](articles/dd447eef.json)
-
-[Extended Data](ext_articles/dd447eef.ext.json)
-
----
-
-### Consumer Affairs Authority Board including Chairman resigns
-
-*2024-03-08 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consumer-Affairs-Authority-Board-including-Chairman-resigns/108-278498) · `en`
-
-Colombo, March 08 (Daily Mirror) - The entire Board of Directors of the Consumer Affairs Authority (CAA), including its Chairman, has tendered their resignations.
-
-According to Trade Minister Nalin Fernando, the 15-member Board, led by Chairman Attorney-at-Law Shantha Niriella has stepped down in response to a directive issued by the ministry.
-
-The resignations come following a notification from the ministry, compelling the Board to vacate their positions. The specific reasons behind the directive remain undisclosed.
-
-However, Minister Fernando confirmed that the appointment of a new Board of Directors is scheduled for Monday, hinting at an imminent restructuring within the organization.
-
-◼️
-
-[Data](articles/622480c8.json)
-
-[Extended Data](ext_articles/622480c8.ext.json)
-
----
-
-### Vehicular movement on Galle Road disrupted in Wellawatta
-
-*2024-03-08 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97824/vehicular-movement-on-galle-road-disrupted-in-wellawatta) · `en`
-
-A small sinkhole near the Station Road in Wellawatta has disrupted vehicular movement on Galle Road.
-
-The police have advised the motorists travelling to Colombo to use the Marine Drive for the time being.
-
-◼️
-
-[Data](articles/5aecd35d.json)
-
-[Extended Data](ext_articles/5aecd35d.ext.json)
-
----
-
-### Severe protection in Vedukkunni!The public who walked 5 kilometers and worshiped Lord Shiva!
-
-*2024-03-08 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178271) · `ta`
-
-In Vedukkunni, devotees walked 5 km for temple darshan, but the chief priest and temple manager were arrested for forest area infringement. The Special Task Force and police secured the area, blocking access for worshippers. Parliamentarians and swamis were allowed entry with guidance. Despite the roadblock, some managed to reach the temple by foot.
-
-🟩
-
-The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vedukkunnarimalai.
-
-The chief priest of the temple and the manager of the temple were arrested by the Nedungeni police on Thursday night (07) night.
-
-They have been arrested on the basis of allegations of infringement in the state forest area and are being tried to the Vavuniya Magistrate today.
-
-Subsequently, the Special Task Force and Police have been put up around the temple today and the police road has been laid on the main road to the temple.
-
-Meanwhile, the civilians who come from far away places for the Maha Shivaratri worship have been on the main road so that they cannot go in.
-
-Parliamentarian Sivagnanam Sridharan, Selvarasa Kayendran, Velan Swamis and Ravikaran were also present at the scene.
-
-Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
-
-...
-
-[Data](articles/1ebde8eb.json)
-
-[Extended Data](ext_articles/1ebde8eb.ext.json)
-
----
-
-### Gender budgeting, two new bills to empower women: Sri Lanka president
-
-*2024-03-08 16:57:00* · [`economynextcom`](https://economynext.com/gender-budgeting-two-new-bills-to-empower-women-sri-lanka-president-153849/) · `en`
-
-ECONOMYNEXT – Two bills, aimed at advancing gender equality and empowering women, will be presented to Parliament in May, Sri Lanka’s President Ranil Wickremesinghe has said.
-
-“It is imperative that women’s rights go beyond mere rhetoric; therefore, it is crucial to enact appropriate legislation, a task that has been neglected for far too long,” Wickremesinghe said at an International Women’s Day event at the Water’s Edge, Battaramulla on Friday.
-
-“In celebrating International Women’s Day, the usual practice in our country is to hold a ceremony, discuss women’s rights and return home. This routine occurs every year. However, this time, we have decided to implement concrete actions to amplify women’s voices,” Wickremesinghe said.
-
-...
-
-[Data](articles/697adec5.json)
-
-[Extended Data](ext_articles/697adec5.ext.json)
 
 ---

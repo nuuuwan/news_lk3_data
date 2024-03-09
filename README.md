@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 11:52:26**
+As of **2024-03-09 12:03:36**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 1,855
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,815 (100.0%) of 11,817 articles have been extended.
+11,817 (100.0%) of 11,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### සිමෙන්ති පැටවූ ලොරි රථය පවුලක් ගමන් ගත් යතුරුපැදියේ ගැටෙයි
+### The lorry loaded with cement collides the family motorcycle
 
 *2024-03-09 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194314) · `si`
 
-කොළඹ හයිලෙවල් මාර්ගයේ කොස්ගම මිරිස්වත්ත ප්‍රදේශයේදී ඊයේ (08) රාත්‍රියේ සිදුවූ රිය අනතුරකින් දෙදෙනෙකු මියගොස් තිබේ.
+A lorry collided with a motorcycle in Kosgama, killing two father-sons and seriously injuring the mother, who was admitted to Colombo National Hospital. The lorry driver was arrested.
 
-කොස්ගම පොලීසිය පැවසුවේ සිමෙන්ති පැටවූ ලොරියක් යතුරුපැදියක ගැටීමෙන් මෙම අනතුර සිදුවී ඇති බවය.
+🟩
 
-සිමෙන්ති පටවාගෙන කොළඹ සිට අවිස්සාවේල්ල දෙසට ගමන් කරමින් තිබූ ලොරි රථයේ ටයරයක් එක්වරම පුපුරා ගොස් මාර්ගයෙන් ඉවතට පැන ප්‍රතිවිරුද්ධ දෙසට ධාවනය වී යතුරුපැදියේ ගැටී මෙම අනතුර සිදුවී තිබේ.
+Two were killed in an accident in Kosgama last night in Kosgama last night.
 
-අනතුරින් යතුරුපැදියේ ගමන් ගත් පිය පුතු දෙදෙනා මියගොස් ඇති අතර බරපතළ තුවාල ලැබූ මව කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇත.
+The Kosgama Police said that the accident had occurred when a lorry collided with a lorry.
 
-මෙලෙස මියගොස් ඇත්තේ කොස්ගම අලුබෝදල ප්‍රදේශයේ පදිංචිව සිටි 44 හැවිරිදි පියා සහ 08 හැවිරිදි පිරිමි දරුවෙකි.
+The crash has taken place in the lorry to Avissawella towards Avissawella towards Avissawella towards Avissawella.
 
-ලොරි රථයේ රියදුරාව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර කොස්ගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The two father-sons who were traveling on the motorcyclist have died and the mother of serious injuries has been admitted to the Colombo National Hospital.
+
+The deceased has been identified as a 44-year-old father and a man of a resident of Alubodala, Kosgama.
+
+The driver of the lorry has been arrested by the police while Kosgama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a015f941.json)
+
+[Extended Data](ext_articles/a015f941.ext.json)
 
 ---
 
@@ -75,6 +81,8 @@ Police in Ottawa discovered the slain family at their townhouse in the Barrhaven
 ...
 
 [Data](articles/bb794d43.json)
+
+[Extended Data](ext_articles/bb794d43.ext.json)
 
 ---
 

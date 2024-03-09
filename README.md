@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 14:02:48**
+As of **2024-03-09 14:17:47**
 
 ## Newspaper Stats
 
-*Scraped **11,829** Articles*
+*Scraped **11,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,105 @@ tamilmirrorlk | 1,432
 adaderanalk | 1,437
 virakesarilk | 1,627
 dailymirrorlk | 1,812
-adaderanasinhalalk | 1,857
+adaderanasinhalalk | 1,859
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,827 (100.0%) of 11,829 articles have been extended.
+11,829 (100.0%) of 11,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### අද පිටියට එන ශ්‍රී ලංකා කණ්ඩායමේ වෙනසක්
+### අවසන් තරගයේ කාසියේ වාසිය බංග්ලාදේශය ට
+
+*2024-03-09 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194319) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන තුන්වන සහ අවසන් T20 තරගය අද (09) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබා දීමටය.
+
+තරග 3කින් සමන්විත T20 තරගාවලියේ එක් තරගය බැගින් දෙපිලම ජයගෙන මේ වනවිට සම තත්ත්වයේ පසුවෙයි.
+
+◼️
+
+[Data](articles/ae780774.json)
+
+---
+
+### කාන්තාවන් 40%ක් සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත්වෙයි
+
+*2024-03-09 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194317) · `si`
+
+පවතින ආර්ථික අර්බුදයත් සමග මෙරට කාන්තාවන් 40%ක් පමණ කාන්තා සනීපාරක්ෂක භාවිතයෙන් ඉවත්වී ඇති බවට නවතම සමීක්ෂණයකින් අනාවරණ වී තිබේ.
+
+එම සමීක්ෂණයෙන් අනාවරණ වී ඇත්තේ සනීපාරක්ෂක තුවා සඳහා ඉහළ මිලක් ගෙවීමට සිදුවීම ඊට ප්‍රධාන හේතුවක් වී ඇති බවය.
+
+කොවිඩ් වසංගතයත් සමග පැනනැගුණු ආර්ථික අර්බුදය හේතුවෙන් සියලුම භාණ්ඩ සඳහා ගෙවිය යුතු මිල ගණන් අධික ලෙස ඉහළ ගොස් තිබේ.
+
+එය මෙරට පුරවැසියන්ගේ දෛනික ජීවිතයට දැඩි බලපෑමක් එල්ලකර ඇති අතර බොහෝ විට සිදුවූයේ ජනතාව තම පරිභෝජනයට ගන්නා භාණ්ඩ ප්‍රමාණය සීමා කිරීමය.
+
+පවුල් පාලනය පිළිබඳ සිවිල් සංවිධානය සිදුකළ නවතම සමීක්ෂණයක් එහි තවත් පැතිකඩක් පිළිබඳව අනාවරණ කර ඇත.
+
+ඔවුන් පවසන්නේ පවතින ආර්ථික අර්බුදය හමුවේ මෙරට වයස අවුරුදු 15ත් 47ත් අතර කාන්තාවන්ගෙන් සියයට 40ක් කාන්තා සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත් වී ඇති බවය.
+
+එමගින් කාන්තාවකගේ ජීවවිද්‍යාත්මක චක්‍රයට ඇති කරනු ලබන බලපෑම අවධානය යොමු කළයුතු මට්ටමක පවතින බව එම සංවිධානය පෙන්වා දෙති.
+
+...
+
+[Data](articles/371202bf.json)
+
+---
+
+### Sri Lankan team from Sri Lankan team to be built today
 
 *2024-03-09 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194316) · `si`
 
-ආබාධයකට ලක්වීම හේතුවෙන් වේගපන්දු යවන ක්‍රීඩක මතීෂ පතිරණ අද (09) පැවැත්වෙන ශ්‍රී ලංකා බංග්ලාදේශ තුන්වන සහ අවසන් 20යි 20 තරගයට සහභාගී නොවන බව වාර්තා වෙයි.
+Sri Lankan team's fast bowler Visitor Pathirana misses the final T20 match due to injury, impacting the team's performance. Bangladesh's crucial match starts at 3 pm today.
 
-දෙවන විස්සයි විස්ස තරගයේ සිය සිව්වන පන්දු වාරය ක්‍රියාත්මක කරමින් සිටියදී ඔහු පාදයේ ආබාධයකට ලක්වුණි.
+🟩
 
-ආබාධ තත්ත්වය සුව අතට පත් නොවීම හේතුවෙන් අද පැවැත්වෙන තෙවන තරගය සඳහා මතීෂ සහභාගී ‌නොකිරීමට තීරණය කර ඇති බව වාර්තා විය.
+It is reported that fast bowler Visitor Pathirana does not participate in the third and final 20th competition in Sri Lanka (09th) due to injustice.
 
-ශ්‍රී ලංකා බංග්ලාදේශ තීරණාත්මක තෙවන විස්සයි විස්ස තරගය අද පස්වරු 03ට ආරම්භ වීමට නියමිතය.
+When his fourth balls were operating the fourth ballship in the second T20, he was injured.
+
+It has been reported that the post has decided not to participate in the third match today due to the impairment of the disability.
+
+Bangladesh's crucial Twenty Twenty Twenty Twenty Twenty Twenty Twenty 3 pm will commence today.
 
 ◼️
 
 [Data](articles/a4f59856.json)
 
+[Extended Data](ext_articles/a4f59856.ext.json)
+
 ---
 
-### விபத்தில் தந்தை, மகன் பலி; தாய் படுகாயம்
+### Father and son killed in accident;Mother injury
 
 *2024-03-09 13:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/விபத்தில்-தந்தை-மகன்-பலி-தாய்-படுகாயம்/95-334419) · `ta`
 
-கொழும்பு ஹைலெவல் வீதியின் கொஸ்கம, மிரிஸ்வத்த பிரதேசத்தில் நேற்று (8) இரவு இடம்பெற்ற விபத்தில், தந்தை மற்றும் மகன் உயிரிழந்துள்ள நிலையில் படுகாயமடைந்த தாய் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A tragic accident in Miriswatta, Koskama, Colombo, resulted in the death of a 44-year-old father and his 8-year-old son, and injured their mother. The incident involved a lorry carrying cement and a motorcycle, leading to the lorry's explosion. The lorry driver has been arrested, and police continue investigations.
 
-விபத்தில் உயிரிழந்தவர்கள் கொஸ்கம பிரதேசத்தைச் சேர்ந்த 44 வயதான தந்தை மற்றும் 8 வயதான மகன் எனத் தெரியவந்தது.
+🟩
 
-விபத்தில் பலியானவர்கள் பயணித்த மோட்டார் சைக்கிளுடன், சீமெந்து ஏற்றிச் சென்ற லொறி ஒன்று மோதியதாலேயே இந்த விபத்து இடம்பெற்றுள்ளதாக கொஸ்கம பொலிஸார் தெரிவித்தனர்.
+A mother and son injured in the accident in Miriswatta area in Koskama, Colombo, Koskama, Colombo.
 
-கொழும்பிலிருந்து அவிசாவளை நோக்கி பயணித்த சீமெந்து ஏற்றிச் சென்ற குறித்த லொறியின் சக்கரம் ஒன்று திடீரென வெடித்ததில், லொறி வீதியை விட்டு விலகி எதிர்த்திசையில் பயணித்த மோட்டார் சைக்கிளுடன் மோதியமை விசாரணைகளில் தெரியவந்தது.
+The victims of the accident were revealed to be a 44 -year -old father and 8 -year -old son from Kosama.
 
-இதனையடுத்து லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதோடு, கொஸ்கம பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர். S
+Koskama police said that the accident occurred when a lorry loaded with a cement carrying a motorcycle was traveling with a motorcycle.
+
+Investigations have revealed that a lorry's wheel that was traveling from Colombo to Avissawelle crashed into a motorcycle that was traveling in opposition when a lorry suddenly exploded.
+
+The driver of the lorry has been arrested and Koskama police are conducting further investigations.. Ssh
 
 ◼️
 
 [Data](articles/8d339013.json)
+
+[Extended Data](ext_articles/8d339013.ext.json)
 
 ---
 
@@ -2199,61 +2251,5 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 [Data](articles/7070d6e0.json)
 
 [Extended Data](ext_articles/7070d6e0.ext.json)
-
----
-
-### Amidgive
-
-*2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கெடுபிடிகளுக்கு-மத்தியில்-வெடுக்குநாறியில்-வழிபாடு/72-334387) · `ta`
-
-The temple in Vavuniya Vettu Nirimalai was closed after the arrest of its chief priest and administrator. Only residents were allowed in, and civilians from far were blocked. Parliamentarians and religious leaders were present, and the Special Task Force ensured security.
-
-🟩
-
-The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vettu Nirimalai.
-
-The chief priest of the temple and the administrator of the temple were arrested by the Nedungeni police on Thursday (07).
-
-Subsequently, the Special Task Force and Police have been deployed around the temple and the police road has been laid to the main road to the temple.. Only the residents of the area were allowed inside after the police investigation.
-
-Meanwhile, the civilians who came from far away places for the Mahasivaratri worship were on the main road so that they could not go in.
-
-Parliamentarian Sivagnanam Sridharan, Selvarasa Gajendran, Velan Swamis and Ravikaran were also present at the scene.
-
-Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
-
-...
-
-[Data](articles/78ca7178.json)
-
-[Extended Data](ext_articles/78ca7178.ext.json)
-
----
-
-### Amiturism
-
-*2024-03-08 17:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கெடுபிடிகளுக்கு-மத்தியில்-வழிபாடு/72-334387) · `ta`
-
-The temple in Vavuniya Vidunarimalai was closed due to arrests of the chief priest and temple administrator. Police and Special Task Force secured the area, allowing only local residents. Civilians from far were blocked on the main road. Parliamentarians and religious leaders were present, guiding the public to the temple.
-
-🟩
-
-The public was carrying out a temple darshan, walking 5 kilometers away from the Vavuniya Vidunarimalai.
-
-The chief priest of the temple and the administrator of the temple were arrested by the Nedungeni police on Thursday (07).
-
-Subsequently, the Special Task Force and Police have been deployed around the temple and the police road has been laid to the main road to the temple.. Only the residents of the area were allowed inside after the police investigation.
-
-Meanwhile, the civilians who came from far away places for the Mahasivaratri worship were on the main road so that they could not go in.
-
-Parliamentarian Sivagnanam Sridharan, Selvarasa Gajendran, Velan Swamis and Ravikaran were also present at the scene.
-
-Were allowed to go to the temple at 10 am with their guidance. Due to the refusal of vehicles, the public reached the temple by walking about 5 kilometers from the Olumadu main road.
-
-...
-
-[Data](articles/f71d11b5.json)
-
-[Extended Data](ext_articles/f71d11b5.ext.json)
 
 ---

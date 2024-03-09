@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 19:02:46**
+As of **2024-03-09 19:17:53**
 
 ## Newspaper Stats
 
-*Scraped **11,858** Articles*
+*Scraped **11,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 620
 islandlk | 636
 adalk | 999
 tamilmirrorlk | 1,439
-adaderanalk | 1,440
+adaderanalk | 1,441
 virakesarilk | 1,632
 dailymirrorlk | 1,816
 adaderanasinhalalk | 1,866
@@ -26,29 +26,55 @@ adaderanasinhalalk | 1,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,856 (100.0%) of 11,858 articles have been extended.
+11,858 (100.0%) of 11,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### 6000 அடி உயரத்தில் இருந்து குதித்து யாழ்ப்பாணத்தில் சாகசம்
+### SJB to boycott meeting convened by President with IMF delegates
 
-*2024-03-09 18:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6000-அடி-உயரத்தில்-இருந்து-குதித்து-யாழ்ப்பாணத்தில்-சாகசம்/71-334428) · `ta`
+*2024-03-09 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97842/sjb-to-boycott-meeting-convened-by-president-with-imf-delegates) · `en`
 
-இலங்கை விமான படையின் 73 வது ஆண்டு நிறைவையொட்டி யாழ்ப்பாணம் முற்றவெளியில் மாபெரும் கண்காட்சியானது சனிக்கிழமை (09)  ஆரம்பமாகியுள்ளது.
+The majority of the Members of Parliament representing the Samagi Jana Balawegaya (SJB) have reportedly decided not to participate the meeting with the representatives of the International Monetary Fund (IMF) convened by President Ranil Wickremesinghe.
 
-இந்த கண்காட்சியானது   எதிர்வரும் 10ஆம் திகதிவரை காலை 10 மணியில் இருந்து இரவு 10 மணிவரை நடைபெறும்.
+This was revealed by the National Organizer of the SJB Tissa Attanayake today (March 09).
 
-பாடசாலை சீருடையில் வரும் மாணவர்கள் இந்த நிகழ்வை முற்றுமுழுதாக இலவசமாக பார்வையிடலாம். ஏனையோர் 100 ரூபாய் கட்டணம் செலுத்தி இந்த நிகழ்வை பார்வையிட முடியும்.
+Joining a press briefing held today, MP Attanayake stated that however the party’s stance on the matter would be officially communicated later.
 
-இந்த கண்காட்சி மூலம் பெற்றுக் கொள்ளப்படும் முழுத் தொகையும் வடக்கு மாகாணத்தில் காணப்படும் 73 பாடசாலைகளின் புனர் நிர்மாணத்திற்கும், அந்த பாடசாலையில் கல்வி கற்கும் பின்தங்கிய மாணவர்களின் நலன்புரி செயற்பாடுகளுக்கும், அவர்களுக்கு 73ஆயிரம் பாடசாலை புத்தகங்களை வழங்குவதற்கும் ஏற்பாடு செய்யப்பட்டுள்ளது. அத்துடன் நாடளாவிய ரீதியில் 73ஆயிரம் மரக்கன்றுகளை நடும் செயற்றிட்டமும் இதன் மூலம் ஆரம்பிக்கப்பட்டுள்ளது.
-
-வடக்கு மாகாணத்தின் யாழ்ப்பாணத்தை மையமாக கொண்டு ஏற்பாடு செய்யப்பட்டுள்ளதுடன் இதற்கான பூரண அனுசரணையை வடக்கு மாகாண ஆளுநர் செயலகம் ஊடாக இலங்கை விமானப் படை பெற்றுள்ளது.
+Attanayake further said that the IMF delegation, similar to the last time they were in Sri Lanka, would meet with and hold discussions with the opposition leader this time as well. He also pointed out that the SJB does not expect to take part in any discussions convened by the President to seek support for the government’s program.
 
 ...
 
+[Data](articles/67404ab8.json)
+
+---
+
+### Adventure in Jaffna by jumping from 6000 feet high
+
+*2024-03-09 18:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6000-அடி-உயரத்தில்-இருந்து-குதித்து-யாழ்ப்பாணத்தில்-சாகசம்/71-334428) · `ta`
+
+The Great Exhibition in Jaffna, celebrating the 73rd anniversary of the Sri Lanka Air Force, features a 6000 feet jump, free entry for students in uniform, and a Rs 100 fee for others. It supports 73 schools, welfare programs, and a tree-planting initiative, sponsored by the Northern Province Governor's Secretariat, under the guidance of Air Marshal Udayani Rajapaksa.
+
+🟩
+
+The Great Exhibition at the Jaffna courtyard commenced on Saturday (09) at the 73rd anniversary of the Sri Lanka Air Force.
+
+The exhibition will be held from 10 am to 10 pm until the 10th.
+
+Students coming to school uniform can visit this event completely free. Others can visit this event for a fee of Rs 100.
+
+Arrangements have been made for the construction of the 73 schools in the Northern Province, the welfare of the backward students who are educated in the school, and to provide them with 73 thousand school books.. It has also launched a project of planting 73 thousand saplings across the country.
+
+The Sri Lanka Air Force has received the full sponsorship of the Northern Province through the Northern Province Governor's Secretariat.
+
+It is noteworthy that the exhibition was launched through the surveillance and guidelines of the Sri Lanka Air Force Commander Air Marsral Udayani Rajapaksa.
+
+◼️
+
 [Data](articles/8816a6ed.json)
+
+[Extended Data](ext_articles/8816a6ed.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Thushara sent shockwaves through the Bangladeshi camp as he rattled the stumps o
 ...
 
 [Data](articles/ef034cc2.json)
+
+[Extended Data](ext_articles/ef034cc2.ext.json)
 
 ---
 
@@ -2259,21 +2287,5 @@ The Secretary further stated that the added plastic water bottles will be taken 
 [Data](articles/b4845249.json)
 
 [Extended Data](ext_articles/b4845249.ext.json)
-
----
-
-### MMCA Sri Lanka launches ‘Second Volume’
-
-*2024-03-08 22:15:00* · [`islandlk`](http://island.lk/mmca-sri-lanka-launches-second-volume/) · `en`
-
-The Museum of Modern and Contemporary Art Sri Lanka (MMCA Sri Lanka) announces the launch of its first research publication ‘Second Volume: The Watapuluwa Housing Scheme by Minnette De Silva’. Edited by Sharmini Pereira and Kaumadi Jayaweera, the publication explores the groundbreaking work of architect Minnette De Silva (1918–1998) within the context of the Watapuluwa Housing Scheme, Kandy (1958).
-
-‘Second Volume’ accompanies the MMCA Sri Lanka’s current exhibition ‘88 Acres: The Watapuluwa Housing Scheme by Minnette De Silva’, offering readers unparalleled access to primary research and previously unpublished archival materials. Among the highlights of this publication is a transcript of the animated documentary ‘is this an architectural documentary?’ (2023) by contemporary artists Irushi Tennekoon, Sumedha Kelegama, and Sumudu Athukorala, which provides valuable insights into De Silva’s visionary approach.
-
-...
-
-[Data](articles/4e51e615.json)
-
-[Extended Data](ext_articles/4e51e615.ext.json)
 
 ---

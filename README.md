@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 11:17:45**
+As of **2024-03-09 11:33:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,813 (100.0%) of 11,815 articles have been extended.
+11,815 (100.0%) of 11,815 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ It was also decided at the meeting to include titles 'Venerable' for Buddhist mo
 ◼️
 
 [Data](articles/140a8e2a.json)
+
+[Extended Data](ext_articles/140a8e2a.ext.json)
 
 ---
 
@@ -171,6 +173,8 @@ The suspects, aged between 28 and 45 were identified as residents of Kotadeniya 
 ◼️
 
 [Data](articles/49e2b499.json)
+
+[Extended Data](ext_articles/49e2b499.ext.json)
 
 ---
 

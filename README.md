@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 13:17:39**
+As of **2024-03-09 13:33:22**
 
 ## Newspaper Stats
 
-*Scraped **11,824** Articles*
+*Scraped **11,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 619
 islandlk | 636
 adalk | 999
 tamilmirrorlk | 1,431
-adaderanalk | 1,436
+adaderanalk | 1,437
 virakesarilk | 1,627
 dailymirrorlk | 1,811
-adaderanasinhalalk | 1,855
+adaderanasinhalalk | 1,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,824 (100.0%) of 11,824 articles have been extended.
+11,824 (100.0%) of 11,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Australia’s Great Barrier Reef hit by mass coral bleaching
+
+*2024-03-09 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97837/australias-great-barrier-reef-hit-by-mass-coral-bleaching) · `en`
+
+Australia’s Great Barrier Reef has been hit by a major coral bleaching event likely caused by heat stress built up over the summer at the biologically diverse site, a government agency has said.
+
+The Great Barrier Reef Marine Park Authority (GBRMPA), which monitors the reef’s health, said on Friday that the damage was “widespread” in at least two-thirds of the areas surveyed at the UNESCO World Heritage Site.
+
+The reef, a living organism, stretches some 2,300km (1,429 miles) off the northeastern coast of Australia and is considered one of the most species-rich habitats on earth. It is home to hundreds of coral, 1,500 fish species and 4,000 different molluscs.
+
+Coral reefs are an important part of marine life as they house more than a quarter of all sea life on Earth, provide protection for coastal communities, and are natural carbon sinks. Climate change is the biggest threat to their survival because of their sensitivity to heat.
+
+...
+
+[Data](articles/7e3dcff0.json)
+
+---
+
+### කැනඩාවේ සහාසික ඝාතකයා ගැන නැන්දණිය හෙළිදරව්වක්
+
+*2024-03-09 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194315) · `si`
+
+කැනඩාවේ ඔටාවා අගනුවර පදිංචිව සිටි ශ්‍රී ලාංකිකයින් 06 දෙනෙකු නිවස තුළදීම සාහසික ලෙස ඝාතනය කරනු ලැබු ශ්‍රී ලාංකික තරුණයා පිළිබඳව තවත් තොරතුරු රැසක් එරට මාධ්‍ය වාර්තා කර තිබේ.
+
+කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු සිය නිවස තුළදී එලෙස සාහසික ලෙස ඝාතනයට ලක්විය.
+
+සිද්ධිය සම්බන්ධයෙන් එරට පොලීසිය කැනඩාවේ ඉගෙනුම ලබමින් සිටි 19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසා නම් ශ්‍රී ලාංකික තරුණයෙකු අත්අඩංගුවට ගනු ලැබුවේ එම නිවස තුළ රැඳී සිටියදීය.
+
+මේ වනවිට එම තරුණයාට මිනිමැරීම සහ මිනී මැරීමට උත්සාහ කිරීම යන චෝදනා එල්ල කර තිබේ.
+
+ඔටාවා ඉතිහාසයේ සිදුවු දරුණුතම සමූහ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට පත් සැකකාර ෆ්‍රෑන්ක් ද සොයිසාගේ පවුලේ සාමාජිකයින් පවසන්නේ ඔහුගේ හැසිරීම මෑත කාලයේදී ඉතා ඉක්මනින් වෙනස්වීමකට ලක්වු බවය.
+
+ඒ සම්බන්ධයෙන් ෆ්‍රෑන්ක් ද සොයිසාගේ නැන්දණිය වන අනූෂා ද සොයිසා කැනේඩියානු මාධ්‍ය වෙත අදහස් දක්වා තිබුණි.
+
+...
+
+[Data](articles/18ed4b61.json)
+
+---
 
 ### Temperature will increase further today
 
@@ -2223,43 +2263,5 @@ Most of the members of the PA have been able to understand the boycott of the PA
 [Data](articles/1edbc52c.json)
 
 [Extended Data](ext_articles/1edbc52c.ext.json)
-
----
-
-### Indian Ocean Security Conference & Ranil’s Statement – A Point Of View
-
-*2024-03-08 17:33:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/indian-ocean-security-conference-ranils-statement-a-point-of-view/) · `en`
-
-I refer to the front page headlined news report in the Daily News paper of 29th February 2024 and wish to express my independent, objective views as a free thinker.
-
-Indian Ocean as the name suggest is virtually India’s Ocean, because India is the predominant country in the region. The security of the Indian Ocean is a major concern of India, as much as those of the other littoral countries, including Sri Lanka. In this light, saying that Sri Lanka will remain neutral is preposterous. Sri Lanka’s security is also tied up with the Indian Ocean Security. Therefore, it cannot remain neutral and do nothing about it.
-
-...
-
-[Data](articles/5e8f72fc.json)
-
-[Extended Data](ext_articles/5e8f72fc.ext.json)
-
----
-
-### Save foreign woman
-
-*2024-03-08 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194299) · `si`
-
-A foreign woman was rescued from a break at Mirissa Beach by police officers from the 72167 Manjula, Police Constable 20373 Lahiru, and others.
-
-🟩
-
-A foreign woman who was traveling to the sea at the Mirissa Beach in the Kotawila Police Division has been hacked to a break.
-
-Police said the police officers attached to the police tourist area on duty at the time.
-
-The officers of the 72167 Manjula, Police Constable 20373 Lahiru and Police Constables have rescued.
-
-◼️
-
-[Data](articles/5f1cc20d.json)
-
-[Extended Data](ext_articles/5f1cc20d.ext.json)
 
 ---

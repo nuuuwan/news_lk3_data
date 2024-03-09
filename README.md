@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 05:37:09**
+As of **2024-03-09 06:16:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,767 (99.9%) of 11,775 articles have been extended.
+11,775 (100.0%) of 11,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -156,6 +156,8 @@ Amaraweera added: ‘Due to the intervention of President Ranil Wickremesinghe a
 
 [Data](articles/5e15a9c2.json)
 
+[Extended Data](ext_articles/5e15a9c2.ext.json)
+
 ---
 
 ### Cey-Nor Foundation in partnership with SLT Digital Services for a dynamic new website launch
@@ -169,6 +171,8 @@ Dr. Dulan Hettiarachchi, the Chairman of Cey-Nor Foundation Limited, emphasized 
 ...
 
 [Data](articles/f7b2c061.json)
+
+[Extended Data](ext_articles/f7b2c061.ext.json)
 
 ---
 
@@ -186,6 +190,8 @@ As a result, non-Uber One members are expected to pay about the same level of de
 
 [Data](articles/0d565803.json)
 
+[Extended Data](ext_articles/0d565803.ext.json)
+
 ---
 
 ### TikTok announces specialized workshops program to empower Sri Lankan female entrepreneurs
@@ -199,6 +205,8 @@ In an era where digital platforms play a central role in organizational success,
 ...
 
 [Data](articles/d5e74bf0.json)
+
+[Extended Data](ext_articles/d5e74bf0.ext.json)
 
 ---
 
@@ -330,6 +338,8 @@ Offering an unprecedented opportunity to prospective homeowners and investors to
 
 [Data](articles/26fe310e.json)
 
+[Extended Data](ext_articles/26fe310e.ext.json)
+
 ---
 
 ### The Event Management Association: Enhancing professional standards and setting industry benchmarks
@@ -341,6 +351,8 @@ The Event Management Association (EMA), the only professional industry body in S
 ...
 
 [Data](articles/4e4cd326.json)
+
+[Extended Data](ext_articles/4e4cd326.ext.json)
 
 ---
 
@@ -379,6 +391,8 @@ The Museum of Modern and Contemporary Art Sri Lanka (MMCA Sri Lanka) announces t
 ...
 
 [Data](articles/4e51e615.json)
+
+[Extended Data](ext_articles/4e51e615.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 18:19:38**
+As of **2024-03-09 18:33:47**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 1,866
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,854 (100.0%) of 11,855 articles have been extended.
+11,855 (100.0%) of 11,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### T20 තරගාවලි ජය ශ්‍රී ලංකාවට
+### Sri Lanka wins T20
 
 *2024-03-09 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194327) · `si`
 
-බංග්ලාදේශ කණ්ඩායම සමග පැවැති 3 වන 20-20 තරගය ලකුණු 28කින් ජයගත් ශ්‍රී ලංකා කණ්ඩායම තරගාවලිය 2ට 1ක් ලෙස අද (09) ජය හිමිකර ගත්තේය.
+Sri Lanka defeats Bangladesh in the 3rd T20 match by 28 runs.
+
+🟩
+
+Sri Lanka won the 3rd 20-20 match with Bangladesh by 28 runs today.
 
 ◼️
 
 [Data](articles/844bb124.json)
+
+[Extended Data](ext_articles/844bb124.ext.json)
 
 ---
 

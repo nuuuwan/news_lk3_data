@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 21:17:55**
+As of **2024-03-09 21:33:09**
 
 ## Newspaper Stats
 
-*Scraped **11,870** Articles*
+*Scraped **11,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 1,441
 adaderanalk | 1,444
 virakesarilk | 1,632
 dailymirrorlk | 1,817
-adaderanasinhalalk | 1,870
+adaderanasinhalalk | 1,871
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,870 (100.0%) of 11,870 articles have been extended.
+11,870 (100.0%) of 11,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### විදේශිකයන්ගේ ජාවාරම් සොයන්න කණ්ඩායමක් දකුණට යවයි
+
+*2024-03-09 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194332) · `si`
+
+සංචාරක වීසා මත මෙරටට පැමිණ සිටින රුසියානු සහ යුක්‍රේන ජාතිකයන් ව්‍යාපාරවල නිරතවන බවට සාක්ෂි සාධක සහිතව "අද දෙරණ උකුස්සා" රට හමුවේ අනාවරණය කළේය.
+
+ඒ අනුව, අපගේ අනාවරණය සම්බන්ධයෙන් සොයාබැලීමට ආගමන විගමන පාලකවරයා ඇතුළු නිලධාරීන් කණ්ඩායමක් එළැඹෙන සහිතයේදී එම ප්‍රදේශයේ සංචාරය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/eb9c1575.json)
+
+---
 
 ### A businessman abducted by gem stone
 
@@ -348,9 +362,9 @@ Sri Lanka won the 3rd 20-20 match with Bangladesh by 28 runs today.
 
 *2024-03-09 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97840/sanitary-napkins-subjected-to-unreasonably-high-taxes-in-sri-lanka-analysis) · `en`
 
-The total tax burden on sanitary napkins in Sri Lanka currently sits at 47.1%, which is a significantly higher rate compared to the tax levied on selected non-essentials items, gold jewellery, raw silk, golf clubs and golf balls and military artillery weapons, the PublicFinance.lk revealed.
+The total tax burden on sanitary napkins in Sri Lanka currently sits at 47.1%, which is a significantly higher rate compared to the tax levied on selected non-essential items, gold jewellery, raw silk, golf clubs and golf balls and military artillery weapons, the PublicFinance.lk revealed.
 
-PublicFinance.lk is run by Verité Research, an independent think tank that provides strategic analysis for Asia in the areas of economics, politics, law, and media.
+PublicFinance.lk, run by Verité Research, an independent think tank that provides strategic analysis for Asia in the areas of economics, politics, law, and media.
 
 Citing figures from Sri Lanka Customs, the PublicFinance.lk revealed that sanitary napkins are subjected to unreasonably high taxes in Sri Lanka, which amounts to 47.1% as opposed to 30.6% on gold jewellery, 22.3% raw silk, and 22.3% golf clubs, golf balls and military artillery weapons.
 
@@ -2317,23 +2331,5 @@ Dr. Dulan Hettiarachchi, the Chairman of Cey-Nor Foundation Limited, emphasized 
 [Data](articles/f7b2c061.json)
 
 [Extended Data](ext_articles/f7b2c061.ext.json)
-
----
-
-### Uber Eats Sri Lanka introduces service fee
-
-*2024-03-08 23:36:00* · [`islandlk`](http://island.lk/uber-eats-sri-lanka-introduces-service-fee/) · `en`
-
-Uber Eats Sri Lanka has announced the introduction of a service fee on orders on the popular food and grocery delivery app. From February 29, customers will notice a restructuring in fees, aimed at sustaining a reliable and efficient food delivery service.
-
-While ordering from the Uber Eats app, consumers will now pay delivery charges that comprise both delivery and service fee. The service fee component will be equal to 5% of an order’s value, will range from LKR 25 to LKR 125, and will be visible to customers at checkout, before they confirm the order. The introduction of t his service fee will correspond to a lowered average delivery fee for both food and grocery orders. Small order fees will no longer be charged to all customers
-
-As a result, non-Uber One members are expected to pay about the same level of delivery charges comprising a lowered average delivery fee when selecting food or grocery items and an additional service fee visible during check out.
-
-...
-
-[Data](articles/0d565803.json)
-
-[Extended Data](ext_articles/0d565803.ext.json)
 
 ---

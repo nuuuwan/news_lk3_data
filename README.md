@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 21:52:12**
+As of **2024-03-09 22:04:04**
 
 ## Newspaper Stats
 
-*Scraped **11,872** Articles*
+*Scraped **11,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,44 +19,52 @@ adalk | 1,000
 tamilmirrorlk | 1,441
 adaderanalk | 1,444
 virakesarilk | 1,632
-dailymirrorlk | 1,817
+dailymirrorlk | 1,819
 adaderanasinhalalk | 1,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,871 (100.0%) of 11,872 articles have been extended.
+11,872 (100.0%) of 11,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### ඇල්පිටියේදී සිදුකළ ඝාතනයේ තොරතුරු රැසක් එළියට
+### The murder case in Elpitiya
 
 *2024-03-09 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194333) · `si`
 
-ගෙල කපා ඝාතනය කළ 17 හැවිරිදි තරුණියකගේ සිරුරක් ඇල්පිටිය තලාව ප්‍රදේශයේ තේ වත්තක තිබී අද (09) සොයා ගැණුනි.
+A 17-year-old girl was murdered in Elpitiya. Her brother-in-law was abducted and found by police. The victim, Hansika Nadeeshani, had a close relationship with her sister's husband. She was taken to her sister's house in Elpitiya, then to her brother-in-law's. A police investigation revealed she was killed in a tea estate in Thalgahawatta.
 
-ඇගේ මස්සිනා විසින් ඇයව පැහැරගෙන ගොස් ඇති අතර ඔහු සොයා පොලිස් විමර්ශන ක්‍රියාත්මකය.
+🟩
 
-එසේ ඝාතනය කර තිබුණේ කරන්දෙණිය, තල්ගහවත්ත ප්‍රදේශයේ පදිංචි හංසිකා නදීෂානි නමැති තරුණියකි.
+A 17-year-old girl was found in a tea estate in the Elpitiya Talawa.
 
-ඇගේ සහෝදරිය ඇල්පිටිය මන්නකන්ද ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ඇගේ දරු දෙදෙනා බලාගැනීම සඳහා මාස එකහමාරකට පෙර හංසිකා ඒ නිවස වෙත ගොස් තිබුණි.
+Her brother-in-law has been abducted and he found the Police Investigation.
 
-ඒ අතරතුර සහෝදරියගේ සැමියා සමග ඇය සමීප සබඳතාවක් පවත්වාගෙන ගොස් තිබූ බව සඳහන් ය.
+Hansika Nadeeshani, a resident of Thalgahawatta, is being murdered.
 
-හංසිකාගේ පියා පවසන්නේ,  පසුගිය පෙබරවාරි 23 වැනිදා නිවසට පැමිණි සිය බෑනා සිය බාල දියණිය බලහත්කාරයෙන් රැගෙන ගිය බවය.
+Her sister had resided in Mannakanda area in Elpitiya and Hansika had gone to the house a month and a half before the care of her two children.
 
-පසුව යළිත් වතාවක් හංසිකාගේ නිවසට පැමිණි මස්සිනා ඇය පසුගිය දිනක යළිත් රැගෙන ගොස් තිබේ.
+In the meantime, she had a close relationship with the husband of the sister.
 
-ඒ අතරවාරයේ හංසිකා දුරකථන ඇමතුමක් ලබාදී මවට පවසා ඇත්තේ බලහත්කාරයෙන් රඳවා තබා සිටින තමාව බේරාගන්නා ලෙසය.
+Hanii's father says his son-in-law was forcibly taken to his house on February 23.
 
-හංසිකාගේ පියා - "ආපසු ඇවිත් එයාව අරන් ගිහින්. හැමතැනම හෙව්වා හම්බවුණේ නැහැ. 5 වැනිදා එයාම කිව්වාම තමයි අපි දන්නේ."
+She was once again taken to Hanici's home and her brother-in-law.
+
+In the meantime, Hansical phone call and told his mother to save him.
+
+Hanicha's father - "returned and took him. Didn't find hearing everywhere. That's when he said that he was told. "
+
+Hanchae's Father - "No letting go anywhere. The cake has been working on. That was the column. Mom went and got up on the 5th. Complaints of the Police on the 6th. "
 
 ...
 
 [Data](articles/1f4304a1.json)
+
+[Extended Data](ext_articles/1f4304a1.ext.json)
 
 ---
 
@@ -438,6 +446,18 @@ President Ranil Wickremesinghe was invited to the party leaders representing the
 
 ---
 
+### State Minister of Defence graces Air Tattoo in Jaffna
+
+*2024-03-09 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/State-Minister-of-Defence-graces-Air-Tattoo-in-Jaffna/110-278550) · `en`
+
+The fourth day of the 'Air Tattoo 2024' educational and technological exhibition held at the Muttraweli Ground in Jaffna today. State Minister of Defence Pramitha Bandara Thennakoon, attended the event as the Chief Guest. Air Marshal Udeni Rajapaksa, the Commander of the Air Force, extended a warm welcome to the Chief Guest. Pix by  Pradeep Pathirana
+
+◼️
+
+[Data](articles/7107abcb.json)
+
+---
+
 ### Parliament Bus Pass will not be canceled
 
 *2024-03-09 17:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-பஸ்-பாஸ்-இரத்து-செய்யப்படாது/175-334427) · `ta`
@@ -815,6 +835,30 @@ Fitch Ratings – Colombo – 07 Mar 2024: Fitch Ratings has affirmed Dialog Fin
 [Data](articles/2369c758.json)
 
 [Extended Data](ext_articles/2369c758.ext.json)
+
+---
+
+### Details emerge on victims in Canada mass killing; father is recovering
+
+*2024-03-09 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Details-emerge-on-victims-in-Canada-mass-killing-father-is-recovering/155-278547) · `en`
+
+March 09, (BBC) -  The Sri Lankan father who survived the mass murder of his family in Canada said he returned home from work on Wednesday to find his wife and four young children had been killed.
+
+Dhanushka Wickramasinghe, 34, was also attacked but managed to subdue the suspect.
+
+He is now recovering in hospital from a slash to the eye and one of his hands.
+
+A 19-year-old Sri Lankan student who was living with the family was charged with the deaths
+
+The new details of the night the Wickramasinghe family was killed emerged from a series of media interviews with Bhante Suneetha, the resident monk at a local Buddhist monastery in Ottawa that the family attended.
+
+Mr Suneetha, who visited the father in hospital on Thursday, said he is in "great shock" over what happened.
+
+Police in Ottawa discovered the slain family at their townhouse in the Barrhaven suburb after responding to emergency calls placed at around 22:52 local time (03:52 GMT) on Wednesday.
+
+...
+
+[Data](articles/0043f312.json)
 
 ---
 
@@ -2311,43 +2355,5 @@ How much of a window to India that Sri Lanka could now aspire to be is open to q
 [Data](articles/e134b3c6.json)
 
 [Extended Data](ext_articles/e134b3c6.ext.json)
-
----
-
-### Can protesting undergrads think of a ‘new’ colour?
-
-*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-protesting-undergrads-think-of-a-new-colour/172-278513) · `en`
-
-Parents of university students are a worried lot at present. This is because there is speculation that their children in university may be featuring in a number of protests throughout March, according media reports.
-
-There are the pluses and minuses of such protests. Protests of this nature will certainly be of news value to the media. Protesting undergrads have often won their rights and also the hearts of the down-trodden masses. But from the perspective of the country’s economy and the future of these students there are people who disapprove of such violent gatherings. Critics ask the question whether such gatherings have to be so disruptive and violent at times! They in return ask the question whether these undergraduates cannot think of an innovative way of staging a protest that will grab the attention of the government and also win their demands?
-
-...
-
-[Data](articles/e66a826b.json)
-
-[Extended Data](ext_articles/e66a826b.ext.json)
-
----
-
-### 2024-03-08 (Friday)
-
-### Ministry of Agriculture pays bulk of fertilizer credit owed by farmers to private sector
-
-*2024-03-08 23:37:00* · [`islandlk`](http://island.lk/ministry-of-agriculture-pays-bulk-of-fertilizer-credit-owed-by-farmers-to-private-sector/) · `en`
-
-Nearly 93 percent of the Rs. 23,000 million fertilizer credit owed by farmers to the private sector that was left unpaid for five years was paid on their behalf last year, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-The minister told journalists recently that until 2021, due to the purchase of fertilizer on credit, the Ministry of Agriculture was supposed to pay farmers’ arrears amounting to Rs.23,000 million to the private sector.
-
-Amaraweera added: ‘Due to the intervention of President Ranil Wickremesinghe as the Minister of Finance, 95 percent of the credit amount, resulting from the purchase of chemical fertilizers from the private sector, was settled.
-
-‘Accordingly, by last year, the government provided the necessary financial allocation to pay an amount of Rs.18,000 million.
-
-...
-
-[Data](articles/5e15a9c2.json)
-
-[Extended Data](ext_articles/5e15a9c2.ext.json)
 
 ---

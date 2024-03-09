@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 21:33:09**
+As of **2024-03-09 21:52:12**
 
 ## Newspaper Stats
 
-*Scraped **11,871** Articles*
+*Scraped **11,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,63 @@ tamilmirrorlk | 1,441
 adaderanalk | 1,444
 virakesarilk | 1,632
 dailymirrorlk | 1,817
-adaderanasinhalalk | 1,871
+adaderanasinhalalk | 1,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,870 (100.0%) of 11,871 articles have been extended.
+11,871 (100.0%) of 11,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### විදේශිකයන්ගේ ජාවාරම් සොයන්න කණ්ඩායමක් දකුණට යවයි
+### ඇල්පිටියේදී සිදුකළ ඝාතනයේ තොරතුරු රැසක් එළියට
+
+*2024-03-09 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194333) · `si`
+
+ගෙල කපා ඝාතනය කළ 17 හැවිරිදි තරුණියකගේ සිරුරක් ඇල්පිටිය තලාව ප්‍රදේශයේ තේ වත්තක තිබී අද (09) සොයා ගැණුනි.
+
+ඇගේ මස්සිනා විසින් ඇයව පැහැරගෙන ගොස් ඇති අතර ඔහු සොයා පොලිස් විමර්ශන ක්‍රියාත්මකය.
+
+එසේ ඝාතනය කර තිබුණේ කරන්දෙණිය, තල්ගහවත්ත ප්‍රදේශයේ පදිංචි හංසිකා නදීෂානි නමැති තරුණියකි.
+
+ඇගේ සහෝදරිය ඇල්පිටිය මන්නකන්ද ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ඇගේ දරු දෙදෙනා බලාගැනීම සඳහා මාස එකහමාරකට පෙර හංසිකා ඒ නිවස වෙත ගොස් තිබුණි.
+
+ඒ අතරතුර සහෝදරියගේ සැමියා සමග ඇය සමීප සබඳතාවක් පවත්වාගෙන ගොස් තිබූ බව සඳහන් ය.
+
+හංසිකාගේ පියා පවසන්නේ,  පසුගිය පෙබරවාරි 23 වැනිදා නිවසට පැමිණි සිය බෑනා සිය බාල දියණිය බලහත්කාරයෙන් රැගෙන ගිය බවය.
+
+පසුව යළිත් වතාවක් හංසිකාගේ නිවසට පැමිණි මස්සිනා ඇය පසුගිය දිනක යළිත් රැගෙන ගොස් තිබේ.
+
+ඒ අතරවාරයේ හංසිකා දුරකථන ඇමතුමක් ලබාදී මවට පවසා ඇත්තේ බලහත්කාරයෙන් රඳවා තබා සිටින තමාව බේරාගන්නා ලෙසය.
+
+හංසිකාගේ පියා - "ආපසු ඇවිත් එයාව අරන් ගිහින්. හැමතැනම හෙව්වා හම්බවුණේ නැහැ. 5 වැනිදා එයාම කිව්වාම තමයි අපි දන්නේ."
+
+...
+
+[Data](articles/1f4304a1.json)
+
+---
+
+### Sending a team to the south of foreigners
 
 *2024-03-09 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194332) · `si`
 
-සංචාරක වීසා මත මෙරටට පැමිණ සිටින රුසියානු සහ යුක්‍රේන ජාතිකයන් ව්‍යාපාරවල නිරතවන බවට සාක්ෂි සාධක සහිතව "අද දෙරණ උකුස්සා" රට හමුවේ අනාවරණය කළේය.
+Ada Donna Bownsa, suspected of Russian and Ukrainian ties, has been identified in the country with a tourist visa. Immigration and Emigration Controllers, along with other officials, are en route to the area for investigation.
 
-ඒ අනුව, අපගේ අනාවරණය සම්බන්ධයෙන් සොයාබැලීමට ආගමන විගමන පාලකවරයා ඇතුළු නිලධාරීන් කණ්ඩායමක් එළැඹෙන සහිතයේදී එම ප්‍රදේශයේ සංචාරය කිරීමට නියමිතය.
+🟩
+
+"Today Ada donna bewnsa has been revealed in the country with the evidence of Russian and Ukrainians of the tourist visa.
+
+Accordingly, a group of Immigration and Emigration Controller and other officials are to visit the area in connection with their detection.
 
 ◼️
 
 [Data](articles/eb9c1575.json)
+
+[Extended Data](ext_articles/eb9c1575.ext.json)
 
 ---
 
@@ -2315,21 +2349,5 @@ Amaraweera added: ‘Due to the intervention of President Ranil Wickremesinghe a
 [Data](articles/5e15a9c2.json)
 
 [Extended Data](ext_articles/5e15a9c2.ext.json)
-
----
-
-### Cey-Nor Foundation in partnership with SLT Digital Services for a dynamic new website launch
-
-*2024-03-08 23:37:00* · [`islandlk`](http://island.lk/cey-nor-foundation-in-partnership-with-slt-digital-services-for-a-dynamic-new-website-launch/) · `en`
-
-Cey-Nor Foundation Limited, Sri Lanka’s sole government entity specializing in boat and marine equipment manufacturing, proudly unveils its revamped website, signaling a strategic move towards global outreach and enhanced digital engagement. Entrusting their digital transformation to SLT DIGITAL SERVICES highlights Cey-Nor’s progressive vision to adapt and thrive in today’s digital age.
-
-Dr. Dulan Hettiarachchi, the Chairman of Cey-Nor Foundation Limited, emphasized the pressing need for Sri Lanka to capitalize on the burgeoning demand for fish products in international markets, notably Europe and Japan. He stated, “For two centuries, we exported traditional products like tea and rubber. Similarly, there’s untapped potential in exporting fish to these markets. Cey-Nor, with its extensive boat-building capabilities, stands poised to play a pivotal role by augmenting fiber boat production and leveraging technologies like solar power for sustainable, multi-day vessels.”
-
-...
-
-[Data](articles/f7b2c061.json)
-
-[Extended Data](ext_articles/f7b2c061.ext.json)
 
 ---

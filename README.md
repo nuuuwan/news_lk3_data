@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 06:44:17**
+As of **2024-03-09 07:03:18**
 
 ## Newspaper Stats
 
-*Scraped **11,778** Articles*
+*Scraped **11,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 617
 dailyftlk | 617
 islandlk | 635
 adalk | 997
-tamilmirrorlk | 1,419
-adaderanalk | 1,428
+tamilmirrorlk | 1,422
+adaderanalk | 1,429
 virakesarilk | 1,623
 dailymirrorlk | 1,803
 adaderanasinhalalk | 1,847
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,847
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,775 (100.0%) of 11,778 articles have been extended.
+11,778 (100.0%) of 11,782 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Skipper Sineth Jayawardena and Ovina Ambanpola came to the rescue of Royal  Col
 ◼️
 
 [Data](articles/5979cd7e.json)
+
+[Extended Data](ext_articles/5979cd7e.ext.json)
 
 ---
 
@@ -57,6 +59,42 @@ This book follows “Press vs the Prez” and the memo of Former President Gotab
 ◼️
 
 [Data](articles/f15bbe70.json)
+
+[Extended Data](ext_articles/f15bbe70.ext.json)
+
+---
+
+### தீ பற்றிய மோட்டார் சைக்கிள் இருவர் தப்பினர்
+
+*2024-03-09 05:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தீ-பற்றிய-மோட்டார்-சைக்கிள்-இருவர்-தப்பினர்/72-334405) · `ta`
+
+மன்னார் திருக்கேதீஸ்வரத்தில் சிவராத்திரியை அனுஷ்டிப்பதற்கு யாழ் - மன்னார் பிரதான வீதியூடாக மன்னார் திருக்கேதீஸ்வரம் ஆலயம் நோக்கி, வெள்ளிக்கிழமை (08) மாலை    இருவர் மோட்டார் சைக்கிளில் வந்து கொண்டிருந்த போது குறித்த மோட்டார் சைக்கிள் திடீரென தீப்பற்றியது.
+
+இதன் போது குறித்த மோட்டார் சைக்கிளில் பயணித்த இருவரும் மோட்டார் சைக்கிளில் இருந்து பாய்ந்து அதிர்ஷ்டவசமாக உயிர் தப்பினர்.
+
+குறித்த சம்பவம்   யாழ் -மன்னார் பிரதான வீதி பள்ளமடு வீதியில் இடம் பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/45b28eb5.json)
+
+---
+
+### தண்டவாளத்தில் ஓடிய பஸ்
+
+*2024-03-09 05:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-ஓடிய-பஸ்/175-334403) · `ta`
+
+தனியார் பஸ்ஸொன்றின் சுக்கான் இறுகியதால் அந்த பஸ், ரயில் தண்டவாளத்தில் ஓடிய சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+கனேமுல்ல புகையிரத நிலையத்தில் வெள்ளிக்கிழமை  (8) பிற்பகல் இந்த சம்பவம் இடம்பெற்றுள்ளது என்றும். அந்த பஸ் புகையிரத பாதையை சேதப்படுத்தியுள்ளதாக புகையிரத திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+கொழும்பு நோக்கி செல்லும் புகையிரத பாதை சேதமடைந்துள்ளதாகவும், இதன் காரணமாக புகையிரத போக்குவரத்து தடைப்பட்டுள்ளதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+
+மாலை 6.55 மணியளவில்   புகையிரத பாதையில்  பஸ் ஓடியதுடன் புகையிரத பாதையில் நிறுத்தப்பட்டதால் பிரதான வீதியில் புகையிரத போக்குவரத்திற்கு இடையூறு ஏற்பட்டதாகவும் சம்பவம் தொடர்பில் கணேமுல்ல பொலிஸார் மற்றும் புகையிரத திணைக்களம் விசாரணைகளை மேற்கொண்டு வருவதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/00bf2a96.json)
 
 ---
 
@@ -317,6 +355,26 @@ Devotees who visited many parts of the country participated in the event and obt
 [Data](articles/b21ce10f.json)
 
 [Extended Data](ext_articles/b21ce10f.ext.json)
+
+---
+
+### Plans afoot to implement cluster education system by amalgamating multiple schools
+
+*2024-03-08 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97828/plans-afoot-to-implement-cluster-education-system-by-amalgamating-multiple-schools) · `en`
+
+The “Presidential Scholarship” program proposed by President Ranil Wickremesinghe holds immense potential to provide crucial assistance to economically disadvantaged students, says State Minister for Education Aravindh Kumar.
+
+This initiative is geared towards supporting 100,000 students during the 2024/2025 academic year, he added.
+
+The state minister expressed confidence that this program would play a pivotal role in facilitating the successful completion of education for these students.
+
+Moreover, Kumar emphasized plans to establish 20 Zonal Education Offices as part of ongoing education reforms. These offices are envisioned to play a pivotal role in implementing future educational initiatives and ensuring the efficient administration of educational policies.
+
+He shared these views during the media briefing at the Presidential Media Centre (PMC) today.
+
+...
+
+[Data](articles/53e941ec.json)
 
 ---
 
@@ -1203,6 +1261,8 @@ Indian Ocean as the name suggest is virtually India’s Ocean, because India is 
 ...
 
 [Data](articles/5e8f72fc.json)
+
+[Extended Data](ext_articles/5e8f72fc.ext.json)
 
 ---
 
@@ -2201,65 +2261,5 @@ In 2006, Mahaha went to England and joined his father's family and shedding medi
 [Data](articles/dbf8410c.json)
 
 [Extended Data](ext_articles/dbf8410c.ext.json)
-
----
-
-### The Steps To Achieve Justice In Sri Lanka
-
-*2024-03-08 12:50:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-steps-to-achieve-justice-in-sri-lanka/) · `en`
-
-Under President Mahinda Rajapaksa’s tenure, the Sri Lankan civil war, which spanned from 1983 to 2009, reached its brutal conclusion on May 18, 2009. This marked the end of a 25-year conflict between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE), a separatist rebel group. The conflict stemmed from longstanding grievances, including discriminatory policies against the Tamil minority, perpetrated by successive governments dominated by the Sinhala-Buddhist community. The LTTE sought to establish a separate state in the North and East of Sri Lanka, leading to a protracted and violent struggle. During the final stages of the war, an estimated 40,000 Tamil civilians were killed, predominantly in the rebel-hold north of the country (Lynch, 2011). The Sri Lankan military achieved a decisive victory, decimating the entire military leadership of the LTTE, including its leader Velupillai Prabhakaran.
-
-...
-
-[Data](articles/2f65bb9f.json)
-
-[Extended Data](ext_articles/2f65bb9f.ext.json)
-
----
-
-### 'How I write': Saman Wickremarachchi
-
-*2024-03-08 12:45:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c97w5vv58y7o) · `si`
-
-Saman Wickremarachchi, a Sinhala literature critic and translator, discusses his writing process, emphasizing the importance of exploring subjectivity and the influence of philosophical and theoretical readings on his work. He describes his writing as a cluttered process, where ideas and characters evolve during writing.
-
-🟩
-
-Saman Wickramarachchi is a literary that feeds in a number of Sinhala literature.
-
-The novels of 'Astandipalat' and 'Agrate' and 'Father' were assessed.
-
-As a literary critic, a translator and a short-story, is by means of trying to advance Sinhala literature from its limits.
-
-I talk to him with the objective of understanding his feelings and writing when he joined him as a novelist.
-
-The questions I hear in this discussion is currently published by I have published 'Nimna's History' (2019) and writes from this linkker '(2014) and the experiences I have faced.
-
-It is well known for all writer's writing process. Where writing, writing, writing, belong to the writer's abundance.
-
-The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-...
-
-[Data](articles/6b898500.json)
-
-[Extended Data](ext_articles/6b898500.ext.json)
-
----
-
-### Electoral Prospects In India & Tamil Nadu Have Better Predictability Now
-
-*2024-03-08 12:38:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/electoral-prospects-in-india-tamil-nadu-have-better-predictability-now/) · `en`
-
-BJP and Modi commenced their electoral journey earlier this time than in 2014 and 2019. Yet to be on terra firma the opposing formation has still not pulled its act together. To forecast with fair accuracy, diligent study is of the essence. Both political and electoral dynamics together with statistical data need to be keenly recognized. In the forthcoming elections, growing disarray of the opposition formations have inevitably placed difficulties in the facile movement of the BJP. An examination of Lok Sabha elections from 1991 would show how party alliances have become an important part of seat trading.
-
-...
-
-[Data](articles/d1abe36e.json)
-
-[Extended Data](ext_articles/d1abe36e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 22:17:48**
+As of **2024-03-09 22:33:06**
 
 ## Newspaper Stats
 
@@ -181,6 +181,10 @@ Frank de Zoysa, Aushandiya, aunt, has commented on the Canadian media.
 A person has been injured in a shooting that took place at Dandugama, Ja-ela, the police said.
 
 The injured individual has been admitted to the Ragama Hospital for treatment, according to police.
+
+Police said that two unidentified gunmen had opened fire at the 47-year-old in front of his house and fled the scene.
+
+Meanwhile, the injured person, named Manjula Sahan Fernando, was found to be a drug addict and involved in drug dealing, as per police.
 
 ◼️
 

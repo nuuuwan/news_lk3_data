@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 22:33:06**
+As of **2024-03-09 22:50:23**
 
 ## Newspaper Stats
 
-*Scraped **11,874** Articles*
+*Scraped **11,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 620
 islandlk | 636
 adalk | 1,000
 tamilmirrorlk | 1,441
-adaderanalk | 1,444
+adaderanalk | 1,445
 virakesarilk | 1,632
 dailymirrorlk | 1,819
 adaderanasinhalalk | 1,872
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,874 (100.0%) of 11,874 articles have been extended.
+11,874 (100.0%) of 11,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Irish voters reject constitutional amendment about women’s role in home
+
+*2024-03-09 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97845/irish-voters-reject-constitutional-amendment-about-womens-role-in-home) · `en`
+
+Irish Prime Minister Leo Varadkar conceded defeat Saturday as two constitutional amendments he supported that would have broadened the definition of family and removed language about a woman’s role at home were headed toward rejection in early vote tallies.
+
+Varadkar, who pushed the vote to enshrine gender equality in the constitution by removing “very old-fashioned language” and trying to recognize the realities of modern family life, said it was clear the amendments were “defeated comprehensively on a respectable turnout.”
+
+“It was our responsibility to convince the majority of people to vote ‘yes’ and we clearly failed to do so,” Varadkar said.
+
+Opponents argued that the wording of the changes was poorly thought out — an argument that appeared to have gained traction in the final days of the campaign. Voters said they were confused by the questions and others said they feared changes would lead to unintended consequences.
+
+...
+
+[Data](articles/9195a884.json)
+
+---
 
 ### The murder case in Elpitiya
 
@@ -2345,23 +2363,5 @@ For instance, in spite of the battle between the executive on behalf of the two 
 [Data](articles/ac5e037e.json)
 
 [Extended Data](ext_articles/ac5e037e.ext.json)
-
----
-
-### Harin Fernando is right Sri Lanka is part of civilizational India and should aspire to be part of economic India
-
-*2024-03-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Harin-Fernando-is-right-Sri-Lanka-is-part-of-civilizational-India-and-should-aspire-to-be-part-of-economic-India/172-278516) · `en`
-
-Every attempt by successive Sri Lankan governments to open up the local economy to the world has been obstructed by a minority of individuals and groups with vested interests. The picture shows Colombo Port City, a project funded by China, and these groups have been skeptical of such foreign investments
-
-Those days, I noted, when the queues get shortened, the country would revert to the old habits
-
-How much of a window to India that Sri Lanka could now aspire to be is open to question
-
-...
-
-[Data](articles/e134b3c6.json)
-
-[Extended Data](ext_articles/e134b3c6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 09:17:46**
+As of **2024-03-09 09:33:47**
 
 ## Newspaper Stats
 
-*Scraped **11,799** Articles*
+*Scraped **11,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 112
 bbccomsinhala | 139
 dbsjeyarajcom | 178
 newsfirstlk | 363
-economynextcom | 617
 dailyftlk | 617
+economynextcom | 618
 islandlk | 636
 adalk | 997
-tamilmirrorlk | 1,426
+tamilmirrorlk | 1,427
 adaderanalk | 1,432
-virakesarilk | 1,623
+virakesarilk | 1,624
 dailymirrorlk | 1,807
 adaderanasinhalalk | 1,852
 
@@ -26,41 +26,81 @@ adaderanasinhalalk | 1,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,794 (100.0%) of 11,799 articles have been extended.
+11,799 (100.0%) of 11,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### දරුවෙක් ඇතුළු තිදෙනෙක් දියේ ගිලී මරුට
+### அநுராதபுரத்தில் விபத்தை ஏற்படுத்தி விட்டு சாரதி தப்பி ஓட்டம்  ;  மூவர் பலி ; இருவர் காயம்
+
+*2024-03-09 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178298) · `ta`
+
+அநுராதபுரம், ரம்பேவ பகுதியில் இடம்பெற்ற வீதி விபத்தில்  மூன்று ஆண்கள் உயிரிழந்துள்ளதுடன், இரண்டு பெண்கள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இசை நிகழ்ச்சியொன்றில் கலந்து கொண்டு வீடு திரும்பிக் கொண்டிருந்த சிலர் மீதே கெப் ரக வாகனத்தை வேகமாக  ஓட்டி வந்த நபர்  வீதியில் சென்றவர்களை இடித்து தள்ளிவிட்டு அங்கிருந்து தப்பிச் சென்றுள்ளார்.
+
+விபத்தில் காயமடைந்த இரண்டு பெண்கள் தற்போது அநுராதபுரம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+◼️
+
+[Data](articles/acf0d3c2.json)
+
+---
+
+### Three killed in drowning
 
 *2024-03-09 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194311) · `si`
 
-ප්‍රදේශ දෙකක දී දරුවෙකු සහ පුද්ගලයින් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+Three people drowned: two adults in Chandanamaduar, Palatini, and a child in Uylukulam, Lady Thirukulama Lighty. The adults were 25 and 33, residents of the area. The child was a resident of Photictam.
 
-පොලීසිය පැවසුවේ සන්දිවෙල් සිත්තන්ඩි ප්‍රදේශයේ චන්දනමඩුආරු ඇළේ ගිලී පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බවය.
+🟩
 
-‍මෙලෙස මියගොස් ඇත්තේ අවුරුදු 25 හා 33 වයස්වල පසුවන සිත්තන්ඩි 02 ප්‍රදේශයේ පදිංචිව සිටි පුද්ගලයින් දෙ‍දෙනෙකි.
+Two children and two people were drowned in two areas.
 
-මෙම දෙදෙනා තවත් මිතුරන් කිහිපදෙනෙකු සමග ඊයේ (08) දහවල් කාලයේ දිය නෑමට ගොස් සිටිය දී මෙලෙස දියේ ගිලී ඇති බව සඳහන් වේ.
+Police said that Sandenel had killed two people in Chandanamaduar canal area in Palatini.
 
-ප්‍රදේශවාසීන් විසින් මොවුන් දෙදෙනාව මාවධිවෙම්ඹු රෝහලට ඇතුළත් කර ඇති අතර එහිදී ඔවුන් මියගොස් ඇති බව පොලීසිය පවසයි.
+The deceased have been identified as 25 and 33 years, two persons living in the area of the area.
 
-මේ අතර ඊයේ රාත්‍රියේ උයිලංකුලම තිරුකේදීෂ්වරම් පලාවි වැවේ දිය නෑමට ගිය දරුවෙකු දියේ ගිලී මියගොස් තිබේ.
+It is said that these two other friends were bathing in the afternoon yesterday (08).
 
-මෙලෙස මියගොස් ඇත්තේ 09 හැවිරිදි වව්නියාව පුන්තොට්ටම් ප්‍රදේශයේ පදිංචිව සිටි දරුවෙකි.
+The residents of the area have been admitted to the Macediva Hospital and they had died, police said.
 
-උයිලංකුලම තිරුකේෂ්වරම් කෝවිලේ පවත්වනු ලබන උත්සවයක් නැරඹීම සඳහා පිරිසක් සමග පැමිණ දිය නෑමට ගොස් සිටියදී මෙම දරුවා දියේ ගිලි ඇති බව විමර්ශන වලදී අනාවරණය වී තිබේ.
+Meanwhile, a child drowned with the Uylukulam Lady Thirukulama Lighty last night.
+
+The deceased has been identified as a child of a resident of Photictam.
+
+Investigations have revealed that the child had dull when he had come to watch a festival at Thirukulama Kovil.
 
 ◼️
 
 [Data](articles/d207d9d5.json)
 
+[Extended Data](ext_articles/d207d9d5.ext.json)
+
 ---
 
-### கோட்டாவின் முட்டாள்தனம் : சம்பிக்க விளக்கம்
+### ELEKTRATEQ to convert Sri Lanka petrol three-wheels to electric three-wheelers
 
-*2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க-விளக்கம்/175-334409) · `ta`
+*2024-03-09 09:00:00* · [`economynextcom`](https://economynext.com/elektrateq-to-convert-sri-lanka-petrol-three-wheels-to-electric-three-wheelers-153865/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s first fully-fledged electrical three-wheel and tricycle production facility at the Maradana Railway Department warehouse will convert petrol three-wheels and non-electric tricycles to run on electrical power in two hours.
+
+“The entire production process of the ELEKTRATEQ three-wheeler of the Vega company, is carried out in this manufacturing plant. The factory is equipped with all the necessary facilities to convert a three-wheeler running on petrol to electricity within two hours,” a statement by the Department of Government Information said.
+
+A project to convert 100 three wheels to electricity powered in a month is currently underway, the statement said.
+
+“A project to convert one hundred three-wheelers to electricity in one month in conjunction with a private financial institution is being implemented in this factory.
+
+...
+
+[Data](articles/2991e350.json)
+
+---
+
+### கோட்டாவின் முட்டாள்தனம்:சம்பிக்க
+
+*2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க/175-334409) · `ta`
 
 கோட்டாபய ராஜபக்சவை ஜனாதிபதி  பதவியிலிருந்து வெளியேற்ற தேசிய மற்றும் சர்வதேச சூழ்ச்சிகள் எதுவும் முன்னெடுக்கப்படவில்லை எனவும், அவரது முட்டாள்தனமாக நிர்வாகத்தால் பாரிய விளைவுகள் ஏற்பட்டதாகவும் பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்துள்ளார்.
 
@@ -72,7 +112,31 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/30475b6b.json)
+
+---
+
+### Kota's foolishness: the description of the champagne
+
+*2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க-விளக்கம்/175-334409) · `ta`
+
+Parliamentarian Patali Champika Ranawaka denies involvement in national and international maneuvers, while former President Gotabhaya Rajapaksa criticizes the Rajapaksas' economic policies and dismisses writing about the past as useless.
+
+🟩
+
+Parliamentarian Patali Champika Ranawaka has said that none of the national and international maneuvers have been carried out by his stupid administration.
+
+He was speaking to the media after attending an event in Nugegoda Nawala area.
+
+Former President Gotabhaya Rajapakse has ruled that the economic assassination. So writing a book about the past is useless. He said the people of the country did not take care of the Rajapaksas.
+
+Gotabhaya Rajapaksa's claim that the presidency is expelled from the conspiracy of national and internationalism is laughable.
+
+◼️
+
 [Data](articles/a23baa43.json)
+
+[Extended Data](ext_articles/a23baa43.ext.json)
 
 ---
 
@@ -91,6 +155,8 @@ Three male youths aged between 16 and 21 succumbed to their injuries while two f
 ◼️
 
 [Data](articles/d770f441.json)
+
+[Extended Data](ext_articles/d770f441.ext.json)
 
 ---
 
@@ -111,6 +177,8 @@ He said a shortage of domesticated elephants for religious and cultural ceremoni
 ◼️
 
 [Data](articles/fa5356cf.json)
+
+[Extended Data](ext_articles/fa5356cf.ext.json)
 
 ---
 
@@ -2163,89 +2231,5 @@ Netanyahu stressed that it would not be done.
 [Data](articles/8a0a351a.json)
 
 [Extended Data](ext_articles/8a0a351a.ext.json)
-
----
-
-### Board of Directors of Consumer Affairs
-
-*2024-03-08 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194294) · `si`
-
-The Chairman and Board of Directors of Consumer Affairs have resigned. Minister Nalin Fernando announced the resignation of Shantha Nirella and 15 others. A new Board will be appointed on Monday.
-
-🟩
-
-The Chairman and the Board of Directors has resigned from the Chairman of the Consumer Affairs Authority.
-
-Minister of Trade Minister Nalin Fernando said that the board of directors of Shantha Nirella and 15 were resigned.
-
-According to the Minister, they have taken this step.
-
-The new Board of Directors is to be appointed on Monday, "Trade Minister Nalin Fernando said.
-
-◼️
-
-[Data](articles/4152ddfe.json)
-
-[Extended Data](ext_articles/4152ddfe.ext.json)
-
----
-
-### North Korea, target the capital of the South
-
-*2024-03-08 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194293) · `si`
-
-North Korea's artillery rehearsal targeting South Korea's capital reflects readiness for war. The North Korean Kingdom News Service claimed South Korean border forces tested hostile actions against the capital. Despite North Korea's military rehearsals, it's alleged that the attacks were not on South Korea but elsewhere. The rehearsal occurred at the South Korean Staff Office, involving more soldiers than last year and targeting both South Korea and the US during a joint exercise. The South Korean President accused North Korea of provocative exercises against its capital.
-
-🟩
-
-Kim Jong has joined the shooting rehearsal of his artillery, reflecting that North Korea is ready for war.
-
-The North Korean Kingdom News Service stated that the fleet of the South Korean border has experimented with the hostile capital.
-
-It is reported that there is power to attack South Korea, who lives in a crowd.
-
-The North Korean Kingdom News Service said that it was able to meet an important military rehearsal and to manipulate his war energy.
-
-However, North Korea has launched these attacks on South Korea, not to South Korea.
-
-The rehearsal was at the South Korean Staff Office yesterday (07).
-
-North Korea was performing this artillery attacks on South Korea and the United States, while a joint shipping exercise was operated.
-
-More than the previous year, a number of soldiers participating in the previous month.
-
-North Korean public news service was said to have shown the preparations in North Korea to face a true war through the rehearsal.
-
-...
-
-[Data](articles/3396e02d.json)
-
-[Extended Data](ext_articles/3396e02d.ext.json)
-
----
-
-### US to set up temporary port on Gaza coast for aid delivery
-
-*2024-03-08 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/97820/us-to-set-up-temporary-port-on-gaza-coast-for-aid-delivery) · `en`
-
-The US military will construct a port in Gaza to get more humanitarian aid into the territory by sea, President Joe Biden has announced.
-
-The temporary port will increase the amount of humanitarian assistance to Palestinians by “hundreds of additional truckloads” per day, officials say.
-
-However, Mr Biden said the initiative will not include US troops on the ground in Gaza.
-
-The UN warns that a quarter of the population is on the brink of famine.
-
-The president made the official announcement during his State of the Union address on Thursday.
-
-He said the port, which will be built by the US military, will involve a temporary pier to transport supplies from ships at sea to the shore.
-
-It is not clear who will build the causeway or secure the aid on land, meaning crucial questions about whether the operation can succeed remain unanswered.
-
-...
-
-[Data](articles/80bbed76.json)
-
-[Extended Data](ext_articles/80bbed76.ext.json)
 
 ---

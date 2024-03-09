@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 13:33:22**
+As of **2024-03-09 13:51:57**
 
 ## Newspaper Stats
 
-*Scraped **11,826** Articles*
+*Scraped **11,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 999
 tamilmirrorlk | 1,431
 adaderanalk | 1,437
 virakesarilk | 1,627
-dailymirrorlk | 1,811
+dailymirrorlk | 1,812
 adaderanasinhalalk | 1,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,824 (100.0%) of 11,826 articles have been extended.
+11,826 (100.0%) of 11,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Maintenance activities restrict train operations on Coastal Line
+
+*2024-03-09 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maintenance-activities-restrict-train-operations-on-Coastal-Line/108-278545) · `en`
+
+Colombo, March 09 (Daily Mirror) - Sri Lanka Railways has announced that train operations on a section of the Coastal Line, spanning from Colombo Fort to Wellawatte railway stations, will be restricted due to essential maintenance activities.
+
+The Department of Railways has informed that train services will be limited to a single track on March 9, 10 and 11, 2024.
+
+The decision to restrict train operations comes as a result of essential maintenance work on a bridge situated between the Kollupitiya and Slave Island railway stations, alongside pipeline laying activities conducted by the National Water Supply and Drainage Board.
+
+As a consequence, commuters travelling along the coastal line should anticipate possible delays during this period, cautioned the Department of Railways.
+
+◼️
+
+[Data](articles/9f002bea.json)
+
+---
 
 ### Australia’s Great Barrier Reef hit by mass coral bleaching
 
@@ -48,27 +66,41 @@ Coral reefs are an important part of marine life as they house more than a quart
 
 [Data](articles/7e3dcff0.json)
 
+[Extended Data](ext_articles/7e3dcff0.ext.json)
+
 ---
 
-### කැනඩාවේ සහාසික ඝාතකයා ගැන නැන්දණිය හෙළිදරව්වක්
+### A mother-in-law reveal about the murderer of Canada
 
 *2024-03-09 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194315) · `si`
 
-කැනඩාවේ ඔටාවා අගනුවර පදිංචිව සිටි ශ්‍රී ලාංකිකයින් 06 දෙනෙකු නිවස තුළදීම සාහසික ලෙස ඝාතනය කරනු ලැබු ශ්‍රී ලාංකික තරුණයා පිළිබඳව තවත් තොරතුරු රැසක් එරට මාධ්‍ය වාර්තා කර තිබේ.
+A 19-year-old Sri Lankan, Frank de Zoysa, was arrested for the murder of six family members in Canada. His family, including his mother Ausha de Zoysa, was shocked by the incident. Frank had been living in Canada for two years, initially with his aunt, then with Dhanushka Wickremasinghe, and later moved to Berigan Drive. His sudden change in behavior and disconnection from family and friends raised suspicions.
 
-කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු සිය නිවස තුළදී එලෙස සාහසික ලෙස ඝාතනයට ලක්විය.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් එරට පොලීසිය කැනඩාවේ ඉගෙනුම ලබමින් සිටි 19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසා නම් ශ්‍රී ලාංකික තරුණයෙකු අත්අඩංගුවට ගනු ලැබුවේ එම නිවස තුළ රැඳී සිටියදීය.
+Six Sri Lankans who have been violently killed in the house of Canada have been violently assassinated in the house of Sri Lanka.
 
-මේ වනවිට එම තරුණයාට මිනිමැරීම සහ මිනී මැරීමට උත්සාහ කිරීම යන චෝදනා එල්ල කර තිබේ.
+Six Sri Lankans, including five members, who were residing in the area of Bapthewan, Canada, were assaulted in their home.
 
-ඔටාවා ඉතිහාසයේ සිදුවු දරුණුතම සමූහ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට පත් සැකකාර ෆ්‍රෑන්ක් ද සොයිසාගේ පවුලේ සාමාජිකයින් පවසන්නේ ඔහුගේ හැසිරීම මෑත කාලයේදී ඉතා ඉක්මනින් වෙනස්වීමකට ලක්වු බවය.
+While the 19-year-old Frank de Zoysa, a 19-year-old man who was studying in Canada, was arrested in the house.
 
-ඒ සම්බන්ධයෙන් ෆ්‍රෑන්ක් ද සොයිසාගේ නැන්දණිය වන අනූෂා ද සොයිසා කැනේඩියානු මාධ්‍ය වෙත අදහස් දක්වා තිබුණි.
+The young man has been accused of murder and attempt to kill.
+
+Frank de Zoysa's family arrested for the worst massacre in the history of the Ottawa.
+
+Frank de Zoysa, Ausha de Zoysa, was told to the Canadian media.
+
+"It was revealed to me, that family was a good family, and I could not take a good family, I could still sleep,"
+
+She also said that his brother's eldest son Frank de Zoysa arrived in Canada two years ago and was a quiet man and a very good man.
+
+When Frank de Zoysa came to Canada, his aunt, the first month, had resided with her home in her house with Anusha de Zoysa.
 
 ...
 
 [Data](articles/18ed4b61.json)
+
+[Extended Data](ext_articles/18ed4b61.ext.json)
 
 ---
 
@@ -2235,33 +2267,5 @@ To eliminate this gap, the Union was founded in Parliament at the request of the
 [Data](articles/ccdaffa7.json)
 
 [Extended Data](ext_articles/ccdaffa7.ext.json)
-
----
-
-### The National People's Power should unite in the widespread political alliance - the Freedom People's Council
-
-*2024-03-08 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178255) · `ta`
-
-The National People's Power is uniting in the Freedom People's Council, a political alliance led by the United People's Power. Dylan Perera, a representative of the Independent People's Council, urged national unity in this coalition. Sri Lanka Peramuna's alliance with the United National Party could lead to less than 20 seats in the general election, prompting President Ranil Wickremesinghe to prioritize the United National Party. The PA's boycott is understood, and coalitions should only form when the truth is understood. The United People's Sabha-led coalition will be established on the 15th.
-
-🟩
-
-The broader political coalition headed by the main opposition United People's Power will be established on the 15th.
-
-Dylan Perera, a representative of the Independent People's Council and a Member of Parliament, said the national people should join this political coalition.
-
-He was speaking at a media briefing held at the Independent People's Council office in Colombo on Friday (08).
-
-Members of the Ministry of PA, which are not in the ministry, are opposed to the government and the Ministry of State for the Ministry of State and the Ministry of State for alliance with the United National Party.
-
-If Sri Lanka Peramuna will get less than 20 seats if he has allied with the United National Party and contests the general election, President Ranil Wickremesinghe will give priority to the United National Party.
-
-Most of the members of the PA have been able to understand the boycott of the PA, which has been well understood in the present state.
-
-...
-
-[Data](articles/1edbc52c.json)
-
-[Extended Data](ext_articles/1edbc52c.ext.json)
 
 ---

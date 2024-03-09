@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 20:02:50**
+As of **2024-03-09 20:18:09**
 
 ## Newspaper Stats
 
-*Scraped **11,864** Articles*
+*Scraped **11,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 617
 economynextcom | 620
 islandlk | 636
 adalk | 1,000
-tamilmirrorlk | 1,439
+tamilmirrorlk | 1,440
 adaderanalk | 1,443
 virakesarilk | 1,632
 dailymirrorlk | 1,817
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,864 (100.0%) of 11,864 articles have been extended.
+11,864 (100.0%) of 11,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### வென்றது இலங்கை அணி
+
+*2024-03-09 19:39:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்றது-இலங்கை-அணி/175-334429) · `ta`
+
+இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கிடையிலான T20 கிரிக்கெட் தொடரை இலங்கை அணி 2 - 1 என்ற அடிப்படையில் வென்றுள்ளது.
+
+தொடரின் மூன்றாவது போட்டியில் இலங்கை அணி பங்காதேஷ் அணியை 28 ஓட்டங்களால் வெற்றிக்கொண்டது.
+
+போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் நிறைவில் 7 விக்கெட்டுக்களை இழந்து 174 ஓட்டங்களை பெற்றுக்கொண்டது.
+
+இந்தநிலையில், 175 ஓட்டங்கள் என்ற வெற்றியிலக்கை நோக்கி துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி19.4 ஓவர்களில் சகல விக்கெட்டுக்களையும் இழந்து 146 ஓட்டங்களை மாத்திரம் பெற்று தோல்வியை தழுவியது. R
+
+◼️
+
+[Data](articles/0d7a86bb.json)
+
+---
 
 ### Ottawa mass killing: Man who died in homicide had children, wife in Sri Lanka
 
@@ -2281,27 +2299,5 @@ Devotees who visited many parts of the country participated in the event and obt
 [Data](articles/b21ce10f.json)
 
 [Extended Data](ext_articles/b21ce10f.ext.json)
-
----
-
-### Plans afoot to implement cluster education system by amalgamating multiple schools
-
-*2024-03-08 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97828/plans-afoot-to-implement-cluster-education-system-by-amalgamating-multiple-schools) · `en`
-
-The “Presidential Scholarship” program proposed by President Ranil Wickremesinghe holds immense potential to provide crucial assistance to economically disadvantaged students, says State Minister for Education Aravindh Kumar.
-
-This initiative is geared towards supporting 100,000 students during the 2024/2025 academic year, he added.
-
-The state minister expressed confidence that this program would play a pivotal role in facilitating the successful completion of education for these students.
-
-Moreover, Kumar emphasized plans to establish 20 Zonal Education Offices as part of ongoing education reforms. These offices are envisioned to play a pivotal role in implementing future educational initiatives and ensuring the efficient administration of educational policies.
-
-He shared these views during the media briefing at the Presidential Media Centre (PMC) today.
-
-...
-
-[Data](articles/53e941ec.json)
-
-[Extended Data](ext_articles/53e941ec.ext.json)
 
 ---

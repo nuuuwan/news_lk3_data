@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 19:33:19**
+As of **2024-03-09 19:51:09**
 
 ## Newspaper Stats
 
-*Scraped **11,860** Articles*
+*Scraped **11,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,74 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 620
 islandlk | 636
-adalk | 999
+adalk | 1,000
 tamilmirrorlk | 1,439
-adaderanalk | 1,441
+adaderanalk | 1,443
 virakesarilk | 1,632
-dailymirrorlk | 1,816
+dailymirrorlk | 1,817
 adaderanasinhalalk | 1,867
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,859 (100.0%) of 11,860 articles have been extended.
+11,860 (100.0%) of 11,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### පොලිස් කණ්ඩායමට රග්බි කුසලානයක්
+### Ottawa mass killing: Man who died in homicide had children, wife in Sri Lanka
+
+*2024-03-09 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97843/ottawa-mass-killing-man-who-died-in-homicide-had-children-wife-in-sri-lanka) · `en`
+
+The man who died alongside five members of a family in a mass killing in Ottawa’s Barrhaven neighbourhood on Wednesday is said to have been supporting his own family in Sri Lanka.
+
+Gamini Amarakoon, an acquaintance of the Wickramasinghe family, was living with them when he, along with the mother of the family and her four children, were killed.
+
+Their bodies were found by police inside a townhouse the family was renting on Berrigan Drive near Palmadeo Drive in the capital’s southern suburbs, after the police received 911 calls to the home late on Wednesday night.
+
+Dhanushka Wickramasinghe, the father of the family, was the sole survivor of the attack.
+
+The family were newcomers from Sri Lanka, from which Amarakoon had arrived even more recently, according to Anzul Jhan, the Sri Lankan Deputy High Commissioner.
+
+...
+
+[Data](articles/3b550c6b.json)
+
+---
+
+### Heat advisory raised to caution level in 18 districts tomorrow
+
+*2024-03-09 19:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-raised-to-caution-level-in-18-districts-tomorrow/108-278549) · `en`
+
+Colombo, March 9 (Daily Mirror)- The heat index, the temperature felt on the human body is expected to increase up to ‘Caution Level’ in 18 districts including Colombo, Gampaha and Kalutara districts tomorrow, the Meteorology Department announced today.
+
+The department said the heat index, the temperature felt on the human body is expected to increase up to ‘Caution Level’ at some places in the Western, North-Western, Southern, Northern and North-Central Provinces and in the Moneragala, Ratnapura and Trincomalee districts.
+
+According to the heat advisory issued by the Meteorology Department, 'Caution Level’ heat index was expected only in 13 districts today, which included the North-Western, Southern and North-Central Provinces and the Moneragala, Ratnapura, Mannar, Vavuniya, Mullaitivu and Trincomalee districts.
+
+◼️
+
+[Data](articles/cf3719dd.json)
+
+---
+
+### Rugby Trophy to the police team
 
 *2024-03-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194328) · `si`
 
-වසර 33කට පසුව ක්ලිෆර්ඩ් කුසලාන රග්බි ශූරතාවය දිනා ගැනීමට පොලිස් කණ්ඩායමට අද හැකිවිය.
+The police team triumphed in the Clifford Cup Rugby Championship, ending a 33-year drought.
+
+🟩
+
+The police team won the Clifford Cup Rugby Championship after 33 years.
 
 ◼️
 
 [Data](articles/2749b9de.json)
+
+[Extended Data](ext_articles/2749b9de.ext.json)
 
 ---
 
@@ -143,6 +185,24 @@ Sri Lanka won the 3rd 20-20 match with Bangladesh by 28 runs today.
 [Data](articles/844bb124.json)
 
 [Extended Data](ext_articles/844bb124.ext.json)
+
+---
+
+### Sanitary napkins subjected to unreasonably high taxes in Sri Lanka: analysis
+
+*2024-03-09 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97840/sanitary-napkins-subjected-to-unreasonably-high-taxes-in-sri-lanka-analysis) · `en`
+
+The total tax burden on sanitary napkins in Sri Lanka currently sits at 47.1%, which is a significantly higher rate compared to the tax levied on selected non-essentials items, gold jewellery, raw silk, golf clubs and golf balls and military artillery weapons, the PublicFinance.lk revealed.
+
+PublicFinance.lk is run by Verité Research, an independent think tank that provides strategic analysis for Asia in the areas of economics, politics, law, and media.
+
+Citing figures from Sri Lanka Customs, the PublicFinance.lk revealed that sanitary napkins are subjected to unreasonably high taxes in Sri Lanka, which amounts to 47.1% as opposed to 30.6% on gold jewellery, 22.3% raw silk, and 22.3% golf clubs, golf balls and military artillery weapons.
+
+Meanwhile, a recent survey has made an alarming revelation about period poverty in Sri Lanka. As per the study, 40% of menstruating women and girls in Sri Lanka have stopped using menstrual products against the backdrop of the ongoing economic crisis.
+
+...
+
+[Data](articles/b0a9a04c.json)
 
 ---
 
@@ -939,6 +999,24 @@ Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis 
 [Data](articles/0216c02a.json)
 
 [Extended Data](ext_articles/0216c02a.ext.json)
+
+---
+
+### අනුර හමුවෙන්න කියුබානු තානාපති යයි
+
+*2024-03-09 11:36:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හමුවෙන්න-කියුබානු-තානාපති-යයි/11-408503) · `si`
+
+ශ්‍රී ලංකාවේ කියුබානු තානාපති ඇන්ඩ්‍රෙස් මාසෙලෝ මහතා හා ජනතා විමුක්ති පෙරමුණේ හා ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් ඊයේ (08දා) ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන කාර්යාලයේදී පවත්වා තිබේ.
+
+මෙහිදී කියුබාවේ කොමියුනිස්ට් පක්ෂය සහ ජනතා විමුක්ති පෙරමුණ අතර පවතින දේශපාලන සබඳතාව සහ ජාතික ජනබලවේගයේ වත්මන් දේශපාලන කටයුතු පිළිබඳ දීර්ඝ වශයෙන් සාකච්ඡා කෙරුණු බව අනුර කුමාර දිසානායක මහතා පවසයි.
+
+දීර්ඝ කාලයක් තිස්සේ කියුබාවට පනවා ඇති සම්බාධක සහ කියුබාව සහ ශ්‍රී ලංකාව අතර සෘජු සබඳතා, ඒවායේ ප්‍රගතිය සහ ගැටලුකාරී තත්ත්වයන් පිළිබඳව තානාපතිවරයා තමන්ව දැනුවත් කළ බවද අනුර කුමාර දිසානායක මහතා පැවැසීය.
+
+තවද, ශ්‍රී ලංකාව තුළ ඩෙංගු මර්දනය සඳහා කියුබානු රජයේ සහයෝගය ඇතිව ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමට මේ වන විට සාකච්ඡා පැවැත්වෙන බවත් තවත් මහාද්වීප 03 ක රටවල් සමඟ ද එවැනි ව්‍යාපෘති ක්‍රියාත්මක වන බවත් තානාපතිවරයා පැහැදිලි කළේය.
+
+◼️
+
+[Data](articles/9d57a0d6.json)
 
 ---
 
@@ -2213,69 +2291,5 @@ He shared these views during the media briefing at the Presidential Media Centre
 [Data](articles/53e941ec.json)
 
 [Extended Data](ext_articles/53e941ec.ext.json)
-
----
-
-### Govt. planning to implement cluster education system by amalgamating multiple schools
-
-*2024-03-08 22:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97828/govt-planning-to-implement-cluster-education-system-by-amalgamating-multiple-schools) · `en`
-
-The “Presidential Scholarship” program proposed by President Ranil Wickremesinghe holds immense potential to provide crucial assistance to economically disadvantaged students, says State Minister for Education Aravindh Kumar.
-
-This initiative is geared towards supporting 100,000 students during the 2024/2025 academic year, he added.
-
-The state minister expressed confidence that this program would play a pivotal role in facilitating the successful completion of education for these students.
-
-Moreover, Kumar emphasized plans to establish 20 Zonal Education Offices as part of ongoing education reforms. These offices are envisioned to play a pivotal role in implementing future educational initiatives and ensuring the efficient administration of educational policies.
-
-He shared these views during the media briefing at the Presidential Media Centre (PMC) today.
-
-...
-
-[Data](articles/f321e283.json)
-
-[Extended Data](ext_articles/f321e283.ext.json)
-
----
-
-### Oh! Gaza, Oh! Palestine
-
-*2024-03-08 22:38:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/oh-gaza-oh-palestine/) · `en`
-
-We are so immersed in our own national issues, so worried and angry about what is happening with a non-elected illicit regime hanging on to power like blood sucking leeches and robbing the country’s wealth that we do not hear and see the desperate cries coming from the rubble of bombed out and devastated Gaza. We are so immersed in our bankrupted country’s economic collapse, not knowing where our next meal comes from, not knowing where to get some medicine for our ill and the elderly or books and bus fare for our children to go to school that we do not hear and see the desperate cries coming from the rubble of bombed out and devastated Gaza. The death toll in Gaza is passing the mark of 30,000. So many children and women, so many elderly who could not run away from bombs in time have died, practically all of them civilians. This is genocide. This is extermination.
-
-...
-
-[Data](articles/d414470c.json)
-
-[Extended Data](ext_articles/d414470c.ext.json)
-
----
-
-### Commercial Bank offers attractive home loan packages for John Keells Properties’ latest project – ‘VIMAN’ Ja-Ela
-
-*2024-03-08 22:16:00* · [`islandlk`](http://island.lk/commercial-bank-offers-attractive-home-loan-packages-for-john-keells-properties-latest-project-viman-ja-ela/) · `en`
-
-Offering an unprecedented opportunity to prospective homeowners and investors to own a part of its latest residential project, ‘Viman’ Ja-Ela, John Keells Properties has entered into a strategic collaboration with Commercial Bank to offer attractive housing mortgage solutions. As part of this partnership, John Keells Properties hosted an exclusive event on 15th February for customers of Commercial Bank.
-
-...
-
-[Data](articles/26fe310e.json)
-
-[Extended Data](ext_articles/26fe310e.ext.json)
-
----
-
-### The Event Management Association: Enhancing professional standards and setting industry benchmarks
-
-*2024-03-08 22:16:00* · [`islandlk`](http://island.lk/the-event-management-association-enhancing-professional-standards-and-setting-industry-benchmarks/) · `en`
-
-The Event Management Association (EMA), the only professional industry body in Sri Lanka for event management, with a membership of over 50, sheds light on the often unseen, yet crucial role that professional event managers play in creating and delivering successful events and fostering a thriving industry within the country and the region. They aim to raise awareness among corporates and individuals about the significant benefits they stand to gain when working with a member, endorsed by EMA.
-
-...
-
-[Data](articles/4e4cd326.json)
-
-[Extended Data](ext_articles/4e4cd326.ext.json)
 
 ---

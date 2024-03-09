@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 10:51:45**
+As of **2024-03-09 11:02:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,807 (99.9%) of 11,813 articles have been extended.
+11,813 (100.0%) of 11,813 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,45 +48,65 @@ Police have also found the firearm used in the shooting, based on the informatio
 
 [Data](articles/24330e3d.json)
 
+[Extended Data](ext_articles/24330e3d.ext.json)
+
 ---
 
-### பேஸ்புக்கில் அதிகரிக்கும் ஏமாற்று வித்தை ! அவதானம் !
+### Increasing cheating on Facebook!Observation!
 
 *2024-03-09 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178299) · `ta`
 
-நாளுக்கு நாள் சமூக ஊடகங்களின் பாவனை அதிகரித்துள்ள நிலையில், அவற்றில் ஏமாற்றுப் பேர்வழிகளின் செயல்களும் அதிகரித்துக்கொண்டே காணப்படுகின்றது.
+"Cheating on Facebook is rising. Hackers impersonate friends to gain access to personal data. Beware of fake requests for voting or adding to groups. Always verify before sharing personal information. Report hackers on Facebook."
 
-அண்மைக்காலமாக பேஸ்புக்கின் மேசஞ்சரில் (Messenger) தொடர்புகொள்ளும் சில ஹக்கர்களின் ஏமாற்று வித்தை அரங்கேறி வருகின்றது.
+🟩
 
-இவ்வாறான ஹக்கர்கள் பேஸ்புக் கணக்குகளுக்குள் நுழைந்து மேசஞ்சர் ஊடாக குறித்து நபரின் மேசஞ்சருக்கு தொடர்புகொள்கின்றார்.
+As the use of social media has increased day by day, the actions of the deception are on the rise.
 
-பேஸ்புக்கை ஹக்செய்து அவர்களுக்குப் பரீட்சயமான நண்பர்களின் போலி கணக்குகள் ஊடாக    மேசஞ்சரில் தொடர்புகொண்டு அவர்களை ஒரு குழுவில் இணைக்க விரும்புவதாகவும் அதற்கு அவர்கள் தொலைபேசி எண் வேண்டும் எனவும் கேட்கிறார்கள். அதைத் தொடர்ந்து குழுவில் இணைக்க ஒரு OTP வந்திருக்கும் என்று கேட்பார்கள். அதைக் கொடுத்துவிட்டால் உங்கள் தனிப்பட்ட தரவுகள் அனைத்தையும் திருடிவிடுவார்கள்.
+Recently, some of the Hukars who communicate on Facebook's Messenger have been deceiving.
 
-“ Hello I’m contesting for an ambassadorship spot at an online Facebook access program can you pls vote for me ” இவ்வாறு தொடர்புகளை ஏற்படுத்துகின்றனர்.
+Such Huckers enters Facebook accounts and contact the person's Messenger about the Messenger.
 
-“ You have to send me your number so I can add you to the voting group” இவ்வாறு பதிலனுப்புகின்றனர்.
+Hakshin and Hakshpy to them with the fake accounts of their friends, they want to connect them to a group of friends and ask for a phone number.. They will then ask that an OTP come to connect to the group. If you give it, they will steal all your personal data.
+
+“Hello is an ambassadorship for an ambassadorship spot at an online Facebook Access Program Can You Pls Vote for Me”
+
+"You have to send me your number so I can add you to the voting group"
+
+When you answer these questions, other personal data, including your bank account, will be hacked.
+
+Then the Facebook accounts that are hosted will be replaced by them and will be attached to others.
 
 ...
 
 [Data](articles/ad597686.json)
 
+[Extended Data](ext_articles/ad597686.ext.json)
+
 ---
 
-### யாழில் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த உணவகத்துக்கு அபராதத்துடன் சீல்
+### Seal with a fine for a restaurant operating with health problems in Jaffna
 
 *2024-03-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178302) · `ta`
 
-யாழ்ப்பாணம் சண்டிலிப்பாய் பகுதியில் சுகாதார சீர்கேட்டுடன் இயங்கி வந்த உணவகம் ஒன்றுக்கு, 73 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ள நீதிமன்று, குறித்த உணவகத்தையும் சீல் பண்ணுமாறு உத்தரவிட்டுள்ளது.
+A restaurant in Jaffna fined 73,000 rupees for health violations, including 180 kg of spoiled bread, 5 kg of spoiled fish, and 8 kg of spoiled meat. Another owner fined 20,000 rupees for storing defective meat and shrimp.
 
-சண்டிலிப்பாய் பகுதியில் பொது சுகாதார பரிசோதகரான செ. பிரின்சன் தலைமையில் உணவகங்களில் திடீரென மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின் போது , 180 கிலோ பழுதடைந்த ரொட்டிகள் , 05 கிலோ இடியப்பம் மற்றும் 08 கிலோ பிட்டு என்பவற்றை பொலித்தீன் பைகளில் கட்டி குளிர்சாதன பெட்டிகளில் களஞ்சியப்படுத்தி வைத்திருந்தமை கண்டறியப்பட்டது.
+🟩
 
-குறித்த உணவகத்திற்கு எதிராக மல்லாகம் நீதவான் நீதிமன்றில் வழக்கு தொடரப்பட்ட நிலையில், உணவாக உரிமையாளருக்கு 73ஆயிரம் ரூபாய் தண்டம் விதித்த மன்று  உணவகத்தை சீல் வைத்து மூடுமாறு உத்தரவிட்டது.
+A restaurant in Jaffna, a restaurant, has been sentenced to seal the restaurant, which has been fined 73 thousand rupees.
 
-அதேவேளை, பழுதடைந்த இறைச்சி மற்றும் இறால் ஆகியவற்றை களஞ்சியப்படுத்தி வைத்திருந்த உணவக உரிமையாளருக்கு 20 ஆயிரம் ரூபாய் தண்டமும், பழுதடைந்த இறைச்சி ரொட்டியை விற்பனைக்கு வைத்திருந்தமை மற்றும் உணவகத்தை சுத்தமின்றி பேணிய மற்றுமொரு உணவக உரிமையாளருக்கு 33 ஆயிரம் ரூபாய் தண்டமும் நீதிமன்று விதித்துள்ளது.
+Public Health Inspector. During a sudden raid carried out in the restaurants headed by Princeen, it was found that 180 kg of dilapidated breads, 05 kg of idiots and 08 kg of bites were tied up in polythene bags.
 
-...
+As the Mallakam Magistrate's Court was sued against the restaurant, the owner was ordered to shut down the restaurant, which was fined Rs 73,000.
+
+At the same time, a restaurant owner who had stored defective meat and shrimp had a fine of 20 thousand rupees, the sale of a repaired meat bread and another restaurant owner who maintained the restaurant's restaurant.
+
+At the same time, the Mallakam Magistrate's Justice has been ordered to shut down some restaurants in the case of about Rs.
+
+◼️
 
 [Data](articles/c2246521.json)
+
+[Extended Data](ext_articles/c2246521.ext.json)
 
 ---
 
@@ -105,6 +125,8 @@ Thus, there will be possible train delays on the coastal line owing to this situ
 ◼️
 
 [Data](articles/a9755dd9.json)
+
+[Extended Data](ext_articles/a9755dd9.ext.json)
 
 ---
 
@@ -152,17 +174,23 @@ Accordingly, the children need not leave their schools but can continue for anot
 
 ---
 
-### இரவில் இடியுடன் கூடிய மழை பெய்யக் கூடும்
+### Thundershowers may be rained at night
 
 *2024-03-09 10:14:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவில்-இடியுடன்-கூடிய-மழை-பெய்யக்-கூடும்/175-334413) · `ta`
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology predicts rain or thunderstorms in Western and Sabaragamuwa Provinces, and snow in Galle and Matara districts.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகிறது.
+🟩
+
+The Department of Meteorology has said that there will be rain or thunderstorms in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
+
+In the morning, in some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts, snow is expected in the morning.
 
 ◼️
 
 [Data](articles/841501a0.json)
+
+[Extended Data](ext_articles/841501a0.ext.json)
 
 ---
 
@@ -756,21 +784,29 @@ The official said that the bus was running on the railway line at around 6.55 pm
 
 ---
 
-### එදා වහල් දුපතක් වූ බත්තලංගුණ්ඩුව බලන්න යමු ද?
+### Come to see the Betternatna, the island that day?
 
 *2024-03-09 04:16:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgv6qd3y6yo) · `si`
 
-බත්තලංගුණ්ඩුව වයඹ දිග මුහුදු තීරයේ  පිහිටි රමණිය දුපතකි.කුඩා  දුපත් දාහහතරකින් වටවු බත්තලංගුණ්ඩුව දුපත  මේ දුපත් සමුහයේ  විශාලතම  දුපත වන අතර එහි වපසරිය  හෙක්ටයාර් 145 කි.
+Battanenaduwa Island, largest in Battalangawa, supports 600 families through fishing and tourism. Known for its unique history and natural beauty, it's a 4-hour journey from Colombo via Kalpitiya. The island's water is cleaned by the Navy, but lacks basic facilities like water, electricity, and roads. Despite challenges, it attracts tourists for its coral reefs, dolphins, and wildlife.
 
-මෙහි වෙසෙන ජනගහනය කලින් කලට වෙනස් වන අතර අද වන විට පවුල් 600 ක් පමණ එහි ජිවත් වෙති. මෙහි වෙසෙන ජනතාවගේ ප්‍රධාන ජීවනෝපාය මාළු ඇල්ලීම ය. ඊට අමතරව  අල්ලන මාළු වේලීම ජයටම සිදු කරයි. අපි කල්පිටි කරවල කියා බොහෝවිට හදුන්වන්නේ මේ බත්තලංගුණ්ඩුව දුපතේ නිෂ්පාදනය කරන කරවල ය.
+🟩
 
-මාළු ඇල්ලීම මේ දුපතේ ජනතාවගේ ප්‍රධාන ජීවනෝපාය වුවත් දැන් දැන් මෙහි වෙසෙන ජනතාවගෙන් සුළු පිරිසක් සංචාරක කර්මාන්තයට ද  නැඹුරුවක් පෙන්නුම් කරයි.
+Battanenaduwa Island is the largest island of Battalangawa, which is a 175 hectares of land.
 
-බත්තලංගුණ්ඩුව දුපත මුලින් හඳුන්වා  ඇත්තේ වහල් දුපත නමිනි. ඊට හේතුව මීට වසර සියයකට එපිටින්   මේ දුපතේ පැවති තත්ත්වයයි.මෙහි තිබු මාදැල්වල සේවය සදහා බලහත්කාරයෙන්  දරුවන් රැගෙන ආ බව ජනප්‍රවාදයේ සඳහන් වෙයි.මේ දරුවන් යොදා  ගෙන  ඇත්තේ  මාදැල් වලින් අල්ලන මසුන් කරවල කිරීම සඳහා  වන අතර  එය වහල් සේවයක් සේ සලකා  තිබේ.
+The population is from time to time and about 600 families live in it today. The main livelihood of the people in the area is to catch fishing. In addition, the fishing fish is done to the same. They are often called diligence and produce this Bettern.
+
+Fishing is the main livelihood of the people of this island, but now a small number of people in the area are now inclined to the tourism industry.
+
+Bettalangannaduwa is originally known as the island where the island was originally known as the. The reason for this, the condition of the island out of this island for a hundred years.
+
+Since the technique boats of technology, like that day, a person who came to the islaw was only the invention of a person in the island.
 
 ...
 
 [Data](articles/fd0c5a91.json)
+
+[Extended Data](ext_articles/fd0c5a91.ext.json)
 
 ---
 

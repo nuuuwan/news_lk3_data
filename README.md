@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 20:33:17**
+As of **2024-03-09 20:49:29**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 1,869
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,865 (100.0%) of 11,869 articles have been extended.
+11,869 (100.0%) of 11,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### இலங்கைக்கு 40 மில்லியன் முட்டைகள் இறக்குமதி
+### Imported 40 million eggs to Sri Lanka
 
 *2024-03-09 20:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-40-மில்லியன்-முட்டைகள்-இறக்குமதி/175-334430) · `ta`
 
-பண்டிகை காலத்தை முன்னிட்டு எதிர்வரும் வாரத்தில் 40 மில்லியன் முட்டைகள் இலங்கைக்கு இறக்குமதி செய்யப்படவுள்ளதாக அரச வர்த்தக கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+The State Trade Corporation plans to import 40 million eggs to Sri Lanka, ensuring no shortage at 43 rupees per egg.
 
-நுகர்வோருக்கு ஒரு முட்டையை 43 ரூபாவுக்கு தட்டுப்பாடின்றி விற்பனை செய்ய முடியும் என அதன் தலைவர் ஆசிரி வலிசுந்தர தெரிவித்தார். R
+🟩
+
+The State Trade Corporation has said that 40 million eggs will be imported to Sri Lanka in the coming week.
+
+Consumers can sell an egg for 43 rupees without shortage. Remble
 
 ◼️
 
 [Data](articles/f350179a.json)
 
+[Extended Data](ext_articles/f350179a.ext.json)
+
 ---
 
-### දරුවන් ඇතුළු ඝාතන 6ක් සඳහා ෆ්‍රෑන්ක් ව පෙළඹුවේ කුමක්ද ?
+### What motivated Frank for six killings, including children?
 
 *2024-03-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194330) · `si`
 
-කැනඩාවේ ඝාතනයට ලක්වූ ශ්‍රී ලාංකික පවුලේ දිවි බේරා ගනු ලැබු ධනුෂ්ක වික්‍රමසිංහ ප්‍රහාරයෙන් දැඩි ලෙස තුවාල ලබා ඇති අතර ඔහු ඊයේ (08) සැත්කමක් සඳහා ද යොමුකර තිබේ.
+Frank de Zoysa, a 19-year-old from Sri Lanka, is accused of killing six people, including children, in Canada. His aunt reports a recent change in behavior, distancing himself from family. The motive behind the killings remains unknown.
 
-එම ප්‍රහාරයෙන් ධනුෂ්කගේ අතේ ඇඟිල්ලක් ද අහිමිවී ඇති බව වාර්තා වෙයි.
+🟩
 
-මේ අතර එම ප්‍රහාර සිදුකළ 19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසාගේ නැන්දණිය පළමු වරට මාධ්‍ය වෙත අදහස් දක්වමින් පවසන්නේ  පසුගිය වසර ඇතුළත ඔහුගේ හැසිරිමේ දැඩි වෙනස්වීමක් සිදුව ඇති අතරම ඔහු සිය ඥාතීන්ගෙන් සම්පූර්ණයෙන් දුරස්වී හුදෙකලා ජීවිතයකට හුරුව ඇති බවය.
+Dhanushka Wickremasinghe was severely injured in the surrender of the Sri Lankan family of Canada.
 
-කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු  සිය නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුණේ පසුගිය බදාදා රාත්‍රීයේ දී ය.
+It is reported that Dhanushka's hand was lost in the attack.
 
-සිද්ධිය සම්බන්ධයෙන් ඝාතනය සිදු වූ නිවසේම පදිංචිව සිටි  19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසා නම් ශ්‍රී ලාංකික තරුණයෙකු අත්අඩංගුවට පත් වුණි.
+Meanwhile, 19-year-old Frank de Zoysa aunt the attack on the attack, speaking to the media for the first time in the past year, he had a severe change in his behavior and he was getting into full distance from his relatives.
 
-මේ වනවිට එම තරුණයාට මිනිමැරීම් හයක සහ මිනී මැරීමට උත්සාහ කිරීම් එකකට චෝදනා එල්ලවී තිබේ.
+Six Sri Lankans, including five members, were violently assaulted in their home in the house of Barher, Canada, the capital of the Ottawa capital of the Ottawa capital.
+
+The 19-year-old Frank De Zoysa, a 19-year-old man who was residing in the assassination of the murder was arrested.
+
+The young man has been accused of six mineries and murder.
+
+Frank's family members arrested in connection with the worst massacre in the history of the Ottawa says that his behavior had been changed recently.
+
+Frank de Zoysa, Aushandiya, aunt, has commented on the Canadian media.
 
 ...
 
 [Data](articles/e60b954c.json)
+
+[Extended Data](ext_articles/e60b954c.ext.json)
 
 ---
 
@@ -80,25 +96,33 @@ The injured individual has been admitted to the Ragama Hospital for treatment, a
 
 [Data](articles/13aae099.json)
 
+[Extended Data](ext_articles/13aae099.ext.json)
+
 ---
 
-### ජාඇළ වෙඩිතැබීමක්
+### Ja-Ela shooting
 
 *2024-03-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194329) · `si`
 
-ජාඇළ, දඬුගම, බස්වත්ත ප්‍රදේශයේ දී අද (09) පස්වරුවේ වෙඩිතැබීමක් සිදුකර තිබේ.
+A shooting occurred in Ja-Ela, Dadagama, Dadugama, between 6.30 pm and 7.30 pm. Two victims were shot; one was killed, and the other escaped. The shooters were identified.
 
-අද රාත්‍රී 6.30 - 7.30 අතර කාලයේදී එම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+🟩
 
-වෙඩි ප්‍රරහායට ලක්වූ පුද්ගලයින්ට නිවසින් පිටතට පැමිණ ලෙස දුරකථන ඇමතුමක්දී එම වෙඩිතැබීම සිදුකර ඇති බව අනාවරණය වී ඇත.
+A shooting was shot in the Baswatta area in Ja Ela, Dadagama, Dadugama.
 
-එහිදී එක් අයෙකුට වෙඩි වැදී ඇති අතර අනෙක් පුද්ගලයා දිව ගොස් තිබේ.
+It is reported that the shooting has been carried out between 6.30 pm and 7.30 pm.
 
-වෙඩිතැබීම සඳහා පැමිණි පුද්ගලයන් දෙදෙනාද පළගොස් ඇති බව වාර්තා වෙයි.
+It has been revealed that the victims came out of the house to come out of the house and had done that shot.
+
+One had been shot and the other had run away.
+
+The two men who came to shoot were also published.
 
 ◼️
 
 [Data](articles/127d102c.json)
+
+[Extended Data](ext_articles/127d102c.ext.json)
 
 ---
 

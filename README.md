@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 13:51:57**
+As of **2024-03-09 14:02:48**
 
 ## Newspaper Stats
 
-*Scraped **11,827** Articles*
+*Scraped **11,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ dailyftlk | 617
 economynextcom | 619
 islandlk | 636
 adalk | 999
-tamilmirrorlk | 1,431
+tamilmirrorlk | 1,432
 adaderanalk | 1,437
 virakesarilk | 1,627
 dailymirrorlk | 1,812
-adaderanasinhalalk | 1,856
+adaderanasinhalalk | 1,857
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,826 (100.0%) of 11,827 articles have been extended.
+11,827 (100.0%) of 11,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### අද පිටියට එන ශ්‍රී ලංකා කණ්ඩායමේ වෙනසක්
+
+*2024-03-09 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194316) · `si`
+
+ආබාධයකට ලක්වීම හේතුවෙන් වේගපන්දු යවන ක්‍රීඩක මතීෂ පතිරණ අද (09) පැවැත්වෙන ශ්‍රී ලංකා බංග්ලාදේශ තුන්වන සහ අවසන් 20යි 20 තරගයට සහභාගී නොවන බව වාර්තා වෙයි.
+
+දෙවන විස්සයි විස්ස තරගයේ සිය සිව්වන පන්දු වාරය ක්‍රියාත්මක කරමින් සිටියදී ඔහු පාදයේ ආබාධයකට ලක්වුණි.
+
+ආබාධ තත්ත්වය සුව අතට පත් නොවීම හේතුවෙන් අද පැවැත්වෙන තෙවන තරගය සඳහා මතීෂ සහභාගී ‌නොකිරීමට තීරණය කර ඇති බව වාර්තා විය.
+
+ශ්‍රී ලංකා බංග්ලාදේශ තීරණාත්මක තෙවන විස්සයි විස්ස තරගය අද පස්වරු 03ට ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/a4f59856.json)
+
+---
+
+### விபத்தில் தந்தை, மகன் பலி; தாய் படுகாயம்
+
+*2024-03-09 13:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/விபத்தில்-தந்தை-மகன்-பலி-தாய்-படுகாயம்/95-334419) · `ta`
+
+கொழும்பு ஹைலெவல் வீதியின் கொஸ்கம, மிரிஸ்வத்த பிரதேசத்தில் நேற்று (8) இரவு இடம்பெற்ற விபத்தில், தந்தை மற்றும் மகன் உயிரிழந்துள்ள நிலையில் படுகாயமடைந்த தாய் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+விபத்தில் உயிரிழந்தவர்கள் கொஸ்கம பிரதேசத்தைச் சேர்ந்த 44 வயதான தந்தை மற்றும் 8 வயதான மகன் எனத் தெரியவந்தது.
+
+விபத்தில் பலியானவர்கள் பயணித்த மோட்டார் சைக்கிளுடன், சீமெந்து ஏற்றிச் சென்ற லொறி ஒன்று மோதியதாலேயே இந்த விபத்து இடம்பெற்றுள்ளதாக கொஸ்கம பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பிலிருந்து அவிசாவளை நோக்கி பயணித்த சீமெந்து ஏற்றிச் சென்ற குறித்த லொறியின் சக்கரம் ஒன்று திடீரென வெடித்ததில், லொறி வீதியை விட்டு விலகி எதிர்த்திசையில் பயணித்த மோட்டார் சைக்கிளுடன் மோதியமை விசாரணைகளில் தெரியவந்தது.
+
+இதனையடுத்து லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதோடு, கொஸ்கம பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர். S
+
+◼️
+
+[Data](articles/8d339013.json)
+
+---
 
 ### Maintenance activities restrict train operations on Coastal Line
 
@@ -47,6 +85,8 @@ As a consequence, commuters travelling along the coastal line should anticipate 
 ◼️
 
 [Data](articles/9f002bea.json)
+
+[Extended Data](ext_articles/9f002bea.ext.json)
 
 ---
 
@@ -2215,57 +2255,5 @@ Were allowed to go to the temple at 10 am with their guidance. Due to the refusa
 [Data](articles/f71d11b5.json)
 
 [Extended Data](ext_articles/f71d11b5.ext.json)
-
----
-
-### Company Manager, Agent and Trader
-
-*2024-03-08 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178269) · `ta`
-
-In Batticaloa, a company manager, agency, and trader were fined for selling juice with excess Carmosine, Sulphurdioxide, and other impurities. The Magistrate's Court ordered the seizure and destruction of the juice bottles, following a public health inspector's raid. The juice was sent to Colombo for analysis, revealing the impurities. The court fined the parties involved, with the trader and company manager each paying 20,000 rupees.
-
-🟩
-
-Three of the company manager, agencies and traders sold in Batticaloa have been fined.
-
-The Batticaloa Magistrate's Court in response to the Eravur Tourism Court on Thursday (7) ordered the public health inspectors to seize and destroy the juice bottles that were sold in trade centers.
-
-Kottamunai Public Health Inspector led by Dr. Sukunan, Director of Regional Health Services in Batticaloa. A team of public health inspectors such as S. Amirtab and J. Yasodharan carried out raids last December.
-
-During this time, a trade center seized juice bottles and sent it to the Analysis Department in Colombo.
-
-It was found that the Sulphurdioxide, which is a low -quality, principal, has been diagnosed with the excess of Carmosine - Carmosine - SuntSet Yellow & Tarazine.
-
-Following this, the Magistrate's Court in response to the Jose Production Company Manager, Sales Agency and the trader filed a case at the Batticaloa Magistrate's Court on Thursday (07).
-
-...
-
-[Data](articles/559179cb.json)
-
-[Extended Data](ext_articles/559179cb.ext.json)
-
----
-
-### Velu Kumar MP is the most important post in Parliament
-
-*2024-03-08 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178261) · `ta`
-
-Velu Kumar MP, elected as President of the Union in the 9th Parliament, represents the upcountry plantation community. The Union, established by the Tamil Progressive Alliance, aims to address the community's needs and future development.
-
-🟩
-
-The Parliament for the evolution of the upcountry plantation community was established in the ninth parliament by the efforts of the Tamil Progressive Alliance. At the same time, Kandy district parliamentarian Velu Kumar was unanimously elected as the President of the Union.
-
-Vice Presidents Sujith Sanjaya Perera, Nayana Vasalake and Udayakumar were elected as Vice Presidents. Leaders of many parties and senior MPs were present at the event.
-
-Within the Parliament, many groups and unions are running. However, the problems of the mountain plantation community are being investigated directly on anything that is doing so is very low. Thus, there is no such thing as the development of policymakers and projects related to the future of the mountain plantation community.
-
-To eliminate this gap, the Union was founded in Parliament at the request of the Tamil Progressive Alliance to carry out the activities of the Upcountry Plantation Community.
-
-◼️
-
-[Data](articles/ccdaffa7.json)
-
-[Extended Data](ext_articles/ccdaffa7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 20:49:29**
+As of **2024-03-09 21:02:53**
 
 ## Newspaper Stats
 
-*Scraped **11,869** Articles*
+*Scraped **11,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 1,441
 adaderanalk | 1,444
 virakesarilk | 1,632
 dailymirrorlk | 1,817
-adaderanasinhalalk | 1,869
+adaderanasinhalalk | 1,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,869 (100.0%) of 11,869 articles have been extended.
+11,869 (100.0%) of 11,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### මැණික් ගලක් නිසා හොරණ ව්‍යාපාරිකයෙක් පැහැරගනී
+
+*2024-03-09 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194331) · `si`
+
+මැණික් ගලක් අලෙවි කිරීමේ සිදුවීමක් මුල්කරගනිමින් ඇතිවූ ආරවුලක් හේතුවෙන් හොරණ ප්‍රදේශයේ රෙදි පිළි ව්‍යාපාරිකයෙකු පැහැරගෙන ගොස් තිබේ.
+
+පැහැරගත් පිරිස විසින් ව්‍යාපාරිකයා මුදාහැරීමට ඔහුගේ බිරිඳගෙන් රුපියල් ලක්ෂ 35ක කප්පම් මුදලක් ඉල්ලා තිබූ අතර කප්පම්කරුවන් සූක්ෂම ලෙස කොටු කරගැනීමට මොරගහහේන පොලීසිය සමත්වී ඇත.
+
+හොරණ කෝරලඉම තේවත්තපාර ප්‍රදේශයේ පදිංචි රෙදිපිළි ව්‍යාපාරිකයාට හලාවත ප්‍රදේශයේ හිතවතෙකු මැණික් ගලක් ලබාදී තිබු‍ණේ එය අලෙවිකරදෙන ලෙස ඉල්ලමිනි.
+
+ව්‍යාපාරිකයා මැණික් ගල රුපියල් ලක්ෂ 10ක මුදලකට මහරගම ප්‍රදේශයේ ශාන්ත නම් හිතවතෙකු මාර්ගයෙන් ගැණුම්කරුවෙකුට අලෙවිකර තිබුණි.
+
+පිළියන්දල ප්‍රදේශයේ මාර්ගයක් අසල ගනුදෙනුව සිදුකර තිබූ අතර පසුව මැණික් ගල මිලදීගත් ගැණුම්කරුවා දින කිහිපයකට පසු ශාන්ත නමැති පුද්ගලයාට පවසා තිබුණේ මැණික් ගල ව්‍යාජ එකක් බවය.
+
+මහරගම ශාන්ත නමැති පුද්ගලයා තවත් තිදෙනෙකු සමග රාත්‍රී 1.00ට පමණ රෙදිපිළි ව්‍යාපාරිකයාගේ නිවසට ගොස් ඇති අතර ඔහු සමග යමක් පැවසීමට ඇති බව පවසා ව්‍යාපාරිකයාව මෝටර් රථයට නංවාගෙන රැගෙන ගොස් තිබේ.
+
+...
+
+[Data](articles/0304fda7.json)
+
+---
 
 ### Imported 40 million eggs to Sri Lanka
 
@@ -2301,21 +2323,5 @@ As a result, non-Uber One members are expected to pay about the same level of de
 [Data](articles/0d565803.json)
 
 [Extended Data](ext_articles/0d565803.ext.json)
-
----
-
-### TikTok announces specialized workshops program to empower Sri Lankan female entrepreneurs
-
-*2024-03-08 23:36:00* · [`islandlk`](http://island.lk/tiktok-announces-specialized-workshops-program-to-empower-sri-lankan-female-entrepreneurs/) · `en`
-
-In commemoration of International Women’s Day 2024, TikTok announced an initiative aimed at empowering female business owners in Sri Lanka. Recognizing the unique challenges faced by women-led businesses in emerging markets, TikTok has designed a specialized workshop program, where informative webinars are designed to provide comprehensive guidance on leveraging the platform for business growth and visibility.
-
-In an era where digital platforms play a central role in organizational success, many small businesses, especially those led by women, encounter significant barriers due to a lack of digital literacy, resources, and support networks. Despite possessing the drive and innovation necessary for success, these barriers often hinder #womeninbusiness from thriving in the competitive online marketplace.
-
-...
-
-[Data](articles/d5e74bf0.json)
-
-[Extended Data](ext_articles/d5e74bf0.ext.json)
 
 ---

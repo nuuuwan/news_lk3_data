@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 20:18:09**
+As of **2024-03-09 20:33:17**
 
 ## Newspaper Stats
 
-*Scraped **11,865** Articles*
+*Scraped **11,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,113 @@ dailyftlk | 617
 economynextcom | 620
 islandlk | 636
 adalk | 1,000
-tamilmirrorlk | 1,440
-adaderanalk | 1,443
+tamilmirrorlk | 1,441
+adaderanalk | 1,444
 virakesarilk | 1,632
 dailymirrorlk | 1,817
-adaderanasinhalalk | 1,867
+adaderanasinhalalk | 1,869
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,864 (100.0%) of 11,865 articles have been extended.
+11,865 (100.0%) of 11,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### வென்றது இலங்கை அணி
+### இலங்கைக்கு 40 மில்லியன் முட்டைகள் இறக்குமதி
+
+*2024-03-09 20:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-40-மில்லியன்-முட்டைகள்-இறக்குமதி/175-334430) · `ta`
+
+பண்டிகை காலத்தை முன்னிட்டு எதிர்வரும் வாரத்தில் 40 மில்லியன் முட்டைகள் இலங்கைக்கு இறக்குமதி செய்யப்படவுள்ளதாக அரச வர்த்தக கூட்டுத்தாபனம் தெரிவித்துள்ளது.
+
+நுகர்வோருக்கு ஒரு முட்டையை 43 ரூபாவுக்கு தட்டுப்பாடின்றி விற்பனை செய்ய முடியும் என அதன் தலைவர் ஆசிரி வலிசுந்தர தெரிவித்தார். R
+
+◼️
+
+[Data](articles/f350179a.json)
+
+---
+
+### දරුවන් ඇතුළු ඝාතන 6ක් සඳහා ෆ්‍රෑන්ක් ව පෙළඹුවේ කුමක්ද ?
+
+*2024-03-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194330) · `si`
+
+කැනඩාවේ ඝාතනයට ලක්වූ ශ්‍රී ලාංකික පවුලේ දිවි බේරා ගනු ලැබු ධනුෂ්ක වික්‍රමසිංහ ප්‍රහාරයෙන් දැඩි ලෙස තුවාල ලබා ඇති අතර ඔහු ඊයේ (08) සැත්කමක් සඳහා ද යොමුකර තිබේ.
+
+එම ප්‍රහාරයෙන් ධනුෂ්කගේ අතේ ඇඟිල්ලක් ද අහිමිවී ඇති බව වාර්තා වෙයි.
+
+මේ අතර එම ප්‍රහාර සිදුකළ 19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසාගේ නැන්දණිය පළමු වරට මාධ්‍ය වෙත අදහස් දක්වමින් පවසන්නේ  පසුගිය වසර ඇතුළත ඔහුගේ හැසිරිමේ දැඩි වෙනස්වීමක් සිදුව ඇති අතරම ඔහු සිය ඥාතීන්ගෙන් සම්පූර්ණයෙන් දුරස්වී හුදෙකලා ජීවිතයකට හුරුව ඇති බවය.
+
+කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු  සිය නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුණේ පසුගිය බදාදා රාත්‍රීයේ දී ය.
+
+සිද්ධිය සම්බන්ධයෙන් ඝාතනය සිදු වූ නිවසේම පදිංචිව සිටි  19 හැවිරිදි ෆ්‍රෑන්ක් ද සොයිසා නම් ශ්‍රී ලාංකික තරුණයෙකු අත්අඩංගුවට පත් වුණි.
+
+මේ වනවිට එම තරුණයාට මිනිමැරීම් හයක සහ මිනී මැරීමට උත්සාහ කිරීම් එකකට චෝදනා එල්ලවී තිබේ.
+
+...
+
+[Data](articles/e60b954c.json)
+
+---
+
+### One injured in shooting at Ja-Ela
+
+*2024-03-09 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97844/one-injured-in-shooting-at-ja-ela) · `en`
+
+A person has been injured in a shooting that took place at Dandugama, Ja-ela, the police said.
+
+The injured individual has been admitted to the Ragama Hospital for treatment, according to police.
+
+◼️
+
+[Data](articles/13aae099.json)
+
+---
+
+### ජාඇළ වෙඩිතැබීමක්
+
+*2024-03-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194329) · `si`
+
+ජාඇළ, දඬුගම, බස්වත්ත ප්‍රදේශයේ දී අද (09) පස්වරුවේ වෙඩිතැබීමක් සිදුකර තිබේ.
+
+අද රාත්‍රී 6.30 - 7.30 අතර කාලයේදී එම වෙඩිතැබීම සිදුකර ඇති බව වාර්තා වෙයි.
+
+වෙඩි ප්‍රරහායට ලක්වූ පුද්ගලයින්ට නිවසින් පිටතට පැමිණ ලෙස දුරකථන ඇමතුමක්දී එම වෙඩිතැබීම සිදුකර ඇති බව අනාවරණය වී ඇත.
+
+එහිදී එක් අයෙකුට වෙඩි වැදී ඇති අතර අනෙක් පුද්ගලයා දිව ගොස් තිබේ.
+
+වෙඩිතැබීම සඳහා පැමිණි පුද්ගලයන් දෙදෙනාද පළගොස් ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/127d102c.json)
+
+---
+
+### Winning Sri Lanka Team
 
 *2024-03-09 19:39:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்றது-இலங்கை-அணி/175-334429) · `ta`
 
-இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கிடையிலான T20 கிரிக்கெட் தொடரை இலங்கை அணி 2 - 1 என்ற அடிப்படையில் வென்றுள்ளது.
+Sri Lanka defeats Bangladesh 2-1 in T20 series, winning 3rd match by 28 runs in 20 overs with 174 runs, while Bangladesh is bowled out for 175 in 19.4 overs.
 
-தொடரின் மூன்றாவது போட்டியில் இலங்கை அணி பங்காதேஷ் அணியை 28 ஓட்டங்களால் வெற்றிக்கொண்டது.
+🟩
 
-போட்டியில் முதலில் துடுப்பெடுத்தாடிய இலங்கை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் நிறைவில் 7 விக்கெட்டுக்களை இழந்து 174 ஓட்டங்களை பெற்றுக்கொண்டது.
+Sri Lanka have won the T20 cricket series between Sri Lanka and Bangladesh 2 - 1.
 
-இந்தநிலையில், 175 ஓட்டங்கள் என்ற வெற்றியிலக்கை நோக்கி துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி19.4 ஓவர்களில் சகல விக்கெட்டுக்களையும் இழந்து 146 ஓட்டங்களை மாத்திரம் பெற்று தோல்வியை தழுவியது. R
+In the third match of the series, the Sri Lankan team won the Pangadesh team by 28 runs.
+
+Sri Lanka won the match by 7 wickets in their 20 overs and scored 174 runs.
+
+In the meantime, Bangladesh were bowled out for 175 runs and lost all wickets in 19.4 overs and lost only 146 runs.. Remble
 
 ◼️
 
 [Data](articles/0d7a86bb.json)
+
+[Extended Data](ext_articles/0d7a86bb.ext.json)
 
 ---
 
@@ -2217,87 +2293,5 @@ In an era where digital platforms play a central role in organizational success,
 [Data](articles/d5e74bf0.json)
 
 [Extended Data](ext_articles/d5e74bf0.ext.json)
-
----
-
-### Sri Lanka juggles support for Palestinian cause while deepening ties with Israel
-
-*2024-03-08 23:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-juggles-support-for-Palestinian-cause-while-deepening-ties-with-Israel/108-278531) · `en`
-
-Colombo, March 08 (Daily Mirror) - Sri Lanka is navigating a delicate balance between its support for the two-state solution in Palestine and its efforts to strengthen ties with Israel, as evidenced by recent developments such as the opening of a Honorary Consulate in Haifa , participation in Red Sea operations and opening a fund for children affected by the conflict in Gaza .
-
-The government always articulates Sri Lanka’s traditional stand on the two - state solution to the Palestinian issue , and at the same time, seeks to enhance ties with Israel .
-
-President Ranil Wickremesinghe recently convened a meeting at the Presidential Secretariat with the Ambassadors from ten Middle Eastern nations. Throughout the discussions, the President reemphasized Sri Lanka’s unwavering commitment to the two-state solution in Palestine.
-
-At the same time , Sri Lanka announced its participation in the Red Sea operations to counter Houthi attacks , a move disliked by the envoys of West Asian countries .
-
-...
-
-[Data](articles/0bf8bca2.json)
-
-[Extended Data](ext_articles/0bf8bca2.ext.json)
-
----
-
-### A motorcycle on fire on Jaffna- Mannar main road;Fortunately two survivors
-
-*2024-03-08 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178295) · `ta`
-
-A motorcycle caught fire on Jaffna-Mannar main road near Mannar Thirukkadeeswaram temple during Shivaratri. Two men survived by jumping off.
-
-🟩
-
-The motorcycle suddenly caught fire on the Mannar Thirukkadeeswaram temple on Friday evening (08) through the Jaffna -Mannar main road to observe Shivaratri in Mannar.
-
-During this time, the two men who were traveling on the motorcycle jumped off the motorcycle and survived.
-
-The incident took place on Friday evening (8) at the Mannar Main Road, Jaffna.
-
-◼️
-
-[Data](articles/295e8c9e.json)
-
-[Extended Data](ext_articles/295e8c9e.ext.json)
-
----
-
-### Sri Lanka to introduce gender budgeting, new laws on gender equality & women empowerment
-
-*2024-03-08 23:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97829/sri-lanka-to-introduce-gender-budgeting-new-laws-on-gender-equality-women-empowerment) · `en`
-
-President Ranil Wickremesinghe on Friday (March 08) unveiled plans to introduce two significant bills aimed at advancing gender equality and women empowerment, with both slated for presentation to Parliament in May.
-
-Addressing the National Celebration of International Women’s Day at the Water’s Edge, Battaramulla, the President outlined the key provisions of these legislative initiatives.
-
-Under the proposed Women’s Empowerment Act, the establishment of a separate commission is envisaged, he said further, adding that this commission’s primary objective will be to facilitate the advancement and empowerment of women by implementing mechanisms to protect their rights, all by constitutional provisions. President Wickremesinghe noted that the draft of this bill was published in the Gazette on Thursday (March 07), marking a significant step towards its realization.
-
-...
-
-[Data](articles/63fcfcb1.json)
-
-[Extended Data](ext_articles/63fcfcb1.ext.json)
-
----
-
-### The Muther Radhoshavam of the Kirimalai Nakulachechara Temple
-
-*2024-03-08 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178293) · `ta`
-
-The historic Jaffna Nakulambigai Samadha Nakuleswarar Devasthanam's Muther Radhosavam was held, featuring special Abhishekam in the sanctum sanctorum and Vasantha Mandapam. Therari offered blessings, attracting devotees from across the country.
-
-🟩
-
-The Muther Radhosavam of the historic Jaffna Nakulambigai Samadha Nakuleswarar Devasthanam was held on Friday (8).
-
-In the sanctum sanctorum, Nakuleshwar Nakulambigai, Murugan Valli and Deivanai were special, Abhishekam, and in the Vasantha Mandapam. Then, through the outskirts, Therari came to the pilgrimage and offered his blessings to the devotees.
-
-Devotees who visited many parts of the country participated in the event and obtained their exquisite.
-
-◼️
-
-[Data](articles/b21ce10f.json)
-
-[Extended Data](ext_articles/b21ce10f.ext.json)
 
 ---

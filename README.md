@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 07:03:18**
+As of **2024-03-09 07:25:37**
 
 ## Newspaper Stats
 
-*Scraped **11,782** Articles*
+*Scraped **11,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ adalk | 997
 tamilmirrorlk | 1,422
 adaderanalk | 1,429
 virakesarilk | 1,623
-dailymirrorlk | 1,803
-adaderanasinhalalk | 1,847
+dailymirrorlk | 1,804
+adaderanasinhalalk | 1,849
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,778 (100.0%) of 11,782 articles have been extended.
+11,782 (100.0%) of 11,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Sri Lankan family slain by 19-year-old Sri Lankan student in Ottawa
+
+*2024-03-09 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-family-slain-by-19-year-old-Sri-Lankan-student-in-Ottawa/108-278536) · `en`
+
+A 19-year-old student from Sri Lanka has been charged with stabbing six Sri Lankans living in Ottawa, Canada, killing five of them including a two-and-a-half-month old infant, in Ottawa, Canada.
+
+Ottawa Police have identified the six victims killed in Barrhaven, a suburb of Ottawa, which included a family of five who were newcomers from Sri Lanka. The tragic incident is now being treated as a mass killing by Ottawa Police.
+
+The father, Dhanushka Wickramasinghe sustained serious injuries. His wife, 35-year-old Darshani Dilanthika Ekanayake, was killed along with their sevenyear-old son Inuka, and daughters: four-year-old Ashwini, two-yearold Rinyana, and two- month-old Kelly.
+
+Ottawa Police Service in a statement said that it responded to a home in the 300 block of Berrigan Drive at 10:52 p.m. Wednesday, March 6 after receiving a number of 911 calls.
+
+...
+
+[Data](articles/3f6b38ee.json)
+
+---
+
+### කැබ් රථයක ගැටී තිදෙනෙක් මරුට
+
+*2024-03-09 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194308) · `si`
+
+අනුරාධපුරය, රඹෑවේ සිදුවූ බිහිසුණු අනතු‍රකින් තිදෙනෙකුට දිවි අහිමි වී තිබේ.
+
+පොලීසිය පැවසුවේ අනුරාධපුර, රඹෑව මාර්ගයේ අද (09) අළුයම මෙම අනතුර සිදුව ඇති බවය.
+
+කැබ් රථයක් මාර්ගයේ ගමන් කරමින් සිටි පිරිසකගේ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව සඳහන් වේ.
+
+සංගීත සංදර්ශනයකින් අනතුරුව නිවෙස් බලා ගමන් කරමින් සිටි පිරිසක් මෙලෙස අනතුරට ලක්ව තිබේ.
+
+අනතුරින් මියගොස් ඇත්තේ පිරිමි පුද්ගලයින් තිදෙනෙකු වන අතර කාන්තාවන් දෙදෙනෙකු තුවාල ලබා අනුරාධපුර රෝහලට ඇතුළු කර තිබුණි.
+
+අනතුර සිදුකළ කැබ් රථය පළාගොස් ඇති බවත් පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/4dcbee02.json)
+
+---
+
+### සති අන්තයේ කාලගුණය
+
+*2024-03-09 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194307) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත්  සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව දන්වා තිබේ.
+
+මේ අතර කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඊයේ (08) නිවේදනය කළේ දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (09) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා ඉහළ යනු ඇති බවයි.
+
+ඒ අනුව වයඹ, දකුණු හා උතුරු මැද සහ පළාත්වලත් මොනරාගල, රත්නපුර, මන්නාරම, වවුනියා මුලතිව් හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/60dfbefc.json)
+
+---
 
 ### From the Royal-Thomian...
 
@@ -64,37 +124,49 @@ This book follows “Press vs the Prez” and the memo of Former President Gotab
 
 ---
 
-### தீ பற்றிய மோட்டார் சைக்கிள் இருவர் தப்பினர்
+### Two motorcycles escaped on fire
 
 *2024-03-09 05:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தீ-பற்றிய-மோட்டார்-சைக்கிள்-இருவர்-தப்பினர்/72-334405) · `ta`
 
-மன்னார் திருக்கேதீஸ்வரத்தில் சிவராத்திரியை அனுஷ்டிப்பதற்கு யாழ் - மன்னார் பிரதான வீதியூடாக மன்னார் திருக்கேதீஸ்வரம் ஆலயம் நோக்கி, வெள்ளிக்கிழமை (08) மாலை    இருவர் மோட்டார் சைக்கிளில் வந்து கொண்டிருந்த போது குறித்த மோட்டார் சைக்கிள் திடீரென தீப்பற்றியது.
+Two motorcycles caught fire on the Mannar Thirukkadeeswaram temple road during Shivaratri celebrations. The two riders survived by jumping off.
 
-இதன் போது குறித்த மோட்டார் சைக்கிளில் பயணித்த இருவரும் மோட்டார் சைக்கிளில் இருந்து பாய்ந்து அதிர்ஷ்டவசமாக உயிர் தப்பினர்.
+🟩
 
-குறித்த சம்பவம்   யாழ் -மன்னார் பிரதான வீதி பள்ளமடு வீதியில் இடம் பெற்றுள்ளது.
+The motorcycle suddenly caught fire on the Mannar Thirukkadeeswaram temple on Friday evening (08), along the Jaffna -Mannar main road to observe Shivaratri in Mannar.
+
+During this time, the two men who were traveling on the motorcycle jumped off the motorcycle and survived.
+
+The incident has taken place at the Jaffna -Mannar main road.
 
 ◼️
 
 [Data](articles/45b28eb5.json)
 
+[Extended Data](ext_articles/45b28eb5.ext.json)
+
 ---
 
-### தண்டவாளத்தில் ஓடிய பஸ்
+### Bus
 
 *2024-03-09 05:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-ஓடிய-பஸ்/175-334403) · `ta`
 
-தனியார் பஸ்ஸொன்றின் சுக்கான் இறுகியதால் அந்த பஸ், ரயில் தண்டவாளத்தில் ஓடிய சம்பவமொன்று இடம்பெற்றுள்ளது.
+A bus ran on the railway track at Kanemulla Railway Station, Friday afternoon, causing damage to the line to Colombo, blocking traffic.
 
-கனேமுல்ல புகையிரத நிலையத்தில் வெள்ளிக்கிழமை  (8) பிற்பகல் இந்த சம்பவம் இடம்பெற்றுள்ளது என்றும். அந்த பஸ் புகையிரத பாதையை சேதப்படுத்தியுள்ளதாக புகையிரத திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+🟩
 
-கொழும்பு நோக்கி செல்லும் புகையிரத பாதை சேதமடைந்துள்ளதாகவும், இதன் காரணமாக புகையிரத போக்குவரத்து தடைப்பட்டுள்ளதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+There was an incident where the bus was running on the railway track as a private bus was torn apart.
 
-மாலை 6.55 மணியளவில்   புகையிரத பாதையில்  பஸ் ஓடியதுடன் புகையிரத பாதையில் நிறுத்தப்பட்டதால் பிரதான வீதியில் புகையிரத போக்குவரத்திற்கு இடையூறு ஏற்பட்டதாகவும் சம்பவம் தொடர்பில் கணேமுல்ல பொலிஸார் மற்றும் புகையிரத திணைக்களம் விசாரணைகளை மேற்கொண்டு வருவதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+The incident took place on Friday afternoon at the Kanemulla Railway Station. A top official of the Railway Department said the bus had damaged the railway line.
+
+The official said that the railway line to Colombo has been damaged and the railway traffic has been blocked.
+
+The official said that the bus was running on the railway line at around 6.55 pm and the train was stopped on the main road.
 
 ◼️
 
 [Data](articles/00bf2a96.json)
+
+[Extended Data](ext_articles/00bf2a96.ext.json)
 
 ---
 
@@ -375,6 +447,8 @@ He shared these views during the media briefing at the Presidential Media Centre
 ...
 
 [Data](articles/53e941ec.json)
+
+[Extended Data](ext_articles/53e941ec.ext.json)
 
 ---
 
@@ -2197,69 +2271,5 @@ President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe in 
 [Data](articles/03f2fb74.json)
 
 [Extended Data](ext_articles/03f2fb74.ext.json)
-
----
-
-### Opportunities for opposition leaders to discuss with the high -level committee of the International Monetary Fund
-
-*2024-03-08 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178237) · `ta`
-
-The Presidential Media Unit announced that President Ranil Wickremesinghe will host a meeting on Monday for opposition leaders to discuss IMF proposals with its high-level committee.
-
-🟩
-
-The Presidential Media Unit said that steps have been taken to provide an opportunity to discuss the proposals of the International Monetary Fund with its high -level committee.
-
-Accordingly, President Ranil Wickremesinghe has called for a meeting at the Presidential Office on Monday to give this opportunity to the leaders of the opposition parties approved in Parliament.
-
-◼️
-
-[Data](articles/e9e3f615.json)
-
-[Extended Data](ext_articles/e9e3f615.ext.json)
-
----
-
-### Sri Lanka opposition MP claims president was responsible for predecessor’s exit
-
-*2024-03-08 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-mp-claims-president-was-responsible-for-predecessors-exit-153794/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe was responsible for his predecessor Gotabaya Rajapaksa’s exit since he could’ve contained the Aragalaya protests and resolved the crisis while remaining Prime Minister if he wanted to, opposition MP Ashok Abeysinghe said.
-
-Responding to questions raised by a YouTube channel on Thursday March 07, Abeysinghe said Rajapaksa’s recent “tell-all” book about an alleged conspiracy to oust him should’ve made references to what the main opposition Samagi Jana Balawegaya (SJB) claimed was Wickermesinghe’s decisive role in the former president’s unceremonious departure.
-
-...
-
-[Data](articles/8313ccb8.json)
-
-[Extended Data](ext_articles/8313ccb8.ext.json)
-
----
-
-### Murugan asks for the opportunity to go to England
-
-*2024-03-08 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194288) · `si`
-
-Murugan, alias Sri Haran, petitions for aviation documents to go to England, claiming refuge. He was released from prison in 2022 for the assassination of Rajiv Gandhi. Nalini, arrested as a suspect in the murder, was pregnant. Mahaha went to England in 2006, earning a medical degree in Medical Physics.
-
-🟩
-
-Rami Gandhi was guilty of the assassination of former Indian Prime Minister Rajiv Gandhi and was released from imprisonment to 2022. Sri Haran alias Murugan, Madharasha High Court has filed a petition in the Meadium High Court demanding the opportunity to obtain aviation documents he needs to go to England.
-
-He has asked for permission to go to the Sri Lanka Consulate in Chennai and allows the interview to make visa to create their flights and to go to England.
-
-It is reported that his purpose is to go to England and applying for refuge.
-
-Indian media stated that he was a guilty of the assassination of Rajiv Gandhi and was later released and released from Susagan's wife. The petition has been filed by Nalini.
-
-When Nalini was arrested as a suspect in Rajiv Gandhi's murder, she was a pregnant.
-
-In 2006, Mahaha went to England and joined his father's family and shedding medical degree in Medical Physics.
-
-◼️
-
-[Data](articles/dbf8410c.json)
-
-[Extended Data](ext_articles/dbf8410c.ext.json)
 
 ---

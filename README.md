@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 17:17:49**
+As of **2024-03-09 17:33:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,850 (100.0%) of 11,852 articles have been extended.
+11,852 (100.0%) of 11,852 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ Thushara joins Thisara Perera, Lasith Malinga, Akila Dananjaya and Wanindu Hasar
 
 [Data](articles/a1c7a63f.json)
 
+[Extended Data](ext_articles/a1c7a63f.ext.json)
+
 ---
 
-### இலங்கையில் பெண் பிள்ளைகள் குறித்து அதிர்ச்சி செய்தி
+### Shocking news about female children in Sri Lanka
 
 *2024-03-09 16:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பெண்-பிள்ளைகள்-குறித்து-அதிர்ச்சி-செய்தி/175-334426) · `ta`
 
-இலங்கையில் 5 - 19 வயது வரையிலான பாடசாலையில் கல்வி கற்கும் 410,000  பெண் பிள்ளைகள்  போசணை குறைப்பாடு காரணமாக எடை குறைவாக இருப்பதாக வைத்தியர்களின் மருத்துவ மற்றும் குடியுரிமைகள் நிபுணத்துவ சங்கத்தின் தலைவர் வைத்தியர் சமல் சஞ்சீவ நேற்று தெரிவித்தார்.
+Dr. Samal Sanjeewa reports 410,000 Sri Lankan girls aged 5-19 are underweight due to nutritional deficiency, placing Sri Lanka high on the global list of countries with significant weight loss from malnutrition. This issue threatens children's health, potentially leading to mental health issues and decreased productivity.
 
-பிரித்தானிய ‘லான்செட் மெடிக்கல் ஜர்னல்’ இதழின் ஆய்வின் படி உலகில் போசணை குறைபாடு காரணமாக உடல் எடை குறைந்தவர்கள் அதிகம் இருக்கும் நாடுகளின் பட்டியலில் இலங்கையும் உள்ளது.
+🟩
 
-உலகளவில் உடல் எடை குறைவினால் பாதிக்கப்பட்டவர்களில் பெண்களின் வீதம் இந்தியாவுக்கு அடுத்தபடியாக  இலங்கையில் உள்ளது.
+Dr. Samal Sanjeewa, president of the doctors' Medical and Citizenship Professional Association, said yesterday that 410,000 girls who are studying in the age of 5 to 19 in Sri Lanka are underweight due to nutrition.
 
-199 நாடுகளில் 22 கோடி பேரிடம் சுமார் 1,900 ஆராய்ச்சியாளர்களின் பங்கேற்புடன் நடத்தப்பட்ட ஆராய்ச்சியில் உடற் திணிவுச் சுட்டி (உயரத்திற்கான எடை) முக்கிய அளவுகோலாக எடுக்கப்பட்டுள்ளது.
+According to a study of the British Medical Medical Journal, Sri Lanka is also on the list of countries where there is a lot of weight loss due to nutritional deficiency in the world.
 
-போசணைக் குறைப்பாட்டால் பாடசலை பிள்ளைகளின் உடல் ஆரோக்கியம் பாதிக்கப்படுவது மட்டு மன்றி, மனவளர்ச்சி குன்றும் ஆபத்தில் உள்ளனர். எனவே இதற்கு அரசாங்கம் நடவடிக்கை எடுக்காவிட்டால் நாட்டில்  மனவளர்ச்சி குன்றிய  பிள்ளைகளின் தலைமுறை உருவாகும்.
+Women's rate is next to India in Sri Lanka.
+
+In 199 countries, 22 crore people with the participation of about 1,900 researchers have taken the main criterion (weight for height).
+
+Due to the reduction of the nutrition, the health of the children's health is in danger of being mired and depressed. Therefore, if the government does not take action, the generation of the mentally retarded in the country will be created.
 
 ...
 
 [Data](articles/45eb367a.json)
+
+[Extended Data](ext_articles/45eb367a.ext.json)
 
 ---
 

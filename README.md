@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 14:51:11**
+As of **2024-03-09 15:02:57**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 1,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,832 (100.0%) of 11,834 articles have been extended.
+11,834 (100.0%) of 11,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
 
-### அநுராதபுரத்தில் விபத்தை ஏற்படுத்திவிட்டு தப்பி ஓடிய சாரதி கைது
+### Driver arrested for fleeing an accident in Anuradhapura
 
 *2024-03-09 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178311) · `ta`
 
-அநுராதபுரம், ரம்பேவ பகுதியில் இன்று சனிக்கிழமை (09)  விபத்தை ஏற்படுத்திவிட்டு தப்பி ஓடிய கெப் ரக வாகனத்தின் சாரதியை பொலிஸார் கைது செய்துள்ளனர்.
+A driver was arrested for fleeing an accident in Anuradhapura, where three men died and two women are in treatment. The driver was speeding and fled the scene.
 
-கெப் ரக வாகனத்தை வேகமாக  ஓட்டி வந்த இந்த நபர்  வீதியில் சென்றவர்களை மோதித் தள்ளிவிட்டு அங்கிருந்து தப்பிச் சென்றுள்ளார்.
+🟩
 
-விபத்தில் காயமடைந்த மூன்று ஆண்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதுடன்,  இரண்டு பெண்கள் தற்போது அநுராதபுரம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+Police have arrested a driver of a Keb -vehicle driver who fled after an accident on Saturday (09) in Rambawewa, Anuradhapura.
 
-இந்நிலையில், விபத்தை ஏற்படுத்தி விட்டு தப்பி ஓடிய சாரதி அவருடன் இருந்த இரு நபர்களுடன் அநுராதபுரம் மற்றும் யாழ்ப்பாணம் இடைமாறும் பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+The man who was driving a Keb vehicle was speeding and fleeing from the road.
+
+Three men who were injured in the accident have died after being admitted to the hospital and two women are currently receiving treatment at the Anuradhapura Teaching Hospital.
+
+In this case, the driver who fled the accident has been arrested in the middle of the Anuradhapura and Jaffna area with two persons who accompanied him.
 
 ◼️
 
 [Data](articles/6c112880.json)
 
+[Extended Data](ext_articles/6c112880.ext.json)
+
 ---
 
-### 17 හැවිරිදි තරුණියකගේ සිරුරක් තේ වත්තක
+### One of the heroes of a 17 year old girl in a tea estate
 
 *2024-03-09 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194320) · `si`
 
-ඇල්පිටිය පොලිස් වසමේ තලාව පාර, නානායක්කාර මාවත ප්‍රදේශයේ  පිහිටි තේ ඉඩමකදී සිරුර සොයාගෙන ඇත.
+A 17-year-old girl's body was found in a tea estate in Elpitiya, with her neck suspected of being cut. She lived in Talgahawatte, and a group of three-wheelers was forcibly taken in the area yesterday. No arrests yet.
 
-අව වාර්තාකරු සඳහන් කළේ ඇයගේ ගෙල කපා ඝාතනය සිදුකර ඇති බවට සැක කෙරෙන බවය.
+🟩
 
-මියගිය සිසුවිය හංසිකා නදීෂානි නමැති තල්ගහවත්ත, මණ්ඩකන්ද, කරන්දෙනිය ප්‍රදේශයේ පදිංචිකාරිනියකි.
+The body was found at a tea land in Nanayakkara Mawatha, Elpitiya Police Division.
 
-ත්‍රීරෝද රථයකින් පැමිණි පිරිසක් ඊයේ (08) දින කරන්දෙණිය තල්ගහවත්ත, ගඟපාර ප්‍රදේශයේදී ඇයව බලහත්කාරයෙන් රැගෙන ගොස් ඇති බව වාර්තා වෙයි.
+The reporter stated that her neck was suspected of cutting down.
 
-සැකකරුවන් මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර ඇල්පිටිය පොලිස් ස්ථානය මගින් වැඩිදුර පරීක්ෂණ සිදු කරයි.
+The deceased has been a resident of Talgahawatte, Talgahawatte and Savings in the Karandeniya area.
+
+It is reported that a group of three-wheeler had been forcibly taken in the Thalgahawatta area in Thalgahawatta yesterday.
+
+The suspects have not been arrested yet further investigations.
 
 ◼️
 
 [Data](articles/cba154e9.json)
+
+[Extended Data](ext_articles/cba154e9.ext.json)
 
 ---
 

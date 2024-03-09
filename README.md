@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 11:02:51**
+As of **2024-03-09 11:17:45**
 
 ## Newspaper Stats
 
-*Scraped **11,813** Articles*
+*Scraped **11,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,88 @@ adalk | 997
 tamilmirrorlk | 1,428
 adaderanalk | 1,435
 virakesarilk | 1,627
-dailymirrorlk | 1,808
+dailymirrorlk | 1,810
 adaderanasinhalalk | 1,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,813 (100.0%) of 11,813 articles have been extended.
+11,813 (100.0%) of 11,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Religious centres engaging in conversions to be raided: Minister
+
+*2024-03-09 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Religious-centres-engaging-in-conversions-to-be-raided-Minister/108-278539) · `en`
+
+Colombo, March 9 (Daily Mirror)- Steps will be taken to raid unregistered religious centres that are engaged in religious conversions in a move to stop such activities, Buddhasasana, Religious and Cultural Affairs Minister Vidura Wickramanayaka said.
+
+The Minister has instructed the Commissioner General of Buddhist Affairs to inform the police chief to carry out raids on unregistered religious centres that are engaged in religious conversions.
+
+The Minister revealed this during a meeting with a group of prelates at the Ministry of Buddhasasana, Religious and Cultural Affairs.
+
+The discussion also focused on steps to be taken regarding issues related to religious places of worship, Buddhist monks and religious distortion.
+
+It was also decided at the meeting to include titles 'Venerable' for Buddhist monks and 'Reverend' for ‘Bhikkhunis ' in their national identity cards and passports.
+
+◼️
+
+[Data](articles/140a8e2a.json)
+
+---
+
+### Seal with a fine for a restaurant operating with health problems in Jaffna
+
+*2024-03-09 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178302) · `ta`
+
+A restaurant in Jaffna fined 73,000 rupees for health violations, including 180 kg of spoiled bread, 5 kg of spoiled fish, and 8 kg of spoiled meat. Another owner fined 20,000 rupees for storing defective meat and shrimp.
+
+🟩
+
+A restaurant in Jaffna, a restaurant, has been sentenced to seal the restaurant, which has been fined 73 thousand rupees.
+
+Public Health Inspector. During a sudden raid carried out in the restaurants headed by Princeen, it was found that 180 kg of dilapidated breads, 05 kg of idiots and 08 kg of bites were tied up in polythene bags.
+
+As the Mallakam Magistrate's Court was sued against the restaurant, the owner was ordered to shut down the restaurant, which was fined Rs 73,000.
+
+At the same time, a restaurant owner who had stored defective meat and shrimp had a fine of 20 thousand rupees, the sale of a repaired meat bread and another restaurant owner who maintained the restaurant's restaurant.
+
+At the same time, the Mallakam Magistrate's Justice has been ordered to shut down some restaurants in the case of about Rs.
+
+◼️
+
+[Data](articles/c2246521.json)
+
+[Extended Data](ext_articles/c2246521.ext.json)
+
+---
+
+### Five people killed in Parasood in Gaza
+
+*2024-03-09 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178300) · `ta`
+
+In Gaza, a Hamas attack on Israel in October 2022 resulted in 1,139 Israeli deaths and 253 hostages. Israel launched a war in response, killing 30,800, including Hamas members, and 424 in a West clash. The conflict has led to a humanitarian crisis, with a shortage of food and water. Relief efforts, including by the US Air Force, have been hampered by protests and accidents, such as the death of 5 people when relief items fell from a US Air Force aircraft.
+
+🟩
+
+Hamas armed group operating in Gaza on Israel launched a terrorist attack on October 7 last year. 1,139 people were killed in Israel in the attack. Many more were injured.
+
+Hamas Armed Forces abducted 253 of Israelis as hostage to Gazamunnu. Following the attack, the Israeli war announced the Hamas armed group in Gaza.
+
+Meanwhile, Hamas has released more than 100 of the hostage in Gazamunai on a contract basis. However, more than 130 people are hostage in Gaza, Israel said. Israel is engaged in the rescue of hostage.
+
+Meanwhile, Israel is launching a war on Gazamunai in response to the Hamas Armed Forces attack.. 30 thousand 800 people, including Hamas Armed Forces, were killed in the attack by Israel. Similarly, 424 people were killed in a clash on the West.
+
+...
+
+[Data](articles/7adf2800.json)
+
+[Extended Data](ext_articles/7adf2800.ext.json)
+
+---
 
 ### 27-year-old arrested over fatal shooting in Hungama
 
@@ -84,29 +154,23 @@ Then the Facebook accounts that are hosted will be replaced by them and will be 
 
 ---
 
-### Seal with a fine for a restaurant operating with health problems in Jaffna
+### Four arrested for kidnapping man for Rs. 3.5 Mn ransom
 
-*2024-03-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178302) · `ta`
+*2024-03-09 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-arrested-for-kidnapping-man-for-Rs-3-5-Mn-ransom/108-278543) · `en`
 
-A restaurant in Jaffna fined 73,000 rupees for health violations, including 180 kg of spoiled bread, 5 kg of spoiled fish, and 8 kg of spoiled meat. Another owner fined 20,000 rupees for storing defective meat and shrimp.
+Horana, March 9 (Daily Mirror) - Police have arrested four suspects in connection with a kidnapping incident where an individual was held for a ransom of Rs. 3.5 million.
 
-🟩
+Following a complaint from the victim's wife, Moragahahena Police initiated an investigation into the abduction.
 
-A restaurant in Jaffna, a restaurant, has been sentenced to seal the restaurant, which has been fined 73 thousand rupees.
+The victim was reportedly abducted on Thursday by four individuals arriving in a car at Koralaima in Moragahahena, who subsequently demanded the ransom.
 
-Public Health Inspector. During a sudden raid carried out in the restaurants headed by Princeen, it was found that 180 kg of dilapidated breads, 05 kg of idiots and 08 kg of bites were tied up in polythene bags.
+Police arrested the suspects involved in the abduction, along with the vehicle used in the crime.
 
-As the Mallakam Magistrate's Court was sued against the restaurant, the owner was ordered to shut down the restaurant, which was fined Rs 73,000.
-
-At the same time, a restaurant owner who had stored defective meat and shrimp had a fine of 20 thousand rupees, the sale of a repaired meat bread and another restaurant owner who maintained the restaurant's restaurant.
-
-At the same time, the Mallakam Magistrate's Justice has been ordered to shut down some restaurants in the case of about Rs.
+The suspects, aged between 28 and 45 were identified as residents of Kotadeniya and Angoda areas.
 
 ◼️
 
-[Data](articles/c2246521.json)
-
-[Extended Data](ext_articles/c2246521.ext.json)
+[Data](articles/49e2b499.json)
 
 ---
 
@@ -211,30 +275,6 @@ Later, 20 crew members and the three armed guards who were aboard the attacked v
 [Data](articles/2bf05679.json)
 
 [Extended Data](ext_articles/2bf05679.ext.json)
-
----
-
-### Five people killed in Parasood in Gaza
-
-*2024-03-09 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178300) · `ta`
-
-In Gaza, a Hamas attack on Israel in October 2022 resulted in 1,139 Israeli deaths and 253 hostages. Israel launched a war in response, killing 30,800, including Hamas members, and 424 in a West clash. The conflict has led to a humanitarian crisis, with a shortage of food and water. Relief efforts, including by the US Air Force, have been hampered by protests and accidents, such as the death of 5 people when relief items fell from a US Air Force aircraft.
-
-🟩
-
-Hamas armed group operating in Gaza on Israel launched a terrorist attack on October 7 last year. 1,139 people were killed in Israel in the attack. Many more were injured.
-
-Hamas Armed Forces abducted 253 of Israelis as hostage to Gazamunnu. Following the attack, the Israeli war announced the Hamas armed group in Gaza.
-
-Meanwhile, Hamas has released more than 100 of the hostage in Gazamunai on a contract basis. However, more than 130 people are hostage in Gaza, Israel said. Israel is engaged in the rescue of hostage.
-
-Meanwhile, Israel is launching a war on Gazamunai in response to the Hamas Armed Forces attack.. 30 thousand 800 people, including Hamas Armed Forces, were killed in the attack by Israel. Similarly, 424 people were killed in a clash on the West.
-
-...
-
-[Data](articles/7adf2800.json)
-
-[Extended Data](ext_articles/7adf2800.ext.json)
 
 ---
 
@@ -2203,51 +2243,5 @@ The Department has informed the health advice including adequate water, the rest
 [Data](articles/2d196c0b.json)
 
 [Extended Data](ext_articles/2d196c0b.ext.json)
-
----
-
-### Advisory issued for rising temperatures in 5 districts
-
-*2024-03-08 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97823/advisory-issued-for-rising-temperatures-in-5-districts) · `en`
-
-The Meteorology Department has issued a heat Index Advisory for Saturday (March 09) for five districts in the country.
-
-Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution Level’ in parts of Ratnapura, Anuradhapura, Mannar, Vavuniya and Mullaitivu districts tomorrow.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
-
-Thus, members of the public have been advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They were also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-coloured clothing.
-
-...
-
-[Data](articles/ffe48f99.json)
-
-[Extended Data](ext_articles/ffe48f99.ext.json)
-
----
-
-### Sri Lanka to teach Japanese, Chinese, Korean in schools, but teachers in short supply
-
-*2024-03-08 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-teach-japanese-chinese-korean-in-schools-but-teachers-in-short-supply-153810/) · `en`
-
-ECONOMYNEXT- Sri Lanka wants to introduce more foreign languages to the school curriculum to make it easier for school leavers to get jobs, but there is a shortage of teachers, State Minister for Education, Aravindh Kumar, said.
-
-Sri Lankans are already seeking jobs in Japan and Korea where local language skills are a requirement.
-
-“We are planning on introducing foreign languages such as Japanese, Chinese and Korean in order to create jobs for local people,” Kumar said to reporters Friday.
-
-“When I met with the Japanese ambassador, he said he will give Sri Lankans jobs with a salary of 500,000 in Japan, however, they must know Japanese language.”
-
-Sri Lanka, however, does not have enough foreign language teachers.
-
-Sri Lanka has lost more than 5,000 teachers, after the latest currency collapse, according to reports.
-
-Sri Lankan teachers are paid low salaries. At Sri Lanka’s salary scales with depreciating rupee, it is not possible to recruit foreign teachers.
-
-...
-
-[Data](articles/d5c537fa.json)
-
-[Extended Data](ext_articles/d5c537fa.ext.json)
 
 ---

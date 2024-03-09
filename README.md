@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 07:35:57**
+As of **2024-03-09 07:51:29**
 
 ## Newspaper Stats
 
-*Scraped **11,785** Articles*
+*Scraped **11,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 617
 islandlk | 635
 adalk | 997
 tamilmirrorlk | 1,422
-adaderanalk | 1,429
+adaderanalk | 1,431
 virakesarilk | 1,623
 dailymirrorlk | 1,804
 adaderanasinhalalk | 1,849
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,782 (100.0%) of 11,785 articles have been extended.
+11,785 (100.0%) of 11,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### Showers or thundershowers possible in some areas today
+
+*2024-03-09 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97831/showers-or-thundershowers-possible-in-some-areas-today) · `en`
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night, the Meteorology Department says.
+
+Mainly dry weather will prevail in the other areas of the island.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/a01af235.json)
+
+---
 
 ### Sri Lankan family slain by 19-year-old Sri Lankan student in Ottawa
 
@@ -48,47 +64,77 @@ Ottawa Police Service in a statement said that it responded to a home in the 300
 
 [Data](articles/3f6b38ee.json)
 
+[Extended Data](ext_articles/3f6b38ee.ext.json)
+
 ---
 
-### කැබ් රථයක ගැටී තිදෙනෙක් මරුට
+### Three killed, two injured in hit-and-run in Anuradhapura
+
+*2024-03-09 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97830/three-killed-two-injured-in-hit-and-run-in-anuradhapura) · `en`
+
+Three men were killed and two women were injured by a hit-and-run driver in Rambewa, Anuradhapura early this morning (March 09), the police said.
+
+The speeding vehicle, which had been returning from a musical show, had fled the scene after knocking down the pedestrians.
+
+Two women who were injured in the accident are currently being treated at the Anuradhapura Teaching Hospital.
+
+◼️
+
+[Data](articles/cb771e8c.json)
+
+---
+
+### Three killed and three killed in cab
 
 *2024-03-09 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194308) · `si`
 
-අනුරාධපුරය, රඹෑවේ සිදුවූ බිහිසුණු අනතු‍රකින් තිදෙනෙකුට දිවි අහිමි වී තිබේ.
+In Anuradhapura, three died and three were injured in a cab accident after a musical show. The cab was found to be fruited.
 
-පොලීසිය පැවසුවේ අනුරාධපුර, රඹෑව මාර්ගයේ අද (09) අළුයම මෙම අනතුර සිදුව ඇති බවය.
+🟩
 
-කැබ් රථයක් මාර්ගයේ ගමන් කරමින් සිටි පිරිසකගේ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව සඳහන් වේ.
+Three terrifying cases have passed away from Anuradhapura, Anuradhapura.
 
-සංගීත සංදර්ශනයකින් අනතුරුව නිවෙස් බලා ගමන් කරමින් සිටි පිරිසක් මෙලෙස අනතුරට ලක්ව තිබේ.
+The police said that the accident had occurred today (09).
 
-අනතුරින් මියගොස් ඇත්තේ පිරිමි පුද්ගලයින් තිදෙනෙකු වන අතර කාන්තාවන් දෙදෙනෙකු තුවාල ලබා අනුරාධපුර රෝහලට ඇතුළු කර තිබුණි.
+The accident occurred when a group of a cab traveled by a cab.
 
-අනතුර සිදුකළ කැබ් රථය පළාගොස් ඇති බවත් පොලීසිය වැඩිදුරටත් පැවසීය.
+The accident had occurred after a musical show.
+
+The victims were killed in the accident and two women were injured and admitted to the Anuradhapura hospital.
+
+The police said that the cab was fruited.
 
 ◼️
 
 [Data](articles/4dcbee02.json)
 
+[Extended Data](ext_articles/4dcbee02.ext.json)
+
 ---
 
-### සති අන්තයේ කාලගුණය
+### Weather on the weekend
 
 *2024-03-09 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194307) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත්  සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers expected in Western and Sabaragamuwa Province, Galle, and Matara districts. Temperatures to rise, focusing on cooler areas in North Western, Southern, and North Central provinces. Health advice includes staying hydrated, resting in shade, and avoiding outdoor stress.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව දන්වා තිබේ.
+🟩
 
-මේ අතර කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඊයේ (08) නිවේදනය කළේ දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (09) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා ඉහළ යනු ඇති බවයි.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara districts, the Met Department said.
 
-ඒ අනුව වයඹ, දකුණු හා උතුරු මැද සහ පළාත්වලත් මොනරාගල, රත්නපුර, මන්නාරම, වවුනියා මුලතිව් හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+In some places, in some places in the Western and Sabaragamuwa Province, in some places, in some places, have been announced in the morning.
 
-මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+Meanwhile, the Department of Meteorology was announced yesterday that the temperature of several parts of the island will increase to a level today (09).
+
+Accordingly, in the North Western, Southern and North and North Central and North Central and provinces, the heat of the human body will be focused on a lowest level of warmth.
+
+The Department has informed the health advice including adequate water, the rest of the shadow, and the stress of the outdoors.
 
 ◼️
 
 [Data](articles/60dfbefc.json)
+
+[Extended Data](ext_articles/60dfbefc.ext.json)
 
 ---
 
@@ -2223,53 +2269,5 @@ To improve peace and reconciliation that makes Maha Shivaratri Day meaning, all 
 [Data](articles/6d753978.json)
 
 [Extended Data](ext_articles/6d753978.ext.json)
-
----
-
-### The suspect died when hospitalized
-
-*2024-03-08 13:32:26* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-සැකකරු-රෝහල්-ගත-කරන-විට-මියගිහින්/11-408494) · `si`
-
-Two suspects arrested in a drug raid by the Chilaw divisional poisoning unit were hospitalized, where one died. The Chilaw Responsibility Act issued a post-mortem examination, suggesting the death was due to drug overdose.
-
-🟩
-
-Chilaw divisional poisoning unit of Chilastic poisoning unit in the Madampe Police Division has passed a drug raid on the 6th and had fled to the arrest of two suspects.. One suspect has fallen on the ground while the officials have fallen to the ground and later arrested the suspects.
-
-The suspects were admitted to the Chilaw Hospital due to unconsciously survived the suspect.. The suspect has been told that he had died by checked doctors. The delade was a 37 year old resident of Chilaw.
-
-The Chilaya is an estimate that a post mortem examination has been issued by the Chilaw Responsibility Act of a death sentence from the starvation of drugs.
-
-◼️
-
-[Data](articles/312a3424.json)
-
-[Extended Data](ext_articles/312a3424.ext.json)
-
----
-
-### President pays two bills for Women's Day
-
-*2024-03-08 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194289) · `si`
-
-President Ranil Wickremesinghe announced two bills for women's empowerment and gender equality in Sri Lanka, aiming to improve women's rights.
-
-🟩
-
-President Ranil Wickremesinghe says that two new bills will be brought to parliament in May for the betterment of women in Sri Lanka.
-
-The President was speaking at the Women's Day's Day Day Celebrations today (08).
-
-"The Bill of Empowerment Act and Gender and Equality Bill of Gender and Equality. Two important drafts. "
-
-This year its international theme is to "invest in women - speed up the progress".
-
-President Ranil Wickremesinghe was chaired by President Ranil Wickremesinghe in the country, organized for the International Women's Day.
-
-◼️
-
-[Data](articles/03f2fb74.json)
-
-[Extended Data](ext_articles/03f2fb74.ext.json)
 
 ---

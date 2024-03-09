@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-09 16:49:35**
+As of **2024-03-09 17:02:53**
 
 ## Newspaper Stats
 
-*Scraped **11,848** Articles*
+*Scraped **11,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ islandlk | 636
 adalk | 999
 tamilmirrorlk | 1,436
 adaderanalk | 1,439
-virakesarilk | 1,631
+virakesarilk | 1,632
 dailymirrorlk | 1,814
-adaderanasinhalalk | 1,863
+adaderanasinhalalk | 1,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,848 (100.0%) of 11,848 articles have been extended.
+11,848 (100.0%) of 11,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-09 (Saturday)
+
+### නුවන් තුෂාරගෙන් කඩුලු ත්‍රිත්වයක්
+
+*2024-03-09 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194325) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර තීරණාත්මක 3වන සහ අවසන් T20 ක්‍රිකට් තරගය සිලට් හිදී මේ වනවිට පැවැත්වෙයි.
+
+එහිදී වේගපන්දු යවන ක්‍රීඩක නුවන් තුෂාර කඩුලු ත්‍රිත්වයක් ලබා ගැනීමට සමත් විය.
+
+ලකුණු 175ක ඉලක්කයක් හඹා යන බංග්ලාදේශ කණ්ඩායම මේ වනවිට කඩුලු 4ක් දැවී ලකුණු 15ක් රැස්කරගෙන සිටී.
+
+◼️
+
+[Data](articles/39c01b8e.json)
+
+---
 
 ### ‘War crime’: UN deplores Israel’s settlement expansion in occupied Palestine territory
 
@@ -47,6 +63,26 @@ In a report to the Human Rights Council, Türk said that the establishment and c
 [Data](articles/df01dc24.json)
 
 [Extended Data](ext_articles/df01dc24.ext.json)
+
+---
+
+### மன்னார் காற்றாலை மின் திட்டத்தினால் ஏற்பட உள்ள பாதிப்பு குறித்து மத்திய சுற்றாடல் அதிகார சபைக்கு மெசிடோ அவசர  கடிதம்
+
+*2024-03-09 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178318) · `ta`
+
+மன்னார் தீவில் 2 ஆம் கட்டமாக அமைக்கப்படவுள்ள காற்றாலை மின் திட்டத்தினால் ஏற்பட உள்ள பாதிப்பு குறித்து மத்திய சுற்றாடல் அதிகார சபைக்கு அவசர  கடிதம் ஒன்றை நேற்று வெள்ளிக்கிழமை (8) அனுப்பி  வைத்துள்ளதாக மெசிடோ நிறுவனத்தின் பணிப்பாளர் ஜாட்சன் பிகிறாடோ  தெரிவித்தார்.
+
+மன்னார் மாவட்டத்தில் குறிப்பாக மன்னார் தீவினுள் பெரிதும் பேசுபொருளாக காணப்படும் காற்றாலை மின்சாரத்தினால் ஏற்படுகின்ற, ஏற்படப் போகின்ற பாதிப்புக்கள் குறித்து மன்னார் சமூக பொருளாதார மேம்பாட்டுக்கான நிறுவனம் மின்னஞ்சல் வாயிலாக மத்திய சுற்றாடல் அதிகார சபைக்கு கடிதமொன்றினை அனுப்பி வைத்துள்ளோம்.
+
+மன்னார் கரையோரப் பகுதிகளில் காற்றாலைகளை நிறுவுவது தொடர்பில் பொது மக்கள், சமூக ஆர்வலர்கள் தமது கவலைகளை வெளிப்படுத்தி வருகின்றனர்.
+
+காற்றாலை விசையாழி நிறுவலின் முதல் கட்டத்தால் ஏற்பட்டுள்ள  குறிப்பிடத்தக்க சுற்றுச்சூழல் பாதிப்புக்கள் குறித்து தெரிவிக்கப்பட்டுள்ளது.
+
+போதுமான தணிப்பு நடவடிக்கைகள் இல்லாமல் மேலும் நிறுவல்களை மேற்கொள்ள எத்தனிப்பது குறித்து எம்முடைய கவலை வெளிப்படுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f878d526.json)
 
 ---
 
@@ -2217,49 +2253,5 @@ Today, Ada Derana reports a heavy police person who has defended the honor of th
 [Data](articles/916448b8.json)
 
 [Extended Data](ext_articles/916448b8.ext.json)
-
----
-
-### A massive pit in a part of the road in Wellawatte!
-
-*2024-03-08 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178288) · `ta`
-
-A 4-foot diameter pit on WA Silva Mawatha road to Galle Road has been closed, affecting buses and heavy vehicles, rerouting them via the sea road.
-
-🟩
-
-Part of the road to Galle Road has been closed at the junction near WA Silva Mawatha.
-
-A part of the road has been closed due to a massive pit with about 4 feet in diameter, police said.
-
-Due to this, buses and other heavy vehicles traveling from Galle to Colombo have been arranged to Colombo via the sea road.
-
-◼️
-
-[Data](articles/3ed6273e.json)
-
-[Extended Data](ext_articles/3ed6273e.ext.json)
-
----
-
-### Sri Lanka face Bangladesh in T20I series decider
-
-*2024-03-08 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-face-Bangladesh-in-T20I-series-decider/108-278502) · `en`
-
-Mar. 9 (AFP) - Sri Lanka takes on Bangladesh in the third and last game of the three-match Twenty20 International (T20I) series at the Sylhet International Cricket Stadium in Sylhet tomorrow.
-
-The series is locked at 1-1 at this moment. Sri Lanka edged Bangladesh past by three wickets following a thrilling contest in the first match while the hosts took sweet revenge in the second game, thrashing the visitors by eights in comprehensive fashion.
-
-Overall Bangladesh won five and lost 10 in the 15 matches between the two sides in this format.
-
-A series victory for either side will be a huge booster ahead of the ICC T20I World Cup to be held in the United States of America (USA) and the West Indies.
-
-After losing the first match, Bangladesh played a near perfect game in the second game with Captain Najmul Hossain Shanto leading from the front.
-
-...
-
-[Data](articles/d2fd2a13.json)
-
-[Extended Data](ext_articles/d2fd2a13.ext.json)
 
 ---

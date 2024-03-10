@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 17:33:49**
+As of **2024-03-10 17:53:14**
 
 ## Newspaper Stats
 
-*Scraped **11,961** Articles*
+*Scraped **11,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,014
-adaderanalk | 1,452
-tamilmirrorlk | 1,459
+adaderanalk | 1,453
+tamilmirrorlk | 1,460
 virakesarilk | 1,633
 dailymirrorlk | 1,828
 adaderanasinhalalk | 1,891
@@ -26,39 +26,79 @@ adaderanasinhalalk | 1,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,957 (100.0%) of 11,961 articles have been extended.
+11,961 (100.0%) of 11,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### ஜனாதிபதி தேர்தல்:  இ.தொ.கா அதிரடி முடிவு
+### கேகாலையில் விழுந்த கல்முனை மாணவன் மீட்பு
+
+*2024-03-10 17:28:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேகாலையில்-விழுந்த-கல்முனை-மாணவன்-மீட்பு/76-334464) · `ta`
+
+கேகாலை அலகல்ல மலையில் முகாமிட்டு திரும்பும் போது குன்றின் மீதிருந்து விழுந்த வடமேற்கு பல்கலைக்கழக மாணவனை,  சுமார் இரண்டரை கிலோமீற்றர் மலை உச்சியில் ஏறி பாதுகாப்பாக மீட்கப்பட்டதாக இராணுவம் தெரிவித்துள்ளது.
+
+வடமேற்கு பல்கலைக்கழக தொழில்நுட்ப பீடத்தின் இரண்டாம் வருட மாணவரான கல்முனையைச் சேர்ந்த ஒரிங்டன் அன்ட்ராடோ என்ற மாணவனே  இவ்வாறு மீட்கப்பட்டுள்ளார்.
+
+அதே பல்கலைக்கழகத்தின் தொழில்நுட்ப பீடத்தின் இரண்டாம் வருடத்தில் கல்வி கற்கும் 10 மாணவர்கள் கேகாலை அலகல்ல மலையில் ஒன்றாக முகாமிட்டிருந்த நிலையில், ஞாயிற்றுக்கிழமை (10) காலை மீண்டும் மலையிலிருந்து இறங்கும் போது மாணவர் ஒருவர் 10 அடி உயரத்தில் ஒரு பாறையில்   இருந்து கீழே விழுந்துள்ளார்.
+
+◼️
+
+[Data](articles/6afc75cc.json)
+
+---
+
+### Heat advisory issued warning of rising temperatures
+
+*2024-03-10 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97854/heat-advisory-issued-warning-of-rising-temperatures) · `en`
+
+The Department of Meteorology has issued a heat index advisory for tomorrow (11) cautioning the public of rising atmospheric temperatures at some places in North-western, Western, Southern and Sabaragamuwa provinces and in the Anuradhapura and Mannar districts.
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District”, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps, the Department warned.
+
+Thus, members of the public have been advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They were also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/1b5eb252.json)
+
+---
+
+### Presidential Election: CWC Action Results
 
 *2024-03-10 17:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜனாதிபதி-தேர்தல்-இ-தொ-கா-அதிரடி-முடிவு/76-334462) · `ta`
 
-அடுத்த ஜனாதிபதி தேர்தலில் யாருக்கு ஆதரவு வழங்க வேண்டும் என்பது தொடர்பில் இலங்கை தொழிலாளர் காங்கிரஸின் உயர்பீடமே கூடி முடிவெடுக்கும். எமது தரப்பால் முன்வைக்கப்பட்டுள்ள கோரிக்கைகள் நிறைவேற்றப்பட்டு, அதேபோல அடுத்த ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்க போட்டியிடுவாராக இருந்தால் அவருக்கு ஆதரவு வழங்க முடியும் என்று  இ.தொ.காவின் பொதுச்செயலாளரும் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+The Ceylon Workers Congress will decide on whom to support the next presidential election. Jeevan Thondaman, the General Secretary of the CWC and the Minister of Water Resources and Plantation Infrastructure Development, said that the demands put forward by our party have been met and Ranil Wickremesinghe can support him if he is contesting the next presidential election.
 
-இலங்கை தொழிலாளர் காங்கிரஸின் மகளிர் தின நிகழ்வுகள் மகளிர் அணியின் தலைவியும், கட்சியின் பிரதி தலைவருமான திருமதி.அனுஷியா சிவராஜா தலைமையில், மகளிர் அணியின் உப தலைவியும், மஸ்கெலியா பிரதேச சபையின் முன்னாள் தவிசாளருமான திருமதி.செண்பகவள்ளியின் ஏற்பாட்டில்  “பொருளாதாரத்தை வலுவூட்டலின் ஊடாக பாலின சமத்துவத்தை துரிதப்படுத்தல்” எனும் தொனிப்பொருளின் கீழ் கொட்டகலை சி.எல்.எப். வளாக கேட்போர் கூடத்தில் ஞாயிற்றுக்கிழமை (10)  நடைபெற்றது.
+The Women's Day Events of the Women's Congress and the party's deputy leader of the party, Mrs. Anushiya Sivarajah, the vice president of the women's team and the former chairman of the Maskeliya Pradeshiya Sabha, Mrs. Senpakavalli, "expedited the economy through the reinforcement". The campus auditorium was held on Sunday (10).
+
+He said this while addressing the gathering, Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Supply and Estate Infrastructure Development.
 
 ...
 
 [Data](articles/5ba2222d.json)
 
+[Extended Data](ext_articles/5ba2222d.ext.json)
+
 ---
 
-### කාන්තාවකට ගිනි තබා ඝාතනය කළ සිද්ධියට සැකකරුවෙකු අත්අඩංගුවට
+### Suspect arrested for fire to a woman
 
 *2024-03-10 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194352) · `si`
 
-කාන්තාවකට ගිනි තබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ සිද්ධියකට සම්බන්ධ සැකකරුවෙකු පොලීසිය විසින් පුද්ගලයෙකුව අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested a person with a suspect involved in a woman to set fire to a woman.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 42 හැවිරිදි වියේ පසුවන මොරටුව කටුකුරුන්ද ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The arrested was a 42 year old resident of Katukurunda, Moratuwa.
 
-2022 වසරේ පෙබරවාරි මාසයේ 25 වනදා එගොඩඋයන පොලිස් වසමේ නිවසකට යුතු ලෙස ඇතුළු වී නිවසේ සිටි කාන්තාවකට ගිනි තබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීම සම්බන්ධයෙන් එගොඩඋයන පොලීසිය සිදුකළ විමර්ශනයකදී සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+The suspect was arrested during a investigation carried out by a woman in the Egoduyiyana police domain in February 25, 2022.
 
 ◼️
 
 [Data](articles/6494c0ba.json)
+
+[Extended Data](ext_articles/6494c0ba.ext.json)
 
 ---
 
@@ -79,6 +119,8 @@ The Navy said they continues to conduct regular patrols and operations in Sri La
 ◼️
 
 [Data](articles/70e05ea3.json)
+
+[Extended Data](ext_articles/70e05ea3.ext.json)
 
 ---
 
@@ -104,27 +146,35 @@ The warm quality of some places in the Western, Southern and Sabaragamuwa and Sa
 
 ---
 
-### කන්දකුලියේ ධීවරයින් පිරිසක් නූලෙන් බේරෙයි
+### A group of fishermen escaping the thread
 
 *2024-03-10 16:44:18* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකුලියේ-ධීවරයින්-පිරිසක්-නූලෙන්-බේරෙයි/11-408518) · `si`
 
-කන්දකුලිය ධීවර තොටුපොළින් මුහුදු ගොස් අතරමංව සිටි ධීවරයන් තිදෙනා හා යාත්‍රාව දින දෙකකට පසු සොයා ගැනීමට මොවුන් සොයා ගිය කන්දකුලිය ධීවර යාත්‍රා වලට හමුව ගොඩබිමට පසුගිය (08දා) සවස රැගෙන ඒම සිදුව තිබිණි.
+A group of fishermen, including three children, were rescued two days after their vessel was stranded. They were unable to land due to an industrial error. The vessel's owner, Mr. Deepal Nilantha, filed a complaint with the Kalpitiya Police. The vessel was also reported to the Navy. The fishermen were cared for by the Indian vessel and later returned to their port.
 
-ඩබ්ලියු.නොයල් ඇන්ටනී, සුදේෂ් සුසන්ත, ප්‍රසාද් නිරංජන් නැමති  25 -37 හැවිරිදි වියේ පසුවන තිදෙනෙක් මෙසේ සොයා ගනු ලැබ තිබේ.
+🟩
 
-මොවුන් පසුගිය (06දා) දහවල් කන්දකුලිය ධීවර තොටුපොළින්  විහාර දුව හා හංසිළු පුතා නැමති යාත්‍රා වලින් බිලී කොකු මසුන් පිටත්ව ගොස් තිබිණි.
+The two fishermen and the vessels from the fishermen and the vessels stranded two days after the fishermen and the vessel were taken to find two days later.
 
-එසේ රැකියාවට ගොස් සිටියදී මෙම පිරිස රැකියාවේ නිරත වූ යාත්‍රාවේ ඇතිවූ කාර්මික දෝෂයකින් පසු නැවත ගොඩබිමට ඒමට නොහැකිව අසරණව සයුර මැද රැඳී සිටි බව කියයි.
+Three and three-year-old three-year-olds were discovered by Wu Ninal Antony, Susantha, Prasad Niranjan.
 
-එහිදී මෙම ධීවරයින්ට ඉන්දියන් යාත්‍රාවකින් ආහාර හා ජලය ලබා දෙමින් ආරක්ෂාව සලසා ඇති බව කියයි.
+They had gone to Billy hooks with the temple and Hanzin son of the fishermen of the fisheries fisheries.
 
-කෙසේ වෙතත් මෙම පිරිස අතුරුදන් වීම පිළිබඳ යාත්‍රාවේ හිමිකරු වන දීපාල් නිලන්ත මහතා විසින් පසුගිය 07දා  කල්පිටිය පොලීසියට දැනුවත් ඒ පිළිබඳ පැමිණිල්ලක් ඉදිරිපත් කර තිබිණි.
+As they went to work, they say that they were unable to land in the sea unable to land after the industrial error of the vessel.
 
-ඒ සමගම මෙම යාත්‍රා හිමිකරු නාවික හමුදාව දැනුවත් කිරීමටද කටයුතු කර තිබිණි.
+The fishermen say they have protected food and water from the Indian vessel.
+
+However, Mr. Deepal Nilantha, the owner of the vessel of the disappearance, has lodged a complaint with the Kalpitiya Police on the 7th.
+
+At the same time, the vessel had also taken to educate the Navy.
+
+However, due to lack of information on the fishermen, the vessor had been sent to the Sira three nine-day vessels on the 7st night.
 
 ...
 
 [Data](articles/ef69d073.json)
+
+[Extended Data](ext_articles/ef69d073.ext.json)
 
 ---
 
@@ -2285,47 +2335,5 @@ President Ranil Wickremesinghe was invited to the party leaders representing the
 [Data](articles/1c565c4b.json)
 
 [Extended Data](ext_articles/1c565c4b.ext.json)
-
----
-
-### State Minister of Defence graces Air Tattoo in Jaffna
-
-*2024-03-09 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/State-Minister-of-Defence-graces-Air-Tattoo-in-Jaffna/110-278550) · `en`
-
-The fourth day of the 'Air Tattoo 2024' educational and technological exhibition held at the Muttraweli Ground in Jaffna today. State Minister of Defence Pramitha Bandara Thennakoon, attended the event as the Chief Guest. Air Marshal Udeni Rajapaksa, the Commander of the Air Force, extended a warm welcome to the Chief Guest. Pix by  Pradeep Pathirana
-
-◼️
-
-[Data](articles/7107abcb.json)
-
-[Extended Data](ext_articles/7107abcb.ext.json)
-
----
-
-### Parliament Bus Pass will not be canceled
-
-*2024-03-09 17:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-பஸ்-பாஸ்-இரத்து-செய்யப்படாது/175-334427) · `ta`
-
-The Cabinet has rejected the Treasury's decision to cancel the free Lanka bus pass for parliamentary employees, citing economic constraints. Despite the Treasury's decision to cancel the pass due to economic reasons, the Cabinet has decided to continue providing the free bus pass to Parliament employees, deeming it more advantageous than using buses.
-
-🟩
-
-The Cabinet has rejected the Treasury's decision to cancel the free Lanka bus pass issued to parliamentary employees.
-
-Considering the country's economic status, the Treasury decided to cancel the pass from the beginning of this year.
-
-The government provides eight crores annually for the bus permit to the Sri Lanka Transport Board.
-
-Treasury has informed parliament that this year cannot be allocated so much in accordance with the current economic situation in the country.
-
-When we asked a parliamentary officer in this regard, he said that the Cabinet has decided to continue to provide free bus pass to Parliament employees.
-
-He added that it is more advantageous to make such a license than to use buses in Parliament.
-
-◼️
-
-[Data](articles/f118765c.json)
-
-[Extended Data](ext_articles/f118765c.ext.json)
 
 ---

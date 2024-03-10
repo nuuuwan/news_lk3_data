@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 16:33:21**
+As of **2024-03-10 16:48:25**
 
 ## Newspaper Stats
 
-*Scraped **11,949** Articles*
+*Scraped **11,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,009
-adaderanalk | 1,450
+adalk | 1,012
+adaderanalk | 1,452
 tamilmirrorlk | 1,458
 virakesarilk | 1,633
 dailymirrorlk | 1,827
-adaderanasinhalalk | 1,888
+adaderanasinhalalk | 1,889
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,949 (100.0%) of 11,949 articles have been extended.
+11,949 (99.9%) of 11,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Driver involved in hit-and-run that killed three youths remanded
+
+*2024-03-10 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97853/driver-involved-in-hit-and-run-that-killed-three-youths-remanded) · `en`
+
+The Anuradhapura Magistrate’s Court on Sunday (10 March) remanded the driver and two others involved in the fatal hit-and-run incident that killed three youths in Rambewa, Anuradhapura on Saturday (09 March).
+
+Accordingly, the trio was remanded until 20 March, after being produced before the court this morning.
+
+Three male youths were killed while two other girls were injured in the hit-and-run incident in Rambewa, Anuradhapura on 09 March. The cab driver had reportedly been speeding towards Anuradhapura from Rambewa, when he had knocked down the five pedestrians.
+
+According to police, he had been returning home after attending a concert held in Rambewa, and had fled the scene immediately after the incident.
+
+◼️
+
+[Data](articles/68b2fe94.json)
+
+---
+
+### Eight arrested for trespassing into archaeological site in Nedunkerny
+
+*2024-03-10 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97852/eight-arrested-for-trespassing-into-archaeological-site-in-nedunkerny) · `en`
+
+Eight persons have been arrested for acting against a judgment delivered by the Vavuniya Magistrate’s Court by trespassing into the Vedukkunarimalai archaeological site in Nedunkerny.
+
+Accordingly, 8 persons, including the chief priest of the Hindu temple at the archaeological site in question were arrested for allegedly conducting a religious ritual for Mahashivarathri on 08 March, despite a court order being issued previously rejecting a request to do so.
+
+On 06 March, the Vavuniya Magistrate’s Court delivered a judgment stating that permission cannot be granted to conduct a special religious ceremony, despite a group of people, including the arrested chief priest, having filed a motion requesting to do so for a special Mahashivarathri ritual.
+
+...
+
+[Data](articles/6b8f3a8d.json)
+
+---
+
+### ඇල්පිටියේ තරුණිය පැහැරගත් ත්‍රිරෝද රථයේ රියදුරු අත්අඩංගුවට
+
+*2024-03-10 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194350) · `si`
+
+ඇල්පිටිය ප්‍රදේශයේදී තරුණියක් ඝාතනය කිරීමේ සිදුවීමට පෙර ඇයව පැහැරගත් බවට පැවසෙන තිරෝද රථය සහ එහි රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+විමර්ශන සිදුකරමින් පැවති අතරතුර සැකකාර තිරෝද රථ රියදුරු කරන්දෙණිය පොලීසිය වෙත භාරවීමෙන් අනතුරුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාර ත්‍රිරෝද රථ රියදුරු එහිදී පොලීසිය වෙත පවසා ඇත්තේ තමන් කුලී පදනමට එම ගමන ගිය බවත් පසුව අදාළ පුද්ගලයා සහ තරුණිය නානායක්කාර මාවත ආසන්නයේදී බස්සවා ගිය බවත්ය.
+
+සැකකාර ත්‍රිරෝද රථ රියදුරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර කරන්දෙණිය පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන කටයුතු සිදුකරයි.
+
+ඇල්පිටිය පොලිස් වසමේ තේ වත්තක තිබී කැපුම් තුවාල සහිත 17 හැවිරිදි වියේ පසුවූ තරුණියගේ සිරුර පසුගියදා සොයාගත්තේය.
+
+කෙසේ වෙතත් ඝාතනය සම්බන්ධයෙන් සැකය එල්ල වී ඇති අදාළ තරුණියගේ මස්සිනා ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු සොයා ඇල්පිටිය සහ කරන්දෙණිය පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/09022654.json)
+
+---
+
+### ත්‍රීරෝද රථ රියදුරෙකුට පිහියෙන් ඇන පලා ගිහින්
+
+*2024-03-10 16:03:55* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-රියදුරෙකුට-පිහියෙන්-ඇන-පලා-ගිහින්/11-408516) · `si`
+
+කරන්දෙණිය දිවියගහවෙල ප්‍රෙද්ශයේ අද(10) පස්වරුවේදී දෙදෙනෙකු විසින් තීරෝද රථ රියදුරෙකුට එල්ල කරන ලද පිහි පහරවලින් බරපතල තුවාල ලබා තීරෝද රථ රියදුරු ඇල්පිටිය රෝහලට ඇතුළත් කළ බව කරන්දෙණිය පොලීසිය කියයි.
+
+මෙසේ රෝහල් ගත කොට ඇත්තේ ඇල්පිටිය අංපිටියවත්ත පදේශයේ පදිංචි එම්.ඒ.තිලකසිරි නමැති හැටදෙහැවිරිදි කුලී තීරෝද රථ රියදුරකු බවද පොලීසිය කියයි. කුලී ගමනක් යන මුවාවෙන් දෙදෙනෙකු විසින් තීරෝද රථය ඇල්පිටියේ සිට කරන්දෙණිය දිවියගහවෙලදී දක්වා කැදවාගෙන විත් එම් මාර්ගයේ පාලු ස්ථානයකදී තීරෝද රථය නතර කොට පිහියක් පෙන්වා තීරෝද රථ රියදුරුගේ ගෙල පැලදි රන් මාලය කඩාගෙන ඔහුගේ මුදල් පසුම්බිය උදුරා ගැනීමට සැරසීමේදී තීරෝද රථ රියදුරු කෑගැසීමට පටන් ගැනීමත් සමගම ඔවුන් දෙදෙනා විසින් තීරෝද රථ රියදුරුට පිහියෙන් ඇන පලා ගොස්ඇති බව ද පොලීසිය කියයි.
+
+සැකකරුවන් දෙදෙන් එල්ල කළ පිහි පහරවලින් තීරෝද රත රියදුරුගේ උදරයට බරපතල තුවාල සිදුවී ඇති බවද පොලීසිය කියයි. කරන්දෙණිය පොලීසිය මේ පිළිබදව වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/76253897.json)
+
+---
 
 ### A tree collapses for railway line
 
@@ -51,6 +123,22 @@ As a result, a small delay in the upcountry train will take place.
 [Data](articles/b3c968c0.json)
 
 [Extended Data](ext_articles/b3c968c0.ext.json)
+
+---
+
+### විදුලි සෝපානය වැඩ නැතැයි මධ්‍යම තැපැල් හුවමාරුවේ සේවකයන් වර්ජනයකට
+
+*2024-03-10 15:58:05* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සෝපානය-වැඩ-නැතැයි-මධ්‍යම-තැපැල්-හුවමාරුවේ-සේවකයන්-වර්ජනයකට/11-408514) · `si`
+
+මධ්‍යම තැපැල් හුවමාරුවේ සේවකයින් අද මධ්‍යම රාත්‍රියේ සිට පැය 24ක සංකේත වැඩ වර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+
+මධ්‍යම තැපැල් හුවමාරුව ස්ථාපිත කර ඇති මහල් 8ක ගොඩනැගිල්ලේ අක්‍රීය වී ඇති විදුලි සෝපානය අලුත්වැඩියා නොකිරීමට විරෝධය පළකරමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගයට එළැඹීමට තීරණය කර තිබේ.
+
+විදුලි සෝපානය අක්‍රීය වී වසරකට ආසන්න කාලයක් ගතවුවද එය අලුත්වැඩියා නොකිරීම හේතුවෙන් තැපැල් මළු ගොඩනැගිල්ල තුළ එහා මෙහා ගෙනයාමට සේවකයින්ට දැඩි පරිශ්‍රමයක් දැරීමට සිදුව ඇති බව ඔවුන් පවසයි.
+
+◼️
+
+[Data](articles/85e87cae.json)
 
 ---
 
@@ -201,6 +289,22 @@ The Sri Lanka Navy said that the fishermen were taken to the Fisheries Harbor to
 [Data](articles/61117353.json)
 
 [Extended Data](ext_articles/61117353.ext.json)
+
+---
+
+### විපක්ෂයේ පහත් ක්‍රියාවක් ගැන මුදල් රාජ්‍ය ඇමති කියයි
+
+*2024-03-10 14:00:37* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-පහත්-ක්‍රියාවක්-ගැන-මුදල්-රාජ්‍ය-ඇමති-කියයි/11-408513) · `si`
+
+ජනාධිපතිවරයාගේ ආරාධනාව ප්‍රතික්ෂේප කරමින් ජාත්‍යන්තර මූල්‍ය  අරමුදලේ සාකච්ඡාවට විපක්ෂය සහභාගී නොවීමට ගනු ලැබූ තීරණය ඉතා පහත් ක්‍රියාවක් බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි. ඒ මහතා මේ බව පැවසුවේ අද (10දා) අනුරාධපුරදී පැවති මාධ්‍ය හමුවකදීය.
+
+"විපක්ෂයක් සෑම විටම රජයේ මතයට එකඟ විය යුතු නැති වුනත් වග කියන විපක්ෂයක කාර්ය භාරය වෙන්නෙ, රටක් කිසියම් අභියෝගයකට මුහුණ දෙන අවස්ථාවේදී රට බේරා ගැනීම සඳහා කටයුතු කිරීමයි.
+
+රටේ ඇතිව තිබෙන තත්ත්වය හමුවේ සියලු දෙනාගේම අදහස් ලබා ගැනීම හා හවුල් කර ගැනීම සදහාත් විපක්ෂ පවසන වෙනස්කම් පිළිබඳව අවධානය යොමු කර සාකච්ඡා කිරීම සඳහා රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා විසින් සත්භාවයෙන් යුතුව ඊට සුදුසුම වේදිකාව නිර්මාණය කරමින් සිටිනවා. හෙට (11)  දිනයේ ජාත්‍යන්තර මූල්‍ය අර මුදල හා විපක්ෂය නියෝජනය කරන පක්ෂ නායකයන් එක් කර ගැනීමට කටයුතු තිබෙනවා.
+
+...
+
+[Data](articles/2df12703.json)
 
 ---
 
@@ -2217,167 +2321,5 @@ Accordingly, the Bangladesh team has won 175 runs to win the match.
 [Data](articles/e20050e0.json)
 
 [Extended Data](ext_articles/e20050e0.ext.json)
-
----
-
-### Antiqual group in Nigeria abducted 280 schoolchildren
-
-*2024-03-09 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194323) · `si`
-
-In Nigeria, an antiqual group abducted 280 schoolchildren aged 8-15, marking the second incident in a week. The children were taken while attending a stadium on motorbikes.
-
-🟩
-
-A arbitrator team in Nigeria has been abroad with 280 students in a school in the country.
-
-The abducted students are 8-15 years old and this is the second crowd recorded in a week.
-
-Foreign media reports that the school students have entered the school in several motorbikes while attending the stadium.
-
-◼️
-
-[Data](articles/c360a8a0.json)
-
-[Extended Data](ext_articles/c360a8a0.ext.json)
-
----
-
-### Yall. New Indian Ambassador to Nelliyadi area
-
-*2024-03-09 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178317) · `ta`
-
-Indian Consulate officials, including the Deputy Ambassador, visited the Information Technology Training Center in Nelliyadi, Sri Lanka, on Saturday. This follows the establishment of a partnership between the Information Technology College in Jaffna District and Dhammika Perera's IT College.
-
-🟩
-
-Indian Consulate in Sri Lanka. Sub -embassy officials made a visit to 11:45 am on Saturday (09).
-
-Officials headed by the Indian Deputy Ambassador to visit the Information Technology Training Center in Nelliyadi.
-
-The arrival of the Information Technology College of Information Technology in the Jaffna District in partnership with Dhammika Perera's Information Technology College has been followed.
-
-◼️
-
-[Data](articles/a3c9521b.json)
-
-[Extended Data](ext_articles/a3c9521b.ext.json)
-
----
-
-### Minister Douglas
-
-*2024-03-09 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178316) · `ta`
-
-Minister Douglas Devananda criticized police actions during Shivaratri at Adi Shiva Temple, accusing them of disrupting ethnic harmony. He highlighted the police's behavior as a humiliation of Shiva devotees, questioning who authorized such obstacles.
-
-🟩
-
-Minister Douglas Devananda pointed out that all the activities carried out by the police on the Shivaratri worship at the Adi Shiva Temple at the Adi Shiva Temple at the Adi Shiva Temple, said Minister Douglas Devananda that such activities are aimed at disrupting ethnic harmony in the country.
-
-The fuel station inauguration was held this morning. He made this statement when he was asked about the issue of journalists.
-
-Shivaratri is the main religion of the Hindus. It is reported that the police have stopped the temple when they went to worship the temple.
-
-In particular, the manner in which the police behaved in a shame to humiliate the Shiva devotees and their worship of Shivaratri with the permission of the Adi Shiva Temple at the Adi Shiva Temple.
-
-It is his right to see the temple vision. No one has the authority to prevent this. In this case, who allowed the police to perform such obstacles and obstacles in the temple area?At the same time, this cannot be accepted.
-
-...
-
-[Data](articles/639afe10.json)
-
-[Extended Data](ext_articles/639afe10.ext.json)
-
----
-
-### Drug Party on Women's Day: 27 arrested
-
-*2024-03-09 15:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளிர்-தினத்தில்-போதைப்பொருள்-பார்ட்டி-27-பேர்-கைது/175-334425) · `ta`
-
-Kahatuduwa police arrested 27, including 5 university students, for drug use at a birthday party. They seized 20mg of hashish, Wagon R, three other drugs, and three phones.
-
-🟩
-
-Kahatuduwa police have arrested twenty -seven people, including five university students who were invited on Facebook for a birthday party of a university student on Friday night (08).
-
-They have been arrested while consumption of drugs, police said.
-
-Among them, twenty -seven students, including five students and 12 male students at a private university, have been arrested.
-
-Three of the arrested persons were included in the rented car, including four friends from Galle, were brought to the banquet.
-
-The banquet was held on the occasion of his twenty -second birthday at a house where a rented house of Rs 45,000 was rented to an apartment in the Homagama Uduvana area.
-
-The arrested suspects have seized 20 milligrams of Hashis drug, Wagon R, three drugs and three mobile phones.
-
-The suspects have been arrested on information received by the Chief Inspector of Police Priyankara to the Kahaduduwa Police Station and the suspects are to be produced before the Kesbewa court.
-
-◼️
-
-[Data](articles/616b3d14.json)
-
-[Extended Data](ext_articles/616b3d14.ext.json)
-
----
-
-### What happened to the compensation received by the Road Development Authority?
-
-*2024-03-09 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194321) · `si`
-
-The Road Development Authority received compensation for a fence damaged by a bus collision near the Kelanitissa Power Plant. The bus, "Kelani Tiger," provides free transport on Vesak Poo Dar and Poson Poya Days. The accident occurred on a rainy day. The bus owner was compensated for the damage, but the fence has not been repaired. The owner questions the compensation payment and the fence's condition.
-
-🟩
-
-The fence was damaged by a bus collided with a safe fence in the road near the Kelanitissa Power Plant last May.
-
-It is reported that the fence has not been renovated but the fence has not been renovated.
-
-The private bus driven by the Weliweriya road called Kelani Tiger, "The private bus, which is known as the" Kelani Tiger "provides free transport to the passengers every Vesak Poo Dar and Poson Poya Day.
-
-The bus provided such transport of transport was run by Vesak Poya Day last year.
-
-The bus slipped on the road, as a day was a heavy raining day.
-
-By collision with the safe fence on the road near the Kelanitissa Power Plant.
-
-The owner of the bus has been paid to the safety of the accident and the owner of the bus has been paid to the Road Development Authority for the damage.
-
-The owner owner calls for authorities to determine why compensation has been paid, and what happened to the safest fence and what happened to the money.
-
-◼️
-
-[Data](articles/90c9be00.json)
-
-[Extended Data](ext_articles/90c9be00.ext.json)
-
----
-
-### Wind Power Project Messido Emergency letter
-
-*2024-03-09 15:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/காற்றாலை-மின்-திட்டம்-மெசிடோ-அவசர-கடிதம்/72-334424) · `ta`
-
-Messido's Director Jatson Pirikado sent an emergency letter to the Central Environmental Authority about the wind power project's impact on Mannar Island. Concerns include environmental damage, bird decline, habitat destruction, and economic loss. The project's first phase led to significant environmental impacts, raising concerns about further installations.
-
-🟩
-
-Messido's Director Jatson Pirikado said that an emergency letter has been sent to the Central Environmental Authority regarding the impact of the wind power project to be built on the 2nd phase of the Mannar Island.
-
-We have sent a letter to the Central Environmental Authority by email on the impact of wind power in the Mannar district, especially in the Mannar Island.
-
-The public and community activists are expressing their concerns over the establishment of windmills along the Mannar coast.
-
-The significant environmental impacts of the first phase of the wind turbine installation have been reported.
-
-Our concern has been expressed about how to carry out further installations without adequate sedation.
-
-In the early stages, 30 windmills were installed to generate electricity from 63 to 95 MW.
-
-However, the Environmental Agreement Assessment Report has failed to offer clear values to alleviate the opposite impacts on nature, community and economy.
-
-...
-
-[Data](articles/b3774aac.json)
-
-[Extended Data](ext_articles/b3774aac.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 22:50:31**
+As of **2024-03-10 23:03:13**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,995 (100.0%) of 11,997 articles have been extended.
+11,997 (100.0%) of 11,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் மாநாடு
+### Conference to determine the title of Ramadan month
 
-*2024-03-10 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178382) · `ta`
+*2024-03-10 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178382) · `ta`
 
-ஹிஜ்ரி 1445 புனித ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு திங்கட்கிழமை (10) மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற இருக்கின்றது.
+The Hijri 1445 Deciding Committee Conference to Determine the Title of the Holy Ramadan will be held at the Great School of Colombo on Monday evening. Representatives from the Colombo Great School, All Ceylon Jamiyyathul Ulama, and the Department of Muslim Religious and Cultural Affairs will attend. The Colombo big school has encouraged Muslims to report if the title of Ramadan is in their country.
 
-இம்மாநாட்டில் கொழும்பு பெரிய பள்ளிவாசல், அகில இலங்கை ஜம்இய்யதுல் உலமா, முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள உறுப்பினர்கள் மற்றும் உலமாக்கள் கலந்துகொள்ள இருக்கின்றனர்.
+🟩
 
-நாட்டின் எப்பிரதேசத்திலாவது ரமழான் மாத தலைப்பிறை தென்பட்டால் தகுந்த ஆதாரங்களுடன் 0112432110, 0112451245, 0777316415 என்ற இலக்கத்துடன் தொடர்புகொண்டு அறிவிக்குமாறு கொழும்பு பெரிய பள்ளிவாசல் முஸ்லிம் மக்களை கேட்டுக்கொண்டுள்ளது.
+The Hijri 1445 Deciding Committee Conference to Determine the Title of the Holy Ramadan is scheduled to be held at the Great School of Colombo on Monday evening (10).
+
+Members of the Colombo Great School, All Ceylon Jamiyyathul Ulama, Members of the Department of Muslim Religious and Cultural Affairs and Ulama will attend the conference.
+
+The Colombo big school has urged the Muslim people to report on 0112432110, 0112451245, 077316415 if the title of Ramadan is in the country of the country.
 
 ◼️
 
 [Data](articles/527f4065.json)
+
+[Extended Data](ext_articles/527f4065.ext.json)
 
 ---
 
@@ -87,6 +93,8 @@ He said the Rajapaksas prefer the General Elections first as they deem that goin
 ...
 
 [Data](articles/ea63084f.json)
+
+[Extended Data](ext_articles/ea63084f.ext.json)
 
 ---
 

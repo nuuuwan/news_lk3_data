@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 15:33:05**
+As of **2024-03-10 15:50:53**
 
 ## Newspaper Stats
 
-*Scraped **11,945** Articles*
+*Scraped **11,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,89 @@ adaderanalk | 1,449
 tamilmirrorlk | 1,457
 virakesarilk | 1,633
 dailymirrorlk | 1,827
-adaderanasinhalalk | 1,886
+adaderanasinhalalk | 1,887
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,943 (100.0%) of 11,945 articles have been extended.
+11,945 (100.0%) of 11,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### ‘மின்தூக்கி’ வேலைநிறுத்தம்
+### රඹෑව බිහිසුණු අනතුරේ කැබ් රියදුරු ඇතුළු තිදෙනෙක් රිමාන්ඩ්
+
+*2024-03-10 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194348) · `si`
+
+රඹෑව ප්‍රදේශයේදී සිදුවූ බිහිසුණු රිය අනතුර සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් කැබ් රථ රියදුරු සහ එහි ගමන්කළ සෙසු සැකකරුවන් දෙදෙනෙකු එළඹෙන 20 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+මිහින්තලේ පොලීසිය සැකකරුවන් අද උදෑසන අත්අඩංගුවට ගෙන අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+
+ඊයේ (09) අළුයම රඹෑව ප්‍රදේශයේ දී සිදුවූ එම අනතුරින් වයස අවුරුදු 16, 19 සහ 21 හැවිරිදි වියේ පසුවූ තිදෙනෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්විය.
+
+සැකකරුවන් පැදවූ කැබ් රථය මාර්ගයේ ගමන් කරමින් සිටි පුද්ගලන් පස්දෙනෙකුගේ ගැටීමෙන් එම අනතුර සිදුව තිබුණි.
+
+අනතුරින් තුවාල ලැබූ ගැහැණු ළමුන් දෙදෙනෙකු ප්‍රතිකාර සඳහා අනුරාධපුර රෝහලට ඇතුළත් කර තිබුණි.
+
+අනතුරින් පසුව සැකකරුවන් එම ස්ථානයෙන් පළාගොස් තිබූ අතර මිහින්තලය පොලීසිය සිදුකළ විමර්ශනයකින් අනතුරුව සැකකරුවන් අත්අඩංගුවට ගත්තේය.
+
+◼️
+
+[Data](articles/e3cb43cb.json)
+
+---
+
+### Strike
 
 *2024-03-10 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-வேலைநிறுத்தம்/175-334451) · `ta`
 
-மத்திய தபால் பரிவர்த்தனை கட்டடத்தில்  சுமார் ஒரு வருட காலமாக செயலிழந்த நிலையில் உள்ள கட்டிடத்தின் மின்தூக்கியை சீர் செய்யாமைக்கு எதிர்ப்பு தெரிவித்து ஞாயிற்றுக்கிழமை (10) நள்ளிரவு முதல் அடையாள வேலைநிறுத்தம் ஆரம்பிக்கப்படவுள்ளதாக ஐக்கிய தொழிற்சங்க முன்னணியின் பேச்சாளர் தெரிவித்துள்ளார்.
+The United Trade Union Front plans a 24-hour strike from midnight Sunday to protest the building's unrepaired power supply, affecting postal staff since a capacitor failure last year.
 
-மின்தூக்கி செயலிழந்த நாள் முதல் தபால்களை எடுத்துச் செல்வதில் தபால் ஊழியர்கள் பெரும் சிரமத்தை எதிர்நோக்கி வருவதாகவும், இது குறித்து அதிகாரிகளுக்கு பலமுறை தெரிவித்தும் நடவடிக்கை எடுக்கப்படவில்லை என்றும் பேச்சாளர் தெரிவித்தார்.
+🟩
 
-இந்த 24 மணி நேர வேலைநிறுத்தப் போராட்டத்தின் மூலம் தபால் அதிகாரிகளின் கவனம் மின்தூக்கியின் மீது செலுத்தப்படும் என எதிர்ப்பார்க்கப்படுவதாகவும் இல்லையேல் மேலதிக நடவடிக்கை எடுக்கப்படும் எனவும் பேச்சாளர் தெரிவித்தார்.
+A spokesman for the United Trade Union Front said that a identification strike will be launched from midnight on Sunday (10) in protest of the lack of repairing the power supply of the building, which has been inactive for about a year.
+
+The spokesman said that the postal staff has been facing great difficulties in carrying the postage since the day of the failure of the capacitor.
+
+The spokesman said that the 24 -hour strike would be focused on the postal officers, or that further action would be taken.
 
 ◼️
 
 [Data](articles/ca907f4e.json)
 
+[Extended Data](ext_articles/ca907f4e.ext.json)
+
 ---
 
-### ජනපතිගේ ආරාධනාව පිළිගත් පක්ෂ මෙන්න
+### Here are the partners with the invitation of the President
 
 *2024-03-10 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194347) · `si`
 
-විපක්ෂයේ දේශපාලන පක්ෂවලට ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් සමග සාකච්ඡා කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදුකළ ආරාධනය දෙමළ ජාතික සන්ධාන විසින් පිළිගෙන තිබේ.
+The TNA has accepted President Ranil Wickremesinghe's invitation to discuss with the International Monetary Fund representatives. The President plans to meet with the IMF tomorrow. The TNA's Sampanthanaya will lead the discussion.
 
-ඒ අනුව අදාළ සාකච්ඡාව සඳහා දෙමළ ජාතික සන්ධානයේ නායක ආර්. සම්බන්ධන් මහතා සහභාගී වීමට නියමිත බව ඉලංකෙයි තමිල් අරසු කච්චි පක්ෂයේ නායක එස්. ශ්‍රීධරන් මහතා සඳහන් කළේය.
+🟩
 
-පාර්ලිමේන්තුවේ විපක්ෂයේ දේශපාලන පක්ෂ නායකයින්ට ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් සමග හෙට දිනයේ ජනාධිපති කාර්යාලයේ දී සාකච්ඡාවක් ලබාදීමට ජනාධිපතිවරයා පියවර ගෙන තිබේ.
+The TNA has admitted the invitation extended by President Ranil Wickremesinghe to discuss with the International Monetary Fund representatives to the opposition political parties.
 
-ඒ සදහා අදාළ පක්ෂවලට නිල ආරධනයක් සිදුකර තිබුණ ද මේ වනවිට සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය ඒ සඳහා සහභාගී නොවීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+Accordingly, the TNA leader of the TNA for discussion. Ilankai Tamil Arasu Kachchi Party leader Sampanthanaya. Mr. Sridharan said.
 
-කෙසේවෙතත් දෙමළ ජාතික සන්ධානය අදාළ ආරාධනය පිළිගෙන ඇති අතර ඊට එම පක්ෂයේ නියෝජිතයෙකු සහභාගී කරවීමට තීරණය කර තිබේ.
+The President has taken steps to hold a discussion with the International Monetary Fund representatives to the President's Representatives tomorrow with the International Monetary Fund.
 
-සාකච්ඡාව රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ඉල්ලීමකට අනුව ලබාදුන්න ද ඔහුගේ සහභාගීත්වය ද මේ වන විට අවිනිශ්චිත වී ඇති බව වාර්තා වෙයි.
+It has been reported that the reconciliation and national folk force have been made to participate in the incident.
 
-...
+However, the TNA has accepted the invitation and has decided to attend a party representative.
+
+It is reported that his participation has also been uncertain as the Chairman of the Government Finance Committee of the Committee.
+
+Ada Derana has made a final decision on this matter with the party and will take a final decision on this matter.
+
+◼️
 
 [Data](articles/db8d63fb.json)
+
+[Extended Data](ext_articles/db8d63fb.ext.json)
 
 ---
 
@@ -2341,31 +2377,5 @@ Police in Ottawa discovered the slain family at their townhouse in the Barrhaven
 [Data](articles/0043f312.json)
 
 [Extended Data](ext_articles/0043f312.ext.json)
-
----
-
-### Details emerge on victims in Canada mass killing; father is recovering
-
-*2024-03-09 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Details-emerge-on-victims-in-Canada-mass-killing-father-is-recovering/108-278547) · `en`
-
-March 09, (BBC) -  The Sri Lankan father who survived the mass murder of his family in Canada said he returned home from work on Wednesday to find his wife and four young children had been killed.
-
-Dhanushka Wickramasinghe, 34, was also attacked but managed to subdue the suspect.
-
-He is now recovering in hospital from a slash to the eye and one of his hands.
-
-A 19-year-old Sri Lankan student who was living with the family was charged with the deaths
-
-The new details of the night the Wickramasinghe family was killed emerged from a series of media interviews with Bhante Suneetha, the resident monk at a local Buddhist monastery in Ottawa that the family attended.
-
-Mr Suneetha, who visited the father in hospital on Thursday, said he is in "great shock" over what happened.
-
-Police in Ottawa discovered the slain family at their townhouse in the Barrhaven suburb after responding to emergency calls placed at around 22:52 local time (03:52 GMT) on Wednesday.
-
-...
-
-[Data](articles/7b89041f.json)
-
-[Extended Data](ext_articles/7b89041f.ext.json)
 
 ---

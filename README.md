@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 17:17:49**
+As of **2024-03-10 17:33:49**
 
 ## Newspaper Stats
 
-*Scraped **11,957** Articles*
+*Scraped **11,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,116 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,013
+adalk | 1,014
 adaderanalk | 1,452
-tamilmirrorlk | 1,458
+tamilmirrorlk | 1,459
 virakesarilk | 1,633
-dailymirrorlk | 1,827
-adaderanasinhalalk | 1,890
+dailymirrorlk | 1,828
+adaderanasinhalalk | 1,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,955 (100.0%) of 11,957 articles have been extended.
+11,957 (100.0%) of 11,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### කාලගුණයෙන් ජනතාවට අනතුරු ඇඟවීමක්
+### ஜனாதிபதி தேர்தல்:  இ.தொ.கா அதிரடி முடிவு
+
+*2024-03-10 17:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜனாதிபதி-தேர்தல்-இ-தொ-கா-அதிரடி-முடிவு/76-334462) · `ta`
+
+அடுத்த ஜனாதிபதி தேர்தலில் யாருக்கு ஆதரவு வழங்க வேண்டும் என்பது தொடர்பில் இலங்கை தொழிலாளர் காங்கிரஸின் உயர்பீடமே கூடி முடிவெடுக்கும். எமது தரப்பால் முன்வைக்கப்பட்டுள்ள கோரிக்கைகள் நிறைவேற்றப்பட்டு, அதேபோல அடுத்த ஜனாதிபதி தேர்தலில் ரணில் விக்கிரமசிங்க போட்டியிடுவாராக இருந்தால் அவருக்கு ஆதரவு வழங்க முடியும் என்று  இ.தொ.காவின் பொதுச்செயலாளரும் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+இலங்கை தொழிலாளர் காங்கிரஸின் மகளிர் தின நிகழ்வுகள் மகளிர் அணியின் தலைவியும், கட்சியின் பிரதி தலைவருமான திருமதி.அனுஷியா சிவராஜா தலைமையில், மகளிர் அணியின் உப தலைவியும், மஸ்கெலியா பிரதேச சபையின் முன்னாள் தவிசாளருமான திருமதி.செண்பகவள்ளியின் ஏற்பாட்டில்  “பொருளாதாரத்தை வலுவூட்டலின் ஊடாக பாலின சமத்துவத்தை துரிதப்படுத்தல்” எனும் தொனிப்பொருளின் கீழ் கொட்டகலை சி.எல்.எப். வளாக கேட்போர் கூடத்தில் ஞாயிற்றுக்கிழமை (10)  நடைபெற்றது.
+
+...
+
+[Data](articles/5ba2222d.json)
+
+---
+
+### කාන්තාවකට ගිනි තබා ඝාතනය කළ සිද්ධියට සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-03-10 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194352) · `si`
+
+කාන්තාවකට ගිනි තබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීමේ සිද්ධියකට සම්බන්ධ සැකකරුවෙකු පොලීසිය විසින් පුද්ගලයෙකුව අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 42 හැවිරිදි වියේ පසුවන මොරටුව කටුකුරුන්ද ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+2022 වසරේ පෙබරවාරි මාසයේ 25 වනදා එගොඩඋයන පොලිස් වසමේ නිවසකට යුතු ලෙස ඇතුළු වී නිවසේ සිටි කාන්තාවකට ගිනි තබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීම සම්බන්ධයෙන් එගොඩඋයන පොලීසිය සිදුකළ විමර්ශනයකදී සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/6494c0ba.json)
+
+---
+
+### 22 Indian fishermen nabbed with 3 trawlers in Sri Lankan waters
+
+*2024-03-10 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/22-Indian-fishermen-nabbed-with-3-trawlers-in-Sri-Lankan-waters/108-278559) · `en`
+
+Colombo, March 10 (Daily Mirror)- The Sri Lanka Navy has apprehended 22 Indian fishermen along with three Indian trawlers while poaching in Sri Lankan waters off the Kovilan Lighthouse in Kareinagar.
+
+The Navy said they were arrested during a special operation to chase away Indian poaching trawlers from Sri Lankan waters last night and this morning.
+
+They said the seized trawlers togethers with 22 Indian fishermen were brought to the Kankesanthurai Harbour and will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
+
+With this recent apprehension, the Navy has seized a total of 15 Indian poaching trawlers and 110 Indian fishermen in Sri Lankan waters in 2024,the Navy said.
+
+The Navy said they continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
+
+◼️
+
+[Data](articles/70e05ea3.json)
+
+---
+
+### A warning to the people by weather
 
 *2024-03-10 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194351) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ප්‍රදේශ කිහිපයක් සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව ඇම්බර් වර්ණයෙන් යුතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Meteorology has issued an amber warning for warm weather in Western, Southern, and Sabaragamuwa Provinces for tomorrow.
 
-හෙට (11) දිනය සඳහා අදාළ වන පරිදි කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ විසින් මෙම නිවේදනය නිකුත් කර ඇත.
+🟩
 
-එහි දැක්වෙන්නේ හෙට දිනයේ බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් තත්ත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+The Department of Meteorology has issued a amber warning announcement of warm weather conditions for several areas.
+
+The announcement has been issued by the Department of Meteorology to apply for tomorrow (11).
+
+The warm quality of some places in the Western, Southern and Sabaragamuwa and Sabaragamuwa Province will be paid to some places in the Western, Southern and Sabaragamuwa Province.
 
 ◼️
 
 [Data](articles/614c8df0.json)
+
+[Extended Data](ext_articles/614c8df0.ext.json)
+
+---
+
+### කන්දකුලියේ ධීවරයින් පිරිසක් නූලෙන් බේරෙයි
+
+*2024-03-10 16:44:18* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකුලියේ-ධීවරයින්-පිරිසක්-නූලෙන්-බේරෙයි/11-408518) · `si`
+
+කන්දකුලිය ධීවර තොටුපොළින් මුහුදු ගොස් අතරමංව සිටි ධීවරයන් තිදෙනා හා යාත්‍රාව දින දෙකකට පසු සොයා ගැනීමට මොවුන් සොයා ගිය කන්දකුලිය ධීවර යාත්‍රා වලට හමුව ගොඩබිමට පසුගිය (08දා) සවස රැගෙන ඒම සිදුව තිබිණි.
+
+ඩබ්ලියු.නොයල් ඇන්ටනී, සුදේෂ් සුසන්ත, ප්‍රසාද් නිරංජන් නැමති  25 -37 හැවිරිදි වියේ පසුවන තිදෙනෙක් මෙසේ සොයා ගනු ලැබ තිබේ.
+
+මොවුන් පසුගිය (06දා) දහවල් කන්දකුලිය ධීවර තොටුපොළින්  විහාර දුව හා හංසිළු පුතා නැමති යාත්‍රා වලින් බිලී කොකු මසුන් පිටත්ව ගොස් තිබිණි.
+
+එසේ රැකියාවට ගොස් සිටියදී මෙම පිරිස රැකියාවේ නිරත වූ යාත්‍රාවේ ඇතිවූ කාර්මික දෝෂයකින් පසු නැවත ගොඩබිමට ඒමට නොහැකිව අසරණව සයුර මැද රැඳී සිටි බව කියයි.
+
+එහිදී මෙම ධීවරයින්ට ඉන්දියන් යාත්‍රාවකින් ආහාර හා ජලය ලබා දෙමින් ආරක්ෂාව සලසා ඇති බව කියයි.
+
+කෙසේ වෙතත් මෙම පිරිස අතුරුදන් වීම පිළිබඳ යාත්‍රාවේ හිමිකරු වන දීපාල් නිලන්ත මහතා විසින් පසුගිය 07දා  කල්පිටිය පොලීසියට දැනුවත් ඒ පිළිබඳ පැමිණිල්ලක් ඉදිරිපත් කර තිබිණි.
+
+ඒ සමගම මෙම යාත්‍රා හිමිකරු නාවික හමුදාව දැනුවත් කිරීමටද කටයුතු කර තිබිණි.
+
+...
+
+[Data](articles/ef69d073.json)
 
 ---
 
@@ -136,21 +216,27 @@ Police have seriously injured in the abdomen abdomen by the suspects with the tw
 
 ---
 
-### පාසල් නිල ඇඳුම්වලින් සියයට 80ක් චීන ප්‍රධානයක් සියයට 20ක් චීනයෙන් මිලදී ගනියි
+### 80 percent of school uniforms buy 20 percent to 20 percent of China
 
 *2024-03-10 16:03:18* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-නිල-ඇඳුම්වලින්-සියයට-80ක්-චීන-ප්‍රධානයක්-සියයට-20ක්-චීනයෙන්-මිලදී-ගනියි/11-408515) · `si`
 
-මෙම වර්ෂයේ නොමිලේ පාසල් නිල ඇඳුම් ලබා දීමේ වැඩ සටහන යටතේ එම නිල ඇඳුම්වලින් සියයට 80 ක් චීන මහජන සමූහාන්ඩුවේ ප්‍රදානයක් ලෙස ලැබෙන බවත් ඉතිරි සියයට 20 එම ප්‍රදානය සැපයෙන චීන සැපයුම්කරුවන්ගෙන් මිලදී ගන්නා බවත් අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+80% of China's school uniforms are free, given to students and government-supported schools. The Ministry of Education provides 35 types of textiles. Responsibility lies with Kotles, Zones, Provincial Education Directors, and principals.
 
-රජයේ සහ රජයේ ආධාර ලබන පාසල්වල ශිෂ්‍ය ශිෂ්‍යයාවන් මෙන්ම  රජය අනුමත පිරිවෙන්වල ශිෂ්‍ය භික්ෂූන් වහන්සේලා ,  සීලමාතාවන් , සහ ගිහි සිසුන් මෙම නොමිලේ නිල ඇඳුම් හිමිකම ලබයි.
+🟩
 
-මේ යටතේ ශිෂ්‍ය වර්ග හා ඉගෙනුම ලබන ශ්‍රේණි අනුව රෙදි කට්ටල වර්ග 35 ක් නොමිලේ ලබා දෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+According to the Ministry of Education, 80 percent of these uniforms are a grant of 80 percent of these uniforms in this year's uniform uniform project.
 
-මෙම නිල ඇඳුම් කඩිනමින් සියලු සිසුන් වෙත ලබාදීම කොට්ටාස,  කලාප , හා පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් සහ විදුහල්පතිවරුන්   සතු වගකීමක් බවත් එසේ නොකරන නිලධාරීන්ට එරෙහිව ව්නය පියවර ගන්නා බවත් අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් වසන්තා පෙරේරා මහත්මිය එම පාර්ශවයන් වෙත ලිඛිතව දන්වා ඇත.
+These free uniforms are entitled to uniform clothes, students and students in government and government support schools.
+
+According to the Ministry of Education, 35 types of textiles will be provided under the grades of student type and learning grades.
+
+These uniforms are the responsibility of the Kotles, Zones, Provincial Education Directors and principals that will take action against the officers who do not.
 
 ◼️
 
 [Data](articles/602e33f4.json)
+
+[Extended Data](ext_articles/602e33f4.ext.json)
 
 ---
 
@@ -2241,93 +2327,5 @@ He added that it is more advantageous to make such a license than to use buses i
 [Data](articles/f118765c.json)
 
 [Extended Data](ext_articles/f118765c.ext.json)
-
----
-
-### Nuwan Thushara takes hat-trick in third Bangladesh T20I
-
-*2024-03-09 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nuwan-Thushara-takes-hat-trick-in-third-Bangladesh-T20I/108-278548) · `en`
-
-Nuwan Thushara became the fifth Sri Lankan to take a hat-trick in T20I cricket, as he made early breakthroughs to cripple Bangladesh's run chase in the third T20I in Sylhet.
-
-Thushara, bowling his first over in the series, removed Bangladesh captain Najmul Hossain Shanto, Towhid Hridoy and Mahmadullah -- all deceived by his sling arm action -- to reduce the home team to 15 for 4, chasing a target of 175.
-
-Thushara broke through Shanto's defence and castled the stumps with the second ball of the over, before uprooting the off stump to dismiss Hridoy on the next delivery.
-
-He then completed the hat-trick of wickets when he trapped Mahmadullah leg before wicket, the decision being upheld despite the batsmen's review.
-
-Thushara joins Thisara Perera, Lasith Malinga, Akila Dananjaya and Wanindu Hasaranga as the only Sri Lankans to take a hat-trick in the T20I format.
-
-◼️
-
-[Data](articles/a1c7a63f.json)
-
-[Extended Data](ext_articles/a1c7a63f.ext.json)
-
----
-
-### Shocking news about female children in Sri Lanka
-
-*2024-03-09 16:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-பெண்-பிள்ளைகள்-குறித்து-அதிர்ச்சி-செய்தி/175-334426) · `ta`
-
-Dr. Samal Sanjeewa reports 410,000 Sri Lankan girls aged 5-19 are underweight due to nutritional deficiency, placing Sri Lanka high on the global list of countries with significant weight loss from malnutrition. This issue threatens children's health, potentially leading to mental health issues and decreased productivity.
-
-🟩
-
-Dr. Samal Sanjeewa, president of the doctors' Medical and Citizenship Professional Association, said yesterday that 410,000 girls who are studying in the age of 5 to 19 in Sri Lanka are underweight due to nutrition.
-
-According to a study of the British Medical Medical Journal, Sri Lanka is also on the list of countries where there is a lot of weight loss due to nutritional deficiency in the world.
-
-Women's rate is next to India in Sri Lanka.
-
-In 199 countries, 22 crore people with the participation of about 1,900 researchers have taken the main criterion (weight for height).
-
-Due to the reduction of the nutrition, the health of the children's health is in danger of being mired and depressed. Therefore, if the government does not take action, the generation of the mentally retarded in the country will be created.
-
-...
-
-[Data](articles/45eb367a.json)
-
-[Extended Data](ext_articles/45eb367a.ext.json)
-
----
-
-### No wickets from Nuwan Thushara
-
-*2024-03-09 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194325) · `si`
-
-Nuwan Thushara's triple in the 3rd T20 match between Sri Lanka and Bangladesh at Syllen. Bangladesh chasing 175, scored 15 runs for 4 wickets.
-
-🟩
-
-Sri Lanka and Bangladesh will be held at Syllen between the 3rd and final T20 cricket match among Sri Lanka and Bangladesh.
-
-Fast bowler Nuwan Thushara scored a triple.
-
-Chasing a target of 175, Bangladesh has scored 15 runs for the loss of 4 wickets.
-
-◼️
-
-[Data](articles/39c01b8e.json)
-
-[Extended Data](ext_articles/39c01b8e.ext.json)
-
----
-
-### ‘War crime’: UN deplores Israel’s settlement expansion in occupied Palestine territory
-
-*2024-03-09 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97839/war-crime-un-deplores-israels-settlement-expansion-in-occupied-palestine-territory) · `en`
-
-UN Human Rights Chief Volker Türk on Friday deplored Israel’s latest actions regarding the occupied West Bank, saying the drastic acceleration in settlement building is exacerbating long-standing patterns of oppression, violence and discrimination against Palestinians.
-
-“Reports this week that Israel plans to build a further 3,476 settler homes in Maale Adumim, Efrat and Kedar fly in the face of international law,” Türk said.
-
-In a report to the Human Rights Council, Türk said that the establishment and continuing expansion of settlements amount to the transfer by Israel of its own civilian population into the territories that it occupies, which amounts to a war crime under international law.
-
-...
-
-[Data](articles/df01dc24.json)
-
-[Extended Data](ext_articles/df01dc24.ext.json)
 
 ---

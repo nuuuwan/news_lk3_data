@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 11:33:18**
+As of **2024-03-10 11:52:00**
 
 ## Newspaper Stats
 
-*Scraped **11,915** Articles*
+*Scraped **11,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 1,003
 adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
-dailymirrorlk | 1,822
-adaderanasinhalalk | 1,879
+dailymirrorlk | 1,823
+adaderanasinhalalk | 1,880
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,915 (100.0%) of 11,915 articles have been extended.
+11,915 (100.0%) of 11,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### රූපලාවණ්‍යාගාරයේ උඩ තට්ටුවේ සූදුපොළක්
+
+*2024-03-10 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194341) · `si`
+
+අලුත්ගම නගරයේ සුඛෝපභෝගී නිවසක පවත්වාගෙන ගිය සූදුපොළක් වටලා කාන්තාවන් 8ක් සහ පිරිමි පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොස්ගොඩ, බලපිටිය, අලුත්ගම, කළුතර, බේරුවල, බෙන්තර, අහුන්ගල්ල යන ප්‍රදේශවල සිට පැමිණ සූදු ක්‍රීඩාවේ නිරතවෙමින් සිටි කාන්තාවන් පිරිසකි.
+
+අලුත්ගම නගරයේ සතිපොළ පිහිටි භූමිය ආසන්නයේ සුඛෝපභෝගී දෙමහල් නිවසක ඉහළ මාලයේ මෙම සූදුපොළ පවත්වාගෙන ගොස් තිබුණි.
+
+එම  සුඛෝපභෝගී දෙමහල් නිවසේ පහත මාලයේ රූපලාවණ්‍යාගාරයක් පවත්වාගෙන යන මුවාවෙන් මෙම සූදුපොළ පවත්වාගෙන ගොස් ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+අලුත්ගම පොලීසිය විසින් උපාය දූතිකාවක් යොදවා සූක්ෂම ලෙස සිදුකළ සොයාබැලීමකින් අනතුරුව මෙම කාන්තාවන් පිරිස සහ සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී සූදුක්‍රීඩාවේ නිරතවෙමින් සිටි මුදල් ද පොලීසිය සිය භාරයට ගෙන තිබුණි.
+
+සැකකාරියන් පිරිස සහ සැකකරු කළුතර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර අලුත්ගම පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/b6021517.json)
+
+---
+
+### Half number of girls, women do not include sanitary napkins in household expenditures
+
+*2024-03-10 11:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Half-number-of-girls-women-do-not-include-sanitary-napkins-in-household-expenditures/108-278555) · `en`
+
+Colombo, March 10 (Daily Mirror) - Due to the affordability of sanitary napkins half the number of girls and women in Sri Lanka do not include sanitary napkins in their household expenditures, the Advocata Institute said.
+
+They said the affordability of sanitary napkins and its significant impact on the welfare of girls and women in Sri Lanka has become more pronounced in recent years.
+
+This is particularly evident due to the decline in their purchasing powers stemming from the Covid-19 pandemic and the economic crisis.
+
+Approximately 4 million Sri Lankans have descended into poverty since 2019, making the total number of Sri Lankans living in poverty approximately 7 million.
+
+Therefore, it is necessary to examine the ramifications of the lack of affordability of sanitary napkins which has been worsened by the imposition of high taxes on sanitary napkins.
+
+...
+
+[Data](articles/2a3c755a.json)
+
+---
 
 ### Ottawa community gathers at vigil to mourn victims of mass killing
 
@@ -2329,47 +2373,5 @@ Then the Facebook accounts that are hosted will be replaced by them and will be 
 [Data](articles/ad597686.json)
 
 [Extended Data](ext_articles/ad597686.ext.json)
-
----
-
-### Four arrested for kidnapping man for Rs. 3.5 Mn ransom
-
-*2024-03-09 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-arrested-for-kidnapping-man-for-Rs-3-5-Mn-ransom/108-278543) · `en`
-
-Horana, March 9 (Daily Mirror) - Police have arrested four suspects in connection with a kidnapping incident where an individual was held for a ransom of Rs. 3.5 million.
-
-Following a complaint from the victim's wife, Moragahahena Police initiated an investigation into the abduction.
-
-The victim was reportedly abducted on Thursday by four individuals arriving in a car at Koralaima in Moragahahena, who subsequently demanded the ransom.
-
-Police arrested the suspects involved in the abduction, along with the vehicle used in the crime.
-
-The suspects, aged between 28 and 45 were identified as residents of Kotadeniya and Angoda areas.
-
-◼️
-
-[Data](articles/49e2b499.json)
-
-[Extended Data](ext_articles/49e2b499.ext.json)
-
----
-
-### Possible train delays on coastal line over next two days
-
-*2024-03-09 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97834/possible-train-delays-on-coastal-line-over-next-two-days) · `en`
-
-Train operations on a section of the Coastal Line, stretching between Colombo Fort and Wellawatte railway stations, have been restricted due to essential maintenance activities, Sri Lanka Railways said.
-
-Accordingly, train operations will remain limited to a single track of the railway line on 09,10 and 11 March 2024, as communicated by the Department of Railways.
-
-The department explained that this action was taken as a result of essential maintenance of a bridge located between the Kollupitiya and Kompanna Veediya railway stations and a pipeline laying work by the National Water Supply and Drainage Board.
-
-Thus, there will be possible train delays on the coastal line owing to this situation, the Department of Railways added.
-
-◼️
-
-[Data](articles/a9755dd9.json)
-
-[Extended Data](ext_articles/a9755dd9.ext.json)
 
 ---

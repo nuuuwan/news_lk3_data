@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 20:02:47**
+As of **2024-03-10 20:17:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,895
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,976 (100.0%) of 11,977 articles have been extended.
+11,977 (100.0%) of 11,977 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,19 +76,25 @@ The sleuths from the Ampara STF Camp had handed over the suspects along with the
 
 ---
 
-### සැබෑව ජන රැලිය අමතා ජනපති කළ කතාව
+### The speech made by President addressing the rally
 
 *2024-03-10 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194356) · `si`
 
-ඉදිරි මැතිවරණය ඉලක්ක කරගනිමින් එක්සත් ජාතික පක්ෂයේ පළමු මැතිවරණ ප්‍රචාරක රැලිය අද පස්වරුවේ කුලියාපිටියේ දී පැවැත්විණි.
+President Ranil Wickremesinghe addressed the first election rally at Kuliyapitiya, marking his first public appearance since assuming office.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද පස්වරුවේ “සැබෑව" ජන රැලිය ආරම්භ විය.
+🟩
 
-ජනාධිපතිවරයා සිය ධුරයට පත්වීමෙන් අනතුරුව දේශපාලන රැළියක් ඇමතු පළමු අවස්ථාව මෙයයි.
+The first election rally rally was held at Kuliyapitiya this afternoon to target the next election.
+
+The rally of the "true" rally began this afternoon under the patronage of President Ranil Wickremesinghe.
+
+This is the first time that the President has first been appointed as his post.
 
 ◼️
 
 [Data](articles/e3fe0855.json)
+
+[Extended Data](ext_articles/e3fe0855.ext.json)
 
 ---
 

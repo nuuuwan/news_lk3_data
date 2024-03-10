@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 02:17:37**
+As of **2024-03-11 02:33:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,016 (100.0%) of 12,018 articles have been extended.
+12,018 (100.0%) of 12,018 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The process is carried out under the guidance of the Commander of the Army, Lieu
 
 [Data](articles/2a5ce8ce.json)
 
+[Extended Data](ext_articles/2a5ce8ce.ext.json)
+
 ---
 
 ### At launch of autobiography Imtiaz Bakeer Markar makes crying call for united Sri Lanka
@@ -61,6 +63,8 @@ The Parliamentarian is an alumnus of Ananda College with a political career of a
 ...
 
 [Data](articles/0c69a5d0.json)
+
+[Extended Data](ext_articles/0c69a5d0.ext.json)
 
 ---
 

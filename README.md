@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 02:02:54**
+As of **2024-03-11 02:17:37**
 
 ## Newspaper Stats
 
-*Scraped **12,016** Articles*
+*Scraped **12,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 113
 bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
-dailyftlk | 625
 economynextcom | 626
+dailyftlk | 627
 islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
@@ -26,23 +26,65 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,015 (100.0%) of 12,016 articles have been extended.
+12,016 (100.0%) of 12,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### வெடுக்குநாறி தாக்குதல் சம்பவம் :  தமிழர்கள் மீதான அப்பட்டமான திட்டமிடப்பட்ட கலாசாரப் பண்பாட்டு இன அழிப்பு - மணிவண்ணன் கண்டனம்
+### Army returns 100 acres to rightful owners in Jaffna
+
+*2024-03-11 02:04:36* · [`dailyftlk`](https://www.ft.lk/news/Army-returns-100-acres-to-rightful-owners-in-Jaffna/56-759342) · `en`
+
+The Sri Lanka Army returned over 100 acres of occupied civilian land to rightful owners at a ceremony in Jaffna yesterday. Accordingly, a total of 109.56 acres of land, comprising five plots in the Jaffna District and seven in the Kilinochchi District, were returned.
+
+The Sri Lanka Army Media Unit said presently, the military occupies only 0.5% of land in the North, which is considered crucial for upholding normalcy and security in the region.
+
+The release of land is the 24th consecutive release by the military since the end of Sri Lanka’s long-drawn conflict. “The release of lands is part of an ongoing effort by the Sri Lankan Government to return occupied lands to their rightful owners,” the media unit said.
+
+The process is carried out under the guidance of the Commander of the Army, Lieutenant General Vikum Liyanage and the supervision of the Commander of the Security Forces - Jaffna, Major General Chandana Wickramasinghe.
+
+...
+
+[Data](articles/2a5ce8ce.json)
+
+---
+
+### At launch of autobiography Imtiaz Bakeer Markar makes crying call for united Sri Lanka
+
+*2024-03-11 01:57:36* · [`dailyftlk`](https://www.ft.lk/news/At-launch-of-autobiography-Imtiaz-Bakeer-Markar-makes-crying-call-for-united-Sri-Lanka/56-759341) · `en`
+
+Celebrating the story of his life, ‘Mage Kathawa’ (my story), an autobiography by Member of Parliament Imtiaz Bakeer Markar was launched at Ananda College recently.
+
+The Parliamentarian is an alumnus of Ananda College with a political career of almost five decades. The launch of his autobiography was therefore held grandly at the Ananda College’s Kularatne Hall paying homage to Markar’s school journey, and attended by several distinguished guests including religious leaders, former presidents Chandrika Bandaranaike Kumaratunga and Maithripala Sirisena, and Prime Minister Dinesh Gunawardena.
+
+...
+
+[Data](articles/0c69a5d0.json)
+
+---
+
+### Black Scheduled Cultural Cultural Ethnic Destruction of Tamils
 
 *2024-03-11 01:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178387) · `ta`
 
-சிவ பக்தர்களுக்குரிய கவலைகள் நீங்கி, காரிய வெற்றியை தரக் கூடிய நாள் மகா சிவராத்திரி விரத நாளாகும். அந் நாளில் சிவாலயங்களில் பக்கத்தர்கள் இரவு முழுவதும் கண் விழித்து ஓம் நமச்சியவாய என்று திரு நாமத்தை உச்சாடனம் செய்வார்கள்.
+The Shivalayas celebration was disrupted by police forcibly evicting devotees, including women, children, and MPs, from the Adivasivan Temple, the oldest Tamil temple. This act, on a day of worship, was condemned by former Jaffna Municipal Chief Minister V. Manivannan. The incident highlights the ongoing struggle for Tamil rights and religious freedom.
 
-அவ்வாறே தமிழர்களின் மிகத் தொன்மையான வெடுக்குநாரி ஆதிசிவன் ஆலயத்திலும் சிவபக்தவர்கள் ஒன்று கூடி சிவபெருமானுக்கு ஆராதனைகளைச் செய்தார்கள். அந் நேரத்தில் சிவபூஜையில் கரடி போல் உள்நுழைந்த பொலிசார் அங்கிருந்த சிவபகத்தர்கள் மீது தாக்குதல் நடத்தி வலுக்கட்டயமாக வெளியேற்றியதோடு ஆதிசிவனக்கு படைசெய்வதற்காக கொண்டு வந்து பொருட்களையும் தூக்கி வீசியமை மிலேச்சத்தமான காட்டு மிராண்டித்தனமான செயலாகும் என முன்னாள் யாழ்.மாநகர முதல்வர் வி.மணிவண்ணன் தெரிவித்துள்ளார்.
+🟩
+
+The day when the worries of Lord Shiva are eliminated and the success of the work. In the Shivalayas that day, the side of the night will be awakened by the night and the Om Namachiyawaya will pronounce the name of Mr.
+
+Likewise, the Lord Shiva gathered at the Adivasivan Temple, the oldest of the Tamils and worshiped Lord Shiva.. Former Jaffna Municipal Chief Minister V. Manivannan said that the police, who had entered the Shivapuja at the time, were forcibly evacuated and forcibly evicted and brought to the Adivasivanam forces.
+
+Initially, the devotees blocked the Adivasivan Temple on the road barriers and then allowed to walk in the livestock.. The police performed their deceit on the Shivabhuja at night at the Adi Sivan Temple by devotion to Adi Lord Shiva over the barriers and crises of the police.
+
+Women, boys, children, MPs were lifted without any discrimination. Violence by the police on World Women's Day. They tear up their clothes.
 
 ...
 
 [Data](articles/b4b2214f.json)
+
+[Extended Data](ext_articles/b4b2214f.ext.json)
 
 ---
 
@@ -2239,57 +2281,5 @@ A total of 16 people have died after being bitten by stray dogs last year.
 [Data](articles/0e05568a.json)
 
 [Extended Data](ext_articles/0e05568a.ext.json)
-
----
-
-### Risk of increase in rabies if free-roaming dog population is not controlled: Health suthorities
-
-*2024-03-10 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Risk-of-increase-in-rabies-if-free-roaming-dog-population-is-not-controlled-Health-suthorities/108-278553) · `en`
-
-Health authorities warn that there is a risk of an increase in rabies due to the abscence of a proper programme to control the free-roaming dog population in the country.
-
-According to their latest statistics, it has been revealed that more than six million stray dogs are roaming freely around the country, and health authorities pointed out that the programme to perform sterilisation surgery for these dogs has also been crippled.
-
-A large number of dogs are seen roaming freely around the country, including in Colombo and in public places.
-
-Health authorities point out that this situation has now become a serious health and social problem.
-
-The health authorities also point out that although various programmes have been implemented in the past with the aim of controlling rabies and the dog population, the lack of proper implementation of such programmes has led to this situation.
-
-A total of 16 people have died after being bitten by stray dogs last year.
-
-...
-
-[Data](articles/d16de576.json)
-
-[Extended Data](ext_articles/d16de576.ext.json)
-
----
-
-### Casual relations identity kills youth
-
-*2024-03-10 09:46:35* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාව-17-හැවැරිදි-තරුණියට-මරු-කැඳවයි/11-408507) · `si`
-
-A young woman's body was found in Elpitiya, and it's believed she was abducted by her brother-in-law on March 8. The police are investigating her murder.
-
-🟩
-
-The body of a young woman who was found in a tea land in Elpitiya Talawa Mawatha, Nanayakkara Mawatha, Path, was found yesterday (9).
-
-Wanniarachchi Kankanam's Hansika Nadeesh, a resident of Kongala Kankanam, Thaalgarachchi, was found, was found in Kanniarachchi, Kanniarachchi, a resident of Thalgahawatte.
-
-She had a knife and another in connected with her mother on March (8), a knife's husband and another was a knife, and she was associated with her.
-
-According to the complaint lodged with her mother, the girl had been abducted by his brother-in-law and had a complaint with her mother was abducted by his brother.
-
-Police and relatives have found that the young girl who has been abducted on March 8, the body of the police were discovered yesterday (9)..
-
-The murdered girl had gone to a rented house in Nanayakkara and the mother of the two months with her son's husband.The police say that they have been crowned home.
-
-...
-
-[Data](articles/1a14922a.json)
-
-[Extended Data](ext_articles/1a14922a.ext.json)
 
 ---

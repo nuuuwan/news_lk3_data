@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 16:48:25**
+As of **2024-03-10 17:03:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,889
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,949 (99.9%) of 11,955 articles have been extended.
+11,955 (100.0%) of 11,955 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ According to police, he had been returning home after attending a concert held i
 
 [Data](articles/68b2fe94.json)
 
+[Extended Data](ext_articles/68b2fe94.ext.json)
+
 ---
 
 ### Eight arrested for trespassing into archaeological site in Nedunkerny
@@ -64,43 +66,57 @@ On 06 March, the Vavuniya Magistrate’s Court delivered a judgment stating that
 
 [Data](articles/6b8f3a8d.json)
 
+[Extended Data](ext_articles/6b8f3a8d.ext.json)
+
 ---
 
-### ඇල්පිටියේ තරුණිය පැහැරගත් ත්‍රිරෝද රථයේ රියදුරු අත්අඩංගුවට
+### Driver arrested in abducted girl in Elpitiya
 
 *2024-03-10 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194350) · `si`
 
-ඇල්පිටිය ප්‍රදේශයේදී තරුණියක් ඝාතනය කිරීමේ සිදුවීමට පෙර ඇයව පැහැරගත් බවට පැවසෙන තිරෝද රථය සහ එහි රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A driver and a hospital staff member were arrested in connection with the abduction and murder of a 17-year-old girl in Elpitiya. The suspect, a three-wheeler driver, was handed over to the Karandeniya Police for further investigation. The girl's brother-in-law is suspected of the murder and has fled the area.
 
-විමර්ශන සිදුකරමින් පැවති අතරතුර සැකකාර තිරෝද රථ රියදුරු කරන්දෙණිය පොලීසිය වෙත භාරවීමෙන් අනතුරුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-සැකකාර ත්‍රිරෝද රථ රියදුරු එහිදී පොලීසිය වෙත පවසා ඇත්තේ තමන් කුලී පදනමට එම ගමන ගිය බවත් පසුව අදාළ පුද්ගලයා සහ තරුණිය නානායක්කාර මාවත ආසන්නයේදී බස්සවා ගිය බවත්ය.
+The hospital and its driver have been arrested by the police that she was abducted before the murder of a girl in the Elpitiya area.
 
-සැකකාර ත්‍රිරෝද රථ රියදුරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර කරන්දෙණිය පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන කටයුතු සිදුකරයි.
+The suspected three-wheeler driver was handed over to the Karandeniya Police while investigations were carried out.
 
-ඇල්පිටිය පොලිස් වසමේ තේ වත්තක තිබී කැපුම් තුවාල සහිත 17 හැවිරිදි වියේ පසුවූ තරුණියගේ සිරුර පසුගියදා සොයාගත්තේය.
+The suspected three-wheeler has told the police that he had visited the hire and later laid down near Nanayakkara Mawatha.
 
-කෙසේ වෙතත් ඝාතනය සම්බන්ධයෙන් සැකය එල්ල වී ඇති අදාළ තරුණියගේ මස්සිනා ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු සොයා ඇල්පිටිය සහ කරන්දෙණිය පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspects are to be produced before the court driver to court and the Karandeniya Police are conducting further investigations.
+
+The body of 17-year-old girl with cut injuries in the Elpitiya Police Division was found recently.
+
+However, the girl's brother-in-law has fled the area of the girl who has been suspected of the murder and the Elpitiya and the Karandeniya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/09022654.json)
 
+[Extended Data](ext_articles/09022654.ext.json)
+
 ---
 
-### ත්‍රීරෝද රථ රියදුරෙකුට පිහියෙන් ඇන පලා ගිහින්
+### Three-wheeler driver stabbed
 
 *2024-03-10 16:03:55* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-රියදුරෙකුට-පිහියෙන්-ඇන-පලා-ගිහින්/11-408516) · `si`
 
-කරන්දෙණිය දිවියගහවෙල ප්‍රෙද්ශයේ අද(10) පස්වරුවේදී දෙදෙනෙකු විසින් තීරෝද රථ රියදුරෙකුට එල්ල කරන ලද පිහි පහරවලින් බරපතල තුවාල ලබා තීරෝද රථ රියදුරු ඇල්පිටිය රෝහලට ඇතුළත් කළ බව කරන්දෙණිය පොලීසිය කියයි.
+A three-wheeler driver was stabbed in Elpitiya, Hambantota. The suspects, who were residents of Ashanpitiyawatta, allegedly stole gold and cables from the driver's wallet. The police are investigating further.
 
-මෙසේ රෝහල් ගත කොට ඇත්තේ ඇල්පිටිය අංපිටියවත්ත පදේශයේ පදිංචි එම්.ඒ.තිලකසිරි නමැති හැටදෙහැවිරිදි කුලී තීරෝද රථ රියදුරකු බවද පොලීසිය කියයි. කුලී ගමනක් යන මුවාවෙන් දෙදෙනෙකු විසින් තීරෝද රථය ඇල්පිටියේ සිට කරන්දෙණිය දිවියගහවෙලදී දක්වා කැදවාගෙන විත් එම් මාර්ගයේ පාලු ස්ථානයකදී තීරෝද රථය නතර කොට පිහියක් පෙන්වා තීරෝද රථ රියදුරුගේ ගෙල පැලදි රන් මාලය කඩාගෙන ඔහුගේ මුදල් පසුම්බිය උදුරා ගැනීමට සැරසීමේදී තීරෝද රථ රියදුරු කෑගැසීමට පටන් ගැනීමත් සමගම ඔවුන් දෙදෙනා විසින් තීරෝද රථ රියදුරුට පිහියෙන් ඇන පලා ගොස්ඇති බව ද පොලීසිය කියයි.
+🟩
 
-සැකකරුවන් දෙදෙන් එල්ල කළ පිහි පහරවලින් තීරෝද රත රියදුරුගේ උදරයට බරපතල තුවාල සිදුවී ඇති බවද පොලීසිය කියයි. කරන්දෙණිය පොලීසිය මේ පිළිබදව වැඩිදුර පරීක්ෂණ පවත්වයි.
+The driver was admitted to the Elpitiya Police
+
+The police said that the police said that the hospital was a resident of the Ashanpitiyawatta, Elpitiya, Hambantota, police said. The two of them began to stop the gold and cup of the gold cables of the verdow of the verdow of the wallet in a rental and collide in the odd palm of the verdow.The police say that the driver of the vehicle stabbed to stabborn, police said.
+
+Police have seriously injured in the abdomen abdomen by the suspects with the two suspects.. The Karandeniya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/76253897.json)
+
+[Extended Data](ext_articles/76253897.ext.json)
 
 ---
 
@@ -126,19 +142,25 @@ As a result, a small delay in the upcountry train will take place.
 
 ---
 
-### විදුලි සෝපානය වැඩ නැතැයි මධ්‍යම තැපැල් හුවමාරුවේ සේවකයන් වර්ජනයකට
+### Central Postal Exchange employees on strike that the elevator is not working
 
 *2024-03-10 15:58:05* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සෝපානය-වැඩ-නැතැයි-මධ්‍යම-තැපැල්-හුවමාරුවේ-සේවකයන්-වර්ජනයකට/11-408514) · `si`
 
-මධ්‍යම තැපැල් හුවමාරුවේ සේවකයින් අද මධ්‍යම රාත්‍රියේ සිට පැය 24ක සංකේත වැඩ වර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+Central Mail Exchange employees are on a 24-hour strike, demanding the repair of a disabled elevator in their 8-story building.
 
-මධ්‍යම තැපැල් හුවමාරුව ස්ථාපිත කර ඇති මහල් 8ක ගොඩනැගිල්ලේ අක්‍රීය වී ඇති විදුලි සෝපානය අලුත්වැඩියා නොකිරීමට විරෝධය පළකරමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගයට එළැඹීමට තීරණය කර තිබේ.
+🟩
 
-විදුලි සෝපානය අක්‍රීය වී වසරකට ආසන්න කාලයක් ගතවුවද එය අලුත්වැඩියා නොකිරීම හේතුවෙන් තැපැල් මළු ගොඩනැගිල්ල තුළ එහා මෙහා ගෙනයාමට සේවකයින්ට දැඩි පරිශ්‍රමයක් දැරීමට සිදුව ඇති බව ඔවුන් පවසයි.
+The employees of the Central Mail Exchange have decided to launch a 24-hour token strike from midnight today.
+
+They have decided to propose to propose to repair the disabled lift in the 8 storey building established by the Central Mail Exchange.
+
+The elevator was disabled, but it was reported that the employees had to strive to move around the postgroll building due to the repair of it.
 
 ◼️
 
 [Data](articles/85e87cae.json)
+
+[Extended Data](ext_articles/85e87cae.ext.json)
 
 ---
 
@@ -292,19 +314,27 @@ The Sri Lanka Navy said that the fishermen were taken to the Fisheries Harbor to
 
 ---
 
-### විපක්ෂයේ පහත් ක්‍රියාවක් ගැන මුදල් රාජ්‍ය ඇමති කියයි
+### State Minister says money about opposition inferior
 
 *2024-03-10 14:00:37* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-පහත්-ක්‍රියාවක්-ගැන-මුදල්-රාජ්‍ය-ඇමති-කියයි/11-408513) · `si`
 
-ජනාධිපතිවරයාගේ ආරාධනාව ප්‍රතික්ෂේප කරමින් ජාත්‍යන්තර මූල්‍ය  අරමුදලේ සාකච්ඡාවට විපක්ෂය සහභාගී නොවීමට ගනු ලැබූ තීරණය ඉතා පහත් ක්‍රියාවක් බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි. ඒ මහතා මේ බව පැවසුවේ අද (10දා) අනුරාධපුරදී පැවති මාධ්‍ය හමුවකදීය.
+State Minister Shehan Semasinghe criticizes the opposition's decision not to participate in the IMF discussion on the president's invitation, emphasizing the opposition's role should align with the government's views. He also mentions Ranil Wickremesinghe's efforts to discuss changes with international finance and party leaders, highlighting the support from several MPs for the government's national needs, despite the opposition's decision not to attend the IMF discussion.
 
-"විපක්ෂයක් සෑම විටම රජයේ මතයට එකඟ විය යුතු නැති වුනත් වග කියන විපක්ෂයක කාර්ය භාරය වෙන්නෙ, රටක් කිසියම් අභියෝගයකට මුහුණ දෙන අවස්ථාවේදී රට බේරා ගැනීම සඳහා කටයුතු කිරීමයි.
+🟩
 
-රටේ ඇතිව තිබෙන තත්ත්වය හමුවේ සියලු දෙනාගේම අදහස් ලබා ගැනීම හා හවුල් කර ගැනීම සදහාත් විපක්ෂ පවසන වෙනස්කම් පිළිබඳව අවධානය යොමු කර සාකච්ඡා කිරීම සඳහා රනිල් වික්‍රමසිංහ ජනාධිපතිවරයා විසින් සත්භාවයෙන් යුතුව ඊට සුදුසුම වේදිකාව නිර්මාණය කරමින් සිටිනවා. හෙට (11)  දිනයේ ජාත්‍යන්තර මූල්‍ය අර මුදල හා විපක්ෂය නියෝජනය කරන පක්ෂ නායකයන් එක් කර ගැනීමට කටයුතු තිබෙනවා.
+State Minister Shehan Semasinghe says that the decision not to participate in the International Monetary Fund to discuss the invitation of the president. He was speaking at a press conference held in Anuradhapura today.
 
-...
+"The role of a opposition should always be agreed to the government's opinion, but the country is to save the country at the time of a challenge.
+
+Ranil Wickremesinghe is consciously creating the platform to discuss and discussing the changes in opposition changes in the country.. It has arranged for the international finance and the party leaders representing the international finance and the opposition tomorrow (11).
+
+There are several MPs who wish to support the government by considering the national needs of the country.Despite this, the decision not to attend the International Monetary Fund's discussion for the International Monetary Fund's discussion tomorrow
+
+◼️
 
 [Data](articles/2df12703.json)
+
+[Extended Data](ext_articles/2df12703.ext.json)
 
 ---
 

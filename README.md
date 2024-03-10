@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 08:51:07**
+As of **2024-03-10 09:02:59**
 
 ## Newspaper Stats
 
-*Scraped **11,906** Articles*
+*Scraped **11,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 622
 islandlk | 646
-adalk | 1,001
+adalk | 1,002
 adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
 dailymirrorlk | 1,820
-adaderanasinhalalk | 1,875
+adaderanasinhalalk | 1,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,903 (100.0%) of 11,906 articles have been extended.
+11,906 (100.0%) of 11,908 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,32 @@ Ottawa Mayor Mark Sutcliffe, Police Chief Eric Stubbs and the Sri Lankan High Co
 ...
 
 [Data](articles/fa84e247.json)
+
+[Extended Data](ext_articles/fa84e247.ext.json)
+
+---
+
+### ඉඟුරු, ගම්මිරිස්, කහ ඇතුළු කුළුබඩු  වර්ග ආනයනයට අවසර
+
+*2024-03-10 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194337) · `si`
+
+ගම්මිරිස්, ඉඟුරු, කහ ඇතුළු කුළුබඩු වර්ග ප්‍රතිඅපනයනය කිරීම සඳහා ආනයනයට අවසර ලබාදීමට රජය පියවර ගෙන තිබේ.
+
+ආනයන හා අපනයන පාලන රෙගුලාසි යටතේ ඊට අදාළ ආනයන බලපත්‍ර නිකුත් කිරීමට කැබිනට් මණ්ඩලය විසින් ලබාදුන් තීන්දුවකට අනුව එම පියවර ගෙන ඇති බව වාර්තා වෙයි.
+
+ඒ අනුව, ගම්මිරිස්, සාදික්කා, වසාවාසි, කරඳමුංගු, ඉඟුරු, කහ සහ අනෙකුත් කුළුබඩු වර්ග ආනයන හා අපනයන පාලන ජනරාල්වරයාගේ අනුමැතියට යටත්ව ආනයනය කිරීමට අවසර හිමිව තිබේ.
+
+එලෙස ආනයනය කරනු ලබන ද්‍රව්‍ය සඳහා දේශීයව සියයට 35ක අවම අගයක් එකතු කිරීමෙන් අනතුරුව ප්‍රතිඅපනයනය කිරීම සඳහා අවසර හිමිවන බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
+
+2023 වර්ෂයේ ජනවාරි මස පළමුවන දින සිට ක්‍රියාත්මක වන පරිදි එම ද්‍රව්‍ය මෙරටට ආනයනය කිරීම සම්පූර්ණයෙන්ම තහනම් කර තිබුණි.
+
+කෙසේවෙතත් ආයෝජන ප්‍රවර්ධන අමාත්‍යවරයා විසින් පසුගිය වසරේ දෙසැම්බර් 06 වන දින ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල සංදේශයට අනුව තෝරාගත් කුළුබඩු ආනයනය කර ප්‍රතිඅපනයනය කිරීමට මුදල් අමාත්‍යංශය අවසර ලබා දී තිබේ.
+
+ප්‍රතිඅපනයනය කිරීම සඳහා අදාළ ද්‍රව්‍ය ආනයනය කිරීමට අවසර හිමිවන්නේ ආයෝජන මණ්ඩලයේ නිර්දේශ මත අනුමත කරන ලද ව්‍යවසායකයින්ට පමණි.
+
+...
+
+[Data](articles/fcbc19b6.json)
 
 ---
 
@@ -162,6 +188,24 @@ The maritime regions around the country are expected to be in a moderate wave.
 
 ---
 
+### රාවණා ඇල්ල රක්ෂිතයේ විශාල ගින්නක් පාලනය කරයි
+
+*2024-03-10 07:26:05* · [`adalk`](https://www.ada.lk/breaking_news/රාවණා-ඇල්ල-රක්ෂිතයේ-විශාල-ගින්නක්-පාලනය-කරයි/11-408505) · `si`
+
+ඇල්ල රාවණා ඇල්ල අභය භූමියේ ඊයේ රාත්‍රී (09) හටගත්  විශාල ගින්නක්  වන ඡීවී අංශවල මූලිකත්වයෙන් සිදු කළ මෙහෙයුමකින්  අද (10) අලුයම වන විට නිවා දැමීමට හැකි වූ  බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+ඇල්ල රාවණා ඇල්ල අභය භූමියේ ගෝවුස්ස ප්‍රදේශයේ මෙම ගින්න හට ගෙන තිබුණි. කිසිවෙකු විසින් තැබූ ගින්නක් මෙලෙසින් පැතිර යන්නට ඇතැයි වන ජීවී නිලධාරීහු පැවසුහ.
+
+වියලි කාලගුණික තත්ත්වය සහ සුළං සමග වේගයෙන් පැතිර ගිය ගින්න නිවා දැමීමට  වනජීවී නිලධාරීන් පොලීසිය සහ ආපදා සහන සේවා නිලධාරීහු  ප්‍රදේශවාසීන් සමග  එක්ව මහත්  පරිශ්‍රමයක් දැරූහ.
+
+ඉහළ පාරිසරික වටිනාකමක් ඇති ප්‍රදේශයක මෙම ගින්න පැතිරී ගොස් තිබුණි. ඇල්ල පොලිසිය මේ සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/264b5cea.json)
+
+---
+
 ### The World's Queen Christina
 
 *2024-03-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194336) · `si`
@@ -230,19 +274,25 @@ The Department of Meteorology said that in some places in the Western, Sabaragam
 
 ---
 
-### நாளை முதல் அரசாங்கம் நெல் கொள்வனவு
+### Government purchases paddy from tomorrow
 
 *2024-03-10 03:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-அரசாங்கம்-நெல்-கொள்வனவு/175-334435) · `ta`
 
-நாளை முதல் அரசாங்கம் நெல் கொள்வனவை ஆரம்பிக்கவுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Government to buy paddy from tomorrow, despite no assistance yet. Minister Mahinda Amaraweera expects to secure funds by next week. Purchasing will proceed with ministry's funds if assistance is not available.
 
-எனினும், அரசாங்கத்திடம் இருந்து இதுவரை உதவிகள் கிடைக்கப்பெறவில்லை எனவும் எதிர்வரும் வாரத்திலேனும் தமக்கான உதவிகள் கிடைக்கப்பெறுமென நம்புவதாகவும் விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+🟩
 
-அந்த உதவிகள் கிடைக்கப்பெறாத பட்சத்திலும், அமைச்சின் நிதியினூடாக நெல் கொள்வனவு நடவடிக்கை ஆரம்பிக்கப்படுமென அவர் தெரிவித்துள்ளார். (a)
+Agriculture Minister Mahinda Amaraweera has said that the government will start the purchase of paddy from tomorrow.
+
+However, Agriculture Minister Mahinda Amaraweera has said that the government has not received assistance from the government and that he will be able to get his assistance in the coming week.
+
+Even if the assistance is not available, the paddy purchasing process will be initiated through the Ministry's funds. (A)
 
 ◼️
 
 [Data](articles/92ca1ac7.json)
+
+[Extended Data](ext_articles/92ca1ac7.ext.json)
 
 ---
 
@@ -524,21 +574,29 @@ The Moragahahena Police have arrested them in the Millewatta area on the occasio
 
 ---
 
-### வெடுக்குநாறி மலையில் திட்டமிட்ட பௌத்த ஆக்கிரமிப்பு முன்னெடுப்பு - சிறிதரன், கஜேந்திரன் சுட்டிக்காட்டு
+### Buddhist occupation initiative on the Vedukkuni Mountain - Sridharan, Gajendran
 
 *2024-03-09 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178314) · `ta`
 
-வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தினை பௌத்த அடையாளமாக மாற்ற வேண்டுமென்ற திட்டமிட்ட ஆக்கிரமிப்பு முன்னெடுக்கப்படுவதாக இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் மற்றும் தமிழ்த் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் ஆகியோர் சுட்டிக்காட்டியுள்ளனர்.
+Sridharan and Gajendran criticize the conversion of Adilingeswarar temple to Vedukkunnarimalai Adilingeswarar, halted Shivaratri poojas, and police brutality against temple rituals. They accuse Buddhist Thera of using archaeology to establish Buddhist symbols and expand occupation, highlighting police favoritism towards the majority.
 
-வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் ஏற்பாடு செய்யப்பட்ட சிவராத்திரி பூஜைவழிபாடுகள் தடுத்து நிறுத்தப்பட்டு, பொதுமக்கள் எதேச்சதிகாரமாக வெளியேற்றப்பட்டமை தொடர்பில் கருத்துவெளியிடுகையிலேயே அவர்கள் மேற்கண்டவாறு தெரிவித்தனர்.
+🟩
 
-வெடுக்குநாறிமலை ஆலயம் இந்திய அமைதிப்படைகள் இலங்கையில் இருந்தபோதும், விடுதலைப்புலிகள் தமது கட்டுப்பாட்டுக்குள் வைத்திருந்தபோதும் பூஜைவழிபாடுகள் இடம்பெற்று வந்தவொரு ஆலயமாகும்.
+Sivagnanam Sreedharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA) and Tamil National People's Front, Selvarasa Gajendran, pointed out that the planned occupation is being carried out to convert the Adilingeswarar temple into the Vedukkunnarimalai Adilingeswarar temple.
 
-அதுமட்டுமன்றி, இரண்டாயிரம் ஆண்டுகளுக்கு முன்னதாக வரலாறும் இதற்கு காணப்படுகின்றது. அவ்வாறான நிலையில் எமது மக்கள் மரபு ரீதியாக வழிபட்டு வந்த இந்த ஆலயத்தில் சிவராத்திரியை முன்னிட்டு முன்னெடுத்த விசேட வழிபாடுகளை பொலிஸார் காட்டுமிராண்டித்தனமாக செயற்பட்டு தடுத்து நிறுத்தியுள்ளனர்.
+They stated that the Shivaratri poojas organized at the Adilingeswarar Temple at Vettu Nirimalai were halted and the public was out of power.
+
+The Vedukkunnarimalai temple is a temple where the Indian Peace Corps were in Sri Lanka and the LTTE was under their control.
+
+Moreover, the history is found over two thousand years ago. In this case, the police have brutally stopped the special rituals carried out in this temple where our people were traditionally worshiped.
+
+He said that this activity was condemned and that the Sinhala and Buddhist nationalists in the South are still a great example of how far they are trying to occupy with the help of the government.
 
 ...
 
 [Data](articles/5ccaa7eb.json)
+
+[Extended Data](ext_articles/5ccaa7eb.ext.json)
 
 ---
 
@@ -2265,57 +2323,5 @@ Plans are afoot to donate aid to the Gaza with effect from this weekend.
 [Data](articles/aad4b06a.json)
 
 [Extended Data](ext_articles/aad4b06a.ext.json)
-
----
-
-### Three killed in drowning
-
-*2024-03-09 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194311) · `si`
-
-Three people drowned: two adults in Chandanamaduar, Palatini, and a child in Uylukulam, Lady Thirukulama Lighty. The adults were 25 and 33, residents of the area. The child was a resident of Photictam.
-
-🟩
-
-Two children and two people were drowned in two areas.
-
-Police said that Sandenel had killed two people in Chandanamaduar canal area in Palatini.
-
-The deceased have been identified as 25 and 33 years, two persons living in the area of the area.
-
-It is said that these two other friends were bathing in the afternoon yesterday (08).
-
-The residents of the area have been admitted to the Macediva Hospital and they had died, police said.
-
-Meanwhile, a child drowned with the Uylukulam Lady Thirukulama Lighty last night.
-
-The deceased has been identified as a child of a resident of Photictam.
-
-Investigations have revealed that the child had dull when he had come to watch a festival at Thirukulama Kovil.
-
-◼️
-
-[Data](articles/d207d9d5.json)
-
-[Extended Data](ext_articles/d207d9d5.ext.json)
-
----
-
-### ELEKTRATEQ to convert Sri Lanka petrol three-wheels to electric three-wheelers
-
-*2024-03-09 09:00:00* · [`economynextcom`](https://economynext.com/elektrateq-to-convert-sri-lanka-petrol-three-wheels-to-electric-three-wheelers-153865/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s first fully-fledged electrical three-wheel and tricycle production facility at the Maradana Railway Department warehouse will convert petrol three-wheels and non-electric tricycles to run on electrical power in two hours.
-
-“The entire production process of the ELEKTRATEQ three-wheeler of the Vega company, is carried out in this manufacturing plant. The factory is equipped with all the necessary facilities to convert a three-wheeler running on petrol to electricity within two hours,” a statement by the Department of Government Information said.
-
-A project to convert 100 three wheels to electricity powered in a month is currently underway, the statement said.
-
-“A project to convert one hundred three-wheelers to electricity in one month in conjunction with a private financial institution is being implemented in this factory.
-
-...
-
-[Data](articles/2991e350.json)
-
-[Extended Data](ext_articles/2991e350.ext.json)
 
 ---

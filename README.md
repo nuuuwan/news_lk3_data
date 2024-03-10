@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 13:33:41**
+As of **2024-03-10 13:52:06**
 
 ## Newspaper Stats
 
@@ -26,27 +26,41 @@ adaderanasinhalalk | 1,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,935 (100.0%) of 11,937 articles have been extended.
+11,937 (100.0%) of 11,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### அரசியல் நிகழ்ச்சி நிரல்களுக்குள் ஐ.ம.ச பங்கேற்காது
+### The IMC does not participate in political agendas
 
 *2024-03-10 13:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-நிகழ்ச்சி-நிரல்களுக்குள்-ஐ-ம-ச-பங்கேற்காது/175-334448) · `ta`
 
-தேர்தலை இலக்காக் கொண்ட ஜனாதிபதியின் அரசியல் நிகழ்ச்சி நிரல்களுக்குள் எதிர்க்கட்சி சிக்கிக் கொள்ளாது நாளைய (11) கலந்துரையாடலில் ஐக்கிய மக்கள் சக்தி பங்கேற்காது என முன்னாள் பாராளுமன்ற உறுப்பினரும் ஐக்கிய மக்கள் சக்தியின் பிரதி பொதுச் செயலாளருமான முஜிபுர் ரஹ்மான் தெரிவித்துள்ளார்.
+Mujibur Rahman, former MP and Deputy General Secretary of the United People's Power, stated that the party will not participate in tomorrow's discussion. The president and government have shown reluctance to move beyond the kingdom. The president has called for opposition leaders to discuss with the IMF and has expressed his position in Parliament. There's no need for a new president to be in front of the new President. The agreements with the IMF have not been disclosed. Workers are angry at the selling of state institutions to friends. The Minister of State has called for no need to wear national clothing. The United People's Power government plans to revise the IMF agreement. The opposition will not be trapped in the president's political agendas.
 
-புதிய கூட்டத்தொடர் ஆரம்பித்தன் பின்னர் கோப் குழுவின் தவிசாளர் பதவியை எதிர்க்கட்சிக்கு வழங்காது ஆளும் தரப்பில் குற்றச்சாட்டுக்களுக்கு ஆளான நபர் நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-தூய அரசாட்சியை முன்கொண்டு செல்ல விரும்பமில்லாத நிலைப்பாட்டையே ஜனாதிபதியும் அரசாங்கமும் தொடர்ந்தும் காண்பித்து வருகின்றன.
+Former MP and Deputy General Secretary of the United People's Power, Mujibur Rahman, said that the United People's Power would not participate in tomorrow's discussion (11).
 
-சர்வதேச நாணய நிதியத்தின் கலந்துரையாடல்களில் பாராளுமன்றத்திலுள்ள எதிர்க்கட்சித் தலைவர்களுக்கும் ஜனாதிபதி அழைப்பு விடுத்துள்ளார்.எதிர்க்கட்சித் தலைவரை சர்வதேச நாணய நிதிய பிரதிநிதிகள் பல சுற்றுக்களில் சந்தித்து கலந்துரையாடியுள்ளனர்.சஜித் பிரேமதாச தமது நிலைப்பாட்டை சர்வதேச நாயணய பிரதிநிதிகளிடமும் தெளிவாக குறிப்பிட்டுள்ளார். பாராளுமன்றத்திலும் தமது நிலைப்பாட்டை தெரிவித்துள்ளார்.
+After the new session began, the person who was accused of charges on the ruling party has not been appointed to the opposition.
+
+The president and the government continue to show the unwillingness to go ahead of the pure kingdom.
+
+The President has also called on the opposition leaders in Parliament in discussions with the International Monetary Fund.. He also said his position in Parliament.
+
+There is no need for a new president to be in front of the new President.
+
+The agreements reached with the International Monetary Fund have not been revealed.
+
+Without any discussion, the workers are angry at the tendency to sell profit state institutions to their friends.
+
+The Minister of State has called on the coat today, saying that there is no need to wear national clothing.
 
 ...
 
 [Data](articles/2b1e2cc3.json)
+
+[Extended Data](ext_articles/2b1e2cc3.ext.json)
 
 ---
 
@@ -65,6 +79,8 @@ He appeared to have completely forgotten the ideals of democratic ideals so cher
 ...
 
 [Data](articles/c6f4480b.json)
+
+[Extended Data](ext_articles/c6f4480b.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 09:52:06**
+As of **2024-03-10 10:03:20**
 
 ## Newspaper Stats
 
-*Scraped **11,909** Articles*
+*Scraped **11,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 622
 islandlk | 646
-adalk | 1,002
+adalk | 1,003
 adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,877
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,909 (100.0%) of 11,909 articles have been extended.
+11,909 (100.0%) of 11,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -171,6 +171,26 @@ Following the release of the bodies after the autopsy, the funeral will be held 
 [Data](articles/b18f9965.json)
 
 [Extended Data](ext_articles/b18f9965.ext.json)
+
+---
+
+### උස්බෙකිස්තාන පෙම්වතිය සමග ‌කොස්තාපල් ‌පෙම්වතා රෝහලේ
+
+*2024-03-10 07:41:43* · [`adalk`](https://www.ada.lk/breaking_news/උස්බෙකිස්තාන-පෙම්වතිය-සමග-‌කොස්තාපල්-‌පෙම්වතා-රෝහලේ/11-408506) · `si`
+
+උස්බෙකිස්තාන ජාතික පෙම්වතිය සමග යතුරුපැදියෙන් යමින් සිටි පොලිස් කොස්තාපල්වරයෙකු  වැල්ලවත්ත මුහුදු මාර්ගයේදී ත්‍රී රෝද  රථයක ගැටීමෙන්  දෙදෙනාම තුවාල ලබා රෝහල් ගත කර ඇතැයි වැල්ලවත්ත පොලිසිය කියයි.
+
+මෙලෙස තුවාල ලබා ඇත්තේ කැස්බෑව පොලිසියට අනුයුක්තව රාජකාරී කරනු ලබන පොලිස් කොස්තාපල් 102017 ගුණවර්ධන නිලධාරියා සහ ඔහුගේ උස්බෙකිස්තාන  පෙම්වතිය වන නිකි කුට්යා (niki kutya) තරුණියයි.
+
+තුවාල ලද ඔහුන් දෙදෙනා කළුබෝවිල ශික්ෂණ  රෝහල වෙත ඇතුලත් කර ඇත.
+
+කොස්තාපල්වරයා සිය පෙම්වතිය සමඟ මුහුදු මාර්ගයේ යතුරුපැදියෙන් යමින් සිටියදී ඇලෙක්සැන්ඩ්‍රා අතුරු මාර්ගයට හැරෙන හන්දිය අසලදී එකිනෙක ගැටී මෙම අනතුර වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+වැල්ලවත්ත පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුභාෂ් කහදවල මහතාගේ උපදෙස් මත ය මොබලව මට මේ මොකක්ද මේ අමාරුයි කියලා ඒක තමයි පැවැත්වේ.
+
+◼️
+
+[Data](articles/29de1ef9.json)
 
 ---
 
@@ -2315,27 +2335,5 @@ Later, 20 crew members and the three armed guards who were aboard the attacked v
 [Data](articles/2bf05679.json)
 
 [Extended Data](ext_articles/2bf05679.ext.json)
-
----
-
-### Driver's escape from accident in Anuradhapura;Three kills;Two people injured
-
-*2024-03-09 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178298) · `ta`
-
-In Anuradhapura, a road accident in Rambawewa resulted in three fatalities and two injuries. The victims were returning from a music show. Two injured women are being treated at the Anuradhapura Teaching Hospital.
-
-🟩
-
-Three men were killed and two women were injured in a road accident in Rambawewa, Anuradhapura.
-
-Some people who were returning home from a music show have fled the road and have fled the road.
-
-Two women who were injured in the accident are currently being treated at the Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/acf0d3c2.json)
-
-[Extended Data](ext_articles/acf0d3c2.ext.json)
 
 ---

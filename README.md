@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 16:17:42**
+As of **2024-03-10 16:33:21**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,947 (100.0%) of 11,949 articles have been extended.
+11,949 (100.0%) of 11,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### දුම්රිය මාර්ගයකට ගසක් කඩාවැටෙයි
+### A tree collapses for railway line
 
 *2024-03-10 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194349) · `si`
 
-නාවලපිටිය සහ ඉඟුරු ඔය දුම්රිය ස්ථාන අතර මාර්ගයට ගසක් කඩා වැටීමෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවිය.
+A tree collapses on the railway line between Nawalapitiya and Ginger Oya stations, causing a delay in upcountry trains. Railway employees are removing the tree.
 
-මේ වනවිට දුම්රිය සේවකයින් විසින් ගස ඉවත්කිරීමේ කටයුතුවල නිරතව සිටින බවට වාර්තාවෙයි.
+🟩
 
-ඒ අනුව මේ හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයේ සුළු ප්‍රමාදයක් සිදුවන බවය.
+The railway line was interrupted by the upcountry route to the road between Nawalapitiya and Ginger Oya railway stations.
+
+It is reported that railway employees are engaged in removal of the tree.
+
+As a result, a small delay in the upcountry train will take place.
 
 ◼️
 
 [Data](articles/b3c968c0.json)
+
+[Extended Data](ext_articles/b3c968c0.ext.json)
 
 ---
 
@@ -169,6 +175,8 @@ SMEs comprise more than 75% of enterprises while accounting for 45% of employmen
 ...
 
 [Data](articles/3ba77d4b.json)
+
+[Extended Data](ext_articles/3ba77d4b.ext.json)
 
 ---
 

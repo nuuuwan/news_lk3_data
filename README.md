@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 21:33:26**
+As of **2024-03-10 21:52:04**
 
 ## Newspaper Stats
 
-*Scraped **11,990** Articles*
+*Scraped **11,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,83 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,017
-adaderanalk | 1,456
+adaderanalk | 1,457
 tamilmirrorlk | 1,462
 virakesarilk | 1,637
 dailymirrorlk | 1,837
-adaderanasinhalalk | 1,896
+adaderanasinhalalk | 1,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,988 (100.0%) of 11,990 articles have been extended.
+11,990 (100.0%) of 11,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### வெடுக்குநாறி மலை ஆதிலிங்கேஸ்வரர் தலத்தில் சிவராத்திரி தினத்தில் பொலிஸாரின் அராஜகம் - யாழ். பல்கலைக்கழக ஆசிரியர் சங்கம் கண்டனம்
+### TNA accepts President’s invitation for discussion with IMF
+
+*2024-03-10 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97858/tna-accepts-presidents-invitation-for-discussion-with-imf) · `en`
+
+The Tamil National Alliance (TNA) has confirmed its acceptance of President Ranil Wickremesinghe’s invitation to opposition political parties for discussions with representatives of the International Monetary Fund (IMF).
+
+According to Illankai Tamil Arasu Kadchi (ITAK) leader S. Shritharan, TNA leader R. Sampanthan is slated to participate in the discussion scheduled to be held at the Presidential Secretariat on Monday (11 March).
+
+While invitations were extended to various opposition parties, it has been noted that the Samagi Jana Balawega (SJB) and the National People’s Power (NPP) have opted not to participate in the dialogue.
+
+While the discussion in question will be taking place as per a request made by SJB MP Harsha De Silva, Chairman of the Committee on Committee on Public Finance, he is yet to confirm his participation.
+
+During an inquiry made by Ada Derana, the parliamentarian had stated that a decision pertaining to his attendance would be made following discussions within his party.
+
+◼️
+
+[Data](articles/741aad59.json)
+
+---
+
+### රටටම වින කරන මහා විනාශයක් ගැන හෙළිදරව්වක්
+
+*2024-03-10 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194358) · `si`
+
+වියළි කාලගුණයත් සමග කැළෑ ගිනි තැබීම් ඉහළ ගොස් ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+එහි අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේ පසුගිය මාස කිහිපය තුළ දිවයින පුරා එවැනි සිදුවීම් 25ක් පමණ වාර්තා වී ඇති බවය.
+
+කැළෑ ගිනි තබන පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීම සඳහා විශේෂ වැඩසටහනක් ක්‍රියාත්මක කර ඇති බව ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේය.
+
+මේ අතර මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල මේ දිනවල පවතින අධික වියළි කාලගුණයත් සමග රක්ෂිතවලට ගිනි තැබීම හේතුවෙන් ජල මූලාශ්‍ර සිදී යාමේ අවදානමක් පවතින බව වාර්තා වෙයි.
+
+කාසල්රී සහ මාවුස්සාකැලේ ජලාශවලට ප්‍රධාන වශයෙන් ජලය සැපයෙන කෙසෙල්ගමු ඔයේ සහ මස්කෙළිය ඔයේ ජල මට්ටම අඩු වීම හේතුවෙන් එම ජලාශවල ජල මට්ටම සියයට 25ක් දක්වා පහත බැස ඇති බවයි ජලාශ භාර ඉංජිනේරුවරුන් පවසයි.
+
+මේ අතර වියළි කාලගුණය හේතුවෙන් ජල සැපයුමට මෙතෙක් බාධා එල්ල නොවූව ද ජලය භාවිතය අරපිරිමැස්මෙන් සිදුකළ යුතු බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ජනතාවට දැනුම් දෙයි.
+
+එහි නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.යූ.කේ. රණතුංග මහතා සඳහන් කළේ මේ වන විට ජල ඉල්ලුම සියයට 6කින් පමණ ඉහළ ගොස් ඇති බවය.
+
+...
+
+[Data](articles/9f457bf4.json)
+
+---
+
+### Anarchy of the Police on Shivaratri Day. University Teachers Association condemns
 
 *2024-03-10 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178380) · `ta`
 
-வெடுக்குநாறி மலை ஆதி லிங்கேஸ்வரர் தலத்திலே வழிபாட்டிலே ஈடுபட்டுக் கொண்டிருந்த சமயக் குருக்கள், பொதுமக்கள், அரசியல் தலைவர்கள் மீது பொலிஸார் மேற்கொண்ட அத்துமீறல்களினையும், அவர்கள் அங்கு இருந்தோரிலே பலரினைக் கைது செய்தமையினையும் யாழ்ப்பாணப் பல்கலைக்கழக ஆசிரியர் சங்கம் வன்மையாகக் கண்டித்துள்ளது.
+The Jaffna University Teachers Union has condemned the violations of the police and the arrests of many people who were there and the arrest of many people there.
 
-யாழ்ப்பாணப் பல்கலைக்கழக ஆசிரியர் சங்கம், வெடுக்குநாறி மலை ஆதிலிங்கேஸ்வரர் தலத்தில் சிவராத்திரி தினத்தன்று பொலிஸார் மேற்கொண்ட அத்துமீறல்களைக் கண்டித்து வெளியிட்ட அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+The Jaffna University Teachers' Association, in a statement condemning the violations of the police on Shivaratri day at the Vettukkunni Mountain Athilingeswarar head.
 
-அந்த அறிக்கையில், கடந்த மகா சிவராத்திரி தினத்தன்று இரவு வெடுக்குநாறி மலை ஆதி லிங்கேஸ்வரர் தலத்திலே வழிபாட்டிலே ஈடுபட்டுக் கொண்டிருந்த சமயக் குருக்கள், பொதுமக்கள், அரசியல் தலைவர்கள் மீது பொலிஸார் மேற்கொண்ட அத்துமீறல்களினையும், அவர்கள் அங்கு இருந்தோரிலே பலரினைக் கைது செய்தமையினையும் யாழ்ப்பாணப் பல்கலைக்கழக ஆசிரியர் சங்கம் வன்மையாகக் கண்டிக்கிறது.
+In the statement, the Jaffna University Teachers' Union condemns the violation of the police, the public and the political leaders of the religious priests, the public and political leaders who were worshiping at the Adi Lingeshwara head on the night of Maha Shivaratri.
+
+Maha Shivaratri Saiva is one of the most important days for the Hindu people. On that day, the vegetarian and Hindu people who live in the world will wake up all night and engage in religious. At one time, the police entered the Adi Lingeshwara head and caused many disruption to the people who were involved in the prevalence of the archaeological protection.
 
 ...
 
 [Data](articles/a57df7e0.json)
+
+[Extended Data](ext_articles/a57df7e0.ext.json)
 
 ---
 
@@ -59,6 +107,8 @@ Sri Lanka captain Wanindu Hasaranga, after lifting the T20 trophy at the end of 
 ...
 
 [Data](articles/1c3eb485.json)
+
+[Extended Data](ext_articles/1c3eb485.ext.json)
 
 ---
 
@@ -2279,41 +2329,5 @@ For 4Q 2023, SLT Group reported a year-on-year consolidated revenue degrowth of 
 [Data](articles/c89f9902.json)
 
 [Extended Data](ext_articles/c89f9902.ext.json)
-
----
-
-### Sri Lanka Insurance Corporation General poised for strong growth following official segregation
-
-*2024-03-09 23:18:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-general-poised-for-strong-growth-following-official-segregation-2/) · `en`
-
-Sri Lanka Insurance Corporation General Ltd. (SLICGL), the general insurance subsidiary of Sri Lanka Insurance Corporation Ltd. (SLIC), is entering a new phase of growth and innovation following its official segregation on Feb 1.
-
-Commenting on the outlook for SLICGL, Chandana L. Aluthgama, Group Chief Executive Officer, SLIC said, “After over 62 years of successful operations, the mandated separation of the life and general insurance businesses enables us to be more focused in our business strategies and ensures improved efficiency and effectiveness when serving our customers. Understanding this critical pivot, we have adapted to regulatory requirements as well as market dynamics and initiated operational separation across segments in 2018.”
-
-...
-
-[Data](articles/2d0b4457.json)
-
-[Extended Data](ext_articles/2d0b4457.ext.json)
-
----
-
-### Irish voters reject constitutional amendment about women’s role in home
-
-*2024-03-09 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97845/irish-voters-reject-constitutional-amendment-about-womens-role-in-home) · `en`
-
-Irish Prime Minister Leo Varadkar conceded defeat Saturday as two constitutional amendments he supported that would have broadened the definition of family and removed language about a woman’s role at home were headed toward rejection in early vote tallies.
-
-Varadkar, who pushed the vote to enshrine gender equality in the constitution by removing “very old-fashioned language” and trying to recognize the realities of modern family life, said it was clear the amendments were “defeated comprehensively on a respectable turnout.”
-
-“It was our responsibility to convince the majority of people to vote ‘yes’ and we clearly failed to do so,” Varadkar said.
-
-Opponents argued that the wording of the changes was poorly thought out — an argument that appeared to have gained traction in the final days of the campaign. Voters said they were confused by the questions and others said they feared changes would lead to unintended consequences.
-
-...
-
-[Data](articles/9195a884.json)
-
-[Extended Data](ext_articles/9195a884.ext.json)
 
 ---

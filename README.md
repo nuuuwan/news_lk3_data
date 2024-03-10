@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 23:51:41**
+As of **2024-03-11 00:02:54**
 
 ## Newspaper Stats
 
-*Scraped **12,001** Articles*
+*Scraped **12,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
-virakesarilk | 1,639
+virakesarilk | 1,640
 dailymirrorlk | 1,838
 adaderanasinhalalk | 1,898
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,997 (100.0%) of 12,001 articles have been extended.
+12,001 (100.0%) of 12,002 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,48 @@ That 10-day conflict has been dwarfed by the current war, which is now in its si
 ...
 
 [Data](articles/7155a1eb.json)
+
+[Extended Data](ext_articles/7155a1eb.ext.json)
+
+---
+
+### வடக்கில் இராணுவம் வசமுள்ள ஒரு தொகுதி  காணிகள் மக்களிடம் மீளக் கையளிப்பு
+
+*2024-03-10 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178383) · `ta`
+
+பாதுகாப்பு தரப்பினரிடம் உள்ள மக்களின் எஞ்சியுள்ள காணி நிலங்களும் அடுத்த சில மாதங்களுக்குள் விடுவிக்கப்படும் என நம்பிக்கை வெளியிட்ட கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா, பாதுகாப்பு தரப்பினரிடம் மட்டுமல்லாது வன ஜீவராசிகள் மற்றும் வனவிலங்கு திணைக்களத்தின் கீழுள்ள காணிகளும் விரைவில் விடுவிக்கப்படும் என்றார்.
+
+யாழ் மற்றும் கிளிநொச்சி மாவட்டங்களில் உயர் பாதுகாப்பு வலயமாக பாதுகாப்பு தரப்பினரது கட்டுப்பாட்டில் இருந்த பொதுமக்களின் ஒரு தொகுதி காணி நிலங்கள் உரிமையாளர்களிடம் மீளவும் கையளிக்கும் நிகழ்வு ஞாயிற்றுக்கிழமை (10) யாழ் மாவட்ட செயலகத்தில் இடம்பெற்றது.
+
+முப்படையினரும் மக்களுக்காகத்தான் சேவை செய்கின்றனர் என இங்கு உரையாற்றிய யாழ் மாவட்ட கட்டளை தளபதி தனது உரையில் குறிப்பிட்டிருந்தார்.
+
+ஆனால் யுத்தம் நடைபெற்றுக்கொண்டிருந்த காலத்திலேயே எனது கருத்து இதுவாகத்தான் இருந்தது. அதாவது பாதுகாப்பு தரப்பினர் எமது மக்கள் படையாக மக்களுக்கான படையாக செயற்படுவர் என்றும் செயற்பட வேண்டும் என்ற கருத்தை நான் முன்வைத்திருந்திருக்கின்றேன்
+
+...
+
+[Data](articles/4500ea74.json)
+
+---
+
+### Vavuniya Vettam in Batticaloa
+
+*2024-03-10 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178381) · `ta`
+
+In Batticaloa, a protest was held on Sunday against police actions against worshippers at the Vettukunnarimalai temple in Vavuniya. Over 100 people, including activists and clergy, gathered at Gandhi Park, led by former MPs and Tamil National People's Front organizers. They demanded an end to repression and the protection of religious rights.
+
+🟩
+
+The public staged a demonstration on Sunday (10) in front of the Gandhi Park in Batticaloa, condemning the police against the people who went to worship at the Vettukunnarimalai temple in Vavuniya.
+
+Batticaloa public organizations called for a protest protest against the police, followed by a protest at 10 am in front of the Gandhi Park at 10 am, and former Member of Parliament, Gnan Sirinasan, C. Yogeswaran, P. Ariyanendran and Tamil National People's Front National Organizer T. Suresh.More than one hundred people gathered, including human Uridhur activists and Hindu Christian clergy supporters.
+
+Do not stop Shiva worship, do not prevent Shiva worship, Sinhala repression on Shivaratri day, do not trample humanity, do not prevent religious rights, do not prevent religious rights, Tamil ministers have sold the center of the land?The demonstrators left the Gandhi Park and moved on to the rally for about an hour.
+
+◼️
+
+[Data](articles/0a6483db.json)
+
+[Extended Data](ext_articles/0a6483db.ext.json)
 
 ---
 
@@ -183,28 +225,6 @@ Meanwhile, the National Water Supply and Drainage Board also informs the people 
 [Data](articles/9f457bf4.json)
 
 [Extended Data](ext_articles/9f457bf4.ext.json)
-
----
-
-### Vavuniya Vettam in Batticaloa
-
-*2024-03-10 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178381) · `ta`
-
-In Batticaloa, a protest was held on Sunday against police actions against worshippers at the Vettukunnarimalai temple in Vavuniya. Over 100 people, including activists and clergy, gathered at Gandhi Park, led by former MPs and Tamil National People's Front organizers. They demanded an end to repression and the protection of religious rights.
-
-🟩
-
-The public staged a demonstration on Sunday (10) in front of the Gandhi Park in Batticaloa, condemning the police against the people who went to worship at the Vettukunnarimalai temple in Vavuniya.
-
-Batticaloa public organizations called for a protest protest against the police, followed by a protest at 10 am in front of the Gandhi Park at 10 am, and former Member of Parliament, Gnan Sirinasan, C. Yogeswaran, P. Ariyanendran and Tamil National People's Front National Organizer T. Suresh.More than one hundred people gathered, including human Uridhur activists and Hindu Christian clergy supporters.
-
-Do not stop Shiva worship, do not prevent Shiva worship, Sinhala repression on Shivaratri day, do not trample humanity, do not prevent religious rights, do not prevent religious rights, Tamil ministers have sold the center of the land?The demonstrators left the Gandhi Park and moved on to the rally for about an hour.
-
-◼️
-
-[Data](articles/0a6483db.json)
-
-[Extended Data](ext_articles/0a6483db.ext.json)
 
 ---
 
@@ -1118,6 +1138,8 @@ There are certain criteria that we need to fulfil,” Minister Wijesekera said. 
 
 [Data](articles/e06a7485.json)
 
+[Extended Data](ext_articles/e06a7485.ext.json)
+
 ---
 
 ### Strike
@@ -1461,6 +1483,8 @@ BOP1 Select best and categories within Bests maintained and fell, whilst Below B
 ...
 
 [Data](articles/f2a41ad5.json)
+
+[Extended Data](ext_articles/f2a41ad5.ext.json)
 
 ---
 
@@ -2176,6 +2200,8 @@ The account actively encourages “life skills, promoting compulsory savings, pr
 
 [Data](articles/cfd71fb6.json)
 
+[Extended Data](ext_articles/cfd71fb6.ext.json)
+
 ---
 
 ### Change on the identity card of Buddhist clergy?
@@ -2321,27 +2347,5 @@ Minister Wijesekera said the price cut went beyond the increase in October.
 [Data](articles/ece33b6d.json)
 
 [Extended Data](ext_articles/ece33b6d.ext.json)
-
----
-
-### Weather today
-
-*2024-03-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194334) · `si`
-
-Today, showers or thundershowers will occur in Ratnapura, Kalutara, Galle, and Matara districts, with dry weather elsewhere.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Ratnapura, Kalutara, Galle and Matara districts today (10).
-
-The department states that there is mainly dry weather in the rest of the island.
-
-The Department of Meteorology said that in some places in the Western, Sabaragamuwa and North Central provinces, in the Galle and Matara districts, the Department of Meteorology said.
-
-◼️
-
-[Data](articles/13c05b97.json)
-
-[Extended Data](ext_articles/13c05b97.ext.json)
 
 ---

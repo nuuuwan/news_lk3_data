@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 04:02:57**
+As of **2024-03-11 04:17:31**
 
 ## Newspaper Stats
 
-*Scraped **12,019** Articles*
+*Scraped **12,021** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 113
+colombotelegraphcom | 115
 bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,019 (100.0%) of 12,019 articles have been extended.
+12,019 (100.0%) of 12,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -439,6 +439,30 @@ The Colombo big school has urged the Muslim people to report on 0112432110, 0112
 [Data](articles/527f4065.json)
 
 [Extended Data](ext_articles/527f4065.ext.json)
+
+---
+
+### IMF, Sri Lanka’s Resource Curse & Privatization Of The Central Bank
+
+*2024-03-10 22:30:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/imf-sri-lankas-resource-curse-privatization-of-the-central-bank/) · `en`
+
+The Wealth of Nations and the Poverty of Theory: IMF, Sri Lanka’s Resource Curse, and Privatization of the Central Bank
+
+With the world distracted by kinetic wars in Ukraine and Gaza, a hybrid economic proxy war against the Global South and China’s Belt and Road Initiative (BRI), for global connectivity is unfolding at this time of new Cold War: Across Asia, Africa and South America. 56 Low and Middle Income Countries have been ensnared in Covid-19 Lockdown-induced Eurobond debt traps sprung by private creditors and International Sovereign Bonds (ISB), that charge predatory interest rates.
+
+...
+
+[Data](articles/07db74b6.json)
+
+---
+
+### Suspension Of Parate Execution Won’t Do; Establish Bad Bank To Resolve Issue Permanently: Dr. Anil Baddevithana
+
+*2024-03-10 22:10:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/suspension-of-parate-execution-wont-do-establish-bad-bank-to-resolve-issue-permanently-dr-anil-baddevithana/) · `en`
+
+...
+
+[Data](articles/f2bdad60.json)
 
 ---
 
@@ -2237,61 +2261,5 @@ The father, Dhanushka Wickramasinghe, suffered serious but not life-threatening 
 [Data](articles/b6029c87.json)
 
 [Extended Data](ext_articles/b6029c87.ext.json)
-
----
-
-### Another tragedy in Kalutara
-
-*2024-03-10 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194340) · `si`
-
-A woman's body was found on Kalutara Beach, suspected to have been in water for two days. The Kalutara Police are investigating.
-
-🟩
-
-The body of a woman was found mysteriously found in the Kalutara Beach.
-
-According to information received by the South, the South, the Kalutara South, was found yesterday, on the coast near the Kalu Ganga estuary last night.
-
-Police suspect that the woman's body was in water for two days.
-
-The body has been placed at the Kalutara Teaching Hospital morgue and the Kalutara Police are conducting further investigations.
-
-◼️
-
-[Data](articles/7f0eb247.json)
-
-[Extended Data](ext_articles/7f0eb247.ext.json)
-
----
-
-### Israeli settlement in Palestinian land
-
-*2024-03-10 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194339) · `si`
-
-Israeli settlements in Palestinian land, particularly in the West Bank, have significantly expanded, with 24,300 new houses built in October 2023, the highest number since 2017. The UN Human Rights Office in the West Bank has reported this, indicating Israel's intentions for the West Bank, including East Jerusalem. Violence has also increased, with Israeli raids following an attack on October 7, claimed by Israeli troops as a response to terrorists.
-
-🟩
-
-It is reported that the Israeli settlement in the Palestinian territory, which is centered on the western bank, has expanded in a record over the year.
-
-The UN Human Rights Office was revealed in the West Bank.
-
-The United Nations Human Rights Office on the West Bank has been established in the West Bank that 24,300 new houses have been constructed in the West Bank period for October 2023.
-
-It is the largest number of houses have been built in a year since 2017.
-
-The United Nations Human Rights Office of the West Bank says that Israel's aimed at the end of the west bank, including east Jerusalem, the United Nations Human Rights office on the West Bank said.
-
-Meanwhile, it is reported that violence on the West Bank has also increased.
-
-Israeli raids have been developed after the October 7 attack.
-
-However, Israeli troops say they are being terrorists in search of terrorists.
-
-◼️
-
-[Data](articles/bcc9a666.json)
-
-[Extended Data](ext_articles/bcc9a666.ext.json)
 
 ---

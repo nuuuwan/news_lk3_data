@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 14:50:46**
+As of **2024-03-10 15:02:56**
 
 ## Newspaper Stats
 
-*Scraped **11,940** Articles*
+*Scraped **11,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 623
 islandlk | 646
 adalk | 1,009
 adaderanalk | 1,449
-tamilmirrorlk | 1,454
+tamilmirrorlk | 1,456
 virakesarilk | 1,633
 dailymirrorlk | 1,827
-adaderanasinhalalk | 1,884
+adaderanasinhalalk | 1,885
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,940 (100.0%) of 11,940 articles have been extended.
+11,940 (100.0%) of 11,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### ඉන්දීය ධීවරයින් 23ක් මෙරට මුහුදු සීමාවේදී අත්අඩංගුවට
+
+*2024-03-10 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194346) · `si`
+
+නීතිවිරෝධී ලෙස මෙරට මුහුදු සීමාවේ ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයින් 22 දෙනෙකු නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පේදුරුතුඩුව සහ කන්කසන්තුරේ මුහුදු සීමාවේදී ඊයේ රාත්‍රී අදාළ ධීවරයින් අත්අඩංගුවට ගත් ඇති බව නාවික හමුදාව සඳහන් කළේය.
+
+එහිදී ඉන්දීය ට්‍රෝලර් යාත්‍රා තුනක් ද නාවික හමුදා භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් ධීවරයින් සහ යාත්‍රා කන්කසන්තුරේ ධීවර වරාය වෙත රැගෙන ඒමෙන් අනතුරුව ධීවර පරීක්ෂක කාර්යාලය වෙත භාරදුන් බව නාවික හමුදාව පැවසීය.
+
+◼️
+
+[Data](articles/61117353.json)
+
+---
 
 ### Sensitive story heard of Canada's murder
 
@@ -87,6 +105,20 @@ According to sources, the condition of the injured university student is serious
 [Data](articles/0a69f2fb.json)
 
 [Extended Data](ext_articles/0a69f2fb.ext.json)
+
+---
+
+### ரணிலுடன், கிரிக்கெட் பார்த்த சுமந்திரன்
+
+*2024-03-10 13:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-கிரிக்கெட்-பார்த்த-சுமந்திரன்/175-334449) · `ta`
+
+கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் நடைபெற்ற றோயல் மற்றும் தோமியன் கல்லூரிகளுக்கு இடையிலான மாபெரும் கிரிக்கெட் போட்டியை ஜனாதிபதி ரணில் விக்கிரமசிங்க நேரில் சென்று பார்வையிட்டுள்ளார்.
+
+அவருடன் சட்டமா அதிபர் சஞ்சய் ராஜரட்ணம் மற்றும் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் எம்.பி. ஆகியோரும் கலந்துக்கொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/0e39db99.json)
 
 ---
 
@@ -323,6 +355,26 @@ The police are conducting further investigations as the woman has been handed ov
 [Data](articles/88997984.json)
 
 [Extended Data](ext_articles/88997984.ext.json)
+
+---
+
+### கண்காட்சிக்கு கஞ்சாவுடன் சென்ற நயினாதீவுப் பெண்
+
+*2024-03-10 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கண்காட்சிக்கு-கஞ்சாவுடன்-சென்ற-நயினாதீவுப்-பெண்/71-334441) · `ta`
+
+யாழ்ப்பாணத்தில் நடைபெற்று வரும் இலங்கை விமானப் படையின் கண்காட்சிக்கு கேரள கஞ்சாவுடன் சென்ற பெண் ஒருவர் கைது செய்யப்பட்டார்.
+
+நயினாதீவைச் சேர்ந்த 26 வயதான பெண்ணே இரண்டு கிலோ கிராம் எடையுள்ள கஞ்சாவுடன் கைது செய்யப்பட்டார்.
+
+இலங்கை விமானப்படையின் 73வது வருட நிறைவை முன்னிட்டு “வான் சாகசம் – 2024” கண்காட்சி நிகழ்வுகள் யாழ்ப்பாணம் – முற்றவெளி மைதானத்தில் இன்று ஜந்தாவது நாளாகவும் இடம்பெற்றுவருகிறது.
+
+இதன்போது கண்காட்சி பிரதான நுழைவாயிலில் கண்காட்சிக்கு பொதியுடன் வந்த பெண்ணை சோதனையிட்டபோதே கஞ்சா இருந்தமை கண்டுபிடிக்கப்பட்டது.
+
+இந்நிலையில் குறித்த பெண் விமானப்படையினரால் யாழ்ப்பாணம் பொலிஸாரிடம் ஒப்படைக்கப்பட்டநிலையில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/d6635fa6.json)
 
 ---
 
@@ -2305,85 +2357,5 @@ Commenting on his X site, Mano MP added that former President Gotabhaya Rajapaks
 [Data](articles/d3d77c56.json)
 
 [Extended Data](ext_articles/d3d77c56.ext.json)
-
----
-
-### In the study, 410,000 female children have lost weight due to nutritional reduction
-
-*2024-03-09 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178307) · `ta`
-
-A study reveals Sri Lanka has 410,000 underweight female children aged 5-19 due to nutritional deficiency, placing it alongside India in terms of prevalence. This issue, highlighted by the British Medical Journal, threatens the health of schoolchildren and could lead to a generation of mentally retarded individuals if not addressed. The research, spanning 30 years and involving 1,900 researchers, suggests nutritional reduction is a significant global problem.
-
-🟩
-
-The medical and citizenship expert association of doctors said that 410,000 schoolgirls in Sri Lanka aged 5 to 19 are underweight due to nutritional deficiency.
-
-Dr. Samal Sanjeewa, president of the doctors' Medical and Citizenship Professional Association, said on Friday.
-
-According to a study of the British Medical Medical Journal, Sri Lanka is also on the list of countries where there is a lot of weight loss due to nutritional deficiency in the world.
-
-Women's rate is next to India in Sri Lanka.
-
-In the study conducted by about 1,900 researchers in 199 countries, the main criterion of the body (weight for height) is taken.
-
-The prediction is the body's mouse to predict how much the mass of one's body is appropriate.
-
-The research has been conducted for more than thirty years using data collected from 1990-2022.
-
-...
-
-[Data](articles/e6bbd285.json)
-
-[Extended Data](ext_articles/e6bbd285.ext.json)
-
----
-
-### Driver arrested for fleeing an accident in Anuradhapura
-
-*2024-03-09 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178311) · `ta`
-
-A driver was arrested for fleeing an accident in Anuradhapura, where three men died and two women are in treatment. The driver was speeding and fled the scene.
-
-🟩
-
-Police have arrested a driver of a Keb -vehicle driver who fled after an accident on Saturday (09) in Rambawewa, Anuradhapura.
-
-The man who was driving a Keb vehicle was speeding and fleeing from the road.
-
-Three men who were injured in the accident have died after being admitted to the hospital and two women are currently receiving treatment at the Anuradhapura Teaching Hospital.
-
-In this case, the driver who fled the accident has been arrested in the middle of the Anuradhapura and Jaffna area with two persons who accompanied him.
-
-◼️
-
-[Data](articles/6c112880.json)
-
-[Extended Data](ext_articles/6c112880.ext.json)
-
----
-
-### One of the heroes of a 17 year old girl in a tea estate
-
-*2024-03-09 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194320) · `si`
-
-A 17-year-old girl's body was found in a tea estate in Elpitiya, with her neck suspected of being cut. She lived in Talgahawatte, and a group of three-wheelers was forcibly taken in the area yesterday. No arrests yet.
-
-🟩
-
-The body was found at a tea land in Nanayakkara Mawatha, Elpitiya Police Division.
-
-The reporter stated that her neck was suspected of cutting down.
-
-The deceased has been a resident of Talgahawatte, Talgahawatte and Savings in the Karandeniya area.
-
-It is reported that a group of three-wheeler had been forcibly taken in the Thalgahawatta area in Thalgahawatta yesterday.
-
-The suspects have not been arrested yet further investigations.
-
-◼️
-
-[Data](articles/cba154e9.json)
-
-[Extended Data](ext_articles/cba154e9.ext.json)
 
 ---

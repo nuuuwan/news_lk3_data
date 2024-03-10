@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 08:33:21**
+As of **2024-03-10 08:51:07**
 
 ## Newspaper Stats
 
-*Scraped **11,903** Articles*
+*Scraped **11,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 617
 economynextcom | 622
 islandlk | 646
 adalk | 1,001
-adaderanalk | 1,446
-tamilmirrorlk | 1,448
-virakesarilk | 1,632
+adaderanalk | 1,447
+tamilmirrorlk | 1,449
+virakesarilk | 1,633
 dailymirrorlk | 1,820
 adaderanasinhalalk | 1,875
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,899 (100.0%) of 11,903 articles have been extended.
+11,903 (100.0%) of 11,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Community members hold vigil for Sri Lankan victims of Ottawa mass stabbing
+
+*2024-03-10 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97847/community-members-hold-vigil-for-sri-lankan-victims-of-ottawa-mass-stabbing) · `en`
+
+OTTAWA — Grieving Ottawa-area residents and members of the local Sri Lankan community tearfully offered flowers, gifts and prayers in tribute to a slain family on Saturday as they gathered for a vigil in honour of the victims of a crime described as one of the worst mass killings in the city’s recent history.
+
+Mourners gathered under rainy skies in Palmadeo Park in Barrhaven, the suburb where a young mother, her four children and a family friend all died on Wednesday night. A 19-year-old Sri Lankan national who was living with the victims at the time is facing murder charges in their deaths.
+
+Ottawa Mayor Mark Sutcliffe, Police Chief Eric Stubbs and the Sri Lankan High Commissioner were among the dozens of people who attended the sombre gathering, which included a presentation of flowers and prayers.
+
+“Those in misery, be free from misery,” said Bhante Suneetha, a resident monk at Hilda Jayewardenaramaya Buddhist Monastery where the family worshipped.
+
+...
+
+[Data](articles/fa84e247.json)
+
+---
 
 ### Stop arresting fresh medical graduates. Arrest quack doctors: Dr. Bellana
 
@@ -45,6 +63,8 @@ He told the Daily Mirror that quack doctors are unqualified, unregistered medica
 ...
 
 [Data](articles/0f855ec8.json)
+
+[Extended Data](ext_articles/0f855ec8.ext.json)
 
 ---
 
@@ -210,19 +230,41 @@ The Department of Meteorology said that in some places in the Western, Sabaragam
 
 ---
 
-### அந்நியச் செலாவணி வருமானம் அதிகரிப்பு
+### நாளை முதல் அரசாங்கம் நெல் கொள்வனவு
+
+*2024-03-10 03:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-அரசாங்கம்-நெல்-கொள்வனவு/175-334435) · `ta`
+
+நாளை முதல் அரசாங்கம் நெல் கொள்வனவை ஆரம்பிக்கவுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+எனினும், அரசாங்கத்திடம் இருந்து இதுவரை உதவிகள் கிடைக்கப்பெறவில்லை எனவும் எதிர்வரும் வாரத்திலேனும் தமக்கான உதவிகள் கிடைக்கப்பெறுமென நம்புவதாகவும் விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+அந்த உதவிகள் கிடைக்கப்பெறாத பட்சத்திலும், அமைச்சின் நிதியினூடாக நெல் கொள்வனவு நடவடிக்கை ஆரம்பிக்கப்படுமென அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/92ca1ac7.json)
+
+---
+
+### Increase in forex income
 
 *2024-03-10 03:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்நியச்-செலாவணி-வருமானம்-அதிகரிப்பு/175-334434) · `ta`
 
-வெளிநாட்டுப் பணியாளர்கள் மூலம் நாட்டிற்கு கடந்த பெப்ரவரி மாதத்தில் 476 மில்லியன் அமெரிக்க டொலர் அந்நியச் செலாவணி கிடைக்கப்பெற்றுள்ளதாக தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு தெரிவித்துள்ளது.
+The Labor and Foreign Employment Ministry reported a $476 million increase in forex income from foreign workers in February, a 14% rise year-on-year, attributed to projects like electronic vehicle imports, multi-purpose loan schemes, and pension system introduction.
 
-கடந்த வருடம் பெப்ரவரி மாதத்துடன் ஒப்பிடும் போது, இந்த வருடம் 14 வீத அந்நியச் செலாவணி அதிகரித்துள்ளதாக அமைச்சு குறிப்பிட்டுள்ளது.
+🟩
 
-இலத்திரனியல் வாகன இறக்குமதிக்கு அனுமதி வழங்கியமை, பல்நோக்கு கடன் திட்டத்தை அமுல்படுத்தியமை, ஓய்வூதிய முறையை அறிமுகப்படுத்தியமை உள்ளிட்ட திட்டங்கள் காரணமாக இந்த அதிகரிப்பு ஏற்பட்டுள்ளதாக சுட்டிக்காட்டப்பட்டுள்ளது. (a)
+The Labor and Foreign Employment Ministry said that the country was received by US $ 476 million in February by foreign workers.
+
+The ministry said that 14 percent of foreign exchange increased this year compared to February last year.
+
+It has been pointed out that the increase is due to projects, including the permitting of electronic vehicle imports, the implementation of the multi -purpose loan scheme and the introduction of the pension system.. (A)
 
 ◼️
 
 [Data](articles/c64bfc6c.json)
+
+[Extended Data](ext_articles/c64bfc6c.ext.json)
 
 ---
 
@@ -482,6 +524,24 @@ The Moragahahena Police have arrested them in the Millewatta area on the occasio
 
 ---
 
+### வெடுக்குநாறி மலையில் திட்டமிட்ட பௌத்த ஆக்கிரமிப்பு முன்னெடுப்பு - சிறிதரன், கஜேந்திரன் சுட்டிக்காட்டு
+
+*2024-03-09 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178314) · `ta`
+
+வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தினை பௌத்த அடையாளமாக மாற்ற வேண்டுமென்ற திட்டமிட்ட ஆக்கிரமிப்பு முன்னெடுக்கப்படுவதாக இலங்கைத் தமிழரசுக்கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் மற்றும் தமிழ்த் தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் ஆகியோர் சுட்டிக்காட்டியுள்ளனர்.
+
+வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் ஏற்பாடு செய்யப்பட்ட சிவராத்திரி பூஜைவழிபாடுகள் தடுத்து நிறுத்தப்பட்டு, பொதுமக்கள் எதேச்சதிகாரமாக வெளியேற்றப்பட்டமை தொடர்பில் கருத்துவெளியிடுகையிலேயே அவர்கள் மேற்கண்டவாறு தெரிவித்தனர்.
+
+வெடுக்குநாறிமலை ஆலயம் இந்திய அமைதிப்படைகள் இலங்கையில் இருந்தபோதும், விடுதலைப்புலிகள் தமது கட்டுப்பாட்டுக்குள் வைத்திருந்தபோதும் பூஜைவழிபாடுகள் இடம்பெற்று வந்தவொரு ஆலயமாகும்.
+
+அதுமட்டுமன்றி, இரண்டாயிரம் ஆண்டுகளுக்கு முன்னதாக வரலாறும் இதற்கு காணப்படுகின்றது. அவ்வாறான நிலையில் எமது மக்கள் மரபு ரீதியாக வழிபட்டு வந்த இந்த ஆலயத்தில் சிவராத்திரியை முன்னிட்டு முன்னெடுத்த விசேட வழிபாடுகளை பொலிஸார் காட்டுமிராண்டித்தனமாக செயற்பட்டு தடுத்து நிறுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/5ccaa7eb.json)
+
+---
+
 ### Imported 40 million eggs to Sri Lanka
 
 *2024-03-09 20:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-40-மில்லியன்-முட்டைகள்-இறக்குமதி/175-334430) · `ta`
@@ -654,21 +714,27 @@ Sri Lanka change the existing electricity law to allow non-competitive tendering
 
 ---
 
-### සිංහයෝ හමුවේ කොටියෝ පසු බසිති
+### Following the Tigers in the face of lions
 
 *2024-03-09 19:24:24* · [`adalk`](https://www.ada.lk/sports/සිංහයෝ-හමුවේ-කොටියෝ-පසු-බසිති/9-408504) · `si`
 
-සත්කාරක බංග්ලාදේශ කණ්ඩායම ලකුණු 28කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති තෙවැනි විස්සයි20 තරගයද ජයගත් ශ්‍රී ලංකා කණ්ඩායම තරග තුනකින් සමන්විත විස්සයි0 තරගාවලියද 2-1ක් ලෙස ජයගත්තේය.
+Sri Lanka won the T20 match against Bangladesh by 28 runs, with Kusal Mendis' 86 runs off 55 balls and 181 runs in the tournament earning him the man of the tournament title.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 174/7ක් රැස්කිරිමට සමත්විය පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශයට රැස් කළ හැකිවූයේ ලකුණු 146ක් පමණි.
+🟩
 
-මෙම තරගයේදී ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක ණුවන් තුෂාර කඩුලු ත්‍රිත්වයක්ද සමගින් ලකුණු 20ට කඩුලු පහක් දවා ගැනීමට සමත්විය. ඒ අනුව ඔහු තරගයේ වීරයා ලෙසද සම්මාන ලැබීය.
+Sri Lanka won the third T20 match between the two and the two countries, defeating the Host Bangladesh by 28 runs.
 
-ශ්‍රී ලංකාව වෙනුවෙන් විශිෂ්ඨ ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් පන්දු 55කදී ලකුණු 86ක් රැස් කිරීමට සමත්වූයේ හතරේ පහර හයක් හා හයේ පහර හයක් සමගිනි. තරගාවලියේදී ඔහු ලකුණු 181 රැස් කළ අතර ඒ අනුව ඔහු තරගාවලියේ වීරයා ලෙසින්ද සම්මාන ලැබීය.
+Batting first Sri Lanka scored 174/7 of the match, only 146 runs in the innings bungland.
+
+Sri Lanka fast bowler bowled out for 20 wickets for 20 runs. Accordingly, he was also awarded man of the match.
+
+Kusal Mendis, who played a great inn innings for Sri Lanka, scored 86 runs off 55 balls with six fours and six sixes. He scored 181 runs in the tournament, and he was adjudged the man of the tournament.
 
 ◼️
 
 [Data](articles/a86bb659.json)
+
+[Extended Data](ext_articles/a86bb659.ext.json)
 
 ---
 
@@ -2251,73 +2317,5 @@ A project to convert 100 three wheels to electricity powered in a month is curre
 [Data](articles/2991e350.json)
 
 [Extended Data](ext_articles/2991e350.ext.json)
-
----
-
-### Kota's stupidity: Champagne
-
-*2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க/175-334409) · `ta`
-
-Parliamentarian Patali Champika Ranawaka denies involvement in national and international maneuvers, while former President Gotabhaya Rajapaksa criticizes the Rajapaksas' economic policies and dismisses writing about the past as useless.
-
-🟩
-
-Parliamentarian Patali Champika Ranawaka has said that none of the national and international maneuvers have been carried out by his stupid administration.
-
-He was speaking to the media after attending an event in Nugegoda Nawala area.
-
-Former President Gotabhaya Rajapakse has ruled that the economic assassination. So writing a book about the past is useless. He said the people of the country did not take care of the Rajapaksas.
-
-Gotabhaya Rajapaksa's claim that the presidency is expelled from the conspiracy of national and internationalism is laughable.
-
-◼️
-
-[Data](articles/30475b6b.json)
-
-[Extended Data](ext_articles/30475b6b.ext.json)
-
----
-
-### Kota's foolishness: the description of the champagne
-
-*2024-03-09 08:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-முட்டாள்தனம்-சம்பிக்க-விளக்கம்/175-334409) · `ta`
-
-Parliamentarian Patali Champika Ranawaka denies involvement in national and international maneuvers, while former President Gotabhaya Rajapaksa criticizes the Rajapaksas' economic policies and dismisses writing about the past as useless.
-
-🟩
-
-Parliamentarian Patali Champika Ranawaka has said that none of the national and international maneuvers have been carried out by his stupid administration.
-
-He was speaking to the media after attending an event in Nugegoda Nawala area.
-
-Former President Gotabhaya Rajapakse has ruled that the economic assassination. So writing a book about the past is useless. He said the people of the country did not take care of the Rajapaksas.
-
-Gotabhaya Rajapaksa's claim that the presidency is expelled from the conspiracy of national and internationalism is laughable.
-
-◼️
-
-[Data](articles/a23baa43.json)
-
-[Extended Data](ext_articles/a23baa43.ext.json)
-
----
-
-### Hit and run vehicle kills three youths in Anuradhapura
-
-*2024-03-09 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hit-and-run-vehicle-kills-three-youths-in-Anuradhapura/108-278538) · `en`
-
-Anuradhapura, March 9 (Daily Mirror) - Three male youths were killed and two other women injured after they were run over by a speeding cab at Rambewa in Anuradhapura early this morning, Police said.
-
-They said the victims were returning home after a musical show when they were knocked down by a cab travelling from Rambewa towards Anuradhapura.
-
-The cab driver fled after the accident and the injured were admitted to the Rambewa and Anuradhapura hospitals.
-
-Three male youths aged between 16 and 21 succumbed to their injuries while two females are receiving treatment at the Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/d770f441.json)
-
-[Extended Data](ext_articles/d770f441.ext.json)
 
 ---

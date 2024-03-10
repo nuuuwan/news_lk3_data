@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 16:02:51**
+As of **2024-03-10 16:17:42**
 
 ## Newspaper Stats
 
-*Scraped **11,947** Articles*
+*Scraped **11,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,61 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,009
-adaderanalk | 1,449
+adaderanalk | 1,450
 tamilmirrorlk | 1,458
 virakesarilk | 1,633
 dailymirrorlk | 1,827
-adaderanasinhalalk | 1,887
+adaderanasinhalalk | 1,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,946 (100.0%) of 11,947 articles have been extended.
+11,947 (100.0%) of 11,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### ”ஆட்சியின் அனைத்து அம்சங்களிலும் அவர் தோல்வியடைந்தார்”
+### දුම්රිය මාර්ගයකට ගසක් කඩාවැටෙයි
+
+*2024-03-10 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194349) · `si`
+
+නාවලපිටිය සහ ඉඟුරු ඔය දුම්රිය ස්ථාන අතර මාර්ගයට ගසක් කඩා වැටීමෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවිය.
+
+මේ වනවිට දුම්රිය සේවකයින් විසින් ගස ඉවත්කිරීමේ කටයුතුවල නිරතව සිටින බවට වාර්තාවෙයි.
+
+ඒ අනුව මේ හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයේ සුළු ප්‍රමාදයක් සිදුවන බවය.
+
+◼️
+
+[Data](articles/b3c968c0.json)
+
+---
+
+### “He failed in all aspects of the regime"
 
 *2024-03-10 15:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்சியின்-அனைத்து-அம்சங்களிலும்-அவர்-தோல்வியடைந்தார்/175-334454) · `ta`
 
-தம்மை பதவி நீக்கம் செய்வதற்கான சதித்திட்டம் குறித்து முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச வெளியிட்ட புத்தகம், "ஓடிப்போன ஜனாதிபதி" அப்பாவித்தனத்தை சித்தரிக்கும் சமீபத்திய முயற்சி என்று தேசிய ஐக்கிய முன்னணி தெரிவித்துள்ளது.
+The National United Front criticizes former President Gotabhaya Rajapakse's book on his sacking, accusing him of failing in all aspects of his regime, including his egalitarian rule, challenging power, and handling the COVID-19 pandemic. They highlight his unwillingness to acknowledge racism and his dismissal of expert advice.
 
-ஏழாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி இலங்கை மக்களால் பதவி நீக்கம் செய்யப்பட்டதாக தேசிய ஐக்கிய முன்னணி விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-"அவரது சமத்துவமான ஆட்சியின் பற்றாக்குறை, சவாலற்ற அதிகாரத்திற்கான அவரது நாட்டம் மற்றும் அவரது பொறுப்புக்கூறல், பொறுப்பு மற்றும் ஒரு இனவாதியாக சித்தரிக்கப்படுவதற்கான விருப்பமின்மை ஆகியவற்றை மக்கள் முன்னிலைப்படுத்தினர்.
+The National United Front has said that the book published by former President Gotabhaya Rajapakse on the conspiracy to sack himself is a recent attempt to depict the "run -run president" innocent.
 
-முழு இலங்கையாலும் போற்றப்படும் ஜனநாயக இலட்சியங்களின் இலட்சியங்களை அவர் முற்றாக மறந்துவிட்டதாகத் தோன்றியது. கோட்டாபய மக்களால் மட்டும் வெளியேற்றப்படவில்லை - கொவிட் 19 காரணமாக இறந்த முஸ்லிம்களின் தகனத்திற்கு காரணமின்றி அவர் தனது பெயரைக் கொடுத்தபோது மதத் தலையீடு செயல்பட்டது, ”என்று அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+The National United Front said in a statement that the seventh executive president was sacked by the people of Sri Lanka.
+
+“The people have highlighted the lack of his egalitarian rule, his pursuit of challenging power and his liability, responsibility and unwillingness to be portrayed as a racist.
+
+He seemed to have completely forgotten the ambitions of the democratic ambitions of the entire Sri Lanka.Religious intervention was not excluded by the Gotabhaya people - the religious intervention was acting when he gave his name without the cause of the burnt of the Muslims who died due to the burnt of the death of the Kovit 19, ”the statement further stated.
+
+“Instead of listening to the speech of real experts, he decided that he was specialist on various important issues.
 
 ...
 
 [Data](articles/442ef2cf.json)
+
+[Extended Data](ext_articles/442ef2cf.ext.json)
 
 ---
 
@@ -127,6 +151,24 @@ Ada Derana has made a final decision on this matter with the party and will take
 [Data](articles/db8d63fb.json)
 
 [Extended Data](ext_articles/db8d63fb.ext.json)
+
+---
+
+### New Secured Transactions Registry established to help expand financing for SMEs
+
+*2024-03-10 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97851/new-secured-transactions-registry-established-to-help-expand-financing-for-smes) · `en`
+
+A new Secured Transactions Registry (STR) has been established to facilitate the use of moveable assets as collateral for loans for Small and Medium Enterprises (SMEs) in Sri Lanka while ensuring financial stability and fostering economic growth in the country.
+
+The STR was established by the Central Bank of Sri Lanka (CBSL), together with the Finance Ministry and the Credit Information Bureau (CRIB) and with technical assistance from the International Finance Corporation (IFC).
+
+Accordingly, the new Secured Transactions Registry Act aims to address legal and operational challenges in the existing law.
+
+SMEs comprise more than 75% of enterprises while accounting for 45% of employment and 52% of the country’s GDP. Yet, they cite access to finance as one of the key obstacles, hindering their growth potential.
+
+...
+
+[Data](articles/3ba77d4b.json)
 
 ---
 
@@ -2329,51 +2371,5 @@ However, the Environmental Agreement Assessment Report has failed to offer clear
 [Data](articles/b3774aac.json)
 
 [Extended Data](ext_articles/b3774aac.ext.json)
-
----
-
-### Son -in -law kills father -in -law
-
-*2024-03-09 15:00:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமனாரை-கொன்றார்-மருமகன்/175-334423) · `ta`
-
-Son-in-law kills father-in-law in family dispute. 81-year-old man from Mayilkulam murdered. Son-in-law, after murder, consumes pills, admitted to Chilaw Hospital for treatment.
-
-🟩
-
-Chilaw headquarters police said that the son -in -law was assaulted by a sharp weapon due to a family dispute.The incident took place on Friday (08).
-
-The 81 -year -old man from Mayilkulam has been murdered.
-
-Police said the son -in -law had murdered his father -in -law as the family dispute was over.
-
-Police said the son -in -law, who murdered his father -in -law, later consumed some prescription pills and that he was admitted to the Chilaw Hospital for immediate treatment.
-
-The suspect, who was admitted to the Chilaw Hospital, is being treated in the intensive care unit there, police said.
-
-◼️
-
-[Data](articles/4a90d860.json)
-
-[Extended Data](ext_articles/4a90d860.ext.json)
-
----
-
-### Sri Lanka’s Dialog Finance rated at ‘AA(lka)’; outlook stable: Fitch
-
-*2024-03-09 15:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-dialog-finance-rated-at-aalka-outlook-stable-fitch-153855/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it had affirmed Dialog Finance PLC’s (DF) National Long-Term Rating of ‘AA(lka)’. The outlook is stable.
-
-“We believe DF has a limited role in Dialog’s core business because of its evolving fintech business model, as well as its modest size and negligible financial contribution to the group,” the rating agency said.
-
-Dialog Finance was acquired in 2017 to support Dialog’s aspiration to expand into digital financial services – a key strategic growth area for the parent – “but delays in obtaining necessary regulatory approvals, together with a weak economic environment, disrupted the launch of its fintech-based offerings in a meaningful manner.”
-
-Fitch Ratings – Colombo – 07 Mar 2024: Fitch Ratings has affirmed Dialog Finance PLC’s (DF) National Long-Term Rating of ‘AA(lka)’. The Outlook is Stable.
-
-...
-
-[Data](articles/2369c758.json)
-
-[Extended Data](ext_articles/2369c758.ext.json)
 
 ---

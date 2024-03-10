@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 01:17:38**
+As of **2024-03-11 01:33:11**
 
 ## Newspaper Stats
 
-*Scraped **12,010** Articles*
+*Scraped **12,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
-virakesarilk | 1,642
+virakesarilk | 1,643
 dailymirrorlk | 1,840
 adaderanasinhalalk | 1,898
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,010 (100.0%) of 12,010 articles have been extended.
+12,010 (100.0%) of 12,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### சக்வல (பிரபஞ்சம்) வேலைத்திட்டத்தை நிறுத்த முயற்சிப்பது சிறைச்சாலைகளை திறப்பதற்கு சமம் -  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச
+
+*2024-03-11 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178386) · `ta`
+
+ஸ்மார்ட் கல்வியை வலுப்படுத்தும் பிரபஞ்சம் ஸ்மார்ட் வகுப்பறை வழங்கும் வேலைத்திட்டத்தையும், பிரபஞ்சம் பாடசாலை பஸ் வழங்கும் வேலைத்திட்டத்தையும் பொறாமை காழ்புணர்வு காரணமாக நிறுத்த முயல்பவர்கள் முயற்சித்து வருகின்றனர். இந்த பிரபஞ்சம் திட்டத்தை தடை செய்வது என்பது நாட்டின் பாடசாலை முறையை சீர்குலைப்பதான செயல் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+பாடசாலைகள் மேம்படும்போது சிறைச்சாலைகள் மூடப்படும் என்று கூறப்படுவதால், இந்நாட்டில் உள்ள அனைத்துப் பாடசாலைகளிலும் கல்வி கற்கும் 41 இலட்சம் மாணவர் தலைமுறை இதன் மூலம் பயன்பெற்று வலுவடைந்து வருகிறது.எனவே இவ்வாறான வேலைத்திட்டங்களுக்கு குழிபறிக்கக் கூடாது. இந்த வேலைத்திட்டங்களை தடைசெய்யும் எண்ணம் இருந்தால் அது பாடசாலையை முடக்கி மேலும் பல சிறைச்சாலைகளை உருவாக்கும் செயலாக கருத வேண்டியுள்ளாத எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/d783073d.json)
+
+---
 
 ### Eastern Province Governor Senthil Thondaman arrangement in Trincomalee
 
@@ -2293,29 +2307,5 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa and Nor
 [Data](articles/a5d33e8a.json)
 
 [Extended Data](ext_articles/a5d33e8a.ext.json)
-
----
-
-### Final works will take place at the discretion of the family
-
-*2024-03-10 07:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தவர்களின்-விருப்பப்படி-இறுதிக்-கிரியைகள்-நடைபெறும்/175-334438) · `ta`
-
-The Sri Lankan High Commission in Ottawa is in contact with Canadian officials regarding the death of six Sri Lankans, including a mother, four children, and a family in Barrhaven, Ottawa on March 7, 2024. The victims' husband and father are hospitalized, and a 19-year-old Sri Lankan has been arrested. The funeral will be held at the families' discretion. The Ministry of Foreign Affairs is taking steps to support the families and is aware of the crime site, with a special awareness planned by the city governor on March 9, 2024.
-
-🟩
-
-The Ministry of Foreign Affairs said that the Sri Lankan High Commission is in contact with the Canadian officials of the Six Sri Lankans in Ottawa.
-
-The Ministry of Foreign Affairs in Ottawa said that the Sri Lankan High Commission in Ottawa had been informed by the Ministry of Foreign Affairs of the Sri Lankan High Commission in Ottawa about the death of six Sri Lankans, including mother, four children and a family in Barrhaven, Ottawa on March 7, 2024.
-
-"The husband of the victims and the father of the children have been injured and hospitalized where she is currently being treated.. A 19 -year -old Sri Lankan has arrested a law enforcement authority in connection with the murder. He is currently in police custody. ”
-
-Following the release of the bodies after the autopsy, the funeral will be held in a timely manner at the will of the families of the deceased.
-
-...
-
-[Data](articles/b18f9965.json)
-
-[Extended Data](ext_articles/b18f9965.ext.json)
 
 ---

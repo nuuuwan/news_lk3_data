@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 15:50:53**
+As of **2024-03-10 16:02:51**
 
 ## Newspaper Stats
 
-*Scraped **11,946** Articles*
+*Scraped **11,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 623
 islandlk | 646
 adalk | 1,009
 adaderanalk | 1,449
-tamilmirrorlk | 1,457
+tamilmirrorlk | 1,458
 virakesarilk | 1,633
 dailymirrorlk | 1,827
 adaderanasinhalalk | 1,887
@@ -26,31 +26,55 @@ adaderanasinhalalk | 1,887
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,945 (100.0%) of 11,946 articles have been extended.
+11,946 (100.0%) of 11,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### රඹෑව බිහිසුණු අනතුරේ කැබ් රියදුරු ඇතුළු තිදෙනෙක් රිමාන්ඩ්
+### ”ஆட்சியின் அனைத்து அம்சங்களிலும் அவர் தோல்வியடைந்தார்”
+
+*2024-03-10 15:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்சியின்-அனைத்து-அம்சங்களிலும்-அவர்-தோல்வியடைந்தார்/175-334454) · `ta`
+
+தம்மை பதவி நீக்கம் செய்வதற்கான சதித்திட்டம் குறித்து முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச வெளியிட்ட புத்தகம், "ஓடிப்போன ஜனாதிபதி" அப்பாவித்தனத்தை சித்தரிக்கும் சமீபத்திய முயற்சி என்று தேசிய ஐக்கிய முன்னணி தெரிவித்துள்ளது.
+
+ஏழாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி இலங்கை மக்களால் பதவி நீக்கம் செய்யப்பட்டதாக தேசிய ஐக்கிய முன்னணி விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+"அவரது சமத்துவமான ஆட்சியின் பற்றாக்குறை, சவாலற்ற அதிகாரத்திற்கான அவரது நாட்டம் மற்றும் அவரது பொறுப்புக்கூறல், பொறுப்பு மற்றும் ஒரு இனவாதியாக சித்தரிக்கப்படுவதற்கான விருப்பமின்மை ஆகியவற்றை மக்கள் முன்னிலைப்படுத்தினர்.
+
+முழு இலங்கையாலும் போற்றப்படும் ஜனநாயக இலட்சியங்களின் இலட்சியங்களை அவர் முற்றாக மறந்துவிட்டதாகத் தோன்றியது. கோட்டாபய மக்களால் மட்டும் வெளியேற்றப்படவில்லை - கொவிட் 19 காரணமாக இறந்த முஸ்லிம்களின் தகனத்திற்கு காரணமின்றி அவர் தனது பெயரைக் கொடுத்தபோது மதத் தலையீடு செயல்பட்டது, ”என்று அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/442ef2cf.json)
+
+---
+
+### Three persons including the cab driver of the Rambewa terrible accident remanded
 
 *2024-03-10 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194348) · `si`
 
-රඹෑව ප්‍රදේශයේදී සිදුවූ බිහිසුණු රිය අනතුර සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් කැබ් රථ රියදුරු සහ එහි ගමන්කළ සෙසු සැකකරුවන් දෙදෙනෙකු එළඹෙන 20 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+In the Rambewa accident, three, including a cab driver, were remanded. Two suspects, arrested on suspicion, were also detained until the 20th. Mihintale police arrested them this morning and brought them to court. The accident resulted in the deaths of three, aged 19, 19, and 21, and two girls were injured and admitted to Anuradhapura Hospital. The suspects fled but were later arrested by Mihintale Police.
 
-මිහින්තලේ පොලීසිය සැකකරුවන් අද උදෑසන අත්අඩංගුවට ගෙන අනුරාධපුර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+🟩
 
-ඊයේ (09) අළුයම රඹෑව ප්‍රදේශයේ දී සිදුවූ එම අනතුරින් වයස අවුරුදු 16, 19 සහ 21 හැවිරිදි වියේ පසුවූ තිදෙනෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්විය.
+Two suspects arrested on suspicion in the Rambewa area have been remanded until the 20th.
 
-සැකකරුවන් පැදවූ කැබ් රථය මාර්ගයේ ගමන් කරමින් සිටි පුද්ගලන් පස්දෙනෙකුගේ ගැටීමෙන් එම අනතුර සිදුව තිබුණි.
+Mihintale police were arrested this morning and produced before the Anuradhapura Magistrate's Court.
 
-අනතුරින් තුවාල ලැබූ ගැහැණු ළමුන් දෙදෙනෙකු ප්‍රතිකාර සඳහා අනුරාධපුර රෝහලට ඇතුළත් කර තිබුණි.
+Three years old, 19, 19 and 21, three years old and 21 years old died yesterday morning.
 
-අනතුරින් පසුව සැකකරුවන් එම ස්ථානයෙන් පළාගොස් තිබූ අතර මිහින්තලය පොලීසිය සිදුකළ විමර්ශනයකින් අනතුරුව සැකකරුවන් අත්අඩංගුවට ගත්තේය.
+The accident had occurred when the suspects were traveling along the cab.
+
+Two girls who were injured in the accident were admitted to Anuradhapura Hospital.
+
+The suspects had fled the area after the accident and the suspects arrested after investigations carried out by the Mihintale Police.
 
 ◼️
 
 [Data](articles/e3cb43cb.json)
+
+[Extended Data](ext_articles/e3cb43cb.ext.json)
 
 ---
 
@@ -2351,31 +2375,5 @@ Fitch Ratings – Colombo – 07 Mar 2024: Fitch Ratings has affirmed Dialog Fin
 [Data](articles/2369c758.json)
 
 [Extended Data](ext_articles/2369c758.ext.json)
-
----
-
-### Details emerge on victims in Canada mass killing; father is recovering
-
-*2024-03-09 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Details-emerge-on-victims-in-Canada-mass-killing-father-is-recovering/155-278547) · `en`
-
-March 09, (BBC) -  The Sri Lankan father who survived the mass murder of his family in Canada said he returned home from work on Wednesday to find his wife and four young children had been killed.
-
-Dhanushka Wickramasinghe, 34, was also attacked but managed to subdue the suspect.
-
-He is now recovering in hospital from a slash to the eye and one of his hands.
-
-A 19-year-old Sri Lankan student who was living with the family was charged with the deaths
-
-The new details of the night the Wickramasinghe family was killed emerged from a series of media interviews with Bhante Suneetha, the resident monk at a local Buddhist monastery in Ottawa that the family attended.
-
-Mr Suneetha, who visited the father in hospital on Thursday, said he is in "great shock" over what happened.
-
-Police in Ottawa discovered the slain family at their townhouse in the Barrhaven suburb after responding to emergency calls placed at around 22:52 local time (03:52 GMT) on Wednesday.
-
-...
-
-[Data](articles/0043f312.json)
-
-[Extended Data](ext_articles/0043f312.ext.json)
 
 ---

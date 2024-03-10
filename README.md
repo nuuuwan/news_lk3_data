@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 04:17:31**
+As of **2024-03-11 04:33:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,019 (100.0%) of 12,021 articles have been extended.
+12,021 (100.0%) of 12,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -454,6 +454,8 @@ With the world distracted by kinetic wars in Ukraine and Gaza, a hybrid economic
 
 [Data](articles/07db74b6.json)
 
+[Extended Data](ext_articles/07db74b6.ext.json)
+
 ---
 
 ### Suspension Of Parate Execution Won’t Do; Establish Bad Bank To Resolve Issue Permanently: Dr. Anil Baddevithana
@@ -463,6 +465,8 @@ With the world distracted by kinetic wars in Ukraine and Gaza, a hybrid economic
 ...
 
 [Data](articles/f2bdad60.json)
+
+[Extended Data](ext_articles/f2bdad60.ext.json)
 
 ---
 

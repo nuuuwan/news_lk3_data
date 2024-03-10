@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 12:50:34**
+As of **2024-03-10 13:03:02**
 
 ## Newspaper Stats
 
-*Scraped **11,930** Articles*
+*Scraped **11,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,008
-adaderanalk | 1,448
+adaderanalk | 1,449
 tamilmirrorlk | 1,453
 virakesarilk | 1,633
-dailymirrorlk | 1,823
+dailymirrorlk | 1,825
 adaderanasinhalalk | 1,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,928 (100.0%) of 11,930 articles have been extended.
+11,930 (100.0%) of 11,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### IORA Day 2024 celebrations get underway at Galle Face Green
+
+*2024-03-10 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97850/iora-day-2024-celebrations-get-underway-at-galle-face-green) · `en`
+
+President Ranil Wickremesinghe participated in the 2024 Indian Ocean Rim Association (IORA) Day celebration at the Galle Face Green a short while ago.
+
+The commemoration was held under the chairmanship of President Wickremesinghe, with the theme for IORA Day 2024 being “Ensuring a Sustainable Indian Ocean for Future Generations”, according to the President’s Media Division (PMD).
+
+The Head of State interacted with schoolchildren by taking part in different activities, and explored the stalls set up by IORA member states and other government institutions.
+
+IORA Day is annually celebrated on 07 March, with 23 member stated and 11 dialogue partners, with this year’s theme set to focus on educating children on the importance of ocean conservation and sustainable practices to preserve the ocean.
+
+An art completion at the national level was amongst the various ocean-awareness related activities planned for schoolchildren during today’s celebrations.
+
+◼️
+
+[Data](articles/92159c78.json)
+
+---
+
+### Sri Lanka reignite timed-out row after T20 series win over Bangladesh
+
+*2024-03-10 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reignite-timed-out-row-after-T20-series-win-over-Bangladesh/108-278556) · `en`
+
+Sylhet, Mar. 10 (AFP) - Sri Lanka have reignited the row over the 2023 World Cup timed-out dismissal of Angelo Mathews after celebrating their Twenty20 series win in Bangladesh by pointing to their wrists.
+
+Bangladesh skipper Najmul Hossain Shanto told Sri Lanka's players to put the November controversy behind them and urged them to focus on the rest of the tour, which includes three one-day internationals and two Tests.
+
+"They haven't moved on from the timed-out incident," Shanto said of the visitors' celebration following their T20 series win in Sylhet on Saturday.
+
+"They should stay in the present," Shanto added, according to ESPNcricinfo, pointing out again that the timed-out dismissal at the one-day World Cup was within the rules.
+
+Bangladesh defeated Sri Lanka by three wickets in a World Cup group-stage game in New Delhi.
+
+...
+
+[Data](articles/9b6d02c9.json)
+
+---
 
 ### At least 19 dead and 7 missing as landslide and flash floods hit Indonesia’s Sumatra island
 
@@ -176,43 +216,57 @@ Later he had taken first aid to foreigners to land.
 
 ---
 
-### කළුතර ස්ථාන දෙකක  කාන්තා මළසිරුරු දෙකක් පාවේ
+### Two women bodies of two in Kalutara
 
 *2024-03-10 11:47:36* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-ස්ථාන-දෙකක--කාන්තා-මළසිරුරු-දෙකක්-පාවේ/11-408511) · `si`
 
-කළුතර පොලිස් වසම් දෙකක ඊයේ 09දා, ස්ථාන දෙකක පාවෙමින් තිබූ කාන්තා  මළසිරුරු  දෙකක්  හමුවූ බව කළුතර උසස් පොලිස් නිළධාරීයෙක් පැවසීය .
+In Kalutara, two bodies were found floating in the sea near the Floor and Kalutara Navy. One was identified as a woman from a mental elders' home in Gelpala. Both are undergoing postmortem at Kalutara Teaching Hospital. Inspectors Ruwan Wijesinghe and Ruwayannam are investigating.
 
-ගල්පාත වතුර වලක සහ කළුතර නාවික හමුදා කදවුර ඉදිරිපිට මුහුදේ පාවෙමින් තිබියදී මළ සිරුරු සොයාගෙන ඇතැයි පොලිසිය සදහන් කරයි.
+🟩
 
-නාවික හමුදා කදවුර ඉදිරිපිට මුහුදේ පාවෙමින් තිබූ මළසිරුර මෙතෙක් හඳුනාගෙන නොමැති බවත්, ගල්පාත ප්‍රදේශයේ හමුව ඇති මළ සිරුර  මානසික වැඩිහිටි නිවාසයේ රැදී සිටි කාන්තාවකගේ බවට හඳුනාගෙන ඇති බවත් සදහන් වේ.
+A Kalutara high police officer said two bodies floating in two police divisions in Kalutara yesterday.
 
-මෘත දේහ දෙකම පශ්චාත් මරණ පරීක්ෂණ සඳහා කළුතර ශික්ෂණ රෝහල වෙත රැගෙන ගොස් තිබේ.
+Police have found dead bodies while floating in the sea in front of the Floor and Kalutara Navy.
 
-කළුතර දකුණ මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ   සහ තෙබුවන ස්ථානාධිපති පොලිස් පරීක්ෂක ආර් රාජරත්නම් යන මහත්වරුන්ගේ උපදෙස් පරිදි  වැඩිදුර  පරීක්ෂණ පවත්වති.
+The body floating in the sea has not been identified as the body of the sea has been identified and that the body found in the Gelpala area has been identified as a woman who has been identified in the mental elders' home.
+
+Both bodies have been taken to the Kalutara Teaching Hospital for postmortem examination.
+
+Kalutara South Headquarters Inspector Ruwan Wijesinghe and the Tebuwana OIC Inspector Ruwayannam are conducting further investigations.
 
 ◼️
 
 [Data](articles/e77f90dd.json)
 
+[Extended Data](ext_articles/e77f90dd.ext.json)
+
 ---
 
-### 2023දී ලඳුරු රෝගීන් 1550ක් - 2020න් පසුව වැඩිම අගයයි
+### 1550 per patients in 2023 - the highest value after 2020
 
 *2024-03-10 11:38:10* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලඳුරු-රෝගීන්-1550ක්---2020න්-පසුව-වැඩිම-අගයයි/11-408510) · `si`
 
-2023 වර්ෂයේ දී ලාදුරු රෝගීන් 1550 දෙනෙකු මෙරටින් හඳුනාගෙන ඇතැයි සෞඛ්‍ය අමාත්‍යාංශයේ ජාතික ලාදුරු මර්දන ව්‍යාපාරය සඳහන් කරයි.
+In 2023, Sri Lanka reported 1550 leprosy cases, the highest since 2020. Dr. Prasad Ransewei, National Latistics Director, revealed this, responding to the Information Commission No. 12 of 2016. The total number of leprosy patients identified in 2023 is 259, with 168 in Gampaha District, 116 in Kurunegala District, and 80 elsewhere. The disease's spread is not increasing, and the campaign revealed this information was from the patients themselves.
 
-ශ්‍රී ලංකාවේ ලාදුරු රෝගීන්ගේ තත්ත්වය පිළිබඳව 2016 අංක 12 දරණ තොරතුරු දැන ගැනීමේ අයිතිවාසිකම් පනත අනුව කරන ලද තොරතුරු ඉල්ලීම කට අනුව ජාතික ලාදුරු මර්දන ව්‍යාපාරයේ වැඩ බලන අධ්‍යක්ෂ වෛද්‍ය ප්‍රසාද් රණවිර මහතා මේ බව හෙළිකොට තිබේ.
+🟩
 
-ඒ අනුව 2023 වර්ෂයේදී ලාදුරු රෝගීන් වැඩි වශයෙන්ම හඳුනාගෙන ඇත්තේ කොළඹ දිස්ත්‍රික්කයෙන් වන අතර එම ප්‍රමාණය 259 ක් වෙයි.
+1550 leprosy cases of leprosy have been identified in 2023 in the country.
 
-මීට අමතරව ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 168ක්ද, කළුතර දිස්ත්‍රික්කයෙන් රෝගීන් 116ක්ද, කුරුණෑගල දිස්ත්‍රික්කයෙන් රෝගීන් 80ක්ද හඳුනා ගෙන තිබේ.
+Activities of the National Latistics Director Dr. Prasad Ransewei has revealed this as per the request of the Information Commission No. 12 of 2016 on the status of leprosy patients in Sri Lanka.
 
-මීට අමතරව 2019 වර්ෂයේදී ලාදුරු රෝගීන් 1660ක්ද 2020 වර්ෂයේදී ලාදුරු රෝගීන් 1213ක්ද 2021 වර්ෂයේදී ලාදුරු රෝගීන් ඇ1026 ක්ද, 2022 වර්ෂයේදී ලාදුරු රෝගයෙන් 1401ක්ද, 2023 වර්ෂයේදී ලාදුරු රෝගීන් 1550 ක්ද මෙලෙස හඳුනා ගෙන ඇති බව ලාදුරු රෝග මර්ධන ව්‍යාපාරය තොරතුරු හෙළි කරයි
+Accordingly, the leprosy patients have been identified in the year 2023 and is 259.
 
-...
+In addition, 168 patients were identified in Gampaha District and 116 patients and 80 patients from the Kurunegala District.
+
+In addition, 1660 leprosy patients were reported in the year 2019 and 1526 leprosy 2026, 1550 leprosy, 1550 leprosy, 2023, and 150 leprosy in 2023.
+
+The leprosy is not an increase in the spread of the disease and the decorative campaign has revealed that this information was revealed by the decorative patients.
+
+◼️
 
 [Data](articles/bd00189f.json)
+
+[Extended Data](ext_articles/bd00189f.ext.json)
 
 ---
 
@@ -393,6 +447,28 @@ However, Israeli troops say they are being terrorists in search of terrorists.
 [Data](articles/bcc9a666.json)
 
 [Extended Data](ext_articles/bcc9a666.ext.json)
+
+---
+
+### Risk of increase in rabies if free-roaming dog population is not controlled: Health authorities
+
+*2024-03-10 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Risk-of-increase-in-rabies-if-free-roaming-dog-population-is-not-controlled-Health-authorities/108-278553) · `en`
+
+Health authorities warn that there is a risk of an increase in rabies due to the abscence of a proper programme to control the free-roaming dog population in the country.
+
+According to their latest statistics, it has been revealed that more than six million stray dogs are roaming freely around the country, and health authorities pointed out that the programme to perform sterilisation surgery for these dogs has also been crippled.
+
+A large number of dogs are seen roaming freely around the country, including in Colombo and in public places.
+
+Health authorities point out that this situation has now become a serious health and social problem.
+
+The health authorities also point out that although various programmes have been implemented in the past with the aim of controlling rabies and the dog population, the lack of proper implementation of such programmes has led to this situation.
+
+A total of 16 people have died after being bitten by stray dogs last year.
+
+...
+
+[Data](articles/0e05568a.json)
 
 ---
 
@@ -2293,81 +2369,5 @@ As a consequence, commuters travelling along the coastal line should anticipate 
 [Data](articles/9f002bea.json)
 
 [Extended Data](ext_articles/9f002bea.ext.json)
-
----
-
-### Australia’s Great Barrier Reef hit by mass coral bleaching
-
-*2024-03-09 13:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97837/australias-great-barrier-reef-hit-by-mass-coral-bleaching) · `en`
-
-Australia’s Great Barrier Reef has been hit by a major coral bleaching event likely caused by heat stress built up over the summer at the biologically diverse site, a government agency has said.
-
-The Great Barrier Reef Marine Park Authority (GBRMPA), which monitors the reef’s health, said on Friday that the damage was “widespread” in at least two-thirds of the areas surveyed at the UNESCO World Heritage Site.
-
-The reef, a living organism, stretches some 2,300km (1,429 miles) off the northeastern coast of Australia and is considered one of the most species-rich habitats on earth. It is home to hundreds of coral, 1,500 fish species and 4,000 different molluscs.
-
-Coral reefs are an important part of marine life as they house more than a quarter of all sea life on Earth, provide protection for coastal communities, and are natural carbon sinks. Climate change is the biggest threat to their survival because of their sensitivity to heat.
-
-...
-
-[Data](articles/7e3dcff0.json)
-
-[Extended Data](ext_articles/7e3dcff0.ext.json)
-
----
-
-### A mother-in-law reveal about the murderer of Canada
-
-*2024-03-09 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194315) · `si`
-
-A 19-year-old Sri Lankan, Frank de Zoysa, was arrested for the murder of six family members in Canada. His family, including his mother Ausha de Zoysa, was shocked by the incident. Frank had been living in Canada for two years, initially with his aunt, then with Dhanushka Wickremasinghe, and later moved to Berigan Drive. His sudden change in behavior and disconnection from family and friends raised suspicions.
-
-🟩
-
-Six Sri Lankans who have been violently killed in the house of Canada have been violently assassinated in the house of Sri Lanka.
-
-Six Sri Lankans, including five members, who were residing in the area of Bapthewan, Canada, were assaulted in their home.
-
-While the 19-year-old Frank de Zoysa, a 19-year-old man who was studying in Canada, was arrested in the house.
-
-The young man has been accused of murder and attempt to kill.
-
-Frank de Zoysa's family arrested for the worst massacre in the history of the Ottawa.
-
-Frank de Zoysa, Ausha de Zoysa, was told to the Canadian media.
-
-"It was revealed to me, that family was a good family, and I could not take a good family, I could still sleep,"
-
-She also said that his brother's eldest son Frank de Zoysa arrived in Canada two years ago and was a quiet man and a very good man.
-
-When Frank de Zoysa came to Canada, his aunt, the first month, had resided with her home in her house with Anusha de Zoysa.
-
-...
-
-[Data](articles/18ed4b61.json)
-
-[Extended Data](ext_articles/18ed4b61.ext.json)
-
----
-
-### Temperature will increase further today
-
-*2024-03-09 12:20:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-வெப்பநிலை-மேலும்-அதிகரிக்கும்/175-334418) · `ta`
-
-Temperature increases today. Meteorology warns of highs in Northwest, South, and North Central Provinces. Stay hydrated, seek shade, and limit outdoor activities.
-
-🟩
-
-The Department of Meteorology has said that he should pay attention to the temperature in many parts of the country today (09).
-
-Accordingly, the department has stated that the human body is perceived in the Northwest, South and North Central Provinces in Moneragala, Ratnapura, Mannar, Vavuniya Mullaitivu and Trincomalee districts.
-
-The Department has announced that he should follow health advice, including adequate water, relaxing in shadow areas as possible, and controlling severe external functions.. Remble
-
-◼️
-
-[Data](articles/5804476f.json)
-
-[Extended Data](ext_articles/5804476f.ext.json)
 
 ---

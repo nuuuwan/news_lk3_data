@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 18:19:27**
+As of **2024-03-10 18:33:28**
 
 ## Newspaper Stats
 
-*Scraped **11,968** Articles*
+*Scraped **11,971** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 112
+colombotelegraphcom | 113
 bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
@@ -16,21 +16,61 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,015
-adaderanalk | 1,454
+adaderanalk | 1,455
 tamilmirrorlk | 1,460
 virakesarilk | 1,634
 dailymirrorlk | 1,828
-adaderanasinhalalk | 1,893
+adaderanasinhalalk | 1,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,964 (100.0%) of 11,968 articles have been extended.
+11,968 (100.0%) of 11,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Central Mail Exchange employees to strike over broken elevator
+
+*2024-03-10 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97856/central-mail-exchange-employees-to-strike-over-broken-elevator) · `en`
+
+The employees of the Central Mail Exchange in Colombo have decided to launch a 24-hour token strike from midnight today (10 March).
+
+Speaking at a media briefing held today, the United Postal Trade Unions Front (UPTUF) stated that the strike is being launched in view of the failure to repair the elevator at the building, which has been inoperable for almost one year.
+
+They explained that nearly 40% of the female employees, including pregnant women, face difficulties due to this, adding that the Central Mail Exchange is an eight-storied building, therefore making it a rather difficult task to move around mail bags.
+
+Thus, the UPTUF warned that if the government fails to resolve the matter within a month, the trade union action will continue.
+
+◼️
+
+[Data](articles/5f04967d.json)
+
+---
+
+### කහතුඩුවේ අමුතු පාටියට ගිය 20-22 අතර 27ක් අත්අඩංගුවට
+
+*2024-03-10 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194355) · `si`
+
+මත්ද්‍රව්‍ය භාවිත කරමින් පැවති සාදයකට එක්වූ පුද්ගලයින් 19ක් සහ තරුණියන් 08ක් සැකපිට පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+කහතුඩුව පොලීසියට ලද තොරතුරකට අනුව කළ වැටලීමකදී මාගම්මන ප්‍රදේශයේ නිවසක පැවති එම සාදයට එක්ව සිටි මෙම පිරිස පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී සැකකරුවන් තිදෙනෙකු සන්තකයේ තිබී හෑෂ් මත්ද්‍රව්‍යද තවත් සැකකරුවන් තිදෙනෙකු සන්තකයේ තිබී මත් පෙති ද පොලීසිය සොයාගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇති සියලුම සැකකරුවන් සහ සැකකාරියන් වයස වුරුදු 20 ත් 22ත් යන වයස්වල පසුවන බව පොලීසිය පවසයි.
+
+වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ එම සැකකරුවන් සහ සැකකාරියන් පොළොන්නරුව, දෙහිඅත්තකණ්ඩිය, ගාල්ල, මහනුවර සහ දියතලාව යන ප්‍රදේශවල පදිංචිකරුවන් බවටය.
+
+සැකකරුවන් පිරිස අධිකරණයට ඉදිරිපත් කර ඇති අතර කහතුඩුව පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/105e46e9.json)
+
+---
 
 ### Navy arrests 22 Indian fishermen, three fishing trawlers
 
@@ -48,55 +88,77 @@ The operation resulted in the seizure of three Indian poaching trawlers and the 
 
 [Data](articles/2b37657c.json)
 
+[Extended Data](ext_articles/2b37657c.ext.json)
+
 ---
 
-### අධිකරණ නියෝගයට පිටුපෑ පූජකයෙකු ඇතුළු 8ක් අත්අඩංගුවට
+### 8 including a priest arrested for abuse of court order
 
 *2024-03-10 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194354) · `si`
 
-පුරාවිද්‍යාභූමියකට අනවසරයෙන් ඇතුළු වීම සම්බන්ධයෙන් පූජකයෙකු ඇතුළු 8ක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police arrested 8, including a priest, for unauthorized access to Vedictankunaramalai archaeological site.
 
-නෙදුන්කර්නි පොලීසිය විසින් මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 24,29,30,34,37 සහ 54 හැවිරිදි වියේ පසුවන පිරිසකි.
+🟩
 
-එම පිරිස නෙදුන්කර්නි, පුල්යන්කුලම, කනගරායන්කුලම සහ මාමඩුව ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+Police have arrested eight persons including a priest in connection with unauthorized innroad.
 
-අධිකරණය විසින් තහනම් නියෝගයක් නිකුත් කර තිබියදී මෙම පිරිස විසින් වෙඩික්කුනාරිමලෙයි පුරාවිද්‍යා භූමියට ඇතුල්වී එහි ගිනි දල්වා පූජාවන් සිදුකිරීම සම්බන්ධයෙන් ඔවුන්ට චෝදනා එල්ලවී තිබේ.
+The Nedunkerni police arrested 24,29,30,34,37 and 54 years old.
+
+They are residents of Nedunkerni, Puliyankulama, Kanagarayankulam and Mamber areas, police said.
+
+They have been instructed by the people to the archaeological site of the Vedictankunaramalai in the archaeological site of the court.
 
 ◼️
 
 [Data](articles/b58ad5c2.json)
 
+[Extended Data](ext_articles/b58ad5c2.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலையில் வழிபாட்டுரிமையை மீறிய செயலானது உலகிற்கு எமது நிலையினை அரசாங்கம் வெளிப்படுத்தியிருக்கிறது - யாழ். பல்கலைக்கழக இந்து மன்றம்
+### The government has revealed our position to the world. University Hindu
 
 *2024-03-10 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178376) · `ta`
 
-வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் அடிப்படை வழிபாட்டுரிமையை மீறிய செயலானது உலகிற்கு எமது நிலையினை அரசாங்கம் வெளிப்படுத்தி இருக்கிறது என யாழ்ப்பாணப் பல்கலைக்கழக இந்து மன்றம் தெரிவித்துள்ளது.
+The Jaffna Government claims the government's actions violate basic worship at the Adilingeswarar Temple, sparking controversy. On Maha Shivaratri, Tamil Saivites were arrested and detained, with police entering the temple and refusing to provide water. This has raised concerns about religious harmony and the government's stance on religious practices.
 
-யாழ்ப்பாணப் பல்கலைக்கழக இந்து மன்றம், வெடுக்குநாறி மலை ஆதி இலிங்கேசுவரர்; கோவில் மகா சிவராத்திரி தின பொலிஸ் அராஜகங்களை கண்டித்து வெளியிட்ட அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மேலும் அந்த அறிக்கையில், ஆதியும் அந்தமும் இல்லாத அரும்பெரும் ஜோதியான சிவபெருமானுக்குரிய விரதங்களுள் தலையாய விரதமே மகா சிவராத்திரி, வருடத்தில் ஒருமுறை வரும் இவ் விரதமானது ராத்திரி வேளை நான்கு சாம பூசைகளை மேற்கொண்டு இரவு முழுவதும் சிவனடியார்கள் கண்விழித்து சிவபெருமானை பூஜித்து சிவசிந்தையில் வழிபாடு மேற்கொள்வது மரபாகும்.
+The Government of Jaffna has said that the government has revealed our position to the world that violates basic worship at the Adilingeswarar Temple at the Attukkanarimalai.
+
+Jaffna University Hindu ForumThis was stated in a statement issued by the temple of Maha Shivaratri Day police anarchy.
+
+In the statement, Maha Sivaratri is the head of the fasting of Lord Shiva, who is not the first and the first, and the fasting of the fasting of the night is the tradition of worshiping Lord Shiva and worshiping Lord Shiva.
+
+On the eve of the Mahasivarathri day, the Tamil Saivites worshiped the Vedukkunnarimalai Adi Ilinkeswarar Temple Maha Shivaratri daily worship of the temple.
 
 ...
 
 [Data](articles/dd89568c.json)
 
+[Extended Data](ext_articles/dd89568c.ext.json)
+
 ---
 
-### ඕන කෙනෙකුට ඕන විදියට සමරන්න පුළුවන් - මෙන්ඩිස්
+### Anyone can celebrately - Mendis
 
 *2024-03-10 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194353) · `si`
 
-බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවති ඊයේ තරගයෙන් අනතුරුව මාධ්‍ය හමුවේදී ශ්‍රී ලංකා එක්දින නායක කුසල් මෙන්ඩිස් දැක්වූ අදහස් වෙත මේ වනවිට බොහෝදෙනෙකුගේ අවධානය යොමුව තිබේ.
+Sri Lanka's leader Kusal Mendis defended the celebration of the Sri Lankan cricket team's victory, saying it's a matter of personal choice and everyone was happy.
 
-එහි දැක්වෙන්නේ ජයග්‍රහණයේ සතුට ශ්‍රී ලංකා කණ්ඩායම Time Out ක්‍රමයට සැමරීම පිළිබඳව බංග්ලාදේශ මාධ්‍ය ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක කුසල් මෙන්ඩිස්ගෙන් ප්‍රශ්නකිරීම හමුවේ ඔහු ලබාදුන් පිළිතුරයි.
+🟩
 
-"මම හිතන්නේ කෙනෙක් ඒක කළා. මම දන්නේ නෑ ඒකට හේතුව, ඕන කෙනෙකුට තමන්ට ඕන විදියට සමරන්න පුළුවන්. ඒ වෙලාවේ හැමෝම සතුටු වුණා. ඒක නිසා ක්‍රීඩකයින් හැමෝම එය සමරුවා."
+At a press conference against Bangladesh yesterday, Sri Lanka's leader Kusal Mendis has focused on the comments of Sri Lanka.
+
+The Bangladesh Media, Sri Lanka's Sri Lankan cricketer has been questioned by Bangladesh media to celebrate the Sri Lankan team in the winning the Sri Lankan team.
+
+"I think someone did that. I don't know why, anybody can celebrate the way they want. Everyone was happy at the time. That's all the players celebrated it. "
 
 ◼️
 
 [Data](articles/3b3c6573.json)
+
+[Extended Data](ext_articles/3b3c6573.ext.json)
 
 ---
 
@@ -739,6 +801,18 @@ He appeared to have completely forgotten the ideals of democratic ideals so cher
 [Data](articles/c6f4480b.json)
 
 [Extended Data](ext_articles/c6f4480b.ext.json)
+
+---
+
+### Ancient Values Influence Behaviour Centuries Later
+
+*2024-03-10 12:50:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ancient-values-influence-behaviour-centuries-later/) · `en`
+
+From centuries, Chinese people held that the values of their ancestors should be respected – harmony, courtesy, wisdom, loyalty and filial piety. Esteem for ancient values has a hold on Chinese society even today. One interesting matter is protection of wildlife, nature reserves and a willingness to share space. How sad that in this country (SL) people have little regard for pristine wildernesses, forests and wildlife; we have little respect for the message of Arahat Mahinda. The Yellow River (Huang Ho) carries massive quantities of muddy brown silt that fertilises thousands of acres and accounts for its name (yellow). This cradle of Chinese civilisation, known as the Sorrow of China, because frequent flooding, gives rise to much devastation, but the contradiction has long been stoically accepted.
+
+...
+
+[Data](articles/92bd7e18.json)
 
 ---
 
@@ -2277,69 +2351,5 @@ The Colombo Fort Railway Station is the main hub of Sri Lanka Railways, where th
 [Data](articles/3a4c6400.json)
 
 [Extended Data](ext_articles/3a4c6400.ext.json)
-
----
-
-### Adventure in Jaffna by jumping from 6000 feet high
-
-*2024-03-09 18:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/6000-அடி-உயரத்தில்-இருந்து-குதித்து-யாழ்ப்பாணத்தில்-சாகசம்/71-334428) · `ta`
-
-The Great Exhibition in Jaffna, celebrating the 73rd anniversary of the Sri Lanka Air Force, features a 6000 feet jump, free entry for students in uniform, and a Rs 100 fee for others. It supports 73 schools, welfare programs, and a tree-planting initiative, sponsored by the Northern Province Governor's Secretariat, under the guidance of Air Marshal Udayani Rajapaksa.
-
-🟩
-
-The Great Exhibition at the Jaffna courtyard commenced on Saturday (09) at the 73rd anniversary of the Sri Lanka Air Force.
-
-The exhibition will be held from 10 am to 10 pm until the 10th.
-
-Students coming to school uniform can visit this event completely free. Others can visit this event for a fee of Rs 100.
-
-Arrangements have been made for the construction of the 73 schools in the Northern Province, the welfare of the backward students who are educated in the school, and to provide them with 73 thousand school books.. It has also launched a project of planting 73 thousand saplings across the country.
-
-The Sri Lanka Air Force has received the full sponsorship of the Northern Province through the Northern Province Governor's Secretariat.
-
-It is noteworthy that the exhibition was launched through the surveillance and guidelines of the Sri Lanka Air Force Commander Air Marsral Udayani Rajapaksa.
-
-◼️
-
-[Data](articles/8816a6ed.json)
-
-[Extended Data](ext_articles/8816a6ed.ext.json)
-
----
-
-### Sri Lanka thrash Bangladesh by 28 runs to clinch T20I series
-
-*2024-03-09 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97841/sri-lanka-thrash-bangladesh-by-28-runs-to-clinch-t20i-series) · `en`
-
-A sensational hat-trick by pace bowler Nuwan Thushara rattled Bangladesh top order as the hosts were handed a defeat of 28 runs by Sri Lanka in the third and decisive match of the three-match T20 series in Sylhet International Cricket Stadium on Saturday.
-
-Chasing a target of 175, Bangladesh found themselves reeling at 24 for 5 inside fourth over, courtesy of a fiery hat-trick by pacer Nuwan Thushara who was only playing his eight T20 match. If not for a spectacular rearguard charge by Rishad Hossain and Taskin Ahmed, Bangladesh’s defeat was bound to be a massive one.
-
-Thushara sent shockwaves through the Bangladeshi camp as he rattled the stumps of both Najmul Hossain Shanto and Tawhid Hridoy in fourth over and his first. He then dismissed the seasoned Mahmudullah plumb in front of the wicket, leaving Bangladesh in complete disarray, and picking up his hat-trick as the fifth Sri Lankan bowler in the T20 format.
-
-...
-
-[Data](articles/ef034cc2.json)
-
-[Extended Data](ext_articles/ef034cc2.ext.json)
-
----
-
-### Funeral rites according to wishes of victims’ families: Foreign Ministry
-
-*2024-03-09 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Funeral-rites-according-to-wishes-of-victims-families-Foreign-Ministry/108-278551) · `en`
-
-Colombo, March 9 (Daily Mirror)- The Ministry of Foreign Affairs said it is in communication with the family members in Sri Lanka of the six Sri Lankans who were murdered in Ottawa, Canada and is facilitating their requests with the relevant Canadian authorities through the Sri Lankan High Commission while respecting their privacy.
-
-The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commission in Ottawa of the tragic death of six Sri Lankans, including a mother, four children, and a family acquaintance, in a residence in Barrhaven, Ottawa on March 7, 2024, the Ministry said in a statement.
-
-"The husband and father of the victims were found injured at the scene, and was admitted to the hospital, where he is currently undergoing treatment. The law enforcement authority has arrested a 19-year-old Sri Lankan in connection with the homicide, and he is currently in police custody," the statement added.
-
-...
-
-[Data](articles/4a0788a9.json)
-
-[Extended Data](ext_articles/4a0788a9.ext.json)
 
 ---

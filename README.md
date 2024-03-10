@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 22:17:58**
+As of **2024-03-10 22:33:28**
 
 ## Newspaper Stats
 
-*Scraped **11,994** Articles*
+*Scraped **11,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,458
 tamilmirrorlk | 1,462
 virakesarilk | 1,638
 dailymirrorlk | 1,837
-adaderanasinhalalk | 1,897
+adaderanasinhalalk | 1,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,994 (100.0%) of 11,994 articles have been extended.
+11,994 (100.0%) of 11,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### පාතාලේ 43කට ජාත්‍යන්තර රතු නිවේදන
+
+*2024-03-10 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194359) · `si`
+
+අපරාධ කල්ලි සාමාජිකයින් 43 දෙනෙකුට එරෙහිව මේ වනවිට ජාත්‍යන්තර රතු නිවේදන ලබාගෙන ඇති බව පොලිසිය පවසයි.
+
+කොළඹ අද පැවැති මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේ තවත් හදුනාගත් අපරාධ කල්ලි සාමාජිකයින් කිහිපදෙනෙකුට එරෙහිව ජාත්‍යන්තර රතු නිවේදන ලබාගැනීමට නියමිත බවය.
+
+ඩුබායිහිදී අත්අඩංගුවට පත්ව සිටින අපරාධ කල්ලි සාමාජිකයෙකු වන "මන්නා රමේෂ්" සම්බන්ධයෙන් ගනු ලබන ඉදිරි ක්‍රියාමාර්ග පිළිබඳව ඩුබායි රාජ්‍ය සමඟ සාකච්ඡා කිරීමට බලාපොරොත්තු වන බවද නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/020c0517.json)
+
+---
 
 ### Pope Francis’ ‘white flag’ comment is met by criticism from Ukraine and its allies
 
@@ -2331,23 +2349,5 @@ He also warned that people with computer use and those who already have eye dise
 [Data](articles/80ac3c62.json)
 
 [Extended Data](ext_articles/80ac3c62.ext.json)
-
----
-
-### 2024-03-09 (Saturday)
-
-### Phoenix Industries re-launches extensive PVC range under Super PVC brand
-
-*2024-03-09 23:24:00* · [`islandlk`](http://island.lk/phoenix-industries-re-launches-extensive-pvc-range-under-super-pvc-brand/) · `en`
-
-Sri Lankan household products company Phoenix Industries hosted an evening event at their Makandura factory to re-launch their wide-ranging PVC product line under the new Super PVC brand. The enhanced Super PVC range includes UPVC and CPVC pipes & fittings, FAB bends, solvent cements, cable management tubes and hardware items used for construction and home upgrades. Phoenix Industries has elevated the range’s branding to better represent the exceptional strength, durability and performance that Super PVC offers contractors, project managers and general households.
-
-With the re-brand, Phoenix aims to further build its leadership position nationwide as the top supplier of PVC solutions through both retail partnerships and Phoenix’s own showrooms. The event featured the reveal of the bold, modern Super PVC logo that will now feature prominently on UPVC, CPVC, fittings, cements and the full collection of PVC products.
-
-...
-
-[Data](articles/bcef68ae.json)
-
-[Extended Data](ext_articles/bcef68ae.ext.json)
 
 ---

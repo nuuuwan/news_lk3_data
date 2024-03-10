@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 21:02:57**
+As of **2024-03-10 21:17:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,982 (99.9%) of 11,988 articles have been extended.
+11,988 (100.0%) of 11,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Further investigations are being carried out by the Kahatuduwa Police.
 
 [Data](articles/db4038c2.json)
 
+[Extended Data](ext_articles/db4038c2.ext.json)
+
 ---
 
 ### Sajith listening to outsiders and ignoring SJB members: Ranil
@@ -64,19 +66,27 @@ President Wickremesinghe told a UNP rally in Kuliyapitiya that Sajith Premadasa 
 
 [Data](articles/c8655003.json)
 
+[Extended Data](ext_articles/c8655003.ext.json)
+
 ---
 
-### பெண்ணை தீ வைத்து எரித்த நபர் கைது
+### Arrested person who burned a woman
 
 *2024-03-10 20:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-தீ-வைத்து-எரித்த-நபர்-கைது/175-334467) · `ta`
 
-2022 ஆம் ஆண்டு பெப்ரவரி மாதம் 25ஆம் திகதி, எகொடஉயன பொலிஸ் பிரிவிற்குட்பட்ட வீடொன்றில் நுழைந்து பெண்ணொருவர் படுகொலை செய்து தீ வைத்து எரிக்கப்பட்ட சம்பவம் தொடர்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+A 42-year-old man from Moratuwa-Katukurunda was arrested for murdering and burning a woman in a house in Ekoda Police Division on Feb 25, 2022.
 
-மொரட்டுவை - கட்டுகுருந்த பிரதேசத்தை சேர்ந்த 42 வயதான ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+On February 25, 2022, the suspect has been arrested in connection with the murder of a woman and burnt in a house belonging to the Ekoda Police Division.
+
+A 42 -year -old man from Moratuwa - Katukurunda area has been arrested.
 
 ◼️
 
 [Data](articles/b14cfa5f.json)
+
+[Extended Data](ext_articles/b14cfa5f.ext.json)
 
 ---
 
@@ -95,6 +105,8 @@ A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a
 ...
 
 [Data](articles/1c7eb760.json)
+
+[Extended Data](ext_articles/1c7eb760.ext.json)
 
 ---
 
@@ -211,6 +223,8 @@ The first public rally of the United National Party (UNP) was held in Kuliyapiti
 ◼️
 
 [Data](articles/43155bf1.json)
+
+[Extended Data](ext_articles/43155bf1.ext.json)
 
 ---
 
@@ -997,6 +1011,8 @@ The KC's Overseas Education Fair, held today from 10:30 am to 5:00 pm at The Gal
 ◼️
 
 [Data](articles/419daf16.json)
+
+[Extended Data](ext_articles/419daf16.ext.json)
 
 ---
 

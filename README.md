@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 17:03:05**
+As of **2024-03-10 17:17:49**
 
 ## Newspaper Stats
 
-*Scraped **11,955** Articles*
+*Scraped **11,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,012
+adalk | 1,013
 adaderanalk | 1,452
 tamilmirrorlk | 1,458
 virakesarilk | 1,633
 dailymirrorlk | 1,827
-adaderanasinhalalk | 1,889
+adaderanasinhalalk | 1,890
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,955 (100.0%) of 11,955 articles have been extended.
+11,955 (100.0%) of 11,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### කාලගුණයෙන් ජනතාවට අනතුරු ඇඟවීමක්
+
+*2024-03-10 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194351) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ප්‍රදේශ කිහිපයක් සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව ඇම්බර් වර්ණයෙන් යුතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+
+හෙට (11) දිනය සඳහා අදාළ වන පරිදි කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ විසින් මෙම නිවේදනය නිකුත් කර ඇත.
+
+එහි දැක්වෙන්නේ හෙට දිනයේ බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් තත්ත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+
+◼️
+
+[Data](articles/614c8df0.json)
+
+---
 
 ### Driver involved in hit-and-run that killed three youths remanded
 
@@ -60,7 +76,7 @@ Eight persons have been arrested for acting against a judgment delivered by the 
 
 Accordingly, 8 persons, including the chief priest of the Hindu temple at the archaeological site in question were arrested for allegedly conducting a religious ritual for Mahashivarathri on 08 March, despite a court order being issued previously rejecting a request to do so.
 
-On 06 March, the Vavuniya Magistrate’s Court delivered a judgment stating that permission cannot be granted to conduct a special religious ceremony, despite a group of people, including the arrested chief priest, having filed a motion requesting to do so for a special Mahashivarathri ritual.
+On 04 March, the Vavuniya Magistrate’s Court delivered a judgment stating that permission cannot be granted to conduct a special religious ceremony, despite a group of people, including the arrested chief priest, having filed a motion requesting to do so for a special Mahashivarathri ritual.
 
 ...
 
@@ -117,6 +133,24 @@ Police have seriously injured in the abdomen abdomen by the suspects with the tw
 [Data](articles/76253897.json)
 
 [Extended Data](ext_articles/76253897.ext.json)
+
+---
+
+### පාසල් නිල ඇඳුම්වලින් සියයට 80ක් චීන ප්‍රධානයක් සියයට 20ක් චීනයෙන් මිලදී ගනියි
+
+*2024-03-10 16:03:18* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-නිල-ඇඳුම්වලින්-සියයට-80ක්-චීන-ප්‍රධානයක්-සියයට-20ක්-චීනයෙන්-මිලදී-ගනියි/11-408515) · `si`
+
+මෙම වර්ෂයේ නොමිලේ පාසල් නිල ඇඳුම් ලබා දීමේ වැඩ සටහන යටතේ එම නිල ඇඳුම්වලින් සියයට 80 ක් චීන මහජන සමූහාන්ඩුවේ ප්‍රදානයක් ලෙස ලැබෙන බවත් ඉතිරි සියයට 20 එම ප්‍රදානය සැපයෙන චීන සැපයුම්කරුවන්ගෙන් මිලදී ගන්නා බවත් අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+රජයේ සහ රජයේ ආධාර ලබන පාසල්වල ශිෂ්‍ය ශිෂ්‍යයාවන් මෙන්ම  රජය අනුමත පිරිවෙන්වල ශිෂ්‍ය භික්ෂූන් වහන්සේලා ,  සීලමාතාවන් , සහ ගිහි සිසුන් මෙම නොමිලේ නිල ඇඳුම් හිමිකම ලබයි.
+
+මේ යටතේ ශිෂ්‍ය වර්ග හා ඉගෙනුම ලබන ශ්‍රේණි අනුව රෙදි කට්ටල වර්ග 35 ක් නොමිලේ ලබා දෙන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+මෙම නිල ඇඳුම් කඩිනමින් සියලු සිසුන් වෙත ලබාදීම කොට්ටාස,  කලාප , හා පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් සහ විදුහල්පතිවරුන්   සතු වගකීමක් බවත් එසේ නොකරන නිලධාරීන්ට එරෙහිව ව්නය පියවර ගන්නා බවත් අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් වසන්තා පෙරේරා මහත්මිය එම පාර්ශවයන් වෙත ලිඛිතව දන්වා ඇත.
+
+◼️
+
+[Data](articles/602e33f4.json)
 
 ---
 
@@ -2295,61 +2329,5 @@ In a report to the Human Rights Council, Türk said that the establishment and c
 [Data](articles/df01dc24.json)
 
 [Extended Data](ext_articles/df01dc24.ext.json)
-
----
-
-### Messido Emergency letter to the Central Environmental Authority on the impact of the Mannar Wind Power Project
-
-*2024-03-09 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178318) · `ta`
-
-Messido sent an emergency letter to the Central Environmental Authority regarding the Mannar Wind Power Project's impact on Mannar Island. Concerns include environmental damage, bird decline, habitat destruction, and economic impact. The letter highlights the need for adequate mitigation measures.
-
-🟩
-
-Messido's Director Jatson Piqado said that an emergency letter was sent to the Central Environmental Authority on Friday (8) on the impact of the wind power project on the 2nd phase of the Mannar Island.
-
-We have sent a letter to the Central Environmental Authority by email on the impact of wind power in the Mannar district, especially in the Mannar Island.
-
-The public and community activists are expressing their concerns over the establishment of windmills along the Mannar coast.
-
-The significant environmental impacts of the first phase of the wind turbine installation have been reported.
-
-Our concern has been expressed about how to carry out further installations without adequate sedation.
-
-In the early stages, 30 windmills were installed to generate electricity from 63 to 95 MW.
-
-However, the Environmental Agreement Assessment Report has failed to offer clear values to alleviate the opposite impacts on nature, community and economy.
-
-...
-
-[Data](articles/f878d526.json)
-
-[Extended Data](ext_articles/f878d526.ext.json)
-
----
-
-### Bangladesh target 175 runs
-
-*2024-03-09 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194324) · `si`
-
-Bangladesh won the T20 match against Sri Lanka by 175 runs. Sri Lanka scored 174 runs in 20 overs, with Kusal Mendis' 86 off 55 balls.
-
-🟩
-
-Sri Lanka and Bangladesh will be held at Syllen between the 3rd and final T20 cricket match among Sri Lanka and Bangladesh.
-
-The Bangladesh team was able to win the coin of the match and they first invited the Sri Lankan team to bat first.
-
-Batting first Sri Lanka scored 174 runs for the loss of 6 wickets in their allotted 20 overs.
-
-Kusal Mendis scored 86 runs off 55 balls with six fours and six fours.
-
-Accordingly, the Bangladesh team has won 175 runs to win the match.
-
-◼️
-
-[Data](articles/e20050e0.json)
-
-[Extended Data](ext_articles/e20050e0.ext.json)
 
 ---

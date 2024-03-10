@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 12:02:43**
+As of **2024-03-10 12:17:54**
 
 ## Newspaper Stats
 
-*Scraped **11,921** Articles*
+*Scraped **11,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,116 @@ economynextcom | 622
 islandlk | 646
 adalk | 1,006
 adaderanalk | 1,447
-tamilmirrorlk | 1,449
+tamilmirrorlk | 1,452
 virakesarilk | 1,633
 dailymirrorlk | 1,823
-adaderanasinhalalk | 1,881
+adaderanasinhalalk | 1,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,917 (100.0%) of 11,921 articles have been extended.
+11,921 (100.0%) of 11,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### විදේශිකයින්ගේ දිවි බේරූ අපේ වීරයෝ
+### මධ්‍යම තැපැල් හුවමාරුවේ වර්ජනයක්
+
+*2024-03-10 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194343) · `si`
+
+මධ්‍යම තැපැල් හුවමාරුවේ සේවකයින් අද මධ්‍යම රාත්‍රියේ සිට පැය 24ක සංකේත වැඩ වර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+
+මධ්‍යම තැපැල් හුවමාරුව ස්ථාපිත කර ඇති මහල් 8ක ගොඩනැගිල්ලේ අක්‍රීය වී ඇති විදුලි සෝපානය අලුත්වැඩියා නොකිරීමට විරෝධය පළකරමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගයට එළැඹීමට තීරණය කර තිබේ.
+
+මාධ්‍ය හමුවකට එක්වෙමින් ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ මේ බව පැවසීය.
+
+ඔවුන් පවසන්නේ මධ්‍යම තැපැල් හුවමාරුවේ සේවයේ නිරත සියයට 40කට ආසන්න කාන්තාවන් ඉන් අපහසුතාවයට පත්ව ඇති බවත් ඒ අතර ගැබිණි මව්වරුන්ද සිටින බවත්ය.
+
+විදුලි සෝපානය අක්‍රීය වී වසරකට ආසන්න කාලයක් ගතවුවද එය අලුත්වැඩියා නොකිරීම හේතුවෙන් තැපැල් මළු ගොඩනැගිල්ල තුළ එහා මෙහා ගෙනයාමට සේවකයින්ට දැඩි පරිශ්‍රමයක් දැරීමට සිදුව ඇති බව ඔවුන් පවසයි.
+
+රජය එය නැවත සකස්කිරීමට මාස 3ක් කාලසීමාවක් ඉල්ලා සිටින බව පැවසූ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ පවසන්නේ මාසයක් ඇතුළත එය නැවත සකස් කිරීමට අපොහොසත් වුවහොත් අඛණ්ඩ වැඩ වර්ජනයකට එළඹෙන බවය.
+
+◼️
+
+[Data](articles/53a91216.json)
+
+---
+
+### தண்ணீரை விற்கும் கதை பொய்
+
+*2024-03-10 12:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீரை-விற்கும்-கதை-பொய்/175-334443) · `ta`
+
+விவசாயிகளுக்கு வழங்கப்படும் தண்ணீருக்கு கட்டணம் அறவிடுவது குறித்தோ அல்லது தண்ணீரை தனியார் மயமாக்குவது குறித்தோ எந்தவொரு யோசனையும் அரசாங்கத்திடம் சமர்ப்பிக்கப்படவில்லை என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+தண்ணீரைத் தனியார் மயமாக்கப் போவதாகவும் விவசாயத் தேவைக்கான இலவச நீருக்குக் கட்டணம் வசூலிக்கப் போவதாகவும் சில அரசியல் கட்சிகள் முன்வைக்கும் குற்றச்சாட்டுகள் ஆதாரமற்றவை என அமைச்சர் மேலும் தெரவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f53e1d66.json)
+
+---
+
+### காலி முகத்திடலில் ’’IORA’’ நிகழ்வு
+
+*2024-03-10 11:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-முகத்திடலில்-IORA-நிகழ்வு/175-334442) · `ta`
+
+எதிர்கால சந்ததியினருக்கான நிலையான இந்து சமுத்திரத்தை உறுதி செய்தல்" எனும் தொனிப்பொருளில் இன்று (10) கொழும்பு காலி முகத்திடலில் நடைபெறும்  2024 ஆம் ஆண்டுக்கான "IORA" தின கொண்டாட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் கலந்து கொண்டார்.
+
+மேலும் அங்கு பல்வேறு நடவடிக்கைகளில் ஈடுபட்டிருந்த பாடசாலை மாணவர்களுடன் சிநேகபூர்வமாக உரையாடிய ஜனாதிபதி,உறுப்பு நாடுகளின் தூதரகங்கள் மற்றும் நாட்டின் அரச நிறுவனங்களால் ஏற்பாடு செய்யப்பட்டிருந்த கண்காட்சிகளையும் பார்வையிட்டார்.
+
+◼️
+
+[Data](articles/af022c1a.json)
+
+---
+
+### கண்காட்சிக்கு கஞ்சாவுடன் சென்ற நயினா பெண்
+
+*2024-03-10 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கண்காட்சிக்கு-கஞ்சாவுடன்-சென்ற-நயினா-பெண்/71-334441) · `ta`
+
+யாழ்ப்பாணத்தில் நடைபெற்று வரும் இலங்கை விமானப் படையின் கண்காட்சிக்கு கேரள கஞ்சாவுடன் சென்ற பெண் ஒருவர் கைது செய்யப்பட்டார்.
+
+நயினாதீவைச் சேர்ந்த 26 வயதான பெண்ணே இரண்டு கிலோ கிராம் எடையுள்ள கஞ்சாவுடன் கைது செய்யப்பட்டார்.
+
+இலங்கை விமானப்படையின் 73வது வருட நிறைவை முன்னிட்டு “வான் சாகசம் – 2024” கண்காட்சி நிகழ்வுகள் யாழ்ப்பாணம் – முற்றவெளி மைதானத்தில் இன்று ஜந்தாவது நாளாகவும் இடம்பெற்றுவருகிறது.
+
+இதன்போது கண்காட்சி பிரதான நுழைவாயிலில் கண்காட்சிக்கு பொதியுடன் வந்த பெண்ணை சோதனையிட்டபோதே கஞ்சா இருந்தமை கண்டுபிடிக்கப்பட்டது.
+
+இந்நிலையில் குறித்த பெண் விமானப்படையினரால் யாழ்ப்பாணம் பொலிஸாரிடம் ஒப்படைக்கப்பட்டநிலையில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/88997984.json)
+
+---
+
+### Our heroes who survived foreigners
 
 *2024-03-10 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194342) · `si`
 
-බෙන්තර වෙරළ තීරයේදී රළ පහරට හසුවී ගසාගෙන යමින් සිටි විදෙස් ජාතික ජාතික කාන්තාවක, ඇයගේ දරුවා සහ විදෙස් ජාතිකයෙකුගේ දිවි බේරාගෙන තිබේ.
+A national woman and a foreigner survived waves at Bentara Beach. Their hotel was swept away, and lifeguards rescued them. Despite increasing waves, Niroshan Fernando, Tharindu, Chamune, and Lloutin Water Sports Association Chamune, managed to save them. They were taken to land and given first aid.
 
-ඔවුන් නවාතැන්ගෙන සිටි හෝටලය පසුපස වෙරළතීරයේ දිය නාමින් සිටියදී මෙලෙස සැඩ පහරට හසුව ගසාගෙන ගොස් ඇත.
+🟩
 
-එම අවස්ථාවේදී ඔවුන් උදව් ඉල්ලා කෑගැසීමත් සමග ජීවිතාරක්ෂක නිලධාරීන් දියඹට පැන ඔවුන් බේරාගැනීමට උත්සාහ දරා ඇත.
+A national national woman and a foreign woman who was carrying out waves at Bentara Beach.
 
-එහෙත් රළ පහර වැඩිවීමත් සමග ඒ ආසන්නයේ සිටි අලුත්ගම දියකාවා ජල ක්‍රීඩා සංගමයේ නිරෝෂන් ප්‍රනාන්දු, තරිඳු යන දෙදෙනා සහ ලලූනා ජල ක්‍රීඩා සංගමයේ චමෝද යන අය jet ski එකක් ආධාරයෙන් කඩිනමින් ඔවුන් ආසන්නයට ගොස් ඇත.
+The hotel they were staying washed in the shove, and washed away from the sudden beat.
 
-අනතුරුව ඔවුන් ඒ වෙත නංවාගෙන ගොඩබිම වෙත රැගෙන ඒමට සමත්ව ඇති බව වාර්තාවෙයි.
+With the screaming of help, the lifeguards have escaped the daughter and tried to save them.
 
-අනතුරුව ගොඩට ගත් විදේශිකයින් වෙත ජීවිතාරක්ෂක නිලධාරීන් විසින් ප්‍රථමාධාර ලබාදීමට කටයුතු කර තිබුණි.
+However, with the increase of waves, Niroshan Fernando, Tharindu, Tharindu and Chamune, Lloutin and Lloutin Water Sports Association Chamune, has gone close to them.
+
+It is reported that they have been able to bring it to the land.
+
+Later he had taken first aid to foreigners to land.
 
 ◼️
 
 [Data](articles/a063f88d.json)
+
+[Extended Data](ext_articles/a063f88d.ext.json)
 
 ---
 
@@ -84,39 +160,51 @@ The suspects are to be produced before the Kalutara Magistrate's Court and the A
 
 ---
 
-### ආසියානු කණිෂ්ඨ බැඩ්මින්ටන් තරගාවලියේදී ලාංකිකයෝ වැඩ පෙන්වති
+### Sri Lankans showing work at Asian Junior Badminton Tournament
 
 *2024-03-10 11:30:05* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-කණිෂ්ඨ-බැඩ්මින්ටන්-තරගාවලියේදී-ලාංකිකයෝ-වැඩ-පෙන්වති/11-408509) · `si`
 
-03 වන දකුණු ආසියානු කනිෂ්ඨ බැඩ්මින්ටන් ශූරතා තරගාවලියේ දී ශ්‍රී ලංකා 15 න් පහළ සහ 17 න් පහළ  කණ්ඩායම් පදක්කම් 23 ක් දිනා ගෙන 03/09 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+Sri Lanka's junior badminton teams won 17 gold medals at the Asian Junior Badminton Tournament in Islamabad, Pakistan, from 3/07 to 3/07. The tournament also included Blindminton Championships.
 
-මෙම තරගාවලිය ඉකුත් 03/03 දින සිට 03/07 දින දක්වා පාකිස්තානයේ ඉස්ලාමාබාද් නුවර පවත්වා තිබුණි .
+🟩
 
-එහිදී වයස අවුරුදු 15 න් පහළ සහ 17 න් පහළ ශ්‍රී ලංකා කනිෂ්ඨ බැඩ්මින්ටන් කණ්ඩායම් එහි ශූරතාවය දිනා ගනිමින් රන් පදක්කම් 08 ක් දිනා ගෙන තිබුණි .
+The Katunayaka Airport was won by the Blindminton Championships of 3 and 20 pm on the April 3/09.
 
-මීට අමතරව මෙම ශ්‍රී ලංකා කණ්ඩායම් කේවළ , යුගළ සහ මිශ්‍ර යන ඉසව් වලදී රන් පදක්කම් 09 ක් සහ රිදී පදක්කම් 06 ක් දිනා ගැනීමට ද සමත් වී තිබුණි .
+The tournament was held in Islamabad in Pakistan until 3/07 to 03/07.
 
-මෙසේ පදක්කම් දිනා ගත් ශ්‍රී ලංකා කනිෂ්ඨ බැඩ්මින්ටන් කණ්ඩායම 03/09 දින අලුයම 05.00 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකා බැඩ්මින්ටන් ෆෙඩරේෂනයේ නිලධාරීන් සහ ඔවුන් ඉගෙනුම ලබන පාසැල් වල ගුරු - විදුහල්පතිවරුන් , සිසුන් මෙන්ම , ඔවුන්ගේ දෙමාපියන් නෑදෑ හිතවතුන් විශාල පිරිසක් ද පැමිණ සිටියහ .
+Under-15 and Under-17 Sri Lanka Junior Badminton teams won eight gold medals.
+
+In addition, the Sri Lankan team and mixed events were also won by nine gold medals and six silver medals.
+
+Sri Lanka Junior Badminton won the medals 03/09 km from Dubai to Sri Lankan Airlines UL. The officers of Sri Lanka Badminton Federal Federal Federal Federal Federal FederationTeachers - Principals, students, as well as a large number of friends of their parents were present.
 
 ◼️
 
 [Data](articles/b935f5b7.json)
 
+[Extended Data](ext_articles/b935f5b7.ext.json)
+
 ---
 
-### ජා ඇල වෙඩිතැබීමක්
+### A shooting of Ja-canal
 
 *2024-03-10 11:22:54* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇල-වෙඩිතැබීමක්/11-408508) · `si`
 
-දඬුගම මස් වත්ත ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්ලුව මහතා පැවසීය.
+In Dadugama, a 48-year-old resident was injured in a shooting by two motorcycle riders.
 
-තුවාල ලද පුද්ගලයා දඬුගම මස් වත්ත ප්‍රදේශයේම පදිංචිකරුවෙකි වයස අවුරුදු 48 ක් වන
+🟩
 
-යතුරු පැදියකින් පැමිණි පුද්ගලයන් දෙදෙනකු මෙම වෙඩි තැබීම සිදුකර ඇති බව පොලිසිය සිදු කරන ලද පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+Attorney at Law, a person was injured in a shooting committed in the Dadugama Meat estate.
+
+The injured person is a 48 year old resident of Dadugama meat estate
+
+Police investigations have revealed that the shooting had been shot dead by two people on a motorcycle.
 
 ◼️
 
 [Data](articles/99d090a3.json)
+
+[Extended Data](ext_articles/99d090a3.ext.json)
 
 ---
 
@@ -246,21 +334,31 @@ A total of 16 people have died after being bitten by stray dogs last year.
 
 ---
 
-### අනියම් සබඳතාව 17 හැවැරිදි තරුණියට මරු කැඳවයි
+### Casual relations identity kills youth
 
 *2024-03-10 09:46:35* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාව-17-හැවැරිදි-තරුණියට-මරු-කැඳවයි/11-408507) · `si`
 
-ඇල්පිටිය  තලාව පාර, නානායක්කාර මාවත පදේශයේ  පිහිටි තේ ඉඩමකදි, තිබි ගෙල කපා  ඝාතනය කරන ලද තරුණියකගේ  මළසිරුරක් ඊයේ (9දා) සොයා ගත් බව ඇල්පිටිය පොලීසිය කියයි.
+A young woman's body was found in Elpitiya, and it's believed she was abducted by her brother-in-law on March 8. The police are investigating her murder.
 
-මෙසේ සොයා ගනු ලැබූවේ කරන්දෙණිය මණ්ඩකන්ද තල්ගහවත්ත ප්‍රදේශයේ පදිංචි වන්නිආරච්චි කංකානම්ගේ හංසිකා නදීෂා නමැති දාහත් හැවිරිදි අවිවාහක තරුණියකගේ බවද පොලීසිය කියයි.
+🟩
 
-තරුණිය මාර්තු (8)  වැනිදා සිය මව සමග යමින් සිටියදී කරන්දෙණිය තල්ගහවත්ත, පාලම අසලදී  ඇය සමග සම්බන්ධතාවයක් පැවැත්වු  ඇයගේ සහෝදරියගේ ස්වාමිපුරුෂයා  සහ තවත් අයකු විසින් පිහියක් පෙන්වා ඇය බිය ගන්වා ඔවුන් පැමිණි තීරෝද රථයට බලහත්කාරයෙන් නංවාගෙන ගොස් ඇතැයි අනාවරණයවූ බවද පොලීසිය කියයි.
+The body of a young woman who was found in a tea land in Elpitiya Talawa Mawatha, Nanayakkara Mawatha, Path, was found yesterday (9).
 
-තරුණිය තමා සමග ඇසුරක් පැවැත්වූ සහෝදරියගේ සැමියා තමාට අමානුෂිකව ලෙස පහරදුන්නේ යයි කියමින් කරන්දෙණිය පොලීසියට කරන ලද පැමිණිල්ල අනුව ඒ සදහා සිය මව සමග යමින් සිටියදී ඇය මස්සිනා විසින් මෙසේ බලහත්කාරයෙන් පැහැරගෙන ගොස් ඇති බවත් ඒ සම්බන්ධයෙන් තරුණියගේ මව පැමිණිල්ලක් දමා ඇති බවද පොලීසිය කියයි.
+Wanniarachchi Kankanam's Hansika Nadeesh, a resident of Kongala Kankanam, Thaalgarachchi, was found, was found in Kanniarachchi, Kanniarachchi, a resident of Thalgahawatte.
+
+She had a knife and another in connected with her mother on March (8), a knife's husband and another was a knife, and she was associated with her.
+
+According to the complaint lodged with her mother, the girl had been abducted by his brother-in-law and had a complaint with her mother was abducted by his brother.
+
+Police and relatives have found that the young girl who has been abducted on March 8, the body of the police were discovered yesterday (9)..
+
+The murdered girl had gone to a rented house in Nanayakkara and the mother of the two months with her son's husband.The police say that they have been crowned home.
 
 ...
 
 [Data](articles/1a14922a.json)
+
+[Extended Data](ext_articles/1a14922a.ext.json)
 
 ---
 
@@ -2259,101 +2357,5 @@ Police in Ottawa discovered the slain family at their townhouse in the Barrhaven
 [Data](articles/bb794d43.json)
 
 [Extended Data](ext_articles/bb794d43.ext.json)
-
----
-
-### 2 daughter -in -law affected by father's infestation
-
-*2024-03-09 11:30:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தந்தையின்-தொல்லையால்-2-மகள்மார்-பாதிப்பு/76-334417) · `ta`
-
-Two schoolgirls, aged 16 and 14, were handed over to their grandmother by the Dimbulla-Pathanam police due to their father's severe assault. The children were taken into police custody and later handed over to the grandmother under the supervision of the Hatton Magistrate.
-
-🟩
-
-Two school children have been handed over to their grandmother under the supervision of goodwill due to their father's troubles.
-
-A police officer of the Dimbulla-Pathana police said that steps have been taken to present two school children in the Hatton Magistrate's Court and hand them over to the grandmother under the supervision of the Hatton Magistrate.
-
-The mother of two schoolgirls aged 16 and 14, aged 16 and 14, who live in the tea estate belonging to the Dimbulla-Pathanam police division, is working in the Colombo area.
-
-The two schoolchildren told the Dimbulla-Pathanam police that the father had come to the stadium every day and scolded her grandmother and both.
-
-On the basis of a complaint received by the Child Protection Authority regarding the severe assault by the father, the Dimbulla-Pathanam police officers went to the estate and took two students and grandmothers into police custody on Friday (08).
-
-...
-
-[Data](articles/d91ef707.json)
-
-[Extended Data](ext_articles/d91ef707.ext.json)
-
----
-
-### Three kicks sending up
-
-*2024-03-09 11:23:19* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්-රියක්-තිදෙනෙක්-මරු-තුළට-යවයි/11-408502) · `si`
-
-Three people, including three youths aged 14, 19, and 21, died in a cab-concert collision on Rambewa main road, Anuradhapura-Rambewa, around 1.30 am. Three seriously injured were admitted to Anuradhapura Teaching Hospital. Investigations are ongoing to arrest the cab driver.
-
-🟩
-
-Mishiantale police say three including three persons including a dead accident around 1.30 am at Rambewa main road on the Anuradhapura-Rambewa main road.. Three others who were seriously injured in the accident have been admitted to the Anuradhapura Teaching Hospital.
-
-The accident had occurred when a cab collided with a concert in Rambewa town.
-
-Three youths who were between 14, 19 and 21 years have died. Investigations have been launched to arrest the cab and the driver.
-
-◼️
-
-[Data](articles/3a2249f7.json)
-
-[Extended Data](ext_articles/3a2249f7.ext.json)
-
----
-
-### The magical fishermen returned
-
-*2024-03-09 11:19:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மாயமான-மீனவர்கள்-மூவரும்-திரும்பினர்/94-334416) · `ta`
-
-Three fishermen, missing since the 6th, were rescued on Friday (08) after two nights adrift in the Indian Sea. Their boat had mechanical failure.
-
-🟩
-
-It is reported that three fishermen who were reported missing at sea with three people on the 6th of last month have returned to shore on Friday (08).
-
-The owner of the engine boat had lodged a complaint with the Kalpitiya police that three fishermen had not returned to the shore of the three fishermen.
-
-Three fishermen, aged 21, 37 and 38, from the Eichankadu area, have been rescued on Friday (08).
-
-It is said that the machine boat was not operating due to mechanical failure and then the boat that was then floating in the sea was up to the Indian Sea.
-
-It has been revealed that the three fishermen have spent two nights in the sea without food and drinking water and the fishermen aboard the Indian fishing boat have provided food and drinking water.
-
-◼️
-
-[Data](articles/cca820a6.json)
-
-[Extended Data](ext_articles/cca820a6.ext.json)
-
----
-
-### Religious centres engaging in conversions to be raided: Minister
-
-*2024-03-09 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Religious-centres-engaging-in-conversions-to-be-raided-Minister/108-278539) · `en`
-
-Colombo, March 9 (Daily Mirror)- Steps will be taken to raid unregistered religious centres that are engaged in religious conversions in a move to stop such activities, Buddhasasana, Religious and Cultural Affairs Minister Vidura Wickramanayaka said.
-
-The Minister has instructed the Commissioner General of Buddhist Affairs to inform the police chief to carry out raids on unregistered religious centres that are engaged in religious conversions.
-
-The Minister revealed this during a meeting with a group of prelates at the Ministry of Buddhasasana, Religious and Cultural Affairs.
-
-The discussion also focused on steps to be taken regarding issues related to religious places of worship, Buddhist monks and religious distortion.
-
-It was also decided at the meeting to include titles 'Venerable' for Buddhist monks and 'Reverend' for ‘Bhikkhunis ' in their national identity cards and passports.
-
-◼️
-
-[Data](articles/140a8e2a.json)
-
-[Extended Data](ext_articles/140a8e2a.ext.json)
 
 ---

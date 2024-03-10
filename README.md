@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 02:33:25**
+As of **2024-03-11 02:48:14**
 
 ## Newspaper Stats
 
-*Scraped **12,018** Articles*
+*Scraped **12,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
 economynextcom | 626
-dailyftlk | 627
+dailyftlk | 628
 islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
@@ -26,11 +26,35 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,018 (100.0%) of 12,018 articles have been extended.
+12,018 (100.0%) of 12,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### RW invites dissidents back into UNP fold for national revival
+
+*2024-03-11 02:06:42* · [`dailyftlk`](https://www.ft.lk/news/RW-invites-dissidents-back-into-UNP-fold-for-national-revival/56-759343) · `en`
+
+Claims SJB is currently marginalising UNPers and has been taken over by other elements
+
+Emphasises importance of party unity in tackling ongoing economic crisis and debt burden
+
+Highlights SJB’s unwillingness to support his efforts including refusal to attend this week’s IMF meeting on debt restructuring
+
+Calls on all current and former UNP supporters to re-join party as only UNP remains to protect SL
+
+Says first agreement with country’s creditors to restructure debt would be signed in May or June
+
+Promises to create a revolution in SL focusing on various sectors including agriculture and exports
+
+In an effort to bolster the struggling United National Party (UNP) ahead of the upcoming polls, United National Party (UNP) leader President Ranil Wickremesinghe yesterday urged both current and former supporters to unite once again to strengthen the age-old party and contribute to the nation’s revival.
+
+...
+
+[Data](articles/bf6ac6e3.json)
+
+---
 
 ### Army returns 100 acres to rightful owners in Jaffna
 
@@ -55,6 +79,12 @@ The process is carried out under the guidance of the Commander of the Army, Lieu
 ### At launch of autobiography Imtiaz Bakeer Markar makes crying call for united Sri Lanka
 
 *2024-03-11 01:57:36* · [`dailyftlk`](https://www.ft.lk/news/At-launch-of-autobiography-Imtiaz-Bakeer-Markar-makes-crying-call-for-united-Sri-Lanka/56-759341) · `en`
+
+Member of Parliament Imthiaz Bakeer Markar (Left) handing over a copy of MY Story book to Prime Minister Dinesh Gunawardena
+
+Member of Parliament Imthiaz Bakeer Markar (Left) handing over a copy of MY Story book to Opposition leader Sajith Premadasa
+
+Member of Parliament Imthiaz Bakeer Markar (Left) handing over a copy of MY Story book to Former Speaker Karu Jayasuriya
 
 Celebrating the story of his life, ‘Mage Kathawa’ (my story), an autobiography by Member of Parliament Imtiaz Bakeer Markar was launched at Ananda College recently.
 
@@ -2261,29 +2291,5 @@ However, Israeli troops say they are being terrorists in search of terrorists.
 [Data](articles/bcc9a666.json)
 
 [Extended Data](ext_articles/bcc9a666.ext.json)
-
----
-
-### Risk of increase in rabies if free-roaming dog population is not controlled: Health authorities
-
-*2024-03-10 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Risk-of-increase-in-rabies-if-free-roaming-dog-population-is-not-controlled-Health-authorities/108-278553) · `en`
-
-Health authorities warn that there is a risk of an increase in rabies due to the abscence of a proper programme to control the free-roaming dog population in the country.
-
-According to their latest statistics, it has been revealed that more than six million stray dogs are roaming freely around the country, and health authorities pointed out that the programme to perform sterilisation surgery for these dogs has also been crippled.
-
-A large number of dogs are seen roaming freely around the country, including in Colombo and in public places.
-
-Health authorities point out that this situation has now become a serious health and social problem.
-
-The health authorities also point out that although various programmes have been implemented in the past with the aim of controlling rabies and the dog population, the lack of proper implementation of such programmes has led to this situation.
-
-A total of 16 people have died after being bitten by stray dogs last year.
-
-...
-
-[Data](articles/0e05568a.json)
-
-[Extended Data](ext_articles/0e05568a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 14:17:42**
+As of **2024-03-10 14:33:28**
 
 ## Newspaper Stats
 
-*Scraped **11,939** Articles*
+*Scraped **11,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,008
+adalk | 1,009
 adaderanalk | 1,449
 tamilmirrorlk | 1,454
 virakesarilk | 1,633
@@ -26,53 +26,67 @@ adaderanasinhalalk | 1,884
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,937 (100.0%) of 11,939 articles have been extended.
+11,939 (100.0%) of 11,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### කැනඩාවේ ඝාතනය ගැන අද ඇසුණු සංවේදී කතාව
+### Sensitive story heard of Canada's murder
 
 *2024-03-10 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194345) · `si`
 
-කැනඩාවේ, ඔටාවා හී සමූහ ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ පවුලේ ඥාතීන් ඉදිරි දින කිහිපයේදී එරටට පැමිණිමෙන් පසු අවමංගල්‍ය උත්සවය පැවැත්වීමට සැලසුම් කර ඇතැයි කැනඩාවේ ශ්‍රී ලංකා මහකොමසාරිස් හර්ෂ නවරත්න මහතා පවසයි.
+A violent incident in Barshewan, Canada, resulted in the death of six Sri Lankans, including five family members. The High Commissioner of Sri Lanka in Canada plans to conduct the funeral. A ceremony was held for the murdered family, attended by 300 people, including government officials. The Ottawa Police have completed the transfer of the victims. Dhanushka Wickremasinghe, seriously injured, is recovering and plans to manage the Hildda Jayawardharama temple post-treatment. Canadian authorities are investigating the incident, with concerns about the accused's mental health and their fitness to stand trial.
 
-ඝාතනයට ලක්වූවන් වෙනුවෙන් බාර්හෙවන් ප්‍රදේශවාසින් සිහිපත් කිරීමේ වැඩසටහනක් ද ඊයේ (09)  සංවිධාන කර තිබුණි.
+🟩
 
-එකම පවුලේ සාමාජිකයින් පස් දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු  කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ සිය නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුණේ පසුගිය බදාදා රාත්‍රීයේදීය.
+Sri Lankan High Commissioner in Sri Lanka Harsha Navaratne has planned to conduct the funeral to conduct the funeral after arriving in the next few days.
 
-ඝාතනයට ලක්වූ ශ්‍රී ලාංකික පවුල වෙනුවෙන් සිහිපත් කිරීමේ උත්සවයක් ධනුෂ්කගේ නිවසට ආසන්නයේ පිහිටි උද්‍යානයක ඊයේ පස්වරුවේ පැවැත්වුණි.
+Among the people in the area was also held yesterday (09).
 
-ඒ ප්‍රදේශවාසින්, මහා සංඝරත්නය, දෙරටේ රාජ්‍ය නිලධාරීන් ඇතුළු 300කට ආසන්න පිරිසකගේ සහභාගිත්වයෙනි.
+Six Sri Lankans, including five members of the same family, were violent in their home in the area of Barshewan, Canada, and in Wednesday night.
 
-මේ අතර වික්‍රමසිංහ පවුලේ හිතවතුන් එම ඝාතන සිද්ධිය සම්බන්ධයෙන් සිය සංවේගය පළකළ අතර බොහෝ කැනේඩියානුවන් ද ඒ පිළිබඳව සංවේදී වුණි.
+A ceremony for the murdered Sri Lankan family was held at a park near Dhanushka's residence last evening.
 
-ප්‍රහාරයෙන් දිවිබේරා ගෙන බරපතළ තුවාල ලැබු ධනුෂ්ක වික්‍රමසිංහ මේ වනවිට ශල්‍යකර්ම දෙකකට යොමුකර ඇති බව වාර්තා වෙයි.
+Residents, the Maha Sangha, including 300 people, including the Maha Sangha, the two government officials of the two countries.
+
+Meanwhile, Wickremasinghe family's friends expressed their companions of the murder and many Canadians were sensitive.
+
+It is reported that Dhanushka Wickremasinghe who was seriously injured in the attack have been taken to two surgeries.
+
+However, his condition improves and said he would take care of Hildda Jayawardharama temple after he was taken treatment at hospital treatment.
 
 ...
 
 [Data](articles/e124b652.json)
 
+[Extended Data](ext_articles/e124b652.ext.json)
+
 ---
 
-### සරසවි සිසුවෙක් අලගල්ල කන්දෙන් පහළට ඇදවැටෙයි
+### A university student falls down from Hampella
 
 *2024-03-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194344) · `si`
 
-අලගල්ල කන්දෙන් පහළට ඇදවැටුණු විශ්වවිද්‍යාල සිසුවෙකු ප්‍රතිකාර සඳහා මාවනැල්ල මූලික රෝහලට ඇතුළත් කර තිබේ.
+A 21-year-old Wayamba University student from Kalmunai fell from Hampella, was rescued by Beragala Army Camp officers, and is now in serious condition at Mawanella Base Hospital.
 
-මෙලෙස අනතුරට ලක්ව ඇත්තේ වයඹ විශ්වවිද්‍යාලයේ දෙවන වසරේ ඉගෙනුම ලබමින් සිටි කල්මුනේ ප්‍රදේශයේ පදිංචි 21 හැවිරිදි වියේ පසුවන සරසවි සිසුවෙකි.
+🟩
 
-අද උදෑසන එම සිසුවා තවත් සිසුන් කණ්ඩායමක් සමග අලගල්ල කන්ද තරණය කිරීමට යාමේදී මෙම අනතුරට ලක්ව ඇත.
+A university student has been admitted to the Mawanella Base Hospital for treatment.
 
-පහළට ඇදවැටුණු තරුණයා මුදාගැනීම සඳහා බෙරගල හමුදා කඳවුරේ නිලධාරීන් කණ්ඩායම දැඩි පරිශ්‍රමයක් දැරීමට සිදුවිය.
+The victim is a 21 year old university student from Kalmunai, Kalmunai, a second year of the Wayamba University.
 
-ආරංචි මාර්ග සඳහන් කරන්නේ තුවාළ ලැබූ සරසවි සිසුවාගේ තත්ත්වය බරපතළ බවය.
+The victim is inaugurated when the student was going to cross the Alagandlla with another group of students.
+
+The officers of the Beragala Army Camp had to be struggling to rescue the youth.
+
+According to sources, the condition of the injured university student is serious.
 
 ◼️
 
 [Data](articles/0a69f2fb.json)
+
+[Extended Data](ext_articles/0a69f2fb.ext.json)
 
 ---
 
@@ -239,6 +253,24 @@ The Minister further stated that the allegations made by some political parties 
 [Data](articles/f53e1d66.json)
 
 [Extended Data](ext_articles/f53e1d66.ext.json)
+
+---
+
+### අපුර හෝටලයකදී එංගලන්ත ජාතිකයෙක් මරුට
+
+*2024-03-10 11:59:19* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-හෝටලයකදී-එංගලන්ත-ජාතිකයෙක්-මරුට/11-408512) · `si`
+
+අනුරාධපුර නගරයේ සංචාරක හෝටලයක නවාතැන් ගෙන සිටි එංගලන්ත ජාතික පුද්ගලයෙකු ඉකුත් (8 දා) ජීවිතක්ෂයට පත්වූ බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ  එන්ගලන්තයේ,  no.5, කින්වින් ඇවනිවු , k77p පදිංචිව සිට දැනට අනුරාධපුර හරිස්චන්ද්‍ර මාවතේ හෝටලයක පැමිණ  නේවාසිකාව නවා තැන්ගෙන සිට එස්. මනෝරංජන් සිරිකාන්තන් නැමති 84 හැවිරිදි  විදෙස් ජාතිකයෙකි.
+
+එම නවාතැන්පලේ නවාතැන් ගෙන සිටියදී ඇති වූ හදිසියේ අසනීප තත්ත්වයක් හේතුවෙන් ඉකුත් 8 වන දින අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කිරීමේදී රාත්‍රී 10.30 ට පමණ බාහිර රෝගී අංශයේදී ජීවිතක්ෂයට පත්ව ඇති බව පොලිසිය කියයි.
+
+මෙම මරණය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදු කිරීමට නියමිතව තිබුණි. අනුරාධපුර පොලිසියේ මේ සම්බන්ධයෙන් වැඩි දුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/09a33816.json)
 
 ---
 
@@ -2347,23 +2379,5 @@ The suspects have not been arrested yet further investigations.
 [Data](articles/cba154e9.json)
 
 [Extended Data](ext_articles/cba154e9.ext.json)
-
----
-
-### Hasaranga returns, Sri Lanka to bat in T20 series decider against Bangladesh
-
-*2024-03-09 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hasaranga-returns-Sri-Lanka-to-bat-in-T20-series-decider-against-Bangladesh/108-278546) · `en`
-
-Sri Lanka were put into bat first in the third and final T20I against Bangladesh in Sylhet, as suspended captain Wanindu Hasaranga returned to the side after serving a two-match suspension.
-
-Hasaranga replaced left-arm fast bowler Dilshan Madushanka, while Nuwan Thushara came in for the injured Matheesha Pathirana, who was ruled out of today's T20I with a grade 1 hamstring injury on his left leg.
-
-Sri Lanka won the opening T20I between the two teams on Monday by three runs, before Bangladesh recorded a comfortable eight-wicket win in the second match of the series.
-
-◼️
-
-[Data](articles/e8637827.json)
-
-[Extended Data](ext_articles/e8637827.ext.json)
 
 ---

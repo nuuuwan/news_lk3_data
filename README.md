@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 22:04:14**
+As of **2024-03-10 22:17:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,897
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,992 (100.0%) of 11,994 articles have been extended.
+11,994 (100.0%) of 11,994 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ In an interview recorded last month with Swiss broadcaster RSI and partially rel
 ...
 
 [Data](articles/ba330000.json)
+
+[Extended Data](ext_articles/ba330000.ext.json)
 
 ---
 
@@ -100,17 +102,25 @@ Meanwhile, the National Water Supply and Drainage Board also informs the people 
 
 ---
 
-### மட்டக்களப்பில் வவுனியா வெடுக்கு நாறிமலையில் இடம்பெற்ற பொலிசாரின் அடாவடித்தனத்துக்கு எதிர்ப்பு தெரிவித்து ஆர்பாட்டம்
+### Vavuniya Vettam in Batticaloa
 
 *2024-03-10 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178381) · `ta`
 
-வவுனியா வெடுக்குநாறிமலை ஆலையத்தில் வழிபட சென்ற மக்கள் மீது பொலிசார் மேற்கொண்ட அடாவடித்தனத்துக்கு எதிர்ப்பு தெரிவித்து பொலிசாரை கண்டித்து மட்டக்களப்பு காந்தி பூங்காவில் முன்னால் ஞாயிற்றுக்கிழமை (10) பொது மக்கள் கண்ட ஆர்பாட்டத்தில் ஈடுபட்டனர்.
+In Batticaloa, a protest was held on Sunday against police actions against worshippers at the Vettukunnarimalai temple in Vavuniya. Over 100 people, including activists and clergy, gathered at Gandhi Park, led by former MPs and Tamil National People's Front organizers. They demanded an end to repression and the protection of religious rights.
 
-மட்டக்களப்பு பொது அமைப்புக்கள் பொலிசாரின் அடாவடித்தனத்திற்கு எதிர்ப்பு ஆர்பாட்டத்திற்கு அழைப்பு விடுத்தனர் இதனையடுத்து இன்று காலை 10 மணிக்கு காந்தி பூங்காவிற்கு முன்னால் நாடாளுமன்ற உறுப்பினர் கோ.கருணாகரன், மற்றும் முன்னாள் நாடாளுமன்ற உறுப்பினர்களான ஞா.சிறிநேசன், சீ.யோகேஸ்வரன், பா.அரியநேந்திரன், தமிழ் தேசிய மக்கள் முன்னணி கட்சி  தேசிய அமைப்பாளர் த.சுரேஸ், மனித உரிடை செயற்பாட்டாளர்கள், இந்து கிறிஸ்தவ மதகுருமார் கட்சி ஆதரவாளர்கள் உட்பட நூற்றுக்கு மேற்பட்டோர் ஒன்று கூடினர்.
+🟩
 
-...
+The public staged a demonstration on Sunday (10) in front of the Gandhi Park in Batticaloa, condemning the police against the people who went to worship at the Vettukunnarimalai temple in Vavuniya.
+
+Batticaloa public organizations called for a protest protest against the police, followed by a protest at 10 am in front of the Gandhi Park at 10 am, and former Member of Parliament, Gnan Sirinasan, C. Yogeswaran, P. Ariyanendran and Tamil National People's Front National Organizer T. Suresh.More than one hundred people gathered, including human Uridhur activists and Hindu Christian clergy supporters.
+
+Do not stop Shiva worship, do not prevent Shiva worship, Sinhala repression on Shivaratri day, do not trample humanity, do not prevent religious rights, do not prevent religious rights, Tamil ministers have sold the center of the land?The demonstrators left the Gandhi Park and moved on to the rally for about an hour.
+
+◼️
 
 [Data](articles/0a6483db.json)
+
+[Extended Data](ext_articles/0a6483db.ext.json)
 
 ---
 

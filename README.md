@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 11:17:38**
+As of **2024-03-10 11:33:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,879
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,913 (100.0%) of 11,915 articles have been extended.
+11,915 (100.0%) of 11,915 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,31 @@ The father, Dhanushka Wickramasinghe, suffered serious but not life-threatening 
 
 [Data](articles/b6029c87.json)
 
+[Extended Data](ext_articles/b6029c87.ext.json)
+
 ---
 
-### කළුතර තවත් ඛේදවාචකයක්
+### Another tragedy in Kalutara
 
 *2024-03-10 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194340) · `si`
 
-අභිරහස් ලෙස මියගිය කාන්තාවකගේ මළ සිරුරක් කළුතර වෙරළ තීරයේ තිබී පොලීසිය විසින් සොයාගෙන තිබේ.
+A woman's body was found on Kalutara Beach, suspected to have been in water for two days. The Kalutara Police are investigating.
 
-ඊයේ (09) රාත්‍රියේ කළුතර දකුණ පොලීසියට ලද තොරතුකට අනුව එම මළ සිරුර සොයාගෙන ඇත්තේ, කළුගඟ මෝය ආසන්නයේ වෙරළ තීරයේ තිබියදීය.
+🟩
 
-මෙම කාන්තා මළ සිරුර දින දෙකක් පමණ ජලයේ තිබෙන්නට ඇති බවට පොලීසිය සැකපළකරයි.
+The body of a woman was found mysteriously found in the Kalutara Beach.
 
-මළ සිරුර මේ වනවිට කළුතර ශික්ෂණ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කොට ඇති අතර දකුණු කළුතර පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+According to information received by the South, the South, the Kalutara South, was found yesterday, on the coast near the Kalu Ganga estuary last night.
+
+Police suspect that the woman's body was in water for two days.
+
+The body has been placed at the Kalutara Teaching Hospital morgue and the Kalutara Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/7f0eb247.json)
+
+[Extended Data](ext_articles/7f0eb247.ext.json)
 
 ---
 

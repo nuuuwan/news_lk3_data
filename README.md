@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 11:03:04**
+As of **2024-03-10 11:17:38**
 
 ## Newspaper Stats
 
-*Scraped **11,913** Articles*
+*Scraped **11,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 1,003
 adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
-dailymirrorlk | 1,821
-adaderanasinhalalk | 1,878
+dailymirrorlk | 1,822
+adaderanasinhalalk | 1,879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,913 (100.0%) of 11,913 articles have been extended.
+11,913 (100.0%) of 11,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Ottawa community gathers at vigil to mourn victims of mass killing
+
+*2024-03-10 11:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-community-gathers-at-vigil-to-mourn-victims-of-mass-killing/108-278554) · `en`
+
+More than 300 people gathered in the suburban Ottawa neighbourhood of Barrhaven Saturday for a community vigil following what police have called one of the worst mass killings in the region’s recent history.
+
+Ottawa Police Service said Thursday that the homicide unit was called in after six people — four children and two adults — were found dead inside a home in the city’s west-end suburb on Wednesday night, the Global News reported.
+
+“My daughter played with their kids a lot… On New Year’s at the temple they were all playing together so it’s really hard to see that this happened,” said one neighbour, Mirissa Kumar, through tears.
+
+One of the victims was a woman, Darshani Dilanthika Ekanayake, and her two-and-a-half-month-old baby.
+
+Police allege 19-year-old Febrio De-Zoysa murdered Ekanayake, her four children and a family acquaintance.
+
+The father, Dhanushka Wickramasinghe, suffered serious but not life-threatening injuries.
+
+...
+
+[Data](articles/b6029c87.json)
+
+---
+
+### කළුතර තවත් ඛේදවාචකයක්
+
+*2024-03-10 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194340) · `si`
+
+අභිරහස් ලෙස මියගිය කාන්තාවකගේ මළ සිරුරක් කළුතර වෙරළ තීරයේ තිබී පොලීසිය විසින් සොයාගෙන තිබේ.
+
+ඊයේ (09) රාත්‍රියේ කළුතර දකුණ පොලීසියට ලද තොරතුකට අනුව එම මළ සිරුර සොයාගෙන ඇත්තේ, කළුගඟ මෝය ආසන්නයේ වෙරළ තීරයේ තිබියදීය.
+
+මෙම කාන්තා මළ සිරුර දින දෙකක් පමණ ජලයේ තිබෙන්නට ඇති බවට පොලීසිය සැකපළකරයි.
+
+මළ සිරුර මේ වනවිට කළුතර ශික්ෂණ රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කොට ඇති අතර දකුණු කළුතර පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/7f0eb247.json)
+
+---
 
 ### Israeli settlement in Palestinian land
 
@@ -2323,49 +2363,5 @@ Thus, there will be possible train delays on the coastal line owing to this situ
 [Data](articles/a9755dd9.json)
 
 [Extended Data](ext_articles/a9755dd9.ext.json)
-
----
-
-### More information about the horrific accident of the Rambewa
-
-*2024-03-09 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194313) · `si`
-
-Three youths died in a Rambewa accident today. Two girls were hospitalized. The accident happened on the Rambewa to Colombo route, near Anuradhapura, while heading to a concert.
-
-🟩
-
-The deceased is three youths in the Rambewa area today (09), police said.
-
-The two girls were receiving treatment at the Anuradhapura Hospital.
-
-The accident occurred at Rambewa to Colombo and a cab traveling towards Anuradhapura.
-
-The group was in danger of visiting a concert held in the Rambewa area and returned to homes.
-
-◼️
-
-[Data](articles/5ef289eb.json)
-
-[Extended Data](ext_articles/5ef289eb.ext.json)
-
----
-
-### No failures in O/L exams after 2028: Minister
-
-*2024-03-09 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-failures-in-OL-exams-after-2028-Minister/108-278540) · `en`
-
-After 2028, there will be no failures in the GCE Ordinary Level (O/L) examinations, Education Minister Susil Premajayantha said.
-
-While addressing an event held to distribute electric bicycles to rural areas with Hutch Telecommunications Company, he said the Ministry will allow all the students to study up to GCE (O/L) to select their path, whether to follow academic or vocational training.
-
-Accordingly, the children need not leave their schools but can continue for another two years with their academic or vocational training. Subsequently, they will be directed to vocational training programmes.
-
-"We have updated most of the programmes. A total of 4.3 million students are currently studying in 10,126 public schools, over 300 international schools, and over 110 private schools. Now we are in the process of transforming education. For the last 75 years, we followed the curriculum introduced by Britishers because we were under British rule," the Minister said.
-
-...
-
-[Data](articles/324587f0.json)
-
-[Extended Data](ext_articles/324587f0.ext.json)
 
 ---

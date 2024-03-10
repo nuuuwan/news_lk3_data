@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 06:18:59**
+As of **2024-03-10 06:56:47**
 
 ## Newspaper Stats
 
-*Scraped **11,888** Articles*
+*Scraped **11,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ dailyftlk | 617
 economynextcom | 622
 islandlk | 646
 adalk | 1,000
-tamilmirrorlk | 1,442
+tamilmirrorlk | 1,443
 adaderanalk | 1,445
 virakesarilk | 1,632
 dailymirrorlk | 1,819
-adaderanasinhalalk | 1,872
+adaderanasinhalalk | 1,873
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,878 (99.9%) of 11,888 articles have been extended.
+11,882 (99.9%) of 11,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### අද කාලගුණය
+
+*2024-03-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194334) · `si`
+
+රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (10) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියලි කාලගුණික තත්ත්වයක් පවතින බවය.
+
+බස්නාහිර, සබරගමුව සහ උතුරුමැද පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුටත් පැවසීය.
+
+◼️
+
+[Data](articles/13c05b97.json)
+
+---
+
+### அதிக வெப்பத்தால் கண் நோய் ஏற்படும் சாத்தியம்
+
+*2024-03-10 03:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பத்தால்-கண்-நோய்-ஏற்படும்-சாத்தியம்/175-334432) · `ta`
+
+அதிக வெப்பம் காரணமாக கண் நோய்கள் ஏற்படும் சாத்தியங்கள் காணப்படுகின்றன என  கண் மருத்துவ நிபுணர்கள் தெரிவித்துள்ளனர்.
+
+சூரிய ஒளி நேரடியாக கண்ணில் பட்டால், அதன் செல்கள் சேதமடைவதுடன், விழிப்புலன் இழக்கப்படலாமென கொழும்பு பல்கலைக்கழக மருத்துவ பீடத்தின் பேராசிரியர், கண் சத்திரசிகிச்சை நிபுணர் வைத்தியர் மதுவந்தி திசாநாயக்க தெரிவித்துள்ளார்.
+
+அத்துடன், வெப்பம் காரணமாக கண் வறட்சி ஏற்படும் என்பதினால், தேவையான நீராகாரங்களை உட்கொள்வது அவசியமென அவர் தெரிவித்துள்ளார்.
+
+கணினி பாவனை அதிகம் உள்ள நபர்கள் மற்றும் ஏற்கனவே கண் நோய் உள்ளவர்களுக்கு பாதிப்புகள் அதிகரிக்கக் கூடும் எனவும் அவர் எச்சரிக்கை விடுத்துள்ளார். (a)
+
+◼️
+
+[Data](articles/2ecf61e2.json)
+
+---
 
 ### In injury to someone in the shooting
 
@@ -62,6 +96,8 @@ With the re-brand, Phoenix aims to further build its leadership position nationw
 
 [Data](articles/bcef68ae.json)
 
+[Extended Data](ext_articles/bcef68ae.ext.json)
+
 ---
 
 ### KIST launches new squeezable bottles for its sauce range
@@ -92,6 +128,8 @@ For 4Q 2023, SLT Group reported a year-on-year consolidated revenue degrowth of 
 
 [Data](articles/c89f9902.json)
 
+[Extended Data](ext_articles/c89f9902.ext.json)
+
 ---
 
 ### Sri Lanka Insurance Corporation General poised for strong growth following official segregation
@@ -105,6 +143,8 @@ Commenting on the outlook for SLICGL, Chandana L. Aluthgama, Group Chief Executi
 ...
 
 [Data](articles/2d0b4457.json)
+
+[Extended Data](ext_articles/2d0b4457.ext.json)
 
 ---
 
@@ -195,6 +235,8 @@ As I write this brief history I am ever reminded of the wisdom of Kahlil Gibran:
 ...
 
 [Data](articles/e22d0a52.json)
+
+[Extended Data](ext_articles/e22d0a52.ext.json)
 
 ---
 
@@ -2267,55 +2309,5 @@ Ottawa Police Service in a statement said that it responded to a home in the 300
 [Data](articles/3f6b38ee.json)
 
 [Extended Data](ext_articles/3f6b38ee.ext.json)
-
----
-
-### Three killed, two injured in hit-and-run in Anuradhapura
-
-*2024-03-09 07:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97830/three-killed-two-injured-in-hit-and-run-in-anuradhapura) · `en`
-
-Three young men have been killed and two girls were injured by a hit-and-run driver in Rambewa, Anuradhapura early this morning (March 09).
-
-Police said that a cab, which had been speeding towards Anuradhapura from Rambewa, had fled the scene after knocking down five pedestrians, returning home after attending a concert held in Rambewa.
-
-The victims were rushed to the Anuradhapura Teaching Hospital, however, the three young men were pronounced dead upon admission to the facility. Meanwhile, the two girls are currently receiving medical attention at the hospital.
-
-The deceased, aged 16, 19 and 21 years, were identified as residents of Rambewa and Pihimbiyagollewa areas.
-
-Mihintale Police has initiated investigations to apprehend the hit-and-run cab driver implicated in the deadly crash.
-
-◼️
-
-[Data](articles/cb771e8c.json)
-
-[Extended Data](ext_articles/cb771e8c.ext.json)
-
----
-
-### Three killed and three killed in cab
-
-*2024-03-09 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194308) · `si`
-
-In Anuradhapura, three died and three were injured in a cab accident after a musical show. The cab was found to be fruited.
-
-🟩
-
-Three terrifying cases have passed away from Anuradhapura, Anuradhapura.
-
-The police said that the accident had occurred today (09).
-
-The accident occurred when a group of a cab traveled by a cab.
-
-The accident had occurred after a musical show.
-
-The victims were killed in the accident and two women were injured and admitted to the Anuradhapura hospital.
-
-The police said that the cab was fruited.
-
-◼️
-
-[Data](articles/4dcbee02.json)
-
-[Extended Data](ext_articles/4dcbee02.ext.json)
 
 ---

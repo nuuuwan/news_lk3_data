@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 08:17:39**
+As of **2024-03-10 08:33:21**
 
 ## Newspaper Stats
 
-*Scraped **11,899** Articles*
+*Scraped **11,903** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 112
 bbccomsinhala | 140
-dbsjeyarajcom | 180
+dbsjeyarajcom | 181
 newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 622
 islandlk | 646
-adalk | 1,000
+adalk | 1,001
 adaderanalk | 1,446
-tamilmirrorlk | 1,447
+tamilmirrorlk | 1,448
 virakesarilk | 1,632
-dailymirrorlk | 1,819
+dailymirrorlk | 1,820
 adaderanasinhalalk | 1,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,892 (99.9%) of 11,899 articles have been extended.
+11,899 (100.0%) of 11,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Stop arresting fresh medical graduates. Arrest quack doctors: Dr. Bellana
+
+*2024-03-10 08:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stop-arresting-fresh-medical-graduates-Arrest-quack-doctors-Dr-Bellana/108-278552) · `en`
+
+Colombo, March 10 (Daily Mirror) - Deputy Director of the National Hospital, Colombo and Government Medical Officers' Forum (GMOF) president, Dr. Rukshan Bellana, claimed that in recent weeks, the police have been arresting fresh medical graduates who were practicing under the supervision of registered doctors while failing to apprehend quack doctors who claimed to be unlicensed practitioners.
+
+He told the Daily Mirror that quack doctors are unqualified, unregistered medical practitioners practicing Allopathic medicine and Ayurvedic, Homoeopathy and indigenous medicines.
+
+"Most of the fresh medical graduates usually practice under a licenced doctor until they get their government appointments. It is not illegal to serve like that because the fresh medical graduates can earn some money and experience before getting their licences. The medical graduates do not working as independent doctors, but under a registered doctor who is the responsible person," he said.
+
+...
+
+[Data](articles/0f855ec8.json)
+
+---
 
 ### Showers expected in certain parts of the country
 
@@ -46,61 +62,83 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa and Nor
 
 [Data](articles/a5d33e8a.json)
 
+[Extended Data](ext_articles/a5d33e8a.ext.json)
+
 ---
 
-### குடும்பத்தவர்களின் விருப்பப்படி இறுதிக் கிரியைகள் நடைபெறும்
+### Final works will take place at the discretion of the family
 
 *2024-03-10 07:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தவர்களின்-விருப்பப்படி-இறுதிக்-கிரியைகள்-நடைபெறும்/175-334438) · `ta`
 
-கனடா ஒட்டாவாவில் படுகொலை செய்யப்பட்ட ஆறு இலங்கையர்களின் குடும்ப உறுப்பினர்களுடன் தொடர்பு கொண்டுள்ளதாகவும், அவர்களின் கோரிக்கைகளை கனேடிய அதிகாரிகளுடன் இலங்கை உயர்ஸ்தானிகராலயம் தொடர்புகொள்வதாகவும் வெளியுறவு அமைச்சகம் தெரிவித்துள்ளது.
+The Sri Lankan High Commission in Ottawa is in contact with Canadian officials regarding the death of six Sri Lankans, including a mother, four children, and a family in Barrhaven, Ottawa on March 7, 2024. The victims' husband and father are hospitalized, and a 19-year-old Sri Lankan has been arrested. The funeral will be held at the families' discretion. The Ministry of Foreign Affairs is taking steps to support the families and is aware of the crime site, with a special awareness planned by the city governor on March 9, 2024.
 
-2024 ஆம் ஆண்டு மார்ச் மாதம் 7 ஆம் திகதி ஒட்டாவாவில் உள்ள Barrhaven இல் உள்ள ஒரு இல்லத்தில் தாய், நான்கு பிள்ளைகள் மற்றும் ஒரு குடும்பத்தில் அறிமுகமானவர் உட்பட ஆறு இலங்கையர்கள் பரிதாபமாக உயிரிழந்த சம்பவம் குறித்து ஒட்டாவாவிலுள்ள இலங்கை உயர்ஸ்தானிகராலயத்தினால் வெளிவிவகார அமைச்சுக்கு அறிவிக்கப்பட்டதாக அமைச்சகம் அறிக்கையினூடாக தெரிவித்துள்ளது.
+🟩
 
-"பாதிக்கப்பட்டவர்களின் கணவர் மற்றும் குறித்த சிறுவர்களின் தந்தையுமாகிய நபர் சம்பவ இடத்தில் காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர், அங்கு அவர் தற்போது சிகிச்சை பெற்று வருகிறார். கொலைச் சம்பவம் தொடர்பாக 19 வயதுடைய இலங்கையர் ஒருவரை சட்ட அமலாக்க அதிகாரம் கைது செய்துள்ளது. அவர் தற்போது பொலிஸ் காவலில் உள்ளார்” என்று அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+The Ministry of Foreign Affairs said that the Sri Lankan High Commission is in contact with the Canadian officials of the Six Sri Lankans in Ottawa.
+
+The Ministry of Foreign Affairs in Ottawa said that the Sri Lankan High Commission in Ottawa had been informed by the Ministry of Foreign Affairs of the Sri Lankan High Commission in Ottawa about the death of six Sri Lankans, including mother, four children and a family in Barrhaven, Ottawa on March 7, 2024.
+
+"The husband of the victims and the father of the children have been injured and hospitalized where she is currently being treated.. A 19 -year -old Sri Lankan has arrested a law enforcement authority in connection with the murder. He is currently in police custody. ”
+
+Following the release of the bodies after the autopsy, the funeral will be held in a timely manner at the will of the families of the deceased.
 
 ...
 
 [Data](articles/b18f9965.json)
 
+[Extended Data](ext_articles/b18f9965.ext.json)
+
 ---
 
-### பௌத்த மதகுருக்களின் அடையாள அட்டையில் மாற்றம்?
+### Change on the identity card of Buddhist clergy?
 
 *2024-03-10 07:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-மதகுருக்களின்-அடையாள-அட்டையில்-மாற்றம்/175-334437) · `ta`
 
-பதிவு செய்யப்படாத மத மாற்றங்களில் ஈடுபடும் மத நிலையங்களை சோதனையிட நடவடிக்கை எடுக்கப்படும் என்று புத்தசாசன, மத மற்றும் கலாச்சார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க தெரிவித்துள்ளார்.
+Buddhist clergy identity card changes: Minister Vidura Wickramanayake directs inspection of religious centers for unregistered conversions. Titles of 'worshiped' and 'bikkunis' to be included on national ID cards and passports.
 
-பதிவு செய்யப்படாத மதமாற்றங்களில் ஈடுபடும் மத நிலையங்கள் மீது சோதனை நடத்துமாறு பொலிஸ்மா அதிபருக்கு அறிவிக்குமாறு பௌத்த விவகார ஆணையாளருக்கு அமைச்சர் பணிப்புரை விடுத்துள்ளார்.
+🟩
 
-புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சில் பீடாதிபதிகள் குழுவுடனான சந்திப்பின் போதே அமைச்சர் இதனைத் தெரிவித்தார்.
+Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayake has said that steps will be taken to inspect religious centers involved in unregistered religious changes.
 
-சமய வழிபாட்டுத் தலங்கள், பௌத்த பிக்குகள் மற்றும் மதச் சிதைவுகள் தொடர்பான விடயங்கள் தொடர்பிலும் மேற்கொள்ளப்பட வேண்டிய நடவடிக்கைகள் குறித்தும் கலந்துரையாடப்பட்டது.
+The Minister has directed the Buddhist Affairs Commissioner to inform the Inspector General of Police to check the religious centers involved in unregistered conversions.
 
-தேசிய அடையாள அட்டைகள் மற்றும் கடவுச்சீட்டுகளில் பௌத்த பிக்குகளுக்கு 'வணக்கத்திற்குரியவர்' மற்றும் 'பிக்குனிகளுக்கு' 'வணக்கத்திற்குரியவர்' என்ற பட்டங்களைச் சேர்க்கவும் கூட்டத்தில் தீர்மானிக்கப்பட்டது.
+The Minister made this statement during a meeting with the Dean of the Ministry of Buddha, Religious and Cultural Affairs.
+
+Discussions were also discussed on religious places of worship, Buddhist monks and matters of religious disorders.
+
+It was also decided at the meeting to include the titles of Buddhist monks on national identity cards and passports, 'worshiped' and 'bikkunis' titles.
 
 ◼️
 
 [Data](articles/6749f615.json)
 
+[Extended Data](ext_articles/6749f615.ext.json)
+
 ---
 
-### சில பகுதிகளில் அதிகரித்த வெப்பநிலை காணப்படும்
+### In some areas found in increased temperature
 
 *2024-03-10 07:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334436) · `ta`
 
-வடக்கு,வடமத்திய,வடமேல், மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன்,மொனராகலை,  இரத்தினபுரி மற்றும் திருகோணமலை  மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Temperature increases in Northern, North Central, North Western, Western, and Southern Provinces, Moneragala, Ratnapura, and Trincomalee districts. Rain or thunderstorms expected in Galle, Matara, Kalutara, and Ratnapura districts in the evening. Snow in Sabaragamuwa, Upper and North Central Provinces, Galle, and Matara districts in the morning. Kankesanthurai winds start at 20 to 30 km/h from Trincomalee, Pottuvil, Hambantota, and Matara, affecting the east or northeastern direction and other parts of the country. Maritime regions moderate wave conditions expected.
 
-காலி, மாத்தறை, களுத்துறை மற்றும் இரத்தினபுரி  மாவட்டங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய  மழை பெய்யக்கூடிய வாய்ப்பு காணப்படுகின்றது.
+🟩
 
-சப்ரகமுவ, மேல் மற்றும் வடமத்திய  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் பனிமூட்டம் காணப்படும்.
+The Department of Meteorology said that the temperature will be seen in the Northern, North Central, North Western, Western and Southern Provinces as well as in Moneragala, Ratnapura and Trincomalee districts today.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் காங்கேசன்துறை  தொடக்கம் திருகோணமலை, பொத்துவில், ஹம்பாந்தோட்டை ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களில் கிழக்கு அல்லது வடகிழக்குத் திசையில் இருந்தும் நாட்டை சூழ உள்ள ஏனைய கடல் பிராந்தியங்களில் மாறுபட்ட திசைகளில் இருந்தும் காற்று வீசும்.
+There is a chance of rain or thunderstorms in the evening or night in some areas of Galle, Matara, Kalutara and Ratnapura districts.
 
-நாட்டை சூழ உள்ள கடல் பிராந்தியங்கள் மிதமான அலையுடன் காணப்படும் என எதிர்வு கூறப்பட்டுள்ளது.
+In the morning, the snow will be seen in some parts of the Sabaragamuwa, Upper and North Central Provinces as well as the Galle and Matara districts.
+
+In the sea regions, the Kankesanthurai starts at the beginning of 20 to 30 km / h, from Trincomalee, Pottuvil and Hambantota via Matara, in the east or northeastern direction and other directions in the country.
+
+The maritime regions around the country are expected to be in a moderate wave.
 
 ◼️
 
 [Data](articles/151be9e0.json)
+
+[Extended Data](ext_articles/151be9e0.ext.json)
 
 ---
 
@@ -172,21 +210,43 @@ The Department of Meteorology said that in some places in the Western, Sabaragam
 
 ---
 
-### இலங்கையர்களை அழைத்து வர நடவடிக்கை
+### அந்நியச் செலாவணி வருமானம் அதிகரிப்பு
+
+*2024-03-10 03:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்நியச்-செலாவணி-வருமானம்-அதிகரிப்பு/175-334434) · `ta`
+
+வெளிநாட்டுப் பணியாளர்கள் மூலம் நாட்டிற்கு கடந்த பெப்ரவரி மாதத்தில் 476 மில்லியன் அமெரிக்க டொலர் அந்நியச் செலாவணி கிடைக்கப்பெற்றுள்ளதாக தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு தெரிவித்துள்ளது.
+
+கடந்த வருடம் பெப்ரவரி மாதத்துடன் ஒப்பிடும் போது, இந்த வருடம் 14 வீத அந்நியச் செலாவணி அதிகரித்துள்ளதாக அமைச்சு குறிப்பிட்டுள்ளது.
+
+இலத்திரனியல் வாகன இறக்குமதிக்கு அனுமதி வழங்கியமை, பல்நோக்கு கடன் திட்டத்தை அமுல்படுத்தியமை, ஓய்வூதிய முறையை அறிமுகப்படுத்தியமை உள்ளிட்ட திட்டங்கள் காரணமாக இந்த அதிகரிப்பு ஏற்பட்டுள்ளதாக சுட்டிக்காட்டப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/c64bfc6c.json)
+
+---
+
+### Action to bring Sri Lankans
 
 *2024-03-10 03:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-அழைத்து-வர-நடவடிக்கை/175-334433) · `ta`
 
-செங்கடலில் ஹவுதி கிளர்ச்சியாளர்களின் தாக்குதலுக்கு இலக்கான கப்பலில் இருந்து மீட்கப்பட்ட இலங்கையர்கள் இருவரையும் விரைவில் நாட்டிற்கு அழைத்து வர நடவடிக்கை எடுக்கப்படும் என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Sri Lankan Foreign Ministry is taking measures to return two Sri Lankans rescued from a ship attacked by a drone missile in the Red Sea, with the Sri Lankan Ambassador to Ethiopia involved. The attack occurred on a vessel traveling from China to Jeddah, and the ship's crew was saved by the Indian Navy's Kolkata Knight Ship.
 
-எத்தியோப்பியாவிற்கான இலங்கை தூதுவரால் இருவரையும் நாட்டிற்கு திருப்பி அனுப்புவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன என வெளிவெளிகார அமைச்சு கூறியுள்ளது.
+🟩
 
-சீனாவிலிருந்து ஜெட்டா நோக்கி பயணித்துக்கொண்டிருந்த   வணிகக் கப்பல் மீது கடந்த வியாழக்கிழமை ட்ரோன் ஏவுகணைத் தாக்குதல் மேற்கொள்ளப்பட்டது.
+The Foreign Ministry has said that steps will be taken to bring the two Sri Lankans who have been rescued from the ship's attack on the Red Sea in the Red Sea.
 
-கப்பலில் இருந்த பணியாளர்கள், இந்திய கடற்படைக்கு சொந்தமான கொல்கத்தா போர்க் கப்பல் மூலம் மீட்கப்பட்டுள்ளனர்.
+The Ministry of External Affairs said that steps are being taken to return the two men to the country by the Sri Lankan Ambassador to Ethiopia.
+
+The drone missile attack was launched last Thursday on a business vessel traveling from China to Jeddah.
+
+Staff on the ship have been rescued by the Indian Navy's Kolkata Knight Ship.
 
 ◼️
 
 [Data](articles/b508b7b6.json)
+
+[Extended Data](ext_articles/b508b7b6.ext.json)
 
 ---
 
@@ -591,6 +651,24 @@ Sri Lanka change the existing electricity law to allow non-competitive tendering
 [Data](articles/62fcebee.json)
 
 [Extended Data](ext_articles/62fcebee.ext.json)
+
+---
+
+### සිංහයෝ හමුවේ කොටියෝ පසු බසිති
+
+*2024-03-09 19:24:24* · [`adalk`](https://www.ada.lk/sports/සිංහයෝ-හමුවේ-කොටියෝ-පසු-බසිති/9-408504) · `si`
+
+සත්කාරක බංග්ලාදේශ කණ්ඩායම ලකුණු 28කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති තෙවැනි විස්සයි20 තරගයද ජයගත් ශ්‍රී ලංකා කණ්ඩායම තරග තුනකින් සමන්විත විස්සයි0 තරගාවලියද 2-1ක් ලෙස ජයගත්තේය.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 174/7ක් රැස්කිරිමට සමත්විය පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශයට රැස් කළ හැකිවූයේ ලකුණු 146ක් පමණි.
+
+මෙම තරගයේදී ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක ණුවන් තුෂාර කඩුලු ත්‍රිත්වයක්ද සමගින් ලකුණු 20ට කඩුලු පහක් දවා ගැනීමට සමත්විය. ඒ අනුව ඔහු තරගයේ වීරයා ලෙසද සම්මාන ලැබීය.
+
+ශ්‍රී ලංකාව වෙනුවෙන් විශිෂ්ඨ ඉනිමක් ක්‍රීඩා කළ කුසල් මෙන්ඩිස් පන්දු 55කදී ලකුණු 86ක් රැස් කිරීමට සමත්වූයේ හතරේ පහර හයක් හා හයේ පහර හයක් සමගිනි. තරගාවලියේදී ඔහු ලකුණු 181 රැස් කළ අතර ඒ අනුව ඔහු තරගාවලියේ වීරයා ලෙසින්ද සම්මාන ලැබීය.
+
+◼️
+
+[Data](articles/a86bb659.json)
 
 ---
 
@@ -2241,71 +2319,5 @@ Three male youths aged between 16 and 21 succumbed to their injuries while two f
 [Data](articles/d770f441.json)
 
 [Extended Data](ext_articles/d770f441.ext.json)
-
----
-
-### First elephant breeding ground, hospital opened in Habarana
-
-*2024-03-09 08:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-elephant-breeding-ground-hospital-opened-in-Habarana/108-278537) · `en`
-
-The first private elephant breeding ground and hospital for domesticated elephants was opened on Thursday in the Habarana area.
-
-This project has been initiated according to a concept of S.N. Roshan of Maharagama, the owner of the female elephant “Sita” who was shot at during the Mahiyangana Esala festival by a member of the Civil Defence Force.
-
-The convalescent female elephant Sita and another tusker had been brought to the opening ceremony of the hospital and breeding ground where the first breeding took place.
-
-A traditional owner of elephants Roshan said facilities were available at the hospital and the breeding center to train mahouts. He pointed out that his she elephant Sita survived due to the efforts of the veterinary surgeons at Peradeniya Veterinary Science Faculty.
-
-He said a shortage of domesticated elephants for religious and cultural ceremonies has been felt and that it is imperative that particular attention should be paid on protecting the available domestic elephants.
-
-◼️
-
-[Data](articles/fa5356cf.json)
-
-[Extended Data](ext_articles/fa5356cf.ext.json)
-
----
-
-### At least 287 school children kidnapped by armed gunmen in Nigeria
-
-*2024-03-09 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97832/at-least-287-school-children-kidnapped-by-armed-gunmen-in-nigeria) · `en`
-
-At least 287 school children, some as young as eight years old, are being held by gunmen who raided their school in Nigeria’s northwestern Kaduna State early Thursday, a police spokesperson told CNN Friday.
-
-More than 300 students were taken early Thursday by the armed bandits on motorcycles who stormed the LEA Primary and Secondary School in the Kuriga village of Kaduna’s Chikun district, the state’s police spokesman Mansur Hassan said.
-
-Some of the students were rescued but 287 of them remain with the kidnappers, Hassan said.
-
-“Students were kidnapped from the school premises on Thursday morning around 8:00 am (local time). About 287 students are still in the hands of the bandits, 100 from the primary side and 187 from the secondary school,” Hassan said, adding that “over 300 students were initially kidnapped, but some were rescued.”
-
-...
-
-[Data](articles/7fcb2862.json)
-
-[Extended Data](ext_articles/7fcb2862.ext.json)
-
----
-
-### Three injured in an accident
-
-*2024-03-09 08:31:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விபத்தில்-மூவர்-காயம்/175-334408) · `ta`
-
-Three, including parliamentarian Selvarajah Gajendran, were injured in Vedukkuni Mountain. One was treated at Nedungeni Hospital, then Vavuniya Hospital. Tension arose between police and devotees over water supply to Adisivan Temple in Vavuniya North, leading to roadblocks and disruptions.
-
-🟩
-
-Three persons, including parliamentarian Selvarajah Gajendran, were injured when a drinking water machine was carried out in the Vedukkuni Mountain.
-
-One of them was admitted to the Nedungeni Hospital and later transferred to the Vavuniya Hospital for further treatment.
-
-There was tension between the police and the devotees as the police refused to provide drinking water to the people who visited the Adisivan Temple in Vavuniya North.
-
-The police, who had put on roadblocks since morning, were disrupted to carry drinking water inside the temple premises.. Drinking water supply was carried out amidst severe rhetoric.
-
-◼️
-
-[Data](articles/9354d83e.json)
-
-[Extended Data](ext_articles/9354d83e.ext.json)
 
 ---

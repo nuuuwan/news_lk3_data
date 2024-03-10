@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 10:33:16**
+As of **2024-03-10 10:51:05**
 
 ## Newspaper Stats
 
-*Scraped **11,912** Articles*
+*Scraped **11,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,003
 adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
-dailymirrorlk | 1,820
+dailymirrorlk | 1,821
 adaderanasinhalalk | 1,878
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,912 (100.0%) of 11,912 articles have been extended.
+11,912 (100.0%) of 11,913 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,28 @@ However, Israeli troops say they are being terrorists in search of terrorists.
 [Data](articles/bcc9a666.json)
 
 [Extended Data](ext_articles/bcc9a666.ext.json)
+
+---
+
+### Risk of increase in rabies if free-roaming dog population is not controlled: Health suthorities
+
+*2024-03-10 09:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Risk-of-increase-in-rabies-if-free-roaming-dog-population-is-not-controlled-Health-suthorities/108-278553) · `en`
+
+Health authorities warn that there is a risk of an increase in rabies due to the abscence of a proper programme to control the free-roaming dog population in the country.
+
+According to their latest statistics, it has been revealed that more than six million stray dogs are roaming freely around the country, and health authorities pointed out that the programme to perform sterilisation surgery for these dogs has also been crippled.
+
+A large number of dogs are seen roaming freely around the country, including in Colombo and in public places.
+
+Health authorities point out that this situation has now become a serious health and social problem.
+
+The health authorities also point out that although various programmes have been implemented in the past with the aim of controlling rabies and the dog population, the lack of proper implementation of such programmes has led to this situation.
+
+A total of 16 people have died after being bitten by stray dogs last year.
+
+...
+
+[Data](articles/d16de576.json)
 
 ---
 
@@ -2343,25 +2365,5 @@ Accordingly, the children need not leave their schools but can continue for anot
 [Data](articles/324587f0.json)
 
 [Extended Data](ext_articles/324587f0.ext.json)
-
----
-
-### Thundershowers may be rained at night
-
-*2024-03-09 10:14:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவில்-இடியுடன்-கூடிய-மழை-பெய்யக்-கூடும்/175-334413) · `ta`
-
-The Department of Meteorology predicts rain or thunderstorms in Western and Sabaragamuwa Provinces, and snow in Galle and Matara districts.
-
-🟩
-
-The Department of Meteorology has said that there will be rain or thunderstorms in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In the morning, in some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts, snow is expected in the morning.
-
-◼️
-
-[Data](articles/841501a0.json)
-
-[Extended Data](ext_articles/841501a0.ext.json)
 
 ---

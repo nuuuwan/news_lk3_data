@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 06:56:47**
+As of **2024-03-10 07:17:12**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 1,873
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,882 (99.9%) of 11,890 articles have been extended.
+11,886 (100.0%) of 11,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### අද කාලගුණය
+### Weather today
 
 *2024-03-10 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194334) · `si`
 
-රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (10) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today, showers or thundershowers will occur in Ratnapura, Kalutara, Galle, and Matara districts, with dry weather elsewhere.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියලි කාලගුණික තත්ත්වයක් පවතින බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ උතුරුමැද පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුටත් පැවසීය.
+Showers or thundershowers will occur at several places in the Ratnapura, Kalutara, Galle and Matara districts today (10).
+
+The department states that there is mainly dry weather in the rest of the island.
+
+The Department of Meteorology said that in some places in the Western, Sabaragamuwa and North Central provinces, in the Galle and Matara districts, the Department of Meteorology said.
 
 ◼️
 
 [Data](articles/13c05b97.json)
 
+[Extended Data](ext_articles/13c05b97.ext.json)
+
 ---
 
-### அதிக வெப்பத்தால் கண் நோய் ஏற்படும் சாத்தியம்
+### The possibility of eye disease caused by high heat
 
 *2024-03-10 03:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பத்தால்-கண்-நோய்-ஏற்படும்-சாத்தியம்/175-334432) · `ta`
 
-அதிக வெப்பம் காரணமாக கண் நோய்கள் ஏற்படும் சாத்தியங்கள் காணப்படுகின்றன என  கண் மருத்துவ நிபுணர்கள் தெரிவித்துள்ளனர்.
+Experts warn of eye diseases from excessive heat, highlighting sunlight damage and the importance of hydration. Dr. Madhuvandi Dissanayake, a professor at the University of Colombo, emphasizes the risk for computer users and those with pre-existing eye conditions.
 
-சூரிய ஒளி நேரடியாக கண்ணில் பட்டால், அதன் செல்கள் சேதமடைவதுடன், விழிப்புலன் இழக்கப்படலாமென கொழும்பு பல்கலைக்கழக மருத்துவ பீடத்தின் பேராசிரியர், கண் சத்திரசிகிச்சை நிபுணர் வைத்தியர் மதுவந்தி திசாநாயக்க தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன், வெப்பம் காரணமாக கண் வறட்சி ஏற்படும் என்பதினால், தேவையான நீராகாரங்களை உட்கொள்வது அவசியமென அவர் தெரிவித்துள்ளார்.
+Ophthalmology experts say that there are feasions of eye diseases due to excessive heat.
 
-கணினி பாவனை அதிகம் உள்ள நபர்கள் மற்றும் ஏற்கனவே கண் நோய் உள்ளவர்களுக்கு பாதிப்புகள் அதிகரிக்கக் கூடும் எனவும் அவர் எச்சரிக்கை விடுத்துள்ளார். (a)
+Dr. Madhuvandi Dissanayake, a professor of the Faculty of the University of Colombo, said that if the sunlight is directly visible, its cells will be damaged and the awareness can be lost.
+
+He also said that it is necessary to consume the necessary water, as the heat is caused by the heat.
+
+He also warned that people with computer use and those who already have eye disease could increase the effects. (A)
 
 ◼️
 
 [Data](articles/2ecf61e2.json)
+
+[Extended Data](ext_articles/2ecf61e2.ext.json)
 
 ---
 
@@ -492,6 +504,8 @@ In the heart of Sri Lanka’s lush central province lies a sanctuary of natural 
 
 [Data](articles/224a8fc3.json)
 
+[Extended Data](ext_articles/224a8fc3.ext.json)
+
 ---
 
 ### Two memorable years in Jaffna
@@ -503,6 +517,8 @@ Reading the late ACB Pethiyagoda’s memoir of his time at Jaffna College, Vaduk
 ...
 
 [Data](articles/ee8c91d4.json)
+
+[Extended Data](ext_articles/ee8c91d4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 01:51:07**
+As of **2024-03-11 02:02:54**
 
 ## Newspaper Stats
 
-*Scraped **12,015** Articles*
+*Scraped **12,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
-virakesarilk | 1,643
+virakesarilk | 1,644
 dailymirrorlk | 1,840
 adaderanasinhalalk | 1,898
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,011 (100.0%) of 12,015 articles have been extended.
+12,015 (100.0%) of 12,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### வெடுக்குநாறி தாக்குதல் சம்பவம் :  தமிழர்கள் மீதான அப்பட்டமான திட்டமிடப்பட்ட கலாசாரப் பண்பாட்டு இன அழிப்பு - மணிவண்ணன் கண்டனம்
+
+*2024-03-11 01:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178387) · `ta`
+
+சிவ பக்தர்களுக்குரிய கவலைகள் நீங்கி, காரிய வெற்றியை தரக் கூடிய நாள் மகா சிவராத்திரி விரத நாளாகும். அந் நாளில் சிவாலயங்களில் பக்கத்தர்கள் இரவு முழுவதும் கண் விழித்து ஓம் நமச்சியவாய என்று திரு நாமத்தை உச்சாடனம் செய்வார்கள்.
+
+அவ்வாறே தமிழர்களின் மிகத் தொன்மையான வெடுக்குநாரி ஆதிசிவன் ஆலயத்திலும் சிவபக்தவர்கள் ஒன்று கூடி சிவபெருமானுக்கு ஆராதனைகளைச் செய்தார்கள். அந் நேரத்தில் சிவபூஜையில் கரடி போல் உள்நுழைந்த பொலிசார் அங்கிருந்த சிவபகத்தர்கள் மீது தாக்குதல் நடத்தி வலுக்கட்டயமாக வெளியேற்றியதோடு ஆதிசிவனக்கு படைசெய்வதற்காக கொண்டு வந்து பொருட்களையும் தூக்கி வீசியமை மிலேச்சத்தமான காட்டு மிராண்டித்தனமான செயலாகும் என முன்னாள் யாழ்.மாநகர முதல்வர் வி.மணிவண்ணன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b4b2214f.json)
+
+---
 
 ### India’s Deputy High Commissioner visits DP Education IT Campus in Jaffna
 
@@ -47,6 +61,8 @@ The nine DP Education IT Campuses are being maintained in partnership with MP an
 ◼️
 
 [Data](articles/224e914e.json)
+
+[Extended Data](ext_articles/224e914e.ext.json)
 
 ---
 
@@ -66,6 +82,8 @@ As an accomplished Global Operations Strategist and Sustainability Leader Thanuj
 
 [Data](articles/973d29d2.json)
 
+[Extended Data](ext_articles/973d29d2.ext.json)
+
 ---
 
 ### Kanchana inaugurates 2 MW Ground Mount Solar Project in Batticaloa
@@ -81,6 +99,8 @@ It aligns with the Government’s vision of increasing the share of renewable en
 ◼️
 
 [Data](articles/8c7480be.json)
+
+[Extended Data](ext_articles/8c7480be.ext.json)
 
 ---
 
@@ -123,6 +143,8 @@ The tea factory, operating under stringent quality standards certified by ISO 22
 ...
 
 [Data](articles/523c65fe.json)
+
+[Extended Data](ext_articles/523c65fe.ext.json)
 
 ---
 
@@ -2269,37 +2291,5 @@ The murdered girl had gone to a rented house in Nanayakkara and the mother of th
 [Data](articles/1a14922a.json)
 
 [Extended Data](ext_articles/1a14922a.ext.json)
-
----
-
-### Police Release
-
-*2024-03-10 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194338) · `si`
-
-Police in Elpitiya and Karandeniya are investigating the murder of a 17-year-old girl from Kalgama, Karandeniya, following a dispute with a suspect. The suspect, who had been living in a rented house in Elpitiya, is suspected of the crime and has fled. Further investigations are ongoing.
-
-🟩
-
-Police have issued a statement regarding the murder of 17-year-old girl in the Elpitiya Police Division.
-
-The girl had resided with her parents and had been residents of Kalgama, Karandeniya, police said.
-
-The suspection revealed that the suspect and the suspect had been living in a rented house in Elpitiya a few months ago, police said.
-
-Due to a dispute between the two, the girl had returned home to his mother.
-
-The complaint lodged a complaint with the Karandeniya police station on a threat to the man who held the paramour.
-
-The suspect had come to a three-wheeler with several others on the occasion of the complaint.
-
-The police suspect that the murder had been carried out by the suspect, he has fled the area.
-
-Elpitiya and Karandeniya police are conducting further investigations.
-
-◼️
-
-[Data](articles/9da20e88.json)
-
-[Extended Data](ext_articles/9da20e88.ext.json)
 
 ---

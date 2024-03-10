@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 00:17:47**
+As of **2024-03-11 00:32:58**
 
 ## Newspaper Stats
 
-*Scraped **12,003** Articles*
+*Scraped **12,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,37 +12,83 @@ colombotelegraphcom | 113
 bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
-dailyftlk | 617
+dailyftlk | 620
 economynextcom | 626
 islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
 virakesarilk | 1,641
-dailymirrorlk | 1,838
+dailymirrorlk | 1,840
 adaderanasinhalalk | 1,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,002 (100.0%) of 12,003 articles have been extended.
+12,003 (100.0%) of 12,008 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-11 (Monday)
+
+### COMMONWEALTH DAY: Commonwealth family: A strong and respected voice in the world
+
+*2024-03-11 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/COMMONWEALTH-DAY-Commonwealth-family-A-strong-and-respected-voice-in-the-world/172-278570) · `en`
+
+RT HON LORD CAMERON, SECRETARY OF STATE FOR FOREIGN, COMMONWEALTH AND DEVELOPMENT AFFAIRS
+
+A dedicated Commonwealth hub has helped to mobilise more than $310m of climate finance for our small island members since 2016.
+
+On 11 March, some 2.5 billion of us will come together to celebrate the Commonwealth family. Seventy five years after the London Declaration, I will join this family’s many nations, faiths and communities at a service at Westminster Abbey.
+
+I was Prime Minister when the Commonwealth agreed a new Charter, a milestone in our family’s history. For the first time, we had a single document setting out our core values and shared goals.
+
+Today, as Foreign Secretary, I want our family of nations working in partnership to uphold these values and fulfil these goals. I am proud of the work Commonwealth members do in partnership in areas ranging from the rule of law to protecting the environment.
+
+...
+
+[Data](articles/c8b4b283.json)
+
+---
+
+### UNHRC Robust on Lanka, Hypocrisy in Gaza - EDITORIAL
+
+*2024-03-11 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/UNHRC-Robust-on-Lanka-Hypocrisy-in-Gaza-EDITORIAL/172-278574) · `en`
+
+Earlier this month, the United Nations Human Rights Commission (UNHRC) once again took up the issue of its resolution on “Promoting Reconciliation, Accountability and Human Rights in Sri Lanka”. We also heard for the umpteenth time representatives of western nations pontificate on how wars should be conducted with minimum loss to civilians, women and children.
+
+Believe it or not, it is we Lankans who have undergone civil conflicts on three or more occasions. It was after all our men and women (brothers, sisters, husbands, wives and children) who paid the price in blood, sweat and tears. It was we who suffered the pain of inquisition. We have seen it all and still feel the pain.
+
+War means killing and being killed. The rules of war – the protection of women, children and non combatants – are often ignored during armed conflicts. However, the cold-blooded killing of civilians is not only a war crime, but a crime against humanity and cannot be tolerated.
+
+...
+
+[Data](articles/ab7fe708.json)
+
+---
+
 ### 2024-03-10 (Sunday)
 
-### வெடுக்குநாறிமலை ஆதி சிவன் கோவில் சிவராத்திரியில் பொலிஸாரின் அட்டூழியங்கள்: நல்லூரில் போராட்டத்திற்கு அழைப்பு
+### Atrocities of Police at Sivaratri
 
 *2024-03-10 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178384) · `ta`
 
-வெடுக்குநாறி மலை ஆதி சிவன் கோவில் மகா சிவராத்திரி பூசையின் போது பொலிஸாரின் அட்டூழியங்களைக் கண்டித்தும், கைது செய்தோரை  உடன் விடுதலை செய்யவும் வலியுறுத்தி திங்கட்கிழமை (11) மாலை 04 மணியளவில் நல்லை ஆதீன முன்றலில்  கவனயீர்ப்பு போராட்டம் இடம்பெறவுள்ளதாகவும், இந்தப் போராட்டத்தில் அனைவரையும் அணிதிரளுமாறும் ஒருங்கிணைந்த தமிழர் கட்டமைப்புச் சார்பாக அதன் தலைமை ஒருங்கிணைப்பாளர் தவத்திரு. அகத்தியர் அடிகளார் அழைப்பு விடுத்துள்ளார்.
+During Maha Shivaratri at the Adi Shivan Temple, police actions during the Vedukkunni Mountain Lingeshwara Temple Pooja caused significant distress to the Tamil community. Incidents included insulting sacred rituals and the arrest of Sivanadiyas and priests. It's crucial for Tamils to raise awareness about these violations of basic worship.
 
-வெடுக்குநாறி மலை லிங்கேஸ்வரர் கோவில் மகா சிவராத்திரி பூசையின் போது பொலிசாரால் மேற்கொள்ளப்பட்ட சம்பவங்கள் ஒட்டு மொத்த தமிழ் சமூகத்தையும் மிகுந்த மன வேதனைக்கு உள்ளாக்கி இருக்கின்றது. சைவர்களின் வழிபாட்டு உரிமை மிகப் புனிதமான விரத நாளில் அப்பட்டமாக மறுக்கப்பட்டு மிக மோசமாக சைவ சமய விழுமியங்களை புனித சடங்குகளை அவமதிக்கும் சம்பவங்கள் அரங்கேறியிருக்கின்றன.
+🟩
+
+During the Maha Shivaratri Pooja of the Adi Shivan Temple, the Maha Shivaratri Prayer of the Vedukkunnu Mountains, the Atrocities of the Nallai Athena will be held at 4 pm on Monday (11) at 4 pm, demanding the release of the arrests and the arrests will be held on Monday (11).. Agathiyar Adikallar called.
+
+The incidents carried out by the police during the Maha Shivaratri Pooja of the Vedukkunni Mountain Lingeshwara Temple have caused great pain to the entire Tamil community. On the occasion of the sacred fast on the sacred fasting of the Saivites, there have been incidents of insulting the sacred rituals of the worst vegetarian rituals.
+
+The Sivanadiyas, who have not been wronged at the peak of its peak, have been badly arrested and detained for the moment when the number of fasters.. Poosa and invasive items have been removed by uniforms with uniforms. The priest Sivathiru Mathimukarasa has been arrested.
 
 ...
 
 [Data](articles/2c6ea31e.json)
+
+[Extended Data](ext_articles/2c6ea31e.ext.json)
 
 ---
 
@@ -111,6 +157,38 @@ Do not stop Shiva worship, do not prevent Shiva worship, Sinhala repression on S
 [Data](articles/0a6483db.json)
 
 [Extended Data](ext_articles/0a6483db.ext.json)
+
+---
+
+### Civil society organisations, individuals express concerns over proposed Truth Unity and Reconciliation Commission
+
+*2024-03-10 22:50:53* · [`dailyftlk`](https://www.ft.lk/opinion/Civil-society-organisations-individuals-express-concerns-over-proposed-Truth-Unity-and-Reconciliation-Commission/14-759320) · `en`
+
+Over 30 organisations and 40 individuals and activists have written to the Interim Secretariat for Truth and Reconciliation Mechanism Director General Dr. Asanga Gunawansa expressing concerns regarding the proposed Truth Unity and Reconciliation Commission (TURC).
+
+We, activists, and civil society organisations from, as well as working in the North and the East with war affected communities write to you regarding the proposed Commission for Truth, Unity and Reconciliation (hereinafter the Commission). Some of us have engaged with the Interim Secretariat for Truth and Reconciliation Mechanisms (ISTRM), including attending the meetings organised by the Secretariat on 9 and/or 26 February 2024 to discuss the proposed Commission.
+
+...
+
+[Data](articles/e5785be1.json)
+
+---
+
+### “Yukthiya” or “Ayukthiya”
+
+*2024-03-10 22:48:13* · [`dailyftlk`](https://www.ft.lk/opinion/Yukthiya-or-Ayukthiya/14-759319) · `en`
+
+Narcotics officers suspected of insider crime allegedly reappointed to key positions after bail, murder of informants and threats to investigators
+
+“Is this why Sri Lanka never recovers from the ‘cancerous’ drug menace?” ask activists
+
+The scourge of the drug menace has long been one of Sri Lanka’s main problems in achieving prosperity and the social wellbeing of its people. For decades, there have been thousands upon thousands of reports on various drug busts and prosecutions. Yet daily the numbers of drug users in the Country increase and the quantities of narcotics recovered keep going higher and higher, with many of the cases making headlines in the news.
+
+The recent “Yukthiya” operation initiated by the new IGP Deshabandu Tennakoon and Public Security Minister Tiran Alles has been cited as the “operation that will save the future generation of the country” by the Minister. The IGP has pledged to “dedicate the maximum capacity of the Sri Lanka Police Force” to the same.
+
+...
+
+[Data](articles/8007d68a.json)
 
 ---
 
@@ -287,6 +365,20 @@ Sri Lanka captain Wanindu Hasaranga, after lifting the T20 trophy at the end of 
 [Data](articles/1c3eb485.json)
 
 [Extended Data](ext_articles/1c3eb485.ext.json)
+
+---
+
+### Amazing salary hike for CBSL: Abusing the privilege to fill one’s own plate?
+
+*2024-03-10 20:51:42* · [`dailyftlk`](https://www.ft.lk/columns/Amazing-salary-hike-for-CBSL-Abusing-the-privilege-to-fill-one-s-own-plate/4-759306) · `en`
+
+The recent huge and unparalleled salary increase taken upon themselves by the Central Bank of Sri Lanka (mis)using the independence given by the International Monetary Fund (IMF) to its staff has dumbfounded the entire nation.
+
+According to the sources attributed to the Central Bank of Sri Lanka (CBSL), the justifications for the increase were that the remunerations of the staff of CBSL were not paid out of the consolidated fund, its recent independence given by CBSL Act, No. 16 of 2023 could not be subject to question by anyone, such a hike was needed to control the brain drain and to suit the salary benchmark of other financial institutions, and it was as per the triennial collective agreement.
+
+...
+
+[Data](articles/81b80b93.json)
 
 ---
 
@@ -2223,127 +2315,5 @@ The account actively encourages “life skills, promoting compulsory savings, pr
 [Data](articles/cfd71fb6.json)
 
 [Extended Data](ext_articles/cfd71fb6.ext.json)
-
----
-
-### Change on the identity card of Buddhist clergy?
-
-*2024-03-10 07:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-மதகுருக்களின்-அடையாள-அட்டையில்-மாற்றம்/175-334437) · `ta`
-
-Buddhist clergy identity card changes: Minister Vidura Wickramanayake directs inspection of religious centers for unregistered conversions. Titles of 'worshiped' and 'bikkunis' to be included on national ID cards and passports.
-
-🟩
-
-Buddha Sasana, Religious and Cultural Affairs Minister Vidura Wickramanayake has said that steps will be taken to inspect religious centers involved in unregistered religious changes.
-
-The Minister has directed the Buddhist Affairs Commissioner to inform the Inspector General of Police to check the religious centers involved in unregistered conversions.
-
-The Minister made this statement during a meeting with the Dean of the Ministry of Buddha, Religious and Cultural Affairs.
-
-Discussions were also discussed on religious places of worship, Buddhist monks and matters of religious disorders.
-
-It was also decided at the meeting to include the titles of Buddhist monks on national identity cards and passports, 'worshiped' and 'bikkunis' titles.
-
-◼️
-
-[Data](articles/6749f615.json)
-
-[Extended Data](ext_articles/6749f615.ext.json)
-
----
-
-### In some areas found in increased temperature
-
-*2024-03-10 07:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334436) · `ta`
-
-Temperature increases in Northern, North Central, North Western, Western, and Southern Provinces, Moneragala, Ratnapura, and Trincomalee districts. Rain or thunderstorms expected in Galle, Matara, Kalutara, and Ratnapura districts in the evening. Snow in Sabaragamuwa, Upper and North Central Provinces, Galle, and Matara districts in the morning. Kankesanthurai winds start at 20 to 30 km/h from Trincomalee, Pottuvil, Hambantota, and Matara, affecting the east or northeastern direction and other parts of the country. Maritime regions moderate wave conditions expected.
-
-🟩
-
-The Department of Meteorology said that the temperature will be seen in the Northern, North Central, North Western, Western and Southern Provinces as well as in Moneragala, Ratnapura and Trincomalee districts today.
-
-There is a chance of rain or thunderstorms in the evening or night in some areas of Galle, Matara, Kalutara and Ratnapura districts.
-
-In the morning, the snow will be seen in some parts of the Sabaragamuwa, Upper and North Central Provinces as well as the Galle and Matara districts.
-
-In the sea regions, the Kankesanthurai starts at the beginning of 20 to 30 km / h, from Trincomalee, Pottuvil and Hambantota via Matara, in the east or northeastern direction and other directions in the country.
-
-The maritime regions around the country are expected to be in a moderate wave.
-
-◼️
-
-[Data](articles/151be9e0.json)
-
-[Extended Data](ext_articles/151be9e0.ext.json)
-
----
-
-### Ravens catching a large fire in Rawana Ella Reserve
-
-*2024-03-10 07:26:05* · [`adalk`](https://www.ada.lk/breaking_news/රාවණා-ඇල්ල-රක්ෂිතයේ-විශාල-ගින්නක්-පාලනය-කරයි/11-408505) · `si`
-
-A large fire in Rawana Ella Reserve, believed unintentional, has been extinguished with the help of local authorities. The Disaster Management Center (DMC) and wildlife officials are investigating.
-
-🟩
-
-The Disaster Management Center (DMC) said that the LTTE was a large fire in the Ella Ravana Falls in the Ella Ravana Falls.
-
-The fire had occurred in the Gouzu area of the Ella Ravana Falls.. Wildlife officials said there was a fire that no one had spread.
-
-Wildlife Officers Police and Disaster Relief Services Officers were playing with the residents of the area to extinguish fastest with dry weather conditions and winds.
-
-This fire had spread in an area of high environmental value. The Ella Police have launched an investigation into the matter.
-
-◼️
-
-[Data](articles/264b5cea.json)
-
-[Extended Data](ext_articles/264b5cea.ext.json)
-
----
-
-### The World's Queen Christina
-
-*2024-03-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194336) · `si`
-
-Christina, the world's queen, won the 100th World Queen title in Mumbai, India, attended by 115 countries. Syriya Shetty, 22, became India's first queen after 28 years.
-
-🟩
-
-The queen of the world has won the queen of the world.
-
-The 100th World Queen crushing was held in the Mumbai, India and was held in the night.
-
-In 115 countries, 115 countries were present at the event.
-
-After 28 years, the 22-year-old Syriya Shetty is the first eight of India.
-
-◼️
-
-[Data](articles/8b3f05a0.json)
-
-[Extended Data](ext_articles/8b3f05a0.ext.json)
-
----
-
-### Local Government Agencies perform
-
-*2024-03-10 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194335) · `si`
-
-The State Minister of Public Administration and Home Affairs, Janaka Wakkumbura, has assured immediate action to establish 8,400 employees in local government bodies, with cabinet approval received.
-
-🟩
-
-State Minister of Public Administration and Home Affairs Janaka Wakkumbura says that immediate action will be taken to ensure employees in local government bodies.
-
-He also said that the cabinet approval has been received so far.
-
-Accordingly, 8,400 employees of local government will be established.
-
-◼️
-
-[Data](articles/a3ea9030.json)
-
-[Extended Data](ext_articles/a3ea9030.ext.json)
 
 ---

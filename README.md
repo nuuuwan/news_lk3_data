@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 21:52:04**
+As of **2024-03-10 22:04:14**
 
 ## Newspaper Stats
 
-*Scraped **11,992** Articles*
+*Scraped **11,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,017
-adaderanalk | 1,457
+adaderanalk | 1,458
 tamilmirrorlk | 1,462
-virakesarilk | 1,637
+virakesarilk | 1,638
 dailymirrorlk | 1,837
 adaderanasinhalalk | 1,897
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,897
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,990 (100.0%) of 11,992 articles have been extended.
+11,992 (100.0%) of 11,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Pope Francis’ ‘white flag’ comment is met by criticism from Ukraine and its allies
+
+*2024-03-10 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97859/pope-francis-white-flag-comment-is-met-by-criticism-from-ukraine-and-its-allies) · `en`
+
+Ukrainian and allied officials criticized Pope Francis for saying that Kyiv should have the “courage” to negotiate an end to the war with Russia, a statement many interpreted as a call for Ukraine to surrender.
+
+The foreign minister of Poland, a vocal ally of Kyiv, and Ukraine’s ambassador to the Vatican, both used World War II analogies to condemn the pope’s remarks.
+
+And a leader of one of Ukraine’s Christian churches on Sunday said that only the country’s determined resistance to Moscow’s full-scale invasion, launched by Russian President Vladimir Putin on Feb. 24, 2022, had prevented a mass slaughter of civilians.
+
+In an interview recorded last month with Swiss broadcaster RSI and partially released on Saturday, Francis used the phrase “the courage of the white flag” as he argued that Ukraine, facing a possible defeat, should be open to peace talks brokered by international powers.
+
+...
+
+[Data](articles/ba330000.json)
+
+---
 
 ### TNA accepts President’s invitation for discussion with IMF
 
@@ -50,35 +68,59 @@ During an inquiry made by Ada Derana, the parliamentarian had stated that a deci
 
 [Data](articles/741aad59.json)
 
+[Extended Data](ext_articles/741aad59.ext.json)
+
 ---
 
-### රටටම වින කරන මහා විනාශයක් ගැන හෙළිදරව්වක්
+### A revelation of a mass destruction that is suitable for the country
 
 *2024-03-10 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194358) · `si`
 
-වියළි කාලගුණයත් සමග කැළෑ ගිනි තැබීම් ඉහළ ගොස් ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Forest fires, exacerbated by dry weather, have led to a 25% drop in reservoir levels, posing a threat to water resources. The Disaster Management Center (DMC) has initiated legal action against forest fires and urged water conservation. The demand for water has risen by 6%, but no fees for water supply to farmers have been proposed. Political parties are spreading false information, misleading farmers.
 
-එහි අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේ පසුගිය මාස කිහිපය තුළ දිවයින පුරා එවැනි සිදුවීම් 25ක් පමණ වාර්තා වී ඇති බවය.
+🟩
 
-කැළෑ ගිනි තබන පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීම සඳහා විශේෂ වැඩසටහනක් ක්‍රියාත්මක කර ඇති බව ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේය.
+The Disaster Management Center (DMC) says that the forest fires have increased with dry weather.
 
-මේ අතර මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල මේ දිනවල පවතින අධික වියළි කාලගුණයත් සමග රක්ෂිතවලට ගිනි තැබීම හේතුවෙන් ජල මූලාශ්‍ර සිදී යාමේ අවදානමක් පවතින බව වාර්තා වෙයි.
+Its director Pradeep Kodippili stated that about 25 such incidents island wide have been reported across the last few months.
 
-කාසල්රී සහ මාවුස්සාකැලේ ජලාශවලට ප්‍රධාන වශයෙන් ජලය සැපයෙන කෙසෙල්ගමු ඔයේ සහ මස්කෙළිය ඔයේ ජල මට්ටම අඩු වීම හේතුවෙන් එම ජලාශවල ජල මට්ටම සියයට 25ක් දක්වා පහත බැස ඇති බවයි ජලාශ භාර ඉංජිනේරුවරුන් පවසයි.
+A special program has been implemented to take legal action against people who are burning the forest fire, said Pradeep Kodippili.
 
-මේ අතර වියළි කාලගුණය හේතුවෙන් ජල සැපයුමට මෙතෙක් බාධා එල්ල නොවූව ද ජලය භාවිතය අරපිරිමැස්මෙන් සිදුකළ යුතු බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ජනතාවට දැනුම් දෙයි.
+Meanwhile, there is a risk of water resources due to the heavy drying of the coastal areas of the central hills.
 
-එහි නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.යූ.කේ. රණතුංග මහතා සඳහන් කළේ මේ වන විට ජල ඉල්ලුම සියයට 6කින් පමණ ඉහළ ගොස් ඇති බවය.
+The water level of the reservoirs is mainly drop to 25 percent due to the low water level of water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level.
+
+Meanwhile, the National Water Supply and Drainage Board also informs the people that the use of water should be frugal as the water use should be done due to dry weather.
 
 ...
 
 [Data](articles/9f457bf4.json)
+
+[Extended Data](ext_articles/9f457bf4.ext.json)
+
+---
+
+### மட்டக்களப்பில் வவுனியா வெடுக்கு நாறிமலையில் இடம்பெற்ற பொலிசாரின் அடாவடித்தனத்துக்கு எதிர்ப்பு தெரிவித்து ஆர்பாட்டம்
+
+*2024-03-10 21:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178381) · `ta`
+
+வவுனியா வெடுக்குநாறிமலை ஆலையத்தில் வழிபட சென்ற மக்கள் மீது பொலிசார் மேற்கொண்ட அடாவடித்தனத்துக்கு எதிர்ப்பு தெரிவித்து பொலிசாரை கண்டித்து மட்டக்களப்பு காந்தி பூங்காவில் முன்னால் ஞாயிற்றுக்கிழமை (10) பொது மக்கள் கண்ட ஆர்பாட்டத்தில் ஈடுபட்டனர்.
+
+மட்டக்களப்பு பொது அமைப்புக்கள் பொலிசாரின் அடாவடித்தனத்திற்கு எதிர்ப்பு ஆர்பாட்டத்திற்கு அழைப்பு விடுத்தனர் இதனையடுத்து இன்று காலை 10 மணிக்கு காந்தி பூங்காவிற்கு முன்னால் நாடாளுமன்ற உறுப்பினர் கோ.கருணாகரன், மற்றும் முன்னாள் நாடாளுமன்ற உறுப்பினர்களான ஞா.சிறிநேசன், சீ.யோகேஸ்வரன், பா.அரியநேந்திரன், தமிழ் தேசிய மக்கள் முன்னணி கட்சி  தேசிய அமைப்பாளர் த.சுரேஸ், மனித உரிடை செயற்பாட்டாளர்கள், இந்து கிறிஸ்தவ மதகுருமார் கட்சி ஆதரவாளர்கள் உட்பட நூற்றுக்கு மேற்பட்டோர் ஒன்று கூடினர்.
+
+...
+
+[Data](articles/0a6483db.json)
 
 ---
 
 ### Anarchy of the Police on Shivaratri Day. University Teachers Association condemns
 
 *2024-03-10 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178380) · `ta`
+
+The Jaffna University Teachers' Association condemns police violence and arrests on Shivaratri Day at Vettukkunni Mountain. They accuse the police of disrupting religious practices and violating the rights of the public. The incident is seen as part of a broader Sinhala Buddhist ideology that suppresses minority religious rights in Sri Lanka. The association calls for the release of those arrested and demands an end to Sinhalese Buddhistization programs in the North East.
+
+🟩
 
 The Jaffna University Teachers Union has condemned the violations of the police and the arrests of many people who were there and the arrest of many people there.
 
@@ -2297,37 +2339,5 @@ With the re-brand, Phoenix aims to further build its leadership position nationw
 [Data](articles/bcef68ae.json)
 
 [Extended Data](ext_articles/bcef68ae.ext.json)
-
----
-
-### KIST launches new squeezable bottles for its sauce range
-
-*2024-03-09 23:19:00* · [`islandlk`](http://island.lk/kist-launches-new-squeezable-bottles-for-its-sauce-range/) · `en`
-
-Cargills Food & Beverages Limited, renowned for producing a wide range of food and beverages under the trusted Sri Lankan brand KIST, is launching an exotic sauce collection in an easy-to-use squeezable bottle named ‘KIST Squeeasy Buddy.’ This collection embodies the concept of a culinary companion, designed to support day-to-day cooking needs.
-
-The introduction of this range confirms that KIST is a versatile sauce brand catering to the needs of today’s customers, including travelers, home chefs, foodies, gourmet food enthusiasts, and party mavens. Known for its popular regular sauce range, featuring classics like Tomato, Chilli, Hot Chilli, Sweet & Sour, and Garlic, KIST is expanding its horizons with this new sauce line. The range encompasses various sauce categories, such as cooking sauces, dressings, dips, and specially crafted sauces for meat dishes.
-
-...
-
-[Data](articles/03caaaff.json)
-
-[Extended Data](ext_articles/03caaaff.ext.json)
-
----
-
-### SLT Group FY and 4Q 2023 results impacted by macro-economic challenges
-
-*2024-03-09 23:19:00* · [`islandlk`](http://island.lk/slt-group-fy-and-4q-2023-results-impacted-by-macro-economic-challenges/) · `en`
-
-The SLT Group’s financial results for the fourth quarter and financial year ending December 31, 2023, reflects a downturn in performance amidst a turbulent macro-economic environment in the country.
-
-For 4Q 2023, SLT Group reported a year-on-year consolidated revenue degrowth of 7.5% amounting to LKR 26 billion compared to LKR 28 billion in 2022. The Group’s profits decline was attributed to reduced revenue, despite the efforts of cost optimization measures that resulted in a 5.9% reduction in Operating Expenses (Opex). Consequently, the Group saw a corresponding decline in operating profit, with both Profit Before Tax (PBT) and Profit After Tax (PAT) experiencing decreases in the quarter.
-
-...
-
-[Data](articles/c89f9902.json)
-
-[Extended Data](ext_articles/c89f9902.ext.json)
 
 ---

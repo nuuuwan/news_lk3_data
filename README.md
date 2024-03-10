@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 00:02:54**
+As of **2024-03-11 00:17:47**
 
 ## Newspaper Stats
 
-*Scraped **12,002** Articles*
+*Scraped **12,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
-virakesarilk | 1,640
+virakesarilk | 1,641
 dailymirrorlk | 1,838
 adaderanasinhalalk | 1,898
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,001 (100.0%) of 12,002 articles have been extended.
+12,002 (100.0%) of 12,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### வெடுக்குநாறிமலை ஆதி சிவன் கோவில் சிவராத்திரியில் பொலிஸாரின் அட்டூழியங்கள்: நல்லூரில் போராட்டத்திற்கு அழைப்பு
+
+*2024-03-10 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178384) · `ta`
+
+வெடுக்குநாறி மலை ஆதி சிவன் கோவில் மகா சிவராத்திரி பூசையின் போது பொலிஸாரின் அட்டூழியங்களைக் கண்டித்தும், கைது செய்தோரை  உடன் விடுதலை செய்யவும் வலியுறுத்தி திங்கட்கிழமை (11) மாலை 04 மணியளவில் நல்லை ஆதீன முன்றலில்  கவனயீர்ப்பு போராட்டம் இடம்பெறவுள்ளதாகவும், இந்தப் போராட்டத்தில் அனைவரையும் அணிதிரளுமாறும் ஒருங்கிணைந்த தமிழர் கட்டமைப்புச் சார்பாக அதன் தலைமை ஒருங்கிணைப்பாளர் தவத்திரு. அகத்தியர் அடிகளார் அழைப்பு விடுத்துள்ளார்.
+
+வெடுக்குநாறி மலை லிங்கேஸ்வரர் கோவில் மகா சிவராத்திரி பூசையின் போது பொலிசாரால் மேற்கொள்ளப்பட்ட சம்பவங்கள் ஒட்டு மொத்த தமிழ் சமூகத்தையும் மிகுந்த மன வேதனைக்கு உள்ளாக்கி இருக்கின்றது. சைவர்களின் வழிபாட்டு உரிமை மிகப் புனிதமான விரத நாளில் அப்பட்டமாக மறுக்கப்பட்டு மிக மோசமாக சைவ சமய விழுமியங்களை புனித சடங்குகளை அவமதிக்கும் சம்பவங்கள் அரங்கேறியிருக்கின்றன.
+
+...
+
+[Data](articles/2c6ea31e.json)
+
+---
 
 ### Palestinians prepare for Ramadan in the shadow of Gaza war
 
@@ -52,21 +66,29 @@ That 10-day conflict has been dwarfed by the current war, which is now in its si
 
 ---
 
-### வடக்கில் இராணுவம் வசமுள்ள ஒரு தொகுதி  காணிகள் மக்களிடம் மீளக் கையளிப்பு
+### A batch of land in the north
 
 *2024-03-10 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178383) · `ta`
 
-பாதுகாப்பு தரப்பினரிடம் உள்ள மக்களின் எஞ்சியுள்ள காணி நிலங்களும் அடுத்த சில மாதங்களுக்குள் விடுவிக்கப்படும் என நம்பிக்கை வெளியிட்ட கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா, பாதுகாப்பு தரப்பினரிடம் மட்டுமல்லாது வன ஜீவராசிகள் மற்றும் வனவிலங்கு திணைக்களத்தின் கீழுள்ள காணிகளும் விரைவில் விடுவிக்கப்படும் என்றார்.
+Fisheries Minister Douglas Devananda announced that land under the Department of Wildlife and Wildlife Department would soon be released, with the event held at the Jaffna District Secretariat. He expressed confidence in the release of lands by the end of April, aligning with President's directive for land restoration to pre-1985 status. Additionally, 22 Indian fishermen were arrested for drag boat activities, prompting the Navy to strengthen enforcement against such activities.
 
-யாழ் மற்றும் கிளிநொச்சி மாவட்டங்களில் உயர் பாதுகாப்பு வலயமாக பாதுகாப்பு தரப்பினரது கட்டுப்பாட்டில் இருந்த பொதுமக்களின் ஒரு தொகுதி காணி நிலங்கள் உரிமையாளர்களிடம் மீளவும் கையளிக்கும் நிகழ்வு ஞாயிற்றுக்கிழமை (10) யாழ் மாவட்ட செயலகத்தில் இடம்பெற்றது.
+🟩
 
-முப்படையினரும் மக்களுக்காகத்தான் சேவை செய்கின்றனர் என இங்கு உரையாற்றிய யாழ் மாவட்ட கட்டளை தளபதி தனது உரையில் குறிப்பிட்டிருந்தார்.
+Fisheries Minister Douglas Devananda, who hoped that the rest of the land on the security forces would be released within the next few months, said that the land under the Department of Wildlife and Wildlife Department would soon be released.
 
-ஆனால் யுத்தம் நடைபெற்றுக்கொண்டிருந்த காலத்திலேயே எனது கருத்து இதுவாகத்தான் இருந்தது. அதாவது பாதுகாப்பு தரப்பினர் எமது மக்கள் படையாக மக்களுக்கான படையாக செயற்படுவர் என்றும் செயற்பட வேண்டும் என்ற கருத்தை நான் முன்வைத்திருந்திருக்கின்றேன்
+The event was held at the Jaffna District Secretariat on Sunday (10) at the Jaffna and Kilinochchi districts.
+
+Speaking here, the Commander of the Jaffna District Commander said in his speech that the armed forces are only serving the people.
+
+But this was my opinion when the war was taking place. I have put forward the idea that the security forces should act as a people's army for the people
+
+At the same time, many more lands of our people have to be released. Definitely the land will be released. That is, when the land release, the land and the police, the police, the wildlife and the wildlife department should be released.
 
 ...
 
 [Data](articles/4500ea74.json)
+
+[Extended Data](ext_articles/4500ea74.ext.json)
 
 ---
 
@@ -2323,29 +2345,5 @@ Accordingly, 8,400 employees of local government will be established.
 [Data](articles/a3ea9030.json)
 
 [Extended Data](ext_articles/a3ea9030.ext.json)
-
----
-
-### Sri Lanka central bank mainly responsible for electricity price cut
-
-*2024-03-10 06:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-mainly-responsible-for-electricity-price-cut-153910/) · `en`
-
-ECONOMYEXT – Sri Lanka’s power tariff cut was made possible by an appreciating exchange rate and falling interest rates (monetary stability) that cut costs of the Ceylon Electricity Board and reduced coal import prices, Energy Minister Kanchana Wijesekera said.
-
-Sri Lanka slashed electricity prices as much as 33 percent for small users and 21 percent overall, after hiking them in October as losses mounted due to low rainfall.
-
-Minister Wijesekera said the price cut went beyond the increase in October.
-
-“Most people think that the price reduction came only because of the hydro-electricity,” Minister Wijesekera told reporters.
-
-“Producing more hydro-electricity was only one factor. The main fact was the gradual emergence of the country from the unstable economic conditions, especially the strengthening of the rupee.
-
-“The rupee was at around 370 to the US dollar, which has come down to 314 to 317 to the US dollar. Yesterday it was reported that was down to 307.
-
-...
-
-[Data](articles/ece33b6d.json)
-
-[Extended Data](ext_articles/ece33b6d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 00:32:58**
+As of **2024-03-11 00:47:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,003 (100.0%) of 12,008 articles have been extended.
+12,008 (100.0%) of 12,008 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Today, as Foreign Secretary, I want our family of nations working in partnership
 
 [Data](articles/c8b4b283.json)
 
+[Extended Data](ext_articles/c8b4b283.ext.json)
+
 ---
 
 ### UNHRC Robust on Lanka, Hypocrisy in Gaza - EDITORIAL
@@ -65,6 +67,8 @@ War means killing and being killed. The rules of war – the protection of women
 ...
 
 [Data](articles/ab7fe708.json)
+
+[Extended Data](ext_articles/ab7fe708.ext.json)
 
 ---
 
@@ -172,6 +176,8 @@ We, activists, and civil society organisations from, as well as working in the N
 
 [Data](articles/e5785be1.json)
 
+[Extended Data](ext_articles/e5785be1.ext.json)
+
 ---
 
 ### “Yukthiya” or “Ayukthiya”
@@ -189,6 +195,8 @@ The recent “Yukthiya” operation initiated by the new IGP Deshabandu Tennakoo
 ...
 
 [Data](articles/8007d68a.json)
+
+[Extended Data](ext_articles/8007d68a.ext.json)
 
 ---
 
@@ -379,6 +387,8 @@ According to the sources attributed to the Central Bank of Sri Lanka (CBSL), the
 ...
 
 [Data](articles/81b80b93.json)
+
+[Extended Data](ext_articles/81b80b93.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 14:33:28**
+As of **2024-03-10 14:50:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,884
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,939 (100.0%) of 11,940 articles have been extended.
+11,940 (100.0%) of 11,940 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -256,21 +256,27 @@ The Minister further stated that the allegations made by some political parties 
 
 ---
 
-### අපුර හෝටලයකදී එංගලන්ත ජාතිකයෙක් මරුට
+### Engkland killed in a hence hotel
 
 *2024-03-10 11:59:19* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-හෝටලයකදී-එංගලන්ත-ජාතිකයෙක්-මරුට/11-408512) · `si`
 
-අනුරාධපුර නගරයේ සංචාරක හෝටලයක නවාතැන් ගෙන සිටි එංගලන්ත ජාතික පුද්ගලයෙකු ඉකුත් (8 දා) ජීවිතක්ෂයට පත්වූ බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+An 84-year-old English tourist was found dead in a hotel in Anuradhapura, Sri Lanka. The incident occurred at the hotel's OPD around 10:30 pm on the 8th, following admission to the Anuradhapura Teaching Hospital. A post-mortem is pending, and the Anuradhapura Police are investigating.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ  එන්ගලන්තයේ,  no.5, කින්වින් ඇවනිවු , k77p පදිංචිව සිට දැනට අනුරාධපුර හරිස්චන්ද්‍ර මාවතේ හෝටලයක පැමිණ  නේවාසිකාව නවා තැන්ගෙන සිට එස්. මනෝරංජන් සිරිකාන්තන් නැමති 84 හැවිරිදි  විදෙස් ජාතිකයෙකි.
+🟩
 
-එම නවාතැන්පලේ නවාතැන් ගෙන සිටියදී ඇති වූ හදිසියේ අසනීප තත්ත්වයක් හේතුවෙන් ඉකුත් 8 වන දින අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කිරීමේදී රාත්‍රී 10.30 ට පමණ බාහිර රෝගී අංශයේදී ජීවිතක්ෂයට පත්ව ඇති බව පොලිසිය කියයි.
+A group of England who had been staying at a tourist hotel in Anuradhapura, the Anuradhapura Headquarters said.
 
-මෙම මරණය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදු කිරීමට නියමිතව තිබුණි. අනුරාධපුර පොලිසියේ මේ සම්බන්ධයෙන් වැඩි දුර විමර්ශන සිදු කරනු ලබයි.
+The deceased has been identified in England, NO.5, NO.5, Ki77P, from Harischandra Mawatha in Anuradhapura and the resident of Anuradhapura has come to the SAM. The 84-year-old is a 84 year old foreign.
+
+The delegation was killed in the OPD at the OPD at about 10.30 pm while admission to the Anuradhapura Teaching Hospital on the 8th.
+
+The post mortem was to be carried out on this death. The Anuradhapura Police is conducting further investigations.
 
 ◼️
 
 [Data](articles/09a33816.json)
+
+[Extended Data](ext_articles/09a33816.ext.json)
 
 ---
 

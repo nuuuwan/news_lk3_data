@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 15:17:39**
+As of **2024-03-10 15:33:05**
 
 ## Newspaper Stats
 
-*Scraped **11,943** Articles*
+*Scraped **11,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 623
 islandlk | 646
 adalk | 1,009
 adaderanalk | 1,449
-tamilmirrorlk | 1,456
+tamilmirrorlk | 1,457
 virakesarilk | 1,633
 dailymirrorlk | 1,827
-adaderanasinhalalk | 1,885
+adaderanasinhalalk | 1,886
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,943 (100.0%) of 11,943 articles have been extended.
+11,943 (100.0%) of 11,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### ‘மின்தூக்கி’ வேலைநிறுத்தம்
+
+*2024-03-10 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-வேலைநிறுத்தம்/175-334451) · `ta`
+
+மத்திய தபால் பரிவர்த்தனை கட்டடத்தில்  சுமார் ஒரு வருட காலமாக செயலிழந்த நிலையில் உள்ள கட்டிடத்தின் மின்தூக்கியை சீர் செய்யாமைக்கு எதிர்ப்பு தெரிவித்து ஞாயிற்றுக்கிழமை (10) நள்ளிரவு முதல் அடையாள வேலைநிறுத்தம் ஆரம்பிக்கப்படவுள்ளதாக ஐக்கிய தொழிற்சங்க முன்னணியின் பேச்சாளர் தெரிவித்துள்ளார்.
+
+மின்தூக்கி செயலிழந்த நாள் முதல் தபால்களை எடுத்துச் செல்வதில் தபால் ஊழியர்கள் பெரும் சிரமத்தை எதிர்நோக்கி வருவதாகவும், இது குறித்து அதிகாரிகளுக்கு பலமுறை தெரிவித்தும் நடவடிக்கை எடுக்கப்படவில்லை என்றும் பேச்சாளர் தெரிவித்தார்.
+
+இந்த 24 மணி நேர வேலைநிறுத்தப் போராட்டத்தின் மூலம் தபால் அதிகாரிகளின் கவனம் மின்தூக்கியின் மீது செலுத்தப்படும் என எதிர்ப்பார்க்கப்படுவதாகவும் இல்லையேல் மேலதிக நடவடிக்கை எடுக்கப்படும் எனவும் பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ca907f4e.json)
+
+---
+
+### ජනපතිගේ ආරාධනාව පිළිගත් පක්ෂ මෙන්න
+
+*2024-03-10 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194347) · `si`
+
+විපක්ෂයේ දේශපාලන පක්ෂවලට ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් සමග සාකච්ඡා කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදුකළ ආරාධනය දෙමළ ජාතික සන්ධාන විසින් පිළිගෙන තිබේ.
+
+ඒ අනුව අදාළ සාකච්ඡාව සඳහා දෙමළ ජාතික සන්ධානයේ නායක ආර්. සම්බන්ධන් මහතා සහභාගී වීමට නියමිත බව ඉලංකෙයි තමිල් අරසු කච්චි පක්ෂයේ නායක එස්. ශ්‍රීධරන් මහතා සඳහන් කළේය.
+
+පාර්ලිමේන්තුවේ විපක්ෂයේ දේශපාලන පක්ෂ නායකයින්ට ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් සමග හෙට දිනයේ ජනාධිපති කාර්යාලයේ දී සාකච්ඡාවක් ලබාදීමට ජනාධිපතිවරයා පියවර ගෙන තිබේ.
+
+ඒ සදහා අදාළ පක්ෂවලට නිල ආරධනයක් සිදුකර තිබුණ ද මේ වනවිට සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය ඒ සඳහා සහභාගී නොවීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+
+කෙසේවෙතත් දෙමළ ජාතික සන්ධානය අදාළ ආරාධනය පිළිගෙන ඇති අතර ඊට එම පක්ෂයේ නියෝජිතයෙකු සහභාගී කරවීමට තීරණය කර තිබේ.
+
+සාකච්ඡාව රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ඉල්ලීමකට අනුව ලබාදුන්න ද ඔහුගේ සහභාගීත්වය ද මේ වන විට අවිනිශ්චිත වී ඇති බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/db8d63fb.json)
+
+---
 
 ### 23 Indian fishermen arrested
 
@@ -2329,51 +2367,5 @@ Police in Ottawa discovered the slain family at their townhouse in the Barrhaven
 [Data](articles/7b89041f.json)
 
 [Extended Data](ext_articles/7b89041f.ext.json)
-
----
-
-### 17-year-old girl found murdered at tea estate
-
-*2024-03-09 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97838/17-year-old-girl-found-murdered-at-tea-estate-) · `en`
-
-The body of a 17-year-old girl has been found at a tea estate on Nanayakkara Mawatha in Elpitiya police division.
-
-Ada Derana reporter said that it is suspected that the girl was killed by slitting her throat.
-
-The deceased girl, Hansika Nadishani, was a resident of Talgahawatta area of Mandakanda, Karandeniya, according to the correspondent.
-
-Reports further revealed that she was forcibly taken away by a group of people who had arrived in a three-wheeler yesterday (08).
-
-No suspects have been arrested so far regarding the incident and the Elpitiya Police is conducting further investigations.
-
-◼️
-
-[Data](articles/cfb39a9d.json)
-
-[Extended Data](ext_articles/cfb39a9d.ext.json)
-
----
-
-### Mano warns Kota
-
-*2024-03-09 14:51:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவை-எச்சரிக்கிறார்-மனோ/175-334422) · `ta`
-
-Mano Ganesan criticizes Gotabhaya Rajapaksa for not addressing historical crimes and for promoting Sinhalese Buddhist ideology. He argues that the Tamil and Muslim communities are not against strengthening Sinhalese Buddhism but are fighting against Sri Lanka's pluralism. Mano also criticizes Rajapaksa's book "Conspiracy" and the Arakala protests, accusing them of racial and religious oppression.
-
-🟩
-
-In his book, Gotabhaya Rajapaksa, who says, "The Sinhalese Buddhist strength has been harmed by the minority," said Mano Ganesan, the leader of the Tamil Progressive Alliance (TNA), that Gotabhaya Rajapaksa, in his book, has not yet learned from historical crimes.
-
-Strengthening the Sinhalese-Believers is not a problem for the Tamil and Muslim people in this country. By speaking Sinhala and shoplifting the Buddhist vision, I am also strengthening Sinhala Buddhist ideology!What is the problem for us?
-
-Our problem is to eradicate Sri Lanka's pluralism of many races, many religions and many languages in this country.. That is our long -term struggle. Mano Ganesan has said that your "Arakalaya" has nothing to do with this.
-
-Commenting on his X site, Mano MP added that former President Gotabhaya Rajapaksa's book "Conspiracy"
-
-...
-
-[Data](articles/d3d77c56.json)
-
-[Extended Data](ext_articles/d3d77c56.ext.json)
 
 ---

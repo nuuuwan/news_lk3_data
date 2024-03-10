@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 18:07:13**
+As of **2024-03-10 18:19:27**
 
 ## Newspaper Stats
 
-*Scraped **11,964** Articles*
+*Scraped **11,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,015
-adaderanalk | 1,453
+adaderanalk | 1,454
 tamilmirrorlk | 1,460
-virakesarilk | 1,633
+virakesarilk | 1,634
 dailymirrorlk | 1,828
-adaderanasinhalalk | 1,891
+adaderanasinhalalk | 1,893
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,963 (100.0%) of 11,964 articles have been extended.
+11,964 (100.0%) of 11,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Navy arrests 22 Indian fishermen, three fishing trawlers
+
+*2024-03-10 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97855/navy-arrests-22-indian-fishermen-three-fishing-trawlers-) · `en`
+
+The Sri Lanka Navy has arrested 22 Indian fishermen and three trawlers for allegedly poaching in Sri Lankan waters off the Kovilan Lighthouse in Kareinagar.
+
+According to the Navy, the apprehensions were made during a special operation carried out between the late hours of Saturday night (09 March) and in the early hours of today (10 March).
+
+As an extension of the regular operations conducted to curb illegal fishing practices by foreign fishing trawlers in Sri Lankan waters, the Northern Naval Command deployed a Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in local waters off the Kovilan Lighthouse.
+
+The operation resulted in the seizure of three Indian poaching trawlers and the apprehension of 22 Indian fishermen, who were subsequently brought to the Kankesanthurai Harbour and are due to be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
+
+...
+
+[Data](articles/2b37657c.json)
+
+---
+
+### අධිකරණ නියෝගයට පිටුපෑ පූජකයෙකු ඇතුළු 8ක් අත්අඩංගුවට
+
+*2024-03-10 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194354) · `si`
+
+පුරාවිද්‍යාභූමියකට අනවසරයෙන් ඇතුළු වීම සම්බන්ධයෙන් පූජකයෙකු ඇතුළු 8ක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+නෙදුන්කර්නි පොලීසිය විසින් මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 24,29,30,34,37 සහ 54 හැවිරිදි වියේ පසුවන පිරිසකි.
+
+එම පිරිස නෙදුන්කර්නි, පුල්යන්කුලම, කනගරායන්කුලම සහ මාමඩුව ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+අධිකරණය විසින් තහනම් නියෝගයක් නිකුත් කර තිබියදී මෙම පිරිස විසින් වෙඩික්කුනාරිමලෙයි පුරාවිද්‍යා භූමියට ඇතුල්වී එහි ගිනි දල්වා පූජාවන් සිදුකිරීම සම්බන්ධයෙන් ඔවුන්ට චෝදනා එල්ලවී තිබේ.
+
+◼️
+
+[Data](articles/b58ad5c2.json)
+
+---
+
+### வெடுக்குநாறிமலையில் வழிபாட்டுரிமையை மீறிய செயலானது உலகிற்கு எமது நிலையினை அரசாங்கம் வெளிப்படுத்தியிருக்கிறது - யாழ். பல்கலைக்கழக இந்து மன்றம்
+
+*2024-03-10 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178376) · `ta`
+
+வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் அடிப்படை வழிபாட்டுரிமையை மீறிய செயலானது உலகிற்கு எமது நிலையினை அரசாங்கம் வெளிப்படுத்தி இருக்கிறது என யாழ்ப்பாணப் பல்கலைக்கழக இந்து மன்றம் தெரிவித்துள்ளது.
+
+யாழ்ப்பாணப் பல்கலைக்கழக இந்து மன்றம், வெடுக்குநாறி மலை ஆதி இலிங்கேசுவரர்; கோவில் மகா சிவராத்திரி தின பொலிஸ் அராஜகங்களை கண்டித்து வெளியிட்ட அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும் அந்த அறிக்கையில், ஆதியும் அந்தமும் இல்லாத அரும்பெரும் ஜோதியான சிவபெருமானுக்குரிய விரதங்களுள் தலையாய விரதமே மகா சிவராத்திரி, வருடத்தில் ஒருமுறை வரும் இவ் விரதமானது ராத்திரி வேளை நான்கு சாம பூசைகளை மேற்கொண்டு இரவு முழுவதும் சிவனடியார்கள் கண்விழித்து சிவபெருமானை பூஜித்து சிவசிந்தையில் வழிபாடு மேற்கொள்வது மரபாகும்.
+
+...
+
+[Data](articles/dd89568c.json)
+
+---
+
+### ඕන කෙනෙකුට ඕන විදියට සමරන්න පුළුවන් - මෙන්ඩිස්
+
+*2024-03-10 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194353) · `si`
+
+බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවති ඊයේ තරගයෙන් අනතුරුව මාධ්‍ය හමුවේදී ශ්‍රී ලංකා එක්දින නායක කුසල් මෙන්ඩිස් දැක්වූ අදහස් වෙත මේ වනවිට බොහෝදෙනෙකුගේ අවධානය යොමුව තිබේ.
+
+එහි දැක්වෙන්නේ ජයග්‍රහණයේ සතුට ශ්‍රී ලංකා කණ්ඩායම Time Out ක්‍රමයට සැමරීම පිළිබඳව බංග්ලාදේශ මාධ්‍ය ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක කුසල් මෙන්ඩිස්ගෙන් ප්‍රශ්නකිරීම හමුවේ ඔහු ලබාදුන් පිළිතුරයි.
+
+"මම හිතන්නේ කෙනෙක් ඒක කළා. මම දන්නේ නෑ ඒකට හේතුව, ඕන කෙනෙකුට තමන්ට ඕන විදියට සමරන්න පුළුවන්. ඒ වෙලාවේ හැමෝම සතුටු වුණා. ඒක නිසා ක්‍රීඩකයින් හැමෝම එය සමරුවා."
+
+◼️
+
+[Data](articles/3b3c6573.json)
+
+---
 
 ### Kalmunai student who fell in Kegalle
 
@@ -140,17 +208,23 @@ The Navy said they continues to conduct regular patrols and operations in Sri La
 
 ---
 
-### පාසල් ළමුන්ට මත් ගුලි විකුණු නැන්දා අත්තඩංගුවට
+### Audda was arrested for selling drugs to school children
 
 *2024-03-10 17:04:17* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්ට-මත්-ගුලි-විකුණු-නැන්දා-අත්තඩංගුවට/11-408519) · `si`
 
-සිංහල බෙහෙත් අලෙව්සලක තිබු රුපියල් හාරලක්ෂ අසු දහසක් පමණ වටිනා මත්ගුලි පැකට්  දෙදහස් හාරසීයක් සමග  අගලවත්ත නගරයේ සිංහල ආආයුර්වේද  ඖෂධ හලක් පවත්වාගෙන යනු ලබන  (55) හැවිරිදි  කාන්තාවක් අත්අඩංගුවට ගත් බව අගලවත්ත පොලිසිය සඳහන් කරයි.
+A 55-year-old woman arrested for selling Ayurvedic medicine to school children, with the case referred to Agalawatta Police.
 
-යුත්තිය මෙහෙවුමේ පවුර සංකල්පයට අනුව මීට පෙරදී අගලවත්ත නගරයේ සියලුම ආයුර්වේද ඖෂධ ශාලා හිමියන් අගලවත්ත පොලිසිය වෙත කැඳවා මෙවැනි මත්ගුලි වෛද්‍ය නිර්දේශයක් නොමැතිව පාසල් දරුවන් ඇතුළු  කිසිදු පුද්ගලයෙකුට අළෙවි නොකරන ලෙස පෞද්ගලිකවම  අවවාද කර තිබේ.
+🟩
+
+A (55) a woman has been arrested by a 55-year-old woman with a large number of academic packets of Tamil medicine.
+
+According to the concept of the Yaththawatta the concept of the Yaththalawatta, all Ayurvedic pharmaceuticals to the Aylawatta Police have been addressed to Agalawatta Police.
 
 ◼️
 
 [Data](articles/8e504d6e.json)
+
+[Extended Data](ext_articles/8e504d6e.ext.json)
 
 ---
 
@@ -2267,77 +2341,5 @@ The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commiss
 [Data](articles/4a0788a9.json)
 
 [Extended Data](ext_articles/4a0788a9.ext.json)
-
----
-
-### Funeral rites according to wishes of victims’ families: Foreign Ministry
-
-*2024-03-09 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Funeral-rites-according-to-wishes-of-victims-families-Foreign-Ministry/155-278551) · `en`
-
-Colombo, March 9 (Daily Mirror)- The Ministry of Foreign Affairs said it is in communication with the family members in Sri Lanka of the six Sri Lankans who were murdered in Ottawa, Canada and is facilitating their requests with the relevant Canadian authorities through the Sri Lankan High Commission while respecting their privacy.
-
-The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commission in Ottawa of the tragic death of six Sri Lankans, including a mother, four children, and a family acquaintance, in a residence in Barrhaven, Ottawa on March 7, 2024, the Ministry said in a statement.
-
-"The husband and father of the victims were found injured at the scene, and was admitted to the hospital, where he is currently undergoing treatment. The law enforcement authority has arrested a 19-year-old Sri Lankan in connection with the homicide, and he is currently in police custody," the statement added.
-
-...
-
-[Data](articles/9bcca76d.json)
-
-[Extended Data](ext_articles/9bcca76d.ext.json)
-
----
-
-### A ‘raththaran’ row over new chairman of parliamentary oversight committee
-
-*2024-03-09 18:09:00* · [`islandlk`](http://island.lk/a-raththaran-row-over-new-chairman-of-parliamentary-oversight-committee/) · `en`
-
-Shortly after the announcement of the new chairmen for the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA), there was a surge of criticism on social media regarding the appointment of Kalutara District SLPP MP Rohitha Abeygunawardena as the head of COPE.
-
-Both chairmen were elected to their positions, and the SLPP, with its majority representation in the committees reflecting that of the parliament, was able to secure the election of their candidates. The election of COPA chairman MP Lasantha Alagiyawanna didn’t spark as much controversy, as he had previously held the position. However, Abeygunawardena’s appointment drew significant backlash, with many questioning his qualifications to lead a parliamentary watchdog committee.
-
-...
-
-[Data](articles/d4c3e3a4.json)
-
-[Extended Data](ext_articles/d4c3e3a4.ext.json)
-
----
-
-### Sri Lanka wins T20
-
-*2024-03-09 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194327) · `si`
-
-Sri Lanka defeats Bangladesh in the 3rd T20 match by 28 runs.
-
-🟩
-
-Sri Lanka won the 3rd 20-20 match with Bangladesh by 28 runs today.
-
-◼️
-
-[Data](articles/844bb124.json)
-
-[Extended Data](ext_articles/844bb124.ext.json)
-
----
-
-### Sanitary napkins subjected to unreasonably high taxes in Sri Lanka: analysis
-
-*2024-03-09 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97840/sanitary-napkins-subjected-to-unreasonably-high-taxes-in-sri-lanka-analysis) · `en`
-
-The total tax burden on sanitary napkins in Sri Lanka currently sits at 47.1%, which is a significantly higher rate compared to the tax levied on selected non-essential items, gold jewellery, raw silk, golf clubs and golf balls and military artillery weapons, the PublicFinance.lk revealed.
-
-PublicFinance.lk, run by Verité Research, an independent think tank that provides strategic analysis for Asia in the areas of economics, politics, law, and media.
-
-Citing figures from Sri Lanka Customs, the PublicFinance.lk revealed that sanitary napkins are subjected to unreasonably high taxes in Sri Lanka, which amounts to 47.1% as opposed to 30.6% on gold jewellery, 22.3% raw silk, and 22.3% golf clubs, golf balls and military artillery weapons.
-
-Meanwhile, a recent survey has made an alarming revelation about period poverty in Sri Lanka. As per the study, 40% of menstruating women and girls in Sri Lanka have stopped using menstrual products against the backdrop of the ongoing economic crisis.
-
-...
-
-[Data](articles/b0a9a04c.json)
-
-[Extended Data](ext_articles/b0a9a04c.ext.json)
 
 ---

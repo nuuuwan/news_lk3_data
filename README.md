@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 19:33:45**
+As of **2024-03-10 19:50:06**
 
 ## Newspaper Stats
 
-*Scraped **11,973** Articles*
+*Scraped **11,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,016
+adalk | 1,017
 adaderanalk | 1,455
-tamilmirrorlk | 1,460
+tamilmirrorlk | 1,461
 virakesarilk | 1,634
-dailymirrorlk | 1,829
+dailymirrorlk | 1,830
 adaderanasinhalalk | 1,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,973 (100.0%) of 11,973 articles have been extended.
+11,973 (100.0%) of 11,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### ”எனது பெயர் பட்டியலில் இருந்து வெட்டப்பட்டுள்ளது”
+
+*2024-03-10 19:30:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-பெயர்-பட்டியலில்-இருந்து-வெட்டப்பட்டுள்ளது/175-334466) · `ta`
+
+குளியாப்பிட்டியவில் நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் பேரணியில் பேச்சாளர் பட்டியலில் இருந்து தனது பெயர் நீக்கப்பட்டுள்ளதாக சப்ரகமுவ மாகாண ஆளுநர் நவீன் திஸாநாயக்க தெரிவித்துள்ளார்.
+
+“இன்று @officialunp சந்திப்பிலிருந்து நான் பணிவுடன் என்னை விலக்கிக்கொண்டேன், ஏனெனில் எனக்கு ஒரு பேச்சு வாக்குறுதி அளிக்கப்பட்டது, பின்னர் எனது பெயர் வெட்டப்பட்டதை அறிந்தேன். @RW_UNP சார்பாக இந்த முடிவுகளை எடுப்பது யார் என்று ஆச்சரியமாக இருக்கிறது. நான் கட்சிக்கு ஆதரவாக நிற்பேன், ஆனால் ஒருவரின் கௌரவம் பாதிக்கப்படக்கூடாது” என நவீன் திஸாநாயக்க தனது ட்விட்டர் பக்கத்தில் ட்வீட் செய்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க கலந்துகொண்ட பேரணியில் அமைச்சர் ஹரின் பெர்னாண்டோவும் கலந்து கொள்ளவில்லை என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5269e8ef.json)
+
+---
+
+### STF seize Rs.1.1 Mn worth counterfeit fags from Ampara bus stand
+
+*2024-03-10 19:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-seize-Rs-1-1-Mn-worth-counterfeit-fags-from-Ampara-bus-stand/108-278563) · `en`
+
+Colombo, March 10 (Daily Mirror) -  A large stock of counterfeit cigarettes worth over Rs.1.1 million, which is suspected to have been smuggled into the country through sea routes, was seized by the Police Special Task Force (STF) from the Ampara bus stand today.
+
+The STF on a tip off searched the vendors and kiosks at Ampara bus stand and found 115 cartons of the foreign brand of cigarettes, of which the sale and consumption is prohibited in Sri Lanka.
+
+According to police, the 115 cartons of cigarettes contained 1,150 packets that were packed with 23,000 sticks valued at Rs.50 each and is sold at between Rs. 60 to Rs. 80 per stick.
+
+Two men who possessed the stock of illicit cigarettes were taken into custody. They were from Pimburattewa and Moneragala areas.
+
+The sleuths from the Ampara STF Camp had handed over the suspects along with the illicit items to the Ampara Police for further inquiries.
+
+◼️
+
+[Data](articles/0647f998.json)
+
+---
 
 ### Army troops rescue university student who fell off Alagalla Mountain
 
@@ -455,6 +491,18 @@ However, the girl's brother-in-law has fled the area of the girl who has been su
 [Data](articles/09022654.json)
 
 [Extended Data](ext_articles/09022654.ext.json)
+
+---
+
+### ලෝකයේ වැඩිම රාජ්‍ය සේවකයන් සිටින නමුත් අඩුවෙන්ම වැඩ කරන රට ලංකාවයි
+
+*2024-03-10 16:09:56* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-වැඩිම-රාජ්‍ය-සේවකයන්-සිටින-නමුත්-අඩුවෙන්ම-වැඩ-කරන-රට-ලංකාවයි/11-408517) · `si`
+
+“ලෝකයේ ජනගහන අනුපාතය අනුව  සාමාන්‍යයෙන් රජයේ සේවයේ ඉන්න ඕනේ සෑම 250 කටම එක් රාජ්‍ය සේවකයෙක්. ලංකාවේ සෑම 13 කටම එක රජයේ සේවකයෙක් ඉන්නවා. ලෝකයේ කොහෙවත් මේතරම් විශාල රාජ්‍ය සේවයක් නැහැ. ඒවගේම ලෝකයේ අඩුවෙන්ම වැඩ කරන රට ලංකාව. මම දැක්කා අපි ලංකාවේ වැඩ කරන්නේ වර්ෂයකට දින 170 හෝ 179 ක් කියලා. මේ විදිහට රටක් ඉස්සරහට යන්න පුලුවන්ද.?” යැයි හිටපු කථානායක ,සාධාරණ සමාජයක් සඳහා වූ ජාතික සංවිධානයේ සභාපති කරු ජයසුරිය මහතා මතුගම,වැලිපැන්න ශ්‍රී පැරකුම් බොදුමග පදනම මගින් එම පදනමේ 22 වන සංවත්සරයට සමගාමීව මතුගම ප්‍රාදේශීය සභා ශ්‍රවනාගාරයේදී පැවැත්වූ පාරමී දන්වැට උත්තම පූජා තිලිණ ප්‍රධානොත්සවයෙදී  මෙසේ පැවසීය.
+
+...
+
+[Data](articles/dc2ceb03.json)
 
 ---
 
@@ -2317,51 +2365,5 @@ According to the heat advisory issued by the Meteorology Department, 'Caution Le
 [Data](articles/cf3719dd.json)
 
 [Extended Data](ext_articles/cf3719dd.ext.json)
-
----
-
-### Rugby Trophy to the police team
-
-*2024-03-09 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194328) · `si`
-
-The police team triumphed in the Clifford Cup Rugby Championship, ending a 33-year drought.
-
-🟩
-
-The police team won the Clifford Cup Rugby Championship after 33 years.
-
-◼️
-
-[Data](articles/2749b9de.json)
-
-[Extended Data](ext_articles/2749b9de.ext.json)
-
----
-
-### NAMAL UYANA’S GUARDIAN:VENERABLE WANAWASI RAHULA THERO
-
-*2024-03-09 19:14:00* · [`islandlk`](http://island.lk/namal-uyanas-guardianvenerable-wanawasi-rahula-thero/) · `en`
-
-In the heart of Sri Lanka’s lush central province lies a sanctuary of natural wonder and historical significance: Namal Uyana. Nestled amidst verdant greenery and ancient landscapes, this sacred site is more than just a haven for biodiversity—it’s a testament to the enduring spirit of conservation and spiritual stewardship. At the forefront of preserving this ecological gem stands a revered figure: Venerable Wanawasi Rahula Thero.
-
-...
-
-[Data](articles/224a8fc3.json)
-
-[Extended Data](ext_articles/224a8fc3.ext.json)
-
----
-
-### Two memorable years in Jaffna
-
-*2024-03-09 19:13:00* · [`islandlk`](http://island.lk/two-memorable-years-in-jaffna/) · `en`
-
-Reading the late ACB Pethiyagoda’s memoir of his time at Jaffna College, Vadukoddai, Goolbai Gunasekera’s memory was jogged about just under two years she herself spent in Jaffna. Pethiyagoda went from Trinity to Jaffna College as he was interested in a career in agriculture and though that this would be better served in Jaffna rather than in Kandy. Goolbai went to Jaffna when her mother, the eminent educationist Clara Motwani, accepted the post of principal at Hindu Ladies College. She has recounted this experience in two chapters of the book she wrote about her mother, Chosen Ground. We publish the first of these today.
-
-...
-
-[Data](articles/ee8c91d4.json)
-
-[Extended Data](ext_articles/ee8c91d4.ext.json)
 
 ---

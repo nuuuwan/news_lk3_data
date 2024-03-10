@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 07:17:12**
+As of **2024-03-10 07:41:45**
 
 ## Newspaper Stats
 
-*Scraped **11,890** Articles*
+*Scraped **11,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ tamilmirrorlk | 1,443
 adaderanalk | 1,445
 virakesarilk | 1,632
 dailymirrorlk | 1,819
-adaderanasinhalalk | 1,873
+adaderanasinhalalk | 1,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,886 (100.0%) of 11,890 articles have been extended.
+11,890 (100.0%) of 11,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### ලෝක රූ රැජින ක්‍රිස්ටිනා
+
+*2024-03-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194336) · `si`
+
+මෙවර ලෝක රූ රැජින කිරුළ චෙක් ජනරජයේ ක්‍රිස්ටිනා පිස්කෝවා විසින් හිමිකරගෙන තිබේ.
+
+71 වෙනි ලෝක රූ රැජින කිරුළ ඉන්දියාවේ මුම්බායිහිදී ඊයේ (09) රාත්‍රී අතිඋත්කර්ෂවත් අයුරින් පවත්වනු ලැබීය.
+
+එම තරගාවලිය සඳහා රටවල් 115ක තරගකාරිනියන් සහභාගී වූ අතර චෙක් ජනරජයේ ක්‍රිස්ටිනා පිස්කෝවා එහිදී ලෝක රූ රැජින කිරුළ හිමිකර ගැනීමට සමත් වූවාය.
+
+වසර 28කට පසු එම තරගාවලියේ සත්කාරකත්වය දැරූ ඉන්දියාව නියෝජනය කළ 22 හැවිරිදි සිනී ෂෙට්ටි තරගාවලියේ පළමු 08 දෙනා අතරට තේරී පත්වීම වි‍ශේෂත්වයකි.
+
+◼️
+
+[Data](articles/8b3f05a0.json)
+
+---
+
+### ‍පළාත් පාලන ආයතන සේවකයින් ස්ථීර කිරීමට වැඩපිළිවෙළක්
+
+*2024-03-10 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194335) · `si`
+
+පළාත් පාලන ආයතන තුළ සිටින සේවකයින් ස්ථීර කිරීම සඳහා කඩිනම් පියවර ගන්නා බව රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පවසයි.
+
+ඒ සඳහා අවශ්‍ය කැබිනට් අනුමැතිය ද මේ වනවිට ලැබී ඇති බව ඔහු සඳහන් කළේය.
+
+ඒ අනුව පළාත් පාලන ආයතන වල සේවකයින් 8,400ක් ස්ථීර කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a3ea9030.json)
+
+---
 
 ### Weather today
 
@@ -635,6 +669,8 @@ Both chairmen were elected to their positions, and the SLPP, with its majority r
 ...
 
 [Data](articles/d4c3e3a4.json)
+
+[Extended Data](ext_articles/d4c3e3a4.ext.json)
 
 ---
 
@@ -2287,43 +2323,5 @@ According to interrogation from the suspect, the firearm used to shoot was found
 [Data](articles/39820344.json)
 
 [Extended Data](ext_articles/39820344.ext.json)
-
----
-
-### Showers or thundershowers possible in some areas today
-
-*2024-03-09 07:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97831/showers-or-thundershowers-possible-in-some-areas-today) · `en`
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night, the Meteorology Department says.
-
-Mainly dry weather will prevail in the other areas of the island.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/a01af235.json)
-
-[Extended Data](ext_articles/a01af235.ext.json)
-
----
-
-### Sri Lankan family slain by 19-year-old Sri Lankan student in Ottawa
-
-*2024-03-09 07:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-family-slain-by-19-year-old-Sri-Lankan-student-in-Ottawa/108-278536) · `en`
-
-A 19-year-old student from Sri Lanka has been charged with stabbing six Sri Lankans living in Ottawa, Canada, killing five of them including a two-and-a-half-month old infant, in Ottawa, Canada.
-
-Ottawa Police have identified the six victims killed in Barrhaven, a suburb of Ottawa, which included a family of five who were newcomers from Sri Lanka. The tragic incident is now being treated as a mass killing by Ottawa Police.
-
-The father, Dhanushka Wickramasinghe sustained serious injuries. His wife, 35-year-old Darshani Dilanthika Ekanayake, was killed along with their sevenyear-old son Inuka, and daughters: four-year-old Ashwini, two-yearold Rinyana, and two- month-old Kelly.
-
-Ottawa Police Service in a statement said that it responded to a home in the 300 block of Berrigan Drive at 10:52 p.m. Wednesday, March 6 after receiving a number of 911 calls.
-
-...
-
-[Data](articles/3f6b38ee.json)
-
-[Extended Data](ext_articles/3f6b38ee.ext.json)
 
 ---

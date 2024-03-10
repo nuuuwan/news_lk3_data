@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 01:33:11**
+As of **2024-03-11 01:51:07**
 
 ## Newspaper Stats
 
-*Scraped **12,011** Articles*
+*Scraped **12,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 113
 bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
-dailyftlk | 621
+dailyftlk | 625
 economynextcom | 626
 islandlk | 646
 adalk | 1,017
@@ -26,23 +26,103 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,010 (100.0%) of 12,011 articles have been extended.
+12,011 (100.0%) of 12,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### சக்வல (பிரபஞ்சம்) வேலைத்திட்டத்தை நிறுத்த முயற்சிப்பது சிறைச்சாலைகளை திறப்பதற்கு சமம் -  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச
+### India’s Deputy High Commissioner visits DP Education IT Campus in Jaffna
+
+*2024-03-11 01:20:37* · [`dailyftlk`](https://www.ft.lk/business/India-s-Deputy-High-Commissioner-visits-DP-Education-IT-Campus-in-Jaffna/34-759340) · `en`
+
+India’s Deputy High Commissioner Dr. Satyanjal Pandey yesterday visited one of the DP Education IT Campuses in Nelliyadi, Jaffna.
+
+Apart from Nelliyadi, at present there are four other DP Education IT Campuses in the Northern Province in Udupitti, Nallur, Vadukotai and Tellipalai providing software development training to 600 students.
+
+Additionally four more Campuses are being established at Velanai, Chawakachcheri, Kopai and Uduvil.
+
+The nine DP Education IT Campuses are being maintained in partnership with MP and Deputy Chairman of Committees of the Parliament of Sri Lanka Angajan Ramanathan’s “My Dream Academy.” Consul General of India at Jaffna Consulate Seviti Sai Murali accompanied India’s Deputy High Commissioner during the visit.
+
+◼️
+
+[Data](articles/224e914e.json)
+
+---
+
+### GRI appoints Thanuja Samaranayake as Chief Operating Officer
+
+*2024-03-11 01:15:18* · [`dailyftlk`](https://www.ft.lk/business/GRI-appoints-Thanuja-Samaranayake-as-Chief-Operating-Officer/34-759339) · `en`
+
+GRI has announced the appointment of Thanuja Samaranayake as its new Chief Operating Officer.
+
+With over 22 years of experience specialising in operational excellence and sustainability leadership, Thanuja brings a wealth of knowledge and expertise to his new role at GRI.
+
+As an accomplished Global Operations Strategist and Sustainability Leader Thanuja has a proven track record of driving revenue growth, enhancing supply chain resilience, and achieving sustainability goals across diverse industries.
+
+“Thanuja’s appointment as Chief Operating Officer underscores GRI’s commitment to operational excellence and sustainability,” said GRI CEO Dr. Mahesha Ranasoma. “His extensive experience and proven leadership will be invaluable as we continue to innovate and drive growth.”
+
+...
+
+[Data](articles/973d29d2.json)
+
+---
+
+### Kanchana inaugurates 2 MW Ground Mount Solar Project in Batticaloa
+
+*2024-03-11 01:13:27* · [`dailyftlk`](https://www.ft.lk/business/Kanchana-inaugurates-2-MW-Ground-Mount-Solar-Project-in-Batticaloa/34-759338) · `en`
+
+Power and Energy Minister Kanchana Wijesekera yesterday unveiled a 2 MW Ground Mount Solar Project in Batticalo.
+
+The project, which was part of the 90 MW Ceylon Electricity Board (CEB) tendering process, was successfully constructed and commissioned by BackBay Solar Ltd.
+
+It aligns with the Government’s vision of increasing the share of renewable energy in the National Grid and mitigating the adverse effects of climate change. Sri Lanka aims at adding up to 2,800 MW of renewable energy into the National Grid by 2025. At present, renewable energy generation has not exceeded at least
+
+◼️
+
+[Data](articles/8c7480be.json)
+
+---
+
+### Trying to stop the Sakwala (universe) program is equivalent to opening prisons -Opposition Leader Sajith Premadasa
 
 *2024-03-11 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178386) · `ta`
 
-ஸ்மார்ட் கல்வியை வலுப்படுத்தும் பிரபஞ்சம் ஸ்மார்ட் வகுப்பறை வழங்கும் வேலைத்திட்டத்தையும், பிரபஞ்சம் பாடசாலை பஸ் வழங்கும் வேலைத்திட்டத்தையும் பொறாமை காழ்புணர்வு காரணமாக நிறுத்த முயல்பவர்கள் முயற்சித்து வருகின்றனர். இந்த பிரபஞ்சம் திட்டத்தை தடை செய்வது என்பது நாட்டின் பாடசாலை முறையை சீர்குலைப்பதான செயல் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Opposition Leader Sajith Premadasa compared halting the Sakwala program to closing prisons, arguing it disrupts the school system. He emphasized the importance of smart education, stating it strengthens the country's education system, not creating more prisons. Despite challenges, he assured the program's continuation, highlighting its role in combating poverty and improving education. He also mentioned providing free health facilities for women to combat diseases.
 
-பாடசாலைகள் மேம்படும்போது சிறைச்சாலைகள் மூடப்படும் என்று கூறப்படுவதால், இந்நாட்டில் உள்ள அனைத்துப் பாடசாலைகளிலும் கல்வி கற்கும் 41 இலட்சம் மாணவர் தலைமுறை இதன் மூலம் பயன்பெற்று வலுவடைந்து வருகிறது.எனவே இவ்வாறான வேலைத்திட்டங்களுக்கு குழிபறிக்கக் கூடாது. இந்த வேலைத்திட்டங்களை தடைசெய்யும் எண்ணம் இருந்தால் அது பாடசாலையை முடக்கி மேலும் பல சிறைச்சாலைகளை உருவாக்கும் செயலாக கருத வேண்டியுள்ளாத எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
+
+Strengthening Smart Education. The opposition leader said that the ban on the universe project was a disruption of the country's school system.
+
+As schools are improving, prisons are said to be closed, and the 41 lakh student generation of education in all schools in the country is being used and strengthened by this.. The opposition leader who does not have to be treated as a process of freezing the school and creating more prisons if it is intended to ban these programs.
+
+Opposition Leader Sajith Premadasa said this while addressing a bus to Kinniya Central College, Trincomalee on Sunday (10).
+
+No party does not need to create prisons. Smart student and smart country are built through these projects. The opposition leader said that whatever the challenges, the program would not stop.
 
 ...
 
 [Data](articles/d783073d.json)
+
+[Extended Data](ext_articles/d783073d.ext.json)
+
+---
+
+### Pitigala Athukorala Group’s tea factory achieves record-breaking price at auction
+
+*2024-03-11 01:11:32* · [`dailyftlk`](https://www.ft.lk/business/Pitigala-Athukorala-Group-s-tea-factory-achieves-record-breaking-price-at-auction/34-759337) · `en`
+
+The tea factory under the Pitigala Athukorala Group clinched the highest price for a kilo of FBOPFEXP tea at an auction held on 6 March 2024.
+
+The offer conducted online in Colombo under auction number 10, saw the Athukorala Group Super brand fetch top dollar. The successful bid was made by Uni World Teas Ltd. through a sale facilitated by Lanka Commodity Brokers.
+
+“The achievement underscores the commitment of the Pitigala Athukorala Group to excellence in tea production and marketing,” Pitigala Athukorala Group Chairman and Managing Director Anura Athukorala said.
+
+The tea factory, operating under stringent quality standards certified by ISO 22000:2018/HACCP, has consistently aimed to elevate the reputation of Ceylon Tea globally. Renowned for its dedication to quality, the company has garnered numerous accolades for its exceptional teas.
+
+...
+
+[Data](articles/523c65fe.json)
 
 ---
 
@@ -2221,91 +2301,5 @@ Elpitiya and Karandeniya police are conducting further investigations.
 [Data](articles/9da20e88.json)
 
 [Extended Data](ext_articles/9da20e88.ext.json)
-
----
-
-### Community members hold vigil for Sri Lankan victims of Ottawa mass stabbing
-
-*2024-03-10 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97847/community-members-hold-vigil-for-sri-lankan-victims-of-ottawa-mass-stabbing) · `en`
-
-OTTAWA — Grieving Ottawa-area residents and members of the local Sri Lankan community tearfully offered flowers, gifts and prayers in tribute to a slain family on Saturday as they gathered for a vigil in honour of the victims of a crime described as one of the worst mass killings in the city’s recent history.
-
-Mourners gathered under rainy skies in Palmadeo Park in Barrhaven, the suburb where a young mother, her four children and a family friend all died on Wednesday night. A 19-year-old Sri Lankan national who was living with the victims at the time is facing murder charges in their deaths.
-
-Ottawa Mayor Mark Sutcliffe, Police Chief Eric Stubbs and the Sri Lankan High Commissioner were among the dozens of people who attended the sombre gathering, which included a presentation of flowers and prayers.
-
-“Those in misery, be free from misery,” said Bhante Suneetha, a resident monk at Hilda Jayewardenaramaya Buddhist Monastery where the family worshipped.
-
-...
-
-[Data](articles/fa84e247.json)
-
-[Extended Data](ext_articles/fa84e247.ext.json)
-
----
-
-### Permission to import imports of ginger, pepper, yellow
-
-*2024-03-10 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194337) · `si`
-
-The government has allowed the import of pepper, ginger, and yellow spices, subject to approval from the Department of Import and Export Control. This decision, made after a Cabinet meeting, reverses a ban that had been in place since January 1, 2023. The Finance Ministry has set aside 35% of the importation costs for reconciliation. Only entrepreneurs approved by the Board of Investment can apply for licenses.
-
-🟩
-
-The government has taken measures to import importance to reconcile pepper, ginger, yellow.
-
-It is reported that the steps have been taken following a decision given by the Cabinet to issue relevant license under the Import and Export Control Regulations.
-
-Accordingly, pepper, nutmeg, coastal, ginger, ginger, yellow and other spices are allowed to be imported subject to the approval of the Department of Import and the Approval of Export Control.
-
-The Finance Ministry said that the sum of 35 percent to the importation of imported materials will be allowed to reconcile.
-
-Importation of these materials were completely banned from January 1, 2023.
-
-However, the Ministry of Finance has issued permission to the Cabinet Memorandum by the Minister of Investment Promotion on 6 December last year.
-
-Only entrepreneurs who approved the recommendation of the Board of Investment.
-
-...
-
-[Data](articles/fcbc19b6.json)
-
-[Extended Data](ext_articles/fcbc19b6.ext.json)
-
----
-
-### Stop arresting fresh medical graduates. Arrest quack doctors: Dr. Bellana
-
-*2024-03-10 08:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stop-arresting-fresh-medical-graduates-Arrest-quack-doctors-Dr-Bellana/108-278552) · `en`
-
-Colombo, March 10 (Daily Mirror) - Deputy Director of the National Hospital, Colombo and Government Medical Officers' Forum (GMOF) president, Dr. Rukshan Bellana, claimed that in recent weeks, the police have been arresting fresh medical graduates who were practicing under the supervision of registered doctors while failing to apprehend quack doctors who claimed to be unlicensed practitioners.
-
-He told the Daily Mirror that quack doctors are unqualified, unregistered medical practitioners practicing Allopathic medicine and Ayurvedic, Homoeopathy and indigenous medicines.
-
-"Most of the fresh medical graduates usually practice under a licenced doctor until they get their government appointments. It is not illegal to serve like that because the fresh medical graduates can earn some money and experience before getting their licences. The medical graduates do not working as independent doctors, but under a registered doctor who is the responsible person," he said.
-
-...
-
-[Data](articles/0f855ec8.json)
-
-[Extended Data](ext_articles/0f855ec8.ext.json)
-
----
-
-### Showers expected in certain parts of the country
-
-*2024-03-10 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97846/showers-expected-in-certain-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Ratnapura, Kalutara, Galle and Matara districts in the evening or night.
-
-Mainly dry weather will prevail in the other areas of the island, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and North-central provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/a5d33e8a.json)
-
-[Extended Data](ext_articles/a5d33e8a.ext.json)
 
 ---

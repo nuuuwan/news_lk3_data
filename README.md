@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 17:53:14**
+As of **2024-03-10 18:07:13**
 
 ## Newspaper Stats
 
-*Scraped **11,963** Articles*
+*Scraped **11,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,014
+adalk | 1,015
 adaderanalk | 1,453
 tamilmirrorlk | 1,460
 virakesarilk | 1,633
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,961 (100.0%) of 11,963 articles have been extended.
+11,963 (100.0%) of 11,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### கேகாலையில் விழுந்த கல்முனை மாணவன் மீட்பு
+### Kalmunai student who fell in Kegalle
 
 *2024-03-10 17:28:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேகாலையில்-விழுந்த-கல்முனை-மாணவன்-மீட்பு/76-334464) · `ta`
 
-கேகாலை அலகல்ல மலையில் முகாமிட்டு திரும்பும் போது குன்றின் மீதிருந்து விழுந்த வடமேற்கு பல்கலைக்கழக மாணவனை,  சுமார் இரண்டரை கிலோமீற்றர் மலை உச்சியில் ஏறி பாதுகாப்பாக மீட்கப்பட்டதாக இராணுவம் தெரிவித்துள்ளது.
+A student from Kalmunai, Orington Andrerado, fell on Mount Kegalla but was safely rescued.
 
-வடமேற்கு பல்கலைக்கழக தொழில்நுட்ப பீடத்தின் இரண்டாம் வருட மாணவரான கல்முனையைச் சேர்ந்த ஒரிங்டன் அன்ட்ராடோ என்ற மாணவனே  இவ்வாறு மீட்கப்பட்டுள்ளார்.
+🟩
 
-அதே பல்கலைக்கழகத்தின் தொழில்நுட்ப பீடத்தின் இரண்டாம் வருடத்தில் கல்வி கற்கும் 10 மாணவர்கள் கேகாலை அலகல்ல மலையில் ஒன்றாக முகாமிட்டிருந்த நிலையில், ஞாயிற்றுக்கிழமை (10) காலை மீண்டும் மலையிலிருந்து இறங்கும் போது மாணவர் ஒருவர் 10 அடி உயரத்தில் ஒரு பாறையில்   இருந்து கீழே விழுந்துள்ளார்.
+The army said that a student of a northwestern university student who fell on the hill on the Mount of Kegalla was safely rescued by climbing on the top of the hill of about two and a half kilometers.
+
+The second year student of the Northwest University Faculty of Technology, Orington Andrerado, a student from Kalmunai, has been rescued.
+
+In the second year of the Technical Faculty of the same university, a student fell down from a rock at 10 feet while landing on Sunday morning (10) in the morning.
 
 ◼️
 
 [Data](articles/6afc75cc.json)
+
+[Extended Data](ext_articles/6afc75cc.ext.json)
 
 ---
 
@@ -64,11 +70,17 @@ Thus, members of the public have been advised to stay hydrated, take breaks in t
 
 [Data](articles/1b5eb252.json)
 
+[Extended Data](ext_articles/1b5eb252.ext.json)
+
 ---
 
 ### Presidential Election: CWC Action Results
 
 *2024-03-10 17:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜனாதிபதி-தேர்தல்-இ-தொ-கா-அதிரடி-முடிவு/76-334462) · `ta`
+
+CWC supports Ranil Wickremesinghe for president if he addresses housing, salary, and land rights for plantation workers. CWC also emphasizes women's rights and professional rights in plantation industry.
+
+🟩
 
 The Ceylon Workers Congress will decide on whom to support the next presidential election. Jeevan Thondaman, the General Secretary of the CWC and the Minister of Water Resources and Plantation Infrastructure Development, said that the demands put forward by our party have been met and Ranil Wickremesinghe can support him if he is contesting the next presidential election.
 
@@ -87,6 +99,10 @@ He said this while addressing the gathering, Jeevan Thondaman, General Secretary
 ### Suspect arrested for fire to a woman
 
 *2024-03-10 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194352) · `si`
+
+A 42-year-old from Katukurunda, Moratuwa, was arrested for setting fire to a woman. The arrest occurred during an investigation in the Egoduyiyana police domain on February 25, 2022.
+
+🟩
 
 Police have arrested a person with a suspect involved in a woman to set fire to a woman.
 
@@ -121,6 +137,20 @@ The Navy said they continues to conduct regular patrols and operations in Sri La
 [Data](articles/70e05ea3.json)
 
 [Extended Data](ext_articles/70e05ea3.ext.json)
+
+---
+
+### පාසල් ළමුන්ට මත් ගුලි විකුණු නැන්දා අත්තඩංගුවට
+
+*2024-03-10 17:04:17* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්ට-මත්-ගුලි-විකුණු-නැන්දා-අත්තඩංගුවට/11-408519) · `si`
+
+සිංහල බෙහෙත් අලෙව්සලක තිබු රුපියල් හාරලක්ෂ අසු දහසක් පමණ වටිනා මත්ගුලි පැකට්  දෙදහස් හාරසීයක් සමග  අගලවත්ත නගරයේ සිංහල ආආයුර්වේද  ඖෂධ හලක් පවත්වාගෙන යනු ලබන  (55) හැවිරිදි  කාන්තාවක් අත්අඩංගුවට ගත් බව අගලවත්ත පොලිසිය සඳහන් කරයි.
+
+යුත්තිය මෙහෙවුමේ පවුර සංකල්පයට අනුව මීට පෙරදී අගලවත්ත නගරයේ සියලුම ආයුර්වේද ඖෂධ ශාලා හිමියන් අගලවත්ත පොලිසිය වෙත කැඳවා මෙවැනි මත්ගුලි වෛද්‍ය නිර්දේශයක් නොමැතිව පාසල් දරුවන් ඇතුළු  කිසිදු පුද්ගලයෙකුට අළෙවි නොකරන ලෙස පෞද්ගලිකවම  අවවාද කර තිබේ.
+
+◼️
+
+[Data](articles/8e504d6e.json)
 
 ---
 
@@ -2309,31 +2339,5 @@ Meanwhile, a recent survey has made an alarming revelation about period poverty 
 [Data](articles/b0a9a04c.json)
 
 [Extended Data](ext_articles/b0a9a04c.ext.json)
-
----
-
-### Sajith's party responds to President's invitation
-
-*2024-03-09 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194326) · `si`
-
-Sajith's party discusses with IMF representatives, with UNP's Tissa Attanayake stating no support for the government's program. President Wickremesinghe invited to oppose parliament leaders' meeting with IMF on 11th.
-
-🟩
-
-Most of the members of the Samagi promos have been viewed for the discussion with the International Monetary Fund representatives.
-
-The UNP's national organizer Tissa Attanayake says that this is the same.
-
-However, a media briefing held today (09) stated that the party's view will be officially informed.
-
-Tissa Attanayake, who said that the Member of the Monetary Fund returns to the island last time, he said that the party had no prospect of supporting the government's program.
-
-President Ranil Wickremesinghe was invited to the party leaders representing the Opposition of Parliament for a discussion with the International Monetary Fund delegation on the 11th.
-
-◼️
-
-[Data](articles/1c565c4b.json)
-
-[Extended Data](ext_articles/1c565c4b.ext.json)
 
 ---

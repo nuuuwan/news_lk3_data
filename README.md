@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 18:51:22**
+As of **2024-03-10 19:02:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,971 (100.0%) of 11,972 articles have been extended.
+11,972 (100.0%) of 11,972 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -192,17 +192,23 @@ In the second year of the Technical Faculty of the same university, a student fe
 
 ---
 
-### කාලගුණයෙන්  අනතුරු ඇඟවීමක්
+### A warning of the weather
 
 *2024-03-10 17:27:39* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්--අනතුරු-ඇඟවීමක්/11-408520) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව හෙට (11) දිනය සඳහා අදාළ වන පරිදි ප්‍රදේශ කිහිපයක් සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව ඇම්බර් වර්ණයෙන් යුතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+The Meteorological Department warns of warm weather in West, North Western, Southern, Sabaragamuwa, and Mannar districts tomorrow.
 
-එහි දැක්වෙන පරිදි හෙට දිනයේ බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් තත්ත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+🟩
+
+The Department of Meteorological Department has issued a hurry warning announcement on warm weather conditions for several areas, as applicable to tomorrow (11).
+
+According to it, the warm quality of some places in the West, North Western, Southern and Sabaragamuwa and Mannar districts will be paid to tomorrow.
 
 ◼️
 
 [Data](articles/e66c67eb.json)
+
+[Extended Data](ext_articles/e66c67eb.ext.json)
 
 ---
 

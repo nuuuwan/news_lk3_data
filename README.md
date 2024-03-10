@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 09:02:59**
+As of **2024-03-10 09:17:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,906 (100.0%) of 11,908 articles have been extended.
+11,908 (100.0%) of 11,908 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,27 +52,33 @@ Ottawa Mayor Mark Sutcliffe, Police Chief Eric Stubbs and the Sri Lankan High Co
 
 ---
 
-### ඉඟුරු, ගම්මිරිස්, කහ ඇතුළු කුළුබඩු  වර්ග ආනයනයට අවසර
+### Permission to import imports of ginger, pepper, yellow
 
 *2024-03-10 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194337) · `si`
 
-ගම්මිරිස්, ඉඟුරු, කහ ඇතුළු කුළුබඩු වර්ග ප්‍රතිඅපනයනය කිරීම සඳහා ආනයනයට අවසර ලබාදීමට රජය පියවර ගෙන තිබේ.
+The government has allowed the import of pepper, ginger, and yellow spices, subject to approval from the Department of Import and Export Control. This decision, made after a Cabinet meeting, reverses a ban that had been in place since January 1, 2023. The Finance Ministry has set aside 35% of the importation costs for reconciliation. Only entrepreneurs approved by the Board of Investment can apply for licenses.
 
-ආනයන හා අපනයන පාලන රෙගුලාසි යටතේ ඊට අදාළ ආනයන බලපත්‍ර නිකුත් කිරීමට කැබිනට් මණ්ඩලය විසින් ලබාදුන් තීන්දුවකට අනුව එම පියවර ගෙන ඇති බව වාර්තා වෙයි.
+🟩
 
-ඒ අනුව, ගම්මිරිස්, සාදික්කා, වසාවාසි, කරඳමුංගු, ඉඟුරු, කහ සහ අනෙකුත් කුළුබඩු වර්ග ආනයන හා අපනයන පාලන ජනරාල්වරයාගේ අනුමැතියට යටත්ව ආනයනය කිරීමට අවසර හිමිව තිබේ.
+The government has taken measures to import importance to reconcile pepper, ginger, yellow.
 
-එලෙස ආනයනය කරනු ලබන ද්‍රව්‍ය සඳහා දේශීයව සියයට 35ක අවම අගයක් එකතු කිරීමෙන් අනතුරුව ප්‍රතිඅපනයනය කිරීම සඳහා අවසර හිමිවන බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
+It is reported that the steps have been taken following a decision given by the Cabinet to issue relevant license under the Import and Export Control Regulations.
 
-2023 වර්ෂයේ ජනවාරි මස පළමුවන දින සිට ක්‍රියාත්මක වන පරිදි එම ද්‍රව්‍ය මෙරටට ආනයනය කිරීම සම්පූර්ණයෙන්ම තහනම් කර තිබුණි.
+Accordingly, pepper, nutmeg, coastal, ginger, ginger, yellow and other spices are allowed to be imported subject to the approval of the Department of Import and the Approval of Export Control.
 
-කෙසේවෙතත් ආයෝජන ප්‍රවර්ධන අමාත්‍යවරයා විසින් පසුගිය වසරේ දෙසැම්බර් 06 වන දින ඉදිරිපත් කළ අමාත්‍ය මණ්ඩල සංදේශයට අනුව තෝරාගත් කුළුබඩු ආනයනය කර ප්‍රතිඅපනයනය කිරීමට මුදල් අමාත්‍යංශය අවසර ලබා දී තිබේ.
+The Finance Ministry said that the sum of 35 percent to the importation of imported materials will be allowed to reconcile.
 
-ප්‍රතිඅපනයනය කිරීම සඳහා අදාළ ද්‍රව්‍ය ආනයනය කිරීමට අවසර හිමිවන්නේ ආයෝජන මණ්ඩලයේ නිර්දේශ මත අනුමත කරන ලද ව්‍යවසායකයින්ට පමණි.
+Importation of these materials were completely banned from January 1, 2023.
+
+However, the Ministry of Finance has issued permission to the Cabinet Memorandum by the Minister of Investment Promotion on 6 December last year.
+
+Only entrepreneurs who approved the recommendation of the Board of Investment.
 
 ...
 
 [Data](articles/fcbc19b6.json)
+
+[Extended Data](ext_articles/fcbc19b6.ext.json)
 
 ---
 
@@ -188,21 +194,27 @@ The maritime regions around the country are expected to be in a moderate wave.
 
 ---
 
-### රාවණා ඇල්ල රක්ෂිතයේ විශාල ගින්නක් පාලනය කරයි
+### Ravens catching a large fire in Rawana Ella Reserve
 
 *2024-03-10 07:26:05* · [`adalk`](https://www.ada.lk/breaking_news/රාවණා-ඇල්ල-රක්ෂිතයේ-විශාල-ගින්නක්-පාලනය-කරයි/11-408505) · `si`
 
-ඇල්ල රාවණා ඇල්ල අභය භූමියේ ඊයේ රාත්‍රී (09) හටගත්  විශාල ගින්නක්  වන ඡීවී අංශවල මූලිකත්වයෙන් සිදු කළ මෙහෙයුමකින්  අද (10) අලුයම වන විට නිවා දැමීමට හැකි වූ  බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+A large fire in Rawana Ella Reserve, believed unintentional, has been extinguished with the help of local authorities. The Disaster Management Center (DMC) and wildlife officials are investigating.
 
-ඇල්ල රාවණා ඇල්ල අභය භූමියේ ගෝවුස්ස ප්‍රදේශයේ මෙම ගින්න හට ගෙන තිබුණි. කිසිවෙකු විසින් තැබූ ගින්නක් මෙලෙසින් පැතිර යන්නට ඇතැයි වන ජීවී නිලධාරීහු පැවසුහ.
+🟩
 
-වියලි කාලගුණික තත්ත්වය සහ සුළං සමග වේගයෙන් පැතිර ගිය ගින්න නිවා දැමීමට  වනජීවී නිලධාරීන් පොලීසිය සහ ආපදා සහන සේවා නිලධාරීහු  ප්‍රදේශවාසීන් සමග  එක්ව මහත්  පරිශ්‍රමයක් දැරූහ.
+The Disaster Management Center (DMC) said that the LTTE was a large fire in the Ella Ravana Falls in the Ella Ravana Falls.
 
-ඉහළ පාරිසරික වටිනාකමක් ඇති ප්‍රදේශයක මෙම ගින්න පැතිරී ගොස් තිබුණි. ඇල්ල පොලිසිය මේ සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර තිබේ.
+The fire had occurred in the Gouzu area of the Ella Ravana Falls.. Wildlife officials said there was a fire that no one had spread.
+
+Wildlife Officers Police and Disaster Relief Services Officers were playing with the residents of the area to extinguish fastest with dry weather conditions and winds.
+
+This fire had spread in an area of high environmental value. The Ella Police have launched an investigation into the matter.
 
 ◼️
 
 [Data](articles/264b5cea.json)
+
+[Extended Data](ext_articles/264b5cea.ext.json)
 
 ---
 

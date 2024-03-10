@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 07:41:45**
+As of **2024-03-10 07:53:31**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 1,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,890 (100.0%) of 11,892 articles have been extended.
+11,892 (100.0%) of 11,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### ලෝක රූ රැජින ක්‍රිස්ටිනා
+### The World's Queen Christina
 
 *2024-03-10 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194336) · `si`
 
-මෙවර ලෝක රූ රැජින කිරුළ චෙක් ජනරජයේ ක්‍රිස්ටිනා පිස්කෝවා විසින් හිමිකරගෙන තිබේ.
+Christina, the world's queen, won the 100th World Queen title in Mumbai, India, attended by 115 countries. Syriya Shetty, 22, became India's first queen after 28 years.
 
-71 වෙනි ලෝක රූ රැජින කිරුළ ඉන්දියාවේ මුම්බායිහිදී ඊයේ (09) රාත්‍රී අතිඋත්කර්ෂවත් අයුරින් පවත්වනු ලැබීය.
+🟩
 
-එම තරගාවලිය සඳහා රටවල් 115ක තරගකාරිනියන් සහභාගී වූ අතර චෙක් ජනරජයේ ක්‍රිස්ටිනා පිස්කෝවා එහිදී ලෝක රූ රැජින කිරුළ හිමිකර ගැනීමට සමත් වූවාය.
+The queen of the world has won the queen of the world.
 
-වසර 28කට පසු එම තරගාවලියේ සත්කාරකත්වය දැරූ ඉන්දියාව නියෝජනය කළ 22 හැවිරිදි සිනී ෂෙට්ටි තරගාවලියේ පළමු 08 දෙනා අතරට තේරී පත්වීම වි‍ශේෂත්වයකි.
+The 100th World Queen crushing was held in the Mumbai, India and was held in the night.
+
+In 115 countries, 115 countries were present at the event.
+
+After 28 years, the 22-year-old Syriya Shetty is the first eight of India.
 
 ◼️
 
 [Data](articles/8b3f05a0.json)
 
+[Extended Data](ext_articles/8b3f05a0.ext.json)
+
 ---
 
-### ‍පළාත් පාලන ආයතන සේවකයින් ස්ථීර කිරීමට වැඩපිළිවෙළක්
+### Local Government Agencies perform
 
 *2024-03-10 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194335) · `si`
 
-පළාත් පාලන ආයතන තුළ සිටින සේවකයින් ස්ථීර කිරීම සඳහා කඩිනම් පියවර ගන්නා බව රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පවසයි.
+The State Minister of Public Administration and Home Affairs, Janaka Wakkumbura, has assured immediate action to establish 8,400 employees in local government bodies, with cabinet approval received.
 
-ඒ සඳහා අවශ්‍ය කැබිනට් අනුමැතිය ද මේ වනවිට ලැබී ඇති බව ඔහු සඳහන් කළේය.
+🟩
 
-ඒ අනුව පළාත් පාලන ආයතන වල සේවකයින් 8,400ක් ස්ථීර කිරීමට නියමිතය.
+State Minister of Public Administration and Home Affairs Janaka Wakkumbura says that immediate action will be taken to ensure employees in local government bodies.
+
+He also said that the cabinet approval has been received so far.
+
+Accordingly, 8,400 employees of local government will be established.
 
 ◼️
 
 [Data](articles/a3ea9030.json)
+
+[Extended Data](ext_articles/a3ea9030.ext.json)
 
 ---
 

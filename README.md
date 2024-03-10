@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 23:33:10**
+As of **2024-03-10 23:51:41**
 
 ## Newspaper Stats
 
-*Scraped **11,997** Articles*
+*Scraped **12,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
 dailyftlk | 617
-economynextcom | 623
+economynextcom | 626
 islandlk | 646
 adalk | 1,017
-adaderanalk | 1,458
+adaderanalk | 1,459
 tamilmirrorlk | 1,462
 virakesarilk | 1,639
 dailymirrorlk | 1,838
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,997 (100.0%) of 11,997 articles have been extended.
+11,997 (100.0%) of 12,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Palestinians prepare for Ramadan in the shadow of Gaza war
+
+*2024-03-10 23:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97860/palestinians-prepare-for-ramadan-in-the-shadow-of-gaza-war) · `en`
+
+(Reuters) - Palestinians prepared for Ramadan in sombre mood with heightened security measures by Israeli police and the spectre of war and hunger in Gaza overshadowing the normally festive Muslim holy month as talks to secure a ceasefire stalled.
+
+Thousands of police have been deployed around the narrow streets of the Old City in Jerusalem, where tens of thousands of worshippers are expected every day at the Al Aqsa mosque compound, one of the holiest sites in Islam.
+
+The area, considered the most sacred place by Jews who know it as Temple Mount, has been a longstanding flashpoint for trouble and was one of the starting points of the last war in 2021 between Israel and Hamas, the Islamist movement that controls Gaza.
+
+That 10-day conflict has been dwarfed by the current war, which is now in its sixth month. It began on Oct. 7 when thousands of Hamas fighters stormed into Israel, killing some 1,200 people, by Israeli tallies.
+
+...
+
+[Data](articles/7155a1eb.json)
+
+---
 
 ### Conference to determine the title of Ramadan month
 
@@ -1080,6 +1098,28 @@ The suspects had fled the area after the accident and the suspects arrested afte
 
 ---
 
+### Sri Lanka expects to have nuclear power framework ready next year: Minister
+
+*2024-03-10 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-to-have-nuclear-power-framework-ready-next-year-minister-153967/) · `en`
+
+ECONOMYNEXT- Sri Lanka plans to complete work on a legal structure for nuclear energy by next year, backed by international expertise, and the country also needed capacity to deal with nuclear waste and skills in evaluating projects, Energy Minister Kanchana Wijesekara said.
+
+Sri Lanka also has to have procedures to handle nuclear waste and emergencies
+
+“We are hopeful that the law, the new structure, will be ready in the next year,” Minister Wijesekara told reporters on March 07.
+
+Global agencies required that legal framework be in place before a country, some agreements to be signed with atomic energy agencies.
+
+Sri Lanka should have procedures on how to dispose of nuclear waste and handle emergencies.
+
+There are certain criteria that we need to fulfil,” Minister Wijesekera said.  “So, we are in the process of doing that. So that we are able to handle nuclear waste, how we are going to dispose of it. In case of an emergency how we are going to handle it.
+
+...
+
+[Data](articles/e06a7485.json)
+
+---
+
 ### Strike
 
 *2024-03-10 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-வேலைநிறுத்தம்/175-334451) · `ta`
@@ -1397,6 +1437,30 @@ An art completion at the national level was amongst the various ocean-awareness 
 [Data](articles/92159c78.json)
 
 [Extended Data](ext_articles/92159c78.ext.json)
+
+---
+
+### Sri Lanka low grown teas ease at auction, high growns up
+
+*2024-03-10 12:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-low-grown-teas-ease-at-auction-high-growns-up-153961/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea price averages fell at an auction March 5-6, dragged with Low Growns weakening, while High and Medium Growns gained, industry data showed.
+
+Sri Lankan tea prices have moved up in 2024 both in rupee and US dollar terms.
+
+The national weekly sale average fell by 20.61 rupees to 1344.39 rupees a kilogram this week, from 1,365 rupees week industry data published by Ceylon Tea Brokers showed.
+
+The weekly average was 4.47 US dollars a kilo, up from 4.21 a week earlier.
+
+Prices have gained from an average of 3.66 US dollar a kilo seen at the last auction in December.
+
+The weekly average of Sri Lanka’s highest priced teas, the Low Grown, fell 54.11 rupees to 1,397.54 rupees.
+
+BOP1 Select best and categories within Bests maintained and fell, whilst Below Best and poorer sorts maintained. OP1 Select best fell irregularly, while best and below best were gained. Poorer sorts of OP1 Select bests maintained. OP and OPA maintained prices, while Select bests varieties gained.
+
+...
+
+[Data](articles/f2a41ad5.json)
 
 ---
 
@@ -2094,6 +2158,26 @@ This is the difficulty of this is what this is difficult for me to do this is wh
 
 ---
 
+### NDB starts savings scheme for HNI children
+
+*2024-03-10 07:38:00* · [`economynextcom`](https://economynext.com/ndb-starts-savings-scheme-for-hni-children-153969/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s NDB Bank said it has started a savings scheme targeting children of high-net-worth individuals with facilities to support digital banking from the early teens.
+
+“Nurturing future leaders with financial acumen, NDB Privilege Junior Savings serves as the bedrock for a secure and prosperous future,” Chief Executive Kelum Edirisinghe said in a statement.
+
+Aimed at resident Sri Lankan minors aged 1 day to 18 years, the savings products also helps children from 13 to 18 year move into cashless transactions.
+
+A debit card facility is available for teenagers from 13 to 18 years via at ‘NEOS Pixel Digital Savings Account’ and mobile banking facilities.
+
+The account actively encourages “life skills, promoting compulsory savings, prioritising easy withdrawals for emergencies or educational needs, and fostering digital banking skills early on through the Bank’s mobile app, NEOS,” the bank said.
+
+◼️
+
+[Data](articles/cfd71fb6.json)
+
+---
+
 ### Change on the identity card of Buddhist clergy?
 
 *2024-03-10 07:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-மதகுருக்களின்-அடையாள-அட்டையில்-மாற்றம்/175-334437) · `ta`
@@ -2259,103 +2343,5 @@ The Department of Meteorology said that in some places in the Western, Sabaragam
 [Data](articles/13c05b97.json)
 
 [Extended Data](ext_articles/13c05b97.ext.json)
-
----
-
-### The South's Randu Industry: How can I take ahead?
-
-*2024-03-10 04:00:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck5wnldzr6do) · `si`
-
-The Randu Industry in Sri Lanka's South, originating from the Portuguese and Dutch periods, is rich in history and includes turtle, wood carving, jewelry, and beer production. Despite challenges like lack of demand and imitation products, efforts are being made to preserve and promote this heritage, including government support and academic research.
-
-🟩
-
-The South's Randu Industry: How can I take ahead?
-
-The southern province is only the Randiary of the Southern Province arrived in Sri Lanka in the Portuguese and Dutch period. The industry in Galle to Weligama and Dikwella, the industry is available in Galle and Weligama town.
-
-Galle city holds an important place. Galle was a popularity in Galle. At the same time, various items were made known as a market exchanged and soldiers in Sri Lanka through various industries.
-
-The turtle industry, a wooden carvings, jewelery, jewelery and beer radio was popular.
-
-Investigating the bribe of bribe of these industries, it proves that it has no clear evidence that it has come to the Portuguese.
-
-Another one legend is that the coastline has started in the coastline with the archery coward in the past before the Portuguese, Dutch and English invasions.
-
-However, in the Sri Lankan tradition, the history of the luxiliary industry can be clearly studied by the Portuguese era.
-
-...
-
-[Data](articles/14f0f75a.json)
-
-[Extended Data](ext_articles/14f0f75a.ext.json)
-
----
-
-### Government purchases paddy from tomorrow
-
-*2024-03-10 03:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-அரசாங்கம்-நெல்-கொள்வனவு/175-334435) · `ta`
-
-Government to buy paddy from tomorrow, despite no assistance yet. Minister Mahinda Amaraweera expects to secure funds by next week. Purchasing will proceed with ministry's funds if assistance is not available.
-
-🟩
-
-Agriculture Minister Mahinda Amaraweera has said that the government will start the purchase of paddy from tomorrow.
-
-However, Agriculture Minister Mahinda Amaraweera has said that the government has not received assistance from the government and that he will be able to get his assistance in the coming week.
-
-Even if the assistance is not available, the paddy purchasing process will be initiated through the Ministry's funds. (A)
-
-◼️
-
-[Data](articles/92ca1ac7.json)
-
-[Extended Data](ext_articles/92ca1ac7.ext.json)
-
----
-
-### Increase in forex income
-
-*2024-03-10 03:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்நியச்-செலாவணி-வருமானம்-அதிகரிப்பு/175-334434) · `ta`
-
-The Labor and Foreign Employment Ministry reported a $476 million increase in forex income from foreign workers in February, a 14% rise year-on-year, attributed to projects like electronic vehicle imports, multi-purpose loan schemes, and pension system introduction.
-
-🟩
-
-The Labor and Foreign Employment Ministry said that the country was received by US $ 476 million in February by foreign workers.
-
-The ministry said that 14 percent of foreign exchange increased this year compared to February last year.
-
-It has been pointed out that the increase is due to projects, including the permitting of electronic vehicle imports, the implementation of the multi -purpose loan scheme and the introduction of the pension system.. (A)
-
-◼️
-
-[Data](articles/c64bfc6c.json)
-
-[Extended Data](ext_articles/c64bfc6c.ext.json)
-
----
-
-### Action to bring Sri Lankans
-
-*2024-03-10 03:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-அழைத்து-வர-நடவடிக்கை/175-334433) · `ta`
-
-The Sri Lankan Foreign Ministry is taking measures to return two Sri Lankans rescued from a ship attacked by a drone missile in the Red Sea, with the Sri Lankan Ambassador to Ethiopia involved. The attack occurred on a vessel traveling from China to Jeddah, and the ship's crew was saved by the Indian Navy's Kolkata Knight Ship.
-
-🟩
-
-The Foreign Ministry has said that steps will be taken to bring the two Sri Lankans who have been rescued from the ship's attack on the Red Sea in the Red Sea.
-
-The Ministry of External Affairs said that steps are being taken to return the two men to the country by the Sri Lankan Ambassador to Ethiopia.
-
-The drone missile attack was launched last Thursday on a business vessel traveling from China to Jeddah.
-
-Staff on the ship have been rescued by the Indian Navy's Kolkata Knight Ship.
-
-◼️
-
-[Data](articles/b508b7b6.json)
-
-[Extended Data](ext_articles/b508b7b6.ext.json)
 
 ---

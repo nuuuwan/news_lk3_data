@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 19:02:42**
+As of **2024-03-10 19:17:36**
 
 ## Newspaper Stats
 
-*Scraped **11,972** Articles*
+*Scraped **11,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,016
 adaderanalk | 1,455
 tamilmirrorlk | 1,460
 virakesarilk | 1,634
-dailymirrorlk | 1,828
+dailymirrorlk | 1,829
 adaderanasinhalalk | 1,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,972 (100.0%) of 11,972 articles have been extended.
+11,972 (100.0%) of 11,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Army troops rescue university student who fell off Alagalla Mountain
+
+*2024-03-10 18:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-troops-rescue-university-student-who-fell-off-Alagalla-Mountain/108-278562) · `en`
+
+The Army troops have rescued a university student who had fallen down the treacherous slopes of the Alagalla Mountain in Kegalle.
+
+The incident occured when a group of 10 students from the University of Wayaba, who had been on a night camp excursion yesterday, encountered an unforeseen mishap.
+
+One of the students had fallen down a steep cliff, sustaining severe injuries.
+
+The troops promptly provided necessary medical assistance and stabilized his condition. The rescued student was transferred to the Mawanella Hospital for further medical treatment.
+
+◼️
+
+[Data](articles/b1e5ffb5.json)
+
+---
 
 ### Central Mail Exchange employees to strike over broken elevator
 
@@ -2343,25 +2361,5 @@ Reading the late ACB Pethiyagoda’s memoir of his time at Jaffna College, Vaduk
 [Data](articles/ee8c91d4.json)
 
 [Extended Data](ext_articles/ee8c91d4.ext.json)
-
----
-
-### SJB to boycott meeting convened by President with IMF delegates
-
-*2024-03-09 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97842/sjb-to-boycott-meeting-convened-by-president-with-imf-delegates) · `en`
-
-The majority of the Members of Parliament representing the Samagi Jana Balawegaya (SJB) have reportedly decided not to participate the meeting with the representatives of the International Monetary Fund (IMF) convened by President Ranil Wickremesinghe.
-
-This was revealed by the National Organizer of the SJB Tissa Attanayake today (March 09).
-
-Joining a press briefing held today, MP Attanayake stated that however the party’s stance on the matter would be officially communicated later.
-
-Attanayake further said that the IMF delegation, similar to the last time they were in Sri Lanka, would meet with and hold discussions with the opposition leader this time as well. He also pointed out that the SJB does not expect to take part in any discussions convened by the President to seek support for the government’s program.
-
-...
-
-[Data](articles/67404ab8.json)
-
-[Extended Data](ext_articles/67404ab8.ext.json)
 
 ---

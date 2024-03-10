@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 09:17:39**
+As of **2024-03-10 09:33:22**
 
 ## Newspaper Stats
 
-*Scraped **11,908** Articles*
+*Scraped **11,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
 dailymirrorlk | 1,820
-adaderanasinhalalk | 1,876
+adaderanasinhalalk | 1,877
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,908 (100.0%) of 11,908 articles have been extended.
+11,908 (100.0%) of 11,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### ඇල්පිටියේ ඝාතනය ගැන පොලීසිය නිකුත්කළ නිවේදනය
+
+*2024-03-10 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194338) · `si`
+
+ඇල්පිටිය පොලිස් වසමේ දී සිදුකළ 17 හැවිරිදි තරුණියගේ ඝාතනය සම්බන්ධයෙන් පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එම තරුණිය තම දෙමව්පියන් සමග තල්ගහවත්ත, කරන්දෙනිය ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ඇයගේ වැඩිමහල් සහෝදරියගේ ස්වාමි පුරුෂයා සමග අනියම් සම්බන්ධතාවක් පවත්වා ඇති බව පොලීසිය පවසයි.
+
+මරණකාරිය සහ සැකකරු දැනට මාස කිහිපයකට පෙර සිට ඇල්පිටිය ප්‍රදේශයේ කුලී නිවසක එකට ජීවත්න ඇති බවට විමර්ශනයේදී අනාවරණ වූ බව පොලීසිය පවසයි.
+
+දෙදෙනා අතර ඇතිවූ ආරවුලක් හේතුවෙන් එම තරුණිය නැවත තම මව සිටින නිවසට පැමිණ සිට ඇත.
+
+පසුව ආසන්න දිනක අනියම් සම්බන්ධතාවය පැවැත්වූ පුරුෂයා විසින් බැන තර්ජනය කිරීමක් සම්බන්ධයෙන් පසුගිය 04 වනදා කරන්දෙණිය පොලිස් ස්ථානය වෙත පැමිණිල්ලක් සිදුකර තිබුණි.
+
+එම පැමිණිල්ල විභාගය සඳහා  08 වනදා පොලිස් ස්ථානයට යමින් සිටියදී සැකකරු තවත් කිහිපදෙනෙකු සමග ත්‍රිරෝද රථයකින් පැමිණ තල්ගහවත්ත ප්‍රදේශයේදී ඇයව පැහැරගෙන ගොස් තිබේ.
+
+මෙම තරුණිය පැහැර ගත් සැකකරු විසින් මෙම ඝාතනය සිදුකර ඇති බවට පොලිසිය විසින් සැකකරනු ලබන අතර ඔහු මේ වනවිට ප්‍රදේශයෙන් පළාගොස් ඇත.
+
+...
+
+[Data](articles/9da20e88.json)
+
+---
 
 ### Community members hold vigil for Sri Lankan victims of Ottawa mass stabbing
 
@@ -2305,35 +2329,5 @@ Two women who were injured in the accident are currently being treated at the An
 [Data](articles/acf0d3c2.json)
 
 [Extended Data](ext_articles/acf0d3c2.ext.json)
-
----
-
-### Manually from Parachu
-
-*2024-03-09 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194312) · `si`
-
-A parachute carrying a management package caused a deadly collision, killing five. Aid from the US, Jordan, Egypt, France, Netherlands, and Belgium is being provided to Gaza. The US and Jordan Air Force are jointly aiding Gaza. Jordan reports the accident was due to a plane. The UN states that 2.3 million children in Gaza are a quarter of the population. Aid donations to Gaza are planned to start this weekend.
-
-🟩
-
-Five people have been killed by a manufactured package from a gaze collision.
-
-Foreign Reports said that the accident had occurred when a parachute carrying a management.
-
-The US, Jordan, Egypt, France, Netherlands, and Belgium have been provided with aid to the Gaza.
-
-The US and the Jordan Air Force jointly performed flight aid to the Gaza.
-
-Meanwhile, Jordan has said that the incident reported that the accident had occurred due to a plane.
-
-The United Nations says that children of 2.3 million population in Gaza are a quarter of 2.3 million people.
-
-Plans are afoot to donate aid to the Gaza with effect from this weekend.
-
-◼️
-
-[Data](articles/aad4b06a.json)
-
-[Extended Data](ext_articles/aad4b06a.ext.json)
 
 ---

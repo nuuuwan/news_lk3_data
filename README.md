@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 13:03:02**
+As of **2024-03-10 13:17:35**
 
 ## Newspaper Stats
 
-*Scraped **11,933** Articles*
+*Scraped **11,935** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 112
 bbccomsinhala | 141
-dbsjeyarajcom | 181
+dbsjeyarajcom | 182
 newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
@@ -19,14 +19,14 @@ adalk | 1,008
 adaderanalk | 1,449
 tamilmirrorlk | 1,453
 virakesarilk | 1,633
-dailymirrorlk | 1,825
+dailymirrorlk | 1,826
 adaderanasinhalalk | 1,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,930 (100.0%) of 11,933 articles have been extended.
+11,933 (100.0%) of 11,935 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ An art completion at the national level was amongst the various ocean-awareness 
 
 [Data](articles/92159c78.json)
 
+[Extended Data](ext_articles/92159c78.ext.json)
+
 ---
 
 ### Sri Lanka reignite timed-out row after T20 series win over Bangladesh
@@ -69,6 +71,8 @@ Bangladesh defeated Sri Lanka by three wickets in a World Cup group-stage game i
 ...
 
 [Data](articles/9b6d02c9.json)
+
+[Extended Data](ext_articles/9b6d02c9.ext.json)
 
 ---
 
@@ -469,6 +473,8 @@ A total of 16 people have died after being bitten by stray dogs last year.
 ...
 
 [Data](articles/0e05568a.json)
+
+[Extended Data](ext_articles/0e05568a.ext.json)
 
 ---
 
@@ -1578,6 +1584,22 @@ The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commiss
 
 ---
 
+### Funeral rites according to wishes of victims’ families: Foreign Ministry
+
+*2024-03-09 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Funeral-rites-according-to-wishes-of-victims-families-Foreign-Ministry/155-278551) · `en`
+
+Colombo, March 9 (Daily Mirror)- The Ministry of Foreign Affairs said it is in communication with the family members in Sri Lanka of the six Sri Lankans who were murdered in Ottawa, Canada and is facilitating their requests with the relevant Canadian authorities through the Sri Lankan High Commission while respecting their privacy.
+
+The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commission in Ottawa of the tragic death of six Sri Lankans, including a mother, four children, and a family acquaintance, in a residence in Barrhaven, Ottawa on March 7, 2024, the Ministry said in a statement.
+
+"The husband and father of the victims were found injured at the scene, and was admitted to the hospital, where he is currently undergoing treatment. The law enforcement authority has arrested a 19-year-old Sri Lankan in connection with the homicide, and he is currently in police custody," the statement added.
+
+...
+
+[Data](articles/9bcca76d.json)
+
+---
+
 ### A ‘raththaran’ row over new chairman of parliamentary oversight committee
 
 *2024-03-09 18:09:00* · [`islandlk`](http://island.lk/a-raththaran-row-over-new-chairman-of-parliamentary-oversight-committee/) · `en`
@@ -2349,25 +2371,5 @@ The driver of the lorry has been arrested and Koskama police are conducting furt
 [Data](articles/8d339013.json)
 
 [Extended Data](ext_articles/8d339013.ext.json)
-
----
-
-### Maintenance activities restrict train operations on Coastal Line
-
-*2024-03-09 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maintenance-activities-restrict-train-operations-on-Coastal-Line/108-278545) · `en`
-
-Colombo, March 09 (Daily Mirror) - Sri Lanka Railways has announced that train operations on a section of the Coastal Line, spanning from Colombo Fort to Wellawatte railway stations, will be restricted due to essential maintenance activities.
-
-The Department of Railways has informed that train services will be limited to a single track on March 9, 10 and 11, 2024.
-
-The decision to restrict train operations comes as a result of essential maintenance work on a bridge situated between the Kollupitiya and Slave Island railway stations, alongside pipeline laying activities conducted by the National Water Supply and Drainage Board.
-
-As a consequence, commuters travelling along the coastal line should anticipate possible delays during this period, cautioned the Department of Railways.
-
-◼️
-
-[Data](articles/9f002bea.json)
-
-[Extended Data](ext_articles/9f002bea.ext.json)
 
 ---

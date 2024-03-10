@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 20:17:46**
+As of **2024-03-10 20:33:21**
 
 ## Newspaper Stats
 
-*Scraped **11,977** Articles*
+*Scraped **11,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,455
 tamilmirrorlk | 1,461
-virakesarilk | 1,634
-dailymirrorlk | 1,830
-adaderanasinhalalk | 1,895
+virakesarilk | 1,635
+dailymirrorlk | 1,831
+adaderanasinhalalk | 1,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,977 (100.0%) of 11,977 articles have been extended.
+11,977 (100.0%) of 11,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### කැනඩාවේ ඝාතකයාට සැලකූ හැටි මුල්වරට එළියට
+
+*2024-03-10 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194357) · `si`
+
+කැනඩාවේ, ඔටාවා හී සමූහ ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ පවුලේ මීට දින කිහිපයකට පෙර පැවති උත්සවයක දර්ශන පෙළක් එරට මාධ්‍ය වාර්තා කර තිබුණි.
+
+එහි දැක්වුණේ මෙම ඝාතනයේ ප්‍රධාන සැකකරු වන ෆ්‍රෑන්ක් ද සොයිසාගේ 19 වැනි උපන්දිනය එහි සැමරූ ආකාරයයි.
+
+ඔහුගේ උපන්දිනය මෙම ඝාතනය වූ නිවසේදීම බැලුම් එල්ලා අලංකාරවත් ලෙස සමරා තිබුණි.
+
+එම දිනයේදී ඔහුට චීස් කේක් කෑමට කැමැත්තක් තිබී ඇති බවත්, ඒ අනුව ධනුෂ්ක ඇතුළු පවුලේ සමාජිකයින් ඔහු වෙත චීස් කේක් ලබාදී ඇති බවත් ධනුෂ්කගේ පවුලේ හිතවතුන් සඳහන් කළේය.
+
+මේ අතර කැනඩාවේ, ඔටාවා හී සමූහ ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ පවුලේ ඥාතීන් ඉදිරි දින කිහිපයේදී එරටට පැමිණිමෙන් පසු අවසන් කටයුතු සිදුකිරීමට සැලසුම් කර ඇතැයි කැනඩාවේ ශ්‍රී ලංකා මහකොමසාරිස් හර්ෂ නවරත්න මහතා පවසයි.
+
+ඝාතනයට ලක්වූවන් වෙනුවෙන් බාර්හෙවන් ප්‍රදේශවාසින් ''සිහිපත් කිරීමේ වැඩසටහනක්''ද ඊයේ සංවිධාන කර තිබුණි.
+
+◼️
+
+[Data](articles/2815f191.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தி உள்ளிட்ட அனைவரும் பழைய விடயங்களை மறந்து எங்களுடன் இணையுங்கள் - ஜனாதிபதி ரணில்
+
+*2024-03-10 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178377) · `ta`
+
+பழைய விடயங்களை மறந்துவிட்டு ஐக்கிய மக்கள் சக்தி உள்ளிட்ட அனைவரும் எங்களுடன் இணைந்துகொள்ள முன்வர வேண்டும்.
+
+நாங்கள அனைவரும் ஒன்றாக இணைந்து இந்த நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப முன்வர வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அத்துடன் வங்குராேத்து அடைந்திருந்த நாட்டை மீண்டும் மீட்பதற்கு 5வருடங்கள் வரை செல்லும் என்றே அனைவரும் நினைத்தனர். ஆனால்  குறுகிய காலத்தில் எங்களால் முடியுமாகி இருக்கிறது எனவும் தெரிவித்தார்.
+
+குருணாகலை குலியாபிடி நகரசபை வளாகத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் மக்கள் பேரணியில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/19a9b749.json)
+
+---
 
 ### “My name has been cut from the list”
 
@@ -913,6 +953,24 @@ The Minister of State has called on the coat today, saying that there is no need
 [Data](articles/2b1e2cc3.json)
 
 [Extended Data](ext_articles/2b1e2cc3.ext.json)
+
+---
+
+### Gotabaya’s book is an attempt to paint image of innocence: National Unity Alliance
+
+*2024-03-10 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gotabayas-book-is-an-attempt-to-paint-image-of-innocence-National-Unity-Alliance/155-278557) · `en`
+
+Colombo, March 10 (Daily Mirror)- The book released by Gotabaya Rajapaksa on an alleged Conspiracy to Oust him is the latest attempt by the “president who ran away” to paint an image of innocence,National Unity Alliance said.
+
+A statement issued by the National Unity Alliance said  the seventh executive president was ousted by the people of Sri Lanka.
+
+"The people highlighted his lack of equitable governance, his penchant for unchallenged power and his serious lack of accountability, responsibility and willingness to be portrayed as a racist apart from turning a blind eye towards corruption and the erosion of the rule of law.
+
+He appeared to have completely forgotten the ideals of democratic ideals so cherished by all Sri Lanka. Gotabaya was ousted not just by the people - divine intervention came into play when he without rhyme or reason gave his name to the cremation of Muslims who perished due to Covid 19," the statement added.
+
+...
+
+[Data](articles/595d5401.json)
 
 ---
 
@@ -2309,79 +2367,5 @@ In the meantime, Bangladesh were bowled out for 175 runs and lost all wickets in
 [Data](articles/0d7a86bb.json)
 
 [Extended Data](ext_articles/0d7a86bb.ext.json)
-
----
-
-### Ottawa mass killing: Man who died in homicide had children, wife in Sri Lanka
-
-*2024-03-09 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97843/ottawa-mass-killing-man-who-died-in-homicide-had-children-wife-in-sri-lanka) · `en`
-
-The man who died alongside five members of a family in a mass killing in Ottawa’s Barrhaven neighbourhood on Wednesday is said to have been supporting his own family in Sri Lanka.
-
-Gamini Amarakoon, an acquaintance of the Wickramasinghe family, was living with them when he, along with the mother of the family and her four children, were killed.
-
-Their bodies were found by police inside a townhouse the family was renting on Berrigan Drive near Palmadeo Drive in the capital’s southern suburbs, after the police received 911 calls to the home late on Wednesday night.
-
-Dhanushka Wickramasinghe, the father of the family, was the sole survivor of the attack.
-
-The family were newcomers from Sri Lanka, from which Amarakoon had arrived even more recently, according to Anzul Jhan, the Sri Lankan Deputy High Commissioner.
-
-...
-
-[Data](articles/3b550c6b.json)
-
-[Extended Data](ext_articles/3b550c6b.ext.json)
-
----
-
-### Sri Lanka makes 26 revisions to published electricity reform bill
-
-*2024-03-09 19:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-makes-26-revisions-to-published-electricity-reform-bill-153896/) · `en`
-
-ECONOMYNEXT – Sri Lanka has made 26 revisions to an already published electricity reform bill following feed back from stakeholders and lending agencies, Energy Minister Kanchana Wijesekera said.
-
-Following feedback from stakeholders, political parties, and trade unions regarding the
-
-proposed amendments, 46 revisions have been forwarded to the Legal Draftsman’s Department for clearance Minister told reporters in Colombo.
-
-After cabinet approval, the revised bill is targeted to be presented to parliament in April.
-
-Concerns have been expressed about the bill which have several provisions give excessive powers to the minister in charge.
-
-Under the reform bill, the purchase of power was to continue to be a state monopsony.
-
-The state monopsony and the reluctance to publicly tender new plants by higher authorities, especially for renewable power have drawn concern.
-
-Sri Lanka change the existing electricity law to allow non-competitive tendering amid protests.
-
-...
-
-[Data](articles/62fcebee.json)
-
-[Extended Data](ext_articles/62fcebee.ext.json)
-
----
-
-### Following the Tigers in the face of lions
-
-*2024-03-09 19:24:24* · [`adalk`](https://www.ada.lk/sports/සිංහයෝ-හමුවේ-කොටියෝ-පසු-බසිති/9-408504) · `si`
-
-Sri Lanka won the T20 match against Bangladesh by 28 runs, with Kusal Mendis' 86 runs off 55 balls and 181 runs in the tournament earning him the man of the tournament title.
-
-🟩
-
-Sri Lanka won the third T20 match between the two and the two countries, defeating the Host Bangladesh by 28 runs.
-
-Batting first Sri Lanka scored 174/7 of the match, only 146 runs in the innings bungland.
-
-Sri Lanka fast bowler bowled out for 20 wickets for 20 runs. Accordingly, he was also awarded man of the match.
-
-Kusal Mendis, who played a great inn innings for Sri Lanka, scored 86 runs off 55 balls with six fours and six sixes. He scored 181 runs in the tournament, and he was adjudged the man of the tournament.
-
-◼️
-
-[Data](articles/a86bb659.json)
-
-[Extended Data](ext_articles/a86bb659.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 20:33:21**
+As of **2024-03-10 20:49:35**
 
 ## Newspaper Stats
 
-*Scraped **11,980** Articles*
+*Scraped **11,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,57 +18,113 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,455
 tamilmirrorlk | 1,461
-virakesarilk | 1,635
-dailymirrorlk | 1,831
+virakesarilk | 1,636
+dailymirrorlk | 1,832
 adaderanasinhalalk | 1,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,977 (100.0%) of 11,980 articles have been extended.
+11,980 (100.0%) of 11,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### කැනඩාවේ ඝාතකයාට සැලකූ හැටි මුල්වරට එළියට
+### சர்வதேச நாணய நிதிய பிரதிநிதிகளுடன் கலந்துரையாடுமாறு விடுத்த ஜனாதிபதி அழைப்பை ஏற்ற தமிழ்த் தேசியக் கூட்டமைப்பு
+
+*2024-03-10 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178379) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுடன் கலந்துரையாடுமாறு எதிர்க் கட்சிகளுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்த அழைப்பை தமிழ்த் தேசியக் கூட்டமைப்பு ஏற்றுக்கொண்டுள்ளாதாக சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+
+இதன்படி, தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் ஆர்.சம்பந்தன் இதில் கலந்து கொள்ளவுள்ளதாக அவர் மேலும் தெரிவித்தார்
+
+ஜனாதிபதி அலுவலகத்தில் 11 ஆம் திகதி திங்கட்கிழமை எதிர்க்கட்சிகளின் தலைவர்களுக்கும் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கம் இடையில் கலந்துரையாடல் ஒன்றை நடத்துவதற்கு ஜனாதிபதி நடவடிக்கை எடுத்துள்ளார்.
+
+குறித்த கலந்தரையாடலுக்காக எதிர்க் கட்சிகளுக்கு உத்தியோகபூர்வ அழைப்பு விடுக்கப்பட்டுள்ள போதிலும், ஐக்கிய மக்கள் சக்தி மற்றும் தேசிய மக்கள் சக்தி ஆகிய கட்சிகள் கலந்து கொள்வதில்லை என தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+எவ்வாறாயினும் தமிழ்த் தேசியக் கூட்டமைப்பு உரிய அழைப்பை ஏற்று அக்கட்சியின் பிரதிநிதி ஒருவரை இதில் பங்கேற்க வைக்க தீர்மானித்துள்ளது.
+
+◼️
+
+[Data](articles/0b95dde1.json)
+
+---
+
+### Army returns over 100 acres of land to rightful owners in Jaffna
+
+*2024-03-10 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-returns-over-100-acres-of-land-to-rightful-owners-in-Jaffna/108-278566) · `en`
+
+Jaffna, March 10 (Daily Mirror) - The government returned a total of 109.56 acres of land, previously occupied by the military, to the rightful owners in the Jaffna peninsula today.
+
+The Sri Lanka Army said that this marks the 24th consecutive release of lands.
+
+The returned lands include five plots in the Jaffna District and seven in the Kilinochchi District.
+
+Currently, only 0.5% of lands remain occupied by the military, deemed essential for maintaining normalcy and security in the area.
+
+This release of lands is part of an ongoing effort by the Sri Lankan government to return occupied lands to their rightful owners, under the guidance of the Commander of the Army, Lieutenant General Vikum Liyanage, and the supervision of the Commander of the Security Forces - Jaffna, Major General Chandana Wickramasinghe.
+
+Sagala Ratnayake, the Chief of Staff to the President and National Security Advisor, participated in this event as the Chief Guest.
+
+◼️
+
+[Data](articles/a91d97c2.json)
+
+---
+
+### How to be taken up early in Canada
 
 *2024-03-10 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194357) · `si`
 
-කැනඩාවේ, ඔටාවා හී සමූහ ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ පවුලේ මීට දින කිහිපයකට පෙර පැවති උත්සවයක දර්ශන පෙළක් එරට මාධ්‍ය වාර්තා කර තිබුණි.
+A Sri Lankan family in Canada reported a murder at a ceremony. The suspect, a 19-year-old, was hung and decorated with a birthday cake. The family said he had a cheese cake for his birthday. Canada's High Commissioner Harsha Navaratne mentioned involvement of relatives in the investigation. A memorial was held for the victim.
 
-එහි දැක්වුණේ මෙම ඝාතනයේ ප්‍රධාන සැකකරු වන ෆ්‍රෑන්ක් ද සොයිසාගේ 19 වැනි උපන්දිනය එහි සැමරූ ආකාරයයි.
+🟩
 
-ඔහුගේ උපන්දිනය මෙම ඝාතනය වූ නිවසේදීම බැලුම් එල්ලා අලංකාරවත් ලෙස සමරා තිබුණි.
+A view visiting was reported at a ceremony for a few days ago in the family of Sri Lankans family in Canada.
 
-එම දිනයේදී ඔහුට චීස් කේක් කෑමට කැමැත්තක් තිබී ඇති බවත්, ඒ අනුව ධනුෂ්ක ඇතුළු පවුලේ සමාජිකයින් ඔහු වෙත චීස් කේක් ලබාදී ඇති බවත් ධනුෂ්කගේ පවුලේ හිතවතුන් සඳහන් කළේය.
+The main suspect in the murder was the 19th birthday of the 19th birthday.
 
-මේ අතර කැනඩාවේ, ඔටාවා හී සමූහ ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ පවුලේ ඥාතීන් ඉදිරි දින කිහිපයේදී එරටට පැමිණිමෙන් පසු අවසන් කටයුතු සිදුකිරීමට සැලසුම් කර ඇතැයි කැනඩාවේ ශ්‍රී ලංකා මහකොමසාරිස් හර්ෂ නවරත්න මහතා පවසයි.
+His birthday was hanged and beautifully decorated with this murder.
 
-ඝාතනයට ලක්වූවන් වෙනුවෙන් බාර්හෙවන් ප්‍රදේශවාසින් ''සිහිපත් කිරීමේ වැඩසටහනක්''ද ඊයේ සංවිධාන කර තිබුණි.
+The Danushka's family said that he had a will to eat cheese cake on that day and that he had provided cheese cake to him.
+
+Meanwhile, Canada's High Commissioner Harsha Navaratne says that the relatives of the Sri Lankan's family members have been involved in the next few days.
+
+Baruwan was organized yesterday for the victims.
 
 ◼️
 
 [Data](articles/2815f191.json)
 
+[Extended Data](ext_articles/2815f191.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தி உள்ளிட்ட அனைவரும் பழைய விடயங்களை மறந்து எங்களுடன் இணையுங்கள் - ஜனாதிபதி ரணில்
+### Forget the old things, including the United People's Power - and join us - President Ranil
 
 *2024-03-10 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178377) · `ta`
 
-பழைய விடயங்களை மறந்துவிட்டு ஐக்கிய மக்கள் சக்தி உள்ளிட்ட அனைவரும் எங்களுடன் இணைந்துகொள்ள முன்வர வேண்டும்.
+President Ranil Wickremesinghe urges everyone, including the United People's Power, to unite for economic recovery. Despite initial predictions of a 5-year recovery, progress has been made. Public servants receive 10,000 rupees, and relief is provided to 24 lakh families. New bills aim to empower women, and steps are taken to provide land and relief to 50,000 houses in Colombo. The president thanks supporters and addresses the United National Party's split in the 2020 election, emphasizing the need for unity to progress the country.
 
-நாங்கள அனைவரும் ஒன்றாக இணைந்து இந்த நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப முன்வர வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+🟩
 
-அத்துடன் வங்குராேத்து அடைந்திருந்த நாட்டை மீண்டும் மீட்பதற்கு 5வருடங்கள் வரை செல்லும் என்றே அனைவரும் நினைத்தனர். ஆனால்  குறுகிய காலத்தில் எங்களால் முடியுமாகி இருக்கிறது எனவும் தெரிவித்தார்.
+Everyone, including the United People's Power, should come forward to forget about old things.
 
-குருணாகலை குலியாபிடி நகரசபை வளாகத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற ஐக்கிய தேசிய கட்சியின் மக்கள் பேரணியில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said all of us should come together to build the economy of this country.
+
+And everyone thought it would take up to 5 years to restore the country that had reached the bank. But in a short time, we have been able to.
+
+He was speaking at a people's rally held at the Kuliyapidi Municipal Council Complex on Sunday (10).
+
+People are currently in the hardest period. So I came to this place to report that everyone should come forward to bring the country to the forefront of the short political issues.. The country, which was in the state of bankruptcy, has now begun to recover from it. The upcoming May. We are going to sign up with borrowed countries by June. By this they will accept that our country is a bank.
 
 ...
 
 [Data](articles/19a9b749.json)
+
+[Extended Data](ext_articles/19a9b749.ext.json)
 
 ---
 
@@ -971,6 +1027,8 @@ He appeared to have completely forgotten the ideals of democratic ideals so cher
 ...
 
 [Data](articles/595d5401.json)
+
+[Extended Data](ext_articles/595d5401.ext.json)
 
 ---
 
@@ -2317,55 +2375,5 @@ Meanwhile, the injured person, named Manjula Sahan Fernando, was found to be a d
 [Data](articles/13aae099.json)
 
 [Extended Data](ext_articles/13aae099.ext.json)
-
----
-
-### Ja-Ela shooting
-
-*2024-03-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194329) · `si`
-
-A shooting occurred in Ja-Ela, Dadagama, Dadugama, between 6.30 pm and 7.30 pm. Two victims were shot; one was killed, and the other escaped. The shooters were identified.
-
-🟩
-
-A shooting was shot in the Baswatta area in Ja Ela, Dadagama, Dadugama.
-
-It is reported that the shooting has been carried out between 6.30 pm and 7.30 pm.
-
-It has been revealed that the victims came out of the house to come out of the house and had done that shot.
-
-One had been shot and the other had run away.
-
-The two men who came to shoot were also published.
-
-◼️
-
-[Data](articles/127d102c.json)
-
-[Extended Data](ext_articles/127d102c.ext.json)
-
----
-
-### Winning Sri Lanka Team
-
-*2024-03-09 19:39:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்றது-இலங்கை-அணி/175-334429) · `ta`
-
-Sri Lanka defeats Bangladesh 2-1 in T20 series, winning 3rd match by 28 runs in 20 overs with 174 runs, while Bangladesh is bowled out for 175 in 19.4 overs.
-
-🟩
-
-Sri Lanka have won the T20 cricket series between Sri Lanka and Bangladesh 2 - 1.
-
-In the third match of the series, the Sri Lankan team won the Pangadesh team by 28 runs.
-
-Sri Lanka won the match by 7 wickets in their 20 overs and scored 174 runs.
-
-In the meantime, Bangladesh were bowled out for 175 runs and lost all wickets in 19.4 overs and lost only 146 runs.. Remble
-
-◼️
-
-[Data](articles/0d7a86bb.json)
-
-[Extended Data](ext_articles/0d7a86bb.ext.json)
 
 ---

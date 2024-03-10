@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 10:17:43**
+As of **2024-03-10 10:33:16**
 
 ## Newspaper Stats
 
@@ -26,35 +26,41 @@ adaderanasinhalalk | 1,878
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,910 (100.0%) of 11,912 articles have been extended.
+11,912 (100.0%) of 11,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### පලස්තීන භූමියේ ඉදිවන ඊශ්‍රායල ජනාවාස
+### Israeli settlement in Palestinian land
 
 *2024-03-10 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194339) · `si`
 
-බටහිර ඉවුර කේන්ද්‍ර කරගෙන ඊශ්‍රායලය අත්පත් කරගෙන සිටින පලස්තීන භූමියේ ඊශ්‍රායල ජනාවාස වසරක් තුළ දී වාර්තාගත අන්දමින් පුළුල් වී ඇති බව වාර්තා වෙයි.
+Israeli settlements in Palestinian land, particularly in the West Bank, have significantly expanded, with 24,300 new houses built in October 2023, the highest number since 2017. The UN Human Rights Office in the West Bank has reported this, indicating Israel's intentions for the West Bank, including East Jerusalem. Violence has also increased, with Israeli raids following an attack on October 7, claimed by Israeli troops as a response to terrorists.
 
-බටහිර ඉවුරේ එක්සත් ජාතීන්ගේ මානව හිමිකම් කාර්යාලය මේ බව අනාවරණය කර තිබුණි.
+🟩
 
-2023 ඔක්තෝබර් දක්වා වසරක කාලයක දී බටහිර ඉවුරේ නව නිවාස 24,300ක් ඉදිකර ඇති බවට බටහිර ඉවුරේ එක්සත් ජාතීන්ගේ මානව හිමිකම් කාර්යාලය ඉදිරිපත් කළ වාර්තාවේ දැක්වෙයි.
+It is reported that the Israeli settlement in the Palestinian territory, which is centered on the western bank, has expanded in a record over the year.
 
-එය 2017 වසරෙන් පසු වසරක් තුළ දී ඉදිකර ඇති විශාලතම නිවාස සංඛ්‍යාව බව වාර්තාවේ දැක්වෙයි.
+The UN Human Rights Office was revealed in the West Bank.
 
-නැගෙනහිර ජෙරුසලම ඇතුළුව බටහිර ඉවුර දිගු කාලීනව පාලනය කිරීම ඊශ්‍රායලයේ අරමුණ බව බටහිර ඉවුරේ එක්සත් ජාතීන්ගේ මානව හිමිකම් කාර්යාලය පවසයි.
+The United Nations Human Rights Office on the West Bank has been established in the West Bank that 24,300 new houses have been constructed in the West Bank period for October 2023.
 
-මේ අතර බටහිර ඉවුරේ ප්‍රචණ්ඩ ක්‍රියා ද වැඩි වී ඇති බව වාර්තාවේ දැක්වෙයි.
+It is the largest number of houses have been built in a year since 2017.
 
-ඔක්තෝබර් 7 ප්‍රහාරයෙන් පසුව බටහිර ඉවුරේ ඊශ්‍රායල වැටලීම් වර්ධනය කර ඇති බව වාර්තා වෙයි.
+The United Nations Human Rights Office of the West Bank says that Israel's aimed at the end of the west bank, including east Jerusalem, the United Nations Human Rights office on the West Bank said.
 
-කෙසේ වුව ද ඊශ්‍රායල හමුදා පවසන්නේ ත්‍රස්තවාදීන් සොයා ඔවුන් මෙහෙයුම් දියත් කරන බවය.
+Meanwhile, it is reported that violence on the West Bank has also increased.
+
+Israeli raids have been developed after the October 7 attack.
+
+However, Israeli troops say they are being terrorists in search of terrorists.
 
 ◼️
 
 [Data](articles/bcc9a666.json)
+
+[Extended Data](ext_articles/bcc9a666.ext.json)
 
 ---
 
@@ -370,25 +376,33 @@ The Department of Meteorology said that in some places in the Western, Sabaragam
 
 ---
 
-### දකුණේ බීරළු රේන්ද කර්මාන්තය: නොනැසී ඉදිරියට රැගෙන යා හැක්කේ කෙසේ ද?
+### The South's Randu Industry: How can I take ahead?
 
 *2024-03-10 04:00:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck5wnldzr6do) · `si`
 
-දකුණේ බීරළු රේන්ද කර්මාන්තය: නොනැසී ඉදිරියට රැගෙන යා හැක්කේ කෙසේ ද?
+The Randu Industry in Sri Lanka's South, originating from the Portuguese and Dutch periods, is rich in history and includes turtle, wood carving, jewelry, and beer production. Despite challenges like lack of demand and imitation products, efforts are being made to preserve and promote this heritage, including government support and academic research.
 
-දකුණු පළාතට පමණක් ආවේණික බීරළු රේන්ද කර්මාන්තය පෘතුගීසි හා ලන්දේසි යුගයේ මෙරටට පැමිණි බව සඳහන්ය. ගාල්ල සිට වැලිගම සහ දික්වැල්ල යන වෙරලාශ්‍රිත ප්‍රදේශවල පැවති මෙම කර්මාන්තය මේ වනවිට ගාල්ල සහ වැලිගම නගර ආශ්‍රිතව පමණක් දක්නට ලැබේ.
+🟩
 
-ඉන් ගාල්ල නගරය වැදගත් ස්ථානයක් උසුලයි. ගාල්ල අතීතයේදී ජනප්‍රියත්වයක් ඉසිලුවේ වෙළඳ නගරයක් ලෙසිනි. ඒ සමගම විවිධ භාණ්ඩ හුවමාරු වූ වෙළඳ පොළක් ලෙස ප්‍රසිද්ධියට පත්වූ අතර විවිධ කර්මාන්ත හරහා විදේශිකයන්ට මෙරට භාණ්ඩ අලෙවි කිරීම සිදුවිය.
+The South's Randu Industry: How can I take ahead?
 
-ඒ අතරින් කැස්බෑ ලෙලි කර්මාන්තය, කරුවල ලී කැටයම් කර්මාන්තය, ඇත්දල නිර්මාණ, ස්වර්ණාභරණ, බීරළු රේන්ද යනාදිය ප්‍රසිද්ධ විය.
+The southern province is only the Randiary of the Southern Province arrived in Sri Lanka in the Portuguese and Dutch period. The industry in Galle to Weligama and Dikwella, the industry is available in Galle and Weligama town.
 
-මෙම කර්මාන්තයන් අතුරෙන් බිරළු රේන්ද කර්මානතය පිළිබඳ සොයා බැලීමේදී එහි ආරම්භය කෙසේ සිදුවීද යන්න පැහැදිලි සාක්ෂි නොමැති වූවත් එය පෘතුගීසි සමයේ මෙරටට පැමිණි බව ලිඛිත සාක්ෂි සනාථ කරයි.
+Galle city holds an important place. Galle was a popularity in Galle. At the same time, various items were made known as a market exchanged and soldiers in Sri Lanka through various industries.
 
-පෘතුගීසි, ලන්දේසි හා ඉංග්‍රීසි ආක්‍රමණයන්ට පෙර අතීතයේ  විජය රජුගේ මෙරට සම්ප්‍රාප්තියත් සමඟ වෙරලබඩ තීරයේ මෙය ආරම්භ වන්නට ඇති බව තවත් එක් ජනප්‍රවාදයකි.
+The turtle industry, a wooden carvings, jewelery, jewelery and beer radio was popular.
+
+Investigating the bribe of bribe of these industries, it proves that it has no clear evidence that it has come to the Portuguese.
+
+Another one legend is that the coastline has started in the coastline with the archery coward in the past before the Portuguese, Dutch and English invasions.
+
+However, in the Sri Lankan tradition, the history of the luxiliary industry can be clearly studied by the Portuguese era.
 
 ...
 
 [Data](articles/14f0f75a.json)
+
+[Extended Data](ext_articles/14f0f75a.ext.json)
 
 ---
 

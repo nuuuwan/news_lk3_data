@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 21:17:44**
+As of **2024-03-10 21:33:26**
 
 ## Newspaper Stats
 
-*Scraped **11,988** Articles*
+*Scraped **11,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,456
 tamilmirrorlk | 1,462
-virakesarilk | 1,636
-dailymirrorlk | 1,836
+virakesarilk | 1,637
+dailymirrorlk | 1,837
 adaderanasinhalalk | 1,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,988 (100.0%) of 11,988 articles have been extended.
+11,988 (100.0%) of 11,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### வெடுக்குநாறி மலை ஆதிலிங்கேஸ்வரர் தலத்தில் சிவராத்திரி தினத்தில் பொலிஸாரின் அராஜகம் - யாழ். பல்கலைக்கழக ஆசிரியர் சங்கம் கண்டனம்
+
+*2024-03-10 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178380) · `ta`
+
+வெடுக்குநாறி மலை ஆதி லிங்கேஸ்வரர் தலத்திலே வழிபாட்டிலே ஈடுபட்டுக் கொண்டிருந்த சமயக் குருக்கள், பொதுமக்கள், அரசியல் தலைவர்கள் மீது பொலிஸார் மேற்கொண்ட அத்துமீறல்களினையும், அவர்கள் அங்கு இருந்தோரிலே பலரினைக் கைது செய்தமையினையும் யாழ்ப்பாணப் பல்கலைக்கழக ஆசிரியர் சங்கம் வன்மையாகக் கண்டித்துள்ளது.
+
+யாழ்ப்பாணப் பல்கலைக்கழக ஆசிரியர் சங்கம், வெடுக்குநாறி மலை ஆதிலிங்கேஸ்வரர் தலத்தில் சிவராத்திரி தினத்தன்று பொலிஸார் மேற்கொண்ட அத்துமீறல்களைக் கண்டித்து வெளியிட்ட அறிக்கையில் இவ்விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+அந்த அறிக்கையில், கடந்த மகா சிவராத்திரி தினத்தன்று இரவு வெடுக்குநாறி மலை ஆதி லிங்கேஸ்வரர் தலத்திலே வழிபாட்டிலே ஈடுபட்டுக் கொண்டிருந்த சமயக் குருக்கள், பொதுமக்கள், அரசியல் தலைவர்கள் மீது பொலிஸார் மேற்கொண்ட அத்துமீறல்களினையும், அவர்கள் அங்கு இருந்தோரிலே பலரினைக் கைது செய்தமையினையும் யாழ்ப்பாணப் பல்கலைக்கழக ஆசிரியர் சங்கம் வன்மையாகக் கண்டிக்கிறது.
+
+...
+
+[Data](articles/a57df7e0.json)
+
+---
+
+### Who’s not moving on from ’timed-out’ celebration?
+
+*2024-03-10 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Whos-not-moving-on-from-timed-out-celebration/108-278560) · `en`
+
+Mar. 10 (Daily Mirror) - Sri Lanka secured a thrilling series win over Bangladesh on Saturday when they clinched the third T20 courtesy of a stunning hat-trick from Nuwan Thushara, but the brilliant performance from the visiting Sri Lankan team was probably overshadowed by the split opinions on the 'timed-out' celebration.
+
+Sri Lanka captain Wanindu Hasaranga, after lifting the T20 trophy at the end of the post-match presentation on Saturday, handed it to Dhananjaya de Silva, who seems to be the designated trophy holder for the team when they pose for photographs, and then, in a surprising turn of events, the whole Sri Lankan squad, including Niroshan Dickwella, who didn't even get a game, appeared to be pointing their fingers towards an imaginary watch they were wearing.
+
+...
+
+[Data](articles/1c3eb485.json)
+
+---
 
 ### 27 youths arrested with drugs after police raid party
 
@@ -90,29 +120,9 @@ A 42 -year -old man from Moratuwa - Katukurunda area has been arrested.
 
 ---
 
-### Bangladesh’s Towhid Hridoy found guilty of breaching ICC Code of Conduct
-
-*2024-03-10 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshs-Towhid-Hridoy-found-guilty-of-breaching-ICC-Code-of-Conduct/108-278567) · `en`
-
-Mar. 10 (ICC) - Bangladesh batter Towhid Hridoy was fined 15 per cent of his match fees in the third T20I.
-
-Towhid was found to have breached Level 1 of the ICC Code of Conduct during the third T20I against Sri Lanka in Sylhet on Saturday.
-
-The incident happened in the fourth over of the Bangladesh innings, when Towhid turned around after being dismissed and remonstrated aggressively and inappropriately with the Sri Lanka players.
-
-A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a 28-run win in the third T20I. With this, the Lions took the three-game T20I series 2-1. Thushara picked a hat-trick in the game, with Towhid being the second scalp in that feat.
-
-...
-
-[Data](articles/1c7eb760.json)
-
-[Extended Data](ext_articles/1c7eb760.ext.json)
-
----
-
 ### The Tamil National Alliance to accept the President's invitation to discuss with the International Monetary Fund Representatives
 
-*2024-03-10 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178379) · `ta`
+*2024-03-10 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178379) · `ta`
 
 The Tamil National Alliance (TNA) has accepted President Ranil Wickremesinghe's invitation to discuss with IMF representatives, with TNA President R. Sampanthan set to attend. Despite opposition from United People's Power and National People's Power, TNA will participate.
 
@@ -133,6 +143,26 @@ However, the Tamil National Alliance (TNA) has decided to take the relevant invi
 [Data](articles/0b95dde1.json)
 
 [Extended Data](ext_articles/0b95dde1.ext.json)
+
+---
+
+### Bangladesh’s Towhid Hridoy found guilty of breaching ICC Code of Conduct
+
+*2024-03-10 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshs-Towhid-Hridoy-found-guilty-of-breaching-ICC-Code-of-Conduct/108-278567) · `en`
+
+Mar. 10 (ICC) - Bangladesh batter Towhid Hridoy was fined 15 per cent of his match fees in the third T20I.
+
+Towhid was found to have breached Level 1 of the ICC Code of Conduct during the third T20I against Sri Lanka in Sylhet on Saturday.
+
+The incident happened in the fourth over of the Bangladesh innings, when Towhid turned around after being dismissed and remonstrated aggressively and inappropriately with the Sri Lanka players.
+
+A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a 28-run win in the third T20I. With this, the Lions took the three-game T20I series 2-1. Thushara picked a hat-trick in the game, with Towhid being the second scalp in that feat.
+
+...
+
+[Data](articles/1c7eb760.json)
+
+[Extended Data](ext_articles/1c7eb760.ext.json)
 
 ---
 
@@ -2285,61 +2315,5 @@ Opponents argued that the wording of the changes was poorly thought out — an a
 [Data](articles/9195a884.json)
 
 [Extended Data](ext_articles/9195a884.ext.json)
-
----
-
-### The murder case in Elpitiya
-
-*2024-03-09 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194333) · `si`
-
-A 17-year-old girl was murdered in Elpitiya. Her brother-in-law was abducted and found by police. The victim, Hansika Nadeeshani, had a close relationship with her sister's husband. She was taken to her sister's house in Elpitiya, then to her brother-in-law's. A police investigation revealed she was killed in a tea estate in Thalgahawatta.
-
-🟩
-
-A 17-year-old girl was found in a tea estate in the Elpitiya Talawa.
-
-Her brother-in-law has been abducted and he found the Police Investigation.
-
-Hansika Nadeeshani, a resident of Thalgahawatta, is being murdered.
-
-Her sister had resided in Mannakanda area in Elpitiya and Hansika had gone to the house a month and a half before the care of her two children.
-
-In the meantime, she had a close relationship with the husband of the sister.
-
-Hanii's father says his son-in-law was forcibly taken to his house on February 23.
-
-She was once again taken to Hanici's home and her brother-in-law.
-
-In the meantime, Hansical phone call and told his mother to save him.
-
-Hanicha's father - "returned and took him. Didn't find hearing everywhere. That's when he said that he was told. "
-
-Hanchae's Father - "No letting go anywhere. The cake has been working on. That was the column. Mom went and got up on the 5th. Complaints of the Police on the 6th. "
-
-...
-
-[Data](articles/1f4304a1.json)
-
-[Extended Data](ext_articles/1f4304a1.ext.json)
-
----
-
-### Sending a team to the south of foreigners
-
-*2024-03-09 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194332) · `si`
-
-Ada Donna Bownsa, suspected of Russian and Ukrainian ties, has been identified in the country with a tourist visa. Immigration and Emigration Controllers, along with other officials, are en route to the area for investigation.
-
-🟩
-
-"Today Ada donna bewnsa has been revealed in the country with the evidence of Russian and Ukrainians of the tourist visa.
-
-Accordingly, a group of Immigration and Emigration Controller and other officials are to visit the area in connection with their detection.
-
-◼️
-
-[Data](articles/eb9c1575.json)
-
-[Extended Data](ext_articles/eb9c1575.ext.json)
 
 ---

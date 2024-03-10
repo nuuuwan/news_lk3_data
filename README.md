@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 13:17:35**
+As of **2024-03-10 13:33:41**
 
 ## Newspaper Stats
 
-*Scraped **11,935** Articles*
+*Scraped **11,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 623
 islandlk | 646
 adalk | 1,008
 adaderanalk | 1,449
-tamilmirrorlk | 1,453
+tamilmirrorlk | 1,454
 virakesarilk | 1,633
-dailymirrorlk | 1,826
+dailymirrorlk | 1,827
 adaderanasinhalalk | 1,882
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,933 (100.0%) of 11,935 articles have been extended.
+11,935 (100.0%) of 11,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### அரசியல் நிகழ்ச்சி நிரல்களுக்குள் ஐ.ம.ச பங்கேற்காது
+
+*2024-03-10 13:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-நிகழ்ச்சி-நிரல்களுக்குள்-ஐ-ம-ச-பங்கேற்காது/175-334448) · `ta`
+
+தேர்தலை இலக்காக் கொண்ட ஜனாதிபதியின் அரசியல் நிகழ்ச்சி நிரல்களுக்குள் எதிர்க்கட்சி சிக்கிக் கொள்ளாது நாளைய (11) கலந்துரையாடலில் ஐக்கிய மக்கள் சக்தி பங்கேற்காது என முன்னாள் பாராளுமன்ற உறுப்பினரும் ஐக்கிய மக்கள் சக்தியின் பிரதி பொதுச் செயலாளருமான முஜிபுர் ரஹ்மான் தெரிவித்துள்ளார்.
+
+புதிய கூட்டத்தொடர் ஆரம்பித்தன் பின்னர் கோப் குழுவின் தவிசாளர் பதவியை எதிர்க்கட்சிக்கு வழங்காது ஆளும் தரப்பில் குற்றச்சாட்டுக்களுக்கு ஆளான நபர் நியமிக்கப்பட்டுள்ளார்.
+
+தூய அரசாட்சியை முன்கொண்டு செல்ல விரும்பமில்லாத நிலைப்பாட்டையே ஜனாதிபதியும் அரசாங்கமும் தொடர்ந்தும் காண்பித்து வருகின்றன.
+
+சர்வதேச நாணய நிதியத்தின் கலந்துரையாடல்களில் பாராளுமன்றத்திலுள்ள எதிர்க்கட்சித் தலைவர்களுக்கும் ஜனாதிபதி அழைப்பு விடுத்துள்ளார்.எதிர்க்கட்சித் தலைவரை சர்வதேச நாணய நிதிய பிரதிநிதிகள் பல சுற்றுக்களில் சந்தித்து கலந்துரையாடியுள்ளனர்.சஜித் பிரேமதாச தமது நிலைப்பாட்டை சர்வதேச நாயணய பிரதிநிதிகளிடமும் தெளிவாக குறிப்பிட்டுள்ளார். பாராளுமன்றத்திலும் தமது நிலைப்பாட்டை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/2b1e2cc3.json)
+
+---
+
+### Gotabaya’s book is an attempt to paint image of innocence: National Unity Alliance
+
+*2024-03-10 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabayas-book-is-an-attempt-to-paint-image-of-innocence-National-Unity-Alliance/108-278557) · `en`
+
+Colombo, March 10 (Daily Mirror)- The book released by Gotabaya Rajapaksa on an alleged Conspiracy to Oust him is the latest attempt by the “president who ran away” to paint an image of innocence,National Unity Alliance said.
+
+A statement issued by the National Unity Alliance said  the seventh executive president was ousted by the people of Sri Lanka.
+
+"The people highlighted his lack of equitable governance, his penchant for unchallenged power and his serious lack of accountability, responsibility and willingness to be portrayed as a racist apart from turning a blind eye towards corruption and the erosion of the rule of law.
+
+He appeared to have completely forgotten the ideals of democratic ideals so cherished by all Sri Lanka. Gotabaya was ousted not just by the people - divine intervention came into play when he without rhyme or reason gave his name to the cremation of Muslims who perished due to Covid 19," the statement added.
+
+...
+
+[Data](articles/c6f4480b.json)
+
+---
 
 ### IORA Day 2024 celebrations get underway at Galle Face Green
 
@@ -1598,6 +1634,8 @@ The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commiss
 
 [Data](articles/9bcca76d.json)
 
+[Extended Data](ext_articles/9bcca76d.ext.json)
+
 ---
 
 ### A ‘raththaran’ row over new chairman of parliamentary oversight committee
@@ -2321,55 +2359,5 @@ Meanwhile, the public finance.lk says that the tax of Sri Lanka is higher than t
 [Data](articles/371202bf.json)
 
 [Extended Data](ext_articles/371202bf.ext.json)
-
----
-
-### Sri Lankan team from Sri Lankan team to be built today
-
-*2024-03-09 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194316) · `si`
-
-Sri Lankan team's fast bowler Visitor Pathirana misses the final T20 match due to injury, impacting the team's performance. Bangladesh's crucial match starts at 3 pm today.
-
-🟩
-
-It is reported that fast bowler Visitor Pathirana does not participate in the third and final 20th competition in Sri Lanka (09th) due to injustice.
-
-When his fourth balls were operating the fourth ballship in the second T20, he was injured.
-
-It has been reported that the post has decided not to participate in the third match today due to the impairment of the disability.
-
-Bangladesh's crucial Twenty Twenty Twenty Twenty Twenty Twenty Twenty 3 pm will commence today.
-
-◼️
-
-[Data](articles/a4f59856.json)
-
-[Extended Data](ext_articles/a4f59856.ext.json)
-
----
-
-### Father and son killed in accident;Mother injury
-
-*2024-03-09 13:39:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/விபத்தில்-தந்தை-மகன்-பலி-தாய்-படுகாயம்/95-334419) · `ta`
-
-A tragic accident in Miriswatta, Koskama, Colombo, resulted in the death of a 44-year-old father and his 8-year-old son, and injured their mother. The incident involved a lorry carrying cement and a motorcycle, leading to the lorry's explosion. The lorry driver has been arrested, and police continue investigations.
-
-🟩
-
-A mother and son injured in the accident in Miriswatta area in Koskama, Colombo, Koskama, Colombo.
-
-The victims of the accident were revealed to be a 44 -year -old father and 8 -year -old son from Kosama.
-
-Koskama police said that the accident occurred when a lorry loaded with a cement carrying a motorcycle was traveling with a motorcycle.
-
-Investigations have revealed that a lorry's wheel that was traveling from Colombo to Avissawelle crashed into a motorcycle that was traveling in opposition when a lorry suddenly exploded.
-
-The driver of the lorry has been arrested and Koskama police are conducting further investigations.. Ssh
-
-◼️
-
-[Data](articles/8d339013.json)
-
-[Extended Data](ext_articles/8d339013.ext.json)
 
 ---

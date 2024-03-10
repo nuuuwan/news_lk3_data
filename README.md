@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 00:47:48**
+As of **2024-03-11 01:02:54**
 
 ## Newspaper Stats
 
-*Scraped **12,008** Articles*
+*Scraped **12,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 113
 bbccomsinhala | 141
 dbsjeyarajcom | 182
 newsfirstlk | 363
-dailyftlk | 620
+dailyftlk | 621
 economynextcom | 626
 islandlk | 646
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
-virakesarilk | 1,641
+virakesarilk | 1,642
 dailymirrorlk | 1,840
 adaderanasinhalalk | 1,898
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,008 (100.0%) of 12,008 articles have been extended.
+12,008 (100.0%) of 12,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் ஏற்பாட்டில் திருகோணமலையில் மகளிர் தின நிகழ்வு!
+
+*2024-03-11 00:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178385) · `ta`
+
+கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தலைமையில் திருகோணமலை திருக்கோணேஸ்வரா இந்து கல்லூரி மைதானத்தில் மகளிர் தின நிகழ்வுகள் இடம்பெற்றது.
+
+இந்நிகழ்வில் இந்தியாவின் பாரத் பயோடெக் இன்டர்நேஷனல் லிமிடெட்டின் இணை நிறுவனரும் இயக்குனருமான சுசித்ரா எல்ல அவர்கள் பிரதம அதிதியாக கலந்து சிறப்பித்தார்.
+
+சுசித்ரா எல்ல கோவிட் காலப்பகுதியில்  கொவிட் தடுப்பூசியை கண்டுபிடித்து, 600 பில்லியன் கொவிட் தடுப்பூசிகளை தயாரித்து மக்கள் உயிரை காத்த உன்னத பெண்ணான சுசித்ரா எல்ல அவர்களை கௌரவிக்கும் முகமாக  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால்"Worlds Most Powerful Woman" விருது வழங்கி வைக்கப்பட்டதுடன், 1880 ஆம் ஆண்டு காலப்பகுதியில் மலையக பெண் ஒருவர் தேயிலை பறிக்கும் பொழுது எடுக்கப்பட்ட புகைப்படம் ஒன்றும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால் திருமதி சுசித்ரா எல்லவுக்கு அன்பளிப்பாக வழங்கி வைக்கப்பட்டது.
+
+மேலும் திருகோணமலையில் கல்வி துறையில் சாதித்த பெண்கள், Rural development society, பெண்கள் அமைப்புகள் போன்ற பல சாதனைகளை நிலைநாட்டிய பெண்களுக்கும் விருது வழங்கி கௌரவிக்கப்பட்டது.
+
+...
+
+[Data](articles/9f8ba189.json)
+
+---
 
 ### COMMONWEALTH DAY: Commonwealth family: A strong and respected voice in the world
 
@@ -493,6 +511,18 @@ A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a
 [Data](articles/1c7eb760.json)
 
 [Extended Data](ext_articles/1c7eb760.ext.json)
+
+---
+
+### Suspension of parate execution won’t do; establish Bad Bank to resolve issue permanently: Dr. Anil Baddevithana
+
+*2024-03-10 20:40:57* · [`dailyftlk`](https://www.ft.lk/columns/Suspension-of-parate-execution-won-t-do-establish-Bad-Bank-to-resolve-issue-permanently-Dr-Anil-Baddevithana/4-759304) · `en`
+
+There is a sustainable solution in setting up a licenced specialised national bank which I call a ‘Bad Bank’ by the Government as a public-private partnership or PPP. Its task should be to buy and restructure bad debts from the lending banks and support the MSME sector with advisory services and continuous business supervision for recovery and development. The private sector shareholders will be the licenced commercial and specialised banks. It can get funding as well as technical assistance from the Asian Development Bank, and the World Bank’s private sector lending arm called the International Finance Corporation. Even the US Government’s international development agency known as the USAID can be invited to help.  It should be aptly named to signify its mission as a ‘National Recovery and Renewal Bank’ or NRRB
+
+...
+
+[Data](articles/02545d02.json)
 
 ---
 
@@ -2277,53 +2307,5 @@ Following the release of the bodies after the autopsy, the funeral will be held 
 [Data](articles/b18f9965.json)
 
 [Extended Data](ext_articles/b18f9965.ext.json)
-
----
-
-### Constable lover hospitalized with Uzbekistan girlfriend
-
-*2024-03-10 07:41:43* · [`adalk`](https://www.ada.lk/breaking_news/උස්බෙකිස්තාන-පෙම්වතිය-සමග-‌කොස්තාපල්-‌පෙම්වතා-රෝහලේ/11-408506) · `si`
-
-A police constable and his Uzbekistan girlfriend were hospitalized after a three-wheeler accident in Wellawatte. The constable, injured in the Kesbewa Police, and his girlfriend, Niki Kuthya, were rushed to Kalubowila Teaching Hospital. The accident occurred while the constable was riding a motorcycle with his girlfriend.
-
-🟩
-
-A police constable with Uzbekistan girlfriend has been admitted to a three-wheeler in the Wellawatte sea.
-
-The injured were injured in the Kesbewa Police and his Uzbekistan girlfriend, Niki Kuthya.
-
-The injured were rushed to the Kalubowila Teaching Hospital.
-
-Police investigations have revealed that the constable was the accident in a motorcycle on the motorcycle with his girlfriend with his girlfriend.
-
-This is the difficulty of this is what this is difficult for me to do this is what this is the case with the instructions of Mr. Subhash Kawadawala, OIC of the Wellawatte police.
-
-◼️
-
-[Data](articles/29de1ef9.json)
-
-[Extended Data](ext_articles/29de1ef9.ext.json)
-
----
-
-### NDB starts savings scheme for HNI children
-
-*2024-03-10 07:38:00* · [`economynextcom`](https://economynext.com/ndb-starts-savings-scheme-for-hni-children-153969/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s NDB Bank said it has started a savings scheme targeting children of high-net-worth individuals with facilities to support digital banking from the early teens.
-
-“Nurturing future leaders with financial acumen, NDB Privilege Junior Savings serves as the bedrock for a secure and prosperous future,” Chief Executive Kelum Edirisinghe said in a statement.
-
-Aimed at resident Sri Lankan minors aged 1 day to 18 years, the savings products also helps children from 13 to 18 year move into cashless transactions.
-
-A debit card facility is available for teenagers from 13 to 18 years via at ‘NEOS Pixel Digital Savings Account’ and mobile banking facilities.
-
-The account actively encourages “life skills, promoting compulsory savings, prioritising easy withdrawals for emergencies or educational needs, and fostering digital banking skills early on through the Bank’s mobile app, NEOS,” the bank said.
-
-◼️
-
-[Data](articles/cfd71fb6.json)
-
-[Extended Data](ext_articles/cfd71fb6.ext.json)
 
 ---

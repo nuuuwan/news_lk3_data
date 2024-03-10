@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 05:38:02**
+As of **2024-03-10 05:58:03**
 
 ## Newspaper Stats
 
-*Scraped **11,878** Articles*
+*Scraped **11,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 178
 newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 622
-islandlk | 636
+islandlk | 646
 adalk | 1,000
 tamilmirrorlk | 1,442
 adaderanalk | 1,445
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,872
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,878 (100.0%) of 11,878 articles have been extended.
+11,878 (99.9%) of 11,888 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,64 @@ Extensions include translations and NER (Named Entity Recognition).
 ---
 
 ### 2024-03-09 (Saturday)
+
+### Phoenix Industries re-launches extensive PVC range under Super PVC brand
+
+*2024-03-09 23:24:00* · [`islandlk`](http://island.lk/phoenix-industries-re-launches-extensive-pvc-range-under-super-pvc-brand/) · `en`
+
+Sri Lankan household products company Phoenix Industries hosted an evening event at their Makandura factory to re-launch their wide-ranging PVC product line under the new Super PVC brand. The enhanced Super PVC range includes UPVC and CPVC pipes & fittings, FAB bends, solvent cements, cable management tubes and hardware items used for construction and home upgrades. Phoenix Industries has elevated the range’s branding to better represent the exceptional strength, durability and performance that Super PVC offers contractors, project managers and general households.
+
+With the re-brand, Phoenix aims to further build its leadership position nationwide as the top supplier of PVC solutions through both retail partnerships and Phoenix’s own showrooms. The event featured the reveal of the bold, modern Super PVC logo that will now feature prominently on UPVC, CPVC, fittings, cements and the full collection of PVC products.
+
+...
+
+[Data](articles/bcef68ae.json)
+
+---
+
+### KIST launches new squeezable bottles for its sauce range
+
+*2024-03-09 23:19:00* · [`islandlk`](http://island.lk/kist-launches-new-squeezable-bottles-for-its-sauce-range/) · `en`
+
+Cargills Food & Beverages Limited, renowned for producing a wide range of food and beverages under the trusted Sri Lankan brand KIST, is launching an exotic sauce collection in an easy-to-use squeezable bottle named ‘KIST Squeeasy Buddy.’ This collection embodies the concept of a culinary companion, designed to support day-to-day cooking needs.
+
+The introduction of this range confirms that KIST is a versatile sauce brand catering to the needs of today’s customers, including travelers, home chefs, foodies, gourmet food enthusiasts, and party mavens. Known for its popular regular sauce range, featuring classics like Tomato, Chilli, Hot Chilli, Sweet & Sour, and Garlic, KIST is expanding its horizons with this new sauce line. The range encompasses various sauce categories, such as cooking sauces, dressings, dips, and specially crafted sauces for meat dishes.
+
+...
+
+[Data](articles/03caaaff.json)
+
+[Extended Data](ext_articles/03caaaff.ext.json)
+
+---
+
+### SLT Group FY and 4Q 2023 results impacted by macro-economic challenges
+
+*2024-03-09 23:19:00* · [`islandlk`](http://island.lk/slt-group-fy-and-4q-2023-results-impacted-by-macro-economic-challenges/) · `en`
+
+The SLT Group’s financial results for the fourth quarter and financial year ending December 31, 2023, reflects a downturn in performance amidst a turbulent macro-economic environment in the country.
+
+For 4Q 2023, SLT Group reported a year-on-year consolidated revenue degrowth of 7.5% amounting to LKR 26 billion compared to LKR 28 billion in 2022. The Group’s profits decline was attributed to reduced revenue, despite the efforts of cost optimization measures that resulted in a 5.9% reduction in Operating Expenses (Opex). Consequently, the Group saw a corresponding decline in operating profit, with both Profit Before Tax (PBT) and Profit After Tax (PAT) experiencing decreases in the quarter.
+
+...
+
+[Data](articles/c89f9902.json)
+
+---
+
+### Sri Lanka Insurance Corporation General poised for strong growth following official segregation
+
+*2024-03-09 23:18:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-general-poised-for-strong-growth-following-official-segregation-2/) · `en`
+
+Sri Lanka Insurance Corporation General Ltd. (SLICGL), the general insurance subsidiary of Sri Lanka Insurance Corporation Ltd. (SLIC), is entering a new phase of growth and innovation following its official segregation on Feb 1.
+
+Commenting on the outlook for SLICGL, Chandana L. Aluthgama, Group Chief Executive Officer, SLIC said, “After over 62 years of successful operations, the mandated separation of the life and general insurance businesses enables us to be more focused in our business strategies and ensures improved efficiency and effectiveness when serving our customers. Understanding this critical pivot, we have adapted to regulatory requirements as well as market dynamics and initiated operational separation across segments in 2018.”
+
+...
+
+[Data](articles/2d0b4457.json)
+
+---
 
 ### Irish voters reject constitutional amendment about women’s role in home
 
@@ -123,6 +181,20 @@ Accordingly, a group of Immigration and Emigration Controller and other official
 [Data](articles/eb9c1575.json)
 
 [Extended Data](ext_articles/eb9c1575.ext.json)
+
+---
+
+### Wesley College Colombo – Celebrating 150 years of Excellence
+
+*2024-03-09 20:47:00* · [`islandlk`](http://island.lk/wesley-college-colombo-celebrating-150-years-of-excellence/) · `en`
+
+Wesley College Colombo is celebrating its 150th Anniversary in March 2024 with a programme of events, projects and initiatives taking place at the school and other venues. The school is proud to be recognised as one of Sri Lanka’s leading and progressive institutions. Wesley provides a fine all-round education reflective of its long-held customs and traditions.
+
+As I write this brief history I am ever reminded of the wisdom of Kahlil Gibran: “Yesterday is but today’s memory, and tomorrow is today’s dream.” This is an attempt to summarise the school’s long and tortuous journey from its lowly beginnings. Collating information belonging to three centuries is no mean task. On December 23, 1816, The chapel of the Wesleyan Mission House was opened for public worship in Dam Street, Pettah. There was a small school associated with the Mission House.
+
+...
+
+[Data](articles/e22d0a52.json)
 
 ---
 
@@ -368,6 +440,30 @@ The police team won the Clifford Cup Rugby Championship after 33 years.
 
 ---
 
+### NAMAL UYANA’S GUARDIAN:VENERABLE WANAWASI RAHULA THERO
+
+*2024-03-09 19:14:00* · [`islandlk`](http://island.lk/namal-uyanas-guardianvenerable-wanawasi-rahula-thero/) · `en`
+
+In the heart of Sri Lanka’s lush central province lies a sanctuary of natural wonder and historical significance: Namal Uyana. Nestled amidst verdant greenery and ancient landscapes, this sacred site is more than just a haven for biodiversity—it’s a testament to the enduring spirit of conservation and spiritual stewardship. At the forefront of preserving this ecological gem stands a revered figure: Venerable Wanawasi Rahula Thero.
+
+...
+
+[Data](articles/224a8fc3.json)
+
+---
+
+### Two memorable years in Jaffna
+
+*2024-03-09 19:13:00* · [`islandlk`](http://island.lk/two-memorable-years-in-jaffna/) · `en`
+
+Reading the late ACB Pethiyagoda’s memoir of his time at Jaffna College, Vadukoddai, Goolbai Gunasekera’s memory was jogged about just under two years she herself spent in Jaffna. Pethiyagoda went from Trinity to Jaffna College as he was interested in a career in agriculture and though that this would be better served in Jaffna rather than in Kandy. Goolbai went to Jaffna when her mother, the eminent educationist Clara Motwani, accepted the post of principal at Hindu Ladies College. She has recounted this experience in two chapters of the book she wrote about her mother, Chosen Ground. We publish the first of these today.
+
+...
+
+[Data](articles/ee8c91d4.json)
+
+---
+
 ### SJB to boycott meeting convened by President with IMF delegates
 
 *2024-03-09 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/97842/sjb-to-boycott-meeting-convened-by-president-with-imf-delegates) · `en`
@@ -467,6 +563,20 @@ The Ministry of Foreign Affairs has been informed by the Sri Lankan High Commiss
 [Data](articles/4a0788a9.json)
 
 [Extended Data](ext_articles/4a0788a9.ext.json)
+
+---
+
+### A ‘raththaran’ row over new chairman of parliamentary oversight committee
+
+*2024-03-09 18:09:00* · [`islandlk`](http://island.lk/a-raththaran-row-over-new-chairman-of-parliamentary-oversight-committee/) · `en`
+
+Shortly after the announcement of the new chairmen for the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA), there was a surge of criticism on social media regarding the appointment of Kalutara District SLPP MP Rohitha Abeygunawardena as the head of COPE.
+
+Both chairmen were elected to their positions, and the SLPP, with its majority representation in the committees reflecting that of the parliament, was able to secure the election of their candidates. The election of COPA chairman MP Lasantha Alagiyawanna didn’t spark as much controversy, as he had previously held the position. However, Abeygunawardena’s appointment drew significant backlash, with many questioning his qualifications to lead a parliamentary watchdog committee.
+
+...
+
+[Data](articles/d4c3e3a4.json)
 
 ---
 
@@ -2080,6 +2190,26 @@ As a result, a train delay is also available on the coastal route.
 
 ---
 
+### Ministry of Agriculture pays bulk of fertilizer credit owed by farmers to private sector
+
+*2024-03-09 08:02:00* · [`islandlk`](http://island.lk/ministry-of-agriculture-pays-bulk-of-fertilizer-credit-owed-by-farmers-to-private-sector/) · `en`
+
+Nearly 93 percent of the Rs. 23,000 million fertilizer credit owed by farmers to the private sector that was left unpaid for five years was paid on their behalf last year, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+The minister told journalists recently that until 2021, due to the purchase of fertilizer on credit, the Ministry of Agriculture was supposed to pay farmers’ arrears amounting to Rs.23,000 million to the private sector.
+
+Amaraweera added: ‘Due to the intervention of President Ranil Wickremesinghe as the Minister of Finance, 95 percent of the credit amount, resulting from the purchase of chemical fertilizers from the private sector, was settled.
+
+‘Accordingly, by last year, the government provided the necessary financial allocation to pay an amount of Rs.18,000 million.
+
+...
+
+[Data](articles/5e15a9c2.json)
+
+[Extended Data](ext_articles/5e15a9c2.ext.json)
+
+---
+
 ### Shopman arrested
 
 *2024-03-09 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194309) · `si`
@@ -2187,193 +2317,5 @@ The police said that the cab was fruited.
 [Data](articles/4dcbee02.json)
 
 [Extended Data](ext_articles/4dcbee02.ext.json)
-
----
-
-### Weather on the weekend
-
-*2024-03-09 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194307) · `si`
-
-Showers or thundershowers expected in Western and Sabaragamuwa Province, Galle, and Matara districts. Temperatures to rise, focusing on cooler areas in North Western, Southern, and North Central provinces. Health advice includes staying hydrated, resting in shade, and avoiding outdoor stress.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara districts, the Met Department said.
-
-In some places, in some places in the Western and Sabaragamuwa Province, in some places, in some places, have been announced in the morning.
-
-Meanwhile, the Department of Meteorology was announced yesterday that the temperature of several parts of the island will increase to a level today (09).
-
-Accordingly, in the North Western, Southern and North and North Central and North Central and provinces, the heat of the human body will be focused on a lowest level of warmth.
-
-The Department has informed the health advice including adequate water, the rest of the shadow, and the stress of the outdoors.
-
-◼️
-
-[Data](articles/60dfbefc.json)
-
-[Extended Data](ext_articles/60dfbefc.ext.json)
-
----
-
-### Prime Lands commences construction of ‘The Residence’
-
-*2024-03-09 06:16:00* · [`islandlk`](http://island.lk/prime-lands-commences-construction-of-the-residence/) · `en`
-
-Samagi Mawatha, Thalawathugoda – 80% of the project already sold – Revolutionary 1% monthly installment payment plan available
-
-Unveiling a new era towards luxury housing and upgrading lifestyles, Prime Lands (Pvt) Ltd., the real estate leader, has proudly announced breaking ground and laying the foundation stone at its latest prestigious housing project, ‘The Residence’ at Samagi Mawatha, located in the heart of Thalawathugoda.
-
-The initiation ceremony, marking the commencement of construction of the new residential project, was graced by the presence of the Chairman, Co-Chairperson, homeowners, and the Prime team.
-
-...
-
-[Data](articles/4a74debf.json)
-
-[Extended Data](ext_articles/4a74debf.ext.json)
-
----
-
-### From the Royal-Thomian...
-
-*2024-03-09 06:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/From-the-Royal-Thomian/110-278535) · `en`
-
-Skipper Sineth Jayawardena and Ovina Ambanpola came to the rescue of Royal  College on day two of the 145th Battle of the Blues Big Inter-School Match against the traditional rivals. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/5979cd7e.json)
-
-[Extended Data](ext_articles/5979cd7e.ext.json)
-
----
-
-### Vajira to reveal how Ranil became President in another book
-
-*2024-03-09 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vajira-to-reveal-how-Ranil-became-President-in-another-book/108-278534) · `en`
-
-Colombo, March 08 (Daily Mirror) -  UNP Chairman and Member of Parliament Vajira Abeywardene yesterday announced that he will launch another book shortly which relates how the incumbent President Ranil Wickremeisnghe became President of Sri Lanka after the ‘ Aragalaya’( mass protests) in 2022.
-
-This book follows “Press vs the Prez” and the memo of Former President Gotabaya Rajapaksa “The conspiracy to oust me” which were launched on Thursday.
-
-“ This latest book tells the inside story of how the incumbent President became the head of state in Sri Lanka with a solitary seat in Parliament. We have already written it and it will be launched soon,” Abeywardene said.
-
-◼️
-
-[Data](articles/f15bbe70.json)
-
-[Extended Data](ext_articles/f15bbe70.ext.json)
-
----
-
-### Two motorcycles escaped on fire
-
-*2024-03-09 05:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தீ-பற்றிய-மோட்டார்-சைக்கிள்-இருவர்-தப்பினர்/72-334405) · `ta`
-
-Two motorcycles caught fire on the Mannar Thirukkadeeswaram temple road during Shivaratri celebrations. The two riders survived by jumping off.
-
-🟩
-
-The motorcycle suddenly caught fire on the Mannar Thirukkadeeswaram temple on Friday evening (08), along the Jaffna -Mannar main road to observe Shivaratri in Mannar.
-
-During this time, the two men who were traveling on the motorcycle jumped off the motorcycle and survived.
-
-The incident has taken place at the Jaffna -Mannar main road.
-
-◼️
-
-[Data](articles/45b28eb5.json)
-
-[Extended Data](ext_articles/45b28eb5.ext.json)
-
----
-
-### Sathosa reduced the prices of 4 goods
-
-*2024-03-09 05:45:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-பொருட்களின்-விலைகளை-குறைத்தது-சதொச/175-334404) · `ta`
-
-Sathosa in Sri Lanka has reduced prices of 4 essential commodities: milk packs, dried chilli, white rice, and white chin. New prices are effective from Friday, 8th.
-
-🟩
-
-Sri Lanka Sathosa said steps have been taken to reduce the prices of 4 essential commodities and the new prices have come into effect on Friday (8).
-
-Lanka Sathosa has reduced the price of 400 grams of milk packs, the price of a kilogram of dried chilli is 15 rupees, the price of a kilogram of white rice is 5 rupees and the price of a kilogram of white chin is 3 rupees.
-
-According to Sathosa, the new price of a 400g milk mango pack is Rs.
-
-◼️
-
-[Data](articles/ee646ced.json)
-
-[Extended Data](ext_articles/ee646ced.ext.json)
-
----
-
-### Bus
-
-*2024-03-09 05:40:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-ஓடிய-பஸ்/175-334403) · `ta`
-
-A bus ran on the railway track at Kanemulla Railway Station, Friday afternoon, causing damage to the line to Colombo, blocking traffic.
-
-🟩
-
-There was an incident where the bus was running on the railway track as a private bus was torn apart.
-
-The incident took place on Friday afternoon at the Kanemulla Railway Station. A top official of the Railway Department said the bus had damaged the railway line.
-
-The official said that the railway line to Colombo has been damaged and the railway traffic has been blocked.
-
-The official said that the bus was running on the railway line at around 6.55 pm and the train was stopped on the main road.
-
-◼️
-
-[Data](articles/00bf2a96.json)
-
-[Extended Data](ext_articles/00bf2a96.ext.json)
-
----
-
-### Come to see the Betternatna, the island that day?
-
-*2024-03-09 04:16:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crgv6qd3y6yo) · `si`
-
-Battanenaduwa Island, largest in Battalangawa, supports 600 families through fishing and tourism. Known for its unique history and natural beauty, it's a 4-hour journey from Colombo via Kalpitiya. The island's water is cleaned by the Navy, but lacks basic facilities like water, electricity, and roads. Despite challenges, it attracts tourists for its coral reefs, dolphins, and wildlife.
-
-🟩
-
-Battanenaduwa Island is the largest island of Battalangawa, which is a 175 hectares of land.
-
-The population is from time to time and about 600 families live in it today. The main livelihood of the people in the area is to catch fishing. In addition, the fishing fish is done to the same. They are often called diligence and produce this Bettern.
-
-Fishing is the main livelihood of the people of this island, but now a small number of people in the area are now inclined to the tourism industry.
-
-Bettalangannaduwa is originally known as the island where the island was originally known as the. The reason for this, the condition of the island out of this island for a hundred years.
-
-Since the technique boats of technology, like that day, a person who came to the islaw was only the invention of a person in the island.
-
-...
-
-[Data](articles/fd0c5a91.json)
-
-[Extended Data](ext_articles/fd0c5a91.ext.json)
-
----
-
-### Maha Shivaratri Pooja event at Swayambu Lingeshwarar Shiva Temple
-
-*2024-03-09 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178296) · `ta`
-
-Maha Shivaratri Pooja at Swayambu Lingeshwarar Shiva Temple, including anointing, pooja, and Pongal events.
-
-🟩
-
-The Maha Shivaratri Pooja event was held on Friday (08) at the Swayambu Lingeshwara Shiva Temple in the Komarangadawala (Kumarasan Kadavai) forest in the Komarangadawala (Kumarasan Kadavai) forest. The anointing and pooja events for the Swayambu Lingam were also held and the Pongal event was held.
-
-◼️
-
-[Data](articles/0b461be5.json)
-
-[Extended Data](ext_articles/0b461be5.ext.json)
 
 ---

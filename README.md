@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 18:33:28**
+As of **2024-03-10 18:51:22**
 
 ## Newspaper Stats
 
-*Scraped **11,971** Articles*
+*Scraped **11,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 623
 islandlk | 646
-adalk | 1,015
+adalk | 1,016
 adaderanalk | 1,455
 tamilmirrorlk | 1,460
 virakesarilk | 1,634
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,968 (100.0%) of 11,971 articles have been extended.
+11,971 (100.0%) of 11,972 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,27 +48,35 @@ Thus, the UPTUF warned that if the government fails to resolve the matter within
 
 [Data](articles/5f04967d.json)
 
+[Extended Data](ext_articles/5f04967d.ext.json)
+
 ---
 
-### කහතුඩුවේ අමුතු පාටියට ගිය 20-22 අතර 27ක් අත්අඩංගුවට
+### 27 arrested between 20-22 20-22 arrested in Kahathuduwa
 
 *2024-03-10 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194355) · `si`
 
-මත්ද්‍රව්‍ය භාවිත කරමින් පැවති සාදයකට එක්වූ පුද්ගලයින් 19ක් සහ තරුණියන් 08ක් සැකපිට පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police in Kahathuduwa arrested 27, including 19 adults and 8 girls, for drug use. Suspects, aged 20-22, from Polonnaruwa, Dehiattakandiya, Galle, Kandy, and Diyatalawa, were found with Hash of Hash of Harbor. Further investigations continue.
 
-කහතුඩුව පොලීසියට ලද තොරතුරකට අනුව කළ වැටලීමකදී මාගම්මන ප්‍රදේශයේ නිවසක පැවති එම සාදයට එක්ව සිටි මෙම පිරිස පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-එහිදී සැකකරුවන් තිදෙනෙකු සන්තකයේ තිබී හෑෂ් මත්ද්‍රව්‍යද තවත් සැකකරුවන් තිදෙනෙකු සන්තකයේ තිබී මත් පෙති ද පොලීසිය සොයාගෙන ඇත.
+Police have arrested 19 persons and eight young girls who joined a party using drugs.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇති සියලුම සැකකරුවන් සහ සැකකාරියන් වයස වුරුදු 20 ත් 22ත් යන වයස්වල පසුවන බව පොලීසිය පවසයි.
+The police were arrested by the police at a house in Magammana in a raid on a raid on information received by the Kahathuduwa Police.
 
-වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ එම සැකකරුවන් සහ සැකකාරියන් පොළොන්නරුව, දෙහිඅත්තකණ්ඩිය, ගාල්ල, මහනුවර සහ දියතලාව යන ප්‍රදේශවල පදිංචිකරුවන් බවටය.
+Police also found three other suspects in possession of the Hash of Hash of Harbor and three other suspects in possession of three suspects.
 
-සැකකරුවන් පිරිස අධිකරණයට ඉදිරිපත් කර ඇති අතර කහතුඩුව පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+All the suspects and suspects are aged 20 and 22 years of age.
+
+Further investigations have revealed that the suspects and the suspects were residents of Polonnaruwa, Dehiattakandiya, Galle, Kandy and Diyatalawa.
+
+The suspects have been produced in court and the Kahathuduwa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/105e46e9.json)
+
+[Extended Data](ext_articles/105e46e9.ext.json)
 
 ---
 
@@ -181,6 +189,20 @@ In the second year of the Technical Faculty of the same university, a student fe
 [Data](articles/6afc75cc.json)
 
 [Extended Data](ext_articles/6afc75cc.ext.json)
+
+---
+
+### කාලගුණයෙන්  අනතුරු ඇඟවීමක්
+
+*2024-03-10 17:27:39* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්--අනතුරු-ඇඟවීමක්/11-408520) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව හෙට (11) දිනය සඳහා අදාළ වන පරිදි ප්‍රදේශ කිහිපයක් සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව ඇම්බර් වර්ණයෙන් යුතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන පරිදි හෙට දිනයේ බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් තත්ත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+
+◼️
+
+[Data](articles/e66c67eb.json)
 
 ---
 
@@ -813,6 +835,8 @@ From centuries, Chinese people held that the values of their ancestors should be
 ...
 
 [Data](articles/92bd7e18.json)
+
+[Extended Data](ext_articles/92bd7e18.ext.json)
 
 ---
 
@@ -2333,23 +2357,5 @@ Attanayake further said that the IMF delegation, similar to the last time they w
 [Data](articles/67404ab8.json)
 
 [Extended Data](ext_articles/67404ab8.ext.json)
-
----
-
-### Sri Lanka railway station gets digital time schedule
-
-*2024-03-09 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-railway-station-gets-digital-time-schedule-153889/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Fort Railway Station was fitted with a digital time schedule for passenger convenience, which will be displayed on screens around the station.
-
-“Commuters are informed about the train schedules by means of 2 main screens and 7 screens set up inside the station, which are visible to the persons outside the station, and to the commuters inside the station, near the main entrance,” a statement by the Government Information Department said.
-
-The Colombo Fort Railway Station is the main hub of Sri Lanka Railways, where thousands of commuters gather at weekday rush hours. (Colombo/Mar9/2024)
-
-◼️
-
-[Data](articles/3a4c6400.json)
-
-[Extended Data](ext_articles/3a4c6400.ext.json)
 
 ---

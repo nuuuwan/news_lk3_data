@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 10:51:05**
+As of **2024-03-10 11:03:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,878
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,912 (100.0%) of 11,913 articles have been extended.
+11,913 (100.0%) of 11,913 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,8 @@ A total of 16 people have died after being bitten by stray dogs last year.
 ...
 
 [Data](articles/d16de576.json)
+
+[Extended Data](ext_articles/d16de576.ext.json)
 
 ---
 

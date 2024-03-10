@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 01:02:54**
+As of **2024-03-11 01:17:38**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,008 (100.0%) of 12,010 articles have been extended.
+12,010 (100.0%) of 12,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் ஏற்பாட்டில் திருகோணமலையில் மகளிர் தின நிகழ்வு!
+### Eastern Province Governor Senthil Thondaman arrangement in Trincomalee
 
 *2024-03-11 00:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178385) · `ta`
 
-கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தலைமையில் திருகோணமலை திருக்கோணேஸ்வரா இந்து கல்லூரி மைதானத்தில் மகளிர் தின நிகழ்வுகள் இடம்பெற்றது.
+Governor Senthil Thondaman of the Eastern Province led a Women's Day event at Trincomalee Hindu College Ground, featuring Susitra Ella, co-founder of Bharat Biotech, as the chief guest. Ella was awarded "WORLD'S MOST POWERFUL WOMAN" for producing 600 billion bovit vaccines. The event also honored women's achievements and cultural events.
 
-இந்நிகழ்வில் இந்தியாவின் பாரத் பயோடெக் இன்டர்நேஷனல் லிமிடெட்டின் இணை நிறுவனரும் இயக்குனருமான சுசித்ரா எல்ல அவர்கள் பிரதம அதிதியாக கலந்து சிறப்பித்தார்.
+🟩
 
-சுசித்ரா எல்ல கோவிட் காலப்பகுதியில்  கொவிட் தடுப்பூசியை கண்டுபிடித்து, 600 பில்லியன் கொவிட் தடுப்பூசிகளை தயாரித்து மக்கள் உயிரை காத்த உன்னத பெண்ணான சுசித்ரா எல்ல அவர்களை கௌரவிக்கும் முகமாக  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால்"Worlds Most Powerful Woman" விருது வழங்கி வைக்கப்பட்டதுடன், 1880 ஆம் ஆண்டு காலப்பகுதியில் மலையக பெண் ஒருவர் தேயிலை பறிக்கும் பொழுது எடுக்கப்பட்ட புகைப்படம் ஒன்றும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானால் திருமதி சுசித்ரா எல்லவுக்கு அன்பளிப்பாக வழங்கி வைக்கப்பட்டது.
+The Women's Day event was held at the Trincomalee Hindu College Ground under the leadership of Governor of the Eastern Province Senthil Thondaman.
 
-மேலும் திருகோணமலையில் கல்வி துறையில் சாதித்த பெண்கள், Rural development society, பெண்கள் அமைப்புகள் போன்ற பல சாதனைகளை நிலைநாட்டிய பெண்களுக்கும் விருது வழங்கி கௌரவிக்கப்பட்டது.
+Susitra Ella, co -founder and director of Bharat Biotech International Limited, India, was the chief guest at the event.
+
+Susitra in the Eastern Province of the Eastern Province, Senthil Thondaman, in honor of all the people's life, the people of the Eastern Province Senthil Thondaman, who was found in the 1880s of the day, was awarded the "WORLDS MOST POverful Woman" award in the face of a gigantic vaccine and produced 600 billion bovit vaccines.Mrs. Susitra was all gifted to the Eastern Province Governor Senthil Thondaman.
+
+The award was also honored with women who achieved many achievements such as Rural Development Society and Women's Organizations in Trincomalee.
+
+The award ceremony was also held in honor of the cultural events and the honor of the achievement women.
 
 ...
 
 [Data](articles/9f8ba189.json)
+
+[Extended Data](ext_articles/9f8ba189.ext.json)
 
 ---
 
@@ -523,6 +531,8 @@ There is a sustainable solution in setting up a licenced specialised national ba
 ...
 
 [Data](articles/02545d02.json)
+
+[Extended Data](ext_articles/02545d02.ext.json)
 
 ---
 

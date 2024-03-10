@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 22:33:28**
+As of **2024-03-10 22:50:31**
 
 ## Newspaper Stats
 
-*Scraped **11,995** Articles*
+*Scraped **11,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,75 @@ islandlk | 646
 adalk | 1,017
 adaderanalk | 1,458
 tamilmirrorlk | 1,462
-virakesarilk | 1,638
-dailymirrorlk | 1,837
+virakesarilk | 1,639
+dailymirrorlk | 1,838
 adaderanasinhalalk | 1,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,994 (100.0%) of 11,995 articles have been extended.
+11,995 (100.0%) of 11,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### පාතාලේ 43කට ජාත්‍යන්තර රතු නිවේදන
+### ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் மாநாடு
+
+*2024-03-10 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178382) · `ta`
+
+ஹிஜ்ரி 1445 புனித ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு திங்கட்கிழமை (10) மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற இருக்கின்றது.
+
+இம்மாநாட்டில் கொழும்பு பெரிய பள்ளிவாசல், அகில இலங்கை ஜம்இய்யதுல் உலமா, முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள உறுப்பினர்கள் மற்றும் உலமாக்கள் கலந்துகொள்ள இருக்கின்றனர்.
+
+நாட்டின் எப்பிரதேசத்திலாவது ரமழான் மாத தலைப்பிறை தென்பட்டால் தகுந்த ஆதாரங்களுடன் 0112432110, 0112451245, 0777316415 என்ற இலக்கத்துடன் தொடர்புகொண்டு அறிவிக்குமாறு கொழும்பு பெரிய பள்ளிவாசல் முஸ்லிம் மக்களை கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/527f4065.json)
+
+---
+
+### International Announcements for 43 initi
 
 *2024-03-10 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194359) · `si`
 
-අපරාධ කල්ලි සාමාජිකයින් 43 දෙනෙකුට එරෙහිව මේ වනවිට ජාත්‍යන්තර රතු නිවේදන ලබාගෙන ඇති බව පොලිසිය පවසයි.
+Police announced arrests of 43 criminal gang members, including 'Manna Ramesh', with international red notices to be issued.
 
-කොළඹ අද පැවැති මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේ තවත් හදුනාගත් අපරාධ කල්ලි සාමාජිකයින් කිහිපදෙනෙකුට එරෙහිව ජාත්‍යන්තර රතු නිවේදන ලබාගැනීමට නියමිත බවය.
+In today's public announcements have been obtained against 43 criminal gang members, police said.
 
-ඩුබායිහිදී අත්අඩංගුවට පත්ව සිටින අපරාධ කල්ලි සාමාජිකයෙකු වන "මන්නා රමේෂ්" සම්බන්ධයෙන් ගනු ලබන ඉදිරි ක්‍රියාමාර්ග පිළිබඳව ඩුබායි රාජ්‍ය සමඟ සාකච්ඡා කිරීමට බලාපොරොත්තු වන බවද නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූ මහතා සඳහන් කළේය.
+Speaking at a media briefing held in Colombo today, police spokesman DIG Talduuwa made this statement.
+
+Speaking further, the Police Media Spokesperson added that international red notices would be obtained against several identified criminals.
+
+DIG Talduu said that the 'Manna Ramesh' is expected to be discussed with the states of Dubai, a criminal gang member who has been arrested in Dubai.
 
 ◼️
 
 [Data](articles/020c0517.json)
+
+[Extended Data](ext_articles/020c0517.ext.json)
+
+---
+
+### Ranil prefers Presidential election first; Rajapaksas want general election: AKD
+
+*2024-03-10 22:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-prefers-Presidential-election-first-Rajapaksas-want-general-election-AKD/108-278569) · `en`
+
+Colombo, March 10 (Daily Mirror)- President Ranil Wickremesinghe is opting to hold the Presidential election first while the Rajapaksas want the General Elections held first, National People's Power (NPP) leader Anura Kumara Dissanayake said today.
+
+Speaking at the Colombo District Women's Convention, he said the President prefers the Presidential election held first than to the General Elections as he has no strong support at the grassroots level.
+
+He said the Rajapaksas prefer the General Elections first as they deem that going for a Presidential election is disadvantageous to them as they have no strong candidate to contest for the Presidency.
+
+"The SLPP knows Rajapaksas cannot be brought in again as a leader. Basil came to the country recently. But, he has no chance to contest for the Presidency. So, they think that the General elections is more advantageous to them," he said.
+
+...
+
+[Data](articles/ea63084f.json)
 
 ---
 
@@ -2309,45 +2349,5 @@ Staff on the ship have been rescued by the Indian Navy's Kolkata Knight Ship.
 [Data](articles/b508b7b6.json)
 
 [Extended Data](ext_articles/b508b7b6.ext.json)
-
----
-
-### The possibility of eye disease caused by high heat
-
-*2024-03-10 03:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பத்தால்-கண்-நோய்-ஏற்படும்-சாத்தியம்/175-334432) · `ta`
-
-Experts warn of eye diseases from excessive heat, highlighting sunlight damage and the importance of hydration. Dr. Madhuvandi Dissanayake, a professor at the University of Colombo, emphasizes the risk for computer users and those with pre-existing eye conditions.
-
-🟩
-
-Ophthalmology experts say that there are feasions of eye diseases due to excessive heat.
-
-Dr. Madhuvandi Dissanayake, a professor of the Faculty of the University of Colombo, said that if the sunlight is directly visible, its cells will be damaged and the awareness can be lost.
-
-He also said that it is necessary to consume the necessary water, as the heat is caused by the heat.
-
-He also warned that people with computer use and those who already have eye disease could increase the effects. (A)
-
-◼️
-
-[Data](articles/2ecf61e2.json)
-
-[Extended Data](ext_articles/2ecf61e2.ext.json)
-
----
-
-### In injury to someone in the shooting
-
-*2024-03-10 02:58:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-சூட்டில்-ஒருவர்-காயம்/175-334431) · `ta`
-
-"Injury occurred during a shooting incident."
-
-🟩
-
-◼️
-
-[Data](articles/80ac3c62.json)
-
-[Extended Data](ext_articles/80ac3c62.ext.json)
 
 ---

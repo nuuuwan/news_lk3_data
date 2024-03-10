@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 12:17:54**
+As of **2024-03-10 12:33:08**
 
 ## Newspaper Stats
 
-*Scraped **11,925** Articles*
+*Scraped **11,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 141
 dbsjeyarajcom | 181
 newsfirstlk | 363
 dailyftlk | 617
-economynextcom | 622
+economynextcom | 623
 islandlk | 646
 adalk | 1,006
-adaderanalk | 1,447
-tamilmirrorlk | 1,452
+adaderanalk | 1,448
+tamilmirrorlk | 1,453
 virakesarilk | 1,633
 dailymirrorlk | 1,823
 adaderanasinhalalk | 1,882
@@ -26,79 +26,123 @@ adaderanasinhalalk | 1,882
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,921 (100.0%) of 11,925 articles have been extended.
+11,925 (100.0%) of 11,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### මධ්‍යම තැපැල් හුවමාරුවේ වර්ජනයක්
+### At least 19 dead and 7 missing as landslide and flash floods hit Indonesia’s Sumatra island
+
+*2024-03-10 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97849/at-least-19-dead-and-7-missing-as-landslide-and-flash-floods-hit-indonesias-sumatra-island) · `en`
+
+Torrential rains have triggered flash floods and a landslide on Indonesia’s Sumatra island, killing at least 19 people and leaving seven others missing, officials said Sunday.
+
+Tons of mud, rocks and uprooted trees rolled down a mountain late Friday, reaching a river that burst its banks and tore through mountainside villages in Pesisir Selatan district of West Sumatra province, said Doni Yusrizal, who heads the local disaster management agency.
+
+Rescuers by Saturday pulled out seven bodies in the worst-hit village of Koto XI Tarusan, and recovered three others in two neighboring villages, Yusrizal said.
+
+Rescuers retrieved six bodies in Pesisir Selatan and three more in the neighboring district of Padang Pariaman, bringing the death toll to 19, the National Disaster Management Agency said on Sunday.
+
+The agency in a statement said at least two villagers were injured by the flash flood and rescuers are searching for seven people who are reportedly still missing.
+
+...
+
+[Data](articles/588a17f5.json)
+
+---
+
+### Strike on Central Postal Exchange
 
 *2024-03-10 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194343) · `si`
 
-මධ්‍යම තැපැල් හුවමාරුවේ සේවකයින් අද මධ්‍යම රාත්‍රියේ සිට පැය 24ක සංකේත වැඩ වර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+Central Mail Exchange employees are striking for 24 hours from midnight, demanding a disabled lift's repair. The strike affects nearly 40% of women, including pregnant mothers, causing inconvenience. The Combined Post Union Front criticizes the government's 3-month delay, proposing a 1-month solution.
 
-මධ්‍යම තැපැල් හුවමාරුව ස්ථාපිත කර ඇති මහල් 8ක ගොඩනැගිල්ලේ අක්‍රීය වී ඇති විදුලි සෝපානය අලුත්වැඩියා නොකිරීමට විරෝධය පළකරමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගයට එළැඹීමට තීරණය කර තිබේ.
+🟩
 
-මාධ්‍ය හමුවකට එක්වෙමින් ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ මේ බව පැවසීය.
+The employees of the Central Mail Exchange have decided to launch a 24-hour token strike from midnight today.
 
-ඔවුන් පවසන්නේ මධ්‍යම තැපැල් හුවමාරුවේ සේවයේ නිරත සියයට 40කට ආසන්න කාන්තාවන් ඉන් අපහසුතාවයට පත්ව ඇති බවත් ඒ අතර ගැබිණි මව්වරුන්ද සිටින බවත්ය.
+They have decided to propose to propose to repair the disabled lift in the 8 storey building established by the Central Mail Exchange.
 
-විදුලි සෝපානය අක්‍රීය වී වසරකට ආසන්න කාලයක් ගතවුවද එය අලුත්වැඩියා නොකිරීම හේතුවෙන් තැපැල් මළු ගොඩනැගිල්ල තුළ එහා මෙහා ගෙනයාමට සේවකයින්ට දැඩි පරිශ්‍රමයක් දැරීමට සිදුව ඇති බව ඔවුන් පවසයි.
+Joint Post Trade Union Front was speaking at a media briefing.
 
-රජය එය නැවත සකස්කිරීමට මාස 3ක් කාලසීමාවක් ඉල්ලා සිටින බව පැවසූ ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණ පවසන්නේ මාසයක් ඇතුළත එය නැවත සකස් කිරීමට අපොහොසත් වුවහොත් අඛණ්ඩ වැඩ වර්ජනයකට එළඹෙන බවය.
+They say that nearly 40 percent women in the Central Mail exchange are inconvenienced and there are pregnant mothers.
+
+The elevator was disabled, but it was reported that the employees had to strive to move around the postgroll building due to the repair of it.
+
+The Combined Post Union Front said that the government is asking for three months to reconfuse it, says the union of the forefront of a month within a month.
 
 ◼️
 
 [Data](articles/53a91216.json)
 
+[Extended Data](ext_articles/53a91216.ext.json)
+
 ---
 
-### தண்ணீரை விற்கும் கதை பொய்
+### The story that sells water is lying
 
 *2024-03-10 12:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீரை-விற்கும்-கதை-பொய்/175-334443) · `ta`
 
-விவசாயிகளுக்கு வழங்கப்படும் தண்ணீருக்கு கட்டணம் அறவிடுவது குறித்தோ அல்லது தண்ணீரை தனியார் மயமாக்குவது குறித்தோ எந்தவொரு யோசனையும் அரசாங்கத்திடம் சமர்ப்பிக்கப்படவில்லை என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Mahinda Amaraweera, Minister of Agriculture, denies allegations of water privatization and charging. No proposals have been submitted to the government for such actions.
 
-தண்ணீரைத் தனியார் மயமாக்கப் போவதாகவும் விவசாயத் தேவைக்கான இலவச நீருக்குக் கட்டணம் வசூலிக்கப் போவதாகவும் சில அரசியல் கட்சிகள் முன்வைக்கும் குற்றச்சாட்டுகள் ஆதாரமற்றவை என அமைச்சர் மேலும் தெரவித்துள்ளார்.
+🟩
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that no idea has been submitted to the government on charging or privatizing water to the farmers.
+
+The Minister further stated that the allegations made by some political parties are unfounded that they are going to privatize water and charge free water for agricultural demand.
 
 ◼️
 
 [Data](articles/f53e1d66.json)
 
+[Extended Data](ext_articles/f53e1d66.ext.json)
+
 ---
 
-### காலி முகத்திடலில் ’’IORA’’ நிகழ்வு
+### IRA telephone number in empty face
 
 *2024-03-10 11:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-முகத்திடலில்-IORA-நிகழ்வு/175-334442) · `ta`
 
-எதிர்கால சந்ததியினருக்கான நிலையான இந்து சமுத்திரத்தை உறுதி செய்தல்" எனும் தொனிப்பொருளில் இன்று (10) கொழும்பு காலி முகத்திடலில் நடைபெறும்  2024 ஆம் ஆண்டுக்கான "IORA" தின கொண்டாட்டத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க சற்று முன்னர் கலந்து கொண்டார்.
+President Ranil Wickremesinghe attended the "Ira" Day 2024 in Colombo, focusing on the "Standard Indian Ocean." He engaged with students, visited embassies, and saw exhibitions by state institutions.
 
-மேலும் அங்கு பல்வேறு நடவடிக்கைகளில் ஈடுபட்டிருந்த பாடசாலை மாணவர்களுடன் சிநேகபூர்வமாக உரையாடிய ஜனாதிபதி,உறுப்பு நாடுகளின் தூதரகங்கள் மற்றும் நாட்டின் அரச நிறுவனங்களால் ஏற்பாடு செய்யப்பட்டிருந்த கண்காட்சிகளையும் பார்வையிட்டார்.
+🟩
+
+President Ranil Wickremesinghe participated in the "Ira" Day celebration of 2024 at the Galle Face of Colombo today (10) under the theme "Standard Indian Ocean."
+
+The President also spoke to the school students who had been involved in various activities there and visited the embassies of member states and the exhibitions organized by the state institutions of the country.
 
 ◼️
 
 [Data](articles/af022c1a.json)
 
+[Extended Data](ext_articles/af022c1a.ext.json)
+
 ---
 
-### கண்காட்சிக்கு கஞ்சாவுடன் சென்ற நயினா பெண்
+### Naina girl who went with cannabis to the exhibition
 
 *2024-03-10 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கண்காட்சிக்கு-கஞ்சாவுடன்-சென்ற-நயினா-பெண்/71-334441) · `ta`
 
-யாழ்ப்பாணத்தில் நடைபெற்று வரும் இலங்கை விமானப் படையின் கண்காட்சிக்கு கேரள கஞ்சாவுடன் சென்ற பெண் ஒருவர் கைது செய்யப்பட்டார்.
+A 26-year-old woman from Nainadivi was arrested at a Sri Lankan Air Force exhibition in Jaffna for carrying two kilograms of cannabis.
 
-நயினாதீவைச் சேர்ந்த 26 வயதான பெண்ணே இரண்டு கிலோ கிராம் எடையுள்ள கஞ்சாவுடன் கைது செய்யப்பட்டார்.
+🟩
 
-இலங்கை விமானப்படையின் 73வது வருட நிறைவை முன்னிட்டு “வான் சாகசம் – 2024” கண்காட்சி நிகழ்வுகள் யாழ்ப்பாணம் – முற்றவெளி மைதானத்தில் இன்று ஜந்தாவது நாளாகவும் இடம்பெற்றுவருகிறது.
+A woman who was accompanied by Kerala cannabis has been arrested for a Sri Lankan Air Force exhibition in Jaffna.
 
-இதன்போது கண்காட்சி பிரதான நுழைவாயிலில் கண்காட்சிக்கு பொதியுடன் வந்த பெண்ணை சோதனையிட்டபோதே கஞ்சா இருந்தமை கண்டுபிடிக்கப்பட்டது.
+A 26 -year -old woman from Nainadivi was arrested with a two -kilogram cannabis.
 
-இந்நிலையில் குறித்த பெண் விமானப்படையினரால் யாழ்ப்பாணம் பொலிஸாரிடம் ஒப்படைக்கப்பட்டநிலையில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+The "Van Adventure - 2024" exhibition events are being held today at the Jaffna - Ilaveli Ground in view of the 73rd anniversary of the Sri Lanka Air Force.
+
+It was found that the ganja was found when the woman who came to the exhibition with the exhibition at the main entrance of the exhibition was checked.
+
+The police are conducting further investigations as the woman has been handed over to the Jaffna Police by the Air Force.. Remble
 
 ◼️
 
 [Data](articles/88997984.json)
+
+[Extended Data](ext_articles/88997984.ext.json)
 
 ---
 
@@ -649,6 +693,28 @@ Accordingly, 8,400 employees of local government will be established.
 [Data](articles/a3ea9030.json)
 
 [Extended Data](ext_articles/a3ea9030.ext.json)
+
+---
+
+### Sri Lanka central bank mainly responsible for electricity price cut
+
+*2024-03-10 06:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-mainly-responsible-for-electricity-price-cut-153910/) · `en`
+
+ECONOMYEXT – Sri Lanka’s power tariff cut was made possible by an appreciating exchange rate and falling interest rates (monetary stability) that cut costs of the Ceylon Electricity Board and reduced coal import prices, Energy Minister Kanchana Wijesekera said.
+
+Sri Lanka slashed electricity prices as much as 33 percent for small users and 21 percent overall, after hiking them in October as losses mounted due to low rainfall.
+
+Minister Wijesekera said the price cut went beyond the increase in October.
+
+“Most people think that the price reduction came only because of the hydro-electricity,” Minister Wijesekera told reporters.
+
+“Producing more hydro-electricity was only one factor. The main fact was the gradual emergence of the country from the unstable economic conditions, especially the strengthening of the rupee.
+
+“The rupee was at around 370 to the US dollar, which has come down to 314 to 317 to the US dollar. Yesterday it was reported that was down to 307.
+
+...
+
+[Data](articles/ece33b6d.json)
 
 ---
 
@@ -1940,6 +2006,24 @@ No suspects have been arrested so far regarding the incident and the Elpitiya Po
 
 ---
 
+### கோட்டாவை எச்சரிக்கிறார் மனோ
+
+*2024-03-09 14:51:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவை-எச்சரிக்கிறார்-மனோ/175-334422) · `ta`
+
+“சிங்கள பெளத்தர் பலமடைவது சிறுபான்மையினருக்கு தீங்கு விளைவிக்கும் என்பதாலேயே தனக்கு எதிரான உள்நாட்டு வெளிநாட்டு சக்திகள் ஒன்று திரண்டு அரகலவை நடத்தினார்கள்” என தன் நூலில் கூறும் கோட்டாபய ராஜபக்ச, வரலாற்று குற்றங்களில் இருந்து இன்னமும் கூட பாடம் படிக்காத ஒரு அறிவிலி என தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் எச்சரித்துள்ளார்.
+
+சிங்கள-பெளத்தர் பலமடைவது இந்நாட்டு தமிழ், முஸ்லிம் மக்களுக்கு ஒரு பிரச்சினை அல்ல. சிங்கள மொழி பேசுவதன் மூலமும், பெளத்த தரிசனத்தை கடை  பிடிப்பதன் மூலமும் நானும்கூட சிங்கள பெளத்த சிந்தனையை பலப்படுத்தி வருகிறேனே! எமக்கு அதில் என்ன பிரச்சினை?
+
+இந்நாட்டில் சிங்கள- பெளத்தம்,  பேரினவாதமாக மாறி, பல இனங்கள், பல மதங்கள், பல மொழிகள் என்ற இலங்கை பன்மைத்துவதை இல்லாது ஒழிப்பதே எமது பிரச்சினை. அதுதான் எமது நீண்டகால போராட்டம். உங்கள் “அரகலய” வுக்கும் இதற்கும் தொடர்பு கிடையாது என  மனோ கணேசன் கூறியுள்ளார்.
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச எழுதியுள்ள “சதி” என்ற நூல் தொடர்பில் தனது எக்ஸ் தளத்தில் கருத்து கூறியுள்ள மனோ எம்பி மேலும் கூறியதாவது,
+
+...
+
+[Data](articles/d3d77c56.json)
+
+---
+
 ### In the study, 410,000 female children have lost weight due to nutritional reduction
 
 *2024-03-09 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178307) · `ta`
@@ -2279,83 +2363,5 @@ Meanwhile, many people were arrested by MP Selvarasa Gajendran and Velan Swamis 
 [Data](articles/0216c02a.json)
 
 [Extended Data](ext_articles/0216c02a.ext.json)
-
----
-
-### The Cuban Ambassador to Anura Meet
-
-*2024-03-09 11:36:45* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හමුවෙන්න-කියුබානු-තානාපති-යයි/11-408503) · `si`
-
-The Cuban Ambassador to Sri Lanka, Andrz Marcello, met with JVP head office to discuss the political relationship between the Communist Party and JVP in Cuba. They discussed challenges with sanctions affecting Cuba and Sri Lanka. The Ambassador announced a Cuban-supported project in Sri Lanka to combat dengue.
-
-🟩
-
-A meeting between the Cuban Ambassador to Sri Lanka, Andrz Marcello and the JVP head office of the JVP at the Head Office of the JVP at the Head Office of the JVP.
-
-Mr. Anura Kumara Dissanayake says that the Political Relationship between the Communist Party and the JVP in Cuba have been discussed at length.
-
-Anura Kumara Dissanayake said that the Ambassador had been informed of their progress and problems between the sanctions and Cuba, which has been imposed in Cuba and Cuba and Cuba and Sri Lanka.
-
-The Ambassador explained that the project will be held in Sri Lanka with the support of the Cuban government to eradicate dengue.
-
-◼️
-
-[Data](articles/9d57a0d6.json)
-
-[Extended Data](ext_articles/9d57a0d6.ext.json)
-
----
-
-### The lorry loaded with cement collides the family motorcycle
-
-*2024-03-09 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194314) · `si`
-
-A lorry collided with a motorcycle in Kosgama, killing two father-sons and seriously injuring the mother, who was admitted to Colombo National Hospital. The lorry driver was arrested.
-
-🟩
-
-Two were killed in an accident in Kosgama last night in Kosgama last night.
-
-The Kosgama Police said that the accident had occurred when a lorry collided with a lorry.
-
-The crash has taken place in the lorry to Avissawella towards Avissawella towards Avissawella towards Avissawella.
-
-The two father-sons who were traveling on the motorcyclist have died and the mother of serious injuries has been admitted to the Colombo National Hospital.
-
-The deceased has been identified as a 44-year-old father and a man of a resident of Alubodala, Kosgama.
-
-The driver of the lorry has been arrested by the police while Kosgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a015f941.json)
-
-[Extended Data](ext_articles/a015f941.ext.json)
-
----
-
-### Details emerge on victims in Canada mass killing
-
-*2024-03-09 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97836/details-emerge-on-victims-in-canada-mass-killing) · `en`
-
-A Sri Lankan father who survived the mass murder of his family in Canada said he returned home from work on Wednesday to find his wife and four young children had been killed.
-
-Dhanushka Wickramasinghe, 34, was also attacked but managed to subdue the suspect.
-
-He is now recovering in hospital from a slash to the eye and one of his hands.
-
-A 19-year-old Sri Lankan student who was living with the family was charged with the deaths.
-
-The new details of the night the Wickramasinghe family was killed emerged from a series of media interviews with Bhante Suneetha, the resident monk at a local Buddhist monastery in Ottawa that the family attended.
-
-Mr Suneetha, who visited the father in hospital on Thursday, said he is in “great shock” over what happened.
-
-Police in Ottawa discovered the slain family at their townhouse in the Barrhaven suburb after responding to emergency calls placed at around 22:52 local time (03:52 GMT) on Wednesday.
-
-...
-
-[Data](articles/bb794d43.json)
-
-[Extended Data](ext_articles/bb794d43.ext.json)
 
 ---

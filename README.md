@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 11:52:00**
+As of **2024-03-10 12:02:43**
 
 ## Newspaper Stats
 
-*Scraped **11,917** Articles*
+*Scraped **11,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,108 @@ newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 622
 islandlk | 646
-adalk | 1,003
+adalk | 1,006
 adaderanalk | 1,447
 tamilmirrorlk | 1,449
 virakesarilk | 1,633
 dailymirrorlk | 1,823
-adaderanasinhalalk | 1,880
+adaderanasinhalalk | 1,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,915 (100.0%) of 11,917 articles have been extended.
+11,917 (100.0%) of 11,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### රූපලාවණ්‍යාගාරයේ උඩ තට්ටුවේ සූදුපොළක්
+### විදේශිකයින්ගේ දිවි බේරූ අපේ වීරයෝ
+
+*2024-03-10 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194342) · `si`
+
+බෙන්තර වෙරළ තීරයේදී රළ පහරට හසුවී ගසාගෙන යමින් සිටි විදෙස් ජාතික ජාතික කාන්තාවක, ඇයගේ දරුවා සහ විදෙස් ජාතිකයෙකුගේ දිවි බේරාගෙන තිබේ.
+
+ඔවුන් නවාතැන්ගෙන සිටි හෝටලය පසුපස වෙරළතීරයේ දිය නාමින් සිටියදී මෙලෙස සැඩ පහරට හසුව ගසාගෙන ගොස් ඇත.
+
+එම අවස්ථාවේදී ඔවුන් උදව් ඉල්ලා කෑගැසීමත් සමග ජීවිතාරක්ෂක නිලධාරීන් දියඹට පැන ඔවුන් බේරාගැනීමට උත්සාහ දරා ඇත.
+
+එහෙත් රළ පහර වැඩිවීමත් සමග ඒ ආසන්නයේ සිටි අලුත්ගම දියකාවා ජල ක්‍රීඩා සංගමයේ නිරෝෂන් ප්‍රනාන්දු, තරිඳු යන දෙදෙනා සහ ලලූනා ජල ක්‍රීඩා සංගමයේ චමෝද යන අය jet ski එකක් ආධාරයෙන් කඩිනමින් ඔවුන් ආසන්නයට ගොස් ඇත.
+
+අනතුරුව ඔවුන් ඒ වෙත නංවාගෙන ගොඩබිම වෙත රැගෙන ඒමට සමත්ව ඇති බව වාර්තාවෙයි.
+
+අනතුරුව ගොඩට ගත් විදේශිකයින් වෙත ජීවිතාරක්ෂක නිලධාරීන් විසින් ප්‍රථමාධාර ලබාදීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/a063f88d.json)
+
+---
+
+### A gaming of the upper deck of the salon
 
 *2024-03-10 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194341) · `si`
 
-අලුත්ගම නගරයේ සුඛෝපභෝගී නිවසක පවත්වාගෙන ගිය සූදුපොළක් වටලා කාන්තාවන් 8ක් සහ පිරිමි පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police raid gambling house in Aluthgama, arrest suspects in multiple locations. Gambling station was run due to the salon's preferences. Suspects arrested after meticulous investigation by Aluthgama Police. Further investigations ongoing.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොස්ගොඩ, බලපිටිය, අලුත්ගම, කළුතර, බේරුවල, බෙන්තර, අහුන්ගල්ල යන ප්‍රදේශවල සිට පැමිණ සූදු ක්‍රීඩාවේ නිරතවෙමින් සිටි කාන්තාවන් පිරිසකි.
+🟩
 
-අලුත්ගම නගරයේ සතිපොළ පිහිටි භූමිය ආසන්නයේ සුඛෝපභෝගී දෙමහල් නිවසක ඉහළ මාලයේ මෙම සූදුපොළ පවත්වාගෙන ගොස් තිබුණි.
+Police have raided a gambling house operating in a luxury house in Aluthgama.
 
-එම  සුඛෝපභෝගී දෙමහල් නිවසේ පහත මාලයේ රූපලාවණ්‍යාගාරයක් පවත්වාගෙන යන මුවාවෙන් මෙම සූදුපොළ පවත්වාගෙන ගොස් ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+The suspect had been arrested in Kosgoda, Balapitiya, Aluthgama, Kalutara, Beruwala, Barawewa, Baranduwala, Benthara and Beruwalulla.
 
-අලුත්ගම පොලීසිය විසින් උපාය දූතිකාවක් යොදවා සූක්ෂම ලෙස සිදුකළ සොයාබැලීමකින් අනතුරුව මෙම කාන්තාවන් පිරිස සහ සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+The forest march was maintained in the upper front of a luxury house near the site of the Sathi Pola in Aluthgama.
 
-එහිදී සූදුක්‍රීඩාවේ නිරතවෙමින් සිටි මුදල් ද පොලීසිය සිය භාරයට ගෙන තිබුණි.
+It has been revealed that the gambling station had been maintained due to the preferences of the Following Salon's salon.
 
-සැකකාරියන් පිරිස සහ සැකකරු කළුතර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර අලුත්ගම පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+The suspects were arrested after the Aluthgama Police were meticulously investigated.
+
+The police were also taken into custody by the police.
+
+The suspects are to be produced before the Kalutara Magistrate's Court and the Aluthgama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b6021517.json)
+
+[Extended Data](ext_articles/b6021517.ext.json)
+
+---
+
+### ආසියානු කණිෂ්ඨ බැඩ්මින්ටන් තරගාවලියේදී ලාංකිකයෝ වැඩ පෙන්වති
+
+*2024-03-10 11:30:05* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-කණිෂ්ඨ-බැඩ්මින්ටන්-තරගාවලියේදී-ලාංකිකයෝ-වැඩ-පෙන්වති/11-408509) · `si`
+
+03 වන දකුණු ආසියානු කනිෂ්ඨ බැඩ්මින්ටන් ශූරතා තරගාවලියේ දී ශ්‍රී ලංකා 15 න් පහළ සහ 17 න් පහළ  කණ්ඩායම් පදක්කම් 23 ක් දිනා ගෙන 03/09 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+
+මෙම තරගාවලිය ඉකුත් 03/03 දින සිට 03/07 දින දක්වා පාකිස්තානයේ ඉස්ලාමාබාද් නුවර පවත්වා තිබුණි .
+
+එහිදී වයස අවුරුදු 15 න් පහළ සහ 17 න් පහළ ශ්‍රී ලංකා කනිෂ්ඨ බැඩ්මින්ටන් කණ්ඩායම් එහි ශූරතාවය දිනා ගනිමින් රන් පදක්කම් 08 ක් දිනා ගෙන තිබුණි .
+
+මීට අමතරව මෙම ශ්‍රී ලංකා කණ්ඩායම් කේවළ , යුගළ සහ මිශ්‍ර යන ඉසව් වලදී රන් පදක්කම් 09 ක් සහ රිදී පදක්කම් 06 ක් දිනා ගැනීමට ද සමත් වී තිබුණි .
+
+මෙසේ පදක්කම් දිනා ගත් ශ්‍රී ලංකා කනිෂ්ඨ බැඩ්මින්ටන් කණ්ඩායම 03/09 දින අලුයම 05.00 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා ශ්‍රී ලංකා බැඩ්මින්ටන් ෆෙඩරේෂනයේ නිලධාරීන් සහ ඔවුන් ඉගෙනුම ලබන පාසැල් වල ගුරු - විදුහල්පතිවරුන් , සිසුන් මෙන්ම , ඔවුන්ගේ දෙමාපියන් නෑදෑ හිතවතුන් විශාල පිරිසක් ද පැමිණ සිටියහ .
+
+◼️
+
+[Data](articles/b935f5b7.json)
+
+---
+
+### ජා ඇල වෙඩිතැබීමක්
+
+*2024-03-10 11:22:54* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇල-වෙඩිතැබීමක්/11-408508) · `si`
+
+දඬුගම මස් වත්ත ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබා ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්ලුව මහතා පැවසීය.
+
+තුවාල ලද පුද්ගලයා දඬුගම මස් වත්ත ප්‍රදේශයේම පදිංචිකරුවෙකි වයස අවුරුදු 48 ක් වන
+
+යතුරු පැදියකින් පැමිණි පුද්ගලයන් දෙදෙනකු මෙම වෙඩි තැබීම සිදුකර ඇති බව පොලිසිය සිදු කරන ලද පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/99d090a3.json)
 
 ---
 
@@ -73,6 +137,8 @@ Therefore, it is necessary to examine the ramifications of the lack of affordabi
 ...
 
 [Data](articles/2a3c755a.json)
+
+[Extended Data](ext_articles/2a3c755a.ext.json)
 
 ---
 
@@ -177,6 +243,24 @@ A total of 16 people have died after being bitten by stray dogs last year.
 [Data](articles/d16de576.json)
 
 [Extended Data](ext_articles/d16de576.ext.json)
+
+---
+
+### අනියම් සබඳතාව 17 හැවැරිදි තරුණියට මරු කැඳවයි
+
+*2024-03-10 09:46:35* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-සබඳතාව-17-හැවැරිදි-තරුණියට-මරු-කැඳවයි/11-408507) · `si`
+
+ඇල්පිටිය  තලාව පාර, නානායක්කාර මාවත පදේශයේ  පිහිටි තේ ඉඩමකදි, තිබි ගෙල කපා  ඝාතනය කරන ලද තරුණියකගේ  මළසිරුරක් ඊයේ (9දා) සොයා ගත් බව ඇල්පිටිය පොලීසිය කියයි.
+
+මෙසේ සොයා ගනු ලැබූවේ කරන්දෙණිය මණ්ඩකන්ද තල්ගහවත්ත ප්‍රදේශයේ පදිංචි වන්නිආරච්චි කංකානම්ගේ හංසිකා නදීෂා නමැති දාහත් හැවිරිදි අවිවාහක තරුණියකගේ බවද පොලීසිය කියයි.
+
+තරුණිය මාර්තු (8)  වැනිදා සිය මව සමග යමින් සිටියදී කරන්දෙණිය තල්ගහවත්ත, පාලම අසලදී  ඇය සමග සම්බන්ධතාවයක් පැවැත්වු  ඇයගේ සහෝදරියගේ ස්වාමිපුරුෂයා  සහ තවත් අයකු විසින් පිහියක් පෙන්වා ඇය බිය ගන්වා ඔවුන් පැමිණි තීරෝද රථයට බලහත්කාරයෙන් නංවාගෙන ගොස් ඇතැයි අනාවරණයවූ බවද පොලීසිය කියයි.
+
+තරුණිය තමා සමග ඇසුරක් පැවැත්වූ සහෝදරියගේ සැමියා තමාට අමානුෂිකව ලෙස පහරදුන්නේ යයි කියමින් කරන්දෙණිය පොලීසියට කරන ලද පැමිණිල්ල අනුව ඒ සදහා සිය මව සමග යමින් සිටියදී ඇය මස්සිනා විසින් මෙසේ බලහත්කාරයෙන් පැහැරගෙන ගොස් ඇති බවත් ඒ සම්බන්ධයෙන් තරුණියගේ මව පැමිණිල්ලක් දමා ඇති බවද පොලීසිය කියයි.
+
+...
+
+[Data](articles/1a14922a.json)
 
 ---
 
@@ -2271,107 +2355,5 @@ It was also decided at the meeting to include titles 'Venerable' for Buddhist mo
 [Data](articles/140a8e2a.json)
 
 [Extended Data](ext_articles/140a8e2a.ext.json)
-
----
-
-### Seal with a fine for a restaurant operating with health problems in Jaffna
-
-*2024-03-09 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178302) · `ta`
-
-A restaurant in Jaffna fined 73,000 rupees for health violations, including 180 kg of spoiled bread, 5 kg of spoiled fish, and 8 kg of spoiled meat. Another owner fined 20,000 rupees for storing defective meat and shrimp.
-
-🟩
-
-A restaurant in Jaffna, a restaurant, has been sentenced to seal the restaurant, which has been fined 73 thousand rupees.
-
-Public Health Inspector. During a sudden raid carried out in the restaurants headed by Princeen, it was found that 180 kg of dilapidated breads, 05 kg of idiots and 08 kg of bites were tied up in polythene bags.
-
-As the Mallakam Magistrate's Court was sued against the restaurant, the owner was ordered to shut down the restaurant, which was fined Rs 73,000.
-
-At the same time, a restaurant owner who had stored defective meat and shrimp had a fine of 20 thousand rupees, the sale of a repaired meat bread and another restaurant owner who maintained the restaurant's restaurant.
-
-At the same time, the Mallakam Magistrate's Justice has been ordered to shut down some restaurants in the case of about Rs.
-
-◼️
-
-[Data](articles/c2246521.json)
-
-[Extended Data](ext_articles/c2246521.ext.json)
-
----
-
-### Five people killed in Parasood in Gaza
-
-*2024-03-09 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178300) · `ta`
-
-In Gaza, a Hamas attack on Israel in October 2022 resulted in 1,139 Israeli deaths and 253 hostages. Israel launched a war in response, killing 30,800, including Hamas members, and 424 in a West clash. The conflict has led to a humanitarian crisis, with a shortage of food and water. Relief efforts, including by the US Air Force, have been hampered by protests and accidents, such as the death of 5 people when relief items fell from a US Air Force aircraft.
-
-🟩
-
-Hamas armed group operating in Gaza on Israel launched a terrorist attack on October 7 last year. 1,139 people were killed in Israel in the attack. Many more were injured.
-
-Hamas Armed Forces abducted 253 of Israelis as hostage to Gazamunnu. Following the attack, the Israeli war announced the Hamas armed group in Gaza.
-
-Meanwhile, Hamas has released more than 100 of the hostage in Gazamunai on a contract basis. However, more than 130 people are hostage in Gaza, Israel said. Israel is engaged in the rescue of hostage.
-
-Meanwhile, Israel is launching a war on Gazamunai in response to the Hamas Armed Forces attack.. 30 thousand 800 people, including Hamas Armed Forces, were killed in the attack by Israel. Similarly, 424 people were killed in a clash on the West.
-
-...
-
-[Data](articles/7adf2800.json)
-
-[Extended Data](ext_articles/7adf2800.ext.json)
-
----
-
-### 27-year-old arrested over fatal shooting in Hungama
-
-*2024-03-09 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97835/27-year-old-arrested-over-fatal-shooting-in-hungama) · `en`
-
-Police have arrested a suspect in relation to the shooting incident that left a man dead in Kahandamodara area of Hungama on Wednesday (06).
-
-Tangalle Divisional Crimes Unit has apprehended the suspect near Kattakaduwa Reservoir in Hungama last morning (08), the police said.
-
-The arrestee is a 27-year-old resident of the Ranna area, as per police.
-
-Police have also found the firearm used in the shooting, based on the information divulged by the suspect during the interrogations.
-
-◼️
-
-[Data](articles/24330e3d.json)
-
-[Extended Data](ext_articles/24330e3d.ext.json)
-
----
-
-### Increasing cheating on Facebook!Observation!
-
-*2024-03-09 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178299) · `ta`
-
-"Cheating on Facebook is rising. Hackers impersonate friends to gain access to personal data. Beware of fake requests for voting or adding to groups. Always verify before sharing personal information. Report hackers on Facebook."
-
-🟩
-
-As the use of social media has increased day by day, the actions of the deception are on the rise.
-
-Recently, some of the Hukars who communicate on Facebook's Messenger have been deceiving.
-
-Such Huckers enters Facebook accounts and contact the person's Messenger about the Messenger.
-
-Hakshin and Hakshpy to them with the fake accounts of their friends, they want to connect them to a group of friends and ask for a phone number.. They will then ask that an OTP come to connect to the group. If you give it, they will steal all your personal data.
-
-“Hello is an ambassadorship for an ambassadorship spot at an online Facebook Access Program Can You Pls Vote for Me”
-
-"You have to send me your number so I can add you to the voting group"
-
-When you answer these questions, other personal data, including your bank account, will be hacked.
-
-Then the Facebook accounts that are hosted will be replaced by them and will be attached to others.
-
-...
-
-[Data](articles/ad597686.json)
-
-[Extended Data](ext_articles/ad597686.ext.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 08:05:27**
+As of **2024-03-10 08:17:39**
 
 ## Newspaper Stats
 
-*Scraped **11,892** Articles*
+*Scraped **11,899** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 112
 bbccomsinhala | 140
-dbsjeyarajcom | 178
+dbsjeyarajcom | 180
 newsfirstlk | 363
 dailyftlk | 617
 economynextcom | 622
 islandlk | 646
 adalk | 1,000
-tamilmirrorlk | 1,443
-adaderanalk | 1,445
+adaderanalk | 1,446
+tamilmirrorlk | 1,447
 virakesarilk | 1,632
 dailymirrorlk | 1,819
 adaderanasinhalalk | 1,875
@@ -26,11 +26,83 @@ adaderanasinhalalk | 1,875
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,892 (100.0%) of 11,892 articles have been extended.
+11,892 (99.9%) of 11,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
+
+### Showers expected in certain parts of the country
+
+*2024-03-10 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97846/showers-expected-in-certain-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Ratnapura, Kalutara, Galle and Matara districts in the evening or night.
+
+Mainly dry weather will prevail in the other areas of the island, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and North-central provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/a5d33e8a.json)
+
+---
+
+### குடும்பத்தவர்களின் விருப்பப்படி இறுதிக் கிரியைகள் நடைபெறும்
+
+*2024-03-10 07:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பத்தவர்களின்-விருப்பப்படி-இறுதிக்-கிரியைகள்-நடைபெறும்/175-334438) · `ta`
+
+கனடா ஒட்டாவாவில் படுகொலை செய்யப்பட்ட ஆறு இலங்கையர்களின் குடும்ப உறுப்பினர்களுடன் தொடர்பு கொண்டுள்ளதாகவும், அவர்களின் கோரிக்கைகளை கனேடிய அதிகாரிகளுடன் இலங்கை உயர்ஸ்தானிகராலயம் தொடர்புகொள்வதாகவும் வெளியுறவு அமைச்சகம் தெரிவித்துள்ளது.
+
+2024 ஆம் ஆண்டு மார்ச் மாதம் 7 ஆம் திகதி ஒட்டாவாவில் உள்ள Barrhaven இல் உள்ள ஒரு இல்லத்தில் தாய், நான்கு பிள்ளைகள் மற்றும் ஒரு குடும்பத்தில் அறிமுகமானவர் உட்பட ஆறு இலங்கையர்கள் பரிதாபமாக உயிரிழந்த சம்பவம் குறித்து ஒட்டாவாவிலுள்ள இலங்கை உயர்ஸ்தானிகராலயத்தினால் வெளிவிவகார அமைச்சுக்கு அறிவிக்கப்பட்டதாக அமைச்சகம் அறிக்கையினூடாக தெரிவித்துள்ளது.
+
+"பாதிக்கப்பட்டவர்களின் கணவர் மற்றும் குறித்த சிறுவர்களின் தந்தையுமாகிய நபர் சம்பவ இடத்தில் காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர், அங்கு அவர் தற்போது சிகிச்சை பெற்று வருகிறார். கொலைச் சம்பவம் தொடர்பாக 19 வயதுடைய இலங்கையர் ஒருவரை சட்ட அமலாக்க அதிகாரம் கைது செய்துள்ளது. அவர் தற்போது பொலிஸ் காவலில் உள்ளார்” என்று அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b18f9965.json)
+
+---
+
+### பௌத்த மதகுருக்களின் அடையாள அட்டையில் மாற்றம்?
+
+*2024-03-10 07:32:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்த-மதகுருக்களின்-அடையாள-அட்டையில்-மாற்றம்/175-334437) · `ta`
+
+பதிவு செய்யப்படாத மத மாற்றங்களில் ஈடுபடும் மத நிலையங்களை சோதனையிட நடவடிக்கை எடுக்கப்படும் என்று புத்தசாசன, மத மற்றும் கலாச்சார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க தெரிவித்துள்ளார்.
+
+பதிவு செய்யப்படாத மதமாற்றங்களில் ஈடுபடும் மத நிலையங்கள் மீது சோதனை நடத்துமாறு பொலிஸ்மா அதிபருக்கு அறிவிக்குமாறு பௌத்த விவகார ஆணையாளருக்கு அமைச்சர் பணிப்புரை விடுத்துள்ளார்.
+
+புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சில் பீடாதிபதிகள் குழுவுடனான சந்திப்பின் போதே அமைச்சர் இதனைத் தெரிவித்தார்.
+
+சமய வழிபாட்டுத் தலங்கள், பௌத்த பிக்குகள் மற்றும் மதச் சிதைவுகள் தொடர்பான விடயங்கள் தொடர்பிலும் மேற்கொள்ளப்பட வேண்டிய நடவடிக்கைகள் குறித்தும் கலந்துரையாடப்பட்டது.
+
+தேசிய அடையாள அட்டைகள் மற்றும் கடவுச்சீட்டுகளில் பௌத்த பிக்குகளுக்கு 'வணக்கத்திற்குரியவர்' மற்றும் 'பிக்குனிகளுக்கு' 'வணக்கத்திற்குரியவர்' என்ற பட்டங்களைச் சேர்க்கவும் கூட்டத்தில் தீர்மானிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/6749f615.json)
+
+---
+
+### சில பகுதிகளில் அதிகரித்த வெப்பநிலை காணப்படும்
+
+*2024-03-10 07:27:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334436) · `ta`
+
+வடக்கு,வடமத்திய,வடமேல், மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன்,மொனராகலை,  இரத்தினபுரி மற்றும் திருகோணமலை  மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+காலி, மாத்தறை, களுத்துறை மற்றும் இரத்தினபுரி  மாவட்டங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய  மழை பெய்யக்கூடிய வாய்ப்பு காணப்படுகின்றது.
+
+சப்ரகமுவ, மேல் மற்றும் வடமத்திய  மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 20 - 30 கிலோமீற்றர் வேகத்தில் காங்கேசன்துறை  தொடக்கம் திருகோணமலை, பொத்துவில், ஹம்பாந்தோட்டை ஊடாக மாத்தறை வரையான கடல் பிராந்தியங்களில் கிழக்கு அல்லது வடகிழக்குத் திசையில் இருந்தும் நாட்டை சூழ உள்ள ஏனைய கடல் பிராந்தியங்களில் மாறுபட்ட திசைகளில் இருந்தும் காற்று வீசும்.
+
+நாட்டை சூழ உள்ள கடல் பிராந்தியங்கள் மிதமான அலையுடன் காணப்படும் என எதிர்வு கூறப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/151be9e0.json)
+
+---
 
 ### The World's Queen Christina
 
@@ -97,6 +169,24 @@ The Department of Meteorology said that in some places in the Western, Sabaragam
 [Data](articles/13c05b97.json)
 
 [Extended Data](ext_articles/13c05b97.ext.json)
+
+---
+
+### இலங்கையர்களை அழைத்து வர நடவடிக்கை
+
+*2024-03-10 03:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-அழைத்து-வர-நடவடிக்கை/175-334433) · `ta`
+
+செங்கடலில் ஹவுதி கிளர்ச்சியாளர்களின் தாக்குதலுக்கு இலக்கான கப்பலில் இருந்து மீட்கப்பட்ட இலங்கையர்கள் இருவரையும் விரைவில் நாட்டிற்கு அழைத்து வர நடவடிக்கை எடுக்கப்படும் என வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+எத்தியோப்பியாவிற்கான இலங்கை தூதுவரால் இருவரையும் நாட்டிற்கு திருப்பி அனுப்புவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன என வெளிவெளிகார அமைச்சு கூறியுள்ளது.
+
+சீனாவிலிருந்து ஜெட்டா நோக்கி பயணித்துக்கொண்டிருந்த   வணிகக் கப்பல் மீது கடந்த வியாழக்கிழமை ட்ரோன் ஏவுகணைத் தாக்குதல் மேற்கொள்ளப்பட்டது.
+
+கப்பலில் இருந்த பணியாளர்கள், இந்திய கடற்படைக்கு சொந்தமான கொல்கத்தா போர்க் கப்பல் மூலம் மீட்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/b508b7b6.json)
 
 ---
 
@@ -2217,123 +2307,5 @@ The police, who had put on roadblocks since morning, were disrupted to carry dri
 [Data](articles/9354d83e.json)
 
 [Extended Data](ext_articles/9354d83e.ext.json)
-
----
-
-### Three persons including MP injured in an accident
-
-*2024-03-09 08:31:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விபத்தில்-எம்-பி-உட்பட-மூவர்-காயம்/175-334408) · `ta`
-
-Three, including MP Selvarajah Gajendran, injured in Vedukkuni Mountain accident. One hospitalized, transferred for more treatment. Tension between police and devotees at Adisivan Temple in Vavuniya North over water supply.
-
-🟩
-
-Three persons, including parliamentarian Selvarajah Gajendran, were injured when a drinking water machine was carried out in the Vedukkuni Mountain.
-
-One of them was admitted to the Nedungeni Hospital and later transferred to the Vavuniya Hospital for further treatment.
-
-There was tension between the police and the devotees as the police refused to provide drinking water to the people who visited the Adisivan Temple in Vavuniya North.
-
-The police, who had put on roadblocks since morning, were disrupted to carry drinking water inside the temple premises.. Drinking water supply was carried out amidst severe rhetoric.
-
-◼️
-
-[Data](articles/bf16ce8f.json)
-
-[Extended Data](ext_articles/bf16ce8f.ext.json)
-
----
-
-### Three killed in early morning accident
-
-*2024-03-09 08:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அதிகாலை-விபத்தில்-மூவர்-பலி/94-334407) · `ta`
-
-Three killed, including a schoolgirl, in a 1.30 am accident in Rambawewa, Anuradhapura. A group of youths collided with a traveler, killing three aged 14, 19, and 21. Three injured, admitted to Anuradhapura Teaching Hospital. Driver escaped, police investigating.
-
-🟩
-
-Mihintale police said that three people, including a schoolgirl, were killed in a vehicle accident that occurred at around 1.30 am on Saturday (09).
-
-The incident took place in the suburb of Rambawewa on the main road of Anuradhapura.
-
-The accident occurred when a group of youths who were traveling in a concert in Rambawa collided with a traveler.
-
-Three people aged 14, 19 and 21, who live in the Rambewa forest area and Thambalakollai, were killed in an accident.
-
-Three more people were injured in the accident and have been admitted to the Anuradhapura Teaching Hospital, police said.
-
-After the accident, the driver of the cab escaped, and several police teams had begun investigations to find him, police said.
-
-◼️
-
-[Data](articles/b2e0a84d.json)
-
-[Extended Data](ext_articles/b2e0a84d.ext.json)
-
----
-
-### Railway delay on the coastal railway line
-
-*2024-03-09 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194310) · `si`
-
-Due to maintenance on the coastal railway line, traffic will be restricted to one railway station from Colombo Fort Railway Station for three days starting today. This is for bridge maintenance between Slave Island and Kollupitiya stations, affecting train delays on the coastal route.
-
-🟩
-
-Traffic will be restricted to one railway station from Colombo Fort Railway Station from Colombo Fort Railway Station due to maintenance work on the coastal railway line.
-
-The department stated that this will be launched today (09), tomorrow (10) and tomorrow.
-
-This is the maintenance of a bridge between Slave Island and Kollupitiya railway stations, this is the restriction due to a bridge and the water supply board.
-
-As a result, a train delay is also available on the coastal route.
-
-◼️
-
-[Data](articles/492757ce.json)
-
-[Extended Data](ext_articles/492757ce.ext.json)
-
----
-
-### Ministry of Agriculture pays bulk of fertilizer credit owed by farmers to private sector
-
-*2024-03-09 08:02:00* · [`islandlk`](http://island.lk/ministry-of-agriculture-pays-bulk-of-fertilizer-credit-owed-by-farmers-to-private-sector/) · `en`
-
-Nearly 93 percent of the Rs. 23,000 million fertilizer credit owed by farmers to the private sector that was left unpaid for five years was paid on their behalf last year, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-The minister told journalists recently that until 2021, due to the purchase of fertilizer on credit, the Ministry of Agriculture was supposed to pay farmers’ arrears amounting to Rs.23,000 million to the private sector.
-
-Amaraweera added: ‘Due to the intervention of President Ranil Wickremesinghe as the Minister of Finance, 95 percent of the credit amount, resulting from the purchase of chemical fertilizers from the private sector, was settled.
-
-‘Accordingly, by last year, the government provided the necessary financial allocation to pay an amount of Rs.18,000 million.
-
-...
-
-[Data](articles/5e15a9c2.json)
-
-[Extended Data](ext_articles/5e15a9c2.ext.json)
-
----
-
-### Shopman arrested
-
-*2024-03-09 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194309) · `si`
-
-Shopman arrested in Hungama Kahandamodara area by Tangalle Divisional CID. Firearm found during interrogation.
-
-🟩
-
-The suspect was arrested on the 6th of the Hungama Kahandamodara area in the Hungama.
-
-The suspect was arrested by the Tangalle Divisional Criminal Investigation (Crime Criminal Investigation) Bureau yesterday morning.
-
-According to interrogation from the suspect, the firearm used to shoot was found.
-
-◼️
-
-[Data](articles/39820344.json)
-
-[Extended Data](ext_articles/39820344.ext.json)
 
 ---

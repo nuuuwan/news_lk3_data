@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-10 20:49:35**
+As of **2024-03-10 21:02:57**
 
 ## Newspaper Stats
 
-*Scraped **11,982** Articles*
+*Scraped **11,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,111 @@ dailyftlk | 617
 economynextcom | 623
 islandlk | 646
 adalk | 1,017
-adaderanalk | 1,455
-tamilmirrorlk | 1,461
+adaderanalk | 1,456
+tamilmirrorlk | 1,462
 virakesarilk | 1,636
-dailymirrorlk | 1,832
+dailymirrorlk | 1,836
 adaderanasinhalalk | 1,896
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-11,980 (100.0%) of 11,982 articles have been extended.
+11,982 (99.9%) of 11,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-10 (Sunday)
 
-### சர்வதேச நாணய நிதிய பிரதிநிதிகளுடன் கலந்துரையாடுமாறு விடுத்த ஜனாதிபதி அழைப்பை ஏற்ற தமிழ்த் தேசியக் கூட்டமைப்பு
+### 27 youths arrested with drugs after police raid party
+
+*2024-03-10 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97857/27-youths-arrested-with-drugs-after-police-raid-party) · `en`
+
+Police have arrested 27 youths including 8 females for allegedly being in possession of several narcotics at a party in the Magammana area.
+
+The arrests were made during a raid carried out following a tip-off received by the Kahatuduwa Police, while it is reported that both hashish and ecstasy pills were seized from six of the arrestees.
+
+According to police, the suspects, aged between 20 and 22, have been identified as residents of Polonnaruwa, Dehiattakandiya, Galle, Kandy and Diyatalawa.
+
+Further investigations are being carried out by the Kahatuduwa Police.
+
+◼️
+
+[Data](articles/db4038c2.json)
+
+---
+
+### Sajith listening to outsiders and ignoring SJB members: Ranil
+
+*2024-03-10 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-listening-to-outsiders-and-ignoring-SJB-members-Ranil/108-278568) · `en`
+
+Kuliyapitiya, March 10 (Daily Mirror) - Opposition Leader Sajith Premadasa is ignoring members of his own party and is listening to outsiders. This is why he decided not to participate in the debt restructuring process, President Ranil Wickremesinghe said today.
+
+President Wickremesinghe told a UNP rally in Kuliyapitiya that Sajith Premadasa had actually started ignoring and sidelining his own party members like Dr. Harsha de Silva.
+
+“Dr. De Silva requested me to involve the Opposition in the debt restructuring process. Accordingly, I invited the SJB to join us in meeting the IMF and the debtors. However, Premadasa informed me that his party is not willing to participate in those meetings. It was MP G.L. Peiris who has encouraged Premadasa to ignore my request. Premadasa has actually begun to ignore his own party members. The SJB is controlled by outsiders. Therefore, I invite those who opposed me in the past to join us,” the President said.
+
+◼️
+
+[Data](articles/c8655003.json)
+
+---
+
+### பெண்ணை தீ வைத்து எரித்த நபர் கைது
+
+*2024-03-10 20:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-தீ-வைத்து-எரித்த-நபர்-கைது/175-334467) · `ta`
+
+2022 ஆம் ஆண்டு பெப்ரவரி மாதம் 25ஆம் திகதி, எகொடஉயன பொலிஸ் பிரிவிற்குட்பட்ட வீடொன்றில் நுழைந்து பெண்ணொருவர் படுகொலை செய்து தீ வைத்து எரிக்கப்பட்ட சம்பவம் தொடர்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+மொரட்டுவை - கட்டுகுருந்த பிரதேசத்தை சேர்ந்த 42 வயதான ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b14cfa5f.json)
+
+---
+
+### Bangladesh’s Towhid Hridoy found guilty of breaching ICC Code of Conduct
+
+*2024-03-10 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshs-Towhid-Hridoy-found-guilty-of-breaching-ICC-Code-of-Conduct/108-278567) · `en`
+
+Mar. 10 (ICC) - Bangladesh batter Towhid Hridoy was fined 15 per cent of his match fees in the third T20I.
+
+Towhid was found to have breached Level 1 of the ICC Code of Conduct during the third T20I against Sri Lanka in Sylhet on Saturday.
+
+The incident happened in the fourth over of the Bangladesh innings, when Towhid turned around after being dismissed and remonstrated aggressively and inappropriately with the Sri Lanka players.
+
+A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a 28-run win in the third T20I. With this, the Lions took the three-game T20I series 2-1. Thushara picked a hat-trick in the game, with Towhid being the second scalp in that feat.
+
+...
+
+[Data](articles/1c7eb760.json)
+
+---
+
+### The Tamil National Alliance to accept the President's invitation to discuss with the International Monetary Fund Representatives
 
 *2024-03-10 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178379) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுடன் கலந்துரையாடுமாறு எதிர்க் கட்சிகளுக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்த அழைப்பை தமிழ்த் தேசியக் கூட்டமைப்பு ஏற்றுக்கொண்டுள்ளாதாக சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+The Tamil National Alliance (TNA) has accepted President Ranil Wickremesinghe's invitation to discuss with IMF representatives, with TNA President R. Sampanthan set to attend. Despite opposition from United People's Power and National People's Power, TNA will participate.
 
-இதன்படி, தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் ஆர்.சம்பந்தன் இதில் கலந்து கொள்ளவுள்ளதாக அவர் மேலும் தெரிவித்தார்
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் 11 ஆம் திகதி திங்கட்கிழமை எதிர்க்கட்சிகளின் தலைவர்களுக்கும் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கம் இடையில் கலந்துரையாடல் ஒன்றை நடத்துவதற்கு ஜனாதிபதி நடவடிக்கை எடுத்துள்ளார்.
+Sivagnanam Sreedharan has said that the Tamil National Alliance (TNA) has accepted the invitation of President Ranil Wickremesinghe to the opposition parties to discuss with representatives of the IMF.
 
-குறித்த கலந்தரையாடலுக்காக எதிர்க் கட்சிகளுக்கு உத்தியோகபூர்வ அழைப்பு விடுக்கப்பட்டுள்ள போதிலும், ஐக்கிய மக்கள் சக்தி மற்றும் தேசிய மக்கள் சக்தி ஆகிய கட்சிகள் கலந்து கொள்வதில்லை என தீர்மானித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+Accordingly, Tamil National Alliance (TNA) President R. Sampanthan will attend the event, he added.
 
-எவ்வாறாயினும் தமிழ்த் தேசியக் கூட்டமைப்பு உரிய அழைப்பை ஏற்று அக்கட்சியின் பிரதிநிதி ஒருவரை இதில் பங்கேற்க வைக்க தீர்மானித்துள்ளது.
+The President has taken steps to hold a discussion between the leaders of the opposition parties and representatives of the International Monetary Fund on Monday 11th.
+
+Although the opposition parties have been officially invited for the meeting, it is reported that the United People's Power and the National People's Power have decided not to attend.
+
+However, the Tamil National Alliance (TNA) has decided to take the relevant invitation and participate in the party's representative.
 
 ◼️
 
 [Data](articles/0b95dde1.json)
+
+[Extended Data](ext_articles/0b95dde1.ext.json)
 
 ---
 
@@ -71,6 +143,8 @@ Sagala Ratnayake, the Chief of Staff to the President and National Security Advi
 ◼️
 
 [Data](articles/a91d97c2.json)
+
+[Extended Data](ext_articles/a91d97c2.ext.json)
 
 ---
 
@@ -125,6 +199,18 @@ People are currently in the hardest period. So I came to this place to report th
 [Data](articles/19a9b749.json)
 
 [Extended Data](ext_articles/19a9b749.ext.json)
+
+---
+
+### UNP holds first public rally in Kuliyapitiya
+
+*2024-03-10 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-holds-first-public-rally-in-Kuliyapitiya/110-278564) · `en`
+
+The first public rally of the United National Party (UNP) was held in Kuliyapitiya with the participation of President Ranil Wickremesinghe. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/43155bf1.json)
 
 ---
 
@@ -899,6 +985,18 @@ There are several MPs who wish to support the government by considering the nati
 [Data](articles/2df12703.json)
 
 [Extended Data](ext_articles/2df12703.ext.json)
+
+---
+
+### KC's overseas education fair - 2024
+
+*2024-03-10 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/KC-s-overseas-education-fair-2024/110-278558) · `en`
+
+The KC's Overseas Education Fair, held today from 10:30 am to 5:00 pm at The Galadari Hotel, Colombo, provided a platform for exploring international education options. Representatives from over 50 universities across 9 countries, including New Zealand, Canada, Finland, Australia, the United States, the United Kingdom, Europe, Dubai and Singapore, were present, offering a diverse array of opportunities. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/419daf16.json)
 
 ---
 
@@ -2227,153 +2325,5 @@ Accordingly, a group of Immigration and Emigration Controller and other official
 [Data](articles/eb9c1575.json)
 
 [Extended Data](ext_articles/eb9c1575.ext.json)
-
----
-
-### Wesley College Colombo – Celebrating 150 years of Excellence
-
-*2024-03-09 20:47:00* · [`islandlk`](http://island.lk/wesley-college-colombo-celebrating-150-years-of-excellence/) · `en`
-
-Wesley College Colombo is celebrating its 150th Anniversary in March 2024 with a programme of events, projects and initiatives taking place at the school and other venues. The school is proud to be recognised as one of Sri Lanka’s leading and progressive institutions. Wesley provides a fine all-round education reflective of its long-held customs and traditions.
-
-As I write this brief history I am ever reminded of the wisdom of Kahlil Gibran: “Yesterday is but today’s memory, and tomorrow is today’s dream.” This is an attempt to summarise the school’s long and tortuous journey from its lowly beginnings. Collating information belonging to three centuries is no mean task. On December 23, 1816, The chapel of the Wesleyan Mission House was opened for public worship in Dam Street, Pettah. There was a small school associated with the Mission House.
-
-...
-
-[Data](articles/e22d0a52.json)
-
-[Extended Data](ext_articles/e22d0a52.ext.json)
-
----
-
-### A businessman abducted by gem stone
-
-*2024-03-09 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194331) · `si`
-
-A textile businessman in Horana was abducted over a gemstone dispute. He was taken to a garden in Divulapitiya, and his wife reported the incident to police. The abductors threatened her and demanded a ransom. The police arrested the abductors in Millewatta.
-
-🟩
-
-A fabric of a cloth in Horana has been abducted due to a dispute based on a gem selling incident.
-
-His wife had demanded a ransom of Rs.
-
-Textile businessman residing in Horana, Koralaiwela, has given a friend stone in Chilaw area earned it to be marketed.
-
-The businessman had sold a buyer to a buyer in Maharagama.
-
-The transaction was carried out near a road in Piliyandala.
-
-The man named Shantha, Maharagama has gone to the house of the textile at around 1.00 pm and has taken the business to car.
-
-The businessman had taken several days to be taken to a lonely garden in the Divulapitiya area and the abductors have threatened his wife on several occasions.
-
-The businessman's wife had complained to the Moragahahena Police regarding this while the inspired by police inspection has been agreed to reduce and reduce the extort.
-
-The Moragahahena Police have arrested them in the Millewatta area on the occasion.
-
-◼️
-
-[Data](articles/0304fda7.json)
-
-[Extended Data](ext_articles/0304fda7.ext.json)
-
----
-
-### Buddhist occupation initiative on the Vedukkuni Mountain - Sridharan, Gajendran
-
-*2024-03-09 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178314) · `ta`
-
-Sridharan and Gajendran criticize the conversion of Adilingeswarar temple to Vedukkunnarimalai Adilingeswarar, halted Shivaratri poojas, and police brutality against temple rituals. They accuse Buddhist Thera of using archaeology to establish Buddhist symbols and expand occupation, highlighting police favoritism towards the majority.
-
-🟩
-
-Sivagnanam Sreedharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA) and Tamil National People's Front, Selvarasa Gajendran, pointed out that the planned occupation is being carried out to convert the Adilingeswarar temple into the Vedukkunnarimalai Adilingeswarar temple.
-
-They stated that the Shivaratri poojas organized at the Adilingeswarar Temple at Vettu Nirimalai were halted and the public was out of power.
-
-The Vedukkunnarimalai temple is a temple where the Indian Peace Corps were in Sri Lanka and the LTTE was under their control.
-
-Moreover, the history is found over two thousand years ago. In this case, the police have brutally stopped the special rituals carried out in this temple where our people were traditionally worshiped.
-
-He said that this activity was condemned and that the Sinhala and Buddhist nationalists in the South are still a great example of how far they are trying to occupy with the help of the government.
-
-...
-
-[Data](articles/5ccaa7eb.json)
-
-[Extended Data](ext_articles/5ccaa7eb.ext.json)
-
----
-
-### Imported 40 million eggs to Sri Lanka
-
-*2024-03-09 20:19:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-40-மில்லியன்-முட்டைகள்-இறக்குமதி/175-334430) · `ta`
-
-The State Trade Corporation plans to import 40 million eggs to Sri Lanka, ensuring no shortage at 43 rupees per egg.
-
-🟩
-
-The State Trade Corporation has said that 40 million eggs will be imported to Sri Lanka in the coming week.
-
-Consumers can sell an egg for 43 rupees without shortage. Remble
-
-◼️
-
-[Data](articles/f350179a.json)
-
-[Extended Data](ext_articles/f350179a.ext.json)
-
----
-
-### What motivated Frank for six killings, including children?
-
-*2024-03-09 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194330) · `si`
-
-Frank de Zoysa, a 19-year-old from Sri Lanka, is accused of killing six people, including children, in Canada. His aunt reports a recent change in behavior, distancing himself from family. The motive behind the killings remains unknown.
-
-🟩
-
-Dhanushka Wickremasinghe was severely injured in the surrender of the Sri Lankan family of Canada.
-
-It is reported that Dhanushka's hand was lost in the attack.
-
-Meanwhile, 19-year-old Frank de Zoysa aunt the attack on the attack, speaking to the media for the first time in the past year, he had a severe change in his behavior and he was getting into full distance from his relatives.
-
-Six Sri Lankans, including five members, were violently assaulted in their home in the house of Barher, Canada, the capital of the Ottawa capital of the Ottawa capital.
-
-The 19-year-old Frank De Zoysa, a 19-year-old man who was residing in the assassination of the murder was arrested.
-
-The young man has been accused of six mineries and murder.
-
-Frank's family members arrested in connection with the worst massacre in the history of the Ottawa says that his behavior had been changed recently.
-
-Frank de Zoysa, Aushandiya, aunt, has commented on the Canadian media.
-
-...
-
-[Data](articles/e60b954c.json)
-
-[Extended Data](ext_articles/e60b954c.ext.json)
-
----
-
-### One injured in shooting at Ja-Ela
-
-*2024-03-09 20:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97844/one-injured-in-shooting-at-ja-ela) · `en`
-
-A person has been injured in a shooting that took place at Dandugama, Ja-ela, the police said.
-
-The injured individual has been admitted to the Ragama Hospital for treatment, according to police.
-
-Police said that two unidentified gunmen had opened fire at the 47-year-old in front of his house and fled the scene.
-
-Meanwhile, the injured person, named Manjula Sahan Fernando, was found to be a drug addict and involved in drug dealing, as per police.
-
-◼️
-
-[Data](articles/13aae099.json)
-
-[Extended Data](ext_articles/13aae099.ext.json)
 
 ---

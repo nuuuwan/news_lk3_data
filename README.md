@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 12:33:14**
+As of **2024-03-11 12:49:40**
 
 ## Newspaper Stats
 
-*Scraped **12,107** Articles*
+*Scraped **12,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 631
 islandlk | 662
 adalk | 1,026
 adaderanalk | 1,464
-tamilmirrorlk | 1,477
-virakesarilk | 1,650
+tamilmirrorlk | 1,479
+virakesarilk | 1,653
 dailymirrorlk | 1,855
 adaderanasinhalalk | 1,911
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 1,911
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,100 (99.9%) of 12,107 articles have been extended.
+12,107 (100.0%) of 12,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-11 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178413) · `ta`
+
+இன்று திங்கட்கிழமை (மார்ச் 11) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 302.6227 ஆகவும் விற்பனை விலை ரூபா 311.9825 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/eb12b8b4.json)
+
+---
+
+### யாழில் இராணுவ வாகனம் மோதி வயோதிப பெண் படுகாயம்
+
+*2024-03-11 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178411) · `ta`
+
+இராணுவ வாகனம் மோதியதில் வயோதிப பெண்ணொருவர் படுகாயமடைந்த நிலையில் யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் எழுதுமட்டுவாழ் பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (10) மாலை இராணுவ வாகனமும் , மோட்டார் சைக்கிள் ஒன்றும் மோதி விபத்துக்கு உள்ளானது.
+
+விபத்தில் அப்பகுதியை சேர்ந்த சிதம்பரப்பிள்ளை வசந்தாதேவி (வயது 60) என்பவர் படுகாயமடைந்த நிலையில் மீட்கப்பட்டு , யாழ்.போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/913a1076.json)
+
+---
+
+### 2 ரிட் மனுக்கள் வாபஸ் பெறப்பட்டன
+
+*2024-03-11 12:31:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-ரிட்-மனுக்கள்-வாபஸ்-பெறப்பட்டன/175-334502) · `ta`
+
+லங்கா ஹொஸ்பிட்டல் கார்ப்பரேஷன் பிஎல்சி மற்றும் ஸ்ரீலங்கா டெலிகொம் பிஎல்சி ஆகிய நிறுவனங்களின் பங்கீடு நடவடிக்கைக்கு எதிராக தாக்கல் செய்யப்பட்ட இரண்டு ரிட் மனுக்கள் இன்று (11) மேன்முறையீட்டு நீதிமன்றத்தில் வாபஸ் பெறப்பட்டன.
+
+மனுதாரர்களான லைகா லீசிங் ஹோல்டிங் லிமிடெட் மற்றும் லைகா மொபைல் எஸ்ஏஆர்எல் ஆகிய இரண்டு மனுக்களையும் திரும்பப் பெற முடிவு செய்ததோடு, புதிய விண்ணப்பத்தை தாக்கல் செய்வதற்கான உரிமையை அவர்கள் பெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/4863d561.json)
+
+---
+
+### காடுகளுக்கு தீ வைக்கும் விஷமிகளை கண்டறிய ட்ரோன்கள்
+
+*2024-03-11 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178409) · `ta`
+
+காடுகளுக்கு தீ வைக்கும் விஷமிகளையும், காடுகள் தீப்பிடிப்பதற்கான காரணங்களையும் கண்டறிய ட்ரோன் தொழில்நுட்பத்தை வன பாதுகாப்பு திணைக்களம் பயன்படுத்த ஆரம்பித்துள்ளது.
+
+நாடாளவிய ரீதியில் நிலவும் வரட்சியான வானிலை காரணமாக ஏற்படும் தீ விபத்துக்களின் எண்ணிக்கை அதிகரித்துள்ளமையினால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+இவ்வருடம் இதுவரையான காலப்பகுதியில் நான்கு தீ விபத்துகள் பதிவாகியுள்ளன. அவற்றில் மொத்தம் 30 ஹெக்டெயர் காடுகள் அழிக்கப்பட்டுள்ளன.
+
+இந்நிலையில், காட்டு தீயை தடுக்க நடவடிக்கை எடுக்கவும்,  விழிப்புணர்வை ஏற்படுத்தவும் காட்டுத் தீ கட்டுப்பாட்டு வாரத்தை திணைக்களம் ஆரம்பித்துள்ளது.
+
+◼️
+
+[Data](articles/686bed65.json)
+
+---
+
+### துப்பாக்கிச் சூடு நடத்தியவர் கைது
+
+*2024-03-11 12:28:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூடு-நடத்தியவர்-கைது/175-334501) · `ta`
+
+மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் உள்ள விகாரை ஒன்றில் துப்பாக்கிச் சூடு நடத்தப்பட்ட சம்பவத்தின் பிரதான சந்தேக நபர்  கைது செய்யப்பட்டுள்ளார்.
+
+அண்மையில் காரில் வந்த இனந்தெரியாத நால்வர் மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் உள்ள விகாரையில் பிக்கு ஒருவரை சுட்டுக் கொன்றனர்.
+
+சம்பவம் தொடர்பான விசாரணைகளை அடுத்து, காரின் சாரதி, பெண் ஒருவர் உட்பட பலர் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/3dc9d1cd.json)
+
+---
 
 ### Water supply to be restricted if arid weather continues?
 
@@ -48,43 +124,63 @@ Kaluarachchi noted that thus far, no restriction or limitation of water supply h
 
 [Data](articles/319e75df.json)
 
+[Extended Data](ext_articles/319e75df.ext.json)
+
 ---
 
-### குடிநீர் நுகர்வு தொடர்பில் முக்கிய அறிவுறுத்தல்
+### Key instruction on drinking water consumption
 
 *2024-03-11 12:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-நுகர்வு-தொடர்பில்-முக்கிய-அறிவுறுத்தல்/175-334500) · `ta`
 
-நிலவும் வரட்சியான காலநிலை காரணமாக நீரைச் சிக்கனமாகப் பயன்படுத்துமாறு தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை மக்களைக் கோரியுள்ளது.
+Due to drought, the National Water Supply and Drainage Board advises limited water use. Deputy General Manager Anoja Kaluwarachchi warns of limited supply if drought lasts over two months, emphasizing the need to conserve water for essential purposes.
 
-வரட்சியான காலநிலை இரண்டு மாதங்களுக்கு மேல் நீடிக்குமாயின் நீர் வழங்கல் மட்டுப்படுத்தப்படும் என சபையின் பிரதிப் பொது முகாமையாளர் அபிவிருத்தி அனோஜா களுவாராச்சி தெரிவித்துள்ளார்.
+🟩
 
-எவ்வாறாயினும், தற்போதைய நீர்மட்டம் போதுமானதாக இருப்பதாகவும், முடிந்தவரை அத்தியாவசிய தேவைகளுக்கு மட்டுமே தண்ணீரை பயன்படுத்துமாறும் அவர் கேட்டுக்கொண்டார்.
+Due to the prevailing drought, the National Water Supply and Drainage Board has called for the people to use water.
+
+Deputy General Manager of the House Development Anoja Kaluwarachchi said the water supply would be limited if the drought continues for more than two months.
+
+However, he urged the current water level to be sufficient and only water for essential purposes as possible.
 
 ◼️
 
 [Data](articles/fc21aabe.json)
 
+[Extended Data](ext_articles/fc21aabe.ext.json)
+
 ---
 
-### ජාත්‍යන්තර වෙළෙඳපොළ ජයගත් නිල් කටරොළු තේ
+### Blue-Katgamrol Katdown with international market
 
 *2024-03-11 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194374) · `si`
 
-නිල් කටරොළු මල් ආශ්‍රිත නිෂ්පාදන සඳහා මේ වනවිට යුරෝපය ඇතුළු ජාත්‍යන්තර වෙළෙඳපොලෙහි ඉහළ ඉල්ලුමක් පවතී.
+High demand for blue dynamic products in international markets, including Europe. Blue dynasty tea, especially blue dyltrums, is popular. The Philippines and Taiwan are involved in the cultivation of blue products. A private company exports blues to foreign countries. Minister Mahinda Amaraweera visited the Omanagama Rata Flower Cultivation and Processing Center, discussing a project to build a machinery and processing center for drying flowers. Blue tea is served with honey or lime juice in countries like the Philippines and Thailand. Natural food pigments, such as blue cake, are used in food.
 
-විශේෂයෙන් නිල් කටරොළු මල් වේලා ඉන් සකසා ගන්නා නිල් කටරොළු තේ ජාත්‍යන්තර වෙළෙඳපොළ තුළ ඉහළ මිලකට අලෙවි වේ.
+🟩
 
-පිලිපීනය, තායිවානය වැනි රටවල් ද මේ වනවිට මෙම වගාවට යොමු වී ඇති අතර අප රටේ වළස්මුල්ල ඔමාරගම ගමේ කාන්තාවන් 60 දෙනෙකු පමණ මේ වනවිට නිල් කටරොළු මල් වගාවට අවතීර්ණව සිටී.
+There is a high demand in the international market, including Europe, for blue dynamic products.
 
-වේලන ලද නිල් කටරොළු මල් පුද්ගලික සමාගමක් මඟින් විදේශ රටවලට අපනයනය කරන අතර ඔවුන්ට එමඟින් විශාල ආදායමක් මාසිකව ඉපයීමට හැකි වී තිබේ.
+The blue dynasty tea sells at the international market, especially the blue dyltrums.
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ඊයේ (10)  ඔමාරගම ගමේ නිල් කටරොළු මල් වගාව හා සැකසුම් මධ්‍යස්ථානය නිරීක්ෂණයට සහභාගි විය.
+The Philippines, Taiwan such as countries like the Taiwan have also taken place in the Omansamulla village of Omandugama village.
 
-වේලන ලද නිල් කට්රොළු මල් කිලෝ ග්‍රෑම් එකක් රුපියල් 5,000ක් වැනි මිලකට අලෙවි කරන අතර වේලන ලද නිල් කටරොළු මල් කිලෝ ග්‍රෑම් එකක් සෑදීම සඳහා අමු මල් කිලෝ ග්‍රෑම් 10ක් අවශ්‍ය බව සඳහන් වේ.
+Blues to be exported to foreign countries by a private company which was tailored to foreign countries.
 
-...
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera visited the Omanagama Rata Flower Cultivation and Processing Center yesterday.
+
+One kilogram of blue rrits sold at Rs.
+
+The Minister of Agriculture and Plantation Industries said that a project under the Ministry of Agriculture to build a machinery and processing center required for the drying of these flowers.
+
+In countries such as the Philippines, Thailand, the tea is dinner with honey or lime juice after dinner.
+
+Natural food is a natural food pigment for food, such as blue cake, cake, jelly, raw, pan cake.
+
+◼️
 
 [Data](articles/832fea6b.json)
+
+[Extended Data](ext_articles/832fea6b.ext.json)
 
 ---
 
@@ -99,6 +195,8 @@ The petitioners Lyca Leasing Holding Limited and Lyca Mobile SARL decided to wit
 ◼️
 
 [Data](articles/07931970.json)
+
+[Extended Data](ext_articles/07931970.ext.json)
 
 ---
 
@@ -118,23 +216,35 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 ---
 
-### நாஜிகளின் வதைமுகாம் குறித்த  திரைப்படத்திற்கு ஒஸ்கர் விருது - காசா குறித்து இயக்குநர் கருத்து
+### Oscar Award for the Nazi Vadamukham
 
 *2024-03-11 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178407) · `ta`
 
-ஒஸ்கர் விருதுவழங்கும் விழாவில் யூத இயக்குநர் ஜொனாதன் கிளேசர் காசா குறித்து கருத்து தெரிவித்துள்ளார்.
+Jonathan Glasser Gaza's "The Zone of Interest of the Holocaust and Nazi's Rumors" won the Best Film Award for international films at the Oscars. The film explores the story of Rudolv Hoss, a Nazi commander responsible for the deaths of over 1.1 million people in camps from 1940 to 1943. Glasser Gaza, a Jewish director, received the award while rejecting his Jewish identity and Holocaust narrative to critique the lack of humanitarianism and its impact on history.
 
-ஹொலொகாஸ்ட் மற்றும் நாஜிகளின் வதைகள் முகாம்கள் குறித்த அவரது  The Zone of Interest  திரைப்படத்திற்கு சர்வதேச திரைப்படங்களில் சிறந்த திரைப்படத்திற்கான விருது கிடைத்துள்ளது.
+🟩
 
-இந்த திரைப்படம் நாஜிவதைமுகாம்களின் தளபதியாக நீண்டகாலம் பதவிவகித்த ருடொல்வ் ஹொஸின் குடும்பத்தை  பற்றி பேசுகின்றது.
+Jewish director Jonathan Glasser Gaza has commented on the Oscar Award ceremony.
 
-1940 முதல் 43 வரை ஹிட்லரின் வதைமுகாம்களிற்கு பொறுப்பாக  ருடொல்வ் ஹொஸின் காணப்பட்டார் இந்த முகாம்களில் 1.1 மில்லியனிற்கும் அதிகமானவர்கள் கொல்லப்பட்டனர் -
+His The Zone of Interest of the Holocaust and Nazi's Rumors has been awarded the Best Film Award in international films.
 
-இந்த திரைப்படத்திற்கான விருதை பெற்றுக்கொண்டு உரையாற்றிய இயக்குநர் தனது யூததன்மையையும் ஹொலொஹாஸ்டினையும் ஆக்கிரமிப்பு தனக்கு சாதகமாக பயன்படுத்துவதை நிராகரித்தார்.
+The film talks about the family of Rudolv Hoss, who has long been appointed as the commander of the Nazi Mangamam.
+
+From 1940 to 43, Rudolv Hosin was seen in charge of Hitler's dwarfs, killing more than 1.1 million in these camps -
+
+Receiving the award for the film, the director rejected his Jewishness and Holohastin to take advantage of the occupation.
+
+The director said that all our choices were created to reflect and confront us in the present time.
+
+He also shows where the film leads us to the lack of humanitarianism, and that inhumane lack of humanitarianism has designed our past and present.
+
+He said that we have been present here to oppose Jewishness and Holohastin's advantage of the occupation of the occupation.
 
 ...
 
 [Data](articles/e6825f67.json)
+
+[Extended Data](ext_articles/e6825f67.ext.json)
 
 ---
 
@@ -168,19 +278,25 @@ Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress I
 
 ---
 
-### විදුලිබල සැපයුමට ශක්තියක්
+### Strengthening the electricity supply
 
 *2024-03-11 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194373) · `si`
 
-මඩකලපුවේ පොළොව මත ඉදිකළ මෙගාවොට් 2ක සූර්ය බලශක්ති ව්‍යාපෘතිය ඊයේ (10) පෙරවරුවේ විවෘත කෙරුණි.
+The Batticaloa Solar Power Project, a 90 MW initiative by the Ceylon Electricity Board, was unveiled yesterday. The Minister, who also leads the backbay Solar Private Company, highlighted the project's significance in enhancing electricity supply.
 
-සිය X ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පවසා ඇත්තේ ලංකා විදුලිබල මණ්ඩලයේ මෙගාවොට් 90ක ටෙන්ඩර් ක්‍රියාවලිය යටතේ මෙය ඉදිකර ඇති බවය.
+🟩
 
-එමෙන්ම එම ව්‍යාපෘතිය BackBay Solar Private සමාගම විසින් ක්‍රියාත්මක කරන බවද අමාත්‍යවරයා පැවසීය.
+Solar Power Project built on earth in Batticaloa was opened yesterday (10).
+
+The Minister has said that this has been constructed under the Tender Process of 90 MW of Ceylon Electricity Board (CEB).
+
+The Minister also operates the backbay Solar Private Company.
 
 ◼️
 
 [Data](articles/dcc1ffe7.json)
+
+[Extended Data](ext_articles/dcc1ffe7.ext.json)
 
 ---
 
@@ -424,17 +540,23 @@ Colombo, March 11 (Daily Mirror)- Former UNP National Organizer Navin Dissanayak
 
 ---
 
-### ටි56 හිස් මැගසින් හා මත්ද්‍රව්‍ය දෙහිවලින් සොයාගනී
+### Ti 56 discovers empty magazine and drugs
 
 *2024-03-11 10:51:07* · [`adalk`](https://www.ada.lk/breaking_news/ටි56-හිස්-මැගසින්-හා-මත්ද්‍රව්‍ය-දෙහිවලින්-සොයාගනී/11-408529) · `si`
 
-යම් පාතාල කණ්ඩායමකට අයත්  බවට සැක කරන ටි 56 ජීව උණ්ඩ යොදන හිස් මැගසින් 16 ක් කිලෝ 3 ගෑම් 416 ක් අයිස් මත්ද්‍රව්‍ය ගෑම් 40 ක්  සමග දෙහිවල ගල් විහාර පාර නිවසක පදිංචි පුද්ගලයෙකු විශේෂ මාර්ග බාධකයකදී අත්අඩංගුවට ගත් බව දෙහිවල පොලිසිය කියයි.
+A resident of Dehiwala found an empty magazine and drugs, leading to a special road block and night curfew. Police discovered 40kg of bullets and 316 suspects, including three parcel searches.
 
-යුක්තියේ මෙහෙයුමට සමගාමීව දෙහිවල ගල්වල පාරේ ඊයේ (10දා) රාත්‍රී  විශේෂ මාර්ග බාධකයක් යොදා  සැකකටයුතු වාහන පරික්ෂා කිරීමේදී සැකකරු පැමිණි යතුරුපැදිය නවතා සිදු කළ පරික්ෂාවේදී එම ස්ථානයේදී ගංජා කිලෝ 2 ක් සහ අයිස් මත්ද්‍රව්‍ය  ග්‍රෑම් 40 ක් සමග අත්අඩංගුවට ගත් සැකකරු පදිංචි දෙහිවල ගල් විහාර පාරේ නිවස වටලා සිදු කළ සෝදිසි මෙහෙයුමේදී  තවත්  ගංජා කිලෝ එකයි ගෑම් 416 ක් හා ඇඳක් යට පාර්සල් තුනක බහා තිබූ මැගසින්  තොගය හමු වූ බව පොලිසිය කියයි.
+🟩
+
+The Dehiwala Police say that a special road drug resident of the Dehiwala Group road with 40 paths with 40 kilograms of bullets in a large number of live bullets suspected to belong to a underworld.
+
+Nights have been temporarived at Galawala Road in Dehiwala yesterday (10th), a special road block in Dehiwala yesterday (10).According to the police, the magazine stock of three parcel, including another search operation, met with another 316 accuses and three parks under a bed.
 
 ◼️
 
 [Data](articles/599381e4.json)
+
+[Extended Data](ext_articles/599381e4.ext.json)
 
 ---
 
@@ -2103,119 +2225,5 @@ DIG Talduu said that the 'Manna Ramesh' is expected to be discussed with the sta
 [Data](articles/020c0517.json)
 
 [Extended Data](ext_articles/020c0517.ext.json)
-
----
-
-### Ranil prefers Presidential election first; Rajapaksas want general election: AKD
-
-*2024-03-10 22:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-prefers-Presidential-election-first-Rajapaksas-want-general-election-AKD/108-278569) · `en`
-
-Colombo, March 10 (Daily Mirror)- President Ranil Wickremesinghe is opting to hold the Presidential election first while the Rajapaksas want the General Elections held first, National People's Power (NPP) leader Anura Kumara Dissanayake said today.
-
-Speaking at the Colombo District Women's Convention, he said the President prefers the Presidential election held first than to the General Elections as he has no strong support at the grassroots level.
-
-He said the Rajapaksas prefer the General Elections first as they deem that going for a Presidential election is disadvantageous to them as they have no strong candidate to contest for the Presidency.
-
-"The SLPP knows Rajapaksas cannot be brought in again as a leader. Basil came to the country recently. But, he has no chance to contest for the Presidency. So, they think that the General elections is more advantageous to them," he said.
-
-...
-
-[Data](articles/ea63084f.json)
-
-[Extended Data](ext_articles/ea63084f.ext.json)
-
----
-
-### Pope Francis’ ‘white flag’ comment is met by criticism from Ukraine and its allies
-
-*2024-03-10 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/97859/pope-francis-white-flag-comment-is-met-by-criticism-from-ukraine-and-its-allies) · `en`
-
-Ukrainian and allied officials criticized Pope Francis for saying that Kyiv should have the “courage” to negotiate an end to the war with Russia, a statement many interpreted as a call for Ukraine to surrender.
-
-The foreign minister of Poland, a vocal ally of Kyiv, and Ukraine’s ambassador to the Vatican, both used World War II analogies to condemn the pope’s remarks.
-
-And a leader of one of Ukraine’s Christian churches on Sunday said that only the country’s determined resistance to Moscow’s full-scale invasion, launched by Russian President Vladimir Putin on Feb. 24, 2022, had prevented a mass slaughter of civilians.
-
-In an interview recorded last month with Swiss broadcaster RSI and partially released on Saturday, Francis used the phrase “the courage of the white flag” as he argued that Ukraine, facing a possible defeat, should be open to peace talks brokered by international powers.
-
-...
-
-[Data](articles/ba330000.json)
-
-[Extended Data](ext_articles/ba330000.ext.json)
-
----
-
-### TNA accepts President’s invitation for discussion with IMF
-
-*2024-03-10 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97858/tna-accepts-presidents-invitation-for-discussion-with-imf) · `en`
-
-The Tamil National Alliance (TNA) has confirmed its acceptance of President Ranil Wickremesinghe’s invitation to opposition political parties for discussions with representatives of the International Monetary Fund (IMF).
-
-According to Illankai Tamil Arasu Kadchi (ITAK) leader S. Shritharan, TNA leader R. Sampanthan is slated to participate in the discussion scheduled to be held at the Presidential Secretariat on Monday (11 March).
-
-While invitations were extended to various opposition parties, it has been noted that the Samagi Jana Balawega (SJB) and the National People’s Power (NPP) have opted not to participate in the dialogue.
-
-While the discussion in question will be taking place as per a request made by SJB MP Harsha De Silva, Chairman of the Committee on Committee on Public Finance, he is yet to confirm his participation.
-
-During an inquiry made by Ada Derana, the parliamentarian had stated that a decision pertaining to his attendance would be made following discussions within his party.
-
-◼️
-
-[Data](articles/741aad59.json)
-
-[Extended Data](ext_articles/741aad59.ext.json)
-
----
-
-### A revelation of a mass destruction that is suitable for the country
-
-*2024-03-10 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194358) · `si`
-
-Forest fires, exacerbated by dry weather, have led to a 25% drop in reservoir levels, posing a threat to water resources. The Disaster Management Center (DMC) has initiated legal action against forest fires and urged water conservation. The demand for water has risen by 6%, but no fees for water supply to farmers have been proposed. Political parties are spreading false information, misleading farmers.
-
-🟩
-
-The Disaster Management Center (DMC) says that the forest fires have increased with dry weather.
-
-Its director Pradeep Kodippili stated that about 25 such incidents island wide have been reported across the last few months.
-
-A special program has been implemented to take legal action against people who are burning the forest fire, said Pradeep Kodippili.
-
-Meanwhile, there is a risk of water resources due to the heavy drying of the coastal areas of the central hills.
-
-The water level of the reservoirs is mainly drop to 25 percent due to the low water level of water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level, which is mainly water level.
-
-Meanwhile, the National Water Supply and Drainage Board also informs the people that the use of water should be frugal as the water use should be done due to dry weather.
-
-...
-
-[Data](articles/9f457bf4.json)
-
-[Extended Data](ext_articles/9f457bf4.ext.json)
-
----
-
-### Anarchy of the Police on Shivaratri Day. University Teachers Association condemns
-
-*2024-03-10 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178380) · `ta`
-
-The Jaffna University Teachers' Association condemns police violence and arrests on Shivaratri Day at Vettukkunni Mountain. They accuse the police of disrupting religious practices and violating the rights of the public. The incident is seen as part of a broader Sinhala Buddhist ideology that suppresses minority religious rights in Sri Lanka. The association calls for the release of those arrested and demands an end to Sinhalese Buddhistization programs in the North East.
-
-🟩
-
-The Jaffna University Teachers Union has condemned the violations of the police and the arrests of many people who were there and the arrest of many people there.
-
-The Jaffna University Teachers' Association, in a statement condemning the violations of the police on Shivaratri day at the Vettukkunni Mountain Athilingeswarar head.
-
-In the statement, the Jaffna University Teachers' Union condemns the violation of the police, the public and the political leaders of the religious priests, the public and political leaders who were worshiping at the Adi Lingeshwara head on the night of Maha Shivaratri.
-
-Maha Shivaratri Saiva is one of the most important days for the Hindu people. On that day, the vegetarian and Hindu people who live in the world will wake up all night and engage in religious. At one time, the police entered the Adi Lingeshwara head and caused many disruption to the people who were involved in the prevalence of the archaeological protection.
-
-...
-
-[Data](articles/a57df7e0.json)
-
-[Extended Data](ext_articles/a57df7e0.ext.json)
 
 ---

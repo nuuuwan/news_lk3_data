@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 00:50:03**
+As of **2024-03-12 01:02:52**
 
 ## Newspaper Stats
 
@@ -26,41 +26,57 @@ adaderanasinhalalk | 1,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,238 (100.0%) of 12,242 articles have been extended.
+12,242 (100.0%) of 12,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### தமிழர்கள் மீது தொடந்தும் தாக்குதல்கள் தடுத்த நிறுத்த அயல் நாடு வெளிநாடுகள் உதவிசெய்ய வேண்டும் - தவத்திரு அகத்தியர் அடிகளார்
+### Foreign country should help foreign countries to stop continuing attacks on Tamils
 
 *2024-03-12 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178476) · `ta`
 
-வடக்கு, கிழக்கில் தமிழர்கள் மீதும் இந்து ஆலயங்கள் மீதும் தொடர்ந்தும் தாக்குதல்கள் தடுத்த நிறுத்த அயல்நாடு வெளிநாடுகள் உதவிசெய்ய வேண்டும் என ஒருங்கிணைந்த தமிழர் கட்டமைப்பின் தலைமை ஒருங்கிணைப்பாளர் தவத்திரு. அகத்தியர் அடிகளார் தெரிவித்தார்
+Dawatru's Chief Coordinator urges foreign countries to halt attacks on Tamils and Hindu temples in the North and East. A protest in Nallur was held to support police brutality against Shivaratri worshipers at the Adilinkaswarar temple. The nation is criticized for disregarding court orders, affecting its health and democratic rights.
 
-வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரி வழிபாடுகளை முன்னெடுத்தவர்களை அநாகரிக முறையில் தூக்கிவீசி, கைதுசெய்து, வழிபாட்டைக் காட்டுமிராண்டித்தனமாகக் குழப்பிய பொலிஸாரின் படுபாதகச் செயலைக் கண்டித்தும், வழிபாட்டு உரிமையை நிலைநாட்டும் வகையிலும் நல்லூர் ஆதீன முன்றிலில் திங்கட்கிழமை (11) கவனயீர்ப்புப் போராட்டம் இடம்பெற்றது இப் போராட்டத்தின் போதே இதனைத் தெரிவித்தார்
+🟩
 
-...
+The Chief Coordinator of the Integrated Tamil Framework, Dawatru, should help foreign countries to stop attacks on Tamils and Hindu temples in the North and East.. Agathiyar Adikallar said
+
+The protest was held on Monday (11) in Nallur, in the Nallur Adinayan Munil, in order to uphold the rituals of the police, who had brutally confused, arrested, arrested and brutally confused those who had carried out the Shivaratri worship at the Adilinkaswarar temple at the Attukkanarimalai temple.
+
+Our country is a nation that does not respect the court command. We are aware of this. We are not healthy for a country.. The Gandhi nation is looking at the foreigners and we will live with the right to live with the right to fight democratically.
+
+◼️
 
 [Data](articles/38eb59ce.json)
 
+[Extended Data](ext_articles/38eb59ce.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணிலுடன் ஒருமித்து பயணிப்பதில் சிக்கல் இல்லை -  அமைச்சர் பவித்திரா வன்னியாராச்சி
+### There is no problem traveling with President Ranil -Minister Pavithra Wanniyarachchi
 
 *2024-03-12 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178475) · `ta`
 
-உத்தேச தேர்தல்களுக்கான அரசியல் நகர்வுகளில் கட்சி என்ற ரீதியில் பொதுஜன பெரமுன  திரைக்குப் பின்னால் வலுவாக செயல்படுகிறது. இதே வேளை ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்து எதிர்கால நடவடிக்கைகள் குறித்து பேச்சுவார்த்தைகளை முன்னெடுக்கவுள்ளதாக வனசீவராசிகள், வன வள பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்திரா வன்னியாராச்சி தெரிவித்தார்.
+Minister Pavithra Wanniyarachchi supports President Ranil Wickremesinghe, stating there's no issue in traveling with him. The PA is committed to working with President Ranil, with no changes expected. They plan to discuss future activities and potential coalitions, aiming for victory in upcoming elections.
 
-மேலும் பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் அமைச்சர் என்ற ரீதியில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடன் இணைந்து பயணிப்பதில் எவ்வித பிரச்சினையும் இல்லை என்றும் அமைச்சர் பவித்திரா வன்னியாராச்சி குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று திங்கட்கிழமை இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+In the political moves for the proposed elections, the party works strongly behind the PA. Meanwhile, Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniyarachchi said that he would meet President Ranil Wickremesinghe and hold talks on future activities.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுடனேயே செயற்பட்டுக் கொண்டிருக்கின்றோம். எவ்வாறிருப்பினும் நான் ஸ்ரீலங்கா பொதுஜனபெரமுனவை பிரதிநிதித்துவப்படுத்தும் அமைச்சராகவே அமைச்சரவையில் அங்கத்துவம் வகிக்கின்றேன். அந்த வகையில் பொதுஜன பெரமுன ஜனாதிபதியுடனேயே இருக்கின்றது. இனிவரும் காலங்களிலும் அதில் எந்த மாற்றங்களும் இருக்காது.
+Minister Pavithra Wanniyarachchi also said that there is no problem in traveling with President Ranil Wickremesinghe as the Minister representing the PA.
+
+He further stated at a press conference held at the Presidential Media Center yesterday.
+
+We are working with President Ranil Wickremesinghe. However, I am a member of the Cabinet as the Minister representing the PA. In that respect, the PA is with the president. There will be no changes in the future.
+
+We have no problems in working with the president. We will soon meet President Ranil Wickremesinghe on the moves of the PA in the proposed elections and take talks and make a final decision.
 
 ...
 
 [Data](articles/d0e0fbf8.json)
+
+[Extended Data](ext_articles/d0e0fbf8.ext.json)
 
 ---
 
@@ -96,6 +112,8 @@ The need for women’s politics has been felt for a long time not only as they a
 
 [Data](articles/21eec613.json)
 
+[Extended Data](ext_articles/21eec613.ext.json)
+
 ---
 
 ### Americans advised to bury their gold, while ours is in pawnshops
@@ -109,6 +127,8 @@ The American economy is in trouble, too, with the US dollar losing its value and
 ...
 
 [Data](articles/91af9626.json)
+
+[Extended Data](ext_articles/91af9626.ext.json)
 
 ---
 

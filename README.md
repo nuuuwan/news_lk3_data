@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 20:02:51**
+As of **2024-03-11 20:17:49**
 
 ## Newspaper Stats
 
-*Scraped **12,207** Articles*
+*Scraped **12,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 663
 adalk | 1,042
 adaderanalk | 1,477
 tamilmirrorlk | 1,488
-virakesarilk | 1,676
+virakesarilk | 1,677
 dailymirrorlk | 1,863
 adaderanasinhalalk | 1,931
 
@@ -26,31 +26,53 @@ adaderanasinhalalk | 1,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,204 (100.0%) of 12,207 articles have been extended.
+12,207 (100.0%) of 12,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### හරක් කටා තංගල්ලට
+### தமிழர்கள் இந்த முழு நாட்டையும் கல்வியால் ஆழமுடியும் - வியாழேந்திரன்
+
+*2024-03-11 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178468) · `ta`
+
+நாங்கள் இந்த நாட்டிலே சிறுபான்மை சமூகங்கள் என்று எம்மை அடையாளப்படுத்திக் கொள்கின்றோம். அது எண்ணிக்கையில்தான் ஆனால் பெரும்பான்மை சமூகமாகச் சிங்கள மக்களைச் சொல்லலாம். தமிழர்களாகிய நாம் யார் எனும் கேள்வியைக் கேட்டால் நாங்கள் அழிக்கப்பட்ட சமூகத்தினதும்,  காணாமலாக்கப்பட்ட, பாதிக்கப்பட்ட சமூகத்தின் பிரதிநிதிகள்தான்.
+
+மட்டக்களப்பு மாவட்டம் பெரியகல்லாறு ஒலிம்பியா விளையாட்டுக் கழகம் நடாத்திய பி.பி.எல்.கிறிக்கட் திருவிழாவின் இறுதிப்போட்டி நிகழ்வு கழகத் தலைவர் ஆர்.கோபாலசிங்கம் தலைமையில் பெரிய கல்லாறு பொது விளையாட்டு மைதானத்தில் நடைபெற்றது. இதன்போது கந்து கொண்டு கருத்துத் தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்…
+
+...
+
+[Data](articles/b86086d0.json)
+
+---
+
+### Beewater Tangalle
 
 *2024-03-11 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194394) · `si`
 
-දින 362ක් පුරා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවාගෙන ප්‍රශ්න කෙරුණු සංවිධානාත්මක අපරාධකරුවන් සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් ලෙස සැකකෙරෙන වන නඳුන් චින්තක නොහොත් "හරක් කටා" සහ සළිඳු මල්ශික හෙවත් කුඩු සළිඳු අද අධිකරණයට ඉදිරිපත් කෙරුණි.
+The Criminal Criminal Criminals and Drug Trafficking Department presented organized criminals and drug dealers to court, including "beef" arrested in Dubai in August 2022, released after Dubai Police complied. Seven were rearrested in March 2023. The CID questioned them under the Prevention Act. After a year, "beef" and "Kudu Islaya" were submitted to the Colombo Judicial Medical Officer. The suspects were taken to court for law functions. The case was taken up by High Court Judge Thamith Thatawatte, supported by the CID. The State Counsel Sajith Bandara appeared. The Lord filed 22 charges, including terrorism. The suspects were attacked by the CID and STF officers. The judge allowed the suspect to be detained in Tangalle and issued a warrant for Ravindu Sandee. The Terrorism and Investigation Division was ordered to ensure the suspect's safety.
 
-එහිදී හරක් කටා තංගල්ල පැරණි බන්ධනාගාරයේ ත්‍රස්ත විමර්ශන කොට්ඨාසයේ රැඳවුම් මධ්‍යස්ථානය වෙත යොමු කිරීමට කොළඹ මහාධිකරණය නියෝග කළා.
+🟩
 
-විදේශගතව සිටිමින් මෙරට සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාලය මෙහෙය වූ නඳුන් චින්තක හෙවත් "හරක් කටා" ඩුබායිහීදී අත්අඩංගුවට ගනු ලැබුවේ 2022 වසරේ අගෝස්තු මාසයේ දීය.
+The Criminal Criminal Criminals and Drug Trafficking Department were presented to the court today as the organized criminals and drug dealers who were detained in the Criminal Investigation Department.
 
-නමුත් සැකකරු මෙරටට ගෙන්වාගැනීමට සිදුකළ යුතු උදර්පන කටයුතු විධිමත්ව සිදුනොවීම හේතුවෙන් ඩුබායි පොලිසිය විසින් පසුව හරක් කටා මුදාහරිනු ලැබීය.
+The Colombo High Court was ordered to be sent to the Detail Prison of the Terror Investigation Division at the Terrorist Investigation Division at the Terrorist Investigation Division at the Troops of the Troops of the Troops of Tangalle Tangalle.
 
-පසුව 2023 මාර්තු 7 වනදා මැඩගස්කරයේ දී "හරක් කටා" සහ සළිඳු මල්ෂික නොහොත් "කුඩු සළිඳු" ඇතුළු 7දෙනෙකු යළි අත්අඩංගුවට පත්වූ අතර 2023 මාර්තු 15 වනදා ඔවුන්ව දිවයිනට රැගෙන එන ලදි.
+Engaged abroad, the "beef" was arrested in August 2022.
 
-එතැන් සිට ඔවුන් දෙදෙනා ත්‍රස්තවාදය වැළැක්වීමේ පනතේ විධිවිධාන මත අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් භාරයේ තබාගනිමින් ප්‍රශ්න කෙරුණි.
+However, Dubai Police released the beef after the Dubai Police were released as heeding to be taken to the country.
+
+On March 7, 2023, seven people were resurled again, with "beef" or "powdered ', or" powdered', or "powder,", 2023.
+
+Since then they have since been questioned by the CID on the detention Department on the provisions of the Prevention Act.
+
+While the CID was in the custody, the security forces were also trying to survive.
 
 ...
 
 [Data](articles/4783849e.json)
+
+[Extended Data](ext_articles/4783849e.ext.json)
 
 ---
 
@@ -424,17 +446,25 @@ Are walking. The actions of the police were a manifestation of Buddhist Sinhala 
 
 ---
 
-### මහ බැංකුවේ වැඩි කළ පඩි යළි හරවන පනතක්, අනාගතයටත් බෑ
+### A bill to reopen the grooves of the Central Bank, the future cannot be
 
 *2024-03-11 17:34:42* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-වැඩි-කළ-පඩි-යළි-හරවන-පනතක්--අනාගතයටත්-බෑ/11-408545) · `si`
 
-මහ බැංකුව විසින් සිදුකරගන්නා ලද අධික වැටුප් වැඩිකර ගැනීම අහෝසි කිරීමටත්, අනාගතයේදී මෙවැනි අත්තනෝමතික වැටුප් වැඩි කර ගැනීම් සිදුවීම වැලැක්වීමටත් මහ බැංකු පනත සංශෝධනය කරන පනත් කෙටුම්පතක් ඉදිරිපත් කරන බව පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.03.11) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි.
+Leader Gammanpila criticizes the Central Bank's high salaries, proposing a bill to limit future increases. The bill, prepared in Sinhala, English, and Tamil, aims to prevent arbitrary salary increases by requiring the Minister of Finance's approval for future raises.
 
-"මහ බැංකු නිලධාරින් තමන්ට ලැබුණු ස්වාධීනත්වය අපයෝජනය කරලා හිතුමතේට 70%කින් පඩි වැඩි කර ගත් බව අපි කවුරුත් දන්නා දෙයක්.  අපි මහ බැංකුව ස්වාධීන කරන්න එපා කියලා බැනුම් ඇහුව්වා.  නමුත් මහ බැංකුව ස්වාධීන කරන්න කටයුතු කළ අයම අද මහ බැංකුවට බැන වදින්න සිදුවීම දෛවයේ සරදමක්.  මහ බැංකුවේ පාලක මණ්ඩලය පාර්ලිමේන්තුවට ගෙන්නුවාම අද නම් වෙනසක් වේවි කියලා ජනතාව බලාපොරොත්තු වුණා.
+🟩
+
+Leader of Purger Gammanpila says that the central bank is being abolished and preventing such arbitrary salaries in the future, says the Leader of the Leader of the JHU. He was speaking at a press conference held at the party headquarters today (2024.03.11).
+
+"We all know that the central bank officials were abused by 70% of the deviation.The people expected to change today as the Governing Body of the Central Bank to be brought to parliament.
+
+The Governor of the Central Bank argues better than the wall children who have offered their decision.We showed that both of the intelligence flumbs and the intelligence of the intelligence that was not used for justification.But what happened?Nothing happened.The Central Bank Governing Council was.You Can Have Your Say.Reminding the English saying that we will have our way.Say you all you want.We do what we want.The government can barrely barren but wasn't chewing.But who can be chewing to Parliament if they can't chew.
 
 ...
 
 [Data](articles/6535bc2c.json)
+
+[Extended Data](ext_articles/6535bc2c.ext.json)
 
 ---
 
@@ -570,21 +600,27 @@ Accordingly, the recently opened solar power plant with 20 MW of electricity in 
 
 ---
 
-### ශ්‍රි ලංකන් වෙත ප්‍රගතිය පෙන්වන්න මාස හයක් දෙයි
+### Six months show progress to Sri Lanka
 
 *2024-03-11 16:52:55* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකන්-වෙත-ප්‍රගතිය-පෙන්වන්න-මාස-හයක්-දෙයි/11-408544) · `si`
 
-රජයෙන් ලබා දුන් ඇමරිකන්  ඩොලර් මිලියන 510 ක පමණ මුල්‍ය සහනය සමගින් ශ්‍රි ලංකන් ගුවන් සේවයේ මෙහෙයුම් සහ මුල්‍ය ප්‍රගතිය ඉදිරි මාස 06 තුල පෙන්විය යුතු බව වරාය නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා 2024.03.11 ( අද) දින පෙරවරුවේ අමාත්‍යංශයේදී පැවති වි‍ශේෂ සාකච්චාවකදී පැවසීය.
+Sri Lanka's Porturning and Aviation Minister Nimal Siripala de Silva highlighted the government's progress in the next six months, including financial relief and restructuring SriLankan Airlines. The minister expects employment stability for about 6,000 people and the deployment of 16 aircrafts, with 16 long and 29 short destinations.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ ගුවන් සමාගමේ වත්මන් ප්‍රගතිය පිලිබඳව පාලන අධිකාරිය සහ වෘත්තිය සමිති සමාජිකයින් සමඟ පැවති සාකච්චාවකදීය.
+🟩
 
-පසුගිය කාල පරිච්ඡේදයේ විටින් විට ශ්‍රි ලංකන් ගුවන් සේවයේ මෙහෙයුම් වල  ඇති වූ ප්‍රමාදයන් නිසා ගුවන් මගීන්ට සිදු වූ හිරි හැර සහ බාධාවන් හේතුවෙන් ගුවන් සමාගම විශාල ලෙස දෝෂ දර්ෂණයට සහ විවේචනයන්ට ලක් විය.
+Porturning and Aviation Minister Nimal Siripala de Silva said that the government should show Sri Lankans on the next six months with financial relief from the government..
 
-මේ පිලිබඳව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුදල් අමාත්‍යවරයා ලෙස ඉදිරිපත් කරන ලද යෝජනාවකට අනුව ගුවන් සේවය පවත්වා ගෙන යාමට ඔවුන් විසින් බැංකු සහ ආයතන කිහිපයකට ගෙවීමට තිබු ඇමරිකානු ඩොලර් බිලියන 1.2 ක පමණ ණය ප්‍රමාණයෙන් ඇමරිකානු ඩොලර් මිලියන 510 ක් පමණ රජය විසින් ගෙවා දැමීමට තීරණය කරන ලදි.
+The Minister was speaking in a discussion with the administration of the Government's current progress and the trade union members of the current progress.
+
+Last time, Sri Lankans launched aviation and criticism of the airline operations due to the bugs and obstacles caused by the airborne passengers.
+
+According to President Ranil Wickremesinghe proposal as the Finance Minister, he decided to pay the airline and pay US $ 510 million from US $ 1.2 billion in debt.
 
 ...
 
 [Data](articles/ce08ca61.json)
+
+[Extended Data](ext_articles/ce08ca61.ext.json)
 
 ---
 
@@ -2285,39 +2321,5 @@ However, he urged the current water level to be sufficient and only water for es
 [Data](articles/fc21aabe.json)
 
 [Extended Data](ext_articles/fc21aabe.ext.json)
-
----
-
-### Blue-Katgamrol Katdown with international market
-
-*2024-03-11 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194374) · `si`
-
-High demand for blue dynamic products in international markets, including Europe. Blue dynasty tea, especially blue dyltrums, is popular. The Philippines and Taiwan are involved in the cultivation of blue products. A private company exports blues to foreign countries. Minister Mahinda Amaraweera visited the Omanagama Rata Flower Cultivation and Processing Center, discussing a project to build a machinery and processing center for drying flowers. Blue tea is served with honey or lime juice in countries like the Philippines and Thailand. Natural food pigments, such as blue cake, are used in food.
-
-🟩
-
-There is a high demand in the international market, including Europe, for blue dynamic products.
-
-The blue dynasty tea sells at the international market, especially the blue dyltrums.
-
-The Philippines, Taiwan such as countries like the Taiwan have also taken place in the Omansamulla village of Omandugama village.
-
-Blues to be exported to foreign countries by a private company which was tailored to foreign countries.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera visited the Omanagama Rata Flower Cultivation and Processing Center yesterday.
-
-One kilogram of blue rrits sold at Rs.
-
-The Minister of Agriculture and Plantation Industries said that a project under the Ministry of Agriculture to build a machinery and processing center required for the drying of these flowers.
-
-In countries such as the Philippines, Thailand, the tea is dinner with honey or lime juice after dinner.
-
-Natural food is a natural food pigment for food, such as blue cake, cake, jelly, raw, pan cake.
-
-◼️
-
-[Data](articles/832fea6b.json)
-
-[Extended Data](ext_articles/832fea6b.ext.json)
 
 ---

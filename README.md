@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 10:51:35**
+As of **2024-03-11 11:02:49**
 
 ## Newspaper Stats
 
-*Scraped **12,074** Articles*
+*Scraped **12,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
-adalk | 1,021
-adaderanalk | 1,461
+adalk | 1,022
+adaderanalk | 1,462
 tamilmirrorlk | 1,470
-virakesarilk | 1,647
-dailymirrorlk | 1,848
+virakesarilk | 1,648
+dailymirrorlk | 1,851
 adaderanasinhalalk | 1,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,067 (99.9%) of 12,074 articles have been extended.
+12,074 (100.0%) of 12,080 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,113 +44,283 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 [Data](articles/740ae941.json)
 
+[Extended Data](ext_articles/740ae941.ext.json)
+
 ---
 
-### வரி செலுத்தாத 1000 நிறுவனங்களுக்கு நோட்டீஸ்
+### ஆக்கிரமிக்கப்பட்ட  பிராந்தியங்களில்இஸ்ரேலிய குடியிருப்புகளை விஸ்தரிப்பது போர்க் குற்றம்   - வோல்கர் டர்க்
 
-*2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்-அனுப்பப்பட்டுள்ளது/175-334490) · `ta`
+*2024-03-11 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178395) · `ta`
 
-இலங்கையின் உள்நாட்டு இறைவரித் திணைக்களமானது (IRD) ஏறக்குறைய 160 பில்லியனுக்கும் அதிகமான வரி நிலுவைகளை செலுத்தாத 1000 நிறுவனங்களுக்கு வரியை செலுத்தக் கோரி அறிவித்தல்களை அனுப்பியுள்ளது.
+ஆக்­கி­ர­மிக்­கப்­பட்ட பலஸ்­தீன பிராந்­தி­யங்­களில் இஸ்­ரே­லிய குடி­யி­ருப்­பு­களை விஸ்­த­ரிப்­பது போர்க் குற்­ற­மாகும் என ஐ.நா.வின் மனித உரி­மைகள் உயர்ஸ்­தா­னிகர் வோல்கர் டர்க் கூறி­யுள்ளார்.
 
-நிறுவனங்கள் தங்கள் நிலுவைத் தொகையை ஆறு மாதங்களில் செலுத்த வேண்டும் அல்லது வங்கி கணக்குகள் மற்றும் சொத்துக்களை பறிமுதல் செய்ய நேரிடும் என IRD ஆளுநர் செபாலிகா சந்திரசேகரா கூறியுள்ளார்.
+ஜெனி­வா­வி­லுள்ள ஐ.நா. மனித உரி­மைகள் பேர­வைக்கு கடந்தவாரம்  அளித்த அறிக்­கை­யொன்­றி­லேயே வோல்கர் டர்க் இவ்­வாறு கூறி­யுள்ளார்.
 
-அவர் மேலும் கூறுகையில், கடந்த ஆண்டு இறுதி வரை நிலுவையில் இருந்த நிலுவைத் தொகையை ஆறு மாதங்களில் நீட்டிப்பு இல்லாமல் செலுத்துமாறு நிறுவனங்களுக்கு நோட்டீஸ் அனுப்பப்பட்டுள்ளது.
+மேற்குக் கரையின் ஆக்­கி­ர­மிக்­கப்­பட்ட பகு­தி­களில் இஸ்­ரேலின் சட்­ட­வி­ரோத குடி­யி­ருப்பு நிர்­மா­ணங்கள் வேக­மாக அதி­க­ரித்து வரு­கின்­றன என அவர் கூறினார்.
 
-சில நிறுவனங்கள் பதிலளித்து, நிலுவைத் தொகையை ஐஆர்டி வசூலிக்க ஏதுவாக தங்கள் சொத்துக்களை பறிமுதல் செய்ய ஒப்புக்கொண்டுள்ளதாகவும் வரி செலுத்துவதில் தவறிய நிறுவனங்களை ஐஆர்டிக்கு வரவழைத்து நிலுவைத் தொகையை மீட்பதற்கான சாத்தியக்கூறுகள் குறித்து விவாதிக்க உள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+ஆக்­கி­ர­மிக்­கப்­பட்ட பிராந்­தி­யங்­களில்  குடி­யி­ருப்­பு­களை உரு­வாக்­கு­வதும் விரி­வாக்­கு­வதும் இஸ்ரேல் தனது சொந்த ­மக்­களை ஆக்­கி­ர­மிக்­கப்­பட்ட பகு­தி­க­ளுக்கு இட­மாற்­று­வ­தற்கு சம­மாகும்.
 
-ஆளுநரின் கூற்றுப்படி, வரி செலுத்தாதவர்களில், மதுபான நிறுவனங்கள், ஹோட்டல்கள் மற்றும் ரியல் எஸ்டேட் நிறுவனங்கள் உள்ளடங்குகின்றன.
+இது போர்க் குற்­றத்­துக்கு ஒப்பானது. இதில் சம்­பந்­தப்­பட்­ட­வர்­களை குற்றப் பொறுப்­பா­ளி­க­ளாக்கக் கூடும் என அவர் கூறினார்.
+
+மேற்குக் கரையின் மாலே அடுமின், இப்ரத், கேதார் பகு­தி­களில் மேலும் 3,476 வீடு­களை நிர்­மா­ணிக்கும் இஸ்­ரேலின் திட்­ட­மா­னது சர்­வ­தேச சட்­டங்­க­ளுக்கு முற்­றிலும் முர­ணா­ன­தாகும் என அவர் கூறினார்.
 
 ...
 
-[Data](articles/d20b5265.json)
+[Data](articles/44eae73a.json)
 
 ---
 
-### இலங்கை குற்றவாளிகள் துபாயிலிருந்து வேறு நாடுகளுக்கு தப்பிச் சென்றனர்!
+### Main suspect involved in murder of Buddhist monk arrested
+
+*2024-03-11 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97864/main-suspect-involved-in-murder-of-buddhist-monk-arrested) · `en`
+
+Police have arrested an individual believed to be the main suspect in the murder of a Buddhist monk, who was shot dead at a temple in the Malwathuhiripitiya area in January.
+
+According to Police Spokesman SDIG Nihal Thalduwa, police suspect that the arrestee was the gunman who carried out the shooting.
+
+The suspect was arrested in the Hambegama area in Moneragala, police reported.
+
+In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
+
+...
+
+[Data](articles/f75432a4.json)
+
+---
+
+### SLPP expresses concerns over President’s direct dealing with individual MPs
+
+*2024-03-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-expresses-concerns-over-Presidents-direct-dealing-with-individual-MPs/108-278622) · `en`
+
+Colombo, March 11 (Daily Mirror)- Sri Lanka Podujana Peramuna (SLPP) is reported to have reiterated its concerns with President Ranil Wickremesinghe over his direct dealings with individuals of the party bypassing its hierarchy.
+
+It was communicated to the President when he met with SLPP leaders Mahinda Rajapaksa and Basil Rajapaksa last week.
+
+Such concerns were reiterated in the wake up of some MPs and electoral organizers siding with the President.
+
+Currently, a sediment of SLPP MPs remain loyal to the President. Most of them hold ministerial positions in the government. SLPP MP Chief Government Whip Prasanna Ranatunga openly advocates candidacy to the President at the upcoming presidential election. However, the SLPP is yet to take any formal decision although all indications point to its support to the President.
+
+The SLPP raised similar concerns on a previous occasion too in this regard
+
+◼️
+
+[Data](articles/1fbe81cb.json)
+
+---
+
+### Change from normal judicial practice observed in two appeal cases
+
+*2024-03-11 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-from-normal-judicial-practice-observed-in-two-appeal-cases/108-278618) · `en`
+
+A twist from normal judicial practice is observed in two appeal cases that are being heard before the Colombo High Court.
+
+In these two cases, the present High Court Judge is assigned to hear the two appeals against his own judgments given as a Magistrate of the Colombo Magistrate's Court.
+
+The appellant accused in the High Court cases, Malagalage Dona Jayatu Nissanka Sirisena had filed two revision applications under numbers MCHCB 84/22 and MCHCB 88/22 before the Colombo High Court against two judgments given by the then Magistrate W.P.S. Nissanka in two Magistrates' Court cases Nos. 33924/6 and 33925/6 on January 13, 2022, against the accused Sirirsena.
+
+The accused Sirisena, dissatisfied with the judgment of Magistrate Nissanka, filed two revision applications against the Magistrate’s judgment in the Colombo High Court.
+
+...
+
+[Data](articles/e2980ef0.json)
+
+---
+
+### Cillian Murphy wins best actor as Oppenheimer sweeps Oscars 2024
+
+*2024-03-11 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Cillian-Murphy-wins-best-actor-as-Oppenheimer-sweeps-Oscars-2024/107-278613) · `en`
+
+March 11, (BBC) Cillian Murphy has become the first Irish-born winner of the best actor award, as Oppenheimer swept the Oscars.
+
+The film dominated proceedings, winning best picture, best director for Christopher Nolan, and best supporting actor for Robert Downey Jr.
+
+Murphy was named best leading actor for his acclaimed portrayal of theoretical physicist J Robert Oppenheimer.
+
+The actor said he was "overwhelmed" to have won, adding: "I'm a very proud Irishman standing here tonight."
+
+He thanked Nolan and producer Emma Thomas for "the wildest, most exhilarating, most creatively satisfying journey you've taken me on".
+
+Murphy also paid tribute to "every single crew and cast member, you carried me through".
+
+He concluded: "We made a film about the man who created the atomic bomb, and for better or for worse, we are all living in Oppenheimer's world, so I'd like to dedicate this to the peacemakers everywhere."
+
+...
+
+[Data](articles/69acd32f.json)
+
+---
+
+### Notices to 1000 companies that are not taxed
+
+*2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்-அனுப்பப்பட்டுள்ளது/175-334490) · `ta`
+
+The Sri Lankan Internal Revenue Department (IRD) has notified 1000 companies with tax arrears under 160 billion LKR to pay within six months or face asset confiscation. Some have agreed to confiscate assets to settle arrears. Taxpayers include liquor, hotel, and real estate companies. The IRD has appointed an under Deputy Commissioner to collect tax balances.
+
+🟩
+
+The Sri Lankan Internal Revenue Department (IRD) has issued notifications to 1000 companies that do not pay more than 160 billion tax arrears.
+
+IRD Governor Sebalika Chandrasekara has said that companies will pay their arrears in six months or confiscate bank accounts and assets.
+
+He added that notices have been issued to companies to pay the outstanding arrears until the end of last year, without extension in six months.
+
+He added that some companies have responded and have agreed to confiscate their assets in order to collect the arrears and discuss the possibility of recovering the outstanding companies to the IRT and recovering the outstanding amount.
+
+According to the governor, taxpayers include liquor companies, hotels and real estate companies.
+
+Chandrasekara added that "IRT has appointed an IRD under the Deputy Commissioner to collect tax balances."
+
+◼️
+
+[Data](articles/d20b5265.json)
+
+[Extended Data](ext_articles/d20b5265.ext.json)
+
+---
+
+### Sri Lankan criminals fled from Dubai to other countries!
 
 *2024-03-11 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178392) · `ta`
 
-துபாய்க்கு தப்பிச் சென்ற இலங்கையின் திட்டமிட்ட குற்றவாளிகள் வேறு நாடுகளுக்கு தப்பிச் சென்றுள்ளதாக தகவல் கிடைத்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Sri Lankan criminals fled Dubai to other countries, with police identifying them through international arrest notices issued under different names.
 
-துபாய்  நாட்டிலுள்ள  உள்ள குற்றவாளிகளை சர்வதேச அளவில் கைது செய்வதற்கான சிவப்பு அறிவிப்பு வெளியிடப்பட்டுள்ள நிலையில், இந்த நாட்டின் மிகக் கடுமையான குற்றவாளிகள் வேறு பெயர்களில் கடவுச்சீட்டு தயாரித்து  அங்கிருந்து தப்பிச் சென்றுள்ளதாக நிஹால்  தல்துவ தெரிவித்துள்ளார்.
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa says that Sri Lanka's planned criminals have fled to Dubai.
+
+Nihal Talduwa says that the red announcement of the international arrest of criminals in Dubai has been made in other names by making a passport in other names.
 
 ◼️
 
 [Data](articles/bac59e82.json)
 
+[Extended Data](ext_articles/bac59e82.ext.json)
+
 ---
 
-### 96 ஆவது ஒஸ்கர் விருது விழா : வெற்றியாளர்களின் முழு விபரம் இதோ !!
+### 96th Oscar Award Ceremony: Here is the full details of the winners !!
 
 *2024-03-11 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
 
-திரைத்துறையில் உலக அளவில் உயரிய விருதாக ஒஸ்கர் காணப்படுகின்றது. 1929 ஆம் ஆண்டு முதல் ஒஸ்கர் விருதுகள் அறிவிக்கப்பட்டு வருகின்றன. சிறந்த திரைப்படம், நடிகர், நடிகை, இயக்குனர், இசையமைப்பாளர் உள்பட பல்வேறு பிரிவுகளில் ஒஸ்கர் விருது வழங்கப்படுகிறது.
+The 96th Oscars, held at the Dolphi Theater, Los Angeles, saw "The Openhaimer" win Best Picture, directed by Christopher Nolan. Ima Stone won Best Actress for "Poor Things," and Nolan won Best Director. "The Boy and the Heron" took Best Animated Feature.
 
-இந்நிலையில், 96வது ஒஸ்கர் விருது நிகழ்ச்சி அமெரிக்காவின் லொஸ் ஏஞ்சல்ஸ் நகரில் உள்ள டொல்பி திரையரங்கில்  நடைபெற்றது.
+🟩
 
-இதில் சிறந்த படம், நடிகர், துணை நடிகர், ஒளிப்பதிவு, படத்தொகுப்பு உள்ளிட்ட 7 விருதுகளை ‘ஓப்பன்ஹைமர்’ திரைப்படம் தட்டிச்சென்றுள்ளது.
+Oscar is the world's highest award in the film industry. Oscar Awards have been announced since 1929. Oscar is awarded in various categories including Best Film, Actor, Actress, Director and Composer.
 
-கிறிஸ்டோபர் நோலன் இயக்கத்தில் சிலியன் மர்பி நடிப்பில் கடந்த ஆண்டு வெளியான ஓபன்ஹெய்மர் திரைப்படம் அணுகுண்டை தயாரித்த ஜே. ரொபர்ட் ஓபன்ஹெய்மரின் வாழ்க்கை வரலாற்றைக் கொண்டு உருவானது.
+The 96th Oscar Awards were held at the Dolphi Theater in Los Angeles, USA.
 
-ஜப்பான் நாட்டில் உள்ள ஹிரோஷிமா, நாகசாகி நகர்களின் மீது அணுகுண்டு போடப்பட்டு பல லட்சம் உயிர்கள் பலியாக தான் காரணமாகி விட்டோம் என வருந்தும் காட்சிகளிலும், இந்த உலகமே அழியப்போகுது என நினைக்கும் காட்சிகளிலும் தனது நடிப்பால் சிலியன் மர்பி அசத்தியிருந்தார்.
+The film has been awarded 7 awards including Best Film, Actor, Supporter, Cinematography and Collection.
+
+Ju, who produced the atomic bomb of last year's Openhaimer movie starring Christopher Nolan. It was formed with the biography of Robert Openheimer.
+
+In the scenes of Hiroshima and Nagasaki in Japan, the Chilean Murphy was in the vicinity of the scenes that the world was destroyed and the world was destroyed.
+
+Openheimer has won the Oscar Award for Best Picture. Openheimer starrer Child Merbi directed by Christopher Nolan has won the Oscar.
+
+Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress Ima Stone has been awarded the Oscar for Best Actress for her performance in Poor Things.
 
 ...
 
 [Data](articles/2925e8ba.json)
 
+[Extended Data](ext_articles/2925e8ba.ext.json)
+
 ---
 
-### ”இருவரும் வெவ்வேறு தேர்தல்களையே நடாத்த விரும்புகின்றனர்”
+### "Both want to hold different elections"
 
 *2024-03-11 10:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரும்-வெவ்வேறு-தேர்தல்களையே-நடாத்த-விரும்புகின்றனர்/175-334489) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க ஜனாதிபதி தேர்தலை முதலில் நடத்த விரும்பும் வேளையில் ராஜபக்சக்கள் பொதுத்தேர்தலை முதலில் நடாத்த விரும்புவதாக தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க நேற்று தெரிவித்தார்.
+President Ranil Wickremesinghe and the Rajapaksa faction disagree on the order of elections, with Wickremesinghe favoring presidential elections first due to lack of grassroots support. The Rajapaksa faction prefers a general election first, citing no strong presidential candidate. Dissanayake suggests the Elections Commission could hold presidential elections on July 22, 2024, amidst factional disputes.
 
-அடிமட்டத்தில் தனக்கு வலுவான ஆதரவு இல்லாததால், பொதுத் தேர்தலை விட முதலில் நடத்தப்படும் ஜனாதிபதித் தேர்தலையே ஜனாதிபதி விரும்புகிறார்.
+🟩
 
-ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு வலுவான வேட்பாளர் இல்லாததால், ஜனாதிபதித் தேர்தலுக்கு செல்வது தங்களுக்கு பாதகமானது என்று கருதுவதால், ராஜபக்சக்கள் முதலில் பொதுத் தேர்தலை விரும்புகிறார்கள் என்று கொழும்பு மாவட்ட மகளிர் பேரவையில் உரையாற்றிய அவர் கூறினார்.
+President Ranil Wickremesinghe said yesterday that the Rajapaksa would want to hold the general election while the Presidential Elections were to be held first.
 
-ராஜபக்சவை மீண்டும் தலைவராக கொண்டு வர முடியாது என ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கு தெரியும். பசில் அண்மையில் நாட்டிற்கு வந்தார். ஆனால், ஜனாதிபதி தேர்தலில் போட்டியிட அவருக்கு வாய்ப்பு இல்லை. எனவே பொதுத் தேர்தல் தங்களுக்கு சாதகமாக இருப்பதாக அவர்கள் நினைக்கின்றனர்.
+The president wants the first presidential election to be held more than the general election as he does not have strong support at the grassroots level.
+
+Speaking at the Colombo District Women's Council, she said that the Rajapaksa would like to first be a general election because it was a good idea to go to the presidential election as there was no strong candidate to contest the presidential election.
+
+Sri Lanka PA knows that Rajapakse cannot be re -president. Basil recently came to the country. But, he has no chance to contest the presidential election. So they think the general election is favorable.
+
+However, Dissanayake also said that the Elections Commission would have the authority to hold the presidential election on July 22, 2024, as the clash between the two factions continues on which elections to be held first.
 
 ...
 
 [Data](articles/49b58a6d.json)
 
+[Extended Data](ext_articles/49b58a6d.ext.json)
+
 ---
 
-### වෙඩික්කරුවෙක් අත්අඩංගුවට
+### අද කාලගුණය  මොකද වෙන්නෙ?
+
+*2024-03-11 10:21:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණය--මොකද-වෙන්නෙ-/11-408526) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් අද උදෑන නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුවෙ නැහෙනහිර පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇතිවිය හැකිබව සඳහන්වේ. රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත්. දිවයිහන් සෙසු ප්‍රදේශවල ප්‍රධාන වශ‍යෙන් වියලි කාලගුණික තත්ත්වයක් පැවතීය හැකි බව සඳහන් වේ.
+
+බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්වලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු  ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය වශයේන් නිකුත්කර ඇත්තේ  හම්බන්‍තොට සිට හා‍ පොතුවිල් හරහා මඩකළපුව දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිබවයි.
+
+සුළං ඊසාන දෙසින් හමා එන අතර සුළංගේ වේගය පැ.කි.මී. (20-30) පමණ වේ. කොළඹ සිට පුත්තලම සහ මන්නාරම හරහා කන්කසන්තුරය දක්වා සහ මාතර සිට ම්බන්හතාට හරහා පොතුවිල් දක්වා හවරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළංගේ වේගය විටින් විට පැ.කි.මී. (40-45) දක්වා වැඩි විය හැක.
+
+...
+
+[Data](articles/ecc23da5.json)
+
+---
+
+### Shopman arrested
 
 *2024-03-11 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194370) · `si`
 
-මල්වතුහිරිපිටිය ප්‍රදේශයේ පන්සලක දී බෞද්ධ භික්ෂුවකට වෙඩිතැබීමේ සිදුවීමේ වෙඩික්කරු ලෙස සැකකෙරෙන පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+Shopman arrested in Moneragala after shooting incident in Malwathuhiripitiya.
 
-පොලීසිය පැවසුවේ, මොනරාගල හම්බේගමුව ප්‍රදේශයේ දී එම පුද්ගලයාව අත්අඩංගුවට ගත් බවය.
+🟩
+
+The victim was arrested as a shot of shooting shot in a temple in Malwathuhiripitiya.
+
+The police said that the man was arrested in the Moneragala area.
 
 ◼️
 
 [Data](articles/61e1384d.json)
 
+[Extended Data](ext_articles/61e1384d.ext.json)
+
 ---
 
-### කුලී ත්‍රිරෝද රථ රියදුරෙකුට පිහි ප්‍රහාරයක්
+### Trees attack on a three-wheeler driver
 
 *2024-03-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194369) · `si`
 
-කරන්දෙණිය පොලිස් වසමේ දිවිය ගහවෙල පණලිය ප්‍රදේශයේදී ත්‍රිරෝද රථයකින් ගමන් ගත් පුද්ගලයින් දෙදෙනෙකු විසින් රියදුරට පිහියෙන් ඇන මුදල් කොල්ලකා පළා ගොස් තිබේ.
+Two people attacked a three-wheeler driver in Karandeniya, stabbing him and stealing his money and phone. The driver, a 62-year-old resident of Elpitiya, was admitted to the ICU at Elpitiya Base Hospital. The Karandeniya police are investigating.
 
-තුවාලත් රියදුරු ඇල්පිටිය මූලික රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+🟩
 
-ඇල්පිටිය නගරයේ පල්ලිය අසල ත්‍රිරෝද රථ ගාලේ කුලී රථ රියදුරකු සමඟ දිවියගහවෙල ප්‍රදේශයට කුලී ගමනක් යාම සඳහා එම පුද්ගලයින් දෙදෙනා ඊයේ (10) දහවල් ත්‍රීරෝද රථයට නැඟ තිබේ.
+Two people who traveled by a three-wheeler in the Karandeniya police division have stabbed the driver.
 
-දහවල් 2කට පමණ ත්‍රිරෝද රථයේ ගමන් කළ අය විසින් දිවියගහවෙල පනලිය පාළු ප්‍රදේශයකදී රියදුරුට පහරදී ඔහුට පිහියකින් ඇන තුවාල සිදුකර අසල වූ කුරුඳු ඉඩමකට ගෙන ගොස් ඔහු සතුව තිබූ මුදල් සහ දුරකථනයක් පැහැරගෙන ඇති බව වාර්තා වේ.
+The injured have been admitted to the Elpitiya Base Hospital.
 
-රියදුරුගේ කමිසයද ඉරා දමා ඇති සැකකරුවන් පළායාමෙන් පසු රියදුරු මාර්ගයට පැමිණ එහි ගමන් ගත් පුද්ගලයෙකුට සිද්ධිය පැවසීමෙන් අනතුරුව කරන්දෙණිය පොලීසියට මේ පිළිබඳ දැනුම්දී තිබේ.
+The two persons have risen to the three-wheeler yesterday (10) to take a rented in the Piriyagama area with a taxi driver near the Church near the Church of Elpitiya.
 
-අනතුරුව තුවාල ලත් රියදුරු ඇල්පිටිය මූලික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කර ඇති බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+It is reported that the driver was attacked by the three-wheeler in the 35th afternoon and took a knife in the area and took a cinnamon land and had taken a cinnamon land and had a money and phone he had.
 
-...
+After the driver's shirt was also fleeing the driver's shirt, the Karandeniya police have been informed about this after the incident.
+
+The injured driver was then admitted to the ICU of the Ilpitiya Base Hospital, "Ada Derana reporter said.
+
+The injured was a 62 year old resident of the Elpitiya Tringwatta area in Elpitiya and the Karandeniya police are conducting further investigations.
+
+◼️
 
 [Data](articles/d262fa47.json)
+
+[Extended Data](ext_articles/d262fa47.ext.json)
 
 ---
 
@@ -2011,131 +2181,5 @@ In the second year of the Technical Faculty of the same university, a student fe
 [Data](articles/6afc75cc.json)
 
 [Extended Data](ext_articles/6afc75cc.ext.json)
-
----
-
-### A warning of the weather
-
-*2024-03-10 17:27:39* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණයෙන්--අනතුරු-ඇඟවීමක්/11-408520) · `si`
-
-The Meteorological Department warns of warm weather in West, North Western, Southern, Sabaragamuwa, and Mannar districts tomorrow.
-
-🟩
-
-The Department of Meteorological Department has issued a hurry warning announcement on warm weather conditions for several areas, as applicable to tomorrow (11).
-
-According to it, the warm quality of some places in the West, North Western, Southern and Sabaragamuwa and Mannar districts will be paid to tomorrow.
-
-◼️
-
-[Data](articles/e66c67eb.json)
-
-[Extended Data](ext_articles/e66c67eb.ext.json)
-
----
-
-### Heat advisory issued warning of rising temperatures
-
-*2024-03-10 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97854/heat-advisory-issued-warning-of-rising-temperatures) · `en`
-
-The Department of Meteorology has issued a heat index advisory for tomorrow (11) cautioning the public of rising atmospheric temperatures at some places in North-western, Western, Southern and Sabaragamuwa provinces and in the Anuradhapura and Mannar districts.
-
-“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, Western, Southern and Sabaragamuwa provinces and in Mannar District”, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps, the Department warned.
-
-Thus, members of the public have been advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They were also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/1b5eb252.json)
-
-[Extended Data](ext_articles/1b5eb252.ext.json)
-
----
-
-### Presidential Election: CWC Action Results
-
-*2024-03-10 17:11:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜனாதிபதி-தேர்தல்-இ-தொ-கா-அதிரடி-முடிவு/76-334462) · `ta`
-
-CWC supports Ranil Wickremesinghe for president if he addresses housing, salary, and land rights for plantation workers. CWC also emphasizes women's rights and professional rights in plantation industry.
-
-🟩
-
-The Ceylon Workers Congress will decide on whom to support the next presidential election. Jeevan Thondaman, the General Secretary of the CWC and the Minister of Water Resources and Plantation Infrastructure Development, said that the demands put forward by our party have been met and Ranil Wickremesinghe can support him if he is contesting the next presidential election.
-
-The Women's Day Events of the Women's Congress and the party's deputy leader of the party, Mrs. Anushiya Sivarajah, the vice president of the women's team and the former chairman of the Maskeliya Pradeshiya Sabha, Mrs. Senpakavalli, "expedited the economy through the reinforcement". The campus auditorium was held on Sunday (10).
-
-He said this while addressing the gathering, Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Supply and Estate Infrastructure Development.
-
-...
-
-[Data](articles/5ba2222d.json)
-
-[Extended Data](ext_articles/5ba2222d.ext.json)
-
----
-
-### Suspect arrested for fire to a woman
-
-*2024-03-10 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194352) · `si`
-
-A 42-year-old from Katukurunda, Moratuwa, was arrested for setting fire to a woman. The arrest occurred during an investigation in the Egoduyiyana police domain on February 25, 2022.
-
-🟩
-
-Police have arrested a person with a suspect involved in a woman to set fire to a woman.
-
-The arrested was a 42 year old resident of Katukurunda, Moratuwa.
-
-The suspect was arrested during a investigation carried out by a woman in the Egoduyiyana police domain in February 25, 2022.
-
-◼️
-
-[Data](articles/6494c0ba.json)
-
-[Extended Data](ext_articles/6494c0ba.ext.json)
-
----
-
-### 22 Indian fishermen nabbed with 3 trawlers in Sri Lankan waters
-
-*2024-03-10 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/22-Indian-fishermen-nabbed-with-3-trawlers-in-Sri-Lankan-waters/108-278559) · `en`
-
-Colombo, March 10 (Daily Mirror)- The Sri Lanka Navy has apprehended 22 Indian fishermen along with three Indian trawlers while poaching in Sri Lankan waters off the Kovilan Lighthouse in Kareinagar.
-
-The Navy said they were arrested during a special operation to chase away Indian poaching trawlers from Sri Lankan waters last night and this morning.
-
-They said the seized trawlers togethers with 22 Indian fishermen were brought to the Kankesanthurai Harbour and will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
-
-With this recent apprehension, the Navy has seized a total of 15 Indian poaching trawlers and 110 Indian fishermen in Sri Lankan waters in 2024,the Navy said.
-
-The Navy said they continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
-
-◼️
-
-[Data](articles/70e05ea3.json)
-
-[Extended Data](ext_articles/70e05ea3.ext.json)
-
----
-
-### Audda was arrested for selling drugs to school children
-
-*2024-03-10 17:04:17* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්ට-මත්-ගුලි-විකුණු-නැන්දා-අත්තඩංගුවට/11-408519) · `si`
-
-A 55-year-old woman arrested for selling Ayurvedic medicine to school children, with the case referred to Agalawatta Police.
-
-🟩
-
-A (55) a woman has been arrested by a 55-year-old woman with a large number of academic packets of Tamil medicine.
-
-According to the concept of the Yaththawatta the concept of the Yaththalawatta, all Ayurvedic pharmaceuticals to the Aylawatta Police have been addressed to Agalawatta Police.
-
-◼️
-
-[Data](articles/8e504d6e.json)
-
-[Extended Data](ext_articles/8e504d6e.ext.json)
 
 ---

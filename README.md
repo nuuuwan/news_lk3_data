@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 17:33:50**
+As of **2024-03-11 17:53:48**
 
 ## Newspaper Stats
 
-*Scraped **12,180** Articles*
+*Scraped **12,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,63 @@ adaderanalk | 1,473
 tamilmirrorlk | 1,487
 virakesarilk | 1,669
 dailymirrorlk | 1,862
-adaderanasinhalalk | 1,925
+adaderanasinhalalk | 1,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,178 (100.0%) of 12,180 articles have been extended.
+12,180 (100.0%) of 12,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### උෂ්ණත්වය අවදානම් මට්ටමට යයි
+### විහාරස්ථානයක වෙඩි තැබීමක්
+
+*2024-03-11 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194389) · `si`
+
+මහියංගනය ප්‍රදේශයේ පිහිටි විහාරස්ථානයකට ඊයේ රාත්‍රියේ වෙඩි ප්‍රහාරයක් එල්ලවී තිබේ.
+
+විහාරාධිපති හිමි වන පූජ්‍ය පොල්පැලකැටියේ පඤ්ඤරතන විහාරාධිපති හිමියන් වැඩ විසූ ආවාස කුටියට කිසිවෙකු මෙලෙස වෙඩිතබා ඇත.
+
+ඒ විහාරාධිපති හිමියන් ඊයේ රාත්‍රියේ පිංකමක් සඳහා සහභාගී වී නැවත වැඩමකොට තම කුටියේ සැතපී සිටියදී මෙම වෙඩිතැබීම සිදුව තිබේ.
+
+රාත්‍රී 12.30ට පමණ කිසියම් පිරිසක් ආවාස කුටියේ ජනේලය දෙසින් වෙඩි ප්‍රහාරය එල්ල කර තිබූ අතර ඉන් විහාරාධිපතිහිමියන්ට හානියක් සිදුව නොමැත.
+
+සිද්ධිය සම්බන්ධයෙන් ස්ථානීය පරීක්ෂණය දෙහිඅත්තකණ්ඩිය අපරාධ ස්ථාන පරීක්ෂණ නිලධාරීන් සිදුකර ඇතිඅතර සැකකරුවන් සොයා පොලිස් විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/5f9b47de.json)
+
+---
+
+### Temperature goes at risk
 
 *2024-03-11 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194388) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of high temperatures in Western, North Western, Southern, and Sabaragamuwa provinces, advising workplaces to ensure adequate water and shade, and cautioning against leaving adults and the sick alone in vehicles.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්මේන්තුව සඳහන් කරන්නේ, බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර, මන්නාරම, ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන සඳහා උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+🟩
 
-අද (11) පස්වරු 4.00 නිකුත් කරන ලද එම නිවේදනය හෙට (12) දිනය දක්වා වලංගු වන බව එම දෙපාර්මේන්තුව සඳහන් කරයි.
+The Department of Meteorology announces that the temperature of several parts of the island will continue to focus on a level of focus.
 
-මේ අතර වැඩබිම් තුළ සිටින පුද්ගලයින් ප්‍රමාණවත් ලෙස ජලය පානය කරන්න ලෙසත් සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+The department refers to the Western, North Western, Southern and Sabaragamuwa provinces and in the North Western and Sabaragamuwa provinces.
 
-එම දෙපාර්තමේන්තුව ඉල්ලා සිටින්නේ, නිවෙස් තුළ සිටින වැඩිහිටි සහ රෝගී පුද්ගලයින් පිළිබඳ සැලකිලිමත් වෙන ලෙසත් වාහන තුළ කුඩා ළමුන් තනිවම රඳවා නොයන ලෙසත්ය.
+The announcement issued by 4.00 pm today (11) will be valid until tomorrow (12).
 
-එළිමහනේ සිටින පුද්ගලයින් අධික වෙහෙසකාරී කටයුතු සීමා කරන ලෙසත් සෙවණ ඇති ස්ථානවල රැඳෙන ලෙසත් ප්‍රමාණවත් ජලය පානය කරන ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටියි.
+Meanwhile, the Department of Meteorology requests the people in the workplaces to drink adequate water and rest in the shade.
+
+The department demands concern to adult and sick people in the homes and not to be held alone in the vehicles.
+
+The Department of Meteorology also requests that the people in the outdoors are to be limited to the shade.
 
 ◼️
 
 [Data](articles/e9321830.json)
+
+[Extended Data](ext_articles/e9321830.ext.json)
 
 ---
 
@@ -71,6 +97,8 @@ Police, including members of the Special Task Force (STF), subsequently interven
 ...
 
 [Data](articles/d27acd69.json)
+
+[Extended Data](ext_articles/d27acd69.ext.json)
 
 ---
 
@@ -2319,25 +2347,5 @@ The SLPP raised similar concerns on a previous occasion too in this regard
 [Data](articles/38ab228c.json)
 
 [Extended Data](ext_articles/38ab228c.ext.json)
-
----
-
-### Change from normal judicial practice observed in two appeal cases
-
-*2024-03-11 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-from-normal-judicial-practice-observed-in-two-appeal-cases/108-278618) · `en`
-
-A twist from normal judicial practice is observed in two appeal cases that are being heard before the Colombo High Court.
-
-In these two cases, the present High Court Judge is assigned to hear the two appeals against his own judgments given as a Magistrate of the Colombo Magistrate's Court.
-
-The appellant accused in the High Court cases, Malagalage Dona Jayatu Nissanka Sirisena had filed two revision applications under numbers MCHCB 84/22 and MCHCB 88/22 before the Colombo High Court against two judgments given by the then Magistrate W.P.S. Nissanka in two Magistrates' Court cases Nos. 33924/6 and 33925/6 on January 13, 2022, against the accused Sirirsena.
-
-The accused Sirisena, dissatisfied with the judgment of Magistrate Nissanka, filed two revision applications against the Magistrate’s judgment in the Colombo High Court.
-
-...
-
-[Data](articles/e2980ef0.json)
-
-[Extended Data](ext_articles/e2980ef0.ext.json)
 
 ---

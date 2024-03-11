@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 16:17:35**
+As of **2024-03-11 16:33:37**
 
 ## Newspaper Stats
 
-*Scraped **12,168** Articles*
+*Scraped **12,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 663
 adalk | 1,034
 adaderanalk | 1,470
 tamilmirrorlk | 1,485
-virakesarilk | 1,665
+virakesarilk | 1,666
 dailymirrorlk | 1,862
 adaderanasinhalalk | 1,922
 
@@ -26,91 +26,59 @@ adaderanasinhalalk | 1,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,159 (99.9%) of 12,168 articles have been extended.
+12,168 (100.0%) of 12,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### කොම්පඤ්ඤවීදියේ උණුසුම් තත්ත්වයක්
+### மன்னாரில் மாணவனை காணவில்லை ; பொதுமக்களின் உதவியை நாடும் பெற்றோர்!
+
+*2024-03-11 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178445) · `ta`
+
+மன்னார் நானாட்டான் பிரதேச செயலகப் பிரிவில் உள்ள அச்சங்குளம் கிராமத்தில் வசிக்கும் சந்திரசேகர் நிலோஜ் ரோக்க்ஷன் (வயது 17) என்ற மாணவன் காணாமல் போயுள்ளார்.
+
+நேற்று ஞாயிற்றுக்கிழமை (10) மதியம்  மதியம் அச்சங்குளம் கிராமத்தில் உள்ள தனது வீட்டில் இருந்து வெளியில் சென்ற நிலையிலே இந்த மாணவன் இது வரை வீடு திரும்பவில்லை என பெற்றோர் முருங்கன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+
+காணாமல் போன மாணவன் நானாட்டான் பிரதேசத்தில் உள்ள பிரபல பாடசாலையில்  உயர் தரத்தில் கல்வி கற்று வருவதாக தெரிய வருகின்றது.
+
+குறித்த மாணவன் பற்றிய தகவல் தெரிந்தவர்கள் 077-4722506 என்ற இலக்கத்துடன் தொடர்பு கொள்ளுமாறு பெற்றோர் கேட்டுக் கொண்டனர்.
+
+◼️
+
+[Data](articles/414ee24a.json)
+
+---
+
+### There is a hot situation in Slave Island
 
 *2024-03-11 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194385) · `si`
 
-කොම්පඤ්ඤවීදිය දුම්රිය මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් සහ කොම්පඤ්ඤවීදිය ලේක් සයිඩ් මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් අතර තාප්පයක් සම්බන්ධයෙන් ඇතිවූ ආරවුලක් දුරදිග යාමෙන් මෙම උණුසුම් තත්ත්වය ඇතිවිය.
+Residents of Slave Island and Lake Side Apartment Complex clashed, leading to protests against a railway line. The police intervened, resolving the conflict and arresting the protesters.
 
-මෙහිදී කොම්පඤ්ඤවීදිය ලේක් සයිඩ් මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් විසින් ඔවුන්ගේ ප්‍රවේශ මාර්ගය හරස්කොට ඉදිකර ඇති බව පවසමින් තාප්පය කඩා ඉවත් කිරීමට පියවර ගෙන තිබුණි.
+🟩
 
-ඒ සමගම එයට විරෝධය පළකරමින් කොම්පඤ්ඤවීදිය දුම්රිය මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් විසින් දුම්රිය මාර්ගය හරස් කරමින් විරෝධතාවයක් ආරම්භ කළේය.
+The hot situation was caused by the residents of Slave Island and the residents of Slave Island Lake Side Apartment Complex.
 
-මේ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට ද සුළු වේලාවක් බාධා එල්ලවිය.
+Steps were demolished by the residents of Lake Side Apartment Complex in Slave Island Lake Side apartment complex.
 
-කෙසේ වෙතත් එම ස්ථානයට පොලීසිය පැමිණීමත් සමග තත්ත්වය සමනය වූ අතර පසුව එම දෙපාර්ශ්වයම නියෝජනය කරමින් කණ්ඩායම් දෙකක් පොලීසිය වෙත කැඳවාගෙන යනු ලැබීය.
+At the same time, the Slave Island Railway Apartment Completed Slave Island Station Apartment Completed a protest against the railway line.
+
+As a result, the railway operation on the coast will also be interrupted.
+
+However, with the arrival of the police, however, the situation was allocated and the two groups representing both parties were taken to the police.
 
 ◼️
 
 [Data](articles/b3a0d25e.json)
 
----
-
-### Air rifles issued to farmers to prevent crop damage by animals
-
-*2024-03-11 16:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-rifles-issued-to-farmers-to-prevent-crop-damage-by-animals/108-278635) · `en`
-
-Colombo, March 11 (Daily Mirror) - Steps have been taken to provide 1,000 air rifles this year to farmers to prevent crop damage caused by animals, the Agriculture and Plantation Industries Ministry said.
-
-A research conducted by the Hector Kobbekaduwa Agricultural Research and Training Institute has confirmed that 30–40 percent of the crops are currently being damaged by Toque monkeys, monkeys, giant squirrels and peacocks.
-
-Although the Ministry has requested that the Animal Friendly Associations suggest alternative paths to prevent damage from wild animals, so far not a single positive alternative has been presented.
-
-The decision was taken following requests from farmers to provide at least air rifles to save their crops from these animals.
-
-Following the instructions of Minister Mahinda Amaraweera, the Sri Lanka Hadabima Authority took steps to implement this programme.
-
-...
-
-[Data](articles/23cf0f28.json)
-
----
-
-### முல்லைத்தீவில் கேரளா கஞ்சாவுடன் பெண்ணொருவர் கைது
-
-*2024-03-11 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178443) · `ta`
-
-முல்லைத்தீவில் இன்று திங்கட்கிழமை (11) கேரளா கஞ்சாவுடன் தாழையடி பகுதியினைச் சேர்ந்த இளம் பெண்ணொருவரை முல்லைத்தீவு பொலிஸார் கைது செய்துள்ளனர்.
-
-இன்றைய தினம்  காலை 11.30 மணியளவில் இடம்பெற்ற கைது சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,
-
-வட்டுவாகல் பாலத்திற்கு அருகில் இராணுவத்தினர், விஷேட அதிரடி படையினர், பொலிஸார் இணைந்து விஷேட சோதனை நடவடிக்கையினை மேற்கொண்ட போதே குறித்த பெண் கைது செய்யப்பட்டுள்ளார்.
-
-மன்னாரிலிருந்து முல்லைத்தீவு நோக்கி பயணித்த தனியார் பஸ்ஸினை வழிமறித்து சோதனையை மேற்கொண்ட போது குறித்த பெண்ணிடமிருந்த கைப்பையில் 500 கிராம் கேரளா கஞ்சாவினை வைத்து கடத்தி செல்ல முற்பட்ட சமயத்தில் ஆனையிறவு தாழையடி பகுதியை சேர்ந்த 27 வயதுடைய பெண்ணை கைது செய்துள்ளனர்.
-
-◼️
-
-[Data](articles/75619bd3.json)
-
----
-
-### நூல்களை எழுதுவதை விட கோட்டாபய தான் இழைத்த குற்றங்களிற்காக சட்ட நடவடிக்கைகளை எதிர்கொள்ளவேண்டும் - பினான்சியல் டைம்ஸ் ஆசிரிய தலையங்கம்
-
-*2024-03-11 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178441) · `ta`
-
-ஜனாதிபதி பதவியிலிருந்து என்னை அகற்றுவதற்கான சதி என்ற முன்னாள் ஜனாதிபதி கோட்டாபயவின் நூல் குறி;த்து பலர் தற்போது பேசுகின்றனர் கருத்து வெளியிடுகின்றனர்.
-
-நூலின் பெயர் குறிப்பிடுவது போல பதவியிலிருந்து அகற்றப்பட்ட தலைவரினால் தெரிவிக்கப்படும் அனைத்தும் உண்மைக்கு தொலைவில் இருந்தாலும்  இந்த நூல் சில சுவாரஸ்யமான வாசிப்பை உருவாக்குகின்றது.
-
-இது இந்த அற்ப விடயத்தை எவரும் வாங்கவேண்டும் -தான் ஏற்படுத்திய துயரத்தை நூலாக்கி அதன் மூலம் பணம் சம்பாதிப்பதற்கு தகுதியற்ற நபரை வளப்படுத்துவதற்கான ஒப்புதல் இல்லை
-
-கோட்டாபய ராஜபக்ச வெளியேறவேண்டும் என மாத்திரமல்லாமல்  முழுமையான அமைப்புமுறை மாற்றத்தை முன்னிறுத்தி ஆயிரக்கணக்கான மக்கள் வீதிக்கு இறங்கிய போராட்டம் தற்போது ஒரு வெளிப்படையான சர்வதேச சதி-அந்த நெருக்கடியான தருணத்தில் தூதுவர்கள் இராணுவமுகாம்கள் போன்றவற்றிற்கு சென்று இராணுவத்தின் உயர் அதிகாரிகளுடன் உரையாடியதை தவிர இந்த குற்றச்சாட்டுகளை  நிரூபிப்பதற்கான உறுதியான ஆதாரங்கள் கோட்டபய ராஜபக்சவிடம் அவரின் நிழல் எழுத்தாளர்களிடம் இல்லை.
-
-...
-
-[Data](articles/66f409cc.json)
+[Extended Data](ext_articles/b3a0d25e.ext.json)
 
 ---
 
 ### Student death of Marathon;Tension in front of the hospital in Siroil
 
-*2024-03-11 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
+*2024-03-11 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
 
 A 16-year-old student died after a Marathon in Tirukovil, leading to protests and tension. Initially treated at Tirukovil hospital, he was transferred to Akkaraipattu Base Hospital due to inadequate medical equipment. Police are investigating.
 
@@ -133,6 +101,80 @@ Students and youth are protesting in front of the hospital's resource hospital a
 [Data](articles/7dca2866.json)
 
 [Extended Data](ext_articles/7dca2866.ext.json)
+
+---
+
+### Air rifles issued to farmers to prevent crop damage by animals
+
+*2024-03-11 16:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-rifles-issued-to-farmers-to-prevent-crop-damage-by-animals/108-278635) · `en`
+
+Colombo, March 11 (Daily Mirror) - Steps have been taken to provide 1,000 air rifles this year to farmers to prevent crop damage caused by animals, the Agriculture and Plantation Industries Ministry said.
+
+A research conducted by the Hector Kobbekaduwa Agricultural Research and Training Institute has confirmed that 30–40 percent of the crops are currently being damaged by Toque monkeys, monkeys, giant squirrels and peacocks.
+
+Although the Ministry has requested that the Animal Friendly Associations suggest alternative paths to prevent damage from wild animals, so far not a single positive alternative has been presented.
+
+The decision was taken following requests from farmers to provide at least air rifles to save their crops from these animals.
+
+Following the instructions of Minister Mahinda Amaraweera, the Sri Lanka Hadabima Authority took steps to implement this programme.
+
+...
+
+[Data](articles/23cf0f28.json)
+
+[Extended Data](ext_articles/23cf0f28.ext.json)
+
+---
+
+### A woman arrested with Kerala ganja in Mullaitivu
+
+*2024-03-11 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178443) · `ta`
+
+A young woman from Kerala was arrested in Mullaitivu with Kerala ganja. The arrest occurred during a special inspection near Vattuvagal Bridge.
+
+🟩
+
+Mullaitivu police have arrested a young woman from the lowland area with Kerala ganja in Mullaitivu today (11).
+
+The arrest of the arrest that took place at 11:30 am today said,
+
+The woman has been arrested while the army, special Task Force (STF) and the police were conducting a special inspection process near the Vattuvagal Bridge.
+
+A 27 -year -old woman from the Elephant Paddy area has been arrested when a woman's handbag from Mannar to Mullaitivu has been raided.
+
+◼️
+
+[Data](articles/75619bd3.json)
+
+[Extended Data](ext_articles/75619bd3.ext.json)
+
+---
+
+### Gotabhaya has to face legal action for the crimes committed by Gotabhaya rather than writing - Pinnacical Times Editorial Editorial
+
+*2024-03-11 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178441) · `ta`
+
+Gotabhaya Rajapaksa faces legal action for crimes, including allegations of war crimes and human rights violations. His book reveals a conspiracy to remove him, but lacks evidence. Critics argue the military did not suppress civilians, and Gotabhaya misunderstood the roles of the police and military. Despite allegations, the judiciary may not provide justice for victims.
+
+🟩
+
+Many people are currently speaking on the book of former President Gotabhaya, a conspiracy to remove me from the post of President.
+
+As the name of the book, this book creates some interesting reading, though everything is revealed by the leader who has been removed from the post.
+
+This is not the approval to enrich the unworthy person to make money and thereby make the tragedy that has caused this trivial issue
+
+Gotabhaya Rajapaksa has no definitive evidence that Gotabhaya Rajapaksa has no conclusive evidence to prove these allegations, except for the exit of Gotabhaya Rajapaksa, except that the struggle of thousands of people landed on the streets of thousands of people went to the military and the military's military.
+
+As far as Gotabhaya Rajapaksa is under war crimes, the military has not intervened to suppress civilians.
+
+In his book, Gotabhaya emphasizes that Defense Secretary Kamal Gunaratne and the Chief of Staff Savendra Silva have not taken decisive action against the demonstrators.
+
+...
+
+[Data](articles/66f409cc.json)
+
+[Extended Data](ext_articles/66f409cc.ext.json)
 
 ---
 
@@ -215,6 +257,8 @@ The delegation is organized by the Ministry of New and Renewable Energy of the G
 ...
 
 [Data](articles/c1d7c243.json)
+
+[Extended Data](ext_articles/c1d7c243.ext.json)
 
 ---
 
@@ -500,6 +544,8 @@ People can criticize their own religion but not others’, according to the mini
 
 [Data](articles/eac07a3e.json)
 
+[Extended Data](ext_articles/eac07a3e.ext.json)
+
 ---
 
 ### Six months postponed to SriLankan
@@ -743,6 +789,8 @@ Speaking to reporters at an event in Kurunegala on Sunday March 10, Abeysinghe s
 ...
 
 [Data](articles/f5b1ecb7.json)
+
+[Extended Data](ext_articles/f5b1ecb7.ext.json)
 
 ---
 
@@ -1170,6 +1218,8 @@ The SEC, under the Collective Investments Code 2022 (CIS Code) has introduced th
 
 [Data](articles/1ed3d38e.json)
 
+[Extended Data](ext_articles/1ed3d38e.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -1449,6 +1499,8 @@ With the combination of governmental support, it is now possible to run the ferr
 ...
 
 [Data](articles/388bf64b.json)
+
+[Extended Data](ext_articles/388bf64b.ext.json)
 
 ---
 
@@ -2301,27 +2353,5 @@ In the scenes of Hiroshima Nagasaki in Japan, he was in the vicinity of the citi
 [Data](articles/9edb5d54.json)
 
 [Extended Data](ext_articles/9edb5d54.ext.json)
-
----
-
-### Sri Lanka rupee opens at 307.00/20 to the US dollar
-
-*2024-03-11 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-307-00-20-to-the-us-dollar-154023/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 307.00/20 to the US dollar in the spot forex market Monday, stronger from 307.30/40 Thursday, dealers said, while bond yields were slightly up.
-
-A bond maturing on 01.08.2026 was quoted at 10.90/11.00 percent from 10.85/11.00 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 12.00/10 percent.
-
-A bond maturing on 01.07.2028 was quoted at 12.20/35 percent from 12.20/40 percent.
-
-The Colombo Stock Exchange opened up; the All Share Price Index was up 0.39 percent at 11,088, the S&P SL20 was up 0.42 percent at 3,160. (Colombo/Mar11/2024)
-
-◼️
-
-[Data](articles/af52eed2.json)
-
-[Extended Data](ext_articles/af52eed2.ext.json)
 
 ---

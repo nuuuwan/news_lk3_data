@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 02:17:45**
+As of **2024-03-12 02:33:38**
 
 ## Newspaper Stats
 
-*Scraped **12,262** Articles*
+*Scraped **12,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 663
 adalk | 1,046
 adaderanalk | 1,483
 tamilmirrorlk | 1,491
-virakesarilk | 1,686
+virakesarilk | 1,687
 dailymirrorlk | 1,870
 adaderanasinhalalk | 1,935
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,246 (99.9%) of 12,262 articles have been extended.
+12,260 (100.0%) of 12,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### கோல்களை கோட்டைவிட்ட கலம்போ எவ்.சி.யை வீழ்த்தி; யூசுப் கிண்ணத்தை சுவீகரித்தது சோண்டர்ஸ்
+
+*2024-03-12 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178481) · `ta`
+
+இளம் கால்பந்தாட்ட வீரர்களின் ஆற்றல்களை வெளிக்கொண்டுவரும் குறிக்கோளுடன் ஆர். புவனேந்திரன் தலைமையிலான சிட்டி புட்போல் லீக் நடத்திய 19 வயதுக்குட்பட்டோருக்கான யூசுப் கிண்ண கால்பந்தாட்டப் போட்டியில் சோண்டர்ஸ் கழகம் சம்பியனானது.
+
+சிட்டி லீக் மைதானத்தில் ஞாயிற்றுக்கிழமை (09) ஆரம்பம் முதல் கடைசிவரை பரபரப்பையும் விறுவிறுப்பையும் தோற்றுவித்த கலம்போ எவ்.சி.யுடனான இறுதிப் போட்டியில் 1 - 0 என்ற கோல் வித்தியாசத்தில் சோண்டர்ஸ் கழகம் வெற்றிபெற்று சம்பியன் ஆனது.
+
+போட்டியின் 10ஆவது நிமிடத்தில் கலம்போ எவ்.சி. வீரர் உமர் ஷக்கில், வெறுமையாக  இருந்த கோலை நோக்கி பந்தை உதைத்தார். ஆனால், மின்னல் வேகத்தில் செயற்பட்ட சோண்டர்ஸ் பினகள வீரர் ஏ.எஸ்.என். நிவன்த தனது முழங்களால் பந்தை வெளியே நோக்கி திசை திருப்பினார்.
+
+24ஆவது நிமிடத்தில் எம். முபாஸ்ஸல் போட்ட கோல், சோண்டர்ஸின் சம்பியன் பட்டத்தைத் தீர்மானிக்கும் கோலாக அமைந்தது.
+
+கலம்போ எவ்.சி. கோல் எல்லையில் சுமார் 8 யார் தூரத்திலிருந்து முபாஸ்ஸல் மிகவும் பலமாக உதைத்த பந்து கோல் காப்பாளர் ஹபீலின் உள்ளங்கைகளுக்கு மேலாக சென்று கோலினுள் புகுந்தது.
+
+...
+
+[Data](articles/2299d0e1.json)
+
+---
 
 ### Janaka Ratnayake open to supporting better Presidential candidate
 
@@ -51,6 +71,8 @@ Presidential hopeful and former Chairman of the Public Utilities Commission of S
 ...
 
 [Data](articles/e1456292.json)
+
+[Extended Data](ext_articles/e1456292.ext.json)
 
 ---
 
@@ -74,6 +96,8 @@ Addressing a press conference in Colombo, Senasinghe remarked that President Ran
 
 [Data](articles/5bf7b856.json)
 
+[Extended Data](ext_articles/5bf7b856.ext.json)
+
 ---
 
 ### Harak Kata remanded till 26 April
@@ -90,41 +114,61 @@ At the onset of the inquiry before the High Court inquiry, the State Counsel who
 
 [Data](articles/9ffafb5a.json)
 
+[Extended Data](ext_articles/9ffafb5a.ext.json)
+
 ---
 
-### முல்லைத்தீவில் யானை தாக்குதலுக்கு இலக்காகி ஒருவர் பலி
+### Elephant attack in Mullaitivu
 
 *2024-03-12 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178480) · `ta`
 
-முல்லைதீவு அம்பகாமம் பழைய கண்டிவீதி பகுதியில் பகல் வேளை வீதியால் சென்று கொண்டிருந்த நபரை யானை தாக்கி உள்ளது.
+An elephant attacked a 62-year-old man in Mullaitivu's old Kandividi area, leading to his death. Mankulam police are investigating.
 
-கரிப்பட்ட முறிப்பு அம்பகாமத்தினை சேர்ந்த முத்துத்தம்பி கிருஸ்ணசாமி 62 அகவையுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-மாங்குளம் பொலிசார் விசாரணைகளை மேற்கொண்டு வருகின்றார்கள் சம்பவ இடத்திற்கு வருகை தந்த முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதி S.H.மஹரூஸ் சம்பவ இடத்திற்கு வருகைதந்து உடலத்தை முல்லைத்தீவு மாவட்ட மருத்துவமனை கொண்டு சென்று பிரேத பரிசோதனைகளின் பின்னர் உறவினர்களிடம் ஒப்படைக்க உத்தரவிட்டுள்ளார்.
+The elephant has attacked a person who was traveling in the daytime road in the old Kandividi area of Mullaitivu Ambagamam.
+
+Muthuthambi Krishnasamy from Ambakamathi, 62, has died.
+
+Mankulam police are conducting investigations.
 
 ◼️
 
 [Data](articles/e5dd62e7.json)
 
+[Extended Data](ext_articles/e5dd62e7.ext.json)
+
 ---
 
-### பரபரப்பான 4ஆம் நாளில்  அவுஸ்திரேலியாவை வெற்றிக்கு இட்டுச் சென்ற கேரி-மாஷ் ஜோடி
+### Gary-Mash pair who led Australia to victory on the 4th day
 
 *2024-03-12 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178479) · `ta`
 
-கிறைஸ்ட்சேர்ச், ஹெக்லி ஓவல் விளையாட்டரங்கில் மூன்றரை நாட்களில் நிறைவுக்கு வந்த, ஆனால் பரபரப்பை ஏற்படுத்திய  அவுஸ்திரேலியாவுக்கும் நியூஸிலாந்துக்கும் இடையிலான 2ஆவது டெஸ்ட் கிரிக்கெட் போட்டியில் 3 விக்கெட்களால் வெற்றியீட்டிய அவுஸ்திரேலியா தொடரை 2 - 0 என முழுமையாகக் கைப்பற்றியது.
+Australia won the 2nd Test against NZ by 3 wickets, thanks to a 140-run partnership in the 6th wicket by Mash & Gary. New Zealand scored 372 in its 2nd innings.
 
-போட்டியில் 279 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி தனது இரண்டாவது இன்னிங்ஸை மூன்றாம் நாள் பிற்பகல் ஆரம்பித்த அவுஸ்திரேலியா அன்றைய தினம் 4 முக்கிய விக்கெட்களை இழந்து 77 ஓட்டங்களைப் பெற்று இக்கட்டான நிலையில் இருந்தது.
+🟩
 
-இதன் காரணமாக எந்த அணியும் வெற்றிபெறலாம் என்ற நிலை நான்காம் நாள் ஆட்டத்தின் ஆரம்பத்தில் இருந்தது.
+The Australia series won the 2nd Test match between Australia and New Zealand, which was concluded in the Hegli Oval Stadium in the Hegli Oval Stadium, but won by 3 wickets in the 2nd Test match.
 
-தனது இரண்டாவது இன்னிங்ஸை நான்காம் நாளான திங்கட்கிழமை (09) காலை  தொடர்ந்த அவுஸ்திரேலியா, ட்ரவிஸ் ஹெட்டின் விக்கெட்டை 2ஆவது ஓவரில் இழந்து மேலும் சிக்லை எதிர்கொண்டது.
+Australia started their second innings on the third day of the match to win the match by 279 runs and Australia lost 4 major wickets that day and scored 77 runs.
 
-ஆனால், மிச்செல் மாஷ், அலெக்ஸ் கேரி ஆகிய இருவரும் நிதானம் கலந்த வேகத்துடன் துடுப்பெடுத்தாடி 6ஆவது விக்கெட்டில் 140 ஓட்டங்களைப் பகிர்ந்து அவுஸ்திரேலியாவுக்கு நம்பிக்கையை ஏற்படுத்தினர்.
+As a result, the fourth day of the match was the beginning of the match.
+
+Australia lost their second innings on the fourth day on Monday morning (09) and lost the wicket of Travis Hett in the second over.
+
+However, Michelle Mash and Alex Gary scored 140 runs in the 6th wicket and gave Australia hope.
+
+Michelle Mash got 80 runs with 10 pounds, one six. (220 - 6 wig.)
+
+However, Alex Car and team captain Pet Kamins patiently bowled and shared 61 runs in the 8th wicket, which confirmed Australia's victory.
+
+Alex Gary did not lose the game with 98 runs, including 15 pounds and 32 runs, including Pet Commins 4.
 
 ...
 
 [Data](articles/be120a2a.json)
+
+[Extended Data](ext_articles/be120a2a.ext.json)
 
 ---
 
@@ -188,6 +232,8 @@ With its operations in Bangladesh seeing continued expansion, including the open
 
 [Data](articles/368fe4cd.json)
 
+[Extended Data](ext_articles/368fe4cd.ext.json)
+
 ---
 
 ### Civil rights activists protest outside CBSL over salary hike
@@ -208,6 +254,8 @@ He also alleged Dr. Weerasinghe of implementing policies that disproportionately
 
 [Data](articles/63b2b11b.json)
 
+[Extended Data](ext_articles/63b2b11b.ext.json)
+
 ---
 
 ### High level Malaysian delegation visits Oceanpick Sustainable Seafood Farm
@@ -219,6 +267,8 @@ From left: Oceanpick Ltd., Founder and Managing Director Irfan Thassim,  Malays
 ...
 
 [Data](articles/8ce14ce3.json)
+
+[Extended Data](ext_articles/8ce14ce3.ext.json)
 
 ---
 
@@ -235,6 +285,8 @@ As a purpose-led organisation focused on ‘Nourishing the Nation’, Serendib M
 ...
 
 [Data](articles/19080f3c.json)
+
+[Extended Data](ext_articles/19080f3c.ext.json)
 
 ---
 
@@ -316,6 +368,8 @@ Central Bank of Sri Lanka’s long endeavour to establish an International Trans
 
 [Data](articles/50ce4798.json)
 
+[Extended Data](ext_articles/50ce4798.ext.json)
+
 ---
 
 ### There is no problem traveling with President Ranil -Minister Pavithra Wanniyarachchi
@@ -357,6 +411,8 @@ The Editor has mentioned that I am in fact reputed for standing against progress
 ...
 
 [Data](articles/67c52c4f.json)
+
+[Extended Data](ext_articles/67c52c4f.ext.json)
 
 ---
 
@@ -426,6 +482,8 @@ The Online Safety law and the Anti-Terrorism Bill are two important building blo
 
 [Data](articles/953bf963.json)
 
+[Extended Data](ext_articles/953bf963.ext.json)
+
 ---
 
 ### Jobs of 6,000 employees uncertain if SriLankan unable to show progress within six months: Minister
@@ -466,6 +524,8 @@ The Speaker stated that this has made it possible to further strengthen democrac
 
 [Data](articles/97b885c2.json)
 
+[Extended Data](ext_articles/97b885c2.ext.json)
+
 ---
 
 ### Hour of the heroic truth teller
@@ -483,6 +543,8 @@ In his recent update to Parliament on the nation’s economy, President Wickreme
 ...
 
 [Data](articles/3012c037.json)
+
+[Extended Data](ext_articles/3012c037.ext.json)
 
 ---
 
@@ -2209,33 +2271,5 @@ The need to ensure new quality productivity to suit regional identity was emphas
 [Data](articles/7655a5f6.json)
 
 [Extended Data](ext_articles/7655a5f6.ext.json)
-
----
-
-### Change on China
-
-*2024-03-11 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194384) · `si`
-
-The 14th Chinese People's Congress concluded with a focus on new quality productivity, strategic capacity in new fields, and modern techniques for regional identity. Critics highlight the government's determination to meet challenges.
-
-🟩
-
-The second session of the 14th Chinese People's Congress successfully concludes.
-
-The concludation ceremony was held at the Public Large Hall of Beijing this afternoon.
-
-Around 2900 people of Chinese Communist Party and the Chinese Communist Party and the Chinese Communist Party and the National People's Congress as well as 2900 people of the National People's Congress joined the session.
-
-The Government's work report presented at the beginning of the convention was attributed to the Government's work.
-
-The need to ensure new quality productivity to suit regional identity was emphasized in this year's session.
-
-The President, who joined the session to attend the session, the President has also shown that the various levels of various levels across the country should be implemented through modern techniques to suit the country's real standards.
-
-...
-
-[Data](articles/991b1a82.json)
-
-[Extended Data](ext_articles/991b1a82.ext.json)
 
 ---

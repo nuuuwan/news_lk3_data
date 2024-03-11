@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 12:17:47**
+As of **2024-03-11 12:33:14**
 
 ## Newspaper Stats
 
-*Scraped **12,100** Articles*
+*Scraped **12,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 631
 islandlk | 662
-adalk | 1,025
-adaderanalk | 1,463
-tamilmirrorlk | 1,476
-virakesarilk | 1,649
-dailymirrorlk | 1,854
-adaderanasinhalalk | 1,909
+adalk | 1,026
+adaderanalk | 1,464
+tamilmirrorlk | 1,477
+virakesarilk | 1,650
+dailymirrorlk | 1,855
+adaderanasinhalalk | 1,911
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,100 (100.0%) of 12,100 articles have been extended.
+12,100 (99.9%) of 12,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Water supply to be restricted if arid weather continues?
+
+*2024-03-11 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97866/water-supply-to-be-restricted-if-arid-weather-continues) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) has requested the public to use water sparingly in light of the prevailing arid weather conditions.
+
+Deputy General Manager of the NWSDB Anoja Kaluarachchi explained that in the event the current extreme dry weather continues for the next two months, it is likely that water will have to be supplied on a shift-basis.
+
+However, she assured that sufficient water levels are currently available, and explained that the NWSDB is merely requesting the public to use water sparingly, as a precautionary measure.
+
+Kaluarachchi noted that thus far, no restriction or limitation of water supply has been implemented in any areas, and thus urged for consumes to call the 24-hour NWSDB hotline 1919 in the event such issues are experienced.
+
+◼️
+
+[Data](articles/319e75df.json)
+
+---
+
+### குடிநீர் நுகர்வு தொடர்பில் முக்கிய அறிவுறுத்தல்
+
+*2024-03-11 12:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-நுகர்வு-தொடர்பில்-முக்கிய-அறிவுறுத்தல்/175-334500) · `ta`
+
+நிலவும் வரட்சியான காலநிலை காரணமாக நீரைச் சிக்கனமாகப் பயன்படுத்துமாறு தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை மக்களைக் கோரியுள்ளது.
+
+வரட்சியான காலநிலை இரண்டு மாதங்களுக்கு மேல் நீடிக்குமாயின் நீர் வழங்கல் மட்டுப்படுத்தப்படும் என சபையின் பிரதிப் பொது முகாமையாளர் அபிவிருத்தி அனோஜா களுவாராச்சி தெரிவித்துள்ளார்.
+
+எவ்வாறாயினும், தற்போதைய நீர்மட்டம் போதுமானதாக இருப்பதாகவும், முடிந்தவரை அத்தியாவசிய தேவைகளுக்கு மட்டுமே தண்ணீரை பயன்படுத்துமாறும் அவர் கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/fc21aabe.json)
+
+---
+
+### ජාත්‍යන්තර වෙළෙඳපොළ ජයගත් නිල් කටරොළු තේ
+
+*2024-03-11 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194374) · `si`
+
+නිල් කටරොළු මල් ආශ්‍රිත නිෂ්පාදන සඳහා මේ වනවිට යුරෝපය ඇතුළු ජාත්‍යන්තර වෙළෙඳපොලෙහි ඉහළ ඉල්ලුමක් පවතී.
+
+විශේෂයෙන් නිල් කටරොළු මල් වේලා ඉන් සකසා ගන්නා නිල් කටරොළු තේ ජාත්‍යන්තර වෙළෙඳපොළ තුළ ඉහළ මිලකට අලෙවි වේ.
+
+පිලිපීනය, තායිවානය වැනි රටවල් ද මේ වනවිට මෙම වගාවට යොමු වී ඇති අතර අප රටේ වළස්මුල්ල ඔමාරගම ගමේ කාන්තාවන් 60 දෙනෙකු පමණ මේ වනවිට නිල් කටරොළු මල් වගාවට අවතීර්ණව සිටී.
+
+වේලන ලද නිල් කටරොළු මල් පුද්ගලික සමාගමක් මඟින් විදේශ රටවලට අපනයනය කරන අතර ඔවුන්ට එමඟින් විශාල ආදායමක් මාසිකව ඉපයීමට හැකි වී තිබේ.
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ඊයේ (10)  ඔමාරගම ගමේ නිල් කටරොළු මල් වගාව හා සැකසුම් මධ්‍යස්ථානය නිරීක්ෂණයට සහභාගි විය.
+
+වේලන ලද නිල් කට්රොළු මල් කිලෝ ග්‍රෑම් එකක් රුපියල් 5,000ක් වැනි මිලකට අලෙවි කරන අතර වේලන ලද නිල් කටරොළු මල් කිලෝ ග්‍රෑම් එකක් සෑදීම සඳහා අමු මල් කිලෝ ග්‍රෑම් 10ක් අවශ්‍ය බව සඳහන් වේ.
+
+...
+
+[Data](articles/832fea6b.json)
+
+---
+
+### Writ petitions against divestiture process of Lanka Hospital and SLT withdrawn
+
+*2024-03-11 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Writ-petitions-against-divestiture-process-of-Lanka-Hospital-and-SLT-withdrawn/108-278626) · `en`
+
+Colombo, March 11 (Daily Mirror) - Two writ petitions filed against the divestiture process of the Lanka Hospital Corporation PLC and Sri Lanka Telecom PLC were withdrawn before the Court of Appeal today.
+
+The petitioners Lyca Leasing Holding Limited and Lyca Mobile SARL decided to withdraw the two petitions while reserving their rights to file fresh application
+
+◼️
+
+[Data](articles/07931970.json)
+
+---
 
 ### What Leadership Qualities does Imitiaz lack that Other Party Leaders possess?
 
@@ -45,6 +115,72 @@ A political leader is a public servant dedicated to enhancing society, elected t
 [Data](articles/740ae941.json)
 
 [Extended Data](ext_articles/740ae941.ext.json)
+
+---
+
+### நாஜிகளின் வதைமுகாம் குறித்த  திரைப்படத்திற்கு ஒஸ்கர் விருது - காசா குறித்து இயக்குநர் கருத்து
+
+*2024-03-11 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178407) · `ta`
+
+ஒஸ்கர் விருதுவழங்கும் விழாவில் யூத இயக்குநர் ஜொனாதன் கிளேசர் காசா குறித்து கருத்து தெரிவித்துள்ளார்.
+
+ஹொலொகாஸ்ட் மற்றும் நாஜிகளின் வதைகள் முகாம்கள் குறித்த அவரது  The Zone of Interest  திரைப்படத்திற்கு சர்வதேச திரைப்படங்களில் சிறந்த திரைப்படத்திற்கான விருது கிடைத்துள்ளது.
+
+இந்த திரைப்படம் நாஜிவதைமுகாம்களின் தளபதியாக நீண்டகாலம் பதவிவகித்த ருடொல்வ் ஹொஸின் குடும்பத்தை  பற்றி பேசுகின்றது.
+
+1940 முதல் 43 வரை ஹிட்லரின் வதைமுகாம்களிற்கு பொறுப்பாக  ருடொல்வ் ஹொஸின் காணப்பட்டார் இந்த முகாம்களில் 1.1 மில்லியனிற்கும் அதிகமானவர்கள் கொல்லப்பட்டனர் -
+
+இந்த திரைப்படத்திற்கான விருதை பெற்றுக்கொண்டு உரையாற்றிய இயக்குநர் தனது யூததன்மையையும் ஹொலொஹாஸ்டினையும் ஆக்கிரமிப்பு தனக்கு சாதகமாக பயன்படுத்துவதை நிராகரித்தார்.
+
+...
+
+[Data](articles/e6825f67.json)
+
+---
+
+### 96th Oscar Award Ceremony: Here is the full details of the winners !!
+
+*2024-03-11 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
+
+The 96th Oscars, held at the Dolphi Theater, Los Angeles, saw "The Openhaimer" win Best Picture, directed by Christopher Nolan. Ima Stone won Best Actress for "Poor Things," and Nolan won Best Director. "The Boy and the Heron" took Best Animated Feature.
+
+🟩
+
+Oscar is the world's highest award in the film industry. Oscar Awards have been announced since 1929. Oscar is awarded in various categories including Best Film, Actor, Actress, Director and Composer.
+
+The 96th Oscar Awards were held at the Dolphi Theater in Los Angeles, USA.
+
+The film has been awarded 7 awards including Best Film, Actor, Supporter, Cinematography and Collection.
+
+Ju, who produced the atomic bomb of last year's Openhaimer movie starring Christopher Nolan. It was formed with the biography of Robert Openheimer.
+
+In the scenes of Hiroshima and Nagasaki in Japan, the Chilean Murphy was in the vicinity of the scenes that the world was destroyed and the world was destroyed.
+
+Openheimer has won the Oscar Award for Best Picture. Openheimer starrer Child Merbi directed by Christopher Nolan has won the Oscar.
+
+Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress Ima Stone has been awarded the Oscar for Best Actress for her performance in Poor Things.
+
+...
+
+[Data](articles/2925e8ba.json)
+
+[Extended Data](ext_articles/2925e8ba.ext.json)
+
+---
+
+### විදුලිබල සැපයුමට ශක්තියක්
+
+*2024-03-11 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194373) · `si`
+
+මඩකලපුවේ පොළොව මත ඉදිකළ මෙගාවොට් 2ක සූර්ය බලශක්ති ව්‍යාපෘතිය ඊයේ (10) පෙරවරුවේ විවෘත කෙරුණි.
+
+සිය X ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පවසා ඇත්තේ ලංකා විදුලිබල මණ්ඩලයේ මෙගාවොට් 90ක ටෙන්ඩර් ක්‍රියාවලිය යටතේ මෙය ඉදිකර ඇති බවය.
+
+එමෙන්ම එම ව්‍යාපෘතිය BackBay Solar Private සමාගම විසින් ක්‍රියාත්මක කරන බවද අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/dcc1ffe7.json)
 
 ---
 
@@ -117,36 +253,6 @@ However, the water level is sufficient and he requested that water is used only 
 [Data](articles/637e8e62.json)
 
 [Extended Data](ext_articles/637e8e62.ext.json)
-
----
-
-### 96th Oscar Award Ceremony: Here is the full details of the winners !!
-
-*2024-03-11 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
-
-The 96th Oscars, held at the Dolphi Theater, Los Angeles, saw "The Openhaimer" win Best Picture, directed by Christopher Nolan. Ima Stone won Best Actress for "Poor Things," and Nolan won Best Director. "The Boy and the Heron" took Best Animated Feature.
-
-🟩
-
-Oscar is the world's highest award in the film industry. Oscar Awards have been announced since 1929. Oscar is awarded in various categories including Best Film, Actor, Actress, Director and Composer.
-
-The 96th Oscar Awards were held at the Dolphi Theater in Los Angeles, USA.
-
-The film has been awarded 7 awards including Best Film, Actor, Supporter, Cinematography and Collection.
-
-Ju, who produced the atomic bomb of last year's Openhaimer movie starring Christopher Nolan. It was formed with the biography of Robert Openheimer.
-
-In the scenes of Hiroshima and Nagasaki in Japan, the Chilean Murphy was in the vicinity of the scenes that the world was destroyed and the world was destroyed.
-
-Openheimer has won the Oscar Award for Best Picture. Openheimer starrer Child Merbi directed by Christopher Nolan has won the Oscar.
-
-Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress Ima Stone has been awarded the Oscar for Best Actress for her performance in Poor Things.
-
-...
-
-[Data](articles/2925e8ba.json)
-
-[Extended Data](ext_articles/2925e8ba.ext.json)
 
 ---
 
@@ -315,6 +421,20 @@ Colombo, March 11 (Daily Mirror)- Former UNP National Organizer Navin Dissanayak
 [Data](articles/3b1bd0bd.json)
 
 [Extended Data](ext_articles/3b1bd0bd.ext.json)
+
+---
+
+### ටි56 හිස් මැගසින් හා මත්ද්‍රව්‍ය දෙහිවලින් සොයාගනී
+
+*2024-03-11 10:51:07* · [`adalk`](https://www.ada.lk/breaking_news/ටි56-හිස්-මැගසින්-හා-මත්ද්‍රව්‍ය-දෙහිවලින්-සොයාගනී/11-408529) · `si`
+
+යම් පාතාල කණ්ඩායමකට අයත්  බවට සැක කරන ටි 56 ජීව උණ්ඩ යොදන හිස් මැගසින් 16 ක් කිලෝ 3 ගෑම් 416 ක් අයිස් මත්ද්‍රව්‍ය ගෑම් 40 ක්  සමග දෙහිවල ගල් විහාර පාර නිවසක පදිංචි පුද්ගලයෙකු විශේෂ මාර්ග බාධකයකදී අත්අඩංගුවට ගත් බව දෙහිවල පොලිසිය කියයි.
+
+යුක්තියේ මෙහෙයුමට සමගාමීව දෙහිවල ගල්වල පාරේ ඊයේ (10දා) රාත්‍රී  විශේෂ මාර්ග බාධකයක් යොදා  සැකකටයුතු වාහන පරික්ෂා කිරීමේදී සැකකරු පැමිණි යතුරුපැදිය නවතා සිදු කළ පරික්ෂාවේදී එම ස්ථානයේදී ගංජා කිලෝ 2 ක් සහ අයිස් මත්ද්‍රව්‍ය  ග්‍රෑම් 40 ක් සමග අත්අඩංගුවට ගත් සැකකරු පදිංචි දෙහිවල ගල් විහාර පාරේ නිවස වටලා සිදු කළ සෝදිසි මෙහෙයුමේදී  තවත්  ගංජා කිලෝ එකයි ගෑම් 416 ක් හා ඇඳක් යට පාර්සල් තුනක බහා තිබූ මැගසින්  තොගය හමු වූ බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/599381e4.json)
 
 ---
 
@@ -2097,141 +2217,5 @@ Maha Shivaratri Saiva is one of the most important days for the Hindu people. On
 [Data](articles/a57df7e0.json)
 
 [Extended Data](ext_articles/a57df7e0.ext.json)
-
----
-
-### Who’s not moving on from ’timed-out’ celebration?
-
-*2024-03-10 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Whos-not-moving-on-from-timed-out-celebration/108-278560) · `en`
-
-Mar. 10 (Daily Mirror) - Sri Lanka secured a thrilling series win over Bangladesh on Saturday when they clinched the third T20 courtesy of a stunning hat-trick from Nuwan Thushara, but the brilliant performance from the visiting Sri Lankan team was probably overshadowed by the split opinions on the 'timed-out' celebration.
-
-Sri Lanka captain Wanindu Hasaranga, after lifting the T20 trophy at the end of the post-match presentation on Saturday, handed it to Dhananjaya de Silva, who seems to be the designated trophy holder for the team when they pose for photographs, and then, in a surprising turn of events, the whole Sri Lankan squad, including Niroshan Dickwella, who didn't even get a game, appeared to be pointing their fingers towards an imaginary watch they were wearing.
-
-...
-
-[Data](articles/1c3eb485.json)
-
-[Extended Data](ext_articles/1c3eb485.ext.json)
-
----
-
-### Amazing salary hike for CBSL: Abusing the privilege to fill one’s own plate?
-
-*2024-03-10 20:51:42* · [`dailyftlk`](https://www.ft.lk/columns/Amazing-salary-hike-for-CBSL-Abusing-the-privilege-to-fill-one-s-own-plate/4-759306) · `en`
-
-The recent huge and unparalleled salary increase taken upon themselves by the Central Bank of Sri Lanka (mis)using the independence given by the International Monetary Fund (IMF) to its staff has dumbfounded the entire nation.
-
-According to the sources attributed to the Central Bank of Sri Lanka (CBSL), the justifications for the increase were that the remunerations of the staff of CBSL were not paid out of the consolidated fund, its recent independence given by CBSL Act, No. 16 of 2023 could not be subject to question by anyone, such a hike was needed to control the brain drain and to suit the salary benchmark of other financial institutions, and it was as per the triennial collective agreement.
-
-...
-
-[Data](articles/81b80b93.json)
-
-[Extended Data](ext_articles/81b80b93.ext.json)
-
----
-
-### 27 youths arrested with drugs after police raid party
-
-*2024-03-10 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97857/27-youths-arrested-with-drugs-after-police-raid-party) · `en`
-
-Police have arrested 27 youths including 8 females for allegedly being in possession of several narcotics at a party in the Magammana area.
-
-The arrests were made during a raid carried out following a tip-off received by the Kahatuduwa Police, while it is reported that both hashish and ecstasy pills were seized from six of the arrestees.
-
-According to police, the suspects, aged between 20 and 22, have been identified as residents of Polonnaruwa, Dehiattakandiya, Galle, Kandy and Diyatalawa.
-
-Further investigations are being carried out by the Kahatuduwa Police.
-
-◼️
-
-[Data](articles/db4038c2.json)
-
-[Extended Data](ext_articles/db4038c2.ext.json)
-
----
-
-### Sajith listening to outsiders and ignoring SJB members: Ranil
-
-*2024-03-10 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-listening-to-outsiders-and-ignoring-SJB-members-Ranil/108-278568) · `en`
-
-Kuliyapitiya, March 10 (Daily Mirror) - Opposition Leader Sajith Premadasa is ignoring members of his own party and is listening to outsiders. This is why he decided not to participate in the debt restructuring process, President Ranil Wickremesinghe said today.
-
-President Wickremesinghe told a UNP rally in Kuliyapitiya that Sajith Premadasa had actually started ignoring and sidelining his own party members like Dr. Harsha de Silva.
-
-“Dr. De Silva requested me to involve the Opposition in the debt restructuring process. Accordingly, I invited the SJB to join us in meeting the IMF and the debtors. However, Premadasa informed me that his party is not willing to participate in those meetings. It was MP G.L. Peiris who has encouraged Premadasa to ignore my request. Premadasa has actually begun to ignore his own party members. The SJB is controlled by outsiders. Therefore, I invite those who opposed me in the past to join us,” the President said.
-
-◼️
-
-[Data](articles/c8655003.json)
-
-[Extended Data](ext_articles/c8655003.ext.json)
-
----
-
-### Arrested person who burned a woman
-
-*2024-03-10 20:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-தீ-வைத்து-எரித்த-நபர்-கைது/175-334467) · `ta`
-
-A 42-year-old man from Moratuwa-Katukurunda was arrested for murdering and burning a woman in a house in Ekoda Police Division on Feb 25, 2022.
-
-🟩
-
-On February 25, 2022, the suspect has been arrested in connection with the murder of a woman and burnt in a house belonging to the Ekoda Police Division.
-
-A 42 -year -old man from Moratuwa - Katukurunda area has been arrested.
-
-◼️
-
-[Data](articles/b14cfa5f.json)
-
-[Extended Data](ext_articles/b14cfa5f.ext.json)
-
----
-
-### The Tamil National Alliance to accept the President's invitation to discuss with the International Monetary Fund Representatives
-
-*2024-03-10 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178379) · `ta`
-
-The Tamil National Alliance (TNA) has accepted President Ranil Wickremesinghe's invitation to discuss with IMF representatives, with TNA President R. Sampanthan set to attend. Despite opposition from United People's Power and National People's Power, TNA will participate.
-
-🟩
-
-Sivagnanam Sreedharan has said that the Tamil National Alliance (TNA) has accepted the invitation of President Ranil Wickremesinghe to the opposition parties to discuss with representatives of the IMF.
-
-Accordingly, Tamil National Alliance (TNA) President R. Sampanthan will attend the event, he added.
-
-The President has taken steps to hold a discussion between the leaders of the opposition parties and representatives of the International Monetary Fund on Monday 11th.
-
-Although the opposition parties have been officially invited for the meeting, it is reported that the United People's Power and the National People's Power have decided not to attend.
-
-However, the Tamil National Alliance (TNA) has decided to take the relevant invitation and participate in the party's representative.
-
-◼️
-
-[Data](articles/0b95dde1.json)
-
-[Extended Data](ext_articles/0b95dde1.ext.json)
-
----
-
-### Bangladesh’s Towhid Hridoy found guilty of breaching ICC Code of Conduct
-
-*2024-03-10 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshs-Towhid-Hridoy-found-guilty-of-breaching-ICC-Code-of-Conduct/108-278567) · `en`
-
-Mar. 10 (ICC) - Bangladesh batter Towhid Hridoy was fined 15 per cent of his match fees in the third T20I.
-
-Towhid was found to have breached Level 1 of the ICC Code of Conduct during the third T20I against Sri Lanka in Sylhet on Saturday.
-
-The incident happened in the fourth over of the Bangladesh innings, when Towhid turned around after being dismissed and remonstrated aggressively and inappropriately with the Sri Lanka players.
-
-A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a 28-run win in the third T20I. With this, the Lions took the three-game T20I series 2-1. Thushara picked a hat-trick in the game, with Towhid being the second scalp in that feat.
-
-...
-
-[Data](articles/1c7eb760.json)
-
-[Extended Data](ext_articles/1c7eb760.ext.json)
 
 ---

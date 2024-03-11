@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 09:52:04**
+As of **2024-03-11 10:03:32**
 
 ## Newspaper Stats
 
-*Scraped **12,058** Articles*
+*Scraped **12,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,81 @@ islandlk | 662
 adalk | 1,020
 adaderanalk | 1,461
 tamilmirrorlk | 1,465
-virakesarilk | 1,644
+virakesarilk | 1,645
 dailymirrorlk | 1,846
-adaderanasinhalalk | 1,905
+adaderanasinhalalk | 1,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,055 (100.0%) of 12,058 articles have been extended.
+12,058 (100.0%) of 12,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### 'හරක් කටා'ව අධිකරණයට රැගෙන එයි
+### සැකකරුවන් අතරට ගිය පොලිස්පති
+
+*2024-03-11 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194368) · `si`
+
+යුක්තිය මෙහෙයුමේ දෙවැනි අදියර යටතේ නුගේගොඩ පොලිස් කොට්ඨාසයේ වැල්ලම්පිටිය පොලිස් වසමේ අද (11) අලුයම වැටලීමක් සිදුකර තිබිණි.
+
+එම වැටලීමෙන් අත්අඩංගුවට ගත් සැකකරුවන් වැල්ලම්පිටිය වෙලේවත්ත ක්‍රීඩාංගණයට ගෙන එනු ලැබූ අතර එම ස්ථානයට පොලිස්පති, දේශබන්දු තෙන්නකෝන් මහතා ද ගොස් සිටියේය.
+
+එහිදී අත්අඩංගුවට ගත් සැකකරුවන් අතර සිටි කාන්තාවකගෙන් පොලිස්පතිවරයා මෙලෙස ප්‍රශ්න කළේය.
+
+පොලිස්පතිවරයා - "ඔයා මීට කලින් කී වතාවක් පොලීසියට අහුවෙලා තියෙනවා ද?"
+
+සැකකාරිය - "ඔව් සර්. මගේ ළමයි දෙන්නට කන්න දෙන්න මට රස්සාවක් කරන්න බැහැ සර්. දනිස් ඉදිමෙනවා."
+
+පොලිස්පතිවරයා - ඔයාට බැරිද වෙන මොකක් හරි දෙයක් කරන්න. මිනිස්සුන්ට මත්ද්‍රව්‍ය අලෙවි කරන්නේ නැතුව ?
+
+සැකකාරිය - "මම ස්විප් වික්කා සර්... මට පයින් යන්න බැහැ. කකුල් ඉදිමුණා. මට කරගන්න දෙයක් නෑ."
+
+පොලිස්පතිවරයා - "ඔයාට ප්‍රශ්නේ ස්විප් ගන්න ඇවිදින්න බැරි එකද? ස්විප් දුන්නොත් විකුණන්න පුළුවන් ද? ප්‍රජා පොලීසියේ කවුද ඉන්නේ?"
+
+පොලිස්පතිවරයා - "ඔයාට පුළුවන් ද ස්විප් ටික ගේ ගාවට යවන්න වැඩපිළිවෙලක් කරන්න."
+
+...
+
+[Data](articles/dfb6ba56.json)
+
+---
+
+### வரட்சியான வானிலை ; நீர் விநியோகத்தில் ஏற்படும் தடங்கல்களை முறையிட அவசர தொலைபேசி  இலக்கம் !
+
+*2024-03-11 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178389) · `ta`
+
+நாட்டில் தொடரும் வரட்சியான வானிலையை அடுத்து நீர் விநியோகத்தில் ஏற்படும் தடங்கல்கள் மற்றும் இடையூறுகளை அறிவிக்க அவசர தொலைபேசி இலக்கமொன்றை தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை பொதுமக்களுக்கு அறிமுகப்படுத்தியுள்ளது.
+
+நாடளாவிய ரீதியில் தற்போது நிலவும் வறட்சியான வானிலையினால், தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை பல்வேறு பிரதேசங்களில் சீரான நீர் விநியோகத்தை வழங்குவதில் பல்வேறு தடைகளை எதிர்நோக்குகின்றது.
+
+அன்றாடம் நீரின் தேவை அதிகரித்துள்ளமையானது நீர் வழங்கும் நடவடிக்கையில் பல தடங்கல்களை ஏற்படுத்துவதாக தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை தெரிவிக்கின்றது.
+
+இதன் விளைவாக நாட்டின் சில பகுதிகளில் குறைந்த அழுத்தத்தில் அல்லது கட்டுப்பாடுகளுடன் நீரை விநியோகிக்க வேண்டியுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை தெரிவிக்கின்றது.
+
+...
+
+[Data](articles/a54ba2fd.json)
+
+---
+
+### 'Bundant is taken to court'
 
 *2024-03-11 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194367) · `si`
 
-නඳුන් චින්තක නොහොත් 'හරක් කටා' යන සංවිධානාත්මක අපරාධකරුවා ව මීට සුළු වේලාවකට පෙර කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන විත් තිබේ.
+"Bundant, a notorious criminal, faces court."
+
+🟩
+
+The organized criminal of the organized criminal, such as Chinthaka, or 'beef' has been brought to the Fort Magistrate's Court.
 
 ◼️
 
 [Data](articles/1794f5be.json)
+
+[Extended Data](ext_articles/1794f5be.ext.json)
 
 ---
 
@@ -57,6 +109,8 @@ President Ranil Wickremesinghe has reportedly instructed the Prime Minister to u
 ◼️
 
 [Data](articles/75ee4b9b.json)
+
+[Extended Data](ext_articles/75ee4b9b.ext.json)
 
 ---
 
@@ -144,25 +198,31 @@ To facilitate public feedback and address concerns effectively, the NWSD has int
 
 ---
 
-### කුලියාපිටියේදී ජනපති රහස් රැසක් හෙළිකරයි
+### President inspects several secretary secrets in Kuliyapitiya
 
 *2024-03-11 08:03:10* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේදී-ජනපති-රහස්-රැසක්-හෙළිකරයි/11-408524) · `si`
 
-සට්ටම්බිරාළට සහ ගොඩ පෙරකදෝරුවාට යට වී ඇති සමගි ජන බලවේගය තුළ එක්සත් ජාතික පක්ෂයේ මූලධර්ම නැහැ.
+President Ranil Wickremesinghe inspected secrets in Kuliyapitiya, criticized UNP's role in land reconciliation, and addressed a mass rally. He thanked supporters, highlighted government relief measures, and recalled UNP's economic policies.
 
-සමගි ජන බලවේගය තුළ එක්සත් ජාතික පක්ෂයේ මූලධර්ම නැති බවත්, එම පක්ෂය අද සට්ටම්බිරාළට සහ ගොඩ පෙරකදෝරුවාට යටවී අති බවත් ප්‍රකාශ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රට ණය බරින් බේරාගෙන අනාගත පරපුර වෙනුවෙන් සුරක්ෂිත රටක් ගොඩනැගීමට එක්වන ලෙස එක්සත් ජාතික පක්ෂය හැර ගොස් සමගි ජන බලවේගය සමඟ එක්වු සියලුදෙනාට ආරාධනා කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ ඊයේ (10) පස්වරුවේ කුලියාපිටිය නගර සභා ක්‍රීඩාංගණයේ පැවති එක්සත් ජාතික පක්ෂ පළමු මහජන රැළිය අමතමිනි.
+There is no principles of the United National Party (UNP) in the reconciliation of the Samagambembaramala and the land.
 
-රට වෙනුවෙන් එකතු වී වැඩ කිරීමට කැමති ජනතා හමුව “සැබෑව” තේමාව යටතේ මෙම ජන හමු මාලාව සංවිධානය කර තිබෙන අතර කුලියාපිටියේ පැවති පළමු රැළිය සදහා විශාල ජනකායක් එක්ව සිටියහ.
+President Ranil Wickremesinghe said that the UNP was not the principles of the UNP and the claim of the party to be rescued today and the UNP was brought to the secure country for the future generation today and to join the future generation.Invited.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනාධිපති ධූරයට පත්වීමෙන් පසු ඇමතූ පළමු ජන රැළිය ද මෙය වෙයි.
+President Ranil Wickremesinghe addressing the first mass rally held at Kuliyapitiya Urban Council Stadium yesterday afternoon.
 
-ජන රැළිය ඇමතීමෙන් අනතුරුව ජනතාව අතරට ගිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඔවුන් සමග සුහද කතා බහක ද නිරත විය.
+The massacre is organized under the theme of the people who want to join the country under the theme "real" and a large number of people were present at Kuliyapitiya.
+
+It is also the first rally called after President Ranil Wickremesinghe was appointed president.
+
+After addressing the masses, President Ranil Wickremesinghe went to a friendly conversation with them.
 
 ...
 
 [Data](articles/e50fd357.json)
+
+[Extended Data](ext_articles/e50fd357.ext.json)
 
 ---
 
@@ -2103,51 +2163,5 @@ The suspects had fled the area after the accident and the suspects arrested afte
 [Data](articles/e3cb43cb.json)
 
 [Extended Data](ext_articles/e3cb43cb.ext.json)
-
----
-
-### Sri Lanka expects to have nuclear power framework ready next year: Minister
-
-*2024-03-10 15:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-to-have-nuclear-power-framework-ready-next-year-minister-153967/) · `en`
-
-ECONOMYNEXT- Sri Lanka plans to complete work on a legal structure for nuclear energy by next year, backed by international expertise, and the country also needed capacity to deal with nuclear waste and skills in evaluating projects, Energy Minister Kanchana Wijesekara said.
-
-Sri Lanka also has to have procedures to handle nuclear waste and emergencies
-
-“We are hopeful that the law, the new structure, will be ready in the next year,” Minister Wijesekara told reporters on March 07.
-
-Global agencies required that legal framework be in place before a country, some agreements to be signed with atomic energy agencies.
-
-Sri Lanka should have procedures on how to dispose of nuclear waste and handle emergencies.
-
-There are certain criteria that we need to fulfil,” Minister Wijesekera said.  “So, we are in the process of doing that. So that we are able to handle nuclear waste, how we are going to dispose of it. In case of an emergency how we are going to handle it.
-
-...
-
-[Data](articles/e06a7485.json)
-
-[Extended Data](ext_articles/e06a7485.ext.json)
-
----
-
-### Strike
-
-*2024-03-10 15:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-வேலைநிறுத்தம்/175-334451) · `ta`
-
-The United Trade Union Front plans a 24-hour strike from midnight Sunday to protest the building's unrepaired power supply, affecting postal staff since a capacitor failure last year.
-
-🟩
-
-A spokesman for the United Trade Union Front said that a identification strike will be launched from midnight on Sunday (10) in protest of the lack of repairing the power supply of the building, which has been inactive for about a year.
-
-The spokesman said that the postal staff has been facing great difficulties in carrying the postage since the day of the failure of the capacitor.
-
-The spokesman said that the 24 -hour strike would be focused on the postal officers, or that further action would be taken.
-
-◼️
-
-[Data](articles/ca907f4e.json)
-
-[Extended Data](ext_articles/ca907f4e.ext.json)
 
 ---

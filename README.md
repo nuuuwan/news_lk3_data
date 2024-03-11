@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 23:52:26**
+As of **2024-03-12 00:02:50**
 
 ## Newspaper Stats
 
-*Scraped **12,236** Articles*
+*Scraped **12,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,046
 adaderanalk | 1,482
 tamilmirrorlk | 1,491
 virakesarilk | 1,680
-dailymirrorlk | 1,867
+dailymirrorlk | 1,868
 adaderanasinhalalk | 1,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,228 (99.9%) of 12,236 articles have been extended.
+12,236 (100.0%) of 12,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Jobs of 6,000 employees uncertain if SriLankan unable to show progress within six months: Minister
+
+*2024-03-11 23:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jobs-of-6-000-employees-uncertain-if-SriLankan-unable-to-show-progress-within-six-months-Minister/108-278660) · `en`
+
+Colombo, March 11 (Daily Mirror) - The jobs of about 6,000 employees are uncertain if SriLankan Airlines is unable to show progress of its operational and financial units within the next six months, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+A discussion on the current progress of the airline was held with the company administration and the trade unions at his office this morning.
+
+Sri Lanka Airlines was blamed and subjected to extensive criticism due to its constant delays in operations from time to time. The delays annoyed passengers and inconvenienced them in the recent past.
+
+Minister de Silva said the government decided to repay USD 510 million out of the USD 1.2 billion in loans borrowed from several commercial banks and other institutions to enable the airline to continue its operations.
+
+The decision was taken after a proposal made by President Ranil Wickremesinghe in his capacity as the Finance Minister.
+
+...
+
+[Data](articles/c3532323.json)
+
+---
 
 ### Five of six missing skiers found dead in Switzerland
 
@@ -51,6 +71,8 @@ Zermatt is a popular mountain resort renowned for skiing and attracts tourists f
 ◼️
 
 [Data](articles/772f833d.json)
+
+[Extended Data](ext_articles/772f833d.ext.json)
 
 ---
 
@@ -99,6 +121,8 @@ He added that Bangladesh always stands by Sri Lanka during their crisis time.
 ...
 
 [Data](articles/9c3e01cf.json)
+
+[Extended Data](ext_articles/9c3e01cf.ext.json)
 
 ---
 
@@ -920,6 +944,8 @@ ECONOMYNEXT – A decision by the cabinet to suspend parate execution, making re
 
 [Data](articles/fe7967d8.json)
 
+[Extended Data](ext_articles/fe7967d8.ext.json)
+
 ---
 
 ### Central bank employees protest against salary increase
@@ -1028,6 +1054,8 @@ The STR is supported by Sri Lanka’s Credit Information Bureau and the central 
 
 [Data](articles/fc7e1f4b.json)
 
+[Extended Data](ext_articles/fc7e1f4b.ext.json)
+
 ---
 
 ### Temperature goes at risk
@@ -1104,6 +1132,8 @@ A bond maturing on 01.07.2032 closed at 12.60/90 percent from 12.60/13.00 percen
 
 [Data](articles/44a71887.json)
 
+[Extended Data](ext_articles/44a71887.ext.json)
+
 ---
 
 ### Missed opportunity for Sri Lanka opposition to raise concerns with IMF: govt
@@ -1121,6 +1151,8 @@ According to reports, most opposition parties including the Samgi Jana Balawegay
 ...
 
 [Data](articles/6f9de8c1.json)
+
+[Extended Data](ext_articles/6f9de8c1.ext.json)
 
 ---
 
@@ -1398,6 +1430,8 @@ Top contributors to the Index included Commercial Bank (up at 94.00), Sampath Ba
 
 [Data](articles/260d001d.json)
 
+[Extended Data](ext_articles/260d001d.ext.json)
+
 ---
 
 ### Mannar 'Satosa' human burial case;Advocate Rajapaksa to appear in person
@@ -1469,6 +1503,8 @@ According to Sumanthiran the prime minister, the Leader of the House, the two st
 ...
 
 [Data](articles/653d006c.json)
+
+[Extended Data](ext_articles/653d006c.ext.json)
 
 ---
 
@@ -2319,27 +2355,5 @@ Speaking to reporters at an event in Kurunegala on Sunday March 10, Abeysinghe s
 [Data](articles/f5b1ecb7.json)
 
 [Extended Data](ext_articles/f5b1ecb7.ext.json)
-
----
-
-### ‘Kudu Salindu’ further remanded
-
-*2024-03-11 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97869/kudu-salindu-further-remanded) · `en`
-
-Notorious underworld figure and drug kingpin Salindu Malshitha Gunaratne, alias ‘Kudu Salindu’, has been further remanded on orders of the Panadura Magistrate’s Court.
-
-Accordingly, ‘Kudu Salindu’ was further remanded until 25 March as per an order issued by Panadura Chief Magistrate Champika Rajapaksha.
-
-Salindu Malshitha Gunaratne is currently in the custody of the Criminal Investigation Department (CID), after he was arrested in Madagascar in March 2023.
-
-Nadun Chinthaka Wickremeratne alias ‘Harak Kata’ and his infamous accomplice Salindu Malshika alias ‘Kudu Salindu’ were arrested in Madagascar on March 01 last year in a joint operation by the INTERPOL and Malagasy law enforcement authorities and Customs officials.
-
-The duo was brought back to the island on March 15 after Malagasy defence officials informed the Sri Lankan Foreign Ministry of the arrest of 8 suspects including the two Sri Lankan underworld figures.
-
-...
-
-[Data](articles/a95ca8ef.json)
-
-[Extended Data](ext_articles/a95ca8ef.ext.json)
 
 ---

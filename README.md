@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 17:02:58**
+As of **2024-03-11 17:17:42**
 
 ## Newspaper Stats
 
-*Scraped **12,176** Articles*
+*Scraped **12,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,89 @@ adaderanalk | 1,472
 tamilmirrorlk | 1,487
 virakesarilk | 1,669
 dailymirrorlk | 1,862
-adaderanasinhalalk | 1,922
+adaderanasinhalalk | 1,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,172 (100.0%) of 12,176 articles have been extended.
+12,176 (100.0%) of 12,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### இந்த மாணவனை கண்டால் உடன் தகவல் தாருங்கள்...
+### මරණයේ සෙවණැලි මත ජීවිතය යදින පලස්තීනුවන්
+
+*2024-03-11 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194387) · `si`
+
+නිමක් නොදකින ගාසා යුද්ධයේ අඳුරු සෙවණැලි මැද ගාසා තිරයේ පලස්තීනයේ මුස්ලිම් බැතිමතුන්ගේ උතුම්ම ආගමික උත්සවය වන රාමසාන් උපවාස සමයට සැරසෙන බව ජාත්‍යන්තර ප්‍රවෘත්ති සේවා වාර්තා කරයි.
+
+ඇත්තෙන්ම ඔවුන් දැඩි ශෝකානුකූලව රාමසාන් සමයට පිවිසෙන බව එම වාර්තා පෙන්වා දෙයි.
+
+ඉස්ලාම් දහමේ අති පූජනීය දේවස්ථානයක් වන අල් - අක්සා දේවස්ථානය පිහිටි ජෙරුසෙලමේ පැරණි නගරයේ ආරක්ෂාව සඳහා ඊශ්‍රායලය පොලිස් භටයින් දහස් ගණනන් යොදවා තිබේ.
+
+රාමසාන් සමයේ දිනපතා මෙහි මුස්ලිම් බැතිමතුන් දහස් ගණනක් පැමිණෙනු ඇතැයි අපේක්ෂා කෙරෙයි.
+
+'ටෙම්පල් මවුන්ට්' ලෙස හැඳින්වෙන මෙම ප්‍රදේශය යුදෙව්වන්ද තමන්ගේ ඉහළම පූජනීය භූමියක් ලෙස සලකයි.
+
+මේ නිසා අල් අක්සා දේවස්ථානය මීට පෙරද ඊශ්‍රායලය සහ පලස්තීනුවන් අතර ගැටුම්වලට මුල්වූ ස්ථානයකි.
+
+2021 වසරේ ඊශ්‍රායලය සහ හමාස් සංවිධානය අතර යුද්ධය ආරම්භ වූයේද ජෙරුසෙලමේ අල් අක්සා දේවස්ථානයේ ඇතිවූ ගැටුමකිනි.
+
+ගාසා තීරයේ පලස්තීනුවන් මෙවර රාමසාන් සමයට පිවිසෙන්නේ ඊශ්‍රායල ප්‍රහාරවලින් 31,000 ඉක්මවූ පලස්තීනුවන් පිරිසක් මියගොස් ගාසා තීරය පුරා සාගතයක් පැතිරෙද්දීය.
+
+...
+
+[Data](articles/6300e9a4.json)
+
+---
+
+### Solar Power Station opened at Batticaloa
+
+*2024-03-11 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178452) · `ta`
+
+A new 20 MW solar power station in Batticaloa, opened by Minister Kanjana Vijayasekera, aims to address last year's fuel shortage and power cuts.
+
+🟩
+
+Solar Power Station has been opened by the Minister of Electricity and Power and Energy. The event was held on Monday with the participation of Rural Roads Minister of State and Chairman of the Batticaloa District Development Committee, Shivadiyadurai Chandrakanthan.
+
+Minister Kanjana Wijesekera and Minister Chandrakanthan have received Rs.
+
+The government is introducing a number of alternative power generation projects in view of the fuel shortage that the country faced last year and the 15 to 20 hours of power cuts and the lack of the country's production.
+
+Accordingly, the recently opened solar power plant with 20 MW of electricity in the Navakkadu Village, Manmunai West Vavunathivu Divisional Secretariat Division, was opened by Minister Kanjana Vijayasekera in the village of Navakkadu.
+
+◼️
+
+[Data](articles/3337cb7b.json)
+
+[Extended Data](ext_articles/3337cb7b.ext.json)
+
+---
+
+### If you find this student, please information ...
 
 *2024-03-11 16:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இந்த-மாணவனை-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-334515) · `ta`
 
-மன்னார் - நானாட்டான் பிரதேச செயலகப் பிரிவில் உள்ள அச்சங்குளம் கிராமத்தில் வசிக்கும் சந்திரசேகர் நிலோஜ் ரோக்க்ஷன் (வயது 17) என்ற மாணவன் காணாமல் போயுள்ளார்.
+Chandrasekhar Nilaj Rockshan, 17, from Achankulam village, Mannar, is missing. He left home yesterday afternoon and hasn't returned. Educated in Nanatan, contact 077-4722506 for information.
 
-நேற்று (10) மதியம்  மதியம் அச்சங்குளம் கிராமத்தில் உள்ள தனது வீட்டில் இருந்து வெளியில் சென்ற   இந்த மாணவன் இது வரை வீடு திரும்பவில்லை என பெற்றோர் முருங்கன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+🟩
 
-காணாமல் போன மாணவன் நானாட்டான் பிரதேசத்தில் உள்ள பிரபல பாடசாலையில்  உயர் தரத்தில் கல்வி கற்று வருவதாக தெரிய வருகின்றது.
+Chandrasekhar Nilaj Rockshan (age 17), a resident of Achankulam village in the Mannar - Nanatan Divisional Secretariat Division, has disappeared.
 
-குறித்த மாணவன் பற்றிய தகவல் தெரிந்தவர்கள் 077-4722506 என்ற இலக்கத்துடன் தொடர்பு கொள்ளுமாறு பெற்றோர் கேட்டுக் கொண்டனர். R
+Parents have lodged a complaint at the Murugan Police Station that the student who went out of his home in Achangulam village yesterday afternoon (10) had not returned home.
+
+It is reported that the missing student is educated at a popular school in Nanatan area.
+
+Parents asked for information about the student to contact 077-4722506. Remble
 
 ◼️
 
 [Data](articles/640db7e3.json)
+
+[Extended Data](ext_articles/640db7e3.ext.json)
 
 ---
 
@@ -94,19 +150,7 @@ As per the advisory, under this level of temperature, fatigue is possible with p
 
 [Data](articles/8df47206.json)
 
----
-
-### மட்டக்களப்பு ஒருமுழச்சோலையில் சூரிய மின்உற்பத்தி நிலையம் திறந்து வைப்பு
-
-*2024-03-11 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178452) · `ta`
-
-மட்டக்களப்பு ஏறாவூர் பற்று பிரதேச செயலக பிரிவுக்குட்பட்ட கொம்மாதுறை வடக்கு ஒருமுழச்சோலை கிராமத்தில் மின்சக்தி மற்றும் வலுசக்தி அமைச்சரினால் சூரிய மின்சக்தி நிலையம் திறந்து வைக்கப்பட்டுள்ளது. நேற்று திங்கட்கிழமை கிராமிய வீதிகள் இராஜாங்க அமைச்சரும் மட்டக்களப்பு மாவட்ட அபிவிருத்திக் குழு தலைவருமான சிவநேரதுறை சந்திரகாந்தன் உள்ளிட்டோரின் பங்கேற்புடன் இந்நிகழ்வு இடம்பெற்றுள்ளது.
-
-நாட்டிற்கும் மக்களுக்கும் பயனுள்ள முதலீட்டு திட்டத்தினை முன்னெடுத்து நாட்டின் மின்சார உற்பத்திக்கு பாரிய பங்களிப்புச் செய்து வரும் வெக்வே சோலார் பிரைவேட் லிமிடெட் நிறுவனத்தின் ஊடாக மட்டக்களப்பு ஒருமுழச்சோலை  சித்திவிநாயகர் வித்தியாலயத்தின் உட்கட்டுமான பணிகளுக்காக ரூபாய் ஐந்து லட்சம் நிதியுதவியினையும் அமைச்சர் கஞ்சன விஜேயசேகர மற்றும இராஜாங்க அமைச்சர் சந்திரகாந்தன் ஆகியோரால் பெற்றுக் கொடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3337cb7b.json)
+[Extended Data](ext_articles/8df47206.ext.json)
 
 ---
 
@@ -134,23 +178,51 @@ Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniy
 
 ---
 
-### மரதன் ஓடிய மாணவன் மரணம்: நீதி  கோரியதால் பதற்றம்
+### පාසල් මැරතන් තරගයක් අතරතුර පාසල් සිසුවෙක් මරුට
+
+*2024-03-11 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194386) · `si`
+
+නිවාසාන්තර ක්‍රීඩා උළෙලක මැරතන් ධාවනය තරගයකට එක්වූ පාසල් සිසුවෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ තිරුක්කොවිල් මෙතෝදිස්ත මධ්‍ය මහා විද්‍යාලයේ ඉගෙනුම ලබමින් සිටි 16 හැවිරිදි වියේ පසුවූ සිසුවෙකි.
+
+ක්‍රීඩා තරගය අතරතුරදී හදිසියේම අසනීප වූ සිසුවා ප්‍රතිකාර සඳහා තිරුක්කෝවිල් රෝහල වෙත ඇතුළත් කර ඇති අතර අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා අක්කරෙයිපත්තුව රෝහලට ඇතුළත් කිරීමෙන් පසුව මියගොස් ඇත.
+
+මේ අතර තිරුක්කෝවිල් රෝහලේදී  සිසුවාට නිසි පරිදි ප්‍රතිකාර සිදුනොකළ බව පවසමින් ප්‍රදේශවාසීන් රෝහල අසළ විරෝධතාවයක් දැක්වීම හේතුවෙන්  එහි උණුසුම් තත්ත්වයක් ඇතිවිය.
+
+අනතුරුව තත්ත්වය පාලනය කිරීම සඳහා එම ස්ථානයට පොලිස් විශේෂ කාර්ය බළකාය ද කැඳවීමට පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/4a0a87bf.json)
+
+---
+
+### Death of Marathon
 
 *2024-03-11 16:36:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மரதன்-ஓடிய-மாணவன்-மரணம்-நீதி-கோரியதால்-பதற்றம்/73-334512) · `ta`
 
-திருக்கோவில் மெதடிஸ்த தமிழ் மகா வித்தியாலய மாணவனின் மரணத்திற்கு நீதி கோரி  திருக்கோவில் ஆதார வைத்தியசாலைக்கு முன்பாக பொதுமக்கள் போராட்டம் நடத்தினர்.
+Protesters demand justice for a student's death during a school sports event. The student was admitted to a hospital in Tirukkovil, transferred to Akkaraipattu, and later died, accused of negligence by doctors. The 16-year-old, Jayakumar Vidurjan, was not treated for three hours. The Special Task Force was called to control the situation.
 
-அந்த வித்தியாலயத்தின் விளையாட்டுப் போட்டியின் ஓர் அங்கமாக,   மரதன் ஓட்டப்போட்டி, திங்கட்கிழமை (11) காலை நடத்தப்பட்டது.
+🟩
 
-அதில்,  பங்கேற்ற  மாணவர்களில் ஒருவன், திடீரென  மயக்கமுற்ற நிலையில் திருக்கோவில் ஆதார வைத்தியசாலையில்  அனுமதிக்கப்பட்டிருந்தார். பின்னர் அங்கிருந்து மேலதிக சிகிச்சைக்காக உடனடியாக  அக்கரைப்பற்று ஆதார  மாற்றப்பட்டார். எனினும், அம்மாணவன் உயிரிழந்துள்ளதாக வைத்தியசாலை நிர்வாகம் அறிவித்துள்ளது.
+The public staged a protest in front of the Hospital in Tirukkovil demanding justice for the death of a student of Melladist Tamil Maha Vidyalaya in Tirukovil.
 
-சம்பவத்தை அறிந்த பாடசாலை மாணவர்கள், பொதுமக்கள்   திருக்கோவில் ஆதார  வைத்தியசாலைக்கு முன்பாக ஒன்று கூடி   மாணவனின் மரணத்திற்கு  வைத்தியர்களின் அலட்சியமே காரணமென தெரிவித்து நீதி கோரி போராட்டங்களை முன்னெடுத்தனர்.
+The Marathon Operation was held on Monday morning (11) as part of the sports competition of the school.
 
-மாணவனுக்கு மூன்று மணிநேரம் எந்தவொரு சிகிச்சையும் முன்னெடுக்கவில்லை என போராட்டத்தில் ஈடுபட்டிருந்தவர்கள் குற்றஞ்சாட்டினர்.        திருக்கோவிலை சேர்ந்த  16 வயதான ஜெயக்குமார்  விதுர்ஜன் எனும் மாணவனே உயிரிழந்தவராவார்.
+In it, one of the students who participated, was admitted to the Hospital in Tirukovil with a sudden unconscious. From there he was immediately transferred to the source of Akkaraipattu. However, the hospital administration has announced that Ammanavan has died.
 
-...
+Knowing the incident, schoolchildren gathered in front of the public hospital in Tirukovil and launched protests demanding justice, claiming that the doctors' negligence of the student's death.
+
+The protesters accused the student of not carrying out any treatment for three hours.16 -year -old Jayakumar Vidurjan from Tirukovil is the deceased.
+
+In order to control the situation, the Special Task Force (STF) has been brought in front of the Hospital in Tirukovil.
+
+◼️
 
 [Data](articles/a757e2fd.json)
+
+[Extended Data](ext_articles/a757e2fd.ext.json)
 
 ---
 
@@ -2263,61 +2335,5 @@ He concluded: "We made a film about the man who created the atomic bomb, and for
 [Data](articles/69acd32f.json)
 
 [Extended Data](ext_articles/69acd32f.ext.json)
-
----
-
-### Notices to 1000 companies that are not taxed
-
-*2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்/175-334490) · `ta`
-
-Sri Lanka's IRD notifies 1000 companies with no tax arrears over 160 billion, demanding payment within six months or asset confiscation. Some companies agree to asset confiscation, discussing recovery of arrears. Taxpayers include liquor, hotels, and real estate companies.
-
-🟩
-
-Sri Lanka's Internal Revenue Department (IRD) has sent notifications to 1000 companies that do not pay more than 160 billion tax arrears.
-
-IRD Governor Sebalika Chandrasekara has said that companies will pay their arrears in six months or confiscate bank accounts and assets.
-
-He added that the outstanding arrears have been issued to the companies to pay the outstanding arrears until the end of last year.
-
-He added that some companies have agreed to confiscate their assets in response to the IRT, and that they will discuss the possibility of recovering the outstanding companies to the IRT and recovering the amount of arrears.
-
-According to the governor, taxpayers include liquor companies, hotels and real estate companies.
-
-Chandrasekara added that "IRT has appointed an IRD under the Deputy Commissioner to collect tax balances."
-
-◼️
-
-[Data](articles/094ece76.json)
-
-[Extended Data](ext_articles/094ece76.ext.json)
-
----
-
-### Notices to 1000 companies that are not taxed
-
-*2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்-அனுப்பப்பட்டுள்ளது/175-334490) · `ta`
-
-The Sri Lankan Internal Revenue Department (IRD) has notified 1000 companies with tax arrears under 160 billion LKR to pay within six months or face asset confiscation. Some have agreed to confiscate assets to settle arrears. Taxpayers include liquor, hotel, and real estate companies. The IRD has appointed an under Deputy Commissioner to collect tax balances.
-
-🟩
-
-The Sri Lankan Internal Revenue Department (IRD) has issued notifications to 1000 companies that do not pay more than 160 billion tax arrears.
-
-IRD Governor Sebalika Chandrasekara has said that companies will pay their arrears in six months or confiscate bank accounts and assets.
-
-He added that notices have been issued to companies to pay the outstanding arrears until the end of last year, without extension in six months.
-
-He added that some companies have responded and have agreed to confiscate their assets in order to collect the arrears and discuss the possibility of recovering the outstanding companies to the IRT and recovering the outstanding amount.
-
-According to the governor, taxpayers include liquor companies, hotels and real estate companies.
-
-Chandrasekara added that "IRT has appointed an IRD under the Deputy Commissioner to collect tax balances."
-
-◼️
-
-[Data](articles/d20b5265.json)
-
-[Extended Data](ext_articles/d20b5265.ext.json)
 
 ---

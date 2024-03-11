@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 08:51:47**
+As of **2024-03-11 09:02:59**
 
 ## Newspaper Stats
 
-*Scraped **12,051** Articles*
+*Scraped **12,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 626
 dailyftlk | 628
 islandlk | 662
 adalk | 1,019
-adaderanalk | 1,460
+adaderanalk | 1,461
 tamilmirrorlk | 1,465
 virakesarilk | 1,644
 dailymirrorlk | 1,842
@@ -26,29 +26,51 @@ adaderanasinhalalk | 1,904
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,049 (100.0%) of 12,051 articles have been extended.
+12,051 (100.0%) of 12,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### තවත් ඝාතනයක්
+### Special discussion on IMF bailout programme today
+
+*2024-03-11 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97863/special-discussion-on-imf-bailout-programme-today) · `en`
+
+A discussion between the visiting team of officials from the International Monetary Fund (IMF) and representatives from the government and opposition regarding the IMF bailout programme is scheduled to be held today (11) at the Presidential Secretariat in Colombo.
+
+Ministers of State for Finance Shehan Semasinghe, Ranjith Siyambalapitiya, Chief of Staff to the President Sagala Ratnayake, Presidential Secretary Saman Ekanayake, Central Bank Governor Dr. Nandalal Weerasinghe, Finance Ministry Secretary Mahinda Siriwardena are expected to participate.
+
+Meanwhile, the Presidential Secretariat stated that opposition leader Sajith Premadasa, National People’s Power leader Anura Kumara Dissanayake and the leader of the Tamil National Alliance (TNA) R. Sampanthan have also been invited to participate in the discussion.
+
+...
+
+[Data](articles/3973438c.json)
+
+---
+
+### Another murder
 
 *2024-03-11 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194366) · `si`
 
-ඇලපාත, නිරිඇල්ල ප්‍රදේශයේ පදිංචි කාන්තාවක්ව සිය ස්වාමිපුරුෂයා විසින් තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+A woman from Nirinda assaulted her husband with a sharp object, leading to his death. Police began investigations yesterday. The couple had been living in separate homes due to a family dispute. The suspect, a 43-year-old woman, was arrested after surrendering to police.
 
-පොලීසිය පැවසුවේ, ඊයේ (10) මෙම සිදුවීම පිළිබඳ ලද පණිවුඩයක් මත පරීක්ෂණ ආරම්භ කළ බවය.
+🟩
 
-පවුල් ආරවුලක් හේතුවෙන් ස්වාමිපුරුෂයා හා බිරිඳ වෙන්ව නිවෙස් දෙකක ජීවත්ව ඇති අතර, ඊයේ මියගිය කාන්තාව විසින් දරුවන්ගේ පොත්පත් රැගෙන එ්මට ස්වාමිපුරුෂයාගේ නිවසට ගිය අවස්ථාවේ දී මෙම අවාසනාවන්ත සිදුවීමට මුහුණ දී ඇත.
+A woman from Nirinda, Nirinda, has assaulted her husband with a sharp object.
 
-එහිදී ස්වාමියා විසින් තියුණූ ආයුධයකින් පහරදී ඇති බවට සිදුකළ පොලිස් විමර්ශනයේ දී අනාවරණය වී තිබේ.
+Police said that investigations were commenced yesterday (10).
 
-අවුරුදු 43ක් වූ සැකකරු මේ වනවිට පොලීසියට භාරවීමෙන් පසු අත්අඩංගුවට ගෙන ඇත.
+The husband and wife have been living in two homes, with a family dispute, and the woman died yesterday, the woman went to the husband's home, this unfortunate event was faced with the husband's home.
+
+The police investigation revealed that the master had been assaulted by a heated weapon.
+
+The 43-year-old suspect has been arrested following the surrender of the police.
 
 ◼️
 
 [Data](articles/e61c8484.json)
+
+[Extended Data](ext_articles/e61c8484.ext.json)
 
 ---
 
@@ -414,21 +436,27 @@ It stated that in some places, in the Western, Southern and Sabaragamuwa Provinc
 
 ---
 
-### நீர் விநியோகம் தொடர்பில் 2000 முறைப்பாடுகள்
+### 2000 complaints regarding water supply
 
 *2024-03-11 02:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-விநியோகம்-தொடர்பில்-2000-முறைப்பாடுகள்/175-334483) · `ta`
 
-நிலவும் அதிக வறட்சியுடனான வானிலையினால் நாளாந்த நீர் பயன்பாட்டின் அளவு உயர்வடைந்துள்ளதாக தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
+The National Water Supply and Drainage Board reported over 2000 daily complaints about water supply due to drought-induced increased use. Despite this, all water supply structures are operating at maximum efficiency.
 
-இதன் காரணமாக அனைத்து நீர்வழங்கல் கட்டமைப்புகளும் அதிகபட்ச செயற்றிறனுடன் செயற்படுத்தப்பட்டுள்ளதாக அதன் பிரதி பொது முகாமையாளர் அனோஜா களுஆரச்சி குறிப்பிட்டார்.
+🟩
 
-நீரின் பயன்பாடு அதிகரித்துள்ளமையினால் நாளாந்தம் 2000 இற்கும் அதிகமான முறைப்பாடுகள் கிடைக்கப்பெறுவதாக அவர் கூறினார்.
+The National Water Supply and Drainage Board has said that the amount of daily water use has risen due to the prevailing drought.
 
-நீர் விநியோகம் தொடர்பான சிக்கல்கள் குறித்து 1939 எனும் துரித அழைப்பு இலக்கத்திற்கு அழைப்பை ஏற்படுத்தி முறைப்பாடு செய்ய முடியுமென அவர் தெரிவித்துள்ளது. (a)
+Due to this, all the water supply structures have been implemented with maximum efficiency, its Deputy General Manager Anoja Kalu Arachchi said.
+
+He said more than 2000 complaints were received daily due to increased use of water.
+
+He said that he could make a complaint with a 1939 call for a 1939 call for issues relating to water supply.. (A)
 
 ◼️
 
 [Data](articles/8e227c4e.json)
+
+[Extended Data](ext_articles/8e227c4e.ext.json)
 
 ---
 
@@ -2159,31 +2187,5 @@ However, his condition improves and said he would take care of Hildda Jayawardha
 [Data](articles/e124b652.json)
 
 [Extended Data](ext_articles/e124b652.ext.json)
-
----
-
-### A university student falls down from Hampella
-
-*2024-03-10 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194344) · `si`
-
-A 21-year-old Wayamba University student from Kalmunai fell from Hampella, was rescued by Beragala Army Camp officers, and is now in serious condition at Mawanella Base Hospital.
-
-🟩
-
-A university student has been admitted to the Mawanella Base Hospital for treatment.
-
-The victim is a 21 year old university student from Kalmunai, Kalmunai, a second year of the Wayamba University.
-
-The victim is inaugurated when the student was going to cross the Alagandlla with another group of students.
-
-The officers of the Beragala Army Camp had to be struggling to rescue the youth.
-
-According to sources, the condition of the injured university student is serious.
-
-◼️
-
-[Data](articles/0a69f2fb.json)
-
-[Extended Data](ext_articles/0a69f2fb.ext.json)
 
 ---

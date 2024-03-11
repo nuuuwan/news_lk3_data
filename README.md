@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 00:02:50**
+As of **2024-03-12 00:33:47**
 
 ## Newspaper Stats
 
-*Scraped **12,237** Articles*
+*Scraped **12,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,23 +12,73 @@ colombotelegraphcom | 115
 bbccomsinhala | 141
 dbsjeyarajcom | 184
 newsfirstlk | 363
-dailyftlk | 628
+dailyftlk | 629
 economynextcom | 642
 islandlk | 663
 adalk | 1,046
 adaderanalk | 1,482
 tamilmirrorlk | 1,491
 virakesarilk | 1,680
-dailymirrorlk | 1,868
+dailymirrorlk | 1,870
 adaderanasinhalalk | 1,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,236 (100.0%) of 12,237 articles have been extended.
+12,238 (100.0%) of 12,240 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-12 (Tuesday)
+
+### CBSL pay hike: Playing  the fiddle while the country burns
+
+*2024-03-12 00:01:21* · [`dailyftlk`](https://www.ft.lk/columns/CBSL-pay-hike-Playing-the-fiddle-while-the-country-burns/4-759359) · `en`
+
+The Central Bank of Sri Lanka (CBSL) salary hike ranging from approx. 29.53% to  79.97% has taken the Nation by storm! This article intends to  show the worthy citizenry of Sri Lanka that the attempts of the Governor/CBSL  to cover up this faux pax  and unconscionable  abuse of powers is utterly fallacious and designed to deceive the people and Parliament of Sri Lanka.
+
+The Governor of the Central Bank has declared the country financially bankrupt, insolvent, unable to pay its debts on 12th April 2022. In this context the Ministry of Finance has issued instructions not to increase any salaries of employees in the Government sector. However, CBSL employees’ salaries have been increased as per Collective Agreement entered into with their Trade Unions.
+
+...
+
+[Data](articles/a55433eb.json)
+
+[Extended Data](ext_articles/a55433eb.ext.json)
+
+---
+
+### Women’s political enthusiasm must be encouraged
+
+*2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Womens-political-enthusiasm-must-be-encouraged/172-278642) · `en`
+
+Sri Lankan women seem to have gained an unprecedented and considerable importance in Sri Lankan politics lately, thanks to the record gatherings of women by JVP/NPP as a part of their show off of power, as the major elections are around the corner.
+
+These gatherings have some sort of copycat effect on some other political parties as well, which is also a good sign, as far as women’s politics is concerned.
+
+It is within that context that the International Women’s Day fell on March 8. Yet, we could witness comparatively fewer commemorative events and media concerns this year, in view of that day.
+
+The need for women’s politics has been felt for a long time not only as they are half or more of the population, but also in most so-called developing countries they play a subservient role in politics, giving up the decision-making right to men in the family, the father, brothers, husband or sons.  Very rarely do women make political decisions totally independent of the male relatives.
+
+...
+
+[Data](articles/21eec613.json)
+
+---
+
+### Americans advised to bury their gold, while ours is in pawnshops
+
+*2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Americans-advised-to-bury-their-gold-while-ours-is-in-pawnshops/172-278644) · `en`
+
+As a turbulent world races into year 2024, the  only remaining superpower is a troubled giant (China is a great power, but its military (especially naval) and nuclear forces are still no match for America’s, and it would be economically  disastrous for China to start an arms race with the US now with its economy in  trouble).
+
+The American economy is in trouble, too, with the US dollar losing its value and dire predictions of another Great Depression by next year, though some analysts predict that the US will emerge in better shape from a possible economic crash than any other country in the world.
+
+...
+
+[Data](articles/91af9626.json)
+
+---
 
 ### 2024-03-11 (Monday)
 
@@ -49,6 +99,8 @@ The decision was taken after a proposal made by President Ranil Wickremesinghe i
 ...
 
 [Data](articles/c3532323.json)
+
+[Extended Data](ext_articles/c3532323.ext.json)
 
 ---
 
@@ -2285,75 +2337,5 @@ Initially, the devotees blocked the Adivasivan Temple on the road barriers and t
 [Data](articles/5122927e.json)
 
 [Extended Data](ext_articles/5122927e.ext.json)
-
----
-
-### Kudu Sale Reuse
-
-*2024-03-11 13:59:06* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සලිඳු-යලි--රිමාන්ඩ්/11-408535) · `si`
-
-Sellapema's pre-prisoner remanded for 25 days. CID officials interrogated suspects, including international terrorists and drug dealers. Six suspects arrested in Madagasara State, taken into custody by International Police. Magistrate ordered no need for suspect in next case, prepared for Skype submission. Transported with special security to court, with all roads covered by police.
-
-🟩
-
-Sellapema's pre-prisoner was remanded until 25 days
-
-Criminal Investigations Department officials submitted to courts after being interrogated by the firearms and interrogate the firearms with international terrorist organizations and drug dealers and interrogate the firearms.Had been done.
-
-The suspects were arrested in Madagasara State and six investigations were taken into custody by the International Police and a red warrant from the International Police.
-
-The magistrate also ordered that the suspect was not required to submit the suspect in the next case and prepared to submit Skype technology if needed.
-
-He was brought to the court premises using a special security of the Police and Special Police Task Force and the main gates of the Panadura Judicial area and all the roads have been deployed to cover all firearms and police officers.
-
-◼️
-
-[Data](articles/60ccd956.json)
-
-[Extended Data](ext_articles/60ccd956.ext.json)
-
----
-
-### Former political prisoner in Vavuniya calls to call Colombo terrorist investigation
-
-*2024-03-11 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178424) · `ta`
-
-Sen. Aravindan, a former political prisoner from Vavuniya, summoned to Colombo's Terrorism Investigation Division.
-
-🟩
-
-Former political prisoner living in Vavuniya and leader of the Welfare Association, Sen. Aravindan, has been summoned to the Colombo Terrorism Investigation Division (RIT).
-
-The letter was issued by the Political Prisoner's house on Sunday (10).
-
-Selvanayagam Aravindanai (Anandavarman), a former political prisoner who lives in Dhonikkal, Vavuniya, and the leader of the militant welfare association, has been summoned to vote for the Terrorist Investigation Division in Colombo on the 12th.
-
-We are invited to meet the Inquiry Unit of the Inquiry Unit at the Narahenpita address, No. 149, at 9.00 am on the 12th of this month to obtain a confession to the inquiry into the investigation into the investigation by the Investigation Division.
-
-◼️
-
-[Data](articles/db33eae6.json)
-
-[Extended Data](ext_articles/db33eae6.ext.json)
-
----
-
-### Thirty Sri Lanka ruling party MPs discussing alliance with opposition SJB: Ashok
-
-*2024-03-11 13:59:00* · [`economynextcom`](https://economynext.com/thirty-sri-lanka-ruling-party-mps-discussing-alliance-with-opposition-sjb-ashok-154077/) · `en`
-
-ECONOMYNEXT — Thirty MPs of the ruling Sri Lanka Podujana Peramuna are in talks with the main opposition Samagi Jana Balawegaya (SJB) about joining forces, SJB legislator Ashok Abeysinghe said.
-
-Speaking to reporters at an event in Kurunegala on Sunday March 10, Abeysinghe said five out of 11 SLPP parliamentarians that were elected from the Kurunegala district will team up with the SJB for the upcoming elections.
-
-“We don’t intend to accept any MP from the SLPP. We only plan to take MPs without corruption charges and don’t have any court cases. Even now about 30 MPs are talking to us about forming an alliance with us,” the MP said.
-
-“In the next few weeks, the media and the country will know who that is,” he added.
-
-...
-
-[Data](articles/f5b1ecb7.json)
-
-[Extended Data](ext_articles/f5b1ecb7.ext.json)
 
 ---

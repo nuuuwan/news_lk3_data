@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 22:50:32**
+As of **2024-03-11 23:02:47**
 
 ## Newspaper Stats
 
-*Scraped **12,226** Articles*
+*Scraped **12,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ islandlk | 663
 adalk | 1,046
 adaderanalk | 1,480
 tamilmirrorlk | 1,491
-virakesarilk | 1,679
-dailymirrorlk | 1,866
+virakesarilk | 1,680
+dailymirrorlk | 1,867
 adaderanasinhalalk | 1,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,224 (100.0%) of 12,226 articles have been extended.
+12,226 (100.0%) of 12,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### நான் சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தையைக் கோரவில்லை - கலாநிதி ஹர்ஷ டி சில்வா
+
+*2024-03-11 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178474) · `ta`
+
+சர்வதேச கடன் வழங்குநர்களுடனான பேச்சுவார்த்தையையே அன்றி சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தையைக் கோரவில்லை. கடன் உரிமையாளர்களுடனான பேச்சுவார்த்தைகளை வெளிப்படைத் தன்மையுடன் முன்னெடுத்து, எதிர்தரப்பினரது இணக்கப்பாட்டையும் பெற்றுக் கொள்ள வேண்டும் என்பதையே தான் வலியுறுத்தியதாகப் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+சர்வதேச நாணய நிதியத்துடன் திங்கட்கிழமை (11) இடம்பெற்ற பேச்சுவார்த்தைக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் அழைப்பு விடுக்கப்பட்டிருந்தது. இதற்குப் பதிலளிக்கும் போது மேற்கண்டவாறு தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+நான் சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தையைக் கோரவில்லை. சர்வதேச கடன் வழங்குநர்களுடனான பேச்சுவார்த்தையையே கோரினேன். தற்போது சர்வதேச நாணய நிதியத்துடன் செய்து கொள்ளப்படும் இணக்கப்பாட்டினை அடுத்து ஆட்சியமைக்கும் அரசாங்கம் முன்னெடுத்துச் செல்ல வேண்டியது கட்டாயமாகும்.
+
+...
+
+[Data](articles/08dd5ee5.json)
+
+---
+
+### Ramadan fasting month begins tomorrow
+
+*2024-03-11 22:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ramadan-fasting-month-begins-tomorrow/108-278661) · `en`
+
+Colombo, March 11 (Daily Mirror) - The month of Ramadan fasting begins for the Muslim community in Sri Lanka from tomorrow (12) as the new crescent moon has been sighted, the Colombo Grand Mosque said.
+
+Muslims worldwide will observe a month of fasting and prayers during Ramadan, commemorating the revelation of the Quran to Prophet Mohammed on the night of 'Laylat Al Qadr'.
+
+Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is regarded as one of the Five Pillars of Islam.
+
+◼️
+
+[Data](articles/da4f099d.json)
+
+---
 
 ### Another shooting kills two, injures two more in Ambalangoda
 
@@ -50,17 +82,25 @@ This marks the second shooting incident reported tonight, following a similar tr
 
 [Data](articles/00c5f735.json)
 
+[Extended Data](ext_articles/00c5f735.ext.json)
+
 ---
 
-### அம்பலாங்கொடையிலும் துப்பாக்கிப் பிரயோகம்: இருவர் பலி, மூவர் காயம்!
+### Ambalangoda firing: Two killed
 
 *2024-03-11 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178472) · `ta`
 
-மோட்டார் சைக்கிளில் வந்த இருவர் அம்பலாங்கொடை கலகொட பகுதியில் உள்ள கடை ஒன்றின் மீது துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In Ambalangoda, two people on a motorcycle shot at a shop, killing two.
+
+🟩
+
+Two people on a motorcycle fired at a shop in Galagoda, Ambalangoda, police said.
 
 ◼️
 
 [Data](articles/27b186a3.json)
+
+[Extended Data](ext_articles/27b186a3.ext.json)
 
 ---
 
@@ -2287,37 +2327,5 @@ Now you know I admitted I plagiarized. Don’t throw stones at my aeroplane. I h
 [Data](articles/28ae94dc.json)
 
 [Extended Data](ext_articles/28ae94dc.ext.json)
-
----
-
-### The Election-Economy Nexus and the Politics of JVP Apology
-
-*2024-03-11 13:15:00* · [`islandlk`](http://island.lk/the-election-economy-nexus-and-the-politics-of-jvp-apology/) · `en`
-
-The economy is the base; everything else is superstructure. That is the old Marxian concept, simply put. The base ultimately determines what goes on in the superstructure, which includes among other things the state and its institutions, as well as their processes and functions. Included are the legislature, the executive and the judiciary, and their elections and appointments. Over time, there have been modifications to the old concept.
-
-Borrowing from Freud’s psychoanalysis, Louis Althusser, the French Marxist, used the concept of over-determination to suggest that there are multiple causes producing an effect, i.e., political outcomes are ‘over determined’ by many causes besides the economy, although the economy could be singularly significant. Neo-Marxists have provided another angle in that just as the base could determine the goings on in the superstructure, what goes on in the superstructure also have implications for the base.
-
-...
-
-[Data](articles/0a851b44.json)
-
-[Extended Data](ext_articles/0a851b44.ext.json)
-
----
-
-### A ‘raththaran’ row over new chairman of parliamentary oversight committee
-
-*2024-03-11 13:14:00* · [`islandlk`](http://island.lk/a-raththaran-row-over-new-chairman-of-parliamentary-oversight-committee/) · `en`
-
-Shortly after the announcement of the new chairmen for the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA), there was a surge of criticism on social media regarding the appointment of Kalutara District SLPP MP Rohitha Abeygunawardena as the head of COPE.
-
-Both chairmen were elected to their positions, and the SLPP, with its majority representation in the committees reflecting that of the parliament, was able to secure the election of their candidates. The election of COPA chairman MP Lasantha Alagiyawanna didn’t spark as much controversy, as he had previously held the position. However, Abeygunawardena’s appointment drew significant backlash, with many questioning his qualifications to lead a parliamentary watchdog committee.
-
-...
-
-[Data](articles/d4c3e3a4.json)
-
-[Extended Data](ext_articles/d4c3e3a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 16:04:06**
+As of **2024-03-11 16:17:35**
 
 ## Newspaper Stats
 
-*Scraped **12,159** Articles*
+*Scraped **12,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,82 +13,176 @@ bbccomsinhala | 141
 dbsjeyarajcom | 184
 newsfirstlk | 363
 dailyftlk | 628
-economynextcom | 631
+economynextcom | 636
 islandlk | 663
 adalk | 1,034
 adaderanalk | 1,470
 tamilmirrorlk | 1,485
-virakesarilk | 1,663
-dailymirrorlk | 1,861
-adaderanasinhalalk | 1,921
+virakesarilk | 1,665
+dailymirrorlk | 1,862
+adaderanasinhalalk | 1,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,154 (100.0%) of 12,159 articles have been extended.
+12,159 (99.9%) of 12,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### மரதன் ஓடிய மாணவர்  திடீரென உயிரிழப்பு ; திருகோவில் வைத்தியசாலையின் முன் பதற்றம்
+### කොම්පඤ්ඤවීදියේ උණුසුම් තත්ත්වයක්
 
-*2024-03-11 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
+*2024-03-11 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194385) · `si`
 
-திருக்கோவில் பகுதியில் மரதன் ஓடிய மாணவர் ஒருவர் மரணித்த சம்பவம் இன்று திங்கட்கிழமை (11) இடம்பெற்றுள்ளது.
+කොම්පඤ්ඤවීදිය දුම්රිය මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් සහ කොම්පඤ්ඤවීදිය ලේක් සයිඩ් මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් අතර තාප්පයක් සම්බන්ධයෙන් ඇතිවූ ආරවුලක් දුරදිග යාමෙන් මෙම උණුසුම් තත්ත්වය ඇතිවිය.
 
-திருக்கோவில் மெதடித்த மிஷன் தமிழ் மகா வித்தியாலயத்தைச் சேர்ந்த விதுர்ஷன் என்ற 16 வயதுடைய மாணவனே இவ்வாறு உயிரிழந்துள்ளதாக தெரிய வருகின்றது.
+මෙහිදී කොම්පඤ්ඤවීදිය ලේක් සයිඩ් මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් විසින් ඔවුන්ගේ ප්‍රවේශ මාර්ගය හරස්කොට ඉදිකර ඇති බව පවසමින් තාප්පය කඩා ඉවත් කිරීමට පියවර ගෙන තිබුණි.
 
-இன்றைய தினம் காலை மரதன் ஓட்டப்போட்டியில் கலந்து கொண்ட குறித்த மாணவன் போட்டி நிறைவுற்றதும் வகுப்பறைக்கு சென்றுள்ளார். இதன்போது வயிற்றுக்குள் கொழுவி பிடிப்பதாகக் கூறி திருக்கோவில் ஆதார வைத்தியசாலைக்கு சிகிச்சை பெற சென்றதாகவும் பின்னர் அவசர சிகிச்சைக்கு ஆளானதாகவும் தெரிவிக்கப்படுகின்றது.
+ඒ සමගම එයට විරෝධය පළකරමින් කොම්පඤ්ඤවීදිය දුම්රිය මහල් නිවාස සංකීර්ණයේ පදිංචිකරුවන් විසින් දුම්රිය මාර්ගය හරස් කරමින් විරෝධතාවයක් ආරම්භ කළේය.
 
-இதன்போது அவருக்கான சி.பி.ஆர் சிகிச்சை உட்பட போதியளவான சிகிச்சைகள் மேற் கொள்ளப்பட்டதாகவும் எனினும்; போதிய வைத்திய உபகரணங்களைக் கொண்ட அம்பியூலன் வண்டி இல்லாததன் காரணமாக அக்கறைப்பற்று ஆதார வைத்தியசாலைக்கு உடனடியாக மாற்ற முடியாமல் போனதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+මේ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට ද සුළු වේලාවක් බාධා එල්ලවිය.
 
-உயிரிழந்த மாணவனின் சடலம் அக்கரைப்பற்று ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை திருக்கோவில் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+කෙසේ වෙතත් එම ස්ථානයට පොලීසිය පැමිණීමත් සමග තත්ත්වය සමනය වූ අතර පසුව එම දෙපාර්ශ්වයම නියෝජනය කරමින් කණ්ඩායම් දෙකක් පොලීසිය වෙත කැඳවාගෙන යනු ලැබීය.
+
+◼️
+
+[Data](articles/b3a0d25e.json)
+
+---
+
+### Air rifles issued to farmers to prevent crop damage by animals
+
+*2024-03-11 16:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-rifles-issued-to-farmers-to-prevent-crop-damage-by-animals/108-278635) · `en`
+
+Colombo, March 11 (Daily Mirror) - Steps have been taken to provide 1,000 air rifles this year to farmers to prevent crop damage caused by animals, the Agriculture and Plantation Industries Ministry said.
+
+A research conducted by the Hector Kobbekaduwa Agricultural Research and Training Institute has confirmed that 30–40 percent of the crops are currently being damaged by Toque monkeys, monkeys, giant squirrels and peacocks.
+
+Although the Ministry has requested that the Animal Friendly Associations suggest alternative paths to prevent damage from wild animals, so far not a single positive alternative has been presented.
+
+The decision was taken following requests from farmers to provide at least air rifles to save their crops from these animals.
+
+Following the instructions of Minister Mahinda Amaraweera, the Sri Lanka Hadabima Authority took steps to implement this programme.
+
+...
+
+[Data](articles/23cf0f28.json)
+
+---
+
+### முல்லைத்தீவில் கேரளா கஞ்சாவுடன் பெண்ணொருவர் கைது
+
+*2024-03-11 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178443) · `ta`
+
+முல்லைத்தீவில் இன்று திங்கட்கிழமை (11) கேரளா கஞ்சாவுடன் தாழையடி பகுதியினைச் சேர்ந்த இளம் பெண்ணொருவரை முல்லைத்தீவு பொலிஸார் கைது செய்துள்ளனர்.
+
+இன்றைய தினம்  காலை 11.30 மணியளவில் இடம்பெற்ற கைது சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,
+
+வட்டுவாகல் பாலத்திற்கு அருகில் இராணுவத்தினர், விஷேட அதிரடி படையினர், பொலிஸார் இணைந்து விஷேட சோதனை நடவடிக்கையினை மேற்கொண்ட போதே குறித்த பெண் கைது செய்யப்பட்டுள்ளார்.
+
+மன்னாரிலிருந்து முல்லைத்தீவு நோக்கி பயணித்த தனியார் பஸ்ஸினை வழிமறித்து சோதனையை மேற்கொண்ட போது குறித்த பெண்ணிடமிருந்த கைப்பையில் 500 கிராம் கேரளா கஞ்சாவினை வைத்து கடத்தி செல்ல முற்பட்ட சமயத்தில் ஆனையிறவு தாழையடி பகுதியை சேர்ந்த 27 வயதுடைய பெண்ணை கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/75619bd3.json)
+
+---
+
+### நூல்களை எழுதுவதை விட கோட்டாபய தான் இழைத்த குற்றங்களிற்காக சட்ட நடவடிக்கைகளை எதிர்கொள்ளவேண்டும் - பினான்சியல் டைம்ஸ் ஆசிரிய தலையங்கம்
+
+*2024-03-11 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178441) · `ta`
+
+ஜனாதிபதி பதவியிலிருந்து என்னை அகற்றுவதற்கான சதி என்ற முன்னாள் ஜனாதிபதி கோட்டாபயவின் நூல் குறி;த்து பலர் தற்போது பேசுகின்றனர் கருத்து வெளியிடுகின்றனர்.
+
+நூலின் பெயர் குறிப்பிடுவது போல பதவியிலிருந்து அகற்றப்பட்ட தலைவரினால் தெரிவிக்கப்படும் அனைத்தும் உண்மைக்கு தொலைவில் இருந்தாலும்  இந்த நூல் சில சுவாரஸ்யமான வாசிப்பை உருவாக்குகின்றது.
+
+இது இந்த அற்ப விடயத்தை எவரும் வாங்கவேண்டும் -தான் ஏற்படுத்திய துயரத்தை நூலாக்கி அதன் மூலம் பணம் சம்பாதிப்பதற்கு தகுதியற்ற நபரை வளப்படுத்துவதற்கான ஒப்புதல் இல்லை
+
+கோட்டாபய ராஜபக்ச வெளியேறவேண்டும் என மாத்திரமல்லாமல்  முழுமையான அமைப்புமுறை மாற்றத்தை முன்னிறுத்தி ஆயிரக்கணக்கான மக்கள் வீதிக்கு இறங்கிய போராட்டம் தற்போது ஒரு வெளிப்படையான சர்வதேச சதி-அந்த நெருக்கடியான தருணத்தில் தூதுவர்கள் இராணுவமுகாம்கள் போன்றவற்றிற்கு சென்று இராணுவத்தின் உயர் அதிகாரிகளுடன் உரையாடியதை தவிர இந்த குற்றச்சாட்டுகளை  நிரூபிப்பதற்கான உறுதியான ஆதாரங்கள் கோட்டபய ராஜபக்சவிடம் அவரின் நிழல் எழுத்தாளர்களிடம் இல்லை.
+
+...
+
+[Data](articles/66f409cc.json)
+
+---
+
+### Student death of Marathon;Tension in front of the hospital in Siroil
+
+*2024-03-11 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
+
+A 16-year-old student died after a Marathon in Tirukovil, leading to protests and tension. Initially treated at Tirukovil hospital, he was transferred to Akkaraipattu Base Hospital due to inadequate medical equipment. Police are investigating.
+
+🟩
+
+The death of a student who ran a Marathon in the Tirukovil area took place on Monday (11).
+
+Vidarshan, a 16 -year -old student from the Mission Tamil Maha Vidyalaya, who was killed in the Tirukovil, died.
+
+The student who attended the Marathon race this morning went to the classroom when the competition was completed. It is reported that he went to the hospital for treatment at Tirukovil, claiming to be caught in the stomach and later undergoing emergency treatment.
+
+However, inadequate treatments, including CPR treatment for him, have been taken up.Hospital sources said that due to the lack of adequate medical equipment, the concern was not immediately transferred to the resource hospital.
+
+The body of the deceased student has been placed at the Akkaraipattu Base Hospital and further investigations are being carried out by the police in Tirukovil.
+
+Students and youth are protesting in front of the hospital's resource hospital at the hospital.
 
 ...
 
 [Data](articles/7dca2866.json)
 
+[Extended Data](ext_articles/7dca2866.ext.json)
+
 ---
 
-### චීන ජාතික මහජන කොංග්‍රසයේ වාර්ෂික සැසිවාරය සාර්ථකව නිමාවෙයි
+### The Chinese National People's Congress Annual Session complex
 
 *2024-03-11 15:46:21* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතික-මහජන-කොංග්‍රසයේ-වාර්ෂික-සැසිවාරය-සාර්ථකව-නිමාවෙයි/11-408537) · `si`
 
-14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය සාර්ථකව නිමාවට පත්වෙයි. සමාප්ති උළෙල අද (11) පස්වරුවේ බෙයිජිං අගනුවර මහජන මහා ශාලාවේ දී පැවැත්විණ. එය ආරම්භ වූයේ ඉකුත් 5 වැනිදා යි.
+The 14th Session of the Chinese People's Congress concluded with a focus on regional identity and modern techniques for productivity. President Xi Jinping emphasized the need for new quality productivity to suit regional identity. The session highlighted the importance of increasing strategic capacity in new sectors with Chinese identity, reflecting the Chinese Communist Party's determination to meet its goals amid challenges.
 
-චීන ජනාධිපති ෂී ජින්පිං මහතා ඇතුළු චීන කොමියුනිස්ට් පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 2900ක පමණ පිරිසක් මෙවර සැසිවාරයට එක්වූ අතර චීන අග්‍රාමාත්‍යවරයා සමුළුව ආරම්භයේ දී ඉදිරිපත් කළ රාජ්‍ය කාර්ය වාර්තාව දෙස් විදෙස් ඉහළ අවධානයට ලක්විය.
+🟩
 
-කලාපීය අනන්‍යතාවට ගැලපෙන පරිදි නව ගුණාත්මක ඵලදායිතාව සහතික කිරීමේ අවශ්‍යතාව මෙවර සැසිවාරයේ දී අවධාරණය කෙරිණ. සැසිවාරයට සහභාගි වූ පළාත් නියෝජිත හමුවලට එක් වූ චීන ජනාධිපතිවරයා රට පුරා පවතින විවිධ මට්ටම්වල පරිපාලනයන් රටේ සැබෑ තත්ත්වයන්ට සරිලන අයුරින්, නවීන ක්‍රමවේද ඔස්සේ ක්‍රියාවට නැංවිය යුතු බව ද පෙන්වා දී ඇත.
+14th Session of the 14th Chinese People's Congress successfully concludes. The concludation festival was held at the Public Large Hall of Beijing this afternoon. It was on the 5th.
+
+The Chinese Communist Party, including the Chinese President Xi Ginping, joined the Session of the Chinese Communist Party and the Chinese Communist Party and the National People's Congress representatives.
+
+The need to ensure new quality productivity to suit regional identity was emphasized in this year's session. The President, who joined the session to attend the session, the President has also shown that the various levels of various levels across the country should be implemented through modern techniques to suit the country's real standards.
 
 ...
 
 [Data](articles/7655a5f6.json)
 
+[Extended Data](ext_articles/7655a5f6.ext.json)
+
 ---
 
-### චීනය කරන්න යන වෙනස
+### Change on China
 
 *2024-03-11 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194384) · `si`
 
-14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය සාර්ථකව නිමාවට පත්වෙයි.
+The 14th Chinese People's Congress concluded with a focus on new quality productivity, strategic capacity in new fields, and modern techniques for regional identity. Critics highlight the government's determination to meet challenges.
 
-සමාප්ති උළෙල අද (11) පස්වරුවේ බෙයිජිං අගනුවර මහජන මහා ශාලාවේ දී පැවැත්විණ.
+🟩
 
-චීන ජනාධිපති ෂී ජින්පිං මහතා ඇතුළු චීන කොමියුනිස්ට් පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 2900ක පමණ පිරිසක් මෙවර සැසිවාරයට එක්වූණි.
+The second session of the 14th Chinese People's Congress successfully concludes.
 
-චීන අග්‍රාමාත්‍යවරයා සමුළුව ආරම්භයේ දී ඉදිරිපත් කළ රාජ්‍ය කාර්යය වාර්තාව දෙස් විදෙස් ඉහළ අවධානයට ලක්විය.
+The concludation ceremony was held at the Public Large Hall of Beijing this afternoon.
 
-කලාපීය අනන්‍යතාවට ගැලපෙන පරිදි නව ගුණාත්මක ඵලදායිතාව සහතික කිරීමේ අවශ්‍යතාව මෙවර සැසිවාරයේ දී අවධාරණය කෙරිණ.
+Around 2900 people of Chinese Communist Party and the Chinese Communist Party and the Chinese Communist Party and the National People's Congress as well as 2900 people of the National People's Congress joined the session.
 
-සැසිවාරයට සහභාගි වූ පළාත් නියෝජිත හමුවලට එක් වූ චීන ජනාධිපතිවරයා රට පුරා පවතින විවිධ මට්ටම්වල පරිපාලනයන් රටේ සැබෑ තත්ත්වයන්ට සරිලන අයුරින්, නවීන ක්‍රමවේද ඔස්සේ ක්‍රියාවට නැංවිය යුතු බව ද පෙන්වා දී ඇත.
+The Government's work report presented at the beginning of the convention was attributed to the Government's work.
 
-චීන අනන්‍යතාව සහිත නවීකරණ ක්‍රියාවලිය හා ජාතික පුනර්ජීවනය ඉදිරියට ගෙන යාමේ දී නව ක්ෂේත්‍රවල උපායමාර්ගික හැකියාව ඉහළ නැංවීමේ වැදගත්කම ද මෙවර ප්‍රමුඛ අවධානය දිනාගත් කරුණකි.
+The need to ensure new quality productivity to suit regional identity was emphasized in this year's session.
+
+The President, who joined the session to attend the session, the President has also shown that the various levels of various levels across the country should be implemented through modern techniques to suit the country's real standards.
 
 ...
 
 [Data](articles/991b1a82.json)
+
+[Extended Data](ext_articles/991b1a82.ext.json)
 
 ---
 
@@ -103,6 +197,24 @@ Salindu was arrested by the security authorities in Madagascar last year and bro
 ◼️
 
 [Data](articles/6ceecd1d.json)
+
+[Extended Data](ext_articles/6ceecd1d.ext.json)
+
+---
+
+### Indian renewable energy companies visit Sri Lanka to discuss investment
+
+*2024-03-11 15:30:00* · [`economynextcom`](https://economynext.com/indian-renewable-energy-companies-visit-sri-lanka-to-discuss-investment-154089/) · `en`
+
+ECONOMYNEXT – A delegation of renewable energy companies affiliated with the Confederation of Indian Industry (CII) are in the Sri Lanka for a three-day visit, Power and Energy Minister Kanchana Wijesekera said.
+
+The delegation is organized by the Ministry of New and Renewable Energy of the Government of India and CII on energizing India-Sri Lanka ties through cooperation in renewable energy, Wijesekera said on social media platform X (twitter) after they visited the Ministry on Monday morning.
+
+“Renewable energy policy and plans of Sri Lanka, ongoing projects, electricity sector reforms, investment opportunities, legal framework, off shore wind development, green hydrogen roadmap, interconnectivity was briefed and discussed at the meeting.”
+
+...
+
+[Data](articles/c1d7c243.json)
 
 ---
 
@@ -368,6 +480,28 @@ Why do I care about them and they are one of our enemies who killed our brothers
 
 ---
 
+### Sri Lanka planning to raid unregistered places of worship
+
+*2024-03-11 14:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-to-raid-unregistered-places-of-worship-154081/) · `en`
+
+ECONOMYNEXT- Sri Lanka is planning to raid places of worship that have not been registered with the authorities, Minister of Buddhasasana, Religious and Cultural Affairs, Vidura Wickramanayake said.
+
+“As per the law, all religious institutions, be it Buddhist, a Hindu temple or a mosque, need to be registered,” Wickramanayake told EconomyNext on Monday.
+
+“There are some unregistered religious institutions that cause religious disharmony.”
+
+He referred to the case of one Pastor Jerome, who was arrested after a video of a sermon containing controversial remarks about Buddhism.
+
+People can criticize their own religion but not others’, according to the minister.
+
+“You can criticize your own religion but you can’t criticize other religions,” he said. “Of course, you can compare but you can’t criticize. You cannot make derogatory remarks on another religion.
+
+...
+
+[Data](articles/eac07a3e.json)
+
+---
+
 ### Six months postponed to SriLankan
 
 *2024-03-11 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194380) · `si`
@@ -591,6 +725,24 @@ We are invited to meet the Inquiry Unit of the Inquiry Unit at the Narahenpita a
 [Data](articles/db33eae6.json)
 
 [Extended Data](ext_articles/db33eae6.ext.json)
+
+---
+
+### Thirty Sri Lanka ruling party MPs discussing alliance with opposition SJB: Ashok
+
+*2024-03-11 13:59:00* · [`economynextcom`](https://economynext.com/thirty-sri-lanka-ruling-party-mps-discussing-alliance-with-opposition-sjb-ashok-154077/) · `en`
+
+ECONOMYNEXT — Thirty MPs of the ruling Sri Lanka Podujana Peramuna are in talks with the main opposition Samagi Jana Balawegaya (SJB) about joining forces, SJB legislator Ashok Abeysinghe said.
+
+Speaking to reporters at an event in Kurunegala on Sunday March 10, Abeysinghe said five out of 11 SLPP parliamentarians that were elected from the Kurunegala district will team up with the SJB for the upcoming elections.
+
+“We don’t intend to accept any MP from the SLPP. We only plan to take MPs without corruption charges and don’t have any court cases. Even now about 30 MPs are talking to us about forming an alliance with us,” the MP said.
+
+“In the next few weeks, the media and the country will know who that is,” he added.
+
+...
+
+[Data](articles/f5b1ecb7.json)
 
 ---
 
@@ -1000,6 +1152,26 @@ The CID tried to take away the beef and the security forces to sufilize it.
 
 ---
 
+### Sri Lanka SEC urges fund management firm to get into ETF and umbrella scheme
+
+*2024-03-11 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-urges-fund-management-firm-to-get-into-etf-and-umbrella-scheme-154070/) · `en`
+
+ECONOMYEXT – Sri Lanka’s Securities and Exchange Commission has urged the country’s unit trusts to be more active for fund managers to make use of regulation that allow Exchange Traded Funds and Umbrella schemes.
+
+The SEC has not received applications from managing companies for the establishment of such schemes.
+
+SEC Chairman Faizal Salieh had urged the industry representatives to identify the interests of different investor categories and design new products, at a recent meeting with CEOs of the Unit Trust industry, a statement said.
+
+Salieh suggested that “the Unit Trust industry introduces capital protected investment schemes where the Managing Company would be able to provide a return to their clients whilst preserving the capital.”
+
+The SEC, under the Collective Investments Code 2022 (CIS Code) has introduced the regulatory framework for the operation of Exchange Traded Funds (ETFs) and Umbrella Schemes.
+
+...
+
+[Data](articles/1ed3d38e.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-03-11 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178413) · `ta`
@@ -1255,6 +1427,28 @@ Parents say that another teacher has taken place of native leave and two more te
 [Data](articles/e5b092fc.json)
 
 [Extended Data](ext_articles/e5b092fc.ext.json)
+
+---
+
+### Sri Lanka – India ferry to multiple destinations mulled to cut costs
+
+*2024-03-11 12:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-ferry-to-multiple-destinations-mulled-to-cut-costs-154065/) · `en`
+
+ECONOMYNEXT – A passenger ferry service that goes to multiple destinations is being considered as a previous effort for a journey between two points was not financially viable, Indian High Commissioner to Colombo Santosh Jha said.
+
+There were hopes that a ferry service from Nagapatnam in India to Kankasanthurai in Sri Lanka would start from February 2024, but its regular services have yet to start.
+
+The key problem was the ticket prices were very high, High Commissioner Jha told a forum organized by Sri Lanka’s Press Club.
+
+Due to the high costs India had taken a decision to subsidize the ferry which may amount to ‘millions of Sri Lanka rupees’ every day.
+
+Sri Lanka has also offered concessions. Sri Lanka has said the embarkation tax for ferry passengers will be cut to 5 dollars compared to 60 dollars for air tickets.
+
+With the combination of governmental support, it is now possible to run the ferry, he said.
+
+...
+
+[Data](articles/388bf64b.json)
 
 ---
 
@@ -1552,23 +1746,29 @@ Hollywood actor and WWE boxer, 46 -year -old John China, has come to the stage n
 
 ---
 
-### ටයිම්ඩ් අවුට් සිද්ධියෙන් ලංකාව ඉවත්විය යුතුයි - ෂැන්ටෝ
+### Sri Lanka should quit in Thymid Out - Shantho
 
 *2024-03-11 11:00:06* · [`adalk`](https://www.ada.lk/sports/ටයිම්ඩ්-අවුට්-සිද්ධියෙන්-ලංකාව-ඉවත්විය-යුතුයි---ෂැන්ටෝ/9-408530) · `si`
 
-ලෝක කුසලාන තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායමේ හිටපු නායක ඇන්ජලෝ මැතිව්ස්ව ටයිම්ඩ් අවුට් දැවී යාමකට ලක්කළ සිදුවීමෙන් දැන් ශ්‍රි ලංකාව ඉවත් විය යතු බව බංග්ලාදේශ වත්මන් නායක නජ්මුල් හුසේන් ෂැන්ටෝ පවසයි.
+Sri Lanka's resignation from TIMD ANUTES at the World Cup, as per Bangladesh's Nadgest Husano, is criticized. He emphasizes the importance of adhering to rules. The incident involving Sri Lankan and Bangladeshi players at TiMid Out is highlighted, with Sri Lanka's team from Group Twenty and Twenty showing the new TIMD Out.
 
-ඔහු සඳහන් කරන්නේ ශ්‍රී ලංකා කණ්ඩායම වර්තමානයේ සිටිය යුතු බවත් ඇන්ජලෝ මැතිව්ස් දවා ගැනීමේදී සිදුවීමේදි තම කණ්ඩායම නීති රීති අනුව කටයුතු කළ යුතු බවත්ය.
+🟩
 
-ලෝක කුසලාන තරගාවලියෙන් අනතුරුව ශ්‍රි ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩායම අතර පැවැත්වෙන මෙම තරගාවලිය තුළද ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයන් මෙන්ම බංග්ලාදේශ කණ්ඩායමේ ක්‍රීඩකයන්ද ටයිම්ඩ් අවුට් දවා ගැනීමේ සිදුවීම සම්බන්ධයෙන් අභිනයෙන් ක්‍රියා කරන අයුරු දක්නට ලැබෙයි.
+Bangladesh current leader Nadgest Husano Says Sri Lanka's resignation of TIMD ANUTES at the World Cup.
 
-මෙහිද විස්සයි20 තරගාවලියේ ශූරතාවය දිනා ගැනීමෙන් අනතුරුව සමූහ ජායාරූපයකට පෙනී සිටි සිටි ශ්‍රී ලංකා කණ්ඩායම නැවත වරක් අභිනයෙන් ටයිම්ඩ් අවුට් සිදුවීම පෙන්නුම් කළේය.
+He refers to the rules that the Sri Lankan team should be today and that their team should act on the rules.
 
-"ඔවුන් ටයිම්ඩ් අවුට් සිදුවීම අභිනයෙන් පෙන්වූවා. ඔවුන් තවමත් එයින් ඉදිියට ගොස් නෑ. මම හිතන්නේ ඔවුන් එයින් ඉවත් විය යුතුයි. ඔවුන් වර්තමානයේ සිටිය යුතුයි. අපි නීති රීති තුළ හිටියා. ඔවුන් ඒ ගැන තරහින් ඉන්නේ. මම ඒ ගැන වැඩිය කලබල වෙන්නේ නැහැ."
+After the World Cup, the Sri Lankan team and the Bangladesh team players and the Bangladesh players in the Sri Lankan team and the Bangladesh team players are also found in the event of TiMid Out.
+
+The Sri Lankan team, who appeared for a group of Group Twenta and 20, showed the new tymd out.
+
+"They showed the tymid out incident. They have not yet been built. I think they should get out of it. They should be at present. We were in the rules. They're angry about it. I'm not too upset about it. "
 
 ◼️
 
 [Data](articles/c271ad37.json)
+
+[Extended Data](ext_articles/c271ad37.ext.json)
 
 ---
 
@@ -2123,213 +2323,5 @@ The Colombo Stock Exchange opened up; the All Share Price Index was up 0.39 perc
 [Data](articles/af52eed2.json)
 
 [Extended Data](ext_articles/af52eed2.ext.json)
-
----
-
-### IGP who went among the suspects
-
-*2024-03-11 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194368) · `si`
-
-IGP Tennakoon questioned a suspect at Welewatta Stadium, Nugegoda, during a justice operation. The suspect, facing drug charges, claimed to have been caught by the police multiple times and expressed difficulty walking due to swollen legs. Tennakoon suggested the suspect could walk to the police station or use a program to send drugs, and mentioned community policing and infrastructure improvements.
-
-🟩
-
-Under the second phase of justice operation, a raid was held in the Nugegoda Police Division this morning.
-
-The suspects were taken to the Welewatta Stadium in Wellampitiya and the IGP, Deshabandu Tennakoon was also present.
-
-The IGP questioned a woman among the suspects there.
-
-IGP - "How many times have you caught the police earlier?"
-
-Suspect - "Yes sir. Let me eat my kids eat, sir. Danice swollen. "
-
-IGP - Don't you, anything else to do. Instead of selling drugs to people?
-
-Suspect - "I'm Shppy Vicca sir ... I can't go on foot. The legs were swollen. I have nothing to do. "
-
-The IGP - "Isn't you a walk to take the problem to Ship? Who can sell if Swip do?" Who is in the community police? "
-
-The IGP - "You can and make a program to send the slate."
-
-IGP - "Speaking to Lottery Reptection and builds hips to house. The road is being put in courts. "
-
-◼️
-
-[Data](articles/dfb6ba56.json)
-
-[Extended Data](ext_articles/dfb6ba56.ext.json)
-
----
-
-### Drought weather;Emergency Phone No.
-
-*2024-03-11 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178389) · `ta`
-
-Due to drought, the National Water Supply and Drainage Board faces water supply disruptions. They've introduced an emergency phone number, 1939, to address these issues and promote water supply.
-
-🟩
-
-The National Water Supply and Drainage Board has introduced an emergency telephone number to announce the obstacles and disruption of water supply in the wake of the drought in the country.
-
-Due to the prevailing drought in the country, the National Water Supply and Drainage Board is facing various obstacles in the supply of uniform water in various areas.
-
-The National Water Supply and Drainage Board says that the increase in the demand for water daily has caused many obstacles in the supply of water.
-
-As a result, the Water Supply and Drainage Board reports that some areas of the country have to distribute water with low pressure or restrictions.
-
-In this context, the National Water Supply and Drainage Board has introduced an emergency telephone number 1939 to ease the public's opinions, to promote water supply and to immediately address the disruption of water supply.
-
-◼️
-
-[Data](articles/a54ba2fd.json)
-
-[Extended Data](ext_articles/a54ba2fd.ext.json)
-
----
-
-### The woman who went to the Sivanolipada mountain
-
-*2024-03-11 09:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலைக்கு-சென்ற-பெண்-மரணம்/175-334485) · `ta`
-
-An 80-year-old woman died on the Sivanolipada mountain. She fell ill in Gangula, Siyatha, and was admitted to Maskeliya District Hospital without treatment. Her body is at the hospital, to be released to relatives after autopsy.
-
-🟩
-
-An elderly woman who died from the Wattala - Sivanolipada hill has died.
-
-When he returned to the darshan last night, he was suddenly ill in the Gangula area of Siyatha.
-
-Nalladhani Police Station Superintendent Shantha Weerasekera said that he died without treatment when he was admitted to the Maskeliya District Hospital.
-
-The 80 -year -old Sumanavathi, who died from the Wattala area to the Sivanolipada hill with his family.
-
-The body is placed on Maskeliya District Hospital. The body of the police station said that the body is to be handed over to relatives after the autopsy.. Remble
-
-◼️
-
-[Data](articles/2f44f793.json)
-
-[Extended Data](ext_articles/2f44f793.ext.json)
-
----
-
-### The death of a woman who went to the mountain of Sivanolipada
-
-*2024-03-11 09:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலைக்கு-தரிசனம்-செய்யச்-சென்ற-பெண்-மரணம்/175-334485) · `ta`
-
-An 80-year-old woman from Wattala died on Sivanolipada hill, without treatment at Maskeliya District Hospital.
-
-🟩
-
-An elderly woman who died from the Wattala - Sivanolipada hill has died.
-
-When he returned to the darshan last night, he was suddenly ill in the Gangula area of Siyatha.
-
-Nalladhani Police Station Superintendent Shantha Weerasekera said that he died without treatment when he was admitted to the Maskeliya District Hospital.
-
-The 80 -year -old Sumanavathi, who died from the Wattala area to the Sivanolipada hill with his family.
-
-The body is placed on Maskeliya District Hospital. The body of the police station said that the body is to be handed over to relatives after the autopsy.. Remble
-
-◼️
-
-[Data](articles/83595553.json)
-
-[Extended Data](ext_articles/83595553.ext.json)
-
----
-
-### 'Bundant is taken to court'
-
-*2024-03-11 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194367) · `si`
-
-"Bundant, a notorious criminal, faces court."
-
-🟩
-
-The organized criminal of the organized criminal, such as Chinthaka, or 'beef' has been brought to the Fort Magistrate's Court.
-
-◼️
-
-[Data](articles/1794f5be.json)
-
-[Extended Data](ext_articles/1794f5be.ext.json)
-
----
-
-### Prime Minister to head off to China later this month
-
-*2024-03-11 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-to-head-off-to-China-later-this-month/108-278596) · `en`
-
-Colombo, March 11 (Daily Mirror) - Prime Minister Dinesh Gunawardena will undertake an official tour of China later this month and hold talks with his counterpart Li Qiang, Daily Mirror learns.
-
-During the visit, China and Sri Lanka are expected to sign half a dozen of MoUs related to bilateral cooperation in key areas. However, details related to the agreements were not yet available.
-
-President Ranil Wickremesinghe has reportedly instructed the Prime Minister to undertake this visit. During his stay in China, Mr. Gunawardena will travel to both Beijing and Shanghai where he will address business leaders.
-
-◼️
-
-[Data](articles/75ee4b9b.json)
-
-[Extended Data](ext_articles/75ee4b9b.ext.json)
-
----
-
-### Two mega structure of two megiya parchment project
-
-*2024-03-11 09:20:00* · [`adalk`](https://www.ada.lk/picture_story/මෙගා-වොට්-දෙකක-බිම්ගත-සූරිය-පැනල-විදුලි-උත්පාදන-ව්‍යාපෘතියක්-වීවෘත-කරයි/10-408525) · `si`
-
-The Two Mega Structure project in Batticaloa, initiated by the Lab-Solar Panel, involves the installation of two 2MW solar panels by Bacbe Sula Pvt.
-
-🟩
-
-The project was opened in Batticaloa by the lab-solar panels of the two MW (MW)-built solar panels.
-
-The project has been implemented by the Bacbe Sula Pvt.
-
-◼️
-
-[Data](articles/873863e1.json)
-
-[Extended Data](ext_articles/873863e1.ext.json)
-
----
-
-### Special discussion on IMF bailout programme today
-
-*2024-03-11 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/97863/special-discussion-on-imf-bailout-programme-today) · `en`
-
-A discussion between the visiting team of officials from the International Monetary Fund (IMF) and representatives from the government and opposition regarding the IMF bailout programme is scheduled to be held today (11) at the Presidential Secretariat in Colombo.
-
-Ministers of State for Finance Shehan Semasinghe, Ranjith Siyambalapitiya, Chief of Staff to the President Sagala Ratnayake, Presidential Secretary Saman Ekanayake, Central Bank Governor Dr. Nandalal Weerasinghe, Finance Ministry Secretary Mahinda Siriwardena are expected to participate.
-
-Meanwhile, the Presidential Secretariat stated that opposition leader Sajith Premadasa, National People’s Power leader Anura Kumara Dissanayake and the leader of the Tamil National Alliance (TNA) R. Sampanthan have also been invited to participate in the discussion.
-
-...
-
-[Data](articles/3973438c.json)
-
-[Extended Data](ext_articles/3973438c.ext.json)
-
----
-
-### Over 250 Jaffna youths apply to join Sri Lanka Air Force: Sagala
-
-*2024-03-11 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-250-Jaffna-youths-apply-to-join-Sri-Lanka-Air-Force-Sagala/108-278595) · `en`
-
-Jaffna, March 11 (Daily Mirror) - More than 250 youths from Jaffna have applied to join the Sri Lanka Air Force during the 'Air Tattoo 2024' educational and technological exhibition, which was held in Jaffna in commemoration of the SLAF’s 73rd anniversary.
-
-The Sri Lanka Air Force conducted the ‘Air Tattoo’ from March 6 and concluded on a momentous note, marking a potential turning point in relations between the SLAF and the Jaffna community.
-
-The event, held at the Muttraweli Ground, not only served as a platform for education and technological exploration but also witnessed a remarkable display of renewed interest in the Air Force from Jaffna's youth.
-
-The final day of the 'Air Tattoo' was held yesterday, with the Senior Adviser on National Security to the President and Chief of the Presidential Staff Sagala Ratnayaka attending the event as the Chief Guest. The Commander of the Air Force, Air Marshal Udeni Rajapaksa, extended a welcome to the Chief Guest upon his arrival.
-
-...
-
-[Data](articles/2d116f68.json)
-
-[Extended Data](ext_articles/2d116f68.ext.json)
 
 ---

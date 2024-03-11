@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 01:02:52**
+As of **2024-03-12 01:18:00**
 
 ## Newspaper Stats
 
-*Scraped **12,242** Articles*
+*Scraped **12,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,482
 tamilmirrorlk | 1,491
 virakesarilk | 1,682
 dailymirrorlk | 1,870
-adaderanasinhalalk | 1,934
+adaderanasinhalalk | 1,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,242 (100.0%) of 12,242 articles have been extended.
+12,242 (100.0%) of 12,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### හිමි නම ඝාතන සිද්ධියේ වෙඩික්කරු පොලිස් වෙඩි ප්‍රහාරයෙන් මරුට
+
+*2024-03-12 00:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194398) · `si`
+
+ගම්පහ මල්වතුහිරිපිටිය විහාරස්ථානයකදී හිමි නමක් ඝාතනය කිරීමේ සිද්ධියට අත්අඩංගුවට ගත් වෙඩික්කරු පොලිස් වෙඩි ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව තිබේ.
+
+සැකකරු අත්තනගල්ල යටවක ප්‍රදේශයේ සැඟවූ ආයුද සොයාගැනීම සඳහා ගොස් සිටියදී පළායාමට උත්සාහ දරා ඇති අතර එහිදී පොලීසිය සිදුකළ වෙඩිතැබීමකින් සැකකාර වෙඩික්කරු මියගොස් ඇත.
+
+ගම්පහ මල්වතුහිරිපිටිය, කහටාන ශ්‍රී ඝනාරාම විහාරස්ථානයේ වැඩ විසූ හිමිනමක් පසුගිය ජනවාරි 23 වනදා වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු ලෙස සැකකෙරෙන මෙම පුද්ගලයාව මොණරාගල හම්බේගමුව ප්‍රදේශයේදී අත්අඩංගුවට ගත්තේය.
+
+සැකකටයුතු පුද්ගලයෙකු ප්‍රදේශයේ සිටින බවට හම්බෙගමුව පොලිස් ස්ථානයේ බුද්ධි අංශ නිලධාරීන් වෙත ලද තොරතුරක් අනුව සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/5ff4f854.json)
+
+---
 
 ### Foreign country should help foreign countries to stop continuing attacks on Tamils
 
@@ -2311,37 +2329,5 @@ The businessmen calling the relevant authorities to be taken to the other suicid
 [Data](articles/f8ed7294.json)
 
 [Extended Data](ext_articles/f8ed7294.ext.json)
-
----
-
-### Rare surgery carried out in the spine
-
-*2024-03-11 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194379) · `si`
-
-A 72-year-old woman underwent a rare, painful spine surgery at Badulla Teaching Hospital, with Dr. Lakmal Hewage playing a crucial role. This unique procedure, performed under the endoscopy system, was without anesthesia, showcasing the patient's complete recovery.
-
-🟩
-
-The Date, Painful Events There are many situations that challenged with the advancement of medicine.
-
-Badulla Teaching Hospital today (11), the Badulla Teaching Hospital reports today (11).
-
-For the age of 72, in the past 72 years, the age of 72 is a woman who suffered from a pain.
-
-No matter how many treatment was received, she had no cure.
-
-Dr. Lakmal Hewage, Dr. Lakmal Hewage, is essential to her due to the patient of this woman.
-
-The surgery was a very rare sequence of unparalleled in the country.
-
-This surgery under the endoscompary system is unique because the patient is not able to undergo stylish and the surgery without anesthesia.
-
-The patient is being recovering completely after style, the patient is being recovered.
-
-◼️
-
-[Data](articles/6841a809.json)
-
-[Extended Data](ext_articles/6841a809.ext.json)
 
 ---

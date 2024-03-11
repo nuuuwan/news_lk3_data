@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 16:49:48**
+As of **2024-03-11 17:02:58**
 
 ## Newspaper Stats
 
-*Scraped **12,172** Articles*
+*Scraped **12,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,034
-adaderanalk | 1,471
-tamilmirrorlk | 1,485
-virakesarilk | 1,668
+adaderanalk | 1,472
+tamilmirrorlk | 1,487
+virakesarilk | 1,669
 dailymirrorlk | 1,862
 adaderanasinhalalk | 1,922
 
@@ -26,45 +26,157 @@ adaderanasinhalalk | 1,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,169 (100.0%) of 12,172 articles have been extended.
+12,172 (100.0%) of 12,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### யானை வேலிகளைப் பாதுகாப்பதற்காக 4,500 பல்நோக்கு உத்தியோகத்தர்களை இணைத்துக் கொள்ள அங்கீகாரம் - பவித்ரா
+### இந்த மாணவனை கண்டால் உடன் தகவல் தாருங்கள்...
 
-*2024-03-11 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178450) · `ta`
+*2024-03-11 16:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இந்த-மாணவனை-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-334515) · `ta`
 
-யானை வேலிகளைப் பாதுகாப்பதற்காக வனஜீவராசிகள் அமைச்சுக்கு 4,500 பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்களை இணைத்துக் கொள்ள நிதியமைச்சு அனுமதியளித்துள்ளதாக வனஜீவராசிகள் மற்றும் வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ராதேவி வன்னியாரச்சி தெரிவித்தார்.
+மன்னார் - நானாட்டான் பிரதேச செயலகப் பிரிவில் உள்ள அச்சங்குளம் கிராமத்தில் வசிக்கும் சந்திரசேகர் நிலோஜ் ரோக்க்ஷன் (வயது 17) என்ற மாணவன் காணாமல் போயுள்ளார்.
 
-நாட்டின் காடுகளை மொத்த நிலப்பரப்பில் 32% வரை அதிகரிக்கும் திட்டத்துடன் தொடர்புடைய வன எல்லைகளை நிர்ணயம் செய்யும் பணி இந்த ஆண்டு நிறைவடையும் என எதிர்பார்க்கப்படுவதாகவும் அமைச்சர் குறிப்பிட்டார்.
+நேற்று (10) மதியம்  மதியம் அச்சங்குளம் கிராமத்தில் உள்ள தனது வீட்டில் இருந்து வெளியில் சென்ற   இந்த மாணவன் இது வரை வீடு திரும்பவில்லை என பெற்றோர் முருங்கன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (11) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே வனஜீவராசிகள், வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ரா வன்னியாரச்சி இதனைத் தெரிவித்தார்.
+காணாமல் போன மாணவன் நானாட்டான் பிரதேசத்தில் உள்ள பிரபல பாடசாலையில்  உயர் தரத்தில் கல்வி கற்று வருவதாக தெரிய வருகின்றது.
 
-“சர்வதேச காடுகள் தினம் மார்ச் 21 அன்று கொண்டாடப்படுகிறது. இதேவேளை, நாடளாவிய ரீதியில் உள்ள அனைத்து வீடுகளுக்கும் தலா ஒரு செடியை வழங்குவதற்கான ஏற்பாடுகளும் மேற்கொள்ளப்பட்டு வருகின்றன.
+குறித்த மாணவன் பற்றிய தகவல் தெரிந்தவர்கள் 077-4722506 என்ற இலக்கத்துடன் தொடர்பு கொள்ளுமாறு பெற்றோர் கேட்டுக் கொண்டனர். R
+
+◼️
+
+[Data](articles/640db7e3.json)
+
+---
+
+### Student death of Marathon;Tension in front of the hospital in Siroil
+
+*2024-03-11 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
+
+A 16-year-old student died after a Marathon in Tirukovil, leading to protests and tension. Initially treated at Tirukovil hospital, he was transferred to Akkaraipattu Base Hospital due to inadequate medical equipment. Police are investigating.
+
+🟩
+
+The death of a student who ran a Marathon in the Tirukovil area took place on Monday (11).
+
+Vidarshan, a 16 -year -old student from the Mission Tamil Maha Vidyalaya, who was killed in the Tirukovil, died.
+
+The student who attended the Marathon race this morning went to the classroom when the competition was completed. It is reported that he went to the hospital for treatment at Tirukovil, claiming to be caught in the stomach and later undergoing emergency treatment.
+
+However, inadequate treatments, including CPR treatment for him, have been taken up.Hospital sources said that due to the lack of adequate medical equipment, the concern was not immediately transferred to the resource hospital.
+
+The body of the deceased student has been placed at the Akkaraipattu Base Hospital and further investigations are being carried out by the police in Tirukovil.
+
+Students and youth are protesting in front of the hospital's resource hospital at the hospital.
+
+...
+
+[Data](articles/7dca2866.json)
+
+[Extended Data](ext_articles/7dca2866.ext.json)
+
+---
+
+### Heat advisory: Temperatures expected to reach ‘caution’ level
+
+*2024-03-11 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97873/heat-advisory-temperatures-expected-to-reach-caution-level-) · `en`
+
+The Department of Meteorology has cautioned the people of rising temperatures in the North-western, Western, Southern and Sabaragamuwa provinces as well as in the Anuradhapura, Mannar, Trincomalee and Batticaloa districts tomorrow.
+
+The heat index advisory, issued at 04:00 p.m. today (11 March), will be in effect until tomorrow evening (12 March).
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Western, North-western, Southern and Sabaragamuwa provinces and in Anuradhapura, Mannar, Trincomalee and Batticaloa districts”, the advisory read.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
+
+...
+
+[Data](articles/8df47206.json)
+
+---
+
+### மட்டக்களப்பு ஒருமுழச்சோலையில் சூரிய மின்உற்பத்தி நிலையம் திறந்து வைப்பு
+
+*2024-03-11 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178452) · `ta`
+
+மட்டக்களப்பு ஏறாவூர் பற்று பிரதேச செயலக பிரிவுக்குட்பட்ட கொம்மாதுறை வடக்கு ஒருமுழச்சோலை கிராமத்தில் மின்சக்தி மற்றும் வலுசக்தி அமைச்சரினால் சூரிய மின்சக்தி நிலையம் திறந்து வைக்கப்பட்டுள்ளது. நேற்று திங்கட்கிழமை கிராமிய வீதிகள் இராஜாங்க அமைச்சரும் மட்டக்களப்பு மாவட்ட அபிவிருத்திக் குழு தலைவருமான சிவநேரதுறை சந்திரகாந்தன் உள்ளிட்டோரின் பங்கேற்புடன் இந்நிகழ்வு இடம்பெற்றுள்ளது.
+
+நாட்டிற்கும் மக்களுக்கும் பயனுள்ள முதலீட்டு திட்டத்தினை முன்னெடுத்து நாட்டின் மின்சார உற்பத்திக்கு பாரிய பங்களிப்புச் செய்து வரும் வெக்வே சோலார் பிரைவேட் லிமிடெட் நிறுவனத்தின் ஊடாக மட்டக்களப்பு ஒருமுழச்சோலை  சித்திவிநாயகர் வித்தியாலயத்தின் உட்கட்டுமான பணிகளுக்காக ரூபாய் ஐந்து லட்சம் நிதியுதவியினையும் அமைச்சர் கஞ்சன விஜேயசேகர மற்றும இராஜாங்க அமைச்சர் சந்திரகாந்தன் ஆகியோரால் பெற்றுக் கொடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3337cb7b.json)
+
+---
+
+### 4,500 multipurpose officers to protect elephant fences - Pavithra
+
+*2024-03-11 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178450) · `ta`
+
+The Ministry of Finance has allocated 4,500 multipurpose officers to the Ministry of Wildlife to protect elephant fences. Pavithra Devi Wanniyarachchi, Minister of Finance and Forest Resources, announced the completion of forest border determination for a 32% forest increase plan. The initiative includes enhancing wilderness, protecting waterproof areas, and providing water for 20,000 acres.
+
+🟩
+
+Minister of Finance and Forest Resources Protection and Irrigation Pavithra Devi Wanniyarachchi said that the Ministry of Finance has given the Ministry of Wildlife to the Ministry of Wildlife to protect the elephant fences.
+
+The Minister said that the process of determining the forest borders associated with the plan to increase the country's forests by 32% on the total land area is expected to be completed this year.
+
+Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniyarachchi said this at a media briefing held at the Presidential Media Center on Monday.
+
+“International Forests Day is celebrated on March 21st. Meanwhile, arrangements are being made to provide one plant each of the homes across the country.
 
 ...
 
 [Data](articles/c6bf6b41.json)
 
+[Extended Data](ext_articles/c6bf6b41.ext.json)
+
 ---
 
-### மன்னார் 'சதோச' மனித புதைகுழி வழக்கு ; சட்ட வைத்திய அதிகாரி ராஜபக்சவை நேரில் ஆஜராகுமாறு அறிவுறுத்தல்
+### மரதன் ஓடிய மாணவன் மரணம்: நீதி  கோரியதால் பதற்றம்
+
+*2024-03-11 16:36:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மரதன்-ஓடிய-மாணவன்-மரணம்-நீதி-கோரியதால்-பதற்றம்/73-334512) · `ta`
+
+திருக்கோவில் மெதடிஸ்த தமிழ் மகா வித்தியாலய மாணவனின் மரணத்திற்கு நீதி கோரி  திருக்கோவில் ஆதார வைத்தியசாலைக்கு முன்பாக பொதுமக்கள் போராட்டம் நடத்தினர்.
+
+அந்த வித்தியாலயத்தின் விளையாட்டுப் போட்டியின் ஓர் அங்கமாக,   மரதன் ஓட்டப்போட்டி, திங்கட்கிழமை (11) காலை நடத்தப்பட்டது.
+
+அதில்,  பங்கேற்ற  மாணவர்களில் ஒருவன், திடீரென  மயக்கமுற்ற நிலையில் திருக்கோவில் ஆதார வைத்தியசாலையில்  அனுமதிக்கப்பட்டிருந்தார். பின்னர் அங்கிருந்து மேலதிக சிகிச்சைக்காக உடனடியாக  அக்கரைப்பற்று ஆதார  மாற்றப்பட்டார். எனினும், அம்மாணவன் உயிரிழந்துள்ளதாக வைத்தியசாலை நிர்வாகம் அறிவித்துள்ளது.
+
+சம்பவத்தை அறிந்த பாடசாலை மாணவர்கள், பொதுமக்கள்   திருக்கோவில் ஆதார  வைத்தியசாலைக்கு முன்பாக ஒன்று கூடி   மாணவனின் மரணத்திற்கு  வைத்தியர்களின் அலட்சியமே காரணமென தெரிவித்து நீதி கோரி போராட்டங்களை முன்னெடுத்தனர்.
+
+மாணவனுக்கு மூன்று மணிநேரம் எந்தவொரு சிகிச்சையும் முன்னெடுக்கவில்லை என போராட்டத்தில் ஈடுபட்டிருந்தவர்கள் குற்றஞ்சாட்டினர்.        திருக்கோவிலை சேர்ந்த  16 வயதான ஜெயக்குமார்  விதுர்ஜன் எனும் மாணவனே உயிரிழந்தவராவார்.
+
+...
+
+[Data](articles/a757e2fd.json)
+
+---
+
+### Mannar 'Satosa' human burial case;Advocate Rajapaksa to appear in person
 
 *2024-03-11 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178448) · `ta`
 
-மன்னார் சதோச மனித புதைகுழி வழக்கானது இன்று திங்கட்கிழமை (11) மன்னார் நீதவான் நீதிமன்றத்தில் எடுத்துக் கொள்ளப்பட்ட நிலையில் பேராசிரியர் ராஜ் சோம தேவ், தடவியல் பொலிஸார் உட்பட அனைத்து தரப்பினரினதும் அறிக்கைகள் பெற நடவடிக்கை எடுக்கப்பட வேண்டும் என்பதுடன் சட்ட வைத்திய அதிகாரி ராஜபக்ஸ அவர்கள் அடுத்த தவணையில் நேரடியாக நீதிமன்றத்தில் ஆஜராகும் படி கட்டளை ஆக்கப்பட்டிருந்தது.
+In the Mannar Sathosa human burial case, Professor Raj Soma Dev urged for reports from all parties, including the Forensic Police, and ordered legal officer Rajapaksa to appear in court. The case was resumed on May 13, with reports on age, cause of death, and other details requested.
 
-குறித்த வழக்கு தொடர்பாக வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் சார்பில் வாதிடும் சட்டத்தரணி V.S.நிரஞ்சன் தெரிவிக்கையில்,
+🟩
 
-மன்னார் சதோச மனித புதைகுழி வழக்கானது இன்றைய தினம் மன்னார் நீதவான் நீதிமன்றத்தில் எடுத்துக் கொள்ளப்பட்டது.
+As the Mannar Sathosa human burial case was taken up at the Mannar Magistrate's Court on Monday (11), Professor Raj Soma Dev said that steps should be taken to obtain reports of all parties, including the Forensic Police, and the legal officer Rajapaksa was ordered to appear in court directly in the next installment.
 
-ஏற்கனவே நீதிமன்றத்தினால் கோரப்பட்ட அறிக்கை கடந்த தவணை சட்டவைத்திய அதிகாரி ராஜபக்ஷவினால் சமர்ப்பிக்க பட்டிருந்தது. ஆனால் அந்த அறிக்கையில் முழுமையாக எல்லா விடயங்களும் அடங்காத படியால் அது சம்பந்தமாக இன்று நீதிமன்றத்தின் கவனத்திற்கு நாங்கள் கொண்டு வந்திருந்தோம்.
+Attorney V.S. Niranjan, who is arguing on behalf of the missing persons in connection with the case
+
+The Mannar Sathosa human burial case was taken up in the Mannar Magistrate's Court today.
+
+The report already requested by the court was submitted by the last installment of the Lawyer Rajapakse. But we were brought to the attention of the court today as it was not fully involved in the report.
+
+That is, reports of the age, its age, the cause of death, and the cause of death, should be submitted from the human remains taken and the reports should be submitted by Professor Raj Somadeva.
 
 ...
 
 [Data](articles/5e3ba76f.json)
+
+[Extended Data](ext_articles/5e3ba76f.ext.json)
 
 ---
 
@@ -83,6 +195,8 @@ The minister added that gradually countries are realising that undertaking trade
 ...
 
 [Data](articles/e4efcc97.json)
+
+[Extended Data](ext_articles/e4efcc97.ext.json)
 
 ---
 
@@ -133,34 +247,6 @@ However, with the arrival of the police, however, the situation was allocated an
 [Data](articles/b3a0d25e.json)
 
 [Extended Data](ext_articles/b3a0d25e.ext.json)
-
----
-
-### Student death of Marathon;Tension in front of the hospital in Siroil
-
-*2024-03-11 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
-
-A 16-year-old student died after a Marathon in Tirukovil, leading to protests and tension. Initially treated at Tirukovil hospital, he was transferred to Akkaraipattu Base Hospital due to inadequate medical equipment. Police are investigating.
-
-🟩
-
-The death of a student who ran a Marathon in the Tirukovil area took place on Monday (11).
-
-Vidarshan, a 16 -year -old student from the Mission Tamil Maha Vidyalaya, who was killed in the Tirukovil, died.
-
-The student who attended the Marathon race this morning went to the classroom when the competition was completed. It is reported that he went to the hospital for treatment at Tirukovil, claiming to be caught in the stomach and later undergoing emergency treatment.
-
-However, inadequate treatments, including CPR treatment for him, have been taken up.Hospital sources said that due to the lack of adequate medical equipment, the concern was not immediately transferred to the resource hospital.
-
-The body of the deceased student has been placed at the Akkaraipattu Base Hospital and further investigations are being carried out by the police in Tirukovil.
-
-Students and youth are protesting in front of the hospital's resource hospital at the hospital.
-
-...
-
-[Data](articles/7dca2866.json)
-
-[Extended Data](ext_articles/7dca2866.ext.json)
 
 ---
 
@@ -2233,97 +2319,5 @@ Chandrasekara added that "IRT has appointed an IRD under the Deputy Commissioner
 [Data](articles/d20b5265.json)
 
 [Extended Data](ext_articles/d20b5265.ext.json)
-
----
-
-### Sri Lankan criminals fled from Dubai to other countries!
-
-*2024-03-11 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178392) · `ta`
-
-Sri Lankan criminals fled Dubai to other countries, with police identifying them through international arrest notices issued under different names.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa says that Sri Lanka's planned criminals have fled to Dubai.
-
-Nihal Talduwa says that the red announcement of the international arrest of criminals in Dubai has been made in other names by making a passport in other names.
-
-◼️
-
-[Data](articles/bac59e82.json)
-
-[Extended Data](ext_articles/bac59e82.ext.json)
-
----
-
-### "Both want to hold different elections"
-
-*2024-03-11 10:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரும்-வெவ்வேறு-தேர்தல்களையே-நடாத்த-விரும்புகின்றனர்/175-334489) · `ta`
-
-President Ranil Wickremesinghe and the Rajapaksa faction disagree on the order of elections, with Wickremesinghe favoring presidential elections first due to lack of grassroots support. The Rajapaksa faction prefers a general election first, citing no strong presidential candidate. Dissanayake suggests the Elections Commission could hold presidential elections on July 22, 2024, amidst factional disputes.
-
-🟩
-
-President Ranil Wickremesinghe said yesterday that the Rajapaksa would want to hold the general election while the Presidential Elections were to be held first.
-
-The president wants the first presidential election to be held more than the general election as he does not have strong support at the grassroots level.
-
-Speaking at the Colombo District Women's Council, she said that the Rajapaksa would like to first be a general election because it was a good idea to go to the presidential election as there was no strong candidate to contest the presidential election.
-
-Sri Lanka PA knows that Rajapakse cannot be re -president. Basil recently came to the country. But, he has no chance to contest the presidential election. So they think the general election is favorable.
-
-However, Dissanayake also said that the Elections Commission would have the authority to hold the presidential election on July 22, 2024, as the clash between the two factions continues on which elections to be held first.
-
-...
-
-[Data](articles/49b58a6d.json)
-
-[Extended Data](ext_articles/49b58a6d.ext.json)
-
----
-
-### What's going on today?
-
-*2024-03-11 10:21:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණය--මොකද-වෙන්නෙ-/11-408526) · `si`
-
-Today's weather: Morning showers/thundershowers in Ratnapura, Kalutara, Galle, Matara, and sea areas off the coast from Hambantota to Batticaloa. Dry weather expected elsewhere. Northeast winds (20-30) and sea areas off Matara to Kankasanthurai may be slightly rough.
-
-🟩
-
-In the morning, the weather forecast issued by the Department of Meteorology, according to the Eastern Province and Hambantota District can be found in the Eastern Province and Hambantota District.. Showers or thundershowers will occur at night in the Ratnapura, Kalutara, Galle and Matara districts.. It is said that in other parts of the island, there is mainly dry weather.
-
-Some locations in the Western, Sabaragamuwa and Uva provinces and in the Galle and Matara districts are expected to be met with a morning.
-
-Showers or thundershowers will occur at several places in the sea areas off the coast extending from Hambantota to Batticaloa, from Hambantota to Batticaloa and Pottuvil.
-
-Winds are bowled out for the northeast of the winds.. (20-30) is around. Winds from Colombo to Puttalam and Mannar via Kankasanthurai and Matara to Pottuvil. (40-45) may increase to up to.
-
-The sea areas off the coast extending from Matara to Kankasanthhatura will be slightly rough at times.
-
-◼️
-
-[Data](articles/ecc23da5.json)
-
-[Extended Data](ext_articles/ecc23da5.ext.json)
-
----
-
-### Shopman arrested
-
-*2024-03-11 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194370) · `si`
-
-Shopman arrested in Moneragala after shooting incident in Malwathuhiripitiya.
-
-🟩
-
-The victim was arrested as a shot of shooting shot in a temple in Malwathuhiripitiya.
-
-The police said that the man was arrested in the Moneragala area.
-
-◼️
-
-[Data](articles/61e1384d.json)
-
-[Extended Data](ext_articles/61e1384d.ext.json)
 
 ---

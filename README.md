@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 15:33:28**
+As of **2024-03-11 15:51:54**
 
 ## Newspaper Stats
 
-*Scraped **12,146** Articles*
+*Scraped **12,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,72 +15,144 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 631
 islandlk | 663
-adalk | 1,031
-adaderanalk | 1,468
+adalk | 1,032
+adaderanalk | 1,470
 tamilmirrorlk | 1,485
 virakesarilk | 1,662
-dailymirrorlk | 1,858
-adaderanasinhalalk | 1,917
+dailymirrorlk | 1,860
+adaderanasinhalalk | 1,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,143 (100.0%) of 12,146 articles have been extended.
+12,146 (99.9%) of 12,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### “எரிபொருள் விலை இன்னும் குறையும்”
+### Plane veered off flight path after both pilots fell asleep
+
+*2024-03-11 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Plane-veered-off-flight-path-after-both-pilots-fell-asleep/107-278632) · `en`
+
+CNN - Indonesia’s transport ministry will launch an investigation after two Batik Air pilots fell asleep during a recent flight, according to state news agency Antara, citing the ministry’s civil aviation director-general M Kristi Endah Murni.
+
+According to a preliminary report released Saturday by the National Transportation Safety Committee (KNKT), both the pilot and co-pilot fell asleep simultaneously for 28 minutes during a flight from Kendari in Southeast Sulawesi province to the capital Jakarta on January 25, causing navigational errors as “the aircraft was not in the correct flight path.”
+
+None on board - including 153 passengers and four flight attendants - were injured during the flight, and there was no damage to the aircraft, the KNKT preliminary report said.
+
+The flight, BTK6723, lasted two hours and 35 minutes, and successfully landed in Jakarta, according to Antara and the preliminary report.
+
+...
+
+[Data](articles/1227cefb.json)
+
+---
+
+### SriLankan Airlines given 06 months to show progress
+
+*2024-03-11 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97871/srilankan-airlines-given-06-months-to-show-progress-) · `en`
+
+Minister Nimal Siripala de Silva has issued a stern directive during a special discussion held at the Ministry of Ports, Shipping and Aviation, stressing that SriLankan Airlines must demonstrate operational and financial progress within the next six months.
+
+Failure to do so, he warned, could jeopardize the jobs of approximately 6,000 employees.
+
+In line with the President’s proposal, the government has committed to relieving a portion of the national carriers’ debt, totaling USD510 million out of USD 1.2 billion owed to various banks and institutions.
+
+With a solid financial footing anticipated, the airline has outlined plans for a comprehensive restructuring process within the stipulated timeframe of six months.
+
+To achieve this objective, Minister de Silva emphasized the imperative need to curtail unnecessary expenses and instill robust financial discipline within the company. He urged close collaboration between management and trade unions to accomplish these goals effectively.
+
+...
+
+[Data](articles/ee686609.json)
+
+---
+
+### “Fuel prices are still down”
 
 *2024-03-11 15:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-இன்னும்-குறையும்/175-334509) · `ta`
 
-எரிபொருளின் பங்குதாரர்களை அழைத்து விலை சூத்திரம் குறித்து கேட்டறிந்து விலையை குறைக்க தயாராக இருப்பதாக மின்சாரம் மற்றும் எரிசக்தி அமைச்சர்  காஞ்சன விஜேசேகர தெரிவித்தார்.
+"Fuel prices remain low. Minister Kanjana Wijesekera is prepared to lower prices and investigate fuel shareholders. The Electricity Board plans to introduce a revised Bill in Parliament in April."
 
-மின்சார சபைகள் புதிய திருத்தப்பட்ட சட்டமூலத்தை ஏப்ரல் மாதம் பாராளுமன்றத்தில் சமர்ப்பித்து நிறைவேற்றும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
+
+Minister of Electricity and Energy Kanjana Wijesekera said that he was ready to reduce the price and inquire about the fuel shareholders.
+
+He added that the Electricity Board will pass the new amended Bill in Parliament in April.
 
 ◼️
 
 [Data](articles/8ba23d2e.json)
 
+[Extended Data](ext_articles/8ba23d2e.ext.json)
+
 ---
 
-### சுவிஸில் பனிச்சறுக்கில் ஈடுபடச் சென்ற ஐவர் சடலங்களாக மீட்பு
+### Recovery as five bodies that went to the Swiss snow
 
 *2024-03-11 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178434) · `ta`
 
-சுவிட்ஸர்லாந்தில் பனிச்சறுக்கில் ஈடுபடுவதற்காக சென்றிருந்த நிலையில் காணாமல் போன ஐவர் உயிரிழந்துள்ளனர் என அந்நாட்டுப் பொலிஸார் இன்று (11) தெரிவித்துள்ளனர்.
+Five bodies recovered from snowfall on Swiss Metroorn Mountain; six missing, including one still unaccounted for.
 
-இத்தாலியுடனான எல்லைக்கு அருகிலுள்ள, பிரசித்திபெற்ற மெட்டர்ஹோர்ன் மலைப்பகுதிதியில் பனிச்சறுக்கில் ஈடுபடுவதற்காக சென்றிருந்த நிலையில் நேற்றுமுன்தினம் 6 பேர் காணாமல் போயிருந்தனர்.
+🟩
 
-இந்நிலையில் இவர்களில் ஐவர் சடலங்களாக மீட்கப்பட்டுள்ளனர் என பொலிஸார் தெரவித்துள்ளனர். மற்றொருவரை தேடும் பணிகள் தொடர்கின்றன.
+Five people have been killed in a snowfall in Switzerland, the country police said.
 
-பாதிக்கப்பட்டவர்கள் எந்த நாட்டவர்கள் என்பதையோ அவர்களின் வேறு அடையாளங்களையோ அதிகாரிகள் உடனடியாக வெளியிடவில்லை.
+Six people were missing yesterday, as they went to a skiing on the famous Metroorn Mountain area near the border with Italia.
+
+In this case, five of them have been recovered as bodies, police said. The search for another is continuing.
+
+Officials did not immediately publish any country or their other identities the victims were.
 
 ◼️
 
 [Data](articles/79558296.json)
 
+[Extended Data](ext_articles/79558296.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்டர்களுக்கு கைவிலங்குடன் தொடர்ந்தும் சிகிச்சை
+### Continuing treatment for those arrested at the Adivasivan Temple at Vettu Nirimalai
 
 *2024-03-11 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178426) · `ta`
 
-வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட பூசகர் உள்ளிட்ட 8 பேரும் கைவிலங்குகளுடன் வைத்தியசாலையில் தொடர்ந்தும் சிகிக்சை பெற்று வருகின்றனர்.
+Eight people, including a priest, arrested at the Adivasivan Temple in Vettu Nirimalai, were taken to Vavuniya Hospital for treatment. They were attacked by police and are still being treated with handcuffs.
 
-மகாசிவராத்திரி தினத்தன்று வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் பூஜை வழிபாடுகளில் ஈடுபட்டுக் கொண்டிருந்த போது ஆலய பூசகர் உள்ளிட்ட 8 பேர் பொலிசாரால் கைது செய்யப்பட்டனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் மீது பொலிஸார் தாக்குதல் மேற்கொண்டதாக சட்டத்தரணிகள் கடந்த சனிக்கிழமை நீதிமன்றின் கவனத்திற்கு கொண்டு வந்திருந்தனர்.
+Eight people, including the priest who were arrested at the Adisivan Temple at the Vettukunarimalai Adivasivan Temple, continued to receive cigars at the hospital with handicrafts.
 
-இதனையடுத்து நேற்று (10) ஞாயிற்றுக்கிழமை குறித்த 8 பேரையும் மன்றின் உத்தரவுக்கமைய வவுனியா வைத்தியசாலை சட்ட வைத்திய அதிகாரியிடம் சிறைச்சாலை உத்தியோகத்தர்கள் அழைத்து சென்றிருந்தனர்.
+Eight people, including temple priest, were arrested by police while engaging in pooja at the Adivasivan Temple in Vavuniya, North, North, on the day of Mahasivaratri.
 
-இதன்போது குறித்த 8 பேரினதும் உடல் நிலையை கருத்தில் கொண்டு அவர்கள் வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர். பலத்த பாதுகாப்புக்கு மத்தியில் கைவிலங்குடன் அவர்கள் வைத்தியசாலையில் தொடர்ந்தும் சிகிச்சை பெற்று வருகின்றனர்.
+Attorneys brought to the notice of the court last Saturday that police attacked the arrested.
+
+Following this, the eight persons were taken to the Vavuniya Hospital Medical Officer on Sunday (10).
+
+They have been admitted to the Vavuniya Hospital for treatment. Amidst strong security, they are still being treated at the hospital with handcuffs.
 
 ◼️
 
 [Data](articles/07d529b6.json)
+
+[Extended Data](ext_articles/07d529b6.ext.json)
+
+---
+
+### ඔස්කා සම්මාන උළෙලේදී ජෝන් සීනා නිරුවත් වෙයි
+
+*2024-03-11 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194383) · `si`
+
+96 වන ඔස්කා ඇකඩමි සම්මාන උළෙලේදී සිදුවූ සුවිශේෂී සිදුවීමක් ලෝකයේම අවධානය යොමුවිය.
+
+ඒ ලෝකයක් බලාසිටි මේ සම්මාන උළෙලේදී වේදිකාව මතදී ලෝක ප්‍රසිද්ධ රෙස්ලිං තරුවක් මෙන්ම රංගන ශිල්පියෙක් වන ජෝන් සීනා නිරුවතින් වේදිකාවේ වෙතට පැමිණීමයි.
+
+ඔස්කා සම්මාන උළෙලේ මෙවර හොඳම ඇඳුම් නිර්මාණයට අදාළ සම්මානය පිරිනැමීම වෙනුවෙන් ඔහු මෙලෙස නිරුවතින් වේදිකාවේ වෙත පැමිණියේය.
+
+◼️
+
+[Data](articles/d9a9a490.json)
 
 ---
 
@@ -105,6 +177,46 @@ At the same time, some of the land owners said that the army had sent them back 
 [Data](articles/1a67a33c.json)
 
 [Extended Data](ext_articles/1a67a33c.ext.json)
+
+---
+
+### ඉහළ අහසේදී ගුවන් නියමුවන් දෙදෙනාට හොඳටම නින්ද යයි
+
+*2024-03-11 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194382) · `si`
+
+ඉන්දුනීසියාවේ අභ්‍යන්තර ගුවන් ගමනක යෙදෙමින් තිබූ ගුවන් යානයක නියමුවන් දෙදෙනාට ඉහළ අහසේදී නින්ද ගොස් ඇතිබව වාර්තා වෙයි.
+
+එරට ප්‍රකට 'බතික් එයා' ගුවන් යානයක් සුලවෙසි ගුවන්තොටුපොළේ සිට ජාකර්තා ගුවන්තොටුපොළට පියසර කරමින් තිබීයදී එම සිද්ධිය වාර්තා වුණි.
+
+ජනවාරි 25 වනදා එය සිදුව ඇති අතර ඒ වනවිට ගුවන් යානයේ මගීන් සහ කාර්ය මණ්ඩලය 153 දෙනෙක් සිට තිබේ.
+
+ඒ හේතුවෙන් Airbus A320 ගුවන් යානය සුළු වෙලාවක් නියමිත ගමන් මාර්ගයෙන් වෙනත් දිසාවකට ගමන් කර තිබුණ ද එම ගුවන් යානය නිරුපද්‍රිතව ගොඩ බැස්සවීමට නියමුවෝ සමත්වූහ.
+
+නමුත් එම නියමුවන් දෙදෙනාට එරෙහිව පරීක්ෂණයක් ආරම්භ කිරීමට එරට ප්‍රවාහන අමාත්‍යංශය කටයුතු කරයි.
+
+වාර්තාවන ආකාරයට 32 හැවිරිදි ප්‍රධාන නියමුවා යානය ගුවන් ගත වීමෙන් පැය භාගයකට පමණ පසු සහායක නියමුවාට දන්වා ඇත්තේ තමාට විවේකය අවශ්‍ය බැවින් ගුවන් යානයේ පාලනය ගන්නා ලෙසයි.
+
+ඔහු ගේ බිරිඳට ඊට මාසයකට පමණ පෙර නිවුන් දරුවන් ඉපදී ඇති අතර ඔහු දරුවන්ගේ කටයුතු සඳහා බිරිඳට සහාය වන බැවින් හරිහැටි නිදා ගෙන නොතිබූ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/d8c3e239.json)
+
+---
+
+### විභාග දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+
+*2024-03-11 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194381) · `si`
+
+2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ උත්තර පත්‍ර ඇගයීම් පරීක්ෂකවරුන්ගේ අයදුම්පත් භාර ගැනීම ආරම්භ කර තිබේ.
+
+විභාග දෙපාර්තමේන්තුව නිවේදනය කළේ, අයදුම්පත් මේ මස 22වනදා දක්වා ඉදිරිපත් කළ හැකි බවය.
+
+ඒ අනුව එම අයදුම්පත් www.onlineexams.gov.lk/eic ඔස්සේ ඉදිරිපත් කළ හැකි බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4e7d8be9.json)
 
 ---
 
@@ -207,6 +319,24 @@ The NZ Herald quoted a passenger who said she experienced a “quick little drop
 [Data](articles/8802980d.json)
 
 [Extended Data](ext_articles/8802980d.ext.json)
+
+---
+
+### ගොරිල්ලාට බය නොවුනු රිලවුන්
+
+*2024-03-11 14:31:04* · [`adalk`](https://www.ada.lk/breaking_news/ගොරිල්ලාට-බය-නොවුනු-රිලවුන්/11-408536) · `si`
+
+රිලවුන් රංචුවක් හේතුවෙන් තමන් දැඩි අසිරුතාවයට පත් වි ඇති බව බගවන්තලාව නගරයේ ව්‍යාපාරික ප්‍රජාව සහ ප්‍රදේශවාසින් පැවසුහ.
+
+මාසයක පමණ කාලයක් තුල රිලවුන් රංචුවක් තම ප්‍රදේශයට පැමිණ ඇති බවත්, මේ වන විට එම රිලවුන් තම වෙලදසැලේ ප්‍රදර්ශනය කර ඇති එලවළු සහ පලතුරු රැගෙන පලා යන බවත්, පවත්නා තත්ත්වය මත එම රිලවුන් රංචුවෙන් ගැටළු රැසක් මතු වි ඇති බව එම වෙලෙදුන් කියා සිටිති.
+
+රිලවුන් බිය ගැන්විම සදහා ගොරිල්ලෙකුගේ රුව සහිත වෙස් මුහුණක් පළතුරු සහ එලවළු මත තබා ඇති බවත්, එම වෙස් මුහුණු දෙස නොබලා රිලවුන් පළතුරු සහ එලවළු රැගෙන පලා යන බව වෙලෙදුන් පවසයි.
+
+මෙම රිලා රංචුව පැටවුන් දමා බෝ විමට ප්‍රථම අල්ලා වෙනත් සුදුසු පරිසරයකට රැගෙන ගොස් මුදා හරින ලෙස බගවන්තලාව නගරයේ ව්‍යාපාරිකයන් අදාල බලධාරින්ගෙන් ඉල්ලා සිටිති.
+
+◼️
+
+[Data](articles/b657a127.json)
 
 ---
 
@@ -663,6 +793,26 @@ On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID 
 [Data](articles/cc79c8b9.json)
 
 [Extended Data](ext_articles/cc79c8b9.ext.json)
+
+---
+
+### ‘Harak Kata’ further remanded over failed escape bid
+
+*2024-03-11 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97868/harak-kata-further-remanded-over-failed-escape-bid) · `en`
+
+Notorious underworld figure Nadun Chithaka Wickremeratne, alias ‘Harak Kata’, has been further remanded until 26 April over his failed escape attempt from the Criminal Investigation Department (CID).
+
+The relevant order was issued by the Colombo High Court Judge Damith Thotawatte.
+
+Accordingly, ‘Harak Kata’ will be detained at the old prison complex in Tangalle, which currently operates as a detention centre.
+
+Earlier today (11 March), ‘Harak Kata’ was produced before the Colombo Fort Magistrate’s Court, after which he was produced before the Colombo High Court following a request made by the CID.
+
+On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID officers, had reportedly laced the officers’ teas with poison during his questioning, with the help of a Police Constable.
+
+...
+
+[Data](articles/de719afe.json)
 
 ---
 
@@ -1341,6 +1491,28 @@ The Railways Department owns the largest amount of land in the country.
 [Data](articles/26acb482.json)
 
 [Extended Data](ext_articles/26acb482.ext.json)
+
+---
+
+### John Cena gives out costume design Oscar in his ‘birthday suit’
+
+*2024-03-11 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/John-Cena-gives-out-costume-design-Oscar-in-his-birthday-suit/107-278625) · `en`
+
+March 11- (CNN) John Cena bared it all at the Oscars on Sunday while presenting the award for best costume design.
+
+The actor appeared on stage during the telecast to present the award for best costume design hilariously appearing to wear nothing at all.
+
+No really, Cena appeared on the stage at the year’s most prestigious event in Hollywood… almost entirely naked.
+
+The show’s host Jimmy Kimmel set up the bit by sharing a little bit of Oscars history, nodding to the 1974 Academy Awards when a streaker ran across the stage. Kimmel jokingly said, “Can you imagine if a nude man ran across the stage today? Wouldn’t that be crazy?”
+
+From the corner of the stage, Cena peeked his head out and told Kimmel he didn’t want to “do the streaker bit anymore.”
+
+“It’s an elegant event. Honestly, you should feel ashamed right now for suggesting such a tasteless idea,” Cena complained. “The male body is not a joke!”
+
+...
+
+[Data](articles/ad5d99d5.json)
 
 ---
 
@@ -2149,157 +2321,5 @@ Police Media Spokesperson DIG's DIG's Court Attorneysha said that the instructio
 [Data](articles/29422613.json)
 
 [Extended Data](ext_articles/29422613.ext.json)
-
----
-
-### Decision to run buses on Southern Expressway
-
-*2024-03-11 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194364) · `si`
-
-The Kalkkumbura Southern Expressway buses were operated today, despite opposition from the SLAF Association and the Southern Expressway Secretary, Galle Sandararuwan. They plan to run buses as needed, not on the December 18, 2023, schedule, and will strike from Galle if authorities don't change the schedule.
-
-🟩
-
-The private buses of the Kalkkumbura Southern Expressway have been operated today (11).
-
-The Secretary of the SLAF Association, the Secretary of the Southern Expressway, Galle Sandararuwan is a time to stay in the bus station.
-
-"We opposed the schedule for us on December 18, 2023. No decision has been taken so far. Regardiness of the tragic people regarding this matter. A group that has taken action to run buses as needed without running to this schedule. In no case we were engaged in the ride, who had not been held in ports. But no part of the inconvenience we have become. Therefore, these buses are runle to the letter only. If the authorities are not taking steps to change this schedule, we will bring buses from the 18th to the strike starting from Galle. "
-
-◼️
-
-[Data](articles/b28a81f3.json)
-
-[Extended Data](ext_articles/b28a81f3.ext.json)
-
----
-
-### Trying to interpret my story as fair
-
-*2024-03-11 07:27:40* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-කථාව-වැරිදි-ආකාරයට-අර්ථකථනය-කිරීමට-උත්සාහ-කරනවා/11-408522) · `si`
-
-The government is trying to interpret a story about a request to discuss with the International Monetary Fund and negotiate with international creditors about foreign loan restructuring. However, discussions are impossible due to the Monetary Fund's agreement.
-
-🟩
-
-The government is trying to interpret a story and interpret a story.
-
-He says that the government stated that he had asked to allow the party to allow the party to allow the party to a discussion with the International Monetary Parties.
-
-He requested that the opposition was asked to be contacted in negotiations with international creditors about the restructuring of foreign loans.
-
-The Member of the Monetary Fund and Foreign Creditors are two teams, and it is not possible to discuss with them, as the Monetary Fund's agreement has been signed.
-
-◼️
-
-[Data](articles/6be1e254.json)
-
-[Extended Data](ext_articles/6be1e254.ext.json)
-
----
-
-### Oceanswell and Greenpeace South Asia conduct cetacean surveys in Indian Ocean
-
-*2024-03-11 07:06:00* · [`islandlk`](http://island.lk/oceanswell-and-greenpeace-south-asia-conduct-cetacean-surveys-in-indian-ocean/) · `en`
-
-Survey track covered a total of 2,431 km over 10 days to study cetacean diversity
-
-Greenpeace South Asia and Sri Lankan marine conservation organisation Oceanswell have just returned to Colombo following the successful completion of cetacean visual and acoustic surveys in the high seas of the Indian Ocean aboard the Greenpeace flagship Rainbow Warrior.
-
-The scientific survey was conducted under the leadership of Dr. Asha de Vos, renowned cetacean researcher and founder of Oceanswell along with a young crew of Sri Lankans from Oceanswell.
-
-...
-
-[Data](articles/168c5730.json)
-
-[Extended Data](ext_articles/168c5730.ext.json)
-
----
-
-### xCommerz invites retailers to drive economic growth
-
-*2024-03-11 07:03:00* · [`islandlk`](http://island.lk/xcommerz-invites-retailers-to-drive-economic-growth/) · `en`
-
-Xiteb Pvt Ltd, (https://xcommerz.com/) an award-winning web and mobile software solutions provider with 14 (fourteen) years of experience, has launched an eCommerce solution, xCommerz, aimed at transforming retailers’ physical stores into online platforms and enhancing existing online stores to revolutionize their businesses. This initiative contributes to national economic growth.
-
-...
-
-[Data](articles/2d023cbd.json)
-
-[Extended Data](ext_articles/2d023cbd.ext.json)
-
----
-
-### Sri Lanka central bank net assets fall to Rs11bn in Dec 2023
-
-*2024-03-11 07:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-assets-fall-to-rs11bn-in-dec-2023-153979/) · `en`
-
-ECONOMYNEXT – The net assets of Sri Lanka’s central bank fell to 11.1 billion rupees in December 2023 from 25 billion rupees a month earlier, according to the valuation method used, official data show.
-
-The reason for the December fall, whether it was due to administration expenses being charged or valuation losses is not clear.
-
-In January equity increased to 59 billion rupees with more profits being made.
-
-In the first three quarters of 2023 Sri Lanka’s central bank made large profits from high yielding domestic assets it had acquired in the course of triggering a record balance of payments deficit and a sovereign default.
-
-In September, bills were turned into bonds with coupons below market, resulting in large valuation losses.
-
-...
-
-[Data](articles/bf13c8b4.json)
-
-[Extended Data](ext_articles/bf13c8b4.ext.json)
-
----
-
-### CCI signs MoU with Tatarstan Republic of Russia
-
-*2024-03-11 07:02:00* · [`islandlk`](http://island.lk/cci-signs-mou-with-tatarstan-republic-of-russia/) · `en`
-
-Chamber of Construction Industry of Sri Lanka (CCI) signed an MOU with the Industrial Cluster of the Republic of Tatarstan of Russian Federation, in the presence of Levin S Dzhagarayan the Ambassador of Russia, Thilaka Jayasundara, Secretary, Ministry of Industries and Renuka Weerakoon, DG, Board of Investment. With this agreement there will be closer cooperation on bilateral trade and investments between the two countries. More importantly possibility of our companies collaborating with Russian companies to undertake projects is to be explored. As Russia is very keen to invest in Sri Lanka with the potential to export to India, Pakistan & Bangladesh we have to make the best use of this opportunity, CCI stated.
-
-IIHS-DFCC partnership to provide loans for students pursuing health education
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/35bcdbff.json)
-
-[Extended Data](ext_articles/35bcdbff.ext.json)
-
----
-
-### Enchanteur sponsors Inter Association Netball Tournament 2024
-
-*2024-03-11 07:01:00* · [`islandlk`](http://island.lk/enchanteur-sponsors-inter-association-netball-tournament-2024/) · `en`
-
-Enchanteur, fragrance brand, recently sponsored the Inter Association Netball Tournament 2024 (2nd & 3rd March) organized by the Netball Federation of Sri Lanka. With 400 players participating and a large audience in attendance, the tournament served as a platform for promoting sportsmanship, unity, and community engagement. Netball, deeply ingrained in Sri Lankan culture, fosters camaraderie and teamwork, making it an ideal avenue for corporate social responsibility initiatives.
-
-The event was further highlighted by the presence of Vivek Vaid, Country Manager of Enchanteur Sri Lanka, and Udaya Nissanka, Managing Director of Enchanteur Sri Lanka. Adding to the significance of the occasion was the attendance of Luxmi Victoria, the President of the Asia Netball and the Sri Lanka Netball Federation (SLNF), along with other officials from both Enchanteur and the Netball Federation of Sri Lanka.
-
-Oceanswell and Greenpeace South Asia conduct cetacean surveys in Indian Ocean
-
-...
-
-[Data](articles/16ef62a9.json)
-
-[Extended Data](ext_articles/16ef62a9.ext.json)
-
----
-
-### IIHS-DFCC partnership to provide loans for students pursuing health education
-
-*2024-03-11 06:59:00* · [`islandlk`](http://island.lk/iihs-dfcc-partnership-to-provide-loans-for-students-pursuing-health-education/) · `en`
-
-The International Institute of Health Sciences (IIHS), the country’s leading institute for health education, recently announced a landmark partnership with the DFCC Bank through which IIHS students will be provided with loans at attractive rates as low as 16.5% with many other benefits. The IIHS is specialised in offering nursing-related educational qualifications, and affiliated with Coventry University in the United Kingdom (UK). The partnership was officially entered into on 01st February 2024 at an event attended by representatives from both parties. The IIHS was represented by its Co-founder and Chief Executive Officer (CEO) Dr. Kithsiri Edirisinghe, and Anton Arumugam – Offshore Banking, Remittances and Business Development represented the DFCC Bank.
-
-...
-
-[Data](articles/dbd1febb.json)
-
-[Extended Data](ext_articles/dbd1febb.ext.json)
 
 ---

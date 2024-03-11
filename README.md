@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 13:52:13**
+As of **2024-03-11 14:03:08**
 
 ## Newspaper Stats
 
-*Scraped **12,122** Articles*
+*Scraped **12,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 628
 economynextcom | 631
 islandlk | 663
 adalk | 1,027
-adaderanalk | 1,466
-tamilmirrorlk | 1,480
+adaderanalk | 1,467
+tamilmirrorlk | 1,482
 virakesarilk | 1,654
 dailymirrorlk | 1,855
 adaderanasinhalalk | 1,915
@@ -26,31 +26,87 @@ adaderanasinhalalk | 1,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,120 (100.0%) of 12,122 articles have been extended.
+12,122 (100.0%) of 12,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ අවසන් කටයුතු ගැන තීරණයක්
+### ‘Kudu Salindu’ further remanded
+
+*2024-03-11 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/97869/kudu-salindu-further-remanded) · `en`
+
+Notorious underworld figure and drug kingpin Salindu Malshitha Gunaratne, alias ‘Kudu Salindu’, has been further remanded on orders of the Panadura Magistrate’s Court.
+
+Accordingly, ‘Kudu Salindu’ was further remanded until 25 March as per an order issued by Panadura Chief Magistrate Champika Rajapaksha.
+
+Salindu Malshitha Gunaratne is currently in the custody of the Criminal Investigation Department (CID), after he was arrested in Madagascar in March 2023.
+
+Nadun Chinthaka Wickremeratne alias ‘Harak Kata’ and his infamous accomplice Salindu Malshika alias ‘Kudu Salindu’ were arrested in Madagascar on March 01 last year in a joint operation by the INTERPOL and Malagasy law enforcement authorities and Customs officials.
+
+The duo was brought back to the island on March 15 after Malagasy defence officials informed the Sri Lankan Foreign Ministry of the arrest of 8 suspects including the two Sri Lankan underworld figures.
+
+...
+
+[Data](articles/a95ca8ef.json)
+
+---
+
+### கைவிலங்குடன்  சிகிச்சை
+
+*2024-03-11 13:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கைவிலங்குடன்-சிகிச்சை/72-334505) · `ta`
+
+வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட பூசகர் உள்ளிட்ட 8 பேரும் கைவிலங்குகளுடன் வைத்தியசாலையில் தொடர்ந்தும் சிகிக்சை பெற்று வருகின்றனர்.
+
+மகா சிவராத்திரி தினத்தன்று வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் பூஜை வழிபாடுகளில் ஈடுபட்டுக் கொண்டிருந்த போது ஆலய பூசகர் உள்ளிட்ட 8 பேர் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+
+கைது செய்யப்பட்டவர்கள் மீது பொலிஸார் தாக்குதல் மேற்கொண்டதாக நீதிமன்றின் கவனத்திற்கு சட்டத்தரணிகள் கடந்த சனிக்கிழமை கொண்டு வந்திருந்தனர். இதனையடுத்து   ஞாயிற்றுக்கிழமை (10) குறித்த 8 பேரையும் மன்றின் உத்தரவுக்கமைய வவுனியா வைத்தியசாலை சட்ட வைத்திய அதிகாரியிடம் சிறைச்சாலை உத்தியோகத்தர்கள் அழைத்து சென்றிருந்தனர்.
+
+இதன்போது குறித்த 8 பேரினதும் உடல் நிலையை கருத்தில் கொண்டு அவர்களை வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர். பலத்த பாதுகாப்புக்கு மத்தியில் கைவிலங்குடன் அவர்கள் வைத்தியசாலையில் தொடர்ந்தும் சிகிச்சை பெற்று வருகின்றனர்.
+
+◼️
+
+[Data](articles/49ee14b5.json)
+
+---
+
+### பி.பி.எல்.கிரிக்கெட் திருவிழாவில் துடுப்பெடுத்தாடிய எம்.பிக்கள்
+
+*2024-03-11 13:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/பி-பி-எல்-கிரிக்கெட்-திருவிழாவில்-துடுப்பெடுத்தாடிய-எம்-பிக்கள்/88-334504) · `ta`
+
+◼️
+
+[Data](articles/f3a9a9b2.json)
+
+---
+
+### Decision regarding the funeral of Sri Lankans who were killed
 
 *2024-03-11 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194378) · `si`
 
-කැනඩාවේ ඔටාවා අගනුවරදී ඝාතනයට ලක්වූ ශ්‍රී ලාංකකියන්ගේ අවසන් කටයුතු ධනුෂ්ක වික්‍රමසිංහගේ අවසරය මත ප්‍රදේශයේ බෞද්ධ විහාරස්ථානය මඟින් සිදුකිරීමට නියමිතය.
+The funeral of six Sri Lankans killed in Ottawa, Canada, will be conducted by a local Buddhist temple with Dhanushka Wickremasinghe's permission. The 19-year-old suspect, Frank de Zoysa, was last seen at school until winter last year and is under investigation for using sharp weapons. The High Commission of Ottawa and the Buddhist Congress of Canada are involved in the funeral arrangements and have set up a fund for the deceased's final expenses.
 
-එකම පවුලේ සාමාජිකයින් පස්දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ සිය නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුණේ පසුගිය බදාදා රාත්‍රීයේදීය.
+🟩
 
-එම ඝාතනය කළ ෆ්‍රෑන්ක්ද සොයිසා නැමැති 19 හැවිරිදි සැකකරු සියදිවි හානි කර ගැනීමේ සිතුවිල්ලෙන් සිටි අයෙක් බව එහි බෞද්ධ විහාරස්ථානයේ පූජ්‍ය මහගම සූනීත හිමි පවසයි.
+The funeral of Sri Lankans who were killed in the Ottawa capital of Canada is to be carried out by Buddhist temple in the area on the permission of Dhanushka Wickremasinghe.
 
-ඔහු ඉගෙනුම ලැබු පාසලේ ප්‍රකාශකයෙකු පැවසුවේ, සැකකාර ෆ්‍රෑන්ක් අවසන් වරට පාසලට පැමිණ ඇත්තේ පසුගිය වසරේ ශීත ඍතුව දක්වා පමණක් බවය.
+Six Sri Lankans were violently in the house of Barshewan, the suburbs of the same family in the area of the same family.
 
-එසේම පොලිස් විමර්ශනවලදී අවධානය යොමු වී ඇත්තේ ෆ්‍රෑන්ක් ද සොයිසා මෙම සමූහ ඝාතනය සඳහා තියුණු ආයුධ කිහිපයක් යොදාගත්තේද යන්න පිළිබඳවය.
+The 19-year-old suspect, who was killed by the 19-year-old suspect, was in the thought of committing suicide.
 
-කෙසේවෙතත් මේ වනවිට බරපතළ තුවාල ලබා සිටින ධනුෂ්ක වික්‍රමසිංහගේ අවසරය මත මියගිය දර්ශනී ඒකනායක සහ දරුවන් සිව්දෙනාගේ අවසන් කටයුතු පශ්චාත් මරණ පරීක්ෂණ සිදුකිරීමෙන් අනතුරුව ප්‍රදේශයේ බෞද්ධ විහාරස්ථානය මඟින් සිදුකිරීමට නියමිත බව වාර්තා වේ.
+A spokesperson of the school he studied said the suspect Frank was last to the school last year only until the winter of last year.
+
+Police investigations also focus on whether Frank de Zoysa used several sharp arms for the massacre.
+
+However, after the post mortem, the funeral examination of the deceased is due to the permission of Dhanushka Wickremasinghe, who has been seriously injured, is to be carried out by the Buddhist temple in the area.
+
+The High Commission of Ottawa stated that their relatives will come from Sri Lanka for funerals.
 
 ...
 
 [Data](articles/dbd667c4.json)
+
+[Extended Data](ext_articles/dbd667c4.ext.json)
 
 ---
 
@@ -81,6 +137,8 @@ Now you know I admitted I plagiarized. Don’t throw stones at my aeroplane. I h
 ...
 
 [Data](articles/28ae94dc.json)
+
+[Extended Data](ext_articles/28ae94dc.ext.json)
 
 ---
 
@@ -2199,67 +2257,5 @@ As an accomplished Global Operations Strategist and Sustainability Leader Thanuj
 [Data](articles/973d29d2.json)
 
 [Extended Data](ext_articles/973d29d2.ext.json)
-
----
-
-### Kanchana inaugurates 2 MW Ground Mount Solar Project in Batticaloa
-
-*2024-03-11 01:13:27* · [`dailyftlk`](https://www.ft.lk/business/Kanchana-inaugurates-2-MW-Ground-Mount-Solar-Project-in-Batticaloa/34-759338) · `en`
-
-Power and Energy Minister Kanchana Wijesekera yesterday unveiled a 2 MW Ground Mount Solar Project in Batticalo.
-
-The project, which was part of the 90 MW Ceylon Electricity Board (CEB) tendering process, was successfully constructed and commissioned by BackBay Solar Ltd.
-
-It aligns with the Government’s vision of increasing the share of renewable energy in the National Grid and mitigating the adverse effects of climate change. Sri Lanka aims at adding up to 2,800 MW of renewable energy into the National Grid by 2025. At present, renewable energy generation has not exceeded at least
-
-◼️
-
-[Data](articles/8c7480be.json)
-
-[Extended Data](ext_articles/8c7480be.ext.json)
-
----
-
-### Trying to stop the Sakwala (universe) program is equivalent to opening prisons -Opposition Leader Sajith Premadasa
-
-*2024-03-11 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178386) · `ta`
-
-Opposition Leader Sajith Premadasa compared halting the Sakwala program to closing prisons, arguing it disrupts the school system. He emphasized the importance of smart education, stating it strengthens the country's education system, not creating more prisons. Despite challenges, he assured the program's continuation, highlighting its role in combating poverty and improving education. He also mentioned providing free health facilities for women to combat diseases.
-
-🟩
-
-Strengthening Smart Education. The opposition leader said that the ban on the universe project was a disruption of the country's school system.
-
-As schools are improving, prisons are said to be closed, and the 41 lakh student generation of education in all schools in the country is being used and strengthened by this.. The opposition leader who does not have to be treated as a process of freezing the school and creating more prisons if it is intended to ban these programs.
-
-Opposition Leader Sajith Premadasa said this while addressing a bus to Kinniya Central College, Trincomalee on Sunday (10).
-
-No party does not need to create prisons. Smart student and smart country are built through these projects. The opposition leader said that whatever the challenges, the program would not stop.
-
-...
-
-[Data](articles/d783073d.json)
-
-[Extended Data](ext_articles/d783073d.ext.json)
-
----
-
-### Pitigala Athukorala Group’s tea factory achieves record-breaking price at auction
-
-*2024-03-11 01:11:32* · [`dailyftlk`](https://www.ft.lk/business/Pitigala-Athukorala-Group-s-tea-factory-achieves-record-breaking-price-at-auction/34-759337) · `en`
-
-The tea factory under the Pitigala Athukorala Group clinched the highest price for a kilo of FBOPFEXP tea at an auction held on 6 March 2024.
-
-The offer conducted online in Colombo under auction number 10, saw the Athukorala Group Super brand fetch top dollar. The successful bid was made by Uni World Teas Ltd. through a sale facilitated by Lanka Commodity Brokers.
-
-“The achievement underscores the commitment of the Pitigala Athukorala Group to excellence in tea production and marketing,” Pitigala Athukorala Group Chairman and Managing Director Anura Athukorala said.
-
-The tea factory, operating under stringent quality standards certified by ISO 22000:2018/HACCP, has consistently aimed to elevate the reputation of Ceylon Tea globally. Renowned for its dedication to quality, the company has garnered numerous accolades for its exceptional teas.
-
-...
-
-[Data](articles/523c65fe.json)
-
-[Extended Data](ext_articles/523c65fe.ext.json)
 
 ---

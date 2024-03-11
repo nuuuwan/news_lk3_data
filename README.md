@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 15:02:41**
+As of **2024-03-11 15:17:49**
 
 ## Newspaper Stats
 
-*Scraped **12,140** Articles*
+*Scraped **12,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,61 +18,113 @@ islandlk | 663
 adalk | 1,031
 adaderanalk | 1,468
 tamilmirrorlk | 1,484
-virakesarilk | 1,659
-dailymirrorlk | 1,856
+virakesarilk | 1,660
+dailymirrorlk | 1,858
 adaderanasinhalalk | 1,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,135 (100.0%) of 12,140 articles have been extended.
+12,140 (100.0%) of 12,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### ශ්‍රීලන්කන් වෙත මාස 6ක් කල්දෙයි
+### வலி.வடக்கில் 33 வருடங்களின் பின் சொந்த மண்ணில் கால் பதித்த மக்கள்
+
+*2024-03-11 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178433) · `ta`
+
+யாழ்ப்பாணம் வலிகாமம் வடக்கு பகுதியில் கடந்த 33 வருட காலமாக இராணுவ உயர்பாதுகாப்பு வலயமாக இருந்த சுமார் 67 ஏக்கர் காணி நேற்று ஞாயிற்றுக்கிழமை காணி உரிமையாளர்களிடம் மீள கையளிக்கப்பட்டது.
+
+அவற்றுள் காங்கேசன்துறை தெற்கு மற்றும் மயிலிட்டி தெற்கு ஆகிய இரு கிராம சேவையாளர் பிரிவில் உள்ள காணிகளுக்குள் செல்ல இராணுவத்தினர் இன்று திங்கட்கிழமை அனுமதி வழங்கியுள்ளனர்.
+
+காங்கேசன்துறை தெற்கு 235 கிராம சேவையாளர் பிரிவில் 20.3 ஏக்கர் காணிகளும் , மயிலிட்டி தெற்கு (தென்மயிலை) 240 கிராம சேவையாளர் பிரிவில் 24 ஏக்கர் காணிகளும்  விடுவிக்கப்பட்டுள்ளன.
+
+அதேவேளை நேற்றைய தினம் விடுவிக்கப்பட்ட காணிகளில் பெரும்பாலான காணிகளில் இருந்து இராணுவத்தினர் முற்றாக வெளியேறாத நிலையில் இன்னமும் ஓரிரு நாட்களில் காணிகளில் இருந்து தாம் வெளியேறிய பின்னர் உங்கள் காணிகளுக்குள் நீங்கள் வர முடியும் என தம்மை இராணுவத்தினர் திருப்பி அனுப்பியதாக சில காணி உரிமையாளர்கள் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1a67a33c.json)
+
+---
+
+### 2 MW capacity solar plants in Eastern Province
+
+*2024-03-11 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-MW-capacity-solar-plants-in-Eastern-Province/108-278631) · `en`
+
+A two-megawatt ground-mounted solar power plant was commissioned at Kommathurai in Batticaloa yesterday, which is a part of the 1X90 SBS II solar tender under the Ceylon Electricity Board (CEB).
+
+The company Backbay Solar (Private) Limited is managed by Sino Lanka Power Gen, a leader in commercial rooftop solar installations with approximately 50 MW of projects completed or undergoing development. Sino Lanka Power Gen meanwhile is a subsidiary of Orbital Energy, a renewable energy developer with large-scale utility projects in Sri Lanka, Bangladesh and India.
+
+◼️
+
+[Data](articles/ad81b189.json)
+
+---
+
+### People starving in Gaza - Children's death
+
+*2024-03-11 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178428) · `ta`
+
+In Gaza, Palestinians face starvation, with children's deaths reported. Israelis protest against humanitarian aid, blocking trucks on the Gerome Salom route. They argue against aid to Hamas, citing the killing of their people. Women are abused, and the situation escalates, with protests turning violent.
+
+🟩
+
+While the Palestinians are hunger in Gaza, some Israelis are involved in the attempt to prevent humanitarian assistance from Gaza.
+
+They are sitting in the middle of the street and engaging in picket protests in Gerome Salom, a traffic route between Israel and Gaza.
+
+This is the case after Israel launched an attack against Hamas.
+
+Israelis who are protesting have been caught by Hamas hostages, saying that humanitarian aid should not go into Kazawa.
+
+The Israeli are protesting that the food should not be provided to those who killed our people.
+
+Women are abused and they are not provided with food, we are feeding Hamas, they say.
+
+The ABC said that 40 people engaged in prayers had stopped several trucks going into Gaza.
+
+They refer to those who are hostage to Hamas as brothers and say they should not forget them.
+
+They say that we should strangle Gaza's neck and breathe until they give our brothers back.
+
+Why do I care about them and they are one of our enemies who killed our brothers.
+
+...
+
+[Data](articles/21b4d0bf.json)
+
+[Extended Data](ext_articles/21b4d0bf.ext.json)
+
+---
+
+### Six months postponed to SriLankan
 
 *2024-03-11 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194380) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සේවයේ මෙහෙයුම් සහ මූල්‍ය ප්‍රගතිය ඉදිරි මාස 06ක කාලය තුළදී පෙන්විය යුතු බව අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් එහි පාලනාධිකාරියට සහ වෘත්තීය සමිති වෙත දැනුම්දී තිබේ.
+SriLankan Airlines postponed for 6 months, with Minister Nimal Siripala de Silva announcing a restructuring plan to stabilize 6,000 employees and pay $510 million in debt. The airline will focus on financial discipline and operational improvements, including leasing additional aircraft.
 
-අද (11) පෙරවරුවේ වරාය නාවික හා ගුවන්සේවා අමාත්‍යාංශයේ පැවති විශේෂ සාකච්ඡාවකදී අමාත්‍යවරයා මේ බව සඳහන් කර තිබේ.
+🟩
 
-එසේ නොවුණහොත් 6000ක පමණ සේවකයින්ගේ රැකියාවල අස්ථාවරභාවයක් ඇතිවන බවද අමාත්‍යවරයා පෙන්වා දී ඇත.
+Minister Nimal Siripala de Silva has informed the administration and the trade unions that SriLankan should be shown in the next six months.
 
-ජනාධිපතිවරයාගේ යෝජනාවකට අනුව ශ්‍රීලන්කන් ගුවන් සේවය බැංකු සහ ආයතන කිහිපයකට ගෙවීමට තිබූ අමෙරිකානු ඩොලර් බිලියන 1.2ක පමණ ණය ප්‍රමාණයෙන් අමෙරිකානු ඩොලර් මිලියන 510ක් පමණ රජය විසින් ගෙවා දැමීමට තීරණය කර ඇත.
+The Minister was speaking at a special meeting held at the Ministry of Ports and Aviation this morning.
 
-ඒ අනුව ආකර්ෂණීය මූල්‍ය ශේෂ පත්‍රයක් සමග ශ්‍රීලන්කන් ගුවන් සමාගම ඉදිරි මාස 06 තුළ ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය සිදුකිරීමට සැලසුම් කර තිබේ.
+Otherwise, the Minister has pointed out that there is an essential instability of about 6,000 employees.
 
-එබැවින් එම මාස 06 තුළ ශ්‍රීලන්කන් ගුවන් සමාගමේ අනවශ්‍ය වියදම් කපා හැර මනා මූල්‍ය විනයක් සමාගම තුළ ඇතිකරගතයුතු බවත් ඒ සඳහා පරිපාලනය සහ වෘත්තීය සමිති ඒකාබද්ධව කටයුතු කළයුතු බවත් අමාත්‍යවරයා එහිදී පෙන්වා දී ඇත.
+According to the President's proposal, the SriLankan Airlines has decided to pay about US $ 510 million in debt to several banks and institutions to pay a few banks and institutions.
+
+Accordingly, the SriLankan Airlines is scheduled to restructure the restructuring process in the next six months with an attractive financial balance sheet.
+
+The Minister pointed out that SriLankan Airlines should be cut and a financial discipline should be carried out with the assistance and the trade unions.
 
 ...
 
 [Data](articles/1b7f6f5f.json)
 
----
-
-### காசாவில்  மக்கள் பட்டினி- சிறுவர்கள் உயிரிழக்கும் நிலை  -மனிதாபிமான உதவிகள் செல்வதை தடுக்கும் இஸ்ரேலியர்கள் - ஏபிசி
-
-*2024-03-11 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178428) · `ta`
-
-காசாவில் பாலஸ்தீனியர்கள் பட்டினியின் பிடியில் சிக்குண்டுள்ள அதேவேளை காசாவிற்கு மனிதாபிமான உதவிகள் செல்வதை தடுப்பதற்கான முயற்சிகளில் இஸ்ரேலியர்கள் சிலர் ஈடுபட்டுள்ளனர்.
-
-இஸ்ரேலிற்கும் காசாவிற்கும் இடையிலான போக்குவரத்து பாதையான கெரோம் சலோமில் ஆர்ப்பாட்டங்களில் ஈடுபடும் இவர்கள் வீதியின் நடுவில் அமர்ந்து மறியல் போராட்டங்களில் ஈடுபடுகின்றனர்.
-
-ஹமாசிற்கு எதிராக இஸ்ரேல் தாக்குதலை ஆரம்பித்து ஐந்துமாதங்களின் பின்னர் இந்த நிலை காணப்படுகின்றது.
-
-ஆர்ப்பாட்டங்களில் ஈடுபடும் இஸ்ரேலியர்கள் ஹமாஸ் பணயக்கைதிகளை பிடித்துவைத்துள்ள நிலையில் காசாவி;ற்குள் மனிதாபிமான உதவிகள் செல்லக்கூடாது என தெரிவிக்கின்றனர்.
-
-எங்கள் மக்களை கொலை செய்தவர்களிற்கு அவர்களை பணயக்கைதிகளாக வைத்துள்ளவர்களுக்கு உணவை வழங்கக்கூடாது என ஆர்ப்பாட்டத்தில் ஈடுபடும் இஸ்ரேலியர்கள் தெரிவிக்கின்றனர்.
-
-பெண்கள் துஸ்பிரயோகம் செய்யப்படுகின்றனர் அவர்களுக்கு உணவு வழங்கப்படுவதில்லை நாங்கள் ஹமாசிற்கு உணவு வழங்குகின்றோம் எனஅவர்கள் தெரிவிக்கின்றனர்.
-
-...
-
-[Data](articles/21b4d0bf.json)
+[Extended Data](ext_articles/1b7f6f5f.ext.json)
 
 ---
 
@@ -94,23 +146,31 @@ The NZ Herald quoted a passenger who said she experienced a “quick little drop
 
 [Data](articles/8802980d.json)
 
+[Extended Data](ext_articles/8802980d.ext.json)
+
 ---
 
-### ගොරිල්ලාට බය නෙවුනු රිලවුන්
+### Relanewen for Gorroil
 
 *2024-03-11 14:31:04* · [`adalk`](https://www.ada.lk/breaking_news/ගොරිල්ලාට-බය-නෙවුනු-රිලවුන්/11-408536) · `si`
 
-රිලවුන් රංචුවක් හේතුවෙන් තමන් දැඩි අසිරුතාවයට පත් වි ඇති බව බගවන්තලාව නගරයේ ව්‍යාපාරික ප්‍රජාව සහ ප්‍රදේශවාසින් පැවසුහ.
+Bogawantalawa residents and businesses face severe hardship due to a herd causing damage to their fruits and vegetables. The affected produce is covered in prickly, rotting masks, leading to a decline in quality. Authorities are called to address the issue, including potential suicide and lagoon release.
 
-මාසයක පමණ කාලයක් තුල රිලවුන් රංචුවක් තම ප්‍රදේශයට පැමිණ ඇති බවත්, මේ වන විට එම රිලවුන් තම වෙලදසැලේ ප්‍රදර්ශනය කර ඇති එලවළු සහ පලතුරු රැගෙන පලා යන බවත්, පවත්නා තත්ත්වය මත එම රිලවුන් රංචුවෙන් ගැටළු රැසක් මතු වි ඇති බව එම වෙලෙදුන් කියා සිටිති.
+🟩
 
-රිලවුන් බිය ගැන්විම සදහා ගොරිල්ලෙකුගේ රුව සහිත වෙස් මුහුණක් පළතුරු සහ එලවළු මත තබා ඇති බවත්, එම වෙස් මුහුණු දෙස නොබලා රිලවුන් පළතුරු සහ එලවළු රැගෙන පලා යන බව වෙලෙදුන් පවසයි.
+The business community and residents of the Bogawantalawa were in need of heavy hardship due to a herd.
 
-මෙම රිලා රංචුව පැටවුන් දමා බෝ විමට ප්‍රථම අල්ලා වෙනත් සුදුසු පරිසරයකට රැගෙන ගොස් මුදා හරින ලෙස බගවන්තලාව නගරයේ ව්‍යාපාරිකයන් අදාල බලධාරින්ගෙන් ඉල්ලා සිටිති.
+There are many problems with the fruits of vegetables and fruits that have been exhibited in their premises for about a month.
+
+The prickly mask with a rotting mask is placed on the vegetables and fleeing of the masks and vegetables.
+
+The businessmen calling the relevant authorities to be taken to the other suicide and releasing the lagoon.
 
 ◼️
 
 [Data](articles/f8ed7294.json)
+
+[Extended Data](ext_articles/f8ed7294.ext.json)
 
 ---
 
@@ -192,21 +252,29 @@ Initially, the devotees blocked the Adivasivan Temple on the road barriers and t
 
 ---
 
-### කුඩු සලිඳු යලි  රිමාන්ඩ්
+### Kudu Sale Reuse
 
 *2024-03-11 13:59:06* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සලිඳු-යලි--රිමාන්ඩ්/11-408535) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රැඳවුම් නියෝග මත රඳවා ගෙන සිටි සෙල්ලපෙරුමගේ සළිඳු මල්ෂික ගුණරත්න නොහොත් පානදුර සලිඳු නැමැත්තා ‍මෙමස 25 දින තෙක් රිමාන්ඩ් බන්ධනාගාර ගතකරන ලෙස
+Sellapema's pre-prisoner remanded for 25 days. CID officials interrogated suspects, including international terrorists and drug dealers. Six suspects arrested in Madagasara State, taken into custody by International Police. Magistrate ordered no need for suspect in next case, prepared for Skype submission. Transported with special security to court, with all roads covered by police.
 
-සැකකරු ජාත්‍යන්තර ත්‍රස්තවාදී සංවිධාන සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සමග සම්බන්ධතා පවත්වමින්, ගිනි අවි එක්රැස් කරමින්, එම ගිනි අවි විවිධ  පුද්ගලයින් වෙත ලබා දෙමින් ඔවුන්ව වෙඩික්කරුවන් ලෙස යොදවා දිවයින තුල මනුෂ්‍ය ඝාතන ඇතුළු සංවිධානාත්මකව අපරාධ සිදුකිරීම යටතේ රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කර තිබුණි.
+🟩
 
-සැකකරු  මැඩගස්කර රාජ්‍යයේදී 2023 මාර්තු 13 දා අත්අඩංගුවට ගෙන ජාත්‍යන්තර පොලිසියෙන් රතු වරෙන්තුවක් ලබාගෙන විමර්ශන හයක් සිදුකරන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අධිකරණයට කරුණු වාර්තා කරන ලදී.
+Sellapema's pre-prisoner was remanded until 25 days
 
-ඉදිරි නඩු වාරයේදී සැකකරු විවෘත අධිකරණයට ඉදිරිපත් කිරීම අවශ්‍ය නොවන බවත්, අවශ්‍ය වුවහොත් ස්කයිප් තාක්ෂණය ඔස්සේ ඉදිරිපත් කිරීමට සූදානම් කරන ලෙසත් මහේස්ත්‍රාත්වරයා වැඩිදුරටත් නියෝග කලේය.
+Criminal Investigations Department officials submitted to courts after being interrogated by the firearms and interrogate the firearms with international terrorist organizations and drug dealers and interrogate the firearms.Had been done.
 
-...
+The suspects were arrested in Madagasara State and six investigations were taken into custody by the International Police and a red warrant from the International Police.
+
+The magistrate also ordered that the suspect was not required to submit the suspect in the next case and prepared to submit Skype technology if needed.
+
+He was brought to the court premises using a special security of the Police and Special Police Task Force and the main gates of the Panadura Judicial area and all the roads have been deployed to cover all firearms and police officers.
+
+◼️
 
 [Data](articles/60ccd956.json)
+
+[Extended Data](ext_articles/60ccd956.ext.json)
 
 ---
 
@@ -253,6 +321,18 @@ The duo was brought back to the island on March 15 after Malagasy defence offici
 [Data](articles/a95ca8ef.json)
 
 [Extended Data](ext_articles/a95ca8ef.ext.json)
+
+---
+
+### Against steep salary hikes of Central Bank
+
+*2024-03-11 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-steep-salary-hikes-of-Central-Bank/110-278628) · `en`
+
+A silent protest was held in front of the Central Bank of Sri Lanka (CBSL) over the steep salary hikes given to its employees. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/2bc7a3e2.json)
 
 ---
 
@@ -2235,57 +2315,5 @@ Minister of State Shehan Semasinghe said that the discussion has been invited to
 [Data](articles/102b48ec.json)
 
 [Extended Data](ext_articles/102b48ec.ext.json)
-
----
-
-### Socomec strengthens operations In Sri Lanka
-
-*2024-03-11 06:48:00* · [`islandlk`](http://island.lk/socomec-strengthens-operations-in-sri-lanka/) · `en`
-
-Socomec, a century-old French multinational and a global pioneer in low voltage power management systems, proudly announces a significant expansion of its operations in Sri Lanka as part of its broader strategy for Greater India. With a commitment to tripling its presence in Sri Lanka over the next three years, the company has appointed Suhard Amit as General Manager. Amit, a seasoned professional with over 25 years of diverse industry experience, will be based in Sri Lanka and tasked with overseeing operations for the markets in Bangladesh, Maldives, Bhutan, Nepal, and Sri Lanka.
-
-...
-
-[Data](articles/98958123.json)
-
-[Extended Data](ext_articles/98958123.ext.json)
-
----
-
-### Workers’ remittances and tourism earnings up in February 2024
-
-*2024-03-11 06:48:00* · [`islandlk`](http://island.lk/workers-remittances-and-tourism-earnings-up-in-february-2024/) · `en`
-
-Sri Lanka has recorded an over 16 percent increase in workers’ remittances while tourism earnings has increased by nearly 114 percent in February 2024 compared to the previous year, according to the latest data from the Central Bank of Sri Lanka (CBSL).
-
-Workers’ remittances reached USD 476.2 million in February 2024, showing a growth of 16.88% compared to February 2023.
-
-Meanwhile the earnings from tourism in February 2024 was recorded as USD 345.7 million. This is an increase of 113.92% compared with the same month last year.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/c35331b4.json)
-
-[Extended Data](ext_articles/c35331b4.ext.json)
-
----
-
-### Hayleys Solar achieves 200MWp rooftop solar PV capacity
-
-*2024-03-11 06:46:00* · [`islandlk`](http://island.lk/hayleys-solar-achieves-200mwp-rooftop-solar-pv-capacity/) · `en`
-
-Hayleys Solar announced a significant milestone of achieving a staggering 200MWp rooftop solar PV capacity in Sri Lanka. This remarkable accomplishment stands as the largest of its kind carried out by a single entity in the nation, marking a momentous stride towards driving the country’s progress with sustainable and clean renewable energy solutions.
-
-Surpassing the 200MWp mark, Hayleys Solar has not only set a record but has also contributed immensely towards the country’s total installed solar capacity, which currently stands at 900MWp. The 200MWp of solar capacity installed by Hayleys Solar is estimated to save an impressive 202,446,520 kg of carbon dioxide (CO2) emissions annually, underlining the company’s commitment to environmental sustainability.
-
-...
-
-[Data](articles/1988a7ca.json)
-
-[Extended Data](ext_articles/1988a7ca.ext.json)
 
 ---

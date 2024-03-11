@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 08:17:54**
+As of **2024-03-11 08:33:06**
 
 ## Newspaper Stats
 
-*Scraped **12,041** Articles*
+*Scraped **12,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,108 @@ newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
-adalk | 1,018
-adaderanalk | 1,459
+adalk | 1,019
+adaderanalk | 1,460
 tamilmirrorlk | 1,464
 virakesarilk | 1,644
-dailymirrorlk | 1,841
-adaderanasinhalalk | 1,898
+dailymirrorlk | 1,842
+adaderanasinhalalk | 1,903
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,041 (100.0%) of 12,041 articles have been extended.
+12,041 (99.9%) of 12,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Dry weather impacts consistent water supply
+
+*2024-03-11 08:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-impacts-consistent-water-supply/108-278594) · `en`
+
+Colombo, March 11 (Daily Mirror) - In light of the ongoing dry weather conditions, the National Water Supply and Drainage Board (NWSD) has highlighted hurdles in maintaining consistent water supply across various regions.
+
+The increased daily water demand exacerbates the situation, resulting in some areas receiving water at reduced pressure or facing restrictions.
+
+The National Water Supply and Drainage Board (NWS&DB) emphasized the need for proactive measures to address these challenges.
+
+To facilitate public feedback and address concerns effectively, the NWSD has introduced a dedicated hotline, 1939, for lodging complaints related to water supply disruptions.
+
+◼️
+
+[Data](articles/3dbcf054.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-03-11 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97861/showers-expected-in-parts-of-the-island) · `en`
+
+A few showers are likely in Eastern province and in Hambantota district, according to the Meteorology Department.
+
+Showers or thundershowers may occur at a few places in Ratnapura, Kalutara, Galle and Matara districts in the evening or night.
+
+Mainly dry weather will prevail in the other areas of the island, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/b6a62a8b.json)
+
+---
+
+### යුක්තියේ මෙහෙයුමට අද සිට ත්‍රිවිධ හමුදාවත් කැඳවයි
+
+*2024-03-11 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194365) · `si`
+
+‍අපරාධ සහ මත්ද්‍රව්‍ය පාලනය කිරීමේ මෙහෙයුම් සඳහා අද (11) සිට හමුදාවේ සහාය ලබාගැනීමට පොලීසිය තීරණය කර තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා පැවසුවේ, සියලු පොලිස් ස්ථාන වෙත ඊට අදාළ උපදෙස් ලබා දී ඇති බවය.
+
+"අද දිනයේ සිට මෙහෙයුම් ක්‍රියාත්මක විය යුතු වෙනවා. පොලිස් නිලධාරීන්ගේ යම් අඩුපාඩුවක් සිදුවුණොත් ඒ වැටලීම් සඳහා ප්‍රමාණවත් නිලධාරීන් නොමැති වුණොත් විශේෂයෙන් මාර්ග බාධක වැනි දේ ක්‍රියාත්මක කරන්න සිදුවුණොත් ඒ වගේම දරුණු ගණයේ අපරාධකරුවන් අත්අඩංගුවට ගැනීමට අවශ්‍ය වුණොත් යුද හමුදාව ඒ පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්ට, නියෝජ්‍ය පොලිස්පතිවරුන්ට අදාළ සම්බන්ධීකරණය සිදුකරලා, ඔවුන්ව කැඳවා ගැනීමට අවශ්‍ය කරන පහසු ක්‍රමවේදයක් සකස් කිරීම දැනට සිදුකරලා තියෙනවා. ඒ අනුව අවශ්‍ය වුණොත් යුද හමුදා සහාය ලබාගන්න කියලා පොලිස්පතිතුමා විසින් අවශ්‍ය උපදෙස් ලබාදුන්නා."
+
+◼️
+
+[Data](articles/29422613.json)
+
+---
+
+### දක්ෂිණ අධිවේගයේ බස් රථ අකුරට ධාවනය කිරීමේ තීරණයක්
+
+*2024-03-11 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194364) · `si`
+
+ගාල්ල මාකුඹුර දක්ෂිණ අධිවේගී මාර්ගයේ පුද්ගලික බස් රථ අද (11) සිට කාලසටහනට අනුව පමණක් ධාවනය කිරීමට තීරණය කර තිබේ.
+
+ගාල්ල මාකුඹුර දක්ෂිණ අධිවේගී මාර්ගයේ බස් රථ සංගමයේ ලේකම් නිලංග සඳරුවන් මහතා පවසන්නේ, එම ක්‍රියාමාර්ගය හේතුවෙන් මගීන්ට යම් වේලාවක් බස් රථ නැවතුම්පලෙහි රැඳී සිටීමට සිදුවනු ඇති බවය.
+
+"මේකට හේතුව තමා 2023 දෙසැම්බර් මස 18 වනදා අපිට ලබාදී තිබූ කාලසටහන සම්බන්ධයෙන් අපි විරෝධය පළ කළා. මේ සම්බන්ධයෙන් කිසිම තීරණයක් මෙතෙක් අරගෙන නෑ. මේ සම්බන්ධව මගී ජනතාවට සිදුවන අපහසුව පිළිබඳව කනග‍ාටුව ප්‍රකාශ කරනවා. අපි මේ වනතුරු මේ කාලසටහන ට ධාවනය වීම නොකර මගී ජනතාව වෙනුවෙන් අවශ්‍ය පරිදි බස් ධාවනය කරන්න කටයුතු කරපු කණ්ඩායමක්. කිසිම අවස්ථාවක මගීන් පෝම්වල රඳවා නොසිට අපි ධාවන කටයුතුවල නියැලුණා. නමුත් අපි පත්ව සිටින මෙම අපහසුතාවයට කිසිදු පාර්ශවයක් කටයුතු කළේ නෑ. ඒ නිසා මේ බස් රථ සියල්ල අකුරට පමණක් ධාවනය කරනවා. මෙම කාලසටහන වෙනස් කිරීමට බලධාරින් පියවර නොගත්තොත් අපි ලබන 18 වනදා සිට ගාල්ලෙන් ආරම්භ කරන බස් වර්ජනයක් දක්වා ගෙනියනවා."
+
+◼️
+
+[Data](articles/b28a81f3.json)
+
+---
+
+### මගේ කථාව වැරිදි ආකාරයට අර්ථකථනය කිරීමට උත්සාහ කරනවා
+
+*2024-03-11 07:27:40* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-කථාව-වැරිදි-ආකාරයට-අර්ථකථනය-කිරීමට-උත්සාහ-කරනවා/11-408522) · `si`
+
+තමන් කළ කතාවක් වැරදි ආකාරයට අර්ථකථනය කිරීමට ආණ්ඩුව උත්සාහ කරනමින් සිටින බව පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතා පවසයි.
+
+ඔහු පවසන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සාකච්ඡාවකට විපක්ෂයේ පක්ෂ වලට ඉඩ දෙන ලෙස තමන් ඉල්ලූ බවට ආණ්ඩුව ප්‍රකාශ කළත් තමන් එවැනි ඉල්ලීමක් සිදු නොකළ බවයි.
+
+තමන් සඳහන් කළේ විදේශීය ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ජාත්‍යන්තර ණය හිමියන් සමග කරන සාකච්ඡා වලදී විපක්ෂය සම්බන්ධ කරගන්නා ලෙසට ඉල්ලීමක් කළ බවයි.
+
+මූල්‍ය අරමුදල සහ විදේශීය ණය හිමියන් යනු කණ්ඩායම් දෙකක් බවත් මූල්‍ය අරමුදලේ ගිවිසුම අත්සන් කර අවසන් බැවින් ඔවුන් සමග සාකච්චා කිරීමෙන් ඵලක් නොවන බවද මන්ත්‍රීවරයා පවසයි.
+
+◼️
+
+[Data](articles/6be1e254.json)
+
+---
 
 ### Oceanswell and Greenpeace South Asia conduct cetacean surveys in Indian Ocean
 
@@ -132,6 +218,54 @@ Located in the main tourism hub in Ettukala, Negombo, a former colonial strongho
 
 ---
 
+### 96 වන ඔස්කා සම්මාන උළෙල ඇරඹෙයි
+
+*2024-03-11 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194363) · `si`
+
+96 වන ඔස්කා ඇකඩමි සම්මාන උළෙල මේ වන විට අමෙරිකාවේ ලොස් ඇන්ජලිස් නුවර පිහිටි ඩොල්බි රංග ශාලාවේ දී පැවැත්වේ.
+
+එහිදී හොඳම සහාය නිළිය ලෙස Da’Vine Joy Randolph  "The holdovers"  චිත්‍රපටිය වෙනුවෙන් සම්මාන දිනා ගත්තාය.
+
+හොඳම සහාය නළුවා ලෙස Robert Downey Jr විසින් "Oppenheimer" චිත්‍රපටිය වෙනුවෙන් සම්මාන දිනාගැනීමට සමත් විය.
+
+හොඳම ජාත්‍යන්තර විශේෂාංග චිත්‍රපටිය ලෙස ‘‘ද සෝන් ඕෆ් ඉන්ටරෙස්ට්‘‘  චිත්‍රපටය සම්මාන හිමිකර ගත්තාය.
+
+එහිදී එම චිත්‍රපටියේ පිටපත් රචකයා සහ අධ්‍යක්ෂකවරයා වු ජොනතන් ග්ලේසන් ගාසා තීරයේ සිදුකරන මානුෂීය නොවන ප්‍රහාර සම්බන්ධයෙන් ද අදහස් පළ කළේය.
+
+මේ අතර හොඳම ගීතයට හිමි සම්මානය හිමිකරගත්තේ  "Barbie" චිත්‍රපටියේ "What Was I Made For" ගීතය රචනා කළ Billie Eilish සහ ඇයගේ සහෝදරයා වන Finneas O'Connell විසිනි.
+
+"Poor Things" චිත්‍රපටයේ රඟපෑ Emma Stone හොඳම නිලිය සම්මානයෙන් පිදුම් ලැබීය.
+
+Cillian Murphy හොඳම නළුවා සම්මානය හිමි කර ගත්තේ "Oppenheimer" චිත්‍රපටය වෙනුවෙනි.
+
+එමෙන්ම හොඳම අධ්‍යක්ෂණය සඳහා සම්මානය හිමිකර ගත්තේ ද "Oppenheimer" චිත්‍රපටය අධ්‍යක්ෂණය කළ  Christopher Nolan  විසිනි.
+
+◼️
+
+[Data](articles/849dea19.json)
+
+---
+
+### IMF විශේෂ සාකච්ඡාවක් අද
+
+*2024-03-11 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194362) · `si`
+
+ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජිතයින් සහ මෙරට නියෝජිතයින් අතර එම අරමුදලේ යෝජනා පිළිබඳව සාකච්ඡාවක් අද (11) ජනාධිපති ලේකම් කාර්යාලයේ දී පැවැත් වේ.
+
+මෙම සාකච්ඡාව සඳහා මුදල් රාජ්‍ය අමාත්‍යවරුන් වන ෂෙහාන් සේමසිංහ, රංජිත් සියඹලාපිටිය, ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක, ජනාධිපති ලේකම් සමන් ඒකනායක, මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ, මුදල් අමාත්‍යාංශයේ ලේකම් කේ. එම්. මහින්ද සිරිවර්ධන යන මහත්වරුන් සහභාගී වීමට නියමිතය.
+
+මේ අතර අදාළ සාකච්ඡාවට සහභාගී වන ලෙස විපක්ෂ නායක සජිත් ප්‍රේමදාස, ජාතික ජන බලවේගය පක්ෂයේ නායක අනුර කුමාර දිසානායක සහ දෙමළ ජාතික සන්ධානයේ නායකයාට ද ආරාධනා කර ඇති බව ජනාධිපති ලේකම් කාර්යාලය සඳහන් කළේය.
+
+කෙසේවෙතත් දෙමළ ජාතික සන්ධානය පමණක් ඊට සහභාගී වන බව ප්‍රකාශ කර ඇති අතර විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා හා අනුර කුමාර දිසානායක මහතා එම සාකච්ඡා සඳහා සහභාගී නොවන බව දැනුම් දී තිබිණි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සම්බන්ධයෙන් විපක්ෂය ඉදිරිපත් කරන මතවාදයන්ට අවස්ථාව ලබා දීම සඳහා මෙම සාකච්ඡාවට ආරාධනා කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/102b48ec.json)
+
+---
+
 ### Socomec strengthens operations In Sri Lanka
 
 *2024-03-11 06:48:00* · [`islandlk`](http://island.lk/socomec-strengthens-operations-in-sri-lanka/) · `en`
@@ -197,6 +331,26 @@ Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’
 [Data](articles/3c54da08.json)
 
 [Extended Data](ext_articles/3c54da08.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට කාලගුණයේ වෙනසක්
+
+*2024-03-11 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194361) · `si`
+
+අද (11) දිනයේ නැගෙනහිර පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව  පවසයි.
+
+රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+මේ අතර, ප්‍රදේශ කිහිපයක් සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව අනතුරු ඇඟවීමේ නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ඊයේ (10) නිකුත් කර තිබිණි.
+
+එහි සඳහන් වුයේ අද දිනයේ බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් තත්ත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+
+◼️
+
+[Data](articles/b88eee34.json)
 
 ---
 
@@ -2005,179 +2159,5 @@ The Minister of State has called on the coat today, saying that there is no need
 [Data](articles/2b1e2cc3.json)
 
 [Extended Data](ext_articles/2b1e2cc3.ext.json)
-
----
-
-### Gotabaya’s book is an attempt to paint image of innocence: National Unity Alliance
-
-*2024-03-10 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gotabayas-book-is-an-attempt-to-paint-image-of-innocence-National-Unity-Alliance/155-278557) · `en`
-
-Colombo, March 10 (Daily Mirror)- The book released by Gotabaya Rajapaksa on an alleged Conspiracy to Oust him is the latest attempt by the “president who ran away” to paint an image of innocence,National Unity Alliance said.
-
-A statement issued by the National Unity Alliance said  the seventh executive president was ousted by the people of Sri Lanka.
-
-"The people highlighted his lack of equitable governance, his penchant for unchallenged power and his serious lack of accountability, responsibility and willingness to be portrayed as a racist apart from turning a blind eye towards corruption and the erosion of the rule of law.
-
-He appeared to have completely forgotten the ideals of democratic ideals so cherished by all Sri Lanka. Gotabaya was ousted not just by the people - divine intervention came into play when he without rhyme or reason gave his name to the cremation of Muslims who perished due to Covid 19," the statement added.
-
-...
-
-[Data](articles/595d5401.json)
-
-[Extended Data](ext_articles/595d5401.ext.json)
-
----
-
-### Gotabaya’s book is an attempt to paint image of innocence: National Unity Alliance
-
-*2024-03-10 13:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabayas-book-is-an-attempt-to-paint-image-of-innocence-National-Unity-Alliance/108-278557) · `en`
-
-Colombo, March 10 (Daily Mirror)- The book released by Gotabaya Rajapaksa on an alleged Conspiracy to Oust him is the latest attempt by the “president who ran away” to paint an image of innocence,National Unity Alliance said.
-
-A statement issued by the National Unity Alliance said  the seventh executive president was ousted by the people of Sri Lanka.
-
-"The people highlighted his lack of equitable governance, his penchant for unchallenged power and his serious lack of accountability, responsibility and willingness to be portrayed as a racist apart from turning a blind eye towards corruption and the erosion of the rule of law.
-
-He appeared to have completely forgotten the ideals of democratic ideals so cherished by all Sri Lanka. Gotabaya was ousted not just by the people - divine intervention came into play when he without rhyme or reason gave his name to the cremation of Muslims who perished due to Covid 19," the statement added.
-
-...
-
-[Data](articles/c6f4480b.json)
-
-[Extended Data](ext_articles/c6f4480b.ext.json)
-
----
-
-### Ancient Values Influence Behaviour Centuries Later
-
-*2024-03-10 12:50:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ancient-values-influence-behaviour-centuries-later/) · `en`
-
-From centuries, Chinese people held that the values of their ancestors should be respected – harmony, courtesy, wisdom, loyalty and filial piety. Esteem for ancient values has a hold on Chinese society even today. One interesting matter is protection of wildlife, nature reserves and a willingness to share space. How sad that in this country (SL) people have little regard for pristine wildernesses, forests and wildlife; we have little respect for the message of Arahat Mahinda. The Yellow River (Huang Ho) carries massive quantities of muddy brown silt that fertilises thousands of acres and accounts for its name (yellow). This cradle of Chinese civilisation, known as the Sorrow of China, because frequent flooding, gives rise to much devastation, but the contradiction has long been stoically accepted.
-
-...
-
-[Data](articles/92bd7e18.json)
-
-[Extended Data](ext_articles/92bd7e18.ext.json)
-
----
-
-### IORA Day 2024 celebrations get underway at Galle Face Green
-
-*2024-03-10 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97850/iora-day-2024-celebrations-get-underway-at-galle-face-green) · `en`
-
-President Ranil Wickremesinghe participated in the 2024 Indian Ocean Rim Association (IORA) Day celebration at the Galle Face Green a short while ago.
-
-The commemoration was held under the chairmanship of President Wickremesinghe, with the theme for IORA Day 2024 being “Ensuring a Sustainable Indian Ocean for Future Generations”, according to the President’s Media Division (PMD).
-
-The Head of State interacted with schoolchildren by taking part in different activities, and explored the stalls set up by IORA member states and other government institutions.
-
-IORA Day is annually celebrated on 07 March, with 23 member stated and 11 dialogue partners, with this year’s theme set to focus on educating children on the importance of ocean conservation and sustainable practices to preserve the ocean.
-
-An art completion at the national level was amongst the various ocean-awareness related activities planned for schoolchildren during today’s celebrations.
-
-◼️
-
-[Data](articles/92159c78.json)
-
-[Extended Data](ext_articles/92159c78.ext.json)
-
----
-
-### Sri Lanka low grown teas ease at auction, high growns up
-
-*2024-03-10 12:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-low-grown-teas-ease-at-auction-high-growns-up-153961/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea price averages fell at an auction March 5-6, dragged with Low Growns weakening, while High and Medium Growns gained, industry data showed.
-
-Sri Lankan tea prices have moved up in 2024 both in rupee and US dollar terms.
-
-The national weekly sale average fell by 20.61 rupees to 1344.39 rupees a kilogram this week, from 1,365 rupees week industry data published by Ceylon Tea Brokers showed.
-
-The weekly average was 4.47 US dollars a kilo, up from 4.21 a week earlier.
-
-Prices have gained from an average of 3.66 US dollar a kilo seen at the last auction in December.
-
-The weekly average of Sri Lanka’s highest priced teas, the Low Grown, fell 54.11 rupees to 1,397.54 rupees.
-
-BOP1 Select best and categories within Bests maintained and fell, whilst Below Best and poorer sorts maintained. OP1 Select best fell irregularly, while best and below best were gained. Poorer sorts of OP1 Select bests maintained. OP and OPA maintained prices, while Select bests varieties gained.
-
-...
-
-[Data](articles/f2a41ad5.json)
-
-[Extended Data](ext_articles/f2a41ad5.ext.json)
-
----
-
-### Sri Lanka reignite timed-out row after T20 series win over Bangladesh
-
-*2024-03-10 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reignite-timed-out-row-after-T20-series-win-over-Bangladesh/108-278556) · `en`
-
-Sylhet, Mar. 10 (AFP) - Sri Lanka have reignited the row over the 2023 World Cup timed-out dismissal of Angelo Mathews after celebrating their Twenty20 series win in Bangladesh by pointing to their wrists.
-
-Bangladesh skipper Najmul Hossain Shanto told Sri Lanka's players to put the November controversy behind them and urged them to focus on the rest of the tour, which includes three one-day internationals and two Tests.
-
-"They haven't moved on from the timed-out incident," Shanto said of the visitors' celebration following their T20 series win in Sylhet on Saturday.
-
-"They should stay in the present," Shanto added, according to ESPNcricinfo, pointing out again that the timed-out dismissal at the one-day World Cup was within the rules.
-
-Bangladesh defeated Sri Lanka by three wickets in a World Cup group-stage game in New Delhi.
-
-...
-
-[Data](articles/9b6d02c9.json)
-
-[Extended Data](ext_articles/9b6d02c9.ext.json)
-
----
-
-### At least 19 dead and 7 missing as landslide and flash floods hit Indonesia’s Sumatra island
-
-*2024-03-10 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97849/at-least-19-dead-and-7-missing-as-landslide-and-flash-floods-hit-indonesias-sumatra-island) · `en`
-
-Torrential rains have triggered flash floods and a landslide on Indonesia’s Sumatra island, killing at least 19 people and leaving seven others missing, officials said Sunday.
-
-Tons of mud, rocks and uprooted trees rolled down a mountain late Friday, reaching a river that burst its banks and tore through mountainside villages in Pesisir Selatan district of West Sumatra province, said Doni Yusrizal, who heads the local disaster management agency.
-
-Rescuers by Saturday pulled out seven bodies in the worst-hit village of Koto XI Tarusan, and recovered three others in two neighboring villages, Yusrizal said.
-
-Rescuers retrieved six bodies in Pesisir Selatan and three more in the neighboring district of Padang Pariaman, bringing the death toll to 19, the National Disaster Management Agency said on Sunday.
-
-The agency in a statement said at least two villagers were injured by the flash flood and rescuers are searching for seven people who are reportedly still missing.
-
-...
-
-[Data](articles/588a17f5.json)
-
-[Extended Data](ext_articles/588a17f5.ext.json)
-
----
-
-### Strike on Central Postal Exchange
-
-*2024-03-10 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194343) · `si`
-
-Central Mail Exchange employees are striking for 24 hours from midnight, demanding a disabled lift's repair. The strike affects nearly 40% of women, including pregnant mothers, causing inconvenience. The Combined Post Union Front criticizes the government's 3-month delay, proposing a 1-month solution.
-
-🟩
-
-The employees of the Central Mail Exchange have decided to launch a 24-hour token strike from midnight today.
-
-They have decided to propose to propose to repair the disabled lift in the 8 storey building established by the Central Mail Exchange.
-
-Joint Post Trade Union Front was speaking at a media briefing.
-
-They say that nearly 40 percent women in the Central Mail exchange are inconvenienced and there are pregnant mothers.
-
-The elevator was disabled, but it was reported that the employees had to strive to move around the postgroll building due to the repair of it.
-
-The Combined Post Union Front said that the government is asking for three months to reconfuse it, says the union of the forefront of a month within a month.
-
-◼️
-
-[Data](articles/53a91216.json)
-
-[Extended Data](ext_articles/53a91216.ext.json)
 
 ---

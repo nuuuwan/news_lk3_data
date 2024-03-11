@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 06:54:27**
+As of **2024-03-11 07:16:15**
 
 ## Newspaper Stats
 
-*Scraped **12,023** Articles*
+*Scraped **12,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,95 @@ dbsjeyarajcom | 182
 newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
-islandlk | 648
+islandlk | 656
 adalk | 1,017
 adaderanalk | 1,459
 tamilmirrorlk | 1,462
 virakesarilk | 1,644
-dailymirrorlk | 1,840
+dailymirrorlk | 1,841
 adaderanasinhalalk | 1,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,021 (100.0%) of 12,023 articles have been extended.
+12,023 (99.9%) of 12,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### IIHS-DFCC partnership to provide loans for students pursuing health education
+
+*2024-03-11 06:59:00* · [`islandlk`](http://island.lk/iihs-dfcc-partnership-to-provide-loans-for-students-pursuing-health-education/) · `en`
+
+The International Institute of Health Sciences (IIHS), the country’s leading institute for health education, recently announced a landmark partnership with the DFCC Bank through which IIHS students will be provided with loans at attractive rates as low as 16.5% with many other benefits. The IIHS is specialised in offering nursing-related educational qualifications, and affiliated with Coventry University in the United Kingdom (UK). The partnership was officially entered into on 01st February 2024 at an event attended by representatives from both parties. The IIHS was represented by its Co-founder and Chief Executive Officer (CEO) Dr. Kithsiri Edirisinghe, and Anton Arumugam – Offshore Banking, Remittances and Business Development represented the DFCC Bank.
+
+...
+
+[Data](articles/dbd1febb.json)
+
+---
+
+### ‘Leonardo by Bella Vita’: Authentic Italian restaurant in Negombo with all Italian charm
+
+*2024-03-11 06:58:00* · [`islandlk`](http://island.lk/leonardo-by-bella-vita-authentic-italian-restaurant-in-negombo-with-all-italian-charm/) · `en`
+
+Negombo is popularly known as ‘Little Rome’ where the majorities is Catholics. But in this ‘Little Rome’, ‘Leonardo by Bella Vita’ stands tall presenting the great Italian culinary experience not only to ‘Little Romans’ but to the whole country and beyond. ‘Leonardo by Bella Vita’ is a signature Italian Restaurant earmarked as ‘the best Italian cuisine’ in town.
+
+Located in the main tourism hub in Ettukala, Negombo, a former colonial stronghold, ‘Leonardo by Bella Vita’ is the brain child of Master Italian Chef Nisal Appuhamy. He had lived and worked in Verona for almost three and a half decades. Nisal acquired his Italian culinary experience by working in restaurants in and out of Verona. ‘Actually I do not have any hotel school or academic experience in cuisine, but I have almost 35 years of hands on experience working under top Italian master chefs. That inspired me to come back to my motherland and get on with my own dream’ Nisal explained.
+
+...
+
+[Data](articles/cb3dcc64.json)
+
+---
+
+### Socomec strengthens operations In Sri Lanka
+
+*2024-03-11 06:48:00* · [`islandlk`](http://island.lk/socomec-strengthens-operations-in-sri-lanka/) · `en`
+
+Socomec, a century-old French multinational and a global pioneer in low voltage power management systems, proudly announces a significant expansion of its operations in Sri Lanka as part of its broader strategy for Greater India. With a commitment to tripling its presence in Sri Lanka over the next three years, the company has appointed Suhard Amit as General Manager. Amit, a seasoned professional with over 25 years of diverse industry experience, will be based in Sri Lanka and tasked with overseeing operations for the markets in Bangladesh, Maldives, Bhutan, Nepal, and Sri Lanka.
+
+...
+
+[Data](articles/98958123.json)
+
+---
+
+### Workers’ remittances and tourism earnings up in February 2024
+
+*2024-03-11 06:48:00* · [`islandlk`](http://island.lk/workers-remittances-and-tourism-earnings-up-in-february-2024/) · `en`
+
+Sri Lanka has recorded an over 16 percent increase in workers’ remittances while tourism earnings has increased by nearly 114 percent in February 2024 compared to the previous year, according to the latest data from the Central Bank of Sri Lanka (CBSL).
+
+Workers’ remittances reached USD 476.2 million in February 2024, showing a growth of 16.88% compared to February 2023.
+
+Meanwhile the earnings from tourism in February 2024 was recorded as USD 345.7 million. This is an increase of 113.92% compared with the same month last year.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/c35331b4.json)
+
+---
+
+### People’s Bank supporting the rise of women entrepreneurs
+
+*2024-03-11 06:45:00* · [`islandlk`](http://island.lk/peoples-bank-supporting-the-rise-of-women-entrepreneurs/) · `en`
+
+In a vibrant celebration of International Women’s Day, People’s Bank held a special event at their Head Office in Colombo 2, showcasing their dedication to female empowerment and entrepreneurial success. The event, presided over by the CEO/General Manager Clive Fonseka, was not just a ceremonial gathering but a launchpad for groundbreaking initiatives aimed at uplifting women entrepreneurs across Sri Lanka.
+
+Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’, People’s Bank joined forces with Good Market to kickstart a comprehensive training program coupled with financial assistance for 12 selected women entrepreneurs. This initiative seeks to nurture their business acumen and support their growth in the competitive market.
+
+...
+
+[Data](articles/3c54da08.json)
+
+---
 
 ### RW invites dissidents back into UNP fold for national revival
 
@@ -2141,129 +2213,5 @@ The leprosy is not an increase in the spread of the disease and the decorative c
 [Data](articles/bd00189f.json)
 
 [Extended Data](ext_articles/bd00189f.ext.json)
-
----
-
-### A gaming of the upper deck of the salon
-
-*2024-03-10 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194341) · `si`
-
-Police raid gambling house in Aluthgama, arrest suspects in multiple locations. Gambling station was run due to the salon's preferences. Suspects arrested after meticulous investigation by Aluthgama Police. Further investigations ongoing.
-
-🟩
-
-Police have raided a gambling house operating in a luxury house in Aluthgama.
-
-The suspect had been arrested in Kosgoda, Balapitiya, Aluthgama, Kalutara, Beruwala, Barawewa, Baranduwala, Benthara and Beruwalulla.
-
-The forest march was maintained in the upper front of a luxury house near the site of the Sathi Pola in Aluthgama.
-
-It has been revealed that the gambling station had been maintained due to the preferences of the Following Salon's salon.
-
-The suspects were arrested after the Aluthgama Police were meticulously investigated.
-
-The police were also taken into custody by the police.
-
-The suspects are to be produced before the Kalutara Magistrate's Court and the Aluthgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/b6021517.json)
-
-[Extended Data](ext_articles/b6021517.ext.json)
-
----
-
-### Sri Lankans showing work at Asian Junior Badminton Tournament
-
-*2024-03-10 11:30:05* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-කණිෂ්ඨ-බැඩ්මින්ටන්-තරගාවලියේදී-ලාංකිකයෝ-වැඩ-පෙන්වති/11-408509) · `si`
-
-Sri Lanka's junior badminton teams won 17 gold medals at the Asian Junior Badminton Tournament in Islamabad, Pakistan, from 3/07 to 3/07. The tournament also included Blindminton Championships.
-
-🟩
-
-The Katunayaka Airport was won by the Blindminton Championships of 3 and 20 pm on the April 3/09.
-
-The tournament was held in Islamabad in Pakistan until 3/07 to 03/07.
-
-Under-15 and Under-17 Sri Lanka Junior Badminton teams won eight gold medals.
-
-In addition, the Sri Lankan team and mixed events were also won by nine gold medals and six silver medals.
-
-Sri Lanka Junior Badminton won the medals 03/09 km from Dubai to Sri Lankan Airlines UL. The officers of Sri Lanka Badminton Federal Federal Federal Federal Federal FederationTeachers - Principals, students, as well as a large number of friends of their parents were present.
-
-◼️
-
-[Data](articles/b935f5b7.json)
-
-[Extended Data](ext_articles/b935f5b7.ext.json)
-
----
-
-### A shooting of Ja-canal
-
-*2024-03-10 11:22:54* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇල-වෙඩිතැබීමක්/11-408508) · `si`
-
-In Dadugama, a 48-year-old resident was injured in a shooting by two motorcycle riders.
-
-🟩
-
-Attorney at Law, a person was injured in a shooting committed in the Dadugama Meat estate.
-
-The injured person is a 48 year old resident of Dadugama meat estate
-
-Police investigations have revealed that the shooting had been shot dead by two people on a motorcycle.
-
-◼️
-
-[Data](articles/99d090a3.json)
-
-[Extended Data](ext_articles/99d090a3.ext.json)
-
----
-
-### Half number of girls, women do not include sanitary napkins in household expenditures
-
-*2024-03-10 11:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Half-number-of-girls-women-do-not-include-sanitary-napkins-in-household-expenditures/108-278555) · `en`
-
-Colombo, March 10 (Daily Mirror) - Due to the affordability of sanitary napkins half the number of girls and women in Sri Lanka do not include sanitary napkins in their household expenditures, the Advocata Institute said.
-
-They said the affordability of sanitary napkins and its significant impact on the welfare of girls and women in Sri Lanka has become more pronounced in recent years.
-
-This is particularly evident due to the decline in their purchasing powers stemming from the Covid-19 pandemic and the economic crisis.
-
-Approximately 4 million Sri Lankans have descended into poverty since 2019, making the total number of Sri Lankans living in poverty approximately 7 million.
-
-Therefore, it is necessary to examine the ramifications of the lack of affordability of sanitary napkins which has been worsened by the imposition of high taxes on sanitary napkins.
-
-...
-
-[Data](articles/2a3c755a.json)
-
-[Extended Data](ext_articles/2a3c755a.ext.json)
-
----
-
-### Ottawa community gathers at vigil to mourn victims of mass killing
-
-*2024-03-10 11:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-community-gathers-at-vigil-to-mourn-victims-of-mass-killing/108-278554) · `en`
-
-More than 300 people gathered in the suburban Ottawa neighbourhood of Barrhaven Saturday for a community vigil following what police have called one of the worst mass killings in the region’s recent history.
-
-Ottawa Police Service said Thursday that the homicide unit was called in after six people — four children and two adults — were found dead inside a home in the city’s west-end suburb on Wednesday night, the Global News reported.
-
-“My daughter played with their kids a lot… On New Year’s at the temple they were all playing together so it’s really hard to see that this happened,” said one neighbour, Mirissa Kumar, through tears.
-
-One of the victims was a woman, Darshani Dilanthika Ekanayake, and her two-and-a-half-month-old baby.
-
-Police allege 19-year-old Febrio De-Zoysa murdered Ekanayake, her four children and a family acquaintance.
-
-The father, Dhanushka Wickramasinghe, suffered serious but not life-threatening injuries.
-
-...
-
-[Data](articles/b6029c87.json)
-
-[Extended Data](ext_articles/b6029c87.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 21:17:48**
+As of **2024-03-11 21:33:13**
 
 ## Newspaper Stats
 
-*Scraped **12,215** Articles*
+*Scraped **12,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,044
-adaderanalk | 1,478
+adaderanalk | 1,479
 tamilmirrorlk | 1,489
-virakesarilk | 1,677
+virakesarilk | 1,678
 dailymirrorlk | 1,864
 adaderanasinhalalk | 1,933
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,215 (100.0%) of 12,215 articles have been extended.
+12,215 (100.0%) of 12,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### கோட்டாவின் நூலில் ஒருசில உண்மைகள் பல பொய்கள் - உதய கம்மன்பில
+
+*2024-03-11 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178470) · `ta`
+
+கோட்டபய ராஜபக்ஷ வெளியிட்டுள்ள நூலில் ஒருசில உண்மைகள் காணப்படுவதைப் போன்று பல பொய்களும் காணப்படுகின்றன. பஷிலுடன் எனக்கு அரசியல் முரண்பாடு இருந்ததே தவிர தனிப்பட்ட முரண்பாடு ஏதும் இருக்கவில்லை. பொருளாதார நெருக்கடிகளை தீவிரப்படுத்துவதற்காக அரசாங்கத்துக்குள் முன்னெடுக்கப்பட்ட சூழ்ச்சிகளை நாட்டுக்கு பகிரங்கப்படுத்த வேண்டும் னஎ பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் நேற்று திங்கட்கிழமை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷ 'ஜனாதிபதி பதவியிலிருந்து என்னை வெளியேற்றுவதற்கான சதி' எனும்  தலைப்பில் வெளியிட்டுள்ள நூலில் நேரடியாகவும்,மறைமுகமாகவும் எம்மை பற்றி குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/93ec1150.json)
+
+---
 
 ### One dead, 4 injured in shooting at Pitigala
 
@@ -43,6 +59,18 @@ One person has been killed while three others have been injured following a shoo
 [Data](articles/15a9e829.json)
 
 [Extended Data](ext_articles/15a9e829.ext.json)
+
+---
+
+### One dead, 3 injured in shooting at Pitigala
+
+*2024-03-11 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97879/one-dead-3-injured-in-shooting-at-pitigala) · `en`
+
+One person has been killed while three others have been injured following a shooting incident at Pitigala in Elpitiya, police said.
+
+◼️
+
+[Data](articles/8dfc6c1e.json)
 
 ---
 
@@ -2293,45 +2321,5 @@ The SEC, under the Collective Investments Code 2022 (CIS Code) has introduced th
 [Data](articles/1ed3d38e.json)
 
 [Extended Data](ext_articles/1ed3d38e.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-11 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178413) · `ta`
-
-Today's currency exchange rate: US $302.6227, sales price 311.9825, based on Central Bank's rate on March 11.
-
-🟩
-
-The US $ 302.6227 and the sales price were 311.9825 based on the Central Bank's currency exchange rate on Monday (March 11).
-
-◼️
-
-[Data](articles/eb12b8b4.json)
-
-[Extended Data](ext_articles/eb12b8b4.ext.json)
-
----
-
-### An elderly woman injured in a military vehicle in Jaffna
-
-*2024-03-11 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178411) · `ta`
-
-An elderly woman, Chidambarappillai Vasanthadevi, 60, was injured in a collision involving a military vehicle and a motorcycle in Jaffna, and is now at the Jaffna Bodhana Hospital for treatment.
-
-🟩
-
-An elderly woman has been admitted to the Jaffna Bodhana Hospital after being injured in a military vehicle.
-
-A military vehicle and a motorcycle collided with a motorcycle on Sunday evening (10) evening in Jaffna.
-
-Chidambarappillai Vasanthadevi (60 years old) from the area has been admitted to the Jaffna Bodhana Hospital for treatment.
-
-◼️
-
-[Data](articles/913a1076.json)
-
-[Extended Data](ext_articles/913a1076.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 22:33:10**
+As of **2024-03-11 22:50:32**
 
 ## Newspaper Stats
 
-*Scraped **12,224** Articles*
+*Scraped **12,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ islandlk | 663
 adalk | 1,046
 adaderanalk | 1,480
 tamilmirrorlk | 1,491
-virakesarilk | 1,678
-dailymirrorlk | 1,865
+virakesarilk | 1,679
+dailymirrorlk | 1,866
 adaderanasinhalalk | 1,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,223 (100.0%) of 12,224 articles have been extended.
+12,224 (100.0%) of 12,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Another shooting kills two, injures two more in Ambalangoda
+
+*2024-03-11 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-shooting-kills-two-injures-two-more-in-Ambalangoda/108-278659) · `en`
+
+Ambalangoda, March 11 (Daily Mirror) - Another shooting incident was reported in Galagoda, Ambalangoda tonight resulting in two fatalities and two others sustaining injuries, police said.
+
+They said two assailants on a motorcycle opend fired at a group near a shop in Galagoda.
+
+The injured victims have been rushed to the Balapitiya Hospital.
+
+Once again, a T-56 firearm has been used in the shooting and the Ambalangoda Police are investigating the incident.
+
+This marks the second shooting incident reported tonight, following a similar tragic event in Pitigala, where one person was killed and two others were injured.
+
+◼️
+
+[Data](articles/00c5f735.json)
+
+---
+
+### அம்பலாங்கொடையிலும் துப்பாக்கிப் பிரயோகம்: இருவர் பலி, மூவர் காயம்!
+
+*2024-03-11 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178472) · `ta`
+
+மோட்டார் சைக்கிளில் வந்த இருவர் அம்பலாங்கொடை கலகொட பகுதியில் உள்ள கடை ஒன்றின் மீது துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/27b186a3.json)
+
+---
 
 ### Two killed, 3 injured in Ambalangoda shooting
 
@@ -51,6 +83,8 @@ Incidentally that shooting was also reportedly carried out by two gunmen on a mo
 ◼️
 
 [Data](articles/ec4832e0.json)
+
+[Extended Data](ext_articles/ec4832e0.ext.json)
 
 ---
 
@@ -2285,57 +2319,5 @@ Both chairmen were elected to their positions, and the SLPP, with its majority r
 [Data](articles/d4c3e3a4.json)
 
 [Extended Data](ext_articles/d4c3e3a4.ext.json)
-
----
-
-### Two pilots of flying flight: Indonesia investigation
-
-*2024-03-11 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178420) · `ta`
-
-Indonesia investigates incident where two pilots slept for 28 minutes on Batik Air flight from Sulevezi to Jakarta. Plane landed safely. Pilots' blood pressure tests were normal. Air traffic expert Alwin Lee criticizes lack of investigation into pilots' fatigue. Indonesian air traffic authorities warn airline and begin investigations.
-
-🟩
-
-The Indonesian government has launched an investigation into the incident where two pilots were sleeping in the pilot's pilot's pilot.
-
-The Indonesian Transportation Safety Committee said that the two pilots were sleeping for 28 minutes on a Batik Air aircraft, which was flying from Sulevezi to Jakarta.
-
-The Airbus A320 variants had gone in a different direction for a while, but later landed safely.
-
-Shortly after the plane departed, the chief pilot said he was going to sleep.
-
-Reports have surfaced that the spouse's wife was tired of taking care of twin children a month ago, while the child had taken care of the children.
-
-The pilot who woke up from the sleep and the auxiliary pilot fell asleep and the plane had moved a little.
-
-Although Jakarta Air Controllers tried to contact Avimani, it was only after 28 minutes of silence.
-
-He later contacted the regulators and landed the plane.
-
-...
-
-[Data](articles/189c5544.json)
-
-[Extended Data](ext_articles/189c5544.ext.json)
-
----
-
-### Kudu remanded till March 25
-
-*2024-03-11 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194377) · `si`
-
-Shaluwood heroin Gunaratne, alias Powder, has been remanded until March 25 by Panadura Chief Magistrate Champika Rajapaksa.
-
-🟩
-
-Shaluwood heroin Gunaratne alias powder was remanded until March 25.
-
-Panadura Chief Magistrate Champika Rajapaksa has given the order.
-
-◼️
-
-[Data](articles/401b80d1.json)
-
-[Extended Data](ext_articles/401b80d1.ext.json)
 
 ---

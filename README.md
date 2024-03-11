@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 13:33:44**
+As of **2024-03-11 13:52:13**
 
 ## Newspaper Stats
 
-*Scraped **12,120** Articles*
+*Scraped **12,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,35 +14,125 @@ dbsjeyarajcom | 184
 newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 631
-islandlk | 662
+islandlk | 663
 adalk | 1,027
 adaderanalk | 1,466
 tamilmirrorlk | 1,480
 virakesarilk | 1,654
 dailymirrorlk | 1,855
-adaderanasinhalalk | 1,914
+adaderanasinhalalk | 1,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,119 (100.0%) of 12,120 articles have been extended.
+12,120 (100.0%) of 12,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### කුඩු සළිඳු මාර්තු 25 දක්වා රිමාන්ඩ්
+### ඝාතනයට ලක්වූ ශ්‍රී ලාංකිකයින්ගේ අවසන් කටයුතු ගැන තීරණයක්
+
+*2024-03-11 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194378) · `si`
+
+කැනඩාවේ ඔටාවා අගනුවරදී ඝාතනයට ලක්වූ ශ්‍රී ලාංකකියන්ගේ අවසන් කටයුතු ධනුෂ්ක වික්‍රමසිංහගේ අවසරය මත ප්‍රදේශයේ බෞද්ධ විහාරස්ථානය මඟින් සිදුකිරීමට නියමිතය.
+
+එකම පවුලේ සාමාජිකයින් පස්දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බාර්හෙවන් ප්‍රදේශයේ සිය නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුණේ පසුගිය බදාදා රාත්‍රීයේදීය.
+
+එම ඝාතනය කළ ෆ්‍රෑන්ක්ද සොයිසා නැමැති 19 හැවිරිදි සැකකරු සියදිවි හානි කර ගැනීමේ සිතුවිල්ලෙන් සිටි අයෙක් බව එහි බෞද්ධ විහාරස්ථානයේ පූජ්‍ය මහගම සූනීත හිමි පවසයි.
+
+ඔහු ඉගෙනුම ලැබු පාසලේ ප්‍රකාශකයෙකු පැවසුවේ, සැකකාර ෆ්‍රෑන්ක් අවසන් වරට පාසලට පැමිණ ඇත්තේ පසුගිය වසරේ ශීත ඍතුව දක්වා පමණක් බවය.
+
+එසේම පොලිස් විමර්ශනවලදී අවධානය යොමු වී ඇත්තේ ෆ්‍රෑන්ක් ද සොයිසා මෙම සමූහ ඝාතනය සඳහා තියුණු ආයුධ කිහිපයක් යොදාගත්තේද යන්න පිළිබඳවය.
+
+කෙසේවෙතත් මේ වනවිට බරපතළ තුවාල ලබා සිටින ධනුෂ්ක වික්‍රමසිංහගේ අවසරය මත මියගිය දර්ශනී ඒකනායක සහ දරුවන් සිව්දෙනාගේ අවසන් කටයුතු පශ්චාත් මරණ පරීක්ෂණ සිදුකිරීමෙන් අනතුරුව ප්‍රදේශයේ බෞද්ධ විහාරස්ථානය මඟින් සිදුකිරීමට නියමිත බව වාර්තා වේ.
+
+...
+
+[Data](articles/dbd667c4.json)
+
+---
+
+### Technical Overview of Online Safety Act
+
+*2024-03-11 13:19:00* · [`islandlk`](http://island.lk/technical-overview-of-online-safety-act/) · `en`
+
+In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organization established to prevent and combat serious internationally organized crimes, cybercrime and terrorism, had clearly defined the difference between cyber-dependent crimes and cyber-enabled crimes . As defined by them, any crime that can only be committed using computers, computer networks or other forms of information communication technology was named as cyber-dependent crimes and traditional crimes facilitated by the Internet and digital technology were categorized as cyber-enabled crimes. So, there are two categories of cybercrimes and these definitions are internally accepted.
+
+Illicit intrusion and hacking into computer networks, disruption of computer functionality with the spread of viruses or other malware and Distributed Denial of Service (DDoS) attacks which can paralyze service delivery by computers are some examples for cyber-dependent crimes.
+
+...
+
+[Data](articles/8aa14d1a.json)
+
+[Extended Data](ext_articles/8aa14d1a.ext.json)
+
+---
+
+### Sri Lanka – WHITHER GOES THOU?
+
+*2024-03-11 13:16:00* · [`islandlk`](http://island.lk/sri-lanka-whither-goes-thou/) · `en`
+
+I plagiarized the title of this article from a Latin quote “Quo Vadis”. It was an immensely popular movie in the 50s starring Robert Taylor and Deborah Kerr. According to the film, Quo vadis (Whither Goes Thou) were the words exchanged between God and St Peter. The first apostle was fleeing from Rome along the Appian Way to Brindisi to take a boat and escape to Palestine. Peter went back to Rome where he was crucified. Today there is a small chapel on that road where Peter turned back. It is called the Church of Domine Quo vadis.
+
+Now you know I admitted I plagiarized. Don’t throw stones at my aeroplane. I have already said my mea culpa.Times have become difficult and often impossible to cope with. Whatever winds blow across our paradise isle, they are all filled with maelstroms that have so many manifestations. I do not think I am wrong if I say that even the winds are deceitful. We have been in turbulence for more years than we can recall.
+
+...
+
+[Data](articles/28ae94dc.json)
+
+---
+
+### The Election-Economy Nexus and the Politics of JVP Apology
+
+*2024-03-11 13:15:00* · [`islandlk`](http://island.lk/the-election-economy-nexus-and-the-politics-of-jvp-apology/) · `en`
+
+The economy is the base; everything else is superstructure. That is the old Marxian concept, simply put. The base ultimately determines what goes on in the superstructure, which includes among other things the state and its institutions, as well as their processes and functions. Included are the legislature, the executive and the judiciary, and their elections and appointments. Over time, there have been modifications to the old concept.
+
+Borrowing from Freud’s psychoanalysis, Louis Althusser, the French Marxist, used the concept of over-determination to suggest that there are multiple causes producing an effect, i.e., political outcomes are ‘over determined’ by many causes besides the economy, although the economy could be singularly significant. Neo-Marxists have provided another angle in that just as the base could determine the goings on in the superstructure, what goes on in the superstructure also have implications for the base.
+
+...
+
+[Data](articles/0a851b44.json)
+
+[Extended Data](ext_articles/0a851b44.ext.json)
+
+---
+
+### A ‘raththaran’ row over new chairman of parliamentary oversight committee
+
+*2024-03-11 13:14:00* · [`islandlk`](http://island.lk/a-raththaran-row-over-new-chairman-of-parliamentary-oversight-committee/) · `en`
+
+Shortly after the announcement of the new chairmen for the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA), there was a surge of criticism on social media regarding the appointment of Kalutara District SLPP MP Rohitha Abeygunawardena as the head of COPE.
+
+Both chairmen were elected to their positions, and the SLPP, with its majority representation in the committees reflecting that of the parliament, was able to secure the election of their candidates. The election of COPA chairman MP Lasantha Alagiyawanna didn’t spark as much controversy, as he had previously held the position. However, Abeygunawardena’s appointment drew significant backlash, with many questioning his qualifications to lead a parliamentary watchdog committee.
+
+...
+
+[Data](articles/d4c3e3a4.json)
+
+[Extended Data](ext_articles/d4c3e3a4.ext.json)
+
+---
+
+### Kudu remanded till March 25
 
 *2024-03-11 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194377) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රැඳවුම් නියෝග මත රඳවා ගෙන සිටි සළිඳු මල්ෂික ගුණරත්න නොහොත් කුඩු සළිඳුව ලබන මාර්තු 25 දින තෙක් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Shaluwood heroin Gunaratne, alias Powder, has been remanded until March 25 by Panadura Chief Magistrate Champika Rajapaksa.
 
-පානදුර ප්‍රධාන මහෙස්ත්‍රාත් චම්පික රාජපක්ෂ මහතා විසින් එම නියෝගය ලබා දී ඇත.
+🟩
+
+Shaluwood heroin Gunaratne alias powder was remanded until March 25.
+
+Panadura Chief Magistrate Champika Rajapaksa has given the order.
 
 ◼️
 
 [Data](articles/401b80d1.json)
+
+[Extended Data](ext_articles/401b80d1.ext.json)
 
 ---
 
@@ -2171,115 +2261,5 @@ The tea factory, operating under stringent quality standards certified by ISO 22
 [Data](articles/523c65fe.json)
 
 [Extended Data](ext_articles/523c65fe.ext.json)
-
----
-
-### Eastern Province Governor Senthil Thondaman arrangement in Trincomalee
-
-*2024-03-11 00:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178385) · `ta`
-
-Governor Senthil Thondaman of the Eastern Province led a Women's Day event at Trincomalee Hindu College Ground, featuring Susitra Ella, co-founder of Bharat Biotech, as the chief guest. Ella was awarded "WORLD'S MOST POWERFUL WOMAN" for producing 600 billion bovit vaccines. The event also honored women's achievements and cultural events.
-
-🟩
-
-The Women's Day event was held at the Trincomalee Hindu College Ground under the leadership of Governor of the Eastern Province Senthil Thondaman.
-
-Susitra Ella, co -founder and director of Bharat Biotech International Limited, India, was the chief guest at the event.
-
-Susitra in the Eastern Province of the Eastern Province, Senthil Thondaman, in honor of all the people's life, the people of the Eastern Province Senthil Thondaman, who was found in the 1880s of the day, was awarded the "WORLDS MOST POverful Woman" award in the face of a gigantic vaccine and produced 600 billion bovit vaccines.Mrs. Susitra was all gifted to the Eastern Province Governor Senthil Thondaman.
-
-The award was also honored with women who achieved many achievements such as Rural Development Society and Women's Organizations in Trincomalee.
-
-The award ceremony was also held in honor of the cultural events and the honor of the achievement women.
-
-...
-
-[Data](articles/9f8ba189.json)
-
-[Extended Data](ext_articles/9f8ba189.ext.json)
-
----
-
-### COMMONWEALTH DAY: Commonwealth family: A strong and respected voice in the world
-
-*2024-03-11 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/COMMONWEALTH-DAY-Commonwealth-family-A-strong-and-respected-voice-in-the-world/172-278570) · `en`
-
-RT HON LORD CAMERON, SECRETARY OF STATE FOR FOREIGN, COMMONWEALTH AND DEVELOPMENT AFFAIRS
-
-A dedicated Commonwealth hub has helped to mobilise more than $310m of climate finance for our small island members since 2016.
-
-On 11 March, some 2.5 billion of us will come together to celebrate the Commonwealth family. Seventy five years after the London Declaration, I will join this family’s many nations, faiths and communities at a service at Westminster Abbey.
-
-I was Prime Minister when the Commonwealth agreed a new Charter, a milestone in our family’s history. For the first time, we had a single document setting out our core values and shared goals.
-
-Today, as Foreign Secretary, I want our family of nations working in partnership to uphold these values and fulfil these goals. I am proud of the work Commonwealth members do in partnership in areas ranging from the rule of law to protecting the environment.
-
-...
-
-[Data](articles/c8b4b283.json)
-
-[Extended Data](ext_articles/c8b4b283.ext.json)
-
----
-
-### UNHRC Robust on Lanka, Hypocrisy in Gaza - EDITORIAL
-
-*2024-03-11 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/UNHRC-Robust-on-Lanka-Hypocrisy-in-Gaza-EDITORIAL/172-278574) · `en`
-
-Earlier this month, the United Nations Human Rights Commission (UNHRC) once again took up the issue of its resolution on “Promoting Reconciliation, Accountability and Human Rights in Sri Lanka”. We also heard for the umpteenth time representatives of western nations pontificate on how wars should be conducted with minimum loss to civilians, women and children.
-
-Believe it or not, it is we Lankans who have undergone civil conflicts on three or more occasions. It was after all our men and women (brothers, sisters, husbands, wives and children) who paid the price in blood, sweat and tears. It was we who suffered the pain of inquisition. We have seen it all and still feel the pain.
-
-War means killing and being killed. The rules of war – the protection of women, children and non combatants – are often ignored during armed conflicts. However, the cold-blooded killing of civilians is not only a war crime, but a crime against humanity and cannot be tolerated.
-
-...
-
-[Data](articles/ab7fe708.json)
-
-[Extended Data](ext_articles/ab7fe708.ext.json)
-
----
-
-### 2024-03-10 (Sunday)
-
-### Atrocities of Police at Sivaratri
-
-*2024-03-10 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178384) · `ta`
-
-During Maha Shivaratri at the Adi Shivan Temple, police actions during the Vedukkunni Mountain Lingeshwara Temple Pooja caused significant distress to the Tamil community. Incidents included insulting sacred rituals and the arrest of Sivanadiyas and priests. It's crucial for Tamils to raise awareness about these violations of basic worship.
-
-🟩
-
-During the Maha Shivaratri Pooja of the Adi Shivan Temple, the Maha Shivaratri Prayer of the Vedukkunnu Mountains, the Atrocities of the Nallai Athena will be held at 4 pm on Monday (11) at 4 pm, demanding the release of the arrests and the arrests will be held on Monday (11).. Agathiyar Adikallar called.
-
-The incidents carried out by the police during the Maha Shivaratri Pooja of the Vedukkunni Mountain Lingeshwara Temple have caused great pain to the entire Tamil community. On the occasion of the sacred fast on the sacred fasting of the Saivites, there have been incidents of insulting the sacred rituals of the worst vegetarian rituals.
-
-The Sivanadiyas, who have not been wronged at the peak of its peak, have been badly arrested and detained for the moment when the number of fasters.. Poosa and invasive items have been removed by uniforms with uniforms. The priest Sivathiru Mathimukarasa has been arrested.
-
-...
-
-[Data](articles/2c6ea31e.json)
-
-[Extended Data](ext_articles/2c6ea31e.ext.json)
-
----
-
-### Palestinians prepare for Ramadan in the shadow of Gaza war
-
-*2024-03-10 23:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97860/palestinians-prepare-for-ramadan-in-the-shadow-of-gaza-war) · `en`
-
-(Reuters) - Palestinians prepared for Ramadan in sombre mood with heightened security measures by Israeli police and the spectre of war and hunger in Gaza overshadowing the normally festive Muslim holy month as talks to secure a ceasefire stalled.
-
-Thousands of police have been deployed around the narrow streets of the Old City in Jerusalem, where tens of thousands of worshippers are expected every day at the Al Aqsa mosque compound, one of the holiest sites in Islam.
-
-The area, considered the most sacred place by Jews who know it as Temple Mount, has been a longstanding flashpoint for trouble and was one of the starting points of the last war in 2021 between Israel and Hamas, the Islamist movement that controls Gaza.
-
-That 10-day conflict has been dwarfed by the current war, which is now in its sixth month. It began on Oct. 7 when thousands of Hamas fighters stormed into Israel, killing some 1,200 people, by Israeli tallies.
-
-...
-
-[Data](articles/7155a1eb.json)
-
-[Extended Data](ext_articles/7155a1eb.ext.json)
 
 ---

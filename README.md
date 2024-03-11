@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 01:33:41**
+As of **2024-03-12 01:51:42**
 
 ## Newspaper Stats
 
-*Scraped **12,244** Articles*
+*Scraped **12,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 663
 adalk | 1,046
 adaderanalk | 1,483
 tamilmirrorlk | 1,491
-virakesarilk | 1,682
+virakesarilk | 1,684
 dailymirrorlk | 1,870
 adaderanasinhalalk | 1,935
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,243 (100.0%) of 12,244 articles have been extended.
+12,244 (100.0%) of 12,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### முள்ளியவளை பொலிசாரின் வாகனம் தடம் புரண்டு விபத்து
+
+*2024-03-12 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178478) · `ta`
+
+முல்லைத்தீவு முள்ளியவளை பொலிஸ் நிலையத்துக்குரிய பொலிஸ் வாகனம் ஒன்று ஒட்டிசுட்டான் மாங்குளம் வீதியில் வேக கட்டுப்பாட்டை இழந்து தடம் புரண்டு உள்ளது.
+
+திங்கட்கிழமை (11) மாலை இடம்பெற்ற குறித்த விபத்து சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,
+
+முள்ளியவளையில் இருந்து மாங்குளம் நோக்கிச் சென்ற பொலிஸ் வாகனம் மீண்டும் மாங்குளத்தில் இருந்து ஒட்டு சுட்டான் நோக்கிப் பயணித்த போது தச்சடம்பன் பகுதியில் வேக கட்டுப்பாட்டை இழந்து வீதியினை விட்டு விலகி தடம் புரண்டுள்ளது.
+
+இதன் போது சாரதி சிறு காயங்களுக்கு உள்ளாகியுள்ளார். விபத்து தொடர்பாக மாங்குளம் பொலிசார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/722cdb96.json)
+
+---
+
+### வவுனியாவில் பாடசாலை ஒன்றிலிருந்து வெடிக்காத நிலையில் மோட்டர் குண்டுகள் மீட்பு
+
+*2024-03-12 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178477) · `ta`
+
+வவுனியா, மடுகந்தை தேசிய பாடசாலையிலிருந்து வெடிக்காத நிலையில் 7 மோட்டர் குண்டுகள் திங்கட்கிழமை (11) மீட்கப்பட்டுள்ளதாக மடுகந்தைப் பொலிசார் தெரிவித்தனர்.
+
+வவுனியா, மடுகந்தை தேசிய பாடசாலையிலிருந்த குப்பை குழியைத் துப்பரவு செய்த போது குறித்த குழிக்குள் வெடிக்காத நிலையில் மோட்டர் குண்டு கண்டுபிடிக்கப்பட்டது. இதனையடுத்து பாடசாலை நிர்வாகத்தால் பொலிசாருக்கு தகவல் வழங்கப்பட்டதையடுத்து சம்பவ இடத்திற்குச் சென்ற பொலிசார், விசேட அதிரடிப்படையினரின் உதவியுடன் அப் பகுதியிலிருந்து 7 மோட்டர் குண்டுகளை மீட்டனர்.
+
+மீட்கப்பட்ட மோட்டர் குண்டுகளை வவுனியா நீதிமன்றின் அனுமதியுடன் அழிப்பதற்கான நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளதாகவும் பொலிசார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/497dcc31.json)
+
+---
 
 ### Suspect arrested over murder of Buddhist monk killed in police fire
 
@@ -49,6 +83,8 @@ In the early hours of January 23, a group of four assailants, who had arrived in
 ...
 
 [Data](articles/2f8a3044.json)
+
+[Extended Data](ext_articles/2f8a3044.ext.json)
 
 ---
 
@@ -2285,51 +2321,5 @@ The Minister pointed out that SriLankan Airlines should be cut and a financial d
 [Data](articles/1b7f6f5f.json)
 
 [Extended Data](ext_articles/1b7f6f5f.ext.json)
-
----
-
-### At least 50 injured after ‘technical problem’ on LATAM flight to Auckland
-
-*2024-03-11 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97870/at-least-50-injured-after-technical-problem-on-latam-flight-to-auckland) · `en`
-
-At least 50 people were hurt on Monday, mostly with minor injuries, after LATAM Airlines  told the New Zealand Herald that a “technical problem” had caused a “strong movement” during a flight from Sydney to Auckland.
-
-LATAM Airlines flight LA800, a Boeing 787-9 Dreamliner, landed at Auckland airport as scheduled on Monday afternoon, according to FlightAware. The flight normally stops in Auckland on its way to Santiago, Chile.
-
-A spokesman for the South American airline told the Herald there had been a “technical problem” on the flight that affected some crew and passengers, without providing further details.
-
-Hato Hone St John ambulance treated roughly 50 people at the airport, a spokesperson told Reuters. One patient is in a serious condition, and the remainder had suffered mild to moderate injuries, they added.
-
-The NZ Herald quoted a passenger who said she experienced a “quick little drop” during the flight.
-
-...
-
-[Data](articles/8802980d.json)
-
-[Extended Data](ext_articles/8802980d.ext.json)
-
----
-
-### Relunes that were not afraid of the gorro
-
-*2024-03-11 14:31:04* · [`adalk`](https://www.ada.lk/breaking_news/ගොරිල්ලාට-බය-නොවුනු-රිලවුන්/11-408536) · `si`
-
-Bogawantalawa residents and businesses faced severe hardship due to a herd causing damage to their fruits and vegetables for a month. The affected produce was covered in a prickly, rotting mask, leading to its destruction. Authorities were called to address the issue, including the possibility of suicide and releasing the lagoon.
-
-🟩
-
-The business community and residents of the Bogawantalawa were in need of heavy hardship due to a herd.
-
-There are many problems with the fruits of vegetables and fruits that have been exhibited in their premises for about a month.
-
-The prickly mask with a rotting mask is placed on the vegetables and fleeing of the masks and vegetables.
-
-The businessmen calling the relevant authorities to be taken to the other suicide and releasing the lagoon.
-
-◼️
-
-[Data](articles/b657a127.json)
-
-[Extended Data](ext_articles/b657a127.ext.json)
 
 ---

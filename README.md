@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 13:18:02**
+As of **2024-03-11 13:33:44**
 
 ## Newspaper Stats
 
-*Scraped **12,119** Articles*
+*Scraped **12,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adaderanalk | 1,466
 tamilmirrorlk | 1,480
 virakesarilk | 1,654
 dailymirrorlk | 1,855
-adaderanasinhalalk | 1,913
+adaderanasinhalalk | 1,914
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,116 (100.0%) of 12,119 articles have been extended.
+12,119 (100.0%) of 12,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### කුඩු සළිඳු මාර්තු 25 දක්වා රිමාන්ඩ්
+
+*2024-03-11 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194377) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රැඳවුම් නියෝග මත රඳවා ගෙන සිටි සළිඳු මල්ෂික ගුණරත්න නොහොත් කුඩු සළිඳුව ලබන මාර්තු 25 දින තෙක් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+පානදුර ප්‍රධාන මහෙස්ත්‍රාත් චම්පික රාජපක්ෂ මහතා විසින් එම නියෝගය ලබා දී ඇත.
+
+◼️
+
+[Data](articles/401b80d1.json)
+
+---
+
+### Yall. Car and motorcycle collided with Chavakachcheri A-9 road;Two people injured
+
+*2024-03-11 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178417) · `ta`
+
+Two people on a motorcycle were injured in a head-on collision between a car and a motorcycle on Chavakachcheri A-9 road, Jaffna.
+
+🟩
+
+Two people on a motorcycle were injured when a car and motorcycle collided head-on at the Chavakachcheri A-9 road, Postal Kandor Road, Jaffna.
+
+◼️
+
+[Data](articles/0136ff0a.json)
+
+[Extended Data](ext_articles/0136ff0a.ext.json)
+
+---
 
 ### ‘Harak Kata’ further remanded failed over escape bid
 
@@ -50,39 +82,35 @@ On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID 
 
 [Data](articles/cc79c8b9.json)
 
----
-
-### யாழ். சாவகச்சேரி ஏ-9 வீதியில் காரும் மோட்டார் சைக்கிளும் மோதி விபத்து ; இருவர் காயம்
-
-*2024-03-11 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178417) · `ta`
-
-யாழ்ப்பாணம் சாவகச்சேரி ஏ-9 வீதி , தபால் கந்தோர் வீதி சந்தியில்  சற்றுமுன்னர்  காரும் மோட்டார் சைக்கிளும் நேருக்குநேர் மோதிக்கொண்டதில் மோட்டார் சைக்கிளில் பயணித்த இருவர் காயங்களுக்குள்ளாகியுள்ளார்கள்.
-
-◼️
-
-[Data](articles/0136ff0a.json)
+[Extended Data](ext_articles/cc79c8b9.ext.json)
 
 ---
 
-### ரணிலின் தனி தொடர்பால் அதிருப்தி
+### Dissatisfaction with Ranil's individual contact
 
 *2024-03-11 12:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-தனி-தொடர்பால்-அதிருப்தி/175-334503) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் அதிகாரத்தை மீறி ஜனாதிபதி ரணில் விக்கிரமசிங்க கட்சியின் உறுப்பினர்களுடன் தனிப்பட்ட ரீதியில் நேரடியான தொடர்புகளை ஏற்படுத்துவது குறித்து ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) தனது  கவனத்தையும் கரிசனத்தையும் மீண்டும் வலியுறுத்தியுள்ளதாக தெரிவிக்கப்படுகிறது.
+President Ranil Wickremesinghe is reportedly ignoring the Sri Lanka PA's power by making personal contacts with party members, despite concerns raised by MPs and election organizers. SLPP MPs, who hold government ministry posts, remain loyal to him, but the party has not made a formal decision. The Sri Lanka PA has previously raised similar concerns.
 
-கடந்த வாரம் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைவர்களான மஹிந்த ராஜபக்ச மற்றும் பசில் ராஜபக்சவை ஜனாதிபதி சந்தித்த போதே ஜனாதிபதிக்கு இது தொடர்பில் தெரிவிக்கப்பட்டது.
+🟩
 
-சில பாராளுமன்ற உறுப்பினர்களும் தேர்தல் அமைப்பாளர்களும் ஜனாதிபதியின் பக்கம் சாய்ந்ததை அடுத்து இத்தகைய கரிசனங்கள் மீண்டும் வலியுறுத்தப்பட்டன.
+President Ranil Wickremesinghe is reportedly reiterating its attention and compassion on the creation of personal contact with the members of the party in violation of the power of the Sri Lanka PA.
 
-தற்போது, ​​SLPP பாராளுமன்ற உறுப்பினர்களின் ஆதரவு ஜனாதிபதிக்கு விசுவாசமாக உள்ளது. அவர்களில் பெரும்பாலானோர் அரசாங்கத்தில் அமைச்சுப் பதவிகளை வகிக்கின்றனர்.
+The president was told when the President met with Mahinda Rajapaksa and Basil Rajapaksa, the leaders of the Sri Lanka PA, last week.
 
-எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுன ஜனாதிபதிக்கு ஆதரவளிப்பதாக அனைத்து அறிகுறிகளும் சுட்டிக்காட்டப்பட்ட போதிலும், SLPP இன்னும் எந்தவொரு முறையான முடிவையும் எடுக்கவில்லை.
+Such concerns were reiterated after some MPs and election organizers leaned towards the president.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன இது தொடர்பில் முன்னைய சந்தர்ப்பத்திலும் இதேபோன்ற கவலைகளை எழுப்பியது
+At present, the support of SLPP MPs is loyal to the president.Most of them hold ministry posts in the government.
+
+However, despite all the signs that the Sri Lankan PA is supporting the president, the SLPP has not yet made any formal decision.
+
+The Sri Lanka PA has raised similar concerns in the past
 
 ◼️
 
 [Data](articles/1076d379.json)
+
+[Extended Data](ext_articles/1076d379.ext.json)
 
 ---
 
@@ -2253,31 +2281,5 @@ That 10-day conflict has been dwarfed by the current war, which is now in its si
 [Data](articles/7155a1eb.json)
 
 [Extended Data](ext_articles/7155a1eb.ext.json)
-
----
-
-### A batch of land in the north
-
-*2024-03-10 23:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178383) · `ta`
-
-Fisheries Minister Douglas Devananda announced that land under the Department of Wildlife and Wildlife Department would soon be released, with the event held at the Jaffna District Secretariat. He expressed confidence in the release of lands by the end of April, aligning with President's directive for land restoration to pre-1985 status. Additionally, 22 Indian fishermen were arrested for drag boat activities, prompting the Navy to strengthen enforcement against such activities.
-
-🟩
-
-Fisheries Minister Douglas Devananda, who hoped that the rest of the land on the security forces would be released within the next few months, said that the land under the Department of Wildlife and Wildlife Department would soon be released.
-
-The event was held at the Jaffna District Secretariat on Sunday (10) at the Jaffna and Kilinochchi districts.
-
-Speaking here, the Commander of the Jaffna District Commander said in his speech that the armed forces are only serving the people.
-
-But this was my opinion when the war was taking place. I have put forward the idea that the security forces should act as a people's army for the people
-
-At the same time, many more lands of our people have to be released. Definitely the land will be released. That is, when the land release, the land and the police, the police, the wildlife and the wildlife department should be released.
-
-...
-
-[Data](articles/4500ea74.json)
-
-[Extended Data](ext_articles/4500ea74.ext.json)
 
 ---

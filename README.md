@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 14:33:24**
+As of **2024-03-11 14:51:06**
 
 ## Newspaper Stats
 
-*Scraped **12,133** Articles*
+*Scraped **12,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 631
 islandlk | 663
 adalk | 1,029
 adaderanalk | 1,467
-tamilmirrorlk | 1,483
+tamilmirrorlk | 1,484
 virakesarilk | 1,658
-dailymirrorlk | 1,855
+dailymirrorlk | 1,856
 adaderanasinhalalk | 1,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,132 (100.0%) of 12,133 articles have been extended.
+12,133 (100.0%) of 12,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,17 +64,23 @@ The patient is being recovering completely after style, the patient is being rec
 
 ---
 
-### கொம்பனித் தெரு ரயில் நிலையத்துக்கு அருகில் பதற்றம்!
+### Tension near Kompanith Street Railway Station
 
 *2024-03-11 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178425) · `ta`
 
-கொம்பனித் தெரு  ரயில் நிலையத்துக்கு அருகில் உள்ள அடுக்குமாடி குடியிருப்பின்  மதிலை   அகற்றுவது தொடர்பில்  ரயில்வே ஊழியர்களுக்கும் பிரதேச மக்களுக்குமிடையில் இடையில் ஏற்பட்ட பிரச்சினை காரணமாக  அங்கு பதற்றமாக நிலைமை தோன்றியதுடன் ரயில் சேவைகளும் நிறுத்தப்பட்டுள்ளன.
+Tension over wall removal near Kompanith Street Railway Station has halted train services. An investigation is underway, led by the Railway Station Principals Association's President, Sumeda Somatna.
 
-இது தொடர்பில் விசாரணை நடத்தப்படும் என ரயில் நிலைய அதிபர்கள் சங்கத்தின் தலைவர் சுமேத சோமரத்ன  தெரிவித்தார்.
+🟩
+
+The situation between the railway employees and the people of the area over the removal of the walls of the apartment near the Kompanith Street railway station has caused a tense situation and the train services have been stopped.
+
+The President of the Railway Station Principals Association, Sumeda Somatna said that an investigation will be held.
 
 ◼️
 
 [Data](articles/9e917a49.json)
+
+[Extended Data](ext_articles/9e917a49.ext.json)
 
 ---
 
@@ -147,6 +153,20 @@ The duo was brought back to the island on March 15 after Malagasy defence offici
 [Data](articles/a95ca8ef.json)
 
 [Extended Data](ext_articles/a95ca8ef.ext.json)
+
+---
+
+### ’Harak Kata’ remanded until April 26
+
+*2024-03-11 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harak-Kata-remanded-until-April-26/108-278630) · `en`
+
+Colombo, March 11 (Daily Mirror) -  Underworld figure Nadun Chithaka Wickremeratne, alias 'Harak Kata,' has been remanded until April 26 in connection to his unsuccessful escape bid from the Criminal Investigation Department (CID).
+
+He was ordered to be remanded by Colombo High Court Judge, Damith Thotawatte.
+
+◼️
+
+[Data](articles/30e4ba07.json)
 
 ---
 
@@ -2273,29 +2293,5 @@ He said that he could make a complaint with a 1939 call for a 1939 call for issu
 [Data](articles/8e227c4e.json)
 
 [Extended Data](ext_articles/8e227c4e.ext.json)
-
----
-
-### President invitation to the United National Party
-
-*2024-03-11 02:08:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியினருக்கும்-ஜனாதிபதி-அழைப்பு/175-334482) · `ta`
-
-President Ranil Wickremesinghe criticized the United National Party's policies and control, urging unity and collaboration to save the country from debt and build a safe future. He addressed the UNP's first general meeting, emphasizing the importance of working together for the country's welfare, regardless of political affiliations.
-
-🟩
-
-President Ranil Wickremesinghe said that the policies of the United National Party are not in the United National Party and that the party is under the control of some, and that all the United National Party (UNP) calls for all the United National Party to save the country from debt and build a safe country for future generations.
-
-President Ranil Wickremesinghe made this statement while addressing the first general meeting of the United National Party held at the Kiliyapitiya Municipal Council ground yesterday afternoon.
-
-This public meeting, a meeting of the people who want to work together for the country, was organized under the theme "Nitarshanam" and a large number of people participated in the first rally.
-
-President Ranil Wickremesinghe went to the people and engaged in a speech with them.
-
-...
-
-[Data](articles/15966d82.json)
-
-[Extended Data](ext_articles/15966d82.ext.json)
 
 ---

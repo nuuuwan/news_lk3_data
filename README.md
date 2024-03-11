@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 01:51:42**
+As of **2024-03-12 02:02:50**
 
 ## Newspaper Stats
 
-*Scraped **12,246** Articles*
+*Scraped **12,262** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 115
+colombotelegraphcom | 117
 bbccomsinhala | 141
 dbsjeyarajcom | 184
 newsfirstlk | 363
-dailyftlk | 629
+dailyftlk | 641
 economynextcom | 642
 islandlk | 663
 adalk | 1,046
 adaderanalk | 1,483
 tamilmirrorlk | 1,491
-virakesarilk | 1,684
+virakesarilk | 1,686
 dailymirrorlk | 1,870
 adaderanasinhalalk | 1,935
 
@@ -26,43 +26,215 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,244 (100.0%) of 12,246 articles have been extended.
+12,246 (99.9%) of 12,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### முள்ளியவளை பொலிசாரின் வாகனம் தடம் புரண்டு விபத்து
+### Janaka Ratnayake open to supporting better Presidential candidate
+
+*2024-03-12 01:54:29* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-open-to-supporting-better-Presidential-candidate/56-759384) · `en`
+
+Ex-PUCSL Chairman says he and his supporters are willing to support any candidate who would be a better choice than himself
+
+Says country needs a leader who is good, brave and understands the economy to effectively carrying out their duties
+
+Urges voters to make wise choices in upcoming elections to ensure SL’s revival
+
+Presidential hopeful and former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL) Janaka Ratnayake yesterday said he would not hesitate to support any other Presidential candidate in the upcoming election whom he believes would be a better choice than himself.
+
+“I am not claiming to be the best candidate for the job. Therefore, if I am convinced that another candidate is a better choice, both I and the organisations that have endorsed me will not hesitate to lend our support to that candidate,” he said.
+
+“This is because we need a leader who is good, brave, and understands the economy, capable of effectively carrying out their duties,” he noted.
+
+...
+
+[Data](articles/e1456292.json)
+
+---
+
+### UNP inaugural rally aimed at targeting SJB: Sujeewa
+
+*2024-03-12 01:53:30* · [`dailyftlk`](https://www.ft.lk/news/UNP-inaugural-rally-aimed-at-targeting-SJB-Sujeewa/56-759383) · `en`
+
+SJB member Sujeewa Senasinghe says President criticised SJB throughout his speech at recent UNP rally
+
+Claims evident that SJB has emerged as a significant challenge to Wickremesinghe
+
+Notes President’s speech bordered on being hateful, particularly comments directed at G.L. Peiris
+
+Says SJB does not perceive Wickremesinghe as a contender at upcoming Presidential polls
+
+Samagi Jana Balawegaya (SJB) member and former MP Sujeewa Senasinghe yesterday claimed that the primary objective of the rival United National Party’s inaugural rally was to target the SJB.
+
+Addressing a press conference in Colombo, Senasinghe remarked that President Ranil Wickremesinghe, who also serves as the leader of the UNP, directed criticism towards the SJB throughout his speech at the rally. Senasinghe noted that some of the comments made were unusual and not typical of Wickremesinghe’s style.
+
+...
+
+[Data](articles/5bf7b856.json)
+
+---
+
+### Harak Kata remanded till 26 April
+
+*2024-03-12 01:51:56* · [`dailyftlk`](https://www.ft.lk/news/Harak-Kata-remanded-till-26-April/56-759382) · `en`
+
+Notorious Criminal figure Nadun Chintaka alias “Harak Kata” and another Police Constable who allegedly aided and abetted “Harak Kata” to escape from the CID custody on 10 September 2023 were remanded till 26 April by Colombo High Court yesterday.
+
+Nadun Chinthaka and the Constable who aided Nadun Chinthakin in his escape bid were produced before High Court Judge Damith Totawatte from the CID custody under heavy STF and Police guard to face the charges levied against them over the attempted bid.
+
+At the onset of the inquiry before the High Court inquiry, the State Counsel who appeared for the prosecution filed the indictment against three suspects including Harak Kata. Thereafter Court Mudliar read over the charges to the two accused that were produced in court.
+
+...
+
+[Data](articles/9ffafb5a.json)
+
+---
+
+### முல்லைத்தீவில் யானை தாக்குதலுக்கு இலக்காகி ஒருவர் பலி
+
+*2024-03-12 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178480) · `ta`
+
+முல்லைதீவு அம்பகாமம் பழைய கண்டிவீதி பகுதியில் பகல் வேளை வீதியால் சென்று கொண்டிருந்த நபரை யானை தாக்கி உள்ளது.
+
+கரிப்பட்ட முறிப்பு அம்பகாமத்தினை சேர்ந்த முத்துத்தம்பி கிருஸ்ணசாமி 62 அகவையுடைய நபரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+மாங்குளம் பொலிசார் விசாரணைகளை மேற்கொண்டு வருகின்றார்கள் சம்பவ இடத்திற்கு வருகை தந்த முல்லைத்தீவு மாவட்ட நீதிமன்ற நீதிபதி S.H.மஹரூஸ் சம்பவ இடத்திற்கு வருகைதந்து உடலத்தை முல்லைத்தீவு மாவட்ட மருத்துவமனை கொண்டு சென்று பிரேத பரிசோதனைகளின் பின்னர் உறவினர்களிடம் ஒப்படைக்க உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e5dd62e7.json)
+
+---
+
+### பரபரப்பான 4ஆம் நாளில்  அவுஸ்திரேலியாவை வெற்றிக்கு இட்டுச் சென்ற கேரி-மாஷ் ஜோடி
+
+*2024-03-12 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178479) · `ta`
+
+கிறைஸ்ட்சேர்ச், ஹெக்லி ஓவல் விளையாட்டரங்கில் மூன்றரை நாட்களில் நிறைவுக்கு வந்த, ஆனால் பரபரப்பை ஏற்படுத்திய  அவுஸ்திரேலியாவுக்கும் நியூஸிலாந்துக்கும் இடையிலான 2ஆவது டெஸ்ட் கிரிக்கெட் போட்டியில் 3 விக்கெட்களால் வெற்றியீட்டிய அவுஸ்திரேலியா தொடரை 2 - 0 என முழுமையாகக் கைப்பற்றியது.
+
+போட்டியில் 279 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி தனது இரண்டாவது இன்னிங்ஸை மூன்றாம் நாள் பிற்பகல் ஆரம்பித்த அவுஸ்திரேலியா அன்றைய தினம் 4 முக்கிய விக்கெட்களை இழந்து 77 ஓட்டங்களைப் பெற்று இக்கட்டான நிலையில் இருந்தது.
+
+இதன் காரணமாக எந்த அணியும் வெற்றிபெறலாம் என்ற நிலை நான்காம் நாள் ஆட்டத்தின் ஆரம்பத்தில் இருந்தது.
+
+தனது இரண்டாவது இன்னிங்ஸை நான்காம் நாளான திங்கட்கிழமை (09) காலை  தொடர்ந்த அவுஸ்திரேலியா, ட்ரவிஸ் ஹெட்டின் விக்கெட்டை 2ஆவது ஓவரில் இழந்து மேலும் சிக்லை எதிர்கொண்டது.
+
+ஆனால், மிச்செல் மாஷ், அலெக்ஸ் கேரி ஆகிய இருவரும் நிதானம் கலந்த வேகத்துடன் துடுப்பெடுத்தாடி 6ஆவது விக்கெட்டில் 140 ஓட்டங்களைப் பகிர்ந்து அவுஸ்திரேலியாவுக்கு நம்பிக்கையை ஏற்படுத்தினர்.
+
+...
+
+[Data](articles/be120a2a.json)
+
+---
+
+### Mulliyawalai police vehicle derailed
 
 *2024-03-12 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178478) · `ta`
 
-முல்லைத்தீவு முள்ளியவளை பொலிஸ் நிலையத்துக்குரிய பொலிஸ் வாகனம் ஒன்று ஒட்டிசுட்டான் மாங்குளம் வீதியில் வேக கட்டுப்பாட்டை இழந்து தடம் புரண்டு உள்ளது.
+A police vehicle from Mulliyawalai derailed on the Otisuttan Mangulam road, causing minor injuries to the driver. The accident occurred while traveling from Mankulam to Mulliyawalai on Monday evening. Mankulam police are investigating.
 
-திங்கட்கிழமை (11) மாலை இடம்பெற்ற குறித்த விபத்து சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,
+🟩
 
-முள்ளியவளையில் இருந்து மாங்குளம் நோக்கிச் சென்ற பொலிஸ் வாகனம் மீண்டும் மாங்குளத்தில் இருந்து ஒட்டு சுட்டான் நோக்கிப் பயணித்த போது தச்சடம்பன் பகுதியில் வேக கட்டுப்பாட்டை இழந்து வீதியினை விட்டு விலகி தடம் புரண்டுள்ளது.
+A police vehicle from the Mullaitivu Mulliyawala police station has lost control of the Otisuttan Mangulam road.
 
-இதன் போது சாரதி சிறு காயங்களுக்கு உள்ளாகியுள்ளார். விபத்து தொடர்பாக மாங்குளம் பொலிசார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The accident occurred on Monday (11) evening
+
+The police vehicle from Mulliyawalai to Mankulam was once again traveling from Mankulam to the passenger.
+
+During this time, the driver suffered minor injuries. Mankulam police are investigating the accident.
 
 ◼️
 
 [Data](articles/722cdb96.json)
 
+[Extended Data](ext_articles/722cdb96.ext.json)
+
 ---
 
-### வவுனியாவில் பாடசாலை ஒன்றிலிருந்து வெடிக்காத நிலையில் மோட்டர் குண்டுகள் மீட்பு
+### Motor bombs recovery when not explosive from a school in Vavuniya
 
 *2024-03-12 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178477) · `ta`
 
-வவுனியா, மடுகந்தை தேசிய பாடசாலையிலிருந்து வெடிக்காத நிலையில் 7 மோட்டர் குண்டுகள் திங்கட்கிழமை (11) மீட்கப்பட்டுள்ளதாக மடுகந்தைப் பொலிசார் தெரிவித்தனர்.
+7 motor bombs recovered from Madukanda National School in Vavuniya without explosion. Police found them in a garbage pit and used a Special Task Force to secure the area. The bombs are being destroyed with court permission.
 
-வவுனியா, மடுகந்தை தேசிய பாடசாலையிலிருந்த குப்பை குழியைத் துப்பரவு செய்த போது குறித்த குழிக்குள் வெடிக்காத நிலையில் மோட்டர் குண்டு கண்டுபிடிக்கப்பட்டது. இதனையடுத்து பாடசாலை நிர்வாகத்தால் பொலிசாருக்கு தகவல் வழங்கப்பட்டதையடுத்து சம்பவ இடத்திற்குச் சென்ற பொலிசார், விசேட அதிரடிப்படையினரின் உதவியுடன் அப் பகுதியிலிருந்து 7 மோட்டர் குண்டுகளை மீட்டனர்.
+🟩
 
-மீட்கப்பட்ட மோட்டர் குண்டுகளை வவுனியா நீதிமன்றின் அனுமதியுடன் அழிப்பதற்கான நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளதாகவும் பொலிசார் மேலும் தெரிவித்தனர்.
+Seven motor bombs have been recovered on Monday (11) as they have not exploded from the Madukanda National School in Vavuniya, Madukanda police said.
+
+The motorcycle was found when the garbage pit was cleared of the cavity at the Madukanda National School in Vavuniya. Subsequently, after the school administration was informed by the police, the police went to the scene and recovered 7 motor bombs from the Up area with the help of the Special Task Force.
+
+Police said that steps have been taken to destroy the recovered motor bombs with the permission of the Vavuniya Court.
 
 ◼️
 
 [Data](articles/497dcc31.json)
+
+[Extended Data](ext_articles/497dcc31.ext.json)
+
+---
+
+### JAT Holdings posts resilient Q3 with 96% revenue growth from Bangladesh
+
+*2024-03-12 01:17:36* · [`dailyftlk`](https://www.ft.lk/business/JAT-Holdings-posts-resilient-Q3-with-96-revenue-growth-from-Bangladesh/34-759381) · `en`
+
+Bangladesh achieves 96% revenue growth as Alkyd Manufacturing Plant commences operations
+
+Sri Lanka’s market leader in wood coatings and paint brushes, and emerging regional conglomerate, JAT Holdings PLC recently released its financials for Q3 of FY 2023/24, reflecting a resilient performance amidst adverse market conditions.
+
+With its operations in Bangladesh seeing continued expansion, including the opening of its manufacturing facility in 2023, and its alkyd resin plant in 2024, supported by cutting-edge R&D and value engineering in Sri Lanka, JAT has established itself as a leader in wood coatings in the region. Accordingly, during Q3, JAT Holdings PLC recorded its highest-ever export turnover at Rs. 2,822 million, an 87% leap from Rs. 1,511 million recorded during the comparable period in FY 2022/23, while export sales margins too improved. Revenues were up by 14% to Rs. 7,887 million from
+
+...
+
+[Data](articles/368fe4cd.json)
+
+---
+
+### Civil rights activists protest outside CBSL over salary hike
+
+*2024-03-12 01:16:51* · [`dailyftlk`](https://www.ft.lk/business/Civil-rights-activists-protest-outside-CBSL-over-salary-hike/34-759380) · `en`
+
+A group of civil rights activists yesterday staged a protest in front of the Central Bank against latter’s sharp salary increments which has come under much criticism.
+
+“We have gathered here at another State within the country — the Central Bank. It operates autonomously, seemingly unchecked,” Magen Ratata Chairman Sanjaya Mahawatte, asserted.
+
+Accusing CBSL Governor Dr. Nandalal Weerasinghe of undue influence, Mahawatte claimed that there are alarming discrepancies in the bank’s operations.
+
+“Recently, a bundle of cash went missing, however, when the investigations were conducted by the Fort Police the Governor did not know how much was missing from the stack of money printed at that time. This shows his lack of oversight,” Mahawatte charged.
+
+He also alleged Dr. Weerasinghe of implementing policies that disproportionately affect private sector workers, by reducing the EPF rate to 9%, while exempting CBSL employees from such measures.
+
+...
+
+[Data](articles/63b2b11b.json)
+
+---
+
+### High level Malaysian delegation visits Oceanpick Sustainable Seafood Farm
+
+*2024-03-12 01:16:10* · [`dailyftlk`](https://www.ft.lk/business/High-level-Malaysian-delegation-visits-Oceanpick-Sustainable-Seafood-Farm/34-759379) · `en`
+
+From left: Oceanpick Ltd., Founder and Managing Director Irfan Thassim,  Malaysia’s High Commissioner Badli Hisham Adam, Airport Manager, Ratmalana Intl. Airport Pubudu Janith, Malaysia›s Minister of Agriculture and Food Security YB Datuk Seri Mohamad bin Sabu, Amana Bank Managing Director/CEO Mohamed Azmeer,  Malaysia Agriculture Research and Development Institute Director General  Dr. Mohamad Zabawi bin Abdul Ghani, Special Tasks Officer to the Minister Ministry of Agriculture and Food Security Malaysia  Abdul Hakim bin Azmy
+
+...
+
+[Data](articles/8ce14ce3.json)
+
+---
+
+### Serendib Flour Mills attends prestigious Gulfood 2024 Festival in Dubai
+
+*2024-03-12 01:14:31* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-attends-prestigious-Gulfood-2024-Festival-in-Dubai/34-759378) · `en`
+
+Serendib Flour Mills, Sri Lanka’s leader in wheat flour manufacturing, attended the globally renowned Gulfood 2024 exhibition in Dubai together with key customers.
+
+A delegation from Serendib Flour Mills alongside key clientele were present at the event which not only showcased culinary innovation but was also a forum for forging valuable industry connections.
+
+As a purpose-led organisation focused on ‘Nourishing the Nation’, Serendib Mills attended the global platform to explore cutting edge food technology, sustainability trends and create bonds within the international food industry. It also enabled the company to facilitate an exclusive opportunity for key customers to gain knowledge and global connections through Gulfood 2024 demonstrating the company’s commitment to supporting their individual growth.
+
+...
+
+[Data](articles/19080f3c.json)
 
 ---
 
@@ -134,6 +306,18 @@ Our country is a nation that does not respect the court command. We are aware of
 
 ---
 
+### Capturing services sector cross border transactions
+
+*2024-03-12 00:13:50* · [`dailyftlk`](https://www.ft.lk/columns/Capturing-services-sector-cross-border-transactions/4-759366) · `en`
+
+Central Bank of Sri Lanka’s long endeavour to establish an International Transactions Reporting System
+
+...
+
+[Data](articles/50ce4798.json)
+
+---
+
 ### There is no problem traveling with President Ranil -Minister Pavithra Wanniyarachchi
 
 *2024-03-12 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178475) · `ta`
@@ -157,6 +341,22 @@ We have no problems in working with the president. We will soon meet President R
 [Data](articles/d0e0fbf8.json)
 
 [Extended Data](ext_articles/d0e0fbf8.ext.json)
+
+---
+
+### Right of Reply: “Desperate attempts to prevent privatisation of SLT”
+
+*2024-03-12 00:02:27* · [`dailyftlk`](https://www.ft.lk/opinion/Right-of-Reply-Desperate-attempts-to-prevent-privatisation-of-SLT/14-759360) · `en`
+
+Member of Parliament and Rear Admiral (Dr) Sarath Weerasekera RWP VSV USP Ndc Psc has sent the following Right of Reply in response to the Daily FT editorial titled “Desperate attempts to prevent privatisation of SLT” published on 1 March 2024. (https://www.ft.lk/ft_view__editorial/Desperate-attempts-to-prevent-privatisation-of-SLT/58-759011)
+
+The “FT view of the Editorial” on 1 March 2024, has made some comments on my stand on certain Government policies such as privatisation of Telecom.
+
+The Editor has mentioned that I am in fact reputed for standing against progressive policies of the Government. Before I explain why I am against those, let me briefly introduce myself.
+
+...
+
+[Data](articles/67c52c4f.json)
 
 ---
 
@@ -214,6 +414,20 @@ The American economy is in trouble, too, with the US dollar losing its value and
 
 ### 2024-03-11 (Monday)
 
+### No reprieve from Supreme Court: Online Safety Bill and Anti-Terrorism Bill
+
+*2024-03-11 23:58:51* · [`dailyftlk`](https://www.ft.lk/columns/No-reprieve-from-Supreme-Court-Online-Safety-Bill-and-Anti-Terrorism-Bill/4-759358) · `en`
+
+Analysis of Supreme Court determinations demonstrates many critical issues that adversely impact human rights were not addressed in its deliberations
+
+The Online Safety law and the Anti-Terrorism Bill are two important building blocks in the architecture of repressive laws the Government is constructing. Both were challenged in the Supreme Court, with the Supreme Court finding certain provisions of both unconstitutional. Stakeholders, such as opposition politicians, civic activists, tech companies and the United Nations called upon the Government to, at a minimum, incorporate the Court’s recommendations in the Online Safety Bill before it was enacted. The Government instead passed the law ignoring parliamentary procedure and failed to ensure compliance with Supreme Court determinations.
+
+...
+
+[Data](articles/953bf963.json)
+
+---
+
 ### Jobs of 6,000 employees uncertain if SriLankan unable to show progress within six months: Minister
 
 *2024-03-11 23:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jobs-of-6-000-employees-uncertain-if-SriLankan-unable-to-show-progress-within-six-months-Minister/108-278660) · `en`
@@ -233,6 +447,42 @@ The decision was taken after a proposal made by President Ranil Wickremesinghe i
 [Data](articles/c3532323.json)
 
 [Extended Data](ext_articles/c3532323.ext.json)
+
+---
+
+### Westminster Foundation for Democracy Regional Director calls on Speaker
+
+*2024-03-11 23:11:59* · [`dailyftlk`](https://www.ft.lk/news/Westminster-Foundation-for-Democracy-Regional-Director-calls-on-Speaker/56-759355) · `en`
+
+Westminster Found-ation for Democracy Asia-Pacific and America Regional Director Matthew Hedges met with the Speaker Mahinda Yapa Abeywardana in Parliament recently.
+
+Secretary General of Parliament Kushani Rohanadeera and the Westminster Foundation for Democracy Country Director Sanje Vignaraja, also attended the meeting.
+
+The contributions of the Westminster Foundation for Democracy, which works closely with the Parliament of Sri Lanka and its Committees such as the Committee on Public Finance (CoPF), the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA) was appreciated by the Speaker.
+
+The Speaker stated that this has made it possible to further strengthen democracy and expressed his gratitude for this support and noted that he expects the same support in the future as well.
+
+...
+
+[Data](articles/97b885c2.json)
+
+---
+
+### Hour of the heroic truth teller
+
+*2024-03-11 23:10:50* · [`dailyftlk`](https://www.ft.lk/columns/Hour-of-the-heroic-truth-teller/4-759354) · `en`
+
+Malnutrition stunts the brain and affects the body. It is not an issue to be resolved in 2048 – Pic by Shehan Gunasekara
+
+Contrary to claims of ‘technocrats’ claiming robust progress, there is real, visible, touchable and detectable misery in the heartland. According to the latest WFP country report 17% of the population is facing moderate acute food insecurity. 31% of children aged under 5 are malnourished. 20% of children aged under 5 suffer from wasting. People are compelled to skip meals, beg, or borrow food, or simply learn to live in the gutter, staring at stars
+
+In his recent update to Parliament on the nation’s economy, President Wickremesinghe claimed that it is “widely acknowledged” that Sri Lanka has achieved a certain level of economic stability.
+
+“We’re diligently strengthening the economy each day, striving tirelessly to improve the lives of our people and fortify the economy. Our actions are guided by a strategic plan, ensuring a systematic and methodical approach.”
+
+...
+
+[Data](articles/3012c037.json)
 
 ---
 
@@ -707,6 +957,20 @@ While the CID was in the custody, the security forces were also trying to surviv
 [Data](articles/4783849e.json)
 
 [Extended Data](ext_articles/4783849e.ext.json)
+
+---
+
+### Jaffna University Teachers’ Association Condemns Arrests & Police Excesses Against Priests, Devotees & Political Leaders On Maha Sivaraathiri
+
+*2024-03-11 19:32:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/jaffna-university-teachers-association-condemns-arrests-police-excesses-against-priests-devotees-political-leaders-on-maha-sivaraathiri/) · `en`
+
+Statement Issued by the University of Jaffna Teachers’ Association on the Police Excesses and Arrests at the Vedukkunaarimalai Shrine on the Sivaraathiri Night
+
+The University of Jaffna Teachers’ Association vehemently condemns the arrests and police excesses against the priests, devotees and political leaders who were engaged in religious observances at the Vedukkunaarimalai Athi Lingeswarar Shrine on the Maha Sivaraathiri night.
+
+...
+
+[Data](articles/de2e2b6b.json)
 
 ---
 
@@ -1973,353 +2237,5 @@ The President, who joined the session to attend the session, the President has a
 [Data](articles/991b1a82.json)
 
 [Extended Data](ext_articles/991b1a82.ext.json)
-
----
-
-### ‘Kudu Salindu’ remanded till March 25
-
-*2024-03-11 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kudu-Salindu-remanded-till-March-25/108-278633) · `en`
-
-Colombo, March 11 (Daily Mirror)- Notorious drug trafficker Salindu Malshika alias ‘Kudu Salindu' was remanded till March 25 by the Panadura Chief Magistrate Champika Rajapakshe today.
-
-Salindu was arrested by the security authorities in Madagascar last year and brought to Sri Lanka by a team of CID officers.
-
-◼️
-
-[Data](articles/6ceecd1d.json)
-
-[Extended Data](ext_articles/6ceecd1d.ext.json)
-
----
-
-### Indian renewable energy companies visit Sri Lanka to discuss investment
-
-*2024-03-11 15:30:00* · [`economynextcom`](https://economynext.com/indian-renewable-energy-companies-visit-sri-lanka-to-discuss-investment-154089/) · `en`
-
-ECONOMYNEXT – A delegation of renewable energy companies affiliated with the Confederation of Indian Industry (CII) are in the Sri Lanka for a three-day visit, Power and Energy Minister Kanchana Wijesekera said.
-
-The delegation is organized by the Ministry of New and Renewable Energy of the Government of India and CII on energizing India-Sri Lanka ties through cooperation in renewable energy, Wijesekera said on social media platform X (twitter) after they visited the Ministry on Monday morning.
-
-“Renewable energy policy and plans of Sri Lanka, ongoing projects, electricity sector reforms, investment opportunities, legal framework, off shore wind development, green hydrogen roadmap, interconnectivity was briefed and discussed at the meeting.”
-
-...
-
-[Data](articles/c1d7c243.json)
-
-[Extended Data](ext_articles/c1d7c243.ext.json)
-
----
-
-### Plane veered off flight path after both pilots fell asleep
-
-*2024-03-11 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Plane-veered-off-flight-path-after-both-pilots-fell-asleep/107-278632) · `en`
-
-CNN - Indonesia’s transport ministry will launch an investigation after two Batik Air pilots fell asleep during a recent flight, according to state news agency Antara, citing the ministry’s civil aviation director-general M Kristi Endah Murni.
-
-According to a preliminary report released Saturday by the National Transportation Safety Committee (KNKT), both the pilot and co-pilot fell asleep simultaneously for 28 minutes during a flight from Kendari in Southeast Sulawesi province to the capital Jakarta on January 25, causing navigational errors as “the aircraft was not in the correct flight path.”
-
-None on board - including 153 passengers and four flight attendants - were injured during the flight, and there was no damage to the aircraft, the KNKT preliminary report said.
-
-The flight, BTK6723, lasted two hours and 35 minutes, and successfully landed in Jakarta, according to Antara and the preliminary report.
-
-...
-
-[Data](articles/1227cefb.json)
-
-[Extended Data](ext_articles/1227cefb.ext.json)
-
----
-
-### SriLankan Airlines given 06 months to show progress
-
-*2024-03-11 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97871/srilankan-airlines-given-06-months-to-show-progress-) · `en`
-
-Minister Nimal Siripala de Silva has issued a stern directive during a special discussion held at the Ministry of Ports, Shipping and Aviation, stressing that SriLankan Airlines must demonstrate operational and financial progress within the next six months.
-
-Failure to do so, he warned, could jeopardize the jobs of approximately 6,000 employees.
-
-In line with the President’s proposal, the government has committed to relieving a portion of the national carriers’ debt, totaling USD510 million out of USD 1.2 billion owed to various banks and institutions.
-
-With a solid financial footing anticipated, the airline has outlined plans for a comprehensive restructuring process within the stipulated timeframe of six months.
-
-To achieve this objective, Minister de Silva emphasized the imperative need to curtail unnecessary expenses and instill robust financial discipline within the company. He urged close collaboration between management and trade unions to accomplish these goals effectively.
-
-...
-
-[Data](articles/ee686609.json)
-
-[Extended Data](ext_articles/ee686609.ext.json)
-
----
-
-### “Fuel prices are still down”
-
-*2024-03-11 15:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-இன்னும்-குறையும்/175-334509) · `ta`
-
-"Fuel prices remain low. Minister Kanjana Wijesekera is prepared to lower prices and investigate fuel shareholders. The Electricity Board plans to introduce a revised Bill in Parliament in April."
-
-🟩
-
-Minister of Electricity and Energy Kanjana Wijesekera said that he was ready to reduce the price and inquire about the fuel shareholders.
-
-He added that the Electricity Board will pass the new amended Bill in Parliament in April.
-
-◼️
-
-[Data](articles/8ba23d2e.json)
-
-[Extended Data](ext_articles/8ba23d2e.ext.json)
-
----
-
-### Recovery as five bodies that went to the Swiss snow
-
-*2024-03-11 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178434) · `ta`
-
-Five bodies recovered from snowfall on Swiss Metroorn Mountain; six missing, including one still unaccounted for.
-
-🟩
-
-Five people have been killed in a snowfall in Switzerland, the country police said.
-
-Six people were missing yesterday, as they went to a skiing on the famous Metroorn Mountain area near the border with Italia.
-
-In this case, five of them have been recovered as bodies, police said. The search for another is continuing.
-
-Officials did not immediately publish any country or their other identities the victims were.
-
-◼️
-
-[Data](articles/79558296.json)
-
-[Extended Data](ext_articles/79558296.ext.json)
-
----
-
-### Continuing treatment for those arrested at the Adivasivan Temple at Vettu Nirimalai
-
-*2024-03-11 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178426) · `ta`
-
-Eight people, including a priest, arrested at the Adivasivan Temple in Vettu Nirimalai, were taken to Vavuniya Hospital for treatment. They were attacked by police and are still being treated with handcuffs.
-
-🟩
-
-Eight people, including the priest who were arrested at the Adisivan Temple at the Vettukunarimalai Adivasivan Temple, continued to receive cigars at the hospital with handicrafts.
-
-Eight people, including temple priest, were arrested by police while engaging in pooja at the Adivasivan Temple in Vavuniya, North, North, on the day of Mahasivaratri.
-
-Attorneys brought to the notice of the court last Saturday that police attacked the arrested.
-
-Following this, the eight persons were taken to the Vavuniya Hospital Medical Officer on Sunday (10).
-
-They have been admitted to the Vavuniya Hospital for treatment. Amidst strong security, they are still being treated at the hospital with handcuffs.
-
-◼️
-
-[Data](articles/07d529b6.json)
-
-[Extended Data](ext_articles/07d529b6.ext.json)
-
----
-
-### John Pina is naked at the Oscar Awards
-
-*2024-03-11 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194383) · `si`
-
-John Pina, a famous star, appeared naked at the 96th Oscars, surprising the audience.
-
-🟩
-
-An unique event at the 96th Oscaka Academy Awards focused on the world.
-
-It was a world-famous resolving star and the actress John Cina on the platform on the platform at this awards ceremony.
-
-He came to the platform for the offer of the best costume for the best wear design of the Oskka Awards.
-
-◼️
-
-[Data](articles/d9a9a490.json)
-
-[Extended Data](ext_articles/d9a9a490.ext.json)
-
----
-
-### Pain.
-
-*2024-03-11 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178433) · `ta`
-
-67 acres of military land in Jaffna's North, previously a high-security zone for 33 years, were returned to owners. The army allowed access to two divisions in Kankesanthurai South and Mayiliti South, but some landowners claim the army hasn't fully vacated the land.
-
-🟩
-
-About 67 acres of land, which had been a military high security zone for the past 33 years in the North of Jaffna, was handed over to the land owners on Sunday.
-
-Among them, the army has granted permission to enter the lands in the two Grama Niladhari Division of the Kankesanthurai South and Mayiliti South.
-
-20.3 acres of land in the Kankesanthurai Southern 235 Grama Niladhari Division and 24 acres of land in the 240 Grama Niladhari Division of Mayiliti South (South).
-
-At the same time, some of the land owners said that the army had sent them back to your lands after the army had not been completely out of most of the lands released yesterday.
-
-◼️
-
-[Data](articles/1a67a33c.json)
-
-[Extended Data](ext_articles/1a67a33c.ext.json)
-
----
-
-### The two pilots sleep well in the top sky
-
-*2024-03-11 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194382) · `si`
-
-Two Indonesian pilots slept in the sky on January 25, causing an AIRBUS A320 to divert safely. The Ministry of Transport Services will investigate. A 32-year-old pilot, recently a new father, reported the incident 30 minutes after takeoff due to lack of sleep.
-
-🟩
-
-The two pilots in Indonesia were sleeping in the sky.
-
-The event was reported from the Sulawasi airport from the signs of a flight from the southern aircraft.
-
-It has occurred on January 25 and has already taken place and 153 passengers and staff.
-
-As a result, AIRBUS A320 had traveled to another directory, but the aircraft passed safely to landed.
-
-However, the Ministry of Transport Services will commence an inquiry against the two pilots.
-
-Reportedly, a 32-year-old major pilot informed about half an hour after taking off the aircraft.
-
-His wife had been born for a month ago and that he had not slept properly as he supports his wife for children.
-
-◼️
-
-[Data](articles/d8c3e239.json)
-
-[Extended Data](ext_articles/d8c3e239.ext.json)
-
----
-
-### Notification from the Department of Examinations
-
-*2024-03-11 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194381) · `si`
-
-The Department of Examinations has opened applications for the GCE Ordinary Level Examination. Submissions are accepted until the 22nd of this month via www.onlinexams.gov.lk/eic.
-
-🟩
-
-Applications of the GCE Ordinary Level Examination Examination Examination Examination have been taken up.
-
-The Examinations Department announced that applications could be submitted until the 22nd of this month.
-
-Accordingly, the applications can be submitted along www.onlinexams.gov.lk/eic.
-
-◼️
-
-[Data](articles/4e7d8be9.json)
-
-[Extended Data](ext_articles/4e7d8be9.ext.json)
-
----
-
-### 2 MW capacity solar plants in Eastern Province
-
-*2024-03-11 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2-MW-capacity-solar-plants-in-Eastern-Province/108-278631) · `en`
-
-A two-megawatt ground-mounted solar power plant was commissioned at Kommathurai in Batticaloa yesterday, which is a part of the 1X90 SBS II solar tender under the Ceylon Electricity Board (CEB).
-
-The company Backbay Solar (Private) Limited is managed by Sino Lanka Power Gen, a leader in commercial rooftop solar installations with approximately 50 MW of projects completed or undergoing development. Sino Lanka Power Gen meanwhile is a subsidiary of Orbital Energy, a renewable energy developer with large-scale utility projects in Sri Lanka, Bangladesh and India.
-
-◼️
-
-[Data](articles/ad81b189.json)
-
-[Extended Data](ext_articles/ad81b189.ext.json)
-
----
-
-### People starving in Gaza - Children's death
-
-*2024-03-11 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178428) · `ta`
-
-In Gaza, Palestinians face starvation, with children's deaths reported. Israelis protest against humanitarian aid, blocking trucks on the Gerome Salom route. They argue against aid to Hamas, citing the killing of their people. Women are abused, and the situation escalates, with protests turning violent.
-
-🟩
-
-While the Palestinians are hunger in Gaza, some Israelis are involved in the attempt to prevent humanitarian assistance from Gaza.
-
-They are sitting in the middle of the street and engaging in picket protests in Gerome Salom, a traffic route between Israel and Gaza.
-
-This is the case after Israel launched an attack against Hamas.
-
-Israelis who are protesting have been caught by Hamas hostages, saying that humanitarian aid should not go into Kazawa.
-
-The Israeli are protesting that the food should not be provided to those who killed our people.
-
-Women are abused and they are not provided with food, we are feeding Hamas, they say.
-
-The ABC said that 40 people engaged in prayers had stopped several trucks going into Gaza.
-
-They refer to those who are hostage to Hamas as brothers and say they should not forget them.
-
-They say that we should strangle Gaza's neck and breathe until they give our brothers back.
-
-Why do I care about them and they are one of our enemies who killed our brothers.
-
-...
-
-[Data](articles/21b4d0bf.json)
-
-[Extended Data](ext_articles/21b4d0bf.ext.json)
-
----
-
-### Sri Lanka planning to raid unregistered places of worship
-
-*2024-03-11 14:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-to-raid-unregistered-places-of-worship-154081/) · `en`
-
-ECONOMYNEXT- Sri Lanka is planning to raid places of worship that have not been registered with the authorities, Minister of Buddhasasana, Religious and Cultural Affairs, Vidura Wickramanayake said.
-
-“As per the law, all religious institutions, be it Buddhist, a Hindu temple or a mosque, need to be registered,” Wickramanayake told EconomyNext on Monday.
-
-“There are some unregistered religious institutions that cause religious disharmony.”
-
-He referred to the case of one Pastor Jerome, who was arrested after a video of a sermon containing controversial remarks about Buddhism.
-
-People can criticize their own religion but not others’, according to the minister.
-
-“You can criticize your own religion but you can’t criticize other religions,” he said. “Of course, you can compare but you can’t criticize. You cannot make derogatory remarks on another religion.
-
-...
-
-[Data](articles/eac07a3e.json)
-
-[Extended Data](ext_articles/eac07a3e.ext.json)
-
----
-
-### Six months postponed to SriLankan
-
-*2024-03-11 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194380) · `si`
-
-SriLankan Airlines postponed for 6 months, with Minister Nimal Siripala de Silva announcing a restructuring plan to stabilize 6,000 employees and pay $510 million in debt. The airline will focus on financial discipline and operational improvements, including leasing additional aircraft.
-
-🟩
-
-Minister Nimal Siripala de Silva has informed the administration and the trade unions that SriLankan should be shown in the next six months.
-
-The Minister was speaking at a special meeting held at the Ministry of Ports and Aviation this morning.
-
-Otherwise, the Minister has pointed out that there is an essential instability of about 6,000 employees.
-
-According to the President's proposal, the SriLankan Airlines has decided to pay about US $ 510 million in debt to several banks and institutions to pay a few banks and institutions.
-
-Accordingly, the SriLankan Airlines is scheduled to restructure the restructuring process in the next six months with an attractive financial balance sheet.
-
-The Minister pointed out that SriLankan Airlines should be cut and a financial discipline should be carried out with the assistance and the trade unions.
-
-...
-
-[Data](articles/1b7f6f5f.json)
-
-[Extended Data](ext_articles/1b7f6f5f.ext.json)
 
 ---

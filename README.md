@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 14:51:06**
+As of **2024-03-11 15:02:41**
 
 ## Newspaper Stats
 
-*Scraped **12,135** Articles*
+*Scraped **12,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,104 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 631
 islandlk | 663
-adalk | 1,029
-adaderanalk | 1,467
+adalk | 1,031
+adaderanalk | 1,468
 tamilmirrorlk | 1,484
-virakesarilk | 1,658
+virakesarilk | 1,659
 dailymirrorlk | 1,856
-adaderanasinhalalk | 1,916
+adaderanasinhalalk | 1,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,133 (100.0%) of 12,135 articles have been extended.
+12,135 (100.0%) of 12,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### ශ්‍රීලන්කන් වෙත මාස 6ක් කල්දෙයි
+
+*2024-03-11 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194380) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සේවයේ මෙහෙයුම් සහ මූල්‍ය ප්‍රගතිය ඉදිරි මාස 06ක කාලය තුළදී පෙන්විය යුතු බව අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා විසින් එහි පාලනාධිකාරියට සහ වෘත්තීය සමිති වෙත දැනුම්දී තිබේ.
+
+අද (11) පෙරවරුවේ වරාය නාවික හා ගුවන්සේවා අමාත්‍යාංශයේ පැවති විශේෂ සාකච්ඡාවකදී අමාත්‍යවරයා මේ බව සඳහන් කර තිබේ.
+
+එසේ නොවුණහොත් 6000ක පමණ සේවකයින්ගේ රැකියාවල අස්ථාවරභාවයක් ඇතිවන බවද අමාත්‍යවරයා පෙන්වා දී ඇත.
+
+ජනාධිපතිවරයාගේ යෝජනාවකට අනුව ශ්‍රීලන්කන් ගුවන් සේවය බැංකු සහ ආයතන කිහිපයකට ගෙවීමට තිබූ අමෙරිකානු ඩොලර් බිලියන 1.2ක පමණ ණය ප්‍රමාණයෙන් අමෙරිකානු ඩොලර් මිලියන 510ක් පමණ රජය විසින් ගෙවා දැමීමට තීරණය කර ඇත.
+
+ඒ අනුව ආකර්ෂණීය මූල්‍ය ශේෂ පත්‍රයක් සමග ශ්‍රීලන්කන් ගුවන් සමාගම ඉදිරි මාස 06 තුළ ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය සිදුකිරීමට සැලසුම් කර තිබේ.
+
+එබැවින් එම මාස 06 තුළ ශ්‍රීලන්කන් ගුවන් සමාගමේ අනවශ්‍ය වියදම් කපා හැර මනා මූල්‍ය විනයක් සමාගම තුළ ඇතිකරගතයුතු බවත් ඒ සඳහා පරිපාලනය සහ වෘත්තීය සමිති ඒකාබද්ධව කටයුතු කළයුතු බවත් අමාත්‍යවරයා එහිදී පෙන්වා දී ඇත.
+
+...
+
+[Data](articles/1b7f6f5f.json)
+
+---
+
+### காசாவில்  மக்கள் பட்டினி- சிறுவர்கள் உயிரிழக்கும் நிலை  -மனிதாபிமான உதவிகள் செல்வதை தடுக்கும் இஸ்ரேலியர்கள் - ஏபிசி
+
+*2024-03-11 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178428) · `ta`
+
+காசாவில் பாலஸ்தீனியர்கள் பட்டினியின் பிடியில் சிக்குண்டுள்ள அதேவேளை காசாவிற்கு மனிதாபிமான உதவிகள் செல்வதை தடுப்பதற்கான முயற்சிகளில் இஸ்ரேலியர்கள் சிலர் ஈடுபட்டுள்ளனர்.
+
+இஸ்ரேலிற்கும் காசாவிற்கும் இடையிலான போக்குவரத்து பாதையான கெரோம் சலோமில் ஆர்ப்பாட்டங்களில் ஈடுபடும் இவர்கள் வீதியின் நடுவில் அமர்ந்து மறியல் போராட்டங்களில் ஈடுபடுகின்றனர்.
+
+ஹமாசிற்கு எதிராக இஸ்ரேல் தாக்குதலை ஆரம்பித்து ஐந்துமாதங்களின் பின்னர் இந்த நிலை காணப்படுகின்றது.
+
+ஆர்ப்பாட்டங்களில் ஈடுபடும் இஸ்ரேலியர்கள் ஹமாஸ் பணயக்கைதிகளை பிடித்துவைத்துள்ள நிலையில் காசாவி;ற்குள் மனிதாபிமான உதவிகள் செல்லக்கூடாது என தெரிவிக்கின்றனர்.
+
+எங்கள் மக்களை கொலை செய்தவர்களிற்கு அவர்களை பணயக்கைதிகளாக வைத்துள்ளவர்களுக்கு உணவை வழங்கக்கூடாது என ஆர்ப்பாட்டத்தில் ஈடுபடும் இஸ்ரேலியர்கள் தெரிவிக்கின்றனர்.
+
+பெண்கள் துஸ்பிரயோகம் செய்யப்படுகின்றனர் அவர்களுக்கு உணவு வழங்கப்படுவதில்லை நாங்கள் ஹமாசிற்கு உணவு வழங்குகின்றோம் எனஅவர்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/21b4d0bf.json)
+
+---
+
+### At least 50 injured after ‘technical problem’ on LATAM flight to Auckland
+
+*2024-03-11 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97870/at-least-50-injured-after-technical-problem-on-latam-flight-to-auckland) · `en`
+
+At least 50 people were hurt on Monday, mostly with minor injuries, after LATAM Airlines  told the New Zealand Herald that a “technical problem” had caused a “strong movement” during a flight from Sydney to Auckland.
+
+LATAM Airlines flight LA800, a Boeing 787-9 Dreamliner, landed at Auckland airport as scheduled on Monday afternoon, according to FlightAware. The flight normally stops in Auckland on its way to Santiago, Chile.
+
+A spokesman for the South American airline told the Herald there had been a “technical problem” on the flight that affected some crew and passengers, without providing further details.
+
+Hato Hone St John ambulance treated roughly 50 people at the airport, a spokesperson told Reuters. One patient is in a serious condition, and the remainder had suffered mild to moderate injuries, they added.
+
+The NZ Herald quoted a passenger who said she experienced a “quick little drop” during the flight.
+
+...
+
+[Data](articles/8802980d.json)
+
+---
+
+### ගොරිල්ලාට බය නෙවුනු රිලවුන්
+
+*2024-03-11 14:31:04* · [`adalk`](https://www.ada.lk/breaking_news/ගොරිල්ලාට-බය-නෙවුනු-රිලවුන්/11-408536) · `si`
+
+රිලවුන් රංචුවක් හේතුවෙන් තමන් දැඩි අසිරුතාවයට පත් වි ඇති බව බගවන්තලාව නගරයේ ව්‍යාපාරික ප්‍රජාව සහ ප්‍රදේශවාසින් පැවසුහ.
+
+මාසයක පමණ කාලයක් තුල රිලවුන් රංචුවක් තම ප්‍රදේශයට පැමිණ ඇති බවත්, මේ වන විට එම රිලවුන් තම වෙලදසැලේ ප්‍රදර්ශනය කර ඇති එලවළු සහ පලතුරු රැගෙන පලා යන බවත්, පවත්නා තත්ත්වය මත එම රිලවුන් රංචුවෙන් ගැටළු රැසක් මතු වි ඇති බව එම වෙලෙදුන් කියා සිටිති.
+
+රිලවුන් බිය ගැන්විම සදහා ගොරිල්ලෙකුගේ රුව සහිත වෙස් මුහුණක් පළතුරු සහ එලවළු මත තබා ඇති බවත්, එම වෙස් මුහුණු දෙස නොබලා රිලවුන් පළතුරු සහ එලවළු රැගෙන පලා යන බව වෙලෙදුන් පවසයි.
+
+මෙම රිලා රංචුව පැටවුන් දමා බෝ විමට ප්‍රථම අල්ලා වෙනත් සුදුසු පරිසරයකට රැගෙන ගොස් මුදා හරින ලෙස බගවන්තලාව නගරයේ ව්‍යාපාරිකයන් අදාල බලධාරින්ගෙන් ඉල්ලා සිටිති.
+
+◼️
+
+[Data](articles/f8ed7294.json)
+
+---
 
 ### Rare surgery carried out in the spine
 
@@ -110,6 +192,24 @@ Initially, the devotees blocked the Adivasivan Temple on the road barriers and t
 
 ---
 
+### කුඩු සලිඳු යලි  රිමාන්ඩ්
+
+*2024-03-11 13:59:06* · [`adalk`](https://www.ada.lk/breaking_news/කුඩු-සලිඳු-යලි--රිමාන්ඩ්/11-408535) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයේ රැඳවුම් නියෝග මත රඳවා ගෙන සිටි සෙල්ලපෙරුමගේ සළිඳු මල්ෂික ගුණරත්න නොහොත් පානදුර සලිඳු නැමැත්තා ‍මෙමස 25 දින තෙක් රිමාන්ඩ් බන්ධනාගාර ගතකරන ලෙස
+
+සැකකරු ජාත්‍යන්තර ත්‍රස්තවාදී සංවිධාන සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සමග සම්බන්ධතා පවත්වමින්, ගිනි අවි එක්රැස් කරමින්, එම ගිනි අවි විවිධ  පුද්ගලයින් වෙත ලබා දෙමින් ඔවුන්ව වෙඩික්කරුවන් ලෙස යොදවා දිවයින තුල මනුෂ්‍ය ඝාතන ඇතුළු සංවිධානාත්මකව අපරාධ සිදුකිරීම යටතේ රැඳවුම් නියෝග මත ප්‍රශ්න කිරීමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+සැකකරු  මැඩගස්කර රාජ්‍යයේදී 2023 මාර්තු 13 දා අත්අඩංගුවට ගෙන ජාත්‍යන්තර පොලිසියෙන් රතු වරෙන්තුවක් ලබාගෙන විමර්ශන හයක් සිදුකරන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් අධිකරණයට කරුණු වාර්තා කරන ලදී.
+
+ඉදිරි නඩු වාරයේදී සැකකරු විවෘත අධිකරණයට ඉදිරිපත් කිරීම අවශ්‍ය නොවන බවත්, අවශ්‍ය වුවහොත් ස්කයිප් තාක්ෂණය ඔස්සේ ඉදිරිපත් කිරීමට සූදානම් කරන ලෙසත් මහේස්ත්‍රාත්වරයා වැඩිදුරටත් නියෝග කලේය.
+
+...
+
+[Data](articles/60ccd956.json)
+
+---
+
 ### Former political prisoner in Vavuniya calls to call Colombo terrorist investigation
 
 *2024-03-11 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178424) · `ta`
@@ -167,6 +267,8 @@ He was ordered to be remanded by Colombo High Court Judge, Damith Thotawatte.
 ◼️
 
 [Data](articles/30e4ba07.json)
+
+[Extended Data](ext_articles/30e4ba07.ext.json)
 
 ---
 
@@ -2185,113 +2287,5 @@ Surpassing the 200MWp mark, Hayleys Solar has not only set a record but has also
 [Data](articles/1988a7ca.json)
 
 [Extended Data](ext_articles/1988a7ca.ext.json)
-
----
-
-### People’s Bank supporting the rise of women entrepreneurs
-
-*2024-03-11 06:45:00* · [`islandlk`](http://island.lk/peoples-bank-supporting-the-rise-of-women-entrepreneurs/) · `en`
-
-In a vibrant celebration of International Women’s Day, People’s Bank held a special event at their Head Office in Colombo 2, showcasing their dedication to female empowerment and entrepreneurial success. The event, presided over by the CEO/General Manager Clive Fonseka, was not just a ceremonial gathering but a launchpad for groundbreaking initiatives aimed at uplifting women entrepreneurs across Sri Lanka.
-
-Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’, People’s Bank joined forces with Good Market to kickstart a comprehensive training program coupled with financial assistance for 12 selected women entrepreneurs. This initiative seeks to nurture their business acumen and support their growth in the competitive market.
-
-...
-
-[Data](articles/3c54da08.json)
-
-[Extended Data](ext_articles/3c54da08.ext.json)
-
----
-
-### Opposition wanted meeting with Sri Lanka bondholders, not IMF: Harsha
-
-*2024-03-11 06:29:00* · [`economynextcom`](https://economynext.com/opposition-wanted-meeting-with-sri-lanka-bondholders-not-imf-harsha-153990/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main opposition Samagi Jana Balawegaya asked for a meeting with bondholders with whom restructuring talks are underway and not the International Monetary Fund, which was offered by President Ranil Wickremesinghe, a legislator said.
-
-Opposition legislator Harsha de Silva said he asked in parliament for a meeting with bond holders in the presence of President Wickremesinghe, since any deal made by the current administration will commit the opposition which come to power.
-
-If Sri Lanka strikes a deal with foreign bond holders which cannot be implement, the country can go for a second default, he said.
-
-“What I said was that to come to an agreement with bond holders in a transparent way with the agreement of opposition parties,” De Silva said.
-
-“What was meant was not for the agreement to be brought parliament and approved by the 113 majority saying everyone is agreed.
-
-...
-
-[Data](articles/3124849c.json)
-
-[Extended Data](ext_articles/3124849c.ext.json)
-
----
-
-### A change in the weather for several areas
-
-*2024-03-11 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194361) · `si`
-
-Today (11), showers or thundershowers are expected in Ratnapura, Kalutara, Galle, and Matara districts. Metaded conditions are anticipated in Western, Sabaragamuwa, and Uva provinces. The Department of Meteorology warned of warm weather conditions in Western, Southern, Sabaragamuwa, Anuradhapura, and Mannar districts yesterday (10).
-
-🟩
-
-The Department of Meteorology says that today (11) will occur in the Eastern and Hambantota district.
-
-Showers or thundershowers will occur at several places in the Ratnapura, Kalutara, Galle and Matara districts.
-
-In some places in the Western, Sabaragamuwa and Uva provinces, in some places, are expected to be metaded in the Galle and Matara districts.
-
-Meanwhile, the Meteorology Department issued a warning notification of warm weather conditions for several areas yesterday (10).
-
-It stated that in some places, in the Western, Southern and Sabaragamuwa Province, and in the Anuradhapura and Mannar Districts, in the Western and Sabaragamuwa Province, in the Anuradhapura and Mannar and Mannar districts is the level.
-
-◼️
-
-[Data](articles/b88eee34.json)
-
-[Extended Data](ext_articles/b88eee34.ext.json)
-
----
-
-### Foreign reserves expand reaching US$ 4.5bn in February
-
-*2024-03-11 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-reserves-expand-reaching-US-4-5bn-in-February/108-278582) · `en`
-
-Official reserves in February reach US$ 4,517 mn, up from US$ 4,496 mn in January
-
-In February, official foreign currency reserves inched up as the Central Bank maintained its efforts to shore up reserves by accumulating foreign currency from banks. This accumulation comes at a time when demand for foreign currency remains subdued compared to the ample supply from remittances, tourism, and robust exports.
-
-Latest figures reveal that by the end of February, the Central Bank held US$ 4,517 million in official reserve assets, a modest increase from US$ 4,496 million reported in January.
-
-With the absence of large-scale demand for foreign currency from the importers, and also the absence of substantial foreign currency, debt repayments have provided more wiggle room for the Central Bank to collect dollars from the market and rebuild its reserve buffer.
-
-...
-
-[Data](articles/1600cf9f.json)
-
-[Extended Data](ext_articles/1600cf9f.ext.json)
-
----
-
-### 2000 complaints regarding water supply
-
-*2024-03-11 02:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-விநியோகம்-தொடர்பில்-2000-முறைப்பாடுகள்/175-334483) · `ta`
-
-The National Water Supply and Drainage Board reported over 2000 daily complaints about water supply due to drought-induced increased use. Despite this, all water supply structures are operating at maximum efficiency.
-
-🟩
-
-The National Water Supply and Drainage Board has said that the amount of daily water use has risen due to the prevailing drought.
-
-Due to this, all the water supply structures have been implemented with maximum efficiency, its Deputy General Manager Anoja Kalu Arachchi said.
-
-He said more than 2000 complaints were received daily due to increased use of water.
-
-He said that he could make a complaint with a 1939 call for a 1939 call for issues relating to water supply.. (A)
-
-◼️
-
-[Data](articles/8e227c4e.json)
-
-[Extended Data](ext_articles/8e227c4e.ext.json)
 
 ---

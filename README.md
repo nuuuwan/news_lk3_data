@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 15:17:49**
+As of **2024-03-11 15:33:28**
 
 ## Newspaper Stats
 
-*Scraped **12,143** Articles*
+*Scraped **12,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 631
 islandlk | 663
 adalk | 1,031
 adaderanalk | 1,468
-tamilmirrorlk | 1,484
-virakesarilk | 1,660
+tamilmirrorlk | 1,485
+virakesarilk | 1,662
 dailymirrorlk | 1,858
 adaderanasinhalalk | 1,917
 
@@ -26,27 +26,85 @@ adaderanasinhalalk | 1,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,140 (100.0%) of 12,143 articles have been extended.
+12,143 (100.0%) of 12,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### வலி.வடக்கில் 33 வருடங்களின் பின் சொந்த மண்ணில் கால் பதித்த மக்கள்
+### “எரிபொருள் விலை இன்னும் குறையும்”
+
+*2024-03-11 15:17:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-இன்னும்-குறையும்/175-334509) · `ta`
+
+எரிபொருளின் பங்குதாரர்களை அழைத்து விலை சூத்திரம் குறித்து கேட்டறிந்து விலையை குறைக்க தயாராக இருப்பதாக மின்சாரம் மற்றும் எரிசக்தி அமைச்சர்  காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+மின்சார சபைகள் புதிய திருத்தப்பட்ட சட்டமூலத்தை ஏப்ரல் மாதம் பாராளுமன்றத்தில் சமர்ப்பித்து நிறைவேற்றும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/8ba23d2e.json)
+
+---
+
+### சுவிஸில் பனிச்சறுக்கில் ஈடுபடச் சென்ற ஐவர் சடலங்களாக மீட்பு
+
+*2024-03-11 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178434) · `ta`
+
+சுவிட்ஸர்லாந்தில் பனிச்சறுக்கில் ஈடுபடுவதற்காக சென்றிருந்த நிலையில் காணாமல் போன ஐவர் உயிரிழந்துள்ளனர் என அந்நாட்டுப் பொலிஸார் இன்று (11) தெரிவித்துள்ளனர்.
+
+இத்தாலியுடனான எல்லைக்கு அருகிலுள்ள, பிரசித்திபெற்ற மெட்டர்ஹோர்ன் மலைப்பகுதிதியில் பனிச்சறுக்கில் ஈடுபடுவதற்காக சென்றிருந்த நிலையில் நேற்றுமுன்தினம் 6 பேர் காணாமல் போயிருந்தனர்.
+
+இந்நிலையில் இவர்களில் ஐவர் சடலங்களாக மீட்கப்பட்டுள்ளனர் என பொலிஸார் தெரவித்துள்ளனர். மற்றொருவரை தேடும் பணிகள் தொடர்கின்றன.
+
+பாதிக்கப்பட்டவர்கள் எந்த நாட்டவர்கள் என்பதையோ அவர்களின் வேறு அடையாளங்களையோ அதிகாரிகள் உடனடியாக வெளியிடவில்லை.
+
+◼️
+
+[Data](articles/79558296.json)
+
+---
+
+### வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்டர்களுக்கு கைவிலங்குடன் தொடர்ந்தும் சிகிச்சை
+
+*2024-03-11 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178426) · `ta`
+
+வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட பூசகர் உள்ளிட்ட 8 பேரும் கைவிலங்குகளுடன் வைத்தியசாலையில் தொடர்ந்தும் சிகிக்சை பெற்று வருகின்றனர்.
+
+மகாசிவராத்திரி தினத்தன்று வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் பூஜை வழிபாடுகளில் ஈடுபட்டுக் கொண்டிருந்த போது ஆலய பூசகர் உள்ளிட்ட 8 பேர் பொலிசாரால் கைது செய்யப்பட்டனர்.
+
+கைது செய்யப்பட்டவர்கள் மீது பொலிஸார் தாக்குதல் மேற்கொண்டதாக சட்டத்தரணிகள் கடந்த சனிக்கிழமை நீதிமன்றின் கவனத்திற்கு கொண்டு வந்திருந்தனர்.
+
+இதனையடுத்து நேற்று (10) ஞாயிற்றுக்கிழமை குறித்த 8 பேரையும் மன்றின் உத்தரவுக்கமைய வவுனியா வைத்தியசாலை சட்ட வைத்திய அதிகாரியிடம் சிறைச்சாலை உத்தியோகத்தர்கள் அழைத்து சென்றிருந்தனர்.
+
+இதன்போது குறித்த 8 பேரினதும் உடல் நிலையை கருத்தில் கொண்டு அவர்கள் வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர். பலத்த பாதுகாப்புக்கு மத்தியில் கைவிலங்குடன் அவர்கள் வைத்தியசாலையில் தொடர்ந்தும் சிகிச்சை பெற்று வருகின்றனர்.
+
+◼️
+
+[Data](articles/07d529b6.json)
+
+---
+
+### Pain.
 
 *2024-03-11 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178433) · `ta`
 
-யாழ்ப்பாணம் வலிகாமம் வடக்கு பகுதியில் கடந்த 33 வருட காலமாக இராணுவ உயர்பாதுகாப்பு வலயமாக இருந்த சுமார் 67 ஏக்கர் காணி நேற்று ஞாயிற்றுக்கிழமை காணி உரிமையாளர்களிடம் மீள கையளிக்கப்பட்டது.
+67 acres of military land in Jaffna's North, previously a high-security zone for 33 years, were returned to owners. The army allowed access to two divisions in Kankesanthurai South and Mayiliti South, but some landowners claim the army hasn't fully vacated the land.
 
-அவற்றுள் காங்கேசன்துறை தெற்கு மற்றும் மயிலிட்டி தெற்கு ஆகிய இரு கிராம சேவையாளர் பிரிவில் உள்ள காணிகளுக்குள் செல்ல இராணுவத்தினர் இன்று திங்கட்கிழமை அனுமதி வழங்கியுள்ளனர்.
+🟩
 
-காங்கேசன்துறை தெற்கு 235 கிராம சேவையாளர் பிரிவில் 20.3 ஏக்கர் காணிகளும் , மயிலிட்டி தெற்கு (தென்மயிலை) 240 கிராம சேவையாளர் பிரிவில் 24 ஏக்கர் காணிகளும்  விடுவிக்கப்பட்டுள்ளன.
+About 67 acres of land, which had been a military high security zone for the past 33 years in the North of Jaffna, was handed over to the land owners on Sunday.
 
-அதேவேளை நேற்றைய தினம் விடுவிக்கப்பட்ட காணிகளில் பெரும்பாலான காணிகளில் இருந்து இராணுவத்தினர் முற்றாக வெளியேறாத நிலையில் இன்னமும் ஓரிரு நாட்களில் காணிகளில் இருந்து தாம் வெளியேறிய பின்னர் உங்கள் காணிகளுக்குள் நீங்கள் வர முடியும் என தம்மை இராணுவத்தினர் திருப்பி அனுப்பியதாக சில காணி உரிமையாளர்கள் தெரிவித்தனர்.
+Among them, the army has granted permission to enter the lands in the two Grama Niladhari Division of the Kankesanthurai South and Mayiliti South.
+
+20.3 acres of land in the Kankesanthurai Southern 235 Grama Niladhari Division and 24 acres of land in the 240 Grama Niladhari Division of Mayiliti South (South).
+
+At the same time, some of the land owners said that the army had sent them back to your lands after the army had not been completely out of most of the lands released yesterday.
 
 ◼️
 
 [Data](articles/1a67a33c.json)
+
+[Extended Data](ext_articles/1a67a33c.ext.json)
 
 ---
 
@@ -61,6 +119,8 @@ The company Backbay Solar (Private) Limited is managed by Sino Lanka Power Gen, 
 ◼️
 
 [Data](articles/ad81b189.json)
+
+[Extended Data](ext_articles/ad81b189.ext.json)
 
 ---
 
@@ -334,6 +394,8 @@ A silent protest was held in front of the Central Bank of Sri Lanka (CBSL) over 
 
 [Data](articles/2bc7a3e2.json)
 
+[Extended Data](ext_articles/2bc7a3e2.ext.json)
+
 ---
 
 ### ’Harak Kata’ remanded until April 26
@@ -582,7 +644,7 @@ Two people on a motorcycle were injured when a car and motorcycle collided head-
 
 ---
 
-### ‘Harak Kata’ further remanded failed over escape bid
+### ‘Harak Kata’ further remanded over failed escape bid
 
 *2024-03-11 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97868/harak-kata-further-remanded-failed-over-escape-bid) · `en`
 
@@ -2239,81 +2301,5 @@ The International Institute of Health Sciences (IIHS), the country’s leading i
 [Data](articles/dbd1febb.json)
 
 [Extended Data](ext_articles/dbd1febb.ext.json)
-
----
-
-### ‘Leonardo by Bella Vita’: Authentic Italian restaurant in Negombo with all Italian charm
-
-*2024-03-11 06:58:00* · [`islandlk`](http://island.lk/leonardo-by-bella-vita-authentic-italian-restaurant-in-negombo-with-all-italian-charm/) · `en`
-
-Negombo is popularly known as ‘Little Rome’ where the majorities is Catholics. But in this ‘Little Rome’, ‘Leonardo by Bella Vita’ stands tall presenting the great Italian culinary experience not only to ‘Little Romans’ but to the whole country and beyond. ‘Leonardo by Bella Vita’ is a signature Italian Restaurant earmarked as ‘the best Italian cuisine’ in town.
-
-Located in the main tourism hub in Ettukala, Negombo, a former colonial stronghold, ‘Leonardo by Bella Vita’ is the brain child of Master Italian Chef Nisal Appuhamy. He had lived and worked in Verona for almost three and a half decades. Nisal acquired his Italian culinary experience by working in restaurants in and out of Verona. ‘Actually I do not have any hotel school or academic experience in cuisine, but I have almost 35 years of hands on experience working under top Italian master chefs. That inspired me to come back to my motherland and get on with my own dream’ Nisal explained.
-
-...
-
-[Data](articles/cb3dcc64.json)
-
-[Extended Data](ext_articles/cb3dcc64.ext.json)
-
----
-
-### 96th Oscar Awards will begin
-
-*2024-03-11 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194363) · `si`
-
-The 96th Oscars, held at the Dolby Theater, Los Angeles, saw Da'vine Joy Randolph win Best Supporting Actress for "The Holdovers," Robert Downey Jr. for "OpenHeevir," and "The Crown" won Best International Feature. "Barbie"'s "Bus I Made For" won Best Song, and Cillian Murphy and Emma Stone were awarded Best Actor and Actress, respectively. Christopher Nolan won Best Director for "The Crown."
-
-🟩
-
-The 96th Oscaka Academy Awards will be held at the Dolby Theater in Los Angeles, USA.
-
-Da'vine Joy Randolph as the best support actress was won the Holdovers "The Holdovers.
-
-Robert Downey JR won awards for the film "OpenHeevir" as the best supporter actor.
-
-The crown of the Zone Offensitter won the best international feature film.
-
-The film was also commented on the humanitarian glazer, the copy of the film.
-
-Meanwhile, the best song's award was written by the "Bus I Made For" song in the film "Barbie".
-
-The EMA Stone played in the film "Poor Things" was awarded the best act of the best act.
-
-CILLIAN MURPHY The best actor was the best actor.
-
-The Best Direction was also won by Christptopher Nolan, directed by the film.
-
-◼️
-
-[Data](articles/849dea19.json)
-
-[Extended Data](ext_articles/849dea19.ext.json)
-
----
-
-### IMF Special discussion today
-
-*2024-03-11 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194362) · `si`
-
-IMF proposals discussed at Presidential Secretariat today. State Ministers, Presidential Staff, and Finance Ministry Secretary attend. Opposition Leader Sajith Premadasa and National Alliance (TNA) invited, but TNA members Sajith Premadasa and Anura Kumara Dissanayake did not participate. Discussion aims to present Opposition ideologies to IMF, focusing on creditors, not IMF representatives.
-
-🟩
-
-A discussion is held at the Presidential Secretariat today (11) at the Presidential Secretariat today (11) a discussion of the proposals of the International Monetary Fund.
-
-State Ministers Shehan Semasinghe, Presidential Staff Leading Secretary to the Presidential Secretary of the President Saganda Siyambalapitiya, Presidential Secretary to the Presidential Secretary to the Presidential Secretary to the Ministry of Finance, Finance Ministry Secretary. M. Mahinda Siriwardena is due to attend.
-
-Meanwhile, Opposition Leader Sajith Premadasa and National Alliance (TNA) has been invited to participate in the discussion.
-
-However, the TNA has said that only the opposition leader Sajith Premadasa and Anura Kumara Dissanayake were not participating in the discussions.
-
-Minister of State Shehan Semasinghe said that the discussion has been invited to provide the opportunity to the Opposition's ideologies for the International Monetary Fund.
-
-...
-
-[Data](articles/102b48ec.json)
-
-[Extended Data](ext_articles/102b48ec.ext.json)
 
 ---

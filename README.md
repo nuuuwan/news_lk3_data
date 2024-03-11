@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 15:51:54**
+As of **2024-03-11 16:04:06**
 
 ## Newspaper Stats
 
-*Scraped **12,154** Articles*
+*Scraped **12,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 631
 islandlk | 663
-adalk | 1,032
+adalk | 1,034
 adaderanalk | 1,470
 tamilmirrorlk | 1,485
-virakesarilk | 1,662
-dailymirrorlk | 1,860
-adaderanasinhalalk | 1,920
+virakesarilk | 1,663
+dailymirrorlk | 1,861
+adaderanasinhalalk | 1,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,146 (99.9%) of 12,154 articles have been extended.
+12,154 (100.0%) of 12,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### மரதன் ஓடிய மாணவர்  திடீரென உயிரிழப்பு ; திருகோவில் வைத்தியசாலையின் முன் பதற்றம்
+
+*2024-03-11 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
+
+திருக்கோவில் பகுதியில் மரதன் ஓடிய மாணவர் ஒருவர் மரணித்த சம்பவம் இன்று திங்கட்கிழமை (11) இடம்பெற்றுள்ளது.
+
+திருக்கோவில் மெதடித்த மிஷன் தமிழ் மகா வித்தியாலயத்தைச் சேர்ந்த விதுர்ஷன் என்ற 16 வயதுடைய மாணவனே இவ்வாறு உயிரிழந்துள்ளதாக தெரிய வருகின்றது.
+
+இன்றைய தினம் காலை மரதன் ஓட்டப்போட்டியில் கலந்து கொண்ட குறித்த மாணவன் போட்டி நிறைவுற்றதும் வகுப்பறைக்கு சென்றுள்ளார். இதன்போது வயிற்றுக்குள் கொழுவி பிடிப்பதாகக் கூறி திருக்கோவில் ஆதார வைத்தியசாலைக்கு சிகிச்சை பெற சென்றதாகவும் பின்னர் அவசர சிகிச்சைக்கு ஆளானதாகவும் தெரிவிக்கப்படுகின்றது.
+
+இதன்போது அவருக்கான சி.பி.ஆர் சிகிச்சை உட்பட போதியளவான சிகிச்சைகள் மேற் கொள்ளப்பட்டதாகவும் எனினும்; போதிய வைத்திய உபகரணங்களைக் கொண்ட அம்பியூலன் வண்டி இல்லாததன் காரணமாக அக்கறைப்பற்று ஆதார வைத்தியசாலைக்கு உடனடியாக மாற்ற முடியாமல் போனதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+உயிரிழந்த மாணவனின் சடலம் அக்கரைப்பற்று ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை திருக்கோவில் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+...
+
+[Data](articles/7dca2866.json)
+
+---
+
+### චීන ජාතික මහජන කොංග්‍රසයේ වාර්ෂික සැසිවාරය සාර්ථකව නිමාවෙයි
+
+*2024-03-11 15:46:21* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතික-මහජන-කොංග්‍රසයේ-වාර්ෂික-සැසිවාරය-සාර්ථකව-නිමාවෙයි/11-408537) · `si`
+
+14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය සාර්ථකව නිමාවට පත්වෙයි. සමාප්ති උළෙල අද (11) පස්වරුවේ බෙයිජිං අගනුවර මහජන මහා ශාලාවේ දී පැවැත්විණ. එය ආරම්භ වූයේ ඉකුත් 5 වැනිදා යි.
+
+චීන ජනාධිපති ෂී ජින්පිං මහතා ඇතුළු චීන කොමියුනිස්ට් පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 2900ක පමණ පිරිසක් මෙවර සැසිවාරයට එක්වූ අතර චීන අග්‍රාමාත්‍යවරයා සමුළුව ආරම්භයේ දී ඉදිරිපත් කළ රාජ්‍ය කාර්ය වාර්තාව දෙස් විදෙස් ඉහළ අවධානයට ලක්විය.
+
+කලාපීය අනන්‍යතාවට ගැලපෙන පරිදි නව ගුණාත්මක ඵලදායිතාව සහතික කිරීමේ අවශ්‍යතාව මෙවර සැසිවාරයේ දී අවධාරණය කෙරිණ. සැසිවාරයට සහභාගි වූ පළාත් නියෝජිත හමුවලට එක් වූ චීන ජනාධිපතිවරයා රට පුරා පවතින විවිධ මට්ටම්වල පරිපාලනයන් රටේ සැබෑ තත්ත්වයන්ට සරිලන අයුරින්, නවීන ක්‍රමවේද ඔස්සේ ක්‍රියාවට නැංවිය යුතු බව ද පෙන්වා දී ඇත.
+
+...
+
+[Data](articles/7655a5f6.json)
+
+---
+
+### චීනය කරන්න යන වෙනස
+
+*2024-03-11 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194384) · `si`
+
+14 වැනි චීන ජාතික මහජන කොංග්‍රසයේ දෙවැනි සැසිවාරය සාර්ථකව නිමාවට පත්වෙයි.
+
+සමාප්ති උළෙල අද (11) පස්වරුවේ බෙයිජිං අගනුවර මහජන මහා ශාලාවේ දී පැවැත්විණ.
+
+චීන ජනාධිපති ෂී ජින්පිං මහතා ඇතුළු චීන කොමියුනිස්ට් පක්ෂයේ හා රජයේ නායකයන් මෙන්ම ජාතික මහජන කොංග්‍රසයේ නියෝජිතයන් 2900ක පමණ පිරිසක් මෙවර සැසිවාරයට එක්වූණි.
+
+චීන අග්‍රාමාත්‍යවරයා සමුළුව ආරම්භයේ දී ඉදිරිපත් කළ රාජ්‍ය කාර්යය වාර්තාව දෙස් විදෙස් ඉහළ අවධානයට ලක්විය.
+
+කලාපීය අනන්‍යතාවට ගැලපෙන පරිදි නව ගුණාත්මක ඵලදායිතාව සහතික කිරීමේ අවශ්‍යතාව මෙවර සැසිවාරයේ දී අවධාරණය කෙරිණ.
+
+සැසිවාරයට සහභාගි වූ පළාත් නියෝජිත හමුවලට එක් වූ චීන ජනාධිපතිවරයා රට පුරා පවතින විවිධ මට්ටම්වල පරිපාලනයන් රටේ සැබෑ තත්ත්වයන්ට සරිලන අයුරින්, නවීන ක්‍රමවේද ඔස්සේ ක්‍රියාවට නැංවිය යුතු බව ද පෙන්වා දී ඇත.
+
+චීන අනන්‍යතාව සහිත නවීකරණ ක්‍රියාවලිය හා ජාතික පුනර්ජීවනය ඉදිරියට ගෙන යාමේ දී නව ක්ෂේත්‍රවල උපායමාර්ගික හැකියාව ඉහළ නැංවීමේ වැදගත්කම ද මෙවර ප්‍රමුඛ අවධානය දිනාගත් කරුණකි.
+
+...
+
+[Data](articles/991b1a82.json)
+
+---
+
+### ‘Kudu Salindu’ remanded till March 25
+
+*2024-03-11 15:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kudu-Salindu-remanded-till-March-25/108-278633) · `en`
+
+Colombo, March 11 (Daily Mirror)- Notorious drug trafficker Salindu Malshika alias ‘Kudu Salindu' was remanded till March 25 by the Panadura Chief Magistrate Champika Rajapakshe today.
+
+Salindu was arrested by the security authorities in Madagascar last year and brought to Sri Lanka by a team of CID officers.
+
+◼️
+
+[Data](articles/6ceecd1d.json)
+
+---
 
 ### Plane veered off flight path after both pilots fell asleep
 
@@ -47,6 +121,8 @@ The flight, BTK6723, lasted two hours and 35 minutes, and successfully landed in
 ...
 
 [Data](articles/1227cefb.json)
+
+[Extended Data](ext_articles/1227cefb.ext.json)
 
 ---
 
@@ -67,6 +143,8 @@ To achieve this objective, Minister de Silva emphasized the imperative need to c
 ...
 
 [Data](articles/ee686609.json)
+
+[Extended Data](ext_articles/ee686609.ext.json)
 
 ---
 
@@ -140,19 +218,25 @@ They have been admitted to the Vavuniya Hospital for treatment. Amidst strong se
 
 ---
 
-### ඔස්කා සම්මාන උළෙලේදී ජෝන් සීනා නිරුවත් වෙයි
+### John Pina is naked at the Oscar Awards
 
 *2024-03-11 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194383) · `si`
 
-96 වන ඔස්කා ඇකඩමි සම්මාන උළෙලේදී සිදුවූ සුවිශේෂී සිදුවීමක් ලෝකයේම අවධානය යොමුවිය.
+John Pina, a famous star, appeared naked at the 96th Oscars, surprising the audience.
 
-ඒ ලෝකයක් බලාසිටි මේ සම්මාන උළෙලේදී වේදිකාව මතදී ලෝක ප්‍රසිද්ධ රෙස්ලිං තරුවක් මෙන්ම රංගන ශිල්පියෙක් වන ජෝන් සීනා නිරුවතින් වේදිකාවේ වෙතට පැමිණීමයි.
+🟩
 
-ඔස්කා සම්මාන උළෙලේ මෙවර හොඳම ඇඳුම් නිර්මාණයට අදාළ සම්මානය පිරිනැමීම වෙනුවෙන් ඔහු මෙලෙස නිරුවතින් වේදිකාවේ වෙත පැමිණියේය.
+An unique event at the 96th Oscaka Academy Awards focused on the world.
+
+It was a world-famous resolving star and the actress John Cina on the platform on the platform at this awards ceremony.
+
+He came to the platform for the offer of the best costume for the best wear design of the Oskka Awards.
 
 ◼️
 
 [Data](articles/d9a9a490.json)
+
+[Extended Data](ext_articles/d9a9a490.ext.json)
 
 ---
 
@@ -180,43 +264,55 @@ At the same time, some of the land owners said that the army had sent them back 
 
 ---
 
-### ඉහළ අහසේදී ගුවන් නියමුවන් දෙදෙනාට හොඳටම නින්ද යයි
+### The two pilots sleep well in the top sky
 
 *2024-03-11 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194382) · `si`
 
-ඉන්දුනීසියාවේ අභ්‍යන්තර ගුවන් ගමනක යෙදෙමින් තිබූ ගුවන් යානයක නියමුවන් දෙදෙනාට ඉහළ අහසේදී නින්ද ගොස් ඇතිබව වාර්තා වෙයි.
+Two Indonesian pilots slept in the sky on January 25, causing an AIRBUS A320 to divert safely. The Ministry of Transport Services will investigate. A 32-year-old pilot, recently a new father, reported the incident 30 minutes after takeoff due to lack of sleep.
 
-එරට ප්‍රකට 'බතික් එයා' ගුවන් යානයක් සුලවෙසි ගුවන්තොටුපොළේ සිට ජාකර්තා ගුවන්තොටුපොළට පියසර කරමින් තිබීයදී එම සිද්ධිය වාර්තා වුණි.
+🟩
 
-ජනවාරි 25 වනදා එය සිදුව ඇති අතර ඒ වනවිට ගුවන් යානයේ මගීන් සහ කාර්ය මණ්ඩලය 153 දෙනෙක් සිට තිබේ.
+The two pilots in Indonesia were sleeping in the sky.
 
-ඒ හේතුවෙන් Airbus A320 ගුවන් යානය සුළු වෙලාවක් නියමිත ගමන් මාර්ගයෙන් වෙනත් දිසාවකට ගමන් කර තිබුණ ද එම ගුවන් යානය නිරුපද්‍රිතව ගොඩ බැස්සවීමට නියමුවෝ සමත්වූහ.
+The event was reported from the Sulawasi airport from the signs of a flight from the southern aircraft.
 
-නමුත් එම නියමුවන් දෙදෙනාට එරෙහිව පරීක්ෂණයක් ආරම්භ කිරීමට එරට ප්‍රවාහන අමාත්‍යංශය කටයුතු කරයි.
+It has occurred on January 25 and has already taken place and 153 passengers and staff.
 
-වාර්තාවන ආකාරයට 32 හැවිරිදි ප්‍රධාන නියමුවා යානය ගුවන් ගත වීමෙන් පැය භාගයකට පමණ පසු සහායක නියමුවාට දන්වා ඇත්තේ තමාට විවේකය අවශ්‍ය බැවින් ගුවන් යානයේ පාලනය ගන්නා ලෙසයි.
+As a result, AIRBUS A320 had traveled to another directory, but the aircraft passed safely to landed.
 
-ඔහු ගේ බිරිඳට ඊට මාසයකට පමණ පෙර නිවුන් දරුවන් ඉපදී ඇති අතර ඔහු දරුවන්ගේ කටයුතු සඳහා බිරිඳට සහාය වන බැවින් හරිහැටි නිදා ගෙන නොතිබූ බව සඳහන් ය.
+However, the Ministry of Transport Services will commence an inquiry against the two pilots.
+
+Reportedly, a 32-year-old major pilot informed about half an hour after taking off the aircraft.
+
+His wife had been born for a month ago and that he had not slept properly as he supports his wife for children.
 
 ◼️
 
 [Data](articles/d8c3e239.json)
 
+[Extended Data](ext_articles/d8c3e239.ext.json)
+
 ---
 
-### විභාග දෙපාර්තමේන්තුවෙන් දැනුම්දීමක්
+### Notification from the Department of Examinations
 
 *2024-03-11 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194381) · `si`
 
-2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ උත්තර පත්‍ර ඇගයීම් පරීක්ෂකවරුන්ගේ අයදුම්පත් භාර ගැනීම ආරම්භ කර තිබේ.
+The Department of Examinations has opened applications for the GCE Ordinary Level Examination. Submissions are accepted until the 22nd of this month via www.onlinexams.gov.lk/eic.
 
-විභාග දෙපාර්තමේන්තුව නිවේදනය කළේ, අයදුම්පත් මේ මස 22වනදා දක්වා ඉදිරිපත් කළ හැකි බවය.
+🟩
 
-ඒ අනුව එම අයදුම්පත් www.onlineexams.gov.lk/eic ඔස්සේ ඉදිරිපත් කළ හැකි බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+Applications of the GCE Ordinary Level Examination Examination Examination Examination have been taken up.
+
+The Examinations Department announced that applications could be submitted until the 22nd of this month.
+
+Accordingly, the applications can be submitted along www.onlinexams.gov.lk/eic.
 
 ◼️
 
 [Data](articles/4e7d8be9.json)
+
+[Extended Data](ext_articles/4e7d8be9.ext.json)
 
 ---
 
@@ -322,21 +418,27 @@ The NZ Herald quoted a passenger who said she experienced a “quick little drop
 
 ---
 
-### ගොරිල්ලාට බය නොවුනු රිලවුන්
+### Relunes that were not afraid of the gorro
 
 *2024-03-11 14:31:04* · [`adalk`](https://www.ada.lk/breaking_news/ගොරිල්ලාට-බය-නොවුනු-රිලවුන්/11-408536) · `si`
 
-රිලවුන් රංචුවක් හේතුවෙන් තමන් දැඩි අසිරුතාවයට පත් වි ඇති බව බගවන්තලාව නගරයේ ව්‍යාපාරික ප්‍රජාව සහ ප්‍රදේශවාසින් පැවසුහ.
+Bogawantalawa residents and businesses faced severe hardship due to a herd causing damage to their fruits and vegetables for a month. The affected produce was covered in a prickly, rotting mask, leading to its destruction. Authorities were called to address the issue, including the possibility of suicide and releasing the lagoon.
 
-මාසයක පමණ කාලයක් තුල රිලවුන් රංචුවක් තම ප්‍රදේශයට පැමිණ ඇති බවත්, මේ වන විට එම රිලවුන් තම වෙලදසැලේ ප්‍රදර්ශනය කර ඇති එලවළු සහ පලතුරු රැගෙන පලා යන බවත්, පවත්නා තත්ත්වය මත එම රිලවුන් රංචුවෙන් ගැටළු රැසක් මතු වි ඇති බව එම වෙලෙදුන් කියා සිටිති.
+🟩
 
-රිලවුන් බිය ගැන්විම සදහා ගොරිල්ලෙකුගේ රුව සහිත වෙස් මුහුණක් පළතුරු සහ එලවළු මත තබා ඇති බවත්, එම වෙස් මුහුණු දෙස නොබලා රිලවුන් පළතුරු සහ එලවළු රැගෙන පලා යන බව වෙලෙදුන් පවසයි.
+The business community and residents of the Bogawantalawa were in need of heavy hardship due to a herd.
 
-මෙම රිලා රංචුව පැටවුන් දමා බෝ විමට ප්‍රථම අල්ලා වෙනත් සුදුසු පරිසරයකට රැගෙන ගොස් මුදා හරින ලෙස බගවන්තලාව නගරයේ ව්‍යාපාරිකයන් අදාල බලධාරින්ගෙන් ඉල්ලා සිටිති.
+There are many problems with the fruits of vegetables and fruits that have been exhibited in their premises for about a month.
+
+The prickly mask with a rotting mask is placed on the vegetables and fleeing of the masks and vegetables.
+
+The businessmen calling the relevant authorities to be taken to the other suicide and releasing the lagoon.
 
 ◼️
 
 [Data](articles/b657a127.json)
+
+[Extended Data](ext_articles/b657a127.ext.json)
 
 ---
 
@@ -813,6 +915,8 @@ On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID 
 ...
 
 [Data](articles/de719afe.json)
+
+[Extended Data](ext_articles/de719afe.ext.json)
 
 ---
 
@@ -1448,6 +1552,26 @@ Hollywood actor and WWE boxer, 46 -year -old John China, has come to the stage n
 
 ---
 
+### ටයිම්ඩ් අවුට් සිද්ධියෙන් ලංකාව ඉවත්විය යුතුයි - ෂැන්ටෝ
+
+*2024-03-11 11:00:06* · [`adalk`](https://www.ada.lk/sports/ටයිම්ඩ්-අවුට්-සිද්ධියෙන්-ලංකාව-ඉවත්විය-යුතුයි---ෂැන්ටෝ/9-408530) · `si`
+
+ලෝක කුසලාන තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායමේ හිටපු නායක ඇන්ජලෝ මැතිව්ස්ව ටයිම්ඩ් අවුට් දැවී යාමකට ලක්කළ සිදුවීමෙන් දැන් ශ්‍රි ලංකාව ඉවත් විය යතු බව බංග්ලාදේශ වත්මන් නායක නජ්මුල් හුසේන් ෂැන්ටෝ පවසයි.
+
+ඔහු සඳහන් කරන්නේ ශ්‍රී ලංකා කණ්ඩායම වර්තමානයේ සිටිය යුතු බවත් ඇන්ජලෝ මැතිව්ස් දවා ගැනීමේදී සිදුවීමේදි තම කණ්ඩායම නීති රීති අනුව කටයුතු කළ යුතු බවත්ය.
+
+ලෝක කුසලාන තරගාවලියෙන් අනතුරුව ශ්‍රි ලංකා කණ්ඩායම හා බංග්ලාදේශ කණ්ඩායම අතර පැවැත්වෙන මෙම තරගාවලිය තුළද ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයන් මෙන්ම බංග්ලාදේශ කණ්ඩායමේ ක්‍රීඩකයන්ද ටයිම්ඩ් අවුට් දවා ගැනීමේ සිදුවීම සම්බන්ධයෙන් අභිනයෙන් ක්‍රියා කරන අයුරු දක්නට ලැබෙයි.
+
+මෙහිද විස්සයි20 තරගාවලියේ ශූරතාවය දිනා ගැනීමෙන් අනතුරුව සමූහ ජායාරූපයකට පෙනී සිටි සිටි ශ්‍රී ලංකා කණ්ඩායම නැවත වරක් අභිනයෙන් ටයිම්ඩ් අවුට් සිදුවීම පෙන්නුම් කළේය.
+
+"ඔවුන් ටයිම්ඩ් අවුට් සිදුවීම අභිනයෙන් පෙන්වූවා. ඔවුන් තවමත් එයින් ඉදිියට ගොස් නෑ. මම හිතන්නේ ඔවුන් එයින් ඉවත් විය යුතුයි. ඔවුන් වර්තමානයේ සිටිය යුතුයි. අපි නීති රීති තුළ හිටියා. ඔවුන් ඒ ගැන තරහින් ඉන්නේ. මම ඒ ගැන වැඩිය කලබල වෙන්නේ නැහැ."
+
+◼️
+
+[Data](articles/c271ad37.json)
+
+---
+
 ### John Cena gives out costume design Oscar in his ‘birthday suit’
 
 *2024-03-11 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/John-Cena-gives-out-costume-design-Oscar-in-his-birthday-suit/108-278625) · `en`
@@ -1513,6 +1637,8 @@ From the corner of the stage, Cena peeked his head out and told Kimmel he didn�
 ...
 
 [Data](articles/ad5d99d5.json)
+
+[Extended Data](ext_articles/ad5d99d5.ext.json)
 
 ---
 
@@ -2205,121 +2331,5 @@ The final day of the 'Air Tattoo' was held yesterday, with the Senior Adviser on
 [Data](articles/2d116f68.json)
 
 [Extended Data](ext_articles/2d116f68.ext.json)
-
----
-
-### Another murder
-
-*2024-03-11 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194366) · `si`
-
-A woman from Nirinda assaulted her husband with a sharp object, leading to his death. Police began investigations yesterday. The couple had been living in separate homes due to a family dispute. The suspect, a 43-year-old woman, was arrested after surrendering to police.
-
-🟩
-
-A woman from Nirinda, Nirinda, has assaulted her husband with a sharp object.
-
-Police said that investigations were commenced yesterday (10).
-
-The husband and wife have been living in two homes, with a family dispute, and the woman died yesterday, the woman went to the husband's home, this unfortunate event was faced with the husband's home.
-
-The police investigation revealed that the master had been assaulted by a heated weapon.
-
-The 43-year-old suspect has been arrested following the surrender of the police.
-
-◼️
-
-[Data](articles/e61c8484.json)
-
-[Extended Data](ext_articles/e61c8484.ext.json)
-
----
-
-### Dry weather impacts consistent water supply
-
-*2024-03-11 08:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-impacts-consistent-water-supply/108-278594) · `en`
-
-Colombo, March 11 (Daily Mirror) - In light of the ongoing dry weather conditions, the National Water Supply and Drainage Board has highlighted hurdles in maintaining consistent water supply across various regions.
-
-The increased daily water demand exacerbates the situation, resulting in some areas receiving water at reduced pressure or facing restrictions.
-
-The Board emphasized the need for proactive measures to address these challenges.
-
-To facilitate public feedback and address concerns effectively, the NWSD has introduced a dedicated hotline, 1939, for lodging complaints related to water supply disruptions.
-
-◼️
-
-[Data](articles/3dbcf054.json)
-
-[Extended Data](ext_articles/3dbcf054.ext.json)
-
----
-
-### President inspects several secretary secrets in Kuliyapitiya
-
-*2024-03-11 08:03:10* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේදී-ජනපති-රහස්-රැසක්-හෙළිකරයි/11-408524) · `si`
-
-President Ranil Wickremesinghe inspected secrets in Kuliyapitiya, criticized UNP's role in land reconciliation, and addressed a mass rally. He thanked supporters, highlighted government relief measures, and recalled UNP's economic policies.
-
-🟩
-
-There is no principles of the United National Party (UNP) in the reconciliation of the Samagambembaramala and the land.
-
-President Ranil Wickremesinghe said that the UNP was not the principles of the UNP and the claim of the party to be rescued today and the UNP was brought to the secure country for the future generation today and to join the future generation.Invited.
-
-President Ranil Wickremesinghe addressing the first mass rally held at Kuliyapitiya Urban Council Stadium yesterday afternoon.
-
-The massacre is organized under the theme of the people who want to join the country under the theme "real" and a large number of people were present at Kuliyapitiya.
-
-It is also the first rally called after President Ranil Wickremesinghe was appointed president.
-
-After addressing the masses, President Ranil Wickremesinghe went to a friendly conversation with them.
-
-...
-
-[Data](articles/e50fd357.json)
-
-[Extended Data](ext_articles/e50fd357.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-03-11 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97861/showers-expected-in-parts-of-the-island) · `en`
-
-A few showers are likely in Eastern province and in Hambantota district, according to the Meteorology Department.
-
-Showers or thundershowers may occur at a few places in Ratnapura, Kalutara, Galle and Matara districts in the evening or night.
-
-Mainly dry weather will prevail in the other areas of the island, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/b6a62a8b.json)
-
-[Extended Data](ext_articles/b6a62a8b.ext.json)
-
----
-
-### Armed Forces summoned for justice from today
-
-*2024-03-11 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194365) · `si`
-
-The police have called upon the army for assistance in crime and drug control operations starting today. All police stations have been informed. If police officers face obstacles, the army will coordinate with Senior DIGs or the DIGs in charge of the province for arrests. A methodology has been prepared, and the IGP has been instructed to seek military assistance.
-
-🟩
-
-The police have decided to seek the assistance of the army from today (11) for crime and drug control operations.
-
-Police Media Spokesperson DIG's DIG's Court Attorneysha said that the instructions have been instructed to all police stations.
-
-"Operations should be operated from today. If there are any shortcomings of the police officers, if there are many obstacles, the Army needs to be coordinated to the Senior DIGs, the DIGs in charge of the province, if they need to be arrested.The preparation of a methodology has been done. Accordingly, the Inspector General of Police (IGP) was instructed to obtain military assistance. "
-
-◼️
-
-[Data](articles/29422613.json)
-
-[Extended Data](ext_articles/29422613.ext.json)
 
 ---

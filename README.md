@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 16:33:37**
+As of **2024-03-11 16:49:48**
 
 ## Newspaper Stats
 
-*Scraped **12,169** Articles*
+*Scraped **12,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,034
-adaderanalk | 1,470
+adaderanalk | 1,471
 tamilmirrorlk | 1,485
-virakesarilk | 1,666
+virakesarilk | 1,668
 dailymirrorlk | 1,862
 adaderanasinhalalk | 1,922
 
@@ -26,27 +26,87 @@ adaderanasinhalalk | 1,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,168 (100.0%) of 12,169 articles have been extended.
+12,169 (100.0%) of 12,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### மன்னாரில் மாணவனை காணவில்லை ; பொதுமக்களின் உதவியை நாடும் பெற்றோர்!
+### யானை வேலிகளைப் பாதுகாப்பதற்காக 4,500 பல்நோக்கு உத்தியோகத்தர்களை இணைத்துக் கொள்ள அங்கீகாரம் - பவித்ரா
+
+*2024-03-11 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178450) · `ta`
+
+யானை வேலிகளைப் பாதுகாப்பதற்காக வனஜீவராசிகள் அமைச்சுக்கு 4,500 பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்களை இணைத்துக் கொள்ள நிதியமைச்சு அனுமதியளித்துள்ளதாக வனஜீவராசிகள் மற்றும் வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ராதேவி வன்னியாரச்சி தெரிவித்தார்.
+
+நாட்டின் காடுகளை மொத்த நிலப்பரப்பில் 32% வரை அதிகரிக்கும் திட்டத்துடன் தொடர்புடைய வன எல்லைகளை நிர்ணயம் செய்யும் பணி இந்த ஆண்டு நிறைவடையும் என எதிர்பார்க்கப்படுவதாகவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (11) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே வனஜீவராசிகள், வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ரா வன்னியாரச்சி இதனைத் தெரிவித்தார்.
+
+“சர்வதேச காடுகள் தினம் மார்ச் 21 அன்று கொண்டாடப்படுகிறது. இதேவேளை, நாடளாவிய ரீதியில் உள்ள அனைத்து வீடுகளுக்கும் தலா ஒரு செடியை வழங்குவதற்கான ஏற்பாடுகளும் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/c6bf6b41.json)
+
+---
+
+### மன்னார் 'சதோச' மனித புதைகுழி வழக்கு ; சட்ட வைத்திய அதிகாரி ராஜபக்சவை நேரில் ஆஜராகுமாறு அறிவுறுத்தல்
+
+*2024-03-11 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178448) · `ta`
+
+மன்னார் சதோச மனித புதைகுழி வழக்கானது இன்று திங்கட்கிழமை (11) மன்னார் நீதவான் நீதிமன்றத்தில் எடுத்துக் கொள்ளப்பட்ட நிலையில் பேராசிரியர் ராஜ் சோம தேவ், தடவியல் பொலிஸார் உட்பட அனைத்து தரப்பினரினதும் அறிக்கைகள் பெற நடவடிக்கை எடுக்கப்பட வேண்டும் என்பதுடன் சட்ட வைத்திய அதிகாரி ராஜபக்ஸ அவர்கள் அடுத்த தவணையில் நேரடியாக நீதிமன்றத்தில் ஆஜராகும் படி கட்டளை ஆக்கப்பட்டிருந்தது.
+
+குறித்த வழக்கு தொடர்பாக வலிந்து காணாமல் ஆக்கப்பட்டவர்கள் சார்பில் வாதிடும் சட்டத்தரணி V.S.நிரஞ்சன் தெரிவிக்கையில்,
+
+மன்னார் சதோச மனித புதைகுழி வழக்கானது இன்றைய தினம் மன்னார் நீதவான் நீதிமன்றத்தில் எடுத்துக் கொள்ளப்பட்டது.
+
+ஏற்கனவே நீதிமன்றத்தினால் கோரப்பட்ட அறிக்கை கடந்த தவணை சட்டவைத்திய அதிகாரி ராஜபக்ஷவினால் சமர்ப்பிக்க பட்டிருந்தது. ஆனால் அந்த அறிக்கையில் முழுமையாக எல்லா விடயங்களும் அடங்காத படியால் அது சம்பந்தமாக இன்று நீதிமன்றத்தின் கவனத்திற்கு நாங்கள் கொண்டு வந்திருந்தோம்.
+
+...
+
+[Data](articles/5e3ba76f.json)
+
+---
+
+### Sri Lanka among other countries want to start rupee trade with India – Minister
+
+*2024-03-11 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97872/sri-lanka-among-other-countries-want-to-start-rupee-trade-with-india-minister) · `en`
+
+Indian Minister of Commerce and Industry Piyush Goyal has revealed that many developed and developing countries including Bangladesh, Sri Lanka, and nations of the Gulf region are keen to start trade in rupee with India as it would help cut transaction costs for business.
+
+He expressed confidence that the development is going to be a “very game-changing” dimension to India’s international trade.
+
+“Bangladesh, Sri Lanka are already talking to us and they want us to start this immediately. Other countries in the Gulf region are looking at that. I think it’ll take some time for people to see the benefits. And then we’ll have more and more developed countries and countries in the Far East also joining the bandwagon. Singapore is already on board to some extent,” he said.
+
+The minister added that gradually countries are realising that undertaking trade in domestic currencies has several advantages.
+
+...
+
+[Data](articles/e4efcc97.json)
+
+---
+
+### The student is missing in Mannar;Parents seeking public help!
 
 *2024-03-11 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178445) · `ta`
 
-மன்னார் நானாட்டான் பிரதேச செயலகப் பிரிவில் உள்ள அச்சங்குளம் கிராமத்தில் வசிக்கும் சந்திரசேகர் நிலோஜ் ரோக்க்ஷன் (வயது 17) என்ற மாணவன் காணாமல் போயுள்ளார்.
+Chandrasekhar Nilaj Rockshan, 17, from Achankulam village in Mannar, is missing. Parents filed a complaint at Murugan Police Station. He was last seen leaving home on Sunday afternoon. The student attends a reputable school in Nanatan. Contact: 077-4722506.
 
-நேற்று ஞாயிற்றுக்கிழமை (10) மதியம்  மதியம் அச்சங்குளம் கிராமத்தில் உள்ள தனது வீட்டில் இருந்து வெளியில் சென்ற நிலையிலே இந்த மாணவன் இது வரை வீடு திரும்பவில்லை என பெற்றோர் முருங்கன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+🟩
 
-காணாமல் போன மாணவன் நானாட்டான் பிரதேசத்தில் உள்ள பிரபல பாடசாலையில்  உயர் தரத்தில் கல்வி கற்று வருவதாக தெரிய வருகின்றது.
+Chandrasekhar Nilaj Rockshan (age 17), a resident of Achankulam village in the Mannar Nanatan Divisional Secretariat Division, has disappeared.
 
-குறித்த மாணவன் பற்றிய தகவல் தெரிந்தவர்கள் 077-4722506 என்ற இலக்கத்துடன் தொடர்பு கொள்ளுமாறு பெற்றோர் கேட்டுக் கொண்டனர்.
+Parents have lodged a complaint at the Murugan Police Station that the student has not returned home as she left his home in Achangulam village on Sunday (10) afternoon.
+
+It is reported that the missing student is studying at a high quality school in a popular school in Nanatan.
+
+Parents were asked to contact the student with information on 077-4722506.
 
 ◼️
 
 [Data](articles/414ee24a.json)
+
+[Extended Data](ext_articles/414ee24a.ext.json)
 
 ---
 
@@ -2265,93 +2325,5 @@ The police said that the man was arrested in the Moneragala area.
 [Data](articles/61e1384d.json)
 
 [Extended Data](ext_articles/61e1384d.ext.json)
-
----
-
-### Trees attack on a three-wheeler driver
-
-*2024-03-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194369) · `si`
-
-Two people attacked a three-wheeler driver in Karandeniya, stabbing him and stealing his money and phone. The driver, a 62-year-old resident of Elpitiya, was admitted to the ICU at Elpitiya Base Hospital. The Karandeniya police are investigating.
-
-🟩
-
-Two people who traveled by a three-wheeler in the Karandeniya police division have stabbed the driver.
-
-The injured have been admitted to the Elpitiya Base Hospital.
-
-The two persons have risen to the three-wheeler yesterday (10) to take a rented in the Piriyagama area with a taxi driver near the Church near the Church of Elpitiya.
-
-It is reported that the driver was attacked by the three-wheeler in the 35th afternoon and took a knife in the area and took a cinnamon land and had taken a cinnamon land and had a money and phone he had.
-
-After the driver's shirt was also fleeing the driver's shirt, the Karandeniya police have been informed about this after the incident.
-
-The injured driver was then admitted to the ICU of the Ilpitiya Base Hospital, "Ada Derana reporter said.
-
-The injured was a 62 year old resident of the Elpitiya Tringwatta area in Elpitiya and the Karandeniya police are conducting further investigations.
-
-◼️
-
-[Data](articles/d262fa47.json)
-
-[Extended Data](ext_articles/d262fa47.ext.json)
-
----
-
-### May be a little rainfall
-
-*2024-03-11 10:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதளவு-மழை-பெய்யக்கூடும்/175-334488) · `ta`
-
-The Department of Meteorology predicts slight rainfall in the Eastern Province and Hambantota district, with rain or thunderstorms expected in Ratnapura, Kalutara, Galle, and Matara districts in the evening or night. Wind speeds from 20-30 km/h in the northeast may increase to 40-45 km/h from Colombo to Puttalam and Mannar, affecting seas from Colombo to Puttalam and Mannar via Kankesanthurai, and from Matara to Pottuvil via Hambantota.
-
-🟩
-
-The Department of Meteorology has predicted a slight rainfall in the Eastern Province and Hambantota district.
-
-The Department of Meteorology has said that in some places in the districts of Ratnapura, Kalutara, Galle and Matara, there will be rain or thunderstorms in the evening or night.
-
-In the morning, in some parts of the Galle and Matara districts, the Sabaragamuwa and Uva provinces are in the morning.
-
-Meanwhile, rain or thunderstorms are likely to occur in some areas from Hambantota to Pottuvil to Batticaloa.
-
-While the wind blows in the northeast, the wind speed is 20-30 km / h.
-
-Wind speeds can be increased from Colombo to Puttalam and Mannar via Kankesanthurai, Matara to Pottuvil via Pottuvil to Pottuvil to 40-45 km per hour.
-
-The Department of Meteorology has said that the seas from Colombo to Puttalam and Mannar via Kankesanthurai, from Matara to Pottuvil via Hambantota via Pottuvil.
-
-◼️
-
-[Data](articles/2601b97a.json)
-
-[Extended Data](ext_articles/2601b97a.ext.json)
-
----
-
-### 7 Awards
-
-*2024-03-11 09:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/7-விருதுகளை-அள்ளிய-ஓபன்ஹெய்மர்/54-334486) · `ta`
-
-Christopher Nolan won 7 Oscars, including Best Director for "Openheimer," while Barbie won one. The 96th Oscars began Sunday night, featuring Hollywood glamour and a film about Robert Oppenheimer's life, including scenes in Hiroshima and Nagasaki.
-
-🟩
-
-Christopher Nolan has proved himself through his film, winning the maximum 7 awards at the Oscar Awards.
-
-Barbie, who played Openheimer at the box office, won only one award at the Oscar Awards.
-
-The 96th Oscar Award Ceremony began on Sunday night in the United States at 4 am on Monday night.
-
-At the first Red Carpet, various Hollywood actresses dressed in beauty and converted the awards ceremony into a spectacular event.
-
-Openheimer's film released last year starring Child Murphy starring Christopher Nolan. The atomic bomb produced. The biography of Robert Openheimer was a film.
-
-In the scenes of Hiroshima Nagasaki in Japan, he was in the vicinity of the cities of Nagasaki, and the scenes that the world was destroyed and the scenes of the Chilean Murphy in his performance.. The film has been awarded Oscar in 7 categories including Best Picture, Best Director and Best Actor.
-
-...
-
-[Data](articles/9edb5d54.json)
-
-[Extended Data](ext_articles/9edb5d54.ext.json)
 
 ---

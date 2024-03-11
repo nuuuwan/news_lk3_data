@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 20:34:15**
+As of **2024-03-11 20:51:13**
 
 ## Newspaper Stats
 
-*Scraped **12,210** Articles*
+*Scraped **12,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 636
 islandlk | 663
 adalk | 1,044
 adaderanalk | 1,477
-tamilmirrorlk | 1,488
+tamilmirrorlk | 1,489
 virakesarilk | 1,677
 dailymirrorlk | 1,863
-adaderanasinhalalk | 1,931
+adaderanasinhalalk | 1,932
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,208 (100.0%) of 12,210 articles have been extended.
+12,210 (100.0%) of 12,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### නුවර ක්‍රිකට් ගහන සුපිරි ක්‍රිකට් තරු
+
+*2024-03-11 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194395) · `si`
+
+නුවර පල්ලෙකැලේ ක්‍රීඩාංගණයේ පැවැත්වෙන Legends Cricket Trophy තරගාවලියේ තවත් සුපිරි තරගයක් KSA කණ්ඩායම සහ CLions අතර දැන් පැවැත්වෙයි.
+
+මෙම තරගාවලියේ CLions කණ්ඩායමේ නායකත්වයේ වගකීම යසීර් ෂා වෙත පවරා ඇත.
+
+අද තරගය සඳහා බටහිර ඉන්දීය කොදෙව් කණ්ඩායමේ හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක ක්‍රිස් ගේල් ද එක්ව සිටීම විශේෂත්වයකි.
+
+තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදෙන KSA කණ්ඩායම මේ වනවිට කඩුලු 6ක් දැවී ලකුණු 141ක් රැස්කරගෙන පන්දුවට පහරදෙමින් සිටී.
+
+KSA කණ්ඩායමේ නායකත්වයේ වගකීම ඉර්ෆාන් පතාන් වෙත පවරා ඇති අතර හිටපු සුපිරි ක්‍රිකට් තරු වන උපුල් තරංග, යුසුෆ් පතාන්, ෆින්ච්, කෙවින් ඕ බ්‍රයන් අද තරගයට ක්‍රීඩා කරයි.
+
+CLions කණ්ඩායම නියෝජන කරමින් නවසීලන්ත හිටපු සුපිරි පිතිකරුවන් වන Ross Taylor සහ Jesse Ryder එක්ව සිටී.
+
+◼️
+
+[Data](articles/5a4e2636.json)
+
+---
+
+### IMF உடன் இணைந்து செயற்படுவதே அரசாங்கத்தின் விருப்பம் - ஜனாதிபதி
+
+*2024-03-11 20:22:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-உடன்-இணைந்து-செயற்படுவதே-அரசாங்கத்தின்-விருப்பம்-ஜனாதிபதி/175-334519) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் குறித்து எதிர்க்கட்சிகளின் தலைவர்களுக்கு தெரியப்படுத்துவோம். அனைத்து நடவடிக்கைகளையும் வெளிப்படைத்தன்மையுடன் செயற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் தொடர்பில் கலந்துரையாடுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அழைக்கப்பட்டிருந்த எதிர்க்கட்சித் தலைவர்களின் கூட்டம் இன்று (11) முற்பகல் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இந்தக் கலந்துரையாடலில் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரனும் கலந்துகொண்டதுடன் சர்வதேச நாணய நிதியத்துடனான கலந்துரையாடலில் அனைத்து தரப்பினரும் ஏற்றுக்கொள்ளும் தீர்மானங்களை எட்டுவதற்கான அரசாங்கத்தின் அர்ப்பணிப்பு இங்கு வலியுறுத்தப்பட்டது.
+
+சர்வதேச நாணய நிதியத்தினால் தயாரிக்கப்பட்ட பகுப்பாய்வு தரவுகளுடன் கூடிய அறிக்கைகள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட வேண்டுமென பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரன் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/b4487964.json)
+
+---
 
 ### Tamils can be deeply educated by Tamils - Jupiter
 
@@ -84,19 +124,27 @@ While the CID was in the custody, the security forces were also trying to surviv
 
 ---
 
-### පෞරාණික භාණ්ඩ තොගයක් රු. කෝටි 5කට විකුණන්න බැරි වෙයි
+### A stock of antiquities for Rs. 5 crores will not be sold
 
 *2024-03-11 19:29:08* · [`adalk`](https://www.ada.lk/breaking_news/පෞරාණික-භාණ්ඩ-තොගයක්-රු--කෝටි-5කට-විකුණන්න-බැරි-වෙයි/11-408549) · `si`
 
-පෞරාණික වටිනාකමකින් යුත් පුරාවස්තු තොගයක් නීති විරෝධී අයුරින් කෝටි රුපියල් පහකට අධික මුදලකට අලෙවි කිරීමට උත්සාහ ගත් පුද්ගලයකු යුද හමුදා බුද්ධි නිලධාරීන් සහ විශේෂ කාර්ය බලකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Army intelligence arrested personnel attempting to sell a Rs. 5 crores antiquities stock, including ancient currency notes and coins. The items were from Peyagama, Matugama, Pelagama, Pelawatta temples. A 24-year-old Pelawatta resident was also detained.
 
-මේ ආකාරයට අලෙවි කිරීමට උත්සාහ කර තිබෙන්නේ මතුගම, පැලවත්ත, ලිහිණියාව ප්‍රදේශයේ විහාරස්ථානයක ප්‍රදර්ශනයට තබා තිබූ ඓතිහාසික වටිනාකමින් යුත් පුරාවස්තුන් බවද යුද හමුදාව සඳහන් කරයි.
+🟩
 
-ඊයේ( 11දා) උදෑසන කාලයේදී  අදාළ අත්අඩංගුවට ගැනීම් සිදුකර තිබෙන අතර අත්අඩංගුවට ගත් භාණ්ඩ අතර පෞරාණික වටිනාකමකින් යුත් රන්, කිරිගරුඬ, රත් හඳුන් ශෛලමය ප්‍රතිමාවක් , කුඩා ප්‍රමාණයේ ඇත් දළ යුවලක්,කළු හා සුදු වර්ණයෙන් යුත් කස්තුරි සහ සෙනර වලිග යුවළක්,   ඉපැරණි මුදල් නෝට්ටු සහ කාසි කිහිපයක්, මෙන්ම වෙනත් පෞරාණික භාණ්ඩ කිහිපයක් ඇතුළත්ව ඇත.
+Army intelligence and STF personnel have been arrested by the Army intelligence and STF personnel who tried to sell an antiquity worth Rs.
 
-...
+The Army said that this is the historical value of the exhibition at a temple in Peyagama, Matugama, Pelagama, Pelawatta.
+
+Ancient currency notes and coins with antiquity, kuszes, black and white-colored couple with ancient, black and white colors in the morning, a small-scale ticket, black and white-colored couple, among the cargo, black and white colors.Several, as well as several other antique items included.
+
+A soldier is a 24-year-old resident of Pelawatta, a resident of Pelawatta, a resident of Pelawatta, is also arrested in the Pelawatta area.. The Meegahatenna Police are conducting further investigations.
+
+◼️
 
 [Data](articles/eef47720.json)
+
+[Extended Data](ext_articles/eef47720.ext.json)
 
 ---
 
@@ -400,23 +448,31 @@ Taking to ‘X’ (formerly Twitter), the diplomat highlighted that the joint st
 
 ---
 
-### අවුරුදු 3ට සුනඛයින් නිසා 69ක් ජීවිතක්ෂයට
+### 69 killed in 3 years
 
 *2024-03-11 17:54:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-3ට-සුනඛයින්-නිසා-69ක්-ජීවිතක්ෂයට/11-408546) · `si`
 
-2021, 2022 සහ 2023 යන වසරවලදීපිළිවෙළින් 25, 28 සහ 16ක් වශයෙන් පුද්ගලයන් 69දෙනෙකු ජලභීතිකා රෝගය වැළදීම හේතුවෙන් ජීවිතක්ෂයට පත්ව ඇති බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+In 2021-23, 69 deaths from rabies occurred, with 65,773, 66,247, and 69,834 dog bites treated in hospitals. Dr. Ramesh Pathirana, Health Minister, urged public to vaccinate dogs against rabies.
 
-එමෙන්ම 2021, 2022 සහ 2023 යන වසරවලදී පිළිවෙලින් 65,773ක්, 66,247ක් සහ 69,834ක් ලෙස පුද්ගලයන් 201,854ක් සුනඛයන් සපාකෑම හේතුවෙන් රජයේ රෝහල්වලින් ප්‍රතිකාර ලබා ගෙන ඇති බවද මෙහිදී අනාවරණය විය.
+🟩
 
-පාර්ලිමේන්තුවේ වාචික පිළිතුරු අපේක්ෂාවෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී උපුල් මහේන්ද්‍ර රාජපක්ෂ මහතා යොමු කළ ප්‍රශන්යකට පිළිතුරු ලෙස සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මෙම තොරතුරු ලබා දුන්නේයෙ.
+In the year 28 and 16, 69 persons have died due to 69 people, 25, 28 and 16 in the year 28 and 16.
 
-ඒ අනුව තමන් ඇති කරන ලබන සුනඛයන් නිසි ලෙස එන්නත් කරණයට යොමු කරන ලෙස ජනතාවගෙන් ඉල්ලීමක් කරන බවත්, සමස්ත වීදිා සුඛකයන්ගෙන් 70෴ක් එන්නත්කරණය තුළින් ජලභීතිකා රෝගය පාලනය කරගත හැකි බවත් එහිදී අමාත්‍යවරයා පැවසීය.
+It was also revealed that there were 65,773, 66,247 and 69,834 persons respectively, respectively, as 60,847 persons respectively in general area generations.
 
-එම අවස්ථාවේ වැඩිදුරටත් සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Minister of Health Dr. Ramesh Pathirana provided this information as PS MP Upul Mahendra Rajapaksa who appealed to the verbal answer in Parliament.
+
+The Minister said that the public is requesting the public to direct their dogs to the proper vaccine, he said.
+
+Speaking further Minister of Health, Dr. Ramesh Pathiran was speaking.
+
+The people who have been treated at government hospitals due to biting dogs are as follows. 65,773 in 2021, 66,247 in 2022, 69,834 in 2023. The number of people died in 2021 due to rabies and 2023, 16 deaths in 2023.
 
 ...
 
 [Data](articles/2a6aa171.json)
+
+[Extended Data](ext_articles/2a6aa171.ext.json)
 
 ---
 
@@ -2277,51 +2333,5 @@ Following investigations into the incident, many have been arrested, including a
 [Data](articles/3dc9d1cd.json)
 
 [Extended Data](ext_articles/3dc9d1cd.ext.json)
-
----
-
-### Fast-spreading new poison in Sri Lanka
-
-*2024-03-11 12:23:29* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-තුළ-වේගයෙන්-පැතිරෙන-අලුත්-විස/11-408534) · `si`
-
-Sri Lanka's rapid spread of electronic cigarettes, targeting under-40s, has been highlighted by the Commissioner General of Excise. These cigarettes, disguised as watches, pen drives, and power banks, are sold online. The World Health Organization and the US have banned them due to their addictive nature. Sri Lanka's ports are a major entry point.
-
-🟩
-
-The Commissioner General of Excise of the Excise Department, MG Sunasiri said that the rapid equipment was rapidly expanding in rural areas in Sri Lanka.
-
-He was speaking after a raid carried out by the Special Excise Unit of the National Excise Unit of the National Excise Unit of the Department of Excise, Gampaha.
-
-The Commissioner General said that these electronic cigarettes such as Colombo, Gampaha and Panadura have been used in the capital cigarettes, which are under the age of 40 years of age.
-
-However, a student of a popular school in Ratnapura has been spreading to the school in Sri Lanka.The school has also been reported to the school, the police and the Excise Department.
-
-This electronic cigarettes are currently being sold and distributing on the online system, such as cigarette watches, Pen Drive, Power Storage (Power Bank), difficult to identify as a cigarette.The smoking schoolchildren and young people have been ensured that the youths are located near their computer.
-
-...
-
-[Data](articles/d22a0662.json)
-
-[Extended Data](ext_articles/d22a0662.ext.json)
-
----
-
-### New 2MW solar project opened in Batticaloa
-
-*2024-03-11 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97867/new-2mw-solar-project-opened-in-batticaloa) · `en`
-
-A new ground-mounted solar project was opened in Kommathurai, Batticaloa on Sunday morning (10 March), Minister of Power and Energy Kanchana Wijesekera stated.
-
-In a post on ‘X’ (formerly Twitter), the Minister revealed that the 2MW solar project had been successfully constructed and commissioned by BackBay Solar Private Ltd.
-
-BackBay Solar is managed by Sino Lanka Power Gen, a leader in commercial rooftop solar installations with approximately 50MW of projects completed or undergoing development. Sino Lanka Power Gen meanwhile is a subsidiary of Orbital Energy, a renewable energy developer with large-scale utility projects in Sri Lanka, Bangladesh and India.
-
-Wijesekera further stated that the ground-mounted solar plant was a part of the 90MW Ceylon Electricity Board (CEB) solar power tendering process.
-
-◼️
-
-[Data](articles/a1c11825.json)
-
-[Extended Data](ext_articles/a1c11825.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 09:02:59**
+As of **2024-03-11 09:17:38**
 
 ## Newspaper Stats
 
-*Scraped **12,052** Articles*
+*Scraped **12,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,019
 adaderanalk | 1,461
 tamilmirrorlk | 1,465
 virakesarilk | 1,644
-dailymirrorlk | 1,842
+dailymirrorlk | 1,845
 adaderanasinhalalk | 1,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,051 (100.0%) of 12,052 articles have been extended.
+12,052 (100.0%) of 12,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,26 @@ Meanwhile, the Presidential Secretariat stated that opposition leader Sajith Pre
 ...
 
 [Data](articles/3973438c.json)
+
+[Extended Data](ext_articles/3973438c.ext.json)
+
+---
+
+### Over 250 Jaffna youths apply to join Sri Lanka Air Force: Sagala
+
+*2024-03-11 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-250-Jaffna-youths-apply-to-join-Sri-Lanka-Air-Force-Sagala/108-278595) · `en`
+
+Jaffna, March 11 (Daily Mirror) - More than 250 youths from Jaffna have applied to join the Sri Lanka Air Force during the 'Air Tattoo 2024' educational and technological exhibition, which was held in Jaffna in commemoration of the SLAF’s 73rd anniversary.
+
+The Sri Lanka Air Force conducted the ‘Air Tattoo’ from March 6 and concluded on a momentous note, marking a potential turning point in relations between the SLAF and the Jaffna community.
+
+The event, held at the Muttraweli Ground, not only served as a platform for education and technological exploration but also witnessed a remarkable display of renewed interest in the Air Force from Jaffna's youth.
+
+The final day of the 'Air Tattoo' was held yesterday, with the Senior Adviser on National Security to the President and Chief of the Presidential Staff Sagala Ratnayaka attending the event as the Chief Guest. The Commander of the Air Force, Air Marshal Udeni Rajapaksa, extended a welcome to the Chief Guest upon his arrival.
+
+...
+
+[Data](articles/2d116f68.json)
 
 ---
 
@@ -433,6 +453,24 @@ It stated that in some places, in the Western, Southern and Sabaragamuwa Provinc
 [Data](articles/b88eee34.json)
 
 [Extended Data](ext_articles/b88eee34.ext.json)
+
+---
+
+### Foreign reserves expand reaching US$ 4.5bn in February
+
+*2024-03-11 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-reserves-expand-reaching-US-4-5bn-in-February/108-278582) · `en`
+
+Official reserves in February reach US$ 4,517 mn, up from US$ 4,496 mn in January
+
+In February, official foreign currency reserves inched up as the Central Bank maintained its efforts to shore up reserves by accumulating foreign currency from banks. This accumulation comes at a time when demand for foreign currency remains subdued compared to the ample supply from remittances, tourism, and robust exports.
+
+Latest figures reveal that by the end of February, the Central Bank held US$ 4,517 million in official reserve assets, a modest increase from US$ 4,496 million reported in January.
+
+With the absence of large-scale demand for foreign currency from the importers, and also the absence of substantial foreign currency, debt repayments have provided more wiggle room for the Central Bank to collect dollars from the market and rebuild its reserve buffer.
+
+...
+
+[Data](articles/1600cf9f.json)
 
 ---
 
@@ -1310,11 +1348,23 @@ People are currently in the hardest period. So I came to this place to report th
 
 ---
 
+### Highlights from 2024 IORA Day...
+
+*2024-03-10 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Highlights-from-2024-IORA-Day/110-278565) · `en`
+
+The 2024 Indian Ocean Rim Association (IORA) Day was held yesterday at the Galle Face, grounds with the participation of diplomatic missions of member countries, partner states and a large number of school students from all provinces of the island. The theme for 2024 IORA Day is 'A Sustainable Indian Ocean for the Future Generation'. The commemoration was held under the chairmanship of President Wickremesinghe. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/7ce4db0f.json)
+
+---
+
 ### UNP holds first public rally in Kuliyapitiya
 
 *2024-03-10 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-holds-first-public-rally-in-Kuliyapitiya/110-278564) · `en`
 
-The first public rally of the United National Party (UNP) was held in Kuliyapitiya with the participation of President Ranil Wickremesinghe. Pix by Kithsiri de Mel
+The first public rally of the United National Party (UNP) was held in Kuliyapitiya with the participation of President Ranil Wickremesinghe. Pix by Pradeep Pathirana
 
 ◼️
 
@@ -2117,75 +2167,5 @@ The Sri Lanka Navy said that the fishermen were taken to the Fisheries Harbor to
 [Data](articles/61117353.json)
 
 [Extended Data](ext_articles/61117353.ext.json)
-
----
-
-### State Minister says money about opposition inferior
-
-*2024-03-10 14:00:37* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-පහත්-ක්‍රියාවක්-ගැන-මුදල්-රාජ්‍ය-ඇමති-කියයි/11-408513) · `si`
-
-State Minister Shehan Semasinghe criticizes the opposition's decision not to participate in the IMF discussion on the president's invitation, emphasizing the opposition's role should align with the government's views. He also mentions Ranil Wickremesinghe's efforts to discuss changes with international finance and party leaders, highlighting the support from several MPs for the government's national needs, despite the opposition's decision not to attend the IMF discussion.
-
-🟩
-
-State Minister Shehan Semasinghe says that the decision not to participate in the International Monetary Fund to discuss the invitation of the president. He was speaking at a press conference held in Anuradhapura today.
-
-"The role of a opposition should always be agreed to the government's opinion, but the country is to save the country at the time of a challenge.
-
-Ranil Wickremesinghe is consciously creating the platform to discuss and discussing the changes in opposition changes in the country.. It has arranged for the international finance and the party leaders representing the international finance and the opposition tomorrow (11).
-
-There are several MPs who wish to support the government by considering the national needs of the country.Despite this, the decision not to attend the International Monetary Fund's discussion for the International Monetary Fund's discussion tomorrow
-
-◼️
-
-[Data](articles/2df12703.json)
-
-[Extended Data](ext_articles/2df12703.ext.json)
-
----
-
-### KC's overseas education fair - 2024
-
-*2024-03-10 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/KC-s-overseas-education-fair-2024/110-278558) · `en`
-
-The KC's Overseas Education Fair, held today from 10:30 am to 5:00 pm at The Galadari Hotel, Colombo, provided a platform for exploring international education options. Representatives from over 50 universities across 9 countries, including New Zealand, Canada, Finland, Australia, the United States, the United Kingdom, Europe, Dubai and Singapore, were present, offering a diverse array of opportunities. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/419daf16.json)
-
-[Extended Data](ext_articles/419daf16.ext.json)
-
----
-
-### Sensitive story heard of Canada's murder
-
-*2024-03-10 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194345) · `si`
-
-A violent incident in Barshewan, Canada, resulted in the death of six Sri Lankans, including five family members. The High Commissioner of Sri Lanka in Canada plans to conduct the funeral. A ceremony was held for the murdered family, attended by 300 people, including government officials. The Ottawa Police have completed the transfer of the victims. Dhanushka Wickremasinghe, seriously injured, is recovering and plans to manage the Hildda Jayawardharama temple post-treatment. Canadian authorities are investigating the incident, with concerns about the accused's mental health and their fitness to stand trial.
-
-🟩
-
-Sri Lankan High Commissioner in Sri Lanka Harsha Navaratne has planned to conduct the funeral to conduct the funeral after arriving in the next few days.
-
-Among the people in the area was also held yesterday (09).
-
-Six Sri Lankans, including five members of the same family, were violent in their home in the area of Barshewan, Canada, and in Wednesday night.
-
-A ceremony for the murdered Sri Lankan family was held at a park near Dhanushka's residence last evening.
-
-Residents, the Maha Sangha, including 300 people, including the Maha Sangha, the two government officials of the two countries.
-
-Meanwhile, Wickremasinghe family's friends expressed their companions of the murder and many Canadians were sensitive.
-
-It is reported that Dhanushka Wickremasinghe who was seriously injured in the attack have been taken to two surgeries.
-
-However, his condition improves and said he would take care of Hildda Jayawardharama temple after he was taken treatment at hospital treatment.
-
-...
-
-[Data](articles/e124b652.json)
-
-[Extended Data](ext_articles/e124b652.ext.json)
 
 ---

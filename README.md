@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 18:33:09**
+As of **2024-03-11 18:51:34**
 
 ## Newspaper Stats
 
-*Scraped **12,191** Articles*
+*Scraped **12,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ islandlk | 663
 adalk | 1,039
 adaderanalk | 1,475
 tamilmirrorlk | 1,487
-virakesarilk | 1,671
-dailymirrorlk | 1,862
+virakesarilk | 1,672
+dailymirrorlk | 1,863
 adaderanasinhalalk | 1,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,190 (100.0%) of 12,191 articles have been extended.
+12,191 (100.0%) of 12,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### 19இன் கீழ் மகளிர் சர்வதேச இருவகை மும்முனை தொடர்; அவுஸ்திரேலியா, இங்கிலாந்து, இலங்கை மோதுகின்றன
+
+*2024-03-11 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178460) · `ta`
+
+அவுஸ்திரேலியா, இங்கிலாந்து, இலங்கை ஆகிய மூன்று நாடுகளின் 19 வயதுக்குட்பட்ட மகளிர் அணிகள் பங்குபற்றும் இருவகை சர்வதேச மட்டுப்படுத்தப்பட்ட ஓவர் மும்முனை கிரிக்கெட் தொடர் மார்ச், ஏப்ரல் மாதங்களில் நடைபெறவுள்ளது.
+
+மகளிர் மும்முனை ரி20 கிரிக்கெட் போட்டிகள் ஹம்பாந்தோட்டையிலும் ஒரு நாள் கிரிக்கெட் போட்டிகள் காலியிலும் நடைபெறவுள்ளன.
+
+மூன்று அணிகளும் 19 வயதுக்குட்பட்ட மகளிர் மும்முனை ரி20 கிரிக்கெட் தொடரில் தலா 4 போட்டிகள் வீதமும் ஒருநாள் கிரிக்கெட் தொடரில் 2 போட்டிகள் வீதமும் விளையாடவுள்ளன.
+
+இந்த இரண்டு வகை கிரிக்கெட் போட்டிகளில் இறுதி ஆட்டம் நடத்தப்பட மாட்டாது. லீக் சுற்று முடிவில் அதிக புள்ளிகளைப் பெறும் அணி சம்பியனாகப் பிரகடனப்படுத்தப்படும்.
+
+இந்த இரண்டு வகை கிரிக்கெட் தொடர்கள் இலங்கையின் 19 வயதுக்குட்பட்ட வீராங்கனைகளுக்கு மிகவும் அவசியமான அனுபவங்களைப் பெற்றுக்கொடுக்கும் எனவும் உள்நாட்டில் இளம் வீராங்கனைகள் மத்தியில் கிரிக்கெட் ஆர்வத்தை ஊக்குவிக்கும் எனவும் ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரி ஏஷ்லி டி சில்வா தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a8a709ee.json)
+
+---
 
 ### Govt agreed to release IMF technical assistance reports to opposition – Sumanthiran
 
@@ -47,6 +67,24 @@ The TNA spokesman said the President had invited the opposition party leaders fo
 ...
 
 [Data](articles/7dec358b.json)
+
+[Extended Data](ext_articles/7dec358b.ext.json)
+
+---
+
+### Leaders past, present, future lack development vision: Janaka Ratnayake
+
+*2024-03-11 18:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaders-past-present-future-lack-development-vision-Janaka-Ratnayake/108-278637) · `en`
+
+Colombo, March 11 (Daily Mirror) - Those who ruled the country, those who are currently ruling the country, and those who intend to rule the country in the future have no plan on how the country should be developed, Presidential candidate Janaka Ratnayake said.
+
+While opening his party office at Kirulapona today, he claimed that the government is making a decision not to settle the loans and the loan interest according to the tune of the IMF to obtain the IMF loan. This practice will lead the people of the country to bankruptcy, he said.
+
+"To overcome the current bankruptcy of the country, the politicians bankrupted the people first by imposing huge taxes on them while increasing the prices of food and beverages," he said.
+
+...
+
+[Data](articles/f571352b.json)
 
 ---
 
@@ -2301,51 +2339,5 @@ Hollywood actor and WWE boxer, 46 -year -old John China, has come to the stage n
 [Data](articles/59f235c9.json)
 
 [Extended Data](ext_articles/59f235c9.ext.json)
-
----
-
-### John China (Video)
-
-*2024-03-11 11:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-மேடை-ஏறிய-ஜோன்-சீனா-காணொளி/175-334491) · `ta`
-
-John China, a Hollywood actor and WWE boxer, 46, announced the Best Clothing Award winner at the 96th Oscar Film Awards, appearing naked and sparking controversy.
-
-🟩
-
-Actor John China has climbed the stage to announce who will win the Best Clothing Award, with the 96th Oscar Film Awards.
-
-Hollywood actor and WWE boxer, 46 -year -old John China, has come to the stage naked, and has caused great controversy among young people and adults.
-
-◼️
-
-[Data](articles/ca2325b1.json)
-
-[Extended Data](ext_articles/ca2325b1.ext.json)
-
----
-
-### Sri Lanka should quit in Thymid Out - Shantho
-
-*2024-03-11 11:00:06* · [`adalk`](https://www.ada.lk/sports/ටයිම්ඩ්-අවුට්-සිද්ධියෙන්-ලංකාව-ඉවත්විය-යුතුයි---ෂැන්ටෝ/9-408530) · `si`
-
-Sri Lanka's resignation from TIMD ANUTES at the World Cup, as per Bangladesh's Nadgest Husano, is criticized. He emphasizes the importance of adhering to rules. The incident involving Sri Lankan and Bangladeshi players at TiMid Out is highlighted, with Sri Lanka's team from Group Twenty and Twenty showing the new TIMD Out.
-
-🟩
-
-Bangladesh current leader Nadgest Husano Says Sri Lanka's resignation of TIMD ANUTES at the World Cup.
-
-He refers to the rules that the Sri Lankan team should be today and that their team should act on the rules.
-
-After the World Cup, the Sri Lankan team and the Bangladesh team players and the Bangladesh players in the Sri Lankan team and the Bangladesh team players are also found in the event of TiMid Out.
-
-The Sri Lankan team, who appeared for a group of Group Twenta and 20, showed the new tymd out.
-
-"They showed the tymid out incident. They have not yet been built. I think they should get out of it. They should be at present. We were in the rules. They're angry about it. I'm not too upset about it. "
-
-◼️
-
-[Data](articles/c271ad37.json)
-
-[Extended Data](ext_articles/c271ad37.ext.json)
 
 ---

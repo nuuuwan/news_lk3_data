@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 21:03:41**
+As of **2024-03-11 21:17:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,212 (100.0%) of 12,215 articles have been extended.
+12,215 (100.0%) of 12,215 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,17 +42,25 @@ One person has been killed while three others have been injured following a shoo
 
 [Data](articles/15a9e829.json)
 
+[Extended Data](ext_articles/15a9e829.ext.json)
+
 ---
 
-### වෙඩිතැබීමකින් පුද්ගලයෙකු මරුට
+### Man dies in shooting
 
 *2024-03-11 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194396) · `si`
 
-වෙඩිතැබීම හේතුවෙන් තවත් තිදෙනෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+A man died and three others were injured in a shooting incident.
+
+🟩
+
+Three others were injured due to shooting, police said.
 
 ◼️
 
 [Data](articles/9af925bd.json)
+
+[Extended Data](ext_articles/9af925bd.ext.json)
 
 ---
 
@@ -71,6 +79,8 @@ Several thousand bottles of alcoholic beverages, especially arrack, belonging to
 ...
 
 [Data](articles/2b0cfc61.json)
+
+[Extended Data](ext_articles/2b0cfc61.ext.json)
 
 ---
 

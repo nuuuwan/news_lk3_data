@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 07:52:54**
+As of **2024-03-11 08:03:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,032 (99.9%) of 12,041 articles have been extended.
+12,041 (100.0%) of 12,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The scientific survey was conducted under the leadership of Dr. Asha de Vos, ren
 
 [Data](articles/168c5730.json)
 
+[Extended Data](ext_articles/168c5730.ext.json)
+
 ---
 
 ### xCommerz invites retailers to drive economic growth
@@ -57,6 +59,8 @@ Xiteb Pvt Ltd, (https://xcommerz.com/) an award-winning web and mobile software 
 ...
 
 [Data](articles/2d023cbd.json)
+
+[Extended Data](ext_articles/2d023cbd.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/35bcdbff.json)
 
+[Extended Data](ext_articles/35bcdbff.ext.json)
+
 ---
 
 ### Enchanteur sponsors Inter Association Netball Tournament 2024
@@ -91,6 +97,8 @@ Oceanswell and Greenpeace South Asia conduct cetacean surveys in Indian Ocean
 ...
 
 [Data](articles/16ef62a9.json)
+
+[Extended Data](ext_articles/16ef62a9.ext.json)
 
 ---
 
@@ -172,6 +180,8 @@ Surpassing the 200MWp mark, Hayleys Solar has not only set a record but has also
 
 [Data](articles/1988a7ca.json)
 
+[Extended Data](ext_articles/1988a7ca.ext.json)
+
 ---
 
 ### People’s Bank supporting the rise of women entrepreneurs
@@ -190,21 +200,27 @@ Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’
 
 ---
 
-### ஐக்கிய தேசியக் கட்சியினருக்கும் ஜனாதிபதி அழைப்பு
+### President invitation to the United National Party
 
 *2024-03-11 02:08:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியினருக்கும்-ஜனாதிபதி-அழைப்பு/175-334482) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் ஐக்கிய மக்கள் சக்தியில் இல்லையெனவும், சிலரின் கட்டுப்பாட்டில் அந்தக் கட்சி இருப்பதாகவும் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, நாட்டைக் கடன் சுமையில் இருந்து காப்பாற்றி, எதிர்காலச் சந்ததிக்காக பாதுகாப்பான நாட்டைக் கட்டியெழுப்ப ஒன்றிணையுமாறு அனைத்து ஐக்கிய தேசியக் கட்சியினருக்கும் அழைப்பு விடுப்பதாகவும் தெரிவித்தார்.
+President Ranil Wickremesinghe criticized the United National Party's policies and control, urging unity and collaboration to save the country from debt and build a safe future. He addressed the UNP's first general meeting, emphasizing the importance of working together for the country's welfare, regardless of political affiliations.
 
-குளியாபிட்டிய மாநகர சபை மைதானத்தில் நேற்று பிற்பகல் நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் முதலாவது பொதுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+🟩
 
-நாட்டுக்காக ஒன்றுபட்டு உழைக்க விரும்பும் மக்களின் சந்திப்பான இந்தப் பொதுக் கூட்டம் “நிதர்சனம்” என்ற தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்டிருந்ததோடு, இந்த முதலாவது பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டனர்.
+President Ranil Wickremesinghe said that the policies of the United National Party are not in the United National Party and that the party is under the control of some, and that all the United National Party (UNP) calls for all the United National Party to save the country from debt and build a safe country for future generations.
 
-இங்கு உரையாற்றிய பின்னர் ஜனாதிபதி ரணில் விக்ரமசிங்க, மக்கள் மத்தியில் சென்று அவர்களுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்டார்.
+President Ranil Wickremesinghe made this statement while addressing the first general meeting of the United National Party held at the Kiliyapitiya Municipal Council ground yesterday afternoon.
+
+This public meeting, a meeting of the people who want to work together for the country, was organized under the theme "Nitarshanam" and a large number of people participated in the first rally.
+
+President Ranil Wickremesinghe went to the people and engaged in a speech with them.
 
 ...
 
 [Data](articles/15966d82.json)
+
+[Extended Data](ext_articles/15966d82.ext.json)
 
 ---
 
@@ -254,19 +270,25 @@ The process is carried out under the guidance of the Commander of the Army, Lieu
 
 ---
 
-### 400 கிலோ கஞ்சா தமிழகத்தில் மீட்பு
+### 400 kg of cannabis recovery in Tamil Nadu
 
 *2024-03-11 02:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/400-கிலோ-கஞ்சா-தமிழகத்தில்-மீட்பு/175-334481) · `ta`
 
-இலங்கைக்குக் கடத்துவதற்காக இறால் பண்ணையில் பதுக்கி வைக்கப்பட்டிருந்த 400 கிலோ கஞ்சா தமிழகத்தில் சிக்கியுள்ளது.
+Customs officials in Tamil Nadu confiscated 400 kg of cannabis from a shrimp farm near Meezel, suspected to be smuggled by a person involved in the SP starrer's abduction.
 
-தொண்டி கடல் வழியாக நாட்டுப் படகில்  இலங்கைக்குக் கடத்துவதற்காக மீமீசல் அருகே உள்ள இறால் பண்ணையில் பதுக்கி வைக்கப்பட்டிருந்த 400 கிலோ கஞ்சா  மூட்டைகளை திருச்சி மத்திய நுண்ணறிவு பிரிவு சுங்கத்துறை அதிகாரிகள் பறிமுதல் செய்துள்ளனர்.
+🟩
 
-இந்தக் கடத்தல் சம்பவத்தில் தொடர்புடைய எஸ்.பி பட்டினத்தைச் சேர்ந்த நபரைத் தீவிரமாகத் தேடி வருகின்றனர். (a)
+400 kg of cannabis in Tamil Nadu is trapped in Tamil Nadu.
+
+Customs officials have confiscated 400 kg of cannabis bundles stored at a shrimp farm near Meezel for smuggling in a country boat by the Tondi Sea.
+
+They are actively searching for a person from the SP starrer involved in the abduction. (A)
 
 ◼️
 
 [Data](articles/5b182f89.json)
+
+[Extended Data](ext_articles/5b182f89.ext.json)
 
 ---
 
@@ -1064,19 +1086,25 @@ Minister Harin Fernando also did not attend the rally attended by President Rani
 
 ---
 
-### ණුවන් තුෂාර මට මාලිංගව මතක් කළා
+### Thushara reminded me Malinga
 
 *2024-03-10 19:29:15* · [`adalk`](https://www.ada.lk/sports/ණුවන්-තුෂාර-මට-මාලිංගව-මතක්-කළා/9-408521) · `si`
 
-බංග්ලාදේශය හා පැවැති තෙවැනි විස්සයි20 තරගයේදී වේග පන්දු යවන ක්‍රීඩක ණුවන් තුෂාර දැක්වූ දක්ෂතාව තමන්ට ලසිත් මාලිංගව සිහපත් කළ බව ශ්‍රී ලංකා එක්දින නායක කුසල් මෙන්ඩිස් පවසයි.
+Thushara praises Malinga for his talent in Bangladesh's T20, highlighting his performance in the SA20 and his crucial role in the World Cup.
 
-"මම ඔහු ගැන ගොඩක් සතුටු වෙනවා,ලෝක කුසලානය ආසන්නයේ තිබියදී, අපේ පන්දු යවන්නන් බොහෝ දෙනෙක් දක්ෂතා දැක්වීම සතුටක්. ඔහු කලක සිට ලීග තරවල හොඳින් ක්‍රීඩා කරනවා. ඔහු දකුණු අප්‍රිකාවේ [SA20] ද හොඳින් ක්‍රීඩා කළා.
+🟩
 
-අපට ඔහුව අවශ්‍ය වූ විට කණ්ඩායම වෙනුවෙන් ඔහුගේ උපරිමය ලබා දීමට ඔහුට හැකි වූයේත් ඒ නිසයි. ඒ කඩුලු තුන නිසයි (ණුවන් තුෂාරගේ කඩුලු ත්‍රිත්වය) තරගය අපේ පැත්තට හැරුනේ. ඒකෙන් මට මතක් වුණේ මාලි අයියා [ලසිත් මාලිංග] පන්දු යැවූ ආකාරයයි."
+Sri Lanka ODI Kusal Mendis says he had made a fast bowler's talent in Bangladesh's third T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20.
+
+"I'm so glad about him, while near the World Cup, many of our bowlers are so good. He is well playing the league stars. He also played the [SA20] in South Africa.
+
+That is why he was able to give him his best when we needed him. It was because of three wickets. That reminds me of the way Mali brother [Lasith Malinga]. "
 
 ◼️
 
 [Data](articles/d63a8e07.json)
+
+[Extended Data](ext_articles/d63a8e07.ext.json)
 
 ---
 

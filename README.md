@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 18:09:21**
+As of **2024-03-11 18:21:10**
 
 ## Newspaper Stats
 
-*Scraped **12,187** Articles*
+*Scraped **12,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,039
-adaderanalk | 1,473
+adaderanalk | 1,474
 tamilmirrorlk | 1,487
-virakesarilk | 1,669
+virakesarilk | 1,671
 dailymirrorlk | 1,862
 adaderanasinhalalk | 1,927
 
@@ -26,29 +26,79 @@ adaderanasinhalalk | 1,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,181 (100.0%) of 12,187 articles have been extended.
+12,187 (100.0%) of 12,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### ටවුහිඩ්ට ICCයෙන් දඩයක්
+### US will continue to monitor legislative developments impacting human rights in Sri Lanka - envoy
+
+*2024-03-11 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97875/us-will-continue-to-monitor-legislative-developments-impacting-human-rights-in-sri-lanka-envoy) · `en`
+
+US Ambassador to Sri Lanka Julie Chung has asserted that the United States will continue to monitor legislative developments in Sri Lanka that could challenge its progress on human rights, reconciliation, and civic space.
+
+Taking to ‘X’ (formerly Twitter), the diplomat highlighted that the joint statement issued by the Core Group earlier this month at the 55th Session of the United Nations Human Rights Council (UNHRC), along with other statements made by local and international organizations, underscore shared concerns, notably that Sri Lanka’s much-disputed Online Safety Act could be used to criminalize a wide range of expression, suppress dissent, and undermine Sri Lanka’s digital economy.
+
+...
+
+[Data](articles/c17c5470.json)
+
+---
+
+### Tauad to the ICC fined
 
 *2024-03-11 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194390) · `si`
 
-බංග්ලාදේශ ක්‍රිකට් ක්‍රීඩක ටවුහිඩ් රිඩෝයි හට දඩ මුදලක් නියම කිරීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
+ICC fined Tauad 15% of the competition for the third and final Twenty Twenty Twenty Twenty Twenty Twenty World Cup match between Sri Lanka and Bangladesh. Nuwan Thushara scored a triple in his first overs, and Trouid Rido was bowled out as the second wicket.
 
-ඒ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති තුන්වන සහ අවසන් විස්සයි විස්ස ක්‍රිකට් තරගයේදී අශෝභන ලෙස හැසිරීම සම්බන්ධයෙනි.
+🟩
 
-මෙහිදී ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර ඇත්තේ තරග මුදලින් සියයට 15ක දඩ මුදලක් ඔහුගෙන් අයකරගැනීමටය.
+The International Cricket Council has decided to fix Bangladesh cricketer cricketer.
 
-තරගයේදී ශ්‍රී ලංකා ක්‍රීඩක නුවන් තුෂාර සිය පළමු පන්දුවාරයේදීම කඩුලු ත්‍රිත්වයක් දවාගැනීමට සමත්විය.
+It is in the third and final Twenty Twenty Twenty Twenty Twenty Twenty Twenty Third World Sri Lanka and Bangladesh.
 
-එම කඩුලු ත්‍රිත්වයේ දෙවන කඩුල්ල ලෙස ටවුහිඩ් රිඩෝයි දැවී යාමෙන් අනතුරුව ඔහු විසින් අශෝභන ලෙස හැසිරෙන අයුරු ජාත්‍යන්තර මාධ්‍ය වාර්තා කර තිබුණි.
+The International Cricket Council has decided to recover a fines of 15 percent of the competition.
+
+Sri Lanka Nuwan Thushara scored a triple at his first overs.
+
+The International Media reported how Trouid Rido was bowled out as the second wicket of the wickets.
 
 ◼️
 
 [Data](articles/0719b4ec.json)
+
+[Extended Data](ext_articles/0719b4ec.ext.json)
+
+---
+
+### மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்புக்கு எதிர்ப்புத் தெரிவித்து பேராட்டம்!
+
+*2024-03-11 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178457) · `ta`
+
+மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்புக்கு எதிர்ப்புத் தெரிவித்து சமூக ஆர்வலர்கள் குழுவொன்று திங்கட்கிழமை (11)   மத்திய வங்கிக்கு முன்பாக கவனயீர்ப்பு போராட்டம் ஒன்றை நடத்தியது.
+
+'சம்பளத்தை உயர்த்த வெட்கமில்லையா, கடற்கொள்ளையர்களை விட இவர்கள் பெரிய கொள்ளையர்கள், ரூபா உயர்ந்தது - நாடு சரிந்தது - சம்பளம் உயர்த்தப்பட்டது' போன்ற வாசகங்கள் அடங்கிய பதாகைகளை ஏந்தி  ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/db1070ab.json)
+
+---
+
+### தொல்லியல், பொலீஸ் திணைக்களங்களே நாட்டின் இன நல்லிணக்கத்திற்கு ஊறு விளைவிக்கின்றன - முன்னாள் எம்பி சந்திரகுமார்
+
+*2024-03-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178456) · `ta`
+
+யுத்தம் முடிவுக்கு வந்த பின்னர் நாட்டில் இனங்களுக்கிடையே இன நல்லிணக்கம் பற்றி சர்வதேச தரப்புக்கள் உட்பட உள்நாட்டிலும் அதிகம் வலியுறுத்தப்பட்டு வருகின்ற நிலையில் துரதிஸ்டவசமாக நாட்டின் தொல்லியல் மற்றும் பொலீஸ் திணை்களங்கள் அவற்றுக்கு ஊறு விளைவிக்கின்ற வகையில் தொடர்ச்சியாக செயற்பட்டுவருகின்றமை கவலைக்குரியது என முன்னாள் நாடாளுமன்ற உறுப்பினரும். சமத்துவக் கட்சியின் பொது செயலாளருமான மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+
+சிவராத்தி தினத்தில் வெடுக்குநாறி ஆதிசிவன் ஆலயத்தில் பொலீஸார் மேற்கொண்டு அடாவடித்தனமான செயற்பாடுகளை கண்டிக்கும் வகையில் அவர் வெளியிட்ட  அறிக்கையிலேயே இதனை தெரிவித்துள்ளார். அதில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது;
+
+சிவராத்திரி நிகழ்வு  சைவ மக்களின் மிக  முக்கிய நிகழ்வாகும், இந்த நாளில் மிகவும் பக்தி பூர்வமாக சிவ வழிபாட்டினை மேற்கொள்வதற்காக தங்களது பூர்வீக ஆலயத்திற்கு சென்ற தமிழ் மக்கள் மீதும் அங்கு பூசை வழிபாடுகளி்ல் ஈடுப்பட்டவர்கள் மீதும் பொலீஸார் காட்டுமிராண்டித்தனமாக
+
+...
+
+[Data](articles/d2399ec5.json)
 
 ---
 
@@ -360,23 +410,29 @@ That is, reports of the age, its age, the cause of death, and the cause of death
 
 ---
 
-### පානදුර සළිඳු බූස්ස බන්ධනාගාරයට
+### Panadura to Peeluwa Boobu Prison
 
 *2024-03-11 16:31:31* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-සළිඳු-බූස්ස-බන්ධනාගාරයට/11-408542) · `si`
 
-පානදුර ප්‍රධාන මහේස්ත්‍රාත් චම්පික රාජපක්ෂ මහතා ගේ නියෝගයකයට අනුව මාර්තු  25 දා දක්වා රිමාන්ඩ් බන්ධනාගාර ගතකරන ලද සෙල්ලපෙරුමගේ සළිඳු මල්ෂික ගුණරත්න නොහොත් පානදුර සලිඳු නැමැත්තා කළුතර බන්ධනාගාරයට රැගෙන ඒමෙන් පසු බූස්ස බන්ධනාගාරයට මාරුකර යැවූ බව බන්ධනාගාර ආරංචි මාර්ග සදහන් කරයි.
+Sellamula, remanded to Kalutara Prison, was transferred to Boossa Prison. Samarah Janumanya was moved to Malwatta Prison in Kalutara. Jaliya Samarasinghe, representing Sellamula, was threatened by Boossa Prison officials. The magistrate concluded Sellamula was in a secure prison.
 
-සළිදු මල්ෂික නැමැත්තා දැඩි ආරක්ෂක රැකවල් මධ්‍යයේ පානදුර මහේස්ත්‍රාත් අධ්කරණයේ  සිට කළුතර මල්වත්ත බන්ධනාගාරයට රැගෙන ගිය අතර , ඔහු බසයෙන් බස්සවා කළුතර බන්ධනාගාරයේ දොරටුව අභියසදී ලියාපදිංචි කිරිමෙන් පසු එම බන්ධනාගාර බස් රථයෙන්ම බූස්ස බලා කැටුව ගොස් තිබේ.
+🟩
 
-සැකකරු කළුතර සිට බූස්ස බලා රැගෙන යාමේදී බන්ධනාගාර නිලධාරීන්, විශේෂ කාර්ය බලකාය සහ යුද හමුදා බුද්ධි අංශ නිලධාරීන්ද ආරක්ෂාවට යොදවා සිටින බව වාර්තා වේ.
+According to Prison sources, Sellamula, who was remanded to the Kalutara Prison, was handed over to the Boossa Prison after he was handed over to the Boossa Prison.
 
-සිය සේවා දායකයා වන සලිඳු මල්ෂික නැමැත්තාට මරණීය තර්ජන පවතින බැවින් , බූස්ස බන්ධනාගාරය හැර වෙනත් සුදුසු බබන්ධනාගාරයක රඳවන ලෙස ඔහු වෙනුවෙන් පෙනී සිටි නීතිඥ ජාලිය සමරසිංහ මහතා අධිකරණයෙන් ඉල්ලා සිටියේය.
+Samarah Janumanya was taken to Malwatta Prison in the Kalutara Malwatta Prison in the Kalutara Malwatta Prison in the Kalutara Prison in Kalutara.
 
-එම කරුණු සලකා බැලූ මහේස්ත්‍රාත්වරයා නියෝග කලේ සැකකරු ආරක්ෂාව සහිත සුදුසු බන්ධනාගාරයක රඳවන ලෙසය.
+It is reported that the suspect has been deployed to protect the suspect from Kalutara to Boossa to protect.
+
+Attorney-at-Law Jaliya Samarasinghe appearing on behalf of him as a child except the Boossa Prison layers, as he had been thus threatened.
+
+After considering the facts, the magistrate ordered that the suspect was in a suitable prison with security.
 
 ◼️
 
 [Data](articles/3f33bb57.json)
+
+[Extended Data](ext_articles/3f33bb57.ext.json)
 
 ---
 
@@ -400,51 +456,71 @@ The minister added that gradually countries are realising that undertaking trade
 
 ---
 
-### කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානයේ තාප්පයක් කඩා ඉවත් කළ පිරිස් අත්අඩංගුවට ගන්නැයි විරෝධතාවක්
+### Protest against the arrest of a wall of the Slave Island Railway Station
 
 *2024-03-11 16:27:05* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-දුම්රිය-ස්ථානයේ-තාප්පයක්-කඩා-ඉවත්-කළ-පිරිස්-අත්අඩංගුවට-ගන්නැයි-විරෝධතාවක්/11-408541) · `si`
 
-කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානයේ තිබූ තාප්පයක් කඩා ඉවත් කළ පිරිස් අත්අඩංගුවට ගන්නා ලෙස ඉල්ලා දුම්රිය සේවකයන් විසින් අද පැවැත්වූ විරෝධතාවක් නිසා  මුහුදු බඩ මාර්ගයේ දුම්රිය ධාවන කටයුතු පැය දෙකක පමණ කාලයක් ප්‍රමාද විය.
+Protesters delayed railway services for 2 hours to protest the forcible demolition of a wall at Slave Island Railway Station. Workers claim the action was carried out by vessels in the area, leading to further investigations.
 
-මෙම  දුම්රිය ස්ථානයේ නිල නිවාස පිහිටි ප්‍රදේශයට, දුම්රිය ස්ථානයට හා දුම්රිය පරිශ්‍රයන් වෙත අනවසරෙන් ඇතුළුවීම  වළක්වාලීම සඳහා ඉදිකොට තිබූ තාප්පයක් කොටසක් එම ප්‍රදේශයේ ප්‍රද්ගලයන් කිහිප දෙනෙකු  විසින් බලහත්කාරයෙන් කඩා ඉවත් කළ බව දුම්රිය සේවකයෝ සඳහන් කරති.
+🟩
 
-දුම්රිය ස්ථානයේ දේපොළ කඩා දැමූ පිරිස අත්අඩංගුවට ගැනීමේ කටයුතු ප්‍රමාද වීමට එරෙහිව  හා එම පිරිස වහම අත්අඩංගුවට ගන්නා ලෙස ඉල්ලමින්  පැය දෙකක පමණ වේලාවක් දුම්රිය සේවකයෝ දුම්රිය ධාවන කටයුතුවලින් ඉවත්ව සිටියහ.දුම්රිය සේවකයන් මෙම ක්‍රියා මාර්ගය ආරම්භ කිරීමත් සමග  තාප්පයට හානි කළ  පිරිසෙන් කොටසක් කොම්පඤ්ඤ වීදීය පොලීසිය විසින් ඔවුන්ගේ භාරයට ගෙන ඒ සම්බන්ධයෙන් වැඩිදුර විමර්ශන කටයුතු ආරම්භ කළ අතර ඉන් පසුව මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ගමනාගමන කටයුතු සිදුකිරීමට දුම්රිය සේවකයෝ කටයුතු කළහ.
+Railway operation was delayed for about two hours, as a protest held today for the arrest of the wall of the Slave Island.
+
+Railway workers states that a wall was forcibly demolished by several of the vessels in the area.
+
+Railway employees have left train services to delay the arrest of the demolished and the arrest of the number of people.The train services were then conducted further investigations into the seller.
 
 ◼️
 
 [Data](articles/d0c46c50.json)
 
+[Extended Data](ext_articles/d0c46c50.ext.json)
+
 ---
 
-### වැටුප් වැඩිකරගත්තාට විරෝධතාවක්
+### Protest against increasing salaries
 
 *2024-03-11 16:23:30* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකරගත්තාට-විරෝධතාවක්/11-408540) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුවේ ‌නියුතු සේවක වැටුප් වැඩිකරගැනීමට එරෙහිව සිවිල් සංධාන කිහිපයක එකතුවෙන් අද (11) වීරොධතාවක් පැවැත්විනි.
+Civilian leaders protest against Central Bank of Sri Lanka's salary increase, threatening resignation if wages are not reduced.
 
-විඩිකල වැටුප් පහල නොදමන්නේ නම් ඔවුන් පවසන්නේ මහ බැංකු ඇතුළු නිළධාරීන් පිරිස සිය තනතුරු වලින් ඉල්ලා අස්වියයුතු බවයි.
+🟩
+
+A heroic of several civilian leaders was held today (11) with several civilian leaders against the increase in the salaries of the Central Bank of Sri Lanka.
+
+If the tirty wages are not down, they say that the central banks, including central banks, should resign from their posts.
 
 ◼️
 
 [Data](articles/95e80b8b.json)
 
+[Extended Data](ext_articles/95e80b8b.ext.json)
+
 ---
 
-### උඩරට වෙස් ඇදුම් කට්ටලය ලෝක උරුමයක් බවට පත් කිරීමට පියවර
+### Steps to make upcountry mask clothes a World Heritage Site
 
 *2024-03-11 16:19:08* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-වෙස්-ඇදුම්-කට්ටලය-ලෝක-උරුමයක්-බවට-පත්-කිරීමට-පියවර/11-408539) · `si`
 
-උඩරට වෙස් ඇඳුම් කට්ටලය ලෝක උරුමයක් බවට පත් කිරිමට පියවර ගන්නා බව බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්යල විදුර වික්රරමනායක මහතා සඳහන් කරයි.
+Minister Vidura Wickramamana plans to elevate Upcountry Masters to World Heritage status, aiming to preserve cultural heritage for future generations.
 
-උඩුගං බලා යන අපේ සංස්කෘතික උරුමය මතු පරපුරට දායාද කිරීමට සංස්කෘතික සංගායනාවක අවශ්යාය බවත්,සංගායනාව පැවැත්වීමට සූදානම් බවත්,දිස්ත්රි්ක් මට්ටමින් සහ ජාතික මට්ටමික් සංස්කෘතික සංගයනාව පැවැත්වීමට සමස්ත කලාකරුවන් ඒකරාශි වීම ඇවැසි ම කාලය එළඹී ඇතැයි ද අමාත්යකවරයා එහිදී පැවැසීය.
+🟩
 
-උරුමය උඩරට නර්තන  පුහුණු පර්යේෂණ කේන්ද්රැයේ 'උරුමයක අස්වැද්දුම' ජනගත කිරීමේ මහෝත්සවයට එක්වෙමින් ඊයේ (10) අමාත්යකවරයා මේ බව මාතලේ බෞද්ධ මන්දිරයේ දී කීවේය.
+Minister of Buddha Sasana Vidura Wickramamana said that steps will be taken to make up the Upcountry Masters into a World Heritage Site.
 
-'රට බංකොලොත් කියලා කියනවා.අපි රුපියල් සතවලින් බංකොලොත් වුනොත් ඒවා අපිට හොයාගන්න පුළුවන්. ඒත් සංස්කෘතිය බංකොලොත් වුන දවසට ඉතුරු වෙන්නේ දනින් වැටිච්ච මිනිස්සු විතරයි.'
+The Minister said that the time it would have come to assemble the entire artists to conduct the coalition of our cultural heritage for the next generation.
 
-...
+The inheritance was speaking at a 'Heartappadda Paper' to the Pradeshiya Sabha in the Kandyan Dance Training Street.
+
+"The country is bankrupt. If we bankrupt, we can find them. But the culture is the only ones who are left to the banking of the culture. '
+
+"Public workers' politicians should bear the process of procession. The present culture is waging. Boasts to the world about culture. But how much do you know about the culture? The culture is not to bring the politicians. Our artists are broken. The minister said, "We must get rid of pride and get rid of it."
+
+◼️
 
 [Data](articles/db90ab78.json)
+
+[Extended Data](ext_articles/db90ab78.ext.json)
 
 ---
 
@@ -572,19 +648,25 @@ In his book, Gotabhaya emphasizes that Defense Secretary Kamal Gunaratne and the
 
 ---
 
-### අධිවේගී මාර්ගයෙන් එස්.ටි.එෆ්  ඉවත්කර රක්නා ලංකා දමයි
+### Raknaana deals withdraws from Expressway and Rakna Lankapuvath
 
 *2024-03-11 15:53:06* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයෙන්-එස්-ටි-එෆ්--ඉවත්කර-රක්නා-ලංකා-දමයි/11-408538) · `si`
 
-අධිවේගී මාර්ගෙයේ සේවය කළ පොලිස් විශේෂ කාර්ය බළකා සෙබළුන් අද (11) සිට ඉවත්කර ඒ වෙනුවට රක්නා ලංකා පෞද්ගලික සමාගමේ නිලධාරීන් අනුයුක්ත කර ඇතැයි  මාර්ග සංවර්ධන අධිකාරියේ ප්‍රකාශකයෙක් පැවසීය.
+Raknaana withdraws from Expressway and Rakna Lankapuvath, following STF personnel removal. Road Development Authority (RDA) and Ministry of Defense informed of STF's role in highway expulsions.
 
-අධිවේගී මාර්ගවල සිදුවූ අනතුරුවලදී ගිනි නිවීමේ සහ ජීවිතය ගලවා ගැනීමේ කටයුතුවල නිරත පොලිස් විශේෂ කාර්ය බළකා සෙබළුන්  ඉවත් කරගන්නා බව මහජන ආරක්ෂක අමාත්‍යංශයේ ලේකම්වරයා  මාර්ග සංවර්ධන අධිකාරියට මීට මාස කිහිපයකට ඉහතදී ලිඛිතව දන්වා තිබිණි
+🟩
 
-මේ වන විට මුළු අධිවේගී මාර්ග කොට්ඨාසේම ගැලනිගම, සීදුව, කුරුඳුගහ හැතැක්ම, පින්නදූව හා සූරියවැව ආදී කඳවුරු පහක   පොලිස් විශේෂ කාර්ය බළකා සෙබළුන් 200කට ආසන්න ප්‍රමාණයක් සේවයේ යොදවා තිබුණි
+A spokesman for the Road Development Authority (RDA) said that the STF personnel who served on the expressway have been removed from today (11) and the officials of Rakna Lanka's private company said.
+
+The Secretary to the Ministry of Defense has informed the Road Development Authority a few months ago that the STF personnel who would take firefights and their lives in the expulsions of the highways.
+
+The total exhibition division in the Expressway Division has been deployed in five camps, Pennaduwa and Sooriyawewa and five policemen.
 
 ◼️
 
 [Data](articles/e979009c.json)
+
+[Extended Data](ext_articles/e979009c.ext.json)
 
 ---
 
@@ -2255,67 +2337,5 @@ From the corner of the stage, Cena peeked his head out and told Kimmel he didn�
 [Data](articles/1171a731.json)
 
 [Extended Data](ext_articles/1171a731.ext.json)
-
----
-
-### Sri Lanka Railways squatters to be leased land, charged tax
-
-*2024-03-11 10:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-railways-squatters-to-be-leased-land-charged-tax-154059/) · `en`
-
-ECONOMYNEXT – Squatters on lands belonging to Sri Lanka’s Railways Department will be leased the land after an assessment, Minister of Transport and Highways and Mass Media Bandula Gunawardena has said.
-
-The Railways Department owns the largest amount of land in the country.
-
-“I have obtained cabinet approval to have the land and property occupied by squatters for over 10 years assessed, and then sign a lease agreement with them,” Gunawardena was quoted as saying in a statement by the State Information Department.
-
-“All squatters who have been there less than 10 years will be prosecuted. Land grabbing now is useless.” Gunawardena was speaking at the inauguration of the Assistant Commercial Superintendent’s office in Nawalapitiya.
-
-“In future, this office will carry out all commercial activities on the lands owned by the Railways Department from Rambukkana to Matale and Badulla.
-
-...
-
-[Data](articles/26acb482.json)
-
-[Extended Data](ext_articles/26acb482.ext.json)
-
----
-
-### John Cena gives out costume design Oscar in his ‘birthday suit’
-
-*2024-03-11 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/John-Cena-gives-out-costume-design-Oscar-in-his-birthday-suit/107-278625) · `en`
-
-March 11- (CNN) John Cena bared it all at the Oscars on Sunday while presenting the award for best costume design.
-
-The actor appeared on stage during the telecast to present the award for best costume design hilariously appearing to wear nothing at all.
-
-No really, Cena appeared on the stage at the year’s most prestigious event in Hollywood… almost entirely naked.
-
-The show’s host Jimmy Kimmel set up the bit by sharing a little bit of Oscars history, nodding to the 1974 Academy Awards when a streaker ran across the stage. Kimmel jokingly said, “Can you imagine if a nude man ran across the stage today? Wouldn’t that be crazy?”
-
-From the corner of the stage, Cena peeked his head out and told Kimmel he didn’t want to “do the streaker bit anymore.”
-
-“It’s an elegant event. Honestly, you should feel ashamed right now for suggesting such a tasteless idea,” Cena complained. “The male body is not a joke!”
-
-...
-
-[Data](articles/ad5d99d5.json)
-
-[Extended Data](ext_articles/ad5d99d5.ext.json)
-
----
-
-### ’My name removed from speakers’ list’: Navin Dissanayake
-
-*2024-03-11 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/My-name-removed-from-speakers-list-Navin-Dissanayake/108-278624) · `en`
-
-Colombo, March 11 (Daily Mirror)- Former UNP National Organizer Navin Dissanayake said he did not participate in yesterday's meeting organized by his party as his name had been removed from the speaker's list.
-
-"I politely excused myself from the official UNP meeting as I was promised a speech but later found out that my name had been deleted. I wonder who is making these decisions on behalf of Party Leader Ranil Wickremesinghe. I will stand by the party but a man’s dignity should not be compromised," Dissanayake said in his X message.
-
-◼️
-
-[Data](articles/3b1bd0bd.json)
-
-[Extended Data](ext_articles/3b1bd0bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 11:33:25**
+As of **2024-03-11 11:52:38**
 
 ## Newspaper Stats
 
-*Scraped **12,089** Articles*
+*Scraped **12,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ colombotelegraphcom | 115
 bbccomsinhala | 141
 dbsjeyarajcom | 184
 newsfirstlk | 363
-economynextcom | 626
 dailyftlk | 628
+economynextcom | 631
 islandlk | 662
-adalk | 1,024
+adalk | 1,025
 adaderanalk | 1,463
-tamilmirrorlk | 1,473
-virakesarilk | 1,648
+tamilmirrorlk | 1,475
+virakesarilk | 1,649
 dailymirrorlk | 1,854
-adaderanasinhalalk | 1,908
+adaderanasinhalalk | 1,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,085 (100.0%) of 12,089 articles have been extended.
+12,089 (99.9%) of 12,099 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,84 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 ---
 
+### யாழில் நிமோனியாவால் இளைஞன் உயிரிழப்பு
+
+*2024-03-11 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178401) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி பகுதியைச் சேர்ந்த இளைஞன் ஒருவர்  நியூமோனியா காய்ச்சல் காரணமாக உயிரிழந்துள்ளார்.
+
+துன்னாலை வடக்கு, கரவெட்டியைச் சேர்ந்த முத்துலிங்கம் சிவதர்ஷன் (வயது 29) எனும் இளைஞனே உயிரிழந்துள்ளார்.
+
+வீட்டில் நேற்று ஞாயிற்றுக்கிழமை (10) திடீரென மயங்கி விழுந்த இளைஞனை வீட்டார் மீட்டு, பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்த நிலையில் இளைஞன் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/116316b3.json)
+
+---
+
+### ජල පරිභෝජනය පරිස්සමින්
+
+*2024-03-11 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194371) · `si`
+
+පවතින වියළි කාලගුණ තත්ත්වය හේතුවෙන් ජලය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+එම මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරී සංවර්ධන, අනෝජා කළුවාරච්චි මහත්මිය ප්‍රකාශ කළේ, වියළි කාලගුණ තත්ත්වය මාස දෙකකට අධික කාලයක් පවතින්නේ නම් ජලය මුර ක්‍රමයට ලබා දීමට සිදුවන බවය.
+
+කෙසේ වුවත් මේ වනවිට පවතින ජල මට්ටම ප්‍රමාණවත් බව ද පැවසු ඇය හැකි සෑම විටම ජලය අත්‍යාවශ්‍ය කටයුතු සඳහා පමණක් යොදාගන්නා ලෙස ද ඉල්ලීමක් කළාය.
+
+"අපේම ජල මුලාශ්‍රයක් වන කලටුවාව ජලාශ්‍රයේ ඉදිරි මාස දෙක සඳහා තව දින 65කට ජලය තියෙනවා සැපයුම කරන්න. ලබුගම ජලාශ්‍රයේ දින 105ක් සඳහා ජලය තියෙනවා. අපි හිතනවා වැසි ලැබෙයි කියලා. පාරිභෝගිකයින්ට ජල සැපයුම සීමා කිරීමක් කරලා නෑ. නමුත් ඇතැම් පාරිභෝගිකයින්ට ලැබෙන ජල ප්‍රමාණය අඩුවීමක් හෝ නොලැබීයෑමක් සිදුවුවහොත් පැය 24 පුරාම ක්‍රියාත්මක දුරකථන අංකය වන 1919 ට දැනුම්දීමක් කරන්න පුළුවන්. ඒ සඳහා විසඳුමක් ලබාදෙන්න අපි කටයුතු කරනවා. ඒ වගේම අත්‍යවශ්‍ය තැන්වලට බවුසර් මඟින් ජලය සපයා දිය හැකියි."
+
+◼️
+
+[Data](articles/637e8e62.json)
+
+---
+
+### 96th Oscar Award Ceremony: Here is the full details of the winners !!
+
+*2024-03-11 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
+
+The 96th Oscars, held at the Dolphi Theater, Los Angeles, saw "The Openhaimer" win Best Picture, directed by Christopher Nolan. Ima Stone won Best Actress for "Poor Things," and Nolan won Best Director. "The Boy and the Heron" took Best Animated Feature.
+
+🟩
+
+Oscar is the world's highest award in the film industry. Oscar Awards have been announced since 1929. Oscar is awarded in various categories including Best Film, Actor, Actress, Director and Composer.
+
+The 96th Oscar Awards were held at the Dolphi Theater in Los Angeles, USA.
+
+The film has been awarded 7 awards including Best Film, Actor, Supporter, Cinematography and Collection.
+
+Ju, who produced the atomic bomb of last year's Openhaimer movie starring Christopher Nolan. It was formed with the biography of Robert Openheimer.
+
+In the scenes of Hiroshima and Nagasaki in Japan, the Chilean Murphy was in the vicinity of the scenes that the world was destroyed and the world was destroyed.
+
+Openheimer has won the Oscar Award for Best Picture. Openheimer starrer Child Merbi directed by Christopher Nolan has won the Oscar.
+
+Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress Ima Stone has been awarded the Oscar for Best Actress for her performance in Poor Things.
+
+...
+
+[Data](articles/2925e8ba.json)
+
+[Extended Data](ext_articles/2925e8ba.ext.json)
+
+---
+
+### 22 இந்திய மீனவர்களுக்கு விளக்கமறியல்
+
+*2024-03-11 11:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/22-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/71-334492) · `ta`
+
+யாழ்ப்பாணம் - காரைநகர் கடற்பரப்பில் எல்லை தாண்டி மீன் பிடித்த குற்றச்சாட்டில் 09 ஆம் திகதி சனிக்கிழமை கைதான 22 மீனவர்கள் இலங்கை கடற்படையினரால் கைது செய்யப்பட்டனர்.
+
+பின்னர் 22 மீனவர்களும் ஊர்காவற்றுறை நீதவான் நீதிமன்ற நீதிவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் ஆஜர்படுத்தப்பட்டநிலையில் அவர்களை எதிர்வரும் 22 ஆம் திகதி வெள்ளிக்கிழமை வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/fa74a4bd.json)
+
+---
+
 ### ‘Harak Kata’ produced before courts
 
 *2024-03-11 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97865/harak-kata-produced-before-courts-) · `en`
@@ -64,27 +142,57 @@ The extradition process had been coordinated by the Sri Lankan High Commission i
 
 [Data](articles/dc483dc0.json)
 
+[Extended Data](ext_articles/dc483dc0.ext.json)
+
 ---
 
-### රාවණාට ගිණි තැබුවේ කවුරුන්ද ?
+### Who was fire to Rawana?
 
 *2024-03-11 11:08:27* · [`adalk`](https://www.ada.lk/breaking_news/රාවණාට-ගිණි-තැබුවේ-කවුරුන්ද--/11-408531) · `si`
 
-ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ටාශයට අයත්   රාවණා ඇල්ල අභය භුමියේ   ගෝවුස්ස රක්ෂිතය ඇතුලු බදුල්ල දිස්ත්‍රික්කයේ  රක්ෂිත පහකට පමණ    ඉයේ (10)   දිනය තුල  කිසියම් පිරිසක් විසින්   ගිණී තැබීම්  සිදුකර ඇති අතර අද (11) උදෑසන වන විට එම සියලු ගිනිතැබීම් මුලුමනින්ම පාලනය කර ඇතැයි   බදුල්ල දිස්ත්‍රික් ආපදා කළමණාකරණ මධ්‍යස්ථානය පවසයි.
+Fire damaged 20 acres of the Govastha reserve in the Ella Abhaya Forest Reserve, with efforts by the Badulla District Disaster Management Assistant Director to control the fires in collaboration with local residents.
 
-ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ටාශයට අයත්   රාවණා ඇල්ල අභය භුමියේ   ගෝවුස්ස රක්ෂිතයට, මොරේතොට වසමට අයත් හූරියල කන්ද රක්ෂිතයට පස්සර  ගෝනකැලේ වතුයායට ඉහලින් පිහිටි පයිනස් වගාවට, උඩුවර වසමේ රොසට්වත්ත ප්‍රදේශයට  මෙලෙස ගිණී තැබීම් සිදුකර ඇත.
+🟩
 
-කෙසේ වෙතත් මෙම ගිනි ගැනීම් වාර්තා වූ වහාම බදුල්ල දිස්ත්‍රික් ආපදා කළමණාකරණ සහකාර අධ්‍යක්ෂ ඊ එල් එම් උදය කුමාර    මහතාගේ උපදෙස් හා මග පෙන්වීම මත එම ප්‍රදේශයන්හි වන ජීවී නිලධාරීන්, වන සංරක්ෂණ නිලධාරීන් හා ‍ප්‍රදේශයේ සිවිල් සංවිධාන ප්‍රදේශවාසීන් හා එක්ව එම ගිනි ගැනීම් පාලනය කිරීමට පියවර ගෙන ඇත.
+Ella Divisional reserve has been launched by the Govana Fall Sarwatha Reserve belonging to the Ella Divisional Secretariat.says.
 
-...
+The Gonucale of the Gonakele Estate in the Moratota area has been launched in the Uduwara Division of the Govuala Kanda of the Earth Division of the Ella Divisional Secretariat.
+
+However, due to these fires, Badulla District Disaster Management Assistant Director of the Badulla District Disaster Management Assistant has taken steps to control the fires in collaboration with the residents of the area.
+
+Due to the spread of the day, 20 acres of the Govastha reserve was damaged in the Ella Abhaya Forest Reserve and today (11).
+
+The fire has been able to control the fire while the fire is spread.
+
+◼️
 
 [Data](articles/b2bcbeff.json)
+
+[Extended Data](ext_articles/b2bcbeff.ext.json)
+
+---
+
+### நிர்வாணமாக மேடை ஏறிய ஜோன் சீனா (காணொளி)
+
+*2024-03-11 11:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நிர்வாணமாக-மேடை-ஏறிய-ஜோன்-சீனா-காணொளி/50-334491) · `ta`
+
+96-வது 'ஆஸ்கார்' திரைப்பட விருது வழங்கும் விழா இடம்பெற்றுள்ள  நிலையில்  அதில் சிறந்த ஆடை வடிவமைப்பிற்கான விருதை யார் வெல்வார் என அறிவிப்பதற்கு, நடிகர் ஜோன் சீனா மேடை  ஏறியுள்ளார் .
+
+இளைஞர்கள் மற்றும் பெரியவர்கள் மத்தியில் பிரபலமடைந்துள்ள  ஹாலிவுட் நடிகரும்  , WWE  குத்துச்சண்டை வீரருமான , 46 வயதுடைய   ஜோன் சீனா  நிர்வாணமாக மேடைக்கு வந்துள்ளதுடன்  இது அனைவருக்குமிடையில்  பெரும்  சர்ச்சையை  ஏற்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/59f235c9.json)
 
 ---
 
 ### John China (Video)
 
 *2024-03-11 11:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-மேடை-ஏறிய-ஜோன்-சீனா-காணொளி/175-334491) · `ta`
+
+John China, a Hollywood actor and WWE boxer, 46, announced the Best Clothing Award winner at the 96th Oscar Film Awards, appearing naked and sparking controversy.
+
+🟩
 
 Actor John China has climbed the stage to announce who will win the Best Clothing Award, with the 96th Oscar Film Awards.
 
@@ -119,6 +227,26 @@ From the corner of the stage, Cena peeked his head out and told Kimmel he didn�
 [Data](articles/1171a731.json)
 
 [Extended Data](ext_articles/1171a731.ext.json)
+
+---
+
+### Sri Lanka Railways squatters to be leased land, charged tax
+
+*2024-03-11 10:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-railways-squatters-to-be-leased-land-charged-tax-154059/) · `en`
+
+ECONOMYNEXT – Squatters on lands belonging to Sri Lanka’s Railways Department will be leased the land after an assessment, Minister of Transport and Highways and Mass Media Bandula Gunawardena has said.
+
+The Railways Department owns the largest amount of land in the country.
+
+“I have obtained cabinet approval to have the land and property occupied by squatters for over 10 years assessed, and then sign a lease agreement with them,” Gunawardena was quoted as saying in a statement by the State Information Department.
+
+“All squatters who have been there less than 10 years will be prosecuted. Land grabbing now is useless.” Gunawardena was speaking at the inauguration of the Assistant Commercial Superintendent’s office in Nawalapitiya.
+
+“In future, this office will carry out all commercial activities on the lands owned by the Railways Department from Rambukkana to Matale and Badulla.
+
+...
+
+[Data](articles/26acb482.json)
 
 ---
 
@@ -190,6 +318,22 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 
 ---
 
+### ජනපතිවරණයේදී සහාය දෙන්න තොණ්ඩමන්ලාගෙන් රනිල්ට ඉල්ලීම් තුනක්
+
+*2024-03-11 10:46:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයේදී-සහාය-දෙන්න-තොණ්ඩමන්ලාගෙන්-රනිල්ට-ඉල්ලීම්-තුනක්/11-408528) · `si`
+
+ඉදිරියේ පැවැත්වෙන ජනාධිපතිවරණයේදී සහාය දෙන්නේ කුමන අපේක්ෂකයාටද යන්න පිළිබඳව ලංකා කම්කරු කොංග්‍රසයේ ජාතික සභාව  එකතුව ඉදිරියේදී තීරණයක් ගනු ලබන බවත්, වත්මන් ජනාධිපති  රනිල්  වික්‍රමසිංහ මහතාට  ඉදිරිපත් කොට ඇති ඉල්ලීම් ඉටු කළහොත් හා ඔහු   ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වුවහොත්  ඔහුට සහාය පළ කිරීමේ හැකියාව පවතින  බවත් ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම්, ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා පැවැසීය.
+
+මේ වනවිට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට තම පක්ෂය විසින් ඉල්ලීම් තුනක් ඉදිරිපත් කොට ඇති බවත්, ඒ සඳහා ලබා දෙන විසඳුම් අනුව ඉදිරියේදී ඔහු ජනාධිපතිවරණයට ඉදිරිපත් වුවහොත් ඔහුට සහාය පල කිරීම පිළිබඳව ලංකා කම්කරු කොංග්‍රසයේ ජාතික සභාව  විසින් තීරණයක් ගනු ඇති බවද හෙතම කීය.
+
+කොටගල ලංකා කම්කරු කොංග්‍රස් මුලස්ථානයේ ඊයේ (10) පැවැති ලංකා කම්කරු කොංග්‍රසයේ කාන්තා දින සමුළුවේ  ප්‍රධාන ආරාධිතයා ලෙස එක්ව සිටි අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා මේ බව පැවැසීය.
+
+...
+
+[Data](articles/6ba42371.json)
+
+---
+
 ### SLPP expresses concerns over President’s direct dealing with individual MPs
 
 *2024-03-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-expresses-concerns-over-Presidents-direct-dealing-with-individual-MPs/108-278622) · `en`
@@ -230,6 +374,8 @@ The SLPP raised similar concerns on a previous occasion too in this regard
 
 [Data](articles/38ab228c.json)
 
+[Extended Data](ext_articles/38ab228c.ext.json)
+
 ---
 
 ### Change from normal judicial practice observed in two appeal cases
@@ -252,21 +398,27 @@ The accused Sirisena, dissatisfied with the judgment of Magistrate Nissanka, fil
 
 ---
 
-### අමුතු පාඩමක් ඉගැන්නූ ගුරුවරයා
+### Teacher who taught a strange lesson
 
 *2024-03-11 10:38:57* · [`adalk`](https://www.ada.lk/breaking_news/අමුතු-පාඩමක්-ඉගැන්නූ-ගුරුවරයා/11-408527) · `si`
 
-බියගම පුදේශයේ උසස් පාසලක සිසුවියක් රවටා ලිංගික අතවරයක් සිදු කළ බව කියන  එම පාසලේම ගුරුවරයකු බියගම පොලිසිය මගින්  අත් අඩංගුවට ගෙන ඇත. මේ අතවරයට ලක්වු සිසුවිය 13 වන වසර පන්තියේ අධ්‍යාපනය ලබන 18 වන වියේ පසුවන බියගම ප්‍රදේශයේම ළමා සංවර්ධන මධ්‍යස්ථානයක නේවාසිකව සිටින දැරියක්  වන අතර එම ගුරුවරයා 46  වන වියේ පසුවන විවාහකයෙකි.
+A teacher in Biyagama was arrested for allegedly marrying a 13-year-old student. The student, a 46-year-old woman, was taken to the school's technology room to write names for sports competitions. The teacher is now in court. Biyagama Police are investigating.
 
-ඉකුත් බුහස්පතින්දා ( 07 වැනිදා ) පාසල් කාලයේදී මේ සැකකාර ගුරුවරයා විසින් ක්‍රීඩා තරගවල සිටින සිසුන්ගේ නම් ලියා ගැනීමට බවට පවසමින් එම සිසුවිය පාසලේ තාක්ෂණ කාමරය තුලට ගෙන්වා  මෙම සිදුවීම සිදු කර ඇත.
+🟩
 
-අත් අඩංගුවට ගන්නා ලද සැකකාර ගුරුවරයා  මහර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට කටයුතු කර ගෙන යයි.
+A teacher has been arrested by the Biyagama Police, who was said to marry a student in a high school in the Biyagama area.. The student who was abused in the 13th year-old class education is a young girl in the Biyagama area, which is a 46-year-old married manner.
 
-මේ සිද්ධිය සම්බන්ධව බියගම පොලිස් ස්ථානාධිපති පුධාන පොලිස් පරික්ෂක අජිත් විජේසිංහ මහතාගේ උපදෙස් අනුව විවිධ පැමිණිළි විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරික්ෂක එරන්ද සහ  ළමා හා කාන්තා කාර්යාංශයේ ස්ථානාධිපතිනි පොලිස් පරික්ෂීකා ප්‍රබෝදනි යන නිලධාරීහු තවදුරටත් පරික්ෂණ පවත්වා ගෙන යති.
+During the time of schools, the student had taken into the school's technology room, claiming to write the names of students in the sports competitions at the school.
+
+The arrested suspect teacher is being produced before the Mahara Magistrate's Court.
+
+According to the instructions of Biyagama Police OIC, Chief Inspector General of Police Inspects Investigation Division, the OIC of the Investigation Division, and the OIC of the Women's and Women's Bureau, police officers continue to investigate.
 
 ◼️
 
 [Data](articles/d3bedc54.json)
+
+[Extended Data](ext_articles/d3bedc54.ext.json)
 
 ---
 
@@ -299,6 +451,10 @@ He concluded: "We made a film about the man who created the atomic bomb, and for
 ### Notices to 1000 companies that are not taxed
 
 *2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்/175-334490) · `ta`
+
+Sri Lanka's IRD notifies 1000 companies with no tax arrears over 160 billion, demanding payment within six months or asset confiscation. Some companies agree to asset confiscation, discussing recovery of arrears. Taxpayers include liquor, hotels, and real estate companies.
+
+🟩
 
 Sri Lanka's Internal Revenue Department (IRD) has sent notifications to 1000 companies that do not pay more than 160 billion tax arrears.
 
@@ -365,36 +521,6 @@ Nihal Talduwa says that the red announcement of the international arrest of crim
 [Data](articles/bac59e82.json)
 
 [Extended Data](ext_articles/bac59e82.ext.json)
-
----
-
-### 96th Oscar Award Ceremony: Here is the full details of the winners !!
-
-*2024-03-11 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
-
-The 96th Oscars, held at the Dolphi Theater, Los Angeles, saw "The Openhaimer" win Best Picture, directed by Christopher Nolan. Ima Stone won Best Actress for "Poor Things," and Nolan won Best Director. "The Boy and the Heron" took Best Animated Feature.
-
-🟩
-
-Oscar is the world's highest award in the film industry. Oscar Awards have been announced since 1929. Oscar is awarded in various categories including Best Film, Actor, Actress, Director and Composer.
-
-The 96th Oscar Awards were held at the Dolphi Theater in Los Angeles, USA.
-
-The film has been awarded 7 awards including Best Film, Actor, Supporter, Cinematography and Collection.
-
-Ju, who produced the atomic bomb of last year's Openhaimer movie starring Christopher Nolan. It was formed with the biography of Robert Openheimer.
-
-In the scenes of Hiroshima and Nagasaki in Japan, the Chilean Murphy was in the vicinity of the scenes that the world was destroyed and the world was destroyed.
-
-Openheimer has won the Oscar Award for Best Picture. Openheimer starrer Child Merbi directed by Christopher Nolan has won the Oscar.
-
-Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress Ima Stone has been awarded the Oscar for Best Actress for her performance in Poor Things.
-
-...
-
-[Data](articles/2925e8ba.json)
-
-[Extended Data](ext_articles/2925e8ba.ext.json)
 
 ---
 
@@ -555,6 +681,26 @@ In the scenes of Hiroshima Nagasaki in Japan, he was in the vicinity of the citi
 [Data](articles/9edb5d54.json)
 
 [Extended Data](ext_articles/9edb5d54.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 307.00/20 to the US dollar
+
+*2024-03-11 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-307-00-20-to-the-us-dollar-154023/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 307.00/20 to the US dollar in the spot forex market Monday, stronger from 307.30/40 Thursday, dealers said, while bond yields were slightly up.
+
+A bond maturing on 01.08.2026 was quoted at 10.90/11.00 percent from 10.85/11.00 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 12.00/10 percent.
+
+A bond maturing on 01.07.2028 was quoted at 12.20/35 percent from 12.20/40 percent.
+
+The Colombo Stock Exchange opened up; the All Share Price Index was up 0.39 percent at 11,088, the S&P SL20 was up 0.42 percent at 3,160. (Colombo/Mar11/2024)
+
+◼️
+
+[Data](articles/af52eed2.json)
 
 ---
 
@@ -960,6 +1106,26 @@ Xiteb Pvt Ltd, (https://xcommerz.com/) an award-winning web and mobile software 
 
 ---
 
+### Sri Lanka central bank net assets fall to Rs11bn in Dec 2023
+
+*2024-03-11 07:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-net-assets-fall-to-rs11bn-in-dec-2023-153979/) · `en`
+
+ECONOMYNEXT – The net assets of Sri Lanka’s central bank fell to 11.1 billion rupees in December 2023 from 25 billion rupees a month earlier, according to the valuation method used, official data show.
+
+The reason for the December fall, whether it was due to administration expenses being charged or valuation losses is not clear.
+
+In January equity increased to 59 billion rupees with more profits being made.
+
+In the first three quarters of 2023 Sri Lanka’s central bank made large profits from high yielding domestic assets it had acquired in the course of triggering a record balance of payments deficit and a sovereign default.
+
+In September, bills were turned into bonds with coupons below market, resulting in large valuation losses.
+
+...
+
+[Data](articles/bf13c8b4.json)
+
+---
+
 ### CCI signs MoU with Tatarstan Republic of Russia
 
 *2024-03-11 07:02:00* · [`islandlk`](http://island.lk/cci-signs-mou-with-tatarstan-republic-of-russia/) · `en`
@@ -1153,6 +1319,26 @@ Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’
 [Data](articles/3c54da08.json)
 
 [Extended Data](ext_articles/3c54da08.ext.json)
+
+---
+
+### Opposition wanted meeting with Sri Lanka bondholders, not IMF: Harsha
+
+*2024-03-11 06:29:00* · [`economynextcom`](https://economynext.com/opposition-wanted-meeting-with-sri-lanka-bondholders-not-imf-harsha-153990/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main opposition Samagi Jana Balawegaya asked for a meeting with bondholders with whom restructuring talks are underway and not the International Monetary Fund, which was offered by President Ranil Wickremesinghe, a legislator said.
+
+Opposition legislator Harsha de Silva said he asked in parliament for a meeting with bond holders in the presence of President Wickremesinghe, since any deal made by the current administration will commit the opposition which come to power.
+
+If Sri Lanka strikes a deal with foreign bond holders which cannot be implement, the country can go for a second default, he said.
+
+“What I said was that to come to an agreement with bond holders in a transparent way with the agreement of opposition parties,” De Silva said.
+
+“What was meant was not for the agreement to be brought parliament and approved by the 113 majority saying everyone is agreed.
+
+...
+
+[Data](articles/3124849c.json)
 
 ---
 
@@ -1995,199 +2181,5 @@ There is a sustainable solution in setting up a licenced specialised national ba
 [Data](articles/02545d02.json)
 
 [Extended Data](ext_articles/02545d02.ext.json)
-
----
-
-### Army returns over 100 acres of land to rightful owners in Jaffna
-
-*2024-03-10 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-returns-over-100-acres-of-land-to-rightful-owners-in-Jaffna/108-278566) · `en`
-
-Jaffna, March 10 (Daily Mirror) - The government returned a total of 109.56 acres of land, previously occupied by the military, to the rightful owners in the Jaffna peninsula today.
-
-The Sri Lanka Army said that this marks the 24th consecutive release of lands.
-
-The returned lands include five plots in the Jaffna District and seven in the Kilinochchi District.
-
-Currently, only 0.5% of lands remain occupied by the military, deemed essential for maintaining normalcy and security in the area.
-
-This release of lands is part of an ongoing effort by the Sri Lankan government to return occupied lands to their rightful owners, under the guidance of the Commander of the Army, Lieutenant General Vikum Liyanage, and the supervision of the Commander of the Security Forces - Jaffna, Major General Chandana Wickramasinghe.
-
-Sagala Ratnayake, the Chief of Staff to the President and National Security Advisor, participated in this event as the Chief Guest.
-
-◼️
-
-[Data](articles/a91d97c2.json)
-
-[Extended Data](ext_articles/a91d97c2.ext.json)
-
----
-
-### How to be taken up early in Canada
-
-*2024-03-10 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194357) · `si`
-
-A Sri Lankan family in Canada reported a murder at a ceremony. The suspect, a 19-year-old, was hung and decorated with a birthday cake. The family said he had a cheese cake for his birthday. Canada's High Commissioner Harsha Navaratne mentioned involvement of relatives in the investigation. A memorial was held for the victim.
-
-🟩
-
-A view visiting was reported at a ceremony for a few days ago in the family of Sri Lankans family in Canada.
-
-The main suspect in the murder was the 19th birthday of the 19th birthday.
-
-His birthday was hanged and beautifully decorated with this murder.
-
-The Danushka's family said that he had a will to eat cheese cake on that day and that he had provided cheese cake to him.
-
-Meanwhile, Canada's High Commissioner Harsha Navaratne says that the relatives of the Sri Lankan's family members have been involved in the next few days.
-
-Baruwan was organized yesterday for the victims.
-
-◼️
-
-[Data](articles/2815f191.json)
-
-[Extended Data](ext_articles/2815f191.ext.json)
-
----
-
-### Forget the old things, including the United People's Power - and join us - President Ranil
-
-*2024-03-10 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178377) · `ta`
-
-President Ranil Wickremesinghe urges everyone, including the United People's Power, to unite for economic recovery. Despite initial predictions of a 5-year recovery, progress has been made. Public servants receive 10,000 rupees, and relief is provided to 24 lakh families. New bills aim to empower women, and steps are taken to provide land and relief to 50,000 houses in Colombo. The president thanks supporters and addresses the United National Party's split in the 2020 election, emphasizing the need for unity to progress the country.
-
-🟩
-
-Everyone, including the United People's Power, should come forward to forget about old things.
-
-President Ranil Wickremesinghe said all of us should come together to build the economy of this country.
-
-And everyone thought it would take up to 5 years to restore the country that had reached the bank. But in a short time, we have been able to.
-
-He was speaking at a people's rally held at the Kuliyapidi Municipal Council Complex on Sunday (10).
-
-People are currently in the hardest period. So I came to this place to report that everyone should come forward to bring the country to the forefront of the short political issues.. The country, which was in the state of bankruptcy, has now begun to recover from it. The upcoming May. We are going to sign up with borrowed countries by June. By this they will accept that our country is a bank.
-
-...
-
-[Data](articles/19a9b749.json)
-
-[Extended Data](ext_articles/19a9b749.ext.json)
-
----
-
-### Highlights from 2024 IORA Day...
-
-*2024-03-10 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Highlights-from-2024-IORA-Day/110-278565) · `en`
-
-The 2024 Indian Ocean Rim Association (IORA) Day was held yesterday at the Galle Face, grounds with the participation of diplomatic missions of member countries, partner states and a large number of school students from all provinces of the island. The theme for 2024 IORA Day is 'A Sustainable Indian Ocean for the Future Generation'. The commemoration was held under the chairmanship of President Wickremesinghe. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/7ce4db0f.json)
-
-[Extended Data](ext_articles/7ce4db0f.ext.json)
-
----
-
-### UNP holds first public rally in Kuliyapitiya
-
-*2024-03-10 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/UNP-holds-first-public-rally-in-Kuliyapitiya/110-278564) · `en`
-
-The first public rally of the United National Party (UNP) was held in Kuliyapitiya with the participation of President Ranil Wickremesinghe. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/43155bf1.json)
-
-[Extended Data](ext_articles/43155bf1.ext.json)
-
----
-
-### “My name has been cut from the list”
-
-*2024-03-10 19:30:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-பெயர்-பட்டியலில்-இருந்து-வெட்டப்பட்டுள்ளது/175-334466) · `ta`
-
-Naveen Dissanayake, Governor of Sabaragamuwa Province, was removed from the UNP rally's speaker list in Kiliyapitiya. He expressed surprise and concern over the decision, emphasizing the importance of dignity. Minister Harin Fernando also missed the event.
-
-🟩
-
-Governor of Sabaragamuwa Province Naveen Dissanayake has said that his name has been removed from the list of speakers at the UNP rally in Kiliyapitiya.
-
-“From the @Officialunp meeting today I was humbly withdrawn because I was promised a speech, and then I knew my name was cut.It is surprising who will make these decisions on behalf of @RW_unp.I will stand in favor of the party, but one's dignity should not be affected, ”Naveen Dissanayake tweeted on his Twitter page.
-
-Minister Harin Fernando also did not attend the rally attended by President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/5269e8ef.json)
-
-[Extended Data](ext_articles/5269e8ef.ext.json)
-
----
-
-### Thushara reminded me Malinga
-
-*2024-03-10 19:29:15* · [`adalk`](https://www.ada.lk/sports/ණුවන්-තුෂාර-මට-මාලිංගව-මතක්-කළා/9-408521) · `si`
-
-Thushara praises Malinga for his talent in Bangladesh's T20, highlighting his performance in the SA20 and his crucial role in the World Cup.
-
-🟩
-
-Sri Lanka ODI Kusal Mendis says he had made a fast bowler's talent in Bangladesh's third T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20 T20.
-
-"I'm so glad about him, while near the World Cup, many of our bowlers are so good. He is well playing the league stars. He also played the [SA20] in South Africa.
-
-That is why he was able to give him his best when we needed him. It was because of three wickets. That reminds me of the way Mali brother [Lasith Malinga]. "
-
-◼️
-
-[Data](articles/d63a8e07.json)
-
-[Extended Data](ext_articles/d63a8e07.ext.json)
-
----
-
-### STF seize Rs.1.1 Mn worth counterfeit fags from Ampara bus stand
-
-*2024-03-10 19:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-seize-Rs-1-1-Mn-worth-counterfeit-fags-from-Ampara-bus-stand/108-278563) · `en`
-
-Colombo, March 10 (Daily Mirror) -  A large stock of counterfeit cigarettes worth over Rs.1.1 million, which is suspected to have been smuggled into the country through sea routes, was seized by the Police Special Task Force (STF) from the Ampara bus stand today.
-
-The STF on a tip off searched the vendors and kiosks at Ampara bus stand and found 115 cartons of the foreign brand of cigarettes, of which the sale and consumption is prohibited in Sri Lanka.
-
-According to police, the 115 cartons of cigarettes contained 1,150 packets that were packed with 23,000 sticks valued at Rs.50 each and is sold at between Rs. 60 to Rs. 80 per stick.
-
-Two men who possessed the stock of illicit cigarettes were taken into custody. They were from Pimburattewa and Moneragala areas.
-
-The sleuths from the Ampara STF Camp had handed over the suspects along with the illicit items to the Ampara Police for further inquiries.
-
-◼️
-
-[Data](articles/0647f998.json)
-
-[Extended Data](ext_articles/0647f998.ext.json)
-
----
-
-### The speech made by President addressing the rally
-
-*2024-03-10 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194356) · `si`
-
-President Ranil Wickremesinghe addressed the first election rally at Kuliyapitiya, marking his first public appearance since assuming office.
-
-🟩
-
-The first election rally rally was held at Kuliyapitiya this afternoon to target the next election.
-
-The rally of the "true" rally began this afternoon under the patronage of President Ranil Wickremesinghe.
-
-This is the first time that the President has first been appointed as his post.
-
-◼️
-
-[Data](articles/e3fe0855.json)
-
-[Extended Data](ext_articles/e3fe0855.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 01:18:00**
+As of **2024-03-12 01:33:41**
 
 ## Newspaper Stats
 
-*Scraped **12,243** Articles*
+*Scraped **12,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 629
 economynextcom | 642
 islandlk | 663
 adalk | 1,046
-adaderanalk | 1,482
+adaderanalk | 1,483
 tamilmirrorlk | 1,491
 virakesarilk | 1,682
 dailymirrorlk | 1,870
@@ -26,27 +26,53 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,242 (100.0%) of 12,243 articles have been extended.
+12,243 (100.0%) of 12,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### හිමි නම ඝාතන සිද්ධියේ වෙඩික්කරු පොලිස් වෙඩි ප්‍රහාරයෙන් මරුට
+### Suspect arrested over murder of Buddhist monk killed in police fire
+
+*2024-03-12 01:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97883/suspect-arrested-over-murder-of-buddhist-monk-killed-in-police-fire) · `en`
+
+The suspect arrested in connection with the killing of a Buddhist monk at a temple in Malwathuhiripitiya has been gunned down by police while attempting to escape custody, police said.
+
+The suspect had been escorted by officers to recover weapons allegedly hidden in the Yatawaka area in Attanagalla when he had attempted to escape prompting the policemen to open fire, according to police.
+
+Police yesterday arrested the suspect who is believed to be the shooter in the murder of a Buddhist monk, who was shot dead at a temple in the Malwathuhiripitiya area in January.
+
+The suspect, 32, was arrested in the Hambegama area in Moneragala while he is suspected to be the gunman who carried out the shooting.
+
+In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
+
+...
+
+[Data](articles/2f8a3044.json)
+
+---
+
+### Shooter shot dead in police murder case
 
 *2024-03-12 00:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194398) · `si`
 
-ගම්පහ මල්වතුහිරිපිටිය විහාරස්ථානයකදී හිමි නමක් ඝාතනය කිරීමේ සිද්ධියට අත්අඩංගුවට ගත් වෙඩික්කරු පොලිස් වෙඩි ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව තිබේ.
+In Gampaha, a suspect shot by police while trying to escape arrest for a January shooting at Kahanarama Vidyalaya was found dead. Arrested after a tip, the suspect was attempting to find hidden resigns in Attanagalla.
 
-සැකකරු අත්තනගල්ල යටවක ප්‍රදේශයේ සැඟවූ ආයුද සොයාගැනීම සඳහා ගොස් සිටියදී පළායාමට උත්සාහ දරා ඇති අතර එහිදී පොලීසිය සිදුකළ වෙඩිතැබීමකින් සැකකාර වෙඩික්කරු මියගොස් ඇත.
+🟩
 
-ගම්පහ මල්වතුහිරිපිටිය, කහටාන ශ්‍රී ඝනාරාම විහාරස්ථානයේ වැඩ විසූ හිමිනමක් පසුගිය ජනවාරි 23 වනදා වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු ලෙස සැකකෙරෙන මෙම පුද්ගලයාව මොණරාගල හම්බේගමුව ප්‍රදේශයේදී අත්අඩංගුවට ගත්තේය.
+The shooter who was arrested in a Malwathuhiduwa, Gampaha has died in a police bullet.
 
-සැකකටයුතු පුද්ගලයෙකු ප්‍රදේශයේ සිටින බවට හම්බෙගමුව පොලිස් ස්ථානයේ බුද්ධි අංශ නිලධාරීන් වෙත ලද තොරතුරක් අනුව සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+The suspect had attempted to escape the shooting of the police while he was going to find hidden resigns in Attanagalla.
+
+The victim was arrested as a shot of the shot of Kahanarama Vidyalaya in Malawana, Gampaha last January.
+
+The suspect was arrested following a tip off received by the Hambegamuwa Police Station as a suspicious person in the area.
 
 ◼️
 
 [Data](articles/5ff4f854.json)
+
+[Extended Data](ext_articles/5ff4f854.ext.json)
 
 ---
 
@@ -2305,29 +2331,5 @@ The businessmen calling the relevant authorities to be taken to the other suicid
 [Data](articles/b657a127.json)
 
 [Extended Data](ext_articles/b657a127.ext.json)
-
----
-
-### Relanewen for Gorroil
-
-*2024-03-11 14:31:04* · [`adalk`](https://www.ada.lk/breaking_news/ගොරිල්ලාට-බය-නෙවුනු-රිලවුන්/11-408536) · `si`
-
-Bogawantalawa residents and businesses face severe hardship due to a herd causing damage to their fruits and vegetables. The affected produce is covered in prickly, rotting masks, leading to a decline in quality. Authorities are called to address the issue, including potential suicide and lagoon release.
-
-🟩
-
-The business community and residents of the Bogawantalawa were in need of heavy hardship due to a herd.
-
-There are many problems with the fruits of vegetables and fruits that have been exhibited in their premises for about a month.
-
-The prickly mask with a rotting mask is placed on the vegetables and fleeing of the masks and vegetables.
-
-The businessmen calling the relevant authorities to be taken to the other suicide and releasing the lagoon.
-
-◼️
-
-[Data](articles/f8ed7294.json)
-
-[Extended Data](ext_articles/f8ed7294.ext.json)
 
 ---

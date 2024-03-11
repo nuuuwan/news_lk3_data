@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 20:51:13**
+As of **2024-03-11 21:03:41**
 
 ## Newspaper Stats
 
-*Scraped **12,212** Articles*
+*Scraped **12,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,115 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,044
-adaderanalk | 1,477
+adaderanalk | 1,478
 tamilmirrorlk | 1,489
 virakesarilk | 1,677
-dailymirrorlk | 1,863
-adaderanasinhalalk | 1,932
+dailymirrorlk | 1,864
+adaderanasinhalalk | 1,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,210 (100.0%) of 12,212 articles have been extended.
+12,212 (100.0%) of 12,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### නුවර ක්‍රිකට් ගහන සුපිරි ක්‍රිකට් තරු
+### One dead, 4 injured in shooting at Pitigala
+
+*2024-03-11 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97879/one-dead-4-injured-in-shooting-at-pitigala) · `en`
+
+One person has been killed while three others have been injured following a shooting incident at Pitigala in Elpitiya, police said.
+
+◼️
+
+[Data](articles/15a9e829.json)
+
+---
+
+### වෙඩිතැබීමකින් පුද්ගලයෙකු මරුට
+
+*2024-03-11 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194396) · `si`
+
+වෙඩිතැබීම හේතුවෙන් තවත් තිදෙනෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/9af925bd.json)
+
+---
+
+### Excise seize liquor bottles with forged security stickers in multiple North–East raids
+
+*2024-03-11 20:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-seize-liquor-bottles-with-forged-security-stickers-in-multiple-NorthEast-raids/108-278638) · `en`
+
+Colombo, March 11 (Daily Mirror) - In a series of multiple snap raids carried out over the weekend, the Department of Excise has seized a large stock of local liquor bottles with forged security stickers from Northern, North Central and Eastern Provinces.
+
+According to department sources, the series of snap raids had been conducted by special Excise teams that were deployed from other areas of the country and led by four Assistant Excise Commissioners.
+
+A number of wine stores and bars selling these stocks of local liquor with forged revenue stickers affixed were found in the areas of Jaffna, Mannar, Valaichchenai and Trincomalee.
+
+Several thousand bottles of alcoholic beverages, especially arrack, belonging to a range of local liquor manufacturing companies were seized during the raids and had been handed over to the respective Excise stations in the areas.
+
+...
+
+[Data](articles/2b0cfc61.json)
+
+---
+
+### Kandy Cricket Stars
 
 *2024-03-11 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194395) · `si`
 
-නුවර පල්ලෙකැලේ ක්‍රීඩාංගණයේ පැවැත්වෙන Legends Cricket Trophy තරගාවලියේ තවත් සුපිරි තරගයක් KSA කණ්ඩායම සහ CLions අතර දැන් පැවැත්වෙයි.
+In the Legends Cricket Trophy, KSA and CLIONS face off at Pallekele Stadium. CLIONS leads, with Chris Gayle participating. KSA scored 141/6, led by Upul Tharanga, Yusuf Pathan, Finch, and Kevin O'Brien. CLIONS' Ross Taylor and Jesse Ryder are their key players.
 
-මෙම තරගාවලියේ CLions කණ්ඩායමේ නායකත්වයේ වගකීම යසීර් ෂා වෙත පවරා ඇත.
+🟩
 
-අද තරගය සඳහා බටහිර ඉන්දීය කොදෙව් කණ්ඩායමේ හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක ක්‍රිස් ගේල් ද එක්ව සිටීම විශේෂත්වයකි.
+Another super-competition in the Legends Cricket Tropy series at the Pallekele Stadium in the Pallekele Stadium in the Pallekele Stadium is now between KSA team and CLIONS.
 
-තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදෙන KSA කණ්ඩායම මේ වනවිට කඩුලු 6ක් දැවී ලකුණු 141ක් රැස්කරගෙන පන්දුවට පහරදෙමින් සිටී.
+The CLIONS team is responsible for the leadership team of the event.
 
-KSA කණ්ඩායමේ නායකත්වයේ වගකීම ඉර්ෆාන් පතාන් වෙත පවරා ඇති අතර හිටපු සුපිරි ක්‍රිකට් තරු වන උපුල් තරංග, යුසුෆ් පතාන්, ෆින්ච්, කෙවින් ඕ බ්‍රයන් අද තරගයට ක්‍රීඩා කරයි.
+Former GPP cricketer Chris Gayle for the match today is a participation.
 
-CLions කණ්ඩායම නියෝජන කරමින් නවසීලන්ත හිටපු සුපිරි පිතිකරුවන් වන Ross Taylor සහ Jesse Ryder එක්ව සිටී.
+The KSA team who batches first in the competition is attacking 141 runs for the loss of 6 wickets.
+
+The KSA team is responsible for the leadership of the KSA and the former super cricket stars, Upul Tharanga, Yusuf Pathan, Finch, Kevin O Bryan play today.
+
+Representing the CLIONS team ROSS TAYLOR and JESSE RYDER are partnering.
 
 ◼️
 
 [Data](articles/5a4e2636.json)
 
+[Extended Data](ext_articles/5a4e2636.ext.json)
+
 ---
 
-### IMF உடன் இணைந்து செயற்படுவதே அரசாங்கத்தின் விருப்பம் - ஜனாதிபதி
+### The government's choice is to work with IMF - the president
 
 *2024-03-11 20:22:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-உடன்-இணைந்து-செயற்படுவதே-அரசாங்கத்தின்-விருப்பம்-ஜனாதிபதி/175-334519) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் குறித்து எதிர்க்கட்சிகளின் தலைவர்களுக்கு தெரியப்படுத்துவோம். அனைத்து நடவடிக்கைகளையும் வெளிப்படைத்தன்மையுடன் செயற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+The government plans to work with the IMF, with President Ranil Wickremesinghe emphasizing transparency. A meeting with opposition leaders, including MP M.A. Sumanthiran, discussed IMF proposals. The government aims to share data analysis reports with the TNA and parliament. Treasury Secretary Mahinda Siriwardena outlined negotiations with credit providers, expected to conclude by June, while the Central Bank Governor highlighted adherence to IMF governance recommendations.
 
-சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் தொடர்பில் கலந்துரையாடுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அழைக்கப்பட்டிருந்த எதிர்க்கட்சித் தலைவர்களின் கூட்டம் இன்று (11) முற்பகல் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+🟩
 
-இந்தக் கலந்துரையாடலில் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரனும் கலந்துகொண்டதுடன் சர்வதேச நாணய நிதியத்துடனான கலந்துரையாடலில் அனைத்து தரப்பினரும் ஏற்றுக்கொள்ளும் தீர்மானங்களை எட்டுவதற்கான அரசாங்கத்தின் அர்ப்பணிப்பு இங்கு வலியுறுத்தப்பட்டது.
+We will let the opposition leaders know about the proposals of the International Monetary Fund. President Ranil Wickremesinghe said the government's aim was to implement all measures with transparency.
 
-சர்வதேச நாணய நிதியத்தினால் தயாரிக்கப்பட்ட பகுப்பாய்வு தரவுகளுடன் கூடிய அறிக்கைகள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட வேண்டுமென பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரன் வலியுறுத்தினார்.
+A meeting of opposition leaders, who was called by President Ranil Wickremesinghe to discuss the proposals of the International Monetary Fund, was held today (11) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+The Tamil National Alliance (TNA) Member of Parliament. A.. Sumanthiran was also present and the government's commitment to the government's commitment to all sides in a discussion with the International Monetary Fund was emphasized.
+
+Member of Parliament M.. A.. Sumanthiran stressed.
+
+President Ranil Wickremesinghe said the government's aim was to carry out all these activities transparency and said that the data analysis reports related to it would be given to the Tamil National Alliance (TNA) and parliament.
 
 ...
 
 [Data](articles/b4487964.json)
+
+[Extended Data](ext_articles/b4487964.ext.json)
 
 ---
 
@@ -2267,71 +2323,5 @@ Chidambarappillai Vasanthadevi (60 years old) from the area has been admitted to
 [Data](articles/913a1076.json)
 
 [Extended Data](ext_articles/913a1076.ext.json)
-
----
-
-### 2 Rit petitions were withdrawn
-
-*2024-03-11 12:31:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-ரிட்-மனுக்கள்-வாபஸ்-பெறப்பட்டன/175-334502) · `ta`
-
-Two writ petitions against Lanka Hospital Corporation PLC and Sri Lanka Telecom PLC were withdrawn in the Court of Appeal. Leica Leasing Holding Limited and Leica Mobile SARL, the petitioners, retain the right to file a new application.
-
-🟩
-
-Two writ petitions filed against the distribution of Lanka Hospital Corporation PLC and Sri Lanka Telecom PLC were withdrawn in the Court of Appeal today (11).
-
-Petitioners have decided to withdraw both petitions, Leica Leasing Holding Limited and Leica Mobile SARL, and they have the right to file a new application.
-
-◼️
-
-[Data](articles/4863d561.json)
-
-[Extended Data](ext_articles/4863d561.ext.json)
-
----
-
-### Drones to detect poisonous poisons to the forest
-
-*2024-03-11 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178409) · `ta`
-
-The Department of Forest Protection uses drones to detect forest fires, especially due to increased weather-related fires. This year, 4 fires destroyed 30 hectares. To prevent wildfires, the Department of Wild Fire initiated weekly fire control weeks.
-
-🟩
-
-The Department of Forest Protection has begun to use drone technology to find fire -fire poisoning and the causes of forest fire.
-
-The move has been taken due to the increase in the number of firefights caused by the weather in the country.
-
-Four fires have been reported this year. A total of 30 hectares of forests have been destroyed.
-
-In this case, the Department of Wild Fire has launched a weekly fire control week to raise awareness and raise awareness to prevent wild fire.
-
-◼️
-
-[Data](articles/686bed65.json)
-
-[Extended Data](ext_articles/686bed65.ext.json)
-
----
-
-### Arrest
-
-*2024-03-11 12:28:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூடு-நடத்தியவர்-கைது/175-334501) · `ta`
-
-The main suspect in the shooting at Malwatuhiripitiya's Vihara has been arrested. Four unidentified individuals, including a car driver and a woman, were also arrested in connection with the incident.
-
-🟩
-
-The main suspect has been arrested in connection with the shooting of a Vihara in Malwatuhiripitiya.
-
-Recently, four unidentified people who came in the car shot dead a man at the Vihara in the Malwathuhiripitiya area.
-
-Following investigations into the incident, many have been arrested, including a car driver and a woman.
-
-◼️
-
-[Data](articles/3dc9d1cd.json)
-
-[Extended Data](ext_articles/3dc9d1cd.ext.json)
 
 ---

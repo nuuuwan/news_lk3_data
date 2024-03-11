@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 17:53:48**
+As of **2024-03-11 18:09:21**
 
 ## Newspaper Stats
 
-*Scraped **12,181** Articles*
+*Scraped **12,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,66 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 636
 islandlk | 663
-adalk | 1,034
+adalk | 1,039
 adaderanalk | 1,473
 tamilmirrorlk | 1,487
 virakesarilk | 1,669
 dailymirrorlk | 1,862
-adaderanasinhalalk | 1,926
+adaderanasinhalalk | 1,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,180 (100.0%) of 12,181 articles have been extended.
+12,181 (100.0%) of 12,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### විහාරස්ථානයක වෙඩි තැබීමක්
+### ටවුහිඩ්ට ICCයෙන් දඩයක්
+
+*2024-03-11 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194390) · `si`
+
+බංග්ලාදේශ ක්‍රිකට් ක්‍රීඩක ටවුහිඩ් රිඩෝයි හට දඩ මුදලක් නියම කිරීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
+
+ඒ ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති තුන්වන සහ අවසන් විස්සයි විස්ස ක්‍රිකට් තරගයේදී අශෝභන ලෙස හැසිරීම සම්බන්ධයෙනි.
+
+මෙහිදී ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය තීරණය කර ඇත්තේ තරග මුදලින් සියයට 15ක දඩ මුදලක් ඔහුගෙන් අයකරගැනීමටය.
+
+තරගයේදී ශ්‍රී ලංකා ක්‍රීඩක නුවන් තුෂාර සිය පළමු පන්දුවාරයේදීම කඩුලු ත්‍රිත්වයක් දවාගැනීමට සමත්විය.
+
+එම කඩුලු ත්‍රිත්වයේ දෙවන කඩුල්ල ලෙස ටවුහිඩ් රිඩෝයි දැවී යාමෙන් අනතුරුව ඔහු විසින් අශෝභන ලෙස හැසිරෙන අයුරු ජාත්‍යන්තර මාධ්‍ය වාර්තා කර තිබුණි.
+
+◼️
+
+[Data](articles/0719b4ec.json)
+
+---
+
+### A shooting of a temple
 
 *2024-03-11 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194389) · `si`
 
-මහියංගනය ප්‍රදේශයේ පිහිටි විහාරස්ථානයකට ඊයේ රාත්‍රියේ වෙඩි ප්‍රහාරයක් එල්ලවී තිබේ.
+A temple in Mahiyanganaya was attacked last night, with the Chief Incumbent among those shot. The incident is under investigation by Dehiattakandiya Criminal Investigations Officers.
 
-විහාරාධිපති හිමි වන පූජ්‍ය පොල්පැලකැටියේ පඤ්ඤරතන විහාරාධිපති හිමියන් වැඩ විසූ ආවාස කුටියට කිසිවෙකු මෙලෙස වෙඩිතබා ඇත.
+🟩
 
-ඒ විහාරාධිපති හිමියන් ඊයේ රාත්‍රියේ පිංකමක් සඳහා සහභාගී වී නැවත වැඩමකොට තම කුටියේ සැතපී සිටියදී මෙම වෙඩිතැබීම සිදුව තිබේ.
+A temple in Mahiyanganaya has been shot dead last night.
 
-රාත්‍රී 12.30ට පමණ කිසියම් පිරිසක් ආවාස කුටියේ ජනේලය දෙසින් වෙඩි ප්‍රහාරය එල්ල කර තිබූ අතර ඉන් විහාරාධිපතිහිමියන්ට හානියක් සිදුව නොමැත.
+The Chief Incumbent of the Ven.
 
-සිද්ධිය සම්බන්ධයෙන් ස්ථානීය පරීක්ෂණය දෙහිඅත්තකණ්ඩිය අපරාධ ස්ථාන පරීක්ෂණ නිලධාරීන් සිදුකර ඇතිඅතර සැකකරුවන් සොයා පොලිස් විමර්ශන ආරම්භ කර තිබේ.
+The Chief Incumbent The monks participated in a campfather last night and back to work again and have been shot.
+
+At about 12.30 pm, a group of people were shot at the influence of the booth, and the chief of the chiefs have been harmed.
+
+The site test on the incident has commenced investigations into the suspects in the event of Dehiattakandiya Criminal Investigations Officers.
 
 ◼️
 
 [Data](articles/5f9b47de.json)
+
+[Extended Data](ext_articles/5f9b47de.ext.json)
 
 ---
 
@@ -334,6 +360,26 @@ That is, reports of the age, its age, the cause of death, and the cause of death
 
 ---
 
+### පානදුර සළිඳු බූස්ස බන්ධනාගාරයට
+
+*2024-03-11 16:31:31* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-සළිඳු-බූස්ස-බන්ධනාගාරයට/11-408542) · `si`
+
+පානදුර ප්‍රධාන මහේස්ත්‍රාත් චම්පික රාජපක්ෂ මහතා ගේ නියෝගයකයට අනුව මාර්තු  25 දා දක්වා රිමාන්ඩ් බන්ධනාගාර ගතකරන ලද සෙල්ලපෙරුමගේ සළිඳු මල්ෂික ගුණරත්න නොහොත් පානදුර සලිඳු නැමැත්තා කළුතර බන්ධනාගාරයට රැගෙන ඒමෙන් පසු බූස්ස බන්ධනාගාරයට මාරුකර යැවූ බව බන්ධනාගාර ආරංචි මාර්ග සදහන් කරයි.
+
+සළිදු මල්ෂික නැමැත්තා දැඩි ආරක්ෂක රැකවල් මධ්‍යයේ පානදුර මහේස්ත්‍රාත් අධ්කරණයේ  සිට කළුතර මල්වත්ත බන්ධනාගාරයට රැගෙන ගිය අතර , ඔහු බසයෙන් බස්සවා කළුතර බන්ධනාගාරයේ දොරටුව අභියසදී ලියාපදිංචි කිරිමෙන් පසු එම බන්ධනාගාර බස් රථයෙන්ම බූස්ස බලා කැටුව ගොස් තිබේ.
+
+සැකකරු කළුතර සිට බූස්ස බලා රැගෙන යාමේදී බන්ධනාගාර නිලධාරීන්, විශේෂ කාර්ය බලකාය සහ යුද හමුදා බුද්ධි අංශ නිලධාරීන්ද ආරක්ෂාවට යොදවා සිටින බව වාර්තා වේ.
+
+සිය සේවා දායකයා වන සලිඳු මල්ෂික නැමැත්තාට මරණීය තර්ජන පවතින බැවින් , බූස්ස බන්ධනාගාරය හැර වෙනත් සුදුසු බබන්ධනාගාරයක රඳවන ලෙස ඔහු වෙනුවෙන් පෙනී සිටි නීතිඥ ජාලිය සමරසිංහ මහතා අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+එම කරුණු සලකා බැලූ මහේස්ත්‍රාත්වරයා නියෝග කලේ සැකකරු ආරක්ෂාව සහිත සුදුසු බන්ධනාගාරයක රඳවන ලෙසය.
+
+◼️
+
+[Data](articles/3f33bb57.json)
+
+---
+
 ### Sri Lanka among other countries want to start rupee trade with India – Minister
 
 *2024-03-11 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97872/sri-lanka-among-other-countries-want-to-start-rupee-trade-with-india-minister) · `en`
@@ -351,6 +397,54 @@ The minister added that gradually countries are realising that undertaking trade
 [Data](articles/e4efcc97.json)
 
 [Extended Data](ext_articles/e4efcc97.ext.json)
+
+---
+
+### කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානයේ තාප්පයක් කඩා ඉවත් කළ පිරිස් අත්අඩංගුවට ගන්නැයි විරෝධතාවක්
+
+*2024-03-11 16:27:05* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-දුම්රිය-ස්ථානයේ-තාප්පයක්-කඩා-ඉවත්-කළ-පිරිස්-අත්අඩංගුවට-ගන්නැයි-විරෝධතාවක්/11-408541) · `si`
+
+කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානයේ තිබූ තාප්පයක් කඩා ඉවත් කළ පිරිස් අත්අඩංගුවට ගන්නා ලෙස ඉල්ලා දුම්රිය සේවකයන් විසින් අද පැවැත්වූ විරෝධතාවක් නිසා  මුහුදු බඩ මාර්ගයේ දුම්රිය ධාවන කටයුතු පැය දෙකක පමණ කාලයක් ප්‍රමාද විය.
+
+මෙම  දුම්රිය ස්ථානයේ නිල නිවාස පිහිටි ප්‍රදේශයට, දුම්රිය ස්ථානයට හා දුම්රිය පරිශ්‍රයන් වෙත අනවසරෙන් ඇතුළුවීම  වළක්වාලීම සඳහා ඉදිකොට තිබූ තාප්පයක් කොටසක් එම ප්‍රදේශයේ ප්‍රද්ගලයන් කිහිප දෙනෙකු  විසින් බලහත්කාරයෙන් කඩා ඉවත් කළ බව දුම්රිය සේවකයෝ සඳහන් කරති.
+
+දුම්රිය ස්ථානයේ දේපොළ කඩා දැමූ පිරිස අත්අඩංගුවට ගැනීමේ කටයුතු ප්‍රමාද වීමට එරෙහිව  හා එම පිරිස වහම අත්අඩංගුවට ගන්නා ලෙස ඉල්ලමින්  පැය දෙකක පමණ වේලාවක් දුම්රිය සේවකයෝ දුම්රිය ධාවන කටයුතුවලින් ඉවත්ව සිටියහ.දුම්රිය සේවකයන් මෙම ක්‍රියා මාර්ගය ආරම්භ කිරීමත් සමග  තාප්පයට හානි කළ  පිරිසෙන් කොටසක් කොම්පඤ්ඤ වීදීය පොලීසිය විසින් ඔවුන්ගේ භාරයට ගෙන ඒ සම්බන්ධයෙන් වැඩිදුර විමර්ශන කටයුතු ආරම්භ කළ අතර ඉන් පසුව මුහුදුබඩ දුම්රිය මාර්ගයේ දුම්රිය ගමනාගමන කටයුතු සිදුකිරීමට දුම්රිය සේවකයෝ කටයුතු කළහ.
+
+◼️
+
+[Data](articles/d0c46c50.json)
+
+---
+
+### වැටුප් වැඩිකරගත්තාට විරෝධතාවක්
+
+*2024-03-11 16:23:30* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකරගත්තාට-විරෝධතාවක්/11-408540) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුවේ ‌නියුතු සේවක වැටුප් වැඩිකරගැනීමට එරෙහිව සිවිල් සංධාන කිහිපයක එකතුවෙන් අද (11) වීරොධතාවක් පැවැත්විනි.
+
+විඩිකල වැටුප් පහල නොදමන්නේ නම් ඔවුන් පවසන්නේ මහ බැංකු ඇතුළු නිළධාරීන් පිරිස සිය තනතුරු වලින් ඉල්ලා අස්වියයුතු බවයි.
+
+◼️
+
+[Data](articles/95e80b8b.json)
+
+---
+
+### උඩරට වෙස් ඇදුම් කට්ටලය ලෝක උරුමයක් බවට පත් කිරීමට පියවර
+
+*2024-03-11 16:19:08* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-වෙස්-ඇදුම්-කට්ටලය-ලෝක-උරුමයක්-බවට-පත්-කිරීමට-පියවර/11-408539) · `si`
+
+උඩරට වෙස් ඇඳුම් කට්ටලය ලෝක උරුමයක් බවට පත් කිරිමට පියවර ගන්නා බව බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්යල විදුර වික්රරමනායක මහතා සඳහන් කරයි.
+
+උඩුගං බලා යන අපේ සංස්කෘතික උරුමය මතු පරපුරට දායාද කිරීමට සංස්කෘතික සංගායනාවක අවශ්යාය බවත්,සංගායනාව පැවැත්වීමට සූදානම් බවත්,දිස්ත්රි්ක් මට්ටමින් සහ ජාතික මට්ටමික් සංස්කෘතික සංගයනාව පැවැත්වීමට සමස්ත කලාකරුවන් ඒකරාශි වීම ඇවැසි ම කාලය එළඹී ඇතැයි ද අමාත්යකවරයා එහිදී පැවැසීය.
+
+උරුමය උඩරට නර්තන  පුහුණු පර්යේෂණ කේන්ද්රැයේ 'උරුමයක අස්වැද්දුම' ජනගත කිරීමේ මහෝත්සවයට එක්වෙමින් ඊයේ (10) අමාත්යකවරයා මේ බව මාතලේ බෞද්ධ මන්දිරයේ දී කීවේය.
+
+'රට බංකොලොත් කියලා කියනවා.අපි රුපියල් සතවලින් බංකොලොත් වුනොත් ඒවා අපිට හොයාගන්න පුළුවන්. ඒත් සංස්කෘතිය බංකොලොත් වුන දවසට ඉතුරු වෙන්නේ දනින් වැටිච්ච මිනිස්සු විතරයි.'
+
+...
+
+[Data](articles/db90ab78.json)
 
 ---
 
@@ -475,6 +569,22 @@ In his book, Gotabhaya emphasizes that Defense Secretary Kamal Gunaratne and the
 [Data](articles/66f409cc.json)
 
 [Extended Data](ext_articles/66f409cc.ext.json)
+
+---
+
+### අධිවේගී මාර්ගයෙන් එස්.ටි.එෆ්  ඉවත්කර රක්නා ලංකා දමයි
+
+*2024-03-11 15:53:06* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයෙන්-එස්-ටි-එෆ්--ඉවත්කර-රක්නා-ලංකා-දමයි/11-408538) · `si`
+
+අධිවේගී මාර්ගෙයේ සේවය කළ පොලිස් විශේෂ කාර්ය බළකා සෙබළුන් අද (11) සිට ඉවත්කර ඒ වෙනුවට රක්නා ලංකා පෞද්ගලික සමාගමේ නිලධාරීන් අනුයුක්ත කර ඇතැයි  මාර්ග සංවර්ධන අධිකාරියේ ප්‍රකාශකයෙක් පැවසීය.
+
+අධිවේගී මාර්ගවල සිදුවූ අනතුරුවලදී ගිනි නිවීමේ සහ ජීවිතය ගලවා ගැනීමේ කටයුතුවල නිරත පොලිස් විශේෂ කාර්ය බළකා සෙබළුන්  ඉවත් කරගන්නා බව මහජන ආරක්ෂක අමාත්‍යංශයේ ලේකම්වරයා  මාර්ග සංවර්ධන අධිකාරියට මීට මාස කිහිපයකට ඉහතදී ලිඛිතව දන්වා තිබිණි
+
+මේ වන විට මුළු අධිවේගී මාර්ග කොට්ඨාසේම ගැලනිගම, සීදුව, කුරුඳුගහ හැතැක්ම, පින්නදූව හා සූරියවැව ආදී කඳවුරු පහක   පොලිස් විශේෂ කාර්ය බළකා සෙබළුන් 200කට ආසන්න ප්‍රමාණයක් සේවයේ යොදවා තිබුණි
+
+◼️
+
+[Data](articles/e979009c.json)
 
 ---
 
@@ -2207,145 +2317,5 @@ Colombo, March 11 (Daily Mirror)- Former UNP National Organizer Navin Dissanayak
 [Data](articles/3b1bd0bd.json)
 
 [Extended Data](ext_articles/3b1bd0bd.ext.json)
-
----
-
-### Ti 56 discovers empty magazine and drugs
-
-*2024-03-11 10:51:07* · [`adalk`](https://www.ada.lk/breaking_news/ටි56-හිස්-මැගසින්-හා-මත්ද්‍රව්‍ය-දෙහිවලින්-සොයාගනී/11-408529) · `si`
-
-A resident of Dehiwala found an empty magazine and drugs, leading to a special road block and night curfew. Police discovered 40kg of bullets and 316 suspects, including three parcel searches.
-
-🟩
-
-The Dehiwala Police say that a special road drug resident of the Dehiwala Group road with 40 paths with 40 kilograms of bullets in a large number of live bullets suspected to belong to a underworld.
-
-Nights have been temporarived at Galawala Road in Dehiwala yesterday (10th), a special road block in Dehiwala yesterday (10).According to the police, the magazine stock of three parcel, including another search operation, met with another 316 accuses and three parks under a bed.
-
-◼️
-
-[Data](articles/599381e4.json)
-
-[Extended Data](ext_articles/599381e4.ext.json)
-
----
-
-### War crime to expand Israeli settlements in occupied territories - Volcker Turk
-
-*2024-03-11 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178395) · `ta`
-
-Volkar Durg, UN Human Rights High Commissioner, declared expanding Israeli settlements in occupied Palestinian territories a war crime. Israel's construction in West Bank areas is increasing, which Durg equates to transferring Israel into occupied areas, akin to a war crime. Israel's plan to build over 3,476 houses in West Bank areas is against international law, with Spain and France also condemning the project.
-
-🟩
-
-UN Human Rights High Commissioner Volkar Durg has said that it is a war crime to expand Israeli settlements in the occupied Palestinian regions.
-
-The UN in Geneva. Volkar Durg said this in a statement issued last week to the Human Rights Council.
-
-He said Israel's illegal residential construction is rapidly increasing in the occupied areas of the West Bank.
-
-The creation and expansion of apartments in occupied territories is equivalent to transferring Israel to the occupied areas.
-
-This is similar to war crime. He said that those involved may be guilty.
-
-He said Israel's plan to construct more than 3,476 houses in Male Adumin, Iprath and Kedar in the West Bank is completely contrary to international law.
-
-Spain and France also condemned the project to build these Jewish settlements last Friday.
-
-◼️
-
-[Data](articles/44eae73a.json)
-
-[Extended Data](ext_articles/44eae73a.ext.json)
-
----
-
-### Main suspect involved in murder of Buddhist monk arrested
-
-*2024-03-11 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97864/main-suspect-involved-in-murder-of-buddhist-monk-arrested) · `en`
-
-Police have arrested an individual believed to be the main suspect in the murder of a Buddhist monk, who was shot dead at a temple in the Malwathuhiripitiya area in January.
-
-According to Police Spokesman SDIG Nihal Thalduwa, police suspect that the arrestee was the gunman who carried out the shooting.
-
-The suspect was arrested in the Hambegama area in Moneragala, police reported.
-
-In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. But he later succumbed to injuries while receiving treatment.
-
-...
-
-[Data](articles/f75432a4.json)
-
-[Extended Data](ext_articles/f75432a4.ext.json)
-
----
-
-### Ranil requests three demands from Thondamanme to support the Presidential election
-
-*2024-03-11 10:46:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයේදී-සහාය-දෙන්න-තොණ්ඩමන්ලාගෙන්-රනිල්ට-ඉල්ලීම්-තුනක්/11-408528) · `si`
-
-Ranil Wickremesinghe's demands for the Presidential election include a housing scheme in the mountains, a permanent solution for upcountry estate workers' salaries, and separate land ownership for plantation people. Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, supports these demands.
-
-🟩
-
-Ceylon Workers Congress General Assembly will be decided by the Presidential Secretariat and the Presidential Election and the Presidential Election will be supported by President Ranil Wickremesinghe.Minister of Water Supply and Estate Infrastructure Development Mr. Jeevan Thondaman said.
-
-The National Council of the Ceylon Workers' Congress will decide three demands that President Ranil Wickremesinghe has presented three demands and support the presidential election by his party.
-
-Minister Jeevan Thondaman was speaking at the chief guest at the Women's Day Summit in Kotagala Lanka Labor Congress held yesterday (10).
-
-"We have submitted three demands for President Ranil Wickremesinghe. The first thing is to run the housing scheme in the mountains. Accordingly, the President has created the number of conditions to implement the 10000-house project.
-
-...
-
-[Data](articles/6ba42371.json)
-
-[Extended Data](ext_articles/6ba42371.ext.json)
-
----
-
-### SLPP expresses concerns over President’s direct dealing with individual MPs
-
-*2024-03-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-expresses-concerns-over-Presidents-direct-dealing-with-individual-MPs/108-278622) · `en`
-
-Colombo, March 11 (Daily Mirror)- Sri Lanka Podujana Peramuna (SLPP) is reported to have reiterated its concerns with President Ranil Wickremesinghe over his direct dealings with individuals of the party bypassing its hierarchy.
-
-It was communicated to the President when he met with SLPP leaders Mahinda Rajapaksa and Basil Rajapaksa last week.
-
-Such concerns were reiterated in the wake up of some MPs and electoral organizers siding with the President.
-
-Currently, a sediment of SLPP MPs remain loyal to the President. Most of them hold ministerial positions in the government. SLPP MP Chief Government Whip Prasanna Ranatunga openly advocates candidacy to the President at the upcoming presidential election. However, the SLPP is yet to take any formal decision although all indications point to its support to the President.
-
-The SLPP raised similar concerns on a previous occasion too in this regard
-
-◼️
-
-[Data](articles/1fbe81cb.json)
-
-[Extended Data](ext_articles/1fbe81cb.ext.json)
-
----
-
-### SLPP expresses concerns over President’s direct dealing with individual MPs
-
-*2024-03-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLPP-expresses-concerns-over-Presidents-direct-dealing-with-individual-MPs/155-278622) · `en`
-
-Colombo, March 11 (Daily Mirror)- Sri Lanka Podujana Peramuna (SLPP) is reported to have reiterated its concerns with President Ranil Wickremesinghe over his direct dealings with individuals of the party bypassing its hierarchy.
-
-It was communicated to the President when he met with SLPP leaders Mahinda Rajapaksa and Basil Rajapaksa last week.
-
-Such concerns were reiterated in the wake up of some MPs and electoral organizers siding with the President.
-
-Currently, a sediment of SLPP MPs remain loyal to the President. Most of them hold ministerial positions in the government. SLPP MP Chief Government Whip Prasanna Ranatunga openly advocates candidacy to the President at the upcoming presidential election. However, the SLPP is yet to take any formal decision although all indications point to its support to the President.
-
-The SLPP raised similar concerns on a previous occasion too in this regard
-
-◼️
-
-[Data](articles/38ab228c.json)
-
-[Extended Data](ext_articles/38ab228c.ext.json)
 
 ---

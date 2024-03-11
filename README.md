@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 19:03:01**
+As of **2024-03-11 19:17:48**
 
 ## Newspaper Stats
 
-*Scraped **12,196** Articles*
+*Scraped **12,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,75 @@ adaderanalk | 1,475
 tamilmirrorlk | 1,488
 virakesarilk | 1,672
 dailymirrorlk | 1,863
-adaderanasinhalalk | 1,928
+adaderanasinhalalk | 1,930
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,193 (100.0%) of 12,196 articles have been extended.
+12,196 (100.0%) of 12,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### IMF ගිවිසුමේ කරුණු හෙළිකරන්න රජය එකඟ වෙයි
+### රාමසාන් උපවාස හෙටින් ඇරඹෙයි
+
+*2024-03-11 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194393) · `si`
+
+සිය රාමසාන් උපවාස සමය හෙට සිට ආරම්භ කරන බව කොළඹ මහ පල්ලිය නිවේදනය කර තිබේ.
+
+◼️
+
+[Data](articles/2212f8d9.json)
+
+---
+
+### ගැබිණි බිරිඳට පහරදුන් බවට සැක සැමියා රිමාන්ඩ්
+
+*2024-03-11 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194392) · `si`
+
+ගර්භණී බිරිඳට පහරදී දරු ගැබ විනාශ කිරීමේ චෝදනා එල්ලවූ සැමියෙකුව හෙට දින දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+සැකකරු, කොළඹ අතිරේක මහෙස්ත්‍රාත් කේමින්ද පෙරේරා මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
+
+මෙය මනුෂ්‍ය ඝාතනයක් බවට සැකකරන බැවින් අධිකරණ වෛද්‍ය වාර්තාව අධිකරණයට ඉදිරිපත් කරන බවට ග්‍රෑන්ඩ්පාස් පොලීසිය කළ දැනුම්දීමක් සලකා බලමින් ඒ මහතා මෙම නියෝගය ලබාදුන්නේය.
+
+පොලීසිය අධිකරණය වෙත පවසා ඇත්තේ නිරන්තරයෙන් අදාළ සැකකාර සැමියා සිය බිරිඳ සමග ගැටුම් ඇතිකරගන්නා බවට අනාවරණය වී ඇති බවය.
+
+මෙහිදී පොලීසිය වැඩිදුරටත් සඳහන් කර ඇත්තේ කුසෙහි සිටින දරුවාගේ පීතෘත්වය සම්බන්ධයෙන් ඇතිවූ බහින්බස්වීමක් දුරදිග ගොස් සැකකාර සැමියා විසින් බිරිඳගේ උදරයට සිය පාදයෙන් පහරදී ඇති බවය.
+
+අනතුරුව බරපතළ තත්ත්වයේ පසුවූ බිරිඳව රාගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මාස දකක කළලය විනාශ වී ඇති බවට අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/6bdf0cf3.json)
+
+---
+
+### The government agrees to reveal the IMF agreement
 
 *2024-03-11 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194391) · `si`
 
-ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජිතයින් සහ මෙරට නියෝජිතයින් අතර එම අරමුදලේ යෝජනා පිළිබඳව සංවේදී නොවන අන්තර්ගතයන් විපක්ෂයේ මන්ත්‍රීවරුන්ට ලබාදීමට රජය එකඟතාව පළකර තිබේ.
+The government has agreed to share the IMF agreement with opposition MPs and representatives. MP MA Sumanthiran announced this after discussions with IMF representatives. Opposition Leaders Sajith Premadasa and Anura Kumara Dissanayake were invited but did not attend. Parliamentarian M.Shanirin was also involved. Key figures include Prime Minister Dinesh Gunawardena, Government Ministers, Presidential Staff, Central Bank Officers, and IMF Authority.
 
-IMF නියෝජිතයින් සහ රජය සමග පැවති විශේෂ සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී  එම්.ඒ සුමන්තිරන් මේ බව පැවසීය.
+🟩
 
-සාකච්ඡාවට සහභාගී වන ලෙස විපක්ෂ නායක සජිත් ප්‍රේමදාස, ජාතික ජන බලවේගය පක්ෂයේ නායක අනුර කුමාර දිසානායක යන මහත්වරුන්ට ආරාධනා කර තිබුණත් ඔවුන් ඊට සහභාගී වූයේ නැත.
+The government has agreed to give the opposition MPs to the opposition members of the International Monetary Fund and the representatives of the country.
 
-දෙමළ ජාතික සන්ධානය වෙනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී එම්.සුමන්තිරන් මහතා පමණක් ඊට සහභාගී වීම විශේෂත්වයකි.
+Speaking to the media, MP MA Sumanthiran made this statement to the media after the IMF representatives and the government.
 
-මෙම සාකච්ඡාව සඳහා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, මුදල් රාජ්‍ය අමාත්‍යවරුන් වන ෂෙහාන් සේමසිංහ, රංජිත් සියඹලාපිටිය, ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක, ජනාධිපති ලේකම් සමන් ඒකනායක, මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ, මුදල් අමාත්‍යාංශ නිලධාරීන් සහ අයි.එම්.එෆ්.නියෝජිතයින් එක්ව සිටි බව වාර්තා වෙයි.
+Opposition Leader Sajith Premadasa and the Leader of the National Folk Council Anura Kumara Dissanayake was invited to participate in the discussion, but they did not attend.
+
+Parliamentarian M.Shanirin is not only a matter of attending the TNA.
+
+Prime Minister Dinesh Gunawardena, Government Ministers Shehan Semhasinghe, Presidential Staff Dr. Nandalal Weerasinghe, Central Bank Office, Officers and IMF Authority and IMF SeizingBecoming.
 
 ◼️
 
 [Data](articles/3518ec6a.json)
+
+[Extended Data](ext_articles/3518ec6a.ext.json)
 
 ---
 
@@ -78,19 +118,25 @@ Sri Lanka Cricket Chief Executive Officer Ashley de Silva said that these two ty
 
 ---
 
-### அஸ்வெசும இரண்டாம் கட்ட கொடுப்பனவு குறித்து புதிய செய்தி
+### New news on the second phase of Aswesum
 
 *2024-03-11 18:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-இரண்டாம்-கட்ட-கொடுப்பனவு-குறித்து-புதிய-செய்தி/175-334518) · `ta`
 
-அஸ்வெசும நலன்புரி திட்டத்தின் கீழ் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கான இரண்டாம் கட்டத்துக்கான கொடுப்பனவுகள் எதிர்வரும் ஜுன் மாதம் முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்துள்ளார்
+Aswesum's 2nd phase allowances start June, applications due May 15, with Rs 205 billion allocated.
 
-அஸ்வெசும நலன்புரி கொடுப்பனவுக்கான இரண்டாம் கட்டத்துக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் கால அவகாசம் இந்த மாதம் 15ஆம் திகதியுடன் நிறைவடையவுள்ளது.
+🟩
 
-இதற்காக இந்த ஆண்டுக்கான பாதீட்டில் 205 பில்லியன் ரூபாய் ஒதுக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்துள்ளார். R
+Finance Minister Xihan Semasinghe has said that the allowances for the second phase of the beneficiaries selected under the Aswesuma Welfare Scheme will be issued from next June.
+
+The deadline for submitting applications for the second phase of the Azwezum Welfare Payment will be completed on the 15th of this month.
+
+The Minister of Finance Sehan Semasinghe has said that this year's cost has been allocated Rs 205 billion.. Remble
 
 ◼️
 
 [Data](articles/591a2a81.json)
+
+[Extended Data](ext_articles/591a2a81.ext.json)
 
 ---
 
@@ -422,21 +468,29 @@ As per the advisory, under this level of temperature, fatigue is possible with p
 
 ---
 
-### අවුරුදු නැකැත් වැරදි බව මල්වත්තට හා අස්ගිරියට කියයි
+### New Year's troubles tells Malwatta and Asgiriya
 
 *2024-03-11 16:43:33* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නැකැත්-වැරදි-බව-මල්වත්තට-හා-අස්ගිරියට-කියයි/11-408543) · `si`
 
-මෙවර සිංහල හින්දු අලුත් අවුරුදු නැකත් සීට්ටුව දෝෂ සහිත බවත් ඒ අනුව ආහාර පිසීම ආහාර අනුභවය යනාදී නැකත් රාත්‍රී කාලයට සකස් කිරීම පිටුපස ඇති කුමන්ත්‍රණය වුවමනාවෙන් සිදුකළ ඒවා බවත් එය නිවැරදි කළ යුතු බවට දන්වමින් ජාතික නැකැත් කමිටුවේ සාමාජිකයන් විසින් මල්වතු අස්ගිරි අනූනාහිමිවරුන් දැනුවත් කරමින් සංදේශයක් බාර දීම සිදුකෙරුණි .
+The Sinhala Hindu New Year ceremony was marred by controversy, with allegations of political interference and conspiracy. The National Ausual Committee of Kandy was accused of appointing politically connected individuals, leading to calls for transparency and accountability.
 
-අද (11) පෙරවරුවේ මහනුවරට පැමිණි ජාතික නැකැත් කමිටුවේ සාමාජිකයන් මල්වතු පාර්ශ්වයේ අනූනායක පූජ්‍ය දිඹුල්කුඹුරේ ශ්‍රී විමලධම්ම අස්ගිරි පාර්ශවයේ අනුනායක පූජ්‍ය වේඩරුවේ ශ්‍රී උපාලි යන අනුනාහිමිවරුන් බැහැ දැක උන්වහන්සේලා දැනුවත් කොට කරුණු සැලකිරීමට පියවර ගත්තේය .
+🟩
 
-එහිදී මල්වතු පාර්ශ්වයේ අනූනායකහිමියන් නැකත් කමිටුවේ සාමාජිකයන් ගෙන් විමසා සිටියේ මෙවැනි වැදගත් නැකත් හදන කමිටුවේ සිටුනුයේ කවුරුන්ද යන්නත් ඔවුන් පත් කරනු ලබන්නේ කවුරුන් විසින්ද යන්නත්ය .
+The Sinhala Hindu New Year auspicious ceremony was defective and the conspiracy behind the night-preparation of food, the conspiracy behind the night, the conspiracy was to be assigned to hand over a memorandum.
 
-එහිදී පැමිණ සිටි පිරිස අනුනාහිමියන්ට සැලකර සිටියේ දේශපාලන හිතවත්කම් මත එම පිරිස් පත්කර ගන්නා බවයි .
+Members of the National Ausual Committee of Kandy yesterday (11th) were informed by Ven. Dimbulkumbura Sri Wimaladham Party, Anunayake, Ven. Ven.
+
+The members of the Malwatte faction were asked whom they were asked who was planted in the committee of this important auspicious committee.
+
+The attendance was said to have been appointed to the sons of politician.
+
+The Nathana Thero said that all these things would be caused by politicizing that such things would be done in a time when something important to be baked at a time when it occurred, but the advice needed to change the value of the preceding preparation in time.The Ananda Oops also emphasized.
 
 ...
 
 [Data](articles/3e3470f1.json)
+
+[Extended Data](ext_articles/3e3470f1.ext.json)
 
 ---
 
@@ -2291,49 +2345,5 @@ The youth has died on Sunday (10) at home and rescued a young man who was rescue
 [Data](articles/116316b3.json)
 
 [Extended Data](ext_articles/116316b3.ext.json)
-
----
-
-### Care of water consumption
-
-*2024-03-11 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194371) · `si`
-
-Due to dry weather, the National Water Supply and Drainage Board urges the public to use water frugally. Water levels are sufficient, but only for essential needs. The board expects rain to replenish water sources like Kittuwa flowers and Labugama seeds. If consumption decreases, they will notify at 1919.
-
-🟩
-
-Due to the prevailing dry weather, the National Water Supply and Drainage Board requests the public to use water from the frugal.
-
-Deputy General Manager Development of the Board Deputy General Manager Development, Troutha Kalvarachchi stated that the dry weather is more than two months.
-
-However, the water level is sufficient and he requested that water is used only for essential matters whenever possible.
-
-"We have 65 more days for the next two months of the Kittuwa flower, which is one of our own water sources.. 105 days of Labugama seed have water. We think the rain gets. Water supply has not been laundered. But if some consumers have decreased, the 24-hour telephone number will be notified in 1919. We are trying to solve it. Balaser can also provide water to essential places. "
-
-◼️
-
-[Data](articles/637e8e62.json)
-
-[Extended Data](ext_articles/637e8e62.ext.json)
-
----
-
-### Explanation for 22 Indian fishermen
-
-*2024-03-11 11:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/22-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/71-334492) · `ta`
-
-22 Indian fishermen arrested by Sri Lankan navy for fishing in Jaffna-Karainagar waters. Ordered remanded until 22nd.
-
-🟩
-
-22 fishermen arrested on Saturday, 9th of this month, were arrested by the Sri Lankan navy for allegedly fishing in the Jaffna -Karainagar waters.
-
-The magistrate then ordered the 22 fishermen to be remanded until Friday the 22nd of this month.
-
-◼️
-
-[Data](articles/fa74a4bd.json)
-
-[Extended Data](ext_articles/fa74a4bd.ext.json)
 
 ---

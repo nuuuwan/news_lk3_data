@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 13:03:12**
+As of **2024-03-11 13:18:02**
 
 ## Newspaper Stats
 
-*Scraped **12,116** Articles*
+*Scraped **12,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 628
 economynextcom | 631
 islandlk | 662
 adalk | 1,027
-adaderanalk | 1,465
-tamilmirrorlk | 1,479
-virakesarilk | 1,653
+adaderanalk | 1,466
+tamilmirrorlk | 1,480
+virakesarilk | 1,654
 dailymirrorlk | 1,855
 adaderanasinhalalk | 1,913
 
@@ -26,45 +26,115 @@ adaderanasinhalalk | 1,913
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,112 (100.0%) of 12,116 articles have been extended.
+12,116 (100.0%) of 12,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### දුම්රිය ගමනට බාධා
+### ‘Harak Kata’ further remanded failed over escape bid
+
+*2024-03-11 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97868/harak-kata-further-remanded-failed-over-escape-bid) · `en`
+
+Notorious underworld figure Nadun Chithaka Wickremeratne, alias ‘Harak Kata’, has been further remanded until 26 April over his failed escape attempt from the Criminal Investigation Department (CID).
+
+The relevant order was issued by the Colombo High Court Judge Damith Thotawatte.
+
+Accordingly, ‘Harak Kata’ will be detained at the old prison complex in Tangalle, which currently operates as a detention centre.
+
+Earlier today (11 March), ‘Harak Kata’ was produced before the Colombo Fort Magistrate’s Court, after which he was produced before the Colombo High Court following a request made by the CID.
+
+On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID officers, had reportedly laced the officers’ teas with poison during his questioning, with the help of a Police Constable.
+
+...
+
+[Data](articles/cc79c8b9.json)
+
+---
+
+### யாழ். சாவகச்சேரி ஏ-9 வீதியில் காரும் மோட்டார் சைக்கிளும் மோதி விபத்து ; இருவர் காயம்
+
+*2024-03-11 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178417) · `ta`
+
+யாழ்ப்பாணம் சாவகச்சேரி ஏ-9 வீதி , தபால் கந்தோர் வீதி சந்தியில்  சற்றுமுன்னர்  காரும் மோட்டார் சைக்கிளும் நேருக்குநேர் மோதிக்கொண்டதில் மோட்டார் சைக்கிளில் பயணித்த இருவர் காயங்களுக்குள்ளாகியுள்ளார்கள்.
+
+◼️
+
+[Data](articles/0136ff0a.json)
+
+---
+
+### ரணிலின் தனி தொடர்பால் அதிருப்தி
+
+*2024-03-11 12:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-தனி-தொடர்பால்-அதிருப்தி/175-334503) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் அதிகாரத்தை மீறி ஜனாதிபதி ரணில் விக்கிரமசிங்க கட்சியின் உறுப்பினர்களுடன் தனிப்பட்ட ரீதியில் நேரடியான தொடர்புகளை ஏற்படுத்துவது குறித்து ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) தனது  கவனத்தையும் கரிசனத்தையும் மீண்டும் வலியுறுத்தியுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கடந்த வாரம் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைவர்களான மஹிந்த ராஜபக்ச மற்றும் பசில் ராஜபக்சவை ஜனாதிபதி சந்தித்த போதே ஜனாதிபதிக்கு இது தொடர்பில் தெரிவிக்கப்பட்டது.
+
+சில பாராளுமன்ற உறுப்பினர்களும் தேர்தல் அமைப்பாளர்களும் ஜனாதிபதியின் பக்கம் சாய்ந்ததை அடுத்து இத்தகைய கரிசனங்கள் மீண்டும் வலியுறுத்தப்பட்டன.
+
+தற்போது, ​​SLPP பாராளுமன்ற உறுப்பினர்களின் ஆதரவு ஜனாதிபதிக்கு விசுவாசமாக உள்ளது. அவர்களில் பெரும்பாலானோர் அரசாங்கத்தில் அமைச்சுப் பதவிகளை வகிக்கின்றனர்.
+
+எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுன ஜனாதிபதிக்கு ஆதரவளிப்பதாக அனைத்து அறிகுறிகளும் சுட்டிக்காட்டப்பட்ட போதிலும், SLPP இன்னும் எந்தவொரு முறையான முடிவையும் எடுக்கவில்லை.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன இது தொடர்பில் முன்னைய சந்தர்ப்பத்திலும் இதேபோன்ற கவலைகளை எழுப்பியது
+
+◼️
+
+[Data](articles/1076d379.json)
+
+---
+
+### Interrupted train journey
 
 *2024-03-11 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194376) · `si`
 
-කොම්පඤ්ඤ වීදියේ දුම්රිය ස්ථානය අසල මහල් නිවාස සංකීර්ණයක තාප්පයක් ඉවත් කිරීමේ සිදුවීමක් සම්බන්ධයෙන් යම් උණුසුම් තත්ත්වයක් හටගෙන තිබේ.
+A train journey was interrupted due to a heated incident involving the removal of an apartment wall near Slave Street Railway Station.
 
-අප වාර්තාකරු පැවසුවේ ඒ හේතුවෙන්, දුම්රිය ගමනට බාධා එල්ල වී ඇති බවය.
+🟩
+
+There is a heated situation for an incident of removing a wall of apartment near Slave Street Railway Station.
+
+Our correspondent said that the train journey was obstructed.
 
 ◼️
 
 [Data](articles/51699d02.json)
 
+[Extended Data](ext_articles/51699d02.ext.json)
+
 ---
 
-### හරක් කටා රිමාන්ඩ්
+### Briday of beef remanded
 
 *2024-03-11 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194375) · `si`
 
-කොළඹ මහාධිකරණයට ඉදිරිපත් කළ නඳුන් චින්තක නොහොත් හරක් කටාව අප්‍රේල් 26 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+"Chinthaka, or Harawa, remanded in Colombo High Court until April 26. Arrested in August 2022, released by Dubai police, and detained in Sri Lanka since March 2023. Seven people resurrected in Madagascar and brought to Sri Lanka on March 15, 2023, questioned under the Prevention of Terrorism Act. Sihaundi Palai presented to Panadura Magistrate's Court today."
 
-අප වාර්තාකරු පැවසුවේ, කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා අදාළ නියෝගය නිකුත් කළ බවය.
+🟩
 
-දින 362ක කාලයක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා ගෙන ප්‍රශ්න කෙරුණු මෙරට තුළ සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාලය මෙහෙය වූ නඳුන් චින්තක නොහොත් "හරක් කටා" අද රැඳවුම් නියෝග අවසන් කිරීමෙන් පසු කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණි.
+Director, Chinthaka, or Harawa, presented to the Colombo High Court, remanded until April 26.
 
-විදේශගතව සිට මෙරට තුළ සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාලය මෙහෙය වූ නඳුන් චින්තක නොහොත් "හරක් කටා" ඩුබායිහීදී අත්අඩංගුවට ගනු ලැබුවේ 2022 වසරේ අගෝස්තු මසදීය.
+Our correspondent said that Colombo High Court Judge Thatawatte issued the order.
 
-කෙසේවෙතත් ඔහුව මෙරටට ගෙන්වාගැනීමට සිදුකළ යුතු උදර්පන කටයුතු විධිමත්ව සිදුනොවීම හේතුවෙන් ඩුබායි පොලීසිය හරක් කටාව මුදාහැර තිබිණි.
+According to the Criminal Investigation Department for a period of 362 days, the organized criminal and drug network was presented to the Fort Magistrate's Court after completing the detention orders.
 
-අනතුරුව 2023 මාර්තු 7 වැනිදා මැඩගස්කරයේ දී "හරක් කටා" සහ සළිඳු මල්ෂික නොහොත් "කුඩු සළිඳු" ඇතුළු 7දෙනෙකු යළි අත්අඩංගුවට පත්වූ අතර ඔවුන් දිවයිනට රැගෙන ආවේ 2023 වසරේ මාර්තු 15 වැනිදාය.
+Drunken Chinthaka, or "Beef", was arrested in August 2022.
+
+However, Dubai police had released bearawa due to the availability of heed to be brought to the country.
+
+On March 7, 2023, seven people were resurrected in Madagascar and seven people, who were "Kaduwara 'or" Kudu Premature ", or was brought to the island on March 15, 2023.
+
+Since then they have been detained in the detention department and questioned the provisions of the Prevention of Terrorism Act.
+
+The CID tried to take away the beef and the security forces to sufilize it.
 
 ...
 
 [Data](articles/028931cb.json)
+
+[Extended Data](ext_articles/028931cb.ext.json)
 
 ---
 
@@ -190,6 +260,8 @@ Wijesekera further stated that the ground-mounted solar plant was a part of the 
 
 [Data](articles/a1c11825.json)
 
+[Extended Data](ext_articles/a1c11825.ext.json)
+
 ---
 
 ### Water supply to be restricted if arid weather continues?
@@ -268,23 +340,33 @@ Natural food is a natural food pigment for food, such as blue cake, cake, jelly,
 
 ---
 
-### ගුරුවරු නැති ’ගුරුහොරු’ සිටින පාසලක්
+### A school that has no teachers 'teachers'
 
 *2024-03-11 12:13:49* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරු-නැති-’ගුරුහොරු’-සිටින-පාසලක්/11-408533) · `si`
 
-ගුරුවරුන් සේවයට පැමිණෙන තුරු පාසලේ දරුවන් රැකබලා ගැනීම මෙන්ම පාසල ආරම්භ කිරීමේ කටයුතු දෙමව්පියන්ට පැවරී ඇති  පන්ති රැසකට වසර කිහිපයකින් උගන්වා නැති අපූරු පාසලක් පිළිබඳ තොරතුරු ලග්ගල ප්‍රදේශයෙන් වාර්තාවේ.
+A school in Laggala, Wilgamuwa, has been unattended for years, with teachers delayed due to personal reasons. Parents, concerned about their children's education, have taken over, cleaning and feeding them. The principal, who has been working in the school, has been accused of not addressing the teacher shortage. The situation has led to parents demanding immediate solutions and accountability from the principal and teachers.
 
-විදුහල්පතිවරයා සහ ගුරුවරුන්  පැමිණීමේ ප්‍රමාදය පිළිබඳව විමසීමේදී මාධ්‍යවේදීන් කලින් දැනුවත් කර පාසලට පැමිණෙන්නේ නම් ගුරුවරුන් කලින් ගෙන්වා ගැනීමට හැකි බව කියයි.
+🟩
 
-ඉගැන්වීම් කටයුතු සඳහා  ප්‍රමාද වී පාසලට එන්නේ කුමක් නිසාදැයි විමසීමේ දී ගුරුවරියන් කියා සිටින්නේ තමන්ට නිවසේ  සහ තම දරුවන්ගේ වැඩකටයුතු තිබෙන නිසා ප්‍රමාද වන බවය.
+Laggala reports information about a wonderful school that has not been taught for many years to take care of the school and start school in the school until the teachers come to the service.
 
-පාසැලේ දරුවන් බොහෝ දෙනකු පාසැල් නොපැමිණෙන බවත් වහාම මෙම පාසලට බලධාරීන්ගේ අවධානය යොමු කරන්නැයි දෙමව්පියෝ ඉල්ලා සිටිති.
+The principal and the journalists inquiry on the delay in the delay in the delay in the arrival of attending the attendance are made available to the school.
 
-මෙම අපූරු පාසල පිහිටා ඇත්තේ ලග්ගල කොට්ටාශයේ විල්ගමුව අධ්‍යාපන  කලාපයේය .ලග්ගල හත්තොට අමුණ  ප්‍රදේශයේ  පිහිටා ඇති  ලේල්ඔය ප්‍රාථමික විද්‍යාලයයි
+When asked why the school is late for teaching, the teachers claim that they are delayed because they have the work of home and their children.
+
+Parents have asked for their schooling at school and immediately focus on the local authorities.
+
+The wonderful school is located in the Wilgamuwa Education Zone, located in the Wilgamuwa Education Zone, located in the Hattatota area in Laggala.
+
+Parents say that the Principal has been submitted to retire from the first year of the school to work in the first year of the school.
+
+Parents say that another teacher has taken place of native leave and two more teachers have had to retire.
 
 ...
 
 [Data](articles/e5b092fc.json)
+
+[Extended Data](ext_articles/e5b092fc.ext.json)
 
 ---
 
@@ -2197,63 +2279,5 @@ At the same time, many more lands of our people have to be released. Definitely 
 [Data](articles/4500ea74.json)
 
 [Extended Data](ext_articles/4500ea74.ext.json)
-
----
-
-### Vavuniya Vettam in Batticaloa
-
-*2024-03-10 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178381) · `ta`
-
-In Batticaloa, a protest was held on Sunday against police actions against worshippers at the Vettukunnarimalai temple in Vavuniya. Over 100 people, including activists and clergy, gathered at Gandhi Park, led by former MPs and Tamil National People's Front organizers. They demanded an end to repression and the protection of religious rights.
-
-🟩
-
-The public staged a demonstration on Sunday (10) in front of the Gandhi Park in Batticaloa, condemning the police against the people who went to worship at the Vettukunnarimalai temple in Vavuniya.
-
-Batticaloa public organizations called for a protest protest against the police, followed by a protest at 10 am in front of the Gandhi Park at 10 am, and former Member of Parliament, Gnan Sirinasan, C. Yogeswaran, P. Ariyanendran and Tamil National People's Front National Organizer T. Suresh.More than one hundred people gathered, including human Uridhur activists and Hindu Christian clergy supporters.
-
-Do not stop Shiva worship, do not prevent Shiva worship, Sinhala repression on Shivaratri day, do not trample humanity, do not prevent religious rights, do not prevent religious rights, Tamil ministers have sold the center of the land?The demonstrators left the Gandhi Park and moved on to the rally for about an hour.
-
-◼️
-
-[Data](articles/0a6483db.json)
-
-[Extended Data](ext_articles/0a6483db.ext.json)
-
----
-
-### Civil society organisations, individuals express concerns over proposed Truth Unity and Reconciliation Commission
-
-*2024-03-10 22:50:53* · [`dailyftlk`](https://www.ft.lk/opinion/Civil-society-organisations-individuals-express-concerns-over-proposed-Truth-Unity-and-Reconciliation-Commission/14-759320) · `en`
-
-Over 30 organisations and 40 individuals and activists have written to the Interim Secretariat for Truth and Reconciliation Mechanism Director General Dr. Asanga Gunawansa expressing concerns regarding the proposed Truth Unity and Reconciliation Commission (TURC).
-
-We, activists, and civil society organisations from, as well as working in the North and the East with war affected communities write to you regarding the proposed Commission for Truth, Unity and Reconciliation (hereinafter the Commission). Some of us have engaged with the Interim Secretariat for Truth and Reconciliation Mechanisms (ISTRM), including attending the meetings organised by the Secretariat on 9 and/or 26 February 2024 to discuss the proposed Commission.
-
-...
-
-[Data](articles/e5785be1.json)
-
-[Extended Data](ext_articles/e5785be1.ext.json)
-
----
-
-### “Yukthiya” or “Ayukthiya”
-
-*2024-03-10 22:48:13* · [`dailyftlk`](https://www.ft.lk/opinion/Yukthiya-or-Ayukthiya/14-759319) · `en`
-
-Narcotics officers suspected of insider crime allegedly reappointed to key positions after bail, murder of informants and threats to investigators
-
-“Is this why Sri Lanka never recovers from the ‘cancerous’ drug menace?” ask activists
-
-The scourge of the drug menace has long been one of Sri Lanka’s main problems in achieving prosperity and the social wellbeing of its people. For decades, there have been thousands upon thousands of reports on various drug busts and prosecutions. Yet daily the numbers of drug users in the Country increase and the quantities of narcotics recovered keep going higher and higher, with many of the cases making headlines in the news.
-
-The recent “Yukthiya” operation initiated by the new IGP Deshabandu Tennakoon and Public Security Minister Tiran Alles has been cited as the “operation that will save the future generation of the country” by the Minister. The IGP has pledged to “dedicate the maximum capacity of the Sri Lanka Police Force” to the same.
-
-...
-
-[Data](articles/8007d68a.json)
-
-[Extended Data](ext_articles/8007d68a.ext.json)
 
 ---

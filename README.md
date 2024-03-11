@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 11:18:00**
+As of **2024-03-11 11:33:25**
 
 ## Newspaper Stats
 
-*Scraped **12,085** Articles*
+*Scraped **12,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
-adalk | 1,022
-adaderanalk | 1,462
+adalk | 1,024
+adaderanalk | 1,463
 tamilmirrorlk | 1,473
 virakesarilk | 1,648
-dailymirrorlk | 1,853
+dailymirrorlk | 1,854
 adaderanasinhalalk | 1,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,080 (100.0%) of 12,085 articles have been extended.
+12,085 (100.0%) of 12,089 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,17 +48,53 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 ---
 
-### நிர்வாணமாக மேடை ஏறிய ஜோன் சீனா (காணொளி)
+### ‘Harak Kata’ produced before courts
+
+*2024-03-11 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97865/harak-kata-produced-before-courts-) · `en`
+
+Notorious underworld figure Nadun Chithaka Wickremeratne, alias ‘Harak Kata’, was produced before the Colombo Fort Magistrate’s Court on Monday morning (11 March).
+
+The criminal is currently detained in the custody of the Criminal Investigation Department (CID), after he and his infamous accomplice Salindu Malshika alias “Kudu Salindu” were arrested in Madagascar on 01 March 2023 in a joint operation by the INTERPOL and Malagasy law enforcement authorities and Customs officials.
+
+The duo was brought back to the island on March 15 after Malagasy defence officials informed the Sri Lankan Foreign Ministry of the arrest of 8 suspects including the two Sri Lankan underworld figures. .
+
+The extradition process had been coordinated by the Sri Lankan High Commission in Victoria, Seychelles, as Sri Lanka does not have an embassy or a high commission in Madagascar.
+
+◼️
+
+[Data](articles/dc483dc0.json)
+
+---
+
+### රාවණාට ගිණි තැබුවේ කවුරුන්ද ?
+
+*2024-03-11 11:08:27* · [`adalk`](https://www.ada.lk/breaking_news/රාවණාට-ගිණි-තැබුවේ-කවුරුන්ද--/11-408531) · `si`
+
+ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ටාශයට අයත්   රාවණා ඇල්ල අභය භුමියේ   ගෝවුස්ස රක්ෂිතය ඇතුලු බදුල්ල දිස්ත්‍රික්කයේ  රක්ෂිත පහකට පමණ    ඉයේ (10)   දිනය තුල  කිසියම් පිරිසක් විසින්   ගිණී තැබීම්  සිදුකර ඇති අතර අද (11) උදෑසන වන විට එම සියලු ගිනිතැබීම් මුලුමනින්ම පාලනය කර ඇතැයි   බදුල්ල දිස්ත්‍රික් ආපදා කළමණාකරණ මධ්‍යස්ථානය පවසයි.
+
+ඇල්ල ප්‍රාදේශීය ලේකම් කොට්ටාශයට අයත්   රාවණා ඇල්ල අභය භුමියේ   ගෝවුස්ස රක්ෂිතයට, මොරේතොට වසමට අයත් හූරියල කන්ද රක්ෂිතයට පස්සර  ගෝනකැලේ වතුයායට ඉහලින් පිහිටි පයිනස් වගාවට, උඩුවර වසමේ රොසට්වත්ත ප්‍රදේශයට  මෙලෙස ගිණී තැබීම් සිදුකර ඇත.
+
+කෙසේ වෙතත් මෙම ගිනි ගැනීම් වාර්තා වූ වහාම බදුල්ල දිස්ත්‍රික් ආපදා කළමණාකරණ සහකාර අධ්‍යක්ෂ ඊ එල් එම් උදය කුමාර    මහතාගේ උපදෙස් හා මග පෙන්වීම මත එම ප්‍රදේශයන්හි වන ජීවී නිලධාරීන්, වන සංරක්ෂණ නිලධාරීන් හා ‍ප්‍රදේශයේ සිවිල් සංවිධාන ප්‍රදේශවාසීන් හා එක්ව එම ගිනි ගැනීම් පාලනය කිරීමට පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/b2bcbeff.json)
+
+---
+
+### John China (Video)
 
 *2024-03-11 11:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-மேடை-ஏறிய-ஜோன்-சீனா-காணொளி/175-334491) · `ta`
 
-96-வது 'ஆஸ்கார்' திரைப்பட விருது வழங்கும் விழா இடம்பெற்றுள்ள  நிலையில்  அதில் சிறந்த ஆடை வடிவமைப்பிற்கான விருதை யார் வெல்வார் என அறிவிப்பதற்கு, நடிகர் ஜோன் சீனா மேடை  ஏறியுள்ளார் .
+Actor John China has climbed the stage to announce who will win the Best Clothing Award, with the 96th Oscar Film Awards.
 
-இளைஞர்கள் மற்றும் பெரியவர்கள் மத்தியில் பிரபலமடைந்துள்ள  ஹாலிவுட் நடிகரும்  , WWE  குத்துச்சண்டை வீரருமான , 46 வயதுடைய   ஜோன் சீனா  நிர்வாணமாக மேடைக்கு வந்துள்ளதுடன்  இது அனைவருக்குமிடையில்  பெரும்  சர்ச்சையை  ஏற்படுத்தியுள்ளது.
+Hollywood actor and WWE boxer, 46 -year -old John China, has come to the stage naked, and has caused great controversy among young people and adults.
 
 ◼️
 
 [Data](articles/ca2325b1.json)
+
+[Extended Data](ext_articles/ca2325b1.ext.json)
 
 ---
 
@@ -82,6 +118,8 @@ From the corner of the stage, Cena peeked his head out and told Kimmel he didn�
 
 [Data](articles/1171a731.json)
 
+[Extended Data](ext_articles/1171a731.ext.json)
+
 ---
 
 ### ’My name removed from speakers’ list’: Navin Dissanayake
@@ -95,6 +133,8 @@ Colombo, March 11 (Daily Mirror)- Former UNP National Organizer Navin Dissanayak
 ◼️
 
 [Data](articles/3b1bd0bd.json)
+
+[Extended Data](ext_articles/3b1bd0bd.ext.json)
 
 ---
 
@@ -172,6 +212,26 @@ The SLPP raised similar concerns on a previous occasion too in this regard
 
 ---
 
+### SLPP expresses concerns over President’s direct dealing with individual MPs
+
+*2024-03-11 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLPP-expresses-concerns-over-Presidents-direct-dealing-with-individual-MPs/155-278622) · `en`
+
+Colombo, March 11 (Daily Mirror)- Sri Lanka Podujana Peramuna (SLPP) is reported to have reiterated its concerns with President Ranil Wickremesinghe over his direct dealings with individuals of the party bypassing its hierarchy.
+
+It was communicated to the President when he met with SLPP leaders Mahinda Rajapaksa and Basil Rajapaksa last week.
+
+Such concerns were reiterated in the wake up of some MPs and electoral organizers siding with the President.
+
+Currently, a sediment of SLPP MPs remain loyal to the President. Most of them hold ministerial positions in the government. SLPP MP Chief Government Whip Prasanna Ranatunga openly advocates candidacy to the President at the upcoming presidential election. However, the SLPP is yet to take any formal decision although all indications point to its support to the President.
+
+The SLPP raised similar concerns on a previous occasion too in this regard
+
+◼️
+
+[Data](articles/38ab228c.json)
+
+---
+
 ### Change from normal judicial practice observed in two appeal cases
 
 *2024-03-11 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-from-normal-judicial-practice-observed-in-two-appeal-cases/108-278618) · `en`
@@ -189,6 +249,24 @@ The accused Sirisena, dissatisfied with the judgment of Magistrate Nissanka, fil
 [Data](articles/e2980ef0.json)
 
 [Extended Data](ext_articles/e2980ef0.ext.json)
+
+---
+
+### අමුතු පාඩමක් ඉගැන්නූ ගුරුවරයා
+
+*2024-03-11 10:38:57* · [`adalk`](https://www.ada.lk/breaking_news/අමුතු-පාඩමක්-ඉගැන්නූ-ගුරුවරයා/11-408527) · `si`
+
+බියගම පුදේශයේ උසස් පාසලක සිසුවියක් රවටා ලිංගික අතවරයක් සිදු කළ බව කියන  එම පාසලේම ගුරුවරයකු බියගම පොලිසිය මගින්  අත් අඩංගුවට ගෙන ඇත. මේ අතවරයට ලක්වු සිසුවිය 13 වන වසර පන්තියේ අධ්‍යාපනය ලබන 18 වන වියේ පසුවන බියගම ප්‍රදේශයේම ළමා සංවර්ධන මධ්‍යස්ථානයක නේවාසිකව සිටින දැරියක්  වන අතර එම ගුරුවරයා 46  වන වියේ පසුවන විවාහකයෙකි.
+
+ඉකුත් බුහස්පතින්දා ( 07 වැනිදා ) පාසල් කාලයේදී මේ සැකකාර ගුරුවරයා විසින් ක්‍රීඩා තරගවල සිටින සිසුන්ගේ නම් ලියා ගැනීමට බවට පවසමින් එම සිසුවිය පාසලේ තාක්ෂණ කාමරය තුලට ගෙන්වා  මෙම සිදුවීම සිදු කර ඇත.
+
+අත් අඩංගුවට ගන්නා ලද සැකකාර ගුරුවරයා  මහර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට කටයුතු කර ගෙන යයි.
+
+මේ සිද්ධිය සම්බන්ධව බියගම පොලිස් ස්ථානාධිපති පුධාන පොලිස් පරික්ෂක අජිත් විජේසිංහ මහතාගේ උපදෙස් අනුව විවිධ පැමිණිළි විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරික්ෂක එරන්ද සහ  ළමා හා කාන්තා කාර්යාංශයේ ස්ථානාධිපතිනි පොලිස් පරික්ෂීකා ප්‍රබෝදනි යන නිලධාරීහු තවදුරටත් පරික්ෂණ පවත්වා ගෙන යති.
+
+◼️
+
+[Data](articles/d3bedc54.json)
 
 ---
 
@@ -218,23 +296,27 @@ He concluded: "We made a film about the man who created the atomic bomb, and for
 
 ---
 
-### வரி செலுத்தாத 1000 நிறுவனங்களுக்கு நோட்டீஸ்
+### Notices to 1000 companies that are not taxed
 
 *2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்/175-334490) · `ta`
 
-இலங்கையின் உள்நாட்டு இறைவரித் திணைக்களமானது (IRD) ஏறக்குறைய 160 பில்லியனுக்கும் அதிகமான வரி நிலுவைகளை செலுத்தாத 1000 நிறுவனங்களுக்கு வரியை செலுத்தக் கோரி அறிவித்தல்களை அனுப்பியுள்ளது.
+Sri Lanka's Internal Revenue Department (IRD) has sent notifications to 1000 companies that do not pay more than 160 billion tax arrears.
 
-நிறுவனங்கள் தங்கள் நிலுவைத் தொகையை ஆறு மாதங்களில் செலுத்த வேண்டும் அல்லது வங்கி கணக்குகள் மற்றும் சொத்துக்களை பறிமுதல் செய்ய நேரிடும் என IRD ஆளுநர் செபாலிகா சந்திரசேகரா கூறியுள்ளார்.
+IRD Governor Sebalika Chandrasekara has said that companies will pay their arrears in six months or confiscate bank accounts and assets.
 
-அவர் மேலும் கூறுகையில், கடந்த ஆண்டு இறுதி வரை நிலுவையில் இருந்த நிலுவைத் தொகையை ஆறு மாதங்களில் நீட்டிப்பு இல்லாமல் செலுத்துமாறு நிறுவனங்களுக்கு நோட்டீஸ் அனுப்பப்பட்டுள்ளது.
+He added that the outstanding arrears have been issued to the companies to pay the outstanding arrears until the end of last year.
 
-சில நிறுவனங்கள் பதிலளித்து, நிலுவைத் தொகையை ஐஆர்டி வசூலிக்க ஏதுவாக தங்கள் சொத்துக்களை பறிமுதல் செய்ய ஒப்புக்கொண்டுள்ளதாகவும் வரி செலுத்துவதில் தவறிய நிறுவனங்களை ஐஆர்டிக்கு வரவழைத்து நிலுவைத் தொகையை மீட்பதற்கான சாத்தியக்கூறுகள் குறித்து விவாதிக்க உள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+He added that some companies have agreed to confiscate their assets in response to the IRT, and that they will discuss the possibility of recovering the outstanding companies to the IRT and recovering the amount of arrears.
 
-ஆளுநரின் கூற்றுப்படி, வரி செலுத்தாதவர்களில், மதுபான நிறுவனங்கள், ஹோட்டல்கள் மற்றும் ரியல் எஸ்டேட் நிறுவனங்கள் உள்ளடங்குகின்றன.
+According to the governor, taxpayers include liquor companies, hotels and real estate companies.
 
-...
+Chandrasekara added that "IRT has appointed an IRD under the Deputy Commissioner to collect tax balances."
+
+◼️
 
 [Data](articles/094ece76.json)
+
+[Extended Data](ext_articles/094ece76.ext.json)
 
 ---
 
@@ -345,6 +427,10 @@ However, Dissanayake also said that the Elections Commission would have the auth
 ### What's going on today?
 
 *2024-03-11 10:21:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණය--මොකද-වෙන්නෙ-/11-408526) · `si`
+
+Today's weather: Morning showers/thundershowers in Ratnapura, Kalutara, Galle, Matara, and sea areas off the coast from Hambantota to Batticaloa. Dry weather expected elsewhere. Northeast winds (20-30) and sea areas off Matara to Kankasanthurai may be slightly rough.
+
+🟩
 
 In the morning, the weather forecast issued by the Department of Meteorology, according to the Eastern Province and Hambantota District can be found in the Eastern Province and Hambantota District.. Showers or thundershowers will occur at night in the Ratnapura, Kalutara, Galle and Matara districts.. It is said that in other parts of the island, there is mainly dry weather.
 
@@ -534,23 +620,29 @@ In this context, the National Water Supply and Drainage Board has introduced an 
 
 ---
 
-### சிவனொளிபாத மலைக்கு சென்ற பெண் மரணம்
+### The woman who went to the Sivanolipada mountain
 
 *2024-03-11 09:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலைக்கு-சென்ற-பெண்-மரணம்/175-334485) · `ta`
 
-வத்தளை - பகுதியில் இருந்து சிவனொளிபாத மலைக்கு தரிசனம் செய்யச்சென்ற வயோதிபப் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+An 80-year-old woman died on the Sivanolipada mountain. She fell ill in Gangula, Siyatha, and was admitted to Maskeliya District Hospital without treatment. Her body is at the hospital, to be released to relatives after autopsy.
 
-இவர் நேற்று இரவு தரிசனம் செய்து விட்டு திரும்பும் போது, சியத்த கங்குல பகுதியில் வைத்து திடீரென சுகவீனமுற்றுள்ளார்.
+🟩
 
-இந்த நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சிகிச்சை பலனின்றி உயிரிழந்தார் என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி சாந்த வீரசேகர தெரிவித்தார்.
+An elderly woman who died from the Wattala - Sivanolipada hill has died.
 
-இவ்வாறு மரணித்தவர் வத்தளை பகுதியில் இருந்து தனது குடும்பத்துடன் சிவனொளிபாத மலைக்குச் சென்ற 80 வயதுடைய சுமணாவதி ஆவார்.
+When he returned to the darshan last night, he was suddenly ill in the Gangula area of Siyatha.
 
-சடலம் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் வைக்கப்பட்டுள்ளது. பிரேத பரிசோதனையின் பின் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட உள்ளது என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார். R
+Nalladhani Police Station Superintendent Shantha Weerasekera said that he died without treatment when he was admitted to the Maskeliya District Hospital.
+
+The 80 -year -old Sumanavathi, who died from the Wattala area to the Sivanolipada hill with his family.
+
+The body is placed on Maskeliya District Hospital. The body of the police station said that the body is to be handed over to relatives after the autopsy.. Remble
 
 ◼️
 
 [Data](articles/2f44f793.json)
+
+[Extended Data](ext_articles/2f44f793.ext.json)
 
 ---
 
@@ -2097,87 +2189,5 @@ This is the first time that the President has first been appointed as his post.
 [Data](articles/e3fe0855.json)
 
 [Extended Data](ext_articles/e3fe0855.ext.json)
-
----
-
-### Army troops rescue university student who fell off Alagalla Mountain
-
-*2024-03-10 18:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-troops-rescue-university-student-who-fell-off-Alagalla-Mountain/108-278562) · `en`
-
-The Army troops have rescued a university student who had fallen down the treacherous slopes of the Alagalla Mountain in Kegalle.
-
-The incident occured when a group of 10 students from the University of Wayaba, who had been on a night camp excursion yesterday, encountered an unforeseen mishap.
-
-One of the students had fallen down a steep cliff, sustaining severe injuries.
-
-The troops promptly provided necessary medical assistance and stabilized his condition. The rescued student was transferred to the Mawanella Hospital for further medical treatment.
-
-◼️
-
-[Data](articles/b1e5ffb5.json)
-
-[Extended Data](ext_articles/b1e5ffb5.ext.json)
-
----
-
-### Central Mail Exchange employees to strike over broken elevator
-
-*2024-03-10 18:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97856/central-mail-exchange-employees-to-strike-over-broken-elevator) · `en`
-
-The employees of the Central Mail Exchange in Colombo have decided to launch a 24-hour token strike from midnight today (10 March).
-
-Speaking at a media briefing held today, the United Postal Trade Unions Front (UPTUF) stated that the strike is being launched in view of the failure to repair the elevator at the building, which has been inoperable for almost one year.
-
-They explained that nearly 40% of the female employees, including pregnant women, face difficulties due to this, adding that the Central Mail Exchange is an eight-storied building, therefore making it a rather difficult task to move around mail bags.
-
-Thus, the UPTUF warned that if the government fails to resolve the matter within a month, the trade union action will continue.
-
-◼️
-
-[Data](articles/5f04967d.json)
-
-[Extended Data](ext_articles/5f04967d.ext.json)
-
----
-
-### 27 arrested between 20-22 20-22 arrested in Kahathuduwa
-
-*2024-03-10 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194355) · `si`
-
-Police in Kahathuduwa arrested 27, including 19 adults and 8 girls, for drug use. Suspects, aged 20-22, from Polonnaruwa, Dehiattakandiya, Galle, Kandy, and Diyatalawa, were found with Hash of Hash of Harbor. Further investigations continue.
-
-🟩
-
-Police have arrested 19 persons and eight young girls who joined a party using drugs.
-
-The police were arrested by the police at a house in Magammana in a raid on a raid on information received by the Kahathuduwa Police.
-
-Police also found three other suspects in possession of the Hash of Hash of Harbor and three other suspects in possession of three suspects.
-
-All the suspects and suspects are aged 20 and 22 years of age.
-
-Further investigations have revealed that the suspects and the suspects were residents of Polonnaruwa, Dehiattakandiya, Galle, Kandy and Diyatalawa.
-
-The suspects have been produced in court and the Kahathuduwa police are conducting further investigations.
-
-◼️
-
-[Data](articles/105e46e9.json)
-
-[Extended Data](ext_articles/105e46e9.ext.json)
-
----
-
-### Getting busy with Ramazan
-
-*2024-03-10 18:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Getting-busy-with-Ramazan/110-278561) · `en`
-
-As Ramazan, the month of fasting, will start this week, several Muslims were seen in Petta getting busy with their shopping. While buying of clothes is usually done towards the festival of Eid, people were seen getting a head-start, probably since economic conditions have improved from what it was over the last couple of years - Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/27c4ea39.json)
-
-[Extended Data](ext_articles/27c4ea39.ext.json)
 
 ---

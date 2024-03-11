@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 10:17:56**
+As of **2024-03-11 10:33:19**
 
 ## Newspaper Stats
 
-*Scraped **12,066** Articles*
+*Scraped **12,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
-adalk | 1,020
+adalk | 1,021
 adaderanalk | 1,461
 tamilmirrorlk | 1,468
 virakesarilk | 1,645
@@ -26,49 +26,67 @@ adaderanasinhalalk | 1,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,060 (100.0%) of 12,066 articles have been extended.
+12,066 (100.0%) of 12,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### சிறிதளவு மழை பெய்யக்கூடும்
+### May be a little rainfall
 
 *2024-03-11 10:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதளவு-மழை-பெய்யக்கூடும்/175-334488) · `ta`
 
-கிழக்கு மாகாணத்திலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+The Department of Meteorology predicts slight rainfall in the Eastern Province and Hambantota district, with rain or thunderstorms expected in Ratnapura, Kalutara, Galle, and Matara districts in the evening or night. Wind speeds from 20-30 km/h in the northeast may increase to 40-45 km/h from Colombo to Puttalam and Mannar, affecting seas from Colombo to Puttalam and Mannar via Kankesanthurai, and from Matara to Pottuvil via Hambantota.
 
-இரத்தினபுரி, களுத்துறை, காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் நாட்டின் ஏனைய பகுதிகளில் முக்கியமாக வறட்சியான காலநிலை நிலவும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மேல், சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும்.
+The Department of Meteorology has predicted a slight rainfall in the Eastern Province and Hambantota district.
 
-இதேவேளை, ஹம்பாந்தோட்டையில் இருந்து பொத்துவில் ஊடாக மட்டக்களப்பு வரையான கடற்பிராந்தியங்களில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Department of Meteorology has said that in some places in the districts of Ratnapura, Kalutara, Galle and Matara, there will be rain or thunderstorms in the evening or night.
 
-காற்றானது வடகிழக்கு திசையில் வீசும் அதேவேளை, காற்றின் வேகம் மணிக்கு 20-30 கிலோமீற்றர் வேகத்தில் காணப்படும்.
+In the morning, in some parts of the Galle and Matara districts, the Sabaragamuwa and Uva provinces are in the morning.
 
-...
+Meanwhile, rain or thunderstorms are likely to occur in some areas from Hambantota to Pottuvil to Batticaloa.
+
+While the wind blows in the northeast, the wind speed is 20-30 km / h.
+
+Wind speeds can be increased from Colombo to Puttalam and Mannar via Kankesanthurai, Matara to Pottuvil via Pottuvil to Pottuvil to 40-45 km per hour.
+
+The Department of Meteorology has said that the seas from Colombo to Puttalam and Mannar via Kankesanthurai, from Matara to Pottuvil via Hambantota via Pottuvil.
+
+◼️
 
 [Data](articles/2601b97a.json)
 
+[Extended Data](ext_articles/2601b97a.ext.json)
+
 ---
 
-### 7 விருதுகளை அள்ளிய  ஓபன்ஹெய்மர்
+### 7 Awards
 
 *2024-03-11 09:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/7-விருதுகளை-அள்ளிய-ஓபன்ஹெய்மர்/54-334486) · `ta`
 
-ஒஸ்கர் விருது விழாவில் அதிகபட்சமாக 7 விருதுகளை வென்று கிறிஸ்டோபர் நோலன் தனது திரைப்படத்தின் மூலம் தன்னை நிரூபித்துள்ளார்.
+Christopher Nolan won 7 Oscars, including Best Director for "Openheimer," while Barbie won one. The 96th Oscars began Sunday night, featuring Hollywood glamour and a film about Robert Oppenheimer's life, including scenes in Hiroshima and Nagasaki.
 
-பாக்ஸ் ஆபிஸில் ஓபன்ஹெய்மர் படத்தை பந்தாடிய பார்பி படம் ஒஸ்கர் விருது விழாவில் ஒரே ஒரு விருது மட்டுமே வென்றது ரசிகர்களை அதிர்ச்சியில் ஆழ்த்தி உள்ளது.
+🟩
 
-96ஆவது ஒஸ்கர் விருது விழா அமெரிக்காவில் ஞாயிற்றுக்கிழமை இரவு, அதாவது இலங்கை நேரப்படி திங்கட்கிழமை அதிகாலை 4 மணிக்கும் தொடங்கியது.
+Christopher Nolan has proved himself through his film, winning the maximum 7 awards at the Oscar Awards.
 
-முதலில் நடைபெற்ற ரெட் கார்ப்பெட் நிகழ்ச்சியில் பல்வேறு ஹாலிவுட் நடிகைகள் அழகு பதுமைகளாக உடையணிந்துக் கொண்டு விருது விழாவை கண்கவர் நிகழ்ச்சியாக மாற்றினர்.
+Barbie, who played Openheimer at the box office, won only one award at the Oscar Awards.
 
-கிறிஸ்டோபர் நோலன் இயக்கத்தில் சிலியன் மர்பி நடிப்பில் கடந்த ஆண்டு வெளியான ஓபன்ஹெய்மர் திரைப்படம். அணுகுண்டை தயாரித்த ஜே. ராபர்ட் ஓபன்ஹெய்மரின் வாழ்க்கை வரலாறு படமாக உருவானது.
+The 96th Oscar Award Ceremony began on Sunday night in the United States at 4 am on Monday night.
+
+At the first Red Carpet, various Hollywood actresses dressed in beauty and converted the awards ceremony into a spectacular event.
+
+Openheimer's film released last year starring Child Murphy starring Christopher Nolan. The atomic bomb produced. The biography of Robert Openheimer was a film.
+
+In the scenes of Hiroshima Nagasaki in Japan, he was in the vicinity of the cities of Nagasaki, and the scenes that the world was destroyed and the scenes of the Chilean Murphy in his performance.. The film has been awarded Oscar in 7 categories including Best Picture, Best Director and Best Actor.
 
 ...
 
 [Data](articles/9edb5d54.json)
+
+[Extended Data](ext_articles/9edb5d54.ext.json)
 
 ---
 
@@ -134,23 +152,29 @@ In this context, the National Water Supply and Drainage Board has introduced an 
 
 ---
 
-### சிவனொளிபாத மலைக்கு தரிசனம் செய்யச் சென்ற பெண் மரணம்
+### The death of a woman who went to the mountain of Sivanolipada
 
 *2024-03-11 09:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலைக்கு-தரிசனம்-செய்யச்-சென்ற-பெண்-மரணம்/175-334485) · `ta`
 
-வத்தளை - பகுதியில் இருந்து சிவனொளிபாத மலைக்கு தரிசனம் செய்யச்சென்ற வயோதிபப் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+An 80-year-old woman from Wattala died on Sivanolipada hill, without treatment at Maskeliya District Hospital.
 
-இவர் நேற்று இரவு தரிசனம் செய்து விட்டு திரும்பும் போது, சியத்த கங்குல பகுதியில் வைத்து திடீரென சுகவீனமுற்றுள்ளார்.
+🟩
 
-இந்த நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சிகிச்சை பலனின்றி உயிரிழந்தார் என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி சாந்த வீரசேகர தெரிவித்தார்.
+An elderly woman who died from the Wattala - Sivanolipada hill has died.
 
-இவ்வாறு மரணித்தவர் வத்தளை பகுதியில் இருந்து தனது குடும்பத்துடன் சிவனொளிபாத மலைக்குச் சென்ற 80 வயதுடைய சுமணாவதி ஆவார்.
+When he returned to the darshan last night, he was suddenly ill in the Gangula area of Siyatha.
 
-சடலம் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் வைக்கப்பட்டுள்ளது. பிரேத பரிசோதனையின் பின் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட உள்ளது என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார். R
+Nalladhani Police Station Superintendent Shantha Weerasekera said that he died without treatment when he was admitted to the Maskeliya District Hospital.
+
+The 80 -year -old Sumanavathi, who died from the Wattala area to the Sivanolipada hill with his family.
+
+The body is placed on Maskeliya District Hospital. The body of the police station said that the body is to be handed over to relatives after the autopsy.. Remble
 
 ◼️
 
 [Data](articles/83595553.json)
+
+[Extended Data](ext_articles/83595553.ext.json)
 
 ---
 
@@ -187,6 +211,20 @@ President Ranil Wickremesinghe has reportedly instructed the Prime Minister to u
 [Data](articles/75ee4b9b.json)
 
 [Extended Data](ext_articles/75ee4b9b.ext.json)
+
+---
+
+### මෙගා වොට් දෙකක බිම්ගත සූරිය පැනල විදුලි උත්පාදන ව්‍යාපෘතියක් වීවෘත කරයි
+
+*2024-03-11 09:20:00* · [`adalk`](https://www.ada.lk/picture_story/මෙගා-වොට්-දෙකක-බිම්ගත-සූරිය-පැනල-විදුලි-උත්පාදන-ව්‍යාපෘතියක්-වීවෘත-කරයි/10-408525) · `si`
+
+මෙගා වොට් 2ක ධාරිතාවෙන් යුත් බිම්ගත සූර්ය පැනල මගින් විදුලිය උත්පාදනය කිරීමේ ව්‍යපෘතියක්  මඩකලපුවේදී විවෘත කරනු ලැබූ බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+විදුලිබල මණ්ඩලය විසින් ටෙන්ඩර් කරන ලද ව්‍යාපෘතියකට අනුව බැක්බේ සෝලා පුද්ගලික සමාගම මගින් මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කර තිබේ.
+
+◼️
+
+[Data](articles/873863e1.json)
 
 ---
 
@@ -1732,6 +1770,8 @@ As Ramazan, the month of fasting, will start this week, several Muslims were see
 
 [Data](articles/27c4ea39.json)
 
+[Extended Data](ext_articles/27c4ea39.ext.json)
+
 ---
 
 ### Navy arrests 22 Indian fishermen, three fishing trawlers
@@ -2129,29 +2169,5 @@ Police have seriously injured in the abdomen abdomen by the suspects with the tw
 [Data](articles/76253897.json)
 
 [Extended Data](ext_articles/76253897.ext.json)
-
----
-
-### 80 percent of school uniforms buy 20 percent to 20 percent of China
-
-*2024-03-10 16:03:18* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-නිල-ඇඳුම්වලින්-සියයට-80ක්-චීන-ප්‍රධානයක්-සියයට-20ක්-චීනයෙන්-මිලදී-ගනියි/11-408515) · `si`
-
-80% of China's school uniforms are free, given to students and government-supported schools. The Ministry of Education provides 35 types of textiles. Responsibility lies with Kotles, Zones, Provincial Education Directors, and principals.
-
-🟩
-
-According to the Ministry of Education, 80 percent of these uniforms are a grant of 80 percent of these uniforms in this year's uniform uniform project.
-
-These free uniforms are entitled to uniform clothes, students and students in government and government support schools.
-
-According to the Ministry of Education, 35 types of textiles will be provided under the grades of student type and learning grades.
-
-These uniforms are the responsibility of the Kotles, Zones, Provincial Education Directors and principals that will take action against the officers who do not.
-
-◼️
-
-[Data](articles/602e33f4.json)
-
-[Extended Data](ext_articles/602e33f4.ext.json)
 
 ---

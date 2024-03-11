@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 07:31:30**
+As of **2024-03-11 07:52:54**
 
 ## Newspaper Stats
 
-*Scraped **12,040** Articles*
+*Scraped **12,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
-adalk | 1,017
+adalk | 1,018
 adaderanalk | 1,459
 tamilmirrorlk | 1,464
 virakesarilk | 1,644
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,032 (99.9%) of 12,040 articles have been extended.
+12,032 (99.9%) of 12,041 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1061,6 +1061,22 @@ Minister Harin Fernando also did not attend the rally attended by President Rani
 [Data](articles/5269e8ef.json)
 
 [Extended Data](ext_articles/5269e8ef.ext.json)
+
+---
+
+### ණුවන් තුෂාර මට මාලිංගව මතක් කළා
+
+*2024-03-10 19:29:15* · [`adalk`](https://www.ada.lk/sports/ණුවන්-තුෂාර-මට-මාලිංගව-මතක්-කළා/9-408521) · `si`
+
+බංග්ලාදේශය හා පැවැති තෙවැනි විස්සයි20 තරගයේදී වේග පන්දු යවන ක්‍රීඩක ණුවන් තුෂාර දැක්වූ දක්ෂතාව තමන්ට ලසිත් මාලිංගව සිහපත් කළ බව ශ්‍රී ලංකා එක්දින නායක කුසල් මෙන්ඩිස් පවසයි.
+
+"මම ඔහු ගැන ගොඩක් සතුටු වෙනවා,ලෝක කුසලානය ආසන්නයේ තිබියදී, අපේ පන්දු යවන්නන් බොහෝ දෙනෙක් දක්ෂතා දැක්වීම සතුටක්. ඔහු කලක සිට ලීග තරවල හොඳින් ක්‍රීඩා කරනවා. ඔහු දකුණු අප්‍රිකාවේ [SA20] ද හොඳින් ක්‍රීඩා කළා.
+
+අපට ඔහුව අවශ්‍ය වූ විට කණ්ඩායම වෙනුවෙන් ඔහුගේ උපරිමය ලබා දීමට ඔහුට හැකි වූයේත් ඒ නිසයි. ඒ කඩුලු තුන නිසයි (ණුවන් තුෂාරගේ කඩුලු ත්‍රිත්වය) තරගය අපේ පැත්තට හැරුනේ. ඒකෙන් මට මතක් වුණේ මාලි අයියා [ලසිත් මාලිංග] පන්දු යැවූ ආකාරයයි."
+
+◼️
+
+[Data](articles/d63a8e07.json)
 
 ---
 
@@ -2135,25 +2151,5 @@ The Combined Post Union Front said that the government is asking for three month
 [Data](articles/53a91216.json)
 
 [Extended Data](ext_articles/53a91216.ext.json)
-
----
-
-### The story that sells water is lying
-
-*2024-03-10 12:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீரை-விற்கும்-கதை-பொய்/175-334443) · `ta`
-
-Mahinda Amaraweera, Minister of Agriculture, denies allegations of water privatization and charging. No proposals have been submitted to the government for such actions.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that no idea has been submitted to the government on charging or privatizing water to the farmers.
-
-The Minister further stated that the allegations made by some political parties are unfounded that they are going to privatize water and charge free water for agricultural demand.
-
-◼️
-
-[Data](articles/f53e1d66.json)
-
-[Extended Data](ext_articles/f53e1d66.ext.json)
 
 ---

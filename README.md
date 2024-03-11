@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 07:16:15**
+As of **2024-03-11 07:31:30**
 
 ## Newspaper Stats
 
-*Scraped **12,032** Articles*
+*Scraped **12,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 182
 newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
-islandlk | 656
+islandlk | 662
 adalk | 1,017
 adaderanalk | 1,459
-tamilmirrorlk | 1,462
+tamilmirrorlk | 1,464
 virakesarilk | 1,644
 dailymirrorlk | 1,841
 adaderanasinhalalk | 1,898
@@ -26,11 +26,73 @@ adaderanasinhalalk | 1,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,023 (99.9%) of 12,032 articles have been extended.
+12,032 (99.9%) of 12,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Oceanswell and Greenpeace South Asia conduct cetacean surveys in Indian Ocean
+
+*2024-03-11 07:06:00* · [`islandlk`](http://island.lk/oceanswell-and-greenpeace-south-asia-conduct-cetacean-surveys-in-indian-ocean/) · `en`
+
+Survey track covered a total of 2,431 km over 10 days to study cetacean diversity
+
+Greenpeace South Asia and Sri Lankan marine conservation organisation Oceanswell have just returned to Colombo following the successful completion of cetacean visual and acoustic surveys in the high seas of the Indian Ocean aboard the Greenpeace flagship Rainbow Warrior.
+
+The scientific survey was conducted under the leadership of Dr. Asha de Vos, renowned cetacean researcher and founder of Oceanswell along with a young crew of Sri Lankans from Oceanswell.
+
+...
+
+[Data](articles/168c5730.json)
+
+---
+
+### xCommerz invites retailers to drive economic growth
+
+*2024-03-11 07:03:00* · [`islandlk`](http://island.lk/xcommerz-invites-retailers-to-drive-economic-growth/) · `en`
+
+Xiteb Pvt Ltd, (https://xcommerz.com/) an award-winning web and mobile software solutions provider with 14 (fourteen) years of experience, has launched an eCommerce solution, xCommerz, aimed at transforming retailers’ physical stores into online platforms and enhancing existing online stores to revolutionize their businesses. This initiative contributes to national economic growth.
+
+...
+
+[Data](articles/2d023cbd.json)
+
+---
+
+### CCI signs MoU with Tatarstan Republic of Russia
+
+*2024-03-11 07:02:00* · [`islandlk`](http://island.lk/cci-signs-mou-with-tatarstan-republic-of-russia/) · `en`
+
+Chamber of Construction Industry of Sri Lanka (CCI) signed an MOU with the Industrial Cluster of the Republic of Tatarstan of Russian Federation, in the presence of Levin S Dzhagarayan the Ambassador of Russia, Thilaka Jayasundara, Secretary, Ministry of Industries and Renuka Weerakoon, DG, Board of Investment. With this agreement there will be closer cooperation on bilateral trade and investments between the two countries. More importantly possibility of our companies collaborating with Russian companies to undertake projects is to be explored. As Russia is very keen to invest in Sri Lanka with the potential to export to India, Pakistan & Bangladesh we have to make the best use of this opportunity, CCI stated.
+
+IIHS-DFCC partnership to provide loans for students pursuing health education
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/35bcdbff.json)
+
+---
+
+### Enchanteur sponsors Inter Association Netball Tournament 2024
+
+*2024-03-11 07:01:00* · [`islandlk`](http://island.lk/enchanteur-sponsors-inter-association-netball-tournament-2024/) · `en`
+
+Enchanteur, fragrance brand, recently sponsored the Inter Association Netball Tournament 2024 (2nd & 3rd March) organized by the Netball Federation of Sri Lanka. With 400 players participating and a large audience in attendance, the tournament served as a platform for promoting sportsmanship, unity, and community engagement. Netball, deeply ingrained in Sri Lankan culture, fosters camaraderie and teamwork, making it an ideal avenue for corporate social responsibility initiatives.
+
+The event was further highlighted by the presence of Vivek Vaid, Country Manager of Enchanteur Sri Lanka, and Udaya Nissanka, Managing Director of Enchanteur Sri Lanka. Adding to the significance of the occasion was the attendance of Luxmi Victoria, the President of the Asia Netball and the Sri Lanka Netball Federation (SLNF), along with other officials from both Enchanteur and the Netball Federation of Sri Lanka.
+
+Oceanswell and Greenpeace South Asia conduct cetacean surveys in Indian Ocean
+
+...
+
+[Data](articles/16ef62a9.json)
+
+---
 
 ### IIHS-DFCC partnership to provide loans for students pursuing health education
 
@@ -41,6 +103,8 @@ The International Institute of Health Sciences (IIHS), the country’s leading i
 ...
 
 [Data](articles/dbd1febb.json)
+
+[Extended Data](ext_articles/dbd1febb.ext.json)
 
 ---
 
@@ -56,6 +120,8 @@ Located in the main tourism hub in Ettukala, Negombo, a former colonial strongho
 
 [Data](articles/cb3dcc64.json)
 
+[Extended Data](ext_articles/cb3dcc64.ext.json)
+
 ---
 
 ### Socomec strengthens operations In Sri Lanka
@@ -67,6 +133,8 @@ Socomec, a century-old French multinational and a global pioneer in low voltage 
 ...
 
 [Data](articles/98958123.json)
+
+[Extended Data](ext_articles/98958123.ext.json)
 
 ---
 
@@ -88,6 +156,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/c35331b4.json)
 
+[Extended Data](ext_articles/c35331b4.ext.json)
+
+---
+
+### Hayleys Solar achieves 200MWp rooftop solar PV capacity
+
+*2024-03-11 06:46:00* · [`islandlk`](http://island.lk/hayleys-solar-achieves-200mwp-rooftop-solar-pv-capacity/) · `en`
+
+Hayleys Solar announced a significant milestone of achieving a staggering 200MWp rooftop solar PV capacity in Sri Lanka. This remarkable accomplishment stands as the largest of its kind carried out by a single entity in the nation, marking a momentous stride towards driving the country’s progress with sustainable and clean renewable energy solutions.
+
+Surpassing the 200MWp mark, Hayleys Solar has not only set a record but has also contributed immensely towards the country’s total installed solar capacity, which currently stands at 900MWp. The 200MWp of solar capacity installed by Hayleys Solar is estimated to save an impressive 202,446,520 kg of carbon dioxide (CO2) emissions annually, underlining the company’s commitment to environmental sustainability.
+
+...
+
+[Data](articles/1988a7ca.json)
+
 ---
 
 ### People’s Bank supporting the rise of women entrepreneurs
@@ -101,6 +185,26 @@ Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’
 ...
 
 [Data](articles/3c54da08.json)
+
+[Extended Data](ext_articles/3c54da08.ext.json)
+
+---
+
+### ஐக்கிய தேசியக் கட்சியினருக்கும் ஜனாதிபதி அழைப்பு
+
+*2024-03-11 02:08:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சியினருக்கும்-ஜனாதிபதி-அழைப்பு/175-334482) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் கொள்கைகள் ஐக்கிய மக்கள் சக்தியில் இல்லையெனவும், சிலரின் கட்டுப்பாட்டில் அந்தக் கட்சி இருப்பதாகவும் தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, நாட்டைக் கடன் சுமையில் இருந்து காப்பாற்றி, எதிர்காலச் சந்ததிக்காக பாதுகாப்பான நாட்டைக் கட்டியெழுப்ப ஒன்றிணையுமாறு அனைத்து ஐக்கிய தேசியக் கட்சியினருக்கும் அழைப்பு விடுப்பதாகவும் தெரிவித்தார்.
+
+குளியாபிட்டிய மாநகர சபை மைதானத்தில் நேற்று பிற்பகல் நடைபெற்ற ஐக்கிய தேசியக் கட்சியின் முதலாவது பொதுக் கூட்டத்தில் உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+நாட்டுக்காக ஒன்றுபட்டு உழைக்க விரும்பும் மக்களின் சந்திப்பான இந்தப் பொதுக் கூட்டம் “நிதர்சனம்” என்ற தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்டிருந்ததோடு, இந்த முதலாவது பேரணியில் பெருந்திரளான மக்கள் கலந்துகொண்டனர்.
+
+இங்கு உரையாற்றிய பின்னர் ஜனாதிபதி ரணில் விக்ரமசிங்க, மக்கள் மத்தியில் சென்று அவர்களுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்டார்.
+
+...
+
+[Data](articles/15966d82.json)
 
 ---
 
@@ -147,6 +251,22 @@ The process is carried out under the guidance of the Commander of the Army, Lieu
 [Data](articles/2a5ce8ce.json)
 
 [Extended Data](ext_articles/2a5ce8ce.ext.json)
+
+---
+
+### 400 கிலோ கஞ்சா தமிழகத்தில் மீட்பு
+
+*2024-03-11 02:00:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/400-கிலோ-கஞ்சா-தமிழகத்தில்-மீட்பு/175-334481) · `ta`
+
+இலங்கைக்குக் கடத்துவதற்காக இறால் பண்ணையில் பதுக்கி வைக்கப்பட்டிருந்த 400 கிலோ கஞ்சா தமிழகத்தில் சிக்கியுள்ளது.
+
+தொண்டி கடல் வழியாக நாட்டுப் படகில்  இலங்கைக்குக் கடத்துவதற்காக மீமீசல் அருகே உள்ள இறால் பண்ணையில் பதுக்கி வைக்கப்பட்டிருந்த 400 கிலோ கஞ்சா  மூட்டைகளை திருச்சி மத்திய நுண்ணறிவு பிரிவு சுங்கத்துறை அதிகாரிகள் பறிமுதல் செய்துள்ளனர்.
+
+இந்தக் கடத்தல் சம்பவத்தில் தொடர்புடைய எஸ்.பி பட்டினத்தைச் சேர்ந்த நபரைத் தீவிரமாகத் தேடி வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/5b182f89.json)
 
 ---
 
@@ -2035,183 +2155,5 @@ The Minister further stated that the allegations made by some political parties 
 [Data](articles/f53e1d66.json)
 
 [Extended Data](ext_articles/f53e1d66.ext.json)
-
----
-
-### Engkland killed in a hence hotel
-
-*2024-03-10 11:59:19* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-හෝටලයකදී-එංගලන්ත-ජාතිකයෙක්-මරුට/11-408512) · `si`
-
-An 84-year-old English tourist was found dead in a hotel in Anuradhapura, Sri Lanka. The incident occurred at the hotel's OPD around 10:30 pm on the 8th, following admission to the Anuradhapura Teaching Hospital. A post-mortem is pending, and the Anuradhapura Police are investigating.
-
-🟩
-
-A group of England who had been staying at a tourist hotel in Anuradhapura, the Anuradhapura Headquarters said.
-
-The deceased has been identified in England, NO.5, NO.5, Ki77P, from Harischandra Mawatha in Anuradhapura and the resident of Anuradhapura has come to the SAM. The 84-year-old is a 84 year old foreign.
-
-The delegation was killed in the OPD at the OPD at about 10.30 pm while admission to the Anuradhapura Teaching Hospital on the 8th.
-
-The post mortem was to be carried out on this death. The Anuradhapura Police is conducting further investigations.
-
-◼️
-
-[Data](articles/09a33816.json)
-
-[Extended Data](ext_articles/09a33816.ext.json)
-
----
-
-### IRA telephone number in empty face
-
-*2024-03-10 11:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-முகத்திடலில்-IORA-நிகழ்வு/175-334442) · `ta`
-
-President Ranil Wickremesinghe attended the "Ira" Day 2024 in Colombo, focusing on the "Standard Indian Ocean." He engaged with students, visited embassies, and saw exhibitions by state institutions.
-
-🟩
-
-President Ranil Wickremesinghe participated in the "Ira" Day celebration of 2024 at the Galle Face of Colombo today (10) under the theme "Standard Indian Ocean."
-
-The President also spoke to the school students who had been involved in various activities there and visited the embassies of member states and the exhibitions organized by the state institutions of the country.
-
-◼️
-
-[Data](articles/af022c1a.json)
-
-[Extended Data](ext_articles/af022c1a.ext.json)
-
----
-
-### Naina girl who went with cannabis to the exhibition
-
-*2024-03-10 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கண்காட்சிக்கு-கஞ்சாவுடன்-சென்ற-நயினா-பெண்/71-334441) · `ta`
-
-A 26-year-old woman from Nainadivi was arrested at a Sri Lankan Air Force exhibition in Jaffna for carrying two kilograms of cannabis.
-
-🟩
-
-A woman who was accompanied by Kerala cannabis has been arrested for a Sri Lankan Air Force exhibition in Jaffna.
-
-A 26 -year -old woman from Nainadivi was arrested with a two -kilogram cannabis.
-
-The "Van Adventure - 2024" exhibition events are being held today at the Jaffna - Ilaveli Ground in view of the 73rd anniversary of the Sri Lanka Air Force.
-
-It was found that the ganja was found when the woman who came to the exhibition with the exhibition at the main entrance of the exhibition was checked.
-
-The police are conducting further investigations as the woman has been handed over to the Jaffna Police by the Air Force.. Remble
-
-◼️
-
-[Data](articles/88997984.json)
-
-[Extended Data](ext_articles/88997984.ext.json)
-
----
-
-### Nainadivu girl who went with cannabis to the exhibition
-
-*2024-03-10 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கண்காட்சிக்கு-கஞ்சாவுடன்-சென்ற-நயினாதீவுப்-பெண்/71-334441) · `ta`
-
-A 26-year-old woman from Nainadivi was arrested at a Sri Lankan Air Force exhibition in Jaffna for carrying two kilograms of cannabis.
-
-🟩
-
-A woman who was accompanied by Kerala cannabis has been arrested for a Sri Lankan Air Force exhibition in Jaffna.
-
-A 26 -year -old woman from Nainadivi was arrested with a two -kilogram cannabis.
-
-The "Van Adventure - 2024" exhibition events are being held today at the Jaffna - Ilaveli Ground in view of the 73rd anniversary of the Sri Lanka Air Force.
-
-It was found that the ganja was found when the woman who came to the exhibition with the exhibition at the main entrance of the exhibition was checked.
-
-The police are conducting further investigations as the woman has been handed over to the Jaffna Police by the Air Force.. Remble
-
-◼️
-
-[Data](articles/d6635fa6.json)
-
-[Extended Data](ext_articles/d6635fa6.ext.json)
-
----
-
-### Our heroes who survived foreigners
-
-*2024-03-10 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194342) · `si`
-
-A national woman and a foreigner survived waves at Bentara Beach. Their hotel was swept away, and lifeguards rescued them. Despite increasing waves, Niroshan Fernando, Tharindu, Chamune, and Lloutin Water Sports Association Chamune, managed to save them. They were taken to land and given first aid.
-
-🟩
-
-A national national woman and a foreign woman who was carrying out waves at Bentara Beach.
-
-The hotel they were staying washed in the shove, and washed away from the sudden beat.
-
-With the screaming of help, the lifeguards have escaped the daughter and tried to save them.
-
-However, with the increase of waves, Niroshan Fernando, Tharindu, Tharindu and Chamune, Lloutin and Lloutin Water Sports Association Chamune, has gone close to them.
-
-It is reported that they have been able to bring it to the land.
-
-Later he had taken first aid to foreigners to land.
-
-◼️
-
-[Data](articles/a063f88d.json)
-
-[Extended Data](ext_articles/a063f88d.ext.json)
-
----
-
-### Two women bodies of two in Kalutara
-
-*2024-03-10 11:47:36* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-ස්ථාන-දෙකක--කාන්තා-මළසිරුරු-දෙකක්-පාවේ/11-408511) · `si`
-
-In Kalutara, two bodies were found floating in the sea near the Floor and Kalutara Navy. One was identified as a woman from a mental elders' home in Gelpala. Both are undergoing postmortem at Kalutara Teaching Hospital. Inspectors Ruwan Wijesinghe and Ruwayannam are investigating.
-
-🟩
-
-A Kalutara high police officer said two bodies floating in two police divisions in Kalutara yesterday.
-
-Police have found dead bodies while floating in the sea in front of the Floor and Kalutara Navy.
-
-The body floating in the sea has not been identified as the body of the sea has been identified and that the body found in the Gelpala area has been identified as a woman who has been identified in the mental elders' home.
-
-Both bodies have been taken to the Kalutara Teaching Hospital for postmortem examination.
-
-Kalutara South Headquarters Inspector Ruwan Wijesinghe and the Tebuwana OIC Inspector Ruwayannam are conducting further investigations.
-
-◼️
-
-[Data](articles/e77f90dd.json)
-
-[Extended Data](ext_articles/e77f90dd.ext.json)
-
----
-
-### 1550 per patients in 2023 - the highest value after 2020
-
-*2024-03-10 11:38:10* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලඳුරු-රෝගීන්-1550ක්---2020න්-පසුව-වැඩිම-අගයයි/11-408510) · `si`
-
-In 2023, Sri Lanka reported 1550 leprosy cases, the highest since 2020. Dr. Prasad Ransewei, National Latistics Director, revealed this, responding to the Information Commission No. 12 of 2016. The total number of leprosy patients identified in 2023 is 259, with 168 in Gampaha District, 116 in Kurunegala District, and 80 elsewhere. The disease's spread is not increasing, and the campaign revealed this information was from the patients themselves.
-
-🟩
-
-1550 leprosy cases of leprosy have been identified in 2023 in the country.
-
-Activities of the National Latistics Director Dr. Prasad Ransewei has revealed this as per the request of the Information Commission No. 12 of 2016 on the status of leprosy patients in Sri Lanka.
-
-Accordingly, the leprosy patients have been identified in the year 2023 and is 259.
-
-In addition, 168 patients were identified in Gampaha District and 116 patients and 80 patients from the Kurunegala District.
-
-In addition, 1660 leprosy patients were reported in the year 2019 and 1526 leprosy 2026, 1550 leprosy, 1550 leprosy, 2023, and 150 leprosy in 2023.
-
-The leprosy is not an increase in the spread of the disease and the decorative campaign has revealed that this information was revealed by the decorative patients.
-
-◼️
-
-[Data](articles/bd00189f.json)
-
-[Extended Data](ext_articles/bd00189f.ext.json)
 
 ---

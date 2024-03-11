@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 12:49:40**
+As of **2024-03-11 13:03:12**
 
 ## Newspaper Stats
 
-*Scraped **12,112** Articles*
+*Scraped **12,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,96 +15,180 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 631
 islandlk | 662
-adalk | 1,026
-adaderanalk | 1,464
+adalk | 1,027
+adaderanalk | 1,465
 tamilmirrorlk | 1,479
 virakesarilk | 1,653
 dailymirrorlk | 1,855
-adaderanasinhalalk | 1,911
+adaderanasinhalalk | 1,913
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,107 (100.0%) of 12,112 articles have been extended.
+12,112 (100.0%) of 12,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### දුම්රිය ගමනට බාධා
+
+*2024-03-11 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194376) · `si`
+
+කොම්පඤ්ඤ වීදියේ දුම්රිය ස්ථානය අසල මහල් නිවාස සංකීර්ණයක තාප්පයක් ඉවත් කිරීමේ සිදුවීමක් සම්බන්ධයෙන් යම් උණුසුම් තත්ත්වයක් හටගෙන තිබේ.
+
+අප වාර්තාකරු පැවසුවේ ඒ හේතුවෙන්, දුම්රිය ගමනට බාධා එල්ල වී ඇති බවය.
+
+◼️
+
+[Data](articles/51699d02.json)
+
+---
+
+### හරක් කටා රිමාන්ඩ්
+
+*2024-03-11 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194375) · `si`
+
+කොළඹ මහාධිකරණයට ඉදිරිපත් කළ නඳුන් චින්තක නොහොත් හරක් කටාව අප්‍රේල් 26 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා අදාළ නියෝගය නිකුත් කළ බවය.
+
+දින 362ක කාලයක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවා ගෙන ප්‍රශ්න කෙරුණු මෙරට තුළ සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාලය මෙහෙය වූ නඳුන් චින්තක නොහොත් "හරක් කටා" අද රැඳවුම් නියෝග අවසන් කිරීමෙන් පසු කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණි.
+
+විදේශගතව සිට මෙරට තුළ සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාලය මෙහෙය වූ නඳුන් චින්තක නොහොත් "හරක් කටා" ඩුබායිහීදී අත්අඩංගුවට ගනු ලැබුවේ 2022 වසරේ අගෝස්තු මසදීය.
+
+කෙසේවෙතත් ඔහුව මෙරටට ගෙන්වාගැනීමට සිදුකළ යුතු උදර්පන කටයුතු විධිමත්ව සිදුනොවීම හේතුවෙන් ඩුබායි පොලීසිය හරක් කටාව මුදාහැර තිබිණි.
+
+අනතුරුව 2023 මාර්තු 7 වැනිදා මැඩගස්කරයේ දී "හරක් කටා" සහ සළිඳු මල්ෂික නොහොත් "කුඩු සළිඳු" ඇතුළු 7දෙනෙකු යළි අත්අඩංගුවට පත්වූ අතර ඔවුන් දිවයිනට රැගෙන ආවේ 2023 වසරේ මාර්තු 15 වැනිදාය.
+
+...
+
+[Data](articles/028931cb.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-03-11 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178413) · `ta`
 
-இன்று திங்கட்கிழமை (மார்ச் 11) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 302.6227 ஆகவும் விற்பனை விலை ரூபா 311.9825 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's currency exchange rate: US $302.6227, sales price 311.9825, based on Central Bank's rate on March 11.
+
+🟩
+
+The US $ 302.6227 and the sales price were 311.9825 based on the Central Bank's currency exchange rate on Monday (March 11).
 
 ◼️
 
 [Data](articles/eb12b8b4.json)
 
+[Extended Data](ext_articles/eb12b8b4.ext.json)
+
 ---
 
-### யாழில் இராணுவ வாகனம் மோதி வயோதிப பெண் படுகாயம்
+### An elderly woman injured in a military vehicle in Jaffna
 
 *2024-03-11 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178411) · `ta`
 
-இராணுவ வாகனம் மோதியதில் வயோதிப பெண்ணொருவர் படுகாயமடைந்த நிலையில் யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+An elderly woman, Chidambarappillai Vasanthadevi, 60, was injured in a collision involving a military vehicle and a motorcycle in Jaffna, and is now at the Jaffna Bodhana Hospital for treatment.
 
-யாழ்ப்பாணம் எழுதுமட்டுவாழ் பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (10) மாலை இராணுவ வாகனமும் , மோட்டார் சைக்கிள் ஒன்றும் மோதி விபத்துக்கு உள்ளானது.
+🟩
 
-விபத்தில் அப்பகுதியை சேர்ந்த சிதம்பரப்பிள்ளை வசந்தாதேவி (வயது 60) என்பவர் படுகாயமடைந்த நிலையில் மீட்கப்பட்டு , யாழ்.போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+An elderly woman has been admitted to the Jaffna Bodhana Hospital after being injured in a military vehicle.
+
+A military vehicle and a motorcycle collided with a motorcycle on Sunday evening (10) evening in Jaffna.
+
+Chidambarappillai Vasanthadevi (60 years old) from the area has been admitted to the Jaffna Bodhana Hospital for treatment.
 
 ◼️
 
 [Data](articles/913a1076.json)
 
+[Extended Data](ext_articles/913a1076.ext.json)
+
 ---
 
-### 2 ரிட் மனுக்கள் வாபஸ் பெறப்பட்டன
+### 2 Rit petitions were withdrawn
 
 *2024-03-11 12:31:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-ரிட்-மனுக்கள்-வாபஸ்-பெறப்பட்டன/175-334502) · `ta`
 
-லங்கா ஹொஸ்பிட்டல் கார்ப்பரேஷன் பிஎல்சி மற்றும் ஸ்ரீலங்கா டெலிகொம் பிஎல்சி ஆகிய நிறுவனங்களின் பங்கீடு நடவடிக்கைக்கு எதிராக தாக்கல் செய்யப்பட்ட இரண்டு ரிட் மனுக்கள் இன்று (11) மேன்முறையீட்டு நீதிமன்றத்தில் வாபஸ் பெறப்பட்டன.
+Two writ petitions against Lanka Hospital Corporation PLC and Sri Lanka Telecom PLC were withdrawn in the Court of Appeal. Leica Leasing Holding Limited and Leica Mobile SARL, the petitioners, retain the right to file a new application.
 
-மனுதாரர்களான லைகா லீசிங் ஹோல்டிங் லிமிடெட் மற்றும் லைகா மொபைல் எஸ்ஏஆர்எல் ஆகிய இரண்டு மனுக்களையும் திரும்பப் பெற முடிவு செய்ததோடு, புதிய விண்ணப்பத்தை தாக்கல் செய்வதற்கான உரிமையை அவர்கள் பெற்றுள்ளனர்.
+🟩
+
+Two writ petitions filed against the distribution of Lanka Hospital Corporation PLC and Sri Lanka Telecom PLC were withdrawn in the Court of Appeal today (11).
+
+Petitioners have decided to withdraw both petitions, Leica Leasing Holding Limited and Leica Mobile SARL, and they have the right to file a new application.
 
 ◼️
 
 [Data](articles/4863d561.json)
 
+[Extended Data](ext_articles/4863d561.ext.json)
+
 ---
 
-### காடுகளுக்கு தீ வைக்கும் விஷமிகளை கண்டறிய ட்ரோன்கள்
+### Drones to detect poisonous poisons to the forest
 
 *2024-03-11 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178409) · `ta`
 
-காடுகளுக்கு தீ வைக்கும் விஷமிகளையும், காடுகள் தீப்பிடிப்பதற்கான காரணங்களையும் கண்டறிய ட்ரோன் தொழில்நுட்பத்தை வன பாதுகாப்பு திணைக்களம் பயன்படுத்த ஆரம்பித்துள்ளது.
+The Department of Forest Protection uses drones to detect forest fires, especially due to increased weather-related fires. This year, 4 fires destroyed 30 hectares. To prevent wildfires, the Department of Wild Fire initiated weekly fire control weeks.
 
-நாடாளவிய ரீதியில் நிலவும் வரட்சியான வானிலை காரணமாக ஏற்படும் தீ விபத்துக்களின் எண்ணிக்கை அதிகரித்துள்ளமையினால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+🟩
 
-இவ்வருடம் இதுவரையான காலப்பகுதியில் நான்கு தீ விபத்துகள் பதிவாகியுள்ளன. அவற்றில் மொத்தம் 30 ஹெக்டெயர் காடுகள் அழிக்கப்பட்டுள்ளன.
+The Department of Forest Protection has begun to use drone technology to find fire -fire poisoning and the causes of forest fire.
 
-இந்நிலையில், காட்டு தீயை தடுக்க நடவடிக்கை எடுக்கவும்,  விழிப்புணர்வை ஏற்படுத்தவும் காட்டுத் தீ கட்டுப்பாட்டு வாரத்தை திணைக்களம் ஆரம்பித்துள்ளது.
+The move has been taken due to the increase in the number of firefights caused by the weather in the country.
+
+Four fires have been reported this year. A total of 30 hectares of forests have been destroyed.
+
+In this case, the Department of Wild Fire has launched a weekly fire control week to raise awareness and raise awareness to prevent wild fire.
 
 ◼️
 
 [Data](articles/686bed65.json)
 
+[Extended Data](ext_articles/686bed65.ext.json)
+
 ---
 
-### துப்பாக்கிச் சூடு நடத்தியவர் கைது
+### Arrest
 
 *2024-03-11 12:28:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூடு-நடத்தியவர்-கைது/175-334501) · `ta`
 
-மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் உள்ள விகாரை ஒன்றில் துப்பாக்கிச் சூடு நடத்தப்பட்ட சம்பவத்தின் பிரதான சந்தேக நபர்  கைது செய்யப்பட்டுள்ளார்.
+The main suspect in the shooting at Malwatuhiripitiya's Vihara has been arrested. Four unidentified individuals, including a car driver and a woman, were also arrested in connection with the incident.
 
-அண்மையில் காரில் வந்த இனந்தெரியாத நால்வர் மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் உள்ள விகாரையில் பிக்கு ஒருவரை சுட்டுக் கொன்றனர்.
+🟩
 
-சம்பவம் தொடர்பான விசாரணைகளை அடுத்து, காரின் சாரதி, பெண் ஒருவர் உட்பட பலர் கைது செய்யப்பட்டுள்ளனர்.
+The main suspect has been arrested in connection with the shooting of a Vihara in Malwatuhiripitiya.
+
+Recently, four unidentified people who came in the car shot dead a man at the Vihara in the Malwathuhiripitiya area.
+
+Following investigations into the incident, many have been arrested, including a car driver and a woman.
 
 ◼️
 
 [Data](articles/3dc9d1cd.json)
+
+[Extended Data](ext_articles/3dc9d1cd.ext.json)
+
+---
+
+### New 2MW solar project opened in Batticaloa
+
+*2024-03-11 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97867/new-2mw-solar-project-opened-in-batticaloa) · `en`
+
+A new ground-mounted solar project was opened in Kommathurai, Batticaloa on Sunday morning (10 March), Minister of Power and Energy Kanchana Wijesekera stated.
+
+In a post on ‘X’ (formerly Twitter), the Minister revealed that the 2MW solar project had been successfully constructed and commissioned by BackBay Solar Private Ltd.
+
+BackBay Solar is managed by Sino Lanka Power Gen, a leader in commercial rooftop solar installations with approximately 50MW of projects completed or undergoing development. Sino Lanka Power Gen meanwhile is a subsidiary of Orbital Energy, a renewable energy developer with large-scale utility projects in Sri Lanka, Bangladesh and India.
+
+Wijesekera further stated that the ground-mounted solar plant was a part of the 90MW Ceylon Electricity Board (CEB) solar power tendering process.
+
+◼️
+
+[Data](articles/a1c11825.json)
 
 ---
 
@@ -181,6 +265,26 @@ Natural food is a natural food pigment for food, such as blue cake, cake, jelly,
 [Data](articles/832fea6b.json)
 
 [Extended Data](ext_articles/832fea6b.ext.json)
+
+---
+
+### ගුරුවරු නැති ’ගුරුහොරු’ සිටින පාසලක්
+
+*2024-03-11 12:13:49* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරු-නැති-’ගුරුහොරු’-සිටින-පාසලක්/11-408533) · `si`
+
+ගුරුවරුන් සේවයට පැමිණෙන තුරු පාසලේ දරුවන් රැකබලා ගැනීම මෙන්ම පාසල ආරම්භ කිරීමේ කටයුතු දෙමව්පියන්ට පැවරී ඇති  පන්ති රැසකට වසර කිහිපයකින් උගන්වා නැති අපූරු පාසලක් පිළිබඳ තොරතුරු ලග්ගල ප්‍රදේශයෙන් වාර්තාවේ.
+
+විදුහල්පතිවරයා සහ ගුරුවරුන්  පැමිණීමේ ප්‍රමාදය පිළිබඳව විමසීමේදී මාධ්‍යවේදීන් කලින් දැනුවත් කර පාසලට පැමිණෙන්නේ නම් ගුරුවරුන් කලින් ගෙන්වා ගැනීමට හැකි බව කියයි.
+
+ඉගැන්වීම් කටයුතු සඳහා  ප්‍රමාද වී පාසලට එන්නේ කුමක් නිසාදැයි විමසීමේ දී ගුරුවරියන් කියා සිටින්නේ තමන්ට නිවසේ  සහ තම දරුවන්ගේ වැඩකටයුතු තිබෙන නිසා ප්‍රමාද වන බවය.
+
+පාසැලේ දරුවන් බොහෝ දෙනකු පාසැල් නොපැමිණෙන බවත් වහාම මෙම පාසලට බලධාරීන්ගේ අවධානය යොමු කරන්නැයි දෙමව්පියෝ ඉල්ලා සිටිති.
+
+මෙම අපූරු පාසල පිහිටා ඇත්තේ ලග්ගල කොට්ටාශයේ විල්ගමුව අධ්‍යාපන  කලාපයේය .ලග්ගල හත්තොට අමුණ  ප්‍රදේශයේ  පිහිටා ඇති  ලේල්ඔය ප්‍රාථමික විද්‍යාලයයි
+
+...
+
+[Data](articles/e5b092fc.json)
 
 ---
 
@@ -2151,79 +2255,5 @@ The recent “Yukthiya” operation initiated by the new IGP Deshabandu Tennakoo
 [Data](articles/8007d68a.json)
 
 [Extended Data](ext_articles/8007d68a.ext.json)
-
----
-
-### Conference to determine the title of Ramadan month
-
-*2024-03-10 22:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178382) · `ta`
-
-The Hijri 1445 Deciding Committee Conference to Determine the Title of the Holy Ramadan will be held at the Great School of Colombo on Monday evening. Representatives from the Colombo Great School, All Ceylon Jamiyyathul Ulama, and the Department of Muslim Religious and Cultural Affairs will attend. The Colombo big school has encouraged Muslims to report if the title of Ramadan is in their country.
-
-🟩
-
-The Hijri 1445 Deciding Committee Conference to Determine the Title of the Holy Ramadan is scheduled to be held at the Great School of Colombo on Monday evening (10).
-
-Members of the Colombo Great School, All Ceylon Jamiyyathul Ulama, Members of the Department of Muslim Religious and Cultural Affairs and Ulama will attend the conference.
-
-The Colombo big school has urged the Muslim people to report on 0112432110, 0112451245, 077316415 if the title of Ramadan is in the country of the country.
-
-◼️
-
-[Data](articles/527f4065.json)
-
-[Extended Data](ext_articles/527f4065.ext.json)
-
----
-
-### IMF, Sri Lanka’s Resource Curse & Privatization Of The Central Bank
-
-*2024-03-10 22:30:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/imf-sri-lankas-resource-curse-privatization-of-the-central-bank/) · `en`
-
-The Wealth of Nations and the Poverty of Theory: IMF, Sri Lanka’s Resource Curse, and Privatization of the Central Bank
-
-With the world distracted by kinetic wars in Ukraine and Gaza, a hybrid economic proxy war against the Global South and China’s Belt and Road Initiative (BRI), for global connectivity is unfolding at this time of new Cold War: Across Asia, Africa and South America. 56 Low and Middle Income Countries have been ensnared in Covid-19 Lockdown-induced Eurobond debt traps sprung by private creditors and International Sovereign Bonds (ISB), that charge predatory interest rates.
-
-...
-
-[Data](articles/07db74b6.json)
-
-[Extended Data](ext_articles/07db74b6.ext.json)
-
----
-
-### Suspension Of Parate Execution Won’t Do; Establish Bad Bank To Resolve Issue Permanently: Dr. Anil Baddevithana
-
-*2024-03-10 22:10:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/suspension-of-parate-execution-wont-do-establish-bad-bank-to-resolve-issue-permanently-dr-anil-baddevithana/) · `en`
-
-...
-
-[Data](articles/f2bdad60.json)
-
-[Extended Data](ext_articles/f2bdad60.ext.json)
-
----
-
-### International Announcements for 43 initi
-
-*2024-03-10 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194359) · `si`
-
-Police announced arrests of 43 criminal gang members, including 'Manna Ramesh', with international red notices to be issued.
-
-🟩
-
-In today's public announcements have been obtained against 43 criminal gang members, police said.
-
-Speaking at a media briefing held in Colombo today, police spokesman DIG Talduuwa made this statement.
-
-Speaking further, the Police Media Spokesperson added that international red notices would be obtained against several identified criminals.
-
-DIG Talduu said that the 'Manna Ramesh' is expected to be discussed with the states of Dubai, a criminal gang member who has been arrested in Dubai.
-
-◼️
-
-[Data](articles/020c0517.json)
-
-[Extended Data](ext_articles/020c0517.ext.json)
 
 ---

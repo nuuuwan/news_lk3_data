@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 22:04:14**
+As of **2024-03-11 22:17:56**
 
 ## Newspaper Stats
 
-*Scraped **12,221** Articles*
+*Scraped **12,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,74 @@ adalk | 1,046
 adaderanalk | 1,479
 tamilmirrorlk | 1,491
 virakesarilk | 1,678
-dailymirrorlk | 1,864
-adaderanasinhalalk | 1,933
+dailymirrorlk | 1,865
+adaderanasinhalalk | 1,934
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,218 (100.0%) of 12,221 articles have been extended.
+12,221 (100.0%) of 12,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### “ஜனாதிபதி தேர்தலுக்கு நானே தகுதியானவன்” ஜனக ரத்நாயக்க
+### අම්බලන්ගොඩ වෙඩිතැබීමකින් දෙදෙනෙකු මරුට
+
+*2024-03-11 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194397) · `si`
+
+යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් අම්බලන්ගොඩ ගලගොඩ ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී මෙම වෙඩිතැබීම සිදුකර පළාගොස් ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/dd07c3ca.json)
+
+---
+
+### "I deserve the presidential election" Janaka Ratnayake
 
 *2024-03-11 21:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கு-நானே-தகுதியானவன்-ஜனக-ரத்நாயக்க/175-334521) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிடும் தகைமை எனக்கு உள்ளது என தேசிய சிவில் அமைப்பு முன்னணியின் ஜனாதிபதி வேட்பாளரும், பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் முன்னாள் தலைவருமான ஜனக ரத்நாயக்க தெரிவித்தார்.
+Janaka Ratnayake, presidential candidate of the National Civil Organization Front, claims qualifications for the election, promising unconditional cooperation if outperformed. He criticizes the current regime for economic crisis, attributing it to politicians' decisions.
 
-மேலும், என்னை விட தகைமையானவர் போட்டியிடுவதாக இருந்தால் நான் அவருக்கு நிபந்தனையற்ற வகையில் ஒத்துழைப்பு வழங்குவேன் என்றும் கூறினார்.
+🟩
 
-தேசிய சிவில் அமைப்பு முன்னணியின் ஜனாதிபதி வேட்பாளராக போட்டியிடுவதை உத்தியோகபூர்வமாக அறிவிக்கும் வகையில் நேற்று கொழும்பில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துக்கொண்டு கருத்துரைக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+"I have the qualifications to contest the presidential election," said Janaka Ratnayake, the presidential candidate of the National Civil Organization Front and former Chairman of the Public Utilities Commission.
 
-நாட்டு மக்கள் முறைமை மாற்றத்தை எதிர்பார்க்கவில்லை'முறைமை பரிமாற்றத்தை' எதிர்பார்க்கிறார்கள்.பொருளாதார நெருக்கடிக்கு 75 ஆண்டுகால ஆட்சி முறைமை பொறுப்புக் கூற வேண்டும் என்று குறிப்பிட முடியாது. ஏனெனில் 75 ஆண்டுகால ஆட்சியில் எந்த அரசாங்கமும் நாட்டை வங்குரோத்து நிலைக்கு தள்ளவில்லை.
+He also said that if I am more qualified than me, I will cooperate unconditionally.
+
+He was speaking at a press conference held in Colombo yesterday to officially announce his contesting as the presidential candidate of the National Civil Organization Front.
+
+People do not expect a change of system 'system' transmission.. Because in the 75 -year regime, no government has put the country to the bankruptcy.
+
+The rulers who have been in power since 2015 to 2024 must be responsible for the economic crisis. The country has become bankrupt by the foolish decisions of politicians.
+
+The government has pushed the middle people to the bankruptcy to recover from the bankruptcy.
 
 ...
 
 [Data](articles/c55d0fe0.json)
+
+[Extended Data](ext_articles/c55d0fe0.ext.json)
+
+---
+
+### One killed, three injured in shooting at Pitigala
+
+*2024-03-11 21:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-three-injured-in-shooting-at-Pitigala/108-278643) · `en`
+
+Pitigala, March 11 (Daily Mirror) - An individual was killed and three others, including a woman, were injured in a shooting incident at Guruwala in Pitigala tonight.
+
+Police said two unknown persons who came on a motorcycle carried out the shooting near a shop.
+
+One person died at the scene while two injured men and a woman were admitted to the Gallida Regional Hospital.
+
+Police suspect that a T-56 firearm was used in this shooting, and the Pitigala police are conducting further investigations.
+
+◼️
+
+[Data](articles/c996f486.json)
 
 ---
 
@@ -224,21 +264,29 @@ President Ranil Wickremesinghe said the government's aim was to carry out all th
 
 ---
 
-### කෙහෙළියගේ නිවස ඉදිරිපිට මල්වඩමක් තැබීමට අදාළව චෝදනා ගැන වාර්තාවක් ඉල්ලයි
+### Requests in charge of flowers in front of Keheliya's house
 
 *2024-03-11 20:20:49* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නිවස-ඉදිරිපිට-මල්වඩමක්-තැබීමට-අදාළව-චෝදනා-ගැන-වාර්තාවක්-ඉල්ලයි/11-408550) · `si`
 
-හිටපු සෞඛ්‍ය ඇමති කෙහෙළිය රඹුක්වැල්ල මහතාගේ නිල නිවස ඉදිරිපිට මල් වඩම් තබමින් සාපරධී බිය ගැන්වීමක් කළැයි කියන වෛද්‍යවරුන් හා සිවිල් ක්‍රියාකාරීන්ට එරෙහිව ඉදිරිපත් කරන චෝදනා මොනවාද යන්න පිළිබඳ වාර්තාවක් ගොනු කිරීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා කුරුඳුවත්ත පොලීසියට අද (11දා) නියම කළේය.
+Chief Magistrate Prasanna Alwis dismissed charges against Cinnamon Gardens Police for not intimidating, causing harm, or insulting Minister Keheliya Rambukwella's daughter Hirunika Rambukwella. The complaint was lodged by Dr. Chamal Sanjaya, Chairman of Medical and Civil Rights, against the President's residence. President's Counsel Maithree Gunaratne defended the right to express objections under the Constitution, arguing against the suppression of basic human rights by the Penal Code. The police were ordered to recall the complaint on June 10.
 
-මෙම නඩුව පවරා පවත්වාගෙන යෑමට තරම් ප්‍රමාණවත් සාක්ෂි නොමැති බවට විත්තිය ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව ප්‍රධාන මහේස්ත්‍රාත්වරයා පොලීසියට එසේ නියම කළේය.
+🟩
 
-සැකකරු විසින් සපරාධී බිය ගැන්වීමක් ,අයුතු අවහිර කිරීමක් හෝ නින්දා සහගත අපහාසයක් කළ බවට  ප්‍රමාණවත් කරුණු ඉදිරිපත් කර නොමැති බව මහේස්ත්‍රාත්වරයා සඳහන් කළේය.
+Colombo Chief Magistrate Prasanna Alwis prescribed the Cinnamon Gardens Police today (11).
 
-අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ දියණිය වන හිරුණිකා රඹුක්වැල්ල  මහත්මිය කළ පැමිණිල්ලකට අනුව සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ බව සිද්ධියට අදාළව කළ විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කරමින් පොලීසිය දැනුම් දුන්නේය.
+After considering the accused of the accused, the chief magistrate was appointed to the police after considering the case that the case had not been made to carry out the case.
+
+The magistrate states that the suspect has not made sufficient criminal intimidation, misery or insulted.
+
+Minister Keheliya Rambukwella's complaint lodged a complaint lodged by the daughter of Hirunika Rambukwella by Hirunika Rambukwella.
+
+Minister Keheliya Rambukwella's daughter Hirunika Rambukwella has lodged a complaint with doctors' trade union alliances, Chamal Sanjaya, Chairman of the Medical and Civil Rights, the official residence of his father, the President of the country.In front of the wreaths in front of the criminal intimidation and insulting, Dr. Chamal Sanjaya appeared in the excess of being bailed to the incident.
 
 ...
 
 [Data](articles/388c5a10.json)
+
+[Extended Data](ext_articles/388c5a10.ext.json)
 
 ---
 
@@ -584,21 +632,29 @@ The TNA spokesman said the President had invited the opposition party leaders fo
 
 ---
 
-### ශ්‍රී ලංකාවේ නම ඉහළට එසවූ තවත් විශ්මිත සැත්කමක්
+### Another amazing surgery raised in Sri Lanka
 
 *2024-03-11 18:20:05* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-නම-ඉහළට-එසවූ-තවත්-විශ්මිත-සැත්කමක්/11-408547) · `si`
 
-ශ්‍රීලංකාවේදී ප්‍රථම වරට සුසුම්නාවේ ENOSCOPIC සැත්කමක් සිහි නැති කිරීමකින් තොරව සිදුකිරීමට ඌව වෙල්ලස්ස විශ්වවිද්‍යාලයේ ජ්‍යෙෂ්ඨ කථිකාචාර්ය ස්නායු ශල්‍ය විශේෂඥ වෛද්‍ය ලක්මාල් හේවගේ මහතා ප්‍රමුඛ බදුල්ල ශික්ෂණ රෝහලේ සෞඛ්‍ය කාර්මණ්ලයක්සමත්වීතිබේ.
+Dr. Lakmal Hewage, Uva Welmal Hewage's first lecturer, performed Sri Lanka's first endoscopic surgery at Badulla Teaching Hospital, successfully treating a 112-year-old woman. Despite the risks, the surgery was a success, allowing the patient to speak without pain and removing a cartilage below the knee with minimal discomfort.
 
-මෙම සැත්කම බදුල්ල ශික්ෂණ රෝහලේදී අද (11දා) සිදුකළ බවත් සැත්කමට මුහුණදුන් 72 හැවිරිදි කාන්තාව සුවසේ සිටින බවත් ස්නායු ශල්‍ය විශේෂඥ වෛද්‍ය ලක්මාල් හේවගේ මහතා පැවසීය.
+🟩
 
-මෙම කාන්තාව දීර්ඝ කාලයකසිට කොඳුඇටපේලියේ ආබාධයක් නිසා දැඩිවේදනාවට හා ඇවිදීමේ අපහසුතාව පත්වසිටි කාන්තාවක් බවත් ඇය හෘදරෝගියෙක් නිසා ශල්‍යකර්මයක් සිදුකිරීමේදී අවදානම් සහිත තත්ත්වයක් තිබූ බවත් හේවගේ මහතා අවධාරණය කළේය.
+The first lecturer of the Uva Welmal Hewage is a healthy the Health Teaching Hospital, led by Dr. Lakmal Hewage, who is the first time in Sri Lanka.
 
-කෙසේ නමුත් අපේ රටේදී ප්‍රථම වරට සිහිනැතිකිරීමකින් තොරව සුසුම්නාවේ ENDOSCOPPY සැත්කම සිදුකිරීමට තීරණයකළ බවද ඔහු සඳහන්කළේය.
+Dr. Lakmal Hewage said that the surgery was carried out at the Badulla Teaching Hospital this morning (112-year-old woman) faced with surgery.
 
-...
+He said that the woman was a warming and a burying woman who was a warm, and was a risky situation that was a risky situation that was a warming because she was a burying because of a long time.
+
+However, he decided to take endoscoppy surgery in the protector without first contempt in our country.
+
+"This is where the patient is able to talk to the patient without dreaming and asking the pain of his leg.. And the ability to completely remove the cartass below the sighs is too much. Specialist Dr. Hewage added that the patient does not suffer because of a very small cut.
+
+◼️
 
 [Data](articles/76a971c1.json)
+
+[Extended Data](ext_articles/76a971c1.ext.json)
 
 ---
 
@@ -2269,49 +2325,5 @@ Two people on a motorcycle were injured when a car and motorcycle collided head-
 [Data](articles/0136ff0a.json)
 
 [Extended Data](ext_articles/0136ff0a.ext.json)
-
----
-
-### ‘Harak Kata’ further remanded over failed escape bid
-
-*2024-03-11 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97868/harak-kata-further-remanded-failed-over-escape-bid) · `en`
-
-Notorious underworld figure Nadun Chithaka Wickremeratne, alias ‘Harak Kata’, has been further remanded until 26 April over his failed escape attempt from the Criminal Investigation Department (CID).
-
-The relevant order was issued by the Colombo High Court Judge Damith Thotawatte.
-
-Accordingly, ‘Harak Kata’ will be detained at the old prison complex in Tangalle, which currently operates as a detention centre.
-
-Earlier today (11 March), ‘Harak Kata’ was produced before the Colombo Fort Magistrate’s Court, after which he was produced before the Colombo High Court following a request made by the CID.
-
-On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID officers, had reportedly laced the officers’ teas with poison during his questioning, with the help of a Police Constable.
-
-...
-
-[Data](articles/cc79c8b9.json)
-
-[Extended Data](ext_articles/cc79c8b9.ext.json)
-
----
-
-### ‘Harak Kata’ further remanded over failed escape bid
-
-*2024-03-11 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97868/harak-kata-further-remanded-over-failed-escape-bid) · `en`
-
-Notorious underworld figure Nadun Chithaka Wickremeratne, alias ‘Harak Kata’, has been further remanded until 26 April over his failed escape attempt from the Criminal Investigation Department (CID).
-
-The relevant order was issued by the Colombo High Court Judge Damith Thotawatte.
-
-Accordingly, ‘Harak Kata’ will be detained at the old prison complex in Tangalle, which currently operates as a detention centre.
-
-Earlier today (11 March), ‘Harak Kata’ was produced before the Colombo Fort Magistrate’s Court, after which he was produced before the Colombo High Court following a request made by the CID.
-
-On 10 September 2023, ‘Harak Kata’, who was being interrogated by eight CID officers, had reportedly laced the officers’ teas with poison during his questioning, with the help of a Police Constable.
-
-...
-
-[Data](articles/de719afe.json)
-
-[Extended Data](ext_articles/de719afe.ext.json)
 
 ---

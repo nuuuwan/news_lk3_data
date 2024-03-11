@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 12:04:49**
+As of **2024-03-11 12:17:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,099 (100.0%) of 12,100 articles have been extended.
+12,100 (100.0%) of 12,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,29 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 ---
 
-### இசையில் இன்பம் காண முயன்றவர் கைது
+### Arrest
 
 *2024-03-11 11:36:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசையில்-இன்பம்-காண-முயன்றவர்-கைது/175-334495) · `ta`
 
-இளைஞர்கள் இருவரை இசை நிகழ்ச்சிக்கு அழைத்துச் சென்று பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்துவதற்கு முயற்சித்தார் என்றக் குற்றச்சாட்டின் கீழ், 46வயதான நபரொருவர் விசாரணைக்கு உட்படுத்தப்பட்டுள்ளார்.
+A 46-year-old man from Pitakotte, involved in cultivation, is arrested for attempting to sexually abuse two 15- and 16-year-old boys. He invited them to a concert, showed naked photos, and tried to abuse them. The boys reported to their parents, who informed the police. The suspect was arrested and is now in custody.
 
-தனமல்வில – உடவலவ வீதியில் குக்குல்கடுவ பிரதேசத்தில் பயிர்ச்செய்கையில் ஈடுபட்டிருந்த 46 வயதுடைய நபரொருவர் அப்பகுதியில் வசிக்கும் 15 மற்றும் 16 வயதுடைய இரு சிறுவர்களை பாலியல் வன்கொடுமைக்கு தூண்டிய சம்பவம் தொடர்பிலேயே தனமல்வில பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+🟩
 
-சந்தேக நபர் பிடகோட்டே பிரதேசத்தை சேர்ந்தவர் என்பதுடன், குக்குல்கடுவ பிரதேசத்தில் சுமார் பத்து ஏக்கர் காணியில் பயிர்ச்செய்கை பணிகளை மேற்கொண்டு வருகின்றார். அதே பகுதியில் வசிக்கும் இரண்டு சிறுவர்களிடம் தான் தனமல்வில நகரில்  ஒரு இசை நிகழ்ச்சியை பார்க்கச் செல்வதாகவும், அவ்விருவரையும் வருமாறும் அழைத்துள்ளார்.
+A 46 -year -old man has been interrogated on charges of attempting to sexually abused two youths.
 
-...
+A 46 -year -old man who was involved in cultivation in the Kukkulkaduwa area on the Tanamalwila - Udawalawa road is being investigated by the police in connection with the rape of two boys aged 15 and 16.
+
+The suspect is from Pitakotte area and is carrying out cultivation work in about ten acres of land in Kukkulkaduwa area.. He has called on two boys living in the same area to watch a concert in Tanamalwila.
+
+The two boys have said that there is no money. However, he shows the two boys on a motorcycle claiming to give the necessary money and showed naked photos. He then tried to abuse the two youths.
+
+After the two boys reported to their parents in connection with the incident, the parents of the Thanamalwila police were informed about it.. The suspect has been arrested last (10). The police said that the suspect had taken steps to bring the suspect to the Magistrate's Court.
+
+◼️
 
 [Data](articles/aec6c728.json)
+
+[Extended Data](ext_articles/aec6c728.ext.json)
 
 ---
 
@@ -994,11 +1004,11 @@ The 43-year-old suspect has been arrested following the surrender of the police.
 
 *2024-03-11 08:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-impacts-consistent-water-supply/108-278594) · `en`
 
-Colombo, March 11 (Daily Mirror) - In light of the ongoing dry weather conditions, the National Water Supply and Drainage Board (NWSD) has highlighted hurdles in maintaining consistent water supply across various regions.
+Colombo, March 11 (Daily Mirror) - In light of the ongoing dry weather conditions, the National Water Supply and Drainage Board has highlighted hurdles in maintaining consistent water supply across various regions.
 
 The increased daily water demand exacerbates the situation, resulting in some areas receiving water at reduced pressure or facing restrictions.
 
-The National Water Supply and Drainage Board (NWS&DB) emphasized the need for proactive measures to address these challenges.
+The Board emphasized the need for proactive measures to address these challenges.
 
 To facilitate public feedback and address concerns effectively, the NWSD has introduced a dedicated hotline, 1939, for lodging complaints related to water supply disruptions.
 

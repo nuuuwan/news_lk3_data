@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 10:33:19**
+As of **2024-03-11 10:51:35**
 
 ## Newspaper Stats
 
-*Scraped **12,067** Articles*
+*Scraped **12,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,142 @@ dailyftlk | 628
 islandlk | 662
 adalk | 1,021
 adaderanalk | 1,461
-tamilmirrorlk | 1,468
-virakesarilk | 1,645
-dailymirrorlk | 1,847
-adaderanasinhalalk | 1,906
+tamilmirrorlk | 1,470
+virakesarilk | 1,647
+dailymirrorlk | 1,848
+adaderanasinhalalk | 1,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,066 (100.0%) of 12,067 articles have been extended.
+12,067 (99.9%) of 12,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### What Leadership Qualities does Imitiaz lack that Other Party Leaders possess?
+
+*2024-03-11 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/What-Leadership-Qualities-does-Imitiaz-lack-that-Other-Party-Leaders-possess/172-278572) · `en`
+
+Imitiaz, the humble and down-to-earth former Minister of Mass Media in the UNP government of 2001-2004, possesses many leadership traits. Threfore, our focus is now directed towards tackling the inquiry presented in the title of this article
+
+A political leader is a public servant dedicated to enhancing society, elected through votes from the community. More than just a politician, a political leader embodies “statesmanship.” This implies having integrity and the determination to champion what is just, even if it means stepping down from a governmental role or facing electoral defeat. Regrettably, in contemporary times, some politicians declare intentions that differ from their actual actions. They may state one course of action while secretly planning another, ultimately failing to follow through on either of their promised commitments or their true intentions. This misalignment between words and deeds can erode public trust in the political process.
+
+...
+
+[Data](articles/740ae941.json)
+
+---
+
+### வரி செலுத்தாத 1000 நிறுவனங்களுக்கு நோட்டீஸ்
+
+*2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்-அனுப்பப்பட்டுள்ளது/175-334490) · `ta`
+
+இலங்கையின் உள்நாட்டு இறைவரித் திணைக்களமானது (IRD) ஏறக்குறைய 160 பில்லியனுக்கும் அதிகமான வரி நிலுவைகளை செலுத்தாத 1000 நிறுவனங்களுக்கு வரியை செலுத்தக் கோரி அறிவித்தல்களை அனுப்பியுள்ளது.
+
+நிறுவனங்கள் தங்கள் நிலுவைத் தொகையை ஆறு மாதங்களில் செலுத்த வேண்டும் அல்லது வங்கி கணக்குகள் மற்றும் சொத்துக்களை பறிமுதல் செய்ய நேரிடும் என IRD ஆளுநர் செபாலிகா சந்திரசேகரா கூறியுள்ளார்.
+
+அவர் மேலும் கூறுகையில், கடந்த ஆண்டு இறுதி வரை நிலுவையில் இருந்த நிலுவைத் தொகையை ஆறு மாதங்களில் நீட்டிப்பு இல்லாமல் செலுத்துமாறு நிறுவனங்களுக்கு நோட்டீஸ் அனுப்பப்பட்டுள்ளது.
+
+சில நிறுவனங்கள் பதிலளித்து, நிலுவைத் தொகையை ஐஆர்டி வசூலிக்க ஏதுவாக தங்கள் சொத்துக்களை பறிமுதல் செய்ய ஒப்புக்கொண்டுள்ளதாகவும் வரி செலுத்துவதில் தவறிய நிறுவனங்களை ஐஆர்டிக்கு வரவழைத்து நிலுவைத் தொகையை மீட்பதற்கான சாத்தியக்கூறுகள் குறித்து விவாதிக்க உள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+
+ஆளுநரின் கூற்றுப்படி, வரி செலுத்தாதவர்களில், மதுபான நிறுவனங்கள், ஹோட்டல்கள் மற்றும் ரியல் எஸ்டேட் நிறுவனங்கள் உள்ளடங்குகின்றன.
+
+...
+
+[Data](articles/d20b5265.json)
+
+---
+
+### இலங்கை குற்றவாளிகள் துபாயிலிருந்து வேறு நாடுகளுக்கு தப்பிச் சென்றனர்!
+
+*2024-03-11 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178392) · `ta`
+
+துபாய்க்கு தப்பிச் சென்ற இலங்கையின் திட்டமிட்ட குற்றவாளிகள் வேறு நாடுகளுக்கு தப்பிச் சென்றுள்ளதாக தகவல் கிடைத்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+துபாய்  நாட்டிலுள்ள  உள்ள குற்றவாளிகளை சர்வதேச அளவில் கைது செய்வதற்கான சிவப்பு அறிவிப்பு வெளியிடப்பட்டுள்ள நிலையில், இந்த நாட்டின் மிகக் கடுமையான குற்றவாளிகள் வேறு பெயர்களில் கடவுச்சீட்டு தயாரித்து  அங்கிருந்து தப்பிச் சென்றுள்ளதாக நிஹால்  தல்துவ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/bac59e82.json)
+
+---
+
+### 96 ஆவது ஒஸ்கர் விருது விழா : வெற்றியாளர்களின் முழு விபரம் இதோ !!
+
+*2024-03-11 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
+
+திரைத்துறையில் உலக அளவில் உயரிய விருதாக ஒஸ்கர் காணப்படுகின்றது. 1929 ஆம் ஆண்டு முதல் ஒஸ்கர் விருதுகள் அறிவிக்கப்பட்டு வருகின்றன. சிறந்த திரைப்படம், நடிகர், நடிகை, இயக்குனர், இசையமைப்பாளர் உள்பட பல்வேறு பிரிவுகளில் ஒஸ்கர் விருது வழங்கப்படுகிறது.
+
+இந்நிலையில், 96வது ஒஸ்கர் விருது நிகழ்ச்சி அமெரிக்காவின் லொஸ் ஏஞ்சல்ஸ் நகரில் உள்ள டொல்பி திரையரங்கில்  நடைபெற்றது.
+
+இதில் சிறந்த படம், நடிகர், துணை நடிகர், ஒளிப்பதிவு, படத்தொகுப்பு உள்ளிட்ட 7 விருதுகளை ‘ஓப்பன்ஹைமர்’ திரைப்படம் தட்டிச்சென்றுள்ளது.
+
+கிறிஸ்டோபர் நோலன் இயக்கத்தில் சிலியன் மர்பி நடிப்பில் கடந்த ஆண்டு வெளியான ஓபன்ஹெய்மர் திரைப்படம் அணுகுண்டை தயாரித்த ஜே. ரொபர்ட் ஓபன்ஹெய்மரின் வாழ்க்கை வரலாற்றைக் கொண்டு உருவானது.
+
+ஜப்பான் நாட்டில் உள்ள ஹிரோஷிமா, நாகசாகி நகர்களின் மீது அணுகுண்டு போடப்பட்டு பல லட்சம் உயிர்கள் பலியாக தான் காரணமாகி விட்டோம் என வருந்தும் காட்சிகளிலும், இந்த உலகமே அழியப்போகுது என நினைக்கும் காட்சிகளிலும் தனது நடிப்பால் சிலியன் மர்பி அசத்தியிருந்தார்.
+
+...
+
+[Data](articles/2925e8ba.json)
+
+---
+
+### ”இருவரும் வெவ்வேறு தேர்தல்களையே நடாத்த விரும்புகின்றனர்”
+
+*2024-03-11 10:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரும்-வெவ்வேறு-தேர்தல்களையே-நடாத்த-விரும்புகின்றனர்/175-334489) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க ஜனாதிபதி தேர்தலை முதலில் நடத்த விரும்பும் வேளையில் ராஜபக்சக்கள் பொதுத்தேர்தலை முதலில் நடாத்த விரும்புவதாக தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க நேற்று தெரிவித்தார்.
+
+அடிமட்டத்தில் தனக்கு வலுவான ஆதரவு இல்லாததால், பொதுத் தேர்தலை விட முதலில் நடத்தப்படும் ஜனாதிபதித் தேர்தலையே ஜனாதிபதி விரும்புகிறார்.
+
+ஜனாதிபதி தேர்தலில் போட்டியிடுவதற்கு வலுவான வேட்பாளர் இல்லாததால், ஜனாதிபதித் தேர்தலுக்கு செல்வது தங்களுக்கு பாதகமானது என்று கருதுவதால், ராஜபக்சக்கள் முதலில் பொதுத் தேர்தலை விரும்புகிறார்கள் என்று கொழும்பு மாவட்ட மகளிர் பேரவையில் உரையாற்றிய அவர் கூறினார்.
+
+ராஜபக்சவை மீண்டும் தலைவராக கொண்டு வர முடியாது என ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கு தெரியும். பசில் அண்மையில் நாட்டிற்கு வந்தார். ஆனால், ஜனாதிபதி தேர்தலில் போட்டியிட அவருக்கு வாய்ப்பு இல்லை. எனவே பொதுத் தேர்தல் தங்களுக்கு சாதகமாக இருப்பதாக அவர்கள் நினைக்கின்றனர்.
+
+...
+
+[Data](articles/49b58a6d.json)
+
+---
+
+### වෙඩික්කරුවෙක් අත්අඩංගුවට
+
+*2024-03-11 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194370) · `si`
+
+මල්වතුහිරිපිටිය ප්‍රදේශයේ පන්සලක දී බෞද්ධ භික්ෂුවකට වෙඩිතැබීමේ සිදුවීමේ වෙඩික්කරු ලෙස සැකකෙරෙන පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, මොනරාගල හම්බේගමුව ප්‍රදේශයේ දී එම පුද්ගලයාව අත්අඩංගුවට ගත් බවය.
+
+◼️
+
+[Data](articles/61e1384d.json)
+
+---
+
+### කුලී ත්‍රිරෝද රථ රියදුරෙකුට පිහි ප්‍රහාරයක්
+
+*2024-03-11 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194369) · `si`
+
+කරන්දෙණිය පොලිස් වසමේ දිවිය ගහවෙල පණලිය ප්‍රදේශයේදී ත්‍රිරෝද රථයකින් ගමන් ගත් පුද්ගලයින් දෙදෙනෙකු විසින් රියදුරට පිහියෙන් ඇන මුදල් කොල්ලකා පළා ගොස් තිබේ.
+
+තුවාලත් රියදුරු ඇල්පිටිය මූලික රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+
+ඇල්පිටිය නගරයේ පල්ලිය අසල ත්‍රිරෝද රථ ගාලේ කුලී රථ රියදුරකු සමඟ දිවියගහවෙල ප්‍රදේශයට කුලී ගමනක් යාම සඳහා එම පුද්ගලයින් දෙදෙනා ඊයේ (10) දහවල් ත්‍රීරෝද රථයට නැඟ තිබේ.
+
+දහවල් 2කට පමණ ත්‍රිරෝද රථයේ ගමන් කළ අය විසින් දිවියගහවෙල පනලිය පාළු ප්‍රදේශයකදී රියදුරුට පහරදී ඔහුට පිහියකින් ඇන තුවාල සිදුකර අසල වූ කුරුඳු ඉඩමකට ගෙන ගොස් ඔහු සතුව තිබූ මුදල් සහ දුරකථනයක් පැහැරගෙන ඇති බව වාර්තා වේ.
+
+රියදුරුගේ කමිසයද ඉරා දමා ඇති සැකකරුවන් පළායාමෙන් පසු රියදුරු මාර්ගයට පැමිණ එහි ගමන් ගත් පුද්ගලයෙකුට සිද්ධිය පැවසීමෙන් අනතුරුව කරන්දෙණිය පොලීසියට මේ පිළිබඳ දැනුම්දී තිබේ.
+
+අනතුරුව තුවාල ලත් රියදුරු ඇල්පිටිය මූලික රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කර ඇති බව "අද දෙරණ" වාර්තාකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/d262fa47.json)
+
+---
 
 ### May be a little rainfall
 
@@ -214,17 +336,23 @@ President Ranil Wickremesinghe has reportedly instructed the Prime Minister to u
 
 ---
 
-### මෙගා වොට් දෙකක බිම්ගත සූරිය පැනල විදුලි උත්පාදන ව්‍යාපෘතියක් වීවෘත කරයි
+### Two mega structure of two megiya parchment project
 
 *2024-03-11 09:20:00* · [`adalk`](https://www.ada.lk/picture_story/මෙගා-වොට්-දෙකක-බිම්ගත-සූරිය-පැනල-විදුලි-උත්පාදන-ව්‍යාපෘතියක්-වීවෘත-කරයි/10-408525) · `si`
 
-මෙගා වොට් 2ක ධාරිතාවෙන් යුත් බිම්ගත සූර්ය පැනල මගින් විදුලිය උත්පාදනය කිරීමේ ව්‍යපෘතියක්  මඩකලපුවේදී විවෘත කරනු ලැබූ බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+The Two Mega Structure project in Batticaloa, initiated by the Lab-Solar Panel, involves the installation of two 2MW solar panels by Bacbe Sula Pvt.
 
-විදුලිබල මණ්ඩලය විසින් ටෙන්ඩර් කරන ලද ව්‍යාපෘතියකට අනුව බැක්බේ සෝලා පුද්ගලික සමාගම මගින් මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කර තිබේ.
+🟩
+
+The project was opened in Batticaloa by the lab-solar panels of the two MW (MW)-built solar panels.
+
+The project has been implemented by the Bacbe Sula Pvt.
 
 ◼️
 
 [Data](articles/873863e1.json)
+
+[Extended Data](ext_articles/873863e1.ext.json)
 
 ---
 
@@ -2009,165 +2137,5 @@ According to the concept of the Yaththawatta the concept of the Yaththalawatta, 
 [Data](articles/8e504d6e.json)
 
 [Extended Data](ext_articles/8e504d6e.ext.json)
-
----
-
-### A warning to the people by weather
-
-*2024-03-10 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194351) · `si`
-
-The Department of Meteorology has issued an amber warning for warm weather in Western, Southern, and Sabaragamuwa Provinces for tomorrow.
-
-🟩
-
-The Department of Meteorology has issued a amber warning announcement of warm weather conditions for several areas.
-
-The announcement has been issued by the Department of Meteorology to apply for tomorrow (11).
-
-The warm quality of some places in the Western, Southern and Sabaragamuwa and Sabaragamuwa Province will be paid to some places in the Western, Southern and Sabaragamuwa Province.
-
-◼️
-
-[Data](articles/614c8df0.json)
-
-[Extended Data](ext_articles/614c8df0.ext.json)
-
----
-
-### A group of fishermen escaping the thread
-
-*2024-03-10 16:44:18* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකුලියේ-ධීවරයින්-පිරිසක්-නූලෙන්-බේරෙයි/11-408518) · `si`
-
-A group of fishermen, including three children, were rescued two days after their vessel was stranded. They were unable to land due to an industrial error. The vessel's owner, Mr. Deepal Nilantha, filed a complaint with the Kalpitiya Police. The vessel was also reported to the Navy. The fishermen were cared for by the Indian vessel and later returned to their port.
-
-🟩
-
-The two fishermen and the vessels from the fishermen and the vessels stranded two days after the fishermen and the vessel were taken to find two days later.
-
-Three and three-year-old three-year-olds were discovered by Wu Ninal Antony, Susantha, Prasad Niranjan.
-
-They had gone to Billy hooks with the temple and Hanzin son of the fishermen of the fisheries fisheries.
-
-As they went to work, they say that they were unable to land in the sea unable to land after the industrial error of the vessel.
-
-The fishermen say they have protected food and water from the Indian vessel.
-
-However, Mr. Deepal Nilantha, the owner of the vessel of the disappearance, has lodged a complaint with the Kalpitiya Police on the 7th.
-
-At the same time, the vessel had also taken to educate the Navy.
-
-However, due to lack of information on the fishermen, the vessor had been sent to the Sira three nine-day vessels on the 7st night.
-
-...
-
-[Data](articles/ef69d073.json)
-
-[Extended Data](ext_articles/ef69d073.ext.json)
-
----
-
-### Driver involved in hit-and-run that killed three youths remanded
-
-*2024-03-10 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97853/driver-involved-in-hit-and-run-that-killed-three-youths-remanded) · `en`
-
-The Anuradhapura Magistrate’s Court on Sunday (10 March) remanded the driver and two others involved in the fatal hit-and-run incident that killed three youths in Rambewa, Anuradhapura on Saturday (09 March).
-
-Accordingly, the trio was remanded until 20 March, after being produced before the court this morning.
-
-Three male youths were killed while two other girls were injured in the hit-and-run incident in Rambewa, Anuradhapura on 09 March. The cab driver had reportedly been speeding towards Anuradhapura from Rambewa, when he had knocked down the five pedestrians.
-
-According to police, he had been returning home after attending a concert held in Rambewa, and had fled the scene immediately after the incident.
-
-◼️
-
-[Data](articles/68b2fe94.json)
-
-[Extended Data](ext_articles/68b2fe94.ext.json)
-
----
-
-### Eight arrested for trespassing into archaeological site in Nedunkerny
-
-*2024-03-10 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97852/eight-arrested-for-trespassing-into-archaeological-site-in-nedunkerny) · `en`
-
-Eight persons have been arrested for acting against a judgment delivered by the Vavuniya Magistrate’s Court by trespassing into the Vedukkunarimalai archaeological site in Nedunkerny.
-
-Accordingly, 8 persons, including the chief priest of the Hindu temple at the archaeological site in question were arrested for allegedly conducting a religious ritual for Mahashivarathri on 08 March, despite a court order being issued previously rejecting a request to do so.
-
-On 04 March, the Vavuniya Magistrate’s Court delivered a judgment stating that permission cannot be granted to conduct a special religious ceremony, despite a group of people, including the arrested chief priest, having filed a motion requesting to do so for a special Mahashivarathri ritual.
-
-...
-
-[Data](articles/6b8f3a8d.json)
-
-[Extended Data](ext_articles/6b8f3a8d.ext.json)
-
----
-
-### Driver arrested in abducted girl in Elpitiya
-
-*2024-03-10 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194350) · `si`
-
-A driver and a hospital staff member were arrested in connection with the abduction and murder of a 17-year-old girl in Elpitiya. The suspect, a three-wheeler driver, was handed over to the Karandeniya Police for further investigation. The girl's brother-in-law is suspected of the murder and has fled the area.
-
-🟩
-
-The hospital and its driver have been arrested by the police that she was abducted before the murder of a girl in the Elpitiya area.
-
-The suspected three-wheeler driver was handed over to the Karandeniya Police while investigations were carried out.
-
-The suspected three-wheeler has told the police that he had visited the hire and later laid down near Nanayakkara Mawatha.
-
-The suspects are to be produced before the court driver to court and the Karandeniya Police are conducting further investigations.
-
-The body of 17-year-old girl with cut injuries in the Elpitiya Police Division was found recently.
-
-However, the girl's brother-in-law has fled the area of the girl who has been suspected of the murder and the Elpitiya and the Karandeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/09022654.json)
-
-[Extended Data](ext_articles/09022654.ext.json)
-
----
-
-### Sri Lanka is the highest number of public servants in the world but
-
-*2024-03-10 16:09:56* · [`adalk`](https://www.ada.lk/breaking_news/ලෝකයේ-වැඩිම-රාජ්‍ය-සේවකයන්-සිටින-නමුත්-අඩුවෙන්ම-වැඩ-කරන-රට-ලංකාවයි/11-408517) · `si`
-
-Sri Lanka has the highest public servants per capita, with one government employee for every 13 people. Despite this, there's no superior public service globally. Sri Lanka works 170-179 days a year, questioning its efficiency. The country's strength lies in its people, who must work diligently to maintain its standing.
-
-🟩
-
-"On the world population ratio, usually one public servant for every 250. There is one government employee every 13 in Sri Lanka. There is no great public service in the world. And the greatest working country in the world Lanka. I saw that we work in Sri Lanka 170 or 179 days a year. Can you go in front of a country in this way? "The Chairman of former Speaker, National Organization for former Speaker, Karu Jayasuriya, held with the 22nd Anniversary of the Foundation at the Sri Param Botumaya Foundation, the Paramiya Pradeshiya Sabha Last at the Matugama Pradeshiya Sabha.
-
-...
-
-[Data](articles/dc2ceb03.json)
-
-[Extended Data](ext_articles/dc2ceb03.ext.json)
-
----
-
-### Three-wheeler driver stabbed
-
-*2024-03-10 16:03:55* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-රියදුරෙකුට-පිහියෙන්-ඇන-පලා-ගිහින්/11-408516) · `si`
-
-A three-wheeler driver was stabbed in Elpitiya, Hambantota. The suspects, who were residents of Ashanpitiyawatta, allegedly stole gold and cables from the driver's wallet. The police are investigating further.
-
-🟩
-
-The driver was admitted to the Elpitiya Police
-
-The police said that the police said that the hospital was a resident of the Ashanpitiyawatta, Elpitiya, Hambantota, police said. The two of them began to stop the gold and cup of the gold cables of the verdow of the verdow of the wallet in a rental and collide in the odd palm of the verdow.The police say that the driver of the vehicle stabbed to stabborn, police said.
-
-Police have seriously injured in the abdomen abdomen by the suspects with the two suspects.. The Karandeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/76253897.json)
-
-[Extended Data](ext_articles/76253897.ext.json)
 
 ---

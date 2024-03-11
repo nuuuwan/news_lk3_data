@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 11:02:49**
+As of **2024-03-11 11:18:00**
 
 ## Newspaper Stats
 
-*Scraped **12,080** Articles*
+*Scraped **12,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailyftlk | 628
 islandlk | 662
 adalk | 1,022
 adaderanalk | 1,462
-tamilmirrorlk | 1,470
+tamilmirrorlk | 1,473
 virakesarilk | 1,648
-dailymirrorlk | 1,851
+dailymirrorlk | 1,853
 adaderanasinhalalk | 1,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,074 (100.0%) of 12,080 articles have been extended.
+12,080 (100.0%) of 12,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,83 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 ---
 
-### ஆக்கிரமிக்கப்பட்ட  பிராந்தியங்களில்இஸ்ரேலிய குடியிருப்புகளை விஸ்தரிப்பது போர்க் குற்றம்   - வோல்கர் டர்க்
+### நிர்வாணமாக மேடை ஏறிய ஜோன் சீனா (காணொளி)
 
-*2024-03-11 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178395) · `ta`
+*2024-03-11 11:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாணமாக-மேடை-ஏறிய-ஜோன்-சீனா-காணொளி/175-334491) · `ta`
 
-ஆக்­கி­ர­மிக்­கப்­பட்ட பலஸ்­தீன பிராந்­தி­யங்­களில் இஸ்­ரே­லிய குடி­யி­ருப்­பு­களை விஸ்­த­ரிப்­பது போர்க் குற்­ற­மாகும் என ஐ.நா.வின் மனித உரி­மைகள் உயர்ஸ்­தா­னிகர் வோல்கர் டர்க் கூறி­யுள்ளார்.
+96-வது 'ஆஸ்கார்' திரைப்பட விருது வழங்கும் விழா இடம்பெற்றுள்ள  நிலையில்  அதில் சிறந்த ஆடை வடிவமைப்பிற்கான விருதை யார் வெல்வார் என அறிவிப்பதற்கு, நடிகர் ஜோன் சீனா மேடை  ஏறியுள்ளார் .
 
-ஜெனி­வா­வி­லுள்ள ஐ.நா. மனித உரி­மைகள் பேர­வைக்கு கடந்தவாரம்  அளித்த அறிக்­கை­யொன்­றி­லேயே வோல்கர் டர்க் இவ்­வாறு கூறி­யுள்ளார்.
+இளைஞர்கள் மற்றும் பெரியவர்கள் மத்தியில் பிரபலமடைந்துள்ள  ஹாலிவுட் நடிகரும்  , WWE  குத்துச்சண்டை வீரருமான , 46 வயதுடைய   ஜோன் சீனா  நிர்வாணமாக மேடைக்கு வந்துள்ளதுடன்  இது அனைவருக்குமிடையில்  பெரும்  சர்ச்சையை  ஏற்படுத்தியுள்ளது.
 
-மேற்குக் கரையின் ஆக்­கி­ர­மிக்­கப்­பட்ட பகு­தி­களில் இஸ்­ரேலின் சட்­ட­வி­ரோத குடி­யி­ருப்பு நிர்­மா­ணங்கள் வேக­மாக அதி­க­ரித்து வரு­கின்­றன என அவர் கூறினார்.
+◼️
 
-ஆக்­கி­ர­மிக்­கப்­பட்ட பிராந்­தி­யங்­களில்  குடி­யி­ருப்­பு­களை உரு­வாக்­கு­வதும் விரி­வாக்­கு­வதும் இஸ்ரேல் தனது சொந்த ­மக்­களை ஆக்­கி­ர­மிக்­கப்­பட்ட பகு­தி­க­ளுக்கு இட­மாற்­று­வ­தற்கு சம­மாகும்.
+[Data](articles/ca2325b1.json)
 
-இது போர்க் குற்­றத்­துக்கு ஒப்பானது. இதில் சம்­பந்­தப்­பட்­ட­வர்­களை குற்றப் பொறுப்­பா­ளி­க­ளாக்கக் கூடும் என அவர் கூறினார்.
+---
 
-மேற்குக் கரையின் மாலே அடுமின், இப்ரத், கேதார் பகு­தி­களில் மேலும் 3,476 வீடு­களை நிர்­மா­ணிக்கும் இஸ்­ரேலின் திட்­ட­மா­னது சர்­வ­தேச சட்­டங்­க­ளுக்கு முற்­றிலும் முர­ணா­ன­தாகும் என அவர் கூறினார்.
+### John Cena gives out costume design Oscar in his ‘birthday suit’
+
+*2024-03-11 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/John-Cena-gives-out-costume-design-Oscar-in-his-birthday-suit/108-278625) · `en`
+
+March 11- (CNN) John Cena bared it all at the Oscars on Sunday while presenting the award for best costume design.
+
+The actor appeared on stage during the telecast to present the award for best costume design hilariously appearing to wear nothing at all.
+
+No really, Cena appeared on the stage at the year’s most prestigious event in Hollywood… almost entirely naked.
+
+The show’s host Jimmy Kimmel set up the bit by sharing a little bit of Oscars history, nodding to the 1974 Academy Awards when a streaker ran across the stage. Kimmel jokingly said, “Can you imagine if a nude man ran across the stage today? Wouldn’t that be crazy?”
+
+From the corner of the stage, Cena peeked his head out and told Kimmel he didn’t want to “do the streaker bit anymore.”
+
+“It’s an elegant event. Honestly, you should feel ashamed right now for suggesting such a tasteless idea,” Cena complained. “The male body is not a joke!”
 
 ...
 
+[Data](articles/1171a731.json)
+
+---
+
+### ’My name removed from speakers’ list’: Navin Dissanayake
+
+*2024-03-11 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/My-name-removed-from-speakers-list-Navin-Dissanayake/108-278624) · `en`
+
+Colombo, March 11 (Daily Mirror)- Former UNP National Organizer Navin Dissanayake said he did not participate in yesterday's meeting organized by his party as his name had been removed from the speaker's list.
+
+"I politely excused myself from the official UNP meeting as I was promised a speech but later found out that my name had been deleted. I wonder who is making these decisions on behalf of Party Leader Ranil Wickremesinghe. I will stand by the party but a man’s dignity should not be compromised," Dissanayake said in his X message.
+
+◼️
+
+[Data](articles/3b1bd0bd.json)
+
+---
+
+### War crime to expand Israeli settlements in occupied territories - Volcker Turk
+
+*2024-03-11 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178395) · `ta`
+
+Volkar Durg, UN Human Rights High Commissioner, declared expanding Israeli settlements in occupied Palestinian territories a war crime. Israel's construction in West Bank areas is increasing, which Durg equates to transferring Israel into occupied areas, akin to a war crime. Israel's plan to build over 3,476 houses in West Bank areas is against international law, with Spain and France also condemning the project.
+
+🟩
+
+UN Human Rights High Commissioner Volkar Durg has said that it is a war crime to expand Israeli settlements in the occupied Palestinian regions.
+
+The UN in Geneva. Volkar Durg said this in a statement issued last week to the Human Rights Council.
+
+He said Israel's illegal residential construction is rapidly increasing in the occupied areas of the West Bank.
+
+The creation and expansion of apartments in occupied territories is equivalent to transferring Israel to the occupied areas.
+
+This is similar to war crime. He said that those involved may be guilty.
+
+He said Israel's plan to construct more than 3,476 houses in Male Adumin, Iprath and Kedar in the West Bank is completely contrary to international law.
+
+Spain and France also condemned the project to build these Jewish settlements last Friday.
+
+◼️
+
 [Data](articles/44eae73a.json)
+
+[Extended Data](ext_articles/44eae73a.ext.json)
 
 ---
 
@@ -88,6 +146,8 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 
 [Data](articles/f75432a4.json)
 
+[Extended Data](ext_articles/f75432a4.ext.json)
+
 ---
 
 ### SLPP expresses concerns over President’s direct dealing with individual MPs
@@ -108,6 +168,8 @@ The SLPP raised similar concerns on a previous occasion too in this regard
 
 [Data](articles/1fbe81cb.json)
 
+[Extended Data](ext_articles/1fbe81cb.ext.json)
+
 ---
 
 ### Change from normal judicial practice observed in two appeal cases
@@ -125,6 +187,8 @@ The accused Sirisena, dissatisfied with the judgment of Magistrate Nissanka, fil
 ...
 
 [Data](articles/e2980ef0.json)
+
+[Extended Data](ext_articles/e2980ef0.ext.json)
 
 ---
 
@@ -149,6 +213,28 @@ He concluded: "We made a film about the man who created the atomic bomb, and for
 ...
 
 [Data](articles/69acd32f.json)
+
+[Extended Data](ext_articles/69acd32f.ext.json)
+
+---
+
+### வரி செலுத்தாத 1000 நிறுவனங்களுக்கு நோட்டீஸ்
+
+*2024-03-11 10:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாத-1000-நிறுவனங்களுக்கு-நோட்டீஸ்/175-334490) · `ta`
+
+இலங்கையின் உள்நாட்டு இறைவரித் திணைக்களமானது (IRD) ஏறக்குறைய 160 பில்லியனுக்கும் அதிகமான வரி நிலுவைகளை செலுத்தாத 1000 நிறுவனங்களுக்கு வரியை செலுத்தக் கோரி அறிவித்தல்களை அனுப்பியுள்ளது.
+
+நிறுவனங்கள் தங்கள் நிலுவைத் தொகையை ஆறு மாதங்களில் செலுத்த வேண்டும் அல்லது வங்கி கணக்குகள் மற்றும் சொத்துக்களை பறிமுதல் செய்ய நேரிடும் என IRD ஆளுநர் செபாலிகா சந்திரசேகரா கூறியுள்ளார்.
+
+அவர் மேலும் கூறுகையில், கடந்த ஆண்டு இறுதி வரை நிலுவையில் இருந்த நிலுவைத் தொகையை ஆறு மாதங்களில் நீட்டிப்பு இல்லாமல் செலுத்துமாறு நிறுவனங்களுக்கு நோட்டீஸ் அனுப்பப்பட்டுள்ளது.
+
+சில நிறுவனங்கள் பதிலளித்து, நிலுவைத் தொகையை ஐஆர்டி வசூலிக்க ஏதுவாக தங்கள் சொத்துக்களை பறிமுதல் செய்ய ஒப்புக்கொண்டுள்ளதாகவும் வரி செலுத்துவதில் தவறிய நிறுவனங்களை ஐஆர்டிக்கு வரவழைத்து நிலுவைத் தொகையை மீட்பதற்கான சாத்தியக்கூறுகள் குறித்து விவாதிக்க உள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+
+ஆளுநரின் கூற்றுப்படி, வரி செலுத்தாதவர்களில், மதுபான நிறுவனங்கள், ஹோட்டல்கள் மற்றும் ரியல் எஸ்டேட் நிறுவனங்கள் உள்ளடங்குகின்றன.
+
+...
+
+[Data](articles/094ece76.json)
 
 ---
 
@@ -256,21 +342,25 @@ However, Dissanayake also said that the Elections Commission would have the auth
 
 ---
 
-### අද කාලගුණය  මොකද වෙන්නෙ?
+### What's going on today?
 
 *2024-03-11 10:21:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-කාලගුණය--මොකද-වෙන්නෙ-/11-408526) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් අද උදෑන නිකුත්කරන ලද කාලගුණ අනාවැකිය අනුවෙ නැහෙනහිර පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇතිවිය හැකිබව සඳහන්වේ. රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත්. දිවයිහන් සෙසු ප්‍රදේශවල ප්‍රධාන වශ‍යෙන් වියලි කාලගුණික තත්ත්වයක් පැවතීය හැකි බව සඳහන් වේ.
+In the morning, the weather forecast issued by the Department of Meteorology, according to the Eastern Province and Hambantota District can be found in the Eastern Province and Hambantota District.. Showers or thundershowers will occur at night in the Ratnapura, Kalutara, Galle and Matara districts.. It is said that in other parts of the island, there is mainly dry weather.
 
-බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්වලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Some locations in the Western, Sabaragamuwa and Uva provinces and in the Galle and Matara districts are expected to be met with a morning.
 
-ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු  ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය වශයේන් නිකුත්කර ඇත්තේ  හම්බන්‍තොට සිට හා‍ පොතුවිල් හරහා මඩකළපුව දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිබවයි.
+Showers or thundershowers will occur at several places in the sea areas off the coast extending from Hambantota to Batticaloa, from Hambantota to Batticaloa and Pottuvil.
 
-සුළං ඊසාන දෙසින් හමා එන අතර සුළංගේ වේගය පැ.කි.මී. (20-30) පමණ වේ. කොළඹ සිට පුත්තලම සහ මන්නාරම හරහා කන්කසන්තුරය දක්වා සහ මාතර සිට ම්බන්හතාට හරහා පොතුවිල් දක්වා හවරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළංගේ වේගය විටින් විට පැ.කි.මී. (40-45) දක්වා වැඩි විය හැක.
+Winds are bowled out for the northeast of the winds.. (20-30) is around. Winds from Colombo to Puttalam and Mannar via Kankasanthurai and Matara to Pottuvil. (40-45) may increase to up to.
 
-...
+The sea areas off the coast extending from Matara to Kankasanthhatura will be slightly rough at times.
+
+◼️
 
 [Data](articles/ecc23da5.json)
+
+[Extended Data](ext_articles/ecc23da5.ext.json)
 
 ---
 
@@ -441,6 +531,26 @@ In this context, the National Water Supply and Drainage Board has introduced an 
 [Data](articles/a54ba2fd.json)
 
 [Extended Data](ext_articles/a54ba2fd.ext.json)
+
+---
+
+### சிவனொளிபாத மலைக்கு சென்ற பெண் மரணம்
+
+*2024-03-11 09:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலைக்கு-சென்ற-பெண்-மரணம்/175-334485) · `ta`
+
+வத்தளை - பகுதியில் இருந்து சிவனொளிபாத மலைக்கு தரிசனம் செய்யச்சென்ற வயோதிபப் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+இவர் நேற்று இரவு தரிசனம் செய்து விட்டு திரும்பும் போது, சியத்த கங்குல பகுதியில் வைத்து திடீரென சுகவீனமுற்றுள்ளார்.
+
+இந்த நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சிகிச்சை பலனின்றி உயிரிழந்தார் என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி சாந்த வீரசேகர தெரிவித்தார்.
+
+இவ்வாறு மரணித்தவர் வத்தளை பகுதியில் இருந்து தனது குடும்பத்துடன் சிவனொளிபாத மலைக்குச் சென்ற 80 வயதுடைய சுமணாவதி ஆவார்.
+
+சடலம் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் வைக்கப்பட்டுள்ளது. பிரேத பரிசோதனையின் பின் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட உள்ளது என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார். R
+
+◼️
+
+[Data](articles/2f44f793.json)
 
 ---
 
@@ -2069,117 +2179,5 @@ As Ramazan, the month of fasting, will start this week, several Muslims were see
 [Data](articles/27c4ea39.json)
 
 [Extended Data](ext_articles/27c4ea39.ext.json)
-
----
-
-### Navy arrests 22 Indian fishermen, three fishing trawlers
-
-*2024-03-10 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97855/navy-arrests-22-indian-fishermen-three-fishing-trawlers-) · `en`
-
-The Sri Lanka Navy has arrested 22 Indian fishermen and three trawlers for allegedly poaching in Sri Lankan waters off the Kovilan Lighthouse in Kareinagar.
-
-According to the Navy, the apprehensions were made during a special operation carried out between the late hours of Saturday night (09 March) and in the early hours of today (10 March).
-
-As an extension of the regular operations conducted to curb illegal fishing practices by foreign fishing trawlers in Sri Lankan waters, the Northern Naval Command deployed a Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in local waters off the Kovilan Lighthouse.
-
-The operation resulted in the seizure of three Indian poaching trawlers and the apprehension of 22 Indian fishermen, who were subsequently brought to the Kankesanthurai Harbour and are due to be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
-
-...
-
-[Data](articles/2b37657c.json)
-
-[Extended Data](ext_articles/2b37657c.ext.json)
-
----
-
-### 8 including a priest arrested for abuse of court order
-
-*2024-03-10 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194354) · `si`
-
-Police arrested 8, including a priest, for unauthorized access to Vedictankunaramalai archaeological site.
-
-🟩
-
-Police have arrested eight persons including a priest in connection with unauthorized innroad.
-
-The Nedunkerni police arrested 24,29,30,34,37 and 54 years old.
-
-They are residents of Nedunkerni, Puliyankulama, Kanagarayankulam and Mamber areas, police said.
-
-They have been instructed by the people to the archaeological site of the Vedictankunaramalai in the archaeological site of the court.
-
-◼️
-
-[Data](articles/b58ad5c2.json)
-
-[Extended Data](ext_articles/b58ad5c2.ext.json)
-
----
-
-### The government has revealed our position to the world. University Hindu
-
-*2024-03-10 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178376) · `ta`
-
-The Jaffna Government claims the government's actions violate basic worship at the Adilingeswarar Temple, sparking controversy. On Maha Shivaratri, Tamil Saivites were arrested and detained, with police entering the temple and refusing to provide water. This has raised concerns about religious harmony and the government's stance on religious practices.
-
-🟩
-
-The Government of Jaffna has said that the government has revealed our position to the world that violates basic worship at the Adilingeswarar Temple at the Attukkanarimalai.
-
-Jaffna University Hindu ForumThis was stated in a statement issued by the temple of Maha Shivaratri Day police anarchy.
-
-In the statement, Maha Sivaratri is the head of the fasting of Lord Shiva, who is not the first and the first, and the fasting of the fasting of the night is the tradition of worshiping Lord Shiva and worshiping Lord Shiva.
-
-On the eve of the Mahasivarathri day, the Tamil Saivites worshiped the Vedukkunnarimalai Adi Ilinkeswarar Temple Maha Shivaratri daily worship of the temple.
-
-...
-
-[Data](articles/dd89568c.json)
-
-[Extended Data](ext_articles/dd89568c.ext.json)
-
----
-
-### Anyone can celebrately - Mendis
-
-*2024-03-10 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194353) · `si`
-
-Sri Lanka's leader Kusal Mendis defended the celebration of the Sri Lankan cricket team's victory, saying it's a matter of personal choice and everyone was happy.
-
-🟩
-
-At a press conference against Bangladesh yesterday, Sri Lanka's leader Kusal Mendis has focused on the comments of Sri Lanka.
-
-The Bangladesh Media, Sri Lanka's Sri Lankan cricketer has been questioned by Bangladesh media to celebrate the Sri Lankan team in the winning the Sri Lankan team.
-
-"I think someone did that. I don't know why, anybody can celebrate the way they want. Everyone was happy at the time. That's all the players celebrated it. "
-
-◼️
-
-[Data](articles/3b3c6573.json)
-
-[Extended Data](ext_articles/3b3c6573.ext.json)
-
----
-
-### Kalmunai student who fell in Kegalle
-
-*2024-03-10 17:28:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கேகாலையில்-விழுந்த-கல்முனை-மாணவன்-மீட்பு/76-334464) · `ta`
-
-A student from Kalmunai, Orington Andrerado, fell on Mount Kegalla but was safely rescued.
-
-🟩
-
-The army said that a student of a northwestern university student who fell on the hill on the Mount of Kegalla was safely rescued by climbing on the top of the hill of about two and a half kilometers.
-
-The second year student of the Northwest University Faculty of Technology, Orington Andrerado, a student from Kalmunai, has been rescued.
-
-In the second year of the Technical Faculty of the same university, a student fell down from a rock at 10 feet while landing on Sunday morning (10) in the morning.
-
-◼️
-
-[Data](articles/6afc75cc.json)
-
-[Extended Data](ext_articles/6afc75cc.ext.json)
 
 ---

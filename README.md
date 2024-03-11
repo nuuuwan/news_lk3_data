@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 23:02:47**
+As of **2024-03-11 23:17:51**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 1,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,226 (100.0%) of 12,228 articles have been extended.
+12,228 (100.0%) of 12,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### நான் சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தையைக் கோரவில்லை - கலாநிதி ஹர்ஷ டி சில்வா
+### I am not seeking talks with the International Monetary Fund - Dr. Harsha de Silva
 
 *2024-03-11 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178474) · `ta`
 
-சர்வதேச கடன் வழங்குநர்களுடனான பேச்சுவார்த்தையையே அன்றி சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தையைக் கோரவில்லை. கடன் உரிமையாளர்களுடனான பேச்சுவார்த்தைகளை வெளிப்படைத் தன்மையுடன் முன்னெடுத்து, எதிர்தரப்பினரது இணக்கப்பாட்டையும் பெற்றுக் கொள்ள வேண்டும் என்பதையே தான் வலியுறுத்தியதாகப் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Dr. Harsha de Silva, a parliamentarian, emphasizes that negotiations with international credit providers, not the IMF, are necessary for the government's progress. He warns that compliance with credit providers could lead to a crisis for the new government, potentially causing bankruptcy. He advocates for transparent negotiations with credit owners and holds the opposition responsible. He insists on not negotiating with the IMF and has outlined amendments to be discussed with the Monetary Fund representatives.
 
-சர்வதேச நாணய நிதியத்துடன் திங்கட்கிழமை (11) இடம்பெற்ற பேச்சுவார்த்தைக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் அழைப்பு விடுக்கப்பட்டிருந்தது. இதற்குப் பதிலளிக்கும் போது மேற்கண்டவாறு தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-நான் சர்வதேச நாணய நிதியத்துடன் பேச்சுவார்த்தையைக் கோரவில்லை. சர்வதேச கடன் வழங்குநர்களுடனான பேச்சுவார்த்தையையே கோரினேன். தற்போது சர்வதேச நாணய நிதியத்துடன் செய்து கொள்ளப்படும் இணக்கப்பாட்டினை அடுத்து ஆட்சியமைக்கும் அரசாங்கம் முன்னெடுத்துச் செல்ல வேண்டியது கட்டாயமாகும்.
+The International Monetary Fund did not seek negotiations with international credit providers. Parliamentarian Harsha de Silva said he emphasized that negotiations with the loan owners should be transformed and obtained the compliance of the opposition.
+
+President Ranil Wickremesinghe was summoned by the International Monetary Fund on Monday (11). In response, he further stated that he added.
+
+I do not request negotiations with the IMF. Sought negotiations with international credit providers. It is imperative for the government to advance in the wake of the current compliance with the International Monetary Fund.
+
+Therefore, if compliance with international credit providers and financial institutions can be implemented in the future, it would be a crisis for the new government that would rule. In the event of such a situation, the country will be able to repay the bankruptcy and cannot repay the debts.
 
 ...
 
 [Data](articles/08dd5ee5.json)
+
+[Extended Data](ext_articles/08dd5ee5.ext.json)
 
 ---
 
@@ -61,6 +69,8 @@ Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is regard
 ◼️
 
 [Data](articles/da4f099d.json)
+
+[Extended Data](ext_articles/da4f099d.ext.json)
 
 ---
 

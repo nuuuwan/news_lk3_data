@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 09:33:29**
+As of **2024-03-11 09:52:04**
 
 ## Newspaper Stats
 
-*Scraped **12,055** Articles*
+*Scraped **12,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
-adalk | 1,019
+adalk | 1,020
 adaderanalk | 1,461
 tamilmirrorlk | 1,465
 virakesarilk | 1,644
-dailymirrorlk | 1,845
-adaderanasinhalalk | 1,904
+dailymirrorlk | 1,846
+adaderanasinhalalk | 1,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,055 (100.0%) of 12,055 articles have been extended.
+12,055 (100.0%) of 12,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### 'හරක් කටා'ව අධිකරණයට රැගෙන එයි
+
+*2024-03-11 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194367) · `si`
+
+නඳුන් චින්තක නොහොත් 'හරක් කටා' යන සංවිධානාත්මක අපරාධකරුවා ව මීට සුළු වේලාවකට පෙර කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන විත් තිබේ.
+
+◼️
+
+[Data](articles/1794f5be.json)
+
+---
+
+### Prime Minister to head off to China later this month
+
+*2024-03-11 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-to-head-off-to-China-later-this-month/108-278596) · `en`
+
+Colombo, March 11 (Daily Mirror) - Prime Minister Dinesh Gunawardena will undertake an official tour of China later this month and hold talks with his counterpart Li Qiang, Daily Mirror learns.
+
+During the visit, China and Sri Lanka are expected to sign half a dozen of MoUs related to bilateral cooperation in key areas. However, details related to the agreements were not yet available.
+
+President Ranil Wickremesinghe has reportedly instructed the Prime Minister to undertake this visit. During his stay in China, Mr. Gunawardena will travel to both Beijing and Shanghai where he will address business leaders.
+
+◼️
+
+[Data](articles/75ee4b9b.json)
+
+---
 
 ### Special discussion on IMF bailout programme today
 
@@ -113,6 +141,28 @@ To facilitate public feedback and address concerns effectively, the NWSD has int
 [Data](articles/3dbcf054.json)
 
 [Extended Data](ext_articles/3dbcf054.ext.json)
+
+---
+
+### කුලියාපිටියේදී ජනපති රහස් රැසක් හෙළිකරයි
+
+*2024-03-11 08:03:10* · [`adalk`](https://www.ada.lk/breaking_news/කුලියාපිටියේදී-ජනපති-රහස්-රැසක්-හෙළිකරයි/11-408524) · `si`
+
+සට්ටම්බිරාළට සහ ගොඩ පෙරකදෝරුවාට යට වී ඇති සමගි ජන බලවේගය තුළ එක්සත් ජාතික පක්ෂයේ මූලධර්ම නැහැ.
+
+සමගි ජන බලවේගය තුළ එක්සත් ජාතික පක්ෂයේ මූලධර්ම නැති බවත්, එම පක්ෂය අද සට්ටම්බිරාළට සහ ගොඩ පෙරකදෝරුවාට යටවී අති බවත් ප්‍රකාශ කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රට ණය බරින් බේරාගෙන අනාගත පරපුර වෙනුවෙන් සුරක්ෂිත රටක් ගොඩනැගීමට එක්වන ලෙස එක්සත් ජාතික පක්ෂය හැර ගොස් සමගි ජන බලවේගය සමඟ එක්වු සියලුදෙනාට ආරාධනා කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ ඊයේ (10) පස්වරුවේ කුලියාපිටිය නගර සභා ක්‍රීඩාංගණයේ පැවති එක්සත් ජාතික පක්ෂ පළමු මහජන රැළිය අමතමිනි.
+
+රට වෙනුවෙන් එකතු වී වැඩ කිරීමට කැමති ජනතා හමුව “සැබෑව” තේමාව යටතේ මෙම ජන හමු මාලාව සංවිධානය කර තිබෙන අතර කුලියාපිටියේ පැවති පළමු රැළිය සදහා විශාල ජනකායක් එක්ව සිටියහ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනාධිපති ධූරයට පත්වීමෙන් පසු ඇමතූ පළමු ජන රැළිය ද මෙය වෙයි.
+
+ජන රැළිය ඇමතීමෙන් අනතුරුව ජනතාව අතරට ගිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඔවුන් සමග සුහද කතා බහක ද නිරත විය.
+
+...
+
+[Data](articles/e50fd357.json)
 
 ---
 
@@ -2099,79 +2149,5 @@ The spokesman said that the 24 -hour strike would be focused on the postal offic
 [Data](articles/ca907f4e.json)
 
 [Extended Data](ext_articles/ca907f4e.ext.json)
-
----
-
-### Here are the partners with the invitation of the President
-
-*2024-03-10 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194347) · `si`
-
-The TNA has accepted President Ranil Wickremesinghe's invitation to discuss with the International Monetary Fund representatives. The President plans to meet with the IMF tomorrow. The TNA's Sampanthanaya will lead the discussion.
-
-🟩
-
-The TNA has admitted the invitation extended by President Ranil Wickremesinghe to discuss with the International Monetary Fund representatives to the opposition political parties.
-
-Accordingly, the TNA leader of the TNA for discussion. Ilankai Tamil Arasu Kachchi Party leader Sampanthanaya. Mr. Sridharan said.
-
-The President has taken steps to hold a discussion with the International Monetary Fund representatives to the President's Representatives tomorrow with the International Monetary Fund.
-
-It has been reported that the reconciliation and national folk force have been made to participate in the incident.
-
-However, the TNA has accepted the invitation and has decided to attend a party representative.
-
-It is reported that his participation has also been uncertain as the Chairman of the Government Finance Committee of the Committee.
-
-Ada Derana has made a final decision on this matter with the party and will take a final decision on this matter.
-
-◼️
-
-[Data](articles/db8d63fb.json)
-
-[Extended Data](ext_articles/db8d63fb.ext.json)
-
----
-
-### New Secured Transactions Registry established to help expand financing for SMEs
-
-*2024-03-10 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97851/new-secured-transactions-registry-established-to-help-expand-financing-for-smes) · `en`
-
-A new Secured Transactions Registry (STR) has been established to facilitate the use of moveable assets as collateral for loans for Small and Medium Enterprises (SMEs) in Sri Lanka while ensuring financial stability and fostering economic growth in the country.
-
-The STR was established by the Central Bank of Sri Lanka (CBSL), together with the Finance Ministry and the Credit Information Bureau (CRIB) and with technical assistance from the International Finance Corporation (IFC).
-
-Accordingly, the new Secured Transactions Registry Act aims to address legal and operational challenges in the existing law.
-
-SMEs comprise more than 75% of enterprises while accounting for 45% of employment and 52% of the country’s GDP. Yet, they cite access to finance as one of the key obstacles, hindering their growth potential.
-
-...
-
-[Data](articles/3ba77d4b.json)
-
-[Extended Data](ext_articles/3ba77d4b.ext.json)
-
----
-
-### 23 Indian fishermen arrested
-
-*2024-03-10 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194346) · `si`
-
-22 Indian fishermen arrested for illegal fishing near Point Pedro and Kankasanurai. Three trawlers also seized.
-
-🟩
-
-Navy has arrested 22 Indian fishermen who were illegally engaged in fishing in the country.
-
-The fishermen have been arrested last night at Point Pedro and Kankasanurai sea.
-
-Three Indian trawlers have also taken into custody.
-
-The Sri Lanka Navy said that the fishermen were taken to the Fisheries Harbor to the Fisheries Harbor.
-
-◼️
-
-[Data](articles/61117353.json)
-
-[Extended Data](ext_articles/61117353.ext.json)
 
 ---

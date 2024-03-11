@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 20:17:49**
+As of **2024-03-11 20:34:15**
 
 ## Newspaper Stats
 
-*Scraped **12,208** Articles*
+*Scraped **12,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 628
 economynextcom | 636
 islandlk | 663
-adalk | 1,042
+adalk | 1,044
 adaderanalk | 1,477
 tamilmirrorlk | 1,488
 virakesarilk | 1,677
@@ -26,23 +26,31 @@ adaderanasinhalalk | 1,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,207 (100.0%) of 12,208 articles have been extended.
+12,208 (100.0%) of 12,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### தமிழர்கள் இந்த முழு நாட்டையும் கல்வியால் ஆழமுடியும் - வியாழேந்திரன்
+### Tamils can be deeply educated by Tamils - Jupiter
 
 *2024-03-11 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178468) · `ta`
 
-நாங்கள் இந்த நாட்டிலே சிறுபான்மை சமூகங்கள் என்று எம்மை அடையாளப்படுத்திக் கொள்கின்றோம். அது எண்ணிக்கையில்தான் ஆனால் பெரும்பான்மை சமூகமாகச் சிங்கள மக்களைச் சொல்லலாம். தமிழர்களாகிய நாம் யார் எனும் கேள்வியைக் கேட்டால் நாங்கள் அழிக்கப்பட்ட சமூகத்தினதும்,  காணாமலாக்கப்பட்ட, பாதிக்கப்பட்ட சமூகத்தின் பிரதிநிதிகள்தான்.
+Tamils, despite being a minority, are deeply educated and can significantly impact Sri Lanka's education and economy. They are recognized for their contributions, including leading in the Science Division. Education is key to their identity and success, with notable figures like the Prime Minister and President having been educated by Tamils.
 
-மட்டக்களப்பு மாவட்டம் பெரியகல்லாறு ஒலிம்பியா விளையாட்டுக் கழகம் நடாத்திய பி.பி.எல்.கிறிக்கட் திருவிழாவின் இறுதிப்போட்டி நிகழ்வு கழகத் தலைவர் ஆர்.கோபாலசிங்கம் தலைமையில் பெரிய கல்லாறு பொது விளையாட்டு மைதானத்தில் நடைபெற்றது. இதன்போது கந்து கொண்டு கருத்துத் தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்…
+🟩
+
+We identify us as minority communities in this country. It is only in number but the majority of the Sinhalese people can be said. Asked who we are Tamils, we are the representatives of the destroyed society and the disappeared community.
+
+Batticaloa District Periyakallar Olympia Sports Corporation. He said this while commenting. He further stated that…
+
+Although we are minorities in number, Tamils can deep this whole country with education. This country will listen to what we say. This country will look back on us. If so, we have to pay more attention to the two fields of economics and education. We need to raise our society for the peak that no one can touch in both fields. If you grow up, this whole country will listen to what we say. Everyone should sing for that.
 
 ...
 
 [Data](articles/b86086d0.json)
+
+[Extended Data](ext_articles/b86086d0.ext.json)
 
 ---
 
@@ -73,6 +81,22 @@ While the CID was in the custody, the security forces were also trying to surviv
 [Data](articles/4783849e.json)
 
 [Extended Data](ext_articles/4783849e.ext.json)
+
+---
+
+### පෞරාණික භාණ්ඩ තොගයක් රු. කෝටි 5කට විකුණන්න බැරි වෙයි
+
+*2024-03-11 19:29:08* · [`adalk`](https://www.ada.lk/breaking_news/පෞරාණික-භාණ්ඩ-තොගයක්-රු--කෝටි-5කට-විකුණන්න-බැරි-වෙයි/11-408549) · `si`
+
+පෞරාණික වටිනාකමකින් යුත් පුරාවස්තු තොගයක් නීති විරෝධී අයුරින් කෝටි රුපියල් පහකට අධික මුදලකට අලෙවි කිරීමට උත්සාහ ගත් පුද්ගලයකු යුද හමුදා බුද්ධි නිලධාරීන් සහ විශේෂ කාර්ය බලකා නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මේ ආකාරයට අලෙවි කිරීමට උත්සාහ කර තිබෙන්නේ මතුගම, පැලවත්ත, ලිහිණියාව ප්‍රදේශයේ විහාරස්ථානයක ප්‍රදර්ශනයට තබා තිබූ ඓතිහාසික වටිනාකමින් යුත් පුරාවස්තුන් බවද යුද හමුදාව සඳහන් කරයි.
+
+ඊයේ( 11දා) උදෑසන කාලයේදී  අදාළ අත්අඩංගුවට ගැනීම් සිදුකර තිබෙන අතර අත්අඩංගුවට ගත් භාණ්ඩ අතර පෞරාණික වටිනාකමකින් යුත් රන්, කිරිගරුඬ, රත් හඳුන් ශෛලමය ප්‍රතිමාවක් , කුඩා ප්‍රමාණයේ ඇත් දළ යුවලක්,කළු හා සුදු වර්ණයෙන් යුත් කස්තුරි සහ සෙනර වලිග යුවළක්,   ඉපැරණි මුදල් නෝට්ටු සහ කාසි කිහිපයක්, මෙන්ම වෙනත් පෞරාණික භාණ්ඩ කිහිපයක් ඇතුළත්ව ඇත.
+
+...
+
+[Data](articles/eef47720.json)
 
 ---
 
@@ -373,6 +397,26 @@ Taking to ‘X’ (formerly Twitter), the diplomat highlighted that the joint st
 [Data](articles/c17c5470.json)
 
 [Extended Data](ext_articles/c17c5470.ext.json)
+
+---
+
+### අවුරුදු 3ට සුනඛයින් නිසා 69ක් ජීවිතක්ෂයට
+
+*2024-03-11 17:54:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-3ට-සුනඛයින්-නිසා-69ක්-ජීවිතක්ෂයට/11-408546) · `si`
+
+2021, 2022 සහ 2023 යන වසරවලදීපිළිවෙළින් 25, 28 සහ 16ක් වශයෙන් පුද්ගලයන් 69දෙනෙකු ජලභීතිකා රෝගය වැළදීම හේතුවෙන් ජීවිතක්ෂයට පත්ව ඇති බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+එමෙන්ම 2021, 2022 සහ 2023 යන වසරවලදී පිළිවෙලින් 65,773ක්, 66,247ක් සහ 69,834ක් ලෙස පුද්ගලයන් 201,854ක් සුනඛයන් සපාකෑම හේතුවෙන් රජයේ රෝහල්වලින් ප්‍රතිකාර ලබා ගෙන ඇති බවද මෙහිදී අනාවරණය විය.
+
+පාර්ලිමේන්තුවේ වාචික පිළිතුරු අපේක්ෂාවෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී උපුල් මහේන්ද්‍ර රාජපක්ෂ මහතා යොමු කළ ප්‍රශන්යකට පිළිතුරු ලෙස සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මෙම තොරතුරු ලබා දුන්නේයෙ.
+
+ඒ අනුව තමන් ඇති කරන ලබන සුනඛයන් නිසි ලෙස එන්නත් කරණයට යොමු කරන ලෙස ජනතාවගෙන් ඉල්ලීමක් කරන බවත්, සමස්ත වීදිා සුඛකයන්ගෙන් 70෴ක් එන්නත්කරණය තුළින් ජලභීතිකා රෝගය පාලනය කරගත හැකි බවත් එහිදී අමාත්‍යවරයා පැවසීය.
+
+එම අවස්ථාවේ වැඩිදුරටත් සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/2a6aa171.json)
 
 ---
 
@@ -2279,47 +2323,5 @@ Wijesekera further stated that the ground-mounted solar plant was a part of the 
 [Data](articles/a1c11825.json)
 
 [Extended Data](ext_articles/a1c11825.ext.json)
-
----
-
-### Water supply to be restricted if arid weather continues?
-
-*2024-03-11 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/97866/water-supply-to-be-restricted-if-arid-weather-continues) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) has requested the public to use water sparingly in light of the prevailing arid weather conditions.
-
-Deputy General Manager of the NWSDB Anoja Kaluarachchi explained that in the event the current extreme dry weather continues for the next two months, it is likely that water will have to be supplied on a shift-basis.
-
-However, she assured that sufficient water levels are currently available, and explained that the NWSDB is merely requesting the public to use water sparingly, as a precautionary measure.
-
-Kaluarachchi noted that thus far, no restriction or limitation of water supply has been implemented in any areas, and thus urged for consumes to call the 24-hour NWSDB hotline 1919 in the event such issues are experienced.
-
-◼️
-
-[Data](articles/319e75df.json)
-
-[Extended Data](ext_articles/319e75df.ext.json)
-
----
-
-### Key instruction on drinking water consumption
-
-*2024-03-11 12:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-நுகர்வு-தொடர்பில்-முக்கிய-அறிவுறுத்தல்/175-334500) · `ta`
-
-Due to drought, the National Water Supply and Drainage Board advises limited water use. Deputy General Manager Anoja Kaluwarachchi warns of limited supply if drought lasts over two months, emphasizing the need to conserve water for essential purposes.
-
-🟩
-
-Due to the prevailing drought, the National Water Supply and Drainage Board has called for the people to use water.
-
-Deputy General Manager of the House Development Anoja Kaluwarachchi said the water supply would be limited if the drought continues for more than two months.
-
-However, he urged the current water level to be sufficient and only water for essential purposes as possible.
-
-◼️
-
-[Data](articles/fc21aabe.json)
-
-[Extended Data](ext_articles/fc21aabe.ext.json)
 
 ---

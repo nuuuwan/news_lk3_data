@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 11:52:38**
+As of **2024-03-11 12:04:49**
 
 ## Newspaper Stats
 
-*Scraped **12,099** Articles*
+*Scraped **12,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 631
 islandlk | 662
 adalk | 1,025
 adaderanalk | 1,463
-tamilmirrorlk | 1,475
+tamilmirrorlk | 1,476
 virakesarilk | 1,649
 dailymirrorlk | 1,854
 adaderanasinhalalk | 1,909
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,089 (99.9%) of 12,099 articles have been extended.
+12,099 (100.0%) of 12,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,37 +48,65 @@ A political leader is a public servant dedicated to enhancing society, elected t
 
 ---
 
-### யாழில் நிமோனியாவால் இளைஞன் உயிரிழப்பு
+### இசையில் இன்பம் காண முயன்றவர் கைது
+
+*2024-03-11 11:36:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசையில்-இன்பம்-காண-முயன்றவர்-கைது/175-334495) · `ta`
+
+இளைஞர்கள் இருவரை இசை நிகழ்ச்சிக்கு அழைத்துச் சென்று பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்துவதற்கு முயற்சித்தார் என்றக் குற்றச்சாட்டின் கீழ், 46வயதான நபரொருவர் விசாரணைக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+தனமல்வில – உடவலவ வீதியில் குக்குல்கடுவ பிரதேசத்தில் பயிர்ச்செய்கையில் ஈடுபட்டிருந்த 46 வயதுடைய நபரொருவர் அப்பகுதியில் வசிக்கும் 15 மற்றும் 16 வயதுடைய இரு சிறுவர்களை பாலியல் வன்கொடுமைக்கு தூண்டிய சம்பவம் தொடர்பிலேயே தனமல்வில பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+சந்தேக நபர் பிடகோட்டே பிரதேசத்தை சேர்ந்தவர் என்பதுடன், குக்குல்கடுவ பிரதேசத்தில் சுமார் பத்து ஏக்கர் காணியில் பயிர்ச்செய்கை பணிகளை மேற்கொண்டு வருகின்றார். அதே பகுதியில் வசிக்கும் இரண்டு சிறுவர்களிடம் தான் தனமல்வில நகரில்  ஒரு இசை நிகழ்ச்சியை பார்க்கச் செல்வதாகவும், அவ்விருவரையும் வருமாறும் அழைத்துள்ளார்.
+
+...
+
+[Data](articles/aec6c728.json)
+
+---
+
+### Young man dies by pneumonia in Jaffna
 
 *2024-03-11 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178401) · `ta`
 
-யாழ்ப்பாணம் - வடமராட்சி பகுதியைச் சேர்ந்த இளைஞன் ஒருவர்  நியூமோனியா காய்ச்சல் காரணமாக உயிரிழந்துள்ளார்.
+A 29-year-old man from Jaffna's Vadamarachchi area died of pneumonia on Sunday. He was from Karavetti, Tunnalai, and had previously rescued another individual, who was admitted to Point Pedro Hospital.
 
-துன்னாலை வடக்கு, கரவெட்டியைச் சேர்ந்த முத்துலிங்கம் சிவதர்ஷன் (வயது 29) எனும் இளைஞனே உயிரிழந்துள்ளார்.
+🟩
 
-வீட்டில் நேற்று ஞாயிற்றுக்கிழமை (10) திடீரென மயங்கி விழுந்த இளைஞனை வீட்டார் மீட்டு, பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதித்த நிலையில் இளைஞன் உயிரிழந்துள்ளார்.
+A youth from Jaffna - Vadamarachchi area has died of a neonia fever.
+
+Muthulingam Sivadarshan (age 29), a young man from Karavetti, Tunnalai, has died.
+
+The youth has died on Sunday (10) at home and rescued a young man who was rescued and admitted to the Point Pedro Hospital.
 
 ◼️
 
 [Data](articles/116316b3.json)
 
+[Extended Data](ext_articles/116316b3.ext.json)
+
 ---
 
-### ජල පරිභෝජනය පරිස්සමින්
+### Care of water consumption
 
 *2024-03-11 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194371) · `si`
 
-පවතින වියළි කාලගුණ තත්ත්වය හේතුවෙන් ජලය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+Due to dry weather, the National Water Supply and Drainage Board urges the public to use water frugally. Water levels are sufficient, but only for essential needs. The board expects rain to replenish water sources like Kittuwa flowers and Labugama seeds. If consumption decreases, they will notify at 1919.
 
-එම මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරී සංවර්ධන, අනෝජා කළුවාරච්චි මහත්මිය ප්‍රකාශ කළේ, වියළි කාලගුණ තත්ත්වය මාස දෙකකට අධික කාලයක් පවතින්නේ නම් ජලය මුර ක්‍රමයට ලබා දීමට සිදුවන බවය.
+🟩
 
-කෙසේ වුවත් මේ වනවිට පවතින ජල මට්ටම ප්‍රමාණවත් බව ද පැවසු ඇය හැකි සෑම විටම ජලය අත්‍යාවශ්‍ය කටයුතු සඳහා පමණක් යොදාගන්නා ලෙස ද ඉල්ලීමක් කළාය.
+Due to the prevailing dry weather, the National Water Supply and Drainage Board requests the public to use water from the frugal.
 
-"අපේම ජල මුලාශ්‍රයක් වන කලටුවාව ජලාශ්‍රයේ ඉදිරි මාස දෙක සඳහා තව දින 65කට ජලය තියෙනවා සැපයුම කරන්න. ලබුගම ජලාශ්‍රයේ දින 105ක් සඳහා ජලය තියෙනවා. අපි හිතනවා වැසි ලැබෙයි කියලා. පාරිභෝගිකයින්ට ජල සැපයුම සීමා කිරීමක් කරලා නෑ. නමුත් ඇතැම් පාරිභෝගිකයින්ට ලැබෙන ජල ප්‍රමාණය අඩුවීමක් හෝ නොලැබීයෑමක් සිදුවුවහොත් පැය 24 පුරාම ක්‍රියාත්මක දුරකථන අංකය වන 1919 ට දැනුම්දීමක් කරන්න පුළුවන්. ඒ සඳහා විසඳුමක් ලබාදෙන්න අපි කටයුතු කරනවා. ඒ වගේම අත්‍යවශ්‍ය තැන්වලට බවුසර් මඟින් ජලය සපයා දිය හැකියි."
+Deputy General Manager Development of the Board Deputy General Manager Development, Troutha Kalvarachchi stated that the dry weather is more than two months.
+
+However, the water level is sufficient and he requested that water is used only for essential matters whenever possible.
+
+"We have 65 more days for the next two months of the Kittuwa flower, which is one of our own water sources.. 105 days of Labugama seed have water. We think the rain gets. Water supply has not been laundered. But if some consumers have decreased, the 24-hour telephone number will be notified in 1919. We are trying to solve it. Balaser can also provide water to essential places. "
 
 ◼️
 
 [Data](articles/637e8e62.json)
+
+[Extended Data](ext_articles/637e8e62.ext.json)
 
 ---
 
@@ -112,17 +140,23 @@ Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress I
 
 ---
 
-### 22 இந்திய மீனவர்களுக்கு விளக்கமறியல்
+### Explanation for 22 Indian fishermen
 
 *2024-03-11 11:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/22-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/71-334492) · `ta`
 
-யாழ்ப்பாணம் - காரைநகர் கடற்பரப்பில் எல்லை தாண்டி மீன் பிடித்த குற்றச்சாட்டில் 09 ஆம் திகதி சனிக்கிழமை கைதான 22 மீனவர்கள் இலங்கை கடற்படையினரால் கைது செய்யப்பட்டனர்.
+22 Indian fishermen arrested by Sri Lankan navy for fishing in Jaffna-Karainagar waters. Ordered remanded until 22nd.
 
-பின்னர் 22 மீனவர்களும் ஊர்காவற்றுறை நீதவான் நீதிமன்ற நீதிவான் ஜெ.கஜநிதிபாலன் முன்னிலையில் ஆஜர்படுத்தப்பட்டநிலையில் அவர்களை எதிர்வரும் 22 ஆம் திகதி வெள்ளிக்கிழமை வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+🟩
+
+22 fishermen arrested on Saturday, 9th of this month, were arrested by the Sri Lankan navy for allegedly fishing in the Jaffna -Karainagar waters.
+
+The magistrate then ordered the 22 fishermen to be remanded until Friday the 22nd of this month.
 
 ◼️
 
 [Data](articles/fa74a4bd.json)
+
+[Extended Data](ext_articles/fa74a4bd.ext.json)
 
 ---
 
@@ -172,17 +206,23 @@ The fire has been able to control the fire while the fire is spread.
 
 ---
 
-### நிர்வாணமாக மேடை ஏறிய ஜோன் சீனா (காணொளி)
+### John China (Video)
 
 *2024-03-11 11:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நிர்வாணமாக-மேடை-ஏறிய-ஜோன்-சீனா-காணொளி/50-334491) · `ta`
 
-96-வது 'ஆஸ்கார்' திரைப்பட விருது வழங்கும் விழா இடம்பெற்றுள்ள  நிலையில்  அதில் சிறந்த ஆடை வடிவமைப்பிற்கான விருதை யார் வெல்வார் என அறிவிப்பதற்கு, நடிகர் ஜோன் சீனா மேடை  ஏறியுள்ளார் .
+John China, a Hollywood actor and WWE boxer, 46, announced the Best Clothing Award at the 96th Oscar Film Awards, appearing naked and sparking controversy.
 
-இளைஞர்கள் மற்றும் பெரியவர்கள் மத்தியில் பிரபலமடைந்துள்ள  ஹாலிவுட் நடிகரும்  , WWE  குத்துச்சண்டை வீரருமான , 46 வயதுடைய   ஜோன் சீனா  நிர்வாணமாக மேடைக்கு வந்துள்ளதுடன்  இது அனைவருக்குமிடையில்  பெரும்  சர்ச்சையை  ஏற்படுத்தியுள்ளது.
+🟩
+
+Actor John China has climbed the stage to announce who will win the Best Clothing Award, with the 96th Oscar Film Awards.
+
+Hollywood actor and WWE boxer, 46 -year -old John China, has come to the stage naked, and has caused a lot of controversy among young people and adults.
 
 ◼️
 
 [Data](articles/59f235c9.json)
+
+[Extended Data](ext_articles/59f235c9.ext.json)
 
 ---
 
@@ -247,6 +287,8 @@ The Railways Department owns the largest amount of land in the country.
 ...
 
 [Data](articles/26acb482.json)
+
+[Extended Data](ext_articles/26acb482.ext.json)
 
 ---
 
@@ -318,19 +360,27 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 
 ---
 
-### ජනපතිවරණයේදී සහාය දෙන්න තොණ්ඩමන්ලාගෙන් රනිල්ට ඉල්ලීම් තුනක්
+### Ranil requests three demands from Thondamanme to support the Presidential election
 
 *2024-03-11 10:46:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයේදී-සහාය-දෙන්න-තොණ්ඩමන්ලාගෙන්-රනිල්ට-ඉල්ලීම්-තුනක්/11-408528) · `si`
 
-ඉදිරියේ පැවැත්වෙන ජනාධිපතිවරණයේදී සහාය දෙන්නේ කුමන අපේක්ෂකයාටද යන්න පිළිබඳව ලංකා කම්කරු කොංග්‍රසයේ ජාතික සභාව  එකතුව ඉදිරියේදී තීරණයක් ගනු ලබන බවත්, වත්මන් ජනාධිපති  රනිල්  වික්‍රමසිංහ මහතාට  ඉදිරිපත් කොට ඇති ඉල්ලීම් ඉටු කළහොත් හා ඔහු   ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් වුවහොත්  ඔහුට සහාය පළ කිරීමේ හැකියාව පවතින  බවත් ලංකා කම්කරු කොංග්‍රසයේ මහ ලේකම්, ජල සම්පාදන හා වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා පැවැසීය.
+Ranil Wickremesinghe's demands for the Presidential election include a housing scheme in the mountains, a permanent solution for upcountry estate workers' salaries, and separate land ownership for plantation people. Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, supports these demands.
 
-මේ වනවිට ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට තම පක්ෂය විසින් ඉල්ලීම් තුනක් ඉදිරිපත් කොට ඇති බවත්, ඒ සඳහා ලබා දෙන විසඳුම් අනුව ඉදිරියේදී ඔහු ජනාධිපතිවරණයට ඉදිරිපත් වුවහොත් ඔහුට සහාය පල කිරීම පිළිබඳව ලංකා කම්කරු කොංග්‍රසයේ ජාතික සභාව  විසින් තීරණයක් ගනු ඇති බවද හෙතම කීය.
+🟩
 
-කොටගල ලංකා කම්කරු කොංග්‍රස් මුලස්ථානයේ ඊයේ (10) පැවැති ලංකා කම්කරු කොංග්‍රසයේ කාන්තා දින සමුළුවේ  ප්‍රධාන ආරාධිතයා ලෙස එක්ව සිටි අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා මේ බව පැවැසීය.
+Ceylon Workers Congress General Assembly will be decided by the Presidential Secretariat and the Presidential Election and the Presidential Election will be supported by President Ranil Wickremesinghe.Minister of Water Supply and Estate Infrastructure Development Mr. Jeevan Thondaman said.
+
+The National Council of the Ceylon Workers' Congress will decide three demands that President Ranil Wickremesinghe has presented three demands and support the presidential election by his party.
+
+Minister Jeevan Thondaman was speaking at the chief guest at the Women's Day Summit in Kotagala Lanka Labor Congress held yesterday (10).
+
+"We have submitted three demands for President Ranil Wickremesinghe. The first thing is to run the housing scheme in the mountains. Accordingly, the President has created the number of conditions to implement the 10000-house project.
 
 ...
 
 [Data](articles/6ba42371.json)
+
+[Extended Data](ext_articles/6ba42371.ext.json)
 
 ---
 
@@ -701,6 +751,8 @@ The Colombo Stock Exchange opened up; the All Share Price Index was up 0.39 perc
 ◼️
 
 [Data](articles/af52eed2.json)
+
+[Extended Data](ext_articles/af52eed2.ext.json)
 
 ---
 
@@ -1124,6 +1176,8 @@ In September, bills were turned into bonds with coupons below market, resulting 
 
 [Data](articles/bf13c8b4.json)
 
+[Extended Data](ext_articles/bf13c8b4.ext.json)
+
 ---
 
 ### CCI signs MoU with Tatarstan Republic of Russia
@@ -1339,6 +1393,8 @@ If Sri Lanka strikes a deal with foreign bond holders which cannot be implement,
 ...
 
 [Data](articles/3124849c.json)
+
+[Extended Data](ext_articles/3124849c.ext.json)
 
 ---
 
@@ -2167,19 +2223,5 @@ A scintillating bowling display from Nuwan Thushara (5/20) guided Sri Lanka to a
 [Data](articles/1c7eb760.json)
 
 [Extended Data](ext_articles/1c7eb760.ext.json)
-
----
-
-### Suspension of parate execution won’t do; establish Bad Bank to resolve issue permanently: Dr. Anil Baddevithana
-
-*2024-03-10 20:40:57* · [`dailyftlk`](https://www.ft.lk/columns/Suspension-of-parate-execution-won-t-do-establish-Bad-Bank-to-resolve-issue-permanently-Dr-Anil-Baddevithana/4-759304) · `en`
-
-There is a sustainable solution in setting up a licenced specialised national bank which I call a ‘Bad Bank’ by the Government as a public-private partnership or PPP. Its task should be to buy and restructure bad debts from the lending banks and support the MSME sector with advisory services and continuous business supervision for recovery and development. The private sector shareholders will be the licenced commercial and specialised banks. It can get funding as well as technical assistance from the Asian Development Bank, and the World Bank’s private sector lending arm called the International Finance Corporation. Even the US Government’s international development agency known as the USAID can be invited to help.  It should be aptly named to signify its mission as a ‘National Recovery and Renewal Bank’ or NRRB
-
-...
-
-[Data](articles/02545d02.json)
-
-[Extended Data](ext_articles/02545d02.ext.json)
 
 ---

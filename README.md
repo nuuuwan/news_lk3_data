@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 14:17:49**
+As of **2024-03-11 14:33:24**
 
 ## Newspaper Stats
 
-*Scraped **12,132** Articles*
+*Scraped **12,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 663
 adalk | 1,029
 adaderanalk | 1,467
 tamilmirrorlk | 1,483
-virakesarilk | 1,657
+virakesarilk | 1,658
 dailymirrorlk | 1,855
 adaderanasinhalalk | 1,916
 
@@ -26,71 +26,105 @@ adaderanasinhalalk | 1,916
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,125 (99.9%) of 12,132 articles have been extended.
+12,132 (100.0%) of 12,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### කොඳු ඇට පෙළේ සිදුකළ දුර්ලභ සැත්කමක්
+### Rare surgery carried out in the spine
 
 *2024-03-11 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194379) · `si`
 
-දෛවෝපගත වේදනාකාරී සිදුවීම් වෛද්‍ය විද්‍යාවේ දියුණුවත් සමඟ අභියෝගයට ලක්වන අවස්ථා ඕනෑතරම් දකින්නට ඇත.
+A 72-year-old woman underwent a rare, painful spine surgery at Badulla Teaching Hospital, with Dr. Lakmal Hewage playing a crucial role. This unique procedure, performed under the endoscopy system, was without anesthesia, showcasing the patient's complete recovery.
 
-කොඳු ඇට පෙළේ වේදනාවක් හේතුවෙන් දීර්ඝ කාලයක් පීඩාවිඳි කාන්තාවකට සිදුකළ ඉතා දුර්ලභ ගණයේ සැත්කමක් පිළිබඳව බදුල්ල ශික්ෂණ රෝහලෙන් අද (11) වාර්තා වුණි.
+🟩
 
-වයස අවුරුදු 72ක් වන මුතුමැණිකේ වසර ගණනාවක් කොඳුඇට පෙළේ ඇතිවූ වේදනාවක් හේතුවෙන් පීඩා විඳි කාන්තාවකි.
+The Date, Painful Events There are many situations that challenged with the advancement of medicine.
 
-සිය රෝගී තත්ත්වයට කොතෙක් ප්‍රතිකාර ලබාගත්තද ඇයට ඒ කිසිවකින් සුවයක් ලැබී තිබුණේ නැත.
+Badulla Teaching Hospital today (11), the Badulla Teaching Hospital reports today (11).
 
-මෙම කාන්තාවගේ රෝගී තත්ත්වය නිෂ්චිතව හඳුනාගත් බදුල්ල ශික්ෂණ රෝහලේ  ස්නායු ශල්‍ය විශේෂඥ වෛද්‍ය ලක්මාල් හේවගේ මහතා  ඇයට සැත්කමක් සිදුකළයුතු බවට නිර්දේශකර තිබුණි.
+For the age of 72, in the past 72 years, the age of 72 is a woman who suffered from a pain.
 
-එම සැත්කම මීට පෙර මෙරට තුළ සිදුකර නොතිබූ ඉතා දුර්ලභ ගණයේ සැත්කමක් වීමත් විශේෂත්වයකි.
+No matter how many treatment was received, she had no cure.
 
-එන්ඩොස්කොපි ක්‍රමය යටතේ සුශුම්නාව තුළ සිදුකළ මෙම සැත්කම සුවිශේෂී වන්නේ රෝගියා ශෛල්‍යකර්මයකට භාජනයකළ හැකි වයසක පසු නොවීම සහ සැත්කම සම්පූර්ණයෙන්ම රෝගියා නිර්වින්දනය කිරීමකින් තොරව සිදු කිරීම නිසාය.
+Dr. Lakmal Hewage, Dr. Lakmal Hewage, is essential to her due to the patient of this woman.
 
-ශෛල්‍යකර්මයෙන් පසු රෝගියා මේ වනවිට පූර්ණ සුවය ලබමින් සිටින බව රෝහල් කාර්ය මණ්ඩලය පැවසීය.
+The surgery was a very rare sequence of unparalleled in the country.
+
+This surgery under the endoscompary system is unique because the patient is not able to undergo stylish and the surgery without anesthesia.
+
+The patient is being recovering completely after style, the patient is being recovered.
 
 ◼️
 
 [Data](articles/6841a809.json)
 
+[Extended Data](ext_articles/6841a809.ext.json)
+
 ---
 
-### வெடுக்குநாறி தாக்குதலானது மிலேச்சத்தனமான  காட்டுமிராண்டித்தனம் : யாழ்.மாநகர முன்னாள் முதல்வர் மணிவண்ணன் கண்டனம்
+### கொம்பனித் தெரு ரயில் நிலையத்துக்கு அருகில் பதற்றம்!
+
+*2024-03-11 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178425) · `ta`
+
+கொம்பனித் தெரு  ரயில் நிலையத்துக்கு அருகில் உள்ள அடுக்குமாடி குடியிருப்பின்  மதிலை   அகற்றுவது தொடர்பில்  ரயில்வே ஊழியர்களுக்கும் பிரதேச மக்களுக்குமிடையில் இடையில் ஏற்பட்ட பிரச்சினை காரணமாக  அங்கு பதற்றமாக நிலைமை தோன்றியதுடன் ரயில் சேவைகளும் நிறுத்தப்பட்டுள்ளன.
+
+இது தொடர்பில் விசாரணை நடத்தப்படும் என ரயில் நிலைய அதிபர்கள் சங்கத்தின் தலைவர் சுமேத சோமரத்ன  தெரிவித்தார்.
+
+◼️
+
+[Data](articles/9e917a49.json)
+
+---
+
+### Former Chief Minister Manivannan condemned Jaffna Municipal Council
 
 *2024-03-11 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178423) · `ta`
 
-வெடுக்குநாறி ஆதிசிவன் ஆலயத்திற்கு வழிபாடு செய்ய சென்றவர்கள் மீது மேற்கொண்ட தாக்குதலானது  மிலேச்சத்தனமான காட்டுமிராண்டித்தனமான தாக்குதல்  சம்பவம் இதனை கண்டிப்பதாக முன்னாள் யாழ். மாநகர முதல்வர் மணிவண்ணன் கண்டனம் வெளியிட்டுள்ளார்.
+Former Chief Minister Manivannan condemns Jaffna Municipal Council's attack on worshippers at Adivasivan Temple. Police forcibly evacuated devotees, causing violence and discrimination. This is seen as a planned cultural destruction on Tamils, urging unity against genocide and traditional rituals.
 
-சிவ பக்தர்களுக்குரிய கவலைகள் நீங்கி, காரிய வெற்றியை தரக் கூடிய நாள் மகா சிவராத்திரி விரத நாளாகும். அந் நாளில் சிவாலயங்களில் பக்கத்தர்கள் இரவு முழுவதும் கண் விழித்து ஓம் நமச்சியவாய என்று திரு நாமத்தை உச்சாடனம் செய்வார்கள்.
+🟩
 
-அவ்வாறே தமிழர்களின் மிகத் தொன்மையான வெடுக்குநாரி ஆதிசிவன் ஆலயத்திலும் சிவபக்தவர்கள் ஒன்று கூடி சிவபெருமானுக்கு ஆராதனைகளைச் செய்தார்கள்.
+Former Jaffna condemns the attack on those who went to worship the Adivasivan Temple at the Adivasivan Temple.. Municipal Chief Minister Manivannan has condemned.
 
-அந்நேரத்தில் சிவபூஜையில் கரடி போல் உள்நுழைந்த பொலிஸார் அங்கிருந்த சிவபகத்தர்கள் மீது தாக்குதல் நடத்தி வலுக்கட்டயமாக வெளியேற்றியதோடு ஆதிசிவனக்கு படைசெய்வதற்காக கொண்டு வந்து பொருட்களையும் தூக்கி வீசியமை மிலேச்சத்தமான காட்டு மிராண்டித்தனமான செயலாகும்.
+The day when the worries of Lord Shiva are eliminated and the success of the work. In the Shivalayas that day, the side of the night will be awakened by the night and the Om Namachiyawaya will pronounce the name of Mr.
+
+Likewise, the Lord Shiva gathered at the Adivasivan Temple, the most ancient of the Tamils, and worshiped Lord Shiva.
+
+At that time, the police, who had been logged in as a bear in Sivapuja, forcibly evacuated the Shivapakatas and forcibly evacuated and brought to the Adivasivan to create and throw the goods.
+
+Initially, the devotees blocked the Adivasivan Temple on the road barriers and then allowed to walk in the livestock.. The police performed their gorgeous strike at the Adi Sivan Temple at the Adi Sivan Temple at the Adi Sivan Temple at night by the police.
 
 ...
 
 [Data](articles/5122927e.json)
 
+[Extended Data](ext_articles/5122927e.ext.json)
+
 ---
 
-### வவுனியாவில் முன்னாள் அரசியல் கைதி கொழும்பு பயங்கரவாத விசாரணைக்கு அழைப்பு
+### Former political prisoner in Vavuniya calls to call Colombo terrorist investigation
 
-*2024-03-11 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178424) · `ta`
+*2024-03-11 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178424) · `ta`
 
-வவுனியாவில் வசிக்கும் முன்னாள் அரசியல் கைதியும், போராளிகள் நலன்புரிச் சங்க தலைவருமான செ.அரவிந்தன் என்பவரை கொழும்பு பயங்கரவாத விசாரணைப் பிரிவுக்கு (ரிஐடி) அழைக்கப்பட்டுள்ளார்.
+Sen. Aravindan, a former political prisoner from Vavuniya, summoned to Colombo's Terrorism Investigation Division.
 
-இதற்கான கடிதம் பயங்கரவாத விசாரணைப் பிரிவினால் குறித்த அரசியல் கைதியின் வீட்டிற்கு சென்று நேற்று ஞாயிற்றுக்கிழமை (10) வழங்கப்பட்டுள்ளது.
+🟩
 
-வவுனியா, தோணிக்கல் பகுதியில் வசித்து வரும் முன்னாள் அரசியல் கைதியும், போராளிகள் நலன்புரிச் சங்க தலைவருமான  செல்வநாயகம் அரவிந்தனை (ஆனந்தவர்மன்) 12 ஆம் திகதி காலை 9.00 இற்கு  கொழும்பில் உள்ள பயங்கரவாத விசாரணை பிரிவுக்கு வாக்கு மூலம் பெற வருமாறு அழைப்பாணை வழங்கப்பட்டுள்ளது.
+Former political prisoner living in Vavuniya and leader of the Welfare Association, Sen. Aravindan, has been summoned to the Colombo Terrorism Investigation Division (RIT).
 
-விசாரணை பிரிவு ஒன்றின் மூலம் மேற்கொள்ளப்பட்டு வரும் விசாரணைக்கு அமைவாக முகநூல் கணக்கு சம்மந்தமாக மேற்கொள்ளப்பட்டு வரும் விசாரணைக்கு வாக்குமூலம் ஒன்றைப் பெற்றுக் கொள்வதற்காக விசாரணையை மேற்கொள்வதற்கு 12 ஆம் திகதி காலை 9.00 மணிக்கு இல149, கெப்பிட்டல் கட்டிடம், நாரஹென்பிட்ட முகவரியில் விசாரணை பிரிவு ஒன்றின் பொ றுப்பதிகாரியை சந்திக்குமாறு அழைக்கின்றோம் என அதில் தெரிவிக்கப்பட்டுள்ளது.
+The letter was issued by the Political Prisoner's house on Sunday (10).
+
+Selvanayagam Aravindanai (Anandavarman), a former political prisoner who lives in Dhonikkal, Vavuniya, and the leader of the militant welfare association, has been summoned to vote for the Terrorist Investigation Division in Colombo on the 12th.
+
+We are invited to meet the Inquiry Unit of the Inquiry Unit at the Narahenpita address, No. 149, at 9.00 am on the 12th of this month to obtain a confession to the inquiry into the investigation into the investigation by the Investigation Division.
 
 ◼️
 
 [Data](articles/db33eae6.json)
+
+[Extended Data](ext_articles/db33eae6.ext.json)
 
 ---
 
@@ -140,21 +174,29 @@ The eight of the eight people have been admitted to the Vavuniya Hospital for tr
 
 ---
 
-### வேஷ்டியுடன் களமிறங்கி மானத்தை காத்த எம்.பிக்கள்
+### MPs waiting for the dressing with the prostitute
 
 *2024-03-11 13:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/வேஷ்டியுடன்-களமிறங்கி-மானத்தை-காத்த-எம்-பிக்கள்/88-334504) · `ta`
 
-மட்டக்களப்பு மாவட்டம் பெரியகல்லாறு ஒலிம்பியா விளையாட்டுக் கழகம் நடாத்திய பி.பி.எல்.கிறிக்கட் திருவிழாவின் இறுத்திப்போட்டி நிகழ்வு கழகத் தலைவர் ஆர்.கோபாலசிங்கம் தலைமையில் பெரியகல்லாறு பொது விளையாட்டு மைதானத்தில் சனிக்கிழமை (09) மாலை  நடைபெற்றது.
+A cricket tournament at Periyakallar Public Playground featured MPs, ministers, and district officials. Four clubs competed, with Potturappar winning over Kallar Vellao Kings by 71 runs. Prizes were awarded to participants.
 
-இவ்விளையாட்டுத் திருவிழாவின் இறுதி நிகழ்வில் வர்த்தக இராஜாங்க அமைச்சர் சதாசிவம் வியாழேந்திரன் பிரதம அதிதியாகக் கலந்து கொண்டிருந்தார். இதன்போது மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரனும் பங்கேற்றிருந்தார். இவ்விருவரும் துடுப்பெடுத்தாடி போட்டியை ஆரம்பித்துவைத்தனர்.
+🟩
 
-இதேவேளை, மாவட்ட அரசாங்க அதிபர் திருமதி.ஜே.ஜே.முரளிதரன், கிழக்கு மாகாண சுகாதார அமைச்சின் பணிப்பாளர் இரா.நெடுஞ்செழியன், கிழக்கு மாகாண விளையாட்டுத்  திணைக்களத்தின் பணிப்பாளர் உ.சிவராஜன், மற்றும் விளையாட்டுக்கழக உறுப்பினர்கள், கிராம பொதுமக்கள் உள்ளிட்ட பலரும் இதன்போது கலந்து கொண்டிருந்தனர்.
+The event was held on Saturday evening (09) at the Periyakallar Public Playground, chaired by Corporation Chairman R. Gopalasingham.
 
-இப்போட்டியில் 4 கழகங்கள் கலந்து கொண்டிருந்ததுடன் இறுத்திப்போட்டிக்கு கல்லாறு வெங்களோ கிங்ஸ் அணியும் பொட்டுறப்டர் அணியும்  விளையாடின.
+Commerce Minister Sadasivam Jupiter Jupiter was the chief guest at the final event of the festival.. Batticaloa District Parliamentarian Govindan Karunakaran also participated in the event. The two started the match.
+
+Meanwhile, District Government Agent Mrs.J Muralitharan, Director of the Ministry of Health of the Eastern Province, R. Nedunjeliyan, Director of the Eastern Provincial Sports Department, U Sivarajan, and members of the Sports University and many others were present.
+
+Four clubs participated in the tournament and played the Kallar Vellao Kings and Potturappar team.
+
+In the 10 overs, Potturapatter scored 119 runs for 5 wickets and Kallar Vellao Kings lost all wickets in 9.4 overs and 48 runs.. The Potturapper team won by 71 additional runs.
 
 ...
 
 [Data](articles/c942a6f1.json)
+
+[Extended Data](ext_articles/c942a6f1.ext.json)
 
 ---
 
@@ -268,25 +310,35 @@ Both chairmen were elected to their positions, and the SLPP, with its majority r
 
 ---
 
-### பறந்துகொண்டிருந்த விமானத்தின் இரு விமானிகளும் உறக்கம்: இந்தோனேஷியா விசாரணை
+### Two pilots of flying flight: Indonesia investigation
 
 *2024-03-11 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178420) · `ta`
 
-பறந்துகொண்டிருந்த பயணிகள் விமானத்தின் விமானி அறையில் இரு விமானிகளும் உறங்கிக் கொண்டிருந்த சம்பவம் தொடர்பில் இந்தோனேஷிய அரசாங்கம் விசாரணையை ஆரம்பித்துள்ளது.
+Indonesia investigates incident where two pilots slept for 28 minutes on Batik Air flight from Sulevezi to Jakarta. Plane landed safely. Pilots' blood pressure tests were normal. Air traffic expert Alwin Lee criticizes lack of investigation into pilots' fatigue. Indonesian air traffic authorities warn airline and begin investigations.
 
-சுலேவெசி நகரிலிருந்து ஜகர்த்தா நகரை நோக்கி 153 பேருடன் பறந்துகொண்டிருந்த Batik Air  விமானமொன்றில்  இரு விமானிகளும் 28 நிமிடங்கள் உறங்கினர் என இந்தோனேஷிய போக்குவரத்து பாதுகாப்புக் குழு தெரிவித்துள்ளது.
+🟩
 
-எயார்பஸ் ஏ 320 இரகத்தைச் சேர்ந்த இவ்விமானம் சிறிதுநேரம் வேறு திசையில் சென்றிருந்தபோதிலும் பின்னர் பாதுகாப்பாக தரையிறக்கப்பட்டது.
+The Indonesian government has launched an investigation into the incident where two pilots were sleeping in the pilot's pilot's pilot.
 
-விமானம் புறப்பட்ட சிறிதுநேரத்தில் துணை விமானியிடம் பொறுப்பை ஒப்படைத்துவிட்டு, தான் உறங்கப்போவதாக தலைமை விமானி கூறியிருக்கிறார்
+The Indonesian Transportation Safety Committee said that the two pilots were sleeping for 28 minutes on a Batik Air aircraft, which was flying from Sulevezi to Jakarta.
 
-துணைவிமானியின் மனைவி ஒரு மாதத்துக்கு முன் இரட்டைக் குழந்தைகளை பிரசவித்த நிலையில், சம்பத்துக்கு முந்தைய இரவு, குழந்தைகளை பராமரித்ததால் துணை விமானி களைப்படைந்திருந்தார் என செய்திகள் வெளியாகியுள்ளன.
+The Airbus A320 variants had gone in a different direction for a while, but later landed safely.
 
-உறக்கத்திலிருந்து விழித்த விமானி, துணை விமானியும் உறங்கிவிட்டதையும் விமானம் சிறிதுதேரம் பாதைமாறி சென்றிருப்பதையும் உணர்ந்தார்.
+Shortly after the plane departed, the chief pilot said he was going to sleep.
+
+Reports have surfaced that the spouse's wife was tired of taking care of twin children a month ago, while the child had taken care of the children.
+
+The pilot who woke up from the sleep and the auxiliary pilot fell asleep and the plane had moved a little.
+
+Although Jakarta Air Controllers tried to contact Avimani, it was only after 28 minutes of silence.
+
+He later contacted the regulators and landed the plane.
 
 ...
 
 [Data](articles/189c5544.json)
+
+[Extended Data](ext_articles/189c5544.ext.json)
 
 ---
 
@@ -536,19 +588,29 @@ Following investigations into the incident, many have been arrested, including a
 
 ---
 
-### ශ්‍රී ලංකාව තුළ වේගයෙන් පැතිරෙන අලුත් විස
+### Fast-spreading new poison in Sri Lanka
 
 *2024-03-11 12:23:29* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව-තුළ-වේගයෙන්-පැතිරෙන-අලුත්-විස/11-408534) · `si`
 
-ශ්‍රී ලංකාවේ ග්‍රාමීය ප්‍රදේශ තුළ ඉතා සීඝ්‍රයෙන් විද්‍යුත් දුම්වැටි , උවදුරක් ලෙසින් ව්‍යාප්ත වෙමින් පවතින බව ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුවේ සුරාබදු කොමසාරිස් ජනරාල් එම්.ජී.ගුණසිරි මහතා පැවසීය .
+Sri Lanka's rapid spread of electronic cigarettes, targeting under-40s, has been highlighted by the Commissioner General of Excise. These cigarettes, disguised as watches, pen drives, and power banks, are sold online. The World Health Organization and the US have banned them due to their addictive nature. Sri Lanka's ports are a major entry point.
 
-ඒ මහතා එසේ පැවසූවේ ගම්පහ සුරාබදු දෙපාර්තමේන්තුවේ, ජා - ඇළ  විශේෂ සුරාබදු  වැටලීම් ඒකකය මගින් සිදු කර තිබූ වැටලීමකින් පසුව, අත් අඩංගුවට ගත් රුපියල් ලක්ෂ පහක් පමණ වටිනා  විද්‍යුත් දුම්වැටි තොගයක් පරීක්ෂා කිරීමේ නිරත වෙමින් සිටියදීය .
+🟩
 
-මේ වනවිට කොළඹ, ගම්පහ, පානදුර වැනි ශ්‍රී ලංකාව අගනුවර කේන්ද්‍ර කර ගත් තදාසන්න ප්‍රදේශ වල මෙම විද්‍යුත් දුම්වැටි වයස අවුරුදු 40 ට අඩු පාසැල් සිසුන් ඇතුළු පිරිස අතර භාවිතා වන බව සිදු කරන ලද විමර්ශන වලදී අනාවරණය වී ඇති බව කොමසාරිස් ජනරාල්වරයා පැවසීය .
+The Commissioner General of Excise of the Excise Department, MG Sunasiri said that the rapid equipment was rapidly expanding in rural areas in Sri Lanka.
+
+He was speaking after a raid carried out by the Special Excise Unit of the National Excise Unit of the National Excise Unit of the Department of Excise, Gampaha.
+
+The Commissioner General said that these electronic cigarettes such as Colombo, Gampaha and Panadura have been used in the capital cigarettes, which are under the age of 40 years of age.
+
+However, a student of a popular school in Ratnapura has been spreading to the school in Sri Lanka.The school has also been reported to the school, the police and the Excise Department.
+
+This electronic cigarettes are currently being sold and distributing on the online system, such as cigarette watches, Pen Drive, Power Storage (Power Bank), difficult to identify as a cigarette.The smoking schoolchildren and young people have been ensured that the youths are located near their computer.
 
 ...
 
 [Data](articles/d22a0662.json)
+
+[Extended Data](ext_articles/d22a0662.ext.json)
 
 ---
 
@@ -2235,31 +2297,5 @@ President Ranil Wickremesinghe went to the people and engaged in a speech with t
 [Data](articles/15966d82.json)
 
 [Extended Data](ext_articles/15966d82.ext.json)
-
----
-
-### RW invites dissidents back into UNP fold for national revival
-
-*2024-03-11 02:06:42* · [`dailyftlk`](https://www.ft.lk/news/RW-invites-dissidents-back-into-UNP-fold-for-national-revival/56-759343) · `en`
-
-Claims SJB is currently marginalising UNPers and has been taken over by other elements
-
-Emphasises importance of party unity in tackling ongoing economic crisis and debt burden
-
-Highlights SJB’s unwillingness to support his efforts including refusal to attend this week’s IMF meeting on debt restructuring
-
-Calls on all current and former UNP supporters to re-join party as only UNP remains to protect SL
-
-Says first agreement with country’s creditors to restructure debt would be signed in May or June
-
-Promises to create a revolution in SL focusing on various sectors including agriculture and exports
-
-In an effort to bolster the struggling United National Party (UNP) ahead of the upcoming polls, United National Party (UNP) leader President Ranil Wickremesinghe yesterday urged both current and former supporters to unite once again to strengthen the age-old party and contribute to the nation’s revival.
-
-...
-
-[Data](articles/bf6ac6e3.json)
-
-[Extended Data](ext_articles/bf6ac6e3.ext.json)
 
 ---

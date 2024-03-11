@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 02:33:38**
+As of **2024-03-12 02:50:46**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,260 (100.0%) of 12,263 articles have been extended.
+12,263 (100.0%) of 12,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### கோல்களை கோட்டைவிட்ட கலம்போ எவ்.சி.யை வீழ்த்தி; யூசுப் கிண்ணத்தை சுவீகரித்தது சோண்டர்ஸ்
+### Kalambo defeated the AVC;Chonders took the bowl of Yusuf Bowl
 
 *2024-03-12 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178481) · `ta`
 
-இளம் கால்பந்தாட்ட வீரர்களின் ஆற்றல்களை வெளிக்கொண்டுவரும் குறிக்கோளுடன் ஆர். புவனேந்திரன் தலைமையிலான சிட்டி புட்போல் லீக் நடத்திய 19 வயதுக்குட்பட்டோருக்கான யூசுப் கிண்ண கால்பந்தாட்டப் போட்டியில் சோண்டர்ஸ் கழகம் சம்பியனானது.
+Chonders won the Yusuf Bowl Soccer Tournament, defeating Kalambo EVC 1-0. M. Mubasal scored the winning goal. Despite Kalambo's dominance, Chonders' goalkeeper Kishore and Pinnacle players stopped 3 goals each. Chonders faced a red card and played with 9 for 4 minutes due to an injury.
 
-சிட்டி லீக் மைதானத்தில் ஞாயிற்றுக்கிழமை (09) ஆரம்பம் முதல் கடைசிவரை பரபரப்பையும் விறுவிறுப்பையும் தோற்றுவித்த கலம்போ எவ்.சி.யுடனான இறுதிப் போட்டியில் 1 - 0 என்ற கோல் வித்தியாசத்தில் சோண்டர்ஸ் கழகம் வெற்றிபெற்று சம்பியன் ஆனது.
+🟩
 
-போட்டியின் 10ஆவது நிமிடத்தில் கலம்போ எவ்.சி. வீரர் உமர் ஷக்கில், வெறுமையாக  இருந்த கோலை நோக்கி பந்தை உதைத்தார். ஆனால், மின்னல் வேகத்தில் செயற்பட்ட சோண்டர்ஸ் பினகள வீரர் ஏ.எஸ்.என். நிவன்த தனது முழங்களால் பந்தை வெளியே நோக்கி திசை திருப்பினார்.
+R, with the goal of exposing the energies of young footballers. The Chonders Club was chased at the Under -19 Yusuf Bowl Soccer Tournament, hosted by Bhubanendran -led City Football League.
 
-24ஆவது நிமிடத்தில் எம். முபாஸ்ஸல் போட்ட கோல், சோண்டர்ஸின் சம்பியன் பட்டத்தைத் தீர்மானிக்கும் கோலாக அமைந்தது.
+The Chonders Association won the champion by 1 - 0 in the final match with the Kalambo EVC in the final of Sunday (09) at the City League Ground.
 
-கலம்போ எவ்.சி. கோல் எல்லையில் சுமார் 8 யார் தூரத்திலிருந்து முபாஸ்ஸல் மிகவும் பலமாக உதைத்த பந்து கோல் காப்பாளர் ஹபீலின் உள்ளங்கைகளுக்கு மேலாக சென்று கோலினுள் புகுந்தது.
+Galambo AvC in the 10th minute of the competition. Player Umar shuck, kicked the ball towards the rod that was empty. But, the Soners Pinagala player ASN, who operated at lightning speed. Nivanda distracted the ball with his knees.
+
+In the 24th minute M. Mubasal's goal became the goal that determines the champion title of Chonders.
+
+Kalambo avC. Mubasal kicked Mubasal from a distance of about 8 on the goal border and went over the goalkeeper Hafeele's palms and entered the goal.
+
+Until then. The players were headed to play with aggressive. But contrary to the way, the understanding between the players and the bowling can not be seen.
 
 ...
 
 [Data](articles/2299d0e1.json)
+
+[Extended Data](ext_articles/2299d0e1.ext.json)
 
 ---
 
@@ -1033,6 +1041,8 @@ The University of Jaffna Teachers’ Association vehemently condemns the arrests
 ...
 
 [Data](articles/de2e2b6b.json)
+
+[Extended Data](ext_articles/de2e2b6b.ext.json)
 
 ---
 

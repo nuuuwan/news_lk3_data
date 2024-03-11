@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 17:17:42**
+As of **2024-03-11 17:33:50**
 
 ## Newspaper Stats
 
-*Scraped **12,178** Articles*
+*Scraped **12,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,93 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,034
-adaderanalk | 1,472
+adaderanalk | 1,473
 tamilmirrorlk | 1,487
 virakesarilk | 1,669
 dailymirrorlk | 1,862
-adaderanasinhalalk | 1,924
+adaderanasinhalalk | 1,925
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,176 (100.0%) of 12,178 articles have been extended.
+12,178 (100.0%) of 12,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### මරණයේ සෙවණැලි මත ජීවිතය යදින පලස්තීනුවන්
+### උෂ්ණත්වය අවදානම් මට්ටමට යයි
+
+*2024-03-11 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194388) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්මේන්තුව සඳහන් කරන්නේ, බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර, මන්නාරම, ත්‍රිකුණාමලය සහ මඩකලපුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන සඳහා උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+
+අද (11) පස්වරු 4.00 නිකුත් කරන ලද එම නිවේදනය හෙට (12) දිනය දක්වා වලංගු වන බව එම දෙපාර්මේන්තුව සඳහන් කරයි.
+
+මේ අතර වැඩබිම් තුළ සිටින පුද්ගලයින් ප්‍රමාණවත් ලෙස ජලය පානය කරන්න ලෙසත් සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+එම දෙපාර්තමේන්තුව ඉල්ලා සිටින්නේ, නිවෙස් තුළ සිටින වැඩිහිටි සහ රෝගී පුද්ගලයින් පිළිබඳ සැලකිලිමත් වෙන ලෙසත් වාහන තුළ කුඩා ළමුන් තනිවම රඳවා නොයන ලෙසත්ය.
+
+එළිමහනේ සිටින පුද්ගලයින් අධික වෙහෙසකාරී කටයුතු සීමා කරන ලෙසත් සෙවණ ඇති ස්ථානවල රැඳෙන ලෙසත් ප්‍රමාණවත් ජලය පානය කරන ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/e9321830.json)
+
+---
+
+### 16-year-old boy dies while taking part in school marathon
+
+*2024-03-11 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97874/16-year-old-boy-dies-while-taking-part-in-school-marathon) · `en`
+
+A 16-year-old schoolboy has reportedly died in Ampara after collapsing while participating in a marathon race held at the Thirukkovil Methodist Central College.
+
+The marathon, held as part of the inter-house sports meet, took place this morning (11 March) at the school premises.
+
+The student, identified as Vidurshan, had reportedly collapsed during the event and was rushed to Tirukkovil Hospital for treatment, following which he was taken to the Akkaraipattu Hospital for further treatment, where he was later pronounced dead.
+
+Ada Derana’s reporter stated that tensions had escalated at the Tirukkovil Hospital as parents and fellow students voices protest, alleging inadequate treatment for the ailing student. The situation had later turned violent, with individuals pelting stones at the hospital.
+
+Police, including members of the Special Task Force (STF), subsequently intervened to diffuse the situation.
+
+...
+
+[Data](articles/d27acd69.json)
+
+---
+
+### Paided Palestinians on the shadows of death
 
 *2024-03-11 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194387) · `si`
 
-නිමක් නොදකින ගාසා යුද්ධයේ අඳුරු සෙවණැලි මැද ගාසා තිරයේ පලස්තීනයේ මුස්ලිම් බැතිමතුන්ගේ උතුම්ම ආගමික උත්සවය වන රාමසාන් උපවාස සමයට සැරසෙන බව ජාත්‍යන්තර ප්‍රවෘත්ති සේවා වාර්තා කරයි.
+The Gaza war is a significant religious event, with the al-Awesa Church in Jerusalem protecting its old city during Ramadan. The conflict, triggered by the Nicelamet of Jerusalem, has resulted in the death of 31,000 Palestinians and Israeli attacks, causing famine in Gaza. Palestinian leaders in Jerusalem have criticized the lack of respect for Palestinian lives during Israeli attacks. Efforts to establish a ceasefire before Ramadan were uncertain, with no coordinator reserved for the next Cairo meeting. About 2.3 million Palestinians in Gaza now live in temporary tents, as their buildings are almost entirely destroyed.
 
-ඇත්තෙන්ම ඔවුන් දැඩි ශෝකානුකූලව රාමසාන් සමයට පිවිසෙන බව එම වාර්තා පෙන්වා දෙයි.
+🟩
 
-ඉස්ලාම් දහමේ අති පූජනීය දේවස්ථානයක් වන අල් - අක්සා දේවස්ථානය පිහිටි ජෙරුසෙලමේ පැරණි නගරයේ ආරක්ෂාව සඳහා ඊශ්‍රායලය පොලිස් භටයින් දහස් ගණනන් යොදවා තිබේ.
+International news services, International News Service reports that the Gaza's war is the greatest religious ceremony of the Palestine of the Palestine of the Palestine in the War of War.
 
-රාමසාන් සමයේ දිනපතා මෙහි මුස්ලිම් බැතිමතුන් දහස් ගණනක් පැමිණෙනු ඇතැයි අපේක්ෂා කෙරෙයි.
+They point out that they are deeply resorting to Ramazan.
 
-'ටෙම්පල් මවුන්ට්' ලෙස හැඳින්වෙන මෙම ප්‍රදේශය යුදෙව්වන්ද තමන්ගේ ඉහළම පූජනීය භූමියක් ලෙස සලකයි.
+The al-Awesa Church of the Al-Awaruswala has deployed thousands of policemen to protect the old city of Jerusalem church in the al-Awesa Church.
 
-මේ නිසා අල් අක්සා දේවස්ථානය මීට පෙරද ඊශ්‍රායලය සහ පලස්තීනුවන් අතර ගැටුම්වලට මුල්වූ ස්ථානයකි.
+Thousands of Muslim devotees will come here daily during the Ramazan period.
 
-2021 වසරේ ඊශ්‍රායලය සහ හමාස් සංවිධානය අතර යුද්ධය ආරම්භ වූයේද ජෙරුසෙලමේ අල් අක්සා දේවස්ථානයේ ඇතිවූ ගැටුමකිනි.
+The area known as 'Temple Mount' sets the Jews as their highest sacred ground.
 
-ගාසා තීරයේ පලස්තීනුවන් මෙවර රාමසාන් සමයට පිවිසෙන්නේ ඊශ්‍රායල ප්‍රහාරවලින් 31,000 ඉක්මවූ පලස්තීනුවන් පිරිසක් මියගොස් ගාසා තීරය පුරා සාගතයක් පැතිරෙද්දීය.
+As a result, the Al-Akza Church has been a place between Israel and Palestinians.
+
+The war between Israel and Hamas, the war between Israel and Hamas, began with a confrontation caused by the Nicelamet of Jerusalele.
+
+Palestinians of Gaza is the death of the Ramadan season this time, killing 31,000 Palestinians over 31,000 Israeli attacks and spreading famine over Gaza.
 
 ...
 
 [Data](articles/6300e9a4.json)
+
+[Extended Data](ext_articles/6300e9a4.ext.json)
 
 ---
 
@@ -178,23 +226,29 @@ Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniy
 
 ---
 
-### පාසල් මැරතන් තරගයක් අතරතුර පාසල් සිසුවෙක් මරුට
+### School student dies during school marathon
 
 *2024-03-11 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194386) · `si`
 
-නිවාසාන්තර ක්‍රීඩා උළෙලක මැරතන් ධාවනය තරගයකට එක්වූ පාසල් සිසුවෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A 16-year-old student from Thirukkukkovil Methodistist Metrowe Maha Vidyalaya died during an Inter-Sports Festival marathon. Initially treated at Thirukkovil Hospital, she later passed away at Akkaraipatatu hospital. Protests erupted near the hospital, claiming the student was not treated at Thirukkovil Hospital, leading to STF intervention.
 
-මෙලෙස මියගොස් ඇත්තේ තිරුක්කොවිල් මෙතෝදිස්ත මධ්‍ය මහා විද්‍යාලයේ ඉගෙනුම ලබමින් සිටි 16 හැවිරිදි වියේ පසුවූ සිසුවෙකි.
+🟩
 
-ක්‍රීඩා තරගය අතරතුරදී හදිසියේම අසනීප වූ සිසුවා ප්‍රතිකාර සඳහා තිරුක්කෝවිල් රෝහල වෙත ඇතුළත් කර ඇති අතර අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා අක්කරෙයිපත්තුව රෝහලට ඇතුළත් කිරීමෙන් පසුව මියගොස් ඇත.
+A schoolgird who had joined the marathon player in an Inter-Sports Festival, a schoolgirl has died.
 
-මේ අතර තිරුක්කෝවිල් රෝහලේදී  සිසුවාට නිසි පරිදි ප්‍රතිකාර සිදුනොකළ බව පවසමින් ප්‍රදේශවාසීන් රෝහල අසළ විරෝධතාවයක් දැක්වීම හේතුවෙන්  එහි උණුසුම් තත්ත්වයක් ඇතිවිය.
+The victim was a 16-year-old student of the Thirukkukkovil Methodistist Metrowe Maha Vidyalaya.
 
-අනතුරුව තත්ත්වය පාලනය කිරීම සඳහා එම ස්ථානයට පොලිස් විශේෂ කාර්ය බළකාය ද කැඳවීමට පියවර ගෙන තිබුණි.
+Suddenly sick student has been admitted to the Thirukkovil Hospital for treatment, and later died on admission to the Akkaraipatatu hospital for further treatment.
+
+Meanwhile, residents have been a warm situation due to a protest near the hospital, claiming that the student was not treated at the Thirukkovil Hospital.
+
+The STF had also been called to control the situation.
 
 ◼️
 
 [Data](articles/4a0a87bf.json)
+
+[Extended Data](ext_articles/4a0a87bf.ext.json)
 
 ---
 
@@ -2285,55 +2339,5 @@ The accused Sirisena, dissatisfied with the judgment of Magistrate Nissanka, fil
 [Data](articles/e2980ef0.json)
 
 [Extended Data](ext_articles/e2980ef0.ext.json)
-
----
-
-### Teacher who taught a strange lesson
-
-*2024-03-11 10:38:57* · [`adalk`](https://www.ada.lk/breaking_news/අමුතු-පාඩමක්-ඉගැන්නූ-ගුරුවරයා/11-408527) · `si`
-
-A teacher in Biyagama was arrested for allegedly marrying a 13-year-old student. The student, a 46-year-old woman, was taken to the school's technology room to write names for sports competitions. The teacher is now in court. Biyagama Police are investigating.
-
-🟩
-
-A teacher has been arrested by the Biyagama Police, who was said to marry a student in a high school in the Biyagama area.. The student who was abused in the 13th year-old class education is a young girl in the Biyagama area, which is a 46-year-old married manner.
-
-During the time of schools, the student had taken into the school's technology room, claiming to write the names of students in the sports competitions at the school.
-
-The arrested suspect teacher is being produced before the Mahara Magistrate's Court.
-
-According to the instructions of Biyagama Police OIC, Chief Inspector General of Police Inspects Investigation Division, the OIC of the Investigation Division, and the OIC of the Women's and Women's Bureau, police officers continue to investigate.
-
-◼️
-
-[Data](articles/d3bedc54.json)
-
-[Extended Data](ext_articles/d3bedc54.ext.json)
-
----
-
-### Cillian Murphy wins best actor as Oppenheimer sweeps Oscars 2024
-
-*2024-03-11 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Cillian-Murphy-wins-best-actor-as-Oppenheimer-sweeps-Oscars-2024/107-278613) · `en`
-
-March 11, (BBC) Cillian Murphy has become the first Irish-born winner of the best actor award, as Oppenheimer swept the Oscars.
-
-The film dominated proceedings, winning best picture, best director for Christopher Nolan, and best supporting actor for Robert Downey Jr.
-
-Murphy was named best leading actor for his acclaimed portrayal of theoretical physicist J Robert Oppenheimer.
-
-The actor said he was "overwhelmed" to have won, adding: "I'm a very proud Irishman standing here tonight."
-
-He thanked Nolan and producer Emma Thomas for "the wildest, most exhilarating, most creatively satisfying journey you've taken me on".
-
-Murphy also paid tribute to "every single crew and cast member, you carried me through".
-
-He concluded: "We made a film about the man who created the atomic bomb, and for better or for worse, we are all living in Oppenheimer's world, so I'd like to dedicate this to the peacemakers everywhere."
-
-...
-
-[Data](articles/69acd32f.json)
-
-[Extended Data](ext_articles/69acd32f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 18:21:10**
+As of **2024-03-11 18:33:09**
 
 ## Newspaper Stats
 
-*Scraped **12,190** Articles*
+*Scraped **12,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,039
-adaderanalk | 1,474
+adaderanalk | 1,475
 tamilmirrorlk | 1,487
 virakesarilk | 1,671
 dailymirrorlk | 1,862
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,927
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,187 (100.0%) of 12,190 articles have been extended.
+12,190 (100.0%) of 12,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Govt agreed to release IMF technical assistance reports to opposition – Sumanthiran
+
+*2024-03-11 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97876/govt-agreed-to-release-imf-technical-assistance-reports-to-opposition-sumanthiran) · `en`
+
+Tamil National Alliance (TNA) parliamentarian M.A. Sumanthiran says the opposition can only decide on whether to support the International Monetary Fund (IMF) programme after analyzing the IMF’s technical assistance reports which he says the government has now agreed to provide.
+
+He made these remarks while speaking to reports following a meeting held at the Presidential Secretariat in Colombo today (11) with the President and government officials for talks on the IMF programme.
+
+He also said that presently they are unable to support the IMF programme owing to the lack of transparency and also because most of the economic reform measures are impacting the country’s poor and vulnerable.
+
+The TNA spokesman said the President had invited the opposition party leaders for a discussion on the IMF programme and that however, he was the only member of the opposition present today.
+
+...
+
+[Data](articles/7dec358b.json)
+
+---
 
 ### US will continue to monitor legislative developments impacting human rights in Sri Lanka - envoy
 
@@ -43,6 +61,8 @@ Taking to ‘X’ (formerly Twitter), the diplomat highlighted that the joint st
 ...
 
 [Data](articles/c17c5470.json)
+
+[Extended Data](ext_articles/c17c5470.ext.json)
 
 ---
 
@@ -72,33 +92,47 @@ The International Media reported how Trouid Rido was bowled out as the second wi
 
 ---
 
-### மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்புக்கு எதிர்ப்புத் தெரிவித்து பேராட்டம்!
+### Central bank employees protest against salary increase
 
 *2024-03-11 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178457) · `ta`
 
-மத்திய வங்கி ஊழியர்களின் சம்பள அதிகரிப்புக்கு எதிர்ப்புத் தெரிவித்து சமூக ஆர்வலர்கள் குழுவொன்று திங்கட்கிழமை (11)   மத்திய வங்கிக்கு முன்பாக கவனயீர்ப்பு போராட்டம் ஒன்றை நடத்தியது.
+Central bank employees protested against a salary increase, with social activists carrying banners criticizing the increase.
 
-'சம்பளத்தை உயர்த்த வெட்கமில்லையா, கடற்கொள்ளையர்களை விட இவர்கள் பெரிய கொள்ளையர்கள், ரூபா உயர்ந்தது - நாடு சரிந்தது - சம்பளம் உயர்த்தப்பட்டது' போன்ற வாசகங்கள் அடங்கிய பதாகைகளை ஏந்தி  ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+🟩
+
+A group of social activists staged a protest in front of the central bank on Monday (11) in protest of the salary increase of central bank employees.
+
+They protested, carrying banners, such as' not ashamed to raise salary, they are bigger robbers than pirates.
 
 ◼️
 
 [Data](articles/db1070ab.json)
 
+[Extended Data](ext_articles/db1070ab.ext.json)
+
 ---
 
-### தொல்லியல், பொலீஸ் திணைக்களங்களே நாட்டின் இன நல்லிணக்கத்திற்கு ஊறு விளைவிக்கின்றன - முன்னாள் எம்பி சந்திரகுமார்
+### Archeology and Police Department
 
 *2024-03-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178456) · `ta`
 
-யுத்தம் முடிவுக்கு வந்த பின்னர் நாட்டில் இனங்களுக்கிடையே இன நல்லிணக்கம் பற்றி சர்வதேச தரப்புக்கள் உட்பட உள்நாட்டிலும் அதிகம் வலியுறுத்தப்பட்டு வருகின்ற நிலையில் துரதிஸ்டவசமாக நாட்டின் தொல்லியல் மற்றும் பொலீஸ் திணை்களங்கள் அவற்றுக்கு ஊறு விளைவிக்கின்ற வகையில் தொடர்ச்சியாக செயற்பட்டுவருகின்றமை கவலைக்குரியது என முன்னாள் நாடாளுமன்ற உறுப்பினரும். சமத்துவக் கட்சியின் பொது செயலாளருமான மு. சந்திரகுமார் தெரிவித்துள்ளார்.
+Archeology and Police Department in Sri Lanka are criticized for actions during Shivaratri, a Saiva event, which were seen as a manifestation of Buddhist Sinhala supremacy. Chandrakumar, General Secretary of the Equality Party, condemned the police's actions, calling for a change in the department's stance on ethnic harmony.
 
-சிவராத்தி தினத்தில் வெடுக்குநாறி ஆதிசிவன் ஆலயத்தில் பொலீஸார் மேற்கொண்டு அடாவடித்தனமான செயற்பாடுகளை கண்டிக்கும் வகையில் அவர் வெளியிட்ட  அறிக்கையிலேயே இதனை தெரிவித்துள்ளார். அதில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது;
+🟩
 
-சிவராத்திரி நிகழ்வு  சைவ மக்களின் மிக  முக்கிய நிகழ்வாகும், இந்த நாளில் மிகவும் பக்தி பூர்வமாக சிவ வழிபாட்டினை மேற்கொள்வதற்காக தங்களது பூர்வீக ஆலயத்திற்கு சென்ற தமிழ் மக்கள் மீதும் அங்கு பூசை வழிபாடுகளி்ல் ஈடுப்பட்டவர்கள் மீதும் பொலீஸார் காட்டுமிராண்டித்தனமாக
+It is worrying that the country's archeology and police are continuously working on the country, as it is being emphasized at home, including international parties on ethnic harmony in the country after the end of the war.. The General Secretary of the Equality Party. Chandrakumar said.
+
+He said this in a statement issued by the police at the Adivasivan Temple on Sivarathi Day, condemning the action of the police.. It further stated;
+
+The Shivaratri event is the most important event of the Saiva people, on this day, the police are barbaric on the Tamil people who went to their native temple to worship the Shiva on this day.
+
+Are walking. The actions of the police were a manifestation of Buddhist Sinhala supremacy. In one of the holy places, the police of the police were seen as disgusting with Sabbath's legs.
 
 ...
 
 [Data](articles/d2399ec5.json)
+
+[Extended Data](ext_articles/d2399ec5.ext.json)
 
 ---
 
@@ -2313,29 +2347,5 @@ The Sri Lankan team, who appeared for a group of Group Twenta and 20, showed the
 [Data](articles/c271ad37.json)
 
 [Extended Data](ext_articles/c271ad37.ext.json)
-
----
-
-### John Cena gives out costume design Oscar in his ‘birthday suit’
-
-*2024-03-11 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/John-Cena-gives-out-costume-design-Oscar-in-his-birthday-suit/108-278625) · `en`
-
-March 11- (CNN) John Cena bared it all at the Oscars on Sunday while presenting the award for best costume design.
-
-The actor appeared on stage during the telecast to present the award for best costume design hilariously appearing to wear nothing at all.
-
-No really, Cena appeared on the stage at the year’s most prestigious event in Hollywood… almost entirely naked.
-
-The show’s host Jimmy Kimmel set up the bit by sharing a little bit of Oscars history, nodding to the 1974 Academy Awards when a streaker ran across the stage. Kimmel jokingly said, “Can you imagine if a nude man ran across the stage today? Wouldn’t that be crazy?”
-
-From the corner of the stage, Cena peeked his head out and told Kimmel he didn’t want to “do the streaker bit anymore.”
-
-“It’s an elegant event. Honestly, you should feel ashamed right now for suggesting such a tasteless idea,” Cena complained. “The male body is not a joke!”
-
-...
-
-[Data](articles/1171a731.json)
-
-[Extended Data](ext_articles/1171a731.ext.json)
 
 ---

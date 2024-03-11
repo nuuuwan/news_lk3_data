@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 23:33:25**
+As of **2024-03-11 23:52:26**
 
 ## Newspaper Stats
 
-*Scraped **12,228** Articles*
+*Scraped **12,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 141
 dbsjeyarajcom | 184
 newsfirstlk | 363
 dailyftlk | 628
-economynextcom | 636
+economynextcom | 642
 islandlk | 663
 adalk | 1,046
-adaderanalk | 1,480
+adaderanalk | 1,482
 tamilmirrorlk | 1,491
 virakesarilk | 1,680
 dailymirrorlk | 1,867
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,228 (100.0%) of 12,228 articles have been extended.
+12,228 (99.9%) of 12,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### Five of six missing skiers found dead in Switzerland
+
+*2024-03-11 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97882/five-of-six-missing-skiers-found-dead-in-switzerland) · `en`
+
+(Reuters) - Five cross-country skiers who went missing during a ski tour in Switzerland were found dead, while a search was still on for the sixth skier, police said in a statement on Monday.
+
+The skiers, five of them members of the same family, went missing around Tete Blanche mountain on Saturday on the Zermatt-Arolla path, near the Matterhorn mountain that straddles the border between Switzerland and Italy.
+
+The bodies were discovered on Sunday in Tête Blanche sector, police said.
+
+The skiers were between the ages of 21 and 58, according to an earlier police statement. Five belonged to one family from the Valais canton, while a sixth person is from the canton of Fribourg.
+
+Police did not reveal the identity of those who were found dead.
+
+Zermatt is a popular mountain resort renowned for skiing and attracts tourists from around the world.
+
+◼️
+
+[Data](articles/772f833d.json)
+
+---
 
 ### I am not seeking talks with the International Monetary Fund - Dr. Harsha de Silva
 
@@ -53,6 +75,30 @@ Therefore, if compliance with international credit providers and financial insti
 [Data](articles/08dd5ee5.json)
 
 [Extended Data](ext_articles/08dd5ee5.ext.json)
+
+---
+
+### Bangladeshi FM for expanding trade and commerce with Sri Lanka
+
+*2024-03-11 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97881/bangladeshi-fm-for-expanding-trade-and-commerce-with-sri-lanka) · `en`
+
+Foreign Minister of Bangladesh Dr Hasan Mahmud today expressed his keen interest to expand trade and commerce with Sri Lanka.
+
+He made the remarks while Sri Lankan High Commissioner in Dhaka Dharmapala Weerakkody paid a courtesy call on him at the foreign ministry in Dhaka, a press release said.
+
+During the meeting, they discussed the matters of mutual interests.
+
+Mahmud expressed his satisfaction on the existing bilateral relations between Bangladesh and Sri Lanka.
+
+He thanked the high commissioner for conveying the congratulatory message to Bangladeshi Prime Minister Sheikh Hasina from the Head of the State and the Head of the Government of Sri Lanka, following the victory in the 12th National Parliamentary elections.
+
+The foreign minister also expressed happiness over Sri Lanka’s economic recovery.
+
+He added that Bangladesh always stands by Sri Lanka during their crisis time.
+
+...
+
+[Data](articles/9c3e01cf.json)
 
 ---
 
@@ -860,6 +906,22 @@ The International Media reported how Trouid Rido was bowled out as the second wi
 
 ---
 
+### Sri Lanka parate suspension increases risk premium, endangers deposits, banks say
+
+*2024-03-11 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-parate-suspension-increases-risk-premium-endangers-deposits-banks-say-154148/) · `en`
+
+ECONOMYNEXT – A decision by the cabinet to suspend parate execution, making recovery of bad loans more time consuming will increase the risk premium charged from borrowers and also undermine the safety of deposits, Sri Lanka’s banks have said.
+
+“Banks deploy depositors’ funds when lending to the public, and the inability to recover money due from defaulters or extended delays in recovery, will potentially place public deposits at risk,” Sr Lanka Bank’s Association said in a statement.
+
+“The SLBA member banks aim is to assist is maintaining stability of the banking system within the regulatory policy framework that supports national economy and protects public depositors.
+
+...
+
+[Data](articles/fe7967d8.json)
+
+---
+
 ### Central bank employees protest against salary increase
 
 *2024-03-11 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178457) · `ta`
@@ -952,6 +1014,22 @@ The site test on the incident has commenced investigations into the suspects in 
 
 ---
 
+### Sri Lanka SMEs enabled to mortgage movable assets with registry
+
+*2024-03-11 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-smes-enabled-to-mortgage-movable-assets-with-registry-154142/) · `en`
+
+ECONMYNEXT – A secured transaction registry set up with technical assistance from the International Finance Corporation, will help small and medium enterprises expand access to credit by helping them mortgage moveable assets, the Washington-based agency said.
+
+The STR is supported by Sri Lanka’s Credit Information Bureau and the central bank, the IFC said.
+
+“An effective credit infrastructure is key to strengthening Sri Lanka’s financial sector,” said Alejandro Alvarez de la Campa, IFC Country Manager for Sri Lanka and Maldives said in the statement. “The new law, … incorporated several rounds of consultations and expert input, thus ensuring that small businesses and entrepreneurs with few fixed assets can obtain the financing they need to thrive.”
+
+...
+
+[Data](articles/fc7e1f4b.json)
+
+---
+
 ### Temperature goes at risk
 
 *2024-03-11 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194388) · `si`
@@ -999,6 +1077,50 @@ Police, including members of the Special Task Force (STF), subsequently interven
 [Data](articles/d27acd69.json)
 
 [Extended Data](ext_articles/d27acd69.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 306.95/307.10 to the US dollar
+
+*2024-03-11 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-306-95-307-10-to-the-us-dollar-154120/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 306.95/307.10 to the US dollar in the spot forex market on Monday, stronger from 307.30/40 on Thursday, dealers said, while bond yields were broadly steady.
+
+The rupee had opened at 307.00/20 levels to the US dollar, market participants said.
+
+A bond maturing on 01.08.2026 closed at 11.00/10 percent up from 10.90/11.10 percent in the morning.
+
+A bond maturing on 15.09.2027 closed stable at 12.00/10 percent.
+
+A bond maturing on 01.07.2028 closed up at 12.20/35 from 12.20/40 percent Thursday.
+
+A bond maturing on 15.07.2029 closed up at 12.35/70 percent from 12.25/70 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.35/70 percent.
+
+A bond maturing on 01.07.2032 closed at 12.60/90 percent from 12.60/13.00 percent. (Colombo/Mar11/2024)
+
+◼️
+
+[Data](articles/44a71887.json)
+
+---
+
+### Missed opportunity for Sri Lanka opposition to raise concerns with IMF: govt
+
+*2024-03-11 17:01:00* · [`economynextcom`](https://economynext.com/missed-opportunity-for-sri-lanka-opposition-to-raise-concerns-with-imf-govt-154122/) · `en`
+
+ECONOMYNEXT — The opposition could’ve shared their concerns with the International Monetary Fund (IMF) and openly proposed any alternatives if they had attended the government’s latest round of talks with the international lender, State Minister of Finance Ranjith Siyambalapitiya said.
+
+“I’m very surprised. It was for a very important economic discussion that the president invited. He asked party leaders to come and bring whoever they like, which meant that the leaders’ economic advisors could’ve also come,” Siyambalapitiya said speaking to reporters outside the Presidential Secretariat on Monday March 11.
+
+“They could’ve shared their concerns with the whole gathering and said ‘not this tax, have this instead’, or anything at all,” he added.
+
+According to reports, most opposition parties including the Samgi Jana Balawegaya (SJB), the leftist National People’s Power (NPP) and the Sri Lanka Muslim Congress (SLMC) boycotted the meeting.
+
+...
+
+[Data](articles/6f9de8c1.json)
 
 ---
 
@@ -1258,6 +1380,26 @@ In order to control the situation, the Special Task Force (STF) has been brought
 
 ---
 
+### Sri Lanka stocks close up, turnover at 1.9bn
+
+*2024-03-11 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-1-9bn-154109/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.72 percent, or 79.13 points, at 11,125; while the S&P SL20 Index closed up 0.88 percent, or 27.60 points, at 3,175.
+
+Turnover was at 1.9 billion. The following companies saw active volumes being traded: Browns Investments Plc (190mn) up at 5.70, LOLC Finance Plc (168mn) also up at 5.70, and Union Assurance Plc (114mn) up at 56.60.
+
+Turnover and volume have been up over the last two weeks, with market participants saying that “the market is getting quite bullish.”
+
+Top contributors to the Index included Commercial Bank (up at 94.00), Sampath Bank (up at 74.90) and Aitken Spence Plc (up at 127.00). (Colombo/Mar11/2024)
+
+◼️
+
+[Data](articles/260d001d.json)
+
+---
+
 ### Mannar 'Satosa' human burial case;Advocate Rajapaksa to appear in person
 
 *2024-03-11 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178448) · `ta`
@@ -1307,6 +1449,26 @@ After considering the facts, the magistrate ordered that the suspect was in a su
 [Data](articles/3f33bb57.json)
 
 [Extended Data](ext_articles/3f33bb57.ext.json)
+
+---
+
+### Sri Lanka to release IMF technical assistance reports to opposition on request: MP
+
+*2024-03-11 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-release-imf-technical-assistance-reports-to-opposition-on-request-mp-154108/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s government has agreed to provide copies of the Technical Assistance Rteports compiled by the International Monetary Fund (IMF) to opposition party leaders on request, Tamil National Alliance (TNA) legislator M A Sumanthiran said.
+
+Sumanthiran  was the only member of the opposition to attend a multi-party discussion with the International Monetary Fund (IMF) on the invitation of President Ranil Wickremesinghe.
+
+Speaking to reporters outside the Presidential Secretariat in Colombo on Monday March 11 after the discussions, the Jaffna District MP said he had accepted the invitation extended by the president to opposition party leaders.
+
+The main opposition Samagi Jana Balawegaya (SJB) and the opposition National People’s Power (NPP) boycotted the meeting.
+
+According to Sumanthiran the prime minister, the Leader of the House, the two state ministers of finance, the governor of the central bank, and the treasury secretary joined Monday’s discussion.
+
+...
+
+[Data](articles/653d006c.json)
 
 ---
 
@@ -2179,163 +2341,5 @@ The duo was brought back to the island on March 15 after Malagasy defence offici
 [Data](articles/a95ca8ef.json)
 
 [Extended Data](ext_articles/a95ca8ef.ext.json)
-
----
-
-### Against steep salary hikes of Central Bank
-
-*2024-03-11 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-steep-salary-hikes-of-Central-Bank/110-278628) · `en`
-
-A silent protest was held in front of the Central Bank of Sri Lanka (CBSL) over the steep salary hikes given to its employees. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/2bc7a3e2.json)
-
-[Extended Data](ext_articles/2bc7a3e2.ext.json)
-
----
-
-### ’Harak Kata’ remanded until April 26
-
-*2024-03-11 13:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harak-Kata-remanded-until-April-26/108-278630) · `en`
-
-Colombo, March 11 (Daily Mirror) -  Underworld figure Nadun Chithaka Wickremeratne, alias 'Harak Kata,' has been remanded until April 26 in connection to his unsuccessful escape bid from the Criminal Investigation Department (CID).
-
-He was ordered to be remanded by Colombo High Court Judge, Damith Thotawatte.
-
-◼️
-
-[Data](articles/30e4ba07.json)
-
-[Extended Data](ext_articles/30e4ba07.ext.json)
-
----
-
-### Cure
-
-*2024-03-11 13:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கைவிலங்குடன்-சிகிச்சை/72-334505) · `ta`
-
-Eight, including a priest, arrested at Adisivan Temple in Vavuniya North for worshiping on Maha Shivaratri, were attacked by police and taken to Vavuniya Hospital for treatment, still in handcuffs.
-
-🟩
-
-Eight people, including the priest who were arrested at the Adisivan Temple at the Vettukunarimalai Adivasivan Temple, continued to receive cigars at the hospital with handicrafts.
-
-On the day of Maha Shivaratri, eight people, including the priest, were arrested by the police while engaged in pooja worship at the Adisivan Temple in Vavuniya North North.
-
-Attorneys brought to the attention of the court last Saturday that police attacked the arrested persons. Subsequently, the eight persons were taken to the Vavuniya Hospital Medical Officer on Sunday (10).
-
-The eight of the eight people have been admitted to the Vavuniya Hospital for treatment.. Amidst strong security, they are still being treated at the hospital with handcuffs.
-
-◼️
-
-[Data](articles/49ee14b5.json)
-
-[Extended Data](ext_articles/49ee14b5.ext.json)
-
----
-
-### MPs waiting for the dressing with the prostitute
-
-*2024-03-11 13:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/வேஷ்டியுடன்-களமிறங்கி-மானத்தை-காத்த-எம்-பிக்கள்/88-334504) · `ta`
-
-A cricket tournament at Periyakallar Public Playground featured MPs, ministers, and district officials. Four clubs competed, with Potturappar winning over Kallar Vellao Kings by 71 runs. Prizes were awarded to participants.
-
-🟩
-
-The event was held on Saturday evening (09) at the Periyakallar Public Playground, chaired by Corporation Chairman R. Gopalasingham.
-
-Commerce Minister Sadasivam Jupiter Jupiter was the chief guest at the final event of the festival.. Batticaloa District Parliamentarian Govindan Karunakaran also participated in the event. The two started the match.
-
-Meanwhile, District Government Agent Mrs.J Muralitharan, Director of the Ministry of Health of the Eastern Province, R. Nedunjeliyan, Director of the Eastern Provincial Sports Department, U Sivarajan, and members of the Sports University and many others were present.
-
-Four clubs participated in the tournament and played the Kallar Vellao Kings and Potturappar team.
-
-In the 10 overs, Potturapatter scored 119 runs for 5 wickets and Kallar Vellao Kings lost all wickets in 9.4 overs and 48 runs.. The Potturapper team won by 71 additional runs.
-
-...
-
-[Data](articles/c942a6f1.json)
-
-[Extended Data](ext_articles/c942a6f1.ext.json)
-
----
-
-### MPs who played at the PPL Cricket Festival
-
-*2024-03-11 13:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/பி-பி-எல்-கிரிக்கெட்-திருவிழாவில்-துடுப்பெடுத்தாடிய-எம்-பிக்கள்/88-334504) · `ta`
-
-MPs participated in the PPL Cricket Festival, showcasing their cricketing skills.
-
-🟩
-
-◼️
-
-[Data](articles/f3a9a9b2.json)
-
-[Extended Data](ext_articles/f3a9a9b2.ext.json)
-
----
-
-### Decision regarding the funeral of Sri Lankans who were killed
-
-*2024-03-11 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194378) · `si`
-
-The funeral of six Sri Lankans killed in Ottawa, Canada, will be conducted by a local Buddhist temple with Dhanushka Wickremasinghe's permission. The 19-year-old suspect, Frank de Zoysa, was last seen at school until winter last year and is under investigation for using sharp weapons. The High Commission of Ottawa and the Buddhist Congress of Canada are involved in the funeral arrangements and have set up a fund for the deceased's final expenses.
-
-🟩
-
-The funeral of Sri Lankans who were killed in the Ottawa capital of Canada is to be carried out by Buddhist temple in the area on the permission of Dhanushka Wickremasinghe.
-
-Six Sri Lankans were violently in the house of Barshewan, the suburbs of the same family in the area of the same family.
-
-The 19-year-old suspect, who was killed by the 19-year-old suspect, was in the thought of committing suicide.
-
-A spokesperson of the school he studied said the suspect Frank was last to the school last year only until the winter of last year.
-
-Police investigations also focus on whether Frank de Zoysa used several sharp arms for the massacre.
-
-However, after the post mortem, the funeral examination of the deceased is due to the permission of Dhanushka Wickremasinghe, who has been seriously injured, is to be carried out by the Buddhist temple in the area.
-
-The High Commission of Ottawa stated that their relatives will come from Sri Lanka for funerals.
-
-...
-
-[Data](articles/dbd667c4.json)
-
-[Extended Data](ext_articles/dbd667c4.ext.json)
-
----
-
-### Technical Overview of Online Safety Act
-
-*2024-03-11 13:19:00* · [`islandlk`](http://island.lk/technical-overview-of-online-safety-act/) · `en`
-
-In 2018, “EUROPOL” headquartered in Hague, Netherlands, a key organization established to prevent and combat serious internationally organized crimes, cybercrime and terrorism, had clearly defined the difference between cyber-dependent crimes and cyber-enabled crimes . As defined by them, any crime that can only be committed using computers, computer networks or other forms of information communication technology was named as cyber-dependent crimes and traditional crimes facilitated by the Internet and digital technology were categorized as cyber-enabled crimes. So, there are two categories of cybercrimes and these definitions are internally accepted.
-
-Illicit intrusion and hacking into computer networks, disruption of computer functionality with the spread of viruses or other malware and Distributed Denial of Service (DDoS) attacks which can paralyze service delivery by computers are some examples for cyber-dependent crimes.
-
-...
-
-[Data](articles/8aa14d1a.json)
-
-[Extended Data](ext_articles/8aa14d1a.ext.json)
-
----
-
-### Sri Lanka – WHITHER GOES THOU?
-
-*2024-03-11 13:16:00* · [`islandlk`](http://island.lk/sri-lanka-whither-goes-thou/) · `en`
-
-I plagiarized the title of this article from a Latin quote “Quo Vadis”. It was an immensely popular movie in the 50s starring Robert Taylor and Deborah Kerr. According to the film, Quo vadis (Whither Goes Thou) were the words exchanged between God and St Peter. The first apostle was fleeing from Rome along the Appian Way to Brindisi to take a boat and escape to Palestine. Peter went back to Rome where he was crucified. Today there is a small chapel on that road where Peter turned back. It is called the Church of Domine Quo vadis.
-
-Now you know I admitted I plagiarized. Don’t throw stones at my aeroplane. I have already said my mea culpa.Times have become difficult and often impossible to cope with. Whatever winds blow across our paradise isle, they are all filled with maelstroms that have so many manifestations. I do not think I am wrong if I say that even the winds are deceitful. We have been in turbulence for more years than we can recall.
-
-...
-
-[Data](articles/28ae94dc.json)
-
-[Extended Data](ext_articles/28ae94dc.ext.json)
 
 ---

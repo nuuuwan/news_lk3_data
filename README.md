@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 21:33:13**
+As of **2024-03-11 21:52:06**
 
 ## Newspaper Stats
 
-*Scraped **12,217** Articles*
+*Scraped **12,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 636
 islandlk | 663
 adalk | 1,044
 adaderanalk | 1,479
-tamilmirrorlk | 1,489
+tamilmirrorlk | 1,490
 virakesarilk | 1,678
 dailymirrorlk | 1,864
 adaderanasinhalalk | 1,933
@@ -26,25 +26,51 @@ adaderanasinhalalk | 1,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,215 (100.0%) of 12,217 articles have been extended.
+12,217 (100.0%) of 12,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### கோட்டாவின் நூலில் ஒருசில உண்மைகள் பல பொய்கள் - உதய கம்மன்பில
+### காலியில் துப்பாக்கிச்சூடு ; ஒருவர் மரணம்
+
+*2024-03-11 21:25:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-துப்பாக்கிச்சூடு-ஒருவர்-மரணம்/175-334520) · `ta`
+
+காலி - எல்பிடிய, பிடிகல பகுதியில் இன்று இரவு துப்பாக்கிச் சூட்டு சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+பொலிஸ் ஊடக பேச்சாளர் பிரதி பொலிஸ்மா அதிபர் நிஹால் தல்துவ இதனை உறுதிப்படுத்தியுள்ளார். R
+
+◼️
+
+[Data](articles/0b91efc6.json)
+
+---
+
+### A few facts in Kota's book are many lies - Udaya Kammanpila
 
 *2024-03-11 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178470) · `ta`
 
-கோட்டபய ராஜபக்ஷ வெளியிட்டுள்ள நூலில் ஒருசில உண்மைகள் காணப்படுவதைப் போன்று பல பொய்களும் காணப்படுகின்றன. பஷிலுடன் எனக்கு அரசியல் முரண்பாடு இருந்ததே தவிர தனிப்பட்ட முரண்பாடு ஏதும் இருக்கவில்லை. பொருளாதார நெருக்கடிகளை தீவிரப்படுத்துவதற்காக அரசாங்கத்துக்குள் முன்னெடுக்கப்பட்ட சூழ்ச்சிகளை நாட்டுக்கு பகிரங்கப்படுத்த வேண்டும் னஎ பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+Udaya Kammanpila, PTA leader, criticizes "Conspiracy to Excrement Me from the President" by Gotabhaya Rajapaksa, accusing it of containing lies, including a false personal conflict with Basil. Kammanpila defends the PTA's stance on economic crises and denies accusations of defrauding government funds.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் நேற்று திங்கட்கிழமை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷ 'ஜனாதிபதி பதவியிலிருந்து என்னை வெளியேற்றுவதற்கான சதி' எனும்  தலைப்பில் வெளியிட்டுள்ள நூலில் நேரடியாகவும்,மறைமுகமாகவும் எம்மை பற்றி குறிப்பிடப்பட்டுள்ளது.
+In the book published by Gotabhaya Rajapaksa, there are many lies, such as a few facts.. I had a political contradiction with Basil and had no personal conflict. Udaya Kammanpila, the leader and parliamentarian of the Pivithuru Hela Urumaya Party (PTA), said that the conspiracy to intensify the economic crises should be made public.
+
+He made this statement during a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo yesterday.
+
+Former President Gotabhaya Rajapakse has been referred to us directly and indirectly in a book titled 'Conspiracy to Excrement Me from the President'.
+
+When the book was published, I bought it and read it. Some of the facts contained many lies.
+
+We have not taken away from the government for the crime of defrauding government funds.We were removed from the post.
+
+On the 65th page, it is mentioned that there was a personal contradiction between Basil and Udayakammanpila. "Gotabhaya Rajapaksa should express personal hatred.
 
 ...
 
 [Data](articles/93ec1150.json)
+
+[Extended Data](ext_articles/93ec1150.ext.json)
 
 ---
 
@@ -68,9 +94,17 @@ One person has been killed while three others have been injured following a shoo
 
 One person has been killed while three others have been injured following a shooting incident at Pitigala in Elpitiya, police said.
 
+The shooting had been carried out this evening (11) by two unidentified individuals who arrived on a motorcycle near a shop in the Guruwala area in the Pitigala police division.
+
+The suspects are believed to have used a T56 assault rifle in the shooting, according to police.
+
+One person was killed on the spot while three others including a woman have been admitted to the Gallinda Regional Hospital with injuries.
+
 ◼️
 
 [Data](articles/8dfc6c1e.json)
+
+[Extended Data](ext_articles/8dfc6c1e.ext.json)
 
 ---
 
@@ -2299,27 +2333,5 @@ The CID tried to take away the beef and the security forces to sufilize it.
 [Data](articles/028931cb.json)
 
 [Extended Data](ext_articles/028931cb.ext.json)
-
----
-
-### Sri Lanka SEC urges fund management firm to get into ETF and umbrella scheme
-
-*2024-03-11 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-urges-fund-management-firm-to-get-into-etf-and-umbrella-scheme-154070/) · `en`
-
-ECONOMYEXT – Sri Lanka’s Securities and Exchange Commission has urged the country’s unit trusts to be more active for fund managers to make use of regulation that allow Exchange Traded Funds and Umbrella schemes.
-
-The SEC has not received applications from managing companies for the establishment of such schemes.
-
-SEC Chairman Faizal Salieh had urged the industry representatives to identify the interests of different investor categories and design new products, at a recent meeting with CEOs of the Unit Trust industry, a statement said.
-
-Salieh suggested that “the Unit Trust industry introduces capital protected investment schemes where the Managing Company would be able to provide a return to their clients whilst preserving the capital.”
-
-The SEC, under the Collective Investments Code 2022 (CIS Code) has introduced the regulatory framework for the operation of Exchange Traded Funds (ETFs) and Umbrella Schemes.
-
-...
-
-[Data](articles/1ed3d38e.json)
-
-[Extended Data](ext_articles/1ed3d38e.ext.json)
 
 ---

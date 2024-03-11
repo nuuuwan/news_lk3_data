@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 03:50:41**
+As of **2024-03-12 04:02:51**
 
 ## Newspaper Stats
 
-*Scraped **12,264** Articles*
+*Scraped **12,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 642
 islandlk | 663
 adalk | 1,046
 adaderanalk | 1,483
-tamilmirrorlk | 1,491
+tamilmirrorlk | 1,492
 virakesarilk | 1,687
 dailymirrorlk | 1,870
 adaderanasinhalalk | 1,935
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,264 (100.0%) of 12,264 articles have been extended.
+12,264 (100.0%) of 12,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### யுக்திய சுற்றிவளைப்பு: மேலும் 653 பேர் கைது
+
+*2024-03-12 03:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-சுற்றிவளைப்பு-மேலும்-653-பேர்-கைது/175-334535) · `ta`
+
+கைது செய்யப்பட்டவர்களில் போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 586 பேரும் குற்றத்தடுப்பு பிரிவுகளுக்கு அனுப்பப்பட்டுள்ள பட்டியலில் பெயரிடப்பட்டுள்ள 67 சந்தேகநபர்களும் அடங்குகின்றனர் என பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+ஹெரோயின், ஐஸ், கஞ்சா, மாவா போதைவில்லைகள் உள்ளிட்ட பல போதைப்பொருள்களையும் இந்த சுற்றிவளைப்பின் போது பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+போதைப்பொருளுடன் தொடர்புடைய குற்றங்களுக்காக கைது செய்யப்பட்ட சந்தேகநபர்களில், பொலிஸ் போதைப்பொருள் ஒழிப்பு பணியகம் பொலிஸ் விசேட பணியகத்தின் பட்டியலில் இருந்த 18 சந்தேகநபர்களும் உள்ளடங்குகின்றனர் என பொலிஸார் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/4d6c2cc2.json)
+
+---
 
 ### Kalambo defeated the AVC;Chonders took the bowl of Yusuf Bowl
 
@@ -2253,27 +2269,5 @@ In his book, Gotabhaya emphasizes that Defense Secretary Kamal Gunaratne and the
 [Data](articles/66f409cc.json)
 
 [Extended Data](ext_articles/66f409cc.ext.json)
-
----
-
-### Raknaana deals withdraws from Expressway and Rakna Lankapuvath
-
-*2024-03-11 15:53:06* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයෙන්-එස්-ටි-එෆ්--ඉවත්කර-රක්නා-ලංකා-දමයි/11-408538) · `si`
-
-Raknaana withdraws from Expressway and Rakna Lankapuvath, following STF personnel removal. Road Development Authority (RDA) and Ministry of Defense informed of STF's role in highway expulsions.
-
-🟩
-
-A spokesman for the Road Development Authority (RDA) said that the STF personnel who served on the expressway have been removed from today (11) and the officials of Rakna Lanka's private company said.
-
-The Secretary to the Ministry of Defense has informed the Road Development Authority a few months ago that the STF personnel who would take firefights and their lives in the expulsions of the highways.
-
-The total exhibition division in the Expressway Division has been deployed in five camps, Pennaduwa and Sooriyawewa and five policemen.
-
-◼️
-
-[Data](articles/e979009c.json)
-
-[Extended Data](ext_articles/e979009c.ext.json)
 
 ---

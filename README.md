@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 03:02:49**
+As of **2024-03-12 03:17:41**
 
 ## Newspaper Stats
 
-*Scraped **12,263** Articles*
+*Scraped **12,264** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 117
+colombotelegraphcom | 118
 bbccomsinhala | 141
 dbsjeyarajcom | 184
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,263 (100.0%) of 12,263 articles have been extended.
+12,263 (100.0%) of 12,264 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -823,6 +823,20 @@ On the 65th page, it is mentioned that there was a personal contradiction betwee
 [Data](articles/93ec1150.json)
 
 [Extended Data](ext_articles/93ec1150.ext.json)
+
+---
+
+### The Menace Of Political Nepotism: Sri Lanka’s Downfall
+
+*2024-03-11 21:17:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-menace-of-political-nepotism-sri-lankas-downfall/) · `en`
+
+Since gaining independence in 1948, Sri Lanka has faced numerous challenges on its journey towards progress. One of the key factors hindering the nation’s development has been the pervasive influence of political nepotism. Over the years, politicians have, regrettably, allowed their offspring and political heirs to ascend to positions of power, ultimately contributing to the country’s decline.
+
+From the early days of independence, political dynasties have taken root, leading to a system where familial ties often hold more weight than merit and competence. The consequences of this nepotistic trend are visible across various sectors, including governance, economy, and social welfare.
+
+...
+
+[Data](articles/696802f2.json)
 
 ---
 
@@ -2259,27 +2273,5 @@ The total exhibition division in the Expressway Division has been deployed in fi
 [Data](articles/e979009c.json)
 
 [Extended Data](ext_articles/e979009c.ext.json)
-
----
-
-### The Chinese National People's Congress Annual Session complex
-
-*2024-03-11 15:46:21* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතික-මහජන-කොංග්‍රසයේ-වාර්ෂික-සැසිවාරය-සාර්ථකව-නිමාවෙයි/11-408537) · `si`
-
-The 14th Session of the Chinese People's Congress concluded with a focus on regional identity and modern techniques for productivity. President Xi Jinping emphasized the need for new quality productivity to suit regional identity. The session highlighted the importance of increasing strategic capacity in new sectors with Chinese identity, reflecting the Chinese Communist Party's determination to meet its goals amid challenges.
-
-🟩
-
-14th Session of the 14th Chinese People's Congress successfully concludes. The concludation festival was held at the Public Large Hall of Beijing this afternoon. It was on the 5th.
-
-The Chinese Communist Party, including the Chinese President Xi Ginping, joined the Session of the Chinese Communist Party and the Chinese Communist Party and the National People's Congress representatives.
-
-The need to ensure new quality productivity to suit regional identity was emphasized in this year's session. The President, who joined the session to attend the session, the President has also shown that the various levels of various levels across the country should be implemented through modern techniques to suit the country's real standards.
-
-...
-
-[Data](articles/7655a5f6.json)
-
-[Extended Data](ext_articles/7655a5f6.ext.json)
 
 ---

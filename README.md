@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 19:33:34**
+As of **2024-03-11 19:50:48**
 
 ## Newspaper Stats
 
-*Scraped **12,202** Articles*
+*Scraped **12,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 663
 adalk | 1,040
 adaderanalk | 1,477
 tamilmirrorlk | 1,488
-virakesarilk | 1,674
+virakesarilk | 1,676
 dailymirrorlk | 1,863
 adaderanasinhalalk | 1,930
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 1,930
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,198 (100.0%) of 12,202 articles have been extended.
+12,202 (100.0%) of 12,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### மஹியங்கனையில் விஹாரை மீது துப்பாக்கிப் பிரயோகம்!
+
+*2024-03-11 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178467) · `ta`
+
+மஹியங்கனை, தம்பனை, குகுலபொல பிரதேச விஹாரை ஒன்றில் திங்கட்கிழமை (11) துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+விஹாரையிலிருந்த எவருக்கும் காயம் ஏற்படவில்லையென தெரிவித்துள்ள பொலிஸார் சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/231db562.json)
+
+---
+
+### குருணாகல் வைத்தியசாலையில் சிகிச்சைபெறும் 15 வயது சிறுவன் பாலியல் துஷ்பிரயோகம்: சிற்றூழியர் கைது!
+
+*2024-03-11 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178466) · `ta`
+
+குருணாகல் போதனா வைத்தியசாலையில் சிகிச்சை பெற்ற 15 வயது சிறுவனை பாரிய பாலியல் வன்கொடுமைக்கு உட்படுத்திய குற்றச்சாட்டின் பேரில் வைத்தியசாலையில் கடமையாற்றும் சிற்றூழியர் ஒருவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டதாக குருணாகல் தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட பின்னர், இரண்டாவது சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த சிறுவனே இவ்வாறு துஷ்பிரயோகம் செய்யப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+சிகிச்சை பெற்று வந்த சிறுவனை சிகிச்சை பிரிவின் குளியலறைக்கு அழைத்துச் சென்று துஷ்பிரயோகம் செய்ததாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/142e00e3.json)
+
+---
 
 ### Ramadan fasting in Sri Lanka to commence tomorrow
 
@@ -45,6 +75,8 @@ Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is consid
 ◼️
 
 [Data](articles/9e1c4de1.json)
+
+[Extended Data](ext_articles/9e1c4de1.ext.json)
 
 ---
 
@@ -64,21 +96,29 @@ The Minister further commented that the International Day of Forests falls on Ma
 
 [Data](articles/19ec726e.json)
 
+[Extended Data](ext_articles/19ec726e.ext.json)
+
 ---
 
-### ரமழான் நோன்பு நாளை ஆரம்பம்
+### Ramadan fasting will begin tomorrow
 
 *2024-03-11 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178464) · `ta`
 
-புனித ரமழான் நோன்பு செவ்வாய்க்கிழமை (12) ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது. ஹிஜ்ரி 1445 புனித ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு திங்கட்கிழமை (11) மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற்றது.
+Ramadan fasting starts tomorrow. The Hijri 1445 Deciding Committee Conference to Determine the Title of Holy Ramadan was held at the Colombo big school.
 
-இம்மாநாட்டில் அகில இலங்கை ஜம்இய்யதுல் உலமா, கொழும்பு பெரிய பள்ளிவாசல், முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள அதிகாரிகள் மற்றும் உலமாக்கள் என பலரும் ஆகிய அமைப்புக்களில் இருந்து குறிப்பிட்ட சிலர் கலந்துகொண்டிருந்தனர்.
+🟩
 
-இதன்போது நாட்டின் பல பிரதேசங்களிலும் ரமழான் மாத தலைப்பிறை தென்பட்டதற்கான ஆதார பூர்வமான தகவல்கள் கிடைக்கப்பெற்றதற்கமைய நாளை செவ்வாய்க்கிழமை (12) ரமழான் நோன்பு ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது.
+St. Ramadan fasting will commence on Tuesday (12). The Hijri 1445 Deciding Committee Conference to Determine the Title of Holy Ramadan was held on Monday evening at the Mahrip prayer at the Colombo big school.
+
+The conference was attended by a few people from the All Ceylon Jamiyyathul Ulama, Colombo Great School, Muslim Religious and Cultural Affairs Department officials and Ulama.
+
+The Colombo big school has announced that the Ramadan fasting will begin tomorrow (12) as the source of information received by the Ramadan month title in many parts of the country.
 
 ◼️
 
 [Data](articles/df43269c.json)
+
+[Extended Data](ext_articles/df43269c.ext.json)
 
 ---
 
@@ -128,19 +168,27 @@ It has been revealed that the wife was admitted to the Ragama hospital.
 
 ---
 
-### சர்வதேச நாணய நிதியத்துடனான அனைத்து நடவடிக்கைகளையும் வெளிப்படைத்தன்மையுடன் செயற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் - ஜனாதிபதி
+### The government's aim is to transpare the activities with the International Monetary Fund with transparency- the President
 
 *2024-03-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178463) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் தொடர்பில் கலந்துரையாடுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அழைக்கப்பட்டிருந்த எதிர்க்கட்சித் தலைவர்களின் கூட்டம் திங்கட்கிழமை (11) முற்பகல் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+The government aims for transparency in its activities with the IMF, emphasizing this during a meeting with opposition leaders led by President Ranil Wickremesinghe. The TNA's MP Sumanthiran was present, and the government's commitment to transparency was highlighted. President Wickremesinghe assured that data analysis reports would be shared with the TNA and parliament. The government expressed its desire to work with the IMF, inviting opposition parliamentarians to discuss proposals. Treasury Secretary Mahinda Siriwardena detailed ongoing negotiations, expected to conclude by June, while Governor of the Central Bank Dr. Nandalal Weerasinghe confirmed the government's commitment to implementing IMF recommendations.
 
-இந்தக் கலந்துரையாடலில் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரனும் கலந்துகொண்டதுடன் சர்வதேச நாணய நிதியத்துடனான கலந்துரையாடலில் அனைத்து தரப்பினரும் ஏற்றுக்கொள்ளும் தீர்மானங்களை எட்டுவதற்கான அரசாங்கத்தின் அர்ப்பணிப்பு இங்கு வலியுறுத்தப்பட்டது.
+🟩
 
-சர்வதேச நாணய நிதியத்தினால் தயாரிக்கப்பட்ட பகுப்பாய்வு தரவுகளுடன் கூடிய அறிக்கைகள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட வேண்டுமென பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரன் வலியுறுத்தினார்.
+A meeting of opposition leaders, who was called by President Ranil Wickremesinghe to discuss the proposals of the International Monetary Fund, was held on Monday (11) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+The Tamil National Alliance (TNA) Member of Parliament. A.. Sumanthiran was also present and the government's commitment to the government's commitment to all sides in a discussion with the International Monetary Fund was emphasized.
+
+Member of Parliament M.. A.. Sumanthiran stressed.
+
+President Ranil Wickremesinghe said that the government's aim was to carry out all these activities transparency and that the data analysis reports related to it would be given to the Tamil National Alliance (TNA) and parliament.
 
 ...
 
 [Data](articles/e6bce022.json)
+
+[Extended Data](ext_articles/e6bce022.ext.json)
 
 ---
 
@@ -2275,53 +2323,5 @@ The petitioners Lyca Leasing Holding Limited and Lyca Mobile SARL decided to wit
 [Data](articles/07931970.json)
 
 [Extended Data](ext_articles/07931970.ext.json)
-
----
-
-### What Leadership Qualities does Imitiaz lack that Other Party Leaders possess?
-
-*2024-03-11 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/What-Leadership-Qualities-does-Imitiaz-lack-that-Other-Party-Leaders-possess/172-278572) · `en`
-
-Imitiaz, the humble and down-to-earth former Minister of Mass Media in the UNP government of 2001-2004, possesses many leadership traits. Threfore, our focus is now directed towards tackling the inquiry presented in the title of this article
-
-A political leader is a public servant dedicated to enhancing society, elected through votes from the community. More than just a politician, a political leader embodies “statesmanship.” This implies having integrity and the determination to champion what is just, even if it means stepping down from a governmental role or facing electoral defeat. Regrettably, in contemporary times, some politicians declare intentions that differ from their actual actions. They may state one course of action while secretly planning another, ultimately failing to follow through on either of their promised commitments or their true intentions. This misalignment between words and deeds can erode public trust in the political process.
-
-...
-
-[Data](articles/740ae941.json)
-
-[Extended Data](ext_articles/740ae941.ext.json)
-
----
-
-### Oscar Award for the Nazi Vadamukham
-
-*2024-03-11 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178407) · `ta`
-
-Jonathan Glasser Gaza's "The Zone of Interest of the Holocaust and Nazi's Rumors" won the Best Film Award for international films at the Oscars. The film explores the story of Rudolv Hoss, a Nazi commander responsible for the deaths of over 1.1 million people in camps from 1940 to 1943. Glasser Gaza, a Jewish director, received the award while rejecting his Jewish identity and Holocaust narrative to critique the lack of humanitarianism and its impact on history.
-
-🟩
-
-Jewish director Jonathan Glasser Gaza has commented on the Oscar Award ceremony.
-
-His The Zone of Interest of the Holocaust and Nazi's Rumors has been awarded the Best Film Award in international films.
-
-The film talks about the family of Rudolv Hoss, who has long been appointed as the commander of the Nazi Mangamam.
-
-From 1940 to 43, Rudolv Hosin was seen in charge of Hitler's dwarfs, killing more than 1.1 million in these camps -
-
-Receiving the award for the film, the director rejected his Jewishness and Holohastin to take advantage of the occupation.
-
-The director said that all our choices were created to reflect and confront us in the present time.
-
-He also shows where the film leads us to the lack of humanitarianism, and that inhumane lack of humanitarianism has designed our past and present.
-
-He said that we have been present here to oppose Jewishness and Holohastin's advantage of the occupation of the occupation.
-
-...
-
-[Data](articles/e6825f67.json)
-
-[Extended Data](ext_articles/e6825f67.ext.json)
 
 ---

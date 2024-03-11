@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 19:17:48**
+As of **2024-03-11 19:33:34**
 
 ## Newspaper Stats
 
-*Scraped **12,198** Articles*
+*Scraped **12,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,040
-adaderanalk | 1,475
+adaderanalk | 1,477
 tamilmirrorlk | 1,488
-virakesarilk | 1,672
+virakesarilk | 1,674
 dailymirrorlk | 1,863
 adaderanasinhalalk | 1,930
 
@@ -26,43 +26,121 @@ adaderanasinhalalk | 1,930
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,196 (100.0%) of 12,198 articles have been extended.
+12,198 (100.0%) of 12,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### රාමසාන් උපවාස හෙටින් ඇරඹෙයි
+### Ramadan fasting in Sri Lanka to commence tomorrow
+
+*2024-03-11 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97878/ramadan-fasting-in-sri-lanka-to-commence-tomorrow) · `en`
+
+Muslims in Sri Lanka will begin the month of Ramadan fasting from dawn on Tuesday (12 March) as the new crescent moon has been sighted, according to the Colombo Grand Mosque.
+
+Muslims all over the world will observe a month of fasting and prayers during Ramadan to commemorate the time when the Quran was revealed to Prophet Mohammed on the night of “Laylat Al Qadr”.
+
+Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is considered to be one of the Five Pillars of Islam.
+
+◼️
+
+[Data](articles/9e1c4de1.json)
+
+---
+
+### 4,500 multi-tasks development officers to be deployed to aid conservation of elephant fences
+
+*2024-03-11 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97877/4500-multi-tasks-development-officers-to-be-deployed-to-aid-conservation-of-elephant-fences) · `en`
+
+Minister of Wildlife and Forest Resources Conservation and Irrigation Pavithradevi Wanniarachchi revealed that the Ministry of Finance has granted approval to deploy 4,500 multi-tasks development officers to aid elephant-fence conservation efforts within the Ministry of Wildlife.
+
+The minister also stated that the demarcation of forest boundaries, which is part of the project aimed at increasing the country’s forest coverage to 32% of the total land area, is anticipated to be finalized this year.
+
+Minister of Wildlife and Forest Resources Conservation and Irrigation Pavithradevi Wanniarachchi made these remarks during her participation in a news conference held at the Presidential Media Centre today (11), focusing on the theme ‘Collective path to a Stable Country’.
+
+The Minister further commented that the International Day of Forests falls on March 21.
+
+...
+
+[Data](articles/19ec726e.json)
+
+---
+
+### ரமழான் நோன்பு நாளை ஆரம்பம்
+
+*2024-03-11 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178464) · `ta`
+
+புனித ரமழான் நோன்பு செவ்வாய்க்கிழமை (12) ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது. ஹிஜ்ரி 1445 புனித ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு திங்கட்கிழமை (11) மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற்றது.
+
+இம்மாநாட்டில் அகில இலங்கை ஜம்இய்யதுல் உலமா, கொழும்பு பெரிய பள்ளிவாசல், முஸ்லிம் சமய பண்பாட்டலுவல்கள் திணைக்கள அதிகாரிகள் மற்றும் உலமாக்கள் என பலரும் ஆகிய அமைப்புக்களில் இருந்து குறிப்பிட்ட சிலர் கலந்துகொண்டிருந்தனர்.
+
+இதன்போது நாட்டின் பல பிரதேசங்களிலும் ரமழான் மாத தலைப்பிறை தென்பட்டதற்கான ஆதார பூர்வமான தகவல்கள் கிடைக்கப்பெற்றதற்கமைய நாளை செவ்வாய்க்கிழமை (12) ரமழான் நோன்பு ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/df43269c.json)
+
+---
+
+### Ramadan fasting tomorrow
 
 *2024-03-11 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194393) · `si`
 
-සිය රාමසාන් උපවාස සමය හෙට සිට ආරම්භ කරන බව කොළඹ මහ පල්ලිය නිවේදනය කර තිබේ.
+The Colombo Maha Church will start Ramadan fasting tomorrow.
+
+🟩
+
+The Colombo Maha Church has announced that his Ramazan fast will commence tomorrow.
 
 ◼️
 
 [Data](articles/2212f8d9.json)
 
+[Extended Data](ext_articles/2212f8d9.ext.json)
+
 ---
 
-### ගැබිණි බිරිඳට පහරදුන් බවට සැක සැමියා රිමාන්ඩ්
+### Man remanded for suspicion that pregnant wife was attacked
 
 *2024-03-11 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194392) · `si`
 
-ගර්භණී බිරිඳට පහරදී දරු ගැබ විනාශ කිරීමේ චෝදනා එල්ලවූ සැමියෙකුව හෙට දින දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+A husband is accused of killing his pregnant wife, leading to his remand until tomorrow. The case involves a heated argument over the child's paternity, with the wife hospitalized.
 
-සැකකරු, කොළඹ අතිරේක මහෙස්ත්‍රාත් කේමින්ද පෙරේරා මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබා දී ඇත.
+🟩
 
-මෙය මනුෂ්‍ය ඝාතනයක් බවට සැකකරන බැවින් අධිකරණ වෛද්‍ය වාර්තාව අධිකරණයට ඉදිරිපත් කරන බවට ග්‍රෑන්ඩ්පාස් පොලීසිය කළ දැනුම්දීමක් සලකා බලමින් ඒ මහතා මෙම නියෝගය ලබාදුන්නේය.
+A husband who has been accused of killing pregnancy and destroyed the children of the child and remanded till tomorrow.
 
-පොලීසිය අධිකරණය වෙත පවසා ඇත්තේ නිරන්තරයෙන් අදාළ සැකකාර සැමියා සිය බිරිඳ සමග ගැටුම් ඇතිකරගන්නා බවට අනාවරණය වී ඇති බවය.
+The suspect was produced before the Colombo Additional Magistrate Kammada Perera.
 
-මෙහිදී පොලීසිය වැඩිදුරටත් සඳහන් කර ඇත්තේ කුසෙහි සිටින දරුවාගේ පීතෘත්වය සම්බන්ධයෙන් ඇතිවූ බහින්බස්වීමක් දුරදිග ගොස් සැකකාර සැමියා විසින් බිරිඳගේ උදරයට සිය පාදයෙන් පහරදී ඇති බවය.
+He gave the Grandpass notification that this would be produced in court as a murder of a human murder.
 
-අනතුරුව බරපතළ තත්ත්වයේ පසුවූ බිරිඳව රාගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මාස දකක කළලය විනාශ වී ඇති බවට අනාවරණය වී තිබේ.
+The police have told the court that the suspect is constantly revealed that the suspect her husband conflicts with his wife.
+
+The police further stated that a heated argument about the patronage of the child's paternity in the womb is that the suspect her husband had attacked his wife's abdomen.
+
+It has been revealed that the wife was admitted to the Ragama hospital.
 
 ◼️
 
 [Data](articles/6bdf0cf3.json)
+
+[Extended Data](ext_articles/6bdf0cf3.ext.json)
+
+---
+
+### சர்வதேச நாணய நிதியத்துடனான அனைத்து நடவடிக்கைகளையும் வெளிப்படைத்தன்மையுடன் செயற்படுத்துவதே அரசாங்கத்தின் நோக்கமாகும் - ஜனாதிபதி
+
+*2024-03-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178463) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகள் தொடர்பில் கலந்துரையாடுவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அழைக்கப்பட்டிருந்த எதிர்க்கட்சித் தலைவர்களின் கூட்டம் திங்கட்கிழமை (11) முற்பகல் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+இந்தக் கலந்துரையாடலில் தமிழ்த் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரனும் கலந்துகொண்டதுடன் சர்வதேச நாணய நிதியத்துடனான கலந்துரையாடலில் அனைத்து தரப்பினரும் ஏற்றுக்கொள்ளும் தீர்மானங்களை எட்டுவதற்கான அரசாங்கத்தின் அர்ப்பணிப்பு இங்கு வலியுறுத்தப்பட்டது.
+
+சர்வதேச நாணய நிதியத்தினால் தயாரிக்கப்பட்ட பகுப்பாய்வு தரவுகளுடன் கூடிய அறிக்கைகள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட வேண்டுமென பாராளுமன்ற உறுப்பினர் எம். ஏ. சுமந்திரன் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/e6bce022.json)
 
 ---
 
@@ -2245,105 +2323,5 @@ He said that we have been present here to oppose Jewishness and Holohastin's adv
 [Data](articles/e6825f67.json)
 
 [Extended Data](ext_articles/e6825f67.ext.json)
-
----
-
-### 96th Oscar Award Ceremony: Here is the full details of the winners !!
-
-*2024-03-11 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178391) · `ta`
-
-The 96th Oscars, held at the Dolphi Theater, Los Angeles, saw "The Openhaimer" win Best Picture, directed by Christopher Nolan. Ima Stone won Best Actress for "Poor Things," and Nolan won Best Director. "The Boy and the Heron" took Best Animated Feature.
-
-🟩
-
-Oscar is the world's highest award in the film industry. Oscar Awards have been announced since 1929. Oscar is awarded in various categories including Best Film, Actor, Actress, Director and Composer.
-
-The 96th Oscar Awards were held at the Dolphi Theater in Los Angeles, USA.
-
-The film has been awarded 7 awards including Best Film, Actor, Supporter, Cinematography and Collection.
-
-Ju, who produced the atomic bomb of last year's Openhaimer movie starring Christopher Nolan. It was formed with the biography of Robert Openheimer.
-
-In the scenes of Hiroshima and Nagasaki in Japan, the Chilean Murphy was in the vicinity of the scenes that the world was destroyed and the world was destroyed.
-
-Openheimer has won the Oscar Award for Best Picture. Openheimer starrer Child Merbi directed by Christopher Nolan has won the Oscar.
-
-Actress Ima Stone has won Oscar Award for Best Actress (Best Actress). Actress Ima Stone has been awarded the Oscar for Best Actress for her performance in Poor Things.
-
-...
-
-[Data](articles/2925e8ba.json)
-
-[Extended Data](ext_articles/2925e8ba.ext.json)
-
----
-
-### Strengthening the electricity supply
-
-*2024-03-11 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194373) · `si`
-
-The Batticaloa Solar Power Project, a 90 MW initiative by the Ceylon Electricity Board, was unveiled yesterday. The Minister, who also leads the backbay Solar Private Company, highlighted the project's significance in enhancing electricity supply.
-
-🟩
-
-Solar Power Project built on earth in Batticaloa was opened yesterday (10).
-
-The Minister has said that this has been constructed under the Tender Process of 90 MW of Ceylon Electricity Board (CEB).
-
-The Minister also operates the backbay Solar Private Company.
-
-◼️
-
-[Data](articles/dcc1ffe7.json)
-
-[Extended Data](ext_articles/dcc1ffe7.ext.json)
-
----
-
-### Arrest
-
-*2024-03-11 11:36:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இசையில்-இன்பம்-காண-முயன்றவர்-கைது/175-334495) · `ta`
-
-A 46-year-old man from Pitakotte, involved in cultivation, is arrested for attempting to sexually abuse two 15- and 16-year-old boys. He invited them to a concert, showed naked photos, and tried to abuse them. The boys reported to their parents, who informed the police. The suspect was arrested and is now in custody.
-
-🟩
-
-A 46 -year -old man has been interrogated on charges of attempting to sexually abused two youths.
-
-A 46 -year -old man who was involved in cultivation in the Kukkulkaduwa area on the Tanamalwila - Udawalawa road is being investigated by the police in connection with the rape of two boys aged 15 and 16.
-
-The suspect is from Pitakotte area and is carrying out cultivation work in about ten acres of land in Kukkulkaduwa area.. He has called on two boys living in the same area to watch a concert in Tanamalwila.
-
-The two boys have said that there is no money. However, he shows the two boys on a motorcycle claiming to give the necessary money and showed naked photos. He then tried to abuse the two youths.
-
-After the two boys reported to their parents in connection with the incident, the parents of the Thanamalwila police were informed about it.. The suspect has been arrested last (10). The police said that the suspect had taken steps to bring the suspect to the Magistrate's Court.
-
-◼️
-
-[Data](articles/aec6c728.json)
-
-[Extended Data](ext_articles/aec6c728.ext.json)
-
----
-
-### Young man dies by pneumonia in Jaffna
-
-*2024-03-11 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178401) · `ta`
-
-A 29-year-old man from Jaffna's Vadamarachchi area died of pneumonia on Sunday. He was from Karavetti, Tunnalai, and had previously rescued another individual, who was admitted to Point Pedro Hospital.
-
-🟩
-
-A youth from Jaffna - Vadamarachchi area has died of a neonia fever.
-
-Muthulingam Sivadarshan (age 29), a young man from Karavetti, Tunnalai, has died.
-
-The youth has died on Sunday (10) at home and rescued a young man who was rescued and admitted to the Point Pedro Hospital.
-
-◼️
-
-[Data](articles/116316b3.json)
-
-[Extended Data](ext_articles/116316b3.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 09:17:38**
+As of **2024-03-11 09:33:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,904
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,052 (100.0%) of 12,055 articles have been extended.
+12,055 (100.0%) of 12,055 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,8 @@ The final day of the 'Air Tattoo' was held yesterday, with the Senior Adviser on
 ...
 
 [Data](articles/2d116f68.json)
+
+[Extended Data](ext_articles/2d116f68.ext.json)
 
 ---
 
@@ -471,6 +473,8 @@ With the absence of large-scale demand for foreign currency from the importers, 
 ...
 
 [Data](articles/1600cf9f.json)
+
+[Extended Data](ext_articles/1600cf9f.ext.json)
 
 ---
 
@@ -1357,6 +1361,8 @@ The 2024 Indian Ocean Rim Association (IORA) Day was held yesterday at the Galle
 ◼️
 
 [Data](articles/7ce4db0f.json)
+
+[Extended Data](ext_articles/7ce4db0f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 08:33:06**
+As of **2024-03-11 08:51:47**
 
 ## Newspaper Stats
 
-*Scraped **12,049** Articles*
+*Scraped **12,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ dailyftlk | 628
 islandlk | 662
 adalk | 1,019
 adaderanalk | 1,460
-tamilmirrorlk | 1,464
+tamilmirrorlk | 1,465
 virakesarilk | 1,644
 dailymirrorlk | 1,842
-adaderanasinhalalk | 1,903
+adaderanasinhalalk | 1,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,041 (99.9%) of 12,049 articles have been extended.
+12,049 (100.0%) of 12,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
+
+### තවත් ඝාතනයක්
+
+*2024-03-11 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194366) · `si`
+
+ඇලපාත, නිරිඇල්ල ප්‍රදේශයේ පදිංචි කාන්තාවක්ව සිය ස්වාමිපුරුෂයා විසින් තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+පොලීසිය පැවසුවේ, ඊයේ (10) මෙම සිදුවීම පිළිබඳ ලද පණිවුඩයක් මත පරීක්ෂණ ආරම්භ කළ බවය.
+
+පවුල් ආරවුලක් හේතුවෙන් ස්වාමිපුරුෂයා හා බිරිඳ වෙන්ව නිවෙස් දෙකක ජීවත්ව ඇති අතර, ඊයේ මියගිය කාන්තාව විසින් දරුවන්ගේ පොත්පත් රැගෙන එ්මට ස්වාමිපුරුෂයාගේ නිවසට ගිය අවස්ථාවේ දී මෙම අවාසනාවන්ත සිදුවීමට මුහුණ දී ඇත.
+
+එහිදී ස්වාමියා විසින් තියුණූ ආයුධයකින් පහරදී ඇති බවට සිදුකළ පොලිස් විමර්ශනයේ දී අනාවරණය වී තිබේ.
+
+අවුරුදු 43ක් වූ සැකකරු මේ වනවිට පොලීසියට භාරවීමෙන් පසු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/e61c8484.json)
+
+---
 
 ### Dry weather impacts consistent water supply
 
@@ -47,6 +67,8 @@ To facilitate public feedback and address concerns effectively, the NWSD has int
 ◼️
 
 [Data](articles/3dbcf054.json)
+
+[Extended Data](ext_articles/3dbcf054.ext.json)
 
 ---
 
@@ -66,55 +88,75 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa and Uva
 
 [Data](articles/b6a62a8b.json)
 
+[Extended Data](ext_articles/b6a62a8b.ext.json)
+
 ---
 
-### යුක්තියේ මෙහෙයුමට අද සිට ත්‍රිවිධ හමුදාවත් කැඳවයි
+### Armed Forces summoned for justice from today
 
 *2024-03-11 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194365) · `si`
 
-‍අපරාධ සහ මත්ද්‍රව්‍ය පාලනය කිරීමේ මෙහෙයුම් සඳහා අද (11) සිට හමුදාවේ සහාය ලබාගැනීමට පොලීසිය තීරණය කර තිබේ.
+The police have called upon the army for assistance in crime and drug control operations starting today. All police stations have been informed. If police officers face obstacles, the army will coordinate with Senior DIGs or the DIGs in charge of the province for arrests. A methodology has been prepared, and the IGP has been instructed to seek military assistance.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා පැවසුවේ, සියලු පොලිස් ස්ථාන වෙත ඊට අදාළ උපදෙස් ලබා දී ඇති බවය.
+🟩
 
-"අද දිනයේ සිට මෙහෙයුම් ක්‍රියාත්මක විය යුතු වෙනවා. පොලිස් නිලධාරීන්ගේ යම් අඩුපාඩුවක් සිදුවුණොත් ඒ වැටලීම් සඳහා ප්‍රමාණවත් නිලධාරීන් නොමැති වුණොත් විශේෂයෙන් මාර්ග බාධක වැනි දේ ක්‍රියාත්මක කරන්න සිදුවුණොත් ඒ වගේම දරුණු ගණයේ අපරාධකරුවන් අත්අඩංගුවට ගැනීමට අවශ්‍ය වුණොත් යුද හමුදාව ඒ පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්ට, නියෝජ්‍ය පොලිස්පතිවරුන්ට අදාළ සම්බන්ධීකරණය සිදුකරලා, ඔවුන්ව කැඳවා ගැනීමට අවශ්‍ය කරන පහසු ක්‍රමවේදයක් සකස් කිරීම දැනට සිදුකරලා තියෙනවා. ඒ අනුව අවශ්‍ය වුණොත් යුද හමුදා සහාය ලබාගන්න කියලා පොලිස්පතිතුමා විසින් අවශ්‍ය උපදෙස් ලබාදුන්නා."
+The police have decided to seek the assistance of the army from today (11) for crime and drug control operations.
+
+Police Media Spokesperson DIG's DIG's Court Attorneysha said that the instructions have been instructed to all police stations.
+
+"Operations should be operated from today. If there are any shortcomings of the police officers, if there are many obstacles, the Army needs to be coordinated to the Senior DIGs, the DIGs in charge of the province, if they need to be arrested.The preparation of a methodology has been done. Accordingly, the Inspector General of Police (IGP) was instructed to obtain military assistance. "
 
 ◼️
 
 [Data](articles/29422613.json)
 
+[Extended Data](ext_articles/29422613.ext.json)
+
 ---
 
-### දක්ෂිණ අධිවේගයේ බස් රථ අකුරට ධාවනය කිරීමේ තීරණයක්
+### Decision to run buses on Southern Expressway
 
 *2024-03-11 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194364) · `si`
 
-ගාල්ල මාකුඹුර දක්ෂිණ අධිවේගී මාර්ගයේ පුද්ගලික බස් රථ අද (11) සිට කාලසටහනට අනුව පමණක් ධාවනය කිරීමට තීරණය කර තිබේ.
+The Kalkkumbura Southern Expressway buses were operated today, despite opposition from the SLAF Association and the Southern Expressway Secretary, Galle Sandararuwan. They plan to run buses as needed, not on the December 18, 2023, schedule, and will strike from Galle if authorities don't change the schedule.
 
-ගාල්ල මාකුඹුර දක්ෂිණ අධිවේගී මාර්ගයේ බස් රථ සංගමයේ ලේකම් නිලංග සඳරුවන් මහතා පවසන්නේ, එම ක්‍රියාමාර්ගය හේතුවෙන් මගීන්ට යම් වේලාවක් බස් රථ නැවතුම්පලෙහි රැඳී සිටීමට සිදුවනු ඇති බවය.
+🟩
 
-"මේකට හේතුව තමා 2023 දෙසැම්බර් මස 18 වනදා අපිට ලබාදී තිබූ කාලසටහන සම්බන්ධයෙන් අපි විරෝධය පළ කළා. මේ සම්බන්ධයෙන් කිසිම තීරණයක් මෙතෙක් අරගෙන නෑ. මේ සම්බන්ධව මගී ජනතාවට සිදුවන අපහසුව පිළිබඳව කනග‍ාටුව ප්‍රකාශ කරනවා. අපි මේ වනතුරු මේ කාලසටහන ට ධාවනය වීම නොකර මගී ජනතාව වෙනුවෙන් අවශ්‍ය පරිදි බස් ධාවනය කරන්න කටයුතු කරපු කණ්ඩායමක්. කිසිම අවස්ථාවක මගීන් පෝම්වල රඳවා නොසිට අපි ධාවන කටයුතුවල නියැලුණා. නමුත් අපි පත්ව සිටින මෙම අපහසුතාවයට කිසිදු පාර්ශවයක් කටයුතු කළේ නෑ. ඒ නිසා මේ බස් රථ සියල්ල අකුරට පමණක් ධාවනය කරනවා. මෙම කාලසටහන වෙනස් කිරීමට බලධාරින් පියවර නොගත්තොත් අපි ලබන 18 වනදා සිට ගාල්ලෙන් ආරම්භ කරන බස් වර්ජනයක් දක්වා ගෙනියනවා."
+The private buses of the Kalkkumbura Southern Expressway have been operated today (11).
+
+The Secretary of the SLAF Association, the Secretary of the Southern Expressway, Galle Sandararuwan is a time to stay in the bus station.
+
+"We opposed the schedule for us on December 18, 2023. No decision has been taken so far. Regardiness of the tragic people regarding this matter. A group that has taken action to run buses as needed without running to this schedule. In no case we were engaged in the ride, who had not been held in ports. But no part of the inconvenience we have become. Therefore, these buses are runle to the letter only. If the authorities are not taking steps to change this schedule, we will bring buses from the 18th to the strike starting from Galle. "
 
 ◼️
 
 [Data](articles/b28a81f3.json)
 
+[Extended Data](ext_articles/b28a81f3.ext.json)
+
 ---
 
-### මගේ කථාව වැරිදි ආකාරයට අර්ථකථනය කිරීමට උත්සාහ කරනවා
+### Trying to interpret my story as fair
 
 *2024-03-11 07:27:40* · [`adalk`](https://www.ada.lk/breaking_news/මගේ-කථාව-වැරිදි-ආකාරයට-අර්ථකථනය-කිරීමට-උත්සාහ-කරනවා/11-408522) · `si`
 
-තමන් කළ කතාවක් වැරදි ආකාරයට අර්ථකථනය කිරීමට ආණ්ඩුව උත්සාහ කරනමින් සිටින බව පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතා පවසයි.
+The government is trying to interpret a story about a request to discuss with the International Monetary Fund and negotiate with international creditors about foreign loan restructuring. However, discussions are impossible due to the Monetary Fund's agreement.
 
-ඔහු පවසන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සාකච්ඡාවකට විපක්ෂයේ පක්ෂ වලට ඉඩ දෙන ලෙස තමන් ඉල්ලූ බවට ආණ්ඩුව ප්‍රකාශ කළත් තමන් එවැනි ඉල්ලීමක් සිදු නොකළ බවයි.
+🟩
 
-තමන් සඳහන් කළේ විදේශීය ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ජාත්‍යන්තර ණය හිමියන් සමග කරන සාකච්ඡා වලදී විපක්ෂය සම්බන්ධ කරගන්නා ලෙසට ඉල්ලීමක් කළ බවයි.
+The government is trying to interpret a story and interpret a story.
 
-මූල්‍ය අරමුදල සහ විදේශීය ණය හිමියන් යනු කණ්ඩායම් දෙකක් බවත් මූල්‍ය අරමුදලේ ගිවිසුම අත්සන් කර අවසන් බැවින් ඔවුන් සමග සාකච්චා කිරීමෙන් ඵලක් නොවන බවද මන්ත්‍රීවරයා පවසයි.
+He says that the government stated that he had asked to allow the party to allow the party to allow the party to a discussion with the International Monetary Parties.
+
+He requested that the opposition was asked to be contacted in negotiations with international creditors about the restructuring of foreign loans.
+
+The Member of the Monetary Fund and Foreign Creditors are two teams, and it is not possible to discuss with them, as the Monetary Fund's agreement has been signed.
 
 ◼️
 
 [Data](articles/6be1e254.json)
+
+[Extended Data](ext_articles/6be1e254.ext.json)
 
 ---
 
@@ -218,51 +260,63 @@ Located in the main tourism hub in Ettukala, Negombo, a former colonial strongho
 
 ---
 
-### 96 වන ඔස්කා සම්මාන උළෙල ඇරඹෙයි
+### 96th Oscar Awards will begin
 
 *2024-03-11 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194363) · `si`
 
-96 වන ඔස්කා ඇකඩමි සම්මාන උළෙල මේ වන විට අමෙරිකාවේ ලොස් ඇන්ජලිස් නුවර පිහිටි ඩොල්බි රංග ශාලාවේ දී පැවැත්වේ.
+The 96th Oscars, held at the Dolby Theater, Los Angeles, saw Da'vine Joy Randolph win Best Supporting Actress for "The Holdovers," Robert Downey Jr. for "OpenHeevir," and "The Crown" won Best International Feature. "Barbie"'s "Bus I Made For" won Best Song, and Cillian Murphy and Emma Stone were awarded Best Actor and Actress, respectively. Christopher Nolan won Best Director for "The Crown."
 
-එහිදී හොඳම සහාය නිළිය ලෙස Da’Vine Joy Randolph  "The holdovers"  චිත්‍රපටිය වෙනුවෙන් සම්මාන දිනා ගත්තාය.
+🟩
 
-හොඳම සහාය නළුවා ලෙස Robert Downey Jr විසින් "Oppenheimer" චිත්‍රපටිය වෙනුවෙන් සම්මාන දිනාගැනීමට සමත් විය.
+The 96th Oscaka Academy Awards will be held at the Dolby Theater in Los Angeles, USA.
 
-හොඳම ජාත්‍යන්තර විශේෂාංග චිත්‍රපටිය ලෙස ‘‘ද සෝන් ඕෆ් ඉන්ටරෙස්ට්‘‘  චිත්‍රපටය සම්මාන හිමිකර ගත්තාය.
+Da'vine Joy Randolph as the best support actress was won the Holdovers "The Holdovers.
 
-එහිදී එම චිත්‍රපටියේ පිටපත් රචකයා සහ අධ්‍යක්ෂකවරයා වු ජොනතන් ග්ලේසන් ගාසා තීරයේ සිදුකරන මානුෂීය නොවන ප්‍රහාර සම්බන්ධයෙන් ද අදහස් පළ කළේය.
+Robert Downey JR won awards for the film "OpenHeevir" as the best supporter actor.
 
-මේ අතර හොඳම ගීතයට හිමි සම්මානය හිමිකරගත්තේ  "Barbie" චිත්‍රපටියේ "What Was I Made For" ගීතය රචනා කළ Billie Eilish සහ ඇයගේ සහෝදරයා වන Finneas O'Connell විසිනි.
+The crown of the Zone Offensitter won the best international feature film.
 
-"Poor Things" චිත්‍රපටයේ රඟපෑ Emma Stone හොඳම නිලිය සම්මානයෙන් පිදුම් ලැබීය.
+The film was also commented on the humanitarian glazer, the copy of the film.
 
-Cillian Murphy හොඳම නළුවා සම්මානය හිමි කර ගත්තේ "Oppenheimer" චිත්‍රපටය වෙනුවෙනි.
+Meanwhile, the best song's award was written by the "Bus I Made For" song in the film "Barbie".
 
-එමෙන්ම හොඳම අධ්‍යක්ෂණය සඳහා සම්මානය හිමිකර ගත්තේ ද "Oppenheimer" චිත්‍රපටය අධ්‍යක්ෂණය කළ  Christopher Nolan  විසිනි.
+The EMA Stone played in the film "Poor Things" was awarded the best act of the best act.
+
+CILLIAN MURPHY The best actor was the best actor.
+
+The Best Direction was also won by Christptopher Nolan, directed by the film.
 
 ◼️
 
 [Data](articles/849dea19.json)
 
+[Extended Data](ext_articles/849dea19.ext.json)
+
 ---
 
-### IMF විශේෂ සාකච්ඡාවක් අද
+### IMF Special discussion today
 
 *2024-03-11 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194362) · `si`
 
-ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජිතයින් සහ මෙරට නියෝජිතයින් අතර එම අරමුදලේ යෝජනා පිළිබඳව සාකච්ඡාවක් අද (11) ජනාධිපති ලේකම් කාර්යාලයේ දී පැවැත් වේ.
+IMF proposals discussed at Presidential Secretariat today. State Ministers, Presidential Staff, and Finance Ministry Secretary attend. Opposition Leader Sajith Premadasa and National Alliance (TNA) invited, but TNA members Sajith Premadasa and Anura Kumara Dissanayake did not participate. Discussion aims to present Opposition ideologies to IMF, focusing on creditors, not IMF representatives.
 
-මෙම සාකච්ඡාව සඳහා මුදල් රාජ්‍ය අමාත්‍යවරුන් වන ෂෙහාන් සේමසිංහ, රංජිත් සියඹලාපිටිය, ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක, ජනාධිපති ලේකම් සමන් ඒකනායක, මහබැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ, මුදල් අමාත්‍යාංශයේ ලේකම් කේ. එම්. මහින්ද සිරිවර්ධන යන මහත්වරුන් සහභාගී වීමට නියමිතය.
+🟩
 
-මේ අතර අදාළ සාකච්ඡාවට සහභාගී වන ලෙස විපක්ෂ නායක සජිත් ප්‍රේමදාස, ජාතික ජන බලවේගය පක්ෂයේ නායක අනුර කුමාර දිසානායක සහ දෙමළ ජාතික සන්ධානයේ නායකයාට ද ආරාධනා කර ඇති බව ජනාධිපති ලේකම් කාර්යාලය සඳහන් කළේය.
+A discussion is held at the Presidential Secretariat today (11) at the Presidential Secretariat today (11) a discussion of the proposals of the International Monetary Fund.
 
-කෙසේවෙතත් දෙමළ ජාතික සන්ධානය පමණක් ඊට සහභාගී වන බව ප්‍රකාශ කර ඇති අතර විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා හා අනුර කුමාර දිසානායක මහතා එම සාකච්ඡා සඳහා සහභාගී නොවන බව දැනුම් දී තිබිණි.
+State Ministers Shehan Semasinghe, Presidential Staff Leading Secretary to the Presidential Secretary of the President Saganda Siyambalapitiya, Presidential Secretary to the Presidential Secretary to the Presidential Secretary to the Ministry of Finance, Finance Ministry Secretary. M. Mahinda Siriwardena is due to attend.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සම්බන්ධයෙන් විපක්ෂය ඉදිරිපත් කරන මතවාදයන්ට අවස්ථාව ලබා දීම සඳහා මෙම සාකච්ඡාවට ආරාධනා කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+Meanwhile, Opposition Leader Sajith Premadasa and National Alliance (TNA) has been invited to participate in the discussion.
+
+However, the TNA has said that only the opposition leader Sajith Premadasa and Anura Kumara Dissanayake were not participating in the discussions.
+
+Minister of State Shehan Semasinghe said that the discussion has been invited to provide the opportunity to the Opposition's ideologies for the International Monetary Fund.
 
 ...
 
 [Data](articles/102b48ec.json)
+
+[Extended Data](ext_articles/102b48ec.ext.json)
 
 ---
 
@@ -334,23 +388,47 @@ Under the inspiring theme ‘For all Trailblazing Women Empowering the Future’
 
 ---
 
-### ප්‍රදේශ කිහිපයකට කාලගුණයේ වෙනසක්
+### A change in the weather for several areas
 
 *2024-03-11 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194361) · `si`
 
-අද (11) දිනයේ නැගෙනහිර පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව  පවසයි.
+Today (11), showers or thundershowers are expected in Ratnapura, Kalutara, Galle, and Matara districts. Metaded conditions are anticipated in Western, Sabaragamuwa, and Uva provinces. The Department of Meteorology warned of warm weather conditions in Western, Southern, Sabaragamuwa, Anuradhapura, and Mannar districts yesterday (10).
 
-රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+The Department of Meteorology says that today (11) will occur in the Eastern and Hambantota district.
 
-මේ අතර, ප්‍රදේශ කිහිපයක් සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳව අනතුරු ඇඟවීමේ නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් ඊයේ (10) නිකුත් කර තිබිණි.
+Showers or thundershowers will occur at several places in the Ratnapura, Kalutara, Galle and Matara districts.
 
-එහි සඳහන් වුයේ අද දිනයේ බස්නාහිර, වයඹ, දකුණු සහ සබරගමුව පළාත්වලත් අනුරාධපුර සහ මන්නාරම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් තත්ත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+In some places in the Western, Sabaragamuwa and Uva provinces, in some places, are expected to be metaded in the Galle and Matara districts.
+
+Meanwhile, the Meteorology Department issued a warning notification of warm weather conditions for several areas yesterday (10).
+
+It stated that in some places, in the Western, Southern and Sabaragamuwa Province, and in the Anuradhapura and Mannar Districts, in the Western and Sabaragamuwa Province, in the Anuradhapura and Mannar and Mannar districts is the level.
 
 ◼️
 
 [Data](articles/b88eee34.json)
+
+[Extended Data](ext_articles/b88eee34.ext.json)
+
+---
+
+### நீர் விநியோகம் தொடர்பில் 2000 முறைப்பாடுகள்
+
+*2024-03-11 02:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-விநியோகம்-தொடர்பில்-2000-முறைப்பாடுகள்/175-334483) · `ta`
+
+நிலவும் அதிக வறட்சியுடனான வானிலையினால் நாளாந்த நீர் பயன்பாட்டின் அளவு உயர்வடைந்துள்ளதாக தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
+
+இதன் காரணமாக அனைத்து நீர்வழங்கல் கட்டமைப்புகளும் அதிகபட்ச செயற்றிறனுடன் செயற்படுத்தப்பட்டுள்ளதாக அதன் பிரதி பொது முகாமையாளர் அனோஜா களுஆரச்சி குறிப்பிட்டார்.
+
+நீரின் பயன்பாடு அதிகரித்துள்ளமையினால் நாளாந்தம் 2000 இற்கும் அதிகமான முறைப்பாடுகள் கிடைக்கப்பெறுவதாக அவர் கூறினார்.
+
+நீர் விநியோகம் தொடர்பான சிக்கல்கள் குறித்து 1939 எனும் துரித அழைப்பு இலக்கத்திற்கு அழைப்பை ஏற்படுத்தி முறைப்பாடு செய்ய முடியுமென அவர் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/8e227c4e.json)
 
 ---
 
@@ -2107,57 +2185,5 @@ According to sources, the condition of the injured university student is serious
 [Data](articles/0a69f2fb.json)
 
 [Extended Data](ext_articles/0a69f2fb.ext.json)
-
----
-
-### With Ranil, Sumanthiran saw cricket
-
-*2024-03-10 13:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-கிரிக்கெட்-பார்த்த-சுமந்திரன்/175-334449) · `ta`
-
-Ranil Wickremesinghe, President, attended a cricket match between Royal and Thomian Colleges in Colombo, with Attorney General Sanjay Rajaratnam and President's Attorney MA Sumanthiran MP.
-
-🟩
-
-Colombo SSC. President Ranil Wickremesinghe has visited the big cricket match between Royal and Thomian Colleges held at the stadium.
-
-Along with him, Attorney General Sanjay Rajaratnam and President's Attorney MA Sumanthiran MP. And were also present.
-
-◼️
-
-[Data](articles/0e39db99.json)
-
-[Extended Data](ext_articles/0e39db99.ext.json)
-
----
-
-### The IMC does not participate in political agendas
-
-*2024-03-10 13:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-நிகழ்ச்சி-நிரல்களுக்குள்-ஐ-ம-ச-பங்கேற்காது/175-334448) · `ta`
-
-Mujibur Rahman, former MP and Deputy General Secretary of the United People's Power, stated that the party will not participate in tomorrow's discussion. The president and government have shown reluctance to move beyond the kingdom. The president has called for opposition leaders to discuss with the IMF and has expressed his position in Parliament. There's no need for a new president to be in front of the new President. The agreements with the IMF have not been disclosed. Workers are angry at the selling of state institutions to friends. The Minister of State has called for no need to wear national clothing. The United People's Power government plans to revise the IMF agreement. The opposition will not be trapped in the president's political agendas.
-
-🟩
-
-Former MP and Deputy General Secretary of the United People's Power, Mujibur Rahman, said that the United People's Power would not participate in tomorrow's discussion (11).
-
-After the new session began, the person who was accused of charges on the ruling party has not been appointed to the opposition.
-
-The president and the government continue to show the unwillingness to go ahead of the pure kingdom.
-
-The President has also called on the opposition leaders in Parliament in discussions with the International Monetary Fund.. He also said his position in Parliament.
-
-There is no need for a new president to be in front of the new President.
-
-The agreements reached with the International Monetary Fund have not been revealed.
-
-Without any discussion, the workers are angry at the tendency to sell profit state institutions to their friends.
-
-The Minister of State has called on the coat today, saying that there is no need to wear national clothing.
-
-...
-
-[Data](articles/2b1e2cc3.json)
-
-[Extended Data](ext_articles/2b1e2cc3.ext.json)
 
 ---

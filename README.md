@@ -1,80 +1,156 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 10:03:32**
+As of **2024-03-11 10:17:56**
 
 ## Newspaper Stats
 
-*Scraped **12,060** Articles*
+*Scraped **12,066** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 115
 bbccomsinhala | 141
-dbsjeyarajcom | 182
+dbsjeyarajcom | 184
 newsfirstlk | 363
 economynextcom | 626
 dailyftlk | 628
 islandlk | 662
 adalk | 1,020
 adaderanalk | 1,461
-tamilmirrorlk | 1,465
+tamilmirrorlk | 1,468
 virakesarilk | 1,645
-dailymirrorlk | 1,846
+dailymirrorlk | 1,847
 adaderanasinhalalk | 1,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,058 (100.0%) of 12,060 articles have been extended.
+12,060 (100.0%) of 12,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### සැකකරුවන් අතරට ගිය පොලිස්පති
+### சிறிதளவு மழை பெய்யக்கூடும்
 
-*2024-03-11 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194368) · `si`
+*2024-03-11 10:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிதளவு-மழை-பெய்யக்கூடும்/175-334488) · `ta`
 
-යුක්තිය මෙහෙයුමේ දෙවැනි අදියර යටතේ නුගේගොඩ පොලිස් කොට්ඨාසයේ වැල්ලම්පිටිය පොලිස් වසමේ අද (11) අලුයම වැටලීමක් සිදුකර තිබිණි.
+கிழக்கு மாகாணத்திலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
 
-එම වැටලීමෙන් අත්අඩංගුවට ගත් සැකකරුවන් වැල්ලම්පිටිය වෙලේවත්ත ක්‍රීඩාංගණයට ගෙන එනු ලැබූ අතර එම ස්ථානයට පොලිස්පති, දේශබන්දු තෙන්නකෝන් මහතා ද ගොස් සිටියේය.
+இரத்தினபுரி, களுத்துறை, காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் நாட்டின் ஏனைய பகுதிகளில் முக்கியமாக வறட்சியான காலநிலை நிலவும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
 
-එහිදී අත්අඩංගුවට ගත් සැකකරුවන් අතර සිටි කාන්තාවකගෙන් පොලිස්පතිවරයා මෙලෙස ප්‍රශ්න කළේය.
+மேல், சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும்.
 
-පොලිස්පතිවරයා - "ඔයා මීට කලින් කී වතාවක් පොලීසියට අහුවෙලා තියෙනවා ද?"
+இதேவேளை, ஹம்பாந்தோட்டையில் இருந்து பொத்துவில் ஊடாக மட்டக்களப்பு வரையான கடற்பிராந்தியங்களில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
 
-සැකකාරිය - "ඔව් සර්. මගේ ළමයි දෙන්නට කන්න දෙන්න මට රස්සාවක් කරන්න බැහැ සර්. දනිස් ඉදිමෙනවා."
-
-පොලිස්පතිවරයා - ඔයාට බැරිද වෙන මොකක් හරි දෙයක් කරන්න. මිනිස්සුන්ට මත්ද්‍රව්‍ය අලෙවි කරන්නේ නැතුව ?
-
-සැකකාරිය - "මම ස්විප් වික්කා සර්... මට පයින් යන්න බැහැ. කකුල් ඉදිමුණා. මට කරගන්න දෙයක් නෑ."
-
-පොලිස්පතිවරයා - "ඔයාට ප්‍රශ්නේ ස්විප් ගන්න ඇවිදින්න බැරි එකද? ස්විප් දුන්නොත් විකුණන්න පුළුවන් ද? ප්‍රජා පොලීසියේ කවුද ඉන්නේ?"
-
-පොලිස්පතිවරයා - "ඔයාට පුළුවන් ද ස්විප් ටික ගේ ගාවට යවන්න වැඩපිළිවෙලක් කරන්න."
+காற்றானது வடகிழக்கு திசையில் வீசும் அதேவேளை, காற்றின் வேகம் மணிக்கு 20-30 கிலோமீற்றர் வேகத்தில் காணப்படும்.
 
 ...
 
-[Data](articles/dfb6ba56.json)
+[Data](articles/2601b97a.json)
 
 ---
 
-### வரட்சியான வானிலை ; நீர் விநியோகத்தில் ஏற்படும் தடங்கல்களை முறையிட அவசர தொலைபேசி  இலக்கம் !
+### 7 விருதுகளை அள்ளிய  ஓபன்ஹெய்மர்
 
-*2024-03-11 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178389) · `ta`
+*2024-03-11 09:58:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/7-விருதுகளை-அள்ளிய-ஓபன்ஹெய்மர்/54-334486) · `ta`
 
-நாட்டில் தொடரும் வரட்சியான வானிலையை அடுத்து நீர் விநியோகத்தில் ஏற்படும் தடங்கல்கள் மற்றும் இடையூறுகளை அறிவிக்க அவசர தொலைபேசி இலக்கமொன்றை தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை பொதுமக்களுக்கு அறிமுகப்படுத்தியுள்ளது.
+ஒஸ்கர் விருது விழாவில் அதிகபட்சமாக 7 விருதுகளை வென்று கிறிஸ்டோபர் நோலன் தனது திரைப்படத்தின் மூலம் தன்னை நிரூபித்துள்ளார்.
 
-நாடளாவிய ரீதியில் தற்போது நிலவும் வறட்சியான வானிலையினால், தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை பல்வேறு பிரதேசங்களில் சீரான நீர் விநியோகத்தை வழங்குவதில் பல்வேறு தடைகளை எதிர்நோக்குகின்றது.
+பாக்ஸ் ஆபிஸில் ஓபன்ஹெய்மர் படத்தை பந்தாடிய பார்பி படம் ஒஸ்கர் விருது விழாவில் ஒரே ஒரு விருது மட்டுமே வென்றது ரசிகர்களை அதிர்ச்சியில் ஆழ்த்தி உள்ளது.
 
-அன்றாடம் நீரின் தேவை அதிகரித்துள்ளமையானது நீர் வழங்கும் நடவடிக்கையில் பல தடங்கல்களை ஏற்படுத்துவதாக தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை தெரிவிக்கின்றது.
+96ஆவது ஒஸ்கர் விருது விழா அமெரிக்காவில் ஞாயிற்றுக்கிழமை இரவு, அதாவது இலங்கை நேரப்படி திங்கட்கிழமை அதிகாலை 4 மணிக்கும் தொடங்கியது.
 
-இதன் விளைவாக நாட்டின் சில பகுதிகளில் குறைந்த அழுத்தத்தில் அல்லது கட்டுப்பாடுகளுடன் நீரை விநியோகிக்க வேண்டியுள்ளதாக நீர்வழங்கல் மற்றும் வடிகாலமைப்பு சபை தெரிவிக்கின்றது.
+முதலில் நடைபெற்ற ரெட் கார்ப்பெட் நிகழ்ச்சியில் பல்வேறு ஹாலிவுட் நடிகைகள் அழகு பதுமைகளாக உடையணிந்துக் கொண்டு விருது விழாவை கண்கவர் நிகழ்ச்சியாக மாற்றினர்.
+
+கிறிஸ்டோபர் நோலன் இயக்கத்தில் சிலியன் மர்பி நடிப்பில் கடந்த ஆண்டு வெளியான ஓபன்ஹெய்மர் திரைப்படம். அணுகுண்டை தயாரித்த ஜே. ராபர்ட் ஓபன்ஹெய்மரின் வாழ்க்கை வரலாறு படமாக உருவானது.
 
 ...
 
+[Data](articles/9edb5d54.json)
+
+---
+
+### IGP who went among the suspects
+
+*2024-03-11 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194368) · `si`
+
+IGP Tennakoon questioned a suspect at Welewatta Stadium, Nugegoda, during a justice operation. The suspect, facing drug charges, claimed to have been caught by the police multiple times and expressed difficulty walking due to swollen legs. Tennakoon suggested the suspect could walk to the police station or use a program to send drugs, and mentioned community policing and infrastructure improvements.
+
+🟩
+
+Under the second phase of justice operation, a raid was held in the Nugegoda Police Division this morning.
+
+The suspects were taken to the Welewatta Stadium in Wellampitiya and the IGP, Deshabandu Tennakoon was also present.
+
+The IGP questioned a woman among the suspects there.
+
+IGP - "How many times have you caught the police earlier?"
+
+Suspect - "Yes sir. Let me eat my kids eat, sir. Danice swollen. "
+
+IGP - Don't you, anything else to do. Instead of selling drugs to people?
+
+Suspect - "I'm Shppy Vicca sir ... I can't go on foot. The legs were swollen. I have nothing to do. "
+
+The IGP - "Isn't you a walk to take the problem to Ship? Who can sell if Swip do?" Who is in the community police? "
+
+The IGP - "You can and make a program to send the slate."
+
+IGP - "Speaking to Lottery Reptection and builds hips to house. The road is being put in courts. "
+
+◼️
+
+[Data](articles/dfb6ba56.json)
+
+[Extended Data](ext_articles/dfb6ba56.ext.json)
+
+---
+
+### Drought weather;Emergency Phone No.
+
+*2024-03-11 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178389) · `ta`
+
+Due to drought, the National Water Supply and Drainage Board faces water supply disruptions. They've introduced an emergency phone number, 1939, to address these issues and promote water supply.
+
+🟩
+
+The National Water Supply and Drainage Board has introduced an emergency telephone number to announce the obstacles and disruption of water supply in the wake of the drought in the country.
+
+Due to the prevailing drought in the country, the National Water Supply and Drainage Board is facing various obstacles in the supply of uniform water in various areas.
+
+The National Water Supply and Drainage Board says that the increase in the demand for water daily has caused many obstacles in the supply of water.
+
+As a result, the Water Supply and Drainage Board reports that some areas of the country have to distribute water with low pressure or restrictions.
+
+In this context, the National Water Supply and Drainage Board has introduced an emergency telephone number 1939 to ease the public's opinions, to promote water supply and to immediately address the disruption of water supply.
+
+◼️
+
 [Data](articles/a54ba2fd.json)
+
+[Extended Data](ext_articles/a54ba2fd.ext.json)
+
+---
+
+### சிவனொளிபாத மலைக்கு தரிசனம் செய்யச் சென்ற பெண் மரணம்
+
+*2024-03-11 09:36:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலைக்கு-தரிசனம்-செய்யச்-சென்ற-பெண்-மரணம்/175-334485) · `ta`
+
+வத்தளை - பகுதியில் இருந்து சிவனொளிபாத மலைக்கு தரிசனம் செய்யச்சென்ற வயோதிபப் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+இவர் நேற்று இரவு தரிசனம் செய்து விட்டு திரும்பும் போது, சியத்த கங்குல பகுதியில் வைத்து திடீரென சுகவீனமுற்றுள்ளார்.
+
+இந்த நிலையில் மஸ்கெலியா மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சிகிச்சை பலனின்றி உயிரிழந்தார் என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி சாந்த வீரசேகர தெரிவித்தார்.
+
+இவ்வாறு மரணித்தவர் வத்தளை பகுதியில் இருந்து தனது குடும்பத்துடன் சிவனொளிபாத மலைக்குச் சென்ற 80 வயதுடைய சுமணாவதி ஆவார்.
+
+சடலம் மஸ்கெலியா மாவட்ட வைத்திய சாலையில் வைக்கப்பட்டுள்ளது. பிரேத பரிசோதனையின் பின் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட உள்ளது என நல்லதண்ணி பொலிஸ் நிலைய பொறுப்பதிகாரி தெரிவித்தார். R
+
+◼️
+
+[Data](articles/83595553.json)
 
 ---
 
@@ -1646,6 +1722,18 @@ The suspects have been produced in court and the Kahathuduwa police are conducti
 
 ---
 
+### Getting busy with Ramazan
+
+*2024-03-10 18:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Getting-busy-with-Ramazan/110-278561) · `en`
+
+As Ramazan, the month of fasting, will start this week, several Muslims were seen in Petta getting busy with their shopping. While buying of clothes is usually done towards the festival of Eid, people were seen getting a head-start, probably since economic conditions have improved from what it was over the last couple of years - Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/27c4ea39.json)
+
+---
+
 ### Navy arrests 22 Indian fishermen, three fishing trawlers
 
 *2024-03-10 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97855/navy-arrests-22-indian-fishermen-three-fishing-trawlers-) · `en`
@@ -2065,103 +2153,5 @@ These uniforms are the responsibility of the Kotles, Zones, Provincial Education
 [Data](articles/602e33f4.json)
 
 [Extended Data](ext_articles/602e33f4.ext.json)
-
----
-
-### A tree collapses for railway line
-
-*2024-03-10 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194349) · `si`
-
-A tree collapses on the railway line between Nawalapitiya and Ginger Oya stations, causing a delay in upcountry trains. Railway employees are removing the tree.
-
-🟩
-
-The railway line was interrupted by the upcountry route to the road between Nawalapitiya and Ginger Oya railway stations.
-
-It is reported that railway employees are engaged in removal of the tree.
-
-As a result, a small delay in the upcountry train will take place.
-
-◼️
-
-[Data](articles/b3c968c0.json)
-
-[Extended Data](ext_articles/b3c968c0.ext.json)
-
----
-
-### Central Postal Exchange employees on strike that the elevator is not working
-
-*2024-03-10 15:58:05* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-සෝපානය-වැඩ-නැතැයි-මධ්‍යම-තැපැල්-හුවමාරුවේ-සේවකයන්-වර්ජනයකට/11-408514) · `si`
-
-Central Mail Exchange employees are on a 24-hour strike, demanding the repair of a disabled elevator in their 8-story building.
-
-🟩
-
-The employees of the Central Mail Exchange have decided to launch a 24-hour token strike from midnight today.
-
-They have decided to propose to propose to repair the disabled lift in the 8 storey building established by the Central Mail Exchange.
-
-The elevator was disabled, but it was reported that the employees had to strive to move around the postgroll building due to the repair of it.
-
-◼️
-
-[Data](articles/85e87cae.json)
-
-[Extended Data](ext_articles/85e87cae.ext.json)
-
----
-
-### “He failed in all aspects of the regime"
-
-*2024-03-10 15:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்சியின்-அனைத்து-அம்சங்களிலும்-அவர்-தோல்வியடைந்தார்/175-334454) · `ta`
-
-The National United Front criticizes former President Gotabhaya Rajapakse's book on his sacking, accusing him of failing in all aspects of his regime, including his egalitarian rule, challenging power, and handling the COVID-19 pandemic. They highlight his unwillingness to acknowledge racism and his dismissal of expert advice.
-
-🟩
-
-The National United Front has said that the book published by former President Gotabhaya Rajapakse on the conspiracy to sack himself is a recent attempt to depict the "run -run president" innocent.
-
-The National United Front said in a statement that the seventh executive president was sacked by the people of Sri Lanka.
-
-“The people have highlighted the lack of his egalitarian rule, his pursuit of challenging power and his liability, responsibility and unwillingness to be portrayed as a racist.
-
-He seemed to have completely forgotten the ambitions of the democratic ambitions of the entire Sri Lanka.Religious intervention was not excluded by the Gotabhaya people - the religious intervention was acting when he gave his name without the cause of the burnt of the Muslims who died due to the burnt of the death of the Kovit 19, ”the statement further stated.
-
-“Instead of listening to the speech of real experts, he decided that he was specialist on various important issues.
-
-...
-
-[Data](articles/442ef2cf.json)
-
-[Extended Data](ext_articles/442ef2cf.ext.json)
-
----
-
-### Three persons including the cab driver of the Rambewa terrible accident remanded
-
-*2024-03-10 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194348) · `si`
-
-In the Rambewa accident, three, including a cab driver, were remanded. Two suspects, arrested on suspicion, were also detained until the 20th. Mihintale police arrested them this morning and brought them to court. The accident resulted in the deaths of three, aged 19, 19, and 21, and two girls were injured and admitted to Anuradhapura Hospital. The suspects fled but were later arrested by Mihintale Police.
-
-🟩
-
-Two suspects arrested on suspicion in the Rambewa area have been remanded until the 20th.
-
-Mihintale police were arrested this morning and produced before the Anuradhapura Magistrate's Court.
-
-Three years old, 19, 19 and 21, three years old and 21 years old died yesterday morning.
-
-The accident had occurred when the suspects were traveling along the cab.
-
-Two girls who were injured in the accident were admitted to Anuradhapura Hospital.
-
-The suspects had fled the area after the accident and the suspects arrested after investigations carried out by the Mihintale Police.
-
-◼️
-
-[Data](articles/e3cb43cb.json)
-
-[Extended Data](ext_articles/e3cb43cb.ext.json)
 
 ---

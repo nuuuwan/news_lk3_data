@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-11 22:17:56**
+As of **2024-03-11 22:33:10**
 
 ## Newspaper Stats
 
-*Scraped **12,223** Articles*
+*Scraped **12,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 628
 economynextcom | 636
 islandlk | 663
 adalk | 1,046
-adaderanalk | 1,479
+adaderanalk | 1,480
 tamilmirrorlk | 1,491
 virakesarilk | 1,678
 dailymirrorlk | 1,865
@@ -26,21 +26,49 @@ adaderanasinhalalk | 1,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,221 (100.0%) of 12,223 articles have been extended.
+12,223 (100.0%) of 12,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-11 (Monday)
 
-### අම්බලන්ගොඩ වෙඩිතැබීමකින් දෙදෙනෙකු මරුට
+### Two killed, 3 injured in Ambalangoda shooting
+
+*2024-03-11 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97880/two-killed-3-injured-in-ambalangoda-shooting) · `en`
+
+Two persons have been killed while another three individuals have been injured in a shooting incident at Galagoda in Ambalangoda.
+
+Police said two gunmen who arrived on a motorcycle had opened fire at them inside a shop at Galagoda using a T56 assault rifle before fleeing the scene.
+
+The three wounded persons have been admitted to Balapitiya Hospital with gunshot injuries.
+
+This is the second shooting reported within just a few hours today.
+
+A short while ago, it was reported that one person has been killed and three others were injured following a shooting incident at Pitigala in Elpitiya this evening.
+
+Incidentally that shooting was also reportedly carried out by two gunmen on a motorcycle using a T56 firearm.
+
+◼️
+
+[Data](articles/ec4832e0.json)
+
+---
+
+### Two killed in Ambalangoda shotling
 
 *2024-03-11 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194397) · `si`
 
-යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් අම්බලන්ගොඩ ගලගොඩ ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී මෙම වෙඩිතැබීම සිදුකර පළාගොස් ඇති බව පොලීසිය පවසයි.
+Two people were killed in a shooting incident in Ambalangoda, involving a motorcycle in the Galagoda area.
+
+🟩
+
+The shooting has fled in a motorcycle in the Galagoda area in the Galagoda area in Ambalangoda.
 
 ◼️
 
 [Data](articles/dd07c3ca.json)
+
+[Extended Data](ext_articles/dd07c3ca.ext.json)
 
 ---
 
@@ -87,6 +115,8 @@ Police suspect that a T-56 firearm was used in this shooting, and the Pitigala p
 ◼️
 
 [Data](articles/c996f486.json)
+
+[Extended Data](ext_articles/c996f486.ext.json)
 
 ---
 
@@ -2307,23 +2337,5 @@ Panadura Chief Magistrate Champika Rajapaksa has given the order.
 [Data](articles/401b80d1.json)
 
 [Extended Data](ext_articles/401b80d1.ext.json)
-
----
-
-### Yall. Car and motorcycle collided with Chavakachcheri A-9 road;Two people injured
-
-*2024-03-11 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178417) · `ta`
-
-Two people on a motorcycle were injured in a head-on collision between a car and a motorcycle on Chavakachcheri A-9 road, Jaffna.
-
-🟩
-
-Two people on a motorcycle were injured when a car and motorcycle collided head-on at the Chavakachcheri A-9 road, Postal Kandor Road, Jaffna.
-
-◼️
-
-[Data](articles/0136ff0a.json)
-
-[Extended Data](ext_articles/0136ff0a.ext.json)
 
 ---

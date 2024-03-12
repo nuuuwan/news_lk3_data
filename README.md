@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 22:33:52**
+As of **2024-03-12 22:50:45**
 
 ## Newspaper Stats
 
-*Scraped **12,486** Articles*
+*Scraped **12,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,506
 tamilmirrorlk | 1,516
 virakesarilk | 1,728
 dailymirrorlk | 1,903
-adaderanasinhalalk | 1,972
+adaderanasinhalalk | 1,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,485 (100.0%) of 12,486 articles have been extended.
+12,486 (100.0%) of 12,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### ඉදිරි ජල සහ විදුලි සැපයුම ගැන දැනුම්දීමක්
+
+*2024-03-12 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194439) · `si`
+
+මේ දිනවල පවතින අධික උණුසුම් කාලගුණය හමුවේ ජලය සහ විදුලිය අරපිරිමැස්මෙන් භාවිත කරන්නැයි ලංකා විදුලිබල මණ්ඩලය සහ ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+ජල සම්පාදන මණ්ඩලය පවසන්නේ තවත් මාස දෙකක පමණ කාලයක් මෙම කාලගුණ තත්ත්වය පැවතියහොත් මුර ක්‍රමයට ජලය නිකුත් කිරීමට සිදුවිය හැකි බවය.
+
+දින ගණනක් තිස්සේ තවමත් රට තුළ පවතින්නේ උණුසුම අධික  කාලගුණ තත්ත්වයකි.
+
+ඒ හේතුවෙන් මේ දිනවල විදුලි ඉල්ලුම ඉහළ ගොස් ඇති බැවින් විදුලිය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ලංකා විදුලිබල මණ්ඩලය ජනතාවගෙන් ඉල්ලා සිටියේය.
+
+◼️
+
+[Data](articles/286820b0.json)
+
+---
 
 ### A female body in the beach
 
@@ -644,21 +662,27 @@ If a permanent political solution is needed, this country is to move economicall
 
 ---
 
-### සජිත් අයි.එම්.එෆ්. නියෝජිතයන් හමුවෙන්න යයි
+### Sajith IMF. The agents to meet
 
 *2024-03-12 18:23:12* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අයි-එම්-එෆ්--නියෝජිතයන්-හමුවෙන්න-යයි/11-408573) · `si`
 
-ඉදිරි දින කිහිපය තුළදී සමගි ජන බලවේගය ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් පිරිසක් හමුවන බව එම පක්ෂයේ නායක, විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Sajith Premadasa, Sri Lanka's Opposition Leader, plans to meet with the IMF to discuss a program aimed at addressing malnutrition in Sri Lanka, particularly affecting mothers and children. He highlights the need for international financial institutions, including the Asian Development Bank, to collaborate on a specialized program to tackle this issue.
 
-එහිදී මෙරට මව්වරු සහ ළමුන් මන්දපෝෂණ තත්ත්වයෙන් මුදවා ගැනීමට ආධාර ලබා දීමේ වැඩසටහනක් ක්‍රියාත්මක කරන ලෙස ඉල්ලීමක් කරන බව සක්වල වැඩසටහ යටතේ 120 වැනි සුහුරු පන්තිකාමරයක් ලබා දීමේ අවස්ථාවට අද (12දා) එක්වෙමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The Leader of the Memorandum of the International Monetary Fund will meet with the International Monetary Fund
 
-"ඉදිරි දින කිහිපය තුළ අපිත් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස් හමුවෙනවා. ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස් වලට අපි යෝජනා කරන්න බලාපොරොත්තු වෙනවා මේ රටේ ළමා, ලදරු සහ මාතෘ මන්දපෝෂණය ඉතාමත්ම  ඉහළ මට්ටමක තිබෙන කාරණවක්. 2022දී කරපු සංගණකදී වයස අවුරුදු 6-18ත් අතර දරුවන්ගෙන් 25%ක් අපේ රටේ ඉන්නේ අඩු බර දරුවන්. තවත් සංඛ්‍යා ලේකන ගණනාවක් තියෙනවා. රටේ මන්දපෝෂණය වර්ධනය වෙමින් තිබෙනවා. මව්වරුන් සහ ලදරුවන් අවධානම් කොට්ඨාසයක් විදියට මේ මන්දපෝෂණ තත්ත්වය නිසා දුක් වද හිංසා විඳිනවා.
+He said that the 120th rehearsal classroom is to provide a supporting program to rescue the assistance of mothers and children in the malnutrition of Sri Lanka.
+
+The Opposition Leader Sajith Premadasa said so.
+
+"In the next few days we meet the International Monetary Fund Representative. We hope to propose to propose to the International Monetary Fund delegation personnel in this country. 25% of the ages of 6-18 people in the same census in 2022 are in the country. There are a number of claims. Malnutrition in the country is developing. Mother and mothers are suffering because of the malnutrition.
 
 ...
 
 [Data](articles/bd9380c4.json)
+
+[Extended Data](ext_articles/bd9380c4.ext.json)
 
 ---
 
@@ -2287,27 +2311,5 @@ In light of Asitha Fernando's injury, Lahiru Kumara has been added to the Sri La
 [Data](articles/4c3c5967.json)
 
 [Extended Data](ext_articles/4c3c5967.ext.json)
-
----
-
-### 1000 retired teachers call back
-
-*2024-03-12 13:36:28* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ගුරුවරු-1000ක්-නැවත-කැඳවති/11-408557) · `si`
-
-Sri Lanka's Cabinet Sub-Committee on National Education Policy has been informed of a high demand for schools. President Ranil Wickremesinghe has ordered the recruitment of 1,000 qualified teachers for a three-year emergency period. This includes 1,100 English-medium graduates and 400 teachers from the English medium training program.
-
-🟩
-
-Since there is a great demand society in Sri Lanka, the number of schools in the Cabinet Sub-Committee on National Education Policy was informed yesterday.
-
-President Ranil Wickremesinghe instructed to obtain the work of this work as soon as the emergency requirement of the emergency of this process and recruit 1,000 qualified recruits for three years of emergency.Among the opening examination, 1,100 graduates who teach English in the English medium have been recruited.
-
-It will also include 400 teachers who have to leave the training of teachers from the English medium.
-
-◼️
-
-[Data](articles/06deb928.json)
-
-[Extended Data](ext_articles/06deb928.ext.json)
 
 ---

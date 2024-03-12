@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 12:49:12**
+As of **2024-03-12 13:02:58**
 
 ## Newspaper Stats
 
-*Scraped **12,357** Articles*
+*Scraped **12,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 677
 adalk | 1,051
 adaderanalk | 1,492
 tamilmirrorlk | 1,505
-virakesarilk | 1,701
+virakesarilk | 1,703
 dailymirrorlk | 1,885
 adaderanasinhalalk | 1,949
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 1,949
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,353 (100.0%) of 12,357 articles have been extended.
+12,357 (100.0%) of 12,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### சற்று முன் வெடுக்குநாறி மலை ஆதிசிவன் ஆலய பூசகர் உள்ளிட்ட 8 பேர் மீதான விசாரணை நீதிமன்றில்
+
+*2024-03-12 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178515) · `ta`
+
+வவுனியா வடக்கு, வெடுக்குநாறி ஆதி சிவன் ஆலய பூசகர் உள்ளிட்ட 8 பேரும்  12 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்ட நிலையில் இன்று செவ்வாய்க்கிழமை (12)  வவுனியா நீதிமன்றில் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டு நடைபெற்றுக்கொண்டிருக்கின்றது.
+
+சிவராத்திரி தினத்தன்று வவுனியா வடக்கு வெடுக்குநாறி ஆதி சிவன் ஆலயத்தில் பூஜை வழிபாடுகள் இடம்பெற்ற போது சப்பாத்துக் கால்களுடன் ஆலயத்திற்குள் நுழைந்த பொலிஸார் ஆலய பூசகர் உள்ளிட்ட 8 பேரை கைது செய்து தடுத்து வைத்திருந்தனர்.
+
+குறித்த 8 பேரையும் வவுனியா நீதவான் நீதிமன்றில் நெடுங்கேணி பொலிஸார் கடந்த (09) மாலை முன்னிலைப்படுத்தினர். இதன்போது ஆலய  பூசகர் உள்ளிட்ட 8 பேர் சார்பாக சட்டத்தரணிகளான க.சுகாஸ், தி.திருஅருள், அ.திலீப்குமார் உள்ளிட்ட குழுவினர் மன்றில் ஆஜராகியிருந்தனர்.
+
+...
+
+[Data](articles/2c15031c.json)
+
+---
+
+### தாய்லாந்து, பாகிஸ்தான் தூதுவர்கள் ஜனாதிபதியிடம் நற்சான்றுப் பத்திரங்கள் கையளிப்பு !
+
+*2024-03-12 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178513) · `ta`
+
+தாய்லாந்து மற்றும் பாகிஸ்தான் நாடுகளின் இலங்கைக்கான புதிய தூதுவர்களாக நியமிக்கப்பட்டுள்ளவர்கள் தங்களது நற்சான்றுப் பத்திரங்களை ஜனாதிபதியிடம் கையளித்துள்ளனர்.
+
+தாய்லாந்தின் இலங்கைக்கான புதிய தூதுவராக நியமனம் பெற்றிருக்கும் பைட்டூன் மஹாபன்னபோர்ன் (H. E. Paitoon Mahapannaporn) மற்றும் பாகிஸ்தான் இஸ்லாமியக் குடியரசின் உயர்ஸ்தானிகராக நியமனம் பெற்றிருக்கும் மேஜர் ஜெனரல் (H.E. Major General (R) Faheem Ul Aziz, HI (M)), ஆகியோர் கொழும்பு, கோட்டையிலுள்ள ஜனாதிபதி மாளிகையில், ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம்  தங்களது நற்சான்றுப் பத்திரங்களைக் கையளித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0d9e3a65.json)
+
+---
 
 ### Draft Bill facilitating Parate Law suspension to be gazetted
 
@@ -50,25 +80,35 @@ As per the Cabinet’s decision, the banks’ practice of acquiring properties o
 
 [Data](articles/8e05b30e.json)
 
+[Extended Data](ext_articles/8e05b30e.ext.json)
+
 ---
 
-### NSBM ආයතනයට වෛද්‍ය පීඨයක්
+### NSBM has a medical faculty
 
 *2024-03-12 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194413) · `si`
 
-සීමාසහිත ජාතික ව්‍යාපාර කළමනාකාරිත්ව විද්‍යායතනය (NSBM) යටතේ වෛද්‍ය පීඨයක් ස්ථාපිත කිරීමට සහ එමඟින් MBBS උපාධිය පිරිනැමීමට යෝජනා වී තිබේ.
+NSBM plans to establish a Medical Faculty offering MBBS degrees, with annual recruitment of 500 local and foreign students. The institute seeks government hospital status for clinical training, supported by Cabinet approval for Homagama Institute development.
 
-අධ්‍යාපන අමාත්‍යාංශයේ, සෞඛ්‍ය අමාත්‍යාංශයේ සහ ශ්‍රී ලංකා වෛද්‍ය සභාවේ සෘජු අධීක්ෂණය සහ නියාමනය යටතේ එම වෛද්‍ය උපාධිය පිරිනැමීමට නියමිතය.
+🟩
 
-එම උපාධි පාඨමාලාව සඳහා වාර්ෂිකව දේශීය හා විදේශීය සිසුන් 500ක් බඳවාගැනීමට අපේක්ෂිත ය.
+The National Institute of Business Management (NSBM) has been proposed to establish a Medical Faculty and provide a MBBS degree.
 
-හෝමාගම මූලික රෝහල එම වෛද්‍ය සිසුන් සඳහා සායනික පුහුණුව ලබා දීමට සුදුසු රජයේ රෝහලක් වශයෙන් වෙන් කිරීම පිණිස NSBM ආයතනය විසින් අනුමැතිය ඉල්ලා ඇත.
+It is to be awarded the Medicine Degree under the Ministry of Education, the Ministry of Health and the Sri Lanka Medical Council.
 
-ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ වෛද්‍ය සිසුන්ගේ සායනික පුහුණුව සඳහා හෝමාගම මූලික රෝහල භාවිත කිරීම පිණිස අමාත්‍ය මණ්ඩල අනුමැතිය දැනටමත් ලබා දී ඇති බැවින්, ඊට බලපෑමක් නොවන පරිදි NSBM ආයතනයේ වෛද්‍ය පීඨ සිසුන්ගේ සායනික පුහුණුවට මෙන්ම මහාචාර්ය ඒකක පහසුකම් සඳහා ද සම්පත් බෙදා ගැනීමේ පදනම මත හෝමාගම මූලික රෝහල වෙන් කර දීමේ යාන්ත්‍රණයක් සකස් කිරීමට යෝජනා වී තිබේ.
+Annually 500 local and foreign students will be recruited annually to the degree program.
+
+The NSB has requested the approval to be allocated as a government hospital to provide clinical training for these medical students.
+
+Cabinet approval has already been provided to the clinical training of the Homagama Institute of Medical Students, as well as the development of the Homagama Institute of Medical Faculty, as well as the development of the Homagama Institute of Medical Faculty has been allocated for the development of the Homagama Institute.It is proposed to prepare a giving mechanism.
+
+NSBM has agreed to provide funds for the development of Homagama Base Hospital in accordance with the Sri Lanka Medical Education Standards Standards.
 
 ...
 
 [Data](articles/4f04b39b.json)
+
+[Extended Data](ext_articles/4f04b39b.ext.json)
 
 ---
 
@@ -2194,6 +2234,8 @@ It was a little past noon when we reached the Uda Walawe National Park. We were 
 
 [Data](articles/59f47c8e.json)
 
+[Extended Data](ext_articles/59f47c8e.ext.json)
+
 ---
 
 ### Americans advised to bury their gold, while ours is in pawnshops
@@ -2227,47 +2269,5 @@ The Online Safety law and the Anti-Terrorism Bill are two important building blo
 [Data](articles/953bf963.json)
 
 [Extended Data](ext_articles/953bf963.ext.json)
-
----
-
-### Jobs of 6,000 employees uncertain if SriLankan unable to show progress within six months: Minister
-
-*2024-03-11 23:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jobs-of-6-000-employees-uncertain-if-SriLankan-unable-to-show-progress-within-six-months-Minister/108-278660) · `en`
-
-Colombo, March 11 (Daily Mirror) - The jobs of about 6,000 employees are uncertain if SriLankan Airlines is unable to show progress of its operational and financial units within the next six months, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-A discussion on the current progress of the airline was held with the company administration and the trade unions at his office this morning.
-
-Sri Lanka Airlines was blamed and subjected to extensive criticism due to its constant delays in operations from time to time. The delays annoyed passengers and inconvenienced them in the recent past.
-
-Minister de Silva said the government decided to repay USD 510 million out of the USD 1.2 billion in loans borrowed from several commercial banks and other institutions to enable the airline to continue its operations.
-
-The decision was taken after a proposal made by President Ranil Wickremesinghe in his capacity as the Finance Minister.
-
-...
-
-[Data](articles/c3532323.json)
-
-[Extended Data](ext_articles/c3532323.ext.json)
-
----
-
-### Westminster Foundation for Democracy Regional Director calls on Speaker
-
-*2024-03-11 23:11:59* · [`dailyftlk`](https://www.ft.lk/news/Westminster-Foundation-for-Democracy-Regional-Director-calls-on-Speaker/56-759355) · `en`
-
-Westminster Found-ation for Democracy Asia-Pacific and America Regional Director Matthew Hedges met with the Speaker Mahinda Yapa Abeywardana in Parliament recently.
-
-Secretary General of Parliament Kushani Rohanadeera and the Westminster Foundation for Democracy Country Director Sanje Vignaraja, also attended the meeting.
-
-The contributions of the Westminster Foundation for Democracy, which works closely with the Parliament of Sri Lanka and its Committees such as the Committee on Public Finance (CoPF), the Committee on Public Enterprises (COPE) and the Committee on Public Accounts (COPA) was appreciated by the Speaker.
-
-The Speaker stated that this has made it possible to further strengthen democracy and expressed his gratitude for this support and noted that he expects the same support in the future as well.
-
-...
-
-[Data](articles/97b885c2.json)
-
-[Extended Data](ext_articles/97b885c2.ext.json)
 
 ---

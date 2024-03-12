@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 22:04:25**
+As of **2024-03-12 22:17:43**
 
 ## Newspaper Stats
 
-*Scraped **12,484** Articles*
+*Scraped **12,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,75 @@ adaderanalk | 1,506
 tamilmirrorlk | 1,516
 virakesarilk | 1,728
 dailymirrorlk | 1,903
-adaderanasinhalalk | 1,971
+adaderanasinhalalk | 1,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,478 (100.0%) of 12,484 articles have been extended.
+12,484 (100.0%) of 12,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### மட்டக்குளியில் துப்பாக்கிச்சூடு
+### මුහුදු වෙරළ තුළ කාන්තා සිරුරක්
+
+*2024-03-12 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194438) · `si`
+
+බේරුවල මාගල්කන්ද මුහුදු වෙරළ ප්‍රදේශයේ තිබී කාන්තා මළසිරුරක් හමුවී තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ අද (12) රාත්‍රී 09ට පමණ කාන්තා මළසිරුර හමුවී ඇති බවය.
+
+වයස අවුරුදු 30ක පමණ වන කාන්තා සිරුරක් එලෙස මුහුදු වෙරළට ගොඩගසා ඇති බවත් ඇයගේ අනන්‍යතාව පිළිබඳව කිසිඳු තොරතුරක් හෙළිවී නොමැති බවත් පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/c4d21f8e.json)
+
+---
+
+### Shooting
 
 *2024-03-12 21:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்குளியில்-துப்பாக்கிச்சூடு/175-334570) · `ta`
 
-இன்று பிற்பகல் மோட்டார் சைக்கிளில் வந்த இருவர் இந்த துப்பாக்கிச் சூட்டினை மேற்கொண்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர். R
+Two men on a motorcycle were shot at and fled this afternoon.
+
+🟩
+
+Police said that two men on a motorcycle flew this afternoon after the firing.. Remble
 
 ◼️
 
 [Data](articles/34dd385c.json)
 
+[Extended Data](ext_articles/34dd385c.ext.json)
+
 ---
 
-### මට්ටක්කුලියේ වෙඩිතැබීමෙන් පසු ගෙවල් 4කට පහරදෙයි
+### Four houses attacked in Mattakkuliya
 
 *2024-03-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194437) · `si`
 
-අද (12) පස්වරු 5.50ට පමණ මට්ටකුලිය ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීම සඳහා ඉලක්කය වූ පුද්ගලයා ඉන් ජීවිතය බේරාගත් පසු ඔහුගේ පාර්ශ්වයෙන් ගොස් නිවාස 4කට පහරදී ඇති බව වාර්තා වෙයි.
+In Mattakkuliya, four houses were attacked around 5.50 pm. The incident involved shooting at a resident of Aliwaththa area, targeting a 24-year-old named Ashan Maduranga.
 
-මෙලෙස ප්‍රහාරය එල්ල කර ඇත්තේ වෙඩිතැබීම සිදුවූ අලිවත්ත ප්‍රදේශයේම නිවාස කිහිපයක් වෙතය.
+🟩
 
-සිද්ධියට මුහුණ දුන් පාර්ශ්වය චෝදනා කරන්නේ අදාළ වෙඩිතැබීම තම පාර්ශ්වයෙන් සිදුවූ බව පවසමින් මෙම ප්‍රහාරය සිදුකළ බවය.
+The target was to shoot life in the Matulkuliya area around 5.50 pm, reports say that he had been assaulted by 4 houses.
 
-අද පස්වරු 5.50 ට පමණ මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේ  නිවසකට ස්කුටර් වර්ගයේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු තරුණයෙකු ඉලක්ක කර වෙඩිතබා තිබුණි.
+The attack on several houses in the Aliwaththa area in the area.
 
-අශාන් මදුරංග නැමති 24 හැවිරිදි පුද්ගලයෙකු වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත.
+The party accused the incident that the attack was carried out by saying that the shooting had taken place on his party.
+
+Two people in the Alwatawatta, Mattakuliya area in Mattakuliya, was targeted at a resident of the Alikalkuliya.
+
+A 24-year-old was the target of Ashan Maduranga.
 
 ◼️
 
 [Data](articles/b978dcb2.json)
+
+[Extended Data](ext_articles/b978dcb2.ext.json)
 
 ---
 
@@ -80,17 +108,25 @@ The Health Ministry also emphasized the importance of addressing this issue comp
 
 [Data](articles/b54ea265.json)
 
+[Extended Data](ext_articles/b54ea265.ext.json)
+
 ---
 
-### ஹாலி - எலவில் வீடு ஒன்றின் மீது வீழ்ந்த 50 கிலோ நிறையுடைய பனிக்கட்டி!
+### Holly - 50kg of ice that fell on a house in Elville!
 
 *2024-03-12 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178564) · `ta`
 
-ஹாலி - எல மெதகம கிராம சேவகர்  பகுதியில் உள்ள வீடொன்றின் கூரை மீது செவ்வாய்க்கிழமை (12) சுமார் 50 கிலோகிராம் எடையுள்ள பனிக்கட்டி ஒன்று வீழ்ந்துள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+A 50kg ice block fell on a house in Elville, causing a roof to collapse. The Badulla District Disaster Management Center reported this incident on Tuesday.
+
+🟩
+
+The Badulla District Disaster Management Center said that a roof of a house in the Hali - Ella Medagama Grama Sevakar area has fallen on a roof of about 50 kilograms on Tuesday (12).
 
 ◼️
 
 [Data](articles/33e228ef.json)
+
+[Extended Data](ext_articles/33e228ef.ext.json)
 
 ---
 
@@ -112,21 +148,29 @@ The day after the tragedy, the Ottawa Police Service (OPS) called the killings a
 
 [Data](articles/d21d64de.json)
 
+[Extended Data](ext_articles/d21d64de.ext.json)
+
 ---
 
-### மட்டக்குளியில் துப்பாக்கிப் பிரயோகம்!
+### Shooting in Mattakkuli!
 
 *2024-03-12 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178563) · `ta`
 
-கொழும்பு -15 மட்டக்குளிய பிரதேசத்தில் செவ்வாய்க்கிழமை (12) துப்பாக்கிச் சூட்டுச் சம்பவம் ஒன்று இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A shooting incident in Mattakkuli, Colombo, resulted in two motorcycle riders being killed, with no injuries reported.
 
-எவ்வாறாயினும் இந்தச் சம்பவத்தில் எவருக்கும் காயம் ஏற்படவில்லை என பொலிஸார் மேலும் தெரிவித்தனர்.
+🟩
 
-மோட்டார் சைக்கிளில் வந்த இருவரினால் மட்டக்குளி அலிவத்த பிரதேசத்தில் துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+A shooting incident took place in the Colombo -15 Mattakkuliya area on Tuesday (12), police said.
+
+However, no one was injured in the incident, police said.
+
+Two people on a motorcycle have been shot dead in Mattakkuli Alivatta area.
 
 ◼️
 
 [Data](articles/db4a941c.json)
+
+[Extended Data](ext_articles/db4a941c.ext.json)
 
 ---
 
@@ -2265,33 +2309,5 @@ The Pakistani navy said that the bodies of Narayar were recovered on Monday.. Th
 [Data](articles/adb84b69.json)
 
 [Extended Data](ext_articles/adb84b69.ext.json)
-
----
-
-### End the robbery economy and corrupt politics - the national people's power
-
-*2024-03-12 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178522) · `ta`
-
-The National People's Power has mobilized to end corrupt politics and the predatory economy, aiming to create a country free from political parties and injustice. Women, as a unifying force, are leading this movement, emphasizing the need for a peaceful, cooperative, and independent culture.
-
-🟩
-
-We have mobilized in the reality of the city, ending the country's predatory economy and corrupt politics.The National People's Power National Executive Committee member Saroja Savitri Bolraj said that those who have so far ruled the country have divided us and ruled them for their lineage.
-
-The Colombo District Women's Conference of the National People's Power was held recently in Homagama.
-
-Speaking here, National Executive Committee member of the National People's Power, Saroja Savitri Bolraj said the above.
-
-To this end, the dream of all the social, economic and political degradation that the country has ruled by the country has been dissolved.
-
-We have been mobilized to create a country that can forget the political parties that have been imprisoned so far and create a country that can breathe freely for our children.
-
-The corrupt political system that prevails the cultural and social freedom of the rest of the world has lost.
-
-...
-
-[Data](articles/3019ecf0.json)
-
-[Extended Data](ext_articles/3019ecf0.ext.json)
 
 ---

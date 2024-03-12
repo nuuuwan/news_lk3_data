@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 07:53:01**
+As of **2024-03-12 08:02:50**
 
 ## Newspaper Stats
 
-*Scraped **12,288** Articles*
+*Scraped **12,289** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 119
-bbccomsinhala | 141
+bbccomsinhala | 142
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,287 (100.0%) of 12,288 articles have been extended.
+12,288 (100.0%) of 12,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### උඩරට වෙස් ඇඳුම ලෝක උරුමයක් කරන්න තීරණයක්
+### Upcountry mask dress is a decision to make a World Heritage
 
 *2024-03-12 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194403) · `si`
 
-‍උඩරට වෙස් ඇඳුම් කට්ටලය ලෝක උරුමයක් බවට පත් කිරීමට පියවර ගන්නා බව බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විඳුර වික්‍රමනායක මහතා පවසයි.
+The Minister of Buddha Wickramanayaka plans to elevate the Upcountry Masters to a World Heritage Site, aiming to preserve Sri Lanka's cultural heritage for future generations.
 
-උඩුගං බලා යන මෙරට සංස්කෘතික උරුමය මතු පරපුරට දායාද කිරීම සඳහා සංස්කෘතික සංගායනාවක අවශ්‍යතාව පවතින බව අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-මහජන සේවකයින් වන දේශපාලනඥයින් පෙරහරින් වැඩම කරවීම අත්හැරිය යුතු බව ද මාතලේ බෞද්ධ මන්දිරයේ පැවති වැඩසටහනකදී අමාත්‍ය විඳුර වික්‍රමනායක මහතා පැවසීය.
+Minister of Buddha Wickramanayaka says that steps will be taken to make up the Upcountry Masters into a World Heritage Site.
+
+The Minister said that the Sri Lankan cultural heritage is to be given to the next generation, the Minister said.
+
+Minister of Church was held at the Matale Buddhist House, that public workers, should be resorted to the process of preservation.
 
 ◼️
 
 [Data](articles/9884d685.json)
+
+[Extended Data](ext_articles/9884d685.ext.json)
 
 ---
 
@@ -223,6 +229,26 @@ The suspects arrested for drugs related to drugs include 18 suspects from the li
 [Data](articles/4d6c2cc2.json)
 
 [Extended Data](ext_articles/4d6c2cc2.ext.json)
+
+---
+
+### උතුරේ හමුදා කඳවුරු සීමා තුළ නිදහස් නොකළ ආගමික ස්ථාන  කීයක් තිබේද?
+
+*2024-03-12 02:07:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2y77qzwy1o) · `si`
+
+උතුරේ හමුදා කඳවුරු සීමා තුළ නිදහස් නොකළ ආගමික ස්ථාන  කීයක් තිබේද?
+
+වසර 34 කට ආසන්න කාලයක් උතුරේ හමුදා කඳවුරු සීමා තුළ පැවති සිවිල් ජනතාව භාවිතා කළ කෝවිල් හතක පූජා පැවැත්වීම සඳහා පමණක් ගමන් කිරීමට යුද හමුදාව පසූගියදා යාපනය වලිකාමම් ජනතාවට අවසර ලබා දී තිබුණි.
+
+උතුරු සහ නැගෙනහිර පළාත්වල ජනතාව බලධාරීන්ගෙන් ඉල්ලා සිටින්නේ  හමුදා කඳවුරු ආශ්‍රිතව පිහිටි කෝවිල් හා කතෝලික දේවස්ථාන ආශ්‍රිත ඉඩම් මුදා හරින ලෙසය.
+
+සතියකට එක් දිනක් හා කෝවිල්වල විශේෂ පූජාවන් පැවැත්වෙන අවස්ථාවන්හි දී පමණක් කෝවිල් සීමාව වෙත සිවිල් ජනතාව වෙත ගමන් කිරීමට අවසර ලබාදී ඇති අතර යාපනය දිස්ත්‍රික් ලේකම් කාර්යාලයේ ලියාපදිංචි අවසරයක් ලබා ගැනීමෙන් පසුව, යුදහමුදා පරීක්ෂා කිරීම්වලින් අනතුරුව කෝවිල් පූජාවන් වෙනුවෙන් සීමිත පිරිසකට ගමන් කිරීමට අවසරය ලබාදී ඇති බව වලිකාමම් ජනතාව පවසති.
+
+කෝවිල් තුළ පූජාවන්ට අවශ්‍ය භාණ්ඩ පමණක් රැගෙන යාමට අවසරය ලබාදී ඇති අතර, තමන්ගේ දුරකථන පවා යාපනය අධි ආරක්ෂිත කලාපය තුළ පිහිටි කෝවිල් තුළට රැගෙන යාමට අවසර නොලැබෙන බව වලිකාමම් ජනතාව ප්‍රකාශ කළහ.
+
+...
+
+[Data](articles/93fe6277.json)
 
 ---
 
@@ -2177,33 +2203,5 @@ Parents asked for information about the student to contact 077-4722506. Remble
 [Data](articles/640db7e3.json)
 
 [Extended Data](ext_articles/640db7e3.ext.json)
-
----
-
-### Student death of Marathon;Tension in front of the hospital in Siroil
-
-*2024-03-11 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178439) · `ta`
-
-A 16-year-old student died after a Marathon in Tirukovil, leading to protests and tension. Initially treated at Tirukovil hospital, he was transferred to Akkaraipattu Base Hospital due to inadequate medical equipment. Police are investigating.
-
-🟩
-
-The death of a student who ran a Marathon in the Tirukovil area took place on Monday (11).
-
-Vidarshan, a 16 -year -old student from the Mission Tamil Maha Vidyalaya, who was killed in the Tirukovil, died.
-
-The student who attended the Marathon race this morning went to the classroom when the competition was completed. It is reported that he went to the hospital for treatment at Tirukovil, claiming to be caught in the stomach and later undergoing emergency treatment.
-
-However, inadequate treatments, including CPR treatment for him, have been taken up.Hospital sources said that due to the lack of adequate medical equipment, the concern was not immediately transferred to the resource hospital.
-
-The body of the deceased student has been placed at the Akkaraipattu Base Hospital and further investigations are being carried out by the police in Tirukovil.
-
-Students and youth are protesting in front of the hospital's resource hospital at the hospital.
-
-...
-
-[Data](articles/7dca2866.json)
-
-[Extended Data](ext_articles/7dca2866.ext.json)
 
 ---

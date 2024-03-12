@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 02:33:42**
+As of **2024-03-13 02:49:53**
 
 ## Newspaper Stats
 
-*Scraped **12,508** Articles*
+*Scraped **12,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 120
 bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 641
+dailyftlk | 644
 economynextcom | 666
 islandlk | 677
 adalk | 1,070
 adaderanalk | 1,509
 tamilmirrorlk | 1,518
-virakesarilk | 1,736
+virakesarilk | 1,738
 dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
@@ -26,25 +26,115 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,507 (100.0%) of 12,508 articles have been extended.
+12,508 (100.0%) of 12,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### சமுத்திர பாதுகாப்பு தொடர்பான விழிப்புணர்வு செயற்பாடுகளை முன்னெடுப்பது குறித்து அவுஸ்திரேலிய நிபுணர்கள் குழாம் வடக்கு மாகாண ஆளுநருடன் கலந்துரையாடல்
+### மாற்றுத்திறனாளியின் உயிரை குடித்த கனடா வீசா - தெல்லிப்பழையில் சம்பவம்!
+
+*2024-03-13 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178574) · `ta`
+
+கால் நடக்க முடியாத மாற்றுத் திறனாளி ஒருவர் தவறான முடிவெடுத்து திங்கட்கிழமை (11) கிணற்றில் விழுந்து உயிரை மாய்த்துள்ளார். அக்குடுவன, கொல்லங்கலட்டி, தெல்லிப்பழை பகுதியைச் சேர்ந்த தனபாலசுப்பிரமணியம் சுஜீவன் (வயது 32) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபரின் சகோதரி ஒருவர் கனடாவில் வசித்து வருகிறார். இந்நிலையில் இறந்த நபருக்கும், அவரது தாயாருக்கும் கனடாவுக்கான சுற்றுலா விசா கிடைத்துள்ளது. ஆனால் குறித்த நபருக்குக் கனடா செல்வதில் விருப்பம் இருக்கவில்லை.
+
+இந்நிலையில் அவர் தனது சக்கர நாற்காலியைக் கிணற்றுக்கு அருகே நிறுத்திவிட்டு கிணற்றில் பாய்ந்து தற்கொலை செய்துள்ளார். இந்நிலையில் அவரது சடலம் மீட்கப்பட்டு தெல்லிப்பழை வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டு, பின்னர் அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டது.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் செவ்வாய்க்கிழமை (12) உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/6f69b122.json)
+
+---
+
+### UNP ‘Sebewa’ rally a farce claims Marikkar
+
+*2024-03-13 02:27:54* · [`dailyftlk`](https://www.ft.lk/news/UNP-Sebewa-rally-a-farce-claims-Marikkar/56-759406) · `en`
+
+Samagi Jana Balawegaya (SJB) MP S.M Marikkar at the  media briefing yesterday shows a video clip of President Ranil Wickremesinghe at the UNP election rally at Kuliyapitiya on Sunday
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said the inaugural United National Party (UNP) rally held in Kuliyapitiya on Sunday was nothing but a farce.
+
+He alleged that the UNP had gathered its Local Government candidates from across the country to Kuliyapitiya on the day, likening the rally to a farce, akin to the UNP leader’s assertion in 2017 that a Volkswagen assembly plant would be established in Kuliyapitiya.
+
+Marikkar pointed out that despite Wickremesinghe’s extensive travels across the country over the past 17 months and his promises to establish various investment and tourism zones, no tangible progress has been made yet.
+
+...
+
+[Data](articles/0a20b4a3.json)
+
+---
+
+### Japanese grant worth Rs. 3.3 b to extend humanitarian aid amid economic woes
+
+*2024-03-13 02:26:46* · [`dailyftlk`](https://www.ft.lk/news/Japanese-grant-worth-Rs-3-3-b-to-extend-humanitarian-aid-amid-economic-woes/56-759405) · `en`
+
+The Cabinet of Ministers approved to sign the exchange papers and other relevant documents with the Government of Japan to obtain a grant of Japanese Yen 1,600 million (around Rs. 3.3 billion) to provide immediate humanitarian assistance for the communities impacted by the ongoing economic crisis and to empower the State sector for upgrading the economic situation of the country.
+
+The funds are extended under the Japanese Economic and Social Development Program which will support the initiatives of i) Enhancing response and management for oil spills by the Sri Lanka Coastal Defence Force, ii) Providing equipment to improve maternal and infant care in major hospitals of the Northern province, along with equipment for garment courses at vocational training centres in the same province and iii) Supplying equipment to enhance the security of fishermen in the Northern and Eastern provinces.
+
+...
+
+[Data](articles/ba8a94bc.json)
+
+---
+
+### Colombo-based charity Lure Foundation cushions plight of people in Gaza
+
+*2024-03-13 02:26:27* · [`dailyftlk`](https://www.ft.lk/news/Colombo-based-charity-Lure-Foundation-cushions-plight-of-people-in-Gaza/56-759404) · `en`
+
+Lure Foundation, a Colombo-based charity organisation in Sri Lanka, has taken steps to cushion the plight of the people struggling without blankets and food, and extended aid for the ongoing humanitarian crisis in Gaza, Palestine.
+
+Gaza is on the brink of leaping into famine, with a lack of adequate water, hygiene, and privacy.
+
+As per UNFPA over 690,000 menstruating women and girls have limited access to menstrual hygiene products, aggravating the risk of reproductive and urinary tract infections.
+
+Lure Foundation Founder Aisha Althaf penned a message to all Palestinian women, “There is light ahead of the tunnel, don’t lose hope. The Colombo-based charity, has allocated funds for hygiene kits and pads, looking to expand to help women combat issues with their menstrual cycle, in Gaza.” Althaf expressed that the Palestinian crisis drove her to founding the idea of the Lure Foundation.
+
+...
+
+[Data](articles/6a11bd7d.json)
+
+---
+
+### வேட்டைக்குச் சென்றவர் பலி; ஒருவர் கைது!
+
+*2024-03-13 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178573) · `ta`
+
+இந்தச் சம்பவம் செவ்வாய்க்கிழமை (12) மாலை ஓட்டமாவடி - மஜ்மா நகர் பகுதியில் வைத்து இடம்பெற்றுள்ளது.
+
+நண்பர்கள் இருவர் வேட்டைக்கு சென்ற போது அவர்கள் பயன்படுத்திய வேட்டைத் துப்பாக்கி தவறுதலாக வெடித்ததில் இளைஞன் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணைகளின் போது தெரிய வந்துள்ளது.
+
+இந்த சம்பவத்தில் ஓட்டமாவடி - நாவலடி பகுதியைச் சேர்ந்த 30 வயதுடைய இம்தியாஸ் எனும் இளைஞன் பலியாகியுள்ளதுடன், அவருடன் வேட்டைக்குச் சென்ற நபர் வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2b15c132.json)
+
+---
+
+### Australian experts discussed with the Governor of the Northern Province on the carrying out awareness activities on sea security
 
 *2024-03-13 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178572) · `ta`
 
-சமுத்திர பாதுகாப்பு தொடர்பான விழிப்புணர்வு செயற்பாடுகளை முன்னெடுப்பதற்கான ஆரம்பகட்ட கள ஆய்வில் ஈடுபட்டுள்ள அவுஸ்திரேலிய நிபுணர்கள் குழாம், வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் அவர்களை செவ்வாய்க்கிழமை (12) மாலை சந்தித்து கலந்துரையாடினர்.
+Australian experts met with the Northern Province's Governor to discuss awareness activities on sea security, including biological activities, security, health, tourism, infrastructure, fishing, and virgin removal.
 
-இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகராலயத்தின் அரசியல் மற்றும் பொருளாதார துறையின் முதலாம் நிலை செயலாளரின் தலைமையில் குறித்த நிபுணர்கள் குழாம்  ஆளுநரைச் சந்தித்து கலந்துரையாடினர்.
+🟩
 
-வடக்கு மாகாண மக்களின் தற்போதைய வாழ்வியல் செயற்பாடுகள், பாதுகாப்பு, சுகாதாரம், சுற்றுலாத்துறை, உட்கட்டமைப்பு வசதிகள், சமுத்திர பாதுகாப்பு, கடற்றொழில் செயற்பாடுகள், கன்னிவெடி அகற்றுதல் உள்ளிட்ட பல விடயங்கள் தொடர்பில் அவுஸ்திரேலிய நிபுணர்கள் குழாம்,  ஆளுநரிடம் கேட்டறிந்துக்கொண்டனர்.
+Australian experts are involved in the preliminary field study to carry out awareness activities on the safety of the ocean. Charles met them on Tuesday evening (12).
+
+Experts met with the Governor of the Australian High Commission for the Australian High Commission for Sri Lanka, headed by the first Secretary of the Department of Political and Economic Sector.
+
+Australian experts have asked the Governor on a number of issues including the current biological activities of the people of the Northern Province, security, health, tourism, infrastructure, ocean security, fishing activities and virgin removal.
 
 ◼️
 
 [Data](articles/3c5f2380.json)
+
+[Extended Data](ext_articles/3c5f2380.ext.json)
 
 ---
 
@@ -2191,133 +2281,5 @@ However, Indian authorities say that Indian citizenship can be applied on online
 [Data](articles/163016d6.json)
 
 [Extended Data](ext_articles/163016d6.ext.json)
-
----
-
-### Threaten for National Security
-
-*2024-03-12 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178531) · `ta`
-
-Donald Trump criticized the ban on Dictock as a threat to national security, suggesting it could have been implemented during his presidency but should be done by Congress. He also noted that the ban would increase support for the face of the people as the enemy of the people, highlighting both benefits and drawbacks of Dictock.
-
-🟩
-
-Former President Donald Trump has referred to the enemy of the people of the face of the people.
-
-Donald Trump, who has said that Dictock is a threat to the security of the United States, however, I will not support it?If it is banned, the support of the people will increase the support of the people.
-
-In the CNBC interview, Trump replied that we should accept that we are protecting the people and data rights of the American people.
-
-Trump first supported the ban in the US in the United States.
-
-Asked why you retreated from the position of banning the dictokin, it could have been banned during my tenure but the Congress should do it.
-
-Trump has also noted that the ban on Dictok will increase support for the face of the criticism of the people as the enemy of the people.
-
-He said that the dictocal has benefits and the disadvantages, but the fact that the dictok does not like it is that I consider the face of the face of the people with many other media and many other media.
-
-◼️
-
-[Data](articles/f612a2b4.json)
-
-[Extended Data](ext_articles/f612a2b4.ext.json)
-
----
-
-### Stop Indian role;Struggle after the 25th - Fisheries Societies Warning
-
-*2024-03-12 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178529) · `ta`
-
-The Southern Western Western War Workers Cooperative Societies demand an end to Indian roller boats in the Jaffna Sea, citing ongoing destruction of livelihoods. Despite appeals to Sri Lanka and India, no positive response has been received. They've now turned to the Jaffna Indian Embassy for action, warning of a struggle after the 25th if their demands are not met.
-
-🟩
-
-On Tuesday (12), the Southern Western Western Western War Workers Cooperative Societies of the Southern Western Western War Workers Cooperative Societies, demanding the stopping of Indian roller images entering the Jaffna Sea.
-
-In the Majakar, our livelihoods are being continuously destroyed by the Indian transgressive roller boats.
-
-We have not only handed over the Majes to the high level of Sri Lanka and India to stop the Indian soul roll boats.
-
-But the state's high level of our demand has not yet been positive.
-
-We have therefore handed over to the Jaffna Indian Embassy in Jaffna to take action.
-
-The answer to our Majakar has been requested to provide a massive struggle after the 25th of this month, as we have not been asked to provide it before the 25th of this month.
-
-Do not hit the fisherman's stomach.
-
-...
-
-[Data](articles/1cad10bf.json)
-
-[Extended Data](ext_articles/1cad10bf.ext.json)
-
----
-
-### Government to establish new Faculty of Medicine at NSBM
-
-*2024-03-12 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-establish-new-Faculty-of-Medicine-at-NSBM/108-278713) · `en`
-
-Colombo, March 12 (Daily Mirror) - The Cabinet has green-lit the proposal to establish a Faculty of Medicine under the National School of Business Management (NSBM).
-
-The medical college is to be established under the direct supervision and regulation of the Ministry of Education, the Ministry of Health, and the Sri Lanka Medical Council.
-
-The proposal, put forth by the National School of Business Management (NSBM), a fully self-financed institution owned by the government, aims to award MBBS degrees through this institution.
-
-According to the proposal, the medical college intends to enroll approximately 500 local and foreign students annually for the MBBS degree course.
-
-To facilitate clinical training, the institution has sought approval to reserve the Homagama Base Hospital as a suitable government hospital.
-
-The Cabinet of Ministers has already granted approval for the use of Homagama Base Hospital for clinical training of NSBM medical students.
-
-...
-
-[Data](articles/34912567.json)
-
-[Extended Data](ext_articles/34912567.ext.json)
-
----
-
-### Sri Lanka awards 18MW of solar plants to Mahawa Solar, Hayleys Power, Capital City
-
-*2024-03-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-18mw-of-solar-plants-to-mahawa-solar-hayleys-power-capital-city-154317/) · `en`
-
-ECONOMYNEXT – Sri Lanka has awarded contracts to Mahawa Solar (Pvt) Ltd, Hayleys Power Ltd, and Capital City Holdings (Pvt) Ltd to build and operate solar power plants for Matara grid substation and Vavunathivu substation, Minister Bandula Gunawardena said.
-
-“International competitive bids were called for solar photovoltaic power plants for Matara (10 MW) and Vavunathivu (8 MW) grid substations,” Gunawardena said.
-
-Based on the project proposals received, the Cabinet of Ministers approved awarding the contract for the commissioning of a ground mounted solar photovoltaic power plant at Matara Grid Substation to Mahawa Solar (Pvt) Ltd and Hayleys Power Ltd.
-
-The contract for the installation at Vavunathivu Substation was awarded to Capital City Holdings (Pvt) Ltd.
-
-All three solar power projects will be on a build, own and operate basis.
-
-...
-
-[Data](articles/a2f43c56.json)
-
-[Extended Data](ext_articles/a2f43c56.ext.json)
-
----
-
-### Sri Lanka awards 18MW of solar plants to Mahawa Solar, Hayleys Power, Capital City
-
-*2024-03-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-commissions-solar-power-from-mahawa-solar-hayleys-power-capital-city-holdings-154317/) · `en`
-
-ECONOMYNEXT – Sri Lanka has awarded contracts to Mahawa Solar (Pvt) Ltd, Hayleys Power Ltd, and Capital City Holdings (Pvt) Ltd to build and operate solar power plants for Matara grid substation and Vavunathivu substation, Minister Bandula Gunawardena said.
-
-“International competitive bids were called for solar photovoltaic power plants for Matara (10 MW) and Vavunathivu (8 MW) grid substations,” Gunawardena said.
-
-Based on the project proposals received, the Cabinet of Ministers approved awarding the contract for the commissioning of a ground mounted solar photovoltaic power plant at Matara Grid Substation to Mahawa Solar (Pvt) Ltd and Hayleys Power Ltd.
-
-The contract for the installation at Vavunathivu Substation was awarded to Capital City Holdings (Pvt) Ltd.
-
-All three solar power projects will be on a build, own and operate basis.
-
-...
-
-[Data](articles/d3067308.json)
-
-[Extended Data](ext_articles/d3067308.ext.json)
 
 ---

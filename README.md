@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 09:33:16**
+As of **2024-03-12 09:52:29**
 
 ## Newspaper Stats
 
-*Scraped **12,306** Articles*
+*Scraped **12,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,93 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 677
 adalk | 1,048
-adaderanalk | 1,485
+adaderanalk | 1,486
 tamilmirrorlk | 1,498
 virakesarilk | 1,687
-dailymirrorlk | 1,875
-adaderanasinhalalk | 1,944
+dailymirrorlk | 1,876
+adaderanasinhalalk | 1,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,305 (100.0%) of 12,306 articles have been extended.
+12,306 (100.0%) of 12,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### නියෝජ්‍ය පොලිස්පති ධනපාලට උසස්වීමක්
+### Main suspect in murder of Buddhist monk, killed in police fire
+
+*2024-03-12 09:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-suspect-in-murder-of-Buddhist-monk-killed-in-police-fire/108-278684) · `en`
+
+Gampaha, March 12 (Daily Mirror) - The main suspect arrested in connection with the killing of a Buddhist monk at a temple in Malwathuhiripitiya was killed when police opened fire at the suspect while attempting to escape custody, police said.
+
+They said the suspect was taken to recover weapons allegedly hidden in the Yatawaka area in Attanagalla.
+
+The suspect was shot at by the police when he allegedly attempted to escape after attaking the police officers.
+
+The deceased suspect is 27-year-old and a resident of Aralaganwila.
+
+The suspect was arrested on Sunday by the Hambegamuwa Police and later was handed over to the Colombo Crimes Division. It was revealed that the suspect was the shooter in the murder of a Buddhist monk, who was shot dead at a temple in Malwathuhiripitiya on January 23 this year.
+
+...
+
+[Data](articles/0df46aee.json)
+
+---
+
+### Decision to allow import of selected spices for re-export reversed
+
+*2024-03-12 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97886/decision-to-allow-import-of-selected-spices-for-re-export-reversed) · `en`
+
+The gazette notification allowing the import of several spices including pepper for re-export has been revoked.
+
+The communique was revoked following a request made by Agriculture Minister Mahinda Amaraweera from President Ranil Wickremesinghe at the Cabinet meeting on Monday (March 11).
+
+◼️
+
+[Data](articles/cdf7a041.json)
+
+---
+
+### ගම්මිරිස් ඇතුළු කුළුබඩු ප්‍රතිඅපනයනයට අවසර දුන් ගැසට්ටුව අත්හිටුවයි
+
+*2024-03-12 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194409) · `si`
+
+ගම්මිරිස් ඇතුළු කුළුබඩු වර්ග කිහිපයක් ප්‍රතිඅපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර දීමට රජය විසින් පළ කළ ගැසට් නිවේදනය අත්හිටුවීමට තීරණය කර තිබේ.
+
+ගම්මිරිස්, සාදික්කා, වසාවාසි, කහ , ඉඟුරු , හා කරදමුංගු ආදි ශ්‍රී ලංකාවේ වැවෙන කුළුබඩු වර්ග කිහිපයක් ප්‍රතිඅපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර දෙමින් රජය විසින් පසුගියදා ගැසට් නිවේදනයක් නිකුත් කරනු ලැබීය.
+
+ඊයේ (11) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැති අමාත්‍ය මණ්ඩල සාකච්ඡාවේ දී කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා අදාළ ගැසට් නිවේදනය සම්බන්ධව තම විරුද්ධත්වය පළ කර තිබේ.
+
+විශේෂයෙන් මෙම කුළුබඩු වර්ග ප්‍රතිඅපනයනය සඳහා ආනයනයට අවසරදීම මඟින් දේශීය කුළුබඩු ගොවියා අධෛර්මත්වන බවත්, එමනිසා දේශීය කුළුබඩු නිෂ්පාදන වගාව කඩා වැටෙන බවත් අමාත්‍යවරයා පෙන්වා දී ඇත.
+
+එමෙන්ම දැනට ලෝකයේ හොඳම කුළුබඩු ලෙස සන්නාම අතර පළමු ස්ථානයේ සිටින ශ්‍රී ලංකාවේ කුළුබඩුවල ප්‍රමිතිය සඳහා මෙමඟින් ප්‍රබල බලපෑමක් එල්ල වන බව ද අමාත්‍යවරයා පෙන්වා දී තිබේ.
+
+...
+
+[Data](articles/33b08c0b.json)
+
+---
+
+### DIG Dhanapala promoted
 
 *2024-03-12 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194408) · `si`
 
-නියෝජ්‍ය පොලිස්පති ටී.සී.ඒ. ධනපාල මහතාව ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති තනතුරට උසස් කර තිබේ.
+DIG Dhanapala promoted to DIG TCA. IGP effective from Feb 29, pending NPC approval.
 
-නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කර ඇත්තේ අදාළ උසස්වීම ජාතික පොලිස් කොමිෂන් සභාවේ අනුමැතියට යටත්ව පොලිස්පතිවරයා විසින් පෙබරවාරි 29 වනදා සිට බලපැවැත්වෙන ලෙස සිදුකර ඇත.
+🟩
+
+DIG TCA. The senior DIG has been promoted to the post of DIG.
+
+The police media division has stated in a statement that the IGP has been effective from February 29, subject to the approval of the National Police Commission.
 
 ◼️
 
 [Data](articles/bdc46e74.json)
+
+[Extended Data](ext_articles/bdc46e74.ext.json)
 
 ---
 
@@ -2103,69 +2163,5 @@ The Minister of Finance Sehan Semasinghe has said that this year's cost has been
 [Data](articles/591a2a81.json)
 
 [Extended Data](ext_articles/591a2a81.ext.json)
-
----
-
-### Govt agreed to release IMF technical assistance reports to opposition – Sumanthiran
-
-*2024-03-11 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97876/govt-agreed-to-release-imf-technical-assistance-reports-to-opposition-sumanthiran) · `en`
-
-Tamil National Alliance (TNA) parliamentarian M.A. Sumanthiran says the opposition can only decide on whether to support the International Monetary Fund (IMF) programme after analyzing the IMF’s technical assistance reports which he says the government has now agreed to provide.
-
-He made these remarks while speaking to reports following a meeting held at the Presidential Secretariat in Colombo today (11) with the President and government officials for talks on the IMF programme.
-
-He also said that presently they are unable to support the IMF programme owing to the lack of transparency and also because most of the economic reform measures are impacting the country’s poor and vulnerable.
-
-The TNA spokesman said the President had invited the opposition party leaders for a discussion on the IMF programme and that however, he was the only member of the opposition present today.
-
-...
-
-[Data](articles/7dec358b.json)
-
-[Extended Data](ext_articles/7dec358b.ext.json)
-
----
-
-### Another amazing surgery raised in Sri Lanka
-
-*2024-03-11 18:20:05* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-නම-ඉහළට-එසවූ-තවත්-විශ්මිත-සැත්කමක්/11-408547) · `si`
-
-Dr. Lakmal Hewage, Uva Welmal Hewage's first lecturer, performed Sri Lanka's first endoscopic surgery at Badulla Teaching Hospital, successfully treating a 112-year-old woman. Despite the risks, the surgery was a success, allowing the patient to speak without pain and removing a cartilage below the knee with minimal discomfort.
-
-🟩
-
-The first lecturer of the Uva Welmal Hewage is a healthy the Health Teaching Hospital, led by Dr. Lakmal Hewage, who is the first time in Sri Lanka.
-
-Dr. Lakmal Hewage said that the surgery was carried out at the Badulla Teaching Hospital this morning (112-year-old woman) faced with surgery.
-
-He said that the woman was a warming and a burying woman who was a warm, and was a risky situation that was a risky situation that was a warming because she was a burying because of a long time.
-
-However, he decided to take endoscoppy surgery in the protector without first contempt in our country.
-
-"This is where the patient is able to talk to the patient without dreaming and asking the pain of his leg.. And the ability to completely remove the cartass below the sighs is too much. Specialist Dr. Hewage added that the patient does not suffer because of a very small cut.
-
-◼️
-
-[Data](articles/76a971c1.json)
-
-[Extended Data](ext_articles/76a971c1.ext.json)
-
----
-
-### Leaders past, present, future lack development vision: Janaka Ratnayake
-
-*2024-03-11 18:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaders-past-present-future-lack-development-vision-Janaka-Ratnayake/108-278637) · `en`
-
-Colombo, March 11 (Daily Mirror) - Those who ruled the country, those who are currently ruling the country, and those who intend to rule the country in the future have no plan on how the country should be developed, Presidential candidate Janaka Ratnayake said.
-
-While opening his party office at Kirulapona today, he claimed that the government is making a decision not to settle the loans and the loan interest according to the tune of the IMF to obtain the IMF loan. This practice will lead the people of the country to bankruptcy, he said.
-
-"To overcome the current bankruptcy of the country, the politicians bankrupted the people first by imposing huge taxes on them while increasing the prices of food and beverages," he said.
-
-...
-
-[Data](articles/f571352b.json)
-
-[Extended Data](ext_articles/f571352b.ext.json)
 
 ---

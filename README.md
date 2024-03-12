@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 17:53:33**
+As of **2024-03-12 18:09:06**
 
 ## Newspaper Stats
 
-*Scraped **12,444** Articles*
+*Scraped **12,445** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 119
-bbccomsinhala | 142
+bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,433 (99.9%) of 12,444 articles have been extended.
+12,444 (100.0%) of 12,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### கொழும்பு தனியார் வைத்தியசாலை தொடர்பில் மேலதிக நடவடிக்கை மேற்கொள்ள வேண்டாமென மேன்முறையீட்டு நீதிமன்றம் அறிவித்தல்!
+### Court of Appeal notice not to take further action on Colombo private hospital
 
 *2024-03-12 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178552) · `ta`
 
-கொழும்பில் உள்ள பிரதான தனியார் வைத்தியசாலை ஒன்றின் பணிப்பாளர்களுக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள வழக்கு தொடர்பில் எதிர்வரும் 27ஆம் திகதி வரை மேலதிக நடவடிக்கைகளை மேற்கொள்ள வேண்டாம் என மேன்முறையீட்டு நீதிமன்றம் செவ்வாய்க்கிழமை (12) மாளிகாகந்த நீதிமன்றத்துக்கு அறிவித்தது.
+The Court of Appeal has postponed further action on a Colombo private hospital case until the 27th, during a hearing to prevent an order against the hospital's director.
 
-கொழும்பில் உள்ள பிரதான தனியார் வைத்தியசாலை ஒன்றின் பணிப்பாளர்களுக்கு அழைப்பாணை வழங்கப்படுவதை தடுக்கும் வகையில் உத்தரவுக்கு பிறப்பிக்குமாறு சமர்ப்பிக்கப்பட்ட மனு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே மாளிகாகந்த பிரதான நீதவான் இந்த அறிவித்தலை வழங்கினார்.
+🟩
 
-இந்த மனு மேன்முறையீட்டு நீதிமன்ற நீதிபதி தம்மித கணேபொல முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+The Court of Appeal on Tuesday (12) announced to the court that the Court of Appeal should not take further action until the 27th of this month.
+
+The announcement was made when the petition was taken up for hearing to prevent the order to prevent the invitation to the Director of the Director of a Private Hospital in Colombo.
+
+The petition was taken up for hearing in the presence of the Court of Appeal in the presence of Tamitha Ganapola.
 
 ◼️
 
 [Data](articles/1dc5763a.json)
+
+[Extended Data](ext_articles/1dc5763a.ext.json)
 
 ---
 
@@ -60,25 +66,35 @@ ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 0.1929 he
 
 [Data](articles/0e4629d1.json)
 
+[Extended Data](ext_articles/0e4629d1.ext.json)
+
 ---
 
-### இலங்கை ஒருநாள் கிரிக்கெட் குழாத்தில் இரண்டு வருடங்களின் பின்னர் கமிந்து மெண்டிஸ்
+### Two years later in the Sri Lankan ODI cricket team
 
 *2024-03-12 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178550) · `ta`
 
-பங்களாதேஷுக்கு எதிராக சட்டோக்ராம் விளையாட்டரங்கில் புதன்கிழமை (13) ஆரம்பமாகவுள்ள 3 போட்டிகளைக் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடருக்கான இலங்கை குழாத்தில் சகலதுறை வீரர் கமிந்து மெண்டிஸ் பெயிரிடப்பட்டுள்ளார்.
+Kamindu Mendis, a two-year veteran, is selected for Sri Lanka's ODI series against Bangladesh. The team includes notable players like Angelo Mathews and Tanjaya de Silva. Sri Lanka has won 42 of 54 ODIs against Bangladesh in the last 37 years.
 
-இடதுகை துடுப்பாட்ட வீரரும் இரண்டு கைகளாலும் பந்துவீசுபவருமான கமிந்து மெண்டிஸ் இரண்டு வருடங்களுக்குப் பின்னர் சரவ்தேச ஒருநாள் கிரிக்கெட் குழாத்தில் இடம்பெறுகின்றார்.
+🟩
 
-அண்மையில் நடைபெற்ற ஆப்கானிஸ்தானுக்கு எதிரான கடைசி ரி20 கிரிக்கெட் போட்டியில் அதிரடியாக அரைச் சதம் குவித்ததைத் தொடர்ந்து துடுப்பாட்ட வரிசையில் 3ஆம் இலக்கத்தில் பங்களாதேஷுக்கு எதிரான ரி20 தொடரில் விளையாடியிருந்தார்.
+All -rounder Kamindu Mendis has been named in the Sri Lankan squad for the three -match ODI series, which will start on Wednesday (13) at the Chatogram Stadium against Bangladesh.
 
-சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளிலும் டெஸ்ட் போட்டிகளிலும் இலங்கை அணியில் கமிந்து மெண்டிஸ் போன்ற சகலதுறை  வீரர்    இடம்பெறுவது அணிக்கு அனுகூலமாக அமையும் என அண்மையில் தெரிவுக் குழுத் தலைவர் உப்புல் தரங்க தெரிவித்திருந்தார்.
+Two years later, Saravadesa is taking place in the ODI cricket team, two years later.
 
-இது இவ்வாறிருக்க, ஆப்கானிஸ்தானுடனான கடைசி ரி20 போட்டியின்போது உபாதைக்குள்ளாகி பங்களாதேஷுடனான ரி20 தொடரைத் தவறவிட்ட பெத்தும் நிஸ்ஸன்க ஒருநாள் குழாத்தில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+He played in the R20 series against Bangladesh in the last R20 cricket match against Afghanistan in the last T20 cricket match.
+
+Recently, the select committee chairman Uppul Tharanga said that the Sri Lankan squad in the ODIs and Test matches would be a favorable team like Mendis.
+
+Despite this, Bethum Nissank, who missed the T20 series with Bangladesh during the last T20 match with Afghanistan, has been recruited in the ODI group.
+
+More than them, Janith Liyanage, Sahan Arachike and Samika Karunaratne have been named in the cricket team one day.
 
 ...
 
 [Data](articles/31239aa2.json)
+
+[Extended Data](ext_articles/31239aa2.ext.json)
 
 ---
 
@@ -103,6 +119,8 @@ A bond maturing on 01.07.2032 closed at 12.50/80 percent from down 12.60/90 perc
 ◼️
 
 [Data](articles/8c1b03b2.json)
+
+[Extended Data](ext_articles/8c1b03b2.ext.json)
 
 ---
 
@@ -418,6 +436,8 @@ Sampath Bank Plc (33mn) up at 76.00, Commercial Bank of Ceylon Plc (16mn) closed
 
 [Data](articles/5896b0cd.json)
 
+[Extended Data](ext_articles/5896b0cd.ext.json)
+
 ---
 
 ### 1497 boys sexually abused last year
@@ -495,6 +515,8 @@ Gender socialisation is the process of teaching individuals, young and old, how 
 ...
 
 [Data](articles/91143ee7.json)
+
+[Extended Data](ext_articles/91143ee7.ext.json)
 
 ---
 
@@ -672,6 +694,8 @@ Most of Sri Lanka’s sanitary napkin needs are made by three companies that imp
 
 [Data](articles/b10307ce.json)
 
+[Extended Data](ext_articles/b10307ce.ext.json)
+
 ---
 
 ### Sri Lanka is named ODI squad
@@ -839,6 +863,8 @@ All three solar power projects will be on a build, own and operate basis.
 ...
 
 [Data](articles/a2f43c56.json)
+
+[Extended Data](ext_articles/a2f43c56.ext.json)
 
 ---
 
@@ -1229,6 +1255,8 @@ Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri
 ...
 
 [Data](articles/f89d112f.json)
+
+[Extended Data](ext_articles/f89d112f.ext.json)
 
 ---
 
@@ -1734,6 +1762,8 @@ Semasinghe said he had discussions with officers of the Samurdhi Development Dep
 
 [Data](articles/d9a76834.json)
 
+[Extended Data](ext_articles/d9a76834.ext.json)
+
 ---
 
 ### Draft Bill facilitating Parate Law suspension to be gazetted
@@ -1783,6 +1813,28 @@ NSBM has agreed to provide funds for the development of Homagama Base Hospital i
 [Data](articles/4f04b39b.json)
 
 [Extended Data](ext_articles/4f04b39b.ext.json)
+
+---
+
+### තිරුක්කෝවිල්හි මැරතන් තරගයක් අතරතුර මියගිය සිසුවාගේ මරණයට හේතුව කුමක් ද?
+
+*2024-03-12 12:13:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8v3gz9p372o) · `si`
+
+තිරුක්කෝවිල්හි මැරතන් තරගයක් අතරතුර මියගිය සිසුවාගේ මරණයට හේතුව කුමක් ද?
+
+තිරුක්කෝවිල් මෙතෝදිස්ත මිෂන් දෙමළ මහා විද්‍යාලයේ සිසුවෙකු මැරතන් තරගයක් අතරතුර හදිසියේ ඇතිවූ රෝගී තත්ත්වයක් හේතුවෙන් රෝහල්ගත කිරීමෙන් පසු මිය යෑමේ සිද්ධිය ප්‍රදේශයේ නොසන්සුන් තත්ත්වයක් ඇති කිරීමට හේතුවිය.
+
+පවතින උණුසුම් කාලගුණ තත්ත්වය මැද මෙවැනි ක්‍රීඩා තරග පැවැත්වීම පිළිබඳවත්, තිරුක්කෝවිල් රෝහලේදී සිදුවු බව කියන ප්‍රමාදය පිළිබඳවත්, ප්‍රදේශවාසීන් අතර මෙන්ම සමාජ මාධ්‍ය ඔස්සේ දැඩි සංවාදයක් ද මතුව තිබුණි.
+
+16 හැවිරිදි  ජෙයකුමාර් විදූෂන් සිසුවාගේ මරණය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය අම්පාර මහ රෝහලේ අධිකරණ වෛද්‍ය විශේෂඥ සි.ටී.මහනාම විසින් අද (මාර්තු 12 වැනිදා) පැවත්වනු ලැබීය.
+
+මෙම සිසුවාගේ මරණයට හේතුවුයේ කුමක්ද ? ඒ පිළිබඳ මතුවන කරුණු පිළිබඳ බීබීසී සිංහල විමසා බැලීමක් කළේය.
+
+නිවාසාන්තර ක්‍රීඩා උත්සවය පැවැත්විමට තිරුක්කෝවිල් මෙතෝදිස්ත මිෂන් දෙමළ මහා විද්‍යාලය කටයුතු සංවිධානය කරමින්  තිබිණි.
+
+...
+
+[Data](articles/26c320b0.json)
 
 ---
 
@@ -2283,27 +2335,5 @@ Port-au-Prince and the surrounding region is under a month-long state of emergen
 [Data](articles/0a70c78d.json)
 
 [Extended Data](ext_articles/0a70c78d.ext.json)
-
----
-
-### Haiti resigns
-
-*2024-03-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194411) · `si`
-
-Haiti's Prime Minister Ariell Henry resigns, unable to return from Puerto Rico due to armed groups. He took office in July 2021 following a mercenary attack.
-
-🟩
-
-International media reports that Haiti Prime Minister Ariell Henry agreed to resign from his position.
-
-Henry is currently in Potal Rico and says armed groups that he will not allow him to come back.
-
-He served as the Prime Minister of July 2021 after a group of mercenaries killed by a group of mercenaries.
-
-◼️
-
-[Data](articles/346f7dad.json)
-
-[Extended Data](ext_articles/346f7dad.ext.json)
 
 ---

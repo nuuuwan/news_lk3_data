@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 21:17:38**
+As of **2024-03-12 21:34:22**
 
 ## Newspaper Stats
 
-*Scraped **12,475** Articles*
+*Scraped **12,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ dailyftlk | 641
 economynextcom | 664
 islandlk | 677
 adalk | 1,068
-adaderanalk | 1,505
-tamilmirrorlk | 1,514
+adaderanalk | 1,506
+tamilmirrorlk | 1,515
 virakesarilk | 1,726
-dailymirrorlk | 1,900
+dailymirrorlk | 1,901
 adaderanasinhalalk | 1,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,473 (100.0%) of 12,475 articles have been extended.
+12,475 (100.0%) of 12,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### New Chief Secretaries appointed to Northern, North Western provinces
+
+*2024-03-12 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97905/new-chief-secretaries-appointed-to-northern-north-western-provinces) · `en`
+
+President Ranil Wickremesinghe on Tuesday (March 12) appointed new chief secretaries to the Northern and North Western provinces.
+
+Accordingly, L. Ilangovan, a distinguished officer of the Sri Lanka Administrative Service, was appointed as the new Chief Secretary of the Northern Province.
+
+He previously served in various ministries in the Northern Province and held the position of Northern Province Governor’s Secretary. Prior to his appointment as the Chief Secretary, Ilangovan was the President’s Additional Secretary for Northern Province Development at the Presidential Secretariat.
+
+Meanwhile, Deepika K. Gunaratne was appointed as the new Chief Secretary of the Wayamba Province. She previously served as the Secretary to the Governor of the Southern Province.
+
+Their letters of appointment were handed over by President’s Secretary Saman Ekanayake at the Presidential Secretariat today.
+
+◼️
+
+[Data](articles/9a68785b.json)
+
+---
+
+### China technology giant Xiaomi starts electric car sales
+
+*2024-03-12 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-technology-giant-Xiaomi-starts-electric-car-sales/108-278715) · `en`
+
+March 12, (Daily Mirror) -  Chinese technology giant Xiaomi says it will start deliveries of its first electric vehicle (EV) this month - its first ever foray into the competitive automotive industry.
+
+China's fifth-largest smartphone maker says it has 59 stores in 29 cities around the country to take orders.
+
+It comes as a price war intensifies between firms like BYD and Tesla in China, the world's biggest car market.
+
+At the unveiling of the Speed Ultra 7 (SU7) last year, Xiaomi's chief executive Lei Jun said the company aims to become one of the top five car makers in the world.
+
+The smartphone giant has said it will invest $10bn (£7.8bn) in its vehicles business over the next 10 years.
+
+Mr Lei said the SU7 was "super electric motor" technology which is capable of accelerating faster than some Tesla and Porsche EVs.
+
+Xiaomi is also hoping that the car's shared operating system with its phones and other devices will appeal to existing customers.
+
+...
+
+[Data](articles/b63668f7.json)
+
+---
 
 ### Business Center at Port City...
 
@@ -42,25 +86,35 @@ The Port City Colombo today marked a significant milestone with the ground-break
 
 [Data](articles/21d89cff.json)
 
+[Extended Data](ext_articles/21d89cff.ext.json)
+
 ---
 
-### බෙහෙත් පෙත්තක් උගුරේ සිරවුණු දැරියක් මරුට
+### Wonder dies after a slice slide
 
 *2024-03-12 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194435) · `si`
 
-අප වාර්තාකරු සඳහන් කළේ උණ රෝගී තත්ත්වයක් හේතුවෙන් මිත්තණිය විසින් ලබාදුන් බෙහෙත් පෙත්තක් දැරියගේ උගුරේ සිරවී ඇති බවය.
+A young girl, unconscious from a fever, was admitted to Mahiyanganaya Hospital and later transferred to Peradeniya Hospital for treatment. The incident occurred after she was given a pill on a bus ride. The father, who lives in another house, is under investigation.
 
-ඉන් සිහිසුන්වූ දැරියව මහියංගනය රෝහලට ඇතුළු කිරීමෙන් පසු  පේරාදෙණිය සිරිමාවෝ බණ්ඩාරනායක ළමා රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කර ඇත.
+🟩
 
-මව විදේශගත වීම නිසා ඇය සීයා, ආච්චි සහ සහෝදරියන් දෙදෙනා සමඟ නිවසේ ජීවත්වී ඇත.
+Our correspondent stated that the pill was trapped in the youngest of a fever.
 
-වැලිගොඩ දැමීමෙන් ජීවිකාව ගෙනයන පියා මොවුන් පදිංචි නිවස ආසන්නයේ වෙනත් නිවසක ජීවත් වන බව පොලිස් පරීක්ෂණ මගින් අනාවරණය වී තිබේ.
+The unconscious girl has been admitted to the Mahiyanganaya hospital and included the Intensive Care of Care Hospital Hospital Peradeniya.
 
-මහියංගනය රෝහලේදී දැරියගේ උගුරේ සිරවූ බෙහෙත් පෙත්ත ඉවත්කර වැඩිදුර ප්‍රතිකාර සඳහා පේරාදෙණිය සිරිමාවෝ බණ්ඩාරනායක ළමා රෝහලට මාරුකර එවා තිබුණි.
+Because the mother abroad, she has lived at home with Grandpa, Grandma and Sisters.
+
+Police investigations have revealed that the father carrying sandal by throwing sandwithrel will live in another house near the house of residence.
+
+At the Mahiyanganaya Hospital, the girl was removed and transferred to Peradeniya Sirimavo Bandaranaike Hospital for further treatment.
+
+"The daughter had a fever. A bus on our road is going on a two hour hour. The bus was given a pill to daughter to go to take medicine. Even before her, she had been pills like that. Lighting fell unconscious after drinking the prescription. Troops took the miwanya to the hospital with a three-wheeler. There the doctors had shown me the pluck stuck in daughter's throat. Later, he was transferred to Peradeniya.
 
 ...
 
 [Data](articles/50f05309.json)
+
+[Extended Data](ext_articles/50f05309.ext.json)
 
 ---
 
@@ -237,6 +291,20 @@ The President's Secretary Saman Ekanayake handed over their appointment letters 
 [Data](articles/1df43558.json)
 
 [Extended Data](ext_articles/1df43558.ext.json)
+
+---
+
+### வட மாகாண பிரதம செயலாளராக இளங்கோவன் நியமனம்
+
+*2024-03-12 19:32:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-பிரதம-செயலாளராக-இளங்கோவன்-நியமனம்/175-334568) · `ta`
+
+வட மாகாண பிரதமச் செயலாளராக எல். இளங்கோவனும், வடமேல் மாகாண பிரதமச் செயலாளராக தீபிகா கே குணரத்னவும் நியமிக்கப்பட்டுள்ளனர்.
+
+அவர்களுக்கான நியமனக் கடிதங்களை ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஜனாதிபதி செயலகத்தில் வைத்து இன்று (12) கையளித்தார்.   R
+
+◼️
+
+[Data](articles/624f6275.json)
 
 ---
 
@@ -2251,57 +2319,5 @@ Sri Lanka is seeking to expand on trade agreements to facilitate exports of good
 [Data](articles/b2247174.json)
 
 [Extended Data](ext_articles/b2247174.ext.json)
-
----
-
-### GI Pipes case: Court rejects Keheliya’s objections
-
-*2024-03-12 13:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GI-Pipes-case-Court-rejects-Keheliyas-objections/108-278701) · `en`
-
-Colombo, March 12 (Daily Mirror) - The Colombo High Court today rejected the preliminary objections raised by former Health Minister Keheliya Rambukwella against the GI pipes case.
-
-Accordingly, Colombo High Court Judge Nawaratne Marasinghe decided to fix the matter for trial and the case will be called again on April 4.
-
-The Bribery Commission had filed indictments before Colombo High Court against former Health Minister Keheliya Rambukwella and two others for allegedly causing unlawful loss to the government after purchasing GI pipes using Sri Lanka Rupavahini Corporation’s (SLRC) funds during the 2015 Presidential Election while Keheliya Rambukwella was serving as the Minister of Mass Media.
-
-The former Health Minister had raised preliminary objections challenging the maintainability of the case.
-
-...
-
-[Data](articles/3b8121f1.json)
-
-[Extended Data](ext_articles/3b8121f1.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-12 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178516) · `ta`
-
-On March 12, the US dollar was bought for Rs 302.0716 and sold for Rs 311.4500.
-
-🟩
-
-The US dollar purchasing price was Rs 302.0716 and the sales price were 311.4500 on Tuesday (March 12).
-
-◼️
-
-[Data](articles/2c367823.json)
-
-[Extended Data](ext_articles/2c367823.ext.json)
-
----
-
-### Price of milk powder to be reduced
-
-*2024-03-12 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97893/price-of-milk-powder-to-be-reduced) · `en`
-
-The price of a packet of milk powder is expected to be reduced by an amount ranging between Rs 100 to Rs 150 from Friday (March 15), Minister of Trade Nalin Fernando said.
-
-◼️
-
-[Data](articles/610a5773.json)
-
-[Extended Data](ext_articles/610a5773.ext.json)
 
 ---

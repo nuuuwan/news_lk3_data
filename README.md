@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 16:33:28**
+As of **2024-03-12 16:48:32**
 
 ## Newspaper Stats
 
-*Scraped **12,418** Articles*
+*Scraped **12,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 655
 islandlk | 677
-adalk | 1,060
+adalk | 1,061
 adaderanalk | 1,498
 tamilmirrorlk | 1,513
-virakesarilk | 1,714
+virakesarilk | 1,715
 dailymirrorlk | 1,893
 adaderanasinhalalk | 1,958
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 1,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,417 (100.0%) of 12,418 articles have been extended.
+12,418 (100.0%) of 12,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### நாட்டில்  பெண்கள், சிறுமிகள் மீது தொடரும்  வன்கொடுமைகள் கடந்த ஆண்டு 1497 சிறுவர்கள் பாலியல் துஷ்பிரயோகம் !
+
+*2024-03-12 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178541) · `ta`
+
+நாட்டில்  பெண்கள், சிறுமிகள் மீது   வன்கொடுமைகள் தொடர்கதையாகவே உள்ளது .கடந்த பெப்ரவரி மாதத்தில் மாத்திரம் பெண்கள் மற்றும் சிறுமிகள் மீது பல்வேறு  வன்கொடுமைகள் இடம்பெற்றிருப்பதாக புள்ளிவிபரங்கள் சுட்டிக்காட்டுகின்றன.
+
+◼️
+
+[Data](articles/cd3d2f71.json)
+
+---
 
 ### India, Sri Lanka discuss renewable energy cooperation, technology transfer
 
@@ -45,6 +57,8 @@ The meeting was held this morning at the Ministry of Power and Energy, Wijeseker
 ...
 
 [Data](articles/91f8bee6.json)
+
+[Extended Data](ext_articles/91f8bee6.ext.json)
 
 ---
 
@@ -147,6 +161,30 @@ Meanwhile, the wife who was unloaded in Arali has gone to the Vaddukoddai police
 [Data](articles/28398765.json)
 
 [Extended Data](ext_articles/28398765.ext.json)
+
+---
+
+### මන්ත්‍රී රෝහණ බණ්ඩාරගෙන් ජා.ජ.බ නායක අනුර කුමාරට දේශපාලනය ගැන පාඩමක්
+
+*2024-03-12 15:19:57* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-රෝහණ-බණ්ඩාරගෙන්-ජා-ජ-බ-නායක-අනුර-කුමාරට-දේශපාලනය-ගැන-පාඩමක්/11-408565) · `si`
+
+මේ වන තෙක් ආර්ථික ප්‍රථිපත්තියක් සකසා ගැනීමට නොහැකි වූ අනුර කුමාර මහතාට, වේදිකාවේ කයිය නායක කෙනෙක් විදිහට වැඩ නොකර, පළමුවෙන් තම පක්ෂයට ප්‍රථිපත්තියක් සකසා ගන්නා ලෙස ජාතික ජන බල වේගයේ
+
+නායක අනුර කුමාර මහතාට දන්වා සිටින බව මැදවච්චිය ආසන සංවිධායක සමගි ජන බලවේගයේ පාර්ලිමේන්තු
+
+අද (12) දහවල් මැදවච්චිය නගරයේදී මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා එසේ ප්‍රකාශ කළේය. එහිදී වැඩිදුරටත් අදහස් දැක්වූ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී රෝහණ බණ්ඩාර මහතා .
+
+“ඉස්සර වෙලා රැස්වීම තියන අතරතුර මැතිවරණයට අවශ්‍යප්‍රථිපත්තියක් හදා ගන්න. ආර්ථික දර්ශනයක්, ප්‍රථිපත්තියක්
+
+සකස්කර ගන්න. කතිකයෝ සියල්ලම තම පක්ෂයේ ඉදිරි වැඩ පිළිවෙල පිළිබඳව එකම දේ කියන්න හදා ගන්න. එක එක්කෙනා එක එක දේවල් කියනවා. කාන්තාවන් නිරුවත් කරලා පෙරහැරවල් තියන්න කතා තරනවා. තවත් කෙනෙක්
+
+නැවත ගණිකා වෘත්තිය නීතිගත කරන්න කතා කරනවා. තව කෙනෙක් ක්ෂද්‍ර මූල ණය උගුලින් කාන්තාව බේරගන්න
+
+නැවත කාන්තාව දර ලිපට ගෙනියන්න ඕන කියලා කියනවා. එක වෙලාවකට ඉංදියාව හොදනෑ කියනවා. ඉංදියාවේ ගිහින්
+
+...
+
+[Data](articles/b3245779.json)
 
 ---
 
@@ -2277,51 +2315,5 @@ The Colombo Stock Market opened down; the All Share Price Index was down 0.05 pe
 [Data](articles/9e1e01ea.json)
 
 [Extended Data](ext_articles/9e1e01ea.ext.json)
-
----
-
-### Elpitiya shooting: One of the injured killed
-
-*2024-03-12 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178486) · `ta`
-
-In Elpitiya, a gunfight left one dead and three injured. One of the injured died without treatment, raising the casualty count to 2.
-
-🟩
-
-One of the three injured in a gunfight in the Pitigala area of Elpitiya has died.
-
-One person was killed and three others were injured in a shooting on Monday (11) in Pitigala, Elpitiya.
-
-The injured three were treated at the hospital, and one of them died without treatment.
-
-The number of casualties in the Elpitti -Pitigala area has risen to 2.
-
-◼️
-
-[Data](articles/a77dcfa8.json)
-
-[Extended Data](ext_articles/a77dcfa8.ext.json)
-
----
-
-### Main suspect in murder of Buddhist monk, killed in police fire
-
-*2024-03-12 09:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-suspect-in-murder-of-Buddhist-monk-killed-in-police-fire/108-278684) · `en`
-
-Gampaha, March 12 (Daily Mirror) - The main suspect arrested in connection with the killing of a Buddhist monk at a temple in Malwathuhiripitiya was killed when police opened fire at the suspect while attempting to escape custody, police said.
-
-They said the suspect was taken to recover weapons allegedly hidden in the Yatawaka area in Attanagalla.
-
-The suspect was shot at by the police when he allegedly attempted to escape after attaking the police officers.
-
-The deceased suspect is 27-year-old and a resident of Aralaganwila.
-
-The suspect was arrested on Sunday by the Hambegamuwa Police and later was handed over to the Colombo Crimes Division. It was revealed that the suspect was the shooter in the murder of a Buddhist monk, who was shot dead at a temple in Malwathuhiripitiya on January 23 this year.
-
-...
-
-[Data](articles/0df46aee.json)
-
-[Extended Data](ext_articles/0df46aee.ext.json)
 
 ---

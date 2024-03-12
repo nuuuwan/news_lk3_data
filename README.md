@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 16:17:53**
+As of **2024-03-12 16:33:28**
 
 ## Newspaper Stats
 
-*Scraped **12,417** Articles*
+*Scraped **12,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 641
 economynextcom | 655
 islandlk | 677
 adalk | 1,060
-adaderanalk | 1,497
+adaderanalk | 1,498
 tamilmirrorlk | 1,513
 virakesarilk | 1,714
 dailymirrorlk | 1,893
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,416 (100.0%) of 12,417 articles have been extended.
+12,417 (100.0%) of 12,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### India, Sri Lanka discuss renewable energy cooperation, technology transfer
+
+*2024-03-12 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97898/india-sri-lanka-discuss-renewable-energy-cooperation-technology-transfer) · `en`
+
+Minister of Power and Energy Kanchana Wijesekera has held discussions with an Indian government delegation regarding the renewable energy cooperation between the two countries, capacity building programs, technology transfer, investments, opportunities and policies related to the sector.
+
+The delegation is led by Shri Bhupinder Singh Bhalla, Secretary to the Ministry of New and Renewable Energy of India who is on a 3-day visit to discuss possible investments and engage with renewable energy stakeholders and officials of Sri Lanka.
+
+The meeting was held this morning at the Ministry of Power and Energy, Wijesekera said in a post on his X handle (formerly Twitter).
+
+...
+
+[Data](articles/91f8bee6.json)
+
+---
 
 ### Yall. O+ Blood Type in Blood Bank
 
@@ -85,6 +101,8 @@ Speaking at the event, he said Sri Lanka Tourism is launching its destination br
 ...
 
 [Data](articles/512695db.json)
+
+[Extended Data](ext_articles/512695db.ext.json)
 
 ---
 
@@ -2305,25 +2323,5 @@ The suspect was arrested on Sunday by the Hambegamuwa Police and later was hande
 [Data](articles/0df46aee.json)
 
 [Extended Data](ext_articles/0df46aee.ext.json)
-
----
-
-### Decision to allow import of selected spices for re-export reversed
-
-*2024-03-12 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97886/decision-to-allow-import-of-selected-spices-for-re-export-reversed) · `en`
-
-The gazette notification allowing the import of selected spices for re-export has been revoked.
-
-The communiqué was revoked following a request made by Agriculture Minister Mahinda Amaraweera from President Ranil Wickremesinghe at the Cabinet meeting convened on Monday (March 11).
-
-On Sunday, the Finance Ministry announced that the import of selected spices including pepper, cardamom, ginger, nutmeg, turmeric and cumin for re-exportation purposes would be permitted in Sri Lanka again.
-
-The import of these spices was thus conditionally allowed, subject to the approval of the Controller General of Import and Export and a local value addition of 35%. This decision was taken after the Cabinet nod was given to issue relevant import licenses under the Import and Export Control Regulations.
-
-...
-
-[Data](articles/cdf7a041.json)
-
-[Extended Data](ext_articles/cdf7a041.ext.json)
 
 ---

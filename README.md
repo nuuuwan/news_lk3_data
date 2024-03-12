@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 22:50:45**
+As of **2024-03-12 23:03:06**
 
 ## Newspaper Stats
 
-*Scraped **12,487** Articles*
+*Scraped **12,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 664
 islandlk | 677
-adalk | 1,069
+adalk | 1,070
 adaderanalk | 1,506
 tamilmirrorlk | 1,516
-virakesarilk | 1,728
+virakesarilk | 1,730
 dailymirrorlk | 1,903
 adaderanasinhalalk | 1,973
 
@@ -26,27 +26,61 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,486 (100.0%) of 12,487 articles have been extended.
+12,487 (100.0%) of 12,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### ඉදිරි ජල සහ විදුලි සැපයුම ගැන දැනුම්දීමක්
+### மட்டக்குளியில் 4 வீடுகள் மீது தாக்குதல்!
+
+*2024-03-12 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178566) · `ta`
+
+கொழும்பு மட்டக்குளி பிரதேசத்தில் செவ்வாய்க்கிழமை (12) இடம்பெற்ற  துப்பாக்கிச் சூட்டுச் சம்பவத்தின் பின்னர் அந்தப் பிரதேசத்திலுள்ள 4 வீடுகள் மீது தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+மட்டக்குளி அலிவத்தை பகுதியில் உள்ள நான்கு வீடுகள் மீதே இனந்தெரியாதோர் தாக்குதல் நடத்தி விட்டு தப்பிச் சென்றுள்ளதாக முதற்கட்ட தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/fc568d39.json)
+
+---
+
+### சர்வதேச நாணய நிதியப் பிரதிநிதிகளை நாம் அடுத்த வாரம் சந்திக்க உள்ளோம் - சஜித் பிரேமதாச
+
+*2024-03-12 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178565) · `ta`
+
+இந்நாட்டில் சிசுக்கள், குழந்தை மற்றும் தாய்மார்களது ஊட்டச்சத்து குறைபாடு அதிகரித்துள்ள. 2022 இல் நடத்தப்பட்ட கணக்கெடுப்பில், 5-18 வயதுக்குட்பட்ட குழந்தைகளில் 25% எடை குறைந்த குழந்தைகள் என்பது தெரிய வந்துள்ளது. இதுபோன்ற இன்னும் பல புள்ளி விவரங்கள் ஊட்டச்சத்து குறைபாடு அதிகரித்து வருவதாகவும், தாய்மார்களும் குழந்தைகளும் ஊட்டச் சத்து குறைபாட்டால் பாதிக்கப்படக்கூடிய குழுவாக மாறிவருவதனை எடுத்துக் காட்டுகின்றன.
+
+அடுத்த சில நாட்களில் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளை ஐக்கிய மக்கள் சக்தி சந்திக்கவுள்ளதால், இந்நாட்டில் தாய்மார்கள், சிசுக்கள், குழந்தைகள் மற்றும் பாடசாலை பிள்ளைகளின் ஊட்டச்சத்து குறைபாடு நிலையை உடனடியாகப் போக்க சர்வதேச நாணய நிதியத்தின் விசேட ஒத்துழைப்பு வேலைத்திட்டம் தேவை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/07beccca.json)
+
+---
+
+### Notice of future water and power supply
 
 *2024-03-12 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194439) · `si`
 
-මේ දිනවල පවතින අධික උණුසුම් කාලගුණය හමුවේ ජලය සහ විදුලිය අරපිරිමැස්මෙන් භාවිත කරන්නැයි ලංකා විදුලිබල මණ්ඩලය සහ ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+The Ceylon Electricity Board and the National Water Supply and Drainage Board are urging the public to conserve water and electricity due to severe weather conditions. The Water Supply Board warns of potential water shortages, while the Ceylon Electricity Board highlights increased electricity demand.
 
-ජල සම්පාදන මණ්ඩලය පවසන්නේ තවත් මාස දෙකක පමණ කාලයක් මෙම කාලගුණ තත්ත්වය පැවතියහොත් මුර ක්‍රමයට ජලය නිකුත් කිරීමට සිදුවිය හැකි බවය.
+🟩
 
-දින ගණනක් තිස්සේ තවමත් රට තුළ පවතින්නේ උණුසුම අධික  කාලගුණ තත්ත්වයකි.
+The Ceylon Electricity Board and the National Water Supply and Drainage Board requested the public to use water and electricity from the weather these days.
 
-ඒ හේතුවෙන් මේ දිනවල විදුලි ඉල්ලුම ඉහළ ගොස් ඇති බැවින් විදුලිය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ලංකා විදුලිබල මණ්ඩලය ජනතාවගෙන් ඉල්ලා සිටියේය.
+The Water Supply Board says that if the weather conditions will have to be released to the passage of the passage.
+
+For days still heating in the country is still heavy weather.
+
+As a result, the Ceylon Electricity Board has requested the public to use electricity to use electricity due to the increase in electricity demand.
 
 ◼️
 
 [Data](articles/286820b0.json)
+
+[Extended Data](ext_articles/286820b0.ext.json)
 
 ---
 
@@ -619,6 +653,24 @@ In addition, the ministry mentioned that the candidates can also obtain further 
 [Data](articles/bfe5cfcf.json)
 
 [Extended Data](ext_articles/bfe5cfcf.ext.json)
+
+---
+
+### රෝස ළූණු ආනයනය කරයි
+
+*2024-03-12 18:42:35* · [`adalk`](https://www.ada.lk/breaking_news/රෝස-ළූණු-ආනයනය-කරයි/11-408574) · `si`
+
+රෝස ළූණු (Rose Onion) නැමති මධ්‍යම ප්‍රමාණයේ ළූණු ප්‍රභේදය ආනයනය කිරීමට  වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා තීරණය කර තිබේ.
+
+ඔහු මෙම තීරණය ගෙන ඇත්තේ පිටකොටුව තොග වෙළෙඳුන් සමඟ සිය අමාත්‍යාංශයේදී ඊයේ (12දා) සාකච්ඡාවක් පැවැත්වීමෙන් අනතුරුව සීග්‍රයෙන් ඉහළ යන ලොකු ළූණු මිල පාලනයට ක්ෂණික විසඳුමක් ලෙසිනි.
+
+ඒ අනුව නව ළූණු ප්‍රභේදය රුපියල් 375- රුපියල් 400 අතර මිලකට පාරිභෝගිකයාට ලබා ගත හැකි වනු ඇති බව අමාත්‍යවරයා පවසා සිටියේය.
+
+ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ ඉන්දියාව සහ පාකිස්ථානය  විසින් ළූණු අපනයනය නවතා දැමීම හේතුවෙන් මෙරට වෙළෙඳපොල තුළ ලොකු ළූණු සැපයුම අඩු වූ බවයි.
+
+◼️
+
+[Data](articles/7f5cfe11.json)
 
 ---
 
@@ -2239,77 +2291,5 @@ Attorney at Law, police spokesman, Nihal Talduuwa added that the other shotings 
 [Data](articles/d5d5e010.json)
 
 [Extended Data](ext_articles/d5d5e010.ext.json)
-
----
-
-### Boeing whistleblower found dead with ‘self-inflicted’ wound
-
-*2024-03-12 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97894/boeing-whistleblower-found-dead-with-self-inflicted-wound) · `en`
-
-A former Boeing employee known for raising concerns about the firm’s production standards has been found dead in the US.
-
-John Barnett had worked for Boeing for 32 years, until his retirement in 2017.
-
-In the days before his death, he had been giving evidence in a whistleblower lawsuit against the company.
-
-Boeing said it was saddened to hear of Mr Barnett’s passing. The Charleston County coroner confirmed his death to the BBC on Monday.
-
-It said the 62-year-old had died from a “self-inflicted” wound on 9 March and police were investigating.
-
-Mr Barnett had worked for the US plane giant for 32 years, until his retirement in 2017 on health grounds.
-
-From 2010, he worked as a quality manager at the North Charleston plant making the 787 Dreamliner, a state-of-the-art airliner used mainly on long-haul routes.
-
-In 2019, Mr Barnett told the BBC that under-pressure workers had been deliberately fitting sub-standard parts to aircraft on the production line.
-
-...
-
-[Data](articles/2d76e099.json)
-
-[Extended Data](ext_articles/2d76e099.ext.json)
-
----
-
-### The latest Chinese electronic car coming into the market
-
-*2024-03-12 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194417) · `si`
-
-Zoyi, a leading smartphone company in China, enters the electric car market with its first model launching this month, joining Tesla and BYD in the country's largest car market.
-
-🟩
-
-The world's largest car market is considered China. There is also a heavy demand for electrical cars.
-
-Companies like Tesla and BYD are in the forefront of the Chinese market.
-
-Another company has joined the Chinese electric car market competition.
-
-It is Zoyi, one of the leading smartphone products company in China.
-
-The first electronic car made by that company is due to launch this month.
-
-The fifth largest smartphone product company in Zomy China.
-
-◼️
-
-[Data](articles/e75dbf2b.json)
-
-[Extended Data](ext_articles/e75dbf2b.ext.json)
-
----
-
-### Sri Lanka ODI squad against Bangladesh announced
-
-*2024-03-12 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-ODI-squad-against-Bangladesh-announced/108-278707) · `en`
-
-Colombo, March 12 (Daily Mirror) - Sports Minister Harin Fernando has approved the 16-member ODI squad for the upcoming three-match series against Bangladesh, commencing tomorrow at the Zahur Ahmed Chowdhury Stadium in Chattogram.
-
-In light of Asitha Fernando's injury, Lahiru Kumara has been added to the Sri Lanka ODI squad, while Kamindu Mendis will replace Shevon Daniel.
-
-◼️
-
-[Data](articles/4c3c5967.json)
-
-[Extended Data](ext_articles/4c3c5967.ext.json)
 
 ---

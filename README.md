@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 21:03:06**
+As of **2024-03-12 21:17:38**
 
 ## Newspaper Stats
 
-*Scraped **12,473** Articles*
+*Scraped **12,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,068
 adaderanalk | 1,505
 tamilmirrorlk | 1,514
 virakesarilk | 1,726
-dailymirrorlk | 1,899
-adaderanasinhalalk | 1,969
+dailymirrorlk | 1,900
+adaderanasinhalalk | 1,970
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,472 (100.0%) of 12,473 articles have been extended.
+12,473 (100.0%) of 12,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Business Center at Port City...
+
+*2024-03-12 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Business-Center-at-Port-City/110-278699) · `en`
+
+The Port City Colombo today marked a significant milestone with the ground-breaking ceremony for its premier business park, the Business Centre. CHEC Port City Colombo Ltd., said the event transcends a simple building construction – it signifies the dawn of a new era for Sri Lanka’s economic landscape. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/21d89cff.json)
+
+---
+
+### බෙහෙත් පෙත්තක් උගුරේ සිරවුණු දැරියක් මරුට
+
+*2024-03-12 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194435) · `si`
+
+අප වාර්තාකරු සඳහන් කළේ උණ රෝගී තත්ත්වයක් හේතුවෙන් මිත්තණිය විසින් ලබාදුන් බෙහෙත් පෙත්තක් දැරියගේ උගුරේ සිරවී ඇති බවය.
+
+ඉන් සිහිසුන්වූ දැරියව මහියංගනය රෝහලට ඇතුළු කිරීමෙන් පසු  පේරාදෙණිය සිරිමාවෝ බණ්ඩාරනායක ළමා රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කර ඇත.
+
+මව විදේශගත වීම නිසා ඇය සීයා, ආච්චි සහ සහෝදරියන් දෙදෙනා සමඟ නිවසේ ජීවත්වී ඇත.
+
+වැලිගොඩ දැමීමෙන් ජීවිකාව ගෙනයන පියා මොවුන් පදිංචි නිවස ආසන්නයේ වෙනත් නිවසක ජීවත් වන බව පොලිස් පරීක්ෂණ මගින් අනාවරණය වී තිබේ.
+
+මහියංගනය රෝහලේදී දැරියගේ උගුරේ සිරවූ බෙහෙත් පෙත්ත ඉවත්කර වැඩිදුර ප්‍රතිකාර සඳහා පේරාදෙණිය සිරිමාවෝ බණ්ඩාරනායක ළමා රෝහලට මාරුකර එවා තිබුණි.
+
+...
+
+[Data](articles/50f05309.json)
+
+---
 
 ### Shooting incident reported in Mattakkuliya
 
@@ -93,6 +125,8 @@ The day after the tragedy, the Ottawa Police Service (OPS) called the killings a
 ...
 
 [Data](articles/8dea3aed.json)
+
+[Extended Data](ext_articles/8dea3aed.ext.json)
 
 ---
 
@@ -1200,7 +1234,7 @@ Foreign Minister Ali Sabri and Presidential Secretary Saman Ekanayake were also 
 
 Colombo, March 12 (Daily Mirror) - Sri Lanka tourism aims to attract 2.3 million tourists in 2024 and earn over USD 4 billion, Tourism Minister Harin Fernando said.
 
-Speaking at the event, he said Sri Lanka Tourism is launching its destination brand campaign globally with a new positioning and a tagline: ‘You’ll come back for more’.
+After concluding 2024 event of the ITB Berlin Convention, the world’s leading travel industry think tank the minister said Sri Lanka Tourism is launching its destination brand campaign globally with a new positioning and a tagline: ‘You’ll come back for more’.
 
 ...
 
@@ -2269,55 +2303,5 @@ The price of a packet of milk powder is expected to be reduced by an amount rang
 [Data](articles/610a5773.json)
 
 [Extended Data](ext_articles/610a5773.ext.json)
-
----
-
-### Eight people, including the priest of the Adivasivan Temple, in the court
-
-*2024-03-12 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178515) · `ta`
-
-Eight, including a temple priest, arrested during Shivaratri at Vavuniya's Adi Shiva Temple. Police entered the temple and arrested them. The case is being heard at the Vavuniya District Court, with attorneys representing the accused.
-
-🟩
-
-The case is being heard at the Vavuniya Court on Tuesday (12) as eight persons, including the priest of the Adi Shiva temple in Vavuniya, Vettukkunni, Vettukkunni.
-
-On the day of Shivaratri, when the worship of the Adi Shiva temple was held at the Adi Shiva Temple in Vavuniya, police entered the temple with their feet and arrested eight people, including the priest.
-
-Nedungeni police presented the eight of them at the Vavuniya Magistrate's Court last evening (09). Attorneys K. Sukas, T.Thirul and A. Dileep Kumar were present on behalf of the eight people, including the temple priest.
-
-All eight persons arrested at the temple. Investigations into the case have been kept in detention until the 12th. They were also informed to the legal officer of the Throat Hard
-
-The case is currently being heard in the Vavuniya District Court and the lawyer and parliamentarian Sumanthiran and MP Gajendran have gone into court.
-
-◼️
-
-[Data](articles/2c15031c.json)
-
-[Extended Data](ext_articles/2c15031c.ext.json)
-
----
-
-### English medium is done by 1000 schools
-
-*2024-03-12 12:52:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉංග්‍රීසි-මාධ්‍ය-පාසල්-1000-ක්-කරයි/11-408556) · `si`
-
-1000 schools now teach English medium, part of the National Educational Policy Framework for economic transformation. Since 2000, this has been expanded to eight subjects. Demand for English education has led to an increase in schools to 1,000, aiming to educate 200,000 students in English by 2025. The Cabinet Committee, including Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premajayantha, oversees this implementation.
-
-🟩
-
-The Cabinet Committee appointed to monitor the implementation of the National Educational Policy Framework for the Economic Conversion as an essential part of the economic transformation.
-
-Since 2000, schools have been taught to teach eight subjects from English medium.
-
-Since there is a great demand society in English, the number of schools on the National Education Policy of the National Education Policy yesterday was informed to increase the number to 1,000. By 2025, at least 200,000 students will be able to provide education in English.
-
-The relevant Cabinet Committee consists of eight ministers including Prime Minister Dinesh Gunawardena, Education Minister Dr. Susil Premajayantha.
-
-◼️
-
-[Data](articles/1154cf8f.json)
-
-[Extended Data](ext_articles/1154cf8f.ext.json)
 
 ---

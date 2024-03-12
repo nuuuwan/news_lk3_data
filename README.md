@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 03:02:59**
+As of **2024-03-13 03:17:58**
 
 ## Newspaper Stats
 
-*Scraped **12,513** Articles*
+*Scraped **12,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 120
 bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 644
+dailyftlk | 647
 economynextcom | 666
 islandlk | 677
 adalk | 1,070
 adaderanalk | 1,509
 tamilmirrorlk | 1,518
-virakesarilk | 1,738
+virakesarilk | 1,740
 dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
@@ -26,11 +26,101 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,513 (100.0%) of 12,513 articles have been extended.
+12,513 (100.0%) of 12,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### Talawakelle Tea Estates wins Best Corporate Citizen Sustainability Award 2023
+
+*2024-03-13 02:48:08* · [`dailyftlk`](https://www.ft.lk/business/Talawakelle-Tea-Estates-wins-Best-Corporate-Citizen-Sustainability-Award-2023/34-759409) · `en`
+
+Talawakelle Tea Estates yesterday won the coveted ‘Best Corporate Citizen Sustainability Award 2023’ at the 20th Best Corporate Citizen Sustainability Awards organised by the Ceylon Chamber of Commerce.
+
+Aitken Spence and Nestlé Lanka were adjudged the first and second runners up respectively.
+
+The annual BCCS Awards is the premier corporate citizenship award, and highlights sustainability champions in the national corporate arena. The Awards promote corporate citizen sustainability ownership and initiatives that deliver social and environmental benefits while pursuing profits.
+
+Talawakelle Tea Estates also walked away with the Category B ‘Best Corporate Citizen Sustainability Award 2023’, awarded to companies with an annual turnover below Rs. 15 billion, while Elpitiya Plantations and Kelani Valley Plantations were awarded as the respective first and second runners-up in this category.
+
+...
+
+[Data](articles/864951ef.json)
+
+---
+
+### வடக்கு மற்றும் வடமேல் மாகாணங்களுக்கான புதிய பிரதமச் செயலாளர்கள் நியமனம்
+
+*2024-03-13 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178576) · `ta`
+
+வடக்கு மாகாண பிரதமச் செயலாளராக எல். இளங்கோன் மற்றும் வடமேல் மாகாண பிரதமச் செயலாளராக தீபிகா கே குணரத்ன ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இந்த நியமனங்கள் மேற்கொள்ளப்பட்டுள்ளதுடன் இதற்கான நியமனக் கடிதங்களை ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஜனாதிபதி செயலகத்தில் வைத்து செவ்வாய்க்கிழமை (12) கையளித்தார்.
+
+இலங்கை நிர்வாகச் சேவையின் தலைசிறந்த அதிகாரியான எல்.இளங்கோவன் வடக்கு மாகாண அமைச்சுக்கள் பலவற்றின் செயலாளர் பதவி வகித்ததுடன், வடக்கு மாகாண ஆளுநரின் செயலாளராகும் பணியாற்றியுள்ளார்.
+
+எல்.இளங்கோவன் வடக்கு மாகாண பிரதமச் செயலாளராக நியமனம் பெறும் வரை, வடக்கு மாகாண அபிவிருத்தி தொடர்பான ஜனாதிபதியின் மேலதிக செயலாளராக பணியாற்றி வந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a31dec43.json)
+
+---
+
+### SLSI to sign MoU with China’s Standardisation Administration to boost trade
+
+*2024-03-13 02:44:43* · [`dailyftlk`](https://www.ft.lk/business/SLSI-to-sign-MoU-with-China-s-Standardisation-Administration-to-boost-trade/34-759408) · `en`
+
+The Sri Lanka Standards Institute (SLSI) is set to collaborate with the Standardisation Administration of China to alleviate technical barriers hindering non-tariff trade between Sri Lanka and China.
+
+The Cabinet of Ministers cleared to sign a Memorandum of Understanding (MoU) to streamline trade processes and enhance economic cooperation between the two countries.
+
+“Following thorough review processes, from the Attorney General and the External Affairs Ministry, approval was received to proceed with signing the MoU,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
+
+He said the move reflects a significant step towards enhancing trade facilitation and strengthening economic ties between Sri Lanka and China.
+
+In 2023, Sri Lanka exported a total of $ 257.73 million worth of goods.
+
+◼️
+
+[Data](articles/0bb6b69d.json)
+
+---
+
+### Access, Ninewells JV get UDA land for healthcare venture
+
+*2024-03-13 02:44:04* · [`dailyftlk`](https://www.ft.lk/business/Access-Ninewells-JV-get-UDA-land-for-healthcare-venture/34-759407) · `en`
+
+The N.W. Realty Ltd., which was formed as a joint venture between Ninewells Hospital Ltd., and Access International Ltd., got around 0.1929 hectares (0.47 acres) of land for a healthcare project.
+
+“Investment proposals have been invited on a competitive basis to dispose of a plot of land belonging to the Urban Development Authority (UDA), located at Kirimandala Mawatha in Narahenpita, for health and related activities development project for a 50-year lease period,” Cabinet Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
+
+The Cabinet of Ministers approved the proposal submitted by the Urban Development and Housing Minister Prasanna Ranatunga, after reviewing the recommendations of the Cabinet Appointed Standing Negotiation Committee.
+
+◼️
+
+[Data](articles/e9f04871.json)
+
+---
+
+### வீட்டுதோட்ட விளைச்சல் வேலைத் திட்டத்திற்காக 231 மில்லியன் ஒதுக்கீடு - மொஹான் பிரியதர்ஷன டி சில்வா
+
+*2024-03-13 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178575) · `ta`
+
+நாட்டின் பொருளாதாரத்தைப் பலப்படுத்த விவசாய அமைச்சு பல்வேறு வேலைத் திட்டங்களைச் செயற்படுத்துவதாகவும், தற்போதும் 10 பேர்ச்சஸ்ஸூக்கும் அதிகமான வீட்டுத் தோட்டங்களுக்கு 2 இலட்சம் ரூபா ஒதுக்கீடுகளை வழங்கத் தீர்மானித்துள்ளதாகவும் விவசாய இராஜாங்க அமைச்சர் மொஹான் பிரியதர்ஷன டி சில்வா தெரிவித்தார்.
+
+அதற்காக விவசாய அபிவிருத்தி திணைக்களத்தினால் 232 ரூபா ஒதுக்கீடு செய்யப்பட்டிருப்பதாகவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+''தற்போது நாம் மிகப் பெரிய பொருளாதார நெருக்கடியை எதிர்கொண்டிருக்கும் நாடு. கடந்த காலங்களில் விவசாய துறையும் பல்வேறு நெருக்கடிகளை எதிர்கொண்டிருந்தது. தற்போது அந்த நிலைமை மாறியிருக்கிறது.  விவசாய அமைச்சும் நாட்டின் பொருளாதாரத்தைப் பலப்படுத்த பல வேலைத் திட்டங்களை ஆரம்பித்துள்ளது.  அதனால் நாட்டின் பொருளாதாரமும் விவசாயத் துறையும் முன்பிருந்த நிலையை விடவும் வளர்ச்சியை எட்டியுள்ளன.
+
+...
+
+[Data](articles/9c501322.json)
+
+---
 
 ### Canada Visa - Tellippala
 
@@ -2191,113 +2281,5 @@ King Herald has been facing health impacts for the past few years. However, he r
 [Data](articles/058ce4c1.json)
 
 [Extended Data](ext_articles/058ce4c1.ext.json)
-
----
-
-### Sri Lanka meets 92 pct of its sanitary napkin demand domestically, tax-free: official
-
-*2024-03-12 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-meets-92-pct-of-its-sanitary-napkin-demand-domestically-tax-free-official-154325/) · `en`
-
-ECONOMYNEXT — Sri Lanka meets 92 percent of its demand for sanitary napkins domestically, all of which is tax-free barring the remaining 8 percent, State Minister of Finance Ranjith Siyambalapitiya said.
-
-Siyambalapitiya told reporters that the remaining eight percent, which he said is manufactured by a single company as finished products, is charged the  Ports and Airports Development Levy and the Social Security Contribution Levy and the Cess Tax.
-
-“The total of these three comes up to 22.5 percent. There is no 40 percent tax as claimed. Up to 92 percent of pads made in Sri Lanka are not taxed,” he said.
-
-Most of Sri Lanka’s sanitary napkin needs are made by three companies that import the materials and inputs and produce the napkins in the country.
-
-...
-
-[Data](articles/b10307ce.json)
-
-[Extended Data](ext_articles/b10307ce.ext.json)
-
----
-
-### Sri Lanka is named ODI squad
-
-*2024-03-12 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194421) · `si`
-
-Sri Lanka's ODI squad for the series against Bangladesh has been announced.
-
-🟩
-
-The Sri Lankan squad has been named for the one-day series of ODIs with Bangladesh.
-
-◼️
-
-[Data](articles/53b29cd3.json)
-
-[Extended Data](ext_articles/53b29cd3.ext.json)
-
----
-
-### 1400 million Yen from Japan
-
-*2024-03-12 15:13:23* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-යෙන්-මිලියන-1400ක-ප්‍රදානයක්/11-408564) · `si`
-
-Japan grants Sri Lanka 1400 million Yen for technical and humanitarian operations, valued at 3.3 billion rupees, approved by President Ranil Wickremesinghe.
-
-🟩
-
-The Japanese Economic and Social Development Program has been given to Sri Lanka as a grant to Sri Lanka as a grant. The cabinet paper presented by President Ranil Wickremesinghe has approved the Cabinet.
-
-The rupee value is about 3.3 billion rupees. The money affected community is due to be used for technical and humanitarian operations to the community affected community in Sri Lanka.
-
-◼️
-
-[Data](articles/da8985a8.json)
-
-[Extended Data](ext_articles/da8985a8.ext.json)
-
----
-
-### 21 killed in 30 shootings so far in 2024 – Police
-
-*2024-03-12 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97897/21-killed-in-30-shootings-so-far-in-2024-police) · `en`
-
-Police state that 30 shooting incidents have been reported from across the island during the period elapsed from the beginning of this year to 12 March.
-
-Police Media Spokesman DIG Nihal Thalduwa revealed that 21 individuals have been killed in these shooting incidents while 14 others were injured.
-
-According to him, 17 out of 30 shooting incidents had been carried out by organized criminal gangs.
-
-Furthermore, DIG Thalduwa expressed that the other 13 incidents had stemmed from personal disputes, citing details uncovered so far during the investigations.
-
-◼️
-
-[Data](articles/45c6c415.json)
-
-[Extended Data](ext_articles/45c6c415.ext.json)
-
----
-
-### A controversial law is implemented in India
-
-*2024-03-12 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194420) · `si`
-
-India's controversial citizenship law, passed in 2019, allows non-Muslims from Pakistan, Bangladesh, and Afghanistan to apply for Indian citizenship. Critics argue it's anti-Muslim, leading to protests and deaths. The government claims it targets minority Hindus, Sikhs, Buddhists, Jain, Parsis, and Christians, and applies to those who arrived before 2014. Citizenship applications can be made online.
-
-🟩
-
-The Indian government plans to implement a law on controversial citizenship.
-
-It proposes that non-Muslim Pakistani, Bangladesh and Afghanistan minities to request Indian citizenship.
-
-The bill was passed in 2019 and claimed that it was anti-Muslim.
-
-Protests began against it and several had died.
-
-However, the Indian government emphasizes that it will be implemented with the objective of being affected by minority Hindu, Sik, Buddhists, Jain, Parsians, and Christianities.
-
-This law applies only for the minorities who came to India before 31st of 2014.
-
-However, Indian authorities say that Indian citizenship can be applied on online procedure.
-
-◼️
-
-[Data](articles/163016d6.json)
-
-[Extended Data](ext_articles/163016d6.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 00:33:23**
+As of **2024-03-13 00:49:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,499 (100.0%) of 12,501 articles have been extended.
+12,501 (100.0%) of 12,501 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The reports of our very own Central Bank state “...The latest official assessm
 
 [Data](articles/bac9f468.json)
 
+[Extended Data](ext_articles/bac9f468.ext.json)
+
 ---
 
 ### Russian economy grows despite sanctions- study
@@ -67,6 +69,8 @@ On the other contrary, Russia, has been able to circumvent the sanctions and kee
 ...
 
 [Data](articles/07084f62.json)
+
+[Extended Data](ext_articles/07084f62.ext.json)
 
 ---
 

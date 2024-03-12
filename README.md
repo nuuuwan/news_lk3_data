@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 14:33:19**
+As of **2024-03-12 14:52:34**
 
 ## Newspaper Stats
 
-*Scraped **12,381** Articles*
+*Scraped **12,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,136 @@ bbccomsinhala | 142
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
-economynextcom | 647
+economynextcom | 654
 islandlk | 677
 adalk | 1,054
-adaderanalk | 1,494
-tamilmirrorlk | 1,510
+adaderanalk | 1,495
+tamilmirrorlk | 1,512
 virakesarilk | 1,707
-dailymirrorlk | 1,888
+dailymirrorlk | 1,889
 adaderanasinhalalk | 1,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,379 (100.0%) of 12,381 articles have been extended.
+12,381 (99.9%) of 12,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### කතකගේ දෑත් දෙපා ගැට ගසා රන් භාණ්ඩ කොල්ලකෑ මෙහෙකාරිය අත්අඩංගුවට
+### 2,500 new teachers to be recruited for English medium education
+
+*2024-03-12 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97895/2500-new-teachers-to-be-recruited-for-english-medium-education) · `en`
+
+The Cabinet Sub-Committee to formulate and implement a National Education Policy Framework (NEPF), recognizing education’s crucial role in contemporary economic transformation, convened on Monday (March 11) under the patronage of President Ranil Wickremesinghe at the President’s Office.
+
+The committee comprises eight ministers, including Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premjayantha.
+
+Within the NEPF are outlined short- and medium-term strategies aimed at transforming the education sector. During the meeting, the committee focused specifically on urgent and critical measures necessary to address immediate challenges within the current education landscape.
+
+...
+
+[Data](articles/82bf250d.json)
+
+---
+
+### எ.பி க்களின் மாத சம்பளம் ரூ. 8 கோடி
+
+*2024-03-12 14:32:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எ-பி-க்களின்-மாத-சம்பளம்-ரூ-8-கோடி/175-334560) · `ta`
+
+பாராளுமன்ற உறுப்பினர்களுக்கு சம்பளம் வழங்குவதற்கு மாதாந்தம் ஏறத்தாழ ரூபா எட்டு கோடி செலவாகிறது என நிதிநிலை அறிக்கை ஒன்றில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, ஒரு வருடத்தில் எம்.பி.க்களின் சம்பளம் வழங்குவதற்கு கிட்டத்தட்ட நூறு கோடி ரூபா செலவிடப்படவுள்ளது.
+
+◼️
+
+[Data](articles/09a256a0.json)
+
+---
+
+### Sri Lanka’s cabinet approves debt recovery suspension amendments
+
+*2024-03-12 14:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-cabinet-approves-debt-recovery-suspension-amendments-154312/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of ministers has approved changes to the island’s debt recovery laws to suspend the sale of collateral by bank board resolution (parate execution) Minister Bandula Gunawardana said.
+
+Changes to the Debt Recovery (Special Provisions) Act No.4 of 1990 was cleared by the Attorney General.
+
+Debt recovery action approved by courts will continue, he said.
+
+Sri Lanka Banks Association on Monday warned that making it more difficult to recover debt will increase the risk premium for all borrowers and will also put customer deposits at risk. (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/b377b785.json)
+
+---
+
+### 72 நாட்களில் 21 கொலைகள்
+
+*2024-03-12 14:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/72-நாட்களில்-21-கொலைகள்/175-334559) · `ta`
+
+2024 ஜனவரி 1 முதல் மார்ச் 12 வரை நாட்டின் பல்வேறு பகுதிகளில் 30 துப்பாக்கிச் சூடு சம்பவங்கள் பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதில் 21 பேர் உயிரிழந்துள்ளதுடன் 14 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+அத்துடன், 30 துப்பாக்கிச் சூட்டுச் சம்பவங்களில் 17 சம்பவங்கள் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல்களால் மேற்கொள்ளப்பட்டதாக அவர் குறிப்பிட்டார்.
+
+மேலும், ஏனைய 13 துப்பாக்கிச் சூட்டுச் சம்பவங்கள் தனிப்பட்ட காரணங்களுக்காக மேற்கொள்ளப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் சுட்டிக்காட்டினார்.
+
+◼️
+
+[Data](articles/7cedf05a.json)
+
+---
+
+### Machchar arrested for robbing sister's arms
 
 *2024-03-12 14:15:42* · [`adalk`](https://www.ada.lk/breaking_news/කතකගේ-දෑත්-දෙපා-ගැට-ගසා-රන්-භාණ්ඩ-කොල්ලකෑ-මෙහෙකාරිය-අත්අඩංගුවට/11-408560) · `si`
 
-පානදුර ප්‍රදේශයේ ව්‍යාපාරික කාන්තාවකගේ මිත්තණියගේ දෑත් දෙපා රෙදි පටි වලින් ගැටගසා රුපියල් ලක්ෂ පහක් පමණ වටිනා රන් භාණ්ඩ කොල්ලකා පලාගිය නිවසේ මෙහෙකාරිය  අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි.
+Machchar, a 65-year-old from Kamburupitiya, was arrested for robbing his sister's arms. He was found in Gampaha, not at home. The police are investigating stolen gold items.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මාතර,  කඹුරුපිටිය ප්‍රදේශයේ පදිංචි 65 හැවිරිදි කාන්තාවක බව පොලිසිය කීය.
+🟩
 
-පානදුර බෙක්කේගම ප්‍රදේශයේ පදිංචි ව්‍යාපාරික කාන්තාවක විසින් කල පැමිණිල්ලකට අනුව සැකකාරිය අත්අඩංගුවට ගත්බව වැටලීමට එක්වූ නිලධාරියෙක් කීය.
+The maid of the Panadura, the grandmother's hands were tied with bands worth Rs.
 
-ස්වාමි දියණිය සහ ඇයගේ ස්වාමිපුරුෂයා නිවසේ නොමැති අතරේ ඇයගේ මිත්තණියගේ  දෑත් දෙපාරේ රෙදි පටිවලින් ගැට ගසා රුපියල් ලක්ෂ පහක් පමණ වටිනා රන් භාණ්ඩ කොල්ලකා සැකකාරිය පළාගොස් තිබූ බව පොලිසිය සඳහන් කරයි.
+The suspect was a 65 year old resident of the Kamburupitiya area in Matara.
 
-ඒ අනුව ඇය පදිංචි මාතර කඹුරුපිටිය  පරීක්ෂා කිරීම් සිදුකර ලබාගත් තොරතුරු මත ගම්පහ ප්‍රදේශයේ තවත් නිවසක මෙහෙකාර සේවයේ යෙදී සිටියදී අත්අඩංගුවට ගත්බව උසස් පොලිස් නිලධාරියෙක් කීය.
+A businessman resident of Buckagama, Panadura, an officer who was arrested was a raid of the suspect.
 
-සැකකාරිය විසින් සොරකම් කරන ලද රන් භාණ්ඩ සම්බන්ධයෙන් විමර්ශන සිදු කරන බවත්,ඒවා ඉදිරි දින කිහිපයේදී සොයාගත හැකි වන බවත් පොලිසිය සඳහන් කරයි.
+The police said that Swami daughter and her husband had not at home, police said.
+
+Accordingly, he said he was arrested while he was arrested while engaging in another house in Gampaha on the information he was in the Gampaha area.
+
+The suspect is conducting investigations into the stolen gold items and find them in the next few days.
 
 ◼️
 
 [Data](articles/1df61ca9.json)
+
+[Extended Data](ext_articles/1df61ca9.ext.json)
+
+---
+
+### Sri Lanka to install 100 MW solar power plant in Batticaloa on BOO basis
+
+*2024-03-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-100-mw-solar-power-plant-in-batticaloa-on-boo-basis-154305/) · `en`
+
+ECONOMYNEXT – Sri Lanka is to commission a 100 MW solar power plant in Oddamawadi, Batticaloa on a build, own and operate basis (BOO), Minister Bandula Gunawardena said.
+
+“The Cabinet of Ministers approved the proposal presented by the Minister of Power and Energy and taking the expressions of interest received into account, to award the project  to Solar Forge Batticaloa on a BOO basis for a 20-year operating period.”
+
+Gunawardena said the island was seeing much interest from foreign investors for solar power projects.
+
+Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri Lanka’s Power and Energy Minister said.
+
+“A 2 MW Ground Mount Solar Project in Batticaloa was opened this morning. The project under the 90 MW CEB tendering process was constructed and commissioned by BackBay Solar Private Ltd,” Kanchana Wijesekera said on X (twitter).
+
+...
+
+[Data](articles/e36c708c.json)
 
 ---
 
@@ -260,6 +352,24 @@ The President announced that the number of English language schools would be inc
 
 ---
 
+### Sri Lanka ruling party hasn’t decided it’ll back president at the polls: MP
+
+*2024-03-12 13:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-hasnt-decided-itll-back-president-at-the-polls-mp-154282/) · `en`
+
+ECONOMYNEXT — The decision makers of the ruling Sri Lanka Podujana Peramuna (SLPP) has not named President Ranil Wickremesinghe the party’s candidate for the upcoming presidential election despite personal opinions expressed by some members, MP Tissa Kuttiarachchi said.
+
+“We don’t ever say Mr Wickremesinghe is our candidate. He is the leader of the United National Party (UNP). This was proved at the UNP’s maiden rally over the weekend. UNP deputy leader Akila Viraj Kariyawasam took Mr Wickremesnighe there as the president of the Democratic Socialist Republic of Sri Lanka and the leader of the UNP,” said Kuttiarachchi.
+
+“There is no problem with Mr Wickremesinghe being named the UNP’s candidate. But the higher echelons of the SLPP has not yet for any reason decided that he is the party’s candidate,” he said.
+
+The SLPP legislator told reporters it’s not fair that individual members express their personal opinion when they’re representing a party.
+
+...
+
+[Data](articles/8f3b92cf.json)
+
+---
+
 ### Change in the price of milkma
 
 *2024-03-12 13:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-விலையில்-மாற்றம்/175-334553) · `ta`
@@ -275,6 +385,26 @@ Trade Minister Nalin Fernando said the price of a kilogram of milk would be redu
 [Data](articles/9697e466.json)
 
 [Extended Data](ext_articles/9697e466.ext.json)
+
+---
+
+### Sri Lanka and China standards agencies to sign agreement
+
+*2024-03-12 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-china-standards-agencies-to-sign-agreement-154283/) · `en`
+
+ECONOMYNEXT – Sri Lanka Standards Institution and the Standardization Administration of China will sign an agreement to iron out barriers in trade linked to non-tariff areas, Minister Bandula Gunawardena said.
+
+“It has been proposed to sign a Memorandum of Understanding between the Sri Lanka Standards Institute and China’s Standardization Administration to reduce technical barriers in trade between Sri Lanka and China,”
+
+The Standardization Administration of China is the standards organization authorized by the State Council of China.
+
+“The clearance of the Attorney General and the approval of the Ministry of External Affairs have been received for the relevant draft MoU. The Cabinet of Ministers approved the proposal to sign the said MoU,” Gunawardena said.
+
+Sri Lanka is seeking to expand on trade agreements to facilitate exports of goods and services. (Colombo/March12/2024)
+
+◼️
+
+[Data](articles/b2247174.json)
 
 ---
 
@@ -356,21 +486,27 @@ The case is currently being heard in the Vavuniya District Court and the lawyer 
 
 ---
 
-### ඉංග්‍රීසි මාධ්‍ය පාසල් 1000 ක් කරයි
+### English medium is done by 1000 schools
 
 *2024-03-12 12:52:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉංග්‍රීසි-මාධ්‍ය-පාසල්-1000-ක්-කරයි/11-408556) · `si`
 
-ආර්ථික පරිවර්තනයේ අත්‍යවශ්‍ය අංගයක් ලෙස සලකා රජය විසින් සකස් කරන ලද ජාතික අධ්‍යාපන ප්‍රතිපත්ති රාමුව ක්‍රියාත්මක කිරීම අධීක්ෂණය සඳහා පත් කරන ලද අමාත්‍ය මණ්ඩල කමිටුව ඊයේ (11) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේ දී රැස් විය.
+1000 schools now teach English medium, part of the National Educational Policy Framework for economic transformation. Since 2000, this has been expanded to eight subjects. Demand for English education has led to an increase in schools to 1,000, aiming to educate 200,000 students in English by 2025. The Cabinet Committee, including Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premajayantha, oversees this implementation.
 
-2000 වර්ෂයේ සිට පාසල්වල ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් 08ක් ඉගැන්වීම ආරම්භ කරන ලද නමුත් එදින සිට මේ වන විට වසර 24ක් ගතවී ඇතත් ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් ඉගැන්වීම සිදුවනුයේ පාසල් 765ක පමණි.
+🟩
 
-ඉංග්‍රීසි මාධ්‍යයෙන් අධ්‍යාපනය ලබා ගැනීම සඳහා විශාල ඉල්ලුමක් සමාජයේ පවතින බැවින් ඊයේ පැවති ජාතික අධ්‍යාපන ප්‍රතිපත්තිය පිළිබඳ අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේදී මෙම පාසල් සංඛ්‍යාව 1,000 දක්වා වැඩි කරන ලෙස දැනුම් දෙන ලදී. එමඟින් 2025 වසර වන විට අවම වශයෙන් සිසුන් 200,000ක් සඳහා ඉංග්‍රීසි භාෂාවෙන් අධ්‍යාපනය ලබා ගැනීමට පහසුකම් සැලසෙනු ඇත.
+The Cabinet Committee appointed to monitor the implementation of the National Educational Policy Framework for the Economic Conversion as an essential part of the economic transformation.
 
-අදාල අමාත්‍ය මණ්ඩල කමිටුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්ජයන්ත යන මහත්වරුන් ඇතුළු අමාත්‍යවරු 08 දෙනෙකුගෙන් සමන්විතය.
+Since 2000, schools have been taught to teach eight subjects from English medium.
+
+Since there is a great demand society in English, the number of schools on the National Education Policy of the National Education Policy yesterday was informed to increase the number to 1,000. By 2025, at least 200,000 students will be able to provide education in English.
+
+The relevant Cabinet Committee consists of eight ministers including Prime Minister Dinesh Gunawardena, Education Minister Dr. Susil Premajayantha.
 
 ◼️
 
 [Data](articles/1154cf8f.json)
+
+[Extended Data](ext_articles/1154cf8f.ext.json)
 
 ---
 
@@ -427,6 +563,24 @@ Marikar responded to this question by recalling how President Ranasinghe Premada
 [Data](articles/4bc43e83.json)
 
 [Extended Data](ext_articles/4bc43e83.ext.json)
+
+---
+
+### Pilot project to empower Aswesuma welfare scheme beneficiaries
+
+*2024-03-12 12:34:00* · [`economynextcom`](https://economynext.com/pilot-project-to-empower-aswesuma-welfare-scheme-beneficiaries-154275/) · `en`
+
+ECONOMYNEXT – A pilot project to uplift 16,000 Aswesuma beneficiary families, using Asian Development Bank, World Bank and local funds will be implemented in selected divisional secretariats of the 25 districts, Cabinet spokesman Minister Bandula Gunawardena said.
+
+“Cabinet approved a proposal to implement a program with the aim of empowering the families benefiting under the Aswesuma social welfare scheme economically, socially and mentally, within three years,” Gunawardena said.
+
+Applications for the second phase of the welfare scheme close on March 15. Minister of State for Finance Shehan Semasinghe said payments will be made to the beneficiaries selected under the second phase in July.
+
+Nearly 2 million people are entitled to welfare benefits, and the second phase is expected to increase that number to 2.4 million. 205 billion rupees has been allocated for this purpose in this year’s budget. (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/3e7ed719.json)
 
 ---
 
@@ -501,6 +655,26 @@ The victim is a 24 year old resident of Wadukkoddai. The Kadukcounddai Police an
 [Data](articles/5f3ca696.json)
 
 [Extended Data](ext_articles/5f3ca696.ext.json)
+
+---
+
+### Sri Lanka NSBM university to get medical faculty
+
+*2024-03-12 12:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-nsbm-university-to-get-medical-faculty-154256/) · `en`
+
+ECONOMYNEXT – A Faculty of Medicine is to be established at the National School of Business Management, in Homagama, Cabinet spokesman Bandula Gunawardena said.
+
+“A large number of our students are going abroad to study medicine,” Minister Bandula Gunawardena said Tuesday announcing the week’s Cabinet decisions.
+
+“It has been proposed to establish a medical faculty under the direct supervision and regulation of the Ministry of Education, the Ministry of Health and the Sri Lanka Medical Council at the National School of Business Management, a fully self-financed institution owned by the government and to award MBBS degrees through it.”
+
+The new faculty will be able to enroll 500 local and foreign students annually for the degree course, Gunawardena said.
+
+“The Homagama Base Hospital will be upgraded to teaching hospital status, like the Kalubowila Hospital, for the undergraduates’ clinical training (sa-ya-ni-ka pu-hu-nu-wa).”
+
+...
+
+[Data](articles/ebcbc5e8.json)
 
 ---
 
@@ -849,6 +1023,30 @@ Trump had initially supported efforts to ban the app in the U.S., but he recentl
 [Data](articles/15c78cf5.json)
 
 [Extended Data](ext_articles/15c78cf5.ext.json)
+
+---
+
+### Sri Lanka’s coconut price down 2.6-pct at auction
+
+*2024-03-12 11:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-coconut-price-down-2-6-pct-at-auction-154238/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut price fell 2.6 percent to 72,030 per 1,000 nuts at an auction on March 7, data from the island’s Coconut Development Authority shows.
+
+The highest price was 79,100 rupees for 1,000 nuts down from 79,600 rupees a week ago, while the lowest was 65,000 down from 67,000 rupees.
+
+A total of 842,503 coconuts were offered at the auction and 560,210 nuts were sold.
+
+Wholesale prices were 95 to 105 rupees for large nuts and 80 to 85 rupees per small nut in the week to March 7, 2024.
+
+Farmgate prices in Kurunegala were 70,000 to 75,000 rupees per 1,000 nuts up from 70,000 -72,000 per 1000 nuts two weeks ago.
+
+Coconut oil was 590,000 to 600,000 rupees per metric ton from last week’s 570,000- 590,000.
+
+Coconut shells were 28,000 to 30,000 rupees a metric ton up from last week’s 28,000-29,000. (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/1c1a1a35.json)
 
 ---
 
@@ -1409,6 +1607,22 @@ Police said that the man was shot dead when he was taken to rescue the weapons h
 [Data](articles/51f9e39c.json)
 
 [Extended Data](ext_articles/51f9e39c.ext.json)
+
+---
+
+### No tax on 92% of sanitary pads
+
+*2024-03-12 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-tax-on-92-of-sanitary-pads/108-278690) · `en`
+
+Colombo, March 12 (Daily Mirror) - A total of 92% of the sanitary pads required in this country are produced in our country, and no tax is charged for them, Finance State Minister Ranjith Siyambalapitiya said.
+
+While addressing a programme in the Thalduwa area, he pointed out that one company brings the remaining 8% of the imported goods to Sri Lanka as manufactured goods, and only 22.5% tax is charged for it.
+
+That amount of tax is levied only for the purpose of protecting the local producer, the Minister added.
+
+◼️
+
+[Data](articles/52b323e8.json)
 
 ---
 
@@ -2079,259 +2293,5 @@ He has also presented papers and made presentations, at all times trying to incr
 [Data](articles/67660cbd.json)
 
 [Extended Data](ext_articles/67660cbd.ext.json)
-
----
-
-### Officers to protect elephant fences
-
-*2024-03-12 04:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-வேலிகளைப்-பாதுகாக்க-உத்தியோகத்தர்கள்/175-334540) · `ta`
-
-The Finance Ministry has tasked the Ministry of Wildlife with protecting elephant fences, granting permission to recruit 4,500 multi-purpose development officers for this purpose.
-
-🟩
-
-The Finance Ministry has given the Ministry of Wildlife to the Ministry of Wildlife to protect the elephant fences, the Minister of Finance and Forest Resources Protection and Irrigation, Pavithra Devi Wanniyarachchi said.
-
-Minister Pavithra Wanniyarachchi said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-The Ministry of Finance has granted permission to recruit 4,500 multi -purpose development officers to protect the elephant fences.
-
-None of the new employees will be appointed for that. Multipurpose Development Officers who have been recognized to join the Ministry are already engaged in the safety of the elephant fence.. (A)
-
-◼️
-
-[Data](articles/3001c93c.json)
-
-[Extended Data](ext_articles/3001c93c.ext.json)
-
----
-
-### Westminster Director - Speaker Meeting
-
-*2024-03-12 04:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெஸ்ட்மினிஸ்டர்-பணிப்பாளர்-சபாநாயகர்-சந்திப்பு/175-334539) · `ta`
-
-Mathiv Hedges, Asia-Pacific & USA Director at Westminster Forum for Democracy, met Speaker Mahinda Yapa Abeywardena in Parliament, with Kushani Rohanadeera, Parliament Secretary General, and Sanjay Vignaraja, Sri Lanka Director of Westminster for Democracy, present. Abeywardena congratulated Parliament committees.
-
-🟩
-
-Mathiv Hedges, Regional Director of Asia, Pacific and USA at the Westminster Forum for Democracy, met Speaker Mahinda Yapa Abeywardena in Parliament.
-
-The Secretary General of Parliament Kushani Rohanadeera and Sri Lanka Director of the Westminster for Democracy Sanjay Vignaraja were also present.
-
-Speaker Mahinda Yapa Abeywardena congratulated the Government Funds Committee on Parliament, Government Responsibility Committee and Committee on Government Accounts Committee. (A)
-
-◼️
-
-[Data](articles/92c99325.json)
-
-[Extended Data](ext_articles/92c99325.ext.json)
-
----
-
-### Ramadan fasting is just beginning today
-
-*2024-03-12 04:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரமழான்-நோன்பு-இன்று-ஆரம்பம்/175-334538) · `ta`
-
-Ramadan fasting starts today. The Hijri 1445 Deciding Committee Conference on the Holy Ramadan's title was held at Colombo Great School.
-
-🟩
-
-St. Ramadan fasting will commence today (12).
-
-The Hijri 1445 Deciding Committee Conference to Determine the Title of the Holy Ramadan was held at the Colombo Great School following the Mahrip prayer yesterday evening.
-
-The Ramadan fasting will begin today, with the source of information available in many parts of the country in the Ramadan month.. (A)
-
-◼️
-
-[Data](articles/05e3bd1d.json)
-
-[Extended Data](ext_articles/05e3bd1d.ext.json)
-
----
-
-### The second phase of the first Aswesa Month of June
-
-*2024-03-12 04:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜுன்-மாதம்-முதல்-அஸ்வெசும-இரண்டாம்-கட்டம்/175-334537) · `ta`
-
-The second phase of the Ashem Welfare Program, starting next June, will increase beneficiaries to 2.4 million. Applications close on the 15th.
-
-🟩
-
-Finance Minister Xihan Semasinghe has said that the payments for the second phase of the second phase of the selected beneficiaries under the Ashem Welfare Program will be issued from next June.
-
-The period of submitting applications for the second phase of the Ashemu Welfare Payment will be completed on the 15th of this month.
-
-Under the second phase, the number is expected to increase to 2.4 million, Minister Sehan Semasinghe said.. (A)
-
-◼️
-
-[Data](articles/b7e8d022.json)
-
-[Extended Data](ext_articles/b7e8d022.ext.json)
-
----
-
-### Bankers vow to continue exercising mortgage actions via courts
-
-*2024-03-12 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bankers-vow-to-continue-exercising-mortgage-actions-via-courts/108-278677) · `en`
-
-Assert suspension of parate would not preserve a mortgaged asset of a defaulter
-
-Say parate is ‘only one’ option available to banks in debt recovery process
-
-Point out there was no consultation with banks regarding suspension
-
-Sri Lanka’s bankers vow to continue exercising mortgage actions against the defaulted creditors through the courts of law, once the suspension of the parate rights of banks comes into effect.
-
-In a media statement yesterday, the Sri Lanka Banks’ Association (SLBA), on behalf of all the licensed banks, including the state banks, public listed companies and branch offices of international banks, emphasised that the suspension of parate execution would not preserve a mortgaged asset of a defaulter. Reason being, the banks would continue to exercise mortgage action through the courts of law.
-
-...
-
-[Data](articles/5803ab62.json)
-
-[Extended Data](ext_articles/5803ab62.ext.json)
-
----
-
-### Temperature at the alarm level
-
-*2024-03-12 03:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-334536) · `ta`
-
-The Department of Meteorology warns of a temperature increase to the warning level in parts of the country, affecting Western and Sabaragamuwa Provinces, and some areas in Anuradhapura and Mannar. It advises caution for children, the elderly, and the sick.
-
-🟩
-
-The Department of Meteorology has announced that the temperature of the human body today in many parts of the country will increase to the warning level.
-
-Accordingly, temperatures will increase in the Western and Sabaragamuwa Provinces and some parts of Anuradhapura and Mannar districts, the department said.
-
-Therefore, the health unit has advised the children, children, the elderly and the sick people to be careful about this situation.. (A)
-
-◼️
-
-[Data](articles/d645c710.json)
-
-[Extended Data](ext_articles/d645c710.ext.json)
-
----
-
-### 653 arrested
-
-*2024-03-12 03:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-சுற்றிவளைப்பு-மேலும்-653-பேர்-கைது/175-334535) · `ta`
-
-653 arrested for drug offenses, including heroin, ice, cannabis, and mawa. 586 persons and 67 suspects named. Drugs seized.
-
-🟩
-
-The Public Security Ministry said that 586 persons involved in drug offenses and 67 suspects were named as the list of crimes.
-
-Police have seized many drugs, including heroin, ice, cannabis and mawa drugs.
-
-The suspects arrested for drugs related to drugs include 18 suspects from the list of the Police Bureau of Police, the Special Bureau of Police.. (A)
-
-◼️
-
-[Data](articles/4d6c2cc2.json)
-
-[Extended Data](ext_articles/4d6c2cc2.ext.json)
-
----
-
-### How many religious places are there not released on military camps in the North?
-
-*2024-03-12 02:07:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2y77qzwy1o) · `si`
-
-The text discusses the issue of religious places and lands in military camps in the North, particularly in Jaffna and Mullaitivu districts. It highlights the restrictions on civilians' access to these places for nearly 34 years and the ongoing efforts by local authorities and religious leaders to have these lands released. The text also mentions the involvement of the military in allowing certain religious activities in these areas.
-
-🟩
-
-How many religious places are there not released on military camps in the North?
-
-Nearly 34 years, the Thaikamam people were permitted to travel only to the sacrifices of the civilians in the North for nearly 34 years.
-
-The people of the Northern and Eastern Provinces are urged the authorities to release the land related to Kovil and Catholic Church in the military camps.
-
-The temples have been allowed to move to the civilians to the civilians only in the event of a special sacrifice of the Kovil and the Jaffna District Secretariat.Says.
-
-Valuamam also stated that although the sacrifices needed to carry sacrifices in Kovil allowed the sacrifices.
-
-...
-
-[Data](articles/93fe6277.json)
-
-[Extended Data](ext_articles/93fe6277.ext.json)
-
----
-
-### Kalambo defeated the AVC;Chonders took the bowl of Yusuf Bowl
-
-*2024-03-12 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178481) · `ta`
-
-Chonders won the Yusuf Bowl Soccer Tournament, defeating Kalambo EVC 1-0. M. Mubasal scored the winning goal. Despite Kalambo's dominance, Chonders' goalkeeper Kishore and Pinnacle players stopped 3 goals each. Chonders faced a red card and played with 9 for 4 minutes due to an injury.
-
-🟩
-
-R, with the goal of exposing the energies of young footballers. The Chonders Club was chased at the Under -19 Yusuf Bowl Soccer Tournament, hosted by Bhubanendran -led City Football League.
-
-The Chonders Association won the champion by 1 - 0 in the final match with the Kalambo EVC in the final of Sunday (09) at the City League Ground.
-
-Galambo AvC in the 10th minute of the competition. Player Umar shuck, kicked the ball towards the rod that was empty. But, the Soners Pinagala player ASN, who operated at lightning speed. Nivanda distracted the ball with his knees.
-
-In the 24th minute M. Mubasal's goal became the goal that determines the champion title of Chonders.
-
-Kalambo avC. Mubasal kicked Mubasal from a distance of about 8 on the goal border and went over the goalkeeper Hafeele's palms and entered the goal.
-
-Until then. The players were headed to play with aggressive. But contrary to the way, the understanding between the players and the bowling can not be seen.
-
-...
-
-[Data](articles/2299d0e1.json)
-
-[Extended Data](ext_articles/2299d0e1.ext.json)
-
----
-
-### Deflation in producer prices persists through January
-
-*2024-03-12 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deflation-in-producer-prices-persists-through-January/108-278676) · `en`
-
-The deflationary conditions, which have persisted for many months since around the middle of last year, continued through January, as the prices contended by the producers across the industries have fallen by 3.0 percent from a year ago.
-
-What is officially referred to as the Producer Price Index, measured by the Census and Statistics Department, has been on a decline since June last year, around the same time the consumer prices also turned around quite notably.
-
-The producer prices provide a forerunner for what could look like the consumer prices.
-
-In February, the consumer price inflation, according to the officials’ preferred Consumer Price Index, softened to 5.9 percent over the last 12 months, from 6.4 percent in January, as the supply conditions improved while the one-off impacts from the Value Added Tax hike were dissipating.
-
-...
-
-[Data](articles/67107cc2.json)
-
-[Extended Data](ext_articles/67107cc2.ext.json)
-
----
-
-### Janaka Ratnayake open to supporting better Presidential candidate
-
-*2024-03-12 01:54:29* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-open-to-supporting-better-Presidential-candidate/56-759384) · `en`
-
-Ex-PUCSL Chairman says he and his supporters are willing to support any candidate who would be a better choice than himself
-
-Says country needs a leader who is good, brave and understands the economy to effectively carrying out their duties
-
-Urges voters to make wise choices in upcoming elections to ensure SL’s revival
-
-Presidential hopeful and former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL) Janaka Ratnayake yesterday said he would not hesitate to support any other Presidential candidate in the upcoming election whom he believes would be a better choice than himself.
-
-“I am not claiming to be the best candidate for the job. Therefore, if I am convinced that another candidate is a better choice, both I and the organisations that have endorsed me will not hesitate to lend our support to that candidate,” he said.
-
-“This is because we need a leader who is good, brave, and understands the economy, capable of effectively carrying out their duties,” he noted.
-
-...
-
-[Data](articles/e1456292.json)
-
-[Extended Data](ext_articles/e1456292.ext.json)
 
 ---

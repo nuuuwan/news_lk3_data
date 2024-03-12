@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 08:33:26**
+As of **2024-03-12 08:52:12**
 
 ## Newspaper Stats
 
-*Scraped **12,299** Articles*
+*Scraped **12,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,64 +15,82 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
 islandlk | 676
-adalk | 1,046
+adalk | 1,047
 adaderanalk | 1,484
-tamilmirrorlk | 1,497
+tamilmirrorlk | 1,498
 virakesarilk | 1,687
-dailymirrorlk | 1,874
+dailymirrorlk | 1,875
 adaderanasinhalalk | 1,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,291 (99.9%) of 12,299 articles have been extended.
+12,299 (100.0%) of 12,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### රෝහල් ඉදිරිපිට අද උද්ඝෝෂණ
+### Protest in front of hospitals
 
 *2024-03-12 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194407) · `si`
 
-වැටුප් වැඩි කිරීම ප්‍රමාද වීම සහ තමන්ගේ කටයුතුවලට බාධා කරන සෞඛ්‍ය පරිපාලකයන්ට එරෙහිව පියවර නොගැනීම සම්බන්ධයෙන් සෞඛ්‍ය කාර්ය මණ්ඩලය විරෝධතාවක් සංවිධානය කර තිබේ.
+Health staff protest against salary delay and administrative interference. Ravi Kudmith, Health Trade Union convener, speaks for hospitals nationwide.
 
-ඒ අනුව දිවයින පුරා තෝරාගත් රෝහල් ඉදිරිපිට අද (12) දහවල් 12 සිට උද්ඝෝෂණයේ නිරත වන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා පැවසුවේය.
+🟩
+
+Health staff have organized a protest against the delay in increasing salary and interferes with health administrators.
+
+Accordingly, the convener of the Health Trade Union The Department of Health Trade Union Ravi Kudmith said, according to the hospitals across the country.
 
 ◼️
 
 [Data](articles/069406b3.json)
 
+[Extended Data](ext_articles/069406b3.ext.json)
+
 ---
 
-### අලි වැට සංරක්ෂණයට නිලධාරීන් 4,500ක් වනජීවියට
+### 4,500 officers to wildlife conservation of elephant fence
 
 *2024-03-12 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194405) · `si`
 
-‍අලිවැට සංරක්ෂණය සඳහා බහුකාර්ය සංවර්ධන නිලධාරීන් 4,500ක් වනජීවි අමාත්‍යාංශයට අනුයුක්ත කර ගැනීමට මුදල් අමාත්‍යාංශයේ අනුමැතිය හිමි ව තිබේ.
+The Ministry of Finance approved 4,500 officers for elephant conservation with the Ministry of Wildlife.
+
+🟩
+
+The Ministry of Finance has approved 4,500 Multipurpose Development Officers to the Ministry of Wildlife for Alirasadoader conservation.
 
 ◼️
 
 [Data](articles/b2ee7ffa.json)
 
+[Extended Data](ext_articles/b2ee7ffa.ext.json)
+
 ---
 
-### අලි වැට සංරක්ෂණයට නිලධාරීන් 4,500ක් වනජීවියට
+### 4,500 officers to wildlife conservation of elephant fence
 
 *2024-03-12 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194406) · `si`
 
-‍අලිවැට සංරක්ෂණය සඳහා බහුකාර්ය සංවර්ධන නිලධාරීන් 4,500ක් වනජීවි අමාත්‍යාංශයට අනුයුක්ත කර ගැනීමට මුදල් අමාත්‍යාංශයේ අනුමැතිය හිමි ව තිබේ.
+The Ministry of Finance approved 4,500 Multipurpose Development Officers for the Ministry of Wildlife to aid in elephant conservation. Minister Pavithradevi Wanniarachchi highlighted their conversion into departmental workers for efficient service.
 
-වනජීවී හා වන සම්පත් සංරක්ෂණ සහ වාරිමාර්ග අමාත්‍ය පවිත්‍රාදේවී වන්නිආරච්චි මහත්මිය ප්‍රකාශ කළේ, ඔවුන් දෙපාර්තමේන්තු සේවකයින් බවට පත්කිරීමෙන් අනතුරුව ‍අලිවැට සංරක්ෂණය සඳහා කාර්‍යක්ෂම සේවාවක් ලබාගත හැකි බවය.
+🟩
 
-ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් පවිත්‍රා වන්නිආරච්චි මහත්මිය මේ බව සඳහන් කළාය.
+The Ministry of Finance has approved 4,500 Multipurpose Development Officers to the Ministry of Wildlife for Alirasadoader conservation.
 
-"හැබැයි එම පිරිස ලබාගන්නේ දැනටත් අලි වැටේ කටයුතු කරන බහුකාර්ය සංවර්ධන නිලධාරීන් තමා යොදා ගන්නේ. අලුතින් සේවකයින් බඳවා ගැනීමක් සිදුවන්නේ නෑ. බහුකාර්ය දෙපාර්තමේන්තු සේවකයින් වනජීවි දෙපාර්තමේන්තුවට අනුයුක්ත කරගැනීම සහ සම්පුර්ණ බඳවා ගැනීමක් සිදුකරනවා."
+Minister of Wildlife and Forest Resources Protection and Irrigation Pavithradevi Wanniarachchi said that after they were converted into departmental workers, they can get an efficient service to conserve alarmor.
+
+Speaking at a press conference held at the Presidential Media Center, Pavithra Wanniarachchi said this.
+
+"But they are currently using the Multural Development Officers who are currently working on the fencing. New employees will not be recruited. Multipurpose departmental employees are attached to the Wildlife Department and recruitment. "
 
 ◼️
 
 [Data](articles/d72c7a15.json)
+
+[Extended Data](ext_articles/d72c7a15.ext.json)
 
 ---
 
@@ -138,6 +156,8 @@ The analysis estimates that nearly 880 million adults and 159 million children l
 
 [Data](articles/92b59a4f.json)
 
+[Extended Data](ext_articles/92b59a4f.ext.json)
+
 ---
 
 ### Upcountry mask dress is a decision to make a World Heritage
@@ -162,15 +182,21 @@ Minister of Church was held at the Matale Buddhist House, that public workers, s
 
 ---
 
-### பிரதான ரயில் சேவைகளில் பாதிப்பு
+### Impact on main rail services
 
 *2024-03-12 07:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-ரயில்-சேவைகளில்-பாதிப்பு/175-334541) · `ta`
 
-காரியாலய ரயில் ஒன்று அம்மேபுஸ்ஸவில் இயந்திர கோளாறு காரணமாக நிறுத்தப்பட்டமையால் காரியாலய ரயில் சேவைகள் பல தாமதமடைந்துள்ளன
+Office train services delayed by mechanical issue.
+
+🟩
+
+The office train services have been delayed due to a mechanical disorder in the office of the office
 
 ◼️
 
 [Data](articles/32cfdce1.json)
+
+[Extended Data](ext_articles/32cfdce1.ext.json)
 
 ---
 
@@ -193,6 +219,8 @@ from Colombo to Kankesanthurai via Puttalam and Mannar, and from Matara to Pottu
 ...
 
 [Data](articles/4df5d6f9.json)
+
+[Extended Data](ext_articles/4df5d6f9.ext.json)
 
 ---
 
@@ -264,6 +292,22 @@ Under FPTP, the candidate who receives the most votes in a local constituency wi
 
 ---
 
+### Government’s push for electoral change raises eyebrows
+
+*2024-03-12 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Governments-push-for-electoral-change-raises-eyebrows/155-278680) · `en`
+
+Colombo, March 12 (Daily Mirror) - Ahead of the pending national elections, the government has made fresh attempts to bring about changes to the parliamentary election system by seeking to amend the Parliamentary Elections Act, a Minister said.
+
+Justice Minister Wijeyadasa Rajapakshe presented a Cabinet paper last week seeking to introduce a mixed electoral system. Under the new system, 160 MPs will be elected under the First Past the Post System and 1nother 65 MPs under proportional representation.
+
+Under FPTP, the candidate who receives the most votes in a local constituency wins a seat in the House. By contrast, PR is the idea that parties' seats in Parliament should be allocated so that they are in proportion to the number of votes cast.
+
+...
+
+[Data](articles/d63eeacb.json)
+
+---
+
 ### Showers or thunderstorms
 
 *2024-03-12 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194399) · `si`
@@ -308,19 +352,43 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 
 ---
 
-### வெஸ்ட்மினிஸ்டர் பணிப்பாளர் - சபாநாயகர் சந்திப்பு
+### யானை வேலிகளைப் பாதுகாக்க உத்தியோகத்தர்கள்
+
+*2024-03-12 04:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-வேலிகளைப்-பாதுகாக்க-உத்தியோகத்தர்கள்/175-334540) · `ta`
+
+யானை வேலிகளைப் பாதுகாப்பதற்காக வனஜீவராசிகள் அமைச்சுக்கு 4500 பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்களை இணைத்துக் கொள்ள நிதியமைச்சு அனுமதியளித்துள்ளதாக வனஜீவராசிகள் மற்றும் வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ராதேவி வன்னியாரச்சி தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் பவித்ரா வன்னியாரச்சி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+யானை வேலிகளைப் பாதுகாப்பதற்காக வனவிலங்கு அமைச்சிற்கு 4,500 பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்களை இணைத்துக் கொள்ள நிதியமைச்சு அனுமதி வழங்கியுள்ளது.
+
+அதற்காக புதிய பணியாளர்கள் யாரும் நியமிக்கப்பட மாட்டார்கள். அமைச்சுக்கு இணைத்துக் கொள்ள அங்கீகாரம் பெற்ற பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்கள் ஏற்கனவே யானை வேலியின் பாதுகாப்புப் பணிகளில் ஈடுபட்டு வருகின்றனர் என்றார். (a)
+
+◼️
+
+[Data](articles/3001c93c.json)
+
+---
+
+### Westminster Director - Speaker Meeting
 
 *2024-03-12 04:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெஸ்ட்மினிஸ்டர்-பணிப்பாளர்-சபாநாயகர்-சந்திப்பு/175-334539) · `ta`
 
-ஜனநாயகத்துக்கான வெஸ்ட்மினிஸ்டர் மன்றத்தின் ஆசியா, பசிபிக் மற்றும் அமெரிக்கா பிராந்திய பணிப்பாளர் மதிவ் ஹெட்ஜஸ், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவை பாராளுமன்றத்தில் சந்தித்து கலந்துரையாடியுள்ளார்.
+Mathiv Hedges, Asia-Pacific & USA Director at Westminster Forum for Democracy, met Speaker Mahinda Yapa Abeywardena in Parliament, with Kushani Rohanadeera, Parliament Secretary General, and Sanjay Vignaraja, Sri Lanka Director of Westminster for Democracy, present. Abeywardena congratulated Parliament committees.
 
-இதன்போது பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர மற்றும் ஜனநாயகத்துக்கான வெஸ்ட்மினிஸ்டர் மன்றத்தின் இலங்கை பணிப்பாளர் சஞ்சே விக்னராஜா ஆகியோரும் கலந்துகொண்டனர்.
+🟩
 
-இலங்கை பாராளுமன்றத்துடன் நெருக்கமாக பணியாற்றும் ஜனநாயகத்துக்கான வெஸ்ட்மினிஸ்டர் மன்றத்தினால் பாராளுமன்றத்திலுள்ள அரசாங்க நிதி பற்றிய குழு, அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழு, அரசாங்கக் கணக்குகள் பற்றிய குழு உள்ளிட்ட குழுக்களின் செயற்பாடுகளுக்கு வழங்கும் ஒத்துழைப்பை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இதன்போது பாராட்டினார். (a)
+Mathiv Hedges, Regional Director of Asia, Pacific and USA at the Westminster Forum for Democracy, met Speaker Mahinda Yapa Abeywardena in Parliament.
+
+The Secretary General of Parliament Kushani Rohanadeera and Sri Lanka Director of the Westminster for Democracy Sanjay Vignaraja were also present.
+
+Speaker Mahinda Yapa Abeywardena congratulated the Government Funds Committee on Parliament, Government Responsibility Committee and Committee on Government Accounts Committee. (A)
 
 ◼️
 
 [Data](articles/92c99325.json)
+
+[Extended Data](ext_articles/92c99325.ext.json)
 
 ---
 
@@ -346,19 +414,25 @@ The Ramadan fasting will begin today, with the source of information available i
 
 ---
 
-### ’ஜுன் மாதம் முதல் அஸ்வெசும இரண்டாம் கட்டம்’
+### The second phase of the first Aswesa Month of June
 
 *2024-03-12 04:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜுன்-மாதம்-முதல்-அஸ்வெசும-இரண்டாம்-கட்டம்/175-334537) · `ta`
 
-அஸ்வெசும நலன்புரி திட்டத்தின்கீழ் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கான இரண்டாம் கட்டத்துக்கான கொடுப்பனவுகள் எதிர்வரும் ஜுன் மாதம் முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்துள்ளார்
+The second phase of the Ashem Welfare Program, starting next June, will increase beneficiaries to 2.4 million. Applications close on the 15th.
 
-அஸ்வெசும நலன்புரி கொடுப்பனவுக்கான இரண்டாம் கட்டத்துக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் காலஅவகாசம் இந்த மாதம் 15 ஆம் திகதியுடன் நிறைவடையவுள்ளது
+🟩
 
-இரண்டாவது கட்டத்தின் கீழ் அந்த எண்ணிக்கையை 2.4 மில்லியனாக அதிகரிக்க எதிர்பார்க்கப்படுகிறது என்றும் அமைச்சர் செஹான் சேமசிங்க தெரிவித்துள்ளார். (a)
+Finance Minister Xihan Semasinghe has said that the payments for the second phase of the second phase of the selected beneficiaries under the Ashem Welfare Program will be issued from next June.
+
+The period of submitting applications for the second phase of the Ashemu Welfare Payment will be completed on the 15th of this month.
+
+Under the second phase, the number is expected to increase to 2.4 million, Minister Sehan Semasinghe said.. (A)
 
 ◼️
 
 [Data](articles/b7e8d022.json)
+
+[Extended Data](ext_articles/b7e8d022.ext.json)
 
 ---
 
@@ -1828,6 +1902,24 @@ President Ranil Wickremesinghe said that the government's aim was to carry out a
 
 ---
 
+### IMF යෝජනා ගැන පක්ෂ නායක රැස්වීමට විපක්ෂයෙන් සුමන්තිරන් පමණයි
+
+*2024-03-11 18:46:18* · [`adalk`](https://www.ada.lk/breaking_news/IMF-යෝජනා-ගැන-පක්ෂ-නායක-රැස්වීමට-විපක්ෂයෙන්-සුමන්තිරන්-පමණයි/11-408548) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනා සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් කැඳවා තිබු විපක්ෂයේ පක්ෂ නායක රැස්වීම අද (11) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+
+මෙම සාකච්ඡාව සඳහා දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන් මහතා ද එක්ව සිටි අතර ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සාකච්ඡාවලදී සියලුම පාර්ශ්වයන් එකඟ වන තීරණවලට එළැඹීම වෙනුවෙන් රජයේ කැපවීම මෙහිදී අවධාරණය කෙරිණි.
+
+පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන් මහතා මෙහිදී සඳහන් කළේ ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් සිදු කර ඇති විශ්ලේෂණාත්මක දත්ත සහිත වාර්තා පාර්ලිමේන්තුවට ඉදිරිපත් කළ යුතු බවයි.
+
+මෙම සියලු කටයුතු විනිවිදභාවයෙන් පවත්වාගෙන යාම රජයේ අරමුණ බව පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා, අදාළ විශ්ලේෂණාත්මක දත්ත වාර්තා මෙම සාකච්ඡාව සඳහා සහභාගි වූ දෙමළ ජාතික සන්ධානයටත්, පාර්ලිමේන්තුවටත් ලබා දීමට කටයුතු කරන බව සඳහන් කළේය.
+
+...
+
+[Data](articles/45ed1e08.json)
+
+---
+
 ### The government agrees to reveal the IMF agreement
 
 *2024-03-11 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194391) · `si`
@@ -2071,71 +2163,5 @@ ECONOMYNEXT – A decision by the cabinet to suspend parate execution, making re
 [Data](articles/fe7967d8.json)
 
 [Extended Data](ext_articles/fe7967d8.ext.json)
-
----
-
-### Central bank employees protest against salary increase
-
-*2024-03-11 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178457) · `ta`
-
-Central bank employees protested against a salary increase, with social activists carrying banners criticizing the increase.
-
-🟩
-
-A group of social activists staged a protest in front of the central bank on Monday (11) in protest of the salary increase of central bank employees.
-
-They protested, carrying banners, such as' not ashamed to raise salary, they are bigger robbers than pirates.
-
-◼️
-
-[Data](articles/db1070ab.json)
-
-[Extended Data](ext_articles/db1070ab.ext.json)
-
----
-
-### Archeology and Police Department
-
-*2024-03-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178456) · `ta`
-
-Archeology and Police Department in Sri Lanka are criticized for actions during Shivaratri, a Saiva event, which were seen as a manifestation of Buddhist Sinhala supremacy. Chandrakumar, General Secretary of the Equality Party, condemned the police's actions, calling for a change in the department's stance on ethnic harmony.
-
-🟩
-
-It is worrying that the country's archeology and police are continuously working on the country, as it is being emphasized at home, including international parties on ethnic harmony in the country after the end of the war.. The General Secretary of the Equality Party. Chandrakumar said.
-
-He said this in a statement issued by the police at the Adivasivan Temple on Sivarathi Day, condemning the action of the police.. It further stated;
-
-The Shivaratri event is the most important event of the Saiva people, on this day, the police are barbaric on the Tamil people who went to their native temple to worship the Shiva on this day.
-
-Are walking. The actions of the police were a manifestation of Buddhist Sinhala supremacy. In one of the holy places, the police of the police were seen as disgusting with Sabbath's legs.
-
-...
-
-[Data](articles/d2399ec5.json)
-
-[Extended Data](ext_articles/d2399ec5.ext.json)
-
----
-
-### A bill to reopen the grooves of the Central Bank, the future cannot be
-
-*2024-03-11 17:34:42* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-වැඩි-කළ-පඩි-යළි-හරවන-පනතක්--අනාගතයටත්-බෑ/11-408545) · `si`
-
-Leader Gammanpila criticizes the Central Bank's high salaries, proposing a bill to limit future increases. The bill, prepared in Sinhala, English, and Tamil, aims to prevent arbitrary salary increases by requiring the Minister of Finance's approval for future raises.
-
-🟩
-
-Leader of Purger Gammanpila says that the central bank is being abolished and preventing such arbitrary salaries in the future, says the Leader of the Leader of the JHU. He was speaking at a press conference held at the party headquarters today (2024.03.11).
-
-"We all know that the central bank officials were abused by 70% of the deviation.The people expected to change today as the Governing Body of the Central Bank to be brought to parliament.
-
-The Governor of the Central Bank argues better than the wall children who have offered their decision.We showed that both of the intelligence flumbs and the intelligence of the intelligence that was not used for justification.But what happened?Nothing happened.The Central Bank Governing Council was.You Can Have Your Say.Reminding the English saying that we will have our way.Say you all you want.We do what we want.The government can barrely barren but wasn't chewing.But who can be chewing to Parliament if they can't chew.
-
-...
-
-[Data](articles/6535bc2c.json)
-
-[Extended Data](ext_articles/6535bc2c.ext.json)
 
 ---

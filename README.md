@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 18:20:45**
+As of **2024-03-12 18:33:51**
 
 ## Newspaper Stats
 
-*Scraped **12,449** Articles*
+*Scraped **12,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,75 +18,163 @@ islandlk | 677
 adalk | 1,065
 adaderanalk | 1,500
 tamilmirrorlk | 1,513
-virakesarilk | 1,721
-dailymirrorlk | 1,894
-adaderanasinhalalk | 1,964
+virakesarilk | 1,723
+dailymirrorlk | 1,895
+adaderanasinhalalk | 1,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,445 (100.0%) of 12,449 articles have been extended.
+12,449 (100.0%) of 12,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### සියලුම පාසල් වෙත විශේෂ දැනුම්දීමක්
+### උතුරට සහ වයඹට නව ආණ්ඩුකාරවරු
+
+*2024-03-12 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194430) · `si`
+
+ඒ අනුව උතුරු පළාත් නව ප්‍රධාන ලේකම්වරයා ලෙස එල්. ඉලංගෝවන් මහතා සහ වයඹ පළාත් ප්‍රධාන ලේකම් ලෙස දීපිකා කේ. ගුණරත්න මහත්මිය පත්කර ඇත.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පත්වීම් සිදුකර තිබෙන අතර ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් අද (12) පස්වරුවේ ජනාධිපති කාර්‍යාලයේ දී එම මහත්ම මහත්මීන් වෙත බාරදෙනු ලැබීය.
+
+◼️
+
+[Data](articles/6043dfe2.json)
+
+---
+
+### We don’t need intermediaries to meet IMF team: Hadunnetti
+
+*2024-03-12 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-dont-need-intermediaries-to-meet-IMF-team-Hadunnetti/108-278711) · `en`
+
+Colombo, March 12 (Daily Mirror)- Claiming that they were not ready to meet IMF delegation through any intermediaries, former JVP MP Sunil Hadunnetti said today the National People's Power (NPP) was scheduled to meet the high level IMF delegation this Thursday (14) following a request made by the IMF team.
+
+He told a news conference of the NPP Economic Council that the IMF team has sought a meeting with the NPP and they will meet the NPP members at the JVP headquarters this Thursday.
+
+"We did not attend the meeting convened by President Ranil Wickremesinghe with the IMF team. We had not sought such a meeting through the President. The meeting was arranged following a request made by SJB MP Harsha De Silva in Parliament. If we wanted any discussions with the IMF team or the IMF team wanted to discuss with us, there is a procedure to do so. We do not want intermediaries," he said.
+
+...
+
+[Data](articles/22505144.json)
+
+---
+
+### கடுமையான வெப்பம் காரணமாக பிள்ளைகள் பல்வேறு நோய்களுக்கு  உள்ளாகலாம்! - வைத்தியர் சன்ன டி சில்வா
+
+*2024-03-12 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178557) · `ta`
+
+நிலவும் வெப்பம் காரணமாக பிள்ளைகள் பல்வேறு நோய்களுக்கு ஆளாகலாம் என நிபுணர் வைத்தியர் சன்ன டி சில்வா கூறுகிறார்.
+
+நிலைமை அதிகரித்தால் அது வெப்ப அதிர்ச்சி, வெப்ப பக்கவாதம் அல்லது துரதிர்ஷ்டவசமாக மரணத்துக்கு வழிவகுக்கும் என்று நிபுணர் சுட்டிக்காட்டினார்.
+
+எனவே, பிள்ளைகளை வெளிநடவடிக்கைகளுக்கு பயன்படுத்துவதாயின் காலை 11.00 மணிக்கு முன்னதாகவே அவர்களது நடவடிக்கையை முடிக்க வேண்டும்.
+
+பாடசாலைகளில் பல்வேறு விளையாட்டு நிகழ்வுகள் நடத்தப்படுகின்றன. அதனால், பிள்ளைகள்  அதிகமாக வெளியில் உள்ளனர்.  இவ்வாறான  நிலையில்  சுற்றுச்சூழலின் வெப்பம் அதிகரிப்பதால்  அவர்களுக்கு  சோர்வு அதிகரிக்கலாம் என்றும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/071bbec9.json)
+
+---
+
+### Special notice to all schools
 
 *2024-03-12 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194429) · `si`
 
-පවතින අධික උෂ්ණත්වයත් සමග දරුවන්ගේ ආරක්ෂාව සඳහා කටයුතු කළයුතු ආකාරය දැනුම්දෙමින් යළිත් අධ්‍යාපන අමාත්‍යාංශය විසින් සියලුම පාසල් වෙත විශේෂ දැනුම්දීමක් සිදුකර තිබේ.
+The Ministry of Education has reopened schools, emphasizing child safety amidst high temperatures. Some schools have been criticized for not following outdoor activity planning guidelines, referencing instructions from February 26th.
 
-එමගින් දැනුම්දී ඇත්තේ එළිමහනේ ක්‍රියාකාරකම් සැලසුම් කිරීමට අදාළ කටයුතු කිරීම පිළිබඳව උපදෙස් දී ඇති පසුබිමක ඇතැම් පාසල් එම කරුණු නොසලකා හරිමින් කටයුතු කරන බවය.
+🟩
 
-ඒ අනුව පසුගිය පෙබරවාරි මස 26 වනදා නිකුත් කළ ලිපියේ උපදෙස් අනුව කටයුතු කරන ලෙසට යළි දැනුම්දෙමින් මෙම නිවේදනය නිකුත් කර තිබේ.
+The Ministry of Education has restored all schools by announcing the safety of children with the excessive temperature.
+
+It was informed that some schools are ignoring the issues regarding the process of planning activities outdoors.
+
+Accordingly, the announcement has been made reference to the instructions issued on the 26th of February.
 
 ◼️
 
 [Data](articles/2391f7c2.json)
 
+[Extended Data](ext_articles/2391f7c2.ext.json)
+
 ---
 
-### බිරිඳට පහරදී දරු ගැබ වැනසූ පියා රිමාන්ඩ්
+### காஸா போர் நிறுத்தத்தை இன்னும் நெருங்கவில்லை: கட்டார்
+
+*2024-03-12 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178555) · `ta`
+
+காஸாவில் போர் நிறுத்தத்தை ஏற்படுத்துவதில் இஸ்ரேலும் ஹமாஸும் இன்னும் நெருங்கிவரவில்லை என பேச்சுவார்த்தையில் மத்தியஸ்தம் வகிக்கும் கட்டார் இன்று செவ்வாய்க்கிழமை தெரிவித்துள்ளது.
+
+காஸாவில் போர் நிறுத்ததை ஏற்படுத்துவதற்காக அமெரிக்கா, கட்டார், எகிப்து ஆகிய நாடுகள் பலவாரங்களாக முயன்றன.
+
+புனித ரமழானுக்கு முன்னர் போர் நிறுத்தத்தை ஏற்படுத்துதற்கு தீவிர முயற்சிகள் மேற்கொள்ளப்பட்டன. ஆனால், அம்முயற்சிகள் பலனளிக்கவில்லை.
+
+இஸ்ரேலுக்கும் ஹமாஸுக்கும் இடையிலான இணக்கப்பாட்டை நாம் நெருக்கவில்லை   என கட்டார் வெளிவிவகார அமைச்சின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்
+
+இணக்கப்பாட்டை ஏற்படுத்தும் முயற்சிகள் தொடர்கின்றபோதிலும், அதற்கான போர்நிறுத்தத்துக்கான காலவரம்பு எதனையும் கூற முடியாது எனவும் அவர் தெரிவித்துள்ளார்.
+
+இதேவேளை, ஒக்டோபர் 7 ஆம் திகதி முதல் காஸாவில் யுத்தத்தால் உயிரிழந்தோரின் எண்ணிக்கை 31184 ஆக அதிகரித்துள்ளது என காஸா சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5dcb6bf4.json)
+
+---
+
+### Father remanded for attacking wife
 
 *2024-03-12 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194428) · `si`
 
-ගර්භණී බිරිඳගේ උදරයට පාදයෙන් පහරදී කළලය විනාශ කළ සැකකාර සැමියාව ලබන 26 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+The suspect's husband was remanded until the 26th for allegedly attacking his wife, who is receiving treatment at the Ragama Teaching Hospital. The incident involved a heated argument about the child's paternity.
 
-සැකකරු කොළඹ අතිරේක මහෙස්ත්‍රාත් සමන් රත්නායක මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදුන්නේය.
+🟩
 
-පහරකෑමට ලක්වූ කාන්තාව තවදුරටත් රාගම ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන අතර වෛද්‍ය වාර්තා මේ වනතෙක් ලැබී නොමැති බවත් ග්‍රෑන්ඩ්පාස් පොලීසිය අධිකරණයට දැනුම්දුන්නේය.
+The suspect's husband was remanded until the 26th of this month.
 
-පොලීසිය අධිකරණය වෙත පවසා ඇත්තේ නිරන්තරයෙන් අදාළ සැකකාර සැමියා සිය බිරිඳ සමග ගැටුම් ඇතිකරගන්නා බවට අනාවරණය වී ඇති බවය.
+The suspect was produced before Colombo Additional Magistrate Saman Ratnayake.
 
-මෙහිදී පොලීසිය වැඩිදුරටත් සඳහන් කර ඇත්තේ කුසෙහි සිටින දරුවාගේ පීතෘත්වය සම්බන්ධයෙන් ඇතිවූ බහින්බස්වීමක් දුරදිග ගොස් සැකකාර සැමියා විසින් බිරිඳගේ උදරයට සිය පාදයෙන් පහරදී ඇති බවය.
+The victim was receiving treatment at the Ragama Teaching Hospital and did not receive medical reports.
 
-අනතුරුව බරපතළ තත්ත්වයේ පසුවූ බිරිඳව රාගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මාස දකක කළලය විනාශ වී ඇති බවට අනාවරණය වී තිබේ.
+The police have told the court that the suspect is constantly revealed that the suspect her husband conflicts with his wife.
+
+The police further stated that a heated argument about the patronage of the child's paternity in the womb is that the suspect her husband had attacked his wife's abdomen.
+
+It has been revealed that the wife was admitted to the Ragama hospital.
 
 ◼️
 
 [Data](articles/c2fe6f2b.json)
 
+[Extended Data](ext_articles/c2fe6f2b.ext.json)
+
 ---
 
-### පරාටේ නීතිය අත්හිටුවීමෙන් බැංකු චකිතයට පත්වෙයි
+### Banks worn by suspension of the Parade law
 
 *2024-03-12 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194427) · `si`
 
-පරාටේ නීතිය හරහා ණය අය කරගැනීම අත්හිටුවමින් ආණ්ඩුව ගත් ඒකපාර්ශ්වීය තීරණය බැංකු ක්ෂේත්‍රයට විශාල සෘණාත්මක බලපෑමක් ඇති කරනු ඇති බව ශ්‍රී ලංකා බැංකු සංගමය (SLBA) ප්‍රකාශ කරයි.
+The Sri Lanka Bank Association (SLBA) criticizes the government's decision to suspend the Parade law, affecting debt through Pradesh law. They argue this decision impacts businesses negatively, without consultation. The Central Bank of Sri Lanka (CBSL) warns of government intervention, potentially increasing debt costs for all businesses.
 
-නිවේදනයක් නිකුත් කරමින් ඔවුන් පෙන්වා දෙන්නේ සමස්ත ව්‍යාපාරික ප්‍රජාව නියෝජනය නොකරන ණය පැහැරහරින්නන් කිහිප දෙනෙකුගේ බලපෑම්වලට ප්‍රතිචාරයක් මෙම තීරණය ගෙන ඇති බවය.
+🟩
 
-ශ්‍රී ලංකා මහ බැංකුවේ (CBSL) බලපත්‍රලාභී රාජ්‍ය බැංකු, ලැයිස්තුගත පෞද්ගලික බැංකු සහ ජාත්‍යන්තර බැංකුවල ශාඛා කාර්යාල ආදී සියලුම බැංකු නියෝජනය කරන ශ්‍රී ලංකා බැංකු සංගමය (SLBA) පැවසූයේ, ණය අය කරගැනීමේ නීති මැඬ පැවැත්වීම සඳහා රජයේ මැදිහත්වීම අනතුරු ඇඟවීමක් වන බවය.
+The Sri Lanka Bank Association (SLBA) says that the government's unilateral decision has been suspended to suspend the debt through the Pradesh law.
 
-මේ පිළිබඳව බැංකු සමඟ කිසිඳු සාකච්ඡාවක් සිදුකර නොමැති බව පෙන්වා දුන් එම සංගමය රජයේ මෙම තීරණය හේතුවෙන් සියලුම ව්‍යාපාරිකයන්ට ණය ලබාගැනීමේ පිරිවැය වැඩි වනු ඇති බවද පැවසීය.
+In a statement, they point out that the decision has been taken to affect the influence of several offenses who do not represent the entire business community.
 
-SLBA Statement on Suspension of Parate Action - Sinhala - Unicode by poornima on Scribd
+The Central Bank of Sri Lanka (CBSL) is Licensed State Banks, Sri Lanka's Bank Association (SLBA), such as private banks and international banks, government intervention is a warning of the government's involvement.
+
+The association pointed out that the Association has shown no discussion with the banks in this regard due to the government's decision, all businesses will increase the cost of debt.
+
+SLBA STATEMENT ON SUSPENSION OF SUSPENSION OF PARTENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUCTION - Sinhala - Unicode By Poornima On Scribd
 
 ◼️
 
 [Data](articles/6cab3812.json)
+
+[Extended Data](ext_articles/6cab3812.ext.json)
 
 ---
 
@@ -182,21 +270,27 @@ A bond maturing on 01.07.2032 closed at 12.50/80 percent from down 12.60/90 perc
 
 ---
 
-### පොලිස්පතිගේ පත්කිරීමට එරෙහිව කාදිනල් හිමිගෙන් පෙත්සමක්
+### Petition from Cardinal against appointment of IGP
 
 *2024-03-12 17:06:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-කාදිනල්-හිමිගෙන්-පෙත්සමක්/11-408569) · `si`
 
-වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් මැල්කම් කාදිනල් රංජිත් අගරදගුරු හිමිපාණන් සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය තවත් පෙත්සම් දෙකක්  ශ්‍රේෂ්ඨාධිකරණයට අද (12) ඉදිරිපත් කළහ.
+Cardinal Ranjith and the CPA petition against IGP appointment. Legislative members appointed as respondents. Savithri Gunasekera files reconciliation petition. Deshabandu Tennakoon opposes church's appointment.
 
-මැල්කම් කාදිනල් රංජිත් අගරදගුරු හිමිපාණන් සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය ගොනු කළ මෙම පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් වන පාර්ලිමේන්තු මන්ත්‍රීවරුන් කර ඇත.
+🟩
 
-වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් නීතිය පිළිබඳ මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය සහ සමගි ජන බලවේගය හිටපු පළාත් සභා මන්ත්‍රී නිරෝෂන් පාදුක්ක මහතා මුලින්ම මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් ගොනු කරනු ලැබීය.
+Acting Inspector General of Police, Deshabandu Tennakoon, the Archbishop and the CPA, two other petitions were presented today (12).
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයට පත් කිරීමට එරෙහිව වස්ථාදායක සභාවේ සාමාජිකයන් විරුද්ධ වූ බැවින් එය ව්‍යවස්ථාදායක සභාවේ පූර්ණ තීරණයක් නොවන බව සඳහන් කරන පෙත්සම්කරුවෝ අදාළ තීරණය බල රහිත කරන නියෝගයක් නිකුත් කරන්නැයි සිය පෙත්සම් වලින් ඉල්ලා සිටිති”
+Members of the Legislative Members of the Legislative Members of the Legislative Parliamentarians have been appointed as respondents of Malcolm Cardinal Ranjith and the CPA.
+
+Acting Inspector General of Professor Savithri Gunasekera and the reconciliation of the law Professor Saviro Gunasekera and a reconciliation ceremony were first filed by the former Provincial Councilor.
+
+Deshabandu Tennakoon opposed the lawyers' members against the appointment of the church against the appointment of the church. "
 
 ◼️
 
 [Data](articles/9891c874.json)
+
+[Extended Data](ext_articles/9891c874.ext.json)
 
 ---
 
@@ -2219,101 +2313,5 @@ Airport and Aviation Services (Sri Lanka) (Pvt.) Limited (AASL) is delighted to 
 [Data](articles/dc0d4a7f.json)
 
 [Extended Data](ext_articles/dc0d4a7f.ext.json)
-
----
-
-### Young people killed in bullets
-
-*2024-03-12 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194412) · `si`
-
-In Ambalangoda and Pitigala, two shootings resulted in 4 deaths and 6 injuries. Unidentified shooters on a motorbike fled both incidents. Victims included a 31-year-old man from Karandenna and a 26-year-old woman from Kavshkana Angara, who died this morning.
-
-🟩
-
-Four persons were killed and six others were injured in two shootings in Ambalangoda and Pitigala yesterday.
-
-A shooting was shooned at 8.35 last night near the Ambalangoda, Galagoda.
-
-Two unidentified shooters who came from a motorbike have fled the shooting by T 56.
-
-Two persons were killed and 3 others were injured and injured in the shooting and injuring another injuries.
-
-The shooting was killed in the shooting, a 'little mandis' or a 'little mandis', or 'Sudie'.
-
-"No one's offense.. There is nothing wrong with a Quran ... we need to go to go today. We need to go that journey, we're grandparents. She has also to have the bags of the shops. I didn't think so would. Oh, the only child at home ... "
-
-The injuries are being treated at the hospital with the fluent maiden al, Bhampini Akila Akila Akila and Association Champika Thushara.
-
-Meanwhile, Pitigala has been shot in front of a shop in the Teaching area.
-
-Two unidentified shops have been shot with a motorbike.
-
-...
-
-[Data](articles/ed0ac1c2.json)
-
-[Extended Data](ext_articles/ed0ac1c2.ext.json)
-
----
-
-### Another victim in Pitigala shooting succumbs to injuries
-
-*2024-03-12 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97890/another-victim-in-pitigala-shooting-succumbs-to-injuries) · `en`
-
-Another victim in the shooting reported in Pitigala, Elpitiya on Monday evening (March 11) has succumbed to injuries, Ada Derana learns.
-
-Accordingly, the death toll in this incident of gun violence now stands at 2. The deceased were identified as Sasith Madhushanka, 32, from Karandeniya and Kavishka Anjana, 28 from Thalgaswewa.
-
-The first victim, Sasith Madhushanka was killed on the spot after two unidentified individuals who arrived on a motorcycle opened fire near a shop in Guruwala area in Pitigala police division.
-
-The second victim was rushed to the Gallinda Regional Hospital with three others including 2 women who were also wounded in the gunfire. However, he was later transferred to the Karapitiya Teaching Hospital where he succumbed to injuries early this morning while receiving treatment.
-
-The suspects are believed to have used a T-56 assault rifle in the shooting, according to police.
-
-...
-
-[Data](articles/14407d4c.json)
-
-[Extended Data](ext_articles/14407d4c.ext.json)
-
----
-
-### Haiti’s Prime Minister Ariel Henry has resigned
-
-*2024-03-12 11:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Haitis-Prime-Minister-Ariel-Henry-has-resigned/108-278694) · `en`
-
-CNN - The embattled leader of Haiti, Ariel Henry, has resigned after weeks of mounting chaos in the Caribbean nation, where gangs have been attacking government structures and social order is on the brink of collapse.
-
-Haitian Prime Minister Henry said in a speech late Monday that his government would leave power after the establishment of a transitional council, adding, “Haiti needs peace. Haiti needs stability.”
-
-“My government will leave immediately after the inauguration of the council. We will be a caretaker government until they name a prime minister and a new cabinet,” Henry said in a video address.
-
-Henry’s adviser Jean Junior Joseph earlier confirmed the prime minister’s resignation to CNN, emphasizing that Henry would remain in his role until the formation of a new interim government.
-
-...
-
-[Data](articles/ee558647.json)
-
-[Extended Data](ext_articles/ee558647.ext.json)
-
----
-
-### TikTok is a national security threat, Facebook is ’enemy of the people’
-
-*2024-03-12 11:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TikTok-is-a-national-security-threat-Facebook-is-enemy-of-the-people/108-278693) · `en`
-
-CNBC- Former President Donald Trump said he believes that TikTok is a national security threat but that he couldn't support Congress’ banning the popular app because doing so would boost support for Facebook, which is the "enemy of the people."
-
-Asked Monday morning whether he believes TikTok is a national security threat in an interview on CNBC’s “Squawk Box,” Trump said, “I do believe that.”
-
-“I do believe it, and we have to very much admit we are protecting American people’s privacy and data rights,” he said.
-
-Trump had initially supported efforts to ban the app in the U.S., but he recently reversed his support. Pressed about why he flipped, Trump said he could have banned TikTok during his presidency but left it up to Congress to do so.
-
-...
-
-[Data](articles/15c78cf5.json)
-
-[Extended Data](ext_articles/15c78cf5.ext.json)
 
 ---

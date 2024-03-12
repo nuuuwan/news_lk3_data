@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 07:15:59**
+As of **2024-03-12 07:30:55**
 
 ## Newspaper Stats
 
-*Scraped **12,284** Articles*
+*Scraped **12,287** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 118
+colombotelegraphcom | 119
 bbccomsinhala | 141
 dbsjeyarajcom | 185
 newsfirstlk | 363
@@ -20,17 +20,55 @@ adaderanalk | 1,483
 tamilmirrorlk | 1,494
 virakesarilk | 1,687
 dailymirrorlk | 1,872
-adaderanasinhalalk | 1,936
+adaderanasinhalalk | 1,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,280 (100.0%) of 12,284 articles have been extended.
+12,284 (100.0%) of 12,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### දකුණ හොල්ලන පාතාලේ
+
+*2024-03-12 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194402) · `si`
+
+පිටිගල සහ අම්බලන්ගොඩ යන ප්‍රදේශවල සිදුවූ වෙඩිතැබීම් දෙකකින් පුද්ගලයින් සිව්දෙනෙකු මියගොස් පුද්ගලයින් 06 දෙනෙකු තුවාල ලබා තිබේ.
+
+◼️
+
+[Data](articles/ac26df50.json)
+
+---
+
+### අඹුසැමි යුවළක්ව පැහැරගනී
+
+*2024-03-12 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194401) · `si`
+
+වඩුක්කෝට්ටේ, පොන්නාලේ හන්දිය ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් විසින් අඹුසැමි යුවළක් පැහැරගෙන ගොස් පිරිමි පුද්ගලයාව තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (11) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+මරණකරු හා ඔහුගේ බිරිඳ යතුරු පැදියකින් ගමන් කරමින් සිටින අවස්ථාවේ පොන්නාලේ හන්දිය ආසන්නයේදී මරණකරු සමග පෙර අමනාපයක් තිබූ පිරිසක් මෝටර් රථයකින් පැමිණ සිටින බව දැක ඇත.
+
+එහිදී මරණකරු යතුරුපැදිය හරවා පොන්නාලේ නාවික හමුදා මුරපොළ අසලට ධාවනය කර තිබේ.
+
+ඔවුන් පසුපසින් පැමිණ මෙම පිරිස මරණකරු හා බිරිඳ යතුරුපැදිව සමග පැහැරගෙන ගොස් ඇති අතර පසුව කාන්තාව සිත්තන්කේනි හන්දියේ දමා ගොස් ඇත.
+
+පසුව මරණකරු තියුණු ආයුධවලින් පහරදී බරපතළ තුවාල සිදුකර කොට්ටකාඩු රෝහල අසලට මොටර් රථකින් ගෙනවිත් දමා සැකකරුවන් පළාගොස් තිබේ.
+
+තුවාලකරු වැඩිදුර ප්‍රතිකාර සඳහා යාපනය රෝහලට ඇතුළත් කිරීමේදී මියාගොස් ඇත.
+
+ඝාතනයට සම්බන්ධ සැකකරුවන් හඳුනාගෙන ඇති අතර ඔවුන් අත්අඩංගුවට ගැනීමට වඩුක්කෝට්ටේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b8a57324.json)
+
+---
 
 ### Government’s push for electoral change raises eyebrows
 
@@ -45,6 +83,8 @@ Under FPTP, the candidate who receives the most votes in a local constituency wi
 ...
 
 [Data](articles/b06bf05d.json)
+
+[Extended Data](ext_articles/b06bf05d.ext.json)
 
 ---
 
@@ -303,6 +343,18 @@ Alex Gary did not lose the game with 98 runs, including 15 pounds and 32 runs, i
 [Data](articles/be120a2a.json)
 
 [Extended Data](ext_articles/be120a2a.ext.json)
+
+---
+
+### Forge National Unity Based On Inclusion Than Exclusion
+
+*2024-03-12 01:30:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/forge-national-unity-based-on-inclusion-than-exclusion/) · `en`
+
+The northern town of Vavuniya which was once at the front lines of the war is now a peaceful and bustling urban centre. Its physical infrastructure leaves much to be desired, with rundown buildings, and open drains that emit a foul odour. Vavuniya has not had the fortune of a political patron vested with governmental power to transform it like Polonnaruwa and Hambantota have been. But the town itself is peaceful. It is difficult to imagine that it was once under threat of bombardment and thousands of soldiers transited through it on the way to the front lines or back to their homes in the south. In the past there were a large number of security checkpoints at which busloads of people had to disembark and walk on foot from point to point while their vehicles were checked.
+
+...
+
+[Data](articles/ae924ff2.json)
 
 ---
 
@@ -867,6 +919,8 @@ Priced at a tax-inclusive price of Rs. 547, this plan allows customers to fulfil
 ...
 
 [Data](articles/2484fb22.json)
+
+[Extended Data](ext_articles/2484fb22.ext.json)
 
 ---
 
@@ -2141,81 +2195,5 @@ As per the advisory, under this level of temperature, fatigue is possible with p
 [Data](articles/8df47206.json)
 
 [Extended Data](ext_articles/8df47206.ext.json)
-
----
-
-### New Year's troubles tells Malwatta and Asgiriya
-
-*2024-03-11 16:43:33* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-නැකැත්-වැරදි-බව-මල්වත්තට-හා-අස්ගිරියට-කියයි/11-408543) · `si`
-
-The Sinhala Hindu New Year ceremony was marred by controversy, with allegations of political interference and conspiracy. The National Ausual Committee of Kandy was accused of appointing politically connected individuals, leading to calls for transparency and accountability.
-
-🟩
-
-The Sinhala Hindu New Year auspicious ceremony was defective and the conspiracy behind the night-preparation of food, the conspiracy behind the night, the conspiracy was to be assigned to hand over a memorandum.
-
-Members of the National Ausual Committee of Kandy yesterday (11th) were informed by Ven. Dimbulkumbura Sri Wimaladham Party, Anunayake, Ven. Ven.
-
-The members of the Malwatte faction were asked whom they were asked who was planted in the committee of this important auspicious committee.
-
-The attendance was said to have been appointed to the sons of politician.
-
-The Nathana Thero said that all these things would be caused by politicizing that such things would be done in a time when something important to be baked at a time when it occurred, but the advice needed to change the value of the preceding preparation in time.The Ananda Oops also emphasized.
-
-...
-
-[Data](articles/3e3470f1.json)
-
-[Extended Data](ext_articles/3e3470f1.ext.json)
-
----
-
-### 4,500 multipurpose officers to protect elephant fences - Pavithra
-
-*2024-03-11 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178450) · `ta`
-
-The Ministry of Finance has allocated 4,500 multipurpose officers to the Ministry of Wildlife to protect elephant fences. Pavithra Devi Wanniyarachchi, Minister of Finance and Forest Resources, announced the completion of forest border determination for a 32% forest increase plan. The initiative includes enhancing wilderness, protecting waterproof areas, and providing water for 20,000 acres.
-
-🟩
-
-Minister of Finance and Forest Resources Protection and Irrigation Pavithra Devi Wanniyarachchi said that the Ministry of Finance has given the Ministry of Wildlife to the Ministry of Wildlife to protect the elephant fences.
-
-The Minister said that the process of determining the forest borders associated with the plan to increase the country's forests by 32% on the total land area is expected to be completed this year.
-
-Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniyarachchi said this at a media briefing held at the Presidential Media Center on Monday.
-
-“International Forests Day is celebrated on March 21st. Meanwhile, arrangements are being made to provide one plant each of the homes across the country.
-
-...
-
-[Data](articles/c6bf6b41.json)
-
-[Extended Data](ext_articles/c6bf6b41.ext.json)
-
----
-
-### School student dies during school marathon
-
-*2024-03-11 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194386) · `si`
-
-A 16-year-old student from Thirukkukkovil Methodistist Metrowe Maha Vidyalaya died during an Inter-Sports Festival marathon. Initially treated at Thirukkovil Hospital, she later passed away at Akkaraipatatu hospital. Protests erupted near the hospital, claiming the student was not treated at Thirukkovil Hospital, leading to STF intervention.
-
-🟩
-
-A schoolgird who had joined the marathon player in an Inter-Sports Festival, a schoolgirl has died.
-
-The victim was a 16-year-old student of the Thirukkukkovil Methodistist Metrowe Maha Vidyalaya.
-
-Suddenly sick student has been admitted to the Thirukkovil Hospital for treatment, and later died on admission to the Akkaraipatatu hospital for further treatment.
-
-Meanwhile, residents have been a warm situation due to a protest near the hospital, claiming that the student was not treated at the Thirukkovil Hospital.
-
-The STF had also been called to control the situation.
-
-◼️
-
-[Data](articles/4a0a87bf.json)
-
-[Extended Data](ext_articles/4a0a87bf.ext.json)
 
 ---

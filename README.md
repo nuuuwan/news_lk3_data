@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 03:33:18**
+As of **2024-03-13 03:50:33**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,518 (100.0%) of 12,520 articles have been extended.
+12,520 (100.0%) of 12,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### சவால்களுக்கு ஈடுகொடுத்து, கொள்கைகளுக்கு மதிப்பளிக்கும் எதிர்காலச் சந்ததியை கட்டியெழுப்பும் கல்வி முறைமை நாட்டுக்குத் தேவை - ஜனாதிபதி
+### The country needs the education system to compensate for the challenges and build the future generation that value policies - the president
 
 *2024-03-13 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178577) · `ta`
 
-சாவால்களைக் கண்டு தப்பி ஓடாமல், அனைத்துச் சந்தர்ப்பங்களிலும் தமது கொள்கைகளில் உறுதியாகவிருந்து, முன்னேற்றிச் செல்லும் சந்ததியை, இந்நாட்டுக் கல்வியின் மூலம் உருவாக்கி, வலுவூட்ட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe emphasized the importance of strengthening the education system to prepare future generations for policy-making, at the 150th anniversary of Wesley College. He highlighted the college's role in producing notable figures for Sri Lanka, including pioneers, leaders, and professionals. The event featured discussions on AI and future teaching systems, and honored the contributions of Wesley College to nation-building.
 
-கொழும்பு சங்கரீ லா ஹோட்டலில் திங்கட்கிழமை (11) நடைபெற்ற வெஸ்லி கல்லூரியின் 150 ஆவது ஆண்டுப் பூர்த்தி விழாவிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டுக்குத் தேவையான பிரஜைகளை உருவாக்குவதற்கு வெஸ்லி கல்லூரி முன்னோடிச் சேவையாற்றியுள்ளதெனச் சுட்டிக்காட்டிய ஜனாதிபதி, அதற்காக நன்றியும் கூறினார்.
+President Ranil Wickremesinghe pointed out that the country's education should be strengthened and strengthened the descendants of their policies and improved on all occasions without fleeing the deaths.
 
-கொழும்பு வெஸ்லி கல்லூரி 1874 ஆம் ஆண்டு பிரித்தானியக் காலனித்துவ ஆட்சியின் போது மெதடிஸ்ட் மிஷனரி கல்வி முறையின் கீழ் நிறுவப்பட்டது. இக்கல்லூரி இலங்கையின் சுதந்திரப் போரின் முன்னோடிகள், ஆளுநர்கள், ஜெனரல்கள், அரசியல் தலைவர்கள், வர்த்தகர்கள், விஞ்ஞானிகள், பேராசிரியர்கள் உள்ளிட்ட பல்வேறு துறைகளில் இலங்கைக்குச் சேவையாற்றிய பல முக்கியஸ்தர்களை உருவாக்கியிருந்தது.
+President Ranil Wickremesinghe said this at the 150th anniversary of Wesley College held at the Sangari Law Hotel, Colombo on Monday (11).
+
+The President pointed out that Wesley College had pioneer service to create citizens needed for the country and thanked.
+
+Wesley College, Colombo was established under the Methodist Missionary Education System during the British Colonial rule in 1874. The college has created a number of prominent figures who served Sri Lanka in various fields, including the pioneers, governors, general leaders, businessmen, traders, scientists and professors.
+
+At the event, R. Somanathan, a college's alumnus and a professor of St. Diok University of the United States, presented the specialist titled "Artificial Intelligence (AI) and Future Teaching System".
 
 ...
 
 [Data](articles/ec2b167e.json)
+
+[Extended Data](ext_articles/ec2b167e.ext.json)
 
 ---
 
@@ -458,21 +466,27 @@ On the other contrary, Russia, has been able to circumvent the sanctions and kee
 
 ### 2024-03-12 (Tuesday)
 
-### பொது மக்களுக்கு மிக முக்கிய செய்தி...
+### The most important message to the public ...
 
 *2024-03-12 23:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-மிக-முக்கிய-செய்தி/175-334583) · `ta`
 
-இந்த நாட்களில் அதிக வெப்பமான காலநிலை நிலவுவதால் நீர் மற்றும் மின்சாரத்தை சிக்கனமாக பயன்படுத்துமாறு இலங்கை மின்சார சபை மற்றும் தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபை மக்களை கேட்டுக்கொள்கின்றன.
+Due to high temperatures, CEB and NWSDB urge conservation of water and electricity. If conditions persist, partial water rationing may be necessary.
 
-இந்த காலநிலை இன்னும் இரண்டு மாதங்களுக்கு நீடித்தால், பகுதியளவின் அடிப்படையில் தண்ணீர் திறக்க வேண்டிய நிலை ஏற்படும் என நீர் வழங்கல் சபை தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, கடுமையான வெப்பம் காரணமாக முன்பை விட மக்கள் மின்சாரத்தைப் பயன்படுத்தப் பழகிவிட்டனர்.
+The Ceylon Electricity Board (CEB) and the National Water Supply and Drainage Board are urging people to use water and electricity as a result of high temperatures these days.
 
-இதனால் இந்த நாட்களில் மின்சாரத்தின் தேவை அதிகரித்துள்ளதால் மின்சாரத்தை சிக்கனமாக பயன்படுத்துமாறு இலங்கை மின்சார சபை மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+If the climate lasts for two more months, the water supply council will have to open water on the basis of partial quantities.
+
+Meanwhile, people have been used to using electricity than ever before due to severe heat.
+
+The Ceylon Electricity Board (CEB) has asked the people to use electricity as it has increased the demand for electricity these days.. Remble
 
 ◼️
 
 [Data](articles/ca3bb083.json)
+
+[Extended Data](ext_articles/ca3bb083.ext.json)
 
 ---
 

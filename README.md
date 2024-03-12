@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 04:02:44**
+As of **2024-03-13 04:17:59**
 
 ## Newspaper Stats
 
-*Scraped **12,520** Articles*
+*Scraped **12,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 120
 bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 647
+dailyftlk | 649
 economynextcom | 666
 islandlk | 677
 adalk | 1,070
@@ -26,11 +26,39 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,520 (100.0%) of 12,520 articles have been extended.
+12,520 (100.0%) of 12,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### Poorer than India and Bangladesh: Where is IMF program taking Sri Lanka?
+
+*2024-03-13 04:04:03* · [`dailyftlk`](https://www.ft.lk/columns/Poorer-than-India-and-Bangladesh-Where-is-IMF-program-taking-Sri-Lanka/4-759430) · `en`
+
+The stabilisation of the economy and the adoption of International Monetary Fund (IMF) program requirements has created optimism that Sri Lanka is heading in a positive direction. While the direction is positive, where this is going to lead us is not.
+
+...
+
+[Data](articles/2855f59a.json)
+
+---
+
+### APAC economies and commodity exporters most exposed to China stress scenario: Fitch
+
+*2024-03-13 03:57:52* · [`dailyftlk`](https://www.ft.lk/opinion/APAC-economies-and-commodity-exporters-most-exposed-to-China-stress-scenario-Fitch/14-759429) · `en`
+
+Fitch Ratings believes that economies in the Asia-Pacific (APAC) and commodity exporters would be particularly affected under a severe downside stress scenario in China. There would also be a dampening effect on international price pressures.
+
+Fitch’s analysis released last week, based on internal modelling using the Oxford Economics Global Economic Model, sees vulnerabilities in Vietnam, Korea, Taiwan, Hong Kong, Malaysia and Singapore, through their strong economic linkages with China.
+
+It also suggests Middle Eastern energy exporters, such as Bahrain, Kuwait, Iraq, Qatar and Oman, would see slower real GDP growth. However, this does not capture factors such as Qatar’s long-term LNG supply contracts, which we think should make its exports less sensitive to short-term shifts in Chinese demand, limiting the hit to its GDP.
+
+...
+
+[Data](articles/a47de54f.json)
+
+---
 
 ### The country needs the education system to compensate for the challenges and build the future generation that value policies - the president
 
@@ -2249,49 +2277,5 @@ After concluding 2024 event of the ITB Berlin Convention, the world’s leading 
 [Data](articles/512695db.json)
 
 [Extended Data](ext_articles/512695db.ext.json)
-
----
-
-### Sri Lanka Tourism to attract 2.3 million tourists in 2024; to earn over USD 4 billion
-
-*2024-03-12 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Tourism-to-attract-2-3-million-tourists-in-2024-to-earn-over-USD-4-billion/108-278708) · `en`
-
-Colombo, March 12 (Daily Mirror) - Sri Lanka tourism aims to attract 2.3 million tourists in 2024 and earn over USD 4 billion, Tourism Minister Harin Fernando said.
-
-Speaking at the event, he said Sri Lanka Tourism is launching its destination brand campaign globally with a new positioning and a tagline: ‘You’ll come back for more’.
-
-...
-
-[Data](articles/cd7787d5.json)
-
-[Extended Data](ext_articles/cd7787d5.ext.json)
-
----
-
-### Massacre of young family in Jaffna;The suspects identify the trio
-
-*2024-03-12 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178533) · `ta`
-
-In Jaffna, a young family was murdered. Suspects, identified by Vaddukoddai police, abducted the family member, who was later rescued. The wife, unharmed, reported the incident.
-
-🟩
-
-Vaddukoddai police sources say that three suspects have identified three suspects in connection with the murder of a young family member in Vaddukoddai, Jaffna.
-
-A 23 -year -old from Vaddukoddai, a young family member of the Vaddukoddai area, left the Karainagar area with his wife on Monday and was on his motorbike to Vaddukoddai.
-
-A violent gang who abducted her husband in one vehicle and his wife in the other vehicle has dropped the student in Arali.
-
-Those who abducted her husband were attacked in a vehicle and left the sword -cutting attack and fled with injuries in front of a hospital in Vaddukoddai.
-
-Hospital staff rescued young man. Sent to the teaching hospital for treatment. A young family has died without treatment at the hospital.
-
-Meanwhile, the wife who was unloaded in Arali has gone to the Vaddukoddai police station and abducted himself and her husband in two vehicles.
-
-...
-
-[Data](articles/28398765.json)
-
-[Extended Data](ext_articles/28398765.ext.json)
 
 ---

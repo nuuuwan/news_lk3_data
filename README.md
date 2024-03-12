@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 12:18:03**
+As of **2024-03-12 12:33:30**
 
 ## Newspaper Stats
 
-*Scraped **12,345** Articles*
+*Scraped **12,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 142
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
-economynextcom | 642
+economynextcom | 647
 islandlk | 677
-adalk | 1,050
+adalk | 1,051
 adaderanalk | 1,491
-tamilmirrorlk | 1,504
-virakesarilk | 1,700
+tamilmirrorlk | 1,505
+virakesarilk | 1,701
 dailymirrorlk | 1,883
 adaderanasinhalalk | 1,948
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 1,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,343 (100.0%) of 12,345 articles have been extended.
+12,345 (99.9%) of 12,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### ரஷ்யாவின் இரு நகரங்களில் தாக்குதலுக்குள்ளான எண்ணெய்க் களஞ்சியங்கள் தீக்கிரை
+
+*2024-03-12 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178510) · `ta`
+
+ரஷ்யாவின் இரு நகரங்களிலுள்ள எண்ணெய்க் களஞ்சியங்கள் இன்று நடத்தப்பட்ட ட்ரோன் தாக்குதல்களையடுத்து அக்களஞ்சியங்கள் தீப்பற்றி எறிவதாக ரஷ்ய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இவ்விரு நகரங்களும் நூற்றுக்கணக்கான கிலோமீற்றர் இடைவெளியில் உள்ளன. கேஸ்டோவோ  நகரம் மொஸ்கோவுக்கு கிழக்கே 450 கிலோமீற்றர் தூரத்தில் உள்ளது.
+
+ரஷ்யாவின் பல நகரங்கள் மீது உக்ரேன் தாக்குதல்களை நடத்திய நிலையில், இரு நகரங்களில் எண்ணெய்க் களஞ்சியங்கள் தீப்பற்றியுள்ளன.
+
+தீயை அணைப்பதற்கான நடவடிக்கைகளில் விசேட படையினர் ஈடுபட்டுள்ளனர் என ரஷ்ய அதகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/641c7551.json)
+
+---
+
+### Controversial Prime Minister declared resignation in Haiti's capital violent gang
+
+*2024-03-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178500) · `ta`
+
+Haiti's Prime Minister resigned amidst violent protests and security concerns following the assassination of the previous leader in 2021. The Prime Minister's Advisor confirmed the resignation, with the current president remaining in office until a new Prime Minister is appointed. The Caribbean community and the general market organization have expressed their determination to establish a peaceful transition and hold elections.
+
+🟩
+
+After the assassination of Haiti in 2021, the current Prime Minister, who came to power, refused to hold the election last year, due to the security of the country.
+
+Demonstrators are furious as Haiti is further trapped within the poverty and the group.
+
+The Prime Minister of Haiti, who has been violently over the past week. He has resigned from his post.
+
+The announcement of the resignation of the Prime Minister has been announced in a situation where Haiti is in a state of disrepair and Haiti is in a state of disrepair.
+
+The Prime Minister's Advisor has confirmed this and said that the current president will remain in office until the new Prime Minister takes over.
+
+Guyana's president and head of the Caribbean community and the general market organization, Irfan Ali, said that the announcement of the interim Prime Minister's announcement and the announcement of the interim prime minister will be resigned.
+
+...
+
+[Data](articles/17976cdc.json)
+
+[Extended Data](ext_articles/17976cdc.ext.json)
+
+---
+
+### தேர்தல் முறைமையில் மாற்றத்தைக் கொண்டு வர முயற்சி
+
+*2024-03-12 12:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையில்-மாற்றத்தைக்-கொண்டு-வர-முயற்சி/175-334549) · `ta`
+
+நிலுவையில் உள்ள தேசிய தேர்தல்களுக்கு முன்னதாக, பாராளுமன்ற தேர்தல் சட்டத்தில் திருத்தம் கொண்டு வருவதன் மூலம் பாராளுமன்ற தேர்தல் முறையில் மாற்றங்களை கொண்டுவர அரசாங்கம் புதிய முயற்சிகளை மேற்கொண்டுள்ளதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
+
+நீதி அமைச்சர் விஜயதாச ராஜபக்ச, கலப்பு தேர்தல் முறைமையை அறிமுகப்படுத்துவதற்கான அமைச்சரவைப் பத்திரத்தை கடந்த வாரம் சமர்ப்பித்திருந்தார். புதிய முறையின் கீழ், 160 எம்.பி.க்கள் முதல் நிலை பதவி முறையின் கீழும், மற்றொரு 65 எம்.பி.க்கள் விகிதாசார பிரதிநிதித்துவத்தின் கீழும் தேர்ந்தெடுக்கப்படுவார்கள்.
+
+FPTP இன் கீழ், ஒரு உள்ளூர் தொகுதியில் அதிக வாக்குகளைப் பெறும் வேட்பாளர் ஒரு இடத்தைப் பெறுவார். இதற்கு நேர்மாறாக, PR என்பது பாராளுமன்றத்தில் கட்சிகளின் ஆசனங்கள் அளிக்கப்பட்ட வாக்குகளின் விகிதத்தில் இருக்க வேண்டும் என்ற எண்ணம்.
+
+...
+
+[Data](articles/1efea7c8.json)
+
+---
+
+### Public police can inform the police!
+
+*2024-03-12 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178507) · `ta`
+
+Public police can inform the police! Police headquarters introduced telephone numbers for public drug info, enhancing strategy. The police media unit set up these numbers to identify callers.
+
+🟩
+
+The police headquarters said that the telephone numbers have been introduced to inform the public about the drug, to further implement the strategy.
+
+The police media unit said that these numbers were set up to identify the caller's identity when making telephone calls.
+
+◼️
+
+[Data](articles/570353e4.json)
+
+[Extended Data](ext_articles/570353e4.ext.json)
+
+---
 
 ### Ramadan begins in Gaza with hunger worsening and no end to the war in sight
 
@@ -52,51 +134,13 @@ But there was little to celebrate after five months of war that has killed over 
 
 ---
 
-### பூகம்பம் போல உணர்ந்தோம் - நடுவானில் தொழில்நுட்ப கோளாறினால் தடுமாறிய லட்டம் விமானத்தின் பயணிகள் தெரிவிப்பு
-
-*2024-03-12 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178509) · `ta`
-
-சிட்னியிலிருந்து அவுக்லாண்டிற்கு சென்றுகொண்டிருந்த லட்டாம் விமானத்தில் தொழில்நுட்ப கோளாறு ஏற்பட்டதை தொடர்ந்து விமானத்திற்குள் காணப்பட்ட நிலைமை குறித்து தெரிவித்துள்ள பயணிகள் பூகம்பம் போல உணர்ந்ததாக தெரிவித்துள்ளனர்.
-
-திங்கட்கிழமை பகல் 263 பயணிகள் மற்றும் ஒன்பது விமானப்பணியாளர்களுடன் நியுசிலாந்தின் அவுக்லாண்டை நோக்கி  புறப்பட்ட லட்டாம் எயர்லைன்ஸ் தனது மூன்றரை மணிநேர பயணத்தின் இடையில் கடுமையான குலுங்கியது என்பது விமான கண்காணிப்பு தரவுகள் மூலம் தெரியவந்துள்ளது.
-
-தொழில்நுட்ப கோளாரே இதற்கு காரணம் விசாரணைகள் இடம்பெற்றுள்ளன என தெரிவித்துள்ள லட்டாம் எயர்லைன்ஸ் விசாரணைகள் இடம்பெறுவதாக தெரிவித்துள்ளது.
-
-விமானம் நியுசிலாந்தில் தரையிறங்கியதும் விமானி கடும் அதிர்ச்சியில் சிக்குண்டிருந்தார் என பயணிகள் தெரிவித்துள்ளனர்.
-
-சிறிதுநேரம் விமானத்தை செலுத்தும் திறன் பாதிக்கப்பட்டதாக அவர் தெரிவித்தார் எனவும் பயணிகள் தெரிவித்துள்ளனர்.
-
-மதிய உணவு வழங்குவது  முடிவடைந்து சில நிமிடங்களின் பின்னர் விமானம் கீழே விழத்தொடங்கியது என நியுசிலாந்தை சேர்ந்த பயணியொருவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/d3a2f91a.json)
-
----
-
-### Thai Airways to recommence scheduled flights to BIA from April 1
-
-*2024-03-12 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Airways-to-recommence-scheduled-flights-to-BIA-from-April-1/108-278695) · `en`
-
-Colombo, March 12 (Daily Mirror) - Thai Airways, the flag carrier airline of Thailand, will re-commence its operations at Bandaranaike International Airport (BIA) with daily flights from April 1.
-
-The recommencement will incredibly boost the tourism industry, which has shown significant growth in the first two months of 2024, welcoming 207,182 and 218,350 passengers (by air) in January and February, respectively.
-
-Passengers will be able to experience the ultimate in travel with Thai Airways and explore over 60 cities in 28 countries from Bangkok. The airline operates at key destinations in Europe, Australia, Asia, and Thailand.
-
-Airport and Aviation Services (Sri Lanka) (Pvt.) Limited (AASL) is delighted to welcome the airline to its main gateway, and by February 2024, Sri Lanka airports would have served 36 esteemed airlines that operated scheduled international operations, solidifying its pivotal role in the aviation industry.
-
-◼️
-
-[Data](articles/dc0d4a7f.json)
-
-[Extended Data](ext_articles/dc0d4a7f.ext.json)
-
----
-
 ### Mukhamalai people have done the best act of refusing to take school students
 
-*2024-03-12 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178504) · `ta`
+*2024-03-12 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178504) · `ta`
+
+Mukhamalai residents refuse to transport school students due to traffic issues, affecting their punctuality and stress. The community urges the Northern Province Governor to address traffic problems for a proper solution.
+
+🟩
 
 The people of the area have been sorry about the school students in the Mohamalai area in Kilinochchi.
 
@@ -122,53 +166,45 @@ The people of the area are urging the Governor of the Northern Province to direc
 
 ---
 
-### වෙඩි උණ්ඩවලට බිලි වූ තරුණ ජීවිත
+### Earthquake Felt
 
-*2024-03-12 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194412) · `si`
+*2024-03-12 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178509) · `ta`
 
-අම්බලන්ගොඩ හා පිටිගල යන ප්‍රදේශවල ඊයේ (12) රාත්‍රියේ සිදුවූ වෙඩි තැබීම් දෙකකින් පුද්ගලයන් සිව්දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් පුද්ගලයන් 6 දෙනෙකු තුවාල ලබා තිබේ.
-
-අම්බලන්ගොඩ, ගලගොඩ, වෙලපාරේ පිහිටි වෙළෙඳසැලක් අසලදී ඊයේ රාත්‍රී 8.35ට පමණ වෙඩිතැබීමක් සිදුව තිබිණි.
-
-යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු T 56 වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පළාගොස් ඇති බව පොලීසිය පැවසුවේය.
-
-වෙඩි ප්‍රහාරයෙන් පුද්ගලයන් දෙදෙනෙකු එම ස්ථානයේදීම මියගොස් තවත් තිදෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා බලපිටිය රෝහලට ඇතුළත් කර තිබේ.
-
-වෙඩි ප්‍රහාරයෙන් මියගොස් ඇත්තේ, හලඹ උදේශ් මධුරංග නොහොත් 'පොඩි මැන්ඩිස්' නැමැත්තෙක් හා දඩල්ලගේ සිතුම් අංජන නොහොත් 'සුදූ' නැමැත්තෙකි.
-
-"කාටවත් වරදක් නෑ මහත්තයෝ... කුරා කූඹියෙකුටවත් වරදක් නෑ...අපි යන්න ඕන ගමන අද පුතා ගිහින්. අපියි යන්න ඕනේ ඒ ගමන අපි ආච්චිලා. කඩේ බඩු දුන්න නිසා එයාටත් තියලා. අනේ අපි හිතුවේ නෑ දරුවට එහෙම වෙයි කියලා. අනේ ගෙදරට හිටිය එකම දරුවා..."
-
-තුවාල ලබා මේවන විට රෝහල්ගතව ප්‍රතිකාර ලබන්නේ චතුර මදුශංක නොහොත් 'ලොකු චතුර', පත්තිනි වසම් අකිල සහ සංගමගේ චම්පික තුෂාර නැමැත්තෙකි.
-
-...
-
-[Data](articles/ed0ac1c2.json)
-
----
-
-### Public police can inform the police!
-
-*2024-03-12 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178507) · `ta`
-
-Public police can inform the police! Police headquarters introduced telephone numbers for public drug info, enhancing strategy. The police media unit set up these numbers to identify callers.
+A Latam flight from Sydney to Auckland experienced a technical failure, causing passengers to feel an earthquake. The plane, carrying 263, landed in New Zealand with 50 injuries. Investigations are ongoing.
 
 🟩
 
-The police headquarters said that the telephone numbers have been introduced to inform the public about the drug, to further implement the strategy.
+Travelers who reported the situation inside the plane were felt as an earthquake, following the technical failure of a Latam flight from Sydney to Avukland.
 
-The police media unit said that these numbers were set up to identify the caller's identity when making telephone calls.
+Airline surveillance data revealed that Latam Airlines, who departed with 263 passengers and nine passengers on Monday, towards New Zealand's Augland, was shocked between their three and a half hours.
 
-◼️
+Latam Airlines investigations are due to investigations.
 
-[Data](articles/570353e4.json)
+Travelers said the pilot was in a state of shock when the plane landed in New Zealand.
 
-[Extended Data](ext_articles/570353e4.ext.json)
+Travelers said the ability to pay the aircraft had been affected for a while.
+
+A new passenger from New Zealand said the plane began to fall down a few minutes after lunch.
+
+He said that it was held in one second and started shaking fast.
+
+Elvood said the pilots were traveling quietly.
+
+Elwood said that the most painful experience was the passengers and the flight attendants were injured.
+
+More than 50 people were injured in a plane that was traveling from Australia's Sydney to New Zealand's Augland.
+
+...
+
+[Data](articles/d3a2f91a.json)
+
+[Extended Data](ext_articles/d3a2f91a.ext.json)
 
 ---
 
 ### The first test of the missile manufactured in India
 
-*2024-03-12 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178502) · `ta`
+*2024-03-12 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178502) · `ta`
 
 India's first MIRV missile, Agni-5, tested successfully. It's a significant achievement under the Mission Divyastra Program, showcasing India's advancements in missile technology. Agni-5, with a range of up to 5000 km, significantly extends India's reach, potentially impacting the northern part of China.
 
@@ -187,6 +223,60 @@ This will bring the entire Asia into the northern part of China.
 [Data](articles/c895c07f.json)
 
 [Extended Data](ext_articles/c895c07f.ext.json)
+
+---
+
+### Thai Airways to recommence scheduled flights to BIA from April 1
+
+*2024-03-12 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Airways-to-recommence-scheduled-flights-to-BIA-from-April-1/108-278695) · `en`
+
+Colombo, March 12 (Daily Mirror) - Thai Airways, the flag carrier airline of Thailand, will re-commence its operations at Bandaranaike International Airport (BIA) with daily flights from April 1.
+
+The recommencement will incredibly boost the tourism industry, which has shown significant growth in the first two months of 2024, welcoming 207,182 and 218,350 passengers (by air) in January and February, respectively.
+
+Passengers will be able to experience the ultimate in travel with Thai Airways and explore over 60 cities in 28 countries from Bangkok. The airline operates at key destinations in Europe, Australia, Asia, and Thailand.
+
+Airport and Aviation Services (Sri Lanka) (Pvt.) Limited (AASL) is delighted to welcome the airline to its main gateway, and by February 2024, Sri Lanka airports would have served 36 esteemed airlines that operated scheduled international operations, solidifying its pivotal role in the aviation industry.
+
+◼️
+
+[Data](articles/dc0d4a7f.json)
+
+[Extended Data](ext_articles/dc0d4a7f.ext.json)
+
+---
+
+### Young people killed in bullets
+
+*2024-03-12 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194412) · `si`
+
+In Ambalangoda and Pitigala, two shootings resulted in 4 deaths and 6 injuries. Unidentified shooters on a motorbike fled both incidents. Victims included a 31-year-old man from Karandenna and a 26-year-old woman from Kavshkana Angara, who died this morning.
+
+🟩
+
+Four persons were killed and six others were injured in two shootings in Ambalangoda and Pitigala yesterday.
+
+A shooting was shooned at 8.35 last night near the Ambalangoda, Galagoda.
+
+Two unidentified shooters who came from a motorbike have fled the shooting by T 56.
+
+Two persons were killed and 3 others were injured and injured in the shooting and injuring another injuries.
+
+The shooting was killed in the shooting, a 'little mandis' or a 'little mandis', or 'Sudie'.
+
+"No one's offense.. There is nothing wrong with a Quran ... we need to go to go today. We need to go that journey, we're grandparents. She has also to have the bags of the shops. I didn't think so would. Oh, the only child at home ... "
+
+The injuries are being treated at the hospital with the fluent maiden al, Bhampini Akila Akila Akila and Association Champika Thushara.
+
+Meanwhile, Pitigala has been shot in front of a shop in the Teaching area.
+
+Two unidentified shops have been shot with a motorbike.
+
+...
+
+[Data](articles/ed0ac1c2.json)
+
+[Extended Data](ext_articles/ed0ac1c2.ext.json)
 
 ---
 
@@ -249,6 +339,30 @@ Trump had initially supported efforts to ban the app in the U.S., but he recentl
 [Data](articles/15c78cf5.json)
 
 [Extended Data](ext_articles/15c78cf5.ext.json)
+
+---
+
+### Sri Lanka’s coconut price down 2.6-pct at auction
+
+*2024-03-12 11:17:00* · [`economynextcom`](https://economynext.com/srilankan-to-show-financial-operational-progress-in-6-months-154238/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut price fell 2.6 percent to 72,030 per 1,000 nuts at an auction on March 7, data from the island’s Coconut Development Authority shows.
+
+The highest price was 79,100 rupees for 1,000 nuts down from 79,600 rupees a week ago, while the lowest was 65,000 down from 67,000 rupees.
+
+A total of 842,503 coconuts were offered at the auction and 560,210 nuts were sold.
+
+Wholesale prices were 95 to 105 rupees for large nuts and 80 to 85 rupees per small nut in the week to March 7, 2024.
+
+Farmgate prices in Kurunegala were 70,000 to 75,000 rupees per 1,000 nuts up from 70,000 -72,000 per 1000 nuts two weeks ago.
+
+Coconut oil was 590,000 to 600,000 rupees per metric ton from last week’s 570,000- 590,000.
+
+Coconut shells were 28,000 to 30,000 rupees a metric ton up from last week’s 28,000-29,000. (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/8bf8c781.json)
 
 ---
 
@@ -347,34 +461,6 @@ Hettiarachchi Rukshani (age 27), Manager of a beauty salon in Mulleria, Udumulla
 [Data](articles/9b47d306.json)
 
 [Extended Data](ext_articles/9b47d306.ext.json)
-
----
-
-### Controversial Prime Minister declared resignation in Haiti's capital violent gang
-
-*2024-03-12 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178500) · `ta`
-
-Haiti's Prime Minister resigned amidst violent protests and security concerns following the assassination of the previous leader in 2021. The Prime Minister's Advisor confirmed the resignation, with the current president remaining in office until a new Prime Minister is appointed. The Caribbean community and the general market organization have expressed their determination to establish a peaceful transition and hold elections.
-
-🟩
-
-After the assassination of Haiti in 2021, the current Prime Minister, who came to power, refused to hold the election last year, due to the security of the country.
-
-Demonstrators are furious as Haiti is further trapped within the poverty and the group.
-
-The Prime Minister of Haiti, who has been violently over the past week. He has resigned from his post.
-
-The announcement of the resignation of the Prime Minister has been announced in a situation where Haiti is in a state of disrepair and Haiti is in a state of disrepair.
-
-The Prime Minister's Advisor has confirmed this and said that the current president will remain in office until the new Prime Minister takes over.
-
-Guyana's president and head of the Caribbean community and the general market organization, Irfan Ali, said that the announcement of the interim Prime Minister's announcement and the announcement of the interim prime minister will be resigned.
-
-...
-
-[Data](articles/17976cdc.json)
-
-[Extended Data](ext_articles/17976cdc.ext.json)
 
 ---
 
@@ -477,6 +563,22 @@ The Minister added that the tax would be charged for the purpose of protecting t
 [Data](articles/c1a7c8d2.json)
 
 [Extended Data](ext_articles/c1a7c8d2.ext.json)
+
+---
+
+### වව්නියාවේ ජාතික පාසලකින් මෝටාර් උණ්ඩ සොයාගනී
+
+*2024-03-12 10:34:07* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාවේ-ජාතික-පාසලකින්-මෝටාර්-උණ්ඩ-සොයාගනී/11-408554) · `si`
+
+වවුනියාව මඩුකන්ද ජාතික පාසල් භූමියේ කසල සහිත ස්ථානයක තිබී පුපුරා නොගිය මිලිමීටර 81 වර්ගයේ මෝටාර් උණ්ඩ තුනක් සොයාගත් බව පොලිස් විශේෂ කාර්ය බලකාය පවසයි. මඩුකන්ද ජාතික පාසලේ නිවාසාන්තර ක්‍රීඩා උළෙල වෙනුවෙන් පස්කපන යන්ත්‍රයක් ගෙන ක්‍රීඩා පිටිය පිලිසකර කොට ඇති අතර එම අවස්ථාවේදී ක්‍රීඩාපිටියට අවශ්‍ය කසල බැහැර කිරීම වෙනුවෙන් වලක් කැපීමේදී පොළව යටතිබූ අදාල මෝටාර් බෝම්බ මතුවී ඇත.
+
+පසුගිය යුද සමයේදී කොටි ත්‍රස්ත සංවිධානය විසින් අදාල ස්ථානයේ මෙම මෝටාර් බෝම්බ වලදමන්නට ඇතැයි පොලීසිය සැකපල කරන අතර අදාල ස්ථානයේ තවත් බෝම්බ ඇත්දැයි සෙවීමටද පියවර ගෙන ඇතැයි පරික්ෂණ සිදුකරන මඩුකන්ද පොලීසිය වැඩිදුරටත් පැවසීය. හමුවූ මෝටාර් උණ්ඩ දැඩිලෙස දිරාපත්ව තිබූ බවත් සඳහන් කළේය. මෝටාර් උණ්ඩ තැන තැන විසිරී තිබු බවත් එ‍්වා පිපිරී ගියේ නම් විශාල හානියක් සිදුවීමට ඉඩතිබූ බවත් පැවසීය.
+
+වවුනියාව මහෙස්‌ත්‍රාත් අධිකරණ නියෝග යටතේ හමුවූ මෝටාර් උණ්ඩ පොලිස් විශේෂ කාර්ය බලකායේ මඩුකන්ද කඳවුරේ නිලධාරීන් විසින් අ‍ාරක්ෂිතව ඉවත් කිරීමෙන් අනතුරුව නිශ්ක්‍රීය කිරීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/aeb656f0.json)
 
 ---
 
@@ -753,6 +855,20 @@ Two police officers in the vehicle suffered minor injuries. However, it is repor
 [Data](articles/ef1a0910.json)
 
 [Extended Data](ext_articles/ef1a0910.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 306.50/60 to the US dollar
+
+*2024-03-12 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-306-50-60-to-the-us-dollar-154203/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 306.50/60 to the US dollar in the spot forex market on Tuesday, stronger from 306.95/307.10 on Monday, dealers said, while bond yields were quiet ahead of the auction.
+
+The Colombo Stock Market opened down; the All Share Price Index was down 0.05 percent at 11,118, the S&P SL20 was up 0.23 percent at 3,182 (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/9e1e01ea.json)
 
 ---
 
@@ -1070,6 +1186,28 @@ The lorry has been running down and the time, while the lorry was stopped at the
 
 ---
 
+### SriLankan Airlines asked to show better results after $500mn tax-payer bailout
+
+*2024-03-12 07:53:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-asked-to-show-better-results-after-500mn-tax-payer-bailout-154169/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines was asked to show better performance by Aviation Minister Nimal Siripala de Silva following government support to strengthen its balance sheet, a ministry statement said.
+
+The government was taking out 510 million US dollars out of 1.2 billion US dollars in debt, and the airline has to show better performance in the next six months Minister de Silva had said, during a meeting with the management and trade unions on March 11.
+
+Separately  the airline has also been promised 60 to 70 million dollars of working capital support, Minister de Silva said earlier this month.
+
+The airline should to cuts costs and maintain financial discipline in the next six months, if not jobs of 6,000 employees are at risk, he said.
+
+Sri Lankan Airlines now had a fleet of 16 aircraft operating 06 long haul routes and 29 short haul ones, officials had said.
+
+Related SriLankan Airlines debt of US$510mn to be taken over by govt
+
+...
+
+[Data](articles/d735bcb6.json)
+
+---
+
 ### Sri Lanka rejects global report on child malnutrition
 
 *2024-03-12 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-rejects-global-report-on-child-malnutrition/108-278640) · `en`
@@ -1240,6 +1378,26 @@ Under FPTP, the candidate who receives the most votes in a local constituency wi
 
 ---
 
+### IMF increases bailout access to 600-pct from 200-pct of member quota
+
+*2024-03-12 06:22:00* · [`economynextcom`](https://economynext.com/imf-increases-bailout-access-to-600-pct-from-200-pct-of-member-quota-154161/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has increased normal access to its funds to 600 percent of the quota for member countries from the current 200 percent for at least 12 months amid global economic turmoil.
+
+Many countries are experiencing currency trouble of external default after a spurious economic doctrines over the past decade, while floating rate nations are experiencing fiscal trouble as inflationary policy is scaled back.
+
+“The increase was initially approved in March 2023 for a period of 12 months, ending on March 5, 2024,” the IMF said in a statement.
+
+“The extension takes place in the context of the still uncertain global economic environment, and the need for a smooth transition to the comprehensive review of the GRA access limits planned for the second half of 2024.”
+
+IMF Executive Board Extends Temporary Increase in Access Limits Under the General Resources Account
+
+...
+
+[Data](articles/4d0d9420.json)
+
+---
+
 ### Showers or thunderstorms
 
 *2024-03-12 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194399) · `si`
@@ -1281,6 +1439,24 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 [Data](articles/d7861980.json)
 
 [Extended Data](ext_articles/d7861980.ext.json)
+
+---
+
+### Top Sri Lanka electricity sector official, Lashitha Weerasinghe passes away
+
+*2024-03-12 05:50:00* · [`economynextcom`](https://economynext.com/top-sri-lanka-electricity-sector-official-lashitha-weerasinghe-passes-away-154184/) · `en`
+
+ECONOMYNEXT – Lakshitha Weerasinghe, Deputy General Manager, Research and Development, at state-run Ceylon Electricity Board, has passed away, friends said.
+
+Colleagues say he had an enduring desire to reduce costs and give low prices to the public, by taking a systems approach and optimizing various options including the generation mix and emerging technologies to make the utility more cost-effective.
+
+Weerasinghe has tried to explain the complex workings of power utilities, at various public forums, in a bid to clear up common mis-understandings about a sector that operates under multiple dynamic priorities, dynamic conditions, and technical constraints.
+
+He has also presented papers and made presentations, at all times trying to increase public understanding by using less technical language and examples.
+
+...
+
+[Data](articles/67660cbd.json)
 
 ---
 
@@ -2069,173 +2245,5 @@ Zermatt is a popular mountain resort renowned for skiing and attracts tourists f
 [Data](articles/772f833d.json)
 
 [Extended Data](ext_articles/772f833d.ext.json)
-
----
-
-### I am not seeking talks with the International Monetary Fund - Dr. Harsha de Silva
-
-*2024-03-11 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178474) · `ta`
-
-Dr. Harsha de Silva, a parliamentarian, emphasizes that negotiations with international credit providers, not the IMF, are necessary for the government's progress. He warns that compliance with credit providers could lead to a crisis for the new government, potentially causing bankruptcy. He advocates for transparent negotiations with credit owners and holds the opposition responsible. He insists on not negotiating with the IMF and has outlined amendments to be discussed with the Monetary Fund representatives.
-
-🟩
-
-The International Monetary Fund did not seek negotiations with international credit providers. Parliamentarian Harsha de Silva said he emphasized that negotiations with the loan owners should be transformed and obtained the compliance of the opposition.
-
-President Ranil Wickremesinghe was summoned by the International Monetary Fund on Monday (11). In response, he further stated that he added.
-
-I do not request negotiations with the IMF. Sought negotiations with international credit providers. It is imperative for the government to advance in the wake of the current compliance with the International Monetary Fund.
-
-Therefore, if compliance with international credit providers and financial institutions can be implemented in the future, it would be a crisis for the new government that would rule. In the event of such a situation, the country will be able to repay the bankruptcy and cannot repay the debts.
-
-...
-
-[Data](articles/08dd5ee5.json)
-
-[Extended Data](ext_articles/08dd5ee5.ext.json)
-
----
-
-### Bangladeshi FM for expanding trade and commerce with Sri Lanka
-
-*2024-03-11 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/97881/bangladeshi-fm-for-expanding-trade-and-commerce-with-sri-lanka) · `en`
-
-Foreign Minister of Bangladesh Dr Hasan Mahmud today expressed his keen interest to expand trade and commerce with Sri Lanka.
-
-He made the remarks while Sri Lankan High Commissioner in Dhaka Dharmapala Weerakkody paid a courtesy call on him at the foreign ministry in Dhaka, a press release said.
-
-During the meeting, they discussed the matters of mutual interests.
-
-Mahmud expressed his satisfaction on the existing bilateral relations between Bangladesh and Sri Lanka.
-
-He thanked the high commissioner for conveying the congratulatory message to Bangladeshi Prime Minister Sheikh Hasina from the Head of the State and the Head of the Government of Sri Lanka, following the victory in the 12th National Parliamentary elections.
-
-The foreign minister also expressed happiness over Sri Lanka’s economic recovery.
-
-He added that Bangladesh always stands by Sri Lanka during their crisis time.
-
-...
-
-[Data](articles/9c3e01cf.json)
-
-[Extended Data](ext_articles/9c3e01cf.ext.json)
-
----
-
-### Ramadan fasting month begins tomorrow
-
-*2024-03-11 22:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ramadan-fasting-month-begins-tomorrow/108-278661) · `en`
-
-Colombo, March 11 (Daily Mirror) - The month of Ramadan fasting begins for the Muslim community in Sri Lanka from tomorrow (12) as the new crescent moon has been sighted, the Colombo Grand Mosque said.
-
-Muslims worldwide will observe a month of fasting and prayers during Ramadan, commemorating the revelation of the Quran to Prophet Mohammed on the night of 'Laylat Al Qadr'.
-
-Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is regarded as one of the Five Pillars of Islam.
-
-◼️
-
-[Data](articles/da4f099d.json)
-
-[Extended Data](ext_articles/da4f099d.ext.json)
-
----
-
-### Gurukula, Maris Stella top 300 runs
-
-*2024-03-11 22:40:00* · [`islandlk`](http://island.lk/gurukula-maris-stella-top-300-runs/) · `en`
-
-Gurukula College, Kelaniya and Maris Stella Colleges topped 300 runs on day one of their Under 19 Division I Tier ‘A’ tournament matches which commenced on Monday.
-
-At Kadirana, Maris Stella batted the whole day to post 319 runs as Safni Deen, Yohan Aloka and Hasindu Perera scored half centuries in their crucial Under 19 Division I Tier ‘A’ cricket encounter against De Mazenod at Kadirana.
-
-351 for 9 decl. in 86 overs (Mohomed Mursad 54, Poorna Kalhara 77, Thathsara Eshan 58, Janith Mihiranga 53n.o.; Shakesh Minon 3/57, Nilupul Liyanage 3/68)
-
-319 all out in 93.5 overs (Safni Deen 50, Oshadha Gunasinghe 38, Yohan Aloka 63, Hasindu Perera 77, Mineth Fernando 27, Nilesha Perera 23; Dinosh Jelon 5/74)
-
-Related Topics:Gurukula College KelaniyaMaris Stella CollegeUnder 19 Division I Tier 'A' Matches
-
-SLI divestiture attracts five businesses; interest grows for Life and General Insurance segments
-
-Central Bank can’t go outside the law to implement arbitrary pay rises: COPA chairman
-
-...
-
-[Data](articles/7309da2f.json)
-
-[Extended Data](ext_articles/7309da2f.ext.json)
-
----
-
-### Surge Global secures multi-million dollar government contract in Qatar
-
-*2024-03-11 22:31:00* · [`islandlk`](http://island.lk/surge-global-secures-multi-million-dollar-government-contract-in-qatar/) · `en`
-
-Surge Global, a leading design, technology, and marketing firm of Sri Lankan origin is thrilled to announce its successful partnership with Gulf Business Machines (GBM) Qatar, one of Qatar’s largest technology companies. The partnership kicked off with a successful bid in securing a multi-million dollar project for a prominent public sector entity in Qatar. This achievement marks a significant milestone for both companies and reaffirms their commitment to delivering bleeding-edge digital transformation on a national scale.
-
-The collaborative effort between Surge Global and GBM Qatar was the result of their shared expertise, dedication, and a compelling vision to provide best-in-class solutions to meet the evolving needs of the Qatari market. As a dynamic partnership, these organizations have demonstrated their ability to combine design excellence, advanced technology, and marketing prowess to address complex challenges effectively.
-
-...
-
-[Data](articles/588f8bd0.json)
-
-[Extended Data](ext_articles/588f8bd0.ext.json)
-
----
-
-### Serendib Flour Mills attends prestigious Gulfood 2024 Festival in Dubai
-
-*2024-03-11 22:29:00* · [`islandlk`](http://island.lk/serendib-flour-mills-attends-prestigious-gulfood-2024-festival-in-dubai/) · `en`
-
-Serendib Flour Mills, Sri Lanka’s leader in wheat flour manufacturing, attended the globally renowned Gulfood 2024 exhibition in Dubai together with key customers.
-
-A delegation from Serendib Flour Mills alongside key clientele were present at the event which not only showcased culinary innovation but was also a forum for forging valuable industry connections.
-
-As a purpose-led organization focused on ‘Nourishing the Nation’, Serendib Mills attended the global platform to explore cutting edge food technology, sustainability trends and create bonds within the international food industry. It also enabled the company to facilitate an exclusive opportunity for key customers to gain knowledge and global connections through Gulfood 2024 demonstrating the company’s commitment to supporting their individual growth.
-
-...
-
-[Data](articles/83512655.json)
-
-[Extended Data](ext_articles/83512655.ext.json)
-
----
-
-### Dialog unveils all-new Fun Blaster Plan for the ultimate social media experience
-
-*2024-03-11 22:27:00* · [`islandlk`](http://island.lk/dialog-unveils-all-new-fun-blaster-plan-for-the-ultimate-social-media-experience/) · `en`
-
-Dialog Axiata, Sri Lanka’s #1 connectivity provider, announced the launch of the Fun Blaster Rs. 547 monthly plan, tailored to meet the burgeoning social media needs of customers, including unlimited access to Facebook, WhatsApp, and YouTube, along with an additional 3GB of anytime data.
-
-Priced at a tax-inclusive price of Rs. 547, this plan allows customers to fulfill all their social media requirements with just one reload for the entire month along with additional data for other requirements. Ideal for those who are avid users of Facebook, WhatsApp, and YouTube, this plan ensures an affordable and unlimited data experience, making it convenient for customers to stay connected with their family and friends.
-
-...
-
-[Data](articles/2484fb22.json)
-
-[Extended Data](ext_articles/2484fb22.ext.json)
-
----
-
-### JAT Holdings posts resilient Q3 with 96% revenue growth from Bangladesh
-
-*2024-03-11 22:26:00* · [`islandlk`](http://island.lk/jat-holdings-posts-resilient-q3-with-96-revenue-growth-from-bangladesh/) · `en`
-
-Sri Lanka’s market leader in wood coatings and paint brushes, and emerging regional conglomerate, JAT Holdings PLC recently released its financials for Q3 of FY 2023/24, reflecting a resilient performance amidst adverse market conditions. With its operations in Bangladesh seeing continued expansion, including the opening of its manufacturing facility in 2023, and its alkyd resin plant in 2024, supported by cutting-edge R&D and value engineering in Sri Lanka, JAT has established itself as a leader in wood coatings in the region.
-
-Related Topics:JATJAT HoldingsJAT Holdings posts resilient Q3 with 96% revenue growth from Bangladesh
-
-Banks alarmed by suspension of parate process at behest of a few individual defaulters – SLBA
-
-Serendib Flour Mills attends prestigious Gulfood 2024 Festival in Dubai
-
-Pintharu Abhiman workshop series empowers wood painters across the Island
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/06dba1aa.json)
-
-[Extended Data](ext_articles/06dba1aa.ext.json)
 
 ---

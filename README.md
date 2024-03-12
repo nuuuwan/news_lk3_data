@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 18:33:51**
+As of **2024-03-12 18:51:07**
 
 ## Newspaper Stats
 
-*Scraped **12,453** Articles*
+*Scraped **12,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,52 @@ adalk | 1,065
 adaderanalk | 1,500
 tamilmirrorlk | 1,513
 virakesarilk | 1,723
-dailymirrorlk | 1,895
+dailymirrorlk | 1,896
 adaderanasinhalalk | 1,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,449 (100.0%) of 12,453 articles have been extended.
+12,453 (100.0%) of 12,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### උතුරට සහ වයඹට නව ආණ්ඩුකාරවරු
+### Chief Secretaries appointed to Northern and Wayamba Provinces
+
+*2024-03-12 18:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chief-Secretaries-appointed-to-Northern-and-Wayamba-Provinces/108-278712) · `en`
+
+Colombo, March 12 (Daily Mirror)-  President Ranil Wickremesinghe has appointed Chief Secretaries to the Northern Province and Wayamba Province, the President's Media Division (PMD) said.
+
+L. Ilangovan has been appointed as the Chief Secretary of the Northern Province while Deepika K. Gunaratne has been appointed as the Chief Secretary of the Wayamba Province.
+
+Their letters of appointment were handed over by the President's Secretary Saman Ekanayake at the Presidential Secretariat today.
+
+◼️
+
+[Data](articles/71aa178d.json)
+
+---
+
+### New Governors to the North and Wayamba
 
 *2024-03-12 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194430) · `si`
 
-ඒ අනුව උතුරු පළාත් නව ප්‍රධාන ලේකම්වරයා ලෙස එල්. ඉලංගෝවන් මහතා සහ වයඹ පළාත් ප්‍රධාන ලේකම් ලෙස දීපිකා කේ. ගුණරත්න මහත්මිය පත්කර ඇත.
+New Chief Secretaries appointed in North and Wayamba: Mr. Ilangowan for Northern Province and Deepika K. for North Western Province, by President Ranil Wickremesinghe.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පත්වීම් සිදුකර තිබෙන අතර ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් අද (12) පස්වරුවේ ජනාධිපති කාර්‍යාලයේ දී එම මහත්ම මහත්මීන් වෙත බාරදෙනු ලැබීය.
+🟩
+
+Accordingly, the new Chief Secretary is the Northern Province. Mr. Ilangowan and the Chief Secretary of the North Western Province is Deepika K. Mrs. Gunaratne has been appointed.
+
+The appointments have been made by President Ranil Wickremesinghe and the relevant appointments have been handed over to the UNP today (12) at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/6043dfe2.json)
+
+[Extended Data](ext_articles/6043dfe2.ext.json)
 
 ---
 
@@ -60,23 +82,31 @@ He told a news conference of the NPP Economic Council that the IMF team has soug
 
 [Data](articles/22505144.json)
 
+[Extended Data](ext_articles/22505144.ext.json)
+
 ---
 
-### கடுமையான வெப்பம் காரணமாக பிள்ளைகள் பல்வேறு நோய்களுக்கு  உள்ளாகலாம்! - வைத்தியர் சன்ன டி சில்வா
+### Children can suffer from various diseases due to severe heat!- Doctor Sunna de Silva
 
 *2024-03-12 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178557) · `ta`
 
-நிலவும் வெப்பம் காரணமாக பிள்ளைகள் பல்வேறு நோய்களுக்கு ஆளாகலாம் என நிபுணர் வைத்தியர் சன்ன டி சில்வா கூறுகிறார்.
+Dr. Sanna de Silva warns that extreme heat can cause diseases in children, leading to heat shock, stroke, or death. She advises limiting outdoor activities to before 11 am to mitigate risks.
 
-நிலைமை அதிகரித்தால் அது வெப்ப அதிர்ச்சி, வெப்ப பக்கவாதம் அல்லது துரதிர்ஷ்டவசமாக மரணத்துக்கு வழிவகுக்கும் என்று நிபுணர் சுட்டிக்காட்டினார்.
+🟩
 
-எனவே, பிள்ளைகளை வெளிநடவடிக்கைகளுக்கு பயன்படுத்துவதாயின் காலை 11.00 மணிக்கு முன்னதாகவே அவர்களது நடவடிக்கையை முடிக்க வேண்டும்.
+Dr. Sanna de Silva, an expert, says children can suffer from various diseases due to the prevailing heat.
 
-பாடசாலைகளில் பல்வேறு விளையாட்டு நிகழ்வுகள் நடத்தப்படுகின்றன. அதனால், பிள்ளைகள்  அதிகமாக வெளியில் உள்ளனர்.  இவ்வாறான  நிலையில்  சுற்றுச்சூழலின் வெப்பம் அதிகரிப்பதால்  அவர்களுக்கு  சோர்வு அதிகரிக்கலாம் என்றும் அவர் தெரிவித்தார்.
+The expert pointed out that if the situation increases, it can lead to heat shock, heat stroke or unfortunately death.
+
+Therefore, if the children are used for outgoing activities, they should complete their action before 11 am.
+
+Various sports events are held in schools. So, the children are more outdoors.In this case, the heat of the environment can increase them, he said.
 
 ◼️
 
 [Data](articles/071bbec9.json)
+
+[Extended Data](ext_articles/071bbec9.ext.json)
 
 ---
 
@@ -102,25 +132,31 @@ Accordingly, the announcement has been made reference to the instructions issued
 
 ---
 
-### காஸா போர் நிறுத்தத்தை இன்னும் நெருங்கவில்லை: கட்டார்
+### The Gaza ceasefire has not yet approached: Qatar
 
 *2024-03-12 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178555) · `ta`
 
-காஸாவில் போர் நிறுத்தத்தை ஏற்படுத்துவதில் இஸ்ரேலும் ஹமாஸும் இன்னும் நெருங்கிவரவில்லை என பேச்சுவார்த்தையில் மத்தியஸ்தம் வகிக்கும் கட்டார் இன்று செவ்வாய்க்கிழமை தெரிவித்துள்ளது.
+Qatar reports no progress in Gaza ceasefire talks with Israel and Hamas. Despite efforts by the US, Qatar, and Egypt, a ceasefire before Ramadan failed. The death toll in Gaza has risen to 31,184 since October 7.
 
-காஸாவில் போர் நிறுத்ததை ஏற்படுத்துவதற்காக அமெரிக்கா, கட்டார், எகிப்து ஆகிய நாடுகள் பலவாரங்களாக முயன்றன.
+🟩
 
-புனித ரமழானுக்கு முன்னர் போர் நிறுத்தத்தை ஏற்படுத்துதற்கு தீவிர முயற்சிகள் மேற்கொள்ளப்பட்டன. ஆனால், அம்முயற்சிகள் பலனளிக்கவில்லை.
+Qatar, who is medium -stricken, said on Tuesday that Israel and Hamas were not close to the ceasefire in Gaza.
 
-இஸ்ரேலுக்கும் ஹமாஸுக்கும் இடையிலான இணக்கப்பாட்டை நாம் நெருக்கவில்லை   என கட்டார் வெளிவிவகார அமைச்சின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்
+The United States, Qatar and Egypt have been trying for several weeks to set up a ceasefire in Gaza.
 
-இணக்கப்பாட்டை ஏற்படுத்தும் முயற்சிகள் தொடர்கின்றபோதிலும், அதற்கான போர்நிறுத்தத்துக்கான காலவரம்பு எதனையும் கூற முடியாது எனவும் அவர் தெரிவித்துள்ளார்.
+Serious efforts were made to establish a ceasefire before the holy Ramadan. But, the efforts were not worth it.
 
-இதேவேளை, ஒக்டோபர் 7 ஆம் திகதி முதல் காஸாவில் யுத்தத்தால் உயிரிழந்தோரின் எண்ணிக்கை 31184 ஆக அதிகரித்துள்ளது என காஸா சுகாதார அமைச்சு தெரிவித்துள்ளது.
+A spokesman for the Qatar Foreign Ministry has said that we are not close to the compliance between Israel and Hamas
+
+Although efforts are continuing, he said that there is no time for the ceasefire.
+
+Meanwhile, the death toll of the war in Gaza in Gaza has increased to 31184 since October 7, the Gaza Health Ministry said.
 
 ◼️
 
 [Data](articles/5dcb6bf4.json)
+
+[Extended Data](ext_articles/5dcb6bf4.ext.json)
 
 ---
 
@@ -2293,25 +2329,5 @@ This will bring the entire Asia into the northern part of China.
 [Data](articles/c895c07f.json)
 
 [Extended Data](ext_articles/c895c07f.ext.json)
-
----
-
-### Thai Airways to recommence scheduled flights to BIA from April 1
-
-*2024-03-12 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Airways-to-recommence-scheduled-flights-to-BIA-from-April-1/108-278695) · `en`
-
-Colombo, March 12 (Daily Mirror) - Thai Airways, the flag carrier airline of Thailand, will re-commence its operations at Bandaranaike International Airport (BIA) with daily flights from April 1.
-
-The recommencement will incredibly boost the tourism industry, which has shown significant growth in the first two months of 2024, welcoming 207,182 and 218,350 passengers (by air) in January and February, respectively.
-
-Passengers will be able to experience the ultimate in travel with Thai Airways and explore over 60 cities in 28 countries from Bangkok. The airline operates at key destinations in Europe, Australia, Asia, and Thailand.
-
-Airport and Aviation Services (Sri Lanka) (Pvt.) Limited (AASL) is delighted to welcome the airline to its main gateway, and by February 2024, Sri Lanka airports would have served 36 esteemed airlines that operated scheduled international operations, solidifying its pivotal role in the aviation industry.
-
-◼️
-
-[Data](articles/dc0d4a7f.json)
-
-[Extended Data](ext_articles/dc0d4a7f.ext.json)
 
 ---

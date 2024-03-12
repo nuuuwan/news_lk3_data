@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 06:53:06**
+As of **2024-03-12 07:15:59**
 
 ## Newspaper Stats
 
-*Scraped **12,282** Articles*
+*Scraped **12,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,59 @@ dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
-islandlk | 675
+islandlk | 676
 adalk | 1,046
 adaderanalk | 1,483
 tamilmirrorlk | 1,494
 virakesarilk | 1,687
-dailymirrorlk | 1,871
+dailymirrorlk | 1,872
 adaderanasinhalalk | 1,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,267 (99.9%) of 12,282 articles have been extended.
+12,280 (100.0%) of 12,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### වැසි හෝ ගිගුරුම් සහිත වැසි
+### Government’s push for electoral change raises eyebrows
+
+*2024-03-12 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governments-push-for-electoral-change-raises-eyebrows/108-278680) · `en`
+
+Colombo, March 12 (Daily Mirror) - Ahead of the pending national elections, the government has made fresh attempts to bring about changes to the parliamentary election system by seeking to amend the Parliamentary Elections Act, a Minister said.
+
+Justice Minister Wijeyadasa Rajapakshe presented a Cabinet paper last week seeking to introduce a mixed electoral system. Under the new system, 160 MPs will be elected under the First Past the Post System and 1nother 65 MPs under proportional representation.
+
+Under FPTP, the candidate who receives the most votes in a local constituency wins a seat in the House. By contrast, PR is the idea that parties' seats in Parliament should be allocated so that they are in proportion to the number of votes cast.
+
+...
+
+[Data](articles/b06bf05d.json)
+
+---
+
+### Showers or thunderstorms
 
 *2024-03-12 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194399) · `si`
 
-කොළඹ, කළුතර, රත්නපුර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (12) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers expected in Kalutara, Ratnapura, Galle, Matara, Ampara, Batticaloa, Hambantota, and parts of Western, Sabaragamuwa, and Uva provinces today.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අම්පාර, මඩකළපුව සහ හම්බන්තොට දිස්ත්‍රික්කවල උදෑසන කාලයේදී වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+Showers or thundershowers will occur at several places in the Kalutara, Kalutara, Ratnapura, Galle and Matara districts today (12).
+
+The department states that several showers can occur in the morning in Ampara, Batticaloa and Hambantota districts.
+
+The Department of Meteorology added that in some places in the Western, Sabaragamuwa and Uva provinces and in the Galle and Matara districts, the Met Department added.
 
 ◼️
 
 [Data](articles/09046d56.json)
+
+[Extended Data](ext_articles/09046d56.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 ◼️
 
 [Data](articles/d7861980.json)
+
+[Extended Data](ext_articles/d7861980.ext.json)
 
 ---
 
@@ -90,19 +114,25 @@ The Ramadan fasting will begin today, with the source of information available i
 
 ---
 
-### எச்சரிக்கை மட்டத்தில் வெப்பநிலை
+### Temperature at the alarm level
 
 *2024-03-12 03:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-334536) · `ta`
 
-நாட்டின் பல பகுதிகளில் இன்றைய தினமும் மனித உடலினால் உணரக்கூடிய வெப்பநிலையானது எச்சரிக்கை மட்டத்துக்கு உயர்வடையக் கூடுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+The Department of Meteorology warns of a temperature increase to the warning level in parts of the country, affecting Western and Sabaragamuwa Provinces, and some areas in Anuradhapura and Mannar. It advises caution for children, the elderly, and the sick.
 
-அதன்படி, மேல் மற்றும் தென், சபரகமுவ மாகாணங்களிலும் அனுராதபுரம் மற்றும் மன்னார் மாவட்டங்களின் சில இடங்களிலும் வெப்பநிலை அதிகரித்து காணப்படும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-எனவே, சிறுவர்கள், குழந்தைகள், முதியவர்கள் மற்றும் நோய்வாய்ப்பட்டவர்கள் இந்த நிலைமை தொடர்பில் அவதானமாக இருக்குமாறு சுகாதார பிரிவினர் அறிவுறுத்தியுள்ளனர். (a)
+The Department of Meteorology has announced that the temperature of the human body today in many parts of the country will increase to the warning level.
+
+Accordingly, temperatures will increase in the Western and Sabaragamuwa Provinces and some parts of Anuradhapura and Mannar districts, the department said.
+
+Therefore, the health unit has advised the children, children, the elderly and the sick people to be careful about this situation.. (A)
 
 ◼️
 
 [Data](articles/d645c710.json)
+
+[Extended Data](ext_articles/d645c710.ext.json)
 
 ---
 
@@ -670,6 +700,8 @@ Alston Koch was the Goodwill Ambassador for the campaign, and the song was promo
 
 [Data](articles/9b14b6d2.json)
 
+[Extended Data](ext_articles/9b14b6d2.ext.json)
+
 ---
 
 ### Five of six missing skiers found dead in Switzerland
@@ -786,6 +818,8 @@ Central Bank can’t go outside the law to implement arbitrary pay rises: COPA c
 
 [Data](articles/7309da2f.json)
 
+[Extended Data](ext_articles/7309da2f.ext.json)
+
 ---
 
 ### Surge Global secures multi-million dollar government contract in Qatar
@@ -799,6 +833,8 @@ The collaborative effort between Surge Global and GBM Qatar was the result of th
 ...
 
 [Data](articles/588f8bd0.json)
+
+[Extended Data](ext_articles/588f8bd0.ext.json)
 
 ---
 
@@ -815,6 +851,22 @@ As a purpose-led organization focused on ‘Nourishing the Nation’, Serendib M
 ...
 
 [Data](articles/83512655.json)
+
+[Extended Data](ext_articles/83512655.ext.json)
+
+---
+
+### Dialog unveils all-new Fun Blaster Plan for the ultimate social media experience
+
+*2024-03-11 22:27:00* · [`islandlk`](http://island.lk/dialog-unveils-all-new-fun-blaster-plan-for-the-ultimate-social-media-experience/) · `en`
+
+Dialog Axiata, Sri Lanka’s #1 connectivity provider, announced the launch of the Fun Blaster Rs. 547 monthly plan, tailored to meet the burgeoning social media needs of customers, including unlimited access to Facebook, WhatsApp, and YouTube, along with an additional 3GB of anytime data.
+
+Priced at a tax-inclusive price of Rs. 547, this plan allows customers to fulfill all their social media requirements with just one reload for the entire month along with additional data for other requirements. Ideal for those who are avid users of Facebook, WhatsApp, and YouTube, this plan ensures an affordable and unlimited data experience, making it convenient for customers to stay connected with their family and friends.
+
+...
+
+[Data](articles/2484fb22.json)
 
 ---
 
@@ -838,6 +890,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/06dba1aa.json)
 
+[Extended Data](ext_articles/06dba1aa.ext.json)
+
 ---
 
 ### Lifebuoy Shampoo champions Sri Lankan women’s legacies
@@ -851,6 +905,8 @@ In line with the global theme of ‘inspire inclusion,’ Lifebuoy Shampoo embar
 ...
 
 [Data](articles/9a863119.json)
+
+[Extended Data](ext_articles/9a863119.ext.json)
 
 ---
 
@@ -867,6 +923,8 @@ For the Life segment, LIC Lanka Limited, Union Assurance and Asiri Hospitals, ha
 ...
 
 [Data](articles/2a4977e5.json)
+
+[Extended Data](ext_articles/2a4977e5.ext.json)
 
 ---
 
@@ -2159,55 +2217,5 @@ The STF had also been called to control the situation.
 [Data](articles/4a0a87bf.json)
 
 [Extended Data](ext_articles/4a0a87bf.ext.json)
-
----
-
-### Death of Marathon
-
-*2024-03-11 16:36:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மரதன்-ஓடிய-மாணவன்-மரணம்-நீதி-கோரியதால்-பதற்றம்/73-334512) · `ta`
-
-Protesters demand justice for a student's death during a school sports event. The student was admitted to a hospital in Tirukkovil, transferred to Akkaraipattu, and later died, accused of negligence by doctors. The 16-year-old, Jayakumar Vidurjan, was not treated for three hours. The Special Task Force was called to control the situation.
-
-🟩
-
-The public staged a protest in front of the Hospital in Tirukkovil demanding justice for the death of a student of Melladist Tamil Maha Vidyalaya in Tirukovil.
-
-The Marathon Operation was held on Monday morning (11) as part of the sports competition of the school.
-
-In it, one of the students who participated, was admitted to the Hospital in Tirukovil with a sudden unconscious. From there he was immediately transferred to the source of Akkaraipattu. However, the hospital administration has announced that Ammanavan has died.
-
-Knowing the incident, schoolchildren gathered in front of the public hospital in Tirukovil and launched protests demanding justice, claiming that the doctors' negligence of the student's death.
-
-The protesters accused the student of not carrying out any treatment for three hours.16 -year -old Jayakumar Vidurjan from Tirukovil is the deceased.
-
-In order to control the situation, the Special Task Force (STF) has been brought in front of the Hospital in Tirukovil.
-
-◼️
-
-[Data](articles/a757e2fd.json)
-
-[Extended Data](ext_articles/a757e2fd.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover at 1.9bn
-
-*2024-03-11 16:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-1-9bn-154109/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.72 percent, or 79.13 points, at 11,125; while the S&P SL20 Index closed up 0.88 percent, or 27.60 points, at 3,175.
-
-Turnover was at 1.9 billion. The following companies saw active volumes being traded: Browns Investments Plc (190mn) up at 5.70, LOLC Finance Plc (168mn) also up at 5.70, and Union Assurance Plc (114mn) up at 56.60.
-
-Turnover and volume have been up over the last two weeks, with market participants saying that “the market is getting quite bullish.”
-
-Top contributors to the Index included Commercial Bank (up at 94.00), Sampath Bank (up at 74.90) and Aitken Spence Plc (up at 127.00). (Colombo/Mar11/2024)
-
-◼️
-
-[Data](articles/260d001d.json)
-
-[Extended Data](ext_articles/260d001d.ext.json)
 
 ---

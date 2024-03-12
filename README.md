@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 15:02:48**
+As of **2024-03-12 15:17:45**
 
 ## Newspaper Stats
 
-*Scraped **12,399** Articles*
+*Scraped **12,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 142
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
-economynextcom | 654
+economynextcom | 655
 islandlk | 677
 adalk | 1,057
-adaderanalk | 1,495
-tamilmirrorlk | 1,512
+adaderanalk | 1,496
+tamilmirrorlk | 1,513
 virakesarilk | 1,710
 dailymirrorlk | 1,889
 adaderanasinhalalk | 1,955
@@ -26,83 +26,169 @@ adaderanasinhalalk | 1,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,392 (99.9%) of 12,399 articles have been extended.
+12,399 (100.0%) of 12,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### කෙහෙළියට එරෙහි තවත් නඩුවක් විභාගයට දින දෙයි
+### Stop Indian role;Struggle after the 25th - Fisheries Societies Warning
 
-*2024-03-12 14:56:47* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-විභාගයට-දින-දෙයි/11-408562) · `si`
+*2024-03-12 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178529) · `ta`
 
-අත්‍යවශ්‍ය නොවන අවස්ථාවක රූපවාහීනි සංස්ථාවට ජී.අයි. බට මිලදී ගෙන රජයට රුපියල් ලක්‍ෂ 10කට ආසන්න පාඩුවක් කළ බවට චෝදනා ලැබ සිටින අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට එරෙහි නඩුව පවත්වාගෙන යෑමට නොහැකි බවට විත්තියේ නීතීඥවරු ඉදිරිපත් කළ මුලික විරෝධතාවය ප්‍රතික්‍ෂෙප කළ කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා නඩුව විභාගයට ගැනීමට අද (12) තීරණය කළේය.
+The Southern Western Western War Workers Cooperative Societies demand an end to Indian roller boats in the Jaffna Sea, citing ongoing destruction of livelihoods. Despite appeals to Sri Lanka and India, no positive response has been received. They've now turned to the Jaffna Indian Embassy for action, warning of a struggle after the 25th if their demands are not met.
 
-නඩුව අප්‍රේල් 04 වැනිදා කැඳවීමට නියම කළ විනිසුරුවරයා නඩුව විභාග කිරීමේ දිනය එදින ප්‍රකාශයට පත් කරන බව දැනුම් දුන්නේය.
+🟩
 
-2014 නොවැම්බර් මස 25 වැනිදා හෝ ඊට ආසන්න දිනයක පළමු විත්තිකරු ජනමාධ්‍ය ඇමතිවරයා ලෙස කටයුතු කරමින් සිටියදී රූපවාහිනි සංස්ථාවට අත්‍යවශ්‍ය නොවන මොහොතක එහි ප්‍රවර්ධන වැඩසටහනකට යැයි පවසමින් රුපියල් 9 90 000/-ක මුදලක් වැය කොට රූපවාහිනි සංස්ථාවට ජී අයි බට 600 මිලදී ගෙන රජයට පාඩු සිදු කළ කිරීමට කුමන්ත්‍රණය කිරීම සහ කටයුතු කිරීම මඟින් අල්ලස් පනතේ ‘දූෂණය’ නමැති වරද කළ බවට විත්තිකරුවන්ට එරෙහිව අල්ලස් කොමිසම චෝදනා නඟා ඇත.
+On Tuesday (12), the Southern Western Western Western War Workers Cooperative Societies of the Southern Western Western War Workers Cooperative Societies, demanding the stopping of Indian roller images entering the Jaffna Sea.
 
-...
+In the Majakar, our livelihoods are being continuously destroyed by the Indian transgressive roller boats.
 
-[Data](articles/d268ff8f.json)
+We have not only handed over the Majes to the high level of Sri Lanka and India to stop the Indian soul roll boats.
 
----
+But the state's high level of our demand has not yet been positive.
 
-### 72 நாட்களில் 30 துப்பாக்கிப் பிரயோகங்கள்: 21 பேர் உயிரிழப்பு, 14 பேர் காயம்!
+We have therefore handed over to the Jaffna Indian Embassy in Jaffna to take action.
 
-*2024-03-12 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178530) · `ta`
+The answer to our Majakar has been requested to provide a massive struggle after the 25th of this month, as we have not been asked to provide it before the 25th of this month.
 
-இவ்வருடம்  ஜனவரி முதலாம் திகதி முதல் மார்ச் 12 வரையான 72 நாட்களில்   நாட்டின் பல்வேறு பகுதிகளில் 30 துப்பாக்கிச் சூட்டுச்  சம்பவங்கள் பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-இந்தச் சம்பவங்களில்  21 பேர் உயிரிழந்துள்ளதுடன் 14 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளார்
-
-30  துப்பாக்கிச் சூட்டுச் சம்பவங்களில் 17 சம்பவங்கள் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல்களால் மேற்கொள்ளப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் சுட்டிக்காட்டியுள்ளார்.
-
-ஏனைய 13 துப்பாக்கிச் சூட்டுச் சம்பவங்கள் தனிப்பட்ட காரணங்களுக்காக மேற்கொள்ளப்பட்டதாகவும் அவர் குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/22ab2691.json)
-
----
-
-### இந்தியன் ரோலரை தடுத்து நிறுத்து ; பதில் இல்லையேல் 25 ஆம் திகதிக்கு பின் போராட்டம் - மீனவ சங்கங்கள் எச்சரிக்கை
-
-*2024-03-12 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178529) · `ta`
-
-யாழ்ப்பாண கடல் பகுதிக்குள் அத்துமீறி நுழையும் இந்தியன் ரோலர் படங்களை தடுத்து நிறுத்துமாறு கோரி இன்று செவ்வாய்க்கிழமை (12) தீவகப் பகுதி தெற்கு வேணைப் பிரதேச கடைத் தொழிலாளர் கூட்டுறவு சங்கங்களின் சமாசம் யாழ்ப்பாண இந்திய துணை தூதரகத்திடம் மஜகர்   கையளித்ததுடன் கண்டன போராட்டத்தையும் முன்னெடுத்தனர்.
-
-குறித்த மஜகரில் தெரிவிக்கப்பட்டதாவது தொடர்ச்சியாக இந்திய அத்துமீறிய ரோலர் படகுகளினால் தொடர்ச்சியாக எமது வாழ்வாதாரங்கள் அழிக்கப்பட்டு வருகிறது.
-
-இந்திய ஆத்துமையா ரோல் படகுகளை தடுத்து நிறுத்துமாறு இலங்கை மற்றும் இந்தியா அரச உயர் மட்டம் வரை மஜகர்களை கையளித்தது மட்டுமல்லாது கண்டன போராட்டங்களையும் மேற்கொண்டோம்.
-
-ஆனால் எமது கோரிக்கை தொடர்பில் இந்திய அரச உயர் மட்டம் இதுவரை சாதகமான பதில் எதுவும் வழங்கவில்லை.
-
-ஆகவே எமது கோரிக்கை அடங்கிய மஜகரை நடவடிக்கை எடுக்குமாறு யாழ்ப்பாண இந்திய துணை தூதரகத்திடம் வழங்கியுள்ளோம்.
+Do not hit the fisherman's stomach.
 
 ...
 
 [Data](articles/1cad10bf.json)
 
+[Extended Data](ext_articles/1cad10bf.ext.json)
+
 ---
 
-### සයිබර් අපරාධ මඩින්න පොලීසියේ 20කට ඉන්දියාවේදී විශේෂ පුහුණුවක්
+### Sri Lanka commissions solar power from Mahawa Solar, Hayleys Power, Capital City Holdings
+
+*2024-03-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-commissions-solar-power-from-mahawa-solar-hayleys-power-capital-city-holdings-154317/) · `en`
+
+ECONOMYNEXT – Sri Lanka has awarded contracts to Mahawa Solar (Pvt) Ltd, Hayleys Power Ltd, and Capital City Holdings (Pvt) Ltd to build and operate solar power plants for Matara grid substation and Vavunathivu substation, Minister Bandula Gunawardena said.
+
+“International competitive bids were called for solar photovoltaic power plants for Matara (10 MW) and Vavunathivu (8 MW) grid substations,” Gunawardena said.
+
+Based on the project proposals received, the Cabinet of Ministers approved awarding the contract for the commissioning of a ground mounted solar photovoltaic power plant at Matara Grid Substation to Mahawa Solar (Pvt) Ltd and Hayleys Power Ltd.
+
+The contract for the installation at Vavunathivu Substation was awarded to Capital City Holdings (Pvt) Ltd.
+
+All three solar power projects will be on a build, own and operate basis.
+
+...
+
+[Data](articles/d3067308.json)
+
+---
+
+### Another case against Keheliya will be heard
+
+*2024-03-12 14:56:47* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-විභාගයට-දින-දෙයි/11-408562) · `si`
+
+Keheliya Rambukwella's case against Vauvani Corporation for absorption will be heard. The Basica Chairperson's initiatives were against the government, leading to the decision to take the case today. The judge will be summoned on April 4, and the case was declared the day of the examination. The first accused was involved in a promotional program at TV corporation on November 25, 2014, and was accused of plotting and dealing with the bribery Act. The case was initially protested by lawyers but was taken up again on April 4.
+
+🟩
+
+GIs to the Vauvani Corporation as absorption. The Basica Chairperson's initiatives that the courts were purchased against the government, the decision of the accused of Minister Keheliya Rambukwella has decided to take the case today (12).
+
+The judge to be summoned to call on April 4, the judge also announced that the case was declared the day of the examination.
+
+The first accused was a promotional program at a time when the first accused was not essential to the TV corporation on November 25, 2014 and had a promotional program at Rs.The Bribery Commission has accused the defendants by plotting and dealing with the bribery Act.
+
+The Hon.
+
+The accused officials were produced before courts when the case was called in the case as a suspect in the case of the drug supply case.
+
+At first, the lawyers presented a basic protest in the early hours of the case that the case could not be carried out.. The case was taken up again on April 4.
+
+◼️
+
+[Data](articles/d268ff8f.json)
+
+[Extended Data](ext_articles/d268ff8f.ext.json)
+
+---
+
+### New envoys of Pakistan & Thailand present credentials to President
+
+*2024-03-12 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97896/new-envoys-of-pakistan-thailand-present-credentials-to-president) · `en`
+
+A newly appointed Ambassador and a High Commissioner to Sri Lanka presented their credentials to President Ranil Wickremesinghe at the President’s House.
+
+Accordingly, Mr. Paitoon Mahapannaporn, the Ambassador of the Kingdom of Thailand and Major General (Retd) Faheem Ul Aziz, the High Commissioner of Pakistan called on the Head of State this morning (March 12).
+
+Minister of Foreign Affairs Ali Sabry, PC, and Presidential Secretary Saman Ekanayake were also present at this event.
+
+◼️
+
+[Data](articles/0f8fd964.json)
+
+---
+
+### 30 shootings in 72 days: 21 killed, 14 injured!
+
+*2024-03-12 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178530) · `ta`
+
+In 72 days, 30 shootings occurred, killing 21 and injuring 14. 17 were by organized criminal gangs, and 13 were personal.
+
+🟩
+
+In 72 days from January 1 to March 12 this year, 30 shootings have been reported in various parts of the country, police said.
+
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said 21 people were killed and 14 were injured in the incident.
+
+The police media spokesman pointed out that 17 incidents of 30 shooting were carried out by organized criminal gangs.
+
+He added that 13 other shootings were carried out for personal reasons.
+
+◼️
+
+[Data](articles/22ab2691.json)
+
+[Extended Data](ext_articles/22ab2691.ext.json)
+
+---
+
+### அமைச்சரவைக் குழு ஜனாதிபதி தலைமையில் கூடியது
+
+*2024-03-12 14:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவைக்-குழு-ஜனாதிபதி-தலைமையில்-கூடியது/175-334561) · `ta`
+
+இன்றைய பொருளாதார மாற்றத்திற்கு கல்வி இன்றியமையாத அங்கமாகும் என்பதை அறிந்து, கல்வி முன்னேற்றத்திற்காக அரசாங்கத்தினால் தயாரிக்கப்பட்ட தேசிய கல்விக் கொள்கைக் கட்டமைப்பை நடைமுறைப்படுத்துவதைக் கண்காணிப்பதற்காக நியமிக்கப்பட்ட அமைச்சரவைக் குழு திங்கட்கிழமை (11) ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் கூடியது.
+
+இந்தக் குழுவில் பிரதமர் தினேஷ் குணவர்தன, கல்வி அமைச்சர் கலாநிதி சுசில் பிரேம்ஜயந்த உள்ளிட்ட 08 அமைச்சர்கள் கலந்துனக்கொண்டிருந்தனர்.
+
+மேலும் இக்கலந்துரையாடலில்,  தேசியக் கல்விக் கொள்கைக் கட்டமைப்பில் குறுகிய கால மற்றும் இடைக்கால கல்வி மாற்றத்துக்கான செயல்முறைகளைக் கொண்டுள்ளது. மேலும், கல்வித் துறையில் தற்காலத்தில் மேற்கொள்ளப்பட வேண்டிய மிக முக்கியமானதும்,விரைவானதுமான நடவடிக்கைகள் குறித்து இந்தக் கலந்துரையாடலில் ஆராயப்பட்டது.
+
+...
+
+[Data](articles/a7375698.json)
+
+---
+
+### 20 policemen were training in India to suppress cyber crimes
 
 *2024-03-12 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194419) · `si`
 
-සයිබර් අපරාධ විමර්ශනය සහ කෘතිම බුද්ධිය පිළිබඳ විශේෂිත පාඨමාලාවක් සඳහා මෙරට පොලිස් නිලධාරීන් 20 දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඉන්දියාවට ගොස් තිබේ.
+A team of 20 Sri Lankan police officers, including a Senior Superintendent, 2 Assistant Superintendents, and 17 Inspectors, left for India on March 3rd to attend a cyber crime and AI investigation course. The training is under the guidance of Minister of Defense Tiran Alles and IGP Deshaband Tennakoon.
 
-ඉන්දියාවේ හයිද්‍රාබාද්හි  Central Detective Training Institute (CTDI) ආයතනයේදී ඔවුන් එම පුහුණුව ලබනු ඇත.
+🟩
 
-අදාළ කණ්ඩායම ඉකුත් 03 වනදා ඉන්දියාව බලා පිටත්ව ගිය බව ශ්‍රී ලංකා පොලීසිය පවසයි.
+A team of 20 police officers in Sri Lanka has gone to India for a specialized course of cyber criminal investigation and artificial intelligence.
 
-මෙම කණ්ඩායමට ජ්‍යේෂ්ඨ පොලිස් අධිකාරිවරයෙක්, සහකාර පොලිස් අධිකාරිවරුන් 02ක් සහ පොලිස් පරීක්ෂකවරුන් 17 දෙනෙකු ඇතුළත් ය.
+They will receive the training at the central detevery training in India, India.
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා සහ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් හා මගපෙන්වීම යටතේ මෙම කණ්ඩායම අදාළ පාඨමාලාව සඳහා එක්වී තිබේ.
+The Sri Lanka Police said that the group left for India on the 3rd.
+
+The group includes Senior Superintendent of Police, 02 Assistant Superintendents and 17 Inspectors of Police.
+
+The group has joined the relevant course under the guidance and guidance of the Minister of Defense Minister Tiran Alles and IGP Deshaband Tennakoon.
 
 ◼️
 
 [Data](articles/9cf978e3.json)
+
+[Extended Data](ext_articles/9cf978e3.ext.json)
 
 ---
 
@@ -216,33 +302,45 @@ The suspect is conducting investigations into the stolen gold items and find the
 
 ---
 
-### පාකිස්ථාන, තායිලන්ත සබඳතා අළුත්වෙයි
+### Pakistani, Thailand relies renewed
 
 *2024-03-12 14:08:00* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්ථාන--තායිලන්ත-සබඳතා-අළුත්වෙයි/11-408559) · `si`
 
-ශ්‍රී ලංකාව සඳහා අලුතින් පත්ව පැමිණි තානාපතිවරයෙක් සහ මහකොමසාරිස්වරයෙක් අද (12) පෙරවරුවේ කොටුව, ජනාධිපති මන්දිරයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සිය අක්තපත්‍ර භාර දුන්හ.
+Thailand's new Ambassador to Sri Lanka, Paitoon Mahapanapaton, and Pakistan's High Commissioner to Sri Lanka, Retired Major General Farhim Ul Asses, presented their credentials to President Ranil Wickremesinghe today.
 
-තායිලන්ත රාජධානියේ නව තානාපතිවරයා ලෙස පත්ව පැමිණි පයිටූන් මහපන්නපෝන් (H. E. Paitoon Mahapannaporn) මහතා සහ පාකිස්ථානු ඉස්ලාමීය ජනරජයේ නව මහකොමසාරිස්වරයා ලෙස පත්ව පැමිණි විශ්‍රාමික මේජර් ජෙනරල් ෆාහිම් උල් අසීස් (H.E. Major General (R) Faheem Ul Aziz, HI (M)) මහතා මෙලෙස ජනාධිපතිවරයා වෙත අක්තපත්‍ර භාර දුන්හ.
+🟩
+
+A new Ambassador and a High Commissioner to Sri Lanka held his credentials to President Ranil Wickremesinghe at the President's House this morning.
+
+Paitoon Mahapanapaton, who became the new Ambassador of Thailand, (H. E. Paitoon Mahapannocharn) Retired Major General Farhim Ul Asses, who has been appointed as the new High Commissioner of the Pakistan Islamic Republic. H.E. Major General (R) Fahem UL Aziz, Hi (m), handed over credentials to the President.
 
 ◼️
 
 [Data](articles/02fa3b41.json)
 
+[Extended Data](ext_articles/02fa3b41.ext.json)
+
 ---
 
-### ஊழல் அற்ற அரசியல்வாதியை தெரிவு செய்ய மக்கள் முன்வர வேண்டும் - மார்ச்-12 இயக்கம்
+### People should come forward to choose a corrupt politician - March -12 Movement
 
 *2024-03-12 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178525) · `ta`
 
-ஊழல் அற்ற அரசியல்வாதியை தெரிவு செய்ய மார்ச் -12 இயக்கத்தின் 8 விடயங்களை பின்பற்றி செயற்பட மக்கள் முன்வர வேண்டும் என மார்ச்-12 அமைப்பின் அம்பாறை மாவட்ட குழு தெரிவித்துள்ளது.
+The March 12 Movement urges citizens to elect a corrupt politician by following 8 issues. A press conference in Ampara highlighted the organization's goal to raise awareness on political eligibility. The movement aims to create better politicians and pure politics, addressing Sri Lanka's political landscape.
 
-மார்ச்-12 அமைப்பின் அம்பாறை மாவட்ட குழுவின் விசேட செய்தியாளர் சந்திப்பு கல்முனை சேனைக்குடியிருப்பு பகுதியிலுள்ள அதன் அலுவலகத்தில் இன்று நடைபெற்றபோது மேற்கண்டவாறு குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-2015 ஆண்டு ஆரம்பிக்கப்பட்ட மார்ச் 12 அமைப்பின் செயற்பாட்டை மக்களுக்கு தெளிவூட்டுவதற்காகவே இச்செய்தியாளர் மாநாட்டை நடாத்துகின்றோம். அதாவது உள்ளுராட்சி மாகாண சபை தேர்தல் பாராளுமன்ற தேர்தலில் எப்படியான அரசியல்வாதிகள் தெரிவு செய்யப்பட வேண்டும் என்ற விழிப்புணர்வினை ஏற்படுத்துவதற்கு நாம் இச்செயற்பாட்டை முன்னெடுத்துள்ளோம். மார்ச் 12 அமைப்பின் பாரிய நிகழ்ச்சி திட்டம் எதிர்வரும் மார்ச் 28 ஆந் திகதி கொழும்பில் நடைபெற இருக்கின்றது. அவ்வேளை மாவட்டங்கள் தோறும் இவ்வாறான செய்தியாளர் சந்திப்புக்களை ஏற்பாடு செய்து இதன் ஊடாக  மக்களுக்கு பல்வேறு தெளிவூட்டல்களை மேற்கொள்ள இருக்கின்றோம்.
+The Ampara District Committee of the March 12 organization said that the people should come forward to follow the 8 issues of the March -12 movement to elect a corrupt politician.
+
+A special press conference of the Ampara District Committee of the Ampara District Committee was held at its office in Kalmunai Senaikkudiyiruppu today.
+
+We are holding the conference of the March 12, 2015 to clarify the operation of the organization for the public. That is, we have carried out this action to raise awareness of what politicians should be elected in the parliamentary elections. The massive program of March 12 is scheduled to be held in Colombo on March 28. We are organizing such press conferences in the districts.
 
 ...
 
 [Data](articles/a526c0a4.json)
+
+[Extended Data](ext_articles/a526c0a4.ext.json)
 
 ---
 
@@ -348,19 +446,25 @@ The fifth largest smartphone product company in Zomy China.
 
 ---
 
-### විශ්‍රාමික ගුරුවරු 1000ක් නැවත කැඳවති
+### 1000 retired teachers call back
 
 *2024-03-12 13:36:28* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ගුරුවරු-1000ක්-නැවත-කැඳවති/11-408557) · `si`
 
-ඉංග්‍රීසි මාධ්‍යයෙන් අධ්‍යාපනය ලබා ගැනීම සඳහා විශාල ඉල්ලුමක් සමාජයේ පවතින බැවින් ඊයේ පැවති ජාතික අධ්‍යාපන ප්‍රතිපත්තිය පිළිබඳ අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේදී මෙම පාසල් සංඛ්‍යාව 1,000 දක්වා වැඩි කරන ලෙස දැනුම් දෙන ලදී.
+Sri Lanka's Cabinet Sub-Committee on National Education Policy has been informed of a high demand for schools. President Ranil Wickremesinghe has ordered the recruitment of 1,000 qualified teachers for a three-year emergency period. This includes 1,100 English-medium graduates and 400 teachers from the English medium training program.
 
-මෙම කාර්යය කඩිනමින් ක්‍රියාත්මක කිරීම සඳහා අළුතින් ගුරුවරුන් 2,500කගේ සේවය ලබා ගැනීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී උපදෙස් ලබා දුන් අතර මෙම ක්‍රියාවලිය ආරම්භ කිරීමේ හදිසි අවශ්‍යතාවය සලකා බලා ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් ඉගැන්විය හැකි සුදුසුකම්ලත් විශ්‍රාමික ගුරුවරුන් 1,000ක් වසර 3ක කොන්ත්‍රාත් කාලයක් සඳහා කඩිනමින් බඳවා ගැනීමටද, ඒ අතර තුර, විවෘත තරඟ විභාගයක් මඟින් ඉංග්‍රීසි මාධ්‍යයෙන් ඉගැන්විය හැකි උපාධිධාරීන් 1,100ක් අදියර වශයෙන් බඳවා ගැනීමටද උපදෙස් දුන්නේය.
+🟩
 
-දැනට ඉංග්‍රීසි මාධ්‍යයෙන් ගුරුවරුන් පුහුණු කරනු ලබන විද්‍යාපීඨයන්ගෙන් පුහුණුව ලබා පිටවීමට නියමිත විද්‍යාපීඨ ගුරුවරුන් 400ක්ද මෙයට අන්තර්ගතවනු ඇත.
+Since there is a great demand society in Sri Lanka, the number of schools in the Cabinet Sub-Committee on National Education Policy was informed yesterday.
+
+President Ranil Wickremesinghe instructed to obtain the work of this work as soon as the emergency requirement of the emergency of this process and recruit 1,000 qualified recruits for three years of emergency.Among the opening examination, 1,100 graduates who teach English in the English medium have been recruited.
+
+It will also include 400 teachers who have to leave the training of teachers from the English medium.
 
 ◼️
 
 [Data](articles/06deb928.json)
+
+[Extended Data](ext_articles/06deb928.ext.json)
 
 ---
 
@@ -2229,65 +2333,5 @@ Minister of Church was held at the Matale Buddhist House, that public workers, s
 [Data](articles/9884d685.json)
 
 [Extended Data](ext_articles/9884d685.ext.json)
-
----
-
-### Impact on main rail services
-
-*2024-03-12 07:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-ரயில்-சேவைகளில்-பாதிப்பு/175-334541) · `ta`
-
-Office train services delayed by mechanical issue.
-
-🟩
-
-The office train services have been delayed due to a mechanical disorder in the office of the office
-
-◼️
-
-[Data](articles/32cfdce1.json)
-
-[Extended Data](ext_articles/32cfdce1.ext.json)
-
----
-
-### Showers likely in Ampara, Batticaloa, Hambantota districts during morning
-
-*2024-03-12 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-likely-in-Ampara-Batticaloa-Hambantota-districts-during-morning/108-278682) · `en`
-
-Colombo, March 12 (Daily Mirror) - Showers will occur at a few places in the Colombo, Kalutara, Ratnapura, Galle and Matara districts in the evening or night, the forecasting division of the National Meteorological Centre said.
-
-They said a few showers are likely in the Ampara, Batticaloa and Hambantota districts during the morning. Mainly dry weather will prevail in the other areas of the island.
-
-Misty conditions can be expected at some places in the Western, Sabaragamuwa and Uva Provinces and in the Galle and Matara districts during the morning.
-
-Meanwhile, showers may occur at a few places in the sea areas extending from Hambantota to Batticaloa via Pottuvil, the Centre said.
-
-Winds will be north-easterly in direction and the speed will be 30 kmph. Wind speed may increase up to 45 kmph at times in the sea areas off the coasts, extending
-
-from Colombo to Kankesanthurai via Puttalam and Mannar, and from Matara to Pottuvil via Hambantota.
-
-...
-
-[Data](articles/4df5d6f9.json)
-
-[Extended Data](ext_articles/4df5d6f9.ext.json)
-
----
-
-### Right in situma
-
-*2024-03-12 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194402) · `si`
-
-In Pitigala and Ambalangoda, two shops were targeted, resulting in two deaths and six injuries.
-
-🟩
-
-Two shops killed in two shots in Pitigala and Ambalangoda were killed and six people were injured.
-
-◼️
-
-[Data](articles/ac26df50.json)
-
-[Extended Data](ext_articles/ac26df50.ext.json)
 
 ---

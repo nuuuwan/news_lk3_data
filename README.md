@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 15:51:32**
+As of **2024-03-12 16:02:46**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 1,958
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,408 (99.9%) of 12,416 articles have been extended.
+12,416 (100.0%) of 12,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### නව තානාපතිවරයෙක් සහ මහ කොමසාරිස්වරයෙක්
+### Yall. O+ Blood Type in Blood Bank
+
+*2024-03-12 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178536) · `ta`
+
+Jaffna Teaching Hospital Blood Bank has identified blood donors with O+ blood type. They encourage blood donation camps in Jaffna, contact 0772105375 for details.
+
+🟩
+
+Blood Banks have announced that the blood donors in the Jaffna Teaching Hospital Blood Bank have been diagnosed with blood donors to the Jaffna Bank.
+
+At the same time, those who wish to conduct blood donation camps in Jaffna have been asked to make their efforts and contact them via 0772105375 to find out more details.
+
+◼️
+
+[Data](articles/76cd025c.json)
+
+[Extended Data](ext_articles/76cd025c.ext.json)
+
+---
+
+### A new ambassador and a high commissioner
 
 *2024-03-12 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194423) · `si`
 
-ශ්‍රී ලංකාව සඳහා අලුතින් පත්වී පැමිණි තානාපතිවරයෙක් සහ මහ කොමසාරිස්වරයෙක් අද (12) පෙරවරුවේ කොටුව, ජනාධිපති මන්දිරයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සිය අක්තපත්‍ර භාර දුනි.
+A new Thai Ambassador and High Commissioner were appointed to Sri Lanka, presenting credentials to President Ranil Wickremesinghe. Major General Farhim Ul Asses, retiring, is the new High Commissioner.
 
-තායිලන්ත රාජධානියේ නව තානාපතිවරයා ලෙස පත්වී පැමිණි H. E. Paitoon Mahapannaporn මහතා සහ පාකිස්තාන ඉස්ලාමීය ජනරජයේ නව මහ කොමසාරිස්වරයා ලෙස පත්වී පැමිණි විශ්‍රාමික මේජර් ජෙනරල් ෆාහිම් උල් අසීස් මහතා මෙලෙස ජනාධිපතිවරයා වෙත අක්තපත්‍ර භාරදී තිබේ.
+🟩
 
-විදේශ අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි, ජනාධිපති ලේකම් සමන් ඒකනායක යන මහත්වරු ද මෙම අවස්ථාවට එක්විය.
+A newly appointed Ambassador to Sri Lanka and a High Commissioner in Sri Lanka in charge of his credentials to President Ranil Wickremesinghe at the President's House this morning.
+
+The new Ambassador of Thailand has been appointed as the new Ambassador. E. Retirement Major General Farhim Ul Asses, who has been appointed as the new High Commissioner to the New High Commissioner to the Port of Islamic Republic of the Islamic Republic of the Islamic Republic of the Islamic Republic of the Islamic Issue.
+
+Foreign Minister Ali Sabri and Presidential Secretary Saman Ekanayake were also present at the occasion.
 
 ◼️
 
 [Data](articles/cd3e3598.json)
 
----
-
-### யாழ். இரத்த வங்கியில் O+ இரத்த வகைக்கு தட்டுப்பாடு
-
-*2024-03-12 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178536) · `ta`
-
-யாழ்ப்பாணம் போதனா வைத்தியசாலை இரத்த வங்கியில் O+ இரத்த வகைக்கு தட்டுப்பாடு ஏற்பட்டுள்ளமையால்  அந்த வகை இரத்தம் உள்ள குருதி கொடையாளர்கள் யாழ்.இரத்த வங்கிக்கு நேரில் வருகை தந்து குருதி கொடை வழங்குமாறு இரத்த வங்கியினர் அறிவித்துள்ளனர்.
-
-அதேவேளை யாழ்ப்பாணத்தில் இரத்த தான முகாம்களை நடாத்த விரும்புவோரை அதற்கான முயற்சிகளை முன்னெடுக்குமாறும் , மேலதிக விபரங்களை தெரிந்து கொள்வதற்கு 0772105375 எனும் தொலைபேசி இலக்கம் ஊடாக தொடர்பு கொள்ளுமாறு கேட்டுக்கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/76cd025c.json)
+[Extended Data](ext_articles/cd3e3598.ext.json)
 
 ---
 
@@ -73,6 +85,8 @@ Speaking at the event, he said Sri Lanka Tourism is launching its destination br
 ...
 
 [Data](articles/cd7787d5.json)
+
+[Extended Data](ext_articles/cd7787d5.ext.json)
 
 ---
 
@@ -146,17 +160,23 @@ The Sri Lankan squad has been named for the one-day series of ODIs with Banglade
 
 ---
 
-### ජපානයෙන් යෙන් මිලියන 1400ක ප්‍රදානයක්
+### 1400 million Yen from Japan
 
 *2024-03-12 15:13:23* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-යෙන්-මිලියන-1400ක-ප්‍රදානයක්/11-408564) · `si`
 
-ජපාන ආර්ථික හා සමාජ සංවර්ධන වැඩසටහන යටතේ  ජපන් යෙන් මිලියන 1400ක් ශ්‍රී ලංකාවට ප්‍රදානයක් ලෙස ලබාදීමට එක﻿ඟ වී තිබේ. මෙම මුදල ලබාගැනීමට අදාළව ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබී තිබේ.
+Japan grants Sri Lanka 1400 million Yen for technical and humanitarian operations, valued at 3.3 billion rupees, approved by President Ranil Wickremesinghe.
 
-මෙහි රුපියල් වටිනාකම රුපියල් බිලියන 3.3ක් පමණ වෙයි. ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය වෙනුවෙන් විපතට පත් ප්‍රජාවට තාක්ෂණික හා මානුෂීය මෙහෙයුම් වෙනුවෙන් මෙම මුදල් යොදවා ගැනීමට නියමිතය.
+🟩
+
+The Japanese Economic and Social Development Program has been given to Sri Lanka as a grant to Sri Lanka as a grant. The cabinet paper presented by President Ranil Wickremesinghe has approved the Cabinet.
+
+The rupee value is about 3.3 billion rupees. The money affected community is due to be used for technical and humanitarian operations to the community affected community in Sri Lanka.
 
 ◼️
 
 [Data](articles/da8985a8.json)
+
+[Extended Data](ext_articles/da8985a8.ext.json)
 
 ---
 
@@ -292,19 +312,25 @@ All three solar power projects will be on a build, own and operate basis.
 
 ---
 
-### හයිටියේ අවතැන් වූ ජනතාව තුන්ලක්ෂ හැටදහස ඉක්මවයි
+### Haiti IDPs exceeded three hundred thousand
 
 *2024-03-12 14:58:44* · [`adalk`](https://www.ada.lk/breaking_news/හයිටියේ-අවතැන්-වූ-ජනතාව-තුන්ලක්ෂ-හැටදහස-ඉක්මවයි/11-408563) · `si`
 
-හයිටි ජනරජයේ ආරක්ෂක තත්ත්වය තවදුරටත් නරක අතට හැරේ. එහි තුන්ලක්ෂ හැටදහසකට අධික ජනතාව අවතැන් ව සිටින බවත්, ඉන් අඩකට වැඩි පිරිස දරුවන් වන බවත් ජාත්‍යන්තර සංක්‍රමණ සංවිධානය පසුගිය දා නිවේදනය කළේය.
+Haiti's IDPs surpass 300,000, with 50% children. Displacement increased by 15% since January, affecting over 6,000 in Port-au-Prince. Violence escalated after Juvenel's murder, with armed gangs targeting key institutions since February 29.
 
-මේ වනවිට එරට අවතැන් ව සිටින සංඛ්‍යාව වසර ආරම්භයේ පැවති අගයට වඩා 15% කින් වැඩි වී ඇතැයි එම සංවිධානය පවසයි. පෝට්-ඕ-ප්‍රින්ස් අගනුවර එක්ලක්ෂ හැටදහසකට වැඩි පිරිසක් සිය නිවාසවලින් බැහැර ව සිටිති. පසුගිය පෙබරවාරි මාසය අවසානයේ සිට මේ දක්වා එරට අභ්‍යන්තර ප්‍රචණ්ඩකාරී සිදුවීම් සැලකිය යුතු අයුරින් වර්ධනය වී තිබේ. නගර වැසියන් සන්නද්ධ කල්ලි විසින් සිර කර ර ඳවාගනු ලැබ ඇතැයි ද ජාත්‍යන්තර සංක්‍රමණ සංවිධානය කියා සිටී.
+🟩
 
-2021 වසරේ ජූලි 7 වැනි දා, හයිටි රාජ්‍යයේ ජනාධිපති Jovenel Moïse මහතා ඝාතනයට ලක්විය. එම සිද්ධියෙන් පසු ප්‍රචණ්ඩකාරී කල්ලිවල ක්‍රියාකාරීත්වය බෙහෙවින් ඉස්මතු වී තිබේ. පසුගිය 29 වැනි දා සිට එවැනි සන්නද්ධ කණ්ඩායම් අවස්ථා ගණනාවක දී එරට වැදගත් ආයතන හා යටිතල පහසුකම්වලට ප්‍රහාර එල්ල කර ඇත.
+The security situation of the Haitian Republic is further worse. The International Migrationon recently announced that more people were displaced and half of them were children.
+
+The number of people displaced by the country has increased by 15% over the beginning of the year. More than 6,000 of the Port-O-Prince capital is out of his homes. The internal violent events of the country have grown significantly since the end of February. The International Migration Organization says that the townsicians have been imprisoned by armed gangs.
+
+On July 7, July 7, 20 ,, July 7, Juvenel, was murdered. After that incident, violent gangs have highlighted. Such armed groups have attacked an important institutions and infrastructure from several occasions since the 29th.
 
 ◼️
 
 [Data](articles/881c589b.json)
+
+[Extended Data](ext_articles/881c589b.ext.json)
 
 ---
 
@@ -354,17 +380,23 @@ Minister of Foreign Affairs Ali Sabry, PC, and Presidential Secretary Saman Ekan
 
 ---
 
-### හෝමාගම එන්.එස්.බී.එම්. වෙත වෛද්‍ය පීඨයක්
+### Homagama NSBM. Faculty of Medicine to
 
 *2024-03-12 14:55:41* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-එන්-එස්-බී-එම්--වෙත-වෛද්‍ය-පීඨයක්/11-408561) · `si`
 
-හෝමාගම එන්.එස්.බී.එම්. හරිත විශ්වවිද්‍යාලය සඳහා වෛද්‍ය පීඨයක් ආරම්භ කිරීම වෙනුවෙන් ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+The Homagama NSBM Faculty of Medicine, approved by the cabinet, is a 100% government initiative. It will utilize Homagama Hospital for clinical facilities, with the project costing NSBM.
 
-මෙම ආයතනය සියයට 100ක් රාජ්‍ය ආයතනයක් වෙයි. වෛද්‍ය පීඨය සඳහා අවශ්‍ය සායනික පහසුකම් ලබාදීම සඳහා හෝමාගම රෝහල ශික්ෂණ රෝහලක් බවට පත් කිරීමට නියමිත අතර ඒ සඳහා සම්පූර්ණ වියදම එන්.එස්.බී.එම්. ආයතනය විසින් දැරීමට නියමිතය.
+🟩
+
+Homagama NSBM. The proposal made by President Ranil Wickremesinghe proposal to commence a medical faculty for the Green University has approved cabinet.
+
+The company will be 100 percent government agency. Homagama hospital will be made to provide clinical facilities required for the Faculty of Medicine and the total cost of the project is NSBM. The institute is due.
 
 ◼️
 
 [Data](articles/94fa6a3b.json)
+
+[Extended Data](ext_articles/94fa6a3b.ext.json)
 
 ---
 
@@ -401,6 +433,8 @@ The Joint Health Workers’ Union (JHWU) today staged a protest in front of Colo
 ◼️
 
 [Data](articles/975e9f31.json)
+
+[Extended Data](ext_articles/975e9f31.ext.json)
 
 ---
 
@@ -717,6 +751,8 @@ In light of Asitha Fernando's injury, Lahiru Kumara has been added to the Sri La
 ◼️
 
 [Data](articles/4c3c5967.json)
+
+[Extended Data](ext_articles/4c3c5967.ext.json)
 
 ---
 
@@ -1090,15 +1126,17 @@ Marikar responded to this question by recalling how President Ranasinghe Premada
 
 *2024-03-12 12:34:00* · [`economynextcom`](https://economynext.com/pilot-project-to-empower-aswesuma-welfare-scheme-beneficiaries-154275/) · `en`
 
-ECONOMYNEXT – A pilot project to uplift 16,000 Aswesuma beneficiary families, using Asian Development Bank, World Bank and local funds will be implemented in selected divisional secretariats of the 25 districts, Cabinet spokesman Minister Bandula Gunawardena said.
+ECONOMYNEXT – A pilot project to move 16,000 Aswesuma beneficiary families out of poverty, using Asian Development Bank, World Bank and local funds, will be implemented in selected divisional secretariats in the 25 districts, Cabinet spokesman Minister Bandula Gunawardena said.
 
-“Cabinet approved a proposal to implement a program with the aim of empowering the families benefiting under the Aswesuma social welfare scheme economically, socially and mentally, within three years,” Gunawardena said.
+“While providing welfare benefits to the people impoverished by the economic crisis, we are implementing a three-year programme that will move them out of poverty gradually,” Gunawardena said.
 
-Applications for the second phase of the welfare scheme close on March 15. Minister of State for Finance Shehan Semasinghe said payments will be made to the beneficiaries selected under the second phase in July.
+Cabinet approved the proposal to implement the program which will ’empower family units economically, socially and mentally’.
 
-Nearly 2 million people are entitled to welfare benefits, and the second phase is expected to increase that number to 2.4 million. 205 billion rupees has been allocated for this purpose in this year’s budget. (Colombo/Mar12/2024)
+Applications for the second phase of the welfare scheme close on March 15 (Friday). State Minister for Finance Shehan Semasinghe said payments will be made to the beneficiaries selected under the second phase in July.
 
-◼️
+Semasinghe said he had discussions with officers of the Samurdhi Development Departments on the importance of empowerment of Aswesuma beneficiaries.
+
+...
 
 [Data](articles/3e7ed719.json)
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 12:33:30**
+As of **2024-03-12 12:49:12**
 
 ## Newspaper Stats
 
-*Scraped **12,353** Articles*
+*Scraped **12,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,83 @@ dailyftlk | 641
 economynextcom | 647
 islandlk | 677
 adalk | 1,051
-adaderanalk | 1,491
+adaderanalk | 1,492
 tamilmirrorlk | 1,505
 virakesarilk | 1,701
-dailymirrorlk | 1,883
-adaderanasinhalalk | 1,948
+dailymirrorlk | 1,885
+adaderanasinhalalk | 1,949
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,345 (99.9%) of 12,353 articles have been extended.
+12,353 (100.0%) of 12,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### ரஷ்யாவின் இரு நகரங்களில் தாக்குதலுக்குள்ளான எண்ணெய்க் களஞ்சியங்கள் தீக்கிரை
+### Draft Bill facilitating Parate Law suspension to be gazetted
+
+*2024-03-12 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97892/draft-bill-facilitating-parate-law-suspension-to-be-gazetted) · `en`
+
+The Cabinet of Ministers has given its approval to publish the Draft Bill of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990, which was amended to facilitate legal provisions for the suspension of Parate Law.
+
+Cabinet’s approval comes after the Attorney General cleared the Bill drafted by the Legal Draftsman.
+
+Accordingly, the Draft Bill of the Loans by Banks (Special Provisions) Act will be tabled in Parliament after it is published in the government gazette.
+
+At its meeting convened on February 26, the Cabinet of Ministers green-lighted a proposal made by President Ranil Wickremesinghe, in his capacity as the Finance Minister, to suspend the Parate Law until December 15, 2024.
+
+As per the Cabinet’s decision, the banks’ practice of acquiring properties of whose loans are yet to be paid off will be suspended until December 15 and Section 4 of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990 will be amended to facilitate the necessary legal provisions.
+
+...
+
+[Data](articles/8e05b30e.json)
+
+---
+
+### NSBM ආයතනයට වෛද්‍ය පීඨයක්
+
+*2024-03-12 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194413) · `si`
+
+සීමාසහිත ජාතික ව්‍යාපාර කළමනාකාරිත්ව විද්‍යායතනය (NSBM) යටතේ වෛද්‍ය පීඨයක් ස්ථාපිත කිරීමට සහ එමඟින් MBBS උපාධිය පිරිනැමීමට යෝජනා වී තිබේ.
+
+අධ්‍යාපන අමාත්‍යාංශයේ, සෞඛ්‍ය අමාත්‍යාංශයේ සහ ශ්‍රී ලංකා වෛද්‍ය සභාවේ සෘජු අධීක්ෂණය සහ නියාමනය යටතේ එම වෛද්‍ය උපාධිය පිරිනැමීමට නියමිතය.
+
+එම උපාධි පාඨමාලාව සඳහා වාර්ෂිකව දේශීය හා විදේශීය සිසුන් 500ක් බඳවාගැනීමට අපේක්ෂිත ය.
+
+හෝමාගම මූලික රෝහල එම වෛද්‍ය සිසුන් සඳහා සායනික පුහුණුව ලබා දීමට සුදුසු රජයේ රෝහලක් වශයෙන් වෙන් කිරීම පිණිස NSBM ආයතනය විසින් අනුමැතිය ඉල්ලා ඇත.
+
+ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ වෛද්‍ය සිසුන්ගේ සායනික පුහුණුව සඳහා හෝමාගම මූලික රෝහල භාවිත කිරීම පිණිස අමාත්‍ය මණ්ඩල අනුමැතිය දැනටමත් ලබා දී ඇති බැවින්, ඊට බලපෑමක් නොවන පරිදි NSBM ආයතනයේ වෛද්‍ය පීඨ සිසුන්ගේ සායනික පුහුණුවට මෙන්ම මහාචාර්ය ඒකක පහසුකම් සඳහා ද සම්පත් බෙදා ගැනීමේ පදනම මත හෝමාගම මූලික රෝහල වෙන් කර දීමේ යාන්ත්‍රණයක් සකස් කිරීමට යෝජනා වී තිබේ.
+
+...
+
+[Data](articles/4f04b39b.json)
+
+---
+
+### Oil barns attacked in two cities of Russia
 
 *2024-03-12 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178510) · `ta`
 
-ரஷ்யாவின் இரு நகரங்களிலுள்ள எண்ணெய்க் களஞ்சியங்கள் இன்று நடத்தப்பட்ட ட்ரோன் தாக்குதல்களையடுத்து அக்களஞ்சியங்கள் தீப்பற்றி எறிவதாக ரஷ்ய அதிகாரிகள் தெரிவித்துள்ளனர்.
+Drone attacks in Russia led to oilseed fires in two cities, 450km east of Moscow, amidst ongoing tensions with Ukraine. Special forces are extinguishing the fires.
 
-இவ்விரு நகரங்களும் நூற்றுக்கணக்கான கிலோமீற்றர் இடைவெளியில் உள்ளன. கேஸ்டோவோ  நகரம் மொஸ்கோவுக்கு கிழக்கே 450 கிலோமீற்றர் தூரத்தில் உள்ளது.
+🟩
 
-ரஷ்யாவின் பல நகரங்கள் மீது உக்ரேன் தாக்குதல்களை நடத்திய நிலையில், இரு நகரங்களில் எண்ணெய்க் களஞ்சியங்கள் தீப்பற்றியுள்ளன.
+Russian officials have said that the oilseeds in two cities of Russia were set on fire in the wake of the drone attacks carried out today.
 
-தீயை அணைப்பதற்கான நடவடிக்கைகளில் விசேட படையினர் ஈடுபட்டுள்ளனர் என ரஷ்ய அதகாரிகள் தெரிவித்துள்ளனர்.
+These two cities are at a space of hundreds of kilometers. Castoo is 450 kilometers east of Moscow.
+
+Oil repository has been set in two cities as Ukraine has carried out attacks on many cities of Russia.
+
+Special soldiers are involved in the fire to extinguish the fire, Russian rituals said.
 
 ◼️
 
 [Data](articles/641c7551.json)
+
+[Extended Data](ext_articles/641c7551.ext.json)
 
 ---
 
@@ -78,19 +124,27 @@ Guyana's president and head of the Caribbean community and the general market or
 
 ---
 
-### தேர்தல் முறைமையில் மாற்றத்தைக் கொண்டு வர முயற்சி
+### Attempt to bring about a change in the electoral system
 
 *2024-03-12 12:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையில்-மாற்றத்தைக்-கொண்டு-வர-முயற்சி/175-334549) · `ta`
 
-நிலுவையில் உள்ள தேசிய தேர்தல்களுக்கு முன்னதாக, பாராளுமன்ற தேர்தல் சட்டத்தில் திருத்தம் கொண்டு வருவதன் மூலம் பாராளுமன்ற தேர்தல் முறையில் மாற்றங்களை கொண்டுவர அரசாங்கம் புதிய முயற்சிகளை மேற்கொண்டுள்ளதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
+The government is proposing a mixed electoral system with 160 MPs elected by first-past-the-post (FPTP) and 65 by proportional representation (PR), aiming to address criticism of the current PR system. This change, recommended for debate by Justice Minister Vijayadasa Rajapakse, follows failed attempts in the past due to political disagreements.
 
-நீதி அமைச்சர் விஜயதாச ராஜபக்ச, கலப்பு தேர்தல் முறைமையை அறிமுகப்படுத்துவதற்கான அமைச்சரவைப் பத்திரத்தை கடந்த வாரம் சமர்ப்பித்திருந்தார். புதிய முறையின் கீழ், 160 எம்.பி.க்கள் முதல் நிலை பதவி முறையின் கீழும், மற்றொரு 65 எம்.பி.க்கள் விகிதாசார பிரதிநிதித்துவத்தின் கீழும் தேர்ந்தெடுக்கப்படுவார்கள்.
+🟩
 
-FPTP இன் கீழ், ஒரு உள்ளூர் தொகுதியில் அதிக வாக்குகளைப் பெறும் வேட்பாளர் ஒரு இடத்தைப் பெறுவார். இதற்கு நேர்மாறாக, PR என்பது பாராளுமன்றத்தில் கட்சிகளின் ஆசனங்கள் அளிக்கப்பட்ட வாக்குகளின் விகிதத்தில் இருக்க வேண்டும் என்ற எண்ணம்.
+A minister said that the government has made new efforts to bring about changes in the parliamentary election system by amendment to the parliamentary election law ahead of the outstanding national elections.
+
+Justice Minister Vijayadasa Rajapakse submitted a cabinet paper for the introduction of a mixed electoral system last week.Under the new system, 160 MPs will be selected under the first level of office and another 65 MPs will be selected under proportional representation.
+
+Under the FPTP, the candidate who receives more votes in a local constituency will get a place.On the contrary, PR is the idea that in Parliament, the parties' seats should be at the rate of votes cast.
+
+This article was recommended for the debate of representatives of various political parties in the House.Currently, London, Minister Rajapakse telephoned Daily Mirror, saying that some parties are supporting the proposals and some parties.
 
 ...
 
 [Data](articles/1efea7c8.json)
+
+[Extended Data](ext_articles/1efea7c8.ext.json)
 
 ---
 
@@ -364,6 +418,8 @@ Coconut shells were 28,000 to 30,000 rupees a metric ton up from last week’s 2
 
 [Data](articles/8bf8c781.json)
 
+[Extended Data](ext_articles/8bf8c781.ext.json)
+
 ---
 
 ### The Vidukunni incident has reiterated the fact that Tamils live under Sinhala Buddhist imperialism - Wickeswaran
@@ -566,19 +622,25 @@ The Minister added that the tax would be charged for the purpose of protecting t
 
 ---
 
-### වව්නියාවේ ජාතික පාසලකින් මෝටාර් උණ්ඩ සොයාගනී
+### Mortar bullets found from national school in Vavuniya
 
 *2024-03-12 10:34:07* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාවේ-ජාතික-පාසලකින්-මෝටාර්-උණ්ඩ-සොයාගනී/11-408554) · `si`
 
-වවුනියාව මඩුකන්ද ජාතික පාසල් භූමියේ කසල සහිත ස්ථානයක තිබී පුපුරා නොගිය මිලිමීටර 81 වර්ගයේ මෝටාර් උණ්ඩ තුනක් සොයාගත් බව පොලිස් විශේෂ කාර්ය බලකාය පවසයි. මඩුකන්ද ජාතික පාසලේ නිවාසාන්තර ක්‍රීඩා උළෙල වෙනුවෙන් පස්කපන යන්ත්‍රයක් ගෙන ක්‍රීඩා පිටිය පිලිසකර කොට ඇති අතර එම අවස්ථාවේදී ක්‍රීඩාපිටියට අවශ්‍ය කසල බැහැර කිරීම වෙනුවෙන් වලක් කැපීමේදී පොළව යටතිබූ අදාල මෝටාර් බෝම්බ මතුවී ඇත.
+Police found three types of non-exploded mortar bullets at Madukanda National School in Vavuniya. Suspecting LTTE presence, they're investigating for more bombs. The decayed ammunition posed a potential explosion risk. Officers at Madukanda Base are being dismissed under court orders.
 
-පසුගිය යුද සමයේදී කොටි ත්‍රස්ත සංවිධානය විසින් අදාල ස්ථානයේ මෙම මෝටාර් බෝම්බ වලදමන්නට ඇතැයි පොලීසිය සැකපල කරන අතර අදාල ස්ථානයේ තවත් බෝම්බ ඇත්දැයි සෙවීමටද පියවර ගෙන ඇතැයි පරික්ෂණ සිදුකරන මඩුකන්ද පොලීසිය වැඩිදුරටත් පැවසීය. හමුවූ මෝටාර් උණ්ඩ දැඩිලෙස දිරාපත්ව තිබූ බවත් සඳහන් කළේය. මෝටාර් උණ්ඩ තැන තැන විසිරී තිබු බවත් එ‍්වා පිපිරී ගියේ නම් විශාල හානියක් සිදුවීමට ඉඩතිබූ බවත් පැවසීය.
+🟩
 
-වවුනියාව මහෙස්‌ත්‍රාත් අධිකරණ නියෝග යටතේ හමුවූ මෝටාර් උණ්ඩ පොලිස් විශේෂ කාර්ය බලකායේ මඩුකන්ද කඳවුරේ නිලධාරීන් විසින් අ‍ාරක්ෂිතව ඉවත් කිරීමෙන් අනතුරුව නිශ්ක්‍රීය කිරීමට කටයුතු කර ඇත.
+Police Special Task Force has found three types of mortar bullets who have not exploded in Madukanda National School premises in Vavuniya.. The playground has been transferred to the Madukanda National School, Madukanda National School and has been transferred to the Madukanda National School.
+
+Police suspect that the Troops of the Troubled LTTE during the war, the police suspect that they had to find out if there were more bombs.. The mortar ammunition was severely decayed. He said that the mortar bullet was scattered and that he could have caused great harm to explosion.
+
+Steps have been taken to dismiss the officers of the Madukanda camp in the Madukanda Base of Mortar Ammunition Under Vavuniya Magistrate's Court orders.
 
 ◼️
 
 [Data](articles/aeb656f0.json)
+
+[Extended Data](ext_articles/aeb656f0.ext.json)
 
 ---
 
@@ -869,6 +931,8 @@ The Colombo Stock Market opened down; the All Share Price Index was down 0.05 pe
 ◼️
 
 [Data](articles/9e1e01ea.json)
+
+[Extended Data](ext_articles/9e1e01ea.ext.json)
 
 ---
 
@@ -1206,6 +1270,8 @@ Related SriLankan Airlines debt of US$510mn to be taken over by govt
 
 [Data](articles/d735bcb6.json)
 
+[Extended Data](ext_articles/d735bcb6.ext.json)
+
 ---
 
 ### Sri Lanka rejects global report on child malnutrition
@@ -1396,6 +1462,8 @@ IMF Executive Board Extends Temporary Increase in Access Limits Under the Genera
 
 [Data](articles/4d0d9420.json)
 
+[Extended Data](ext_articles/4d0d9420.ext.json)
+
 ---
 
 ### Showers or thunderstorms
@@ -1457,6 +1525,8 @@ He has also presented papers and made presentations, at all times trying to incr
 ...
 
 [Data](articles/67660cbd.json)
+
+[Extended Data](ext_articles/67660cbd.ext.json)
 
 ---
 
@@ -2106,6 +2176,26 @@ The need for women’s politics has been felt for a long time not only as they a
 
 ---
 
+### Spotlight on Uda Walawe National Park Jumbos starve due to scarcity of fodder, grazing cattle
+
+*2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Spotlight-on-Uda-Walawe-National-Park-Jumbos-starve-due-to-scarcity-of-fodder-grazing-cattle/131-278639) · `en`
+
+Elephants at the Uda Walawe National Park are starving due to a massive shortage of food
+
+Fingers are pointed at the authorities for being responsible for poor habitat management at Uda Walawe National Park
+
+Another major issue at national parks is the release of cattle for free grazing
+
+Senior ecologists observe that the after growth from chena cultivation is very good elephant habitat
+
+It was a little past noon when we reached the Uda Walawe National Park. We were excited to see elephants in their natural habitats, but serious concern was bothering everyone of us at the same time. In the backdrop of battling with an aggravating human-elephant conflict, environmentalists have speculated whether elephants at the Uda Walawe National Park are starving due to a massive shortage of food. As we entered the Park, we noticed speculation turning to truth.
+
+...
+
+[Data](articles/59f47c8e.json)
+
+---
+
 ### Americans advised to bury their gold, while ours is in pawnshops
 
 *2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Americans-advised-to-bury-their-gold-while-ours-is-in-pawnshops/172-278644) · `en`
@@ -2179,71 +2269,5 @@ The Speaker stated that this has made it possible to further strengthen democrac
 [Data](articles/97b885c2.json)
 
 [Extended Data](ext_articles/97b885c2.ext.json)
-
----
-
-### Hour of the heroic truth teller
-
-*2024-03-11 23:10:50* · [`dailyftlk`](https://www.ft.lk/columns/Hour-of-the-heroic-truth-teller/4-759354) · `en`
-
-Malnutrition stunts the brain and affects the body. It is not an issue to be resolved in 2048 – Pic by Shehan Gunasekara
-
-Contrary to claims of ‘technocrats’ claiming robust progress, there is real, visible, touchable and detectable misery in the heartland. According to the latest WFP country report 17% of the population is facing moderate acute food insecurity. 31% of children aged under 5 are malnourished. 20% of children aged under 5 suffer from wasting. People are compelled to skip meals, beg, or borrow food, or simply learn to live in the gutter, staring at stars
-
-In his recent update to Parliament on the nation’s economy, President Wickremesinghe claimed that it is “widely acknowledged” that Sri Lanka has achieved a certain level of economic stability.
-
-“We’re diligently strengthening the economy each day, striving tirelessly to improve the lives of our people and fortify the economy. Our actions are guided by a strategic plan, ensuring a systematic and methodical approach.”
-
-...
-
-[Data](articles/3012c037.json)
-
-[Extended Data](ext_articles/3012c037.ext.json)
-
----
-
-### It’s happening now…what
-
-*2024-03-11 23:10:00* · [`islandlk`](http://island.lk/its-happening-nowwhat/) · `en`
-
-Singer Alston Koch, who now resides in Australia, came up with a song, titled ‘Can We Take This Climate Change,’ and that was 16 years ago…in 2008.
-
-Elaborating on what made him come up with this ‘climate change’ song, the ‘Disco Lady’ hitmaker said that he noticed that some of the beautiful fruit trees, butterflies, birds, etc., that existed when he was young, were gradually disappearing and that the heat was on the rise.
-
-‘Can We Take This Climate Change’ was created by Alston for a United Nations WTO presentation in London, and that was in 2008.
-
-The song was also presented by Geoffrey Lipman, Chairman of International Council of Tourism Partners (ICTP) at the ‘Live the Deal Climate Change’ conference in Copenhagen.
-
-Alston Koch was the Goodwill Ambassador for the campaign, and the song was promoted, globally, by ICTP, in their campaign for green growth.
-
-...
-
-[Data](articles/9b14b6d2.json)
-
-[Extended Data](ext_articles/9b14b6d2.ext.json)
-
----
-
-### Five of six missing skiers found dead in Switzerland
-
-*2024-03-11 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97882/five-of-six-missing-skiers-found-dead-in-switzerland) · `en`
-
-(Reuters) - Five cross-country skiers who went missing during a ski tour in Switzerland were found dead, while a search was still on for the sixth skier, police said in a statement on Monday.
-
-The skiers, five of them members of the same family, went missing around Tete Blanche mountain on Saturday on the Zermatt-Arolla path, near the Matterhorn mountain that straddles the border between Switzerland and Italy.
-
-The bodies were discovered on Sunday in Tête Blanche sector, police said.
-
-The skiers were between the ages of 21 and 58, according to an earlier police statement. Five belonged to one family from the Valais canton, while a sixth person is from the canton of Fribourg.
-
-Police did not reveal the identity of those who were found dead.
-
-Zermatt is a popular mountain resort renowned for skiing and attracts tourists from around the world.
-
-◼️
-
-[Data](articles/772f833d.json)
-
-[Extended Data](ext_articles/772f833d.ext.json)
 
 ---

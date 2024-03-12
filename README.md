@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 14:52:34**
+As of **2024-03-12 15:02:48**
 
 ## Newspaper Stats
 
-*Scraped **12,392** Articles*
+*Scraped **12,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 654
 islandlk | 677
-adalk | 1,054
+adalk | 1,057
 adaderanalk | 1,495
 tamilmirrorlk | 1,512
-virakesarilk | 1,707
+virakesarilk | 1,710
 dailymirrorlk | 1,889
-adaderanasinhalalk | 1,954
+adaderanasinhalalk | 1,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,381 (99.9%) of 12,392 articles have been extended.
+12,392 (99.9%) of 12,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### කෙහෙළියට එරෙහි තවත් නඩුවක් විභාගයට දින දෙයි
+
+*2024-03-12 14:56:47* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-විභාගයට-දින-දෙයි/11-408562) · `si`
+
+අත්‍යවශ්‍ය නොවන අවස්ථාවක රූපවාහීනි සංස්ථාවට ජී.අයි. බට මිලදී ගෙන රජයට රුපියල් ලක්‍ෂ 10කට ආසන්න පාඩුවක් කළ බවට චෝදනා ලැබ සිටින අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාට එරෙහි නඩුව පවත්වාගෙන යෑමට නොහැකි බවට විත්තියේ නීතීඥවරු ඉදිරිපත් කළ මුලික විරෝධතාවය ප්‍රතික්‍ෂෙප කළ කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා නඩුව විභාගයට ගැනීමට අද (12) තීරණය කළේය.
+
+නඩුව අප්‍රේල් 04 වැනිදා කැඳවීමට නියම කළ විනිසුරුවරයා නඩුව විභාග කිරීමේ දිනය එදින ප්‍රකාශයට පත් කරන බව දැනුම් දුන්නේය.
+
+2014 නොවැම්බර් මස 25 වැනිදා හෝ ඊට ආසන්න දිනයක පළමු විත්තිකරු ජනමාධ්‍ය ඇමතිවරයා ලෙස කටයුතු කරමින් සිටියදී රූපවාහිනි සංස්ථාවට අත්‍යවශ්‍ය නොවන මොහොතක එහි ප්‍රවර්ධන වැඩසටහනකට යැයි පවසමින් රුපියල් 9 90 000/-ක මුදලක් වැය කොට රූපවාහිනි සංස්ථාවට ජී අයි බට 600 මිලදී ගෙන රජයට පාඩු සිදු කළ කිරීමට කුමන්ත්‍රණය කිරීම සහ කටයුතු කිරීම මඟින් අල්ලස් පනතේ ‘දූෂණය’ නමැති වරද කළ බවට විත්තිකරුවන්ට එරෙහිව අල්ලස් කොමිසම චෝදනා නඟා ඇත.
+
+...
+
+[Data](articles/d268ff8f.json)
+
+---
+
+### 72 நாட்களில் 30 துப்பாக்கிப் பிரயோகங்கள்: 21 பேர் உயிரிழப்பு, 14 பேர் காயம்!
+
+*2024-03-12 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178530) · `ta`
+
+இவ்வருடம்  ஜனவரி முதலாம் திகதி முதல் மார்ச் 12 வரையான 72 நாட்களில்   நாட்டின் பல்வேறு பகுதிகளில் 30 துப்பாக்கிச் சூட்டுச்  சம்பவங்கள் பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்தச் சம்பவங்களில்  21 பேர் உயிரிழந்துள்ளதுடன் 14 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளார்
+
+30  துப்பாக்கிச் சூட்டுச் சம்பவங்களில் 17 சம்பவங்கள் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல்களால் மேற்கொள்ளப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் சுட்டிக்காட்டியுள்ளார்.
+
+ஏனைய 13 துப்பாக்கிச் சூட்டுச் சம்பவங்கள் தனிப்பட்ட காரணங்களுக்காக மேற்கொள்ளப்பட்டதாகவும் அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/22ab2691.json)
+
+---
+
+### இந்தியன் ரோலரை தடுத்து நிறுத்து ; பதில் இல்லையேல் 25 ஆம் திகதிக்கு பின் போராட்டம் - மீனவ சங்கங்கள் எச்சரிக்கை
+
+*2024-03-12 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178529) · `ta`
+
+யாழ்ப்பாண கடல் பகுதிக்குள் அத்துமீறி நுழையும் இந்தியன் ரோலர் படங்களை தடுத்து நிறுத்துமாறு கோரி இன்று செவ்வாய்க்கிழமை (12) தீவகப் பகுதி தெற்கு வேணைப் பிரதேச கடைத் தொழிலாளர் கூட்டுறவு சங்கங்களின் சமாசம் யாழ்ப்பாண இந்திய துணை தூதரகத்திடம் மஜகர்   கையளித்ததுடன் கண்டன போராட்டத்தையும் முன்னெடுத்தனர்.
+
+குறித்த மஜகரில் தெரிவிக்கப்பட்டதாவது தொடர்ச்சியாக இந்திய அத்துமீறிய ரோலர் படகுகளினால் தொடர்ச்சியாக எமது வாழ்வாதாரங்கள் அழிக்கப்பட்டு வருகிறது.
+
+இந்திய ஆத்துமையா ரோல் படகுகளை தடுத்து நிறுத்துமாறு இலங்கை மற்றும் இந்தியா அரச உயர் மட்டம் வரை மஜகர்களை கையளித்தது மட்டுமல்லாது கண்டன போராட்டங்களையும் மேற்கொண்டோம்.
+
+ஆனால் எமது கோரிக்கை தொடர்பில் இந்திய அரச உயர் மட்டம் இதுவரை சாதகமான பதில் எதுவும் வழங்கவில்லை.
+
+ஆகவே எமது கோரிக்கை அடங்கிய மஜகரை நடவடிக்கை எடுக்குமாறு யாழ்ப்பாண இந்திய துணை தூதரகத்திடம் வழங்கியுள்ளோம்.
+
+...
+
+[Data](articles/1cad10bf.json)
+
+---
+
+### සයිබර් අපරාධ මඩින්න පොලීසියේ 20කට ඉන්දියාවේදී විශේෂ පුහුණුවක්
+
+*2024-03-12 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194419) · `si`
+
+සයිබර් අපරාධ විමර්ශනය සහ කෘතිම බුද්ධිය පිළිබඳ විශේෂිත පාඨමාලාවක් සඳහා මෙරට පොලිස් නිලධාරීන් 20 දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඉන්දියාවට ගොස් තිබේ.
+
+ඉන්දියාවේ හයිද්‍රාබාද්හි  Central Detective Training Institute (CTDI) ආයතනයේදී ඔවුන් එම පුහුණුව ලබනු ඇත.
+
+අදාළ කණ්ඩායම ඉකුත් 03 වනදා ඉන්දියාව බලා පිටත්ව ගිය බව ශ්‍රී ලංකා පොලීසිය පවසයි.
+
+මෙම කණ්ඩායමට ජ්‍යේෂ්ඨ පොලිස් අධිකාරිවරයෙක්, සහකාර පොලිස් අධිකාරිවරුන් 02ක් සහ පොලිස් පරීක්ෂකවරුන් 17 දෙනෙකු ඇතුළත් ය.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා සහ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් හා මගපෙන්වීම යටතේ මෙම කණ්ඩායම අදාළ පාඨමාලාව සඳහා එක්වී තිබේ.
+
+◼️
+
+[Data](articles/9cf978e3.json)
+
+---
 
 ### 2,500 new teachers to be recruited for English medium education
 
@@ -46,19 +120,27 @@ Within the NEPF are outlined short- and medium-term strategies aimed at transfor
 
 [Data](articles/82bf250d.json)
 
+[Extended Data](ext_articles/82bf250d.ext.json)
+
 ---
 
-### எ.பி க்களின் மாத சம்பளம் ரூ. 8 கோடி
+### APs' monthly salary of Rs.. 8 crore
 
 *2024-03-12 14:32:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எ-பி-க்களின்-மாத-சம்பளம்-ரூ-8-கோடி/175-334560) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களுக்கு சம்பளம் வழங்குவதற்கு மாதாந்தம் ஏறத்தாழ ரூபா எட்டு கோடி செலவாகிறது என நிதிநிலை அறிக்கை ஒன்றில் தெரிவிக்கப்பட்டுள்ளது.
+MPs' monthly salary costs Rs. 8 crore, totaling nearly Rs. 100 crore annually.
 
-இதன்படி, ஒரு வருடத்தில் எம்.பி.க்களின் சம்பளம் வழங்குவதற்கு கிட்டத்தட்ட நூறு கோடி ரூபா செலவிடப்படவுள்ளது.
+🟩
+
+In a financial statement, it costs approximately eight crores of rupees a month to pay salaries to MPs.
+
+Accordingly, nearly a hundred crores of rupees will be spent on the salary of MPs in a year.
 
 ◼️
 
 [Data](articles/09a256a0.json)
+
+[Extended Data](ext_articles/09a256a0.ext.json)
 
 ---
 
@@ -78,23 +160,31 @@ Sri Lanka Banks Association on Monday warned that making it more difficult to re
 
 [Data](articles/b377b785.json)
 
+[Extended Data](ext_articles/b377b785.ext.json)
+
 ---
 
-### 72 நாட்களில் 21 கொலைகள்
+### 21 murders in 72 days
 
 *2024-03-12 14:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/72-நாட்களில்-21-கொலைகள்/175-334559) · `ta`
 
-2024 ஜனவரி 1 முதல் மார்ச் 12 வரை நாட்டின் பல்வேறு பகுதிகளில் 30 துப்பாக்கிச் சூடு சம்பவங்கள் பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+From January 1 to March 12, 2024, 30 shootings reported, 21 murders, 14 injuries, 17 by organized gangs, 13 for personal reasons.
 
-இதில் 21 பேர் உயிரிழந்துள்ளதுடன் 14 பேர் காயமடைந்துள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன், 30 துப்பாக்கிச் சூட்டுச் சம்பவங்களில் 17 சம்பவங்கள் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பல்களால் மேற்கொள்ளப்பட்டதாக அவர் குறிப்பிட்டார்.
+From January 1 to March 12, 2024, 30 shootings have been reported in various parts of the country, police said.
 
-மேலும், ஏனைய 13 துப்பாக்கிச் சூட்டுச் சம்பவங்கள் தனிப்பட்ட காரணங்களுக்காக மேற்கொள்ளப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் சுட்டிக்காட்டினார்.
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said 21 people were killed and 14 were injured.
+
+He also noted that 17 incidents of 30 shootings were carried out by organized criminal gangs.
+
+In addition, the police media spokesman pointed out that 13 other shootings were carried out for personal reasons.
 
 ◼️
 
 [Data](articles/7cedf05a.json)
+
+[Extended Data](ext_articles/7cedf05a.ext.json)
 
 ---
 
@@ -126,6 +216,36 @@ The suspect is conducting investigations into the stolen gold items and find the
 
 ---
 
+### පාකිස්ථාන, තායිලන්ත සබඳතා අළුත්වෙයි
+
+*2024-03-12 14:08:00* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්ථාන--තායිලන්ත-සබඳතා-අළුත්වෙයි/11-408559) · `si`
+
+ශ්‍රී ලංකාව සඳහා අලුතින් පත්ව පැමිණි තානාපතිවරයෙක් සහ මහකොමසාරිස්වරයෙක් අද (12) පෙරවරුවේ කොටුව, ජනාධිපති මන්දිරයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සිය අක්තපත්‍ර භාර දුන්හ.
+
+තායිලන්ත රාජධානියේ නව තානාපතිවරයා ලෙස පත්ව පැමිණි පයිටූන් මහපන්නපෝන් (H. E. Paitoon Mahapannaporn) මහතා සහ පාකිස්ථානු ඉස්ලාමීය ජනරජයේ නව මහකොමසාරිස්වරයා ලෙස පත්ව පැමිණි විශ්‍රාමික මේජර් ජෙනරල් ෆාහිම් උල් අසීස් (H.E. Major General (R) Faheem Ul Aziz, HI (M)) මහතා මෙලෙස ජනාධිපතිවරයා වෙත අක්තපත්‍ර භාර දුන්හ.
+
+◼️
+
+[Data](articles/02fa3b41.json)
+
+---
+
+### ஊழல் அற்ற அரசியல்வாதியை தெரிவு செய்ய மக்கள் முன்வர வேண்டும் - மார்ச்-12 இயக்கம்
+
+*2024-03-12 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178525) · `ta`
+
+ஊழல் அற்ற அரசியல்வாதியை தெரிவு செய்ய மார்ச் -12 இயக்கத்தின் 8 விடயங்களை பின்பற்றி செயற்பட மக்கள் முன்வர வேண்டும் என மார்ச்-12 அமைப்பின் அம்பாறை மாவட்ட குழு தெரிவித்துள்ளது.
+
+மார்ச்-12 அமைப்பின் அம்பாறை மாவட்ட குழுவின் விசேட செய்தியாளர் சந்திப்பு கல்முனை சேனைக்குடியிருப்பு பகுதியிலுள்ள அதன் அலுவலகத்தில் இன்று நடைபெற்றபோது மேற்கண்டவாறு குறிப்பிடப்பட்டுள்ளது.
+
+2015 ஆண்டு ஆரம்பிக்கப்பட்ட மார்ச் 12 அமைப்பின் செயற்பாட்டை மக்களுக்கு தெளிவூட்டுவதற்காகவே இச்செய்தியாளர் மாநாட்டை நடாத்துகின்றோம். அதாவது உள்ளுராட்சி மாகாண சபை தேர்தல் பாராளுமன்ற தேர்தலில் எப்படியான அரசியல்வாதிகள் தெரிவு செய்யப்பட வேண்டும் என்ற விழிப்புணர்வினை ஏற்படுத்துவதற்கு நாம் இச்செயற்பாட்டை முன்னெடுத்துள்ளோம். மார்ச் 12 அமைப்பின் பாரிய நிகழ்ச்சி திட்டம் எதிர்வரும் மார்ச் 28 ஆந் திகதி கொழும்பில் நடைபெற இருக்கின்றது. அவ்வேளை மாவட்டங்கள் தோறும் இவ்வாறான செய்தியாளர் சந்திப்புக்களை ஏற்பாடு செய்து இதன் ஊடாக  மக்களுக்கு பல்வேறு தெளிவூட்டல்களை மேற்கொள்ள இருக்கின்றோம்.
+
+...
+
+[Data](articles/a526c0a4.json)
+
+---
+
 ### Sri Lanka to install 100 MW solar power plant in Batticaloa on BOO basis
 
 *2024-03-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-100-mw-solar-power-plant-in-batticaloa-on-boo-basis-154305/) · `en`
@@ -143,6 +263,8 @@ Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri
 ...
 
 [Data](articles/e36c708c.json)
+
+[Extended Data](ext_articles/e36c708c.ext.json)
 
 ---
 
@@ -223,6 +345,22 @@ The fifth largest smartphone product company in Zomy China.
 [Data](articles/e75dbf2b.json)
 
 [Extended Data](ext_articles/e75dbf2b.ext.json)
+
+---
+
+### විශ්‍රාමික ගුරුවරු 1000ක් නැවත කැඳවති
+
+*2024-03-12 13:36:28* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ගුරුවරු-1000ක්-නැවත-කැඳවති/11-408557) · `si`
+
+ඉංග්‍රීසි මාධ්‍යයෙන් අධ්‍යාපනය ලබා ගැනීම සඳහා විශාල ඉල්ලුමක් සමාජයේ පවතින බැවින් ඊයේ පැවති ජාතික අධ්‍යාපන ප්‍රතිපත්තිය පිළිබඳ අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේදී මෙම පාසල් සංඛ්‍යාව 1,000 දක්වා වැඩි කරන ලෙස දැනුම් දෙන ලදී.
+
+මෙම කාර්යය කඩිනමින් ක්‍රියාත්මක කිරීම සඳහා අළුතින් ගුරුවරුන් 2,500කගේ සේවය ලබා ගැනීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී උපදෙස් ලබා දුන් අතර මෙම ක්‍රියාවලිය ආරම්භ කිරීමේ හදිසි අවශ්‍යතාවය සලකා බලා ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් ඉගැන්විය හැකි සුදුසුකම්ලත් විශ්‍රාමික ගුරුවරුන් 1,000ක් වසර 3ක කොන්ත්‍රාත් කාලයක් සඳහා කඩිනමින් බඳවා ගැනීමටද, ඒ අතර තුර, විවෘත තරඟ විභාගයක් මඟින් ඉංග්‍රීසි මාධ්‍යයෙන් ඉගැන්විය හැකි උපාධිධාරීන් 1,100ක් අදියර වශයෙන් බඳවා ගැනීමටද උපදෙස් දුන්නේය.
+
+දැනට ඉංග්‍රීසි මාධ්‍යයෙන් ගුරුවරුන් පුහුණු කරනු ලබන විද්‍යාපීඨයන්ගෙන් පුහුණුව ලබා පිටවීමට නියමිත විද්‍යාපීඨ ගුරුවරුන් 400ක්ද මෙයට අන්තර්ගතවනු ඇත.
+
+◼️
+
+[Data](articles/06deb928.json)
 
 ---
 
@@ -368,6 +506,8 @@ The SLPP legislator told reporters it’s not fair that individual members expre
 
 [Data](articles/8f3b92cf.json)
 
+[Extended Data](ext_articles/8f3b92cf.ext.json)
+
 ---
 
 ### Change in the price of milkma
@@ -405,6 +545,8 @@ Sri Lanka is seeking to expand on trade agreements to facilitate exports of good
 ◼️
 
 [Data](articles/b2247174.json)
+
+[Extended Data](ext_articles/b2247174.ext.json)
 
 ---
 
@@ -582,6 +724,8 @@ Nearly 2 million people are entitled to welfare benefits, and the second phase i
 
 [Data](articles/3e7ed719.json)
 
+[Extended Data](ext_articles/3e7ed719.ext.json)
+
 ---
 
 ### Draft Bill facilitating Parate Law suspension to be gazetted
@@ -675,6 +819,8 @@ The new faculty will be able to enroll 500 local and foreign students annually f
 ...
 
 [Data](articles/ebcbc5e8.json)
+
+[Extended Data](ext_articles/ebcbc5e8.ext.json)
 
 ---
 
@@ -1047,6 +1193,8 @@ Coconut shells were 28,000 to 30,000 rupees a metric ton up from last week’s 2
 ◼️
 
 [Data](articles/1c1a1a35.json)
+
+[Extended Data](ext_articles/1c1a1a35.ext.json)
 
 ---
 
@@ -1624,6 +1772,8 @@ That amount of tax is levied only for the purpose of protecting the local produc
 
 [Data](articles/52b323e8.json)
 
+[Extended Data](ext_articles/52b323e8.ext.json)
+
 ---
 
 ### No tax on 92% of sanitary towels
@@ -2139,159 +2289,5 @@ Two shops killed in two shots in Pitigala and Ambalangoda were killed and six pe
 [Data](articles/ac26df50.json)
 
 [Extended Data](ext_articles/ac26df50.ext.json)
-
----
-
-### Couple abducted
-
-*2024-03-12 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194401) · `si`
-
-A couple was abducted in Kadukkotte, assaulted, and left seriously injured. The incident involved a motorcycle, a group of resentment, and a hospital visit. Police are investigating.
-
-🟩
-
-A couple abducted a couple abducted by a group of people in Kadukkotte and the man was assaulted by sharp weapons.
-
-The incident was reported yesterday (11) at night, police said.
-
-When the deceased and his wife was traveling with a motorcycle, a group of resentment with the deceased was near a car near Ponna Mala Junction.
-
-The deceased has been turned to the motorbike and has been driven to the Navy checkpoint.
-
-They came after them and had been abducted with the abductor and his wife motorbikes, and later had left the woman.
-
-The deceased has been severely wounded by sharp decades and took seriously injured in a motor vehicle to the Kottu Kutu hospital.
-
-The injured had been admitted to the Jaffna Hospital for further treatment.
-
-Kadukkotte police are conducting further investigations into the murder.
-
-◼️
-
-[Data](articles/b8a57324.json)
-
-[Extended Data](ext_articles/b8a57324.ext.json)
-
----
-
-### Government’s push for electoral change raises eyebrows
-
-*2024-03-12 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governments-push-for-electoral-change-raises-eyebrows/108-278680) · `en`
-
-Colombo, March 12 (Daily Mirror) - Ahead of the pending national elections, the government has made fresh attempts to bring about changes to the parliamentary election system by seeking to amend the Parliamentary Elections Act, a Minister said.
-
-Justice Minister Wijeyadasa Rajapakshe presented a Cabinet paper last week seeking to introduce a mixed electoral system. Under the new system, 160 MPs will be elected under the First Past the Post System and 1nother 65 MPs under proportional representation.
-
-Under FPTP, the candidate who receives the most votes in a local constituency wins a seat in the House. By contrast, PR is the idea that parties' seats in Parliament should be allocated so that they are in proportion to the number of votes cast.
-
-...
-
-[Data](articles/b06bf05d.json)
-
-[Extended Data](ext_articles/b06bf05d.ext.json)
-
----
-
-### Government’s push for electoral change raises eyebrows
-
-*2024-03-12 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Governments-push-for-electoral-change-raises-eyebrows/155-278680) · `en`
-
-Colombo, March 12 (Daily Mirror) - Ahead of the pending national elections, the government has made fresh attempts to bring about changes to the parliamentary election system by seeking to amend the Parliamentary Elections Act, a Minister said.
-
-Justice Minister Wijeyadasa Rajapakshe presented a Cabinet paper last week seeking to introduce a mixed electoral system. Under the new system, 160 MPs will be elected under the First Past the Post System and 1nother 65 MPs under proportional representation.
-
-Under FPTP, the candidate who receives the most votes in a local constituency wins a seat in the House. By contrast, PR is the idea that parties' seats in Parliament should be allocated so that they are in proportion to the number of votes cast.
-
-...
-
-[Data](articles/d63eeacb.json)
-
-[Extended Data](ext_articles/d63eeacb.ext.json)
-
----
-
-### IMF increases bailout access to 600-pct from 200-pct of member quota
-
-*2024-03-12 06:22:00* · [`economynextcom`](https://economynext.com/imf-increases-bailout-access-to-600-pct-from-200-pct-of-member-quota-154161/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has increased normal access to its funds to 600 percent of the quota for member countries from the current 200 percent for at least 12 months amid global economic turmoil.
-
-Many countries are experiencing currency trouble of external default after a spurious economic doctrines over the past decade, while floating rate nations are experiencing fiscal trouble as inflationary policy is scaled back.
-
-“The increase was initially approved in March 2023 for a period of 12 months, ending on March 5, 2024,” the IMF said in a statement.
-
-“The extension takes place in the context of the still uncertain global economic environment, and the need for a smooth transition to the comprehensive review of the GRA access limits planned for the second half of 2024.”
-
-IMF Executive Board Extends Temporary Increase in Access Limits Under the General Resources Account
-
-...
-
-[Data](articles/4d0d9420.json)
-
-[Extended Data](ext_articles/4d0d9420.ext.json)
-
----
-
-### Showers or thunderstorms
-
-*2024-03-12 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194399) · `si`
-
-Showers or thundershowers expected in Kalutara, Ratnapura, Galle, Matara, Ampara, Batticaloa, Hambantota, and parts of Western, Sabaragamuwa, and Uva provinces today.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Kalutara, Kalutara, Ratnapura, Galle and Matara districts today (12).
-
-The department states that several showers can occur in the morning in Ampara, Batticaloa and Hambantota districts.
-
-The Department of Meteorology added that in some places in the Western, Sabaragamuwa and Uva provinces and in the Galle and Matara districts, the Met Department added.
-
-◼️
-
-[Data](articles/09046d56.json)
-
-[Extended Data](ext_articles/09046d56.ext.json)
-
----
-
-### Tragic death of 16-year-old schoolboy during marathon race
-
-*2024-03-12 06:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tragic-death-of-16-year-old-schoolboy-during-marathon-race/108-278679) · `en`
-
-A 16-year-old schoolboy has died in Ampara after collapsing while participating in a marathon race held at the Tirukkovil Methodist Central College yesterday morning, police said.
-
-The student had collapsed during the marathon and was admitted to the Tirukkovil Hospital. He was later transferred to the Akkaraipattu Hospital for further treatment, where he was pronounced dead.
-
-The event was held as part of the inter-house sports meet at the school premises.
-
-Following the incident, a tense situation was reported after a group of school students and local residents protested by blocking the road in front of the hospital, alleging that the sick student was not treated.
-
-Later, the Police and the Special Task Force (STF) were deployed to diffuse the situation after it turned violent, with some protestors pelting stones at the hospital
-
-◼️
-
-[Data](articles/d7861980.json)
-
-[Extended Data](ext_articles/d7861980.ext.json)
-
----
-
-### Top Sri Lanka electricity sector official, Lashitha Weerasinghe passes away
-
-*2024-03-12 05:50:00* · [`economynextcom`](https://economynext.com/top-sri-lanka-electricity-sector-official-lashitha-weerasinghe-passes-away-154184/) · `en`
-
-ECONOMYNEXT – Lakshitha Weerasinghe, Deputy General Manager, Research and Development, at state-run Ceylon Electricity Board, has passed away, friends said.
-
-Colleagues say he had an enduring desire to reduce costs and give low prices to the public, by taking a systems approach and optimizing various options including the generation mix and emerging technologies to make the utility more cost-effective.
-
-Weerasinghe has tried to explain the complex workings of power utilities, at various public forums, in a bid to clear up common mis-understandings about a sector that operates under multiple dynamic priorities, dynamic conditions, and technical constraints.
-
-He has also presented papers and made presentations, at all times trying to increase public understanding by using less technical language and examples.
-
-...
-
-[Data](articles/67660cbd.json)
-
-[Extended Data](ext_articles/67660cbd.ext.json)
 
 ---

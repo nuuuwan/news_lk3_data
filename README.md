@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 19:50:46**
+As of **2024-03-12 20:02:53**
 
 ## Newspaper Stats
 
-*Scraped **12,463** Articles*
+*Scraped **12,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,152 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 664
 islandlk | 677
-adalk | 1,066
+adalk | 1,067
 adaderanalk | 1,502
 tamilmirrorlk | 1,514
-virakesarilk | 1,724
-dailymirrorlk | 1,897
-adaderanasinhalalk | 1,968
+virakesarilk | 1,725
+dailymirrorlk | 1,899
+adaderanasinhalalk | 1,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,460 (100.0%) of 12,463 articles have been extended.
+12,463 (100.0%) of 12,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### பிரதம செயலாளர்கள் நியமனம்
+### SJB to seek nutrition package from IMF next week: Sajith
+
+*2024-03-12 19:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-seek-nutrition-package-from-IMF-next-week-Sajith/108-278714) · `en`
+
+Colombo, March 12 (Daily Mirror)- Whilst revealing that the Samagi Jana Balawegaya (SJB) will meet IMF officials next week, Leader of Opposition Sajith Premadasa today said his party will request for IMF assistance for a nutrition package for women and school children.
+
+Premadasa who was speaking during a ceremony held at Malwana MV in Dompe said his party would focus on seeking assistance from IMF to get rid of malnutrition of Sri Lankan women and children.
+
+“A census conducted in the year 2022 has revealed that around 25 percent of Sri Lankan school children are under weight. Also it has been found out that Sri Lankan women do not get sufficient food. This is why we are going to seek a nutrition package from the IMF next week,” Mr. Premadasa said.
+
+“We will also inform IMF to team up with other international financial agencies such as World Bank and Asian Development Bank (ADB) to introduce an assistance package to provide free midday meals for school children,” he added.
+
+...
+
+[Data](articles/2f9f32af.json)
+
+---
+
+### මට්ටක්කුලියේ වෙඩිතැබීමක්
+
+*2024-03-12 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194434) · `si`
+
+මට්ටකුලිය ප්‍රදේශයේ අද පස්වරුවේ වෙඩිතැබීමක් සිදුකර ඇති බව පොලීසිය පවසයි.
+
+කෙසේ වෙතත් පොලීසිය වැඩිදුරටත් පවසන්නේ එම වෙඩිප්‍රහාරයෙන් කිසිවෙකුටත් තුවාල සිදුව නොමැති බවය.
+
+අද පස්වරුවේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් මට්ටකුලිය අලිවත්ත ප්‍රදේශයේ මෙම වෙඩිතැබීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/562d91da.json)
+
+---
+
+### வாகரையில் ஓரங்கட்டப்பட்ட ஆதிவாசி சமூகம் எதிர்நோக்கும் பிரச்சினைகளுக்குத் தீர்வு காணும் நடவடிக்கைகள்
+
+*2024-03-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178561) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் வாகரைப் பிரதேசத்தில் வாழும் குஞ்சங்குளம் ஆதிவாசி சமூகம் எதிர்கொள்ளும் பிரச்சிகைனகளுக்குத் தீர்வு காணும் செயல்திட்டத்தின் கீழ் நடவடிக்கைகள் எடுக்கப்பட்டு வருவதாக விழுது ஆற்றல் மேம்பாட்டு மையம் நிறுவனத்தின் நிருவாக  அலுவலர் கந்தன் நிர்மலா தெரிவித்தார்.
+
+விழுது நிறுவனத்தின் வழிகாட்டலின் கீழ் ஸ்கோப் திட்டத்தின் மும்மத இளையோர் முன்வந்து ஓரம் கட்டப்பட்டுள்ள குஞ்சங்குளம் ஆதிவாசி சமூகத்தினரின் பிரச்சினைகளை வெளிக்கொணர்ந்து ஏனைய சமூகத்துடன் அவர்களை ஒன்றிணைத்து வாய்ப்புக்கள் மற்றும் வளங்களையும் பெற்று நிலைபேறான நல்லிணக்கத்தினை மக்கள் மத்தியில் உருவாக்குதல் இத்திட்டத்தின் நோக்கம் என்று அவர் மேலும் தெரிவித்தார்.
+
+“ஓரங்கட்டப்பட்ட குஞ்சங்குளம் ஆதிவாசி சமூகத்திற்கான இளையோரின் குரல்” எனும் நிகழ்ச்சித் திட்டம் செவ்வாய்க்கிழமை (12) மாலை குஞ்சங்குளம் ஆதிவாசிகள் கிராமத்தில் இடம்பெற்றது.
+
+...
+
+[Data](articles/167a89c4.json)
+
+---
+
+### Chief Secretaries Appointment
 
 *2024-03-12 19:32:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதம-செயலாளர்கள்-நியமனம்/175-334568) · `ta`
 
-வட மாகாண பிரதமச் செயலாளராக எல். இளங்கோவனும், வடமேல் மாகாண பிரதமச் செயலாளராக தீபிகா கே குணரத்னவும் நியமிக்கப்பட்டுள்ளனர்.
+Ilangovan and Deepika Ke Gunaratne appointed as Chief Secretaries of North Western Province.
 
-அவர்களுக்கான நியமனக் கடிதங்களை ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஜனாதிபதி செயலகத்தில் வைத்து இன்று (12) கையளித்தார்.   R
+🟩
+
+The Northern Province is the Chief Secretary. Ilangovan and Deepika Ke Gunaratne have been appointed as the Chief Secretary of the North Western Province.
+
+The President's Secretary Saman Ekanayake handed over their appointment letters to the Presidential Secretariat today.R
 
 ◼️
 
 [Data](articles/1df43558.json)
 
+[Extended Data](ext_articles/1df43558.ext.json)
+
 ---
 
-### මරණයට මොහොතකට පෙර වෙඩික්කරු සියල්ල වමාරයි
+### The shooter is everything for a moment before death
 
 *2024-03-12 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194433) · `si`
 
-ගම්පහ මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයකදී හිමි නමක් ඝාතනය කිරීමේ සිද්ධියට අත්අඩංගුවට ගත් වෙඩික්කරු ඊයේ පොලිස් වෙඩි ප්‍රහාරයකින් මියගොස් තිබුණි.
+The shooter, Kumara, arrested in Gampaha, confessed to murdering Kalhara Dilshan and killing Dilanhanga Ranga for a gem. The Peliyagoda Criminal Division's interrogation revealed the suspect was shot by police in a firearm incident.
 
-සැකකරු කමන්ඩෝ බලකායේ සේවය කර 2017දී ඉන් ඉවත් වූ කල්හාර දිල්ෂාන් නම් කුලී ඝාතකයෙකි.
+🟩
 
-ඔහු 2023 ජූලි 20 වැනිදා තලංගම වැලිපාර ප්‍රදේශයේදී ඩිලාන් රංග නැමැත්තා ඝාතනය කිරීම, 2023  නත්තල් දා  පාදුක්කේදී මන්නා රෝෂාන් සහ තවත් අයෙක් ඝාතනය කිරීම, 2023 සැප්තැම්බර් 25 වනදා මීගොඩ ලී බඩු වෙළඳසැලකින් රුපියල් ලක්ෂ 78ක් කොල්ලකෑම ඇතුළු අපරාධ රැසකට සම්බන්ධ අයෙකි.
+The shooter was arrested by the shooter in the Malwathuhiripitiya area in Gampaha yesterday.
 
-ලැඩා නැමැත්තා ලබාදුන් කොන්ත්‍රාත්තුවක් මත,  නිධානයකින් ලබාගත් මැණිකක් ලබාගැනීමේ අරමුණින් අදාළ භික්ෂුව ඝාතනය කළ බව ඔහු පොලිසියට පවසා තිබේ.
+Kumara was a murderer of Kalhara Dilshan, who served in the Kamando Force in 2017.
 
-පෑලියගොඩ අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂවරයා උපදෙස් මත එහි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පී.එස්. පතිරාජසූරිය හා ප්‍රධාන පොලිස් පරීක්ෂක එස්.ඩී.කේ ජයසේකර යන මහත්වරුන්ගේ උපදෙස් මත විමර්ශන ක්‍රියාත්මකය.
+He is associated with a number of crimes including killing Dilanhanga Ranga in Talangama Weliwita on July 20, 2023, on the 20th of 2023 at a cost of robbery.
 
-...
+He has told the police that the monk has been assassinated with the objective of obtaining a gem of treasure.
+
+Director of the Peliyagoda Criminal Division, its OIC Chief Inspector PS. Pathirajuriya and Chief Inspector of Police SDK Jayasekera operate on instructions.
+
+In the interrogation of the suspect arrested by the Peliyagoda Criminal Division, he has said that the Attanagalla court was hearing firearms to the Ugbala area in the Attanagalla court.
+
+According to the police, the suspect was shot dead by the firearm and the police had shot towards the officials hidden when the suspect had gone to the area last night.
+
+◼️
 
 [Data](articles/fa80e195.json)
 
+[Extended Data](ext_articles/fa80e195.ext.json)
+
 ---
 
-### කැනඩා ඝාතන සිද්ධියේදී ඔටාවා පොලීසියට වැරදිලා
+### Ottawa police missed in Canada murder
 
 *2024-03-12 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194432) · `si`
 
-ඔටාවාහි ශ්‍රී ලාංකිකයින් 6 දෙනෙක් ඝාතනය කිරීමේ සිද්ධියේදී ඔටාවා පොලීසිය විසින් වැරදි ලෙස සන්නිවේදනයන් කිහිපයක් සිදුකර තිබේ.
+Ottawa Police made several communication errors in the case of the murder of 6 Sri Lankans, including incorrect reporting of the time of the emergency call and the suspect's name. The Canadian government's CBC reported these mistakes, highlighting the complexity of police investigations and communication issues.
 
-සීබීසී හෙවත් කැනේඩියානු රාජ්‍ය ගුවන් විදුලි සහ රූපවාහිනි ආයතනය මේ පිළිබඳව වාර්තාවක් අද ඉදිරිපත් කළේය.
+🟩
 
-කැනඩාවේ, ඔටාවා අගනුවරට ආසන්නයේ පිහිටි බාර්හෙවන් ප්‍රදේශයේ සිය නිවස තුළ ශ්‍රී ලාංකික මවක් සහ ඇයගේ දරුවන් සිව්දෙනා සහ තවත් ශ්‍රී ලාංකිකයෙකු විසින් ඝාතනය කර එම කාන්තාවගේ ස්වාමියාට බරපතළ තුවාල සිදුකිරිමක් වාර්තාවුණේ පසුගිය බදාදා දින රාත්‍රීයේදීය.
+The Ottawa Police have committed several communications in the case of killing 6 Sri Lankans in Ottawa.
 
-එය ඔටාවා හී මෑත ඉතිහාසයේ සිදුවු දරුණුතම සමූහ ඝාතනය වන අතර මේ සම්බන්ධයෙන් කරුණු වාර්තාකිරීමේදී ඔටාවා පොලීසිය වැරදි කිහිපයක් සිදුකර තිබේ.
+CBC or Canadian government radio and television presented a report today.
 
-කැනේඩියානු රාජ්‍ය ගුවන් විදුලි සහ රූපවාහිනි ආයතනය වාර්තා කළේ, ඔටාවා පොලීසිය සිදුකර ඇති පළමු වැරැද්ද වන්නේ මෙම සිද්ධිය වෙඩි තබා සිදුකළ සමූහ ඝාතනයක් ලෙස හැදින්වීමය.
+The woman was killed in his home and the four children in their home, near the capital, Canada, near the capital of Ottawa capital.
 
-පසුව එය තියුණු ආයුදයක් යොදාගෙන සිදුකළ ඝාතනයක් බව ඔටාවා පොලිසිය නිවැරදි කළේය.
+It is the worst mass of the most recent mass in recent history and in reporting this, the Ottawa Police have made several mistakes.
 
-පොලීසිය මුලින් සඳහන් කළේ හදිසි ඇමතුම් අංශයට සිද්ධිය වාර්තාවුයේ ඔටාවා වේලාවෙන් රාත්‍රී 10.52කට බවය.
+The Canadian State Broadcasting and Television, reported the first mistake of Ottawa police is the first mistake of the Ottawa Police as a massive killing.
+
+The Ottawa police corrected the police that it was a heavy transfer.
+
+The police initially stated that the emergency sector was reported to 10.52 pm in Ottawa Time.
+
+The officials of the Attorney General's Department told the court that the suspect had been arrested as at 11 pm.
 
 ...
 
 [Data](articles/7891965d.json)
+
+[Extended Data](ext_articles/7891965d.ext.json)
 
 ---
 
@@ -318,6 +392,24 @@ Meanwhile, the death toll of the war in Gaza in Gaza has increased to 31184 sinc
 
 ---
 
+### කුළුබඩු ප්‍රති අපනයන තීරණය අත්හිටුවයි
+
+*2024-03-12 18:04:07* · [`adalk`](https://www.ada.lk/breaking_news/කුළුබඩු-ප්‍රති-අපනයන-තීරණය-අත්හිටුවයි/11-408571) · `si`
+
+ගම්මිරිස් ඇතුළු කුළුබඩු වර්ග කිහිපයක් ප්‍රතිඅපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර ලබා දීමට රජය විසින් පළ කළ ගැසට් නිවේදනය අත්හිටුවීමට තීරණය තීරණය කර තිබේ.
+
+කුළුබඩු ප්‍රතිඅපනයනය සඳහා ආනයනයට  අවසර දීම මගින් දේශීය කුළුබඩු ගොවියා අධෛර්මත්වන බවටත්, ඒ හේතුවෙන් දේශීය කුළුබඩු නිෂ්පාදන වගාව කඩා වැටෙන බවටත් පෙන්වා දෙමින් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා විසින් ඊයේ (11දා) පැවති අමාත්‍ය මණ්ඩල රුස්වීමේදී අදාල ගැසට් නිවේදනයට විරුද්ධත්වය පළ කර ඇත.
+
+ෙඑසේම ඔහු එහිදී වැඩිදුරටත් පෙන්වා දී ඇත්තේ‍ 'ලොව හොඳම කුළුබඩු' ලෙස සන්නාම අතර පළමු ස්ථානයේ සිටින ශ්‍රී ලංකාවේ කුළුබඩු වල ප්‍රමිතිය සඳහා මෙමගින් ප්‍රබල බලපෑමක් එල්ල වන බවයි.
+
+ඒ අනුව ගම්මිරිස්, සාදික්කා, වසාවාසි, කහ , ඉඟුරු , හා කරදමුංගු ආදි ශ්‍රී ලංකාවේ වැවෙන කුළුබඩු වර්ග කිහිපයක් ප්‍රති අපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර දෙමින් පසුගියදා නිකුත් කරන ලද ගැසට් නිවේදනයක් අත්හිටුවීමට රජය තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/8d0fdf48.json)
+
+---
+
 ### Father remanded for attacking wife
 
 *2024-03-12 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194428) · `si`
@@ -491,6 +583,18 @@ A bond maturing on 01.07.2032 closed at 12.50/80 percent from down 12.60/90 perc
 [Data](articles/8c1b03b2.json)
 
 [Extended Data](ext_articles/8c1b03b2.ext.json)
+
+---
+
+### New British envoy visits Gangaramaya Temple
+
+*2024-03-12 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/New-British-envoy-visits-Gangaramaya-Temple/110-278710) · `en`
+
+Newly appointed British High Commissioner to Sri Lanka Andrew Patrick visited the Gangaramaya Temple today to invoke blessings on his new appointment. During the visit, Deputy Incumbent of the temple Ven. Dr. Kirinde Assaji Thera presented the High Commissioner with the book “Twentieth Century Impressions of Ceylon" published by the Gangaramaya Temple. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/4956dca0.json)
 
 ---
 
@@ -2181,133 +2285,5 @@ Semasinghe said he had discussions with officers of the Samurdhi Development Dep
 [Data](articles/d9a76834.json)
 
 [Extended Data](ext_articles/d9a76834.ext.json)
-
----
-
-### Draft Bill facilitating Parate Law suspension to be gazetted
-
-*2024-03-12 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97892/draft-bill-facilitating-parate-law-suspension-to-be-gazetted) · `en`
-
-The Cabinet of Ministers has given its approval to publish the Draft Bill of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990, which was amended to facilitate legal provisions for the suspension of Parate Law.
-
-Cabinet’s approval comes after the Attorney General cleared the Bill drafted by the Legal Draftsman.
-
-Accordingly, the Draft Bill of the Loans by Banks (Special Provisions) Act will subsequently be tabled in Parliament for approval.
-
-At its meeting convened on February 26, the Cabinet of Ministers green-lighted a proposal made by President Ranil Wickremesinghe, in his capacity as the Finance Minister, to suspend the Parate Law until December 15, 2024.
-
-As per the Cabinet’s decision, the banks’ practice of acquiring properties of whose loans are yet to be paid off will be suspended until December 15 and Section 4 of the Recovery of Loans by Banks (Special Provisions) Act No. 4 of 1990 will be amended to facilitate the necessary legal provisions.
-
-...
-
-[Data](articles/8e05b30e.json)
-
-[Extended Data](ext_articles/8e05b30e.ext.json)
-
----
-
-### NSBM has a medical faculty
-
-*2024-03-12 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194413) · `si`
-
-NSBM plans to establish a Medical Faculty offering MBBS degrees, with annual recruitment of 500 local and foreign students. The institute seeks government hospital status for clinical training, supported by Cabinet approval for Homagama Institute development.
-
-🟩
-
-The National Institute of Business Management (NSBM) has been proposed to establish a Medical Faculty and provide a MBBS degree.
-
-It is to be awarded the Medicine Degree under the Ministry of Education, the Ministry of Health and the Sri Lanka Medical Council.
-
-Annually 500 local and foreign students will be recruited annually to the degree program.
-
-The NSB has requested the approval to be allocated as a government hospital to provide clinical training for these medical students.
-
-Cabinet approval has already been provided to the clinical training of the Homagama Institute of Medical Students, as well as the development of the Homagama Institute of Medical Faculty, as well as the development of the Homagama Institute of Medical Faculty has been allocated for the development of the Homagama Institute.It is proposed to prepare a giving mechanism.
-
-NSBM has agreed to provide funds for the development of Homagama Base Hospital in accordance with the Sri Lanka Medical Education Standards Standards.
-
-...
-
-[Data](articles/4f04b39b.json)
-
-[Extended Data](ext_articles/4f04b39b.ext.json)
-
----
-
-### What causes the death of the dead student during a marathon of Tirukkovil?
-
-*2024-03-12 12:13:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8v3gz9p372o) · `si`
-
-The death of a 16-year-old student during a marathon in Tirukkovil was due to a sudden illness. The student collapsed and died near the end of the race. The incident sparked controversy due to delays in medical attention at Thirukkovil Hospital.
-
-🟩
-
-What causes the death of the dead student during a marathon of Tirukkovil?
-
-Thirukkovil Methan Methan Mission Mission Mission Mission Mission Mission Mission Mission Mission Mission Tamil Maha Vidyalaya was caused by a sudden illness in a marathon.
-
-Residents also opposed the delay, including the delay in the Thirukkovil Hospital, held in the Thirukkovil Hospital.
-
-The post mortem examination of the 16-year-old Jeyakumar Vidyalaya's death was held today (March 12) by the Judicial Medical Specialist at Ampara General Hospital.
-
-What causes the death of this student?BBC had an inquiry on the matters.
-
-Tintukkovil Metroadshe Mission Mission was organized to conduct an Inter-Sports Festival.
-
-The marathon (March 11) was held in the morning. About 30 children were to publish about 30 children in this marathon.
-
-Sports Dr. Jan.Kara Dr. Wamed The children were taken to the Thirukkovil Hospital and tested the health of the children before the match.
-
-...
-
-[Data](articles/26c320b0.json)
-
-[Extended Data](ext_articles/26c320b0.ext.json)
-
----
-
-### The wife is abducted and cut into death and murdered
-
-*2024-03-12 12:07:13* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳත්-සමගින්-යමින්-සිටියදී-පැහැරගෙන-ගොස්-කපාකොට-ඝාතනය-කරලා/11-408555) · `si`
-
-A 24-year-old man from Wadukkoddai was killed and severely wounded by a group in Jaffna, then taken to Kottu Kutu hospital before being admitted to Jaffna Hospital. Investigations are ongoing by the Kadukkoddai Police and the Jaffna Division Criminal Investigation Unit.
-
-🟩
-
-A young man was killed by a group of people in the Vadukkoddda area in Jaffna yesterday (11), police said.
-
-The young man had gone to Kadukkodai to Karainagar and had a young man to parked the car.
-
-The deceased has been severely wounded by sharp decades and took seriously injured in a motor vehicle to the Kottu Kutu hospital.The injured had been admitted to the Jaffna Hospital for further treatment.
-
-The victim is a 24 year old resident of Wadukkoddai. The Kadukcounddai Police and the Jaffna Division Criminal Investigation Unit have already begun investigations by the Criminal Investigation Unit, police said.
-
-◼️
-
-[Data](articles/5f3ca696.json)
-
-[Extended Data](ext_articles/5f3ca696.ext.json)
-
----
-
-### Sri Lanka NSBM university to get medical faculty
-
-*2024-03-12 12:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-nsbm-university-to-get-medical-faculty-154256/) · `en`
-
-ECONOMYNEXT – A Faculty of Medicine is to be established at the National School of Business Management, in Homagama, Cabinet spokesman Bandula Gunawardena said.
-
-“A large number of our students are going abroad to study medicine,” Minister Bandula Gunawardena said Tuesday announcing the week’s Cabinet decisions.
-
-“It has been proposed to establish a medical faculty under the direct supervision and regulation of the Ministry of Education, the Ministry of Health and the Sri Lanka Medical Council at the National School of Business Management, a fully self-financed institution owned by the government and to award MBBS degrees through it.”
-
-The new faculty will be able to enroll 500 local and foreign students annually for the degree course, Gunawardena said.
-
-“The Homagama Base Hospital will be upgraded to teaching hospital status, like the Kalubowila Hospital, for the undergraduates’ clinical training (sa-ya-ni-ka pu-hu-nu-wa).”
-
-...
-
-[Data](articles/ebcbc5e8.json)
-
-[Extended Data](ext_articles/ebcbc5e8.ext.json)
 
 ---

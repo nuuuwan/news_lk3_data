@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 08:02:50**
+As of **2024-03-12 08:18:00**
 
 ## Newspaper Stats
 
-*Scraped **12,289** Articles*
+*Scraped **12,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 676
 adalk | 1,046
-adaderanalk | 1,483
+adaderanalk | 1,484
 tamilmirrorlk | 1,494
 virakesarilk | 1,687
 dailymirrorlk | 1,872
-adaderanasinhalalk | 1,939
+adaderanasinhalalk | 1,940
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,288 (100.0%) of 12,289 articles have been extended.
+12,289 (100.0%) of 12,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Showers expected in several districts
+
+*2024-03-12 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97884/showers-expected-in-several-districts) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Colombo, Kalutara, Ratnapura, Galle and Matara districts in the evening or night.
+
+A few showers are likely in Ampara, Batticaloa and Hambantota districts during the morning.
+
+Mainly dry weather will prevail in the other areas of the island, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/0e36b0eb.json)
+
+---
+
+### මන්ත්‍රී නිවසට කඩා වැදුනු ලොරිය
+
+*2024-03-12 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194404) · `si`
+
+රියැදුරෙකු නොමැතිව ධාවනය වු ලොරි රථයක් පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ මහතාගේ නිවසට කඩා වැදී තිබේ.
+
+ඒ හේතුවෙන් මන්ත්‍රීවරයාගේ නිවසට හානි සිදු වී ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+
+ඊයේ (11) රාත්‍රි 8.00ට පමණ රියැදුරෙකු නොමැතිව ධාවනය වු ලොරි රථයක් මන්ත්‍රීවරයාගේ නිවසට කඩා වැදී ඇත.
+
+එම අනතුර සිදුවන අවස්ථාවේ මන්ත්‍රීවරයා නිවසේ නොසිටි අතර ඊට විනාඩි කිහිපයකට පෙර රාජකාරී කටයුත්තට කොළඹ බලා පිටව ගොස් තිබේ.
+
+මෙම ලොරි රථය එම නිවසට ඉහළින් ඇති මාර්ගයේ නතර කර තිබියදී එක වරම පහළට ධාවනය වී තිබේ.
+
+◼️
+
+[Data](articles/7e17d5fd.json)
+
+---
 
 ### Upcountry mask dress is a decision to make a World Heritage
 
@@ -232,23 +270,29 @@ The suspects arrested for drugs related to drugs include 18 suspects from the li
 
 ---
 
-### උතුරේ හමුදා කඳවුරු සීමා තුළ නිදහස් නොකළ ආගමික ස්ථාන  කීයක් තිබේද?
+### How many religious places are there not released on military camps in the North?
 
 *2024-03-12 02:07:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2y77qzwy1o) · `si`
 
-උතුරේ හමුදා කඳවුරු සීමා තුළ නිදහස් නොකළ ආගමික ස්ථාන  කීයක් තිබේද?
+The text discusses the issue of religious places and lands in military camps in the North, particularly in Jaffna and Mullaitivu districts. It highlights the restrictions on civilians' access to these places for nearly 34 years and the ongoing efforts by local authorities and religious leaders to have these lands released. The text also mentions the involvement of the military in allowing certain religious activities in these areas.
 
-වසර 34 කට ආසන්න කාලයක් උතුරේ හමුදා කඳවුරු සීමා තුළ පැවති සිවිල් ජනතාව භාවිතා කළ කෝවිල් හතක පූජා පැවැත්වීම සඳහා පමණක් ගමන් කිරීමට යුද හමුදාව පසූගියදා යාපනය වලිකාමම් ජනතාවට අවසර ලබා දී තිබුණි.
+🟩
 
-උතුරු සහ නැගෙනහිර පළාත්වල ජනතාව බලධාරීන්ගෙන් ඉල්ලා සිටින්නේ  හමුදා කඳවුරු ආශ්‍රිතව පිහිටි කෝවිල් හා කතෝලික දේවස්ථාන ආශ්‍රිත ඉඩම් මුදා හරින ලෙසය.
+How many religious places are there not released on military camps in the North?
 
-සතියකට එක් දිනක් හා කෝවිල්වල විශේෂ පූජාවන් පැවැත්වෙන අවස්ථාවන්හි දී පමණක් කෝවිල් සීමාව වෙත සිවිල් ජනතාව වෙත ගමන් කිරීමට අවසර ලබාදී ඇති අතර යාපනය දිස්ත්‍රික් ලේකම් කාර්යාලයේ ලියාපදිංචි අවසරයක් ලබා ගැනීමෙන් පසුව, යුදහමුදා පරීක්ෂා කිරීම්වලින් අනතුරුව කෝවිල් පූජාවන් වෙනුවෙන් සීමිත පිරිසකට ගමන් කිරීමට අවසරය ලබාදී ඇති බව වලිකාමම් ජනතාව පවසති.
+Nearly 34 years, the Thaikamam people were permitted to travel only to the sacrifices of the civilians in the North for nearly 34 years.
 
-කෝවිල් තුළ පූජාවන්ට අවශ්‍ය භාණ්ඩ පමණක් රැගෙන යාමට අවසරය ලබාදී ඇති අතර, තමන්ගේ දුරකථන පවා යාපනය අධි ආරක්ෂිත කලාපය තුළ පිහිටි කෝවිල් තුළට රැගෙන යාමට අවසර නොලැබෙන බව වලිකාමම් ජනතාව ප්‍රකාශ කළහ.
+The people of the Northern and Eastern Provinces are urged the authorities to release the land related to Kovil and Catholic Church in the military camps.
+
+The temples have been allowed to move to the civilians to the civilians only in the event of a special sacrifice of the Kovil and the Jaffna District Secretariat.Says.
+
+Valuamam also stated that although the sacrifices needed to carry sacrifices in Kovil allowed the sacrifices.
 
 ...
 
 [Data](articles/93fe6277.json)
+
+[Extended Data](ext_articles/93fe6277.ext.json)
 
 ---
 
@@ -2155,53 +2199,5 @@ Accordingly, the recently opened solar power plant with 20 MW of electricity in 
 [Data](articles/3337cb7b.json)
 
 [Extended Data](ext_articles/3337cb7b.ext.json)
-
----
-
-### Six months show progress to Sri Lanka
-
-*2024-03-11 16:52:55* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකන්-වෙත-ප්‍රගතිය-පෙන්වන්න-මාස-හයක්-දෙයි/11-408544) · `si`
-
-Sri Lanka's Porturning and Aviation Minister Nimal Siripala de Silva highlighted the government's progress in the next six months, including financial relief and restructuring SriLankan Airlines. The minister expects employment stability for about 6,000 people and the deployment of 16 aircrafts, with 16 long and 29 short destinations.
-
-🟩
-
-Porturning and Aviation Minister Nimal Siripala de Silva said that the government should show Sri Lankans on the next six months with financial relief from the government..
-
-The Minister was speaking in a discussion with the administration of the Government's current progress and the trade union members of the current progress.
-
-Last time, Sri Lankans launched aviation and criticism of the airline operations due to the bugs and obstacles caused by the airborne passengers.
-
-According to President Ranil Wickremesinghe proposal as the Finance Minister, he decided to pay the airline and pay US $ 510 million from US $ 1.2 billion in debt.
-
-...
-
-[Data](articles/ce08ca61.json)
-
-[Extended Data](ext_articles/ce08ca61.ext.json)
-
----
-
-### If you find this student, please information ...
-
-*2024-03-11 16:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/இந்த-மாணவனை-கண்டால்-உடன்-தகவல்-தாருங்கள்/72-334515) · `ta`
-
-Chandrasekhar Nilaj Rockshan, 17, from Achankulam village, Mannar, is missing. He left home yesterday afternoon and hasn't returned. Educated in Nanatan, contact 077-4722506 for information.
-
-🟩
-
-Chandrasekhar Nilaj Rockshan (age 17), a resident of Achankulam village in the Mannar - Nanatan Divisional Secretariat Division, has disappeared.
-
-Parents have lodged a complaint at the Murugan Police Station that the student who went out of his home in Achangulam village yesterday afternoon (10) had not returned home.
-
-It is reported that the missing student is educated at a popular school in Nanatan area.
-
-Parents asked for information about the student to contact 077-4722506. Remble
-
-◼️
-
-[Data](articles/640db7e3.json)
-
-[Extended Data](ext_articles/640db7e3.ext.json)
 
 ---

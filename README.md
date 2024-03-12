@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 23:17:44**
+As of **2024-03-12 23:33:26**
 
 ## Newspaper Stats
 
-*Scraped **12,492** Articles*
+*Scraped **12,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 641
 economynextcom | 664
 islandlk | 677
 adalk | 1,070
-adaderanalk | 1,507
+adaderanalk | 1,508
 tamilmirrorlk | 1,516
 virakesarilk | 1,730
 dailymirrorlk | 1,904
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,490 (100.0%) of 12,492 articles have been extended.
+12,492 (100.0%) of 12,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Main suspect in Buddhist monk’s killing was an ex-commando turned hitman - Police
+
+*2024-03-12 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97907/main-suspect-in-buddhist-monks-killing-was-an-ex-commando-turned-hitman-police) · `en`
+
+The main suspect in the murder of a Buddhist monk in Malwathu Hiripitiya was found to have been an ex-commando turned hitman, the police said on Tuesday (March 12). He was gunned down by police while attempting to escape custody.
+
+The deceased, identified as Kalhara Dilshan from Aralaganwila in Polonnaruwa, was reportedly complicit in a number of criminal activities including the murders of Dilan Ranga in Thalangama on 20 July 2023, “Manna Ramesh” and another person on 25 December 2023 in Padukka, the police said.
+
+Police said all suspects implicated in the murder were previously arrested except the main gunman. After finding out that the suspect was hiding in Monaragala, he was arrested by the Hambegamuwa Police on Monday (March 11) and handed over to the Colombo North Police Division for onward investigations.
+
+...
+
+[Data](articles/e7a59849.json)
+
+---
 
 ### President Ranil unveils plans to promote AI education at schools, invest in AI research
 
@@ -47,6 +63,8 @@ In his address, the President announced plans to promote AI education in schools
 ...
 
 [Data](articles/9f8607bb.json)
+
+[Extended Data](ext_articles/9f8607bb.ext.json)
 
 ---
 
@@ -85,6 +103,8 @@ The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena on dut
 ...
 
 [Data](articles/8858205f.json)
+
+[Extended Data](ext_articles/8858205f.ext.json)
 
 ---
 
@@ -2279,27 +2299,5 @@ We are holding the conference of the March 12, 2015 to clarify the operation of 
 [Data](articles/a526c0a4.json)
 
 [Extended Data](ext_articles/a526c0a4.ext.json)
-
----
-
-### Sri Lanka 100 MW power plant to Solar Forge Batticaloa
-
-*2024-03-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-100-mw-solar-power-plant-in-batticaloa-on-boo-basis-154305/) · `en`
-
-ECONOMYNEXT – Sri Lanka is to commission a 100 MW solar power plant in Oddamawadi, Batticaloa on a build, own and operate basis (BOO), Minister Bandula Gunawardena said.
-
-“The Cabinet of Ministers approved the proposal presented by the Minister of Power and Energy and taking the expressions of interest received into account, to award the project  to Solar Forge Batticaloa on a BOO basis for a 20-year operating period.”
-
-Gunawardena said the island was seeing much interest from foreign investors for solar power projects.
-
-Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri Lanka’s Power and Energy Minister said.
-
-“A 2 MW Ground Mount Solar Project in Batticaloa was opened this morning. The project under the 90 MW CEB tendering process was constructed and commissioned by BackBay Solar Private Ltd,” Kanchana Wijesekera said on X (twitter).
-
-...
-
-[Data](articles/e36c708c.json)
-
-[Extended Data](ext_articles/e36c708c.ext.json)
 
 ---

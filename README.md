@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 20:02:53**
+As of **2024-03-12 20:17:54**
 
 ## Newspaper Stats
 
-*Scraped **12,468** Articles*
+*Scraped **12,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 677
 adalk | 1,067
 adaderanalk | 1,502
 tamilmirrorlk | 1,514
-virakesarilk | 1,725
+virakesarilk | 1,726
 dailymirrorlk | 1,899
 adaderanasinhalalk | 1,969
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,463 (100.0%) of 12,468 articles have been extended.
+12,468 (100.0%) of 12,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### மக்கள் எழுச்சிப்போராட்டமே ஒரே வழி! - வேலன் சுவாமிகள் அறைகூவல்
+
+*2024-03-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178562) · `ta`
+
+எமக்கான நீதியினை அடைவதற்கு வடகிழக்கு தழுவிய மக்கள் எழுச்சிப்போராட்டமே ஒரே வழி என்று சிவகுரு ஆதீன முதல்வர் வேலன் சுவாமிகள் அறைகூவல் விடுத்துள்ளார்.
+
+வெடுக்குநாறிமலை வழக்கைப் பார்வையிடுவதற்காகச் செவ்வாய்க்கிழமை (12) வவுனியா வருகைதந்த அவர் நீதிமன்ற தீர்ப்பின் பின்னர் இவ்வாறு கருத்து தெரிவித்தார்.
+
+இலங்கை பொலிசாரின் அடாவடி அளவு கடந்து செல்கின்றது. கைது செய்யப்படுவதற்கான எந்தவிதமான நியாயமான காரணங்களும் இல்லாமல் பொய்யான வகையில் தொல்பொருட் திணைக்களத்தால் நீதிமன்றிற்கு அறிக்கை வழங்கப்பட்டுள்ளது.
+
+கைதுசெய்யப்பட்டவர்கள் சீரான உணவின்றி வேதனைகளை அனுபவித்து வருகின்றனர். அவர்களது உறவினர்கள் படும்பாட்டைப் பார்க்கும் போது வார்த்தைகள் வரவில்லை. இந்த சூழ்நிலையில் நாம் ஒரு மக்கள் எழுச்சிப்போராட்டத்தினை வடக்கு கிழக்கு தழுவிய வகையிலே விரைவில் ஒன்றுதிரண்டு ஏற்படுத்த வேண்டும். அதனூடகவே எமக்கான நீதியை நிலைநாட்ட முடியும் என்பது நிரூபிக்கப்பட்டிருக்கின்றது.
+
+...
+
+[Data](articles/1c479d9a.json)
+
+---
 
 ### SJB to seek nutrition package from IMF next week: Sajith
 
@@ -48,37 +66,51 @@ Premadasa who was speaking during a ceremony held at Malwana MV in Dompe said hi
 
 [Data](articles/2f9f32af.json)
 
+[Extended Data](ext_articles/2f9f32af.ext.json)
+
 ---
 
-### මට්ටක්කුලියේ වෙඩිතැබීමක්
+### Shooting Mattakkuliya shooting
 
 *2024-03-12 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194434) · `si`
 
-මට්ටකුලිය ප්‍රදේශයේ අද පස්වරුවේ වෙඩිතැබීමක් සිදුකර ඇති බව පොලීසිය පවසයි.
+Police reportedly shouted in Matulkuliya this afternoon, with no injuries. Two people on a motorbike were shot in Aliwauttawa.
 
-කෙසේ වෙතත් පොලීසිය වැඩිදුරටත් පවසන්නේ එම වෙඩිප්‍රහාරයෙන් කිසිවෙකුටත් තුවාල සිදුව නොමැති බවය.
+🟩
 
-අද පස්වරුවේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් මට්ටකුලිය අලිවත්ත ප්‍රදේශයේ මෙම වෙඩිතැබීම සිදුකර ඇත.
+Police have reportedly shouting in Matulkuliya this afternoon.
+
+However, the police further states that no one has been injured in that struggle.
+
+Two people from a motorbike have been shot in the Aliwauttawa area this afternoon.
 
 ◼️
 
 [Data](articles/562d91da.json)
 
+[Extended Data](ext_articles/562d91da.ext.json)
+
 ---
 
-### வாகரையில் ஓரங்கட்டப்பட்ட ஆதிவாசி சமூகம் எதிர்நோக்கும் பிரச்சினைகளுக்குத் தீர்வு காணும் நடவடிக்கைகள்
+### The Adivasi Society, which is marginalized in Vaharai, addresses the issues facing
 
 *2024-03-12 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178561) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் வாகரைப் பிரதேசத்தில் வாழும் குஞ்சங்குளம் ஆதிவாசி சமூகம் எதிர்கொள்ளும் பிரச்சிகைனகளுக்குத் தீர்வு காணும் செயல்திட்டத்தின் கீழ் நடவடிக்கைகள் எடுக்கப்பட்டு வருவதாக விழுது ஆற்றல் மேம்பாட்டு மையம் நிறுவனத்தின் நிருவாக  அலுவலர் கந்தன் நிர்மலா தெரிவித்தார்.
+The Adivasi Society in Vaharai is addressing issues with the help of the Vandu Energy Development Center. A program, "Voice of Youth for the Oranged Kunjangulam Adivasi Society," was held to unite the community and address land and housing problems. The Forest Department has occupied lands, and the community has faced difficulties for years, despite reporting to provincial authorities. The NGO has been active in various areas for decades.
 
-விழுது நிறுவனத்தின் வழிகாட்டலின் கீழ் ஸ்கோப் திட்டத்தின் மும்மத இளையோர் முன்வந்து ஓரம் கட்டப்பட்டுள்ள குஞ்சங்குளம் ஆதிவாசி சமூகத்தினரின் பிரச்சினைகளை வெளிக்கொணர்ந்து ஏனைய சமூகத்துடன் அவர்களை ஒன்றிணைத்து வாய்ப்புக்கள் மற்றும் வளங்களையும் பெற்று நிலைபேறான நல்லிணக்கத்தினை மக்கள் மத்தியில் உருவாக்குதல் இத்திட்டத்தின் நோக்கம் என்று அவர் மேலும் தெரிவித்தார்.
+🟩
 
-“ஓரங்கட்டப்பட்ட குஞ்சங்குளம் ஆதிவாசி சமூகத்திற்கான இளையோரின் குரல்” எனும் நிகழ்ச்சித் திட்டம் செவ்வாய்க்கிழமை (12) மாலை குஞ்சங்குளம் ஆதிவாசிகள் கிராமத்தில் இடம்பெற்றது.
+Kandan Nirmala, Administrative Officer of the Vandu Energy Development Center, said that steps are being taken under the project that will address the problems facing the Kunjangulam Adivasi community in the Vaharai area of the Batticaloa district.
+
+He added that the purpose of the program is to create the problems of the Kunjangulam Adivasi communities, which are under the guidance of the scoop company, to bring together the opportunities and resources of the people with the other community and create a restoration among the people.
+
+The program, "Voice of Youth for the Oranged Kunjangulam Adivasi Society" was held on Tuesday evening at Kunjangulam Adivasi village.
 
 ...
 
 [Data](articles/167a89c4.json)
+
+[Extended Data](ext_articles/167a89c4.ext.json)
 
 ---
 
@@ -392,21 +424,27 @@ Meanwhile, the death toll of the war in Gaza in Gaza has increased to 31184 sinc
 
 ---
 
-### කුළුබඩු ප්‍රති අපනයන තීරණය අත්හිටුවයි
+### Spicy re-export decision suspended
 
 *2024-03-12 18:04:07* · [`adalk`](https://www.ada.lk/breaking_news/කුළුබඩු-ප්‍රති-අපනයන-තීරණය-අත්හිටුවයි/11-408571) · `si`
 
-ගම්මිරිස් ඇතුළු කුළුබඩු වර්ග කිහිපයක් ප්‍රතිඅපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර ලබා දීමට රජය විසින් පළ කළ ගැසට් නිවේදනය අත්හිටුවීමට තීරණය තීරණය කර තිබේ.
+The government has suspended a gazette notification allowing the import of various pepper varieties, following opposition from Minister Mahinda Amaraweera, who argued it would negatively impact Sri Lanka's spice quality.
 
-කුළුබඩු ප්‍රතිඅපනයනය සඳහා ආනයනයට  අවසර දීම මගින් දේශීය කුළුබඩු ගොවියා අධෛර්මත්වන බවටත්, ඒ හේතුවෙන් දේශීය කුළුබඩු නිෂ්පාදන වගාව කඩා වැටෙන බවටත් පෙන්වා දෙමින් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා විසින් ඊයේ (11දා) පැවති අමාත්‍ය මණ්ඩල රුස්වීමේදී අදාල ගැසට් නිවේදනයට විරුද්ධත්වය පළ කර ඇත.
+🟩
 
-ෙඑසේම ඔහු එහිදී වැඩිදුරටත් පෙන්වා දී ඇත්තේ‍ 'ලොව හොඳම කුළුබඩු' ලෙස සන්නාම අතර පළමු ස්ථානයේ සිටින ශ්‍රී ලංකාවේ කුළුබඩු වල ප්‍රමිතිය සඳහා මෙමගින් ප්‍රබල බලපෑමක් එල්ල වන බවයි.
+The decision has been decided to suspend the gazette notification that the government has expressed the permission to import permission to import permission to re-import several varieties of peppers.
 
-ඒ අනුව ගම්මිරිස්, සාදික්කා, වසාවාසි, කහ , ඉඟුරු , හා කරදමුංගු ආදි ශ්‍රී ලංකාවේ වැවෙන කුළුබඩු වර්ග කිහිපයක් ප්‍රති අපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර දෙමින් පසුගියදා නිකුත් කරන ලද ගැසට් නිවේදනයක් අත්හිටුවීමට රජය තීරණය කර ඇත.
+Minister of Agriculture Mahinda Amaraweera has opposed the gazette notification at the Cabinet of Agriculture yesterday (11) by the permission of importation of the spice exclusive.
+
+He further stated that this is a profound effect on the quality of the spices of Sri Lanka in the first place.
+
+Accordingly, the government has decided to suspend a gazette notification issued to be released to the country's exports to the country's importation to the country.
 
 ◼️
 
 [Data](articles/8d0fdf48.json)
+
+[Extended Data](ext_articles/8d0fdf48.ext.json)
 
 ---
 
@@ -595,6 +633,8 @@ Newly appointed British High Commissioner to Sri Lanka Andrew Patrick visited th
 ◼️
 
 [Data](articles/4956dca0.json)
+
+[Extended Data](ext_articles/4956dca0.ext.json)
 
 ---
 
@@ -2263,27 +2303,5 @@ Semasinghe said he had discussions with officers of the Samurdhi Development Dep
 [Data](articles/3e7ed719.json)
 
 [Extended Data](ext_articles/3e7ed719.ext.json)
-
----
-
-### Pilot project to uplift Aswesuma welfare scheme beneficiaries
-
-*2024-03-12 12:34:00* · [`economynextcom`](https://economynext.com/pilot-project-to-uplift-aswesuma-welfare-scheme-beneficiaries-154275/) · `en`
-
-ECONOMYNEXT – A pilot project to move 16,000 Aswesuma beneficiary families out of poverty, using Asian Development Bank, World Bank and local funds, will be implemented in selected divisional secretariats in the 25 districts, Cabinet spokesman Minister Bandula Gunawardena said.
-
-“While providing welfare benefits to the people impoverished by the economic crisis, we are implementing a three-year programme that will move them out of poverty gradually,” Gunawardena said.
-
-Cabinet approved the proposal to implement the program which will ’empower family units economically, socially and mentally’.
-
-Applications for the second phase of the welfare scheme close on March 15 (Friday). State Minister for Finance Shehan Semasinghe said payments will be made to the beneficiaries selected under the second phase in July.
-
-Semasinghe said he had discussions with officers of the Samurdhi Development Departments on the importance of empowerment of Aswesuma beneficiaries.
-
-...
-
-[Data](articles/d9a76834.json)
-
-[Extended Data](ext_articles/d9a76834.ext.json)
 
 ---

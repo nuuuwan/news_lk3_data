@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 11:52:14**
+As of **2024-03-12 12:03:01**
 
 ## Newspaper Stats
 
-*Scraped **12,335** Articles*
+*Scraped **12,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,149 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 677
 adalk | 1,050
-adaderanalk | 1,489
+adaderanalk | 1,491
 tamilmirrorlk | 1,504
-virakesarilk | 1,695
-dailymirrorlk | 1,881
+virakesarilk | 1,699
+dailymirrorlk | 1,883
 adaderanasinhalalk | 1,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,334 (100.0%) of 12,335 articles have been extended.
+12,335 (99.9%) of 12,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Ramadan begins in Gaza with hunger worsening and no end to the war in sight
+
+*2024-03-12 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97891/ramadan-begins-in-gaza-with-hunger-worsening-and-no-end-to-the-war-in-sight) · `en`
+
+Palestinians began fasting for the Muslim holy month of Ramadan on Monday with cease-fire talks at a standstill, hunger worsening across the Gaza Strip and no end in sight to the war between Israel and Hamas.
+
+Prayers were held outside amid the rubble of demolished buildings. Fairy lights and decorations were hung in packed tent camps, and a video from a U.N.-school-turned-shelter showed children dancing and spraying foam in celebration as a man sang into a loudspeaker.
+
+But there was little to celebrate after five months of war that has killed over 30,000 Palestinians and left much of Gaza in ruins. Families would ordinarily break the daily sunrise-to-sundown fast with holiday feasts, but even where food is available, there is little beyond canned goods, and the prices are too high for many.
+
+“You don’t see anyone with joy in their eyes,” said Sabah al-Hendi, who was shopping for food Sunday in the southernmost city of Rafah. “Every family is sad. Every family has a martyr.”
+
+...
+
+[Data](articles/32c4365d.json)
+
+---
+
+### Thai Airways to recommence scheduled flights to BIA from April 1
+
+*2024-03-12 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Airways-to-recommence-scheduled-flights-to-BIA-from-April-1/108-278695) · `en`
+
+Colombo, March 12 (Daily Mirror) - Thai Airways, the flag carrier airline of Thailand, will re-commence its operations at Bandaranaike International Airport (BIA) with daily flights from April 1.
+
+The recommencement will incredibly boost the tourism industry, which has shown significant growth in the first two months of 2024, welcoming 207,182 and 218,350 passengers (by air) in January and February, respectively.
+
+Passengers will be able to experience the ultimate in travel with Thai Airways and explore over 60 cities in 28 countries from Bangkok. The airline operates at key destinations in Europe, Australia, Asia, and Thailand.
+
+Airport and Aviation Services (Sri Lanka) (Pvt.) Limited (AASL) is delighted to welcome the airline to its main gateway, and by February 2024, Sri Lanka airports would have served 36 esteemed airlines that operated scheduled international operations, solidifying its pivotal role in the aviation industry.
+
+◼️
+
+[Data](articles/dc0d4a7f.json)
+
+---
+
+### பாடசாலை மாணவர்களை ஏற்ற மறுத்த அரச பஸ்ஸுக்கு முகமாலை மக்கள் செய்த சிறப்பான செயல்
+
+*2024-03-12 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178504) · `ta`
+
+கிளிநொச்சி முகமாலை பகுதியில் பாடசாலை மாணவர்களை பஸ்களில் ஏற்றாது பயணிப்பது தொடர்பில் பிரதேச மக்கள் விசனம் வெளியிட்டு வந்தனர்.
+
+குறித்த பிரச்சினை நீண்ட காலமாக காணப்படுகிறது. இதனால் பாடசாலைக்கு உரிய நேரத்துக்கு போக முடியாத நிலை காணப்படுவதாகவும், சில சமயங்களில் பாடசாலைக்கு செல்லாமல் விடும் சூழலும் காணப்படுவதாக கவலை தெரிவிக்கின்றனர்.
+
+இதனை அடுத்து பெற்றோர் ஒருவர் தனது மோட்டார் சைக்கிளை பஸ்ஸூக்கு குறுக்காக நிறுத்தி மாணவர்களை ஏற்றி அனுப்பி வைத்த சம்பவம் பதிவாகியுள்ளது.
+
+குறித்த பிரச்சினையானது, எழுதுமட்டுவாள் தொடக்கம் இயக்கச்சி வரையான சுமார் 8 க்கு மேற்பட்ட பிரதேசங்களில் காணப்படுகிறது.
+
+பாடசாலைகள் கற்றல் செயற்பாடுகள் 7.30க்கு  ஆரம்பிக்கும் நிலையில், இவ்வாறு மாணவர்கள் பிந்தி செல்லுதல் மற்றும், செல்லாதுவிடல் காரணமாக பல்வேறு பிரச்சினைகளிற்கு முகம் கொடுக்கின்றனர்.
+
+மன உளைச்சலுக்கு மாணவர்கள் ஆளாவதுடன், கல்வியில் ஆர்வம் காட்டுதல் மற்றும் பூரண கல்வியை பெற முடியாத நிலைக்கு தள்ளப்படுகின்றனர்.
+
+...
+
+[Data](articles/ea8d979b.json)
+
+---
+
+### போதைப்பொருள் தொடர்பான தகவல்களை பொதுமக்கள் பொலிஸாருக்கு அறிவிக்கலாம்!
+
+*2024-03-12 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178507) · `ta`
+
+யுக்திய நடவடிக்கையை மேலும் வெற்றிகரமாக செயற்படுத்தும் வகையில், போதைப்பொருள் குறித்த தகவல்களை பொதுமக்களுக்கு தெரிவிக்கும் வகையில் தொலைபேசி எண்களை  அறிமுகப்படுத்தியுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+தொலைபேசி அழைப்புகளை மேற்கொள்ளும்போது அழைப்பாளரின் அடையாளத்தை அடையாளம் காண முடியாத வகையில் இந்த இலக்கங்கள் அமைக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/570353e4.json)
+
+---
+
+### இந்தியாவில் தயாரிக்கப்பட்ட ஏவுகணையின் முதல் சோதனை வெற்றி !
+
+*2024-03-12 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/178502) · `ta`
+
+ஒரே ஏவுகணையில் பல்வேறு வெடிபொருட்களுடன் ஒரே நேரத்தில் பல இலக்குகளை தாக்கும் எம்.ஐ.ஆர்.வி. தொழில்நுட்பத்துடன் உள்நாட்டிலேயே உருவாக்கப்பட்ட அக்னி-5 ஏவுகணையின் முதல் சோதனை திங்கட்கிழமை (11) மேற்கொள்ளப்பட்டது.
+
+அவர் தனது பதிவில், ‘‘மிஷன் திவ்யாஸ்திரா திட்டத்தின் கீழ் எம்ஐஆர்வி தொழில்நுட்பத்துடன் உள்நாட்டில் தயாரிக்கப்பட்ட அக்னி-5 ஏவுகணையின் முதல் சோதனையை வெற்றிகரமாக நடத்திய பாதுகாப்பு ஆராய்ச்சி மற்றும் மேம்பாட்டுத்துறை விஞ்ஞானிகளால் பெருமை கொள்கிறேன்’’ எனத் தெரிவித்துள்ளார்.
+
+அக்னி 1 முதல் 4 வரையிலான ஏவுகணைகள் 700 கிலோ மீற்றர் முதல் 3,500 கிலோ மீற்றர் தூரம் வரை சென்று தாக்கும் திறன் கொண்டவை. அக்னி-5, சுமார் 5000 கிலோ மீற்றர்  தூரம் வரை செல்லக் கூடியது.
+
+இதன் மூலம் சீனாவின் வடக்கு பகுதி உட்பட முழு ஆசியாவையும் தாக்கும் எல்லைக்குள் கொண்டு வர முடியும்.
+
+◼️
+
+[Data](articles/c895c07f.json)
+
+---
+
+### Another victim in Pitigala shooting succumbs to injuries
+
+*2024-03-12 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/97890/another-victim-in-pitigala-shooting-succumbs-to-injuries) · `en`
+
+Another victim in the shooting reported in Pitigala, Elpitiya on Monday evening (March 11) has succumbed to injuries, Ada Derana learns.
+
+Accordingly, the death toll in this incident of gun violence now stands at 2. The deceased were identified as Sasith Madhushanka, 32, from Karandeniya and Kavishka Anjana, 28 from Thalgaswewa.
+
+The first victim, Sasith Madhushanka was killed on the spot after two unidentified individuals who arrived on a motorcycle opened fire near a shop in Guruwala area in Pitigala police division.
+
+The second victim was rushed to the Gallinda Regional Hospital with three others including 2 women who were also wounded in the gunfire. However, he was later transferred to the Karapitiya Teaching Hospital where he succumbed to injuries early this morning while receiving treatment.
+
+The suspects are believed to have used a T-56 assault rifle in the shooting, according to police.
+
+...
+
+[Data](articles/14407d4c.json)
+
+---
+
+### Haiti’s Prime Minister Ariel Henry has resigned
+
+*2024-03-12 11:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Haitis-Prime-Minister-Ariel-Henry-has-resigned/108-278694) · `en`
+
+CNN - The embattled leader of Haiti, Ariel Henry, has resigned after weeks of mounting chaos in the Caribbean nation, where gangs have been attacking government structures and social order is on the brink of collapse.
+
+Haitian Prime Minister Henry said in a speech late Monday that his government would leave power after the establishment of a transitional council, adding, “Haiti needs peace. Haiti needs stability.”
+
+“My government will leave immediately after the inauguration of the council. We will be a caretaker government until they name a prime minister and a new cabinet,” Henry said in a video address.
+
+Henry’s adviser Jean Junior Joseph earlier confirmed the prime minister’s resignation to CNN, emphasizing that Henry would remain in his role until the formation of a new interim government.
+
+...
+
+[Data](articles/ee558647.json)
+
+---
 
 ### TikTok is a national security threat, Facebook is ’enemy of the people’
 
@@ -47,6 +175,28 @@ Trump had initially supported efforts to ban the app in the U.S., but he recentl
 ...
 
 [Data](articles/15c78cf5.json)
+
+[Extended Data](ext_articles/15c78cf5.ext.json)
+
+---
+
+### சிங்கள பௌத்த ஏகாதிபத்தியத்தின் கீழ் தமிழர்கள் வாழ்கின்றார்கள் என்ற உண்மையை மீண்டும் வலியுறுத்தியுள்ளது வெடுக்குநாறி சம்பவம் - விக்கினேஸ்வரன்
+
+*2024-03-12 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178497) · `ta`
+
+சிவராத்திரி தினத்தன்று வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் பூசை வழிபாடுகளில் ஈடுபட்டிருந்த பக்தர்கள் வலுக்கட்டாயமாக பொலிஸாரால் அகற்றப்பட்டு சிலரை கைதுசெய்த சம்பவம் சிங்கள பௌத்த ஏகாதிபத்தியத்தின் கீழ் தமிழ் மக்கள் வாழ்ந்து வருகின்றார்கள் என்ற பேருண்மையை மீண்டும் வலியுறுத்தியிருக்கின்றது என பாராளுமன்ற உறுப்பினர் விக்னேஸ்வரன் தெரிவித்தார்.
+
+வெடுக்குநாறி மலையில் அண்மையில் இடம்பெற்ற சம்பவம் குறித்து வெளியிட்டுள்ள கண்டன அறிக்கையிலேயே பாராளுமன்ற உறுப்பினர் விக்னேஸ்வரன் மேற்கண்டவாறு தெரிவித்தார்.
+
+இலங்கையின் புராதன நாகரீகம் சம்பந்தமான வரலாறுகளை அடுத்த சந்ததிக்கு கொண்டு போவதே தமது சமய கலாச்சார அமைச்சின் பிரதான நோக்கமாக உள்ளது என்றார்.
+
+வெடுக்குநாறிமலை வனப்பிரதேச பரிபாலன திணைக்களத்தின் நிர்வாகத்தின் கீழ் உள்ளது, அத்துடன் அது ஒரு தொல்பொருள் பகுதி என்றார்.
+
+குறித்த திணைக்களங்களின் நிர்வாகத்தின் கீழ் உள்ள பகுதிகளில் தண்ணீர்பௌசர், உழவுஇயந்திரங்கள் போன்றவை கொண்டு செல்வது சட்டமுரணானது என்றார்.
+
+...
+
+[Data](articles/f865531a.json)
 
 ---
 
@@ -582,7 +732,7 @@ The communiqué was revoked following a request made by Agriculture Minister Mah
 
 On Sunday, the Finance Ministry announced that the import of selected spices including pepper, cardamom, ginger, nutmeg, turmeric and cumin for re-exportation purposes would be permitted in Sri Lanka again.
 
-The import of these spices was thus conditionally allowed, subject to the approval of the Controller General of Import and Export and a local value addition of 35%. This decision was taken after the Cabinet nod was given to issue relevant import licenses under the Import and Export Control Regulations.
+The import of these spices was thus conditionally allowed, subject to the approval of the Controller General of Import and Export and a local value addition of 35%. This decision was taken after the Cabinet nod was given to issue relevant import licenses under the Import and Export Control Regulations.
 
 ...
 
@@ -2039,173 +2189,5 @@ SEC Chairman, Faizal Salieh, Deputy Director General SEC, Tushara Jayaratne, Dir
 [Data](articles/6af56d4d.json)
 
 [Extended Data](ext_articles/6af56d4d.ext.json)
-
----
-
-### SLI divestiture attracts five businesses; interest grows for Life and General Insurance segments
-
-*2024-03-11 22:21:00* · [`islandlk`](http://island.lk/sli-divestiture-attracts-five-businesses-interest-grows-for-life-and-general-insurance-segments/) · `en`
-
-CSE trading activities were bullish yesterday, same as last week, especially among retail investors, due to multiple positive factors, such as, easing of monetary policies and IMF’s optimism on Sri Lanka’s economic progress.
-
-Further, where the Sri Lanka Insurance divestiture is concerned, five entities have qualified for Request for Statement of Qualifications for SLI’s two sectors, namely, Life and General Insurance.
-
-For the Life segment, LIC Lanka Limited, Union Assurance and Asiri Hospitals, have become potential investors, while for General Insurance, Euro Exim Bank and Fair First Insurance are potential investors. Besides, retail investor participation had a positive impact on the market.
-
-...
-
-[Data](articles/2a4977e5.json)
-
-[Extended Data](ext_articles/2a4977e5.ext.json)
-
----
-
-### Another shooting kills two, injures two more in Ambalangoda
-
-*2024-03-11 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-shooting-kills-two-injures-two-more-in-Ambalangoda/108-278659) · `en`
-
-Ambalangoda, March 11 (Daily Mirror) - Another shooting incident was reported in Galagoda, Ambalangoda tonight resulting in two fatalities and two others sustaining injuries, police said.
-
-They said two assailants on a motorcycle opend fired at a group near a shop in Galagoda.
-
-The injured victims have been rushed to the Balapitiya Hospital.
-
-Once again, a T-56 firearm has been used in the shooting and the Ambalangoda Police are investigating the incident.
-
-This marks the second shooting incident reported tonight, following a similar tragic event in Pitigala, where one person was killed and two others were injured.
-
-◼️
-
-[Data](articles/00c5f735.json)
-
-[Extended Data](ext_articles/00c5f735.ext.json)
-
----
-
-### Ambalangoda firing: Two killed
-
-*2024-03-11 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178472) · `ta`
-
-In Ambalangoda, two people on a motorcycle shot at a shop, killing two.
-
-🟩
-
-Two people on a motorcycle fired at a shop in Galagoda, Ambalangoda, police said.
-
-◼️
-
-[Data](articles/27b186a3.json)
-
-[Extended Data](ext_articles/27b186a3.ext.json)
-
----
-
-### Two killed, 3 injured in Ambalangoda shooting
-
-*2024-03-11 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97880/two-killed-3-injured-in-ambalangoda-shooting) · `en`
-
-Two persons have been killed while another three individuals have been injured in a shooting incident at Galagoda in Ambalangoda.
-
-Police said two gunmen who arrived on a motorcycle had opened fire at them inside a shop at Galagoda using a T56 assault rifle before fleeing the scene.
-
-The three wounded persons have been admitted to Balapitiya Hospital with gunshot injuries.
-
-This is the second shooting reported within just a few hours today.
-
-A short while ago, it was reported that one person has been killed and three others were injured following a shooting incident at Pitigala in Elpitiya this evening.
-
-Incidentally that shooting was also reportedly carried out by two gunmen on a motorcycle using a T56 firearm.
-
-◼️
-
-[Data](articles/ec4832e0.json)
-
-[Extended Data](ext_articles/ec4832e0.ext.json)
-
----
-
-### Two killed in Ambalangoda shotling
-
-*2024-03-11 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194397) · `si`
-
-Two people were killed in a shooting incident in Ambalangoda, involving a motorcycle in the Galagoda area.
-
-🟩
-
-The shooting has fled in a motorcycle in the Galagoda area in the Galagoda area in Ambalangoda.
-
-◼️
-
-[Data](articles/dd07c3ca.json)
-
-[Extended Data](ext_articles/dd07c3ca.ext.json)
-
----
-
-### "I deserve the presidential election" Janaka Ratnayake
-
-*2024-03-11 21:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கு-நானே-தகுதியானவன்-ஜனக-ரத்நாயக்க/175-334521) · `ta`
-
-Janaka Ratnayake, presidential candidate of the National Civil Organization Front, claims qualifications for the election, promising unconditional cooperation if outperformed. He criticizes the current regime for economic crisis, attributing it to politicians' decisions.
-
-🟩
-
-"I have the qualifications to contest the presidential election," said Janaka Ratnayake, the presidential candidate of the National Civil Organization Front and former Chairman of the Public Utilities Commission.
-
-He also said that if I am more qualified than me, I will cooperate unconditionally.
-
-He was speaking at a press conference held in Colombo yesterday to officially announce his contesting as the presidential candidate of the National Civil Organization Front.
-
-People do not expect a change of system 'system' transmission.. Because in the 75 -year regime, no government has put the country to the bankruptcy.
-
-The rulers who have been in power since 2015 to 2024 must be responsible for the economic crisis. The country has become bankrupt by the foolish decisions of politicians.
-
-The government has pushed the middle people to the bankruptcy to recover from the bankruptcy.
-
-...
-
-[Data](articles/c55d0fe0.json)
-
-[Extended Data](ext_articles/c55d0fe0.ext.json)
-
----
-
-### One killed, three injured in shooting at Pitigala
-
-*2024-03-11 21:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-three-injured-in-shooting-at-Pitigala/108-278643) · `en`
-
-Pitigala, March 11 (Daily Mirror) - An individual was killed and three others, including a woman, were injured in a shooting incident at Guruwala in Pitigala tonight.
-
-Police said two unknown persons who came on a motorcycle carried out the shooting near a shop.
-
-One person died at the scene while two injured men and a woman were admitted to the Gallida Regional Hospital.
-
-Police suspect that a T-56 firearm was used in this shooting, and the Pitigala police are conducting further investigations.
-
-◼️
-
-[Data](articles/c996f486.json)
-
-[Extended Data](ext_articles/c996f486.ext.json)
-
----
-
-### Firing in Galle;Death
-
-*2024-03-11 21:25:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-துப்பாக்கிச்சூடு-ஒருவர்-மரணம்/175-334520) · `ta`
-
-A shooting occurred in Galle's Elpidiya, Pitigala area, resulting in death. Police confirmed the incident.
-
-🟩
-
-A shooting took place tonight in Galle - Elpidiya, Pitigala area.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa confirmed this. Remble
-
-◼️
-
-[Data](articles/0b91efc6.json)
-
-[Extended Data](ext_articles/0b91efc6.ext.json)
 
 ---

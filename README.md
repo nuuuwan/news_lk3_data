@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 21:52:19**
+As of **2024-03-12 22:04:25**
 
 ## Newspaper Stats
 
-*Scraped **12,478** Articles*
+*Scraped **12,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ economynextcom | 664
 islandlk | 677
 adalk | 1,068
 adaderanalk | 1,506
-tamilmirrorlk | 1,515
-virakesarilk | 1,726
-dailymirrorlk | 1,901
-adaderanasinhalalk | 1,970
+tamilmirrorlk | 1,516
+virakesarilk | 1,728
+dailymirrorlk | 1,903
+adaderanasinhalalk | 1,971
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,478 (100.0%) of 12,478 articles have been extended.
+12,478 (100.0%) of 12,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### மட்டக்குளியில் துப்பாக்கிச்சூடு
+
+*2024-03-12 21:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்குளியில்-துப்பாக்கிச்சூடு/175-334570) · `ta`
+
+இன்று பிற்பகல் மோட்டார் சைக்கிளில் வந்த இருவர் இந்த துப்பாக்கிச் சூட்டினை மேற்கொண்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/34dd385c.json)
+
+---
+
+### මට්ටක්කුලියේ වෙඩිතැබීමෙන් පසු ගෙවල් 4කට පහරදෙයි
+
+*2024-03-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194437) · `si`
+
+අද (12) පස්වරු 5.50ට පමණ මට්ටකුලිය ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීම සඳහා ඉලක්කය වූ පුද්ගලයා ඉන් ජීවිතය බේරාගත් පසු ඔහුගේ පාර්ශ්වයෙන් ගොස් නිවාස 4කට පහරදී ඇති බව වාර්තා වෙයි.
+
+මෙලෙස ප්‍රහාරය එල්ල කර ඇත්තේ වෙඩිතැබීම සිදුවූ අලිවත්ත ප්‍රදේශයේම නිවාස කිහිපයක් වෙතය.
+
+සිද්ධියට මුහුණ දුන් පාර්ශ්වය චෝදනා කරන්නේ අදාළ වෙඩිතැබීම තම පාර්ශ්වයෙන් සිදුවූ බව පවසමින් මෙම ප්‍රහාරය සිදුකළ බවය.
+
+අද පස්වරු 5.50 ට පමණ මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේ  නිවසකට ස්කුටර් වර්ගයේ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු තරුණයෙකු ඉලක්ක කර වෙඩිතබා තිබුණි.
+
+අශාන් මදුරංග නැමති 24 හැවිරිදි පුද්ගලයෙකු වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත.
+
+◼️
+
+[Data](articles/b978dcb2.json)
+
+---
+
+### Migrated doctors return easing shortage concerns
+
+*2024-03-12 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Migrated-doctors-return-easing-shortage-concerns/108-278718) · `en`
+
+Colombo, March 12 (Daily Mirror) - Doctors who had previously left Sri Lanka for various reasons are now returning to the country, providing a hopeful alleviation of the ongoing shortage of doctors, the Health Ministry said.
+
+Deputy Director General (Medical Services) Dr. G. Wijesuriya, while speaking at a news briefing, highlighted this positive development, citing a recent downward trend in doctors leaving the country.
+
+"Previously, there was a concerning trend where doctors, particularly those pursuing postgraduate training abroad, opted not to return to Sri Lanka. However, we are now witnessing a reversal of this trend, with an increasing number of doctors choosing to come back," stated Dr. Wijesuriya.
+
+The Health Ministry also emphasized the importance of addressing this issue comprehensively, acknowledging ongoing discussions with relevant stakeholders to find effective solutions.
+
+◼️
+
+[Data](articles/b54ea265.json)
+
+---
+
+### ஹாலி - எலவில் வீடு ஒன்றின் மீது வீழ்ந்த 50 கிலோ நிறையுடைய பனிக்கட்டி!
+
+*2024-03-12 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178564) · `ta`
+
+ஹாலி - எல மெதகம கிராம சேவகர்  பகுதியில் உள்ள வீடொன்றின் கூரை மீது செவ்வாய்க்கிழமை (12) சுமார் 50 கிலோகிராம் எடையுள்ள பனிக்கட்டி ஒன்று வீழ்ந்துள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/33e228ef.json)
+
+---
+
+### Confusion, errors marred Ottawa police communications after family’s killing
+
+*2024-03-12 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confusion-errors-marred-Ottawa-police-communications-after-familys-killing/108-278716) · `en`
+
+March 12-  Ottawa police admit they made mistakes last week when communicating key information about the city's worst mass killing in recent history.
+
+Six people including a mother, her four young children and a family acquaintance were found dead inside a townhouse in the south Ottawa suburb of Barrhaven on March 6. The woman's husband and father of the children remains in hospital.
+
+A 19-year-old man who was living with the family is in custody facing six counts of first-degree murder and one count of attempted murder.
+
+According to police, they began receiving calls at 10:52 p.m. Wednesday and responded minutes later. In court, prosecutors said the accused was in custody around 11 p.m.
+
+The day after the tragedy, the Ottawa Police Service (OPS) called the killings a "mass shooting" when no guns were involved, repeatedly misspelled the victims' names and misidentified the accused.
+
+...
+
+[Data](articles/d21d64de.json)
+
+---
+
+### மட்டக்குளியில் துப்பாக்கிப் பிரயோகம்!
+
+*2024-03-12 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178563) · `ta`
+
+கொழும்பு -15 மட்டக்குளிய பிரதேசத்தில் செவ்வாய்க்கிழமை (12) துப்பாக்கிச் சூட்டுச் சம்பவம் ஒன்று இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+எவ்வாறாயினும் இந்தச் சம்பவத்தில் எவருக்கும் காயம் ஏற்படவில்லை என பொலிஸார் மேலும் தெரிவித்தனர்.
+
+மோட்டார் சைக்கிளில் வந்த இருவரினால் மட்டக்குளி அலிவத்த பிரதேசத்தில் துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/db4a941c.json)
+
+---
 
 ### New Chief Secretaries appointed to Northern, North Western provinces
 
@@ -58,7 +156,7 @@ Their letters of appointment were handed over by President’s Secretary Saman E
 
 *2024-03-12 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-technology-giant-Xiaomi-starts-electric-car-sales/108-278715) · `en`
 
-March 12, (Daily Mirror) -  Chinese technology giant Xiaomi says it will start deliveries of its first electric vehicle (EV) this month - its first ever foray into the competitive automotive industry.
+March 12, (BBC)-  Chinese technology giant Xiaomi says it will start deliveries of its first electric vehicle (EV) this month - its first ever foray into the competitive automotive industry.
 
 China's fifth-largest smartphone maker says it has 59 stores in 29 cities around the country to take orders.
 
@@ -2195,139 +2293,5 @@ The corrupt political system that prevails the cultural and social freedom of th
 [Data](articles/3019ecf0.json)
 
 [Extended Data](ext_articles/3019ecf0.ext.json)
-
----
-
-### Ministry investigation into death of a student during a race
-
-*2024-03-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194416) · `si`
-
-The Ministry of Education is investigating the sudden death of a 16-year-old student during a school marathon in Thirukkovil. The cause is undetermined, and a post-mortem will be conducted. The Ministry has issued a circular to limit outdoor activities due to heat. Dr. Channa de Silva emphasizes the importance of health checks before long-distance events to prevent dehydration.
-
-🟩
-
-The Ministry of Education has launched an investigation into the death of a sudden death of illnesses during a school marathon.
-
-A 16-year-old student who attended a marathon in Thirukkovil, yesterday (11), died of admission to the Akkaraipatu hospital.
-
-The cause of the student is not unable to be determined yet and the post mortem will be conducted at the Ampara Hospital.
-
-However, the Ministry of Education has recently issued a special circular to all school authorities to limit the operational activities outdoors with the prevailing heated condition.
-
-Accordingly, the Ministry of Education will investigate the incident, "Ada Derana stated that" Minister of Education Wasantha Perera said.
-
-Meanwhile, Special Dr. Channa de Silva said that the health of the students should be inspected before participating in long distances such as marathon.
-
-...
-
-[Data](articles/564bdfaf.json)
-
-[Extended Data](ext_articles/564bdfaf.ext.json)
-
----
-
-### Prantha's Law Amendment Act to Parliament
-
-*2024-03-12 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194415) · `si`
-
-Prantha's Law Amendment Act received Cabinet approval, affecting banks' loan sales and debt collection. The bill, amended under Special Provisions, was cleared by the Attorney General.
-
-🟩
-
-The Cabinet approval has been approved by the Cabinet Removal Amendment Amendment to the Government Gazette to be published in the Government Gazette.
-
-The incident was explained when Cabinet decisions today.
-
-The banks that have been temporarily suspended for the sale of loans to the borrower have been temporarily suspended and the banks of the respective loans have been temporarily suspended for the debt and provide measures to the sale of the loans to the sale.The bill was amended (Special Provisions) Act and was approved at the Cabinet Meeting of the Cabinet Meeting of the Ministry of 2024-024-2012.
-
-Accordingly, the legal recovery (Special Provisions) has been received by the Attorney General's clearance on the borrowing of the loan (Special Provisions) Bill (Amendment) Bill.
-
-◼️
-
-[Data](articles/73c83dd2.json)
-
-[Extended Data](ext_articles/73c83dd2.ext.json)
-
----
-
-### Action to connect 2,500 English teachers, including 1,000 retired people!
-
-*2024-03-12 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178519) · `ta`
-
-President Ranil Wickremesinghe aims to connect 2,500 English teachers, including 1,000 retired, to enhance English language education. The goal is to increase English language schools to 1,000 by 2025, targeting 200,000 students.
-
-🟩
-
-President Ranil Wickremesinghe told the Cabinet Committee appointed to oversee the implementation of the National Education Policy Conflict to include 2,500 English teachers.
-
-The President also advised to immediately incorporate 1,000 qualified retired teachers who can teach English language lessons for a three -year contract period.
-
-The President announced that the number of English language schools would be increased to 1,000, and by 2025, at least 200,000 students were aimed at providing English language education.
-
-◼️
-
-[Data](articles/997051be.json)
-
-[Extended Data](ext_articles/997051be.ext.json)
-
----
-
-### Sri Lanka ruling party hasn’t decided it’ll back president at the polls: MP
-
-*2024-03-12 13:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-hasnt-decided-itll-back-president-at-the-polls-mp-154282/) · `en`
-
-ECONOMYNEXT — The decision makers of the ruling Sri Lanka Podujana Peramuna (SLPP) has not named President Ranil Wickremesinghe the party’s candidate for the upcoming presidential election despite personal opinions expressed by some members, MP Tissa Kuttiarachchi said.
-
-“We don’t ever say Mr Wickremesinghe is our candidate. He is the leader of the United National Party (UNP). This was proved at the UNP’s maiden rally over the weekend. UNP deputy leader Akila Viraj Kariyawasam took Mr Wickremesnighe there as the president of the Democratic Socialist Republic of Sri Lanka and the leader of the UNP,” said Kuttiarachchi.
-
-“There is no problem with Mr Wickremesinghe being named the UNP’s candidate. But the higher echelons of the SLPP has not yet for any reason decided that he is the party’s candidate,” he said.
-
-The SLPP legislator told reporters it’s not fair that individual members express their personal opinion when they’re representing a party.
-
-...
-
-[Data](articles/8f3b92cf.json)
-
-[Extended Data](ext_articles/8f3b92cf.ext.json)
-
----
-
-### Change in the price of milkma
-
-*2024-03-12 13:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-விலையில்-மாற்றம்/175-334553) · `ta`
-
-Trade Minister Nalin Fernando announced a price reduction of Rs 100 to 150 per kilogram of milk from Friday.
-
-🟩
-
-Trade Minister Nalin Fernando said the price of a kilogram of milk would be reduced by Rs 100 to 150 from Friday.
-
-◼️
-
-[Data](articles/9697e466.json)
-
-[Extended Data](ext_articles/9697e466.ext.json)
-
----
-
-### Sri Lanka and China standards agencies to sign agreement
-
-*2024-03-12 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-china-standards-agencies-to-sign-agreement-154283/) · `en`
-
-ECONOMYNEXT – Sri Lanka Standards Institution and the Standardization Administration of China will sign an agreement to iron out barriers in trade linked to non-tariff areas, Minister Bandula Gunawardena said.
-
-“It has been proposed to sign a Memorandum of Understanding between the Sri Lanka Standards Institute and China’s Standardization Administration to reduce technical barriers in trade between Sri Lanka and China,”
-
-The Standardization Administration of China is the standards organization authorized by the State Council of China.
-
-“The clearance of the Attorney General and the approval of the Ministry of External Affairs have been received for the relevant draft MoU. The Cabinet of Ministers approved the proposal to sign the said MoU,” Gunawardena said.
-
-Sri Lanka is seeking to expand on trade agreements to facilitate exports of goods and services. (Colombo/March12/2024)
-
-◼️
-
-[Data](articles/b2247174.json)
-
-[Extended Data](ext_articles/b2247174.ext.json)
 
 ---

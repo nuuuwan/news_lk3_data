@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 13:52:01**
+As of **2024-03-12 14:03:16**
 
 ## Newspaper Stats
 
-*Scraped **12,373** Articles*
+*Scraped **12,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,151 @@ dailyftlk | 641
 economynextcom | 647
 islandlk | 677
 adalk | 1,052
-adaderanalk | 1,493
+adaderanalk | 1,494
 tamilmirrorlk | 1,510
-virakesarilk | 1,704
+virakesarilk | 1,707
 dailymirrorlk | 1,888
-adaderanasinhalalk | 1,952
+adaderanasinhalalk | 1,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,366 (99.9%) of 12,373 articles have been extended.
+12,373 (100.0%) of 12,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### ධාවන තරගයක් අතරතුර සිසුවෙකු මියයෑම ගැන අමාත්‍යාංශයෙන් විමර්ශනයක්
+### දවස් 72ට ඝාතන 21ක්
+
+*2024-03-12 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194418) · `si`
+
+2024 ජනවාරි 01 වනදා සිට මාර්තු 12 වනදා දක්වා කාලය තුළ දිවයිනේ විවිධ ප්‍රදේශවලින් වෙඩිතැබීමේ සිද්ධි 30ක් වාර්තාවී ඇති බව පොලීසිය පවසයි.
+
+ඉන් පුද්ගලයින් 21 දෙනෙකු මියගෛාස් තවත් 14 දෙනෙකු තුවාල ලබා ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පෙන්වා දෙන්නේ එම වෙඩිතැබීමේ සිදුවීම් 30න් 17ක්ම සංවිධානාත්මක අපරාධ කල්ලි විසින් සිදුකර ඇති බවට තොරතුරු අනාවරණ වූ බවය.
+
+අනෙක් වෙඩිතැබීම් 13 පුද්ගලික හේතු මත සිදුකළ ඒවා බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/d5d5e010.json)
+
+---
+
+### Boeing whistleblower found dead with ‘self-inflicted’ wound
+
+*2024-03-12 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97894/boeing-whistleblower-found-dead-with-self-inflicted-wound) · `en`
+
+A former Boeing employee known for raising concerns about the firm’s production standards has been found dead in the US.
+
+John Barnett had worked for Boeing for 32 years, until his retirement in 2017.
+
+In the days before his death, he had been giving evidence in a whistleblower lawsuit against the company.
+
+Boeing said it was saddened to hear of Mr Barnett’s passing. The Charleston County coroner confirmed his death to the BBC on Monday.
+
+It said the 62-year-old had died from a “self-inflicted” wound on 9 March and police were investigating.
+
+Mr Barnett had worked for the US plane giant for 32 years, until his retirement in 2017 on health grounds.
+
+From 2010, he worked as a quality manager at the North Charleston plant making the 787 Dreamliner, a state-of-the-art airliner used mainly on long-haul routes.
+
+In 2019, Mr Barnett told the BBC that under-pressure workers had been deliberately fitting sub-standard parts to aircraft on the production line.
+
+...
+
+[Data](articles/2d76e099.json)
+
+---
+
+### වෙළෙඳපොළට එන අලුත්ම චීන ඉලෙක්ට්‍රික් කාර් එක
+
+*2024-03-12 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194417) · `si`
+
+ලෝකයේ විශාලතම මෝටර් රථ වෙළෙඳපොළ චීනය ලෙස සැලකෙයි. එහි විද්‍යුත් මෝටර් රථ සඳහා ද ඇත්තේ දැඩි ඉල්ලුමකි.
+
+මේ වනවිට ටෙස්ලා සහ BYD වැනි සමාගම් චීන වෙළෙඳපොළේ ඉදිරියෙන්ම සිටියි.
+
+චීන විද්‍යුත් මෝටර් රථ වෙළෙඳපොළ තරගය වැඩි කිරීම සඳහා තවත් සමාගමක් එක්වී තිබේ.
+
+ඒ චීනයේ ප්‍රමුඛ ස්මාර්ට් ජංගම දුරකථන නිෂ්පාදන සමාගමක් වන සියෝමි සමාගමයි.
+
+එම සමාගම නිපදවූ පළමු විද්‍යුත් මෝටර් රථය මෙම මස එළිදැක්වීමට නියමිතය.
+
+සියෝමි චීනයේ පස් වැනි විශාලම ස්මාර්ට් ජංගම දුරකථන නිෂ්පාදන සමාගම යි.
+
+◼️
+
+[Data](articles/e75dbf2b.json)
+
+---
+
+### பாகிஸ்தானில் படகு கவிழ்ந்ததால் 10 பேர் பலி
+
+*2024-03-12 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178521) · `ta`
+
+பாகிஸ்தானின் கராச்சி நகருக்கு அருகில் படகு கவிழ்ந்ததால் உயிரிழந்தவர்களின் எண்ணிக்கை 10 ஆக அதிகரித்துள்ளது.
+
+கராச்சிக்கு அருகில், அரபிக்கடலில்  கடந்த 4 ஆம் திகதி மீன்பிடிப் படகு ஒன்று கவிழ்ந்தது.
+
+45  மீனவர்கள் அப்படகில் இருந்தனர். அவர்களில் 31 பேர் மீட்கப்பட்டனர். 14 பேர் காணாமல் போயிருந்தனர்.
+
+இந்நிலையில் மேலும் அறுவரின் சடலங்கள் திங்கட்கிழமை மீட்கப்பட்டதாக பாகிஸ்தான் கடற்படை தெரிவித்துள்ளது. இதனால் மேற்படி சம்பவத்தில் உயிரிழந்தவர்களின் எண்ணிக்கை 10 ஆக அதிகிரித்துள்ளது.  (வைப்பகப்படம்)
+
+◼️
+
+[Data](articles/adb84b69.json)
+
+---
+
+### கொள்ளைக்கார பொருளாதாரத்தையும் ஊழல்மிக்க அரசியலையும் முடிவுக்குக் கொண்டுவர வேண்டும் - தேசிய மக்கள் சக்தி
+
+*2024-03-12 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178522) · `ta`
+
+நாட்டில் கொள்ளைக்கார பொருளாதாரத்தையும் ஊழல்மிக்க அரசியலையும் முடிவுக்கு கொண்டுவந்து  முன்நோக்கி நகர நாமனைவரும் யதார்த்தத்தில் அணிதிரண்டிருக்கிறோம்.  இதுவரை நாட்டை ஆட்சிசெய்தவர்கள் எம்மைப் பிரித்து ஆட்சிசெய்து அவர்களின் பரம்பரைகளுக்காக அனைத்தையும் செய்துகொண்டார்கள் என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுக்குழு உறுப்பினர் சரோஜா சாவித்திரி போல்ராஜ் தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் கொழும்பு மாவட்ட மகளிர் மாநாடு ஹோமாகமையில் அண்மையில் இடம்பெற்றது.
+
+இங்கு கலந்துகொண்டு உரையாற்றும் போதே தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுக்குழு உறுப்பினர் சரோஜா சாவித்திரி போல்ராஜ் மேற்கண்டவாறு தெரிவித்தார்.
+
+இற்றைவரை நாட்டை ஆட்சிசெய்தவர்கள் இலங்கைக்கு பெற்றுத்தந்துள்ள சமூக, பொருளாதார, அரசியல் சீரழிவு காரணமாக நாங்கள் அனைவரும் கண்டுகொண்டிருந்த கனவு கலைக்கப்பட்டுள்ளது.
+
+நாங்கள் இதுவரை சிறைப்பட்டிருந்த அரசியல் கட்சிகளை மறந்து எமது பிள்ளைகளுக்காக சுதந்திரமாக மூச்செடுக்கக்கூடிய ஒரு நாட்டை சிங்கள, தமிழ், முஸ்லிம் அனைவருக்காகவும் உருவாக்கிட திடசங்கற்பத்துடன் அணிதிரண்டுள்ளோம்.
+
+...
+
+[Data](articles/3019ecf0.json)
+
+---
+
+### Ministry investigation into death of a student during a race
 
 *2024-03-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194416) · `si`
 
-පාසල් මැරතන් ධාවන තරගයක් අතරතුර හදිසියේ ඇති වු අසනීප තත්ත්වයකින් සිසුවෙකු මියයාමේ සිද්ධිය සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යංශය විමර්ශනයක් ආරම්භ කර තිබේ.
+The Ministry of Education is investigating the sudden death of a 16-year-old student during a school marathon in Thirukkovil. The cause is undetermined, and a post-mortem will be conducted. The Ministry has issued a circular to limit outdoor activities due to heat. Dr. Channa de Silva emphasizes the importance of health checks before long-distance events to prevent dehydration.
 
-ඊයේ (11) දිනයේ තිරුක්කෝවිල් හී පාසලක පැවති මැරතන් ධාවන තරගයකට සහභාගී වු 16 හැවිරිදි සිසුවෙකු හදිසියේ රෝගී වීමෙන් අක්කරෙයිපත්තුව රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබිණි.
+🟩
 
-අදාළ සිසුවා මියයාමට හේතුව මෙතෙක් නිෂ්චිතව අණාවරණය වී නොමැති අතර පශ්චාත් මරණ පරීක්ෂණය අම්පාර රෝහලේ දී සිදුකිරීමට නියමිතව තිබේ.
+The Ministry of Education has launched an investigation into the death of a sudden death of illnesses during a school marathon.
 
-කෙසේවෙතත් පවතින උෂ්ණාධික කාලගුණික තත්ත්වයත් සමග එළිමහනේ ක්‍රියාකාරකම් සීමාකරන ලෙස දන්වමින් අධ්‍යාපන අමාත්‍යංශය විසින් සියලු පාසල් බලධාරීන් වෙත විශේෂ චක්‍රලේකයක් පසුගිය දා නිකුත් කර තිබිණි.
+A 16-year-old student who attended a marathon in Thirukkovil, yesterday (11), died of admission to the Akkaraipatu hospital.
 
-ඒ අනුව අදාළ සිද්ධිය සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යංශය විමර්ශනයක් සිදුකරන බව "අද දෙරණ" කළ විමසීමක දී අධ්‍යාපන අමාත්‍යංශයේ ලේකම් වසන්තා පෙරේරා මහත්මිය පැවසුවාය.
+The cause of the student is not unable to be determined yet and the post mortem will be conducted at the Ampara Hospital.
 
-මේ අතර මැරතන් වැනි දිගු දුර තරග සඳහා සහභාගී වීමට පෙර සිසුන්ගේ සෞඛ්‍ය තත්ත්වය පරීක්ෂා කළ යුතු බව විශේෂ වෛද්‍ය චන්න ද සිල්වා මහතා සඳහන් කළේය.
+However, the Ministry of Education has recently issued a special circular to all school authorities to limit the operational activities outdoors with the prevailing heated condition.
+
+Accordingly, the Ministry of Education will investigate the incident, "Ada Derana stated that" Minister of Education Wasantha Perera said.
+
+Meanwhile, Special Dr. Channa de Silva said that the health of the students should be inspected before participating in long distances such as marathon.
 
 ...
 
 [Data](articles/564bdfaf.json)
+
+[Extended Data](ext_articles/564bdfaf.ext.json)
 
 ---
 
@@ -78,15 +188,37 @@ Accordingly, the legal recovery (Special Provisions) has been received by the At
 
 ---
 
-### பால்மா விலையில் மாற்றம்
+### ஓய்வுபெற்ற 1,000 பேர் உட்பட 2,500 ஆங்கிலமொழி மூல ஆசிரியர்களை இணைப்பதற்கு நடவடிக்கை!
+
+*2024-03-12 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178519) · `ta`
+
+2,500 ஆங்கில ஆசிரியர்களை இணைத்துக் கொள்ள வேண்டுமென, தேசிய கல்விக் கொள்கைக் கட்டமைப்பை நடைமுறைப்படுத்துவதை மேற்பார்வையிட நியமிக்கப்பட்ட அமைச்சரவைக் குழுவிடம் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+அவசர தேவை கருதி, மூன்று வருட ஒப்பந்த காலத்துக்கு ஆங்கில மொழி மூல பாடங்களை கற்பிக்கக்கூடிய 1,000 தகுதி வாய்ந்த ஓய்வுபெற்ற ஆசிரியர்களையும்  உடனடியாக இணைத்துக்கொள்ளவும் ஜனாதிபதி ஆலோசனை வழங்கினார்.
+
+ஆங்கில மொழிமூல பாடசாலைகளின் எண்ணிக்கையை 1,000 ஆக அதிகரிப்பதாக அறிவித்த ஜனாதிபதி, 2025 ஆம் ஆண்டளவில் குறைந்தது 200,000 மாணவர்களாவது ஆங்கில மொழிக் கல்வியைப் பெறுவதற்கு வசதிகளை ஏற்படுத்துவதே தமது நோக்கமாகும் எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/997051be.json)
+
+---
+
+### Change in the price of milkma
 
 *2024-03-12 13:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-விலையில்-மாற்றம்/175-334553) · `ta`
 
-எதிர்வரும் வெள்ளிக்கிழமை முதல் ஒரு கிலோகிராம் பால் மாவின் விலை 100 முதல் 150 ரூபாயால் குறைக்கப்படும் என வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Trade Minister Nalin Fernando announced a price reduction of Rs 100 to 150 per kilogram of milk from Friday.
+
+🟩
+
+Trade Minister Nalin Fernando said the price of a kilogram of milk would be reduced by Rs 100 to 150 from Friday.
 
 ◼️
 
 [Data](articles/9697e466.json)
+
+[Extended Data](ext_articles/9697e466.ext.json)
 
 ---
 
@@ -144,7 +276,7 @@ The price of a packet of milk powder is expected to be reduced by an amount rang
 
 ### Eight people, including the priest of the Adivasivan Temple, in the court
 
-*2024-03-12 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178515) · `ta`
+*2024-03-12 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178515) · `ta`
 
 Eight, including a temple priest, arrested during Shivaratri at Vavuniya's Adi Shiva Temple. Police entered the temple and arrested them. The case is being heard at the Vavuniya District Court, with attorneys representing the accused.
 
@@ -374,19 +506,27 @@ This article was recommended for the debate of representatives of various politi
 
 ---
 
-### தேர்தல் முறைமையை  மாற்ற  முயற்சி
+### Try to change the electoral system
 
 *2024-03-12 12:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையை-மாற்ற-முயற்சி/175-334549) · `ta`
 
-நிலுவையில் உள்ள தேசிய தேர்தல்களுக்கு முன்னதாக, பாராளுமன்ற தேர்தல் சட்டத்தில் திருத்தம் கொண்டு வருவதன் மூலம் பாராளுமன்ற தேர்தல் முறையில் மாற்றங்களை கொண்டுவர அரசாங்கம் புதிய முயற்சிகளை மேற்கொண்டுள்ளதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
+The government is proposing a mixed electoral system with 160 MPs elected by first-past-the-post (FPTP) and 65 under proportional representation (PR), aiming to address criticisms of the current PR system. This move comes amidst disagreements between political parties that have hindered past attempts to change the electoral system.
 
-நீதி அமைச்சர் விஜயதாச ராஜபக்ச, கலப்பு தேர்தல் முறைமையை அறிமுகப்படுத்துவதற்கான அமைச்சரவைப் பத்திரத்தை கடந்த வாரம் சமர்ப்பித்திருந்தார். புதிய முறையின் கீழ், 160 எம்.பி.க்கள் முதல் நிலை பதவி முறையின் கீழும், மற்றொரு 65 எம்.பி.க்கள் விகிதாசார பிரதிநிதித்துவத்தின் கீழும் தேர்ந்தெடுக்கப்படுவார்கள்.
+🟩
 
-FPTP இன் கீழ், ஒரு உள்ளூர் தொகுதியில் அதிக வாக்குகளைப் பெறும் வேட்பாளர் ஒரு இடத்தைப் பெறுவார். இதற்கு நேர்மாறாக, PR என்பது பாராளுமன்றத்தில் கட்சிகளின் ஆசனங்கள் அளிக்கப்பட்ட வாக்குகளின் விகிதத்தில் இருக்க வேண்டும் என்ற எண்ணம்.
+A minister said that the government has made new efforts to bring about changes in the parliamentary electoral system by amendment to the parliamentary election law before the outstanding national elections.
+
+Justice Minister Vijayadasa Rajapakse submitted a cabinet paper for the introduction of a mixed electoral system last week.Under the new system, 160 MPs will be selected under the first level of office and another 65 MPs will be selected under proportional representation.
+
+Under the FPTP, the candidate who receives more votes in a local constituency will get a place.On the contrary, PR is the idea that in Parliament, the parties' seats should be at the rate of votes cast.
+
+This article was recommended for the debate of representatives of various political parties in the House.Currently, London, Minister Rajapakse telephoned Daily Mirror, saying that some parties are supporting the proposals and some parties.
 
 ...
 
 [Data](articles/e5251792.json)
+
+[Extended Data](ext_articles/e5251792.ext.json)
 
 ---
 
@@ -790,21 +930,31 @@ Accordingly, within the next six months, the SriLankan Airline Reformation Progr
 
 ---
 
-### முன்னேற்றம் இன்றேல் 6,000 க்கு ஆபத்து
+### Risk to 6,000 without progress
 
 *2024-03-12 10:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-இன்றேல்-6-000-க்கு-ஆபத்து/175-334546) · `ta`
 
-ஸ்ரீலங்கன் எயார்லைன்ஸ் தனது செயற்பாட்டு மற்றும் நிதிப் பிரிவுகளின் முன்னேற்றத்தை அடுத்த ஆறு மாதங்களுக்குள் காட்ட முடியாவிட்டால் சுமார் 6,000 ஊழியர்களின் வேலைகள் நிச்சயமற்றதாக இருக்கும் என கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+SriLankan Airlines faces uncertainty for 6,000 employees if it doesn't show operational and financial progress in 6 months. The government plans to repay $510M to keep the airline afloat, aligning with President Wickremesinghe's proposal. The SriLankan Airline Reformation Program is set to launch within 6 months, aiming to reduce unnecessary costs and improve financial discipline. Currently, 16 flights are in operation, including 6 long-distance and 29 short-distance flights, with some leased from Belgium and Fit Air.
 
-விமான சேவையின் தற்போதைய முன்னேற்றம் குறித்த கலந்துரையாடல் இன்று காலை அவரது அலுவலகத்தில் நிறுவன நிர்வாகம் மற்றும் தொழிற்சங்கங்களுடன் நடைபெற்றது.
+🟩
 
-ஸ்ரீலங்கா எயார்லைன்ஸ் அவ்வப்போது தனது செயற்பாடுகளில் தொடர்ச்சியான தாமதங்கள் காரணமாக குற்றம் சுமத்தப்பட்டதுடன் கடுமையான விமர்சனங்களுக்கு உள்ளானது. இந்த தாமதம் சமீபகாலமாக பயணிகளுக்கு எரிச்சலையும், சிரமத்தையும் ஏற்படுத்தியது.
+Shipping and Aviation Minister Nimal Siripala de Silva said the work of about 6,000 employees would be uncertain if SriLankan Airlines could not show the advancement of its operational and financial divisions within the next six months.
 
-விமான சேவையை தொடர்ந்தும் நடத்துவதற்கு பல வர்த்தக வங்கிகள் மற்றும் ஏனைய நிறுவனங்களிடமிருந்து கடனாகப் பெற்ற 1.2 பில்லியன் அமெரிக்க டொலர்களில் 510 மில்லியன் அமெரிக்க டொலர்களை மீளச் செலுத்த அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் டி சில்வா தெரிவித்தார்.
+Discussion on the current improvement of the airline was held this morning with the corporate administration and the unions at his office.
+
+Sri Lanka Airlines has occasionally been accused of delays in its operations and has been criticized.This delay has recently caused irritation and inconvenience to travelers.
+
+Minister de Silva said the government has decided to repay $ 510 million out of $ 1.2 billion from many commercial banks and other companies to continue the airline.
+
+The decision was taken in accordance with the idea put forward by President Ranil Wickremesinghe as the Finance Minister.
+
+Accordingly, within the next six months, the SriLankan Airline Reformation Program is scheduled to be launched with an attractive financial balance.
 
 ...
 
 [Data](articles/86a3d11b.json)
+
+[Extended Data](ext_articles/86a3d11b.ext.json)
 
 ---
 
@@ -834,21 +984,29 @@ Considering these facts, Minister Amaraweera said that the Cabinet has decided t
 
 ---
 
-### மீள் ஏற்றுமதி  இடைநிறுத்தம்
+### Resettlement
 
 *2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-இடைநிறுத்தம்/175-334545) · `ta`
 
-மிளகு உட்பட பல வகையான வாசனைப் பொருட்களை மீள் ஏற்றுமதிக்காக இறக்குமதி செய்வதற்கு அண்மையில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலை இடைநிறுத்துவதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+The government suspends the import of perfumes like pepper, caste, turmeric, ginger, and cardamom for re-export, following opposition from Minister Mahinda Amaraweera. He argued against the move, citing local farmers' reluctance and the decline in local perfume cultivation. The decision aims to protect Sri Lanka's top-rated perfumes and focus on improving local plantation crops.
 
-இலங்கையில் விளையும் மிளகு, சாதிக்காய், மஞ்சள், இஞ்சி, ஏலக்காய் போன்ற சில வாசனைப் பொருட்களை மீள் ஏற்றுமதி செய்வதற்காக இறக்குமதி செய்வதற்கு அரசாங்கம் வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
+🟩
 
-நேற்றைய அமைச்சரவை கூட்டத்தை தொடர்ந்து விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர இது தொடர்பான வர்த்தமானி அறிவித்தல் தொடர்பில் தனது எதிர்ப்பை வெளியிட்டார்.
+The government has decided to suspend the recent gazette notification issued for importing a variety of fragrances, including pepper, for re -export.
 
-மீள் ஏற்றுமதிக்காக இந்த வாசனைப் பொருட்களை இறக்குமதி செய்ய அனுமதிப்பதன் மூலம், உள்ளூர் விவசாயிகள் ஊக்கமிழப்பதாகவும், அதனால் உள்ளூர் வாசனைப் பொருட்களின் பயிர்செய்கை வீழ்ச்சியடைந்து வருவதாகவும் அவர் சுட்டிக்காட்டினார். அத்துடன், தற்போது உலகின் சிறந்த வாசனைப் பொருட்களில் முதலிடத்தில் உள்ள இலங்கையின் வாசனைப் பொருட்களின் தரத்தில் இது வலுவான தாக்கத்தை ஏற்படுத்தும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+The government has issued a gazette notification for the importation of some perfumes such as pepper, caste, turmeric, ginger and cardamom.
+
+Following yesterday's Cabinet meeting, Minister of Agriculture and Plantation Industries Mahinda Amaraweera made his opposition to the gazette notification.
+
+He pointed out that local farmers are unwilling to allow the importation of these perfumes for re -exports and that the cultivation of local perfumes is falling.The Minister also pointed out that this would have a strong impact on the quality of Sri Lankan perfumes, which are currently the number one of the best perfumes in the world.
+
+Considering these facts, Minister Amaraweera said that the Cabinet has decided to suspend the gazette notification and suspend the importation of perfumes for Sri Lanka for re -export.
 
 ...
 
 [Data](articles/dec095c6.json)
+
+[Extended Data](ext_articles/dec095c6.ext.json)
 
 ---
 
@@ -1158,19 +1316,25 @@ Police said that the man was shot dead when he was taken to rescue the weapons h
 
 ---
 
-### தப்பிச் செல்ல முயன்ற நபர் சுட்டுக்கொலை
+### Shot dead by a man who tried to escape
 
 *2024-03-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தப்பிச்-செல்ல-முயன்ற-நபர்-சுட்டுக்கொலை/76-334543) · `ta`
 
-மொனராகலையில் பொலிஸாரால் நேற்று கைது செய்யப்பட்ட மல்வத்து ஹிரிபிட்டிய பிரதேச பௌத்த பிக்கு மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்ட துப்பாக்கிதாரி சுட்டுக் கொல்லப்பட்டார்.
+A Buddhist monk, arrested in Moneragala, was shot dead by a gunman during an escape attempt. The suspect was killed in a clash while trying to retrieve hidden weapons in Yadavaka.
 
-குறித்த சந்தேகநபர் பொலிஸ் பிடியிலிருந்து தப்பிச் செல்ல முயன்ற போது ஏற்பட்ட மோதலில் குறித்த நபர் மீது துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-குறித்த நபர் அத்தனகல்ல, யதவக்க பிரதேசத்தில் மறைத்து வைக்கப்பட்டிருந்த ஆயுதங்களை மீட்க அழைத்து செல்லும் போது தப்பிச் செல்ல முயன்றதாகவும் இதன்போது ஏற்பட்ட மோதலில் அவர் சுட்டுக் கொல்லப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர். R
+A gunman who shot dead a Buddhist monk who was arrested by the police in Moneragala yesterday, was shot dead.
+
+It is reported that the suspect was shot dead in a clash when the suspect tried to escape from the police clutches.
+
+Police said that the man was shot dead when he was taken to rescue the weapons hidden in the Yadavaka area and he was shot dead in a clash.. Remble
 
 ◼️
 
 [Data](articles/51f9e39c.json)
+
+[Extended Data](ext_articles/51f9e39c.ext.json)
 
 ---
 
@@ -1603,6 +1767,8 @@ The analysis estimates that nearly 880 million adults and 159 million children l
 ...
 
 [Data](articles/e2786dd1.json)
+
+[Extended Data](ext_articles/e2786dd1.ext.json)
 
 ---
 
@@ -2135,137 +2301,5 @@ At the onset of the inquiry before the High Court inquiry, the State Counsel who
 [Data](articles/9ffafb5a.json)
 
 [Extended Data](ext_articles/9ffafb5a.ext.json)
-
----
-
-### Elephant attack in Mullaitivu
-
-*2024-03-12 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178480) · `ta`
-
-An elephant attacked a 62-year-old man in Mullaitivu's old Kandividi area, leading to his death. Mankulam police are investigating.
-
-🟩
-
-The elephant has attacked a person who was traveling in the daytime road in the old Kandividi area of Mullaitivu Ambagamam.
-
-Muthuthambi Krishnasamy from Ambakamathi, 62, has died.
-
-Mankulam police are conducting investigations.
-
-◼️
-
-[Data](articles/e5dd62e7.json)
-
-[Extended Data](ext_articles/e5dd62e7.ext.json)
-
----
-
-### Gary-Mash pair who led Australia to victory on the 4th day
-
-*2024-03-12 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178479) · `ta`
-
-Australia won the 2nd Test against NZ by 3 wickets, thanks to a 140-run partnership in the 6th wicket by Mash & Gary. New Zealand scored 372 in its 2nd innings.
-
-🟩
-
-The Australia series won the 2nd Test match between Australia and New Zealand, which was concluded in the Hegli Oval Stadium in the Hegli Oval Stadium, but won by 3 wickets in the 2nd Test match.
-
-Australia started their second innings on the third day of the match to win the match by 279 runs and Australia lost 4 major wickets that day and scored 77 runs.
-
-As a result, the fourth day of the match was the beginning of the match.
-
-Australia lost their second innings on the fourth day on Monday morning (09) and lost the wicket of Travis Hett in the second over.
-
-However, Michelle Mash and Alex Gary scored 140 runs in the 6th wicket and gave Australia hope.
-
-Michelle Mash got 80 runs with 10 pounds, one six. (220 - 6 wig.)
-
-However, Alex Car and team captain Pet Kamins patiently bowled and shared 61 runs in the 8th wicket, which confirmed Australia's victory.
-
-Alex Gary did not lose the game with 98 runs, including 15 pounds and 32 runs, including Pet Commins 4.
-
-...
-
-[Data](articles/be120a2a.json)
-
-[Extended Data](ext_articles/be120a2a.ext.json)
-
----
-
-### Forge National Unity Based On Inclusion Than Exclusion
-
-*2024-03-12 01:30:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/forge-national-unity-based-on-inclusion-than-exclusion/) · `en`
-
-The northern town of Vavuniya which was once at the front lines of the war is now a peaceful and bustling urban centre. Its physical infrastructure leaves much to be desired, with rundown buildings, and open drains that emit a foul odour. Vavuniya has not had the fortune of a political patron vested with governmental power to transform it like Polonnaruwa and Hambantota have been. But the town itself is peaceful. It is difficult to imagine that it was once under threat of bombardment and thousands of soldiers transited through it on the way to the front lines or back to their homes in the south. In the past there were a large number of security checkpoints at which busloads of people had to disembark and walk on foot from point to point while their vehicles were checked.
-
-...
-
-[Data](articles/ae924ff2.json)
-
-[Extended Data](ext_articles/ae924ff2.ext.json)
-
----
-
-### Mulliyawalai police vehicle derailed
-
-*2024-03-12 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178478) · `ta`
-
-A police vehicle from Mulliyawalai derailed on the Otisuttan Mangulam road, causing minor injuries to the driver. The accident occurred while traveling from Mankulam to Mulliyawalai on Monday evening. Mankulam police are investigating.
-
-🟩
-
-A police vehicle from the Mullaitivu Mulliyawala police station has lost control of the Otisuttan Mangulam road.
-
-The accident occurred on Monday (11) evening
-
-The police vehicle from Mulliyawalai to Mankulam was once again traveling from Mankulam to the passenger.
-
-During this time, the driver suffered minor injuries. Mankulam police are investigating the accident.
-
-◼️
-
-[Data](articles/722cdb96.json)
-
-[Extended Data](ext_articles/722cdb96.ext.json)
-
----
-
-### Motor bombs recovery when not explosive from a school in Vavuniya
-
-*2024-03-12 01:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178477) · `ta`
-
-7 motor bombs recovered from Madukanda National School in Vavuniya without explosion. Police found them in a garbage pit and used a Special Task Force to secure the area. The bombs are being destroyed with court permission.
-
-🟩
-
-Seven motor bombs have been recovered on Monday (11) as they have not exploded from the Madukanda National School in Vavuniya, Madukanda police said.
-
-The motorcycle was found when the garbage pit was cleared of the cavity at the Madukanda National School in Vavuniya. Subsequently, after the school administration was informed by the police, the police went to the scene and recovered 7 motor bombs from the Up area with the help of the Special Task Force.
-
-Police said that steps have been taken to destroy the recovered motor bombs with the permission of the Vavuniya Court.
-
-◼️
-
-[Data](articles/497dcc31.json)
-
-[Extended Data](ext_articles/497dcc31.ext.json)
-
----
-
-### JAT Holdings posts resilient Q3 with 96% revenue growth from Bangladesh
-
-*2024-03-12 01:17:36* · [`dailyftlk`](https://www.ft.lk/business/JAT-Holdings-posts-resilient-Q3-with-96-revenue-growth-from-Bangladesh/34-759381) · `en`
-
-Bangladesh achieves 96% revenue growth as Alkyd Manufacturing Plant commences operations
-
-Sri Lanka’s market leader in wood coatings and paint brushes, and emerging regional conglomerate, JAT Holdings PLC recently released its financials for Q3 of FY 2023/24, reflecting a resilient performance amidst adverse market conditions.
-
-With its operations in Bangladesh seeing continued expansion, including the opening of its manufacturing facility in 2023, and its alkyd resin plant in 2024, supported by cutting-edge R&D and value engineering in Sri Lanka, JAT has established itself as a leader in wood coatings in the region. Accordingly, during Q3, JAT Holdings PLC recorded its highest-ever export turnover at Rs. 2,822 million, an 87% leap from Rs. 1,511 million recorded during the comparable period in FY 2022/23, while export sales margins too improved. Revenues were up by 14% to Rs. 7,887 million from
-
-...
-
-[Data](articles/368fe4cd.json)
-
-[Extended Data](ext_articles/368fe4cd.ext.json)
 
 ---

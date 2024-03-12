@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 10:17:54**
+As of **2024-03-12 10:34:02**
 
 ## Newspaper Stats
 
-*Scraped **12,320** Articles*
+*Scraped **12,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,147 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 677
 adalk | 1,048
-adaderanalk | 1,487
+adaderanalk | 1,488
 tamilmirrorlk | 1,500
-virakesarilk | 1,691
+virakesarilk | 1,693
 dailymirrorlk | 1,880
-adaderanasinhalalk | 1,945
+adaderanasinhalalk | 1,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,309 (99.9%) of 12,320 articles have been extended.
+12,320 (100.0%) of 12,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### யாழில் வீதியால் சென்ற இளம் குடும்பஸ்தர் காரில் கடத்திச் சென்று வெட்டிக்கொலை !
+### DIG of Police Special Branch gets promotion
+
+*2024-03-12 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97888/dig-of-police-special-branch-gets-promotion) · `en`
+
+Deputy Inspector General (DIG) of Police T.C.A. Dhanapala has been promoted to the post of Senior DIG.
+
+Issuing a statement, the Police Media Division stated that the relevant promotion was made by the IGP under the approval of the National Police Commission.
+
+Accordingly, this appointment will be retrospectively effective from February 29, 2024, as per the Police Media Division.
+
+SDIG Dhanapala is currently in-charge of the Special Branch Range.
+
+◼️
+
+[Data](articles/44cc4130.json)
+
+---
+
+### கிளிநொச்சி மாவட்டத்தில் 40.9 ஏக்கர் காணி விடுவிப்பு - மாவட்ட மேலதிக அரசாங்கதிபர்
+
+*2024-03-12 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178495) · `ta`
+
+கிளிநொச்சி மாவட்டத்தில் படைத்தரப்பு வசமிருந்த 40.9 ஏக்கர் காணி விடுவிக்கப்பட்டுள்ளதாக  மாவட்ட மேலதிக அரசாங்கதிபர் எஸ்.முரளீதரன் தெரிவித்தார்.
+
+கிளிநொச்சி மாவட்டத்தில்  3 பிரதேச செயலக பிரிவுகளில் 40.9 ஏக்கர் காணிகள் படையினரால் விடுவிக்கப்பட்டுள்ளது.
+
+குறித்த காணிகளை அரச திணைக்களங்கள் மற்றும் தனியார் நிறுவனங்கள் அல்லது பொதுமக்கள் உறுதிப்படுத்தி பிரதேச செயலகங்களுடன் தொடர்பு கொண்டு தமக்குரிய காணிகளை பெற்றுக் கொள்ள முடியும் எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a811e6cb.json)
+
+---
+
+### யாழ். வடமராட்சி கிழக்கு கடலில் இருவர் கடற்படையால் கைது
+
+*2024-03-12 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178493) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கிழக்கு மணல்காடு கடற்பகுதியில் சட்டவிரோத தொழில் நடவடிக்கையில் ஈடுபட்ட இருவர் பருத்தித்துறை கடற்படையினரால் திங்கட்கிழமை (11) கைது செய்யப்பட்டுள்ளனர்.
+
+கடற்பகுதியில் சட்டவிரோத நடவடிக்கைகளை தடுக்கும் முகமாக கடற்படையினர் தொடர் சுற்றிவளைப்புகளை மேற்கொண்டு வருவதாகவும், இதன் தொடர்ச்சியாகவே பருத்தித்துறை கடற்படையினர் வடமராட்சி கிழக்கு மணல் காடு கடற்பகுதியில் மேற்கொண்ட விசேட தேடுதல் நடவடிக்கையில் ஒளி பாய்ச்சி மீன்பிடித்த இருவரை கைது செய்தனர்.
+
+கைது செய்யப்பட்டவர்கள் குடத்தனை பகுதியை சேர்ந்தவர்கள் எனவும், மேலதிக சட்ட நடவடிக்கைகளுக்காக உடமைகளுடன் இருவரும் யாழ்ப்பாண கடற்றொழில் நீரியல்வளத்திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b7097f12.json)
+
+---
+
+### A young family man who went by road in Jaffna kidnapped and cut down!
 
 *2024-03-12 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178488) · `ta`
 
-வீதியால் சென்ற இளம் குடும்பஸ்தர் ஒருவரை திங்கட்கிழமை கும்பல் ஒன்று கடத்திச் சென்று வாள்வெட்டு தாக்குதல் மேற்கொண்ட நிலையில் அந்த குடும்பஸ்தர் உயிரிழந்துள்ளார்.
+A 23-year-old from Jaffna's Vaddukoddai-Mavadi was kidnapped and killed by a gang on Monday. The family was attacked near Ponnalai Naval Base, and the Marines intervened. The victim was taken to Jaffna Teaching Hospital.
 
-யாழ்ப்பாணம், வட்டுக்கோட்டை - மாவடி பகுதியை சேர்ந்த 23 வயதுடைய குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த குடும்பஸ்தரும் அவரது மனைவியும் காரைநகரில் இருந்து வட்டுக்கோட்டை - மாவடியில் உள்ள வீட்டுக்கு சென்றுகொண்டிருந்தவேளை பொன்னாலை கடற்படை முகாமுக்கு அருகாமையில் இரண்டு கார்களில் ஆயுதங்களுடன் நின்ற சிலர் அவர்களை வழி மறித்தனர்.
+A young family member who went by a street was killed on Monday after a gang abducted and attacked a sword.
 
-இதன்போது இருவரும் தப்பித்து கடற்படை முகாமுக்குள் உள்நுழைந்தனர். இந்நிலையில் கடற்படையினர் அவர்களை வெளியே விரட்டினர்.
+The 23 -year -old family from Jaffna, Vaddukoddai - Mavadi area has died.
 
-இதனால் அவர்கள் வெளியே வந்தவேளை, ஒரு காரில் மனைவியையும், அடுத்த காரில் குறித்த நபரையும் ஏற்றிக்கொண்டு குறித்த குழு அங்கிருந்து சென்றது.
+While the family and his wife were traveling from Karainagar to the house in Vaddukkottai - Mavadi, some of the weapons in two cars near the Ponnalai Naval Base.
 
-பின்னர் மனைவியை சித்தங்கேணி சந்தியில் இறக்கி  விட்டனர். அதன்பின்னர் மனைவி வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்வதற்கு சென்றுள்ளார்.
+Both escaped and logged into the naval camp. In this case, the Marines chased them out.
+
+When they came out, the team went from there to load the wife in one car and the person in the next car.
+
+Then the wife was unloaded at Siddhangeni junction. The wife then went to the Vaddukoddai police station to lodge a complaint.
+
+In this case, the kidnappers went to the Vaddukoddai area hospital after the sword attack on the man and threw him down to the hospital in the hospital.
+
+In this case, the health workers at the hospital informed the doctor by telephone.
 
 ...
 
 [Data](articles/d6091526.json)
 
+[Extended Data](ext_articles/d6091526.ext.json)
+
 ---
 
-### மட்டக்களப்பில் ஐ.தே.க.வின் முன்னாள்  பெண் உறுப்பினரின் வீடு உடைத்து திருட்டு
+### ෆේස්බුක් හිමිකරුට ට්‍රම්ප්ගෙන් දැඩි චෝදනාවක්
+
+*2024-03-12 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194410) · `si`
+
+ටික්ටොක් මව් සමාගම අමෙරිකාව තුළ තහනම් කිරීමේ හෝ එහි මෘදුකාංග අලෙවි කිරීම තහනම් කිරීමේ පනත් කෙටුම්පතක් සම්බන්ධයෙන් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විවේචන සිදුකර තිබේ.
+
+ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කර ඇත්තේ මෙම යෝජනාව ෆේස්බුක් හිමිකරු මෙටා සමාගමට අසාධාරණ වාසි ලබාදෙන බවය.
+
+ටික්ටොක් ජාතික ආරක්ෂාවට තර්ජනයක් ලෙස දැකීම පිළිබඳ තමා එකඟ වන නමුත් ෆේස්බුක් අමෙරිකානු රජයට ද තර්ජනයක් බව ඩොනල්ඩ් ට්‍රම්ප් රූපවාහිනී සාකච්ඡාවකදී ප්‍රකාශ කර ඇත.
+
+2020 වසරේ දී ඩොනල්ඩ් ට්‍රම්ප් ජනාධිපතිවරයා ලෙස කටයුතු කරන සමයේ දී ටික්ටොක් තහනම් කිරීමට උත්සහ කර තිබිණි.
+
+ටික්ටොක් මව් සමාගම වන බයිට්ඩාන්ස් සමාගම සම්බන්ධ නීතිය සම්මත වුවහොත් ඊට අත්සන් කරන බව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ප්‍රකාශ කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/bff66d25.json)
+
+---
+
+### Theft of a former female member of the UNP in Batticaloa
 
 *2024-03-12 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178485) · `ta`
 
-மட்டக்களப்பு மாநகர சபை முன்னாள் ஐக்கிய தேசிய கட்சி பெண் உறுப்பினர் ஒருவரின் வீடு உடைத்து தங்க ஆபரணம், புகைபடகருவி, பணம் ஆகியவற்றை திருடிச் சென்ற சம்பவம் திங்கட்கிழமை (11) அதிகாலை 2.30 மணிக்கு இடம்பெற்றுள்ளதாக மட்டு தலைமையக பொலிஸார் தெரிவித்தனர்.
+A former UNP female member in Batticaloa was robbed of 43 lakhs 7,333 rupees worth of gold jewelry at 2.30 am on Monday. The thief blindfolded her but she couldn't escape. Police found the thief had previously broken into two nearby houses.
 
-இந்த பெண் உறுப்பினர் வீட்டில் நேற்று ஞாயிற்றுக்கிழமை இரவு  பிள்ளைகளுடன் வீட்டின் அறையில் உறங்கி கொண்டிருந்துள்ளார்.
+🟩
 
-இந்நிலையில்  சம்பவதினமான அதிகாலை 2.30 மணிக்கு வீட்டின்  சமையலறையின் யன்னலை கழற்றி உள்நுழைந்த திருடன் அறையில் அலுமாரியில் வைத்திருந்த 43 இலட்சத்து 7,333 ரூபா பெறுமதியான  27 ¾  பவுண்கள் கொண்ட தங்க ஆபரணங்கள், 3 இலச்சது 17 ரூபா பணம், 6 இலட்சம் ரூபா பெறுமதியான புகைபடகருவி என்பவற்றை திருடிச் சென்றுள்ளான்.
+The police said that the incident took place at 2.30 am on Monday (11) at 2.30 am.
 
-பெண் உறுப்பினர் கண்விழத்த போது திருடனை கண்டுள்ளதாகவும், ஆனால் அவரால் படுக்கையில் இருந்து எழும்ப முடியாதவாறு இருந்துள்ளதாகவும் பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+The female member was sleeping in the house of the house with the children on Sunday night.
 
-...
+At 2.30 am at 2.30 am, the thief, who had entered the house of the house, had stolen gold jewelery with 27 ¾ pounds worth 27 ¾ pounds worth of 43 lakhs 7,333 rupees, 3 rupees 17 rupees and Rs.
+
+Initial investigations by the police revealed that the woman had seen the thief when she was blindfolded, but that she could not get up from the bed.
+
+Meanwhile, police said that the thieves had entered the house of two houses near his house before the municipal council's house was broken.
+
+◼️
 
 [Data](articles/52573eda.json)
+
+[Extended Data](ext_articles/52573eda.ext.json)
 
 ---
 
@@ -88,21 +176,29 @@ Multiple Independently-targetable Reentry Vehicles (MIRVs) allow a missile to de
 
 [Data](articles/082e27ef.json)
 
+[Extended Data](ext_articles/082e27ef.ext.json)
+
 ---
 
-### தப்பிச் செல்ல முயன்ற நபர் சுட்டுக்கொலை
+### Shot dead by a man who tried to escape
 
 *2024-03-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிச்-செல்ல-முயன்ற-நபர்-சுட்டுக்கொலை/175-334543) · `ta`
 
-மொனராகலையில் பொலிஸாரால் நேற்று கைது செய்யப்பட்ட மல்வத்து ஹிரிபிட்டிய பிரதேச பௌத்த பிக்கு மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்ட துப்பாக்கிதாரி சுட்டுக் கொல்லப்பட்டார்.
+A Buddhist monk, arrested in Moneragala, was shot dead by a gunman who tried to escape from police. The suspect was killed during a clash while trying to rescue hidden weapons in Yadavaka.
 
-குறித்த சந்தேகநபர் பொலிஸ் பிடியிலிருந்து தப்பிச் செல்ல முயன்ற போது ஏற்பட்ட மோதலில் குறித்த நபர் மீது துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-குறித்த நபர் அத்தனகல்ல, யதவக்க பிரதேசத்தில் மறைத்து வைக்கப்பட்டிருந்த ஆயுதங்களை மீட்க அழைத்து செல்லும் போது தப்பிச் செல்ல முயன்றதாகவும் இதன்போது ஏற்பட்ட மோதலில் அவர் சுட்டுக் கொல்லப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர். R
+A gunman who shot dead a Buddhist monk who was arrested by the police in Moneragala yesterday, was shot dead.
+
+It is reported that the suspect was shot dead in a clash when the suspect tried to escape from the police clutches.
+
+Police said that the man was shot dead when he was taken to rescue the weapons hidden in the Yadavaka area and he was shot dead in a clash.. Remble
 
 ◼️
 
 [Data](articles/1e22c2ae.json)
+
+[Extended Data](ext_articles/1e22c2ae.ext.json)
 
 ---
 
@@ -120,57 +216,79 @@ That amount of tax is levied only for the purpose of protecting the local produc
 
 [Data](articles/72eeb80c.json)
 
+[Extended Data](ext_articles/72eeb80c.ext.json)
+
 ---
 
-### விபத்தில் சிக்கிய பொலிஸ் ஜீப்
+### Police Jeep
 
 *2024-03-12 09:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-சிக்கிய-பொலிஸ்-ஜீப்/175-334542) · `ta`
 
-முல்லைத்தீவு - மாங்குளம், ஒட்டுசுட்டான் வீதியில் நேற்று (11) மாலை 06.00 மணியளவில் பொலிஸ் வாகனம் ஒன்று விபத்தில் சிக்கியுள்ளது.
+A police Jeep crashed on Oddusutan Road, Mullaitivu - Mankulam, yesterday at 6:00 pm, injuring two officers. The vehicle was severely damaged.
 
-முள்ளியவளையில் இருந்து மாங்குளம் நோக்கி பயணித்துக் கொண்டிருந்த பொலிஸ் வாகனம் கரிப்பட்டமுறிப்பு தச்சடம்பன் பகுதியில் வீதியினை விட்டு விலகி விபத்துக்குள்ளாகி உள்ளது.
+🟩
 
-வாகனத்தில் சென்ற இரு பொலிஸ் அதிகாரிகளும் சிறு காயங்களுக்குள்ளாகினர். எனினும், பொலிஸ் வாகனம் பலத்த சேதமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+A police vehicle crashed at Mullaitivu - Mankulam, Oddusutan Road yesterday (11) at 06.00 pm.
+
+A police vehicle traveling from Mulliyawalai to Mankulam has crashed into the road.
+
+Two police officers in the vehicle suffered minor injuries. However, it is reported that the police vehicle has been severely damaged. Remble
 
 ◼️
 
 [Data](articles/ef1a0910.json)
 
+[Extended Data](ext_articles/ef1a0910.ext.json)
+
 ---
 
-### தென் மாகாண மக்களின் நலனுக்காக நன்கொடை, முதலீடுகளை மேற்கொள்ள ஆர்வம் - இந்திய உயர்ஸ்தானிகர்
+### Interested in donating and investing for the welfare of the people of the Southern Province - Indian High Commissioner
 
 *2024-03-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178484) · `ta`
 
-தென்மாகாணத்தில் உள்ள மக்களின் நலனுக்காக நன்கொடை உதவிகள் மற்றும் முதலீடுகள் மூலம் மேலும் பல திட்டங்களை முன்னெடுப்பதற்கு ஆர்வமாக உள்ளதாக இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்துள்ளார்.
+Indian High Commissioner Santosh Ja visited the Southern Province, expressing interest in donating and investing for welfare projects. He met Governor Willy Kamage, discussed Indian government initiatives, and visited Galle, Matara, and Hambantota districts. The High Commissioner also paid tribute to Ravindranath Tahur in the Rukuna University auditorium, built with Indian donations. The Government of India is implementing housing schemes in Galle, Matara, and Hambantota, with the High Commissioner visiting to assess progress.
 
-தென்மாகாணத்திற்கு அண்மையில் விஜயம் மேற்கொண்ட இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா, மாகாண ஆளுநரான வில்லி கமகேவை சந்தித்து பிராந்தியத்தில் இந்திய அரசு மேற்கொண்ட பல திட்டங்கள் குறித்து எடுத்துரைத்தபோதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா, இம்மாதம் 6 ஆம் திகதி முதல் 7  ஆம் திகதி வரை காலி, மாத்தறை மற்றும் அம்பாந்தோட்டை மாவட்டங்களுக்கான விஜயத்தை மேற்கொண்டு பல்வேறு நிகழ்வுகளில் பங்கேற்றுள்ளதன் மூலம் தென் மாகாணத்திற்கு ஒரு பூரணமான விஜயத்தை மேற்கொண்ட முதல் இந்திய உயர் ஸ்தானிகர் என்ற பெருமையும் பெறுகின்றார்.
+Indian High Commissioner Santosh Ja said that he is eager to carry out more projects through donation and investments for the welfare of the people in the Southern Province.
 
-இந்த விஜயத்தின் அங்கமாக உயர் ஸ்தானிகர் 2024 மார்ச் 06ஆம் திகதி மாகாண ஆளுநரான வில்லி கமகேவை சந்தித்து பிராந்தியத்தில் இந்திய அரசு மேற்கொண்ட பல திட்டங்கள் குறித்து எடுத்துரைத்தார்.
+Indian High Commissioner Santosh Ja, who recently visited the Southern Provincial Council, met the provincial governor Willy Kamage and made the above statement about the many plans of the Indian government in the region.
+
+Indian High Commissioner Santosh Ja is the first Indian High Commissioner to make a perfect visit to the Southern Province by visiting the Galle, Matara and Hambantota districts from 6th to 7th of this month.
+
+As part of the visit, the High Commissioner met on March 6, 2024, the provincial governor, Wiley Kamage, and explained the many projects taken by the Government of India in the region.
+
+The High Commissioner also expressed its willingness to carry out more projects through donation assistance and investments for the benefit of the people in the province.
 
 ...
 
 [Data](articles/d97cd844.json)
 
+[Extended Data](ext_articles/d97cd844.ext.json)
+
 ---
 
-### எல்பிட்டிய துப்பாக்கிப் பிரயோகம் : காயமடைந்த மூவரில் ஒருவர் உயிரிழப்பு!
+### Elpitiya shooting: One of the injured killed
 
 *2024-03-12 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178486) · `ta`
 
-எல்பிட்டிய, பிடிகல பகுதியில் இடம்பெற்ற துப்பாக்கி பிரயோகத்தில் காயமடைந்த மூவரில் ஒருவர் உயிரிழந்துள்ளார்.
+In Elpitiya, a gunfight left one dead and three injured. One of the injured died without treatment, raising the casualty count to 2.
 
-எல்பிட்டிய, பிடிகல பகுதியில் திங்கட்கிழமை (11) இடம்பெற்ற துப்பாக்கிச் பிரயோகத்தில் ஒருவர் உயிரிழந்துள்ள நிலையில், மேலும் மூவர் காயமடைந்திருந்தனர்.
+🟩
 
-இவ்வாறு காயமடைந்த மூவரும் வைத்தியசாலையில் சிகிச்சைபெற்று வந்த நிலையில், அதில் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+One of the three injured in a gunfight in the Pitigala area of Elpitiya has died.
 
-இதையடுத்து எல்பிட்டி - பிட்டிகல பகுதியில் நடத்தப்பட்ட துப்பாக்கி சூட்டில் உயிரிழந்தவர்களின் எண்ணிக்கை 2 ஆக உயர்வடைந்துள்ளது.
+One person was killed and three others were injured in a shooting on Monday (11) in Pitigala, Elpitiya.
+
+The injured three were treated at the hospital, and one of them died without treatment.
+
+The number of casualties in the Elpitti -Pitigala area has risen to 2.
 
 ◼️
 
 [Data](articles/a77dcfa8.json)
+
+[Extended Data](ext_articles/a77dcfa8.ext.json)
 
 ---
 
@@ -297,6 +415,8 @@ He pointed out that by allowing the import of these spices for re-exports, the l
 ...
 
 [Data](articles/bccbb5fc.json)
+
+[Extended Data](ext_articles/bccbb5fc.ext.json)
 
 ---
 
@@ -756,6 +876,8 @@ In a media statement yesterday, the Sri Lanka Banks’ Association (SLBA), on be
 
 [Data](articles/5803ab62.json)
 
+[Extended Data](ext_articles/5803ab62.ext.json)
+
 ---
 
 ### Temperature at the alarm level
@@ -871,6 +993,8 @@ In February, the consumer price inflation, according to the officials’ preferr
 ...
 
 [Data](articles/67107cc2.json)
+
+[Extended Data](ext_articles/67107cc2.ext.json)
 
 ---
 
@@ -2045,87 +2169,5 @@ While the CID was in the custody, the security forces were also trying to surviv
 [Data](articles/4783849e.json)
 
 [Extended Data](ext_articles/4783849e.ext.json)
-
----
-
-### Jaffna University Teachers’ Association Condemns Arrests & Police Excesses Against Priests, Devotees & Political Leaders On Maha Sivaraathiri
-
-*2024-03-11 19:32:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/jaffna-university-teachers-association-condemns-arrests-police-excesses-against-priests-devotees-political-leaders-on-maha-sivaraathiri/) · `en`
-
-Statement Issued by the University of Jaffna Teachers’ Association on the Police Excesses and Arrests at the Vedukkunaarimalai Shrine on the Sivaraathiri Night
-
-The University of Jaffna Teachers’ Association vehemently condemns the arrests and police excesses against the priests, devotees and political leaders who were engaged in religious observances at the Vedukkunaarimalai Athi Lingeswarar Shrine on the Maha Sivaraathiri night.
-
-...
-
-[Data](articles/de2e2b6b.json)
-
-[Extended Data](ext_articles/de2e2b6b.ext.json)
-
----
-
-### A stock of antiquities for Rs. 5 crores will not be sold
-
-*2024-03-11 19:29:08* · [`adalk`](https://www.ada.lk/breaking_news/පෞරාණික-භාණ්ඩ-තොගයක්-රු--කෝටි-5කට-විකුණන්න-බැරි-වෙයි/11-408549) · `si`
-
-Army intelligence arrested personnel attempting to sell a Rs. 5 crores antiquities stock, including ancient currency notes and coins. The items were from Peyagama, Matugama, Pelagama, Pelawatta temples. A 24-year-old Pelawatta resident was also detained.
-
-🟩
-
-Army intelligence and STF personnel have been arrested by the Army intelligence and STF personnel who tried to sell an antiquity worth Rs.
-
-The Army said that this is the historical value of the exhibition at a temple in Peyagama, Matugama, Pelagama, Pelawatta.
-
-Ancient currency notes and coins with antiquity, kuszes, black and white-colored couple with ancient, black and white colors in the morning, a small-scale ticket, black and white-colored couple, among the cargo, black and white colors.Several, as well as several other antique items included.
-
-A soldier is a 24-year-old resident of Pelawatta, a resident of Pelawatta, a resident of Pelawatta, is also arrested in the Pelawatta area.. The Meegahatenna Police are conducting further investigations.
-
-◼️
-
-[Data](articles/eef47720.json)
-
-[Extended Data](ext_articles/eef47720.ext.json)
-
----
-
-### Vihara firing in Mahiyanganaya!
-
-*2024-03-11 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178467) · `ta`
-
-Vihara in Mahiyanganaya fired on Monday, with no injuries reported.
-
-🟩
-
-The shooting was carried out on Monday (11) at Mahiyanganaya, Thampana and Kukulapola Pradeshiya Vihar.
-
-Police have said that no one in the Vihara was injured.
-
-◼️
-
-[Data](articles/231db562.json)
-
-[Extended Data](ext_articles/231db562.ext.json)
-
----
-
-### A 15 -year -old boy sexually abused at Kurunegala Hospital
-
-*2024-03-11 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178466) · `ta`
-
-A 15-year-old boy was sexually abused at Kurunegala Hospital, leading to his arrest for the same crime.
-
-🟩
-
-A 15 -year -old boy who was treated at the Kurunegala Teaching Hospital has been arrested on charges of rape of a 15 -year -old boy, Kurunegala headquarters police said.
-
-It is reported that the boy who was treated in the second treatment unit after being admitted to the emergency department has been abused.
-
-It is said that the boy who was being treated was taken to the bathroom of the treatment unit and abused.
-
-◼️
-
-[Data](articles/142e00e3.json)
-
-[Extended Data](ext_articles/142e00e3.ext.json)
 
 ---

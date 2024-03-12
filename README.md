@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 07:30:55**
+As of **2024-03-12 07:53:01**
 
 ## Newspaper Stats
 
-*Scraped **12,287** Articles*
+*Scraped **12,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,81 @@ adaderanalk | 1,483
 tamilmirrorlk | 1,494
 virakesarilk | 1,687
 dailymirrorlk | 1,872
-adaderanasinhalalk | 1,938
+adaderanasinhalalk | 1,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,284 (100.0%) of 12,287 articles have been extended.
+12,287 (100.0%) of 12,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### දකුණ හොල්ලන පාතාලේ
+### උඩරට වෙස් ඇඳුම ලෝක උරුමයක් කරන්න තීරණයක්
+
+*2024-03-12 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194403) · `si`
+
+‍උඩරට වෙස් ඇඳුම් කට්ටලය ලෝක උරුමයක් බවට පත් කිරීමට පියවර ගන්නා බව බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විඳුර වික්‍රමනායක මහතා පවසයි.
+
+උඩුගං බලා යන මෙරට සංස්කෘතික උරුමය මතු පරපුරට දායාද කිරීම සඳහා සංස්කෘතික සංගායනාවක අවශ්‍යතාව පවතින බව අමාත්‍යවරයා සඳහන් කළේය.
+
+මහජන සේවකයින් වන දේශපාලනඥයින් පෙරහරින් වැඩම කරවීම අත්හැරිය යුතු බව ද මාතලේ බෞද්ධ මන්දිරයේ පැවති වැඩසටහනකදී අමාත්‍ය විඳුර වික්‍රමනායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/9884d685.json)
+
+---
+
+### Right in situma
 
 *2024-03-12 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194402) · `si`
 
-පිටිගල සහ අම්බලන්ගොඩ යන ප්‍රදේශවල සිදුවූ වෙඩිතැබීම් දෙකකින් පුද්ගලයින් සිව්දෙනෙකු මියගොස් පුද්ගලයින් 06 දෙනෙකු තුවාල ලබා තිබේ.
+In Pitigala and Ambalangoda, two shops were targeted, resulting in two deaths and six injuries.
+
+🟩
+
+Two shops killed in two shots in Pitigala and Ambalangoda were killed and six people were injured.
 
 ◼️
 
 [Data](articles/ac26df50.json)
 
+[Extended Data](ext_articles/ac26df50.ext.json)
+
 ---
 
-### අඹුසැමි යුවළක්ව පැහැරගනී
+### Couple abducted
 
 *2024-03-12 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194401) · `si`
 
-වඩුක්කෝට්ටේ, පොන්නාලේ හන්දිය ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් විසින් අඹුසැමි යුවළක් පැහැරගෙන ගොස් පිරිමි පුද්ගලයාව තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබේ.
+A couple was abducted in Kadukkotte, assaulted, and left seriously injured. The incident involved a motorcycle, a group of resentment, and a hospital visit. Police are investigating.
 
-ඊයේ (11) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+🟩
 
-මරණකරු හා ඔහුගේ බිරිඳ යතුරු පැදියකින් ගමන් කරමින් සිටින අවස්ථාවේ පොන්නාලේ හන්දිය ආසන්නයේදී මරණකරු සමග පෙර අමනාපයක් තිබූ පිරිසක් මෝටර් රථයකින් පැමිණ සිටින බව දැක ඇත.
+A couple abducted a couple abducted by a group of people in Kadukkotte and the man was assaulted by sharp weapons.
 
-එහිදී මරණකරු යතුරුපැදිය හරවා පොන්නාලේ නාවික හමුදා මුරපොළ අසලට ධාවනය කර තිබේ.
+The incident was reported yesterday (11) at night, police said.
 
-ඔවුන් පසුපසින් පැමිණ මෙම පිරිස මරණකරු හා බිරිඳ යතුරුපැදිව සමග පැහැරගෙන ගොස් ඇති අතර පසුව කාන්තාව සිත්තන්කේනි හන්දියේ දමා ගොස් ඇත.
+When the deceased and his wife was traveling with a motorcycle, a group of resentment with the deceased was near a car near Ponna Mala Junction.
 
-පසුව මරණකරු තියුණු ආයුධවලින් පහරදී බරපතළ තුවාල සිදුකර කොට්ටකාඩු රෝහල අසලට මොටර් රථකින් ගෙනවිත් දමා සැකකරුවන් පළාගොස් තිබේ.
+The deceased has been turned to the motorbike and has been driven to the Navy checkpoint.
 
-තුවාලකරු වැඩිදුර ප්‍රතිකාර සඳහා යාපනය රෝහලට ඇතුළත් කිරීමේදී මියාගොස් ඇත.
+They came after them and had been abducted with the abductor and his wife motorbikes, and later had left the woman.
 
-ඝාතනයට සම්බන්ධ සැකකරුවන් හඳුනාගෙන ඇති අතර ඔවුන් අත්අඩංගුවට ගැනීමට වඩුක්කෝට්ටේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased has been severely wounded by sharp decades and took seriously injured in a motor vehicle to the Kottu Kutu hospital.
+
+The injured had been admitted to the Jaffna Hospital for further treatment.
+
+Kadukkotte police are conducting further investigations into the murder.
 
 ◼️
 
 [Data](articles/b8a57324.json)
+
+[Extended Data](ext_articles/b8a57324.ext.json)
 
 ---
 
@@ -355,6 +383,8 @@ The northern town of Vavuniya which was once at the front lines of the war is no
 ...
 
 [Data](articles/ae924ff2.json)
+
+[Extended Data](ext_articles/ae924ff2.ext.json)
 
 ---
 
@@ -2175,25 +2205,5 @@ Students and youth are protesting in front of the hospital's resource hospital a
 [Data](articles/7dca2866.json)
 
 [Extended Data](ext_articles/7dca2866.ext.json)
-
----
-
-### Heat advisory: Temperatures expected to reach ‘caution’ level
-
-*2024-03-11 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/97873/heat-advisory-temperatures-expected-to-reach-caution-level-) · `en`
-
-The Department of Meteorology has cautioned the people of rising temperatures in the North-western, Western, Southern and Sabaragamuwa provinces as well as in the Anuradhapura, Mannar, Trincomalee and Batticaloa districts tomorrow.
-
-The heat index advisory, issued at 04:00 p.m. today (11 March), will be in effect until tomorrow evening (12 March).
-
-“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Western, North-western, Southern and Sabaragamuwa provinces and in Anuradhapura, Mannar, Trincomalee and Batticaloa districts”, the advisory read.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
-
-...
-
-[Data](articles/8df47206.json)
-
-[Extended Data](ext_articles/8df47206.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 15:17:45**
+As of **2024-03-12 15:33:17**
 
 ## Newspaper Stats
 
-*Scraped **12,402** Articles*
+*Scraped **12,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,131 @@ dailyftlk | 641
 economynextcom | 655
 islandlk | 677
 adalk | 1,057
-adaderanalk | 1,496
+adaderanalk | 1,497
 tamilmirrorlk | 1,513
-virakesarilk | 1,710
+virakesarilk | 1,713
 dailymirrorlk | 1,889
-adaderanasinhalalk | 1,955
+adaderanasinhalalk | 1,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,399 (100.0%) of 12,402 articles have been extended.
+12,402 (100.0%) of 12,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### யாழில் இளம் குடும்பஸ்தர் படுகொலை ; சந்தேகநபர்கள் மூவர் அடையாளம்
+
+*2024-03-12 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178533) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில்  இளம் குடும்பஸ்தர் ஒருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் சந்தேகநபர்கள் மூவரை அடையாளம் கண்டுள்ளதாகவும், அவர்களை கைது செய்வதற்கு நடவடிக்கைகளை முன்னெடுத்துள்ளதாக வட்டுக்கோட்டை பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+
+வட்டுக்கோட்டை பகுதியை சேர்ந்த 23 வயதான தவச்செல்வம் பவிதரன் எனும்  இளம் குடும்பஸ்தர் தனது மனைவியுடன் காரைநகர் பகுதிக்கு நேற்று திங்கட்கிழமை சென்று விட்டு, வட்டுக்கோட்டை நோக்கி தனது மோட்டார் சைக்கிளில் வந்து கொண்டிருந்த வேளையில் , பொன்னாலை பாலத்திற்கு அருகில் இரண்டு வாகனங்களில் காத்திருந்த சுமார் 15 பேர் கொண்ட குழுவினர் கணவன் மனைவி இருவரையும் வாகனத்தில் கடத்தி சென்றனர்.
+
+கணவனை ஒரு வாகனத்திலும், மற்றைய வாகனத்தில் மனைவியையும் கடத்தி சென்ற வன்முறை கும்பல், மாணவியை அராலி பகுதியில் இறக்கி விட்டுள்ளனர்.
+
+கணவனை கடத்தி சென்றவர்கள், வாகனத்தினுள் வைத்து சரமாரியாக தாக்குதல் மேற்கொன்டதுடன், வாள் வெட்டு தாக்குதலையும் மேற்கொண்டு விட்டு, வட்டுக்கோட்டை பகுதியில் உள்ள வைத்தியசாலை ஒன்றின் முன்பாக படுகாயங்களுடன் இளைஞனை வீசி விட்டு தப்பி சென்றுள்ளனர்.
+
+...
+
+[Data](articles/28398765.json)
+
+---
+
+### ශ්‍රී ලංකා එක්දින සංචිතය නම් කෙරේ
+
+*2024-03-12 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194421) · `si`
+
+බංග්ලාදේශය සමග පැවැත්වෙන තරග 3කින් සමන්විත එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම්කර තිබේ.
+
+◼️
+
+[Data](articles/53b29cd3.json)
+
+---
+
+### நோர்வே மன்னரின் இதயத்தில் நிரந்திர பேஸ்மேக்கர்
+
+*2024-03-12 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178534) · `ta`
+
+நோர்வே மன்னர் ஹெரால்டுக்கு இதயத்தில் நிரந்தர பேஸ்மேக்கர் சாதனம் பொருத்தப்படவுள்ளதாக நோர்வே அரண்மனை இன்று தெரிவித்துள்ளது.
+
+87 வயதான மன்னர் ஹெரால்ட், அண்மையில் மலேஷியாவுக்கு சுற்றுலா மேற்கொண்டபோது, அவரின் உடல்நிலை பாதிக்கப்பட்டது. அவருக்கு இதயத்துடிப்பு குறைவாக இருந்ததால் கடந்த 2 ஆம் திகதி அவருக்கு  மலேஷியாவில் தற்காலிக பேஸ்மேக்கர் சாதனம் பொருத்தப்பட்டது.
+
+இந்நிலையில்,  அவருக்கு நிரந்தர பேஸ்மேக்கர் பொருத்தப்பட வேண்டும் எனவும், இதற்கான சத்திரசிகிச்சை நோர்வேயில் இன்று மேற்கொள்ளப்படும் எனவும் நோர்வே அரண்மனை தெரிவித்துள்ளது.
+
+மன்னர் ஹெரால்ட் கடந்த சில வருடங்களாக ஆரோக்கிய பாதிப்புகளை எதிர்கொண்டுவருகிறார். எனினும், தான் முடிதுறக்கக்கூடும் என்ற ஊகங்களை அவர் நிராகரித்து வருகிறார்.
+
+◼️
+
+[Data](articles/058ce4c1.json)
+
+---
+
+### 21 killed in 30 shootings so far in 2024 – Police
+
+*2024-03-12 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97897/21-killed-in-30-shootings-so-far-in-2024-police) · `en`
+
+Police state that 30 shooting incidents have been reported from across the island during the period elapsed from the beginning of this year to 12 March.
+
+Police Media Spokesman DIG Nihal Thalduwa revealed that 21 individuals have been killed in these shooting incidents while 14 others were injured.
+
+According to him, 17 out of 30 shooting incidents had been carried out by organized criminal gangs.
+
+Furthermore, DIG Thalduwa expressed that the other 13 incidents had stemmed from personal disputes, citing details uncovered so far during the investigations.
+
+◼️
+
+[Data](articles/45c6c415.json)
+
+---
+
+### මතභේදයට තුඩු දුන් නීතියක් ඉන්දියාවේ ක්‍රියාත්මක කෙරේ
+
+*2024-03-12 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194420) · `si`
+
+මතභේදයට තුඩු දී ඇති පුරවැසිභාවය පිළිබඳ නීතියක් ක්‍රියාත්මක කිරීමට ඉන්දීය රජය සැලසුම් කර තිබේ.
+
+මුස්ලිම් නොවන පාකිස්තාන, බංග්ලාදේශ සහ ඇෆ්ගනිස්තාන සුළු ජාතීන්ට ඉන්දීය පුරවැසිභාවය ඉල්ලීමට අවස්ථාව ලබාදීම එමගින් යෝජිත යි.
+
+මෙම පනත 2019 වසරේදී සම්මත වූ අතර එය මුස්ලිම් විරෝධී බව සඳහන් කරමින් මුස්ලිම් ප්‍රජාව ඊට ප්‍රබල විරෝධයක් එල්ල කළේය.
+
+ඊට එරෙහිව රටපුරා විරෝධතා ආරම්භ වූ අතර එහිදී කිහිපදෙනෙකු මියගොස් තිබුණි.
+
+කෙසේ නමුත් අදාළ රටවල පීඩාවට පත්ව වෙසෙන සුළුතර හින්දු, සික්, බෞද්ධ, ජෛන, පාර්සි සහ ක්‍රිස්තියානි භක්තිකයින්ට සහන සැලසීමේ අරමුණින් මෙය වහාම ක්‍රියාවට නංවන බව ඉන්දීය රජය අවධාරණය කරයි.
+
+මෙම නීතිය අදාළ වන්නේ 2014 වසරේ දෙසැම්බර් 31 වනදාට පෙර ඉන්දියාවට පැමිණි සුළු ජාතිකයින් සඳහා පමණි.
+
+එහෙත් ඉන්දීය පුරවැසිභාවය මාර්ගගත ක්‍රමවේදය ඔස්සේ ඉල්ලුම් කිරීමට හැකිවන පරිදි පහසුකම් සපයා ඇති බව ඉන්දීය බලධාරීන් පවසයි.
+
+◼️
+
+[Data](articles/163016d6.json)
+
+---
+
+### டிக்டொக்கினால் தேசிய பாதுகாப்பிற்கு அச்சுறுத்தல் - முகநூல் பொதுமக்களின் எதிரி - டிரம்ப் கருத்து
+
+*2024-03-12 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178531) · `ta`
+
+டிக்டொக்  அமெரிக்காவின் பாதுகாப்பிற்கு அச்சுறுத்தல் என தெரிவித்துள்ள முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் முகநூல் மக்களின் எதிரி என குறிப்பிட்டுள்ளார்.
+
+டிக்டொக்கினால் அமெரிக்காவின் பாதுகாப்பிற்கு அச்சுறுத்தல் என கருதுவதாக தெரிவித்துள்ள  டொனால்ட் டிரம்ப் எனினும் இதனை தடை செய்வதை நான் ஆதரிக்கமாட்டேன் ஏன்; என்றால் அதனை தடைசெய்தால் மக்களின் எதிரியான முகநூலின்  ஆதரவு அதிகரிக்கும் எனவும் தெரிவித்துள்ளார்.
+
+சிஎன்பிசி நேர்காணலில் டிக்டொக் தேசிய பாதுகாப்பிற்கு அச்சுறுத்தலானதா என்ற கேள்விக்கே  நான் அவ்வாறே நம்புகின்றேன் நாங்கள் அமெரிக்க மக்களின் அந்தரங்கள் மற்றும் தரவு உரிமைகளை பாதுகாக்கின்றோம் என்பதை ஏற்றுக்கொள்ளவேண்டும் என டிரம்ப் பதிலளித்துள்ளார்.
+
+டிக்டொக் செயலியை அமெரிக்காவில் தடை செய்வதை டிரம்ப் முதலில் ஆதரித்திருந்தார்.எனினும் இதற்கான ஆதரவை தற்போது தனது முடிவை மாற்றியுள்ளார்.
+
+ஏன் டிக்டொக்கினை தடை செய்யவேண்டும் என்ற நிலைப்பாட்டிலிருந்து பின்வாங்கினீர்கள் என்ற கேள்விக்கு  எனது ஆட்சிக்காலத்தில் அதனை தடைசெய்திருக்க முடியும் ஆனால்  காங்கிரஸே அதனை செய்யவேண்டும்என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f612a2b4.json)
+
+---
 
 ### Stop Indian role;Struggle after the 25th - Fisheries Societies Warning
 
@@ -80,6 +190,8 @@ All three solar power projects will be on a build, own and operate basis.
 
 [Data](articles/d3067308.json)
 
+[Extended Data](ext_articles/d3067308.ext.json)
+
 ---
 
 ### Another case against Keheliya will be heard
@@ -124,6 +236,8 @@ Minister of Foreign Affairs Ali Sabry, PC, and Presidential Secretary Saman Ekan
 
 [Data](articles/0f8fd964.json)
 
+[Extended Data](ext_articles/0f8fd964.ext.json)
+
 ---
 
 ### 30 shootings in 72 days: 21 killed, 14 injured!
@@ -150,19 +264,25 @@ He added that 13 other shootings were carried out for personal reasons.
 
 ---
 
-### அமைச்சரவைக் குழு ஜனாதிபதி தலைமையில் கூடியது
+### The Cabinet Committee Meet the President
 
 *2024-03-12 14:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவைக்-குழு-ஜனாதிபதி-தலைமையில்-கூடியது/175-334561) · `ta`
 
-இன்றைய பொருளாதார மாற்றத்திற்கு கல்வி இன்றியமையாத அங்கமாகும் என்பதை அறிந்து, கல்வி முன்னேற்றத்திற்காக அரசாங்கத்தினால் தயாரிக்கப்பட்ட தேசிய கல்விக் கொள்கைக் கட்டமைப்பை நடைமுறைப்படுத்துவதைக் கண்காணிப்பதற்காக நியமிக்கப்பட்ட அமைச்சரவைக் குழு திங்கட்கிழமை (11) ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் கூடியது.
+The Cabinet Committee, led by President Ranil Wickremesinghe, discussed the National Education Policy's implementation, focusing on short-term changes and measures for education advancement. Key points included establishing a National Council for Teachers, enhancing teacher professionalism, and increasing English language education. The President directed the recruitment of 2,500 new teachers and the integration of 1,100 graduates through competitive exams to boost English language education.
 
-இந்தக் குழுவில் பிரதமர் தினேஷ் குணவர்தன, கல்வி அமைச்சர் கலாநிதி சுசில் பிரேம்ஜயந்த உள்ளிட்ட 08 அமைச்சர்கள் கலந்துனக்கொண்டிருந்தனர்.
+🟩
 
-மேலும் இக்கலந்துரையாடலில்,  தேசியக் கல்விக் கொள்கைக் கட்டமைப்பில் குறுகிய கால மற்றும் இடைக்கால கல்வி மாற்றத்துக்கான செயல்முறைகளைக் கொண்டுள்ளது. மேலும், கல்வித் துறையில் தற்காலத்தில் மேற்கொள்ளப்பட வேண்டிய மிக முக்கியமானதும்,விரைவானதுமான நடவடிக்கைகள் குறித்து இந்தக் கலந்துரையாடலில் ஆராயப்பட்டது.
+Knowing that education is an essential part of today's economic change, the Cabinet Committee appointed to monitor the implementation of the National Education Policy Building for the Advancement of Education was convened at the Presidential Office headed by President Ranil Wickremesinghe.
+
+The committee was attended by Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premjayantha.
+
+In this case, the National Education Policy Framework contains the processes for short -term and interim educational change. In addition, the discussion was examined on the most important and quick measures to be carried out in the field of education.
 
 ...
 
 [Data](articles/a7375698.json)
+
+[Extended Data](ext_articles/a7375698.ext.json)
 
 ---
 
@@ -812,7 +932,7 @@ Marikar responded to this question by recalling how President Ranasinghe Premada
 
 ---
 
-### Pilot project to empower Aswesuma welfare scheme beneficiaries
+### Pilot project to uplift Aswesuma welfare scheme beneficiaries
 
 *2024-03-12 12:34:00* · [`economynextcom`](https://economynext.com/pilot-project-to-empower-aswesuma-welfare-scheme-beneficiaries-154275/) · `en`
 
@@ -2201,137 +2321,5 @@ Speaking at a press conference held at the Presidential Media Center, Pavithra W
 [Data](articles/d72c7a15.json)
 
 [Extended Data](ext_articles/d72c7a15.ext.json)
-
----
-
-### Showers expected in several districts
-
-*2024-03-12 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97884/showers-expected-in-several-districts) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Colombo, Kalutara, Ratnapura, Galle and Matara districts in the evening or night.
-
-A few showers are likely in Ampara, Batticaloa and Hambantota districts during the morning.
-
-Mainly dry weather will prevail in the other areas of the island, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/0e36b0eb.json)
-
-[Extended Data](ext_articles/0e36b0eb.ext.json)
-
----
-
-### The prejection of the MP's house broke into the house
-
-*2024-03-12 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194404) · `si`
-
-An unmanned lorry crashed into MP Gamini Walaruboda's house around 8.00 pm, damaging it. The MP was not present at the time.
-
-🟩
-
-A lorry, which was traveling without a driver, has collapsed to the house of MP Gamini Walaruboda.
-
-As a result, the MP's house was damaged, "Ada Derana reporter said.
-
-A lorry, which was traveling without a driver at around 8.00 pm yesterday, was collapsed.
-
-The MP was not home at the time of the accident and left for Colombo for a few minutes ago.
-
-The lorry has been running down and the time, while the lorry was stopped at the top of the house.
-
-◼️
-
-[Data](articles/7e17d5fd.json)
-
-[Extended Data](ext_articles/7e17d5fd.ext.json)
-
----
-
-### SriLankan Airlines asked to show better results after $500mn tax-payer bailout
-
-*2024-03-12 07:53:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-asked-to-show-better-results-after-500mn-tax-payer-bailout-154169/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines was asked to show better performance by Aviation Minister Nimal Siripala de Silva following government support to strengthen its balance sheet, a ministry statement said.
-
-The government was taking out 510 million US dollars out of 1.2 billion US dollars in debt, and the airline has to show better performance in the next six months Minister de Silva had said, during a meeting with the management and trade unions on March 11.
-
-Separately  the airline has also been promised 60 to 70 million dollars of working capital support, Minister de Silva said earlier this month.
-
-The airline should to cuts costs and maintain financial discipline in the next six months, if not jobs of 6,000 employees are at risk, he said.
-
-Sri Lankan Airlines now had a fleet of 16 aircraft operating 06 long haul routes and 29 short haul ones, officials had said.
-
-Related SriLankan Airlines debt of US$510mn to be taken over by govt
-
-...
-
-[Data](articles/d735bcb6.json)
-
-[Extended Data](ext_articles/d735bcb6.ext.json)
-
----
-
-### Sri Lanka rejects global report on child malnutrition
-
-*2024-03-12 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-rejects-global-report-on-child-malnutrition/108-278640) · `en`
-
-Colombo, March 11 (Daily Mirror) - In response to recent findings published in the British medical journal, The Lancet, concerning child malnutrition and underweight girls, Sri Lanka's health authorities have rejected the content referred to the portrayal of Sri Lanka.
-
-According to the study, approximately 410,000 girls in Sri Lanka are categorized as underweight, representing a prevalence of 16.4%. Despite efforts and initiatives aimed at improving nutrition and healthcare access, the report claims no detectable change in this distressing statistic since 1990.
-
-The Lancet publication, which covers data from 1990 to 2022 and was released on February 29, also ranked Sri Lanka second globally, trailing only behind India, for the highest prevalence of dangerously underweight girls aged 5 to 19 years.
-
-The analysis estimates that nearly 880 million adults and 159 million children lived with obesity in 2022.
-
-...
-
-[Data](articles/92b59a4f.json)
-
-[Extended Data](ext_articles/92b59a4f.ext.json)
-
----
-
-### Sri Lanka rejects global report on child malnutrition
-
-*2024-03-12 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-rejects-global-report-on-child-malnutrition/155-278640) · `en`
-
-Colombo, March 11 (Daily Mirror) - In response to recent findings published in the British medical journal, The Lancet, concerning child malnutrition and underweight girls, Sri Lanka's health authorities have rejected the content referred to the portrayal of Sri Lanka.
-
-According to the study, approximately 410,000 girls in Sri Lanka are categorized as underweight, representing a prevalence of 16.4%. Despite efforts and initiatives aimed at improving nutrition and healthcare access, the report claims no detectable change in this distressing statistic since 1990.
-
-The Lancet publication, which covers data from 1990 to 2022 and was released on February 29, also ranked Sri Lanka second globally, trailing only behind India, for the highest prevalence of dangerously underweight girls aged 5 to 19 years.
-
-The analysis estimates that nearly 880 million adults and 159 million children lived with obesity in 2022.
-
-...
-
-[Data](articles/e2786dd1.json)
-
-[Extended Data](ext_articles/e2786dd1.ext.json)
-
----
-
-### Upcountry mask dress is a decision to make a World Heritage
-
-*2024-03-12 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194403) · `si`
-
-The Minister of Buddha Wickramanayaka plans to elevate the Upcountry Masters to a World Heritage Site, aiming to preserve Sri Lanka's cultural heritage for future generations.
-
-🟩
-
-Minister of Buddha Wickramanayaka says that steps will be taken to make up the Upcountry Masters into a World Heritage Site.
-
-The Minister said that the Sri Lankan cultural heritage is to be given to the next generation, the Minister said.
-
-Minister of Church was held at the Matale Buddhist House, that public workers, should be resorted to the process of preservation.
-
-◼️
-
-[Data](articles/9884d685.json)
-
-[Extended Data](ext_articles/9884d685.ext.json)
 
 ---

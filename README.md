@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 09:17:52**
+As of **2024-03-12 09:33:16**
 
 ## Newspaper Stats
 
-*Scraped **12,305** Articles*
+*Scraped **12,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,485
 tamilmirrorlk | 1,498
 virakesarilk | 1,687
 dailymirrorlk | 1,875
-adaderanasinhalalk | 1,943
+adaderanasinhalalk | 1,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,304 (100.0%) of 12,305 articles have been extended.
+12,305 (100.0%) of 12,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### නියෝජ්‍ය පොලිස්පති ධනපාලට උසස්වීමක්
+
+*2024-03-12 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194408) · `si`
+
+නියෝජ්‍ය පොලිස්පති ටී.සී.ඒ. ධනපාල මහතාව ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති තනතුරට උසස් කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කර ඇත්තේ අදාළ උසස්වීම ජාතික පොලිස් කොමිෂන් සභාවේ අනුමැතියට යටත්ව පොලිස්පතිවරයා විසින් පෙබරවාරි 29 වනදා සිට බලපැවැත්වෙන ලෙස සිදුකර ඇත.
+
+◼️
+
+[Data](articles/bdc46e74.json)
+
+---
 
 ### Health workers to stage protests near hospitals today
 
@@ -45,6 +59,8 @@ The protests are planned to be staged in front of selected state hospitals start
 ◼️
 
 [Data](articles/981ec431.json)
+
+[Extended Data](ext_articles/981ec431.ext.json)
 
 ---
 
@@ -2151,21 +2167,5 @@ While opening his party office at Kirulapona today, he claimed that the governme
 [Data](articles/f571352b.json)
 
 [Extended Data](ext_articles/f571352b.ext.json)
-
----
-
-### US will continue to monitor legislative developments impacting human rights in Sri Lanka - envoy
-
-*2024-03-11 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97875/us-will-continue-to-monitor-legislative-developments-impacting-human-rights-in-sri-lanka-envoy) · `en`
-
-US Ambassador to Sri Lanka Julie Chung has asserted that the United States will continue to monitor legislative developments in Sri Lanka that could challenge its progress on human rights, reconciliation, and civic space.
-
-Taking to ‘X’ (formerly Twitter), the diplomat highlighted that the joint statement issued by the Core Group earlier this month at the 55th Session of the United Nations Human Rights Council (UNHRC), along with other statements made by local and international organizations, underscore shared concerns, notably that Sri Lanka’s much-disputed Online Safety Act could be used to criminalize a wide range of expression, suppress dissent, and undermine Sri Lanka’s digital economy.
-
-...
-
-[Data](articles/c17c5470.json)
-
-[Extended Data](ext_articles/c17c5470.ext.json)
 
 ---

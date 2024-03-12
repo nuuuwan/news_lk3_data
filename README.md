@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 18:09:06**
+As of **2024-03-12 18:20:45**
 
 ## Newspaper Stats
 
-*Scraped **12,445** Articles*
+*Scraped **12,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 664
 islandlk | 677
-adalk | 1,064
+adalk | 1,065
 adaderanalk | 1,500
 tamilmirrorlk | 1,513
 virakesarilk | 1,721
 dailymirrorlk | 1,894
-adaderanasinhalalk | 1,961
+adaderanasinhalalk | 1,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,444 (100.0%) of 12,445 articles have been extended.
+12,445 (100.0%) of 12,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### සියලුම පාසල් වෙත විශේෂ දැනුම්දීමක්
+
+*2024-03-12 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194429) · `si`
+
+පවතින අධික උෂ්ණත්වයත් සමග දරුවන්ගේ ආරක්ෂාව සඳහා කටයුතු කළයුතු ආකාරය දැනුම්දෙමින් යළිත් අධ්‍යාපන අමාත්‍යාංශය විසින් සියලුම පාසල් වෙත විශේෂ දැනුම්දීමක් සිදුකර තිබේ.
+
+එමගින් දැනුම්දී ඇත්තේ එළිමහනේ ක්‍රියාකාරකම් සැලසුම් කිරීමට අදාළ කටයුතු කිරීම පිළිබඳව උපදෙස් දී ඇති පසුබිමක ඇතැම් පාසල් එම කරුණු නොසලකා හරිමින් කටයුතු කරන බවය.
+
+ඒ අනුව පසුගිය පෙබරවාරි මස 26 වනදා නිකුත් කළ ලිපියේ උපදෙස් අනුව කටයුතු කරන ලෙසට යළි දැනුම්දෙමින් මෙම නිවේදනය නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/2391f7c2.json)
+
+---
+
+### බිරිඳට පහරදී දරු ගැබ වැනසූ පියා රිමාන්ඩ්
+
+*2024-03-12 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194428) · `si`
+
+ගර්භණී බිරිඳගේ උදරයට පාදයෙන් පහරදී කළලය විනාශ කළ සැකකාර සැමියාව ලබන 26 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+සැකකරු කොළඹ අතිරේක මහෙස්ත්‍රාත් සමන් රත්නායක මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදුන්නේය.
+
+පහරකෑමට ලක්වූ කාන්තාව තවදුරටත් රාගම ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන අතර වෛද්‍ය වාර්තා මේ වනතෙක් ලැබී නොමැති බවත් ග්‍රෑන්ඩ්පාස් පොලීසිය අධිකරණයට දැනුම්දුන්නේය.
+
+පොලීසිය අධිකරණය වෙත පවසා ඇත්තේ නිරන්තරයෙන් අදාළ සැකකාර සැමියා සිය බිරිඳ සමග ගැටුම් ඇතිකරගන්නා බවට අනාවරණය වී ඇති බවය.
+
+මෙහිදී පොලීසිය වැඩිදුරටත් සඳහන් කර ඇත්තේ කුසෙහි සිටින දරුවාගේ පීතෘත්වය සම්බන්ධයෙන් ඇතිවූ බහින්බස්වීමක් දුරදිග ගොස් සැකකාර සැමියා විසින් බිරිඳගේ උදරයට සිය පාදයෙන් පහරදී ඇති බවය.
+
+අනතුරුව බරපතළ තත්ත්වයේ පසුවූ බිරිඳව රාගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මාස දකක කළලය විනාශ වී ඇති බවට අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/c2fe6f2b.json)
+
+---
+
+### පරාටේ නීතිය අත්හිටුවීමෙන් බැංකු චකිතයට පත්වෙයි
+
+*2024-03-12 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194427) · `si`
+
+පරාටේ නීතිය හරහා ණය අය කරගැනීම අත්හිටුවමින් ආණ්ඩුව ගත් ඒකපාර්ශ්වීය තීරණය බැංකු ක්ෂේත්‍රයට විශාල සෘණාත්මක බලපෑමක් ඇති කරනු ඇති බව ශ්‍රී ලංකා බැංකු සංගමය (SLBA) ප්‍රකාශ කරයි.
+
+නිවේදනයක් නිකුත් කරමින් ඔවුන් පෙන්වා දෙන්නේ සමස්ත ව්‍යාපාරික ප්‍රජාව නියෝජනය නොකරන ණය පැහැරහරින්නන් කිහිප දෙනෙකුගේ බලපෑම්වලට ප්‍රතිචාරයක් මෙම තීරණය ගෙන ඇති බවය.
+
+ශ්‍රී ලංකා මහ බැංකුවේ (CBSL) බලපත්‍රලාභී රාජ්‍ය බැංකු, ලැයිස්තුගත පෞද්ගලික බැංකු සහ ජාත්‍යන්තර බැංකුවල ශාඛා කාර්යාල ආදී සියලුම බැංකු නියෝජනය කරන ශ්‍රී ලංකා බැංකු සංගමය (SLBA) පැවසූයේ, ණය අය කරගැනීමේ නීති මැඬ පැවැත්වීම සඳහා රජයේ මැදිහත්වීම අනතුරු ඇඟවීමක් වන බවය.
+
+මේ පිළිබඳව බැංකු සමඟ කිසිඳු සාකච්ඡාවක් සිදුකර නොමැති බව පෙන්වා දුන් එම සංගමය රජයේ මෙම තීරණය හේතුවෙන් සියලුම ව්‍යාපාරිකයන්ට ණය ලබාගැනීමේ පිරිවැය වැඩි වනු ඇති බවද පැවසීය.
+
+SLBA Statement on Suspension of Parate Action - Sinhala - Unicode by poornima on Scribd
+
+◼️
+
+[Data](articles/6cab3812.json)
+
+---
 
 ### Court of Appeal notice not to take further action on Colombo private hospital
 
@@ -121,6 +179,24 @@ A bond maturing on 01.07.2032 closed at 12.50/80 percent from down 12.60/90 perc
 [Data](articles/8c1b03b2.json)
 
 [Extended Data](ext_articles/8c1b03b2.ext.json)
+
+---
+
+### පොලිස්පතිගේ පත්කිරීමට එරෙහිව කාදිනල් හිමිගෙන් පෙත්සමක්
+
+*2024-03-12 17:06:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-කාදිනල්-හිමිගෙන්-පෙත්සමක්/11-408569) · `si`
+
+වැඩ බලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් මැල්කම් කාදිනල් රංජිත් අගරදගුරු හිමිපාණන් සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය තවත් පෙත්සම් දෙකක්  ශ්‍රේෂ්ඨාධිකරණයට අද (12) ඉදිරිපත් කළහ.
+
+මැල්කම් කාදිනල් රංජිත් අගරදගුරු හිමිපාණන් සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය ගොනු කළ මෙම පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් වන පාර්ලිමේන්තු මන්ත්‍රීවරුන් කර ඇත.
+
+වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් නීතිය පිළිබඳ මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය සහ සමගි ජන බලවේගය හිටපු පළාත් සභා මන්ත්‍රී නිරෝෂන් පාදුක්ක මහතා මුලින්ම මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් ගොනු කරනු ලැබීය.
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පති ධුරයට පත් කිරීමට එරෙහිව වස්ථාදායක සභාවේ සාමාජිකයන් විරුද්ධ වූ බැවින් එය ව්‍යවස්ථාදායක සභාවේ පූර්ණ තීරණයක් නොවන බව සඳහන් කරන පෙත්සම්කරුවෝ අදාළ තීරණය බල රහිත කරන නියෝගයක් නිකුත් කරන්නැයි සිය පෙත්සම් වලින් ඉල්ලා සිටිති”
+
+◼️
+
+[Data](articles/9891c874.json)
 
 ---
 
@@ -1816,25 +1892,35 @@ NSBM has agreed to provide funds for the development of Homagama Base Hospital i
 
 ---
 
-### තිරුක්කෝවිල්හි මැරතන් තරගයක් අතරතුර මියගිය සිසුවාගේ මරණයට හේතුව කුමක් ද?
+### What causes the death of the dead student during a marathon of Tirukkovil?
 
 *2024-03-12 12:13:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8v3gz9p372o) · `si`
 
-තිරුක්කෝවිල්හි මැරතන් තරගයක් අතරතුර මියගිය සිසුවාගේ මරණයට හේතුව කුමක් ද?
+The death of a 16-year-old student during a marathon in Tirukkovil was due to a sudden illness. The student collapsed and died near the end of the race. The incident sparked controversy due to delays in medical attention at Thirukkovil Hospital.
 
-තිරුක්කෝවිල් මෙතෝදිස්ත මිෂන් දෙමළ මහා විද්‍යාලයේ සිසුවෙකු මැරතන් තරගයක් අතරතුර හදිසියේ ඇතිවූ රෝගී තත්ත්වයක් හේතුවෙන් රෝහල්ගත කිරීමෙන් පසු මිය යෑමේ සිද්ධිය ප්‍රදේශයේ නොසන්සුන් තත්ත්වයක් ඇති කිරීමට හේතුවිය.
+🟩
 
-පවතින උණුසුම් කාලගුණ තත්ත්වය මැද මෙවැනි ක්‍රීඩා තරග පැවැත්වීම පිළිබඳවත්, තිරුක්කෝවිල් රෝහලේදී සිදුවු බව කියන ප්‍රමාදය පිළිබඳවත්, ප්‍රදේශවාසීන් අතර මෙන්ම සමාජ මාධ්‍ය ඔස්සේ දැඩි සංවාදයක් ද මතුව තිබුණි.
+What causes the death of the dead student during a marathon of Tirukkovil?
 
-16 හැවිරිදි  ජෙයකුමාර් විදූෂන් සිසුවාගේ මරණය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය අම්පාර මහ රෝහලේ අධිකරණ වෛද්‍ය විශේෂඥ සි.ටී.මහනාම විසින් අද (මාර්තු 12 වැනිදා) පැවත්වනු ලැබීය.
+Thirukkovil Methan Methan Mission Mission Mission Mission Mission Mission Mission Mission Mission Mission Tamil Maha Vidyalaya was caused by a sudden illness in a marathon.
 
-මෙම සිසුවාගේ මරණයට හේතුවුයේ කුමක්ද ? ඒ පිළිබඳ මතුවන කරුණු පිළිබඳ බීබීසී සිංහල විමසා බැලීමක් කළේය.
+Residents also opposed the delay, including the delay in the Thirukkovil Hospital, held in the Thirukkovil Hospital.
 
-නිවාසාන්තර ක්‍රීඩා උත්සවය පැවැත්විමට තිරුක්කෝවිල් මෙතෝදිස්ත මිෂන් දෙමළ මහා විද්‍යාලය කටයුතු සංවිධානය කරමින්  තිබිණි.
+The post mortem examination of the 16-year-old Jeyakumar Vidyalaya's death was held today (March 12) by the Judicial Medical Specialist at Ampara General Hospital.
+
+What causes the death of this student?BBC had an inquiry on the matters.
+
+Tintukkovil Metroadshe Mission Mission was organized to conduct an Inter-Sports Festival.
+
+The marathon (March 11) was held in the morning. About 30 children were to publish about 30 children in this marathon.
+
+Sports Dr. Jan.Kara Dr. Wamed The children were taken to the Thirukkovil Hospital and tested the health of the children before the match.
 
 ...
 
 [Data](articles/26c320b0.json)
+
+[Extended Data](ext_articles/26c320b0.ext.json)
 
 ---
 
@@ -2229,111 +2315,5 @@ Trump had initially supported efforts to ban the app in the U.S., but he recentl
 [Data](articles/15c78cf5.json)
 
 [Extended Data](ext_articles/15c78cf5.ext.json)
-
----
-
-### Sri Lanka’s coconut price down 2.6-pct at auction
-
-*2024-03-12 11:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-coconut-price-down-2-6-pct-at-auction-154238/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s average coconut price fell 2.6 percent to 72,030 per 1,000 nuts at an auction on March 7, data from the island’s Coconut Development Authority shows.
-
-The highest price was 79,100 rupees for 1,000 nuts down from 79,600 rupees a week ago, while the lowest was 65,000 down from 67,000 rupees.
-
-A total of 842,503 coconuts were offered at the auction and 560,210 nuts were sold.
-
-Wholesale prices were 95 to 105 rupees for large nuts and 80 to 85 rupees per small nut in the week to March 7, 2024.
-
-Farmgate prices in Kurunegala were 70,000 to 75,000 rupees per 1,000 nuts up from 70,000 -72,000 per 1000 nuts two weeks ago.
-
-Coconut oil was 590,000 to 600,000 rupees per metric ton from last week’s 570,000- 590,000.
-
-Coconut shells were 28,000 to 30,000 rupees a metric ton up from last week’s 28,000-29,000. (Colombo/Mar12/2024)
-
-◼️
-
-[Data](articles/1c1a1a35.json)
-
-[Extended Data](ext_articles/1c1a1a35.ext.json)
-
----
-
-### Sri Lanka’s coconut price down 2.6-pct at auction
-
-*2024-03-12 11:17:00* · [`economynextcom`](https://economynext.com/srilankan-to-show-financial-operational-progress-in-6-months-154238/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s average coconut price fell 2.6 percent to 72,030 per 1,000 nuts at an auction on March 7, data from the island’s Coconut Development Authority shows.
-
-The highest price was 79,100 rupees for 1,000 nuts down from 79,600 rupees a week ago, while the lowest was 65,000 down from 67,000 rupees.
-
-A total of 842,503 coconuts were offered at the auction and 560,210 nuts were sold.
-
-Wholesale prices were 95 to 105 rupees for large nuts and 80 to 85 rupees per small nut in the week to March 7, 2024.
-
-Farmgate prices in Kurunegala were 70,000 to 75,000 rupees per 1,000 nuts up from 70,000 -72,000 per 1000 nuts two weeks ago.
-
-Coconut oil was 590,000 to 600,000 rupees per metric ton from last week’s 570,000- 590,000.
-
-Coconut shells were 28,000 to 30,000 rupees a metric ton up from last week’s 28,000-29,000. (Colombo/Mar12/2024)
-
-◼️
-
-[Data](articles/8bf8c781.json)
-
-[Extended Data](ext_articles/8bf8c781.ext.json)
-
----
-
-### The Vidukunni incident has reiterated the fact that Tamils live under Sinhala Buddhist imperialism - Wickeswaran
-
-*2024-03-12 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178497) · `ta`
-
-Wigneswaran highlights Tamils' struggle under Sinhala Buddhist imperialism, citing the Vidukunni incident where devotees were forcibly removed. He emphasizes the Ministry of Religious Cultural Affairs' mission to preserve Sri Lanka's ancient history and the legal rights of water plowing in archaeological areas. He criticizes the opposition from Sinhalese and Buddhist monks and questions the legality of persecuting Hindu temple worshippers without protecting Buddhist temples. The incident reflects a broader strategy to acquire Tamil land, underscoring the need for legal protection and support for affected communities.
-
-🟩
-
-Parliamentarian Wigneswaran has reiterated the fact that the Tamil people are living under the Sinhala Buddhist imperialism, which forcibly removed and arrested some of the devotees who were forcibly removed by the police at the Attukkunnarimalai Adilingeswarar temple at the Attukkunnarimalai Athilingaswarar temple.
-
-Parliamentarian Wigneswaran said in a statement issued in a recent report on the recent incident on the Vedukkuni Mountain.
-
-He said the main objective of the Ministry of Religious Cultural Ministry is to bring the histories of the ancient civilization of Sri Lanka to the next offspring.
-
-Vedukunnarimalai is under the administration of the Forest Department Department, as well as an archaeological area.
-
-He said that it is legal to bring water pows and plowing in areas under the administration of the departments.
-
-He said the opposition of the Sinhalese and Buddhist monks in the Vettu Nirimalai has come up with the opposition.
-
-...
-
-[Data](articles/f865531a.json)
-
-[Extended Data](ext_articles/f865531a.ext.json)
-
----
-
-### Haiti’s unelected Prime Minister Ariel Henry resigns
-
-*2024-03-12 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97889/haitis-unelected-prime-minister-ariel-henry-resigns) · `en`
-
-Haiti’s Prime Minister Ariel Henry has agreed to resign, the chair of the Caribbean group of countries has said, following weeks of mounting pressure and increasing violence in the country.
-
-It comes after regional leaders met in Jamaica on Monday to discuss a political transition in Haiti.
-
-Mr Henry is currently stranded in Puerto Rico after being prevented by armed gangs from returning home.
-
-He had led the country since the former president’s assassination in July 2021.
-
-Speaking following the meeting in Kingston, Caribbean community chair and Guyana President Irfaan Ali said: “We acknowledge his resignation upon the establishment of a transitional presidential council and naming of an interim prime minister.”
-
-Heavily armed gangs have controlled the streets of the Haitian capital of Port-au-Prince in recent days, demanding the resignation of the unelected prime minister.
-
-Port-au-Prince and the surrounding region is under a month-long state of emergency, while a curfew has been extended.
-
-...
-
-[Data](articles/0a70c78d.json)
-
-[Extended Data](ext_articles/0a70c78d.ext.json)
 
 ---

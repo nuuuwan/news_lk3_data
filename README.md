@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 23:52:11**
+As of **2024-03-13 00:02:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,493 (100.0%) of 12,497 articles have been extended.
+12,497 (100.0%) of 12,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Accordingly, Sri Lanka’s long-time ally has agreed to grant Japanese Yen 1.6 b
 
 [Data](articles/4b0a6938.json)
 
+[Extended Data](ext_articles/4b0a6938.ext.json)
+
 ---
 
 ### NPP support surge linked to opposition weakness
@@ -67,6 +69,8 @@ However, the selection of the common opposition or the President will be made by
 ...
 
 [Data](articles/aeaf45ac.json)
+
+[Extended Data](ext_articles/aeaf45ac.ext.json)
 
 ---
 
@@ -417,6 +421,8 @@ De Silva, addressing a forum to explain Sri Lanka’s renewable energy requireme
 ...
 
 [Data](articles/06a08bf2.json)
+
+[Extended Data](ext_articles/06a08bf2.ext.json)
 
 ---
 
@@ -1045,6 +1051,8 @@ The equity value range and value per share for EXPO as of the valuation date, wa
 ...
 
 [Data](articles/18e98cd1.json)
+
+[Extended Data](ext_articles/18e98cd1.ext.json)
 
 ---
 

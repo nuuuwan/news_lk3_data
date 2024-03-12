@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 11:33:35**
+As of **2024-03-12 11:52:14**
 
 ## Newspaper Stats
 
-*Scraped **12,334** Articles*
+*Scraped **12,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,050
 adaderanalk | 1,489
 tamilmirrorlk | 1,504
 virakesarilk | 1,695
-dailymirrorlk | 1,880
+dailymirrorlk | 1,881
 adaderanasinhalalk | 1,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,333 (100.0%) of 12,334 articles have been extended.
+12,334 (100.0%) of 12,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### TikTok is a national security threat, Facebook is ’enemy of the people’
+
+*2024-03-12 11:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TikTok-is-a-national-security-threat-Facebook-is-enemy-of-the-people/108-278693) · `en`
+
+CNBC- Former President Donald Trump said he believes that TikTok is a national security threat but that he couldn't support Congress’ banning the popular app because doing so would boost support for Facebook, which is the "enemy of the people."
+
+Asked Monday morning whether he believes TikTok is a national security threat in an interview on CNBC’s “Squawk Box,” Trump said, “I do believe that.”
+
+“I do believe it, and we have to very much admit we are protecting American people’s privacy and data rights,” he said.
+
+Trump had initially supported efforts to ban the app in the U.S., but he recently reversed his support. Pressed about why he flipped, Trump said he could have banned TikTok during his presidency but left it up to Congress to do so.
+
+...
+
+[Data](articles/15c78cf5.json)
+
+---
 
 ### Haiti’s unelected Prime Minister Ariel Henry resigns
 
@@ -80,19 +98,25 @@ He served as the Prime Minister of July 2021 after a group of mercenaries killed
 
 ---
 
-### தாமரை கோபுரத்தில் ஜோடி மரணம்
+### The couple's death in the lotus tower
 
 *2024-03-12 10:56:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/தாமரை-கோபுரத்தில்-ஜோடி-மரணம்/95-334548) · `ta`
 
-கொழும்பு தாமரை கோபுரத்தில் உள்ள உணவகம் ஒன்றில் இடம்பெற்ற விருந்துபசாரத்தின் போது போதைப்பொருள் உட்கொண்ட இளைஞனும் யுவதியும் உயிரிழந்துள்ளனர்.
+A young couple died from drug overdose at a party in the Lotus Tower in Colombo, after being admitted to the Colombo National Hospital. Hettiarachchi Rukshani, a 27-year-old beauty salon manager, also passed away.
 
-இருவரும் உடல்நலம் பாதிக்கப்பட்டு கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்தனர் என மருதானை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-முல்லேரியா, உடுமுல்ல பிரதேசத்தை வசிப்பிடமாக கொண்ட அழகு நிலையம் ஒன்றின் முகாமையாளரான ஹெட்டியாராச்சி ரசாங்கிகா ருக்ஷானி  (வயது 27) தெஹிவளையில் வசித்து வந்த சமிந்து திரங்க பெர்னாண்டோ (வயது 22) இருவருமே இவ்வாறு உயிரிழந்துள்ளனர்.
+A young man and girl who consumed drugs died during a party at a restaurant at the Lotus Tower in Colombo.
+
+The two were sick and admitted to the Colombo National Hospital, Maradana police said.
+
+Hettiarachchi Rukshani (age 27), Manager of a beauty salon in Mulleria, Udumulla, has died.
 
 ◼️
 
 [Data](articles/9b47d306.json)
+
+[Extended Data](ext_articles/9b47d306.ext.json)
 
 ---
 
@@ -2183,33 +2207,5 @@ Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa confi
 [Data](articles/0b91efc6.json)
 
 [Extended Data](ext_articles/0b91efc6.ext.json)
-
----
-
-### A few facts in Kota's book are many lies - Udaya Kammanpila
-
-*2024-03-11 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178470) · `ta`
-
-Udaya Kammanpila, PTA leader, criticizes "Conspiracy to Excrement Me from the President" by Gotabhaya Rajapaksa, accusing it of containing lies, including a false personal conflict with Basil. Kammanpila defends the PTA's stance on economic crises and denies accusations of defrauding government funds.
-
-🟩
-
-In the book published by Gotabhaya Rajapaksa, there are many lies, such as a few facts.. I had a political contradiction with Basil and had no personal conflict. Udaya Kammanpila, the leader and parliamentarian of the Pivithuru Hela Urumaya Party (PTA), said that the conspiracy to intensify the economic crises should be made public.
-
-He made this statement during a media briefing held at the Bivithuru Hela Urumaya (JHU) office in Colombo yesterday.
-
-Former President Gotabhaya Rajapakse has been referred to us directly and indirectly in a book titled 'Conspiracy to Excrement Me from the President'.
-
-When the book was published, I bought it and read it. Some of the facts contained many lies.
-
-We have not taken away from the government for the crime of defrauding government funds.We were removed from the post.
-
-On the 65th page, it is mentioned that there was a personal contradiction between Basil and Udayakammanpila. "Gotabhaya Rajapaksa should express personal hatred.
-
-...
-
-[Data](articles/93ec1150.json)
-
-[Extended Data](ext_articles/93ec1150.ext.json)
 
 ---

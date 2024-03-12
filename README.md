@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 17:03:01**
+As of **2024-03-12 17:17:49**
 
 ## Newspaper Stats
 
-*Scraped **12,427** Articles*
+*Scraped **12,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,105 @@ islandlk | 677
 adalk | 1,062
 adaderanalk | 1,499
 tamilmirrorlk | 1,513
-virakesarilk | 1,718
+virakesarilk | 1,719
 dailymirrorlk | 1,894
-adaderanasinhalalk | 1,959
+adaderanasinhalalk | 1,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,420 (99.9%) of 12,427 articles have been extended.
+12,427 (100.0%) of 12,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட ஆலய பூசகர் உள்ளிட்ட 8 பேரின் விளக்கமறியல் நீடிப்பு
+### ඩෙංගු සඳහා එන්නතක් ?
 
-*2024-03-12 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178545) · `ta`
+*2024-03-12 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194426) · `si`
 
-வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட ஆலய பூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று உத்தரவு பிறப்பித்துள்ளது.
+කොරෝනා වසංගතය සමයේ බ්‍රිතාන්‍ය ඔක්ස්ෆර්ඩ් සරසවිය නිපදවූ ඇස්ට්‍රාසෙනිකා එන්නත මෙන්ම ප්‍රෝටීන මත පදනම් වූ නොවැක්ස් කොවිඩ් එන්නත නිෂ්පාදනය කළ ඉන්දියාවේ පූනේ නුවර පිහිටි සීරම් ආයතනය අද ලෝකයේ විශාලතම එන්නත් නිෂ්පාදකයා බවට පත්වී තිබේ.
 
-கடந்த 8 ஆம் திகதி சிவராத்திரி தினத்தன்று வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் சிவராத்திரி பூஜை வழிபாடுகள் நடைபெற்றுக் கொண்டிருந்த போது ஆலயத்திற்குள் நுழைந்த பொலிசார் மற்றும் விசேட அதிரடிப் படையினர் வழிபாட்டில் ஈடுபட்ட ஆலய பூசகர் உள்ளிட்ட 8 பேரை கைது செய்தனர்.
+දැන් ඔවුන් කොවිඩ් එන්නත්වලින් ඔබ්බට ගොස් තවත් රෝගවලට එන්නත් ගවේෂණය කිරීමේ නිරත වෙයි.
 
-அவர்களை கடந்த 9 ஆம் திகதி சனிக்கிழமை வவுனியா நீதிமன்றில் முற்படுத்திய நிலையில் விசாரணைகள் நிறைவுபெறாத காரணத்தால் இன்று செவ்வாய்க்கிழமை  (12) வரை அவர்கள் விளக்கமறியலில் வைக்கப்பட்டனர். இந்நிலையில் இன்றைய தினம் மீண்டும் வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+සීරම් ආයතනයේ ප්‍රධාන විධායක නිලධාරී අදාර් පූනවල්ලා ප්‍රකාශ කළේ ඉදිරි වසර කිහිපය තුළ මැලේරියාව සහ ඩෙංගු රෝගය සඳහා ද එන්නත් නිපදවීමට සීරම් ආයතනය පර්යේෂණ ආරම්භ කර ඇති බවය.
+
+සීරම් ආයතනය මෙලෙස නව එන්නත් නිෂ්පාදනය පිළිබඳව අවධානය යොමුකිරීමට තවත් හේතුවක් වන්නේ ඉල්ලුම අඩුවීම නිසා කොවිඩ් එන්නත් නිෂ්පාදනය කපාහැරීමට සිදුවීම ය.
+
+එලෙස තවත් රෝගවලට නව එන්නත් නිෂ්පාදනය කිරීමෙන්, සීරම් ආයතනයේ එන්නත් නිෂ්පාදනය බිලියන 2 1/2කින් පමණ ඉහළ නැංවිය හැකි බව එහි ප්‍රධාන විධායක පූනවල්ලා ප්‍රකාශ කරයි.
+
+කොවිඩ් වසංගත සමයේ සිය නිෂ්පාදනය ඉහළ නැංවීම සඳහා සීරම් ආයතනය අමෙරිකානු ඩොලර් බිලියන 2ක් පමණ වැය කළේය.
+
+සීරම් ආයතනය මේ වනවිට වාර්ෂිකව එන්නත් මාත්‍රා බිලියන 1.5ක් පමණ අලෙවි කරයි.
+
+◼️
+
+[Data](articles/21c944fc.json)
+
+---
+
+### ග්‍රාම නිලධාරී සම්මුඛ පරීක්ෂණයට දින නියම වෙයි
+
+*2024-03-12 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194425) · `si`
+
+ග්‍රාම නිලධාරී ව්‍යුහගත සම්මුඛ පරීක්ෂණය මාර්තු මස 13,14 සහ 15 යන දිනයන්හිදී පැවැත්වීමට කටයුතු යොදා ඇති බව රාජ්‍ය පරිපාලන අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කරන්නේ එම සම්මුඛ පරීක්ෂණය නාරාහේන්පිට පිහිටි නිල මැදුර පරිශ්‍රයේ ස්වදේශ කටයුතු අංශයේදී සිදුකෙරෙන බවය.
+
+එසේම ඊට අදාළ සුදුසුකම් ලබා තිබුණද මේ දක්වා කැඳවීම් ලිපි ලැබී නොමැති අයදුම්කරුවන්ට www.moha.gov.lk වෙබ් අඩවියේ පළකර ඇති ලේඛනයෙන් එම තොරතුරු ලබාගත හැක.
+
+එසේම එම සම්මුඛ පරීක්ෂණය සඳහා රැගෙන ආ යුතු ලේඛන පිළිබඳව එම වෙබ් අඩවිය මගින් තොරතුරු ලබාගතහැකි බවද රාජ්‍ය පරිපාලන අමාත්‍යාංශය සිය නිවේදනයෙන් වැඩිදුරටත් පෙන්වා දී තිබේ.
+
+◼️
+
+[Data](articles/31a6ad01.json)
+
+---
+
+### நுவரெலியா மாவட்ட பொது வைத்தியசாலை  சுகாதார ஊழியர்கள் கவனயீர்ப்பு போராட்டம்!
+
+*2024-03-12 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178548) · `ta`
+
+நுவரெலியா மாவட்ட பொது வைத்தியசாலை முன்பாக சுகாதார ஊழியர்கள் இன்று செவ்வாய்க்கிழமை (12)  மதிய நேர உணவு இடைவேளையில் கவனயீர்ப்பு போராட்டம் ஒன்றில் ஈடுப்பட்டனர்.
+
+நுவரெலியா  மாவட்ட பொது வைத்தியசாலையில் சேவையாற்றும் வைத்தியர்கள் தவிர்ந்த ஏனைய சுகாதார சேவையில் பணியாற்றும் ஊழியர்கள் இந்த கவனயீர்ப்பு ஆர்ப்பாட்டத்தை முன்னெடுத்தனர்.
+
+நுவரெலியா மாவட்ட பொது வைத்தியசாலை முன்பாக இன்றையதினம் மதிய நேர உணவு வேளையில் சுமார் ஒருமணி நேரம் இந்த கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+இதன்போது குறித்த வைத்தியசாலையில் கடமையாற்றும் 72 தொழிற் சங்கங்களில் அங்கம் வகிக்கும் சுகாதார சேவை ஊழியர்கள் அனைவரும் ஆர்ப்பாட்டத்தில்  கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+அதேநேரத்தில் ஆர்ப்பாட்டத்தில் கலந்து கொண்டவர்கள் வைத்தியர்களுக்கு வழங்கப்பட்டு வரும் DAT கொடுப்பனவான 35 ஆயிரத்தை எமக்கும் தாருங்கள் என கேட்க்கவில்லை.
 
 ...
 
+[Data](articles/ff1dada7.json)
+
+---
+
+### The explanation of eight people, including the temple priest arrested at the Adivasivan Temple at the Vedukkunni Mountain Mountain
+
+*2024-03-12 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178545) · `ta`
+
+Eight, including a temple priest, arrested at Adivasivan Temple in Vavuniya North, Vettukunni Hill, for Shivaratri Pooja. Remanded until Tuesday due to incomplete proceedings. Archaeological Department notified about overnight case. Court orders remand until 19th. Represented by MA Sumanthiran, Srikanta, K. Sukas, T.Thirul, Krisrina, Jiderson, Sajitha, Sarukesi, Vidusini, Kirtanan, Eugene, Konziyas.
+
+🟩
+
+The Vavuniya Justice has ordered the eight persons including the temple priest who was arrested at the Adisivan Temple in Vavuniya North, Vettukunni Hill.
+
+On the day of Shivaratri, on the 8th, the Shivaratri Pooja was held at the Adivasivan Temple at the Adivasivan Temple, including the temple priest, including the temple priest who entered the temple.
+
+They were remanded until Tuesday (12) as they were not completed in the Vavuniya Court on Saturday 9th.. In this case, the case was taken up again today.
+
+The Archaeological Department had brought to the notice of the Archaeological Symbols as the case was underway from 9 am to three o'clock in the morning.. The court has ordered the eight others to be remanded until the 19th.
+
+On behalf of the eight people, including the priest, MA Sumanthiran, lawyers Srikanta, K. Sukas, T.Thirul, Krisrina, Jiderson, Sajitha, Sarukesi, Vidusini, Kirtanan, Eugene, Konziyas, etc.
+
+◼️
+
 [Data](articles/b98bf6d8.json)
+
+[Extended Data](ext_articles/b98bf6d8.ext.json)
 
 ---
 
@@ -66,39 +138,53 @@ Despite being well-received by Modi, a Hindu nationalist, the bill was heavily p
 
 [Data](articles/6b560d56.json)
 
+[Extended Data](ext_articles/6b560d56.ext.json)
+
 ---
 
-### පොලිස් වෙඩිල්ලෙන් ජීවිතක්ෂයට පත් වෙඩික්කරු ගැන තොරතුරු රැසක්
+### There are many information about the shooting killed in police station
 
 *2024-03-12 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194424) · `si`
 
-ගම්පහ මල්වතුහිරිපිටිය විහාරස්ථානයකදී හිමිනමක් ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු අපරාධ රැසක් සම්බන්ධයෙන් පොලීසියට අවශ්‍ය කරමින් සිටි පුද්ගලයෙකු බව පොලීසිය පවසයි.
+A suspect involved in multiple crimes in Malwathuhiduwa, Gampaha, was arrested in Moneragala after a shootout with police. The suspect, previously with the Commando Corps, had been a mercenary murderer. The police were investigating the suspect for robbery in Meegoda and an unrelated crime in 2013. The suspect was killed in a shootout in Attanagalla.
 
-නියෝජ්‍ය පොලිස්පති, පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ අදාළ සැකකරු කොමාන්ඩෝ බළකායෙන් ඉවත් වී කුලී ඝාතකයෙකු ලෙස කටයුතු කර ඇති බවය.
+🟩
 
-තිලාන් රංගන පෙරේරා ඝාතනයේ වෙඩික්කරු, 2023.09.25 මීගොඩ පොලිස් වසමේ සිදුවූ මුදල් කොල්ලය, 2023.02.13 හෝමාගමදී සිදුවූ මුදල් කොල්ලය ආදී අපරාධ රැසක් සම්බන්ධයෙන් පොලීසියට අවශ්‍ය කර සිටි සැකකරුවෙකු බව පොලීසිය වැඩිදුරටත් පැවසීය.
+The shooter was a person who needed a number of crimes about a crimes at a Malwathuhiduwa in Gampaha.
 
-අදාළ සැකකරුව මොණරාගල හම්බේගමුව ප්‍රදේශයේදී ඊයේ (11) අත්අඩංගුවට පත්වන තෙක් අදාළ අපරාධ සම්බන්ධයෙන් සැකකරුව අත්අඩංගුවට ගැනීමට නොහැකිව තිබූ බවද පොලීසිය පැවසීය.
+Deputy Inspector General of Police, Suspect Nihal Talduuwa said the suspect had been withdrawn from the Commando Corps and had acted as a mercenarized murderer.
 
-ඒ අනුව සැකකරු අත්තනගල්ල යටවක ප්‍රදේශයේ සැඟවූ ආයුද සොයාගැනීම සඳහා ගොස් සිටියදී පළායාමට උත්සාහ දරා ඇති අතර එහිදී පොලීසිය සිදුකළ වෙඩිතැබීමකින් සැකකාර වෙඩික්කරු මියගොස් තිබුණි.
+The shooter in the murder of Thilan Rangana Perera, 2023.09.25, the police said that the police wanted to a suspect, such as robbery in the Meegoda Police, and 23.02.2013.
+
+The suspect was unable to arrest the suspect until the suspect was arrested last yesterday (11) at the Hambegamuwa area in Moneragala.
+
+Accordingly, the suspect had attempted to escalate the shooting of the police while he was shot dead by the suspect in Attanagalla.
 
 ◼️
 
 [Data](articles/a32120e4.json)
 
+[Extended Data](ext_articles/a32120e4.ext.json)
+
 ---
 
-### 15 பேருடன் பறந்த ரஷ்ய இராணுவ விமானம் தீப்பற்றி வீழ்ந்தது
+### Russian military plane flew with 15 people
 
 *2024-03-12 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178544) · `ta`
 
-ரஷ்ய இராணுவ சரக்கு விமானமொன்று இன்று தீப்பற்றி வீழ்ந்துள்ளது. இவ்விமானத்தில் 15 பேர் இருந்தனர் என  ரஷ்ய ஊடகங்கள் தெரிவித்துள்ளன.
+A Russian military freight plane, carrying 15 people, crashed in the Ivanova region near Moscow shortly after takeoff.
 
-ஐ.எல்.-76 ரகத்தைச் சேர்ந்த இவ்விமானம் புறப்பட்டு சிறிது நேரத்தில், மொஸ்கோவுக்கு அருகிலுள்ள ஐவானோவா பிராந்தியத்தில் வீழ்ந்துள்ளதாக செய்தி வெளியாகியுள்ளது.
+🟩
+
+A Russian military freight plane crashed today. The Russian media reported that there were 15 people in the event.
+
+It has been reported that the IL-76 variety has fallen in the Ivanova region near Moscow shortly after the departure.
 
 ◼️
 
 [Data](articles/cb575f30.json)
+
+[Extended Data](ext_articles/cb575f30.ext.json)
 
 ---
 
@@ -114,23 +200,33 @@ Following a notice issued by the authorities, the planetarium has been inaccessi
 
 [Data](articles/0f8301ca.json)
 
+[Extended Data](ext_articles/0f8301ca.ext.json)
+
 ---
 
-### யாழில் இளம் குடும்பஸ்தர் படுகொலை ;  கிளிநொச்சியில் வைத்து நால்வர் கைது!
+### Massacre of young family in Jaffna;Four arrested in Kilinochchi
 
 *2024-03-12 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178543) · `ta`
 
-யாழ்ப்பாணத்தில்  திங்கட்கிழமை (11) இளம் குடும்பஸ்தர் ஒருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் நான்கு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளார்கள்.
+Four suspects arrested in Jaffna for murdering a young family member. The family was attacked near Ponnalai Naval Base, and the victims were taken to a hospital. Four people from Kilinochchi also arrested.
 
-குறித்த குடும்பஸ்தரும் அவரது மனைவியும் காரைநகரில் இருந்து வட்டுக்கோட்டை - மாவடியில் உள்ள வீட்டுக்கு சென்றுகொண்டிருந்தவேளை பொன்னாலை கடற்படை முகாமுக்கு அருகாமையில் இரண்டு கார்களில் ஆயுதங்களுடன் நின்ற சிலர் அவர்களை வழி மறித்தனர்.
+🟩
 
-இதன்போது இருவரும் தப்பித்து கடற்படை முகாமுக்குள் உள்நுழைந்தனர். இந்நிலையில் கடற்படையினர் அவர்களை வெளியே விரட்டினர். இதனால் அவர்கள் வெளியே வந்தவேளை, ஒரு காரில் மனைவியையும், அடுத்த காரில் குறித்த நபரையும் ஏற்றிக்கொண்டு குறித்த குழு அங்கிருந்து சென்றது.
+Four suspects have been arrested in connection with the murder of a young family member in Jaffna on Monday (11).
 
-பின்னர் மனைவியை சித்தங்கேணி சந்தியில் இறக்கி விட்டனர். அதன்பின்னர் மனைவி வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்வதற்கு சென்றுள்ளார். இந்நிலையில் குறித்த நபரை கடத்திச் சென்றவர்கள் அவர் மீது வாள்வெட்டு தாக்குதல் மேற்கொண்ட பின்னர் வட்டுக்கோட்டை பிரதேச வைத்தியசாலையினுள் காரில் சென்று, வைத்தியசாலையில் உள்ள மாமரத்துக்கு கீழே அவரை தூக்கி வீசிவிட்டு சென்றனர்.
+While the family and his wife were traveling from Karainagar to the house in Vaddukkottai - Mavadi, some of the weapons in two cars near the Ponnalai Naval Base.
+
+Both escaped and logged into the naval camp. In this case, the Marines chased them out. When they came out, the team went from there to load the wife in one car and the person in the next car.
+
+Then the wife was unloaded at Siddhangeni junction. The wife then went to the Vaddukoddai police station to lodge a complaint. In this case, the kidnappers went to the Vaddukoddai area hospital after the sword attack on the man and threw him down to the hospital in the hospital.
+
+In this case, the health workers at the hospital informed the doctor by telephone. He was taken to the Jaffna Teaching Hospital by a doctor who arrived at the hospital in a few minutes.
 
 ...
 
 [Data](articles/cd560e00.json)
+
+[Extended Data](ext_articles/cd560e00.ext.json)
 
 ---
 
@@ -152,19 +248,25 @@ Statistics indicate that there have been various violence against women and girl
 
 ---
 
-### පේරේ සිසුන් හයක් එවරස්ට් තරණයට සැරසෙයි
+### Six students of the Papers preparing Everest
 
 *2024-03-12 16:20:14* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-සිසුන්-හයක්-එවරස්ට්-තරණයට-සැරසෙයි/11-408566) · `si`
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ ගවේෂකයන්ගේ සංගමය මගින් 14 වැනි වරටත් සංවිධානය කරනු ලබන හිමාල කඳු තරණය සඳහා එම විශ්ව විද්‍යාලයේ ශිෂ්‍යාවක ද ඇතුළු විද්‍යාර්ථීන් හය දෙනකු සූදානමින් සිටි.
+Six students from the University of Peradeniya, including AM from Engineering, are preparing for a trek to Everest Base Camp, facing challenges like the Triples road.
 
-පේරාදෙණිය විශ්ව විද්‍යාලයේ ඉංජිනේරු පීඨයේ තුන්වැනි වසරේ ශිෂ්‍යාවක වන ඒ.එම්. සඳුනි කාංචනා, ජේ.ඒ. හර්ෂ ධර්මප්‍රිය (කණ්ඩායම් නායකඉංජිනේරු පීඨය) ටී.බී. සමරකෝන් (විද්‍යා පීඨය) සී.එස්. මඩවල (ඉංජිනේරු පීඨය) ආර්.බී. මාන්නප්පෙරුම (කෘෂිකාර්මික පීඨය) එච්.එම්. ඩිල්ෂාන් (කලා පීඨය) යන විශ්ව විද්‍යාල සිසුන්හිමාල කඳු තරණ කණ්ඩායමට ඇතුළත්ව සිටි .
+🟩
 
-මෙම පිරිස එළඹෙන අප්‍රේල් මස පළමු සතියේ නේපාලයේ කත්මඬු නුවර සිට සැලරි දක්වා ගමන් කරඑහි සිට නමාචි බසාර් (මීටර 3440) ඔස්සේ ගෝකියෝවිල් (මීටර 4760) හරහා අප්‍රේල් 20 වැනිදා එවරස්ට් බේස් කෑම්ප් (මීටර 5364) දක්වා යාමට අපේක්ෂා කරන අතර ඉන් අනතුරුව මීටර 6200 ක උසකින් යුතු අයිලන්ඩ්පීක් තරණය කිරීමට බලාපොරොත්තු වන බව පේරාදෙණිය විශ්වවිද්‍යාලය නිවේදනය කරයි .
+Six scholars, including the Explorers Association of the University of Peradeniya, was preparing for the Himalaya Mountains, organized for the 14th consecutive year.
+
+AM, a third year student of the Faculty of Engineering at the University of Peradeniya. Sonuni Kanananna, JA. Harsha Dharmapriya (Team Tear Vicinal Faculty) TB. Samarakoon (Science Faculty) CS. Madawala (Engineering Faculty) RB. Mannapperuma (Agricultural Faculty) HM. The University Students Samalamala Mountains included the Dilshan (Arts Faculty).
+
+These people are expected to go to Kathmi from Kathmi in Nepal week to Salary from Nepal, the Everest Base Camp (4364 meters) through the Gokoville (4760 meters) through Namachi Bazaar (4760 meters).The University of Peradeniya has announced that it is expected to cross the Elecument.
 
 ...
 
 [Data](articles/aabcf60e.json)
+
+[Extended Data](ext_articles/aabcf60e.ext.json)
 
 ---
 
@@ -2231,83 +2333,5 @@ The threats caused by the misconduct, their lives have gone up due to their dwel
 [Data](articles/1e5e7728.json)
 
 [Extended Data](ext_articles/1e5e7728.ext.json)
-
----
-
-### Facebook owner is severely charged from Trump
-
-*2024-03-12 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194410) · `si`
-
-Trump criticizes Facebook's parent company, Ticktock, for unfair advantage, claiming it threatens US government. In 2020, Trump attempted to ban Ticktock. Jooring supports Ticktock's law if passed.
-
-🟩
-
-Former President President Donald Trump has criticized former President's President to prohibit the Ticktock parent company in the US.
-
-Donald Trump has stated that this proposal is the proposal that the Facebook owner is gains unfair advantage.
-
-Donald Trump has stated that Facebook is also a threat to the US government as a threat to the Ticktock.
-
-In 2020, Donald Trump had tried to ban Ticktock during the work of the president.
-
-US President Jooring Jooring has said that if the law of the Ticktock parent company is passed, the law is passed.
-
-◼️
-
-[Data](articles/bff66d25.json)
-
-[Extended Data](ext_articles/bff66d25.ext.json)
-
----
-
-### Interested in donating and investing for the welfare of the people of the Southern Province - Indian High Commissioner
-
-*2024-03-12 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178484) · `ta`
-
-Indian High Commissioner Santosh Ja visited the Southern Province, expressing interest in donating and investing for welfare projects. He met Governor Willy Kamage, discussed Indian government initiatives, and visited Galle, Matara, and Hambantota districts. The High Commissioner also paid tribute to Ravindranath Tahur in the Rukuna University auditorium, built with Indian donations. The Government of India is implementing housing schemes in Galle, Matara, and Hambantota, with the High Commissioner visiting to assess progress.
-
-🟩
-
-Indian High Commissioner Santosh Ja said that he is eager to carry out more projects through donation and investments for the welfare of the people in the Southern Province.
-
-Indian High Commissioner Santosh Ja, who recently visited the Southern Provincial Council, met the provincial governor Willy Kamage and made the above statement about the many plans of the Indian government in the region.
-
-Indian High Commissioner Santosh Ja is the first Indian High Commissioner to make a perfect visit to the Southern Province by visiting the Galle, Matara and Hambantota districts from 6th to 7th of this month.
-
-As part of the visit, the High Commissioner met on March 6, 2024, the provincial governor, Wiley Kamage, and explained the many projects taken by the Government of India in the region.
-
-The High Commissioner also expressed its willingness to carry out more projects through donation assistance and investments for the benefit of the people in the province.
-
-...
-
-[Data](articles/d97cd844.json)
-
-[Extended Data](ext_articles/d97cd844.ext.json)
-
----
-
-### Theft of a former female member of the UNP in Batticaloa
-
-*2024-03-12 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178485) · `ta`
-
-A former UNP female member in Batticaloa was robbed of 43 lakhs 7,333 rupees worth of gold jewelry at 2.30 am on Monday. The thief blindfolded her but she couldn't escape. Police found the thief had previously broken into two nearby houses.
-
-🟩
-
-The police said that the incident took place at 2.30 am on Monday (11) at 2.30 am.
-
-The female member was sleeping in the house of the house with the children on Sunday night.
-
-At 2.30 am at 2.30 am, the thief, who had entered the house of the house, had stolen gold jewelery with 27 ¾ pounds worth 27 ¾ pounds worth of 43 lakhs 7,333 rupees, 3 rupees 17 rupees and Rs.
-
-Initial investigations by the police revealed that the woman had seen the thief when she was blindfolded, but that she could not get up from the bed.
-
-Meanwhile, police said that the thieves had entered the house of two houses near his house before the municipal council's house was broken.
-
-◼️
-
-[Data](articles/52573eda.json)
-
-[Extended Data](ext_articles/52573eda.ext.json)
 
 ---

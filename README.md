@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 02:02:58**
+As of **2024-03-13 02:17:51**
 
 ## Newspaper Stats
 
-*Scraped **12,504** Articles*
+*Scraped **12,507** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 119
+colombotelegraphcom | 120
 bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
@@ -17,8 +17,8 @@ economynextcom | 666
 islandlk | 677
 adalk | 1,070
 adaderanalk | 1,509
-tamilmirrorlk | 1,517
-virakesarilk | 1,734
+tamilmirrorlk | 1,518
+virakesarilk | 1,735
 dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,504 (100.0%) of 12,504 articles have been extended.
+12,504 (100.0%) of 12,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### தோட்ட  முகாமையாளர்கள் இருவருக்கு விளக்கமறியல்
+
+*2024-03-13 02:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-முகாமையாளர்கள்-இருவருக்கு-விளக்கமறியல்/175-334584) · `ta`
+
+நுவரெலியா லபுக்கலை தோட்ட பிரிவான பம்பரகலை தோட்டத்தில் தாக்குதலில் ஈடுபட்டனர் என்ற குற்றச்சாட்டில் நுவரெலியா பொலிஸாரால் கைது செய்யப்பட்ட தோட்ட  முகாமையாளர்கள் இருவரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதவான் பிரபுதிகா லங்கான்தினி நேற்று (12) மாலை பிறப்பித்துள்ளார்.
+
+நுவரெலியா பம்பரகலை தோட்டத்தில் கள உத்தியோகத்தர் ஒருவருக்கும் தோட்ட முகாமையாளர் இருவருக்கும் இடையில் கடந்த மாதம் 28 ஆம் திகதி தொழில் ரீதியாக வாக்குவாதம் ஏற்பட்டு பின் கைகலப்பில் முடிந்தது.
+
+இந்த தகக்குதல் சம்பவம் தொடர்பாக தோட்ட முகாமையாளர் நுவரெலியா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததையடுத்து தோட்ட முகாமையாளர்களை தாக்கிய கள உத்தியோகஸ்தர் மற்றும் அவரின் மகனை கைது செய்த பொலிஸார் அவர்களை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதவான் பிரபுதிகா லங்கான்தினி முன்னிலையில் ஆஜர்படுத்தியுள்ளனர்.
+
+இதன்போது சந்தேக நபர்களான தந்தை மற்றும் மகனை ஏழு நாட்களுக்கு விளக்க மறியலில் வைக்கவும் நீதவான் உத்தரவு  பிறப்பித்துள்ளார்.
+
+...
+
+[Data](articles/6d70a979.json)
+
+---
+
+### ரணில் விக்கிரமசிங்க எமது ஜனாதிபதி வேட்பாளரல்ல - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+
+*2024-03-13 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178571) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க எமது ஜனாதிபதி வேட்பாளரல்ல, ஐக்கிய தேசியக் கட்சியின் ஜனாதிபதி வேட்பாளராக அவர் போட்டியிடலாம்.ஜனாதிபதி தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பு வெளியானதும் எமது வேட்பாளரைக் களமிறக்குவோம் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியராட்சி தெரிவித்தார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் செவ்வாய்க்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில் பொதுத்தேர்தல் தொடர்பில் பேசப்படுகிறது.பாராளுமன்றத்தைக் கலைத்து பொதுத்தேர்தலை நடத்தும் அதிகாரம் ஜனாதிபதிக்கு உண்டு.கட்சி என்ற ரீதியில் பலமானதாகவே உள்ளோம்.ஆகவே இந்த ஆண்டு எந்த தேர்தல் இடம்பெற்றாலும் அதனை நாங்கள் வெற்றிகரமாக எதிர்கொள்வோம்.
+
+...
+
+[Data](articles/11412cd6.json)
+
+---
 
 ### Appeal against the verdict!False statement of archeology - lawyer Sukash!
 
@@ -645,6 +681,20 @@ One incident was reported in Galagoda, Ambalangoda while the other was in Pitiga
 [Data](articles/493869f1.json)
 
 [Extended Data](ext_articles/493869f1.ext.json)
+
+---
+
+### When I Become The President
+
+*2024-03-12 20:34:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-i-become-the-president/) · `en`
+
+Long ago, about 65 or more years ago, when I was a school boy, I remember writing an essay on the above subject. Don’t ask me what I wrote in that essay I remember nothing. I never thought I will have to write another essay on the same subject after almost a lifetime. This time it is serious as it is about the life and death of a nation.
+
+The thought of becoming the president of this country is pure nonsense and useless wishful thinking. But it gives me a free hand to indulge in creative writing or day dreaming. It certainly is not going to be fiction or an irresponsible bed time story. It will be very serious and I am going to put to work all the gray matter, what little still left of it in my brain and all the warmth and hope, not much really, still left in my old, betrayed, dried up and broken heart.
+
+...
+
+[Data](articles/a3448d3e.json)
 
 ---
 
@@ -2251,71 +2301,5 @@ On July 7, July 7, 20 ,, July 7, Juvenel, was murdered. After that incident, vio
 [Data](articles/881c589b.json)
 
 [Extended Data](ext_articles/881c589b.ext.json)
-
----
-
-### Another case against Keheliya will be heard
-
-*2024-03-12 14:56:47* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-විභාගයට-දින-දෙයි/11-408562) · `si`
-
-Keheliya Rambukwella's case against Vauvani Corporation for absorption will be heard. The Basica Chairperson's initiatives were against the government, leading to the decision to take the case today. The judge will be summoned on April 4, and the case was declared the day of the examination. The first accused was involved in a promotional program at TV corporation on November 25, 2014, and was accused of plotting and dealing with the bribery Act. The case was initially protested by lawyers but was taken up again on April 4.
-
-🟩
-
-GIs to the Vauvani Corporation as absorption. The Basica Chairperson's initiatives that the courts were purchased against the government, the decision of the accused of Minister Keheliya Rambukwella has decided to take the case today (12).
-
-The judge to be summoned to call on April 4, the judge also announced that the case was declared the day of the examination.
-
-The first accused was a promotional program at a time when the first accused was not essential to the TV corporation on November 25, 2014 and had a promotional program at Rs.The Bribery Commission has accused the defendants by plotting and dealing with the bribery Act.
-
-The Hon.
-
-The accused officials were produced before courts when the case was called in the case as a suspect in the case of the drug supply case.
-
-At first, the lawyers presented a basic protest in the early hours of the case that the case could not be carried out.. The case was taken up again on April 4.
-
-◼️
-
-[Data](articles/d268ff8f.json)
-
-[Extended Data](ext_articles/d268ff8f.ext.json)
-
----
-
-### New envoys of Pakistan & Thailand present credentials to President
-
-*2024-03-12 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97896/new-envoys-of-pakistan-thailand-present-credentials-to-president) · `en`
-
-A newly appointed Ambassador and a High Commissioner to Sri Lanka presented their credentials to President Ranil Wickremesinghe at the President’s House.
-
-Accordingly, Mr. Paitoon Mahapannaporn, the Ambassador of the Kingdom of Thailand and Major General (Retd) Faheem Ul Aziz, the High Commissioner of Pakistan called on the Head of State this morning (March 12).
-
-Minister of Foreign Affairs Ali Sabry, PC, and Presidential Secretary Saman Ekanayake were also present at this event.
-
-◼️
-
-[Data](articles/0f8fd964.json)
-
-[Extended Data](ext_articles/0f8fd964.ext.json)
-
----
-
-### Homagama NSBM. Faculty of Medicine to
-
-*2024-03-12 14:55:41* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-එන්-එස්-බී-එම්--වෙත-වෛද්‍ය-පීඨයක්/11-408561) · `si`
-
-The Homagama NSBM Faculty of Medicine, approved by the cabinet, is a 100% government initiative. It will utilize Homagama Hospital for clinical facilities, with the project costing NSBM.
-
-🟩
-
-Homagama NSBM. The proposal made by President Ranil Wickremesinghe proposal to commence a medical faculty for the Green University has approved cabinet.
-
-The company will be 100 percent government agency. Homagama hospital will be made to provide clinical facilities required for the Faculty of Medicine and the total cost of the project is NSBM. The institute is due.
-
-◼️
-
-[Data](articles/94fa6a3b.json)
-
-[Extended Data](ext_articles/94fa6a3b.ext.json)
 
 ---

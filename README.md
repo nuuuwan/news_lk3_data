@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 19:33:22**
+As of **2024-03-12 19:50:46**
 
 ## Newspaper Stats
 
-*Scraped **12,460** Articles*
+*Scraped **12,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 664
 islandlk | 677
 adalk | 1,066
 adaderanalk | 1,502
-tamilmirrorlk | 1,513
+tamilmirrorlk | 1,514
 virakesarilk | 1,724
 dailymirrorlk | 1,897
-adaderanasinhalalk | 1,966
+adaderanasinhalalk | 1,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,457 (100.0%) of 12,460 articles have been extended.
+12,460 (100.0%) of 12,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### பிரதம செயலாளர்கள் நியமனம்
+
+*2024-03-12 19:32:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதம-செயலாளர்கள்-நியமனம்/175-334568) · `ta`
+
+வட மாகாண பிரதமச் செயலாளராக எல். இளங்கோவனும், வடமேல் மாகாண பிரதமச் செயலாளராக தீபிகா கே குணரத்னவும் நியமிக்கப்பட்டுள்ளனர்.
+
+அவர்களுக்கான நியமனக் கடிதங்களை ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஜனாதிபதி செயலகத்தில் வைத்து இன்று (12) கையளித்தார்.   R
+
+◼️
+
+[Data](articles/1df43558.json)
+
+---
+
+### මරණයට මොහොතකට පෙර වෙඩික්කරු සියල්ල වමාරයි
+
+*2024-03-12 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194433) · `si`
+
+ගම්පහ මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයකදී හිමි නමක් ඝාතනය කිරීමේ සිද්ධියට අත්අඩංගුවට ගත් වෙඩික්කරු ඊයේ පොලිස් වෙඩි ප්‍රහාරයකින් මියගොස් තිබුණි.
+
+සැකකරු කමන්ඩෝ බලකායේ සේවය කර 2017දී ඉන් ඉවත් වූ කල්හාර දිල්ෂාන් නම් කුලී ඝාතකයෙකි.
+
+ඔහු 2023 ජූලි 20 වැනිදා තලංගම වැලිපාර ප්‍රදේශයේදී ඩිලාන් රංග නැමැත්තා ඝාතනය කිරීම, 2023  නත්තල් දා  පාදුක්කේදී මන්නා රෝෂාන් සහ තවත් අයෙක් ඝාතනය කිරීම, 2023 සැප්තැම්බර් 25 වනදා මීගොඩ ලී බඩු වෙළඳසැලකින් රුපියල් ලක්ෂ 78ක් කොල්ලකෑම ඇතුළු අපරාධ රැසකට සම්බන්ධ අයෙකි.
+
+ලැඩා නැමැත්තා ලබාදුන් කොන්ත්‍රාත්තුවක් මත,  නිධානයකින් ලබාගත් මැණිකක් ලබාගැනීමේ අරමුණින් අදාළ භික්ෂුව ඝාතනය කළ බව ඔහු පොලිසියට පවසා තිබේ.
+
+පෑලියගොඩ අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂවරයා උපදෙස් මත එහි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පී.එස්. පතිරාජසූරිය හා ප්‍රධාන පොලිස් පරීක්ෂක එස්.ඩී.කේ ජයසේකර යන මහත්වරුන්ගේ උපදෙස් මත විමර්ශන ක්‍රියාත්මකය.
+
+...
+
+[Data](articles/fa80e195.json)
+
+---
+
+### කැනඩා ඝාතන සිද්ධියේදී ඔටාවා පොලීසියට වැරදිලා
+
+*2024-03-12 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194432) · `si`
+
+ඔටාවාහි ශ්‍රී ලාංකිකයින් 6 දෙනෙක් ඝාතනය කිරීමේ සිද්ධියේදී ඔටාවා පොලීසිය විසින් වැරදි ලෙස සන්නිවේදනයන් කිහිපයක් සිදුකර තිබේ.
+
+සීබීසී හෙවත් කැනේඩියානු රාජ්‍ය ගුවන් විදුලි සහ රූපවාහිනි ආයතනය මේ පිළිබඳව වාර්තාවක් අද ඉදිරිපත් කළේය.
+
+කැනඩාවේ, ඔටාවා අගනුවරට ආසන්නයේ පිහිටි බාර්හෙවන් ප්‍රදේශයේ සිය නිවස තුළ ශ්‍රී ලාංකික මවක් සහ ඇයගේ දරුවන් සිව්දෙනා සහ තවත් ශ්‍රී ලාංකිකයෙකු විසින් ඝාතනය කර එම කාන්තාවගේ ස්වාමියාට බරපතළ තුවාල සිදුකිරිමක් වාර්තාවුණේ පසුගිය බදාදා දින රාත්‍රීයේදීය.
+
+එය ඔටාවා හී මෑත ඉතිහාසයේ සිදුවු දරුණුතම සමූහ ඝාතනය වන අතර මේ සම්බන්ධයෙන් කරුණු වාර්තාකිරීමේදී ඔටාවා පොලීසිය වැරදි කිහිපයක් සිදුකර තිබේ.
+
+කැනේඩියානු රාජ්‍ය ගුවන් විදුලි සහ රූපවාහිනි ආයතනය වාර්තා කළේ, ඔටාවා පොලීසිය සිදුකර ඇති පළමු වැරැද්ද වන්නේ මෙම සිද්ධිය වෙඩි තබා සිදුකළ සමූහ ඝාතනයක් ලෙස හැදින්වීමය.
+
+පසුව එය තියුණු ආයුදයක් යොදාගෙන සිදුකළ ඝාතනයක් බව ඔටාවා පොලිසිය නිවැරදි කළේය.
+
+පොලීසිය මුලින් සඳහන් කළේ හදිසි ඇමතුම් අංශයට සිද්ධිය වාර්තාවුයේ ඔටාවා වේලාවෙන් රාත්‍රී 10.52කට බවය.
+
+...
+
+[Data](articles/7891965d.json)
+
+---
 
 ### Edu. Ministry urges adherence to guidelines for safeguarding schoolchildren amidst soaring temperatures
 
@@ -49,6 +107,8 @@ The marathon, held as part of the inter-house sports meet, took place on Monday 
 ...
 
 [Data](articles/b423100e.json)
+
+[Extended Data](ext_articles/b423100e.ext.json)
 
 ---
 
@@ -334,27 +394,33 @@ The petition was taken up for hearing in the presence of the Court of Appeal in 
 
 ---
 
-### වයඹ ප්‍රධාන ලේකම් ඉවත් කරයි
+### Wayamba's Chief Secretary removes
 
 *2024-03-12 17:31:47* · [`adalk`](https://www.ada.lk/breaking_news/වයඹ-ප්‍රධාන-ලේකම්-ඉවත්-කරයි/11-408570) · `si`
 
-වයඹ පළාත් සභාවේ ප්‍රධාන ලේකම් රංජිත් ආරියරත්න මහතා වහාම ක්‍රියාත්මක වන පරිදි එම තනතුරෙන් ඉවත් කිරීමට පියවර ගෙන ඇත.
+The Presidential Secretariat has initiated the removal of Ranjith Ariyaratne, the Chief Secretary General of North Western Provincial Council, due to allegations of ignoring orders from politicians and the Sri Lanka Civil Front. This is the first time a Provincial Council Chief Secretary has been removed before the end of their term. The Sri Lanka Administrative Service Officers' Association has protested against the removal.
 
-රංජිත් ආරියරත්න මහතා සම්බන්ධයෙන් ලැබී තිබූ චෝදනා සහ පැමිණිලි සැලකිල්ලට ගෙන ජනාධිපති ලේකම් කාර්යාලය විසින් ඔහු එම තනතුරෙන් ඉවත් කිරීමට පියවර ගෙන ඇති බව වාර්තාවේ.
+🟩
 
-වයඹ පළාත් ආණ්ඩුකාරවරයාගේ සහ වයඹ පළාතේ ශ්‍රී ලංකා පොදුජන පෙරමුණට සම්බන්ධ දේශපාලනඥයන්ගේ නියෝග සහ ඉල්ලීම් නොසලකා හැරීම සම්බන්ධයෙන් ඔහුට එසේ චෝදනා එල්ලවී ඇත.
+Steps have been taken to remove the Chief Secretary General of North Western Provincial Council Ranjith Ariyaratne.
 
-මේ ආකාරයේ චෝදනා කිසිවකට ආරියරත්න මහතා සම්බන්ධ නැති බැවින් ඔහු තනතුරෙන් ඉවත් නොකරන ලෙස වයඹ පළාතේ උසස් රාජ්‍ය නිලධාරීන් පිරිසක් වයඹ පළාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගෙන් ඉල්ලීමක් පවා කර තිබූ බවද පැවසේ.
+It is reported that the Presidential Secretariat has taken steps to remove the allegations and complaints regarding Ranjith Ariyratne.
 
-ප්‍රධාන ලේකම් තනතුරෙන් ඉවත් කරන ලද ආරියරත්න මහතා ඒ වෙනුවට කුමන තනතුරකට පත් කළාදැයි යන්න මෙතෙක් ප්‍රකාශවි නැත.
+He was accused of ignoring the orders and demands of the politicians of the North Western Province and the Sri Lanka Civil Front to the Sri Lanka Civil Aravan Front.
 
-මේ ආකාරයට දිවයිනේ පළාත් සභාවකට පත් කරන ලද ප්‍රධාන ලේකම්වරයෙකු නියමිත සේවා කාලයට පෙර එම තනතුරෙන් ඉවත් කරනු ලැබූ ප්‍රථම අවස්ථාව මෙය වීමද විශේෂත්වයකි.
+It is said that the North Western Province, Lakshman Yapa Abeywardena has requested the North Western Province, to remove him from the post.
 
-මෙම ඉවත් කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා පරිපාලන සේවා නිලධාරීන්ගේ සංගමයද විරෝධය පළ කර ඇති බවද වාර්තාවේ.
+The Chief Secretary Ariyaratne has not yet been told to go to what position was replaced by the Chief Secretary.
+
+This is the first time a Chief Secretary appointed to a Provincial Council of the Island has been removed from the post before the time period.
+
+It is also reported that the Sri Lanka Administrative Service Officers' Association has also protest against the removal.
 
 ...
 
 [Data](articles/4efe817c.json)
+
+[Extended Data](ext_articles/4efe817c.ext.json)
 
 ---
 
@@ -1193,6 +1259,8 @@ The Cabinet of Ministers has already granted approval for the use of Homagama Ba
 ...
 
 [Data](articles/34912567.json)
+
+[Extended Data](ext_articles/34912567.ext.json)
 
 ---
 
@@ -2241,81 +2309,5 @@ The new faculty will be able to enroll 500 local and foreign students annually f
 [Data](articles/ebcbc5e8.json)
 
 [Extended Data](ext_articles/ebcbc5e8.ext.json)
-
----
-
-### Oil barns attacked in two cities of Russia
-
-*2024-03-12 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178510) · `ta`
-
-Drone attacks in Russia led to oilseed fires in two cities, 450km east of Moscow, amidst ongoing tensions with Ukraine. Special forces are extinguishing the fires.
-
-🟩
-
-Russian officials have said that the oilseeds in two cities of Russia were set on fire in the wake of the drone attacks carried out today.
-
-These two cities are at a space of hundreds of kilometers. Castoo is 450 kilometers east of Moscow.
-
-Oil repository has been set in two cities as Ukraine has carried out attacks on many cities of Russia.
-
-Special soldiers are involved in the fire to extinguish the fire, Russian rituals said.
-
-◼️
-
-[Data](articles/641c7551.json)
-
-[Extended Data](ext_articles/641c7551.ext.json)
-
----
-
-### Controversial Prime Minister declared resignation in Haiti's capital violent gang
-
-*2024-03-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178500) · `ta`
-
-Haiti's Prime Minister resigned amidst violent protests and security concerns following the assassination of the previous leader in 2021. The Prime Minister's Advisor confirmed the resignation, with the current president remaining in office until a new Prime Minister is appointed. The Caribbean community and the general market organization have expressed their determination to establish a peaceful transition and hold elections.
-
-🟩
-
-After the assassination of Haiti in 2021, the current Prime Minister, who came to power, refused to hold the election last year, due to the security of the country.
-
-Demonstrators are furious as Haiti is further trapped within the poverty and the group.
-
-The Prime Minister of Haiti, who has been violently over the past week. He has resigned from his post.
-
-The announcement of the resignation of the Prime Minister has been announced in a situation where Haiti is in a state of disrepair and Haiti is in a state of disrepair.
-
-The Prime Minister's Advisor has confirmed this and said that the current president will remain in office until the new Prime Minister takes over.
-
-Guyana's president and head of the Caribbean community and the general market organization, Irfan Ali, said that the announcement of the interim Prime Minister's announcement and the announcement of the interim prime minister will be resigned.
-
-...
-
-[Data](articles/17976cdc.json)
-
-[Extended Data](ext_articles/17976cdc.ext.json)
-
----
-
-### Attempt to bring about a change in the electoral system
-
-*2024-03-12 12:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையில்-மாற்றத்தைக்-கொண்டு-வர-முயற்சி/175-334549) · `ta`
-
-The government is proposing a mixed electoral system with 160 MPs elected by first-past-the-post (FPTP) and 65 by proportional representation (PR), aiming to address criticism of the current PR system. This change, recommended for debate by Justice Minister Vijayadasa Rajapakse, follows failed attempts in the past due to political disagreements.
-
-🟩
-
-A minister said that the government has made new efforts to bring about changes in the parliamentary election system by amendment to the parliamentary election law ahead of the outstanding national elections.
-
-Justice Minister Vijayadasa Rajapakse submitted a cabinet paper for the introduction of a mixed electoral system last week.Under the new system, 160 MPs will be selected under the first level of office and another 65 MPs will be selected under proportional representation.
-
-Under the FPTP, the candidate who receives more votes in a local constituency will get a place.On the contrary, PR is the idea that in Parliament, the parties' seats should be at the rate of votes cast.
-
-This article was recommended for the debate of representatives of various political parties in the House.Currently, London, Minister Rajapakse telephoned Daily Mirror, saying that some parties are supporting the proposals and some parties.
-
-...
-
-[Data](articles/1efea7c8.json)
-
-[Extended Data](ext_articles/1efea7c8.ext.json)
 
 ---

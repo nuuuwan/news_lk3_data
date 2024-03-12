@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 10:03:26**
+As of **2024-03-12 10:17:54**
 
 ## Newspaper Stats
 
-*Scraped **12,309** Articles*
+*Scraped **12,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,163 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 677
 adalk | 1,048
-adaderanalk | 1,486
-tamilmirrorlk | 1,498
-virakesarilk | 1,687
-dailymirrorlk | 1,876
+adaderanalk | 1,487
+tamilmirrorlk | 1,500
+virakesarilk | 1,691
+dailymirrorlk | 1,880
 adaderanasinhalalk | 1,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,309 (100.0%) of 12,309 articles have been extended.
+12,309 (99.9%) of 12,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### யாழில் வீதியால் சென்ற இளம் குடும்பஸ்தர் காரில் கடத்திச் சென்று வெட்டிக்கொலை !
+
+*2024-03-12 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178488) · `ta`
+
+வீதியால் சென்ற இளம் குடும்பஸ்தர் ஒருவரை திங்கட்கிழமை கும்பல் ஒன்று கடத்திச் சென்று வாள்வெட்டு தாக்குதல் மேற்கொண்ட நிலையில் அந்த குடும்பஸ்தர் உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாணம், வட்டுக்கோட்டை - மாவடி பகுதியை சேர்ந்த 23 வயதுடைய குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த குடும்பஸ்தரும் அவரது மனைவியும் காரைநகரில் இருந்து வட்டுக்கோட்டை - மாவடியில் உள்ள வீட்டுக்கு சென்றுகொண்டிருந்தவேளை பொன்னாலை கடற்படை முகாமுக்கு அருகாமையில் இரண்டு கார்களில் ஆயுதங்களுடன் நின்ற சிலர் அவர்களை வழி மறித்தனர்.
+
+இதன்போது இருவரும் தப்பித்து கடற்படை முகாமுக்குள் உள்நுழைந்தனர். இந்நிலையில் கடற்படையினர் அவர்களை வெளியே விரட்டினர்.
+
+இதனால் அவர்கள் வெளியே வந்தவேளை, ஒரு காரில் மனைவியையும், அடுத்த காரில் குறித்த நபரையும் ஏற்றிக்கொண்டு குறித்த குழு அங்கிருந்து சென்றது.
+
+பின்னர் மனைவியை சித்தங்கேணி சந்தியில் இறக்கி  விட்டனர். அதன்பின்னர் மனைவி வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்வதற்கு சென்றுள்ளார்.
+
+...
+
+[Data](articles/d6091526.json)
+
+---
+
+### மட்டக்களப்பில் ஐ.தே.க.வின் முன்னாள்  பெண் உறுப்பினரின் வீடு உடைத்து திருட்டு
+
+*2024-03-12 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178485) · `ta`
+
+மட்டக்களப்பு மாநகர சபை முன்னாள் ஐக்கிய தேசிய கட்சி பெண் உறுப்பினர் ஒருவரின் வீடு உடைத்து தங்க ஆபரணம், புகைபடகருவி, பணம் ஆகியவற்றை திருடிச் சென்ற சம்பவம் திங்கட்கிழமை (11) அதிகாலை 2.30 மணிக்கு இடம்பெற்றுள்ளதாக மட்டு தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+இந்த பெண் உறுப்பினர் வீட்டில் நேற்று ஞாயிற்றுக்கிழமை இரவு  பிள்ளைகளுடன் வீட்டின் அறையில் உறங்கி கொண்டிருந்துள்ளார்.
+
+இந்நிலையில்  சம்பவதினமான அதிகாலை 2.30 மணிக்கு வீட்டின்  சமையலறையின் யன்னலை கழற்றி உள்நுழைந்த திருடன் அறையில் அலுமாரியில் வைத்திருந்த 43 இலட்சத்து 7,333 ரூபா பெறுமதியான  27 ¾  பவுண்கள் கொண்ட தங்க ஆபரணங்கள், 3 இலச்சது 17 ரூபா பணம், 6 இலட்சம் ரூபா பெறுமதியான புகைபடகருவி என்பவற்றை திருடிச் சென்றுள்ளான்.
+
+பெண் உறுப்பினர் கண்விழத்த போது திருடனை கண்டுள்ளதாகவும், ஆனால் அவரால் படுக்கையில் இருந்து எழும்ப முடியாதவாறு இருந்துள்ளதாகவும் பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/52573eda.json)
+
+---
+
+### India conducts first test flight of domestically developed missile
+
+*2024-03-12 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97887/india-conducts-first-test-flight-of-domestically-developed-missile) · `en`
+
+India’s domestically developed Agni-5 missile successfully took its maiden test flight using the Multiple Independently-targetable Reentry Vehicle (MIRV) technology, Prime Minister Narendra Modi announced on Monday (11 March).
+
+Hailing the scientists of the Defence Research and Development Organisation (DRDO) for the feat, he said he was “proud” of them for the successful completion of ‘Mission Divyastra’.
+
+Agni-5 is India’s nuclear-capable long-range surface-to-surface missile developed by DRDO. The first test flight using MIRV is significant for India as it has entered the league of a select group of countries that have this capability.
+
+Multiple Independently-targetable Reentry Vehicles (MIRVs) allow a missile to deliver multiple nuclear warheads at different targets that are even hundreds of kilometres apart. While conventional missiles can carry one warhead, MIRVs are capable of deploying several warheads.
+
+...
+
+[Data](articles/082e27ef.json)
+
+---
+
+### தப்பிச் செல்ல முயன்ற நபர் சுட்டுக்கொலை
+
+*2024-03-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிச்-செல்ல-முயன்ற-நபர்-சுட்டுக்கொலை/175-334543) · `ta`
+
+மொனராகலையில் பொலிஸாரால் நேற்று கைது செய்யப்பட்ட மல்வத்து ஹிரிபிட்டிய பிரதேச பௌத்த பிக்கு மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்ட துப்பாக்கிதாரி சுட்டுக் கொல்லப்பட்டார்.
+
+குறித்த சந்தேகநபர் பொலிஸ் பிடியிலிருந்து தப்பிச் செல்ல முயன்ற போது ஏற்பட்ட மோதலில் குறித்த நபர் மீது துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+குறித்த நபர் அத்தனகல்ல, யதவக்க பிரதேசத்தில் மறைத்து வைக்கப்பட்டிருந்த ஆயுதங்களை மீட்க அழைத்து செல்லும் போது தப்பிச் செல்ல முயன்றதாகவும் இதன்போது ஏற்பட்ட மோதலில் அவர் சுட்டுக் கொல்லப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/1e22c2ae.json)
+
+---
+
+### No tax on 92% of sanitary towels
+
+*2024-03-12 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-tax-on-92-of-sanitary-towels/108-278690) · `en`
+
+Colombo, March 12 (Daily Mirror) - A total of 92% of the sanitary towels required in this country are produced in our country, and no tax is charged for them, Finance State Minister Ranjith Siyambalapitiya said.
+
+While addressing a programme in the Thalduwa area, he pointed out that one company brings the remaining 8% of the imported goods to Sri Lanka as manufactured goods, and only 22.5% tax is charged for it.
+
+That amount of tax is levied only for the purpose of protecting the local producer, the Minister added.
+
+◼️
+
+[Data](articles/72eeb80c.json)
+
+---
+
+### விபத்தில் சிக்கிய பொலிஸ் ஜீப்
+
+*2024-03-12 09:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-சிக்கிய-பொலிஸ்-ஜீப்/175-334542) · `ta`
+
+முல்லைத்தீவு - மாங்குளம், ஒட்டுசுட்டான் வீதியில் நேற்று (11) மாலை 06.00 மணியளவில் பொலிஸ் வாகனம் ஒன்று விபத்தில் சிக்கியுள்ளது.
+
+முள்ளியவளையில் இருந்து மாங்குளம் நோக்கி பயணித்துக் கொண்டிருந்த பொலிஸ் வாகனம் கரிப்பட்டமுறிப்பு தச்சடம்பன் பகுதியில் வீதியினை விட்டு விலகி விபத்துக்குள்ளாகி உள்ளது.
+
+வாகனத்தில் சென்ற இரு பொலிஸ் அதிகாரிகளும் சிறு காயங்களுக்குள்ளாகினர். எனினும், பொலிஸ் வாகனம் பலத்த சேதமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/ef1a0910.json)
+
+---
+
+### தென் மாகாண மக்களின் நலனுக்காக நன்கொடை, முதலீடுகளை மேற்கொள்ள ஆர்வம் - இந்திய உயர்ஸ்தானிகர்
+
+*2024-03-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178484) · `ta`
+
+தென்மாகாணத்தில் உள்ள மக்களின் நலனுக்காக நன்கொடை உதவிகள் மற்றும் முதலீடுகள் மூலம் மேலும் பல திட்டங்களை முன்னெடுப்பதற்கு ஆர்வமாக உள்ளதாக இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்துள்ளார்.
+
+தென்மாகாணத்திற்கு அண்மையில் விஜயம் மேற்கொண்ட இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா, மாகாண ஆளுநரான வில்லி கமகேவை சந்தித்து பிராந்தியத்தில் இந்திய அரசு மேற்கொண்ட பல திட்டங்கள் குறித்து எடுத்துரைத்தபோதே மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா, இம்மாதம் 6 ஆம் திகதி முதல் 7  ஆம் திகதி வரை காலி, மாத்தறை மற்றும் அம்பாந்தோட்டை மாவட்டங்களுக்கான விஜயத்தை மேற்கொண்டு பல்வேறு நிகழ்வுகளில் பங்கேற்றுள்ளதன் மூலம் தென் மாகாணத்திற்கு ஒரு பூரணமான விஜயத்தை மேற்கொண்ட முதல் இந்திய உயர் ஸ்தானிகர் என்ற பெருமையும் பெறுகின்றார்.
+
+இந்த விஜயத்தின் அங்கமாக உயர் ஸ்தானிகர் 2024 மார்ச் 06ஆம் திகதி மாகாண ஆளுநரான வில்லி கமகேவை சந்தித்து பிராந்தியத்தில் இந்திய அரசு மேற்கொண்ட பல திட்டங்கள் குறித்து எடுத்துரைத்தார்.
+
+...
+
+[Data](articles/d97cd844.json)
+
+---
+
+### எல்பிட்டிய துப்பாக்கிப் பிரயோகம் : காயமடைந்த மூவரில் ஒருவர் உயிரிழப்பு!
+
+*2024-03-12 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178486) · `ta`
+
+எல்பிட்டிய, பிடிகல பகுதியில் இடம்பெற்ற துப்பாக்கி பிரயோகத்தில் காயமடைந்த மூவரில் ஒருவர் உயிரிழந்துள்ளார்.
+
+எல்பிட்டிய, பிடிகல பகுதியில் திங்கட்கிழமை (11) இடம்பெற்ற துப்பாக்கிச் பிரயோகத்தில் ஒருவர் உயிரிழந்துள்ள நிலையில், மேலும் மூவர் காயமடைந்திருந்தனர்.
+
+இவ்வாறு காயமடைந்த மூவரும் வைத்தியசாலையில் சிகிச்சைபெற்று வந்த நிலையில், அதில் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இதையடுத்து எல்பிட்டி - பிட்டிகல பகுதியில் நடத்தப்பட்ட துப்பாக்கி சூட்டில் உயிரிழந்தவர்களின் எண்ணிக்கை 2 ஆக உயர்வடைந்துள்ளது.
+
+◼️
+
+[Data](articles/a77dcfa8.json)
+
+---
 
 ### Main suspect in murder of Buddhist monk, killed in police fire
 
@@ -137,6 +279,24 @@ The protests are planned to be staged in front of selected state hospitals start
 [Data](articles/981ec431.json)
 
 [Extended Data](ext_articles/981ec431.ext.json)
+
+---
+
+### Gazette allowing import of several spices suspended
+
+*2024-03-12 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-allowing-import-of-several-spices-suspended/108-278692) · `en`
+
+Colombo, March 12 (Daily Mirror) - The government has decided to suspend the gazette notification published recently allowing the import of several types of spices, including pepper, for re-export, the Agriculture Ministry said.
+
+They said the government had issued a gazette notification allowing the import of some spices grown in Sri Lanka, such as pepper, nutmeg, mace (Vasavasi), turmeric, ginger, and cardamom, for re-export.
+
+Following yesterday's Cabinet meeting, Agriculture and Plantation Industries Minister Mahinda Amaraweera expressed his opposition regarding the relevant gazette announcement.
+
+He pointed out that by allowing the import of these spices for re-exports, the local spice farmer is discouraged, and therefore the cultivation of local spice products collapses. Also, the minister pointed out that this will have a strong impact on the quality of spices in Sri Lanka, which currently ranks first among the best spices in the world.
+
+...
+
+[Data](articles/bccbb5fc.json)
 
 ---
 
@@ -578,6 +738,26 @@ Under the second phase, the number is expected to increase to 2.4 million, Minis
 
 ---
 
+### Bankers vow to continue exercising mortgage actions via courts
+
+*2024-03-12 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bankers-vow-to-continue-exercising-mortgage-actions-via-courts/108-278677) · `en`
+
+Assert suspension of parate would not preserve a mortgaged asset of a defaulter
+
+Say parate is ‘only one’ option available to banks in debt recovery process
+
+Point out there was no consultation with banks regarding suspension
+
+Sri Lanka’s bankers vow to continue exercising mortgage actions against the defaulted creditors through the courts of law, once the suspension of the parate rights of banks comes into effect.
+
+In a media statement yesterday, the Sri Lanka Banks’ Association (SLBA), on behalf of all the licensed banks, including the state banks, public listed companies and branch offices of international banks, emphasised that the suspension of parate execution would not preserve a mortgaged asset of a defaulter. Reason being, the banks would continue to exercise mortgage action through the courts of law.
+
+...
+
+[Data](articles/5803ab62.json)
+
+---
+
 ### Temperature at the alarm level
 
 *2024-03-12 03:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-334536) · `ta`
@@ -673,6 +853,24 @@ Until then. The players were headed to play with aggressive. But contrary to the
 [Data](articles/2299d0e1.json)
 
 [Extended Data](ext_articles/2299d0e1.ext.json)
+
+---
+
+### Deflation in producer prices persists through January
+
+*2024-03-12 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deflation-in-producer-prices-persists-through-January/108-278676) · `en`
+
+The deflationary conditions, which have persisted for many months since around the middle of last year, continued through January, as the prices contended by the producers across the industries have fallen by 3.0 percent from a year ago.
+
+What is officially referred to as the Producer Price Index, measured by the Census and Statistics Department, has been on a decline since June last year, around the same time the consumer prices also turned around quite notably.
+
+The producer prices provide a forerunner for what could look like the consumer prices.
+
+In February, the consumer price inflation, according to the officials’ preferred Consumer Price Index, softened to 5.9 percent over the last 12 months, from 6.4 percent in January, as the supply conditions improved while the one-off impacts from the Value Added Tax hike were dissipating.
+
+...
+
+[Data](articles/67107cc2.json)
 
 ---
 
@@ -1929,255 +2127,5 @@ It is said that the boy who was being treated was taken to the bathroom of the t
 [Data](articles/142e00e3.json)
 
 [Extended Data](ext_articles/142e00e3.ext.json)
-
----
-
-### Ramadan fasting in Sri Lanka to commence tomorrow
-
-*2024-03-11 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97878/ramadan-fasting-in-sri-lanka-to-commence-tomorrow) · `en`
-
-Muslims in Sri Lanka will begin the month of Ramadan fasting from dawn on Tuesday (12 March) as the new crescent moon has been sighted, according to the Colombo Grand Mosque.
-
-Muslims all over the world will observe a month of fasting and prayers during Ramadan to commemorate the time when the Quran was revealed to Prophet Mohammed on the night of “Laylat Al Qadr”.
-
-Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is considered to be one of the Five Pillars of Islam.
-
-◼️
-
-[Data](articles/9e1c4de1.json)
-
-[Extended Data](ext_articles/9e1c4de1.ext.json)
-
----
-
-### 4,500 multi-tasks development officers to be deployed to aid conservation of elephant fences
-
-*2024-03-11 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97877/4500-multi-tasks-development-officers-to-be-deployed-to-aid-conservation-of-elephant-fences) · `en`
-
-Minister of Wildlife and Forest Resources Conservation and Irrigation Pavithradevi Wanniarachchi revealed that the Ministry of Finance has granted approval to deploy 4,500 multi-tasks development officers to aid elephant-fence conservation efforts within the Ministry of Wildlife.
-
-The minister also stated that the demarcation of forest boundaries, which is part of the project aimed at increasing the country’s forest coverage to 32% of the total land area, is anticipated to be finalized this year.
-
-Minister of Wildlife and Forest Resources Conservation and Irrigation Pavithradevi Wanniarachchi made these remarks during her participation in a news conference held at the Presidential Media Centre today (11), focusing on the theme ‘Collective path to a Stable Country’.
-
-The Minister further commented that the International Day of Forests falls on March 21.
-
-...
-
-[Data](articles/19ec726e.json)
-
-[Extended Data](ext_articles/19ec726e.ext.json)
-
----
-
-### Ramadan fasting will begin tomorrow
-
-*2024-03-11 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178464) · `ta`
-
-Ramadan fasting starts tomorrow. The Hijri 1445 Deciding Committee Conference to Determine the Title of Holy Ramadan was held at the Colombo big school.
-
-🟩
-
-St. Ramadan fasting will commence on Tuesday (12). The Hijri 1445 Deciding Committee Conference to Determine the Title of Holy Ramadan was held on Monday evening at the Mahrip prayer at the Colombo big school.
-
-The conference was attended by a few people from the All Ceylon Jamiyyathul Ulama, Colombo Great School, Muslim Religious and Cultural Affairs Department officials and Ulama.
-
-The Colombo big school has announced that the Ramadan fasting will begin tomorrow (12) as the source of information received by the Ramadan month title in many parts of the country.
-
-◼️
-
-[Data](articles/df43269c.json)
-
-[Extended Data](ext_articles/df43269c.ext.json)
-
----
-
-### Ramadan fasting tomorrow
-
-*2024-03-11 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194393) · `si`
-
-The Colombo Maha Church will start Ramadan fasting tomorrow.
-
-🟩
-
-The Colombo Maha Church has announced that his Ramazan fast will commence tomorrow.
-
-◼️
-
-[Data](articles/2212f8d9.json)
-
-[Extended Data](ext_articles/2212f8d9.ext.json)
-
----
-
-### Man remanded for suspicion that pregnant wife was attacked
-
-*2024-03-11 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194392) · `si`
-
-A husband is accused of killing his pregnant wife, leading to his remand until tomorrow. The case involves a heated argument over the child's paternity, with the wife hospitalized.
-
-🟩
-
-A husband who has been accused of killing pregnancy and destroyed the children of the child and remanded till tomorrow.
-
-The suspect was produced before the Colombo Additional Magistrate Kammada Perera.
-
-He gave the Grandpass notification that this would be produced in court as a murder of a human murder.
-
-The police have told the court that the suspect is constantly revealed that the suspect her husband conflicts with his wife.
-
-The police further stated that a heated argument about the patronage of the child's paternity in the womb is that the suspect her husband had attacked his wife's abdomen.
-
-It has been revealed that the wife was admitted to the Ragama hospital.
-
-◼️
-
-[Data](articles/6bdf0cf3.json)
-
-[Extended Data](ext_articles/6bdf0cf3.ext.json)
-
----
-
-### The government's aim is to transpare the activities with the International Monetary Fund with transparency- the President
-
-*2024-03-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178463) · `ta`
-
-The government aims for transparency in its activities with the IMF, emphasizing this during a meeting with opposition leaders led by President Ranil Wickremesinghe. The TNA's MP Sumanthiran was present, and the government's commitment to transparency was highlighted. President Wickremesinghe assured that data analysis reports would be shared with the TNA and parliament. The government expressed its desire to work with the IMF, inviting opposition parliamentarians to discuss proposals. Treasury Secretary Mahinda Siriwardena detailed ongoing negotiations, expected to conclude by June, while Governor of the Central Bank Dr. Nandalal Weerasinghe confirmed the government's commitment to implementing IMF recommendations.
-
-🟩
-
-A meeting of opposition leaders, who was called by President Ranil Wickremesinghe to discuss the proposals of the International Monetary Fund, was held on Monday (11) at the Presidential Office headed by President Ranil Wickremesinghe.
-
-The Tamil National Alliance (TNA) Member of Parliament. A.. Sumanthiran was also present and the government's commitment to the government's commitment to all sides in a discussion with the International Monetary Fund was emphasized.
-
-Member of Parliament M.. A.. Sumanthiran stressed.
-
-President Ranil Wickremesinghe said that the government's aim was to carry out all these activities transparency and that the data analysis reports related to it would be given to the Tamil National Alliance (TNA) and parliament.
-
-...
-
-[Data](articles/e6bce022.json)
-
-[Extended Data](ext_articles/e6bce022.ext.json)
-
----
-
-### Opposition to meet party leader meeting on proposals is only Sumanthiran
-
-*2024-03-11 18:46:18* · [`adalk`](https://www.ada.lk/breaking_news/IMF-යෝජනා-ගැන-පක්ෂ-නායක-රැස්වීමට-විපක්ෂයෙන්-සුමන්තිරන්-පමණයි/11-408548) · `si`
-
-President Ranil Wickremesinghe met with MP Sumanthiran to discuss IMF proposals, emphasizing government commitment to agreed decisions. Sumanthiran requested IMF analytical reports for Parliament. The President aimed for transparency and continued collaboration with the IMF. By June, negotiations were expected to conclude, with the government implementing IMF recommendations.
-
-🟩
-
-President Ranil Wickremesinghe was held under the patronage of President Ranil Wickremesinghe at the Presidential Secretariat this morning to discuss the International Monetary Fund's proposals.
-
-TNA parliamentarian m. it. Mr. Sumanthiran was also present and emphasized the government dedication to the decisions that all parties agree with the IMF.
-
-Member of Parliament (MP) M.. it. Mr. Sumanthiran stated that reports with analytical data performed by the IMF should be presented to Parliament.
-
-President Ranil Wickremesinghe said that the government's objective was to maintain the transparency by transparencing.
-
-The President added that the President hopes to continue working with the International Monetary Fund to discuss these proposals to discuss these proposals to discuss these proposals and invite the International Monetary Fund.
-
-...
-
-[Data](articles/45ed1e08.json)
-
-[Extended Data](ext_articles/45ed1e08.ext.json)
-
----
-
-### The government agrees to reveal the IMF agreement
-
-*2024-03-11 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194391) · `si`
-
-The government has agreed to share the IMF agreement with opposition MPs and representatives. MP MA Sumanthiran announced this after discussions with IMF representatives. Opposition Leaders Sajith Premadasa and Anura Kumara Dissanayake were invited but did not attend. Parliamentarian M.Shanirin was also involved. Key figures include Prime Minister Dinesh Gunawardena, Government Ministers, Presidential Staff, Central Bank Officers, and IMF Authority.
-
-🟩
-
-The government has agreed to give the opposition MPs to the opposition members of the International Monetary Fund and the representatives of the country.
-
-Speaking to the media, MP MA Sumanthiran made this statement to the media after the IMF representatives and the government.
-
-Opposition Leader Sajith Premadasa and the Leader of the National Folk Council Anura Kumara Dissanayake was invited to participate in the discussion, but they did not attend.
-
-Parliamentarian M.Shanirin is not only a matter of attending the TNA.
-
-Prime Minister Dinesh Gunawardena, Government Ministers Shehan Semhasinghe, Presidential Staff Dr. Nandalal Weerasinghe, Central Bank Office, Officers and IMF Authority and IMF SeizingBecoming.
-
-◼️
-
-[Data](articles/3518ec6a.json)
-
-[Extended Data](ext_articles/3518ec6a.ext.json)
-
----
-
-### ITAK Jaffna Parliamentarian MA  Sumanthiran  the only Opposition MP to Participate in IMF Proposals Review Meeting for Opposition Leaders; Raises Concerns Over Lack of Transparency and absence of published technical assistance reports from the IMF regarding several recommendations
-
-*2024-03-11 18:40:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83768) · `en`
-
-Tamil National Alliance (TNA) MP M. A. Sumanthiran stood as the only Opposition member in attendance at the International Monetary Fund (IMF) proposals review meeting for opposition party leaders held at the Presidential Secretariat yesterday.
-
-Despite President Ranil Wickremesinghe extending invitations to the opposition including the main Opposition party, the Samagi Jana Balawegaya (SJB), the majority declined to attend.
-
-Speaking to Daily FT after attending the meeting, Sumanthiran said he took the opportunity to address various concerns regarding the IMF proposals at the discussion, notably focusing on the issue of transparency.
-
-Specifically, the TNA MP said he highlighted the absence of published technical assistance reports from the IMF regarding several recommendations of concern.
-
-...
-
-[Data](articles/719ea478.json)
-
-[Extended Data](ext_articles/719ea478.ext.json)
-
----
-
-### Women's International Two Municipal Series under 19;Australia, UK and Sri Lanka clash
-
-*2024-03-11 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178460) · `ta`
-
-Australia, UK, and Sri Lanka will compete in the Women's International Two Municipal Series under 19 in March and April. The tournament will feature T20 and ODI matches in Hambantota, with each team playing 4 T20 and 2 ODI matches. The champions will be determined by league points.
-
-🟩
-
-The two -class international cricket series will be held in March and April, which will be participating in women's under -19 women's teams from Australia, England and Sri Lanka.
-
-The Women's Municipal T20 Cricket Tournament will be held in Hambantota and one day cricket matches will be held.
-
-The three teams will play 4 matches each and 2 in the ODI series.
-
-The final game will not be held in these two types of cricket. The team that receives more points at the end of the league round will be declared as champions.
-
-Sri Lanka Cricket Chief Executive Officer Ashley de Silva said that these two types of cricket series will provide the most essential experience for Sri Lanka's under -19 heroes and promote cricket interest among young players at home.
-
-◼️
-
-[Data](articles/a8a709ee.json)
-
-[Extended Data](ext_articles/a8a709ee.ext.json)
-
----
-
-### New news on the second phase of Aswesum
-
-*2024-03-11 18:23:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-இரண்டாம்-கட்ட-கொடுப்பனவு-குறித்து-புதிய-செய்தி/175-334518) · `ta`
-
-Aswesum's 2nd phase allowances start June, applications due May 15, with Rs 205 billion allocated.
-
-🟩
-
-Finance Minister Xihan Semasinghe has said that the allowances for the second phase of the beneficiaries selected under the Aswesuma Welfare Scheme will be issued from next June.
-
-The deadline for submitting applications for the second phase of the Azwezum Welfare Payment will be completed on the 15th of this month.
-
-The Minister of Finance Sehan Semasinghe has said that this year's cost has been allocated Rs 205 billion.. Remble
-
-◼️
-
-[Data](articles/591a2a81.json)
-
-[Extended Data](ext_articles/591a2a81.ext.json)
 
 ---

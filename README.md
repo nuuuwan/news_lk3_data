@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 23:33:26**
+As of **2024-03-12 23:52:11**
 
 ## Newspaper Stats
 
-*Scraped **12,493** Articles*
+*Scraped **12,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
-economynextcom | 664
+economynextcom | 666
 islandlk | 677
 adalk | 1,070
-adaderanalk | 1,508
+adaderanalk | 1,509
 tamilmirrorlk | 1,516
 virakesarilk | 1,730
-dailymirrorlk | 1,904
+dailymirrorlk | 1,905
 adaderanasinhalalk | 1,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,492 (100.0%) of 12,493 articles have been extended.
+12,493 (100.0%) of 12,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Sri Lanka to get Rs. 3.3bn Japanese grant under Economic and Social Development Program
+
+*2024-03-12 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97908/sri-lanka-to-get-rs-33bn-japanese-grant-under-economic-and-social-development-program) · `en`
+
+The Cabinet of Ministers has given approval to sign documents with the Japanese government to receive a grant of Yen 1.6 billion (approximately Rs. 3.3 billion) under the Japanese Economic and Social Development Program for the implementation of several projects.
+
+Japan has expanded its corporation to provide Sri Lanka with immediate humanitarian grants for the communities devastated by the present economic crisis and to empower the government sector to upgrade the economic situation of the country.
+
+Accordingly, Sri Lanka’s long-time ally has agreed to grant Japanese Yen 1.6 billion to implement the following projects under the Japanese Economic and Social Development Program:
+
+• Response and management enhancement project for oil spills of Sri Lanka Coastal Defense Force
+
+...
+
+[Data](articles/4b0a6938.json)
+
+---
+
+### NPP support surge linked to opposition weakness
+
+*2024-03-12 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-support-surge-linked-to-opposition-weakness/108-278719) · `en`
+
+Colombo, March 12 (Daily Mirror) - The surge in the support for the National People's Power (NPP) led by Anura Kumara Dissanayaka can be attributed to the weakness of the Opposition, Tourism Minister Harin Fernando said.
+
+The primary opposition should be prepared to assume governance. However, this opposition prepared prematurely.
+
+Therefore, the emergence of a third party became prominent as uncertainty loomed over the effectiveness of the opposition.
+
+As a result, the main opposition's only course of action may be to collaborate with the ruling party. If they choose not to unite without careful consideration, several key leaders from the main opposition may opt to join the government.
+
+However, the selection of the common opposition or the President will be made by the Members of Parliament based on their personal opinions, but there is no relevance to being in the Sri Lanka Podujana Peramuna (SLPP) or any other political party.
+
+...
+
+[Data](articles/aeaf45ac.json)
+
+---
 
 ### Main suspect in Buddhist monk’s killing was an ex-commando turned hitman - Police
 
@@ -45,6 +83,8 @@ Police said all suspects implicated in the murder were previously arrested excep
 ...
 
 [Data](articles/e7a59849.json)
+
+[Extended Data](ext_articles/e7a59849.ext.json)
 
 ---
 
@@ -361,6 +401,22 @@ The Port City Colombo today marked a significant milestone with the ground-break
 [Data](articles/21d89cff.json)
 
 [Extended Data](ext_articles/21d89cff.ext.json)
+
+---
+
+### Sri Lanka looks for $11.26 bln investment to achieve renewable energy targets – CEB GM
+
+*2024-03-12 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-for-11-26-bln-investment-to-achieve-renewable-energy-targets-ceb-gm-154427/) · `en`
+
+ECONOMYNEXT – Sri Lanka is looking for $11.26 billion in investment to meet its renewable energy targets in eight years through 2030 including building storage capacity, Narendra De Silva, the Acting General Manager at the state-run Ceylon Electricity Board, said.
+
+De Silva, addressing a forum to explain Sri Lanka’s renewable energy requirements for potential Indian partners said the island nation is likely to see solar power as a key source in the energy mix by 2026.
+
+“By 2026, the day peak is going to exceed the night peak. So from 2026 onwards,, solar is going to be a very predominant and most acceptable energy source for the Sri Lankan households,” De Silva told key Indian officials who are involved with renewable energy production in India at the forum jointly organized by the High Commission of India, Colombo in collaboration with Ceylon Chamber of Commerce and Confederation of Indian Industry.
+
+...
+
+[Data](articles/06a08bf2.json)
 
 ---
 
@@ -969,6 +1025,26 @@ Accordingly, the government has decided to suspend a gazette notification issued
 [Data](articles/8d0fdf48.json)
 
 [Extended Data](ext_articles/8d0fdf48.ext.json)
+
+---
+
+### KPMG values Sri Lanka’s Expolanka share
+
+*2024-03-12 18:02:00* · [`economynextcom`](https://economynext.com/kpmg-values-sri-lankas-expolanka-share-154405/) · `en`
+
+ECONOMYNEXT – A valuation report by KPMG on Expolanka Holdings Plc has suggested the value of a share between 136.9 rupees and 152.6 rupees.
+
+“The per share value ranges for Expo from LKR 126.2 (SOTP) LKR 152.6 (VWAP),” KPMG said in its valuation report.
+
+“We suggest a value between LKR 136.9 (SOTP) to LKR 152.6 (VWAP) for a potential transaction, excluding any premium or discount, considering that this range would better reflect the potential future performance of the business.”
+
+KPMG said a combination of valuation methodologies namely, Discounted Cash Flow Methodology (“DCF”) and Net Asset Value methodology (“NAV”) and Volume Weighted Average Price (“VWAP”) were considered in arriving at the equity value range for EXPO.
+
+The equity value range and value per share for EXPO as of the valuation date, was arrived at under a Sum-of-the-Parts (“SOTP”) basis, the audit firm said.
+
+...
+
+[Data](articles/18e98cd1.json)
 
 ---
 
@@ -2205,99 +2281,5 @@ Sri Lanka Banks Association on Monday warned that making it more difficult to re
 [Data](articles/b377b785.json)
 
 [Extended Data](ext_articles/b377b785.ext.json)
-
----
-
-### 21 murders in 72 days
-
-*2024-03-12 14:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/72-நாட்களில்-21-கொலைகள்/175-334559) · `ta`
-
-From January 1 to March 12, 2024, 30 shootings reported, 21 murders, 14 injuries, 17 by organized gangs, 13 for personal reasons.
-
-🟩
-
-From January 1 to March 12, 2024, 30 shootings have been reported in various parts of the country, police said.
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said 21 people were killed and 14 were injured.
-
-He also noted that 17 incidents of 30 shootings were carried out by organized criminal gangs.
-
-In addition, the police media spokesman pointed out that 13 other shootings were carried out for personal reasons.
-
-◼️
-
-[Data](articles/7cedf05a.json)
-
-[Extended Data](ext_articles/7cedf05a.ext.json)
-
----
-
-### Machchar arrested for robbing sister's arms
-
-*2024-03-12 14:15:42* · [`adalk`](https://www.ada.lk/breaking_news/කතකගේ-දෑත්-දෙපා-ගැට-ගසා-රන්-භාණ්ඩ-කොල්ලකෑ-මෙහෙකාරිය-අත්අඩංගුවට/11-408560) · `si`
-
-Machchar, a 65-year-old from Kamburupitiya, was arrested for robbing his sister's arms. He was found in Gampaha, not at home. The police are investigating stolen gold items.
-
-🟩
-
-The maid of the Panadura, the grandmother's hands were tied with bands worth Rs.
-
-The suspect was a 65 year old resident of the Kamburupitiya area in Matara.
-
-A businessman resident of Buckagama, Panadura, an officer who was arrested was a raid of the suspect.
-
-The police said that Swami daughter and her husband had not at home, police said.
-
-Accordingly, he said he was arrested while he was arrested while engaging in another house in Gampaha on the information he was in the Gampaha area.
-
-The suspect is conducting investigations into the stolen gold items and find them in the next few days.
-
-◼️
-
-[Data](articles/1df61ca9.json)
-
-[Extended Data](ext_articles/1df61ca9.ext.json)
-
----
-
-### Pakistani, Thailand relies renewed
-
-*2024-03-12 14:08:00* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්ථාන--තායිලන්ත-සබඳතා-අළුත්වෙයි/11-408559) · `si`
-
-Thailand's new Ambassador to Sri Lanka, Paitoon Mahapanapaton, and Pakistan's High Commissioner to Sri Lanka, Retired Major General Farhim Ul Asses, presented their credentials to President Ranil Wickremesinghe today.
-
-🟩
-
-A new Ambassador and a High Commissioner to Sri Lanka held his credentials to President Ranil Wickremesinghe at the President's House this morning.
-
-Paitoon Mahapanapaton, who became the new Ambassador of Thailand, (H. E. Paitoon Mahapannocharn) Retired Major General Farhim Ul Asses, who has been appointed as the new High Commissioner of the Pakistan Islamic Republic. H.E. Major General (R) Fahem UL Aziz, Hi (m), handed over credentials to the President.
-
-◼️
-
-[Data](articles/02fa3b41.json)
-
-[Extended Data](ext_articles/02fa3b41.ext.json)
-
----
-
-### People should come forward to choose a corrupt politician - March -12 Movement
-
-*2024-03-12 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178525) · `ta`
-
-The March 12 Movement urges citizens to elect a corrupt politician by following 8 issues. A press conference in Ampara highlighted the organization's goal to raise awareness on political eligibility. The movement aims to create better politicians and pure politics, addressing Sri Lanka's political landscape.
-
-🟩
-
-The Ampara District Committee of the March 12 organization said that the people should come forward to follow the 8 issues of the March -12 movement to elect a corrupt politician.
-
-A special press conference of the Ampara District Committee of the Ampara District Committee was held at its office in Kalmunai Senaikkudiyiruppu today.
-
-We are holding the conference of the March 12, 2015 to clarify the operation of the organization for the public. That is, we have carried out this action to raise awareness of what politicians should be elected in the parliamentary elections. The massive program of March 12 is scheduled to be held in Colombo on March 28. We are organizing such press conferences in the districts.
-
-...
-
-[Data](articles/a526c0a4.json)
-
-[Extended Data](ext_articles/a526c0a4.ext.json)
 
 ---

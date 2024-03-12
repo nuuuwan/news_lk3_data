@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 20:33:31**
+As of **2024-03-12 20:50:32**
 
 ## Newspaper Stats
 
-*Scraped **12,470** Articles*
+*Scraped **12,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 641
 economynextcom | 664
 islandlk | 677
 adalk | 1,068
-adaderanalk | 1,502
+adaderanalk | 1,504
 tamilmirrorlk | 1,514
 virakesarilk | 1,726
 dailymirrorlk | 1,899
@@ -26,11 +26,51 @@ adaderanasinhalalk | 1,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,469 (100.0%) of 12,470 articles have been extended.
+12,470 (100.0%) of 12,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Shooting incident reported in Mattakkuliya
+
+*2024-03-12 20:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97904/shooting-incident-reported-in-mattakkuliya) · `en`
+
+A shooting has taken place in Mattakkuliya this evening (March 12), the police said, adding that no casualties were reported in the incident.
+
+Two unidentified individuals who had arrived on a motorcycle had opened fire in Aliwatta area of Mattakkuliya.
+
+This new development comes a day after four people were killed and six were injured in two incidents of gun violence in Galle District on Monday (March 11).
+
+Incidentally, these 2 shootings too were carried out by assailants riding motorcycles.
+
+One incident was reported in Galagoda, Ambalangoda while the other was in Pitigala, Elpitiya.
+
+◼️
+
+[Data](articles/493869f1.json)
+
+---
+
+### Confusion, errors marred police communications after Sri Lankan family’s killing
+
+*2024-03-12 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97903/confusion-errors-marred-police-communications-after-sri-lankan-familys-killing) · `en`
+
+Ottawa police admit they made mistakes last week when communicating key information about the city’s worst mass killing in recent history.
+
+Six people, including a mother, her four young children and a family acquaintance, were found dead inside a townhouse in the south Ottawa suburb of Barrhaven on March 6. The woman’s husband and father of the children remains in hospital.
+
+A 19-year-old man who was living with the family is in custody facing six counts of first-degree murder and one count of attempted murder.
+
+According to police, they began receiving calls at 10:52 p.m. Wednesday and responded minutes later. In court, prosecutors said the accused was in custody around 11 p.m.
+
+The day after the tragedy, the Ottawa Police Service (OPS) called the killings a “mass shooting” when no guns were involved, repeatedly misspelled the victims’ names and misidentified the accused.
+
+...
+
+[Data](articles/03767583.json)
+
+---
 
 ### The only way for the people's upheaval!- Whelan Swamis
 
@@ -358,19 +398,25 @@ He told a news conference of the NPP Economic Council that the IMF team has soug
 
 ---
 
-### සිකුරාදා වන විට කිරිපිටි කිලෝවක් රු. 150කින් අඩුවෙයි
+### A kilo of milk powder costs at a cost of Rs. Lacks by 150
 
 *2024-03-12 18:13:11* · [`adalk`](https://www.ada.lk/breaking_news/සිකුරාදා-වන-විට-කිරිපිටි-කිලෝවක්-රු--150කින්-අඩුවෙයි/11-408572) · `si`
 
-එළඹෙන 15 වැනි සිකුරාදා වන විට කිරිපිටි කිලෝග්‍රෑම් එකක මිල රුපියල් 150න් අඩුවනු ඇති බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පැවසීය.
+The Minister announced a Rs. 150 reduction in the price of a kilogram of milk powder for the Ramazan and Sinhala-Tamil New Year festivals, during a media briefing.
 
-රාමසාන් උත්සවය හා සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමය වෙනුවෙන් මෙම පියවර ගත් බව අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ඒ අනුව කිරිපිටි මිල අඩු කිරීම සදහා කිරිපිටි ආනයනකරුවන් සමග  අමාත්‍යවරයාසාකච්ඡාවක් සිදු කර ඇති අතර, එහිදී මෙලෙස රුපියල් 150න් කිරිපිටි කිලෝග්‍රෑම් එකක මිල අඩු කිරීමට එකඟත්වය පළ කළ බව අද (12දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+A kilogram of milk powder will be reduced by Rs.
+
+The Minister said that this was taken for the Ramazan Festival and the Sinhala and Tamil New Year festival season.
+
+He was speaking to a media briefing held at a kilogram of milk powder to reduce the price of milk powder.
 
 ◼️
 
 [Data](articles/2a9d9551.json)
+
+[Extended Data](ext_articles/2a9d9551.ext.json)
 
 ---
 
@@ -2267,43 +2313,5 @@ Minister of Trade Nalin Fernando says that the price of a kilo of milk powder is
 [Data](articles/e80cc9e5.json)
 
 [Extended Data](ext_articles/e80cc9e5.ext.json)
-
----
-
-### Thailand and Pakistan Ambassadors hand over the president's credentials
-
-*2024-03-12 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178513) · `ta`
-
-Thailand and Pakistan ambassadors present credentials to Sri Lanka's President Ranil Wickremesinghe.
-
-🟩
-
-Those who have been appointed as the new ambassadors of Sri Lanka in Thailand and Pakistan have handed over their credentials to the President.
-
-Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka in Thailand (h). A.. Major General (H.E.. Major General (R) Faheem Ul Aziz, Hi (M)) has handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo.
-
-◼️
-
-[Data](articles/0d9e3a65.json)
-
-[Extended Data](ext_articles/0d9e3a65.ext.json)
-
----
-
-### Newcomers to SJB can be controlled through political tactics: Marikar
-
-*2024-03-12 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Newcomers-to-SJB-can-be-controlled-through-political-tactics-Marikar/108-278700) · `en`
-
-Colombo, March 12 (Daily Mirror) - In response to why the Samagi Jana Balwegaya (SJB) is depending on newcomers while neglecting its own members, its spokesman and Member of Parliament S.M. Marikar said the newcomers can be dealt with political tactics.
-
-The MP was responding to a question raised by journalists at a media briefing as to why the party is depending on MPs such as Nalaka Godahewa when deciding on economic affairs.
-
-Marikar responded to this question by recalling how President Ranasinghe Premadasa dealt with late SLMC leader A.H.M. Asroff in 1989. Asraff wanted President Premadasa not to give nominations to three UNP Muslim members in the East if he was to support the UNP in 1989. President Premadasa did not give the three UNPers nominations but appointed them to Parliament though the national list. He made one MP a member of the Cabinet and two others as State Ministers,” Marikar recalled.
-
-...
-
-[Data](articles/4bc43e83.json)
-
-[Extended Data](ext_articles/4bc43e83.ext.json)
 
 ---

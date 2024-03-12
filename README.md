@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 18:51:07**
+As of **2024-03-12 19:03:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,965
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,453 (100.0%) of 12,454 articles have been extended.
+12,454 (100.0%) of 12,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Their letters of appointment were handed over by the President's Secretary Saman
 ◼️
 
 [Data](articles/71aa178d.json)
+
+[Extended Data](ext_articles/71aa178d.ext.json)
 
 ---
 

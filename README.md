@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 08:18:00**
+As of **2024-03-12 08:33:26**
 
 ## Newspaper Stats
 
-*Scraped **12,291** Articles*
+*Scraped **12,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 642
 islandlk | 676
 adalk | 1,046
 adaderanalk | 1,484
-tamilmirrorlk | 1,494
+tamilmirrorlk | 1,497
 virakesarilk | 1,687
-dailymirrorlk | 1,872
-adaderanasinhalalk | 1,940
+dailymirrorlk | 1,874
+adaderanasinhalalk | 1,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,289 (100.0%) of 12,291 articles have been extended.
+12,291 (99.9%) of 12,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### රෝහල් ඉදිරිපිට අද උද්ඝෝෂණ
+
+*2024-03-12 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194407) · `si`
+
+වැටුප් වැඩි කිරීම ප්‍රමාද වීම සහ තමන්ගේ කටයුතුවලට බාධා කරන සෞඛ්‍ය පරිපාලකයන්ට එරෙහිව පියවර නොගැනීම සම්බන්ධයෙන් සෞඛ්‍ය කාර්ය මණ්ඩලය විරෝධතාවක් සංවිධානය කර තිබේ.
+
+ඒ අනුව දිවයින පුරා තෝරාගත් රෝහල් ඉදිරිපිට අද (12) දහවල් 12 සිට උද්ඝෝෂණයේ නිරත වන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/069406b3.json)
+
+---
+
+### අලි වැට සංරක්ෂණයට නිලධාරීන් 4,500ක් වනජීවියට
+
+*2024-03-12 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194405) · `si`
+
+‍අලිවැට සංරක්ෂණය සඳහා බහුකාර්ය සංවර්ධන නිලධාරීන් 4,500ක් වනජීවි අමාත්‍යාංශයට අනුයුක්ත කර ගැනීමට මුදල් අමාත්‍යාංශයේ අනුමැතිය හිමි ව තිබේ.
+
+◼️
+
+[Data](articles/b2ee7ffa.json)
+
+---
+
+### අලි වැට සංරක්ෂණයට නිලධාරීන් 4,500ක් වනජීවියට
+
+*2024-03-12 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194406) · `si`
+
+‍අලිවැට සංරක්ෂණය සඳහා බහුකාර්ය සංවර්ධන නිලධාරීන් 4,500ක් වනජීවි අමාත්‍යාංශයට අනුයුක්ත කර ගැනීමට මුදල් අමාත්‍යාංශයේ අනුමැතිය හිමි ව තිබේ.
+
+වනජීවී හා වන සම්පත් සංරක්ෂණ සහ වාරිමාර්ග අමාත්‍ය පවිත්‍රාදේවී වන්නිආරච්චි මහත්මිය ප්‍රකාශ කළේ, ඔවුන් දෙපාර්තමේන්තු සේවකයින් බවට පත්කිරීමෙන් අනතුරුව ‍අලිවැට සංරක්ෂණය සඳහා කාර්‍යක්ෂම සේවාවක් ලබාගත හැකි බවය.
+
+ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් පවිත්‍රා වන්නිආරච්චි මහත්මිය මේ බව සඳහන් කළාය.
+
+"හැබැයි එම පිරිස ලබාගන්නේ දැනටත් අලි වැටේ කටයුතු කරන බහුකාර්ය සංවර්ධන නිලධාරීන් තමා යොදා ගන්නේ. අලුතින් සේවකයින් බඳවා ගැනීමක් සිදුවන්නේ නෑ. බහුකාර්ය දෙපාර්තමේන්තු සේවකයින් වනජීවි දෙපාර්තමේන්තුවට අනුයුක්ත කරගැනීම සහ සම්පුර්ණ බඳවා ගැනීමක් සිදුකරනවා."
+
+◼️
+
+[Data](articles/d72c7a15.json)
+
+---
 
 ### Showers expected in several districts
 
@@ -48,25 +92,51 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa and Uva
 
 [Data](articles/0e36b0eb.json)
 
+[Extended Data](ext_articles/0e36b0eb.ext.json)
+
 ---
 
-### මන්ත්‍රී නිවසට කඩා වැදුනු ලොරිය
+### The prejection of the MP's house broke into the house
 
 *2024-03-12 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194404) · `si`
 
-රියැදුරෙකු නොමැතිව ධාවනය වු ලොරි රථයක් පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ මහතාගේ නිවසට කඩා වැදී තිබේ.
+An unmanned lorry crashed into MP Gamini Walaruboda's house around 8.00 pm, damaging it. The MP was not present at the time.
 
-ඒ හේතුවෙන් මන්ත්‍රීවරයාගේ නිවසට හානි සිදු වී ඇති බව "අද දෙරණ" වාර්තාකරු පැවසීය.
+🟩
 
-ඊයේ (11) රාත්‍රි 8.00ට පමණ රියැදුරෙකු නොමැතිව ධාවනය වු ලොරි රථයක් මන්ත්‍රීවරයාගේ නිවසට කඩා වැදී ඇත.
+A lorry, which was traveling without a driver, has collapsed to the house of MP Gamini Walaruboda.
 
-එම අනතුර සිදුවන අවස්ථාවේ මන්ත්‍රීවරයා නිවසේ නොසිටි අතර ඊට විනාඩි කිහිපයකට පෙර රාජකාරී කටයුත්තට කොළඹ බලා පිටව ගොස් තිබේ.
+As a result, the MP's house was damaged, "Ada Derana reporter said.
 
-මෙම ලොරි රථය එම නිවසට ඉහළින් ඇති මාර්ගයේ නතර කර තිබියදී එක වරම පහළට ධාවනය වී තිබේ.
+A lorry, which was traveling without a driver at around 8.00 pm yesterday, was collapsed.
+
+The MP was not home at the time of the accident and left for Colombo for a few minutes ago.
+
+The lorry has been running down and the time, while the lorry was stopped at the top of the house.
 
 ◼️
 
 [Data](articles/7e17d5fd.json)
+
+[Extended Data](ext_articles/7e17d5fd.ext.json)
+
+---
+
+### Sri Lanka rejects global report on child malnutrition
+
+*2024-03-12 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-rejects-global-report-on-child-malnutrition/108-278640) · `en`
+
+Colombo, March 11 (Daily Mirror) - In response to recent findings published in the British medical journal, The Lancet, concerning child malnutrition and underweight girls, Sri Lanka's health authorities have rejected the content referred to the portrayal of Sri Lanka.
+
+According to the study, approximately 410,000 girls in Sri Lanka are categorized as underweight, representing a prevalence of 16.4%. Despite efforts and initiatives aimed at improving nutrition and healthcare access, the report claims no detectable change in this distressing statistic since 1990.
+
+The Lancet publication, which covers data from 1990 to 2022 and was released on February 29, also ranked Sri Lanka second globally, trailing only behind India, for the highest prevalence of dangerously underweight girls aged 5 to 19 years.
+
+The analysis estimates that nearly 880 million adults and 159 million children lived with obesity in 2022.
+
+...
+
+[Data](articles/92b59a4f.json)
 
 ---
 
@@ -89,6 +159,40 @@ Minister of Church was held at the Matale Buddhist House, that public workers, s
 [Data](articles/9884d685.json)
 
 [Extended Data](ext_articles/9884d685.ext.json)
+
+---
+
+### பிரதான ரயில் சேவைகளில் பாதிப்பு
+
+*2024-03-12 07:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-ரயில்-சேவைகளில்-பாதிப்பு/175-334541) · `ta`
+
+காரியாலய ரயில் ஒன்று அம்மேபுஸ்ஸவில் இயந்திர கோளாறு காரணமாக நிறுத்தப்பட்டமையால் காரியாலய ரயில் சேவைகள் பல தாமதமடைந்துள்ளன
+
+◼️
+
+[Data](articles/32cfdce1.json)
+
+---
+
+### Showers likely in Ampara, Batticaloa, Hambantota districts during morning
+
+*2024-03-12 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-likely-in-Ampara-Batticaloa-Hambantota-districts-during-morning/108-278682) · `en`
+
+Colombo, March 12 (Daily Mirror) - Showers will occur at a few places in the Colombo, Kalutara, Ratnapura, Galle and Matara districts in the evening or night, the forecasting division of the National Meteorological Centre said.
+
+They said a few showers are likely in the Ampara, Batticaloa and Hambantota districts during the morning. Mainly dry weather will prevail in the other areas of the island.
+
+Misty conditions can be expected at some places in the Western, Sabaragamuwa and Uva Provinces and in the Galle and Matara districts during the morning.
+
+Meanwhile, showers may occur at a few places in the sea areas extending from Hambantota to Batticaloa via Pottuvil, the Centre said.
+
+Winds will be north-easterly in direction and the speed will be 30 kmph. Wind speed may increase up to 45 kmph at times in the sea areas off the coasts, extending
+
+from Colombo to Kankesanthurai via Puttalam and Mannar, and from Matara to Pottuvil via Hambantota.
+
+...
+
+[Data](articles/4df5d6f9.json)
 
 ---
 
@@ -204,6 +308,22 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 
 ---
 
+### வெஸ்ட்மினிஸ்டர் பணிப்பாளர் - சபாநாயகர் சந்திப்பு
+
+*2024-03-12 04:32:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெஸ்ட்மினிஸ்டர்-பணிப்பாளர்-சபாநாயகர்-சந்திப்பு/175-334539) · `ta`
+
+ஜனநாயகத்துக்கான வெஸ்ட்மினிஸ்டர் மன்றத்தின் ஆசியா, பசிபிக் மற்றும் அமெரிக்கா பிராந்திய பணிப்பாளர் மதிவ் ஹெட்ஜஸ், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவை பாராளுமன்றத்தில் சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இதன்போது பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர மற்றும் ஜனநாயகத்துக்கான வெஸ்ட்மினிஸ்டர் மன்றத்தின் இலங்கை பணிப்பாளர் சஞ்சே விக்னராஜா ஆகியோரும் கலந்துகொண்டனர்.
+
+இலங்கை பாராளுமன்றத்துடன் நெருக்கமாக பணியாற்றும் ஜனநாயகத்துக்கான வெஸ்ட்மினிஸ்டர் மன்றத்தினால் பாராளுமன்றத்திலுள்ள அரசாங்க நிதி பற்றிய குழு, அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழு, அரசாங்கக் கணக்குகள் பற்றிய குழு உள்ளிட்ட குழுக்களின் செயற்பாடுகளுக்கு வழங்கும் ஒத்துழைப்பை சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன இதன்போது பாராட்டினார். (a)
+
+◼️
+
+[Data](articles/92c99325.json)
+
+---
+
 ### Ramadan fasting is just beginning today
 
 *2024-03-12 04:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரமழான்-நோன்பு-இன்று-ஆரம்பம்/175-334538) · `ta`
@@ -223,6 +343,22 @@ The Ramadan fasting will begin today, with the source of information available i
 [Data](articles/05e3bd1d.json)
 
 [Extended Data](ext_articles/05e3bd1d.ext.json)
+
+---
+
+### ’ஜுன் மாதம் முதல் அஸ்வெசும இரண்டாம் கட்டம்’
+
+*2024-03-12 04:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜுன்-மாதம்-முதல்-அஸ்வெசும-இரண்டாம்-கட்டம்/175-334537) · `ta`
+
+அஸ்வெசும நலன்புரி திட்டத்தின்கீழ் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கான இரண்டாம் கட்டத்துக்கான கொடுப்பனவுகள் எதிர்வரும் ஜுன் மாதம் முதல் வழங்கப்படும் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்துள்ளார்
+
+அஸ்வெசும நலன்புரி கொடுப்பனவுக்கான இரண்டாம் கட்டத்துக்கான விண்ணப்பங்களை சமர்ப்பிக்கும் காலஅவகாசம் இந்த மாதம் 15 ஆம் திகதியுடன் நிறைவடையவுள்ளது
+
+இரண்டாவது கட்டத்தின் கீழ் அந்த எண்ணிக்கையை 2.4 மில்லியனாக அதிகரிக்க எதிர்பார்க்கப்படுகிறது என்றும் அமைச்சர் செஹான் சேமசிங்க தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/b7e8d022.json)
 
 ---
 
@@ -2001,203 +2137,5 @@ The Governor of the Central Bank argues better than the wall children who have o
 [Data](articles/6535bc2c.json)
 
 [Extended Data](ext_articles/6535bc2c.ext.json)
-
----
-
-### A shooting of a temple
-
-*2024-03-11 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194389) · `si`
-
-A temple in Mahiyanganaya was attacked last night, with the Chief Incumbent among those shot. The incident is under investigation by Dehiattakandiya Criminal Investigations Officers.
-
-🟩
-
-A temple in Mahiyanganaya has been shot dead last night.
-
-The Chief Incumbent of the Ven.
-
-The Chief Incumbent The monks participated in a campfather last night and back to work again and have been shot.
-
-At about 12.30 pm, a group of people were shot at the influence of the booth, and the chief of the chiefs have been harmed.
-
-The site test on the incident has commenced investigations into the suspects in the event of Dehiattakandiya Criminal Investigations Officers.
-
-◼️
-
-[Data](articles/5f9b47de.json)
-
-[Extended Data](ext_articles/5f9b47de.ext.json)
-
----
-
-### Sri Lanka SMEs enabled to mortgage movable assets with registry
-
-*2024-03-11 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-smes-enabled-to-mortgage-movable-assets-with-registry-154142/) · `en`
-
-ECONMYNEXT – A secured transaction registry set up with technical assistance from the International Finance Corporation, will help small and medium enterprises expand access to credit by helping them mortgage moveable assets, the Washington-based agency said.
-
-The STR is supported by Sri Lanka’s Credit Information Bureau and the central bank, the IFC said.
-
-“An effective credit infrastructure is key to strengthening Sri Lanka’s financial sector,” said Alejandro Alvarez de la Campa, IFC Country Manager for Sri Lanka and Maldives said in the statement. “The new law, … incorporated several rounds of consultations and expert input, thus ensuring that small businesses and entrepreneurs with few fixed assets can obtain the financing they need to thrive.”
-
-...
-
-[Data](articles/fc7e1f4b.json)
-
-[Extended Data](ext_articles/fc7e1f4b.ext.json)
-
----
-
-### Temperature goes at risk
-
-*2024-03-11 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194388) · `si`
-
-The Department of Meteorology warns of high temperatures in Western, North Western, Southern, and Sabaragamuwa provinces, advising workplaces to ensure adequate water and shade, and cautioning against leaving adults and the sick alone in vehicles.
-
-🟩
-
-The Department of Meteorology announces that the temperature of several parts of the island will continue to focus on a level of focus.
-
-The department refers to the Western, North Western, Southern and Sabaragamuwa provinces and in the North Western and Sabaragamuwa provinces.
-
-The announcement issued by 4.00 pm today (11) will be valid until tomorrow (12).
-
-Meanwhile, the Department of Meteorology requests the people in the workplaces to drink adequate water and rest in the shade.
-
-The department demands concern to adult and sick people in the homes and not to be held alone in the vehicles.
-
-The Department of Meteorology also requests that the people in the outdoors are to be limited to the shade.
-
-◼️
-
-[Data](articles/e9321830.json)
-
-[Extended Data](ext_articles/e9321830.ext.json)
-
----
-
-### 16-year-old boy dies while taking part in school marathon
-
-*2024-03-11 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97874/16-year-old-boy-dies-while-taking-part-in-school-marathon) · `en`
-
-A 16-year-old schoolboy has reportedly died in Ampara after collapsing while participating in a marathon race held at the Thirukkovil Methodist Central College.
-
-The marathon, held as part of the inter-house sports meet, took place this morning (11 March) at the school premises.
-
-The student, identified as Vidurshan, had reportedly collapsed during the event and was rushed to Tirukkovil Hospital for treatment, following which he was taken to the Akkaraipattu Hospital for further treatment, where he was later pronounced dead.
-
-Ada Derana’s reporter stated that tensions had escalated at the Tirukkovil Hospital as parents and fellow students voices protest, alleging inadequate treatment for the ailing student. The situation had later turned violent, with individuals pelting stones at the hospital.
-
-Police, including members of the Special Task Force (STF), subsequently intervened to diffuse the situation.
-
-...
-
-[Data](articles/d27acd69.json)
-
-[Extended Data](ext_articles/d27acd69.ext.json)
-
----
-
-### Sri Lanka rupee closes at 306.95/307.10 to the US dollar
-
-*2024-03-11 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-306-95-307-10-to-the-us-dollar-154120/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 306.95/307.10 to the US dollar in the spot forex market on Monday, stronger from 307.30/40 on Thursday, dealers said, while bond yields were broadly steady.
-
-The rupee had opened at 307.00/20 levels to the US dollar, market participants said.
-
-A bond maturing on 01.08.2026 closed at 11.00/10 percent up from 10.90/11.10 percent in the morning.
-
-A bond maturing on 15.09.2027 closed stable at 12.00/10 percent.
-
-A bond maturing on 01.07.2028 closed up at 12.20/35 from 12.20/40 percent Thursday.
-
-A bond maturing on 15.07.2029 closed up at 12.35/70 percent from 12.25/70 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.35/70 percent.
-
-A bond maturing on 01.07.2032 closed at 12.60/90 percent from 12.60/13.00 percent. (Colombo/Mar11/2024)
-
-◼️
-
-[Data](articles/44a71887.json)
-
-[Extended Data](ext_articles/44a71887.ext.json)
-
----
-
-### Missed opportunity for Sri Lanka opposition to raise concerns with IMF: govt
-
-*2024-03-11 17:01:00* · [`economynextcom`](https://economynext.com/missed-opportunity-for-sri-lanka-opposition-to-raise-concerns-with-imf-govt-154122/) · `en`
-
-ECONOMYNEXT — The opposition could’ve shared their concerns with the International Monetary Fund (IMF) and openly proposed any alternatives if they had attended the government’s latest round of talks with the international lender, State Minister of Finance Ranjith Siyambalapitiya said.
-
-“I’m very surprised. It was for a very important economic discussion that the president invited. He asked party leaders to come and bring whoever they like, which meant that the leaders’ economic advisors could’ve also come,” Siyambalapitiya said speaking to reporters outside the Presidential Secretariat on Monday March 11.
-
-“They could’ve shared their concerns with the whole gathering and said ‘not this tax, have this instead’, or anything at all,” he added.
-
-According to reports, most opposition parties including the Samgi Jana Balawegaya (SJB), the leftist National People’s Power (NPP) and the Sri Lanka Muslim Congress (SLMC) boycotted the meeting.
-
-...
-
-[Data](articles/6f9de8c1.json)
-
-[Extended Data](ext_articles/6f9de8c1.ext.json)
-
----
-
-### Paided Palestinians on the shadows of death
-
-*2024-03-11 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194387) · `si`
-
-The Gaza war is a significant religious event, with the al-Awesa Church in Jerusalem protecting its old city during Ramadan. The conflict, triggered by the Nicelamet of Jerusalem, has resulted in the death of 31,000 Palestinians and Israeli attacks, causing famine in Gaza. Palestinian leaders in Jerusalem have criticized the lack of respect for Palestinian lives during Israeli attacks. Efforts to establish a ceasefire before Ramadan were uncertain, with no coordinator reserved for the next Cairo meeting. About 2.3 million Palestinians in Gaza now live in temporary tents, as their buildings are almost entirely destroyed.
-
-🟩
-
-International news services, International News Service reports that the Gaza's war is the greatest religious ceremony of the Palestine of the Palestine of the Palestine in the War of War.
-
-They point out that they are deeply resorting to Ramazan.
-
-The al-Awesa Church of the Al-Awaruswala has deployed thousands of policemen to protect the old city of Jerusalem church in the al-Awesa Church.
-
-Thousands of Muslim devotees will come here daily during the Ramazan period.
-
-The area known as 'Temple Mount' sets the Jews as their highest sacred ground.
-
-As a result, the Al-Akza Church has been a place between Israel and Palestinians.
-
-The war between Israel and Hamas, the war between Israel and Hamas, began with a confrontation caused by the Nicelamet of Jerusalele.
-
-Palestinians of Gaza is the death of the Ramadan season this time, killing 31,000 Palestinians over 31,000 Israeli attacks and spreading famine over Gaza.
-
-...
-
-[Data](articles/6300e9a4.json)
-
-[Extended Data](ext_articles/6300e9a4.ext.json)
-
----
-
-### Solar Power Station opened at Batticaloa
-
-*2024-03-11 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/178452) · `ta`
-
-A new 20 MW solar power station in Batticaloa, opened by Minister Kanjana Vijayasekera, aims to address last year's fuel shortage and power cuts.
-
-🟩
-
-Solar Power Station has been opened by the Minister of Electricity and Power and Energy. The event was held on Monday with the participation of Rural Roads Minister of State and Chairman of the Batticaloa District Development Committee, Shivadiyadurai Chandrakanthan.
-
-Minister Kanjana Wijesekera and Minister Chandrakanthan have received Rs.
-
-The government is introducing a number of alternative power generation projects in view of the fuel shortage that the country faced last year and the 15 to 20 hours of power cuts and the lack of the country's production.
-
-Accordingly, the recently opened solar power plant with 20 MW of electricity in the Navakkadu Village, Manmunai West Vavunathivu Divisional Secretariat Division, was opened by Minister Kanjana Vijayasekera in the village of Navakkadu.
-
-◼️
-
-[Data](articles/3337cb7b.json)
-
-[Extended Data](ext_articles/3337cb7b.ext.json)
 
 ---

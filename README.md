@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 11:02:45**
+As of **2024-03-12 11:17:33**
 
 ## Newspaper Stats
 
-*Scraped **12,330** Articles*
+*Scraped **12,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,91 +16,181 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 677
 adalk | 1,050
-adaderanalk | 1,488
+adaderanalk | 1,489
 tamilmirrorlk | 1,503
-virakesarilk | 1,694
+virakesarilk | 1,695
 dailymirrorlk | 1,880
-adaderanasinhalalk | 1,946
+adaderanasinhalalk | 1,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,325 (100.0%) of 12,330 articles have been extended.
+12,330 (100.0%) of 12,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### முன்னேற்றம் இல்லையென்றால் 6000 ஊழியர்களின் தொழில் சிக்கலாகும்
+### Haiti’s unelected Prime Minister Ariel Henry resigns
+
+*2024-03-12 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97889/haitis-unelected-prime-minister-ariel-henry-resigns) · `en`
+
+Haiti’s Prime Minister Ariel Henry has agreed to resign, the chair of the Caribbean group of countries has said, following weeks of mounting pressure and increasing violence in the country.
+
+It comes after regional leaders met in Jamaica on Monday to discuss a political transition in Haiti.
+
+Mr Henry is currently stranded in Puerto Rico after being prevented by armed gangs from returning home.
+
+He had led the country since the former president’s assassination in July 2021.
+
+Speaking following the meeting in Kingston, Caribbean community chair and Guyana President Irfaan Ali said: “We acknowledge his resignation upon the establishment of a transitional presidential council and naming of an interim prime minister.”
+
+Heavily armed gangs have controlled the streets of the Haitian capital of Port-au-Prince in recent days, demanding the resignation of the unelected prime minister.
+
+Port-au-Prince and the surrounding region is under a month-long state of emergency, while a curfew has been extended.
+
+...
+
+[Data](articles/0a70c78d.json)
+
+---
+
+### හයිටි අගමැති ඉල්ලා අස්වෙයි
+
+*2024-03-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194411) · `si`
+
+හයිටි අග්‍රාමාත්‍ය ඒරියල් හෙන්රි සිය තනතුරෙන් අස්වීමට එකඟ වූ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+හෙන්රි මේ වනවිට පෝට රිකෝ හි සිටින අතර ඔහුට නැවත පැමිණීමට ඉඩ නොදෙන බව සන්නද්ධ කණ්ඩායම් පවසයි.
+
+එරට ජනාධිපතිවරයාව කුලී හේවායින් පිරිසක් විසින් ඝාතනය කිරීමෙන් අනතුරුව 2021 ජූලි මස  හෙන්රි එරට අගමැතිවරයා ලෙස කටයුතු කළේය.
+
+◼️
+
+[Data](articles/346f7dad.json)
+
+---
+
+### ஹெய்ட்டியின் தலைநகர் வன்முறை கும்பலின் பிடியில்  - இராஜினாமாவை அறிவித்தார் சர்ச்சைக்குரிய பிரதமர்
+
+*2024-03-12 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178500) · `ta`
+
+2021 இல் ஹெய்ட்டியின் ஜனாதிபதி படுகொலைசெய்யப்பட்ட பின்னர் ஆட்சிக்கு வந்த தற்போதைய பிரதமர் நாட்டின் பாதுகாப்பின்மையை காரணம் காட்டி கடந்த வருடம் தேர்தலை நடத்த மறுத்துள்ளார்.
+
+ஹெய்ட்டி வறுமை மற்றும் குழுவன்முறைக்குள் மேலும் சிக்குப்பட்டுள்ளதால் சீற்றமடைந்த ஆர்ப்பாட்டக்காரர்கள் பிரதமர் பதவி விலகவேண்டும் என வேண்டுகோள் விடுத்துவருகின்றனர்.
+
+கடந்த ஒருவாரத்திற்கு மேல் வன்முறையில் சிக்குண்டுள்ள ஹெய்ட்டியின் பிரதமர். தனது பதவியை இராஜினாமா செய்துள்ளார்.
+
+ஹெய்ட்டியில் வன்முறை கும்பல் அரசகட்டிடங்களை தாக்கிவருவதன் காரணமாக சமூக அமைதியின்மை ஏற்பட்டுள்ளதுடன் ஹெய்ட்டி வீழ்ச்சியடையும் நிலையில் காணப்படுகின்ற ஒரு சூழலில் பிரதமரின்  ராஜினாமா குறித்த அறிவிப்பு வெளியாகியுள்ளது.
+
+பிரதமரின் ஆலோசகர் இதனை உறுதி செய்துள்ளதுடன் புதியபிரதமர் பதவியேற்க்கும்  வரை தற்போதைய ஜனாதிபதி பதவியில் நீடிப்பார் என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/17976cdc.json)
+
+---
+
+### If there is no improvement, the profession of 6000 employees is the problem
 
 *2024-03-12 10:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-இல்லையென்றால்-6000-ஊழியர்களின்-தொழில்-சிக்கலாகும்/175-334546) · `ta`
 
-ஸ்ரீலங்கன் எயார்லைன்ஸ் தனது செயற்பாட்டு மற்றும் நிதிப் பிரிவுகளின் முன்னேற்றத்தை அடுத்த ஆறு மாதங்களுக்குள் காட்ட முடியாவிட்டால் சுமார் 6,000 ஊழியர்களின் வேலைகள் நிச்சயமற்றதாக இருக்கும் என கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+SriLankan Airlines faces uncertainty for 6,000 employees if it doesn't improve operations and finances in 6 months. Minister Nimal Siripala de Silva discussed the airline's current state with company management and unions. The government plans to repay $1.2 billion to keep the airline afloat, aligning with President Ranil Wickremesinghe's proposal. The SriLankan Airline Reformation Program is set to launch within six months, aiming for financial stability and cost reduction. The airline currently operates 16 flights, including 6 long-distance and 29 short-distance flights, with some flights leased from Belgium and Fit Air.
 
-விமான சேவையின் தற்போதைய முன்னேற்றம் குறித்த கலந்துரையாடல் இன்று காலை அவரது அலுவலகத்தில் நிறுவன நிர்வாகம் மற்றும் தொழிற்சங்கங்களுடன் நடைபெற்றது.
+🟩
 
-ஸ்ரீலங்கா எயார்லைன்ஸ் அவ்வப்போது தனது செயற்பாடுகளில் தொடர்ச்சியான தாமதங்கள் காரணமாக குற்றம் சுமத்தப்பட்டதுடன் கடுமையான விமர்சனங்களுக்கு உள்ளானது. இந்த தாமதம் சமீபகாலமாக பயணிகளுக்கு எரிச்சலையும், சிரமத்தையும் ஏற்படுத்தியது.
+Shipping and Aviation Minister Nimal Siripala de Silva said the work of about 6,000 employees would be uncertain if SriLankan Airlines could not show the advancement of its operational and financial divisions within the next six months.
 
-விமான சேவையை தொடர்ந்தும் நடத்துவதற்கு பல வர்த்தக வங்கிகள் மற்றும் ஏனைய நிறுவனங்களிடமிருந்து கடனாகப் பெற்ற 1.2 பில்லியன் அமெரிக்க டொலர்களில் 510 மில்லியன் அமெரிக்க டொலர்களை மீளச் செலுத்த அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் டி சில்வா தெரிவித்தார்.
+A discussion on the current improvement of the airline was held this morning with the company administration and trade unions at his office.
+
+Sri Lanka Airlines has occasionally been accused of delays in its operations and has been criticized.This delay has recently caused irritation and inconvenience to travelers.
+
+Minister de Silva said the government has decided to repay $ 1.2 billion from $ 1.2 billion from many commercial banks and other companies to continue the airline.
+
+The decision was taken in accordance with the idea put forward by President Ranil Wickremesinghe as the Finance Minister.
+
+Accordingly, within the next six months, the SriLankan Airline Reformation Program is scheduled to be launched with an attractive financial balance.
 
 ...
 
 [Data](articles/6edba58a.json)
 
+[Extended Data](ext_articles/6edba58a.ext.json)
+
 ---
 
-### மீள் ஏற்றுமதி செய்வதற்கான வர்த்தமானி இடைநிறுத்தம்
+### Bureau of Gazette for Re -Shipment
 
 *2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-செய்வதற்கான-வர்த்தமானி-இடைநிறுத்தம்/175-334545) · `ta`
 
-மிளகு உட்பட பல வகையான வாசனைப் பொருட்களை மீள் ஏற்றுமதிக்காக இறக்குமதி செய்வதற்கு அண்மையில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலை இடைநிறுத்துவதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+The government suspends importation of perfumes like pepper, caste, turmeric, ginger, and cardamom for re-export, following Minister Amaraweera's opposition. Local farmers are against, and the cultivation of local perfumes is declining. The decision aims to protect Sri Lanka's top-rated perfumes.
 
-இலங்கையில் விளையும் மிளகு, சாதிக்காய், மஞ்சள், இஞ்சி, ஏலக்காய் போன்ற சில வாசனைப் பொருட்களை மீள் ஏற்றுமதி செய்வதற்காக இறக்குமதி செய்வதற்கு அரசாங்கம் வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
+🟩
 
-நேற்றைய அமைச்சரவை கூட்டத்தை தொடர்ந்து விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர இது தொடர்பான வர்த்தமானி அறிவித்தல் தொடர்பில் தனது எதிர்ப்பை வெளியிட்டார்.
+The government has decided to suspend the recent gazette notification issued for importing a variety of fragrances, including pepper.
 
-மீள் ஏற்றுமதிக்காக இந்த வாசனைப் பொருட்களை இறக்குமதி செய்ய அனுமதிப்பதன் மூலம், உள்ளூர் விவசாயிகள் ஊக்கமிழப்பதாகவும், அதனால் உள்ளூர் வாசனைப் பொருட்களின் பயிர்செய்கை வீழ்ச்சியடைந்து வருவதாகவும் அவர் சுட்டிக்காட்டினார். அத்துடன், தற்போது உலகின் சிறந்த வாசனைப் பொருட்களில் முதலிடத்தில் உள்ள இலங்கையின் வாசனைப் பொருட்களின் தரத்தில் இது வலுவான தாக்கத்தை ஏற்படுத்தும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+The government has issued a gazette notification for the importation of some perfumes such as pepper, caste, turmeric, ginger and cardamom.
+
+Following yesterday's Cabinet meeting, Minister of Agriculture and Plantation Industries Mahinda Amaraweera made his opposition to the gazette notification.
+
+He pointed out that local farmers are unwilling to allow the importation of these perfumes for re -exports and that the cultivation of local perfumes is falling.The Minister also pointed out that this would have a strong impact on the quality of Sri Lankan perfumes, which are currently the number one of the best perfumes in the world.
+
+Considering these facts, Minister Amaraweera said that the Cabinet has decided to suspend the gazette notification and suspend the importation of perfumes for Sri Lanka for re -export.
 
 ...
 
 [Data](articles/d68d8ff7.json)
 
+[Extended Data](ext_articles/d68d8ff7.ext.json)
+
 ---
 
-### 69 இலட்சம் வாக்குகளைப்பெற்ற ஆட்சியாளனை சிறு கல்லைக்கூட கையில் எடுக்காமல் விரட்டியடித்த மக்கள் - அநுரகுமார திஸாநாயக்க
+### The people who chased the ruler of 69 lakh votes without even a small stone - Anuragumara Dissanayake
 
 *2024-03-12 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178499) · `ta`
 
-இலங்கையின் அண்மைக்கால வரலாற்றில் ஓர் அரசியல் மாற்றத்திற்கான கட்டம்  மலர்ந்துள்ளது.  அதனால் ஆளுங் குழுவினர் பொதுத் தேர்தலை நடாத்துவதா ஜனாதிபதி தேர்தலை நடாத்துவதா என்ற தடுமாற்றத்தில் இருக்கிறார்கள் என தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+Anura Kumara Dissanayake, leader of the National People's Power, discusses Sri Lanka's political landscape, highlighting the ruling party's indecision on holding a general or presidential election. He criticizes the Rajapaksas for not allowing family members to run for president and mentions the upcoming debate on the election date. Dissanayake also addresses the political stress on ordinary citizens and the need for justice for victims of political violence. He criticizes the current regime for corruption and promises to open new opportunities for young people in politics.
 
-தேசிய மக்கள் சக்தியின் கொழும்பு மாவட்ட மகளிர் மாநாடு அண்மையில் ஹோமாகமையில் இடம்பெற்றது.
+🟩
 
-இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+In the recent history of Sri Lanka, the phase of a political change has blossomed.National People's Power Leader Anura Kumara Dissanayake said that the ruling delegation is in a state of disrepair whether to hold a general election or hold the presidential election.
 
-இலங்கையின் அண்மைக்கால வரலாற்றில் ஓர் அரசியல் மாற்றத்திற்கான கட்டம்  மலர்ந்துள்ளது.  அதனால் ஆளுங் குழுவினர் பொதுத் தேர்தலை நடாத்துவதா ஜனாதிபதி தேர்தலை நடாத்துவதா என்ற தடுமாற்றத்தில் இருக்கிறார்கள். ரணில் விக்கிரமசிங்க ஜனாதிபதி தேர்தலை நடாத்தவே நினைக்கிறார்.
+The Colombo District Women's Conference of the National People's Power was recently held in Homagama.
 
-பொதுத் தேர்தலை நடாத்துவதாயின் வேட்பாளர்களை தேடிக்கொள்ளவும் அவரால் முடியாது. ராஜபக்ஷாக்களுக்கு ஜனாதிபதி தேர்தலுக்காக குடும்பத்திலிருந்து வேட்பாளரொருவரைத் தேடிக்கொள்ள இயலாதென்பதால் பொதுத்தேர்தலை முதலில் நடாத்தினால் நல்லதென ராஜபக்ஷாக்கள் நினைக்கிறார்கள்.
+Speaking on the occasion, National People's Power Leader Anura Kumara Dissanayake said this.
+
+In the recent history of Sri Lanka, the phase of a political change has blossomed.So the ruling delegation is in the process of holding a general election or holding the presidential election. Ranil Wickremesinghe thinks of holding the presidential election.
+
+If he holds a general election, he cannot seek candidates. The Rajapaksas think that it is better if the Rajapaksas are not able to seek a candidate from the family for the presidential election.
 
 ...
 
 [Data](articles/aa1d34b8.json)
 
+[Extended Data](ext_articles/aa1d34b8.ext.json)
+
 ---
 
-### 92% “அணையடை ஆடை” களுக்கு வரி இல்லை
+### 92% no tax on “dam clothing”
 
 *2024-03-12 10:36:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-அணையடை-ஆடை-களுக்கு-வரி-இல்லை/175-334544) · `ta`
 
-இந்த நாட்டிற்குத் தேவையான மொத்த சுகாதார நப்கின்களில்  “அணையடை ஆடை” 92 வீதமானவை எமது நாட்டிலேயே உற்பத்தி செய்யப்படுவதாகவும், அவற்றிற்கு வரி அறவிடப்படுவதில்லை எனவும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced that 92% of "dam clothing" is locally produced and tax-free, with 8% imported goods taxed at 22.5%, aiming to protect local manufacturers.
 
-தல்துவ பிரதேசத்தில் நடைபெற்ற நிகழ்ச்சி ஒன்றில் கலந்து கொண்டு உரையாற்றும் போதே, இறக்குமதி செய்யப்படும் பொருட்களில் எஞ்சிய 8% பொருட்களை உற்பத்திப் பொருட்களாக ஒரு நிறுவனம் இலங்கைக்கு கொண்டுவருவதாகவும், அதற்கு 22.5% வரியே அறவிடப்படுவதாகவும் அவர் சுட்டிக்காட்டினார்.
+🟩
 
-உள்ளூர் உற்பத்தியாளரைப் பாதுகாக்கும் நோக்கத்திற்காகவே அந்த வரித் தொகை அறவிடப்படுவதாக அமைச்சர் மேலும் தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya has said that 92 percent of the "dam clothing" is produced in our country and they are not taxed.
+
+While addressing an event in Taldwa, he pointed out that the remaining 8% of the imported goods would be brought to Sri Lanka to Sri Lanka and 22.5% of the tax was levied.
+
+The Minister added that the tax would be charged for the purpose of protecting the local manufacturer.
 
 ◼️
 
 [Data](articles/c1a7c8d2.json)
+
+[Extended Data](ext_articles/c1a7c8d2.ext.json)
 
 ---
 
@@ -200,17 +290,23 @@ In this case, the health workers at the hospital informed the doctor by telephon
 
 ---
 
-### කොටියා කියා දිවියා මරයි
+### The leopard is killed
 
 *2024-03-12 10:02:15* · [`adalk`](https://www.ada.lk/breaking_news/කොටියා-කියා-දිවියා-මරයි/11-408553) · `si`
 
-විවිධ මිනිස් ක්‍රියාකාරකම් හේතුවෙන් මරණයට පත්වන හඳුන් දිවියන්ගේ මරණවලින් සියයට අසුවක් පමණ වාර්තා නොවෙමින් පවතින බව පිරිසරවේදීහු සඳහන් කරති. උඩරට වතුකරය ආශ්‍රිත මිනිස් ක්‍රියාකාරම් හේතුවෙන් හා රථ වාහනවලට හසුව මරණයට පත්වන හඳුන් දිවියන්ගේ සිරුරු කොටියාට සාපේක්ෂව විශාල නොවීම නිසා හොර රහසේ ඉවත් කිරීමට බොහෝ පිරිස් කටයුතු කරන බවත්, උඩරට මාර්ග කාපට් අතුරා සංවර්ධනය කිරීමෙන් පසු රථවාහනවලට හසුව මරණයට පත්වන හඳුන් දිවියන්ගේ මරණ ප්‍රමාණය ගොස් ඇති බවද පරිසරවේදීහු කියති.
+Leopards are killed, with environmentalists highlighting the removal of people from rural areas and the impact on leopard populations.
 
-ඇතැම් පිරිස් හඳුන් දිවියන්, කඳුකර කොටියන්ගේ පැටවුන් යයි සිතා වැරදි මතයක එල්ඹගෙන සිටීම හේතුවෙන් ඔවුන්ගේ ජීවිතවලට එල්ල වී ඇති තර්ජන ඉහළ ගොස් ඇති බවත්, කඳුකරයේ ඔවුන්ගේ වාසස්ථාන ක්‍රමයෙන් අඩුවීම හේතුවෙන් ඔවුන් මෙසේ නිරත්තරයෙන් ආහාර සොයා ගැනීමට මිනිස් වෙසෙන ප්‍රදේශවලට බහුලව පැමිණීම හේතුවෙන් ජීවිතවලට තර්ඡන එල්ලවී ඇතැයිද පරිසරවේදීහු වැඩිදුරටත් පවසති.
+🟩
+
+Nothing is reported to be reported to about the deaths of leopards due to various human activities.. Environmentalists say that many people have been removed from the Kandyan plantations and the bodies of leopards, which are largely larger in the rural road carpet, environmentalists say that the death penalty of leopards.
+
+The threats caused by the misconduct, their lives have gone up due to their dwelling areas in the hills, due to the influence of their lives in the mountains, where they are navigated with leopards, the culprits of the mountains.Says.
 
 ◼️
 
 [Data](articles/1e5e7728.json)
+
+[Extended Data](ext_articles/1e5e7728.ext.json)
 
 ---
 
@@ -2099,57 +2195,5 @@ From the early days of independence, political dynasties have taken root, leadin
 [Data](articles/696802f2.json)
 
 [Extended Data](ext_articles/696802f2.ext.json)
-
----
-
-### One dead, 4 injured in shooting at Pitigala
-
-*2024-03-11 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97879/one-dead-4-injured-in-shooting-at-pitigala) · `en`
-
-One person has been killed while three others have been injured following a shooting incident at Pitigala in Elpitiya, police said.
-
-◼️
-
-[Data](articles/15a9e829.json)
-
-[Extended Data](ext_articles/15a9e829.ext.json)
-
----
-
-### One dead, 3 injured in shooting at Pitigala
-
-*2024-03-11 20:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97879/one-dead-3-injured-in-shooting-at-pitigala) · `en`
-
-One person has been killed while three others have been injured following a shooting incident at Pitigala in Elpitiya, police said.
-
-The shooting had been carried out this evening (11) by two unidentified individuals who arrived on a motorcycle near a shop in the Guruwala area in the Pitigala police division.
-
-The suspects are believed to have used a T56 assault rifle in the shooting, according to police.
-
-One person was killed on the spot while three others including a woman have been admitted to the Gallinda Regional Hospital with injuries.
-
-◼️
-
-[Data](articles/8dfc6c1e.json)
-
-[Extended Data](ext_articles/8dfc6c1e.ext.json)
-
----
-
-### Man dies in shooting
-
-*2024-03-11 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194396) · `si`
-
-A man died and three others were injured in a shooting incident.
-
-🟩
-
-Three others were injured due to shooting, police said.
-
-◼️
-
-[Data](articles/9af925bd.json)
-
-[Extended Data](ext_articles/9af925bd.ext.json)
 
 ---

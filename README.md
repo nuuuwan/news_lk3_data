@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 13:17:44**
+As of **2024-03-12 13:33:24**
 
 ## Newspaper Stats
 
-*Scraped **12,364** Articles*
+*Scraped **12,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ dailyftlk | 641
 economynextcom | 647
 islandlk | 677
 adalk | 1,052
-adaderanalk | 1,492
+adaderanalk | 1,493
 tamilmirrorlk | 1,505
 virakesarilk | 1,704
 dailymirrorlk | 1,887
-adaderanasinhalalk | 1,950
+adaderanasinhalalk | 1,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,359 (100.0%) of 12,364 articles have been extended.
+12,364 (100.0%) of 12,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### පරාටේ නීතියේ සංශෝධන පනත පාර්ලිමේන්තුවට
+
+*2024-03-12 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194415) · `si`
+
+පරාටේ නීතිය තාවකාලිකව අත්හිටුවීම සඳහා අවශ්‍ය ණය අයකරගැනීමේ සංශෝධන පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත් ඉන් අනතුරුව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිවී තිබෙනවා.
+
+අද පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදි මේ පිළිබඳ කරුණු පැහැදිලි කෙරුණා.
+
+ණය ගැනුම්කරුවන් විසින් නොගෙවා පැහැර හරින ලද ණය අයකර ගැනීම සඳහා එම ණය වෙනුවෙන් උකස් කරනු ලැබ ඇති යම් දේපළක් ප්‍රසිද්ධ වෙන්දේසියේ විකිණීමට අදාළ බැංකු විසින් ගනු ලබන ක්‍රියාමාර්ග 2024-12-15 දින දක්වා තාවකාලිකව අත්හිටුවීමටත්, ඒ සඳහා විධිවිධාන සැලසීම පිණිස 1990 අංක 4 දරන බැංකු මඟින් ප්‍රදානය කරන ලද ණය අයකර ගැනීමේ (විශේෂ විධිවිධාන) පනත සංශෝධනය කිරීමටත් 2024-02-26 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබුණි.
+
+ඒ අනුව, නීති කෙටුම්පත් සම්පාදක විසින් සකස් කරනු ලැබ ඇති බැංකු මඟින් ප්‍රදානය කරන ලද ණය අයකර ගැනීමේ (විශේෂ විධිවිධාන) (සංශෝධන) පනත් කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශනය ලැබී ඇත.
+
+◼️
+
+[Data](articles/73c83dd2.json)
+
+---
 
 ### GI Pipes case: Court rejects Keheliya’s objections
 
@@ -48,17 +66,37 @@ The former Health Minister had raised preliminary objections challenging the mai
 
 [Data](articles/3b8121f1.json)
 
+[Extended Data](ext_articles/3b8121f1.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-03-12 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178516) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (மார்ச் 12) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 302.0716 ஆகவும் விற்பனை விலை ரூபா 311.4500 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On March 12, the US dollar was bought for Rs 302.0716 and sold for Rs 311.4500.
+
+🟩
+
+The US dollar purchasing price was Rs 302.0716 and the sales price were 311.4500 on Tuesday (March 12).
 
 ◼️
 
 [Data](articles/2c367823.json)
+
+[Extended Data](ext_articles/2c367823.ext.json)
+
+---
+
+### Price of milk powder to be reduced
+
+*2024-03-12 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97893/price-of-milk-powder-to-be-reduced) · `en`
+
+The price of a packet of milk powder is expected to be reduced by an amount ranging between Rs 100 to Rs 150 from Friday (March 15), Minister of Trade Nalin Fernando said.
+
+◼️
+
+[Data](articles/610a5773.json)
 
 ---
 
@@ -88,15 +126,21 @@ The case is currently being heard in the Vavuniya District Court and the lawyer 
 
 ---
 
-### කිරිපිටි මිලේ වෙනසක්
+### A change in milk powder
 
 *2024-03-12 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194414) · `si`
 
-සිකුරාදා සිට කිරිපිටි කිලෝවක මිල රු 100ත් 150ත් අතර මිලකින් අඩු කිරීමට බලාපොරොත්තු වන බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.
+"Minister Nalin Fernando announces a price reduction for milk powder."
+
+🟩
+
+Minister of Trade Nalin Fernando says that the price of a kilo of milk powder is expected to be reduced by Rs.
 
 ◼️
 
 [Data](articles/e80cc9e5.json)
+
+[Extended Data](ext_articles/e80cc9e5.ext.json)
 
 ---
 
@@ -134,6 +178,8 @@ Marikar responded to this question by recalling how President Ranasinghe Premada
 
 [Data](articles/4bc43e83.json)
 
+[Extended Data](ext_articles/4bc43e83.ext.json)
+
 ---
 
 ### Draft Bill facilitating Parate Law suspension to be gazetted
@@ -144,7 +190,7 @@ The Cabinet of Ministers has given its approval to publish the Draft Bill of the
 
 Cabinet’s approval comes after the Attorney General cleared the Bill drafted by the Legal Draftsman.
 
-Accordingly, the Draft Bill of the Loans by Banks (Special Provisions) Act will be tabled in Parliament after it is published in the government gazette.
+Accordingly, the Draft Bill of the Loans by Banks (Special Provisions) Act will subsequently be tabled in Parliament for approval.
 
 At its meeting convened on February 26, the Cabinet of Ministers green-lighted a proposal made by President Ranil Wickremesinghe, in his capacity as the Finance Minister, to suspend the Parate Law until December 15, 2024.
 
@@ -186,21 +232,27 @@ NSBM has agreed to provide funds for the development of Homagama Base Hospital i
 
 ---
 
-### බිරිඳත් සමගින් යමින් සිටියදී පැහැරගෙන ගොස් කපාකොට ඝාතනය කරලා
+### The wife is abducted and cut into death and murdered
 
 *2024-03-12 12:07:13* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳත්-සමගින්-යමින්-සිටියදී-පැහැරගෙන-ගොස්-කපාකොට-ඝාතනය-කරලා/11-408555) · `si`
 
-යාපනය වඩුක්කොඩ්ඩෙයි ප්‍රදේශයේදී ඊයේ (11) දින තරුණයෙකු කිසියම් පිරිසක් විසින් පැහැරගෙන ගොස් තියුණු ආයුධවලින් සිදුකල පහරදීමක් හේතුවෙන් මිය ගොස් ඇතැයි වඩුක්කොඩ්ඩෙයි පොලීසිය පවසයි.
+A 24-year-old man from Wadukkoddai was killed and severely wounded by a group in Jaffna, then taken to Kottu Kutu hospital before being admitted to Jaffna Hospital. Investigations are ongoing by the Kadukkoddai Police and the Jaffna Division Criminal Investigation Unit.
 
-අදාල තරුණයා සිය බිරිඳ සමග වඩුක්කොඩ්ඩෙයි සිට කරෙයිනගර් දක්වා  ගොස් නිවසට ආපසු එමින් සිටියදී කිසියම් පිරිසක් විසින් කාර් රථය නවතා තරුණයා පැහැගෙන ගොස් ඇත්තේ  බිරිඳටද පහරදීය.
+🟩
 
-පසුව මරණකරු තියුණු ආයුධවලින් පහරදී බරපතළ තුවාල සිදුකර කොට්ටකාඩු රෝහල අසලට මොටර් රථකින් ගෙනවිත් දමා සැකකරුවන් පළාගොස් තිබේ. තුවාලකරු වැඩිදුර ප්‍රතිකාර සඳහා යාපනය රෝහලට ඇතුළත් කිරීමේදී මියාගොස් ඇත.
+A young man was killed by a group of people in the Vadukkoddda area in Jaffna yesterday (11), police said.
 
-මෙලෙස මිය ගොස් ඇත්තේ වඩුක්කොඩ්ඩෙයි ප්‍රදේශයේ පදිංචි 24 හැවිරිදි තවචෙල්ලවම් බවදරම් නැමති පුද්ගලයෙකි. අදාල ඝාතනය සම්බන්ධයෙන් වඩුක්කොඩ්ඩෙයි පොලීසිය සහ යාපනය කොට්ඨාශ අපරාධ විමර්ශන ඒකකය විසින් මේ වන විටත් පුලුල් පරික්ෂණයක් අරඹා ඇති අතරම ඝාතනය සම්බන්යෙන් මේ වන විටත් සැකකරුවන් කිහිප දෙනෙකු හඳුනාගෙන ඇති බවටද පොලීසිය පැවසීය.
+The young man had gone to Kadukkodai to Karainagar and had a young man to parked the car.
+
+The deceased has been severely wounded by sharp decades and took seriously injured in a motor vehicle to the Kottu Kutu hospital.The injured had been admitted to the Jaffna Hospital for further treatment.
+
+The victim is a 24 year old resident of Wadukkoddai. The Kadukcounddai Police and the Jaffna Division Criminal Investigation Unit have already begun investigations by the Criminal Investigation Unit, police said.
 
 ◼️
 
 [Data](articles/5f3ca696.json)
+
+[Extended Data](ext_articles/5f3ca696.ext.json)
 
 ---
 
@@ -2225,49 +2277,5 @@ Central Bank of Sri Lanka’s long endeavour to establish an International Trans
 [Data](articles/50ce4798.json)
 
 [Extended Data](ext_articles/50ce4798.ext.json)
-
----
-
-### There is no problem traveling with President Ranil -Minister Pavithra Wanniyarachchi
-
-*2024-03-12 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178475) · `ta`
-
-Minister Pavithra Wanniyarachchi supports President Ranil Wickremesinghe, stating there's no issue in traveling with him. The PA is committed to working with President Ranil, with no changes expected. They plan to discuss future activities and potential coalitions, aiming for victory in upcoming elections.
-
-🟩
-
-In the political moves for the proposed elections, the party works strongly behind the PA. Meanwhile, Minister of Wildlife, Forest Resources Protection and Irrigation Pavithra Wanniyarachchi said that he would meet President Ranil Wickremesinghe and hold talks on future activities.
-
-Minister Pavithra Wanniyarachchi also said that there is no problem in traveling with President Ranil Wickremesinghe as the Minister representing the PA.
-
-He further stated at a press conference held at the Presidential Media Center yesterday.
-
-We are working with President Ranil Wickremesinghe. However, I am a member of the Cabinet as the Minister representing the PA. In that respect, the PA is with the president. There will be no changes in the future.
-
-We have no problems in working with the president. We will soon meet President Ranil Wickremesinghe on the moves of the PA in the proposed elections and take talks and make a final decision.
-
-...
-
-[Data](articles/d0e0fbf8.json)
-
-[Extended Data](ext_articles/d0e0fbf8.ext.json)
-
----
-
-### Right of Reply: “Desperate attempts to prevent privatisation of SLT”
-
-*2024-03-12 00:02:27* · [`dailyftlk`](https://www.ft.lk/opinion/Right-of-Reply-Desperate-attempts-to-prevent-privatisation-of-SLT/14-759360) · `en`
-
-Member of Parliament and Rear Admiral (Dr) Sarath Weerasekera RWP VSV USP Ndc Psc has sent the following Right of Reply in response to the Daily FT editorial titled “Desperate attempts to prevent privatisation of SLT” published on 1 March 2024. (https://www.ft.lk/ft_view__editorial/Desperate-attempts-to-prevent-privatisation-of-SLT/58-759011)
-
-The “FT view of the Editorial” on 1 March 2024, has made some comments on my stand on certain Government policies such as privatisation of Telecom.
-
-The Editor has mentioned that I am in fact reputed for standing against progressive policies of the Government. Before I explain why I am against those, let me briefly introduce myself.
-
-...
-
-[Data](articles/67c52c4f.json)
-
-[Extended Data](ext_articles/67c52c4f.ext.json)
 
 ---

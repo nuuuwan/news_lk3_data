@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 23:03:06**
+As of **2024-03-12 23:17:44**
 
 ## Newspaper Stats
 
-*Scraped **12,490** Articles*
+*Scraped **12,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,97 @@ dailyftlk | 641
 economynextcom | 664
 islandlk | 677
 adalk | 1,070
-adaderanalk | 1,506
+adaderanalk | 1,507
 tamilmirrorlk | 1,516
 virakesarilk | 1,730
-dailymirrorlk | 1,903
+dailymirrorlk | 1,904
 adaderanasinhalalk | 1,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,487 (100.0%) of 12,490 articles have been extended.
+12,490 (100.0%) of 12,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### மட்டக்குளியில் 4 வீடுகள் மீது தாக்குதல்!
+### President Ranil unveils plans to promote AI education at schools, invest in AI research
+
+*2024-03-12 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97906/president-ranil-unveils-plans-to-promote-ai-education-at-schools-invest-in-ai-research) · `en`
+
+President Ranil Wickremesinghe on Monday (March 11) underscored the importance of education instilling resilience in children, encouraging them to confront challenges with unwavering principles.
+
+He also highlighted the significance of education beyond textbooks, encompassing sports, leadership and the exploration of emerging fields like artificial intelligence (AI).
+
+Wickremesinghe made these remarks while attending the “Sesquicentennial Banquet” of Wesley College Colombo Monday night at the Shangri-La Hotel Colombo as the chief guest, the President’s Media Division (PMD) said.
+
+In his address, the President announced plans to promote AI education in schools, underscoring the government’s commitment to investing in AI research and development. He expressed a desire to support private schools that have historically played a vital role in the country’s education system.
+
+...
+
+[Data](articles/9f8607bb.json)
+
+---
+
+### Attack on 4 houses in Mattakkuli!
 
 *2024-03-12 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178566) · `ta`
 
-கொழும்பு மட்டக்குளி பிரதேசத்தில் செவ்வாய்க்கிழமை (12) இடம்பெற்ற  துப்பாக்கிச் சூட்டுச் சம்பவத்தின் பின்னர் அந்தப் பிரதேசத்திலுள்ள 4 வீடுகள் மீது தாக்குதல் நடத்தப்பட்டுள்ளது.
+Four houses in Mattakkuli Alivatta area attacked following a shooting on Tuesday. Residents fled the scene.
 
-மட்டக்குளி அலிவத்தை பகுதியில் உள்ள நான்கு வீடுகள் மீதே இனந்தெரியாதோர் தாக்குதல் நடத்தி விட்டு தப்பிச் சென்றுள்ளதாக முதற்கட்ட தகவல்கள் தெரிவிக்கின்றன.
+🟩
+
+Four houses in the area have been attacked following the shooting that took place on Tuesday (12) in the Mattakkuli area in Colombo.
+
+Preliminary reports say that the four houses in the Mattakkuli Alivatta area have fled the scene.
 
 ◼️
 
 [Data](articles/fc568d39.json)
 
+[Extended Data](ext_articles/fc568d39.ext.json)
+
 ---
 
-### சர்வதேச நாணய நிதியப் பிரதிநிதிகளை நாம் அடுத்த வாரம் சந்திக்க உள்ளோம் - சஜித் பிரேமதாச
+### AG will not defend cops involved in Narammala police shooting incident
+
+*2024-03-12 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AG-will-not-defend-cops-involved-in-Narammala-police-shooting-incident/108-278717) · `en`
+
+Colombo, March 12 (Daily Mirror)- The Attorney General's Department yesterday informed Supreme Court that the Attorney General would not appear on behalf of the respondent police officers who were involved in the Narammala police shooting.
+
+Senior State Counsel Shaminda Wickrema appearing for the Attorney General made these remarks when the fundamental rights petition filed by the widow of the carpenter who died in Narammala police gunfire was called before the Supreme Court three-judge-bench headed by Justice Vijith Malalgoda.
+
+When the matter was called before Supreme Court, neither the Attorney General nor the private counsel appeared on behalf of the respondent police officers. The matter was fixed for support on April 4.
+
+The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena on duty in civvies when the deceased was returning home after work.
+
+...
+
+[Data](articles/8858205f.json)
+
+---
+
+### We will meet the IMF representatives next week -Sajith Premadasa
 
 *2024-03-12 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178565) · `ta`
 
-இந்நாட்டில் சிசுக்கள், குழந்தை மற்றும் தாய்மார்களது ஊட்டச்சத்து குறைபாடு அதிகரித்துள்ள. 2022 இல் நடத்தப்பட்ட கணக்கெடுப்பில், 5-18 வயதுக்குட்பட்ட குழந்தைகளில் 25% எடை குறைந்த குழந்தைகள் என்பது தெரிய வந்துள்ளது. இதுபோன்ற இன்னும் பல புள்ளி விவரங்கள் ஊட்டச்சத்து குறைபாடு அதிகரித்து வருவதாகவும், தாய்மார்களும் குழந்தைகளும் ஊட்டச் சத்து குறைபாட்டால் பாதிக்கப்படக்கூடிய குழுவாக மாறிவருவதனை எடுத்துக் காட்டுகின்றன.
+Sajith Premadasa will meet IMF representatives next week to discuss addressing malnutrition through the IMF's Special Cooperation Program. He highlights the need for a special national program to break the cycle of nutritional deficiency, impacting productivity. Premadasa also emphasizes the importance of providing lunch to all students and preventing school closures, aiming to strengthen the educational system and protect the future of the country.
 
-அடுத்த சில நாட்களில் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளை ஐக்கிய மக்கள் சக்தி சந்திக்கவுள்ளதால், இந்நாட்டில் தாய்மார்கள், சிசுக்கள், குழந்தைகள் மற்றும் பாடசாலை பிள்ளைகளின் ஊட்டச்சத்து குறைபாடு நிலையை உடனடியாகப் போக்க சர்வதேச நாணய நிதியத்தின் விசேட ஒத்துழைப்பு வேலைத்திட்டம் தேவை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
+
+Increased malnutrition of baby and mothers in this country. According to a survey conducted in 2022, 25% of children aged 5-18 are lessweight children. Many such statistics show that nutritional deficiency is increasing and that mothers and children become a group of nutritional deficiency.
+
+The Opposition Leader said that the United People's Power will meet representatives of the International Monetary Fund in the next few days and the International Monetary Fund's Special Cooperation Program is needed to address the malnutrition of mothers, infants, children and school children in the country.
+
+The International Monetary Fund is the World Bank, the Asian Development Bank and the establishment of a special fund and the need for a special national program to get out of this nonsense.. The development of nutritional deficiency is equivalent to forming an evil cycle. The opposition leader added that this has a negative impact on the country's productivity.
 
 ...
 
 [Data](articles/07beccca.json)
+
+[Extended Data](ext_articles/07beccca.ext.json)
 
 ---
 
@@ -656,21 +706,27 @@ In addition, the ministry mentioned that the candidates can also obtain further 
 
 ---
 
-### රෝස ළූණු ආනයනය කරයි
+### The pink onions import
 
 *2024-03-12 18:42:35* · [`adalk`](https://www.ada.lk/breaking_news/රෝස-ළූණු-ආනයනය-කරයි/11-408574) · `si`
 
-රෝස ළූණු (Rose Onion) නැමති මධ්‍යම ප්‍රමාණයේ ළූණු ප්‍රභේදය ආනයනය කිරීමට  වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා තීරණය කර තිබේ.
+Minister Nalin Fernando decides to import medium-sized pink onions to control sea onion prices, aiming to sell them at Rs 375-400. This move is due to reduced supply from India and Pakistan.
 
-ඔහු මෙම තීරණය ගෙන ඇත්තේ පිටකොටුව තොග වෙළෙඳුන් සමඟ සිය අමාත්‍යාංශයේදී ඊයේ (12දා) සාකච්ඡාවක් පැවැත්වීමෙන් අනතුරුව සීග්‍රයෙන් ඉහළ යන ලොකු ළූණු මිල පාලනයට ක්ෂණික විසඳුමක් ලෙසිනි.
+🟩
 
-ඒ අනුව නව ළූණු ප්‍රභේදය රුපියල් 375- රුපියල් 400 අතර මිලකට පාරිභෝගිකයාට ලබා ගත හැකි වනු ඇති බව අමාත්‍යවරයා පවසා සිටියේය.
+Minister of Trade Minister Nalin Fernando has decided to import the centralized onion varieties of the middle size onion.
 
-ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ ඉන්දියාව සහ පාකිස්ථානය  විසින් ළූණු අපනයනය නවතා දැමීම හේතුවෙන් මෙරට වෙළෙඳපොල තුළ ලොකු ළූණු සැපයුම අඩු වූ බවයි.
+He has taken this decision as a quick solution to the pricing price control of the prices of the sea at his ministry yesterday (12th).
+
+Accordingly, the new onion will be able to get the customer at a price of Rs 375 and 400 rupees.
+
+He further stated that India and Pakistan have reduced the supply of big onion supply in the country.
 
 ◼️
 
 [Data](articles/7f5cfe11.json)
+
+[Extended Data](ext_articles/7f5cfe11.ext.json)
 
 ---
 
@@ -2245,51 +2301,5 @@ Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri
 [Data](articles/e36c708c.json)
 
 [Extended Data](ext_articles/e36c708c.ext.json)
-
----
-
-### Sri Lanka 100 MW power plant to Solar Forge Batticaloa
-
-*2024-03-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-100-mw-power-plant-to-solar-forge-batticaloa-154305/) · `en`
-
-ECONOMYNEXT – Sri Lanka is to commission a 100 MW solar power plant in Oddamawadi, Batticaloa on a build, own and operate basis (BOO), Minister Bandula Gunawardena said.
-
-“The Cabinet of Ministers approved the proposal presented by the Minister of Power and Energy and taking the expressions of interest received into account, to award the project  to Solar Forge Batticaloa on a BOO basis for a 20-year operating period.”
-
-Gunawardena said the island was seeing much interest from foreign investors for solar power projects.
-
-Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri Lanka’s Power and Energy Minister said.
-
-“A 2 MW Ground Mount Solar Project in Batticaloa was opened this morning. The project under the 90 MW CEB tendering process was constructed and commissioned by BackBay Solar Private Ltd,” Kanchana Wijesekera said on X (twitter).
-
-...
-
-[Data](articles/f89d112f.json)
-
-[Extended Data](ext_articles/f89d112f.ext.json)
-
----
-
-### 21 murders for 72 days
-
-*2024-03-12 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194418) · `si`
-
-From January 1 to March 12, 30 shooting incidents were reported on the island, resulting in 21 murders and 30 woundings. 17 were by organized crime gangs, others for personal reasons.
-
-🟩
-
-The police said that 30 cases of shooting from various parts of the island have been reported from January 1 to March 12th, March 12th.
-
-Attorney at Law, police spokesman, Nihal Talduuwa said that 21 others were wounded.
-
-The Police Media Spokesperson stated that it was revealed that 17 of the 30 shooting incidents were carried out by organized crime criminal gangs.
-
-Attorney at Law, police spokesman, Nihal Talduuwa added that the other shotings were carried out on personal reasons.
-
-◼️
-
-[Data](articles/d5d5e010.json)
-
-[Extended Data](ext_articles/d5d5e010.ext.json)
 
 ---

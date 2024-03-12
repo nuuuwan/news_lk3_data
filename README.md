@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 16:02:46**
+As of **2024-03-12 16:17:53**
 
 ## Newspaper Stats
 
-*Scraped **12,416** Articles*
+*Scraped **12,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,060
 adaderanalk | 1,497
 tamilmirrorlk | 1,513
 virakesarilk | 1,714
-dailymirrorlk | 1,892
+dailymirrorlk | 1,893
 adaderanasinhalalk | 1,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,416 (100.0%) of 12,416 articles have been extended.
+12,416 (100.0%) of 12,417 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,20 @@ Foreign Minister Ali Sabri and Presidential Secretary Saman Ekanayake were also 
 [Data](articles/cd3e3598.json)
 
 [Extended Data](ext_articles/cd3e3598.ext.json)
+
+---
+
+### Sri Lanka aims for 2.3Mn tourists, USD 4Bn in 2024
+
+*2024-03-12 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-aims-for-2-3Mn-tourists-USD-4Bn-in-2024/108-278708) · `en`
+
+Colombo, March 12 (Daily Mirror) - Sri Lanka tourism aims to attract 2.3 million tourists in 2024 and earn over USD 4 billion, Tourism Minister Harin Fernando said.
+
+Speaking at the event, he said Sri Lanka Tourism is launching its destination brand campaign globally with a new positioning and a tagline: ‘You’ll come back for more’.
+
+...
+
+[Data](articles/512695db.json)
 
 ---
 
@@ -2311,31 +2325,5 @@ The import of these spices was thus conditionally allowed, subject to the approv
 [Data](articles/cdf7a041.json)
 
 [Extended Data](ext_articles/cdf7a041.ext.json)
-
----
-
-### The gazette that allowed the spice including pepper suspended
-
-*2024-03-12 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194409) · `si`
-
-The government suspended a gazette allowing the importation of pepper and other spices, citing concerns from the Minister of Agriculture and Plantation Industry about local spice production.
-
-🟩
-
-The government has decided to suspend the gazette notification published by the government to permit the importation of several varieties of peppers.
-
-The government recently issued a gazette notification to import a few spices growing to the country to import them pepper, nutmeg, coastal, yellow, ginger, and cardamom.
-
-Minister of Agriculture and Plantation Industry, Minister of Agriculture and Plantation Industry under the patronage of President Ranil Wickremesinghe yesterday (11) was held on his opposition to the gazette notification.
-
-The Minister has pointed out that the local spice farmer is admired and that local spice production will fall to the extent of importation of these spices.
-
-The Minister has also pointed out that these have a profound effect on the first place in Sri Lanka in the first place between the best spices in the world.
-
-...
-
-[Data](articles/33b08c0b.json)
-
-[Extended Data](ext_articles/33b08c0b.ext.json)
 
 ---

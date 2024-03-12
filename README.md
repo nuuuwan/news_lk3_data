@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 17:17:49**
+As of **2024-03-12 17:33:43**
 
 ## Newspaper Stats
 
-*Scraped **12,430** Articles*
+*Scraped **12,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 655
 islandlk | 677
-adalk | 1,062
-adaderanalk | 1,499
+adalk | 1,064
+adaderanalk | 1,500
 tamilmirrorlk | 1,513
 virakesarilk | 1,719
 dailymirrorlk | 1,894
@@ -26,71 +26,111 @@ adaderanasinhalalk | 1,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,427 (100.0%) of 12,430 articles have been extended.
+12,430 (100.0%) of 12,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### ඩෙංගු සඳහා එන්නතක් ?
+### Faculty of Medicine to be established at NSBM
+
+*2024-03-12 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97900/faculty-of-medicine-to-be-established-at-nsbm) · `en`
+
+The government has decided to establish a Faculty of Medicine at the National School of Business Management (NSBM), under the direct supervision of and regulation of the Education Ministry, Health Ministry and the Sri Lanka Medical Council (SLMC).
+
+As many as 500 local and foreign students are expected to be annually enrolled for MBBS degrees offered by the NSBM, fully self-financed institution owned by the government.
+
+For this purpose, NSBM has sought the government’s approval to reserve Homagama Base Hospital as a suitable government hospital to provide clinical training for its medical students.
+
+Since the approval of the Cabinet of Ministers has already been given to use the Homagama Base Hospital for clinical training of Sri Jayewardenepura University’s medical students, it has been proposed to prepare a mechanism to reserve the hospital, on the basis of resource sharing, for the clinical training of NSBM medical faculty students as well as professor unit facilities.
+
+...
+
+[Data](articles/301ea1c9.json)
+
+---
+
+### A vaccine for dengue?
 
 *2024-03-12 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194426) · `si`
 
-කොරෝනා වසංගතය සමයේ බ්‍රිතාන්‍ය ඔක්ස්ෆර්ඩ් සරසවිය නිපදවූ ඇස්ට්‍රාසෙනිකා එන්නත මෙන්ම ප්‍රෝටීන මත පදනම් වූ නොවැක්ස් කොවිඩ් එන්නත නිෂ්පාදනය කළ ඉන්දියාවේ පූනේ නුවර පිහිටි සීරම් ආයතනය අද ලෝකයේ විශාලතම එන්නත් නිෂ්පාදකයා බවට පත්වී තිබේ.
+Saram, India's largest vaccine manufacturer, is expanding beyond COVID-19 vaccines to include malaria and dengue, with CEO Adar Patula announcing research into these diseases. The company, which invested $2 billion in COVID-19 vaccine production, sells about 1.5 billion vaccines annually and could increase its vaccine production by $2.5 billion by exploring other diseases.
 
-දැන් ඔවුන් කොවිඩ් එන්නත්වලින් ඔබ්බට ගොස් තවත් රෝගවලට එන්නත් ගවේෂණය කිරීමේ නිරත වෙයි.
+🟩
 
-සීරම් ආයතනයේ ප්‍රධාන විධායක නිලධාරී අදාර් පූනවල්ලා ප්‍රකාශ කළේ ඉදිරි වසර කිහිපය තුළ මැලේරියාව සහ ඩෙංගු රෝගය සඳහා ද එන්නත් නිපදවීමට සීරම් ආයතනය පර්යේෂණ ආරම්භ කර ඇති බවය.
+Siram in Pune, India, who produced the Korona Epidemic, has become the largest injection manufacturer in the world, who has produced universal injection based on the Korona Epidemic.
 
-සීරම් ආයතනය මෙලෙස නව එන්නත් නිෂ්පාදනය පිළිබඳව අවධානය යොමුකිරීමට තවත් හේතුවක් වන්නේ ඉල්ලුම අඩුවීම නිසා කොවිඩ් එන්නත් නිෂ්පාදනය කපාහැරීමට සිදුවීම ය.
+Now they go beyond the covard injections and explore more diseases.
 
-එලෙස තවත් රෝගවලට නව එන්නත් නිෂ්පාදනය කිරීමෙන්, සීරම් ආයතනයේ එන්නත් නිෂ්පාදනය බිලියන 2 1/2කින් පමණ ඉහළ නැංවිය හැකි බව එහි ප්‍රධාන විධායක පූනවල්ලා ප්‍රකාශ කරයි.
+The CEO of the Saram Institute Adar Patula stated that Saram Institute has commenced research to produce malaria and dengue in the next few years.
 
-කොවිඩ් වසංගත සමයේ සිය නිෂ්පාදනය ඉහළ නැංවීම සඳහා සීරම් ආයතනය අමෙරිකානු ඩොලර් බිලියන 2ක් පමණ වැය කළේය.
+Situation is another reason why the demand is reduced to the demand of demand.
 
-සීරම් ආයතනය මේ වනවිට වාර්ෂිකව එන්නත් මාත්‍රා බිලියන 1.5ක් පමණ අලෙවි කරයි.
+The CEO of the Saram's vaccine production can be increased by 2 1/2 billion in the production of other diseases.
+
+Saram spent about US $ 2 billion to enhance its production during the Covid Epidemic.
+
+Saram is selling around 1.5 billion of the vaccines annually.
 
 ◼️
 
 [Data](articles/21c944fc.json)
 
+[Extended Data](ext_articles/21c944fc.ext.json)
+
 ---
 
-### ග්‍රාම නිලධාරී සම්මුඛ පරීක්ෂණයට දින නියම වෙයි
+### Grama Niladhari Interview Dates
 
 *2024-03-12 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194425) · `si`
 
-ග්‍රාම නිලධාරී ව්‍යුහගත සම්මුඛ පරීක්ෂණය මාර්තු මස 13,14 සහ 15 යන දිනයන්හිදී පැවැත්වීමට කටයුතු යොදා ඇති බව රාජ්‍ය පරිපාලන අමාත්‍යාංශය පවසයි.
+Grama Niladhari interviews on March 13, 19, 19 in Narahenpita. Check www.moha.gov.lk for eligibility and required documents.
 
-නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කරන්නේ එම සම්මුඛ පරීක්ෂණය නාරාහේන්පිට පිහිටි නිල මැදුර පරිශ්‍රයේ ස්වදේශ කටයුතු අංශයේදී සිදුකෙරෙන බවය.
+🟩
 
-එසේම ඊට අදාළ සුදුසුකම් ලබා තිබුණද මේ දක්වා කැඳවීම් ලිපි ලැබී නොමැති අයදුම්කරුවන්ට www.moha.gov.lk වෙබ් අඩවියේ පළකර ඇති ලේඛනයෙන් එම තොරතුරු ලබාගත හැක.
+The Grama Niladhari interview will be held on March 13, 19 and 15, said the Ministry of Public Administration.
 
-එසේම එම සම්මුඛ පරීක්ෂණය සඳහා රැගෙන ආ යුතු ලේඛන පිළිබඳව එම වෙබ් අඩවිය මගින් තොරතුරු ලබාගතහැකි බවද රාජ්‍ය පරිපාලන අමාත්‍යාංශය සිය නිවේදනයෙන් වැඩිදුරටත් පෙන්වා දී තිබේ.
+The Ministry further stated that the interview further states that the interview is being carried out in the Home Affairs Division in Narahenpita.
+
+The relevant eligibility requirements can be obtained from the document posted on the website at www.moha.gov.lk
+
+The Ministry of Public Administration has further pointed out that the website can obtain information on documents to be brought to the interview.
 
 ◼️
 
 [Data](articles/31a6ad01.json)
 
+[Extended Data](ext_articles/31a6ad01.ext.json)
+
 ---
 
-### நுவரெலியா மாவட்ட பொது வைத்தியசாலை  சுகாதார ஊழியர்கள் கவனயீர்ப்பு போராட்டம்!
+### Nuwara Eliya District General Hospital Health Workers Struggle
 
 *2024-03-12 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178548) · `ta`
 
-நுவரெலியா மாவட்ட பொது வைத்தியசாலை முன்பாக சுகாதார ஊழியர்கள் இன்று செவ்வாய்க்கிழமை (12)  மதிய நேர உணவு இடைவேளையில் கவனயீர்ப்பு போராட்டம் ஒன்றில் ஈடுப்பட்டனர்.
+Health workers at Nuwara Eliya District General Hospital protested for additional allowances, not for the 35k DAT payments given to doctors. The demonstration, held from 1 pm to 2 pm, demanded better service, promotion, and qualification allowances.
 
-நுவரெலியா  மாவட்ட பொது வைத்தியசாலையில் சேவையாற்றும் வைத்தியர்கள் தவிர்ந்த ஏனைய சுகாதார சேவையில் பணியாற்றும் ஊழியர்கள் இந்த கவனயீர்ப்பு ஆர்ப்பாட்டத்தை முன்னெடுத்தனர்.
+🟩
 
-நுவரெலியா மாவட்ட பொது வைத்தியசாலை முன்பாக இன்றையதினம் மதிய நேர உணவு வேளையில் சுமார் ஒருமணி நேரம் இந்த கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+Health workers in front of the Nuwara Eliya District General Hospital were engaged in a protest march today (12) at lunchtime.
 
-இதன்போது குறித்த வைத்தியசாலையில் கடமையாற்றும் 72 தொழிற் சங்கங்களில் அங்கம் வகிக்கும் சுகாதார சேவை ஊழியர்கள் அனைவரும் ஆர்ப்பாட்டத்தில்  கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+Staff in the Nuwara Eliya District General Hospital, other than the doctors who serve, staged a protest demonstration.
 
-அதேநேரத்தில் ஆர்ப்பாட்டத்தில் கலந்து கொண்டவர்கள் வைத்தியர்களுக்கு வழங்கப்பட்டு வரும் DAT கொடுப்பனவான 35 ஆயிரத்தை எமக்கும் தாருங்கள் என கேட்க்கவில்லை.
+The rally was held in front of the Nuwara Eliya District General Hospital for about an hour at lunchtime.
+
+It is noteworthy that all the health services staff who were part of the 72 trade unions who were working at the hospital participated in the demonstration.
+
+At the same time, those who participated in the demonstration did not ask us to give us 35 thousand DAT payments given to doctors.
+
+On the contrary, the government and the Ministry of Health have taken steps to provide additional allowance to the service, promotion and qualifications of those who carry out the health service.
+
+The demonstration, which was carried out from 1 pm to 2 pm, was chanting and chanting their demands.
 
 ...
 
 [Data](articles/ff1dada7.json)
+
+[Extended Data](ext_articles/ff1dada7.ext.json)
 
 ---
 
@@ -227,6 +267,40 @@ In this case, the health workers at the hospital informed the doctor by telephon
 [Data](articles/cd560e00.json)
 
 [Extended Data](ext_articles/cd560e00.ext.json)
+
+---
+
+### නෙළුම් කුළුණ පරිශ්‍රයේ ප්‍රසංගයේ මත්පැන් පානය කළ දෙදෙනෙක් මරුට
+
+*2024-03-12 16:34:19* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණ-පරිශ්‍රයේ-ප්‍රසංගයේ-මත්පැන්-පානය-කළ-දෙදෙනෙක්-මරුට/11-408568) · `si`
+
+නෙළුම් කුළුණ පරිශ්‍රයේ  පැවති සංගීත ප්‍රසංගයක් අතරතුර රෝගාතුර වී  කොළඹ ජාතික රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව  මියගිය තරුණයෙකුගේ සහ තරුණියකගේ මරණ සම්බන්ධයෙන් විවෘත තීන්දු ලබා දුන් බව මරදාන පොලිසිය කියයි.
+
+මෙලෙස මියගොස් තිබුනේ මුල්ලේරියාව උඩුමුල්ල මාළිගාගොඩැල්ල පාර පදිංචිව සිටි 27 හැවිරිදි තරුණියක් හා දෙහිවල අත්තිඩිය මන්ත්‍රී මුල්ල පාර පදිංචිව සිටි 24 තරුණයෙකුයි.
+
+අදාළ මරණ සම්බන්ධයෙන් පුද්ගලයන් දස දෙනෙකුගෙන් පමණ ප්‍රකාශ සටහන් කර ගත් බවත් ඒ අතර සංගීත ප්‍රසංගය සංවිධානය කළ පුද්ගලයා ද සිටින බවත් පොලිස් නිලධාරියකු පැවසීය. ඉකුත්  7 වෙනි දින  නෙළුම් කුළුණ පරිශ්‍රයේ පැවති සංගීත ප්‍රසංගයේ ටිකට් පතක් රුපියල් 9000ක මිලකට අලෙවි වී අතර ඒ සඳහා 2000 කට ආසන්න පිරිසක් සහභාගී වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+8 වෙනිදින  දින අලුයම 4 ට පමණ මියගිය තරුණිය අසනීප වී ඇති අතර  ඇය කොළඹ ජාතික රෝහල වෙත ඇතුලත් කිරීමෙන් අනතුරුව පැය කිහිපයකට පසු මිය ගොස් ඇත. එදිනම 24 හැවිරිදි  තරුණයාද රෝගාතුර වී ඇති අතර  රෝහල් ගත කිරීමෙන් අනතුරුව පසු දින මියගොස් ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/05fba413.json)
+
+---
+
+### චාමික එක්දින කණ්ඩායමට කැඳ﻿වයි - ණුවන් හා මතීෂට ස්ථාන නෑ
+
+*2024-03-12 16:32:20* · [`adalk`](https://www.ada.lk/breaking_news/චාමික-එක්දින-කණ්ඩායමට-කැඳ﻿වයි---ණුවන්-හා-මතීෂට-ස්ථාන-නෑ/11-408567) · `si`
+
+බංග්ලාදේශය සමගින් පැවැත්වීමට නියමිත තරග තුනකින් සමන්විත එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම් කර තිබේ. මෙම සංචිතය තුළ වෙනස්කම් කිහිපයක් දක්නට ලැබෙන අතර තුන් ඉරියව් ක්‍රීඩක චාමික කරුණාරත්න නැවත කණ්ඩායමට කැඳවා තිබේ.
+
+කෙසේ වෙතත් වේග පන්දු යවන ක්‍රීඩකයන් වන මතීෂ පතිරණ හා නුවන් තුෂාර කණ්ඩායමට කැඳවා නොමැත. සහන් ආරච්චිගේ, දුනිත් වෙල්ලාගේ හා ජනිත් ලියනගේද කණ්ඩායමට කැඳවා තිබේ.
+
+ශ්‍රී ලංකා සංචිතය -කුසල් මෙන්ඩිස් - නායක, චරිත් අසලංක - උප නායක, පැතුම් නිශ්ශංක, අවිශ්ක ප්‍රනාන්දු, සධීර සමරවික්‍රම, ජනිත් ලියනගේ, කමිඳු මෙන්ඩිස්, සහන් ආරච්චිගේ, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, දුනිත් වෙල්ලාලගේ, අකිල ධනංජය, චාමික කරුණාරත්න, ඩිල්ෂාන් මධුශංක, ප්‍රමෝද් මධුෂාන්, ලහිරු කුමාර
+
+◼️
+
+[Data](articles/acc86f08.json)
 
 ---
 
@@ -2259,79 +2333,5 @@ SDIG Dhanapala is currently in-charge of the Special Branch Range.
 [Data](articles/44cc4130.json)
 
 [Extended Data](ext_articles/44cc4130.ext.json)
-
----
-
-### Yall. Two persons arrested in Vadamarachchi East Sea
-
-*2024-03-12 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178493) · `ta`
-
-Two individuals arrested in Vadamarachchi East Sea by Point Pedro Navy for illegal activities, including rapes, to prevent such crimes. They were from Kudanatha and turned over to Jaffna Fisheries Department for legal action.
-
-🟩
-
-Two persons have been arrested by the Point Pedro Navy on Monday (11).
-
-The Marines were carrying out a series of rapes in order to prevent illegal activities in the waters, followed by a special search operation in the Vadamarachchi East Sand Waters.
-
-The Navy further stated that the arrested persons were belonging to the Kudanatha area and that the two had been handed over to the Jaffna Fisheries Department of Fisheries Department officials for further legal action.
-
-◼️
-
-[Data](articles/b7097f12.json)
-
-[Extended Data](ext_articles/b7097f12.ext.json)
-
----
-
-### A young family man who went by road in Jaffna kidnapped and cut down!
-
-*2024-03-12 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178488) · `ta`
-
-A 23-year-old from Jaffna's Vaddukoddai-Mavadi was kidnapped and killed by a gang on Monday. The family was attacked near Ponnalai Naval Base, and the Marines intervened. The victim was taken to Jaffna Teaching Hospital.
-
-🟩
-
-A young family member who went by a street was killed on Monday after a gang abducted and attacked a sword.
-
-The 23 -year -old family from Jaffna, Vaddukoddai - Mavadi area has died.
-
-While the family and his wife were traveling from Karainagar to the house in Vaddukkottai - Mavadi, some of the weapons in two cars near the Ponnalai Naval Base.
-
-Both escaped and logged into the naval camp. In this case, the Marines chased them out.
-
-When they came out, the team went from there to load the wife in one car and the person in the next car.
-
-Then the wife was unloaded at Siddhangeni junction. The wife then went to the Vaddukoddai police station to lodge a complaint.
-
-In this case, the kidnappers went to the Vaddukoddai area hospital after the sword attack on the man and threw him down to the hospital in the hospital.
-
-In this case, the health workers at the hospital informed the doctor by telephone.
-
-...
-
-[Data](articles/d6091526.json)
-
-[Extended Data](ext_articles/d6091526.ext.json)
-
----
-
-### The leopard is killed
-
-*2024-03-12 10:02:15* · [`adalk`](https://www.ada.lk/breaking_news/කොටියා-කියා-දිවියා-මරයි/11-408553) · `si`
-
-Leopards are killed, with environmentalists highlighting the removal of people from rural areas and the impact on leopard populations.
-
-🟩
-
-Nothing is reported to be reported to about the deaths of leopards due to various human activities.. Environmentalists say that many people have been removed from the Kandyan plantations and the bodies of leopards, which are largely larger in the rural road carpet, environmentalists say that the death penalty of leopards.
-
-The threats caused by the misconduct, their lives have gone up due to their dwelling areas in the hills, due to the influence of their lives in the mountains, where they are navigated with leopards, the culprits of the mountains.Says.
-
-◼️
-
-[Data](articles/1e5e7728.json)
-
-[Extended Data](ext_articles/1e5e7728.ext.json)
 
 ---

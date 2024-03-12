@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 13:02:58**
+As of **2024-03-12 13:17:44**
 
 ## Newspaper Stats
 
-*Scraped **12,359** Articles*
+*Scraped **12,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,124 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 647
 islandlk | 677
-adalk | 1,051
+adalk | 1,052
 adaderanalk | 1,492
 tamilmirrorlk | 1,505
-virakesarilk | 1,703
-dailymirrorlk | 1,885
-adaderanasinhalalk | 1,949
+virakesarilk | 1,704
+dailymirrorlk | 1,887
+adaderanasinhalalk | 1,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,357 (100.0%) of 12,359 articles have been extended.
+12,359 (100.0%) of 12,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### சற்று முன் வெடுக்குநாறி மலை ஆதிசிவன் ஆலய பூசகர் உள்ளிட்ட 8 பேர் மீதான விசாரணை நீதிமன்றில்
+### GI Pipes case: Court rejects Keheliya’s objections
 
-*2024-03-12 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178515) · `ta`
+*2024-03-12 13:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GI-Pipes-case-Court-rejects-Keheliyas-objections/108-278701) · `en`
 
-வவுனியா வடக்கு, வெடுக்குநாறி ஆதி சிவன் ஆலய பூசகர் உள்ளிட்ட 8 பேரும்  12 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்ட நிலையில் இன்று செவ்வாய்க்கிழமை (12)  வவுனியா நீதிமன்றில் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டு நடைபெற்றுக்கொண்டிருக்கின்றது.
+Colombo, March 12 (Daily Mirror) - The Colombo High Court today rejected the preliminary objections raised by former Health Minister Keheliya Rambukwella against the GI pipes case.
 
-சிவராத்திரி தினத்தன்று வவுனியா வடக்கு வெடுக்குநாறி ஆதி சிவன் ஆலயத்தில் பூஜை வழிபாடுகள் இடம்பெற்ற போது சப்பாத்துக் கால்களுடன் ஆலயத்திற்குள் நுழைந்த பொலிஸார் ஆலய பூசகர் உள்ளிட்ட 8 பேரை கைது செய்து தடுத்து வைத்திருந்தனர்.
+Accordingly, Colombo High Court Judge Nawaratne Marasinghe decided to fix the matter for trial and the case will be called again on April 4.
 
-குறித்த 8 பேரையும் வவுனியா நீதவான் நீதிமன்றில் நெடுங்கேணி பொலிஸார் கடந்த (09) மாலை முன்னிலைப்படுத்தினர். இதன்போது ஆலய  பூசகர் உள்ளிட்ட 8 பேர் சார்பாக சட்டத்தரணிகளான க.சுகாஸ், தி.திருஅருள், அ.திலீப்குமார் உள்ளிட்ட குழுவினர் மன்றில் ஆஜராகியிருந்தனர்.
+The Bribery Commission had filed indictments before Colombo High Court against former Health Minister Keheliya Rambukwella and two others for allegedly causing unlawful loss to the government after purchasing GI pipes using Sri Lanka Rupavahini Corporation’s (SLRC) funds during the 2015 Presidential Election while Keheliya Rambukwella was serving as the Minister of Mass Media.
+
+The former Health Minister had raised preliminary objections challenging the maintainability of the case.
 
 ...
 
-[Data](articles/2c15031c.json)
+[Data](articles/3b8121f1.json)
 
 ---
 
-### தாய்லாந்து, பாகிஸ்தான் தூதுவர்கள் ஜனாதிபதியிடம் நற்சான்றுப் பத்திரங்கள் கையளிப்பு !
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-12 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178516) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (மார்ச் 12) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 302.0716 ஆகவும் விற்பனை விலை ரூபா 311.4500 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2c367823.json)
+
+---
+
+### Eight people, including the priest of the Adivasivan Temple, in the court
+
+*2024-03-12 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178515) · `ta`
+
+Eight, including a temple priest, arrested during Shivaratri at Vavuniya's Adi Shiva Temple. Police entered the temple and arrested them. The case is being heard at the Vavuniya District Court, with attorneys representing the accused.
+
+🟩
+
+The case is being heard at the Vavuniya Court on Tuesday (12) as eight persons, including the priest of the Adi Shiva temple in Vavuniya, Vettukkunni, Vettukkunni.
+
+On the day of Shivaratri, when the worship of the Adi Shiva temple was held at the Adi Shiva Temple in Vavuniya, police entered the temple with their feet and arrested eight people, including the priest.
+
+Nedungeni police presented the eight of them at the Vavuniya Magistrate's Court last evening (09). Attorneys K. Sukas, T.Thirul and A. Dileep Kumar were present on behalf of the eight people, including the temple priest.
+
+All eight persons arrested at the temple. Investigations into the case have been kept in detention until the 12th. They were also informed to the legal officer of the Throat Hard
+
+The case is currently being heard in the Vavuniya District Court and the lawyer and parliamentarian Sumanthiran and MP Gajendran have gone into court.
+
+◼️
+
+[Data](articles/2c15031c.json)
+
+[Extended Data](ext_articles/2c15031c.ext.json)
+
+---
+
+### කිරිපිටි මිලේ වෙනසක්
+
+*2024-03-12 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194414) · `si`
+
+සිකුරාදා සිට කිරිපිටි කිලෝවක මිල රු 100ත් 150ත් අතර මිලකින් අඩු කිරීමට බලාපොරොත්තු වන බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.
+
+◼️
+
+[Data](articles/e80cc9e5.json)
+
+---
+
+### Thailand and Pakistan Ambassadors hand over the president's credentials
 
 *2024-03-12 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178513) · `ta`
 
-தாய்லாந்து மற்றும் பாகிஸ்தான் நாடுகளின் இலங்கைக்கான புதிய தூதுவர்களாக நியமிக்கப்பட்டுள்ளவர்கள் தங்களது நற்சான்றுப் பத்திரங்களை ஜனாதிபதியிடம் கையளித்துள்ளனர்.
+Thailand and Pakistan ambassadors present credentials to Sri Lanka's President Ranil Wickremesinghe.
 
-தாய்லாந்தின் இலங்கைக்கான புதிய தூதுவராக நியமனம் பெற்றிருக்கும் பைட்டூன் மஹாபன்னபோர்ன் (H. E. Paitoon Mahapannaporn) மற்றும் பாகிஸ்தான் இஸ்லாமியக் குடியரசின் உயர்ஸ்தானிகராக நியமனம் பெற்றிருக்கும் மேஜர் ஜெனரல் (H.E. Major General (R) Faheem Ul Aziz, HI (M)), ஆகியோர் கொழும்பு, கோட்டையிலுள்ள ஜனாதிபதி மாளிகையில், ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம்  தங்களது நற்சான்றுப் பத்திரங்களைக் கையளித்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Those who have been appointed as the new ambassadors of Sri Lanka in Thailand and Pakistan have handed over their credentials to the President.
+
+Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka in Thailand (h). A.. Major General (H.E.. Major General (R) Faheem Ul Aziz, Hi (M)) has handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo.
 
 ◼️
 
 [Data](articles/0d9e3a65.json)
+
+[Extended Data](ext_articles/0d9e3a65.ext.json)
+
+---
+
+### Newcomers to SJB can be controlled through political tactics: Marikar
+
+*2024-03-12 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Newcomers-to-SJB-can-be-controlled-through-political-tactics-Marikar/108-278700) · `en`
+
+Colombo, March 12 (Daily Mirror) - In response to why the Samagi Jana Balwegaya (SJB) is depending on newcomers while neglecting its own members, its spokesman and Member of Parliament S.M. Marikar said the newcomers can be dealt with political tactics.
+
+The MP was responding to a question raised by journalists at a media briefing as to why the party is depending on MPs such as Nalaka Godahewa when deciding on economic affairs.
+
+Marikar responded to this question by recalling how President Ranasinghe Premadasa dealt with late SLMC leader A.H.M. Asroff in 1989. Asraff wanted President Premadasa not to give nominations to three UNP Muslim members in the East if he was to support the UNP in 1989. President Premadasa did not give the three UNPers nominations but appointed them to Parliament though the national list. He made one MP a member of the Cabinet and two others as State Ministers,” Marikar recalled.
+
+...
+
+[Data](articles/4bc43e83.json)
 
 ---
 
@@ -109,6 +183,24 @@ NSBM has agreed to provide funds for the development of Homagama Base Hospital i
 [Data](articles/4f04b39b.json)
 
 [Extended Data](ext_articles/4f04b39b.ext.json)
+
+---
+
+### බිරිඳත් සමගින් යමින් සිටියදී පැහැරගෙන ගොස් කපාකොට ඝාතනය කරලා
+
+*2024-03-12 12:07:13* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳත්-සමගින්-යමින්-සිටියදී-පැහැරගෙන-ගොස්-කපාකොට-ඝාතනය-කරලා/11-408555) · `si`
+
+යාපනය වඩුක්කොඩ්ඩෙයි ප්‍රදේශයේදී ඊයේ (11) දින තරුණයෙකු කිසියම් පිරිසක් විසින් පැහැරගෙන ගොස් තියුණු ආයුධවලින් සිදුකල පහරදීමක් හේතුවෙන් මිය ගොස් ඇතැයි වඩුක්කොඩ්ඩෙයි පොලීසිය පවසයි.
+
+අදාල තරුණයා සිය බිරිඳ සමග වඩුක්කොඩ්ඩෙයි සිට කරෙයිනගර් දක්වා  ගොස් නිවසට ආපසු එමින් සිටියදී කිසියම් පිරිසක් විසින් කාර් රථය නවතා තරුණයා පැහැගෙන ගොස් ඇත්තේ  බිරිඳටද පහරදීය.
+
+පසුව මරණකරු තියුණු ආයුධවලින් පහරදී බරපතළ තුවාල සිදුකර කොට්ටකාඩු රෝහල අසලට මොටර් රථකින් ගෙනවිත් දමා සැකකරුවන් පළාගොස් තිබේ. තුවාලකරු වැඩිදුර ප්‍රතිකාර සඳහා යාපනය රෝහලට ඇතුළත් කිරීමේදී මියාගොස් ඇත.
+
+මෙලෙස මිය ගොස් ඇත්තේ වඩුක්කොඩ්ඩෙයි ප්‍රදේශයේ පදිංචි 24 හැවිරිදි තවචෙල්ලවම් බවදරම් නැමති පුද්ගලයෙකි. අදාල ඝාතනය සම්බන්ධයෙන් වඩුක්කොඩ්ඩෙයි පොලීසිය සහ යාපනය කොට්ඨාශ අපරාධ විමර්ශන ඒකකය විසින් මේ වන විටත් පුලුල් පරික්ෂණයක් අරඹා ඇති අතරම ඝාතනය සම්බන්යෙන් මේ වන විටත් සැකකරුවන් කිහිප දෙනෙකු හඳුනාගෙන ඇති බවටද පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/5f3ca696.json)
 
 ---
 
@@ -2177,97 +2269,5 @@ The Editor has mentioned that I am in fact reputed for standing against progress
 [Data](articles/67c52c4f.json)
 
 [Extended Data](ext_articles/67c52c4f.ext.json)
-
----
-
-### CBSL pay hike: Playing  the fiddle while the country burns
-
-*2024-03-12 00:01:21* · [`dailyftlk`](https://www.ft.lk/columns/CBSL-pay-hike-Playing-the-fiddle-while-the-country-burns/4-759359) · `en`
-
-The Central Bank of Sri Lanka (CBSL) salary hike ranging from approx. 29.53% to  79.97% has taken the Nation by storm! This article intends to  show the worthy citizenry of Sri Lanka that the attempts of the Governor/CBSL  to cover up this faux pax  and unconscionable  abuse of powers is utterly fallacious and designed to deceive the people and Parliament of Sri Lanka.
-
-The Governor of the Central Bank has declared the country financially bankrupt, insolvent, unable to pay its debts on 12th April 2022. In this context the Ministry of Finance has issued instructions not to increase any salaries of employees in the Government sector. However, CBSL employees’ salaries have been increased as per Collective Agreement entered into with their Trade Unions.
-
-...
-
-[Data](articles/a55433eb.json)
-
-[Extended Data](ext_articles/a55433eb.ext.json)
-
----
-
-### Women’s political enthusiasm must be encouraged
-
-*2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Womens-political-enthusiasm-must-be-encouraged/172-278642) · `en`
-
-Sri Lankan women seem to have gained an unprecedented and considerable importance in Sri Lankan politics lately, thanks to the record gatherings of women by JVP/NPP as a part of their show off of power, as the major elections are around the corner.
-
-These gatherings have some sort of copycat effect on some other political parties as well, which is also a good sign, as far as women’s politics is concerned.
-
-It is within that context that the International Women’s Day fell on March 8. Yet, we could witness comparatively fewer commemorative events and media concerns this year, in view of that day.
-
-The need for women’s politics has been felt for a long time not only as they are half or more of the population, but also in most so-called developing countries they play a subservient role in politics, giving up the decision-making right to men in the family, the father, brothers, husband or sons.  Very rarely do women make political decisions totally independent of the male relatives.
-
-...
-
-[Data](articles/21eec613.json)
-
-[Extended Data](ext_articles/21eec613.ext.json)
-
----
-
-### Spotlight on Uda Walawe National Park Jumbos starve due to scarcity of fodder, grazing cattle
-
-*2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Spotlight-on-Uda-Walawe-National-Park-Jumbos-starve-due-to-scarcity-of-fodder-grazing-cattle/131-278639) · `en`
-
-Elephants at the Uda Walawe National Park are starving due to a massive shortage of food
-
-Fingers are pointed at the authorities for being responsible for poor habitat management at Uda Walawe National Park
-
-Another major issue at national parks is the release of cattle for free grazing
-
-Senior ecologists observe that the after growth from chena cultivation is very good elephant habitat
-
-It was a little past noon when we reached the Uda Walawe National Park. We were excited to see elephants in their natural habitats, but serious concern was bothering everyone of us at the same time. In the backdrop of battling with an aggravating human-elephant conflict, environmentalists have speculated whether elephants at the Uda Walawe National Park are starving due to a massive shortage of food. As we entered the Park, we noticed speculation turning to truth.
-
-...
-
-[Data](articles/59f47c8e.json)
-
-[Extended Data](ext_articles/59f47c8e.ext.json)
-
----
-
-### Americans advised to bury their gold, while ours is in pawnshops
-
-*2024-03-12 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Americans-advised-to-bury-their-gold-while-ours-is-in-pawnshops/172-278644) · `en`
-
-As a turbulent world races into year 2024, the  only remaining superpower is a troubled giant (China is a great power, but its military (especially naval) and nuclear forces are still no match for America’s, and it would be economically  disastrous for China to start an arms race with the US now with its economy in  trouble).
-
-The American economy is in trouble, too, with the US dollar losing its value and dire predictions of another Great Depression by next year, though some analysts predict that the US will emerge in better shape from a possible economic crash than any other country in the world.
-
-...
-
-[Data](articles/91af9626.json)
-
-[Extended Data](ext_articles/91af9626.ext.json)
-
----
-
-### 2024-03-11 (Monday)
-
-### No reprieve from Supreme Court: Online Safety Bill and Anti-Terrorism Bill
-
-*2024-03-11 23:58:51* · [`dailyftlk`](https://www.ft.lk/columns/No-reprieve-from-Supreme-Court-Online-Safety-Bill-and-Anti-Terrorism-Bill/4-759358) · `en`
-
-Analysis of Supreme Court determinations demonstrates many critical issues that adversely impact human rights were not addressed in its deliberations
-
-The Online Safety law and the Anti-Terrorism Bill are two important building blocks in the architecture of repressive laws the Government is constructing. Both were challenged in the Supreme Court, with the Supreme Court finding certain provisions of both unconstitutional. Stakeholders, such as opposition politicians, civic activists, tech companies and the United Nations called upon the Government to, at a minimum, incorporate the Court’s recommendations in the Online Safety Bill before it was enacted. The Government instead passed the law ignoring parliamentary procedure and failed to ensure compliance with Supreme Court determinations.
-
-...
-
-[Data](articles/953bf963.json)
-
-[Extended Data](ext_articles/953bf963.ext.json)
 
 ---

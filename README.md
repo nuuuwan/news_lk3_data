@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 02:49:53**
+As of **2024-03-13 03:02:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,508 (100.0%) of 12,513 articles have been extended.
+12,513 (100.0%) of 12,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### மாற்றுத்திறனாளியின் உயிரை குடித்த கனடா வீசா - தெல்லிப்பழையில் சம்பவம்!
+### Canada Visa - Tellippala
 
 *2024-03-13 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178574) · `ta`
 
-கால் நடக்க முடியாத மாற்றுத் திறனாளி ஒருவர் தவறான முடிவெடுத்து திங்கட்கிழமை (11) கிணற்றில் விழுந்து உயிரை மாய்த்துள்ளார். அக்குடுவன, கொல்லங்கலட்டி, தெல்லிப்பழை பகுதியைச் சேர்ந்த தனபாலசுப்பிரமணியம் சுஜீவன் (வயது 32) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+Dhanapalasubramaniam Sujeevan, 32, from Tellippalai, Canada, fell into a well and died on Monday. He had a tourist visa for Canada but chose to end his life. His body was found, examined, and handed over to relatives on Tuesday.
 
-குறித்த நபரின் சகோதரி ஒருவர் கனடாவில் வசித்து வருகிறார். இந்நிலையில் இறந்த நபருக்கும், அவரது தாயாருக்கும் கனடாவுக்கான சுற்றுலா விசா கிடைத்துள்ளது. ஆனால் குறித்த நபருக்குக் கனடா செல்வதில் விருப்பம் இருக்கவில்லை.
+🟩
 
-இந்நிலையில் அவர் தனது சக்கர நாற்காலியைக் கிணற்றுக்கு அருகே நிறுத்திவிட்டு கிணற்றில் பாய்ந்து தற்கொலை செய்துள்ளார். இந்நிலையில் அவரது சடலம் மீட்கப்பட்டு தெல்லிப்பழை வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டு, பின்னர் அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டது.
+A person who cannot afford to walk and falls into a well on Monday (11). The deceased is Dhanapalasubramaniam Sujeevan (age 32) from Akkuduwana, Kollangalatti and Tellippalai.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் செவ்வாய்க்கிழமை (12) உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+The sister of the person lives in Canada. In this case, the deceased person and his mother have received a tourist visa for Canada. But the person has no choice but to go to Canada.
+
+In this case, he parked his wheelchair near the well and jumped into the well and committed suicide. His body was recovered and taken to the Tellipallai Hospital and then taken to the Jaffna Teaching Hospital.
+
+A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives on Tuesday (12) after anatomical examination.
 
 ◼️
 
 [Data](articles/6f69b122.json)
+
+[Extended Data](ext_articles/6f69b122.ext.json)
 
 ---
 
@@ -66,6 +72,8 @@ Marikkar pointed out that despite Wickremesinghe’s extensive travels across th
 
 [Data](articles/0a20b4a3.json)
 
+[Extended Data](ext_articles/0a20b4a3.ext.json)
+
 ---
 
 ### Japanese grant worth Rs. 3.3 b to extend humanitarian aid amid economic woes
@@ -79,6 +87,8 @@ The funds are extended under the Japanese Economic and Social Development Progra
 ...
 
 [Data](articles/ba8a94bc.json)
+
+[Extended Data](ext_articles/ba8a94bc.ext.json)
 
 ---
 
@@ -98,21 +108,29 @@ Lure Foundation Founder Aisha Althaf penned a message to all Palestinian women, 
 
 [Data](articles/6a11bd7d.json)
 
+[Extended Data](ext_articles/6a11bd7d.ext.json)
+
 ---
 
-### வேட்டைக்குச் சென்றவர் பலி; ஒருவர் கைது!
+### The one who went hunting was killed;One arrested!
 
 *2024-03-13 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178573) · `ta`
 
-இந்தச் சம்பவம் செவ்வாய்க்கிழமை (12) மாலை ஓட்டமாவடி - மஜ்மா நகர் பகுதியில் வைத்து இடம்பெற்றுள்ளது.
+A 30-year-old man, Imtiaz, was killed during a hunt in Ottamavadi - Majma Nagar on Tuesday evening. His hunting partner was arrested by the Valaichenai police.
 
-நண்பர்கள் இருவர் வேட்டைக்கு சென்ற போது அவர்கள் பயன்படுத்திய வேட்டைத் துப்பாக்கி தவறுதலாக வெடித்ததில் இளைஞன் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணைகளின் போது தெரிய வந்துள்ளது.
+🟩
 
-இந்த சம்பவத்தில் ஓட்டமாவடி - நாவலடி பகுதியைச் சேர்ந்த 30 வயதுடைய இம்தியாஸ் எனும் இளைஞன் பலியாகியுள்ளதுடன், அவருடன் வேட்டைக்குச் சென்ற நபர் வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The incident took place on Tuesday evening (12) at Ottamavadi - Majma Nagar.
+
+Preliminary investigations by the police revealed that a young man had died when two friends went on a hunt.
+
+Imtiaz, a 30 -year -old young man from Ottamavadi - Nawaladi area, has been killed and a man who was hunting with him has been arrested by the Valaichenai police.
 
 ◼️
 
 [Data](articles/2b15c132.json)
+
+[Extended Data](ext_articles/2b15c132.ext.json)
 
 ---
 

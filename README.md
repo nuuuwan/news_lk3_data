@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 19:03:06**
+As of **2024-03-12 19:18:05**
 
 ## Newspaper Stats
 
-*Scraped **12,454** Articles*
+*Scraped **12,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ dailyftlk | 641
 economynextcom | 664
 islandlk | 677
 adalk | 1,065
-adaderanalk | 1,500
+adaderanalk | 1,501
 tamilmirrorlk | 1,513
-virakesarilk | 1,723
+virakesarilk | 1,724
 dailymirrorlk | 1,896
-adaderanasinhalalk | 1,965
+adaderanasinhalalk | 1,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,454 (100.0%) of 12,454 articles have been extended.
+12,454 (100.0%) of 12,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### දකුණේ පාතාලයේ වැරදුණු ඉලක්කය
+
+*2024-03-12 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194431) · `si`
+
+යුක්තිය මෙහෙයුම නව මුහුණුවරකින් ආරම්භ වී පැය 24ක් යෑමටත් මත්තෙන්, වෙඩි තබා ඝාතනය කිරීමේ සිද්ධි දෙකක් අම්බලන්ගොඩ හා පිටිගල යන ප්‍රදේශවලින් ඊයේ රාත්‍රියේ වාර්තාවුණි.
+
+එම වෙඩි තැබීම්වලින් පුද්ගලයන් සිව් දෙනකු මිය ගොස්, 6 දෙනෙකු තුවාල ලැබූ අතර පොලිසිය පවසන්නේ ඝාතනයවූවන් කිසිදු අපරාධ චෝදනාවකට ලක් නොවූ පුද්ගලයන් බවය.
+
+මේ අතර මල්වතුහිරිපිටිය භික්ෂුව ඝාතනයේ වෙඩික්කරු පොලිසිය සමඟ ඇති වූ වෙඩි හුවමාරුවකදී ජීවිතක්ෂයට පත්විය.
+
+අම්බලන්ගොඩ, ගලගොඩ, වෙලපාරේ පිහිටි වෙළෙඳසැලක් අසලදී ඊයේ රාත්‍රී 8.35ට පමණ වෙඩි තැබීමක් සිදුව තිබුණි.
+
+යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු T 56 වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇති බව පොලීසිය පැවසීය.
+
+වෙඩි ප්‍රහාරයෙන් පුද්ගලයන් දෙදෙනෙකු එම ස්ථානයේදීම මියගොස් තවත් තිදෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා බලපිටිය රෝහලට ඇතුළත් කර තිබේ.
+
+වෙඩි ප්‍රහාරයෙන් මියගොස් ඇත්තේ, හලඹ උදේශ් මධුරංග නෙහොත් පොඩි මැන්ඩිස් නැමැත්තෙක් සහ දඩල්ලගේ සිතුම් සංජන නම් අදාළ වෙළෙඳසැලේ හිමිකාර තරුණයාය.
+
+...
+
+[Data](articles/5e53b493.json)
+
+---
+
+### Dates announced for Grama Niladhari interviews; special notice for candidates
+
+*2024-03-12 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97901/dates-announced-for-grama-niladhari-interviews-special-notice-for-candidates) · `en`
+
+The interviews for the recruitment of candidates to the vacant Grama Niladhari officer positions will be held on the 13th, 14th and 15th of March 2024, the Ministry of Home Affairs announced.
+
+Issuing a statement, the ministry mentioned that the interviews will be carried out at the Home Affairs section of the ‘Nila Medura’ premises in Narahenpita.
+
+Furthermore, the candidates who qualified for the interviews, but have not received the letters for the interviews so far, can access the relevant information by referring to the list of names published under the special notices on the ministry’s official website - www.moha.gov.lk
+
+In addition, the ministry mentioned that the candidates can also obtain further details regarding the required documents through the same website.
+
+◼️
+
+[Data](articles/bfe5cfcf.json)
+
+---
 
 ### Chief Secretaries appointed to Northern and Wayamba Provinces
 
@@ -47,6 +89,22 @@ Their letters of appointment were handed over by the President's Secretary Saman
 [Data](articles/71aa178d.json)
 
 [Extended Data](ext_articles/71aa178d.ext.json)
+
+---
+
+### நாட்டில் இன ஐக்கியம் நிலவ வேண்டுமென்றால் அதிகாரங்கள் பரவலாக்கப்படல் வேண்டும் - கருணாகரம் எம்.பி
+
+*2024-03-12 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178558) · `ta`
+
+வெளிநாட்டமைச்சர் அலிசப்றி பல நாடுகளுக்குச் சென்று வருகின்றார். கடந்த பாராளுமன்றத்தில் அவர் ஆற்றிய உரையை நாங்கள் வரவேற்கின்றோம். சமஷ்டி அதிகாரப் பரவலாக்கல் நடைபெற்றால் நாடு பிளவுபடும் என்று கூறுபவர்கள் வெளிநாட்டமைச்சர் கூறியிருக்கும் தமிழர்கள் சமஷ்டியைக் கோருவதற்கு உரித்துடையவர்கள், தகுதியுடையவர்கள் என்பதனை உணர்வதுடன் அவரது உதாரணங்களையும் சீர்தூக்கிப் பார்க்க வேண்டும் என மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரம் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பில் அவரது அலுவலகத்தில் செவ்வாய்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்….
+
+உண்மையிலேயே ஒரு நிரந்தரமான அரசியல் தீர்வு இந்த நாட்டிற்குத் தேவையென்றால், இந்த நாடு பொருளாதாரரீதியாக முன்னேற்றமாக நகரவேண்டுமென்றால், சுபீட்சம் நிலவ வேண்டுமென்றால், இன ஐக்கியம் நிலவ வேண்டுமென்றால் பொலிஸ் அதிகாரம் உட்பட அதிகாரங்கள் பரவலாக்கப்படுவதற்கான வழிவகைகள் செய்யப்படல் வேண்டும்.
+
+...
+
+[Data](articles/d793b389.json)
 
 ---
 
@@ -2239,97 +2297,5 @@ But there was little to celebrate after five months of war that has killed over 
 [Data](articles/32c4365d.json)
 
 [Extended Data](ext_articles/32c4365d.ext.json)
-
----
-
-### Mukhamalai people have done the best act of refusing to take school students
-
-*2024-03-12 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178504) · `ta`
-
-Mukhamalai residents refuse to transport school students due to traffic issues, affecting their punctuality and stress. The community urges the Northern Province Governor to address traffic problems for a proper solution.
-
-🟩
-
-The people of the area have been sorry about the school students in the Mohamalai area in Kilinochchi.
-
-The issue has long been seen. They are worried that the school is unable to go on time and is sometimes not going to school.
-
-Following this, a parent stopped his motorcycle to the bus and loaded the students.
-
-The issue is found in more than 8 areas from Writing to Movement.
-
-As the schools of learning start at 7.30, the students face various problems due to the goal and the validity of the students.
-
-Students are under stress and are forced to be interested in education and are unable to receive full education.
-
-To encourage students' education and co -operation, all parties have the responsibility to repair the traffic of the area.
-
-The people of the area are urging the Governor of the Northern Province to directly intervene in this regard and take steps to provide a proper solution.
-
-◼️
-
-[Data](articles/ea8d979b.json)
-
-[Extended Data](ext_articles/ea8d979b.ext.json)
-
----
-
-### Earthquake Felt
-
-*2024-03-12 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178509) · `ta`
-
-A Latam flight from Sydney to Auckland experienced a technical failure, causing passengers to feel an earthquake. The plane, carrying 263, landed in New Zealand with 50 injuries. Investigations are ongoing.
-
-🟩
-
-Travelers who reported the situation inside the plane were felt as an earthquake, following the technical failure of a Latam flight from Sydney to Avukland.
-
-Airline surveillance data revealed that Latam Airlines, who departed with 263 passengers and nine passengers on Monday, towards New Zealand's Augland, was shocked between their three and a half hours.
-
-Latam Airlines investigations are due to investigations.
-
-Travelers said the pilot was in a state of shock when the plane landed in New Zealand.
-
-Travelers said the ability to pay the aircraft had been affected for a while.
-
-A new passenger from New Zealand said the plane began to fall down a few minutes after lunch.
-
-He said that it was held in one second and started shaking fast.
-
-Elvood said the pilots were traveling quietly.
-
-Elwood said that the most painful experience was the passengers and the flight attendants were injured.
-
-More than 50 people were injured in a plane that was traveling from Australia's Sydney to New Zealand's Augland.
-
-...
-
-[Data](articles/d3a2f91a.json)
-
-[Extended Data](ext_articles/d3a2f91a.ext.json)
-
----
-
-### The first test of the missile manufactured in India
-
-*2024-03-12 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178502) · `ta`
-
-India's first MIRV missile, Agni-5, tested successfully. It's a significant achievement under the Mission Divyastra Program, showcasing India's advancements in missile technology. Agni-5, with a range of up to 5000 km, significantly extends India's reach, potentially impacting the northern part of China.
-
-🟩
-
-MIRV, which strikes multiple targets simultaneously with various ammunition on the same missile. The first test of the Agni-5 missile, which was developed with technology, was carried out on Monday (11).
-
-In his record, he said that under the Mission Divyastra Program, I am proud of the Safety Research and Development Scientists who successfully conducted the first test of the Agni-5 missile, which was produced at home with MIRV technology.
-
-Missiles from Agni 1 to 4 are capable of attacking 700 km to 3,500 km. Agni-5 can go up to 5000 kilometers.
-
-This will bring the entire Asia into the northern part of China.
-
-◼️
-
-[Data](articles/c895c07f.json)
-
-[Extended Data](ext_articles/c895c07f.ext.json)
 
 ---

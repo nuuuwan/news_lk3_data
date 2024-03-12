@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 10:51:27**
+As of **2024-03-12 11:02:45**
 
 ## Newspaper Stats
 
-*Scraped **12,325** Articles*
+*Scraped **12,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
 islandlk | 677
-adalk | 1,049
+adalk | 1,050
 adaderanalk | 1,488
-tamilmirrorlk | 1,500
-virakesarilk | 1,693
+tamilmirrorlk | 1,503
+virakesarilk | 1,694
 dailymirrorlk | 1,880
 adaderanasinhalalk | 1,946
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 1,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,324 (100.0%) of 12,325 articles have been extended.
+12,325 (100.0%) of 12,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### முன்னேற்றம் இல்லையென்றால் 6000 ஊழியர்களின் தொழில் சிக்கலாகும்
+
+*2024-03-12 10:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-இல்லையென்றால்-6000-ஊழியர்களின்-தொழில்-சிக்கலாகும்/175-334546) · `ta`
+
+ஸ்ரீலங்கன் எயார்லைன்ஸ் தனது செயற்பாட்டு மற்றும் நிதிப் பிரிவுகளின் முன்னேற்றத்தை அடுத்த ஆறு மாதங்களுக்குள் காட்ட முடியாவிட்டால் சுமார் 6,000 ஊழியர்களின் வேலைகள் நிச்சயமற்றதாக இருக்கும் என கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+
+விமான சேவையின் தற்போதைய முன்னேற்றம் குறித்த கலந்துரையாடல் இன்று காலை அவரது அலுவலகத்தில் நிறுவன நிர்வாகம் மற்றும் தொழிற்சங்கங்களுடன் நடைபெற்றது.
+
+ஸ்ரீலங்கா எயார்லைன்ஸ் அவ்வப்போது தனது செயற்பாடுகளில் தொடர்ச்சியான தாமதங்கள் காரணமாக குற்றம் சுமத்தப்பட்டதுடன் கடுமையான விமர்சனங்களுக்கு உள்ளானது. இந்த தாமதம் சமீபகாலமாக பயணிகளுக்கு எரிச்சலையும், சிரமத்தையும் ஏற்படுத்தியது.
+
+விமான சேவையை தொடர்ந்தும் நடத்துவதற்கு பல வர்த்தக வங்கிகள் மற்றும் ஏனைய நிறுவனங்களிடமிருந்து கடனாகப் பெற்ற 1.2 பில்லியன் அமெரிக்க டொலர்களில் 510 மில்லியன் அமெரிக்க டொலர்களை மீளச் செலுத்த அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் டி சில்வா தெரிவித்தார்.
+
+...
+
+[Data](articles/6edba58a.json)
+
+---
+
+### மீள் ஏற்றுமதி செய்வதற்கான வர்த்தமானி இடைநிறுத்தம்
+
+*2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-செய்வதற்கான-வர்த்தமானி-இடைநிறுத்தம்/175-334545) · `ta`
+
+மிளகு உட்பட பல வகையான வாசனைப் பொருட்களை மீள் ஏற்றுமதிக்காக இறக்குமதி செய்வதற்கு அண்மையில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலை இடைநிறுத்துவதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+
+இலங்கையில் விளையும் மிளகு, சாதிக்காய், மஞ்சள், இஞ்சி, ஏலக்காய் போன்ற சில வாசனைப் பொருட்களை மீள் ஏற்றுமதி செய்வதற்காக இறக்குமதி செய்வதற்கு அரசாங்கம் வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
+
+நேற்றைய அமைச்சரவை கூட்டத்தை தொடர்ந்து விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர இது தொடர்பான வர்த்தமானி அறிவித்தல் தொடர்பில் தனது எதிர்ப்பை வெளியிட்டார்.
+
+மீள் ஏற்றுமதிக்காக இந்த வாசனைப் பொருட்களை இறக்குமதி செய்ய அனுமதிப்பதன் மூலம், உள்ளூர் விவசாயிகள் ஊக்கமிழப்பதாகவும், அதனால் உள்ளூர் வாசனைப் பொருட்களின் பயிர்செய்கை வீழ்ச்சியடைந்து வருவதாகவும் அவர் சுட்டிக்காட்டினார். அத்துடன், தற்போது உலகின் சிறந்த வாசனைப் பொருட்களில் முதலிடத்தில் உள்ள இலங்கையின் வாசனைப் பொருட்களின் தரத்தில் இது வலுவான தாக்கத்தை ஏற்படுத்தும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/d68d8ff7.json)
+
+---
+
+### 69 இலட்சம் வாக்குகளைப்பெற்ற ஆட்சியாளனை சிறு கல்லைக்கூட கையில் எடுக்காமல் விரட்டியடித்த மக்கள் - அநுரகுமார திஸாநாயக்க
+
+*2024-03-12 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178499) · `ta`
+
+இலங்கையின் அண்மைக்கால வரலாற்றில் ஓர் அரசியல் மாற்றத்திற்கான கட்டம்  மலர்ந்துள்ளது.  அதனால் ஆளுங் குழுவினர் பொதுத் தேர்தலை நடாத்துவதா ஜனாதிபதி தேர்தலை நடாத்துவதா என்ற தடுமாற்றத்தில் இருக்கிறார்கள் என தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் கொழும்பு மாவட்ட மகளிர் மாநாடு அண்மையில் ஹோமாகமையில் இடம்பெற்றது.
+
+இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+இலங்கையின் அண்மைக்கால வரலாற்றில் ஓர் அரசியல் மாற்றத்திற்கான கட்டம்  மலர்ந்துள்ளது.  அதனால் ஆளுங் குழுவினர் பொதுத் தேர்தலை நடாத்துவதா ஜனாதிபதி தேர்தலை நடாத்துவதா என்ற தடுமாற்றத்தில் இருக்கிறார்கள். ரணில் விக்கிரமசிங்க ஜனாதிபதி தேர்தலை நடாத்தவே நினைக்கிறார்.
+
+பொதுத் தேர்தலை நடாத்துவதாயின் வேட்பாளர்களை தேடிக்கொள்ளவும் அவரால் முடியாது. ராஜபக்ஷாக்களுக்கு ஜனாதிபதி தேர்தலுக்காக குடும்பத்திலிருந்து வேட்பாளரொருவரைத் தேடிக்கொள்ள இயலாதென்பதால் பொதுத்தேர்தலை முதலில் நடாத்தினால் நல்லதென ராஜபக்ஷாக்கள் நினைக்கிறார்கள்.
+
+...
+
+[Data](articles/aa1d34b8.json)
+
+---
+
+### 92% “அணையடை ஆடை” களுக்கு வரி இல்லை
+
+*2024-03-12 10:36:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-அணையடை-ஆடை-களுக்கு-வரி-இல்லை/175-334544) · `ta`
+
+இந்த நாட்டிற்குத் தேவையான மொத்த சுகாதார நப்கின்களில்  “அணையடை ஆடை” 92 வீதமானவை எமது நாட்டிலேயே உற்பத்தி செய்யப்படுவதாகவும், அவற்றிற்கு வரி அறவிடப்படுவதில்லை எனவும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+தல்துவ பிரதேசத்தில் நடைபெற்ற நிகழ்ச்சி ஒன்றில் கலந்து கொண்டு உரையாற்றும் போதே, இறக்குமதி செய்யப்படும் பொருட்களில் எஞ்சிய 8% பொருட்களை உற்பத்திப் பொருட்களாக ஒரு நிறுவனம் இலங்கைக்கு கொண்டுவருவதாகவும், அதற்கு 22.5% வரியே அறவிடப்படுவதாகவும் அவர் சுட்டிக்காட்டினார்.
+
+உள்ளூர் உற்பத்தியாளரைப் பாதுகாக்கும் நோக்கத்திற்காகவே அந்த வரித் தொகை அறவிடப்படுவதாக அமைச்சர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c1a7c8d2.json)
+
+---
+
+### 40.9 acres of land released in Kilinochchi district
+
+*2024-03-12 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178495) · `ta`
+
+In Kilinochchi, 40.9 acres land released by soldiers. Available through state departments, private institutions, or public contacting Divisional Secretariats.
+
+🟩
+
+District Additional Government President S. Muralitharan said that 40.9 acres of land in the Kilinochchi district has been released.
+
+40.9 acres of land has been released by the soldiers in 3 Divisional Secretariat Divisions in Kilinochchi district.
+
+He said that the lands can be obtained by contacting the state departments and private institutions or the public by contacting the Divisional Secretariats.
+
+◼️
+
+[Data](articles/a811e6cb.json)
+
+[Extended Data](ext_articles/a811e6cb.ext.json)
+
+---
 
 ### DIG of Police Special Branch gets promotion
 
@@ -49,28 +143,6 @@ SDIG Dhanapala is currently in-charge of the Special Branch Range.
 [Data](articles/44cc4130.json)
 
 [Extended Data](ext_articles/44cc4130.ext.json)
-
----
-
-### 40.9 acres of land released in Kilinochchi district
-
-*2024-03-12 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178495) · `ta`
-
-In Kilinochchi, 40.9 acres land released by soldiers. Available through state departments, private institutions, or public contacting Divisional Secretariats.
-
-🟩
-
-District Additional Government President S. Muralitharan said that 40.9 acres of land in the Kilinochchi district has been released.
-
-40.9 acres of land has been released by the soldiers in 3 Divisional Secretariat Divisions in Kilinochchi district.
-
-He said that the lands can be obtained by contacting the state departments and private institutions or the public by contacting the Divisional Secretariats.
-
-◼️
-
-[Data](articles/a811e6cb.json)
-
-[Extended Data](ext_articles/a811e6cb.ext.json)
 
 ---
 
@@ -128,6 +200,20 @@ In this case, the health workers at the hospital informed the doctor by telephon
 
 ---
 
+### කොටියා කියා දිවියා මරයි
+
+*2024-03-12 10:02:15* · [`adalk`](https://www.ada.lk/breaking_news/කොටියා-කියා-දිවියා-මරයි/11-408553) · `si`
+
+විවිධ මිනිස් ක්‍රියාකාරකම් හේතුවෙන් මරණයට පත්වන හඳුන් දිවියන්ගේ මරණවලින් සියයට අසුවක් පමණ වාර්තා නොවෙමින් පවතින බව පිරිසරවේදීහු සඳහන් කරති. උඩරට වතුකරය ආශ්‍රිත මිනිස් ක්‍රියාකාරම් හේතුවෙන් හා රථ වාහනවලට හසුව මරණයට පත්වන හඳුන් දිවියන්ගේ සිරුරු කොටියාට සාපේක්ෂව විශාල නොවීම නිසා හොර රහසේ ඉවත් කිරීමට බොහෝ පිරිස් කටයුතු කරන බවත්, උඩරට මාර්ග කාපට් අතුරා සංවර්ධනය කිරීමෙන් පසු රථවාහනවලට හසුව මරණයට පත්වන හඳුන් දිවියන්ගේ මරණ ප්‍රමාණය ගොස් ඇති බවද පරිසරවේදීහු කියති.
+
+ඇතැම් පිරිස් හඳුන් දිවියන්, කඳුකර කොටියන්ගේ පැටවුන් යයි සිතා වැරදි මතයක එල්ඹගෙන සිටීම හේතුවෙන් ඔවුන්ගේ ජීවිතවලට එල්ල වී ඇති තර්ජන ඉහළ ගොස් ඇති බවත්, කඳුකරයේ ඔවුන්ගේ වාසස්ථාන ක්‍රමයෙන් අඩුවීම හේතුවෙන් ඔවුන් මෙසේ නිරත්තරයෙන් ආහාර සොයා ගැනීමට මිනිස් වෙසෙන ප්‍රදේශවලට බහුලව පැමිණීම හේතුවෙන් ජීවිතවලට තර්ඡන එල්ලවී ඇතැයිද පරිසරවේදීහු වැඩිදුරටත් පවසති.
+
+◼️
+
+[Data](articles/1e5e7728.json)
+
+---
+
 ### Facebook owner is severely charged from Trump
 
 *2024-03-12 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194410) · `si`
@@ -151,6 +237,32 @@ US President Jooring Jooring has said that if the law of the Ticktock parent com
 [Data](articles/bff66d25.json)
 
 [Extended Data](ext_articles/bff66d25.ext.json)
+
+---
+
+### Interested in donating and investing for the welfare of the people of the Southern Province - Indian High Commissioner
+
+*2024-03-12 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178484) · `ta`
+
+Indian High Commissioner Santosh Ja visited the Southern Province, expressing interest in donating and investing for welfare projects. He met Governor Willy Kamage, discussed Indian government initiatives, and visited Galle, Matara, and Hambantota districts. The High Commissioner also paid tribute to Ravindranath Tahur in the Rukuna University auditorium, built with Indian donations. The Government of India is implementing housing schemes in Galle, Matara, and Hambantota, with the High Commissioner visiting to assess progress.
+
+🟩
+
+Indian High Commissioner Santosh Ja said that he is eager to carry out more projects through donation and investments for the welfare of the people in the Southern Province.
+
+Indian High Commissioner Santosh Ja, who recently visited the Southern Provincial Council, met the provincial governor Willy Kamage and made the above statement about the many plans of the Indian government in the region.
+
+Indian High Commissioner Santosh Ja is the first Indian High Commissioner to make a perfect visit to the Southern Province by visiting the Galle, Matara and Hambantota districts from 6th to 7th of this month.
+
+As part of the visit, the High Commissioner met on March 6, 2024, the provincial governor, Wiley Kamage, and explained the many projects taken by the Government of India in the region.
+
+The High Commissioner also expressed its willingness to carry out more projects through donation assistance and investments for the benefit of the people in the province.
+
+...
+
+[Data](articles/d97cd844.json)
+
+[Extended Data](ext_articles/d97cd844.ext.json)
 
 ---
 
@@ -259,32 +371,6 @@ Two police officers in the vehicle suffered minor injuries. However, it is repor
 [Data](articles/ef1a0910.json)
 
 [Extended Data](ext_articles/ef1a0910.ext.json)
-
----
-
-### Interested in donating and investing for the welfare of the people of the Southern Province - Indian High Commissioner
-
-*2024-03-12 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178484) · `ta`
-
-Indian High Commissioner Santosh Ja visited the Southern Province, expressing interest in donating and investing for welfare projects. He met Governor Willy Kamage, discussed Indian government initiatives, and visited Galle, Matara, and Hambantota districts. The High Commissioner also paid tribute to Ravindranath Tahur in the Rukuna University auditorium, built with Indian donations. The Government of India is implementing housing schemes in Galle, Matara, and Hambantota, with the High Commissioner visiting to assess progress.
-
-🟩
-
-Indian High Commissioner Santosh Ja said that he is eager to carry out more projects through donation and investments for the welfare of the people in the Southern Province.
-
-Indian High Commissioner Santosh Ja, who recently visited the Southern Provincial Council, met the provincial governor Willy Kamage and made the above statement about the many plans of the Indian government in the region.
-
-Indian High Commissioner Santosh Ja is the first Indian High Commissioner to make a perfect visit to the Southern Province by visiting the Galle, Matara and Hambantota districts from 6th to 7th of this month.
-
-As part of the visit, the High Commissioner met on March 6, 2024, the provincial governor, Wiley Kamage, and explained the many projects taken by the Government of India in the region.
-
-The High Commissioner also expressed its willingness to carry out more projects through donation assistance and investments for the benefit of the people in the province.
-
-...
-
-[Data](articles/d97cd844.json)
-
-[Extended Data](ext_articles/d97cd844.ext.json)
 
 ---
 
@@ -418,27 +504,33 @@ The protests are planned to be staged in front of selected state hospitals start
 
 ---
 
-### දකුණේ වෙඩි තැබීම් දෙකකින් දෙදෙනෙක් මරුට
+### Two killed in two shooting in South
 
 *2024-03-12 08:47:28* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-වෙඩි-තැබීම්-දෙකකින්-දෙදෙනෙක්-මරුට/11-408552) · `si`
 
-පිටිගල හොරන්ගල්ල වෙළදසැලක් ඉදිරි පිට ඊයේ (11) රෑ සිදුවූ වෙඩි තැබීමකින් එක් අයෙක් මරුමුවට පත්වී තවත් දෙදෙනෙක් තුවාල ලබා රෝහල් ගත කළ බව පිටිගල පොලීසිය කියයි.
+Two shootings in South: 1 in Pitigala Horangalle, 1 in Galagoda market road, Ambalangoda. Two victims killed, two injured, suspects fled on motorbike.
 
-මෙසේ වෙඩි වැදී මරුමුවට පත්වී ඇත්තේ සහ තුවාල ලබා ඇත්තේ පිටිගල හොරන්ගල්ලේම පදිංචි අය  බවද පොලීසිය කියයි.
+🟩
 
-යතුරු පැදියකින් පැමිණි නාදුනන් තුවක්කුකරුවන් දෙදෙනෙකු වෙඩි තබා පලා ගොස් ඇති බව ද පොලීසිය කියයි.
+One person was killed in a shooting at Pitigala Hornugalle shooting yesterday (11), police said.
 
-මේ අතර අම්බලන්ගොඩ ගලගොඩ වෙළ පාර ප්‍රදේශයේ ඊයේ රාත්‍රී සිදුවූ තවත් වෙඩි තැබීමකි
+The victims were shot dead and injured in the Pitigala Horangalle.
 
-මෙසේ වෙඩි වැදී මිය ගොස් ඇත්තේ හා තුවාල ලබා ඇත්තේ අම්බලන්ගොඩ මාදම්පේ ගලගොඩ ප්‍රදේශයේම පදිංචි දෙදෙනෙකු බව ද පොලීසිය කියයි.
+Two Nutunne gunmen with a motorbike have fled the police, police said.
 
-යතුරු පැදියකින් පැමිණි නාදුනන තුවක්කුකරුවන් දෙදෙනෙක් මේ වෙඩි තැබීම සිදුකර පලා ගොස් ඇති බව ද පොලීසිය කියයි.
+Meanwhile, another shooting was held in Galagoda market road in Galagoda market road, Ambalangoda last night
 
-වෙඩි වැදී තුවාල ලැබු තැනැත්තාගේ තත්ත්වය ඉතා බරපතල බව බලපිටිය රෝහල් ආරංචි මාර්ග කියයි. අම්බලන්ගොඩ පොලීසිය වැඩිදුර පරීක්ෂණ් පවත්වයි.
+The deceased has been shot dead, police said.
+
+Two unidentified gunmen had fled the shooting with a motorcycle.
+
+Sources from Balapitiya Hospital sources say that the condition of the injured was serious. The Ambalangoda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/8c2ba1dc.json)
+
+[Extended Data](ext_articles/8c2ba1dc.ext.json)
 
 ---
 
@@ -2059,127 +2151,5 @@ Three others were injured due to shooting, police said.
 [Data](articles/9af925bd.json)
 
 [Extended Data](ext_articles/9af925bd.ext.json)
-
----
-
-### Excise seize liquor bottles with forged security stickers in multiple North–East raids
-
-*2024-03-11 20:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Excise-seize-liquor-bottles-with-forged-security-stickers-in-multiple-NorthEast-raids/108-278638) · `en`
-
-Colombo, March 11 (Daily Mirror) - In a series of multiple snap raids carried out over the weekend, the Department of Excise has seized a large stock of local liquor bottles with forged security stickers from Northern, North Central and Eastern Provinces.
-
-According to department sources, the series of snap raids had been conducted by special Excise teams that were deployed from other areas of the country and led by four Assistant Excise Commissioners.
-
-A number of wine stores and bars selling these stocks of local liquor with forged revenue stickers affixed were found in the areas of Jaffna, Mannar, Valaichchenai and Trincomalee.
-
-Several thousand bottles of alcoholic beverages, especially arrack, belonging to a range of local liquor manufacturing companies were seized during the raids and had been handed over to the respective Excise stations in the areas.
-
-...
-
-[Data](articles/2b0cfc61.json)
-
-[Extended Data](ext_articles/2b0cfc61.ext.json)
-
----
-
-### Kandy Cricket Stars
-
-*2024-03-11 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194395) · `si`
-
-In the Legends Cricket Trophy, KSA and CLIONS face off at Pallekele Stadium. CLIONS leads, with Chris Gayle participating. KSA scored 141/6, led by Upul Tharanga, Yusuf Pathan, Finch, and Kevin O'Brien. CLIONS' Ross Taylor and Jesse Ryder are their key players.
-
-🟩
-
-Another super-competition in the Legends Cricket Tropy series at the Pallekele Stadium in the Pallekele Stadium in the Pallekele Stadium is now between KSA team and CLIONS.
-
-The CLIONS team is responsible for the leadership team of the event.
-
-Former GPP cricketer Chris Gayle for the match today is a participation.
-
-The KSA team who batches first in the competition is attacking 141 runs for the loss of 6 wickets.
-
-The KSA team is responsible for the leadership of the KSA and the former super cricket stars, Upul Tharanga, Yusuf Pathan, Finch, Kevin O Bryan play today.
-
-Representing the CLIONS team ROSS TAYLOR and JESSE RYDER are partnering.
-
-◼️
-
-[Data](articles/5a4e2636.json)
-
-[Extended Data](ext_articles/5a4e2636.ext.json)
-
----
-
-### The government's choice is to work with IMF - the president
-
-*2024-03-11 20:22:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-உடன்-இணைந்து-செயற்படுவதே-அரசாங்கத்தின்-விருப்பம்-ஜனாதிபதி/175-334519) · `ta`
-
-The government plans to work with the IMF, with President Ranil Wickremesinghe emphasizing transparency. A meeting with opposition leaders, including MP M.A. Sumanthiran, discussed IMF proposals. The government aims to share data analysis reports with the TNA and parliament. Treasury Secretary Mahinda Siriwardena outlined negotiations with credit providers, expected to conclude by June, while the Central Bank Governor highlighted adherence to IMF governance recommendations.
-
-🟩
-
-We will let the opposition leaders know about the proposals of the International Monetary Fund. President Ranil Wickremesinghe said the government's aim was to implement all measures with transparency.
-
-A meeting of opposition leaders, who was called by President Ranil Wickremesinghe to discuss the proposals of the International Monetary Fund, was held today (11) at the Presidential Office headed by President Ranil Wickremesinghe.
-
-The Tamil National Alliance (TNA) Member of Parliament. A.. Sumanthiran was also present and the government's commitment to the government's commitment to all sides in a discussion with the International Monetary Fund was emphasized.
-
-Member of Parliament M.. A.. Sumanthiran stressed.
-
-President Ranil Wickremesinghe said the government's aim was to carry out all these activities transparency and said that the data analysis reports related to it would be given to the Tamil National Alliance (TNA) and parliament.
-
-...
-
-[Data](articles/b4487964.json)
-
-[Extended Data](ext_articles/b4487964.ext.json)
-
----
-
-### Requests in charge of flowers in front of Keheliya's house
-
-*2024-03-11 20:20:49* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නිවස-ඉදිරිපිට-මල්වඩමක්-තැබීමට-අදාළව-චෝදනා-ගැන-වාර්තාවක්-ඉල්ලයි/11-408550) · `si`
-
-Chief Magistrate Prasanna Alwis dismissed charges against Cinnamon Gardens Police for not intimidating, causing harm, or insulting Minister Keheliya Rambukwella's daughter Hirunika Rambukwella. The complaint was lodged by Dr. Chamal Sanjaya, Chairman of Medical and Civil Rights, against the President's residence. President's Counsel Maithree Gunaratne defended the right to express objections under the Constitution, arguing against the suppression of basic human rights by the Penal Code. The police were ordered to recall the complaint on June 10.
-
-🟩
-
-Colombo Chief Magistrate Prasanna Alwis prescribed the Cinnamon Gardens Police today (11).
-
-After considering the accused of the accused, the chief magistrate was appointed to the police after considering the case that the case had not been made to carry out the case.
-
-The magistrate states that the suspect has not made sufficient criminal intimidation, misery or insulted.
-
-Minister Keheliya Rambukwella's complaint lodged a complaint lodged by the daughter of Hirunika Rambukwella by Hirunika Rambukwella.
-
-Minister Keheliya Rambukwella's daughter Hirunika Rambukwella has lodged a complaint with doctors' trade union alliances, Chamal Sanjaya, Chairman of the Medical and Civil Rights, the official residence of his father, the President of the country.In front of the wreaths in front of the criminal intimidation and insulting, Dr. Chamal Sanjaya appeared in the excess of being bailed to the incident.
-
-...
-
-[Data](articles/388c5a10.json)
-
-[Extended Data](ext_articles/388c5a10.ext.json)
-
----
-
-### Tamils can be deeply educated by Tamils - Jupiter
-
-*2024-03-11 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178468) · `ta`
-
-Tamils, despite being a minority, are deeply educated and can significantly impact Sri Lanka's education and economy. They are recognized for their contributions, including leading in the Science Division. Education is key to their identity and success, with notable figures like the Prime Minister and President having been educated by Tamils.
-
-🟩
-
-We identify us as minority communities in this country. It is only in number but the majority of the Sinhalese people can be said. Asked who we are Tamils, we are the representatives of the destroyed society and the disappeared community.
-
-Batticaloa District Periyakallar Olympia Sports Corporation. He said this while commenting. He further stated that…
-
-Although we are minorities in number, Tamils can deep this whole country with education. This country will listen to what we say. This country will look back on us. If so, we have to pay more attention to the two fields of economics and education. We need to raise our society for the peak that no one can touch in both fields. If you grow up, this whole country will listen to what we say. Everyone should sing for that.
-
-...
-
-[Data](articles/b86086d0.json)
-
-[Extended Data](ext_articles/b86086d0.ext.json)
 
 ---

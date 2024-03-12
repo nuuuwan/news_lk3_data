@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 14:18:08**
+As of **2024-03-12 14:33:19**
 
 ## Newspaper Stats
 
-*Scraped **12,379** Articles*
+*Scraped **12,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 647
 islandlk | 677
-adalk | 1,052
+adalk | 1,054
 adaderanalk | 1,494
 tamilmirrorlk | 1,510
 virakesarilk | 1,707
@@ -26,11 +26,33 @@ adaderanasinhalalk | 1,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,379 (100.0%) of 12,379 articles have been extended.
+12,379 (100.0%) of 12,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### කතකගේ දෑත් දෙපා ගැට ගසා රන් භාණ්ඩ කොල්ලකෑ මෙහෙකාරිය අත්අඩංගුවට
+
+*2024-03-12 14:15:42* · [`adalk`](https://www.ada.lk/breaking_news/කතකගේ-දෑත්-දෙපා-ගැට-ගසා-රන්-භාණ්ඩ-කොල්ලකෑ-මෙහෙකාරිය-අත්අඩංගුවට/11-408560) · `si`
+
+පානදුර ප්‍රදේශයේ ව්‍යාපාරික කාන්තාවකගේ මිත්තණියගේ දෑත් දෙපා රෙදි පටි වලින් ගැටගසා රුපියල් ලක්ෂ පහක් පමණ වටිනා රන් භාණ්ඩ කොල්ලකා පලාගිය නිවසේ මෙහෙකාරිය  අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ මාතර,  කඹුරුපිටිය ප්‍රදේශයේ පදිංචි 65 හැවිරිදි කාන්තාවක බව පොලිසිය කීය.
+
+පානදුර බෙක්කේගම ප්‍රදේශයේ පදිංචි ව්‍යාපාරික කාන්තාවක විසින් කල පැමිණිල්ලකට අනුව සැකකාරිය අත්අඩංගුවට ගත්බව වැටලීමට එක්වූ නිලධාරියෙක් කීය.
+
+ස්වාමි දියණිය සහ ඇයගේ ස්වාමිපුරුෂයා නිවසේ නොමැති අතරේ ඇයගේ මිත්තණියගේ  දෑත් දෙපාරේ රෙදි පටිවලින් ගැට ගසා රුපියල් ලක්ෂ පහක් පමණ වටිනා රන් භාණ්ඩ කොල්ලකා සැකකාරිය පළාගොස් තිබූ බව පොලිසිය සඳහන් කරයි.
+
+ඒ අනුව ඇය පදිංචි මාතර කඹුරුපිටිය  පරීක්ෂා කිරීම් සිදුකර ලබාගත් තොරතුරු මත ගම්පහ ප්‍රදේශයේ තවත් නිවසක මෙහෙකාර සේවයේ යෙදී සිටියදී අත්අඩංගුවට ගත්බව උසස් පොලිස් නිලධාරියෙක් කීය.
+
+සැකකාරිය විසින් සොරකම් කරන ලද රන් භාණ්ඩ සම්බන්ධයෙන් විමර්ශන සිදු කරන බවත්,ඒවා ඉදිරි දින කිහිපයේදී සොයාගත හැකි වන බවත් පොලිසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/1df61ca9.json)
+
+---
 
 ### 21 murders for 72 days
 
@@ -331,6 +353,24 @@ The case is currently being heard in the Vavuniya District Court and the lawyer 
 [Data](articles/2c15031c.json)
 
 [Extended Data](ext_articles/2c15031c.ext.json)
+
+---
+
+### ඉංග්‍රීසි මාධ්‍ය පාසල් 1000 ක් කරයි
+
+*2024-03-12 12:52:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉංග්‍රීසි-මාධ්‍ය-පාසල්-1000-ක්-කරයි/11-408556) · `si`
+
+ආර්ථික පරිවර්තනයේ අත්‍යවශ්‍ය අංගයක් ලෙස සලකා රජය විසින් සකස් කරන ලද ජාතික අධ්‍යාපන ප්‍රතිපත්ති රාමුව ක්‍රියාත්මක කිරීම අධීක්ෂණය සඳහා පත් කරන ලද අමාත්‍ය මණ්ඩල කමිටුව ඊයේ (11) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේ දී රැස් විය.
+
+2000 වර්ෂයේ සිට පාසල්වල ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් 08ක් ඉගැන්වීම ආරම්භ කරන ලද නමුත් එදින සිට මේ වන විට වසර 24ක් ගතවී ඇතත් ඉංග්‍රීසි මාධ්‍යයෙන් විෂයයන් ඉගැන්වීම සිදුවනුයේ පාසල් 765ක පමණි.
+
+ඉංග්‍රීසි මාධ්‍යයෙන් අධ්‍යාපනය ලබා ගැනීම සඳහා විශාල ඉල්ලුමක් සමාජයේ පවතින බැවින් ඊයේ පැවති ජාතික අධ්‍යාපන ප්‍රතිපත්තිය පිළිබඳ අමාත්‍ය මණ්ඩල අනුකමිටු රැස්වීමේදී මෙම පාසල් සංඛ්‍යාව 1,000 දක්වා වැඩි කරන ලෙස දැනුම් දෙන ලදී. එමඟින් 2025 වසර වන විට අවම වශයෙන් සිසුන් 200,000ක් සඳහා ඉංග්‍රීසි භාෂාවෙන් අධ්‍යාපනය ලබා ගැනීමට පහසුකම් සැලසෙනු ඇත.
+
+අදාල අමාත්‍ය මණ්ඩල කමිටුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්ජයන්ත යන මහත්වරුන් ඇතුළු අමාත්‍යවරු 08 දෙනෙකුගෙන් සමන්විතය.
+
+◼️
+
+[Data](articles/1154cf8f.json)
 
 ---
 
@@ -2293,47 +2333,5 @@ Presidential hopeful and former Chairman of the Public Utilities Commission of S
 [Data](articles/e1456292.json)
 
 [Extended Data](ext_articles/e1456292.ext.json)
-
----
-
-### UNP inaugural rally aimed at targeting SJB: Sujeewa
-
-*2024-03-12 01:53:30* · [`dailyftlk`](https://www.ft.lk/news/UNP-inaugural-rally-aimed-at-targeting-SJB-Sujeewa/56-759383) · `en`
-
-SJB member Sujeewa Senasinghe says President criticised SJB throughout his speech at recent UNP rally
-
-Claims evident that SJB has emerged as a significant challenge to Wickremesinghe
-
-Notes President’s speech bordered on being hateful, particularly comments directed at G.L. Peiris
-
-Says SJB does not perceive Wickremesinghe as a contender at upcoming Presidential polls
-
-Samagi Jana Balawegaya (SJB) member and former MP Sujeewa Senasinghe yesterday claimed that the primary objective of the rival United National Party’s inaugural rally was to target the SJB.
-
-Addressing a press conference in Colombo, Senasinghe remarked that President Ranil Wickremesinghe, who also serves as the leader of the UNP, directed criticism towards the SJB throughout his speech at the rally. Senasinghe noted that some of the comments made were unusual and not typical of Wickremesinghe’s style.
-
-...
-
-[Data](articles/5bf7b856.json)
-
-[Extended Data](ext_articles/5bf7b856.ext.json)
-
----
-
-### Harak Kata remanded till 26 April
-
-*2024-03-12 01:51:56* · [`dailyftlk`](https://www.ft.lk/news/Harak-Kata-remanded-till-26-April/56-759382) · `en`
-
-Notorious Criminal figure Nadun Chintaka alias “Harak Kata” and another Police Constable who allegedly aided and abetted “Harak Kata” to escape from the CID custody on 10 September 2023 were remanded till 26 April by Colombo High Court yesterday.
-
-Nadun Chinthaka and the Constable who aided Nadun Chinthakin in his escape bid were produced before High Court Judge Damith Totawatte from the CID custody under heavy STF and Police guard to face the charges levied against them over the attempted bid.
-
-At the onset of the inquiry before the High Court inquiry, the State Counsel who appeared for the prosecution filed the indictment against three suspects including Harak Kata. Thereafter Court Mudliar read over the charges to the two accused that were produced in court.
-
-...
-
-[Data](articles/9ffafb5a.json)
-
-[Extended Data](ext_articles/9ffafb5a.ext.json)
 
 ---

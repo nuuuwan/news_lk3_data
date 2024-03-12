@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 00:17:58**
+As of **2024-03-13 00:33:23**
 
 ## Newspaper Stats
 
-*Scraped **12,499** Articles*
+*Scraped **12,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,84 @@ adalk | 1,070
 adaderanalk | 1,509
 tamilmirrorlk | 1,517
 virakesarilk | 1,731
-dailymirrorlk | 1,905
+dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,497 (100.0%) of 12,499 articles have been extended.
+12,499 (100.0%) of 12,501 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-13 (Wednesday)
+
+### Malnutrition among young girls and the Hippocratic Oath - EDITORIAL
+
+*2024-03-13 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Malnutrition-among-young-girls-and-the-Hippocratic-Oath-EDITORIAL/172-278721) · `en`
+
+Our Health Ministry, according to a recent report in the ‘Daily Mirror’ has rejected out-of-hand a report published in the prestigious British ‘Lancet’ magazine concerning child malnutrition and underweight young girls in our country.
+
+If the matter was not so sad and serious, the denial of the Ministry Secretary would be funny.
+
+A UNICEF report posted on January 4 this year showed that 3.9 million people were moderately food insecure with over 10,000 households facing severe food insecurity.
+
+Over 2.9 million children need humanitarian assistance to access lifesaving nutrition, health, education, water and sanitation, protection, and social protection services.
+
+The reports of our very own Central Bank state “...The latest official assessment of the Family Health Bureau of Ministry of Health that was conducted under the concept of Nutrition Month in October 2022 on nutritional status of children under five years, reveals the nutritional status of children deteriorated in 2022.
+
+...
+
+[Data](articles/bac9f468.json)
+
+---
+
+### Russian economy grows despite sanctions- study
+
+*2024-03-13 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Russian-economy-grows-despite-sanctions-study/172-278720) · `en`
+
+Of the two countries that at each other’s throats now - Russia and Ukraine - it is Ukraine which appears to be the underdog despite massive American and Western arms aid.
+
+While the Russian economy is growing despite severe US and European sanctions, Ukraine is facing a major arms and manpower shortage with dim chances of being rectified.
+
+Given the possibility of Donald Trump returning to power in the US, even the current level of Western support to Ukraine may not be forthcoming. And unlike Russia, Ukraine has no indigenous capability to sustain itself, whether economically or militarily.
+
+On the other contrary, Russia, has been able to circumvent the sanctions and keep its economy humming, according the Vienna Institute of International Economic Studies (VIIEC). And there has also been no let-up in its military efforts.
+
+...
+
+[Data](articles/07084f62.json)
+
+---
+
 ### 2024-03-12 (Tuesday)
 
-### பாட்டி கொடுத்த மாத்திரை தொண்டையில் சிக்கி குழந்தை மரணம்
+### Grandmother's pill's throat
 
 *2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட்டி-கொடுத்த-மாத்திரை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
 
-காய்ச்சல் காரணமாக பாட்டி கொடுத்த மாத்திரையொன்று சிறுமியின் தொண்டையில் சிக்கியதில் 4 வயதுச் சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+A 4-year-old girl died after swallowing a grandmother's pill. Initially treated at Mahiyangana Hospital, she was transferred to Peradeniya Sirimavo Bandaranaike Children's Hospital. The pill was removed, and the case is under investigation.
 
-மயக்கமடைந்த சிறுமி மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட சிறுமி நேற்று (11) உயிரிழந்துள்ளார்.
+🟩
 
-தாய் வௌிநாடு சென்றுள்ளதால் தாத்தா, பாட்டி மற்றும் இரண்டு சகோதரிகளுடன் வீட்டில் வசித்து வந்துள்ளார்.
+A 4 -year -old girl has died after a grandmother's pill was caught in the throat of a girl.
 
-தந்தை அவர்கள் வசிக்கும் வீட்டிற்கு அருகில் உள்ள வேறொரு வீட்டில் வசித்து வருவதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+The girl who was admitted to the Intensive Care Unit of the Peradeniya Sirimavo Bandaranaike Children's Hospital has died yesterday (11) after the unconscious girl was admitted to the Mahiyanganaya Hospital.
 
-மஹியங்கனை வைத்தியசாலையில் சிறுமியின் தொண்டையில் சிக்கியிருந்த மாத்திரை அகற்றப்பட்டு மேலதிக சிகிச்சைக்காக பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+The mother has gone home with grandparents and two sisters as the mother has gone to Vavinadu.
 
-விசாரணை அறிக்கை கிடைக்கும் வரை மரண விசாரணையை ஒத்திவைக்க திடீர் மரண பரிசோதகர் அமல் ஜயவர்தன நடவடிக்கை எடுத்திருந்தார். R
+Police investigations have revealed that the father is living in another house near their home.
+
+The pill that was trapped in the girl's throat at Mahiyanganna Hospital has been removed and the Peradeniya Sirimavo Bandaranaike has been transferred to the Bandaranaike Children's Hospital for further treatment.
+
+Sudden Death Inspector Amal Jayawardena had taken action to postpone the death investigation until the investigation was received. Remble
 
 ◼️
 
 [Data](articles/6fc3fafb.json)
+
+[Extended Data](ext_articles/6fc3fafb.ext.json)
 
 ---
 
@@ -96,19 +142,29 @@ However, the selection of the common opposition or the President will be made by
 
 ---
 
-### பெறாமகளை பாலியல்வல்லுறவிற்குட்படுத்திய சிறிய தந்தைக்கு 13 வருடங்களின் பின் 12 வருடக் கடூழியச் சிறை
+### 13 years after a 12 -year prison for a small father
 
 *2024-03-12 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178567) · `ta`
 
-கிளிநொச்சி பளை பொலிஸ் பிரிவிற்கு உட்பட்ட பகுதியில்  கடந்த 2011ம் ஆண்டு பதினாறு வயதிற்கும் குறைந்த  தனது பெறாமகளை  பாலியல் வல்லுறவிற்கு உட்படுத்திய சிறிய தந்தைக்கு பதின்மூன்று வருடங்களுக்குப்பின்னர் செவ்வாய்க்கிழமை (12) கிளிநொச்சி மேல் நீதிமன்றம்  பன்னிரெண்டு ஆண்டுக் கால கடூழிய சிறைத்தண்டனை வழங்கி  தீர்ப்பளித்துள்ளது.
+A man was sentenced to 12 years in prison for sexually abusing a girl under 16 in Kilinochchi, Sri Lanka, in 2011 and 2012. The court also ruled the victim could face 24 months in prison if they fail to pay a fine.
 
-கிளிநொச்சி பளை பொலிஸ்பிரிவிற்குட்பட்ட பகுதியில் கடந்த 2011 ஆண்டு யூன் மாதம் 30ம் திகதி மற்றும் 2012ம் ஆண்டு யூலை ஆகிய காலப்பகுதிகளில்  பதினாறு வயதிற்கும் குறைவான தனது பெறாமகளை  பாலியல் துஷ்பிரயோகம் செய்துள்ளமை தொடர்பில் அவரது சிறிய தந்தையான  முதியவர் விசாரணைகள் மூலம் குற்றவாளியாகக் கண்டறியப்பட்டு செவ்வாய்க்கிழமை  (12) கிளிநொச்சி மேல் நீதிமன்றத்தினால் பன்னிரெண்டு ஆண்டுகள் கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளிக்கப்பட்டுள்ளது..
+🟩
 
-குறித்த வழக்கானது செவ்வாய்க்கிழமை (12) பகல் கிளிநொச்சி மேல் நீதிமன்றத்தில் நீதிபதி ஏ.எம்.எம் சகாப்தீன் அவர்கள் முன்னிலையில் தீர்ப்புக்காக எடுத்துக் கொள்ளப்பட்டது
+The Kilinochchi High Court on Tuesday (12) after thirteen years of thirteen years after the rape of his under -sixteen years of age, under the age of sixteen in the Kilinochchi Palai Police Division, the Kilinochchi High Court on Tuesday (12)
+
+In the Kilinochchi police division, the Kilinochchi police division in the Kilinochchi police division, on June 30, 2011 and July 2012, he was found guilty of sexually abusing his or her childhood abuse of his abuse.
+
+The case was taken up in the presence of Justice AMM Sahabdeen at the Kilinochchi High Court on Tuesday (12)
+
+The enemy was sentenced to 12 years in prison and 12 months in prison.
+
+It has been ruled that the victim will suffer a 24 -month imprisonment in the event of a failure to pay two lakhs of rupees.
 
 ...
 
 [Data](articles/f009aa06.json)
+
+[Extended Data](ext_articles/f009aa06.ext.json)
 
 ---
 
@@ -2243,49 +2299,5 @@ In this case, the National Education Policy Framework contains the processes for
 [Data](articles/a7375698.json)
 
 [Extended Data](ext_articles/a7375698.ext.json)
-
----
-
-### 20 policemen were training in India to suppress cyber crimes
-
-*2024-03-12 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194419) · `si`
-
-A team of 20 Sri Lankan police officers, including a Senior Superintendent, 2 Assistant Superintendents, and 17 Inspectors, left for India on March 3rd to attend a cyber crime and AI investigation course. The training is under the guidance of Minister of Defense Tiran Alles and IGP Deshaband Tennakoon.
-
-🟩
-
-A team of 20 police officers in Sri Lanka has gone to India for a specialized course of cyber criminal investigation and artificial intelligence.
-
-They will receive the training at the central detevery training in India, India.
-
-The Sri Lanka Police said that the group left for India on the 3rd.
-
-The group includes Senior Superintendent of Police, 02 Assistant Superintendents and 17 Inspectors of Police.
-
-The group has joined the relevant course under the guidance and guidance of the Minister of Defense Minister Tiran Alles and IGP Deshaband Tennakoon.
-
-◼️
-
-[Data](articles/9cf978e3.json)
-
-[Extended Data](ext_articles/9cf978e3.ext.json)
-
----
-
-### 2,500 new teachers to be recruited for English medium education
-
-*2024-03-12 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97895/2500-new-teachers-to-be-recruited-for-english-medium-education) · `en`
-
-The Cabinet Sub-Committee to formulate and implement a National Education Policy Framework (NEPF), recognizing education’s crucial role in contemporary economic transformation, convened on Monday (March 11) under the patronage of President Ranil Wickremesinghe at the President’s Office.
-
-The committee comprises eight ministers, including Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premjayantha.
-
-Within the NEPF are outlined short- and medium-term strategies aimed at transforming the education sector. During the meeting, the committee focused specifically on urgent and critical measures necessary to address immediate challenges within the current education landscape.
-
-...
-
-[Data](articles/82bf250d.json)
-
-[Extended Data](ext_articles/82bf250d.ext.json)
 
 ---

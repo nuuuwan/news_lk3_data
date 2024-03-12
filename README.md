@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 20:50:32**
+As of **2024-03-12 21:03:06**
 
 ## Newspaper Stats
 
-*Scraped **12,472** Articles*
+*Scraped **12,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 641
 economynextcom | 664
 islandlk | 677
 adalk | 1,068
-adaderanalk | 1,504
+adaderanalk | 1,505
 tamilmirrorlk | 1,514
 virakesarilk | 1,726
 dailymirrorlk | 1,899
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,470 (100.0%) of 12,472 articles have been extended.
+12,472 (100.0%) of 12,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ One incident was reported in Galagoda, Ambalangoda while the other was in Pitiga
 
 [Data](articles/493869f1.json)
 
+[Extended Data](ext_articles/493869f1.ext.json)
+
 ---
 
 ### Confusion, errors marred police communications after Sri Lankan family’s killing
@@ -69,6 +71,28 @@ The day after the tragedy, the Ottawa Police Service (OPS) called the killings a
 ...
 
 [Data](articles/03767583.json)
+
+[Extended Data](ext_articles/03767583.ext.json)
+
+---
+
+### Sri Lankan family’s killing: Confusion, errors marred Ottawa Police communications
+
+*2024-03-12 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97903/sri-lankan-familys-killing-confusion-errors-marred-ottawa-police-communications) · `en`
+
+Ottawa police admit they made mistakes last week when communicating key information about the city’s worst mass killing in recent history.
+
+Six people, including a mother, her four young children and a family acquaintance, were found dead inside a townhouse in the south Ottawa suburb of Barrhaven on March 6. The woman’s husband and father of the children remains in hospital.
+
+A 19-year-old man who was living with the family is in custody facing six counts of first-degree murder and one count of attempted murder.
+
+According to police, they began receiving calls at 10:52 p.m. Wednesday and responded minutes later. In court, prosecutors said the accused was in custody around 11 p.m.
+
+The day after the tragedy, the Ottawa Police Service (OPS) called the killings a “mass shooting” when no guns were involved, repeatedly misspelled the victims’ names and misidentified the accused.
+
+...
+
+[Data](articles/8dea3aed.json)
 
 ---
 
@@ -2295,23 +2319,5 @@ The relevant Cabinet Committee consists of eight ministers including Prime Minis
 [Data](articles/1154cf8f.json)
 
 [Extended Data](ext_articles/1154cf8f.ext.json)
-
----
-
-### A change in milk powder
-
-*2024-03-12 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194414) · `si`
-
-"Minister Nalin Fernando announces a price reduction for milk powder."
-
-🟩
-
-Minister of Trade Nalin Fernando says that the price of a kilo of milk powder is expected to be reduced by Rs.
-
-◼️
-
-[Data](articles/e80cc9e5.json)
-
-[Extended Data](ext_articles/e80cc9e5.ext.json)
 
 ---

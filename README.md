@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 11:17:33**
+As of **2024-03-12 11:33:35**
 
 ## Newspaper Stats
 
-*Scraped **12,333** Articles*
+*Scraped **12,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 642
 islandlk | 677
 adalk | 1,050
 adaderanalk | 1,489
-tamilmirrorlk | 1,503
+tamilmirrorlk | 1,504
 virakesarilk | 1,695
 dailymirrorlk | 1,880
 adaderanasinhalalk | 1,947
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,947
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,330 (100.0%) of 12,333 articles have been extended.
+12,333 (100.0%) of 12,334 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,41 +54,73 @@ Port-au-Prince and the surrounding region is under a month-long state of emergen
 
 [Data](articles/0a70c78d.json)
 
+[Extended Data](ext_articles/0a70c78d.ext.json)
+
 ---
 
-### හයිටි අගමැති ඉල්ලා අස්වෙයි
+### Haiti resigns
 
 *2024-03-12 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194411) · `si`
 
-හයිටි අග්‍රාමාත්‍ය ඒරියල් හෙන්රි සිය තනතුරෙන් අස්වීමට එකඟ වූ බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Haiti's Prime Minister Ariell Henry resigns, unable to return from Puerto Rico due to armed groups. He took office in July 2021 following a mercenary attack.
 
-හෙන්රි මේ වනවිට පෝට රිකෝ හි සිටින අතර ඔහුට නැවත පැමිණීමට ඉඩ නොදෙන බව සන්නද්ධ කණ්ඩායම් පවසයි.
+🟩
 
-එරට ජනාධිපතිවරයාව කුලී හේවායින් පිරිසක් විසින් ඝාතනය කිරීමෙන් අනතුරුව 2021 ජූලි මස  හෙන්රි එරට අගමැතිවරයා ලෙස කටයුතු කළේය.
+International media reports that Haiti Prime Minister Ariell Henry agreed to resign from his position.
+
+Henry is currently in Potal Rico and says armed groups that he will not allow him to come back.
+
+He served as the Prime Minister of July 2021 after a group of mercenaries killed by a group of mercenaries.
 
 ◼️
 
 [Data](articles/346f7dad.json)
 
+[Extended Data](ext_articles/346f7dad.ext.json)
+
 ---
 
-### ஹெய்ட்டியின் தலைநகர் வன்முறை கும்பலின் பிடியில்  - இராஜினாமாவை அறிவித்தார் சர்ச்சைக்குரிய பிரதமர்
+### தாமரை கோபுரத்தில் ஜோடி மரணம்
+
+*2024-03-12 10:56:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/தாமரை-கோபுரத்தில்-ஜோடி-மரணம்/95-334548) · `ta`
+
+கொழும்பு தாமரை கோபுரத்தில் உள்ள உணவகம் ஒன்றில் இடம்பெற்ற விருந்துபசாரத்தின் போது போதைப்பொருள் உட்கொண்ட இளைஞனும் யுவதியும் உயிரிழந்துள்ளனர்.
+
+இருவரும் உடல்நலம் பாதிக்கப்பட்டு கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்தனர் என மருதானை பொலிஸார் தெரிவித்தனர்.
+
+முல்லேரியா, உடுமுல்ல பிரதேசத்தை வசிப்பிடமாக கொண்ட அழகு நிலையம் ஒன்றின் முகாமையாளரான ஹெட்டியாராச்சி ரசாங்கிகா ருக்ஷானி  (வயது 27) தெஹிவளையில் வசித்து வந்த சமிந்து திரங்க பெர்னாண்டோ (வயது 22) இருவருமே இவ்வாறு உயிரிழந்துள்ளனர்.
+
+◼️
+
+[Data](articles/9b47d306.json)
+
+---
+
+### Controversial Prime Minister declared resignation in Haiti's capital violent gang
 
 *2024-03-12 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178500) · `ta`
 
-2021 இல் ஹெய்ட்டியின் ஜனாதிபதி படுகொலைசெய்யப்பட்ட பின்னர் ஆட்சிக்கு வந்த தற்போதைய பிரதமர் நாட்டின் பாதுகாப்பின்மையை காரணம் காட்டி கடந்த வருடம் தேர்தலை நடத்த மறுத்துள்ளார்.
+Haiti's Prime Minister resigned amidst violent protests and security concerns following the assassination of the previous leader in 2021. The Prime Minister's Advisor confirmed the resignation, with the current president remaining in office until a new Prime Minister is appointed. The Caribbean community and the general market organization have expressed their determination to establish a peaceful transition and hold elections.
 
-ஹெய்ட்டி வறுமை மற்றும் குழுவன்முறைக்குள் மேலும் சிக்குப்பட்டுள்ளதால் சீற்றமடைந்த ஆர்ப்பாட்டக்காரர்கள் பிரதமர் பதவி விலகவேண்டும் என வேண்டுகோள் விடுத்துவருகின்றனர்.
+🟩
 
-கடந்த ஒருவாரத்திற்கு மேல் வன்முறையில் சிக்குண்டுள்ள ஹெய்ட்டியின் பிரதமர். தனது பதவியை இராஜினாமா செய்துள்ளார்.
+After the assassination of Haiti in 2021, the current Prime Minister, who came to power, refused to hold the election last year, due to the security of the country.
 
-ஹெய்ட்டியில் வன்முறை கும்பல் அரசகட்டிடங்களை தாக்கிவருவதன் காரணமாக சமூக அமைதியின்மை ஏற்பட்டுள்ளதுடன் ஹெய்ட்டி வீழ்ச்சியடையும் நிலையில் காணப்படுகின்ற ஒரு சூழலில் பிரதமரின்  ராஜினாமா குறித்த அறிவிப்பு வெளியாகியுள்ளது.
+Demonstrators are furious as Haiti is further trapped within the poverty and the group.
 
-பிரதமரின் ஆலோசகர் இதனை உறுதி செய்துள்ளதுடன் புதியபிரதமர் பதவியேற்க்கும்  வரை தற்போதைய ஜனாதிபதி பதவியில் நீடிப்பார் என தெரிவித்துள்ளார்.
+The Prime Minister of Haiti, who has been violently over the past week. He has resigned from his post.
+
+The announcement of the resignation of the Prime Minister has been announced in a situation where Haiti is in a state of disrepair and Haiti is in a state of disrepair.
+
+The Prime Minister's Advisor has confirmed this and said that the current president will remain in office until the new Prime Minister takes over.
+
+Guyana's president and head of the Caribbean community and the general market organization, Irfan Ali, said that the announcement of the interim Prime Minister's announcement and the announcement of the interim prime minister will be resigned.
 
 ...
 
 [Data](articles/17976cdc.json)
+
+[Extended Data](ext_articles/17976cdc.ext.json)
 
 ---
 
@@ -2179,21 +2211,5 @@ On the 65th page, it is mentioned that there was a personal contradiction betwee
 [Data](articles/93ec1150.json)
 
 [Extended Data](ext_articles/93ec1150.ext.json)
-
----
-
-### The Menace Of Political Nepotism: Sri Lanka’s Downfall
-
-*2024-03-11 21:17:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-menace-of-political-nepotism-sri-lankas-downfall/) · `en`
-
-Since gaining independence in 1948, Sri Lanka has faced numerous challenges on its journey towards progress. One of the key factors hindering the nation’s development has been the pervasive influence of political nepotism. Over the years, politicians have, regrettably, allowed their offspring and political heirs to ascend to positions of power, ultimately contributing to the country’s decline.
-
-From the early days of independence, political dynasties have taken root, leading to a system where familial ties often hold more weight than merit and competence. The consequences of this nepotistic trend are visible across various sectors, including governance, economy, and social welfare.
-
-...
-
-[Data](articles/696802f2.json)
-
-[Extended Data](ext_articles/696802f2.ext.json)
 
 ---

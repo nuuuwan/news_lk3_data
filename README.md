@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 10:34:02**
+As of **2024-03-12 10:51:27**
 
 ## Newspaper Stats
 
-*Scraped **12,324** Articles*
+*Scraped **12,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
 islandlk | 677
-adalk | 1,048
+adalk | 1,049
 adaderanalk | 1,488
 tamilmirrorlk | 1,500
 virakesarilk | 1,693
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,320 (100.0%) of 12,324 articles have been extended.
+12,324 (100.0%) of 12,325 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,37 +48,51 @@ SDIG Dhanapala is currently in-charge of the Special Branch Range.
 
 [Data](articles/44cc4130.json)
 
+[Extended Data](ext_articles/44cc4130.ext.json)
+
 ---
 
-### கிளிநொச்சி மாவட்டத்தில் 40.9 ஏக்கர் காணி விடுவிப்பு - மாவட்ட மேலதிக அரசாங்கதிபர்
+### 40.9 acres of land released in Kilinochchi district
 
 *2024-03-12 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178495) · `ta`
 
-கிளிநொச்சி மாவட்டத்தில் படைத்தரப்பு வசமிருந்த 40.9 ஏக்கர் காணி விடுவிக்கப்பட்டுள்ளதாக  மாவட்ட மேலதிக அரசாங்கதிபர் எஸ்.முரளீதரன் தெரிவித்தார்.
+In Kilinochchi, 40.9 acres land released by soldiers. Available through state departments, private institutions, or public contacting Divisional Secretariats.
 
-கிளிநொச்சி மாவட்டத்தில்  3 பிரதேச செயலக பிரிவுகளில் 40.9 ஏக்கர் காணிகள் படையினரால் விடுவிக்கப்பட்டுள்ளது.
+🟩
 
-குறித்த காணிகளை அரச திணைக்களங்கள் மற்றும் தனியார் நிறுவனங்கள் அல்லது பொதுமக்கள் உறுதிப்படுத்தி பிரதேச செயலகங்களுடன் தொடர்பு கொண்டு தமக்குரிய காணிகளை பெற்றுக் கொள்ள முடியும் எனவும் தெரிவித்தார்.
+District Additional Government President S. Muralitharan said that 40.9 acres of land in the Kilinochchi district has been released.
+
+40.9 acres of land has been released by the soldiers in 3 Divisional Secretariat Divisions in Kilinochchi district.
+
+He said that the lands can be obtained by contacting the state departments and private institutions or the public by contacting the Divisional Secretariats.
 
 ◼️
 
 [Data](articles/a811e6cb.json)
 
+[Extended Data](ext_articles/a811e6cb.ext.json)
+
 ---
 
-### யாழ். வடமராட்சி கிழக்கு கடலில் இருவர் கடற்படையால் கைது
+### Yall. Two persons arrested in Vadamarachchi East Sea
 
 *2024-03-12 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178493) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு மணல்காடு கடற்பகுதியில் சட்டவிரோத தொழில் நடவடிக்கையில் ஈடுபட்ட இருவர் பருத்தித்துறை கடற்படையினரால் திங்கட்கிழமை (11) கைது செய்யப்பட்டுள்ளனர்.
+Two individuals arrested in Vadamarachchi East Sea by Point Pedro Navy for illegal activities, including rapes, to prevent such crimes. They were from Kudanatha and turned over to Jaffna Fisheries Department for legal action.
 
-கடற்பகுதியில் சட்டவிரோத நடவடிக்கைகளை தடுக்கும் முகமாக கடற்படையினர் தொடர் சுற்றிவளைப்புகளை மேற்கொண்டு வருவதாகவும், இதன் தொடர்ச்சியாகவே பருத்தித்துறை கடற்படையினர் வடமராட்சி கிழக்கு மணல் காடு கடற்பகுதியில் மேற்கொண்ட விசேட தேடுதல் நடவடிக்கையில் ஒளி பாய்ச்சி மீன்பிடித்த இருவரை கைது செய்தனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் குடத்தனை பகுதியை சேர்ந்தவர்கள் எனவும், மேலதிக சட்ட நடவடிக்கைகளுக்காக உடமைகளுடன் இருவரும் யாழ்ப்பாண கடற்றொழில் நீரியல்வளத்திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை மேலும் தெரிவித்துள்ளது.
+Two persons have been arrested by the Point Pedro Navy on Monday (11).
+
+The Marines were carrying out a series of rapes in order to prevent illegal activities in the waters, followed by a special search operation in the Vadamarachchi East Sand Waters.
+
+The Navy further stated that the arrested persons were belonging to the Kudanatha area and that the two had been handed over to the Jaffna Fisheries Department of Fisheries Department officials for further legal action.
 
 ◼️
 
 [Data](articles/b7097f12.json)
+
+[Extended Data](ext_articles/b7097f12.ext.json)
 
 ---
 
@@ -114,23 +128,29 @@ In this case, the health workers at the hospital informed the doctor by telephon
 
 ---
 
-### ෆේස්බුක් හිමිකරුට ට්‍රම්ප්ගෙන් දැඩි චෝදනාවක්
+### Facebook owner is severely charged from Trump
 
 *2024-03-12 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194410) · `si`
 
-ටික්ටොක් මව් සමාගම අමෙරිකාව තුළ තහනම් කිරීමේ හෝ එහි මෘදුකාංග අලෙවි කිරීම තහනම් කිරීමේ පනත් කෙටුම්පතක් සම්බන්ධයෙන් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විවේචන සිදුකර තිබේ.
+Trump criticizes Facebook's parent company, Ticktock, for unfair advantage, claiming it threatens US government. In 2020, Trump attempted to ban Ticktock. Jooring supports Ticktock's law if passed.
 
-ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කර ඇත්තේ මෙම යෝජනාව ෆේස්බුක් හිමිකරු මෙටා සමාගමට අසාධාරණ වාසි ලබාදෙන බවය.
+🟩
 
-ටික්ටොක් ජාතික ආරක්ෂාවට තර්ජනයක් ලෙස දැකීම පිළිබඳ තමා එකඟ වන නමුත් ෆේස්බුක් අමෙරිකානු රජයට ද තර්ජනයක් බව ඩොනල්ඩ් ට්‍රම්ප් රූපවාහිනී සාකච්ඡාවකදී ප්‍රකාශ කර ඇත.
+Former President President Donald Trump has criticized former President's President to prohibit the Ticktock parent company in the US.
 
-2020 වසරේ දී ඩොනල්ඩ් ට්‍රම්ප් ජනාධිපතිවරයා ලෙස කටයුතු කරන සමයේ දී ටික්ටොක් තහනම් කිරීමට උත්සහ කර තිබිණි.
+Donald Trump has stated that this proposal is the proposal that the Facebook owner is gains unfair advantage.
 
-ටික්ටොක් මව් සමාගම වන බයිට්ඩාන්ස් සමාගම සම්බන්ධ නීතිය සම්මත වුවහොත් ඊට අත්සන් කරන බව අමෙරිකානු ජනාධිපති ජෝ බයිඩන් ප්‍රකාශ කර ඇති බව වාර්තා වේ.
+Donald Trump has stated that Facebook is also a threat to the US government as a threat to the Ticktock.
+
+In 2020, Donald Trump had tried to ban Ticktock during the work of the president.
+
+US President Jooring Jooring has said that if the law of the Ticktock parent company is passed, the law is passed.
 
 ◼️
 
 [Data](articles/bff66d25.json)
+
+[Extended Data](ext_articles/bff66d25.ext.json)
 
 ---
 
@@ -320,13 +340,11 @@ The suspect was arrested on Sunday by the Hambegamuwa Police and later was hande
 
 The gazette notification allowing the import of selected spices for re-export has been revoked.
 
-The communique was revoked following a request made by Agriculture Minister Mahinda Amaraweera from President Ranil Wickremesinghe at the Cabinet meeting on Monday (March 11).
+The communiqué was revoked following a request made by Agriculture Minister Mahinda Amaraweera from President Ranil Wickremesinghe at the Cabinet meeting convened on Monday (March 11).
 
-On Sunday, the Finance Ministry announced that import of selected spices including pepper, cardamom, ginger, nutmeg, turmeric, cumin and others for re-exportation purposes would be permitted.
+On Sunday, the Finance Ministry announced that the import of selected spices including pepper, cardamom, ginger, nutmeg, turmeric and cumin for re-exportation purposes would be permitted in Sri Lanka again.
 
-The import of these spices were conditionally allowed, subject to the approval of the Controller General of Import and Export and a locally value addition of 35%.
-
-This decision was taken after the Cabinet nod was given to issue relevant import licenses under the Import and Export Control Regulations.
+The import of these spices was thus conditionally allowed, subject to the approval of the Controller General of Import and Export and a local value addition of 35%. This decision was taken after the Cabinet nod was given to issue relevant import licenses under the Import and Export Control Regulations.
 
 ...
 
@@ -397,6 +415,30 @@ The protests are planned to be staged in front of selected state hospitals start
 [Data](articles/981ec431.json)
 
 [Extended Data](ext_articles/981ec431.ext.json)
+
+---
+
+### දකුණේ වෙඩි තැබීම් දෙකකින් දෙදෙනෙක් මරුට
+
+*2024-03-12 08:47:28* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-වෙඩි-තැබීම්-දෙකකින්-දෙදෙනෙක්-මරුට/11-408552) · `si`
+
+පිටිගල හොරන්ගල්ල වෙළදසැලක් ඉදිරි පිට ඊයේ (11) රෑ සිදුවූ වෙඩි තැබීමකින් එක් අයෙක් මරුමුවට පත්වී තවත් දෙදෙනෙක් තුවාල ලබා රෝහල් ගත කළ බව පිටිගල පොලීසිය කියයි.
+
+මෙසේ වෙඩි වැදී මරුමුවට පත්වී ඇත්තේ සහ තුවාල ලබා ඇත්තේ පිටිගල හොරන්ගල්ලේම පදිංචි අය  බවද පොලීසිය කියයි.
+
+යතුරු පැදියකින් පැමිණි නාදුනන් තුවක්කුකරුවන් දෙදෙනෙකු වෙඩි තබා පලා ගොස් ඇති බව ද පොලීසිය කියයි.
+
+මේ අතර අම්බලන්ගොඩ ගලගොඩ වෙළ පාර ප්‍රදේශයේ ඊයේ රාත්‍රී සිදුවූ තවත් වෙඩි තැබීමකි
+
+මෙසේ වෙඩි වැදී මිය ගොස් ඇත්තේ හා තුවාල ලබා ඇත්තේ අම්බලන්ගොඩ මාදම්පේ ගලගොඩ ප්‍රදේශයේම පදිංචි දෙදෙනෙකු බව ද පොලීසිය කියයි.
+
+යතුරු පැදියකින් පැමිණි නාදුනන තුවක්කුකරුවන් දෙදෙනෙක් මේ වෙඩි තැබීම සිදුකර පලා ගොස් ඇති බව ද පොලීසිය කියයි.
+
+වෙඩි වැදී තුවාල ලැබු තැනැත්තාගේ තත්ත්වය ඉතා බරපතල බව බලපිටිය රෝහල් ආරංචි මාර්ග කියයි. අම්බලන්ගොඩ පොලීසිය වැඩිදුර පරීක්ෂණ් පවත්වයි.
+
+◼️
+
+[Data](articles/8c2ba1dc.json)
 
 ---
 
@@ -2139,35 +2181,5 @@ Although we are minorities in number, Tamils can deep this whole country with ed
 [Data](articles/b86086d0.json)
 
 [Extended Data](ext_articles/b86086d0.ext.json)
-
----
-
-### Beewater Tangalle
-
-*2024-03-11 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194394) · `si`
-
-The Criminal Criminal Criminals and Drug Trafficking Department presented organized criminals and drug dealers to court, including "beef" arrested in Dubai in August 2022, released after Dubai Police complied. Seven were rearrested in March 2023. The CID questioned them under the Prevention Act. After a year, "beef" and "Kudu Islaya" were submitted to the Colombo Judicial Medical Officer. The suspects were taken to court for law functions. The case was taken up by High Court Judge Thamith Thatawatte, supported by the CID. The State Counsel Sajith Bandara appeared. The Lord filed 22 charges, including terrorism. The suspects were attacked by the CID and STF officers. The judge allowed the suspect to be detained in Tangalle and issued a warrant for Ravindu Sandee. The Terrorism and Investigation Division was ordered to ensure the suspect's safety.
-
-🟩
-
-The Criminal Criminal Criminals and Drug Trafficking Department were presented to the court today as the organized criminals and drug dealers who were detained in the Criminal Investigation Department.
-
-The Colombo High Court was ordered to be sent to the Detail Prison of the Terror Investigation Division at the Terrorist Investigation Division at the Terrorist Investigation Division at the Troops of the Troops of the Troops of Tangalle Tangalle.
-
-Engaged abroad, the "beef" was arrested in August 2022.
-
-However, Dubai Police released the beef after the Dubai Police were released as heeding to be taken to the country.
-
-On March 7, 2023, seven people were resurled again, with "beef" or "powdered ', or" powdered', or "powder,", 2023.
-
-Since then they have since been questioned by the CID on the detention Department on the provisions of the Prevention Act.
-
-While the CID was in the custody, the security forces were also trying to survive.
-
-...
-
-[Data](articles/4783849e.json)
-
-[Extended Data](ext_articles/4783849e.ext.json)
 
 ---

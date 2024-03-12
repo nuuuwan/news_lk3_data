@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 16:48:32**
+As of **2024-03-12 17:03:01**
 
 ## Newspaper Stats
 
-*Scraped **12,420** Articles*
+*Scraped **12,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,156 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 655
 islandlk | 677
-adalk | 1,061
-adaderanalk | 1,498
+adalk | 1,062
+adaderanalk | 1,499
 tamilmirrorlk | 1,513
-virakesarilk | 1,715
-dailymirrorlk | 1,893
-adaderanasinhalalk | 1,958
+virakesarilk | 1,718
+dailymirrorlk | 1,894
+adaderanasinhalalk | 1,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,418 (100.0%) of 12,420 articles have been extended.
+12,420 (99.9%) of 12,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### நாட்டில்  பெண்கள், சிறுமிகள் மீது தொடரும்  வன்கொடுமைகள் கடந்த ஆண்டு 1497 சிறுவர்கள் பாலியல் துஷ்பிரயோகம் !
+### வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட ஆலய பூசகர் உள்ளிட்ட 8 பேரின் விளக்கமறியல் நீடிப்பு
+
+*2024-03-12 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178545) · `ta`
+
+வவுனியா வடக்கு, வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் கைது செய்யப்பட்ட ஆலய பூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று உத்தரவு பிறப்பித்துள்ளது.
+
+கடந்த 8 ஆம் திகதி சிவராத்திரி தினத்தன்று வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் சிவராத்திரி பூஜை வழிபாடுகள் நடைபெற்றுக் கொண்டிருந்த போது ஆலயத்திற்குள் நுழைந்த பொலிசார் மற்றும் விசேட அதிரடிப் படையினர் வழிபாட்டில் ஈடுபட்ட ஆலய பூசகர் உள்ளிட்ட 8 பேரை கைது செய்தனர்.
+
+அவர்களை கடந்த 9 ஆம் திகதி சனிக்கிழமை வவுனியா நீதிமன்றில் முற்படுத்திய நிலையில் விசாரணைகள் நிறைவுபெறாத காரணத்தால் இன்று செவ்வாய்க்கிழமை  (12) வரை அவர்கள் விளக்கமறியலில் வைக்கப்பட்டனர். இந்நிலையில் இன்றைய தினம் மீண்டும் வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/b98bf6d8.json)
+
+---
+
+### India moves to implement controversial citizenship bill that excludes Muslims
+
+*2024-03-12 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97899/india-moves-to-implement-controversial-citizenship-bill-that-excludes-muslims) · `en`
+
+India has announced rules that would allow it to implement a controversial citizenship bill that excludes Muslims.
+
+The Indian Ministry of Home Affairs announced the rules Monday, ahead of India’s general election in the spring, when Prime Minister Narendra Modi will seek a rare third term in power.
+
+The Citizenship (Amendment) Act provides a fast-track to citizenship for immigrants from Afghanistan, Bangladesh, and Pakistan – provided they are not Muslim. The controversial law would apply to religious minorities persecuted on religious grounds, including Hindus, Sikhs, Buddhists, Jains, Parsis and Christians.
+
+The bill, originally passed by India’s parliament in 2019, could not come into effect until the rules were notified.
+
+Despite being well-received by Modi, a Hindu nationalist, the bill was heavily protested by opposition parties, which claimed it was unconstitutional and marginalized India’s 200-million Muslim population.
+
+...
+
+[Data](articles/6b560d56.json)
+
+---
+
+### පොලිස් වෙඩිල්ලෙන් ජීවිතක්ෂයට පත් වෙඩික්කරු ගැන තොරතුරු රැසක්
+
+*2024-03-12 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194424) · `si`
+
+ගම්පහ මල්වතුහිරිපිටිය විහාරස්ථානයකදී හිමිනමක් ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු අපරාධ රැසක් සම්බන්ධයෙන් පොලීසියට අවශ්‍ය කරමින් සිටි පුද්ගලයෙකු බව පොලීසිය පවසයි.
+
+නියෝජ්‍ය පොලිස්පති, පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ අදාළ සැකකරු කොමාන්ඩෝ බළකායෙන් ඉවත් වී කුලී ඝාතකයෙකු ලෙස කටයුතු කර ඇති බවය.
+
+තිලාන් රංගන පෙරේරා ඝාතනයේ වෙඩික්කරු, 2023.09.25 මීගොඩ පොලිස් වසමේ සිදුවූ මුදල් කොල්ලය, 2023.02.13 හෝමාගමදී සිදුවූ මුදල් කොල්ලය ආදී අපරාධ රැසක් සම්බන්ධයෙන් පොලීසියට අවශ්‍ය කර සිටි සැකකරුවෙකු බව පොලීසිය වැඩිදුරටත් පැවසීය.
+
+අදාළ සැකකරුව මොණරාගල හම්බේගමුව ප්‍රදේශයේදී ඊයේ (11) අත්අඩංගුවට පත්වන තෙක් අදාළ අපරාධ සම්බන්ධයෙන් සැකකරුව අත්අඩංගුවට ගැනීමට නොහැකිව තිබූ බවද පොලීසිය පැවසීය.
+
+ඒ අනුව සැකකරු අත්තනගල්ල යටවක ප්‍රදේශයේ සැඟවූ ආයුද සොයාගැනීම සඳහා ගොස් සිටියදී පළායාමට උත්සාහ දරා ඇති අතර එහිදී පොලීසිය සිදුකළ වෙඩිතැබීමකින් සැකකාර වෙඩික්කරු මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/a32120e4.json)
+
+---
+
+### 15 பேருடன் பறந்த ரஷ்ய இராணுவ விமானம் தீப்பற்றி வீழ்ந்தது
+
+*2024-03-12 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178544) · `ta`
+
+ரஷ்ய இராணுவ சரக்கு விமானமொன்று இன்று தீப்பற்றி வீழ்ந்துள்ளது. இவ்விமானத்தில் 15 பேர் இருந்தனர் என  ரஷ்ய ஊடகங்கள் தெரிவித்துள்ளன.
+
+ஐ.எல்.-76 ரகத்தைச் சேர்ந்த இவ்விமானம் புறப்பட்டு சிறிது நேரத்தில், மொஸ்கோவுக்கு அருகிலுள்ள ஐவானோவா பிராந்தியத்தில் வீழ்ந்துள்ளதாக செய்தி வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/cb575f30.json)
+
+---
+
+### Planetarium to reopen tomorrow after repairs
+
+*2024-03-12 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Planetarium-to-reopen-tomorrow-after-repairs/108-278709) · `en`
+
+Colombo, March 12 (Daily Mirror) - The Sri Lanka Planetarium, which underwent urgent repairs prompting its closure, will reopen its doors to the public starting tomorrow, March 13th, announced Dr. Uthpala Alahakoon, Director of the Education Ministry.
+
+Following a notice issued by the authorities, the planetarium has been inaccessible to visitors since February 27th until March 12th, owing to the critical need for repairs.
+
+◼️
+
+[Data](articles/0f8301ca.json)
+
+---
+
+### யாழில் இளம் குடும்பஸ்தர் படுகொலை ;  கிளிநொச்சியில் வைத்து நால்வர் கைது!
+
+*2024-03-12 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178543) · `ta`
+
+யாழ்ப்பாணத்தில்  திங்கட்கிழமை (11) இளம் குடும்பஸ்தர் ஒருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் நான்கு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளார்கள்.
+
+குறித்த குடும்பஸ்தரும் அவரது மனைவியும் காரைநகரில் இருந்து வட்டுக்கோட்டை - மாவடியில் உள்ள வீட்டுக்கு சென்றுகொண்டிருந்தவேளை பொன்னாலை கடற்படை முகாமுக்கு அருகாமையில் இரண்டு கார்களில் ஆயுதங்களுடன் நின்ற சிலர் அவர்களை வழி மறித்தனர்.
+
+இதன்போது இருவரும் தப்பித்து கடற்படை முகாமுக்குள் உள்நுழைந்தனர். இந்நிலையில் கடற்படையினர் அவர்களை வெளியே விரட்டினர். இதனால் அவர்கள் வெளியே வந்தவேளை, ஒரு காரில் மனைவியையும், அடுத்த காரில் குறித்த நபரையும் ஏற்றிக்கொண்டு குறித்த குழு அங்கிருந்து சென்றது.
+
+பின்னர் மனைவியை சித்தங்கேணி சந்தியில் இறக்கி விட்டனர். அதன்பின்னர் மனைவி வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்வதற்கு சென்றுள்ளார். இந்நிலையில் குறித்த நபரை கடத்திச் சென்றவர்கள் அவர் மீது வாள்வெட்டு தாக்குதல் மேற்கொண்ட பின்னர் வட்டுக்கோட்டை பிரதேச வைத்தியசாலையினுள் காரில் சென்று, வைத்தியசாலையில் உள்ள மாமரத்துக்கு கீழே அவரை தூக்கி வீசிவிட்டு சென்றனர்.
+
+...
+
+[Data](articles/cd560e00.json)
+
+---
+
+### 1497 boys sexually abused last year
 
 *2024-03-12 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178541) · `ta`
 
-நாட்டில்  பெண்கள், சிறுமிகள் மீது   வன்கொடுமைகள் தொடர்கதையாகவே உள்ளது .கடந்த பெப்ரவரி மாதத்தில் மாத்திரம் பெண்கள் மற்றும் சிறுமிகள் மீது பல்வேறு  வன்கொடுமைகள் இடம்பெற்றிருப்பதாக புள்ளிவிபரங்கள் சுட்டிக்காட்டுகின்றன.
+Last year, 1497 boys were sexually abused. February saw significant violence against women and girls.
+
+🟩
+
+Statistics indicate that there have been various violence against women and girls in February alone in the last February.
 
 ◼️
 
 [Data](articles/cd3d2f71.json)
+
+[Extended Data](ext_articles/cd3d2f71.ext.json)
+
+---
+
+### පේරේ සිසුන් හයක් එවරස්ට් තරණයට සැරසෙයි
+
+*2024-03-12 16:20:14* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-සිසුන්-හයක්-එවරස්ට්-තරණයට-සැරසෙයි/11-408566) · `si`
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ ගවේෂකයන්ගේ සංගමය මගින් 14 වැනි වරටත් සංවිධානය කරනු ලබන හිමාල කඳු තරණය සඳහා එම විශ්ව විද්‍යාලයේ ශිෂ්‍යාවක ද ඇතුළු විද්‍යාර්ථීන් හය දෙනකු සූදානමින් සිටි.
+
+පේරාදෙණිය විශ්ව විද්‍යාලයේ ඉංජිනේරු පීඨයේ තුන්වැනි වසරේ ශිෂ්‍යාවක වන ඒ.එම්. සඳුනි කාංචනා, ජේ.ඒ. හර්ෂ ධර්මප්‍රිය (කණ්ඩායම් නායකඉංජිනේරු පීඨය) ටී.බී. සමරකෝන් (විද්‍යා පීඨය) සී.එස්. මඩවල (ඉංජිනේරු පීඨය) ආර්.බී. මාන්නප්පෙරුම (කෘෂිකාර්මික පීඨය) එච්.එම්. ඩිල්ෂාන් (කලා පීඨය) යන විශ්ව විද්‍යාල සිසුන්හිමාල කඳු තරණ කණ්ඩායමට ඇතුළත්ව සිටි .
+
+මෙම පිරිස එළඹෙන අප්‍රේල් මස පළමු සතියේ නේපාලයේ කත්මඬු නුවර සිට සැලරි දක්වා ගමන් කරඑහි සිට නමාචි බසාර් (මීටර 3440) ඔස්සේ ගෝකියෝවිල් (මීටර 4760) හරහා අප්‍රේල් 20 වැනිදා එවරස්ට් බේස් කෑම්ප් (මීටර 5364) දක්වා යාමට අපේක්ෂා කරන අතර ඉන් අනතුරුව මීටර 6200 ක උසකින් යුතු අයිලන්ඩ්පීක් තරණය කිරීමට බලාපොරොත්තු වන බව පේරාදෙණිය විශ්වවිද්‍යාලය නිවේදනය කරයි .
+
+...
+
+[Data](articles/aabcf60e.json)
 
 ---
 
@@ -164,27 +288,35 @@ Meanwhile, the wife who was unloaded in Arali has gone to the Vaddukoddai police
 
 ---
 
-### මන්ත්‍රී රෝහණ බණ්ඩාරගෙන් ජා.ජ.බ නායක අනුර කුමාරට දේශපාලනය ගැන පාඩමක්
+### A lesson on UNP UNP leader Anura Kumara from UNP MP Rohana Bandara
 
 *2024-03-12 15:19:57* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-රෝහණ-බණ්ඩාරගෙන්-ජා-ජ-බ-නායක-අනුර-කුමාරට-දේශපාලනය-ගැන-පාඩමක්/11-408565) · `si`
 
-මේ වන තෙක් ආර්ථික ප්‍රථිපත්තියක් සකසා ගැනීමට නොහැකි වූ අනුර කුමාර මහතාට, වේදිකාවේ කයිය නායක කෙනෙක් විදිහට වැඩ නොකර, පළමුවෙන් තම පක්ෂයට ප්‍රථිපත්තියක් සකසා ගන්නා ලෙස ජාතික ජන බල වේගයේ
+Anura Kumara, UNP leader, criticized for not achieving economic growth. Rohana Bandara, UNP MP, defended him, highlighting the party's focus on economic development and social issues.
 
-නායක අනුර කුමාර මහතාට දන්වා සිටින බව මැදවච්චිය ආසන සංවිධායක සමගි ජන බලවේගයේ පාර්ලිමේන්තු
+🟩
 
-අද (12) දහවල් මැදවච්චිය නගරයේදී මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා එසේ ප්‍රකාශ කළේය. එහිදී වැඩිදුරටත් අදහස් දැක්වූ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී රෝහණ බණ්ඩාර මහතා .
+Mr. Anura Kumara, who was unable to set up an economic growth, is first in the national population speed, without working as a wide lead in the stage.
 
-“ඉස්සර වෙලා රැස්වීම තියන අතරතුර මැතිවරණයට අවශ්‍යප්‍රථිපත්තියක් හදා ගන්න. ආර්ථික දර්ශනයක්, ප්‍රථිපත්තියක්
+PSC Parliaments in Medawachchiya electoral organizer of the Medawachchiya electorate
 
-සකස්කර ගන්න. කතිකයෝ සියල්ලම තම පක්ෂයේ ඉදිරි වැඩ පිළිවෙල පිළිබඳව එකම දේ කියන්න හදා ගන්න. එක එක්කෙනා එක එක දේවල් කියනවා. කාන්තාවන් නිරුවත් කරලා පෙරහැරවල් තියන්න කතා තරනවා. තවත් කෙනෙක්
+Speaking to the media in Medawachchiya today, he said so. Speaking further Mr. Rohana Bandara of the Hygie Power Rohana Bandara said.
 
-නැවත ගණිකා වෘත්තිය නීතිගත කරන්න කතා කරනවා. තව කෙනෙක් ක්ෂද්‍ර මූල ණය උගුලින් කාන්තාව බේරගන්න
+"In the past, the election requires an election. An economic scene, a philosophy
 
-නැවත කාන්තාව දර ලිපට ගෙනියන්න ඕන කියලා කියනවා. එක වෙලාවකට ඉංදියාව හොදනෑ කියනවා. ඉංදියාවේ ගිහින්
+Prepare. To make sure of all the same thing about their party's future program. One one says one thing. They are talking to the preaches to naked, naked. Another
 
-...
+Talking to legalize prostitution. Someone else rescue the woman
+
+It is said that the woman should be taken back into the wooded letter. India secretly secretly. Gone in India
+
+English says Shawi says that the commission flout. Mr. Anura Kumara does not give birth to 5,000 women from Colombo to a meeting of Colombo.. But the results are 3%. "Do the first politics first."
+
+◼️
 
 [Data](articles/b3245779.json)
+
+[Extended Data](ext_articles/b3245779.ext.json)
 
 ---
 
@@ -360,7 +492,7 @@ Do not hit the fisherman's stomach.
 
 ---
 
-### Sri Lanka commissions solar power from Mahawa Solar, Hayleys Power, Capital City Holdings
+### Sri Lanka awards 18MW of solar plants to Mahawa Solar, Hayleys Power, Capital City
 
 *2024-03-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-commissions-solar-power-from-mahawa-solar-hayleys-power-capital-city-holdings-154317/) · `en`
 
@@ -708,7 +840,7 @@ We are holding the conference of the March 12, 2015 to clarify the operation of 
 
 ---
 
-### Sri Lanka to install 100 MW solar power plant in Batticaloa on BOO basis
+### Sri Lanka 100 MW power plant to Solar Forge Batticaloa
 
 *2024-03-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-install-100-mw-solar-power-plant-in-batticaloa-on-boo-basis-154305/) · `en`
 
@@ -2177,143 +2309,5 @@ Meanwhile, police said that the thieves had entered the house of two houses near
 [Data](articles/52573eda.json)
 
 [Extended Data](ext_articles/52573eda.ext.json)
-
----
-
-### India conducts first test flight of domestically developed missile
-
-*2024-03-12 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97887/india-conducts-first-test-flight-of-domestically-developed-missile) · `en`
-
-India’s domestically developed Agni-5 missile successfully took its maiden test flight using the Multiple Independently-targetable Reentry Vehicle (MIRV) technology, Prime Minister Narendra Modi announced on Monday (11 March).
-
-Hailing the scientists of the Defence Research and Development Organisation (DRDO) for the feat, he said he was “proud” of them for the successful completion of ‘Mission Divyastra’.
-
-Agni-5 is India’s nuclear-capable long-range surface-to-surface missile developed by DRDO. The first test flight using MIRV is significant for India as it has entered the league of a select group of countries that have this capability.
-
-Multiple Independently-targetable Reentry Vehicles (MIRVs) allow a missile to deliver multiple nuclear warheads at different targets that are even hundreds of kilometres apart. While conventional missiles can carry one warhead, MIRVs are capable of deploying several warheads.
-
-...
-
-[Data](articles/082e27ef.json)
-
-[Extended Data](ext_articles/082e27ef.ext.json)
-
----
-
-### Shot dead by a man who tried to escape
-
-*2024-03-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தப்பிச்-செல்ல-முயன்ற-நபர்-சுட்டுக்கொலை/175-334543) · `ta`
-
-A Buddhist monk, arrested in Moneragala, was shot dead by a gunman who tried to escape from police. The suspect was killed during a clash while trying to rescue hidden weapons in Yadavaka.
-
-🟩
-
-A gunman who shot dead a Buddhist monk who was arrested by the police in Moneragala yesterday, was shot dead.
-
-It is reported that the suspect was shot dead in a clash when the suspect tried to escape from the police clutches.
-
-Police said that the man was shot dead when he was taken to rescue the weapons hidden in the Yadavaka area and he was shot dead in a clash.. Remble
-
-◼️
-
-[Data](articles/1e22c2ae.json)
-
-[Extended Data](ext_articles/1e22c2ae.ext.json)
-
----
-
-### Shot dead by a man who tried to escape
-
-*2024-03-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தப்பிச்-செல்ல-முயன்ற-நபர்-சுட்டுக்கொலை/76-334543) · `ta`
-
-A Buddhist monk, arrested in Moneragala, was shot dead by a gunman during an escape attempt. The suspect was killed in a clash while trying to retrieve hidden weapons in Yadavaka.
-
-🟩
-
-A gunman who shot dead a Buddhist monk who was arrested by the police in Moneragala yesterday, was shot dead.
-
-It is reported that the suspect was shot dead in a clash when the suspect tried to escape from the police clutches.
-
-Police said that the man was shot dead when he was taken to rescue the weapons hidden in the Yadavaka area and he was shot dead in a clash.. Remble
-
-◼️
-
-[Data](articles/51f9e39c.json)
-
-[Extended Data](ext_articles/51f9e39c.ext.json)
-
----
-
-### No tax on 92% of sanitary pads
-
-*2024-03-12 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-tax-on-92-of-sanitary-pads/108-278690) · `en`
-
-Colombo, March 12 (Daily Mirror) - A total of 92% of the sanitary pads required in this country are produced in our country, and no tax is charged for them, Finance State Minister Ranjith Siyambalapitiya said.
-
-While addressing a programme in the Thalduwa area, he pointed out that one company brings the remaining 8% of the imported goods to Sri Lanka as manufactured goods, and only 22.5% tax is charged for it.
-
-That amount of tax is levied only for the purpose of protecting the local producer, the Minister added.
-
-◼️
-
-[Data](articles/52b323e8.json)
-
-[Extended Data](ext_articles/52b323e8.ext.json)
-
----
-
-### No tax on 92% of sanitary towels
-
-*2024-03-12 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-tax-on-92-of-sanitary-towels/108-278690) · `en`
-
-Colombo, March 12 (Daily Mirror) - A total of 92% of the sanitary towels required in this country are produced in our country, and no tax is charged for them, Finance State Minister Ranjith Siyambalapitiya said.
-
-While addressing a programme in the Thalduwa area, he pointed out that one company brings the remaining 8% of the imported goods to Sri Lanka as manufactured goods, and only 22.5% tax is charged for it.
-
-That amount of tax is levied only for the purpose of protecting the local producer, the Minister added.
-
-◼️
-
-[Data](articles/72eeb80c.json)
-
-[Extended Data](ext_articles/72eeb80c.ext.json)
-
----
-
-### Police Jeep
-
-*2024-03-12 09:48:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-சிக்கிய-பொலிஸ்-ஜீப்/175-334542) · `ta`
-
-A police Jeep crashed on Oddusutan Road, Mullaitivu - Mankulam, yesterday at 6:00 pm, injuring two officers. The vehicle was severely damaged.
-
-🟩
-
-A police vehicle crashed at Mullaitivu - Mankulam, Oddusutan Road yesterday (11) at 06.00 pm.
-
-A police vehicle traveling from Mulliyawalai to Mankulam has crashed into the road.
-
-Two police officers in the vehicle suffered minor injuries. However, it is reported that the police vehicle has been severely damaged. Remble
-
-◼️
-
-[Data](articles/ef1a0910.json)
-
-[Extended Data](ext_articles/ef1a0910.ext.json)
-
----
-
-### Sri Lanka rupee opens at 306.50/60 to the US dollar
-
-*2024-03-12 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-306-50-60-to-the-us-dollar-154203/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 306.50/60 to the US dollar in the spot forex market on Tuesday, stronger from 306.95/307.10 on Monday, dealers said, while bond yields were quiet ahead of the auction.
-
-The Colombo Stock Market opened down; the All Share Price Index was down 0.05 percent at 11,118, the S&P SL20 was up 0.23 percent at 3,182 (Colombo/Mar12/2024)
-
-◼️
-
-[Data](articles/9e1e01ea.json)
-
-[Extended Data](ext_articles/9e1e01ea.ext.json)
 
 ---

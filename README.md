@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 15:33:17**
+As of **2024-03-12 15:51:32**
 
 ## Newspaper Stats
 
-*Scraped **12,408** Articles*
+*Scraped **12,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,68 +15,148 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 655
 islandlk | 677
-adalk | 1,057
+adalk | 1,060
 adaderanalk | 1,497
 tamilmirrorlk | 1,513
-virakesarilk | 1,713
-dailymirrorlk | 1,889
-adaderanasinhalalk | 1,957
+virakesarilk | 1,714
+dailymirrorlk | 1,892
+adaderanasinhalalk | 1,958
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,402 (100.0%) of 12,408 articles have been extended.
+12,408 (99.9%) of 12,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### யாழில் இளம் குடும்பஸ்தர் படுகொலை ; சந்தேகநபர்கள் மூவர் அடையாளம்
+### නව තානාපතිවරයෙක් සහ මහ කොමසාරිස්වරයෙක්
 
-*2024-03-12 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178533) · `ta`
+*2024-03-12 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194423) · `si`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில்  இளம் குடும்பஸ்தர் ஒருவர் படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் சந்தேகநபர்கள் மூவரை அடையாளம் கண்டுள்ளதாகவும், அவர்களை கைது செய்வதற்கு நடவடிக்கைகளை முன்னெடுத்துள்ளதாக வட்டுக்கோட்டை பொலிஸ் தகவல்கள் தெரிவிக்கின்றன.
+ශ්‍රී ලංකාව සඳහා අලුතින් පත්වී පැමිණි තානාපතිවරයෙක් සහ මහ කොමසාරිස්වරයෙක් අද (12) පෙරවරුවේ කොටුව, ජනාධිපති මන්දිරයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සිය අක්තපත්‍ර භාර දුනි.
 
-வட்டுக்கோட்டை பகுதியை சேர்ந்த 23 வயதான தவச்செல்வம் பவிதரன் எனும்  இளம் குடும்பஸ்தர் தனது மனைவியுடன் காரைநகர் பகுதிக்கு நேற்று திங்கட்கிழமை சென்று விட்டு, வட்டுக்கோட்டை நோக்கி தனது மோட்டார் சைக்கிளில் வந்து கொண்டிருந்த வேளையில் , பொன்னாலை பாலத்திற்கு அருகில் இரண்டு வாகனங்களில் காத்திருந்த சுமார் 15 பேர் கொண்ட குழுவினர் கணவன் மனைவி இருவரையும் வாகனத்தில் கடத்தி சென்றனர்.
+තායිලන්ත රාජධානියේ නව තානාපතිවරයා ලෙස පත්වී පැමිණි H. E. Paitoon Mahapannaporn මහතා සහ පාකිස්තාන ඉස්ලාමීය ජනරජයේ නව මහ කොමසාරිස්වරයා ලෙස පත්වී පැමිණි විශ්‍රාමික මේජර් ජෙනරල් ෆාහිම් උල් අසීස් මහතා මෙලෙස ජනාධිපතිවරයා වෙත අක්තපත්‍ර භාරදී තිබේ.
 
-கணவனை ஒரு வாகனத்திலும், மற்றைய வாகனத்தில் மனைவியையும் கடத்தி சென்ற வன்முறை கும்பல், மாணவியை அராலி பகுதியில் இறக்கி விட்டுள்ளனர்.
+විදේශ අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි, ජනාධිපති ලේකම් සමන් ඒකනායක යන මහත්වරු ද මෙම අවස්ථාවට එක්විය.
 
-கணவனை கடத்தி சென்றவர்கள், வாகனத்தினுள் வைத்து சரமாரியாக தாக்குதல் மேற்கொன்டதுடன், வாள் வெட்டு தாக்குதலையும் மேற்கொண்டு விட்டு, வட்டுக்கோட்டை பகுதியில் உள்ள வைத்தியசாலை ஒன்றின் முன்பாக படுகாயங்களுடன் இளைஞனை வீசி விட்டு தப்பி சென்றுள்ளனர்.
+◼️
+
+[Data](articles/cd3e3598.json)
+
+---
+
+### யாழ். இரத்த வங்கியில் O+ இரத்த வகைக்கு தட்டுப்பாடு
+
+*2024-03-12 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178536) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலை இரத்த வங்கியில் O+ இரத்த வகைக்கு தட்டுப்பாடு ஏற்பட்டுள்ளமையால்  அந்த வகை இரத்தம் உள்ள குருதி கொடையாளர்கள் யாழ்.இரத்த வங்கிக்கு நேரில் வருகை தந்து குருதி கொடை வழங்குமாறு இரத்த வங்கியினர் அறிவித்துள்ளனர்.
+
+அதேவேளை யாழ்ப்பாணத்தில் இரத்த தான முகாம்களை நடாத்த விரும்புவோரை அதற்கான முயற்சிகளை முன்னெடுக்குமாறும் , மேலதிக விபரங்களை தெரிந்து கொள்வதற்கு 0772105375 எனும் தொலைபேசி இலக்கம் ஊடாக தொடர்பு கொள்ளுமாறு கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/76cd025c.json)
+
+---
+
+### Sri Lanka Tourism to attract 2.3 million tourists in 2024; to earn over USD 4 billion
+
+*2024-03-12 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Tourism-to-attract-2-3-million-tourists-in-2024-to-earn-over-USD-4-billion/108-278708) · `en`
+
+Colombo, March 12 (Daily Mirror) - Sri Lanka tourism aims to attract 2.3 million tourists in 2024 and earn over USD 4 billion, Tourism Minister Harin Fernando said.
+
+Speaking at the event, he said Sri Lanka Tourism is launching its destination brand campaign globally with a new positioning and a tagline: ‘You’ll come back for more’.
+
+...
+
+[Data](articles/cd7787d5.json)
+
+---
+
+### Massacre of young family in Jaffna;The suspects identify the trio
+
+*2024-03-12 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178533) · `ta`
+
+In Jaffna, a young family was murdered. Suspects, identified by Vaddukoddai police, abducted the family member, who was later rescued. The wife, unharmed, reported the incident.
+
+🟩
+
+Vaddukoddai police sources say that three suspects have identified three suspects in connection with the murder of a young family member in Vaddukoddai, Jaffna.
+
+A 23 -year -old from Vaddukoddai, a young family member of the Vaddukoddai area, left the Karainagar area with his wife on Monday and was on his motorbike to Vaddukoddai.
+
+A violent gang who abducted her husband in one vehicle and his wife in the other vehicle has dropped the student in Arali.
+
+Those who abducted her husband were attacked in a vehicle and left the sword -cutting attack and fled with injuries in front of a hospital in Vaddukoddai.
+
+Hospital staff rescued young man. Sent to the teaching hospital for treatment. A young family has died without treatment at the hospital.
+
+Meanwhile, the wife who was unloaded in Arali has gone to the Vaddukoddai police station and abducted himself and her husband in two vehicles.
 
 ...
 
 [Data](articles/28398765.json)
 
+[Extended Data](ext_articles/28398765.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා එක්දින සංචිතය නම් කෙරේ
+### Passmaker in the heart of King Norway
+
+*2024-03-12 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178534) · `ta`
+
+Norwegian King Herald, 87, will undergo surgery in Norway to permanently implant a basemaker device in his heart, following a temporary one installed in Malaysia.
+
+🟩
+
+The Norwegian Palace today announced that the Norwegian King Herald will be fitted with a permanent basemaker device in the heart.
+
+The 87 -year -old king Herald, who recently traveled to Malaysia, was affected by his health. He was lacking heart rate and he was fitted with a temporary Pasemaker device in Malaysia on the 2nd.
+
+In this case, the Norwegian Palace has said that he should be fitted with a permanent basemaker and that surgery will be carried out in Norway today.
+
+King Herald has been facing health impacts for the past few years. However, he rejects the speculation that he may end.
+
+◼️
+
+[Data](articles/058ce4c1.json)
+
+[Extended Data](ext_articles/058ce4c1.ext.json)
+
+---
+
+### Sri Lanka is named ODI squad
 
 *2024-03-12 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194421) · `si`
 
-බංග්ලාදේශය සමග පැවැත්වෙන තරග 3කින් සමන්විත එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම්කර තිබේ.
+Sri Lanka's ODI squad for the series against Bangladesh has been announced.
+
+🟩
+
+The Sri Lankan squad has been named for the one-day series of ODIs with Bangladesh.
 
 ◼️
 
 [Data](articles/53b29cd3.json)
 
+[Extended Data](ext_articles/53b29cd3.ext.json)
+
 ---
 
-### நோர்வே மன்னரின் இதயத்தில் நிரந்திர பேஸ்மேக்கர்
+### ජපානයෙන් යෙන් මිලියන 1400ක ප්‍රදානයක්
 
-*2024-03-12 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178534) · `ta`
+*2024-03-12 15:13:23* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-යෙන්-මිලියන-1400ක-ප්‍රදානයක්/11-408564) · `si`
 
-நோர்வே மன்னர் ஹெரால்டுக்கு இதயத்தில் நிரந்தர பேஸ்மேக்கர் சாதனம் பொருத்தப்படவுள்ளதாக நோர்வே அரண்மனை இன்று தெரிவித்துள்ளது.
+ජපාන ආර්ථික හා සමාජ සංවර්ධන වැඩසටහන යටතේ  ජපන් යෙන් මිලියන 1400ක් ශ්‍රී ලංකාවට ප්‍රදානයක් ලෙස ලබාදීමට එක﻿ඟ වී තිබේ. මෙම මුදල ලබාගැනීමට අදාළව ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබී තිබේ.
 
-87 வயதான மன்னர் ஹெரால்ட், அண்மையில் மலேஷியாவுக்கு சுற்றுலா மேற்கொண்டபோது, அவரின் உடல்நிலை பாதிக்கப்பட்டது. அவருக்கு இதயத்துடிப்பு குறைவாக இருந்ததால் கடந்த 2 ஆம் திகதி அவருக்கு  மலேஷியாவில் தற்காலிக பேஸ்மேக்கர் சாதனம் பொருத்தப்பட்டது.
-
-இந்நிலையில்,  அவருக்கு நிரந்தர பேஸ்மேக்கர் பொருத்தப்பட வேண்டும் எனவும், இதற்கான சத்திரசிகிச்சை நோர்வேயில் இன்று மேற்கொள்ளப்படும் எனவும் நோர்வே அரண்மனை தெரிவித்துள்ளது.
-
-மன்னர் ஹெரால்ட் கடந்த சில வருடங்களாக ஆரோக்கிய பாதிப்புகளை எதிர்கொண்டுவருகிறார். எனினும், தான் முடிதுறக்கக்கூடும் என்ற ஊகங்களை அவர் நிராகரித்து வருகிறார்.
+මෙහි රුපියල් වටිනාකම රුපියල් බිලියන 3.3ක් පමණ වෙයි. ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය වෙනුවෙන් විපතට පත් ප්‍රජාවට තාක්ෂණික හා මානුෂීය මෙහෙයුම් වෙනුවෙන් මෙම මුදල් යොදවා ගැනීමට නියමිතය.
 
 ◼️
 
-[Data](articles/058ce4c1.json)
+[Data](articles/da8985a8.json)
 
 ---
 
@@ -96,49 +176,67 @@ Furthermore, DIG Thalduwa expressed that the other 13 incidents had stemmed from
 
 [Data](articles/45c6c415.json)
 
+[Extended Data](ext_articles/45c6c415.ext.json)
+
 ---
 
-### මතභේදයට තුඩු දුන් නීතියක් ඉන්දියාවේ ක්‍රියාත්මක කෙරේ
+### A controversial law is implemented in India
 
 *2024-03-12 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194420) · `si`
 
-මතභේදයට තුඩු දී ඇති පුරවැසිභාවය පිළිබඳ නීතියක් ක්‍රියාත්මක කිරීමට ඉන්දීය රජය සැලසුම් කර තිබේ.
+India's controversial citizenship law, passed in 2019, allows non-Muslims from Pakistan, Bangladesh, and Afghanistan to apply for Indian citizenship. Critics argue it's anti-Muslim, leading to protests and deaths. The government claims it targets minority Hindus, Sikhs, Buddhists, Jain, Parsis, and Christians, and applies to those who arrived before 2014. Citizenship applications can be made online.
 
-මුස්ලිම් නොවන පාකිස්තාන, බංග්ලාදේශ සහ ඇෆ්ගනිස්තාන සුළු ජාතීන්ට ඉන්දීය පුරවැසිභාවය ඉල්ලීමට අවස්ථාව ලබාදීම එමගින් යෝජිත යි.
+🟩
 
-මෙම පනත 2019 වසරේදී සම්මත වූ අතර එය මුස්ලිම් විරෝධී බව සඳහන් කරමින් මුස්ලිම් ප්‍රජාව ඊට ප්‍රබල විරෝධයක් එල්ල කළේය.
+The Indian government plans to implement a law on controversial citizenship.
 
-ඊට එරෙහිව රටපුරා විරෝධතා ආරම්භ වූ අතර එහිදී කිහිපදෙනෙකු මියගොස් තිබුණි.
+It proposes that non-Muslim Pakistani, Bangladesh and Afghanistan minities to request Indian citizenship.
 
-කෙසේ නමුත් අදාළ රටවල පීඩාවට පත්ව වෙසෙන සුළුතර හින්දු, සික්, බෞද්ධ, ජෛන, පාර්සි සහ ක්‍රිස්තියානි භක්තිකයින්ට සහන සැලසීමේ අරමුණින් මෙය වහාම ක්‍රියාවට නංවන බව ඉන්දීය රජය අවධාරණය කරයි.
+The bill was passed in 2019 and claimed that it was anti-Muslim.
 
-මෙම නීතිය අදාළ වන්නේ 2014 වසරේ දෙසැම්බර් 31 වනදාට පෙර ඉන්දියාවට පැමිණි සුළු ජාතිකයින් සඳහා පමණි.
+Protests began against it and several had died.
 
-එහෙත් ඉන්දීය පුරවැසිභාවය මාර්ගගත ක්‍රමවේදය ඔස්සේ ඉල්ලුම් කිරීමට හැකිවන පරිදි පහසුකම් සපයා ඇති බව ඉන්දීය බලධාරීන් පවසයි.
+However, the Indian government emphasizes that it will be implemented with the objective of being affected by minority Hindu, Sik, Buddhists, Jain, Parsians, and Christianities.
+
+This law applies only for the minorities who came to India before 31st of 2014.
+
+However, Indian authorities say that Indian citizenship can be applied on online procedure.
 
 ◼️
 
 [Data](articles/163016d6.json)
 
+[Extended Data](ext_articles/163016d6.ext.json)
+
 ---
 
-### டிக்டொக்கினால் தேசிய பாதுகாப்பிற்கு அச்சுறுத்தல் - முகநூல் பொதுமக்களின் எதிரி - டிரம்ப் கருத்து
+### Threaten for National Security
 
 *2024-03-12 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178531) · `ta`
 
-டிக்டொக்  அமெரிக்காவின் பாதுகாப்பிற்கு அச்சுறுத்தல் என தெரிவித்துள்ள முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் முகநூல் மக்களின் எதிரி என குறிப்பிட்டுள்ளார்.
+Donald Trump criticized the ban on Dictock as a threat to national security, suggesting it could have been implemented during his presidency but should be done by Congress. He also noted that the ban would increase support for the face of the people as the enemy of the people, highlighting both benefits and drawbacks of Dictock.
 
-டிக்டொக்கினால் அமெரிக்காவின் பாதுகாப்பிற்கு அச்சுறுத்தல் என கருதுவதாக தெரிவித்துள்ள  டொனால்ட் டிரம்ப் எனினும் இதனை தடை செய்வதை நான் ஆதரிக்கமாட்டேன் ஏன்; என்றால் அதனை தடைசெய்தால் மக்களின் எதிரியான முகநூலின்  ஆதரவு அதிகரிக்கும் எனவும் தெரிவித்துள்ளார்.
+🟩
 
-சிஎன்பிசி நேர்காணலில் டிக்டொக் தேசிய பாதுகாப்பிற்கு அச்சுறுத்தலானதா என்ற கேள்விக்கே  நான் அவ்வாறே நம்புகின்றேன் நாங்கள் அமெரிக்க மக்களின் அந்தரங்கள் மற்றும் தரவு உரிமைகளை பாதுகாக்கின்றோம் என்பதை ஏற்றுக்கொள்ளவேண்டும் என டிரம்ப் பதிலளித்துள்ளார்.
+Former President Donald Trump has referred to the enemy of the people of the face of the people.
 
-டிக்டொக் செயலியை அமெரிக்காவில் தடை செய்வதை டிரம்ப் முதலில் ஆதரித்திருந்தார்.எனினும் இதற்கான ஆதரவை தற்போது தனது முடிவை மாற்றியுள்ளார்.
+Donald Trump, who has said that Dictock is a threat to the security of the United States, however, I will not support it?If it is banned, the support of the people will increase the support of the people.
 
-ஏன் டிக்டொக்கினை தடை செய்யவேண்டும் என்ற நிலைப்பாட்டிலிருந்து பின்வாங்கினீர்கள் என்ற கேள்விக்கு  எனது ஆட்சிக்காலத்தில் அதனை தடைசெய்திருக்க முடியும் ஆனால்  காங்கிரஸே அதனை செய்யவேண்டும்என அவர் தெரிவித்துள்ளார்.
+In the CNBC interview, Trump replied that we should accept that we are protecting the people and data rights of the American people.
 
-...
+Trump first supported the ban in the US in the United States.
+
+Asked why you retreated from the position of banning the dictokin, it could have been banned during my tenure but the Congress should do it.
+
+Trump has also noted that the ban on Dictok will increase support for the face of the criticism of the people as the enemy of the people.
+
+He said that the dictocal has benefits and the disadvantages, but the fact that the dictok does not like it is that I consider the face of the face of the people with many other media and many other media.
+
+◼️
 
 [Data](articles/f612a2b4.json)
+
+[Extended Data](ext_articles/f612a2b4.ext.json)
 
 ---
 
@@ -194,6 +292,22 @@ All three solar power projects will be on a build, own and operate basis.
 
 ---
 
+### හයිටියේ අවතැන් වූ ජනතාව තුන්ලක්ෂ හැටදහස ඉක්මවයි
+
+*2024-03-12 14:58:44* · [`adalk`](https://www.ada.lk/breaking_news/හයිටියේ-අවතැන්-වූ-ජනතාව-තුන්ලක්ෂ-හැටදහස-ඉක්මවයි/11-408563) · `si`
+
+හයිටි ජනරජයේ ආරක්ෂක තත්ත්වය තවදුරටත් නරක අතට හැරේ. එහි තුන්ලක්ෂ හැටදහසකට අධික ජනතාව අවතැන් ව සිටින බවත්, ඉන් අඩකට වැඩි පිරිස දරුවන් වන බවත් ජාත්‍යන්තර සංක්‍රමණ සංවිධානය පසුගිය දා නිවේදනය කළේය.
+
+මේ වනවිට එරට අවතැන් ව සිටින සංඛ්‍යාව වසර ආරම්භයේ පැවති අගයට වඩා 15% කින් වැඩි වී ඇතැයි එම සංවිධානය පවසයි. පෝට්-ඕ-ප්‍රින්ස් අගනුවර එක්ලක්ෂ හැටදහසකට වැඩි පිරිසක් සිය නිවාසවලින් බැහැර ව සිටිති. පසුගිය පෙබරවාරි මාසය අවසානයේ සිට මේ දක්වා එරට අභ්‍යන්තර ප්‍රචණ්ඩකාරී සිදුවීම් සැලකිය යුතු අයුරින් වර්ධනය වී තිබේ. නගර වැසියන් සන්නද්ධ කල්ලි විසින් සිර කර ර ඳවාගනු ලැබ ඇතැයි ද ජාත්‍යන්තර සංක්‍රමණ සංවිධානය කියා සිටී.
+
+2021 වසරේ ජූලි 7 වැනි දා, හයිටි රාජ්‍යයේ ජනාධිපති Jovenel Moïse මහතා ඝාතනයට ලක්විය. එම සිද්ධියෙන් පසු ප්‍රචණ්ඩකාරී කල්ලිවල ක්‍රියාකාරීත්වය බෙහෙවින් ඉස්මතු වී තිබේ. පසුගිය 29 වැනි දා සිට එවැනි සන්නද්ධ කණ්ඩායම් අවස්ථා ගණනාවක දී එරට වැදගත් ආයතන හා යටිතල පහසුකම්වලට ප්‍රහාර එල්ල කර ඇත.
+
+◼️
+
+[Data](articles/881c589b.json)
+
+---
+
 ### Another case against Keheliya will be heard
 
 *2024-03-12 14:56:47* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවක්-විභාගයට-දින-දෙයි/11-408562) · `si`
@@ -240,6 +354,20 @@ Minister of Foreign Affairs Ali Sabry, PC, and Presidential Secretary Saman Ekan
 
 ---
 
+### හෝමාගම එන්.එස්.බී.එම්. වෙත වෛද්‍ය පීඨයක්
+
+*2024-03-12 14:55:41* · [`adalk`](https://www.ada.lk/breaking_news/හෝමාගම-එන්-එස්-බී-එම්--වෙත-වෛද්‍ය-පීඨයක්/11-408561) · `si`
+
+හෝමාගම එන්.එස්.බී.එම්. හරිත විශ්වවිද්‍යාලය සඳහා වෛද්‍ය පීඨයක් ආරම්භ කිරීම වෙනුවෙන් ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+මෙම ආයතනය සියයට 100ක් රාජ්‍ය ආයතනයක් වෙයි. වෛද්‍ය පීඨය සඳහා අවශ්‍ය සායනික පහසුකම් ලබාදීම සඳහා හෝමාගම රෝහල ශික්ෂණ රෝහලක් බවට පත් කිරීමට නියමිත අතර ඒ සඳහා සම්පූර්ණ වියදම එන්.එස්.බී.එම්. ආයතනය විසින් දැරීමට නියමිතය.
+
+◼️
+
+[Data](articles/94fa6a3b.json)
+
+---
+
 ### 30 shootings in 72 days: 21 killed, 14 injured!
 
 *2024-03-12 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178530) · `ta`
@@ -261,6 +389,18 @@ He added that 13 other shootings were carried out for personal reasons.
 [Data](articles/22ab2691.json)
 
 [Extended Data](ext_articles/22ab2691.ext.json)
+
+---
+
+### Resolve pending requests...
+
+*2024-03-12 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Resolve-pending-requests/110-278706) · `en`
+
+The Joint Health Workers’ Union (JHWU) today staged a protest in front of Colombo National Hospital (CNH) demanding government resolve their pending trade union requests including allowances. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/975e9f31.json)
 
 ---
 
@@ -563,6 +703,20 @@ The fifth largest smartphone product company in Zomy China.
 [Data](articles/e75dbf2b.json)
 
 [Extended Data](ext_articles/e75dbf2b.ext.json)
+
+---
+
+### Sri Lanka ODI squad against Bangladesh announced
+
+*2024-03-12 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-ODI-squad-against-Bangladesh-announced/108-278707) · `en`
+
+Colombo, March 12 (Daily Mirror) - Sports Minister Harin Fernando has approved the 16-member ODI squad for the upcoming three-match series against Bangladesh, commencing tomorrow at the Zahur Ahmed Chowdhury Stadium in Chattogram.
+
+In light of Asitha Fernando's injury, Lahiru Kumara has been added to the Sri Lanka ODI squad, while Kamindu Mendis will replace Shevon Daniel.
+
+◼️
+
+[Data](articles/4c3c5967.json)
 
 ---
 
@@ -2145,181 +2299,5 @@ The Minister has also pointed out that these have a profound effect on the first
 [Data](articles/33b08c0b.json)
 
 [Extended Data](ext_articles/33b08c0b.ext.json)
-
----
-
-### DIG Dhanapala promoted
-
-*2024-03-12 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194408) · `si`
-
-DIG Dhanapala promoted to DIG TCA. IGP effective from Feb 29, pending NPC approval.
-
-🟩
-
-DIG TCA. The senior DIG has been promoted to the post of DIG.
-
-The police media division has stated in a statement that the IGP has been effective from February 29, subject to the approval of the National Police Commission.
-
-◼️
-
-[Data](articles/bdc46e74.json)
-
-[Extended Data](ext_articles/bdc46e74.ext.json)
-
----
-
-### Health workers to stage protests near hospitals today
-
-*2024-03-12 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97885/health-workers-to-stage-protests-near-hospitals-today) · `en`
-
-Health sector employees have decided to stage a series of protests in front of selected hospitals today (March 12).
-
-The Convenor of Health Service Trade Unions, Ravi Kumudesh said the demonstrations were organized in protest of the continuous delaying of their salary increase and the failure to take action against the health sector administrators obstructing their work.
-
-The protests are planned to be staged in front of selected state hospitals starting at noon, according to Kumudesh.
-
-◼️
-
-[Data](articles/981ec431.json)
-
-[Extended Data](ext_articles/981ec431.ext.json)
-
----
-
-### Two killed in two shooting in South
-
-*2024-03-12 08:47:28* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-වෙඩි-තැබීම්-දෙකකින්-දෙදෙනෙක්-මරුට/11-408552) · `si`
-
-Two shootings in South: 1 in Pitigala Horangalle, 1 in Galagoda market road, Ambalangoda. Two victims killed, two injured, suspects fled on motorbike.
-
-🟩
-
-One person was killed in a shooting at Pitigala Hornugalle shooting yesterday (11), police said.
-
-The victims were shot dead and injured in the Pitigala Horangalle.
-
-Two Nutunne gunmen with a motorbike have fled the police, police said.
-
-Meanwhile, another shooting was held in Galagoda market road in Galagoda market road, Ambalangoda last night
-
-The deceased has been shot dead, police said.
-
-Two unidentified gunmen had fled the shooting with a motorcycle.
-
-Sources from Balapitiya Hospital sources say that the condition of the injured was serious. The Ambalangoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/8c2ba1dc.json)
-
-[Extended Data](ext_articles/8c2ba1dc.ext.json)
-
----
-
-### Gazette allowing import of several spices suspended
-
-*2024-03-12 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-allowing-import-of-several-spices-suspended/108-278692) · `en`
-
-Colombo, March 12 (Daily Mirror) - The government has decided to suspend the gazette notification published recently allowing the import of several types of spices, including pepper, for re-export, the Agriculture Ministry said.
-
-They said the government had issued a gazette notification allowing the import of some spices grown in Sri Lanka, such as pepper, nutmeg, mace (Vasavasi), turmeric, ginger, and cardamom, for re-export.
-
-Following yesterday's Cabinet meeting, Agriculture and Plantation Industries Minister Mahinda Amaraweera expressed his opposition regarding the relevant gazette announcement.
-
-He pointed out that by allowing the import of these spices for re-exports, the local spice farmer is discouraged, and therefore the cultivation of local spice products collapses. Also, the minister pointed out that this will have a strong impact on the quality of spices in Sri Lanka, which currently ranks first among the best spices in the world.
-
-...
-
-[Data](articles/bccbb5fc.json)
-
-[Extended Data](ext_articles/bccbb5fc.ext.json)
-
----
-
-### Protest in front of hospitals
-
-*2024-03-12 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194407) · `si`
-
-Health staff protest against salary delay and administrative interference. Ravi Kudmith, Health Trade Union convener, speaks for hospitals nationwide.
-
-🟩
-
-Health staff have organized a protest against the delay in increasing salary and interferes with health administrators.
-
-Accordingly, the convener of the Health Trade Union The Department of Health Trade Union Ravi Kudmith said, according to the hospitals across the country.
-
-◼️
-
-[Data](articles/069406b3.json)
-
-[Extended Data](ext_articles/069406b3.ext.json)
-
----
-
-### Suspect killed in murdering Malwathuathhiripitiya
-
-*2024-03-12 08:20:14* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතුහිරිපිටිය-හිමිනම-ඝාතනය-කළ-සැකකරු-පොලිස්-වෙඩි-පහරින්-මරුට/11-408551) · `si`
-
-A suspect, Kalhara, was killed in a monastery in Malwathuathhiduwa, Gampaha, after being arrested by the Hambegamuwa Police for a special investigation. The suspect was attacked by police and attempted to flee.
-
-🟩
-
-Attanagalla police say that the main suspect was killed in a 45-year-old monastery in Malwathuathhiduwa, Gampaha.
-
-The deceased has been identified as Kalhara, Ruwanwella road in the Attanagalla Police Division, Urapola, Ruwanwella Aala, Aralaganwila.
-
-The suspect was arrested by the Hambegamuwa Police on the previous day.
-
-The suspect was attacked by the police for a special investigation into the officials of the Crime Division to the Urapali Province and attempted to flee to the police.
-
-The Peliyagoda Criminal Division of the Peliyagoda Base Hospital has been admitted to the Wathupiti Base Hospital for treatment.
-
-◼️
-
-[Data](articles/42a4d9a5.json)
-
-[Extended Data](ext_articles/42a4d9a5.ext.json)
-
----
-
-### 4,500 officers to wildlife conservation of elephant fence
-
-*2024-03-12 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194405) · `si`
-
-The Ministry of Finance approved 4,500 officers for elephant conservation with the Ministry of Wildlife.
-
-🟩
-
-The Ministry of Finance has approved 4,500 Multipurpose Development Officers to the Ministry of Wildlife for Alirasadoader conservation.
-
-◼️
-
-[Data](articles/b2ee7ffa.json)
-
-[Extended Data](ext_articles/b2ee7ffa.ext.json)
-
----
-
-### 4,500 officers to wildlife conservation of elephant fence
-
-*2024-03-12 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194406) · `si`
-
-The Ministry of Finance approved 4,500 Multipurpose Development Officers for the Ministry of Wildlife to aid in elephant conservation. Minister Pavithradevi Wanniarachchi highlighted their conversion into departmental workers for efficient service.
-
-🟩
-
-The Ministry of Finance has approved 4,500 Multipurpose Development Officers to the Ministry of Wildlife for Alirasadoader conservation.
-
-Minister of Wildlife and Forest Resources Protection and Irrigation Pavithradevi Wanniarachchi said that after they were converted into departmental workers, they can get an efficient service to conserve alarmor.
-
-Speaking at a press conference held at the Presidential Media Center, Pavithra Wanniarachchi said this.
-
-"But they are currently using the Multural Development Officers who are currently working on the fencing. New employees will not be recruited. Multipurpose departmental employees are attached to the Wildlife Department and recruitment. "
-
-◼️
-
-[Data](articles/d72c7a15.json)
-
-[Extended Data](ext_articles/d72c7a15.ext.json)
 
 ---

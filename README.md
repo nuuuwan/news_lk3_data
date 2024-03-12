@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 04:34:08**
+As of **2024-03-13 04:50:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,522 (100.0%) of 12,523 articles have been extended.
+12,523 (100.0%) of 12,523 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Gotabaya Rajapaksa released a statement on 6 March that his book will be launche
 ...
 
 [Data](articles/132e5a34.json)
+
+[Extended Data](ext_articles/132e5a34.ext.json)
 
 ---
 

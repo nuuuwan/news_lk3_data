@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 19:18:05**
+As of **2024-03-12 19:33:22**
 
 ## Newspaper Stats
 
-*Scraped **12,457** Articles*
+*Scraped **12,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,74 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 664
 islandlk | 677
-adalk | 1,065
-adaderanalk | 1,501
+adalk | 1,066
+adaderanalk | 1,502
 tamilmirrorlk | 1,513
 virakesarilk | 1,724
-dailymirrorlk | 1,896
+dailymirrorlk | 1,897
 adaderanasinhalalk | 1,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,454 (100.0%) of 12,457 articles have been extended.
+12,457 (100.0%) of 12,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### දකුණේ පාතාලයේ වැරදුණු ඉලක්කය
+### Edu. Ministry urges adherence to guidelines for safeguarding schoolchildren amidst soaring temperatures
+
+*2024-03-12 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97902/edu-ministry-urges-adherence-to-guidelines-for-safeguarding-schoolchildren-amidst-soaring-temperatures) · `en`
+
+The Ministry of Education has reiterated the set of guidelines issued earlier aiming to ensuring the protection of school children from potential adverse effects of the prevailing high atmospheric temperatures.
+
+Addressing all Provincial Education Directors in writing, the Ministry of Education said it has taken note of the reports that some schools were not complying with the set of guidelines issued for organizing outdoor activities at schools hot weather conditions.
+
+Accordingly, it has emphasized the responsibility of all principals of the schools island-wide, in order to ensure the protection of children, while highlighting the need to comply with the guidelines issued earlier.
+
+The communiqué comes a day after a 16-year-old schoolboy died in Ampara after  collapsing while participating in a marathon race held at the Thirukkovil Methodist Central College.
+
+The marathon, held as part of the inter-house sports meet, took place on Monday morning (11) at the school premises.
+
+...
+
+[Data](articles/b423100e.json)
+
+---
+
+### The goal of the underworld in the south
 
 *2024-03-12 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194431) · `si`
 
-යුක්තිය මෙහෙයුම නව මුහුණුවරකින් ආරම්භ වී පැය 24ක් යෑමටත් මත්තෙන්, වෙඩි තබා ඝාතනය කිරීමේ සිද්ධි දෙකක් අම්බලන්ගොඩ හා පිටිගල යන ප්‍රදේශවලින් ඊයේ රාත්‍රියේ වාර්තාවුණි.
+In the south, two shooting incidents reported: 24 hours after a new face operation, 4 killed, 6 wounded; in Malwathathipitiya, a shooter killed by police; in Galle, a shooting at Galagoda, 2 unidentified shooters on a motorcycle, 2 killed, 3 injured; in Pitigala, another shooting, 2 killed, 2 women injured; suspects treated for shooting injuries.
 
-එම වෙඩි තැබීම්වලින් පුද්ගලයන් සිව් දෙනකු මිය ගොස්, 6 දෙනෙකු තුවාල ලැබූ අතර පොලිසිය පවසන්නේ ඝාතනයවූවන් කිසිදු අපරාධ චෝදනාවකට ලක් නොවූ පුද්ගලයන් බවය.
+🟩
 
-මේ අතර මල්වතුහිරිපිටිය භික්ෂුව ඝාතනයේ වෙඩික්කරු පොලිසිය සමඟ ඇති වූ වෙඩි හුවමාරුවකදී ජීවිතක්ෂයට පත්විය.
+Two cases of shooting and killing 24 hours after the operation operating in a new face was reported last night.
 
-අම්බලන්ගොඩ, ගලගොඩ, වෙලපාරේ පිහිටි වෙළෙඳසැලක් අසලදී ඊයේ රාත්‍රී 8.35ට පමණ වෙඩි තැබීමක් සිදුව තිබුණි.
+Four persons were killed and 6 others were wounded by the shooting and 6 were injured and the police said that the victims were unassigned.
 
-යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු T 56 වර්ගයේ ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර පලාගොස් ඇති බව පොලීසිය පැවසීය.
+Meanwhile, the shooter killed in a shooting with the police in the Malwathathhipitiya.
 
-වෙඩි ප්‍රහාරයෙන් පුද්ගලයන් දෙදෙනෙකු එම ස්ථානයේදීම මියගොස් තවත් තිදෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා බලපිටිය රෝහලට ඇතුළත් කර තිබේ.
+A shooting had been shot at Galagoda, Welilowa shop at Galle.
 
-වෙඩි ප්‍රහාරයෙන් මියගොස් ඇත්තේ, හලඹ උදේශ් මධුරංග නෙහොත් පොඩි මැන්ඩිස් නැමැත්තෙක් සහ දඩල්ලගේ සිතුම් සංජන නම් අදාළ වෙළෙඳසැලේ හිමිකාර තරුණයාය.
+Two unidentified shooters from a motorcycle have fled the shooting from T 56 firearms.
+
+Two persons were killed and 3 others were injured and injured in the shooting and injuring another injuries.
+
+The deceased has been killed in the shooting, a Lady Mandis, a small mandi, and Dadallama, and Dadallama.
+
+Police said that Bough Madhuranga alias "Smarter is later used by drug trafficker after the stopping it is a" Saman boy ", police said.
+
+Police say that the owners of the place was a peaceful life at the time of his shooting.
 
 ...
 
 [Data](articles/5e53b493.json)
+
+[Extended Data](ext_articles/5e53b493.ext.json)
 
 ---
 
@@ -71,6 +101,8 @@ In addition, the ministry mentioned that the candidates can also obtain further 
 ◼️
 
 [Data](articles/bfe5cfcf.json)
+
+[Extended Data](ext_articles/bfe5cfcf.ext.json)
 
 ---
 
@@ -92,19 +124,25 @@ Their letters of appointment were handed over by the President's Secretary Saman
 
 ---
 
-### நாட்டில் இன ஐக்கியம் நிலவ வேண்டுமென்றால் அதிகாரங்கள் பரவலாக்கப்படல் வேண்டும் - கருணாகரம் எம்.பி
+### If there is a racial unity in the country, the powers of powers must be disseminated - Karunagaram MP
 
 *2024-03-12 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178558) · `ta`
 
-வெளிநாட்டமைச்சர் அலிசப்றி பல நாடுகளுக்குச் சென்று வருகின்றார். கடந்த பாராளுமன்றத்தில் அவர் ஆற்றிய உரையை நாங்கள் வரவேற்கின்றோம். சமஷ்டி அதிகாரப் பரவலாக்கல் நடைபெற்றால் நாடு பிளவுபடும் என்று கூறுபவர்கள் வெளிநாட்டமைச்சர் கூறியிருக்கும் தமிழர்கள் சமஷ்டியைக் கோருவதற்கு உரித்துடையவர்கள், தகுதியுடையவர்கள் என்பதனை உணர்வதுடன் அவரது உதாரணங்களையும் சீர்தூக்கிப் பார்க்க வேண்டும் என மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரம் தெரிவித்துள்ளார்.
+Karunagaram MP: For racial unity, federal powers must be decentralized. Alisabri's foreign visits and speeches are welcomed. Decentralization is necessary for economic growth and to prevent division. Sri Lanka can learn from Belgium's power-sharing model.
 
-மட்டக்களப்பில் அவரது அலுவலகத்தில் செவ்வாய்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்….
+🟩
 
-உண்மையிலேயே ஒரு நிரந்தரமான அரசியல் தீர்வு இந்த நாட்டிற்குத் தேவையென்றால், இந்த நாடு பொருளாதாரரீதியாக முன்னேற்றமாக நகரவேண்டுமென்றால், சுபீட்சம் நிலவ வேண்டுமென்றால், இன ஐக்கியம் நிலவ வேண்டுமென்றால் பொலிஸ் அதிகாரம் உட்பட அதிகாரங்கள் பரவலாக்கப்படுவதற்கான வழிவகைகள் செய்யப்படல் வேண்டும்.
+Foreign Minister Alisabri is going to many countries. We welcome his speech in the last Parliament. Batticaloa district parliamentarian Govindan Karunagaram said that those who claim that the country will be divided in the event of a decentralization of the federal power, the Tamils who have said that the foreign minister should realize that he is worthy and worthy of his examples.
+
+He said this during a media briefing held at his office in Batticaloa on Tuesday (12). He further stated that….
+
+If a permanent political solution is needed, this country is to move economically, and if there is a need to exist, there is a need to decentralize the powers of police, including police powers.
 
 ...
 
 [Data](articles/d793b389.json)
+
+[Extended Data](ext_articles/d793b389.ext.json)
 
 ---
 
@@ -293,6 +331,30 @@ The petition was taken up for hearing in the presence of the Court of Appeal in 
 [Data](articles/1dc5763a.json)
 
 [Extended Data](ext_articles/1dc5763a.ext.json)
+
+---
+
+### වයඹ ප්‍රධාන ලේකම් ඉවත් කරයි
+
+*2024-03-12 17:31:47* · [`adalk`](https://www.ada.lk/breaking_news/වයඹ-ප්‍රධාන-ලේකම්-ඉවත්-කරයි/11-408570) · `si`
+
+වයඹ පළාත් සභාවේ ප්‍රධාන ලේකම් රංජිත් ආරියරත්න මහතා වහාම ක්‍රියාත්මක වන පරිදි එම තනතුරෙන් ඉවත් කිරීමට පියවර ගෙන ඇත.
+
+රංජිත් ආරියරත්න මහතා සම්බන්ධයෙන් ලැබී තිබූ චෝදනා සහ පැමිණිලි සැලකිල්ලට ගෙන ජනාධිපති ලේකම් කාර්යාලය විසින් ඔහු එම තනතුරෙන් ඉවත් කිරීමට පියවර ගෙන ඇති බව වාර්තාවේ.
+
+වයඹ පළාත් ආණ්ඩුකාරවරයාගේ සහ වයඹ පළාතේ ශ්‍රී ලංකා පොදුජන පෙරමුණට සම්බන්ධ දේශපාලනඥයන්ගේ නියෝග සහ ඉල්ලීම් නොසලකා හැරීම සම්බන්ධයෙන් ඔහුට එසේ චෝදනා එල්ලවී ඇත.
+
+මේ ආකාරයේ චෝදනා කිසිවකට ආරියරත්න මහතා සම්බන්ධ නැති බැවින් ඔහු තනතුරෙන් ඉවත් නොකරන ලෙස වයඹ පළාතේ උසස් රාජ්‍ය නිලධාරීන් පිරිසක් වයඹ පළාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගෙන් ඉල්ලීමක් පවා කර තිබූ බවද පැවසේ.
+
+ප්‍රධාන ලේකම් තනතුරෙන් ඉවත් කරන ලද ආරියරත්න මහතා ඒ වෙනුවට කුමන තනතුරකට පත් කළාදැයි යන්න මෙතෙක් ප්‍රකාශවි නැත.
+
+මේ ආකාරයට දිවයිනේ පළාත් සභාවකට පත් කරන ලද ප්‍රධාන ලේකම්වරයෙකු නියමිත සේවා කාලයට පෙර එම තනතුරෙන් ඉවත් කරනු ලැබූ ප්‍රථම අවස්ථාව මෙය වීමද විශේෂත්වයකි.
+
+මෙම ඉවත් කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා පරිපාලන සේවා නිලධාරීන්ගේ සංගමයද විරෝධය පළ කර ඇති බවද වාර්තාවේ.
+
+...
+
+[Data](articles/4efe817c.json)
 
 ---
 
@@ -1109,6 +1171,28 @@ Do not hit the fisherman's stomach.
 [Data](articles/1cad10bf.json)
 
 [Extended Data](ext_articles/1cad10bf.ext.json)
+
+---
+
+### Government to establish new Faculty of Medicine at NSBM
+
+*2024-03-12 15:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-establish-new-Faculty-of-Medicine-at-NSBM/108-278713) · `en`
+
+Colombo, March 12 (Daily Mirror) - The Cabinet has green-lit the proposal to establish a Faculty of Medicine under the National School of Business Management (NSBM).
+
+The medical college is to be established under the direct supervision and regulation of the Ministry of Education, the Ministry of Health, and the Sri Lanka Medical Council.
+
+The proposal, put forth by the National School of Business Management (NSBM), a fully self-financed institution owned by the government, aims to award MBBS degrees through this institution.
+
+According to the proposal, the medical college intends to enroll approximately 500 local and foreign students annually for the MBBS degree course.
+
+To facilitate clinical training, the institution has sought approval to reserve the Homagama Base Hospital as a suitable government hospital.
+
+The Cabinet of Ministers has already granted approval for the use of Homagama Base Hospital for clinical training of NSBM medical students.
+
+...
+
+[Data](articles/34912567.json)
 
 ---
 
@@ -2233,69 +2317,5 @@ This article was recommended for the debate of representatives of various politi
 [Data](articles/1efea7c8.json)
 
 [Extended Data](ext_articles/1efea7c8.ext.json)
-
----
-
-### Try to change the electoral system
-
-*2024-03-12 12:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையை-மாற்ற-முயற்சி/175-334549) · `ta`
-
-The government is proposing a mixed electoral system with 160 MPs elected by first-past-the-post (FPTP) and 65 under proportional representation (PR), aiming to address criticisms of the current PR system. This move comes amidst disagreements between political parties that have hindered past attempts to change the electoral system.
-
-🟩
-
-A minister said that the government has made new efforts to bring about changes in the parliamentary electoral system by amendment to the parliamentary election law before the outstanding national elections.
-
-Justice Minister Vijayadasa Rajapakse submitted a cabinet paper for the introduction of a mixed electoral system last week.Under the new system, 160 MPs will be selected under the first level of office and another 65 MPs will be selected under proportional representation.
-
-Under the FPTP, the candidate who receives more votes in a local constituency will get a place.On the contrary, PR is the idea that in Parliament, the parties' seats should be at the rate of votes cast.
-
-This article was recommended for the debate of representatives of various political parties in the House.Currently, London, Minister Rajapakse telephoned Daily Mirror, saying that some parties are supporting the proposals and some parties.
-
-...
-
-[Data](articles/e5251792.json)
-
-[Extended Data](ext_articles/e5251792.ext.json)
-
----
-
-### Public police can inform the police!
-
-*2024-03-12 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178507) · `ta`
-
-Public police can inform the police! Police headquarters introduced telephone numbers for public drug info, enhancing strategy. The police media unit set up these numbers to identify callers.
-
-🟩
-
-The police headquarters said that the telephone numbers have been introduced to inform the public about the drug, to further implement the strategy.
-
-The police media unit said that these numbers were set up to identify the caller's identity when making telephone calls.
-
-◼️
-
-[Data](articles/570353e4.json)
-
-[Extended Data](ext_articles/570353e4.ext.json)
-
----
-
-### Ramadan begins in Gaza with hunger worsening and no end to the war in sight
-
-*2024-03-12 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97891/ramadan-begins-in-gaza-with-hunger-worsening-and-no-end-to-the-war-in-sight) · `en`
-
-Palestinians began fasting for the Muslim holy month of Ramadan on Monday with cease-fire talks at a standstill, hunger worsening across the Gaza Strip and no end in sight to the war between Israel and Hamas.
-
-Prayers were held outside amid the rubble of demolished buildings. Fairy lights and decorations were hung in packed tent camps, and a video from a U.N.-school-turned-shelter showed children dancing and spraying foam in celebration as a man sang into a loudspeaker.
-
-But there was little to celebrate after five months of war that has killed over 30,000 Palestinians and left much of Gaza in ruins. Families would ordinarily break the daily sunrise-to-sundown fast with holiday feasts, but even where food is available, there is little beyond canned goods, and the prices are too high for many.
-
-“You don’t see anyone with joy in their eyes,” said Sabah al-Hendi, who was shopping for food Sunday in the southernmost city of Rafah. “Every family is sad. Every family has a martyr.”
-
-...
-
-[Data](articles/32c4365d.json)
-
-[Extended Data](ext_articles/32c4365d.ext.json)
 
 ---

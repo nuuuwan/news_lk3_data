@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 03:17:58**
+As of **2024-03-13 03:33:18**
 
 ## Newspaper Stats
 
-*Scraped **12,518** Articles*
+*Scraped **12,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 666
 islandlk | 677
 adalk | 1,070
 adaderanalk | 1,509
-tamilmirrorlk | 1,518
-virakesarilk | 1,740
+tamilmirrorlk | 1,519
+virakesarilk | 1,741
 dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,513 (100.0%) of 12,518 articles have been extended.
+12,518 (100.0%) of 12,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### சவால்களுக்கு ஈடுகொடுத்து, கொள்கைகளுக்கு மதிப்பளிக்கும் எதிர்காலச் சந்ததியை கட்டியெழுப்பும் கல்வி முறைமை நாட்டுக்குத் தேவை - ஜனாதிபதி
+
+*2024-03-13 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178577) · `ta`
+
+சாவால்களைக் கண்டு தப்பி ஓடாமல், அனைத்துச் சந்தர்ப்பங்களிலும் தமது கொள்கைகளில் உறுதியாகவிருந்து, முன்னேற்றிச் செல்லும் சந்ததியை, இந்நாட்டுக் கல்வியின் மூலம் உருவாக்கி, வலுவூட்ட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+
+கொழும்பு சங்கரீ லா ஹோட்டலில் திங்கட்கிழமை (11) நடைபெற்ற வெஸ்லி கல்லூரியின் 150 ஆவது ஆண்டுப் பூர்த்தி விழாவிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+நாட்டுக்குத் தேவையான பிரஜைகளை உருவாக்குவதற்கு வெஸ்லி கல்லூரி முன்னோடிச் சேவையாற்றியுள்ளதெனச் சுட்டிக்காட்டிய ஜனாதிபதி, அதற்காக நன்றியும் கூறினார்.
+
+கொழும்பு வெஸ்லி கல்லூரி 1874 ஆம் ஆண்டு பிரித்தானியக் காலனித்துவ ஆட்சியின் போது மெதடிஸ்ட் மிஷனரி கல்வி முறையின் கீழ் நிறுவப்பட்டது. இக்கல்லூரி இலங்கையின் சுதந்திரப் போரின் முன்னோடிகள், ஆளுநர்கள், ஜெனரல்கள், அரசியல் தலைவர்கள், வர்த்தகர்கள், விஞ்ஞானிகள், பேராசிரியர்கள் உள்ளிட்ட பல்வேறு துறைகளில் இலங்கைக்குச் சேவையாற்றிய பல முக்கியஸ்தர்களை உருவாக்கியிருந்தது.
+
+...
+
+[Data](articles/ec2b167e.json)
+
+---
 
 ### Talawakelle Tea Estates wins Best Corporate Citizen Sustainability Award 2023
 
@@ -48,23 +66,31 @@ Talawakelle Tea Estates also walked away with the Category B ‘Best Corporate C
 
 [Data](articles/864951ef.json)
 
+[Extended Data](ext_articles/864951ef.ext.json)
+
 ---
 
-### வடக்கு மற்றும் வடமேல் மாகாணங்களுக்கான புதிய பிரதமச் செயலாளர்கள் நியமனம்
+### Appointment of new Chief Secretaries for the Northern and North Western Provinces
 
 *2024-03-13 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178576) · `ta`
 
-வடக்கு மாகாண பிரதமச் செயலாளராக எல். இளங்கோன் மற்றும் வடமேல் மாகாண பிரதமச் செயலாளராக தீபிகா கே குணரத்ன ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+L. Deepika Ke Gunaratne appointed as North Western Chief Secretary. President Ranil Wickremesinghe made the appointments. L. Ilangovan, former Secretary to Northern Provincial Ministries, now Chief Secretary of Northern Province.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இந்த நியமனங்கள் மேற்கொள்ளப்பட்டுள்ளதுடன் இதற்கான நியமனக் கடிதங்களை ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஜனாதிபதி செயலகத்தில் வைத்து செவ்வாய்க்கிழமை (12) கையளித்தார்.
+🟩
 
-இலங்கை நிர்வாகச் சேவையின் தலைசிறந்த அதிகாரியான எல்.இளங்கோவன் வடக்கு மாகாண அமைச்சுக்கள் பலவற்றின் செயலாளர் பதவி வகித்ததுடன், வடக்கு மாகாண ஆளுநரின் செயலாளராகும் பணியாற்றியுள்ளார்.
+L.. Deepika Ke Gunaratne has been appointed as the Chief Secretary of the North Western Province.
 
-எல்.இளங்கோவன் வடக்கு மாகாண பிரதமச் செயலாளராக நியமனம் பெறும் வரை, வடக்கு மாகாண அபிவிருத்தி தொடர்பான ஜனாதிபதியின் மேலதிக செயலாளராக பணியாற்றி வந்தமை குறிப்பிடத்தக்கது.
+The appointments have been made by President Ranil Wickremesinghe and the President's Secretary Saman Ekanayake handed over the appointment letters to the Presidential Secretariat on Tuesday (12).
+
+L. Ilangovan, the top official of the Sri Lanka Administrative Service, has been the Secretary to the Northern Provincial Ministries and has served as the Governor of the Northern Province.
+
+Until L. Ilangovan was appointed as the Chief Secretary of the Northern Province, he served as the Additional Secretary of the President on the Development of the Northern Province.
 
 ◼️
 
 [Data](articles/a31dec43.json)
+
+[Extended Data](ext_articles/a31dec43.ext.json)
 
 ---
 
@@ -86,6 +112,8 @@ In 2023, Sri Lanka exported a total of $ 257.73 million worth of goods.
 
 [Data](articles/0bb6b69d.json)
 
+[Extended Data](ext_articles/0bb6b69d.ext.json)
+
 ---
 
 ### Access, Ninewells JV get UDA land for healthcare venture
@@ -102,23 +130,31 @@ The Cabinet of Ministers approved the proposal submitted by the Urban Developmen
 
 [Data](articles/e9f04871.json)
 
+[Extended Data](ext_articles/e9f04871.ext.json)
+
 ---
 
-### வீட்டுதோட்ட விளைச்சல் வேலைத் திட்டத்திற்காக 231 மில்லியன் ஒதுக்கீடு - மொஹான் பிரியதர்ஷன டி சில்வா
+### Mohan Priyadarshana de Silva
 
 *2024-03-13 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178575) · `ta`
 
-நாட்டின் பொருளாதாரத்தைப் பலப்படுத்த விவசாய அமைச்சு பல்வேறு வேலைத் திட்டங்களைச் செயற்படுத்துவதாகவும், தற்போதும் 10 பேர்ச்சஸ்ஸூக்கும் அதிகமான வீட்டுத் தோட்டங்களுக்கு 2 இலட்சம் ரூபா ஒதுக்கீடுகளை வழங்கத் தீர்மானித்துள்ளதாகவும் விவசாய இராஜாங்க அமைச்சர் மொஹான் பிரியதர்ஷன டி சில்வா தெரிவித்தார்.
+Mohan Priyadarshana de Silva, Minister of Agriculture, announced programs to boost economy, allocating Rs. 232. He highlighted the agricultural sector's growth, despite facing crises, and the importance of increasing harvest yields. The country's annual rice demand is 2.4 million metric tonnes, with current yields expected to reach 3.6 metric tonnes. Drought predictions prompt caution in water use. New rice varieties and crops like chilli, ventika, pomegranate, and wheat are being introduced to strengthen the economy.
 
-அதற்காக விவசாய அபிவிருத்தி திணைக்களத்தினால் 232 ரூபா ஒதுக்கீடு செய்யப்பட்டிருப்பதாகவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+Minister of Agriculture Mohan Priyadarshana de Silva said that the Ministry of Agriculture is implementing various programs to strengthen the country's economy and has decided to provide Rs.
 
-''தற்போது நாம் மிகப் பெரிய பொருளாதார நெருக்கடியை எதிர்கொண்டிருக்கும் நாடு. கடந்த காலங்களில் விவசாய துறையும் பல்வேறு நெருக்கடிகளை எதிர்கொண்டிருந்தது. தற்போது அந்த நிலைமை மாறியிருக்கிறது.  விவசாய அமைச்சும் நாட்டின் பொருளாதாரத்தைப் பலப்படுத்த பல வேலைத் திட்டங்களை ஆரம்பித்துள்ளது.  அதனால் நாட்டின் பொருளாதாரமும் விவசாயத் துறையும் முன்பிருந்த நிலையை விடவும் வளர்ச்சியை எட்டியுள்ளன.
+The Minister of State for Agricultural Development has allocated 232 rupees.
+
+He said this at a media briefing held at the Presidential Media Center on Tuesday (12).
+
+“The country we are currently facing the biggest economic crisis. In the past, the agricultural sector was facing various crises. The situation has changed.The Ministry of Agriculture has also launched a number of programs to strengthen the country's economy.So the economy and agriculture of the country have grown more than ever before.
 
 ...
 
 [Data](articles/9c501322.json)
+
+[Extended Data](ext_articles/9c501322.ext.json)
 
 ---
 
@@ -421,6 +457,24 @@ On the other contrary, Russia, has been able to circumvent the sanctions and kee
 ---
 
 ### 2024-03-12 (Tuesday)
+
+### பொது மக்களுக்கு மிக முக்கிய செய்தி...
+
+*2024-03-12 23:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-மிக-முக்கிய-செய்தி/175-334583) · `ta`
+
+இந்த நாட்களில் அதிக வெப்பமான காலநிலை நிலவுவதால் நீர் மற்றும் மின்சாரத்தை சிக்கனமாக பயன்படுத்துமாறு இலங்கை மின்சார சபை மற்றும் தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபை மக்களை கேட்டுக்கொள்கின்றன.
+
+இந்த காலநிலை இன்னும் இரண்டு மாதங்களுக்கு நீடித்தால், பகுதியளவின் அடிப்படையில் தண்ணீர் திறக்க வேண்டிய நிலை ஏற்படும் என நீர் வழங்கல் சபை தெரிவித்துள்ளது.
+
+இதேவேளை, கடுமையான வெப்பம் காரணமாக முன்பை விட மக்கள் மின்சாரத்தைப் பயன்படுத்தப் பழகிவிட்டனர்.
+
+இதனால் இந்த நாட்களில் மின்சாரத்தின் தேவை அதிகரித்துள்ளதால் மின்சாரத்தை சிக்கனமாக பயன்படுத்துமாறு இலங்கை மின்சார சபை மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/ca3bb083.json)
+
+---
 
 ### Grandmother's pill's throat
 
@@ -2225,61 +2279,5 @@ Meanwhile, the wife who was unloaded in Arali has gone to the Vaddukoddai police
 [Data](articles/28398765.json)
 
 [Extended Data](ext_articles/28398765.ext.json)
-
----
-
-### A lesson on UNP UNP leader Anura Kumara from UNP MP Rohana Bandara
-
-*2024-03-12 15:19:57* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-රෝහණ-බණ්ඩාරගෙන්-ජා-ජ-බ-නායක-අනුර-කුමාරට-දේශපාලනය-ගැන-පාඩමක්/11-408565) · `si`
-
-Anura Kumara, UNP leader, criticized for not achieving economic growth. Rohana Bandara, UNP MP, defended him, highlighting the party's focus on economic development and social issues.
-
-🟩
-
-Mr. Anura Kumara, who was unable to set up an economic growth, is first in the national population speed, without working as a wide lead in the stage.
-
-PSC Parliaments in Medawachchiya electoral organizer of the Medawachchiya electorate
-
-Speaking to the media in Medawachchiya today, he said so. Speaking further Mr. Rohana Bandara of the Hygie Power Rohana Bandara said.
-
-"In the past, the election requires an election. An economic scene, a philosophy
-
-Prepare. To make sure of all the same thing about their party's future program. One one says one thing. They are talking to the preaches to naked, naked. Another
-
-Talking to legalize prostitution. Someone else rescue the woman
-
-It is said that the woman should be taken back into the wooded letter. India secretly secretly. Gone in India
-
-English says Shawi says that the commission flout. Mr. Anura Kumara does not give birth to 5,000 women from Colombo to a meeting of Colombo.. But the results are 3%. "Do the first politics first."
-
-◼️
-
-[Data](articles/b3245779.json)
-
-[Extended Data](ext_articles/b3245779.ext.json)
-
----
-
-### Passmaker in the heart of King Norway
-
-*2024-03-12 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178534) · `ta`
-
-Norwegian King Herald, 87, will undergo surgery in Norway to permanently implant a basemaker device in his heart, following a temporary one installed in Malaysia.
-
-🟩
-
-The Norwegian Palace today announced that the Norwegian King Herald will be fitted with a permanent basemaker device in the heart.
-
-The 87 -year -old king Herald, who recently traveled to Malaysia, was affected by his health. He was lacking heart rate and he was fitted with a temporary Pasemaker device in Malaysia on the 2nd.
-
-In this case, the Norwegian Palace has said that he should be fitted with a permanent basemaker and that surgery will be carried out in Norway today.
-
-King Herald has been facing health impacts for the past few years. However, he rejects the speculation that he may end.
-
-◼️
-
-[Data](articles/058ce4c1.json)
-
-[Extended Data](ext_articles/058ce4c1.ext.json)
 
 ---

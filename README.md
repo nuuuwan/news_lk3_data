@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 20:17:54**
+As of **2024-03-12 20:33:31**
 
 ## Newspaper Stats
 
-*Scraped **12,469** Articles*
+*Scraped **12,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 664
 islandlk | 677
-adalk | 1,067
+adalk | 1,068
 adaderanalk | 1,502
 tamilmirrorlk | 1,514
 virakesarilk | 1,726
@@ -26,27 +26,35 @@ adaderanasinhalalk | 1,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,468 (100.0%) of 12,469 articles have been extended.
+12,469 (100.0%) of 12,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### மக்கள் எழுச்சிப்போராட்டமே ஒரே வழி! - வேலன் சுவாமிகள் அறைகூவல்
+### The only way for the people's upheaval!- Whelan Swamis
 
-*2024-03-12 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178562) · `ta`
+*2024-03-12 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178562) · `ta`
 
-எமக்கான நீதியினை அடைவதற்கு வடகிழக்கு தழுவிய மக்கள் எழுச்சிப்போராட்டமே ஒரே வழி என்று சிவகுரு ஆதீன முதல்வர் வேலன் சுவாமிகள் அறைகூவல் விடுத்துள்ளார்.
+Sivaguru Adheena Chief Minister Velan Swamis calls for a people's uprising in the Northeast for justice, following a false arrest verdict in Vavuniya. The arrested are suffering, and the situation demands unity. A gathering of Northeast relations, public organizations, political parties, university students, and affected parties is planned in Vavuniya.
 
-வெடுக்குநாறிமலை வழக்கைப் பார்வையிடுவதற்காகச் செவ்வாய்க்கிழமை (12) வவுனியா வருகைதந்த அவர் நீதிமன்ற தீர்ப்பின் பின்னர் இவ்வாறு கருத்து தெரிவித்தார்.
+🟩
 
-இலங்கை பொலிசாரின் அடாவடி அளவு கடந்து செல்கின்றது. கைது செய்யப்படுவதற்கான எந்தவிதமான நியாயமான காரணங்களும் இல்லாமல் பொய்யான வகையில் தொல்பொருட் திணைக்களத்தால் நீதிமன்றிற்கு அறிக்கை வழங்கப்பட்டுள்ளது.
+Sivaguru Adheena Chief Minister Velan Swamis has called for the rise of the people in the Northeast to achieve justice.
 
-கைதுசெய்யப்பட்டவர்கள் சீரான உணவின்றி வேதனைகளை அனுபவித்து வருகின்றனர். அவர்களது உறவினர்கள் படும்பாட்டைப் பார்க்கும் போது வார்த்தைகள் வரவில்லை. இந்த சூழ்நிலையில் நாம் ஒரு மக்கள் எழுச்சிப்போராட்டத்தினை வடக்கு கிழக்கு தழுவிய வகையிலே விரைவில் ஒன்றுதிரண்டு ஏற்படுத்த வேண்டும். அதனூடகவே எமக்கான நீதியை நிலைநாட்ட முடியும் என்பது நிரூபிக்கப்பட்டிருக்கின்றது.
+He made this comment after a court verdict of Vavuniya on Tuesday (12) to visit the Vidunarimalai case.
 
-...
+Sri Lankan police pass through. The court has been reported to the court falsely without any legitimate reasons for the arrest.
+
+The arrested people are suffering from uniform food. Words do not come when their relatives look at the film. In this situation, we need to unite a people's uprising in the North and East as soon as possible. It has been proven that we can uphold justice.
+
+Therefore, all the relations of the Northeast, public organizations, political parties, university students and affected parties will be held in Vavuniya soon in Vavuniya.. We want everyone's rituals.
+
+◼️
 
 [Data](articles/1c479d9a.json)
+
+[Extended Data](ext_articles/1c479d9a.ext.json)
 
 ---
 
@@ -347,6 +355,22 @@ He told a news conference of the NPP Economic Council that the IMF team has soug
 [Data](articles/22505144.json)
 
 [Extended Data](ext_articles/22505144.ext.json)
+
+---
+
+### සිකුරාදා වන විට කිරිපිටි කිලෝවක් රු. 150කින් අඩුවෙයි
+
+*2024-03-12 18:13:11* · [`adalk`](https://www.ada.lk/breaking_news/සිකුරාදා-වන-විට-කිරිපිටි-කිලෝවක්-රු--150කින්-අඩුවෙයි/11-408572) · `si`
+
+එළඹෙන 15 වැනි සිකුරාදා වන විට කිරිපිටි කිලෝග්‍රෑම් එකක මිල රුපියල් 150න් අඩුවනු ඇති බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පැවසීය.
+
+රාමසාන් උත්සවය හා සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමය වෙනුවෙන් මෙම පියවර ගත් බව අමාත්‍යවරයා සඳහන් කළේය.
+
+ඒ අනුව කිරිපිටි මිල අඩු කිරීම සදහා කිරිපිටි ආනයනකරුවන් සමග  අමාත්‍යවරයාසාකච්ඡාවක් සිදු කර ඇති අතර, එහිදී මෙලෙස රුපියල් 150න් කිරිපිටි කිලෝග්‍රෑම් එකක මිල අඩු කිරීමට එකඟත්වය පළ කළ බව අද (12දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2a9d9551.json)
 
 ---
 
@@ -2281,27 +2305,5 @@ Marikar responded to this question by recalling how President Ranasinghe Premada
 [Data](articles/4bc43e83.json)
 
 [Extended Data](ext_articles/4bc43e83.ext.json)
-
----
-
-### Pilot project to uplift Aswesuma welfare scheme beneficiaries
-
-*2024-03-12 12:34:00* · [`economynextcom`](https://economynext.com/pilot-project-to-empower-aswesuma-welfare-scheme-beneficiaries-154275/) · `en`
-
-ECONOMYNEXT – A pilot project to move 16,000 Aswesuma beneficiary families out of poverty, using Asian Development Bank, World Bank and local funds, will be implemented in selected divisional secretariats in the 25 districts, Cabinet spokesman Minister Bandula Gunawardena said.
-
-“While providing welfare benefits to the people impoverished by the economic crisis, we are implementing a three-year programme that will move them out of poverty gradually,” Gunawardena said.
-
-Cabinet approved the proposal to implement the program which will ’empower family units economically, socially and mentally’.
-
-Applications for the second phase of the welfare scheme close on March 15 (Friday). State Minister for Finance Shehan Semasinghe said payments will be made to the beneficiaries selected under the second phase in July.
-
-Semasinghe said he had discussions with officers of the Samurdhi Development Departments on the importance of empowerment of Aswesuma beneficiaries.
-
-...
-
-[Data](articles/3e7ed719.json)
-
-[Extended Data](ext_articles/3e7ed719.ext.json)
 
 ---

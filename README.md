@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 09:52:29**
+As of **2024-03-12 10:03:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,945
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,306 (100.0%) of 12,309 articles have been extended.
+12,309 (100.0%) of 12,309 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,39 +50,55 @@ The suspect was arrested on Sunday by the Hambegamuwa Police and later was hande
 
 [Data](articles/0df46aee.json)
 
+[Extended Data](ext_articles/0df46aee.ext.json)
+
 ---
 
 ### Decision to allow import of selected spices for re-export reversed
 
 *2024-03-12 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97886/decision-to-allow-import-of-selected-spices-for-re-export-reversed) · `en`
 
-The gazette notification allowing the import of several spices including pepper for re-export has been revoked.
+The gazette notification allowing the import of selected spices for re-export has been revoked.
 
 The communique was revoked following a request made by Agriculture Minister Mahinda Amaraweera from President Ranil Wickremesinghe at the Cabinet meeting on Monday (March 11).
 
-◼️
+On Sunday, the Finance Ministry announced that import of selected spices including pepper, cardamom, ginger, nutmeg, turmeric, cumin and others for re-exportation purposes would be permitted.
+
+The import of these spices were conditionally allowed, subject to the approval of the Controller General of Import and Export and a locally value addition of 35%.
+
+This decision was taken after the Cabinet nod was given to issue relevant import licenses under the Import and Export Control Regulations.
+
+...
 
 [Data](articles/cdf7a041.json)
 
+[Extended Data](ext_articles/cdf7a041.ext.json)
+
 ---
 
-### ගම්මිරිස් ඇතුළු කුළුබඩු ප්‍රතිඅපනයනයට අවසර දුන් ගැසට්ටුව අත්හිටුවයි
+### The gazette that allowed the spice including pepper suspended
 
 *2024-03-12 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194409) · `si`
 
-ගම්මිරිස් ඇතුළු කුළුබඩු වර්ග කිහිපයක් ප්‍රතිඅපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර දීමට රජය විසින් පළ කළ ගැසට් නිවේදනය අත්හිටුවීමට තීරණය කර තිබේ.
+The government suspended a gazette allowing the importation of pepper and other spices, citing concerns from the Minister of Agriculture and Plantation Industry about local spice production.
 
-ගම්මිරිස්, සාදික්කා, වසාවාසි, කහ , ඉඟුරු , හා කරදමුංගු ආදි ශ්‍රී ලංකාවේ වැවෙන කුළුබඩු වර්ග කිහිපයක් ප්‍රතිඅපනයනය සඳහා මෙරටට ආනයනය කිරීමට අවසර දෙමින් රජය විසින් පසුගියදා ගැසට් නිවේදනයක් නිකුත් කරනු ලැබීය.
+🟩
 
-ඊයේ (11) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැති අමාත්‍ය මණ්ඩල සාකච්ඡාවේ දී කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා අදාළ ගැසට් නිවේදනය සම්බන්ධව තම විරුද්ධත්වය පළ කර තිබේ.
+The government has decided to suspend the gazette notification published by the government to permit the importation of several varieties of peppers.
 
-විශේෂයෙන් මෙම කුළුබඩු වර්ග ප්‍රතිඅපනයනය සඳහා ආනයනයට අවසරදීම මඟින් දේශීය කුළුබඩු ගොවියා අධෛර්මත්වන බවත්, එමනිසා දේශීය කුළුබඩු නිෂ්පාදන වගාව කඩා වැටෙන බවත් අමාත්‍යවරයා පෙන්වා දී ඇත.
+The government recently issued a gazette notification to import a few spices growing to the country to import them pepper, nutmeg, coastal, yellow, ginger, and cardamom.
 
-එමෙන්ම දැනට ලෝකයේ හොඳම කුළුබඩු ලෙස සන්නාම අතර පළමු ස්ථානයේ සිටින ශ්‍රී ලංකාවේ කුළුබඩුවල ප්‍රමිතිය සඳහා මෙමඟින් ප්‍රබල බලපෑමක් එල්ල වන බව ද අමාත්‍යවරයා පෙන්වා දී තිබේ.
+Minister of Agriculture and Plantation Industry, Minister of Agriculture and Plantation Industry under the patronage of President Ranil Wickremesinghe yesterday (11) was held on his opposition to the gazette notification.
+
+The Minister has pointed out that the local spice farmer is admired and that local spice production will fall to the extent of importation of these spices.
+
+The Minister has also pointed out that these have a profound effect on the first place in Sri Lanka in the first place between the best spices in the world.
 
 ...
 
 [Data](articles/33b08c0b.json)
+
+[Extended Data](ext_articles/33b08c0b.ext.json)
 
 ---
 

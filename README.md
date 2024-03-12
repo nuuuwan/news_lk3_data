@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 09:02:53**
+As of **2024-03-12 09:17:52**
 
 ## Newspaper Stats
 
-*Scraped **12,304** Articles*
+*Scraped **12,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 641
 economynextcom | 642
 islandlk | 677
 adalk | 1,048
-adaderanalk | 1,484
+adaderanalk | 1,485
 tamilmirrorlk | 1,498
 virakesarilk | 1,687
 dailymirrorlk | 1,875
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,302 (100.0%) of 12,304 articles have been extended.
+12,304 (100.0%) of 12,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### Health workers to stage protests near hospitals today
+
+*2024-03-12 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97885/health-workers-to-stage-protests-near-hospitals-today) · `en`
+
+Health sector employees have decided to stage a series of protests in front of selected hospitals today (March 12).
+
+The Convenor of Health Service Trade Unions, Ravi Kumudesh said the demonstrations were organized in protest of the continuous delaying of their salary increase and the failure to take action against the health sector administrators obstructing their work.
+
+The protests are planned to be staged in front of selected state hospitals starting at noon, according to Kumudesh.
+
+◼️
+
+[Data](articles/981ec431.json)
+
+---
 
 ### Protest in front of hospitals
 
@@ -52,23 +68,29 @@ Accordingly, the convener of the Health Trade Union The Department of Health Tra
 
 ---
 
-### මල්වතුහිරිපිටිය හිමිනම ඝාතනය කළ සැකකරු පොලිස් වෙඩි පහරින් මරුට
+### Suspect killed in murdering Malwathuathhiripitiya
 
 *2024-03-12 08:20:14* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතුහිරිපිටිය-හිමිනම-ඝාතනය-කළ-සැකකරු-පොලිස්-වෙඩි-පහරින්-මරුට/11-408551) · `si`
 
-ගම්පහ මල්වතුහිරිපිටිය විහාරස්ථානයක වැඩ සිටි 45 හැවිරිදි හිමි නමක වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියේ ප්‍රධාන සැකකරු ඊයේ මධ්‍යම රාත්‍රියේ දී පොලිස් වෙඩි පහරකට ලක්ව මියගොස් ඇතැයි අත්තනගල්ල පොලිසිය කියයි.
+A suspect, Kalhara, was killed in a monastery in Malwathuathhiduwa, Gampaha, after being arrested by the Hambegamuwa Police for a special investigation. The suspect was attacked by police and attempted to flee.
 
-අත්තනගල්ල පොලිස් වසමේ ඌරාපොළ, රුවන්වැල්ල පාර, ලිහිණියාගොල්ල ඇළ අසලදී පොලිස් වෙඩි පහරින් මෙසේ මියගොස් ඇත්තේ කල්හාර දිල්ෂාන් නැමති අරලගංවිල පදිංචිව සිටි 27 හැවිරිදි තරුණයෙකි.
+🟩
 
-මෙම සැකකරු ඉකුත් .10 දින හම්බේගමුව පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් පසු වැඩිදුර පරීක්ෂණ සඳහා පෑලියගොඩ අපරාධ කොට්ඨාශය වෙත භාරදී තිබිණි .
+Attanagalla police say that the main suspect was killed in a 45-year-old monastery in Malwathuathhiduwa, Gampaha.
 
-අපරාධ කොට්ඨාසයේ නිලධාරින් විශේෂ පරීක්ෂණයක් සඳහා සැකකරු ඌරාපොල ලිහිණියගොල්ල ඇළ ප්‍රදේශය වෙත වෙත රැගෙන ආ අවස්ථාවේ පොලිස් නිලධාරීන් හට පහරදී පළායාමට උත්සාහ දරා ඇති අතර එහිසී පොලීසිය සිදුකළ වෙඩි තැබීමකින් සැකකරු ජීවිතක්ෂයට පත්ව තිබේ.
+The deceased has been identified as Kalhara, Ruwanwella road in the Attanagalla Police Division, Urapola, Ruwanwella Aala, Aralaganwila.
 
-සිදුවීමෙන් තුවාල ලැබූ පෑලියගොඩ අපරාධ කොට්ඨාසයේ පොලිස් සැරයන්වරියක ප්‍රතිකාර සඳහා වතුපිටිවල මූලික රෝහලට ඇතුළත් කර ඇත.
+The suspect was arrested by the Hambegamuwa Police on the previous day.
+
+The suspect was attacked by the police for a special investigation into the officials of the Crime Division to the Urapali Province and attempted to flee to the police.
+
+The Peliyagoda Criminal Division of the Peliyagoda Base Hospital has been admitted to the Wathupiti Base Hospital for treatment.
 
 ◼️
 
 [Data](articles/42a4d9a5.json)
+
+[Extended Data](ext_articles/42a4d9a5.ext.json)
 
 ---
 
@@ -788,6 +810,8 @@ He also alleged Dr. Weerasinghe of implementing policies that disproportionately
 
 From left: Oceanpick Ltd., Founder and Managing Director Irfan Thassim,  Malaysia’s High Commissioner Badli Hisham Adam, Airport Manager, Ratmalana Intl. Airport Pubudu Janith, Malaysia›s Minister of Agriculture and Food Security YB Datuk Seri Mohamad bin Sabu, Amana Bank Managing Director/CEO Mohamed Azmeer,  Malaysia Agriculture Research and Development Institute Director General  Dr. Mohamad Zabawi bin Abdul Ghani, Special Tasks Officer to the Minister Ministry of Agriculture and Food Security Malaysia  Abdul Hakim bin Azmy
 
+Entire team (standing) with Founder Irfan and the Malaysian high level delegation
+
 ...
 
 [Data](articles/8ce14ce3.json)
@@ -1313,6 +1337,8 @@ SEC Chairman, Faizal Salieh, Deputy Director General SEC, Tushara Jayaratne, Dir
 ...
 
 [Data](articles/6af56d4d.json)
+
+[Extended Data](ext_articles/6af56d4d.ext.json)
 
 ---
 
@@ -2141,33 +2167,5 @@ Taking to ‘X’ (formerly Twitter), the diplomat highlighted that the joint st
 [Data](articles/c17c5470.json)
 
 [Extended Data](ext_articles/c17c5470.ext.json)
-
----
-
-### 69 killed in 3 years
-
-*2024-03-11 17:54:04* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-3ට-සුනඛයින්-නිසා-69ක්-ජීවිතක්ෂයට/11-408546) · `si`
-
-In 2021-23, 69 deaths from rabies occurred, with 65,773, 66,247, and 69,834 dog bites treated in hospitals. Dr. Ramesh Pathirana, Health Minister, urged public to vaccinate dogs against rabies.
-
-🟩
-
-In the year 28 and 16, 69 persons have died due to 69 people, 25, 28 and 16 in the year 28 and 16.
-
-It was also revealed that there were 65,773, 66,247 and 69,834 persons respectively, respectively, as 60,847 persons respectively in general area generations.
-
-Minister of Health Dr. Ramesh Pathirana provided this information as PS MP Upul Mahendra Rajapaksa who appealed to the verbal answer in Parliament.
-
-The Minister said that the public is requesting the public to direct their dogs to the proper vaccine, he said.
-
-Speaking further Minister of Health, Dr. Ramesh Pathiran was speaking.
-
-The people who have been treated at government hospitals due to biting dogs are as follows. 65,773 in 2021, 66,247 in 2022, 69,834 in 2023. The number of people died in 2021 due to rabies and 2023, 16 deaths in 2023.
-
-...
-
-[Data](articles/2a6aa171.json)
-
-[Extended Data](ext_articles/2a6aa171.ext.json)
 
 ---

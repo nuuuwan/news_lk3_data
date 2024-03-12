@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 13:33:24**
+As of **2024-03-12 13:52:01**
 
 ## Newspaper Stats
 
-*Scraped **12,366** Articles*
+*Scraped **12,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,76 @@ economynextcom | 647
 islandlk | 677
 adalk | 1,052
 adaderanalk | 1,493
-tamilmirrorlk | 1,505
+tamilmirrorlk | 1,510
 virakesarilk | 1,704
-dailymirrorlk | 1,887
-adaderanasinhalalk | 1,951
+dailymirrorlk | 1,888
+adaderanasinhalalk | 1,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,364 (100.0%) of 12,366 articles have been extended.
+12,366 (99.9%) of 12,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### පරාටේ නීතියේ සංශෝධන පනත පාර්ලිමේන්තුවට
+### ධාවන තරගයක් අතරතුර සිසුවෙකු මියයෑම ගැන අමාත්‍යාංශයෙන් විමර්ශනයක්
+
+*2024-03-12 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194416) · `si`
+
+පාසල් මැරතන් ධාවන තරගයක් අතරතුර හදිසියේ ඇති වු අසනීප තත්ත්වයකින් සිසුවෙකු මියයාමේ සිද්ධිය සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යංශය විමර්ශනයක් ආරම්භ කර තිබේ.
+
+ඊයේ (11) දිනයේ තිරුක්කෝවිල් හී පාසලක පැවති මැරතන් ධාවන තරගයකට සහභාගී වු 16 හැවිරිදි සිසුවෙකු හදිසියේ රෝගී වීමෙන් අක්කරෙයිපත්තුව රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබිණි.
+
+අදාළ සිසුවා මියයාමට හේතුව මෙතෙක් නිෂ්චිතව අණාවරණය වී නොමැති අතර පශ්චාත් මරණ පරීක්ෂණය අම්පාර රෝහලේ දී සිදුකිරීමට නියමිතව තිබේ.
+
+කෙසේවෙතත් පවතින උෂ්ණාධික කාලගුණික තත්ත්වයත් සමග එළිමහනේ ක්‍රියාකාරකම් සීමාකරන ලෙස දන්වමින් අධ්‍යාපන අමාත්‍යංශය විසින් සියලු පාසල් බලධාරීන් වෙත විශේෂ චක්‍රලේකයක් පසුගිය දා නිකුත් කර තිබිණි.
+
+ඒ අනුව අදාළ සිද්ධිය සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යංශය විමර්ශනයක් සිදුකරන බව "අද දෙරණ" කළ විමසීමක දී අධ්‍යාපන අමාත්‍යංශයේ ලේකම් වසන්තා පෙරේරා මහත්මිය පැවසුවාය.
+
+මේ අතර මැරතන් වැනි දිගු දුර තරග සඳහා සහභාගී වීමට පෙර සිසුන්ගේ සෞඛ්‍ය තත්ත්වය පරීක්ෂා කළ යුතු බව විශේෂ වෛද්‍ය චන්න ද සිල්වා මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/564bdfaf.json)
+
+---
+
+### Prantha's Law Amendment Act to Parliament
 
 *2024-03-12 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194415) · `si`
 
-පරාටේ නීතිය තාවකාලිකව අත්හිටුවීම සඳහා අවශ්‍ය ණය අයකරගැනීමේ සංශෝධන පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත් ඉන් අනතුරුව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිවී තිබෙනවා.
+Prantha's Law Amendment Act received Cabinet approval, affecting banks' loan sales and debt collection. The bill, amended under Special Provisions, was cleared by the Attorney General.
 
-අද පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදි මේ පිළිබඳ කරුණු පැහැදිලි කෙරුණා.
+🟩
 
-ණය ගැනුම්කරුවන් විසින් නොගෙවා පැහැර හරින ලද ණය අයකර ගැනීම සඳහා එම ණය වෙනුවෙන් උකස් කරනු ලැබ ඇති යම් දේපළක් ප්‍රසිද්ධ වෙන්දේසියේ විකිණීමට අදාළ බැංකු විසින් ගනු ලබන ක්‍රියාමාර්ග 2024-12-15 දින දක්වා තාවකාලිකව අත්හිටුවීමටත්, ඒ සඳහා විධිවිධාන සැලසීම පිණිස 1990 අංක 4 දරන බැංකු මඟින් ප්‍රදානය කරන ලද ණය අයකර ගැනීමේ (විශේෂ විධිවිධාන) පනත සංශෝධනය කිරීමටත් 2024-02-26 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබුණි.
+The Cabinet approval has been approved by the Cabinet Removal Amendment Amendment to the Government Gazette to be published in the Government Gazette.
 
-ඒ අනුව, නීති කෙටුම්පත් සම්පාදක විසින් සකස් කරනු ලැබ ඇති බැංකු මඟින් ප්‍රදානය කරන ලද ණය අයකර ගැනීමේ (විශේෂ විධිවිධාන) (සංශෝධන) පනත් කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශනය ලැබී ඇත.
+The incident was explained when Cabinet decisions today.
+
+The banks that have been temporarily suspended for the sale of loans to the borrower have been temporarily suspended and the banks of the respective loans have been temporarily suspended for the debt and provide measures to the sale of the loans to the sale.The bill was amended (Special Provisions) Act and was approved at the Cabinet Meeting of the Cabinet Meeting of the Ministry of 2024-024-2012.
+
+Accordingly, the legal recovery (Special Provisions) has been received by the Attorney General's clearance on the borrowing of the loan (Special Provisions) Bill (Amendment) Bill.
 
 ◼️
 
 [Data](articles/73c83dd2.json)
+
+[Extended Data](ext_articles/73c83dd2.ext.json)
+
+---
+
+### பால்மா விலையில் மாற்றம்
+
+*2024-03-12 13:15:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-விலையில்-மாற்றம்/175-334553) · `ta`
+
+எதிர்வரும் வெள்ளிக்கிழமை முதல் ஒரு கிலோகிராம் பால் மாவின் விலை 100 முதல் 150 ரூபாயால் குறைக்கப்படும் என வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9697e466.json)
 
 ---
 
@@ -97,6 +137,8 @@ The price of a packet of milk powder is expected to be reduced by an amount rang
 ◼️
 
 [Data](articles/610a5773.json)
+
+[Extended Data](ext_articles/610a5773.ext.json)
 
 ---
 
@@ -329,6 +371,22 @@ This article was recommended for the debate of representatives of various politi
 [Data](articles/1efea7c8.json)
 
 [Extended Data](ext_articles/1efea7c8.ext.json)
+
+---
+
+### தேர்தல் முறைமையை  மாற்ற  முயற்சி
+
+*2024-03-12 12:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையை-மாற்ற-முயற்சி/175-334549) · `ta`
+
+நிலுவையில் உள்ள தேசிய தேர்தல்களுக்கு முன்னதாக, பாராளுமன்ற தேர்தல் சட்டத்தில் திருத்தம் கொண்டு வருவதன் மூலம் பாராளுமன்ற தேர்தல் முறையில் மாற்றங்களை கொண்டுவர அரசாங்கம் புதிய முயற்சிகளை மேற்கொண்டுள்ளதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
+
+நீதி அமைச்சர் விஜயதாச ராஜபக்ச, கலப்பு தேர்தல் முறைமையை அறிமுகப்படுத்துவதற்கான அமைச்சரவைப் பத்திரத்தை கடந்த வாரம் சமர்ப்பித்திருந்தார். புதிய முறையின் கீழ், 160 எம்.பி.க்கள் முதல் நிலை பதவி முறையின் கீழும், மற்றொரு 65 எம்.பி.க்கள் விகிதாசார பிரதிநிதித்துவத்தின் கீழும் தேர்ந்தெடுக்கப்படுவார்கள்.
+
+FPTP இன் கீழ், ஒரு உள்ளூர் தொகுதியில் அதிக வாக்குகளைப் பெறும் வேட்பாளர் ஒரு இடத்தைப் பெறுவார். இதற்கு நேர்மாறாக, PR என்பது பாராளுமன்றத்தில் கட்சிகளின் ஆசனங்கள் அளிக்கப்பட்ட வாக்குகளின் விகிதத்தில் இருக்க வேண்டும் என்ற எண்ணம்.
+
+...
+
+[Data](articles/e5251792.json)
 
 ---
 
@@ -732,6 +790,24 @@ Accordingly, within the next six months, the SriLankan Airline Reformation Progr
 
 ---
 
+### முன்னேற்றம் இன்றேல் 6,000 க்கு ஆபத்து
+
+*2024-03-12 10:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-இன்றேல்-6-000-க்கு-ஆபத்து/175-334546) · `ta`
+
+ஸ்ரீலங்கன் எயார்லைன்ஸ் தனது செயற்பாட்டு மற்றும் நிதிப் பிரிவுகளின் முன்னேற்றத்தை அடுத்த ஆறு மாதங்களுக்குள் காட்ட முடியாவிட்டால் சுமார் 6,000 ஊழியர்களின் வேலைகள் நிச்சயமற்றதாக இருக்கும் என கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+
+விமான சேவையின் தற்போதைய முன்னேற்றம் குறித்த கலந்துரையாடல் இன்று காலை அவரது அலுவலகத்தில் நிறுவன நிர்வாகம் மற்றும் தொழிற்சங்கங்களுடன் நடைபெற்றது.
+
+ஸ்ரீலங்கா எயார்லைன்ஸ் அவ்வப்போது தனது செயற்பாடுகளில் தொடர்ச்சியான தாமதங்கள் காரணமாக குற்றம் சுமத்தப்பட்டதுடன் கடுமையான விமர்சனங்களுக்கு உள்ளானது. இந்த தாமதம் சமீபகாலமாக பயணிகளுக்கு எரிச்சலையும், சிரமத்தையும் ஏற்படுத்தியது.
+
+விமான சேவையை தொடர்ந்தும் நடத்துவதற்கு பல வர்த்தக வங்கிகள் மற்றும் ஏனைய நிறுவனங்களிடமிருந்து கடனாகப் பெற்ற 1.2 பில்லியன் அமெரிக்க டொலர்களில் 510 மில்லியன் அமெரிக்க டொலர்களை மீளச் செலுத்த அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் டி சில்வா தெரிவித்தார்.
+
+...
+
+[Data](articles/86a3d11b.json)
+
+---
+
 ### Bureau of Gazette for Re -Shipment
 
 *2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-செய்வதற்கான-வர்த்தமானி-இடைநிறுத்தம்/175-334545) · `ta`
@@ -755,6 +831,24 @@ Considering these facts, Minister Amaraweera said that the Cabinet has decided t
 [Data](articles/d68d8ff7.json)
 
 [Extended Data](ext_articles/d68d8ff7.ext.json)
+
+---
+
+### மீள் ஏற்றுமதி  இடைநிறுத்தம்
+
+*2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-இடைநிறுத்தம்/175-334545) · `ta`
+
+மிளகு உட்பட பல வகையான வாசனைப் பொருட்களை மீள் ஏற்றுமதிக்காக இறக்குமதி செய்வதற்கு அண்மையில் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலை இடைநிறுத்துவதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக விவசாய அமைச்சு தெரிவித்துள்ளது.
+
+இலங்கையில் விளையும் மிளகு, சாதிக்காய், மஞ்சள், இஞ்சி, ஏலக்காய் போன்ற சில வாசனைப் பொருட்களை மீள் ஏற்றுமதி செய்வதற்காக இறக்குமதி செய்வதற்கு அரசாங்கம் வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
+
+நேற்றைய அமைச்சரவை கூட்டத்தை தொடர்ந்து விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர இது தொடர்பான வர்த்தமானி அறிவித்தல் தொடர்பில் தனது எதிர்ப்பை வெளியிட்டார்.
+
+மீள் ஏற்றுமதிக்காக இந்த வாசனைப் பொருட்களை இறக்குமதி செய்ய அனுமதிப்பதன் மூலம், உள்ளூர் விவசாயிகள் ஊக்கமிழப்பதாகவும், அதனால் உள்ளூர் வாசனைப் பொருட்களின் பயிர்செய்கை வீழ்ச்சியடைந்து வருவதாகவும் அவர் சுட்டிக்காட்டினார். அத்துடன், தற்போது உலகின் சிறந்த வாசனைப் பொருட்களில் முதலிடத்தில் உள்ள இலங்கையின் வாசனைப் பொருட்களின் தரத்தில் இது வலுவான தாக்கத்தை ஏற்படுத்தும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/dec095c6.json)
 
 ---
 
@@ -1061,6 +1155,22 @@ Police said that the man was shot dead when he was taken to rescue the weapons h
 [Data](articles/1e22c2ae.json)
 
 [Extended Data](ext_articles/1e22c2ae.ext.json)
+
+---
+
+### தப்பிச் செல்ல முயன்ற நபர் சுட்டுக்கொலை
+
+*2024-03-12 09:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தப்பிச்-செல்ல-முயன்ற-நபர்-சுட்டுக்கொலை/76-334543) · `ta`
+
+மொனராகலையில் பொலிஸாரால் நேற்று கைது செய்யப்பட்ட மல்வத்து ஹிரிபிட்டிய பிரதேச பௌத்த பிக்கு மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்ட துப்பாக்கிதாரி சுட்டுக் கொல்லப்பட்டார்.
+
+குறித்த சந்தேகநபர் பொலிஸ் பிடியிலிருந்து தப்பிச் செல்ல முயன்ற போது ஏற்பட்ட மோதலில் குறித்த நபர் மீது துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+குறித்த நபர் அத்தனகல்ல, யதவக்க பிரதேசத்தில் மறைத்து வைக்கப்பட்டிருந்த ஆயுதங்களை மீட்க அழைத்து செல்லும் போது தப்பிச் செல்ல முயன்றதாகவும் இதன்போது ஏற்பட்ட மோதலில் அவர் சுட்டுக் கொல்லப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/51f9e39c.json)
 
 ---
 
@@ -1475,6 +1585,24 @@ The analysis estimates that nearly 880 million adults and 159 million children l
 [Data](articles/92b59a4f.json)
 
 [Extended Data](ext_articles/92b59a4f.ext.json)
+
+---
+
+### Sri Lanka rejects global report on child malnutrition
+
+*2024-03-12 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-rejects-global-report-on-child-malnutrition/155-278640) · `en`
+
+Colombo, March 11 (Daily Mirror) - In response to recent findings published in the British medical journal, The Lancet, concerning child malnutrition and underweight girls, Sri Lanka's health authorities have rejected the content referred to the portrayal of Sri Lanka.
+
+According to the study, approximately 410,000 girls in Sri Lanka are categorized as underweight, representing a prevalence of 16.4%. Despite efforts and initiatives aimed at improving nutrition and healthcare access, the report claims no detectable change in this distressing statistic since 1990.
+
+The Lancet publication, which covers data from 1990 to 2022 and was released on February 29, also ranked Sri Lanka second globally, trailing only behind India, for the highest prevalence of dangerously underweight girls aged 5 to 19 years.
+
+The analysis estimates that nearly 880 million adults and 159 million children lived with obesity in 2022.
+
+...
+
+[Data](articles/e2786dd1.json)
 
 ---
 
@@ -2139,143 +2267,5 @@ With its operations in Bangladesh seeing continued expansion, including the open
 [Data](articles/368fe4cd.json)
 
 [Extended Data](ext_articles/368fe4cd.ext.json)
-
----
-
-### Civil rights activists protest outside CBSL over salary hike
-
-*2024-03-12 01:16:51* · [`dailyftlk`](https://www.ft.lk/business/Civil-rights-activists-protest-outside-CBSL-over-salary-hike/34-759380) · `en`
-
-A group of civil rights activists yesterday staged a protest in front of the Central Bank against latter’s sharp salary increments which has come under much criticism.
-
-“We have gathered here at another State within the country — the Central Bank. It operates autonomously, seemingly unchecked,” Magen Ratata Chairman Sanjaya Mahawatte, asserted.
-
-Accusing CBSL Governor Dr. Nandalal Weerasinghe of undue influence, Mahawatte claimed that there are alarming discrepancies in the bank’s operations.
-
-“Recently, a bundle of cash went missing, however, when the investigations were conducted by the Fort Police the Governor did not know how much was missing from the stack of money printed at that time. This shows his lack of oversight,” Mahawatte charged.
-
-He also alleged Dr. Weerasinghe of implementing policies that disproportionately affect private sector workers, by reducing the EPF rate to 9%, while exempting CBSL employees from such measures.
-
-...
-
-[Data](articles/63b2b11b.json)
-
-[Extended Data](ext_articles/63b2b11b.ext.json)
-
----
-
-### High level Malaysian delegation visits Oceanpick Sustainable Seafood Farm
-
-*2024-03-12 01:16:10* · [`dailyftlk`](https://www.ft.lk/business/High-level-Malaysian-delegation-visits-Oceanpick-Sustainable-Seafood-Farm/34-759379) · `en`
-
-From left: Oceanpick Ltd., Founder and Managing Director Irfan Thassim,  Malaysia’s High Commissioner Badli Hisham Adam, Airport Manager, Ratmalana Intl. Airport Pubudu Janith, Malaysia›s Minister of Agriculture and Food Security YB Datuk Seri Mohamad bin Sabu, Amana Bank Managing Director/CEO Mohamed Azmeer,  Malaysia Agriculture Research and Development Institute Director General  Dr. Mohamad Zabawi bin Abdul Ghani, Special Tasks Officer to the Minister Ministry of Agriculture and Food Security Malaysia  Abdul Hakim bin Azmy
-
-Entire team (standing) with Founder Irfan and the Malaysian high level delegation
-
-...
-
-[Data](articles/8ce14ce3.json)
-
-[Extended Data](ext_articles/8ce14ce3.ext.json)
-
----
-
-### Serendib Flour Mills attends prestigious Gulfood 2024 Festival in Dubai
-
-*2024-03-12 01:14:31* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-attends-prestigious-Gulfood-2024-Festival-in-Dubai/34-759378) · `en`
-
-Serendib Flour Mills, Sri Lanka’s leader in wheat flour manufacturing, attended the globally renowned Gulfood 2024 exhibition in Dubai together with key customers.
-
-A delegation from Serendib Flour Mills alongside key clientele were present at the event which not only showcased culinary innovation but was also a forum for forging valuable industry connections.
-
-As a purpose-led organisation focused on ‘Nourishing the Nation’, Serendib Mills attended the global platform to explore cutting edge food technology, sustainability trends and create bonds within the international food industry. It also enabled the company to facilitate an exclusive opportunity for key customers to gain knowledge and global connections through Gulfood 2024 demonstrating the company’s commitment to supporting their individual growth.
-
-...
-
-[Data](articles/19080f3c.json)
-
-[Extended Data](ext_articles/19080f3c.ext.json)
-
----
-
-### Suspect arrested over murder of Buddhist monk killed in police fire
-
-*2024-03-12 01:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97883/suspect-arrested-over-murder-of-buddhist-monk-killed-in-police-fire) · `en`
-
-The suspect arrested in connection with the killing of a Buddhist monk at a temple in Malwathuhiripitiya has been gunned down by police while attempting to escape custody, police said.
-
-The suspect had been escorted by officers to recover weapons allegedly hidden in the Yatawaka area in Attanagalla when he had attempted to escape prompting the policemen to open fire, according to police.
-
-Police yesterday arrested the suspect who is believed to be the shooter in the murder of a Buddhist monk, who was shot dead at a temple in the Malwathuhiripitiya area in January.
-
-The suspect, 32, was arrested in the Hambegama area in Moneragala while he is suspected to be the gunman who carried out the shooting.
-
-In the early hours of January 23, a group of four assailants, who had arrived in a car, shot dead a Buddhist monk inside a temple in the Malwathuhiripitiya area of Gampaha.
-
-...
-
-[Data](articles/2f8a3044.json)
-
-[Extended Data](ext_articles/2f8a3044.ext.json)
-
----
-
-### Shooter shot dead in police murder case
-
-*2024-03-12 00:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194398) · `si`
-
-In Gampaha, a suspect shot by police while trying to escape arrest for a January shooting at Kahanarama Vidyalaya was found dead. Arrested after a tip, the suspect was attempting to find hidden resigns in Attanagalla.
-
-🟩
-
-The shooter who was arrested in a Malwathuhiduwa, Gampaha has died in a police bullet.
-
-The suspect had attempted to escape the shooting of the police while he was going to find hidden resigns in Attanagalla.
-
-The victim was arrested as a shot of the shot of Kahanarama Vidyalaya in Malawana, Gampaha last January.
-
-The suspect was arrested following a tip off received by the Hambegamuwa Police Station as a suspicious person in the area.
-
-◼️
-
-[Data](articles/5ff4f854.json)
-
-[Extended Data](ext_articles/5ff4f854.ext.json)
-
----
-
-### Foreign country should help foreign countries to stop continuing attacks on Tamils
-
-*2024-03-12 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178476) · `ta`
-
-Dawatru's Chief Coordinator urges foreign countries to halt attacks on Tamils and Hindu temples in the North and East. A protest in Nallur was held to support police brutality against Shivaratri worshipers at the Adilinkaswarar temple. The nation is criticized for disregarding court orders, affecting its health and democratic rights.
-
-🟩
-
-The Chief Coordinator of the Integrated Tamil Framework, Dawatru, should help foreign countries to stop attacks on Tamils and Hindu temples in the North and East.. Agathiyar Adikallar said
-
-The protest was held on Monday (11) in Nallur, in the Nallur Adinayan Munil, in order to uphold the rituals of the police, who had brutally confused, arrested, arrested and brutally confused those who had carried out the Shivaratri worship at the Adilinkaswarar temple at the Attukkanarimalai temple.
-
-Our country is a nation that does not respect the court command. We are aware of this. We are not healthy for a country.. The Gandhi nation is looking at the foreigners and we will live with the right to live with the right to fight democratically.
-
-◼️
-
-[Data](articles/38eb59ce.json)
-
-[Extended Data](ext_articles/38eb59ce.ext.json)
-
----
-
-### Capturing services sector cross border transactions
-
-*2024-03-12 00:13:50* · [`dailyftlk`](https://www.ft.lk/columns/Capturing-services-sector-cross-border-transactions/4-759366) · `en`
-
-Central Bank of Sri Lanka’s long endeavour to establish an International Transactions Reporting System
-
-...
-
-[Data](articles/50ce4798.json)
-
-[Extended Data](ext_articles/50ce4798.ext.json)
 
 ---

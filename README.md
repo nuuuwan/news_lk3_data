@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 06:16:45**
+As of **2024-03-12 06:53:06**
 
 ## Newspaper Stats
 
-*Scraped **12,267** Articles*
+*Scraped **12,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,59 @@ dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
-islandlk | 663
+islandlk | 675
 adalk | 1,046
 adaderanalk | 1,483
-tamilmirrorlk | 1,493
+tamilmirrorlk | 1,494
 virakesarilk | 1,687
-dailymirrorlk | 1,870
-adaderanasinhalalk | 1,935
+dailymirrorlk | 1,871
+adaderanasinhalalk | 1,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,267 (100.0%) of 12,267 articles have been extended.
+12,267 (99.9%) of 12,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### වැසි හෝ ගිගුරුම් සහිත වැසි
+
+*2024-03-12 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194399) · `si`
+
+කොළඹ, කළුතර, රත්නපුර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල අද (12) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අම්පාර, මඩකළපුව සහ හම්බන්තොට දිස්ත්‍රික්කවල උදෑසන කාලයේදී වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/09046d56.json)
+
+---
+
+### Tragic death of 16-year-old schoolboy during marathon race
+
+*2024-03-12 06:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tragic-death-of-16-year-old-schoolboy-during-marathon-race/108-278679) · `en`
+
+A 16-year-old schoolboy has died in Ampara after collapsing while participating in a marathon race held at the Tirukkovil Methodist Central College yesterday morning, police said.
+
+The student had collapsed during the marathon and was admitted to the Tirukkovil Hospital. He was later transferred to the Akkaraipattu Hospital for further treatment, where he was pronounced dead.
+
+The event was held as part of the inter-house sports meet at the school premises.
+
+Following the incident, a tense situation was reported after a group of school students and local residents protested by blocking the road in front of the hospital, alleging that the sick student was not treated.
+
+Later, the Police and the Special Task Force (STF) were deployed to diffuse the situation after it turned violent, with some protestors pelting stones at the hospital
+
+◼️
+
+[Data](articles/d7861980.json)
+
+---
 
 ### Ramadan fasting is just beginning today
 
@@ -51,6 +87,22 @@ The Ramadan fasting will begin today, with the source of information available i
 [Data](articles/05e3bd1d.json)
 
 [Extended Data](ext_articles/05e3bd1d.ext.json)
+
+---
+
+### எச்சரிக்கை மட்டத்தில் வெப்பநிலை
+
+*2024-03-12 03:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-334536) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்றைய தினமும் மனித உடலினால் உணரக்கூடிய வெப்பநிலையானது எச்சரிக்கை மட்டத்துக்கு உயர்வடையக் கூடுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+அதன்படி, மேல் மற்றும் தென், சபரகமுவ மாகாணங்களிலும் அனுராதபுரம் மற்றும் மன்னார் மாவட்டங்களின் சில இடங்களிலும் வெப்பநிலை அதிகரித்து காணப்படும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+எனவே, சிறுவர்கள், குழந்தைகள், முதியவர்கள் மற்றும் நோய்வாய்ப்பட்டவர்கள் இந்த நிலைமை தொடர்பில் அவதானமாக இருக்குமாறு சுகாதார பிரிவினர் அறிவுறுத்தியுள்ளனர். (a)
+
+◼️
+
+[Data](articles/d645c710.json)
 
 ---
 
@@ -600,6 +652,26 @@ In his recent update to Parliament on the nation’s economy, President Wickreme
 
 ---
 
+### It’s happening now…what
+
+*2024-03-11 23:10:00* · [`islandlk`](http://island.lk/its-happening-nowwhat/) · `en`
+
+Singer Alston Koch, who now resides in Australia, came up with a song, titled ‘Can We Take This Climate Change,’ and that was 16 years ago…in 2008.
+
+Elaborating on what made him come up with this ‘climate change’ song, the ‘Disco Lady’ hitmaker said that he noticed that some of the beautiful fruit trees, butterflies, birds, etc., that existed when he was young, were gradually disappearing and that the heat was on the rise.
+
+‘Can We Take This Climate Change’ was created by Alston for a United Nations WTO presentation in London, and that was in 2008.
+
+The song was also presented by Geoffrey Lipman, Chairman of International Council of Tourism Partners (ICTP) at the ‘Live the Deal Climate Change’ conference in Copenhagen.
+
+Alston Koch was the Goodwill Ambassador for the campaign, and the song was promoted, globally, by ICTP, in their campaign for green growth.
+
+...
+
+[Data](articles/9b14b6d2.json)
+
+---
+
 ### Five of six missing skiers found dead in Switzerland
 
 *2024-03-11 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/97882/five-of-six-missing-skiers-found-dead-in-switzerland) · `en`
@@ -689,6 +761,112 @@ Fasting during Ramadan, the ninth month of the Islamic lunar calendar, is regard
 [Data](articles/da4f099d.json)
 
 [Extended Data](ext_articles/da4f099d.ext.json)
+
+---
+
+### Gurukula, Maris Stella top 300 runs
+
+*2024-03-11 22:40:00* · [`islandlk`](http://island.lk/gurukula-maris-stella-top-300-runs/) · `en`
+
+Gurukula College, Kelaniya and Maris Stella Colleges topped 300 runs on day one of their Under 19 Division I Tier ‘A’ tournament matches which commenced on Monday.
+
+At Kadirana, Maris Stella batted the whole day to post 319 runs as Safni Deen, Yohan Aloka and Hasindu Perera scored half centuries in their crucial Under 19 Division I Tier ‘A’ cricket encounter against De Mazenod at Kadirana.
+
+351 for 9 decl. in 86 overs (Mohomed Mursad 54, Poorna Kalhara 77, Thathsara Eshan 58, Janith Mihiranga 53n.o.; Shakesh Minon 3/57, Nilupul Liyanage 3/68)
+
+319 all out in 93.5 overs (Safni Deen 50, Oshadha Gunasinghe 38, Yohan Aloka 63, Hasindu Perera 77, Mineth Fernando 27, Nilesha Perera 23; Dinosh Jelon 5/74)
+
+Related Topics:Gurukula College KelaniyaMaris Stella CollegeUnder 19 Division I Tier 'A' Matches
+
+SLI divestiture attracts five businesses; interest grows for Life and General Insurance segments
+
+Central Bank can’t go outside the law to implement arbitrary pay rises: COPA chairman
+
+...
+
+[Data](articles/7309da2f.json)
+
+---
+
+### Surge Global secures multi-million dollar government contract in Qatar
+
+*2024-03-11 22:31:00* · [`islandlk`](http://island.lk/surge-global-secures-multi-million-dollar-government-contract-in-qatar/) · `en`
+
+Surge Global, a leading design, technology, and marketing firm of Sri Lankan origin is thrilled to announce its successful partnership with Gulf Business Machines (GBM) Qatar, one of Qatar’s largest technology companies. The partnership kicked off with a successful bid in securing a multi-million dollar project for a prominent public sector entity in Qatar. This achievement marks a significant milestone for both companies and reaffirms their commitment to delivering bleeding-edge digital transformation on a national scale.
+
+The collaborative effort between Surge Global and GBM Qatar was the result of their shared expertise, dedication, and a compelling vision to provide best-in-class solutions to meet the evolving needs of the Qatari market. As a dynamic partnership, these organizations have demonstrated their ability to combine design excellence, advanced technology, and marketing prowess to address complex challenges effectively.
+
+...
+
+[Data](articles/588f8bd0.json)
+
+---
+
+### Serendib Flour Mills attends prestigious Gulfood 2024 Festival in Dubai
+
+*2024-03-11 22:29:00* · [`islandlk`](http://island.lk/serendib-flour-mills-attends-prestigious-gulfood-2024-festival-in-dubai/) · `en`
+
+Serendib Flour Mills, Sri Lanka’s leader in wheat flour manufacturing, attended the globally renowned Gulfood 2024 exhibition in Dubai together with key customers.
+
+A delegation from Serendib Flour Mills alongside key clientele were present at the event which not only showcased culinary innovation but was also a forum for forging valuable industry connections.
+
+As a purpose-led organization focused on ‘Nourishing the Nation’, Serendib Mills attended the global platform to explore cutting edge food technology, sustainability trends and create bonds within the international food industry. It also enabled the company to facilitate an exclusive opportunity for key customers to gain knowledge and global connections through Gulfood 2024 demonstrating the company’s commitment to supporting their individual growth.
+
+...
+
+[Data](articles/83512655.json)
+
+---
+
+### JAT Holdings posts resilient Q3 with 96% revenue growth from Bangladesh
+
+*2024-03-11 22:26:00* · [`islandlk`](http://island.lk/jat-holdings-posts-resilient-q3-with-96-revenue-growth-from-bangladesh/) · `en`
+
+Sri Lanka’s market leader in wood coatings and paint brushes, and emerging regional conglomerate, JAT Holdings PLC recently released its financials for Q3 of FY 2023/24, reflecting a resilient performance amidst adverse market conditions. With its operations in Bangladesh seeing continued expansion, including the opening of its manufacturing facility in 2023, and its alkyd resin plant in 2024, supported by cutting-edge R&D and value engineering in Sri Lanka, JAT has established itself as a leader in wood coatings in the region.
+
+Related Topics:JATJAT HoldingsJAT Holdings posts resilient Q3 with 96% revenue growth from Bangladesh
+
+Banks alarmed by suspension of parate process at behest of a few individual defaulters – SLBA
+
+Serendib Flour Mills attends prestigious Gulfood 2024 Festival in Dubai
+
+Pintharu Abhiman workshop series empowers wood painters across the Island
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/06dba1aa.json)
+
+---
+
+### Lifebuoy Shampoo champions Sri Lankan women’s legacies
+
+*2024-03-11 22:24:00* · [`islandlk`](http://island.lk/lifebuoy-shampoo-champions-sri-lankan-womens-legacies/) · `en`
+
+Lifebuoy Shampoo proudly announces its initiative aimed at honouring the timeless legacy of outstanding Sri Lankan women on International Women’s Day 2024. Launched at the premises of World Trade Centre and Independence Square on March 8th, this initiative is dedicated to bringing to life the inspiring women that have shaped the nation’s history. Following the launch, the movement will extend to several locations of Colombo including Diyatha Uyana, Pettah Railway Station and Havelock City from March 8th to 11th.
+
+In line with the global theme of ‘inspire inclusion,’ Lifebuoy Shampoo embarks on a proactive journey to emphasise the profound contributions of women in Sri Lanka. Through this initiative, Lifebuoy aims to shine a spotlight on these overlooked voices, fostering a more empowering narrative and cultivate a community that embraces inclusivity by celebrating the invaluable influence of women across Sri Lankan history.
+
+...
+
+[Data](articles/9a863119.json)
+
+---
+
+### SLI divestiture attracts five businesses; interest grows for Life and General Insurance segments
+
+*2024-03-11 22:21:00* · [`islandlk`](http://island.lk/sli-divestiture-attracts-five-businesses-interest-grows-for-life-and-general-insurance-segments/) · `en`
+
+CSE trading activities were bullish yesterday, same as last week, especially among retail investors, due to multiple positive factors, such as, easing of monetary policies and IMF’s optimism on Sri Lanka’s economic progress.
+
+Further, where the Sri Lanka Insurance divestiture is concerned, five entities have qualified for Request for Statement of Qualifications for SLI’s two sectors, namely, Life and General Insurance.
+
+For the Life segment, LIC Lanka Limited, Union Assurance and Asiri Hospitals, have become potential investors, while for General Insurance, Euro Exim Bank and Fair First Insurance are potential investors. Besides, retail investor participation had a positive impact on the market.
+
+...
+
+[Data](articles/2a4977e5.json)
 
 ---
 
@@ -2031,239 +2209,5 @@ Top contributors to the Index included Commercial Bank (up at 94.00), Sampath Ba
 [Data](articles/260d001d.json)
 
 [Extended Data](ext_articles/260d001d.ext.json)
-
----
-
-### Mannar 'Satosa' human burial case;Advocate Rajapaksa to appear in person
-
-*2024-03-11 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178448) · `ta`
-
-In the Mannar Sathosa human burial case, Professor Raj Soma Dev urged for reports from all parties, including the Forensic Police, and ordered legal officer Rajapaksa to appear in court. The case was resumed on May 13, with reports on age, cause of death, and other details requested.
-
-🟩
-
-As the Mannar Sathosa human burial case was taken up at the Mannar Magistrate's Court on Monday (11), Professor Raj Soma Dev said that steps should be taken to obtain reports of all parties, including the Forensic Police, and the legal officer Rajapaksa was ordered to appear in court directly in the next installment.
-
-Attorney V.S. Niranjan, who is arguing on behalf of the missing persons in connection with the case
-
-The Mannar Sathosa human burial case was taken up in the Mannar Magistrate's Court today.
-
-The report already requested by the court was submitted by the last installment of the Lawyer Rajapakse. But we were brought to the attention of the court today as it was not fully involved in the report.
-
-That is, reports of the age, its age, the cause of death, and the cause of death, should be submitted from the human remains taken and the reports should be submitted by Professor Raj Somadeva.
-
-...
-
-[Data](articles/5e3ba76f.json)
-
-[Extended Data](ext_articles/5e3ba76f.ext.json)
-
----
-
-### Panadura to Peeluwa Boobu Prison
-
-*2024-03-11 16:31:31* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-සළිඳු-බූස්ස-බන්ධනාගාරයට/11-408542) · `si`
-
-Sellamula, remanded to Kalutara Prison, was transferred to Boossa Prison. Samarah Janumanya was moved to Malwatta Prison in Kalutara. Jaliya Samarasinghe, representing Sellamula, was threatened by Boossa Prison officials. The magistrate concluded Sellamula was in a secure prison.
-
-🟩
-
-According to Prison sources, Sellamula, who was remanded to the Kalutara Prison, was handed over to the Boossa Prison after he was handed over to the Boossa Prison.
-
-Samarah Janumanya was taken to Malwatta Prison in the Kalutara Malwatta Prison in the Kalutara Malwatta Prison in the Kalutara Prison in Kalutara.
-
-It is reported that the suspect has been deployed to protect the suspect from Kalutara to Boossa to protect.
-
-Attorney-at-Law Jaliya Samarasinghe appearing on behalf of him as a child except the Boossa Prison layers, as he had been thus threatened.
-
-After considering the facts, the magistrate ordered that the suspect was in a suitable prison with security.
-
-◼️
-
-[Data](articles/3f33bb57.json)
-
-[Extended Data](ext_articles/3f33bb57.ext.json)
-
----
-
-### Sri Lanka to release IMF technical assistance reports to opposition on request: MP
-
-*2024-03-11 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-release-imf-technical-assistance-reports-to-opposition-on-request-mp-154108/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s government has agreed to provide copies of the Technical Assistance Rteports compiled by the International Monetary Fund (IMF) to opposition party leaders on request, Tamil National Alliance (TNA) legislator M A Sumanthiran said.
-
-Sumanthiran  was the only member of the opposition to attend a multi-party discussion with the International Monetary Fund (IMF) on the invitation of President Ranil Wickremesinghe.
-
-Speaking to reporters outside the Presidential Secretariat in Colombo on Monday March 11 after the discussions, the Jaffna District MP said he had accepted the invitation extended by the president to opposition party leaders.
-
-The main opposition Samagi Jana Balawegaya (SJB) and the opposition National People’s Power (NPP) boycotted the meeting.
-
-According to Sumanthiran the prime minister, the Leader of the House, the two state ministers of finance, the governor of the central bank, and the treasury secretary joined Monday’s discussion.
-
-...
-
-[Data](articles/653d006c.json)
-
-[Extended Data](ext_articles/653d006c.ext.json)
-
----
-
-### Sri Lanka among other countries want to start rupee trade with India – Minister
-
-*2024-03-11 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97872/sri-lanka-among-other-countries-want-to-start-rupee-trade-with-india-minister) · `en`
-
-Indian Minister of Commerce and Industry Piyush Goyal has revealed that many developed and developing countries including Bangladesh, Sri Lanka, and nations of the Gulf region are keen to start trade in rupee with India as it would help cut transaction costs for business.
-
-He expressed confidence that the development is going to be a “very game-changing” dimension to India’s international trade.
-
-“Bangladesh, Sri Lanka are already talking to us and they want us to start this immediately. Other countries in the Gulf region are looking at that. I think it’ll take some time for people to see the benefits. And then we’ll have more and more developed countries and countries in the Far East also joining the bandwagon. Singapore is already on board to some extent,” he said.
-
-The minister added that gradually countries are realising that undertaking trade in domestic currencies has several advantages.
-
-...
-
-[Data](articles/e4efcc97.json)
-
-[Extended Data](ext_articles/e4efcc97.ext.json)
-
----
-
-### Protest against the arrest of a wall of the Slave Island Railway Station
-
-*2024-03-11 16:27:05* · [`adalk`](https://www.ada.lk/breaking_news/කොම්පඤ්ඤවීදිය-දුම්රිය-ස්ථානයේ-තාප්පයක්-කඩා-ඉවත්-කළ-පිරිස්-අත්අඩංගුවට-ගන්නැයි-විරෝධතාවක්/11-408541) · `si`
-
-Protesters delayed railway services for 2 hours to protest the forcible demolition of a wall at Slave Island Railway Station. Workers claim the action was carried out by vessels in the area, leading to further investigations.
-
-🟩
-
-Railway operation was delayed for about two hours, as a protest held today for the arrest of the wall of the Slave Island.
-
-Railway workers states that a wall was forcibly demolished by several of the vessels in the area.
-
-Railway employees have left train services to delay the arrest of the demolished and the arrest of the number of people.The train services were then conducted further investigations into the seller.
-
-◼️
-
-[Data](articles/d0c46c50.json)
-
-[Extended Data](ext_articles/d0c46c50.ext.json)
-
----
-
-### Protest against increasing salaries
-
-*2024-03-11 16:23:30* · [`adalk`](https://www.ada.lk/breaking_news/වැටුප්-වැඩිකරගත්තාට-විරෝධතාවක්/11-408540) · `si`
-
-Civilian leaders protest against Central Bank of Sri Lanka's salary increase, threatening resignation if wages are not reduced.
-
-🟩
-
-A heroic of several civilian leaders was held today (11) with several civilian leaders against the increase in the salaries of the Central Bank of Sri Lanka.
-
-If the tirty wages are not down, they say that the central banks, including central banks, should resign from their posts.
-
-◼️
-
-[Data](articles/95e80b8b.json)
-
-[Extended Data](ext_articles/95e80b8b.ext.json)
-
----
-
-### Steps to make upcountry mask clothes a World Heritage Site
-
-*2024-03-11 16:19:08* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-වෙස්-ඇදුම්-කට්ටලය-ලෝක-උරුමයක්-බවට-පත්-කිරීමට-පියවර/11-408539) · `si`
-
-Minister Vidura Wickramamana plans to elevate Upcountry Masters to World Heritage status, aiming to preserve cultural heritage for future generations.
-
-🟩
-
-Minister of Buddha Sasana Vidura Wickramamana said that steps will be taken to make up the Upcountry Masters into a World Heritage Site.
-
-The Minister said that the time it would have come to assemble the entire artists to conduct the coalition of our cultural heritage for the next generation.
-
-The inheritance was speaking at a 'Heartappadda Paper' to the Pradeshiya Sabha in the Kandyan Dance Training Street.
-
-"The country is bankrupt. If we bankrupt, we can find them. But the culture is the only ones who are left to the banking of the culture. '
-
-"Public workers' politicians should bear the process of procession. The present culture is waging. Boasts to the world about culture. But how much do you know about the culture? The culture is not to bring the politicians. Our artists are broken. The minister said, "We must get rid of pride and get rid of it."
-
-◼️
-
-[Data](articles/db90ab78.json)
-
-[Extended Data](ext_articles/db90ab78.ext.json)
-
----
-
-### The student is missing in Mannar;Parents seeking public help!
-
-*2024-03-11 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178445) · `ta`
-
-Chandrasekhar Nilaj Rockshan, 17, from Achankulam village in Mannar, is missing. Parents filed a complaint at Murugan Police Station. He was last seen leaving home on Sunday afternoon. The student attends a reputable school in Nanatan. Contact: 077-4722506.
-
-🟩
-
-Chandrasekhar Nilaj Rockshan (age 17), a resident of Achankulam village in the Mannar Nanatan Divisional Secretariat Division, has disappeared.
-
-Parents have lodged a complaint at the Murugan Police Station that the student has not returned home as she left his home in Achangulam village on Sunday (10) afternoon.
-
-It is reported that the missing student is studying at a high quality school in a popular school in Nanatan.
-
-Parents were asked to contact the student with information on 077-4722506.
-
-◼️
-
-[Data](articles/414ee24a.json)
-
-[Extended Data](ext_articles/414ee24a.ext.json)
-
----
-
-### There is a hot situation in Slave Island
-
-*2024-03-11 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194385) · `si`
-
-Residents of Slave Island and Lake Side Apartment Complex clashed, leading to protests against a railway line. The police intervened, resolving the conflict and arresting the protesters.
-
-🟩
-
-The hot situation was caused by the residents of Slave Island and the residents of Slave Island Lake Side Apartment Complex.
-
-Steps were demolished by the residents of Lake Side Apartment Complex in Slave Island Lake Side apartment complex.
-
-At the same time, the Slave Island Railway Apartment Completed Slave Island Station Apartment Completed a protest against the railway line.
-
-As a result, the railway operation on the coast will also be interrupted.
-
-However, with the arrival of the police, however, the situation was allocated and the two groups representing both parties were taken to the police.
-
-◼️
-
-[Data](articles/b3a0d25e.json)
-
-[Extended Data](ext_articles/b3a0d25e.ext.json)
-
----
-
-### Air rifles issued to farmers to prevent crop damage by animals
-
-*2024-03-11 16:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-rifles-issued-to-farmers-to-prevent-crop-damage-by-animals/108-278635) · `en`
-
-Colombo, March 11 (Daily Mirror) - Steps have been taken to provide 1,000 air rifles this year to farmers to prevent crop damage caused by animals, the Agriculture and Plantation Industries Ministry said.
-
-A research conducted by the Hector Kobbekaduwa Agricultural Research and Training Institute has confirmed that 30–40 percent of the crops are currently being damaged by Toque monkeys, monkeys, giant squirrels and peacocks.
-
-Although the Ministry has requested that the Animal Friendly Associations suggest alternative paths to prevent damage from wild animals, so far not a single positive alternative has been presented.
-
-The decision was taken following requests from farmers to provide at least air rifles to save their crops from these animals.
-
-Following the instructions of Minister Mahinda Amaraweera, the Sri Lanka Hadabima Authority took steps to implement this programme.
-
-...
-
-[Data](articles/23cf0f28.json)
-
-[Extended Data](ext_articles/23cf0f28.ext.json)
 
 ---

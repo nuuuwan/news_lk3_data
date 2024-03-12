@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 08:52:12**
+As of **2024-03-12 09:02:53**
 
 ## Newspaper Stats
 
-*Scraped **12,302** Articles*
+*Scraped **12,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
-islandlk | 676
-adalk | 1,047
+islandlk | 677
+adalk | 1,048
 adaderanalk | 1,484
 tamilmirrorlk | 1,498
 virakesarilk | 1,687
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,943
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,299 (100.0%) of 12,302 articles have been extended.
+12,302 (100.0%) of 12,304 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Accordingly, the convener of the Health Trade Union The Department of Health Tra
 [Data](articles/069406b3.json)
 
 [Extended Data](ext_articles/069406b3.ext.json)
+
+---
+
+### මල්වතුහිරිපිටිය හිමිනම ඝාතනය කළ සැකකරු පොලිස් වෙඩි පහරින් මරුට
+
+*2024-03-12 08:20:14* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතුහිරිපිටිය-හිමිනම-ඝාතනය-කළ-සැකකරු-පොලිස්-වෙඩි-පහරින්-මරුට/11-408551) · `si`
+
+ගම්පහ මල්වතුහිරිපිටිය විහාරස්ථානයක වැඩ සිටි 45 හැවිරිදි හිමි නමක වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියේ ප්‍රධාන සැකකරු ඊයේ මධ්‍යම රාත්‍රියේ දී පොලිස් වෙඩි පහරකට ලක්ව මියගොස් ඇතැයි අත්තනගල්ල පොලිසිය කියයි.
+
+අත්තනගල්ල පොලිස් වසමේ ඌරාපොළ, රුවන්වැල්ල පාර, ලිහිණියාගොල්ල ඇළ අසලදී පොලිස් වෙඩි පහරින් මෙසේ මියගොස් ඇත්තේ කල්හාර දිල්ෂාන් නැමති අරලගංවිල පදිංචිව සිටි 27 හැවිරිදි තරුණයෙකි.
+
+මෙම සැකකරු ඉකුත් .10 දින හම්බේගමුව පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් පසු වැඩිදුර පරීක්ෂණ සඳහා පෑලියගොඩ අපරාධ කොට්ඨාශය වෙත භාරදී තිබිණි .
+
+අපරාධ කොට්ඨාසයේ නිලධාරින් විශේෂ පරීක්ෂණයක් සඳහා සැකකරු ඌරාපොල ලිහිණියගොල්ල ඇළ ප්‍රදේශය වෙත වෙත රැගෙන ආ අවස්ථාවේ පොලිස් නිලධාරීන් හට පහරදී පළායාමට උත්සාහ දරා ඇති අතර එහිසී පොලීසිය සිදුකළ වෙඩි තැබීමකින් සැකකරු ජීවිතක්ෂයට පත්ව තිබේ.
+
+සිදුවීමෙන් තුවාල ලැබූ පෑලියගොඩ අපරාධ කොට්ඨාසයේ පොලිස් සැරයන්වරියක ප්‍රතිකාර සඳහා වතුපිටිවල මූලික රෝහලට ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/42a4d9a5.json)
 
 ---
 
@@ -306,6 +326,8 @@ Under FPTP, the candidate who receives the most votes in a local constituency wi
 
 [Data](articles/d63eeacb.json)
 
+[Extended Data](ext_articles/d63eeacb.ext.json)
+
 ---
 
 ### Showers or thunderstorms
@@ -352,21 +374,27 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 
 ---
 
-### யானை வேலிகளைப் பாதுகாக்க உத்தியோகத்தர்கள்
+### Officers to protect elephant fences
 
 *2024-03-12 04:42:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-வேலிகளைப்-பாதுகாக்க-உத்தியோகத்தர்கள்/175-334540) · `ta`
 
-யானை வேலிகளைப் பாதுகாப்பதற்காக வனஜீவராசிகள் அமைச்சுக்கு 4500 பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்களை இணைத்துக் கொள்ள நிதியமைச்சு அனுமதியளித்துள்ளதாக வனஜீவராசிகள் மற்றும் வன வளங்கள் பாதுகாப்பு மற்றும் நீர்ப்பாசன அமைச்சர் பவித்ராதேவி வன்னியாரச்சி தெரிவித்தார்.
+The Finance Ministry has tasked the Ministry of Wildlife with protecting elephant fences, granting permission to recruit 4,500 multi-purpose development officers for this purpose.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் பவித்ரா வன்னியாரச்சி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-யானை வேலிகளைப் பாதுகாப்பதற்காக வனவிலங்கு அமைச்சிற்கு 4,500 பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்களை இணைத்துக் கொள்ள நிதியமைச்சு அனுமதி வழங்கியுள்ளது.
+The Finance Ministry has given the Ministry of Wildlife to the Ministry of Wildlife to protect the elephant fences, the Minister of Finance and Forest Resources Protection and Irrigation, Pavithra Devi Wanniyarachchi said.
 
-அதற்காக புதிய பணியாளர்கள் யாரும் நியமிக்கப்பட மாட்டார்கள். அமைச்சுக்கு இணைத்துக் கொள்ள அங்கீகாரம் பெற்ற பல்நோக்கு அபிவிருத்தி உத்தியோகத்தர்கள் ஏற்கனவே யானை வேலியின் பாதுகாப்புப் பணிகளில் ஈடுபட்டு வருகின்றனர் என்றார். (a)
+Minister Pavithra Wanniyarachchi said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+The Ministry of Finance has granted permission to recruit 4,500 multi -purpose development officers to protect the elephant fences.
+
+None of the new employees will be appointed for that. Multipurpose Development Officers who have been recognized to join the Ministry are already engaged in the safety of the elephant fence.. (A)
 
 ◼️
 
 [Data](articles/3001c93c.json)
+
+[Extended Data](ext_articles/3001c93c.ext.json)
 
 ---
 
@@ -1274,6 +1302,20 @@ In line with the global theme of ‘inspire inclusion,’ Lifebuoy Shampoo embar
 
 ---
 
+### SEC calls for a more active Unit Trust industry
+
+*2024-03-11 22:23:00* · [`islandlk`](http://island.lk/sec-calls-for-a-more-active-unit-trust-industry/) · `en`
+
+The Securities and Exchange Commission of Sri Lanka (SEC) as part of its continuous engagement process with stakeholders in the capital market landscape, held a meeting with the CEOs of the Unit Trust industry last week. The main purpose of the meeting was to address the current state of the Unit Trust industry and urge it to become vibrant, dynamic and attract more investors to mutual funds and Collective Investment Schemes.
+
+SEC Chairman, Faizal Salieh, Deputy Director General SEC, Tushara Jayaratne, Director Supervision SEC, Dilum Mahawatte, and other officials of the SEC participated at the meeting.
+
+...
+
+[Data](articles/6af56d4d.json)
+
+---
+
 ### SLI divestiture attracts five businesses; interest grows for Life and General Insurance segments
 
 *2024-03-11 22:21:00* · [`islandlk`](http://island.lk/sli-divestiture-attracts-five-businesses-interest-grows-for-life-and-general-insurance-segments/) · `en`
@@ -1902,21 +1944,29 @@ President Ranil Wickremesinghe said that the government's aim was to carry out a
 
 ---
 
-### IMF යෝජනා ගැන පක්ෂ නායක රැස්වීමට විපක්ෂයෙන් සුමන්තිරන් පමණයි
+### Opposition to meet party leader meeting on proposals is only Sumanthiran
 
 *2024-03-11 18:46:18* · [`adalk`](https://www.ada.lk/breaking_news/IMF-යෝජනා-ගැන-පක්ෂ-නායක-රැස්වීමට-විපක්ෂයෙන්-සුමන්තිරන්-පමණයි/11-408548) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ යෝජනා සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් කැඳවා තිබු විපක්ෂයේ පක්ෂ නායක රැස්වීම අද (11) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවැත්විණි.
+President Ranil Wickremesinghe met with MP Sumanthiran to discuss IMF proposals, emphasizing government commitment to agreed decisions. Sumanthiran requested IMF analytical reports for Parliament. The President aimed for transparency and continued collaboration with the IMF. By June, negotiations were expected to conclude, with the government implementing IMF recommendations.
 
-මෙම සාකච්ඡාව සඳහා දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන් මහතා ද එක්ව සිටි අතර ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සාකච්ඡාවලදී සියලුම පාර්ශ්වයන් එකඟ වන තීරණවලට එළැඹීම වෙනුවෙන් රජයේ කැපවීම මෙහිදී අවධාරණය කෙරිණි.
+🟩
 
-පාර්ලිමේන්තු මන්ත්‍රී එම්. ඒ. සුමන්තිරන් මහතා මෙහිදී සඳහන් කළේ ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් සිදු කර ඇති විශ්ලේෂණාත්මක දත්ත සහිත වාර්තා පාර්ලිමේන්තුවට ඉදිරිපත් කළ යුතු බවයි.
+President Ranil Wickremesinghe was held under the patronage of President Ranil Wickremesinghe at the Presidential Secretariat this morning to discuss the International Monetary Fund's proposals.
 
-මෙම සියලු කටයුතු විනිවිදභාවයෙන් පවත්වාගෙන යාම රජයේ අරමුණ බව පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා, අදාළ විශ්ලේෂණාත්මක දත්ත වාර්තා මෙම සාකච්ඡාව සඳහා සහභාගි වූ දෙමළ ජාතික සන්ධානයටත්, පාර්ලිමේන්තුවටත් ලබා දීමට කටයුතු කරන බව සඳහන් කළේය.
+TNA parliamentarian m. it. Mr. Sumanthiran was also present and emphasized the government dedication to the decisions that all parties agree with the IMF.
+
+Member of Parliament (MP) M.. it. Mr. Sumanthiran stated that reports with analytical data performed by the IMF should be presented to Parliament.
+
+President Ranil Wickremesinghe said that the government's objective was to maintain the transparency by transparencing.
+
+The President added that the President hopes to continue working with the International Monetary Fund to discuss these proposals to discuss these proposals to discuss these proposals and invite the International Monetary Fund.
 
 ...
 
 [Data](articles/45ed1e08.json)
+
+[Extended Data](ext_articles/45ed1e08.ext.json)
 
 ---
 
@@ -2119,49 +2169,5 @@ The people who have been treated at government hospitals due to biting dogs are 
 [Data](articles/2a6aa171.json)
 
 [Extended Data](ext_articles/2a6aa171.ext.json)
-
----
-
-### Tauad to the ICC fined
-
-*2024-03-11 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194390) · `si`
-
-ICC fined Tauad 15% of the competition for the third and final Twenty Twenty Twenty Twenty Twenty Twenty World Cup match between Sri Lanka and Bangladesh. Nuwan Thushara scored a triple in his first overs, and Trouid Rido was bowled out as the second wicket.
-
-🟩
-
-The International Cricket Council has decided to fix Bangladesh cricketer cricketer.
-
-It is in the third and final Twenty Twenty Twenty Twenty Twenty Twenty Twenty Third World Sri Lanka and Bangladesh.
-
-The International Cricket Council has decided to recover a fines of 15 percent of the competition.
-
-Sri Lanka Nuwan Thushara scored a triple at his first overs.
-
-The International Media reported how Trouid Rido was bowled out as the second wicket of the wickets.
-
-◼️
-
-[Data](articles/0719b4ec.json)
-
-[Extended Data](ext_articles/0719b4ec.ext.json)
-
----
-
-### Sri Lanka parate suspension increases risk premium, endangers deposits, banks say
-
-*2024-03-11 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-parate-suspension-increases-risk-premium-endangers-deposits-banks-say-154148/) · `en`
-
-ECONOMYNEXT – A decision by the cabinet to suspend parate execution, making recovery of bad loans more time consuming will increase the risk premium charged from borrowers and also undermine the safety of deposits, Sri Lanka’s banks have said.
-
-“Banks deploy depositors’ funds when lending to the public, and the inability to recover money due from defaulters or extended delays in recovery, will potentially place public deposits at risk,” Sr Lanka Bank’s Association said in a statement.
-
-“The SLBA member banks aim is to assist is maintaining stability of the banking system within the regulatory policy framework that supports national economy and protects public depositors.
-
-...
-
-[Data](articles/fe7967d8.json)
-
-[Extended Data](ext_articles/fe7967d8.ext.json)
 
 ---

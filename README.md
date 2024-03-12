@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 04:17:59**
+As of **2024-03-13 04:34:08**
 
 ## Newspaper Stats
 
-*Scraped **12,522** Articles*
+*Scraped **12,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 120
 bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 649
+dailyftlk | 650
 economynextcom | 666
 islandlk | 677
 adalk | 1,070
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,520 (100.0%) of 12,522 articles have been extended.
+12,522 (100.0%) of 12,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### Gota’s flight cum resignation in 2022 and “conspiracy” book in 2024
+
+*2024-03-13 04:15:57* · [`dailyftlk`](https://www.ft.lk/columns/Gota-s-flight-cum-resignation-in-2022-and-conspiracy-book-in-2024/4-759431) · `en`
+
+The book was merely a banal repetition of a conspiracy theory without substantive proof to bolster it
+
+The mountains have laboured and brought forth a mouse! Former Sri Lankan President Nandasena Gotabaya Rajapaksa has after many poya days reportedly authored a book. The political grapevine had been buzzing for several months that a book by the ex-president known popularly as Gota and Gotabaya was in progress. It was supposedly a bombshell book with explosive revelations. The book belied such expectations. It was a
+
+Gotabaya Rajapaksa released a statement on 6 March that his book will be launched on 7 March 2024. He also posted on X as follows – “My book ‘The Conspiracy to oust me from the Presidency’ will be available in English and Sinhala at leading bookstores from tomorrow, Thursday, March 7th, 2024. The firsthand experience of an internationally sponsored regime change operation.”
+
+...
+
+[Data](articles/132e5a34.json)
+
+---
 
 ### Poorer than India and Bangladesh: Where is IMF program taking Sri Lanka?
 
@@ -41,6 +57,8 @@ The stabilisation of the economy and the adoption of International Monetary Fund
 ...
 
 [Data](articles/2855f59a.json)
+
+[Extended Data](ext_articles/2855f59a.ext.json)
 
 ---
 
@@ -57,6 +75,8 @@ It also suggests Middle Eastern energy exporters, such as Bahrain, Kuwait, Iraq,
 ...
 
 [Data](articles/a47de54f.json)
+
+[Extended Data](ext_articles/a47de54f.ext.json)
 
 ---
 
@@ -2261,21 +2281,5 @@ Foreign Minister Ali Sabri and Presidential Secretary Saman Ekanayake were also 
 [Data](articles/cd3e3598.json)
 
 [Extended Data](ext_articles/cd3e3598.ext.json)
-
----
-
-### Sri Lanka aims for 2.3Mn tourists, USD 4Bn in 2024
-
-*2024-03-12 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-aims-for-2-3Mn-tourists-USD-4Bn-in-2024/108-278708) · `en`
-
-Colombo, March 12 (Daily Mirror) - Sri Lanka tourism aims to attract 2.3 million tourists in 2024 and earn over USD 4 billion, Tourism Minister Harin Fernando said.
-
-After concluding 2024 event of the ITB Berlin Convention, the world’s leading travel industry think tank the minister said Sri Lanka Tourism is launching its destination brand campaign globally with a new positioning and a tagline: ‘You’ll come back for more’.
-
-...
-
-[Data](articles/512695db.json)
-
-[Extended Data](ext_articles/512695db.ext.json)
 
 ---

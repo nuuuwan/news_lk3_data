@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 05:17:52**
+As of **2024-03-12 05:37:04**
 
 ## Newspaper Stats
 
-*Scraped **12,265** Articles*
+*Scraped **12,267** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 118
 bbccomsinhala | 141
-dbsjeyarajcom | 184
+dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
 economynextcom | 642
 islandlk | 663
 adalk | 1,046
 adaderanalk | 1,483
-tamilmirrorlk | 1,492
+tamilmirrorlk | 1,493
 virakesarilk | 1,687
 dailymirrorlk | 1,870
 adaderanasinhalalk | 1,935
@@ -26,11 +26,27 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,265 (100.0%) of 12,265 articles have been extended.
+12,265 (100.0%) of 12,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### ரமழான் நோன்பு இன்று ஆரம்பம்
+
+*2024-03-12 04:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரமழான்-நோன்பு-இன்று-ஆரம்பம்/175-334538) · `ta`
+
+புனித ரமழான் நோன்பு இன்று (12) ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது.
+
+ஹிஜ்ரி 1445 புனித ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு நேற்று மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற்றது.
+
+இதன்போது நாட்டின் பல பிரதேசங்களிலும் ரமழான் மாத தலைப்பிறை தென்பட்டதற்கான ஆதார பூர்வமான தகவல்கள் கிடைக்கப்பெற்றதற்கமைய இன்று ரமழான் நோன்பு ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/05e3bd1d.json)
+
+---
 
 ### 653 arrested
 
@@ -1306,6 +1322,24 @@ Prime Minister Dinesh Gunawardena, Government Ministers Shehan Semhasinghe, Pres
 
 ---
 
+### ITAK Jaffna Parliamentarian MA  Sumanthiran  the only Opposition MP to Participate in IMF Proposals Review Meeting for Opposition Leaders; Raises Concerns Over Lack of Transparency and absence of published technical assistance reports from the IMF regarding several recommendations
+
+*2024-03-11 18:40:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83768) · `en`
+
+Tamil National Alliance (TNA) MP M. A. Sumanthiran stood as the only Opposition member in attendance at the International Monetary Fund (IMF) proposals review meeting for opposition party leaders held at the Presidential Secretariat yesterday.
+
+Despite President Ranil Wickremesinghe extending invitations to the opposition including the main Opposition party, the Samagi Jana Balawegaya (SJB), the majority declined to attend.
+
+Speaking to Daily FT after attending the meeting, Sumanthiran said he took the opportunity to address various concerns regarding the IMF proposals at the discussion, notably focusing on the issue of transparency.
+
+Specifically, the TNA MP said he highlighted the absence of published technical assistance reports from the IMF regarding several recommendations of concern.
+
+...
+
+[Data](articles/719ea478.json)
+
+---
+
 ### Women's International Two Municipal Series under 19;Australia, UK and Sri Lanka clash
 
 *2024-03-11 18:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178460) · `ta`
@@ -2223,57 +2257,5 @@ Following the instructions of Minister Mahinda Amaraweera, the Sri Lanka Hadabim
 [Data](articles/23cf0f28.json)
 
 [Extended Data](ext_articles/23cf0f28.ext.json)
-
----
-
-### A woman arrested with Kerala ganja in Mullaitivu
-
-*2024-03-11 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178443) · `ta`
-
-A young woman from Kerala was arrested in Mullaitivu with Kerala ganja. The arrest occurred during a special inspection near Vattuvagal Bridge.
-
-🟩
-
-Mullaitivu police have arrested a young woman from the lowland area with Kerala ganja in Mullaitivu today (11).
-
-The arrest of the arrest that took place at 11:30 am today said,
-
-The woman has been arrested while the army, special Task Force (STF) and the police were conducting a special inspection process near the Vattuvagal Bridge.
-
-A 27 -year -old woman from the Elephant Paddy area has been arrested when a woman's handbag from Mannar to Mullaitivu has been raided.
-
-◼️
-
-[Data](articles/75619bd3.json)
-
-[Extended Data](ext_articles/75619bd3.ext.json)
-
----
-
-### Gotabhaya has to face legal action for the crimes committed by Gotabhaya rather than writing - Pinnacical Times Editorial Editorial
-
-*2024-03-11 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178441) · `ta`
-
-Gotabhaya Rajapaksa faces legal action for crimes, including allegations of war crimes and human rights violations. His book reveals a conspiracy to remove him, but lacks evidence. Critics argue the military did not suppress civilians, and Gotabhaya misunderstood the roles of the police and military. Despite allegations, the judiciary may not provide justice for victims.
-
-🟩
-
-Many people are currently speaking on the book of former President Gotabhaya, a conspiracy to remove me from the post of President.
-
-As the name of the book, this book creates some interesting reading, though everything is revealed by the leader who has been removed from the post.
-
-This is not the approval to enrich the unworthy person to make money and thereby make the tragedy that has caused this trivial issue
-
-Gotabhaya Rajapaksa has no definitive evidence that Gotabhaya Rajapaksa has no conclusive evidence to prove these allegations, except for the exit of Gotabhaya Rajapaksa, except that the struggle of thousands of people landed on the streets of thousands of people went to the military and the military's military.
-
-As far as Gotabhaya Rajapaksa is under war crimes, the military has not intervened to suppress civilians.
-
-In his book, Gotabhaya emphasizes that Defense Secretary Kamal Gunaratne and the Chief of Staff Savendra Silva have not taken decisive action against the demonstrators.
-
-...
-
-[Data](articles/66f409cc.json)
-
-[Extended Data](ext_articles/66f409cc.ext.json)
 
 ---

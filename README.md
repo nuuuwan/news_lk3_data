@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 01:17:57**
+As of **2024-03-13 01:33:30**
 
 ## Newspaper Stats
 
-*Scraped **12,501** Articles*
+*Scraped **12,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 677
 adalk | 1,070
 adaderanalk | 1,509
 tamilmirrorlk | 1,517
-virakesarilk | 1,731
+virakesarilk | 1,732
 dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,501 (100.0%) of 12,501 articles have been extended.
+12,501 (100.0%) of 12,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### வடக்கின் கடற்பரப்பைக் கண்காணிக்க உருவாகின்றது “கடல் சாரணர் படையணி” –  டக்ளஸ்  தேவானந்தா
+
+*2024-03-13 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178568) · `ta`
+
+வடக்கின்  கடல் பாதுகாப்பைக்  கண்காணிப்பதற்காக “கடல் சாரணர்கள்:” என்ற தொண்டர் அமைப்பை உருவாக்க அமைச்சரவை பத்திரமொன்று சமர்ப்பிக்கப்பட்டுள்ளதாக கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+
+வடபகுதி கடற்பரப்பில் இந்திய மீன்பிடியாளர்களின் அத்துமீறிய செயற்பாடுகளைக் கட்டுப்படுத்தும் நடவடிக்கைகளில் கடற்படையினர் முடியுமானவரை தமது கடமைகளை மேற்கொண்டு வருகின்றனர்.
+
+ஆனாலும் எமது கடல் வளங்களும் எமது கடற்றொழிலாளர்களது கடற்றொழில் உபகரணங்களும் சட்டவிரோதமாக எமது கடற்பரப்புகளுக்குள் உள் நுழையும் இந்திய மீன்படியாளர்களால் அழிக்கப்பட்டுவரும் நிலை காணப்படுகின்றது.
+
+இந்நிலையில் கடற்பரப்பின் கண்காணிப்பு நடவடிக்கைகளை மேற்கொள்ள மற்றுமொரு முயற்சியாகக் குறித்த யோசனையை நான் அமைச்சரவையில் சமர்ப்பித்துள்ளேன்.
+
+அதாவது கடல் பகுதிகளைக் கண்காணிப்பு செய்வதற்காகக் கடல் சாரணர் அமைப்பு என்ற ஒரு தன்னார்வ அமைப்பை உருவாக்கி அவர்களையும் குறித்த இந்திய மீன்பிடியாவார்களின் செயற்பாடுகளைக் கண்காணித்து கடற்படையினரது உதவியுடன் கட்டுப்படுத்த முடியும் என கருதுகின்றேன் எனத் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9cff367b.json)
+
+---
 
 ### Malnutrition among young girls and the Hippocratic Oath - EDITORIAL
 
@@ -2281,27 +2301,5 @@ The Joint Health Workers’ Union (JHWU) today staged a protest in front of Colo
 [Data](articles/975e9f31.json)
 
 [Extended Data](ext_articles/975e9f31.ext.json)
-
----
-
-### The Cabinet Committee Meet the President
-
-*2024-03-12 14:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவைக்-குழு-ஜனாதிபதி-தலைமையில்-கூடியது/175-334561) · `ta`
-
-The Cabinet Committee, led by President Ranil Wickremesinghe, discussed the National Education Policy's implementation, focusing on short-term changes and measures for education advancement. Key points included establishing a National Council for Teachers, enhancing teacher professionalism, and increasing English language education. The President directed the recruitment of 2,500 new teachers and the integration of 1,100 graduates through competitive exams to boost English language education.
-
-🟩
-
-Knowing that education is an essential part of today's economic change, the Cabinet Committee appointed to monitor the implementation of the National Education Policy Building for the Advancement of Education was convened at the Presidential Office headed by President Ranil Wickremesinghe.
-
-The committee was attended by Prime Minister Dinesh Gunawardena and Education Minister Dr. Susil Premjayantha.
-
-In this case, the National Education Policy Framework contains the processes for short -term and interim educational change. In addition, the discussion was examined on the most important and quick measures to be carried out in the field of education.
-
-...
-
-[Data](articles/a7375698.json)
-
-[Extended Data](ext_articles/a7375698.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 02:17:51**
+As of **2024-03-13 02:33:42**
 
 ## Newspaper Stats
 
-*Scraped **12,507** Articles*
+*Scraped **12,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 677
 adalk | 1,070
 adaderanalk | 1,509
 tamilmirrorlk | 1,518
-virakesarilk | 1,735
+virakesarilk | 1,736
 dailymirrorlk | 1,907
 adaderanasinhalalk | 1,973
 
@@ -26,45 +26,83 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,504 (100.0%) of 12,507 articles have been extended.
+12,507 (100.0%) of 12,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### தோட்ட  முகாமையாளர்கள் இருவருக்கு விளக்கமறியல்
+### சமுத்திர பாதுகாப்பு தொடர்பான விழிப்புணர்வு செயற்பாடுகளை முன்னெடுப்பது குறித்து அவுஸ்திரேலிய நிபுணர்கள் குழாம் வடக்கு மாகாண ஆளுநருடன் கலந்துரையாடல்
+
+*2024-03-13 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178572) · `ta`
+
+சமுத்திர பாதுகாப்பு தொடர்பான விழிப்புணர்வு செயற்பாடுகளை முன்னெடுப்பதற்கான ஆரம்பகட்ட கள ஆய்வில் ஈடுபட்டுள்ள அவுஸ்திரேலிய நிபுணர்கள் குழாம், வடக்கு மாகாண  ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் அவர்களை செவ்வாய்க்கிழமை (12) மாலை சந்தித்து கலந்துரையாடினர்.
+
+இலங்கைக்கான அவுஸ்திரேலிய உயர்ஸ்தானிகராலயத்தின் அரசியல் மற்றும் பொருளாதார துறையின் முதலாம் நிலை செயலாளரின் தலைமையில் குறித்த நிபுணர்கள் குழாம்  ஆளுநரைச் சந்தித்து கலந்துரையாடினர்.
+
+வடக்கு மாகாண மக்களின் தற்போதைய வாழ்வியல் செயற்பாடுகள், பாதுகாப்பு, சுகாதாரம், சுற்றுலாத்துறை, உட்கட்டமைப்பு வசதிகள், சமுத்திர பாதுகாப்பு, கடற்றொழில் செயற்பாடுகள், கன்னிவெடி அகற்றுதல் உள்ளிட்ட பல விடயங்கள் தொடர்பில் அவுஸ்திரேலிய நிபுணர்கள் குழாம்,  ஆளுநரிடம் கேட்டறிந்துக்கொண்டனர்.
+
+◼️
+
+[Data](articles/3c5f2380.json)
+
+---
+
+### Explanation for two estate managers
 
 *2024-03-13 02:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-முகாமையாளர்கள்-இருவருக்கு-விளக்கமறியல்/175-334584) · `ta`
 
-நுவரெலியா லபுக்கலை தோட்ட பிரிவான பம்பரகலை தோட்டத்தில் தாக்குதலில் ஈடுபட்டனர் என்ற குற்றச்சாட்டில் நுவரெலியா பொலிஸாரால் கைது செய்யப்பட்ட தோட்ட  முகாமையாளர்கள் இருவரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Nuwara Eliya District Magistrate's Court ordered the arrest of two estate managers for attacking the Nuwara Eliya Lapukkalai estate. A field officer and a plantation manager were involved in a professional dispute, leading to their arrest. The Magistrate ordered interrogation for seven days, with the case adjourned until the 18th of this month.
 
-இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதவான் பிரபுதிகா லங்கான்தினி நேற்று (12) மாலை பிறப்பித்துள்ளார்.
+🟩
 
-நுவரெலியா பம்பரகலை தோட்டத்தில் கள உத்தியோகத்தர் ஒருவருக்கும் தோட்ட முகாமையாளர் இருவருக்கும் இடையில் கடந்த மாதம் 28 ஆம் திகதி தொழில் ரீதியாக வாக்குவாதம் ஏற்பட்டு பின் கைகலப்பில் முடிந்தது.
+The Nuwara Eliya District Magistrate's Court has ordered the two estate managers arrested by the Nuwara Eliya police on charges of attacking the Nuwara Eliya Lapukkalai estate.
 
-இந்த தகக்குதல் சம்பவம் தொடர்பாக தோட்ட முகாமையாளர் நுவரெலியா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததையடுத்து தோட்ட முகாமையாளர்களை தாக்கிய கள உத்தியோகஸ்தர் மற்றும் அவரின் மகனை கைது செய்த பொலிஸார் அவர்களை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதவான் பிரபுதிகா லங்கான்தினி முன்னிலையில் ஆஜர்படுத்தியுள்ளனர்.
+The order was issued yesterday evening (12) evening.
 
-இதன்போது சந்தேக நபர்களான தந்தை மற்றும் மகனை ஏழு நாட்களுக்கு விளக்க மறியலில் வைக்கவும் நீதவான் உத்தரவு  பிறப்பித்துள்ளார்.
+A field officer and a plantation manager at the Nuwara Eliya Bambarakalai estate ended on the 28th of last month after a professional argument.
+
+The plantation manager lodged a complaint at the Nuwara Eliya Police Station at the Nuwara Eliya Police Station.
+
+The magistrate has ordered the father and son to be interrogated for seven days.
+
+Once again, the Magistrate, who was taken up for hearing on the 7th of this month, adjourned the case by granting permission to go to the father and son of a field officer who was placed in the interrogation of one lakh rupees each.
+
+In the meantime, the field official on bail has lodged a complaint at the Nuwara Eliya Police Station demanding justice for the attack on the plantation managers.
 
 ...
 
 [Data](articles/6d70a979.json)
 
+[Extended Data](ext_articles/6d70a979.ext.json)
+
 ---
 
-### ரணில் விக்கிரமசிங்க எமது ஜனாதிபதி வேட்பாளரல்ல - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+### Ranil Wickremesinghe is not our presidential candidate - Sri Lanka PA
 
 *2024-03-13 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178571) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க எமது ஜனாதிபதி வேட்பாளரல்ல, ஐக்கிய தேசியக் கட்சியின் ஜனாதிபதி வேட்பாளராக அவர் போட்டியிடலாம்.ஜனாதிபதி தேர்தலுக்கான உத்தியோகபூர்வ அறிவிப்பு வெளியானதும் எமது வேட்பாளரைக் களமிறக்குவோம் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியராட்சி தெரிவித்தார்.
+Ranil Wickremesinghe, leader of the United National Party, is not the presidential candidate of the Sri Lanka Peoples Alliance. He can contest as a UNP candidate. The constitution allows the president to dissolve parliament and call elections.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் செவ்வாய்க்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் இடம்பெறவுள்ள நிலையில் பொதுத்தேர்தல் தொடர்பில் பேசப்படுகிறது.பாராளுமன்றத்தைக் கலைத்து பொதுத்தேர்தலை நடத்தும் அதிகாரம் ஜனாதிபதிக்கு உண்டு.கட்சி என்ற ரீதியில் பலமானதாகவே உள்ளோம்.ஆகவே இந்த ஆண்டு எந்த தேர்தல் இடம்பெற்றாலும் அதனை நாங்கள் வெற்றிகரமாக எதிர்கொள்வோம்.
+President Ranil Wickremesinghe can contest as the presidential candidate of the United National Party, not our presidential candidate.
 
-...
+He was speaking at a media briefing held at the Sri Lanka PA's Chief Office on Tuesday (12).
+
+According to the constitution, the president has the power to dissolve the parliament and hold the general election. The party is strong as the party.
+
+A party of the ruling party refers to their personal position as Ranil Wickremesinghe, the presidential candidate of Sri Lanka PA. The problem is how fair it is to refer to a personal position within the party.
+
+President Ranil Wickremesinghe is not the presidential candidate of the Sri Lanka Peoples Alliance, and no talks have been held at the top level of the party as presidential candidate. He is the leader of the United National Party.
+
+The president's carrying out the United National Party (UNP) at the United National Party (UNP) at Kurunegala last Sunday.
+
+◼️
 
 [Data](articles/11412cd6.json)
+
+[Extended Data](ext_articles/11412cd6.ext.json)
 
 ---
 
@@ -695,6 +733,8 @@ The thought of becoming the president of this country is pure nonsense and usele
 ...
 
 [Data](articles/a3448d3e.json)
+
+[Extended Data](ext_articles/a3448d3e.ext.json)
 
 ---
 
@@ -2279,27 +2319,5 @@ All three solar power projects will be on a build, own and operate basis.
 [Data](articles/d3067308.json)
 
 [Extended Data](ext_articles/d3067308.ext.json)
-
----
-
-### Haiti IDPs exceeded three hundred thousand
-
-*2024-03-12 14:58:44* · [`adalk`](https://www.ada.lk/breaking_news/හයිටියේ-අවතැන්-වූ-ජනතාව-තුන්ලක්ෂ-හැටදහස-ඉක්මවයි/11-408563) · `si`
-
-Haiti's IDPs surpass 300,000, with 50% children. Displacement increased by 15% since January, affecting over 6,000 in Port-au-Prince. Violence escalated after Juvenel's murder, with armed gangs targeting key institutions since February 29.
-
-🟩
-
-The security situation of the Haitian Republic is further worse. The International Migrationon recently announced that more people were displaced and half of them were children.
-
-The number of people displaced by the country has increased by 15% over the beginning of the year. More than 6,000 of the Port-O-Prince capital is out of his homes. The internal violent events of the country have grown significantly since the end of February. The International Migration Organization says that the townsicians have been imprisoned by armed gangs.
-
-On July 7, July 7, 20 ,, July 7, Juvenel, was murdered. After that incident, violent gangs have highlighted. Such armed groups have attacked an important institutions and infrastructure from several occasions since the 29th.
-
-◼️
-
-[Data](articles/881c589b.json)
-
-[Extended Data](ext_articles/881c589b.ext.json)
 
 ---

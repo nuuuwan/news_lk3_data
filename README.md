@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 17:33:43**
+As of **2024-03-12 17:53:33**
 
 ## Newspaper Stats
 
-*Scraped **12,433** Articles*
+*Scraped **12,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 142
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 641
-economynextcom | 655
+economynextcom | 664
 islandlk | 677
 adalk | 1,064
 adaderanalk | 1,500
 tamilmirrorlk | 1,513
-virakesarilk | 1,719
+virakesarilk | 1,721
 dailymirrorlk | 1,894
 adaderanasinhalalk | 1,961
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 1,961
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,430 (100.0%) of 12,433 articles have been extended.
+12,433 (99.9%) of 12,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
+
+### கொழும்பு தனியார் வைத்தியசாலை தொடர்பில் மேலதிக நடவடிக்கை மேற்கொள்ள வேண்டாமென மேன்முறையீட்டு நீதிமன்றம் அறிவித்தல்!
+
+*2024-03-12 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178552) · `ta`
+
+கொழும்பில் உள்ள பிரதான தனியார் வைத்தியசாலை ஒன்றின் பணிப்பாளர்களுக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள வழக்கு தொடர்பில் எதிர்வரும் 27ஆம் திகதி வரை மேலதிக நடவடிக்கைகளை மேற்கொள்ள வேண்டாம் என மேன்முறையீட்டு நீதிமன்றம் செவ்வாய்க்கிழமை (12) மாளிகாகந்த நீதிமன்றத்துக்கு அறிவித்தது.
+
+கொழும்பில் உள்ள பிரதான தனியார் வைத்தியசாலை ஒன்றின் பணிப்பாளர்களுக்கு அழைப்பாணை வழங்கப்படுவதை தடுக்கும் வகையில் உத்தரவுக்கு பிறப்பிக்குமாறு சமர்ப்பிக்கப்பட்ட மனு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே மாளிகாகந்த பிரதான நீதவான் இந்த அறிவித்தலை வழங்கினார்.
+
+இந்த மனு மேன்முறையீட்டு நீதிமன்ற நீதிபதி தம்மித கணேபொல முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/1dc5763a.json)
+
+---
+
+### Sri Lanka UDA to lease land to Ninewells, Access International for health venture
+
+*2024-03-12 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-to-lease-land-to-ninewells-access-international-for-health-venture-154372/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 0.1929 hectare land (roughly 76.2 perches) in Narahenpita to N W Realty Pvt Ltd, a joint venture between Ninewells Hospital Pvt Ltd and Access International Pvt Ltd, Minister Bandula Gunawardena said.
+
+“Investment proposals had been invited on a competitive basis for a plot of land belonging to the UDA at Kirimandala Mawatha, for a health sector related development project. Accordingly, the Cabinet approved to lease the land on a 50-year long-term lease basis.” (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/0e4629d1.json)
+
+---
+
+### இலங்கை ஒருநாள் கிரிக்கெட் குழாத்தில் இரண்டு வருடங்களின் பின்னர் கமிந்து மெண்டிஸ்
+
+*2024-03-12 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178550) · `ta`
+
+பங்களாதேஷுக்கு எதிராக சட்டோக்ராம் விளையாட்டரங்கில் புதன்கிழமை (13) ஆரம்பமாகவுள்ள 3 போட்டிகளைக் கொண்ட சர்வதேச ஒருநாள் கிரிக்கெட் தொடருக்கான இலங்கை குழாத்தில் சகலதுறை வீரர் கமிந்து மெண்டிஸ் பெயிரிடப்பட்டுள்ளார்.
+
+இடதுகை துடுப்பாட்ட வீரரும் இரண்டு கைகளாலும் பந்துவீசுபவருமான கமிந்து மெண்டிஸ் இரண்டு வருடங்களுக்குப் பின்னர் சரவ்தேச ஒருநாள் கிரிக்கெட் குழாத்தில் இடம்பெறுகின்றார்.
+
+அண்மையில் நடைபெற்ற ஆப்கானிஸ்தானுக்கு எதிரான கடைசி ரி20 கிரிக்கெட் போட்டியில் அதிரடியாக அரைச் சதம் குவித்ததைத் தொடர்ந்து துடுப்பாட்ட வரிசையில் 3ஆம் இலக்கத்தில் பங்களாதேஷுக்கு எதிரான ரி20 தொடரில் விளையாடியிருந்தார்.
+
+சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளிலும் டெஸ்ட் போட்டிகளிலும் இலங்கை அணியில் கமிந்து மெண்டிஸ் போன்ற சகலதுறை  வீரர்    இடம்பெறுவது அணிக்கு அனுகூலமாக அமையும் என அண்மையில் தெரிவுக் குழுத் தலைவர் உப்புல் தரங்க தெரிவித்திருந்தார்.
+
+இது இவ்வாறிருக்க, ஆப்கானிஸ்தானுடனான கடைசி ரி20 போட்டியின்போது உபாதைக்குள்ளாகி பங்களாதேஷுடனான ரி20 தொடரைத் தவறவிட்ட பெத்தும் நிஸ்ஸன்க ஒருநாள் குழாத்தில் இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/31239aa2.json)
+
+---
+
+### Sri Lanka rupee closes flat at 306.50/60 to the US dollar
+
+*2024-03-12 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-306-50-60-to-the-us-dollar-154389/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 306.50/60 to the US dollar in the spot forex market on Tuesday, stronger from 306.95/307.10 on Monday, dealers said, while bond yields were down.
+
+After the bond auction held today, a bond maturing on 15.12.2026 traded at 11.35/40 percent. The 01.08.2026 bond had closed yesterday at 11.00/10 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.15 percent down from 12.00/10 percent.
+
+Again, after the bond auction today, a bond maturing on 15.12.2028 traded at 12.15/25. A bond maturing 01.07.2028 had closed at 12.20/35 percent on Monday.
+
+A bond maturing on 15.07.2029 closed at 12.30/50 percent down from 12.35/70 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/55 percent down from 12.35/70 percent.
+
+A bond maturing on 01.07.2032 closed at 12.50/80 percent from down 12.60/90 percent. (Colombo/Mar12/2024)
+
+◼️
+
+[Data](articles/8c1b03b2.json)
+
+---
 
 ### Faculty of Medicine to be established at NSBM
 
@@ -47,6 +121,8 @@ Since the approval of the Cabinet of Ministers has already been given to use the
 ...
 
 [Data](articles/301ea1c9.json)
+
+[Extended Data](ext_articles/301ea1c9.ext.json)
 
 ---
 
@@ -270,37 +346,77 @@ In this case, the health workers at the hospital informed the doctor by telephon
 
 ---
 
-### නෙළුම් කුළුණ පරිශ්‍රයේ ප්‍රසංගයේ මත්පැන් පානය කළ දෙදෙනෙක් මරුට
+### Two killed in the concert at the premises of the Lotus Tower
 
 *2024-03-12 16:34:19* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණ-පරිශ්‍රයේ-ප්‍රසංගයේ-මත්පැන්-පානය-කළ-දෙදෙනෙක්-මරුට/11-408568) · `si`
 
-නෙළුම් කුළුණ පරිශ්‍රයේ  පැවති සංගීත ප්‍රසංගයක් අතරතුර රෝගාතුර වී  කොළඹ ජාතික රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව  මියගිය තරුණයෙකුගේ සහ තරුණියකගේ මරණ සම්බන්ධයෙන් විවෘත තීන්දු ලබා දුන් බව මරදාන පොලිසිය කියයි.
+Two individuals died at a concert at Lotus Tower. A 27-year-old woman and a 24-old man were found intoxicated. The Maradana Police are investigating.
 
-මෙලෙස මියගොස් තිබුනේ මුල්ලේරියාව උඩුමුල්ල මාළිගාගොඩැල්ල පාර පදිංචිව සිටි 27 හැවිරිදි තරුණියක් හා දෙහිවල අත්තිඩිය මන්ත්‍රී මුල්ල පාර පදිංචිව සිටි 24 තරුණයෙකුයි.
+🟩
 
-අදාළ මරණ සම්බන්ධයෙන් පුද්ගලයන් දස දෙනෙකුගෙන් පමණ ප්‍රකාශ සටහන් කර ගත් බවත් ඒ අතර සංගීත ප්‍රසංගය සංවිධානය කළ පුද්ගලයා ද සිටින බවත් පොලිස් නිලධාරියකු පැවසීය. ඉකුත්  7 වෙනි දින  නෙළුම් කුළුණ පරිශ්‍රයේ පැවති සංගීත ප්‍රසංගයේ ටිකට් පතක් රුපියල් 9000ක මිලකට අලෙවි වී අතර ඒ සඳහා 2000 කට ආසන්න පිරිසක් සහභාගී වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+The Maradana Police say open decisions have been made to the Colombo National Hospital during a concert held at the Lotus Tower premises.
 
-8 වෙනිදින  දින අලුයම 4 ට පමණ මියගිය තරුණිය අසනීප වී ඇති අතර  ඇය කොළඹ ජාතික රෝහල වෙත ඇතුලත් කිරීමෙන් අනතුරුව පැය කිහිපයකට පසු මිය ගොස් ඇත. එදිනම 24 හැවිරිදි  තරුණයාද රෝගාතුර වී ඇති අතර  රෝහල් ගත කිරීමෙන් අනතුරුව පසු දින මියගොස් ඇතැයි පොලිසිය කියයි.
+The deceased was a 27 year old girl, Athiyawa, a resident of the Adiya Path of Dehiwala and a resident of the Atule of Dehiwala.
+
+A police officer also said that about ten persons were recorded in the death of the death.. Police investigations have revealed that a ticket of the concert held at the Lelum Tower premises on the 7th.
+
+The girl who died around 4 am was sick and died on admission to the Colombo National Hospital. The 24-year-old youth was also ill and died on the following day after hospital.
+
+Investigations have revealed that the deceased has been drunk, police said
+
+The Kallaga Kanda Magistrate at the Magistrate's Court Magistrate was ordered to conduct post mortem examination and submitting the report on the occasion.
 
 ...
 
 [Data](articles/05fba413.json)
 
+[Extended Data](ext_articles/05fba413.ext.json)
+
 ---
 
-### චාමික එක්දින කණ්ඩායමට කැඳ﻿වයි - ණුවන් හා මතීෂට ස්ථාන නෑ
+### The Chamika is called to the ODI squad - no residents
 
 *2024-03-12 16:32:20* · [`adalk`](https://www.ada.lk/breaking_news/චාමික-එක්දින-කණ්ඩායමට-කැඳ﻿වයි---ණුවන්-හා-මතීෂට-ස්ථාන-නෑ/11-408567) · `si`
 
-බංග්ලාදේශය සමගින් පැවැත්වීමට නියමිත තරග තුනකින් සමන්විත එක්දින තරගාවලිය සඳහා ශ්‍රී ලංකා සංචිතය නම් කර තිබේ. මෙම සංචිතය තුළ වෙනස්කම් කිහිපයක් දක්නට ලැබෙන අතර තුන් ඉරියව් ක්‍රීඩක චාමික කරුණාරත්න නැවත කණ්ඩායමට කැඳවා තිබේ.
+Sri Lanka's ODI squad for the 3-match series against Bangladesh includes Chamika Karunaratne, Visit Pathirana, Nuwan Thushara, Sahan Arachchige, Duti Vellai, Janith Liyanage, Kirith Mendis, Vice Leader, Gone Reserved, Akila Warakanka, Dilshan Madushanka, Pramod Madushan, and Lahiru Kumara.
 
-කෙසේ වෙතත් වේග පන්දු යවන ක්‍රීඩකයන් වන මතීෂ පතිරණ හා නුවන් තුෂාර කණ්ඩායමට කැඳවා නොමැත. සහන් ආරච්චිගේ, දුනිත් වෙල්ලාගේ හා ජනිත් ලියනගේද කණ්ඩායමට කැඳවා තිබේ.
+🟩
 
-ශ්‍රී ලංකා සංචිතය -කුසල් මෙන්ඩිස් - නායක, චරිත් අසලංක - උප නායක, පැතුම් නිශ්ශංක, අවිශ්ක ප්‍රනාන්දු, සධීර සමරවික්‍රම, ජනිත් ලියනගේ, කමිඳු මෙන්ඩිස්, සහන් ආරච්චිගේ, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, දුනිත් වෙල්ලාලගේ, අකිල ධනංජය, චාමික කරුණාරත්න, ඩිල්ෂාන් මධුශංක, ප්‍රමෝද් මධුෂාන්, ලහිරු කුමාර
+Sri Lanka squad for the three-match series against Bangladesh have been named. There are several changes in this pool and the three posture players Chamika Karunaratne has been summoned to the group.
+
+However, fast bowler, Visit Pathirana and Nuwan Thushara Team. Sahan Arachchige, Duti Vellai and Janith Liyanage have been summoned.
+
+Sri Lanka squad - Kirith Mendis, Vice Leader, Gone Reserved, Akila Warakanka, Chamika Karunaratne, Dilshan Madushanka, Pramod Madushan, Lahiru Kumara
 
 ◼️
 
 [Data](articles/acc86f08.json)
+
+[Extended Data](ext_articles/acc86f08.ext.json)
+
+---
+
+### Sri Lanka stocks close up, high net worth and retail interest improving
+
+*2024-03-12 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-high-net-worth-and-retail-interest-improving-154363/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, on a continuous run, data on its site showed.
+
+Turnover was at 1.4 billion. This was mainly from high net worth and retail interest.
+
+“The market opened down, and there was some selling pressure initially, but by mid-day buying interest had returned,” market participants said.
+
+The broader All Share Index closed up 0.45 percent, or 50.37 points, at 11,175; while the S&P SL20 Index closed up 0.20 percent, or 6.28 points, at 3,181.
+
+The food, beverage and tobacco sector contributed 371 million to the day’s turnover. Other sectors that attracted interest were diversified financials (217mn), banks (209mn), and capital goods (201mn).
+
+“There was buying in the banking sector. Funds flowing into banking and conglomerate shares.”
+
+Sampath Bank Plc (33mn) up at 76.00, Commercial Bank of Ceylon Plc (16mn) closed flat at 94.00, Pan Asia Banking Corporation Plc (55mn) up at 20.10, Hatton National Bank Plc (46m) up at 160.00.
+
+...
+
+[Data](articles/5896b0cd.json)
 
 ---
 
@@ -359,6 +475,26 @@ The meeting was held this morning at the Ministry of Power and Energy, Wijeseker
 [Data](articles/91f8bee6.json)
 
 [Extended Data](ext_articles/91f8bee6.ext.json)
+
+---
+
+### Sri Lanka to gazette Gender Socialisation Equality bill for parliament’s approval
+
+*2024-03-12 15:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-gazette-gender-socialisation-equality-bill-for-parliaments-approval-154332/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Attorney General has cleared a draft bill on Gender Socialisation Equality and will now be gazetted, the government said.
+
+The Government Information Department said on Tuesday March 12 that the cabinet of ministers has approved a proposal by President Ranil Wickremesinghe to publish the bill in the government gazette to be tabled in parliament for its approval.
+
+Wickremesinghe has made the proposal in his capacity as Minister of Women, Child Affairs and Social Empowerment.
+
+The bill, first approved by the cabinet in September 2023, is one of two proposed pieces of legislation that seek to minimise a gender imbalance in socialisation.
+
+Gender socialisation is the process of teaching individuals, young and old, how to behave according to gender roles. Gender roles are socially constructed ideas of what it means to be one’s assigned gender.
+
+...
+
+[Data](articles/91143ee7.json)
 
 ---
 
@@ -520,6 +656,24 @@ King Herald has been facing health impacts for the past few years. However, he r
 
 ---
 
+### Sri Lanka meets 92 pct of its sanitary napkin demand domestically, tax-free: official
+
+*2024-03-12 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-meets-92-pct-of-its-sanitary-napkin-demand-domestically-tax-free-official-154325/) · `en`
+
+ECONOMYNEXT — Sri Lanka meets 92 percent of its demand for sanitary napkins domestically, all of which is tax-free barring the remaining 8 percent, State Minister of Finance Ranjith Siyambalapitiya said.
+
+Siyambalapitiya told reporters that the remaining eight percent, which he said is manufactured by a single company as finished products, is charged the  Ports and Airports Development Levy and the Social Security Contribution Levy and the Cess Tax.
+
+“The total of these three comes up to 22.5 percent. There is no 40 percent tax as claimed. Up to 92 percent of pads made in Sri Lanka are not taxed,” he said.
+
+Most of Sri Lanka’s sanitary napkin needs are made by three companies that import the materials and inputs and produce the napkins in the country.
+
+...
+
+[Data](articles/b10307ce.json)
+
+---
+
 ### Sri Lanka is named ODI squad
 
 *2024-03-12 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194421) · `si`
@@ -665,6 +819,26 @@ Do not hit the fisherman's stomach.
 [Data](articles/1cad10bf.json)
 
 [Extended Data](ext_articles/1cad10bf.ext.json)
+
+---
+
+### Sri Lanka awards 18MW of solar plants to Mahawa Solar, Hayleys Power, Capital City
+
+*2024-03-12 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-18mw-of-solar-plants-to-mahawa-solar-hayleys-power-capital-city-154317/) · `en`
+
+ECONOMYNEXT – Sri Lanka has awarded contracts to Mahawa Solar (Pvt) Ltd, Hayleys Power Ltd, and Capital City Holdings (Pvt) Ltd to build and operate solar power plants for Matara grid substation and Vavunathivu substation, Minister Bandula Gunawardena said.
+
+“International competitive bids were called for solar photovoltaic power plants for Matara (10 MW) and Vavunathivu (8 MW) grid substations,” Gunawardena said.
+
+Based on the project proposals received, the Cabinet of Ministers approved awarding the contract for the commissioning of a ground mounted solar photovoltaic power plant at Matara Grid Substation to Mahawa Solar (Pvt) Ltd and Hayleys Power Ltd.
+
+The contract for the installation at Vavunathivu Substation was awarded to Capital City Holdings (Pvt) Ltd.
+
+All three solar power projects will be on a build, own and operate basis.
+
+...
+
+[Data](articles/a2f43c56.json)
 
 ---
 
@@ -1035,6 +1209,26 @@ Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri
 [Data](articles/e36c708c.json)
 
 [Extended Data](ext_articles/e36c708c.ext.json)
+
+---
+
+### Sri Lanka 100 MW power plant to Solar Forge Batticaloa
+
+*2024-03-12 14:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-100-mw-power-plant-to-solar-forge-batticaloa-154305/) · `en`
+
+ECONOMYNEXT – Sri Lanka is to commission a 100 MW solar power plant in Oddamawadi, Batticaloa on a build, own and operate basis (BOO), Minister Bandula Gunawardena said.
+
+“The Cabinet of Ministers approved the proposal presented by the Minister of Power and Energy and taking the expressions of interest received into account, to award the project  to Solar Forge Batticaloa on a BOO basis for a 20-year operating period.”
+
+Gunawardena said the island was seeing much interest from foreign investors for solar power projects.
+
+Over the weekend Sri Lanka commissioned another solar project in Batticaloa, Sri Lanka’s Power and Energy Minister said.
+
+“A 2 MW Ground Mount Solar Project in Batticaloa was opened this morning. The project under the 90 MW CEB tendering process was constructed and commissioned by BackBay Solar Private Ltd,” Kanchana Wijesekera said on X (twitter).
+
+...
+
+[Data](articles/f89d112f.json)
 
 ---
 
@@ -1519,6 +1713,26 @@ Semasinghe said he had discussions with officers of the Samurdhi Development Dep
 [Data](articles/3e7ed719.json)
 
 [Extended Data](ext_articles/3e7ed719.ext.json)
+
+---
+
+### Pilot project to uplift Aswesuma welfare scheme beneficiaries
+
+*2024-03-12 12:34:00* · [`economynextcom`](https://economynext.com/pilot-project-to-uplift-aswesuma-welfare-scheme-beneficiaries-154275/) · `en`
+
+ECONOMYNEXT – A pilot project to move 16,000 Aswesuma beneficiary families out of poverty, using Asian Development Bank, World Bank and local funds, will be implemented in selected divisional secretariats in the 25 districts, Cabinet spokesman Minister Bandula Gunawardena said.
+
+“While providing welfare benefits to the people impoverished by the economic crisis, we are implementing a three-year programme that will move them out of poverty gradually,” Gunawardena said.
+
+Cabinet approved the proposal to implement the program which will ’empower family units economically, socially and mentally’.
+
+Applications for the second phase of the welfare scheme close on March 15 (Friday). State Minister for Finance Shehan Semasinghe said payments will be made to the beneficiaries selected under the second phase in July.
+
+Semasinghe said he had discussions with officers of the Samurdhi Development Departments on the importance of empowerment of Aswesuma beneficiaries.
+
+...
+
+[Data](articles/d9a76834.json)
 
 ---
 
@@ -2091,247 +2305,5 @@ He served as the Prime Minister of July 2021 after a group of mercenaries killed
 [Data](articles/346f7dad.json)
 
 [Extended Data](ext_articles/346f7dad.ext.json)
-
----
-
-### The couple's death in the lotus tower
-
-*2024-03-12 10:56:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/தாமரை-கோபுரத்தில்-ஜோடி-மரணம்/95-334548) · `ta`
-
-A young couple died from drug overdose at a party in the Lotus Tower in Colombo, after being admitted to the Colombo National Hospital. Hettiarachchi Rukshani, a 27-year-old beauty salon manager, also passed away.
-
-🟩
-
-A young man and girl who consumed drugs died during a party at a restaurant at the Lotus Tower in Colombo.
-
-The two were sick and admitted to the Colombo National Hospital, Maradana police said.
-
-Hettiarachchi Rukshani (age 27), Manager of a beauty salon in Mulleria, Udumulla, has died.
-
-◼️
-
-[Data](articles/9b47d306.json)
-
-[Extended Data](ext_articles/9b47d306.ext.json)
-
----
-
-### If there is no improvement, the profession of 6000 employees is the problem
-
-*2024-03-12 10:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-இல்லையென்றால்-6000-ஊழியர்களின்-தொழில்-சிக்கலாகும்/175-334546) · `ta`
-
-SriLankan Airlines faces uncertainty for 6,000 employees if it doesn't improve operations and finances in 6 months. Minister Nimal Siripala de Silva discussed the airline's current state with company management and unions. The government plans to repay $1.2 billion to keep the airline afloat, aligning with President Ranil Wickremesinghe's proposal. The SriLankan Airline Reformation Program is set to launch within six months, aiming for financial stability and cost reduction. The airline currently operates 16 flights, including 6 long-distance and 29 short-distance flights, with some flights leased from Belgium and Fit Air.
-
-🟩
-
-Shipping and Aviation Minister Nimal Siripala de Silva said the work of about 6,000 employees would be uncertain if SriLankan Airlines could not show the advancement of its operational and financial divisions within the next six months.
-
-A discussion on the current improvement of the airline was held this morning with the company administration and trade unions at his office.
-
-Sri Lanka Airlines has occasionally been accused of delays in its operations and has been criticized.This delay has recently caused irritation and inconvenience to travelers.
-
-Minister de Silva said the government has decided to repay $ 1.2 billion from $ 1.2 billion from many commercial banks and other companies to continue the airline.
-
-The decision was taken in accordance with the idea put forward by President Ranil Wickremesinghe as the Finance Minister.
-
-Accordingly, within the next six months, the SriLankan Airline Reformation Program is scheduled to be launched with an attractive financial balance.
-
-...
-
-[Data](articles/6edba58a.json)
-
-[Extended Data](ext_articles/6edba58a.ext.json)
-
----
-
-### Risk to 6,000 without progress
-
-*2024-03-12 10:51:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னேற்றம்-இன்றேல்-6-000-க்கு-ஆபத்து/175-334546) · `ta`
-
-SriLankan Airlines faces uncertainty for 6,000 employees if it doesn't show operational and financial progress in 6 months. The government plans to repay $510M to keep the airline afloat, aligning with President Wickremesinghe's proposal. The SriLankan Airline Reformation Program is set to launch within 6 months, aiming to reduce unnecessary costs and improve financial discipline. Currently, 16 flights are in operation, including 6 long-distance and 29 short-distance flights, with some leased from Belgium and Fit Air.
-
-🟩
-
-Shipping and Aviation Minister Nimal Siripala de Silva said the work of about 6,000 employees would be uncertain if SriLankan Airlines could not show the advancement of its operational and financial divisions within the next six months.
-
-Discussion on the current improvement of the airline was held this morning with the corporate administration and the unions at his office.
-
-Sri Lanka Airlines has occasionally been accused of delays in its operations and has been criticized.This delay has recently caused irritation and inconvenience to travelers.
-
-Minister de Silva said the government has decided to repay $ 510 million out of $ 1.2 billion from many commercial banks and other companies to continue the airline.
-
-The decision was taken in accordance with the idea put forward by President Ranil Wickremesinghe as the Finance Minister.
-
-Accordingly, within the next six months, the SriLankan Airline Reformation Program is scheduled to be launched with an attractive financial balance.
-
-...
-
-[Data](articles/86a3d11b.json)
-
-[Extended Data](ext_articles/86a3d11b.ext.json)
-
----
-
-### Bureau of Gazette for Re -Shipment
-
-*2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-செய்வதற்கான-வர்த்தமானி-இடைநிறுத்தம்/175-334545) · `ta`
-
-The government suspends importation of perfumes like pepper, caste, turmeric, ginger, and cardamom for re-export, following Minister Amaraweera's opposition. Local farmers are against, and the cultivation of local perfumes is declining. The decision aims to protect Sri Lanka's top-rated perfumes.
-
-🟩
-
-The government has decided to suspend the recent gazette notification issued for importing a variety of fragrances, including pepper.
-
-The government has issued a gazette notification for the importation of some perfumes such as pepper, caste, turmeric, ginger and cardamom.
-
-Following yesterday's Cabinet meeting, Minister of Agriculture and Plantation Industries Mahinda Amaraweera made his opposition to the gazette notification.
-
-He pointed out that local farmers are unwilling to allow the importation of these perfumes for re -exports and that the cultivation of local perfumes is falling.The Minister also pointed out that this would have a strong impact on the quality of Sri Lankan perfumes, which are currently the number one of the best perfumes in the world.
-
-Considering these facts, Minister Amaraweera said that the Cabinet has decided to suspend the gazette notification and suspend the importation of perfumes for Sri Lanka for re -export.
-
-...
-
-[Data](articles/d68d8ff7.json)
-
-[Extended Data](ext_articles/d68d8ff7.ext.json)
-
----
-
-### Resettlement
-
-*2024-03-12 10:44:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-ஏற்றுமதி-இடைநிறுத்தம்/175-334545) · `ta`
-
-The government suspends the import of perfumes like pepper, caste, turmeric, ginger, and cardamom for re-export, following opposition from Minister Mahinda Amaraweera. He argued against the move, citing local farmers' reluctance and the decline in local perfume cultivation. The decision aims to protect Sri Lanka's top-rated perfumes and focus on improving local plantation crops.
-
-🟩
-
-The government has decided to suspend the recent gazette notification issued for importing a variety of fragrances, including pepper, for re -export.
-
-The government has issued a gazette notification for the importation of some perfumes such as pepper, caste, turmeric, ginger and cardamom.
-
-Following yesterday's Cabinet meeting, Minister of Agriculture and Plantation Industries Mahinda Amaraweera made his opposition to the gazette notification.
-
-He pointed out that local farmers are unwilling to allow the importation of these perfumes for re -exports and that the cultivation of local perfumes is falling.The Minister also pointed out that this would have a strong impact on the quality of Sri Lankan perfumes, which are currently the number one of the best perfumes in the world.
-
-Considering these facts, Minister Amaraweera said that the Cabinet has decided to suspend the gazette notification and suspend the importation of perfumes for Sri Lanka for re -export.
-
-...
-
-[Data](articles/dec095c6.json)
-
-[Extended Data](ext_articles/dec095c6.ext.json)
-
----
-
-### The people who chased the ruler of 69 lakh votes without even a small stone - Anuragumara Dissanayake
-
-*2024-03-12 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178499) · `ta`
-
-Anura Kumara Dissanayake, leader of the National People's Power, discusses Sri Lanka's political landscape, highlighting the ruling party's indecision on holding a general or presidential election. He criticizes the Rajapaksas for not allowing family members to run for president and mentions the upcoming debate on the election date. Dissanayake also addresses the political stress on ordinary citizens and the need for justice for victims of political violence. He criticizes the current regime for corruption and promises to open new opportunities for young people in politics.
-
-🟩
-
-In the recent history of Sri Lanka, the phase of a political change has blossomed.National People's Power Leader Anura Kumara Dissanayake said that the ruling delegation is in a state of disrepair whether to hold a general election or hold the presidential election.
-
-The Colombo District Women's Conference of the National People's Power was recently held in Homagama.
-
-Speaking on the occasion, National People's Power Leader Anura Kumara Dissanayake said this.
-
-In the recent history of Sri Lanka, the phase of a political change has blossomed.So the ruling delegation is in the process of holding a general election or holding the presidential election. Ranil Wickremesinghe thinks of holding the presidential election.
-
-If he holds a general election, he cannot seek candidates. The Rajapaksas think that it is better if the Rajapaksas are not able to seek a candidate from the family for the presidential election.
-
-...
-
-[Data](articles/aa1d34b8.json)
-
-[Extended Data](ext_articles/aa1d34b8.ext.json)
-
----
-
-### 92% no tax on “dam clothing”
-
-*2024-03-12 10:36:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/92-அணையடை-ஆடை-களுக்கு-வரி-இல்லை/175-334544) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced that 92% of "dam clothing" is locally produced and tax-free, with 8% imported goods taxed at 22.5%, aiming to protect local manufacturers.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that 92 percent of the "dam clothing" is produced in our country and they are not taxed.
-
-While addressing an event in Taldwa, he pointed out that the remaining 8% of the imported goods would be brought to Sri Lanka to Sri Lanka and 22.5% of the tax was levied.
-
-The Minister added that the tax would be charged for the purpose of protecting the local manufacturer.
-
-◼️
-
-[Data](articles/c1a7c8d2.json)
-
-[Extended Data](ext_articles/c1a7c8d2.ext.json)
-
----
-
-### Mortar bullets found from national school in Vavuniya
-
-*2024-03-12 10:34:07* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාවේ-ජාතික-පාසලකින්-මෝටාර්-උණ්ඩ-සොයාගනී/11-408554) · `si`
-
-Police found three types of non-exploded mortar bullets at Madukanda National School in Vavuniya. Suspecting LTTE presence, they're investigating for more bombs. The decayed ammunition posed a potential explosion risk. Officers at Madukanda Base are being dismissed under court orders.
-
-🟩
-
-Police Special Task Force has found three types of mortar bullets who have not exploded in Madukanda National School premises in Vavuniya.. The playground has been transferred to the Madukanda National School, Madukanda National School and has been transferred to the Madukanda National School.
-
-Police suspect that the Troops of the Troubled LTTE during the war, the police suspect that they had to find out if there were more bombs.. The mortar ammunition was severely decayed. He said that the mortar bullet was scattered and that he could have caused great harm to explosion.
-
-Steps have been taken to dismiss the officers of the Madukanda camp in the Madukanda Base of Mortar Ammunition Under Vavuniya Magistrate's Court orders.
-
-◼️
-
-[Data](articles/aeb656f0.json)
-
-[Extended Data](ext_articles/aeb656f0.ext.json)
-
----
-
-### 40.9 acres of land released in Kilinochchi district
-
-*2024-03-12 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178495) · `ta`
-
-In Kilinochchi, 40.9 acres land released by soldiers. Available through state departments, private institutions, or public contacting Divisional Secretariats.
-
-🟩
-
-District Additional Government President S. Muralitharan said that 40.9 acres of land in the Kilinochchi district has been released.
-
-40.9 acres of land has been released by the soldiers in 3 Divisional Secretariat Divisions in Kilinochchi district.
-
-He said that the lands can be obtained by contacting the state departments and private institutions or the public by contacting the Divisional Secretariats.
-
-◼️
-
-[Data](articles/a811e6cb.json)
-
-[Extended Data](ext_articles/a811e6cb.ext.json)
-
----
-
-### DIG of Police Special Branch gets promotion
-
-*2024-03-12 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97888/dig-of-police-special-branch-gets-promotion) · `en`
-
-Deputy Inspector General (DIG) of Police T.C.A. Dhanapala has been promoted to the post of Senior DIG.
-
-Issuing a statement, the Police Media Division stated that the relevant promotion was made by the IGP under the approval of the National Police Commission.
-
-Accordingly, this appointment will be retrospectively effective from February 29, 2024, as per the Police Media Division.
-
-SDIG Dhanapala is currently in-charge of the Special Branch Range.
-
-◼️
-
-[Data](articles/44cc4130.json)
-
-[Extended Data](ext_articles/44cc4130.ext.json)
 
 ---

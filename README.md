@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 05:37:04**
+As of **2024-03-12 05:55:46**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 1,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,265 (100.0%) of 12,267 articles have been extended.
+12,267 (100.0%) of 12,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-12 (Tuesday)
 
-### ரமழான் நோன்பு இன்று ஆரம்பம்
+### Ramadan fasting is just beginning today
 
 *2024-03-12 04:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரமழான்-நோன்பு-இன்று-ஆரம்பம்/175-334538) · `ta`
 
-புனித ரமழான் நோன்பு இன்று (12) ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது.
+Ramadan fasting starts today. The Hijri 1445 Deciding Committee Conference on the Holy Ramadan's title was held at Colombo Great School.
 
-ஹிஜ்ரி 1445 புனித ரமழான் மாத தலைப்பிறையை தீர்மானிக்கும் பிறைக்குழு மாநாடு நேற்று மாலை மஹ்ரிப் தொழுகையை தொடர்ந்து கொழும்பு பெரிய பள்ளிவாசலில் இடம்பெற்றது.
+🟩
 
-இதன்போது நாட்டின் பல பிரதேசங்களிலும் ரமழான் மாத தலைப்பிறை தென்பட்டதற்கான ஆதார பூர்வமான தகவல்கள் கிடைக்கப்பெற்றதற்கமைய இன்று ரமழான் நோன்பு ஆரம்பிப்பதாக கொழும்பு பெரிய பள்ளிவாசல் அறிவித்துள்ளது. (a)
+St. Ramadan fasting will commence today (12).
+
+The Hijri 1445 Deciding Committee Conference to Determine the Title of the Holy Ramadan was held at the Colombo Great School following the Mahrip prayer yesterday evening.
+
+The Ramadan fasting will begin today, with the source of information available in many parts of the country in the Ramadan month.. (A)
 
 ◼️
 
 [Data](articles/05e3bd1d.json)
+
+[Extended Data](ext_articles/05e3bd1d.ext.json)
 
 ---
 
@@ -1337,6 +1343,8 @@ Specifically, the TNA MP said he highlighted the absence of published technical 
 ...
 
 [Data](articles/719ea478.json)
+
+[Extended Data](ext_articles/719ea478.ext.json)
 
 ---
 

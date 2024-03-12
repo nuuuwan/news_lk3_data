@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-12 21:34:22**
+As of **2024-03-12 21:52:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,970
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,475 (100.0%) of 12,478 articles have been extended.
+12,478 (100.0%) of 12,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Their letters of appointment were handed over by President’s Secretary Saman E
 ◼️
 
 [Data](articles/9a68785b.json)
+
+[Extended Data](ext_articles/9a68785b.ext.json)
 
 ---
 
@@ -73,6 +75,8 @@ Xiaomi is also hoping that the car's shared operating system with its phones and
 ...
 
 [Data](articles/b63668f7.json)
+
+[Extended Data](ext_articles/b63668f7.ext.json)
 
 ---
 
@@ -294,17 +298,23 @@ The President's Secretary Saman Ekanayake handed over their appointment letters 
 
 ---
 
-### வட மாகாண பிரதம செயலாளராக இளங்கோவன் நியமனம்
+### Ilangovan appointed as the Chief Secretary of the Northern Province
 
 *2024-03-12 19:32:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-பிரதம-செயலாளராக-இளங்கோவன்-நியமனம்/175-334568) · `ta`
 
-வட மாகாண பிரதமச் செயலாளராக எல். இளங்கோவனும், வடமேல் மாகாண பிரதமச் செயலாளராக தீபிகா கே குணரத்னவும் நியமிக்கப்பட்டுள்ளனர்.
+Ilangovan and Deepika Ke Gunaratne appointed as Chief Secretaries of the North Western Province.
 
-அவர்களுக்கான நியமனக் கடிதங்களை ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஜனாதிபதி செயலகத்தில் வைத்து இன்று (12) கையளித்தார்.   R
+🟩
+
+The Northern Province is the Chief Secretary. Ilangovan and Deepika Ke Gunaratne have been appointed as the Chief Secretary of the North Western Province.
+
+The President's Secretary Saman Ekanayake handed over their appointment letters to the Presidential Secretariat today.R
 
 ◼️
 
 [Data](articles/624f6275.json)
+
+[Extended Data](ext_articles/624f6275.ext.json)
 
 ---
 

@@ -1,50 +1,68 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 09:33:38**
+As of **2024-03-13 09:51:51**
 
 ## Newspaper Stats
 
-*Scraped **12,560** Articles*
+*Scraped **12,563** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 121
-bbccomsinhala | 143
+bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 666
 islandlk | 685
-adalk | 1,072
+adalk | 1,073
 adaderanalk | 1,513
 tamilmirrorlk | 1,526
 virakesarilk | 1,745
 dailymirrorlk | 1,912
-adaderanasinhalalk | 1,979
+adaderanasinhalalk | 1,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,558 (100.0%) of 12,560 articles have been extended.
+12,560 (100.0%) of 12,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### பல்கலைக்கழக கல்வி சாரா ஊழியர்கள்  பணிப்பகிஷ்கரிப்பு
+### ශ්‍රී ලංකා - බංග්ලාදේශ පළමු තරගය අද
+
+*2024-03-13 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194447) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර තරග 3කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය චිතගොංහිදි අද (13) පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/8e4c1e8d.json)
+
+---
+
+### University of University
 
 *2024-03-13 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178584) · `ta`
 
-பல்கலைக்கழக கல்வி சாரா ஊழியர்களினால் ஆரம்பிக்கப்பட்டுள்ள பணிப்பகிஷ்கரிப்பு தொடர்ந்து இரண்டாவது நாளாகத் தொடர்கிறது.  அதன்படி, இன்று புதன்கிழமை (13) மாலை 4.30 மணி வரை பணிப் பகிஷ்கரிப்பு தொடரவுள்ளது.
+Non-academic staff at the University of University are on strike for the second day, protesting unresolved salary reductions. A boycott will continue until 4:30 pm on Wednesday. The Universities Trade Union Federation warns of an indefinite boycott starting next week if no solution is provided.
 
-அனைத்து பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் ஜனவரி 22 கூட்டத்தில் உறுதியளித்தபடி தங்களது சம்பளக் குறைப்பை அதிகாரிகள் சரி செய்யத் தவறியதற்கு எதிர்ப்புத் தெரிவித்து, நேற்று செவ்வாய்க்கிழமை (12) நண்பகல்  அடையாள பணிப் பகிஷ்கரிப்பில்  ஈடுப்பட்டனர்.
+🟩
 
-அதிகாரிகள் எமக்கு தீர்வை வழங்காவிட்டால், அடுத்த வாரம் முதல் காலவரையற்ற பணிப் பகிஷ்கரிப்பில் ஈடுபடுவோம் என பல்கலைக்கழகங்களுக்கு இடையிலான தொழிற்சங்க சம்மேளனத்தின் இணைச் செயலாளர் கே.எல்.டி.ஜி.ரிச்மண்ட் தெரிவித்துள்ளார்.
+The workplace initiated by non -academic staff continues for the second day.Accordingly, a work boycott will continue till 4.30 pm on Wednesday (13).
+
+All university non -academic employees were protesting the failing to repair their salary reduction, as promised at the January 22nd meeting, and were engaged in a boycott of the Identification on Tuesday (12).
+
+KLDG Richmond, Joint Secretary of the Universities Trade Union Federation, said that if the authorities do not provide us with a solution, we will engage in indefinite boycott from next week.
 
 ◼️
 
 [Data](articles/c02d71e2.json)
+
+[Extended Data](ext_articles/c02d71e2.ext.json)
 
 ---
 
@@ -61,6 +79,8 @@ Additionally, accounting principles and standards adopted, Bulk Supply Transacti
 ...
 
 [Data](articles/1f66ce76.json)
+
+[Extended Data](ext_articles/1f66ce76.ext.json)
 
 ---
 
@@ -114,7 +134,7 @@ In December last year, Sri Lanka was promoted to 'oppressed' in our organization
 
 The trade union action launched by the non-academic staff members of state universities has entered the second consecutive day. Accordingly, the strike will be continued until 4.30 p.m. today.
 
-Non-academic staffers of all 17 state universities launched the token strike at noon yesterday (March 12) in protest of the authorities’ failure to rectify their salary cut as promised at the January 22 meeting.
+Non-academic staffers of all 17 state universities launched the token strike at noon yesterday (March 12) in protest of the authorities’ failure to rectify their salary increments as promised at the January 22 meeting.
 
 “If the authorities do not provide us with a solution, we will resort to an indefinite strike starting next week,” the co-secretary of the Inter University Trade Union Federation, K. L. D. G. Richmond said commenting on the matter.
 
@@ -211,6 +231,20 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 [Data](articles/0903a2b6.json)
 
 [Extended Data](ext_articles/0903a2b6.ext.json)
+
+---
+
+### උතුරු පළාත් නව ප්‍රධාන ලේකම් එල්. ඉලංගෝවන්
+
+*2024-03-13 08:12:06* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-පළාත්-නව-ප්‍රධාන-ලේකම්-එල්--ඉලංගෝවන්/11-408577) · `si`
+
+උතුරු පළාත් නව ප්‍රධාන ලේකම්වරයා ලෙස එල්. ඉලංගෝවන් මහතා පත්කර තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පත්වීම් සිදුකර තිබෙන අතර ඊට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් ඊයේ (12දා) පස්වරුවේ ජනාධිපති කාර්‍යාලයේ දී ඒ මහතා වෙත භාරදෙනු ලැබීය.
+
+ශ්‍රී ලංකා පරිපාලන සේවයේ කීර්තිමත් නිලධාරියෙකු වන එල්. ඉලංගෝවන් මහතා උතුරු පළාතේ අමාත්‍යාංශ රැසක ලේකම් ධූරය මෙන්ම උතුරු පළාත් ආණ්ඩුකාර ලේකම් ධූරය ද හොබවා ඇති අතර, ඒ මහතා උතුරු පළාත් නව ප්‍රධාන ලේකම්වරයා ලෙස පත්වීම් ලබන අවස්ථාව වන විට ජනාධිපති කාර්යාලයේ උතුරු පළාත් සංවර්ධනය පිළිබඳ ජනාධිපති අතිරේක ලේකම්වරයා ලෙස කටයුතු කරමින් සිටියේය.
+
+◼️
+
+[Data](articles/26a519ab.json)
 
 ---
 
@@ -725,6 +759,22 @@ Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka 
 [Data](articles/b5f0e12d.json)
 
 [Extended Data](ext_articles/b5f0e12d.ext.json)
+
+---
+
+### ටොන් ගණනින් කසළ ගොඩගැසෙන ජලපෝෂක ශ්‍රීපාද රක්ෂිතය
+
+*2024-03-13 02:30:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c723739n73lo) · `si`
+
+ශ්‍රී ලංකාවේ ඇති වන රක්ෂිත අතුරින්, ජෛව විවිධත්වය අතින් ශ්‍රී පාද රක්ෂිතයට සුවිශේෂී ස්ථානයක් හිමිව තිබේ. මධ්‍යම කඳුකරයේ කොටසක් වන ශ්‍රී පාද රක්ෂිතය තුළ ශ්‍රී ලංකාවට ආවේණික සතුන් හා ශාඛ මෙන් ම වඳ වී යාමේ තර්ජනයට මුහුණදී ඇති ශාඛ සහ සත්වයෝ රැසක් ජීවත් වෙති. එමෙන් ම ශ්‍රී පාද රක්ෂිතය යනු ප්‍රධානත ම ජල පෝෂක ප්‍රදේශයකි. ශ්‍රී ලංකාවේ ප්‍රධාන ගංගා කිහිපයක ම ආරම්භක ජල මූලාශ්‍ර ඇත්තේ එහි ය.
+
+ශ්‍රීපාදස්ථානය වන්දනාමාන කිරීමට වාර්ෂිකව ලක්ෂ ගණනක වන්දනාකරුවන් ගමන් කරන්නේ රක්ෂිතය හරහා ය. දෙසැම්බර් මාසයේ උඳුවප් පොහොය දිනය සිට මැයි මස වෙසක් පොහොය දින දක්වා ඇති කාලවකවානුවේදී මෙලෙස ගමන් ගන්නා වන්දනාකරුවන් විසින් ගෙන යන කසළ තැන තැන විසි කර යාම වර්තමානය වන විට දැවැන්ත පාරිසරික ගැටළුවක් බවට පත් වී තිබේ.
+
+වසරකට ටොන් ගණනක කසළ මෙලෙස වන්දනා කිරීමට පැමිණෙන පිරිස් විසින් ක්‍රමවත්ව බැහැර නොකර තැන තැන විසි කර දමා යන අතර, එහි මඟ දෙපස ගොඩගැසුණු කුණු ගොඩවල් ඉතා සුලභ දර්ශනයක් බවට පත් වී තිබේ. එලෙස විසි කර යන කුණු කඳු මුදුනේ සිට නැවත එකතු කර පහළට රැගෙන ඒම ද දුෂ්කර ක්‍රියාවක් බව කිවයුතු නොවේ.
+
+...
+
+[Data](articles/f88d1b46.json)
 
 ---
 
@@ -2145,67 +2195,5 @@ If a permanent political solution is needed, this country is to move economicall
 [Data](articles/d793b389.json)
 
 [Extended Data](ext_articles/d793b389.ext.json)
-
----
-
-### Sajith IMF. The agents to meet
-
-*2024-03-12 18:23:12* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්-අයි-එම්-එෆ්--නියෝජිතයන්-හමුවෙන්න-යයි/11-408573) · `si`
-
-Sajith Premadasa, Sri Lanka's Opposition Leader, plans to meet with the IMF to discuss a program aimed at addressing malnutrition in Sri Lanka, particularly affecting mothers and children. He highlights the need for international financial institutions, including the Asian Development Bank, to collaborate on a specialized program to tackle this issue.
-
-🟩
-
-The Leader of the Memorandum of the International Monetary Fund will meet with the International Monetary Fund
-
-He said that the 120th rehearsal classroom is to provide a supporting program to rescue the assistance of mothers and children in the malnutrition of Sri Lanka.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"In the next few days we meet the International Monetary Fund Representative. We hope to propose to propose to the International Monetary Fund delegation personnel in this country. 25% of the ages of 6-18 people in the same census in 2022 are in the country. There are a number of claims. Malnutrition in the country is developing. Mother and mothers are suffering because of the malnutrition.
-
-...
-
-[Data](articles/bd9380c4.json)
-
-[Extended Data](ext_articles/bd9380c4.ext.json)
-
----
-
-### New Governors to the North and Wayamba
-
-*2024-03-12 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194430) · `si`
-
-New Chief Secretaries appointed in North and Wayamba: Mr. Ilangowan for Northern Province and Deepika K. for North Western Province, by President Ranil Wickremesinghe.
-
-🟩
-
-Accordingly, the new Chief Secretary is the Northern Province. Mr. Ilangowan and the Chief Secretary of the North Western Province is Deepika K. Mrs. Gunaratne has been appointed.
-
-The appointments have been made by President Ranil Wickremesinghe and the relevant appointments have been handed over to the UNP today (12) at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/6043dfe2.json)
-
-[Extended Data](ext_articles/6043dfe2.ext.json)
-
----
-
-### We don’t need intermediaries to meet IMF team: Hadunnetti
-
-*2024-03-12 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-dont-need-intermediaries-to-meet-IMF-team-Hadunnetti/108-278711) · `en`
-
-Colombo, March 12 (Daily Mirror)- Claiming that they were not ready to meet IMF delegation through any intermediaries, former JVP MP Sunil Hadunnetti said today the National People's Power (NPP) was scheduled to meet the high level IMF delegation this Thursday (14) following a request made by the IMF team.
-
-He told a news conference of the NPP Economic Council that the IMF team has sought a meeting with the NPP and they will meet the NPP members at the JVP headquarters this Thursday.
-
-"We did not attend the meeting convened by President Ranil Wickremesinghe with the IMF team. We had not sought such a meeting through the President. The meeting was arranged following a request made by SJB MP Harsha De Silva in Parliament. If we wanted any discussions with the IMF team or the IMF team wanted to discuss with us, there is a procedure to do so. We do not want intermediaries," he said.
-
-...
-
-[Data](articles/22505144.json)
-
-[Extended Data](ext_articles/22505144.ext.json)
 
 ---

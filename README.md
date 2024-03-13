@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 08:17:52**
+As of **2024-03-13 08:33:30**
 
 ## Newspaper Stats
 
-*Scraped **12,546** Articles*
+*Scraped **12,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,58 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 666
 islandlk | 685
-adalk | 1,070
+adalk | 1,071
 adaderanalk | 1,511
-tamilmirrorlk | 1,524
+tamilmirrorlk | 1,525
 virakesarilk | 1,741
 dailymirrorlk | 1,910
-adaderanasinhalalk | 1,977
+adaderanasinhalalk | 1,978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,542 (100.0%) of 12,546 articles have been extended.
+12,546 (100.0%) of 12,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### பொத்துவிலில் இரண்டு சடலங்கள் மீட்பு
+### Recovery of two bodies in Pottuvil
 
 *2024-03-13 08:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவிலில்-இரண்டு-சடலங்கள்-மீட்பு/175-334589) · `ta`
 
-ஆண் மற்றும் பெண் ஆகிய இருவரது சடலங்களே இவ்வாறு கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Two bodies, one male and one female, were found in Pottuvil, near a hotel.
 
-பொத்துவில் – அருகம்பே பகுதியிலுள்ள ஹோட்டல் ஒன்றில் இருந்து இந்த சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+🟩
+
+The bodies of both male and female have been found, police said.
+
+The bodies have been found from a hotel in Pottuvil - nearby area.
 
 ◼️
 
 [Data](articles/2b7f5faa.json)
+
+[Extended Data](ext_articles/2b7f5faa.ext.json)
+
+---
+
+### අන්තර්ජාල වංචාවල කැපී පෙනෙන වර්ධනයක්
+
+*2024-03-13 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194445) · `si`
+
+අන්තර්ජාලය ඔස්සේ සිදුවන අපරාධවල වර්ධනයක් මේ වන විට නිරීක්ෂණය වී ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+
+එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණුකොල මහතා සඳහන් කළේ වසරේ ගත වූ කාලසීමාව තුළ පරිගණක වංචා 423 වාර්තා වී ඇති බවය.
+
+"අන්තර්ජාලය ඔස්සේ ඔන්ලයින් රැකියා ලබාදෙන මුවාවෙන් සිදුවන වංචා, ඒ එක්කම ක්‍රිප්ටො-කරන්සි හරහා සිදුවුණ වංචා, පිරමීඩ වංචා ගොඩක් වෙලාවට පසුගිය වර්ෂයේ සිට මේ වර්ෂයේ ගෙවී ගිය මාස දෙක තුළ වැඩිවීමක් තියෙනවා. 2023 අන්තර්ජාල වංචා 1,609ක් අපිට වාර්තා වෙලා තියෙනවා. මේ වර්ෂය තුළ ජනවාරි මාසයේ එවැනි වංචා 110ක් වාර්තා වෙලා තියෙනවා. පෙබරවාරි මාසයේ අන්තර්ජාල වංචා 213ක් සහ මාර්තු මාසයේ මේ දක්වා 100ක් වර්තා වෙලා තියෙනවා. සමහර පැමිණිවල මුදල් වංචා වාර්තා වුණාම ඔවුන්ට අවශ්‍ය තාක්ෂණික සහයෝගය ලබාදීලා අපි පරිගණක අපරාධ කොට්ඨාසය වෙත යොමුකරලා තියෙනවා."
+
+අන්තර්ජාලය ඔස්සේ සිදුවන පරිගණක අපරාධ සම්බන්ධයෙන් තවදුරටත් අදහස් දක්වන තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණුකොල මහතා,
+
+...
+
+[Data](articles/08c730ae.json)
 
 ---
 
@@ -61,6 +85,8 @@ The letter has given instructions on how to plan the daily activities and outdoo
 ◼️
 
 [Data](articles/98d5cd96.json)
+
+[Extended Data](ext_articles/98d5cd96.ext.json)
 
 ---
 
@@ -446,6 +472,20 @@ A sudden death investigation officer A. Jayapalasingham. The body was handed ove
 
 ---
 
+### புதிய தூதுவர், உயர்ஸ்தானிகர் நியமனம்
+
+*2024-03-13 02:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்-உயர்ஸ்தானிகர்-நியமனம்/175-334587) · `ta`
+
+இலங்கைக்கு புதிதாக நியனம் பெற்று வந்திருக்கும் தூதுவர் ஒருவரும், உயர்ஸ்தானிகரும் கொழும்பு கோட்டை ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் நேற்று நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+
+தாய்லாந்தின் இலங்கைக்கான புதிய தூதுவராக நியமனம் பெற்றிருக்கும் பைட்டூன் மஹாபன்னபோர்ன், பாகிஸ்தான் இஸ்லாமியக் குடியரசின் உயர்ஸ்தானிகர் நியமனம் பெற்றிருக்கும் மேஜர் ஜெனரல் Faheem Ul Aziz ஆகியோரே இவ்வாறு நற்சான்றுப் பத்திரங்களைக் கையளித்தார். (a)
+
+◼️
+
+[Data](articles/b5f0e12d.json)
+
+---
+
 ### UNP ‘Sebewa’ rally a farce claims Marikkar
 
 *2024-03-13 02:27:54* · [`dailyftlk`](https://www.ft.lk/news/UNP-Sebewa-rally-a-farce-claims-Marikkar/56-759406) · `en`
@@ -555,6 +595,8 @@ The International Monetary Fund (IMF) should urge Sri Lanka’s government to ab
 ...
 
 [Data](articles/d7e3ab49.json)
+
+[Extended Data](ext_articles/d7e3ab49.ext.json)
 
 ---
 
@@ -802,25 +844,31 @@ The Ceylon Electricity Board (CEB) has asked the people to use electricity as it
 
 ---
 
-### குளிசை தொண்டையில் சிக்கி குழந்தை மரணம்
+### Baby death stuck in cold throat
 
 *2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிசை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
 
-காய்ச்சல் காரணமாக பாட்டி கொடுத்த மாத்திரையொன்று சிறுமியின் தொண்டையில் சிக்கியதில் 4 வயதுச் சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+A 4-year-old girl died after a pill was accidentally swallowed and got stuck in her throat. She was admitted to the ICU at Peradeniya Sirimavo Bandaranaike Children's Hospital and later transferred to Mahiyangana Hospital. The father was living separately. The pill was removed, and the child was transferred back to Peradeniya for further treatment. The police are investigating, and the death investigation has been postponed.
 
-மயக்கமடைந்த சிறுமி மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட சிறுமி நேற்று (11) உயிரிழந்துள்ளார்.
+🟩
 
-தாய் வௌிநாடு சென்றுள்ளதால் தாத்தா, பாட்டி மற்றும் இரண்டு சகோதரிகளுடன் வீட்டில் வசித்து வந்துள்ளார்.
+A 4 -year -old girl has died after a grandmother's pill was caught in the throat of a girl.
 
-தந்தை அவர்கள் வசிக்கும் வீட்டிற்கு அருகில் உள்ள வேறொரு வீட்டில் வசித்து வருவதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+The girl who was admitted to the Intensive Care Unit of the Peradeniya Sirimavo Bandaranaike Children's Hospital has died yesterday (11) after the unconscious girl was admitted to the Mahiyanganaya Hospital.
 
-மஹியங்கனை வைத்தியசாலையில் சிறுமியின் தொண்டையில் சிக்கியிருந்த மாத்திரை அகற்றப்பட்டு மேலதிக சிகிச்சைக்காக பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+The mother has been living at home with grandparents and two sisters as the mother has gone to Vavinadu.
 
-விசாரணை அறிக்கை கிடைக்கும் வரை மரண விசாரணையை ஒத்திவைக்க திடீர் மரண பரிசோதகர் அமல் ஜயவர்தன நடவடிக்கை எடுத்திருந்தார். R
+Police investigations have revealed that the father was living in another house near their home.
+
+The pill trapped in the throat of the girl at Mahiyanganna Hospital has been removed and the Peradeniya Sirimavo Bandaranaike has been transferred to the Bandaranaike Children's Hospital for further treatment.
+
+Sudden Death Inspector Amal Jayawardena had taken action to postpone the death investigation until the investigation was received. Remble
 
 ◼️
 
 [Data](articles/021df6c1.json)
+
+[Extended Data](ext_articles/021df6c1.ext.json)
 
 ---
 
@@ -1003,6 +1051,26 @@ Preliminary reports say that the four houses in the Mattakkuli Alivatta area hav
 [Data](articles/fc568d39.json)
 
 [Extended Data](ext_articles/fc568d39.ext.json)
+
+---
+
+### හාලි ඇල නිවසක් මතට කිලෝ පනහක පමණ අයිස් කුට්ටියක් වැටෙයි
+
+*2024-03-12 22:33:34* · [`adalk`](https://www.ada.lk/breaking_news/හාලි-ඇල-නිවසක්-මතට-කිලෝ-පනහක-පමණ-අයිස්-කුට්ටියක්-වැටෙයි/11-408575) · `si`
+
+හාලිඇල මැදගම නිවසක වහලයක් මතට අද 12  කිලෝ පනහක පමණ බරකින් යුත් අයිස් කුට්ටියක් පතිත වූ බව එම නිවැසියන් ආපදා කළමනාකරණ මධ්‍යස්ථානය දැනුම්වත් කර ඇත.
+
+වහලය මතට පතිත වූ එම අයිස් කුට්ටිය වහලයේ දියවී  ගලා විත් බිමට පතිත වූ බවත් දියවීමට පැය කීපයක් ගත වූ බවත් නිවැසියන් ආපදා අංශ වලට දන්වා තිබේ.
+
+අයිස් කුට්ටියේ වැටුණු ස්ථානය වහලය ගිලාබැස ඇති බවද නිවැසියන්  පැවසීය.මෙම සිද්ධියෙන් කිසිවකුටත් අනතුරක් සිදුවී නොමැති බවද පැවසේ.
+
+මෙතරම් විශාල අයිස් කුට්ටියක්  අහසින් වැටීමක් වාර්තාවන්නේ ඉතිහාසයේ ප්‍රථම වතාවට බව බදුල්ල  ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ඊ  එම් එල්  උදය කුමාර මහතා පැවසීය.
+
+කෙසේ වෙතත් වියළි කාලගුණික තත්ත්වයන් හමුවේ  අයිස්  වැටෙන  තත්ත්වයන් වාර්තා වුවද මෙවැනි විශාල ප්‍රමාණයේ  අයිස් කුට්ටියක් හුදෙකලා තැනකට වැටීමක් වාර්තා වන්නේ ප්‍රථම වතාවට බවද ඒ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/ff629f36.json)
 
 ---
 
@@ -2155,73 +2223,5 @@ ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 0.1929 he
 [Data](articles/0e4629d1.json)
 
 [Extended Data](ext_articles/0e4629d1.ext.json)
-
----
-
-### Two years later in the Sri Lankan ODI cricket team
-
-*2024-03-12 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178550) · `ta`
-
-Kamindu Mendis, a two-year veteran, is selected for Sri Lanka's ODI series against Bangladesh. The team includes notable players like Angelo Mathews and Tanjaya de Silva. Sri Lanka has won 42 of 54 ODIs against Bangladesh in the last 37 years.
-
-🟩
-
-All -rounder Kamindu Mendis has been named in the Sri Lankan squad for the three -match ODI series, which will start on Wednesday (13) at the Chatogram Stadium against Bangladesh.
-
-Two years later, Saravadesa is taking place in the ODI cricket team, two years later.
-
-He played in the R20 series against Bangladesh in the last R20 cricket match against Afghanistan in the last T20 cricket match.
-
-Recently, the select committee chairman Uppul Tharanga said that the Sri Lankan squad in the ODIs and Test matches would be a favorable team like Mendis.
-
-Despite this, Bethum Nissank, who missed the T20 series with Bangladesh during the last T20 match with Afghanistan, has been recruited in the ODI group.
-
-More than them, Janith Liyanage, Sahan Arachike and Samika Karunaratne have been named in the cricket team one day.
-
-...
-
-[Data](articles/31239aa2.json)
-
-[Extended Data](ext_articles/31239aa2.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 306.50/60 to the US dollar
-
-*2024-03-12 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-306-50-60-to-the-us-dollar-154389/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 306.50/60 to the US dollar in the spot forex market on Tuesday, stronger from 306.95/307.10 on Monday, dealers said, while bond yields were down.
-
-After the bond auction held today, a bond maturing on 15.12.2026 traded at 11.35/40 percent. The 01.08.2026 bond had closed yesterday at 11.00/10 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.15 percent down from 12.00/10 percent.
-
-Again, after the bond auction today, a bond maturing on 15.12.2028 traded at 12.15/25. A bond maturing 01.07.2028 had closed at 12.20/35 percent on Monday.
-
-A bond maturing on 15.07.2029 closed at 12.30/50 percent down from 12.35/70 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/55 percent down from 12.35/70 percent.
-
-A bond maturing on 01.07.2032 closed at 12.50/80 percent from down 12.60/90 percent. (Colombo/Mar12/2024)
-
-◼️
-
-[Data](articles/8c1b03b2.json)
-
-[Extended Data](ext_articles/8c1b03b2.ext.json)
-
----
-
-### New British envoy visits Gangaramaya Temple
-
-*2024-03-12 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/New-British-envoy-visits-Gangaramaya-Temple/110-278710) · `en`
-
-Newly appointed British High Commissioner to Sri Lanka Andrew Patrick visited the Gangaramaya Temple today to invoke blessings on his new appointment. During the visit, Deputy Incumbent of the temple Ven. Dr. Kirinde Assaji Thera presented the High Commissioner with the book “Twentieth Century Impressions of Ceylon" published by the Gangaramaya Temple. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/4956dca0.json)
-
-[Extended Data](ext_articles/4956dca0.ext.json)
 
 ---

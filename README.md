@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 10:02:49**
+As of **2024-03-13 10:17:42**
 
 ## Newspaper Stats
 
-*Scraped **12,565** Articles*
+*Scraped **12,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,83 @@ dailyftlk | 650
 economynextcom | 666
 islandlk | 685
 adalk | 1,073
-adaderanalk | 1,514
+adaderanalk | 1,516
 tamilmirrorlk | 1,526
-virakesarilk | 1,745
-dailymirrorlk | 1,912
+virakesarilk | 1,748
+dailymirrorlk | 1,913
 adaderanasinhalalk | 1,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,563 (100.0%) of 12,565 articles have been extended.
+12,565 (100.0%) of 12,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### පාකිස්තාන ජනපතිවරයා වැටුප අත්හරී
+### Biden, Trump set for election rematch after securing party nominations
+
+*2024-03-13 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/97914/biden-trump-set-for-election-rematch-after-securing-party-nominations) · `en`
+
+US President Joe Biden and his predecessor Donald Trump have both passed the delegate thresholds to clinch their parties’ nominations for the election in November.
+
+Four states, one American territory and Democrats living abroad held their primaries on Tuesday.
+
+The result means US voters face a rematch of the 2020 presidential election in eight months’ time.
+
+The nominations will be made official at party conventions this summer.
+
+The 81-year-old president said on Tuesday evening that he was “honoured” voters had backed his re-election bid “in a moment when the threat Trump poses is greater than ever”.
+
+Citing positive economic trends, he asserted the US was “in the middle of a comeback” but faced challenges to its future as a democracy, as well as from those seeking to pass abortion restrictions and cut social programmes.
+
+“I believe that the American people will choose to keep us moving into the future,” Mr Biden said in a statement from his campaign.
+
+...
+
+[Data](articles/72fe5ab0.json)
+
+---
+
+### IMF should call on Sri Lanka to abandon proposed NGO law, says HRW
+
+*2024-03-13 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-should-call-on-Sri-Lanka-to-abandon-proposed-NGO-law-says-HRW/108-278758) · `en`
+
+March 13 (Daily Mirror) - The International Monetary Fund (IMF) should urge Sri Lanka’s government to abandon the proposed Non-Governmental Organizations (Registration and Supervision) Act, impose a moratorium on the use of the Online Safety Act, and amend the Anti-Terrorism Bill to ensure that it respects human rights standards, Human Rights Watch (HRW) said.
+
+The IMF should urge Sri Lanka’s government to abandon draft legislation that would severely curtail civil society and jeopardize the IMF’s programme in the country, HRW said in a letter to the IMF that was released today.
+
+The proposed Non-Governmental Organizations (Registration and Supervision) Act is among several recent and planned measures that would curtail fundamental freedoms, despite the critical role of public scrutiny in promoting good governance and combatting corruption.
+
+...
+
+[Data](articles/67f09fc1.json)
+
+---
+
+### Pakistan President abandons salary
 
 *2024-03-13 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194448) · `si`
 
-රට මුහුණ දෙන ආර්ථික අභියෝග හේතුවෙන් පාකිස්තාන ජනාධිපති අසීෆ් අලි සර්දාරි සිය වැටුප අත්හැරීමට තීරණය කර තිබේ.
+Pakistan's President Asif Ali Zardari and Minister Mohamzin Nawki have decided to forego their salaries to encourage financial management amid economic challenges.
 
-රටේ මූල්‍ය කළමනාකරණය දිරිගැන්වීම සඳහා ඔහු මෙම තීරණය ගත් බව පාකිස්තාන ජනාධිපති ලේකම් කාර්යාලය නිකුත් කළ නිවේදනයක දැක්වේ.
+🟩
 
-පාකිස්තාන භාණ්ඩාගාරයට බරක් නොවීම අත්‍යාවශ්‍ය බව සැලකූ ජනාධිපතිවරයා තම වැටුප අත්හැරීමට කැමැත්තක් දැක්වූ බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+Pakistan President Asif Ali Zardri has decided to leave his salary due to economic challenges facing the country.
 
-ඊට සහාය පළකිරීමක් වශයෙන් අලුතින් දිවුරුම් දුන් අභ්‍යන්තර කටයුතු අමාත්‍ය මොහ්සින් නක්වි ද ඔහුගේ සේවා කාලය තුළ වැටුපක් ලබා නොගැනීමට තීරණය කර තිබේ.
+The Presidential Secretariat was issued by the Presidential Secretariat that he had taken this decision to encourage the country's financial management.
+
+The President said that it was necessary to be burdened by the Pakistan Treasury.
+
+Mohamzin Nawki, Minister Mohamzin Nawki, has decided not to receive a salary during his tenure as a support.
 
 ◼️
 
 [Data](articles/5dadffa2.json)
+
+[Extended Data](ext_articles/5dadffa2.ext.json)
 
 ---
 
@@ -63,6 +109,58 @@ Since they were now detained at a foreigners’ detention camp in Tiruchi, the C
 ...
 
 [Data](articles/b0fc4917.json)
+
+[Extended Data](ext_articles/b0fc4917.ext.json)
+
+---
+
+### யாழில் துப்பாக்கி வெடித்ததில் இளைஞன் படுகாயம்
+
+*2024-03-13 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178587) · `ta`
+
+யாழ்ப்பாணம் மிருசுவில் பகுதியில் நேற்று செவ்வாய்க்கிழமை (12) இடியன் துப்பாக்கி வெடித்ததில் ஒருவர் காயமடைந்துள்ளார்.
+
+காயமடைந்தவர் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ள நிலையில், சம்பவம் தொடர்பாக பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b3ba714a.json)
+
+---
+
+### ஜப்பானிய தனியார் நிறுவன ரொக்கெட் வெடித்துச் சிதறியது
+
+*2024-03-13 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178588) · `ta`
+
+டோக்கியோவைத் தளமாக் கொண்ட ஸ்பேஸ் வன் எனும் நிறுவனத்தின் Kairos  எனும் ரொக்கெட், வாகாயாமா பிராந்தியத்திலுள்ள அந்நிறுவனத்தின் சொந்த ஏவுதளத்திலிருந்து இன்று காலை ஏவப்பட்டது.
+
+18 மீற்றர் நீளமான இந்த ரொக்கெட்டில் ஜப்பானிய அரசின் சிறிய சோதனை செய்மதியொன்று ஏற்றப்பட்டடிருந்தது.
+
+◼️
+
+[Data](articles/3ad6582c.json)
+
+---
+
+### நுவரெலியாவில் தோட்ட முகாமையாளர்கள் இருவருக்கு விளக்கமறியல்!
+
+*2024-03-13 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178586) · `ta`
+
+நுவரெலியா லபுக்கலை தோட்ட பிரிவான பம்பரகலை தோட்டத்தில் தாக்குதலில் ஈடுப்பட்ட சம்பவத்தில் நுவரெலியா பொலிஸாரால் கைது செய்யப்பட்ட தோட்ட  முகாமையாளர் இருவரை விளக்கமறியலில் வைக்க நுவரெலியா மாவட்ட நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த உத்தரவை நுவரெலியா மாவட்ட நீதவான் நீதிமன்ற நீதவான் பிரபுதிகா லங்கான்தினி நேற்று (12) செவ்வாய்க்கிழமை  மாலை பிறப்பித்துள்ளார்.
+
+நுவரெலியா பம்பரகலை தோட்டத்தில் கள உத்தியோகத்தர் ஒருவருக்கும் தோட்ட முகாமையாளர் இருவருக்கும் இடையில் கடந்த மாதம் 28 ஆம் திகதி தொழில் ரீதியாக வாக்குவாதம் ஏற்பட்டு பின் கைகலப்பில் முடிந்துள்ளது.
+
+இந்த சம்பவத்தில் தோட்ட தேயிலை காணிகளுக்கு விசிற வழங்கப்பட்ட மருந்தை மீதம் வைத்தமையால் கள உத்தியோகஸ்தரை தோட்ட முகாமையாளர் தகாத வார்த்தையால் பேசியுள்ளார்.
+
+இதை கேள்வியுற்ற கள உத்தியோகஸ்தரின் மகன் சம்பவ இடத்திற்கு வருகை தந்து தனது தந்தையை தகாத வார்த்தையால் பேச வேண்டாம் என தோட்ட முகாமையாளரை பேசியும் உள்ளார்.
+
+இந்த சந்தர்ப்பத்தில் தோட்ட முகாமையாளர் இருவர் "உம்பகவுதடா" என வார்த்தை பிரயோகம் செய்து தாக்குதலில் ஈடுப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/8dd5c7e5.json)
 
 ---
 
@@ -165,6 +263,22 @@ In December last year, Sri Lanka was promoted to 'oppressed' in our organization
 [Data](articles/5a80b30d.json)
 
 [Extended Data](ext_articles/5a80b30d.ext.json)
+
+---
+
+### University non-academic staff members’ strike continues
+
+*2024-03-13 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97911/university-non-academic-staff-members-strike-continues) · `en`
+
+The trade union action launched by the non-academic staff members of state universities has entered the second consecutive day. Accordingly, the strike will be continued until 4.30 p.m. today.
+
+Non-academic staffers of all 17 state universities launched the token strike at noon yesterday (March 12) in protest of the authorities’ failure to rectify their salary increments as promised at the January 22 meeting.
+
+“If the authorities do not provide us with a solution, we will resort to an indefinite strike starting next week,” the co-secretary of the Inter University Trade Union Federation, K. L. D. G. Richmond said commenting on the matter.
+
+◼️
+
+[Data](articles/7f0bd9c3.json)
 
 ---
 
@@ -2045,167 +2159,5 @@ The President's Secretary Saman Ekanayake handed over their appointment letters 
 [Data](articles/624f6275.json)
 
 [Extended Data](ext_articles/624f6275.ext.json)
-
----
-
-### The shooter is everything for a moment before death
-
-*2024-03-12 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194433) · `si`
-
-The shooter, Kumara, arrested in Gampaha, confessed to murdering Kalhara Dilshan and killing Dilanhanga Ranga for a gem. The Peliyagoda Criminal Division's interrogation revealed the suspect was shot by police in a firearm incident.
-
-🟩
-
-The shooter was arrested by the shooter in the Malwathuhiripitiya area in Gampaha yesterday.
-
-Kumara was a murderer of Kalhara Dilshan, who served in the Kamando Force in 2017.
-
-He is associated with a number of crimes including killing Dilanhanga Ranga in Talangama Weliwita on July 20, 2023, on the 20th of 2023 at a cost of robbery.
-
-He has told the police that the monk has been assassinated with the objective of obtaining a gem of treasure.
-
-Director of the Peliyagoda Criminal Division, its OIC Chief Inspector PS. Pathirajuriya and Chief Inspector of Police SDK Jayasekera operate on instructions.
-
-In the interrogation of the suspect arrested by the Peliyagoda Criminal Division, he has said that the Attanagalla court was hearing firearms to the Ugbala area in the Attanagalla court.
-
-According to the police, the suspect was shot dead by the firearm and the police had shot towards the officials hidden when the suspect had gone to the area last night.
-
-◼️
-
-[Data](articles/fa80e195.json)
-
-[Extended Data](ext_articles/fa80e195.ext.json)
-
----
-
-### Ottawa police missed in Canada murder
-
-*2024-03-12 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194432) · `si`
-
-Ottawa Police made several communication errors in the case of the murder of 6 Sri Lankans, including incorrect reporting of the time of the emergency call and the suspect's name. The Canadian government's CBC reported these mistakes, highlighting the complexity of police investigations and communication issues.
-
-🟩
-
-The Ottawa Police have committed several communications in the case of killing 6 Sri Lankans in Ottawa.
-
-CBC or Canadian government radio and television presented a report today.
-
-The woman was killed in his home and the four children in their home, near the capital, Canada, near the capital of Ottawa capital.
-
-It is the worst mass of the most recent mass in recent history and in reporting this, the Ottawa Police have made several mistakes.
-
-The Canadian State Broadcasting and Television, reported the first mistake of Ottawa police is the first mistake of the Ottawa Police as a massive killing.
-
-The Ottawa police corrected the police that it was a heavy transfer.
-
-The police initially stated that the emergency sector was reported to 10.52 pm in Ottawa Time.
-
-The officials of the Attorney General's Department told the court that the suspect had been arrested as at 11 pm.
-
-...
-
-[Data](articles/7891965d.json)
-
-[Extended Data](ext_articles/7891965d.ext.json)
-
----
-
-### Edu. Ministry urges adherence to guidelines for safeguarding schoolchildren amidst soaring temperatures
-
-*2024-03-12 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97902/edu-ministry-urges-adherence-to-guidelines-for-safeguarding-schoolchildren-amidst-soaring-temperatures) · `en`
-
-The Ministry of Education has reiterated the set of guidelines issued earlier aiming to ensuring the protection of school children from potential adverse effects of the prevailing high atmospheric temperatures.
-
-Addressing all Provincial Education Directors in writing, the Ministry of Education said it has taken note of the reports that some schools were not complying with the set of guidelines issued for organizing outdoor activities at schools hot weather conditions.
-
-Accordingly, it has emphasized the responsibility of all principals of the schools island-wide, in order to ensure the protection of children, while highlighting the need to comply with the guidelines issued earlier.
-
-The communiqué comes a day after a 16-year-old schoolboy died in Ampara after  collapsing while participating in a marathon race held at the Thirukkovil Methodist Central College.
-
-The marathon, held as part of the inter-house sports meet, took place on Monday morning (11) at the school premises.
-
-...
-
-[Data](articles/b423100e.json)
-
-[Extended Data](ext_articles/b423100e.ext.json)
-
----
-
-### The goal of the underworld in the south
-
-*2024-03-12 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194431) · `si`
-
-In the south, two shooting incidents reported: 24 hours after a new face operation, 4 killed, 6 wounded; in Malwathathipitiya, a shooter killed by police; in Galle, a shooting at Galagoda, 2 unidentified shooters on a motorcycle, 2 killed, 3 injured; in Pitigala, another shooting, 2 killed, 2 women injured; suspects treated for shooting injuries.
-
-🟩
-
-Two cases of shooting and killing 24 hours after the operation operating in a new face was reported last night.
-
-Four persons were killed and 6 others were wounded by the shooting and 6 were injured and the police said that the victims were unassigned.
-
-Meanwhile, the shooter killed in a shooting with the police in the Malwathathhipitiya.
-
-A shooting had been shot at Galagoda, Welilowa shop at Galle.
-
-Two unidentified shooters from a motorcycle have fled the shooting from T 56 firearms.
-
-Two persons were killed and 3 others were injured and injured in the shooting and injuring another injuries.
-
-The deceased has been killed in the shooting, a Lady Mandis, a small mandi, and Dadallama, and Dadallama.
-
-Police said that Bough Madhuranga alias "Smarter is later used by drug trafficker after the stopping it is a" Saman boy ", police said.
-
-Police say that the owners of the place was a peaceful life at the time of his shooting.
-
-...
-
-[Data](articles/5e53b493.json)
-
-[Extended Data](ext_articles/5e53b493.ext.json)
-
----
-
-### Dates announced for Grama Niladhari interviews; special notice for candidates
-
-*2024-03-12 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97901/dates-announced-for-grama-niladhari-interviews-special-notice-for-candidates) · `en`
-
-The interviews for the recruitment of candidates to the vacant Grama Niladhari officer positions will be held on the 13th, 14th and 15th of March 2024, the Ministry of Home Affairs announced.
-
-Issuing a statement, the ministry mentioned that the interviews will be carried out at the Home Affairs section of the ‘Nila Medura’ premises in Narahenpita.
-
-Furthermore, the candidates who qualified for the interviews, but have not received the letters for the interviews so far, can access the relevant information by referring to the list of names published under the special notices on the ministry’s official website - www.moha.gov.lk
-
-In addition, the ministry mentioned that the candidates can also obtain further details regarding the required documents through the same website.
-
-◼️
-
-[Data](articles/bfe5cfcf.json)
-
-[Extended Data](ext_articles/bfe5cfcf.ext.json)
-
----
-
-### The pink onions import
-
-*2024-03-12 18:42:35* · [`adalk`](https://www.ada.lk/breaking_news/රෝස-ළූණු-ආනයනය-කරයි/11-408574) · `si`
-
-Minister Nalin Fernando decides to import medium-sized pink onions to control sea onion prices, aiming to sell them at Rs 375-400. This move is due to reduced supply from India and Pakistan.
-
-🟩
-
-Minister of Trade Minister Nalin Fernando has decided to import the centralized onion varieties of the middle size onion.
-
-He has taken this decision as a quick solution to the pricing price control of the prices of the sea at his ministry yesterday (12th).
-
-Accordingly, the new onion will be able to get the customer at a price of Rs 375 and 400 rupees.
-
-He further stated that India and Pakistan have reduced the supply of big onion supply in the country.
-
-◼️
-
-[Data](articles/7f5cfe11.json)
-
-[Extended Data](ext_articles/7f5cfe11.ext.json)
 
 ---

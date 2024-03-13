@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 00:33:33**
+As of **2024-03-14 00:48:40**
 
 ## Newspaper Stats
 
-*Scraped **12,722** Articles*
+*Scraped **12,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 122
 bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 650
+dailyftlk | 651
 economynextcom | 680
 islandlk | 686
 adalk | 1,089
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,721 (100.0%) of 12,722 articles have been extended.
+12,722 (100.0%) of 12,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,23 +104,29 @@ The status of 36% of the commitments are classified as ‘unknown’, which mean
 
 ### 2024-03-13 (Wednesday)
 
-### அவுஸ்திரேலியாவில் இலங்கை தம்பதியினர் சடலங்கள் மீட்பு
+### Sri Lankan couple's bodies recovery in Australia
 
 *2024-03-13 23:56:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியாவில்-இலங்கை-தம்பதியினர்-சடலங்கள்-மீட்பு/175-334635) · `ta`
 
-அவுஸ்திரேலியாவின் மெல்பேர்ன் வீதியில் உள்ள வீடு ஒன்றிற்கு முன்னால் இலங்கை வம்சாவளியைச் சேர்ந்த வயோதிப தம்பதியினரின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+Elderly Sri Lankan couple found dead in Melbourne, Australia. Their deaths, aged 70-80, are under investigation. They had lived in the area for 25 years. Doyne Caspersz was a community leader.
 
-Doyne Caspersz  மற்றும் அவரது மனைவி Marlene Caspersz ஆகியோரே இறந்ததாக அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
 
-70 மற்றும் 80 வயதுக்குட்பட்ட இவர்களது மரணத்திற்கான காரணம் இதுவரை வெளிவராத போதிலும், இந்த மரணத்தில் சந்தேகம் இல்லை என பொலிஸார் கூறியதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+The bodies of an elderly couple from a Sri Lankan -origin couple have been found in front of a house on Melbourne Road, Australia.
 
-மேலும், இவர்களது மரணத்திற்கு அவுஸ்திரேலியாவில் தற்போது நிலவும் அதிக வெப்ப அலை காரணம் என்றும் கூறப்படுகின்றது.
+Doyne Caspersz and his wife Marlene Caspersz have been identified as the dead.
 
-உயிரிழந்த தம்பதியினர் சுமார் இருபத்தைந்து வருடங்களாக அப்பகுதியில் வசித்து வருகின்றனர், அவுஸ்திரேலியாவில் உள்ள இலங்கை இன சமூகத்தை பிரதிநிதித்துவப்படுத்தும் அமைப்பின் உப தலைவராகவும் Doyne Caspersz கடமையாற்றியுள்ளார்.  R
+Foreign media reports that the death of their deaths between the ages of 70 and 80 has not yet been revealed, but police said there was no doubt in the death.
+
+It is also said that their death is the cause of the high heat wave in Australia.
+
+The deceased couple has been living in the region for about twenty -five years, and Doyne Caspersz has also served as the Deputy Chairman of the Sri Lankan ethnic community in Australia.R
 
 ◼️
 
 [Data](articles/8b2f74da.json)
+
+[Extended Data](ext_articles/8b2f74da.ext.json)
 
 ---
 
@@ -139,6 +145,20 @@ Also he said Sri Lanka should be a stakeholder of fast developing Indian states 
 [Data](articles/0977544f.json)
 
 [Extended Data](ext_articles/0977544f.ext.json)
+
+---
+
+### The Conspiracy: Gotabaya’s Mein Kampf could incite ethnic, religious conflict
+
+*2024-03-13 23:35:14* · [`dailyftlk`](https://www.ft.lk/columns/The-Conspiracy-Gotabaya-s-Mein-Kampf-could-incite-ethnic-religious-conflict/4-759442) · `en`
+
+“…The point I made about the Aragalaya being fundamentally, an anti-Sinhalese and anti-Buddhist enterprise from the beginning to the end”
+
+Dr. Colvin R. de Silva’s position on the executive presidency was slightly more nuanced than the flat denunciation by Dr. N.M. Perera. While criticising the 1978 Constitution, he took pains in a contribution to the Lanka Guardian magazine to emphasise that the Jayewardene presidential system, though deriving from the Gaullist model of France, has significant accretions and distortions which brought it more into line with those of Francophone Africa. Colvin pointed explicitly to the tyrant Jean-Bedel Bokassa of the Central African Republic. He quipped that the main danger of the over-concentration of power in the 1978 Jayewardene Constitution is that “someday we may not only have to suffer a bad president but also a mad president”.
+
+...
+
+[Data](articles/462d216d.json)
 
 ---
 
@@ -2401,35 +2421,5 @@ The body of the deceased has been placed at the Kilinochchi Hospital and will be
 [Data](articles/f878449b.json)
 
 [Extended Data](ext_articles/f878449b.ext.json)
-
----
-
-### The total price of today's vegetables of the Nuwara Eliya Open Economic Center
-
-*2024-03-13 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178609) · `ta`
-
-Nuwara Eliya Open Economic Center's vegetable prices on Wednesday: Goa 425, Nuwara Eliya Karad 395, total 210, Rabu 80, beetroot leaf 220, leaf cut beetroot 270, white potato 355, red potato 375, bartender 170. High-quality Nuwara Eliya vegetables have seen a significant price drop. Green tomatoes 800, curry 555, Wilpana 2100, Nuwara Eliya Cauliflower 650, Prakoli 550.
-
-🟩
-
-The total price list of vegetables sold on Wednesday (13) at Nuwara Eliya Open Economic Center has been released.
-
-Accordingly, the sales price of Goa has been announced at 425 rupees, while the sales price of Nuwara Eliya Karad kg has been announced at 395 rupees.
-
-Similarly, the total price has been announced at 210 rupees, Rabu 80 rupees, beetroot (leaf) 220 rupees and a leaf cut beetroot 270 rupees.
-
-At the same time, the potato (white) has been announced at 355 rupees, the potato (red) 375 rupees and the bartender is 170 rupees.
-
-Moreover, the prices of high -quality vegetables produced in Nuwara Eliya, which have been high priced in the past, have declined significantly.
-
-The tomatoes (green) is sold at 800 rupees and curry at 555 rupees.
-
-In addition, the Price of Wilpana has been announced at 2100 rupees, Cauliflower (Nuwara Eliya) at 650 rupees and Prakoli 550 rupees.
-
-◼️
-
-[Data](articles/52844fb7.json)
-
-[Extended Data](ext_articles/52844fb7.ext.json)
 
 ---

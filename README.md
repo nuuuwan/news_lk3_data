@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 03:17:58**
+As of **2024-03-14 03:33:33**
 
 ## Newspaper Stats
 
-*Scraped **12,725** Articles*
+*Scraped **12,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 680
 islandlk | 686
 adalk | 1,089
 adaderanalk | 1,534
-tamilmirrorlk | 1,551
+tamilmirrorlk | 1,552
 virakesarilk | 1,765
 dailymirrorlk | 1,943
 adaderanasinhalalk | 2,010
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,725 (100.0%) of 12,725 articles have been extended.
+12,725 (100.0%) of 12,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### கண்டியில் கோர விபத்து: பெண் பலி
+
+*2024-03-14 03:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-கோர-விபத்து-பெண்-பலி/175-334636) · `ta`
+
+மோட்டார் சைக்கிளும் ஓட்டோவும் நேருக்கு நேர் மோதி இடம்பெற்ற விபத்தில் இளம் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+இந்த விபத்து கண்டி, மினிப்பே பிரதேசத்தில் நேற்று மாலை 6 மணியளவில் இடம்பெற்றுள்ளது.
+
+தனியார் நிறுவனம் ஒன்றில் பணியாற்றும் மேற்படி பெண்  வேலை முடிந்து மோட்டார் சைக்கிளில் வீடு திரும்பிக் கொண்டிருந்தபோது வீதியில் எதிரே வந்த ஓட்டோ மோதியுள்ளது.
+
+இந்தக் கோர விபத்தில் குறித்த பெண் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார். மோட்டார் சைக்கிளும் பலத்த சேதமடைந்துள்ளது.
+
+ஓட்டோ சாரதியும், அதில் பயணித்த இரண்டு பெண்களும் காயமடைந்த நிலையில் வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/df5abad8.json)
+
+---
 
 ### New IPS publication explores trade wars in EV supply chains and Sri Lanka’s graphite industry
 
@@ -2373,39 +2393,5 @@ Acting Secretary General of Parliament Hansitha Abeyratne has said that this bil
 [Data](articles/d404ecca.json)
 
 [Extended Data](ext_articles/d404ecca.ext.json)
-
----
-
-### Sri Lankan origin of Sri Lankan origin in Australia uncovers
-
-*2024-03-13 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194455) · `si`
-
-In Warrandite, Australia, the bodies of a Sri Lankan-origin elderly couple were found near their home. The couple, identified as Caspers, aged 70-80, were found near their car. Police await post-mortem results but deem the deaths non-suspicious. The couple had lived in the area for 25 years.
-
-🟩
-
-The bodies of an older couple of an elderly couple near a house in Warrandite area of Australia have been found near a house in Warraver.
-
-The bodies of the couple were found near the house in the northeastern Warrandite area in Australia, Australia yesterday.
-
-The car and the other body was found near the car that is said to belong to one body.
-
-It has been revealed that the deceased has been identified as an older couple with Sri Lankan origin.
-
-They point out doin casphers and marlein Caspers, between 70-80 years old.
-
-Police have said that the post mortal test results should be waiting for the cause of their death.
-
-However, police say that this is not a suspicious death.
-
-The deceased couple lived in the area for about 25 years.
-
-The Vice President of the Burger Organization of the Burger Organization, which represents the ethnic Sri Lankan community in Australia.
-
-◼️
-
-[Data](articles/be6d7bdd.json)
-
-[Extended Data](ext_articles/be6d7bdd.ext.json)
 
 ---

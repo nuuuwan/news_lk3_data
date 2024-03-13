@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 03:33:33**
+As of **2024-03-14 03:51:07**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,725 (100.0%) of 12,726 articles have been extended.
+12,726 (100.0%) of 12,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### கண்டியில் கோர விபத்து: பெண் பலி
+### Accident in Kandy: Woman killed
 
 *2024-03-14 03:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-கோர-விபத்து-பெண்-பலி/175-334636) · `ta`
 
-மோட்டார் சைக்கிளும் ஓட்டோவும் நேருக்கு நேர் மோதி இடம்பெற்ற விபத்தில் இளம் பெண் ஒருவர் உயிரிழந்துள்ளார்.
+A young woman died in a Kandy accident involving a motorcycle and Otto. The collision occurred at 6 pm in Minippe, Kandy, as she returned home. The motorcycle was severely damaged, and the Otto driver and two passengers were injured.
 
-இந்த விபத்து கண்டி, மினிப்பே பிரதேசத்தில் நேற்று மாலை 6 மணியளவில் இடம்பெற்றுள்ளது.
+🟩
 
-தனியார் நிறுவனம் ஒன்றில் பணியாற்றும் மேற்படி பெண்  வேலை முடிந்து மோட்டார் சைக்கிளில் வீடு திரும்பிக் கொண்டிருந்தபோது வீதியில் எதிரே வந்த ஓட்டோ மோதியுள்ளது.
+A young woman has died in a collision with motorcycle and Otto.
 
-இந்தக் கோர விபத்தில் குறித்த பெண் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார். மோட்டார் சைக்கிளும் பலத்த சேதமடைந்துள்ளது.
+The accident took place at 6 pm yesterday in Minippe area, Kandy.
 
-ஓட்டோ சாரதியும், அதில் பயணித்த இரண்டு பெண்களும் காயமடைந்த நிலையில் வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர். (a)
+The woman who was working in a private company was returning home on a motorbike and collided with Otto.
+
+The woman died on the spot. The motorcycle has also been severely damaged.
+
+Otto driver and two women who were traveling in it were admitted to the hospital with injuries. (A)
 
 ◼️
 
 [Data](articles/df5abad8.json)
+
+[Extended Data](ext_articles/df5abad8.ext.json)
 
 ---
 

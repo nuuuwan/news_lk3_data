@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 11:02:53**
+As of **2024-03-13 11:17:48**
 
 ## Newspaper Stats
 
-*Scraped **12,583** Articles*
+*Scraped **12,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 666
 islandlk | 685
 adalk | 1,074
 adaderanalk | 1,518
-tamilmirrorlk | 1,526
+tamilmirrorlk | 1,533
 virakesarilk | 1,751
 dailymirrorlk | 1,917
 adaderanasinhalalk | 1,983
@@ -26,33 +26,61 @@ adaderanasinhalalk | 1,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,575 (99.9%) of 12,583 articles have been extended.
+12,583 (99.9%) of 12,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### ජපානයේ සේවකයින්ට ලොකු වැටුප් වර්ධකයක්
+### “எனது கணவரின் சாவிற்கு கடற்படையும்  காரணம்”
+
+*2024-03-13 11:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எனது-கணவரின்-சாவிற்கு-கடற்படையும்-காரணம்/71-334598) · `ta`
+
+எனது கணவரின் சாவிற்கு காரைநகர் கடற்படையும் ஒரு காரணம் என உயிரிழந்த இளைஞனின் மனைவி குற்றம் சாட்டியுள்ளார்.
+
+காரைநகர் பகுதிக்கு கணவன் மனைவி சென்று விட்டு திரும்பும் வழியில் , கணவன் மனைவியை கடத்தி சென்ற வன்முறை கும்பல் கணவனை படுகொலை செய்துள்ளது.
+
+காரைநகருக்கு சென்று விட்டு , மோட்டார் சைக்கிளில் நானும் எனது கணவரும் வீடு திரும்பும் வேளையில் , பொன்னாலை பாலத்திற்கு அருகில் எம்மை வழிமறித்த கும்பல் வாகனத்தில் எம்மை கடத்த முயற்சித்தனர்.
+
+அவ்வேளை , நானும் கணவரும் அவர்களிடம் தப்பித்து அருகில் இருந்த கடற்படை முகாமிற்குள் தஞ்சம் புகுந்தோம். கடற்படையினர் எம்மை அங்கிருந்து விரட்டினார்கள்.
+
+" எங்களை கடத்த போறாங்க , எங்களை காப்பாற்றுங்க " என கடற்படையிடம் மன்றாடினோம். ஆனால், அவர்கள் எங்களை முகாமில் இருந்து துரத்தினார்கள்
+
+கடற்படையினர் மனிதாபிமானத்துடன் நடந்து கொண்டு , எமக்கு அடைக்கலம் கொடுத்து இருந்தால் , எனது கணவரின் உயிர் பிரிந்திருக்கது. எனது கணவரின் சாவுக்கு கடற்படையும் ஒரு விதத்தில் காரணம் என தெரிவித்தார்.
+
+...
+
+[Data](articles/b4817335.json)
+
+---
+
+### Japan's employees a big increment
 
 *2024-03-13 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194450) · `si`
 
-වසර විසි පහකට පසුව සිය සේවකයින්ට දැනෙන වැටුප් වැඩිවීමක් ලබාදීමට ටොයෝටා මෝටර් සමාගම එකඟ වූ බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
+Toyota, Panata, Nissan, and Nippon Steel in Japan have agreed to salary increases, marking a significant increment in employee wages. Annual negotiations ended successfully, reflecting good understanding between trade unions and management. Toyota, the world's leading car producer, has increased monthly salaries by 28,440.
 
-ජපානයේ ප්‍රමුඛ සමාගම් වන ටොයෝටා, පැනසොනික් සහ නිසාන් සමාගම් ද වැටුප් වැඩිකරන ලෙස සිය සේවක වෘත්තීය සමිති කළ ඉල්ලීම් සඳහා සම්පූර්ණ එකඟත්වය ලබාදී තිබේ.
+🟩
 
-එසේම නිපොන් ස්ටීල් සමාගම ද සිය සේවක වැටුප සැලකිය යුතු ලෙස වැඩිකර තිබුණි.
+The Toyota Motor Company has agreed to give a salary increase of the salary increases after twenty five years later.
 
-අදාළ පාර්ශ්වයන් අතර වැටුප් සම්බන්ධයෙන් පැවැත්වෙන වාර්ෂික සාකච්ඡා සාර්ථකව නිමවූ බව සඳහන් ය.
+Japan's leading companies, Toyota, Panata, and Nissan companies have been able to increase the salaries to increase the salaries.
 
-සාමාන්‍යයෙන් ජපානයේ වෘත්තීය සමිති සහ කළමනාකරණය අතර හොඳ වැටහීමක් ඇති බැවින් එම සාකච්ඡා සැමවිට අර්බුදයකින් තොරව නිමවෙයි.
+Nippon Steal also had significantly increased his employees.
 
-මෝටර් රථ නිෂ්පාදනයේ ලොව ප්‍රමුඛයා වන ටොයෝටා සමාගම සේවක මාසික වැටුප යෙන් 28,440කින් වැඩිකිරීමට එකඟ වී තිබේ.
+Annual negotiations between the parties have been completed successfully.
 
-ජපානයේ බොහෝ ක්ෂේත්‍රවල සේවකයින්ට මෙවර ඉහළ වැටුප් වර්ධකයක් ලබාදී ඇති බව වාර්තා විය.
+The discussions are always ended without a crisis as there is a good understanding between trade unions and management in Japan.
+
+The world's leader in car production, Toyota has agreed to increase the monthly salary of the employee by 28,440.
+
+Employees in many areas in Japan have reported that the higher wage increment has increased this year.
 
 ◼️
 
 [Data](articles/3d1d66c8.json)
+
+[Extended Data](ext_articles/3d1d66c8.ext.json)
 
 ---
 
@@ -72,31 +100,75 @@ As such, Dr. Wijesinghe stressed that health authorities must ensure that standa
 
 [Data](articles/e9562dd5.json)
 
+[Extended Data](ext_articles/e9562dd5.ext.json)
+
 ---
 
-### ඇල්පිටියේ තරුණියගේ ඝාතකයා පොලීසියට කොටු
+### கல்வியமைச்சிலிருந்து அடுத்தடுத்த நினைவூட்டல்கள்
+
+*2024-03-13 10:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியமைச்சிலிருந்து-அடுத்தடுத்த-நினைவூட்டல்கள்/175-334597) · `ta`
+
+தற்போதைய உயர் வெப்பநிலையின் பொருட்டு பாடசாலைகள் எவ்வாறு செயற்பட வேண்டும் என்பது தொடர்பான பரிந்துரைகளை நினைவுகூர்ந்து அனைத்து மாகாண கல்விப் பணிப்பாளர்களுக்கும் கடிதங்கள் அனுப்பப்பட்டுள்ளன.
+
+அம்பாறையில் 16 வயதுடைய பாடசாலை மாணவன் மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய போது திடீரென உயிரிழந்தமை தொடர்பில் கல்வி அமைச்சின் செயலாளர் வாசன பெரேராவினால் இந்த கடிதங்கள் அனுப்பப்பட்டுள்ளன.
+
+அமைச்சினால் வழங்கப்பட்ட பரிந்துரைகளை சில பாடசாலைகள் புறக்கணித்துள்ளதாக செயலாளர் தனது கடிதங்களில் குறிப்பிட்டுள்ளார்.
+
+இந்த நாட்களில் நிலவும் அதிக வெப்பநிலையின் அடிப்படையில் அனைத்து பாடசாலைகள் மற்றும் பிரிவேனாக்களின் அன்றாட நடவடிக்கைகள் மற்றும் வெளிப்புற நடவடிக்கைகளை எவ்வாறு திட்டமிடுவது என்பது குறித்த அறிவுறுத்தல்கள் கடிதத்தில் வழங்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/e07f0610.json)
+
+---
+
+### அரசாங்கத்தின் கீழ்  மாகாண  பாடசாலைகள்?
+
+*2024-03-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-கீழ்-மாகாண-பாடசாலைகள்/175-334596) · `ta`
+
+தேசிய பாடசாலைகள் மத்திய அரசாங்கத்தின் கீழும், மாகாணப் பாடசாலைகள் மாகாண சபையின் கீழும் நிர்வகிக்கப்படுகின்றன.
+
+இந்த நிலையில் மாகாண சபை பாடசாலைகள் அரசாங்கத்தின் கீழ் கொண்டு வரப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த அறிவித்துள்ளார்.
+
+கொழும்பில் நேற்று இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார். R
+
+◼️
+
+[Data](articles/1802afcb.json)
+
+---
+
+### The kilpect of the young man of Alpiti
 
 *2024-03-13 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194449) · `si`
 
-ඇල්පිටිය ප්‍රදේශයේදී 17 තරුණියක් ඝාතනය කිරීමේ සිදුවීමට සම්බන්ධ ප්‍රධාන සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+Sudesh Priyankara, arrested for the murder of a 17-year-old girl in Elpitiya, claims the victim was in a relationship with another man. The suspect, remanded until the 21st, was produced in court. Meanwhile, a brother-in-law was abducted and killed by Hansika Nadeeshani, who had a relationship with the sister.
 
-ඊයේ (12) එම සැකකරුව අත්අඩංගුවට ගෙන ඇති අතර, එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මරණකාරියගේ මස්සිනා වන සුදේශ් ප්‍රියංකර නැමැති පුද්ගලයෙකි.
+🟩
 
-පොලීසිය විසින් සැකකරුගෙන් සිදුකළ ප්‍රශ්නකිරීමේදී ඔහු පවසා ඇත්තේ, ඝාතනය වූ තරුණිය වෙනත් පුද්ගලයෙකු සමග සම්බන්ධකමක් පවත්වාගෙන ගොස් ඇති බැවින් ඝාතනය සිදුකළ බවය.
+The main suspect in connection with the assassination of a 17 girl in the Elpitiya area has been arrested.
 
-පසුව පොලීසිය විසින් සැකකරුව ඇල්පිටිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර ඇති අතර එහිදී වැඩබලන මහෙස්ත්‍රාත්වරයා විසින් සැකකරු එළැඹෙන 21 වන දා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+The suspect was arrested yesterday and was arrested, a man named Sudesh Priyankara, the deceased.
 
-ගෙල කපා ඝාතනය කළ 17 හැවිරිදි තරුණියකගේ සිරුරක් ඇල්පිටිය තලාව ප්‍රදේශයේ තේ වත්තක තිබී පසුගිය 09 වනදා සොයා ගැණුනි.
+When the police were interrogated by the police, he said that the murdered girl had been involved in a relationship with another person.
 
-මස්සිනා විසින් එසේ පැහැරගෙන ගොස් ඝාතනය කර තිබුණේ කරන්දෙණිය, තල්ගහවත්ත ප්‍රදේශයේ පදිංචි හංසිකා නදීෂානි නමැති තරුණියකි.
+The police had then produced the suspect to the Elpitiya Magistrate's Court and the Supreme Magistrate has been remanded until the 21st of the suspect.
 
-ඇගේ සහෝදරිය ඇල්පිටිය මන්නකන්ද ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ඇගේ දරු දෙදෙනා බලාගැනීම සඳහා මාස එකහමාරකට පෙර හංසිකා ඒ නිවස වෙත ගොස් තිබිණි.
+A 17-year-old girl was found in a tea estate in the Elpitiya Talawa.
 
-ඒ අතරතුර සහෝදරියගේ සැමියා සමග ඇය සමීප සබඳතාවක් පවත්වාගෙන ගොස් තිබිණි.
+The brother-in-law was abducted and killed by Hansika Nadeeshani, Karandeniya, Karandeniya.
+
+Her sister had resided in the Mannar area, Elpitiya and Hansika had gone to the house for a month and a half before her two children.
+
+In the meantime, she had a close relationship with the husband of the sister.
+
+Hanii's father says his son-in-law was forcibly taken to his house on February 23.
 
 ...
 
 [Data](articles/757550d0.json)
+
+[Extended Data](ext_articles/757550d0.ext.json)
 
 ---
 
@@ -113,6 +185,28 @@ He said the government has no mandate to sell state resources, state institution
 ...
 
 [Data](articles/2d6299e7.json)
+
+[Extended Data](ext_articles/2d6299e7.ext.json)
+
+---
+
+### வெளிநாடு சென்ற வைத்தியர்கள் நாடு திரும்புகின்றனர்
+
+*2024-03-13 10:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடு-சென்ற-வைத்தியர்கள்-நாடு-திரும்புகின்றனர்/175-334595) · `ta`
+
+நாட்டை விட்டு வெளியேறிய பல வைத்தியர்கள் தற்போது நாடு திரும்புவதால், இலங்கையின் சுகாதாரத் துறையில் உள்ள மருத்துவர்களின் பற்றாக்குறை எதிர்காலத்தில் தீர்க்கப்படும் என சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த பிரதி பணிப்பாளர் நாயகம் (மருத்துவ சேவைகள்) வைத்தியர் ஜி. விஜேசூரிய, விசேட வைத்தியர்கள் மற்றும் தாதிகள் உட்பட பல வைத்தியர்கள் நாட்டை விட்டு வெளியேறியதையடுத்து இலங்கையில் அண்மையில் வைத்தியர் பற்றாக்குறை ஏற்பட்டுள்ளதாக தெரிவித்தார்.
+
+கொரோனா வைரஸ் தொற்றுநோய் மற்றும் அதைத் தொடர்ந்து நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியின் விளைவாக எதிர்கொள்ளும் சிரமங்கள் காரணமாக சுகாதாரப் பணியாளர்கள் நாட்டை விட்டு வெளியேறினர்.
+
+எவ்வாறாயினும், விசேட வைத்தியர்கள் உட்பட பல வைத்தியர்கள் தற்போது இலங்கைக்கு திரும்பி வருவதாக அவதானிக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+நாட்டை விட்டு வெளியேறும் சுகாதாரப் பணியாளர்களின் எண்ணிக்கை வீழ்ச்சியடைந்துள்ளதாகத் தெரிவித்த வைத்தியர் விஜேசூரிய, அதற்குப் பதிலாக பல வைத்தியர்கள் தமது விடுமுறைகளை இரத்து செய்துவிட்டு இலங்கைக்குத் திரும்பி வருவதாகத் தெரிவித்தார்.
+
+...
+
+[Data](articles/0e351ca9.json)
 
 ---
 
@@ -134,6 +228,24 @@ Zardari, co-chairman of the PPP, took oath as President of Pakistan for a second
 
 [Data](articles/deb79bb4.json)
 
+[Extended Data](ext_articles/deb79bb4.ext.json)
+
+---
+
+### வீடொன்றின் மேல் விழுந்த பாரிய பனிக்கட்டி
+
+*2024-03-13 10:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீடொன்றின்-மேல்-விழுந்த-பாரிய-பனிக்கட்டி/76-334594) · `ta`
+
+பதுளை - ஹாலி-எல பொலிஸ் பிரிவுக்குட்பட்ட ரெல்போல - மொரகல பகுதியில் வீடொன்றின் மீது பாரிய பனிக்கட்டி ஒன்று வீழ்ந்த சம்பவம் பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+சுமார் 5 கிலோகிராமுக்கும் அதிக நிறையுடைய பனிக் கட்டி ஒன்றே இவ்வாறு வீட்டின் மீது வீழ்ந்ததாக தெரிவிக்கப்படுகிறது.
+
+நேற்றைய தினம் குறித்த பகுதியில் மழையுடனான வானிலை எதுவும் நிலவவில்லை என அந்த பகுதி மக்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/e2ed6194.json)
+
 ---
 
 ### Diana Gamage’s petition challenging expulsion from SJB reheard
@@ -151,6 +263,28 @@ He also mentioned that the petition could not be maintained further on the groun
 ...
 
 [Data](articles/766331d8.json)
+
+[Extended Data](ext_articles/766331d8.ext.json)
+
+---
+
+### இலங்கை - பங்களாதேஷ் முதல் ஒருநாள் போட்டி இன்று
+
+*2024-03-13 10:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-பங்களாதேஷ்-முதல்-ஒருநாள்-போட்டி-இன்று/44-334593) · `ta`
+
+இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கு இடையிலான 3 போட்டிகள் கொண்ட ஒருநாள் கிரிக்கெட் தொடரின் முதலாவது போட்டி இன்று (13) சிட்டகொங்கில் நடைபெறவுள்ளது.
+
+இந்த போட்டி உள்ளூர் நேரப்படி இன்று பிற்பகல் 2 மணிக்கு தொடங்க உள்ளது.
+
+பங்களாதேஷ் அணிக்கு எதிரான டி20 தொடரை 2-1 என கைப்பற்றிய இலங்கை அணி வெற்றி மனநிலையுடன் இன்றைய போட்டியில் களமிறங்குகிறது.
+
+ஒரு நாள் போட்டியின் சம்பியன்களுக்கு வழங்கப்படும் வெற்றிக்கிண்ணம் இரு அணிகளின் தலைவர்கள் தலைமையில் நேற்று (12) வெளியிடப்பட்டது.
+
+சிட்டகொங் மைதானத்தில் 18 வருடங்களின் பின்னர் இலங்கை அணி ஒரு நாள் போட்டியில் களமிறங்க உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/33d84e13.json)
 
 ---
 
@@ -177,6 +311,20 @@ The International Human Rights Watch said that public surveillance against good 
 [Data](articles/8719d319.json)
 
 [Extended Data](ext_articles/8719d319.ext.json)
+
+---
+
+### பெண்ணின் சடலம் மீட்பு - உதவியை நாடியுள்ள பொலிஸார்
+
+*2024-03-13 10:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-சடலம்-மீட்பு-உதவியை-நாடியுள்ள-பொலிஸார்/175-334591) · `ta`
+
+இவ்வாறு  மீட்கப்பட்ட பெண்ணின் சடலம் இதுவரை அடையாளம் காணப்படவில்லை என பொலிஸார் மேலும் தெரிவித்தனர்.
+
+உயிரிழந்தவர்  26 வயது மதிக்கத்தக்க பெண் என்பதுடன், இவருடைய சடலத்தை அடையாளம் காண பேருவளை பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர். R
+
+◼️
+
+[Data](articles/fe912d51.json)
 
 ---
 
@@ -243,6 +391,8 @@ The official however said that under the law those who visit Sri Lanka on touris
 ...
 
 [Data](articles/0cb416a1.json)
+
+[Extended Data](ext_articles/0cb416a1.ext.json)
 
 ---
 
@@ -927,6 +1077,8 @@ From running cafes, restaurants, bars to exchanging money and running undial ser
 ...
 
 [Data](articles/3b745d6a.json)
+
+[Extended Data](ext_articles/3b745d6a.ext.json)
 
 ---
 
@@ -2051,137 +2203,5 @@ Urgent streamlining of pandemic response policies for the sector is crucial to p
 [Data](articles/450b561b.json)
 
 [Extended Data](ext_articles/450b561b.ext.json)
-
----
-
-### New Chief Secretaries appointed to Northern, North Western provinces
-
-*2024-03-12 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97905/new-chief-secretaries-appointed-to-northern-north-western-provinces) · `en`
-
-President Ranil Wickremesinghe on Tuesday (March 12) appointed new chief secretaries to the Northern and North Western provinces.
-
-Accordingly, L. Ilangovan, a distinguished officer of the Sri Lanka Administrative Service, was appointed as the new Chief Secretary of the Northern Province.
-
-He previously served in various ministries in the Northern Province and held the position of Northern Province Governor’s Secretary. Prior to his appointment as the Chief Secretary, Ilangovan was the President’s Additional Secretary for Northern Province Development at the Presidential Secretariat.
-
-Meanwhile, Deepika K. Gunaratne was appointed as the new Chief Secretary of the Wayamba Province. She previously served as the Secretary to the Governor of the Southern Province.
-
-Their letters of appointment were handed over by President’s Secretary Saman Ekanayake at the Presidential Secretariat today.
-
-◼️
-
-[Data](articles/9a68785b.json)
-
-[Extended Data](ext_articles/9a68785b.ext.json)
-
----
-
-### ‘A Warm Meal for a Child’ – an initiative by Insurance Association of Sri Lanka
-
-*2024-03-12 21:13:00* · [`islandlk`](http://island.lk/a-warm-meal-for-a-child-an-initiative-by-insurance-association-of-sri-lanka/) · `en`
-
-In a touching gesture of unity and generosity, the Insurance Association of Sri Lanka (IASL) fulfilled its mission to support the ‘Warm Meal for a Child’ initiative. Following a successful ‘Sing-Along’ fundraiser event, which was held in December 2023, the IASL team traveled to Matale to share a warm meal with 31 children aged 6-18 across two children’s homes. This heartening act not only brought joy to the recipients, but also showcased the power of corporate generosity and highlights the industry’s dedication to making a positive impact beyond insurance.
-
-Sri Lankan Airlines should show progress within six months – Minister Nimal Siripala de Silva
-
-ZORAL partners with Linearsix to expand business in mena and apac regions
-
-Insurance Industry in fast mode to create value to the emerging needs of the modern consumer
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/b0e8007b.json)
-
-[Extended Data](ext_articles/b0e8007b.ext.json)
-
----
-
-### ZORAL partners with Linearsix to expand business in mena and apac regions
-
-*2024-03-12 21:11:00* · [`islandlk`](http://island.lk/zoral-partners-with-linearsix-to-expand-business-in-mena-and-apac-regions/) · `en`
-
-Zoral, a global Artificial Intelligence (AI) software research and development company specialising in solutions for the banking and finance industry, announces its strategic partnership with LinearSix, a digital transformation force in the financial services industry born and developed in Sri Lanka.
-
-This collaboration targets an aggressive entry into the Asia-Pacific (APAC) and the Middle East and North Africa (MENA) regions, offering AI-driven automation platforms for various financial institutions and telcos including SME, consumer and corporate finance, mortgage, insurance tech and more.
-
-...
-
-[Data](articles/b69affd1.json)
-
-[Extended Data](ext_articles/b69affd1.ext.json)
-
----
-
-### Dialog partners SLIM to launch ‘SLIM Dialog Brand Week 2024’ for second consecutive year
-
-*2024-03-12 21:10:00* · [`islandlk`](http://island.lk/dialog-partners-slim-to-launch-slim-dialog-brand-week-2024-for-second-consecutive-year/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s premier connectivity provider, and the Sri Lanka Institute of Marketing (SLIM), the apex body for Sri Lankan Marketers, have announced the launch of SLIM Dialog Brand Week 2024, a three-day symposium focused on the theme ‘What is Yet to Come’ in the context of brands, commerce and emerging technologies in Sri Lanka and around the world.
-
-...
-
-[Data](articles/c3195254.json)
-
-[Extended Data](ext_articles/c3195254.ext.json)
-
----
-
-### Notable price appreciations of Palm oil-linked stocks
-
-*2024-03-12 21:09:00* · [`islandlk`](http://island.lk/notable-price-appreciations-of-palm-oil-linked-stocks/) · `en`
-
-In the course of CSE trading yesterday, palm oil- related stocks, especially those of Watawala Plantations and Agalawatta plantations, recorded notable price appreciations, market analysts said.
-
-Consequently, both indices moved upwards. The All- Share Price Index went up by 52.74 points while S and P SL20 rose by 11.69 points.
-
-Turnover stood at Rs 1.4 billion with four crossings. Those crossings were reported in Hela Apparel, which crossed 5 million shares to the tune of Rs 26.5 million; its shares traded at Rs 5.30, HNB 150,000 shares crossed for Rs 24 million and its shares traded at Rs 160, Hemas Holdings 280,000 shares crossed for Rs 21.7 million; its shares fetched Rs 77.50 and Dialog 2 million shares crossed to the tune of Rs 21.6 million and its shares sold at Rs 10.80.
-
-...
-
-[Data](articles/e08e3d60.json)
-
-[Extended Data](ext_articles/e08e3d60.ext.json)
-
----
-
-### China technology giant Xiaomi starts electric car sales
-
-*2024-03-12 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-technology-giant-Xiaomi-starts-electric-car-sales/108-278715) · `en`
-
-March 12, (BBC)-  Chinese technology giant Xiaomi says it will start deliveries of its first electric vehicle (EV) this month - its first ever foray into the competitive automotive industry.
-
-China's fifth-largest smartphone maker says it has 59 stores in 29 cities around the country to take orders.
-
-It comes as a price war intensifies between firms like BYD and Tesla in China, the world's biggest car market.
-
-At the unveiling of the Speed Ultra 7 (SU7) last year, Xiaomi's chief executive Lei Jun said the company aims to become one of the top five car makers in the world.
-
-The smartphone giant has said it will invest $10bn (£7.8bn) in its vehicles business over the next 10 years.
-
-Mr Lei said the SU7 was "super electric motor" technology which is capable of accelerating faster than some Tesla and Porsche EVs.
-
-Xiaomi is also hoping that the car's shared operating system with its phones and other devices will appeal to existing customers.
-
-...
-
-[Data](articles/b63668f7.json)
-
-[Extended Data](ext_articles/b63668f7.ext.json)
-
----
-
-### Business Center at Port City...
-
-*2024-03-12 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Business-Center-at-Port-City/110-278699) · `en`
-
-The Port City Colombo today marked a significant milestone with the ground-breaking ceremony for its premier business park, the Business Centre. CHEC Port City Colombo Ltd., said the event transcends a simple building construction – it signifies the dawn of a new era for Sri Lanka’s economic landscape. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/21d89cff.json)
-
-[Extended Data](ext_articles/21d89cff.ext.json)
 
 ---

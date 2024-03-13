@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 17:34:43**
+As of **2024-03-13 17:53:35**
 
 ## Newspaper Stats
 
-*Scraped **12,665** Articles*
+*Scraped **12,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,161 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,082
-adaderanalk | 1,527
+adaderanalk | 1,528
 tamilmirrorlk | 1,545
 virakesarilk | 1,764
-dailymirrorlk | 1,930
-adaderanasinhalalk | 1,998
+dailymirrorlk | 1,932
+adaderanasinhalalk | 2,000
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,662 (100.0%) of 12,665 articles have been extended.
+12,665 (100.0%) of 12,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### கொழும்பில் ஆயுர்வேத வைத்திய மாணவர்கள் ஆர்ப்பாட்டம்
+### ශ්‍රී ලංකා ඉනිම ලකුණු 255කට සීමා වෙයි
+
+*2024-03-13 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194469) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර තරග 3කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය මේ වනවිට පැවැත් වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ශ්‍රී ලංකා නායකයා තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමටය.
+
+ඒ අනුව පන්දුවාර 48යි පන්දු 4ක් අවසානයේ සියලුදෙනා දැවී ශ්‍රී ලංකා කණ්ඩායම ලබාගත්තේ ලකුණු 255ක් පමණි.
+
+◼️
+
+[Data](articles/290c0b6e.json)
+
+---
+
+### මේ කෙටි පණිවුඩය ආවොත් ප්‍රවේසම් වන්න
+
+*2024-03-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194468) · `si`
+
+තැපැල් දෙපාර්තමේන්තුවේ නම යොදා කෙටි පණිවුඩයක් යොමුකර සිදුකරන ජාවාරමක් පිළිබඳව තොරතුරු අනාවරණය වී ඇත.
+
+තැපැල් දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් ජනතාව වෙත දැනුම්දෙන්නේ එවැනි කෙටි පණිවුඩ වෙත සිය රහස්‍ය තොරතුරු සැපයීමෙන් වැළකී සිටින ලෙසටය.
+
+පාර්සලයක් සඳහා ගාස්තු ගෙවන ලෙස දන්වා ශ්‍රී ලංකා තැපෑලෙන් නිකුත් කළ කෙටි පණිවුඩයක් ලෙස ව්‍යාජ ලෙස සකස් කළ කෙටි පණිවුඩයක් මහජනතාව වෙත යවා ණය කාඩ්පත් දත්ත සොරකම් කිරීමේ ජාවාරමක් සිදුකරන බවට හෙළිවී තිබේ.
+
+ශ්‍රී ලංකා තැපෑල, ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුව, SL POST, Sri Lanka Post ආදී නම් යොදා ගනිමින් ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය ද උපක්‍රමිකව අවභාවිත කරමින් මෙම ජාවාරම ක්‍රියාත්මක කෙරේ.
+
+ඒ අනුව තැපැල් දෙපාර්තමේන්තුව පවසන්නේ සිය දෙපාර්තමේන්තුව විසින් කෙටි පණිවුඩ මගින් ණය කාඩ්පත් තොරතුරු විමසීමක් කිසිසේත් සිදු නොකරන අතර ණය කාඩ්පත් මගින් පාර්සල් සම්බන්ධ කිසිදු ගණුදෙනුවක් සිදු නොකෙරෙන බවය.
+
+...
+
+[Data](articles/2d6dde33.json)
+
+---
+
+### Kavan Ratnayake appointed as BOC Chairman
+
+*2024-03-13 17:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kavan-Ratnayake-appointed-as-BOC-Chairman/108-278786) · `en`
+
+Colombo, March 13 (Daily Mirror)- Top professional Kavan Ratnayaka has been appointed as the Chairman of the State-run Bank of Ceylon (BOC), the bank announced today.
+
+In a filing to the Colombo Stock Exchange (CSE), BoC said the new Chairman will take over his duties with effect from tomorrow (14). Ratnayaka takes over the position from Ronald C Perera, PC, who stepped down as Chairman yesterday.
+
+Ratnayake had earlier served as Chairman of the Sri Lanka Ports Authority, the Sri Lanka Tourism Development Authority, and the Associated Newspapers of Ceylon (Lake House). He has also served as the Country General Manager of IBM Sri Lanka, Chief Executive Officer of Dialog Broadband, and the Chief Corporate Officer of Dialog Axiata PLC.
+
+An old boy of Royal College, he holds a Bachelor of Science degree in Physics from the University of California.
+
+◼️
+
+[Data](articles/3fe6a713.json)
+
+---
+
+### Ex-LTTE member arrested with Kerala cannabis worth over Rs. 1 mn
+
+*2024-03-13 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97928/ex-ltte-member-arrested-with-kerala-cannabis-worth-over-rs-1-mn) · `en`
+
+A former member of the Liberation Tigers of Tamil Eelam (LTTE) has been arrested while transporting 3 kilograms of Kerala cannabis from Kilinochchi to Matara by bus.
+
+The arrest was made in a joint operation carried out by the Army Intelligence Unit and the Sri Lanka Police Special Branch in Matara.
+
+Preliminary investigations have revealed that the stock of Kerala cannabis with an estimated street value of over Rs. 01 million, has been transported from the Kilinochchi area to Matara by bus.
+
+Police said that the arrested suspect was identified as a former member of the LTTE, who was imprisoned for several years since 2005, and had later been released.
+
+Onward legal action regarding the arrested suspect and the seized stock of cannabis is conducted by the Police Special Branch in Matara, according to Sri Lanka Police.
+
+◼️
+
+[Data](articles/2c161d53.json)
+
+---
+
+### Elderly Sri Lankan couple found dead near Melbourne home
+
+*2024-03-13 17:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elderly-Sri-Lankan-couple-found-dead-near-Melbourne-home/108-278785) · `en`
+
+Melbourne, March 13 (Daily Mail)- An elderly Sri Lankan couple who died together outside their home may have been overcome by Melbourne’s blistering heatwave, Daily Mail Australia reported.
+
+The bodies of Doyne Caspersz and his wife Marlene were found outside their home on Antigoni Court, Warrandyte about 9.30am on Tuesday.
+
+Daily Mail Australia has been told CCTV captured their sad demise on Sunday, when temperatures soared in Warrandyte to 38C.
+
+It remains unknown why the beloved couple decided to leave their home, which is located in a wealthy Melbourne neighbourhood.
+
+Melbourne had been within the grips of a shocking heatwave, which saw temperatures climb to 36C on Monday as the couple remained undiscovered outside their property.
+
+A detective at the scene on Tuesday told Daily Mail Australia the couple’s death had been nothing more than a tragic accident.
+
+...
+
+[Data](articles/15423d9a.json)
+
+---
+
+### Ayurvedic medical students protest in Colombo
 
 *2024-03-13 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178661) · `ta`
 
-ஆயுர்வேத வைத்திய மாணவர்களால் இன்று புதன்கிழமை சுகாதார அமைச்சுக்கு முன்பாக  ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+Ayurvedic medical students in Colombo protested against the Ministry of Health, demanding limited medical exercises and concessions, halting reckless doctor registration.
 
-பொறுப்பற்ற வகையில் ஆயுர்வேத வைத்தியர்களுக்கான பதிவுகள் மேற்கொள்வதை உடனடியாக நிறுத்துவதுடன் சலுகைகளுடன் கூடிய வரையறுக்கப்பட்ட வைத்திய பயிற்சிகளை வழங்குமாறு கோரிக்கை விடுத்து ஆர்ப்பாட்டத்தில் ஈடுப்பட்டனர்.
+🟩
+
+A demonstration was held in front of the Ministry of Health on Wednesday by Ayurvedic medical students.
+
+The reckless registration for Ayurvedic doctors immediately stopped and demanded that they provide limited medical exercises with concessions.
 
 ◼️
 
 [Data](articles/faab233d.json)
 
+[Extended Data](ext_articles/faab233d.ext.json)
+
 ---
 
-### න්‍යෂ්ටික යුද්ධයට රුසියාව සූදානම් - පුටින් අනතුරු අඟවයි
+### Russia is ready for nuclear war - Putin warns
 
 *2024-03-13 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194467) · `si`
 
-රුසියාව තාක්ෂණික වශයෙන් න්‍යෂ්ටික යුද්ධයට සූදානම් බව රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් අනතුරු අඟවයි.
+Russian President Putin warns of readiness for nuclear war, stating that a US military presence in Ukraine could escalate tensions, but he vows not to initiate a nuclear conflict.
 
-අමෙරිකාව යුක්‍රේනයට හමුදාව එව්වොත් එමගින් යුද්ධය සැලකිය යුතු ලෙස වැඩිවිය හැකි බවද ඔහු පැවසීය.
+🟩
 
-න්‍යෂ්ටික යුද්ධයක් සඳහා වාතාවරණය ඇති කිරීමට ඔහු කඩිනම් නොවන බවත් යුක්‍රේනයේ පවතින ගැටුම් සඳහා න්‍යෂ්ටික අවි භාවිත කිරීමේ අවශ්‍යතාවයක් තමා නොදකින බව පුටින් පැවසීය.
+Russian President Vladimire Putin warns Russia that Russia is ready for nuclear war.
 
-ඔහු මේ බව පවසා ඇත්තේ රුසියානු මැතිවරණය මාර්තු 15-17 අතර කාලයේදී පැවැත්වීමට නියමිතව තිබියදීය.
+He said that if the US sent the army to Ukraine, he could increase the war significantly.
 
-අමෙරිකාව යුක්‍රේනයට හමුදාව එව්වොත් එය රුසියාවේ කටයුතු වලට අත පෙවීමක් ලෙස තමන් සලකන බවත් ඔහු පැවසීය.
+Putin said he would not expedite the atmosphere of a nuclear war and that he would not see a nuclear weapons for conflicts in Ukraine.
+
+He was speaking to the Russian election between March 15-17.
+
+He said that if the US sent the army to Ukraine, he believes as a handful of work in Russia.
 
 ◼️
 
 [Data](articles/64965c58.json)
+
+[Extended Data](ext_articles/64965c58.ext.json)
 
 ---
 
@@ -109,6 +217,8 @@ The status of 36% of the commitments are classified as ‘unknown’, which mean
 ...
 
 [Data](articles/585e1e6d.json)
+
+[Extended Data](ext_articles/585e1e6d.ext.json)
 
 ---
 
@@ -2261,107 +2371,5 @@ Additionally, accounting principles and standards adopted, Bulk Supply Transacti
 [Data](articles/1f66ce76.json)
 
 [Extended Data](ext_articles/1f66ce76.ext.json)
-
----
-
-### The target of Mattakkuliya Wedilla
-
-*2024-03-13 09:05:49* · [`adalk`](https://www.ada.lk/breaking_news/මට්ටක්කුලිය-වෙඩිල්ලේ-ඉලක්කය-වරදියි/11-408578) · `si`
-
-Mattakuliya Police report two motorcycle thugs targeting a person in Alikkuliya, firing six bullets. The intended victim survives, and the attackers, hiding in Dubai, are identified as Pradeep and Assistome, who are killed by police.
-
-🟩
-
-Mattakuliya Police say that two persons from a transcriptive motorcycle were targeting a person in the Alikkuliya area.
-
-Although six bullets have been launched to the person, but the target is the survivor of the target.
-
-Police say that the two of the two organized criminals hide in Dubai, Pradeep and Assistome have been shot dead, police said
-
-◼️
-
-[Data](articles/e9f051dc.json)
-
-[Extended Data](ext_articles/e9f051dc.ext.json)
-
----
-
-### We will continue to monitor the law that challenges the improvement in human rights and reconciliation - US Ambassador Julie Sung
-
-*2024-03-13 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178583) · `ta`
-
-US Ambassador Julie Sung monitors Sri Lanka's legal developments to challenge civil rights and reconciliation progress. The UNHRC's 55th session discussed Sri Lanka's human rights and accountability, with several countries expressing concern. The Sri Lankan government has been urged to involve affected communities in creating a truth, solidarity, and reconciliation commission. Sung emphasizes continued monitoring and warns against potential misuse of the 'Celebration Bill'.
-
-🟩
-
-US Ambassador to Sri Lanka Juli Sung said that he continues to monitor the legal formation of Sri Lanka in order to challenge the progress of civil gap and human rights and reconciliation.
-
-The 55th session of the United Nations Human Rights Council (UNHRC) in Geneva was examined last week on Sri Lanka's human rights and accountability situation. Following the verbal report of the UN Human Rights Council on Sri Lanka, the Sri Lankan state of Sri Lanka was read by the British, Canada, Vadmeceidonia, Malavi, Montenecro and the United States.
-
-The fact that the government of Sri Lanka urged the government to follow a procedure that should be constructed by the affected communities before the creation of a law on the truth, solidarity and reconciliation commission.
-
-...
-
-[Data](articles/39cb1d87.json)
-
-[Extended Data](ext_articles/39cb1d87.ext.json)
-
----
-
-### Sri Lanka's civil gap 'oppressed'
-
-*2024-03-13 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178582) · `ta`
-
-Sri Lanka marked as 'oppressed' by Civicus in December, citing demonstrator oppression, journalist repression, and lack of accountability. Human Rights Watch criticized the government for targeting human rights defenders. The UN expressed concern over drug abuse policies. President Ranil Wickremesinghe's government faces economic crisis and controversial IMF conditions.
-
-🟩
-
-According to the International Civil Society Organization, the International Civil Society of Civicus, in December last year, Sri Lanka has been promoted to 'oppressed' in our organization's 'civil gap'.
-
-In the report published in the report posted on Sri Lanka's Human Rights and Civil Social Activities by the Civigas, the global Sivigas, which is a gathering of civil society organizations, which are based on the strengthening of the activities of civil society organizations and civil society organizations, strengthening civil society gaps.
-
-In December last year, Sri Lanka was promoted to 'oppressed' in our organization's 'civil gap'. The oppression of demonstrators by authorities, repression of journalists, civil activists' target and lack of accountability have been the cause.
-
-...
-
-[Data](articles/5a80b30d.json)
-
-[Extended Data](ext_articles/5a80b30d.ext.json)
-
----
-
-### University non-academic staff members’ strike continues
-
-*2024-03-13 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97911/university-non-academic-staff-members-strike-continues) · `en`
-
-The trade union action launched by the non-academic staff members of state universities has entered the second consecutive day. Accordingly, the strike will be continued until 4.30 p.m. today.
-
-Non-academic staffers of all 17 state universities launched the token strike at noon yesterday (March 12) in protest of the authorities’ failure to rectify their salary increments as promised at the January 22 meeting.
-
-“If the authorities do not provide us with a solution, we will resort to an indefinite strike starting next week,” the co-secretary of the Inter University Trade Union Federation, K. L. D. G. Richmond said commenting on the matter.
-
-◼️
-
-[Data](articles/7f0bd9c3.json)
-
-[Extended Data](ext_articles/7f0bd9c3.ext.json)
-
----
-
-### Non-academic staff members’ strike continues
-
-*2024-03-13 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97911/non-academic-staff-members-strike-continues) · `en`
-
-The trade union action launched by the non-academic staff members of state universities has entered the second consecutive day. Accordingly, the strike will be continued until 4.30 p.m. today.
-
-Non-academic staffers of all 17 state universities launched the token strike at noon yesterday (March 12) in protest of the authorities’ failure to rectify their salary increments as promised at the January 22 meeting.
-
-“If the authorities do not provide us with a solution, we will resort to an indefinite strike starting next week,” the co-secretary of the Inter University Trade Union Federation, K. L. D. G. Richmond said commenting on the matter.
-
-◼️
-
-[Data](articles/a369c4a8.json)
-
-[Extended Data](ext_articles/a369c4a8.ext.json)
 
 ---

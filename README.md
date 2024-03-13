@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 09:02:47**
+As of **2024-03-13 09:17:52**
 
 ## Newspaper Stats
 
-*Scraped **12,557** Articles*
+*Scraped **12,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 685
 adalk | 1,072
 adaderanalk | 1,512
 tamilmirrorlk | 1,526
-virakesarilk | 1,743
+virakesarilk | 1,744
 dailymirrorlk | 1,912
 adaderanasinhalalk | 1,979
 
@@ -26,25 +26,45 @@ adaderanasinhalalk | 1,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,551 (100.0%) of 12,557 articles have been extended.
+12,557 (100.0%) of 12,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### இலங்கையின் சிவில் இடைவெளி 'ஒடுக்கப்பட்டுள்ளது' எனும் நிலைக்குத் தரமிறக்கம் - 'சிவிகஸ்' சர்வதேச சிவில் சமூக அமைப்பு தெரிவிப்பு
+### மனித உரிமைகள், நல்லிணக்கத்தில் அடையப்பட்ட முன்னேற்றத்தை சவாலுக்கு உட்படுத்தும் சட்ட உருவாக்கத்தை தொடர்ந்து கண்காணிப்போம் - அமெரிக்கத்தூதுவர் ஜுலி சங்
+
+*2024-03-13 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178583) · `ta`
+
+சிவில் இடைவெளியையும், மனித உரிமைகள் மற்றும் நல்லிணக்கம் ஆகியவற்றில் அடையப்பட்டுள்ள முன்னேற்றங்களையும் சவாலுக்கு உட்படுத்தக்கூடியவகையில் இலங்கையில் இடம்பெற்றுவரும் சட்டவியல் உருவாக்கங்களைத் தாம் தொடர்ந்து கண்காணிப்பதாக இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங் தெரிவித்துள்ளார்.
+
+ஜெனிவாவில் நடைபெற்றுவரும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 55 ஆவது கூட்டத்தொடரில் கடந்த வாரம் இலங்கையின் மனித உரிமைகள் மற்றும் பொறுப்புக்கூறல் நிலைவரம் குறித்து ஆராயப்பட்டது. இதன்போது இலங்கை பற்றிய ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகரின் வாய்மொழிமூல அறிக்கையைத் தொடர்ந்து பிரிட்டன், கனடா, வடமெசிடோனியா, மாலாவி, மொன்டெனேக்ரோ மற்றும் அமெரிக்கா ஆகிய இணையனுசரணை நாடுகளால் இலங்கை நிலைவரம் குறித்த அறிக்கை வாசிக்கப்பட்டது.
+
+...
+
+[Data](articles/39cb1d87.json)
+
+---
+
+### Sri Lanka's civil gap 'oppressed'
 
 *2024-03-13 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178582) · `ta`
 
-எமது அமைப்பின் 'சிவில் இடைவெளி' தொடர்பான தரப்படுத்தலில் கடந்த ஆண்டு டிசம்பர் மாதம் இலங்கையானது 'ஒடுக்கப்பட்டுள்ளது' எனும் நிலைக்குத் தரமிறக்கப்பட்டுள்ளது என சிவிகஸ் எனும் சர்வதேச சிவில் சமூக அமைப்பு தெரிவித்துள்ளது.
+Sri Lanka marked as 'oppressed' by Civicus in December, citing demonstrator oppression, journalist repression, and lack of accountability. Human Rights Watch criticized the government for targeting human rights defenders. The UN expressed concern over drug abuse policies. President Ranil Wickremesinghe's government faces economic crisis and controversial IMF conditions.
 
-உலகளாவிய ரீதியில் சிவில் சமூக அமைப்புக்களின் செயற்பாடுகள் மற்றும் சிவில் சமூக இடைவெளியை வலுப்படுத்துவதை முன்னிறுத்தி தென்னாபிரிக்காவைத் தளமாகக்கொண்டு இயங்கிவரும் சிவில் சமூக அமைப்புக்களின் கூட்டிணைவான சிவிகஸ் அமைப்பினால் இலங்கையின் மனித உரிமைகள் நிலைவரம் மற்றும் சிவில் சமூக செயற்பாடுகளுக்கான இடைவெளி தொடர்பில் வெளியிடப்பட்டுள்ள அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ள முக்கிய விடயங்கள் வருமாறு:
+🟩
 
-எமது அமைப்பின் 'சிவில் இடைவெளி' தொடர்பான தரப்படுத்தலில் கடந்த ஆண்டு டிசம்பர் மாதம் இலங்கையானது 'ஒடுக்கப்பட்டுள்ளது' எனும் நிலைக்குத் தரமிறக்கப்பட்டது. அதிகாரிகளால் ஆர்ப்பாட்டக்காரர்கள் ஒடுக்கப்படல், ஊடகவியலாளர்கள் மீதான ஒடுக்குமுறைகள், சிவில் செயற்பாட்டாளர்கள் இலக்குவைக்கப்படல் மற்றும் பொறுப்புக்கூறலின்மை என்பன இத்தரமிறக்கலுக்குக் காரணமாக அமைந்தன.
+According to the International Civil Society Organization, the International Civil Society of Civicus, in December last year, Sri Lanka has been promoted to 'oppressed' in our organization's 'civil gap'.
+
+In the report published in the report posted on Sri Lanka's Human Rights and Civil Social Activities by the Civigas, the global Sivigas, which is a gathering of civil society organizations, which are based on the strengthening of the activities of civil society organizations and civil society organizations, strengthening civil society gaps.
+
+In December last year, Sri Lanka was promoted to 'oppressed' in our organization's 'civil gap'. The oppression of demonstrators by authorities, repression of journalists, civil activists' target and lack of accountability have been the cause.
 
 ...
 
 [Data](articles/5a80b30d.json)
+
+[Extended Data](ext_articles/5a80b30d.ext.json)
 
 ---
 
@@ -61,6 +81,8 @@ Non-academic staffers of all 17 state universities launched the token strike at 
 ◼️
 
 [Data](articles/a369c4a8.json)
+
+[Extended Data](ext_articles/a369c4a8.ext.json)
 
 ---
 
@@ -80,19 +102,31 @@ Meanwhile, Sri Lanka Cricket (SLC) Chief Selector Upul Tharanga said Lahiru Kuma
 
 [Data](articles/7698144d.json)
 
+[Extended Data](ext_articles/7698144d.ext.json)
+
 ---
 
-### கொழும்பில் 44 கிலோமீற்றர் கொண்ட பிரதான கால்வாய் அமைப்பின் புனரமைப்பு துரிதப்படுத்த நடவடிக்கை !
+### Action to accelerate the reconstruction of the main canal system with a 44 -kilometer in Colombo!
 
 *2024-03-13 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178580) · `ta`
 
-இலங்கை காணி மீட்புக் கூட்டுத்தாபனம் இந்த ஆண்டு 24 வருடாந்த வேலைத்திட்டங்களை 4 முக்கிய பிரிவுகளின் கீழ் கொழும்பு நகரம் மற்றும் புறநகர் பகுதிகளில் வெள்ளத்தை கட்டுப்படுத்த கால்வாய் அணைகள் மற்றும் குளங்களை புனரமைத்து வருகிறது.
+The Sri Lanka Land Recovery Corporation is reconstructing the main canal system in Colombo, aiming to control floods and improve the environment. The project, overseen by Minister Prasanna Ranatunga, involves rehabilitation, flood control, and environmental improvement. It addresses issues like pollution and aims to maintain corridors, solar lighting, and parking spaces. The development plan includes long-term stability programs and aims to reduce flood impacts and improve rainwater drainage.
 
-இலங்கை காணி மீட்புக் கூட்டுத்தாபனம் அதன் கீழ் கால்வாய்கள், ஏரிகள் மற்றும் நடைபாதைகளின் பராமரிப்பு மற்றும் புனரமைப்பு, வெள்ளக் கட்டுப்பாடு, ஈரநிலங்கள் மற்றும் தாழ்நிலங்களின் அபிவிருத்தி, வடிவமைப்பு பணிகள், வரைபடமாக்கல் மற்றும் சாத்தியக்கூறு ஆய்வுகள் என்று கூறுகிறது.
+🟩
+
+The Sri Lanka Land Recovery Corporation is reconstructed the canal dams and ponds to control floods in the city and suburbs of Colombo under four major sections this year.
+
+The Sri Lanka Land Recovery Corporation states that under its canals, lakes and corridors, the rehabilitation, flood control, wetlands and lowlands development, design work, mapping and possibilities.
+
+The project is being implemented according to the Directorate of Urban Development and Housing Minister Prasanna Ranatunga. Minister Prasanna Ranatunga has said that many lakes and canals surrounding Colombo are filled with Japan Course Bull and Stench, Mud, Plastic Pottas, Pierre Cances, Sandals, Health Goods, Sewer and Oil.. This is the main reason for the floods in Colombo, despite the low rains, the minister said.
+
+The main canal system surrounding the Colombo City Zone is 44 km. Is that. The length of the second canal is 52 km. The canal renovation work has been accelerated.
 
 ...
 
 [Data](articles/07e406e4.json)
+
+[Extended Data](ext_articles/07e406e4.ext.json)
 
 ---
 
@@ -204,21 +238,27 @@ The letter has given instructions on how to plan the daily activities and outdoo
 
 ---
 
-### ගෙවතු වගා වෙනුවෙන් රු.මි. 232ක්
+### Rs. Mn for home garden. 232
 
 *2024-03-13 07:59:54* · [`adalk`](https://www.ada.lk/breaking_news/ගෙවතු-වගා-වෙනුවෙන්-රු-මි--232ක්/11-408576) · `si`
 
-රටේ ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් කෘෂිකර්ම අමාත්‍යාංශය විශාල වැඩකොටසක් සිදුකරමින් සිටින බවත්, මේ වන විට පර්චස් 10ට වැඩි ගෙවතු වගා සඳහා රුපියල් ලක්ෂ2ක උපරිමයකට යටත්ව මූල්‍ය ප්‍රතිපාදන ලබාදීමට සැලසුම් කර ඇති බවත් කෘෂිකර්ම රාජ්‍ය අමාත්‍ය මොහාන් ප්‍රියදර්ශන ද සිල්වා මහතා පැවසීය.
+The Ministry of Agriculture allocated Rs. 232 million for home gardening, focusing on strengthening the economy and agriculture. Despite facing economic crises and heavy rains, efforts are being made to increase farmers' yields and introduce new crop varieties. The Department of Agrarian Development plans to cultivate 512,000 hectares during the Yala season, emphasizing water conservation and the introduction of intermediate crops like green, corn, and potatoes.
 
-ඒ වෙනුවෙන් රුපියල් මිලියන 232ක මුදලක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මගින් වෙන් කර ඇති බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-කෘෂිකර්ම රාජ්‍ය අමාත්‍ය මොහාන් ප්‍රියදර්ශන ද සිල්වා මහතා මෙම අදහස් පළ කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (12) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Ministry of Agriculture Mohan Priyadarshana de Silva said that the Ministry of Agriculture is in a maximum of Rs.
 
-":මේ වන විට අප දරුණු ආර්ථික අර්බුදයකට මුහුණ දී නැඟීසිටිමින් සිටින රටක්. පසුගිය කාලයේ කෘෂිකර්ම කේෂ්ත්‍රයේ ද විශාල අර්බුද රැසකට මුහුණ දුන්නා.  නමුත් දැන් එම තත්ත්වය වෙනස් වෙමින් තිබෙනවා. කෘෂිකර්ම අමාත්‍යාංශය ද රටේ ආර්ථිකය ශක්තිමත් කිරීමට විශාල වැඩකොටසක් සිදු කරමින් සිටිනවා. ඒ හමුවේ රටේ ආර්ථිකය මෙන්ම කෘෂිකර්මාන්තයද පෙර තිබූ තත්ත්වයට වඩා වර්ධනයක් අත්කර ගනිමින් තිබෙනවා.
+The State Minister said that Rs. 232 million has been allocated by the Agrarian Development Department.
+
+State Minister of Agriculture Mohan Priyadarshana De Silva made this statement participating at a press conference held at the Presidential Media Center today (12).
+
+": At present we are a terrible economic crisis. In the recent past, many crises were facing a large number of crises.But now that situation is changing. The Ministry of Agriculture is also building a large number of strengthening the country's economy. At the meeting, the economy of the country and agriculture have increased higher than before.
 
 ...
 
 [Data](articles/c3651664.json)
+
+[Extended Data](ext_articles/c3651664.ext.json)
 
 ---
 
@@ -556,21 +596,27 @@ The Cabinet of Ministers approved the proposal submitted by the Urban Developmen
 
 ---
 
-### ’சவால்களுக்கு ஈடுகொடுக்க வேண்டும்’
+### To compensate for the challenges
 
 *2024-03-13 02:42:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களுக்கு-ஈடுகொடுக்க-வேண்டும்/175-334588) · `ta`
 
-சாவால்களைக் கண்டு தப்பி ஓடாமல், அனைத்துச் சந்தர்ப்பங்களிலும் தமது கொள்கைகளில் உறுதியாகவிருந்து, முன்னேற்றிச் செல்லும் சந்ததியை, இந்த நாட்டுக் கல்வியின் மூலம் உருவாக்கி, வலுவூட்ட வேண்டும் என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe emphasized the importance of education in creating citizens and leaders at the 150th anniversary of Wesley College, highlighting the need for change in the education system to serve all, not just government or private schools.
 
-கொழும்பு சங்கரீ லா ஹோட்டலில் நேற்று முன்தினம் நடைபெற்ற வெஸ்லி கல்லூரியின் 150 ஆவது ஆண்டுப் பூர்த்தி விழாவிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தேசத்தைக் கட்டியெழுப்பிய பிரஜைகளை உருவாக்கும் பணியில் வெஸ்லி கல்லூரி அளப்பரிய சேவையை ஆற்றியுள்ளது. வெஸ்லி கல்லூரி பிரஜைகளையும், தலைவர்களையும் உருவாக்கியது. அவர்கள் தேசத்தை வடிவமைத்தனர்.
+President Ranil Wickremesinghe has said that the descendants of this country should be created and strengthening the descendants of their policies on all occasions without fleeing the deaths.
 
-நாம் கல்வி கற்ற காலத்தில் அரச பாடசாலைகள், தனியார் மற்றும் உதவிகளைப் பெற்று இயங்கும் பாடசாலைகள் என பல பிரிவுகள் இருந்தன. துரதிஷ்டவசமாக நீங்கள் அனைவரும் அரசாங்க பாடசாலைகள் மற்றும் தனியார் பாடசாலைகள் என இரு பிரிவுகளுக்குள் மாத்திரம் சிக்கிக்கொண்டுள்ளீர்கள். அதனால் கல்வி முறையில் ஏற்படுத்தப்பட வேண்டிய மாற்றம் குறித்து ஆராய்ந்து வருகிறோம் என்றார். (a)
+President Ranil Wickremesinghe made this statement at the 150th anniversary of Wesley College held at the Sangari La Hotel, Colombo yesterday.. He further stated that
+
+Wesley College has served a huge service in the process of creating citizens who built the nation. Wesley college created citizens and leaders. They designed the land.
+
+There were many categories, such as state schools, private and help -run schools during his education. Unfortunately you are trapped within two categories: government schools and private schools. So we are investigating the change that needs to be made in education. (A)
 
 ◼️
 
 [Data](articles/a48d1977.json)
+
+[Extended Data](ext_articles/a48d1977.ext.json)
 
 ---
 
@@ -2167,27 +2213,5 @@ Various sports events are held in schools. So, the children are more outdoors.In
 [Data](articles/071bbec9.json)
 
 [Extended Data](ext_articles/071bbec9.ext.json)
-
----
-
-### Special notice to all schools
-
-*2024-03-12 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194429) · `si`
-
-The Ministry of Education has reopened schools, emphasizing child safety amidst high temperatures. Some schools have been criticized for not following outdoor activity planning guidelines, referencing instructions from February 26th.
-
-🟩
-
-The Ministry of Education has restored all schools by announcing the safety of children with the excessive temperature.
-
-It was informed that some schools are ignoring the issues regarding the process of planning activities outdoors.
-
-Accordingly, the announcement has been made reference to the instructions issued on the 26th of February.
-
-◼️
-
-[Data](articles/2391f7c2.json)
-
-[Extended Data](ext_articles/2391f7c2.ext.json)
 
 ---

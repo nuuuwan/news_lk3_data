@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 13:33:37**
+As of **2024-03-13 13:52:10**
 
 ## Newspaper Stats
 
-*Scraped **12,619** Articles*
+*Scraped **12,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,61 +18,109 @@ islandlk | 686
 adalk | 1,079
 adaderanalk | 1,521
 tamilmirrorlk | 1,536
-virakesarilk | 1,757
+virakesarilk | 1,758
 dailymirrorlk | 1,921
-adaderanasinhalalk | 1,987
+adaderanasinhalalk | 1,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,615 (100.0%) of 12,619 articles have been extended.
+12,619 (100.0%) of 12,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### ඔස්ට්‍රේලියාවේදී ශ්‍රී ලාංකික සම්භවයක් සහිත යුවළකගේ සිරුරු සොයාගනී
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-03-13 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194456) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර පළමු එක්දින තරගය තව සුළු වේලාවකින් චිතගොංහිදී ආරම්භවීමට නියමිතය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමේ නායක කුසල් මෙන්ඩිස් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමටය.
+
+◼️
+
+[Data](articles/67771e4c.json)
+
+---
+
+### திருட்டு வழக்கில் குற்றவாளி :  நியூஸிலாந்து முன்னாள் எம்.பி. ஒப்புக்கொண்டார்
+
+*2024-03-13 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178617) · `ta`
+
+நியூஸிலாந்து பாராளுமன்ற உறுப்பினராக பதவி வகித்தபோது, கடையொன்றில் திருடியதாக குற்றம் சுமத்தப்பட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் கோல்ரிஸ் கஹ்ரமான், தான் குற்றவாளி என  நீதிமன்றத்தில் ஒப்புக்கொண்டுள்ளார்.
+
+43 வயதான கஹ்ரமான் திருட்டுக் குற்றச்சாட்டையடுத்து கடந்த ஜனவரி 16 ஆம் திகதி, பாராளுமன்ற உறுப்பினர் பதவியிலிருந்து இராஜினாமா செய்திருந்தார்.
+
+இந்நிலையில், இது தொடர்பான வழக்கில், தான் குற்றவாளி என ஆக்லாந்து மாவட்ட நீதிமன்றத்தில் இன்று புதன்கிழமை கஹ்ரமான் ஒப்புக்கொண்டார்.
+
+ஈரானில் பிறந்த கோல்ரிஸ் கஹ்ரமான், தனது குடும்பத்தினருக்கு நியூஸிலாந்தில் அரசியல் புகலிடம் கிடைத்தபோது நியூஸிலாந்துக்கு புலம்பெயர்ந்தவர்.
+
+நியூஸிலாந்துக்கு அகதியாக வந்த பின்னர் அந்நாட்டுப் பாராளுமன்ற உறுப்பினராகத் தெரிவான முதல் நபர் கோல்ரிஸ் கஹ்ரமான் ஆவார்.
+
+◼️
+
+[Data](articles/17cf71ea.json)
+
+---
+
+### Sri Lankan origin of Sri Lankan origin in Australia uncovers
 
 *2024-03-13 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194455) · `si`
 
-ඔස්ට්‍රේලියාවේ මෙල්බර්න්හි වොරන්ඩයිට් ප්‍රදේශයේ නිවසක් ආසන්නයෙන් ශ්‍රී ලාංකික සම්භවයක් සහිත වැඩිහිටි යුවළකගේ මළ සිරුරු හමුවී තිබේ.
+In Warrandite, Australia, the bodies of a Sri Lankan-origin elderly couple were found near their home. The couple, identified as Caspers, aged 70-80, were found near their car. Police await post-mortem results but deem the deaths non-suspicious. The couple had lived in the area for 25 years.
 
-ඔස්ට්‍රේලියාවේ මෙල්බර්න් හි ඊසාන දිග වොරන්ඩයිට් ප්‍රදේශයේ පිහිටි නිවස ආසන්නයෙන් මෙම යුවළගේ සිරුරු හමුවී තිබුණේ ඊයේ පෙරවරු කාලයේදී ය.
+🟩
 
-එක් සිරුරක් යුවළට අයත් බවට පැවසෙන මෝටර් රථය තුළ සහ අනෙක් සිරුර ඒ ආසන්නයෙන් සොයා ගෙන තිබුණි.
+The bodies of an older couple of an elderly couple near a house in Warrandite area of Australia have been found near a house in Warraver.
 
-මෙලෙස මිය ගොස් ඇත්තේ ශ්‍රී ලාංකික සම්භවයක් සහිත වැඩිහිටි යුවළක් බව අනාවරණ වී තිබේ.
+The bodies of the couple were found near the house in the northeastern Warrandite area in Australia, Australia yesterday.
 
-ඔවුන් වයස අවුරුදු 70-80ත් අතර පසුවන ඩොයින් කැස්ප්ර්ස් සහ මාර්ලීන් කැස්පර්ස් ලෙසයි විදෙස් වාර්තා පෙන්වා දෙන්නේ.
+The car and the other body was found near the car that is said to belong to one body.
 
-ඔවුන්ගේ මරණයට හේතුව දැනගැනීමට පශ්චාත් මරණ පරීක්ෂණ ප්‍රතිඵල ලැබෙන තෙක් රැඳී සිටිය යුතු බව පොලීසිය පවසා තිබේ.
+It has been revealed that the deceased has been identified as an older couple with Sri Lankan origin.
 
-කෙසේවුවද මෙය සැකකටයුතු මරණයක් නොවන ලෙස පොලීසිය සඳහන් කළ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+They point out doin casphers and marlein Caspers, between 70-80 years old.
 
-මිය ගොස් ඇති යුවළ එම ප්‍රදේශයේ වසර 25ක පමණ කාලයක් ජීවත්ව තිබුණි.
+Police have said that the post mortal test results should be waiting for the cause of their death.
 
-එමෙන්ම ඩොයින් කැස්ප්ර්ස්, ඔස්ට්‍රේලියාවේ වාර්ගික ශ්‍රී ලාංකික ප්‍රජාව නියෝජනය කරන බර්ගර් සංවිධානයේ උප සභාපතිවරයා ලෙස ද කටයුතු කර ඇත.
+However, police say that this is not a suspicious death.
+
+The deceased couple lived in the area for about 25 years.
+
+The Vice President of the Burger Organization of the Burger Organization, which represents the ethnic Sri Lankan community in Australia.
 
 ◼️
 
 [Data](articles/be6d7bdd.json)
 
+[Extended Data](ext_articles/be6d7bdd.ext.json)
+
 ---
 
-### තොරතුරු තාක්ෂණය සමඟ කෘතිම බුද්ධිය 8 වසරින්  ඉහළ දරුවන්ට
+### Artificial Intelligence with IT 8
 
 *2024-03-13 13:09:30* · [`adalk`](https://www.ada.lk/technology/තොරතුරු-තාක්ෂණය-සමඟ-කෘතිම-බුද්ධිය-8-වසරින්--ඉහළ-දරුවන්ට/5-408584) · `si`
 
-අධ්‍යාපන ක්ෂේත්‍රයේ ‍වෙනස්කම්  සිදු කරන විට නවීන තාක්ෂණික දැනුම දරුවන්ට ලබාදීම අත්‍යවශ්‍ය කටයුත්තක් බවත්, විශේෂයෙන්ම නැනෝ තාක්ෂණය, ජෛව තාක්ෂණය, ජාන තාක්ෂණය, කෘතිම බුද්ධිය වැනි විෂය ධාරාවන් ඉතා කෙටි කාලයක් තුළ අධ්‍යාපන පද්ධතියට හඳුන්වාදීමේ අභියෝගයට කෙසේ හෝ මුහුණ  දිය යුතු බවත් අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පැවැසීය.
+Minister Susil Premajayantha emphasizes the importance of AI, Nanotech, BioTech, Genetics in education, aiming to prepare children for the future despite challenges. Steps have been taken to amend curriculum from 8th to 13th grade, introducing AI. Collaboration with Microsoft aims for international standards. The Minister highlights the integration of new technology in education, digitizing centers, and training teachers.
 
-කවර බාධක පැමිණියත් අනාගත වැඩලෝකයට අපේ දරුවන් සූදානම් කිරීම අතපසු කළ නොහැකි බවත් ඔහු සඳහන් කළේය. ගල්කිස්ස උසස් බාලිකා විද්‍යාලයට සිය වසක් සම්පූර්ණ වීම නිමිත්තෙන් එහි පැවති සමරු උත්සවයට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-පාසල්වල 8 වැනි ශ්‍රේණියෙන් ඉහළ එනම් 8,9,10, 11, 12, සහ 13 ශ්‍රේණිවල තොරතුරු තාක්ෂණ විෂය මාලාව සංශෝධනය කිරීමට මේ වන විට කටයුතු යොදා ඇති බවත් එහි නියමු ව්‍යාපෘතිය එළඹෙන මාර්තු 19 වන දා පාසල් 17 ක් සම්බන්ධ කරගනිමින් ආරම්භ කරන බවත් තොරතුරු තාක්ෂණ විෂය ධාරාව සමග කෘතිම බුද්ධිය (Artificial Intelligence)  හඳුන්වාදෙන බව ද අමාත්‍යවරයා ප්‍රකාශ කළේය.
+Minister of Education Susil Premajayantha said that the children of the education of the education sector is essential to children, such as Nanotechnology, Bio Technology, Genetics, artificial intelligence,.
+
+He said that no matter what obstacles, the future growing could not miss out to prepare our children. The Minister was speaking at the commemorative ceremony of the Mount Lavinia to mark its completion of his year.
+
+It is informated that it has already taken steps to amend the Scriptures from 8th Grade, 8, 11, 12, and 13th and 13th, and 13, 12, 12, and 13th.He also introduced artificial intelligence (artificial intelligence) with the curriculum.
+
+According to the Minister of Education, the Microsoft is collaborative with the Ministry of Education and to provide the subject knowledge between the international standards and the subject knowledge with international standards.
 
 ...
 
 [Data](articles/e0971873.json)
+
+[Extended Data](ext_articles/e0971873.ext.json)
 
 ---
 
@@ -526,17 +574,25 @@ Japanese players are also chance to practice with LPL groups.
 
 ---
 
-### ලාංකික කාන්තාවකට දරුවකු දී චීන කත පලායයි
+### Sri Lankan woman is Chinese women at a child
 
 *2024-03-13 11:10:45* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-කාන්තාවකට-දරුවකු-දී-චීන-කත-පලායයි/11-408581) · `si`
 
-චීන ජාතික කාන්තාවක් අවුරුදු තුනක් වයස දියණිය කටුනායක ගුවන් තොටුපොළේ දී පෙරේදා 11දා රාත්‍රියේ ලාංකික කාන්තාවකට වඩා ගැනීමට යැයි පවසා චීන ජාතික කාන්තාව  අතුරුදන් වී ඇතැයි කටුනායක ගුවන්තොටුපොළ පොලිසිය පවසයි. දරුවා වඩා ගැනීමට බාරදුන් චීන ජාතික කාන්තාව යළි නොපැමිණි නිසා ශ්‍රී ලාංකික කාන්තාව එම දරුවා ද රැගෙන කටුනායක ගුවන් තොටුපොළ පොලිසියට පැමිණ දරුවා පොලිසියට බාර දී ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය. කුරුණෑගල, පොතුහැර ප්‍රදේශයේ පදිංචි තැනැත්තියක වන ශ්‍රී ලාංකික කාන්තාව චීනයට ගොස් ගෘහ සේවයේ යෙදෙමින් මෙම දරුවා වසර ගණනාවක් තිස්සේ බලාගෙන ඇතැයි පොලිසිය සඳහන් කරයි.
+A Sri Lankan woman, a resident of Pothuhera, Kurunegala, is waiting for her child, a Chinese woman's child, at Katunayake Airport. The child was handed over to the airport by a high-ranking police officer. The Sri Lankan woman has been watching the child for years and has complained to the police about the delay. The LTTE has informed the airport that the Chinese mother and her mother have gone to their country. The Sri Lankan woman has willingly adopted the Chinese National Youth.
 
-මෙම කාන්තාව යළි මෙරටට පැමිණ සිටිය දී සිඟිත්තියගේ චීන ජාතික මව ඇගේ නිවසේ ගෘහ සේවයේ යෙදුණු කාන්තාවට කතාකර දියණිය සහ මව සමග මෙරට සංචාරයක් සඳහා පැමිණෙන බව දැනුම් දී ඇත. ඒ නිසා කැඳවාගෙන යාමට කටුනායක ගුවන්තොටුපොළට පැමිණෙන ලෙස කල් තියා කර තිබූ දැනුම් දීමක් අනුව ලාංකික කාන්තාව ගුවන් තොටු පොළට ගොස් ඔවුන් පැමිණීමේ බලාපොරොත්තුවෙන් සිට ඇත.
+🟩
+
+The Chinese woman said that a Chinese woman to take more than three years old at the Katunayake airport, Katunayake Airport said. A Sri Lankan woman had not returned to the child to take more than the child, a high-ranking police officer said that the child had been handed over to the Katunayake airport. The Sri Lankan woman, a resident of Pothuhera, Kurunegala, has been waiting for the years and has been watching the child.
+
+The woman informed the woman in return to the house of her mother in her householder, daughter and mother. Therefore, according to a notice that was to arrive at the Katunayake Airport, the Sri Lankan woman had gone to the airport and hoped for them to come.
+
+Sri Lankan woman has also complained to the police and complained to the police as they had not seen several hours. The LTTE has informed the airport if the Chinese mother of the Chinese mother and her mother of her mother and she had gone to their country.
 
 ...
 
 [Data](articles/d468d7de.json)
+
+[Extended Data](ext_articles/d468d7de.ext.json)
 
 ---
 
@@ -2199,63 +2255,5 @@ Australian experts have asked the Governor on a number of issues including the c
 [Data](articles/3c5f2380.json)
 
 [Extended Data](ext_articles/3c5f2380.ext.json)
-
----
-
-### Explanation for two estate managers
-
-*2024-03-13 02:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்ட-முகாமையாளர்கள்-இருவருக்கு-விளக்கமறியல்/175-334584) · `ta`
-
-The Nuwara Eliya District Magistrate's Court ordered the arrest of two estate managers for attacking the Nuwara Eliya Lapukkalai estate. A field officer and a plantation manager were involved in a professional dispute, leading to their arrest. The Magistrate ordered interrogation for seven days, with the case adjourned until the 18th of this month.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court has ordered the two estate managers arrested by the Nuwara Eliya police on charges of attacking the Nuwara Eliya Lapukkalai estate.
-
-The order was issued yesterday evening (12) evening.
-
-A field officer and a plantation manager at the Nuwara Eliya Bambarakalai estate ended on the 28th of last month after a professional argument.
-
-The plantation manager lodged a complaint at the Nuwara Eliya Police Station at the Nuwara Eliya Police Station.
-
-The magistrate has ordered the father and son to be interrogated for seven days.
-
-Once again, the Magistrate, who was taken up for hearing on the 7th of this month, adjourned the case by granting permission to go to the father and son of a field officer who was placed in the interrogation of one lakh rupees each.
-
-In the meantime, the field official on bail has lodged a complaint at the Nuwara Eliya Police Station demanding justice for the attack on the plantation managers.
-
-...
-
-[Data](articles/6d70a979.json)
-
-[Extended Data](ext_articles/6d70a979.ext.json)
-
----
-
-### Ranil Wickremesinghe is not our presidential candidate - Sri Lanka PA
-
-*2024-03-13 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178571) · `ta`
-
-Ranil Wickremesinghe, leader of the United National Party, is not the presidential candidate of the Sri Lanka Peoples Alliance. He can contest as a UNP candidate. The constitution allows the president to dissolve parliament and call elections.
-
-🟩
-
-President Ranil Wickremesinghe can contest as the presidential candidate of the United National Party, not our presidential candidate.
-
-He was speaking at a media briefing held at the Sri Lanka PA's Chief Office on Tuesday (12).
-
-According to the constitution, the president has the power to dissolve the parliament and hold the general election. The party is strong as the party.
-
-A party of the ruling party refers to their personal position as Ranil Wickremesinghe, the presidential candidate of Sri Lanka PA. The problem is how fair it is to refer to a personal position within the party.
-
-President Ranil Wickremesinghe is not the presidential candidate of the Sri Lanka Peoples Alliance, and no talks have been held at the top level of the party as presidential candidate. He is the leader of the United National Party.
-
-The president's carrying out the United National Party (UNP) at the United National Party (UNP) at Kurunegala last Sunday.
-
-◼️
-
-[Data](articles/11412cd6.json)
-
-[Extended Data](ext_articles/11412cd6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 07:39:44**
+As of **2024-03-13 07:52:58**
 
 ## Newspaper Stats
 
-*Scraped **12,535** Articles*
+*Scraped **12,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,143 @@ dailyftlk | 650
 economynextcom | 666
 islandlk | 685
 adalk | 1,070
-adaderanalk | 1,509
+adaderanalk | 1,511
 tamilmirrorlk | 1,521
 virakesarilk | 1,741
-dailymirrorlk | 1,907
-adaderanasinhalalk | 1,975
+dailymirrorlk | 1,909
+adaderanasinhalalk | 1,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,532 (100.0%) of 12,535 articles have been extended.
+12,535 (100.0%) of 12,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### හෝටල් කාමරයක් තුළ කාන්තාවක්ව ඝාතනය කෙරේ - සැකකරු ගෙල වැලලාගෙන
+### Pets at risk: Heatstroke threatens pets in soaring temperatures
+
+*2024-03-13 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pets-at-risk-Heatstroke-threatens-pets-in-soaring-temperatures/108-278732) · `en`
+
+Colombo, March 13 (Daily Mirror) - Following the current high temperature, pets, especially dogs and cats, face significant health risks from heatstroke as they primarily dissipate heat through panting, with limited sweating through paw pads and the nose, unlike humans, City Pet Animal Hospital Managing Director Dr. Sugath Premachandra said.
+
+He said pet animals regulate their body temperature by panting. When the panting is not sufficient to get their temperature down, they can go on to develop heatstroke, he said.
+
+Panting (this can progress to distressed or noisy breathing as the heatstroke worsens), restlessness or agitation, pacing, seeking shade or water, drooling, red gums, increased heart rate, and vomiting or diarrhoea can be mentioned as early signs of heatstroke in pet animals.
+
+...
+
+[Data](articles/72cfc8ae.json)
+
+---
+
+### Husband and wife found dead in murder-suicide at guest house
+
+*2024-03-13 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97910/husband-and-wife-found-dead-in-murder-suicide-at-guest-house) · `en`
+
+A man has fatally stabbed his wife before taking his own life by hanging himself inside a room at a guest house in Pothuvil, police said.
+
+◼️
+
+[Data](articles/992d7c03.json)
+
+---
+
+### ඩයනාගෙන් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+
+*2024-03-13 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194444) · `si`
+
+සිය පක්ෂ සාමජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගෙන තිබෙන තීරණය නීත්‍යානුකූල නොවන බවට තීන්දු කර එය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය විසින් ඉදිරිපත් කළ පෙත්සම ශ්‍රේෂ්ඨාධිකරණය හමුවේ යළි විභාගයට ගෙන තිබේ.
+
+"අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේ, ගාමිණී අමරසේකර, කුමුදුනී වික්‍රමසිංහ සහ මහින්ද සමයවර්ධන යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැති බවය.
+
+අදාළ පෙත්සමේ වගඋත්තරකරුවකු වශයෙන් නම්කර සිටින සමගි ජන බලවේගයේ මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ජයම්පති වික්‍රමරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අත්‍යවශ්‍ය පාර්ශව කිහිපයක් නම් කර නොමැති බව පෙන්වා දී තිබේ.
+
+සමගි ජන බලවේගයේ කෘත්‍යාධිකාරි මණ්ඩලයේ සාමාජිකයින් හා විනය කමිටුවේ සියලු සාමාජිකයින් අදාළ පෙත්සමේ වග උත්තරකරුවන් වශයෙන් නම් කර නොමැති වීම බරපතළ නීතිමය දෝෂයක් යැයි පෙන්වා දුන් ජනාධිපති නීතිඥවරයා ඒ අනුව අදාළ පෙත්සමක් තවදුරටත් පවත්වාගෙන යාමට නොහැකි බවත් සඳහන් කළේය.
+
+...
+
+[Data](articles/d886707d.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-03-13 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97909/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night.
+
+Mainly dry weather will prevail elsewhere of the island, it said.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/7b69bc23.json)
+
+---
+
+### සරසවි අනධ්‍යයන සේවකයින් වැඩවර්ජනයක
+
+*2024-03-13 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194443) · `si`
+
+වැටුප් ගැටලුවක් මුල්කරගනිමින් විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩල සේවකයින් ආරම්භ කළ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් දෙවන දිනටත් අද (13) ක්‍රියාත්මක වේ.
+
+අද පස්වරු 4.30 දක්වා එම වෘත්තීය සමිති ක්‍රියාමාර්ගය ක්‍රියාත්මක බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනයේ සමලේකම් කේ.එල්.ඩී.ජී රිච්මන්ඩ් මහතා සඳහන් කළේය.
+
+"ඊයේ දහවල් 12ට දිවයිනේ තියෙන ජාතික විශ්වවිද්‍යාල 17ම අධ්‍යයන නොවන සේවක මණ්ඩලය සේවයෙන් ඉවත් වුණා. මෙයට ප්‍රධානම හේතුව පසුගිය ජනවාරි මාසයේ 22 වනදා සාකච්ඡාවේ දී අපිට පොරොන්දු වුණා විශ්වවිද්‍යාලවල වැටුප් කප්පාදුව නිවැරදි කරනවා කියලා. තාමත් එය නිවැරදි කරලා නෑ. ඒ නිසා වැඩවර්ජනය ක්‍රියාත්මකයි. බලධාරීන් මේකට විසඳුම් ලබාදෙන්නේ නැත්නම් අපිට සිදුවනවා ලබන සතියේ සිට අඛණ්ඩ වැඩවර්ජනයකට යොමු වෙන්න."
+
+◼️
+
+[Data](articles/ddca9239.json)
+
+---
+
+### Woman murdered in a hotel room - Suspect's neck
 
 *2024-03-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194442) · `si`
 
-කාන්තාවක්ට තියුණු ආයුධයකින් පහර දී ඝාතනය කර සැකකරුත් ගෙල වැලලාගෙන මියයෑමේ පුවතක් පොතුවිල් ප්‍රදේශයෙන් වාර්තා වේ.
+A woman was murdered in a hotel room in Pottuvil. The suspect, who was with the victim, was found in the bathroom. The victim was a 51-year-old resident of Pottuvil.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කළේ, ඊයේ (12) පොතුවිල් පොලිස් වසමේ ආරුගම්බේ ප්‍රදේශයේ හෝටලයක කාමරයක නවාතැන් ගෙන සිටි කාන්තාවක් එලෙස ඝාතනය වී ඇති බවය.
+🟩
 
-මියගිය කාන්තාව පුද්ගලයෙකු සමග හෝටලයේ කාමරයක නවාතැන් ගැනීම සඳහා පැමිණ ඇති අතර, කාමරය විවෘත නොකිරීම පිළිබඳව සැක සිතී කළමනාකරු විසින් ආරුගම්බේ පොලිස් මුරපොලේ නිලධාරීන්ට දන්වා ඔවුන් සමග කාමරයෙහි දොර කඩා විවෘත කර ඇත.
+A woman was attacked with a sharp instrument and murdered and murdered and killed and killed.
 
-එහිදී කාන්තාවක් කාමරයේ ලේ තැවරී මියගොස් සිටි බවත් කාමරයට යාබඳව ඇති නාන කාමරය තුළ සැකකරු ගෙල වැලලාගෙන ඇති බවත් නිරීක්ෂණය වී ඇත.
+The police media division announced that a woman who was staying in a room in a hotel in the Pottuvil police division of the Pottuvil police division.
 
-එලෙස ගෙල වැලලාගෙන මියගොස් ඇත්තේ  51 හැවිරිදි පොතුවිල් ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The deceased woman has come to stay in a room with a person, and the manager has told the officials in the room with them.
+
+It has been observed that blood in the room was dead in the room and that the suspect had been haned in the bathroom in the jungle.
+
+The victim was a 51 year old resident of Pottuhtuvil area.
 
 ◼️
 
 [Data](articles/d3ca14de.json)
+
+[Extended Data](ext_articles/d3ca14de.ext.json)
+
+---
+
+### Sri Lanka to get tough - Tourists doing business
+
+*2024-03-13 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-get-tough-Tourists-doing-business/155-278731) · `en`
+
+- Raids are presently being conducted in the south to identify illegally run businesses
+
+- In future, foreigners will need a local partner to operate businesses
+
+Colombo, March 13 (Daily Mirror) - The government will soon strengthen its laws to prevent foreign nationals from operating businesses in the country while they are under tourist visas and have already begun conducting raids in the south, the Daily Mirror learns.
+
+Earlier this month, the Daily Mirror exclusively reported that several foreign nationals including Russians, Ukrainians and Israelis who were in Sri Lanka under tourist visas were operating businesses in tourist hotspots which had severely hampered the local tourist industry.
+
+From running cafes, restaurants, bars to exchanging money and running undial services and providing accommodation and transport, several foreign nationals who have been in the country long term due to conflicts in their own countries, seem to have taken the law for granted.
+
+...
+
+[Data](articles/2b1edb82.json)
 
 ---
 
@@ -360,35 +464,47 @@ Imtiaz, a 30 -year -old young man from Ottamavadi - Nawaladi area, has been kill
 
 ---
 
-### இலங்கை - இந்திய அதிகாரிகள் கலந்துரையாடல்
+### Sri Lanka - Indian officials discussion
 
 *2024-03-13 02:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-அதிகாரிகள்-கலந்துரையாடல்/175-334586) · `ta`
 
-இந்தியாவின் மீள்புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சின் செயலாளர் ஸ்ரீ புபிந்தர் சிங் பல்லாவின் தலைமையிலான  தூதுக்குழுவினர் இலங்கைக்கு வருகை தந்துள்ளனர்.
+Indian delegation led by Sri Bupinder Singh Palla discusses renewable energy, investment opportunities, and technology transactions with Sri Lankan officials.
 
-நாட்டில் உள்ள மீள்புதுப்பிக்கத்தக்க முதலீடுகளுக்கான வாய்ப்புகள் தொடர்பில்  இந்திய ஆய்வாளர்களுக்கும் இலங்கையின் அதிகாரிகளுக்கும் இடையே கலந்துரையாடல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+🟩
 
-மின்சக்தி , எரிசக்தி அமைச்சில் நேற்று காலை இடம்பெற்ற தூதுக்குழுவினருடனான சந்திப்பின் போது, இரு நாடுகளுக்கும் இடையிலான மீள்புதுப்பிக்கத்தக்க எரிசக்தி ஒத்துழைப்பு, புதிய திட்டங்களை ஆரம்பிப்பதற்கான சாத்தியக்கூறுகள், தொழில்நுட்ப பரிமாற்றங்கள், முதலீட்டு வாய்ப்புகள், அரசாங்க கொள்கைகள் குறித்து கலந்துரையாடப்பட்டது. (a)
+A delegation headed by Sri Bupinder Singh Palla, the Secretary of the Ministry of Reconstruction of India, has visited Sri Lanka.
+
+Discussions have been launched between Indian researchers and Sri Lankan officials on the opportunities for rejuvenating investments in the country.
+
+During a meeting with the Ambassador at the Ministry of Power and Energy yesterday morning, the two countries discussed the renewable energy cooperation between the two countries, the possibility of the launch of new projects, technology transactions, investment opportunities and government policies.. (A)
 
 ◼️
 
 [Data](articles/27d2eab5.json)
 
+[Extended Data](ext_articles/27d2eab5.ext.json)
+
 ---
 
-### வெப்பமான வானிலை அதிகரிக்கும்
+### Increase the hot weather
 
 *2024-03-13 02:13:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பமான-வானிலை-அதிகரிக்கும்/175-334585) · `ta`
 
-நாட்டின் பல பகுதிகளில் வெப்பத்தின் அளவு தொடர்ந்தும் அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of rising heat, especially in Western, North Western, Sabaragamuwa, and Southern Provinces, advising residents to be cautious.
 
-மேல், வடமேல், சப்ரகமுவ, தென் மாகாணங்களிலும் அனுராதபுரம், மன்னார், திருகோணமலை, மட்டக்களப்பு மாவட்டங்களிலும் மனித உடல் அதிகளவில் உணரக்கூடிய வகையில், உஷ்ணத்தின் அளவு அதிகரிக்குமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இந்த விடயம் தொடர்பில் மேற்படி பகுதிகளில் வசிக்கும் மக்கள் விசேட அவதானம் செலுத்த வேண்டுமென வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+The Department of Meteorology has said that the amount of heat will continue to increase in many parts of the country.
+
+The Department of Meteorology has said that the human body will be more sensitive to the Western, North Western, Sabaragamuwa and Southern Provinces and Anuradhapura, Mannar, Trincomalee and Batticaloa districts.
+
+The Department of Meteorology has advised people living in these areas to pay special attention to this issue.. (A)
 
 ◼️
 
 [Data](articles/f96ff4ae.json)
+
+[Extended Data](ext_articles/f96ff4ae.ext.json)
 
 ---
 
@@ -2113,141 +2229,5 @@ The demonstration, which was carried out from 1 pm to 2 pm, was chanting and cha
 [Data](articles/ff1dada7.json)
 
 [Extended Data](ext_articles/ff1dada7.ext.json)
-
----
-
-### The explanation of eight people, including the temple priest arrested at the Adivasivan Temple at the Vedukkunni Mountain Mountain
-
-*2024-03-12 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178545) · `ta`
-
-Eight, including a temple priest, arrested at Adivasivan Temple in Vavuniya North, Vettukunni Hill, for Shivaratri Pooja. Remanded until Tuesday due to incomplete proceedings. Archaeological Department notified about overnight case. Court orders remand until 19th. Represented by MA Sumanthiran, Srikanta, K. Sukas, T.Thirul, Krisrina, Jiderson, Sajitha, Sarukesi, Vidusini, Kirtanan, Eugene, Konziyas.
-
-🟩
-
-The Vavuniya Justice has ordered the eight persons including the temple priest who was arrested at the Adisivan Temple in Vavuniya North, Vettukunni Hill.
-
-On the day of Shivaratri, on the 8th, the Shivaratri Pooja was held at the Adivasivan Temple at the Adivasivan Temple, including the temple priest, including the temple priest who entered the temple.
-
-They were remanded until Tuesday (12) as they were not completed in the Vavuniya Court on Saturday 9th.. In this case, the case was taken up again today.
-
-The Archaeological Department had brought to the notice of the Archaeological Symbols as the case was underway from 9 am to three o'clock in the morning.. The court has ordered the eight others to be remanded until the 19th.
-
-On behalf of the eight people, including the priest, MA Sumanthiran, lawyers Srikanta, K. Sukas, T.Thirul, Krisrina, Jiderson, Sajitha, Sarukesi, Vidusini, Kirtanan, Eugene, Konziyas, etc.
-
-◼️
-
-[Data](articles/b98bf6d8.json)
-
-[Extended Data](ext_articles/b98bf6d8.ext.json)
-
----
-
-### India moves to implement controversial citizenship bill that excludes Muslims
-
-*2024-03-12 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97899/india-moves-to-implement-controversial-citizenship-bill-that-excludes-muslims) · `en`
-
-India has announced rules that would allow it to implement a controversial citizenship bill that excludes Muslims.
-
-The Indian Ministry of Home Affairs announced the rules Monday, ahead of India’s general election in the spring, when Prime Minister Narendra Modi will seek a rare third term in power.
-
-The Citizenship (Amendment) Act provides a fast-track to citizenship for immigrants from Afghanistan, Bangladesh, and Pakistan – provided they are not Muslim. The controversial law would apply to religious minorities persecuted on religious grounds, including Hindus, Sikhs, Buddhists, Jains, Parsis and Christians.
-
-The bill, originally passed by India’s parliament in 2019, could not come into effect until the rules were notified.
-
-Despite being well-received by Modi, a Hindu nationalist, the bill was heavily protested by opposition parties, which claimed it was unconstitutional and marginalized India’s 200-million Muslim population.
-
-...
-
-[Data](articles/6b560d56.json)
-
-[Extended Data](ext_articles/6b560d56.ext.json)
-
----
-
-### There are many information about the shooting killed in police station
-
-*2024-03-12 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194424) · `si`
-
-A suspect involved in multiple crimes in Malwathuhiduwa, Gampaha, was arrested in Moneragala after a shootout with police. The suspect, previously with the Commando Corps, had been a mercenary murderer. The police were investigating the suspect for robbery in Meegoda and an unrelated crime in 2013. The suspect was killed in a shootout in Attanagalla.
-
-🟩
-
-The shooter was a person who needed a number of crimes about a crimes at a Malwathuhiduwa in Gampaha.
-
-Deputy Inspector General of Police, Suspect Nihal Talduuwa said the suspect had been withdrawn from the Commando Corps and had acted as a mercenarized murderer.
-
-The shooter in the murder of Thilan Rangana Perera, 2023.09.25, the police said that the police wanted to a suspect, such as robbery in the Meegoda Police, and 23.02.2013.
-
-The suspect was unable to arrest the suspect until the suspect was arrested last yesterday (11) at the Hambegamuwa area in Moneragala.
-
-Accordingly, the suspect had attempted to escalate the shooting of the police while he was shot dead by the suspect in Attanagalla.
-
-◼️
-
-[Data](articles/a32120e4.json)
-
-[Extended Data](ext_articles/a32120e4.ext.json)
-
----
-
-### Russian military plane flew with 15 people
-
-*2024-03-12 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178544) · `ta`
-
-A Russian military freight plane, carrying 15 people, crashed in the Ivanova region near Moscow shortly after takeoff.
-
-🟩
-
-A Russian military freight plane crashed today. The Russian media reported that there were 15 people in the event.
-
-It has been reported that the IL-76 variety has fallen in the Ivanova region near Moscow shortly after the departure.
-
-◼️
-
-[Data](articles/cb575f30.json)
-
-[Extended Data](ext_articles/cb575f30.ext.json)
-
----
-
-### Planetarium to reopen tomorrow after repairs
-
-*2024-03-12 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Planetarium-to-reopen-tomorrow-after-repairs/108-278709) · `en`
-
-Colombo, March 12 (Daily Mirror) - The Sri Lanka Planetarium, which underwent urgent repairs prompting its closure, will reopen its doors to the public starting tomorrow, March 13th, announced Dr. Uthpala Alahakoon, Director of the Education Ministry.
-
-Following a notice issued by the authorities, the planetarium has been inaccessible to visitors since February 27th until March 12th, owing to the critical need for repairs.
-
-◼️
-
-[Data](articles/0f8301ca.json)
-
-[Extended Data](ext_articles/0f8301ca.ext.json)
-
----
-
-### Massacre of young family in Jaffna;Four arrested in Kilinochchi
-
-*2024-03-12 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178543) · `ta`
-
-Four suspects arrested in Jaffna for murdering a young family member. The family was attacked near Ponnalai Naval Base, and the victims were taken to a hospital. Four people from Kilinochchi also arrested.
-
-🟩
-
-Four suspects have been arrested in connection with the murder of a young family member in Jaffna on Monday (11).
-
-While the family and his wife were traveling from Karainagar to the house in Vaddukkottai - Mavadi, some of the weapons in two cars near the Ponnalai Naval Base.
-
-Both escaped and logged into the naval camp. In this case, the Marines chased them out. When they came out, the team went from there to load the wife in one car and the person in the next car.
-
-Then the wife was unloaded at Siddhangeni junction. The wife then went to the Vaddukoddai police station to lodge a complaint. In this case, the kidnappers went to the Vaddukoddai area hospital after the sword attack on the man and threw him down to the hospital in the hospital.
-
-In this case, the health workers at the hospital informed the doctor by telephone. He was taken to the Jaffna Teaching Hospital by a doctor who arrived at the hospital in a few minutes.
-
-...
-
-[Data](articles/cd560e00.json)
-
-[Extended Data](ext_articles/cd560e00.ext.json)
 
 ---

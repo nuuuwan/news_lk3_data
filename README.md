@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 18:51:02**
+As of **2024-03-13 19:02:45**
 
 ## Newspaper Stats
 
-*Scraped **12,677** Articles*
+*Scraped **12,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,084
+adalk | 1,086
 adaderanalk | 1,529
-tamilmirrorlk | 1,545
+tamilmirrorlk | 1,546
 virakesarilk | 1,765
 dailymirrorlk | 1,933
 adaderanasinhalalk | 2,002
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,676 (100.0%) of 12,677 articles have been extended.
+12,677 (100.0%) of 12,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### திடீரென பற்றி எரிந்த மோட்டார் சைக்கிள்
+
+*2024-03-13 18:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பற்றி-எரிந்த-மோட்டார்-சைக்கிள்/175-334618) · `ta`
+
+கண்டி - வத்தேகம நகரில் அமைந்துள்ள வாகனங்கள் பழுதுபார்க்கும் தனியார் நிலையமொன்றில் பழுதுபார்ப்பதற்காக நிறுத்தப்பட்டிருந்த மோட்டார் சைக்கிளொன்று திடீரென தீப்பற்றி எரிந்தது.
+
+இடைநடுவின் செயலிழந்த மோட்டார் சைக்கிளை பழுது பார்க்க வந்தவர்கள் குறிப்பிட்ட நிலையத்தில் நிறுத்தி வைத்து அதனை இயக்க முற்பட்டபோதே இச்சம்பவம் நிகழ்ந்துள்ளது. R
+
+◼️
+
+[Data](articles/4a23a3ed.json)
+
+---
 
 ### Govt to gradually allow essential vehicle imports starting next year - President
 
@@ -69,6 +83,8 @@ Emphasizing photographs, it offers a fresh perspective on her impactful legacy.
 ...
 
 [Data](articles/e9629765.json)
+
+[Extended Data](ext_articles/e9629765.ext.json)
 
 ---
 
@@ -123,6 +139,24 @@ Deputy Solicitor General Nirmalan Wigneswaran appeared for the respondents befor
 [Data](articles/53050420.json)
 
 [Extended Data](ext_articles/53050420.ext.json)
+
+---
+
+### පොලිස්පතිගේ සහතිකය
+
+*2024-03-13 17:46:37* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-සහතිකය/11-408591) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ මේ වනවිට පාතාල ක්‍රියාකාරීන්ගේ නිවැරදි තොරතුරු රැස්කර හමාර බවත් ඒ අනුව ඒ හැමදෙනාම නීතියේ රැහැනට කොටුකර ගන්නා බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද (13) පිටිගල හොරන්ගල්ලේදී පැවසීය.
+
+ඉදිරියේදී මේ වගේ අවාසනාවන්ත ඝාතන සිද්ධීන් දකුණු පළාතේ ඇතිවන්න ඉඩ නොතබන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පිටිගල හොරොන්ගල්ල වෙලද සලක් තුළට ඩේටා කාඩ් එකක් ගන්න ගොස් නාදුනන තුවක්කුකරුවන්ගේ වෙඩි පහරට ලක්ව මිය ගිය විසිහය හැවිරිදි  කවීෂ අංජනගේ මෘත දේහයට ගෞරව දැක්වීමට පැමිණීමෙන් අනතුරුව මාධයයට අදහස් දක්වමින් අද (13) කීවේය.
+
+පිටිගල හොරන්ගල්ල වෙලද සලට බඩු ගන්න පැමිණි අහිංසකයින් දෙදෙනෙකු බිලිගෙන තවත් තිදෙනෙකු තුවාල ලැබීමට සැලැස්වූ නාදුනන තුවක්කුකරුවන් ළගදීම නීතියේ රැහැනට කොටුකර ගන්නා බවද පැවසූ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ඉදිරියේදී මෙවැනි වෙඩි තැබීම් සිදු නොවන ආකාරයට වග බලා ගන්නා බවද කීය.
+
+විදේශගතව සිටින පාතාල කණ්ඩායම් හදුනාගෙන ඇති බවත් ඔවුනගේ මෙරට  නියෝජිතයින්ද හදුනාගෙන ඇති බවද දේශබන්දු තෙන්නකෝන් මහතා මෙහිදී කීවේය.
+
+◼️
+
+[Data](articles/274fa0f6.json)
 
 ---
 
@@ -737,6 +771,26 @@ He said that the situation in the country would worsen the situation ahead and i
 [Data](articles/3155d190.json)
 
 [Extended Data](ext_articles/3155d190.ext.json)
+
+---
+
+### හිටපු ජනාධිපති ගෝඨාභයගේ පොත ගැන සැකයක් පවතින බව අභයතිස්ස හිමියෝ පවසති
+
+*2024-03-13 15:54:06* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-ගෝඨාභයගේ-පොත-ගැන-සැකයක්-පවතින-බව-අභයතිස්ස-හිමියෝ-පවසති/11-408590) · `si`
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා එතුමා තනතුරෙන් නෙරපු ආකාරය පිළිබඳ පොතක් ලියා තිබෙන බවත් එහෙත් එම පොත ලියා ඇත්තේ ඔහු පැන්නු සැබෑ කුමන්ත්‍රණකරුවන් හඳුනාගෙන ද යන්න පිළිබඳව සැකයක් පවතින බව
+
+මහාචාර්ය පූජ්‍ය මැදගොඩ අභයතිස්ස හිමියෝ පවසති. මහාචාර්ය පූජ්‍ය මැදගොඩ අභයතිස්ස හිමියන්  මහනුවරදී මාධ්‍ය හමුවේ අදහස් දක්වමින් වැඩිදුරටත් අවධාරණය කර සිටියේ එම කුමන්ත්‍රණය සඳහා පසුබිම සකස් කර ගනු ලැබුයේ ඔවුන් විසින්ම බවයි .
+
+මහජනතාවගේ හඬට කන් නොදීම කුමන්ත්‍රණයට හේතුවක් වූ බවත් එහි සැබෑ කුමන්ත්‍රණකරුවන් අදටත් ඔවුන්ගේ ඔඩොක්කුවේ සිටින ඔවුන්ගේම පවුලේ අය බවත් පොත් ලිවීමට පෙර එය නිසියාකාරව වටහාගත යුතු බවද අභයතිස්ස හිමියෝ පැවසීය .
+
+එම ජනවරම ගෝඨාභය රාජපක්ෂ මහතාට ලබා දෙනු ලැබූයේ රනිල් එළවීමට බවත් එසේ ලබාදුන් ජනවරම ජනතා අපේක්ෂාවන්ට විරුද්ධව පාවිච්චි කරනවා නම් ඒ අය රටේ ජනතාවට වගකිව යුතුව තිබෙන බවද උන්වහන්සේ පැවසීය .
+
+අපට රට වැදගත්වුවද දේශපාලකයන්ට රට වැදගත් නොවන බවත් ඔවුන් බලයට පත් වූ දා සිට තමන්ට බලයට ඒමට උදව් කළ මැති ඇමතිවරුන්ට හිතවතුන්ට වරප්‍රසාද වරදාන ලබාදෙමින් ඊළඟ මැතිවරණයට ඔවුන්ගේ සහය ලබා ගැනීම
+
+...
+
+[Data](articles/c53f6c5a.json)
 
 ---
 
@@ -2399,65 +2453,5 @@ Citing positive economic trends, he asserted the US was “in the middle of a co
 [Data](articles/72fe5ab0.json)
 
 [Extended Data](ext_articles/72fe5ab0.ext.json)
-
----
-
-### IMF should call on Sri Lanka to abandon proposed NGO law, says HRW
-
-*2024-03-13 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-should-call-on-Sri-Lanka-to-abandon-proposed-NGO-law-says-HRW/108-278758) · `en`
-
-March 13 (Daily Mirror) - The International Monetary Fund (IMF) should urge Sri Lanka’s government to abandon the proposed Non-Governmental Organizations (Registration and Supervision) Act, impose a moratorium on the use of the Online Safety Act, and amend the Anti-Terrorism Bill to ensure that it respects human rights standards, Human Rights Watch (HRW) said.
-
-The IMF should urge Sri Lanka’s government to abandon draft legislation that would severely curtail civil society and jeopardize the IMF’s programme in the country, HRW said in a letter to the IMF that was released today.
-
-The proposed Non-Governmental Organizations (Registration and Supervision) Act is among several recent and planned measures that would curtail fundamental freedoms, despite the critical role of public scrutiny in promoting good governance and combatting corruption.
-
-...
-
-[Data](articles/67f09fc1.json)
-
-[Extended Data](ext_articles/67f09fc1.ext.json)
-
----
-
-### Pakistan President abandons salary
-
-*2024-03-13 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194448) · `si`
-
-Pakistan's President Asif Ali Zardari and Minister Mohamzin Nawki have decided to forego their salaries to encourage financial management amid economic challenges.
-
-🟩
-
-Pakistan President Asif Ali Zardri has decided to leave his salary due to economic challenges facing the country.
-
-The Presidential Secretariat was issued by the Presidential Secretariat that he had taken this decision to encourage the country's financial management.
-
-The President said that it was necessary to be burdened by the Pakistan Treasury.
-
-Mohamzin Nawki, Minister Mohamzin Nawki, has decided not to receive a salary during his tenure as a support.
-
-◼️
-
-[Data](articles/5dadffa2.json)
-
-[Extended Data](ext_articles/5dadffa2.ext.json)
-
----
-
-### Rajiv Gandhi assassination case convicts to visit Sri Lankan Deputy HC today
-
-*2024-03-13 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97913/rajiv-gandhi-assassination-case-convicts-to-visit-sri-lankan-deputy-hc-today) · `en`
-
-The District Collector of Tiruchirappalli (Tiruchi), India on Tuesday informed the Madras High Court of having fixed an appointment with the Sri Lankan Deputy High Commission in Chennai for former Prime Minister Rajiv Gandhi assassination case convicts Murugan alias Sriharan, Robert Payas and Jayakumar.
-
-Appearing before a Division Bench of Justices R. Suresh Kumar and K. Kumaresh Babu, Additional Public Prosecutor R. Muniyapparaj said all the three released convicts hailed from Sri Lanka and therefore they required travel documents from the Deputy High Commission.
-
-Since they were now detained at a foreigners’ detention camp in Tiruchi, the Collector had written to the Deputy High Commission on Monday, March 11, requesting an appointment for all three of them, and had received a reply on the same day to produce them on Wednesday afternoon.
-
-...
-
-[Data](articles/b0fc4917.json)
-
-[Extended Data](ext_articles/b0fc4917.ext.json)
 
 ---

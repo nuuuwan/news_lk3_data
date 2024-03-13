@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 21:17:46**
+As of **2024-03-13 21:33:36**
 
 ## Newspaper Stats
 
-*Scraped **12,694** Articles*
+*Scraped **12,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,088
-adaderanalk | 1,531
+adalk | 1,089
+adaderanalk | 1,532
 tamilmirrorlk | 1,548
 virakesarilk | 1,765
 dailymirrorlk | 1,935
@@ -26,23 +26,45 @@ adaderanasinhalalk | 2,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,690 (100.0%) of 12,694 articles have been extended.
+12,694 (100.0%) of 12,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### වෛද්‍ය තුසිත සුදර්ශන අත්අඩංගුවට
+### US House passes bill to force ByteDance to divest TikTok or face ban
+
+*2024-03-13 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97932/us-house-passes-bill-to-force-bytedance-to-divest-tiktok-or-face-ban) · `en`
+
+The U.S. House of Representatives overwhelmingly passed a bill on Wednesday that would give TikTok’s Chinese owner ByteDance about six months to divest the U.S. assets of the short-video app used by about 170 million Americans or face a ban.
+
+The bill passed 352-65, with bipartisan support, but it faces a more uncertain path in the Senate where some favor a different approach to regulating foreign-owned apps that could pose security concerns. Democratic Senate Majority Leader Chuck Schumer has not indicated how he plans to proceed.
+
+TikTok’s fate has become a major issue in Washington. Democratic and Republican lawmakers said their offices had received large volumes of calls from teenaged TikTok users who oppose the legislation, with the volume of complaints at times exceeding the number of calls seeking a ceasefire between Israel and Hamas in Gaza.
+
+...
+
+[Data](articles/5df466c5.json)
+
+---
+
+### Dr. Thusitha arrested
 
 *2024-03-13 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194478) · `si`
 
-වෛද්‍ය සැපයුම් අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය තුසිත සුදර්ශන මහතා ව අත්අඩංගුවට ගෙන තිබේ.
+Dr. Thusitha Sudarshana, Deputy Director of Medical Supplies, arrested at Katunayake Airport by CID officials.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් ඔහු මෙරටට පැමිණෙන විට කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබුණි.
+🟩
+
+Deputy Director of the Medical Supplies Division Dr. Thusitha Sudarshana has been arrested.
+
+He was arrested at the Katunayake Airport when he arrived in the CID officials.
 
 ◼️
 
 [Data](articles/5685897d.json)
+
+[Extended Data](ext_articles/5685897d.ext.json)
 
 ---
 
@@ -57,6 +79,8 @@ Police Media Spokesman DIG Nihala Thalduwa said the arrest was carried out in co
 ◼️
 
 [Data](articles/0bf8c1ad.json)
+
+[Extended Data](ext_articles/0bf8c1ad.ext.json)
 
 ---
 
@@ -75,6 +99,8 @@ indictment against eight accused before the Colombo High Court, charging them on
 ...
 
 [Data](articles/026851ba.json)
+
+[Extended Data](ext_articles/026851ba.ext.json)
 
 ---
 
@@ -168,6 +194,8 @@ The Minister further said that Microsoft Corporation is working together with th
 
 [Data](articles/69a30b2e.json)
 
+[Extended Data](ext_articles/69a30b2e.ext.json)
+
 ---
 
 ### A body of a rubber estate
@@ -239,6 +267,24 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 [Data](articles/68e00ef2.json)
 
 [Extended Data](ext_articles/68e00ef2.ext.json)
+
+---
+
+### මහා පරිමාණ හෙරොයින් ජාවාරමක තොරතුරු එළියට
+
+*2024-03-13 19:04:46* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-හෙරොයින්-ජාවාරමක-තොරතුරු-එළියට/11-408595) · `si`
+
+මහනුවර පොලිස් ස්ථානයට අනුබද්ධිත බහිරව කන්දේ පිහිටි පොලිස් පරීක්ෂකවරුන්ගේ භෝජනාගාරයේ සේවයේ නිරතව සිටි කම්කරුවෙකු හෙරොයින් මත්කුඩු සමග අත්අඩංගුවට ගෙන සිදුකළ පුළුල් විමර්ශනයකදී මෙරට ක්‍රියාත්මක මහා පරිමාණ කුඩු ජාවාරමක සුල මුල හෙළිවෙමින් තිබෙන බව පොලීසිය කියයි .
+
+මහනුවර බහිරවකන්දේ පිහිටි පොලිස් පරීක්ෂකවරුන්ගේ භෝජනාගාරයේ කම්කරුවෙකු වශයෙන් සේවය කළ එම පුද්ගලයා හෙරොයින් මත්කුඩු ග්‍රෑම් 02ක් සමග අත්අඩංගුවට ගැනීමෙන් පසු ඔහු එම හෙරොයින් මත්කුඩු මිලදී ගැනීම සඳහා මුදල් තැන්පත් කළ බව කියන බැංකු ගිණුම උසාවි නියෝගයක් මත පරීක්ෂා කිරීමේදී එම මත්කුඩු ජාලයේ තොරතුරු හෙළි වෙමින් තිබේ.
+
+අදාල බැංකු ගිණුමේ රුපියල් හයකෝටි දාහත් ලක්ෂයක (617,00000.00) මුදලක් සංසරණය වී ඇති බවට අනාවරණය වීමෙන් පසු මහනුවරින් ගිය විශේෂ පොලිස් කණ්‌ඩායමක් විසින් ඔහු අත්අඩංගුවට ගෙන තිබේ .
+
+කොළඹ ප්‍රධාන පෙළේ පාසලක අධ්‍යාපනය හදාරා ඇති පිළියන්දල ප්‍රදේශයේ පදිංචි 28 හැවිරිදි එම සැකකරු රඳවා ගැනීමේ නියෝග මත ප්‍රශ්න කරන බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/81a1e6e5.json)
 
 ---
 
@@ -2419,61 +2465,5 @@ In the letter, the letter is given on how to plan the daily activities of all sc
 [Data](articles/e07f0610.json)
 
 [Extended Data](ext_articles/e07f0610.ext.json)
-
----
-
-### Provincial schools under the government?
-
-*2024-03-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-கீழ்-மாகாண-பாடசாலைகள்/175-334596) · `ta`
-
-Education Minister Susil Premajayantha announced that provincial council schools will be managed by the Central Government, moving away from provincial council management.
-
-🟩
-
-National schools are managed under the Central Government and Provincial Schools under the Provincial Council.
-
-Education Minister Susil Premajayantha has announced that the provincial council schools will be brought under the government.
-
-He said this while responding to questions raised by journalists after an event in Colombo yesterday. Remble
-
-◼️
-
-[Data](articles/1802afcb.json)
-
-[Extended Data](ext_articles/1802afcb.ext.json)
-
----
-
-### The kilpect of the young man of Alpiti
-
-*2024-03-13 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194449) · `si`
-
-Sudesh Priyankara, arrested for the murder of a 17-year-old girl in Elpitiya, claims the victim was in a relationship with another man. The suspect, remanded until the 21st, was produced in court. Meanwhile, a brother-in-law was abducted and killed by Hansika Nadeeshani, who had a relationship with the sister.
-
-🟩
-
-The main suspect in connection with the assassination of a 17 girl in the Elpitiya area has been arrested.
-
-The suspect was arrested yesterday and was arrested, a man named Sudesh Priyankara, the deceased.
-
-When the police were interrogated by the police, he said that the murdered girl had been involved in a relationship with another person.
-
-The police had then produced the suspect to the Elpitiya Magistrate's Court and the Supreme Magistrate has been remanded until the 21st of the suspect.
-
-A 17-year-old girl was found in a tea estate in the Elpitiya Talawa.
-
-The brother-in-law was abducted and killed by Hansika Nadeeshani, Karandeniya, Karandeniya.
-
-Her sister had resided in the Mannar area, Elpitiya and Hansika had gone to the house for a month and a half before her two children.
-
-In the meantime, she had a close relationship with the husband of the sister.
-
-Hanii's father says his son-in-law was forcibly taken to his house on February 23.
-
-...
-
-[Data](articles/757550d0.json)
-
-[Extended Data](ext_articles/757550d0.ext.json)
 
 ---

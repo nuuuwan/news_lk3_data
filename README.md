@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 07:17:09**
+As of **2024-03-13 07:39:44**
 
 ## Newspaper Stats
 
-*Scraped **12,532** Articles*
+*Scraped **12,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,60 @@ economynextcom | 666
 islandlk | 685
 adalk | 1,070
 adaderanalk | 1,509
-tamilmirrorlk | 1,519
+tamilmirrorlk | 1,521
 virakesarilk | 1,741
 dailymirrorlk | 1,907
-adaderanasinhalalk | 1,974
+adaderanasinhalalk | 1,975
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,531 (100.0%) of 12,532 articles have been extended.
+12,532 (100.0%) of 12,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### අලුත්ම කාලගුණ නිවේදනය
+### හෝටල් කාමරයක් තුළ කාන්තාවක්ව ඝාතනය කෙරේ - සැකකරු ගෙල වැලලාගෙන
+
+*2024-03-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194442) · `si`
+
+කාන්තාවක්ට තියුණු ආයුධයකින් පහර දී ඝාතනය කර සැකකරුත් ගෙල වැලලාගෙන මියයෑමේ පුවතක් පොතුවිල් ප්‍රදේශයෙන් වාර්තා වේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කළේ, ඊයේ (12) පොතුවිල් පොලිස් වසමේ ආරුගම්බේ ප්‍රදේශයේ හෝටලයක කාමරයක නවාතැන් ගෙන සිටි කාන්තාවක් එලෙස ඝාතනය වී ඇති බවය.
+
+මියගිය කාන්තාව පුද්ගලයෙකු සමග හෝටලයේ කාමරයක නවාතැන් ගැනීම සඳහා පැමිණ ඇති අතර, කාමරය විවෘත නොකිරීම පිළිබඳව සැක සිතී කළමනාකරු විසින් ආරුගම්බේ පොලිස් මුරපොලේ නිලධාරීන්ට දන්වා ඔවුන් සමග කාමරයෙහි දොර කඩා විවෘත කර ඇත.
+
+එහිදී කාන්තාවක් කාමරයේ ලේ තැවරී මියගොස් සිටි බවත් කාමරයට යාබඳව ඇති නාන කාමරය තුළ සැකකරු ගෙල වැලලාගෙන ඇති බවත් නිරීක්ෂණය වී ඇත.
+
+එලෙස ගෙල වැලලාගෙන මියගොස් ඇත්තේ  51 හැවිරිදි පොතුවිල් ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/d3ca14de.json)
+
+---
+
+### The latest weather notification
 
 *2024-03-13 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194441) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers expected in Western and Sabaragamuwa Province, Galle, and Matara districts. Major dry weather elsewhere.
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara districts.
+
+The Department of Meteorology announces that there is a major dry weather in other parts of the island.
+
+In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
 
 ◼️
 
 [Data](articles/3619652f.json)
+
+[Extended Data](ext_articles/3619652f.ext.json)
 
 ---
 
@@ -331,6 +357,38 @@ Imtiaz, a 30 -year -old young man from Ottamavadi - Nawaladi area, has been kill
 [Data](articles/2b15c132.json)
 
 [Extended Data](ext_articles/2b15c132.ext.json)
+
+---
+
+### இலங்கை - இந்திய அதிகாரிகள் கலந்துரையாடல்
+
+*2024-03-13 02:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-அதிகாரிகள்-கலந்துரையாடல்/175-334586) · `ta`
+
+இந்தியாவின் மீள்புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சின் செயலாளர் ஸ்ரீ புபிந்தர் சிங் பல்லாவின் தலைமையிலான  தூதுக்குழுவினர் இலங்கைக்கு வருகை தந்துள்ளனர்.
+
+நாட்டில் உள்ள மீள்புதுப்பிக்கத்தக்க முதலீடுகளுக்கான வாய்ப்புகள் தொடர்பில்  இந்திய ஆய்வாளர்களுக்கும் இலங்கையின் அதிகாரிகளுக்கும் இடையே கலந்துரையாடல்கள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+மின்சக்தி , எரிசக்தி அமைச்சில் நேற்று காலை இடம்பெற்ற தூதுக்குழுவினருடனான சந்திப்பின் போது, இரு நாடுகளுக்கும் இடையிலான மீள்புதுப்பிக்கத்தக்க எரிசக்தி ஒத்துழைப்பு, புதிய திட்டங்களை ஆரம்பிப்பதற்கான சாத்தியக்கூறுகள், தொழில்நுட்ப பரிமாற்றங்கள், முதலீட்டு வாய்ப்புகள், அரசாங்க கொள்கைகள் குறித்து கலந்துரையாடப்பட்டது. (a)
+
+◼️
+
+[Data](articles/27d2eab5.json)
+
+---
+
+### வெப்பமான வானிலை அதிகரிக்கும்
+
+*2024-03-13 02:13:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பமான-வானிலை-அதிகரிக்கும்/175-334585) · `ta`
+
+நாட்டின் பல பகுதிகளில் வெப்பத்தின் அளவு தொடர்ந்தும் அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், வடமேல், சப்ரகமுவ, தென் மாகாணங்களிலும் அனுராதபுரம், மன்னார், திருகோணமலை, மட்டக்களப்பு மாவட்டங்களிலும் மனித உடல் அதிகளவில் உணரக்கூடிய வகையில், உஷ்ணத்தின் அளவு அதிகரிக்குமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இந்த விடயம் தொடர்பில் மேற்படி பகுதிகளில் வசிக்கும் மக்கள் விசேட அவதானம் செலுத்த வேண்டுமென வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/f96ff4ae.json)
 
 ---
 
@@ -2191,81 +2249,5 @@ In this case, the health workers at the hospital informed the doctor by telephon
 [Data](articles/cd560e00.json)
 
 [Extended Data](ext_articles/cd560e00.ext.json)
-
----
-
-### Two killed in the concert at the premises of the Lotus Tower
-
-*2024-03-12 16:34:19* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුණ-පරිශ්‍රයේ-ප්‍රසංගයේ-මත්පැන්-පානය-කළ-දෙදෙනෙක්-මරුට/11-408568) · `si`
-
-Two individuals died at a concert at Lotus Tower. A 27-year-old woman and a 24-old man were found intoxicated. The Maradana Police are investigating.
-
-🟩
-
-The Maradana Police say open decisions have been made to the Colombo National Hospital during a concert held at the Lotus Tower premises.
-
-The deceased was a 27 year old girl, Athiyawa, a resident of the Adiya Path of Dehiwala and a resident of the Atule of Dehiwala.
-
-A police officer also said that about ten persons were recorded in the death of the death.. Police investigations have revealed that a ticket of the concert held at the Lelum Tower premises on the 7th.
-
-The girl who died around 4 am was sick and died on admission to the Colombo National Hospital. The 24-year-old youth was also ill and died on the following day after hospital.
-
-Investigations have revealed that the deceased has been drunk, police said
-
-The Kallaga Kanda Magistrate at the Magistrate's Court Magistrate was ordered to conduct post mortem examination and submitting the report on the occasion.
-
-...
-
-[Data](articles/05fba413.json)
-
-[Extended Data](ext_articles/05fba413.ext.json)
-
----
-
-### The Chamika is called to the ODI squad - no residents
-
-*2024-03-12 16:32:20* · [`adalk`](https://www.ada.lk/breaking_news/චාමික-එක්දින-කණ්ඩායමට-කැඳ﻿වයි---ණුවන්-හා-මතීෂට-ස්ථාන-නෑ/11-408567) · `si`
-
-Sri Lanka's ODI squad for the 3-match series against Bangladesh includes Chamika Karunaratne, Visit Pathirana, Nuwan Thushara, Sahan Arachchige, Duti Vellai, Janith Liyanage, Kirith Mendis, Vice Leader, Gone Reserved, Akila Warakanka, Dilshan Madushanka, Pramod Madushan, and Lahiru Kumara.
-
-🟩
-
-Sri Lanka squad for the three-match series against Bangladesh have been named. There are several changes in this pool and the three posture players Chamika Karunaratne has been summoned to the group.
-
-However, fast bowler, Visit Pathirana and Nuwan Thushara Team. Sahan Arachchige, Duti Vellai and Janith Liyanage have been summoned.
-
-Sri Lanka squad - Kirith Mendis, Vice Leader, Gone Reserved, Akila Warakanka, Chamika Karunaratne, Dilshan Madushanka, Pramod Madushan, Lahiru Kumara
-
-◼️
-
-[Data](articles/acc86f08.json)
-
-[Extended Data](ext_articles/acc86f08.ext.json)
-
----
-
-### Sri Lanka stocks close up, high net worth and retail interest improving
-
-*2024-03-12 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-high-net-worth-and-retail-interest-improving-154363/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, on a continuous run, data on its site showed.
-
-Turnover was at 1.4 billion. This was mainly from high net worth and retail interest.
-
-“The market opened down, and there was some selling pressure initially, but by mid-day buying interest had returned,” market participants said.
-
-The broader All Share Index closed up 0.45 percent, or 50.37 points, at 11,175; while the S&P SL20 Index closed up 0.20 percent, or 6.28 points, at 3,181.
-
-The food, beverage and tobacco sector contributed 371 million to the day’s turnover. Other sectors that attracted interest were diversified financials (217mn), banks (209mn), and capital goods (201mn).
-
-“There was buying in the banking sector. Funds flowing into banking and conglomerate shares.”
-
-Sampath Bank Plc (33mn) up at 76.00, Commercial Bank of Ceylon Plc (16mn) closed flat at 94.00, Pan Asia Banking Corporation Plc (55mn) up at 20.10, Hatton National Bank Plc (46m) up at 160.00.
-
-...
-
-[Data](articles/5896b0cd.json)
-
-[Extended Data](ext_articles/5896b0cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 18:33:22**
+As of **2024-03-13 18:51:02**
 
 ## Newspaper Stats
 
-*Scraped **12,676** Articles*
+*Scraped **12,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,084
 adaderanalk | 1,529
 tamilmirrorlk | 1,545
 virakesarilk | 1,765
-dailymirrorlk | 1,932
+dailymirrorlk | 1,933
 adaderanasinhalalk | 2,002
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,675 (100.0%) of 12,676 articles have been extended.
+12,676 (100.0%) of 12,677 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,28 @@ The President made these remarks during his presence in a convivial gathering or
 ...
 
 [Data](articles/72211f83.json)
+
+[Extended Data](ext_articles/72211f83.ext.json)
+
+---
+
+### Second edition of ‘SIRIMAVO - Steering the Destiny of a Nation’ published
+
+*2024-03-13 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Second-edition-of-SIRIMAVO-Steering-the-Destiny-of-a-Nation-published/108-278787) · `en`
+
+The Bandaranaike Museum Committee has taken step to publish the second limited edition of the Pictorial Biography; ‘SIRIMAVO - Steering the Destiny of a Nation’ in collaboration with the Sarasavi Bookshop and it is now available for sale, the Bandaranaike Museum Committee said.
+
+It said the book was published due to various request from the public here and abroad.
+
+The first edition of this book showcasing rare archival photographs depicting the remarkable public life of Mrs. Sirimavo Bandaranaike, who made history in July 1960 as the world’s first woman Prime Minister, was released in March 2022 as a limited publication, and was sold out within few months, the Committee said in a statement.
+
+This coffee table book, ‘SIRIMAVO- Steering the Destiny of a Nation’ presents the remarkable story of Sirimavo Bandaranaike, an extraordinary Prime Minister who pioneered new paths in both national and international arenas.
+
+Emphasizing photographs, it offers a fresh perspective on her impactful legacy.
+
+...
+
+[Data](articles/e9629765.json)
 
 ---
 
@@ -2437,25 +2459,5 @@ Since they were now detained at a foreigners’ detention camp in Tiruchi, the C
 [Data](articles/b0fc4917.json)
 
 [Extended Data](ext_articles/b0fc4917.ext.json)
-
----
-
-### Youth injured in gunfire in Jaffna
-
-*2024-03-13 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178587) · `ta`
-
-An Indian gun exploded in Jaffna, injuring one person. The victim was admitted to Jaffna Teaching Hospital for treatment, and police are investigating.
-
-🟩
-
-One person was injured when an Idian gun exploded on Tuesday (12) in the Jaffna Mirusuwil area.
-
-The injured have been admitted to the Jaffna Teaching Hospital for treatment, and police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/b3ba714a.json)
-
-[Extended Data](ext_articles/b3ba714a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 16:50:01**
+As of **2024-03-13 17:03:12**
 
 ## Newspaper Stats
 
-*Scraped **12,659** Articles*
+*Scraped **12,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,87 @@ adaderanalk | 1,527
 tamilmirrorlk | 1,544
 virakesarilk | 1,763
 dailymirrorlk | 1,929
-adaderanasinhalalk | 1,995
+adaderanasinhalalk | 1,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,651 (99.9%) of 12,659 articles have been extended.
+12,659 (100.0%) of 12,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
+### දැරියක් අපයෝජනය කළ පුද්ගලයෙකුට දුන් දඬුවම
+
+*2024-03-13 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194464) · `si`
+
+බාලයවයස්කාර දැරියක් අපයෝජනය කිරීමේ චෝදනාවකට වරදකරු වූ පුද්ගලයෙකුට නුවරඑළිය මහාධිකරණය වසර 10ක බරපතළ සිරදඬුවම් නියම කර තිබේ.
+
+මෙලෙස සිර දඬුවම් නියම කර ඇත්තේ 52 හවිරිදී වියේ පසුවන නානුඔය ප්‍රදේශයේ පදිංචිකරුවෙකුටය.
+
+සැකකරු අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් පසුව නුවරඑළිය මහාධිකරණ විනිසුරු විරාජ් වීරසූරිය මහතා මෙම නියෝගය ලබාදී තිබුණි.
+
+සැකකරු විසින් අතවර කළ බවට එම දැරියගේ මව්පියන් විසින් 2011 වර්ෂයේ දී නානුඔය පොලීසිය වෙත පැමිණිලි කර තිබුණි.
+
+සිය නියෝගය ලබාදෙමින් විනිසුරුවරයා සැකකරුට නියෝග කළේ වින්දිත එවකට පාසල් දැරියට රුපියල් ලක්ෂ 5ක වන්දි මුදලක් ගෙවන ලෙසටය.
+
+එම මුදල නොගෙවන්නේ නම් සැකකරුට වසර 3ක අමතර සිර දඬුවමක් ද නියම කළේය.
+
+එසේම අධිකරණය වෙත රුපියල් 15,000ක දඩයක් ගෙවන ලෙසට නියෝග කළ අධිකරණය එය නොගෙවන්නේ නම් අමතරව මාස 03ක සිර දඬුවමක් ද චූදිතයාට නියම කළේය.
+
+වසර 13 තිස්සේ විභාග වෙමින් තිබූ නඩුවේ විත්තිකරුට එරෙහිව ලැබී තිබූ සාක්ෂි සලකා බලා අධිකරණය මෙම නියෝගය ලබාදුන්නේය.
+
+◼️
+
+[Data](articles/91df4bbf.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-03-13 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178651) · `ta`
 
-இன்று புதன்கிழமை (மார்ச் 13) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 301.7622 ஆகவும் விற்பனை விலை ரூபா 311.0041ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's purchase price was Rs 301.7622, and the sales price was Rs 311.0041, as per the Central Bank's Wednesday (March 13) release.
+
+🟩
+
+The US dollar purchasing price was Rs 301.7622 and the sales price were 311.0041 based on the currency exchange rate released by the Central Bank on Wednesday (March 13).
 
 ◼️
 
 [Data](articles/a933936a.json)
 
+[Extended Data](ext_articles/a933936a.ext.json)
+
 ---
 
-### කැනඩා මහ කොමසාරිස් සහ අනුර කුමාර අතර හමුවක්
+### Kegalle High Commissioner and Anura Kumara
 
 *2024-03-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194463) · `si`
 
-ශ්‍රී ලංකාවේ කැනඩා මහ කොමසාරිස් එරික් වොල්ෂ් සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් සිදු විය.
+Canada's High Commissioner met with Sri Lankan leader Anura Kumara Dissanayake, discussing social, economic, and political issues. Patrick Pickering, the Canadian High Commission's Political Secretary, and National Power's Polick Pickering participated. The meeting aimed to build national unity and congratulate Sri Lankans in Canada.
 
-මෙම හමුව සඳහා ශ්‍රී ලංකාවේ කැනඩා මහ කොමසාරිස් කාර්යාලයේ දෙවැනි ලේකම් (දේශපාලන) පැට්‍රික් පිකරින්,  (Patrick Pickering) ජාතික ජන බලවේගයේ ජාතික විධායක සභික විජිත හේරත් මහතා ද එක්වී තිබේ.
+🟩
 
-මෙම හමුවේදී මේ වනවිට ශ්‍රී ලංකාවේ පවතින සමාජ ආර්ථික හා දේශපාලන තත්ත්වය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡාවට බඳුන් වී ඇත.
+High Commissioner of Canada, Sri Lanka, met with leader Anura Kumara Dissanayake.
 
-ජාතික සමගිය ගොඩනැගීම වෙනුවෙන් ජාතික ජන බලවේගයේ සැලසුම් පිළිබඳවද දෙපාර්ශ්වය අතර අදහස් හුවමාරු වී තිබේ.
+The second Secretary of the Canadian High Commission in Sri Lanka (Political) Patrick pickering, the National Executive Member of the National Power (Polick Pickering) has also joined the national proposal.
 
-කැනඩාවේ වෙසෙන ශ්‍රී ලාංකිකයින් හමුවීම සඳහා අනුර කුමාර දිසානායක මහතාගේ ඉදිරි කැනඩා සංචාරයට සුබ පැතීමටද මහ කොමසාරිස්වරයා මෙහිදී කටයුතු කර තිබූ බව ජාතික ජන බලවේගයය පවසයි.
+At the meeting, the meeting has been discussed at length on the social economic and political situation in Sri Lanka.
 
-ජනතා විමුක්ති පෙරමුණ ප්‍රධාන කාර්යාලයේදී අද (13) පෙරවරුවේ මෙම හමුව සිදුවී ඇත.
+Comments have been exchanged between the two parties to build national unity.
+
+The national folk force has also stated that the High Commissioner had to congratulate Sri Lankans living in Canada.
+
+The meeting has taken place this morning at the JVP's Head Office.
 
 ◼️
 
 [Data](articles/12ac5e1d.json)
+
+[Extended Data](ext_articles/12ac5e1d.ext.json)
 
 ---
 
@@ -82,23 +120,31 @@ Prior to assuming the role of Director General of Civil Aviation, AVM H.M.S.K.B.
 
 [Data](articles/416fa9c1.json)
 
+[Extended Data](ext_articles/416fa9c1.ext.json)
+
 ---
 
-### මහ බැංකුවේ පඩි කපන යෝජනාව භාරදෙයි
+### The Leading Motion for the Central Bank
 
 *2024-03-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194462) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රි උදය ගම්මන්පිල මහතා විසින් ගෙනඑනු ලබන පෞද්ගලික මන්ත්‍රී යෝජනාව අද (13) පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් හංස අබේරත්න මහතා වෙත භාරදී තිබේ.
+MP Udaya Gammanpila submitted a motion to amend the Central Bank of Sri Lanka Act No 16 of 2033, aiming to increase salaries arbitrarily and gain Finance Minister approval. Acting Secretary General Hansitha Abeyratne highlighted the bill's national significance and the Attorney General's endorsement.
 
-මෙය 2023 අංක 16 දරණ ශ්‍රී ලංකා මහ බැංකු පනත සංශෝධනය කිරීම සඳහා ගෙන එයි.
+🟩
 
-මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කරගැනීම අවලංගු කිරීම සහ මහ බැංකුවේ සේවක වැටුප් වැඩි කිරීමේදී මුදල් අමාත්‍යවරයාගේ එකඟතාවය ලබාගැනීම අනිවාර්යය කිරීම මෙහි අරමුණු වෙයි.
+The private member of the MP Udaya Gammanpila has handed over to acting Secretary of Parliament today (13).
 
-මෙම පෞද්ගලික මන්ත්‍රී යෝජනාව භාර ගනිමින් පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් හංස අබේරත්න මහතා ප්‍රකාශ කර ඇත්තේ ජාතික වැදගත්කමක් සේ සලකා නීතිපතිවරයාගේ මතය විමසීමට මෙම පනත් කෙටුම්පත කඩිනමින් ඉදිරිපත් කරන බවය.
+This brings amending the Central Bank of Sri Lanka Act No 16 of 2033.
+
+It is imperative to make the increase in arbitrary salary increase in the Central Bank and to obtain the agreement of the Minister of Finance.
+
+Acting Secretary General of Parliament Hansitha Abeyratne has said that this bill is being presented with the national state of the Parliament, as well as the official importance of the Attorney General.
 
 ◼️
 
 [Data](articles/2383401b.json)
+
+[Extended Data](ext_articles/2383401b.ext.json)
 
 ---
 
@@ -154,27 +200,33 @@ At the same time, the judge ruled that the victim should be paid a compensation 
 
 ---
 
-### අවසන් තීරණය එළියට ජය කාටද ?
+### Who won the final decision?
 
 *2024-03-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194461) · `si`
 
-ලබන නොවැම්බර් මාසයේදී පැවැත්වීමට නියමිත අමෙරිකානු ජනාධිපතිවරණයට අදාළ පක්ෂ ප්‍රාන්ත මැතිවරණ මේ දිනවල පැවැත්වෙයි.
+Joe Biden won the Georgia primary, while Donald Trump won the Washington State Primary. Both are confirmed for the national conferences.
 
-එහිදී ඩිමොක්‍රොටික් පක්ෂ ජනාධිපතිවරණ අපේක්ෂකත්වය දිනාගැනීමට වත්මන් ජනාධිපති ජෝ බයිඩන් සමත්ව තිබේ.
+🟩
 
-ඊයේ පැවති ජෝර්ජියා ප්‍රාථමික මැතිවරණය ඔහු ජයගැනීමත් සමඟින් ඔහුට ඒ සඳහා අවස්ථාව හිමිවිය.
+The party state elections will be held on the day to be held next November.
 
-එමෙන්ම රිපබ්ලිකන් පක්ෂ අපේක්ෂකත්වය දිනා ඇත්තේ එහි තනි ප්‍රධාන අපේක්ෂකයා වන හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්.
+The present president Joe Biden has won the Democotic parties candidate.
 
-ඒ ඔහු වොෂින්ටන් ප්‍රාන්ත ප්‍රාථමික මැතිවරණය ජයගනු ඇතැයි පවතින පුරෝකතන හේතුවෙනි .
+He was able to win the Georgia primary election yesterday.
 
-කෙසේ නමුත් ඔවුන්ගේ අපේක්ෂකත්වය නිල වශයෙන් තහවුරු වන්නේ ඉදිරියේ පැවැත්වීමට නියමිත එම පක්ෂවල ජාතික සම්මේලනවලදීයි.
+And the Reprikan partitioning candidacy has won former President Donald Trump.
 
-2019 අමෙරිකානු ජනාධිපතිවරණයට ඉදිරිපත්වූ අපේක්ෂකයින් දෙදෙනාම මෙවර ජනාධිපතිවරණය සඳහා සුදුසුකම් ලැබීම විශේෂ වන අතර, එවන් සිදුවීමක් වන්නේ වසර 70කට පමණ පසුවයි.
+It is because he is the prediction that he will win the Washington State Primary election.
+
+However, their candidate is officially confirmed in the national conferences of the national conferences.
+
+The 2019 Candidates who came to the US presidential election are eligible for the presidential election.
 
 ◼️
 
 [Data](articles/acc12b1b.json)
+
+[Extended Data](ext_articles/acc12b1b.ext.json)
 
 ---
 
@@ -204,23 +256,29 @@ However, the Minister promised that if the price of egg producers failed to redu
 
 ---
 
-### ”முட்டைக்கு விலைக் கட்டுப்பாடு ”
+### “Price control for egg”
 
 *2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு/175-334615) · `ta`
 
-எதிர்வரும் பண்டிகை காலத்தை முன்னிட்டு நியாயமான விலையில் முட்டைகளை வழங்கும் முயற்சியில், விலைக் கட்டுப்பாடு அமுல்படுத்தப்படவுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Agriculture Minister Mahinda Amaraweera announced price control for eggs to ensure fair pricing ahead of the festive season, following discussions with the All Ceylon Egg Producers Association. Egg manufacturers also expressed a desire for price reduction.
 
-விவசாய அமைச்சருக்கும் அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கப் பிரதிநிதிகளுக்கும் இடையில் இன்று (13) இடம்பெற்ற கலந்துரையாடலின் போதே இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-கலந்துரையாடலின் போது, ​​தற்போதுள்ள முட்டை விலைகள் பரிசீலனைக்கு எடுத்துக் கொள்ளப்பட்டு, தற்போது ரூ. 48 ஆக உள்ள விலையை மேலும் குறைக்க வேண்டியதன் அவசியத்தை வலியுறுத்தப்பட்டது
+Agriculture Minister Mahinda Amaraweera has said that the price restriction will be implemented in an effort to provide eggs at fair prices ahead of the festive season.
 
-முட்டை உற்பத்தியாளர்களும் விலை குறைவதை ஏற்கனவே அவதானித்துள்ளதால் விலையை குறைக்க விருப்பம் தெரிவித்துள்ளனர்.
+The matter was made during a discussion held today (13) between the Agriculture Minister and representatives of the All Ceylon Egg Producers Association.
 
-எவ்வாறாயினும், முட்டை உற்பத்தியாளர்கள் விலையை குறைக்கத் தவறினால் கட்டுப்பாட்டு விலை அமுல்படுத்தப்படும் என அமைச்சர் உறுதியளித்தார்.
+During the discussion, existing egg prices were taken up for review and currently Rs.. Emphasized the need to further reduce the price of 48
+
+Egg manufacturers have also expressed their desire to reduce the price as they have already observed the price.
+
+However, the Minister promised that if the price of egg producers failed to reduce the price, the control price would be implemented.
 
 ◼️
 
 [Data](articles/65bf0a73.json)
+
+[Extended Data](ext_articles/65bf0a73.ext.json)
 
 ---
 
@@ -282,6 +340,8 @@ The Sri Lankan nanny employed by her to look after the younger daughter was a 53
 
 [Data](articles/cf325041.json)
 
+[Extended Data](ext_articles/cf325041.ext.json)
+
 ---
 
 ### Minister warns of imposing price control on eggs
@@ -301,6 +361,8 @@ However, the Minister asserted that a controlled price would be imposed if the e
 ◼️
 
 [Data](articles/778afb4e.json)
+
+[Extended Data](ext_articles/778afb4e.ext.json)
 
 ---
 
@@ -2301,25 +2363,5 @@ Ironically, a 20 percent tax rate, which is standard tax in East Asian nations w
 [Data](articles/05305ca7.json)
 
 [Extended Data](ext_articles/05305ca7.ext.json)
-
----
-
-### Northern Province Chief Secretary L. Ilangovan
-
-*2024-03-13 08:12:06* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-පළාත්-නව-ප්‍රධාන-ලේකම්-එල්--ඉලංගෝවන්/11-408577) · `si`
-
-Mr. L. Ilangovan, appointed as the new Chief Secretary of the Northern Province by President Ranil Wickremesinghe, had previously served as the Secretary of the Northern Province.
-
-🟩
-
-L. As the new Chief Secretary of the Northern Province. Mr. Ilangoan has been appointed. The appointments have been made by President Ranil Wickremesinghe and the relevant appointment was handed over to him at the Presidential Secretariat yesterday.
-
-L. Mr. Ilangowan had also held the post of Secretary of the Northern Province as the Secretary to the Northern Province as the new Chief Secretary of the Northern Province.
-
-◼️
-
-[Data](articles/26a519ab.json)
-
-[Extended Data](ext_articles/26a519ab.ext.json)
 
 ---

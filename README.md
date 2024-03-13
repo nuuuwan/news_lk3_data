@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 21:52:19**
+As of **2024-03-13 22:11:55**
 
 ## Newspaper Stats
 
-*Scraped **12,696** Articles*
+*Scraped **12,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 669
 islandlk | 686
 adalk | 1,089
 adaderanalk | 1,532
-tamilmirrorlk | 1,548
+tamilmirrorlk | 1,549
 virakesarilk | 1,765
-dailymirrorlk | 1,935
-adaderanasinhalalk | 2,008
+dailymirrorlk | 1,936
+adaderanasinhalalk | 2,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,696 (100.0%) of 12,696 articles have been extended.
+12,698 (100.0%) of 12,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### Deputy Director of Medical Supplies Division arrested
+
+*2024-03-13 21:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deputy-Director-of-Medical-Supplies-Division-arrested/108-278795) · `en`
+
+Colombo, March 13 (daily Mirror)- Deputy Director of the Medical Supplies Division Dr. Thusitha Sudarshana has been arrested by the Crimial Investigation Department (CID).
+
+He has been arrested by the CID after recording a statement in connection with the import of substandard human Immunoglobulin injections.
+
+◼️
+
+[Data](articles/9c3bcc03.json)
+
+[Extended Data](ext_articles/9c3bcc03.ext.json)
+
+---
+
+### Bangladesh wins the leader's super attack
+
+*2024-03-13 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194479) · `si`
+
+Bangladesh defeats Sri Lanka in the first ODI by 6 wickets, thanks to Njjamal and Mushficer Rahimphas.
+
+🟩
+
+Bangladesh won the first ODI match against Sri Lanka by 6 wickets.
+
+The precious relationship with the leader Njjamal and Mushficer Rahimphas have helped to take Bangladesh to the victory.
+
+◼️
+
+[Data](articles/cfcc3e19.json)
+
+[Extended Data](ext_articles/cfcc3e19.ext.json)
+
+---
+
+### நாடு திரும்பிய வைத்தியர் திடீர் கைது
+
+*2024-03-13 21:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பிய-வைத்தியர்-திடீர்-கைது/175-334621) · `ta`
+
+சர்ச்சைக்குரிய ஹியுமன் இம்யூனோகுளோபுலின் ஊசி மருந்து சம்பவம் தொடர்பில் மருந்து விநியோகப்பிரிவின் பிரதிப் பணிப்பாளர் வைத்தியர் துஷித சுதர்சன கைது செய்யப்பட்டுள்ளார்.
+
+இலங்கை வந்தடைந்த அவரை குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்துள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/b19f30a4.json)
+
+---
 
 ### US House passes bill to force ByteDance to divest TikTok or face ban
 
@@ -78,7 +128,11 @@ The Criminal Investigation Department (CID) has arrested Dr. Thusitha Sudarshana
 
 Police Media Spokesman DIG Nihala Thalduwa said the arrest was carried out in connection with the import of substandard Human Immunoglobulin vials.
 
-◼️
+Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody in connection with the case.
+
+Meanwhile on March 06, Dr. Ratnayake made a 4-hour-long confidential statement to the Maligakanda Magistrate regarding the procurement of substandard human intravenous immunoglobulin (IVIG).
+
+...
 
 [Data](articles/0bf8c1ad.json)
 
@@ -2401,79 +2455,5 @@ A spokesman at Moneragala Police are receiving treatment at the Moneragala Gener
 [Data](articles/338abd5f.json)
 
 [Extended Data](ext_articles/338abd5f.ext.json)
-
----
-
-### Japan's employees a big increment
-
-*2024-03-13 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194450) · `si`
-
-Toyota, Panata, Nissan, and Nippon Steel in Japan have agreed to salary increases, marking a significant increment in employee wages. Annual negotiations ended successfully, reflecting good understanding between trade unions and management. Toyota, the world's leading car producer, has increased monthly salaries by 28,440.
-
-🟩
-
-The Toyota Motor Company has agreed to give a salary increase of the salary increases after twenty five years later.
-
-Japan's leading companies, Toyota, Panata, and Nissan companies have been able to increase the salaries to increase the salaries.
-
-Nippon Steal also had significantly increased his employees.
-
-Annual negotiations between the parties have been completed successfully.
-
-The discussions are always ended without a crisis as there is a good understanding between trade unions and management in Japan.
-
-The world's leader in car production, Toyota has agreed to increase the monthly salary of the employee by 28,440.
-
-Employees in many areas in Japan have reported that the higher wage increment has increased this year.
-
-◼️
-
-[Data](articles/3d1d66c8.json)
-
-[Extended Data](ext_articles/3d1d66c8.ext.json)
-
----
-
-### GMOA raises concerns over establishment of medicine faculty at NSBM
-
-*2024-03-13 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-raises-concerns-over-establishment-of-medicine-faculty-at-NSBM/108-278771) · `en`
-
-Colombo, March 13 (Daily Mirror) -  On the heels of the cabinet nod to establish a medical faculty at the National School of Business Management (NSBM), the Government Medical Officers Association (GMOA) has expressed reservations, questioning the necessity of the move as it appears unrealistic.
-
-Speaking to the Daily Mirror, GMOA Media Spokesman Dr. Chamil Wijesinghe emphasized the importance of conducting a proper feasibility study before making a final decision.
-
-"As Sri Lanka is renowned for upholding competitive and high standards in medical education, it is imperative to consider the potential loopholes that could hinder local competitiveness when establishing new faculties of this nature," he pointed out.
-
-As such, Dr. Wijesinghe stressed that health authorities must ensure that standards are not compromised with the establishment of the new faculty.
-
-...
-
-[Data](articles/e9562dd5.json)
-
-[Extended Data](ext_articles/e9562dd5.ext.json)
-
----
-
-### Subsequent reminders from the Ministry of Education
-
-*2024-03-13 10:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியமைச்சிலிருந்து-அடுத்தடுத்த-நினைவூட்டல்கள்/175-334597) · `ta`
-
-The Ministry of Education sent reminders to all Provincial Education Directors, emphasizing the need for schools to adapt to high temperatures, following the death of a 16-year-old girl in a Marathon race. The Secretary, Vasana Perera, criticized some schools for ignoring Ministry recommendations, outlining strategies for daily and external activities in extreme heat.
-
-🟩
-
-Letters have been sent to all Provincial Education Directors to commemorate the recommendations of how schools should act for the current high temperature.
-
-The letters were sent by the Secretary to the Ministry of Education Vasana Perera regarding the sudden death of a 16 -year -old schoolgirl in Ampara while participating in the Marathon race.
-
-In his letters, the secretary stated in his letters that some schools have ignored the recommendations made by the Ministry.
-
-In the letter, the letter is given on how to plan the daily activities of all schools and segregates and how to plan out external activities based on high temperatures these days.
-
-◼️
-
-[Data](articles/e07f0610.json)
-
-[Extended Data](ext_articles/e07f0610.ext.json)
 
 ---

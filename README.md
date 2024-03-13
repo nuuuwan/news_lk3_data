@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 11:17:48**
+As of **2024-03-13 11:33:42**
 
 ## Newspaper Stats
 
-*Scraped **12,590** Articles*
+*Scraped **12,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,43 +14,91 @@ dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 666
-islandlk | 685
-adalk | 1,074
+islandlk | 686
+adalk | 1,076
 adaderanalk | 1,518
 tamilmirrorlk | 1,533
-virakesarilk | 1,751
-dailymirrorlk | 1,917
+virakesarilk | 1,752
+dailymirrorlk | 1,918
 adaderanasinhalalk | 1,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,583 (99.9%) of 12,590 articles have been extended.
+12,590 (100.0%) of 12,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### “எனது கணவரின் சாவிற்கு கடற்படையும்  காரணம்”
+### Biden, Trump clinch nominations, kicking off bruising presidential rematch
+
+*2024-03-13 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-Trump-clinch-nominations-kicking-off-bruising-presidential-rematch/108-278772) · `en`
+
+March 12 (Reuters) - President Joe Biden and former President Donald Trump both clinched their parties' nomination on Tuesday, kicking off the first U.S. presidential election rematch in nearly 70 years.
+
+Biden needed 1,968 delegates to win the nomination, and he passed that number on Tuesday night as results began to come in from the primary contest in Georgia, Edison Research said. Results were also coming in from Mississippi, Washington state, the Northern Mariana Islands and Democrats living abroad.
+
+Hours later, Trump clinched the 1,215 delegates required to secure the Republican presidential nomination as four states held contests, including Georgia, the battleground where Trump faces criminal charges for his efforts to overturn the state's 2020 results. There were 161 delegates at stake on Tuesday in Georgia, Hawaii, Mississippi and Washington state.
+
+...
+
+[Data](articles/eb23073e.json)
+
+---
+
+### தெஹிவளையில் அதி சொகுசு கார் முச்சக்கர வண்டியுடன் மோதி விபத்து
+
+*2024-03-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178594) · `ta`
+
+இந்த விபத்து தெஹிவளை களுபோவில பகுதியில் நேற்று செவ்வாய்க்கிழமை (12) மாலை  இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/33eef6cf.json)
+
+---
+
+### "The cause of my husband's death is the cause of the Navy"
 
 *2024-03-13 11:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எனது-கணவரின்-சாவிற்கு-கடற்படையும்-காரணம்/71-334598) · `ta`
 
-எனது கணவரின் சாவிற்கு காரைநகர் கடற்படையும் ஒரு காரணம் என உயிரிழந்த இளைஞனின் மனைவி குற்றம் சாட்டியுள்ளார்.
+The wife of a man killed by a gang accuses the Karainagar Navy of his death. They were abducted near Ponnala Bridge, escaped to a naval camp, but were chased out by Marines. She believes the Navy's lack of action led to her husband's death.
 
-காரைநகர் பகுதிக்கு கணவன் மனைவி சென்று விட்டு திரும்பும் வழியில் , கணவன் மனைவியை கடத்தி சென்ற வன்முறை கும்பல் கணவனை படுகொலை செய்துள்ளது.
+🟩
 
-காரைநகருக்கு சென்று விட்டு , மோட்டார் சைக்கிளில் நானும் எனது கணவரும் வீடு திரும்பும் வேளையில் , பொன்னாலை பாலத்திற்கு அருகில் எம்மை வழிமறித்த கும்பல் வாகனத்தில் எம்மை கடத்த முயற்சித்தனர்.
+The wife of a young man who died has accused the Karainagar Navy of the death of my husband.
 
-அவ்வேளை , நானும் கணவரும் அவர்களிடம் தப்பித்து அருகில் இருந்த கடற்படை முகாமிற்குள் தஞ்சம் புகுந்தோம். கடற்படையினர் எம்மை அங்கிருந்து விரட்டினார்கள்.
+On the way back to the husband and wife of Karainagar, a violent gang who abducted her husband and wife has murdered her husband.
 
-" எங்களை கடத்த போறாங்க , எங்களை காப்பாற்றுங்க " என கடற்படையிடம் மன்றாடினோம். ஆனால், அவர்கள் எங்களை முகாமில் இருந்து துரத்தினார்கள்
+When I and my husband returned home on a motorcycle on a motorcycle, we tried to hijack us in a mob, which led us near the Ponnala Bridge.
 
-கடற்படையினர் மனிதாபிமானத்துடன் நடந்து கொண்டு , எமக்கு அடைக்கலம் கொடுத்து இருந்தால் , எனது கணவரின் உயிர் பிரிந்திருக்கது. எனது கணவரின் சாவுக்கு கடற்படையும் ஒரு விதத்தில் காரணம் என தெரிவித்தார்.
+At that time, I and my husband escaped and sought refuge in a nearby naval camp. The Marines chased us from there.
+
+We pleaded with the Navy, "Save us, save us,". But, they chased us out of the camp
+
+If the Marines walked with humanity and gave us refuge, my husband's life is separated. He said that the Navy was somewhat responsible for my husband's death.
 
 ...
 
 [Data](articles/b4817335.json)
+
+[Extended Data](ext_articles/b4817335.ext.json)
+
+---
+
+### මොණරාගල බන්ධනාගාරයේ රැදවියන් අතර ගැටුමක්
+
+*2024-03-13 10:55:10* · [`adalk`](https://www.ada.lk/breaking_news/මොණරාගල-බන්ධනාගාරයේ-රැදවියන්-අතර-ගැටුමක්/11-408580) · `si`
+
+මොණරාගල බන්ධනාගාරයේ රැදවියන් දෙදනෙකු අතර ඇතිවු බහින්බස් වීමක් දුරදිග ගොස්, එක් රැදවියකු,ඔහුගේ කලිසම් සාක්කුවේ සගවා තිබු කුඩා පිහියකින්,අනෙක් රැදවියාගේ මුහුණට එල්ලකල පහරක් හේතුවෙන්, එම රැදවියා කැපුම් තුවාල සහිතව 12දා මොණරාගලමහ රෝහලට ඇතුලත්කර ඇතැයි මොණරාගල පොලිසිය පවසයි.
+
+සිද්ධියෙන් තුවාල ලබා ඇත්තේ,මිද්දෙනිය, පොල්ගස් යාය ප්‍රදේශයේ පදිංචි, හතලිස්අට හැවරදි රැදවියෙකි. මොණරාගල බන්ධනාගාරයේ ඒ 01 විශේෂ රැදවියන් 08 දෙනෙකු රදවා තිබු වාට්ටුවක, රැදවියන් දෙදනෙකු කැරම් ක්‍රිඩාව නිරතව සිට ඇති අතර, එහිදි එම රැදවියන් දෙදනා අතර, ක්‍රිඩාව සමිබන්ධයෙන් ඇතිවු කිසියම් බහින්බස් විමක්,දුරදිග ගොස්, දෙදනා අතින් පයින් පහරදිගෙන තිබෙි. එහිදි වහා බන්ධනාගාර නිළධාරින් මැදිහත්ව, දෙදනා,බන්ධනාගාරයේ විනය අංශය වෙත රැගෙන යමින් සිටියදි, එක් රැදවියකු, ඔහුගේ සාක්කුවෙි සගවාගෙන සිටි කුඩා පිහියක් ගෙන අනෙකාගේ මුහුණ ප්‍රදේශයට පහරක් එල්ලකර තිබෙන බව, එම බන්ධනාගාරයේ සහකාරබන්ධනාගාර නිළධාරියකු, පොලිසියට කර ඇති පැමිණිල්ලේ සදහන්වේ.
+
+...
+
+[Data](articles/338abd5f.json)
 
 ---
 
@@ -104,37 +152,49 @@ As such, Dr. Wijesinghe stressed that health authorities must ensure that standa
 
 ---
 
-### கல்வியமைச்சிலிருந்து அடுத்தடுத்த நினைவூட்டல்கள்
+### Subsequent reminders from the Ministry of Education
 
 *2024-03-13 10:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியமைச்சிலிருந்து-அடுத்தடுத்த-நினைவூட்டல்கள்/175-334597) · `ta`
 
-தற்போதைய உயர் வெப்பநிலையின் பொருட்டு பாடசாலைகள் எவ்வாறு செயற்பட வேண்டும் என்பது தொடர்பான பரிந்துரைகளை நினைவுகூர்ந்து அனைத்து மாகாண கல்விப் பணிப்பாளர்களுக்கும் கடிதங்கள் அனுப்பப்பட்டுள்ளன.
+The Ministry of Education sent reminders to all Provincial Education Directors, emphasizing the need for schools to adapt to high temperatures, following the death of a 16-year-old girl in a Marathon race. The Secretary, Vasana Perera, criticized some schools for ignoring Ministry recommendations, outlining strategies for daily and external activities in extreme heat.
 
-அம்பாறையில் 16 வயதுடைய பாடசாலை மாணவன் மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய போது திடீரென உயிரிழந்தமை தொடர்பில் கல்வி அமைச்சின் செயலாளர் வாசன பெரேராவினால் இந்த கடிதங்கள் அனுப்பப்பட்டுள்ளன.
+🟩
 
-அமைச்சினால் வழங்கப்பட்ட பரிந்துரைகளை சில பாடசாலைகள் புறக்கணித்துள்ளதாக செயலாளர் தனது கடிதங்களில் குறிப்பிட்டுள்ளார்.
+Letters have been sent to all Provincial Education Directors to commemorate the recommendations of how schools should act for the current high temperature.
 
-இந்த நாட்களில் நிலவும் அதிக வெப்பநிலையின் அடிப்படையில் அனைத்து பாடசாலைகள் மற்றும் பிரிவேனாக்களின் அன்றாட நடவடிக்கைகள் மற்றும் வெளிப்புற நடவடிக்கைகளை எவ்வாறு திட்டமிடுவது என்பது குறித்த அறிவுறுத்தல்கள் கடிதத்தில் வழங்கப்பட்டுள்ளன.
+The letters were sent by the Secretary to the Ministry of Education Vasana Perera regarding the sudden death of a 16 -year -old schoolgirl in Ampara while participating in the Marathon race.
+
+In his letters, the secretary stated in his letters that some schools have ignored the recommendations made by the Ministry.
+
+In the letter, the letter is given on how to plan the daily activities of all schools and segregates and how to plan out external activities based on high temperatures these days.
 
 ◼️
 
 [Data](articles/e07f0610.json)
 
+[Extended Data](ext_articles/e07f0610.ext.json)
+
 ---
 
-### அரசாங்கத்தின் கீழ்  மாகாண  பாடசாலைகள்?
+### Provincial schools under the government?
 
 *2024-03-13 10:46:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-கீழ்-மாகாண-பாடசாலைகள்/175-334596) · `ta`
 
-தேசிய பாடசாலைகள் மத்திய அரசாங்கத்தின் கீழும், மாகாணப் பாடசாலைகள் மாகாண சபையின் கீழும் நிர்வகிக்கப்படுகின்றன.
+Education Minister Susil Premajayantha announced that provincial council schools will be managed by the Central Government, moving away from provincial council management.
 
-இந்த நிலையில் மாகாண சபை பாடசாலைகள் அரசாங்கத்தின் கீழ் கொண்டு வரப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த அறிவித்துள்ளார்.
+🟩
 
-கொழும்பில் நேற்று இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார். R
+National schools are managed under the Central Government and Provincial Schools under the Provincial Council.
+
+Education Minister Susil Premajayantha has announced that the provincial council schools will be brought under the government.
+
+He said this while responding to questions raised by journalists after an event in Colombo yesterday. Remble
 
 ◼️
 
 [Data](articles/1802afcb.json)
+
+[Extended Data](ext_articles/1802afcb.ext.json)
 
 ---
 
@@ -190,23 +250,31 @@ He said the government has no mandate to sell state resources, state institution
 
 ---
 
-### வெளிநாடு சென்ற வைத்தியர்கள் நாடு திரும்புகின்றனர்
+### Doctors who have gone abroad returns to the country
 
 *2024-03-13 10:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடு-சென்ற-வைத்தியர்கள்-நாடு-திரும்புகின்றனர்/175-334595) · `ta`
 
-நாட்டை விட்டு வெளியேறிய பல வைத்தியர்கள் தற்போது நாடு திரும்புவதால், இலங்கையின் சுகாதாரத் துறையில் உள்ள மருத்துவர்களின் பற்றாக்குறை எதிர்காலத்தில் தீர்க்கப்படும் என சுகாதார அமைச்சு தெரிவித்துள்ளது.
+Sri Lanka's health sector faces a doctor shortage, but the Ministry of Health expects this to be resolved as many doctors, including specialists, return home. The exodus was due to the challenges posed by the COVID-19 pandemic and the country's economic crisis.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த பிரதி பணிப்பாளர் நாயகம் (மருத்துவ சேவைகள்) வைத்தியர் ஜி. விஜேசூரிய, விசேட வைத்தியர்கள் மற்றும் தாதிகள் உட்பட பல வைத்தியர்கள் நாட்டை விட்டு வெளியேறியதையடுத்து இலங்கையில் அண்மையில் வைத்தியர் பற்றாக்குறை ஏற்பட்டுள்ளதாக தெரிவித்தார்.
+🟩
 
-கொரோனா வைரஸ் தொற்றுநோய் மற்றும் அதைத் தொடர்ந்து நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியின் விளைவாக எதிர்கொள்ளும் சிரமங்கள் காரணமாக சுகாதாரப் பணியாளர்கள் நாட்டை விட்டு வெளியேறினர்.
+The shortage of doctors in the health sector of Sri Lanka will be resolved in the future, with many doctors who have left the country, the Ministry of Health said.
 
-எவ்வாறாயினும், விசேட வைத்தியர்கள் உட்பட பல வைத்தியர்கள் தற்போது இலங்கைக்கு திரும்பி வருவதாக அவதானிக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+Deputy Director General (Medical Services) Dr. G.. He said that there was a shortage of doctors in Sri Lanka recently after several doctors, including special doctors and nurses, left the country.
 
-நாட்டை விட்டு வெளியேறும் சுகாதாரப் பணியாளர்களின் எண்ணிக்கை வீழ்ச்சியடைந்துள்ளதாகத் தெரிவித்த வைத்தியர் விஜேசூரிய, அதற்குப் பதிலாக பல வைத்தியர்கள் தமது விடுமுறைகளை இரத்து செய்துவிட்டு இலங்கைக்குத் திரும்பி வருவதாகத் தெரிவித்தார்.
+Health workers left the country due to the difficulties of the Corona virus infection and the consequences of the country's economic crisis.
+
+However, he said that many doctors, including special doctors, are currently returning to Sri Lanka.
+
+Dr. Wijesuriya, who said the number of health workers leaving the country had fallen, said many doctors would cancel their holidays and return to Sri Lanka.
+
+He added that the Ministry of Health has completed the appointment of special doctors for the necessary hospitals through doctors returning to Sri Lanka.
 
 ...
 
 [Data](articles/0e351ca9.json)
+
+[Extended Data](ext_articles/0e351ca9.ext.json)
 
 ---
 
@@ -232,19 +300,43 @@ Zardari, co-chairman of the PPP, took oath as President of Pakistan for a second
 
 ---
 
-### வீடொன்றின் மேல் விழுந்த பாரிய பனிக்கட்டி
+### The massive ice that fell on the top of the house
 
 *2024-03-13 10:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீடொன்றின்-மேல்-விழுந்த-பாரிய-பனிக்கட்டி/76-334594) · `ta`
 
-பதுளை - ஹாலி-எல பொலிஸ் பிரிவுக்குட்பட்ட ரெல்போல - மொரகல பகுதியில் வீடொன்றின் மீது பாரிய பனிக்கட்டி ஒன்று வீழ்ந்த சம்பவம் பரபரப்பை ஏற்படுத்தியுள்ளது.
+A massive snowfall in Badulla-Hali-Ela caused a stir, with about 5 kg of ice falling on a house in Relbola-Moragala, despite no rain.
 
-சுமார் 5 கிலோகிராமுக்கும் அதிக நிறையுடைய பனிக் கட்டி ஒன்றே இவ்வாறு வீட்டின் மீது வீழ்ந்ததாக தெரிவிக்கப்படுகிறது.
+🟩
 
-நேற்றைய தினம் குறித்த பகுதியில் மழையுடனான வானிலை எதுவும் நிலவவில்லை என அந்த பகுதி மக்கள் தெரிவிக்கின்றனர்.
+A massive snowfall in the Badulla - Hali -Ela Police Division has caused a stir in the Relbola -Moragala area.
+
+It is reported that only about 5 kilograms of ice fell on the house.
+
+Residents of the area say that there was no rainy weather in the area yesterday.
 
 ◼️
 
 [Data](articles/e2ed6194.json)
+
+[Extended Data](ext_articles/e2ed6194.ext.json)
+
+---
+
+### අනියම් පෙම දෙදෙනෙකු මරු තුළයට යයි
+
+*2024-03-13 10:28:12* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-පෙම-දෙදෙනෙකු-මරු-තුළයට-යයි/11-408579) · `si`
+
+අම්පාර  පොතුවිල් පොලිස් බල ප්‍රෙද්ශයේ අරුගම්බේ සංචාරක කාලපයේ හෝටලයක්  තුලදි කාන්තාවක් ඝාතනය කර එම ඝාතනය කල පුද්ගලයාද එම හෝටලය තුලම ගෙල වැලදාගෙන මියගොස් ඇති බව අම්පාර දිස්ත්‍රික්කයේ උසස් පොලිස් නිළධාරියෙක් පැවසිය.
+
+ඊයේ  උදැසන නවයට පමන මියගිය කාන්තාව සහ අනෙක් පුද්ගලයා මෙම හෝටලයේ කාමරයක් රුගෙන නැවති  තිබේ.මෙම දෙදෙනා සවස 5.00 පමන වනතෙක්  කාමරයෙන් එලියට නොපැමිනි නිසා හෝටල් හිමිකරු විසින් අරුගම්බේ සංචාරක පොලිසියට දැනුම් දිමෙන්  අනතුරුව  පොලිස්  නිළධාරින් පැමින කාමරයේ දොර හැර බලනවිට කාන්තාව ලේ විලක්මැද වැටි සිටි ඇති අතර පිරිමි පුද්ගලයාගේ එල්ලෙමින්  තිබු සිරුර දැකගැනිමට හැකිව තිබේ .
+
+මෙම කාන්තාව මියගිය පුද්ගලයා අතර අනියම් සම්බන්ධයක් තිබි ඇති බව මුලික විමර්ශණ වලදි හෙලිව තිබේ .මියයෑමට පෙර එම පුද්ගලයා විසින් ලියන ලද ලිපියක්ද පොලිසිය හමුව තිබේ.
+
+මියගිය කාන්තාවගේ සැමියා ගෙන් තිබෙන කරදර නිසා මෙම තිරණය ගත් බවද එම ලිපියේ  සදහන්ව ඇති බවද වාර්තාවේ.මෙම ලිපිය අනුව මෙම දෙදෙනා එකගතාවයකට පැමින මෙලෙස දිවි නසා ගන්නට ඇති බව විමර්ශණ නිළධාරින් පවසති
+
+...
+
+[Data](articles/949b0b95.json)
 
 ---
 
@@ -268,23 +360,29 @@ He also mentioned that the petition could not be maintained further on the groun
 
 ---
 
-### இலங்கை - பங்களாதேஷ் முதல் ஒருநாள் போட்டி இன்று
+### Sri Lanka - Bangladesh First ODI match today
 
 *2024-03-13 10:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-பங்களாதேஷ்-முதல்-ஒருநாள்-போட்டி-இன்று/44-334593) · `ta`
 
-இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கு இடையிலான 3 போட்டிகள் கொண்ட ஒருநாள் கிரிக்கெட் தொடரின் முதலாவது போட்டி இன்று (13) சிட்டகொங்கில் நடைபெறவுள்ளது.
+Sri Lanka vs Bangladesh ODI series starts today at 2 pm. Sri Lanka won the T20 series 2-1. This is Sri Lanka's first ODI match at Chittagong Ground in 18 years.
 
-இந்த போட்டி உள்ளூர் நேரப்படி இன்று பிற்பகல் 2 மணிக்கு தொடங்க உள்ளது.
+🟩
 
-பங்களாதேஷ் அணிக்கு எதிரான டி20 தொடரை 2-1 என கைப்பற்றிய இலங்கை அணி வெற்றி மனநிலையுடன் இன்றைய போட்டியில் களமிறங்குகிறது.
+The first match of the three -match ODI series between Sri Lanka and Bangladesh will be held today (13).
 
-ஒரு நாள் போட்டியின் சம்பியன்களுக்கு வழங்கப்படும் வெற்றிக்கிண்ணம் இரு அணிகளின் தலைவர்கள் தலைமையில் நேற்று (12) வெளியிடப்பட்டது.
+The match is set to begin at 2 pm local time.
 
-சிட்டகொங் மைதானத்தில் 18 வருடங்களின் பின்னர் இலங்கை அணி ஒரு நாள் போட்டியில் களமிறங்க உள்ளமை குறிப்பிடத்தக்கது.
+The Sri Lankan team won the T20 series 2-1 against Bangladesh, winning today's match with a win.
+
+The success of the one -day competition was released yesterday (12) under the leadership of the leaders of the two teams.
+
+The Sri Lankan team will play a one -day match after 18 years at the Chittagong Ground.
 
 ◼️
 
 [Data](articles/33d84e13.json)
+
+[Extended Data](ext_articles/33d84e13.ext.json)
 
 ---
 
@@ -314,17 +412,23 @@ The International Human Rights Watch said that public surveillance against good 
 
 ---
 
-### பெண்ணின் சடலம் மீட்பு - உதவியை நாடியுள்ள பொலிஸார்
+### Woman's body recovery - police seeking help
 
 *2024-03-13 10:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-சடலம்-மீட்பு-உதவியை-நாடியுள்ள-பொலிஸார்/175-334591) · `ta`
 
-இவ்வாறு  மீட்கப்பட்ட பெண்ணின் சடலம் இதுவரை அடையாளம் காணப்படவில்லை என பொலிஸார் மேலும் தெரிவித்தனர்.
+Police seek public help to identify a 26-year-old woman's body found in Beruwala.
 
-உயிரிழந்தவர்  26 வயது மதிக்கத்தக்க பெண் என்பதுடன், இவருடைய சடலத்தை அடையாளம் காண பேருவளை பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர். R
+🟩
+
+The body of the rescued woman has not yet been identified, police said.
+
+The deceased is a 26 -year -old woman and Beruwala police have sought the help of the public to identify her body.. Remble
 
 ◼️
 
 [Data](articles/fe912d51.json)
+
+[Extended Data](ext_articles/fe912d51.ext.json)
 
 ---
 
@@ -2121,87 +2225,5 @@ The Health Ministry also emphasized the importance of addressing this issue comp
 [Data](articles/b54ea265.json)
 
 [Extended Data](ext_articles/b54ea265.ext.json)
-
----
-
-### Holly - 50kg of ice that fell on a house in Elville!
-
-*2024-03-12 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178564) · `ta`
-
-A 50kg ice block fell on a house in Elville, causing a roof to collapse. The Badulla District Disaster Management Center reported this incident on Tuesday.
-
-🟩
-
-The Badulla District Disaster Management Center said that a roof of a house in the Hali - Ella Medagama Grama Sevakar area has fallen on a roof of about 50 kilograms on Tuesday (12).
-
-◼️
-
-[Data](articles/33e228ef.json)
-
-[Extended Data](ext_articles/33e228ef.ext.json)
-
----
-
-### Confusion, errors marred Ottawa police communications after family’s killing
-
-*2024-03-12 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confusion-errors-marred-Ottawa-police-communications-after-familys-killing/108-278716) · `en`
-
-March 12-  Ottawa police admit they made mistakes last week when communicating key information about the city's worst mass killing in recent history.
-
-Six people including a mother, her four young children and a family acquaintance were found dead inside a townhouse in the south Ottawa suburb of Barrhaven on March 6. The woman's husband and father of the children remains in hospital.
-
-A 19-year-old man who was living with the family is in custody facing six counts of first-degree murder and one count of attempted murder.
-
-According to police, they began receiving calls at 10:52 p.m. Wednesday and responded minutes later. In court, prosecutors said the accused was in custody around 11 p.m.
-
-The day after the tragedy, the Ottawa Police Service (OPS) called the killings a "mass shooting" when no guns were involved, repeatedly misspelled the victims' names and misidentified the accused.
-
-...
-
-[Data](articles/d21d64de.json)
-
-[Extended Data](ext_articles/d21d64de.ext.json)
-
----
-
-### Shooting in Mattakkuli!
-
-*2024-03-12 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178563) · `ta`
-
-A shooting incident in Mattakkuli, Colombo, resulted in two motorcycle riders being killed, with no injuries reported.
-
-🟩
-
-A shooting incident took place in the Colombo -15 Mattakkuliya area on Tuesday (12), police said.
-
-However, no one was injured in the incident, police said.
-
-Two people on a motorcycle have been shot dead in Mattakkuli Alivatta area.
-
-◼️
-
-[Data](articles/db4a941c.json)
-
-[Extended Data](ext_articles/db4a941c.ext.json)
-
----
-
-### Threads of Resilience: Is Sri Lanka’s apparel sector prepared to face Pathogen X?
-
-*2024-03-12 21:16:00* · [`islandlk`](http://island.lk/threads-of-resilience-is-sri-lankas-apparel-sector-prepared-to-face-pathogen-x/) · `en`
-
-Chaya Dissanayake is a Research Assistant at the Institute of Policy Studies of Sri Lanka (IPS). She holds a B.Sc. (Hons) in Agriculture specialised in Agricultural Economics from the University of Jaffna and is currently reading for an MSc in Integrated Water Resource Management at the Postgraduate Institute of Agriculture, Peradeniya. Her research interests include agricultural policies and institutions; disaster risk management; poverty and inequality; SMEs; women and workforce.
-
-Sri Lanka faces a high-risk situation with the looming threat of a potential future pandemic.
-
-A recent IPS study reveals that the Sri Lankan apparel sector, particularly women workers, bore the brunt of the COVID-19 pandemic, with 24% of women not recalled for work during the pandemic’s initial phase.
-
-Urgent streamlining of pandemic response policies for the sector is crucial to provide timely support and minimise losses in life and revenue.
-
-...
-
-[Data](articles/450b561b.json)
-
-[Extended Data](ext_articles/450b561b.ext.json)
 
 ---

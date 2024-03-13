@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 06:54:50**
+As of **2024-03-13 07:17:09**
 
 ## Newspaper Stats
 
-*Scraped **12,531** Articles*
+*Scraped **12,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,509
 tamilmirrorlk | 1,519
 virakesarilk | 1,741
 dailymirrorlk | 1,907
-adaderanasinhalalk | 1,973
+adaderanasinhalalk | 1,974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,531 (100.0%) of 12,531 articles have been extended.
+12,531 (100.0%) of 12,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### අලුත්ම කාලගුණ නිවේදනය
+
+*2024-03-13 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194441) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/3619652f.json)
+
+---
 
 ### Gota’s flight cum resignation in 2022 and “conspiracy” book in 2024
 
@@ -2251,23 +2267,5 @@ Sampath Bank Plc (33mn) up at 76.00, Commercial Bank of Ceylon Plc (16mn) closed
 [Data](articles/5896b0cd.json)
 
 [Extended Data](ext_articles/5896b0cd.ext.json)
-
----
-
-### 1497 boys sexually abused last year
-
-*2024-03-12 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178541) · `ta`
-
-Last year, 1497 boys were sexually abused. February saw significant violence against women and girls.
-
-🟩
-
-Statistics indicate that there have been various violence against women and girls in February alone in the last February.
-
-◼️
-
-[Data](articles/cd3d2f71.json)
-
-[Extended Data](ext_articles/cd3d2f71.ext.json)
 
 ---

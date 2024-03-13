@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 23:52:13**
+As of **2024-03-14 00:03:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,705 (99.9%) of 12,716 articles have been extended.
+12,716 (100.0%) of 12,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -688,6 +688,8 @@ He has served as a committee member of the Ceylon Chamber of Commerce (CCC), a c
 
 [Data](articles/62f050ba.json)
 
+[Extended Data](ext_articles/62f050ba.ext.json)
+
 ---
 
 ### Credit card data dating data that is called Sri Lanka Post
@@ -872,6 +874,8 @@ De Silva said the aim was to supply good quality fish at a good price to consume
 
 [Data](articles/d6235b90.json)
 
+[Extended Data](ext_articles/d6235b90.ext.json)
+
 ---
 
 ### If you come, be careful if this text comes
@@ -941,6 +945,8 @@ The minister also had a word of caution for NPP leader Anura Kumara Dissanayake 
 ...
 
 [Data](articles/f5d637bb.json)
+
+[Extended Data](ext_articles/f5d637bb.ext.json)
 
 ---
 
@@ -1064,6 +1070,8 @@ A bond maturing on 01.07.2032 closed stable at 12.50/80 percent. (Colombo/Mar13/
 
 [Data](articles/3a6cee0d.json)
 
+[Extended Data](ext_articles/3a6cee0d.ext.json)
+
 ---
 
 ### Russia is ready for nuclear war - Putin warns
@@ -1133,6 +1141,8 @@ Opposition parties in Sri Lanka this week boycotted a meeting called by Presiden
 ...
 
 [Data](articles/91d5bc2a.json)
+
+[Extended Data](ext_articles/91d5bc2a.ext.json)
 
 ---
 
@@ -1237,6 +1247,8 @@ Increased investor participation due to lower rates was causing the market to pi
 ...
 
 [Data](articles/f6dcc3b2.json)
+
+[Extended Data](ext_articles/f6dcc3b2.ext.json)
 
 ---
 
@@ -1738,6 +1750,8 @@ The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu aga
 
 [Data](articles/b22313f0.json)
 
+[Extended Data](ext_articles/b22313f0.ext.json)
+
 ---
 
 ### Forest killed in clashes
@@ -1973,6 +1987,8 @@ Sri Lanka is in the process of privatizing the airline. (Colombo/Mar14/2024)
 ◼️
 
 [Data](articles/3300495e.json)
+
+[Extended Data](ext_articles/3300495e.ext.json)
 
 ---
 
@@ -2366,6 +2382,8 @@ ECONOMYNEXT – Doctors who left the country amid an economic crisis and a hike 
 
 [Data](articles/d512db99.json)
 
+[Extended Data](ext_articles/d512db99.ext.json)
+
 ---
 
 ### The police went to the spa with uniform
@@ -2435,5 +2453,7 @@ There have been criticism that Russians were running businesses, but it is not k
 ◼️
 
 [Data](articles/9e370ba1.json)
+
+[Extended Data](ext_articles/9e370ba1.ext.json)
 
 ---

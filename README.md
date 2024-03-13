@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 15:33:27**
+As of **2024-03-13 15:51:35**
 
 ## Newspaper Stats
 
-*Scraped **12,642** Articles*
+*Scraped **12,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,081
-adaderanalk | 1,524
-tamilmirrorlk | 1,540
-virakesarilk | 1,760
+adaderanalk | 1,525
+tamilmirrorlk | 1,541
+virakesarilk | 1,762
 dailymirrorlk | 1,926
 adaderanasinhalalk | 1,992
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 1,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,638 (100.0%) of 12,642 articles have been extended.
+12,642 (100.0%) of 12,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த நபருக்கு 10 வருட கடூழிய சிறை தண்டனை!
+
+*2024-03-13 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178640) · `ta`
+
+நானுஓயா பொலிஸ் பிரிவிற்குட்பட்ட பாடசாலை சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றம் சுமத்தப்பட்டு நுவரெலியா மேல் நீதி மன்றத்தில் தொடரப்பட்டிருந்த வழக்கில்  குற்றவாளியாக இனங்காணப்பட்ட (52) வயதுடைய நபருக்கு 10 வருட கடூழிய சிறை தண்டனை தீர்ப்பை நுவரெலியா மேல் நீதி மன்றம்  வழங்கியது.
+
+இந்த தீர்ப்பை நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரிய இன்று (13.03.2014) புதன்கிழமை   வழங்கி தீர்ப்பளித்தார்.
+
+கடந்த 2011 ஆம் ஆண்டு காலப்பகுதியில் நானுஓயா பிரதேசத்தை சேர்ந்த பாருக் மொஹமட் சாலித் என்ற நபர் இதே பிரதேசத்தை சேர்ந்த 16 வயதுக்கு குறைவான பாடசாலை சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+
+இந்த நிலையில் இது தொடர்பாக பாடசாலை ஊடாக சிறுமியின் பெற்றோருக்கு தெரியவந்ததையடுத்து  குறித்த நபர்மீது நானுஓயா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்து விசாரணை நடத்தப்பட்டுள்ளது.
+
+இதையடுத்து தற்போது குற்றவாளியாக  இனங்காணப்பட்ட நபருக்கு எதிராக நுவரெலியா மேல் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டு விசாரணை செய்யப்பட்ட நிலையில் வழக்கிற்கான தீர்ப்பு இன்று புதன்கிழமை (13) வழங்கப்பட்டது.
+
+...
+
+[Data](articles/b4d07695.json)
+
+---
+
+### கனேடிய உயர்ஸ்தானிகர் - அநுரகுமார சந்திப்பு
+
+*2024-03-13 15:23:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-உயர்ஸ்தானிகர்-அநுரகுமார-சந்திப்பு/175-334613) · `ta`
+
+கனேடிய உயர்ஸ்தானிகர் எரிக் வால்ஷ், தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்கவை ஜே.வி.பி தலைமையகத்தில் இன்று சந்தித்தார்.
+
+இக்கலந்துரையாடலில் இலங்கையின் தற்போதைய சமூக, பொருளாதார மற்றும் அரசியல் நிலைமைகள் தொடர்பில் கவனம் செலுத்தப்பட்டது.
+
+இதன்போது, தேசிய நல்லிணக்கத்தை நிலைநிறுத்துவதற்கான  தேசிய மக்கள் சக்தியின் திட்டங்கள் குறித்தும்  விவாதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ad013ed8.json)
+
+---
+
+### S. Korea assures more higher education opportunities to Sri Lankan students
+
+*2024-03-13 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97924/s-korea-assures-more-higher-education-opportunities-to-sri-lankan-students) · `en`
+
+The Ambassador of South Korea, Miyon Lee who met the Speaker of the Parliament Mahinda Yapa Abeywardana recently in Parliament, stated that she hopes to provide more opportunities for Sri Lankan students to pursue higher education in South Korea.
+
+Furthermore, a Korean education exhibition is planned to be held this June with the support of the Ministry of Education and the universities in Sri Lanka, the South Korean envoy assured.
+
+The State Minister of Education A. Aravindh Kumar mentioned during the meeting that it is necessary to increase teaching Korean language in schools in Sri Lanka and requested to be provided with the necessary support required for this. The Ambassador asserted that the necessary support would be provided in the future, the Parliamentary Communications Department said in a statement.
+
+...
+
+[Data](articles/bab97670.json)
+
+---
+
+### இன்று மக்களிடம் கையளிக்கப்படவுள்ள ஹொலுவாகொடை "செரின் ரிவர் பார்க்"
+
+*2024-03-13 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178629) · `ta`
+
+காலி, ஹொலுவாகொட "செரின் ரிவர் பார்க்" சுற்றுச்சூழல் பூங்கா இன்று புதன்கிழமை (13) மாலை 5.00 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் பொதுமக்களிடம் கையளிக்கப்படவுள்ளது.
+
+செரின் ரிவர் பார்க் காலி நகரத்திலிருந்து வெகு தொலைவில் உள்ள ஹோலுவாகொடவில் நிர்மாணிக்கப்பட்டுள்ளது. 2021 ஆம் ஆண்டு கட்டத் தொடங்கிய இந்தப் பூங்கா, 14 ஏக்கர் பரப்பளவில் தரிசு நிலமாக உள்ளது.
+
+நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் கீழுள்ள நகர அபிவிருத்தி அதிகார சபையினால் திட்டங்கள் தயாரிக்கப்பட்டுள்ளதுடன், பூங்காவின் நிர்மாணப்பணிகள் இலங்கை காணி மீட்புக் கூட்டுத்தாபனத்தினால் மேற்கொள்ளப்பட்டுள்ளது.
+
+ஹொலுவகொட செரின் ரிவர் பார்க் ஏரி, நடைபாதைகள், சுரங்கப்பாதைகள், சிறுவர் பூங்காக்கள், கடைத் தொகுதிகள், சுற்றுச்சூழல் அமைப்புகள் போன்றவற்றைக் கொண்டுள்ளதோடு சூரிய சக்தியால் இயங்குகிறது.
+
+விவசாயப் பயிர்கள் மற்றும் உள்ளூர் மக்களின் பிற பொருட்களை மக்களுக்கு விற்பனை செய்யும் திட்டமும் இதன் மூலம் செயல்படுத்தப்படுகிறது.
+
+...
+
+[Data](articles/bb9605bb.json)
+
+---
 
 ### Canadian High Commissioner meets Anura Dissanayake
 
@@ -49,6 +121,8 @@ The Canadian High Commissioner congratulated Dissanayake on his upcoming visit t
 ◼️
 
 [Data](articles/965cefaf.json)
+
+[Extended Data](ext_articles/965cefaf.ext.json)
 
 ---
 
@@ -124,23 +198,29 @@ Temple priest T. Mathimukarasa and. Thamilchelvan, D. Kindiyan, Su Thavapalasing
 
 ---
 
-### හමුදා ලුතිනන් මත්කුඩු සමග අත්අඩංගුවට
+### Army Lieutenant arrested with drugs
 
 *2024-03-13 14:43:36* · [`adalk`](https://www.ada.lk/breaking_news/හමුදා-ලුතිනන්-මත්කුඩු-සමග-අත්අඩංගුවට/11-408588) · `si`
 
-යුද හමුදා ලුතිනන්වරයෙකු  හොරයින් මත්කුඩු සමග  බොරලැස්ගමුව  පිල්ලෑව ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව බොරලැස්ගමුව පොලිසිය කියයි
+An Army Lieutenant, 32, was arrested in Boralesgamuwa with drugs. He was a Lieutenant with the 4th Gemunu Watch and had been arrested twice before. The police believe he was trying to avoid a check by the Intelligence Service.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කුරුවිට ගැමුණු හේවා රෙජිමේන්තු මූලස්ථානයේ , 4 වන  ගැමුණු හේවා බලකායට අනුයුක්ත 32 හැවිරිදි ලුතිනන් වරයෙක් වන අතර සැකකරු මැදවච්චිය  මන්නාරම පාර පදිංචිකරුවෙකි.
+🟩
 
-බොරලැස්ගමුව පොලිසියට අනුයුක්ත බුද්ධි අංශ  නිලධාරියාට ලද යුක්තියේ මෙහෙයුමට සමගාමීව ලද තොරතුරකට අනුව  සැකකරු පරීක්ෂා කිරීමට යාමේදී ඔහු පොලිස් නිලධාරීන් මගහැරීමට උත්සාහ දරා ඇති අතර අනතුරුව සිදුකළ පරීක්ෂාවේදී ඔහු  හැඳ සිටි කලිසමේ සාක්කුවේ සඟවා තිබූ මත්කුඩු මිලිග්‍රෑම් 60 ක් පොලිස් භාරයට ගැනීමට හැකි වී ඇත
+Boralesgamuwa Police say Boralesgamuwa Boralesgamuwa, Boralesgamuwa with drugs
 
-මේ දිනවල දිවයින පුරා දැඩි මත්ද්‍රව්‍ය  හිඟයක් පවතින බැවින්  සැකකරු  නිවාඩු දමා කුඩු මිලදී ගැනීම සඳහා පැමිණ ඇති බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+The suspect is a 32 year old Lieutenant attached to the 4th Gemunu Watch, Medawachchiya Mannar Road, Medawachchiya.
 
-අත්අඩංගුවට ගත් සැකකරු මීට පෙර අවස්ථා දෙකකදී මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට පත්වී දැඩි අවවාද කර මුදා හැර ඇති පුද්ගලයකු බවට හඳුනාගත් බව පොලිසිය කියයි.
+He had attempted to avoid police officers to check the suspect in line with the Justice of the Intelligence Service attached to Boralesgamuwa Police.
+
+Police investigations have revealed that the suspect had been holiday, as there is a severe shortage of drugs throughout the country.
+
+The suspect was identified as a person who was arrested by the drug on two previous occasions.
 
 ◼️
 
 [Data](articles/0d7f743b.json)
+
+[Extended Data](ext_articles/0d7f743b.ext.json)
 
 ---
 
@@ -2225,79 +2305,5 @@ From running cafes, restaurants, bars to exchanging money and running undial ser
 [Data](articles/3b745d6a.json)
 
 [Extended Data](ext_articles/3b745d6a.ext.json)
-
----
-
-### Tourists doing business: Sri Lanka to get tough
-
-*2024-03-13 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourists-doing-business-Sri-Lanka-to-get-tough/108-278731) · `en`
-
-- Raids are presently being conducted in the south to identify illegally run businesses
-
-- In future, foreigners will need a local partner to operate businesses
-
-Colombo, March 13 (Daily Mirror) - The government will soon strengthen its laws to prevent foreign nationals from operating businesses in the country while they are under tourist visas and have already begun conducting raids in the south, the Daily Mirror learns.
-
-Earlier this month, the Daily Mirror exclusively reported that several foreign nationals including Russians, Ukrainians and Israelis who were in Sri Lanka under tourist visas were operating businesses in tourist hotspots which had severely hampered the local tourist industry.
-
-From running cafes, restaurants, bars to exchanging money and running undial services and providing accommodation and transport, several foreign nationals who have been in the country long term due to conflicts in their own countries, seem to have taken the law for granted.
-
-...
-
-[Data](articles/69a1d363.json)
-
----
-
-### The latest weather notification
-
-*2024-03-13 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194441) · `si`
-
-Showers or thundershowers expected in Western and Sabaragamuwa Province, Galle, and Matara districts. Major dry weather elsewhere.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Province and in the Galle and Matara districts.
-
-The Department of Meteorology announces that there is a major dry weather in other parts of the island.
-
-In some places in the Western and Sabaragamuwa Province, some locations are expected in the morning.
-
-◼️
-
-[Data](articles/3619652f.json)
-
-[Extended Data](ext_articles/3619652f.ext.json)
-
----
-
-### Gota’s flight cum resignation in 2022 and “conspiracy” book in 2024
-
-*2024-03-13 04:15:57* · [`dailyftlk`](https://www.ft.lk/columns/Gota-s-flight-cum-resignation-in-2022-and-conspiracy-book-in-2024/4-759431) · `en`
-
-The book was merely a banal repetition of a conspiracy theory without substantive proof to bolster it
-
-The mountains have laboured and brought forth a mouse! Former Sri Lankan President Nandasena Gotabaya Rajapaksa has after many poya days reportedly authored a book. The political grapevine had been buzzing for several months that a book by the ex-president known popularly as Gota and Gotabaya was in progress. It was supposedly a bombshell book with explosive revelations. The book belied such expectations. It was a
-
-Gotabaya Rajapaksa released a statement on 6 March that his book will be launched on 7 March 2024. He also posted on X as follows – “My book ‘The Conspiracy to oust me from the Presidency’ will be available in English and Sinhala at leading bookstores from tomorrow, Thursday, March 7th, 2024. The firsthand experience of an internationally sponsored regime change operation.”
-
-...
-
-[Data](articles/132e5a34.json)
-
-[Extended Data](ext_articles/132e5a34.ext.json)
-
----
-
-### Poorer than India and Bangladesh: Where is IMF program taking Sri Lanka?
-
-*2024-03-13 04:04:03* · [`dailyftlk`](https://www.ft.lk/columns/Poorer-than-India-and-Bangladesh-Where-is-IMF-program-taking-Sri-Lanka/4-759430) · `en`
-
-The stabilisation of the economy and the adoption of International Monetary Fund (IMF) program requirements has created optimism that Sri Lanka is heading in a positive direction. While the direction is positive, where this is going to lead us is not.
-
-...
-
-[Data](articles/2855f59a.json)
-
-[Extended Data](ext_articles/2855f59a.ext.json)
 
 ---

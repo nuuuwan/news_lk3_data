@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 13:02:57**
+As of **2024-03-13 13:17:53**
 
 ## Newspaper Stats
 
-*Scraped **12,614** Articles*
+*Scraped **12,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 686
 adalk | 1,076
 adaderanalk | 1,521
 tamilmirrorlk | 1,536
-virakesarilk | 1,756
+virakesarilk | 1,757
 dailymirrorlk | 1,921
 adaderanasinhalalk | 1,986
 
@@ -26,53 +26,89 @@ adaderanasinhalalk | 1,986
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,611 (100.0%) of 12,614 articles have been extended.
+12,614 (100.0%) of 12,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### නිවසටම ගොස් බෙහෙත් කරන බදුල්ලේ හිත හොඳ දොස්තර
+### கிளிநொச்சி பொன்னகர் பகுதியில் இடம்பெற்ற விபத்தில் ஒருவர் பலி
+
+*2024-03-13 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178614) · `ta`
+
+குறித்த விபத்து நேற்று இரவு இடம்பெற்றுள்ளது. விபத்தில் பொன்னகர் பகுதியைச் சேர்ந்த சந்தானம் புஸ்பராசா என்ற 34 வயதுடைய நபரே உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாண பல்கலைக்கழக கிளிநொச்சி வளாகம் அமைந்துள்ள பகுதிக்கு அருகில் குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+மோட்டார் சைக்கிளை ரிப்பர் வாகனம் மோதியதில், மோட்டார் சைக்கிளில் பயணித்த நபர் உயிரிழந்துள்ளார்.
+
+குறித்த வீதியானது கனரக வாகனங்கள் பயணிப்பதற்கு போதிய இடவசதி குறைவான நிலையில், ரிப்பர் வாகனங்கள் அதிகளவில் குறித்த வீதியை பயன்படுத்தி வருகின்றமை குறிப்பிடத்தக்கது.
+
+உயிரிழந்தவரின் சடலம் கிளிநொச்சி வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில், விசாரணைகளின் பின்னர் உறவினர்களிடம் கையளிக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/f878449b.json)
+
+---
+
+### The total price of today's vegetables of the Nuwara Eliya Open Economic Center
+
+*2024-03-13 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178609) · `ta`
+
+Nuwara Eliya Open Economic Center's vegetable prices on Wednesday: Goa 425, Nuwara Eliya Karad 395, total 210, Rabu 80, beetroot leaf 220, leaf cut beetroot 270, white potato 355, red potato 375, bartender 170. High-quality Nuwara Eliya vegetables have seen a significant price drop. Green tomatoes 800, curry 555, Wilpana 2100, Nuwara Eliya Cauliflower 650, Prakoli 550.
+
+🟩
+
+The total price list of vegetables sold on Wednesday (13) at Nuwara Eliya Open Economic Center has been released.
+
+Accordingly, the sales price of Goa has been announced at 425 rupees, while the sales price of Nuwara Eliya Karad kg has been announced at 395 rupees.
+
+Similarly, the total price has been announced at 210 rupees, Rabu 80 rupees, beetroot (leaf) 220 rupees and a leaf cut beetroot 270 rupees.
+
+At the same time, the potato (white) has been announced at 355 rupees, the potato (red) 375 rupees and the bartender is 170 rupees.
+
+Moreover, the prices of high -quality vegetables produced in Nuwara Eliya, which have been high priced in the past, have declined significantly.
+
+The tomatoes (green) is sold at 800 rupees and curry at 555 rupees.
+
+In addition, the Price of Wilpana has been announced at 2100 rupees, Cauliflower (Nuwara Eliya) at 650 rupees and Prakoli 550 rupees.
+
+◼️
+
+[Data](articles/52844fb7.json)
+
+[Extended Data](ext_articles/52844fb7.ext.json)
+
+---
+
+### Good doctor to go to the house
 
 *2024-03-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194453) · `si`
 
-නිවසටම ගොස් රෝගීන්ට ප්‍රතිකාර කරන අපූරු වෛද්‍යවරුන් ඇතුළු කාර්ය මණ්ඩලයක් පිළිබඳ තොරතුරු අපට බදුල්ල  කැන්දගොල්ල ප්‍රදේශයෙන් වාර්තා වුණි.
+Dr. Sachith Bandara of Candagolla Regional Hospital in Badulla is providing home visits to patients due to economic hardship, treating non-influential diseases. Despite the hospital being 15 km away, patients are grateful for the support.
 
-බදුල්ල නගරයේ සිට කිලෝමීටර් 15ක පමණ දුරකින් පිහිටා ඇති කැන්දගොල්ල ප්‍රාදේශීය රෝහල ඌව පළාත් සෞඛ්‍ය අමාත්‍යාංශයට අයත් සී ශ්‍රේණියේ රෝහලකි.
+🟩
 
-නමුත් වර්තමානයේ පවතින ආර්ථික දුෂ්කරතා හමුවේ මෙම රෝහල වෙත පැමිණීමට රෝගීන්ට විශාල වියදමක් දැරීමට  සිදුව තිබේ.
+We were reported from the Kandagal area, Badulla, Badulla and other staff.
 
-මීට පිළියම් ලෙස මේ වන විට රෝහලේ ප්‍රධාන වෛද්‍ය නිලධාරී සචිත් බණ්ඩාර මහතා විසින් කාලාන්තරක් තිස්සේ ප්‍රතිකාර ගන්නා රෝගීන්ගේ නිවෙස්වලට ගොස් ප්‍රතිකාර කිරිම ආරම්භ කර තිබේ.
+Candagolla Regional Hospital is a 15 km away from Badulla town.
 
-කැන්දගොල්ල ප්‍රාදේශීය රෝහලේ, ප්‍රධාන වෛද්‍ය නිලධාරී, වෛද්‍ය සචිත් බණ්ඩාර මහතා,
+But the patients have to spend a lot of visit to the hospital in the present economic hardship.
+
+The Chief Medical Officer of the hospital has already begun to treat patients who have been treated for a period of time.
+
+Candagolla Regional Hospital, Chief Medical Officer, Dr. Sachith Bandara,
+
+"In the past year, what they saw in the last year to clintest non-influential diseases of the last year, they have a lot to come to our Hospitals to come to our Hospitals. That means hardship, they are there with the mountains, and there are many hardships. There are people who cannot come because of economic problems. Take the result that we should go to the house of the same. I'm close to me, so closely close to the staff at the staff at all. They give good support. The duty on the duty on-on. So no problem. Most happy work. "
+
+Accordingly, there are over 50 patients.
 
 ...
 
 [Data](articles/0e754278.json)
 
----
-
-### நுவரெலியா திறந்த பொருளாதார மத்திய நிலையத்தின் இன்றைய மரக்கறிகளின் மொத்த விலை
-
-*2024-03-13 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178609) · `ta`
-
-நுவரெலியா திறந்த பொருளாதார மத்திய நிலையத்தில் இன்று புதன்கிழமை (13)  விற்பனை செய்யப்படும் மரக்கறி வகைகளின் மொத்த விலை பட்டியல் வெளியிடப்பட்டுள்ளது.
-
-அதனடிப்படையில், (முட்டைகோஸ்) கோவா 425 ரூபாவாக விற்பனை விலை அறிவிக்கப்பட்டுள்ள அதேவேளை நுவரெலியா கரட் கிலோ ஒன்றின் விற்பனை விலை 395 ரூபாவாக அறிவிக்கப்பட்டுள்ளது.
-
-அதேபோல லீக்ஸ் 210 ரூபா, ராபு 80 ரூபாய், பீட்ரூட் (இலையுடன்) 220 ரூபாவாகவும், இலை வெட்டப்பட்ட பீட்ரூட் 270 ரூபாவாகவும் மொத்த விலை அறிவிக்கப்பட்டுள்ளது.
-
-அதேநேரத்தில் உருளை கிழங்கு (வெள்ளை) 355 ரூபாவாகவும், உருளை கிழங்கு (சிவப்பு) 375 ரூபாவாகவும், நோக்கோல் 170 ரூபாவாகவும் அறிவிக்கப்பட்டுள்ளது.
-
-மேலும், கடந்த காலங்களில் அதிக உச்ச விலை கண்ட நுவரெலியாவில் உற்பத்தி செய்யப்படும் உயர்தர மரக்கறிகளின் விலைகளும் கணிசமாக சரிவு கண்டுள்ளது.
-
-அந்தவகையில் தக்காளி (பச்சை) 800 ரூபாவாகவும், கறிமிளகாய் 555 ரூபாவாக மொத்த விலையில்  விற்பனை செய்யப்படுகிறது.
-
-அத்துடன், சிவப்பு கோவா 2100 ரூபாவாகவும், காலிஃப்ளவர் (நுவரெலியா) 650 ரூபாவாகவும், புரக்கோலி 550 ரூபாவாகவும் வில்பனை விலை அறிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/52844fb7.json)
+[Extended Data](ext_articles/0e754278.ext.json)
 
 ---
 
@@ -87,6 +123,8 @@ Issuing a statement in this regard, the HRW – an international non-governmenta
 ...
 
 [Data](articles/535dfaa3.json)
+
+[Extended Data](ext_articles/535dfaa3.ext.json)
 
 ---
 
@@ -2229,27 +2267,5 @@ It is worth noting that I think I can create a voluntary organization called the
 [Data](articles/9cff367b.json)
 
 [Extended Data](ext_articles/9cff367b.ext.json)
-
----
-
-### Malnutrition among young girls and the Hippocratic Oath - EDITORIAL
-
-*2024-03-13 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Malnutrition-among-young-girls-and-the-Hippocratic-Oath-EDITORIAL/172-278721) · `en`
-
-Our Health Ministry, according to a recent report in the ‘Daily Mirror’ has rejected out-of-hand a report published in the prestigious British ‘Lancet’ magazine concerning child malnutrition and underweight young girls in our country.
-
-If the matter was not so sad and serious, the denial of the Ministry Secretary would be funny.
-
-A UNICEF report posted on January 4 this year showed that 3.9 million people were moderately food insecure with over 10,000 households facing severe food insecurity.
-
-Over 2.9 million children need humanitarian assistance to access lifesaving nutrition, health, education, water and sanitation, protection, and social protection services.
-
-The reports of our very own Central Bank state “...The latest official assessment of the Family Health Bureau of Ministry of Health that was conducted under the concept of Nutrition Month in October 2022 on nutritional status of children under five years, reveals the nutritional status of children deteriorated in 2022.
-
-...
-
-[Data](articles/bac9f468.json)
-
-[Extended Data](ext_articles/bac9f468.ext.json)
 
 ---

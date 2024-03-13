@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 21:02:52**
+As of **2024-03-13 21:17:46**
 
 ## Newspaper Stats
 
-*Scraped **12,690** Articles*
+*Scraped **12,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,088
-adaderanalk | 1,530
+adaderanalk | 1,531
 tamilmirrorlk | 1,548
 virakesarilk | 1,765
-dailymirrorlk | 1,933
-adaderanasinhalalk | 2,007
+dailymirrorlk | 1,935
+adaderanasinhalalk | 2,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,690 (100.0%) of 12,690 articles have been extended.
+12,690 (100.0%) of 12,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### වෛද්‍ය තුසිත සුදර්ශන අත්අඩංගුවට
+
+*2024-03-13 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194478) · `si`
+
+වෛද්‍ය සැපයුම් අංශයේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය තුසිත සුදර්ශන මහතා ව අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් විසින් ඔහු මෙරටට පැමිණෙන විට කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/5685897d.json)
+
+---
+
+### Immunoglobulin scandal: Medical Supplies Division’s Deputy Director arrested at BIA
+
+*2024-03-13 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97931/immunoglobulin-scandal-medical-supplies-divisions-deputy-director-arrested-at-bia) · `en`
+
+The Criminal Investigation Department (CID) has arrested Dr. Thusitha Sudarshana, the Deputy Director of the Health Ministry’s Medical Supplies Division on arrival in Sri Lanka at the Bandaranaike International Airport in Katunayake.
+
+Police Media Spokesman DIG Nihala Thalduwa said the arrest was carried out in connection with the import of substandard Human Immunoglobulin vials.
+
+◼️
+
+[Data](articles/0bf8c1ad.json)
+
+---
+
+### Applications challenging indictments against eight accused in X-Press Pearl case dismissed
+
+*2024-03-13 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-challenging-indictments-against-eight-accused-in-X-Press-Pearl-case-dismissed/108-278789) · `en`
+
+Colombo, March 13 (Daily Mirror)- The Court of Appeal dismissed the revision applications filed by eight accused including the Captain of the fire-ravaged container ship MV X-Press Pearl who were indicted before the Colombo High Court for causing damages to the country's oceanic environment.
+
+The eight accused had filed revision applications challenging the Colombo High Court's decision to reject their preliminary objections against the charges filed against them.
+
+The Court of Appeal two-judge-bench comprising Justices Sampath B. Abayakoon and P. Kumararatnam decided to dismiss the revision application without notices being issued on the Attorney General.
+
+indictment against eight accused before the Colombo High Court, charging them on eight counts in terms of Section 26(a) of the Marine Pollution Prevention Act No. 35 of 2008.
+
+...
+
+[Data](articles/026851ba.json)
+
+---
 
 ### Road obstruction on medium highway
 
@@ -105,6 +151,22 @@ The status of 36% of the affirmations is classified as 'unknown', which means th
 [Data](articles/b3e66216.json)
 
 [Extended Data](ext_articles/b3e66216.ext.json)
+
+---
+
+### AI subject introduced in 17 schools from March 19: Minister
+
+*2024-03-13 19:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AI-subject-introduced-in-17-schools-from-March-19-Minister/108-278788) · `en`
+
+Colombo, March 13 (Daily Mirror) - Artificial Intelligence (AI) will be introduced to 17 schools as a subject from Grade 8 on March 19, Education Minister Susil Premajayantha said.
+
+While attending the commemoration ceremony held at the Girls' High School, Mount Lavinia, he said amendments are being made for the Information Technology (IT) curriculum from Grade 8 to Grade 13.
+
+The Minister further said that Microsoft Corporation is working together with the Education Ministry for this purpose and will be able to provide subject knowledge to the children of this country according to international standards. It is expected to provide opportunities for children to exchange subject knowledge among schools through digital classrooms with smart boards.
+
+...
+
+[Data](articles/69a30b2e.json)
 
 ---
 
@@ -2413,95 +2475,5 @@ Hanii's father says his son-in-law was forcibly taken to his house on February 2
 [Data](articles/757550d0.json)
 
 [Extended Data](ext_articles/757550d0.ext.json)
-
----
-
-### NPP warns foreign countries against purchasing state property
-
-*2024-03-13 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-warns-foreign-countries-against-purchasing-state-property/108-278770) · `en`
-
-Colombo, March 13 (Daily Mirror)- While urging the government to stop selling state property with a national election within sight, the National People’s Power (NPP) yesterday warned any interested parties to reconsider before purchasing state property as a future NPP government would have to take decisions against such deals.
-
-NPP Economic Council member Sunil Handunnetti told a news conference that the government was planning to sell state property such as SriLankan Airlines, Telecom, CEB and Litro Gas at a bargain to gain commissions knowing that they would not be elected at the next election.
-
-He said the government has no mandate to sell state resources, state institutions or enterprises and added that the government must stop plans to hastily sell such property to siphon huge commissions at the eleventh hour.
-
-...
-
-[Data](articles/2d6299e7.json)
-
-[Extended Data](ext_articles/2d6299e7.ext.json)
-
----
-
-### Doctors who have gone abroad returns to the country
-
-*2024-03-13 10:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடு-சென்ற-வைத்தியர்கள்-நாடு-திரும்புகின்றனர்/175-334595) · `ta`
-
-Sri Lanka's health sector faces a doctor shortage, but the Ministry of Health expects this to be resolved as many doctors, including specialists, return home. The exodus was due to the challenges posed by the COVID-19 pandemic and the country's economic crisis.
-
-🟩
-
-The shortage of doctors in the health sector of Sri Lanka will be resolved in the future, with many doctors who have left the country, the Ministry of Health said.
-
-Deputy Director General (Medical Services) Dr. G.. He said that there was a shortage of doctors in Sri Lanka recently after several doctors, including special doctors and nurses, left the country.
-
-Health workers left the country due to the difficulties of the Corona virus infection and the consequences of the country's economic crisis.
-
-However, he said that many doctors, including special doctors, are currently returning to Sri Lanka.
-
-Dr. Wijesuriya, who said the number of health workers leaving the country had fallen, said many doctors would cancel their holidays and return to Sri Lanka.
-
-He added that the Ministry of Health has completed the appointment of special doctors for the necessary hospitals through doctors returning to Sri Lanka.
-
-...
-
-[Data](articles/0e351ca9.json)
-
-[Extended Data](ext_articles/0e351ca9.ext.json)
-
----
-
-### Pakistan’s new president Zardari decides to forgo salary
-
-*2024-03-13 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97916/pakistans-new-president-zardari-decides-to-forgo-salary) · `en`
-
-Pakistan’s newly-elected President Asif Ali Zardari on Tuesday announced that he would not draw any salary during his tenure as part of his bid to help the cash-strapped country face the challenging economic hardship.
-
-Zardari, 68, who took oath as Pakistan’s 14th President on Sunday, decided to encourage prudent financial management and not burden the national exchequer, his Pakistan Peoples Party (PPP) said in a statement on X.
-
-The President considered it essential not to burden the national exchequer and preferred to forgo his salary, President Secretariat Press Wing said in a press release on Tuesday.
-
-Former president Arif Alvi was drawing Rs 8,46,550 per month, which was fixed by Parliament in 2018. Zardari is one of the richest politicians in Pakistan.
-
-Zardari, co-chairman of the PPP, took oath as President of Pakistan for a second term at a ceremony at Aiwan-i-Sadr in Islamabad on Sunday.
-
-...
-
-[Data](articles/deb79bb4.json)
-
-[Extended Data](ext_articles/deb79bb4.ext.json)
-
----
-
-### The massive ice that fell on the top of the house
-
-*2024-03-13 10:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீடொன்றின்-மேல்-விழுந்த-பாரிய-பனிக்கட்டி/76-334594) · `ta`
-
-A massive snowfall in Badulla-Hali-Ela caused a stir, with about 5 kg of ice falling on a house in Relbola-Moragala, despite no rain.
-
-🟩
-
-A massive snowfall in the Badulla - Hali -Ela Police Division has caused a stir in the Relbola -Moragala area.
-
-It is reported that only about 5 kilograms of ice fell on the house.
-
-Residents of the area say that there was no rainy weather in the area yesterday.
-
-◼️
-
-[Data](articles/e2ed6194.json)
-
-[Extended Data](ext_articles/e2ed6194.ext.json)
 
 ---

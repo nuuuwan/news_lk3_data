@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 15:51:35**
+As of **2024-03-13 16:02:50**
 
 ## Newspaper Stats
 
-*Scraped **12,646** Articles*
+*Scraped **12,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,081
-adaderanalk | 1,525
+adaderanalk | 1,526
 tamilmirrorlk | 1,541
 virakesarilk | 1,762
 dailymirrorlk | 1,926
@@ -26,45 +26,81 @@ adaderanasinhalalk | 1,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,642 (100.0%) of 12,646 articles have been extended.
+12,646 (100.0%) of 12,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த நபருக்கு 10 வருட கடூழிய சிறை தண்டனை!
+### AI to be included to ICT curriculum from Grade 08
+
+*2024-03-13 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97925/ai-to-be-included-to-ict-curriculum-from-grade-08) · `en`
+
+Measures have been taken to revise the current Information and Communication Technology (ICT) curriculum in Sri Lanka’s schools for students from Grade 08 onwards.
+
+Accordingly, the subject of Artificial Intelligence (AI) will be introduced into the prevailing ICT curriculum for the students of aforesaid grades in schools, Minister of Education Susil Premajayantha said.
+
+The pilot project for launching the new curriculum will commence on March 19, with the participation of 17 schools.
+
+Premajayantha assured that Microsoft Corporation has joined hands with the Ministry of Education in order to provide the relevant subject knowledge for Sri Lankan students according international standards.
+
+The Education Minister expressed these views while joining the commemoration event held to mark the 100th anniversary of the Girls’ High School, Mount Lavinia.
+
+◼️
+
+[Data](articles/c3559f58.json)
+
+---
+
+### 10 years rigorous imprisonment for sexually abusing girl
 
 *2024-03-13 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178640) · `ta`
 
-நானுஓயா பொலிஸ் பிரிவிற்குட்பட்ட பாடசாலை சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றம் சுமத்தப்பட்டு நுவரெலியா மேல் நீதி மன்றத்தில் தொடரப்பட்டிருந்த வழக்கில்  குற்றவாளியாக இனங்காணப்பட்ட (52) வயதுடைய நபருக்கு 10 வருட கடூழிய சிறை தண்டனை தீர்ப்பை நுவரெலியா மேல் நீதி மன்றம்  வழங்கியது.
+A 52-year-old man, Baruch Mohamed Salit, was sentenced to 10 years in prison for sexually abusing a girl in Nanuoya, Sri Lanka, in 2011. The Nuwara Eliya High Court's verdict, issued by Judge Viraj Weerasuriya on March 13, 2014, also ordered the man to pay 15,000 rupees and serve an additional three months in prison.
 
-இந்த தீர்ப்பை நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரிய இன்று (13.03.2014) புதன்கிழமை   வழங்கி தீர்ப்பளித்தார்.
+🟩
 
-கடந்த 2011 ஆம் ஆண்டு காலப்பகுதியில் நானுஓயா பிரதேசத்தை சேர்ந்த பாருக் மொஹமட் சாலித் என்ற நபர் இதே பிரதேசத்தை சேர்ந்த 16 வயதுக்கு குறைவான பாடசாலை சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+The Nuwara Eliya High Court has sentenced a 10 -year -old jail sentence to a 10 -year -old man, who was accused of sexually abusing a school girl in Nanuoya police division, for allegedly sexually abusing the Nuwara Eliya High Court.
 
-இந்த நிலையில் இது தொடர்பாக பாடசாலை ஊடாக சிறுமியின் பெற்றோருக்கு தெரியவந்ததையடுத்து  குறித்த நபர்மீது நானுஓயா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்து விசாரணை நடத்தப்பட்டுள்ளது.
+Nuwara Eliya High Court Judge Viraj Weerasuriya issued the verdict on Wednesday (13.03.2014).
 
-இதையடுத்து தற்போது குற்றவாளியாக  இனங்காணப்பட்ட நபருக்கு எதிராக நுவரெலியா மேல் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டு விசாரணை செய்யப்பட்ட நிலையில் வழக்கிற்கான தீர்ப்பு இன்று புதன்கிழமை (13) வழங்கப்பட்டது.
+In 2011, a man named Baruch Mohamed Salit, a native of Nanuoya, had sexually abused a school girl under the age of 16 in the same area.
+
+In this case, the girl's parents were informed of the incident and a complaint was lodged at the Nanuoya police station.
+
+The verdict on the case was issued on Wednesday (13) as a case was filed in the Nuwara Eliya High Court.
+
+Nuwara Eliya High Court Judge Viraj Weerasuriya sentenced a 10 -year -old rigorous imprisonment of Baruch Mohamed Salid (age 52), a man who was found guilty of evidence against the culprit.
+
+At the same time, the judge ruled that the victim should be paid a compensation of Rs.
 
 ...
 
 [Data](articles/b4d07695.json)
 
+[Extended Data](ext_articles/b4d07695.ext.json)
+
 ---
 
-### கனேடிய உயர்ஸ்தானிகர் - அநுரகுமார சந்திப்பு
+### Canadian High Commissioner - Anuragumara Meeting
 
 *2024-03-13 15:23:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-உயர்ஸ்தானிகர்-அநுரகுமார-சந்திப்பு/175-334613) · `ta`
 
-கனேடிய உயர்ஸ்தானிகர் எரிக் வால்ஷ், தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்கவை ஜே.வி.பி தலைமையகத்தில் இன்று சந்தித்தார்.
+Canadian High Commissioner Eric Walsh met with National People's Power Leader Anura Kumara Dissanayake to discuss Sri Lanka's social, economic, and political conditions, as well as the National People's Power's projects for national reconciliation.
 
-இக்கலந்துரையாடலில் இலங்கையின் தற்போதைய சமூக, பொருளாதார மற்றும் அரசியல் நிலைமைகள் தொடர்பில் கவனம் செலுத்தப்பட்டது.
+🟩
 
-இதன்போது, தேசிய நல்லிணக்கத்தை நிலைநிறுத்துவதற்கான  தேசிய மக்கள் சக்தியின் திட்டங்கள் குறித்தும்  விவாதிக்கப்பட்டுள்ளது.
+Canadian High Commissioner Eric Walsh met with National People's Power Leader Anura Kumara Dissanayake at the JVP headquarters today.
+
+The focus was on Sri Lanka's current social, economic and political conditions.
+
+The projects of the National People's Power have also been discussed to uphold national reconciliation.
 
 ◼️
 
 [Data](articles/ad013ed8.json)
+
+[Extended Data](ext_articles/ad013ed8.ext.json)
 
 ---
 
@@ -82,25 +118,39 @@ The State Minister of Education A. Aravindh Kumar mentioned during the meeting t
 
 [Data](articles/bab97670.json)
 
+[Extended Data](ext_articles/bab97670.ext.json)
+
 ---
 
-### இன்று மக்களிடம் கையளிக்கப்படவுள்ள ஹொலுவாகொடை "செரின் ரிவர் பார்க்"
+### "Cheer River Park", which will be handed over to the people today
 
 *2024-03-13 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178629) · `ta`
 
-காலி, ஹொலுவாகொட "செரின் ரிவர் பார்க்" சுற்றுச்சூழல் பூங்கா இன்று புதன்கிழமை (13) மாலை 5.00 மணிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் பொதுமக்களிடம் கையளிக்கப்படவுள்ளது.
+"Cherin River Park in Holugoda, a 14-acre project by the Urban Development Authority, opens today. It features a lake, solar-powered systems, and plans for agricultural sales. Future boat services will boost tourism, and it aims to mitigate flooding in the area. Dr. Ramesh Pathirana will attend."
 
-செரின் ரிவர் பார்க் காலி நகரத்திலிருந்து வெகு தொலைவில் உள்ள ஹோலுவாகொடவில் நிர்மாணிக்கப்பட்டுள்ளது. 2021 ஆம் ஆண்டு கட்டத் தொடங்கிய இந்தப் பூங்கா, 14 ஏக்கர் பரப்பளவில் தரிசு நிலமாக உள்ளது.
+🟩
 
-நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் கீழுள்ள நகர அபிவிருத்தி அதிகார சபையினால் திட்டங்கள் தயாரிக்கப்பட்டுள்ளதுடன், பூங்காவின் நிர்மாணப்பணிகள் இலங்கை காணி மீட்புக் கூட்டுத்தாபனத்தினால் மேற்கொள்ளப்பட்டுள்ளது.
+The Galle, Holuvagoda "Cherin River Park" Environmental Park will be handed over to the public at 5.00 pm today (13) at 5.00 pm.
 
-ஹொலுவகொட செரின் ரிவர் பார்க் ஏரி, நடைபாதைகள், சுரங்கப்பாதைகள், சிறுவர் பூங்காக்கள், கடைத் தொகுதிகள், சுற்றுச்சூழல் அமைப்புகள் போன்றவற்றைக் கொண்டுள்ளதோடு சூரிய சக்தியால் இயங்குகிறது.
+Cherin River Park has constructed in Holugoda, far from Galle City. The park, which began in 2021, is a barren land of 14 acres.
 
-விவசாயப் பயிர்கள் மற்றும் உள்ளூர் மக்களின் பிற பொருட்களை மக்களுக்கு விற்பனை செய்யும் திட்டமும் இதன் மூலம் செயல்படுத்தப்படுகிறது.
+Plans have been prepared by the Urban Development Authority under the Ministry of Urban Development and Housing.
 
-...
+The Holuvagoda Serin River Park Lake, sidewalks, tunnels, children's parks, shop blocks, environmental systems and operates with solar power.
+
+It also implements a plan to sell agricultural crops and other goods to the people.
+
+In the future, the boat service will be held from the park to Wakwella, Vattareka and Galle, giving priority to the tourism industry.
+
+In addition, the park has to control the flood situation faced by the people of Holugoda and Obadha area for decades.
+
+Minister of Health and Industry Dr. Ramesh Pathirana will also attend the event.
+
+◼️
 
 [Data](articles/bb9605bb.json)
+
+[Extended Data](ext_articles/bb9605bb.ext.json)
 
 ---
 
@@ -2283,27 +2333,5 @@ From running cafes, restaurants, bars to exchanging money and running undial ser
 [Data](articles/2b1edb82.json)
 
 [Extended Data](ext_articles/2b1edb82.ext.json)
-
----
-
-### Tourists doing business: Sri Lanka to get tough
-
-*2024-03-13 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tourists-doing-business-Sri-Lanka-to-get-tough/155-278731) · `en`
-
-- Raids are presently being conducted in the south to identify illegally run businesses
-
-- In future, foreigners will need a local partner to operate businesses
-
-Colombo, March 13 (Daily Mirror) - The government will soon strengthen its laws to prevent foreign nationals from operating businesses in the country while they are under tourist visas and have already begun conducting raids in the south, the Daily Mirror learns.
-
-Earlier this month, the Daily Mirror exclusively reported that several foreign nationals including Russians, Ukrainians and Israelis who were in Sri Lanka under tourist visas were operating businesses in tourist hotspots which had severely hampered the local tourist industry.
-
-From running cafes, restaurants, bars to exchanging money and running undial services and providing accommodation and transport, several foreign nationals who have been in the country long term due to conflicts in their own countries, seem to have taken the law for granted.
-
-...
-
-[Data](articles/3b745d6a.json)
-
-[Extended Data](ext_articles/3b745d6a.ext.json)
 
 ---

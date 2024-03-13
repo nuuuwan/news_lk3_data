@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 07:52:58**
+As of **2024-03-13 08:03:51**
 
 ## Newspaper Stats
 
-*Scraped **12,541** Articles*
+*Scraped **12,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 666
 islandlk | 685
 adalk | 1,070
 adaderanalk | 1,511
-tamilmirrorlk | 1,521
+tamilmirrorlk | 1,522
 virakesarilk | 1,741
 dailymirrorlk | 1,909
 adaderanasinhalalk | 1,977
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,535 (100.0%) of 12,541 articles have been extended.
+12,541 (100.0%) of 12,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Panting (this can progress to distressed or noisy breathing as the heatstroke wo
 
 [Data](articles/72cfc8ae.json)
 
+[Extended Data](ext_articles/72cfc8ae.ext.json)
+
 ---
 
 ### Husband and wife found dead in murder-suicide at guest house
@@ -54,27 +56,43 @@ Panting (this can progress to distressed or noisy breathing as the heatstroke wo
 
 A man has fatally stabbed his wife before taking his own life by hanging himself inside a room at a guest house in Pothuvil, police said.
 
+The couple had been staying in a room at the guest house in Arugam Bay yesterday while following a suspicion due to them not opening the door, the manager of the establishment had informed officers at the Argugam Bay Police Post and broke down the door of the room with them.
+
+They had then discovered the woman in question lying in a pool of blood in the room while the man was found hanging inside the bathroom in an apparent murder-suicide.
+
+The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-year-old from Puthivil, police said.
+
 ◼️
 
 [Data](articles/992d7c03.json)
 
+[Extended Data](ext_articles/992d7c03.ext.json)
+
 ---
 
-### ඩයනාගෙන් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### Petition to Supreme Court from Dianya
 
 *2024-03-13 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194444) · `si`
 
-සිය පක්ෂ සාමජිකත්වය අහිමි කිරීමට සමගි ජන බලවේගය ගෙන තිබෙන තීරණය නීත්‍යානුකූල නොවන බවට තීන්දු කර එය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මිය විසින් ඉදිරිපත් කළ පෙත්සම ශ්‍රේෂ්ඨාධිකරණය හමුවේ යළි විභාගයට ගෙන තිබේ.
+Dianya petitions Supreme Court to reconsider party membership deprivation. Gamage, Gamini Amarasekera, Wickremasinghe, and Mahinda Samayayawardena preside. President's Counsel Jayampathi Wickramaratne argues against respondents' involvement, citing legal errors and constitutional violations. Gamage and Wickramaratne are legally vindicated. Gamage awaits appointment as 20th Amendment authority post-Rajapaksa.
 
-"අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේ, ගාමිණී අමරසේකර, කුමුදුනී වික්‍රමසිංහ සහ මහින්ද සමයවර්ධන යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැති බවය.
+🟩
 
-අදාළ පෙත්සමේ වගඋත්තරකරුවකු වශයෙන් නම්කර සිටින සමගි ජන බලවේගයේ මහ ලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ජයම්පති වික්‍රමරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අත්‍යවශ්‍ය පාර්ශව කිහිපයක් නම් කර නොමැති බව පෙන්වා දී තිබේ.
+State Minister Diana Gamage has taken back the petition in the Supreme Court asking to decide that the decision to deprive the decision to deprive its party membership.
 
-සමගි ජන බලවේගයේ කෘත්‍යාධිකාරි මණ්ඩලයේ සාමාජිකයින් හා විනය කමිටුවේ සියලු සාමාජිකයින් අදාළ පෙත්සමේ වග උත්තරකරුවන් වශයෙන් නම් කර නොමැති වීම බරපතළ නීතිමය දෝෂයක් යැයි පෙන්වා දුන් ජනාධිපති නීතිඥවරයා ඒ අනුව අදාළ පෙත්සමක් තවදුරටත් පවත්වාගෙන යාමට නොහැකි බවත් සඳහන් කළේය.
+"Today" stated that the petition was held before the Supreme Court Bench, Gamini Amarasekera, Kumuduni Wickremasinghe and Mahinda Samayayawardena.
+
+President's Counsel Jayampathi Wickramaratne, who is named as a respondent of the petition, has said that the respondents have not been named as respondents in the petition as respondents in the petition.
+
+The President's Counsel said that the Presidential Counsel, which was not called respondents of the Committee and the Committee of the Ministry of Publicity Committee and all members of the disciplinary committee, said that a legal error could not continue the petition.
+
+The President's Counsel has said that the decision of her party discipline is contrary to the party's constitution without pre-permission.
 
 ...
 
 [Data](articles/d886707d.json)
+
+[Extended Data](ext_articles/d886707d.ext.json)
 
 ---
 
@@ -92,21 +110,29 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 
 [Data](articles/7b69bc23.json)
 
+[Extended Data](ext_articles/7b69bc23.ext.json)
+
 ---
 
-### සරසවි අනධ්‍යයන සේවකයින් වැඩවර්ජනයක
+### University non-academic workers on strike
 
 *2024-03-13 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194443) · `si`
 
-වැටුප් ගැටලුවක් මුල්කරගනිමින් විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩල සේවකයින් ආරම්භ කළ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් දෙවන දිනටත් අද (13) ක්‍රියාත්මක වේ.
+University non-academic staff on strike due to unresolved salary issues. Trade union action continues, with a promise to address wage cuts. If not resolved, continuous strike from next week.
 
-අද පස්වරු 4.30 දක්වා එම වෘත්තීය සමිති ක්‍රියාමාර්ගය ක්‍රියාත්මක බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනයේ සමලේකම් කේ.එල්.ඩී.ජී රිච්මන්ඩ් මහතා සඳහන් කළේය.
+🟩
 
-"ඊයේ දහවල් 12ට දිවයිනේ තියෙන ජාතික විශ්වවිද්‍යාල 17ම අධ්‍යයන නොවන සේවක මණ්ඩලය සේවයෙන් ඉවත් වුණා. මෙයට ප්‍රධානම හේතුව පසුගිය ජනවාරි මාසයේ 22 වනදා සාකච්ඡාවේ දී අපිට පොරොන්දු වුණා විශ්වවිද්‍යාලවල වැටුප් කප්පාදුව නිවැරදි කරනවා කියලා. තාමත් එය නිවැරදි කරලා නෑ. ඒ නිසා වැඩවර්ජනය ක්‍රියාත්මකයි. බලධාරීන් මේකට විසඳුම් ලබාදෙන්නේ නැත්නම් අපිට සිදුවනවා ලබන සතියේ සිට අඛණ්ඩ වැඩවර්ජනයකට යොමු වෙන්න."
+A trade union action initiated by university non-academic staff workers on a salary problem will continue today (13).
+
+Mr. KLDG Richmond, Mr. K.L.DG Richmond said, "The Trade Union Program will take place up to 4.30 pm.
+
+"Non-familial staff left the service with the 17 national universities in the country yesterday afternoon. The main reason for this was the main reason for the discussion on January 22, we promised to correct the wage cuts of universities. I still haven't fixed it. So the strike is on. If the authorities do not solve this, we will have to go on continuous strike from next week. "
 
 ◼️
 
 [Data](articles/ddca9239.json)
+
+[Extended Data](ext_articles/ddca9239.ext.json)
 
 ---
 
@@ -153,6 +179,8 @@ From running cafes, restaurants, bars to exchanging money and running undial ser
 ...
 
 [Data](articles/2b1edb82.json)
+
+[Extended Data](ext_articles/2b1edb82.ext.json)
 
 ---
 
@@ -755,6 +783,28 @@ Sudden Death Inspector Amal Jayawardena had taken action to postpone the death i
 [Data](articles/6fc3fafb.json)
 
 [Extended Data](ext_articles/6fc3fafb.ext.json)
+
+---
+
+### குளாசை தொண்டையில் சிக்கி குழந்தை மரணம்
+
+*2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளாசை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
+
+காய்ச்சல் காரணமாக பாட்டி கொடுத்த மாத்திரையொன்று சிறுமியின் தொண்டையில் சிக்கியதில் 4 வயதுச் சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+
+மயக்கமடைந்த சிறுமி மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட சிறுமி நேற்று (11) உயிரிழந்துள்ளார்.
+
+தாய் வௌிநாடு சென்றுள்ளதால் தாத்தா, பாட்டி மற்றும் இரண்டு சகோதரிகளுடன் வீட்டில் வசித்து வந்துள்ளார்.
+
+தந்தை அவர்கள் வசிக்கும் வீட்டிற்கு அருகில் உள்ள வேறொரு வீட்டில் வசித்து வருவதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+மஹியங்கனை வைத்தியசாலையில் சிறுமியின் தொண்டையில் சிக்கியிருந்த மாத்திரை அகற்றப்பட்டு மேலதிக சிகிச்சைக்காக பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+விசாரணை அறிக்கை கிடைக்கும் வரை மரண விசாரணையை ஒத்திவைக்க திடீர் மரண பரிசோதகர் அமல் ஜயவர்தன நடவடிக்கை எடுத்திருந்தார். R
+
+◼️
+
+[Data](articles/a506f8d9.json)
 
 ---
 
@@ -2199,35 +2249,5 @@ The Ministry of Public Administration has further pointed out that the website c
 [Data](articles/31a6ad01.json)
 
 [Extended Data](ext_articles/31a6ad01.ext.json)
-
----
-
-### Nuwara Eliya District General Hospital Health Workers Struggle
-
-*2024-03-12 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178548) · `ta`
-
-Health workers at Nuwara Eliya District General Hospital protested for additional allowances, not for the 35k DAT payments given to doctors. The demonstration, held from 1 pm to 2 pm, demanded better service, promotion, and qualification allowances.
-
-🟩
-
-Health workers in front of the Nuwara Eliya District General Hospital were engaged in a protest march today (12) at lunchtime.
-
-Staff in the Nuwara Eliya District General Hospital, other than the doctors who serve, staged a protest demonstration.
-
-The rally was held in front of the Nuwara Eliya District General Hospital for about an hour at lunchtime.
-
-It is noteworthy that all the health services staff who were part of the 72 trade unions who were working at the hospital participated in the demonstration.
-
-At the same time, those who participated in the demonstration did not ask us to give us 35 thousand DAT payments given to doctors.
-
-On the contrary, the government and the Ministry of Health have taken steps to provide additional allowance to the service, promotion and qualifications of those who carry out the health service.
-
-The demonstration, which was carried out from 1 pm to 2 pm, was chanting and chanting their demands.
-
-...
-
-[Data](articles/ff1dada7.json)
-
-[Extended Data](ext_articles/ff1dada7.ext.json)
 
 ---

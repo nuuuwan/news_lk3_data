@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 02:33:26**
+As of **2024-03-14 02:50:27**
 
 ## Newspaper Stats
 
-*Scraped **12,724** Articles*
+*Scraped **12,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 122
 bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 652
+dailyftlk | 653
 economynextcom | 680
 islandlk | 686
 adalk | 1,089
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,724 (100.0%) of 12,724 articles have been extended.
+12,724 (100.0%) of 12,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### New IPS publication explores trade wars in EV supply chains and Sri Lanka’s graphite industry
+
+*2024-03-14 02:21:25* · [`dailyftlk`](https://www.ft.lk/business/New-IPS-publication-explores-trade-wars-in-EV-supply-chains-and-Sri-Lanka-s-graphite-industry/34-759446) · `en`
+
+The authors of the publication (from left) Dr. Asanka Wijesinghe, Malisha Weerasinghe and Chaya Dissanayake
+
+Sri Lanka is poised to benefit from the global trend towards electric vehicles (EVs), leveraging its top-quality vein graphite crucial for EV battery manufacturing.
+
+The country’s commitment to sustainability and quality standards places it strategically in the non-China graphite export market, boosted by US industrial policies favouring domestic assembly and non-China sources.
+
+A new IPS study highlights Sri Lanka’s opportunity to become part of the EV battery supply chain. It suggests focusing on upstream activities including exporting battery-grade graphite and anodes, and strengthening Research and Development to enhance its strategic position in the non-China graphite export sector, thus attracting investment and ensuring sustainability.
+
+...
+
+[Data](articles/d0d34356.json)
+
+---
 
 ### Sri Lanka leaders should get best political economy practices from top economies in the world
 
@@ -2387,29 +2405,5 @@ The Vice President of the Burger Organization of the Burger Organization, which 
 [Data](articles/be6d7bdd.json)
 
 [Extended Data](ext_articles/be6d7bdd.ext.json)
-
----
-
-### Artificial Intelligence with IT 8
-
-*2024-03-13 13:09:30* · [`adalk`](https://www.ada.lk/technology/තොරතුරු-තාක්ෂණය-සමඟ-කෘතිම-බුද්ධිය-8-වසරින්--ඉහළ-දරුවන්ට/5-408584) · `si`
-
-Minister Susil Premajayantha emphasizes the importance of AI, Nanotech, BioTech, Genetics in education, aiming to prepare children for the future despite challenges. Steps have been taken to amend curriculum from 8th to 13th grade, introducing AI. Collaboration with Microsoft aims for international standards. The Minister highlights the integration of new technology in education, digitizing centers, and training teachers.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the children of the education of the education sector is essential to children, such as Nanotechnology, Bio Technology, Genetics, artificial intelligence,.
-
-He said that no matter what obstacles, the future growing could not miss out to prepare our children. The Minister was speaking at the commemorative ceremony of the Mount Lavinia to mark its completion of his year.
-
-It is informated that it has already taken steps to amend the Scriptures from 8th Grade, 8, 11, 12, and 13th and 13th, and 13, 12, 12, and 13th.He also introduced artificial intelligence (artificial intelligence) with the curriculum.
-
-According to the Minister of Education, the Microsoft is collaborative with the Ministry of Education and to provide the subject knowledge between the international standards and the subject knowledge with international standards.
-
-...
-
-[Data](articles/e0971873.json)
-
-[Extended Data](ext_articles/e0971873.ext.json)
 
 ---

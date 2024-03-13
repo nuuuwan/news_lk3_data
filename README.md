@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 16:34:20**
+As of **2024-03-13 16:50:01**
 
 ## Newspaper Stats
 
-*Scraped **12,651** Articles*
+*Scraped **12,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 669
 islandlk | 686
 adalk | 1,082
 adaderanalk | 1,527
-tamilmirrorlk | 1,543
-virakesarilk | 1,762
-dailymirrorlk | 1,926
-adaderanasinhalalk | 1,992
+tamilmirrorlk | 1,544
+virakesarilk | 1,763
+dailymirrorlk | 1,929
+adaderanasinhalalk | 1,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,650 (100.0%) of 12,651 articles have been extended.
+12,651 (99.9%) of 12,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-13 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178651) · `ta`
+
+இன்று புதன்கிழமை (மார்ச் 13) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 301.7622 ஆகவும் விற்பனை விலை ரூபா 311.0041ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a933936a.json)
+
+---
+
+### කැනඩා මහ කොමසාරිස් සහ අනුර කුමාර අතර හමුවක්
+
+*2024-03-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194463) · `si`
+
+ශ්‍රී ලංකාවේ කැනඩා මහ කොමසාරිස් එරික් වොල්ෂ් සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් සිදු විය.
+
+මෙම හමුව සඳහා ශ්‍රී ලංකාවේ කැනඩා මහ කොමසාරිස් කාර්යාලයේ දෙවැනි ලේකම් (දේශපාලන) පැට්‍රික් පිකරින්,  (Patrick Pickering) ජාතික ජන බලවේගයේ ජාතික විධායක සභික විජිත හේරත් මහතා ද එක්වී තිබේ.
+
+මෙම හමුවේදී මේ වනවිට ශ්‍රී ලංකාවේ පවතින සමාජ ආර්ථික හා දේශපාලන තත්ත්වය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡාවට බඳුන් වී ඇත.
+
+ජාතික සමගිය ගොඩනැගීම වෙනුවෙන් ජාතික ජන බලවේගයේ සැලසුම් පිළිබඳවද දෙපාර්ශ්වය අතර අදහස් හුවමාරු වී තිබේ.
+
+කැනඩාවේ වෙසෙන ශ්‍රී ලාංකිකයින් හමුවීම සඳහා අනුර කුමාර දිසානායක මහතාගේ ඉදිරි කැනඩා සංචාරයට සුබ පැතීමටද මහ කොමසාරිස්වරයා මෙහිදී කටයුතු කර තිබූ බව ජාතික ජන බලවේගයය පවසයි.
+
+ජනතා විමුක්ති පෙරමුණ ප්‍රධාන කාර්යාලයේදී අද (13) පෙරවරුවේ මෙම හමුව සිදුවී ඇත.
+
+◼️
+
+[Data](articles/12ac5e1d.json)
+
+---
+
+### Civil Aviation Authority gets new Director General
+
+*2024-03-13 16:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Civil-Aviation-Authority-gets-new-Director-General/108-278783) · `en`
+
+Colombo, March 13 (Daily Mirror)- Air Vice Marshal H.M.S.K.B. Kotakadeniya (Retd) has been appointed as the new Director General of Civil Aviation and its Chief Executive Officer.
+
+He was appointed with the approval of the Cabinet of Ministers after the retirement of the former Director General of Civil Aviation.
+
+The official appointment letter was presented by Ports, Shipping, and Aviation Minister Nimal Siripala de Silva.
+
+Prior to assuming the role of Director General of Civil Aviation, AVM H.M.S.K.B. Kotakadeniya (Retd) served as a Director on the Board of Directors of CAASL since August 2022.
+
+◼️
+
+[Data](articles/416fa9c1.json)
+
+---
+
+### මහ බැංකුවේ පඩි කපන යෝජනාව භාරදෙයි
+
+*2024-03-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194462) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රි උදය ගම්මන්පිල මහතා විසින් ගෙනඑනු ලබන පෞද්ගලික මන්ත්‍රී යෝජනාව අද (13) පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් හංස අබේරත්න මහතා වෙත භාරදී තිබේ.
+
+මෙය 2023 අංක 16 දරණ ශ්‍රී ලංකා මහ බැංකු පනත සංශෝධනය කිරීම සඳහා ගෙන එයි.
+
+මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කරගැනීම අවලංගු කිරීම සහ මහ බැංකුවේ සේවක වැටුප් වැඩි කිරීමේදී මුදල් අමාත්‍යවරයාගේ එකඟතාවය ලබාගැනීම අනිවාර්යය කිරීම මෙහි අරමුණු වෙයි.
+
+මෙම පෞද්ගලික මන්ත්‍රී යෝජනාව භාර ගනිමින් පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් හංස අබේරත්න මහතා ප්‍රකාශ කර ඇත්තේ ජාතික වැදගත්කමක් සේ සලකා නීතිපතිවරයාගේ මතය විමසීමට මෙම පනත් කෙටුම්පත කඩිනමින් ඉදිරිපත් කරන බවය.
+
+◼️
+
+[Data](articles/2383401b.json)
+
+---
 
 ### AKD, Canadian envoy discuss Sri Lanka’s socio-economic & political situation
 
@@ -49,6 +119,8 @@ Patrick Pickering, the Second Secretary (Political) of the Canadian High Commiss
 ◼️
 
 [Data](articles/485b0612.json)
+
+[Extended Data](ext_articles/485b0612.ext.json)
 
 ---
 
@@ -82,6 +154,30 @@ At the same time, the judge ruled that the victim should be paid a compensation 
 
 ---
 
+### අවසන් තීරණය එළියට ජය කාටද ?
+
+*2024-03-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194461) · `si`
+
+ලබන නොවැම්බර් මාසයේදී පැවැත්වීමට නියමිත අමෙරිකානු ජනාධිපතිවරණයට අදාළ පක්ෂ ප්‍රාන්ත මැතිවරණ මේ දිනවල පැවැත්වෙයි.
+
+එහිදී ඩිමොක්‍රොටික් පක්ෂ ජනාධිපතිවරණ අපේක්ෂකත්වය දිනාගැනීමට වත්මන් ජනාධිපති ජෝ බයිඩන් සමත්ව තිබේ.
+
+ඊයේ පැවති ජෝර්ජියා ප්‍රාථමික මැතිවරණය ඔහු ජයගැනීමත් සමඟින් ඔහුට ඒ සඳහා අවස්ථාව හිමිවිය.
+
+එමෙන්ම රිපබ්ලිකන් පක්ෂ අපේක්ෂකත්වය දිනා ඇත්තේ එහි තනි ප්‍රධාන අපේක්ෂකයා වන හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්.
+
+ඒ ඔහු වොෂින්ටන් ප්‍රාන්ත ප්‍රාථමික මැතිවරණය ජයගනු ඇතැයි පවතින පුරෝකතන හේතුවෙනි .
+
+කෙසේ නමුත් ඔවුන්ගේ අපේක්ෂකත්වය නිල වශයෙන් තහවුරු වන්නේ ඉදිරියේ පැවැත්වීමට නියමිත එම පක්ෂවල ජාතික සම්මේලනවලදීයි.
+
+2019 අමෙරිකානු ජනාධිපතිවරණයට ඉදිරිපත්වූ අපේක්ෂකයින් දෙදෙනාම මෙවර ජනාධිපතිවරණය සඳහා සුදුසුකම් ලැබීම විශේෂ වන අතර, එවන් සිදුවීමක් වන්නේ වසර 70කට පමණ පසුවයි.
+
+◼️
+
+[Data](articles/acc12b1b.json)
+
+---
+
 ### "Eggs will be imposed on prices"
 
 *2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு-விதிக்கப்படும்/175-334615) · `ta`
@@ -105,6 +201,26 @@ However, the Minister promised that if the price of egg producers failed to redu
 [Data](articles/3a73cb84.json)
 
 [Extended Data](ext_articles/3a73cb84.ext.json)
+
+---
+
+### ”முட்டைக்கு விலைக் கட்டுப்பாடு ”
+
+*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு/175-334615) · `ta`
+
+எதிர்வரும் பண்டிகை காலத்தை முன்னிட்டு நியாயமான விலையில் முட்டைகளை வழங்கும் முயற்சியில், விலைக் கட்டுப்பாடு அமுல்படுத்தப்படவுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+விவசாய அமைச்சருக்கும் அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கப் பிரதிநிதிகளுக்கும் இடையில் இன்று (13) இடம்பெற்ற கலந்துரையாடலின் போதே இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+கலந்துரையாடலின் போது, ​​தற்போதுள்ள முட்டை விலைகள் பரிசீலனைக்கு எடுத்துக் கொள்ளப்பட்டு, தற்போது ரூ. 48 ஆக உள்ள விலையை மேலும் குறைக்க வேண்டியதன் அவசியத்தை வலியுறுத்தப்பட்டது
+
+முட்டை உற்பத்தியாளர்களும் விலை குறைவதை ஏற்கனவே அவதானித்துள்ளதால் விலையை குறைக்க விருப்பம் தெரிவித்துள்ளனர்.
+
+எவ்வாறாயினும், முட்டை உற்பத்தியாளர்கள் விலையை குறைக்கத் தவறினால் கட்டுப்பாட்டு விலை அமுல்படுத்தப்படும் என அமைச்சர் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/65bf0a73.json)
 
 ---
 
@@ -149,6 +265,42 @@ The Education Minister expressed these views while joining the commemoration eve
 [Data](articles/c3559f58.json)
 
 [Extended Data](ext_articles/c3559f58.ext.json)
+
+---
+
+### Chinese woman who left her child with Sri Lankan nanny arrested at BIA
+
+*2024-03-13 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinese-woman-who-left-her-child-with-Sri-Lankan-nanny-arrested-at-BIA/108-278782) · `en`
+
+Katunayake, March 13 (Daily Mirror)- A Chinese woman who attempted to leave her younger daughter aged three and half with her Sri Lankan nanny and flee from the country was arrested at the Katunayake International Airport by the Airport Police last night when she was about to board the plane.
+
+Investigations revealed that the 35 year-old Chinese woman had been living with her mother and two daughters in a rented house in Dubai and earned her living as a dancer in night clubs.
+
+The Sri Lankan nanny employed by her to look after the younger daughter was a 53 year-old woman from Potuhera in Kurunegala. She had returned to the country recently after the expiry of her visa, but the little child who loved her more than the mother was taken ill after separating from her and could not be consoled.
+
+...
+
+[Data](articles/cf325041.json)
+
+---
+
+### Minister warns of imposing price control on eggs
+
+*2024-03-13 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-warns-of-imposing-price-control-on-eggs/108-278781) · `en`
+
+Colombo, March 13 (Daily Mirror) - In a bid to provide eggs at a reasonable price ahead of the upcoming festive season, Agriculture Minister Mahinda Amaraweera said a controlled price will be imposed in light of soaring prices.
+
+This was raised during a discussion held between the Agriculture Minister and representatives of the All Ceylon Egg Producers' Association today (13).
+
+During the discussion, the existing prices of eggs were taken into consideration, highlighting the need to further bring down the prices, which is currently at Rs. 48.
+
+Egg producers also expressed their willingness to reduce the prices as they have already noticed a downward trend in the price.
+
+However, the Minister asserted that a controlled price would be imposed if the egg producers failed to reduce prices.
+
+◼️
+
+[Data](articles/778afb4e.json)
 
 ---
 
@@ -2169,177 +2321,5 @@ L. Mr. Ilangowan had also held the post of Secretary of the Northern Province as
 [Data](articles/26a519ab.json)
 
 [Extended Data](ext_articles/26a519ab.ext.json)
-
----
-
-### Recovery of two bodies in Pottuvil
-
-*2024-03-13 08:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவிலில்-இரண்டு-சடலங்கள்-மீட்பு/175-334589) · `ta`
-
-Two bodies, one male and one female, were found in Pottuvil, near a hotel.
-
-🟩
-
-The bodies of both male and female have been found, police said.
-
-The bodies have been found from a hotel in Pottuvil - nearby area.
-
-◼️
-
-[Data](articles/2b7f5faa.json)
-
-[Extended Data](ext_articles/2b7f5faa.ext.json)
-
----
-
-### Highlights of Internet fraud
-
-*2024-03-13 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194445) · `si`
-
-Internet fraud in Sri Lanka surged, with 1,609 cases reported in 2023, up from 423 in the previous year. Frauds on online jobs increased, with 110 reported in January, 213 in February, and 100 to date. Other highlights include 775 incidents of nude photos being released online, 5,188 fake social media accounts, and 98 incidents involving young children. Unauthorized access and false accounts also rose significantly.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Team says that a growth of crimes committed online has been observed.
-
-Senior Information Security Engineers at the time of the year, 423 computer cheats were reported during the year.
-
-"The frauds that took place on the premises on the premises on the premises on the premises of the online jobs online have increased in the past two months since last year.. 2023 We have recorded 1,609 Internet cheats. In January, 110 such frauds have been reported on January. In February, 213 Internet frauds and 100 were reported to date. When money fraud, we have given the technical support they need and directly referred to the Computer Crimes Division. "
-
-Protection of Information Security Engineer Warrachi Delunakola, Special Communications on Computer Crime
-
-...
-
-[Data](articles/08c730ae.json)
-
-[Extended Data](ext_articles/08c730ae.ext.json)
-
----
-
-### Repeated reminders from Education Ministry over extreme heat
-
-*2024-03-13 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Repeated-reminders-from-Education-Ministry-over-extreme-heat/108-278733) · `en`
-
-Colombo, March 13 (Daily Mirror) - Letters have been sent to all Provincial Education Directors, recalling the recommendations on how schools should act during the current high temperatures.
-
-The letters were sent by Education Ministry Secretary Wasana Perera after considering the sudden death of the 16-year-old schoolboy in Ampara while participating in a marathon race.
-
-The Secretary mentioned in her letters that some schools had ignored the recommendations issued by the Ministry.
-
-The letter has given instructions on how to plan the daily activities and outdoor activities of all schools and pirivenas based on the high temperatures prevailing these days.
-
-◼️
-
-[Data](articles/98d5cd96.json)
-
-[Extended Data](ext_articles/98d5cd96.ext.json)
-
----
-
-### Rs. Mn for home garden. 232
-
-*2024-03-13 07:59:54* · [`adalk`](https://www.ada.lk/breaking_news/ගෙවතු-වගා-වෙනුවෙන්-රු-මි--232ක්/11-408576) · `si`
-
-The Ministry of Agriculture allocated Rs. 232 million for home gardening, focusing on strengthening the economy and agriculture. Despite facing economic crises and heavy rains, efforts are being made to increase farmers' yields and introduce new crop varieties. The Department of Agrarian Development plans to cultivate 512,000 hectares during the Yala season, emphasizing water conservation and the introduction of intermediate crops like green, corn, and potatoes.
-
-🟩
-
-The Ministry of Agriculture Mohan Priyadarshana de Silva said that the Ministry of Agriculture is in a maximum of Rs.
-
-The State Minister said that Rs. 232 million has been allocated by the Agrarian Development Department.
-
-State Minister of Agriculture Mohan Priyadarshana De Silva made this statement participating at a press conference held at the Presidential Media Center today (12).
-
-": At present we are a terrible economic crisis. In the recent past, many crises were facing a large number of crises.But now that situation is changing. The Ministry of Agriculture is also building a large number of strengthening the country's economy. At the meeting, the economy of the country and agriculture have increased higher than before.
-
-...
-
-[Data](articles/c3651664.json)
-
-[Extended Data](ext_articles/c3651664.ext.json)
-
----
-
-### Pets at risk: Heatstroke threatens pets in soaring temperatures
-
-*2024-03-13 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pets-at-risk-Heatstroke-threatens-pets-in-soaring-temperatures/108-278732) · `en`
-
-Colombo, March 13 (Daily Mirror) - Following the current high temperature, pets, especially dogs and cats, face significant health risks from heatstroke as they primarily dissipate heat through panting, with limited sweating through paw pads and the nose, unlike humans, City Pet Animal Hospital Managing Director Dr. Sugath Premachandra said.
-
-He said pet animals regulate their body temperature by panting. When the panting is not sufficient to get their temperature down, they can go on to develop heatstroke, he said.
-
-Panting (this can progress to distressed or noisy breathing as the heatstroke worsens), restlessness or agitation, pacing, seeking shade or water, drooling, red gums, increased heart rate, and vomiting or diarrhoea can be mentioned as early signs of heatstroke in pet animals.
-
-...
-
-[Data](articles/72cfc8ae.json)
-
-[Extended Data](ext_articles/72cfc8ae.ext.json)
-
----
-
-### Husband and wife found dead in murder-suicide at guest house
-
-*2024-03-13 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97910/husband-and-wife-found-dead-in-murder-suicide-at-guest-house) · `en`
-
-A man has fatally stabbed his wife before taking his own life by hanging himself inside a room at a guest house in Pottuvil, police said.
-
-The couple had been staying in a room at the guest house in Arugam Bay yesterday while following a suspicion due to them not opening the door, the manager of the establishment had informed officers at the Argugam Bay Police Post and broke down the door of the room with them.
-
-They had then discovered the woman in question lying in a pool of blood in the room while the man was found hanging inside the bathroom in an apparent murder-suicide.
-
-The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-year-old from Pottuvil, police said.
-
-◼️
-
-[Data](articles/992d7c03.json)
-
-[Extended Data](ext_articles/992d7c03.ext.json)
-
----
-
-### Couple found dead in murder-suicide at guest house
-
-*2024-03-13 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97910/couple-found-dead-in-murder-suicide-at-guest-house) · `en`
-
-A man has fatally stabbed a woman before taking his own life by hanging himself inside a room at a guest house in Pottuvil, police said.
-
-The couple had been staying in a room at the guest house in Arugam Bay yesterday and owing to a suspicion due to them not opening the door, the manager of the establishment had informed officers at the Argugam Bay Police Post and broke down the door of the room with their help.
-
-They had then discovered the woman in question lying in a pool of blood in the room while the man was found hanging inside the bathroom in an apparent murder-suicide.
-
-The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-year-old from Pottuvil, police said.
-
-◼️
-
-[Data](articles/ef5c5b47.json)
-
-[Extended Data](ext_articles/ef5c5b47.ext.json)
-
----
-
-### Petition to Supreme Court from Dianya
-
-*2024-03-13 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194444) · `si`
-
-Dianya petitions Supreme Court to reconsider party membership deprivation. Gamage, Gamini Amarasekera, Wickremasinghe, and Mahinda Samayayawardena preside. President's Counsel Jayampathi Wickramaratne argues against respondents' involvement, citing legal errors and constitutional violations. Gamage and Wickramaratne are legally vindicated. Gamage awaits appointment as 20th Amendment authority post-Rajapaksa.
-
-🟩
-
-State Minister Diana Gamage has taken back the petition in the Supreme Court asking to decide that the decision to deprive the decision to deprive its party membership.
-
-"Today" stated that the petition was held before the Supreme Court Bench, Gamini Amarasekera, Kumuduni Wickremasinghe and Mahinda Samayayawardena.
-
-President's Counsel Jayampathi Wickramaratne, who is named as a respondent of the petition, has said that the respondents have not been named as respondents in the petition as respondents in the petition.
-
-The President's Counsel said that the Presidential Counsel, which was not called respondents of the Committee and the Committee of the Ministry of Publicity Committee and all members of the disciplinary committee, said that a legal error could not continue the petition.
-
-The President's Counsel has said that the decision of her party discipline is contrary to the party's constitution without pre-permission.
-
-...
-
-[Data](articles/d886707d.json)
-
-[Extended Data](ext_articles/d886707d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 10:51:43**
+As of **2024-03-13 11:02:53**
 
 ## Newspaper Stats
 
-*Scraped **12,575** Articles*
+*Scraped **12,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,167 @@ dailyftlk | 650
 economynextcom | 666
 islandlk | 685
 adalk | 1,074
-adaderanalk | 1,516
+adaderanalk | 1,518
 tamilmirrorlk | 1,526
 virakesarilk | 1,751
-dailymirrorlk | 1,913
-adaderanasinhalalk | 1,981
+dailymirrorlk | 1,917
+adaderanasinhalalk | 1,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,573 (100.0%) of 12,575 articles have been extended.
+12,575 (99.9%) of 12,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### இலங்கை உத்தேச அரசசார்பற்ற அமைப்பு சட்டமூலத்தை கைவிடவேண்டும் என சர்வதேச நாணயநிதியம் வேண்டுகோள் விடுக்கவேண்டும் -  சர்வதேச மனித உரிமை கண்காணிப்பகம் கடிதம்
+### ජපානයේ සේවකයින්ට ලොකු වැටුප් වර්ධකයක්
 
-*2024-03-13 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178591) · `ta`
+*2024-03-13 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194450) · `si`
 
-இலங்கை அரசாங்கம் உத்தேச அரசசார்பற்ற அமைப்பு சட்டத்தை கைவிடவேண்டும் என சர்வதேச நாணயநிதியம் வேண்டுகோள் விடுக்கவேண்டும் என சர்வதேச மனித உரிமை கண்காணிப்பகம் வேண்டுகோள் விடுத்துள்ளது.
+වසර විසි පහකට පසුව සිය සේවකයින්ට දැනෙන වැටුප් වැඩිවීමක් ලබාදීමට ටොයෝටා මෝටර් සමාගම එකඟ වූ බව රොයිටර්ස් පුවත් සේවය වාර්තා කරයි.
 
-நிகழ்நிலை பாதுகாப்பு சட்டத்தை பயன்படுத்துவதை இலங்கை அரசாங்கம் நிறுத்தவேண்டும் மனித உரிமை தராதரங்களை மதிக்கும் விதத்தில் பயங்கரவாத எதிர்ப்பு சட்டத்தில்மாற்றங்களை மேற்கொள்ளவேண்டும் என சர்வதேச நாணயநிதியம் இலங்கை அரசாங்கத்திடம் வேண்டுகோள் விடுக்கவேண்டும் எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவி;த்துள்ளது.
+ජපානයේ ප්‍රමුඛ සමාගම් වන ටොයෝටා, පැනසොනික් සහ නිසාන් සමාගම් ද වැටුප් වැඩිකරන ලෙස සිය සේවක වෘත්තීය සමිති කළ ඉල්ලීම් සඳහා සම්පූර්ණ එකඟත්වය ලබාදී තිබේ.
 
-சர்வதே நாணயநிதியத்திற்கான கடிதமொன்றில் சர்வதேச மனித உரிமை கண்காணிப்பகம் இந்த வேண்டுகோளை விடுத்துள்ளது.
+එසේම නිපොන් ස්ටීල් සමාගම ද සිය සේවක වැටුප සැලකිය යුතු ලෙස වැඩිකර තිබුණි.
 
-இலங்கையில் சிவில் சமூகத்தின் நடவடிக்கைகளை பெருமளவிற்கு கட்டுப்படுத்தும்  நாட்டில் சர்வதேச நாணயநிதியத்தின் திட்டங்களிற்கு பாதிப்பை ஏற்படுத்தும் நகல்சட்ட மூலத்தை இலங்கை அரசாங்கம் கைவிடவேண்டும் என சர்வதேச நாணயநிதியம் இலங்கை அரசாங்கத்தை கேட்டுக்கொள்ளவேண்டும் எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+අදාළ පාර්ශ්වයන් අතර වැටුප් සම්බන්ධයෙන් පැවැත්වෙන වාර්ෂික සාකච්ඡා සාර්ථකව නිමවූ බව සඳහන් ය.
+
+සාමාන්‍යයෙන් ජපානයේ වෘත්තීය සමිති සහ කළමනාකරණය අතර හොඳ වැටහීමක් ඇති බැවින් එම සාකච්ඡා සැමවිට අර්බුදයකින් තොරව නිමවෙයි.
+
+මෝටර් රථ නිෂ්පාදනයේ ලොව ප්‍රමුඛයා වන ටොයෝටා සමාගම සේවක මාසික වැටුප යෙන් 28,440කින් වැඩිකිරීමට එකඟ වී තිබේ.
+
+ජපානයේ බොහෝ ක්ෂේත්‍රවල සේවකයින්ට මෙවර ඉහළ වැටුප් වර්ධකයක් ලබාදී ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/3d1d66c8.json)
+
+---
+
+### GMOA raises concerns over establishment of medicine faculty at NSBM
+
+*2024-03-13 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-raises-concerns-over-establishment-of-medicine-faculty-at-NSBM/108-278771) · `en`
+
+Colombo, March 13 (Daily Mirror) -  On the heels of the cabinet nod to establish a medical faculty at the National School of Business Management (NSBM), the Government Medical Officers Association (GMOA) has expressed reservations, questioning the necessity of the move as it appears unrealistic.
+
+Speaking to the Daily Mirror, GMOA Media Spokesman Dr. Chamil Wijesinghe emphasized the importance of conducting a proper feasibility study before making a final decision.
+
+"As Sri Lanka is renowned for upholding competitive and high standards in medical education, it is imperative to consider the potential loopholes that could hinder local competitiveness when establishing new faculties of this nature," he pointed out.
+
+As such, Dr. Wijesinghe stressed that health authorities must ensure that standards are not compromised with the establishment of the new faculty.
 
 ...
 
+[Data](articles/e9562dd5.json)
+
+---
+
+### ඇල්පිටියේ තරුණියගේ ඝාතකයා පොලීසියට කොටු
+
+*2024-03-13 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194449) · `si`
+
+ඇල්පිටිය ප්‍රදේශයේදී 17 තරුණියක් ඝාතනය කිරීමේ සිදුවීමට සම්බන්ධ ප්‍රධාන සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (12) එම සැකකරුව අත්අඩංගුවට ගෙන ඇති අතර, එලෙස අත්අඩංගුවට ගෙන ඇත්තේ, මරණකාරියගේ මස්සිනා වන සුදේශ් ප්‍රියංකර නැමැති පුද්ගලයෙකි.
+
+පොලීසිය විසින් සැකකරුගෙන් සිදුකළ ප්‍රශ්නකිරීමේදී ඔහු පවසා ඇත්තේ, ඝාතනය වූ තරුණිය වෙනත් පුද්ගලයෙකු සමග සම්බන්ධකමක් පවත්වාගෙන ගොස් ඇති බැවින් ඝාතනය සිදුකළ බවය.
+
+පසුව පොලීසිය විසින් සැකකරුව ඇල්පිටිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර ඇති අතර එහිදී වැඩබලන මහෙස්ත්‍රාත්වරයා විසින් සැකකරු එළැඹෙන 21 වන දා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ගෙල කපා ඝාතනය කළ 17 හැවිරිදි තරුණියකගේ සිරුරක් ඇල්පිටිය තලාව ප්‍රදේශයේ තේ වත්තක තිබී පසුගිය 09 වනදා සොයා ගැණුනි.
+
+මස්සිනා විසින් එසේ පැහැරගෙන ගොස් ඝාතනය කර තිබුණේ කරන්දෙණිය, තල්ගහවත්ත ප්‍රදේශයේ පදිංචි හංසිකා නදීෂානි නමැති තරුණියකි.
+
+ඇගේ සහෝදරිය ඇල්පිටිය මන්නකන්ද ප්‍රදේශයේ පදිංචිව සිට ඇති අතර ඇගේ දරු දෙදෙනා බලාගැනීම සඳහා මාස එකහමාරකට පෙර හංසිකා ඒ නිවස වෙත ගොස් තිබිණි.
+
+ඒ අතරතුර සහෝදරියගේ සැමියා සමග ඇය සමීප සබඳතාවක් පවත්වාගෙන ගොස් තිබිණි.
+
+...
+
+[Data](articles/757550d0.json)
+
+---
+
+### NPP warns foreign countries against purchasing state property
+
+*2024-03-13 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-warns-foreign-countries-against-purchasing-state-property/108-278770) · `en`
+
+Colombo, March 13 (Daily Mirror)- While urging the government to stop selling state property with a national election within sight, the National People’s Power (NPP) yesterday warned any interested parties to reconsider before purchasing state property as a future NPP government would have to take decisions against such deals.
+
+NPP Economic Council member Sunil Handunnetti told a news conference that the government was planning to sell state property such as SriLankan Airlines, Telecom, CEB and Litro Gas at a bargain to gain commissions knowing that they would not be elected at the next election.
+
+He said the government has no mandate to sell state resources, state institutions or enterprises and added that the government must stop plans to hastily sell such property to siphon huge commissions at the eleventh hour.
+
+...
+
+[Data](articles/2d6299e7.json)
+
+---
+
+### Pakistan’s new president Zardari decides to forgo salary
+
+*2024-03-13 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97916/pakistans-new-president-zardari-decides-to-forgo-salary) · `en`
+
+Pakistan’s newly-elected President Asif Ali Zardari on Tuesday announced that he would not draw any salary during his tenure as part of his bid to help the cash-strapped country face the challenging economic hardship.
+
+Zardari, 68, who took oath as Pakistan’s 14th President on Sunday, decided to encourage prudent financial management and not burden the national exchequer, his Pakistan Peoples Party (PPP) said in a statement on X.
+
+The President considered it essential not to burden the national exchequer and preferred to forgo his salary, President Secretariat Press Wing said in a press release on Tuesday.
+
+Former president Arif Alvi was drawing Rs 8,46,550 per month, which was fixed by Parliament in 2018. Zardari is one of the richest politicians in Pakistan.
+
+Zardari, co-chairman of the PPP, took oath as President of Pakistan for a second term at a ceremony at Aiwan-i-Sadr in Islamabad on Sunday.
+
+...
+
+[Data](articles/deb79bb4.json)
+
+---
+
+### Diana Gamage’s petition challenging expulsion from SJB reheard
+
+*2024-03-13 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97915/diana-gamages-petition-challenging-expulsion-from-sjb-reheard) · `en`
+
+The Supreme Court has once again taken up for hearing the petition filed by State Minister Diana Gamage challenging a decision taken by the Samagi Jana Balawegaya (SJB) to scrap her membership in the party.
+
+The petition was reheard before a three-member Supreme Court trial bench comprising of Justices Gamini Amarasekara, Kumuduni Wickremesinghe and Mahinda Samayawardena, Ada Derana reporter said.
+
+Appearing for the General Secretary of the SJB Ranjith Madduma Bandara, who has been named as a respondent of the case, President’s Counsel Jayampathy Wickramaratne pointed out before the courts that several essential parties have not been named as respondents in this petition.
+
+He also mentioned that the petition could not be maintained further on the grounds that the members of the SJB’s executive board and the members of the disciplinary committee, who are essential parties relating to the matter, have not been named as respondents in the petition, which he deemed a ‘serious legal error’.
+
+...
+
+[Data](articles/766331d8.json)
+
+---
+
+### International Monetary Fund to call the Sri Lankan proposed NGOs Bill - International Human Rights Watch letter
+
+*2024-03-13 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178591) · `ta`
+
+The International Human Rights Watch has urged the IMF to reject Sri Lanka's proposed NGOs Act, criticizing the use of the Ceremonial Security Act and calls for reforms in anti-terrorism laws to uphold human rights.
+
+🟩
+
+The International Human Rights Watch has called for the IMF to abandon the proposed NGOs Act.
+
+The International Human Rights Watch has called for the Sri Lankan government to stop the use of the Ceremonial Security Act and make changes to the anti -terrorism law in order to respect human rights standards.
+
+The International Human Rights Watch made this request in a letter to the Sarvade Monetary Fund.
+
+The International Human Rights Watch has called for the Sri Lankan government to abandon the Sri Lankan government's abandonment of a copy of the International Monetary Fund's projects in a country where the civil society of the civil society is heavily controlled.
+
+The International Human Rights Watch said that public surveillance against good governance and corruption is very important, but a number of recent procedures to curb basic freedoms are in law.
+
+◼️
+
 [Data](articles/8719d319.json)
+
+[Extended Data](ext_articles/8719d319.ext.json)
 
 ---
 
@@ -93,6 +223,26 @@ Pointing to favorable economic status, Trump has said that the United States is 
 [Data](articles/cb049f24.json)
 
 [Extended Data](ext_articles/cb049f24.ext.json)
+
+---
+
+### Immigration nabs 21 Indian nationals operating in online marketing centre
+
+*2024-03-13 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-nabs-21-Indian-nationals-operating-in-online-marketing-centre/108-278762) · `en`
+
+Colombo, March 13 (Daily Mirror) - The Department of Immigration and Emigration took 21 young Indian nationals into custody yesterday for operating at an online marketing centre in Negombo by violating their tourist visa conditions.
+
+The department’s investigation division officials following a preliminary inquiry had raided a rented house in Negombo, which had been converted into an office space with computers and other devices installed.
+
+A senior immigration official told the Daily Mirror the male foreigners aged between 24 to 25 years had arrived in Sri Lanka in February and March on tourist visas.
+
+The group had used the free-of-charge visa condition granted to a set of countries till March 31st as part of an ongoing pilot project to promote tourism.
+
+The official however said that under the law those who visit Sri Lanka on tourist visas are prohibited to engage in any kind of paid or unpaid work.
+
+...
+
+[Data](articles/0cb416a1.json)
 
 ---
 
@@ -310,19 +460,25 @@ Additionally, accounting principles and standards adopted, Bulk Supply Transacti
 
 ---
 
-### මට්ටක්කුලිය වෙඩිල්ලේ ඉලක්කය වරදියි
+### The target of Mattakkuliya Wedilla
 
 *2024-03-13 09:05:49* · [`adalk`](https://www.ada.lk/breaking_news/මට්ටක්කුලිය-වෙඩිල්ලේ-ඉලක්කය-වරදියි/11-408578) · `si`
 
-ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙක් මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේදී පුද්ගලයකු ඉලක්ක කර වෙඩි ප්‍රහාර එල්ල කළද ඔහුට කිසිදු තුවාලයක් සිදුවී නැතැයි මට්ටක්කුලිය පොලිසිය කියයි.
+Mattakuliya Police report two motorcycle thugs targeting a person in Alikkuliya, firing six bullets. The intended victim survives, and the attackers, hiding in Dubai, are identified as Pradeep and Assistome, who are killed by police.
 
-රිවොල්වර  වර්ගයේ වෙඩි ප්‍රහාර හයක් එම පුද්ගලයා වෙත එල්ල කර ඇතත් ඉලක්කය වැරදි යාම හේතුවෙන් එම පුද්ගලයාගේ දිවි බේරී ඇත.
+🟩
 
-ඩුබායි රාජ්‍යයේ සැඟව සිටින සංවිධානාත්මක අපරාධකරුවන් දෙදෙනකු වන ප්‍රදීප් සහ  අසිත යන පුද්ගලයන් දෙදෙනා අතර කලක සිට පවතින විරසකයක ප්‍රතිඵලයක් ලෙස වෙඩි ප්‍රහාරය එල්ල වී ඇති බව පොලිසිය කියයි
+Mattakuliya Police say that two persons from a transcriptive motorcycle were targeting a person in the Alikkuliya area.
+
+Although six bullets have been launched to the person, but the target is the survivor of the target.
+
+Police say that the two of the two organized criminals hide in Dubai, Pradeep and Assistome have been shot dead, police said
 
 ◼️
 
 [Data](articles/e9f051dc.json)
+
+[Extended Data](ext_articles/e9f051dc.ext.json)
 
 ---
 
@@ -624,13 +780,13 @@ Panting (this can progress to distressed or noisy breathing as the heatstroke wo
 
 *2024-03-13 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97910/husband-and-wife-found-dead-in-murder-suicide-at-guest-house) · `en`
 
-A man has fatally stabbed his wife before taking his own life by hanging himself inside a room at a guest house in Pothuvil, police said.
+A man has fatally stabbed his wife before taking his own life by hanging himself inside a room at a guest house in Pottuvil, police said.
 
 The couple had been staying in a room at the guest house in Arugam Bay yesterday while following a suspicion due to them not opening the door, the manager of the establishment had informed officers at the Argugam Bay Police Post and broke down the door of the room with them.
 
 They had then discovered the woman in question lying in a pool of blood in the room while the man was found hanging inside the bathroom in an apparent murder-suicide.
 
-The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-year-old from Puthivil, police said.
+The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-year-old from Pottuvil, police said.
 
 ◼️
 
@@ -751,6 +907,26 @@ From running cafes, restaurants, bars to exchanging money and running undial ser
 [Data](articles/2b1edb82.json)
 
 [Extended Data](ext_articles/2b1edb82.ext.json)
+
+---
+
+### Tourists doing business: Sri Lanka to get tough
+
+*2024-03-13 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tourists-doing-business-Sri-Lanka-to-get-tough/155-278731) · `en`
+
+- Raids are presently being conducted in the south to identify illegally run businesses
+
+- In future, foreigners will need a local partner to operate businesses
+
+Colombo, March 13 (Daily Mirror) - The government will soon strengthen its laws to prevent foreign nationals from operating businesses in the country while they are under tourist visas and have already begun conducting raids in the south, the Daily Mirror learns.
+
+Earlier this month, the Daily Mirror exclusively reported that several foreign nationals including Russians, Ukrainians and Israelis who were in Sri Lanka under tourist visas were operating businesses in tourist hotspots which had severely hampered the local tourist industry.
+
+From running cafes, restaurants, bars to exchanging money and running undial services and providing accommodation and transport, several foreign nationals who have been in the country long term due to conflicts in their own countries, seem to have taken the law for granted.
+
+...
+
+[Data](articles/3b745d6a.json)
 
 ---
 
@@ -2007,179 +2183,5 @@ The Port City Colombo today marked a significant milestone with the ground-break
 [Data](articles/21d89cff.json)
 
 [Extended Data](ext_articles/21d89cff.ext.json)
-
----
-
-### Sri Lanka looks for $11.26 bln investment to achieve renewable energy targets – CEB GM
-
-*2024-03-12 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-for-11-26-bln-investment-to-achieve-renewable-energy-targets-ceb-gm-154427/) · `en`
-
-ECONOMYNEXT – Sri Lanka is looking for $11.26 billion in investment to meet its renewable energy targets in eight years through 2030 including building storage capacity, Narendra De Silva, the Acting General Manager at the state-run Ceylon Electricity Board, said.
-
-De Silva, addressing a forum to explain Sri Lanka’s renewable energy requirements for potential Indian partners said the island nation is likely to see solar power as a key source in the energy mix by 2026.
-
-“By 2026, the day peak is going to exceed the night peak. So from 2026 onwards,, solar is going to be a very predominant and most acceptable energy source for the Sri Lankan households,” De Silva told key Indian officials who are involved with renewable energy production in India at the forum jointly organized by the High Commission of India, Colombo in collaboration with Ceylon Chamber of Commerce and Confederation of Indian Industry.
-
-...
-
-[Data](articles/06a08bf2.json)
-
-[Extended Data](ext_articles/06a08bf2.ext.json)
-
----
-
-### Wonder dies after a slice slide
-
-*2024-03-12 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194435) · `si`
-
-A young girl, unconscious from a fever, was admitted to Mahiyanganaya Hospital and later transferred to Peradeniya Hospital for treatment. The incident occurred after she was given a pill on a bus ride. The father, who lives in another house, is under investigation.
-
-🟩
-
-Our correspondent stated that the pill was trapped in the youngest of a fever.
-
-The unconscious girl has been admitted to the Mahiyanganaya hospital and included the Intensive Care of Care Hospital Hospital Peradeniya.
-
-Because the mother abroad, she has lived at home with Grandpa, Grandma and Sisters.
-
-Police investigations have revealed that the father carrying sandal by throwing sandwithrel will live in another house near the house of residence.
-
-At the Mahiyanganaya Hospital, the girl was removed and transferred to Peradeniya Sirimavo Bandaranaike Hospital for further treatment.
-
-"The daughter had a fever. A bus on our road is going on a two hour hour. The bus was given a pill to daughter to go to take medicine. Even before her, she had been pills like that. Lighting fell unconscious after drinking the prescription. Troops took the miwanya to the hospital with a three-wheeler. There the doctors had shown me the pluck stuck in daughter's throat. Later, he was transferred to Peradeniya.
-
-...
-
-[Data](articles/50f05309.json)
-
-[Extended Data](ext_articles/50f05309.ext.json)
-
----
-
-### Shooting incident reported in Mattakkuliya
-
-*2024-03-12 20:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97904/shooting-incident-reported-in-mattakkuliya) · `en`
-
-A shooting has taken place in Mattakkuliya this evening (March 12), the police said, adding that no casualties were reported in the incident.
-
-Two unidentified individuals who had arrived on a motorcycle had opened fire in Aliwatta area of Mattakkuliya.
-
-This new development comes a day after four people were killed and six were injured in two incidents of gun violence in Galle District on Monday (March 11).
-
-Incidentally, these 2 shootings too were carried out by assailants riding motorcycles.
-
-One incident was reported in Galagoda, Ambalangoda while the other was in Pitigala, Elpitiya.
-
-◼️
-
-[Data](articles/493869f1.json)
-
-[Extended Data](ext_articles/493869f1.ext.json)
-
----
-
-### When I Become The President
-
-*2024-03-12 20:34:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-i-become-the-president/) · `en`
-
-Long ago, about 65 or more years ago, when I was a school boy, I remember writing an essay on the above subject. Don’t ask me what I wrote in that essay I remember nothing. I never thought I will have to write another essay on the same subject after almost a lifetime. This time it is serious as it is about the life and death of a nation.
-
-The thought of becoming the president of this country is pure nonsense and useless wishful thinking. But it gives me a free hand to indulge in creative writing or day dreaming. It certainly is not going to be fiction or an irresponsible bed time story. It will be very serious and I am going to put to work all the gray matter, what little still left of it in my brain and all the warmth and hope, not much really, still left in my old, betrayed, dried up and broken heart.
-
-...
-
-[Data](articles/a3448d3e.json)
-
-[Extended Data](ext_articles/a3448d3e.ext.json)
-
----
-
-### Confusion, errors marred police communications after Sri Lankan family’s killing
-
-*2024-03-12 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97903/confusion-errors-marred-police-communications-after-sri-lankan-familys-killing) · `en`
-
-Ottawa police admit they made mistakes last week when communicating key information about the city’s worst mass killing in recent history.
-
-Six people, including a mother, her four young children and a family acquaintance, were found dead inside a townhouse in the south Ottawa suburb of Barrhaven on March 6. The woman’s husband and father of the children remains in hospital.
-
-A 19-year-old man who was living with the family is in custody facing six counts of first-degree murder and one count of attempted murder.
-
-According to police, they began receiving calls at 10:52 p.m. Wednesday and responded minutes later. In court, prosecutors said the accused was in custody around 11 p.m.
-
-The day after the tragedy, the Ottawa Police Service (OPS) called the killings a “mass shooting” when no guns were involved, repeatedly misspelled the victims’ names and misidentified the accused.
-
-...
-
-[Data](articles/03767583.json)
-
-[Extended Data](ext_articles/03767583.ext.json)
-
----
-
-### Sri Lankan family’s killing: Confusion, errors marred Ottawa Police communications
-
-*2024-03-12 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97903/sri-lankan-familys-killing-confusion-errors-marred-ottawa-police-communications) · `en`
-
-Ottawa police admit they made mistakes last week when communicating key information about the city’s worst mass killing in recent history.
-
-Six people, including a mother, her four young children and a family acquaintance, were found dead inside a townhouse in the south Ottawa suburb of Barrhaven on March 6. The woman’s husband and father of the children remains in hospital.
-
-A 19-year-old man who was living with the family is in custody facing six counts of first-degree murder and one count of attempted murder.
-
-According to police, they began receiving calls at 10:52 p.m. Wednesday and responded minutes later. In court, prosecutors said the accused was in custody around 11 p.m.
-
-The day after the tragedy, the Ottawa Police Service (OPS) called the killings a “mass shooting” when no guns were involved, repeatedly misspelled the victims’ names and misidentified the accused.
-
-...
-
-[Data](articles/8dea3aed.json)
-
-[Extended Data](ext_articles/8dea3aed.ext.json)
-
----
-
-### The only way for the people's upheaval!- Whelan Swamis
-
-*2024-03-12 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178562) · `ta`
-
-Sivaguru Adheena Chief Minister Velan Swamis calls for a people's uprising in the Northeast for justice, following a false arrest verdict in Vavuniya. The arrested are suffering, and the situation demands unity. A gathering of Northeast relations, public organizations, political parties, university students, and affected parties is planned in Vavuniya.
-
-🟩
-
-Sivaguru Adheena Chief Minister Velan Swamis has called for the rise of the people in the Northeast to achieve justice.
-
-He made this comment after a court verdict of Vavuniya on Tuesday (12) to visit the Vidunarimalai case.
-
-Sri Lankan police pass through. The court has been reported to the court falsely without any legitimate reasons for the arrest.
-
-The arrested people are suffering from uniform food. Words do not come when their relatives look at the film. In this situation, we need to unite a people's uprising in the North and East as soon as possible. It has been proven that we can uphold justice.
-
-Therefore, all the relations of the Northeast, public organizations, political parties, university students and affected parties will be held in Vavuniya soon in Vavuniya.. We want everyone's rituals.
-
-◼️
-
-[Data](articles/1c479d9a.json)
-
-[Extended Data](ext_articles/1c479d9a.ext.json)
-
----
-
-### SJB to seek nutrition package from IMF next week: Sajith
-
-*2024-03-12 19:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-seek-nutrition-package-from-IMF-next-week-Sajith/108-278714) · `en`
-
-Colombo, March 12 (Daily Mirror)- Whilst revealing that the Samagi Jana Balawegaya (SJB) will meet IMF officials next week, Leader of Opposition Sajith Premadasa today said his party will request for IMF assistance for a nutrition package for women and school children.
-
-Premadasa who was speaking during a ceremony held at Malwana MV in Dompe said his party would focus on seeking assistance from IMF to get rid of malnutrition of Sri Lankan women and children.
-
-“A census conducted in the year 2022 has revealed that around 25 percent of Sri Lankan school children are under weight. Also it has been found out that Sri Lankan women do not get sufficient food. This is why we are going to seek a nutrition package from the IMF next week,” Mr. Premadasa said.
-
-“We will also inform IMF to team up with other international financial agencies such as World Bank and Asian Development Bank (ADB) to introduce an assistance package to provide free midday meals for school children,” he added.
-
-...
-
-[Data](articles/2f9f32af.json)
-
-[Extended Data](ext_articles/2f9f32af.ext.json)
 
 ---

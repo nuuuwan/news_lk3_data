@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 14:03:01**
+As of **2024-03-13 14:17:54**
 
 ## Newspaper Stats
 
-*Scraped **12,622** Articles*
+*Scraped **12,627** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 121
+colombotelegraphcom | 122
 bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
@@ -16,8 +16,8 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,079
-adaderanalk | 1,521
-tamilmirrorlk | 1,537
+adaderanalk | 1,522
+tamilmirrorlk | 1,540
 virakesarilk | 1,758
 dailymirrorlk | 1,921
 adaderanasinhalalk | 1,988
@@ -26,11 +26,89 @@ adaderanasinhalalk | 1,988
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,621 (100.0%) of 12,622 articles have been extended.
+12,622 (100.0%) of 12,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### உண்டியலை உடைத்த பெண்கள் இருவர் கைது
+
+*2024-03-13 14:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/உண்டியலை-உடைத்த-பெண்கள்-இருவர்-கைது/95-334607) · `ta`
+
+கொழும்பு, புதுக்கடை நீதிமன்ற வளாகத்திற்கு முன்பாக உள்ள பூர்வாரம போதிமலு விகாரையில் உண்டியலை உடைத்து பணத்தை திருடிய குற்றச்சாட்டில் இரு பெண்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவம், புதன்கிழமை (13) மதியம் 12.50 மணியளவில்   இடம்பெற்றுள்ளது. நீதிமன்றத்திற்கு முன்பாக போக்குவரத்து கடமையில் ஈடுபட்டிருந்த வாழைத்தோட்ட பொலிஸ் உத்தியோகத்தர்கள் சந்தேக நபர்களான பெண்கள் இருவரையும் கைது செய்து வாழைத்தோட்ட  பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் சிலாபம் பிரதேசத்தைச் சேர்ந்தவர்கள்  என பொலிஸார் தெரிவிக்கின்றனர்.
+
+விகாரைக்குள்  நுழைந்த பெண், உண்டியலை உடைத்து அதிலிருந்த பணத்தை பொதிசெய்து, மற்றுமொரு பெண்ணிடம் கொடுத்ததாக நேரில் பார்த்தவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/989b0bf1.json)
+
+---
+
+### Putin warns the West, says Russia is ready for nuclear war
+
+*2024-03-13 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97922/putin-warns-the-west-says-russia-is-ready-for-nuclear-war) · `en`
+
+President Vladimir Putin warned the West on Wednesday Russia was technically ready for nuclear war and that if the U.S. sent troops to Ukraine, it would be considered a significant escalation of the conflict.
+
+Putin, speaking just days before a March 15-17 election which is certain to give him another six years in power, said the nuclear war scenario was not “rushing” up and he saw no need for the use of nuclear weapons in Ukraine.
+
+“From a military-technical point of view, we are, of course, ready,” Putin, 71, told Rossiya-1 television and news agency RIA in response to a question whether the country was really ready for a nuclear war.
+
+Putin said the U.S. understood that if it deployed American troops on Russian territory - or to Ukraine - Russia would treat the move as an intervention.
+
+“(In the U.S.) there are enough specialists in the field of Russian-American relations and in the field of strategic restraint,” said Putin, the ultimate decision maker in the world’s biggest nuclear power.
+
+...
+
+[Data](articles/a72a2353.json)
+
+---
+
+### சிவலிங்கத்தை வழிபட்ட வெள்ளை நாகம்
+
+*2024-03-13 13:54:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிவலிங்கத்தை-வழிபட்ட-வெள்ளை-நாகம்/71-334606) · `ta`
+
+இராணுவத்தினரால் வழிபட்டு வந்த சிவலிங்கம் ஒன்றை வெள்ளை நாக பாம்பு ஒன்றும் வழிபட்டு வந்த தகவல் தற்போது வெளியாகியுள்ளது.
+
+யாழ்ப்பாணம் காங்கேசன்துறை பகுதியில் இராணுவ உயர் பாதுகாப்பு வலயமாக கடந்த 33 வருடங்களாக காணப்பட்ட சுமார் 20 ஏக்கர் காணி அண்மையில் காணி உரிமையாளர்களிடம் மீள கையளிக்கப்பட்டது.
+
+விடுவிக்கப்பட்ட காணிகளுக்குள் ஒரு காணிக்குள் புளிய மரம் ஒன்றின் கீழ் சிறு பிள்ளையார் கோவில் ஒன்றை அமைத்து , அதனுள் ஆட்டுக்கல் ஒன்றினை சிவலிங்கமாக உருவகப்படுத்தி இராணுவத்தினர் வழிபட்டு வந்துள்ளனர்.
+
+அந்த ஆலயத்திற்கு பௌர்ணமி தினம் உள்ளிட்ட விசேட தினங்களில் வெள்ளை நாக பாம்பு உள்ளிட்ட சில பாம்புகள் வந்து செல்வதனை இராணுவத்தினர் அவதானித்து , வெள்ளை நாக பாம்பு ஒன்று சிவலிங்கத்தை சுற்றி இருந்த வேளை அதனை தமது கையடக்க தொலைபேசியில் காணொளியாக பதிவு செய்து வைத்துள்ளனர்.
+
+இந்நிலையில் அண்மையில் அக்காணிகளுக்குள் இருந்து இராணுவத்தினர் வெளியேறிய போது , குறித்த காணொளியை காணி உரிமையாளருக்கு கொடுத்த இராணுவத்தினர் , " இதொரு சக்தி வாய்ந்த கோவில்" என கூறி அதனை தொடர்ந்து பராமரிக்குமாறு கூறியுள்ளனர்.
+
+...
+
+[Data](articles/3e24a071.json)
+
+---
+
+### சிறுமி துஷ்பிரயோகம்: 52 வயதானவருக்கு கடூழிய சிறை
+
+*2024-03-13 13:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-52-வயதானவருக்கு-கடூழிய-சிறை/76-334605) · `ta`
+
+நானுஓயா பொலிஸ் பிரதேசத்தில் பாடசாலை மாணவியான சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றஞ்சாட்டப்பட்டிருந்த 52 வயதான நபரை குற்றவாளியாக இனங்கண்ட,  சு  நுவரெலியா மேல் நீதிமன்றம், அவருக்கு  10 வருட கடூழிய சிறை தண்டனை விதித்து தீர்ப்பளித்துள்ளது. .
+
+நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரிய  இந்த தீர்ப்பை புதன்கிழமை (13) வழங்கினார்.
+
+நானு ஓயா பிரதேசத்தை சேர்ந்த சந்தேகநபர்,  பிரதேசத்தை சேர்ந்த 16 வயதுக்கு குறைவான பாடசாலை சிறுமி ஒருவரை 2011 ஆம் ஆண்டு காலப்பகுதியில் பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+
+பாடசாலை ஊடாக சிறுமியின் பெற்றோருக்கு தெரியவந்ததையடுத்து  குறித்த நபருக்கு எதிராக  நானு ஓயா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டது.  அது தொடர்பிலான வழக்கு நுவரெலியா மேல் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வந்தது.
+
+குற்றஞ்சாட்டப்பட்ட  சந்தேகநபருக்கு எதிரான சாட்சியங்களின் அடிப்படையில் 52 வயதான நபர்  நீதிமன்றத்தின் ஊடாக குற்றவாளியாக இனங்காணப்பட்டார். .
+
+...
+
+[Data](articles/8aad5d99.json)
+
+---
 
 ### Sri Lanka to benefit the coin
 
@@ -52,23 +130,31 @@ Sri Lanka captain Kusal Mendis decided to bat first.
 
 ---
 
-### பிள்ளையை விட்டு பறக்க முயன்ற சீன தாய் கைது
+### Chinese mother arrested for trying to fly away from child
 
 *2024-03-13 13:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையை-விட்டு-பறக்க-முயன்ற-சீன-தாய்-கைது/175-334604) · `ta`
 
-கட்டுநாயக்க சர்வதேச விமான நிலையத்தின் வருகைதரும் முனையத்தில், சீனப் பெண்ணொருவர் தன்னுடைய இளைய பெண் பிள்ளையை,  இதுவரை காலமும் கவனித்துக்கொண்ட இலங்கை பெண்ணிடம் கொடுத்துவிட்டு, தப்பியோடுவதற்கு முயன்ற நிலையில், கைது செய்யப்பட்டுள்ளார்.
+A Chinese woman was arrested at Katunayake International Airport for allegedly trying to flee with her daughter, leaving her elderly mother behind. The woman, a dancer, had been living with her mother and two children, who were cared for by a Sri Lankan maid. The maid, who had recently returned from Singapore, was deeply loved by the children. The woman, without revealing her intentions, invited the maid to Sri Lanka, leading to her arrest.
 
-அந்த சீனப் பெண், விமானத்தில் நுழைவதற்கு தயாராக இருந்த நிலையிலேயே செவ்வாய்க்கிழமை (12) இரவு கைது செய்யப்பட்டார் என விமான நிலைய அதிகாரிகள் தெரிவித்தனர்.
+🟩
 
-35 வயதான சீனப்​ பெண், தன்னுடைய 58 வயதான தாயுடன், டுபாயில் வாடகை வீடொன்றில் வசித்து வந்துள்ளார். இந்த சீனப் பெண், பிரபலமான விடுதிகளில் நடனமாடும் நடனக் கலைஞர்.
+On the arrival terminal of the Katunayake International Airport, a Chinese woman has been arrested for allegedly trying to flee her younger girl, who has been taking care of her for a long time.
 
-தன்னுடைய சீனத் தாயை விட அதிகமாக நேசித்ததால் தன்னைப் பராமரிக்கும் இலங்கைப் பணிப்பெண்ணிடம்,  அவ்விரு பிள்ளைகளும் மிகுந்த பாசம் காட்டியுள்ளனர்.
+The Chinese woman was arrested on Tuesday night as she was ready to board the plane, airport officials said.
 
-இந்த பணிப்பெண்,   குருநாகல் பொல்கஹவெல பொத்துஹெரவில் வசிக்கும் 53 வயதுடையவர் ஆவார்.  அவர், சிங்கபூரில் பணிப்பெண் சேவையை முடித்துக்கொண்டு அண்மையில் இலங்கைக்கு திரும்பியுள்ளார்.
+A 35 -year -old Chinese woman lives in a rented house with her 58 -year -old mother. This Chinese woman is a dancer in popular hostels.
+
+The two children have been very affectionate to the Sri Lankan maid who maintains herself because she loved more than her Chinese mother.
+
+The maid is a 53 -year -old living in Pothuhera, Polgahawela, Kurunegala.He has recently returned to Sri Lanka after completing the maid service in Singapore.
+
+The two children are also severely affected by the maid's section. However, the Chinese woman is acting in a way that the neighbors are not aware of this.
 
 ...
 
 [Data](articles/d7bf8515.json)
+
+[Extended Data](ext_articles/d7bf8515.ext.json)
 
 ---
 
@@ -2066,6 +2152,18 @@ He said this at a media briefing held at the Presidential Media Center on Tuesda
 
 ---
 
+### Nandalal Weerasinghe’s Wages Of Sin
+
+*2024-03-13 02:37:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nandalal-weerasinghes-wages-of-sin/) · `en`
+
+It is difficult to find another instance in the history of central banking where the Head of that bank with conscienceless audacity abusing the constitutional independence of that institution to raise unilaterally the wages of his staff to such a height, between 36 and 79 percent, and made them an un-imitable elite of officers to be envied by the rest of the community of public servants. This is one of many and multiplying horror stories one hears almost daily from paradise Sri Lanka. At a time when millions of hard-working heads of ordinary families and parents are found skipping meals or eating smaller portions to feed their children, when 30 percent of five-year old children are found malnourished, and when the danger of starvation is knocking at the doors of the poorest, the unconscionable act of munificence by the big chief Dr. Nandalal Weerasinghe (NW) fits into the proverbial robbery of Peter to pay Paul. The Centra Bank’s notoriety continues unabated.
+
+...
+
+[Data](articles/c68ba1ac.json)
+
+---
+
 ### Canada Visa - Tellippala
 
 *2024-03-13 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178574) · `ta`
@@ -2165,105 +2263,5 @@ The funds are extended under the Japanese Economic and Social Development Progra
 [Data](articles/ba8a94bc.json)
 
 [Extended Data](ext_articles/ba8a94bc.ext.json)
-
----
-
-### Colombo-based charity Lure Foundation cushions plight of people in Gaza
-
-*2024-03-13 02:26:27* · [`dailyftlk`](https://www.ft.lk/news/Colombo-based-charity-Lure-Foundation-cushions-plight-of-people-in-Gaza/56-759404) · `en`
-
-Lure Foundation, a Colombo-based charity organisation in Sri Lanka, has taken steps to cushion the plight of the people struggling without blankets and food, and extended aid for the ongoing humanitarian crisis in Gaza, Palestine.
-
-Gaza is on the brink of leaping into famine, with a lack of adequate water, hygiene, and privacy.
-
-As per UNFPA over 690,000 menstruating women and girls have limited access to menstrual hygiene products, aggravating the risk of reproductive and urinary tract infections.
-
-Lure Foundation Founder Aisha Althaf penned a message to all Palestinian women, “There is light ahead of the tunnel, don’t lose hope. The Colombo-based charity, has allocated funds for hygiene kits and pads, looking to expand to help women combat issues with their menstrual cycle, in Gaza.” Althaf expressed that the Palestinian crisis drove her to founding the idea of the Lure Foundation.
-
-...
-
-[Data](articles/6a11bd7d.json)
-
-[Extended Data](ext_articles/6a11bd7d.ext.json)
-
----
-
-### The one who went hunting was killed;One arrested!
-
-*2024-03-13 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178573) · `ta`
-
-A 30-year-old man, Imtiaz, was killed during a hunt in Ottamavadi - Majma Nagar on Tuesday evening. His hunting partner was arrested by the Valaichenai police.
-
-🟩
-
-The incident took place on Tuesday evening (12) at Ottamavadi - Majma Nagar.
-
-Preliminary investigations by the police revealed that a young man had died when two friends went on a hunt.
-
-Imtiaz, a 30 -year -old young man from Ottamavadi - Nawaladi area, has been killed and a man who was hunting with him has been arrested by the Valaichenai police.
-
-◼️
-
-[Data](articles/2b15c132.json)
-
-[Extended Data](ext_articles/2b15c132.ext.json)
-
----
-
-### Sri Lanka - Indian officials discussion
-
-*2024-03-13 02:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-அதிகாரிகள்-கலந்துரையாடல்/175-334586) · `ta`
-
-Indian delegation led by Sri Bupinder Singh Palla discusses renewable energy, investment opportunities, and technology transactions with Sri Lankan officials.
-
-🟩
-
-A delegation headed by Sri Bupinder Singh Palla, the Secretary of the Ministry of Reconstruction of India, has visited Sri Lanka.
-
-Discussions have been launched between Indian researchers and Sri Lankan officials on the opportunities for rejuvenating investments in the country.
-
-During a meeting with the Ambassador at the Ministry of Power and Energy yesterday morning, the two countries discussed the renewable energy cooperation between the two countries, the possibility of the launch of new projects, technology transactions, investment opportunities and government policies.. (A)
-
-◼️
-
-[Data](articles/27d2eab5.json)
-
-[Extended Data](ext_articles/27d2eab5.ext.json)
-
----
-
-### IMF Should Oppose Restrictions On Freedom of Expression & Civil Society Groups: HRW
-
-*2024-03-13 02:20:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/imf-should-oppose-restrictions-on-freedom-of-expression-civil-society-groups-hrw/) · `en`
-
-The International Monetary Fund (IMF) should urge Sri Lanka’s government to abandon draft legislation that would severely curtail civil society and jeopardize the IMF’s program in the country, Human Rights Watch said in a letter to the IMF that was released today. The proposed Non-Governmental Organizations (Registration and Supervision) Act is among several recent and planned measures that would curtail fundamental freedoms, despite the critical role of public scrutiny in promoting good governance and combatting corruption.
-
-...
-
-[Data](articles/d7e3ab49.json)
-
-[Extended Data](ext_articles/d7e3ab49.ext.json)
-
----
-
-### Increase the hot weather
-
-*2024-03-13 02:13:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பமான-வானிலை-அதிகரிக்கும்/175-334585) · `ta`
-
-The Department of Meteorology warns of rising heat, especially in Western, North Western, Sabaragamuwa, and Southern Provinces, advising residents to be cautious.
-
-🟩
-
-The Department of Meteorology has said that the amount of heat will continue to increase in many parts of the country.
-
-The Department of Meteorology has said that the human body will be more sensitive to the Western, North Western, Sabaragamuwa and Southern Provinces and Anuradhapura, Mannar, Trincomalee and Batticaloa districts.
-
-The Department of Meteorology has advised people living in these areas to pay special attention to this issue.. (A)
-
-◼️
-
-[Data](articles/f96ff4ae.json)
-
-[Extended Data](ext_articles/f96ff4ae.ext.json)
 
 ---

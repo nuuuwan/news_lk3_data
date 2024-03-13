@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 01:33:24**
+As of **2024-03-14 01:49:38**
 
 ## Newspaper Stats
 
-*Scraped **12,723** Articles*
+*Scraped **12,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 122
 bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 651
+dailyftlk | 652
 economynextcom | 680
 islandlk | 686
 adalk | 1,089
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,723 (100.0%) of 12,723 articles have been extended.
+12,723 (100.0%) of 12,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Sri Lanka leaders should get best political economy practices from top economies in the world
+
+*2024-03-14 01:21:41* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-leaders-should-get-best-political-economy-practices-from-top-economies-in-the-world/4-759444) · `en`
+
+Sri Lanka needs to be a modern nation that still preserves its Sri Lankan culture and identity. The importance of individual liberty lies at the heart of Social Market Economy and classical liberalism›s political theory. The recent Government interventions gravely threaten this liberty. For this reason, the rule of law should always serve as a constraint on governments. Creating a business environment conducive to producers and consumers, protecting people›s rights, and insulating them from outside pressure should be the primary responsibility of the Government
+
+...
+
+[Data](articles/6f20b0a4.json)
+
+---
 
 ### Happiness a fundamental human goal for all people
 
@@ -2397,31 +2409,5 @@ According to the Minister of Education, the Microsoft is collaborative with the 
 [Data](articles/e0971873.json)
 
 [Extended Data](ext_articles/e0971873.ext.json)
-
----
-
-### One person killed in accident
-
-*2024-03-13 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178614) · `ta`
-
-A 34-year-old man, Santhanam Pusparasa, died in an accident near Jaffna University Kilinochchi complex last night. The accident involved two motorcycles. The road lacks space for heavy vehicles, contributing to the incident. The body is at Kilinochchi Hospital pending investigation.
-
-🟩
-
-The accident took place last night. Santhanam Pusparasa, a 34 -year -old man from Ponnagar, died in the accident.
-
-The accident occurred near the area where the Jaffna University Kilinochchi complex is located.
-
-A motorcycle riding a motorcycle crashed into a motorcycle.
-
-It is noteworthy that the road is being used by the ribber vehicles, with the lack of adequate space for heavy vehicles.
-
-The body of the deceased has been placed at the Kilinochchi Hospital and will be handed over to relatives after investigations.
-
-◼️
-
-[Data](articles/f878449b.json)
-
-[Extended Data](ext_articles/f878449b.ext.json)
 
 ---

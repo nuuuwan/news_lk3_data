@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 23:34:11**
+As of **2024-03-13 23:52:13**
 
 ## Newspaper Stats
 
-*Scraped **12,705** Articles*
+*Scraped **12,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 650
-economynextcom | 669
+economynextcom | 680
 islandlk | 686
 adalk | 1,089
 adaderanalk | 1,534
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,703 (100.0%) of 12,705 articles have been extended.
+12,705 (99.9%) of 12,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### முதலாவது போட்டியில் இலங்கையை வீழ்த்தியது  பங்களாதேஷ்
+### Bangladesh beat Sri Lanka in the first match
 
 *2024-03-13 23:08:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலாவது-போட்டியில்-இலங்கையை-வீழ்த்தியது-பங்களாதேஷ்/44-334634) · `ta`
 
-இலங்கை அணிக்கும், பங்களாதேஷ் அணிக்கும் இடையிலான முதலாவது ஒரு நாள் சர்வதேச கிரிக்கெட் போட்டியில் பங்களாதேஷ் அணி 6 விக்கெட்டுக்களால் வெற்றிப்பெற்றுள்ளது.
+Bangladesh won the first ODI against Sri Lanka by 6 wickets, while Sri Lanka lost by 255 runs in Chittagong.
 
-சிட்டகொங்கில் இடம்பெற்ற போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்து 48.5 ஓவர்கள் நிறைவில் சகல விக்கெட்டுக்களையும் இழந்து 255 ஓட்டங்களை பெற்றது.
+🟩
 
-256 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 44.4 ஓவர்கள் நிறைவில் 4 விக்கெட்டுக்களை மாத்திரம் இழந்து வெற்றி இலக்கை அடைந்தது.
+Bangladesh won by 6 wickets in the first one -day international cricket match between Sri Lanka and Bangladesh.
 
-இதன்படி 03 போட்டிகள் கொண்ட இந்த ஒருநாள் தொடரில் ஒன்றுக்கு பூஜ்ஜியம் என்ற கணக்கில் பங்களாதேஷ் அணி முன்னிலையில் உள்ளது. R
+The Sri Lankan team won the match in Chittagong and won by 255 runs for the loss of all wickets in 48.5 overs.
+
+Bangladesh were bowled out for 256 runs and reached the target by the Bangladesh team lost 4 wickets in 44.4 overs.
+
+Accordingly, the three -match ODI series is zero in the presence of Bangladesh.. Remble
 
 ◼️
 
 [Data](articles/cc973b90.json)
+
+[Extended Data](ext_articles/cc973b90.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Lahiru Kumara broke the partnership by removing Mahmudullah for 37, but Najmul a
 ...
 
 [Data](articles/015beb1d.json)
+
+[Extended Data](ext_articles/015beb1d.ext.json)
 
 ---
 
@@ -662,6 +670,26 @@ Emphasizing photographs, it offers a fresh perspective on her impactful legacy.
 
 ---
 
+### Kavan Ratnayaka appointed chairman of Sri Lanka’s Bank of Ceylon
+
+*2024-03-13 18:12:00* · [`economynextcom`](https://economynext.com/kavan-ratnayaka-appointed-chairman-of-sri-lankas-bank-of-ceylon-154546/) · `en`
+
+ECONOMYNEXT – Kavan Ratnayaka has been appointed to succeed Ronald C Perera PC as chairman of the Bank of Ceylon with effect from March 14, BoC said in a stock exchange filing.
+
+Ratnayaka currently serves on the Board of KBSL (Pvt) Ltd and Agility Innovations (Pvt) Limited, and is a Trustee of the Jayam Wijeratnam Trust and of the Dialog Foundation.
+
+He has previously functioned as the chairman of the National Development Bank PLC (NDB), the Sri Lanka Ports Authority (SLPA), the Sri Lanka Tourism Development Authority (SLTDA), and Associated Newspapers of Ceylon Ltd (ANCL).
+
+He has also served as the group chief corporate officer of Cargills Ceylon PLC and of Dialog Axiata PLC, the chief executive officer of Dialog Broadband Networks (DBN) and as IBM Sri Lanka’s country general manager.
+
+He has served as a committee member of the Ceylon Chamber of Commerce (CCC), a council member of the Employers Federation of Ceylon (EFC), and as president of the American Chamber of Commerce (AMCHAM).
+
+...
+
+[Data](articles/62f050ba.json)
+
+---
+
 ### Credit card data dating data that is called Sri Lanka Post
 
 *2024-03-13 17:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-තැපෑල-කියා-ණය-කාඩ්පත්-දත්ත-සොරා-ගැනීමේ-ජාවාරමක්/11-408592) · `si`
@@ -826,6 +854,26 @@ Accordingly, Sri Lanka scored 255 runs for the loss of 48 overs.
 
 ---
 
+### Sri Lanka to import sailfish from Singapore
+
+*2024-03-13 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-sailfish-from-singapore-154543/) · `en`
+
+ECONOMYNEXT – Sri Lanka will import sailfish (thalapath) from Singapore, State Minister for Fisheries Piyal Nishantha De Silva said.
+
+“The local fisherman’s catch from the seas around Sri Lanka does not meet even 5 percent of our domestic requirement for thalapath,” De Silva told reporters on Tuesday.
+
+“In such a situation, the Fisheries Corporation will import sailfish (thalapath) and other fish varieties such as sprats, dried fish (karawala), marlin (koppara) as required, to meet local demand.”
+
+De Silva said the aim was to supply good quality fish at a good price to consumers without negatively impacting local fisherman.
+
+“We will be importing fish from Singapore, through the Ceylon Fisheries Corporation,” De Silva said. “This is necessary to meet the consumption needs, especially from hospitals.” (Colombo/Mar13/2024)
+
+◼️
+
+[Data](articles/d6235b90.json)
+
+---
+
 ### If you come, be careful if this text comes
 
 *2024-03-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194468) · `si`
@@ -871,6 +919,28 @@ An old boy of Royal College, he holds a Bachelor of Science degree in Physics fr
 [Data](articles/3fe6a713.json)
 
 [Extended Data](ext_articles/3fe6a713.ext.json)
+
+---
+
+### Sri Lanka president to contest election under new alliance: Harin
+
+*2024-03-13 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-contest-election-under-new-alliance-harin-154538/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe will contest the presidential election from a new alliance, Tourism Minister Harin Fernando said.
+
+“The president will be nonpartisan. He will contest from a separate alliance,” Fernando told reporters.
+
+“Wait a little. It’ll happen,” he said, presumably to a question about why the president still hasn’t officially announced his intention to contest.
+
+Fernando also claimed that most people supporting the National People’s Power (NPP) are those who enthusiastically voted for another party in 2019.
+
+“People think they’ll be cleansed of their sins if they attack us and throw their lot in with a new party. But if you look closely, most people supporting the NPP are those who enthusiastically voted in 2019 and have now gone to that side. It’s not the same 3 percent that was there then,” he said.
+
+The minister also had a word of caution for NPP leader Anura Kumara Dissanayake who intends to contest the presidential poll on the NPP ticket.
+
+...
+
+[Data](articles/f5d637bb.json)
 
 ---
 
@@ -970,6 +1040,32 @@ The reckless registration for Ayurvedic doctors immediately stopped and demanded
 
 ---
 
+### Sri Lanka rupee closes at 306.10/20 to the US dollar
+
+*2024-03-13 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-306-10-20-to-the-us-dollar-154531/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 306.10/20 to the US dollar in the spot forex market on Wednesday, slightly stronger from 306.50/60 on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.30/40 percent from 11.35/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.95/12.05 percent from 11.90/12.15 percent.
+
+A bond maturing on 15.12.2028 closed at 12.15/20 percent from 12.15/25 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/50 percent from 12.30/50 percent.
+
+A bond maturing on 15.05.2030 closed at 12.20/50 percent from 12.30/55 percent.
+
+A bond maturing on 15.03.2031 closed at 12.20/45 percent from 12.30/55 percent.
+
+A bond maturing on 01.07.2032 closed stable at 12.50/80 percent. (Colombo/Mar13/2024)
+
+◼️
+
+[Data](articles/3a6cee0d.json)
+
+---
+
 ### Russia is ready for nuclear war - Putin warns
 
 *2024-03-13 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194467) · `si`
@@ -1019,6 +1115,24 @@ In the eight people arrested, the temple was launched by the temple, T.Madimukar
 [Data](articles/b70ecbb7.json)
 
 [Extended Data](ext_articles/b70ecbb7.ext.json)
+
+---
+
+### Sri Lanka violated 16 IMF agreements, latest deal must be honoured: minister
+
+*2024-03-13 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-violated-16-imf-agreements-latest-deal-must-be-honoured-minister-154526/) · `en`
+
+ECONOMYNEXT — Sri Lanka violated all 16 of its past agreements with the International Monetary Fund (IMF) and if the current agreement is also not honoured, the situation could get macarbe, according to Transport Minister Bandula Gunawardena.
+
+“The previous 16 agreements with the IMF were all violated. It was after violating the agreements that the country went bankrupt. If we violate the agreement again even after bankruptcy, the country will not last. Besides killing each other, there will be no alternative,” Gunawardena said speaking to reporters.
+
+“So no matter how much we don’t like it, the government of Sri Lanka must take the country on the path of debt restructuring and in accordance with the IMF pact,” he said.
+
+Opposition parties in Sri Lanka this week boycotted a meeting called by President Ranil Wickremesinghe to discuss the IMF programme ahead of its second review by the international lender.
+
+...
+
+[Data](articles/91d5bc2a.json)
 
 ---
 
@@ -1099,6 +1213,30 @@ The court granted the court to consider the evidence against the defendant who h
 [Data](articles/91df4bbf.json)
 
 [Extended Data](ext_articles/91df4bbf.ext.json)
+
+---
+
+### Sri Lanka stocks close up 1-pct, Hayleys and subsidiary attract interest
+
+*2024-03-13 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-hayleys-and-subsidiary-attract-interest-154527/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 1 percent, or 111.50 points, at 11,286; while the S&P SL20 Index closed up 1.16 percent, or 36.75 points, at 3,218.
+
+Turnover was at 1.9 billion. Both Hayleys Plc (up at 85.30), and its subsidiary Hayleys Fabric Plc (down at 40.50), saw active volumes being traded (179mn and 104mn respectively).
+
+“There is consolidating happening, prices are improving across the board,” market participants said.
+
+The capital goods sector contributed 478mn million to the day’s turnover. Other sectors that attracted interest were banks (400mn), diversified financials (258mn), and food, beverage and tobacco (380).
+
+Increased investor participation due to lower rates was causing the market to pick up, market participants said.
+
+“There is interest coming in as can be seen by the volumes; mainly driven by banks.”
+
+...
+
+[Data](articles/f6dcc3b2.json)
 
 ---
 
@@ -1586,6 +1724,22 @@ The Canadian High Commissioner congratulated Dissanayake on his upcoming visit t
 
 ---
 
+### Sri Lanka’s CPA files petition in apex court against police chief’s appointment
+
+*2024-03-13 15:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpa-files-petition-in-apex-court-against-police-chiefs-appointment-154521/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s Centre for Policy Alternatives (CPA) has filed a petition in the Supreme Court challenging the constitutionality of the appointment of Deshabandu Thennakoon as Inspector General of Police (IGP).
+
+The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu against the presidential appointment of Tennakoon, CPA said in a statement.
+
+“Article 41C of the 1978 Constitution of Sri Lanka provides that such an appointment by the President cannot occur without approval from the Constitutional Council of Sri Lanka. According to Article 41E, that approval should have at least five votes in favour. The Leader of the Opposition, who is a member of the Council, has alleged that the Council did not approve the appointment of the IGP with the minimum five votes,” the organisation said.
+
+...
+
+[Data](articles/b22313f0.json)
+
+---
+
 ### Forest killed in clashes
 
 *2024-03-13 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194460) · `si`
@@ -1795,6 +1949,30 @@ Meanwhile, police have also found a machine that was suspected to be used for th
 [Data](articles/72444321.json)
 
 [Extended Data](ext_articles/72444321.ext.json)
+
+---
+
+### SriLankan Airlines state bank debt of $210mn and Rs31.4bn to tax payer
+
+*2024-03-13 14:07:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-state-bank-debt-of-210mn-and-rs31-4bn-to-tax-payer-154508/) · `en`
+
+ECONOMYNEXT – The government has decided to take over 210 million in dollar loans and 41.4 billion in rupee loans taken by SrilLankan Airlines from state-run Bank of Ceylon and Peoples’ Bank, Sri Lanka’s State-Owned Enterprises Restructuring Unit said.
+
+According to a March 04 cabinet decision the following loans will be take over by the government.
+
+105 million dollar and 12.9 billion rupees of Treasury guaranteed loans from Bank of Ceylon
+
+105 million dollars and 18.5 billion rupees of loans from Peoples’ Bank
+
+A defaulted 175 million dollar treasury guaranteed bond which is due for settlement in June 2024 will remain on the books of the airline.
+
+Any proceeds from a case filed against Airbus SE, by the airline following a procurement scandal will be transferred to the government.
+
+Sri Lanka is in the process of privatizing the airline. (Colombo/Mar14/2024)
+
+◼️
+
+[Data](articles/3300495e.json)
 
 ---
 
@@ -2176,6 +2354,20 @@ Issuing a statement in this regard, the HRW – an international non-governmenta
 
 ---
 
+### Sri Lanka doctors who left the country returning: report
+
+*2024-03-13 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctors-who-left-the-country-returning-report-154500/) · `en`
+
+ECONOMYNEXT – Doctors who left the country amid an economic crisis and a hike in income tax are returning, helping ease a shortage of specialists in the state-run hospital system, a media report said.
+
+“Some groups that migrated are returning, especially consultant doctors, specialist doctors, nursing officers, technical officers,” Deputy Director General (Medical Services) Dr G Wijesuriya said in a video published by Daily Mirror online.
+
+◼️
+
+[Data](articles/d512db99.json)
+
+---
+
 ### The police went to the spa with uniform
 
 *2024-03-13 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடையுடன்-ஸ்பா-சென்ற-பொலிஸ்/175-334603) · `ta`
@@ -2224,240 +2416,24 @@ Shocked residents described the pair, both aged in their eighties, as friendly p
 
 ---
 
-### Hunger in Gaza is used as a war weapon - the European Union
+### Russian, Indian visitors to Sri Lanka remain high in March
 
-*2024-03-13 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178604) · `ta`
+*2024-03-13 12:15:00* · [`economynextcom`](https://economynext.com/russian-indian-visitors-to-sri-lanka-remain-high-in-march-154492/) · `en`
 
-The EU's foreign policy leader claims hunger in Gaza is a war weapon, blaming the lack of adequate lanes for the humanitarian crisis. The EU is working to deliver humanitarian aid through alternative means like sea and air, despite efforts being artificially hindered.
+ECONOMYNEXT – Visitors to Sri Lanka exceeded 500,000 this week, the Sri Lanka Tourism Development Authority (SLTDA) Chairman Priyantha Fernando said.
 
-🟩
+“As of now, we have exceeded 500,000 arrivals for the year and 70,000 in March,” Fernando told EconomyNext on Wednesday.
 
-Hunger is used as a war weapon in Gaza, said the EU foreign policy leader.
+The top five sources were Russia, India, Germany, United Kingdom and China.
 
-Josephorol describes the disaster that humans have caused enough humanitarian materials to go into Gaza.
+There were 9,783 Russian tourists and 9,735 Indian tourists as of March 10.
 
-Speaking to the United Nations, the EU foreign policy leader said that the lack of adequate lanes is the cause of the humanitarian crisis that has created in Gaza.
+The high visitor numbers from Russia were seen as the Department of Immigration said it was cancelling extended visas of Russians and Ukrainians following a criticism of a party on racist lines where only ‘white’ people were allowed.
 
-He said that the European Union is trying to move humanitarian assistance into Gaza, and we are exploring alternatives to distributes through the sea and air.
-
-He added that the activities of humanitarian assistance have been artificially disabled.
-
-Hunger is used as a war weapon.
+There have been criticism that Russians were running businesses, but it is not known to what extent they were helping boost an eco-system of services or promotions that were helping bring visitors. (Colombo/Mar13/2024)
 
 ◼️
 
-[Data](articles/decc1f04.json)
-
-[Extended Data](ext_articles/decc1f04.ext.json)
-
----
-
-### Sanga boosts Dorset charity fundraiser
-
-*2024-03-13 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sanga-boosts-Dorset-charity-fundraiser/108-278774) · `en`
-
-Mar. 13 (dorsetecho) - Cricket icon Kumar Sangakkara wowed a packed audience at the Crown Hotel in Blandford to help raise money for charity.
-
-Dorset resident Sangakkara guested at the fundraiser, set up by Shillingstone Cricket Club, in aid of the Dorset & Somerset Air Ambulance.
-
-The cause is a dear one to Shillingstone, who required the help of the air ambulance last season when a player fell ill during a match against Bere Regis.
-
-Some £3,000 was raised on the night through ticket sales and an auction, items sold including wines, beer, a signed Bournemouth shirt, a four-ball at the Dorset Golf & Country Club, pads and gloves donated by Sangakkara himself, an Apple watch plus more.
-
-There are also three special items currently on offer at an online auction.
-
-Bidders can choose between a round of golf for two with Sangakkara, two hospitality tickets for day three of the England v Sri Lanka Test match this September or two hospitality tickets for Rajasthan Royals in the IPL.
-
-...
-
-[Data](articles/20d00cc8.json)
-
-[Extended Data](ext_articles/20d00cc8.ext.json)
-
----
-
-### Jaffna Massacre: Four arrested in Kilinochchi
-
-*2024-03-13 11:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-இளைஞன்-படுகொலை-கிளிநொச்சியில்-நால்வர்-கைது/71-334602) · `ta`
-
-Four suspects arrested in Jaffna for abducting and murdering a 23-year-old man. The victim was abducted by his wife and another couple, then attacked and left injured. The suspects, aged 37, 32, 25, and 22, were found hiding in Kilinochchi.
-
-🟩
-
-Four suspects have been arrested by the Jaffna Mawatha Crime Branch for allegedly abducting and murdering a youth in Jaffna.
-
-A 23 -year -old man from Vaddukoddai, Tawachelvam Pavitharan, was abducted by his wife on a motorbike with his wife on a motorbike and was abducted by a husband and wife in two vehicles.
-
-Later, the wife was dropped in the Siddhangeni area, attacked her husband and cut off the sword and threw it in front of the Vaddukoddai hospital.
-
-The hospital staff rescued the young man who was injured and sent him to the Jaffna Bodhana Hospital via a patient carriage.
-
-Four suspects were arrested after a police team, who investigated the incident, were reportedly hiding in the Kilinochchi Jayapuram area.
-
-The arrested persons have seized two motorcycles from the arrested persons and are aged 37, 32, 25 and 22, aged 37, 37, 25, 25 and 22 from Vaddukoddai and Arali.
-
-Police are conducting intensive investigations by detaining the arrested persons at the Vaddukoddai police station.
-
-...
-
-[Data](articles/95fb56f9.json)
-
-[Extended Data](ext_articles/95fb56f9.ext.json)
-
----
-
-### China is trying to create a territory in Sri Lanka - USA
-
-*2024-03-13 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178603) · `ta`
-
-China aims to expand military presence globally, including in Sri Lanka, Zimbabwe, and Cambodia, to strengthen its global military by 2049. The US warns of China's intent to use its military to defend its sovereign territories and prevent US intervention.
-
-🟩
-
-The US intelligence agencies have said in a recent report that China is investigating military structures in many countries, including Sri Lanka.
-
-US intelligence agencies have said that China, which is engaged in further strengthening its military base in Zibuti and its naval base in Cambodia, is trying to create its sites in many countries, including Sri Lanka.
-
-US intelligence agencies estimate that by 2049, China is planning to make the Chinese military worldwide by 2049.
-
-In the same period, China's Communist Party has said that it is planning to use the Chinese military to use the Chinese military to defend the areas where it is its sovereign territory, and that it is planning to use its military to ensure its importance and its military has said in its statement to express its strength internationally and prevent the US intervention during the watershed conflict.
-
-◼️
-
-[Data](articles/8d27e157.json)
-
-[Extended Data](ext_articles/8d27e157.ext.json)
-
----
-
-### Brother-in-law wanted over teen girl’s murder in Elpitiya arrested
-
-*2024-03-13 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97917/brother-in-law-wanted-over-teen-girls-murder-in-elpitiya-arrested) · `en`
-
-The prime suspect in the murder of a 17-year-old girl from Elpitiya was arrested on Tuesday night (March 12), the police said.
-
-The arrestee was identified as the deceased’s brother-in-law, named Sudesh Priyankara. During interrogations, he has confessed to killing his wife’s younger sister over her alleged romantic involvement with another man.
-
-The suspect has been remanded until March 21 after being produced before the Elpitiya Magistrate’s Court.
-
-About a month-and-a-half ago, Hansika Nadeeshani, originally from Thalgahawatta area of Mandakanda in Karandeniya, had stayed with her sister for a while to help take care of her two kids. During her stay, she was purportedly romantically involved with her brother-in-law, according to police reports.
-
-According to Nadeeshani’s father, she had been forcibly taken away by her brother-in-law on two occasions, however, the parents had managed to bring her back home both times.
-
-...
-
-[Data](articles/46af21e9.json)
-
-[Extended Data](ext_articles/46af21e9.ext.json)
-
----
-
-### CCTV footage of Mattakkuliya
-
-*2024-03-13 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194452) · `si`
-
-CCTV footage shows two suspects on a motorcycle shooting at a 24-year-old in Matikkuliya. They were armed with a revolver. The victim survived, but was assaulted by Sutraz Viraj, who lives nearby.
-
-🟩
-
-The CCTV video of the two suspects have been used by the two suspects in a motorcycle to shoot the Matikkuliya area yesterday.
-
-The target of the shooter's goal was a 24 year old youth.
-
-The two shooters who arrived in a transcript motorcycle were shooting from a revolver firearm.
-
-However, he had rescued the shooting and had been assaulted by the Sutraz Viraj, who had been assaulted by about 4 houses in the suspicion.
-
-◼️
-
-[Data](articles/95a8f5ed.json)
-
-[Extended Data](ext_articles/95a8f5ed.ext.json)
-
----
-
-### Two men killed in a boat in Indonesia
-
-*2024-03-13 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178597) · `ta`
-
-In Indonesia, a boat crash resulted in two deaths and 22 missing, with 11 rescued after 3 days. The incident occurred in South Sulawesi's Salayar Island.
-
-🟩
-
-Two people were killed and 22 others were missing as a boat crashed in Indonesia, officials said today.
-
-The event collapsed last Saturday in the South Sulawesi Province's Salayar Island area.
-
-Officials said that there were 35 fishermen in the area and 11 of them were rescued on two small islands after being floating for 3 days.
-
-◼️
-
-[Data](articles/48f8e7f5.json)
-
-[Extended Data](ext_articles/48f8e7f5.ext.json)
-
----
-
-### Sri Lanka Cricket to send teams to play T20 matches in Japan
-
-*2024-03-13 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-to-send-teams-to-play-T20-matches-in-Japan/108-278773) · `en`
-
-Colombo, Mar. 13 (SLC) - Sri Lanka Cricket (SLC) signed an MOU with the Japan Cricket Association (JCA) to help Japan develop its game through collaborations, exchanges, and also providing expertise pertaining to the game.
-
-Under this MOU, Sri Lanka Cricket will help Japan by sending players, teams, coaches and curators to help Japanese cricket.
-
-SLC will send teams to play T20 matches in Japan and will also host Japanese cricket teams in Sri Lanka, while opportunities will also be given to their players to train with the LPL squads.
-
-The SLC said The MOU was signed between SLC President Shammi Silva and  CEO of the Japan Cricket Association Naoki Alex Miyaji at the SLC headquarters.
-
-Deputy Ambassador of Japan to Sri Lanka Kotaro Katsuki, CEO of Sri Lanka Cricket Ashley De Silva and the Goodwill Ambassador of Japan Cricket Development Priyantha Kariyapperuma attended the signing ceremony.
-
-...
-
-[Data](articles/f5ba2638.json)
-
-[Extended Data](ext_articles/f5ba2638.ext.json)
-
----
-
-### A luxury car collided with three wheelers in Dehiwala
-
-*2024-03-13 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178594) · `ta`
-
-A luxury car collided with three wheelers in Dehiwala on Tuesday evening in Kalubowila.
-
-🟩
-
-It is reported that the accident took place on Tuesday evening (12) evening in Kalubowila, Dehiwala.
-
-◼️
-
-[Data](articles/33eef6cf.json)
-
-[Extended Data](ext_articles/33eef6cf.ext.json)
-
----
-
-### Stop selling state assets; warns NPP
-
-*2024-03-13 11:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சொத்துக்களை-விற்பதை-நிறுத்தவும்-எச்சரிக்கிறது-NPP/175-334600) · `ta`
-
-The National People's Power (NPP) warns against the sale of state assets, including SriLankan Airlines, Telecom, CEB, and Litro Gas, arguing the government lacks authority and should stop for the sake of future generations.
-
-🟩
-
-The National People's Power (NPP), which urged the government to stop the sale of state assets following the national election, yesterday warned that the government would take appropriate action on such activities during the National People's Power in the future.
-
-NPP Economic Council member Sunil Handunnetti said at a media briefing that the government would not be selected in the next election, such as SriLankan Airlines, Telecom, CEB and Litro Gas.
-
-He said the government does not have the authority to sell state resources, state agencies or corporations and that the government should stop selling such assets in order to obtain a huge brokerage.
-
-Handunnethi said that the people should come forward against any action to sell state resources that affect future generations, and that any interested parties like China or India will review the decision and that the government of the national people's power in the future will decide against such agreements.
-
-◼️
-
-[Data](articles/80c07966.json)
-
-[Extended Data](ext_articles/80c07966.ext.json)
+[Data](articles/9e370ba1.json)
 
 ---

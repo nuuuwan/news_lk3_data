@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 08:33:30**
+As of **2024-03-13 08:51:37**
 
 ## Newspaper Stats
 
-*Scraped **12,549** Articles*
+*Scraped **12,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,071
 adaderanalk | 1,511
 tamilmirrorlk | 1,525
 virakesarilk | 1,741
-dailymirrorlk | 1,910
-adaderanasinhalalk | 1,978
+dailymirrorlk | 1,911
+adaderanasinhalalk | 1,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,546 (100.0%) of 12,549 articles have been extended.
+12,549 (100.0%) of 12,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් ළඟදීම
+
+*2024-03-13 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194446) · `si`
+
+ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් ක්‍රියාත්මක කිරීම සඳහා ඉදිරියේදී පියවර ගන්නා බව සුසිල් ප්‍රේම්ජයන්ත් අමාත්‍යවරයා පවසයි.
+
+ඔහු සඳහන් කළේ, මෙරට ජාතික පාසල් සහ පළාත් සභා පාසල් භේදයකින් තොරව එකම පාසල් වර්ගයක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බවය.
+
+"අධ්‍යාපන ප්‍රතිසංස්කරණවල  ප්‍රතිපත්ති රාමුවේ තියෙනවා යෝජනා කරලා ජාතික පාසල් සහ පළාත් සභා පාසල් කියලා වෙන් නොකර එකම වර්ගයක් තියන්න. ඒ පිළිබඳව අධීක්ෂණ කාරක සභාවේ සාකච්ඡා වෙමින් පවතිනවා. එකවර බැරිවෙයි. නමුත් ක්‍රමානුකූලව අදියරයෙන් අදියර ඒක කරන්න පුළුවන් වෙයි.
+
+...
+
+[Data](articles/25013292.json)
+
+---
+
+### Investigations after report from Tirukkovil education zone
+
+*2024-03-13 08:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Investigations-after-report-from-Tirukkovil-education-zone/108-278735) · `en`
+
+Colombo, March 13 (Daily Mirror) - The Education Ministry is to launch an investigation after receiving the report from the Tirukkovil Education Zone regarding the death of the 16-year-old schoolboy in Ampara after collapsing while participating in a marathon race.
+
+The marathon race was held at the Tirukkovil Methodist Central College on Monday morning as part of the inter-house sports meet at the school premises.
+
+The student was admitted to the Tirukkovil Hospital and later transferred to the Akkaraipattu Hospital for further treatment, where he was pronounced dead.
+
+Following the incident, a tense situation was reported after a group of school students and residents protested by blocking the road in front of the hospital, alleging that the sick student was not treated.
+
+Later, the Police and the Special Task Force (STF) were deployed to diffuse the situation after it turned violent, with some protestors pelting stones at the hospital.
+
+...
+
+[Data](articles/0903a2b6.json)
+
+---
 
 ### Recovery of two bodies in Pottuvil
 
@@ -52,21 +88,27 @@ The bodies have been found from a hotel in Pottuvil - nearby area.
 
 ---
 
-### අන්තර්ජාල වංචාවල කැපී පෙනෙන වර්ධනයක්
+### Highlights of Internet fraud
 
 *2024-03-13 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194445) · `si`
 
-අන්තර්ජාලය ඔස්සේ සිදුවන අපරාධවල වර්ධනයක් මේ වන විට නිරීක්ෂණය වී ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+Internet fraud in Sri Lanka surged, with 1,609 cases reported in 2023, up from 423 in the previous year. Frauds on online jobs increased, with 110 reported in January, 213 in February, and 100 to date. Other highlights include 775 incidents of nude photos being released online, 5,188 fake social media accounts, and 98 incidents involving young children. Unauthorized access and false accounts also rose significantly.
 
-එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණුකොල මහතා සඳහන් කළේ වසරේ ගත වූ කාලසීමාව තුළ පරිගණක වංචා 423 වාර්තා වී ඇති බවය.
+🟩
 
-"අන්තර්ජාලය ඔස්සේ ඔන්ලයින් රැකියා ලබාදෙන මුවාවෙන් සිදුවන වංචා, ඒ එක්කම ක්‍රිප්ටො-කරන්සි හරහා සිදුවුණ වංචා, පිරමීඩ වංචා ගොඩක් වෙලාවට පසුගිය වර්ෂයේ සිට මේ වර්ෂයේ ගෙවී ගිය මාස දෙක තුළ වැඩිවීමක් තියෙනවා. 2023 අන්තර්ජාල වංචා 1,609ක් අපිට වාර්තා වෙලා තියෙනවා. මේ වර්ෂය තුළ ජනවාරි මාසයේ එවැනි වංචා 110ක් වාර්තා වෙලා තියෙනවා. පෙබරවාරි මාසයේ අන්තර්ජාල වංචා 213ක් සහ මාර්තු මාසයේ මේ දක්වා 100ක් වර්තා වෙලා තියෙනවා. සමහර පැමිණිවල මුදල් වංචා වාර්තා වුණාම ඔවුන්ට අවශ්‍ය තාක්ෂණික සහයෝගය ලබාදීලා අපි පරිගණක අපරාධ කොට්ඨාසය වෙත යොමුකරලා තියෙනවා."
+The Sri Lanka Computer Emergency Response Team says that a growth of crimes committed online has been observed.
 
-අන්තර්ජාලය ඔස්සේ සිදුවන පරිගණක අපරාධ සම්බන්ධයෙන් තවදුරටත් අදහස් දක්වන තොරතුරු ආරක්ෂණ ඉංජිනේරු චරුක දමුණුකොල මහතා,
+Senior Information Security Engineers at the time of the year, 423 computer cheats were reported during the year.
+
+"The frauds that took place on the premises on the premises on the premises on the premises of the online jobs online have increased in the past two months since last year.. 2023 We have recorded 1,609 Internet cheats. In January, 110 such frauds have been reported on January. In February, 213 Internet frauds and 100 were reported to date. When money fraud, we have given the technical support they need and directly referred to the Computer Crimes Division. "
+
+Protection of Information Security Engineer Warrachi Delunakola, Special Communications on Computer Crime
 
 ...
 
 [Data](articles/08c730ae.json)
+
+[Extended Data](ext_articles/08c730ae.ext.json)
 
 ---
 
@@ -472,17 +514,23 @@ A sudden death investigation officer A. Jayapalasingham. The body was handed ove
 
 ---
 
-### புதிய தூதுவர், உயர்ஸ்தானிகர் நியமனம்
+### New Ambassador, High Commissioner
 
 *2024-03-13 02:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்-உயர்ஸ்தானிகர்-நியமனம்/175-334587) · `ta`
 
-இலங்கைக்கு புதிதாக நியனம் பெற்று வந்திருக்கும் தூதுவர் ஒருவரும், உயர்ஸ்தானிகரும் கொழும்பு கோட்டை ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் நேற்று நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+New Ambassador and High Commissioner to Sri Lanka, Bytoon Mahabannaborn and Major General Faheem UL Aziz, presented credentials to President Ranil Wickremesinghe at the Colombo Fort.
 
-தாய்லாந்தின் இலங்கைக்கான புதிய தூதுவராக நியமனம் பெற்றிருக்கும் பைட்டூன் மஹாபன்னபோர்ன், பாகிஸ்தான் இஸ்லாமியக் குடியரசின் உயர்ஸ்தானிகர் நியமனம் பெற்றிருக்கும் மேஜர் ஜெனரல் Faheem Ul Aziz ஆகியோரே இவ்வாறு நற்சான்றுப் பத்திரங்களைக் கையளித்தார். (a)
+🟩
+
+A newest ambassador to Sri Lanka and the High Commissioner handed over the credentials to President Ranil Wickremesinghe at the Presidential Office of the Colombo Fort.
+
+Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka in Thailand, and Major General Faheem UL Aziz, appointed by the High Commissioner of the Pakistan Islamic Republic, handed over the credentials.. (A)
 
 ◼️
 
 [Data](articles/b5f0e12d.json)
+
+[Extended Data](ext_articles/b5f0e12d.ext.json)
 
 ---
 
@@ -1054,23 +1102,29 @@ Preliminary reports say that the four houses in the Mattakkuli Alivatta area hav
 
 ---
 
-### හාලි ඇල නිවසක් මතට කිලෝ පනහක පමණ අයිස් කුට්ටියක් වැටෙයි
+### A iceberg falls around a house on Halian canal
 
 *2024-03-12 22:33:34* · [`adalk`](https://www.ada.lk/breaking_news/හාලි-ඇල-නිවසක්-මතට-කිලෝ-පනහක-පමණ-අයිස්-කුට්ටියක්-වැටෙයි/11-408575) · `si`
 
-හාලිඇල මැදගම නිවසක වහලයක් මතට අද 12  කිලෝ පනහක පමණ බරකින් යුත් අයිස් කුට්ටියක් පතිත වූ බව එම නිවැසියන් ආපදා කළමනාකරණ මධ්‍යස්ථානය දැනුම්වත් කර ඇත.
+An iceberg, weighing about 12 kg, fell onto the roof of a house in Haliela Medagama. The Disaster Management Center reported this as the first time such an event has occurred. The roof remains undamaged.
 
-වහලය මතට පතිත වූ එම අයිස් කුට්ටිය වහලයේ දියවී  ගලා විත් බිමට පතිත වූ බවත් දියවීමට පැය කීපයක් ගත වූ බවත් නිවැසියන් ආපදා අංශ වලට දන්වා තිබේ.
+🟩
 
-අයිස් කුට්ටියේ වැටුණු ස්ථානය වහලය ගිලාබැස ඇති බවද නිවැසියන්  පැවසීය.මෙම සිද්ධියෙන් කිසිවකුටත් අනතුරක් සිදුවී නොමැති බවද පැවසේ.
+The Disaster Management Center (DMC) has reportedly demonstrated an iceberg weighing about 12 kg today on a roof of Haliela Medagama home.
 
-මෙතරම් විශාල අයිස් කුට්ටියක්  අහසින් වැටීමක් වාර්තාවන්නේ ඉතිහාසයේ ප්‍රථම වතාවට බව බදුල්ල  ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ඊ  එම් එල්  උදය කුමාර මහතා පැවසීය.
+The residents have informed the Disaster Divisions that the iceberged that fell on the roof.
 
-කෙසේ වෙතත් වියළි කාලගුණික තත්ත්වයන් හමුවේ  අයිස්  වැටෙන  තත්ත්වයන් වාර්තා වුවද මෙවැනි විශාල ප්‍රමාණයේ  අයිස් කුට්ටියක් හුදෙකලා තැනකට වැටීමක් වාර්තා වන්නේ ප්‍රථම වතාවට බවද ඒ මහතා වැඩිදුරටත් පැවසීය.
+The resident said that the roof has not been confused.
+
+The Deputy Director of the Disaster Management Center, Badulla, said that a large iceberg fell from the sky is the first time in history.
+
+However, for the first time a large number of iceberg is the first time such a large number of iceberg is a large number of iceberg.
 
 ◼️
 
 [Data](articles/ff629f36.json)
+
+[Extended Data](ext_articles/ff629f36.ext.json)
 
 ---
 
@@ -2177,51 +2231,5 @@ The petition was taken up for hearing in the presence of the Court of Appeal in 
 [Data](articles/1dc5763a.json)
 
 [Extended Data](ext_articles/1dc5763a.ext.json)
-
----
-
-### Wayamba's Chief Secretary removes
-
-*2024-03-12 17:31:47* · [`adalk`](https://www.ada.lk/breaking_news/වයඹ-ප්‍රධාන-ලේකම්-ඉවත්-කරයි/11-408570) · `si`
-
-The Presidential Secretariat has initiated the removal of Ranjith Ariyaratne, the Chief Secretary General of North Western Provincial Council, due to allegations of ignoring orders from politicians and the Sri Lanka Civil Front. This is the first time a Provincial Council Chief Secretary has been removed before the end of their term. The Sri Lanka Administrative Service Officers' Association has protested against the removal.
-
-🟩
-
-Steps have been taken to remove the Chief Secretary General of North Western Provincial Council Ranjith Ariyaratne.
-
-It is reported that the Presidential Secretariat has taken steps to remove the allegations and complaints regarding Ranjith Ariyratne.
-
-He was accused of ignoring the orders and demands of the politicians of the North Western Province and the Sri Lanka Civil Front to the Sri Lanka Civil Aravan Front.
-
-It is said that the North Western Province, Lakshman Yapa Abeywardena has requested the North Western Province, to remove him from the post.
-
-The Chief Secretary Ariyaratne has not yet been told to go to what position was replaced by the Chief Secretary.
-
-This is the first time a Chief Secretary appointed to a Provincial Council of the Island has been removed from the post before the time period.
-
-It is also reported that the Sri Lanka Administrative Service Officers' Association has also protest against the removal.
-
-...
-
-[Data](articles/4efe817c.json)
-
-[Extended Data](ext_articles/4efe817c.ext.json)
-
----
-
-### Sri Lanka UDA to lease land to Ninewells, Access International for health venture
-
-*2024-03-12 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-uda-to-lease-land-to-ninewells-access-international-for-health-venture-154372/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Urban Development Authority will lease a 0.1929 hectare land (roughly 76.2 perches) in Narahenpita to N W Realty Pvt Ltd, a joint venture between Ninewells Hospital Pvt Ltd and Access International Pvt Ltd, Minister Bandula Gunawardena said.
-
-“Investment proposals had been invited on a competitive basis for a plot of land belonging to the UDA at Kirimandala Mawatha, for a health sector related development project. Accordingly, the Cabinet approved to lease the land on a 50-year long-term lease basis.” (Colombo/Mar12/2024)
-
-◼️
-
-[Data](articles/0e4629d1.json)
-
-[Extended Data](ext_articles/0e4629d1.ext.json)
 
 ---

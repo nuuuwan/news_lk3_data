@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 19:17:51**
+As of **2024-03-13 19:33:34**
 
 ## Newspaper Stats
 
-*Scraped **12,682** Articles*
+*Scraped **12,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,117 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,086
-adaderanalk | 1,529
+adaderanalk | 1,530
 tamilmirrorlk | 1,546
 virakesarilk | 1,765
 dailymirrorlk | 1,933
-adaderanasinhalalk | 2,004
+adaderanasinhalalk | 2,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,680 (100.0%) of 12,682 articles have been extended.
+12,682 (100.0%) of 12,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### අම්බලන්ගොඩ සහ පිටිගල වෙඩිතැබීම්වලින් මියගිය තරුණයින්ගේ දේහ නිවෙස්වලට
+### පාසල්වලට යළිත් දැනුම්දීමක්
+
+*2024-03-13 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194475) · `si`
+
+පවතින අධික උණුසුම් කාලගුණය මත පාසල් දරුවන් එළිමහන් ක්‍රියාකාරකම්වල යෙදවීමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යාංශය දැනුම්දී තිබියදී අදත් පාසල් දරුවන් ක්‍රීඩා පුහුණුවීම් සඳහා යොමුකර තිබෙනු දක්නට ලැබුණි.
+
+මෙම හේතුවෙන්, අධ්‍යාපන අමාත්‍යාංශය සියලු පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන්ට යළිත් ලිපියක් යොමුකර තිබේ.
+
+ඉන් අවධාරණය කර ඇත්තේ පාසල් සිසුන්ගේ ආරක්ෂාව තහවුරු කිරීම විදුහල්පතිවරුන්ගේ වගකීම බවය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ දිස්ත්‍රික්ක කිහිපයකටම තවදුරටත් මෙම උෂ්ණ අධික කාලගුණ තත්ත්වය අවදානම් මට්ටමේ පවතින බවය.
+
+ඒ අනුව අද (13) දිනයේදීත් කොළඹ දිස්ත්‍රික්කයට සෙල්සියස් අංශක 35කට ආසන්න උෂ්ණත්වයක් වාර්තා වුණි.
+
+ගතවූ පැය 24 තුළ වැඩිම උෂ්ණත්වය සෙල්සියස් අංශක 37.9ක් ලෙස පුත්තලම දිස්ත්‍රික්කයෙන් වාර්තාවූ අතර බස්නාහිර,සබරගමුව,උතුරුමැද සහ දකුණ යන පළාත්වලත් වව්වනියාව,මන්නාරම සහ මොනරාගල දිස්ත්‍රික්කවලත් අද පැවතුණේ අවධානම් සහිත උෂ්ණාධික කාලගුණයකි.
+
+◼️
+
+[Data](articles/51e7b0de.json)
+
+---
+
+### Advisory issued for increased temperatures in parts of the island
+
+*2024-03-13 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97930/advisory-issued-for-increased-temperatures-in-parts-of-the-island) · `en`
+
+The Department of Meteorology has cautioned the people of rising atmospheric temperatures at some places in Western, Sabaragamuwa, North-western and Southern provinces in the coming hours.
+
+The advisory, issued at 04.00 p.m. today (13), will be in effect until tomorrow evening (14).
+
+“Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Western, Sabaragamuwa, North-western and Southern provinces”, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity. Continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/68e00ef2.json)
+
+---
+
+### Homes of the youths who were killed in Ambalangoda and Pitigala
 
 *2024-03-13 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194474) · `si`
 
-අම්බලන්ගොඩ සහ පිටිගලදී පසුගිය 11 වනදා සිදුවූ වෙඩිතැබීම්වලින් ජීවිතක්ෂයට පත්වූ තරුණයින් සිව්දෙනාගේ මෘතදේහ මේ වනවිට ඔවුන්ගේ නිවෙස්වලට රැගෙනවිත් තිබේ.
+The bodies of four youths killed in Ambalangoda and Pitigala have been returned home. They were not involved in any crime. The victims include Halambiga Maduranga and Dadalla from Ambalangoda. Relatives are shocked. Two more youths from Titigala were also killed and their bodies brought home. IGP Deshabandu Tennakoon visited Kavizka Angara's residence.
 
-පොලීසිය පැවසුවේ, මෙම වෙඩි තැබීම්වලින් මියගිය තරුණයන් කිසිදු අපරාධයකට සම්බන්ධ නොවූ අය බවය.
+🟩
 
-අම්බලන්ගොඩ ගලගොඩ ප්‍රදේශයේදී මියගිය තරුණයින් වන්නේ, හලඹ උදේශ් මධුරංග නොහොත් පොඩි මැන්ඩිස් නමැත්තා සහ දඩල්ලගේ සිතුම් සංජන යන අයයි.
+The body of the four youths who were shot dead in Ambalangoda and Pitigigi have been brought to their homes.
 
-තම දරුවන්ට වූ මෙම අපරාධ සම්බන්ධයෙන් ඥාතීන් දැඩි කම්පනයට පත්වී සිටී.
+Police said that the youth who died of these shootings were not involved in any crime.
 
-පිටිගල, ගුරුවල ප්‍රදේශයේ වෙළෙඳසැලකදී සිදුකළ වෙඩි ප්‍රහාරයෙන් ජීවිතක්ෂයට පත්වූ තරුණයින් දෙදෙනාගේ මෘතදේහ ද මේ වනවිට එම නිවෙස්වලට රැගෙනවිත් තිබේ.
+The youth who died in Galagoda area in Ambalangoda is the Halambiga Maduranga alias Ladar Mandis and Dadalla.
 
-මියගිය කවිෂ්ක අංජනගේ නිවසට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අද පැමිණ සිය සංවේගය පළ කළේය.
+Relatives are shocked with these crimes, their children.
+
+The body of the two youths who were bowled out for the shooting in a shooting in Titigala and the shooting was taken to the houses.
+
+IGP Deshabandu Tennakoon arrived in the deceased to Kavizka Angara's residence.
 
 ◼️
 
 [Data](articles/8797401a.json)
 
+[Extended Data](ext_articles/8797401a.ext.json)
+
 ---
 
-### රු කෝටි 3ක මත්ද්‍රව්‍ය සමග සැකකරුවෙක් කොටු
+### Suspect with 3 crores of drugs
 
 *2024-03-13 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194473) · `si`
 
-රුපියල් කෝටි 03කට අධික වටිනාකමකින් යුත් මත්ද්‍රව්‍ය තොගයක් සහ මත්ද්‍රව්‍ය නිෂ්පාදනයට ගන්නා යන්ත්‍රයක් සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+A suspect in Modara was arrested with 1 kg of heroin, 950 kg of Kerala cannabis, and 950 grams of carala cannabis, along with drug manufacturing equipment. The suspect, from Haputale, admitted to being a part of a larger drug network.
 
-මෝදර පොලීසිය සඳහන් කරන්නේ 'සුදුවා' නමැති සැකකරුවෙක් එලෙස අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
 
-එම සැකකරු සමග හොරොයින් මත්ද්‍රව්‍ය කිලෝ 01යි ග්‍රෑම් 500ක්, කේරළ ගංජා කිලෝග්‍රෑම් 07ක්, මත්පෙති නිෂ්පාදනයට ගන්නා විවිධ අමුද්‍රව්‍ය ග්‍රෑම් 950ක්, එම මත්ද්‍රව්‍ය නිෂ්පාදනය කරන යන්ත්‍රයක්, විද්‍යුත් තරාදියක් සහ මුදල් ගණින යන්ත්‍රයක් පොලිස් භාරයට ගෙන ඇත.
+A suspect has been arrested with a large haul of drugs worth over Rs.
 
-සැක කටයුතු පුද්ගලයෙකු මෝදර බෝගහ හන්දිය අසල රැඳීසිටින බවට ලැබුණු තොරතුරකට අනුව වැටලීම සිදුකර තිබුණි.
+Modara police states that a suspect, "a suspect," has been arrested.
 
-හපුතලේ ප්‍රදේශයේ පදිංචි මෙම සැකකරුව මහාපරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු මෙහෙයවන බවට මේ වනවිට අනාවරණය වී ඇත.
+With the suspect, one kilo of one kilogram of Horoin drugs and 950 kilograms of Kerala cannabis and 950 grams of carala cannabis, a drug manufacturer, electricity, and counting machine.
 
-ඒ අනුව සැකකරු අධිකරණයට ඉදිරිපත් කර රැඳවුම් නියෝග ලබා ගන්නා බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+A suspicious person had been raided by information that a suspicion was staying near Modara Bogaha Junction.
+
+The suspect, a resident of Haputale, has revealed that a larger drug dealer.
+
+Accordingly, a senior police officer said that the suspect will be submitted to court.
 
 ◼️
 
 [Data](articles/dce5daac.json)
+
+[Extended Data](ext_articles/dce5daac.ext.json)
 
 ---
 
@@ -2423,51 +2477,5 @@ The Ceylon Petroleum Corporation pricing formula and its operations were also di
 [Data](articles/7f1a353f.json)
 
 [Extended Data](ext_articles/7f1a353f.ext.json)
-
----
-
-### Sri Lankan embassy
-
-*2024-03-13 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178590) · `ta`
-
-The Tamil Nadu government has informed the Madras High Court that Murugan, Robert Bias, and Jayakumar, released from the assassination of former Prime Minister Rajiv Gandhi, will be taken to the Sri Lankan embassy in Chennai on Wednesday. Nalini, Murugan's wife, filed a petition to be with her daughter, requesting Murugan to attend Nikkanal and secure permission from the governments. The case was heard by Justices A. Suresh Kumar and Kumaresh Babu, with the Sri Lankan consulate ordered to provide a passport. Murugan, Robert Bias, and Jayakumar demanded passports, and security arrangements were made for their transfer to the embassy.
-
-🟩
-
-The Tamil Nadu government has informed the Madras High Court on Wednesday (13) that Murugan, Robert Bias and Jayakuma, who were released from the assassination of former Prime Minister Rajiv Gandhi, will be taken to the Sri Lankan embassy in Chennai on Wednesday (13).
-
-In a petition filed by Nalini in the Madras High Court, my husband Murugan and I want to be with her daughter. Therefore, my husband Murugan should go to the Sri Lankan embassy in Chennai and order the Central and State Governments to grant permission to attend Nikkanal.. In the petition, the petitioner had ordered the police to provide proper protection if needed to go there.
-
-...
-
-[Data](articles/c09ccaa5.json)
-
-[Extended Data](ext_articles/c09ccaa5.ext.json)
-
----
-
-### US election
-
-*2024-03-13 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178589) · `ta`
-
-US President Joe Faidan and former President Donald Trump are contesting the November presidential election. Democrats abroad voted, and the US faces the 2020 candidates again. Faidan supports voters, highlighting Trump's increased danger. Trump claims the US is returning to its roots, facing democratic challenges.
-
-🟩
-
-US President Joe Faidan and former President Donald Trump have received the necessary representatives to contest the presidential election in November.
-
-Democrats living abroad voted on Tuesday in four states and in the US region.
-
-Following this, the American people will again face the two candidates who contested the 2020 presidential election.
-
-President Joe Faidan said he is proud to have supported voters to re -contest as Trump's danger is now higher than ever before.
-
-Pointing to favorable economic status, Trump has said that the United States is in a state of return to the old and the US is facing the challenges of its democratic future.
-
-◼️
-
-[Data](articles/cb049f24.json)
-
-[Extended Data](ext_articles/cb049f24.ext.json)
 
 ---

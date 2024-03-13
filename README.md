@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 11:33:42**
+As of **2024-03-13 11:52:29**
 
 ## Newspaper Stats
 
-*Scraped **12,595** Articles*
+*Scraped **12,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 650
-economynextcom | 666
+economynextcom | 669
 islandlk | 686
 adalk | 1,076
 adaderanalk | 1,518
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,590 (100.0%) of 12,595 articles have been extended.
+12,595 (100.0%) of 12,598 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,17 +46,25 @@ Hours later, Trump clinched the 1,215 delegates required to secure the Republica
 
 [Data](articles/eb23073e.json)
 
+[Extended Data](ext_articles/eb23073e.ext.json)
+
 ---
 
-### தெஹிவளையில் அதி சொகுசு கார் முச்சக்கர வண்டியுடன் மோதி விபத்து
+### A luxury car collided with three wheelers in Dehiwala
 
 *2024-03-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178594) · `ta`
 
-இந்த விபத்து தெஹிவளை களுபோவில பகுதியில் நேற்று செவ்வாய்க்கிழமை (12) மாலை  இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+A luxury car collided with three wheelers in Dehiwala on Tuesday evening in Kalubowila.
+
+🟩
+
+It is reported that the accident took place on Tuesday evening (12) evening in Kalubowila, Dehiwala.
 
 ◼️
 
 [Data](articles/33eef6cf.json)
+
+[Extended Data](ext_articles/33eef6cf.ext.json)
 
 ---
 
@@ -88,17 +96,25 @@ If the Marines walked with humanity and gave us refuge, my husband's life is sep
 
 ---
 
-### මොණරාගල බන්ධනාගාරයේ රැදවියන් අතර ගැටුමක්
+### Conflict between prisoners in Moneragala Prison
 
 *2024-03-13 10:55:10* · [`adalk`](https://www.ada.lk/breaking_news/මොණරාගල-බන්ධනාගාරයේ-රැදවියන්-අතර-ගැටුමක්/11-408580) · `si`
 
-මොණරාගල බන්ධනාගාරයේ රැදවියන් දෙදනෙකු අතර ඇතිවු බහින්බස් වීමක් දුරදිග ගොස්, එක් රැදවියකු,ඔහුගේ කලිසම් සාක්කුවේ සගවා තිබු කුඩා පිහියකින්,අනෙක් රැදවියාගේ මුහුණට එල්ලකල පහරක් හේතුවෙන්, එම රැදවියා කැපුම් තුවාල සහිතව 12දා මොණරාගලමහ රෝහලට ඇතුලත්කර ඇතැයි මොණරාගල පොලිසිය පවසයි.
+In Moneragala Prison, a conflict between inmates led to a hearing with cut wounds. The incident involved two special inmates from Polgas Yaya, engaged in carrom games. A knife was confiscated, and one inmate is in custody. The injured are receiving treatment at Moneragala General Hospital, with the suspect to be presented to the Moneragala Magistrate's Court.
 
-සිද්ධියෙන් තුවාල ලබා ඇත්තේ,මිද්දෙනිය, පොල්ගස් යාය ප්‍රදේශයේ පදිංචි, හතලිස්අට හැවරදි රැදවියෙකි. මොණරාගල බන්ධනාගාරයේ ඒ 01 විශේෂ රැදවියන් 08 දෙනෙකු රදවා තිබු වාට්ටුවක, රැදවියන් දෙදනෙකු කැරම් ක්‍රිඩාව නිරතව සිට ඇති අතර, එහිදි එම රැදවියන් දෙදනා අතර, ක්‍රිඩාව සමිබන්ධයෙන් ඇතිවු කිසියම් බහින්බස් විමක්,දුරදිග ගොස්, දෙදනා අතින් පයින් පහරදිගෙන තිබෙි. එහිදි වහා බන්ධනාගාර නිළධාරින් මැදිහත්ව, දෙදනා,බන්ධනාගාරයේ විනය අංශය වෙත රැගෙන යමින් සිටියදි, එක් රැදවියකු, ඔහුගේ සාක්කුවෙි සගවාගෙන සිටි කුඩා පිහියක් ගෙන අනෙකාගේ මුහුණ ප්‍රදේශයට පහරක් එල්ලකර තිබෙන බව, එම බන්ධනාගාරයේ සහකාරබන්ධනාගාර නිළධාරියකු, පොලිසියට කර ඇති පැමිණිල්ලේ සදහන්වේ.
+🟩
 
-...
+A hearing between two inmates in the Moneragala Prison has been admitted to the Moneragala and Hospital with cut wounds.
+
+The incident was injured in the Forty-eight, a resident of Polgas Yaya, Polgas Yaya. Each number 01 special inmates have been engaged in carromes in the Moneragala Prison.. At the verdictor of the Prison, a small knife was taken into custody and the other face was taken into custody by the Prison Officers of the Prison Officers.
+
+A spokesman at Moneragala Police are receiving treatment at the Moneragala General Hospital in the Moneragala General Hospital for the attack.. The suspect is presented to the police to the police and the police are to be table to the Moneragala Magistrate's Court.
+
+◼️
 
 [Data](articles/338abd5f.json)
+
+[Extended Data](ext_articles/338abd5f.ext.json)
 
 ---
 
@@ -322,21 +338,29 @@ Residents of the area say that there was no rainy weather in the area yesterday.
 
 ---
 
-### අනියම් පෙම දෙදෙනෙකු මරු තුළයට යයි
+### Two casual few people die
 
 *2024-03-13 10:28:12* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-පෙම-දෙදෙනෙකු-මරු-තුළයට-යයි/11-408579) · `si`
 
-අම්පාර  පොතුවිල් පොලිස් බල ප්‍රෙද්ශයේ අරුගම්බේ සංචාරක කාලපයේ හෝටලයක්  තුලදි කාන්තාවක් ඝාතනය කර එම ඝාතනය කල පුද්ගලයාද එම හෝටලය තුලම ගෙල වැලදාගෙන මියගොස් ඇති බව අම්පාර දිස්ත්‍රික්කයේ උසස් පොලිස් නිළධාරියෙක් පැවසිය.
+Two people died in a hotel in Arugamil, Ampara. A woman was found dead in the morning, and another was not found until 5 pm. The police were informed after the discovery. The deceased were identified as residents of Mahakulagolla and Pottuvil Sinnaulla in Hulannu.
 
-ඊයේ  උදැසන නවයට පමන මියගිය කාන්තාව සහ අනෙක් පුද්ගලයා මෙම හෝටලයේ කාමරයක් රුගෙන නැවති  තිබේ.මෙම දෙදෙනා සවස 5.00 පමන වනතෙක්  කාමරයෙන් එලියට නොපැමිනි නිසා හෝටල් හිමිකරු විසින් අරුගම්බේ සංචාරක පොලිසියට දැනුම් දිමෙන්  අනතුරුව  පොලිස්  නිළධාරින් පැමින කාමරයේ දොර හැර බලනවිට කාන්තාව ලේ විලක්මැද වැටි සිටි ඇති අතර පිරිමි පුද්ගලයාගේ එල්ලෙමින්  තිබු සිරුර දැකගැනිමට හැකිව තිබේ .
+🟩
+
+A woman killed in a hotel at a hotel in Arugamil tourism area in Ampara, Ampara
+
+The woman who died for the nine dawn and the other was not at least 5.00 pm, the woman had lake the woman lake the lake lake after the police officers were informed of the door.The person's hanging body has been seen.
 
 මෙම කාන්තාව මියගිය පුද්ගලයා අතර අනියම් සම්බන්ධයක් තිබි ඇති බව මුලික විමර්ශණ වලදි හෙලිව තිබේ .මියයෑමට පෙර එම පුද්ගලයා විසින් ලියන ලද ලිපියක්ද පොලිසිය හමුව තිබේ.
 
-මියගිය කාන්තාවගේ සැමියා ගෙන් තිබෙන කරදර නිසා මෙම තිරණය ගත් බවද එම ලිපියේ  සදහන්ව ඇති බවද වාර්තාවේ.මෙම ලිපිය අනුව මෙම දෙදෙනා එකගතාවයකට පැමින මෙලෙස දිවි නසා ගන්නට ඇති බව විමර්ශණ නිළධාරින් පවසති
+The article said that this letter was made by the husband's husband's concerns. According to the article, the two suspects say
 
-...
+The deceased has been identified as a person in the Mahakulagolla area and Pottuvil Sinnaulla area in Hulannu.
+
+◼️
 
 [Data](articles/949b0b95.json)
+
+[Extended Data](ext_articles/949b0b95.ext.json)
 
 ---
 
@@ -429,6 +453,26 @@ The deceased is a 26 -year -old woman and Beruwala police have sought the help o
 [Data](articles/fe912d51.json)
 
 [Extended Data](ext_articles/fe912d51.ext.json)
+
+---
+
+### IMF review team discuss Sri Lanka energy pricing, utility finances
+
+*2024-03-13 10:12:00* · [`economynextcom`](https://economynext.com/imf-review-team-discuss-sri-lanka-energy-pricing-utility-finances-154461/) · `en`
+
+ECONOMYNEXT – A visiting International Monetary Fund team has reviewed the pricing and balance sheets of state-run Ceylon Electricity Board and Ceylon Petroleum Corporation, Energy Minister Kanchana Wijesekera said.
+
+The IMF team headed by Senior Mission Chief Peter Breuer had discussed a recent electricity tariff cut, and reviewed the progress on commitment on CEB and CPC, and their balance sheets, he said in an x.com post.
+
+The current financial position of CEB, accounting principles and standards adopted, automation of bulk supply tariff filing, conducting a dispatch audit, outstanding payments and forecasts for 2024, were discussed, Minister Wijesekera said.
+
+Sri Lanka cut electricity prices 21 percent, with steeper 33 percent cut for smaller users in what is to be an election year.
+
+The Ceylon Petroleum Corporation pricing formula and its operations were also discussed, he said.
+
+...
+
+[Data](articles/7f1a353f.json)
 
 ---
 
@@ -603,6 +647,24 @@ The injured have been admitted to the Jaffna Teaching Hospital for treatment, an
 [Data](articles/b3ba714a.json)
 
 [Extended Data](ext_articles/b3ba714a.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 306.30/50 to the US dollar
+
+*2024-03-13 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-306-30-50-to-the-us-dollar-154459/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 306.30/50 to the US dollar in the spot forex market on Wednesday, stronger from 306.50/60 on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 11.30/35 percent from 11.35/40 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.17/23 percent from 12.15/25 percent.
+
+The Colombo Stock Exchange opened up: The All Share Price Index was up 0.27 percent at 11,025, and the S&P SL20 was up 0.25 percent at 3,189. (Colombo/Mar13/2024)
+
+◼️
+
+[Data](articles/7768e835.json)
 
 ---
 
@@ -901,6 +963,28 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 [Data](articles/0903a2b6.json)
 
 [Extended Data](ext_articles/0903a2b6.ext.json)
+
+---
+
+### Sri Lanka income taxes lost due to BoI concessions Rs23.94bn in 2022
+
+*2024-03-13 08:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-income-taxes-lost-due-to-boi-concessions-rs23-94bn-in-2022-154432/) · `en`
+
+ECONOMYNEXT – Sri Lanka has lost 23.94 billion in corporate taxes in 2022 from concessions given to Board of Investment approved companies compared to higher corporate tax rates approved by parliament under an International Monetary Fund program.
+
+According to the tax expenditure statement the taxable income was 168 billion rupees, with 77 billion in manufacturing, 50 billion rupees in apparel, 22.7 billion in the power sector.
+
+Tax expenditure in manufacturing was 8,551 million rupees. Whether the firms are export or domestic oriented is not known.
+
+Apparel was 5,264 million rupees, knowledge services was 2,071 million rupees.
+
+The ‘tax expenditure’ is based on a 24 percent rate for the first nine months of 2022/2023 financial year and 30 percent for the balance.
+
+Ironically, a 20 percent tax rate, which is standard tax in East Asian nations with monetary stability and low government debt, is listed as a ‘concession’ in Sri Lanka.
+
+...
+
+[Data](articles/05305ca7.json)
 
 ---
 
@@ -2161,69 +2245,5 @@ The police say that a 30-year-old female body has been landed on the beach and h
 [Data](articles/c4d21f8e.json)
 
 [Extended Data](ext_articles/c4d21f8e.ext.json)
-
----
-
-### Shooting
-
-*2024-03-12 21:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்குளியில்-துப்பாக்கிச்சூடு/175-334570) · `ta`
-
-Two men on a motorcycle were shot at and fled this afternoon.
-
-🟩
-
-Police said that two men on a motorcycle flew this afternoon after the firing.. Remble
-
-◼️
-
-[Data](articles/34dd385c.json)
-
-[Extended Data](ext_articles/34dd385c.ext.json)
-
----
-
-### Four houses attacked in Mattakkuliya
-
-*2024-03-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194437) · `si`
-
-In Mattakkuliya, four houses were attacked around 5.50 pm. The incident involved shooting at a resident of Aliwaththa area, targeting a 24-year-old named Ashan Maduranga.
-
-🟩
-
-The target was to shoot life in the Matulkuliya area around 5.50 pm, reports say that he had been assaulted by 4 houses.
-
-The attack on several houses in the Aliwaththa area in the area.
-
-The party accused the incident that the attack was carried out by saying that the shooting had taken place on his party.
-
-Two people in the Alwatawatta, Mattakuliya area in Mattakuliya, was targeted at a resident of the Alikalkuliya.
-
-A 24-year-old was the target of Ashan Maduranga.
-
-◼️
-
-[Data](articles/b978dcb2.json)
-
-[Extended Data](ext_articles/b978dcb2.ext.json)
-
----
-
-### Migrated doctors return easing shortage concerns
-
-*2024-03-12 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Migrated-doctors-return-easing-shortage-concerns/108-278718) · `en`
-
-Colombo, March 12 (Daily Mirror) - Doctors who had previously left Sri Lanka for various reasons are now returning to the country, providing a hopeful alleviation of the ongoing shortage of doctors, the Health Ministry said.
-
-Deputy Director General (Medical Services) Dr. G. Wijesuriya, while speaking at a news briefing, highlighted this positive development, citing a recent downward trend in doctors leaving the country.
-
-"Previously, there was a concerning trend where doctors, particularly those pursuing postgraduate training abroad, opted not to return to Sri Lanka. However, we are now witnessing a reversal of this trend, with an increasing number of doctors choosing to come back," stated Dr. Wijesuriya.
-
-The Health Ministry also emphasized the importance of addressing this issue comprehensively, acknowledging ongoing discussions with relevant stakeholders to find effective solutions.
-
-◼️
-
-[Data](articles/b54ea265.json)
-
-[Extended Data](ext_articles/b54ea265.ext.json)
 
 ---

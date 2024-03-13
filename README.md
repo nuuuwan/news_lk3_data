@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 12:33:19**
+As of **2024-03-13 12:49:20**
 
 ## Newspaper Stats
 
-*Scraped **12,604** Articles*
+*Scraped **12,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,109 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,076
-adaderanalk | 1,519
-tamilmirrorlk | 1,535
+adaderanalk | 1,520
+tamilmirrorlk | 1,536
 virakesarilk | 1,755
-dailymirrorlk | 1,918
-adaderanasinhalalk | 1,983
+dailymirrorlk | 1,921
+adaderanasinhalalk | 1,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,603 (100.0%) of 12,604 articles have been extended.
+12,604 (99.9%) of 12,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### காசாவில் பட்டினி ஒரு போர் ஆயுதமாக பயன்படுத்தப்படுகின்றது -  ஐரோப்பிய ஒன்றியம்
+### சீருடையுடன் ஸ்பா சென்ற பொலிஸ்
+
+*2024-03-13 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடையுடன்-ஸ்பா-சென்ற-பொலிஸ்/175-334603) · `ta`
+
+முதலாம் தர சீருடை அணிந்திருந்த பொலிஸ் சார்ஜன்ட் ஒருவர், நீதிமன்றத்துக்கு செல்லும் வழியில், சீருடையுடன் ஸ்பா சென்றுள்ள சம்பவமொன்று இடம்பெற்றுள்ளது. சேவையை பெற்றுக்கொள்வதற்காகவே அவர், சீருடையுடன் ஸ்பா சென்றுள்ளமை விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+யக்கல பொலிஸ் நிலையத்துக்கு அழைத்துச் செல்லப்பட்ட அந்த பொலிஸ் சார்ஜன்ட், விசாரணைகளுக்குப் பின்னர் விடுவிக்கப்பட்டுள்ளார் என பொலிஸ் தலைமையகம் அறிவித்துள்ளது.  தொம்பே பொலிஸில் இணைத்துக்கொள்ளப்பட்ட பொலிஸ் சார்ஜன்டே இவ்வாறு விசாரணைக்குப் பின்னர் விடுதலைச் செய்யப்பட்டுள்ளார்.
+
+யக்கல பொலிஸ் பிரிவில் கண்டி வீதியில் உள்ள ஸ்பா மத்திய நிலையத்துக்கு சேவையை பெற்றுக்கொள்வதற்காக, பொலிஸ் சீருடையில் சென்றிருந்தமை தொடர்பில், யக்கல பொலிஸ் நிலைய பொறுப்பதிகாரிக்கு கிடைத்த தகவல்களின் பிரகாரம், அந்த நிலையத்துக்கு பொலிஸ் அதிகாரிகள் குழுவொன்றை அனுப்பி, பொலிஸ் சார்ஜன்ட், பொலிஸ் நிலையத்துக்கு அழைத்து வரப்பட்டார்.
+
+◼️
+
+[Data](articles/46c8b6c2.json)
+
+---
+
+### Elderly Sri Lankan couple found dead near their Melbourne home
+
+*2024-03-13 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97919/elderly-sri-lankan-couple-found-dead-near-their-melbourne-home) · `en`
+
+An elderly couple who died together outside their home may have been overcome by Melbourne’s blistering heatwave.
+
+The bodies of Doyne Caspersz and his wife Marlene were found outside their home on Antigoni Court, Warrandyte about 9.30am on Tuesday.
+
+Daily Mail Australia has been told CCTV captured their sad demise on Sunday, when temperatures soared in Warrandyte to 38C.
+
+It remains unknown why the beloved couple decided to leave their home, which is located in a wealthy Melbourne neighbourhood.
+
+Melbourne had been within the grips of a shocking heatwave, which saw temperatures climb to 36C on Monday as the couple remained undiscovered outside their property.
+
+A detective at the scene on Tuesday told Daily Mail Australia the couple’s death had been nothing more than a tragic accident.
+
+Shocked residents described the pair, both aged in their eighties, as friendly people who kept to themselves but would wave to neighbours when passing by in the street.
+
+...
+
+[Data](articles/21f9e06d.json)
+
+---
+
+### Hunger in Gaza is used as a war weapon - the European Union
 
 *2024-03-13 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178604) · `ta`
 
-காசாவில் பட்டினி  ஒரு போர் ஆயுதமாக பயன்படுத்தப்படுகின்றது என ஐரோப்பிய ஒன்றியத்தின் வெளிவிவகார கொள்கை தலைவர் தெரிவித்துள்ளார்.
+The EU's foreign policy leader claims hunger in Gaza is a war weapon, blaming the lack of adequate lanes for the humanitarian crisis. The EU is working to deliver humanitarian aid through alternative means like sea and air, despite efforts being artificially hindered.
 
-காசாவிற்குள் போதியளவு மனிதாபிமான பொருட்கள் செல்ல முடியாமல் உள்ளதை மனிதர்கள் ஏற்படுத்திய பேரழிவு என ஜோசப்பொரொல் வர்ணித்துள்ளார்.
+🟩
 
-போதிய தரைப்பாதைகள் இல்லாததே காசாவில் உருவாகியுள்ள மனிதாபிமான நெருக்கடிக்கான காரணம் என  ஐநாவில் உரையாற்றுகையி;ல் ஐரோப்பிய ஒன்றியத்தின் வெளிவிவகார கொள்கை தலைவர் தெரிவித்துள்ளார்.
+Hunger is used as a war weapon in Gaza, said the EU foreign policy leader.
 
-காசாவிற்குள் மனிதாபிமான உதவிகள் செல்லவேண்டும் ஐரோப்பிய ஒன்றியம் அதற்கான முயற்சிகளில் ஈடுபட்டுள்ளது இது மனிதனால் உருவான நிலைமை கடல் மற்றும் வான்வெளி மூலம் விநியோகங்களை மேற்கொள்வதற்கான மாற்றுவழிகளை ஆராய்ந்து வருகின்றோம் எனவும் அவர் தெரிவித்துள்ளார்.
+Josephorol describes the disaster that humans have caused enough humanitarian materials to go into Gaza.
 
-வீதிவழியாக மனிதாபிமான உதவிகளை வழங்கும் நடவடிக்கைகள் செயற்கையாக முடக்கப்பட்டுள்ளன எனவும் அவர் தெரிவித்துள்ளார்.
+Speaking to the United Nations, the EU foreign policy leader said that the lack of adequate lanes is the cause of the humanitarian crisis that has created in Gaza.
 
-பட்டினி என்பது போர் ஆயுதமாக பயன்படுத்தப்படுகின்றது உக்ரைனில் இது இடம்பெறும்போது கண்டிக்கும் நாங்கள் காசாவிலும் அதேவார்த்தைகளை பயன்படுத்தவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that the European Union is trying to move humanitarian assistance into Gaza, and we are exploring alternatives to distributes through the sea and air.
+
+He added that the activities of humanitarian assistance have been artificially disabled.
+
+Hunger is used as a war weapon.
 
 ◼️
 
 [Data](articles/decc1f04.json)
+
+[Extended Data](ext_articles/decc1f04.ext.json)
+
+---
+
+### Sanga boosts Dorset charity fundraiser
+
+*2024-03-13 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sanga-boosts-Dorset-charity-fundraiser/108-278774) · `en`
+
+Mar. 13 (dorsetecho) - Cricket icon Kumar Sangakkara wowed a packed audience at the Crown Hotel in Blandford to help raise money for charity.
+
+Dorset resident Sangakkara guested at the fundraiser, set up by Shillingstone Cricket Club, in aid of the Dorset & Somerset Air Ambulance.
+
+The cause is a dear one to Shillingstone, who required the help of the air ambulance last season when a player fell ill during a match against Bere Regis.
+
+Some £3,000 was raised on the night through ticket sales and an auction, items sold including wines, beer, a signed Bournemouth shirt, a four-ball at the Dorset Golf & Country Club, pads and gloves donated by Sangakkara himself, an Apple watch plus more.
+
+There are also three special items currently on offer at an online auction.
+
+Bidders can choose between a round of golf for two with Sangakkara, two hospitality tickets for day three of the England v Sri Lanka Test match this September or two hospitality tickets for Rajasthan Royals in the IPL.
+
+...
+
+[Data](articles/20d00cc8.json)
 
 ---
 
@@ -130,6 +198,24 @@ According to Nadeeshani’s father, she had been forcibly taken away by her brot
 
 ---
 
+### මට්ටක්කුලිය වෙඩිතැබීමේ CCTV දර්ශන
+
+*2024-03-13 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194452) · `si`
+
+මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේදී ඊයේ (12) පස්වරුවේ සිදුකළ වෙඩිතැබීමට යතුරුපැදියකින් සැකකරුවන් දෙදෙනා පැමිණි අයුරු දැක්වෙන CCTV වීඩියෝව මේ වනවිට පොලිස් විමර්ශන සඳහා යොදාගෙන තිබේ.
+
+වෙඩික්කරුවන්ගේ ඉලක්කය වී තිබුණේ අශාන් මදුරංග හෙවත් අලිවත්තේ විරාජ් නැමති 24 හැවිරිදි තරුණයෙකි.
+
+ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි වෙඩික්කරුවන් දෙදෙනා රිවෝල්වර් වර්ගයේ ගිනිඅවියකින් වෙඩිතැබීම සිදුකළ බවද වාර්තා විය.
+
+කෙසේවෙතත් ඔහු එම වෙඩිතැබීමෙන් ජීවිතය බේරාගෙන තිබූ අතර පසුව වෙඩිතැබීමට සැක පාර්ශ්වයේ නිවෙස් 4කට පමණ ප්‍රහාරයක් එල්ල කිරීමට අලිවත්තේ විරාජ්ගේ පාර්ශ්වය කටයුතු කර තිබූ බව වාර්තා විය.
+
+◼️
+
+[Data](articles/95a8f5ed.json)
+
+---
+
 ### Two men killed in a boat in Indonesia
 
 *2024-03-13 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178597) · `ta`
@@ -149,6 +235,26 @@ Officials said that there were 35 fishermen in the area and 11 of them were resc
 [Data](articles/48f8e7f5.json)
 
 [Extended Data](ext_articles/48f8e7f5.ext.json)
+
+---
+
+### Sri Lanka Cricket to send teams to play T20 matches in Japan
+
+*2024-03-13 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-to-send-teams-to-play-T20-matches-in-Japan/108-278773) · `en`
+
+Colombo, Mar. 13 (SLC) - Sri Lanka Cricket (SLC) signed an MOU with the Japan Cricket Association (JCA) to help Japan develop its game through collaborations, exchanges, and also providing expertise pertaining to the game.
+
+Under this MOU, Sri Lanka Cricket will help Japan by sending players, teams, coaches and curators to help Japanese cricket.
+
+SLC will send teams to play T20 matches in Japan and will also host Japanese cricket teams in Sri Lanka, while opportunities will also be given to their players to train with the LPL squads.
+
+The SLC said The MOU was signed between SLC President Shammi Silva and  CEO of the Japan Cricket Association Naoki Alex Miyaji at the SLC headquarters.
+
+Deputy Ambassador of Japan to Sri Lanka Kotaro Katsuki, CEO of Sri Lanka Cricket Ashley De Silva and the Goodwill Ambassador of Japan Cricket Development Priyantha Kariyapperuma attended the signing ceremony.
+
+...
+
+[Data](articles/f5ba2638.json)
 
 ---
 
@@ -196,6 +302,22 @@ Handunnethi said that the people should come forward against any action to sell 
 
 ### Biden, Trump clinch nominations, kicking off bruising presidential rematch
 
+*2024-03-13 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Biden-Trump-clinch-nominations-kicking-off-bruising-presidential-rematch/107-278772) · `en`
+
+March 12 (Reuters) - President Joe Biden and former President Donald Trump both clinched their parties' nomination on Tuesday, kicking off the first U.S. presidential election rematch in nearly 70 years.
+
+Biden needed 1,968 delegates to win the nomination, and he passed that number on Tuesday night as results began to come in from the primary contest in Georgia, Edison Research said. Results were also coming in from Mississippi, Washington state, the Northern Mariana Islands and Democrats living abroad.
+
+Hours later, Trump clinched the 1,215 delegates required to secure the Republican presidential nomination as four states held contests, including Georgia, the battleground where Trump faces criminal charges for his efforts to overturn the state's 2020 results. There were 161 delegates at stake on Tuesday in Georgia, Hawaii, Mississippi and Washington state.
+
+...
+
+[Data](articles/b868e971.json)
+
+---
+
+### Biden, Trump clinch nominations, kicking off bruising presidential rematch
+
 *2024-03-13 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-Trump-clinch-nominations-kicking-off-bruising-presidential-rematch/108-278772) · `en`
 
 March 12 (Reuters) - President Joe Biden and former President Donald Trump both clinched their parties' nomination on Tuesday, kicking off the first U.S. presidential election rematch in nearly 70 years.
@@ -209,6 +331,26 @@ Hours later, Trump clinched the 1,215 delegates required to secure the Republica
 [Data](articles/eb23073e.json)
 
 [Extended Data](ext_articles/eb23073e.ext.json)
+
+---
+
+### ජපානයේ ක්‍රිකට් උස්සන්න ශ්‍රී ලංකාව ඉදිරිපත් වෙයි
+
+*2024-03-13 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194451) · `si`
+
+ජපානයේ ක්‍රිකට් ක්‍රීඩාව ප්‍රවර්ධනය කිරීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය එකඟ වී තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සහ ජපාන ක්‍රිකට් සංගමය අතර ඒ සඳහා එකඟතා ගිවිසුමකට අත්සන් කළ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+එම එකඟතාවය අනුව මෙරට ක්‍රීඩකයින්, ක්‍රිකට් කණ්ඩායම්, පුහුණුකරුවන් සහ ක්‍රීඩාංගණ කාර්ය මණ්ඩල සාමාජිකයින් ජපානයට යැවීමටත් එරට ක්‍රිකට් ක්‍රීඩකයින්ට මෙරටට පැමිණ වැඩිදුර පුහුණුවීමේ අවස්ථාවත් හිමිවෙයි.
+
+එම නිවේදනයේ වැඩිදුරටත් සඳහන් වන්නේ මෙරට කණ්ඩායම් ජපානයේ පැවැත්වෙන T20 තරගාවලි සඳහා යැවීමට නියමිත බවය.
+
+එසේම LPL කණ්ඩායම් සමග පුහුණුවීමට ජපාන ක්‍රීඩකයින්ට ද අවස්ථාව හිමිවෙයි.
+
+◼️
+
+[Data](articles/3b7ff516.json)
 
 ---
 
@@ -910,7 +1052,7 @@ KLDG Richmond, Joint Secretary of the Universities Trade Union Federation, said 
 
 *2024-03-13 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97912/imf-delegation-reviews-progress-of-ceb-cpc-operations) · `en`
 
-The visiting delegates of the International Monetary Fund (IMF) held a discussion on Tuesday (March 11) at the Ministry of Power and Energy to review the progress of Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC) operations and commitments.
+The visiting delegates of the International Monetary Fund (IMF) held a discussion on Tuesday (March 12) at the Ministry of Power and Energy to review the progress of Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC) operations and commitments.
 
 The delegation led by Peter Breuer, IMF Senior Mission Chief for Sri Lanka, has reportedly looked into the tariff reduction in the electricity sector, CEB and CPC balance sheets of 2023, current financial positions of the state-owned electricity supplier, Minister Kanchana Wijesekera said in a post on his X handle (formerly Twitter).
 
@@ -2099,167 +2241,5 @@ Sudden Death Inspector Amal Jayawardena had taken action to postpone the death i
 [Data](articles/021df6c1.json)
 
 [Extended Data](ext_articles/021df6c1.ext.json)
-
----
-
-### Grandmother's pill's throat
-
-*2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட்டி-கொடுத்த-மாத்திரை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
-
-A 4-year-old girl died after swallowing a grandmother's pill. Initially treated at Mahiyangana Hospital, she was transferred to Peradeniya Sirimavo Bandaranaike Children's Hospital. The pill was removed, and the case is under investigation.
-
-🟩
-
-A 4 -year -old girl has died after a grandmother's pill was caught in the throat of a girl.
-
-The girl who was admitted to the Intensive Care Unit of the Peradeniya Sirimavo Bandaranaike Children's Hospital has died yesterday (11) after the unconscious girl was admitted to the Mahiyanganaya Hospital.
-
-The mother has gone home with grandparents and two sisters as the mother has gone to Vavinadu.
-
-Police investigations have revealed that the father is living in another house near their home.
-
-The pill that was trapped in the girl's throat at Mahiyanganna Hospital has been removed and the Peradeniya Sirimavo Bandaranaike has been transferred to the Bandaranaike Children's Hospital for further treatment.
-
-Sudden Death Inspector Amal Jayawardena had taken action to postpone the death investigation until the investigation was received. Remble
-
-◼️
-
-[Data](articles/6fc3fafb.json)
-
-[Extended Data](ext_articles/6fc3fafb.ext.json)
-
----
-
-### Baby death stuck in the throat
-
-*2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளாசை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
-
-A 4-year-old girl died after swallowing a pill, leading to her admission to the ICU at Peradeniya Sirimavo Bandaranaike Children's Hospital. The pill was removed, and the child was transferred for further treatment. The father is living separately.
-
-🟩
-
-A 4 -year -old girl has died after a grandmother's pill was caught in the throat of a girl.
-
-The girl who was admitted to the Intensive Care Unit of the Peradeniya Sirimavo Bandaranaike Children's Hospital has died yesterday (11) after the unconscious girl was admitted to the Mahiyanganaya Hospital.
-
-The mother has gone home with grandparents and two sisters as the mother has gone to Vavinadu.
-
-Police investigations have revealed that the father is living in another house near their home.
-
-The pill that was trapped in the girl's throat at Mahiyanganna Hospital has been removed and the Peradeniya Sirimavo Bandaranaike has been transferred to the Bandaranaike Children's Hospital for further treatment.
-
-Sudden Death Inspector Amal Jayawardena had taken action to postpone the death investigation until the investigation was received. Remble
-
-◼️
-
-[Data](articles/a506f8d9.json)
-
-[Extended Data](ext_articles/a506f8d9.ext.json)
-
----
-
-### Sri Lanka to get Rs. 3.3bn Japanese grant under Economic and Social Development Program
-
-*2024-03-12 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97908/sri-lanka-to-get-rs-33bn-japanese-grant-under-economic-and-social-development-program) · `en`
-
-The Cabinet of Ministers has given approval to sign documents with the Japanese government to receive a grant of Yen 1.6 billion (approximately Rs. 3.3 billion) under the Japanese Economic and Social Development Program for the implementation of several projects.
-
-Japan has expanded its corporation to provide Sri Lanka with immediate humanitarian grants for the communities devastated by the present economic crisis and to empower the government sector to upgrade the economic situation of the country.
-
-Accordingly, Sri Lanka’s long-time ally has agreed to grant Japanese Yen 1.6 billion to implement the following projects under the Japanese Economic and Social Development Program:
-
-• Response and management enhancement project for oil spills of Sri Lanka Coastal Defense Force
-
-...
-
-[Data](articles/4b0a6938.json)
-
-[Extended Data](ext_articles/4b0a6938.ext.json)
-
----
-
-### NPP support surge linked to opposition weakness
-
-*2024-03-12 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-support-surge-linked-to-opposition-weakness/108-278719) · `en`
-
-Colombo, March 12 (Daily Mirror) - The surge in the support for the National People's Power (NPP) led by Anura Kumara Dissanayaka can be attributed to the weakness of the Opposition, Tourism Minister Harin Fernando said.
-
-The primary opposition should be prepared to assume governance. However, this opposition prepared prematurely.
-
-Therefore, the emergence of a third party became prominent as uncertainty loomed over the effectiveness of the opposition.
-
-As a result, the main opposition's only course of action may be to collaborate with the ruling party. If they choose not to unite without careful consideration, several key leaders from the main opposition may opt to join the government.
-
-However, the selection of the common opposition or the President will be made by the Members of Parliament based on their personal opinions, but there is no relevance to being in the Sri Lanka Podujana Peramuna (SLPP) or any other political party.
-
-...
-
-[Data](articles/aeaf45ac.json)
-
-[Extended Data](ext_articles/aeaf45ac.ext.json)
-
----
-
-### 13 years after a 12 -year prison for a small father
-
-*2024-03-12 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178567) · `ta`
-
-A man was sentenced to 12 years in prison for sexually abusing a girl under 16 in Kilinochchi, Sri Lanka, in 2011 and 2012. The court also ruled the victim could face 24 months in prison if they fail to pay a fine.
-
-🟩
-
-The Kilinochchi High Court on Tuesday (12) after thirteen years of thirteen years after the rape of his under -sixteen years of age, under the age of sixteen in the Kilinochchi Palai Police Division, the Kilinochchi High Court on Tuesday (12)
-
-In the Kilinochchi police division, the Kilinochchi police division in the Kilinochchi police division, on June 30, 2011 and July 2012, he was found guilty of sexually abusing his or her childhood abuse of his abuse.
-
-The case was taken up in the presence of Justice AMM Sahabdeen at the Kilinochchi High Court on Tuesday (12)
-
-The enemy was sentenced to 12 years in prison and 12 months in prison.
-
-It has been ruled that the victim will suffer a 24 -month imprisonment in the event of a failure to pay two lakhs of rupees.
-
-...
-
-[Data](articles/f009aa06.json)
-
-[Extended Data](ext_articles/f009aa06.ext.json)
-
----
-
-### Main suspect in Buddhist monk’s killing was an ex-commando turned hitman - Police
-
-*2024-03-12 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/97907/main-suspect-in-buddhist-monks-killing-was-an-ex-commando-turned-hitman-police) · `en`
-
-The main suspect in the murder of a Buddhist monk in Malwathu Hiripitiya was found to have been an ex-commando turned hitman, the police said on Tuesday (March 12). He was gunned down by police while attempting to escape custody.
-
-The deceased, identified as Kalhara Dilshan from Aralaganwila in Polonnaruwa, was reportedly complicit in a number of criminal activities including the murders of Dilan Ranga in Thalangama on 20 July 2023, “Manna Ramesh” and another person on 25 December 2023 in Padukka, the police said.
-
-Police said all suspects implicated in the murder were previously arrested except the main gunman. After finding out that the suspect was hiding in Monaragala, he was arrested by the Hambegamuwa Police on Monday (March 11) and handed over to the Colombo North Police Division for onward investigations.
-
-...
-
-[Data](articles/e7a59849.json)
-
-[Extended Data](ext_articles/e7a59849.ext.json)
-
----
-
-### President Ranil unveils plans to promote AI education at schools, invest in AI research
-
-*2024-03-12 22:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97906/president-ranil-unveils-plans-to-promote-ai-education-at-schools-invest-in-ai-research) · `en`
-
-President Ranil Wickremesinghe on Monday (March 11) underscored the importance of education instilling resilience in children, encouraging them to confront challenges with unwavering principles.
-
-He also highlighted the significance of education beyond textbooks, encompassing sports, leadership and the exploration of emerging fields like artificial intelligence (AI).
-
-Wickremesinghe made these remarks while attending the “Sesquicentennial Banquet” of Wesley College Colombo Monday night at the Shangri-La Hotel Colombo as the chief guest, the President’s Media Division (PMD) said.
-
-In his address, the President announced plans to promote AI education in schools, underscoring the government’s commitment to investing in AI research and development. He expressed a desire to support private schools that have historically played a vital role in the country’s education system.
-
-...
-
-[Data](articles/9f8607bb.json)
-
-[Extended Data](ext_articles/9f8607bb.ext.json)
 
 ---

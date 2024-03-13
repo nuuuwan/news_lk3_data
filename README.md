@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 18:09:07**
+As of **2024-03-13 18:33:22**
 
 ## Newspaper Stats
 
-*Scraped **12,673** Articles*
+*Scraped **12,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,083
-adaderanalk | 1,528
+adalk | 1,084
+adaderanalk | 1,529
 tamilmirrorlk | 1,545
-virakesarilk | 1,764
+virakesarilk | 1,765
 dailymirrorlk | 1,932
 adaderanasinhalalk | 2,002
 
@@ -26,49 +26,145 @@ adaderanasinhalalk | 2,002
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,670 (100.0%) of 12,673 articles have been extended.
+12,675 (100.0%) of 12,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### පොලිස් නිලධාරීන්ගේ පෙත්සම් විභාගයට අවසර
+### Govt to gradually allow essential vehicle imports starting next year - President
 
-*2024-03-13 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194472) · `si`
+*2024-03-13 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97929/govt-to-gradually-allow-essential-vehicle-imports-starting-next-year-president-) · `en`
 
-ප්‍රධාන පොලිස් පරීක්ෂකවරුන් පිරිසක් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් 09 ක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද (13) අවසර ලබා දුනි.
+President Ranil Wickremesinghe underscored the consequences of political promises made without a comprehensive understanding of the country’s economy, highlighting the resulting hardships faced by the people.
 
-2021 වසරේ සහකාර පොලිස් අධිකාරි ධුර සඳහා උසස්වීම් පිරිනැමීමේදී තමන්ට එම උසස්වීම් නොලැබීම තුළින් සිය මූලික අයිතීන් උල්ලංඝනයවී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා එම පෙත්සම් ගොනුකර තිබේ.
+In a departure from such approaches, the President emphasized the importance of facing reality and working collectively towards a positive future for the nation.
 
-අදාළ පෙත්සම් සලකා බැලීමෙන් පසුව ගාමිණී අමරසේකර, යසන්ත කෝදාගොඩ සහ මහින්ද සමයවර්ධන යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කර ඇත.
+The President made these remarks during his presence in a convivial gathering organized by the United Youth Union, titled “Future of the Youth,” held yesterday (12) at Thaprobane Entertainment.
 
-ඒ අනුව මෙම පෙත්සම්වලට අදාළ විරෝධතා තිබේ නම් ඒවා ඊයේ දින සිට සති 06ක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙස එහි වගඋත්තරකරුවන් වශයෙන් නම් කර තිබූ පොලිස්පතිවරයා, ජාතික පොලිස් කොමිසම ඇතුළු පිරිසකට අධිකරණය විසින් නියෝග කර තිබේ.
-
-අදාල පෙත්සම් ජුලි මස 10 සහ 11 යන දිනවල විභාගයට ගන්නා බවත්  විනිසුරු මඩුල්ල නියෝග කර ඇත.
+“The collapse of our country’s economy can largely be attributed to the unsustainable practice of providing everything for free. This approach ultimately burdens someone else, leading to economic instability,” he said, responding to a question on increasing prices of mobile phones and internet service charges.
 
 ...
 
-[Data](articles/53050420.json)
+[Data](articles/72211f83.json)
 
 ---
 
-### වාහන ආනයනය සිදුවන්නේ මෙහෙමයි
+### Credit card data dating data that is called Sri Lanka Post
+
+*2024-03-13 17:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-තැපෑල-කියා-ණය-කාඩ්පත්-දත්ත-සොරා-ගැනීමේ-ජාවාරමක්/11-408592) · `si`
+
+Sri Lanka Post's Master General RP warns against sharing credit card data via SMS for parcel fees. The PostCorganization, involving postgraduates and the Department of Postal Services, emphasizes that credit card inquiries are not conducted by the Sri Lanka Postal Department. For more information, contact Postal Department's Support Service at 1950, IT 011-2542104, 011-2335978, 011-2335972, 011-2330072.
+
+🟩
+
+Master General RP has sent a borrowing SMS to inform the public as a SMS issued by the Sri Lanka Post to pay fees for a parcel.. Says Sankumara.
+
+The PostCorganization is also implemented using the post of Postgraduates using the Department of Postal Department using the Department of Postal Department, SLMC, SL Post, SL Post, Sri Lanka Post.
+
+He says that the Credit Card Inquiry is not conducted by the Sri Lanka Postal Department, a credit card information is not conducted by the SMS.
+
+A sum of money is requested not to give his credit card data or a text message or otherwise to a text message to the public.
+
+More information on this is the help of the Postal Department's Support Service 1950, IT 011-2542104, 011-2335978, 011-2335972, 011-2330072.
+
+◼️
+
+[Data](articles/eaf338d3.json)
+
+[Extended Data](ext_articles/eaf338d3.ext.json)
+
+---
+
+### Petitions of Police
+
+*2024-03-13 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194472) · `si`
+
+The Supreme Court today heard petitions by Chief Inspectors seeking promotions to Assistant Superintendent of Police. Issued by Gamini Amarasekera, Yasantha Kodagoda, and Mahinda Samayawardena, the Inspector General of Police (IGP) and the National Police Commission were ordered to object. The case will be heard on the 10th and 11th.
+
+🟩
+
+The Supreme Court today (13) was permitted to be heard today (13) the fundamental rights petitions filed by a group of Chief Inspectors.
+
+The petitions have been filed as a promotions for the office of Assistant Superintendent of Police in the year.
+
+The order has been issued by Gamini Amarasekera, Yasantha Kodagoda and Mahinda Samayawardena.
+
+Accordingly, the Inspector General of Police (IGP) had ordered the IGP and the National Police Commission, who had been named as respondents to file the objections to these petitions.
+
+The panel of judges have been ordered to be heard on the 10th and 11 of the petitions.
+
+Deputy Solicitor General Nirmalan Wigneswaran appeared for the respondents before the petition, he said that 230 Assistants of Assistant Superintendents of the Court are present.
+
+◼️
+
+[Data](articles/53050420.json)
+
+[Extended Data](ext_articles/53050420.ext.json)
+
+---
+
+### The import of vehicles is happening
 
 *2024-03-13 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194470) · `si`
 
-ලබන වසරේ සිට ක්‍රමානුකූලව වාහන ආනයනය කිරීමට බලාපොරොත්තු වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+It seems like you've shared a comprehensive overview of various economic, social, and political issues facing Sri Lanka, including the impact of foreign debt, the need for economic recovery programs, challenges in the education sector, issues related to self-employment and entrepreneurship, nutritional support for athletes, and the broader economic landscape. This is a complex and multifaceted issue that requires a nuanced approach to address.
 
-ජනාධිපතිවරයා මෙම අදහස් පළකළේ “යුනයිටඩ් යූත් තරුණ එකමුතුව “ තරුණ අපේ අනාගතය” නමින් සංවිධානය කළ සුහද හමුවට එක්වෙමිනි.
 
-එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත යොමු කළ ප්‍රශ්න සහ ජනාධිපතිවරයා ලබාදුන් පිළිතුරු පහතින්.
 
-මේ වසරේදී පෞද්ගලික වාහන ආනයනය ලිහිල් කිරීම පිළිබඳ ඔබගේ අවධානය යොමු කරනවාද?
+Given the breadth of the topics you've covered, it's clear that addressing these issues will require a multi-pronged strategy that includes:
 
-ලබන වසරේ සිට අපි එය ක්‍රමානුකූලව සිදු කිරීමට බලාපොරොත්තු වෙනවා. මෝටර් රථ වෙළඳපොලේ පවතින ගැටළු පිළිබඳ මම දැනුවත්. නමුත් තවමත් අපගේ ගෙවුම් ශේෂය යහපත් තත්ත්වයක නැහැ. අපි මෝටර් රථ ආනයනය හැර අනෙක් සියල්ලට ඉඩ දී තිබෙනවා. මොටර් රථ ආනයනයනය සිදු වුවහොත් නැවත රට ආපස්සට ගමන් කිරීමට හැකියාව තිබෙනවා. නමුත් ලබන වසරේ සිට පියවරෙන් පියවර, මුලින්ම අත්‍යවශ්‍ය වාහන වර්ග ආනයනය කිරීමට අපි බලාපොරොත්තු වෙනවා. මේ වසරේ සංචාරකයින් ප්‍රවාහන සඳහා යොදා ගන්නා බස් රථ ආනයනයට අප අවසර දී තිබෙනවා.
+
+
+1. **Economic Recovery and Stabilization**: Implementing programs that directly support the economy, such as providing financial relief to low-income households, investing in infrastructure, and promoting self-employment and entrepreneurship. This could involve measures like providing bank loans to self-employed individuals, especially those in the tourism sector, which is already showing signs of improvement.
+
+
+
+2. **Education and Skills Development**: Addressing the challenges in the education sector, including the recruitment of teachers and the provision of adequate resources for students. This could involve implementing programs to recruit scholars in the teaching profession and ensuring that educational institutions in remote areas have the necessary facilities and resources.
+
+
+
+3. **Health and Nutrition**: Ensuring that athletes and other individuals have access to proper nutrition and healthcare. This includes providing medical advice, necessary clothing, and increasing training places. The government's role in supporting the nutritional status of school players and athletes is crucial.
+
+
+
+4. **Digital Economy and Infrastructure**: Moving towards a digital economy and improving infrastructure, especially in rural areas. This involves leveraging modern technology to enhance the development of the country and ensuring that the benefits of digital transformation are accessible to all.
+
+
+
+5. **Addressing Corruption and Economic Mismanagement**: Taking steps to eliminate corruption and address past economic mismanagement. This includes implementing laws to prevent future instances of cheating and establishing an independent commission to investigate and prosecute those involved in corruption.
+
+
+
+6. **Promoting Industries and Entrepreneurship**: Supporting industries like film art and tourism, which have the potential to contribute significantly to the economy. This involves providing incentives and protecting these industries from external threats.
+
+
+
+7. **Addressing Tax and Price Issues**: Addressing the concerns related to high taxes on essential items like sanitary towels and the devaluation of the rupee. This requires a careful balance between revenue generation and ensuring affordability for essential goods and services.
+
+
+
+In conclusion, addressing the economic and social challenges facing Sri Lanka requires a comprehensive and integrated approach that considers the interconnectedness of these issues. It's crucial to involve various stakeholders, including the private sector, in developing and implementing these strategies to ensure sustainable and inclusive growth.
+
+🟩
+
+President Ranil Wickremesinghe says that the vehicles are expected to import from next year.
+
+The President expressed these views: "United Youth Youth Unity, Youth Joining Young One of the Youth Our Future" participated in a friendly meeting.
+
+The questions and answers to the President Ranil Wickremesinghe were given the answers to the President.
+
+Do you focus on loosing the import of private vehicles this year?
+
+We hope to progress it from next year. I am aware of the problems that exist in the car market. But still our payment balance is not good. We have allowed all the car imports. If the import of motor vehicles, the country has the ability to back the country again. But from next year's step, we hope to import essential vehicles first. We have been allowed to import buses used for transportation this year.
+
+Meanwhile, President Ranil Wickremesinghe added that the political promises given to the acquisition had to be severely affected by the people of the country.
 
 ...
 
 [Data](articles/128a9803.json)
+
+[Extended Data](ext_articles/128a9803.ext.json)
 
 ---
 
@@ -139,6 +235,36 @@ An old boy of Royal College, he holds a Bachelor of Science degree in Physics fr
 [Data](articles/3fe6a713.json)
 
 [Extended Data](ext_articles/3fe6a713.ext.json)
+
+---
+
+### Do not touch the cat that falls into the chemical tank;Warning people in Japan
+
+*2024-03-13 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178621) · `ta`
+
+A cat fell into a chemical tank in Japan, exposing it to Hexavalent Chromium, a poisonous substance. People were warned to avoid pets, and the factory's response highlighted the need to prevent animals from entering chemical areas.
+
+🟩
+
+The cat has fallen into a tank containing poisonous chemicals in the western city of Japan.
+
+As a result, people there have been warned to stay away from pets.
+
+The cat is said to have fallen into the tank containing a chemical called Hexavalent Chromium, a high acidity of orange and brown.
+
+It has been warned that this chemical can cause disease, including cancer.
+
+The incident has revealed that an employee at a placing worker at Fukayama and Namura factory found the cat's footsteps.
+
+In this case, the people of Fukuyama have been advised to quit pets, including cats.. It is also reported that the cat may have died.
+
+We did not expect this incident. The factory administration said that the incident has made us realize the need to take steps to prevent small animals from entering them.
+
+◼️
+
+[Data](articles/4c8155f6.json)
+
+[Extended Data](ext_articles/4c8155f6.ext.json)
 
 ---
 
@@ -564,23 +690,31 @@ However, the Minister promised that if the price of egg producers failed to redu
 
 ---
 
-### හිටපු ජනාධිපති ගෝඨාභයගේ පොත ගැන සැකයක් පවතින බව මැදගොඩ අභයතිස්ස හිමියෝ පවසති
+### Medagoda Abhiatissa Thero says that there is a suspicion of the book of former President Gotabhaya
 
 *2024-03-13 15:54:06* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-ගෝඨාභයගේ-පොත-ගැන-සැකයක්-පවතින-බව-මැදගොඩ-අභයතිස්ස-හිමියෝ-පවසති/11-408590) · `si`
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා එතුමා තනතුරෙන් නෙරපු ආකාරය පිළිබඳ පොතක් ලියා තිබෙන බවත් එහෙත් එම පොත ලියා ඇත්තේ ඔහු පැන්නු සැබෑ කුමන්ත්‍රණකරුවන් හඳුනාගෙන ද යන්න පිළිබඳව සැකයක් පවතින බව
+Medagoda Abhiatissa Thero suspects a conspiracy in the book about former President Gotabhaya Rajapaksa, accusing him of revealing secrets. The Thero criticizes the government's disregard for the people's will and the economy, pointing out that the current administration fails to utilize the country's resources effectively.
 
-මහාචාර්ය පූජ්‍ය මැදගොඩ අභයතිස්ස හිමියෝ පවසති. මහාචාර්ය පූජ්‍ය මැදගොඩ අභයතිස්ස හිමියන්  මහනුවරදී මාධ්‍ය හමුවේ අදහස් දක්වමින් වැඩිදුරටත් අවධාරණය කර සිටියේ එම කුමන්ත්‍රණය සඳහා පසුබිම සකස් කර ගනු ලැබුයේ ඔවුන් විසින්ම බවයි .
+🟩
 
-මහජනතාවගේ හඬට කන් නොදීම කුමන්ත්‍රණයට හේතුවක් වූ බවත් එහි සැබෑ කුමන්ත්‍රණකරුවන් අදටත් ඔවුන්ගේ ඔඩොක්කුවේ සිටින ඔවුන්ගේම පවුලේ අය බවත් පොත් ලිවීමට පෙර එය නිසියාකාරව වටහාගත යුතු බවද අභයතිස්ස හිමියෝ පැවසීය .
+The book is written about how former President Gotabhaya Rajapaksa was revealed by he was expelled by him.
 
-එම ජනවරම ගෝඨාභය රාජපක්ෂ මහතාට ලබා දෙනු ලැබූයේ රනිල් එළවීමට බවත් එසේ ලබාදුන් ජනවරම ජනතා අපේක්ෂාවන්ට විරුද්ධව පාවිච්චි කරනවා නම් ඒ අය රටේ ජනතාවට වගකිව යුතුව තිබෙන බවද උන්වහන්සේ පැවසීය .
+Professor Ven. Medagoda Abhiatissa Thero says. Professor Ven. Medagoda Abhiatissa Thero has said that the background was made to the conspiracy in Kandy.
 
-අපට රට වැදගත්වුවද දේශපාලකයන්ට රට වැදගත් නොවන බවත් ඔවුන් බලයට පත් වූ දා සිට තමන්ට බලයට ඒමට උදව් කළ මැති ඇමතිවරුන්ට හිතවතුන්ට වරප්‍රසාද වරදාන ලබාදෙමින් ඊළඟ මැතිවරණයට ඔවුන්ගේ සහය ලබා ගැනීම
+Abhayatista Thero said that the not listening to the voice of the people was a conspiracy and its own family in their lap and understood books.
+
+The Thera said that if Ranil was given to the arrangement of Ranil and refuses to the presence of the people's prospects, he said.
+
+The country is important to us, but since they were not important to politicians, they support the ministers who have been able to force them from the day.
+
+He said that the situation in the country would worsen the situation ahead and is now being allowed to swallow part of the country, but it is not allowed to swallow the rest of the country, but it cannot be allowed.
 
 ...
 
 [Data](articles/3155d190.json)
+
+[Extended Data](ext_articles/3155d190.ext.json)
 
 ---
 
@@ -2323,75 +2457,5 @@ The injured have been admitted to the Jaffna Teaching Hospital for treatment, an
 [Data](articles/b3ba714a.json)
 
 [Extended Data](ext_articles/b3ba714a.ext.json)
-
----
-
-### Sri Lanka rupee opens at 306.30/50 to the US dollar
-
-*2024-03-13 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-306-30-50-to-the-us-dollar-154459/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 306.30/50 to the US dollar in the spot forex market on Wednesday, stronger from 306.50/60 on Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 11.30/35 percent from 11.35/40 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.17/23 percent from 12.15/25 percent.
-
-The Colombo Stock Exchange opened up: The All Share Price Index was up 0.27 percent at 11,025, and the S&P SL20 was up 0.25 percent at 3,189. (Colombo/Mar13/2024)
-
-◼️
-
-[Data](articles/7768e835.json)
-
-[Extended Data](ext_articles/7768e835.ext.json)
-
----
-
-### Japanese private company rocket exploded
-
-*2024-03-13 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178588) · `ta`
-
-Kairos' rocket exploded during a test launch in Wagayama, Japan.
-
-🟩
-
-The Rocket of Kairos, a company -based Space hard drive, was launched this morning from the company's home launch in the Wagayama region.
-
-The 18 -meter -long rocket was mounted by a small test of the Japanese state.
-
-◼️
-
-[Data](articles/3ad6582c.json)
-
-[Extended Data](ext_articles/3ad6582c.ext.json)
-
----
-
-### Explanation for two estate managers in Nuwara Eliya!
-
-*2024-03-13 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178586) · `ta`
-
-Two estate managers in Nuwara Eliya were arrested for a dispute over medicine for garden tea lands, leading to a physical altercation. The Nuwara Eliya District Magistrate's Court ordered their remand for seven days.
-
-🟩
-
-The Nuwara Eliya District Magistrate's Court has ordered the remanded of two estate manager arrested by the Nuwara Eliya Police in connection with the attack on the Bambarakalai estate in the Nuwara Eliya Lapukkalai estate.
-
-The order was issued on Tuesday evening on Tuesday evening.
-
-A field officer and a plantation manager at the Nuwara Eliya Bambarakalai Estate have ended in a professional argument on the 28th of last month.
-
-The plantation manager has spoken to the field officer inappropriately due to the rest of the medicine provided to the garden tea lands in the incident.
-
-The son of the field officer who questioned this and spoke to the estate manager not to speak to the scene and not speak to his father with an inappropriate word.
-
-On this occasion, two estate managers have used the word "Umbakaudada" and have been attacked.
-
-As a result, the angry field officer and his son attacked the plantation managers.
-
-...
-
-[Data](articles/8dd5c7e5.json)
-
-[Extended Data](ext_articles/8dd5c7e5.ext.json)
 
 ---

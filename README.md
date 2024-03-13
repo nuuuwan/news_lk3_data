@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 17:03:12**
+As of **2024-03-13 17:18:03**
 
 ## Newspaper Stats
 
-*Scraped **12,660** Articles*
+*Scraped **12,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,90 @@ economynextcom | 669
 islandlk | 686
 adalk | 1,082
 adaderanalk | 1,527
-tamilmirrorlk | 1,544
+tamilmirrorlk | 1,545
 virakesarilk | 1,763
 dailymirrorlk | 1,929
-adaderanasinhalalk | 1,996
+adaderanasinhalalk | 1,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,659 (100.0%) of 12,660 articles have been extended.
+12,660 (100.0%) of 12,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### දැරියක් අපයෝජනය කළ පුද්ගලයෙකුට දුන් දඬුවම
+### வெடுக்குநாறிமலையில் கைதானோர்  உண்ணாவிரதம்
+
+*2024-03-13 17:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறிமலையில்-கைதானோர்-உண்ணாவிரதம்/72-334617) · `ta`
+
+வெடுக்குநாறிமலையில் சிவராத்திரி வழிபாடுகளில் ஈடுபட்டபோது கைதுசெய்யப்பட்டு சிறையில் அடைக்கப்பட்டவர்கள் உண்ணாவிரத போராட்டத்தில் குதித்துள்ளனர்.
+
+வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று  கைதுசெய்யப்பட்ட ஆலயபூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று செவ்வாய்க்கிழமை (12) உத்தரவு பிறப்பித்துள்ளது.
+
+இதனையடுத்து அவர்கள் வவுனியா விளக்கமறியல் சிறைச்சாலையில் செவ்வாய்க்கிழமை (12) மாலை அடைக்கப்பட்டனர்.இந்நிலையில் தங்களை விடுதலைசெய்யகோரி அவர்கள் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+
+குறிப்பாக நீதிமன்றிற்கு கொண்டுசெல்லப்படும் போதே அவர்கள் உணவினை எடுத்திருக்கவில்லை. இந்நிலையில் புதன்கிழமையும் உணவினை உட்கொள்வதற்கு மறுத்துள்ளனர்.
+
+கைதுசெய்யப்பட்ட எட்டுபேரில் ஆலயபூசாரியார் த.மதிமுகராசா, து.தமிழ்ச்செல்வன், தி.கிந்துயன்,சு.தவபாலசிங்கம், விநாயகமூர்த்தி ஆகியோரே உண்ணாவிரத போராட்டத்தினை முன்னெடுத்துள்ளனர்
+
+◼️
+
+[Data](articles/b70ecbb7.json)
+
+---
+
+### ඊශ්‍රායල් නායකයා තවත් ඉලක්කයක් පෙන්වයි
+
+*2024-03-13 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194466) · `si`
+
+ජාත්‍යන්තරයෙන් කෙතරම් පීඩනයක් එල්ලවුවත් දකුණු ගාසා තීරයේ පලස්තීනුවන්ගේ අවසන් රැකවරණ ස්ථානය වන රෆා නගරයේ හමුදා මෙහෙයුම කෙසේ හෝ ක්‍රියාත්මක කළ යුතු බව ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු ප්‍රකාශ කරයි.
+
+ගාසා තීරයේ උතුරු සහ මධ්‍යම ප්‍රදේශවල ඊශ්‍රායල හමුදා මෙහෙයුම් ක්‍රියාත්මක වෙද්දී පළා ආ ජනතාව ඇතුළු පලස්තීනුවන් මිලියන 1.5ක් පමණ මේ වනවිට රෆා ප්‍රදේශයේ රැඳී සිටී.
+
+නෙතන්යාහු රෆා මෙහෙයුම ගැන කතා කරමින් සඳහන් කර ඇත්තේ සිවිල් වැසියන් හානියකින් තොරව ඉවත් කරගැනීමෙන් පසුව රෆා මෙහෙයුම සිදුකර මෙහෙයුම් අවසන් කළ හැකි බවය.
+
+ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු මේ ප්‍රකාශය සිදුකළේ අමෙරිකාවේ වොෂින්ටන් නුවර පැවති ඊශ්‍රායලයට සහාය පළ කරන AIPAC සංවිධානයේ සම්මේලනයට වීඩියෝ තාක්ෂණය ඔස්සේ සම්බන්ධ වෙමිනි.
+
+මෙම සංවිධානය ජනාධිපති ජෝ බයිඩන් මැතිවරණ ව්‍යාපාරයට ඩොලර් මිලියන ගණනක දායකත්වයක් දක්වා තිබේ.
+
+◼️
+
+[Data](articles/3ce507a5.json)
+
+---
+
+### The punishment given to a girl who was abused
 
 *2024-03-13 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194464) · `si`
 
-බාලයවයස්කාර දැරියක් අපයෝජනය කිරීමේ චෝදනාවකට වරදකරු වූ පුද්ගලයෙකුට නුවරඑළිය මහාධිකරණය වසර 10ක බරපතළ සිරදඬුවම් නියම කර තිබේ.
+A Nuwara Eliya High Court sentenced a man to serious imprisonment for abusing a girl. The court ordered compensation of Rs. 5 lakhs, with an additional three years in prison if not paid. The accused also received a three-month sentence and a fine of Rs. 15,000.
 
-මෙලෙස සිර දඬුවම් නියම කර ඇත්තේ 52 හවිරිදී වියේ පසුවන නානුඔය ප්‍රදේශයේ පදිංචිකරුවෙකුටය.
+🟩
 
-සැකකරු අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් පසුව නුවරඑළිය මහාධිකරණ විනිසුරු විරාජ් වීරසූරිය මහතා මෙම නියෝගය ලබාදී තිබුණි.
+The Nuwara Eliya High Court has been sentenced to a serious imprisonment for a person who was convicted of abuse of a girl's girl.
 
-සැකකරු විසින් අතවර කළ බවට එම දැරියගේ මව්පියන් විසින් 2011 වර්ෂයේ දී නානුඔය පොලීසිය වෙත පැමිණිලි කර තිබුණි.
+The prison was sentenced to a resident of Nanu Oya area.
 
-සිය නියෝගය ලබාදෙමින් විනිසුරුවරයා සැකකරුට නියෝග කළේ වින්දිත එවකට පාසල් දැරියට රුපියල් ලක්ෂ 5ක වන්දි මුදලක් ගෙවන ලෙසටය.
+Nuwara Eliya High Court Judge Viraj Weerasuriya had issued the order after the suspect was produced before courts.
 
-එම මුදල නොගෙවන්නේ නම් සැකකරුට වසර 3ක අමතර සිර දඬුවමක් ද නියම කළේය.
+The parents' parents had lodged a complaint with the Nanu Oya Police in the year 2011 to abuse the suspect.
 
-එසේම අධිකරණය වෙත රුපියල් 15,000ක දඩයක් ගෙවන ලෙසට නියෝග කළ අධිකරණය එය නොගෙවන්නේ නම් අමතරව මාස 03ක සිර දඬුවමක් ද චූදිතයාට නියම කළේය.
+The judge was delivered to the suspect, leaving the suspect, to pay a compensation of Rs. 5 lakhs.
 
-වසර 13 තිස්සේ විභාග වෙමින් තිබූ නඩුවේ විත්තිකරුට එරෙහිව ලැබී තිබූ සාක්ෂි සලකා බලා අධිකරණය මෙම නියෝගය ලබාදුන්නේය.
+The suspect was sentenced to three years additional prison if he does not pay the money.
+
+The accused was also sentenced to a three-month sentence in addition to the Court of Justice to pay a fine of Rs. 15,000.
+
+The court granted the court to consider the evidence against the defendant who had been entrusted with the 13 year.
 
 ◼️
 
 [Data](articles/91df4bbf.json)
+
+[Extended Data](ext_articles/91df4bbf.ext.json)
 
 ---
 
@@ -2317,51 +2363,5 @@ He said that the same school is scheduled to be implemented without national sch
 [Data](articles/25013292.json)
 
 [Extended Data](ext_articles/25013292.ext.json)
-
----
-
-### Investigations after report from Tirukkovil education zone
-
-*2024-03-13 08:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Investigations-after-report-from-Tirukkovil-education-zone/108-278735) · `en`
-
-Colombo, March 13 (Daily Mirror) - The Education Ministry is to launch an investigation after receiving the report from the Tirukkovil Education Zone regarding the death of the 16-year-old schoolboy in Ampara after collapsing while participating in a marathon race.
-
-The marathon race was held at the Tirukkovil Methodist Central College on Monday morning as part of the inter-house sports meet at the school premises.
-
-The student was admitted to the Tirukkovil Hospital and later transferred to the Akkaraipattu Hospital for further treatment, where he was pronounced dead.
-
-Following the incident, a tense situation was reported after a group of school students and residents protested by blocking the road in front of the hospital, alleging that the sick student was not treated.
-
-Later, the Police and the Special Task Force (STF) were deployed to diffuse the situation after it turned violent, with some protestors pelting stones at the hospital.
-
-...
-
-[Data](articles/0903a2b6.json)
-
-[Extended Data](ext_articles/0903a2b6.ext.json)
-
----
-
-### Sri Lanka income taxes lost due to BoI concessions Rs23.94bn in 2022
-
-*2024-03-13 08:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-income-taxes-lost-due-to-boi-concessions-rs23-94bn-in-2022-154432/) · `en`
-
-ECONOMYNEXT – Sri Lanka has lost 23.94 billion in corporate taxes in 2022 from concessions given to Board of Investment approved companies compared to higher corporate tax rates approved by parliament under an International Monetary Fund program.
-
-According to the tax expenditure statement the taxable income was 168 billion rupees, with 77 billion in manufacturing, 50 billion rupees in apparel, 22.7 billion in the power sector.
-
-Tax expenditure in manufacturing was 8,551 million rupees. Whether the firms are export or domestic oriented is not known.
-
-Apparel was 5,264 million rupees, knowledge services was 2,071 million rupees.
-
-The ‘tax expenditure’ is based on a 24 percent rate for the first nine months of 2022/2023 financial year and 30 percent for the balance.
-
-Ironically, a 20 percent tax rate, which is standard tax in East Asian nations with monetary stability and low government debt, is listed as a ‘concession’ in Sri Lanka.
-
-...
-
-[Data](articles/05305ca7.json)
-
-[Extended Data](ext_articles/05305ca7.ext.json)
 
 ---

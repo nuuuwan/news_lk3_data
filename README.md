@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 09:17:52**
+As of **2024-03-13 09:33:38**
 
 ## Newspaper Stats
 
-*Scraped **12,558** Articles*
+*Scraped **12,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 650
 economynextcom | 666
 islandlk | 685
 adalk | 1,072
-adaderanalk | 1,512
+adaderanalk | 1,513
 tamilmirrorlk | 1,526
-virakesarilk | 1,744
+virakesarilk | 1,745
 dailymirrorlk | 1,912
 adaderanasinhalalk | 1,979
 
@@ -26,23 +26,63 @@ adaderanasinhalalk | 1,979
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,557 (100.0%) of 12,558 articles have been extended.
+12,558 (100.0%) of 12,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### மனித உரிமைகள், நல்லிணக்கத்தில் அடையப்பட்ட முன்னேற்றத்தை சவாலுக்கு உட்படுத்தும் சட்ட உருவாக்கத்தை தொடர்ந்து கண்காணிப்போம் - அமெரிக்கத்தூதுவர் ஜுலி சங்
+### பல்கலைக்கழக கல்வி சாரா ஊழியர்கள்  பணிப்பகிஷ்கரிப்பு
+
+*2024-03-13 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178584) · `ta`
+
+பல்கலைக்கழக கல்வி சாரா ஊழியர்களினால் ஆரம்பிக்கப்பட்டுள்ள பணிப்பகிஷ்கரிப்பு தொடர்ந்து இரண்டாவது நாளாகத் தொடர்கிறது.  அதன்படி, இன்று புதன்கிழமை (13) மாலை 4.30 மணி வரை பணிப் பகிஷ்கரிப்பு தொடரவுள்ளது.
+
+அனைத்து பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் ஜனவரி 22 கூட்டத்தில் உறுதியளித்தபடி தங்களது சம்பளக் குறைப்பை அதிகாரிகள் சரி செய்யத் தவறியதற்கு எதிர்ப்புத் தெரிவித்து, நேற்று செவ்வாய்க்கிழமை (12) நண்பகல்  அடையாள பணிப் பகிஷ்கரிப்பில்  ஈடுப்பட்டனர்.
+
+அதிகாரிகள் எமக்கு தீர்வை வழங்காவிட்டால், அடுத்த வாரம் முதல் காலவரையற்ற பணிப் பகிஷ்கரிப்பில் ஈடுபடுவோம் என பல்கலைக்கழகங்களுக்கு இடையிலான தொழிற்சங்க சம்மேளனத்தின் இணைச் செயலாளர் கே.எல்.டி.ஜி.ரிச்மண்ட் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c02d71e2.json)
+
+---
+
+### IMF delegation reviews progress of CEB, CPC operations
+
+*2024-03-13 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/97912/imf-delegation-reviews-progress-of-ceb-cpc-operations) · `en`
+
+The visiting delegates of the International Monetary Fund (IMF) held a discussion on Tuesday (March 11) at the Ministry of Power and Energy to review the progress of Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC) operations and commitments.
+
+The delegation led by Peter Breuer, IMF Senior Mission Chief for Sri Lanka, has reportedly looked into the tariff reduction in the electricity sector, CEB and CPC balance sheets of 2023, current financial positions of the state-owned electricity supplier, Minister Kanchana Wijesekera said in a post on his X handle (formerly Twitter).
+
+Additionally, accounting principles and standards adopted, Bulk Supply Transaction Account (BSTA) filling automation, dispatch audit to be conducted, outstanding payments, forecast for 2024, CPC pricing formula and CPC operations were briefed and discussed.
+
+...
+
+[Data](articles/1f66ce76.json)
+
+---
+
+### We will continue to monitor the law that challenges the improvement in human rights and reconciliation - US Ambassador Julie Sung
 
 *2024-03-13 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/178583) · `ta`
 
-சிவில் இடைவெளியையும், மனித உரிமைகள் மற்றும் நல்லிணக்கம் ஆகியவற்றில் அடையப்பட்டுள்ள முன்னேற்றங்களையும் சவாலுக்கு உட்படுத்தக்கூடியவகையில் இலங்கையில் இடம்பெற்றுவரும் சட்டவியல் உருவாக்கங்களைத் தாம் தொடர்ந்து கண்காணிப்பதாக இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங் தெரிவித்துள்ளார்.
+US Ambassador Julie Sung monitors Sri Lanka's legal developments to challenge civil rights and reconciliation progress. The UNHRC's 55th session discussed Sri Lanka's human rights and accountability, with several countries expressing concern. The Sri Lankan government has been urged to involve affected communities in creating a truth, solidarity, and reconciliation commission. Sung emphasizes continued monitoring and warns against potential misuse of the 'Celebration Bill'.
 
-ஜெனிவாவில் நடைபெற்றுவரும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 55 ஆவது கூட்டத்தொடரில் கடந்த வாரம் இலங்கையின் மனித உரிமைகள் மற்றும் பொறுப்புக்கூறல் நிலைவரம் குறித்து ஆராயப்பட்டது. இதன்போது இலங்கை பற்றிய ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகரின் வாய்மொழிமூல அறிக்கையைத் தொடர்ந்து பிரிட்டன், கனடா, வடமெசிடோனியா, மாலாவி, மொன்டெனேக்ரோ மற்றும் அமெரிக்கா ஆகிய இணையனுசரணை நாடுகளால் இலங்கை நிலைவரம் குறித்த அறிக்கை வாசிக்கப்பட்டது.
+🟩
+
+US Ambassador to Sri Lanka Juli Sung said that he continues to monitor the legal formation of Sri Lanka in order to challenge the progress of civil gap and human rights and reconciliation.
+
+The 55th session of the United Nations Human Rights Council (UNHRC) in Geneva was examined last week on Sri Lanka's human rights and accountability situation. Following the verbal report of the UN Human Rights Council on Sri Lanka, the Sri Lankan state of Sri Lanka was read by the British, Canada, Vadmeceidonia, Malavi, Montenecro and the United States.
+
+The fact that the government of Sri Lanka urged the government to follow a procedure that should be constructed by the affected communities before the creation of a law on the truth, solidarity and reconciliation commission.
 
 ...
 
 [Data](articles/39cb1d87.json)
+
+[Extended Data](ext_articles/39cb1d87.ext.json)
 
 ---
 
@@ -2167,51 +2207,5 @@ He told a news conference of the NPP Economic Council that the IMF team has soug
 [Data](articles/22505144.json)
 
 [Extended Data](ext_articles/22505144.ext.json)
-
----
-
-### A kilo of milk powder costs at a cost of Rs. Lacks by 150
-
-*2024-03-12 18:13:11* · [`adalk`](https://www.ada.lk/breaking_news/සිකුරාදා-වන-විට-කිරිපිටි-කිලෝවක්-රු--150කින්-අඩුවෙයි/11-408572) · `si`
-
-The Minister announced a Rs. 150 reduction in the price of a kilogram of milk powder for the Ramazan and Sinhala-Tamil New Year festivals, during a media briefing.
-
-🟩
-
-A kilogram of milk powder will be reduced by Rs.
-
-The Minister said that this was taken for the Ramazan Festival and the Sinhala and Tamil New Year festival season.
-
-He was speaking to a media briefing held at a kilogram of milk powder to reduce the price of milk powder.
-
-◼️
-
-[Data](articles/2a9d9551.json)
-
-[Extended Data](ext_articles/2a9d9551.ext.json)
-
----
-
-### Children can suffer from various diseases due to severe heat!- Doctor Sunna de Silva
-
-*2024-03-12 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178557) · `ta`
-
-Dr. Sanna de Silva warns that extreme heat can cause diseases in children, leading to heat shock, stroke, or death. She advises limiting outdoor activities to before 11 am to mitigate risks.
-
-🟩
-
-Dr. Sanna de Silva, an expert, says children can suffer from various diseases due to the prevailing heat.
-
-The expert pointed out that if the situation increases, it can lead to heat shock, heat stroke or unfortunately death.
-
-Therefore, if the children are used for outgoing activities, they should complete their action before 11 am.
-
-Various sports events are held in schools. So, the children are more outdoors.In this case, the heat of the environment can increase them, he said.
-
-◼️
-
-[Data](articles/071bbec9.json)
-
-[Extended Data](ext_articles/071bbec9.ext.json)
 
 ---

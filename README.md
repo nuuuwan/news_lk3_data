@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 14:33:15**
+As of **2024-03-13 14:50:36**
 
 ## Newspaper Stats
 
-*Scraped **12,630** Articles*
+*Scraped **12,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ islandlk | 686
 adalk | 1,079
 adaderanalk | 1,524
 tamilmirrorlk | 1,540
-virakesarilk | 1,758
-dailymirrorlk | 1,922
-adaderanasinhalalk | 1,988
+virakesarilk | 1,759
+dailymirrorlk | 1,923
+adaderanasinhalalk | 1,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,627 (100.0%) of 12,630 articles have been extended.
+12,630 (100.0%) of 12,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### මහා හඬ පෞර්ෂය සදහටම නිහඬ වෙයි
+
+*2024-03-13 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194459) · `si`
+
+ප්‍රවීණ නිවේදක සහ ජ්‍යේෂ්ඨ මාධ්‍යවේදී අශෝක තිලකරත්න මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+ඒ මහතා අසනීප තත්ත්වයක් හේතුවෙන් කළුබෝවිල රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මෙලෙස අභාවප්‍රාප්ත වී ඇත.
+
+ඒ මහතා මෙරට ගුවන්විදුලියේ ස්වර්ණමය යුගයේ පෙරගමන්කරු ලෙස සැළකෙන රිජ්වේ තිලකරත්න මහතාගේ එකම සොහොයුරාය.
+
+◼️
+
+[Data](articles/5968ff2f.json)
+
+---
+
+### 8 වන ශ්‍රේණියට අලුත් වෙනසක්
+
+*2024-03-13 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194458) · `si`
+
+පාසල්වල 8 වැනි ශ්‍රේණියෙන් ඉහළ ශ්‍රේණි සඳහා වු තොරතුරු තාක්ෂණ විෂය මාලාව සංශෝධනය කිරීමට පියවර ගෙන තිබේ.
+
+ඒ අනුව තොරතුරු තාක්ෂණ විෂය ධාරාව සමග කෘතිම බුද්ධිය විෂය ධාරාව හඳුන්වාදෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා සඳහන් කළේය.
+
+එහි නියමු ව්‍යාපෘතිය එළැඹෙන මාර්තු 19 වන දා පාසල් 17ක් සම්බන්ධ කරගනිමින් ආරම්භ කිරීමට නියමිතව තිබේ.
+
+මේ සඳහා අධ්‍යාපන අමාත්‍යාංශය සමග මයික්‍රෝසොෆ්ට් ආයතනය එක්ව සිටින අතර ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව විෂය දැනුම මෙරට දරුවන්ට ලබාදීමට ඒ අනුව හැකිවන බව අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේය.
+
+ගල්කිස්ස උසස් බාලිකා විද්‍යාලයට සිය වසක් සම්පූර්ණ වීම නිමිත්තෙන් එහි පැවති සමරු උත්සවයට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළ කර තිබේ.
+
+◼️
+
+[Data](articles/a5800000.json)
+
+---
+
+### Space One rocket explodes soon after launch in Japan
+
+*2024-03-13 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Space-One-rocket-explodes-soon-after-launch-in-Japan/108-278777) · `en`
+
+March 13 (Guardian) - A rocket made by a Japanese company has exploded seconds after it was launched with the goal of putting a satellite into orbit.
+
+Tokyo-based Space One’s 18-metre Kairos rocket blasted off from the company’s launch pad in the Wakayama region of western Japan, carrying a small government test satellite, on Wednesday.
+
+Seconds later the solid-fuelled rocket exploded in flames, sending smoke billowing into the remote mountainous area, live footage showed. “The launch of the first Kairos rocket was executed, but we took a measure to abort the flight,” Space One said in a statement, adding that “details are being investigated”.
+
+The Smart Lander for Investigating Moon, better known as Slim, on the lunar surface.
+
+Japan’s moon lander survives two-week lunar night after wonky landing
+
+...
+
+[Data](articles/310d6837.json)
+
+---
+
+### யாழில் இளம் குடும்பஸ்தரின் கொலைக்கு பயன்படுத்திய கார் அராலியில் மீட்பு!
+
+*2024-03-13 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178622) · `ta`
+
+யாழ்ப்பாணம் பொன்னாலை கடற்படை முகாமுக்கு அருகில் இருந்து திங்கட்கிழமை 23 வயதுடைய தவச்செல்வம் பவித்திரன் என்ற குடும்பஸ்தர் கடத்தப்பட்டு வெட்டி படுகொலை செய்யப்பட்டுள்ளார்.
+
+இந்நிலையில் கொலை குற்றச்சாட்டின் கீழ் ஐந்து சந்தேகநபர்கள் செவ்வாய்க்கிழமை (12), யாழ்ப்பாண குற்றத்தடுப்பு பொலிஸாரால் கிளிநொச்சியில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+
+இந்நிலையில், அவர்கள் கொலை செய்வதற்கு பயன்படுத்திய கார் அராலி மேற்கு நொச்சிக்காட்டு பிள்ளையார் கோவிலுக்கு அருகாமையில் உள்ள வீடு ஒன்றில் இருந்து, யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பொலிஸாரால் மீட்கப்பட்டுள்ளது. அவ்விடத்திற்கு விரைந்த தடயவியல் பொலிஸாரும் தடயங்களை சேகரித்து வருகின்றனர்.
+
+குறித்த குடும்பஸ்தர் மீது, காரில் வைத்தே தாக்குதல் நடாத்தப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுகிறது. பாவனையற்ற வீடு ஒன்றிற்கு முன்னால் இருந்து இந்த கார் மீட்கப்பட்டுள்ளது. குறித்த காரானது நீண்ட காலம் பாவனை இல்லாமல் இருந்தது போல் தூசிபடிந்தவாறு காணப்படுவதுடன், காரின் உள்ளே இரத்தக்கறையும், கொட்டன்களும் காணப்படுகிறது.
+
+◼️
+
+[Data](articles/3a6aee99.json)
+
+---
 
 ### Suspect arrested with haul of various drugs including heroin
 
@@ -43,6 +117,24 @@ Reportedly, 1.5kg of heroin, 7kg of Kerala cannabis, 1kg of ingredients used in 
 ◼️
 
 [Data](articles/318ecf56.json)
+
+[Extended Data](ext_articles/318ecf56.ext.json)
+
+---
+
+### මෝදර දී කොටුවූ ජාවාරම්කරු
+
+*2024-03-13 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194457) · `si`
+
+විවිධ වර්ගයේ මත්ද්‍රව්‍ය සමග පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන ඇති බව මෝදර පොලීසිය පවසයි.
+
+පොලීසිය පවසන්නේ එහිදී ඔහු සන්තකයේ තිබී හෙරොයින් කිලෝග්‍රෑම් 1.5ක් සහ කේරළ ගංජා කිලෝ 7ක් සොයාගෙන ඇත.
+
+මේ අතර එහිදී මත්කරල් නිෂ්පාදනයට යොදාගන්නා බවට සැකකරන ද්‍රව්‍ය සහ ඒවා සැකසීමට යොදාගත් බවට සැකකෙරෙන යන්ත්‍රයක් ද පොලීසිය සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/72444321.json)
 
 ---
 
@@ -83,6 +175,8 @@ stating that the appointment of Deshabandu Tennakoon as IGP is illegal, arbitrar
 ◼️
 
 [Data](articles/c9043848.json)
+
+[Extended Data](ext_articles/c9043848.ext.json)
 
 ---
 
@@ -426,7 +520,7 @@ According to information received by the Yakkala Police Station in connection wi
 
 *2024-03-13 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97919/elderly-sri-lankan-couple-found-dead-near-their-melbourne-home) · `en`
 
-An elderly couple who died together outside their home may have been overcome by Melbourne’s blistering heatwave.
+An elderly Sri Lankan couple who died together outside their home may have been overcome by Melbourne’s blistering heatwave, Australian media reported.
 
 The bodies of Doyne Caspersz and his wife Marlene were found outside their home on Antigoni Court, Warrandyte about 9.30am on Tuesday.
 
@@ -1858,6 +1952,8 @@ The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-
 
 [Data](articles/ef5c5b47.json)
 
+[Extended Data](ext_articles/ef5c5b47.ext.json)
+
 ---
 
 ### Petition to Supreme Court from Dianya
@@ -2175,111 +2271,5 @@ The Cabinet of Ministers approved the proposal submitted by the Urban Developmen
 [Data](articles/e9f04871.json)
 
 [Extended Data](ext_articles/e9f04871.ext.json)
-
----
-
-### To compensate for the challenges
-
-*2024-03-13 02:42:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களுக்கு-ஈடுகொடுக்க-வேண்டும்/175-334588) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of education in creating citizens and leaders at the 150th anniversary of Wesley College, highlighting the need for change in the education system to serve all, not just government or private schools.
-
-🟩
-
-President Ranil Wickremesinghe has said that the descendants of this country should be created and strengthening the descendants of their policies on all occasions without fleeing the deaths.
-
-President Ranil Wickremesinghe made this statement at the 150th anniversary of Wesley College held at the Sangari La Hotel, Colombo yesterday.. He further stated that
-
-Wesley College has served a huge service in the process of creating citizens who built the nation. Wesley college created citizens and leaders. They designed the land.
-
-There were many categories, such as state schools, private and help -run schools during his education. Unfortunately you are trapped within two categories: government schools and private schools. So we are investigating the change that needs to be made in education. (A)
-
-◼️
-
-[Data](articles/a48d1977.json)
-
-[Extended Data](ext_articles/a48d1977.ext.json)
-
----
-
-### Mohan Priyadarshana de Silva
-
-*2024-03-13 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178575) · `ta`
-
-Mohan Priyadarshana de Silva, Minister of Agriculture, announced programs to boost economy, allocating Rs. 232. He highlighted the agricultural sector's growth, despite facing crises, and the importance of increasing harvest yields. The country's annual rice demand is 2.4 million metric tonnes, with current yields expected to reach 3.6 metric tonnes. Drought predictions prompt caution in water use. New rice varieties and crops like chilli, ventika, pomegranate, and wheat are being introduced to strengthen the economy.
-
-🟩
-
-Minister of Agriculture Mohan Priyadarshana de Silva said that the Ministry of Agriculture is implementing various programs to strengthen the country's economy and has decided to provide Rs.
-
-The Minister of State for Agricultural Development has allocated 232 rupees.
-
-He said this at a media briefing held at the Presidential Media Center on Tuesday (12).
-
-“The country we are currently facing the biggest economic crisis. In the past, the agricultural sector was facing various crises. The situation has changed.The Ministry of Agriculture has also launched a number of programs to strengthen the country's economy.So the economy and agriculture of the country have grown more than ever before.
-
-...
-
-[Data](articles/9c501322.json)
-
-[Extended Data](ext_articles/9c501322.ext.json)
-
----
-
-### Nandalal Weerasinghe’s Wages Of Sin
-
-*2024-03-13 02:37:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nandalal-weerasinghes-wages-of-sin/) · `en`
-
-It is difficult to find another instance in the history of central banking where the Head of that bank with conscienceless audacity abusing the constitutional independence of that institution to raise unilaterally the wages of his staff to such a height, between 36 and 79 percent, and made them an un-imitable elite of officers to be envied by the rest of the community of public servants. This is one of many and multiplying horror stories one hears almost daily from paradise Sri Lanka. At a time when millions of hard-working heads of ordinary families and parents are found skipping meals or eating smaller portions to feed their children, when 30 percent of five-year old children are found malnourished, and when the danger of starvation is knocking at the doors of the poorest, the unconscionable act of munificence by the big chief Dr. Nandalal Weerasinghe (NW) fits into the proverbial robbery of Peter to pay Paul. The Centra Bank’s notoriety continues unabated.
-
-...
-
-[Data](articles/c68ba1ac.json)
-
-[Extended Data](ext_articles/c68ba1ac.ext.json)
-
----
-
-### Canada Visa - Tellippala
-
-*2024-03-13 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178574) · `ta`
-
-Dhanapalasubramaniam Sujeevan, 32, from Tellippalai, Canada, fell into a well and died on Monday. He had a tourist visa for Canada but chose to end his life. His body was found, examined, and handed over to relatives on Tuesday.
-
-🟩
-
-A person who cannot afford to walk and falls into a well on Monday (11). The deceased is Dhanapalasubramaniam Sujeevan (age 32) from Akkuduwana, Kollangalatti and Tellippalai.
-
-The sister of the person lives in Canada. In this case, the deceased person and his mother have received a tourist visa for Canada. But the person has no choice but to go to Canada.
-
-In this case, he parked his wheelchair near the well and jumped into the well and committed suicide. His body was recovered and taken to the Tellipallai Hospital and then taken to the Jaffna Teaching Hospital.
-
-A sudden death investigation officer A. Jayapalasingham. The body was handed over to relatives on Tuesday (12) after anatomical examination.
-
-◼️
-
-[Data](articles/6f69b122.json)
-
-[Extended Data](ext_articles/6f69b122.ext.json)
-
----
-
-### New Ambassador, High Commissioner
-
-*2024-03-13 02:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்-உயர்ஸ்தானிகர்-நியமனம்/175-334587) · `ta`
-
-New Ambassador and High Commissioner to Sri Lanka, Bytoon Mahabannaborn and Major General Faheem UL Aziz, presented credentials to President Ranil Wickremesinghe at the Colombo Fort.
-
-🟩
-
-A newest ambassador to Sri Lanka and the High Commissioner handed over the credentials to President Ranil Wickremesinghe at the Presidential Office of the Colombo Fort.
-
-Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka in Thailand, and Major General Faheem UL Aziz, appointed by the High Commissioner of the Pakistan Islamic Republic, handed over the credentials.. (A)
-
-◼️
-
-[Data](articles/b5f0e12d.json)
-
-[Extended Data](ext_articles/b5f0e12d.ext.json)
 
 ---

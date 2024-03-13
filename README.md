@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 20:02:53**
+As of **2024-03-13 20:17:53**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 2,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,685 (100.0%) of 12,687 articles have been extended.
+12,687 (100.0%) of 12,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### IMF இன் உறுதிமொழிகளை நிறைவேற்றத் தவறிய இலங்கை
+### Sri Lanka failed to fulfill the promises of IMF
 
 *2024-03-13 19:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-உறுதிமொழிகளை-நிறைவேற்றத்-தவறிய-இலங்கை/175-334619) · `ta`
 
-பெப்ரவரி மாத இறுதிக்குள் இலங்கை சர்வதேச நாணய நிதியத்தின் 33% உறுதிமொழிகளை 'நிறைவேற்றத்' தவறியுள்ளது.
+Sri Lanka failed to meet 33% of IMF pledges by Feb 2024, with 36% status unknown. Key pledges include transparency and law adoption. IMF identified as central factor in Sri Lanka's economic crisis.
 
-வெரிட்டே ரிசர்ச்சின் ' IMF கண்காணிப்பானின்' பெப்ரவரி மாத புதுப்பிப்பின்படி, இலங்கை அதன் சர்வதேச நாணய நிதியத் (IMF) திட்டத்தில் 2024 பெப்ரவரி இறுதிக்குள் நிறைவேற்ற வேண்டிய உறுதிமொழிகளில் 33% ஐ நிறைவேற்றத் தவறியுள்ளது.
+🟩
 
-'நிறைவேற்றப்படாதவை' என வகைப்படுத்தப்பட்டுள்ள இவ் உறுதி மொழி பல ஆளுகையை மேம்படுத்துவதற்காக வடிவமைக்கப்பட்ட உறுதிமொழிகள் என்பதை IMF கண்காணிப்பான் வெளிப்படுத்துகிறது.
+By the end of February, Sri Lanka has failed to "fulfill" 33% of the IMF's pledges.
 
-தகவல்களை வெளியிடுவது தொடர்பான உறுதிமொழிகள் (வெளிப்படைத்தன்மை) மற்றும் ஆளுகையை மேம்படுத்தும் சட்டத்தை ஏற்றுக்கொள்வது தொடர்பான உறுதிமொழிகளும் இதில் அடங்கும்.
+According to the February renewal of the Verite Resources 'IMF monitor', Sri Lanka has failed to fulfill 33% of the pledges to be fulfilled by the end of February 2024 in its IMF project.
 
-மோசமான ஆளுகையே இலங்கையின் பொருளாதார  நெருக்கடிக்கு மையக் காரணி என்பதை சர்வதேச நாணய நிதியம் (IMF) அடையாளம் கண்டுள்ளதுடன், சர்வதேச நாணய நிதியத்தின் தலைமையிலான ஆளுகை கண்டறியும் மதிப்பீட்டைக் கொண்ட முதல் ஆசிய நாடாக இலங்கை காணப்படுகிறது.
+The IMF monitor reveals that the affirmative language, which is classified as 'unfulfilled', is designed to improve many governance.
+
+These include pledges on the publication of information (transparency) and adoption of the law that enhances the governance.
+
+The International Monetary Fund (IMF) has identified the central factor for the economic crisis of Sri Lanka, and Sri Lanka is the first Asian country to be established by the International Monetary Fund.
+
+The status of 36% of the affirmations is classified as 'unknown', which means that they do not get enough data to evaluate their progress.At the end of February, 31% of pledges were 'fulfilled'.
 
 ...
 
 [Data](articles/b3e66216.json)
+
+[Extended Data](ext_articles/b3e66216.ext.json)
 
 ---
 
@@ -200,25 +208,33 @@ The incident occurred when the people who had been repaired at the specified mot
 
 ---
 
-### නොමිලයේ කියලා දෙයක් නෑ
+### There is no such thing for free
 
 *2024-03-13 18:37:11* · [`adalk`](https://www.ada.lk/breaking_news/නොමිලයේ-කියලා-දෙයක්-නෑ/11-408593) · `si`
 
-රටේ ආර්ථිකය පිළිබඳ සත්‍ය අවබෝධ කර නොගෙන, බලය ලබා ගැනීම වෙනුවෙන් ලබාදුන් දේශපාලන පොරොන්දු නිසා රටේ ජනතාවට දැඩි පීඩාවකට ලක්වීමට සිදු වූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the importance of building a strong economy over free services, highlighting the need for a positive future. He addressed youth concerns, including the high cost of mobile phones and online service charges, and the introduction of online education. He also discussed the economic crisis caused by free services, the government's efforts to recover from it, and the importance of careful action during challenging times.
 
-එම වරද කිරීමට තමා සූදානම් නැති බව අවධාරණය කළ ජනාධිපතිවරයා සත්‍යයට මුහුණ දෙමින් රටට සුබවාදී අනාගතයක් ගොඩනගා ගැනීමට සියලුදෙනා කටයුතු කළයුතු බවද පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “යුනයිටඩ් යූත් තරුණ එකමුතුව “ තරුණ අපේ අනාගතය” නමින් සංවිධානය කළ සුහද හමුවට එක්වෙමිනි. මෙම හමුව තැප්රොබේන් ඒන්ටර්ටේට්මන්ට්හීදි ඊයේ (12) පැවැත්විණි.
+President Ranil Wickremesinghe said that the political promises of the country had not understood the truth of the country due to the political promises of the country had to be severely affected.
 
-මෙහිදී අදහස් දැක්වු ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ රටේ ආර්ථිකය ගොඩනැගීමේදී අප කඩිනමින් අපනයන ආර්ථිකයකට යොමු විය යුතු බවයි.
+He emphasized that he was not prepared to do that wrongdoing and that everyone should act to build a positive future.
 
-විවිධ ක්ෂේත්‍ර නියෝජනය කරන තරුණ තරුණියන් විශාල පිරිසක් මෙම හමුවට එක්ව සිටි අතර, ඔවුන්ගේ ප්‍රශ්න ඍජුවම ජනාධිපතිවරයා වෙත ඉදිරිපත් කිරීමට ද මෙහිදී අවස්ථාව සලසා දී තිබිණි.
+President Ranil Wickremesinghe said that "United Youth Youth Conducting Youth". The meeting was held yesterday (12) at the Postalistics.
 
-එම සියලු ප්‍රශ්නවලට සාධනීය පිළිතුරු ලබාදීමට කටයුතු කළ ජනාධිපතිවරයා තරුණ තරුණියන් සමග සුහද කථා බහකට ද එක් විය.
+The President said that we should take to an expensive economy in building the economy of the country.
+
+A large number of youths representing various fields were also present at the meeting and submit their problems directly to the President.
+
+The President, who was responding to all those questions, joined the youths with a friendly story with the youths.
+
+Neomal Perera, Advisory Neomal Perera, was aimed at the President's arrival by President Ranil Wickremesinghe on behalf of this discourse.
 
 ...
 
 [Data](articles/ca49c455.json)
+
+[Extended Data](ext_articles/ca49c455.ext.json)
 
 ---
 

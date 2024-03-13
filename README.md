@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 05:37:19**
+As of **2024-03-13 05:56:28**
 
 ## Newspaper Stats
 
-*Scraped **12,523** Articles*
+*Scraped **12,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 666
-islandlk | 677
+islandlk | 685
 adalk | 1,070
 adaderanalk | 1,509
 tamilmirrorlk | 1,519
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,523 (100.0%) of 12,523 articles have been extended.
+12,523 (99.9%) of 12,531 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -908,6 +908,24 @@ Two people on a motorcycle have been shot dead in Mattakkuli Alivatta area.
 
 ---
 
+### Threads of Resilience: Is Sri Lanka’s apparel sector prepared to face Pathogen X?
+
+*2024-03-12 21:16:00* · [`islandlk`](http://island.lk/threads-of-resilience-is-sri-lankas-apparel-sector-prepared-to-face-pathogen-x/) · `en`
+
+Chaya Dissanayake is a Research Assistant at the Institute of Policy Studies of Sri Lanka (IPS). She holds a B.Sc. (Hons) in Agriculture specialised in Agricultural Economics from the University of Jaffna and is currently reading for an MSc in Integrated Water Resource Management at the Postgraduate Institute of Agriculture, Peradeniya. Her research interests include agricultural policies and institutions; disaster risk management; poverty and inequality; SMEs; women and workforce.
+
+Sri Lanka faces a high-risk situation with the looming threat of a potential future pandemic.
+
+A recent IPS study reveals that the Sri Lankan apparel sector, particularly women workers, bore the brunt of the COVID-19 pandemic, with 24% of women not recalled for work during the pandemic’s initial phase.
+
+Urgent streamlining of pandemic response policies for the sector is crucial to provide timely support and minimise losses in life and revenue.
+
+...
+
+[Data](articles/450b561b.json)
+
+---
+
 ### New Chief Secretaries appointed to Northern, North Western provinces
 
 *2024-03-12 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/97905/new-chief-secretaries-appointed-to-northern-north-western-provinces) · `en`
@@ -927,6 +945,68 @@ Their letters of appointment were handed over by President’s Secretary Saman E
 [Data](articles/9a68785b.json)
 
 [Extended Data](ext_articles/9a68785b.ext.json)
+
+---
+
+### ‘A Warm Meal for a Child’ – an initiative by Insurance Association of Sri Lanka
+
+*2024-03-12 21:13:00* · [`islandlk`](http://island.lk/a-warm-meal-for-a-child-an-initiative-by-insurance-association-of-sri-lanka/) · `en`
+
+In a touching gesture of unity and generosity, the Insurance Association of Sri Lanka (IASL) fulfilled its mission to support the ‘Warm Meal for a Child’ initiative. Following a successful ‘Sing-Along’ fundraiser event, which was held in December 2023, the IASL team traveled to Matale to share a warm meal with 31 children aged 6-18 across two children’s homes. This heartening act not only brought joy to the recipients, but also showcased the power of corporate generosity and highlights the industry’s dedication to making a positive impact beyond insurance.
+
+Sri Lankan Airlines should show progress within six months – Minister Nimal Siripala de Silva
+
+ZORAL partners with Linearsix to expand business in mena and apac regions
+
+Insurance Industry in fast mode to create value to the emerging needs of the modern consumer
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/b0e8007b.json)
+
+---
+
+### ZORAL partners with Linearsix to expand business in mena and apac regions
+
+*2024-03-12 21:11:00* · [`islandlk`](http://island.lk/zoral-partners-with-linearsix-to-expand-business-in-mena-and-apac-regions/) · `en`
+
+Zoral, a global Artificial Intelligence (AI) software research and development company specialising in solutions for the banking and finance industry, announces its strategic partnership with LinearSix, a digital transformation force in the financial services industry born and developed in Sri Lanka.
+
+This collaboration targets an aggressive entry into the Asia-Pacific (APAC) and the Middle East and North Africa (MENA) regions, offering AI-driven automation platforms for various financial institutions and telcos including SME, consumer and corporate finance, mortgage, insurance tech and more.
+
+...
+
+[Data](articles/b69affd1.json)
+
+---
+
+### Dialog partners SLIM to launch ‘SLIM Dialog Brand Week 2024’ for second consecutive year
+
+*2024-03-12 21:10:00* · [`islandlk`](http://island.lk/dialog-partners-slim-to-launch-slim-dialog-brand-week-2024-for-second-consecutive-year/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s premier connectivity provider, and the Sri Lanka Institute of Marketing (SLIM), the apex body for Sri Lankan Marketers, have announced the launch of SLIM Dialog Brand Week 2024, a three-day symposium focused on the theme ‘What is Yet to Come’ in the context of brands, commerce and emerging technologies in Sri Lanka and around the world.
+
+...
+
+[Data](articles/c3195254.json)
+
+---
+
+### Notable price appreciations of Palm oil-linked stocks
+
+*2024-03-12 21:09:00* · [`islandlk`](http://island.lk/notable-price-appreciations-of-palm-oil-linked-stocks/) · `en`
+
+In the course of CSE trading yesterday, palm oil- related stocks, especially those of Watawala Plantations and Agalawatta plantations, recorded notable price appreciations, market analysts said.
+
+Consequently, both indices moved upwards. The All- Share Price Index went up by 52.74 points while S and P SL20 rose by 11.69 points.
+
+Turnover stood at Rs 1.4 billion with four crossings. Those crossings were reported in Hela Apparel, which crossed 5 million shares to the tune of Rs 26.5 million; its shares traded at Rs 5.30, HNB 150,000 shares crossed for Rs 24 million and its shares traded at Rs 160, Hemas Holdings 280,000 shares crossed for Rs 21.7 million; its shares fetched Rs 77.50 and Dialog 2 million shares crossed to the tune of Rs 21.6 million and its shares sold at Rs 10.80.
+
+...
+
+[Data](articles/e08e3d60.json)
 
 ---
 
@@ -2179,109 +2259,5 @@ Statistics indicate that there have been various violence against women and girl
 [Data](articles/cd3d2f71.json)
 
 [Extended Data](ext_articles/cd3d2f71.ext.json)
-
----
-
-### Six students of the Papers preparing Everest
-
-*2024-03-12 16:20:14* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-සිසුන්-හයක්-එවරස්ට්-තරණයට-සැරසෙයි/11-408566) · `si`
-
-Six students from the University of Peradeniya, including AM from Engineering, are preparing for a trek to Everest Base Camp, facing challenges like the Triples road.
-
-🟩
-
-Six scholars, including the Explorers Association of the University of Peradeniya, was preparing for the Himalaya Mountains, organized for the 14th consecutive year.
-
-AM, a third year student of the Faculty of Engineering at the University of Peradeniya. Sonuni Kanananna, JA. Harsha Dharmapriya (Team Tear Vicinal Faculty) TB. Samarakoon (Science Faculty) CS. Madawala (Engineering Faculty) RB. Mannapperuma (Agricultural Faculty) HM. The University Students Samalamala Mountains included the Dilshan (Arts Faculty).
-
-These people are expected to go to Kathmi from Kathmi in Nepal week to Salary from Nepal, the Everest Base Camp (4364 meters) through the Gokoville (4760 meters) through Namachi Bazaar (4760 meters).The University of Peradeniya has announced that it is expected to cross the Elecument.
-
-...
-
-[Data](articles/aabcf60e.json)
-
-[Extended Data](ext_articles/aabcf60e.ext.json)
-
----
-
-### India, Sri Lanka discuss renewable energy cooperation, technology transfer
-
-*2024-03-12 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97898/india-sri-lanka-discuss-renewable-energy-cooperation-technology-transfer) · `en`
-
-Minister of Power and Energy Kanchana Wijesekera has held discussions with an Indian government delegation regarding the renewable energy cooperation between the two countries, capacity building programs, technology transfer, investments, opportunities and policies related to the sector.
-
-The delegation is led by Shri Bhupinder Singh Bhalla, Secretary to the Ministry of New and Renewable Energy of India who is on a 3-day visit to discuss possible investments and engage with renewable energy stakeholders and officials of Sri Lanka.
-
-The meeting was held this morning at the Ministry of Power and Energy, Wijesekera said in a post on his X handle (formerly Twitter).
-
-...
-
-[Data](articles/91f8bee6.json)
-
-[Extended Data](ext_articles/91f8bee6.ext.json)
-
----
-
-### Sri Lanka to gazette Gender Socialisation Equality bill for parliament’s approval
-
-*2024-03-12 15:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-gazette-gender-socialisation-equality-bill-for-parliaments-approval-154332/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Attorney General has cleared a draft bill on Gender Socialisation Equality and will now be gazetted, the government said.
-
-The Government Information Department said on Tuesday March 12 that the cabinet of ministers has approved a proposal by President Ranil Wickremesinghe to publish the bill in the government gazette to be tabled in parliament for its approval.
-
-Wickremesinghe has made the proposal in his capacity as Minister of Women, Child Affairs and Social Empowerment.
-
-The bill, first approved by the cabinet in September 2023, is one of two proposed pieces of legislation that seek to minimise a gender imbalance in socialisation.
-
-Gender socialisation is the process of teaching individuals, young and old, how to behave according to gender roles. Gender roles are socially constructed ideas of what it means to be one’s assigned gender.
-
-...
-
-[Data](articles/91143ee7.json)
-
-[Extended Data](ext_articles/91143ee7.ext.json)
-
----
-
-### Yall. O+ Blood Type in Blood Bank
-
-*2024-03-12 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178536) · `ta`
-
-Jaffna Teaching Hospital Blood Bank has identified blood donors with O+ blood type. They encourage blood donation camps in Jaffna, contact 0772105375 for details.
-
-🟩
-
-Blood Banks have announced that the blood donors in the Jaffna Teaching Hospital Blood Bank have been diagnosed with blood donors to the Jaffna Bank.
-
-At the same time, those who wish to conduct blood donation camps in Jaffna have been asked to make their efforts and contact them via 0772105375 to find out more details.
-
-◼️
-
-[Data](articles/76cd025c.json)
-
-[Extended Data](ext_articles/76cd025c.ext.json)
-
----
-
-### A new ambassador and a high commissioner
-
-*2024-03-12 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194423) · `si`
-
-A new Thai Ambassador and High Commissioner were appointed to Sri Lanka, presenting credentials to President Ranil Wickremesinghe. Major General Farhim Ul Asses, retiring, is the new High Commissioner.
-
-🟩
-
-A newly appointed Ambassador to Sri Lanka and a High Commissioner in Sri Lanka in charge of his credentials to President Ranil Wickremesinghe at the President's House this morning.
-
-The new Ambassador of Thailand has been appointed as the new Ambassador. E. Retirement Major General Farhim Ul Asses, who has been appointed as the new High Commissioner to the New High Commissioner to the Port of Islamic Republic of the Islamic Republic of the Islamic Republic of the Islamic Republic of the Islamic Issue.
-
-Foreign Minister Ali Sabri and Presidential Secretary Saman Ekanayake were also present at the occasion.
-
-◼️
-
-[Data](articles/cd3e3598.json)
-
-[Extended Data](ext_articles/cd3e3598.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 20:33:39**
+As of **2024-03-13 20:50:49**
 
 ## Newspaper Stats
 
-*Scraped **12,688** Articles*
+*Scraped **12,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,62 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,087
+adalk | 1,088
 adaderanalk | 1,530
 tamilmirrorlk | 1,548
 virakesarilk | 1,765
 dailymirrorlk | 1,933
-adaderanasinhalalk | 2,006
+adaderanasinhalalk | 2,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,687 (100.0%) of 12,688 articles have been extended.
+12,688 (100.0%) of 12,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### இலங்கை வங்கிக்கு புதிய தலைவர் நியமனம்
+### මධ්‍යම අධිවේගයේ මාර්ග අවහිරතාවයක්
+
+*2024-03-13 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194477) · `si`
+
+මධ්‍යම අධිවේගී මාර්ගයේ සිදුකරන අලුත්වැඩියා කටයුත්තක් හේතුවෙන් හෙට (14) සිට දින 14ක කාලයක් කිලෝමීටරයක කොටසක් රිය ධාවනය එක් මංතීරුවකට සීමා කරන බව පොලීසිය පවසයි.
+
+ඒ අනුව මීරිගම සිට කුරුණෑගල දක්වා කිලෝමීටර් 56.9 සිට කිලෝමීටර් 57.4 දක්වා කොටස මෙලෙස අලුත්වැඩියාව සිදුකිරීමට නියමිතව ඇත.
+
+මේ හේතුවෙන් එම දින 14 තුළදී මීරිගම සිට කුරුණෑගල දක්වා ගමන් කරන රථවාහන කිලෝමීටර් 56.2 කණුවට පෙර ඇති මධ්‍ය හදිසි දොරටුවෙන් කුරුණෑගල සිට මීරිගම දක්වා දිවෙන දකුණු මංතීරුවෙන් ධාවනය කළ යුතුවෙයි.
+
+එසේම මෙම කාලසීමාව තුළදී කුරුණෑගල සිට මීරිගම දක්වා ගමන්කරන රථවාහන මෙලෙස අලුත්වැඩියාව සිදුකරන කොටසේ එක් මංතීරුවකට පමණක් රිය ධාවනය සීමා කරන බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/ed186f99.json)
+
+---
+
+### New Chairman to Bank Bank
 
 *2024-03-13 20:07:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வங்கிக்கு-புதிய-தலைவர்-நியமனம்/175-334620) · `ta`
 
-அரச வங்கியான இலங்கை வங்கியின் (BOC) தலைவராக சிறந்த தொழில் நிபுணரான கவன் ரத்நாயக்க நியமிக்கப்பட்டுள்ளதாக வங்கி இன்று அறிவித்துள்ளது.
+Kan Ratnayake, former Chairman of Sri Lanka Ports Authority and other institutions, is now the new Chairman of Bank of Ceylon (BOC), effective from tomorrow.
 
-புதிய தலைவர் நாளை (14) முதல் தனது கடமைகளை பொறுப்பேற்பார் என கொழும்பு பங்குச் சந்தைக்கு (CSE) தாக்கல் செய்த அறிக்கையில், BoC தெரிவித்துள்ளது. நேற்றைய தினம் ரொனால்ட் சி பெரேரா . தலைவர் பதவியில் இருந்து விலகியதையடுத்து ரத்நாயக்க பதவியேற்றார்.
+🟩
 
-ரத்நாயக்க இதற்கு முன்னர் இலங்கை துறைமுக அதிகாரசபை, இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை மற்றும் இலங்கையின் அசோசியேட்டட் நியூஸ்பேப்பர்ஸ் (லேக் ஹவுஸ்) ஆகியவற்றின் தலைவராக பணியாற்றியுள்ளார். அவர் IBM Sri Lanka இன் நாட்டின் பொது முகாமையாளராகவும், Dialog Broadband இன் பிரதம நிறைவேற்று அதிகாரியாகவும், Dialog Axiata PLC இன் பிரதான நிறுவன அதிகாரியாகவும் பணியாற்றியுள்ளார்.
+The bank has announced today that Kan Ratnayake has been appointed as the head of the state bank (BOC).
 
-றோயல் கல்லூரியின் பழைய மாணவரான இவர், கலிபோர்னியா பல்கலைக்கழகத்தில் பௌதீகவியலில் இளங்கலை அறிவியல் பட்டம் பெற்றவர்.
+In a statement filed by the Colombo Stock Exchange (CSE), the BOC said that the new leader will take over his duties from tomorrow (14). Ronald C Perera yesterday.Ratnayake took office after resigning as chairman.
+
+Ratnayake has previously served as the Chairman of the Sri Lanka Ports Authority, the Sri Lanka Tourism Development Authority and the Associated Newspapers of Sri Lanka.He has served as the General Manager of IBM Sri Lanka, the Chief Executive Officer of Dialog Broadband and the Chief Institute of Dialog Axiata PLC.
+
+She is an alumnus of Royal College and holds a Bachelor of Science in Physics at the University of California.
 
 ◼️
 
 [Data](articles/485b31e6.json)
+
+[Extended Data](ext_articles/485b31e6.ext.json)
 
 ---
 
@@ -175,6 +199,24 @@ IGP Deshabandu Tennakoon arrived in the deceased to Kavizka Angara's residence.
 [Data](articles/8797401a.json)
 
 [Extended Data](ext_articles/8797401a.ext.json)
+
+---
+
+### IMF කැපවීම්වලින් සියයට 33ක් ඉටුකර නෑ
+
+*2024-03-13 18:56:24* · [`adalk`](https://www.ada.lk/breaking_news/IMF-කැපවීම්වලින්-සියයට-33ක්-ඉටුකර-නෑ/11-408594) · `si`
+
+2024 පෙබරවාරි අවසානය වන විට, ජාත්‍යන්තර මූල්‍ය අරමුදල් (IMF) වැඩසටහන යටතේ ඉටු කළ යුතු කැපවීම්වලින් 33%ක් සපුරාලීමට ශ්‍රී ලංකාව අසමත් වී ඇති බව වෙරිටේ රිසර්ච්හි ‘IMF මීටරයේ’  පෙබරවාරි යාවත්කාලීන කිරීම පෙන්වා දෙයි.
+
+වෙරිටේ රිසර්ච් හි 'IMF මීටරය' හෙළිදරව් කරන්නේ ශ්‍රී ලංකාව IMF වැඩසටහනයටතේ ‘ඉටු නොකළ’ කැපවීම්වලින් බොහොමයක් ආණ්ඩුකරණය ඉහළ නැංවීමට අදාළ බවයි. තොරතුරු ප්‍රකාශයට පත් කිරීම (විනිවිදභාවය) සහ ආණ්ඩුකරණය වැඩිදියුණු කිරීම අරමුණු කරගත් නීති සම්මත කිරීමට අදාළ කැපවීම් ද  මේ  අතර තිබේ.
+
+දුර්වල ආණ්ඩුකරණයක් පැවතීම ශ්‍රී ලංකාවට බලපා ඇති ආර්ථික අර්බුදයේකේන්ද්‍රීය සාධකයක් ලෙස ජාත්‍යන්තර මූල්‍ය අරමුදල හඳුනාගෙන ඇත. එසේම ආණ්ඩුකරණයසම්බන්ධයෙන් ඇගයීමක් සහිත වාර්තාවක් ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ප්‍රකාශයට පත්කළ පළමු ආසියාතික රට වන්නේ ද ශ්‍රී ලංකාවයි.
+
+කැපවීම් වලින් 36% ක තත්ත්වය 'නොදන්නා' ලෙස වර්ගීකරණය කර ඇති අතර, එයින් අදහස් කරන්නේ ඒවායේ ප්‍රගතිය තක්සේරු කිරීම සඳහා ප්‍රමාණවත් දත්ත ලබා ගත නොහැකි බවයි. පෙබරවාරි මස අවසන් වන විට, කැපවීම්වලින් 31% ක් 'ඉටු කර' ඇති බව සනාථ කළ හැක.
+
+...
+
+[Data](articles/a3813bc7.json)
 
 ---
 
@@ -2449,51 +2491,5 @@ Residents of the area say that there was no rainy weather in the area yesterday.
 [Data](articles/e2ed6194.json)
 
 [Extended Data](ext_articles/e2ed6194.ext.json)
-
----
-
-### Two casual few people die
-
-*2024-03-13 10:28:12* · [`adalk`](https://www.ada.lk/breaking_news/අනියම්-පෙම-දෙදෙනෙකු-මරු-තුළයට-යයි/11-408579) · `si`
-
-Two people died in a hotel in Arugamil, Ampara. A woman was found dead in the morning, and another was not found until 5 pm. The police were informed after the discovery. The deceased were identified as residents of Mahakulagolla and Pottuvil Sinnaulla in Hulannu.
-
-🟩
-
-A woman killed in a hotel at a hotel in Arugamil tourism area in Ampara, Ampara
-
-The woman who died for the nine dawn and the other was not at least 5.00 pm, the woman had lake the woman lake the lake lake after the police officers were informed of the door.The person's hanging body has been seen.
-
-මෙම කාන්තාව මියගිය පුද්ගලයා අතර අනියම් සම්බන්ධයක් තිබි ඇති බව මුලික විමර්ශණ වලදි හෙලිව තිබේ .මියයෑමට පෙර එම පුද්ගලයා විසින් ලියන ලද ලිපියක්ද පොලිසිය හමුව තිබේ.
-
-The article said that this letter was made by the husband's husband's concerns. According to the article, the two suspects say
-
-The deceased has been identified as a person in the Mahakulagolla area and Pottuvil Sinnaulla area in Hulannu.
-
-◼️
-
-[Data](articles/949b0b95.json)
-
-[Extended Data](ext_articles/949b0b95.ext.json)
-
----
-
-### Diana Gamage’s petition challenging expulsion from SJB reheard
-
-*2024-03-13 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97915/diana-gamages-petition-challenging-expulsion-from-sjb-reheard) · `en`
-
-The Supreme Court has once again taken up for hearing the petition filed by State Minister Diana Gamage challenging a decision taken by the Samagi Jana Balawegaya (SJB) to scrap her membership in the party.
-
-The petition was reheard before a three-member Supreme Court trial bench comprising of Justices Gamini Amarasekara, Kumuduni Wickremesinghe and Mahinda Samayawardena, Ada Derana reporter said.
-
-Appearing for the General Secretary of the SJB Ranjith Madduma Bandara, who has been named as a respondent of the case, President’s Counsel Jayampathy Wickramaratne pointed out before the courts that several essential parties have not been named as respondents in this petition.
-
-He also mentioned that the petition could not be maintained further on the grounds that the members of the SJB’s executive board and the members of the disciplinary committee, who are essential parties relating to the matter, have not been named as respondents in the petition, which he deemed a ‘serious legal error’.
-
-...
-
-[Data](articles/766331d8.json)
-
-[Extended Data](ext_articles/766331d8.ext.json)
 
 ---

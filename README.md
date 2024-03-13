@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 15:02:52**
+As of **2024-03-13 15:17:51**
 
 ## Newspaper Stats
 
-*Scraped **12,637** Articles*
+*Scraped **12,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,079
+adalk | 1,080
 adaderanalk | 1,524
 tamilmirrorlk | 1,540
 virakesarilk | 1,760
@@ -26,45 +26,81 @@ adaderanasinhalalk | 1,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,635 (100.0%) of 12,637 articles have been extended.
+12,637 (100.0%) of 12,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### වනඅලි ප්‍රහාරයකින් මවක් මරුට
+### Forest killed in clashes
 
 *2024-03-13 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194460) · `si`
 
-වනඅලියෙකු කඩාපැනීම හේතුවෙන් කුඩා දරුවෙකු සමග තවත් නිවසකට දුව යමින් සිටි කාන්තාවක් වනඅලි ප්‍රහාරයට ලක්වී ජීවිතක්ෂයට පත්ව තිබේ.
+A woman and her child were killed in a clash in Madhu Kattappan, with the child hospitalized.
 
-මෙම සිද්ධිය ඊයේ (12) රාත්‍රියේ මඩු කට්ටෙඅඩප්පන් ප්‍රදේශයෙන් වාර්තාවී තිබුණි.
+🟩
 
-සිද්ධියෙන් තුවාල ලැබූ කුඩා දරුවා ප්‍රතිකාර සඳහා මන්නාරම රෝහලට ඇතුළත් කර ඇත.
+A woman who was running into another home with a child, was killed and the victim was killed.
+
+The incident was reported from the Madhu Kattappan area last night.
+
+The child who was injured in the incident has been admitted to the Mannar Hospital for treatment.
 
 ◼️
 
 [Data](articles/a4baba0a.json)
 
+[Extended Data](ext_articles/a4baba0a.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலை சம்பவம் ; கைதுசெய்யப்பட்டவர்கள் உண்ணாவிரதம்!!
+### Recovery of a car used for the murder of a young family in Jaffna
+
+*2024-03-13 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178622) · `ta`
+
+Jaffna Crime Police arrest 5 suspects in connection with the murder of 23-year-old Thavchelvam Pavitran, abducted from Ponnala Naval Base. The murder weapon, a car, was recovered from a house near West Nochikkattu Pillaiyar temple, showing signs of a previous attack and bloodstains.
+
+🟩
+
+23 -year -old Thavchelvam Pavitran, a 23 -year -old family member, was abducted and murdered from the Ponnala Naval Base in Jaffna.
+
+Five suspects have been arrested in Kilinochchi by the Jaffna Crime Police on Tuesday (12).
+
+In this case, the car used for murder has been rescued by the Jaffna District Crime Police, from a house near the West Nochikkattu Pillaiyar temple.. The forensic police rushed to the spot and are collecting traces.
+
+It is suspected that the car may have been attacked by a car. The car has been recovered from a front house in front of. The car is seen as dusty as it was long for a long time, and the blood inside the car is bleeding.
+
+◼️
+
+[Data](articles/3a6aee99.json)
+
+[Extended Data](ext_articles/3a6aee99.ext.json)
+
+---
+
+### Vittukunnarimalai incident;Arrested people fast !!
 
 *2024-03-13 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178625) · `ta`
 
-வெடுக்குநாறிமலையில் சிவராத்திரி வழிபாடுகளில் ஈடுபட்டபோது கைதுசெய்யப்பட்டு சிறையில் அடைக்கப்பட்டவர்கள் உண்ணாவிரத போராட்டத்தில் குதித்துள்ளனர்.
+People arrested during Shivaratri rituals in Vedukkunniimalai are on hunger strike. Vavuniya Justice ordered remand till 19th, detained at Vavuniya Explanation Prison. Refused food since court appearance. Involved: T. Mathimukarasa, Thamilchelvan, D. Kindiyan, Su Thavapalasingham, Vinayagamoorthy.
 
-வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று  கைதுசெய்யப்பட்ட ஆலயபூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று நேற்று உத்தரவு பிறப்பித்துள்ளது.
+🟩
 
-இதனையடுத்து அவர்கள் வவுனியா விளக்கமறியல் சிறைச்சாலையில் நேற்றையதினம் மாலை அடைக்கப்பட்டனர்.இந்நிலையில் தங்களை விடுதலைசெய்யகோரி அவர்கள் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+Those arrested and jailed during the Shivaratri rituals in Vedukkunniimalai have jumped into a hunger strike.
 
-குறிப்பாக நேற்றயதினம் காலை நீதிமன்றிற்கு கொண்டுசெல்லப்படும் போதே அவர்கள் உணவினை எடுத்திருக்கவில்லை. இந்நிலையில் இன்றையதினமும் அவர்கள் உணவினை உட்கொள்வதற்கு மறுத்துள்ளனர்.
+The Vavuniya Justice of Vavuniya yesterday issued an order to be kept in remand till the 19th of this month.
 
-கைதுசெய்யப்பட்ட எட்டுபேரில் ஆலய பூசாரியார் த.மதிமுகராசா மற்றும் து. தமிழ்ச்செல்வன்,  தி.கிந்துயன், சு.தவபாலசிங்கம், விநாயகமூர்த்தி ஆகியோரே உண்ணாவிரத போராட்டத்தினை முன்னெடுத்துள்ளனர்.
+Subsequently, they were detained at the Vavuniya Explanation Prison yesterday evening.
+
+They have not taken food, especially when they were taken to court yesterday morning. In this case, they have refused to eat food today.
+
+Temple priest T. Mathimukarasa and. Thamilchelvan, D. Kindiyan, Su Thavapalasingham and Vinayagamoorthy have launched a hunger strike.
 
 ◼️
 
 [Data](articles/60a08eee.json)
+
+[Extended Data](ext_articles/60a08eee.ext.json)
 
 ---
 
@@ -135,30 +171,6 @@ Japan’s moon lander survives two-week lunar night after wonky landing
 [Data](articles/310d6837.json)
 
 [Extended Data](ext_articles/310d6837.ext.json)
-
----
-
-### Recovery of a car used for the murder of a young family in Jaffna
-
-*2024-03-13 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178622) · `ta`
-
-Jaffna Crime Police arrest 5 suspects in connection with the murder of 23-year-old Thavchelvam Pavitran, abducted from Ponnala Naval Base. The murder weapon, a car, was recovered from a house near West Nochikkattu Pillaiyar temple, showing signs of a previous attack and bloodstains.
-
-🟩
-
-23 -year -old Thavchelvam Pavitran, a 23 -year -old family member, was abducted and murdered from the Ponnala Naval Base in Jaffna.
-
-Five suspects have been arrested in Kilinochchi by the Jaffna Crime Police on Tuesday (12).
-
-In this case, the car used for murder has been rescued by the Jaffna District Crime Police, from a house near the West Nochikkattu Pillaiyar temple.. The forensic police rushed to the spot and are collecting traces.
-
-It is suspected that the car may have been attacked by a car. The car has been recovered from a front house in front of. The car is seen as dusty as it was long for a long time, and the blood inside the car is bleeding.
-
-◼️
-
-[Data](articles/3a6aee99.json)
-
-[Extended Data](ext_articles/3a6aee99.ext.json)
 
 ---
 
@@ -393,6 +405,22 @@ Golris Kahraman was the first person to be elected as a Member of Parliament aft
 [Data](articles/17cf71ea.json)
 
 [Extended Data](ext_articles/17cf71ea.ext.json)
+
+---
+
+### මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කර ගැනීම අවලංගු කිරීමේ පනත පාර්ලිමේන්තුවට
+
+*2024-03-13 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-අත්තනෝමතික-වැටුප්-වැඩි-කර-ගැනීම-අවලංගු-කිරීමේ-පනත-පාර්ලිමේන්තුවට/11-408586) · `si`
+
+මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කර ගැනීම අවලංගු කිරීම සහ මහ බැංකුවේ සේවක වැටුප් වැඩිකිරීමේ දී මුදල් අමාත්‍යවරයාගේ එකගතාවය ලබා ගැනීම අනිවාර්ය කිරීම  අරමුණු කරගත්   පාර්ලිමේන්තු මන්ත්‍රි උදය ගම්මන්පිල මහතා විසින් ගෙන එනු ලබන පනත් කෙටුම්පත අද  (13) පාර්ලිමේන්තුවේ දී පාර්ලිමේන්තුවේ වැඩ බලන මහලේකම් හංස අබේරත්න මහතා වෙත භාරදෙන ලදී.
+
+මෙම පනත් කෙටුම්පත 2023 අංක 16 දරණ ශ්‍රී ලංකා මහ බැංකු පනත සංශෝධනය කිරීම පිණිස වූ පනත් කෙටුම්පතකි.
+
+මෙම පනත් කෙටුම්පත භාරගනිමින් පාර්ලිමේන්තුවේ වැඩ බලන මහලේකම් හංස අබේරත්න මහතා ප්‍රකාශකර සිටියේ ජාතික වැදගත්කමක් සේ සලකා නීතිපතිවරයාගේ මතය විමසීමට මෙම පනත් කෙටුම්පත කඩිනමින් ඉදිරිපත් කරන බවයි.
+
+◼️
+
+[Data](articles/d404ecca.json)
 
 ---
 
@@ -2269,29 +2297,5 @@ Talawakelle Tea Estates also walked away with the Category B ‘Best Corporate C
 [Data](articles/864951ef.json)
 
 [Extended Data](ext_articles/864951ef.ext.json)
-
----
-
-### Appointment of new Chief Secretaries for the Northern and North Western Provinces
-
-*2024-03-13 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178576) · `ta`
-
-L. Deepika Ke Gunaratne appointed as North Western Chief Secretary. President Ranil Wickremesinghe made the appointments. L. Ilangovan, former Secretary to Northern Provincial Ministries, now Chief Secretary of Northern Province.
-
-🟩
-
-L.. Deepika Ke Gunaratne has been appointed as the Chief Secretary of the North Western Province.
-
-The appointments have been made by President Ranil Wickremesinghe and the President's Secretary Saman Ekanayake handed over the appointment letters to the Presidential Secretariat on Tuesday (12).
-
-L. Ilangovan, the top official of the Sri Lanka Administrative Service, has been the Secretary to the Northern Provincial Ministries and has served as the Governor of the Northern Province.
-
-Until L. Ilangovan was appointed as the Chief Secretary of the Northern Province, he served as the Additional Secretary of the President on the Development of the Northern Province.
-
-◼️
-
-[Data](articles/a31dec43.json)
-
-[Extended Data](ext_articles/a31dec43.ext.json)
 
 ---

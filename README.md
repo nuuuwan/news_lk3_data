@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 22:34:03**
+As of **2024-03-13 22:50:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,699 (100.0%) of 12,703 articles have been extended.
+12,703 (100.0%) of 12,703 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,27 +48,35 @@ Expressing his views further State Minister Piyal Nishantha de Silva said;
 
 [Data](articles/68952812.json)
 
+[Extended Data](ext_articles/68952812.ext.json)
+
 ---
 
-### පරාටේ ගැන බැංකු ගත් තීරණය මෙන්න
+### Here's the decision taken about the Paradat
 
 *2024-03-13 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194480) · `si`
 
-පාර්ලිමේන්තුව හරහා පවතින නීති සංශෝධනය කරන තුරු, බැංකු සුදුසු අවස්ථාවලදී පරාටේ ප්‍රතිකර්මය භාවිත කරන බව ශ්‍රී ලංකා බැංකු සංගමය පවසයි.
+The Sri Lanka Bank Association (SLTB) has decided to auction a hotel in Galkanda, Hingurakgoda, due to the Easter Sunday Terror Attack on Covenan Petrolement. The hotel, half-constructed, was fined Rs. 800,000. The owner had temporarily suspended the Pradesh law for 10 months.
 
-එවන් පසුබිමක ඇපයට තැබූ හිඟුරක්ගොඩ, ගල්කන්ද ප්‍රදේශයේ සංචාරක හෝටලයක් වෙන්දේසි කර තමන් සතු කරගැනීමට රාජ්‍ය අනුබද්ධ බැංකුවක් ඊයේ (12) කටයුතු කර තිබුණි.
+🟩
 
-ඉදිකිරීම් අඩක් නිමවූ මෙම හෝටලයේ ඔප්පුව එම බැංකුවේ ඇපයට තබා එහි හිමිකරු රුපියල් ලක්ෂ 80ක ණය මුදලක් ලබාගෙන තිබුණේ 2019 වසරේදීය.
+The Sri Lanka Bank Association (SLTB) says that the bank's remedy is used when the banks will be revised.
 
-කෙසේවෙතත්, පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය, කොවිඩ් වසංගතය ඇතුළු තත්ත්වයන් හේතුවෙන් ණය මුදල ගෙවා අවසන් කිරීමට ඔහුට නොහැකි වීම නිසා බැංකුව එය වෙන්දේසි කිරීමට තීරණය කර තිබේ.
+A State subsidiary yesterday (12) had been auctioned in Galkanda area, Hingurakgoda, Hingurakgoda, who was released into a situation.
 
-ඒ අනුව බැංකුව ඊයේ පස්වරුවේදී හෝටලයට රුපියල් ලක්ෂ 140ක ලංසුවක් තැබූවත් වෙනත් කිසිවෙකු ඉදිරිපත් නොවීම නිසා හෝටලය තමන් සතුකර ගත්තේය.
+The deed of the deed of the hotel, which was half the construction, had been sentenced to Rs. 800,000.
 
-පරාටේ නීතිය මාස 10ක් සඳහා තාවකාලිකව අත්හිටුවීමට නියෝග කර ඇති පසුබිමක මෙය සිදුකිරීම සම්බන්ධයෙන් හෝටලයේ හිමිකරු පළකළේ දැඩි අප්‍රසාදයකි.
+However, the Easter's Sunday Terror Attack on the Covenan Petrolement, the bank has decided to auction.
+
+Accordingly, the bank had placed a bid of Rs.
+
+The owner of the hotel posed the hotel in connection with the order to temporarily suspend the Pradesh law for 10 months.
 
 ◼️
 
 [Data](articles/f1423c0f.json)
+
+[Extended Data](ext_articles/f1423c0f.ext.json)
 
 ---
 
@@ -89,6 +97,8 @@ The Senior Deputy Inspector General of the Southern Province, the Galle DIG and 
 ...
 
 [Data](articles/d4ab9def.json)
+
+[Extended Data](ext_articles/d4ab9def.ext.json)
 
 ---
 
@@ -145,6 +155,8 @@ In all three countries, “they exchanged views on military relations and region
 ...
 
 [Data](articles/062a0599.json)
+
+[Extended Data](ext_articles/062a0599.ext.json)
 
 ---
 

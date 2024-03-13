@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 12:49:20**
+As of **2024-03-13 13:02:57**
 
 ## Newspaper Stats
 
-*Scraped **12,611** Articles*
+*Scraped **12,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,99 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,076
-adaderanalk | 1,520
+adaderanalk | 1,521
 tamilmirrorlk | 1,536
-virakesarilk | 1,755
+virakesarilk | 1,756
 dailymirrorlk | 1,921
-adaderanasinhalalk | 1,985
+adaderanasinhalalk | 1,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,604 (99.9%) of 12,611 articles have been extended.
+12,611 (100.0%) of 12,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### சீருடையுடன் ஸ்பா சென்ற பொலிஸ்
+### නිවසටම ගොස් බෙහෙත් කරන බදුල්ලේ හිත හොඳ දොස්තර
+
+*2024-03-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194453) · `si`
+
+නිවසටම ගොස් රෝගීන්ට ප්‍රතිකාර කරන අපූරු වෛද්‍යවරුන් ඇතුළු කාර්ය මණ්ඩලයක් පිළිබඳ තොරතුරු අපට බදුල්ල  කැන්දගොල්ල ප්‍රදේශයෙන් වාර්තා වුණි.
+
+බදුල්ල නගරයේ සිට කිලෝමීටර් 15ක පමණ දුරකින් පිහිටා ඇති කැන්දගොල්ල ප්‍රාදේශීය රෝහල ඌව පළාත් සෞඛ්‍ය අමාත්‍යාංශයට අයත් සී ශ්‍රේණියේ රෝහලකි.
+
+නමුත් වර්තමානයේ පවතින ආර්ථික දුෂ්කරතා හමුවේ මෙම රෝහල වෙත පැමිණීමට රෝගීන්ට විශාල වියදමක් දැරීමට  සිදුව තිබේ.
+
+මීට පිළියම් ලෙස මේ වන විට රෝහලේ ප්‍රධාන වෛද්‍ය නිලධාරී සචිත් බණ්ඩාර මහතා විසින් කාලාන්තරක් තිස්සේ ප්‍රතිකාර ගන්නා රෝගීන්ගේ නිවෙස්වලට ගොස් ප්‍රතිකාර කිරිම ආරම්භ කර තිබේ.
+
+කැන්දගොල්ල ප්‍රාදේශීය රෝහලේ, ප්‍රධාන වෛද්‍ය නිලධාරී, වෛද්‍ය සචිත් බණ්ඩාර මහතා,
+
+...
+
+[Data](articles/0e754278.json)
+
+---
+
+### நுவரெலியா திறந்த பொருளாதார மத்திய நிலையத்தின் இன்றைய மரக்கறிகளின் மொத்த விலை
+
+*2024-03-13 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178609) · `ta`
+
+நுவரெலியா திறந்த பொருளாதார மத்திய நிலையத்தில் இன்று புதன்கிழமை (13)  விற்பனை செய்யப்படும் மரக்கறி வகைகளின் மொத்த விலை பட்டியல் வெளியிடப்பட்டுள்ளது.
+
+அதனடிப்படையில், (முட்டைகோஸ்) கோவா 425 ரூபாவாக விற்பனை விலை அறிவிக்கப்பட்டுள்ள அதேவேளை நுவரெலியா கரட் கிலோ ஒன்றின் விற்பனை விலை 395 ரூபாவாக அறிவிக்கப்பட்டுள்ளது.
+
+அதேபோல லீக்ஸ் 210 ரூபா, ராபு 80 ரூபாய், பீட்ரூட் (இலையுடன்) 220 ரூபாவாகவும், இலை வெட்டப்பட்ட பீட்ரூட் 270 ரூபாவாகவும் மொத்த விலை அறிவிக்கப்பட்டுள்ளது.
+
+அதேநேரத்தில் உருளை கிழங்கு (வெள்ளை) 355 ரூபாவாகவும், உருளை கிழங்கு (சிவப்பு) 375 ரூபாவாகவும், நோக்கோல் 170 ரூபாவாகவும் அறிவிக்கப்பட்டுள்ளது.
+
+மேலும், கடந்த காலங்களில் அதிக உச்ச விலை கண்ட நுவரெலியாவில் உற்பத்தி செய்யப்படும் உயர்தர மரக்கறிகளின் விலைகளும் கணிசமாக சரிவு கண்டுள்ளது.
+
+அந்தவகையில் தக்காளி (பச்சை) 800 ரூபாவாகவும், கறிமிளகாய் 555 ரூபாவாக மொத்த விலையில்  விற்பனை செய்யப்படுகிறது.
+
+அத்துடன், சிவப்பு கோவா 2100 ரூபாவாகவும், காலிஃப்ளவர் (நுவரெலியா) 650 ரூபாவாகவும், புரக்கோலி 550 ரூபாவாகவும் வில்பனை விலை அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/52844fb7.json)
+
+---
+
+### HRW urges IMF to oppose ‘repression of civic space’ in Sri Lanka
+
+*2024-03-13 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97920/hrw-urges-imf-to-oppose-repression-of-civic-space-in-sri-lanka) · `en`
+
+The International Monetary Fund (IMF) should urge Sri Lanka’s government to abandon draft legislation that would severely curtail civil society and jeopardize the IMF’s program in the country, Human Rights Watch (HRW) has said in a letter to the global lender that was released today (March 13).
+
+Issuing a statement in this regard, the HRW – an international non-governmental organization that conducts research and advocacy on human right – highlighted that the proposed Non-Governmental Organizations (Registration and Supervision) Act in Sri Lanka is among several recent and planned measures that would curtail fundamental freedoms, despite the critical role of public scrutiny in promoting good governance and combatting corruption.
+
+...
+
+[Data](articles/535dfaa3.json)
+
+---
+
+### The police went to the spa with uniform
 
 *2024-03-13 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடையுடன்-ஸ்பா-சென்ற-பொலிஸ்/175-334603) · `ta`
 
-முதலாம் தர சீருடை அணிந்திருந்த பொலிஸ் சார்ஜன்ட் ஒருவர், நீதிமன்றத்துக்கு செல்லும் வழியில், சீருடையுடன் ஸ்பா சென்றுள்ள சம்பவமொன்று இடம்பெற்றுள்ளது. சேவையை பெற்றுக்கொள்வதற்காகவே அவர், சீருடையுடன் ஸ்பா சென்றுள்ளமை விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+A police sergeant in a first-grade uniform was investigated for visiting a spa with his uniform. After investigations, he was released.
 
-யக்கல பொலிஸ் நிலையத்துக்கு அழைத்துச் செல்லப்பட்ட அந்த பொலிஸ் சார்ஜன்ட், விசாரணைகளுக்குப் பின்னர் விடுவிக்கப்பட்டுள்ளார் என பொலிஸ் தலைமையகம் அறிவித்துள்ளது.  தொம்பே பொலிஸில் இணைத்துக்கொள்ளப்பட்ட பொலிஸ் சார்ஜன்டே இவ்வாறு விசாரணைக்குப் பின்னர் விடுதலைச் செய்யப்பட்டுள்ளார்.
+🟩
 
-யக்கல பொலிஸ் பிரிவில் கண்டி வீதியில் உள்ள ஸ்பா மத்திய நிலையத்துக்கு சேவையை பெற்றுக்கொள்வதற்காக, பொலிஸ் சீருடையில் சென்றிருந்தமை தொடர்பில், யக்கல பொலிஸ் நிலைய பொறுப்பதிகாரிக்கு கிடைத்த தகவல்களின் பிரகாரம், அந்த நிலையத்துக்கு பொலிஸ் அதிகாரிகள் குழுவொன்றை அனுப்பி, பொலிஸ் சார்ஜன்ட், பொலிஸ் நிலையத்துக்கு அழைத்து வரப்பட்டார்.
+A police sergeant wearing a first -grade uniform, on the way to the court, has been a uniform spa.. Investigations have revealed that he had gone with uniform to get a service.
+
+The police headquarters, who was taken to the Yakkala police station, has been released after investigations.. The police Sergender, who was recruited to the Dompe police, has been released after the investigation.
+
+According to information received by the Yakkala Police Station in connection with the police uniform, a police officer was sent to the station and brought to the police station and police station to find service to the Spa Center at the Yakkala Police Division.
 
 ◼️
 
 [Data](articles/46c8b6c2.json)
+
+[Extended Data](ext_articles/46c8b6c2.ext.json)
 
 ---
 
@@ -69,6 +133,8 @@ Shocked residents described the pair, both aged in their eighties, as friendly p
 ...
 
 [Data](articles/21f9e06d.json)
+
+[Extended Data](ext_articles/21f9e06d.ext.json)
 
 ---
 
@@ -119,6 +185,8 @@ Bidders can choose between a round of golf for two with Sangakkara, two hospital
 ...
 
 [Data](articles/20d00cc8.json)
+
+[Extended Data](ext_articles/20d00cc8.ext.json)
 
 ---
 
@@ -198,21 +266,27 @@ According to Nadeeshani’s father, she had been forcibly taken away by her brot
 
 ---
 
-### මට්ටක්කුලිය වෙඩිතැබීමේ CCTV දර්ශන
+### CCTV footage of Mattakkuliya
 
 *2024-03-13 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194452) · `si`
 
-මට්ටක්කුලිය අලිවත්ත ප්‍රදේශයේදී ඊයේ (12) පස්වරුවේ සිදුකළ වෙඩිතැබීමට යතුරුපැදියකින් සැකකරුවන් දෙදෙනා පැමිණි අයුරු දැක්වෙන CCTV වීඩියෝව මේ වනවිට පොලිස් විමර්ශන සඳහා යොදාගෙන තිබේ.
+CCTV footage shows two suspects on a motorcycle shooting at a 24-year-old in Matikkuliya. They were armed with a revolver. The victim survived, but was assaulted by Sutraz Viraj, who lives nearby.
 
-වෙඩික්කරුවන්ගේ ඉලක්කය වී තිබුණේ අශාන් මදුරංග හෙවත් අලිවත්තේ විරාජ් නැමති 24 හැවිරිදි තරුණයෙකි.
+🟩
 
-ස්කූටර් වර්ගයේ යතුරුපැදියකින් පැමිණි වෙඩික්කරුවන් දෙදෙනා රිවෝල්වර් වර්ගයේ ගිනිඅවියකින් වෙඩිතැබීම සිදුකළ බවද වාර්තා විය.
+The CCTV video of the two suspects have been used by the two suspects in a motorcycle to shoot the Matikkuliya area yesterday.
 
-කෙසේවෙතත් ඔහු එම වෙඩිතැබීමෙන් ජීවිතය බේරාගෙන තිබූ අතර පසුව වෙඩිතැබීමට සැක පාර්ශ්වයේ නිවෙස් 4කට පමණ ප්‍රහාරයක් එල්ල කිරීමට අලිවත්තේ විරාජ්ගේ පාර්ශ්වය කටයුතු කර තිබූ බව වාර්තා විය.
+The target of the shooter's goal was a 24 year old youth.
+
+The two shooters who arrived in a transcript motorcycle were shooting from a revolver firearm.
+
+However, he had rescued the shooting and had been assaulted by the Sutraz Viraj, who had been assaulted by about 4 houses in the suspicion.
 
 ◼️
 
 [Data](articles/95a8f5ed.json)
+
+[Extended Data](ext_articles/95a8f5ed.ext.json)
 
 ---
 
@@ -255,6 +329,8 @@ Deputy Ambassador of Japan to Sri Lanka Kotaro Katsuki, CEO of Sri Lanka Cricket
 ...
 
 [Data](articles/f5ba2638.json)
+
+[Extended Data](ext_articles/f5ba2638.ext.json)
 
 ---
 
@@ -314,6 +390,8 @@ Hours later, Trump clinched the 1,215 delegates required to secure the Republica
 
 [Data](articles/b868e971.json)
 
+[Extended Data](ext_articles/b868e971.ext.json)
+
 ---
 
 ### Biden, Trump clinch nominations, kicking off bruising presidential rematch
@@ -334,23 +412,29 @@ Hours later, Trump clinched the 1,215 delegates required to secure the Republica
 
 ---
 
-### ජපානයේ ක්‍රිකට් උස්සන්න ශ්‍රී ලංකාව ඉදිරිපත් වෙයි
+### Sri Lanka will raise cricket in Japan
 
 *2024-03-13 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194451) · `si`
 
-ජපානයේ ක්‍රිකට් ක්‍රීඩාව ප්‍රවර්ධනය කිරීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනය එකඟ වී තිබේ.
+Sri Lanka's cricket promotion in Japan includes sending players, teams, coaches, and stadiums for training and T20 tournaments, with Japanese players getting exposure to LPL groups.
 
-ඒ අනුව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය සහ ජපාන ක්‍රිකට් සංගමය අතර ඒ සඳහා එකඟතා ගිවිසුමකට අත්සන් කළ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+🟩
 
-එම එකඟතාවය අනුව මෙරට ක්‍රීඩකයින්, ක්‍රිකට් කණ්ඩායම්, පුහුණුකරුවන් සහ ක්‍රීඩාංගණ කාර්ය මණ්ඩල සාමාජිකයින් ජපානයට යැවීමටත් එරට ක්‍රිකට් ක්‍රීඩකයින්ට මෙරටට පැමිණ වැඩිදුර පුහුණුවීමේ අවස්ථාවත් හිමිවෙයි.
+SLC has agreed to promote cricket in Japan.
 
-එම නිවේදනයේ වැඩිදුරටත් සඳහන් වන්නේ මෙරට කණ්ඩායම් ජපානයේ පැවැත්වෙන T20 තරගාවලි සඳහා යැවීමට නියමිත බවය.
+Accordingly, SLC announced that the SLC and the Japanese Cricket Association had signed a consential agreement.
 
-එසේම LPL කණ්ඩායම් සමග පුහුණුවීමට ජපාන ක්‍රීඩකයින්ට ද අවස්ථාව හිමිවෙයි.
+According to the agreement, Sri Lanka's players, cricket teams, coaches and stadiums are to be sent to Japan and train the country.
+
+The announcement further states that the country is scheduled to be sent for T20 tournaments in Japan.
+
+Japanese players are also chance to practice with LPL groups.
 
 ◼️
 
 [Data](articles/3b7ff516.json)
+
+[Extended Data](ext_articles/3b7ff516.ext.json)
 
 ---
 
@@ -2167,79 +2251,5 @@ The reports of our very own Central Bank state “...The latest official assessm
 [Data](articles/bac9f468.json)
 
 [Extended Data](ext_articles/bac9f468.ext.json)
-
----
-
-### Russian economy grows despite sanctions- study
-
-*2024-03-13 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Russian-economy-grows-despite-sanctions-study/172-278720) · `en`
-
-Of the two countries that at each other’s throats now - Russia and Ukraine - it is Ukraine which appears to be the underdog despite massive American and Western arms aid.
-
-While the Russian economy is growing despite severe US and European sanctions, Ukraine is facing a major arms and manpower shortage with dim chances of being rectified.
-
-Given the possibility of Donald Trump returning to power in the US, even the current level of Western support to Ukraine may not be forthcoming. And unlike Russia, Ukraine has no indigenous capability to sustain itself, whether economically or militarily.
-
-On the other contrary, Russia, has been able to circumvent the sanctions and keep its economy humming, according the Vienna Institute of International Economic Studies (VIIEC). And there has also been no let-up in its military efforts.
-
-...
-
-[Data](articles/07084f62.json)
-
-[Extended Data](ext_articles/07084f62.ext.json)
-
----
-
-### 2024-03-12 (Tuesday)
-
-### The most important message to the public ...
-
-*2024-03-12 23:47:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-மிக-முக்கிய-செய்தி/175-334583) · `ta`
-
-Due to high temperatures, CEB and NWSDB urge conservation of water and electricity. If conditions persist, partial water rationing may be necessary.
-
-🟩
-
-The Ceylon Electricity Board (CEB) and the National Water Supply and Drainage Board are urging people to use water and electricity as a result of high temperatures these days.
-
-If the climate lasts for two more months, the water supply council will have to open water on the basis of partial quantities.
-
-Meanwhile, people have been used to using electricity than ever before due to severe heat.
-
-The Ceylon Electricity Board (CEB) has asked the people to use electricity as it has increased the demand for electricity these days.. Remble
-
-◼️
-
-[Data](articles/ca3bb083.json)
-
-[Extended Data](ext_articles/ca3bb083.ext.json)
-
----
-
-### Baby death stuck in cold throat
-
-*2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிசை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
-
-A 4-year-old girl died after a pill was accidentally swallowed and got stuck in her throat. She was admitted to the ICU at Peradeniya Sirimavo Bandaranaike Children's Hospital and later transferred to Mahiyangana Hospital. The father was living separately. The pill was removed, and the child was transferred back to Peradeniya for further treatment. The police are investigating, and the death investigation has been postponed.
-
-🟩
-
-A 4 -year -old girl has died after a grandmother's pill was caught in the throat of a girl.
-
-The girl who was admitted to the Intensive Care Unit of the Peradeniya Sirimavo Bandaranaike Children's Hospital has died yesterday (11) after the unconscious girl was admitted to the Mahiyanganaya Hospital.
-
-The mother has been living at home with grandparents and two sisters as the mother has gone to Vavinadu.
-
-Police investigations have revealed that the father was living in another house near their home.
-
-The pill trapped in the throat of the girl at Mahiyanganna Hospital has been removed and the Peradeniya Sirimavo Bandaranaike has been transferred to the Bandaranaike Children's Hospital for further treatment.
-
-Sudden Death Inspector Amal Jayawardena had taken action to postpone the death investigation until the investigation was received. Remble
-
-◼️
-
-[Data](articles/021df6c1.json)
-
-[Extended Data](ext_articles/021df6c1.ext.json)
 
 ---

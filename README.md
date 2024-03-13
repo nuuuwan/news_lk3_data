@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 19:33:34**
+As of **2024-03-13 19:50:44**
 
 ## Newspaper Stats
 
-*Scraped **12,684** Articles*
+*Scraped **12,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,59 @@ adaderanalk | 1,530
 tamilmirrorlk | 1,546
 virakesarilk | 1,765
 dailymirrorlk | 1,933
-adaderanasinhalalk | 2,005
+adaderanasinhalalk | 2,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,682 (100.0%) of 12,684 articles have been extended.
+12,684 (100.0%) of 12,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### පාසල්වලට යළිත් දැනුම්දීමක්
+### රබර් වත්තක සිරුරක්
+
+*2024-03-13 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194476) · `si`
+
+මාතර වැලිගම උඩුකාව ප්‍රදේශයේ රබර්වත්තක තිබී කැපුම් තුවාල සහිතව සැක කටයුතු ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක් අද (13) ප්‍රදේශවාසින් විසින් සොයාගෙන තිබේ.
+
+වැලිගම පොලිස් නිලධාරින් සිදුකළ පරීක්ෂා කිරීමේදී මියගිය පුද්ගලයාගේ කලිසම් සාක්කුවේ තිබී මුදල් හා මුදල් බැංකුගත කළ රිසිට් පතක් සොයා ගැනුණි.
+
+මියගිය පුද්ගලයාගේ කකුලේ සහ පපු ප්‍රදේශයේ කැපුම් තුවාල තිබූ බවද වැලිගම පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/221abf33.json)
+
+---
+
+### An notification for schools
 
 *2024-03-13 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194475) · `si`
 
-පවතින අධික උණුසුම් කාලගුණය මත පාසල් දරුවන් එළිමහන් ක්‍රියාකාරකම්වල යෙදවීමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යාංශය දැනුම්දී තිබියදී අදත් පාසල් දරුවන් ක්‍රීඩා පුහුණුවීම් සඳහා යොමුකර තිබෙනු දක්නට ලැබුණි.
+The Ministry of Education has advised schools to avoid outdoor activities due to hot weather, emphasizing safety. Provincial Directors have been informed, and the Colombo district has been reported at risk. Highest temperatures recorded in the last 24 hours were 37.9 degrees in Western, Sabaragamuwa, North Central, and Southern provinces.
 
-මෙම හේතුවෙන්, අධ්‍යාපන අමාත්‍යාංශය සියලු පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන්ට යළිත් ලිපියක් යොමුකර තිබේ.
+🟩
 
-ඉන් අවධාරණය කර ඇත්තේ පාසල් සිසුන්ගේ ආරක්ෂාව තහවුරු කිරීම විදුහල්පතිවරුන්ගේ වගකීම බවය.
+The Ministry of Education has been informed of the Ministry of Education today to prevent school children to avoid outdoor activities in the hot weather.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ දිස්ත්‍රික්ක කිහිපයකටම තවදුරටත් මෙම උෂ්ණ අධික කාලගුණ තත්ත්වය අවදානම් මට්ටමේ පවතින බවය.
+As a result, the Ministry of Education has sent back a letter to all Provincial Directors.
 
-ඒ අනුව අද (13) දිනයේදීත් කොළඹ දිස්ත්‍රික්කයට සෙල්සියස් අංශක 35කට ආසන්න උෂ්ණත්වයක් වාර්තා වුණි.
+It emphasized that the maintenance of the principals is to ensure the safety of schoolchildren.
 
-ගතවූ පැය 24 තුළ වැඩිම උෂ්ණත්වය සෙල්සියස් අංශක 37.9ක් ලෙස පුත්තලම දිස්ත්‍රික්කයෙන් වාර්තාවූ අතර බස්නාහිර,සබරගමුව,උතුරුමැද සහ දකුණ යන පළාත්වලත් වව්වනියාව,මන්නාරම සහ මොනරාගල දිස්ත්‍රික්කවලත් අද පැවතුණේ අවධානම් සහිත උෂ්ණාධික කාලගුණයකි.
+The Department of Meteorology says that several districts are at risk at risk.
+
+Accordingly, the Colombo district was also reported today (13).
+
+The highest temperature in the last 24 hours, the highest temperature was 37.9 degrees in the Western, Sabaragamuwa, North Central and Southern provinces.
 
 ◼️
 
 [Data](articles/51e7b0de.json)
+
+[Extended Data](ext_articles/51e7b0de.ext.json)
 
 ---
 
@@ -71,6 +93,8 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 ...
 
 [Data](articles/68e00ef2.json)
+
+[Extended Data](ext_articles/68e00ef2.ext.json)
 
 ---
 
@@ -2455,27 +2479,5 @@ The deceased is a 26 -year -old woman and Beruwala police have sought the help o
 [Data](articles/fe912d51.json)
 
 [Extended Data](ext_articles/fe912d51.ext.json)
-
----
-
-### IMF review team discuss Sri Lanka energy pricing, utility finances
-
-*2024-03-13 10:12:00* · [`economynextcom`](https://economynext.com/imf-review-team-discuss-sri-lanka-energy-pricing-utility-finances-154461/) · `en`
-
-ECONOMYNEXT – A visiting International Monetary Fund team has reviewed the pricing and balance sheets of state-run Ceylon Electricity Board and Ceylon Petroleum Corporation, Energy Minister Kanchana Wijesekera said.
-
-The IMF team headed by Senior Mission Chief Peter Breuer had discussed a recent electricity tariff cut, and reviewed the progress on commitment on CEB and CPC, and their balance sheets, he said in an x.com post.
-
-The current financial position of CEB, accounting principles and standards adopted, automation of bulk supply tariff filing, conducting a dispatch audit, outstanding payments and forecasts for 2024, were discussed, Minister Wijesekera said.
-
-Sri Lanka cut electricity prices 21 percent, with steeper 33 percent cut for smaller users in what is to be an election year.
-
-The Ceylon Petroleum Corporation pricing formula and its operations were also discussed, he said.
-
-...
-
-[Data](articles/7f1a353f.json)
-
-[Extended Data](ext_articles/7f1a353f.ext.json)
 
 ---

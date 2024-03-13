@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 22:17:52**
+As of **2024-03-13 22:34:03**
 
 ## Newspaper Stats
 
-*Scraped **12,699** Articles*
+*Scraped **12,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,089
-adaderanalk | 1,532
+adaderanalk | 1,534
 tamilmirrorlk | 1,549
 virakesarilk | 1,765
-dailymirrorlk | 1,936
-adaderanasinhalalk | 2,009
+dailymirrorlk | 1,937
+adaderanasinhalalk | 2,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,698 (100.0%) of 12,699 articles have been extended.
+12,699 (100.0%) of 12,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### Govt to facilitate swift repatriation of fishermen aboard ‘Lorenzo Putha-4’
+
+*2024-03-13 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97935/govt-to-facilitate-swift-repatriation-of-fishermen-aboard-lorenzo-putha-4) · `en`
+
+State Minister of Fisheries, Piyal Nishantha de Silva, announced plans to launch a new multi-day fishing trawler equipped with modern technology and advanced operational techniques to enhance the fishing industry.
+
+The State Minister further stated that President Ranil Wickremesinghe has instructed the Ministry of Foreign Affairs, via the Attorney General, to facilitate the swift repatriation of the fishermen aboard the “Lorenzo Putha-4” fishing vessel back to Sri Lanka.
+
+These statements were made by the State Minister during a press briefing held at the Presidential Media Centre today (13), focusing on the theme “Collective Path to a Stable Country”.
+
+Expressing his views further State Minister Piyal Nishantha de Silva said;
+
+...
+
+[Data](articles/68952812.json)
+
+---
+
+### පරාටේ ගැන බැංකු ගත් තීරණය මෙන්න
+
+*2024-03-13 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194480) · `si`
+
+පාර්ලිමේන්තුව හරහා පවතින නීති සංශෝධනය කරන තුරු, බැංකු සුදුසු අවස්ථාවලදී පරාටේ ප්‍රතිකර්මය භාවිත කරන බව ශ්‍රී ලංකා බැංකු සංගමය පවසයි.
+
+එවන් පසුබිමක ඇපයට තැබූ හිඟුරක්ගොඩ, ගල්කන්ද ප්‍රදේශයේ සංචාරක හෝටලයක් වෙන්දේසි කර තමන් සතු කරගැනීමට රාජ්‍ය අනුබද්ධ බැංකුවක් ඊයේ (12) කටයුතු කර තිබුණි.
+
+ඉදිකිරීම් අඩක් නිමවූ මෙම හෝටලයේ ඔප්පුව එම බැංකුවේ ඇපයට තබා එහි හිමිකරු රුපියල් ලක්ෂ 80ක ණය මුදලක් ලබාගෙන තිබුණේ 2019 වසරේදීය.
+
+කෙසේවෙතත්, පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය, කොවිඩ් වසංගතය ඇතුළු තත්ත්වයන් හේතුවෙන් ණය මුදල ගෙවා අවසන් කිරීමට ඔහුට නොහැකි වීම නිසා බැංකුව එය වෙන්දේසි කිරීමට තීරණය කර තිබේ.
+
+ඒ අනුව බැංකුව ඊයේ පස්වරුවේදී හෝටලයට රුපියල් ලක්ෂ 140ක ලංසුවක් තැබූවත් වෙනත් කිසිවෙකු ඉදිරිපත් නොවීම නිසා හෝටලය තමන් සතුකර ගත්තේය.
+
+පරාටේ නීතිය මාස 10ක් සඳහා තාවකාලිකව අත්හිටුවීමට නියෝග කර ඇති පසුබිමක මෙය සිදුකිරීම සම්බන්ධයෙන් හෝටලයේ හිමිකරු පළකළේ දැඩි අප්‍රසාදයකි.
+
+◼️
+
+[Data](articles/f1423c0f.json)
+
+---
+
+### IGP holds critical meetings with senior officers to tackle rising gun violence in South
+
+*2024-03-13 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IGP-holds-critical-meetings-with-senior-officers-to-tackle-rising-gun-violence-in-South/108-278800) · `en`
+
+In the wake of the concerning surge in shootings within the Southern Province recently, IGP Deshabandu Tennakoon convened a critical meeting with senior police officers today to address the escalating violence that has resulted in multiple fatalities and injuries across the region.
+
+Police said the IGP met with senior officers of the Galle and Elpitiya Police Divisions.
+
+Recent incidents include the tragic shooting of a Public Health Inspector in the Elpitiya police area on February 26, 2024 as well as a shooting incident in Pitigala on March 11 where two individuals were killed and several others sustained injuries.
+
+Also, another shooting occurred in Ambalangoda on the same day, claiming the lives of two individuals and injuring three others.
+
+The Senior Deputy Inspector General of the Southern Province, the Galle DIG and senior police officials from both the Galle and Elpitiya Police Divisions joined the meeting with the IGP.
+
+...
+
+[Data](articles/d4ab9def.json)
+
+---
 
 ### Deputy Director of Medical Supplies Division arrested
 
@@ -68,17 +128,43 @@ The precious relationship with the leader Njjamal and Mushficer Rahimphas have h
 
 ---
 
-### நாடு திரும்பிய வைத்தியர் திடீர் கைது
+### Chinese military delegation visited Sri Lanka, Maldives and Nepal – report
+
+*2024-03-13 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97934/chinese-military-delegation-visited-sri-lanka-maldives-and-nepal-report) · `en`
+
+A Chinese military delegation recently visited the Maldives, Sri Lanka and Nepal to discuss further cooperation in defence issues, Beijing said Wednesday.
+
+Beijing is seeking to build closer ties in South Asia in a push to counter its strategic rival India for influence.
+
+Last week, the Maldives said it had signed a “military assistance” deal with China after ordering Indian troops deployed in the small but strategically-placed archipelago to leave.
+
+And Beijing confirmed Wednesday that a delegation had visited the country and met with pro-China President Mohamed Muizzu during a trip that also took them to Sri Lanka and Nepal from March 4 to 13.
+
+In all three countries, “they exchanged views on military relations and regional security issues of common concern”, the Chinese military said in a statement on its official WeChat account.
+
+...
+
+[Data](articles/062a0599.json)
+
+---
+
+### Doctor's sudden arrest
 
 *2024-03-13 21:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பிய-வைத்தியர்-திடீர்-கைது/175-334621) · `ta`
 
-சர்ச்சைக்குரிய ஹியுமன் இம்யூனோகுளோபுலின் ஊசி மருந்து சம்பவம் தொடர்பில் மருந்து விநியோகப்பிரிவின் பிரதிப் பணிப்பாளர் வைத்தியர் துஷித சுதர்சன கைது செய்யப்பட்டுள்ளார்.
+Dr. Dushitha Sudarshana, Deputy Director of the Drug Distribution Division, arrested in Sri Lanka for the Human immunoglobulin injection incident.
 
-இலங்கை வந்தடைந்த அவரை குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்துள்ளதாக தெரிவிக்கப்படுகிறது. R
+🟩
+
+Deputy Director of the Drug Distribution Division, Dr. Dushitha Sudarshana has been arrested in connection with the controversial Human immunoglobulin injection incident.
+
+He has arrived in Sri Lanka at the Katunayake airport.. Remble
 
 ◼️
 
 [Data](articles/b19f30a4.json)
+
+[Extended Data](ext_articles/b19f30a4.ext.json)
 
 ---
 
@@ -2357,103 +2443,5 @@ Hours later, Trump clinched the 1,215 delegates required to secure the Republica
 [Data](articles/eb23073e.json)
 
 [Extended Data](ext_articles/eb23073e.ext.json)
-
----
-
-### Sri Lanka will raise cricket in Japan
-
-*2024-03-13 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194451) · `si`
-
-Sri Lanka's cricket promotion in Japan includes sending players, teams, coaches, and stadiums for training and T20 tournaments, with Japanese players getting exposure to LPL groups.
-
-🟩
-
-SLC has agreed to promote cricket in Japan.
-
-Accordingly, SLC announced that the SLC and the Japanese Cricket Association had signed a consential agreement.
-
-According to the agreement, Sri Lanka's players, cricket teams, coaches and stadiums are to be sent to Japan and train the country.
-
-The announcement further states that the country is scheduled to be sent for T20 tournaments in Japan.
-
-Japanese players are also chance to practice with LPL groups.
-
-◼️
-
-[Data](articles/3b7ff516.json)
-
-[Extended Data](ext_articles/3b7ff516.ext.json)
-
----
-
-### Sri Lankan woman is Chinese women at a child
-
-*2024-03-13 11:10:45* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-කාන්තාවකට-දරුවකු-දී-චීන-කත-පලායයි/11-408581) · `si`
-
-A Sri Lankan woman, a resident of Pothuhera, Kurunegala, is waiting for her child, a Chinese woman's child, at Katunayake Airport. The child was handed over to the airport by a high-ranking police officer. The Sri Lankan woman has been watching the child for years and has complained to the police about the delay. The LTTE has informed the airport that the Chinese mother and her mother have gone to their country. The Sri Lankan woman has willingly adopted the Chinese National Youth.
-
-🟩
-
-The Chinese woman said that a Chinese woman to take more than three years old at the Katunayake airport, Katunayake Airport said. A Sri Lankan woman had not returned to the child to take more than the child, a high-ranking police officer said that the child had been handed over to the Katunayake airport. The Sri Lankan woman, a resident of Pothuhera, Kurunegala, has been waiting for the years and has been watching the child.
-
-The woman informed the woman in return to the house of her mother in her householder, daughter and mother. Therefore, according to a notice that was to arrive at the Katunayake Airport, the Sri Lankan woman had gone to the airport and hoped for them to come.
-
-Sri Lankan woman has also complained to the police and complained to the police as they had not seen several hours. The LTTE has informed the airport if the Chinese mother of the Chinese mother and her mother of her mother and she had gone to their country.
-
-...
-
-[Data](articles/d468d7de.json)
-
-[Extended Data](ext_articles/d468d7de.ext.json)
-
----
-
-### "The cause of my husband's death is the cause of the Navy"
-
-*2024-03-13 11:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எனது-கணவரின்-சாவிற்கு-கடற்படையும்-காரணம்/71-334598) · `ta`
-
-The wife of a man killed by a gang accuses the Karainagar Navy of his death. They were abducted near Ponnala Bridge, escaped to a naval camp, but were chased out by Marines. She believes the Navy's lack of action led to her husband's death.
-
-🟩
-
-The wife of a young man who died has accused the Karainagar Navy of the death of my husband.
-
-On the way back to the husband and wife of Karainagar, a violent gang who abducted her husband and wife has murdered her husband.
-
-When I and my husband returned home on a motorcycle on a motorcycle, we tried to hijack us in a mob, which led us near the Ponnala Bridge.
-
-At that time, I and my husband escaped and sought refuge in a nearby naval camp. The Marines chased us from there.
-
-We pleaded with the Navy, "Save us, save us,". But, they chased us out of the camp
-
-If the Marines walked with humanity and gave us refuge, my husband's life is separated. He said that the Navy was somewhat responsible for my husband's death.
-
-...
-
-[Data](articles/b4817335.json)
-
-[Extended Data](ext_articles/b4817335.ext.json)
-
----
-
-### Conflict between prisoners in Moneragala Prison
-
-*2024-03-13 10:55:10* · [`adalk`](https://www.ada.lk/breaking_news/මොණරාගල-බන්ධනාගාරයේ-රැදවියන්-අතර-ගැටුමක්/11-408580) · `si`
-
-In Moneragala Prison, a conflict between inmates led to a hearing with cut wounds. The incident involved two special inmates from Polgas Yaya, engaged in carrom games. A knife was confiscated, and one inmate is in custody. The injured are receiving treatment at Moneragala General Hospital, with the suspect to be presented to the Moneragala Magistrate's Court.
-
-🟩
-
-A hearing between two inmates in the Moneragala Prison has been admitted to the Moneragala and Hospital with cut wounds.
-
-The incident was injured in the Forty-eight, a resident of Polgas Yaya, Polgas Yaya. Each number 01 special inmates have been engaged in carromes in the Moneragala Prison.. At the verdictor of the Prison, a small knife was taken into custody and the other face was taken into custody by the Prison Officers of the Prison Officers.
-
-A spokesman at Moneragala Police are receiving treatment at the Moneragala General Hospital in the Moneragala General Hospital for the attack.. The suspect is presented to the police to the police and the police are to be table to the Moneragala Magistrate's Court.
-
-◼️
-
-[Data](articles/338abd5f.json)
-
-[Extended Data](ext_articles/338abd5f.ext.json)
 
 ---

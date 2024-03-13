@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 11:52:29**
+As of **2024-03-13 12:03:16**
 
 ## Newspaper Stats
 
-*Scraped **12,598** Articles*
+*Scraped **12,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,076
-adaderanalk | 1,518
+adaderanalk | 1,519
 tamilmirrorlk | 1,533
-virakesarilk | 1,752
+virakesarilk | 1,754
 dailymirrorlk | 1,918
 adaderanasinhalalk | 1,983
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 1,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,595 (100.0%) of 12,598 articles have been extended.
+12,598 (100.0%) of 12,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### இலங்கையில் இராணுவதளமொன்றை உருவாக்க சீனா முயல்கின்றது - அமெரிக்கா
+
+*2024-03-13 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178603) · `ta`
+
+இலங்கை உட்பட பல நாடுகளில் இராணுவ கட்டமைப்புகளை ஏற்படுத்துவது குறித்து சீனா ஆராய்ந்து வருகின்றது என அமெரிக்க புலனாய்வு பிரிவினர் தமது சமீபத்தைய அறிக்கையில் தெரிவித்துள்ளதாக ஐஏஎன்எஸ் செய்தி வெளியிட்டுள்ளது.
+
+ஜிபுட்டியில் உள்ள அதன் இராணுவதளத்தையும் கம்போடியாவில் உள்ள அதன் கடற்படை தளத்தையும் மேலும் வலுப்படுத்தும் நடவடிக்கைகளில் ஈடுபட்டுள்ள சீனா இதற்கு அப்பால் இலங்கை உட்பட பல நாடுகளில் தனது தளங்களை உருவாக்க முயல்கின்றது என அமெரிக்க புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்  என ஐஏன்என்எஸ் தெரிவித்துள்ளது.
+
+சீனா 2035  ஆண்டளவில் முழுமையாக நவீனமயமாக்கப்பட்ட தேசிய பாதுகாப்பு மற்றும் இராணுவ படையை உருவாக்குவது குறித்து கவனம் செலுத்துகின்றது 2049ம் ஆண்டுக்குள் சீன இராணுவத்தை உலகதரம் வாய்ந்ததாக மாற்றுவதற்கு திட்டமிட்டுள்ளது என அமெரிக்க புலனாய்வு அமைப்புகள் மதிப்பிட்டுள்ளன.
+
+...
+
+[Data](articles/8d27e157.json)
+
+---
+
+### Brother-in-law wanted over teen girl’s murder in Elpitiya arrested
+
+*2024-03-13 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/97917/brother-in-law-wanted-over-teen-girls-murder-in-elpitiya-arrested) · `en`
+
+The prime suspect in the murder of a 17-year-old girl from Elpitiya was arrested on Tuesday night (March 12), the police said.
+
+The arrestee was identified as the deceased’s brother-in-law, named Sudesh Priyankara. During interrogations, he has confessed to killing his wife’s younger sister over her romantic involvement with another man.
+
+The suspect was placed behind bars on remand until March 21 after being produced before the Elpitiya Magistrate’s Court.
+
+About a month-and-a-half ago, Hansika Nadeeshani, originally from Thalgahawatta area of Mandakanda in Karandeniya, had stayed with her sister for a while to help take care of her two kids. During her stay, she was purportedly romantically involved with her brother-in-law, according to police reports.
+
+According to Nadeeshani’s father, she had been forcibly taken away by her brother-in-law on two occasions, however, the parents had managed to bring her back home.
+
+...
+
+[Data](articles/46af21e9.json)
+
+---
+
+### இந்தோனேஷியாவில் படகு கவிழ்ந்ததால் இருவர் பலி 22 பேர் மாயம்
+
+*2024-03-13 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178597) · `ta`
+
+இந்தோனேஷியாவில் படகு ஒன்று கவிழ்ந்ததால் இருவர் உயிரிழந்ததுடன் மேலும் 22 பேர் காணாமல் போயுள்ளனர் என அதிகாரிகள் இன்று தெரிவித்துள்ளனர்.
+
+தென் சுலாவெசி மாகாணததின் சேலாயார் தீவுப் பகுதியில் கடந்த சனிக்கிழமை இப்படகு கவிழ்ந்தது.
+
+இப்படகில் 35 மீனவர்கள் இருந்தனர் எனவும் அவர்களில் 11 பேர் 3 நாட்களாக நிர்க்கதியாக மிதந்துகொண்டிருந்த பின்னர்  இரு சிறிய தீவுகளில் வைத்து  மீட்கப்பட்டனர் எனவும் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/48f8e7f5.json)
+
+---
+
+### A luxury car collided with three wheelers in Dehiwala
+
+*2024-03-13 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178594) · `ta`
+
+A luxury car collided with three wheelers in Dehiwala on Tuesday evening in Kalubowila.
+
+🟩
+
+It is reported that the accident took place on Tuesday evening (12) evening in Kalubowila, Dehiwala.
+
+◼️
+
+[Data](articles/33eef6cf.json)
+
+[Extended Data](ext_articles/33eef6cf.ext.json)
+
+---
 
 ### Biden, Trump clinch nominations, kicking off bruising presidential rematch
 
@@ -47,24 +117,6 @@ Hours later, Trump clinched the 1,215 delegates required to secure the Republica
 [Data](articles/eb23073e.json)
 
 [Extended Data](ext_articles/eb23073e.ext.json)
-
----
-
-### A luxury car collided with three wheelers in Dehiwala
-
-*2024-03-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178594) · `ta`
-
-A luxury car collided with three wheelers in Dehiwala on Tuesday evening in Kalubowila.
-
-🟩
-
-It is reported that the accident took place on Tuesday evening (12) evening in Kalubowila, Dehiwala.
-
-◼️
-
-[Data](articles/33eef6cf.json)
-
-[Extended Data](ext_articles/33eef6cf.ext.json)
 
 ---
 
@@ -474,6 +526,8 @@ The Ceylon Petroleum Corporation pricing formula and its operations were also di
 
 [Data](articles/7f1a353f.json)
 
+[Extended Data](ext_articles/7f1a353f.ext.json)
+
 ---
 
 ### Sri Lankan embassy
@@ -665,6 +719,8 @@ The Colombo Stock Exchange opened up: The All Share Price Index was up 0.27 perc
 ◼️
 
 [Data](articles/7768e835.json)
+
+[Extended Data](ext_articles/7768e835.ext.json)
 
 ---
 
@@ -985,6 +1041,8 @@ Ironically, a 20 percent tax rate, which is standard tax in East Asian nations w
 ...
 
 [Data](articles/05305ca7.json)
+
+[Extended Data](ext_articles/05305ca7.ext.json)
 
 ---
 
@@ -2177,73 +2235,5 @@ The deceased Roshan Kumarasiri was shot dead by Sub Inspector Gunawardena on dut
 [Data](articles/8858205f.json)
 
 [Extended Data](ext_articles/8858205f.ext.json)
-
----
-
-### We will meet the IMF representatives next week -Sajith Premadasa
-
-*2024-03-12 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178565) · `ta`
-
-Sajith Premadasa will meet IMF representatives next week to discuss addressing malnutrition through the IMF's Special Cooperation Program. He highlights the need for a special national program to break the cycle of nutritional deficiency, impacting productivity. Premadasa also emphasizes the importance of providing lunch to all students and preventing school closures, aiming to strengthen the educational system and protect the future of the country.
-
-🟩
-
-Increased malnutrition of baby and mothers in this country. According to a survey conducted in 2022, 25% of children aged 5-18 are lessweight children. Many such statistics show that nutritional deficiency is increasing and that mothers and children become a group of nutritional deficiency.
-
-The Opposition Leader said that the United People's Power will meet representatives of the International Monetary Fund in the next few days and the International Monetary Fund's Special Cooperation Program is needed to address the malnutrition of mothers, infants, children and school children in the country.
-
-The International Monetary Fund is the World Bank, the Asian Development Bank and the establishment of a special fund and the need for a special national program to get out of this nonsense.. The development of nutritional deficiency is equivalent to forming an evil cycle. The opposition leader added that this has a negative impact on the country's productivity.
-
-...
-
-[Data](articles/07beccca.json)
-
-[Extended Data](ext_articles/07beccca.ext.json)
-
----
-
-### Notice of future water and power supply
-
-*2024-03-12 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194439) · `si`
-
-The Ceylon Electricity Board and the National Water Supply and Drainage Board are urging the public to conserve water and electricity due to severe weather conditions. The Water Supply Board warns of potential water shortages, while the Ceylon Electricity Board highlights increased electricity demand.
-
-🟩
-
-The Ceylon Electricity Board and the National Water Supply and Drainage Board requested the public to use water and electricity from the weather these days.
-
-The Water Supply Board says that if the weather conditions will have to be released to the passage of the passage.
-
-For days still heating in the country is still heavy weather.
-
-As a result, the Ceylon Electricity Board has requested the public to use electricity to use electricity due to the increase in electricity demand.
-
-◼️
-
-[Data](articles/286820b0.json)
-
-[Extended Data](ext_articles/286820b0.ext.json)
-
----
-
-### A female body in the beach
-
-*2024-03-12 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194438) · `si`
-
-A 30-year-old female body was found on the beach in the Margalkanda Seawas area around 9 pm today.
-
-🟩
-
-The Baruwala has found a bodies of women found in the Margalkanda Seawas area.
-
-Our correspondent stated that the bodic of female was found around 9 pm today (12).
-
-The police say that a 30-year-old female body has been landed on the beach and has not been revealed about her identity.
-
-◼️
-
-[Data](articles/c4d21f8e.json)
-
-[Extended Data](ext_articles/c4d21f8e.ext.json)
 
 ---

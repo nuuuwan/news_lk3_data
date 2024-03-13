@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 16:02:50**
+As of **2024-03-13 16:17:47**
 
 ## Newspaper Stats
 
-*Scraped **12,647** Articles*
+*Scraped **12,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,081
+adalk | 1,082
 adaderanalk | 1,526
-tamilmirrorlk | 1,541
+tamilmirrorlk | 1,543
 virakesarilk | 1,762
 dailymirrorlk | 1,926
 adaderanasinhalalk | 1,992
@@ -26,11 +26,47 @@ adaderanasinhalalk | 1,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,646 (100.0%) of 12,647 articles have been extended.
+12,647 (100.0%) of 12,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### ”முட்டைக்கு விலைக் கட்டுப்பாடு விதிக்கப்படும்”
+
+*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு-விதிக்கப்படும்/175-334615) · `ta`
+
+எதிர்வரும் பண்டிகை காலத்தை முன்னிட்டு நியாயமான விலையில் முட்டைகளை வழங்கும் முயற்சியில், விலைக் கட்டுப்பாடு அமுல்படுத்தப்படவுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+விவசாய அமைச்சருக்கும் அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கப் பிரதிநிதிகளுக்கும் இடையில் இன்று (13) இடம்பெற்ற கலந்துரையாடலின் போதே இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+கலந்துரையாடலின் போது, ​​தற்போதுள்ள முட்டை விலைகள் பரிசீலனைக்கு எடுத்துக் கொள்ளப்பட்டு, தற்போது ரூ. 48 ஆக உள்ள விலையை மேலும் குறைக்க வேண்டியதன் அவசியத்தை வலியுறுத்தப்பட்டது
+
+முட்டை உற்பத்தியாளர்களும் விலை குறைவதை ஏற்கனவே அவதானித்துள்ளதால் விலையை குறைக்க விருப்பம் தெரிவித்துள்ளனர்.
+
+எவ்வாறாயினும், முட்டை உற்பத்தியாளர்கள் விலையை குறைக்கத் தவறினால் கட்டுப்பாட்டு விலை அமுல்படுத்தப்படும் என அமைச்சர் உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/3a73cb84.json)
+
+---
+
+### நியமனத்தை ரத்து செய்யக்கோரி மனுத்தாக்கல்
+
+*2024-03-13 15:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமனத்தை-ரத்து-செய்யக்கோரி-மனுத்தாக்கல்/175-334614) · `ta`
+
+பொலிஸ் மா அதிபராக தேசபந்து தென்னகோனின் நியமனத்தை ரத்து செய்யுமாறு கோரி இலங்கை இளம் ஊடகவியலாளர்கள் சங்கம் இன்று உயர் நீதிமன்றத்தில் அடிப்படை உரிமை மனுவொன்றை தாக்கல் செய்துள்ளது.
+
+இலங்கை இளம் ஊடகவியலாளர்கள் சங்கத்தின் சார்பில் அதன் தலைவர் தரிந்து ஜயவர்தன, செயலாளர் எம்.எப்.எம்.பசீர், ஒருங்கிணைப்பாளர் ஷாலிகா விமலசேன, பொருளாளர் நிரோஷ் மைத்திரி, குழு உறுப்பினர் தரிந்து உடுவரகெதர, உப தலைவர் பி.நிரோஷ்குமார், உறுப்பினர் ரேகா நிலுக்ஷி ஆகியோர் இந்த மனுவைத் தாக்கல் செய்துள்ளனர்.
+
+தேசபந்து தென்னகோன் நியமனம் சட்டவிரோதமானது, தன்னிச்சையானது, பகுத்தறிவற்றது மற்றும் அரசியலமைப்பின் விதிகளுக்கு முரணானது மற்றும்  அதனை மீறுவது என மனுவில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/29aef43d.json)
+
+---
 
 ### AI to be included to ICT curriculum from Grade 08
 
@@ -49,6 +85,8 @@ The Education Minister expressed these views while joining the commemoration eve
 ◼️
 
 [Data](articles/c3559f58.json)
+
+[Extended Data](ext_articles/c3559f58.ext.json)
 
 ---
 
@@ -151,6 +189,22 @@ Minister of Health and Industry Dr. Ramesh Pathirana will also attend the event.
 [Data](articles/bb9605bb.json)
 
 [Extended Data](ext_articles/bb9605bb.ext.json)
+
+---
+
+### තම පියා අතවර කළ බවට බොරු පැමිණිලි කළ කතුන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-03-13 15:09:37* · [`adalk`](https://www.ada.lk/breaking_news/තම-පියා-අතවර-කළ-බවට-බොරු-පැමිණිලි-කළ-කතුන්-දෙදෙනෙකු-අත්අඩංගුවට/11-408589) · `si`
+
+සිය පියා විසින් ඥාති සොයුරියකට ලිංගික අතවර කල බවට අසත්‍ය පැමිණිලි කල දියණියක සහ අසත්‍ය ප්‍රකාශ පොලිසියට ලබාදුන් ඇයගේ ඥාති සොයුරිය අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර වඳුරම් මුල්ල ප්‍රදේශයේ පදිංචි 42 සහ 22 හැවිරිදි කාන්තාවන් දෙදෙනෙකු බව පොලිසිය කීය.සිය පියා ඥාති සොයුරියට ලිංගික අතවර කරන බවට පළමු සැකකාරිය කල පැමිණිල්ලක් මත පොලිසිය ඇයගේ ඥාති සොයුරියගෙන් ප්‍රකාශ සටහන් කර ගැනීමේදී ලොකු අප්පා තමාට ලිංගික අතවර කල බවට ඇයද ප්‍රකාශ ලබාදුන් බව පොලිසිය කීය.
+
+ඒ අනුව සැකකරු අත්අඩංගුවට ගෙන පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු දින 14 ක් රිමාන්ඩ් බන්ධනාගාර ගත කල බවද පොලිසිය පවසයි. පානදුර ප්‍රධාන මහේස්ත්‍රාත් වරයාගෙන් ලද නියෝග මත වැඩිදුර විමර්ශන කල පොලිසිය ස්ථානීය පරීක්ෂණය සිදුකිරීමේදී ලිංගික අතවරයක් සිදුව නොමැති බවට අනාවරණය කරගෙන තිබේ.
+
+...
+
+[Data](articles/999237cf.json)
 
 ---
 
@@ -2263,75 +2317,5 @@ Misty conditions can be expected at some places in Western and Sabaragamuwa prov
 [Data](articles/7b69bc23.json)
 
 [Extended Data](ext_articles/7b69bc23.ext.json)
-
----
-
-### University non-academic workers on strike
-
-*2024-03-13 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194443) · `si`
-
-University non-academic staff on strike due to unresolved salary issues. Trade union action continues, with a promise to address wage cuts. If not resolved, continuous strike from next week.
-
-🟩
-
-A trade union action initiated by university non-academic staff workers on a salary problem will continue today (13).
-
-Mr. KLDG Richmond, Mr. K.L.DG Richmond said, "The Trade Union Program will take place up to 4.30 pm.
-
-"Non-familial staff left the service with the 17 national universities in the country yesterday afternoon. The main reason for this was the main reason for the discussion on January 22, we promised to correct the wage cuts of universities. I still haven't fixed it. So the strike is on. If the authorities do not solve this, we will have to go on continuous strike from next week. "
-
-◼️
-
-[Data](articles/ddca9239.json)
-
-[Extended Data](ext_articles/ddca9239.ext.json)
-
----
-
-### Woman murdered in a hotel room - Suspect's neck
-
-*2024-03-13 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194442) · `si`
-
-A woman was murdered in a hotel room in Pottuvil. The suspect, who was with the victim, was found in the bathroom. The victim was a 51-year-old resident of Pottuvil.
-
-🟩
-
-A woman was attacked with a sharp instrument and murdered and murdered and killed and killed.
-
-The police media division announced that a woman who was staying in a room in a hotel in the Pottuvil police division of the Pottuvil police division.
-
-The deceased woman has come to stay in a room with a person, and the manager has told the officials in the room with them.
-
-It has been observed that blood in the room was dead in the room and that the suspect had been haned in the bathroom in the jungle.
-
-The victim was a 51 year old resident of Pottuhtuvil area.
-
-◼️
-
-[Data](articles/d3ca14de.json)
-
-[Extended Data](ext_articles/d3ca14de.ext.json)
-
----
-
-### Sri Lanka to get tough - Tourists doing business
-
-*2024-03-13 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-get-tough-Tourists-doing-business/155-278731) · `en`
-
-- Raids are presently being conducted in the south to identify illegally run businesses
-
-- In future, foreigners will need a local partner to operate businesses
-
-Colombo, March 13 (Daily Mirror) - The government will soon strengthen its laws to prevent foreign nationals from operating businesses in the country while they are under tourist visas and have already begun conducting raids in the south, the Daily Mirror learns.
-
-Earlier this month, the Daily Mirror exclusively reported that several foreign nationals including Russians, Ukrainians and Israelis who were in Sri Lanka under tourist visas were operating businesses in tourist hotspots which had severely hampered the local tourist industry.
-
-From running cafes, restaurants, bars to exchanging money and running undial services and providing accommodation and transport, several foreign nationals who have been in the country long term due to conflicts in their own countries, seem to have taken the law for granted.
-
-...
-
-[Data](articles/2b1edb82.json)
-
-[Extended Data](ext_articles/2b1edb82.ext.json)
 
 ---

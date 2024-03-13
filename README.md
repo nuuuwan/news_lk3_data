@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 00:17:46**
+As of **2024-03-14 00:33:33**
 
 ## Newspaper Stats
 
-*Scraped **12,721** Articles*
+*Scraped **12,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 680
 islandlk | 686
 adalk | 1,089
 adaderanalk | 1,534
-tamilmirrorlk | 1,550
+tamilmirrorlk | 1,551
 virakesarilk | 1,765
 dailymirrorlk | 1,943
 adaderanasinhalalk | 2,010
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,716 (100.0%) of 12,721 articles have been extended.
+12,721 (100.0%) of 12,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Next week, the United Nations will mark the International Day of Happiness. In a
 
 [Data](articles/12c753d0.json)
 
+[Extended Data](ext_articles/12c753d0.ext.json)
+
 ---
 
 ### IMF meeting snub and the opposition’s opportunism at the nation’s misery
@@ -59,6 +61,8 @@ Sri Lankan politics suffer from a strong sense of self-seeking opportunism that 
 ...
 
 [Data](articles/442a5758.json)
+
+[Extended Data](ext_articles/442a5758.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Given the imperative of fiscal discipline, Sri Lanka can no longer turn to the e
 
 [Data](articles/5109a653.json)
 
+[Extended Data](ext_articles/5109a653.ext.json)
+
 ---
 
 ### Sri Lanka failed to ‘meet’ 33% of IMF commitments due by end-Feb
@@ -92,9 +98,31 @@ The status of 36% of the commitments are classified as ‘unknown’, which mean
 
 [Data](articles/6f91412c.json)
 
+[Extended Data](ext_articles/6f91412c.ext.json)
+
 ---
 
 ### 2024-03-13 (Wednesday)
+
+### அவுஸ்திரேலியாவில் இலங்கை தம்பதியினர் சடலங்கள் மீட்பு
+
+*2024-03-13 23:56:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியாவில்-இலங்கை-தம்பதியினர்-சடலங்கள்-மீட்பு/175-334635) · `ta`
+
+அவுஸ்திரேலியாவின் மெல்பேர்ன் வீதியில் உள்ள வீடு ஒன்றிற்கு முன்னால் இலங்கை வம்சாவளியைச் சேர்ந்த வயோதிப தம்பதியினரின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+
+Doyne Caspersz  மற்றும் அவரது மனைவி Marlene Caspersz ஆகியோரே இறந்ததாக அடையாளம் காணப்பட்டுள்ளனர்.
+
+70 மற்றும் 80 வயதுக்குட்பட்ட இவர்களது மரணத்திற்கான காரணம் இதுவரை வெளிவராத போதிலும், இந்த மரணத்தில் சந்தேகம் இல்லை என பொலிஸார் கூறியதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+மேலும், இவர்களது மரணத்திற்கு அவுஸ்திரேலியாவில் தற்போது நிலவும் அதிக வெப்ப அலை காரணம் என்றும் கூறப்படுகின்றது.
+
+உயிரிழந்த தம்பதியினர் சுமார் இருபத்தைந்து வருடங்களாக அப்பகுதியில் வசித்து வருகின்றனர், அவுஸ்திரேலியாவில் உள்ள இலங்கை இன சமூகத்தை பிரதிநிதித்துவப்படுத்தும் அமைப்பின் உப தலைவராகவும் Doyne Caspersz கடமையாற்றியுள்ளார்.  R
+
+◼️
+
+[Data](articles/8b2f74da.json)
+
+---
 
 ### Harsha non-committal on Ranil’s claim
 
@@ -109,6 +137,8 @@ Also he said Sri Lanka should be a stakeholder of fast developing Indian states 
 ◼️
 
 [Data](articles/0977544f.json)
+
+[Extended Data](ext_articles/0977544f.ext.json)
 
 ---
 
@@ -2401,35 +2431,5 @@ In addition, the Price of Wilpana has been announced at 2100 rupees, Cauliflower
 [Data](articles/52844fb7.json)
 
 [Extended Data](ext_articles/52844fb7.ext.json)
-
----
-
-### Good doctor to go to the house
-
-*2024-03-13 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194453) · `si`
-
-Dr. Sachith Bandara of Candagolla Regional Hospital in Badulla is providing home visits to patients due to economic hardship, treating non-influential diseases. Despite the hospital being 15 km away, patients are grateful for the support.
-
-🟩
-
-We were reported from the Kandagal area, Badulla, Badulla and other staff.
-
-Candagolla Regional Hospital is a 15 km away from Badulla town.
-
-But the patients have to spend a lot of visit to the hospital in the present economic hardship.
-
-The Chief Medical Officer of the hospital has already begun to treat patients who have been treated for a period of time.
-
-Candagolla Regional Hospital, Chief Medical Officer, Dr. Sachith Bandara,
-
-"In the past year, what they saw in the last year to clintest non-influential diseases of the last year, they have a lot to come to our Hospitals to come to our Hospitals. That means hardship, they are there with the mountains, and there are many hardships. There are people who cannot come because of economic problems. Take the result that we should go to the house of the same. I'm close to me, so closely close to the staff at the staff at all. They give good support. The duty on the duty on-on. So no problem. Most happy work. "
-
-Accordingly, there are over 50 patients.
-
-...
-
-[Data](articles/0e754278.json)
-
-[Extended Data](ext_articles/0e754278.ext.json)
 
 ---

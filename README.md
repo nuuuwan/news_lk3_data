@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 12:17:34**
+As of **2024-03-13 12:33:19**
 
 ## Newspaper Stats
 
-*Scraped **12,603** Articles*
+*Scraped **12,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 686
 adalk | 1,076
 adaderanalk | 1,519
 tamilmirrorlk | 1,535
-virakesarilk | 1,754
+virakesarilk | 1,755
 dailymirrorlk | 1,918
 adaderanasinhalalk | 1,983
 
@@ -26,27 +26,61 @@ adaderanasinhalalk | 1,983
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,601 (100.0%) of 12,603 articles have been extended.
+12,603 (100.0%) of 12,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### யாழ்.இளைஞன் படுகொலை: கிளிநொச்சியில் நால்வர் கைது
+### காசாவில் பட்டினி ஒரு போர் ஆயுதமாக பயன்படுத்தப்படுகின்றது -  ஐரோப்பிய ஒன்றியம்
+
+*2024-03-13 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178604) · `ta`
+
+காசாவில் பட்டினி  ஒரு போர் ஆயுதமாக பயன்படுத்தப்படுகின்றது என ஐரோப்பிய ஒன்றியத்தின் வெளிவிவகார கொள்கை தலைவர் தெரிவித்துள்ளார்.
+
+காசாவிற்குள் போதியளவு மனிதாபிமான பொருட்கள் செல்ல முடியாமல் உள்ளதை மனிதர்கள் ஏற்படுத்திய பேரழிவு என ஜோசப்பொரொல் வர்ணித்துள்ளார்.
+
+போதிய தரைப்பாதைகள் இல்லாததே காசாவில் உருவாகியுள்ள மனிதாபிமான நெருக்கடிக்கான காரணம் என  ஐநாவில் உரையாற்றுகையி;ல் ஐரோப்பிய ஒன்றியத்தின் வெளிவிவகார கொள்கை தலைவர் தெரிவித்துள்ளார்.
+
+காசாவிற்குள் மனிதாபிமான உதவிகள் செல்லவேண்டும் ஐரோப்பிய ஒன்றியம் அதற்கான முயற்சிகளில் ஈடுபட்டுள்ளது இது மனிதனால் உருவான நிலைமை கடல் மற்றும் வான்வெளி மூலம் விநியோகங்களை மேற்கொள்வதற்கான மாற்றுவழிகளை ஆராய்ந்து வருகின்றோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+வீதிவழியாக மனிதாபிமான உதவிகளை வழங்கும் நடவடிக்கைகள் செயற்கையாக முடக்கப்பட்டுள்ளன எனவும் அவர் தெரிவித்துள்ளார்.
+
+பட்டினி என்பது போர் ஆயுதமாக பயன்படுத்தப்படுகின்றது உக்ரைனில் இது இடம்பெறும்போது கண்டிக்கும் நாங்கள் காசாவிலும் அதேவார்த்தைகளை பயன்படுத்தவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/decc1f04.json)
+
+---
+
+### Jaffna Massacre: Four arrested in Kilinochchi
 
 *2024-03-13 11:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-இளைஞன்-படுகொலை-கிளிநொச்சியில்-நால்வர்-கைது/71-334602) · `ta`
 
-யாழ்ப்பாணத்தில் இளைஞன் ஒருவரை கடத்தி சென்று படுகொலை செய்த குற்றச்சாட்டில் கிளிநொச்சியில் பதுங்கியிருந்த நான்கு சந்தேகநபர்கள் யாழ்.மாவட்ட குற்றத்தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Four suspects arrested in Jaffna for abducting and murdering a 23-year-old man. The victim was abducted by his wife and another couple, then attacked and left injured. The suspects, aged 37, 32, 25, and 22, were found hiding in Kilinochchi.
 
-வட்டுக்கோட்டை பகுதியை சேர்ந்த 23 வயதுடைய தவச்செல்வம் பவிதரன் எனும் இளைஞன் காரைநகர் பகுதிக்கு மோட்டார் சைக்கிளில் தனது மனைவியுடன் சென்று விட்டு வீடு திரும்பிக்கொண்டிருந்த வேளை பொன்னாலை பாலத்திற்கு அருகில் வைத்து , கணவன் மனைவி இருவரும் இருவேறு வாகனங்களில் வன்முறை கும்பல் ஒன்றினால் கடத்தப்பட்டனர்.
+🟩
 
-பின்னர் மனைவியை சித்தங்கேணி பகுதியில் இறக்கி விட்டு , கணவன் மீது தாக்குதலை மேற்கொண்டு வாளினால் வெட்டி படுகாயங்களை ஏற்படுத்திய பின்னர் வட்டுக்கோட்டை வைத்தியசாலை முன்பாக வீசி சென்று இருந்தனர்.
+Four suspects have been arrested by the Jaffna Mawatha Crime Branch for allegedly abducting and murdering a youth in Jaffna.
 
-படுகாயங்களுடன் காணப்பட்ட இளைஞனை வைத்தியசாலை பணியாளர்கள் மீட்டு , நோயாளர் காவு வண்டி ஊடாக யாழ்.போதனா வைத்தியசாலைக்கு அனுப்பி வைத்த நிலையில் வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்திருந்தார்.
+A 23 -year -old man from Vaddukoddai, Tawachelvam Pavitharan, was abducted by his wife on a motorbike with his wife on a motorbike and was abducted by a husband and wife in two vehicles.
+
+Later, the wife was dropped in the Siddhangeni area, attacked her husband and cut off the sword and threw it in front of the Vaddukoddai hospital.
+
+The hospital staff rescued the young man who was injured and sent him to the Jaffna Bodhana Hospital via a patient carriage.
+
+Four suspects were arrested after a police team, who investigated the incident, were reportedly hiding in the Kilinochchi Jayapuram area.
+
+The arrested persons have seized two motorcycles from the arrested persons and are aged 37, 32, 25 and 22, aged 37, 37, 25, 25 and 22 from Vaddukoddai and Arali.
+
+Police are conducting intensive investigations by detaining the arrested persons at the Vaddukoddai police station.
 
 ...
 
 [Data](articles/95fb56f9.json)
+
+[Extended Data](ext_articles/95fb56f9.ext.json)
 
 ---
 
@@ -80,13 +114,13 @@ In the same period, China's Communist Party has said that it is planning to use 
 
 The prime suspect in the murder of a 17-year-old girl from Elpitiya was arrested on Tuesday night (March 12), the police said.
 
-The arrestee was identified as the deceased’s brother-in-law, named Sudesh Priyankara. During interrogations, he has confessed to killing his wife’s younger sister over her romantic involvement with another man.
+The arrestee was identified as the deceased’s brother-in-law, named Sudesh Priyankara. During interrogations, he has confessed to killing his wife’s younger sister over her alleged romantic involvement with another man.
 
-The suspect was placed behind bars on remand until March 21 after being produced before the Elpitiya Magistrate’s Court.
+The suspect has been remanded until March 21 after being produced before the Elpitiya Magistrate’s Court.
 
 About a month-and-a-half ago, Hansika Nadeeshani, originally from Thalgahawatta area of Mandakanda in Karandeniya, had stayed with her sister for a while to help take care of her two kids. During her stay, she was purportedly romantically involved with her brother-in-law, according to police reports.
 
-According to Nadeeshani’s father, she had been forcibly taken away by her brother-in-law on two occasions, however, the parents had managed to bring her back home.
+According to Nadeeshani’s father, she had been forcibly taken away by her brother-in-law on two occasions, however, the parents had managed to bring her back home both times.
 
 ...
 
@@ -136,19 +170,27 @@ It is reported that the accident took place on Tuesday evening (12) evening in K
 
 ---
 
-### அரச சொத்துக்களை விற்பதை நிறுத்தவும்;எச்சரிக்கிறது NPP
+### Stop selling state assets; warns NPP
 
 *2024-03-13 11:20:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-சொத்துக்களை-விற்பதை-நிறுத்தவும்-எச்சரிக்கிறது-NPP/175-334600) · `ta`
 
-தேசியத் தேர்தல் எதிர்வருவதைத் தொடர்ந்து அரச சொத்துக்களை விற்பதை நிறுத்துமாறு நேற்றைய தினம் அரசாங்கத்தை வலியுறுத்திய தேசிய மக்கள் சக்தி (NPP) எதிர்காலத்தில்  தேசிய மக்கள் சக்தியின் ஆட்சியின் போது இவ்வாறான செயற்பாடுகள் தொடர்பில் அரசாங்கம் தகுந்த நடவடிக்கை எடுக்குமென்பதால் அரச சொத்துக்களை வாங்குவதில் ஆர்வமுள்ள தரப்பினர் தமது முடிவுகளை மறுபரிசீலனை செய்யுமாறு எச்சரித்துள்ளது.
+The National People's Power (NPP) warns against the sale of state assets, including SriLankan Airlines, Telecom, CEB, and Litro Gas, arguing the government lacks authority and should stop for the sake of future generations.
 
-ஸ்ரீலங்கன் எயார்லைன்ஸ், டெலிகொம், CEB மற்றும் Litro Gas போன்ற அரச சொத்துக்களை அரசாங்கம் அடுத்த தேர்தலில் தெரிவு செய்யப்பட மாட்டோம் என்பதை அறிந்து தரகுப்பணம் பெறுவதற்காக பேரம் பேசி அவற்றை விற்க திட்டமிட்டுள்ளதாக NPP பொருளாதார சபை உறுப்பினர் சுனில் ஹந்துன்நெத்தி ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+🟩
 
-அரச வளங்களையோ, அரச நிறுவனங்களையோ அல்லது நிறுவனங்களையோ விற்க அரசாங்கத்திற்கு அதிகாரம் இல்லை என்றும், பெரும் தரகுப்பணத்தை பெறுவதற்காக இத்தகைய சொத்துக்களை அவசரமாக விற்கும் திட்டங்களை அரசாங்கம் நிறுத்த வேண்டும் என்றும் அவர் கூறினார்.
+The National People's Power (NPP), which urged the government to stop the sale of state assets following the national election, yesterday warned that the government would take appropriate action on such activities during the National People's Power in the future.
 
-...
+NPP Economic Council member Sunil Handunnetti said at a media briefing that the government would not be selected in the next election, such as SriLankan Airlines, Telecom, CEB and Litro Gas.
+
+He said the government does not have the authority to sell state resources, state agencies or corporations and that the government should stop selling such assets in order to obtain a huge brokerage.
+
+Handunnethi said that the people should come forward against any action to sell state resources that affect future generations, and that any interested parties like China or India will review the decision and that the government of the national people's power in the future will decide against such agreements.
+
+◼️
 
 [Data](articles/80c07966.json)
+
+[Extended Data](ext_articles/80c07966.ext.json)
 
 ---
 
@@ -2219,25 +2261,5 @@ In his address, the President announced plans to promote AI education in schools
 [Data](articles/9f8607bb.json)
 
 [Extended Data](ext_articles/9f8607bb.ext.json)
-
----
-
-### Attack on 4 houses in Mattakkuli!
-
-*2024-03-12 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178566) · `ta`
-
-Four houses in Mattakkuli Alivatta area attacked following a shooting on Tuesday. Residents fled the scene.
-
-🟩
-
-Four houses in the area have been attacked following the shooting that took place on Tuesday (12) in the Mattakkuli area in Colombo.
-
-Preliminary reports say that the four houses in the Mattakkuli Alivatta area have fled the scene.
-
-◼️
-
-[Data](articles/fc568d39.json)
-
-[Extended Data](ext_articles/fc568d39.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 16:17:47**
+As of **2024-03-13 16:34:20**
 
 ## Newspaper Stats
 
-*Scraped **12,650** Articles*
+*Scraped **12,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,082
-adaderanalk | 1,526
+adaderanalk | 1,527
 tamilmirrorlk | 1,543
 virakesarilk | 1,762
 dailymirrorlk | 1,926
@@ -26,73 +26,35 @@ adaderanasinhalalk | 1,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,647 (100.0%) of 12,650 articles have been extended.
+12,650 (100.0%) of 12,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### ”முட்டைக்கு விலைக் கட்டுப்பாடு விதிக்கப்படும்”
+### AKD, Canadian envoy discuss Sri Lanka’s socio-economic & political situation
 
-*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு-விதிக்கப்படும்/175-334615) · `ta`
+*2024-03-13 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97926/akd-canadian-envoy-discuss-sri-lankas-socio-economic-political-situation) · `en`
 
-எதிர்வரும் பண்டிகை காலத்தை முன்னிட்டு நியாயமான விலையில் முட்டைகளை வழங்கும் முயற்சியில், விலைக் கட்டுப்பாடு அமுல்படுத்தப்படவுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+The Canadian High Commissioner to Sri Lanka, Eric Walsh called on the Leader of National People’s Power (NPP), MP Anura Kumara Dissanayake on Wednesday morning (March 13).
 
-விவசாய அமைச்சருக்கும் அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கப் பிரதிநிதிகளுக்கும் இடையில் இன்று (13) இடம்பெற்ற கலந்துரையாடலின் போதே இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+During the meeting, which took place at the JVP head office, the current socio-economic and political situation in Sri Lanka was discussed at length.
 
-கலந்துரையாடலின் போது, ​​தற்போதுள்ள முட்டை விலைகள் பரிசீலனைக்கு எடுத்துக் கொள்ளப்பட்டு, தற்போது ரூ. 48 ஆக உள்ள விலையை மேலும் குறைக்க வேண்டியதன் அவசியத்தை வலியுறுத்தப்பட்டது
+Taking to his X handle (formerly Twitter), Dissanayake said views were also exchanged between the two sides on the plans of the National People’s Power to build national unity.
 
-முட்டை உற்பத்தியாளர்களும் விலை குறைவதை ஏற்கனவே அவதானித்துள்ளதால் விலையை குறைக்க விருப்பம் தெரிவித்துள்ளனர்.
+“The High Commissioner also took this opportunity to congratulate us on our upcoming visit to Canada to meet Sri Lankans living in Canada,” he added.
 
-எவ்வாறாயினும், முட்டை உற்பத்தியாளர்கள் விலையை குறைக்கத் தவறினால் கட்டுப்பாட்டு விலை அமுல்படுத்தப்படும் என அமைச்சர் உறுதியளித்தார்.
-
-◼️
-
-[Data](articles/3a73cb84.json)
-
----
-
-### நியமனத்தை ரத்து செய்யக்கோரி மனுத்தாக்கல்
-
-*2024-03-13 15:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமனத்தை-ரத்து-செய்யக்கோரி-மனுத்தாக்கல்/175-334614) · `ta`
-
-பொலிஸ் மா அதிபராக தேசபந்து தென்னகோனின் நியமனத்தை ரத்து செய்யுமாறு கோரி இலங்கை இளம் ஊடகவியலாளர்கள் சங்கம் இன்று உயர் நீதிமன்றத்தில் அடிப்படை உரிமை மனுவொன்றை தாக்கல் செய்துள்ளது.
-
-இலங்கை இளம் ஊடகவியலாளர்கள் சங்கத்தின் சார்பில் அதன் தலைவர் தரிந்து ஜயவர்தன, செயலாளர் எம்.எப்.எம்.பசீர், ஒருங்கிணைப்பாளர் ஷாலிகா விமலசேன, பொருளாளர் நிரோஷ் மைத்திரி, குழு உறுப்பினர் தரிந்து உடுவரகெதர, உப தலைவர் பி.நிரோஷ்குமார், உறுப்பினர் ரேகா நிலுக்ஷி ஆகியோர் இந்த மனுவைத் தாக்கல் செய்துள்ளனர்.
-
-தேசபந்து தென்னகோன் நியமனம் சட்டவிரோதமானது, தன்னிச்சையானது, பகுத்தறிவற்றது மற்றும் அரசியலமைப்பின் விதிகளுக்கு முரணானது மற்றும்  அதனை மீறுவது என மனுவில் குறிப்பிடப்பட்டுள்ளது.
+Patrick Pickering, the Second Secretary (Political) of the Canadian High Commission in Colombo and Comrade Vijitha Herath, the National Executive Member of the National People’s Power were also present at this meeting.
 
 ◼️
 
-[Data](articles/29aef43d.json)
-
----
-
-### AI to be included to ICT curriculum from Grade 08
-
-*2024-03-13 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97925/ai-to-be-included-to-ict-curriculum-from-grade-08) · `en`
-
-Measures have been taken to revise the current Information and Communication Technology (ICT) curriculum in Sri Lanka’s schools for students from Grade 08 onwards.
-
-Accordingly, the subject of Artificial Intelligence (AI) will be introduced into the prevailing ICT curriculum for the students of aforesaid grades in schools, Minister of Education Susil Premajayantha said.
-
-The pilot project for launching the new curriculum will commence on March 19, with the participation of 17 schools.
-
-Premajayantha assured that Microsoft Corporation has joined hands with the Ministry of Education in order to provide the relevant subject knowledge for Sri Lankan students according international standards.
-
-The Education Minister expressed these views while joining the commemoration event held to mark the 100th anniversary of the Girls’ High School, Mount Lavinia.
-
-◼️
-
-[Data](articles/c3559f58.json)
-
-[Extended Data](ext_articles/c3559f58.ext.json)
+[Data](articles/485b0612.json)
 
 ---
 
 ### 10 years rigorous imprisonment for sexually abusing girl
 
-*2024-03-13 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178640) · `ta`
+*2024-03-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178640) · `ta`
 
 A 52-year-old man, Baruch Mohamed Salit, was sentenced to 10 years in prison for sexually abusing a girl in Nanuoya, Sri Lanka, in 2011. The Nuwara Eliya High Court's verdict, issued by Judge Viraj Weerasuriya on March 13, 2014, also ordered the man to pay 15,000 rupees and serve an additional three months in prison.
 
@@ -117,6 +79,76 @@ At the same time, the judge ruled that the victim should be paid a compensation 
 [Data](articles/b4d07695.json)
 
 [Extended Data](ext_articles/b4d07695.ext.json)
+
+---
+
+### "Eggs will be imposed on prices"
+
+*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு-விதிக்கப்படும்/175-334615) · `ta`
+
+Agriculture Minister Mahinda Amaraweera announced a price restriction on eggs to ensure fair pricing ahead of the festive season. Discussions with the All Ceylon Egg Producers Association highlighted the need for price reduction. Egg manufacturers also expressed their desire for price reduction. The Minister promised to implement a control price if producers fail to reduce prices.
+
+🟩
+
+Agriculture Minister Mahinda Amaraweera has said that the price restriction will be implemented in an effort to provide eggs at fair prices ahead of the festive season.
+
+The matter was made during a discussion held today (13) between the Agriculture Minister and representatives of the All Ceylon Egg Producers Association.
+
+During the discussion, existing egg prices were taken up for review and currently Rs.. Emphasized the need to further reduce the price of 48
+
+Egg manufacturers have also expressed their desire to reduce the price as they have already observed the price.
+
+However, the Minister promised that if the price of egg producers failed to reduce the price, the control price would be implemented.
+
+◼️
+
+[Data](articles/3a73cb84.json)
+
+[Extended Data](ext_articles/3a73cb84.ext.json)
+
+---
+
+### Petition
+
+*2024-03-13 15:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமனத்தை-ரத்து-செய்யக்கோரி-மனுத்தாக்கல்/175-334614) · `ta`
+
+The Sri Lanka Young Journalists Association has filed a petition in the Supreme Court against the appointment of Deshabandan South Kon as Inspector General of Police, claiming it's illegal and violates the Constitution.
+
+🟩
+
+The Sri Lanka Young Journalists Association today filed a fundamental rights petition in the Supreme Court demanding the cancellation of the appointment of Deshabandan South Kon as the Inspector General of Police.
+
+On behalf of the Sri Lanka Young Journalists Association, its president, Thandi Jayawardena, Secretary MFM Pasir, Coordinator Shalika Wimalasena, Treasurer Nirosh Maithri, Committee Member Dharindaru Udurakadera, Vice President P. Niroshkumar and Member Rekha Nilakshi have filed the petition.
+
+The petition stated that the appointment of Patriot Thenkoon is illegal, arbitrary, irrational and contrary to the rules of the Constitution and violates it.
+
+◼️
+
+[Data](articles/29aef43d.json)
+
+[Extended Data](ext_articles/29aef43d.ext.json)
+
+---
+
+### AI to be included to ICT curriculum from Grade 08
+
+*2024-03-13 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97925/ai-to-be-included-to-ict-curriculum-from-grade-08) · `en`
+
+Measures have been taken to revise the current Information and Communication Technology (ICT) curriculum in Sri Lanka’s schools for students from Grade 08 onwards.
+
+Accordingly, the subject of Artificial Intelligence (AI) will be introduced into the prevailing ICT curriculum for the students of aforesaid grades in schools, Minister of Education Susil Premajayantha said.
+
+The pilot project for launching the new curriculum will commence on March 19, with the participation of 17 schools.
+
+Premajayantha assured that Microsoft Corporation has joined hands with the Ministry of Education in order to provide the relevant subject knowledge for Sri Lankan students according international standards.
+
+The Education Minister expressed these views while joining the commemoration event held to mark the 100th anniversary of the Girls’ High School, Mount Lavinia.
+
+◼️
+
+[Data](articles/c3559f58.json)
+
+[Extended Data](ext_articles/c3559f58.ext.json)
 
 ---
 
@@ -192,19 +224,29 @@ Minister of Health and Industry Dr. Ramesh Pathirana will also attend the event.
 
 ---
 
-### තම පියා අතවර කළ බවට බොරු පැමිණිලි කළ කතුන් දෙදෙනෙකු අත්අඩංගුවට
+### Two women arrested for abusing their father
 
 *2024-03-13 15:09:37* · [`adalk`](https://www.ada.lk/breaking_news/තම-පියා-අතවර-කළ-බවට-බොරු-පැමිණිලි-කළ-කතුන්-දෙදෙනෙකු-අත්අඩංගුවට/11-408589) · `si`
 
-සිය පියා විසින් ඥාති සොයුරියකට ලිංගික අතවර කල බවට අසත්‍ය පැමිණිලි කල දියණියක සහ අසත්‍ය ප්‍රකාශ පොලිසියට ලබාදුන් ඇයගේ ඥාති සොයුරිය අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි.
+Two women in Panadura arrested for abusing their father. Cousin arrested them, and police investigated further on orders from the Panadura Chief Magistrate.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර වඳුරම් මුල්ල ප්‍රදේශයේ පදිංචි 42 සහ 22 හැවිරිදි කාන්තාවන් දෙදෙනෙකු බව පොලිසිය කීය.සිය පියා ඥාති සොයුරියට ලිංගික අතවර කරන බවට පළමු සැකකාරිය කල පැමිණිල්ලක් මත පොලිසිය ඇයගේ ඥාති සොයුරියගෙන් ප්‍රකාශ සටහන් කර ගැනීමේදී ලොකු අප්පා තමාට ලිංගික අතවර කල බවට ඇයද ප්‍රකාශ ලබාදුන් බව පොලිසිය කීය.
+🟩
 
-ඒ අනුව සැකකරු අත්අඩංගුවට ගෙන පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු දින 14 ක් රිමාන්ඩ් බන්ධනාගාර ගත කල බවද පොලිසිය පවසයි. පානදුර ප්‍රධාන මහේස්ත්‍රාත් වරයාගෙන් ලද නියෝග මත වැඩිදුර විමර්ශන කල පොලිසිය ස්ථානීය පරීක්ෂණය සිදුකිරීමේදී ලිංගික අතවරයක් සිදුව නොමැති බවට අනාවරණය කරගෙන තිබේ.
+The Panadura South Police say her cousin was arrested by her father and her relatives who had complained to a relative of a cousin.
 
-...
+Police have arrested two and 22-year-old women in Panadura and 22Police said.
+
+Accordingly, 14 days after the suspect was arrested and submitted to the Panadura Magistrate's Court.. The police investigated further investigations have been identified as the police investigated further investigations on orders from the Panadura Chief Magistrate.
+
+According to a woman officer who had stated that he had not had to do such annoyance, she was investigating that she had not suffered such annoyance in the long interrogation.
+
+The two suspects were arrested in connection with the police station. The suspects were to be produced before the Panadura Magistrate's Court.
+
+◼️
 
 [Data](articles/999237cf.json)
+
+[Extended Data](ext_articles/999237cf.ext.json)
 
 ---
 
@@ -2299,23 +2341,5 @@ The President's Counsel has said that the decision of her party discipline is co
 [Data](articles/d886707d.json)
 
 [Extended Data](ext_articles/d886707d.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-03-13 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/97909/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night.
-
-Mainly dry weather will prevail elsewhere of the island, it said.
-
-Misty conditions can be expected at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/7b69bc23.json)
-
-[Extended Data](ext_articles/7b69bc23.ext.json)
 
 ---

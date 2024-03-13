@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 05:03:02**
+As of **2024-03-14 05:17:50**
 
 ## Newspaper Stats
 
-*Scraped **12,726** Articles*
+*Scraped **12,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 122
 bbccomsinhala | 144
 dbsjeyarajcom | 185
 newsfirstlk | 363
-dailyftlk | 653
+dailyftlk | 660
 economynextcom | 680
 islandlk | 686
 adalk | 1,089
@@ -26,11 +26,123 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,726 (100.0%) of 12,726 articles have been extended.
+12,726 (99.9%) of 12,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### CID arrests Medical Supplies Division Deputy Director over substandard immunoglobulin imports
+
+*2024-03-14 05:07:10* · [`dailyftlk`](https://www.ft.lk/news/CID-arrests-Medical-Supplies-DivisionDeputy-Directorover-substandard-immunoglobulin-imports/56-759472) · `en`
+
+The Criminal Investigation Department (CID) yesterday arrested the Deputy Director of the Health Ministry’s Medical Supplies Division Dr. Thusitha Sudarshana over the import of substandard human immunoglobulin injections.
+
+The move follows the CID recording a statement in connection with the substandard immunoglobulin imports following his arrival to the country yesterday evening.
+
+Several key individuals, including former Health Minister Keheliya Rambukwella, former Health Secretary, the Director of the Medical Supplies Division and Health Ministry Additional Secretary Dr. Saman Ratnayake are presently held in remand custody in connection to the Immunoglobulin scandal.
+
+◼️
+
+[Data](articles/0db37a21.json)
+
+---
+
+### New High Commissioner of Pakistan to Sri Lanka
+
+*2024-03-14 05:04:40* · [`dailyftlk`](https://www.ft.lk/business/New-High-Commissioner-of-Pakistan-to-Sri-Lanka/34-759471) · `en`
+
+The Government of the Islamic Republic of Pakistan with the concurrence of the Government of Sri Lanka has appointed Major General (Retd.) Faheem Ul Aziz as High Commissioner of the Islamic Republic of Pakistan to Sri Lanka based in Colombo. He presented his credentials to President Ranil Wickremesinghe on Tuesday at the President’s House, Colombo
+
+◼️
+
+[Data](articles/fd2d7e1d.json)
+
+---
+
+### Prime Minister meets Bishop of Chilaw
+
+*2024-03-14 05:03:11* · [`dailyftlk`](https://www.ft.lk/news/Prime-Minister-meets-Bishop-of-Chilaw/56-759470) · `en`
+
+Prime Minister Dinesh Gunawardena on Tuesday met the fourth Bishop of Chilaw Diocese Dr. Don Wimal Siri Jayasuriya at Our Lady of Mount Carmel’s Cathedral.
+
+Rev. Don Wimal Siri was appointed as the fourth Bishop of Chilaw diocese last December. State Ministers Arundika Fernando, Ashoka Priyantha, and Member of Parliament Yadamini Gunawardena were present on this occasion.
+
+◼️
+
+[Data](articles/0e549405.json)
+
+---
+
+### ADL wins GLOMO at MWC Barcelona
+
+*2024-03-14 05:02:07* · [`dailyftlk`](https://www.ft.lk/business/ADL-wins-GLOMO-at-MWC-Barcelona/34-759469) · `en`
+
+Axiata Digital Labs’ CEO, Thushera Kawdawatta, and CTO Namal Jayathilake, receiving the first-ever Open Gateway Challenge Award at the Annual Global Mobile (GLOMO) Awards at Mobile World Congress in Barcelona
+
+Axiata Digital Labs (ADL) yesterday announced its first win at the 29th annual Global Mobile (GLOMO) Awards held during the recently concluded Mobile World Congress (MWC) in Barcelona.
+
+ADL secured the Open Gateway Challenge GLOMO Award, a new category in 2024, marking a significant milestone in the company’s journey as a leader in digital innovation and connectivity solutions, enabling telco-to-techco journey with their Axonect Telco Fabric.
+
+...
+
+[Data](articles/6533c5fd.json)
+
+---
+
+### New Director General/CEO at Civil Aviation Authority
+
+*2024-03-14 04:59:21* · [`dailyftlk`](https://www.ft.lk/business/New-Director-General-CEO-at-Civil-Aviation-Authority/34-759468) · `en`
+
+Air Vice Marshal (Retd.) H.M.S.K.B. Kotakadeniya receives his letter of appointment from Minister Nimal Siripala de Silva
+
+The Civil Aviation Authority of Sri Lanka (CAASL) has announced the appointment of Air Vice Marshal (Retd) H. M. S. K. B. Kotakadeniya as the new Director-General and Chief Executive.
+
+The appointment letter was presented by Ports, Shipping and Aviation Minister Nimal Siripala de Silva yesterday, after receiving the Cabinet approval.
+
+A ceremony commemorating the occasion was held in the presence of Ports, Shipping and Aviation Ministry Secretary K. D. S. Ruwanchandra.
+
+Prior to assuming the position of Director General,  Kotakadeniya  served as a Board Director of CAASL from 12 August 2022, where his contributions were instrumental in shaping the direction of civil aviation in Sri Lanka.
+
+...
+
+[Data](articles/b82b87b5.json)
+
+---
+
+### IMF reviews CEB and CPC operations
+
+*2024-03-14 04:56:36* · [`dailyftlk`](https://www.ft.lk/business/IMF-reviews-CEB-and-CPC-operations/34-759467) · `en`
+
+The International Monetary Fund (IMF) Senior Mission Chief for Sri Lanka Peter Breuer and other officials yesterday met with the Power and Energy Ministry to review the progress of the reforms of the Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC).
+
+Taking to ‘X’ Power and Energy Minister Kanchana Wijesekera announced that they discussed key matters related to the sector.
+
+“Matters on recent tariff reduction in the electricity sector, CEB and CPC balance sheets of 2023, current financial position of CEB, accounting principles and standards adopted, BSTA filling automation, dispatch audit to be conducted, outstanding payments, forecast for 2024, CPC pricing formula and CPC operations was briefed and discussed,” he added.
+
+State Minister of Finance Shehan Semasinghe along with officials from the Power and Energy Ministry, Finance Ministry, CEB, CPC also participated in the discussion.
+
+◼️
+
+[Data](articles/0c39c7a9.json)
+
+---
+
+### Construction Expo 2024 by CIOB kicks off tomorrow
+
+*2024-03-14 04:56:11* · [`dailyftlk`](https://www.ft.lk/business/Construction-Expo-2024-by-CIOB-kicks-off-tomorrow/34-759466) · `en`
+
+Ceylon Institute of Builders (CIOB) organised “Construction Expo 2024”,the most inclusive exhibition will be held from 15 to 17 March at the Sirimavo Bandaranaike Memorial Exhibition Centre in the BMICH.
+
+As a proven platform for the promotion of the Construction Industry in Sri Lanka, “Construction Expo 2024 by CIOB” will showcase the latest technology and development added to the building and construction sector with renowned industry experts, stakeholders and decision makers in attendance.
+
+This will be the ideal event to source new products, networking with new contacts and business opportunities. Trade visitors from Sri Lanka and the neighbouring countries are expected to utilise the event to exhibit their inventive products with new features and visitors will also be looking for the latest, inventive products to improve their building industry projects.
+
+...
+
+[Data](articles/6fb1e27c.json)
+
+---
 
 ### Accident in Kandy: Woman killed
 
@@ -2223,181 +2335,5 @@ stating that the appointment of Deshabandu Tennakoon as IGP is illegal, arbitrar
 [Data](articles/c9043848.json)
 
 [Extended Data](ext_articles/c9043848.ext.json)
-
----
-
-### Putin warns the West, says Russia is ready for nuclear war
-
-*2024-03-13 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97922/putin-warns-the-west-says-russia-is-ready-for-nuclear-war) · `en`
-
-President Vladimir Putin warned the West on Wednesday Russia was technically ready for nuclear war and that if the U.S. sent troops to Ukraine, it would be considered a significant escalation of the conflict.
-
-Putin, speaking just days before a March 15-17 election which is certain to give him another six years in power, said the nuclear war scenario was not “rushing” up and he saw no need for the use of nuclear weapons in Ukraine.
-
-“From a military-technical point of view, we are, of course, ready,” Putin, 71, told Rossiya-1 television and news agency RIA in response to a question whether the country was really ready for a nuclear war.
-
-Putin said the U.S. understood that if it deployed American troops on Russian territory - or to Ukraine - Russia would treat the move as an intervention.
-
-“(In the U.S.) there are enough specialists in the field of Russian-American relations and in the field of strategic restraint,” said Putin, the ultimate decision maker in the world’s biggest nuclear power.
-
-...
-
-[Data](articles/a72a2353.json)
-
-[Extended Data](ext_articles/a72a2353.ext.json)
-
----
-
-### The white snake that worshiped the Shiva Lingam
-
-*2024-03-13 13:54:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிவலிங்கத்தை-வழிபட்ட-வெள்ளை-நாகம்/71-334606) · `ta`
-
-A white Naga snake, worshiped by the military, has been revealed in Jaffna's Kankesanthurai area. The land, once a military high-security zone, now belongs to its owners. The army had a small temple under a tamarind tree, where snakes, including a white Naga, were seen around a Shiva Lingam on special days. The video was shared, leading to increased worship of the temple.
-
-🟩
-
-A white Naga snake worshiped by the military has now been revealed.
-
-About 20 acres of land, which has been found in the Kankesanthurai area of Jaffna for the past 33 years as a military high security zone, has recently been handed over to the land owners.
-
-The army has worshiped a small Pillaiyar temple under a tamarind tree within a land of liberated lands, simulating a goat inside it.
-
-On special days, including a full moon, some snakes, including a white naga snake, have come to the temple and recorded it on their mobile phone as a white snake surrounded the Shivalingam.
-
-When the army recently left the area, the soldiers gave the video to the land owner, calling it a "powerful temple" and continued to maintain it.
-
-As the video is currently being shared on social media, many people are worshiping the temple.
-
-Meanwhile, people who have observed a white fluid from the tamarind tree in the area where the temple is located, claim to be milk.
-
-◼️
-
-[Data](articles/3e24a071.json)
-
-[Extended Data](ext_articles/3e24a071.ext.json)
-
----
-
-### Wisdom abuse: 52 -year -old
-
-*2024-03-13 13:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-52-வயதானவருக்கு-கடூழிய-சிறை/76-334605) · `ta`
-
-A 52-year-old man was sentenced to 10 years in prison for sexually abusing a schoolgirl in Nanuoya, Sri Lanka. The victim's parents lodged a complaint, leading to the case in Nuwara Eliya High Court. The judge ordered the man to pay 500,000 rupees to the victim and 15,000 rupees as court costs.
-
-🟩
-
-The Suu Nuwara Eliya High Court has sentenced him to 10 years rigorous imprisonment for allegedly accused of sexually abusing a schoolgirl in Nanuoya police.. .
-
-Nuwara Eliya High Court Judge Viraj Weerasuriya presented the verdict on Wednesday.
-
-The suspect from Nanu Oya area has been sexually abused in 2011 by a school girl under the age of 16 from the area.
-
-The girl's parents were informed through the school and lodged a complaint at the Nanu Oya Police Station against the man.The case was filed in the Nuwara Eliya High Court and is being investigated.
-
-A 52 -year -old man was found guilty of court on the basis of evidence against the accused suspect. .
-
-At the same time, the judge ruled that the victim should be paid a compensation of five lakh rupees, the judge said that if the amount did not pay, he would be sentenced to three years in prison.
-
-...
-
-[Data](articles/8aad5d99.json)
-
-[Extended Data](ext_articles/8aad5d99.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-03-13 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194456) · `si`
-
-Sri Lanka's first ODI against Bangladesh starts at Chithagon, with Kusal Mendis leading the team to bat first.
-
-🟩
-
-The first ODI is due to commence at Chithagon soon after the tourist Sri Lanka team and Bangladesh.
-
-Sri Lanka captain Kusal Mendis decided to bat first.
-
-◼️
-
-[Data](articles/67771e4c.json)
-
-[Extended Data](ext_articles/67771e4c.ext.json)
-
----
-
-### Chinese mother arrested for trying to fly away from child
-
-*2024-03-13 13:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையை-விட்டு-பறக்க-முயன்ற-சீன-தாய்-கைது/175-334604) · `ta`
-
-A Chinese woman was arrested at Katunayake International Airport for allegedly trying to flee with her daughter, leaving her elderly mother behind. The woman, a dancer, had been living with her mother and two children, who were cared for by a Sri Lankan maid. The maid, who had recently returned from Singapore, was deeply loved by the children. The woman, without revealing her intentions, invited the maid to Sri Lanka, leading to her arrest.
-
-🟩
-
-On the arrival terminal of the Katunayake International Airport, a Chinese woman has been arrested for allegedly trying to flee her younger girl, who has been taking care of her for a long time.
-
-The Chinese woman was arrested on Tuesday night as she was ready to board the plane, airport officials said.
-
-A 35 -year -old Chinese woman lives in a rented house with her 58 -year -old mother. This Chinese woman is a dancer in popular hostels.
-
-The two children have been very affectionate to the Sri Lankan maid who maintains herself because she loved more than her Chinese mother.
-
-The maid is a 53 -year -old living in Pothuhera, Polgahawela, Kurunegala.He has recently returned to Sri Lanka after completing the maid service in Singapore.
-
-The two children are also severely affected by the maid's section. However, the Chinese woman is acting in a way that the neighbors are not aware of this.
-
-...
-
-[Data](articles/d7bf8515.json)
-
-[Extended Data](ext_articles/d7bf8515.ext.json)
-
----
-
-### Criminal in case of theft: former MP New Zealand. Agreed
-
-*2024-03-13 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178617) · `ta`
-
-Former MP Coleris Kahraman admitted to theft charges in New Zealand. Born in Iran, he was the first MP elected after immigrating.
-
-🟩
-
-Former parliamentarian Coleris Kahraman, who was accused of stealing in a shop when he was a member of the New Zealand parliament, has admitted to court.
-
-43 -year -old Kahraman resigned from the post of Parliament on January 16 on charges of theft.
-
-In this case, Kahraman on Wednesday agreed in the Auckland District Court for guilty in the case.
-
-Golris Kahraman, born in Iran, was immigrant to New Zealand when his family got political asylum in New Zealand.
-
-Golris Kahraman was the first person to be elected as a Member of Parliament after his arrival in New Zealand.
-
-◼️
-
-[Data](articles/17cf71ea.json)
-
-[Extended Data](ext_articles/17cf71ea.ext.json)
-
----
-
-### Increase of arbitrary salary increase in the Central Bank
-
-*2024-03-13 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-අත්තනෝමතික-වැටුප්-වැඩි-කර-ගැනීම-අවලංගු-කිරීමේ-පනත-පාර්ලිමේන්තුවට/11-408586) · `si`
-
-Udaya Gammanpila proposes a salary increase for Central Bank employees, backed by a bill amending the Central Bank Act No. 16 of 2023. The Acting Secretary General of Parliament, Hansitha Abeyratne, highlights its national importance and seeks the Attorney General's opinion.
-
-🟩
-
-Udaya Gammanpila, aiming the increase in the increase in the Central Bank's arbitrary salaries and increase the employee's salaries of the Central Bank to the Secretary General of Parliament today (13)Were handed over.
-
-The Bill is a bill to amend the Central Bank Act No. 16 of 2023.
-
-Acting Secretary General of Parliament Hansitha Abeyratne has said that this bill is presented with a national importance of the National Importance of the Bill and inquire into the Attorney General's opinion.
-
-◼️
-
-[Data](articles/d404ecca.json)
-
-[Extended Data](ext_articles/d404ecca.ext.json)
 
 ---

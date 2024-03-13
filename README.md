@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 06:16:45**
+As of **2024-03-13 06:54:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 1,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,523 (99.9%) of 12,531 articles have been extended.
+12,531 (100.0%) of 12,531 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -924,6 +924,8 @@ Urgent streamlining of pandemic response policies for the sector is crucial to p
 
 [Data](articles/450b561b.json)
 
+[Extended Data](ext_articles/450b561b.ext.json)
+
 ---
 
 ### New Chief Secretaries appointed to Northern, North Western provinces
@@ -966,6 +968,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/b0e8007b.json)
 
+[Extended Data](ext_articles/b0e8007b.ext.json)
+
 ---
 
 ### ZORAL partners with Linearsix to expand business in mena and apac regions
@@ -980,6 +984,8 @@ This collaboration targets an aggressive entry into the Asia-Pacific (APAC) and 
 
 [Data](articles/b69affd1.json)
 
+[Extended Data](ext_articles/b69affd1.ext.json)
+
 ---
 
 ### Dialog partners SLIM to launch ‘SLIM Dialog Brand Week 2024’ for second consecutive year
@@ -991,6 +997,8 @@ Dialog Axiata PLC, Sri Lanka’s premier connectivity provider, and the Sri Lank
 ...
 
 [Data](articles/c3195254.json)
+
+[Extended Data](ext_articles/c3195254.ext.json)
 
 ---
 
@@ -1007,6 +1015,8 @@ Turnover stood at Rs 1.4 billion with four crossings. Those crossings were repor
 ...
 
 [Data](articles/e08e3d60.json)
+
+[Extended Data](ext_articles/e08e3d60.ext.json)
 
 ---
 

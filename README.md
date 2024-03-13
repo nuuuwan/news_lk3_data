@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 17:18:03**
+As of **2024-03-13 17:34:43**
 
 ## Newspaper Stats
 
-*Scraped **12,662** Articles*
+*Scraped **12,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,57 +18,123 @@ islandlk | 686
 adalk | 1,082
 adaderanalk | 1,527
 tamilmirrorlk | 1,545
-virakesarilk | 1,763
-dailymirrorlk | 1,929
-adaderanasinhalalk | 1,997
+virakesarilk | 1,764
+dailymirrorlk | 1,930
+adaderanasinhalalk | 1,998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,660 (100.0%) of 12,662 articles have been extended.
+12,662 (100.0%) of 12,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### வெடுக்குநாறிமலையில் கைதானோர்  உண்ணாவிரதம்
+### கொழும்பில் ஆயுர்வேத வைத்திய மாணவர்கள் ஆர்ப்பாட்டம்
+
+*2024-03-13 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178661) · `ta`
+
+ஆயுர்வேத வைத்திய மாணவர்களால் இன்று புதன்கிழமை சுகாதார அமைச்சுக்கு முன்பாக  ஆர்ப்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+பொறுப்பற்ற வகையில் ஆயுர்வேத வைத்தியர்களுக்கான பதிவுகள் மேற்கொள்வதை உடனடியாக நிறுத்துவதுடன் சலுகைகளுடன் கூடிய வரையறுக்கப்பட்ட வைத்திய பயிற்சிகளை வழங்குமாறு கோரிக்கை விடுத்து ஆர்ப்பாட்டத்தில் ஈடுப்பட்டனர்.
+
+◼️
+
+[Data](articles/faab233d.json)
+
+---
+
+### න්‍යෂ්ටික යුද්ධයට රුසියාව සූදානම් - පුටින් අනතුරු අඟවයි
+
+*2024-03-13 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194467) · `si`
+
+රුසියාව තාක්ෂණික වශයෙන් න්‍යෂ්ටික යුද්ධයට සූදානම් බව රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් අනතුරු අඟවයි.
+
+අමෙරිකාව යුක්‍රේනයට හමුදාව එව්වොත් එමගින් යුද්ධය සැලකිය යුතු ලෙස වැඩිවිය හැකි බවද ඔහු පැවසීය.
+
+න්‍යෂ්ටික යුද්ධයක් සඳහා වාතාවරණය ඇති කිරීමට ඔහු කඩිනම් නොවන බවත් යුක්‍රේනයේ පවතින ගැටුම් සඳහා න්‍යෂ්ටික අවි භාවිත කිරීමේ අවශ්‍යතාවයක් තමා නොදකින බව පුටින් පැවසීය.
+
+ඔහු මේ බව පවසා ඇත්තේ රුසියානු මැතිවරණය මාර්තු 15-17 අතර කාලයේදී පැවැත්වීමට නියමිතව තිබියදීය.
+
+අමෙරිකාව යුක්‍රේනයට හමුදාව එව්වොත් එය රුසියාවේ කටයුතු වලට අත පෙවීමක් ලෙස තමන් සලකන බවත් ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/64965c58.json)
+
+---
+
+### Hunger
 
 *2024-03-13 17:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறிமலையில்-கைதானோர்-உண்ணாவிரதம்/72-334617) · `ta`
 
-வெடுக்குநாறிமலையில் சிவராத்திரி வழிபாடுகளில் ஈடுபட்டபோது கைதுசெய்யப்பட்டு சிறையில் அடைக்கப்பட்டவர்கள் உண்ணாவிரத போராட்டத்தில் குதித்துள்ளனர்.
+During Shivaratri rituals in Vedukkunniimalai, eight individuals, including the temple priest, were arrested and jailed. They began a hunger strike, refusing food, especially when taken to court.
 
-வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று  கைதுசெய்யப்பட்ட ஆலயபூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று செவ்வாய்க்கிழமை (12) உத்தரவு பிறப்பித்துள்ளது.
+🟩
 
-இதனையடுத்து அவர்கள் வவுனியா விளக்கமறியல் சிறைச்சாலையில் செவ்வாய்க்கிழமை (12) மாலை அடைக்கப்பட்டனர்.இந்நிலையில் தங்களை விடுதலைசெய்யகோரி அவர்கள் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+Those arrested and jailed during the Shivaratri rituals in Vedukkunniimalai have jumped into a hunger strike.
 
-குறிப்பாக நீதிமன்றிற்கு கொண்டுசெல்லப்படும் போதே அவர்கள் உணவினை எடுத்திருக்கவில்லை. இந்நிலையில் புதன்கிழமையும் உணவினை உட்கொள்வதற்கு மறுத்துள்ளனர்.
+The Vavuniya Justice on Tuesday (12) issued an order on Tuesday (12) that eight persons, including the temple pussy, who were arrested on the occasion of Shivaratri on the last Shivaratri day at the Vettu Nirimalai Temple in Vavuniya.
 
-கைதுசெய்யப்பட்ட எட்டுபேரில் ஆலயபூசாரியார் த.மதிமுகராசா, து.தமிழ்ச்செல்வன், தி.கிந்துயன்,சு.தவபாலசிங்கம், விநாயகமூர்த்தி ஆகியோரே உண்ணாவிரத போராட்டத்தினை முன்னெடுத்துள்ளனர்
+Subsequently, they were detained at the Vavuniya Explanation Prison on Tuesday evening.
+
+They have not taken food, especially when they are taken to court. In this case, they refused to eat food on Wednesday.
+
+In the eight people arrested, the temple was launched by the temple, T.Madimukarasa, T.Thilchelvan, D. Kindiyan, S. Thavapalasingham and Vinayagamoorthy.
 
 ◼️
 
 [Data](articles/b70ecbb7.json)
 
+[Extended Data](ext_articles/b70ecbb7.ext.json)
+
 ---
 
-### ඊශ්‍රායල් නායකයා තවත් ඉලක්කයක් පෙන්වයි
+### Sri Lanka fails to ’meet’ 33% of IMF commitments due by end-February: Verité Research
+
+*2024-03-13 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fails-to-meet-33-of-IMF-commitments-due-by-end-February-Verité-Research/108-278784) · `en`
+
+Colombo, March 13 (Daily Mirror)- Sri Lanka failed to meet 33% of the commitments due by end-February 2024 in its International Monetary Fund (IMF) programme, according to the February update of Verité Research’s ‘IMF Tracker’.
+
+Many of these commitments that are classified as ‘not met’ on IMF Tracker were designed to improve governance, the Verité Research said.
+
+“These include commitments related to publishing information (transparency), and those that require the passage of governance-improving legislation.
+
+The IMF has recognised poor governance as being at the heart of Sri Lanka’s economic crisis, and Sri Lanka is the first Asian country to have had an IMF-led Governance Diagnostic Assessment.
+
+The status of 36% of the commitments are classified as ‘unknown’, which means sufficient data was not made available to assess their progress. By end-February, 31% of the commitments were verifiably ‘met’,” the Verité Research further said.
+
+...
+
+[Data](articles/585e1e6d.json)
+
+---
+
+### The Israeli leader shows another goal
 
 *2024-03-13 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194466) · `si`
 
-ජාත්‍යන්තරයෙන් කෙතරම් පීඩනයක් එල්ලවුවත් දකුණු ගාසා තීරයේ පලස්තීනුවන්ගේ අවසන් රැකවරණ ස්ථානය වන රෆා නගරයේ හමුදා මෙහෙයුම කෙසේ හෝ ක්‍රියාත්මක කළ යුතු බව ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු ප්‍රකාශ කරයි.
+Israeli PM Benjamin Netanyahu announces military operation in South Gaza, despite international criticism. Operation Rapa aims to remove civilians without damage. Netanyahu's statement was made to Israeli supporters in Washington, USA, highlighting the organization's financial support to President Joe Biden.
 
-ගාසා තීරයේ උතුරු සහ මධ්‍යම ප්‍රදේශවල ඊශ්‍රායල හමුදා මෙහෙයුම් ක්‍රියාත්මක වෙද්දී පළා ආ ජනතාව ඇතුළු පලස්තීනුවන් මිලියන 1.5ක් පමණ මේ වනවිට රෆා ප්‍රදේශයේ රැඳී සිටී.
+🟩
 
-නෙතන්යාහු රෆා මෙහෙයුම ගැන කතා කරමින් සඳහන් කර ඇත්තේ සිවිල් වැසියන් හානියකින් තොරව ඉවත් කරගැනීමෙන් පසුව රෆා මෙහෙයුම සිදුකර මෙහෙයුම් අවසන් කළ හැකි බවය.
+Israeli Prime Minister Benjamin Netanyahuu says that the country's military operation is to be implemented anyway, the last loyal site of Palestinians in the South Gaza.
 
-ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහු මේ ප්‍රකාශය සිදුකළේ අමෙරිකාවේ වොෂින්ටන් නුවර පැවති ඊශ්‍රායලයට සහාය පළ කරන AIPAC සංවිධානයේ සම්මේලනයට වීඩියෝ තාක්ෂණය ඔස්සේ සම්බන්ධ වෙමිනි.
+About 1.5 million Palestinians, including the people of the northern and central areas of the Gaza, is currently underway.
 
-මෙම සංවිධානය ජනාධිපති ජෝ බයිඩන් මැතිවරණ ව්‍යාපාරයට ඩොලර් මිලියන ගණනක දායකත්වයක් දක්වා තිබේ.
+Netanyahudu said he was talking about the operation of Rapa, that the ruffa operation could be completed after the removal of civilians with no damage.
+
+Israeli Prime Minister Benjamin Netanyahu made this statement focused on video technology to the Israeli support that supported Israel in Washington in Washington, USA.
+
+The organization has contributed millions of dollars to the President Joe Biday.
 
 ◼️
 
 [Data](articles/3ce507a5.json)
+
+[Extended Data](ext_articles/3ce507a5.ext.json)
 
 ---
 
@@ -2297,71 +2363,5 @@ Non-academic staffers of all 17 state universities launched the token strike at 
 [Data](articles/a369c4a8.json)
 
 [Extended Data](ext_articles/a369c4a8.ext.json)
-
----
-
-### Sri Lanka eye on winning start in ODI Series
-
-*2024-03-13 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eye-on-winning-start-in-ODI-Series/108-278736) · `en`
-
-Colombo, March 13 (Daily Mirror) - Buoyed by their thrilling 2-1 Twenty20 International (T20I) Series victory against Bangladesh, Sri Lanka gear up for a three-match One Day International (ODI) Series starting today at the Zahur Ahmed Chowdhury Stadium in Chattogram.
-
-The ODI Series presents an opportunity for the Sri Lankans not only to extend their winning streak against Bangladesh but also to avenge their previous defeat in the last ODI encounter at the ICC World Cup 2023.
-
-Sri Lanka displayed grit and determination in the recently concluded T20I series, overcoming a blip in the second match to clinch the series with victories in the first and third games.
-
-Meanwhile, Sri Lanka Cricket (SLC) Chief Selector Upul Tharanga said Lahiru Kumara has been added to the ODI Squad after Asitha Fernando was ruled out following an injury while Kamindu Mendis was included replacing Shevon Daniel.
-
-...
-
-[Data](articles/7698144d.json)
-
-[Extended Data](ext_articles/7698144d.ext.json)
-
----
-
-### Action to accelerate the reconstruction of the main canal system with a 44 -kilometer in Colombo!
-
-*2024-03-13 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178580) · `ta`
-
-The Sri Lanka Land Recovery Corporation is reconstructing the main canal system in Colombo, aiming to control floods and improve the environment. The project, overseen by Minister Prasanna Ranatunga, involves rehabilitation, flood control, and environmental improvement. It addresses issues like pollution and aims to maintain corridors, solar lighting, and parking spaces. The development plan includes long-term stability programs and aims to reduce flood impacts and improve rainwater drainage.
-
-🟩
-
-The Sri Lanka Land Recovery Corporation is reconstructed the canal dams and ponds to control floods in the city and suburbs of Colombo under four major sections this year.
-
-The Sri Lanka Land Recovery Corporation states that under its canals, lakes and corridors, the rehabilitation, flood control, wetlands and lowlands development, design work, mapping and possibilities.
-
-The project is being implemented according to the Directorate of Urban Development and Housing Minister Prasanna Ranatunga. Minister Prasanna Ranatunga has said that many lakes and canals surrounding Colombo are filled with Japan Course Bull and Stench, Mud, Plastic Pottas, Pierre Cances, Sandals, Health Goods, Sewer and Oil.. This is the main reason for the floods in Colombo, despite the low rains, the minister said.
-
-The main canal system surrounding the Colombo City Zone is 44 km. Is that. The length of the second canal is 52 km. The canal renovation work has been accelerated.
-
-...
-
-[Data](articles/07e406e4.json)
-
-[Extended Data](ext_articles/07e406e4.ext.json)
-
----
-
-### A National Education policy soon
-
-*2024-03-13 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194446) · `si`
-
-The Minister of Susil Premams announces a national education policy, aiming to unify schools without distinction between national and provincial. Discussions are ongoing in the Mendix Committee. The policy will gradually introduce reforms, including teacher training and technological updates. The minister emphasizes the need for continuous improvement and adaptation, inspired by global educational practices. Parliament's approval is required for any changes.
-
-🟩
-
-The Minister of Susil Premams says that action will be taken to implement a national education policy.
-
-He said that the same school is scheduled to be implemented without national schools and provincial schools.
-
-"There are the same type of proposing to the policy framework of the education reforms and do not separate the schools in national schools and provincial councils.. Discussions are being discussed in the Mendix Committee. Can't be caught at once. But in the stage, the stage is gradually.
-
-...
-
-[Data](articles/25013292.json)
-
-[Extended Data](ext_articles/25013292.ext.json)
 
 ---

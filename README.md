@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 00:03:24**
+As of **2024-03-14 00:17:46**
 
 ## Newspaper Stats
 
-*Scraped **12,716** Articles*
+*Scraped **12,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ adalk | 1,089
 adaderanalk | 1,534
 tamilmirrorlk | 1,550
 virakesarilk | 1,765
-dailymirrorlk | 1,938
+dailymirrorlk | 1,943
 adaderanasinhalalk | 2,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,716 (100.0%) of 12,716 articles have been extended.
+12,716 (100.0%) of 12,721 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-14 (Thursday)
+
+### Happiness a fundamental human goal for all people
+
+*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Happiness-a-fundamental-human-goal-for-all-people/172-278792) · `en`
+
+Are the people of Sri Lanka happy? Most independent and non-party analysts would say a clear no. Millions of people are suffering from a lack of food, shelter, clothing, healthcare needs, education and other facilities. So it is clear that except for the politicians– most of whom make money illegally– and big business magnets, most of  Sri Lanka’s people are unhappy.
+
+Next week, the United Nations will mark the International Day of Happiness. In a statement, the world body said that happiness is a fundamental human goal. The UN General Assembly recognizes this goal and calls for a more inclusive, equitable and balanced approach to economic growth that promotes happiness and well-being of all people.
+
+...
+
+[Data](articles/12c753d0.json)
+
+---
+
+### IMF meeting snub and the opposition’s opportunism at the nation’s misery
+
+*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/IMF-meeting-snub-and-the-oppositions-opportunism-at-the-nations-misery/172-278796) · `en`
+
+The recent snub by the SJB and JVP to attend a meeting with the IMF delegation raises concern about the country’s uncertain political future, where political parties thrive in harnessing public anger rather than offering solutions
+
+You could see the shades of all in the recent snub by the Samagi Jana Balawegaya (SJB) and Janatha Vimukthi Peramuna (JVP) to a president’s invitation to attend a meeting with the IMF delegation in Colombo. They were offered a forum to raise their objections, which you usually hear in press conferences and political meetings, and present a coherent alternative plan
+
+Sri Lankan politics suffer from a strong sense of self-seeking opportunism that prevents the country from forging a common goal. This malaise manifests in various forms
+
+...
+
+[Data](articles/442a5758.json)
+
+---
+
+### Economic Policies in an Election Year: Suggested Priorities
+
+*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Economic-Policies-in-an-Election-Year-Suggested-Priorities/172-278793) · `en`
+
+Part I of this article, which was published on February 29, laid out the grim fiscal and debt sustainability outlook for Sri Lanka.
+
+The key driver of debt dynamics is the gap between real GDP growth and real interest rates on government debt. Sustained annual growth of 5-6% and low real interest rates through disciplined fiscal policy would significantly improve debt sustainability. With slowing labour force growth due to an ageing population, sustaining high GDP growth requires increased investment and productivity growth. In addition, raising Sri Lanka’s low tax ratio to 16-18% of GDP, aligning with Asian peers, would support sustainable non-interest spending levels (Figure 1).
+
+Given the imperative of fiscal discipline, Sri Lanka can no longer turn to the economic model of the past where growth was driven by public sector spending fueled by borrowing and inward-looking, protectionist trade policies. It needs to adopt a new economic model where growth would be:
+
+...
+
+[Data](articles/5109a653.json)
+
+---
+
+### Sri Lanka failed to ‘meet’ 33% of IMF commitments due by end-Feb
+
+*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-failed-to-meet-33-of-IMF-commitments-due-by-end-Feb/172-278797) · `en`
+
+Sri Lanka verifiably failed to meet 33% of the commitments due by end-February 2024 in its International Monetary Fund (IMF) programme, according to the February update of Verité Research’s ‘IMF Tracker’.
+
+Many of these commitments that are classified as ‘not met’ on IMF Tracker were designed to improve governance. These include commitments related to publishing information (transparency), and those that require the passage of governance-improving legislation. The IMF has recognised poor governance as being at the heart of Sri Lanka’s economic crisis, and Sri Lanka is the first Asian country to have had an IMF-led Governance Diagnostic Assessment.
+
+The status of 36% of the commitments are classified as ‘unknown’, which means sufficient data was not made available to assess their progress. By end-February, 31% of the commitments were verifiably ‘met’.
+
+...
+
+[Data](articles/6f91412c.json)
+
+---
+
 ### 2024-03-13 (Wednesday)
+
+### Harsha non-committal on Ranil’s claim
+
+*2024-03-13 23:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Harsha-non-committal-on-Ranils-claim/108-278807) · `en`
+
+Colombo, March 13 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MP Harsha de Silva was non-committal on the recent remark by President Ranil Wickremesinghe that the SJB leadership has sidelined party men like him and is depending on others such as MPs Professor G.L. Peiris and Nalaka Godahewa.
+
+"You should ask President Wickremesinghe about our being sidelined. We cannot comment on that," Dr. De Silva said in response to a question raised by the media as to whether MPs such as him are sidelined by the SJB leadership.
+
+Also he said Sri Lanka should be a stakeholder of fast developing Indian states such as Tamil Nadu, Andra Pradesh, Karnataka and Kerala if it is to survive in the future. These states are identified as the fastest developing regions. Sri Lanka should become a stakeholder of this development and should try to benefit from it, he added.
+
+◼️
+
+[Data](articles/0977544f.json)
+
+---
 
 ### Bangladesh beat Sri Lanka in the first match
 
@@ -2351,109 +2431,5 @@ Accordingly, there are over 50 patients.
 [Data](articles/0e754278.json)
 
 [Extended Data](ext_articles/0e754278.ext.json)
-
----
-
-### HRW urges IMF to oppose ‘repression of civic space’ in Sri Lanka
-
-*2024-03-13 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/97920/hrw-urges-imf-to-oppose-repression-of-civic-space-in-sri-lanka) · `en`
-
-The International Monetary Fund (IMF) should urge Sri Lanka’s government to abandon draft legislation that would severely curtail civil society and jeopardize the IMF’s program in the country, Human Rights Watch (HRW) has said in a letter to the global lender that was released today (March 13).
-
-Issuing a statement in this regard, the HRW – an international non-governmental organization that conducts research and advocacy on human right – highlighted that the proposed Non-Governmental Organizations (Registration and Supervision) Act in Sri Lanka is among several recent and planned measures that would curtail fundamental freedoms, despite the critical role of public scrutiny in promoting good governance and combatting corruption.
-
-...
-
-[Data](articles/535dfaa3.json)
-
-[Extended Data](ext_articles/535dfaa3.ext.json)
-
----
-
-### Sri Lanka doctors who left the country returning: report
-
-*2024-03-13 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctors-who-left-the-country-returning-report-154500/) · `en`
-
-ECONOMYNEXT – Doctors who left the country amid an economic crisis and a hike in income tax are returning, helping ease a shortage of specialists in the state-run hospital system, a media report said.
-
-“Some groups that migrated are returning, especially consultant doctors, specialist doctors, nursing officers, technical officers,” Deputy Director General (Medical Services) Dr G Wijesuriya said in a video published by Daily Mirror online.
-
-◼️
-
-[Data](articles/d512db99.json)
-
-[Extended Data](ext_articles/d512db99.ext.json)
-
----
-
-### The police went to the spa with uniform
-
-*2024-03-13 12:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடையுடன்-ஸ்பா-சென்ற-பொலிஸ்/175-334603) · `ta`
-
-A police sergeant in a first-grade uniform was investigated for visiting a spa with his uniform. After investigations, he was released.
-
-🟩
-
-A police sergeant wearing a first -grade uniform, on the way to the court, has been a uniform spa.. Investigations have revealed that he had gone with uniform to get a service.
-
-The police headquarters, who was taken to the Yakkala police station, has been released after investigations.. The police Sergender, who was recruited to the Dompe police, has been released after the investigation.
-
-According to information received by the Yakkala Police Station in connection with the police uniform, a police officer was sent to the station and brought to the police station and police station to find service to the Spa Center at the Yakkala Police Division.
-
-◼️
-
-[Data](articles/46c8b6c2.json)
-
-[Extended Data](ext_articles/46c8b6c2.ext.json)
-
----
-
-### Elderly Sri Lankan couple found dead near their Melbourne home
-
-*2024-03-13 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/97919/elderly-sri-lankan-couple-found-dead-near-their-melbourne-home) · `en`
-
-An elderly Sri Lankan couple who died together outside their home may have been overcome by Melbourne’s blistering heatwave, Australian media reported.
-
-The bodies of Doyne Caspersz and his wife Marlene were found outside their home on Antigoni Court, Warrandyte about 9.30am on Tuesday.
-
-Daily Mail Australia has been told CCTV captured their sad demise on Sunday, when temperatures soared in Warrandyte to 38C.
-
-It remains unknown why the beloved couple decided to leave their home, which is located in a wealthy Melbourne neighbourhood.
-
-Melbourne had been within the grips of a shocking heatwave, which saw temperatures climb to 36C on Monday as the couple remained undiscovered outside their property.
-
-A detective at the scene on Tuesday told Daily Mail Australia the couple’s death had been nothing more than a tragic accident.
-
-Shocked residents described the pair, both aged in their eighties, as friendly people who kept to themselves but would wave to neighbours when passing by in the street.
-
-...
-
-[Data](articles/21f9e06d.json)
-
-[Extended Data](ext_articles/21f9e06d.ext.json)
-
----
-
-### Russian, Indian visitors to Sri Lanka remain high in March
-
-*2024-03-13 12:15:00* · [`economynextcom`](https://economynext.com/russian-indian-visitors-to-sri-lanka-remain-high-in-march-154492/) · `en`
-
-ECONOMYNEXT – Visitors to Sri Lanka exceeded 500,000 this week, the Sri Lanka Tourism Development Authority (SLTDA) Chairman Priyantha Fernando said.
-
-“As of now, we have exceeded 500,000 arrivals for the year and 70,000 in March,” Fernando told EconomyNext on Wednesday.
-
-The top five sources were Russia, India, Germany, United Kingdom and China.
-
-There were 9,783 Russian tourists and 9,735 Indian tourists as of March 10.
-
-The high visitor numbers from Russia were seen as the Department of Immigration said it was cancelling extended visas of Russians and Ukrainians following a criticism of a party on racist lines where only ‘white’ people were allowed.
-
-There have been criticism that Russians were running businesses, but it is not known to what extent they were helping boost an eco-system of services or promotions that were helping bring visitors. (Colombo/Mar13/2024)
-
-◼️
-
-[Data](articles/9e370ba1.json)
-
-[Extended Data](ext_articles/9e370ba1.ext.json)
 
 ---

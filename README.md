@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 14:17:54**
+As of **2024-03-13 14:33:15**
 
 ## Newspaper Stats
 
-*Scraped **12,627** Articles*
+*Scraped **12,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,73 @@ dailyftlk | 650
 economynextcom | 669
 islandlk | 686
 adalk | 1,079
-adaderanalk | 1,522
+adaderanalk | 1,524
 tamilmirrorlk | 1,540
 virakesarilk | 1,758
-dailymirrorlk | 1,921
+dailymirrorlk | 1,922
 adaderanasinhalalk | 1,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,622 (100.0%) of 12,627 articles have been extended.
+12,627 (100.0%) of 12,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### உண்டியலை உடைத்த பெண்கள் இருவர் கைது
+### Suspect arrested with haul of various drugs including heroin
+
+*2024-03-13 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97923/suspect-arrested-with-haul-of-various-drugs-including-heroin) · `en`
+
+Modara Police have arrested a suspect along with a large consignment of drugs including heroin.
+
+Reportedly, 1.5kg of heroin, 7kg of Kerala cannabis, 1kg of ingredients used in narcotic pills and a machine used for making pills have been seized from the possession of the arrestee.
+
+◼️
+
+[Data](articles/318ecf56.json)
+
+---
+
+### Two women arrested for breaking the bundle
 
 *2024-03-13 14:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/உண்டியலை-உடைத்த-பெண்கள்-இருவர்-கைது/95-334607) · `ta`
 
-கொழும்பு, புதுக்கடை நீதிமன்ற வளாகத்திற்கு முன்பாக உள்ள பூர்வாரம போதிமலு விகாரையில் உண்டியலை உடைத்து பணத்தை திருடிய குற்றச்சாட்டில் இரு பெண்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two women arrested for breaking money at Nalvarama Bodhimalu Vihara in Colombo. Arrested by banana police, handed over to plantation police. Suspect from Chilaw.
 
-இந்த சம்பவம், புதன்கிழமை (13) மதியம் 12.50 மணியளவில்   இடம்பெற்றுள்ளது. நீதிமன்றத்திற்கு முன்பாக போக்குவரத்து கடமையில் ஈடுபட்டிருந்த வாழைத்தோட்ட பொலிஸ் உத்தியோகத்தர்கள் சந்தேக நபர்களான பெண்கள் இருவரையும் கைது செய்து வாழைத்தோட்ட  பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் சிலாபம் பிரதேசத்தைச் சேர்ந்தவர்கள்  என பொலிஸார் தெரிவிக்கின்றனர்.
+Two women have been arrested for allegedly breaking money at the Nalvarama Bodhimalu Vihara in front of the Pudukkadai court complex in Colombo, police said.
 
-விகாரைக்குள்  நுழைந்த பெண், உண்டியலை உடைத்து அதிலிருந்த பணத்தை பொதிசெய்து, மற்றுமொரு பெண்ணிடம் கொடுத்ததாக நேரில் பார்த்தவர் கூறியுள்ளார்.
+The incident took place at around 12.50 pm on Wednesday (13). The banana police officers who were on duty in front of the court have arrested the two suspects and handed over the two suspects to the banana plantation police.
+
+The suspect is from Chilaw, police said.
+
+The woman who entered the Vihara, broke the bundle and paid the money and gave it to another woman.
 
 ◼️
 
 [Data](articles/989b0bf1.json)
+
+[Extended Data](ext_articles/989b0bf1.ext.json)
+
+---
+
+### Young Journalists’ Association challenges IGP’s appointment
+
+*2024-03-13 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Young-Journalists-Association-challenges-IGPs-appointment/108-278776) · `en`
+
+Colombo, March 13 (Daily Mirror) -  The Young Journalists’ Association of Sri Lanka today filed a fundamental rights petition before the Supreme Court seeking an order to quash the appointment of Deshabandu Tennakoon as the Inspector General of Police.
+
+On behalf of the Young Journalists’ Association of Sri Lanka, its President Tharindu Jayawardhana, Secretary M.F.M. Fazeer, Convenor Shalika Wimalasena, Treasurer Nirosh Maithree, Committee Member Tharindu Uduwaragedara, Vice President B. Niroshkumar and member Reka Nilukshi filed this petition
+
+stating that the appointment of Deshabandu Tennakoon as IGP is illegal, arbitrary, irrational and contrary to and in violation of the provisions of the Constitution.
+
+◼️
+
+[Data](articles/c9043848.json)
 
 ---
 
@@ -68,45 +104,65 @@ Putin said the U.S. understood that if it deployed American troops on Russian te
 
 [Data](articles/a72a2353.json)
 
+[Extended Data](ext_articles/a72a2353.ext.json)
+
 ---
 
-### சிவலிங்கத்தை வழிபட்ட வெள்ளை நாகம்
+### The white snake that worshiped the Shiva Lingam
 
 *2024-03-13 13:54:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிவலிங்கத்தை-வழிபட்ட-வெள்ளை-நாகம்/71-334606) · `ta`
 
-இராணுவத்தினரால் வழிபட்டு வந்த சிவலிங்கம் ஒன்றை வெள்ளை நாக பாம்பு ஒன்றும் வழிபட்டு வந்த தகவல் தற்போது வெளியாகியுள்ளது.
+A white Naga snake, worshiped by the military, has been revealed in Jaffna's Kankesanthurai area. The land, once a military high-security zone, now belongs to its owners. The army had a small temple under a tamarind tree, where snakes, including a white Naga, were seen around a Shiva Lingam on special days. The video was shared, leading to increased worship of the temple.
 
-யாழ்ப்பாணம் காங்கேசன்துறை பகுதியில் இராணுவ உயர் பாதுகாப்பு வலயமாக கடந்த 33 வருடங்களாக காணப்பட்ட சுமார் 20 ஏக்கர் காணி அண்மையில் காணி உரிமையாளர்களிடம் மீள கையளிக்கப்பட்டது.
+🟩
 
-விடுவிக்கப்பட்ட காணிகளுக்குள் ஒரு காணிக்குள் புளிய மரம் ஒன்றின் கீழ் சிறு பிள்ளையார் கோவில் ஒன்றை அமைத்து , அதனுள் ஆட்டுக்கல் ஒன்றினை சிவலிங்கமாக உருவகப்படுத்தி இராணுவத்தினர் வழிபட்டு வந்துள்ளனர்.
+A white Naga snake worshiped by the military has now been revealed.
 
-அந்த ஆலயத்திற்கு பௌர்ணமி தினம் உள்ளிட்ட விசேட தினங்களில் வெள்ளை நாக பாம்பு உள்ளிட்ட சில பாம்புகள் வந்து செல்வதனை இராணுவத்தினர் அவதானித்து , வெள்ளை நாக பாம்பு ஒன்று சிவலிங்கத்தை சுற்றி இருந்த வேளை அதனை தமது கையடக்க தொலைபேசியில் காணொளியாக பதிவு செய்து வைத்துள்ளனர்.
+About 20 acres of land, which has been found in the Kankesanthurai area of Jaffna for the past 33 years as a military high security zone, has recently been handed over to the land owners.
 
-இந்நிலையில் அண்மையில் அக்காணிகளுக்குள் இருந்து இராணுவத்தினர் வெளியேறிய போது , குறித்த காணொளியை காணி உரிமையாளருக்கு கொடுத்த இராணுவத்தினர் , " இதொரு சக்தி வாய்ந்த கோவில்" என கூறி அதனை தொடர்ந்து பராமரிக்குமாறு கூறியுள்ளனர்.
+The army has worshiped a small Pillaiyar temple under a tamarind tree within a land of liberated lands, simulating a goat inside it.
 
-...
+On special days, including a full moon, some snakes, including a white naga snake, have come to the temple and recorded it on their mobile phone as a white snake surrounded the Shivalingam.
+
+When the army recently left the area, the soldiers gave the video to the land owner, calling it a "powerful temple" and continued to maintain it.
+
+As the video is currently being shared on social media, many people are worshiping the temple.
+
+Meanwhile, people who have observed a white fluid from the tamarind tree in the area where the temple is located, claim to be milk.
+
+◼️
 
 [Data](articles/3e24a071.json)
 
+[Extended Data](ext_articles/3e24a071.ext.json)
+
 ---
 
-### சிறுமி துஷ்பிரயோகம்: 52 வயதானவருக்கு கடூழிய சிறை
+### Wisdom abuse: 52 -year -old
 
 *2024-03-13 13:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுமி-துஷ்பிரயோகம்-52-வயதானவருக்கு-கடூழிய-சிறை/76-334605) · `ta`
 
-நானுஓயா பொலிஸ் பிரதேசத்தில் பாடசாலை மாணவியான சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகம் செய்ததாக குற்றஞ்சாட்டப்பட்டிருந்த 52 வயதான நபரை குற்றவாளியாக இனங்கண்ட,  சு  நுவரெலியா மேல் நீதிமன்றம், அவருக்கு  10 வருட கடூழிய சிறை தண்டனை விதித்து தீர்ப்பளித்துள்ளது. .
+A 52-year-old man was sentenced to 10 years in prison for sexually abusing a schoolgirl in Nanuoya, Sri Lanka. The victim's parents lodged a complaint, leading to the case in Nuwara Eliya High Court. The judge ordered the man to pay 500,000 rupees to the victim and 15,000 rupees as court costs.
 
-நுவரெலியா மேல் நீதிமன்ற நீதிபதி விராஜ் வீரசூரிய  இந்த தீர்ப்பை புதன்கிழமை (13) வழங்கினார்.
+🟩
 
-நானு ஓயா பிரதேசத்தை சேர்ந்த சந்தேகநபர்,  பிரதேசத்தை சேர்ந்த 16 வயதுக்கு குறைவான பாடசாலை சிறுமி ஒருவரை 2011 ஆம் ஆண்டு காலப்பகுதியில் பாலியல் துஷ்பிரயோகம் செய்துள்ளார்.
+The Suu Nuwara Eliya High Court has sentenced him to 10 years rigorous imprisonment for allegedly accused of sexually abusing a schoolgirl in Nanuoya police.. .
 
-பாடசாலை ஊடாக சிறுமியின் பெற்றோருக்கு தெரியவந்ததையடுத்து  குறித்த நபருக்கு எதிராக  நானு ஓயா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டது.  அது தொடர்பிலான வழக்கு நுவரெலியா மேல் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வந்தது.
+Nuwara Eliya High Court Judge Viraj Weerasuriya presented the verdict on Wednesday.
 
-குற்றஞ்சாட்டப்பட்ட  சந்தேகநபருக்கு எதிரான சாட்சியங்களின் அடிப்படையில் 52 வயதான நபர்  நீதிமன்றத்தின் ஊடாக குற்றவாளியாக இனங்காணப்பட்டார். .
+The suspect from Nanu Oya area has been sexually abused in 2011 by a school girl under the age of 16 from the area.
+
+The girl's parents were informed through the school and lodged a complaint at the Nanu Oya Police Station against the man.The case was filed in the Nuwara Eliya High Court and is being investigated.
+
+A 52 -year -old man was found guilty of court on the basis of evidence against the accused suspect. .
+
+At the same time, the judge ruled that the victim should be paid a compensation of five lakh rupees, the judge said that if the amount did not pay, he would be sentenced to three years in prison.
 
 ...
 
 [Data](articles/8aad5d99.json)
+
+[Extended Data](ext_articles/8aad5d99.ext.json)
 
 ---
 
@@ -1786,6 +1842,24 @@ The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-
 
 ---
 
+### Couple found dead in murder-suicide at guest house
+
+*2024-03-13 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/97910/couple-found-dead-in-murder-suicide-at-guest-house) · `en`
+
+A man has fatally stabbed a woman before taking his own life by hanging himself inside a room at a guest house in Pottuvil, police said.
+
+The couple had been staying in a room at the guest house in Arugam Bay yesterday and owing to a suspicion due to them not opening the door, the manager of the establishment had informed officers at the Argugam Bay Police Post and broke down the door of the room with their help.
+
+They had then discovered the woman in question lying in a pool of blood in the room while the man was found hanging inside the bathroom in an apparent murder-suicide.
+
+The deceased woman is a 35-year-old resident of Mahakalugolla and the man is 51-year-old from Pottuvil, police said.
+
+◼️
+
+[Data](articles/ef5c5b47.json)
+
+---
+
 ### Petition to Supreme Court from Dianya
 
 *2024-03-13 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194444) · `si`
@@ -2162,6 +2236,8 @@ It is difficult to find another instance in the history of central banking where
 
 [Data](articles/c68ba1ac.json)
 
+[Extended Data](ext_articles/c68ba1ac.ext.json)
+
 ---
 
 ### Canada Visa - Tellippala
@@ -2205,63 +2281,5 @@ Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka 
 [Data](articles/b5f0e12d.json)
 
 [Extended Data](ext_articles/b5f0e12d.ext.json)
-
----
-
-### Harmulaka Sri Pada SriPharship Reserve
-
-*2024-03-13 02:30:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c723739n73lo) · `si`
-
-Sri Pada Reserve in Sri Lanka, a major biodiversity hotspot, faces significant environmental challenges due to annual pilgrimage waste. Despite efforts to manage garbage, the issue persists, impacting water sources and local wildlife.
-
-🟩
-
-Among the forest reserves in Sri Lanka, biodiversity has a significant place to Sri Pada reserve. Sri Lankan animals and plantes are living in the central hills, which are endangered with extinction of Sri Lanka in Sri Pada Reserve. The Sri Pada Reserve is a major catchment area. There are operating water sources in several major rivers in Sri Lanka.
-
-One million pilgrims will travel annually to worship the Sri Prasaka. The dumping place carried out by pilgrims from the Undup Poya Day to Vesak Poya Day in December, the pilgrims have been thrown into a massive environmental problem.
-
-The place where the garbage is visible to the pilgrimage of tonnes per year, the place of garbage has become a very common view. It is not to be a difficult act, bring back to the rubbish top of the garbage.
-
-...
-
-[Data](articles/f88d1b46.json)
-
-[Extended Data](ext_articles/f88d1b46.ext.json)
-
----
-
-### UNP ‘Sebewa’ rally a farce claims Marikkar
-
-*2024-03-13 02:27:54* · [`dailyftlk`](https://www.ft.lk/news/UNP-Sebewa-rally-a-farce-claims-Marikkar/56-759406) · `en`
-
-Samagi Jana Balawegaya (SJB) MP S.M Marikkar at the  media briefing yesterday shows a video clip of President Ranil Wickremesinghe at the UNP election rally at Kuliyapitiya on Sunday
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said the inaugural United National Party (UNP) rally held in Kuliyapitiya on Sunday was nothing but a farce.
-
-He alleged that the UNP had gathered its Local Government candidates from across the country to Kuliyapitiya on the day, likening the rally to a farce, akin to the UNP leader’s assertion in 2017 that a Volkswagen assembly plant would be established in Kuliyapitiya.
-
-Marikkar pointed out that despite Wickremesinghe’s extensive travels across the country over the past 17 months and his promises to establish various investment and tourism zones, no tangible progress has been made yet.
-
-...
-
-[Data](articles/0a20b4a3.json)
-
-[Extended Data](ext_articles/0a20b4a3.ext.json)
-
----
-
-### Japanese grant worth Rs. 3.3 b to extend humanitarian aid amid economic woes
-
-*2024-03-13 02:26:46* · [`dailyftlk`](https://www.ft.lk/news/Japanese-grant-worth-Rs-3-3-b-to-extend-humanitarian-aid-amid-economic-woes/56-759405) · `en`
-
-The Cabinet of Ministers approved to sign the exchange papers and other relevant documents with the Government of Japan to obtain a grant of Japanese Yen 1,600 million (around Rs. 3.3 billion) to provide immediate humanitarian assistance for the communities impacted by the ongoing economic crisis and to empower the State sector for upgrading the economic situation of the country.
-
-The funds are extended under the Japanese Economic and Social Development Program which will support the initiatives of i) Enhancing response and management for oil spills by the Sri Lanka Coastal Defence Force, ii) Providing equipment to improve maternal and infant care in major hospitals of the Northern province, along with equipment for garment courses at vocational training centres in the same province and iii) Supplying equipment to enhance the security of fishermen in the Northern and Eastern provinces.
-
-...
-
-[Data](articles/ba8a94bc.json)
-
-[Extended Data](ext_articles/ba8a94bc.ext.json)
 
 ---

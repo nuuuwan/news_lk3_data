@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 15:17:51**
+As of **2024-03-13 15:33:27**
 
 ## Newspaper Stats
 
-*Scraped **12,638** Articles*
+*Scraped **12,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,080
+adalk | 1,081
 adaderanalk | 1,524
 tamilmirrorlk | 1,540
 virakesarilk | 1,760
-dailymirrorlk | 1,923
+dailymirrorlk | 1,926
 adaderanasinhalalk | 1,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,637 (100.0%) of 12,638 articles have been extended.
+12,638 (100.0%) of 12,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### Canadian High Commissioner meets Anura Dissanayake
+
+*2024-03-13 15:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Canadian-High-Commissioner-meets-Anura-Dissanayake/108-278779) · `en`
+
+Colombo, March 13 (Daily Mirror)- Canadian High Commissioner Eric Walsh met National People's Power (NPP) leader Anura Kumara Dissanayake at the JVP Headquaters today where they discussed the economic and politcal situation in Sri Lanka.
+
+Second Secretary (Political) Patrick Pickering and NPP MP Vijitha Herath also joined the meeting.
+
+The dicussion focused on matters related to the current social, economic and political situation in Sri Lanka.
+
+They also discussed the NPP's plans towards upholding national harmony.
+
+The Canadian High Commissioner congratulated Dissanayake on his upcoming visit to Canada to meet the Sri Lankan community there.
+
+◼️
+
+[Data](articles/965cefaf.json)
+
+---
 
 ### Forest killed in clashes
 
@@ -101,6 +121,26 @@ Temple priest T. Mathimukarasa and. Thamilchelvan, D. Kindiyan, Su Thavapalasing
 [Data](articles/60a08eee.json)
 
 [Extended Data](ext_articles/60a08eee.ext.json)
+
+---
+
+### හමුදා ලුතිනන් මත්කුඩු සමග අත්අඩංගුවට
+
+*2024-03-13 14:43:36* · [`adalk`](https://www.ada.lk/breaking_news/හමුදා-ලුතිනන්-මත්කුඩු-සමග-අත්අඩංගුවට/11-408588) · `si`
+
+යුද හමුදා ලුතිනන්වරයෙකු  හොරයින් මත්කුඩු සමග  බොරලැස්ගමුව  පිල්ලෑව ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව බොරලැස්ගමුව පොලිසිය කියයි
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කුරුවිට ගැමුණු හේවා රෙජිමේන්තු මූලස්ථානයේ , 4 වන  ගැමුණු හේවා බලකායට අනුයුක්ත 32 හැවිරිදි ලුතිනන් වරයෙක් වන අතර සැකකරු මැදවච්චිය  මන්නාරම පාර පදිංචිකරුවෙකි.
+
+බොරලැස්ගමුව පොලිසියට අනුයුක්ත බුද්ධි අංශ  නිලධාරියාට ලද යුක්තියේ මෙහෙයුමට සමගාමීව ලද තොරතුරකට අනුව  සැකකරු පරීක්ෂා කිරීමට යාමේදී ඔහු පොලිස් නිලධාරීන් මගහැරීමට උත්සාහ දරා ඇති අතර අනතුරුව සිදුකළ පරීක්ෂාවේදී ඔහු  හැඳ සිටි කලිසමේ සාක්කුවේ සඟවා තිබූ මත්කුඩු මිලිග්‍රෑම් 60 ක් පොලිස් භාරයට ගැනීමට හැකි වී ඇත
+
+මේ දිනවල දිවයින පුරා දැඩි මත්ද්‍රව්‍ය  හිඟයක් පවතින බැවින්  සැකකරු  නිවාඩු දමා කුඩු මිලදී ගැනීම සඳහා පැමිණ ඇති බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+අත්අඩංගුවට ගත් සැකකරු මීට පෙර අවස්ථා දෙකකදී මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට පත්වී දැඩි අවවාද කර මුදා හැර ඇති පුද්ගලයකු බවට හඳුනාගත් බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/0d7f743b.json)
 
 ---
 
@@ -408,19 +448,25 @@ Golris Kahraman was the first person to be elected as a Member of Parliament aft
 
 ---
 
-### මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කර ගැනීම අවලංගු කිරීමේ පනත පාර්ලිමේන්තුවට
+### Increase of arbitrary salary increase in the Central Bank
 
 *2024-03-13 13:16:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-අත්තනෝමතික-වැටුප්-වැඩි-කර-ගැනීම-අවලංගු-කිරීමේ-පනත-පාර්ලිමේන්තුවට/11-408586) · `si`
 
-මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කර ගැනීම අවලංගු කිරීම සහ මහ බැංකුවේ සේවක වැටුප් වැඩිකිරීමේ දී මුදල් අමාත්‍යවරයාගේ එකගතාවය ලබා ගැනීම අනිවාර්ය කිරීම  අරමුණු කරගත්   පාර්ලිමේන්තු මන්ත්‍රි උදය ගම්මන්පිල මහතා විසින් ගෙන එනු ලබන පනත් කෙටුම්පත අද  (13) පාර්ලිමේන්තුවේ දී පාර්ලිමේන්තුවේ වැඩ බලන මහලේකම් හංස අබේරත්න මහතා වෙත භාරදෙන ලදී.
+Udaya Gammanpila proposes a salary increase for Central Bank employees, backed by a bill amending the Central Bank Act No. 16 of 2023. The Acting Secretary General of Parliament, Hansitha Abeyratne, highlights its national importance and seeks the Attorney General's opinion.
 
-මෙම පනත් කෙටුම්පත 2023 අංක 16 දරණ ශ්‍රී ලංකා මහ බැංකු පනත සංශෝධනය කිරීම පිණිස වූ පනත් කෙටුම්පතකි.
+🟩
 
-මෙම පනත් කෙටුම්පත භාරගනිමින් පාර්ලිමේන්තුවේ වැඩ බලන මහලේකම් හංස අබේරත්න මහතා ප්‍රකාශකර සිටියේ ජාතික වැදගත්කමක් සේ සලකා නීතිපතිවරයාගේ මතය විමසීමට මෙම පනත් කෙටුම්පත කඩිනමින් ඉදිරිපත් කරන බවයි.
+Udaya Gammanpila, aiming the increase in the increase in the Central Bank's arbitrary salaries and increase the employee's salaries of the Central Bank to the Secretary General of Parliament today (13)Were handed over.
+
+The Bill is a bill to amend the Central Bank Act No. 16 of 2023.
+
+Acting Secretary General of Parliament Hansitha Abeyratne has said that this bill is presented with a national importance of the National Importance of the Bill and inquire into the Attorney General's opinion.
 
 ◼️
 
 [Data](articles/d404ecca.json)
+
+[Extended Data](ext_articles/d404ecca.ext.json)
 
 ---
 
@@ -2182,6 +2228,26 @@ From running cafes, restaurants, bars to exchanging money and running undial ser
 
 ---
 
+### Tourists doing business: Sri Lanka to get tough
+
+*2024-03-13 06:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourists-doing-business-Sri-Lanka-to-get-tough/108-278731) · `en`
+
+- Raids are presently being conducted in the south to identify illegally run businesses
+
+- In future, foreigners will need a local partner to operate businesses
+
+Colombo, March 13 (Daily Mirror) - The government will soon strengthen its laws to prevent foreign nationals from operating businesses in the country while they are under tourist visas and have already begun conducting raids in the south, the Daily Mirror learns.
+
+Earlier this month, the Daily Mirror exclusively reported that several foreign nationals including Russians, Ukrainians and Israelis who were in Sri Lanka under tourist visas were operating businesses in tourist hotspots which had severely hampered the local tourist industry.
+
+From running cafes, restaurants, bars to exchanging money and running undial services and providing accommodation and transport, several foreign nationals who have been in the country long term due to conflicts in their own countries, seem to have taken the law for granted.
+
+...
+
+[Data](articles/69a1d363.json)
+
+---
+
 ### The latest weather notification
 
 *2024-03-13 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194441) · `si`
@@ -2233,69 +2299,5 @@ The stabilisation of the economy and the adoption of International Monetary Fund
 [Data](articles/2855f59a.json)
 
 [Extended Data](ext_articles/2855f59a.ext.json)
-
----
-
-### APAC economies and commodity exporters most exposed to China stress scenario: Fitch
-
-*2024-03-13 03:57:52* · [`dailyftlk`](https://www.ft.lk/opinion/APAC-economies-and-commodity-exporters-most-exposed-to-China-stress-scenario-Fitch/14-759429) · `en`
-
-Fitch Ratings believes that economies in the Asia-Pacific (APAC) and commodity exporters would be particularly affected under a severe downside stress scenario in China. There would also be a dampening effect on international price pressures.
-
-Fitch’s analysis released last week, based on internal modelling using the Oxford Economics Global Economic Model, sees vulnerabilities in Vietnam, Korea, Taiwan, Hong Kong, Malaysia and Singapore, through their strong economic linkages with China.
-
-It also suggests Middle Eastern energy exporters, such as Bahrain, Kuwait, Iraq, Qatar and Oman, would see slower real GDP growth. However, this does not capture factors such as Qatar’s long-term LNG supply contracts, which we think should make its exports less sensitive to short-term shifts in Chinese demand, limiting the hit to its GDP.
-
-...
-
-[Data](articles/a47de54f.json)
-
-[Extended Data](ext_articles/a47de54f.ext.json)
-
----
-
-### The country needs the education system to compensate for the challenges and build the future generation that value policies - the president
-
-*2024-03-13 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/178577) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of strengthening the education system to prepare future generations for policy-making, at the 150th anniversary of Wesley College. He highlighted the college's role in producing notable figures for Sri Lanka, including pioneers, leaders, and professionals. The event featured discussions on AI and future teaching systems, and honored the contributions of Wesley College to nation-building.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the country's education should be strengthened and strengthened the descendants of their policies and improved on all occasions without fleeing the deaths.
-
-President Ranil Wickremesinghe said this at the 150th anniversary of Wesley College held at the Sangari Law Hotel, Colombo on Monday (11).
-
-The President pointed out that Wesley College had pioneer service to create citizens needed for the country and thanked.
-
-Wesley College, Colombo was established under the Methodist Missionary Education System during the British Colonial rule in 1874. The college has created a number of prominent figures who served Sri Lanka in various fields, including the pioneers, governors, general leaders, businessmen, traders, scientists and professors.
-
-At the event, R. Somanathan, a college's alumnus and a professor of St. Diok University of the United States, presented the specialist titled "Artificial Intelligence (AI) and Future Teaching System".
-
-...
-
-[Data](articles/ec2b167e.json)
-
-[Extended Data](ext_articles/ec2b167e.ext.json)
-
----
-
-### Talawakelle Tea Estates wins Best Corporate Citizen Sustainability Award 2023
-
-*2024-03-13 02:48:08* · [`dailyftlk`](https://www.ft.lk/business/Talawakelle-Tea-Estates-wins-Best-Corporate-Citizen-Sustainability-Award-2023/34-759409) · `en`
-
-Talawakelle Tea Estates yesterday won the coveted ‘Best Corporate Citizen Sustainability Award 2023’ at the 20th Best Corporate Citizen Sustainability Awards organised by the Ceylon Chamber of Commerce.
-
-Aitken Spence and Nestlé Lanka were adjudged the first and second runners up respectively.
-
-The annual BCCS Awards is the premier corporate citizenship award, and highlights sustainability champions in the national corporate arena. The Awards promote corporate citizen sustainability ownership and initiatives that deliver social and environmental benefits while pursuing profits.
-
-Talawakelle Tea Estates also walked away with the Category B ‘Best Corporate Citizen Sustainability Award 2023’, awarded to companies with an annual turnover below Rs. 15 billion, while Elpitiya Plantations and Kelani Valley Plantations were awarded as the respective first and second runners-up in this category.
-
-...
-
-[Data](articles/864951ef.json)
-
-[Extended Data](ext_articles/864951ef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 08:51:37**
+As of **2024-03-13 09:02:47**
 
 ## Newspaper Stats
 
-*Scraped **12,551** Articles*
+*Scraped **12,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,106 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 666
 islandlk | 685
-adalk | 1,071
-adaderanalk | 1,511
-tamilmirrorlk | 1,525
-virakesarilk | 1,741
-dailymirrorlk | 1,911
+adalk | 1,072
+adaderanalk | 1,512
+tamilmirrorlk | 1,526
+virakesarilk | 1,743
+dailymirrorlk | 1,912
 adaderanasinhalalk | 1,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,549 (100.0%) of 12,551 articles have been extended.
+12,551 (100.0%) of 12,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් ළඟදීම
+### இலங்கையின் சிவில் இடைவெளி 'ஒடுக்கப்பட்டுள்ளது' எனும் நிலைக்குத் தரமிறக்கம் - 'சிவிகஸ்' சர்வதேச சிவில் சமூக அமைப்பு தெரிவிப்பு
+
+*2024-03-13 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178582) · `ta`
+
+எமது அமைப்பின் 'சிவில் இடைவெளி' தொடர்பான தரப்படுத்தலில் கடந்த ஆண்டு டிசம்பர் மாதம் இலங்கையானது 'ஒடுக்கப்பட்டுள்ளது' எனும் நிலைக்குத் தரமிறக்கப்பட்டுள்ளது என சிவிகஸ் எனும் சர்வதேச சிவில் சமூக அமைப்பு தெரிவித்துள்ளது.
+
+உலகளாவிய ரீதியில் சிவில் சமூக அமைப்புக்களின் செயற்பாடுகள் மற்றும் சிவில் சமூக இடைவெளியை வலுப்படுத்துவதை முன்னிறுத்தி தென்னாபிரிக்காவைத் தளமாகக்கொண்டு இயங்கிவரும் சிவில் சமூக அமைப்புக்களின் கூட்டிணைவான சிவிகஸ் அமைப்பினால் இலங்கையின் மனித உரிமைகள் நிலைவரம் மற்றும் சிவில் சமூக செயற்பாடுகளுக்கான இடைவெளி தொடர்பில் வெளியிடப்பட்டுள்ள அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ள முக்கிய விடயங்கள் வருமாறு:
+
+எமது அமைப்பின் 'சிவில் இடைவெளி' தொடர்பான தரப்படுத்தலில் கடந்த ஆண்டு டிசம்பர் மாதம் இலங்கையானது 'ஒடுக்கப்பட்டுள்ளது' எனும் நிலைக்குத் தரமிறக்கப்பட்டது. அதிகாரிகளால் ஆர்ப்பாட்டக்காரர்கள் ஒடுக்கப்படல், ஊடகவியலாளர்கள் மீதான ஒடுக்குமுறைகள், சிவில் செயற்பாட்டாளர்கள் இலக்குவைக்கப்படல் மற்றும் பொறுப்புக்கூறலின்மை என்பன இத்தரமிறக்கலுக்குக் காரணமாக அமைந்தன.
+
+...
+
+[Data](articles/5a80b30d.json)
+
+---
+
+### Non-academic staff members’ strike continues
+
+*2024-03-13 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97911/non-academic-staff-members-strike-continues) · `en`
+
+The trade union action launched by the non-academic staff members of state universities has entered the second consecutive day. Accordingly, the strike will be continued until 4.30 p.m. today.
+
+Non-academic staffers of all 17 state universities launched the token strike at noon yesterday (March 12) in protest of the authorities’ failure to rectify their salary cut as promised at the January 22 meeting.
+
+“If the authorities do not provide us with a solution, we will resort to an indefinite strike starting next week,” the co-secretary of the Inter University Trade Union Federation, K. L. D. G. Richmond said commenting on the matter.
+
+◼️
+
+[Data](articles/a369c4a8.json)
+
+---
+
+### Sri Lanka eye on winning start in ODI Series
+
+*2024-03-13 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eye-on-winning-start-in-ODI-Series/108-278736) · `en`
+
+Colombo, March 13 (Daily Mirror) - Buoyed by their thrilling 2-1 Twenty20 International (T20I) Series victory against Bangladesh, Sri Lanka gear up for a three-match One Day International (ODI) Series starting today at the Zahur Ahmed Chowdhury Stadium in Chattogram.
+
+The ODI Series presents an opportunity for the Sri Lankans not only to extend their winning streak against Bangladesh but also to avenge their previous defeat in the last ODI encounter at the ICC World Cup 2023.
+
+Sri Lanka displayed grit and determination in the recently concluded T20I series, overcoming a blip in the second match to clinch the series with victories in the first and third games.
+
+Meanwhile, Sri Lanka Cricket (SLC) Chief Selector Upul Tharanga said Lahiru Kumara has been added to the ODI Squad after Asitha Fernando was ruled out following an injury while Kamindu Mendis was included replacing Shevon Daniel.
+
+...
+
+[Data](articles/7698144d.json)
+
+---
+
+### கொழும்பில் 44 கிலோமீற்றர் கொண்ட பிரதான கால்வாய் அமைப்பின் புனரமைப்பு துரிதப்படுத்த நடவடிக்கை !
+
+*2024-03-13 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178580) · `ta`
+
+இலங்கை காணி மீட்புக் கூட்டுத்தாபனம் இந்த ஆண்டு 24 வருடாந்த வேலைத்திட்டங்களை 4 முக்கிய பிரிவுகளின் கீழ் கொழும்பு நகரம் மற்றும் புறநகர் பகுதிகளில் வெள்ளத்தை கட்டுப்படுத்த கால்வாய் அணைகள் மற்றும் குளங்களை புனரமைத்து வருகிறது.
+
+இலங்கை காணி மீட்புக் கூட்டுத்தாபனம் அதன் கீழ் கால்வாய்கள், ஏரிகள் மற்றும் நடைபாதைகளின் பராமரிப்பு மற்றும் புனரமைப்பு, வெள்ளக் கட்டுப்பாடு, ஈரநிலங்கள் மற்றும் தாழ்நிலங்களின் அபிவிருத்தி, வடிவமைப்பு பணிகள், வரைபடமாக்கல் மற்றும் சாத்தியக்கூறு ஆய்வுகள் என்று கூறுகிறது.
+
+...
+
+[Data](articles/07e406e4.json)
+
+---
+
+### A National Education policy soon
 
 *2024-03-13 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194446) · `si`
 
-ජාතික අධ්‍යාපන ප්‍රතිපත්තියක් ක්‍රියාත්මක කිරීම සඳහා ඉදිරියේදී පියවර ගන්නා බව සුසිල් ප්‍රේම්ජයන්ත් අමාත්‍යවරයා පවසයි.
+The Minister of Susil Premams announces a national education policy, aiming to unify schools without distinction between national and provincial. Discussions are ongoing in the Mendix Committee. The policy will gradually introduce reforms, including teacher training and technological updates. The minister emphasizes the need for continuous improvement and adaptation, inspired by global educational practices. Parliament's approval is required for any changes.
 
-ඔහු සඳහන් කළේ, මෙරට ජාතික පාසල් සහ පළාත් සභා පාසල් භේදයකින් තොරව එකම පාසල් වර්ගයක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බවය.
+🟩
 
-"අධ්‍යාපන ප්‍රතිසංස්කරණවල  ප්‍රතිපත්ති රාමුවේ තියෙනවා යෝජනා කරලා ජාතික පාසල් සහ පළාත් සභා පාසල් කියලා වෙන් නොකර එකම වර්ගයක් තියන්න. ඒ පිළිබඳව අධීක්ෂණ කාරක සභාවේ සාකච්ඡා වෙමින් පවතිනවා. එකවර බැරිවෙයි. නමුත් ක්‍රමානුකූලව අදියරයෙන් අදියර ඒක කරන්න පුළුවන් වෙයි.
+The Minister of Susil Premams says that action will be taken to implement a national education policy.
+
+He said that the same school is scheduled to be implemented without national schools and provincial schools.
+
+"There are the same type of proposing to the policy framework of the education reforms and do not separate the schools in national schools and provincial councils.. Discussions are being discussed in the Mendix Committee. Can't be caught at once. But in the stage, the stage is gradually.
 
 ...
 
 [Data](articles/25013292.json)
+
+[Extended Data](ext_articles/25013292.ext.json)
 
 ---
 
@@ -65,6 +135,8 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 ...
 
 [Data](articles/0903a2b6.json)
+
+[Extended Data](ext_articles/0903a2b6.ext.json)
 
 ---
 
@@ -129,6 +201,24 @@ The letter has given instructions on how to plan the daily activities and outdoo
 [Data](articles/98d5cd96.json)
 
 [Extended Data](ext_articles/98d5cd96.ext.json)
+
+---
+
+### ගෙවතු වගා වෙනුවෙන් රු.මි. 232ක්
+
+*2024-03-13 07:59:54* · [`adalk`](https://www.ada.lk/breaking_news/ගෙවතු-වගා-වෙනුවෙන්-රු-මි--232ක්/11-408576) · `si`
+
+රටේ ආර්ථිකය ශක්තිමත් කිරීම වෙනුවෙන් කෘෂිකර්ම අමාත්‍යාංශය විශාල වැඩකොටසක් සිදුකරමින් සිටින බවත්, මේ වන විට පර්චස් 10ට වැඩි ගෙවතු වගා සඳහා රුපියල් ලක්ෂ2ක උපරිමයකට යටත්ව මූල්‍ය ප්‍රතිපාදන ලබාදීමට සැලසුම් කර ඇති බවත් කෘෂිකර්ම රාජ්‍ය අමාත්‍ය මොහාන් ප්‍රියදර්ශන ද සිල්වා මහතා පැවසීය.
+
+ඒ වෙනුවෙන් රුපියල් මිලියන 232ක මුදලක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මගින් වෙන් කර ඇති බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+කෘෂිකර්ම රාජ්‍ය අමාත්‍ය මොහාන් ප්‍රියදර්ශන ද සිල්වා මහතා මෙම අදහස් පළ කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (12) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+":මේ වන විට අප දරුණු ආර්ථික අර්බුදයකට මුහුණ දී නැඟීසිටිමින් සිටින රටක්. පසුගිය කාලයේ කෘෂිකර්ම කේෂ්ත්‍රයේ ද විශාල අර්බුද රැසකට මුහුණ දුන්නා.  නමුත් දැන් එම තත්ත්වය වෙනස් වෙමින් තිබෙනවා. කෘෂිකර්ම අමාත්‍යාංශය ද රටේ ආර්ථිකය ශක්තිමත් කිරීමට විශාල වැඩකොටසක් සිදු කරමින් සිටිනවා. ඒ හමුවේ රටේ ආර්ථිකය මෙන්ම කෘෂිකර්මාන්තයද පෙර තිබූ තත්ත්වයට වඩා වර්ධනයක් අත්කර ගනිමින් තිබෙනවා.
+
+...
+
+[Data](articles/c3651664.json)
 
 ---
 
@@ -463,6 +553,24 @@ The Cabinet of Ministers approved the proposal submitted by the Urban Developmen
 [Data](articles/e9f04871.json)
 
 [Extended Data](ext_articles/e9f04871.ext.json)
+
+---
+
+### ’சவால்களுக்கு ஈடுகொடுக்க வேண்டும்’
+
+*2024-03-13 02:42:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவால்களுக்கு-ஈடுகொடுக்க-வேண்டும்/175-334588) · `ta`
+
+சாவால்களைக் கண்டு தப்பி ஓடாமல், அனைத்துச் சந்தர்ப்பங்களிலும் தமது கொள்கைகளில் உறுதியாகவிருந்து, முன்னேற்றிச் செல்லும் சந்ததியை, இந்த நாட்டுக் கல்வியின் மூலம் உருவாக்கி, வலுவூட்ட வேண்டும் என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+கொழும்பு சங்கரீ லா ஹோட்டலில் நேற்று முன்தினம் நடைபெற்ற வெஸ்லி கல்லூரியின் 150 ஆவது ஆண்டுப் பூர்த்தி விழாவிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+தேசத்தைக் கட்டியெழுப்பிய பிரஜைகளை உருவாக்கும் பணியில் வெஸ்லி கல்லூரி அளப்பரிய சேவையை ஆற்றியுள்ளது. வெஸ்லி கல்லூரி பிரஜைகளையும், தலைவர்களையும் உருவாக்கியது. அவர்கள் தேசத்தை வடிவமைத்தனர்.
+
+நாம் கல்வி கற்ற காலத்தில் அரச பாடசாலைகள், தனியார் மற்றும் உதவிகளைப் பெற்று இயங்கும் பாடசாலைகள் என பல பிரிவுகள் இருந்தன. துரதிஷ்டவசமாக நீங்கள் அனைவரும் அரசாங்க பாடசாலைகள் மற்றும் தனியார் பாடசாலைகள் என இரு பிரிவுகளுக்குள் மாத்திரம் சிக்கிக்கொண்டுள்ளீர்கள். அதனால் கல்வி முறையில் ஏற்படுத்தப்பட வேண்டிய மாற்றம் குறித்து ஆராய்ந்து வருகிறோம் என்றார். (a)
+
+◼️
+
+[Data](articles/a48d1977.json)
 
 ---
 
@@ -2081,155 +2189,5 @@ Accordingly, the announcement has been made reference to the instructions issued
 [Data](articles/2391f7c2.json)
 
 [Extended Data](ext_articles/2391f7c2.ext.json)
-
----
-
-### The Gaza ceasefire has not yet approached: Qatar
-
-*2024-03-12 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178555) · `ta`
-
-Qatar reports no progress in Gaza ceasefire talks with Israel and Hamas. Despite efforts by the US, Qatar, and Egypt, a ceasefire before Ramadan failed. The death toll in Gaza has risen to 31,184 since October 7.
-
-🟩
-
-Qatar, who is medium -stricken, said on Tuesday that Israel and Hamas were not close to the ceasefire in Gaza.
-
-The United States, Qatar and Egypt have been trying for several weeks to set up a ceasefire in Gaza.
-
-Serious efforts were made to establish a ceasefire before the holy Ramadan. But, the efforts were not worth it.
-
-A spokesman for the Qatar Foreign Ministry has said that we are not close to the compliance between Israel and Hamas
-
-Although efforts are continuing, he said that there is no time for the ceasefire.
-
-Meanwhile, the death toll of the war in Gaza in Gaza has increased to 31184 since October 7, the Gaza Health Ministry said.
-
-◼️
-
-[Data](articles/5dcb6bf4.json)
-
-[Extended Data](ext_articles/5dcb6bf4.ext.json)
-
----
-
-### Spicy re-export decision suspended
-
-*2024-03-12 18:04:07* · [`adalk`](https://www.ada.lk/breaking_news/කුළුබඩු-ප්‍රති-අපනයන-තීරණය-අත්හිටුවයි/11-408571) · `si`
-
-The government has suspended a gazette notification allowing the import of various pepper varieties, following opposition from Minister Mahinda Amaraweera, who argued it would negatively impact Sri Lanka's spice quality.
-
-🟩
-
-The decision has been decided to suspend the gazette notification that the government has expressed the permission to import permission to import permission to re-import several varieties of peppers.
-
-Minister of Agriculture Mahinda Amaraweera has opposed the gazette notification at the Cabinet of Agriculture yesterday (11) by the permission of importation of the spice exclusive.
-
-He further stated that this is a profound effect on the quality of the spices of Sri Lanka in the first place.
-
-Accordingly, the government has decided to suspend a gazette notification issued to be released to the country's exports to the country's importation to the country.
-
-◼️
-
-[Data](articles/8d0fdf48.json)
-
-[Extended Data](ext_articles/8d0fdf48.ext.json)
-
----
-
-### KPMG values Sri Lanka’s Expolanka share
-
-*2024-03-12 18:02:00* · [`economynextcom`](https://economynext.com/kpmg-values-sri-lankas-expolanka-share-154405/) · `en`
-
-ECONOMYNEXT – A valuation report by KPMG on Expolanka Holdings Plc has suggested the value of a share between 136.9 rupees and 152.6 rupees.
-
-“The per share value ranges for Expo from LKR 126.2 (SOTP) LKR 152.6 (VWAP),” KPMG said in its valuation report.
-
-“We suggest a value between LKR 136.9 (SOTP) to LKR 152.6 (VWAP) for a potential transaction, excluding any premium or discount, considering that this range would better reflect the potential future performance of the business.”
-
-KPMG said a combination of valuation methodologies namely, Discounted Cash Flow Methodology (“DCF”) and Net Asset Value methodology (“NAV”) and Volume Weighted Average Price (“VWAP”) were considered in arriving at the equity value range for EXPO.
-
-The equity value range and value per share for EXPO as of the valuation date, was arrived at under a Sum-of-the-Parts (“SOTP”) basis, the audit firm said.
-
-...
-
-[Data](articles/18e98cd1.json)
-
-[Extended Data](ext_articles/18e98cd1.ext.json)
-
----
-
-### Father remanded for attacking wife
-
-*2024-03-12 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194428) · `si`
-
-The suspect's husband was remanded until the 26th for allegedly attacking his wife, who is receiving treatment at the Ragama Teaching Hospital. The incident involved a heated argument about the child's paternity.
-
-🟩
-
-The suspect's husband was remanded until the 26th of this month.
-
-The suspect was produced before Colombo Additional Magistrate Saman Ratnayake.
-
-The victim was receiving treatment at the Ragama Teaching Hospital and did not receive medical reports.
-
-The police have told the court that the suspect is constantly revealed that the suspect her husband conflicts with his wife.
-
-The police further stated that a heated argument about the patronage of the child's paternity in the womb is that the suspect her husband had attacked his wife's abdomen.
-
-It has been revealed that the wife was admitted to the Ragama hospital.
-
-◼️
-
-[Data](articles/c2fe6f2b.json)
-
-[Extended Data](ext_articles/c2fe6f2b.ext.json)
-
----
-
-### Banks worn by suspension of the Parade law
-
-*2024-03-12 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194427) · `si`
-
-The Sri Lanka Bank Association (SLBA) criticizes the government's decision to suspend the Parade law, affecting debt through Pradesh law. They argue this decision impacts businesses negatively, without consultation. The Central Bank of Sri Lanka (CBSL) warns of government intervention, potentially increasing debt costs for all businesses.
-
-🟩
-
-The Sri Lanka Bank Association (SLBA) says that the government's unilateral decision has been suspended to suspend the debt through the Pradesh law.
-
-In a statement, they point out that the decision has been taken to affect the influence of several offenses who do not represent the entire business community.
-
-The Central Bank of Sri Lanka (CBSL) is Licensed State Banks, Sri Lanka's Bank Association (SLBA), such as private banks and international banks, government intervention is a warning of the government's involvement.
-
-The association pointed out that the Association has shown no discussion with the banks in this regard due to the government's decision, all businesses will increase the cost of debt.
-
-SLBA STATEMENT ON SUSPENSION OF SUSPENSION OF PARTENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUSPENSION OF SUCTION - Sinhala - Unicode By Poornima On Scribd
-
-◼️
-
-[Data](articles/6cab3812.json)
-
-[Extended Data](ext_articles/6cab3812.ext.json)
-
----
-
-### Court of Appeal notice not to take further action on Colombo private hospital
-
-*2024-03-12 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178552) · `ta`
-
-The Court of Appeal has postponed further action on a Colombo private hospital case until the 27th, during a hearing to prevent an order against the hospital's director.
-
-🟩
-
-The Court of Appeal on Tuesday (12) announced to the court that the Court of Appeal should not take further action until the 27th of this month.
-
-The announcement was made when the petition was taken up for hearing to prevent the order to prevent the invitation to the Director of the Director of a Private Hospital in Colombo.
-
-The petition was taken up for hearing in the presence of the Court of Appeal in the presence of Tamitha Ganapola.
-
-◼️
-
-[Data](articles/1dc5763a.json)
-
-[Extended Data](ext_articles/1dc5763a.ext.json)
 
 ---

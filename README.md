@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 14:50:36**
+As of **2024-03-13 15:02:52**
 
 ## Newspaper Stats
 
-*Scraped **12,635** Articles*
+*Scraped **12,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,101 @@ islandlk | 686
 adalk | 1,079
 adaderanalk | 1,524
 tamilmirrorlk | 1,540
-virakesarilk | 1,759
+virakesarilk | 1,760
 dailymirrorlk | 1,923
-adaderanasinhalalk | 1,991
+adaderanasinhalalk | 1,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,630 (100.0%) of 12,635 articles have been extended.
+12,635 (100.0%) of 12,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### මහා හඬ පෞර්ෂය සදහටම නිහඬ වෙයි
+### වනඅලි ප්‍රහාරයකින් මවක් මරුට
+
+*2024-03-13 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194460) · `si`
+
+වනඅලියෙකු කඩාපැනීම හේතුවෙන් කුඩා දරුවෙකු සමග තවත් නිවසකට දුව යමින් සිටි කාන්තාවක් වනඅලි ප්‍රහාරයට ලක්වී ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙම සිද්ධිය ඊයේ (12) රාත්‍රියේ මඩු කට්ටෙඅඩප්පන් ප්‍රදේශයෙන් වාර්තාවී තිබුණි.
+
+සිද්ධියෙන් තුවාල ලැබූ කුඩා දරුවා ප්‍රතිකාර සඳහා මන්නාරම රෝහලට ඇතුළත් කර ඇත.
+
+◼️
+
+[Data](articles/a4baba0a.json)
+
+---
+
+### வெடுக்குநாறிமலை சம்பவம் ; கைதுசெய்யப்பட்டவர்கள் உண்ணாவிரதம்!!
+
+*2024-03-13 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178625) · `ta`
+
+வெடுக்குநாறிமலையில் சிவராத்திரி வழிபாடுகளில் ஈடுபட்டபோது கைதுசெய்யப்பட்டு சிறையில் அடைக்கப்பட்டவர்கள் உண்ணாவிரத போராட்டத்தில் குதித்துள்ளனர்.
+
+வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று  கைதுசெய்யப்பட்ட ஆலயபூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று நேற்று உத்தரவு பிறப்பித்துள்ளது.
+
+இதனையடுத்து அவர்கள் வவுனியா விளக்கமறியல் சிறைச்சாலையில் நேற்றையதினம் மாலை அடைக்கப்பட்டனர்.இந்நிலையில் தங்களை விடுதலைசெய்யகோரி அவர்கள் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+
+குறிப்பாக நேற்றயதினம் காலை நீதிமன்றிற்கு கொண்டுசெல்லப்படும் போதே அவர்கள் உணவினை எடுத்திருக்கவில்லை. இந்நிலையில் இன்றையதினமும் அவர்கள் உணவினை உட்கொள்வதற்கு மறுத்துள்ளனர்.
+
+கைதுசெய்யப்பட்ட எட்டுபேரில் ஆலய பூசாரியார் த.மதிமுகராசா மற்றும் து. தமிழ்ச்செல்வன்,  தி.கிந்துயன், சு.தவபாலசிங்கம், விநாயகமூர்த்தி ஆகியோரே உண்ணாவிரத போராட்டத்தினை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/60a08eee.json)
+
+---
+
+### The personality is always silent
 
 *2024-03-13 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194459) · `si`
 
-ප්‍රවීණ නිවේදක සහ ජ්‍යේෂ්ඨ මාධ්‍යවේදී අශෝක තිලකරත්න මහතා අභාවප්‍රාප්ත වී තිබේ.
+Senior journalist Asoka Thilakaratne, a key figure in Sri Lanka's golden age, has passed away at Kalubowila Hospital.
 
-ඒ මහතා අසනීප තත්ත්වයක් හේතුවෙන් කළුබෝවිල රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මෙලෙස අභාවප්‍රාප්ත වී ඇත.
+🟩
 
-ඒ මහතා මෙරට ගුවන්විදුලියේ ස්වර්ණමය යුගයේ පෙරගමන්කරු ලෙස සැළකෙන රිජ්වේ තිලකරත්න මහතාගේ එකම සොහොයුරාය.
+Senior Journalists Asoka Thilakaratne has passed away.
+
+He has passed away while receiving treatment at Kalubowila Hospital due to illness.
+
+He is the only brother of Thilakarathne's brother, as the golden age of the ruling Sri Lanka.
 
 ◼️
 
 [Data](articles/5968ff2f.json)
 
+[Extended Data](ext_articles/5968ff2f.ext.json)
+
 ---
 
-### 8 වන ශ්‍රේණියට අලුත් වෙනසක්
+### A new change to grade 8
 
 *2024-03-13 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194458) · `si`
 
-පාසල්වල 8 වැනි ශ්‍රේණියෙන් ඉහළ ශ්‍රේණි සඳහා වු තොරතුරු තාක්ෂණ විෂය මාලාව සංශෝධනය කිරීමට පියවර ගෙන තිබේ.
+"Schools introduce AI stream in IT curriculum for Grade 8. Pilot project starts March 19. National Institute of Education partners with Ministry of Education to raise knowledge standards. Minister Susil Premajayantha highlights this at Mount Lavinia Girls' School."
 
-ඒ අනුව තොරතුරු තාක්ෂණ විෂය ධාරාව සමග කෘතිම බුද්ධිය විෂය ධාරාව හඳුන්වාදෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා සඳහන් කළේය.
+🟩
 
-එහි නියමු ව්‍යාපෘතිය එළැඹෙන මාර්තු 19 වන දා පාසල් 17ක් සම්බන්ධ කරගනිමින් ආරම්භ කිරීමට නියමිතව තිබේ.
+Steps have been taken to amend the Information Technology Curriculum for High Grades 8 of schools.
 
-මේ සඳහා අධ්‍යාපන අමාත්‍යාංශය සමග මයික්‍රෝසොෆ්ට් ආයතනය එක්ව සිටින අතර ජාත්‍යන්තර ප්‍රමිතීන්ට අනුව විෂය දැනුම මෙරට දරුවන්ට ලබාදීමට ඒ අනුව හැකිවන බව අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේය.
+Minister of Education Susil Premajayantha said that the artificial intelligence stream of the IT is introduced is to introduce artificial intelligence stream.
 
-ගල්කිස්ස උසස් බාලිකා විද්‍යාලයට සිය වසක් සම්පූර්ණ වීම නිමිත්තෙන් එහි පැවති සමරු උත්සවයට එක්වෙමින් අමාත්‍යවරයා මෙම අදහස් පළ කර තිබේ.
+Its pilot project is to be started by the 19th of March.
+
+According to the Minister of Education, the National Institute of Education is partners with the Ministry of Education and the children of Sri Lanka will be able to provide the subject knowledge knowledge to international standards.
+
+The Minister expressed his views to the commemorative ceremony of the Mount Lavinia Girls' School to complete his year.
 
 ◼️
 
 [Data](articles/a5800000.json)
+
+[Extended Data](ext_articles/a5800000.ext.json)
 
 ---
 
@@ -86,23 +134,31 @@ Japan’s moon lander survives two-week lunar night after wonky landing
 
 [Data](articles/310d6837.json)
 
+[Extended Data](ext_articles/310d6837.ext.json)
+
 ---
 
-### யாழில் இளம் குடும்பஸ்தரின் கொலைக்கு பயன்படுத்திய கார் அராலியில் மீட்பு!
+### Recovery of a car used for the murder of a young family in Jaffna
 
 *2024-03-13 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178622) · `ta`
 
-யாழ்ப்பாணம் பொன்னாலை கடற்படை முகாமுக்கு அருகில் இருந்து திங்கட்கிழமை 23 வயதுடைய தவச்செல்வம் பவித்திரன் என்ற குடும்பஸ்தர் கடத்தப்பட்டு வெட்டி படுகொலை செய்யப்பட்டுள்ளார்.
+Jaffna Crime Police arrest 5 suspects in connection with the murder of 23-year-old Thavchelvam Pavitran, abducted from Ponnala Naval Base. The murder weapon, a car, was recovered from a house near West Nochikkattu Pillaiyar temple, showing signs of a previous attack and bloodstains.
 
-இந்நிலையில் கொலை குற்றச்சாட்டின் கீழ் ஐந்து சந்தேகநபர்கள் செவ்வாய்க்கிழமை (12), யாழ்ப்பாண குற்றத்தடுப்பு பொலிஸாரால் கிளிநொச்சியில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இந்நிலையில், அவர்கள் கொலை செய்வதற்கு பயன்படுத்திய கார் அராலி மேற்கு நொச்சிக்காட்டு பிள்ளையார் கோவிலுக்கு அருகாமையில் உள்ள வீடு ஒன்றில் இருந்து, யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பொலிஸாரால் மீட்கப்பட்டுள்ளது. அவ்விடத்திற்கு விரைந்த தடயவியல் பொலிஸாரும் தடயங்களை சேகரித்து வருகின்றனர்.
+23 -year -old Thavchelvam Pavitran, a 23 -year -old family member, was abducted and murdered from the Ponnala Naval Base in Jaffna.
 
-குறித்த குடும்பஸ்தர் மீது, காரில் வைத்தே தாக்குதல் நடாத்தப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுகிறது. பாவனையற்ற வீடு ஒன்றிற்கு முன்னால் இருந்து இந்த கார் மீட்கப்பட்டுள்ளது. குறித்த காரானது நீண்ட காலம் பாவனை இல்லாமல் இருந்தது போல் தூசிபடிந்தவாறு காணப்படுவதுடன், காரின் உள்ளே இரத்தக்கறையும், கொட்டன்களும் காணப்படுகிறது.
+Five suspects have been arrested in Kilinochchi by the Jaffna Crime Police on Tuesday (12).
+
+In this case, the car used for murder has been rescued by the Jaffna District Crime Police, from a house near the West Nochikkattu Pillaiyar temple.. The forensic police rushed to the spot and are collecting traces.
+
+It is suspected that the car may have been attacked by a car. The car has been recovered from a front house in front of. The car is seen as dusty as it was long for a long time, and the blood inside the car is bleeding.
 
 ◼️
 
 [Data](articles/3a6aee99.json)
+
+[Extended Data](ext_articles/3a6aee99.ext.json)
 
 ---
 
@@ -122,19 +178,25 @@ Reportedly, 1.5kg of heroin, 7kg of Kerala cannabis, 1kg of ingredients used in 
 
 ---
 
-### මෝදර දී කොටුවූ ජාවාරම්කරු
+### Racketener trapped in Modara
 
 *2024-03-13 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194457) · `si`
 
-විවිධ වර්ගයේ මත්ද්‍රව්‍ය සමග පුද්ගලයෙක්ව අත්අඩංගුවට ගෙන ඇති බව මෝදර පොලීසිය පවසයි.
+A person was arrested in Modara with 1.5kg heroin and 7kg Kerala cannabis, and a suspected alcohol production machine was found.
 
-පොලීසිය පවසන්නේ එහිදී ඔහු සන්තකයේ තිබී හෙරොයින් කිලෝග්‍රෑම් 1.5ක් සහ කේරළ ගංජා කිලෝ 7ක් සොයාගෙන ඇත.
+🟩
 
-මේ අතර එහිදී මත්කරල් නිෂ්පාදනයට යොදාගන්නා බවට සැකකරන ද්‍රව්‍ය සහ ඒවා සැකසීමට යොදාගත් බවට සැකකෙරෙන යන්ත්‍රයක් ද පොලීසිය සොයාගෙන තිබේ.
+Modara Police say that a person has been arrested with various types of drugs.
+
+According to the police, he held 1.5 kilograms of heroin and 7kg of Kerala cannabis.
+
+Meanwhile, police have also found a machine that was suspected to be used for the production of alcohol.
 
 ◼️
 
 [Data](articles/72444321.json)
+
+[Extended Data](ext_articles/72444321.ext.json)
 
 ---
 
@@ -2231,45 +2293,5 @@ Until L. Ilangovan was appointed as the Chief Secretary of the Northern Province
 [Data](articles/a31dec43.json)
 
 [Extended Data](ext_articles/a31dec43.ext.json)
-
----
-
-### SLSI to sign MoU with China’s Standardisation Administration to boost trade
-
-*2024-03-13 02:44:43* · [`dailyftlk`](https://www.ft.lk/business/SLSI-to-sign-MoU-with-China-s-Standardisation-Administration-to-boost-trade/34-759408) · `en`
-
-The Sri Lanka Standards Institute (SLSI) is set to collaborate with the Standardisation Administration of China to alleviate technical barriers hindering non-tariff trade between Sri Lanka and China.
-
-The Cabinet of Ministers cleared to sign a Memorandum of Understanding (MoU) to streamline trade processes and enhance economic cooperation between the two countries.
-
-“Following thorough review processes, from the Attorney General and the External Affairs Ministry, approval was received to proceed with signing the MoU,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said.
-
-He said the move reflects a significant step towards enhancing trade facilitation and strengthening economic ties between Sri Lanka and China.
-
-In 2023, Sri Lanka exported a total of $ 257.73 million worth of goods.
-
-◼️
-
-[Data](articles/0bb6b69d.json)
-
-[Extended Data](ext_articles/0bb6b69d.ext.json)
-
----
-
-### Access, Ninewells JV get UDA land for healthcare venture
-
-*2024-03-13 02:44:04* · [`dailyftlk`](https://www.ft.lk/business/Access-Ninewells-JV-get-UDA-land-for-healthcare-venture/34-759407) · `en`
-
-The N.W. Realty Ltd., which was formed as a joint venture between Ninewells Hospital Ltd., and Access International Ltd., got around 0.1929 hectares (0.47 acres) of land for a healthcare project.
-
-“Investment proposals have been invited on a competitive basis to dispose of a plot of land belonging to the Urban Development Authority (UDA), located at Kirimandala Mawatha in Narahenpita, for health and related activities development project for a 50-year lease period,” Cabinet Spokesman and Minister Bandula Gunawardena said at the post-Cabinet meeting media briefing yesterday.
-
-The Cabinet of Ministers approved the proposal submitted by the Urban Development and Housing Minister Prasanna Ranatunga, after reviewing the recommendations of the Cabinet Appointed Standing Negotiation Committee.
-
-◼️
-
-[Data](articles/e9f04871.json)
-
-[Extended Data](ext_articles/e9f04871.ext.json)
 
 ---

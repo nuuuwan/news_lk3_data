@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 19:50:44**
+As of **2024-03-13 20:02:53**
 
 ## Newspaper Stats
 
-*Scraped **12,685** Articles*
+*Scraped **12,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 650
 economynextcom | 669
 islandlk | 686
-adalk | 1,086
+adalk | 1,087
 adaderanalk | 1,530
-tamilmirrorlk | 1,546
+tamilmirrorlk | 1,547
 virakesarilk | 1,765
 dailymirrorlk | 1,933
 adaderanasinhalalk | 2,006
@@ -26,25 +26,51 @@ adaderanasinhalalk | 2,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,684 (100.0%) of 12,685 articles have been extended.
+12,685 (100.0%) of 12,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### රබර් වත්තක සිරුරක්
+### IMF இன் உறுதிமொழிகளை நிறைவேற்றத் தவறிய இலங்கை
+
+*2024-03-13 19:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-உறுதிமொழிகளை-நிறைவேற்றத்-தவறிய-இலங்கை/175-334619) · `ta`
+
+பெப்ரவரி மாத இறுதிக்குள் இலங்கை சர்வதேச நாணய நிதியத்தின் 33% உறுதிமொழிகளை 'நிறைவேற்றத்' தவறியுள்ளது.
+
+வெரிட்டே ரிசர்ச்சின் ' IMF கண்காணிப்பானின்' பெப்ரவரி மாத புதுப்பிப்பின்படி, இலங்கை அதன் சர்வதேச நாணய நிதியத் (IMF) திட்டத்தில் 2024 பெப்ரவரி இறுதிக்குள் நிறைவேற்ற வேண்டிய உறுதிமொழிகளில் 33% ஐ நிறைவேற்றத் தவறியுள்ளது.
+
+'நிறைவேற்றப்படாதவை' என வகைப்படுத்தப்பட்டுள்ள இவ் உறுதி மொழி பல ஆளுகையை மேம்படுத்துவதற்காக வடிவமைக்கப்பட்ட உறுதிமொழிகள் என்பதை IMF கண்காணிப்பான் வெளிப்படுத்துகிறது.
+
+தகவல்களை வெளியிடுவது தொடர்பான உறுதிமொழிகள் (வெளிப்படைத்தன்மை) மற்றும் ஆளுகையை மேம்படுத்தும் சட்டத்தை ஏற்றுக்கொள்வது தொடர்பான உறுதிமொழிகளும் இதில் அடங்கும்.
+
+மோசமான ஆளுகையே இலங்கையின் பொருளாதார  நெருக்கடிக்கு மையக் காரணி என்பதை சர்வதேச நாணய நிதியம் (IMF) அடையாளம் கண்டுள்ளதுடன், சர்வதேச நாணய நிதியத்தின் தலைமையிலான ஆளுகை கண்டறியும் மதிப்பீட்டைக் கொண்ட முதல் ஆசிய நாடாக இலங்கை காணப்படுகிறது.
+
+...
+
+[Data](articles/b3e66216.json)
+
+---
+
+### A body of a rubber estate
 
 *2024-03-13 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194476) · `si`
 
-මාතර වැලිගම උඩුකාව ප්‍රදේශයේ රබර්වත්තක තිබී කැපුම් තුවාල සහිතව සැක කටයුතු ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක් අද (13) ප්‍රදේශවාසින් විසින් සොයාගෙන තිබේ.
+Residents in Udukawa's Rubber Estate arrested for murder. Victim found in pants and bank, cut in leg and chest.
 
-වැලිගම පොලිස් නිලධාරින් සිදුකළ පරීක්ෂා කිරීමේදී මියගිය පුද්ගලයාගේ කලිසම් සාක්කුවේ තිබී මුදල් හා මුදල් බැංකුගත කළ රිසිට් පතක් සොයා ගැනුණි.
+🟩
 
-මියගිය පුද්ගලයාගේ කකුලේ සහ පපු ප්‍රදේශයේ කැපුම් තුවාල තිබූ බවද වැලිගම පොලීසිය පැවසීය.
+Residents in a Rubber Estate in Udukawa area in Matara have been arrested by residents today (13).
+
+Investigations carried out by the Weligama police officers, the victim was found in the pants and a bank.
+
+Weligama Police said that the deceased was cut in the leg and the chest.
 
 ◼️
 
 [Data](articles/221abf33.json)
+
+[Extended Data](ext_articles/221abf33.ext.json)
 
 ---
 
@@ -171,6 +197,28 @@ The incident occurred when the people who had been repaired at the specified mot
 [Data](articles/4a23a3ed.json)
 
 [Extended Data](ext_articles/4a23a3ed.ext.json)
+
+---
+
+### නොමිලයේ කියලා දෙයක් නෑ
+
+*2024-03-13 18:37:11* · [`adalk`](https://www.ada.lk/breaking_news/නොමිලයේ-කියලා-දෙයක්-නෑ/11-408593) · `si`
+
+රටේ ආර්ථිකය පිළිබඳ සත්‍ය අවබෝධ කර නොගෙන, බලය ලබා ගැනීම වෙනුවෙන් ලබාදුන් දේශපාලන පොරොන්දු නිසා රටේ ජනතාවට දැඩි පීඩාවකට ලක්වීමට සිදු වූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එම වරද කිරීමට තමා සූදානම් නැති බව අවධාරණය කළ ජනාධිපතිවරයා සත්‍යයට මුහුණ දෙමින් රටට සුබවාදී අනාගතයක් ගොඩනගා ගැනීමට සියලුදෙනා කටයුතු කළයුතු බවද පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “යුනයිටඩ් යූත් තරුණ එකමුතුව “ තරුණ අපේ අනාගතය” නමින් සංවිධානය කළ සුහද හමුවට එක්වෙමිනි. මෙම හමුව තැප්රොබේන් ඒන්ටර්ටේට්මන්ට්හීදි ඊයේ (12) පැවැත්විණි.
+
+මෙහිදී අදහස් දැක්වු ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ රටේ ආර්ථිකය ගොඩනැගීමේදී අප කඩිනමින් අපනයන ආර්ථිකයකට යොමු විය යුතු බවයි.
+
+විවිධ ක්ෂේත්‍ර නියෝජනය කරන තරුණ තරුණියන් විශාල පිරිසක් මෙම හමුවට එක්ව සිටි අතර, ඔවුන්ගේ ප්‍රශ්න ඍජුවම ජනාධිපතිවරයා වෙත ඉදිරිපත් කිරීමට ද මෙහිදී අවස්ථාව සලසා දී තිබිණි.
+
+එම සියලු ප්‍රශ්නවලට සාධනීය පිළිතුරු ලබාදීමට කටයුතු කළ ජනාධිපතිවරයා තරුණ තරුණියන් සමග සුහද කථා බහකට ද එක් විය.
+
+...
+
+[Data](articles/ca49c455.json)
 
 ---
 
@@ -1312,11 +1360,17 @@ Japan’s moon lander survives two-week lunar night after wonky landing
 
 *2024-03-13 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97923/suspect-arrested-with-haul-of-various-drugs-including-heroin) · `en`
 
-Modara Police have arrested a suspect along with a large consignment of drugs including heroin.
+Modara Police have arrested a suspect along with a large consignment of drugs estimated to be worth over Rs. 30 million, including heroin.
 
 Reportedly, 1.5kg of heroin, 7kg of Kerala cannabis, 1kg of ingredients used in narcotic pills and a machine used for making pills have been seized from the possession of the arrestee.
 
-◼️
+A suspect has been arrested together with a stock of drugs worth over Rs. 30 million and a machine used in drug production
+
+Police said that the suspect, who was arrested in the Bogaha Junction area in Modara during a search carried out based on a tip-off received by police, was known by the alias “Suduwa”.
+
+Police have also taken custody of 1 kilogram and 500 grams of heroin, 7 kilograms of Kerala cannabis, 950 grams of various raw materials used in the production of intoxicating pills, a machine used in drug production, an electric scale and a cash register.
+
+...
 
 [Data](articles/318ecf56.json)
 
@@ -2433,51 +2487,5 @@ The Sri Lankan team will play a one -day match after 18 years at the Chittagong 
 [Data](articles/33d84e13.json)
 
 [Extended Data](ext_articles/33d84e13.ext.json)
-
----
-
-### International Monetary Fund to call the Sri Lankan proposed NGOs Bill - International Human Rights Watch letter
-
-*2024-03-13 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178591) · `ta`
-
-The International Human Rights Watch has urged the IMF to reject Sri Lanka's proposed NGOs Act, criticizing the use of the Ceremonial Security Act and calls for reforms in anti-terrorism laws to uphold human rights.
-
-🟩
-
-The International Human Rights Watch has called for the IMF to abandon the proposed NGOs Act.
-
-The International Human Rights Watch has called for the Sri Lankan government to stop the use of the Ceremonial Security Act and make changes to the anti -terrorism law in order to respect human rights standards.
-
-The International Human Rights Watch made this request in a letter to the Sarvade Monetary Fund.
-
-The International Human Rights Watch has called for the Sri Lankan government to abandon the Sri Lankan government's abandonment of a copy of the International Monetary Fund's projects in a country where the civil society of the civil society is heavily controlled.
-
-The International Human Rights Watch said that public surveillance against good governance and corruption is very important, but a number of recent procedures to curb basic freedoms are in law.
-
-◼️
-
-[Data](articles/8719d319.json)
-
-[Extended Data](ext_articles/8719d319.ext.json)
-
----
-
-### Woman's body recovery - police seeking help
-
-*2024-03-13 10:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-சடலம்-மீட்பு-உதவியை-நாடியுள்ள-பொலிஸார்/175-334591) · `ta`
-
-Police seek public help to identify a 26-year-old woman's body found in Beruwala.
-
-🟩
-
-The body of the rescued woman has not yet been identified, police said.
-
-The deceased is a 26 -year -old woman and Beruwala police have sought the help of the public to identify her body.. Remble
-
-◼️
-
-[Data](articles/fe912d51.json)
-
-[Extended Data](ext_articles/fe912d51.ext.json)
 
 ---

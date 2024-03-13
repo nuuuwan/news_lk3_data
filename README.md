@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 00:48:40**
+As of **2024-03-14 01:02:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,722 (100.0%) of 12,723 articles have been extended.
+12,723 (100.0%) of 12,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -159,6 +159,8 @@ Dr. Colvin R. de Silva’s position on the executive presidency was slightly mor
 ...
 
 [Data](articles/462d216d.json)
+
+[Extended Data](ext_articles/462d216d.ext.json)
 
 ---
 

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 08:03:51**
+As of **2024-03-13 08:17:52**
 
 ## Newspaper Stats
 
-*Scraped **12,542** Articles*
+*Scraped **12,546** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 120
+colombotelegraphcom | 121
 bbccomsinhala | 143
 dbsjeyarajcom | 185
 newsfirstlk | 363
@@ -17,20 +17,52 @@ economynextcom | 666
 islandlk | 685
 adalk | 1,070
 adaderanalk | 1,511
-tamilmirrorlk | 1,522
+tamilmirrorlk | 1,524
 virakesarilk | 1,741
-dailymirrorlk | 1,909
+dailymirrorlk | 1,910
 adaderanasinhalalk | 1,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,541 (100.0%) of 12,542 articles have been extended.
+12,542 (100.0%) of 12,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### பொத்துவிலில் இரண்டு சடலங்கள் மீட்பு
+
+*2024-03-13 08:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொத்துவிலில்-இரண்டு-சடலங்கள்-மீட்பு/175-334589) · `ta`
+
+ஆண் மற்றும் பெண் ஆகிய இருவரது சடலங்களே இவ்வாறு கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+பொத்துவில் – அருகம்பே பகுதியிலுள்ள ஹோட்டல் ஒன்றில் இருந்து இந்த சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/2b7f5faa.json)
+
+---
+
+### Repeated reminders from Education Ministry over extreme heat
+
+*2024-03-13 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Repeated-reminders-from-Education-Ministry-over-extreme-heat/108-278733) · `en`
+
+Colombo, March 13 (Daily Mirror) - Letters have been sent to all Provincial Education Directors, recalling the recommendations on how schools should act during the current high temperatures.
+
+The letters were sent by Education Ministry Secretary Wasana Perera after considering the sudden death of the 16-year-old schoolboy in Ampara while participating in a marathon race.
+
+The Secretary mentioned in her letters that some schools had ignored the recommendations issued by the Ministry.
+
+The letter has given instructions on how to plan the daily activities and outdoor activities of all schools and pirivenas based on the high temperatures prevailing these days.
+
+◼️
+
+[Data](articles/98d5cd96.json)
+
+---
 
 ### Pets at risk: Heatstroke threatens pets in soaring temperatures
 
@@ -514,6 +546,18 @@ During a meeting with the Ambassador at the Ministry of Power and Energy yesterd
 
 ---
 
+### IMF Should Oppose Restrictions On Freedom of Expression & Civil Society Groups: HRW
+
+*2024-03-13 02:20:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/imf-should-oppose-restrictions-on-freedom-of-expression-civil-society-groups-hrw/) · `en`
+
+The International Monetary Fund (IMF) should urge Sri Lanka’s government to abandon draft legislation that would severely curtail civil society and jeopardize the IMF’s program in the country, Human Rights Watch said in a letter to the IMF that was released today. The proposed Non-Governmental Organizations (Registration and Supervision) Act is among several recent and planned measures that would curtail fundamental freedoms, despite the critical role of public scrutiny in promoting good governance and combatting corruption.
+
+...
+
+[Data](articles/d7e3ab49.json)
+
+---
+
 ### Increase the hot weather
 
 *2024-03-13 02:13:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பமான-வானிலை-அதிகரிக்கும்/175-334585) · `ta`
@@ -758,6 +802,28 @@ The Ceylon Electricity Board (CEB) has asked the people to use electricity as it
 
 ---
 
+### குளிசை தொண்டையில் சிக்கி குழந்தை மரணம்
+
+*2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிசை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
+
+காய்ச்சல் காரணமாக பாட்டி கொடுத்த மாத்திரையொன்று சிறுமியின் தொண்டையில் சிக்கியதில் 4 வயதுச் சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+
+மயக்கமடைந்த சிறுமி மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட சிறுமி நேற்று (11) உயிரிழந்துள்ளார்.
+
+தாய் வௌிநாடு சென்றுள்ளதால் தாத்தா, பாட்டி மற்றும் இரண்டு சகோதரிகளுடன் வீட்டில் வசித்து வந்துள்ளார்.
+
+தந்தை அவர்கள் வசிக்கும் வீட்டிற்கு அருகில் உள்ள வேறொரு வீட்டில் வசித்து வருவதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+மஹியங்கனை வைத்தியசாலையில் சிறுமியின் தொண்டையில் சிக்கியிருந்த மாத்திரை அகற்றப்பட்டு மேலதிக சிகிச்சைக்காக பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+விசாரணை அறிக்கை கிடைக்கும் வரை மரண விசாரணையை ஒத்திவைக்க திடீர் மரண பரிசோதகர் அமல் ஜயவர்தன நடவடிக்கை எடுத்திருந்தார். R
+
+◼️
+
+[Data](articles/021df6c1.json)
+
+---
+
 ### Grandmother's pill's throat
 
 *2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட்டி-கொடுத்த-மாத்திரை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
@@ -786,25 +852,31 @@ Sudden Death Inspector Amal Jayawardena had taken action to postpone the death i
 
 ---
 
-### குளாசை தொண்டையில் சிக்கி குழந்தை மரணம்
+### Baby death stuck in the throat
 
 *2024-03-12 23:39:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளாசை-தொண்டையில்-சிக்கி-குழந்தை-மரணம்/175-334582) · `ta`
 
-காய்ச்சல் காரணமாக பாட்டி கொடுத்த மாத்திரையொன்று சிறுமியின் தொண்டையில் சிக்கியதில் 4 வயதுச் சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+A 4-year-old girl died after swallowing a pill, leading to her admission to the ICU at Peradeniya Sirimavo Bandaranaike Children's Hospital. The pill was removed, and the child was transferred for further treatment. The father is living separately.
 
-மயக்கமடைந்த சிறுமி மஹியங்கனை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர், பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலையின் அதிதீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட சிறுமி நேற்று (11) உயிரிழந்துள்ளார்.
+🟩
 
-தாய் வௌிநாடு சென்றுள்ளதால் தாத்தா, பாட்டி மற்றும் இரண்டு சகோதரிகளுடன் வீட்டில் வசித்து வந்துள்ளார்.
+A 4 -year -old girl has died after a grandmother's pill was caught in the throat of a girl.
 
-தந்தை அவர்கள் வசிக்கும் வீட்டிற்கு அருகில் உள்ள வேறொரு வீட்டில் வசித்து வருவதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+The girl who was admitted to the Intensive Care Unit of the Peradeniya Sirimavo Bandaranaike Children's Hospital has died yesterday (11) after the unconscious girl was admitted to the Mahiyanganaya Hospital.
 
-மஹியங்கனை வைத்தியசாலையில் சிறுமியின் தொண்டையில் சிக்கியிருந்த மாத்திரை அகற்றப்பட்டு மேலதிக சிகிச்சைக்காக பேராதனை சிறிமாவோ பண்டாரநாயக்க சிறுவர் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+The mother has gone home with grandparents and two sisters as the mother has gone to Vavinadu.
 
-விசாரணை அறிக்கை கிடைக்கும் வரை மரண விசாரணையை ஒத்திவைக்க திடீர் மரண பரிசோதகர் அமல் ஜயவர்தன நடவடிக்கை எடுத்திருந்தார். R
+Police investigations have revealed that the father is living in another house near their home.
+
+The pill that was trapped in the girl's throat at Mahiyanganna Hospital has been removed and the Peradeniya Sirimavo Bandaranaike has been transferred to the Bandaranaike Children's Hospital for further treatment.
+
+Sudden Death Inspector Amal Jayawardena had taken action to postpone the death investigation until the investigation was received. Remble
 
 ◼️
 
 [Data](articles/a506f8d9.json)
+
+[Extended Data](ext_articles/a506f8d9.ext.json)
 
 ---
 
@@ -2151,103 +2223,5 @@ Newly appointed British High Commissioner to Sri Lanka Andrew Patrick visited th
 [Data](articles/4956dca0.json)
 
 [Extended Data](ext_articles/4956dca0.ext.json)
-
----
-
-### Petition from Cardinal against appointment of IGP
-
-*2024-03-12 17:06:46* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-කාදිනල්-හිමිගෙන්-පෙත්සමක්/11-408569) · `si`
-
-Cardinal Ranjith and the CPA petition against IGP appointment. Legislative members appointed as respondents. Savithri Gunasekera files reconciliation petition. Deshabandu Tennakoon opposes church's appointment.
-
-🟩
-
-Acting Inspector General of Police, Deshabandu Tennakoon, the Archbishop and the CPA, two other petitions were presented today (12).
-
-Members of the Legislative Members of the Legislative Members of the Legislative Parliamentarians have been appointed as respondents of Malcolm Cardinal Ranjith and the CPA.
-
-Acting Inspector General of Professor Savithri Gunasekera and the reconciliation of the law Professor Saviro Gunasekera and a reconciliation ceremony were first filed by the former Provincial Councilor.
-
-Deshabandu Tennakoon opposed the lawyers' members against the appointment of the church against the appointment of the church. "
-
-◼️
-
-[Data](articles/9891c874.json)
-
-[Extended Data](ext_articles/9891c874.ext.json)
-
----
-
-### Faculty of Medicine to be established at NSBM
-
-*2024-03-12 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97900/faculty-of-medicine-to-be-established-at-nsbm) · `en`
-
-The government has decided to establish a Faculty of Medicine at the National School of Business Management (NSBM), under the direct supervision of and regulation of the Education Ministry, Health Ministry and the Sri Lanka Medical Council (SLMC).
-
-As many as 500 local and foreign students are expected to be annually enrolled for MBBS degrees offered by the NSBM, fully self-financed institution owned by the government.
-
-For this purpose, NSBM has sought the government’s approval to reserve Homagama Base Hospital as a suitable government hospital to provide clinical training for its medical students.
-
-Since the approval of the Cabinet of Ministers has already been given to use the Homagama Base Hospital for clinical training of Sri Jayewardenepura University’s medical students, it has been proposed to prepare a mechanism to reserve the hospital, on the basis of resource sharing, for the clinical training of NSBM medical faculty students as well as professor unit facilities.
-
-...
-
-[Data](articles/301ea1c9.json)
-
-[Extended Data](ext_articles/301ea1c9.ext.json)
-
----
-
-### A vaccine for dengue?
-
-*2024-03-12 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194426) · `si`
-
-Saram, India's largest vaccine manufacturer, is expanding beyond COVID-19 vaccines to include malaria and dengue, with CEO Adar Patula announcing research into these diseases. The company, which invested $2 billion in COVID-19 vaccine production, sells about 1.5 billion vaccines annually and could increase its vaccine production by $2.5 billion by exploring other diseases.
-
-🟩
-
-Siram in Pune, India, who produced the Korona Epidemic, has become the largest injection manufacturer in the world, who has produced universal injection based on the Korona Epidemic.
-
-Now they go beyond the covard injections and explore more diseases.
-
-The CEO of the Saram Institute Adar Patula stated that Saram Institute has commenced research to produce malaria and dengue in the next few years.
-
-Situation is another reason why the demand is reduced to the demand of demand.
-
-The CEO of the Saram's vaccine production can be increased by 2 1/2 billion in the production of other diseases.
-
-Saram spent about US $ 2 billion to enhance its production during the Covid Epidemic.
-
-Saram is selling around 1.5 billion of the vaccines annually.
-
-◼️
-
-[Data](articles/21c944fc.json)
-
-[Extended Data](ext_articles/21c944fc.ext.json)
-
----
-
-### Grama Niladhari Interview Dates
-
-*2024-03-12 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194425) · `si`
-
-Grama Niladhari interviews on March 13, 19, 19 in Narahenpita. Check www.moha.gov.lk for eligibility and required documents.
-
-🟩
-
-The Grama Niladhari interview will be held on March 13, 19 and 15, said the Ministry of Public Administration.
-
-The Ministry further stated that the interview further states that the interview is being carried out in the Home Affairs Division in Narahenpita.
-
-The relevant eligibility requirements can be obtained from the document posted on the website at www.moha.gov.lk
-
-The Ministry of Public Administration has further pointed out that the website can obtain information on documents to be brought to the interview.
-
-◼️
-
-[Data](articles/31a6ad01.json)
-
-[Extended Data](ext_articles/31a6ad01.ext.json)
 
 ---

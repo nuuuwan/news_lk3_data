@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 09:51:51**
+As of **2024-03-13 10:02:49**
 
 ## Newspaper Stats
 
-*Scraped **12,563** Articles*
+*Scraped **12,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,71 @@ dailyftlk | 650
 economynextcom | 666
 islandlk | 685
 adalk | 1,073
-adaderanalk | 1,513
+adaderanalk | 1,514
 tamilmirrorlk | 1,526
 virakesarilk | 1,745
 dailymirrorlk | 1,912
-adaderanasinhalalk | 1,980
+adaderanasinhalalk | 1,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,560 (100.0%) of 12,563 articles have been extended.
+12,563 (100.0%) of 12,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
 
-### ශ්‍රී ලංකා - බංග්ලාදේශ පළමු තරගය අද
+### පාකිස්තාන ජනපතිවරයා වැටුප අත්හරී
+
+*2024-03-13 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194448) · `si`
+
+රට මුහුණ දෙන ආර්ථික අභියෝග හේතුවෙන් පාකිස්තාන ජනාධිපති අසීෆ් අලි සර්දාරි සිය වැටුප අත්හැරීමට තීරණය කර තිබේ.
+
+රටේ මූල්‍ය කළමනාකරණය දිරිගැන්වීම සඳහා ඔහු මෙම තීරණය ගත් බව පාකිස්තාන ජනාධිපති ලේකම් කාර්යාලය නිකුත් කළ නිවේදනයක දැක්වේ.
+
+පාකිස්තාන භාණ්ඩාගාරයට බරක් නොවීම අත්‍යාවශ්‍ය බව සැලකූ ජනාධිපතිවරයා තම වැටුප අත්හැරීමට කැමැත්තක් දැක්වූ බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
+ඊට සහාය පළකිරීමක් වශයෙන් අලුතින් දිවුරුම් දුන් අභ්‍යන්තර කටයුතු අමාත්‍ය මොහ්සින් නක්වි ද ඔහුගේ සේවා කාලය තුළ වැටුපක් ලබා නොගැනීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/5dadffa2.json)
+
+---
+
+### Rajiv Gandhi assassination case convicts to visit Sri Lankan Deputy HC today
+
+*2024-03-13 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97913/rajiv-gandhi-assassination-case-convicts-to-visit-sri-lankan-deputy-hc-today) · `en`
+
+The District Collector of Tiruchirappalli (Tiruchi), India on Tuesday informed the Madras High Court of having fixed an appointment with the Sri Lankan Deputy High Commission in Chennai for former Prime Minister Rajiv Gandhi assassination case convicts Murugan alias Sriharan, Robert Payas and Jayakumar.
+
+Appearing before a Division Bench of Justices R. Suresh Kumar and K. Kumaresh Babu, Additional Public Prosecutor R. Muniyapparaj said all the three released convicts hailed from Sri Lanka and therefore they required travel documents from the Deputy High Commission.
+
+Since they were now detained at a foreigners’ detention camp in Tiruchi, the Collector had written to the Deputy High Commission on Monday, March 11, requesting an appointment for all three of them, and had received a reply on the same day to produce them on Wednesday afternoon.
+
+...
+
+[Data](articles/b0fc4917.json)
+
+---
+
+### Sri Lanka - Bangladesh first match today
 
 *2024-03-13 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194447) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශය අතර තරග 3කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය චිතගොංහිදි අද (13) පැවැත්වෙයි.
+Sri Lanka vs Bangladesh ODI series starts today.
+
+🟩
+
+The first match of the 3-match ODI series match between the Tourism Sri Lanka and Bangladesh will be held today (13).
 
 ◼️
 
 [Data](articles/8e4c1e8d.json)
+
+[Extended Data](ext_articles/8e4c1e8d.ext.json)
 
 ---
 
@@ -234,17 +274,23 @@ Later, the Police and the Special Task Force (STF) were deployed to diffuse the 
 
 ---
 
-### උතුරු පළාත් නව ප්‍රධාන ලේකම් එල්. ඉලංගෝවන්
+### Northern Province Chief Secretary L. Ilangovan
 
 *2024-03-13 08:12:06* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-පළාත්-නව-ප්‍රධාන-ලේකම්-එල්--ඉලංගෝවන්/11-408577) · `si`
 
-උතුරු පළාත් නව ප්‍රධාන ලේකම්වරයා ලෙස එල්. ඉලංගෝවන් මහතා පත්කර තිබේ. ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පත්වීම් සිදුකර තිබෙන අතර ඊට අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් සමන් ඒකනායක මහතා විසින් ඊයේ (12දා) පස්වරුවේ ජනාධිපති කාර්‍යාලයේ දී ඒ මහතා වෙත භාරදෙනු ලැබීය.
+Mr. L. Ilangovan, appointed as the new Chief Secretary of the Northern Province by President Ranil Wickremesinghe, had previously served as the Secretary of the Northern Province.
 
-ශ්‍රී ලංකා පරිපාලන සේවයේ කීර්තිමත් නිලධාරියෙකු වන එල්. ඉලංගෝවන් මහතා උතුරු පළාතේ අමාත්‍යාංශ රැසක ලේකම් ධූරය මෙන්ම උතුරු පළාත් ආණ්ඩුකාර ලේකම් ධූරය ද හොබවා ඇති අතර, ඒ මහතා උතුරු පළාත් නව ප්‍රධාන ලේකම්වරයා ලෙස පත්වීම් ලබන අවස්ථාව වන විට ජනාධිපති කාර්යාලයේ උතුරු පළාත් සංවර්ධනය පිළිබඳ ජනාධිපති අතිරේක ලේකම්වරයා ලෙස කටයුතු කරමින් සිටියේය.
+🟩
+
+L. As the new Chief Secretary of the Northern Province. Mr. Ilangoan has been appointed. The appointments have been made by President Ranil Wickremesinghe and the relevant appointment was handed over to him at the Presidential Secretariat yesterday.
+
+L. Mr. Ilangowan had also held the post of Secretary of the Northern Province as the Secretary to the Northern Province as the new Chief Secretary of the Northern Province.
 
 ◼️
 
 [Data](articles/26a519ab.json)
+
+[Extended Data](ext_articles/26a519ab.ext.json)
 
 ---
 
@@ -762,19 +808,25 @@ Bytoon Mahabannaborn, who has been appointed as the new Ambassador to Sri Lanka 
 
 ---
 
-### ටොන් ගණනින් කසළ ගොඩගැසෙන ජලපෝෂක ශ්‍රීපාද රක්ෂිතය
+### Harmulaka Sri Pada SriPharship Reserve
 
 *2024-03-13 02:30:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c723739n73lo) · `si`
 
-ශ්‍රී ලංකාවේ ඇති වන රක්ෂිත අතුරින්, ජෛව විවිධත්වය අතින් ශ්‍රී පාද රක්ෂිතයට සුවිශේෂී ස්ථානයක් හිමිව තිබේ. මධ්‍යම කඳුකරයේ කොටසක් වන ශ්‍රී පාද රක්ෂිතය තුළ ශ්‍රී ලංකාවට ආවේණික සතුන් හා ශාඛ මෙන් ම වඳ වී යාමේ තර්ජනයට මුහුණදී ඇති ශාඛ සහ සත්වයෝ රැසක් ජීවත් වෙති. එමෙන් ම ශ්‍රී පාද රක්ෂිතය යනු ප්‍රධානත ම ජල පෝෂක ප්‍රදේශයකි. ශ්‍රී ලංකාවේ ප්‍රධාන ගංගා කිහිපයක ම ආරම්භක ජල මූලාශ්‍ර ඇත්තේ එහි ය.
+Sri Pada Reserve in Sri Lanka, a major biodiversity hotspot, faces significant environmental challenges due to annual pilgrimage waste. Despite efforts to manage garbage, the issue persists, impacting water sources and local wildlife.
 
-ශ්‍රීපාදස්ථානය වන්දනාමාන කිරීමට වාර්ෂිකව ලක්ෂ ගණනක වන්දනාකරුවන් ගමන් කරන්නේ රක්ෂිතය හරහා ය. දෙසැම්බර් මාසයේ උඳුවප් පොහොය දිනය සිට මැයි මස වෙසක් පොහොය දින දක්වා ඇති කාලවකවානුවේදී මෙලෙස ගමන් ගන්නා වන්දනාකරුවන් විසින් ගෙන යන කසළ තැන තැන විසි කර යාම වර්තමානය වන විට දැවැන්ත පාරිසරික ගැටළුවක් බවට පත් වී තිබේ.
+🟩
 
-වසරකට ටොන් ගණනක කසළ මෙලෙස වන්දනා කිරීමට පැමිණෙන පිරිස් විසින් ක්‍රමවත්ව බැහැර නොකර තැන තැන විසි කර දමා යන අතර, එහි මඟ දෙපස ගොඩගැසුණු කුණු ගොඩවල් ඉතා සුලභ දර්ශනයක් බවට පත් වී තිබේ. එලෙස විසි කර යන කුණු කඳු මුදුනේ සිට නැවත එකතු කර පහළට රැගෙන ඒම ද දුෂ්කර ක්‍රියාවක් බව කිවයුතු නොවේ.
+Among the forest reserves in Sri Lanka, biodiversity has a significant place to Sri Pada reserve. Sri Lankan animals and plantes are living in the central hills, which are endangered with extinction of Sri Lanka in Sri Pada Reserve. The Sri Pada Reserve is a major catchment area. There are operating water sources in several major rivers in Sri Lanka.
+
+One million pilgrims will travel annually to worship the Sri Prasaka. The dumping place carried out by pilgrims from the Undup Poya Day to Vesak Poya Day in December, the pilgrims have been thrown into a massive environmental problem.
+
+The place where the garbage is visible to the pilgrimage of tonnes per year, the place of garbage has become a very common view. It is not to be a difficult act, bring back to the rubbish top of the garbage.
 
 ...
 
 [Data](articles/f88d1b46.json)
+
+[Extended Data](ext_articles/f88d1b46.ext.json)
 
 ---
 
@@ -2155,45 +2207,5 @@ He further stated that India and Pakistan have reduced the supply of big onion s
 [Data](articles/7f5cfe11.json)
 
 [Extended Data](ext_articles/7f5cfe11.ext.json)
-
----
-
-### Chief Secretaries appointed to Northern and Wayamba Provinces
-
-*2024-03-12 18:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chief-Secretaries-appointed-to-Northern-and-Wayamba-Provinces/108-278712) · `en`
-
-Colombo, March 12 (Daily Mirror)-  President Ranil Wickremesinghe has appointed Chief Secretaries to the Northern Province and Wayamba Province, the President's Media Division (PMD) said.
-
-L. Ilangovan has been appointed as the Chief Secretary of the Northern Province while Deepika K. Gunaratne has been appointed as the Chief Secretary of the Wayamba Province.
-
-Their letters of appointment were handed over by the President's Secretary Saman Ekanayake at the Presidential Secretariat today.
-
-◼️
-
-[Data](articles/71aa178d.json)
-
-[Extended Data](ext_articles/71aa178d.ext.json)
-
----
-
-### If there is a racial unity in the country, the powers of powers must be disseminated - Karunagaram MP
-
-*2024-03-12 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178558) · `ta`
-
-Karunagaram MP: For racial unity, federal powers must be decentralized. Alisabri's foreign visits and speeches are welcomed. Decentralization is necessary for economic growth and to prevent division. Sri Lanka can learn from Belgium's power-sharing model.
-
-🟩
-
-Foreign Minister Alisabri is going to many countries. We welcome his speech in the last Parliament. Batticaloa district parliamentarian Govindan Karunagaram said that those who claim that the country will be divided in the event of a decentralization of the federal power, the Tamils who have said that the foreign minister should realize that he is worthy and worthy of his examples.
-
-He said this during a media briefing held at his office in Batticaloa on Tuesday (12). He further stated that….
-
-If a permanent political solution is needed, this country is to move economically, and if there is a need to exist, there is a need to decentralize the powers of police, including police powers.
-
-...
-
-[Data](articles/d793b389.json)
-
-[Extended Data](ext_articles/d793b389.ext.json)
 
 ---

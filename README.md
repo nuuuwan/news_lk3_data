@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-13 23:17:54**
+As of **2024-03-13 23:34:11**
 
 ## Newspaper Stats
 
-*Scraped **12,703** Articles*
+*Scraped **12,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 669
 islandlk | 686
 adalk | 1,089
 adaderanalk | 1,534
-tamilmirrorlk | 1,549
+tamilmirrorlk | 1,550
 virakesarilk | 1,765
-dailymirrorlk | 1,937
+dailymirrorlk | 1,938
 adaderanasinhalalk | 2,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,703 (100.0%) of 12,703 articles have been extended.
+12,703 (100.0%) of 12,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-13 (Wednesday)
+
+### முதலாவது போட்டியில் இலங்கையை வீழ்த்தியது  பங்களாதேஷ்
+
+*2024-03-13 23:08:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலாவது-போட்டியில்-இலங்கையை-வீழ்த்தியது-பங்களாதேஷ்/44-334634) · `ta`
+
+இலங்கை அணிக்கும், பங்களாதேஷ் அணிக்கும் இடையிலான முதலாவது ஒரு நாள் சர்வதேச கிரிக்கெட் போட்டியில் பங்களாதேஷ் அணி 6 விக்கெட்டுக்களால் வெற்றிப்பெற்றுள்ளது.
+
+சிட்டகொங்கில் இடம்பெற்ற போட்டியில் நாணய சுழற்சியில் வெற்றிப்பெற்ற இலங்கை அணி முதலில் துடுப்பெடுத்தாட தீர்மானித்து 48.5 ஓவர்கள் நிறைவில் சகல விக்கெட்டுக்களையும் இழந்து 255 ஓட்டங்களை பெற்றது.
+
+256 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய பங்களாதேஷ் அணி 44.4 ஓவர்கள் நிறைவில் 4 விக்கெட்டுக்களை மாத்திரம் இழந்து வெற்றி இலக்கை அடைந்தது.
+
+இதன்படி 03 போட்டிகள் கொண்ட இந்த ஒருநாள் தொடரில் ஒன்றுக்கு பூஜ்ஜியம் என்ற கணக்கில் பங்களாதேஷ் அணி முன்னிலையில் உள்ளது. R
+
+◼️
+
+[Data](articles/cc973b90.json)
+
+---
+
+### Najmul guides Bangladesh to comfortable win against Sri Lanka
+
+*2024-03-13 23:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Najmul-guides-Bangladesh-to-comfortable-win-against-Sri-Lanka/108-278815) · `en`
+
+Chittagong, Mar. 13 - Skipper Najmul Hossain Shanto struck an unbeaten century to guide Bangladesh to a comfortable six-wicket win in the first one-day international of a three-match series against Sri Lanka in Chittagong on Wednesday.
+
+Najmul hit 122 not out off 129 balls, and was ably supported by one of his predecessors as captain, Mushfiqur Rahim, who was unbeaten on 73, as Bangladesh raced to 257-4 in 44.4 overs after bowling out Sri Lanka for 255 runs.
+
+The pair added 165 in their unbroken fifth-wicket stand, saving Bangladesh from a potential mid-innings collapse, coming together at 92-4.
+
+Dilshan Madushanka took two early wickets and Pramod Madushan joined him to leave Bangladesh struggling at 23-3, in a little over five overs.
+
+Najmul put on 69 for the fourth wicket with Mahmudullah Riyad to stave off the initial danger.
+
+Lahiru Kumara broke the partnership by removing Mahmudullah for 37, but Najmul and Mushfiqur denied Sri Lanka further success.
+
+...
+
+[Data](articles/015beb1d.json)
+
+---
 
 ### Govt to facilitate swift repatriation of fishermen aboard ‘Lorenzo Putha-4’
 
@@ -2419,41 +2459,5 @@ Handunnethi said that the people should come forward against any action to sell 
 [Data](articles/80c07966.json)
 
 [Extended Data](ext_articles/80c07966.ext.json)
-
----
-
-### Biden, Trump clinch nominations, kicking off bruising presidential rematch
-
-*2024-03-13 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Biden-Trump-clinch-nominations-kicking-off-bruising-presidential-rematch/107-278772) · `en`
-
-March 12 (Reuters) - President Joe Biden and former President Donald Trump both clinched their parties' nomination on Tuesday, kicking off the first U.S. presidential election rematch in nearly 70 years.
-
-Biden needed 1,968 delegates to win the nomination, and he passed that number on Tuesday night as results began to come in from the primary contest in Georgia, Edison Research said. Results were also coming in from Mississippi, Washington state, the Northern Mariana Islands and Democrats living abroad.
-
-Hours later, Trump clinched the 1,215 delegates required to secure the Republican presidential nomination as four states held contests, including Georgia, the battleground where Trump faces criminal charges for his efforts to overturn the state's 2020 results. There were 161 delegates at stake on Tuesday in Georgia, Hawaii, Mississippi and Washington state.
-
-...
-
-[Data](articles/b868e971.json)
-
-[Extended Data](ext_articles/b868e971.ext.json)
-
----
-
-### Biden, Trump clinch nominations, kicking off bruising presidential rematch
-
-*2024-03-13 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Biden-Trump-clinch-nominations-kicking-off-bruising-presidential-rematch/108-278772) · `en`
-
-March 12 (Reuters) - President Joe Biden and former President Donald Trump both clinched their parties' nomination on Tuesday, kicking off the first U.S. presidential election rematch in nearly 70 years.
-
-Biden needed 1,968 delegates to win the nomination, and he passed that number on Tuesday night as results began to come in from the primary contest in Georgia, Edison Research said. Results were also coming in from Mississippi, Washington state, the Northern Mariana Islands and Democrats living abroad.
-
-Hours later, Trump clinched the 1,215 delegates required to secure the Republican presidential nomination as four states held contests, including Georgia, the battleground where Trump faces criminal charges for his efforts to overturn the state's 2020 results. There were 161 delegates at stake on Tuesday in Georgia, Hawaii, Mississippi and Washington state.
-
-...
-
-[Data](articles/eb23073e.json)
-
-[Extended Data](ext_articles/eb23073e.ext.json)
 
 ---

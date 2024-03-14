@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 11:33:28**
+As of **2024-03-14 11:52:22**
 
 ## Newspaper Stats
 
-*Scraped **12,813** Articles*
+*Scraped **12,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,74 +13,148 @@ bbccomsinhala | 145
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 663
-economynextcom | 680
+economynextcom | 684
 islandlk | 699
 adalk | 1,095
-adaderanalk | 1,539
+adaderanalk | 1,541
 tamilmirrorlk | 1,564
 virakesarilk | 1,776
 dailymirrorlk | 1,960
-adaderanasinhalalk | 2,021
+adaderanasinhalalk | 2,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,800 (99.9%) of 12,813 articles have been extended.
+12,813 (99.9%) of 12,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### வெடுக்குநாறிமலை ஆலய பூசகர் உள்ளிட்ட 8 பேர்  கைது ; பாரிய போராட்டத்திற்கு அழைப்பு
+### SriLankan Airlines, Korean Air activate codeshare partnership
 
-*2024-03-14 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178677) · `ta`
+*2024-03-14 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97942/srilankan-airlines-korean-air-activate-codeshare-partnership) · `en`
 
-வெடுக்குநாறிமலை ஆலய பூசகர் உள்ளிட்ட 8 பேரை விடுவிக்கக்கோரி நாளை வெள்ளிக்கிழமை நெடுங்கேணி சந்தியில் போராட்டாம் ஒன்றை நடத்த வெடுக்குநாறிமலை  ஆதிலிங்கேஸ்வரர் ஆலய பரிபாலன சபை அழைப்பு விடுத்துள்ளது.
+SriLankan Airlines and Korean Air have officially activated a new codeshare partnership, effective from 15 March, presenting enhanced travel options and connections for customers of both airlines travelling between Colombo and Seoul.
 
-08.03.2024 அன்று எமது ஆலய வளாகத்தில், சிவராத்திரி வழிபாடுகளில் ஈடுபட்டிருந்த எமது ஆலயத்தின் பரிபாலன சபையின் நிர்வாகிகள் மீதும், சிவ பக்தர்கள் மீதும் பொலிஸார் நடத்திய வன்முறைகளை எதிர்த்தும், கைதுசெய்யப்பட்டு சிறையிலடைக்கப்பட்டுள்ள சிவபக்தர்களை விடுவிக்கக்கோரியும் பாரியளவிலான வெகுஜனப் போராட்டம் ஒன்றை நடத்தவுள்ளோம். எதிர்வரும் நாளை வெள்ளிக்கிழமை காலை 10.00 மணிக்கு நெடுங்கேணி சந்தியில் ஆரம்பிக்கும் இந்தப் போராட்டமானது, வவுனியா வடக்கு பிரதேச செயலகம் வரைக்கும் பேரணியாகச் சென்று, இலங்கைக்கான ஐ.நா வதிவிடப் பிரதிநிதி மற்றும் இலங்கையிலுள்ள வெளிநாட்டுத் தூதரகங்களுக்கான மகஜர் கையளிக்கப்படும்.
+The new partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air, making it possible for passengers to travel on a single ‘SriLankan Airlines’ ticket between Colombo and Incheon via Singapore.
+
+At the same time, Korean Air will codeshare on flights operated by SriLankan Airlines between Colombo and the cities of Seoul Incheon, Singapore, Chennai in India and Male in the Maldives.
 
 ...
 
-[Data](articles/f123e25f.json)
+[Data](articles/ec1c158f.json)
 
 ---
 
-### சீன இராணுவத்திடமிருந்து வெடிகுண்டுகளை செயழிலக்கச் செய்யும் இயந்திரங்கள் அன்பளிப்பு
+### සිවිල් ගුවන් සේවා අධිකාරියට නව අධ්‍යක්ෂ ජනරාල්වරයෙක්
+
+*2024-03-14 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194493) · `si`
+
+ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ නව අධ්‍යක්ෂ ජනරාල්වරයා සහ ප්‍රධාන විධායක නිලධාරීවරයා ලෙස එයාර් වයිස් මාර්ෂල්  එච්.එම්.එස්.කේ.බී. කොටකදෙණිය මහතා පත්කර තිබේ.
+
+අමාත්‍ය මණ්ඩල නිර්දේශ මත වරාය, නාවික කටයුතු හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද  සිල්වා මහතා විසින් ඊයේ (13) දින එම පත්කිරීම සිදුකර ඇත.
+
+එයාර් වයිස් මාර්ෂල් කොටකදෙණිය මහතා කොළඹ විශ්වවිද්‍යාලයේ ජාත්‍යන්තර අධ්‍යයනය පිළිබඳව සහ ඉන්දියාවේ මදුරාසි විශ්වවිද්‍යාලයෙන් ආරක්ෂාව සහ උපාය මාර්ගික අධ්‍යයනය පිළිබඳව ද පශ්චාත් උපාධිය හිමිකර ගත් අයෙකි.
+
+මීට අමතරව අමෙරිකා එක්සත් ජනපදයේ සහ චීනයේ ආරක්ෂක විශ්වවිද්‍යාලයේ ද වැඩිදුර අධ්‍යාපනය ලබා තිබේ.
+
+මීට පෙර ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ අධ්‍යක්ෂ ජනරාල් සහ ප්‍රධාන විධායක නිලධාරීවරයා ලෙස සේවය කළ පී.ඒ. ජයකාන්ත මහතා පසුගිය දා විශ්‍රාම ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/403acd45.json)
+
+---
+
+### Eight people arrested, including Vettunnarimalai temple priest;Call for massive struggle
+
+*2024-03-14 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178677) · `ta`
+
+The Vedukunnarimalai Athilingaswarar Temple Ovarge Council has called for a protest tomorrow at Nedungeni junction to release eight individuals, including a temple priest, arrested during Shivaratri rituals. The protest, starting at 10 am, will march to the Vavuniya North Divisional Secretariat and be handed over to the UN and foreign embassies.
+
+🟩
+
+The Vedukunnarimalai Athilingaswarar Temple Ovarge Council has called for a protest at the Nedungeni junction tomorrow to release eight persons including the Vettu Nirimalai temple priest.
+
+On 08.03.2024, we will hold a massive mass struggle to protest the violence by the police against the administrators of our temple and Shiva devotees who were involved in the Shivaratri rituals on 08.03.2024.. The struggle, which begins at Nedungeni Junction at 10.00 am on Friday, will march to the Vavuniya North Divisional Secretariat and will be handed over to the UN Resident Representative to Sri Lanka and the Foreign Embassies in Sri Lanka.
+
+In this struggle against state injustice, we kindly urge all Tamils, religious organizations, Tamil politicians, Tamil sentiments, civil society, university students and the media.
+
+◼️
+
+[Data](articles/f123e25f.json)
+
+[Extended Data](ext_articles/f123e25f.ext.json)
+
+---
+
+### New Director General appointed to Civil Aviation Authority
+
+*2024-03-14 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97941/new-director-general-appointed-to-civil-aviation-authority) · `en`
+
+Air Vice Marshal (Retd) H.M.S.K.B Kotakadeniya has been appointed as the new Director General and Chief Executive Officer of the Civil Aviation Authority of Sri Lanka (CAASL).
+
+This appointment comes in the wake of the retirement of the former Director General of Civil Aviation.
+
+The official appointment letter was presented to Air Vice Marshal Kotakadeniya by Minister of Ports, Shipping, and Aviation Nimal Siripala de Silva following the approval of the Cabinet of Ministers for the appointment.
+
+Before assuming the role of Director General of Civil Aviation, H.M.S.K.B Kotakadeniya served as a Board Director of CAASL since 12 August 2022. His extensive experience and strategic vision make him well-suited to lead the aviation sector into a new era of growth and development of the aviation industry in Sri Lanka, the CAASL said in a statement.
+
+◼️
+
+[Data](articles/7ef3de48.json)
+
+---
+
+### Gift the bombs from the Chinese military
 
 *2024-03-14 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178691) · `ta`
 
-சீன இராணுவ உதவி திட்டத்தின் கீழ் பாதுகாப்பு அமைச்சிற்கு வெடிகுண்டுகளை செயழிலக்கச் செய்யும் இயந்திரங்கள் அன்பளிப்பாக வழங்கப்பட்டுள்ளன.
+Under the Chinese Military Aid Scheme, Sri Lanka received military equipment, including bombs, from the Chinese Ministry of Defense. The items were presented to Sri Lanka's Chinese Ambassador, Defense Secretary, and Army Commander. The equipment includes ROO 4000, 10 protective robes, and 10 safety rods against explosives.
 
-இலங்கைக்கான சீனத் தூதுவர் கியூ சென்ஹொங், பாதுகாப்பு செயலாளர் ஓய்வுபெற்ற ஜெனரல் கமல் குணரத்ன மற்றும் இராணுவத்தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே ஆகியோரிடம் குறித்த உபகரணங்கள்  புதன்கிழமை (13) கையளிக்கப்பட்டுள்ளன.
+🟩
 
-இராணுவத்தலைமையகத்தில் இடம்பெற்ற இந்நிகழ்வில் உபகரணங்களைப் பெற்றுக் கொள்ளும் ஆவணத்தில் ஜெனரல் கமல் குணரத்தன கையெழுத்திட்தோடு, அவற்றை கையளிக்கும் ஆவணத்தில் சீனத்தூதுவர் கையெழுத்திட்டார்.
+Under the Chinese Military Aid Scheme, the Ministry of Defense has gifted bombs.
 
-இவ்வாறு கைளிக்கப்பட்ட உபகரணத் தொகுதியில் வெடிபொருட்களை இனங்கண்டு அவற்றை செயழிக்கச் செய்யும் REOD 4000 என்ற ரொபோ இயந்திரங்கள் 18, வெடிபொருட்களை ஒரு இடத்திலிருந்து பிரிதொரு இடத்துக்கு கொண்டு செல்லும் இயலுமையுடைய REOD 400 ரக ரோபோக்கள் 18, வெடி பொருட்களிடமிருந்து பாதுகாக்கக் கூடிய 10 பாதுகாப்பு அங்கிகள்,  வெடி பொருட்களிடமிருந்து பாதுகாப்பு பெறக் கூடிய 10 வாயு தாங்கிகள் மற்றும் வெடிபொருட்களை செயழிக்கச் செய்யும் இயந்திரங்கள் என்பன உள்ளடங்குகின்றமை குறிப்பிடத்தக்கது.
+The equipment has been handed over to Sri Lanka's Chinese Ambassador Cue Senhong, Defense Secretary Retired General Kamal Gunaratne and Army Commander Lieutenant General Vikku Liyanage on Wednesday.
+
+General Kamal Gunarathana signed a document for obtaining equipment at the event at the Army Headquarters and signed the document.
+
+The reod 4000, the ROO 4000, which is thus identified in the equipment constituencies, and the 10 -fold robs that can be protected from explosives, 10 protective robes that protect them from explosives, 10 safety rods and explosives from ammunition.It is noteworthy that machines are included.
 
 ◼️
 
 [Data](articles/bf9054c2.json)
 
+[Extended Data](ext_articles/bf9054c2.ext.json)
+
 ---
 
-### ”பொதிகளைப் பெற வங்கி அட்டை மூலம் பணம் செலுத்தவும்”
+### “Pay with bank card to get packs”
 
 *2024-03-14 11:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதிகளைப்-பெற-வங்கி-அட்டை-மூலம்-பணம்-செலுத்தவும்/175-334651) · `ta`
 
-தமது பெயரில் அனுப்பப்பட்ட பொதிகளை வழங்க வங்கி அட்டைகள் மூலம் பணம் செலுத்துமாறு கோரி SMS ஊடாக நடைபெறும் நிதி மோசடி தொடர்பில் இலங்கை தபால் திணைக்களம் பொதுமக்களை எச்சரித்துள்ளது .
+The Postal Department of Sri Lanka warns against financial fraud via SMS, where fraudsters demand money for packages under the guise of the Postal Department. They use names like Sri Lanka Postal, SL Post, and the official website. The Department clarifies that it does not request bank card details for package permits and advises the public not to share their details with fake SMSs.
 
-இது தொடர்பாக தபால் திணைக்களம் வெளியிட்டுள்ள அறிக்கையில், மோசடி செய்பவர்கள் வங்கி அட்டை விபரங்களை மோசடி மூலம் திருடுவது கண்டுபிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இலங்கை தபால், இலங்கை தபால் திணைக்களம், SL Post போன்ற அடையாளங்களையும், திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளம் போன்ற இணையத்தளத்தையும் பயன்படுத்தி இந்த மோசடி மேற்கொள்ளப்படுவதாக திணைக்களம் மேலும் தெரிவித்துள்ளது.
+The Postal Department of Sri Lanka has warned the public regarding financial fraud through SMS demanding money through bank cards to issue packages sent in its name.
 
-தாம்  குறுஞ்செய்தி மூலம் வங்கி விவரங்களைக் கோருவதில்லை என்றும் பொதி அனுமதிக்கு வங்கி அட்டைகளைப் பயன்படுத்தி பரிவர்த்தனை செய்வதில்லை என்றும் தபால் திணைக்களம் தெளிவுபடுத்தியுள்ளது.
+In a statement issued by the Postal Department, the fraudsters have found that the bank card details were stolen by fraud.
 
-மோசடி செய்பவர்கள் அனுப்பும் போலி எஸ்.எம்.எஸ்.களின் அடிப்படையில் தங்கள் வங்கிக் கணக்கு அல்லது வங்கி அட்டை விவரங்களைப் பகிர்வதைத் தவிர்க்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்பட்டுள்ளனர்.
+The Department further stated that the fraud is being carried out using the Sri Lanka Postal, Sri Lanka Postal Department, SL Post, and the official website of the Department.
+
+The Postal Department has made it clear that the bank does not request the details of the SMS and does not transmit the bank cards for the package permit.
+
+The public has been asked to avoid sharing their bank account or bank card details based on fake SMSs sent by fraudsters.
 
 ◼️
 
 [Data](articles/5be6277e.json)
+
+[Extended Data](ext_articles/5be6277e.ext.json)
 
 ---
 
@@ -102,6 +176,26 @@ However, it is reported that several gunshots have been fired at a wall and the 
 
 ---
 
+### Sri Lanka inks deal for 150MW solar park with transmission
+
+*2024-03-14 11:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-deal-for-150mw-solar-park-with-transmission-154601/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed power purchase agreements for a 150MW ground mount solar project to be developed at the Solar Energy Park, Gonnoruwa, Hambantota, its Power and Energy Minister has said.
+
+“The project will be developed by a consortium of 17 local developers, comprising 13 power plants of 10MW and 4 power plants of 5MW making up the total capacity of 150MW,” Kanchana Wijesekera said on X (twitter).
+
+The project with a 150 million dollar investment will be developed together with the transmission and grid facilities under a new business model with the CEB’s standardized power purchase agreement (SPPA), Wijesekera said.
+
+The project is expected to commence construction in May this year and connect to the grid by mid next year.
+
+The Ceylon Electricity Board, which is in the process of being restructured, has avowed to achieve a target of 70 percent from renewable sources in its energy mix by 2030. (Colombo/March14/2024)
+
+◼️
+
+[Data](articles/63c4a302.json)
+
+---
+
 ### Water levels in Castlereagh, Maussakale dropping rapidly
 
 *2024-03-14 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-levels-in-Castlereagh-Maussakale-dropping-rapidly/108-278844) · `en`
@@ -116,25 +210,33 @@ Although the water level of both the reservoirs has dropped rapidly, the hydroel
 
 [Data](articles/c70db5f7.json)
 
+[Extended Data](ext_articles/c70db5f7.ext.json)
+
 ---
 
-### නිවසක් කොල්ලකා සි.සි ටි.වි කැමරා පද්ධතියේ ඩි.වි.ආර් යන්ත්‍රය ද  රැගෙන ගිහින්
+### The Davy machine was also taken to the CSR camera system
 
 *2024-03-14 10:59:42* · [`adalk`](https://www.ada.lk/breaking_news/නිවසක්-කොල්ලකා-සි-සි-ටි-වි-කැමරා-පද්ධතියේ-ඩි-වි-ආර්-යන්ත්‍රය-ද--රැගෙන-ගිහින්/11-408601) · `si`
 
-අළුබෝමුල්ල බටදොඹතුඩුව  නිවසකින් රුපියල් ලක්ෂ 17 කට ආසන්න වටිනා මුදල් සහ රන් ආභරණ සොරාගෙන සි සි ටි වි කැමරා පද්ධතියේ ඩි වි ආර් යන්ත්‍රය ද  රැගෙන  ගොස් ඇතැයි අළුබෝමුල්ල පොලිසිය කියයි.
+The Davy machine and de Wa Camera's DR system were used to steal cash and gold from Watadotuwa house. The homeowner's husband, a Supreme Court judge, noticed the theft. Police found the thieves had entered the house when the homeowner's sister was there. Panadura Criminal Laboratory assisted in the investigation.
 
-සොරාගෙන ගිය දේපළ අතර පවුම්  11 ක් පමණ බර රන්මාල 2 ක්  අත් පළඳනාවක්,රන් කාසියක් හා ලක්ෂ 4 ක මුදලක් වන බව පොලිසිය සඳහන් කරයි.
+🟩
 
-නිවෙස් හිමිකාරියගේ සහෝදරියගේ සැමියා සුපවේදියකු වන අතර ඔහු මෙම නිවසේ කිසිවකු නොමැති වීම හේතුවෙන් රාත්‍රී නමයට පැමිණ නිවසට ගොස් විදුලි පහන් දල්වා  අලුයම හයයි තිහට පමණ නැවත එම නිවසට ගොස්  විදුලි පහන් නිවා දැමීමට සූදානම් වීමේදී කාමර වල දොරවල් විවෘත කර ඇති අයුරුත් අල්මාරි ඇද දමා තිබෙන අයුරුත් දුටු බව පොලිසියට කරන ලද පැමිණිල්ලේ  සඳහන් වෙයි.
+The de Wa Camera's DR Camera System has also taken steps to stole the cash and gold jewelery at Watadotuwa house.
 
-අනතුරුව ඒ සම්බන්ධව   සිය බිරිඳගේ සහෝදරියට දන්වා ඇය පැමිණ සිදුකළ පරික්ෂාවේදී නිවසේ සවිකර තිබූ සීසී ටීවී කැමරා පද්ධතියට අයත් ඩි වි ආර් යන්ත්‍රයද පැමිණි සොරුන් විසින් ගලවාගෙන රැගෙන ගොස් ඇති බවට නිරීක්ෂණය වී ඇතැයි පොලිසිය කියයි.
+Two gold coins and four lakhs were a sum of Rs.
 
-අදාළ සොරකමේ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා පානදුර අපරාධ පරීක්ෂණාගාරයෙන් නිලධාරීන් සහ ඇඟිලි සටහන් නිලධාරීන්ට පැමිණ පරීක්ෂණ පැවැත්වූහ
+The husband of the home owner is a Supreme Court and saw the doors of the rooms and to turn off the lights in the house.The complaint made by the police states.
+
+The police say that she has been observed that she had been taken away by the thieves that had been mounted in the house when she had come to her wife's brother.
+
+Officers and fingerprints were attended by the Panadura Criminal Laboratory to arrest the suspects
 
 ◼️
 
 [Data](articles/d767a73f.json)
+
+[Extended Data](ext_articles/d767a73f.ext.json)
 
 ---
 
@@ -151,6 +253,8 @@ The accident occurred while Thirimanna and others were heading to Anuradhapura f
 ◼️
 
 [Data](articles/dd5a7487.json)
+
+[Extended Data](ext_articles/dd5a7487.ext.json)
 
 ---
 
@@ -174,37 +278,49 @@ Three drivers of the lorry and the other person were injured and admitted to the
 
 ---
 
-### திரிமானே பயணித்த வாகனம் விபத்துக்குள்ளாகியது
+### The vehicle he was traveling by Triman crashed
 
 *2024-03-14 10:53:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிமானே-பயணித்த-வாகனம்-விபத்துக்குள்ளாகியது/175-334649) · `ta`
 
-இலங்கையின் முன்னாள் கிரிக்கட் வீரர் லஹிரு திரிமான்னே பயணித்த வாகனம் இன்று (மார்ச் 14) அதிகாலை அனுராதபுரம், திரப்பனே பகுதியில் வீதி விபத்துக்குள்ளானது.
+Former cricketer Lahiru Thirimanne was involved in a crash in Sri Lanka today, March 14, near the 117 mile post. He was injured but safe.
 
-தகவல்களின்படி, முன்னாள் கிரிக்கெட் வீரர் பயணித்த வாகனம் திரப்பனை 117 மைல் போஸ்ட் பகுதிக்கு அருகில் எதிர் திசையில் பயணித்த லொறி மீது மோதியுள்ளது.
+🟩
 
-இந்த விபத்தில் திரிமான்னேவுக்கு சிறு காயங்கள் ஏற்பட்டுள்ளதாகவும், அவர் பாதுகாப்பாக இருப்பதாகவும் முன்னாள் கிரிக்கெட் வீரருக்கு நெருக்கமான வட்டாரங்கள் தெரிவித்தன.
+The vehicle he was traveling in Sri Lanka's former cricketer Lahiru Thirimanne crashed into a road accident this morning (March 14).
+
+According to reports, the vehicle where the former cricketer traveled was crashed into the lorry in the opposite direction near the 117 mile post.
+
+Sources close to the former cricketer said that Trimanne was injured in the accident and that he was safe.
 
 ◼️
 
 [Data](articles/b4b66225.json)
 
+[Extended Data](ext_articles/b4b66225.ext.json)
+
 ---
 
-### லஹிரு திரிமான்ன பயணித்த கார் விபத்து
+### Lahiru Thirimanna traveled car accident
 
 *2024-03-14 10:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஹிரு-திரிமான்ன-பயணித்த-கார்-விபத்து/175-334648) · `ta`
 
-இலங்கை கிரிக்கெட் அணியின் முன்னாள் வீரர் லஹிரு திரிமான்ன பயணித்த கார்  லொறி ஒன்றுடன் நேருக்கு நேர் மோதி விபத்துக்குள்ளானது.
+Lahiru Thirimanna, a former Sri Lankan cricketer, was involved in a car accident with a lorry at 7.45 am today. All involved were injured and admitted to the hospital.
 
-இந்த விபத்து அனுராதபுரம் திரப்பனை பகுதியில்  இன்று (14) காலை 7.45 மணியளவில் இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தில் காரில் பயணித்த மூவரும் லொறியின் சாரதியும் மற்றுமொருவரும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Former Sri Lankan cricketer Lahiru Thirimanna collided head -on with a car lorry.
 
-விபத்தில்  கார் பலத்த சேதமடைந்துள்ளடன் லொறியும் வீதியை விட்டு விலகி கவிழ்ந்துள்ளது. R
+The accident took place at around 7.45 am today (14).
+
+The trio, the driver of the lorry and the other person who were traveling in the car in the car, were injured and admitted to the hospital.
+
+The car crashed into the accident and crashed away from the lorry road. Remble
 
 ◼️
 
 [Data](articles/5e4adef3.json)
+
+[Extended Data](ext_articles/5e4adef3.ext.json)
 
 ---
 
@@ -230,23 +346,29 @@ However, the police and the Special Task Force (STF) were involved in the inspec
 
 ---
 
-### ”ஆங்கிலப் படிவங்களில் கையொப்பமிட வேண்டாம்”
+### “Don't sign in English forms”
 
 *2024-03-14 10:48:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆங்கிலப்-படிவங்களில்-கையொப்பமிட-வேண்டாம்/175-334647) · `ta`
 
-வங்கி ஒப்பந்தப் படிவங்கள் சிங்கள மொழியிலும் வழங்கப்படாவிட்டால் தொடர்புடைய வங்கி ஒப்பந்தப் படிவங்களில் கையொப்பமிடுவதை தவிர்க்குமாறு இலங்கை ஐக்கிய தேசிய வர்த்தகக் கூட்டமைப்பானது (SLUNBA) வர்த்தகர்களையும் பொது மக்களையும் கேட்டுக் கொண்டுள்ளது.
+SLUNBA advises against signing bank contracts in English, citing language barriers and SME lending issues. Banks' parades suspended until Dec 15, leading to concerns over property acquisition. SMEs demand immediate closure of banks unable to lend.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த SLUNBA பிரதித் தலைவர் சுசந்த லியனாராச்சி, இன்று முதல் ஆங்கில கடன் ஒப்பந்தங்களில் கைச்சாத்திட வேண்டாம் என்று கேட்டுக்கொண்டார்.
+🟩
 
-டிசம்பர் 15 ஆம் திகதி வரை வங்கிகளின் பராட் உரிமையை நிறுத்தி வைக்க அமைச்சரவை முடிவு செய்த பின், வங்கிகள் மக்களின் சொத்துக்களை கையகப்படுத்தியுள்ளன, என்றார்.
+The Sri Lanka United National Business Federation (SLUNBA) has urged traders and the public to avoid signing the relevant bank contract forms if bank contract forms are not provided in Sinhala.
 
-"நாட்டிற்குள் கணிசமான எண்ணிக்கையிலான வங்கிகள் இயங்கி வருவதால், சிறு மற்றும் நடுத்தர நிறுவனங்கள் (SMEs) தங்களுக்கு கடன் வழங்க முடியாவிட்டால், அந்த வங்கிகளை உடனடியாக மூடுவதற்கான குறிப்புகளை வெளியிடுமாறு ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளனர்," என்று அவர் கூறினார்.
+Commenting on the media, Slunba Deputy Chairman Susantha Liyanarachchi urged not to sign English credit contracts from today.
 
-இலங்கை வங்கியாளர்கள் சங்கம் வெளியிட்டுள்ள அறிக்கையில், SME களுடன் வியாபாரம் செய்ய முடியாவிட்டால், வங்கிகளை மூட வேண்டும் என லியனாராச்சி தெரிவித்துள்ளார்.
+After the Cabinet decided to suspend banks' parades until December 15, banks have acquired the property of the people.
+
+"Since small and medium enterprises (SMES) are not lending because they are running a significant number of banks within the country, they have asked the president to issue notes to close those banks immediately," he said.
+
+In a statement issued by the Sri Lanka Bankers Association, Liyanarachchi said the banks should be closed if they are unable to do business with SMEs.
 
 ◼️
 
 [Data](articles/971bd0e7.json)
+
+[Extended Data](ext_articles/971bd0e7.ext.json)
 
 ---
 
@@ -295,6 +417,8 @@ The Army said 18 REOD 4000 Explosive Ordnance Disposal medium robots, 18 REOD 40
 ◼️
 
 [Data](articles/b97e622b.json)
+
+[Extended Data](ext_articles/b97e622b.ext.json)
 
 ---
 
@@ -346,19 +470,25 @@ If the bill does manage to secure approval in the Senate, President Joe Biden ha
 
 ---
 
-### அம்பலாங்கொடையில் துப்பாக்கிச்சூடு
+### Shooting at Ambalangoda
 
 *2024-03-14 10:36:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பலாங்கொடையில்-துப்பாக்கிச்சூடு/175-334645) · `ta`
 
-அம்பலாங்கொடை இடந்தோட்டையில் உள்ள பிரபல பாதாள உலக நபரும் போதைப்பொருள் கடத்தல்காரருமான அகம்பொடி சஜித் சமன் பிரியந்த என்றழைக்கப்படும் 'சமன்கொல்ல' வின் வீட்டின் மீது இன்று அதிகாலை துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+Akambodi Sajith Saman Priyantha, a notorious drug trafficker, was shot dead in Ambalangoda. His family was inside, and bullets hit the house. Two suspects on a motorbike fled after the shooting.
 
-எவ்வாறாயினும், சமன்கொல்லவின் தாயும் மூன்று சகோதரிகளும் அந்த நேரத்தில் வீட்டிற்குள் இருந்தபோது பல தோட்டாக்கள் வீட்டின் சுவர்கள் மற்றும் கதவுகளைத் தாக்கியுள்ளன.
+🟩
 
-மோட்டார் சைக்கிளில் வந்த இருவர், சந்தேகத்திற்கிடமான T-56 ரக துப்பாக்கியால் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளனர்.
+The house of a famous underworld and drug trafficker in Ambalangoda, Akambodi Sajith Saman Priyantha, has been shot dead this morning.
+
+However, when Samankola's mother and three sisters were inside the house at the time, many bullets hit the walls and doors of the house.
+
+Two people on a motorbike fled after firing suspicious T-56 firing.
 
 ◼️
 
 [Data](articles/4f6583ce.json)
+
+[Extended Data](ext_articles/4f6583ce.ext.json)
 
 ---
 
@@ -426,25 +556,31 @@ It is noteworthy that many bullets attacked the walls and doors of the house and
 
 ---
 
-### இன்று முதல் புதிய மாற்றம் - ரயில் பயணிகளுக்கு விசேட அறிவிப்பு
+### New Change from Today - Special Notice for Train Passengers
 
 *2024-03-14 10:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-மாற்றம்-ரயில்-பயணிகளுக்கு-விசேட-அறிவிப்பு/175-334643) · `ta`
 
-ரயில் ஆசனங்களை இன்று (14) முதல் முழுவதுமாக ஒன்லைனிலேயே  முன்பதிவு செய்யலாம் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Starting today, the Railway Department allows online booking of train seats from 7 PM. Only entire seats can be booked online, and a photo of the seat reservation ticket is required, not a physical ticket. Civil servants can book online for free, and there's no charge for this service.
 
-அதன்படி, இன்று இரவு 7.00 மணி முதல் ரயில் ஆசனங்களை ஒன்லைனில் முன்பதிவு செய்ய முடியும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-இதுவரை 40 சதவீத ஆசன முன்பதிவே ஒன்லைன் மூலம் வழங்கப்பட்டு வந்த நிலையில், இன்று முதல் முழுவதுமாக ஒன்லைன் மூலம் மட்டுமே ஆசனங்களை முன்பதிவு செய்ய முடியும்.
+The Railway Department said that the train seats can be booked on online from today (14).
 
-ஒன்லைன் மூலம் ஆசனங்களை முன்பதிவு செய்துவிட்டு பயணிகள் ரயில் நிலையத்திற்கு வந்து டிக்கெட்டினை பெற வேண்டிய நிலை இதுவரை இருந்த போதிலும், இன்று முதல் ஆசன முன்பதிவு சீட்டின் புகைப்படம் இருந்தால் போதும் என ரயில்வே திணைக்களம் குறிப்பிட்டுள்ளது.
+Accordingly, the train seats can be booked online from 7.00 pm tonight, the department said.
 
-இது தவிர அரசு ஊழியர்களுக்கான இலவச அனுமதிப்பத்திரத்தையும் ஒன்லைன் மூலம் முன்பதிவு செய்ய வாய்ப்பளிக்கப்பட்டுள்ளதாக திணைக்களம் அறிவித்துள்ளது.
+With 40 percent of the seat booking on online, only the entire online seat can be booked only from today.
 
-அதற்காக கட்டணம் வசூலிப்பது குறித்து முடிவு செய்யப்படவில்லை என்றும், அவ்வாறு பணம் வசூலிக்கப்படும் என்ற வதந்தி பொய்யானது என்றும் ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+The Railway Department has stated that the photo of the seat reservation ticket from today, despite the need to get a ticket to the passenger train station after booking the seats on online.
+
+In addition, the department has announced that free licenses for civil servants have been given the opportunity to book online.
+
+The Railway Department has said that it has not been decided on charging for it and the rumor that the money will be charged is false.. Remble
 
 ◼️
 
 [Data](articles/89e0279e.json)
+
+[Extended Data](ext_articles/89e0279e.ext.json)
 
 ---
 
@@ -603,6 +739,24 @@ Due to this online system comuters need not stand in queues at railway stations 
 [Data](articles/329e0889.json)
 
 [Extended Data](ext_articles/329e0889.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 305.65/72 to the US dollar
+
+*2024-03-14 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-305-65-72-to-the-us-dollar-154581/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 305.65/72 to the US dollar in the spot forex market on Thursday, stronger from 306.50/60 on Wednesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 11.30/38 percent from 11.30/40 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.15/20 percent from 12.15/20 percent.
+
+The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 percent at 11,283, and the S&P SL20 was up 0.13 percent at 3,222. (Colombo/Mar14/2024)
+
+◼️
+
+[Data](articles/ae5103e8.json)
 
 ---
 
@@ -807,6 +961,30 @@ Speaking at a media brief in the Health Promotion Bureau, Dr. Ms. Ms. Ms. Ms. Ms
 [Data](articles/17e03474.json)
 
 [Extended Data](ext_articles/17e03474.ext.json)
+
+---
+
+### Sri Lanka lost taxes under SDP Act valued at Rs1,085mn
+
+*2024-03-14 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-lost-taxes-under-sdp-act-valued-at-rs1085mn-154573/) · `en`
+
+ECONOMYNEXT – Taxes foregone due to investment relief given through a Strategic Development Project Act was 1,085 million rupees, according to a tax expenditure disclosure made by the Finance Ministry.
+
+The taxes are calculated for 14 strategic projects. The law has come under fire for discretionary tax holidays given up to 25 years, compared to lower periods under the Board of Investment Law.
+
+The discretion has been blamed for opening doors to corruption.
+
+Controversially, the law also exempts key expat workers from income tax for a period.
+
+Lost corporate taxes are estimated at 805 million rupees for the year of assessment 2022/2023 on a tax base of 3,353 billion rupees.
+
+The tax expenditure is measured against a corporate tax rate of 28 percent.
+
+Lost value added taxes were estimated at 280 million rupees.
+
+...
+
+[Data](articles/877a1998.json)
 
 ---
 
@@ -1947,127 +2125,5 @@ In all three countries, “they exchanged views on military relations and region
 [Data](articles/062a0599.json)
 
 [Extended Data](ext_articles/062a0599.ext.json)
-
----
-
-### Doctor's sudden arrest
-
-*2024-03-13 21:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பிய-வைத்தியர்-திடீர்-கைது/175-334621) · `ta`
-
-Dr. Dushitha Sudarshana, Deputy Director of the Drug Distribution Division, arrested in Sri Lanka for the Human immunoglobulin injection incident.
-
-🟩
-
-Deputy Director of the Drug Distribution Division, Dr. Dushitha Sudarshana has been arrested in connection with the controversial Human immunoglobulin injection incident.
-
-He has arrived in Sri Lanka at the Katunayake airport.. Remble
-
-◼️
-
-[Data](articles/b19f30a4.json)
-
-[Extended Data](ext_articles/b19f30a4.ext.json)
-
----
-
-### US House passes bill to force ByteDance to divest TikTok or face ban
-
-*2024-03-13 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97932/us-house-passes-bill-to-force-bytedance-to-divest-tiktok-or-face-ban) · `en`
-
-The U.S. House of Representatives overwhelmingly passed a bill on Wednesday that would give TikTok’s Chinese owner ByteDance about six months to divest the U.S. assets of the short-video app used by about 170 million Americans or face a ban.
-
-The bill passed 352-65, with bipartisan support, but it faces a more uncertain path in the Senate where some favor a different approach to regulating foreign-owned apps that could pose security concerns. Democratic Senate Majority Leader Chuck Schumer has not indicated how he plans to proceed.
-
-TikTok’s fate has become a major issue in Washington. Democratic and Republican lawmakers said their offices had received large volumes of calls from teenaged TikTok users who oppose the legislation, with the volume of complaints at times exceeding the number of calls seeking a ceasefire between Israel and Hamas in Gaza.
-
-...
-
-[Data](articles/5df466c5.json)
-
-[Extended Data](ext_articles/5df466c5.ext.json)
-
----
-
-### Dr. Thusitha arrested
-
-*2024-03-13 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194478) · `si`
-
-Dr. Thusitha Sudarshana, Deputy Director of Medical Supplies, arrested at Katunayake Airport by CID officials.
-
-🟩
-
-Deputy Director of the Medical Supplies Division Dr. Thusitha Sudarshana has been arrested.
-
-He was arrested at the Katunayake Airport when he arrived in the CID officials.
-
-◼️
-
-[Data](articles/5685897d.json)
-
-[Extended Data](ext_articles/5685897d.ext.json)
-
----
-
-### Immunoglobulin scandal: Medical Supplies Division’s Deputy Director arrested at BIA
-
-*2024-03-13 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/97931/immunoglobulin-scandal-medical-supplies-divisions-deputy-director-arrested-at-bia) · `en`
-
-The Criminal Investigation Department (CID) has arrested Dr. Thusitha Sudarshana, the Deputy Director of the Health Ministry’s Medical Supplies Division on arrival in Sri Lanka at the Bandaranaike International Airport in Katunayake.
-
-Police Media Spokesman DIG Nihala Thalduwa said the arrest was carried out in connection with the import of substandard Human Immunoglobulin vials.
-
-Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody in connection with the case.
-
-Meanwhile on March 06, Dr. Ratnayake made a 4-hour-long confidential statement to the Maligakanda Magistrate regarding the procurement of substandard human intravenous immunoglobulin (IVIG).
-
-...
-
-[Data](articles/0bf8c1ad.json)
-
-[Extended Data](ext_articles/0bf8c1ad.ext.json)
-
----
-
-### Applications challenging indictments against eight accused in X-Press Pearl case dismissed
-
-*2024-03-13 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-challenging-indictments-against-eight-accused-in-X-Press-Pearl-case-dismissed/108-278789) · `en`
-
-Colombo, March 13 (Daily Mirror)- The Court of Appeal dismissed the revision applications filed by eight accused including the Captain of the fire-ravaged container ship MV X-Press Pearl who were indicted before the Colombo High Court for causing damages to the country's oceanic environment.
-
-The eight accused had filed revision applications challenging the Colombo High Court's decision to reject their preliminary objections against the charges filed against them.
-
-The Court of Appeal two-judge-bench comprising Justices Sampath B. Abayakoon and P. Kumararatnam decided to dismiss the revision application without notices being issued on the Attorney General.
-
-indictment against eight accused before the Colombo High Court, charging them on eight counts in terms of Section 26(a) of the Marine Pollution Prevention Act No. 35 of 2008.
-
-...
-
-[Data](articles/026851ba.json)
-
-[Extended Data](ext_articles/026851ba.ext.json)
-
----
-
-### Road obstruction on medium highway
-
-*2024-03-13 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194477) · `si`
-
-Repair work on the central Expressway restricts one lane from 56.9 km to 57.4 km, affecting traffic from Mirigama to Kurunegala. Vehicles must use the South lane from 56.2 km to Mirigama and are restricted to one lane from Kurunegala to Mirigama.
-
-🟩
-
-The police say that a repair work on the central Expressway is restricted to one lane tomorrow (14).
-
-Accordingly, the repair is to be repaired from 56.9 km from Mirigama to Kurunegala to 57.4 km.
-
-As a result, the vehicles traveling from Mirigama to Kurunegala should be operated from the South lane from Kurunegala to Mirigama from 56.2 kilometers from Mirigama.
-
-Police say that the traffic from Kurunegala to Mirigama will be restricted to one lane of the repair section.
-
-◼️
-
-[Data](articles/ed186f99.json)
-
-[Extended Data](ext_articles/ed186f99.ext.json)
 
 ---

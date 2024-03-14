@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 17:34:00**
+As of **2024-03-14 17:53:48**
 
 ## Newspaper Stats
 
-*Scraped **12,906** Articles*
+*Scraped **12,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,82 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,112
+adalk | 1,113
 adaderanalk | 1,555
 tamilmirrorlk | 1,575
 virakesarilk | 1,790
-dailymirrorlk | 1,972
-adaderanasinhalalk | 2,040
+dailymirrorlk | 1,973
+adaderanasinhalalk | 2,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,903 (100.0%) of 12,906 articles have been extended.
+12,906 (100.0%) of 12,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### අස්වැසුම අයදුම්පත් කැඳවීම දීර්ඝ කෙරේ
+### ඉන්දියාවේ සුනඛ වර්ග 23ක් තහනම් කරමින් නියෝගයක්
+
+*2024-03-14 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194514) · `si`
+
+මිනිස් ජීවිතවලට අනතුරුදායක ලෙස හඳුනාගෙන ඇති සුනඛ වර්ග 23ක් සුරතල් සතුන් ලෙස ඇති කිරීම, අභිජනනය කිරීම සහ විකිණීම තහනම් කරමින් ඉන්දියාවේ මධ්‍යම රජය විසින් ප්‍රාන්ත සියල්ල වෙත නියෝගයක් නිකුත් කර ඇත.
+
+එම ලයිස්තුවේ Pitbull Terrier, American Bulldog, Rottweiler සහ Mastiffs යන සුනඛ වර්ග ද සඳහන් වෙයි.
+
+සුරතලයට ඇති කරන සමහර සුනඛ විශේෂ හේතුවෙන් මිනිසුන්ට ඇතිව තිබෙන තර්ජන හේතුවෙන් එවැනි තීරණයක් ගැනීමට බලධාරීන් තීරණය කර ඇති බව වාර්තා වෙයි.
+
+දැනටමත් සුරතල් සතුන් ලෙස මෙම ලැයිස්තුවට අයත් සුනඛ වර්ග සිටීනම් එම සුනඛයින්ගෙන් තවදුරටත් බෝවීම වැළැක්වීම සඳහා අවශ්‍ය ප්‍රතිකාර සිදුකළ යුතු බවදට නියෝග කර ඇති බව සඳහන් වේ.
+
+Pitbull Terrier, Tosa Inu, American Staffordshire Terrier, Fila Brasileiro, Dogo Argentino, American Bulldog, Boerboel Kangal, Central Asian Shepherd Dog,Caucasian Shepherd Dog, South Russian Shepherd Dog, Tornjak, Sarplaninac, Japanese Tosa, Akita, Mastiffs, Terriers, Rhodesian Ridgeback, Wolf Dogs, Canario, Akbash Dog, Moscow Guard Dog, Cane Corso, Bandog.
+
+◼️
+
+[Data](articles/c21f6109.json)
+
+---
+
+### ලංකාවේ විද්‍යුත් ත්‍රිරෝද රථ
+
+*2024-03-14 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194513) · `si`
+
+ශ්‍රී ලංකාවේ ප්‍රථම වරට විදුලි ත්‍රිරෝද රථ නිෂ්පාදන කර්මාන්තශාලාවක් මරදාන දුම්රිය දෙපාර්තමේන්තු බඩු ගබඩා පරිශ්‍රයේදී විවෘත කර තිබේ.
+
+සම්පූර්ණයෙන්ම මෙරටදී නිෂ්පාදනය කෙරෙන වේගා සමාගමේ ELEKTRATEQ ත්‍රිරෝද රථයේ සම්පුර්ණ නිෂ්පාදන ක්‍රියාවලිය මෙම නිෂ්පාදන කර්මාන්තශාලා පරිශ්‍රයේදී සිදු කෙරේ.
+
+අති නවීන තාක්ෂණය යටතේ ස්වයංක්‍රීයව ක්‍රියාත්මක වන තහඩු කැපීම, නැවීම සඳහා යොදාගැනෙන යන්ත්‍ර, බැටරි නිෂ්පාදන යන්ත්‍ර ඇතුළු තාක්ෂණික උපාංග රාශියකින් මෙම කර්මාන්ත ශාලාව සමන්විතය.
+
+මීට අමතරව දැනට භාවිතයේ පවතින පෙට්‍රල් භාවිතයෙන් ධාවනය වන ත්‍රිරෝද රථයක් පැය දෙකක කාලයක් ඇතුළත සම්පූර්ණයෙන්ම විදුලියට පරිවර්තනය කරදීමට අවශ්‍ය සම්පූර්ණ පහසුකම් මෙම කර්මාන්ත ශාලාව සතුවීම විශේෂත්වයකි.
+
+මේ වනවිටත් පෞද්ගලික මූල්‍ය ආයතනයක් සමඟ ඒකාබද්ධව එක් මසක් තුළ ත්‍රීරෝද රථ සියයක් විදුලියට පරිවර්තනය කිරීමේ ව්‍යාපෘතියක් මෙම කර්මාන්තශාලාවේ ක්‍රියාත්මක වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/41474085.json)
+
+---
+
+### Reconciliation applications extended
 
 *2024-03-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194511) · `si`
 
-අස්වැසුම සුබ සාධක ප්‍රතිලාභ වැඩසටහනේ දෙවැනි අදියර සඳහා අයදුම්පත් කැඳවීමේ දිනය මාර්තු 22 දක්වා දීර්ඝ කර තිබේ.
+The second phase of the revenue welfare program's application deadline has been extended. The data system is ready for new applications, and additional applications will be added through Divisional Secretariats.
 
-මේ වනවිට නව අයදුම්පත් 130,000ක් දෙවැනි වටය සඳහා දත්ත පද්ධතිය වෙත ලැබී ඇත.
+🟩
 
-තවත් අයදුම්පත් ප්‍රමාණයක් ප්‍රාදේශීය ලේකම් කාර්යාල මගින් දත්ත පද්ධතිය වෙත ඇතුළත් කළ යුතුව ඇති බව වාර්තා වෙයි.
+The date of calling for applications has been extended to the second phase of the revenue welfare program.
+
+The data system has been received for the second round of new applications.
+
+It is reported that another quantity of applications should be included in the database through Divisional Secretariats.
 
 ◼️
 
 [Data](articles/659de605.json)
+
+[Extended Data](ext_articles/659de605.ext.json)
 
 ---
 
@@ -61,6 +107,22 @@ Wickremesinghe also emphasized the inclusion of experts from the Ministry of Fin
 ...
 
 [Data](articles/6ffa3845.json)
+
+[Extended Data](ext_articles/6ffa3845.ext.json)
+
+---
+
+### නඩුව අවසන් වනතෙක් කෙහෙළියට ඇප නෑ
+
+*2024-03-14 17:07:43* · [`adalk`](https://www.ada.lk/breaking_news/නඩුව-අවසන්-වනතෙක්-කෙහෙළියට-ඇප-නෑ/11-408617) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, හිටපු සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා සහ තවත් සැකකරුවන් සිව්දෙනෙකුගේ ඇප ඉල්ලීම අද 14දා සලකා බැලූ අවස්ථාවේදී ප්‍රතික්ෂේප කළ මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නඩු විභාගය අවසන් වනතෙක් ඔවුන් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර තිබේ.
+
+නැවත එම නඩුව මාර්තු 28 වනදා කැඳවන බවට මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/ee939bab.json)
 
 ---
 
@@ -812,6 +874,18 @@ He joins history as the man who lived the most effective manner with the aid of 
 
 ---
 
+### Vision beyond borders...
+
+*2024-03-14 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vision-beyond-borders/110-278860) · `en`
+
+LankaPay announced the sixth edition of LankaPay Technnovation Awards - Sri Lanka's pioneering and the only payment technology innovation awards to recognize the Payment Technology innovators. The de facto recognition standard and one of the most looked forward to events amongst the country's banking fraternity kicked off with the much-awaited online poll for the 'Most Popular Digital Payment Product of the Year' on 09th February 2024. The grand finale is scheduled to be held on 20th March 2024 at the Shangri-la Hotel, Colombo. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/7829818e.json)
+
+---
+
 ### Water fires at risk of draining springs
 
 *2024-03-14 14:51:34* · [`adalk`](https://www.ada.lk/breaking_news/කැලෑ-ගිනි-තැබීම-තුළින්-ජල-උල්පත්-සිඳී-යාමේ-අවදානමක්/11-408614) · `si`
@@ -1028,25 +1102,35 @@ Steps have been taken to protect the quality of fish production for the developm
 
 ---
 
-### ආර්ථිකය නැවත ගොඩනැඟීමට හැකිවේ යැයි කිසිවෙකු සිතුවේ නැහැ
+### No one thought the economy could be rebuilt
 
 *2024-03-14 14:00:30* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-නැවත-ගොඩනැඟීමට-හැකිවේ-යැයි-කිසිවෙකු-සිතුවේ-නැහැ/11-408611) · `si`
 
-මුහුදුකරයට සීමා වී තිබෙන සංචාරක ව්‍යාපාරය රට තුළට ගෙන ඒමෙන් ජනතාවගේ ආර්ථිකය ශක්තිමත් කළහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
+President Wickremesinghe highlighted the potential of the newly vested Environmental Park to strengthen the economy, emphasizing its role in tourism, flood control, and agriculture. The park, costing Rs 440 million, includes features like a lake, walking lanes, and solar-powered electricity. It aims to boost local income and protect the environment, with plans to develop tourism in Galle and other areas.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ගාල්ල, හෝලුවාගොඩ ඉදි කළ “සෙරින් රිවර් පාර්ක්” පාරිසරික උද්‍යානය ඊයේ (13) පස්වරුවේ ජනතා අයිතියට පවරා දීමෙන් අනතුරුව පැවති උත්සව සභාව අමතමිනි.
+🟩
 
-2021 වසරේදී ඉදිකිරීම් ඇරඹූණු මෙම උද්‍යානය අක්කර 14ක විශාලත්වයකින් යුතු පුරන්වූ කෙත් යායක ඉදිකර තිබේ.
+President Ranil Wickremesinghe pointed out that the country's economy could be strengthened by bringing the restriction campaign to the sea.
 
-කර්මාන්ත සහ සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතාගේ මූලිකත්වයෙන් ක්‍රියාත්මක මෙම ව්‍යාපෘතියේ සැලසුම් නාගරික සංවර්ධන අධිකාරිය විසින් සකස්කර ඇති අතර ශ්‍රී ලංකා ඉඩම් ගොඩකිරීමේ සංස්ථාව විසින් ඉදිකිරීම් කටයුතු සිදුකර තිබේ.
+The President was addressing the House after the Environmental Park was vested with the public yesterday (13) after being handed over to the public yesterday.
 
-ව්‍යාපෘතිය සඳහා ඇස්තමේන්තුගත මුදල රුපියල් මිලියන 440කි. වැවක්, ඇවිදින මංතීරු, යකඩ පාලම්, ළමා උද්‍යාන, වෙළඳ කුටි, පරිසර පද්ධති ආදියෙන් මෙම උද්‍යානය සමන්විත වන අතර ඒ සඳහා විදුලිය ලබාදීම ‍සූර්ය බලශක්තියෙන් සිදු කෙරේ.
+The park commenced in 2021, the park of 14 acres has been built.
 
-ප්‍රදේශයේ ජනතාවගේ කෘෂිකාර්මික භෝග හා අනෙකුත් නිෂ්පාදන අළෙවි කිරීමේ වැඩපිළිවෙක්ද මේ හරහා ක්‍රියාත්මක කිරීමට නියමිතය.
+The project has been planned by the Ministry of Industry and Health Minister Ramesh Pathirana.
+
+The estimated cost for the project is Rs 440 million. The garden is equipped with a lake, walking lanes, iron bridges, children's parks, stalls, environmental systems and supply electricity to solar power.
+
+A program to marke the agriculture crops and other products of the people of the area.
+
+A boat service to Wakuraka and Galle a boat service from Wakwella and Galle.
+
+The gardens also controlling the floods faced by the people of Opathagoda, Holuwagoda.
 
 ...
 
 [Data](articles/b477784a.json)
+
+[Extended Data](ext_articles/b477784a.ext.json)
 
 ---
 
@@ -2199,89 +2283,5 @@ Officers and fingerprints were attended by the Panadura Criminal Laboratory to a
 [Data](articles/d767a73f.json)
 
 [Extended Data](ext_articles/d767a73f.ext.json)
-
----
-
-### Lahiru Thirimanna injured in accident
-
-*2024-03-14 10:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lahiru-Thirimanna-injured-in-accident/108-278842) · `en`
-
-Anuradhapura, March 14 (Daily Mirror)- Cricketer Lahiru Thirimanna and three others were injured after the car they were travelling in collided with a lorry near the 117th mile post on the Anuradhapura, Thirappane road early this morning.
-
-Thirimanna, his mother and the driver who were injured were admitted to the Anuradhapura Hospital.
-
-The accident occurred while Thirimanna and others were heading to Anuradhapura from Kandy.
-
-◼️
-
-[Data](articles/dd5a7487.json)
-
-[Extended Data](ext_articles/dd5a7487.ext.json)
-
----
-
-### Lahiru Thirimanna crashes into a car lorry
-
-*2024-03-14 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178686) · `ta`
-
-Sri Lankan cricketer Lahiru Thirimanna's car crashed into a lorry in Anuradhapura, injuring three lorry drivers and another person. Accident occurred at 7.45 am today.
-
-🟩
-
-A car traveling by Sri Lankan cricketer Lahiru Thirimanna in Drappana area in Anuradhapura, Anuradhapura, crashed into a lorry.
-
-Three drivers of the lorry and the other person were injured and admitted to the hospital. The accident occurred at 7.45 am today (14).
-
-◼️
-
-[Data](articles/317dae60.json)
-
-[Extended Data](ext_articles/317dae60.ext.json)
-
----
-
-### The vehicle he was traveling by Triman crashed
-
-*2024-03-14 10:53:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிமானே-பயணித்த-வாகனம்-விபத்துக்குள்ளாகியது/175-334649) · `ta`
-
-Former cricketer Lahiru Thirimanne was involved in a crash in Sri Lanka today, March 14, near the 117 mile post. He was injured but safe.
-
-🟩
-
-The vehicle he was traveling in Sri Lanka's former cricketer Lahiru Thirimanne crashed into a road accident this morning (March 14).
-
-According to reports, the vehicle where the former cricketer traveled was crashed into the lorry in the opposite direction near the 117 mile post.
-
-Sources close to the former cricketer said that Trimanne was injured in the accident and that he was safe.
-
-◼️
-
-[Data](articles/b4b66225.json)
-
-[Extended Data](ext_articles/b4b66225.ext.json)
-
----
-
-### Lahiru Thirimanna traveled car accident
-
-*2024-03-14 10:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லஹிரு-திரிமான்ன-பயணித்த-கார்-விபத்து/175-334648) · `ta`
-
-Lahiru Thirimanna, a former Sri Lankan cricketer, was involved in a car accident with a lorry at 7.45 am today. All involved were injured and admitted to the hospital.
-
-🟩
-
-Former Sri Lankan cricketer Lahiru Thirimanna collided head -on with a car lorry.
-
-The accident took place at around 7.45 am today (14).
-
-The trio, the driver of the lorry and the other person who were traveling in the car in the car, were injured and admitted to the hospital.
-
-The car crashed into the accident and crashed away from the lorry road. Remble
-
-◼️
-
-[Data](articles/5e4adef3.json)
-
-[Extended Data](ext_articles/5e4adef3.ext.json)
 
 ---

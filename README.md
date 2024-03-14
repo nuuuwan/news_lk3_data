@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 12:34:04**
+As of **2024-03-14 12:50:59**
 
 ## Newspaper Stats
 
-*Scraped **12,828** Articles*
+*Scraped **12,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,184 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,095
-adaderanalk | 1,541
+adalk | 1,096
+adaderanalk | 1,543
 tamilmirrorlk | 1,568
-virakesarilk | 1,778
+virakesarilk | 1,779
 dailymirrorlk | 1,961
-adaderanasinhalalk | 2,023
+adaderanasinhalalk | 2,026
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,824 (100.0%) of 12,828 articles have been extended.
+12,828 (99.9%) of 12,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### வட்டு.  இளைஞனை கடத்த கடற்படையினர் உதவி ; காணொளி வெளியீடு
+### දුම්රියක් පීලි පනී
+
+*2024-03-14 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194497) · `si`
+
+බෙලිඅත්ත සිට මරදාන දක්වා ධාවනය වෙමින් තිබූ දුම්රියක් කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානය අසලදී පීලිපැනීමට ලක්වී තිබේ.
+
+ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය  මාර්ගයේ දුම්රිය ගමනාගමනයට බාධා එල්ල වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/08fe7571.json)
+
+---
+
+### கரையோரங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ள சுற்றுலாத்துறையை நாட்டுக்குள் கொண்டு வந்து பொருளாதாரத்தை பலப்படுத்த முடியும் - ஜனாதிபதி
+
+*2024-03-14 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178700) · `ta`
+
+கடற்கரையோரங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ள சுற்றுலாத்துறையை நாட்டிற்குள் கொண்டு வந்து பொருளாதாரத்தை வலுப்படுத்த முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+
+நாட்டின் சுற்றுலாத்துறையை மேம்படுத்துவதில் தென்பகுதிக்குத் தனித்துவமான இடம் உள்ளது என்றும் காலியை பிரதான சுற்றுலா நகரமாக அபிவிருத்தி செய்ய திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+காலி, ஹோலுவாகொட "செரின் ரிவர் பார்க்" சூழலியல் பூங்காவை நேற்று (13) பிற்பகல் மக்கள் பாவனைக்காக திறந்து வைக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+
+"2021 ஆம் ஆண்டு நிர்மாணப்பணிகள் ஆரம்பிக்கப்பட்ட இந்த பூங்கா 14 ஏக்கர் தரிசு நிலத்தில் உருவாக்கப்பட்டுள்ளது.
+
+கைத்தொழில் மற்றும் சுகாதார அமைச்சர் ரமேஷ் பத்திரனவின் தலைமையில் இந்தக் கருத்திட்டம் செயற்படுத்தப்பட்டதோடு,நகர அபிவிருத்தி அதிகார சபையினால் இதற்கான திட்டம் தயாரிக்கப்பட்டு, இலங்கை காணி மீட்பு மற்றும் அபிவிருத்திக் கூட்டுத்தாபனத்தினால் நிர்மாணப் பணிகள் மேற்கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/bf4d7b7c.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංගය ගැන තීරණයක් ගනී
+
+*2024-03-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194496) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව විපක්ෂය විසින් බාරදුන් විශ්වාසභංග යෝජනාව සම්බන්ධයෙන් පක්ෂ නායකයින් තීරණයක් ගෙන තිබේ.
+
+ඔවුන් තීරණය කර ඇත්තේ අදාළ යෝජනාව මාර්තු 19 සහ 20 යන දෙදින තුළ විවාදයට ගැනීමට ය.
+
+එහි ඡන්ද විමසීම 20 වනදා සවස පැවැත්වීමට ද අද (14) රැස්වූ පක්ෂ නායකයෝ තීරණය කළහ.
+
+◼️
+
+[Data](articles/0d0f9dec.json)
+
+---
+
+### ජනපති කෝටි 50ක් ලබාදෙයි
+
+*2024-03-14 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194495) · `si`
+
+වී අලෙවි මණ්ඩලයට වී මිලදීගැනීම සඳහා ජනාධිපතිවරයාගේ නියමයෙන් රුපියල් කෝටි 50ක මුදලක් ලබාදීමට තීරණය කර ඇති බව කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+
+මේ අනුව හෙට (15) සිට අවම වශයෙන් සෑම දිස්ත්‍රික්කයකම අවම වශයෙන් වී ගබඩා දෙකක් බැගින් වී මිලදීගැනීම සඳහා විවෘතව තබන බව අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d207f703.json)
+
+---
+
+### Disk. Navy assistance for kidnapping young man;Video release
 
 *2024-03-14 12:17:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டு-இளைஞனை-கடத்த-கடற்படையினர்-உதவி-காணொளி-வெளியீடு/175-334659) · `ta`
 
-வட்டுக்கோட்டை இளைஞனை கடத்தி கொலை செய்வதற்கு கடற்படையினரும் ஒரு வகையில் காரணம் என கொலை செய்யப்பட்டவரின் மனைவி குற்றம் சாட்டியுள்ள நிலையில், இளைஞனை கடத்துவதற்கு கடற்படையினர் உதவும் வீடியோ காட்சிகள் தற்போது வெளியாகியுள்ளன.
+Video footage released shows the Navy's involvement in the kidnapping and murder of a young man, accused by his wife. The couple was abducted by a violent gang in a naval camp, where the man was tortured and killed. The wife claims the Navy attacked her husband's abductors, but police investigations are ongoing.
 
-தனது மனைவியுடன் காரைநகர் பகுதிக்கு திங்கட்கிழமை (11)  மோட்டார் சைக்கிளில் சென்று விட்டு , தனது வீடு நோக்கி திரும்பிக்கொண்டிருந்த இளைஞனையும் , அவரது மனைவியையும் பொன்னாலை பால பகுதியில் உள்ள கடற்படை முகாமிற்கு அருகில் வைத்து , வன்முறை கும்பல் ஒன்றினால் வாகனத்தில் கடத்தி செல்லப்பட்டு , இளைஞன் மிக மோசமான சித்திரவதைக்கு உள்ளாக்கப்பட்டு , படுகொலை செய்யப்பட்டார்.
+🟩
 
-கடத்தி சென்ற இளைஞனின் மனைவியை சித்தன்கேணி பகுதியில் இறக்கி விட்டு வன்முறை கும்பல் தப்பி சென்று இருந்தது.
+Video footage of the Navy has been released, as the wife of the murderer has accused the navy of kidnapping and killing the Vaddukoddai youth.
 
-வன்முறை கும்பல் தம்மை வழிமறித்து ,தாக்கி கடத்த முற்பட்ட வேளை , தாம் உதவி கோரி கடற்படை முகாமிற்கு சென்ற வேளை அங்கிருந்த கடற்படையினர் தம்மை தாக்கி விரட்டினர் எனவும் , தனது கணவரின் படுகொலைக்கு கடற்படையினரும் காரணம் என படுகொலை செய்யப்பட்ட இளைஞனின் மனைவி தெரிவித்து இருந்தார்.
+The young man and his wife were returning to his house on Monday (11) with his wife, who was abducted by a violent gang in a naval camp in the Ponnalai Pal area, and was abducted in a vehicle and was subjected to the worst torture and assassinated.
+
+The violent mob had fled the sidenkanei area of the abducted young man.
+
+The wife of the murdered youth said that when the violent gang tried to abduct himself, he went to the naval camp for assistance and that the navy was attacked and chased away by her husband's assassination.
+
+In this case, the police were carrying out intensive investigations, and investigators obtained the surveillance camera videos fitted in the naval camp.
+
+In the video, the youth and wife are running to the camp, where the navy attacked them, and the violent mob kidnapped the husband and wife in front of the Navy's eye.
 
 ...
 
 [Data](articles/91175f31.json)
 
+[Extended Data](ext_articles/91175f31.ext.json)
+
 ---
 
-### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை விவாதம் 19, 20 ஆம் திகதிகளில்!
+### National People’s Power to meet IMF delegation today
+
+*2024-03-14 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97944/national-peoples-power-to-meet-imf-delegation-today) · `en`
+
+The National People’s Power (NPP) is expected to meet the visiting team of the International Monetary Fund (IMF) on Thursday (14 March).
+
+According to Sunil Handunnetti, a member of the NPP’s Economic Council, the discussion will focus on addressing the economic pressures and burden imposed on the people of the country by the government.
+
+In a separate development, Human Rights Watch has urged the IMF to request the Sri Lankan government to withdraw the proposed Non-Governmental Organisations (NGOs) (Registration and Supervision) Bill and to ban of the Online Safety Act.
+
+In a letter addressed to the IMF, Human Rights Watch further emphasized the need to request the Government of Sri Lanka to amend the Anti-Terrorism Bill, so as to ensure compliance with human rights standards.
+
+...
+
+[Data](articles/20246125.json)
+
+---
+
+### The no -confidence motion against the Speaker on the 19th and 20th!
 
 *2024-03-14 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178698) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக எதிர்க்கட்சிகள் முன்வைத்துள்ள நம்பிக்கையில்லா பிரேரணையை எதிர்வரும் 19 மற்றும் 20ஆம் திகதிகளில் விவாதிப்பதற்கு நாடாளுமன்ற விவகாரங்களுக்கான குழு தீர்மானித்துள்ளது.
+The Parliamentary Affairs Committee will discuss the Opposition's no-confidence motion against Speaker Mahinda Yapa Abeywardena on the 19th and 20th. A referendum will be held at 4.30 pm on the 20th.
 
-பிரேரணை மீதான வாக்கெடுப்பு எதிர்வரும் 20ஆம் திகதி மாலை 4.30 மணிக்கு இடம்பெறவுள்ளது.
+🟩
+
+The Parliamentary Affairs Committee has decided to discuss the no -confidence motion put forward by the Opposition against Speaker Mahinda Yapa Abeywardena on the 19th and 20th of this month.
+
+The referendum on the motion will be held at 4.30 pm on the 20th.
 
 ◼️
 
 [Data](articles/8fa96937.json)
 
+[Extended Data](ext_articles/8fa96937.ext.json)
+
 ---
 
-### நம்பிக்கையில்லா பிரேரணை: 19 - 20 விவாதம்
+### President orders immediate allocation of Rs. 500 mn for paddy purchase
+
+*2024-03-14 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97943/president-orders-immediate-allocation-of-rs-500-mn-for-paddy-purchase-) · `en`
+
+President Ranil Wickremesinghe has ordered the immediate allocation of Rs. 500 million for the purchase of paddy, Minister of Agriculture Mahinda Amaraweera said.
+
+The Agriculture Minister stated that accordingly, at least two paddy purchasing centres will be set up for purchasing paddy in each district.
+
+◼️
+
+[Data](articles/4bb7500e.json)
+
+---
+
+### Motion: 19 - 20 Discussion
 
 *2024-03-14 12:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணை-19-20-விவாதம்/175-334657) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக எதிர்க்கட்சிகள் முன்வைத்துள்ள நம்பிக்கையில்லா பிரேரணையை எதிர்வரும் 19 மற்றும் 20ஆம் திகதிகளில் விவாதிப்பதற்கு பாராளுமன்ற விவகாரங்களுக்கான குழு தீர்மானித்துள்ளது.
+The Parliamentary Affairs Committee will discuss the opposition's no-confidence motion against Speaker Mahinda Yapa Abeywardena on the 19th and 20th. A referendum will be held at 4.30 pm on the 20th.
 
-பிரேரணை மீதான வாக்கெடுப்பு எதிர்வரும் 20ஆம் திகதி மாலை 4.30 மணிக்கு இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Parliamentary Affairs Committee has decided to discuss the no -confidence motion put forward by the opposition parties against Speaker Mahinda Yapa Abeywardena on the 19th and 20th of this month.
+
+The referendum on the motion will be held at 4.30 pm on the 20th.
 
 ◼️
 
 [Data](articles/2a509613.json)
+
+[Extended Data](ext_articles/2a509613.ext.json)
 
 ---
 
@@ -104,21 +222,29 @@ Arrangements have been made to use only one lane of motorists during the rehabil
 
 ---
 
-### நிலக்சன் ஞாபகார்த்த தங்கப்பதக்கத்தை  வென்ற மாணவி
+### Student who won the Nilakshan Memorial Gold Medal
 
 *2024-03-14 11:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலக்சன்-ஞாபகார்த்த-தங்கப்பதக்கத்தை-வென்ற-மாணவி/175-334656) · `ta`
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்தின் 37 ஆவது பட்டமளிப்பு விழாவில், ஊடகத்துறையில் ஆண்டுதோறும் சிறப்புத் தேர்ச்சி பெறும் மாணவருக்கு வழங்கப்படும், யாழ்.பல்கலைக்கழக ஊடக மாணவனும் ஊடகவியலாளருமான அமரர் சகாதேவன் நிலக்சன் ஞாபகார்த்த தங்கப்பதக்கம் இவ்வாண்டு கிருஷ்ணராஜா செல்விக்கு வழங்கப்படுகின்றது.
+Krishnaraja Selva wins the Nilakshan Memorial Gold Medal at the 37th Graduation Ceremony of the University of Jaffna. Nilakshan, a journalist, was assassinated in 2007. The award, given annually to a Jaffna University specialist, commemorates Nilakshan's legacy.
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்தின் 37ஆவது பட்டமளிப்பு விழா, வியாழக்கிழமை (14) ஆரம்பமானது, வௌ்ளிக்கிழமை (15) மற்றும் சனிக்கிழமை (6) ஆகிய தினங்களிலும் நடைபெறும்.
+🟩
 
-யாழ்ப்பாணப் பல்கலைக்கழகத்தில் ஊடக மாணவனாகப் படித்துக் கொண்டு ஊடகவியலாளராகப் பணியாற்றிக் கொண்டிருந்த நிலக்சன் 2007 ஆம் ஆண்டு ஆவணி மாதம் முதலாம் திகதி, ஊரடங்கு வேளையில் அதிகாலை 5 மணியளவில் அவரது வீட்டில் வைத்து பெற்றோர் முன்னிலையில் ஆயுததாரிகளால் படுகொலை செய்யப்பட்டிருந்தார்.
+At the 37th Graduation Ceremony of the University of Jaffna, the Jaffna University Media Student and Journalist Amara Sahadevan Nilakshan Memorial Gold Medal will be awarded to Krishnaraja Selva this year.
 
-நிலக்சனது ஞாபகார்த்தமாக அவருடன் யாழ்.இந்துக்கல்லூரியில் ஒன்றாய்க் கற்ற 2004 உயர்தர மாணவர்களால் முன்னெடுக்கப்படும் “நிலா நிதியம்” யாழ்ப்பாணப் பல்கலைக்கழகத்தின் பட்டமளிப்பு விழாவின் போது ஊடகத்துறையில் சிறப்புத் தேர்ச்சி பெறும் மாணவருக்கு ஆண்டுதோறும் வழங்கப்படுகின்றது.
+The 37th graduation ceremony of the University of Jaffna will be held on Thursday (14) and will be held on Wednesday (15) and Saturday (6).
 
-...
+Nilakshan, who was studying as a journalist at the University of Jaffna and working as a journalist, was assassinated by armed men at his home at 5 am on the first day of August 2007.
+
+The "Moon Fund", which is being carried out by the high -quality students of the 2004 students who learned to be held in Jaffna, in memory of the land, is given annually to a specialist in the Jaffna University.
+
+During the 10th anniversary of the Nilakshan's 10th anniversary held in 2017, the Fund of the Jaffna University was handed over to the Jaffna University Faculty of Arts. The Amara Sahadevan Nilakshan Memorial Gold Medal has been awarded for the past five years.
+
+◼️
 
 [Data](articles/b279ab58.json)
+
+[Extended Data](ext_articles/b279ab58.ext.json)
 
 ---
 
@@ -227,6 +353,26 @@ Earlier, the PAA served as the Director General of Civil Aviation Authority and 
 [Data](articles/403acd45.json)
 
 [Extended Data](ext_articles/403acd45.ext.json)
+
+---
+
+### ’’පොල්’’ ඔනෙකෙනෙක් කඩාගෙන යන්න
+
+*2024-03-14 11:19:47* · [`adalk`](https://www.ada.lk/breaking_news/’’පොල්’’-ඔනෙකෙනෙක්-කඩාගෙන-යන්න/11-408602) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+
+ගම්පහ දිස්ත්‍රික්කයෙහි පොල් වගාව තවත් වැඩි දියුනු කිරීමට පොල් වගාකිරීමේ මණ්ඩලය පියවර ගෙන ඇති බව එම මණ්ඩලයේ දිස්ත්‍රික් කළමනාකාර සමන් හේරත් මහතා විසින් පොල් වගා ප්‍රගතිය ඉදිරිපත් කළ අවස්ථාවේ දිසාපතිවරයා එසේ පැවසීය.
+
+පොල් මිල ගණන් ඉහළ ගොස් ඇති බැවින් ඉඩ ඇති  සෑම භූමි ප්‍රමාණයකම පොල් වගා කිරීමට රාජ්‍ය නිලධාරීන් පියවර ගන්නා ලෙසත් මේවායෙහි ඵලදාව කවුරුන් ගත්තද ප්‍රශ්ණයක් නොවන බව පැවසූ දිසාපතිවරයා , වගාකිරීම පිනිස අවශ්‍ය පොල් පැල පොල් වගා කිරීමේ මණ්ඩලයෙන් ලබා ගැනීමට කටයුතු කළ යුතු බවත් පැවසීය.
+
+මේ සදහා ප්‍රධාන කාර්යාලය වෙත දැනුම් දෙමින් පොල් පැල 1000 ක් පළමුවෙන් ලබාදීමට පියවර ගන්නා බව දිස්ත්‍රික් කළමනාකාරවරයා මෙහිදී ප්‍රකාශ කළේය
+
+ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+
+...
+
+[Data](articles/f75054b3.json)
 
 ---
 
@@ -1989,151 +2135,5 @@ Accordingly, the three -match ODI series is zero in the presence of Bangladesh..
 [Data](articles/cc973b90.json)
 
 [Extended Data](ext_articles/cc973b90.ext.json)
-
----
-
-### Najmul guides Bangladesh to comfortable win against Sri Lanka
-
-*2024-03-13 23:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Najmul-guides-Bangladesh-to-comfortable-win-against-Sri-Lanka/108-278815) · `en`
-
-Chittagong, Mar. 13 - Skipper Najmul Hossain Shanto struck an unbeaten century to guide Bangladesh to a comfortable six-wicket win in the first one-day international of a three-match series against Sri Lanka in Chittagong on Wednesday.
-
-Najmul hit 122 not out off 129 balls, and was ably supported by one of his predecessors as captain, Mushfiqur Rahim, who was unbeaten on 73, as Bangladesh raced to 257-4 in 44.4 overs after bowling out Sri Lanka for 255 runs.
-
-The pair added 165 in their unbroken fifth-wicket stand, saving Bangladesh from a potential mid-innings collapse, coming together at 92-4.
-
-Dilshan Madushanka took two early wickets and Pramod Madushan joined him to leave Bangladesh struggling at 23-3, in a little over five overs.
-
-Najmul put on 69 for the fourth wicket with Mahmudullah Riyad to stave off the initial danger.
-
-Lahiru Kumara broke the partnership by removing Mahmudullah for 37, but Najmul and Mushfiqur denied Sri Lanka further success.
-
-...
-
-[Data](articles/015beb1d.json)
-
-[Extended Data](ext_articles/015beb1d.ext.json)
-
----
-
-### Home remedies for Glowing Skin
-
-*2024-03-13 23:04:00* · [`islandlk`](http://island.lk/home-remedies-for-glowing-skin/) · `en`
-
-No doubt, we all love to have glowing skins, the ladies, especially, and with that in mind, this week I’ve decided to give them a choice.
-
-All the items mentioned are freely available, so let’s move into action….
-
-Take a few pieces of ripe papaya and, add one teaspoon of Sandalwood powder, and one teaspoon of honey. Mix these ingredients to get a paste-like consistency.
-
-Apply the paste all over the face and neck and leave it for 20 minutes. Rinse off with cool water. Repeat this once every week.
-
-Overall, this face pack acts as an anti-ageing and skin firming pack which helps you get a glowing skin.
-
-Apply pure honey evenly on a clear and damp face and massage it thoroughly for a few minutes. Then, wash it off with lukewarm water. Do this on every alternative day.
-
-Honey will reduce blemishes and make the skin soft and healthy
-
-...
-
-[Data](articles/a8828216.json)
-
-[Extended Data](ext_articles/a8828216.ext.json)
-
----
-
-### Calendar girl…
-
-*2024-03-13 23:02:00* · [`islandlk`](http://island.lk/calendar-girl/) · `en`
-
-Neil Sedaka’s big hit of the sixties, ‘Calendar Girl’, came to mind when I was told that Rozanne Diasz, and her senior colleagues, in the modelling scene, had worked on a project to bring out a calendar, featuring the senior models.
-
-According to Rozanne, the 2024 calendar was their very first attempt at doing something unique for the senior models.
-
-“It was a kind of a trial effort and the response that came our way was very encouraging and we now plan to make the calendar a reality for the year 2025 – as a desk and wall calendar.
-
-The 2024 effort features Rozanne herself, Dannielle Kerkoven, Geraldine D’ Rozario, Koshi Edirisuriya, Nilusha Fernando, Nilu Senanayake and Rozelle Sheril Plunkett.
-
-They are pictured in the respective months they celebrate their birthdays.
-
-“Since we did all this at short notice we didn’t get a birthday girl model for each month of the year, but it will be a totally different scene when we come out with our desk and wall calendar for 2025.”
-
-...
-
-[Data](articles/2aa72e74.json)
-
-[Extended Data](ext_articles/2aa72e74.ext.json)
-
----
-
-### Kota attempts to renew Sinhala Buddhism;Writing the book is useless - Omalpe Sobhitha Thera
-
-*2024-03-13 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178635) · `ta`
-
-Omalpe Sobhitha Thera criticizes Gotabhaya Rajapakse's Sinhala Buddhist policies and his handling of the 2020 economic crisis, stating that writing a book is futile. Thera highlights the people's clear stance against Rajapakse and his administration, emphasizing the need for Rajapakse to acknowledge the economic crisis's impact.
-
-🟩
-
-Gotabhaya Rajapakse, who has put the country into a bankruptcy, is trying to intensify Sinhala Buddhist policies. Writing the book is useless. National Council Chairman Omalpe Sobhitha Thera said that Gotabhaya Rajapakse should not forget that the people are very clear and that I am presenting the facilities to leave the country in the event of a life -threatening.
-
-He made this statement during a media briefing held at Embilipitiya on Monday evening.
-
-In the book published by Gotabhaya Rajapaksa, I am noted that I have acted from his presence to eliminate his Sinhala Buddhist existence.
-
-In 2020, the economic crisis should be held responsible for the Sri Lanka PA. The people affected by the economic crisis took to the streets to protest the government.
-
-...
-
-[Data](articles/e631fcfb.json)
-
-[Extended Data](ext_articles/e631fcfb.ext.json)
-
----
-
-### “Sky-high Sundowns by Marina Square”
-
-*2024-03-13 22:37:00* · [`islandlk`](http://island.lk/sky-high-sundowns-by-marina-square/) · `en`
-
-Marina Square – Uptown Colombo announced the launch of “Sky-High Sundowns,” a series of exclusive investor forums aimed at exploring the dynamic real estate market of today and offering attendees a keen understanding of the pertinent factors at play in the current real estate investment landscape of the country.
-
-The series was launched against the backdrop of the stunning ocean, Colombo harbour and city skyline views that the development is privy to at an event recently. Through the interactive discussions, show-arounds, and expert insights facilitated, attendees were afforded the opportunity to gain invaluable perspective for investors looking to maximise their returns and mitigate risks while staying ahead of the curve in the ever-evolving real estate sector.
-
-...
-
-[Data](articles/c593ee85.json)
-
-[Extended Data](ext_articles/c593ee85.ext.json)
-
----
-
-### Sheraton Colombo Hotel welcomes guests to a new era of hospitality
-
-*2024-03-13 22:34:00* · [`islandlk`](http://island.lk/sheraton-colombo-hotel-welcomes-guests-to-a-new-era-of-hospitality/) · `en`
-
-The stunning new Sheraton Colombo Hotel, part of Marriott Bonvoy’s portfolio of over 30 extraordinary brands opened its doors recently. Strategically situated in the central hub of Colombo’s business and shopping district, the new 320-room hotel boasts the brand’s signature warm hospitality amidst a beautifully designed property. With over two decades as an experienced hospitality professional with a passion for operational excellence and guest engagement, Sheraton Colombo Hotel General Manager Rahul Maini shares insights into the hotel’s signature experiences and commitment to providing superior hospitality.
-
-Q: What inspired Colombo as the location of the new Sheraton Hotel, and how does it contribute to the overall guest experience?
-
-...
-
-[Data](articles/a43eaf58.json)
-
-[Extended Data](ext_articles/a43eaf58.ext.json)
-
----
-
-### National planning symposium to explore insights and challenges for a promising future
-
-*2024-03-13 22:33:00* · [`islandlk`](http://island.lk/national-planning-symposium-to-explore-insights-and-challenges-for-a-promising-future/) · `en`
-
-A Symposium on National Planning is set to take place at the Bandaranaike Memorial International Conference Hall (BMICH) on March 19, 2024. This highly anticipated event aims to bring together policymakers, economists, and political representatives to gain valuable insights into the significance of national planning, its challenges, and future prospects.
-
-The symposium will consist of engaging sessions covering various aspects of national planning. The event will kick off with a session titled “National Planning Today – Insights from Experts,” where authoritative figures, including R H W A Kumarasiri, Director General of National Planning, will share their experiences and perspectives on the current state of national planning. This session will provide profound insights into the critical role of planning in shaping the future of the nation.
-
-...
-
-[Data](articles/75329805.json)
-
-[Extended Data](ext_articles/75329805.ext.json)
 
 ---

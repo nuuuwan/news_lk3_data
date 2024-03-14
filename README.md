@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 09:17:56**
+As of **2024-03-14 09:33:23**
 
 ## Newspaper Stats
 
-*Scraped **12,775** Articles*
+*Scraped **12,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 699
 adalk | 1,091
 adaderanalk | 1,537
 tamilmirrorlk | 1,557
-virakesarilk | 1,766
+virakesarilk | 1,767
 dailymirrorlk | 1,951
 adaderanasinhalalk | 2,017
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,772 (100.0%) of 12,775 articles have been extended.
+12,775 (100.0%) of 12,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### சனிட்டரி நப்கின்கள் உள்ளிட்ட மாதவிடாய்கால உபயோகப்பொருட்களுக்கான வரிகளை முற்றாக நீக்குங்கள் - அரசாங்கத்தை வலியுறுத்துகிறது இலங்கை குடும்பத்திட்ட சங்கம்
+
+*2024-03-14 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178676) · `ta`
+
+நாடளாவிய ரீதியிலுள்ள பெண்களின் உடல் மற்றும் உளவியல் சுகாதாரத்தில் 'மாதவிடாய் வறுமை' நிலை மிகமோசமான தாக்கத்தை ஏற்படுத்துவதாக சுட்டிக்காட்டியிருக்கும் இலங்கை குடும்பத்திட்ட சங்கம், சனிட்டரி நப்கின்கள் உள்ளடங்கலாக மாதவிடாய்கால உபயோகப்பொருட்கள் அனைத்துக்குமான வரிகளை முற்றாக நீக்கவேண்டுமென அரசாங்கத்தை வலியுறுத்தியுள்ளது.
+
+சர்வதேச மகளிர் தினத்தை முன்னிட்டு இலங்கை குடும்பத்திட்ட சங்கத்தினால் கடந்த வாரம் 'Axe the Period Tax' எனும் தலைப்பிலான கலந்துரையாடல் நிகழ்வொன்று கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது. நாடளாவிய ரீதியிலுள்ள பெண்களின் மாதவிடாய்கால சுகாதார நலனை உறுதிப்படுத்தும் வகையில் சனிட்டரி நப்கின்கள் உள்ளடங்கலாக மாதவிடாய்கால உபயோகப்பொருட்களுக்குரிய அனைத்து வரிகளையும் நீக்குவதற்கான கொள்கை மறுசீரமைப்பை மேற்கொள்ளுமாறு அரசாங்கத்துக்கு அழுத்தம் வழங்குவதே இக்கலந்துரையாடலின் பிரதான நோக்கமாகக் காணப்பட்டது.
+
+...
+
+[Data](articles/b35f39a6.json)
+
+---
 
 ### Another shower in the South
 
@@ -94,15 +108,21 @@ President Ranil Wickremesinghe made this statement participating at a function i
 
 ---
 
-### உயர்ஸ்தானிகரை சந்தித்தார் பசில்
+### Basil met the High Commissioner
 
 *2024-03-14 08:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்ஸ்தானிகரை-சந்தித்தார்-பசில்/175-334641) · `ta`
 
-பொதுஜன பெரமுனவின் ஸ்தாபகரான பசில் ராஜபக்ஷ,. இலங்கைக்கான  இந்திய உயர்ஸ்தானிகர் ஸ்ரீ சந்தோஷ் ஜா வை சந்தித்து கலந்துரையாடினார்
+Basil Rajapaksa, PA founder, met Indian High Commissioner to Sri Lanka, Sri Santosh Ja.
+
+🟩
+
+Basil Rajapaksa, founder of PA. Indian High Commissioner to Sri Lanka met Sri Santosh Ja
 
 ◼️
 
 [Data](articles/5857e42a.json)
+
+[Extended Data](ext_articles/5857e42a.ext.json)
 
 ---
 
@@ -532,35 +552,49 @@ Addressing a press conference yesterday, SLUNBA Chairperson Tania Abeysundara sa
 
 ---
 
-### ’மீன்பிடி துறைக்கு நவீன கப்பல் விரைவில் அறிமுகம்’
+### Modern Shipping to the Fisheries Department
 
 *2024-03-14 03:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடி-துறைக்கு-நவீன-கப்பல்-விரைவில்-அறிமுகம்/175-334640) · `ta`
 
-மீன்பிடித் தொழிலுக்கு நவீன தொழில்நுட்பம் மற்றும் நவீன செயற்பாட்டு முறைகளுடன் கூடிய புதிய ஆழ்கடல் கப்பலை அறிமுகப்படுத்தத் திட்டமிடப்பட்டுள்ளது என்று  கடல் தொழில் இராஜாங்க அமைச்சர் பியல் நிசாந்த டி சில்வா தெரிவித்தார்.
+The fisheries industry plans to introduce a modern deep sea ship to enhance operations and protect fish quality amid rising costs.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் பியல் நிசாந்த இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-மீன்பிடி தொழில்துறையின் வளர்ச்சிக்காக, மீன்களின் தரத்தை பாதுகாக்க முயற்சி மேற்கொள்ளப்பட்டுள்ளது. எரிபொருள் விலை அதிகரிப்பு மற்றும் மீன்பிடி உபகரணங்களின் விலை அதிகரிப்பு காரணமாக மீனவர்களின் வருமானத்தில் ஓரளவு பாதிப்பு ஏற்பட்டுள்ளது. ஆனால் நிலைமையை தணிக்க தேவையான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
+Minister of Marine Industry, Piel Nishantha de Silva, said that the fisheries industry is planned to introduce a new deep sea ship with modern technology and modern operations.
 
-...
+State Minister Piel Nishantha said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+For the development of the fishing industry, efforts have been made to protect the quality of fish. Due to the increase in fuel prices and the increase in the price of fishing equipment. But necessary steps are being taken to alleviate the situation.
+
+A team of experts is planning to introduce a new deep sea fishing vessel with modern technology and modern operating systems for the fishing industry.. Once its work is completed, the new fishing shipping process will begin. The aim is to maintain the stable fishing industry by managing fishing entries. (A)
+
+◼️
 
 [Data](articles/e1cb1ed8.json)
 
+[Extended Data](ext_articles/e1cb1ed8.ext.json)
+
 ---
 
-### நீர் பாவனை 15 வீதத்தால் அதிகரிப்பு
+### Increase in water use by 15 percent
 
 *2024-03-14 03:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-பாவனை-15-வீதத்தால்-அதிகரிப்பு/175-334639) · `ta`
 
-இதன்காரணமாக மேட்டுநிலப் பகுதிகள் மற்றும் நீர் விநியோகக் கட்டமைப்பின் முடிவிடங்களில் வாழும் மக்களுக்கு குறைந்த அழுத்தத்தில் நீர் விநியோகிக்கப்படுவதாக தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
+Water use increased by 15%, putting upland areas under low pressure. The National Water Supply and Drainage Board advises efficient water use, as no area has been cut off from water supply.
 
-எவ்வாறாயினும், இதுவரை எந்தவொரு பகுதிக்கும் நீர் விநியோகம் நிறுத்தப்படவில்லை என சபை குறிப்பிட்டுள்ளது.
+🟩
 
-இதனால் நீரை சிக்கனமாகப் பயன்படுத்துமாறு தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை மக்களை கேட்டுக்கொண்டுள்ளது. (a)
+As a result, the National Water Supply and Drainage Board said that people living in the upland areas and the conclusions of the water supply structure are under low pressure.
+
+However, the council noted that the water supply has not been stopped to any area so far.
+
+The National Water Supply and Drainage Board has urged people to use water efficiently. (A)
 
 ◼️
 
 [Data](articles/ddcbfcf7.json)
+
+[Extended Data](ext_articles/ddcbfcf7.ext.json)
 
 ---
 
@@ -2203,27 +2237,5 @@ Opposition parties in Sri Lanka this week boycotted a meeting called by Presiden
 [Data](articles/91d5bc2a.json)
 
 [Extended Data](ext_articles/91d5bc2a.ext.json)
-
----
-
-### Sri Lanka fails to ’meet’ 33% of IMF commitments due by end-February: Verité Research
-
-*2024-03-13 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fails-to-meet-33-of-IMF-commitments-due-by-end-February-Verité-Research/108-278784) · `en`
-
-Colombo, March 13 (Daily Mirror)- Sri Lanka failed to meet 33% of the commitments due by end-February 2024 in its International Monetary Fund (IMF) programme, according to the February update of Verité Research’s ‘IMF Tracker’.
-
-Many of these commitments that are classified as ‘not met’ on IMF Tracker were designed to improve governance, the Verité Research said.
-
-“These include commitments related to publishing information (transparency), and those that require the passage of governance-improving legislation.
-
-The IMF has recognised poor governance as being at the heart of Sri Lanka’s economic crisis, and Sri Lanka is the first Asian country to have had an IMF-led Governance Diagnostic Assessment.
-
-The status of 36% of the commitments are classified as ‘unknown’, which means sufficient data was not made available to assess their progress. By end-February, 31% of the commitments were verifiably ‘met’,” the Verité Research further said.
-
-...
-
-[Data](articles/585e1e6d.json)
-
-[Extended Data](ext_articles/585e1e6d.ext.json)
 
 ---

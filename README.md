@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 10:33:39**
+As of **2024-03-14 10:50:35**
 
 ## Newspaper Stats
 
-*Scraped **12,790** Articles*
+*Scraped **12,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 1,092
 adaderanalk | 1,538
 tamilmirrorlk | 1,557
 virakesarilk | 1,770
-dailymirrorlk | 1,955
+dailymirrorlk | 1,956
 adaderanasinhalalk | 2,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,786 (100.0%) of 12,790 articles have been extended.
+12,790 (100.0%) of 12,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### தென்னிலங்கையில் தொடரும் துப்பாக்கிப் பிரயோகங்கள் ; இன்று அம்பலாங்கொடையில்...
+### Do not sign English bank agreement forms: Business Alliance urges public
+
+*2024-03-14 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-sign-English-bank-agreement-forms-Business-Alliance-urges-public/108-278822) · `en`
+
+Colombo, March 14 (Daily Mirror) - The Sri Lanka United National Businesses Alliance (SLUNBA) requested businessmen and the people to reject signing relevant bank agreement forms if they are not provided in Sinhala as well.
+
+Addressing the media, SLUNBA Deputy Chairman Susantha Liyanaarachchi urged individuals not to sign English loan agreements from today, as many of these agreements do not clearly state their specified requirements.
+
+After the Cabinet decision to suspend the parate rights of banks till December 15, banks have acquired the properties of the people, he said.
+
+"As there is a significant number of banks operating within the country, the small and medium enterprises (SMEs) today requested the President to issue immediate notes to close those banks if they cannot pass loans for them," he said.
+
+According to the statement issued by the Sri Lanka Bankers Association, they have to close their banks if they cannot conduct business with SMEs, Liyanaarachchi said.
+
+◼️
+
+[Data](articles/6f15f79d.json)
+
+---
+
+### Continuing shootings in South Sri Lanka;Today in Ambalangoda ...
 
 *2024-03-14 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178684) · `ta`
 
-அம்பலாங்கொடை பொலிஸ் பிரிவிற்குட்பட்ட இடந்தோட்டை பொனதுவ பிரதேசத்தில் துப்பாக்கிப் பிரயோக சம்பவம் ஒன்று பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A shooting incident in Ponatuwa, Ambalangoda, targeted Sajith Saman Piyantha, a member of the 'Samankolla' underworld group, on Thursday morning. Bullets hit the house and its occupants, including his mother and three sisters.
 
-போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும் பாதாள உலகக் குழு உறுப்பினரான 'சமன்கொல்லா' என்ற அகம்பொடி சஜித் சமன் பியந்தவின் வீட்டின் மீதே இன்று வியாழக்கிழமை (14) காலை துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-பல தோட்டாக்கள் வீட்டின் சுவர் மற்றும் கதவுகளைத் தாக்கியுள்ளதுடன் சம்பவத்தின் போது வீட்டில் சமன்கொல்லவின் தாயும் மூன்று சகோதரிகளும் இருந்துள்ளமை குறிப்பிடத்தக்கது.
+A shooting incident has been reported in the Ponatuwa area of Idandottai, which belongs to the Ambalangoda police division, police said.
+
+The firing was carried out on Thursday morning on the house of Sajith Saman Piyantha, a member of the underworld group, 'Samankolla', a member of the underworld group.
+
+It is noteworthy that many bullets attacked the walls and doors of the house and the mother and three sisters of Samankolla at home during the incident.
 
 ◼️
 
 [Data](articles/02677429.json)
+
+[Extended Data](ext_articles/02677429.ext.json)
 
 ---
 
@@ -59,6 +85,8 @@ Accordingly, he has been admitted to Anuradhapura Teaching Hospital with minor i
 ◼️
 
 [Data](articles/844e29f0.json)
+
+[Extended Data](ext_articles/844e29f0.ext.json)
 
 ---
 
@@ -84,21 +112,31 @@ He was immediately admitted to the Pudukkudiyiruppu Divisional Hospital and was 
 
 ---
 
-### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை ; சந்தேகநபர்களை பொலிஸ் காவலில் வைத்து விசாரிக்க அனுமதி
+### Yall. Vaddukoddai youth assassination;Allow the suspects to be detained in police custody
 
 *2024-03-14 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178680) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை இளைஞன் படுகொலை சம்பவத்துடன் தொடர்புடைய குற்றச்சாட்டில் கைதான ஐவரையும் 24 மணி நேரம் பொலிஸ் தடுப்பு காவலில் தடுத்து வைத்து விசாரணைகளை முன்னெடுக்க மல்லாகம் நீதவான் நீதிமன்று அனுமதி வழங்கியுள்ளது.
+The Mallakam Magistrate has allowed the detention of five suspects in police custody for their alleged involvement in the murder of a youth in Vaddukoddai, Jaffna. The suspects, arrested from Arali, were hiding in Kilinochchi. The police recovered a car used for smuggling from an unmanned house in Arali. Despite the arrest, the main suspect remains at large, and the court requires further evidence for the murder.
 
-காரைநகர் பகுதிக்கு சென்று விட்டு, வீடு திரும்பிக்கொண்டிருந்த கணவன் மனைவியை பொன்னாலை பாலத்திற்கு அருகில் வைத்து இரு வாகனத்தில் வன்முறை கும்பல் கடத்தி சென்று கணவனை தாக்கி படுகாயம் ஏற்படுத்திய நிலையில் கணவன்  வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+🟩
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார் , கிளிநொச்சி பகுதியில் தலைமறைவாக இருந்த அராலி பகுதியை சேர்ந்த நான்கு சந்தேக நபர்களை கைது செய்தனர்.
+The Mallakam Magistrate has granted permission to carry out investigations by detaining five persons arrested for allegedly involved in the murder of a youth in Vaddukoddai in Jaffna.
 
-கைது செய்யப்பட்ட நபர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் , அராலி பகுதியில் ஆட்களற்ற வீடொன்றில் இருந்து கடத்தலுக்கு பயன்படுத்திய காரை பொலிஸார் மீட்டனர்.
+Husband died in a two -wheeler in a two -vehicle gang after she left the Karainagar area and had been killed in a two -wheeler in a two -wheeler.
 
-...
+Police, who were investigating the incident, arrested four suspects from Arali, who was hiding in Kilinochchi.
+
+Based on investigations carried out by the arrested persons, police recovered the car used for smuggling from an unmanned house in Arali.
+
+In this case, the five suspects and the Mallakam Magistrate's Court were arrested by the Mallakam Magistrate's Court, saying that the main suspect was not arrested, and that there were requirements for the murder and the need to obtain evidence of the murder.
+
+Subsequently, the five suspects were allowed to carry out 24 -hour investigations by police custody.
+
+◼️
 
 [Data](articles/65c9e8d9.json)
+
+[Extended Data](ext_articles/65c9e8d9.ext.json)
 
 ---
 
@@ -987,6 +1025,8 @@ Speaking to Mirror Business, Export Agriculture Industries Director General A.P.
 ...
 
 [Data](articles/4fff28e8.json)
+
+[Extended Data](ext_articles/4fff28e8.ext.json)
 
 ---
 
@@ -2111,29 +2151,5 @@ Deputy Solicitor General Nirmalan Wigneswaran appeared for the respondents befor
 [Data](articles/53050420.json)
 
 [Extended Data](ext_articles/53050420.ext.json)
-
----
-
-### Certificate of IGP
-
-*2024-03-13 17:46:37* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-සහතිකය/11-408591) · `si`
-
-IGP Deshabandu Tennakoon collected accurate underworld activity information, prevented murders in the Southern Province, and identified foreign underworld groups.
-
-🟩
-
-IGP Deshabandu Tennakoon said that the accurate information of the underworld activities were collected under the operation of justice.
-
-IGP Deshabandu Tennakoon has not allowed the unfortunate murder of these unfortunate killings in the Southern Province and resorted to the body of unidentified gunmen.said.
-
-Inspector General of law, said that the Law Deshabandu Tennakoon said that the law was taken into custody soon.
-
-Deshabandu Tennakoon said that the underworld groups abroad has been identified.
-
-◼️
-
-[Data](articles/274fa0f6.json)
-
-[Extended Data](ext_articles/274fa0f6.ext.json)
 
 ---

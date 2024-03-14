@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 08:02:53**
+As of **2024-03-14 07:53:59**
 
 ## Newspaper Stats
 
-*Scraped **12,765** Articles*
+*Scraped **12,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,17 @@ adaderanalk | 1,536
 tamilmirrorlk | 1,554
 virakesarilk | 1,766
 dailymirrorlk | 1,949
-adaderanasinhalalk | 2,015
+adaderanasinhalalk | 2,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,758 (99.9%) of 12,765 articles have been extended.
+12,758 (100.0%) of 12,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
-
-### ක්ෂය රෝගීන් වාර්තාවීම සියයට 14කින් ඉහළට
-
-*2024-03-14 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194486) · `si`
-
-මෙරට ක්ෂය රෝගීන් වාර්තා වීම සියයට 14කින් ඉහළ ගොස් ඇති බව ක්ෂය රෝග මර්දන සහ ළය රෝග පිළිබඳ ජාතික වැඩසටහන පවසයි.
-
-එහි ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය නිසායා කාදර් මහත්මිය සඳහන් කළේ, මේ වන විට පෙනහළුගත ක්ෂය රෝගීන් වාර්තා වීමේ වර්ධනයක් පෙන්නුම් කරන බවය.
-
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් වෛද්‍ය නිසායා කාදර් මහත්මිය මේ බව සඳහන් කළාය.
-
-"අපි මේ රෝග තත්ත්වය සඳහා නොමිලේ හඳුනාගැනීමේ පරීක්ෂණ සහ ප්‍රතිකාර කිරීමේ කටයුතු සිද්ධ කරනවා. විශේෂයෙන් සෑම දිස්ත්‍රික්කයේම ළය රෝග සායන පවතිනවා. ඒ වගේම තමා ප්‍රතිකාර සඳහා රෝහල්වල අවශ්‍ය සියලු පහසුකම් සලසා තියෙනවා. ඒ වගේම 2035 වන විට මේ රෝගය තුරන් කිරීමට අවශ්‍ය කටයුතු සැලසුම් කරමින් පවතිනවා. ඒ තුරන් කිරීමට අවශ්‍ය කටයුතු සඳහා රෝගීන් වීම අපි 90%කින් අවම කරගන්න ඕනේ, ඒ වගේම මරණ සංඛ්‍යාව ඇති වීම 95%කින් අවම කළ යුතුයි. ඒ වගේම ක්ෂය රෝගියෙක් සඳහා දරන පිරිවැය අවම කිරීමත් මෙයින් අපේක්ෂා කරනවා."
-
-◼️
-
-[Data](articles/17e03474.json)
-
----
 
 ### අද සිට දුම්රිය ආසන වෙන්කිරීම ඔන්ලයින් ක්‍රමයට පමණයි
 
@@ -1696,9 +1678,7 @@ ECONOMYNEXT – Sri Lanka will import sailfish (thalapath) from Singapore, State
 
 De Silva said the aim was to supply good quality fish at a good price to consumers without negatively impacting local fisherman.
 
-“We will be importing fish from Singapore, through the Ceylon Fisheries Corporation,” De Silva said. “This is necessary to meet the consumption needs, especially from hospitals.”
-
-SriLankans need state permission to import some foods. The country has a heavy economic nationalist ideology, partly driven by monetary instability (to save foreign exchange). (Colombo/Mar13/2024)
+“We will be importing fish from Singapore, through the Ceylon Fisheries Corporation,” De Silva said. “This is necessary to meet the consumption needs, especially from hospitals.” (Colombo/Mar13/2024)
 
 ◼️
 
@@ -1956,11 +1936,11 @@ In the eight people arrested, the temple was launched by the temple, T.Madimukar
 
 ---
 
-### Sri Lanka failed 16 IMF agreements, latest deal must be honoured: minister
+### Sri Lanka violated 16 IMF agreements, latest deal must be honoured: minister
 
 *2024-03-13 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-violated-16-imf-agreements-latest-deal-must-be-honoured-minister-154526/) · `en`
 
-ECONOMYNEXT — Sri Lanka violated all 16 of its past agreements with the International Monetary Fund (IMF) and if the current agreement is also not honoured, the situation could get macabre, according to Transport Minister Bandula Gunawardena.
+ECONOMYNEXT — Sri Lanka violated all 16 of its past agreements with the International Monetary Fund (IMF) and if the current agreement is also not honoured, the situation could get macarbe, according to Transport Minister Bandula Gunawardena.
 
 “The previous 16 agreements with the IMF were all violated. It was after violating the agreements that the country went bankrupt. If we violate the agreement again even after bankruptcy, the country will not last. Besides killing each other, there will be no alternative,” Gunawardena said speaking to reporters.
 
@@ -2251,5 +2231,31 @@ The 2019 Candidates who came to the US presidential election are eligible for th
 [Data](articles/acc12b1b.json)
 
 [Extended Data](ext_articles/acc12b1b.ext.json)
+
+---
+
+### "Eggs will be imposed on prices"
+
+*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு-விதிக்கப்படும்/175-334615) · `ta`
+
+Agriculture Minister Mahinda Amaraweera announced a price restriction on eggs to ensure fair pricing ahead of the festive season. Discussions with the All Ceylon Egg Producers Association highlighted the need for price reduction. Egg manufacturers also expressed their desire for price reduction. The Minister promised to implement a control price if producers fail to reduce prices.
+
+🟩
+
+Agriculture Minister Mahinda Amaraweera has said that the price restriction will be implemented in an effort to provide eggs at fair prices ahead of the festive season.
+
+The matter was made during a discussion held today (13) between the Agriculture Minister and representatives of the All Ceylon Egg Producers Association.
+
+During the discussion, existing egg prices were taken up for review and currently Rs.. Emphasized the need to further reduce the price of 48
+
+Egg manufacturers have also expressed their desire to reduce the price as they have already observed the price.
+
+However, the Minister promised that if the price of egg producers failed to reduce the price, the control price would be implemented.
+
+◼️
+
+[Data](articles/3a73cb84.json)
+
+[Extended Data](ext_articles/3a73cb84.ext.json)
 
 ---

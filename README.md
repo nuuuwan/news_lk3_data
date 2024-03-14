@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 15:18:00**
+As of **2024-03-14 15:33:47**
 
 ## Newspaper Stats
 
-*Scraped **12,863** Articles*
+*Scraped **12,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,105
+adalk | 1,107
 adaderanalk | 1,547
-tamilmirrorlk | 1,572
+tamilmirrorlk | 1,573
 virakesarilk | 1,781
 dailymirrorlk | 1,963
 adaderanasinhalalk | 2,033
@@ -26,53 +26,95 @@ adaderanasinhalalk | 2,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,860 (100.0%) of 12,863 articles have been extended.
+12,863 (100.0%) of 12,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### රටම කම්පා කරවූ ඝාතනයට 5ක් කොටුවෙයි
+### தொழிற்சங்க போராட்டத்தை முன்னெடுக்க தீர்மானம்
 
-*2024-03-14 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194504) · `si`
+*2024-03-14 15:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-போராட்டத்தை-முன்னெடுக்க-தீர்மானம்/175-334670) · `ta`
 
-වඩුක්කෝට්ටේ, පොන්නාලේ හන්දිය ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් විසින් අඹුසැමි යුවළක් පැහැරගෙන ගොස් පිරිමි පුද්ගලයාව තියුණු ආයුධවලින් පහරදී ඝාතනය කිරීමේ සිද්ධියට අදාළව පුද්ගලයින් පස්දෙනෙකු සැකපිට අත්අඩංගුවට තිබේ.
+ரயில் நிலைய அதிபர்களுக்கு எந்தத் தகவலையும் வழங்காமல் அமுல்படுத்திய இருக்கை முன்பதிவு முறைக்கு எதிர்ப்புத் தெரிவித்து, இன்று மாலை 4 மணிக்கு திடீர் தொழிற்சங்கப் போராட்டத்தை முன்னெடுக்க இலங்கை ரயில் நிலைய அதிபர்கள் சங்கம் (SLRSMU) தீர்மானித்துள்ளது.
 
-සැකකරුවන් මල්ලාකම් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව පැය 24ක රැඳවුම් නියෝග ලබාගෙන වඩුක්කෝට්ටේ පොලීසිය වැඩිදුර විමර්ශන ආරම්භ  කර ඇත.
+சம்பவம் தொடர்பில் இன்று பிற்பகல் 2.30 மணிக்கு போக்குவரத்து அமைச்சின் செயலாளருடன் கலந்துரையாடல் ஒன்று இடம்பெற உள்ளதாக சங்கத்தின் பொதுச் செயலாளர் தெரிவித்துள்ளார்.
 
-පසුගිය 11 වනදා වඩුක්කෝට්ටේ, පොන්නාලේ හන්දිය ප්‍රදේශයේදී පුද්ගලයින් පිරිසක් විසින් අඹුසැමි යුවළක් පැහැරගෙන ගොස් පිරිමි පුද්ගලයාව තියුණු ආයුධවලින් පහරදී ඝාතනය කර තිබුණි.
+◼️
 
-මරණකරු හා ඔහුගේ බිරිඳ යතුරු පැදියකින් ගමන් කරමින් සිටින අවස්ථාවේ පොන්නාලේ හන්දිය ආසන්නයේදී මරණකරු සමග පෙර අමනාපයක් තිබූ පිරිසක් මෝටර් රථයකින් පැමිණ සිටින බව දැක ඇත.
-
-එහිදී මරණකරු යතුරුපැදිය හරවා පොන්නාලේ නාවික හමුදා මුරපොළ අසලට ධාවනය කර තිබේ.
-
-ඔවුන් පසුපසින් පැමිණ මෙම පිරිස මරණකරු හා බිරිඳ යතුරුපැදිය සමග පැහැරගෙන ගොස් ඇති අතර පසුව කාන්තාව සිත්තන්කේනි හන්දියේ දමා ගොස් ඇත.
-
-...
-
-[Data](articles/0a5afe35.json)
+[Data](articles/517fb0e1.json)
 
 ---
 
-### 'Man in the iron lung' නම් මිනිසා මියයයි
+### Forty murder of shocked
+
+*2024-03-14 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194504) · `si`
+
+In Palanayal, a couple was abducted by a group, leading to the arrest of five suspects. The Wadukkotte police are investigating. The couple was attacked near Ponna Mala Junction, and the victim died after being injured.
+
+🟩
+
+Five persons have been arrested on suspicion of abducting a couple abducted by a group of persons who were abducted by a group of people in Palanayal junction.
+
+The Wadukkotte police have commenced further investigations with the suspects to the Mallakam Court.
+
+The man was abducted by a group of people in Kadukkotte, Kadukkotte, Kadukkotte and a group of people had been abducted and killed by sharp weapons.
+
+When the deceased and his wife was traveling with a motorcycle, a group of resentment with the deceased was near a car near Ponna Mala Junction.
+
+The deceased has been turned to the motorbike and has been driven to the Navy checkpoint.
+
+They came after them and had been abducted with the deceased and his wife with the motorcycle, and later laid at Sitthiki Junction.
+
+The victim was later seriously injured and later died on admission to the Jaffna hospital.
+
+◼️
+
+[Data](articles/0a5afe35.json)
+
+[Extended Data](ext_articles/0a5afe35.ext.json)
+
+---
+
+### Man Iron lung is a man dies
 
 *2024-03-14 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194503) · `si`
 
-වසර 70කට වැඩි කාලයක් යන්ත්‍රයක් තුළ රැඳී සිටිමින් එය ආධාරයෙන් ශ්වසනය කළ 'මෑන් ඉන් ද අයන් ලන්ග්' එනම් යකඩ පෙනහළු තුළ සිටි මිනිසා ලෙස ප්‍රකට පෝල් ඇලේක්සැන්ඩර් මියගොස් තිබේ.
+Booul Alexander, the "Man in Iron Lung," lived 78 years with a lung machine after being paralyzed by polio at 6. He died in Dallas, USA, and is remembered for his effective use of the machine, including speaking and reading.
 
-අමෙරිකාවේ ඩලාස්හි රෝහලකදී මියයන විට ඔහු 78 වැනි වියේ පසුවිය.
+🟩
 
-වයස අවුරුදු 6දී පෝලියෝ වෛරසය වැළඳුණු පෝල් එහිදී අංශභාග රෝගයටද ගොදුරුව තිබුණි.
+Booul Alexander was killed as the man in iron lungs, "Man in Iron Lung ', who was in a machine for more than 70 years.
 
-ඉන්පසුව ඔහුගේ සිරුරේ පහළ කොටස අප්‍රාණික වී ඇති අතර එතැන් පටන් ඔහු ජීවත්වූයේ මෙම කෘත්‍රීම පෙනහළු යන්ත්‍රය ආධාරයෙනි.
+He was 78 years old when he died at a hospital in Dallas in the United States.
 
-තම මුව භාවිත කරමින් සිතුවම්කරණයේ සහ ලේඛනයේ නිරත වන පෝල් ග්‍රන්ථයක්ද රචනාකර ඇති අතර, ටෙක්සාස් විශ්වවිද්‍යාලයෙන් නීති උපාධියක්ද ලබා ඇත.
+Paul was the pollio virus at the age of 6 and was paralyzed.
 
-ඔහු ඉතිහාසයට එක්වන්නේ කෘත්‍රීම පෙනහළු යන්ත්‍රයක ආධාරයෙන් වැඩිම කලක් ජීවත්වූ මිනිසා ලෙසය.
+Then his body's lower part of his body was in danger and since then he lived with the help of the lung machine.
+
+The use of his mouth and a book in the pasanging and a book engaged in the document have also been given a law degree from the University of Texas.
+
+He joins history as the man who lived the most effective manner with the aid of a lung machine.
 
 ◼️
 
 [Data](articles/922388c2.json)
+
+[Extended Data](ext_articles/922388c2.ext.json)
+
+---
+
+### අධ්‍යපන ඇමති බාසිලෝනාවල
+
+*2024-03-14 14:35:35* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යපන-ඇමති-බාසිලෝනාවල/11-408613) · `si`
+
+අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා ස්පාඤ්ඤයේ බාසිලෝනාහි දී පැවති ‍ තොරතුරු සන්නිවේදන තාක්ෂණය පිළිබඳ ලොව ප්‍රමුඛතම සමුළුව වූ ‘මොබයිල් වර්ල්ඩ් කොංග්‍රස් (Mobile World Congress -24) සමුළුවට සහභාගි විය.
+
+5ජී තාක්ෂණය සහ එහි අනාගතය, සෑම දෙයක ම සහසම්බන්ධ වීම (Iox-Internet of Everything), කෘත්‍රීම බුද්ධියට මානුෂීය මුහුණුවරක් ලබා දීම, ඩිජිටල් කාර්මික පරිවර්තනය, ‘ඩිජිටල් ඩීඑන්ඒ’ මෙවර මෙම වාර්ෂික සමුළුවේ දී කැපී පෙනුණ තේමාවන් ය. ගෝලීය නායකයන් හා තාක්ෂණ ලොව දැවැන්තයන් හමුවේ ඩිජිටල්කරණයේ සහ සන්නිවේදන තාක්ෂණයේ නවතම දියුණුව ගවේෂණය කිරීමට හා අත් දකින්නට ඊට සහභාගී වන්නන්ට මෙම සමුළුවේ දී මනා වේදිකාවක් ඉදි ව තිබුණ අතර මෙරට අධ්‍යාපන අමාත්‍යවරයාට ද ඊට සහභාගී වීමට හැකි විය.
+
+◼️
+
+[Data](articles/540a6d51.json)
 
 ---
 
@@ -98,19 +140,25 @@ Among the deceased party, Saman Perera is among the victims of the deceased.
 
 ---
 
-### உணவு ஒவ்வாமையால் அறுவர் பாதிப்பு
+### Adverseness
 
 *2024-03-14 14:22:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உணவு-ஒவ்வாமையால்-அறுவர்-பாதிப்பு/76-334668) · `ta`
 
-உணவு ஒவ்வாமை காரணமாக பசறை ஆரம்ப பாடசாலை மாணவர்கள் குழுவொன்று   பசறை மாவட்ட வைத்தியசாலையில் வியாழக்கிழமை (14) அனுமதிக்கப்பட்டுள்ளதாக நமுனுகுல பொலிஸார் தெரிவித்தனர்.
+A group of students at Namunukula school were hospitalized due to food allergies after consuming a meal of sorcerers, gangun lettuce, lentils, and tuber fries. Six students were admitted, with three in critical condition.
 
-இம்மாணவர்கள் பாடசாலை வழங்கிய சோறு, கங்குன் கீரை, பருப்பு, கருவாடு கலந்த கிழங்கு பொரியல், ஆகியவற்றின் கலவையை உண்ட பின்னர் மயங்கி விழுந்து பசறை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இந்த மாணவர்களில் 6 மாணவர்களும் 3 மாணவிகளும் உள்ளதாகவும் அவர்களின் நிலைமை கவலைக்கிடமாக இல்லை எனவும் வைத்தியசாலை அறிக்கை ஒன்றில் தெரிவிக்கப்பட்டுள்ளது.
+Namunukula police said that a group of students of the school have been admitted to the Pasara District Hospital on Thursday (14) due to food allergies.
+
+The police said that they were admitted to the hospital after they had a combination of sorcerers, gangun lettuce, lentils and tuber fries provided by the school.
+
+In a hospital report, there are 6 students and 3 students and their condition is not worrisome.
 
 ◼️
 
 [Data](articles/f935ca16.json)
+
+[Extended Data](ext_articles/f935ca16.ext.json)
 
 ---
 
@@ -183,6 +231,20 @@ Speaking at the meeting, he said that about 3.5 billion in the world had undergo
 [Data](articles/3c3ea0c5.json)
 
 [Extended Data](ext_articles/3c3ea0c5.ext.json)
+
+---
+
+### 04 න් 03 කට මුඛ රෝග  සැලකිළිමත් වන්න
+
+*2024-03-14 13:41:02* · [`adalk`](https://www.ada.lk/breaking_news/04-න්-03-කට-මුඛ-රෝග--සැලකිළිමත්-වන්න/11-408610) · `si`
+
+සෞඛ්‍ය අමාත්‍යංශයේ ප්‍රාථමික සෞඛ්‍ය සේවා පද්ධතිය සවිබල ගැන්වීමේ ලෝක බැංකු ව්‍යාපෘතිය මගින් දන්ත සෞඛ්‍ය සේවාවන් ශක්තිමත් කිරීම සදහා රුපියල් මිලියන 3.5 ක් වටිනා මයික්‍රෝ මෝටර්ස් දන්ත (Dental Micromotor) උපකරණ ලබාදීමේ අවස්ථාවට අද (14) එක්වෙමින් සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා මෙම කරුණූ පෙන්වා දෙන ලදි.
+
+මෙහිදී අදහස් දක්වමින් ඒ මහතා කියා සිටියේ ලෝකයේ බිලියන 3.5 ක් පමණ ජනතාව විවිධ මුඛ රෝගවලට භාජනය වී ඇති බවත්, සංවර්ධනය වෙමින් පවතින රටවල 04 දෙනෙකුගෙන් 03 දෙනෙකුට මුඛ රෝග වැළදී ඇති බවයි.
+
+◼️
+
+[Data](articles/c5707967.json)
 
 ---
 
@@ -522,7 +584,7 @@ The project is CEB with an investment of $ 150 million. Will be created in conju
 
 The motion of no confidence brought against Speaker Mahinda Yapa Abeywardena will be debated in Parliament on the 19th and 20th of March, following which a vote will be taken.
 
-According to the General Secretary of the Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, the decision was taken at today’s party leaders’ meeting.
+According to the General Secretary of the Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, the decision was taken at today’s meeting of the Committee on Parliamentary Business, which was chaired by the Speaker.
 
 As such, a vote on the no-confidence motion will be taken at 04:30 p.m. on 20 March (Wednesday).
 
@@ -2203,59 +2265,5 @@ The incident has triggered fears in the minds of Sri Lankans whether Canada will
 [Data](articles/9a1375f9.json)
 
 [Extended Data](ext_articles/9a1375f9.ext.json)
-
----
-
-### Showers in several places and provinces
-
-*2024-03-14 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194481) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, Southern provinces, Nuwara Eliya district, and night. Dry weather elsewhere. Medium rainfall in Galle, Matara, Anuradhapura districts.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Southern provinces, in the Nuwara Eliya district and even night.
-
-The Department of Meteorology announced that there was a dry weather in the rest of the island.
-
-Some locations, in some places in the Western, Sabaragamuwa, Central and Uva provinces, are expected to be metaded in the Galle, Matara and Anuradhapura districts.
-
-◼️
-
-[Data](articles/1305206e.json)
-
-[Extended Data](ext_articles/1305206e.ext.json)
-
----
-
-### Finest Dentistry on Wheels...
-
-*2024-03-14 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Finest-Dentistry-on-Wheels/110-278817) · `en`
-
-A noteworthy achievement in dental care in Sri Lanka was revealed with the latest endeavor from Dantaja Premium Dental Chambers – the introduction of 'Dantaja on Wheels', our mobile medical clinic. This significant event took place at the esteemed Bandaranaike International Conference Hall premises in Colombo and was honored by the presence of the respected Tourism, Lands, Sports, and Youth Affairs Minister Harin Fernando.
-
-◼️
-
-[Data](articles/d4704893.json)
-
-[Extended Data](ext_articles/d4704893.ext.json)
-
----
-
-### Young journalists file FR against IGP appointment
-
-*2024-03-14 05:09:12* · [`dailyftlk`](https://www.ft.lk/news/Young-journalists-file-FR-against-IGP-appointment/56-759473) · `en`
-
-The Young Journalists Association of Sri Lanka (YJASL) filed a fundamental rights petition yesterday seeking an order to quash the appointment of Senior DIG Deshabandu Thennakoon as the Inspector General of Police (IGP). The petitioners are arguing that the appointment is illegal, arbitrary, irrational, and contrary to and in violation of the provisions of the Constitution.
-
-The association also said that Tennakoon is unfit for the post of IGP and despite these disqualifications, he has been appointed to the position in violation of the constitution.
-
-The petitioners noted that the President and the Constitutional Council have failed to consider the serious findings of the Supreme Court against Tennekoon for human rights abuse and also other allegations which render him unfit to hold office.
-
-...
-
-[Data](articles/09b89a61.json)
-
-[Extended Data](ext_articles/09b89a61.ext.json)
 
 ---

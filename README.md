@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 20:17:39**
+As of **2024-03-14 20:33:24**
 
 ## Newspaper Stats
 
-*Scraped **12,940** Articles*
+*Scraped **12,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 146
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 663
-economynextcom | 694
+economynextcom | 695
 islandlk | 700
 adalk | 1,116
 adaderanalk | 1,558
@@ -26,31 +26,57 @@ adaderanasinhalalk | 2,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,939 (100.0%) of 12,940 articles have been extended.
+12,940 (100.0%) of 12,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### IOC பாலின சமத்துவம், பன்முகத்தன்மை மற்றும் உள்ளடக்கம் சம்பியன்: ஆசிய விருது உத்தும்ப்பலாவுக்கும் உலக விருது அமெரிக்காவின் கத்ரினாவுக்கும்
+### Sri Lanka’s International Financial City awaiting banking regulations
+
+*2024-03-14 20:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-international-financial-city-awaiting-banking-regulations-154648/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Port City, which will soon be renamed as the International Financial and Technological City, is awaiting Central Bank clearance for its banking regulations, Saliya Wickramasuriya, a member of its regulatory commission said.
+
+The Colombo Port City is a multi-currency special economic zone (dollarized) that will be free of exchange controls. Some of the laws in the country, such as the Employment Termination Act, apply to the special economic area.
+
+In several other listed laws it has to recommend exemptions which have to be approved by the Minister or President.
+
+The Port City Commission has to work with the relevant agency in charge of the law, like the Central bank in relation to banking, the Department of Immigration for visas or Customs in preparing special regulations to apply within its jurisdiction.
+
+Banks operating within the special economic zone will be licensed by either the central bank or the country it is incorporated in.
+
+...
+
+[Data](articles/ff9cd528.json)
+
+---
+
+### IOC Gender Equality, Diversity and Content Champion
 
 *2024-03-14 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178752) · `ta`
 
-பாலின சமத்துவம், பன்மைத்துவதும் மற்றும் உள்ளடக்கம் சம்பியனுக்கான சர்வதேச ஒலிம்பிக் குழுவின் ஆசிய விருது இலங்கையின் ஜயன்தி குரு-உத்தும்ப்பலாவுக்கு வழங்கப்பட்டுள்ளது. உலக விருதுக்கு ஐக்கிய அமெரிக்காவின் கத்ரினா அடம்ஸ் பெயரிடப்பட்டுள்ளார்.
+Jyanthi Guru-Uthumbala of Sri Lanka and Katrina Adams of the US were awarded for promoting gender equality and diversity in sports. Jyanthi, a mountaineer and activist, was the first to scale Everest and is a key figure in sports policy.
 
-ஜயன்தி குரு-உத்தும்பலா, கத்ரினா அடம்ஸ்  ஆகிய இருவரும் பாலின சமத்துவம், பன்முகத்தன்மை ஆகியவற்றை விளையாட்டுத்துறையில் இணைப்பதில் அயராது உழைத்து வருபவர்கள்.
+🟩
 
-அவர்களது இந்த சேவையை கௌரவிக்கும் வகையில் சர்வதேச மகளிர் தினத்தன்று அவர்கள் இருவருக்கும் இந்த விருதுகள் வழங்கப்பட்டது.
+The Asian Award of Gender Equality, Plurality and Content Champion has been awarded to Sri Lanka's Jaiti Guru-Uthumbala. Katrina Adams, United States, has been named the World Award.
 
-எவரஸ்ட் மலை உச்சியை அடைந்த முதலாவது இலங்கை மலையேறி ஜயன்தி குரு-உத்தும்ப்பலா ஆவார்.
+Both Jyanthi Guru-Uthumbala and Katrina Adams are working tirelessly to combine gender equality and diversity in the sports industry.
 
-சிறுமிகள் மற்றும் பெண்களின் உரிமைகளுக்காக குரல் கொடுத்துவந்துள்ள ஜயன்தி, தேசிய ஒலிம்பிக் குழுவினால் ஆரம்பிக்கப்பட்ட பாதுகாப்புமிக்க விளையாட்டுக் கொள்கைக்கான முறையீட்டுக் குழுவின் முதலாவது தலைவராக நியமிக்கப்பட்டவர் ஆவார்.
+The two awards were presented on International Women's Day on International Women's Day.
 
-ஜயன்தி குரு-உத்தும்ப்பலா 20 வருடங்களுக்கு மேல் மகளிர் உரிமைகள் செயற்பாட்டாளராக பணியாற்றிவந்துள்ளதுடன் மலையேறும் வீராங்கனையுமாவார்.
+The first Sri Lankan trekking Jyanthi Guru-Uthumbbala was the top of the mountain of Everest.
+
+Jyanthi, who has been vocal for the rights of girls and women, is the first chairman of the Appeal Committee for the Protection Sports Policy initiated by the National Olympic Committee.
+
+Jyanthi Guru-Uthumbbala has been working as a women's rights activist for over 20 years and is a mountaineer.
 
 ...
 
 [Data](articles/92ef7453.json)
+
+[Extended Data](ext_articles/92ef7453.ext.json)
 
 ---
 
@@ -2299,33 +2325,5 @@ As a result, train traffic on the coastal railway line has been interrupted.
 [Data](articles/08fe7571.json)
 
 [Extended Data](ext_articles/08fe7571.ext.json)
-
----
-
-### Tourism that is limited to coastalities can be brought into the country and strengthen the economy - the president
-
-*2024-03-14 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178700) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of expanding tourism beyond coastal areas to boost the economy, highlighting Galle's potential as a major tourist city. He opened the Cherin River Park, an ecological garden project costing 440 million rupees, aimed at economic development and environmental protection. The project also aims to alleviate flooding in Holugoda and Obadha. Wickremesinghe stressed the need for environmental protection laws and the development of Galle as a tourist attraction, noting that tourism is a key income sector. He also mentioned efforts to improve cinnamon yield and tea cultivation, and the relocation of government offices from Galle Fort to enhance tourism.
-
-🟩
-
-President Ranil Wickremesinghe has urged the tourism industry that has been limited to the coasts and strengthen the economy.
-
-The President pointed out that the South has a unique place to improve the country's tourism industry and that Galle is planning to develop as a major tourist city.
-
-President Ranil Wickremesinghe made this statement at the opening of the "Cherin River Park" Ecological Gardens for the public for use yesterday afternoon.
-
-“The park, which was started by 2021, was built on 14 acres of barren land.
-
-The project was implemented by the Minister of Industry and Health Ramesh Pathrana and the project was prepared by the Urban Development Authority and the construction of the Sri Lanka Land Recovery and Development Corporation.
-
-The assessment of the project is 440 million rupees. The park is located in the pond, sidewalks, iron bridges, children's parks, trade centers and environmental structures and is available from sunlight.
-
-...
-
-[Data](articles/bf4d7b7c.json)
-
-[Extended Data](ext_articles/bf4d7b7c.ext.json)
 
 ---

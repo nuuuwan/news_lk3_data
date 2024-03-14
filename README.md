@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 16:03:10**
+As of **2024-03-14 16:17:38**
 
 ## Newspaper Stats
 
-*Scraped **12,880** Articles*
+*Scraped **12,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,108
-adaderanalk | 1,549
+adalk | 1,109
+adaderanalk | 1,551
 tamilmirrorlk | 1,575
-virakesarilk | 1,781
+virakesarilk | 1,786
 dailymirrorlk | 1,971
-adaderanasinhalalk | 2,034
+adaderanasinhalalk | 2,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,877 (100.0%) of 12,880 articles have been extended.
+12,880 (99.9%) of 12,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### IndiGo announces new direct flights between Mumbai and Colombo
+
+*2024-03-14 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97952/indigo-announces-new-direct-flights-between-mumbai-and-colombo) · `en`
+
+IndiGo, India’s preferred airline, has announced new direct flights between Mumbai and Colombo starting April 12, 2024. These flights will operate three times a week on Tuesday, Thursday, and Friday, and play a key role in enhancing connectivity between the financial capital of India – Mumbai, and the capital of Sri Lanka. With this new connection, Mumbai has become the fourth destination in India with direct connectivity to Colombo, after Bengaluru, Hyderabad, and Chennai.
+
+...
+
+[Data](articles/4582a104.json)
+
+---
+
+### විදුලිබල මණ්ඩලය තවත් ගිවිසුමකට අත්සන් තබයි
+
+*2024-03-14 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194507) · `si`
+
+හම්බන්තොට, ගොන්නෝරුව බිම්ගත සූර්ය පැනල බලශක්ති ව්‍යාපෘතිය සංවර්ධනය සඳහා අදාළ ගිවිසුම අත්සන් කර තිබේ.
+
+ආයෝජකයන් 17 දෙනෙකුගෙන් සමන්විතව එම ව්‍යාපෘතිය මෙගාවොට් 10 බැගින් බලාගාර 13ක්, මෙගාවොට් 5 බැගින් බලාගාර 4කින් සමන්විත බව සඳහන් වේ.
+
+ඒ අනුව මෙගාවොට් 150ක සමස්ථ ධාරිතාවයක් එමගින් නිෂ්පාදනය කිරීමට නියමිතය.
+
+විදුලිබල මණ්ඩලයේ සම්මත විදුලිය මිලදී ගැනීමේ ගිවිසුම (SPPA) යටතේ නව ව්‍යාපාර ව්‍යුහයකින් අ‍මෙරිකානු ඩොලර් මිලියන 150ක ආයෝජකකින් මෙම ව්‍යාපෘතිය සහ එයට අවශ්‍ය සම්ප්‍රේෂණ පහසුකම් හා ජාල පද්ධතිය ද ආයෝජකයන් විසින් සංවර්ධන කරනු ලැබේ.
+
+මෙම වසරේ මැයි මස වන විට ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු ආරම්භ කිරීමට බලාපොරොතු වන අතර, 2025 වසරේ දී ජාතික විදුලිබල පද්ධතියට සම්බන්ධ කිරීමට නියමිත බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/2407ca75.json)
+
+---
+
+### Beliatta mass shooting: 11 suspects further remanded
+
+*2024-03-14 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97951/beliatta-mass-shooting-11-suspects-further-remanded) · `en`
+
+The 11 suspects who were arrested in connection with the recent killing of five people at Beliatta in Hambantota District have been ordered to be further remanded in custody.
+
+The relevant suspects had been produced before the Tangalle Magistrate’s Court today (14).
+
+Accordingly, Tangalle Chief Magistrate Hemantha Pushpakumara ordered the suspects to be remanded further until March 28, 2024.
+
+On 22 January, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta interchange of the Southern Expressway.
+
+In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he succumbed to injuries shortly after.
+
+Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP), Saman Perera.
+
+◼️
+
+[Data](articles/a3f81888.json)
+
+---
+
+### ශිරාන් බාසික් නිදොස් කොට නිදහස්
+
+*2024-03-14 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194506) · `si`
+
+ප්‍රධාන පෙළේ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු බව පැවසූ මොහොමඩ් ශිරාන් බාසික් නැමැත්තා නිදොස් කොට නිදහස් කිරීමට කොළඹ මහාධිකරණය අද (14) නියෝග කර තිබේ.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් ලබාදුන් සාක්ෂිවල ඇති බලවත් පරස්පරතා හේතුවෙන් ඔහුව නිදොස් කොට නිදහස් කරන බවට මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා නියෝග කර තිබේ.
+
+සැකකරු 2011 වසරේ ජනවාරි මස 11 වනදා කිරුළපන එඩ්මන්ටන් නිවාස සංකීර්ණය අසළදී හෙරොයින් ග්‍රෑම් 4.53ක ප්‍රමාණයක් සමග අත්අඩංගුවට ගත් බව පැමිණිල්ලෙන් කියැවිණි.
+
+ප්‍රථමයෙන් සඳහන් කර තිබුණේ ඔහු තනිව අත්අඩංගුවට ගත් බවට වුවද පසුව අදාළ පොලිස් නිලධාරීන් පවසා ඇත්තේ ඔහුගේ දරුවා සමග සිටියදී සැකකරු අත්අඩංගුවට ගත් බවය.
+
+එසේම තමාට ලද දුරකථන ඇමතුමකට අනුව අදාළ වැටලීම කළ බවට පොලිස් නිලධාරියෙකු විසින් අධිකරණය හමුවේ පවසා තිබුණද එම දුරකථන අංකය වසර එකහමාරකට පමණ පෙර විසන්ධි කර ඇති බවට සාක්ෂි සහිතව විත්තියේ නීතිඥවරයා අධිකරණය හමුවේ පෙන්වා දී තිබුණි.
+
+එම සාක්ෂි අනුව විත්ත්කිඅරු වරදකරු කිරීම නුසුදුසු බවට විනිසුරුවරයා එහිදී නිගමනයකට එළඹ තිබුණි.
+
+...
+
+[Data](articles/4139bf0a.json)
+
+---
+
+### පියෙක් තම පුතාගේ සහ දියනියගේ ගෙල කපා මරලා
+
+*2024-03-14 15:51:38* · [`adalk`](https://www.ada.lk/breaking_news/පියෙක්-තම-පුතාගේ-සහ-දියනියගේ-ගෙල-කපා-මරලා/11-408616) · `si`
+
+කල්මුණේ මරදමුණේ පෙරියනීලවනියේ පියකු තම 29 හැවිරිදි පුතාගේ සහ 15 හැවිරිදි දැරියගේ බෙල්ලා කපා මරා දමා පියද තම ගෙල කපාගෙන මේ වන විට රෝහල්ගතව  ඇතැයිද  පොලිස් ආරංචිමාර්ග පවසයි.
+
+◼️
+
+[Data](articles/25b3aaac.json)
+
+---
 
 ### Bail rejected for Keheliya, ex-Health Secretary and 4 others
 
@@ -47,6 +135,8 @@ The arrest came hot on the heels of pressure from civil society activists and he
 ...
 
 [Data](articles/f47e3071.json)
+
+[Extended Data](ext_articles/f47e3071.ext.json)
 
 ---
 
@@ -65,6 +155,8 @@ The 19-year-old Sri Lankan national currently sits in Ottawa’s Innes Road jail
 ...
 
 [Data](articles/c5c03f22.json)
+
+[Extended Data](ext_articles/c5c03f22.ext.json)
 
 ---
 
@@ -113,6 +205,26 @@ The bail requests have been identified as the Court today (14).
 [Data](articles/d5bfec54.json)
 
 [Extended Data](ext_articles/d5bfec54.ext.json)
+
+---
+
+### எவரெஸ்ட் உச்சியை அடைந்த ஜயந்திக்கு சர்வதேச ஒலிம்பிக் குழுவின் விருது
+
+*2024-03-14 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178723) · `ta`
+
+எவரெஸ்ட் சிகரத்தின் உச்சியை அடைந்த முதல் இலங்கையரான ஜயந்தி குரு உத்தும்பால, சர்வதேச ஒலிம்பிக் குழுவின்  பாலின சமத்துவம், பல்வகைமை மற்றும் உள்ளடக்கல் சம்பியன்களுக்கான 2023 ஆசிய விருதை வென்றுள்ளார்.
+
+விளையாட்டுத்துறையிலும், விளையாட்டுக்களின் ஊடாகவும் பாலின சமத்துவம், பல்வகைமை மற்றும் உள்ளடக்கல்  ஆகியவற்றை ஊக்குவிப்பதில் சிறந்த பங்களிப்பை வழங்கியவர்களை கௌரவிப்பதற்காக சர்வதேச ஒலிம்பிக்குழு வருடாந்தம் விருது வழங்கிவருகிறது.
+
+2000 ஆம் ஆண்டில் ஆரம்பிக்கப்பட்ட இவ்விருது  2021 ஆம் ஆண்டுவரை  இவ்விருது பெண்கள் மற்றும் விளையாட்டு விருது என அழைக்கப்பட்டது. பின்னர் பாலின சமத்துவம், பல்வகைமை, உள்ளடக்கல் சம்பியன்கள் விருது  (GEDI Champions Awards) என இவ்விருது பெயர் மாற்றம் செய்யப்பட்டது.
+
+வருடாந்தம் உலகளாவிய ரீதியில் ஒருவருக்கும், ஆசியா, ஆபிரிக்கா, ஐரோப்பா, அமெரிக்கா, ஓஷியானியா ஆகிய கண்டங்களிலிருந்து தலா ஒருவருக்குமாக 6 விருதுகள் வழங்கப்படுகின்றன.
+
+2016 ஆம் ஆண்டில், எவரெஸ்ட் சிகரத்தின் உச்சியை அடைந்த முதல் இலங்கையர் எனும் சாதனையைப் படைத்தவர் ஜயந்தி.
+
+...
+
+[Data](articles/1a02ac58.json)
 
 ---
 
@@ -201,6 +313,44 @@ The General Secretary of the Association said that a discussion will be held wit
 [Data](articles/517fb0e1.json)
 
 [Extended Data](ext_articles/517fb0e1.ext.json)
+
+---
+
+### யாழில் கசிப்புடன் கைதான இளைஞனுக்கு 09 மாத சிறை
+
+*2024-03-14 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178722) · `ta`
+
+யாழில் கசிப்புடன் கைதான 19 வயது இளைஞனுக்கு 50 ஆயிரம் ரூபாய் தண்டமும் 09 மாத சிறைத்தண்டனையும் விதிக்கப்பட்டுள்ளது.
+
+கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கசிப்புடன் குறித்த இளைஞன் கைது செய்யப்பட்ட நிலையில் நேற்றைய தினம் புதன்கிழமை யாழ்.மேலதிக நீதவான் நீதிமன்றில் முற்படுத்தப்பட்டார்.
+
+நீதிமன்ற விசாரணைகளின் போது , இளைஞன் தன் மீதான குற்றச்சாட்டை ஏற்றுக்கொண்டதை அடுத்து  50 ஆயிரம் ரூபாய் தண்டமும் 09 மாத சிறைத்தண்டனையும் விதிக்கப்பட்டுள்ளது.
+
+குறித்த இளைஞன் முன்னரும் கசிப்புடன் கைதாகி , நீதிமன்றால் தண்டிக்கப்பட்டவர் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0bef53c1.json)
+
+---
+
+### மூன்றாவது நாளாக தொடரும் உண்ணாவிரதம் ; சட்டத்தரணிகள் பார்வையிட்டனர்
+
+*2024-03-14 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178721) · `ta`
+
+வெடுக்குநாறிமலையில் சிவராத்திரி வழிபாடுகளில் ஈடுபட்டபோது கைதுசெய்யப்பட்டு சிறையில் அடைக்கப்பட்டவர்களின் உண்ணாவிரத போராட்டம்  இன்று மூன்றாவது நாளாகவும் முன்னெடுக்கப்பட்டு வருகின்றது. அவர்களை வவுனியா சட்டத்தரணிகள் சிலர் இன்று வியாழக்கிழமை (14) பார்வையிட்டனர்.
+
+வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று  கைதுசெய்யப்பட்ட ஆலயபூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று நேற்றுமுன்தினம் உத்தரவு பிறப்பித்தது.
+
+இதனையடுத்து அவர்கள் வவுனியா விளக்கமறியல் சிறைச்சாலையில் அடைக்கப்பட்டனர். இந்நிலையில் தமக்கான நீதி வழங்கக்கோரி அவர்கள் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+
+நேற்றுமுன்தினம் தொடங்கிய குறித்த உண்ணாவிரத போராட்டம் இன்று மூன்றாவது நாளாகவும் நீடித்து வருகின்றது.
+
+கைதுசெய்யப்பட்ட எட்டுபேரில் ஆலயபூசாரியார் த.மதிமுகராசா மற்றும்து தமிழ்ச்செல்வன், தி.கிந்துயன்,சு.தவபாலசிங்கம், விநாயகமூர்த்தி ஆகியோரே உண்ணாவிரத போராட்டத்தினை முன்னெடுத்துள்ளனர்.
+
+...
+
+[Data](articles/f6bdaf40.json)
 
 ---
 
@@ -294,21 +444,61 @@ He joins history as the man who lived the most effective manner with the aid of 
 
 ---
 
-### කැලෑ ගිනි තැබීම තුළින් ජල උල්පත් සිඳී යාමේ අවදානමක්
+### Water fires at risk of draining springs
 
 *2024-03-14 14:51:34* · [`adalk`](https://www.ada.lk/breaking_news/කැලෑ-ගිනි-තැබීම-තුළින්-ජල-උල්පත්-සිඳී-යාමේ-අවදානමක්/11-408614) · `si`
 
-කැලෑ ගිනි තැබීම් ඉහළ යමින් තිබෙන බවත් ඊයේ (13දා) අවසන් වූ සතියක කාලය තුළදී  ස්ථාන 23ක කැලෑ ගිනි තැබීමේ සිදුවීම් වාර්තා වී තිබෙන බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කරයි.
+Forest fires in 23 areas last week, costing disaster centers and armed forces. Dry weather exacerbates risks, including water spring draining and wildlife impact.
 
-ගිනි තැබීම නිවා දැමීමට ආපදා කළමනාකරණ මධ්‍යස්ථාන සේවකයන්ට හා ත්‍රිවිධ හමුදාවට විශාල කැපකිරීමක් සිදු කිරීමට සිදුව තිබෙන බවත් මීට අමතරව විශාල මුදලක් දැරීමටත් සිදුව තිබෙන බවත් එම මධ්‍යස්ථානය පෙන්වා දෙයි.
+🟩
 
-මේ වන විට දිවයිනේ බොහෝ ප්‍රදේශවල වියළි කාලගුණ තත්ත්වයක් ඇති වී තිබෙන බවත් එවන් තත්ත්වයක් තුළ යම් ප්‍රදේශයක ගිනි ගැනීමක් සිදු වූ විට එය කඩිනමින් පැතිර යන බවත් මේ නිසා මෙවැනි ක්‍රියා සිදුනොකරන ලෙසත් ඉල්ලා සිටියි‍.
+Forest Management Center (DMC) stated that forest fires have been raised in 23 terrorists during the end of the 23rds last week.
 
-කැලෑබද ප්‍රදේශවල ගිනි තැබීම් නිසා පවතින වියළි කාලගුණ තත්ත්වයේ බලපෑම් තවදුරටත් ඉහළ යන බවත් මේ නිසා මෙවැනි සිද්ධියක් දුටු වහාම ඒ පිළිබඳව 117 දුරකථන අංකය ඔස්සේ ආපදා කළමනාකරණ මධ්‍යස්ථානයට දැනුම් දෙන ලෙසත් ඉල්ලා සිටියි.
+The center also pointed out that the disaster management centers and the three armed forces have to pay a large amount of money.
+
+In many parts of the island, dry weather conditions have been demanded that such actions are expeditiously, and when it comes to a laundering area.
+
+The influence of the dry weather conditions will further increase the impact of the dry weather conditions, as a result of seeing such incidents, as soon as it is, the disaster Management center will be informed.
+
+The Forest burning is increasing the disasters, such as water springs, and the wildlife will be taken to implement the law.
+
+◼️
+
+[Data](articles/f141939b.json)
+
+[Extended Data](ext_articles/f141939b.ext.json)
+
+---
+
+### அலவத்துகொடையில் குடிநீர் கோரி மக்கள் ஆர்ப்பாட்டம்
+
+*2024-03-14 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178713) · `ta`
+
+அக்குறணை பிரதேச சபை எல்லைக்குட்பட்ட  அலவத்துகொடை நகரில் இன்று வியாழக்கிழமை (14) குடிநீர் கோரி ஆர்ப்பாட்டம் இடம்பெற்றுள்ளது.
+
+அலவத்துகொடை சய்ஸ்டன் உட்பட நான்கு கிராமங்களில் சுமார் 300க்கும் அதிகமான குடும்பங்கள் பாரிய குடிநீர் தட்டுப்பாட்டுக்கு முகம் கொடுத்துள்ளதாகவும் தமக்கு குடி நீரை பெற்றுத்தர அதிகாரிகள் எவ்வித நடவடிக்கையையும் எடுக்கவில்லை என்றும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/92cf255d.json)
+
+---
+
+### யாழில் இளைஞன் கடத்தப்பட்டு கொலை செய்தமைக்கு கடற்படையும் உடந்தை என்பது உறுதியாகியுள்ளது!
+
+*2024-03-14 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178717) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை இளைஞனை கடத்தி கொலை செய்வதற்கு கடற்படையினரும் ஒரு வகையில் காரணம் என கொலை செய்யப்பட்டவரின் மனைவி குற்றம் சாட்டியுள்ள நிலையில், இளைஞனை கடத்துவதற்கு கடற்படையினர் உதவும் வீடியோ காட்சிகள் தற்போது வெளியாகியுள்ளன.
+
+தனது மனைவியுடன் காரைநகர் பகுதிக்கு திங்கட்கிழமை (11) மோட்டார் சைக்கிளில் சென்று விட்டு , தனது வீடு நோக்கி திரும்பிக்கொண்டிருந்த இளைஞனையும், அவரது மனைவியையும் பொன்னாலை பால பகுதியில் உள்ள கடற்படை முகாமிற்கு அருகில் வைத்து, வன்முறை கும்பல் ஒன்றினால் வாகனத்தில் கடத்தி செல்லப்பட்டு, இளைஞன் மிக மோசமான சித்திரவதைக்கு உள்ளாக்கப்பட்டு, படுகொலை செய்யப்பட்டார்.
+
+கடத்தி சென்ற இளைஞனின் மனைவியை சித்தன்கேணி பகுதியில் இறக்கி விட்டு வன்முறை கும்பல் தப்பி சென்று இருந்தது.
+
+வன்முறை கும்பல் தம்மை வழிமறித்து ,தாக்கி கடத்த முற்பட்ட வேளை , தாம் உதவி கோரி கடற்படை முகாமிற்கு சென்ற வேளை அங்கிருந்த கடற்படையினர் தம்மை தாக்கி விரட்டினர் எனவும் , தனது கணவரின் படுகொலைக்கு கடற்படையினரும் காரணம் என படுகொலை செய்யப்பட்ட இளைஞனின் மனைவி தெரிவித்து இருந்தார்.
 
 ...
 
-[Data](articles/f141939b.json)
+[Data](articles/46bc3a02.json)
 
 ---
 
@@ -2037,213 +2227,5 @@ This year, the government allowed buses to be imported to transport tourists, he
 [Data](articles/3d76d3a2.json)
 
 [Extended Data](ext_articles/3d76d3a2.ext.json)
-
----
-
-### North Korean leader drives a tank
-
-*2024-03-14 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194490) · `si`
-
-North Korean leader Kim Jong Un drives a new tank during a military exercise, showcasing North Korea's military strength. This comes after South Korea and the US conducted a joint war exercise.
-
-🟩
-
-International media reports that President Kim Jong has done a manufactured tank in a military exercise manufactured by North Korea.
-
-South Korea and the US have made a joint war exercise in the past few days, and North Korea has shown its strength.
-
-The North Korean leader had been found in the new tank attack on attacks.
-
-◼️
-
-[Data](articles/97af0b29.json)
-
-[Extended Data](ext_articles/97af0b29.ext.json)
-
----
-
-### Railway ticket, seat reservations only through online system
-
-*2024-03-14 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-ticket-seat-reservations-only-through-online-system/108-278838) · `en`
-
-Colombo, March  14 (Daily Mirror) - The Railways Department has launched the process of train tickets and seat reservations only through the online system from today.
-
-The official launch of this programme was held this morning at the Colombo Fort Railway station with the participation of Transport Minister Bandula Gunawardana.
-
-Accordingly, ticket reservations, seat reservations and train travel by reserved e-tickets were launched.
-
-Online ticket reservations will be made utilising an OTP code. Commuters can reserve their tickets and seats online through the link: http://seatreservation.railway.gov.lk/
-
-Due to this online system comuters need not stand in queues at railway stations and Government employees too can reserve their warrant tickets through the new system.
-
-...
-
-[Data](articles/329e0889.json)
-
-[Extended Data](ext_articles/329e0889.ext.json)
-
----
-
-### Sri Lanka rupee opens at 305.65/72 to the US dollar
-
-*2024-03-14 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-305-65-72-to-the-us-dollar-154581/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 305.65/72 to the US dollar in the spot forex market on Thursday, stronger from 306.50/60 on Wednesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted at 11.30/38 percent from 11.30/40 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.15/20 percent from 12.15/20 percent.
-
-The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 percent at 11,283, and the S&P SL20 was up 0.13 percent at 3,222. (Colombo/Mar14/2024)
-
-◼️
-
-[Data](articles/ae5103e8.json)
-
-[Extended Data](ext_articles/ae5103e8.ext.json)
-
----
-
-### Gunshots fired at a house in Ambalangoda
-
-*2024-03-14 09:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gunshots-fired-at-a-house-in-Ambalangoda/108-278839) · `en`
-
-Ambalangoda, March 14 (Daily Mirror) - Gunshots had been fired at a house of notorious underworld figure and drug trafficker Agampodi Sajith Saman Priyantha alias 'Samankolla', in Idanthota, Ambalangoda during the early hours of this morning.
-
-Police said no injuries were reported in the shooting incident.
-
-However, multiple bullets had struck the walls and door of the house while Samankolla's mother and three sisters were reportedly inside at the time.
-
-Two individuals had reportedly arrived on a motorcycle, opened fire with a suspected T-56 assault rifle and fled.
-
-◼️
-
-[Data](articles/3965906b.json)
-
-[Extended Data](ext_articles/3965906b.ext.json)
-
----
-
-### America's decision about Ticktock
-
-*2024-03-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194489) · `si`
-
-The US has passed a bill banning "Ticktock," requiring it to remove its US branch within six months or face a block.
-
-🟩
-
-The Bill for the banning of the "Ticktock" banning the Bill has been passed by the United States of America.
-
-Foreign media reports that the relevant Bill has been passed by the majority of votes, and it should be approved by the Senate to become a law.
-
-According to the Act, Tiktock is scheduled to be given six months to remove the American branch of the American branch.
-
-Foreign media reports that the US will block the "Ticktock" app in the United States if not removed.
-
-◼️
-
-[Data](articles/9d6765c5.json)
-
-[Extended Data](ext_articles/9d6765c5.ext.json)
-
----
-
-### IMF technical assistance reports will be submitted  to Parliament: President
-
-*2024-03-14 09:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-technical-assistance-reports-will-be-submitted-to-Parliament-President/108-278821) · `en`
-
-Colombo, March 14 (Daily Mirror) - President Ranil Wickremesinghe yesterday said that he will submit the IMF technical assistance reports to Parliament soon.
-
-The President in his latest X message said he will submit the reports to Parliament following a request by TNA MP M.A. Sumanthiran during talks on Tuesday. The President met TNA MPs on Tuesday to dicuss the IMF assistance programme.
-
-"MP Sumanthiran voiced a key concern regarding the availability of the IMF technical assistance reports. I committed to releasing these reports to the TNA and Parliament. We discussed further how our government remains dedicated to following a structured roadmap for economic stability," the President said.
-
-...
-
-[Data](articles/645b2987.json)
-
-[Extended Data](ext_articles/645b2987.ext.json)
-
----
-
-### Eliminate taxes for menstrual use, including Saturni Nabkins - Emphasizing the Government
-
-*2024-03-14 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178676) · `ta`
-
-The Sri Lanka Family Association calls for the government to eliminate taxes on menstrual products, including Saturni Nabkins, to address 'menstrual poverty' impacting women's health. This issue was discussed at an International Women's Day event, aiming to pressure the government to restructure taxes on menstrual materials. Internationally, 'Period Poverty' highlights the inability of women to afford essential menstrual products, affecting over half of Sri Lanka's population. The association argues that taxing menstrual products, especially for large-income families, negatively impacts women's hygiene and social inclusion. The recent Value Service Amendment has increased the tax on Saturni Nabkins, raising prices by 92%. MP Harsha de Silva supports eliminating these taxes, suggesting they raise minimal income and proposing free distribution to school children.
-
-🟩
-
-The Sri Lanka Family Association, which has pointed out that 'menstrual poverty' is the most impact on the physical and psychological health of women nationwide, has urged the government to completely eliminate taxes on menstrual use, including Saturni Nabkins.
-
-A discussion was held last week at the Bandaranaike Memorial International Conference Hall in Colombo on the International Women's Day. The main objective of the investigation was to put pressure on the government to restructure the policy reorganization of all taxes on menstrual material, including Saturni Nabkins, to ensure the menstrual health of women nationwide.
-
-...
-
-[Data](articles/b35f39a6.json)
-
-[Extended Data](ext_articles/b35f39a6.ext.json)
-
----
-
-### Another shower in the South
-
-*2024-03-14 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194488) · `si`
-
-In Ambalangoda, Pirada Piyakadi Saman Paparati, known as 'Samankulla', has been admitted to 'Samankulla's' house.
-
-🟩
-
-In the Ambalangoda police division, Pirada Piyakadi Saman Paparati, Samankulla, 'Samankulla' has been admitted to the house of 'Samankulla'.
-
-◼️
-
-[Data](articles/1091d526.json)
-
-[Extended Data](ext_articles/1091d526.ext.json)
-
----
-
-### Global child mortality rates dropped in 2022 but progress slow, UN says
-
-*2024-03-14 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97938/global-child-mortality-rates-dropped-in-2022-but-progress-slow-un-says) · `en`
-
-The number of children globally who died before their fifth birthday dropped to a record low of 4.9 million in 2022, but that still represents one death every six seconds, according to new United Nations estimates.
-
-While the mortality rate for under-5s has roughly halved since 2000, the world is still behind in the goal of reducing preventable deaths in that age group by 2030, and progress has slowed since 2015, the report, released on Wednesday, found.
-
-The numbers represent “an important milestone”, said Juan Pablo Uribe, director for health nutrition and population at the World Bank, one of the partners that put together the report alongside Unicef, the U.N. population division and the World Health Organization.
-
-The picture is varied. Some countries, like Cambodia, Malawi and Mongolia, have reduced under-5 mortality rates by more than 75% since 2000.
-
-...
-
-[Data](articles/95486539.json)
-
-[Extended Data](ext_articles/95486539.ext.json)
-
----
-
-### President's attention on Galle
-
-*2024-03-14 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194487) · `si`
-
-President Ranil Wickremesinghe aims to transform Galle into a major tourist city, removing government offices from Galle Fort and focusing on hotel restoration and tourism development. He highlights the potential for significant revenue, aiming for $200-$300 per tourist, up from the current $100.
-
-🟩
-
-President Ranil Wickremesinghe says he will be converted into the main tourist city in Galle.
-
-The President points out that many special programs have already been implemented to develop the tourism industry.
-
-The President has said that many government offices in the Galle Fort have been removed and a program to increase tourist attraction.
-
-President Ranil Wickremesinghe made this statement participating at a function in the Holuwagoda, Galle.
-
-...
-
-[Data](articles/2f68baa6.json)
-
-[Extended Data](ext_articles/2f68baa6.ext.json)
 
 ---

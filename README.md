@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 21:17:57**
+As of **2024-03-14 21:33:51**
 
 ## Newspaper Stats
 
-*Scraped **12,947** Articles*
+*Scraped **12,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 1,558
 tamilmirrorlk | 1,578
 virakesarilk | 1,796
 dailymirrorlk | 1,975
-adaderanasinhalalk | 2,047
+adaderanasinhalalk | 2,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,945 (100.0%) of 12,947 articles have been extended.
+12,947 (100.0%) of 12,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### ලොවම මවිත කරවමින් ටයිටැනික් යළි ගොඩගනී
+
+*2024-03-14 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194520) · `si`
+
+කිසිදා ගිල්විය නොහැකි යැයි පැවසූ සුඛෝපභෝගී ටයිටැනික් නෞකාව පුද්ගලයින් 1500කට මරු කැඳවමින් 1912 වසරේ අප්‍රේල් 15 වැනිදා අත්ලාන්තික් සාගරයේ ගිලී ගියේ දැවැන්ත අයිස් කුට්ටියක ගැටී අනතුරට ලක්වීමෙනි.
+
+ලොවම මවිත කරවමින් එම නෞකාවට සමාන පෙනුමැති නෞකාවක් නිපදවීමට පෙරමුණ ගෙන සිටින්නේ ඔස්ට්‍රේලියානු ජාතික ක්ලයිව් පාර්මර් නම් බිලියනපතියෙකි.
+
+මීට වසර 10කට පමණ පෙර සිට මෙම සුවිශේෂී නෞකාව යළි නිර්මාණය කිරීමේ මෙහෙයුම ඇරඹුණි.
+
+ටයිටැනික් ටූ නම් මෙම නෞකාව 2027 වසරේ දී ටයිටැනික් නෞකාව ගමන් කළ සදම්ප්ටන් වරායේ සිට නිව්යෝර්ක් බලා යාත්‍රා කරවීම ඔහුගේ සැලසුම වී තිබේ.
+
+තට්ටු නවයකින් යුත් නෞකාව ඉදිකිරීමට ඔස්ට්‍රේලියානු ඩොලර් මිලියන 500 ත් බිලියනයත් අතර මුදලක් වැයකිරීමට නියමිතය.
+
+මගීන් 2,345කට ගමන් කළ හැකි මෙම නෞකාවේ මංගල ගමන සඳහා පළමු පන්තියේ මැදිරිවලින් අඩක්ම මේ වන විටත් අලෙවි වීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/aabd2075.json)
+
+---
 
 ### Attain labor earns Rs 116 million
 
@@ -248,21 +270,27 @@ Whatever the case, you get a thousand 700 rupees within the next 30 days. But ou
 
 ---
 
-### මිනිපේ ගොවීන්ගේ තීරණය
+### The decision of the Minipe farmers
 
 *2024-03-14 19:27:36* · [`adalk`](https://www.ada.lk/breaking_news/මිනිපේ-ගොවීන්ගේ-තීරණය/11-408621) · `si`
 
-රටේ පවතින ලොකු ලූනු හිගයට පිළියමක් ලෙසඑළඹෙන යල කන්නයේ වී අස්වනු නෙළා ගත් පසු මිණිපේ මහා වාරි ව්‍යාපාරයේ 03හා 04 පියවර තුළ ලොකු ලූණු වගා කිරීම සුදුසු බව මිණිපේ කන්න රැස්වීමේදී තීරණය වී තිබේ .
+Minipe farmers decide to grow big onions in the Great Onion Irrigation during Yala Season 03 and 04, with the Inter-Provincial Department of Agriculture's support. The Divisional Secretariat of Minipen Minipe agrees, and all farmerial union representatives in Wilgamuwa and Hettipola Divisional Secretariats will cultivate big onions in selected paddy fields after this year's harvest.
 
-ඒ අනුව එම වගාවට සුදුසු ඉඩම් හඳුනා ගැනීම හා ඉල්ලුමට සරිලන ලොකු ලූණු බීජ ගොවියන් වෙත ලබා දෙන ලෙස අන්තර් පළාත් කෘෂිකර්ම දෙපාර්තමේන්තුවට දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතා උපදෙස් ලබාදී ඇති අතර ගොවියන්ද ඊට ඉහළ ප්‍රතිචාරයක් දක්වා තිබේ .
+🟩
 
-ලොකු ලූණු වගා කිරීම පිළිබඳ ඉදිරිපත් වූ මෙම එකඟතාවයට එළැඹී ඇත්තේ ඊයේ (13දා) මහනුවර දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතාගේ ප්‍රධානත්වයෙන් මිණිපේ ප්‍රාදේශීය ලේකම් කාර්යාලයේදී පැවති කන්න රැස්වීමේදීය .
+The meeting is determined to cultivate big onions within the Great Onion Great Irrigation of the Yala Season 03 and 04, the Great Onion Half of the country.
 
-ඒ අනුව මෙවර යල කන්නයේ අස්වනු නෙලීමෙන් පසු විල්ගමුව හා හෙට්ටිපොළ ප්‍රාදේශීය ලේකම් කොට්ඨාශවල තෝරාගත් කුඹුරු ඉඩම් තුළ ලොකු ලූණු වගා කිරීමට එහි සියලු ගොවි සංගම් නියෝජිතයන් එකඟ වී තිබේ .
+The Inter-Provincial Department of Agriculture Chandana Tennakoon has responded to the Department of Agriculture to identify the land and the demand to be given to the demand.
+
+The agreement on the cultivation of big onions was at the meeting of the Divisional Secretariat at the Minipen Minipe.
+
+Accordingly, all its farmerial union representatives have agreed to cultivate big onions within the selected paddy fields in the Wilgamuwa and Hettipola Divisional Secretariats following harvesting this year.
 
 ◼️
 
 [Data](articles/20f5a7b6.json)
+
+[Extended Data](ext_articles/20f5a7b6.ext.json)
 
 ---
 
@@ -308,19 +336,25 @@ On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka
 
 ---
 
-### කියනදේ තේරුම්ගන්න නොහැකි දේශපාලඥයින් ගැන කනගාටුයි
+### Sorry about the politicians who cannot understand
 
 *2024-03-14 19:13:21* · [`adalk`](https://www.ada.lk/breaking_news/කියනදේ-තේරුම්ගන්න-නොහැකි-දේශපාලඥයින්-ගැන-කනගාටුයි/11-408620) · `si`
 
-කියනදේ තේරුම්ගැනීමට සමහර දේශපාලකයින්ට අවබෝධයක් නැතිවීම ගැන කණගාටුවට කරුණක් බව පාර්ලිමේන්තු මන්ත්‍රී හර්ෂද සිල්වා මහතා පැවැසීය.
+Politicians criticized for not understanding the need to discuss international debt restructuring with Parliament before accusing the opposition of discussing it with the IMF.
 
-"මම IMF එකත් එක්ක විපක්ෂයට සාකච්ඡාවක් ඉල්ලුවා කියල මට චෝදනා කරන්න කලින් මම පාර්ලිමේන්තුවේ කිව්වේ මොකක්ද කියල හරියට නැවත වරක් බලන්න. මම කරපු ඉල්ලීම මේ වීඩියෝවේ තියනවා. ඒ ඉල්ලීම අකුරක් නෑර මෙහෙමයි.
+🟩
 
-මුදල් ඇමතිවරයා, ජනාධිපතිවරයා මෙතන ඉන්න නිසා මම කැමතියි එකක් අහන්න. මෙතනදී අපිට ඔහු සමග සම්බන්ධ වෙන්න හැකියාවක් නෑ කමිටුව හැටියට. ගරු මුදල් ඇමතිතුමා, ජනාධිපතිතුමා, ජාත්‍යන්තර ණය ප්‍රතිව්‍යුහගත කිරීම මේ දවස්වල කරගෙන යනවා. ඡන්දෙට තව තියෙන්නේ මාස කිහිපයයි. එතකොට ඊළඟට පත්වෙන ආණ්ඩුව බැඳී සිටිනවා ණය හිමියන් සමග එකතුවෙන වැඩපිළිවෙළ ඉදිරියට අරගෙන යන්න. ඒ නිසා, පාර්ලිමේන්තුව නියෝජනය කරන සියලු පක්ෂ සමග සාකච්ඡා කරල මෙවැනි එකඟතාවයකට ආවොත් හොඳයි කියල මම යෝජනා කරනවා. මොකද ඔබතුමා තව කොච්චර කාලයක් ඉන්නවද කියල අපිට හරියට කියන්න බෑ.
+Sadly, the politicians have not been able to understand:
+
+"Before I accused the opposition, I was asked what I said in Parliament before I was accused of a discussion with the IMF. I've got the request I've done in this video. This is how it is a letter.
+
+Minister Minister, because the President is here, I'd like to ask one. Here we cannot connect to him as the Committee. The Hon. Minister, President, is going to restructuring international debt these days. There is more months for the election. Then the government is bound to proceed with the lenders to take action. Therefore, I propose that if you come to this agreement to discuss with all parties representing Parliament,. Because we can't tell us how long you're there.
 
 ...
 
 [Data](articles/392db930.json)
+
+[Extended Data](ext_articles/392db930.ext.json)
 
 ---
 
@@ -2295,27 +2329,5 @@ Rehabilitation will be carried out with the full supervision of the Mahaweli Aut
 [Data](articles/2543ee6f.json)
 
 [Extended Data](ext_articles/2543ee6f.ext.json)
-
----
-
-### Sri Lanka’s sugar, milk powder consumption hurting people, economy: Minister
-
-*2024-03-14 13:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-sugar-milk-powder-consumption-hurting-people-economy-minister-154620/) · `en`
-
-ECONOMYNEXT – If Sri Lanka can cut down on its consumption of sugar and milk powder, both its people and the economy would benefit, its Minister of Health has said.
-
-“In the South Asia region, we are one of the countries with the highest diabetic population,” Minister Ramesh Pathirana told a gathering of medical professionals and reporters at the launch of a public health website.
-
-According the international medical journal The Lancet’s IDF Diabetes Atlas, the prevalence of diabetes in adults (crude percentage) across south Asian countries is 8·8% in India, 8·6% in Sri Lanka, 7·9% in Bhutan, 6·9% in Bangladesh, 6·9% in Pakistan, and 4·0% in Nepal.
-
-“Our consumption of simple sugar is extremely unhealthy; it’s also hurting our economy because we spend 300 million dollars to import sugar.”
-
-Pathirana, a physician, asked doctors to advise their patients to cut down on sugar and milk powder consumption.
-
-...
-
-[Data](articles/4d978295.json)
-
-[Extended Data](ext_articles/4d978295.ext.json)
 
 ---

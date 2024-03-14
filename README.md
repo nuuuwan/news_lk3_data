@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 08:33:40**
+As of **2024-03-14 08:50:52**
 
 ## Newspaper Stats
 
-*Scraped **12,767** Articles*
+*Scraped **12,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ dailyftlk | 661
 economynextcom | 680
 islandlk | 699
 adalk | 1,090
-adaderanalk | 1,536
+adaderanalk | 1,537
 tamilmirrorlk | 1,554
 virakesarilk | 1,766
-dailymirrorlk | 1,950
-adaderanasinhalalk | 2,015
+dailymirrorlk | 1,951
+adaderanasinhalalk | 2,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,766 (100.0%) of 12,767 articles have been extended.
+12,767 (100.0%) of 12,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### දකුණේ තවත් වෙඩිල්ලක්
+
+*2024-03-14 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194488) · `si`
+
+අම්බලන්ගොඩ පොලිස් වසමේ ඉඩන්තොට පොනදුව ප්‍රදෙශයේ, මත්කුඩු ජාවාරමේ නිරත පාතල සාමාජික අගම්පොඩි සජිත් සමන් පියන්ත නොහොත් 'සමන්කොල්ලා' නැමැත්තාගේ නිවසට අද (14) අලුයම ⁣වෙඩි ප්‍රහරයක් එල්ල වී ඇත.
+
+◼️
+
+[Data](articles/1091d526.json)
+
+---
+
+### Global child mortality rates dropped in 2022 but progress slow, UN says
+
+*2024-03-14 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97938/global-child-mortality-rates-dropped-in-2022-but-progress-slow-un-says) · `en`
+
+The number of children globally who died before their fifth birthday dropped to a record low of 4.9 million in 2022, but that still represents one death every six seconds, according to new United Nations estimates.
+
+While the mortality rate for under-5s has roughly halved since 2000, the world is still behind in the goal of reducing preventable deaths in that age group by 2030, and progress has slowed since 2015, the report, released on Wednesday, found.
+
+The numbers represent “an important milestone”, said Juan Pablo Uribe, director for health nutrition and population at the World Bank, one of the partners that put together the report alongside Unicef, the U.N. population division and the World Health Organization.
+
+The picture is varied. Some countries, like Cambodia, Malawi and Mongolia, have reduced under-5 mortality rates by more than 75% since 2000.
+
+...
+
+[Data](articles/95486539.json)
+
+---
+
+### ගාල්ල ගැන ජනපතිගේ අවධානය
+
+*2024-03-14 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194487) · `si`
+
+ගාල්ල මෙරට ප්‍රධාන සංචාරක නගරය බවට පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ සංචාරක ව්‍යාපාරය දියුණු කිරීම සඳහා විශේෂ වැඩසටහන් රැසක් මේ වන විටත් ක්‍රියාවට නංවා ඇති බවය.
+
+ගාල්ල කොටුව ආශ්‍රිතව පවතින රජයේ කාර්යාල රැසක් එම ස්ථානවලින් ඉවත් කර සංචාරක ආකර්ෂණය වැඩි කිරීම සඳහා වැඩපිළිවෙලක් සකස් කර ඇති බව ජනාධිපතිවරයා පවසයි.
+
+ගාල්ල හෝලුවාගොඩ ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/2f68baa6.json)
+
+---
+
+### China pursuing a military base in Sri Lanka: US claims
+
+*2024-03-14 08:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-pursuing-a-military-base-in-Sri-Lanka-US-claims/108-278820) · `en`
+
+China is reportedly exploring the possibility of establishing military facilities in various countries, including Sri Lanka, in a bid to bolster their power projection capabilities and safeguard national interests, a latest report by US Intelligence Community revealed.
+
+The People's Liberation Army (PLA) will continue to pursue the establishment of overseas military installations and access agreements in an attempt to project power and protect China’s interests abroad,” the annual threat assessment of the US Intelligence Community 2024 stated this week.
+
+“Beyond developing its military base in Djibouti and its military facility at Ream Naval Base in Cambodia, Beijing reportedly is considering pursuing military facilities in multiple locations, including—but not limited to—Burma, Cuba, Equatorial Guinea, Pakistan, Seychelles, Sri Lanka, Tajikistan, Tanzania, and the UAE,” it said.
+
+...
+
+[Data](articles/e65d4cfe.json)
+
+---
 
 ### Tuber patients report up by 14 percent
 
@@ -528,29 +592,37 @@ A new IPS study highlights Sri Lanka’s opportunity to become part of the EV ba
 
 ---
 
-### අන්තර්ජාල මෙවලම් හෝ  පරිගණක ක්‍රීඩා වෙත ඇබ්බැහි වී සිටින දරුවෙකු ඉන් මුදා ගන්නේ කෙසේ ද?
+### How to liberate an addiction to a addictive to a computer games or computer games?
 
 *2024-03-14 02:03:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c720jp779x5o) · `si`
 
-අන්තර්ජාල මෙවලම් හෝ  පරිගණක ක්‍රීඩා වෙත ඇබ්බැහි වී සිටින දරුවෙකු ඉන් මුදා ගන්නේ කෙසේ ද?
+Addressing computer game addiction involves understanding its signs, such as neglecting daily activities and prioritizing gaming over social interactions. Psychologists suggest gradual reduction of gaming time and distancing from devices. Parents should be patient and supportive, possibly limiting internet access and encouraging alternative activities. Medical and psychological intervention may be necessary.
 
-ඔබේ දරුවාට කුඩා කාලයේ ආහාර දීමට හෝ නිහඬ කරවා ගැනීමට දරුවා අතට දෙන ජංගම දුරකතනය නිසා දරුවාගේ ජීවිතය පවා අහිමි විය හැකි අවදානමක් ඇති බව ඔබ දන්නවා ද?
+🟩
 
-එය වටහා ගැනීම සඳහා පහතින් පැහැදිලි කරන සත්‍ය සිදුවීම දෙස බලමු.
+How to liberate an addiction to a addictive to a computer games or computer games?
 
-පානදුර ප්‍රදේශයේ පදිංචි 19 හැවිරිදි පිරිමි දරුවෙකුගේ දෙමාපියෝ ඛේදනීය අත්දැකීමකට මුහුණ දෙමින් සිටිති.
+Do you know that your child's association is a risk that your child's life can be lost by a mobile phone to your child to eat or silence?
 
-සිය පුත්‍රයා ගෙවන ජීවිතය පිළිබඳව ඔහුගේ මව මෙලෙස පැහැදිලි කළා ය.
+To understand it, let's look at the true event that explains below.
 
-"පුතා පාන්දර වෙනකම් ගේම්ස් ගහනවා. උදේට නැගිටින්නෙ නෑ. කෑම කන්නෙ නෑ. උදේ නැගිටින්නෙ නැති නිසා කිසි ම දෙයක් කරන්න බැහැ. එයාව කම්පියුටර් කෝස් එකකට දැම්මා. ඒකට යන්නත් බෑ. එයාට රස්සාවකට යන්න විදිහකුත් නෑ. මොනව කරන්න ද කියලා හිතාගන්න බැරුව අපි ඉන්නේ."
+The parents of a 19 year old resident of Panadura are facing a tragedy experience.
 
-අදාළ දරුවාගේ මව පවසා ඇති සියලු ලක්ෂණවලින්, පරිගණක ක්‍රීඩාවලට ඇබ්බැහි වූවන් ගෙවන දෛනික ජීවිතය කියා පායි.
+His mother explained the life of his son.
 
-ඒ, පරිගණකය හෝ ජංගම දුරකතනය ඔහුගෙන් ඉවත් කිරීමට තැත් කිරීම සිය දිවි හානි කර ගැනීමක් දක්වා දුරදිග යාමට ඉඩ ඇති බැවිනි.
+"Son beat games until morning. The morning doesn't get up. Don't eat. Nothing can do anything because you don't get up in the morning. He put him in a computer caust. It can't go. There is no way to go to work. We couldn't imagine what to do. "
+
+All the characteristics of the child, computer games have made the daily life of computer games.
+
+It is because trying to remove the computer or mobile phone to commit suicide.
+
+A 15-year-old student was arrested in the resident of the house in August, Matara in August, Matara in the rescue of a mobile phone addicted to the mother.
 
 ...
 
 [Data](articles/7a9a4888.json)
+
+[Extended Data](ext_articles/7a9a4888.ext.json)
 
 ---
 
@@ -2173,99 +2245,5 @@ The US dollar purchasing price was Rs 301.7622 and the sales price were 311.0041
 [Data](articles/a933936a.json)
 
 [Extended Data](ext_articles/a933936a.ext.json)
-
----
-
-### Kegalle High Commissioner and Anura Kumara
-
-*2024-03-13 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194463) · `si`
-
-Canada's High Commissioner met with Sri Lankan leader Anura Kumara Dissanayake, discussing social, economic, and political issues. Patrick Pickering, the Canadian High Commission's Political Secretary, and National Power's Polick Pickering participated. The meeting aimed to build national unity and congratulate Sri Lankans in Canada.
-
-🟩
-
-High Commissioner of Canada, Sri Lanka, met with leader Anura Kumara Dissanayake.
-
-The second Secretary of the Canadian High Commission in Sri Lanka (Political) Patrick pickering, the National Executive Member of the National Power (Polick Pickering) has also joined the national proposal.
-
-At the meeting, the meeting has been discussed at length on the social economic and political situation in Sri Lanka.
-
-Comments have been exchanged between the two parties to build national unity.
-
-The national folk force has also stated that the High Commissioner had to congratulate Sri Lankans living in Canada.
-
-The meeting has taken place this morning at the JVP's Head Office.
-
-◼️
-
-[Data](articles/12ac5e1d.json)
-
-[Extended Data](ext_articles/12ac5e1d.ext.json)
-
----
-
-### Civil Aviation Authority gets new Director General
-
-*2024-03-13 16:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Civil-Aviation-Authority-gets-new-Director-General/108-278783) · `en`
-
-Colombo, March 13 (Daily Mirror)- Air Vice Marshal H.M.S.K.B. Kotakadeniya (Retd) has been appointed as the new Director General of Civil Aviation and its Chief Executive Officer.
-
-He was appointed with the approval of the Cabinet of Ministers after the retirement of the former Director General of Civil Aviation.
-
-The official appointment letter was presented by Ports, Shipping, and Aviation Minister Nimal Siripala de Silva.
-
-Prior to assuming the role of Director General of Civil Aviation, AVM H.M.S.K.B. Kotakadeniya (Retd) served as a Director on the Board of Directors of CAASL since August 2022.
-
-◼️
-
-[Data](articles/416fa9c1.json)
-
-[Extended Data](ext_articles/416fa9c1.ext.json)
-
----
-
-### The Leading Motion for the Central Bank
-
-*2024-03-13 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194462) · `si`
-
-MP Udaya Gammanpila submitted a motion to amend the Central Bank of Sri Lanka Act No 16 of 2033, aiming to increase salaries arbitrarily and gain Finance Minister approval. Acting Secretary General Hansitha Abeyratne highlighted the bill's national significance and the Attorney General's endorsement.
-
-🟩
-
-The private member of the MP Udaya Gammanpila has handed over to acting Secretary of Parliament today (13).
-
-This brings amending the Central Bank of Sri Lanka Act No 16 of 2033.
-
-It is imperative to make the increase in arbitrary salary increase in the Central Bank and to obtain the agreement of the Minister of Finance.
-
-Acting Secretary General of Parliament Hansitha Abeyratne has said that this bill is being presented with the national state of the Parliament, as well as the official importance of the Attorney General.
-
-◼️
-
-[Data](articles/2383401b.json)
-
-[Extended Data](ext_articles/2383401b.ext.json)
-
----
-
-### AKD, Canadian envoy discuss Sri Lanka’s socio-economic & political situation
-
-*2024-03-13 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/97926/akd-canadian-envoy-discuss-sri-lankas-socio-economic-political-situation) · `en`
-
-The Canadian High Commissioner to Sri Lanka, Eric Walsh called on the Leader of National People’s Power (NPP), MP Anura Kumara Dissanayake on Wednesday morning (March 13).
-
-During the meeting, which took place at the JVP head office, the current socio-economic and political situation in Sri Lanka was discussed at length.
-
-Taking to his X handle (formerly Twitter), Dissanayake said views were also exchanged between the two sides on the plans of the National People’s Power to build national unity.
-
-“The High Commissioner also took this opportunity to congratulate us on our upcoming visit to Canada to meet Sri Lankans living in Canada,” he added.
-
-Patrick Pickering, the Second Secretary (Political) of the Canadian High Commission in Colombo and Comrade Vijitha Herath, the National Executive Member of the National People’s Power were also present at this meeting.
-
-◼️
-
-[Data](articles/485b0612.json)
-
-[Extended Data](ext_articles/485b0612.ext.json)
 
 ---

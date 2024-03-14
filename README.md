@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 18:51:39**
+As of **2024-03-14 19:02:56**
 
 ## Newspaper Stats
 
-*Scraped **12,918** Articles*
+*Scraped **12,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 146
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 663
-economynextcom | 684
+economynextcom | 693
 islandlk | 700
 adalk | 1,114
 adaderanalk | 1,555
@@ -26,41 +26,59 @@ adaderanasinhalalk | 2,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,914 (100.0%) of 12,918 articles have been extended.
+12,918 (99.9%) of 12,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### රාජ්‍ය වෙසක් උත්සවය මාතලේට
+### State Vesak Festival in Matale
 
 *2024-03-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194515) · `si`
 
-මෙවර රාජ්‍ය වෙසක් උත්සවය මාතලේ දිස්ත්‍රික්කය කේන්ද්‍ර කරගනිමින් පැවැත්වීමට තීරණය කර ඇති අතර ඒ පිළිබඳව මූලික සාකච්ඡාව මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදී අද (14) පැවැත්විණි.
+The State Vesak Festival in Matale district will be inaugurated at Dharmaraja Pirivena on May 21, featuring religious and cultural programs, including temple development, environmental conservation, and health initiatives.
 
-බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙම අවස්ථාවට සමස්ත ලංකා ශාසනාරක්ෂක බල මණ්ඩලයේ සභාපති තුම්මුල්ලේ සීලක්කන්ද හිමි, ලේඛකාධිකාරී මුගුණුවෙල අනුරුද්ධ හිමි එක්ව සිටියේය.
+🟩
 
-රාජ්‍ය වෙසක් උත්සවයේ සමාරම්භක උලෙළ මාතලේ ධර්මරාජ පිරිවෙන් පරිශ්‍රයේදී  දී පැවැත්වෙන අතර එහි සමාප්ති උලෙළ මාතලේ අනුරුද්ධ අරණේදී පැවැත්වීමට මෙහිදී  තීරණය කෙරිණි.
+The State Vesak Festival has decided to hold the state Vesak Festival in Matale district and the main discussion was held today (14) at the Matale District Secretariat.
 
-...
+The All Ceylon Association, Religious and Cultural Affairs Vidura Wickramanayaka was present at the event.
+
+The inauguration of the State Vesak Festival will be held at the Dharmaraja Pirivena premises at the Matale Dharmaraja Pirivena premises.
+
+Accordingly, various religious programs will be held from May on May 21 to May 21, and in parallel cultural programs to the State Vesak Festival on May 21, the Environmental Conservation and Good Health Hit Pinchi on May 23, May 23, May 23Vesak Poya Day Program on May 24, Evaluation Programs on May 24th of May.
+
+Also, there are many programs such as the development of 11 temples in the 11 Divisional Secretariat Divisions in the Matale District, Vesak, Pandana, Environmental Donor and Cultural Ecological and Pandakanda Programs.
+
+◼️
 
 [Data](articles/68f67bd2.json)
 
+[Extended Data](ext_articles/68f67bd2.ext.json)
+
 ---
 
-### டூனா மீனுக்கு நிர்ணய விலை மற்றும் முறையான கொள்கைத் திட்டம் அவசியம்: பலநாள் படகு உரிமையாளர்கள் கோரிக்கை
+### Tuna fish is required for the price and formal policy plan: several days of boat owners request
 
 *2024-03-14 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178745) · `ta`
 
-மீன் ஏற்றுமதியாளர்கள் தங்களது உற்பத்திகளுக்கு நியாயமான நிர்ணய விலையொன்றை வகுத்து அதனை செயற்படுத்த  வேண்டுமெனவும் அத்துடன் இதற்காக தேசிய கொள்கைத் திட்டமொன்று  வகுக்கப்பட வேண்டுமெனவும் பலநாள்  மீன்பிடிப் படகு உரிமையாளர்கள் தெரிவித்துள்ளனர்.
+Boat owners demand fair pricing and national policy for tuna fish, impacted by fuel, ice, and equipment costs. Discussion at Ministry of Fisheries led by Minister Douglas Devananda. They suggest withdrawing fuel tax, forming agreements with fishermen, and considering cancellation of inactive export permits.
 
-கடற்றொழில் அமைச்சில் புதன்கிழமை (13) கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போதே அவர்கள் இவ்வாறு தெரிவித்தனர்.
+🟩
 
-எரிபொருள் விலையேற்றம், ஐஸ் விலை அதிகரிப்பு, கடற்றொழில் உபகரணங்களின் விலை அதிகரிப்பு, வற் விரி விதிப்பு மற்றும் இடைத் தரகர்களின் தலையீடு காரணமாக தாங்கள் கடுமையாக பாதிக்கப்பட்டுள்ளதாகவும் அதனால் தங்களால் பிடிக்கப்படும் டூனா மீன்களுக்கு ஆகக் குறைந்தது கிலோ ஒன்றுக்கு 2000 ரூபா விலை நிர்ணயிக்கப்படுவதுடன் இதன் பொருட்டு தேசியக் கொள்கையொன்று வகுக்கப்பட வேண்டுமெனவும் தெரிவித்தனர்.
+Many days of fishing boat owners have said that fish exporters should set up a fair price for their products and implement it and form a national policy plan.
+
+They were speaking at a discussion held at the Ministry of Fisheries on Wednesday (13) chaired by Minister of Fisheries Douglas Devananda.
+
+They said that they were severely affected by fuel prices, ice prices, Ice prices, fisheries equipment, and the intervention of intermediaries, so that they were priced at least 2000 rupees per kg.
+
+In addition, the project should be formulated to withdraw the fuel tax, and that a memorandum of understanding should be made between exporters and deep sea fishermen and that hundreds of deep sea fishermen do not go to sea in the present situation.
 
 ...
 
 [Data](articles/c81fce65.json)
+
+[Extended Data](ext_articles/c81fce65.ext.json)
 
 ---
 
@@ -89,6 +107,24 @@ Niluka Karunaratne, who has participated in the National and International Budmi
 [Data](articles/33d38501.json)
 
 [Extended Data](ext_articles/33d38501.ext.json)
+
+---
+
+### Sri Lanka evaluating 49 private renewable energy deals
+
+*2024-03-14 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-evaluating-49-private-renewable-energy-deals-154614/) · `en`
+
+ECONOMYNEXT – Sri Lanka is evaluating 49 proposals which were shortlisted out of 535 that responded to an expressions of interest called for renewable projects of more than 50 Mega Watts, Energy Minister Kanchana Wijesekera said.
+
+“The then Ministry of Power in 2021 called for Expression of Interest from suitable investors and developers for RE projects of more than 50MW to be developed islandwide,” Kanchana Wijesekera said on x (twitter).
+
+Some of the projects have already obtained provisional approvals, environment clearances, land clearances, approvals from other government agencies, letters of intent from CEB and energy permits, Wijesekera said.
+
+“The government plans to integrate all the projects that receive approvals by 2030 to the national grid,” Wijesekera said.
+
+...
+
+[Data](articles/6e66a81f.json)
 
 ---
 
@@ -146,6 +182,32 @@ Transport Minister Bandula Gunawardena said that the necessary steps to be trans
 
 ---
 
+### Sri Lanka rupee closes at 305.50/55 to the US dollar
+
+*2024-03-14 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-305-50-55-to-the-us-dollar-154664/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 305.50/55 to the US dollar in the spot forex market on Thursday, slightly stronger from 306.10/20 on Wednesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.30/35 percent down from 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.05 percent down from 11.95/12.05 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/15 percent down from 12.15/20 percent.
+
+A bond maturing on 15.07.2029 closed at 12.20/40 percent down from 12.20/50 percent.
+
+A bond maturing on 15.05.2030 closed at 12.25/45 percent from 12.20/50 percent.
+
+A bond maturing on 15.03.2031 closed at 12.30/50 percent up from 12.20/45 percent.
+
+A bond maturing on 01.07.2032 closed at 12.55/75 percent from 12.50/80 percent. (Colombo/Mar14/2024)
+
+◼️
+
+[Data](articles/47091d99.json)
+
+---
+
 ### Reconciliation applications extended
 
 *2024-03-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194511) · `si`
@@ -165,6 +227,24 @@ It is reported that another quantity of applications should be included in the d
 [Data](articles/659de605.json)
 
 [Extended Data](ext_articles/659de605.ext.json)
+
+---
+
+### Basil wants general election first for a “balanced” Sri Lanka parliament
+
+*2024-03-14 17:13:00* · [`economynextcom`](https://economynext.com/basil-wants-general-election-first-for-a-balanced-sri-lanka-parliament-154658/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s next parliament will be a more balanced one if parliamentary elections are held before a presidential election and won’t result in any one party monopolising political power, Sri Lanka Podujana Peramuna (SLPP) national organiser Basil Rajapaksa said.
+
+In an exclusive interview given to the privately owned NewsFirst network on Thursday March 14 , Rajapaksa said power should not be concentrated around one party.
+
+“The party that wins the presidential election may secure unlimited power. I don’t think that’s a good situation. So before that, so as not to be influenced by the result of the presidential election, if the parliamentary election is held first, that will result in a more balanced parliament,” he said.
+
+“No one will be washed away or disappear. This was why the proportional representation system was introduced. We showed that that was of no use,” he added.
+
+...
+
+[Data](articles/1ea19e53.json)
 
 ---
 
@@ -232,19 +312,27 @@ The Maligakanda Magistrate's Court has ordered that the case will be taken up on
 
 ---
 
-### விளையாட்டில் தோற்ற 7 வயதுச் சிறுமி துஷ்பிரயோகம்
+### 7 -year -old girl abuse in the game
 
 *2024-03-14 17:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விளையாட்டில்-தோற்ற-7-வயதுச்-சிறுமி-துஷ்பிரயோகம்/73-334675) · `ta`
 
-மட்டக்களப்பு - வாகரையில் 7 வயது சிறுமி ஒருவரை பாலியல் துஸ்பிரயோகம் மேற்கொண்ட சம்பவம் தொடர்பாக கைது செய்யப்பட்ட 4 சிறுவர் உட்பட 5 பேரில்   4 சிறுவர்களையும்  பிணையில் விடுவித்ததுடன் 18 வயதுயை ஒருவரை எதிர்வரும் 27 ம் திகதிவரை விளக்கமறியலில் வைக்குமாறு வாழைச்சேனை நீதவான் நீதிமன்ற நீதவான் நேற்று புதன்கிழமை (13) உத்தரவிட்டார்.
+A 7-year-old girl was sexually abused in Batticaloa. The accused, including a 18-year-old man, were released on bail. The victim's mother reported the abuse, leading to the arrest of five individuals.
 
-வாகரை பொலிஸ் பிரிவிலுள்ள பிரதேசத்தில் கணவனை இழந்த தாயார் ஒருவர் அவரது 7 வயது  சிறுமியை வீட்டில் தனியாக விட்டுவிட்டு தினமும் வேலைக்கு சென்றுவரும் நிலையில் சிறுமியுடன் அந்தபகுதியைச் சேர்ந்த 11 சிறுவனுடன் விளையாட்டில் தோல்வியடைந்த  தண்டனை என்ற ரீதியில் சிறுமியை பாலியல் துஸ்பிரயோகம் மோற்கொண்டுள்ளார்.
+🟩
 
-இதனை தொடர்ந்து குறித்த சிறுவன் எனைய 14,15,18 வயதுடைய நண்பர்களுக்கும் இந்த சூட்சமத்தை தெரிவித்துள்ளதையடுத்து குறித்த சிறுமியுடன் தனிதனியாக சிறுவர்கள் சென்று  விளையாட்டு என்ற பேர்வையில் பாலியல் துஸ்பிரயோகம் மேற்கொண்டுள்ள நிலையில் இதனை அவதானித்த அந்தபகுதி இளைஞன் ஒருவர் சிறுமியின் தாயாருக்கு தெரியப்படுத்தியுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+The Valaichenai Magistrate's Court on Wednesday (13) ordered that a 7 -year -old girl in the Batticaloa - Vaharakarai raped a 7 -year -old girl was released on bail of four children, including four children, and a 18 -year -old man was remanded until the 27th of this month.
+
+A mother who lost her husband in the Vaharai police division has left her 7 -year -old girl at home and goes to work every day.
+
+Initial investigations by the police revealed that a young man was informed by the girl's mother, who had been sexually abused by the girl, who had been sexually abused by the girl, who had been sexually abused by the girl.
+
+The victim's mother then appealed to the police and arrested five persons, including an 11 -year -old man, a 14 -year -old and a 15 -year -old man, on Wednesday (13).
 
 ...
 
 [Data](articles/a8ca637f.json)
+
+[Extended Data](ext_articles/a8ca637f.ext.json)
 
 ---
 
@@ -295,6 +383,26 @@ The accused called the Court of Appeal to issue an order to acquit himself a dec
 [Data](articles/bd75b209.json)
 
 [Extended Data](ext_articles/bd75b209.ext.json)
+
+---
+
+### Lanka Pay to recognize Sri Lanka’s financial innovators
+
+*2024-03-14 16:51:00* · [`economynextcom`](https://economynext.com/lanka-pay-to-recognize-sri-lankas-financial-innovators-154657/) · `en`
+
+ECONOMYNEXT – LankaPay, which runs Sri Lanka’s payment infrastructure, said it will announce the winners of its financial innovation awards next week.
+
+Lanka Pay Chief Executive Channa de Silva said awards will prioritize customer convenience.
+
+Lanka Pay’s Technovation awards will recognize banking and non-banking firms that had come up with innovative solutions.
+
+There will be awards will include ones for the most innovative bank, best bank for retail payments and best mobile application for retail payments.
+
+Central Banks Governing Board Member Manil Jayasinghe and Founder of Kapruka, Dulith Herath are among the judges. (Colombo/Mar14/2024)
+
+◼️
+
+[Data](articles/b57d6fd3.json)
 
 ---
 
@@ -359,6 +467,28 @@ Infrastructure facilities have not been provided for housing projects in the pas
 [Data](articles/24565bd8.json)
 
 [Extended Data](ext_articles/24565bd8.ext.json)
+
+---
+
+### Sri Lanka stocks close up driven by interest in construction, consumer sectors
+
+*2024-03-14 16:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-interest-in-construction-consumer-sectors-154649/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 10.27 percent, or 31.02 points, at 11,317; while the S&P SL20 Index closed up 0.39 percent, or 12.41 points, at 3,230.
+
+Vallibel One Plc saw the most active trade volumes (157mn) and the share closed up at 50.00. This was mostly boosted by trades in underlying group companies including Royal Ceramics Lanka Plc (up at 31.90), and Sampath Bank Plc (up at 77.90).
+
+“There is retail investor interest in the construction sector, which is picking up,” market participants said.
+
+The capital goods sector contributed 549mn million to the day’s turnover. Other sectors that attracted interest were food, beverage and tobacco (334), and banks (277mn).
+
+The consumer durables and apparel sector also saw some interest (134mn) as local apparel firms saw new orders come in, after competitor marker Vietnam was filled up with orders, market participants said.
+
+...
+
+[Data](articles/4367c72e.json)
 
 ---
 
@@ -906,6 +1036,24 @@ Following this, Vavuniya lawyers Consius and Dilipkan visited the prison today. 
 
 ---
 
+### Sri Lanka consumer confidence improves in February: survey
+
+*2024-03-14 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-improves-in-february-survey-154645/) · `en`
+
+ECONOMYNEXT — All indices of consumer confidence run by the Institute for Health Policy (IHP), an independent research institute in Sri Lanka, improved in February.
+
+The institute said in a statement its Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy gained 6 points to 22 points. The Index of Consumer Expectations (ICE), which tracks future perceptions increased 7 points to 28 points. The Index of Current Conditions (ICC), a measure of perceptions of current conditions, also increased 4 points to 13 points.
+
+“Indices were boosted by a recovery in public expectations of the country’s situation in the next 12 months and the recovery of buying conditions,” the IHP said.
+
+All IHP Sri Lanka Opinion Tracker Survey (SLOTS) consumer confidence indices range from zero to a potential maximum of 100, with levels below 50 indicating net pessimism.
+
+...
+
+[Data](articles/8cf75564.json)
+
+---
+
 ### Forty murder of shocked
 
 *2024-03-14 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194504) · `si`
@@ -1199,6 +1347,26 @@ In a hospital report, there are 6 students and 3 students and their condition is
 [Data](articles/f935ca16.json)
 
 [Extended Data](ext_articles/f935ca16.ext.json)
+
+---
+
+### SriLankan to fly daily to Seoul with Korean Air code share
+
+*2024-03-14 14:19:00* · [`economynextcom`](https://economynext.com/srilankan-to-fly-daily-to-seoul-with-korean-air-code-share-154633/) · `en`
+
+ECONOMYNEXT – State-run SriLankan Airlines said it will increase its twice weekly flights from Colombo to Seoul to seven days a week with a code share agreement with Korean Air, with a connection in Singapore.
+
+“The passenger traffic between the two cities continues to exceed our expectations,” Richard Nuttall, Chief Executive Officer of SriLankan Airlines said in a statement.
+
+The partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air.
+
+Korean Air will codeshare on flights operated by SriLankan Airlines between Colombo and Seoul Incheon; Singapore; Chennai in India; and Male in the Maldives.
+
+The collaboration will allow SriLankan Airlines to access Korean Air’s far eastern network, and Korean Air will gain access to SriLankan Airlines’ network in the Indian subcontinent, according to the statement. (Colombo/March/2024)
+
+◼️
+
+[Data](articles/a21cce18.json)
 
 ---
 
@@ -1574,19 +1742,25 @@ It is also reported that his two children suffer from speech difficulty.
 
 ---
 
-### රාජ්‍ය වෙසක් උත්සවය මාතලේදී
+### State Vesak Festival in Matale
 
 *2024-03-14 13:14:27* · [`adalk`](https://www.ada.lk/religion/රාජ්‍ය-වෙසක්-උත්සවය-මාතලේදී/4-408607) · `si`
 
-මෙවර රාජ්‍ය වෙසක් උත්සවය මාතලේ දිස්ත්‍රික්කය මූලික කරගනිමින් පැවැත්වීමට බුද්ධ ශාසන හා සංස්කෘතික කටයුතු අමාත්‍යාංශය මගින් තීරණය කර තිබේ.
+The Ministry of Buddha Sasana and Cultural Affairs will host the state Vesak Festival in Matale, featuring religious cultural programs from April 21 to 26 at the Pallepola Mallevana Raja Maha Viharaya.
 
-එම වැඩසටහන යටතේ වෙසක් (21) දින සිට (26)දින පහක් පුරාවට විවිධ ආගමික සංස්කෘතික වැඩසටහන් පැවැත්වීම පිළිබඳව මූලික සාකච්ඡාව බුද්ධ ශාසනා සංස්කෘතික කටයුතු අමාත්‍යය විදුර වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදී අද (14) වන දින පැවැත්විය.
+🟩
 
-එම වැඩසටහනේ සමාරම්භක උත්සවය මාතලේ කලල්පිටිය පුරාණ රජ මහා විහාරස්ථානයේදී පැවැත්වීමට හා සමාප්ති උත්සවය පල්ලෙපොල මිල්ලවානා රජමහා විහාරස්ථානයේදී පැවැත්වීමට තීරණය කෙරුණු අතර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11  හි විහාරස්ථාන 11ක් සංවර්ධනය කිරීම වෙසක් බැති ගී පහන් කූඩු ,වෙසක් තොරණ ,පාරිසරික හා සංස්කෘතික අංගයන් හා පිණ්ඩපාත වැඩසටහන් ලේ දන්දීමේ වැඩසටහන් ආදී විශේෂ වැඩසටහන් පරිදිපැවැත්වීමට,සර්ව ආගමික අංග ඇතුළත් පෙරහැරක් පැවැත්වීම කෙරෙහි මෙහිදී සාකච්ඡා කෙරුණි.
+The Ministry of Buddha Sasana and Cultural Affairs has decided to hold the state Vesak Festival this year.
+
+The initial discussion of various religious cultural programs for a period of five days from Vesak (21) to five days (26) from Vesak.
+
+The inauguration ceremony was held at the Pallepola Mallevana Raja Maha Viharaya in the Anuradhapura Raja Maha Viharaya, Matale.The discussion was discussed in the conducting programs such as programs such as programs.
 
 ◼️
 
 [Data](articles/2991db69.json)
+
+[Extended Data](ext_articles/2991db69.ext.json)
 
 ---
 
@@ -1637,6 +1811,44 @@ Foreign media reports claim that the case could take two to three years to work 
 [Data](articles/33e20412.json)
 
 [Extended Data](ext_articles/33e20412.ext.json)
+
+---
+
+### Sri Lanka debt so high, recovered stolen assets won’t cover it: president
+
+*2024-03-14 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-so-high-recovered-stolen-assets-wont-cover-it-president-154619/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s debt is so high that even the world’s richest person would struggle to help out, President Ranil Wickremesinghe said, noting that recovering stolen assets from a few individuals would not cover the total accumulated debt.
+
+Wickremesinghe was responding to a question asked by an audience member at an event in Colombo on Wednesday March 13 who suggested that recovering stolen funds could significantly ease Sri Lanka’s debt burden.
+
+“Firstly, if you look at our debt, I don’t think we can do that even if we go to the richest person in the world. We have taken that much debt. If someone says you can take back the money that one or two persons took out of Sri Lanka and solve this, that is utterly false,” said Wickremesinghe.
+
+The audience member also alluded to assets allegedly stolen by the leadership of the previous administration.
+
+...
+
+[Data](articles/cd39bd50.json)
+
+---
+
+### Sri Lanka’s sugar, milk powder consumption hurting people, economy: Minister
+
+*2024-03-14 13:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-sugar-milk-powder-consumption-hurting-people-economy-minister-154620/) · `en`
+
+ECONOMYNEXT – If Sri Lanka can cut down on its consumption of sugar and milk powder, both its people and the economy would benefit, its Minister of Health has said.
+
+“In the South Asia region, we are one of the countries with the highest diabetic population,” Minister Ramesh Pathirana told a gathering of medical professionals and reporters at the launch of a public health website.
+
+According the international medical journal The Lancet’s IDF Diabetes Atlas, the prevalence of diabetes in adults (crude percentage) across south Asian countries is 8·8% in India, 8·6% in Sri Lanka, 7·9% in Bhutan, 6·9% in Bangladesh, 6·9% in Pakistan, and 4·0% in Nepal.
+
+“Our consumption of simple sugar is extremely unhealthy; it’s also hurting our economy because we spend 300 million dollars to import sugar.”
+
+Pathirana, a physician, asked doctors to advise their patients to cut down on sugar and milk powder consumption.
+
+...
+
+[Data](articles/4d978295.json)
 
 ---
 
@@ -2097,211 +2309,5 @@ During the 10th anniversary of the Nilakshan's 10th anniversary held in 2017, th
 [Data](articles/b279ab58.json)
 
 [Extended Data](ext_articles/b279ab58.ext.json)
-
----
-
-### Student Nilakshan Memorial Gold Medal
-
-*2024-03-14 11:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-நிலக்சன்-ஞாபகார்த்த-தங்கப்பதக்கத்தை-வென்ற-மாணவி/175-334656) · `ta`
-
-Krishnaraja Selva will receive the Nilakshan Memorial Gold Medal at the 37th Graduation Ceremony of the University of Jaffna, honoring the memory of Amara Sahadevan, a media student and journalist assassinated in 2007. The award, given annually by the "Moon Fund," commemorates Nilakshan's contributions to the university.
-
-🟩
-
-At the 37th Graduation Ceremony of the University of Jaffna, the Jaffna University Media Student and Journalist Amara Sahadevan Nilakshan Memorial Gold Medal will be awarded to Krishnaraja Selva this year.
-
-The 37th graduation ceremony of the University of Jaffna will be held on Thursday (14) and will be held on Wednesday (15) and Saturday (6).
-
-Nilakshan, who was studying as a media student at the University of Jaffna and working as a journalist, was assassinated by armed men at his home at 5 am on the first day of August 2007.
-
-The "Moon Fund", which is being carried out by the high -quality students of the 2004 students who learned to be held in Jaffna, in memory of the land, is given annually to a specialist in the Jaffna University.
-
-...
-
-[Data](articles/dfc11e29.json)
-
-[Extended Data](ext_articles/dfc11e29.ext.json)
-
----
-
-### SLTB bus accident in Homagama
-
-*2024-03-14 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194494) · `si`
-
-A SLTB bus from Homagama depot crashed near NSBM University, killing students. The driver lost control and hit a wall.
-
-🟩
-
-A SLTB bus belonging to Homagama depot was crashed this morning.
-
-The victims were a bus carrying students from NSBM University.
-
-The bus was not able to control the driver near the NSBM universities and had been confronted with a wall of the Sri Jayewardene.
-
-At the time of the accident, the bus had been a group of university students from the bus.
-
-◼️
-
-[Data](articles/57993ef1.json)
-
-[Extended Data](ext_articles/57993ef1.ext.json)
-
----
-
-### Parliament to debate no-faith motion on Speaker next week
-
-*2024-03-14 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-to-debate-no-faith-motion-on-Speaker-next-week/108-278845) · `en`
-
-Colombo, March 14 (Daily Mirror)- The Business Committee of Parliament has decided to debate the no-confidence motion on Speaker Mahinda Yapa Abeywardane on March 19 and 20.
-
-The vote on the no-confidence motion will be taken up at 4.30 pm on the 20th.
-
-◼️
-
-[Data](articles/1ecc7893.json)
-
-[Extended Data](ext_articles/1ecc7893.ext.json)
-
----
-
-### SriLankan Airlines, Korean Air announce new codeshare partnership
-
-*2024-03-14 11:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-Korean-Air-announce-new-codeshare-partnership/108-278847) · `en`
-
-SriLankan Airlines and Korean Air have officially activated a new codeshare partnership effective 15 March 2024, presenting enhanced travel options and connections for customers of both airlines travelling between Colombo and Seoul.
-
-The new partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air, making it possible for passengers to travel on a single, SriLankan Airlines’ ticket between Colombo and Incheon via Singapore.
-
-At the same time, Korean Air will codeshare on flights operated by SriLankan Airlines between Colombo and the cities of Seoul Incheon, Singapore, Chennai in India, and Male in the Maldives.
-
-SriLankan Airlines currently operates a twice-weekly direct service between Colombo and Incheon. With SriLankan Airlines tapping into Korean Air’s extensive Far Eastern network through codeshare collaboration, passengers of SriLankan now have the choice of daily flights between Colombo and Seoul via Singapore.
-
-...
-
-[Data](articles/e08c4a10.json)
-
-[Extended Data](ext_articles/e08c4a10.ext.json)
-
----
-
-### SriLankan Airlines, Korean Air activate codeshare partnership
-
-*2024-03-14 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97942/srilankan-airlines-korean-air-activate-codeshare-partnership) · `en`
-
-SriLankan Airlines and Korean Air have officially activated a new codeshare partnership, effective from 15 March, presenting enhanced travel options and connections for customers of both airlines travelling between Colombo and Seoul.
-
-The new partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air, making it possible for passengers to travel on a single ‘SriLankan Airlines’ ticket between Colombo and Incheon via Singapore.
-
-At the same time, Korean Air will codeshare on flights operated by SriLankan Airlines between Colombo and the cities of Seoul Incheon, Singapore, Chennai in India and Male in the Maldives.
-
-...
-
-[Data](articles/ec1c158f.json)
-
-[Extended Data](ext_articles/ec1c158f.ext.json)
-
----
-
-### New Director General of Civil Aviation Authority
-
-*2024-03-14 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194493) · `si`
-
-Air Vice Marshal HMSl HMSl HMSl, a Masters Degree holder from the University of Colombo and with security studies from India, China, and the US, is the new Director General of Civil Aviation Authority and CEO, succeeding Mr. Kotakadeniya.
-
-🟩
-
-Air Vice Marshal HMSl HMSl HMSl as the new Director General of Civil Aviation Authority and CEO. Mr. Kotakadeniya has been appointed.
-
-Minister of Ports, Shipping and Aviation and Aviation, has been appointed by the Harbor and Aviation and Aviation and Aviation and Aviation.
-
-Air Vice Marshal Kotakadeniya is a Masters Degree in International Study of the University of Colombo and security and strategic study from India.
-
-In addition, the United States and China's security university have been provided.
-
-Earlier, the PAA served as the Director General of Civil Aviation Authority and CEO of Sri Lanka. Mr. Jayakantha had recently retired.
-
-◼️
-
-[Data](articles/403acd45.json)
-
-[Extended Data](ext_articles/403acd45.ext.json)
-
----
-
-### '' Coconut 'and break down someone
-
-*2024-03-14 11:19:47* · [`adalk`](https://www.ada.lk/breaking_news/’’පොල්’’-ඔ්නෙ-කෙනෙක්-කඩාගෙන-යන්න/11-408602) · `si`
-
-The Government Agent Lalinda Gamage and Government Manager Saman Herath emphasize the importance of coconut cultivation in Gampaha District. The Coconut Cultivation Board is working to improve cultivation, with government officials committed to expanding it. The District Management plans to distribute 1000 coconut seedlings.
-
-🟩
-
-The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
-
-The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
-
-He said that the government officials should take steps to take steps to take steps to cultivate the coconut cultivation in every land, which they have gone up.
-
-The District Management said that steps will be taken to provide 1000 coconut seedlings in announcing the headquarters.
-
-The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
-
-The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
-
-...
-
-[Data](articles/73f7d4d6.json)
-
-[Extended Data](ext_articles/73f7d4d6.ext.json)
-
----
-
-### "Coconut '' coconut '' 'break down in one
-
-*2024-03-14 11:19:47* · [`adalk`](https://www.ada.lk/breaking_news/’’පොල්’’-ඔනෙකෙනෙක්-කඩාගෙන-යන්න/11-408602) · `si`
-
-The Government Agent Lalinda Gamage and Government Manager Saman Herath emphasize the importance of coconut cultivation in Gampaha District. The Coconut Cultivation Board is working to improve cultivation, and the District Management plans to distribute 1000 coconut seedlings.
-
-🟩
-
-The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
-
-The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
-
-He said that the government officials should take steps to take steps to take steps to cultivate the coconut cultivation in every land, which they have gone up.
-
-The District Management said that steps will be taken to provide 1000 coconut seedlings in announcing the headquarters.
-
-The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
-
-The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
-
-...
-
-[Data](articles/f75054b3.json)
-
-[Extended Data](ext_articles/f75054b3.ext.json)
-
----
-
-### Eight people arrested, including Vettunnarimalai temple priest;Call for massive struggle
-
-*2024-03-14 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178677) · `ta`
-
-The Vedukunnarimalai Athilingaswarar Temple Ovarge Council has called for a protest tomorrow at Nedungeni junction to release eight individuals, including a temple priest, arrested during Shivaratri rituals. The protest, starting at 10 am, will march to the Vavuniya North Divisional Secretariat and be handed over to the UN and foreign embassies.
-
-🟩
-
-The Vedukunnarimalai Athilingaswarar Temple Ovarge Council has called for a protest at the Nedungeni junction tomorrow to release eight persons including the Vettu Nirimalai temple priest.
-
-On 08.03.2024, we will hold a massive mass struggle to protest the violence by the police against the administrators of our temple and Shiva devotees who were involved in the Shivaratri rituals on 08.03.2024.. The struggle, which begins at Nedungeni Junction at 10.00 am on Friday, will march to the Vavuniya North Divisional Secretariat and will be handed over to the UN Resident Representative to Sri Lanka and the Foreign Embassies in Sri Lanka.
-
-In this struggle against state injustice, we kindly urge all Tamils, religious organizations, Tamil politicians, Tamil sentiments, civil society, university students and the media.
-
-◼️
-
-[Data](articles/f123e25f.json)
-
-[Extended Data](ext_articles/f123e25f.ext.json)
 
 ---

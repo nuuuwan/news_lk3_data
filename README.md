@@ -1,36 +1,64 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 06:17:22**
+As of **2024-03-14 06:53:25**
 
 ## Newspaper Stats
 
-*Scraped **12,746** Articles*
+*Scraped **12,751** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 122
 bbccomsinhala | 144
-dbsjeyarajcom | 185
+dbsjeyarajcom | 186
 newsfirstlk | 363
-dailyftlk | 660
+dailyftlk | 661
 economynextcom | 680
 islandlk | 699
 adalk | 1,089
 adaderanalk | 1,534
-tamilmirrorlk | 1,552
-virakesarilk | 1,765
-dailymirrorlk | 1,943
+tamilmirrorlk | 1,553
+virakesarilk | 1,766
+dailymirrorlk | 1,944
 adaderanasinhalalk | 2,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,733 (99.9%) of 12,746 articles have been extended.
+12,742 (99.9%) of 12,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Finest Dentistry on Wheels...
+
+*2024-03-14 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Finest-Dentistry-on-Wheels/110-278817) · `en`
+
+A noteworthy achievement in dental care in Sri Lanka was revealed with the latest endeavor from Dantaja Premium Dental Chambers – the introduction of 'Dantaja on Wheels', our mobile medical clinic. This significant event took place at the esteemed Bandaranaike International Conference Hall premises in Colombo and was honored by the presence of the respected Tourism, Lands, Sports, and Youth Affairs Minister Harin Fernando.
+
+◼️
+
+[Data](articles/d4704893.json)
+
+---
+
+### Young journalists file FR against IGP appointment
+
+*2024-03-14 05:09:12* · [`dailyftlk`](https://www.ft.lk/news/Young-journalists-file-FR-against-IGP-appointment/56-759473) · `en`
+
+The Young Journalists Association of Sri Lanka (YJASL) filed a fundamental rights petition yesterday seeking an order to quash the appointment of Senior DIG Deshabandu Thennakoon as the Inspector General of Police (IGP). The petitioners are arguing that the appointment is illegal, arbitrary, irrational, and contrary to and in violation of the provisions of the Constitution.
+
+The association also said that Tennakoon is unfit for the post of IGP and despite these disqualifications, he has been appointed to the position in violation of the constitution.
+
+The petitioners noted that the President and the Constitutional Council have failed to consider the serious findings of the Supreme Court against Tennekoon for human rights abuse and also other allegations which render him unfit to hold office.
+
+...
+
+[Data](articles/09b89a61.json)
+
+---
 
 ### CID arrests Medical Supplies Division Deputy Director over substandard immunoglobulin imports
 
@@ -155,6 +183,22 @@ This will be the ideal event to source new products, networking with new contact
 [Data](articles/6fb1e27c.json)
 
 [Extended Data](ext_articles/6fb1e27c.ext.json)
+
+---
+
+### இன்று பனிமூட்டமான நிலைமை
+
+*2024-03-14 03:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பனிமூட்டமான-நிலைமை/175-334637) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களில் இன்று மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+எவ்வாறாயினும், நாட்டின் ஏனைய பகுதிகளில் வெப்பமான காலநிலையை எதிர்பார்க்க முடியும் என அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+
+அத்துடன், சபரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் பனிமூட்டமான நிலைமை காணப்படும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/a30e8f76.json)
 
 ---
 
@@ -420,6 +464,8 @@ Honey will reduce blemishes and make the skin soft and healthy
 
 [Data](articles/a8828216.json)
 
+[Extended Data](ext_articles/a8828216.ext.json)
+
 ---
 
 ### Calendar girl…
@@ -442,6 +488,24 @@ They are pictured in the respective months they celebrate their birthdays.
 
 [Data](articles/2aa72e74.json)
 
+[Extended Data](ext_articles/2aa72e74.ext.json)
+
+---
+
+### சிங்கள பௌத்தவாதத்தை மீண்டும் புதுப்பிக்க கோட்டா முயற்சி ; புத்தகம் எழுதுவது பயனற்றது - ஓமல்பே சோபித தேரர்
+
+*2024-03-13 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178635) · `ta`
+
+நாட்டை வங்குரோத்து நிலைக்கு தள்ளிய கோட்டாபய ராஜபக்ஷ சிங்கள பௌத்த கொள்கைகளை மீண்டும் தீவிரப்படுத்த முயற்சிக்கிறார். புத்தகம் எழுதுவது பயனற்றது. நாட்டு மக்கள் மிக தெளிவாக உள்ளார்கள் என்பதையும்,உயிரச்சுறுத்தல் ஏற்பட்ட போது நாட்டை விட்டு வெளியேறுவதற்கான வசதிகளை ஏற்படுத்திக் கொடுக்க நான் முன்னிலையாகியதையும் கோட்டாபய ராஜபக்ஷ மறந்து விட கூடாது என தேசிய பேரவை அமைப்பின் தலைவர் ஓமல்பே சோபித தேரர் தெரிவித்தார்.
+
+எம்பிலிப்பிட்டியவில் திங்கட்கிழமை (11) மாலை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கோட்டாபய ராஜபக்ஷ வெளியிட்டுள்ள  புத்தகத்தில் அவரது சிங்கள பௌத்த இருப்பை இல்லாதொழிக்க நான் முன்னிலையில் இருந்து செயற்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.கோட்டாபய ராஜபக்ஷவின் தவறான தீர்மானங்கள் மற்றும் செயற்பாடுகள் என்பனவற்றால் தான் அவரது சிங்கள பௌத்த உறுதிப்பாடு இல்லாமல் போனது.
+
+...
+
+[Data](articles/e631fcfb.json)
+
 ---
 
 ### “Sky-high Sundowns by Marina Square”
@@ -455,6 +519,8 @@ The series was launched against the backdrop of the stunning ocean, Colombo harb
 ...
 
 [Data](articles/c593ee85.json)
+
+[Extended Data](ext_articles/c593ee85.ext.json)
 
 ---
 
@@ -470,6 +536,8 @@ Q: What inspired Colombo as the location of the new Sheraton Hotel, and how does
 
 [Data](articles/a43eaf58.json)
 
+[Extended Data](ext_articles/a43eaf58.ext.json)
+
 ---
 
 ### National planning symposium to explore insights and challenges for a promising future
@@ -484,6 +552,8 @@ The symposium will consist of engaging sessions covering various aspects of nati
 
 [Data](articles/75329805.json)
 
+[Extended Data](ext_articles/75329805.ext.json)
+
 ---
 
 ### Rs. 10 lakhs sponsorship for a kidney transplant every month
@@ -495,6 +565,8 @@ Melstacorp PLC, one of the largest and most diversified Sri Lankan conglomerates
 ...
 
 [Data](articles/783ed1a8.json)
+
+[Extended Data](ext_articles/783ed1a8.ext.json)
 
 ---
 
@@ -511,6 +583,8 @@ Those crossings were reported in Sunshine Holdings, which crossed 1.5 million sh
 ...
 
 [Data](articles/b1534a37.json)
+
+[Extended Data](ext_articles/b1534a37.ext.json)
 
 ---
 
@@ -1079,6 +1153,20 @@ The President made these remarks during his presence in a convivial gathering or
 [Data](articles/72211f83.json)
 
 [Extended Data](ext_articles/72211f83.ext.json)
+
+---
+
+### Gotabaya Rajapaksa’s  Book “The  Conspiracy” is  a Banal Conspiracy Theory  Repetition  Without Substantive Proof to Bolster it.
+
+*2024-03-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83773) · `en`
+
+The Mountains have laboured and brought forth a mouse!. Former Sri Lankan President Nandasena  Gotabaya Rajapaksa has after many poya days reportedly authored a  book. The political grapevine had been buzzing for several months that a book  by the ex-president known popularly as Gota and Gotabaya was in progress. It was supposedly a bombshell book with explosive revelations. The book belied such expectations..It was a damp squib!
+
+Gotabaya Rajapaksa released a statement on March 6th that his book will be launched on March 7th 2024. He also posted on X as follows – My book “The Conspiracy to oust me from the Presidency” will be available in English and Sinhala at leading bookstores from tomorrow, Thursday, March 7th, 2024. The firsthand experience of an internationally sponsored regime change operation.”
+
+...
+
+[Data](articles/a6667b87.json)
 
 ---
 
@@ -2185,125 +2273,5 @@ The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu aga
 [Data](articles/b22313f0.json)
 
 [Extended Data](ext_articles/b22313f0.ext.json)
-
----
-
-### Forest killed in clashes
-
-*2024-03-13 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194460) · `si`
-
-A woman and her child were killed in a clash in Madhu Kattappan, with the child hospitalized.
-
-🟩
-
-A woman who was running into another home with a child, was killed and the victim was killed.
-
-The incident was reported from the Madhu Kattappan area last night.
-
-The child who was injured in the incident has been admitted to the Mannar Hospital for treatment.
-
-◼️
-
-[Data](articles/a4baba0a.json)
-
-[Extended Data](ext_articles/a4baba0a.ext.json)
-
----
-
-### Recovery of a car used for the murder of a young family in Jaffna
-
-*2024-03-13 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178622) · `ta`
-
-Jaffna Crime Police arrest 5 suspects in connection with the murder of 23-year-old Thavchelvam Pavitran, abducted from Ponnala Naval Base. The murder weapon, a car, was recovered from a house near West Nochikkattu Pillaiyar temple, showing signs of a previous attack and bloodstains.
-
-🟩
-
-23 -year -old Thavchelvam Pavitran, a 23 -year -old family member, was abducted and murdered from the Ponnala Naval Base in Jaffna.
-
-Five suspects have been arrested in Kilinochchi by the Jaffna Crime Police on Tuesday (12).
-
-In this case, the car used for murder has been rescued by the Jaffna District Crime Police, from a house near the West Nochikkattu Pillaiyar temple.. The forensic police rushed to the spot and are collecting traces.
-
-It is suspected that the car may have been attacked by a car. The car has been recovered from a front house in front of. The car is seen as dusty as it was long for a long time, and the blood inside the car is bleeding.
-
-◼️
-
-[Data](articles/3a6aee99.json)
-
-[Extended Data](ext_articles/3a6aee99.ext.json)
-
----
-
-### Vittukunnarimalai incident;Arrested people fast !!
-
-*2024-03-13 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178625) · `ta`
-
-People arrested during Shivaratri rituals in Vedukkunniimalai are on hunger strike. Vavuniya Justice ordered remand till 19th, detained at Vavuniya Explanation Prison. Refused food since court appearance. Involved: T. Mathimukarasa, Thamilchelvan, D. Kindiyan, Su Thavapalasingham, Vinayagamoorthy.
-
-🟩
-
-Those arrested and jailed during the Shivaratri rituals in Vedukkunniimalai have jumped into a hunger strike.
-
-The Vavuniya Justice of Vavuniya yesterday issued an order to be kept in remand till the 19th of this month.
-
-Subsequently, they were detained at the Vavuniya Explanation Prison yesterday evening.
-
-They have not taken food, especially when they were taken to court yesterday morning. In this case, they have refused to eat food today.
-
-Temple priest T. Mathimukarasa and. Thamilchelvan, D. Kindiyan, Su Thavapalasingham and Vinayagamoorthy have launched a hunger strike.
-
-◼️
-
-[Data](articles/60a08eee.json)
-
-[Extended Data](ext_articles/60a08eee.ext.json)
-
----
-
-### Army Lieutenant arrested with drugs
-
-*2024-03-13 14:43:36* · [`adalk`](https://www.ada.lk/breaking_news/හමුදා-ලුතිනන්-මත්කුඩු-සමග-අත්අඩංගුවට/11-408588) · `si`
-
-An Army Lieutenant, 32, was arrested in Boralesgamuwa with drugs. He was a Lieutenant with the 4th Gemunu Watch and had been arrested twice before. The police believe he was trying to avoid a check by the Intelligence Service.
-
-🟩
-
-Boralesgamuwa Police say Boralesgamuwa Boralesgamuwa, Boralesgamuwa with drugs
-
-The suspect is a 32 year old Lieutenant attached to the 4th Gemunu Watch, Medawachchiya Mannar Road, Medawachchiya.
-
-He had attempted to avoid police officers to check the suspect in line with the Justice of the Intelligence Service attached to Boralesgamuwa Police.
-
-Police investigations have revealed that the suspect had been holiday, as there is a severe shortage of drugs throughout the country.
-
-The suspect was identified as a person who was arrested by the drug on two previous occasions.
-
-◼️
-
-[Data](articles/0d7f743b.json)
-
-[Extended Data](ext_articles/0d7f743b.ext.json)
-
----
-
-### The personality is always silent
-
-*2024-03-13 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194459) · `si`
-
-Senior journalist Asoka Thilakaratne, a key figure in Sri Lanka's golden age, has passed away at Kalubowila Hospital.
-
-🟩
-
-Senior Journalists Asoka Thilakaratne has passed away.
-
-He has passed away while receiving treatment at Kalubowila Hospital due to illness.
-
-He is the only brother of Thilakarathne's brother, as the golden age of the ruling Sri Lanka.
-
-◼️
-
-[Data](articles/5968ff2f.json)
-
-[Extended Data](ext_articles/5968ff2f.ext.json)
 
 ---

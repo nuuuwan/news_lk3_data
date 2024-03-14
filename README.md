@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 13:33:37**
+As of **2024-03-14 13:52:09**
 
 ## Newspaper Stats
 
-*Scraped **12,843** Articles*
+*Scraped **12,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 663
 economynextcom | 684
 islandlk | 699
 adalk | 1,098
-adaderanalk | 1,545
+adaderanalk | 1,546
 tamilmirrorlk | 1,568
 virakesarilk | 1,780
 dailymirrorlk | 1,961
@@ -26,49 +26,79 @@ adaderanasinhalalk | 2,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,839 (100.0%) of 12,843 articles have been extended.
+12,843 (100.0%) of 12,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### දුවයි පුතයි ඝාතනය කළ පියා ගෙල කපාගනී
+### CEB calls for proposals for 50MW wind farm facility in Mannar
+
+*2024-03-14 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97947/ceb-calls-for-proposals-for-50mw-wind-farm-facility-in-mannar-) · `en`
+
+Proposals on International Competitive Bidding (ICB) for a 50 MW wind farm facility in Mannar have been called for by the Ministry of Power and Energy and the Ceylon Electricity Board (CEB).
+
+Accordingly, the ICB calls for suitable developers with the financial and technical ability to develop a 50MW wind farm facility in Mannar on a Build, Own and Operate (BOO) basis, Power and Energy Minister Kanchana Wijesekera said on ‘X’ (formerly Twitter).
+
+He further noted that deadline to submit the relevant proposal will be on 09 May, immediately after which the proposals will be opened at the office of the CEB Deputy General Manager of Renewable Energy Procurement and Performance Monitoring, in the presence of the authorised representatives of the project proponents.
+
+◼️
+
+[Data](articles/ec4a2664.json)
+
+---
+
+### Dathers and son cuts neck
 
 *2024-03-14 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194500) · `si`
 
-සිය දරුවන් දෙදෙනා ඝාතනය කළ පියෙකු සියදිවි නසාගැනීමට උත්සාහ කළ පුවතක් අම්පාර පෙරියනිලාවේලි ප්‍රදේශයෙන් වාර්තාවෙයි.
+A father attempted suicide in Periyaiyurvely, Ampara, and his son, 29, killed him. The father had previously tried suicide, and both children have speech difficulties.
 
-මෙලෙස ගෙල කපා ඝාතනය කර ඇති ඔහුගේ පුතුගේ වයස අවුරුදු 29ක් වන අතර දියණියගේ වයස අවුරුදු 15කි.
+🟩
 
-දරුවන් දෙදෙනා ඝාතනය කළ පියා ද ගෙල කපාගෙන සියදිවි හානිකරගනීමට උත්සාහ කර ඇති අතර ඔහුව ප්‍රතිකාර සඳහා කල්මුණේ රෝහලට ඇතුළත් කර තිබේ.
+Father who tried to commit suicide was reported from the Periyaiyurvely area in Ampara.
 
-මෙලෙස ඝාතනයට ලක්ව ඇති ඔහුගේ දරුවන් දෙදෙනා කථන අපහසුතාවයෙන් පෙළෙන බවටද තොරතුරු වාර්තා වෙයි.
+His son, who has cut off the neck, is 29 years old and daughter is 15 years old.
+
+The father of the two children had also tried to commit suicide by cutting down and he was admitted to Kalmunai Hospital for treatment.
+
+It is also reported that his two children suffer from speech difficulty.
 
 ◼️
 
 [Data](articles/f3b3cf25.json)
 
+[Extended Data](ext_articles/f3b3cf25.ext.json)
+
 ---
 
-### සය පුද්ගල ඝාතනයේ සැකකාර ශ්‍රී ලාංකික සිසුවා අධිකරණයට
+### Sri Lankan student in court murder
 
 *2024-03-14 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194499) · `si`
 
-කැනඩාවේ, ඔටාවාහී ශ්‍රී ලාංකිකයින් 6 දෙනෙකු ඝාතනය කර එරට පොලිසිය අත්අඩංගුවේ පසුවන ශ්‍රී ලාංකික සිසුවා අද (14) නැවතත් ඔටාවා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Fibri de Zoysa, a Sri Lankan student, is accused of six first-degree murder charges in Canada. Six Sri Lankans were killed in a Canadian house. Fibri was arrested and charged. Google suspended a YouTube channel for conducting a 19-year-old Sri Lankan schoolgirl's training, following the tragic murder.
 
-ෆෙබ්‍රියෝ ද සොයිසා නම් ශ්‍රී ලාංකික සිසුවා පසුගිය බ්‍රහස්පතින්දා දිනයේදී ඔටාවා අධිකරණයට ඉදිරිපත් කෙරුණු අතර එහිදී ඔහුට පළමු මට්ටමේ මිනීමැරුම් චෝදනා හයක් සහ මිනීමැරීමට තැත් කිරීමේ චෝදනාවක් සම්බන්ධයෙන් නිල වශයෙන් චෝදනා ගොනුකෙරුණි.
+🟩
 
-කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බැර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස්දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුයේ පසුගිය බදාදා රාත්‍රීයේ දීය.
+Sri Lankan student who was in custody killed in Canada and the police are to be produced before the Ottawa Court today (14).
 
-එම ඝාතන සම්බන්ධයෙන් 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු වන ෆෙබ්‍රියෝ ද සොයිසා ඔටාවා පොලීසිය විසින් එදින රාත්‍රීයේම අත්අඩංගුවට ගනු ලැබීය.
+The Sri Lankan student named Fibri de Zoysa was produced before the court on Thursday, where he was officially accused of six first level murder accusations and accused of attempting.
 
-සැකකාර සිසුවා ඉකුත් බ්‍රහස්පතින්දා දී ඔටාවා අධිකරණයට ඉදිරිපත් කෙරුණු අතර එහිදී ඔහුට පළමු මට්ටමේ මිනීමැරුම් චෝදනා හයක් සහ මිනීමැරීමට තැත්කිරීමේ චෝදනාවක්ද ඇතුළුව නිල වශයෙන් චෝදනා ගොනුකෙරුණි.
+Six Sri Lankans were violently assassinated in the house of the house of Canada, Canada, and six members of the house was married in the house on Wednesday night.
 
-අද දිනයේදී ෆෙබ්‍රියෝ ද සොයිසා නැවත ඔටාවා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+An 19-year-old Sri Lankan student of Sri Lankan student of the 19-year-old Sri Lankan student, Frerabrio de Zoysa, was arrested by the Ottawa police.
+
+The suspect was produced before the court on Thursday, where he was officially charged with official charges and accusations accused of murder.
+
+Fibri de Zoysa is to be produced before the Ottawa Court today.
+
+Meanwhile, Google has taken steps to suspend the youtube channel, who was conducting the 19-year-old Sri Lankan schoolgirl train.
 
 ...
 
 [Data](articles/833d5496.json)
+
+[Extended Data](ext_articles/833d5496.ext.json)
 
 ---
 
@@ -87,6 +117,8 @@ Foreign media reports claim that the case could take two to three years to work 
 ...
 
 [Data](articles/33e20412.json)
+
+[Extended Data](ext_articles/33e20412.ext.json)
 
 ---
 
@@ -153,6 +185,8 @@ It was signed by 44 parliamentarians including Opposition Leader Sajith Premadas
 ...
 
 [Data](articles/fc3aba49.json)
+
+[Extended Data](ext_articles/fc3aba49.ext.json)
 
 ---
 
@@ -2163,27 +2197,5 @@ Sri Lanka needs to be a modern nation that still preserves its Sri Lankan cultur
 [Data](articles/6f20b0a4.json)
 
 [Extended Data](ext_articles/6f20b0a4.ext.json)
-
----
-
-### Consumer confidence marks slight improvement in February
-
-*2024-03-14 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consumer-confidence-marks-slight-improvement-in-February/108-278813) · `en`
-
-The consumer confidence in Sri Lanka saw a slight improvement in February.
-
-According to the Institute for Health Policy (IHP), this is driven by a recovery of the public expectations of the country’s situation in the next 12 months, coupled with the recovery of the buying conditions.
-
-In February, all three of the IHP’s Consumer Confidence indices, which are generated from its Sri Lanka Opinion Tracker Survey (SLOTS), improved.
-
-The Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and national economy, gained six points to 22 points. The Index of Consumer Expectations (ICE), which tracks future perceptions, increased seven points to 28 points. The Index of Current Conditions (ICC), a measure of perceptions of the current conditions, also increased four points to 13 points.
-
-Despite the improvement, the IHP noted that the consumer confidence remains at net pessimistic levels.
-
-...
-
-[Data](articles/c05ec360.json)
-
-[Extended Data](ext_articles/c05ec360.ext.json)
 
 ---

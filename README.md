@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 10:02:55**
+As of **2024-03-14 10:18:10**
 
 ## Newspaper Stats
 
-*Scraped **12,782** Articles*
+*Scraped **12,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,53 +12,125 @@ colombotelegraphcom | 122
 bbccomsinhala | 145
 dbsjeyarajcom | 186
 newsfirstlk | 363
-dailyftlk | 661
+dailyftlk | 662
 economynextcom | 680
 islandlk | 699
 adalk | 1,092
 adaderanalk | 1,537
 tamilmirrorlk | 1,557
 virakesarilk | 1,768
-dailymirrorlk | 1,952
+dailymirrorlk | 1,955
 adaderanasinhalalk | 2,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,779 (100.0%) of 12,782 articles have been extended.
+12,782 (100.0%) of 12,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### ළහිරු තිරිමාන අනතුරක
+### Lahiru Thirimana in danger
 
 *2024-03-14 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194491) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායමේ හිටපු ක්‍රිකට් ක්‍රීඩක ළහිරු තිරිමාන්න ගමන් ගත් මෝටර් රථය අනුරාධපුරයේ, තිරප්පනේ ප්‍රදේශයේ දී ලොරියක ගැටී අනතුරක් සිදුව තිබේ.
+Lahiru Thirimanne, a prominent figure in Sri Lanka, was involved in a car accident in Anuradhapura, suffering injuries.
 
-ඉන් ළහිරු තිරිමාන සුළු තුවාල ලබා ඇති බව පොලිස් ප්‍රකාශකයෙක් පැවසීය.
+🟩
+
+Lahiru Thirimanne Car of Sri Lanka, Lahiru Thirimanne, has clashed in the Thirappane area in Anuradhapura.
+
+A police spokesman said that Lahiru Thirimana has been injured.
 
 ◼️
 
 [Data](articles/def4e727.json)
 
+[Extended Data](ext_articles/def4e727.ext.json)
+
 ---
 
-### උතුරු කොරියානු නායකයා යුද ටැංකියක් පදවයි
+### Hope to import vehicles gradually from next year: President
+
+*2024-03-14 09:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Hope-to-import-vehicles-gradually-from-next-year-President/155-278840) · `en`
+
+Colombo, March 14 (Daily Mirror) - President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting from next year.
+
+The President made these remarks while attending a gathering organized by the United Youth Union, titled "Future of the Youth," held yesterday (12) at Taprobane Entertainment.
+
+"I cannot see vehicle imports happening this year, but we would like to do it gradually starting next year," he said.
+
+The President said that he knows there is a problem in the existing car market, but under the balance of payments, the government has allowed the import of everything other than vehicles.
+
+"If the import of cars are allowed, then there is a possibility of the country going backwards, but we hope to import vehicles in a systematic, step-by-step manner. We will import essential types of vehicles as the first step," he said.
+
+This year, the government allowed buses to be imported to transport tourists, he said.
+
+...
+
+[Data](articles/3d76d3a2.json)
+
+---
+
+### North Korean leader drives a tank
 
 *2024-03-14 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194490) · `si`
 
-උතුරු කොරියාව විසින් නිෂ්පාදනය කරන ලද නවීන මාදිලියේ යුද ටැංකියක් හමුදා අභ්‍යාසයකදී පැදවීමට එරට ජනාධිපති කිම් ජොන්ග් අන් කටයුතු කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+North Korean leader Kim Jong Un drives a new tank during a military exercise, showcasing North Korea's military strength. This comes after South Korea and the US conducted a joint war exercise.
 
-දකුණු කොරියාව සහ අමෙරිකාව පසුගිය දින කිහිපයේදී ඒකාබද්ධ යුද අභ්‍යාසයක් සිදුකළ අතර එයට ප්‍රතිචාර ලෙස උතුරු කොරියාව සිය ශක්තිය ප්‍රදර්ශනය කර ඇති බව සඳහන් ය.
+🟩
 
-නව යුද ටැංකියේ ප්‍රහාරක හැකියාව ගැන උතුරු කොරියානු නායකයා සංතෝෂ වී තිබුණි.
+International media reports that President Kim Jong has done a manufactured tank in a military exercise manufactured by North Korea.
+
+South Korea and the US have made a joint war exercise in the past few days, and North Korea has shown its strength.
+
+The North Korean leader had been found in the new tank attack on attacks.
 
 ◼️
 
 [Data](articles/97af0b29.json)
+
+[Extended Data](ext_articles/97af0b29.ext.json)
+
+---
+
+### Railway ticket, seat reservations only through online system
+
+*2024-03-14 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-ticket-seat-reservations-only-through-online-system/108-278838) · `en`
+
+Colombo, March  14 (Daily Mirror) - The Railways Department has launched the process of train tickets and seat reservations only through the online system from today.
+
+The official launch of this programme was held this morning at the Colombo Fort Railway station with the participation of Transport Minister Bandula Gunawardana.
+
+Accordingly, ticket reservations, seat reservations and train travel by reserved e-tickets were launched.
+
+Online ticket reservations will be made utilising an OTP code. Commuters can reserve their tickets and seats online through the link: http://seatreservation.railway.gov.lk/
+
+Due to this online system comuters need not stand in queues at railway stations and Government employees too can reserve their warrant tickets through the new system.
+
+...
+
+[Data](articles/329e0889.json)
+
+---
+
+### Gunshots fired at a house in Ambalangoda
+
+*2024-03-14 09:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gunshots-fired-at-a-house-in-Ambalangoda/108-278839) · `en`
+
+Ambalangoda, March 14 (Daily Mirror) - Gunshots had been fired at a house of notorious underworld figure and drug trafficker Agampodi Sajith Saman Priyantha alias 'Samankolla', in Idanthota, Ambalangoda during the early hours of this morning.
+
+Police said no injuries were reported in the shooting incident.
+
+However, multiple bullets had struck the walls and door of the house while Samankolla's mother and three sisters were reportedly inside at the time.
+
+Two individuals had reportedly arrived on a motorcycle, opened fire with a suspected T-56 assault rifle and fled.
+
+◼️
+
+[Data](articles/3965906b.json)
 
 ---
 
@@ -519,6 +591,18 @@ Several key individuals, including former Health Minister Keheliya Rambukwella, 
 [Data](articles/0db37a21.json)
 
 [Extended Data](ext_articles/0db37a21.ext.json)
+
+---
+
+### New High Commissioner of Pakistan to Sri Lanka
+
+*2024-03-14 05:04:40* · [`dailyftlk`](https://www.ft.lk/news/New-High-Commissioner-of-Pakistan-to-Sri-Lanka/56-759471) · `en`
+
+The Government of the Islamic Republic of Pakistan with the concurrence of the Government of Sri Lanka has appointed Major General (Retd.) Faheem Ul Aziz as High Commissioner of the Islamic Republic of Pakistan to Sri Lanka based in Colombo. He presented his credentials to President Ranil Wickremesinghe on Tuesday at the President’s House, Colombo
+
+◼️
+
+[Data](articles/3483778b.json)
 
 ---
 
@@ -1484,21 +1568,29 @@ She is an alumnus of Royal College and holds a Bachelor of Science in Physics at
 
 ---
 
-### මෑත කාලයේ වැඩිම ක්ෂය රෝගීන් පසුගිය වසරේදී
+### The highest highest highest highest number of tuberculosis patients in recent years last year
 
 *2024-03-13 19:44:05* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-කාලයේ-වැඩිම-ක්ෂය-රෝගීන්-පසුගිය-වසරේදී/11-408598) · `si`
 
-පසුගිය වසර තුළදී ක්ෂය රෝගීන් 9358 දෙනෙකු මෙරටින් වාර්තා වී ඇති අතර එය මෑත කාලය තුළ මෙරටින් වාර්තා වූ වැඩිම රෝගීන් සංඛ්‍යාව වන බවට සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේදී ඊයේ (13දා) පැවති මාධ්‍ය හමුවකදී අනාවරණය විය.
+In Sri Lanka, 9358 tuberculosis cases were reported last year, with the highest number in the Western Province, especially in Colombo. Two deaths occur daily. Dr. Staithana Shanthiladu highlighted symptoms and the importance of timely treatment.
 
-එසේම මේ වනවිට හඳුනාගත් ක්ෂය රෝගීන්ගෙන් දිනකට දෙදෙනෙකු මිය යන බවද එහිදී අවධාරණය කෙරිණ.
+🟩
 
-ඒ අනුව බස්නාහිර පළාත තුළින් වැඩිම ක්ෂය රෝගීන් සංඛ්‍යාවක් හඳුනාගෙන ඇත. එහිදී කොළඹ මහ නගර සභා සීමාව තුළින් වැඩිම රෝගීන් පිරිසක් හඳුනාගෙන ඇති බවද සඳහන්ය.
+Over the past year, 9358 tuberculosis patients were reported in Sri Lanka yesterday (13) at a media bureau of the Health Promotion.
 
-මේ මස 24 වැනිදාට යෙදෙන ලෝක ක්ෂය රෝග දිනය වෙනුවෙන් මෙම මාධ්‍ය හමුව පැවති අතර ඊට එක්වෙමින් ක්ෂය රෝග මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂ, වෛද්‍ය ප්‍රමිතා ශාන්තිලතා මහත්මිය සඳහන් කර සිටියේ සියලු දිස්ත්‍රික් ළය සායන සහ රජයේ සෞඛ්‍ය ආයතනවලදී ක්ෂය රෝග සඳහා වූ පරීක්ෂණ නොමිලේ සිදු කරවා ගත හැකි බවයි.
+It was also stated that two people die daily a day.
 
-...
+Accordingly, the highest number of tuberculosis patients in the Western Province has been identified. The highest number of patients have been identified through the Colombo Municipal Council limits.
+
+The media briefing was held on the 24th of this month, while participating in the Director of Tuberculosis, Dr. Staithana Shanthiladu, said.
+
+Symptoms of lungs, deemptity, excessive fatal, and sweat, exhausts, excessively extinguishing, excessively extinguishing, excessively extinguishing, excessively extinguishing, excessively extinguishing, excessive breathing, and sweat, and slow. However, proper medical treatment can be fully cured by the disease through proper time. World Tuberculosis Theme% Yes, we can eliminate tuberculosis ^.
+
+◼️
 
 [Data](articles/3e2a391e.json)
+
+[Extended Data](ext_articles/3e2a391e.ext.json)
 
 ---
 
@@ -2115,101 +2207,5 @@ Also, if you want to ask further information, the Department of Postal Departmen
 [Data](articles/2d6dde33.json)
 
 [Extended Data](ext_articles/2d6dde33.ext.json)
-
----
-
-### Kavan Ratnayake appointed as BOC Chairman
-
-*2024-03-13 17:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kavan-Ratnayake-appointed-as-BOC-Chairman/108-278786) · `en`
-
-Colombo, March 13 (Daily Mirror)- Top professional Kavan Ratnayaka has been appointed as the Chairman of the State-run Bank of Ceylon (BOC), the bank announced today.
-
-In a filing to the Colombo Stock Exchange (CSE), BoC said the new Chairman will take over his duties with effect from tomorrow (14). Ratnayaka takes over the position from Ronald C Perera, PC, who stepped down as Chairman yesterday.
-
-Ratnayake had earlier served as Chairman of the Sri Lanka Ports Authority, the Sri Lanka Tourism Development Authority, and the Associated Newspapers of Ceylon (Lake House). He has also served as the Country General Manager of IBM Sri Lanka, Chief Executive Officer of Dialog Broadband, and the Chief Corporate Officer of Dialog Axiata PLC.
-
-An old boy of Royal College, he holds a Bachelor of Science degree in Physics from the University of California.
-
-◼️
-
-[Data](articles/3fe6a713.json)
-
-[Extended Data](ext_articles/3fe6a713.ext.json)
-
----
-
-### Sri Lanka president to contest election under new alliance: Harin
-
-*2024-03-13 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-contest-election-under-new-alliance-harin-154538/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe will contest the presidential election from a new alliance, Tourism Minister Harin Fernando said.
-
-“The president will be nonpartisan. He will contest from a separate alliance,” Fernando told reporters.
-
-“Wait a little. It’ll happen,” he said, presumably to a question about why the president still hasn’t officially announced his intention to contest.
-
-Fernando also claimed that most people supporting the National People’s Power (NPP) are those who enthusiastically voted for another party in 2019.
-
-“People think they’ll be cleansed of their sins if they attack us and throw their lot in with a new party. But if you look closely, most people supporting the NPP are those who enthusiastically voted in 2019 and have now gone to that side. It’s not the same 3 percent that was there then,” he said.
-
-The minister also had a word of caution for NPP leader Anura Kumara Dissanayake who intends to contest the presidential poll on the NPP ticket.
-
-...
-
-[Data](articles/f5d637bb.json)
-
-[Extended Data](ext_articles/f5d637bb.ext.json)
-
----
-
-### Do not touch the cat that falls into the chemical tank;Warning people in Japan
-
-*2024-03-13 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178621) · `ta`
-
-A cat fell into a chemical tank in Japan, exposing it to Hexavalent Chromium, a poisonous substance. People were warned to avoid pets, and the factory's response highlighted the need to prevent animals from entering chemical areas.
-
-🟩
-
-The cat has fallen into a tank containing poisonous chemicals in the western city of Japan.
-
-As a result, people there have been warned to stay away from pets.
-
-The cat is said to have fallen into the tank containing a chemical called Hexavalent Chromium, a high acidity of orange and brown.
-
-It has been warned that this chemical can cause disease, including cancer.
-
-The incident has revealed that an employee at a placing worker at Fukayama and Namura factory found the cat's footsteps.
-
-In this case, the people of Fukuyama have been advised to quit pets, including cats.. It is also reported that the cat may have died.
-
-We did not expect this incident. The factory administration said that the incident has made us realize the need to take steps to prevent small animals from entering them.
-
-◼️
-
-[Data](articles/4c8155f6.json)
-
-[Extended Data](ext_articles/4c8155f6.ext.json)
-
----
-
-### Ex-LTTE member arrested with Kerala cannabis worth over Rs. 1 mn
-
-*2024-03-13 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/97928/ex-ltte-member-arrested-with-kerala-cannabis-worth-over-rs-1-mn) · `en`
-
-A former member of the Liberation Tigers of Tamil Eelam (LTTE) has been arrested while transporting 3 kilograms of Kerala cannabis from Kilinochchi to Matara by bus.
-
-The arrest was made in a joint operation carried out by the Army Intelligence Unit and the Sri Lanka Police Special Branch in Matara.
-
-Preliminary investigations have revealed that the stock of Kerala cannabis with an estimated street value of over Rs. 01 million, has been transported from the Kilinochchi area to Matara by bus.
-
-Police said that the arrested suspect was identified as a former member of the LTTE, who was imprisoned for several years since 2005, and had later been released.
-
-Onward legal action regarding the arrested suspect and the seized stock of cannabis is conducted by the Police Special Branch in Matara, according to Sri Lanka Police.
-
-◼️
-
-[Data](articles/2c161d53.json)
-
-[Extended Data](ext_articles/2c161d53.ext.json)
 
 ---

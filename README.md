@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 08:17:40**
+As of **2024-03-14 08:33:40**
 
 ## Newspaper Stats
 
-*Scraped **12,766** Articles*
+*Scraped **12,767** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 122
-bbccomsinhala | 144
+bbccomsinhala | 145
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 661
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,015
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,765 (100.0%) of 12,766 articles have been extended.
+12,766 (100.0%) of 12,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ He said that neither the information related to the raids made in the North and 
 ...
 
 [Data](articles/f0bfaaef.json)
+
+[Extended Data](ext_articles/f0bfaaef.ext.json)
 
 ---
 
@@ -523,6 +525,32 @@ A new IPS study highlights Sri Lanka’s opportunity to become part of the EV ba
 [Data](articles/d0d34356.json)
 
 [Extended Data](ext_articles/d0d34356.ext.json)
+
+---
+
+### අන්තර්ජාල මෙවලම් හෝ  පරිගණක ක්‍රීඩා වෙත ඇබ්බැහි වී සිටින දරුවෙකු ඉන් මුදා ගන්නේ කෙසේ ද?
+
+*2024-03-14 02:03:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c720jp779x5o) · `si`
+
+අන්තර්ජාල මෙවලම් හෝ  පරිගණක ක්‍රීඩා වෙත ඇබ්බැහි වී සිටින දරුවෙකු ඉන් මුදා ගන්නේ කෙසේ ද?
+
+ඔබේ දරුවාට කුඩා කාලයේ ආහාර දීමට හෝ නිහඬ කරවා ගැනීමට දරුවා අතට දෙන ජංගම දුරකතනය නිසා දරුවාගේ ජීවිතය පවා අහිමි විය හැකි අවදානමක් ඇති බව ඔබ දන්නවා ද?
+
+එය වටහා ගැනීම සඳහා පහතින් පැහැදිලි කරන සත්‍ය සිදුවීම දෙස බලමු.
+
+පානදුර ප්‍රදේශයේ පදිංචි 19 හැවිරිදි පිරිමි දරුවෙකුගේ දෙමාපියෝ ඛේදනීය අත්දැකීමකට මුහුණ දෙමින් සිටිති.
+
+සිය පුත්‍රයා ගෙවන ජීවිතය පිළිබඳව ඔහුගේ මව මෙලෙස පැහැදිලි කළා ය.
+
+"පුතා පාන්දර වෙනකම් ගේම්ස් ගහනවා. උදේට නැගිටින්නෙ නෑ. කෑම කන්නෙ නෑ. උදේ නැගිටින්නෙ නැති නිසා කිසි ම දෙයක් කරන්න බැහැ. එයාව කම්පියුටර් කෝස් එකකට දැම්මා. ඒකට යන්නත් බෑ. එයාට රස්සාවකට යන්න විදිහකුත් නෑ. මොනව කරන්න ද කියලා හිතාගන්න බැරුව අපි ඉන්නේ."
+
+අදාළ දරුවාගේ මව පවසා ඇති සියලු ලක්ෂණවලින්, පරිගණක ක්‍රීඩාවලට ඇබ්බැහි වූවන් ගෙවන දෛනික ජීවිතය කියා පායි.
+
+ඒ, පරිගණකය හෝ ජංගම දුරකතනය ඔහුගෙන් ඉවත් කිරීමට තැත් කිරීම සිය දිවි හානි කර ගැනීමක් දක්වා දුරදිග යාමට ඉඩ ඇති බැවිනි.
+
+...
+
+[Data](articles/7a9a4888.json)
 
 ---
 
@@ -1744,7 +1772,9 @@ ECONOMYNEXT – Sri Lanka will import sailfish (thalapath) from Singapore, State
 
 De Silva said the aim was to supply good quality fish at a good price to consumers without negatively impacting local fisherman.
 
-“We will be importing fish from Singapore, through the Ceylon Fisheries Corporation,” De Silva said. “This is necessary to meet the consumption needs, especially from hospitals.” (Colombo/Mar13/2024)
+“We will be importing fish from Singapore, through the Ceylon Fisheries Corporation,” De Silva said. “This is necessary to meet the consumption needs, especially from hospitals.”
+
+SriLankans need state permission to import some foods. The country has a heavy economic nationalist ideology, partly driven by monetary instability (to save foreign exchange). (Colombo/Mar13/2024)
 
 ◼️
 
@@ -2002,11 +2032,11 @@ In the eight people arrested, the temple was launched by the temple, T.Madimukar
 
 ---
 
-### Sri Lanka violated 16 IMF agreements, latest deal must be honoured: minister
+### Sri Lanka failed 16 IMF agreements, latest deal must be honoured: minister
 
 *2024-03-13 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-violated-16-imf-agreements-latest-deal-must-be-honoured-minister-154526/) · `en`
 
-ECONOMYNEXT — Sri Lanka violated all 16 of its past agreements with the International Monetary Fund (IMF) and if the current agreement is also not honoured, the situation could get macarbe, according to Transport Minister Bandula Gunawardena.
+ECONOMYNEXT — Sri Lanka violated all 16 of its past agreements with the International Monetary Fund (IMF) and if the current agreement is also not honoured, the situation could get macabre, according to Transport Minister Bandula Gunawardena.
 
 “The previous 16 agreements with the IMF were all violated. It was after violating the agreements that the country went bankrupt. If we violate the agreement again even after bankruptcy, the country will not last. Besides killing each other, there will be no alternative,” Gunawardena said speaking to reporters.
 
@@ -2237,35 +2267,5 @@ Patrick Pickering, the Second Secretary (Political) of the Canadian High Commiss
 [Data](articles/485b0612.json)
 
 [Extended Data](ext_articles/485b0612.ext.json)
-
----
-
-### 10 years rigorous imprisonment for sexually abusing girl
-
-*2024-03-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178640) · `ta`
-
-A 52-year-old man, Baruch Mohamed Salit, was sentenced to 10 years in prison for sexually abusing a girl in Nanuoya, Sri Lanka, in 2011. The Nuwara Eliya High Court's verdict, issued by Judge Viraj Weerasuriya on March 13, 2014, also ordered the man to pay 15,000 rupees and serve an additional three months in prison.
-
-🟩
-
-The Nuwara Eliya High Court has sentenced a 10 -year -old jail sentence to a 10 -year -old man, who was accused of sexually abusing a school girl in Nanuoya police division, for allegedly sexually abusing the Nuwara Eliya High Court.
-
-Nuwara Eliya High Court Judge Viraj Weerasuriya issued the verdict on Wednesday (13.03.2014).
-
-In 2011, a man named Baruch Mohamed Salit, a native of Nanuoya, had sexually abused a school girl under the age of 16 in the same area.
-
-In this case, the girl's parents were informed of the incident and a complaint was lodged at the Nanuoya police station.
-
-The verdict on the case was issued on Wednesday (13) as a case was filed in the Nuwara Eliya High Court.
-
-Nuwara Eliya High Court Judge Viraj Weerasuriya sentenced a 10 -year -old rigorous imprisonment of Baruch Mohamed Salid (age 52), a man who was found guilty of evidence against the culprit.
-
-At the same time, the judge ruled that the victim should be paid a compensation of Rs.
-
-...
-
-[Data](articles/b4d07695.json)
-
-[Extended Data](ext_articles/b4d07695.ext.json)
 
 ---

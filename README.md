@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 11:02:54**
+As of **2024-03-14 11:18:03**
 
 ## Newspaper Stats
 
-*Scraped **12,798** Articles*
+*Scraped **12,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 680
 islandlk | 699
-adalk | 1,093
-adaderanalk | 1,538
+adalk | 1,094
+adaderanalk | 1,539
 tamilmirrorlk | 1,557
 virakesarilk | 1,774
 dailymirrorlk | 1,957
@@ -26,65 +26,119 @@ adaderanasinhalalk | 2,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,791 (99.9%) of 12,798 articles have been extended.
+12,798 (100.0%) of 12,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### முல்லைத்தீவு - புதுக்குடியிருப்பில் விஷேட சோதனை நடவடிக்கை
+### Another shooting reported in Ambalangoda
+
+*2024-03-14 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97940/another-shooting-reported-in-ambalangoda) · `en`
+
+An unidentified person has opened fire at the house of notorious drug trafficker and underworld criminal figure Agampodi Sajith Saman Priyantha alias “Saman Kolla” in the Ponaduwa area of Idantota, Ambalangoda early this morning (March 14).
+
+Police stated that no casualties or injuries were reported following the incident.
+
+However, it is reported that several gunshots have been fired at a wall and the door of the house, the police said, adding that the mother and three sisters of “Saman Kolla” were present in the house at the time of the incident.
+
+◼️
+
+[Data](articles/c491f07b.json)
+
+---
+
+### Lahiru Thirimanna crashes into a car lorry
+
+*2024-03-14 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178686) · `ta`
+
+Sri Lankan cricketer Lahiru Thirimanna's car crashed into a lorry in Anuradhapura, injuring three lorry drivers and another person. Accident occurred at 7.45 am today.
+
+🟩
+
+A car traveling by Sri Lankan cricketer Lahiru Thirimanna in Drappana area in Anuradhapura, Anuradhapura, crashed into a lorry.
+
+Three drivers of the lorry and the other person were injured and admitted to the hospital. The accident occurred at 7.45 am today (14).
+
+◼️
+
+[Data](articles/317dae60.json)
+
+[Extended Data](ext_articles/317dae60.ext.json)
+
+---
+
+### Mullaitivu - Pudukudiyiruppu special testing action
 
 *2024-03-14 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178687) · `ta`
 
-முல்லைத்தீவு புதுக்குடியிருப்பு பகுதியில் பொலிஸார் மற்றும் விஷேட அதிரடி படையினர் இணைந்து விஷேட சோதனை நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+Police and STF conducted a special inspection in Mullaitivu Pudukkudiyiruppu, focusing on drug and underworld activities, without recovering any suspicious items.
 
-நாட்டில் போதைப்பொருள் மற்றும் பாதாள உலகக் குழுக்களின் செயற்பாடுகளை கட்டுப்படுத்துவதற்காக பொலிஸாரால் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் விசேட நடவடிக்கையான ‘யுக்திய’வின் ஒரு பகுதியாகவே புதுக்குடியிருப்பு பிரதேசத்தில் விசேட போக்குவரத்து சோதனை நடவடிக்கை நேற்று புதன்கிழமை (13) மாலை முன்னெடுக்கப்பட்டிருந்தது.
+🟩
 
-எனினும் குறித்த  நடவடிக்கையில் பொலிஸார், விஷேட அதிரடி படையினர் ஆகியோர் இச்சோதனை நடவடிக்கையில் ஈடுபட்டிருந்ததுடன்  எதுவிதமான சந்தேகத்திற்கிடமான பொருட்களும் மீட்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது.
+Police and Special Task Force (STF) were engaged in a special inspection of the Mullaitivu Pudukkudiyiruppu area.
+
+A special traffic inspection operation was carried out on Wednesday evening in Pudukkudiyiruppu area as part of a specialist in the country, which is being carried out by the police to curb the activities of drugs and underworld groups in the country.
+
+However, the police and the Special Task Force (STF) were involved in the inspection and no suspicious items were recovered.
 
 ◼️
 
 [Data](articles/47494863.json)
 
+[Extended Data](ext_articles/47494863.ext.json)
+
 ---
 
-### එංගලන්ත ප්‍රබලයෙක් IPL තරගාවලියෙන් ඉවත්වෙයි
+### An England Prabal is quitting the IPL tournament
 
 *2024-03-14 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194492) · `si`
 
-එංගලන්ත කණ්ඩායමේ ප්‍රබල පිතිකරුවෙක් එළඹෙන ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියෙන් ඉවත් වී තිබේ.
+England's Prabal quits IPL due to grandfather's death. Delhi Capitals, bought at IPL Auction, yet to announce replacement. Prabal's absence was due to his grandfather's passing, a shock since childhood.
 
-සිය මිත්තනියගේ මරණය හේතුවෙන් තරගාවලියෙන් ඉවත්වීමට තමා තීරණය කළ බව නිවේදනයක් නිකුත් කරමින් ඔහු පැවසීය.
+🟩
 
-පසුගියදා පැවති ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රීඩක වෙන්දේසියේදී දිල්ලි කැපිටල්ස් කණ්ඩායම විසින් ඉන්දීය රුපියල් කෝටි 4කට හැරී බෘෘක් ව මිලදී ගනු ලැබීය.
+A powerful batsman of the England team has left the Indian Premier League.
 
-කෙසේවෙතත් හැරී බෘෘක් වෙනුවට කණ්ඩායමට ඇතුළත් කෙරෙන ක්‍රීඩකයා පිළිබඳ දිල්ලි කැපිටල්ස් කණ්ඩායම මෙතෙක් නිල වශයෙන් වාර්තා කර නොමැත.
+He made an announcement that he decided to leave the tournament due to his grandfather's death.
 
-සිය මිත්තනිය පසුගිය මාසයේ මියගිය බැවින් තමා එම තීරණය ගත් බවත් එංගලන්ත පිතිකරුවා පැවසීය.
+The Delhi Cesitals team was taken to the Indian Paddy Ceylon Tax at the recently held Indian Premier League Auction.
 
-තමා කුඩා කාලයේ පටන් සිය මිත්තනිය තමාගේ සෙවණැල්ල මෙන් කටයුතු කළ බව බෘෘක්, එබැවින් එම මරණය තමාට බෙහෙවින් කම්පාව ඇතිකළ සිදුවීමක් බවත් කීය.
+However, Delhi Cesitals team has not yet officially reported the player who is being replaced by Brwk.
 
-බෘෘක් ගේ මිත්තනිය මාස කිහිපයක් අසනීපව සිටි අතර එබැවින් ඔහු ඉන්දියාව සමග පැවති තරග 5කින් සමන්විත ටෙස්ට් තරගාවලියට ද සහභාගී නොවීය.
+The British batsman said that his grandfather died last month.
+
+Brub, then, that death was a great deal of shock to her grandfather since childhood.
+
+Bruk's grandmother was sick for several months, and he did not participate in the five-match Test series with India.
 
 ◼️
 
 [Data](articles/90e6cbb3.json)
 
+[Extended Data](ext_articles/90e6cbb3.ext.json)
+
 ---
 
-### வவுனியாவில் நெல் ஏற்றிச்சென்ற வாகனம் குடைசாய்ந்தது ; ஒருவர் காயம்
+### In Vavuniya, a paddy -loaded vehicle crashed;One injury
 
 *2024-03-14 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178689) · `ta`
 
-வவுனியா புளியங்குளம் பகுதியில் நெல் மூடைகளை ஏற்றிச்சென்ற வாகனம் குடைசாய்ந்து விபத்திற்குள்ளானதில் ஒருவர் காயமடைந்தார். குறித்த விபத்து புதன்கிழமை (13) மாலை இடம்பெற்றது.
+In Vavuniya, a paddy-loaded vehicle crashed, injuring one person. The accident occurred on Wednesday evening near Puliyankulam, as the vehicle was traveling from Mullaitivu to Vavuniya.
 
-முல்லைத்தீவிலிருந்து நெல் மூடைகளை ஏற்றிக்கொண்டு வவுனியா நோக்கிவந்துகொண்டிருந்த கென்ரர் ரக வாகனம் புளியங்குளம் சந்திக்கு அண்மையில் சென்றுகொண்டிருந்த போது வீதியை விட்டு விலகி குடைசாய்ந்து விபத்திற்குள்ளானது.
+🟩
 
-விபத்தில் வாகனத்தில் பயணித்த ஒருவர் காயமடைந்தார்.வாகனத்தின் முன்சக்கரம் வெடித்ததில் குறித்த விபத்து இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+One person was injured when a vehicle loaded with paddy bins in Puliyankulam in Vavuniya. The accident took place on Wednesday (13) evening.
+
+The vehicle of the Kenra rod, which was traveling from Mullaitivu to Vavuniya, crashed into the Puliyankulam junction and crashed into the road.
+
+A man was injured in the accident.
 
 ◼️
 
 [Data](articles/a372adc0.json)
+
+[Extended Data](ext_articles/a372adc0.ext.json)
 
 ---
 
@@ -110,19 +164,7 @@ If the bill does manage to secure approval in the Senate, President Joe Biden ha
 
 [Data](articles/2b7a8ada.json)
 
----
-
-### லஹிரு திரிமான்ன பயணித்த கார் லொறியுடன்  மோதி  விபத்து!
-
-*2024-03-14 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178686) · `ta`
-
-அநுராதபுரம், திரப்பன பகுதியில் இலங்கையின் முன்னாள் கிரிக்கெற் வீரர் லஹிரு திரிமான்ன பயணித்த கார், லொறியுடன்  மோதி விபத்துக்குள்ளானது.
-
-விபத்தில் காரில் பயணித்த மூவரும் லொறியின் சாரதியும் மற்றுமொருவரும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இந்த விபத்து இன்று வியாழக்கிழமை (14) காலை 7.45 மணியளவில் இடம்பெற்றுள்ளது.
-
-◼️
-
-[Data](articles/317dae60.json)
+[Extended Data](ext_articles/2b7a8ada.ext.json)
 
 ---
 
@@ -148,17 +190,23 @@ According to the statement issued by the Sri Lanka Bankers Association, they hav
 
 ---
 
-### பசில் மற்றும் ஹக்கீமை சந்தித்தார் இந்தியத் தூதுவர் சந்தோஷ் ஜா
+### Indian Ambassador Santosh Ja met Basil and Hakeem
 
 *2024-03-14 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178685) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் பசில் ராஜபக்ச மற்றும் ஸ்ரீ லங்கா முஸ்லிம் காங்கிரசின் தலைவர் ரவூப் ஹக்கீம் ஆகியோரை இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா புதன்கிழமை (13) தனித்தனியாக சந்தித்து கலந்துரையாடியுள்ளார்.
+Indian Ambassador Santosh Ja met with Sri Lanka's National Organizer Basil Rajapaksa and Sri Lanka Muslim Congress President Rauf Hakeem to discuss political activities.
 
-இந்த சந்திப்பின்போது அரசியல் நடவடிக்கைகள் உள்ளிட்ட பல்வேறு  விடயங்கள் குறித்து ஆராயப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja on Wednesday met with Sri Lanka's National Organizer Basil Rajapaksa and Sri Lanka Muslim Congress President Rauf Hakeem on Wednesday (13).
+
+It is noteworthy that various issues, including political activities, have been examined during this meeting.
 
 ◼️
 
 [Data](articles/9400045a.json)
+
+[Extended Data](ext_articles/9400045a.ext.json)
 
 ---
 
@@ -546,6 +594,22 @@ Speaking at a media brief in the Health Promotion Bureau, Dr. Ms. Ms. Ms. Ms. Ms
 
 ---
 
+### ප්‍රතිදේහ එන්නත් වංචාවට තවත් වෛද්‍යවරයෙක් අල්ලයි
+
+*2024-03-14 07:43:50* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රතිදේහ-එන්නත්-වංචාවට-තවත්-වෛද්‍යවරයෙක්-අල්ලයි/11-408600) · `si`
+
+ව්‍යාජ ලේඛන යොදාගෙන ප්‍රතිදේහ එන්නත් සපයා වංචා කිරීම සම්බන්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් වෛද්‍යවරයෙක් අත්අඩංගුව ගෙන තිබේ.
+
+සෞඛ්‍ය අමාත්‍යාංශය වෙත ව්‍යාජ ලේඛන ඉදිරිපත් කරමින් නියමිත ක්‍රම වේදයෙන් තොරව HUMAN IMMUNOGLOBULIN නැවැති ප්‍රතිදේහ එන්නත් ව්‍යාජ ලේඛණ යොදා ගනිමින් වෛද්‍ය සැපයුම් අංශය වෙත සපයා වංචා කිරීම සම්බනධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ආරම්භ කර ඇති විමර්ශනවලට සමගාමීව මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+
+ඒ අනුව අදාළ සිදුවීම සම්බන්ධයෙන් ඊයේ (13දා) අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව වෙත ප්‍රකාශයක් ලබා දීමට පැමිණි වෛද්‍යවරයෙක් ව්‍යාජ ලේඛන යොදා ගෙන ප්‍රතිදේහ එන්නත් සපයා වංචා කිරී සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/1a9a908e.json)
+
+---
+
 ### After deal went sour between Excise and liquor manufacturers: Harsha De Silva
 
 *2024-03-14 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-deal-went-sour-between-Excise-and-liquor-manufacturers-Harsha-De-Silva/108-278818) · `en`
@@ -620,19 +684,25 @@ Underscoring the need to find new avenues to further improve trade and investmen
 
 ---
 
-### ,ලබන වසරේ සිට පියවරෙන් පියවර මෝටර් රථ ආනයනයට අවසර
+### Permission to Import Car Vehicle Import of Motor Vehicles from next year
 
 *2024-03-14 07:18:48* · [`adalk`](https://www.ada.lk/breaking_news/-ලබන-වසරේ-සිට-පියවරෙන්-පියවර-මෝටර්-රථ-ආනයනයට-අවසර/11-408599) · `si`
 
-ලබන වසරේ සිට ක්‍රමානුකූලව මෝටර් රථ ආනයනය කිරීමට කටයුතු කරන බව ජනපති රනිල් වික්‍රමසිංහ මහතා පවසයි. ඔහු පෙන්වා දෙන්නේ මෝටර් රථ ආනයනයට මේ අවස්ථාවේදී අවසර ලබාදුනහොත් රට ආපස්සට ගමන් කරනු ඇති බවයි. තරුණ හමුවක් අතර තුර ජනපතිවරයාට යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු  මේ බව පැවැසීය.
+Ranil Wickremesinghe plans to systematically import cars from next year, focusing on essential vehicles first, despite challenges.
 
-"ලබන වසරේ සිට අපි එය ක්‍රමානුකූලව සිදු කිරීමට බලාපොරොත්තු වෙනවා. මෝටර් රථ වෙළඳපොලේ පවතින ගැටළු පිළිබඳ මම දැනුවත්. නමුත් තවමත් අපගේ ගෙවුම් ශේෂය යහපත් තත්ත්වයක නැහැ. අපි මෝටර් රථ ආනයනය හැර අනෙක් සියල්ලට ඉඩ දී තිබෙනවා.
+🟩
 
-මොටර් රථ ආනයනයනය සිදු වුවහොත් නැවත රට ආපස්සට ගමන් කිරීමට හැකියාව තිබෙනවා. නමුත් ලබන වසරේ සිට පියවරෙන් පියවර, මුලින්ම අත්‍යවශ්‍ය වාහන වර්ග ආනයනය කිරීමට අපි බලාපොරොත්තු වෙනවා. මේ වසරේ සංචාරකයින් ප්‍රවාහන සඳහා යොදා ගන්නා බස් රථ ආනයනයට අප අවසර දී තිබෙනවා."
+Ranil Wickremesinghe says that he will schedule the importation systematically from next year. He points out that if authorized to import car is allowed back at this time. He was responding to a question raised by the President during a young meeting.
+
+"We hope to progress it from next year. I am aware of the problems that exist in the car market. But still our payment balance is not good. We have allowed everything else but the importation of cars.
+
+If the import of motor vehicles, the country has the ability to back the country again. But from next year's step, we hope to import essential vehicles first. We have been allowed to import buses used for transportation this year. "
 
 ◼️
 
 [Data](articles/accfe335.json)
+
+[Extended Data](ext_articles/accfe335.ext.json)
 
 ---
 
@@ -2069,53 +2139,5 @@ The International Monetary Fund has been identified as a factor in the economic 
 [Data](articles/a3813bc7.json)
 
 [Extended Data](ext_articles/a3813bc7.ext.json)
-
----
-
-### Suspect with 3 crores of drugs
-
-*2024-03-13 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194473) · `si`
-
-A suspect in Modara was arrested with 1 kg of heroin, 950 kg of Kerala cannabis, and 950 grams of carala cannabis, along with drug manufacturing equipment. The suspect, from Haputale, admitted to being a part of a larger drug network.
-
-🟩
-
-A suspect has been arrested with a large haul of drugs worth over Rs.
-
-Modara police states that a suspect, "a suspect," has been arrested.
-
-With the suspect, one kilo of one kilogram of Horoin drugs and 950 kilograms of Kerala cannabis and 950 grams of carala cannabis, a drug manufacturer, electricity, and counting machine.
-
-A suspicious person had been raided by information that a suspicion was staying near Modara Bogaha Junction.
-
-The suspect, a resident of Haputale, has revealed that a larger drug dealer.
-
-Accordingly, a senior police officer said that the suspect will be submitted to court.
-
-◼️
-
-[Data](articles/dce5daac.json)
-
-[Extended Data](ext_articles/dce5daac.ext.json)
-
----
-
-### A motorcycle that suddenly burnt about
-
-*2024-03-13 18:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-பற்றி-எரிந்த-மோட்டார்-சைக்கிள்/175-334618) · `ta`
-
-A motorcycle parked for repair at Vathekama, Kandy, caught fire, causing a commotion.
-
-🟩
-
-A motorcycle parked for repairing a private station for vehicles in Vathekama, Kandy, suddenly burnt fire.
-
-The incident occurred when the people who had been repaired at the specified motorcycle were stopped at the specified station.. Remble
-
-◼️
-
-[Data](articles/4a23a3ed.json)
-
-[Extended Data](ext_articles/4a23a3ed.ext.json)
 
 ---

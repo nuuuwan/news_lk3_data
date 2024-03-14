@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 18:21:00**
+As of **2024-03-14 18:33:24**
 
 ## Newspaper Stats
 
-*Scraped **12,913** Articles*
+*Scraped **12,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
-islandlk | 699
+islandlk | 700
 adalk | 1,113
 adaderanalk | 1,555
 tamilmirrorlk | 1,575
@@ -26,29 +26,37 @@ adaderanasinhalalk | 2,042
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,910 (100.0%) of 12,913 articles have been extended.
+12,913 (100.0%) of 12,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### நிலூக்க கருணாரட்னவின் ஓய்வும், அறக்கட்டளை அங்குரார்ப்பணமும்
+### Niluka Karunaratne's retirement and Foundation
 
 *2024-03-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178743) · `ta`
 
-இலங்கையின் முன்னணி பட்மின்டன் வீரரும் ஒலிம்பியருமான நிலூக்க கருணாரட்ன, தனது ஓய்வை சம்பிரதாயபூர்வமாக அண்மையில் அறிவித்ததுடன் அதே தினத்தன்று தனது பெயரிலான மன்றத்தையும் ஆரம்பித்துவைத்தார்.
+Niluka Karunaratne, Sri Lanka's top badminton player, announced his retirement and launched the Nilakku Karunaratne Forum to support athletes. He won the National Badminton Champion title at 16, participated in the Olympic Games, and secured over 30 international medals.
 
-சுவிட்சர்லாந்தின் லுவாசேனில் அமைந்துள்ள சர்வதேச ஒலிம்பிக் குழுவின் தலைமையகத்தில் வைத்து கடந்த வருடம் அக்டோர் மாதம் தனது ஓய்வை நிலூக்க கருணாரட்ன உத்தியோகபூர்வமாக அறிவித்திருந்தார்.
+🟩
 
-எனினும் ஒலிம்பிக் இல்லத்தில் ஹேமசிறி பெர்னாண்டோ கேட்போர்கூடத்தில் (மார்ச் 7) நடைபெற்ற வைபவத்தின்போதே அவர் தனது ஓய்வை சம்பியரதாயபூர்வமாக அறிவித்தார்.
+Sri Lanka's leading Badminton player and Olympian Nilaka Karunaratne recently announced his retirement and launched his name on the same day.
 
-தனது 8ஆவது வயதில் பாட்மின்டன் விளையாட்டில் ஈடுபட ஆரம்பித்த நிலூக்க கருணாரட்ன 2001இல் தனது 16ஆவது வயதில் முதலாவது தேசிய பட்மின்டன் சம்பியன் பட்டத்தை சுவீகரித்தார்.
+Karunaratne officially announced his retirement in October last year at the headquarters of the International Olympic Committee in Luasen, Switzerland.
 
-மிக குறைந்த வயதில் தேசிய பட்மின்டன் சம்பியன் பட்டத்தை சுவீகரித்தவர் என்ற சாதனையை இன்றும் தன்னகத்தே கொண்டுள்ள நிலூக்கவின் தேசிய மற்றும் சர்வதேச பட்மின்டன் வாழ்க்கை கடந்த வருடம் முடிவுக்கு வந்தது.
+However, during the ceremony held at Hemasiri Fernando Auditorium (March 7) at the Olympic House, he announced his retirement.
+
+At the age of 8, Niluka Karunaratne, who began to engage in Badminton's game at the age of 8, won the first National Badminton Champion title at the age of 16 at the age of 16.
+
+Last year, the national and international Buttminton life of Nilukka, who is still self -sufficient, ended the record of the National Badminton Champion title at a very young age.
+
+Niluka Karunaratne, who has participated in the National and International Budminton Tournament for over 22 years, has participated in the Olympic Games of London 2012, Rio 2016 and Tokyo 2020.
 
 ...
 
 [Data](articles/33d38501.json)
+
+[Extended Data](ext_articles/33d38501.ext.json)
 
 ---
 
@@ -128,19 +136,29 @@ It is reported that another quantity of applications should be included in the d
 
 ---
 
-### வாகரையில் சிறுமியை பாலியல் துஷ்பிரயோகத்திற்குட்படுத்திய 4 சிறுவர்களுக்கு பிணை ; இளைஞனுக்கு விளக்கமறியல்
+### Bail for 4 boys who sexually abused the girl in Vaharai;Hypoalology
 
 *2024-03-14 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178737) · `ta`
 
-மட்டக்களப்பு வாகரையில் 7 வயது சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்திற்குட்படுத்தியமை தொடர்பாக கைது செய்யப்பட்ட 4 சிறுவர் உட்பட்ட 5 பேரில், 4 சிறுவர்களையும் பிணையில் விடுவித்ததுடன், 18 வயதுடைய இளைஞரை எதிர்வரும் 27 ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு வாழைச்சேனை நீதவான் நீதிமன்ற நீதவான் புதன்கிழமை (13) உத்தரவிட்டார்.
+A 13-year-old girl in Vaharai was sexually abused by three boys. The mother, who lost her husband, left her 7-year-old daughter alone and went to work. Initial investigations led to the arrest of five, including an 11-year-old, a 14-year-old, and a 15-year-old. The 18-year-old was released on bail until the 27th.
 
-வாகரை பொலிஸ் பிரிவிலுள்ள பிரதேசத்தில் கணவனை இழந்த தாயார் ஒருவர் அவரது 7 வயது மகளை வீட்டில் தனியாக விட்டுவிட்டு தினமும் வேலைக்கு சென்றுவரும் நிலையில் சிறுமியுடன் விளையாடிய 11 வயது சிறுவன் சிறுமியை பாலியல் துஸ்பிரயோகத்திற்குட்படுத்தியுள்ளார்.
+🟩
 
-இதனை தொடர்ந்து குறித்த சிறுவன் 14,15 மற்றும் 18 வயதுடைய சிறுவனின் நண்பர்களும் பாலியல் துஷ்பிரயோகம் மேற்கொண்டுள்ள நிலையில், இதனை அவதானித்த அந்தபகுதி இளைஞன் ஒருவர் சிறுமியின் தாயாருக்கு தெரியப்படுத்தியுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+The Valaichenai Magistrate's Court on Wednesday (13) ordered that the 18 -year -old youth be released on bail until the 27th of this month.
 
-...
+A mother who lost her husband in the Vaharai police division has left her 7 -year -old daughter alone and went to work with a girl.
+
+Initial investigations revealed that the boy's 14,15 and 18 -year -old boy had been sexually abused and a young man who observed the area was informed by the girl's mother.
+
+The victim's mother then appealed to the police and arrested five persons, including an 11 -year -old man, a 14 -year -old man and a 15 -year -old man, yesterday (13).
+
+The arrested persons were produced before the Valaichenai Magistrate's Court and the magistrate ordered the 18 -year -old to be remanded until the 27th of this month.
+
+◼️
 
 [Data](articles/6e50011a.json)
+
+[Extended Data](ext_articles/6e50011a.ext.json)
 
 ---
 
@@ -1938,27 +1956,37 @@ The Agriculture Minister stated that accordingly, at least two paddy purchasing 
 
 ---
 
-### අද සිට ඔන්ලයින් මගින් දුම්රිය ආසන වෙන්කර ගන්නේ කොහොමද ?
+### How to book Railway Seats from Today
 
 *2024-03-14 12:06:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5q14wpl5zo) · `si`
 
-අද (මාර්තු මස 14 වැනිදා) සිට දුම්රිය ආසන වෙන්කිරීම සම්පුර්ණයෙන්ම මාර්ගගත ක්‍රමය ඔස්සේ  කළ හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+From March 14, the Railway Department allows online reservation of railway seats. Passengers can book seats up to a month in advance. The new system enables 100% online reservation via the Railway Department website or mobile app. Seat reservations can also be made by calling Mobitel, Hutch, and Airtel. Public servants can reserve seats for free. The maximum number of seats one can reserve online is 5. For large numbers of seats, reservations can be made in the next three months.
 
-ඒ අනුව අද  (මාර්තු මස 14) රාත්‍රී 7.00 සිට මාර්ගගත ක්‍රමය ඔස්සේ දුම්රිය ආසන වෙන් කිරීම කළ හැකි බව එම දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+🟩
 
-මගීන් ගේ පහසුව වෙනුවෙන් දුම්රිය ආසන කලින් වෙන්කිරීම සම්පුර්ණයෙන් මාර්ගගත ක්‍රමය ඔස්සේ සිදුකිරීමට පියවර ගත් බව ද දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Railway Department says that the railway seat reservation from today (March 14) can be fulfilled.
 
-ඒ අනුව මසකට පෙර  තම දුම්රිය ගමන සඳහා කලින් ආසනයක් වෙන්කරවා ගැනීමට මගීන්ට අවකාශ ලැබෙනු ඇත.
+Accordingly, the railway seats will be reserved today (March 14) to the online system.
 
-දුම්රිය ආසන වෙන් කිරීමේ නව ක්‍රමවේදය ක්‍රියාත්මක වෙන්නේ කෙසේද ?
+The Railway Department states that the previous allocation of the railway seats were to be completed for the convenience of passengers.
 
-අද ( මාර්තු 14 වෙනිදා) සිට ක්‍රියාත්මක නව ක්‍රමවේදයට අනුව දුම්රිය ආසන වෙන් කිරීම දුම්රිය දෙපාර්තමේන්තුවට අයත් https://seatreservation.railway.gov.lk/mtktwebslr/ වෙබ් අඩවිය ඔස්සේ සිදුකළ හැකි බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ. ඉදිපොලගේ බීබීසී සිංහල වෙත පැවසුවේය.
+Accordingly, passengers will allow passengers to book a previous seat a month before.
 
-"දුම්රිය ආසන වෙන් කරවා ගැනීමේදී කොටසක් දුම්රිය ස්ථාන වලට ගිහිල්ලා බුක් කර ගන්න විදිහටත් අනිත් ප්‍රමාණය ඔන්ලයින් ක්‍රමවේදයට වෙන් කර ගන්න විදිහටයි අවස්ථාව ලබා දී තිබුණේ."
+How does the new procedure of separating railway seats operate?
+
+Railway Seat Seat Reservation in Sri Lanka (March 14). J. The BBC's BBC told the BBC.
+
+"The railway seats were given the opportunity to go to the railway stations and to book the other."
+
+"But now 100% of the online methodology and train is enabled to reserve seats."
+
+"Therefore, the reservation of the seats on the Railway Department website can be reserved in the mobile phone app." He said.
 
 ...
 
 [Data](articles/795b8b4a.json)
+
+[Extended Data](ext_articles/795b8b4a.ext.json)
 
 ---
 

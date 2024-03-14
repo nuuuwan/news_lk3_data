@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 15:33:47**
+As of **2024-03-14 15:51:35**
 
 ## Newspaper Stats
 
-*Scraped **12,866** Articles*
+*Scraped **12,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,133 @@ dailyftlk | 663
 economynextcom | 684
 islandlk | 699
 adalk | 1,107
-adaderanalk | 1,547
-tamilmirrorlk | 1,573
+adaderanalk | 1,548
+tamilmirrorlk | 1,575
 virakesarilk | 1,781
-dailymirrorlk | 1,963
-adaderanasinhalalk | 2,033
+dailymirrorlk | 1,970
+adaderanasinhalalk | 2,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,863 (100.0%) of 12,866 articles have been extended.
+12,866 (99.9%) of 12,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### தொழிற்சங்க போராட்டத்தை முன்னெடுக்க தீர்மானம்
+### “இலங்கையில் நடந்தது பாகிஸ்தானிலும் நடக்கும்’’
+
+*2024-03-14 15:33:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கையில்-நடந்தது-பாகிஸ்தானிலும்-நடக்கும்/50-334672) · `ta`
+
+‛‛பணவீக்கத்தின் புதிய அலை தோன்றியதும் நாட்டில் மக்கள் தெருக்களில் இறங்கி போராடும் நிலை ஏற்படும்; இலங்கையில் நடந்தது போன்று பாகிஸ்தானிலும் நடக்கும்'' என பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான்கான் கூறியுள்ளார்.
+
+பாகிஸ்தான் பார்லிமென்டிற்கு சமீபத்தில் நடந்த பொதுத்தேர்தலில் யாருக்கும் பெரும்பான்மை கிடைக்கவில்லை. எனினும் முன்னாள் பிரதமரும், தெஹ்ரீக்-இ-இன்சாப் கட்சியின் (பி.டி.ஐ.) தலைவருமான இம்ரான் கானின் ஆதரவு பெற்றவர்கள் சுயேட்சையாக போட்டியிட்டு கணிசமான உறுப்பினர்கள் உள்ளனர்.
+
+இதனையடுத்து நவாஸ் ஷெரீப் கட்சியும், பூட்டோவின் கட்சியும் கூட்டணி அமைத்து ஆட்சி பொறுப்பேற்றது. அதில் பாகிஸ்தான் பிரதமராக ஷெபாஸ் ஷெரீப், அதிபராக ஆசிப் அலி ஜர்தாரி தேர்வு செய்யப்பட்டனர்.
+
+இந்த நிலையில் ராவல்பிண்டியில் உள்ள அடியலா சிறையில் இம்ரான் கான் செய்தியாளர்களிடம் கூறியதாவது:
+
+என்னுடைய அனைத்து கணிப்புகளும் உண்மையென நிரூபிக்கப்பட்டு உள்ளன. 2024 பொது தேர்தலில், பி.டி.ஐ., கட்சியானது திட்டமிட்டே வெளியேற்றப்பட்டது. ஆனால் வாக்காளர்கள், ஓட்டுப்பதிவு நாளில் இதற்கு பழி தீர்த்தனர். எனினும், அந்த மாற்றம் ஏற்கப்படவில்லை.
+
+...
+
+[Data](articles/d3a56e9c.json)
+
+---
+
+### කෙහෙළිය ඇතුළු 4 දෙනෙකුට නඩුව අවසන් වනතෙක් ඇප ලබාදීම ප්‍රතික්ෂේප කරයි
+
+*2024-03-14 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194505) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල සහ හිටපු අමාත්‍යාංශ ලේකම්වරුන් 4 දෙනෙකුට එරෙහි එන්නත් නඩුව අවසන් වන තෙක් ඇප ලබාදීම අධිකරණය අද (14) ප්‍රතික්ෂේප කළේය.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, හිටපු සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා සහ තවත් සැකකරුවන් සිව්දෙනෙකුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කළ මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නඩු විභාගය අවසන් වනතෙක් ඔවුන් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර තිබේ.
+
+ඒ අදාළ ඇප ඉල්ලීම් අධිකරණය හමුවේ අද (14) සලකා බැලූ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/d5bfec54.json)
+
+---
+
+### Texas man who lived seven decades in iron lung dies at age 78
+
+*2024-03-14 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97949/texas-man-who-lived-seven-decades-in-iron-lung-dies-at-age-78) · `en`
+
+Confined to an iron lung after contracting polio as a child, Paul Alexander managed to train himself to breathe on his own for part of the day, earned a law degree, wrote a book about his life, built a big following on social media and inspired people around the globe with his positive outlook.
+
+Alexander died Monday at the age of 78 at a Dallas hospital, said Daniel Spinks, a longtime friend. He said Alexander had recently been hospitalized after being diagnosed with COVID-19 but he did not know the cause of death.
+
+Alexander contracted polio in 1952, when he was 6. He became paralyzed from the neck down and he began using an iron lung, a cylinder that encased his body as the air pressure in the chamber forced air into and out of his lungs. He had millions of views on his TikTok account.
+
+“He loved to laugh,” Spinks said. “He was just one of the bright stars of this world.”
+
+...
+
+[Data](articles/5ad35af5.json)
+
+---
+
+### ”NPP அரசாங்கம் என்ன செய்யும் என்பதை IMF குழு அறிந்திருப்பது நல்லது
+
+*2024-03-14 15:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கம்-என்ன-செய்யும்-என்பதை-IMF-குழு-அறிந்திருப்பது-நல்லது/175-334671) · `ta`
+
+மக்களுக்குப் பாதகமான நிபந்தனைகளில் திருத்தங்களைச் செய்து சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையைத் தொடர தேசிய மக்கள் சக்தி (NPP) ஆணை கோரும் என்று NPP பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் இன்று தெரிவித்தார்.
+
+NPP பிரதிநிதிகள் இன்று காலை IMF பிரதிநிதிகளை சந்தித்து ஒப்பந்தம் தொடர்பான NPP இன் நிலைப்பாடு குறித்து அவர்களுக்கு விளக்கியதாக அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+NPP மக்கள் முன் சென்று ஒப்பந்தத்தில் உள்ள அதிகப்படியான வரிகள், பொருட்கள் மற்றும் சேவைகளின் விலையேற்றம் மற்றும் அரச சொத்துக்களை விற்பனை செய்தல் போன்ற தீங்கு விளைவிக்கும் முன்மொழிவுகளை நீக்குவதற்கான ஆணையை கோரும் என்றார்.
+
+சர்வதேச நாணய நிதியத்தின் உடன்படிக்கை தொடர்பாக எடுக்கப்பட வேண்டிய நடவடிக்கைகள் குறித்து சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கு விளக்கமளித்ததாக எம்.பி.
+
+"NPP அரசாங்கம் என்ன செய்யும் என்பதை IMF குழு அறிந்திருப்பது நல்லது," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/4e0f14a0.json)
+
+---
+
+### Japan’s same-sex marriage bar is unconstitutional, high court says
+
+*2024-03-14 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-same-sex-marriage-bar-is-unconstitutional-high-court-says/108-278856) · `en`
+
+TOKYO, March 14 (Reuters) - Japan's bar on same-sex marriage is unconstitutional, the high court in the northern city of Sapporo said on Thursday, the first such ruling by an appeals court on a matter that has divided the lower levels of the judiciary.
+
+Japan is the only Group of Seven nation without legal protection for same-sex unions. Although backed by 70% of the public, they are opposed by the conservative Liberal Democratic Party of Prime Minister Fumio Kishida.
+
+Japanese civil code rules that limit marriage to those of opposite sexes are "unconstitutional" and "discriminatory", the Sapporo High Court said in its ruling, but dismissed the plaintiffs' claim for damages from the government.
+
+"Enacting same-sex marriage does not seem to cause disadvantages or harmful effects," the court said.
+
+"I thought the ruling might be a conservative one, but it ended up exceeding my expectations," one plaintiff, who did not disclose his name, told reporters after the ruling. "I couldn't help but cry."
+
+...
+
+[Data](articles/3fa223b3.json)
+
+---
+
+### Resolution to carry out the union struggle
 
 *2024-03-14 15:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-போராட்டத்தை-முன்னெடுக்க-தீர்மானம்/175-334670) · `ta`
 
-ரயில் நிலைய அதிபர்களுக்கு எந்தத் தகவலையும் வழங்காமல் அமுல்படுத்திய இருக்கை முன்பதிவு முறைக்கு எதிர்ப்புத் தெரிவித்து, இன்று மாலை 4 மணிக்கு திடீர் தொழிற்சங்கப் போராட்டத்தை முன்னெடுக்க இலங்கை ரயில் நிலைய அதிபர்கள் சங்கம் (SLRSMU) தீர்மானித்துள்ளது.
+The Sri Lanka Railway Principals Association (SLRSMU) plans a surprise trade union protest at 4 pm today against the uninformed seat booking system. A discussion with the Ministry of Transport's Secretary is scheduled for 2.30 pm.
 
-சம்பவம் தொடர்பில் இன்று பிற்பகல் 2.30 மணிக்கு போக்குவரத்து அமைச்சின் செயலாளருடன் கலந்துரையாடல் ஒன்று இடம்பெற உள்ளதாக சங்கத்தின் பொதுச் செயலாளர் தெரிவித்துள்ளார்.
+🟩
+
+The Sri Lanka Railway Principals Association (SLRSMU) has decided to carry out a sudden trade union protest at 4 pm today, protesting against the seat booking system that has been implemented without any information to the railway principals.
+
+The General Secretary of the Association said that a discussion will be held with the Secretary of the Ministry of Transport at 2.30 pm today.
 
 ◼️
 
 [Data](articles/517fb0e1.json)
+
+[Extended Data](ext_articles/517fb0e1.ext.json)
 
 ---
 
@@ -76,6 +176,34 @@ The victim was later seriously injured and later died on admission to the Jaffna
 
 ---
 
+### Father kills son, daughter in Ampara
+
+*2024-03-14 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Father-kills-son-daughter-in-Ampara/108-278855) · `en`
+
+Ampara, March 14 (Daily Mirror)- A father has hacked to death his 29 year-old son and a 14 year-old girl in the Periyaneelavanai area in Ampara this morning.
+
+The father had attempted to commit suicide by slitting his neck with a sharp weapon which he had used to kill his son and daughter.
+
+He was admitted in a critical condition to the Kalmunai Hospital.
+
+◼️
+
+[Data](articles/0fb4b8e3.json)
+
+---
+
+### Converting vehicles to EV
+
+*2024-03-14 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Converting-vehicles-to-EV/110-278854) · `en`
+
+A programme was held by Vega Innovations to convert fuel-burning vehicles, including three-wheelers, to electric at the eShift Charging Station in Colombo 7. Transport Minister Bandula Gunawardana participated in the event. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/6c0af7a8.json)
+
+---
+
 ### Man Iron lung is a man dies
 
 *2024-03-14 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194503) · `si`
@@ -104,17 +232,41 @@ He joins history as the man who lived the most effective manner with the aid of 
 
 ---
 
-### අධ්‍යපන ඇමති බාසිලෝනාවල
+### CEB calls for proposals for 50MW Wind Farm facility in Mannar
+
+*2024-03-14 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-calls-for-proposals-for-50MW-Wind-Farm-facility-in-Mannar/108-278853) · `en`
+
+Colombo, March 14 (Daily Mirror)- The Ministry of Power and Energy and the CEB have called for proposals on International Competitive Bidding (ICB) for a 50MW Wind Farm facility in Mannar, Power and Energy Minister Kanchana Wijesekara said today.
+
+The Minister said requests for the proposals have been advertised.
+
+"The ICB calls for suitable developers with the financial and technical ability to develop a 50MW Wind Farm Facility in Mannar on a Build, Own and Operate (BOO) Basis," he posted in X.
+
+The Minister said the deadline to submit proposals is 9th May 2024.
+
+◼️
+
+[Data](articles/5bccfd65.json)
+
+---
+
+### Education Minister Bashalanawa
 
 *2024-03-14 14:35:35* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යපන-ඇමති-බාසිලෝනාවල/11-408613) · `si`
 
-අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා ස්පාඤ්ඤයේ බාසිලෝනාහි දී පැවති ‍ තොරතුරු සන්නිවේදන තාක්ෂණය පිළිබඳ ලොව ප්‍රමුඛතම සමුළුව වූ ‘මොබයිල් වර්ල්ඩ් කොංග්‍රස් (Mobile World Congress -24) සමුළුවට සහභාගි විය.
+Education Minister Susil Premajayantha attended the Mobile World Congress-2.24, where global leaders in digitization and communication technology were discussed.
 
-5ජී තාක්ෂණය සහ එහි අනාගතය, සෑම දෙයක ම සහසම්බන්ධ වීම (Iox-Internet of Everything), කෘත්‍රීම බුද්ධියට මානුෂීය මුහුණුවරක් ලබා දීම, ඩිජිටල් කාර්මික පරිවර්තනය, ‘ඩිජිටල් ඩීඑන්ඒ’ මෙවර මෙම වාර්ෂික සමුළුවේ දී කැපී පෙනුණ තේමාවන් ය. ගෝලීය නායකයන් හා තාක්ෂණ ලොව දැවැන්තයන් හමුවේ ඩිජිටල්කරණයේ සහ සන්නිවේදන තාක්ෂණයේ නවතම දියුණුව ගවේෂණය කිරීමට හා අත් දකින්නට ඊට සහභාගී වන්නන්ට මෙම සමුළුවේ දී මනා වේදිකාවක් ඉදි ව තිබුණ අතර මෙරට අධ්‍යාපන අමාත්‍යවරයාට ද ඊට සහභාගී වීමට හැකි විය.
+🟩
+
+Minister of Education Susil Premajayantha was attended by the Mobile World Congress-2.24, the world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world.
+
+Future and its future, "digital DNA 'this year's annual conference this year's conference this year's annual conference this year's annual conference.In the conference, a platform was built to explore the latest development of digitization and communication technology to see global leaders and technologies in the face of global leaders.
 
 ◼️
 
 [Data](articles/540a6d51.json)
+
+[Extended Data](ext_articles/540a6d51.ext.json)
 
 ---
 
@@ -137,6 +289,36 @@ Among the deceased party, Saman Perera is among the victims of the deceased.
 [Data](articles/44f90dbe.json)
 
 [Extended Data](ext_articles/44f90dbe.ext.json)
+
+---
+
+### Station Masters to launch sudden strike
+
+*2024-03-14 14:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Station-Masters-to-launch-sudden-strike/108-278852) · `en`
+
+Colombo, March 14 (Daily Mirror) - The Sri Lanka Railways Station Masters' Union (SLRSMU) has decided to launch a sudden trade union action at 4 p.m today, in protest of the seat reservation system without providing any information to the station masters.
+
+A crucial discussion with the General Manager - Railways is being held at this moment.
+
+The General Secretary of the union said that a discussion with the Transport Ministry Secretary is to be held at 2.30 pm.
+
+◼️
+
+[Data](articles/1cec7c4d.json)
+
+---
+
+### Industrialized nations should acknowledge contributions to climate change
+
+*2024-03-14 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Industrialized-nations-should-acknowledge-contributions-to-climate-change/108-278851) · `en`
+
+India, March 14 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka, addressing an international summit in India, said it is imperative for industrialized nations to acknowledge their historical contributions to climate change and take responsibility for mitigating its effects, including compensating affected countries for their losses.
+
+In his adderess, he said efforts to address climate change have a long history, marked by milestones such as the Club of Rome declaration in 1968 and the Rio Convention in 1992, which led to the establishment of the United Nations Framework Convention on Climate Change (UNFCCC).
+
+...
+
+[Data](articles/f21212ff.json)
 
 ---
 
@@ -234,17 +416,39 @@ Speaking at the meeting, he said that about 3.5 billion in the world had undergo
 
 ---
 
-### 04 න් 03 කට මුඛ රෝග  සැලකිළිමත් වන්න
+### Vulve oral diseases for 3 of four
 
 *2024-03-14 13:41:02* · [`adalk`](https://www.ada.lk/breaking_news/04-න්-03-කට-මුඛ-රෝග--සැලකිළිමත්-වන්න/11-408610) · `si`
 
-සෞඛ්‍ය අමාත්‍යංශයේ ප්‍රාථමික සෞඛ්‍ය සේවා පද්ධතිය සවිබල ගැන්වීමේ ලෝක බැංකු ව්‍යාපෘතිය මගින් දන්ත සෞඛ්‍ය සේවාවන් ශක්තිමත් කිරීම සදහා රුපියල් මිලියන 3.5 ක් වටිනා මයික්‍රෝ මෝටර්ස් දන්ත (Dental Micromotor) උපකරණ ලබාදීමේ අවස්ථාවට අද (14) එක්වෙමින් සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා මෙම කරුණූ පෙන්වා දෙන ලදි.
+Health Secretary Palitha Mahipala emphasized the need to enhance the National Health Services' dental health services, highlighting that 3.5 billion globally suffer from oral diseases, with three developing countries most affected.
 
-මෙහිදී අදහස් දක්වමින් ඒ මහතා කියා සිටියේ ලෝකයේ බිලියන 3.5 ක් පමණ ජනතාව විවිධ මුඛ රෝගවලට භාජනය වී ඇති බවත්, සංවර්ධනය වෙමින් පවතින රටවල 04 දෙනෙකුගෙන් 03 දෙනෙකුට මුඛ රෝග වැළදී ඇති බවයි.
+🟩
+
+Health Secretary Palitha Mahipala pointed out to strengthen the National Health Services (World Bank) equipment to strengthen the primary health care system of the Ministry of Health today (14) to strengthen dental health services..
+
+Speaking at the meeting, he said that about 3.5 billion in the world had undergone various oral diseases and three of the developing countries had contracted oral diseases.
 
 ◼️
 
 [Data](articles/c5707967.json)
+
+[Extended Data](ext_articles/c5707967.ext.json)
+
+---
+
+### Derailement delays trains on coastal line
+
+*2024-03-14 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailement-delays-trains-on-coastal-line/108-278850) · `en`
+
+Colombo, March 14 (Daily Mirror) - Up and down train services between the Secretariat Halt and Colombo Fort on the coastal line has been disrupted due to a derailment, the Railways Department said.
+
+The Ruhunu Kumari intercity express train derailed between the Secretariat station and Colombo Fort station this evening at 2.30 p.m.
+
+Accordingly, the Ruhunu Kumari express train arriving from Matara stopped at the Secretariat station. The train is scheduled to leave for Matara from Secretariat station at 2.30 p.m. as the Galu Kumari express train.
+
+◼️
+
+[Data](articles/2794f036.json)
 
 ---
 
@@ -2013,257 +2217,5 @@ Speaking at a media brief in the Health Promotion Bureau, Dr. Ms. Ms. Ms. Ms. Ms
 [Data](articles/17e03474.json)
 
 [Extended Data](ext_articles/17e03474.ext.json)
-
----
-
-### Sri Lanka lost taxes under SDP Act valued at Rs1,085mn
-
-*2024-03-14 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-lost-taxes-under-sdp-act-valued-at-rs1085mn-154573/) · `en`
-
-ECONOMYNEXT – Taxes foregone due to investment relief given through a Strategic Development Project Act was 1,085 million rupees, according to a tax expenditure disclosure made by the Finance Ministry.
-
-The taxes are calculated for 14 strategic projects. The law has come under fire for discretionary tax holidays given up to 25 years, compared to lower periods under the Board of Investment Law.
-
-The discretion has been blamed for opening doors to corruption.
-
-Controversially, the law also exempts key expat workers from income tax for a period.
-
-Lost corporate taxes are estimated at 805 million rupees for the year of assessment 2022/2023 on a tax base of 3,353 billion rupees.
-
-The tax expenditure is measured against a corporate tax rate of 28 percent.
-
-Lost value added taxes were estimated at 280 million rupees.
-
-...
-
-[Data](articles/877a1998.json)
-
-[Extended Data](ext_articles/877a1998.ext.json)
-
----
-
-### Another doctor arrested for recompensation of antibodies
-
-*2024-03-14 07:43:50* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රතිදේහ-එන්නත්-වංචාවට-තවත්-වෛද්‍යවරයෙක්-අල්ලයි/11-408600) · `si`
-
-A doctor was arrested by the CID for using fake documents to investigate another doctor's antibody compensation.
-
-🟩
-
-A doctor has arrested a doctor by the CID to investigate the fake documents.
-
-The arrests have been made in parallel to the investigation of the Criminal Investigation Department using the false documents to the Medical Supply Division using false documents from the Ministry of Pseudological Documents.
-
-Accordingly, a doctor who has come to give a statement to the CID yesterday (13) had been arrested in connection with fraud.
-
-◼️
-
-[Data](articles/1a9a908e.json)
-
-[Extended Data](ext_articles/1a9a908e.ext.json)
-
----
-
-### After deal went sour between Excise and liquor manufacturers: Harsha De Silva
-
-*2024-03-14 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-deal-went-sour-between-Excise-and-liquor-manufacturers-Harsha-De-Silva/108-278818) · `en`
-
-Colombo, March 14 (Daily Mirror) - The series of raids made in the North and East over the weekend to seize a large stock of liquor bottles with forged security stickers was over a deal that went sour between the Excise and liquor manufacturers, Opposition MP Harsha de Silva said.
-
-Samagi Jana Balawegaya Parliamentarian Dr. Harsha de Silva addressing the media said yesterday that a dispute in a payment between certain Excise officials and some liquor manufacturers had led to the raids.
-
-He said that neither the information related to the raids made in the North and East nor the suspects arrested in the cases were revealed by the Excise, as the detections were made to pressure the errant liquor manufacturers and to demand money to settle it afterwards.
-
-“We will never let this kind of thing to happen in the future and will not let these errant manufacturers come into a settlement by paying bribes to Excise officials,” Dr. De Silva said.
-
-...
-
-[Data](articles/f0bfaaef.json)
-
-[Extended Data](ext_articles/f0bfaaef.ext.json)
-
----
-
-### Railway seat reservation from today is only for online
-
-*2024-03-14 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194485) · `si`
-
-The Railway Department has fully implemented online seat reservations starting today. Seats can be reserved from 7 pm. A photo of the seat separating leaf is required for a ticket. Public servants can get a free license. No charges are decided. A new train, "Dunhinda Odi," is introduced to promote tourism, adding to the two previously introduced trains.
-
-🟩
-
-The Railway Department says that the railway seat reservation can be fully implemented from today (14).
-
-Accordingly, railway seats can be reserved on the online system from 7 pm today.
-
-The seat reservations have been made to take place on the online system, and today it will only be fully online.
-
-The Department of Railways said that it is sufficient to have a photo of the seat separating leaf to get a ticket before the online system.
-
-In addition, the Railway Department has given the opportunity to separate the free license to be allocated for public servants.
-
-The Railway Department states that no charge has been decided to do so.
-
-Meanwhile, the Railway Department says that a new train named "Dunhinda Odi 'is introduced to promote the tourism industry.
-
-The trains will be added from Colombo Fort to Badulla to Badulla.
-
-Previously, two trains have been introduced to develop the tourism industry by the train.
-
-◼️
-
-[Data](articles/9bf01efd.json)
-
-[Extended Data](ext_articles/9bf01efd.ext.json)
-
----
-
-### Sri Lanka & Bangladesh explore new avenues to boost trade, investment
-
-*2024-03-14 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97937/sri-lanka-bangladesh-explore-new-avenues-to-boost-trade-investment) · `en`
-
-Strengthening and sustaining the long-standing friendly bilateral economic partnership between Sri Lanka and Bangladesh is vital for increasing efforts to harness the full potential of trade and investment between the two countries, says High Commissioner Dharmapala Weerakkody.
-
-The Sri Lankan envoy made these remarks when he called on the newly appointed Foreign Minister of Bangladesh Dr. Hasan Mahmud in Dhaka on Monday.
-
-He highlighted that the relations between the two countries have prevailed for centuries and the people-to-people contacts have been growing stronger over the years.
-
-Underscoring the need to find new avenues to further improve trade and investment and pave the way for two-way partnerships to develop the respective economies, High Commissioner Weerakkody mentioned that the two countries are currently negotiating to finalize a Preferential Trading Agreement (PTA), which will further improve trade sector cooperation.
-
-...
-
-[Data](articles/4211bc11.json)
-
-[Extended Data](ext_articles/4211bc11.ext.json)
-
----
-
-### Permission to Import Car Vehicle Import of Motor Vehicles from next year
-
-*2024-03-14 07:18:48* · [`adalk`](https://www.ada.lk/breaking_news/-ලබන-වසරේ-සිට-පියවරෙන්-පියවර-මෝටර්-රථ-ආනයනයට-අවසර/11-408599) · `si`
-
-Ranil Wickremesinghe plans to systematically import cars from next year, focusing on essential vehicles first, despite challenges.
-
-🟩
-
-Ranil Wickremesinghe says that he will schedule the importation systematically from next year. He points out that if authorized to import car is allowed back at this time. He was responding to a question raised by the President during a young meeting.
-
-"We hope to progress it from next year. I am aware of the problems that exist in the car market. But still our payment balance is not good. We have allowed everything else but the importation of cars.
-
-If the import of motor vehicles, the country has the ability to back the country again. But from next year's step, we hope to import essential vehicles first. We have been allowed to import buses used for transportation this year. "
-
-◼️
-
-[Data](articles/accfe335.json)
-
-[Extended Data](ext_articles/accfe335.ext.json)
-
----
-
-### The IMF representatives meet the national folk force today
-
-*2024-03-14 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194484) · `si`
-
-IMF representatives meet national folk force today. Sunil Handunnetti confirms 10 am meeting, paying attention to economic pressure. Human Rights Watch requests NGO registration and monitoring, suggesting government amend human rights standards. They also advise removing IMF program in Sri Lanka.
-
-🟩
-
-The national folk force says the International Monetary Fund representatives will visit the island today (14).
-
-Sunil Handunnetti said that the meeting would take place at 10.00 am this morning.
-
-Sunil Handunnetti said that the government will pay attention to the economic pressure imposed by the government.
-
-Meanwhile, Human Rights Watch has informed the International Monetary Fund to request the Registration of NGO Registration and Monitoring the Proposed NGOs.
-
-The Human Rights Watch pointed out a letter to the International Monetary Fund, the Government of Sri Lanka should also be amended to revise the human rights standards.
-
-Human Rights Watch has informed the Organization to take steps to take steps to remove the IMF program in the country.
-
-The International Monetary Fund has a public request to revise the proposed relevant bills to protect the reliability and efficiency of its program in Sri Lanka.
-
-◼️
-
-[Data](articles/22330224.json)
-
-[Extended Data](ext_articles/22330224.ext.json)
-
----
-
-### Indian High Commissioner meets Basil
-
-*2024-03-14 07:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-meets-Basil/108-278823) · `en`
-
-High Commissioner of India to Sri Lanka met former Finance Minister and Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa yesterday.
-
-During the discussion, they exchanged views on bilateral relations, political developments and other subjects of mutual interest.
-
-◼️
-
-[Data](articles/42b7bf5e.json)
-
-[Extended Data](ext_articles/42b7bf5e.ext.json)
-
----
-
-### IGP from the IGP to mad in the south
-
-*2024-03-14 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194483) · `si`
-
-IGP Deshabandu Tennakoon has directed measures to prevent crimes in the Southern Province, including visiting recent shooting incidents and instructing the Criminal Investigation Department and other divisions to uncover suspects.
-
-🟩
-
-IGP Deshabandu Tennakoon has instructed to take all necessary measures to take all necessary measures to prevent crimes in the Southern Province.
-
-It is reported that the Senior DIG and STF personnel have been instructed to the Special Task Force personnel.
-
-IGP Deshaband Tennakoon visited the recent shooting incidents of Galle and Elpitiya Police Station, and the Senior Police Station was held at the Kosgoda Police Station.
-
-IGP Deshabandu Tennakoon is called the Criminal Investigation Department, Criminal Report Division, Community Division, Community Division and Intelligence and Intelligence, and IGP Deshabandu Tennakoon.It is reported that orders have been given.
-
-The IGP has also advised them to take necessary action to uncover the suspects in connection with these incidents.
-
-◼️
-
-[Data](articles/832721a8.json)
-
-[Extended Data](ext_articles/832721a8.ext.json)
-
----
-
-### Evening thundershowers possible in 3 provinces including Western
-
-*2024-03-14 07:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97936/evening-thundershowers-possible-in-3-provinces-including-western) · `en`
-
-The Department of Meteorology says showers or thundershowers can be expected in parts of the Western, Sabaragamuwa and Southern provinces and Nuwara-Eliya district during the evening or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and Galle, Matara and Anuradhapura districts in the morning.
-
-Mainly fair weather will prevail in the sea areas around the island, the Meteorology Department said adding that the winds will be easterly or variable in direction and wind speed will be 20-30 kmph.
-
-◼️
-
-[Data](articles/3aa6b956.json)
-
-[Extended Data](ext_articles/3aa6b956.ext.json)
-
----
-
-### Canada to strengthen mental health safeguards
-
-*2024-03-14 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Canada-to-strengthen-mental-health-safeguards/108-278819) · `en`
-
-Colombo, March 14 (Daily Mirror) - In the wake of a Sri Lankan family killed in Canada and a 19-year-old Sri Lankan national being charged for it, the Canadian authorities will put more attention to safeguards already in place on the mental health of students, according to a diplomatic source.
-
-Febrio De-Zoysa, who is believed to be in Canada as a student, was charged with six counts of first-degree murder and one count of attempted murder, Ottawa police said in a post on X. Six Sri Lankans were stabbed to death in the home they lived in together, including a 2 1/2-month-old girl and three other young children.
-
-The incident has triggered fears in the minds of Sri Lankans whether Canada will toughen visa regulations for them in the future following this incident. A diplomatic source, however, confirmed that Canada would not do so because this was just a one-off incident.
-
-...
-
-[Data](articles/9a1375f9.json)
-
-[Extended Data](ext_articles/9a1375f9.ext.json)
 
 ---

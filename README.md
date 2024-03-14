@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 13:17:36**
+As of **2024-03-14 13:33:37**
 
 ## Newspaper Stats
 
-*Scraped **12,839** Articles*
+*Scraped **12,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,143 @@ dailyftlk | 663
 economynextcom | 684
 islandlk | 699
 adalk | 1,098
-adaderanalk | 1,543
+adaderanalk | 1,545
 tamilmirrorlk | 1,568
 virakesarilk | 1,780
 dailymirrorlk | 1,961
-adaderanasinhalalk | 2,027
+adaderanasinhalalk | 2,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,837 (100.0%) of 12,839 articles have been extended.
+12,839 (100.0%) of 12,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### හම්බන්තොටින් දෙහිවලට ගෙනා ජිරාෆ් මියයයි
+### දුවයි පුතයි ඝාතනය කළ පියා ගෙල කපාගනී
+
+*2024-03-14 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194500) · `si`
+
+සිය දරුවන් දෙදෙනා ඝාතනය කළ පියෙකු සියදිවි නසාගැනීමට උත්සාහ කළ පුවතක් අම්පාර පෙරියනිලාවේලි ප්‍රදේශයෙන් වාර්තාවෙයි.
+
+මෙලෙස ගෙල කපා ඝාතනය කර ඇති ඔහුගේ පුතුගේ වයස අවුරුදු 29ක් වන අතර දියණියගේ වයස අවුරුදු 15කි.
+
+දරුවන් දෙදෙනා ඝාතනය කළ පියා ද ගෙල කපාගෙන සියදිවි හානිකරගනීමට උත්සාහ කර ඇති අතර ඔහුව ප්‍රතිකාර සඳහා කල්මුණේ රෝහලට ඇතුළත් කර තිබේ.
+
+මෙලෙස ඝාතනයට ලක්ව ඇති ඔහුගේ දරුවන් දෙදෙනා කථන අපහසුතාවයෙන් පෙළෙන බවටද තොරතුරු වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/f3b3cf25.json)
+
+---
+
+### සය පුද්ගල ඝාතනයේ සැකකාර ශ්‍රී ලාංකික සිසුවා අධිකරණයට
+
+*2024-03-14 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194499) · `si`
+
+කැනඩාවේ, ඔටාවාහී ශ්‍රී ලාංකිකයින් 6 දෙනෙකු ඝාතනය කර එරට පොලිසිය අත්අඩංගුවේ පසුවන ශ්‍රී ලාංකික සිසුවා අද (14) නැවතත් ඔටාවා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+ෆෙබ්‍රියෝ ද සොයිසා නම් ශ්‍රී ලාංකික සිසුවා පසුගිය බ්‍රහස්පතින්දා දිනයේදී ඔටාවා අධිකරණයට ඉදිරිපත් කෙරුණු අතර එහිදී ඔහුට පළමු මට්ටමේ මිනීමැරුම් චෝදනා හයක් සහ මිනීමැරීමට තැත් කිරීමේ චෝදනාවක් සම්බන්ධයෙන් නිල වශයෙන් චෝදනා ගොනුකෙරුණි.
+
+කැනඩාවේ ඔටාවා අගනුවරට තදාසන්න බැර්හෙවන් ප්‍රදේශයේ පදිංචිව සිටි එකම පවුලේ සාමාජිකයින් පස්දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙකු නිවස තුළදීම සාහසික ලෙස ඝාතනයට ලක්වුයේ පසුගිය බදාදා රාත්‍රීයේ දීය.
+
+එම ඝාතන සම්බන්ධයෙන් 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු වන ෆෙබ්‍රියෝ ද සොයිසා ඔටාවා පොලීසිය විසින් එදින රාත්‍රීයේම අත්අඩංගුවට ගනු ලැබීය.
+
+සැකකාර සිසුවා ඉකුත් බ්‍රහස්පතින්දා දී ඔටාවා අධිකරණයට ඉදිරිපත් කෙරුණු අතර එහිදී ඔහුට පළමු මට්ටමේ මිනීමැරුම් චෝදනා හයක් සහ මිනීමැරීමට තැත්කිරීමේ චෝදනාවක්ද ඇතුළුව නිල වශයෙන් චෝදනා ගොනුකෙරුණි.
+
+අද දිනයේදී ෆෙබ්‍රියෝ ද සොයිසා නැවත ඔටාවා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+...
+
+[Data](articles/833d5496.json)
+
+---
+
+### Ottawa mass killing: Sri Lankan student to face lengthy legal battle; Google terminates suspect’s YouTube channel
+
+*2024-03-14 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97946/ottawa-mass-killing-sri-lankan-student-to-face-lengthy-legal-battle-google-terminates-suspects-youtube-channel) · `en`
+
+The 19-year-old Sri Lankan student Febrio De-Zoysa, who was charged with the mass killing in Ottawa’s Barrhaven on March 06, is expected to produce before the court again today (March 14).
+
+De-Zoysa, who was living with the victims at the time, is currently housed in Ottawa’s Innes Road jail while facing six charges of first-degree murder and one count of attempted murder.
+
+Meanwhile, the 19-year-old was reportedly known for posting videos of the video game ‘Minecraft’ on YouTube, however, Google has taken steps to terminate the YouTube channel associated with the suspect citing that if a user’s off-platform behaviour harms the YouTube community, they may take action in accordance with YouTube’s creator responsibility guidelines.
+
+Foreign media reports claim that the case could take two to three years to work its way through the court system, according to criminal law experts.
+
+...
+
+[Data](articles/33e20412.json)
+
+---
+
+### Giraff, who was brought to the Dehiwalai in Hambantota
 
 *2024-03-14 13:04:28* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොටින්-දෙහිවලට-ගෙනා-ජිරාෆ්-මියයයි/11-408605) · `si`
 
-දෙහිවල, ජාතික සත්වෝද්‍යානයට අයත් හම්බන්තොට සෆාරි උද්‍යානයේ සිටි සීබ්‍රා සත්වයෙකු අසනීප තත්වයෙන් දෙහිවලට ගෙනවිත් සිටියදී හදිසියේ 13 රාත්‍රිය මියගොස් ඇතැයි සත්වෝද්‍යාන ආරංචි මාර්ග කියා සිටී.
+A giraffe at Dehiwala Safari Park in Hambantota died suddenly, escalating a sickness. The zoo is conducting a post-mortem examination.
 
-මෙම සත්වයා දෙහීවල සිට හම්බධාතොට ෂපාරී උද්‍යානයට රැගෙන ගොස් මසජන ප්‍රදර්ශණයට යොමුකර දීර්ඝ කාලයක් එහි ගත කරමින් සිටින අතර හදිසියේ ඇතිවූ අසනීප තත්වයක් සදහා එහි පශු වෛද්‍යවරු ප්‍රතිකාර කලත් අසනීප තත්වය උත්සන්නවී ඉකුත් 13  වන දින සිහිමද ගතියෙන් දෙහිවල සත්වෝද්‍යානයේ පශූ වෛද්‍ය වරුන්ගේ අධීක්ෂණය යටතේ විශේෂ ප්‍රතිකාර කිරීමට රැගෙන ඒමට  කටයුතු කරනු ලැබ ඇත.
+🟩
 
-මේ අතර එදින රාත්‍රියේම අසනීප තත්ත්වය උත්සන්න වී එම සතාවයා මරණයට පත්වී ඇති බව සත්වෝද්‍යාන දෙපාර්තමේන්තුව ප්‍රකාශකයෙකු පැවසීය.
+Sudden sources say that the 13 Night died in the Hambantota Safari Park, Dehiwala and National Zoo.
 
-මේ අනුව එම සත්වයාගේ පශ්චාත් මරණ පරීක්ෂණය පේරාදෙනිය පශූ වෛද්‍යවරු ඇතුලු සත්වෝද්‍යානය වෛද්‍ය කණාඩායම සමග දෙහිවල පශූ වෛද්‍ය අංශයේදී සිදු කිරීමට නියමිතව තිබිණි. ‌
+This animal is taken to the Masage Exhibition to the Marperatta Park and is treated to be treated at the Dehiwala Zoo to be treated for a sickness in the event of a sudden situation.Worked.
+
+Meanwhile, the Department of Zoo (PS) said that the incident has escalated the sickness that night and died.
+
+Accordingly, the zoo is due to take place with the zoological division of the zoo, including the post mortem examination of the animal.. ‌
 
 ◼️
 
 [Data](articles/e83a8a79.json)
 
+[Extended Data](ext_articles/e83a8a79.ext.json)
+
 ---
 
-### அம்பாந்தோட்டையில் சூரியசக்தி மின்னுற்பத்தி திட்டம்
+### Solar Power Plant in Hambantota
 
 *2024-03-14 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178702) · `ta`
 
-அம்பாந்தோட்டை கொன்னொறுவையில் அபிவிருத்தி செய்யப்படவுள்ள 150 மெகாவோல்ட் கிரவுண்ட் மவுன்ட் சோலார் திட்டத்திற்கான மின்சார கொள்வனவு ஒப்பந்தம் நேற்று புதன்கிழமை (13) பிற்பகல் கைச்சாத்திடப்பட்டுள்ளது.
+The 150 MW Solar Power Plant in Hambantota, developed by 17 local developers, was signed with an investment of $150 million. It includes 13 10 MW and 4 5 MW power plants, aiming for completion by mid-2025.
 
-10 மெகாவோல்ட் திறன் கொண்ட 13 மின் உற்பத்தி நிலையங்கள் மற்றும் 150 மெகாவோல்ட் திறன் கொண்ட 5 மெகாவோல்ட் திறன் கொண்ட 4 மின் உற்பத்தி நிலையங்களை உள்ளடக்கிய 17 உள்ளூர் மேம்பாட்டாளர்களின் கூட்டமைப்பினால் இந்த திட்டம் உருவாக்கப்படும் என மின் சக்தி மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+🟩
 
-150 மில்லியன் டொலர் முதலீட்டில் இந்த திட்டம் சி.ஈ.பீ. தரப்படுத்தப்பட்ட மின் கொள்முதல் ஒப்பந்தத்தின் புதிய வணிக மாதிரியின் கீழ் பரிமாற்றம் மற்றும் கட்ட வசதிகளுடன் இணைந்து உருவாக்கப்படும். எதிர்வரும் மே மாதத்திர் கட்டுமானத்தைத் தொடங்கி, 2025 ஆம் ஆண்டின் நடுப்பகுதியில் கட்டத்துடன் இணைக்க திட்டமிடப்பட்டுள்ளதாகவும் அமைச்சர் காஞ்சன மேலும் தெரிவித்துள்ளார்.
+The Electric Purchase Agreement for the 150 MW Ground Mount Solar Project to be developed in Konnoruwa, Hambantota was signed on Wednesday afternoon.
+
+The project will be developed by the Federation of 17 Local Developers, which includes 13 power plants with 10 MW and 4 power plants with a 5 MW of 5 MW, a 150 MW capacity capacity.
+
+The project is CEB with an investment of $ 150 million. Will be created in conjunction with the exchange and phase facilities under the new business model of the standardized power purchase agreement. Minister Kanchana added that the construction of the upcoming May is scheduled to be connected to the mid -2025 phase.
 
 ◼️
 
 [Data](articles/70d18308.json)
+
+[Extended Data](ext_articles/70d18308.ext.json)
+
+---
+
+### Parliament to debate no-confidence motion against Speaker next week
+
+*2024-03-14 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97945/parliament-to-debate-no-confidence-motion-against-speaker-next-week) · `en`
+
+The motion of no confidence brought against Speaker Mahinda Yapa Abeywardena will be debated in Parliament on the 19th and 20th of March, following which a vote will be taken.
+
+According to the General Secretary of the Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, the decision was taken at today’s party leaders’ meeting.
+
+As such, a vote on the no-confidence motion will be taken at 04:30 p.m. on 20 March (Wednesday).
+
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena was handed over to the Deputy General Secretary of Parliament on 05 March.
+
+It was signed by 44 parliamentarians including Opposition Leader Sajith Premadasa, Chief Opposition Whip Lakshman Kiriella and MPs Prof. G.L. Peiris, Rohini Kumari Wijeratne, Hesha Vithanage, Mano Ganesan, Rishad Bathiudeen, M.A. Sumanthiran, S.M. Marikkar, Ranjith Madduma Bandara, Thalatha Atukorale, Vijitha Herath and Chandima Weerakkody.
+
+...
+
+[Data](articles/fc3aba49.json)
 
 ---
 
@@ -2095,75 +2185,5 @@ Despite the improvement, the IHP noted that the consumer confidence remains at n
 [Data](articles/c05ec360.json)
 
 [Extended Data](ext_articles/c05ec360.ext.json)
-
----
-
-### Happiness a fundamental human goal for all people
-
-*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Happiness-a-fundamental-human-goal-for-all-people/172-278792) · `en`
-
-Are the people of Sri Lanka happy? Most independent and non-party analysts would say a clear no. Millions of people are suffering from a lack of food, shelter, clothing, healthcare needs, education and other facilities. So it is clear that except for the politicians– most of whom make money illegally– and big business magnets, most of  Sri Lanka’s people are unhappy.
-
-Next week, the United Nations will mark the International Day of Happiness. In a statement, the world body said that happiness is a fundamental human goal. The UN General Assembly recognizes this goal and calls for a more inclusive, equitable and balanced approach to economic growth that promotes happiness and well-being of all people.
-
-...
-
-[Data](articles/12c753d0.json)
-
-[Extended Data](ext_articles/12c753d0.ext.json)
-
----
-
-### IMF meeting snub and the opposition’s opportunism at the nation’s misery
-
-*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/IMF-meeting-snub-and-the-oppositions-opportunism-at-the-nations-misery/172-278796) · `en`
-
-The recent snub by the SJB and JVP to attend a meeting with the IMF delegation raises concern about the country’s uncertain political future, where political parties thrive in harnessing public anger rather than offering solutions
-
-You could see the shades of all in the recent snub by the Samagi Jana Balawegaya (SJB) and Janatha Vimukthi Peramuna (JVP) to a president’s invitation to attend a meeting with the IMF delegation in Colombo. They were offered a forum to raise their objections, which you usually hear in press conferences and political meetings, and present a coherent alternative plan
-
-Sri Lankan politics suffer from a strong sense of self-seeking opportunism that prevents the country from forging a common goal. This malaise manifests in various forms
-
-...
-
-[Data](articles/442a5758.json)
-
-[Extended Data](ext_articles/442a5758.ext.json)
-
----
-
-### Economic Policies in an Election Year: Suggested Priorities
-
-*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Economic-Policies-in-an-Election-Year-Suggested-Priorities/172-278793) · `en`
-
-Part I of this article, which was published on February 29, laid out the grim fiscal and debt sustainability outlook for Sri Lanka.
-
-The key driver of debt dynamics is the gap between real GDP growth and real interest rates on government debt. Sustained annual growth of 5-6% and low real interest rates through disciplined fiscal policy would significantly improve debt sustainability. With slowing labour force growth due to an ageing population, sustaining high GDP growth requires increased investment and productivity growth. In addition, raising Sri Lanka’s low tax ratio to 16-18% of GDP, aligning with Asian peers, would support sustainable non-interest spending levels (Figure 1).
-
-Given the imperative of fiscal discipline, Sri Lanka can no longer turn to the economic model of the past where growth was driven by public sector spending fueled by borrowing and inward-looking, protectionist trade policies. It needs to adopt a new economic model where growth would be:
-
-...
-
-[Data](articles/5109a653.json)
-
-[Extended Data](ext_articles/5109a653.ext.json)
-
----
-
-### Sri Lanka failed to ‘meet’ 33% of IMF commitments due by end-Feb
-
-*2024-03-14 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-failed-to-meet-33-of-IMF-commitments-due-by-end-Feb/172-278797) · `en`
-
-Sri Lanka verifiably failed to meet 33% of the commitments due by end-February 2024 in its International Monetary Fund (IMF) programme, according to the February update of Verité Research’s ‘IMF Tracker’.
-
-Many of these commitments that are classified as ‘not met’ on IMF Tracker were designed to improve governance. These include commitments related to publishing information (transparency), and those that require the passage of governance-improving legislation. The IMF has recognised poor governance as being at the heart of Sri Lanka’s economic crisis, and Sri Lanka is the first Asian country to have had an IMF-led Governance Diagnostic Assessment.
-
-The status of 36% of the commitments are classified as ‘unknown’, which means sufficient data was not made available to assess their progress. By end-February, 31% of the commitments were verifiably ‘met’.
-
-...
-
-[Data](articles/6f91412c.json)
-
-[Extended Data](ext_articles/6f91412c.ext.json)
 
 ---

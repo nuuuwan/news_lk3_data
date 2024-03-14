@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 16:49:26**
+As of **2024-03-14 17:03:09**
 
 ## Newspaper Stats
 
-*Scraped **12,893** Articles*
+*Scraped **12,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ islandlk | 699
 adalk | 1,110
 adaderanalk | 1,552
 tamilmirrorlk | 1,575
-virakesarilk | 1,786
+virakesarilk | 1,790
 dailymirrorlk | 1,972
-adaderanasinhalalk | 2,036
+adaderanasinhalalk | 2,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,890 (100.0%) of 12,893 articles have been extended.
+12,893 (100.0%) of 12,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### வெடுக்குநாறி மலை விவகாரம்: மனிதவுரிமை ஆணைக்குழுவும் சட்டவிரோத கைதுகளுக்கு துணை போகின்றதா? - கஜேந்திரன் எம்.பி ஆதங்கம்
+
+*2024-03-14 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178736) · `ta`
+
+மனிதவுரிமை ஆணைக்குழுவும் சட்டவிரோத கைதுகளுக்கும், குற்றச்சாட்டுக்களுக்கும் துணை போகின்றதா என்ற கேள்வி எழுகின்றது என தமிழ் தேசிய மக்கள் முன்னனியின் நாடாளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் தெரிவித்துள்ளார்.
+
+வவுனியா சிறைச்சாலையில் உண்ணாவிரதம் இருக்கும் வெடுக்குநாறி மலை ஆலய பூசகர் உள்ளிட்ட கைதிகளை இன்று வியாழக்கிழமை (14) பார்வையிட்ட பின் ஊடகங்களுக்கு கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/3c2aaaec.json)
+
+---
+
+### அமைச்சர் ஜீவன் தொண்டமான் தலவாக்கலை ஒலிரூட் தோட்டத்தில் வீடுகளை கையளித்தார்!
+
+*2024-03-14 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178735) · `ta`
+
+தலவாக்கலை ஒலிரூட் தோட்டத்தில் தீயினால் பாதிக்கப்பட்டு தற்காலிக குடில்களில் வசித்த குடும்பங்களுக்கு, குடிநீர், மின்சாரம், உட்கட்டமைப்பு உட்பட சகல வசதிகளுடன் கூடிய தனி வீடுகள், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரும், இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளருமான ஜீவன் தொண்டமானால் இன்று வியாழக்கிழமை (14) வழங்கி வைக்கப்பட்டன.
+
+அத்துடன், அவர்களுக்கு பிரத்தியேக 'முகவரி' வழங்கப்பட்டு,  வீடுகளுக்கு முன் வைப்பதற்கான கடித பெட்டியும் வழங்கப்பட்டது.
+
+ஒலிரூட் தோட்டத்தில் ஏற்பட்ட திடீர் தீ விபத்தினால் பாதிக்கப்பட்டு தற்காலிக குடில்களில் வாழ்ந்துவந்த 24 குடும்பங்களுக்கு தனி வீடுகளை அமைப்பதற்கான வேலைத்திட்டம் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சு ஊடாக முன்னெடுக்கப்பட்டது.
+
+...
+
+[Data](articles/24565bd8.json)
+
+---
+
+### ශ්‍රී ලංකා ජාතික සත්වෝද්‍යානයේ එකම පිරිමි සීබ්‍රා අවසන් ගමන් යයි
+
+*2024-03-14 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194509) · `si`
+
+ශ්‍රී ලංකා ජාතික සත්වෝද්‍යානය සතුව සිටි එකම පිරිමි සීබ්‍රා ඊයේ රාත්‍රියේ අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+සත්වෝද්‍යාන සේවකයින් චෝදනා කරන්නේ සත්ත්වයා ප්‍රවාහනය කිරීමේදී ලබාදී තිබූ ඖෂධ අධිමාත්‍රාවක් මෙම මරණයට හේතුවී ඇති බවටය.
+
+මේ සම්බන්ධයෙන් විධිමත් පරීක්ෂණයක් සිදුකරමින් සත්වෝද්‍යාන සේවකයින් අද දෙහිවල සත්වෝද්‍යානය ඉදිරිපිටදී විරෝධතාවයක නියැලිනි,
+
+සත්ත්ව හුවමාරු වැඩසටහනක් යටතේ මෙම පිරිමි සීබ්‍රා මීට වසර 06කට පෙර චීනයෙන් මෙරටට ලැබී තිබුණි.
+
+කලකට ඉහතදී මෙම සත්ත්වයා රිදියගම සෆාරි උද්‍යානය වෙත රැගෙන ගොස් තිබුණි
+
+දෙහිවල සත්වෝද්‍යානයේ සිටින ගැහැණු සීබ්‍රා සත්ත්වයින් දෙදෙනෙකු වෙත පැටව් බෝකිරීමේ අරමුණින් එම සත්ත්වයා රිදියගම සෆාරි උද්‍යානයේ සිට මීට දින 03කට පෙර නැවත ගෙනවිත් ඇත.
+
+සත්වෝද්‍යාන සේවකයින් පවසන්නේ එහිදී ලබාදී තිබූ ඖෂධ අධිමාත්‍රාව මෙම මරණයට හේතුවී ඇති බවටය.
+
+අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් දෙහිවල ජාතික සත්වෝද්‍යානයේ අධ්‍යක්ෂ ජනරාල් රන්ජන් මාරසිංහ මහතා පැවසුවේ මෙම සිදුවීම සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් සිදුකරන බවය.
+
+◼️
+
+[Data](articles/8f10ad93.json)
+
+---
+
+### யாழில் வீதியில் பயணித்த இளைஞனை வழிமறித்து தாக்கிய இளைஞர்கள் விளக்கமறியலில்
+
+*2024-03-14 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178732) · `ta`
+
+வீதியில் பயணித்த இளைஞனை வழிமறித்து தாக்கிய குற்றச்சாட்டில் கைதான 05 இளைஞர்களையும் எதிர்வரும் 26ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு , யாழ்.மேலதிக நீதவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் வீதியில் பயணித்த தன்னை வழிமறித்து இளைஞர் குழு ஒன்று தாக்குதல் நடத்தியதாக , தாக்குதலுக்கு இலக்கான இளைஞன் கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்தார்.
+
+முறைப்பட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் , ஐந்து இளைஞர்களை கைது செய்திருந்தனர்.
+
+கைது செய்யப்பட்டவர்களை விசாரணைகளின் பின்னர் மேலதிக நீதவான் நீதிமன்றில் முற்படுத்தப்பட்ட வேளை , ஐவரையும் 26ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டது.
+
+◼️
+
+[Data](articles/84761329.json)
+
+---
+
+### පසමිතුරුකම් පසෙකලා චීනය තායිවානයෙන් උදව් ඉල්ලයි
+
+*2024-03-14 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194508) · `si`
+
+චීනය තායිවානයේ සහාය ඉල්ලා සිටින දුර්ලභ අවස්ථාවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ මෙය පසමිතුරුකම් අමතක කර චීනය සහ තායිවානය සහයෝගයෙන් කටයුතු කරන දුර්ලභ අවස්ථාවක් ලෙසය.
+
+ඒ දකුණු චීන මුහුදේ අයිතිය පිළිබඳ අතිශය සංවේදී වාතාවරණයක් තුළ චීන ධීවර යාත්‍රාවක් මුහුදුබත් වීමත් සමගය.
+
+තායිවානයේ පාලනය සහිත කින්මෙන් දිවයින් අසල මෙම චීන ධීවර යාත්‍රාව අනතුරට ලක්වීමෙන් එහි සිටි ධීවරයන් අතුරුදන් වී තිබුණි.
+
+මෙම අවස්ථාවේදී චීනය තායිවානයේ සහාය ඉල්ලා සිටීම නිසා තායිවානයේ වෙරළාරක්ෂක යාත්‍රා කිහිපයක් ජීවිතාරක්ෂක මෙහෙයුමට එක්වී තිබේ.
+
+චීන - තායිවාන සහයෝගීතාව දුර්ලභ වුවත් මුහුදේ ජීවිතාරක්ෂක කටයුතුවලදී රටවල් දෙක එකමුතුව කටයුතු කිරීම අසාමාන්‍ය නොවන බව තායිවාන වෙරළාරක්ෂක ප්‍රධානී චව් ටේ වූ සඳහන් කළේය.
+
+ඔහු කියා සිටියේ පසුගිය වසර තුන තුළ චීනය හා තායිවානය එක්වී මුහුදේ අනතුරට ලක් වූ පුද්ගලයින් 119දෙනෙකු බේරාගත් බවය.
+
+චීන මව් භූමියේ සිට කිලෝමීටර් 128ක් පමණ ඈතින් තායිවාන සමුද්‍ර සන්ධියෙන් ඔබ්බේ පිහිටි තායිවාන දිවයින තම රටට අයත් ප්‍රාන්තයක් ලෙස චීනය සලකයි.
+
+...
+
+[Data](articles/ebdc332d.json)
+
+---
 
 ### Application deadline for second phase of ‘Aswasuma’ extended
 
@@ -48,6 +148,8 @@ During the second phase of ‘Aswesuma’, benefits are anticipated to be extend
 
 [Data](articles/187f9b81.json)
 
+[Extended Data](ext_articles/187f9b81.ext.json)
+
 ---
 
 ### Railway trade unions call off strike
@@ -63,6 +165,26 @@ Accordingly, the SLRSMU had decided to call off the sudden trade union action sc
 ◼️
 
 [Data](articles/5c3ae4d0.json)
+
+[Extended Data](ext_articles/5c3ae4d0.ext.json)
+
+---
+
+### மட்டக்களப்பு - கல்முனை பிரதான வீதியில் பாரிய விபத்து
+
+*2024-03-14 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178729) · `ta`
+
+மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட மட்டக்களப்பு கல்முனை பிரதான வீதியின் மாங்காடு பகுதியில் வியாழக்கிழமை (14) பாரிய விபத்து ஒன்று இடம்பெற்றுள்ளது.
+
+கல்முனையிலிருந்து மட்டக்களப்பு நோக்கி சென்று கொண்டிருந்த இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ் ஒன்று வீதியருகில் இரும்பு தளபாடங்களுடன் நிறுத்தி வைக்கப்பட்டிருந்த பட்டா ரக வானத்தில் மோதுண்டத்தில் இவ்விபத்துச் சம்பவம் இடம்பெற்றுள்ளதாக களுவாஞ்சிகுடி பொலிஸார் தெரிவித்தனர்.
+
+இவ்விபத்துச் சம்பவத்தில் பஸ்ஸில் பயணித்தவர்களில் 5 பேருக்கு சிறு காயங்கள் ஏற்பட்டுள்ளதாகவும் தெய்வாதீனமா உயிர் சேதங்கள் ஏற்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+
+இந்நிலையில், இவ்விபத்துச் சம்பவத்தில் அருலிருந்து பஸ் தரிப்பிடம் முற்றாக உடைந்து சேதமடைந்துள்ளதுடன், பட்டா ரக வாகனமும், பஸ்ஸூம் பாரிய சேதம் அடைந்துள்ளன.
+
+◼️
+
+[Data](articles/03e68b77.json)
 
 ---
 
@@ -720,21 +842,27 @@ In a hospital report, there are 6 students and 3 students and their condition is
 
 ---
 
-### නවීන තාක්ෂණයෙන් යුත් බහුදින යාත්‍රාවක්
+### Modern technological multi-day vessel
 
 *2024-03-14 14:07:38* · [`adalk`](https://www.ada.lk/breaking_news/නවීන-තාක්ෂණයෙන්-යුත්-බහුදින-යාත්‍රාවක්/11-408612) · `si`
 
-නවීන තාක්ෂණය හා නවීන මෙහෙයුම් ක්‍රමවේද සහිත අංගසම්පුර්ණ නව බහුදින ධිවර යාත්‍රාවක් ධීවර කර්මාන්තය සඳහා හඳුන්වා දීමට සැලසුම් කර තිබෙන බව ධීවර රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත ද සිල්වා මහතා පැවසීය.
+The fisheries industry is introducing a modern vessel with advanced technology. Minister Piyal Nishantha de Silva announced this at a press conference. The vessel aims to improve fish production quality and alleviate income impacts from rising fuel and equipment prices. A committee is working on a new operating methodology for the industry. The World Food Organization has initiated pilot projects, including a new OFRP vessel. The Ministry has discussed introducing mechanical and solar boats, and a veil monitoring system has been installed on multi-day fishing vessels. Predictive fish plot analysis is being developed using vessel surveillance data. The Fisheries Act is being updated, focusing on time changes and broader program solutions. The Fisheries Department has discussed the lorenso son 4 vessel, subject to Seychelles's laws. President Ranil Wickremesinghe has urged the Ministry of External Affairs to take legal action against Seychelles to bring fishermen to Sri Lanka.
 
-ලොරෙන්සෝ පුතා – 4 යාත්‍රාවේ සිටි ධීවරයින් ඉතා ඉක්මණින් ලංකාවට ගෙන්වා ගැනීමට කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් නීතිපතිවරයා හරහා විදේශ කටයුතු අමාත්‍යංශය දැනුවත් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ධීවර රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත ද සිල්වා මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (13) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Fisheries Minister Piyal Nishantha de Silva said that the fisheries vessel vessel vessel with modern technology and modern operating system is scheduled to be introduced to the fisheries industry.
 
-ධීවර කර්මාන්තයේ සංවර්ධනය වෙනුවෙන්, මත්ස්‍ය නිෂ්පාදනවල ගුණාත්මකභාවය ආරක්ෂා කිරීමට කටයුතු කර තිබෙනවා. ඉන්ධන මිල ඉහළ‍ යාම හා ධීවර උපකරණ මිල ඉහළ යාම නිසා ධිවර ජනතාවගේ ආදායම් තත්ත්වයට යම් බලපෑමක් සිදුව තිබෙනවා. නමුත් එම තත්ත්වය සමනය කිරීමට අවශ්‍ය පියවර මේ වන විටත් ගනිමින් තිබෙනව බව ද කිව යුතුයි.
+President Ranil Wickremesinghe has informed the Ministry of External Affairs to take action to bring fishermen in the vessel very soon as soon as the fishermen were in the vessel.
+
+State Minister of Fisheries Piyal Nishantha de Silva made this statement participating at a press conference held yesterday (13) at the Presidential Media Center yesterday.
+
+Steps have been taken to protect the quality of fish production for the development of fisheries industry. Fuel prices and fishing equipment prices have made affect the income of the fishing. But it should be said that steps are being taken to alleviate the situation.
 
 ...
 
 [Data](articles/3491b5ad.json)
+
+[Extended Data](ext_articles/3491b5ad.ext.json)
 
 ---
 
@@ -854,7 +982,7 @@ Accordingly, the Ruhunu Kumari express train arriving from Matara stopped at the
 
 A 63-year-old man has been admitted to the Kalmunai Hospital in critical condition due to allegedly attempting to take his own life after hacking his two children to death at Periya Nilaveli in Ampara.
 
-According to police, the victims were his 29-year-old son and 15-year-old daughter, who both suffered from speech impediments.
+According to police, the victims were his 29-year-old son and 15-year-old daughter, who were both identified as children with special needs.
 
 The suspect had reportedly attempted to slit his own throat following the double murder.
 
@@ -2139,139 +2267,5 @@ Two people on a motorbike fled after firing suspicious T-56 firing.
 [Data](articles/4f6583ce.json)
 
 [Extended Data](ext_articles/4f6583ce.ext.json)
-
----
-
-### Do not sign English bank agreement forms: Business Alliance urges public
-
-*2024-03-14 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-sign-English-bank-agreement-forms-Business-Alliance-urges-public/108-278822) · `en`
-
-Colombo, March 14 (Daily Mirror) - The Sri Lanka United National Businesses Alliance (SLUNBA) requested businessmen and the people to reject signing relevant bank agreement forms if they are not provided in Sinhala as well.
-
-Addressing the media, SLUNBA Deputy Chairman Susantha Liyanaarachchi urged individuals not to sign English loan agreements from today, as many of these agreements do not clearly state their specified requirements.
-
-After the Cabinet decision to suspend the parate rights of banks till December 15, banks have acquired the properties of the people, he said.
-
-"As there is a significant number of banks operating within the country, the small and medium enterprises (SMEs) today requested the President to issue immediate notes to close those banks if they cannot pass loans for them," he said.
-
-According to the statement issued by the Sri Lanka Bankers Association, they have to close their banks if they cannot conduct business with SMEs, Liyanaarachchi said.
-
-◼️
-
-[Data](articles/6f15f79d.json)
-
-[Extended Data](ext_articles/6f15f79d.ext.json)
-
----
-
-### Indian Ambassador Santosh Ja met Basil and Hakeem
-
-*2024-03-14 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178685) · `ta`
-
-Indian Ambassador Santosh Ja met with Sri Lanka's National Organizer Basil Rajapaksa and Sri Lanka Muslim Congress President Rauf Hakeem to discuss political activities.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja on Wednesday met with Sri Lanka's National Organizer Basil Rajapaksa and Sri Lanka Muslim Congress President Rauf Hakeem on Wednesday (13).
-
-It is noteworthy that various issues, including political activities, have been examined during this meeting.
-
-◼️
-
-[Data](articles/9400045a.json)
-
-[Extended Data](ext_articles/9400045a.ext.json)
-
----
-
-### Continuing shootings in South Sri Lanka;Today in Ambalangoda ...
-
-*2024-03-14 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178684) · `ta`
-
-A shooting incident in Ponatuwa, Ambalangoda, targeted Sajith Saman Piyantha, a member of the 'Samankolla' underworld group, on Thursday morning. Bullets hit the house and its occupants, including his mother and three sisters.
-
-🟩
-
-A shooting incident has been reported in the Ponatuwa area of Idandottai, which belongs to the Ambalangoda police division, police said.
-
-The firing was carried out on Thursday morning on the house of Sajith Saman Piyantha, a member of the underworld group, 'Samankolla', a member of the underworld group.
-
-It is noteworthy that many bullets attacked the walls and doors of the house and the mother and three sisters of Samankolla at home during the incident.
-
-◼️
-
-[Data](articles/02677429.json)
-
-[Extended Data](ext_articles/02677429.ext.json)
-
----
-
-### New Change from Today - Special Notice for Train Passengers
-
-*2024-03-14 10:10:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-புதிய-மாற்றம்-ரயில்-பயணிகளுக்கு-விசேட-அறிவிப்பு/175-334643) · `ta`
-
-Starting today, the Railway Department allows online booking of train seats from 7 PM. Only entire seats can be booked online, and a photo of the seat reservation ticket is required, not a physical ticket. Civil servants can book online for free, and there's no charge for this service.
-
-🟩
-
-The Railway Department said that the train seats can be booked on online from today (14).
-
-Accordingly, the train seats can be booked online from 7.00 pm tonight, the department said.
-
-With 40 percent of the seat booking on online, only the entire online seat can be booked only from today.
-
-The Railway Department has stated that the photo of the seat reservation ticket from today, despite the need to get a ticket to the passenger train station after booking the seats on online.
-
-In addition, the department has announced that free licenses for civil servants have been given the opportunity to book online.
-
-The Railway Department has said that it has not been decided on charging for it and the rumor that the money will be charged is false.. Remble
-
-◼️
-
-[Data](articles/89e0279e.json)
-
-[Extended Data](ext_articles/89e0279e.ext.json)
-
----
-
-### Lahiru Thirimanne injured in road accident in A’pura
-
-*2024-03-14 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97939/lahiru-thirimanne-injured-in-road-accident-in-apura) · `en`
-
-Former Sri Lankan cricketer Lahiru Thirimanna has been hospitalized following a road accident in Thrippane, Anuradapura, the Police said.
-
-Accordingly, he has been admitted to Anuradhapura Teaching Hospital with minor injuries sustained in the accident, according to police.
-
-Police mentioned that the car in which Thirimanne was travelling had collided with a lorry arriving from the opposite direction at around 07.45 a.m. this morning (14).
-
-Three other individuals travelling in the car, the driver of the lorry and another person have been injured and hospitalized, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/844e29f0.json)
-
-[Extended Data](ext_articles/844e29f0.ext.json)
-
----
-
-### Admission
-
-*2024-03-14 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178678) · `ta`
-
-A family member in Pudukkudiyiruppu was attacked and admitted to the hospital. Over 30 wasps were also admitted. The family was initially treated at the Pudukkudiyiruppu Divisional Hospital before being transferred to the Mullaitivu District Hospital for further treatment.
-
-🟩
-
-A family member in Pudukkudiyiruppu on Wednesday (13) has been admitted to the Pudukkudiyiruppu hospital after being attacked.
-
-More than 30 wasps have been admitted to the Pudukkudiyiruppu hospital after a family of Kaveli in the Mullaitivu Pudukkudiyiruppu area has been admitted to the Pudukkudiyiruppu hospital.
-
-He was immediately admitted to the Pudukkudiyiruppu Divisional Hospital and was transferred to the Mullaitivu District Hospital for further treatment, hospital sources said.
-
-◼️
-
-[Data](articles/f021548b.json)
-
-[Extended Data](ext_articles/f021548b.ext.json)
 
 ---

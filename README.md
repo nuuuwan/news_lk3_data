@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 11:52:22**
+As of **2024-03-14 12:02:55**
 
 ## Newspaper Stats
 
-*Scraped **12,820** Articles*
+*Scraped **12,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 684
 islandlk | 699
 adalk | 1,095
 adaderanalk | 1,541
-tamilmirrorlk | 1,564
+tamilmirrorlk | 1,565
 virakesarilk | 1,776
-dailymirrorlk | 1,960
-adaderanasinhalalk | 2,022
+dailymirrorlk | 1,961
+adaderanasinhalalk | 2,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,813 (99.9%) of 12,820 articles have been extended.
+12,820 (100.0%) of 12,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### மாணவன் நிலக்சன் ஞாபகார்த்த தங்கப்பதக்கத்தை  வென்ற மாணவி
+
+*2024-03-14 11:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-நிலக்சன்-ஞாபகார்த்த-தங்கப்பதக்கத்தை-வென்ற-மாணவி/175-334656) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தின் 37 ஆவது பட்டமளிப்பு விழாவில், ஊடகத்துறையில் ஆண்டுதோறும் சிறப்புத் தேர்ச்சி பெறும் மாணவருக்கு வழங்கப்படும், யாழ்.பல்கலைக்கழக ஊடக மாணவனும் ஊடகவியலாளருமான அமரர் சகாதேவன் நிலக்சன் ஞாபகார்த்த தங்கப்பதக்கம் இவ்வாண்டு கிருஷ்ணராஜா செல்விக்கு வழங்கப்படுகின்றது.
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தின் 37ஆவது பட்டமளிப்பு விழா, வியாழக்கிழமை (14) ஆரம்பமானது, வௌ்ளிக்கிழமை (15) மற்றும் சனிக்கிழமை (6) ஆகிய தினங்களிலும் நடைபெறும்.
+
+யாழ்ப்பாணப் பல்கலைக்கழகத்தில் ஊடக மாணவனாகப் படித்துக் கொண்டு ஊடகவியலாளராகப் பணியாற்றிக் கொண்டிருந்த நிலக்சன் 2007 ஆம் ஆண்டு ஆவணி மாதம் முதலாம் திகதி, ஊரடங்கு வேளையில் அதிகாலை 5 மணியளவில் அவரது வீட்டில் வைத்து பெற்றோர் முன்னிலையில் ஆயுததாரிகளால் படுகொலை செய்யப்பட்டிருந்தார்.
+
+நிலக்சனது ஞாபகார்த்தமாக அவருடன் யாழ்.இந்துக்கல்லூரியில் ஒன்றாய்க் கற்ற 2004 உயர்தர மாணவர்களால் முன்னெடுக்கப்படும் “நிலா நிதியம்” யாழ்ப்பாணப் பல்கலைக்கழகத்தின் பட்டமளிப்பு விழாவின் போது ஊடகத்துறையில் சிறப்புத் தேர்ச்சி பெறும் மாணவருக்கு ஆண்டுதோறும் வழங்கப்படுகின்றது.
+
+...
+
+[Data](articles/dfc11e29.json)
+
+---
+
+### හෝමාගමදී ලංගම බස් රථයක් අනතුරට ලක්වෙයි
+
+*2024-03-14 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194494) · `si`
+
+හෝමාගම ඩිපෝවට අයත් ලංගම බස් රථයක් අද උදෑසන අනතුරට ලක්ව තිබේ.
+
+මෙලෙස අනතුරට ලක්ව ඇත්තේ NSBM සරසවිය දක්වා සිසුන් ප්‍රවාහනය කරමින් තිබූ බස්රථයකි.
+
+බස් රථය NSBM සරසවිය ආසන්නයේදී රියදුරුට පාලනය කරගැනීමට නොහැකිව ජයවර්ධන පුර සරසවියේ තාප්ප කොටසක ගැටී ඉදිරියට ධාවනය වී නතරවී තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ සරසවි සිසුන් පිරිසක් සිට ඇතිමුත් අනතුරින් ඔවුට හානියක් සිදුව නොමැත.
+
+◼️
+
+[Data](articles/57993ef1.json)
+
+---
+
+### Parliament to debate no-faith motion on Speaker next week
+
+*2024-03-14 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-to-debate-no-faith-motion-on-Speaker-next-week/108-278845) · `en`
+
+Colombo, March 14 (Daily Mirror)- The Business Committee of Parliament has decided to debate the no-confidence motion on Speaker Mahinda Yapa Abeywardane on March 19 and 20.
+
+The vote on the no-confidence motion will be taken up at 4.30 pm on the 20th.
+
+◼️
+
+[Data](articles/1ecc7893.json)
+
+---
 
 ### SriLankan Airlines, Korean Air activate codeshare partnership
 
@@ -46,25 +96,33 @@ At the same time, Korean Air will codeshare on flights operated by SriLankan Air
 
 [Data](articles/ec1c158f.json)
 
+[Extended Data](ext_articles/ec1c158f.ext.json)
+
 ---
 
-### සිවිල් ගුවන් සේවා අධිකාරියට නව අධ්‍යක්ෂ ජනරාල්වරයෙක්
+### New Director General of Civil Aviation Authority
 
 *2024-03-14 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194493) · `si`
 
-ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ නව අධ්‍යක්ෂ ජනරාල්වරයා සහ ප්‍රධාන විධායක නිලධාරීවරයා ලෙස එයාර් වයිස් මාර්ෂල්  එච්.එම්.එස්.කේ.බී. කොටකදෙණිය මහතා පත්කර තිබේ.
+Air Vice Marshal HMSl HMSl HMSl, a Masters Degree holder from the University of Colombo and with security studies from India, China, and the US, is the new Director General of Civil Aviation Authority and CEO, succeeding Mr. Kotakadeniya.
 
-අමාත්‍ය මණ්ඩල නිර්දේශ මත වරාය, නාවික කටයුතු හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද  සිල්වා මහතා විසින් ඊයේ (13) දින එම පත්කිරීම සිදුකර ඇත.
+🟩
 
-එයාර් වයිස් මාර්ෂල් කොටකදෙණිය මහතා කොළඹ විශ්වවිද්‍යාලයේ ජාත්‍යන්තර අධ්‍යයනය පිළිබඳව සහ ඉන්දියාවේ මදුරාසි විශ්වවිද්‍යාලයෙන් ආරක්ෂාව සහ උපාය මාර්ගික අධ්‍යයනය පිළිබඳව ද පශ්චාත් උපාධිය හිමිකර ගත් අයෙකි.
+Air Vice Marshal HMSl HMSl HMSl as the new Director General of Civil Aviation Authority and CEO. Mr. Kotakadeniya has been appointed.
 
-මීට අමතරව අමෙරිකා එක්සත් ජනපදයේ සහ චීනයේ ආරක්ෂක විශ්වවිද්‍යාලයේ ද වැඩිදුර අධ්‍යාපනය ලබා තිබේ.
+Minister of Ports, Shipping and Aviation and Aviation, has been appointed by the Harbor and Aviation and Aviation and Aviation and Aviation.
 
-මීට පෙර ශ්‍රී ලංකා සිවිල් ගුවන් සේවා අධිකාරියේ අධ්‍යක්ෂ ජනරාල් සහ ප්‍රධාන විධායක නිලධාරීවරයා ලෙස සේවය කළ පී.ඒ. ජයකාන්ත මහතා පසුගිය දා විශ්‍රාම ගෙන තිබිණි.
+Air Vice Marshal Kotakadeniya is a Masters Degree in International Study of the University of Colombo and security and strategic study from India.
+
+In addition, the United States and China's security university have been provided.
+
+Earlier, the PAA served as the Director General of Civil Aviation Authority and CEO of Sri Lanka. Mr. Jayakantha had recently retired.
 
 ◼️
 
 [Data](articles/403acd45.json)
+
+[Extended Data](ext_articles/403acd45.ext.json)
 
 ---
 
@@ -105,6 +163,8 @@ Before assuming the role of Director General of Civil Aviation, H.M.S.K.B Kotaka
 ◼️
 
 [Data](articles/7ef3de48.json)
+
+[Extended Data](ext_articles/7ef3de48.ext.json)
 
 ---
 
@@ -193,6 +253,8 @@ The Ceylon Electricity Board, which is in the process of being restructured, has
 ◼️
 
 [Data](articles/63c4a302.json)
+
+[Extended Data](ext_articles/63c4a302.ext.json)
 
 ---
 
@@ -758,6 +820,8 @@ The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 
 
 [Data](articles/ae5103e8.json)
 
+[Extended Data](ext_articles/ae5103e8.ext.json)
+
 ---
 
 ### Gunshots fired at a house in Ambalangoda
@@ -985,6 +1049,8 @@ Lost value added taxes were estimated at 280 million rupees.
 ...
 
 [Data](articles/877a1998.json)
+
+[Extended Data](ext_articles/877a1998.ext.json)
 
 ---
 
@@ -2067,63 +2133,5 @@ The Senior Deputy Inspector General of the Southern Province, the Galle DIG and 
 [Data](articles/d4ab9def.json)
 
 [Extended Data](ext_articles/d4ab9def.ext.json)
-
----
-
-### Deputy Director of Medical Supplies Division arrested
-
-*2024-03-13 21:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deputy-Director-of-Medical-Supplies-Division-arrested/108-278795) · `en`
-
-Colombo, March 13 (daily Mirror)- Deputy Director of the Medical Supplies Division Dr. Thusitha Sudarshana has been arrested by the Criminal Investigation Department (CID).
-
-He has been arrested by the CID after recording a statement in connection with the import of substandard human Immunoglobulin injections.
-
-◼️
-
-[Data](articles/9c3bcc03.json)
-
-[Extended Data](ext_articles/9c3bcc03.ext.json)
-
----
-
-### Bangladesh wins the leader's super attack
-
-*2024-03-13 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194479) · `si`
-
-Bangladesh defeats Sri Lanka in the first ODI by 6 wickets, thanks to Njjamal and Mushficer Rahimphas.
-
-🟩
-
-Bangladesh won the first ODI match against Sri Lanka by 6 wickets.
-
-The precious relationship with the leader Njjamal and Mushficer Rahimphas have helped to take Bangladesh to the victory.
-
-◼️
-
-[Data](articles/cfcc3e19.json)
-
-[Extended Data](ext_articles/cfcc3e19.ext.json)
-
----
-
-### Chinese military delegation visited Sri Lanka, Maldives and Nepal – report
-
-*2024-03-13 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97934/chinese-military-delegation-visited-sri-lanka-maldives-and-nepal-report) · `en`
-
-A Chinese military delegation recently visited the Maldives, Sri Lanka and Nepal to discuss further cooperation in defence issues, Beijing said Wednesday.
-
-Beijing is seeking to build closer ties in South Asia in a push to counter its strategic rival India for influence.
-
-Last week, the Maldives said it had signed a “military assistance” deal with China after ordering Indian troops deployed in the small but strategically-placed archipelago to leave.
-
-And Beijing confirmed Wednesday that a delegation had visited the country and met with pro-China President Mohamed Muizzu during a trip that also took them to Sri Lanka and Nepal from March 4 to 13.
-
-In all three countries, “they exchanged views on military relations and regional security issues of common concern”, the Chinese military said in a statement on its official WeChat account.
-
-...
-
-[Data](articles/062a0599.json)
-
-[Extended Data](ext_articles/062a0599.ext.json)
 
 ---

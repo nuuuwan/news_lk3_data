@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 16:35:04**
+As of **2024-03-14 16:49:26**
 
 ## Newspaper Stats
 
-*Scraped **12,890** Articles*
+*Scraped **12,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,109
-adaderanalk | 1,551
+adalk | 1,110
+adaderanalk | 1,552
 tamilmirrorlk | 1,575
 virakesarilk | 1,786
-dailymirrorlk | 1,971
+dailymirrorlk | 1,972
 adaderanasinhalalk | 2,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,890 (100.0%) of 12,890 articles have been extended.
+12,890 (100.0%) of 12,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Application deadline for second phase of ‘Aswasuma’ extended
+
+*2024-03-14 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97953/application-deadline-for-second-phase-of-aswasuma-extended-) · `en`
+
+The deadline to submit applications for the second phase of the “Aswasuma” welfare benefit program has been extended until March 22, 2024, State Minister of Finance Shehan Semasinghe said.
+
+Taking to ‘X’ (formerly Twitter) to announce this, Semasinghe highlighted that so far 130,000 new applications have been received in the system and that more applications which have been handed over physically need to be entered in the data system by the Divisional Secretariats.
+
+The acceptance of applications for the second phase of ‘Aswesuma’ program commenced on February 15. Accordingly, the families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, as earlier announced by the Welfare Benefits Board (WBB).
+
+During the second phase of ‘Aswesuma’, benefits are anticipated to be extended to 2.4 million families.
+
+◼️
+
+[Data](articles/187f9b81.json)
+
+---
+
+### Railway trade unions call off strike
+
+*2024-03-14 16:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-trade-unions-call-off-strike/108-278859) · `en`
+
+Colombo, March 14 (Daily Mirror) - The Sri Lanka Railways Station Masters' Union (SLRSMU) has decided to call off the sudden trade union action following discussions with the Transport Ministry Secretary.
+
+The union said favorable solutions were given by the Ministry secretary to the existing problems.
+
+Accordingly, the SLRSMU had decided to call off the sudden trade union action scheduled for 4 p.m. in protest of the seat reservation system without providing any information to the station masters.
+
+◼️
+
+[Data](articles/5c3ae4d0.json)
+
+---
 
 ### IndiGo announces new direct flights between Mumbai and Colombo
 
@@ -683,6 +717,24 @@ In a hospital report, there are 6 students and 3 students and their condition is
 [Data](articles/f935ca16.json)
 
 [Extended Data](ext_articles/f935ca16.ext.json)
+
+---
+
+### නවීන තාක්ෂණයෙන් යුත් බහුදින යාත්‍රාවක්
+
+*2024-03-14 14:07:38* · [`adalk`](https://www.ada.lk/breaking_news/නවීන-තාක්ෂණයෙන්-යුත්-බහුදින-යාත්‍රාවක්/11-408612) · `si`
+
+නවීන තාක්ෂණය හා නවීන මෙහෙයුම් ක්‍රමවේද සහිත අංගසම්පුර්ණ නව බහුදින ධිවර යාත්‍රාවක් ධීවර කර්මාන්තය සඳහා හඳුන්වා දීමට සැලසුම් කර තිබෙන බව ධීවර රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත ද සිල්වා මහතා පැවසීය.
+
+ලොරෙන්සෝ පුතා – 4 යාත්‍රාවේ සිටි ධීවරයින් ඉතා ඉක්මණින් ලංකාවට ගෙන්වා ගැනීමට කටයුතු කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් නීතිපතිවරයා හරහා විදේශ කටයුතු අමාත්‍යංශය දැනුවත් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+ධීවර රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත ද සිල්වා මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (13) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+ධීවර කර්මාන්තයේ සංවර්ධනය වෙනුවෙන්, මත්ස්‍ය නිෂ්පාදනවල ගුණාත්මකභාවය ආරක්ෂා කිරීමට කටයුතු කර තිබෙනවා. ඉන්ධන මිල ඉහළ‍ යාම හා ධීවර උපකරණ මිල ඉහළ යාම නිසා ධිවර ජනතාවගේ ආදායම් තත්ත්වයට යම් බලපෑමක් සිදුව තිබෙනවා. නමුත් එම තත්ත්වය සමනය කිරීමට අවශ්‍ය පියවර මේ වන විටත් ගනිමින් තිබෙනව බව ද කිව යුතුයි.
+
+...
+
+[Data](articles/3491b5ad.json)
 
 ---
 
@@ -2221,77 +2273,5 @@ He was immediately admitted to the Pudukkudiyiruppu Divisional Hospital and was 
 [Data](articles/f021548b.json)
 
 [Extended Data](ext_articles/f021548b.ext.json)
-
----
-
-### Yall. Vaddukoddai youth assassination;Allow the suspects to be detained in police custody
-
-*2024-03-14 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178680) · `ta`
-
-The Mallakam Magistrate has allowed the detention of five suspects in police custody for their alleged involvement in the murder of a youth in Vaddukoddai, Jaffna. The suspects, arrested from Arali, were hiding in Kilinochchi. The police recovered a car used for smuggling from an unmanned house in Arali. Despite the arrest, the main suspect remains at large, and the court requires further evidence for the murder.
-
-🟩
-
-The Mallakam Magistrate has granted permission to carry out investigations by detaining five persons arrested for allegedly involved in the murder of a youth in Vaddukoddai in Jaffna.
-
-Husband died in a two -wheeler in a two -vehicle gang after she left the Karainagar area and had been killed in a two -wheeler in a two -wheeler.
-
-Police, who were investigating the incident, arrested four suspects from Arali, who was hiding in Kilinochchi.
-
-Based on investigations carried out by the arrested persons, police recovered the car used for smuggling from an unmanned house in Arali.
-
-In this case, the five suspects and the Mallakam Magistrate's Court were arrested by the Mallakam Magistrate's Court, saying that the main suspect was not arrested, and that there were requirements for the murder and the need to obtain evidence of the murder.
-
-Subsequently, the five suspects were allowed to carry out 24 -hour investigations by police custody.
-
-◼️
-
-[Data](articles/65c9e8d9.json)
-
-[Extended Data](ext_articles/65c9e8d9.ext.json)
-
----
-
-### Lahiru Thirimana in danger
-
-*2024-03-14 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194491) · `si`
-
-Lahiru Thirimanne, a prominent figure in Sri Lanka, was involved in a car accident in Anuradhapura, suffering injuries.
-
-🟩
-
-Lahiru Thirimanne Car of Sri Lanka, Lahiru Thirimanne, has clashed in the Thirappane area in Anuradhapura.
-
-A police spokesman said that Lahiru Thirimana has been injured.
-
-◼️
-
-[Data](articles/def4e727.json)
-
-[Extended Data](ext_articles/def4e727.ext.json)
-
----
-
-### Hope to import vehicles gradually from next year: President
-
-*2024-03-14 09:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Hope-to-import-vehicles-gradually-from-next-year-President/155-278840) · `en`
-
-Colombo, March 14 (Daily Mirror) - President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting from next year.
-
-The President made these remarks while attending a gathering organized by the United Youth Union, titled "Future of the Youth," held yesterday (12) at Taprobane Entertainment.
-
-"I cannot see vehicle imports happening this year, but we would like to do it gradually starting next year," he said.
-
-The President said that he knows there is a problem in the existing car market, but under the balance of payments, the government has allowed the import of everything other than vehicles.
-
-"If the import of cars are allowed, then there is a possibility of the country going backwards, but we hope to import vehicles in a systematic, step-by-step manner. We will import essential types of vehicles as the first step," he said.
-
-This year, the government allowed buses to be imported to transport tourists, he said.
-
-...
-
-[Data](articles/3d76d3a2.json)
-
-[Extended Data](ext_articles/3d76d3a2.ext.json)
 
 ---

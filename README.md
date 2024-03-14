@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 07:31:18**
+As of **2024-03-14 07:53:59**
 
 ## Newspaper Stats
 
-*Scraped **12,760** Articles*
+*Scraped **12,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,90 @@ newsfirstlk | 363
 dailyftlk | 661
 economynextcom | 680
 islandlk | 699
-adalk | 1,089
-adaderanalk | 1,534
+adalk | 1,090
+adaderanalk | 1,536
 tamilmirrorlk | 1,554
 virakesarilk | 1,766
 dailymirrorlk | 1,949
-adaderanasinhalalk | 2,013
+adaderanasinhalalk | 2,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,748 (99.9%) of 12,760 articles have been extended.
+12,758 (100.0%) of 12,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### IMF නියෝජිතයින් අද ජාතික ජන බලවේගය හමුවෙයි
+### අද සිට දුම්රිය ආසන වෙන්කිරීම ඔන්ලයින් ක්‍රමයට පමණයි
 
-*2024-03-14 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194484) · `si`
+*2024-03-14 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194485) · `si`
 
-දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අද (14) දින හමුවීමට බලාපොරොත්තු වන බව ජාතික ජන බලවේගය පවසයි.
+අද (14) දිනයේ සිට දුම්රිය ආසන වෙන්කිරීම සම්පුර්ණයෙන්ම මාර්ගගත ක්‍රමය ඔස්සේ සිදුකළ හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
 
-එහි ආර්ථික කවුන්සිලයේ සාමාජික සුනිල් හඳුන්නෙත්ති මහතා පැවසුවේ අද පෙරවරු 10.00ට එම හමුව සිදුවනු ඇති බවය.
+ඒ අනුව අද රාත්‍රී 7 සිට මාර්ගගත ක්‍රමය ඔස්සේ දුම්රිය ආසන වෙන් කිරීම සිදුකළ හැකි බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
 
-ආණ්ඩුව විසින් ජනතාව මත පටවා ඇති ආර්ථික පීඩනය සම්බන්ධයෙන් එහිදි අවධානය යොමුකිරීමට කටයුතු කරන බව සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේය.
+ආසන වෙන් කිරීමේ දී මේ දක්වා 40%ක ප්‍රතිශතයක් පමණක් මාර්ගගත ක්‍රමය ඔස්සේ සිදුකිරීමට අවස්ථාව සලසා දී තිබු අතර අද සිට එය සම්පුර්ණයෙන්ම මාර්ගගත ක්‍රමය ඔස්සේ පමණක් සිදුවනු ඇත.
 
-මේ අතර යෝජිත රාජ්‍ය නොවන සංවිධාන ලියාපදිංචි කිරීමේ සහ අධීක්ෂණ පනත් කෙටුම්පත ඉවත දමන ලෙසත් ඔන්ලයින් ආරක්ෂණ පනතට තහනමක් පනවන ලෙසත් ශ්‍රී ලංකා රජයෙන් ඉල්ලීමක් කරන ලෙස හියුමන් රයිට්ස් වොච් සංවිධානය ජාත්‍යන්තර මුල්‍ය අරමුදලට දැනුම් දී තිබේ.
+මාර්ගගත ක්‍රමය ඔස්සේ ආසන වෙන් කිරීමෙන් පසු දුම්රිය ස්ථානයට පැමිණ ප්‍රවේශ පත්‍රයක් ලබාගැනීමට මගීන්ට පෙර සිදුවුවද අද සිට ආසන වෙන් කිරීමේ පත්‍රිකාවේ ඡායාරූපයක් සන්තකයේ තබාගැනීම පමණක් ප්‍රමාණවත් බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල වෙත ලිපියක් යොමුකරමින් හියුමන් රයිට්ස් වොච් සංවිධානය පෙන්වාදෙන්නේ මානව හිමිකම් ප්‍රමිතීන්ට ගරු කරන බව සහතික කිරීම සඳහා ත්‍රස්ත විරෝධී පනත් කෙටුම්පත සංශෝධනය කරන ලෙසට ද ශ්‍රී ලංකා රජයෙන් ඉල්ලීමක් කළ යුතු බවය.
+මීට අමතරව රාජ්‍ය සේවකයින් සඳහා හිමිවන නිදහස් බලපත්‍රය වෙන් කිරීමේ අවස්ථාවද මාර්ගත ක්‍රමය ඔස්සේ සිදුකිරීමට දුම්රිය දෙපාර්තමේන්තුව අවස්ථාව සලසා දී තිබේ.
+
+ඒ සඳහා කිසිදු අය කිරීමක් සිදුකිරීමට තීරණය කර නොමැති අතර එලෙස මුදල් අය කිරීමක් සිදුවන බවට සිදුවන ප්‍රචාර අසත්‍යය බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
 
 ...
 
+[Data](articles/9bf01efd.json)
+
+---
+
+### Sri Lanka & Bangladesh explore new avenues to boost trade, investment
+
+*2024-03-14 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97937/sri-lanka-bangladesh-explore-new-avenues-to-boost-trade-investment) · `en`
+
+Strengthening and sustaining the long-standing friendly bilateral economic partnership between Sri Lanka and Bangladesh is vital for increasing efforts to harness the full potential of trade and investment between the two countries, says High Commissioner Dharmapala Weerakkody.
+
+The Sri Lankan envoy made these remarks when he called on the newly appointed Foreign Minister of Bangladesh Dr. Hasan Mahmud in Dhaka on Monday.
+
+He highlighted that the relations between the two countries have prevailed for centuries and the people-to-people contacts have been growing stronger over the years.
+
+Underscoring the need to find new avenues to further improve trade and investment and pave the way for two-way partnerships to develop the respective economies, High Commissioner Weerakkody mentioned that the two countries are currently negotiating to finalize a Preferential Trading Agreement (PTA), which will further improve trade sector cooperation.
+
+...
+
+[Data](articles/4211bc11.json)
+
+---
+
+### The IMF representatives meet the national folk force today
+
+*2024-03-14 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194484) · `si`
+
+IMF representatives meet national folk force today. Sunil Handunnetti confirms 10 am meeting, paying attention to economic pressure. Human Rights Watch requests NGO registration and monitoring, suggesting government amend human rights standards. They also advise removing IMF program in Sri Lanka.
+
+🟩
+
+The national folk force says the International Monetary Fund representatives will visit the island today (14).
+
+Sunil Handunnetti said that the meeting would take place at 10.00 am this morning.
+
+Sunil Handunnetti said that the government will pay attention to the economic pressure imposed by the government.
+
+Meanwhile, Human Rights Watch has informed the International Monetary Fund to request the Registration of NGO Registration and Monitoring the Proposed NGOs.
+
+The Human Rights Watch pointed out a letter to the International Monetary Fund, the Government of Sri Lanka should also be amended to revise the human rights standards.
+
+Human Rights Watch has informed the Organization to take steps to take steps to remove the IMF program in the country.
+
+The International Monetary Fund has a public request to revise the proposed relevant bills to protect the reliability and efficiency of its program in Sri Lanka.
+
+◼️
+
 [Data](articles/22330224.json)
+
+[Extended Data](ext_articles/22330224.ext.json)
 
 ---
 
@@ -64,23 +114,49 @@ During the discussion, they exchanged views on bilateral relations, political de
 
 [Data](articles/42b7bf5e.json)
 
+[Extended Data](ext_articles/42b7bf5e.ext.json)
+
 ---
 
-### දකුණේ පාතාලය මඩින්න පොලිස්පතිගෙන් විශේෂ සැලසුමක්
+### IGP from the IGP to mad in the south
 
 *2024-03-14 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194483) · `si`
 
-දකුණු පළාතේ පසුගිය දිනවල සිදුවු අපරාධ යළිත් සිදුනොවන ලෙසට අවශ්‍ය සියලු ක්‍රියාමාර්ග ගන්නා ලෙස පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා උපදෙස් ලබා දී තිබේ.
+IGP Deshabandu Tennakoon has directed measures to prevent crimes in the Southern Province, including visiting recent shooting incidents and instructing the Criminal Investigation Department and other divisions to uncover suspects.
 
-පළාත්භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා සහ පොලිස් විශේෂ කාර්යය බළකා නිලධාරීන්ට අදාළ උපදෙස් ලබා දී ඇති බව වාර්තා වේ.
+🟩
 
-ගාල්ල සහ ඇල්පිටිය පොලිස් කොට්ඨාශවල පසුගිය දිනවල සිදුවු වෙඩි තැබීමේ සිදුවීම් සම්බන්ධයෙන් සොයා බැලීම සඳහා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අදාළ ප්‍රදේශවල ඊයේ (13) සංචාරයක නිරත වු අතර අනතුරුව කොස්ගොඩ පොලිස් ස්ථානයේදී ගාල්ල සහ ඇල්පිටිය කොට්ඨාශවල ජ්‍යේෂ්ඨ පොලිස් නිලධාරීන් කැඳවා සාකච්ඡාවක් ද පවත්වනු ලැබීය.
+IGP Deshabandu Tennakoon has instructed to take all necessary measures to take all necessary measures to prevent crimes in the Southern Province.
 
-එහිදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව, අපරාධ වාර්තා කොට්ඨාශය, කොළඹ අපරාධ කොට්ඨාශය, ප්‍රජා පොලිස් කොට්ඨාශය, පොලිස් විශේෂ කාර්යය බළකාය හා බුද්ධි අංශ ඇතුළු සියලු නිලධාරීන් කැඳවා මෙම අපරාධ විසඳීමේ දී එකිනෙක සම්බන්ධීකරණය වීම, තොරතුරු හුවමාරු කරගැනීම හා නිලධාරින් කටයුතු කළ යුතු ආකාරය පිළිබඳව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් නියෝග ලබා දී ඇති බව වාර්තා වේ.
+It is reported that the Senior DIG and STF personnel have been instructed to the Special Task Force personnel.
 
-...
+IGP Deshaband Tennakoon visited the recent shooting incidents of Galle and Elpitiya Police Station, and the Senior Police Station was held at the Kosgoda Police Station.
+
+IGP Deshabandu Tennakoon is called the Criminal Investigation Department, Criminal Report Division, Community Division, Community Division and Intelligence and Intelligence, and IGP Deshabandu Tennakoon.It is reported that orders have been given.
+
+The IGP has also advised them to take necessary action to uncover the suspects in connection with these incidents.
+
+◼️
 
 [Data](articles/832721a8.json)
+
+[Extended Data](ext_articles/832721a8.ext.json)
+
+---
+
+### Evening thundershowers possible in 3 provinces including Western
+
+*2024-03-14 07:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97936/evening-thundershowers-possible-in-3-provinces-including-western) · `en`
+
+The Department of Meteorology says showers or thundershowers can be expected in parts of the Western, Sabaragamuwa and Southern provinces and Nuwara-Eliya district during the evening or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and Galle, Matara and Anuradhapura districts in the morning.
+
+Mainly fair weather will prevail in the sea areas around the island, the Meteorology Department said adding that the winds will be easterly or variable in direction and wind speed will be 20-30 kmph.
+
+◼️
+
+[Data](articles/3aa6b956.json)
 
 ---
 
@@ -98,21 +174,29 @@ The incident has triggered fears in the minds of Sri Lankans whether Canada will
 
 [Data](articles/9a1375f9.json)
 
+[Extended Data](ext_articles/9a1375f9.ext.json)
+
 ---
 
-### බස්නාහිර ඇතුළු පළාත් කිහිපයකට තැන තැන වැසි
+### Showers in several places and provinces
 
 *2024-03-14 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194481) · `si`
 
-බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers and thundershowers expected in Western, Sabaragamuwa, Southern provinces, Nuwara Eliya district, and night. Dry weather elsewhere. Medium rainfall in Galle, Matara, Anuradhapura districts.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල, මාතර සහ අනුරාධපුර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Southern provinces, in the Nuwara Eliya district and even night.
+
+The Department of Meteorology announced that there was a dry weather in the rest of the island.
+
+Some locations, in some places in the Western, Sabaragamuwa, Central and Uva provinces, are expected to be metaded in the Galle, Matara and Anuradhapura districts.
 
 ◼️
 
 [Data](articles/1305206e.json)
+
+[Extended Data](ext_articles/1305206e.ext.json)
 
 ---
 
@@ -292,19 +376,27 @@ Addressing a press conference yesterday, SLUNBA Chairperson Tania Abeysundara sa
 
 [Data](articles/0df51385.json)
 
+[Extended Data](ext_articles/0df51385.ext.json)
+
 ---
 
-### காலியில் சுற்றுலா துறைமுகம்
+### Tourism port in Galle
 
 *2024-03-14 03:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-சுற்றுலா-துறைமுகம்/175-334638) · `ta`
 
-துறைமுகத்தை மேம்படுத்துவதற்கு பொருத்தமான முதலீட்டாளர் ஒருவரை தெரிவு செய்யவுள்ளோம் என துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமான சேவைகள் அமைச்சின் செயலாளர் ருவன் சந்திர தெரிவித்துள்ளார்.
+Galle's tourism port will be upgraded with investor support for improved ship and boat arrivals.
 
-சுற்றுலாப் பயணிகளை ஏற்றிச்செல்லும் கப்பல்கள் மற்றும் படகுகள் வருகை தரும் வகையில் துறைமுகம் மேம்படுத்தப்படும் என்றும் தெரிவித்துள்ளார். (a)
+🟩
+
+The Secretary of the Ministry of Ports, Shipping and Aviation, Ruwan Chandra, said that we will choose an appropriate investor to improve the port.
+
+The port will be upgraded to the arrival of ships and boats carrying tourists. (A)
 
 ◼️
 
 [Data](articles/7e7029e5.json)
+
+[Extended Data](ext_articles/7e7029e5.ext.json)
 
 ---
 
@@ -392,6 +484,8 @@ Speaking to Mirror Business, Export Agriculture Industries Director General A.P.
 
 [Data](articles/28478d27.json)
 
+[Extended Data](ext_articles/28478d27.ext.json)
+
 ---
 
 ### Sri Lanka leaders should get best political economy practices from top economies in the world
@@ -425,6 +519,8 @@ Despite the improvement, the IHP noted that the consumer confidence remains at n
 ...
 
 [Data](articles/c05ec360.json)
+
+[Extended Data](ext_articles/c05ec360.ext.json)
 
 ---
 
@@ -1129,6 +1225,22 @@ The highest temperature in the last 24 hours, the highest temperature was 37.9 d
 [Data](articles/51e7b0de.json)
 
 [Extended Data](ext_articles/51e7b0de.ext.json)
+
+---
+
+### වරාය නගරයේ තීරු බදු රහිත සාප්පු සංකීර්ණයේ නීති ගැන පාර්ශව දෙකක් ගැටෙයි
+
+*2024-03-13 19:15:11* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-නගරයේ-තීරු-බදු-රහිත-සාප්පු-සංකීර්ණයේ-නීති-ගැන-පාර්ශව-දෙකක්-ගැටෙයි/11-408596) · `si`
+
+කොළඹ වරාය නගරයේ ස්ථාපිත කිරීමට නියමිත තීරු බදු රහිත සාප්පු සංකීර්ණයකට අදාළව නීති සෑදීමේදී  නීතිපතිවරයාගේ මතය සහ කොමිෂන් සභාවේ මතය එකිනෙකට වෙනස් බැවින් ඒ සම්බන්ධ එක් තීරණයකට පැමිණීම සදහා කඩිනමින් මැදිහත්වන ලෙස රජයේ මුදල් පිළිබඳ කාරක සභාව ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශ ලේකම්වරයාට දැනුම් දුන්නේය.
+
+පාර්ලිමේන්තු මන්ත්‍රී ගරු ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව ඊයේ (12) රැස්වූ අවස්ථාවේදී  තීරු බදු රහිත සාප්පු සංකීර්ණයක් ස්ථාපිත කිරීම  සදහා වරාය නගරය ආර්ථික කොමිෂන් සභාව සතු නෛතික බලය පිළිබඳව ද අවධානය යොමුවූ අතර එහිදි මෙම දැනුම්දීම සිදුකරන ලදී.
+
+තීරු බදු රහිත සාප්පු සංකීර්ණයකට අදාල නව රෙගුලාසි අනුමතිය සදහා කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇති බව ද ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශයේ වැඩබලන ලේකම් අනෝජා හේරත් මහත්මිය  පැවසීය. තීරු බදු රහිත භාණ්ඩ ඩොලර් 5000ක් දක්වා නියම කිරීමට කොමිෂන් සභාවට බලය නැති බව  නීතිපතිවරයා විසින් දන්වා ඇති බව ද කාරක සභා සභාපතිවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/d9ac5207.json)
 
 ---
 
@@ -2145,109 +2257,5 @@ However, the Minister promised that if the price of egg producers failed to redu
 [Data](articles/3a73cb84.json)
 
 [Extended Data](ext_articles/3a73cb84.ext.json)
-
----
-
-### “Price control for egg”
-
-*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு/175-334615) · `ta`
-
-Agriculture Minister Mahinda Amaraweera announced price control for eggs to ensure fair pricing ahead of the festive season, following discussions with the All Ceylon Egg Producers Association. Egg manufacturers also expressed a desire for price reduction.
-
-🟩
-
-Agriculture Minister Mahinda Amaraweera has said that the price restriction will be implemented in an effort to provide eggs at fair prices ahead of the festive season.
-
-The matter was made during a discussion held today (13) between the Agriculture Minister and representatives of the All Ceylon Egg Producers Association.
-
-During the discussion, existing egg prices were taken up for review and currently Rs.. Emphasized the need to further reduce the price of 48
-
-Egg manufacturers have also expressed their desire to reduce the price as they have already observed the price.
-
-However, the Minister promised that if the price of egg producers failed to reduce the price, the control price would be implemented.
-
-◼️
-
-[Data](articles/65bf0a73.json)
-
-[Extended Data](ext_articles/65bf0a73.ext.json)
-
----
-
-### Medagoda Abhiatissa Thero says that there is a suspicion of the book of former President Gotabhaya
-
-*2024-03-13 15:54:06* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-ගෝඨාභයගේ-පොත-ගැන-සැකයක්-පවතින-බව-මැදගොඩ-අභයතිස්ස-හිමියෝ-පවසති/11-408590) · `si`
-
-Medagoda Abhiatissa Thero suspects a conspiracy in the book about former President Gotabhaya Rajapaksa, accusing him of revealing secrets. The Thero criticizes the government's disregard for the people's will and the economy, pointing out that the current administration fails to utilize the country's resources effectively.
-
-🟩
-
-The book is written about how former President Gotabhaya Rajapaksa was revealed by he was expelled by him.
-
-Professor Ven. Medagoda Abhiatissa Thero says. Professor Ven. Medagoda Abhiatissa Thero has said that the background was made to the conspiracy in Kandy.
-
-Abhayatista Thero said that the not listening to the voice of the people was a conspiracy and its own family in their lap and understood books.
-
-The Thera said that if Ranil was given to the arrangement of Ranil and refuses to the presence of the people's prospects, he said.
-
-The country is important to us, but since they were not important to politicians, they support the ministers who have been able to force them from the day.
-
-He said that the situation in the country would worsen the situation ahead and is now being allowed to swallow part of the country, but it is not allowed to swallow the rest of the country, but it cannot be allowed.
-
-...
-
-[Data](articles/3155d190.json)
-
-[Extended Data](ext_articles/3155d190.ext.json)
-
----
-
-### Abyapatissa Thero says that there is suspicion over the book of former President Gotabhaya
-
-*2024-03-13 15:54:06* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-ගෝඨාභයගේ-පොත-ගැන-සැකයක්-පවතින-බව-අභයතිස්ස-හිමියෝ-පවසති/11-408590) · `si`
-
-Abyapatissa Thero suspects conspiracy in former President Gotabhaya Rajapaksa's book, revealing his expulsion. Medagoda Abhiatissa Thero accuses conspiracy in Kandy, criticizing the government's disregard for the people's will. He warns of worsening political and economic situations, highlighting the failure to utilize the country's resources.
-
-🟩
-
-The book is written about how former President Gotabhaya Rajapaksa was revealed by he was expelled by him.
-
-Professor Ven. Medagoda Abhiatissa Thero says. Professor Ven. Medagoda Abhiatissa Thero has said that the background was made to the conspiracy in Kandy.
-
-Abhayatista Thero said that the not listening to the voice of the people was a conspiracy and its own family in their lap and understood books.
-
-The Thera said that if Ranil was given to the arrangement of Ranil and refuses to the presence of the people's prospects, he said.
-
-The country is important to us, but since they were not important to politicians, they support the ministers who have been able to force them from the day.
-
-He said that the situation in the country would worsen the situation ahead and is now being allowed to swallow part of the country, but it is not allowed to swallow the rest of the country, but it cannot be allowed.
-
-...
-
-[Data](articles/c53f6c5a.json)
-
-[Extended Data](ext_articles/c53f6c5a.ext.json)
-
----
-
-### Petition
-
-*2024-03-13 15:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நியமனத்தை-ரத்து-செய்யக்கோரி-மனுத்தாக்கல்/175-334614) · `ta`
-
-The Sri Lanka Young Journalists Association has filed a petition in the Supreme Court against the appointment of Deshabandan South Kon as Inspector General of Police, claiming it's illegal and violates the Constitution.
-
-🟩
-
-The Sri Lanka Young Journalists Association today filed a fundamental rights petition in the Supreme Court demanding the cancellation of the appointment of Deshabandan South Kon as the Inspector General of Police.
-
-On behalf of the Sri Lanka Young Journalists Association, its president, Thandi Jayawardena, Secretary MFM Pasir, Coordinator Shalika Wimalasena, Treasurer Nirosh Maithri, Committee Member Dharindaru Udurakadera, Vice President P. Niroshkumar and Member Rekha Nilakshi have filed the petition.
-
-The petition stated that the appointment of Patriot Thenkoon is illegal, arbitrary, irrational and contrary to the rules of the Constitution and violates it.
-
-◼️
-
-[Data](articles/29aef43d.json)
-
-[Extended Data](ext_articles/29aef43d.ext.json)
 
 ---

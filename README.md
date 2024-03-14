@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 17:03:09**
+As of **2024-03-14 17:17:53**
 
 ## Newspaper Stats
 
-*Scraped **12,899** Articles*
+*Scraped **12,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,120 +15,208 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,110
-adaderanalk | 1,552
+adalk | 1,111
+adaderanalk | 1,554
 tamilmirrorlk | 1,575
 virakesarilk | 1,790
 dailymirrorlk | 1,972
-adaderanasinhalalk | 2,038
+adaderanasinhalalk | 2,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,893 (100.0%) of 12,899 articles have been extended.
+12,899 (100.0%) of 12,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### வெடுக்குநாறி மலை விவகாரம்: மனிதவுரிமை ஆணைக்குழுவும் சட்டவிரோத கைதுகளுக்கு துணை போகின்றதா? - கஜேந்திரன் எம்.பி ஆதங்கம்
+### Drug lord ‘Shiran Basik’ acquitted over contradictory police testimonies
+
+*2024-03-14 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97955/drug-lord-shiran-basik-acquitted-over-contradictory-police-testimonies-) · `en`
+
+Large-scale drug trafficker Mohommed Shiran Basik was acquitted from a drug case against him on orders of the Colombo High Court on Thursday (14 March).
+
+Colombo High Court Judge Manjula Thilakaratne ordered the defendant’s acquittal citing significant contradictions in the testimonies provided by officers of the Police Narcotics Bureau (PNB).
+
+According to the complaint, Basik was apprehended on 11 January 2011, near the Edmonton housing scheme in Kirulapana with 4.53 grams of heroin. Initially, it was reported that he was arrested alone, but later police officials claimed he was with his child at the time of arrest.
+
+Moreover, despite a police officer’s assertion that the raid was prompted by a tip-off received by the police from a certain phone number, evidence presented by the defense revealed that the phone number in question had been disconnected approximately one and a half years prior.
+
+...
+
+[Data](articles/aadd68c2.json)
+
+---
+
+### මරණ දඬුවම නියම වූ සිවරාජා ට අභියාචනාධිකරණයෙන් නිදහස
+
+*2024-03-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194510) · `si`
+
+මරණීය දණ්ඩනය නියමවී සිටි වේළුපිල්ලයන් ත්‍යගරාජා හෙවත් සිවරාජා නමැති විත්තිකරුවකු එම දඬුවමෙන් නිදොස් කොට නිදහස් කරන ලෙස අභියාචනාධිකරණය නියෝග කළේය.
+
+2014 වසරේ රුවන්වැල්ල ප්‍රදේශයේ ඇතිවූ පුද්ගලික ආරවුලකින් අනතුරුව පුද්ගලයෙකුට පිහි ඇනුමක් සිදුකර ඝාතනය කිරීමේ චෝදනාවට වරදකරුවී සැකකරුට මරණීය දණ්ඩනය නියමවී තිබුණි.
+
+එම විත්තිකරු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු මේනකා විජේසුන්දර මහත්මියගේ එකඟත්වය මත විනිසුරු විකුම් කළුආරච්චි මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+
+2014 වසරේ පෙබරවාරි මස 07 වනදා රුවන්වැල්ල ප්‍රදේශයේදී ඇති වූ පෞද්ගලික ආරවුලකින් අනතුරුව ආරුමුගම් චන්ද්‍රසේකරන් නමැත්තෙකුත්ගේ පපුවට පිහි ඇනුමක් සිදුකර මරාදැමීම සම්බන්ධයෙන් විත්තිකරුවන් දෙදෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් කෑගල්ල මහාධිකරණය හමුවේ අධිචෝදනා ගොනු කර තිබුණි.
+
+...
+
+[Data](articles/bd75b209.json)
+
+---
+
+### Govt and IRCON discuss progress of railway track enhancement in Anuradhapura
+
+*2024-03-14 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97954/govt-and-ircon-discuss-progress-of-railway-track-enhancement-in-anuradhapura-) · `en`
+
+Discussions pertaining to the progress of the upgrading of the railway track between Maho and Anuradhapura were held at the Anuradhapura District Secretariat on Thursday (14 March).
+
+Accordingly, a discussion on the progress of the construction work thus far was held between State Minister of Finance Shehan Semasinghe, representatives of India’s Ircon International (IRCON) and government authorities.
+
+Taking to ‘X’ (formerly Twitter), the State Minister disclosed that the discussion focused on identifying and resolving issues hindering the construction work. As such, the parties deliberated on taking appropriate actions to ensure the timely completion of the project and its successful implementation, he said.
+
+◼️
+
+[Data](articles/f125d899.json)
+
+---
+
+### Wetland Mountain Affairs: Human Rights Commission is also supporting illegal arrests?- Gajendran MP
 
 *2024-03-14 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178736) · `ta`
 
-மனிதவுரிமை ஆணைக்குழுவும் சட்டவிரோத கைதுகளுக்கும், குற்றச்சாட்டுக்களுக்கும் துணை போகின்றதா என்ற கேள்வி எழுகின்றது என தமிழ் தேசிய மக்கள் முன்னனியின் நாடாளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரன் தெரிவித்துள்ளார்.
+MP Selvarajah Gajendran questions the Human Rights Commission's support for illegal arrests, citing poor conditions and lack of medical attention for prisoners, including a fasting priest. He criticizes the Commission for not visiting the prisoners and suggests diplomatic pressure is needed.
 
-வவுனியா சிறைச்சாலையில் உண்ணாவிரதம் இருக்கும் வெடுக்குநாறி மலை ஆலய பூசகர் உள்ளிட்ட கைதிகளை இன்று வியாழக்கிழமை (14) பார்வையிட்ட பின் ஊடகங்களுக்கு கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
+
+The question arises as to whether the Human Rights Commission is also supporting illegal arrests and allegations, said Selvarajah Gajendran, Member of Parliament of the Tamil National People's Front.
+
+He said this while speaking to the media after visiting prisoners, including the priest of the Vedukkunni Mountain Temple, who was fasting at the Vavuniya Prison on Thursday (14).. As he further stated,
+
+I went to the prison and visited 8 people. 5 of them are fasting for the 3rd day. Their demand is that false cases be withdrawn and their release. Their physical condition worsens. Some people have diseases such as asma, diabetes and blood pressure. They are not under appropriate medical examination. Human Rights Commission officials have not yet visited them. The Human Rights Commission has not yet visited the Human Rights Commission. The question arises as to whether the Human Rights Commission is also supporting illegal arrests and charges.
 
 ...
 
 [Data](articles/3c2aaaec.json)
 
+[Extended Data](ext_articles/3c2aaaec.ext.json)
+
 ---
 
-### அமைச்சர் ஜீவன் தொண்டமான் தலவாக்கலை ஒலிரூட் தோட்டத்தில் வீடுகளை கையளித்தார்!
+### Minister Jeevan Thondaman handed over houses at Olairud estate!
 
 *2024-03-14 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178735) · `ta`
 
-தலவாக்கலை ஒலிரூட் தோட்டத்தில் தீயினால் பாதிக்கப்பட்டு தற்காலிக குடில்களில் வசித்த குடும்பங்களுக்கு, குடிநீர், மின்சாரம், உட்கட்டமைப்பு உட்பட சகல வசதிகளுடன் கூடிய தனி வீடுகள், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரும், இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளருமான ஜீவன் தொண்டமானால் இன்று வியாழக்கிழமை (14) வழங்கி வைக்கப்பட்டன.
+Minister Jeevan Thondaman provided 24 families with permanent houses, amenities, and infrastructure at Olairud estate, a significant improvement from previous temporary huts.
 
-அத்துடன், அவர்களுக்கு பிரத்தியேக 'முகவரி' வழங்கப்பட்டு,  வீடுகளுக்கு முன் வைப்பதற்கான கடித பெட்டியும் வழங்கப்பட்டது.
+🟩
 
-ஒலிரூட் தோட்டத்தில் ஏற்பட்ட திடீர் தீ விபத்தினால் பாதிக்கப்பட்டு தற்காலிக குடில்களில் வாழ்ந்துவந்த 24 குடும்பங்களுக்கு தனி வீடுகளை அமைப்பதற்கான வேலைத்திட்டம் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சு ஊடாக முன்னெடுக்கப்பட்டது.
+Jeevan Thondamal, the Minister of Ceylon Workers Congress, and General Secretary of the Ceylon Workers Congress, were provided with all the amenities, including drinking water, electricity and infrastructure.
+
+In addition, they were given an exclusive 'address' and a letter box to be placed in front of the houses.
+
+A program to set up separate houses for 24 families who lived in temporary huts and lived in temporary huts was implemented through the Ministry of Water Supply and Garden Infrastructure.
+
+Infrastructure facilities have not been provided for housing projects in the past. However, the Minister directed the departmental officials to provide all infrastructure, including drinking water, electricity and street, and that the entrepreneurs should be handed over to the people.
 
 ...
 
 [Data](articles/24565bd8.json)
 
+[Extended Data](ext_articles/24565bd8.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ජාතික සත්වෝද්‍යානයේ එකම පිරිමි සීබ්‍රා අවසන් ගමන් යයි
+### The Male Zebra of the National Zoo is the final
 
 *2024-03-14 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194509) · `si`
 
-ශ්‍රී ලංකා ජාතික සත්වෝද්‍යානය සතුව සිටි එකම පිරිමි සීබ්‍රා ඊයේ රාත්‍රියේ අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+The male zebra at the National Zoo died last night, allegedly due to drugs in its transport. Employees protested, and the zebra was part of an exchange program from China. It was moved from the Ridiyagama Safari Park to the Dehiwala Zoo to breed with female zebras. The zoo's director general announced an investigation.
 
-සත්වෝද්‍යාන සේවකයින් චෝදනා කරන්නේ සත්ත්වයා ප්‍රවාහනය කිරීමේදී ලබාදී තිබූ ඖෂධ අධිමාත්‍රාවක් මෙම මරණයට හේතුවී ඇති බවටය.
+🟩
 
-මේ සම්බන්ධයෙන් විධිමත් පරීක්ෂණයක් සිදුකරමින් සත්වෝද්‍යාන සේවකයින් අද දෙහිවල සත්වෝද්‍යානය ඉදිරිපිටදී විරෝධතාවයක නියැලිනි,
+The only men of the Sri Lanka National Zoo was unfortunately dead last night.
 
-සත්ත්ව හුවමාරු වැඩසටහනක් යටතේ මෙම පිරිමි සීබ්‍රා මීට වසර 06කට පෙර චීනයෙන් මෙරටට ලැබී තිබුණි.
+Zoo employees allege that the death of drugs provided in transporting the animal.
 
-කලකට ඉහතදී මෙම සත්ත්වයා රිදියගම සෆාරි උද්‍යානය වෙත රැගෙන ගොස් තිබුණි
+Zoo workers engaged in protest in front of Dehiwala Zoo, conducting a formal investigation into the matter,
 
-දෙහිවල සත්වෝද්‍යානයේ සිටින ගැහැණු සීබ්‍රා සත්ත්වයින් දෙදෙනෙකු වෙත පැටව් බෝකිරීමේ අරමුණින් එම සත්ත්වයා රිදියගම සෆාරි උද්‍යානයේ සිට මීට දින 03කට පෙර නැවත ගෙනවිත් ඇත.
+The male zebra had received six years ago in China six years ago, under an animal exchange program.
 
-සත්වෝද්‍යාන සේවකයින් පවසන්නේ එහිදී ලබාදී තිබූ ඖෂධ අධිමාත්‍රාව මෙම මරණයට හේතුවී ඇති බවටය.
+A time ago the animal had been taken to the Ridiyagama Safari Park
 
-අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් දෙහිවල ජාතික සත්වෝද්‍යානයේ අධ්‍යක්ෂ ජනරාල් රන්ජන් මාරසිංහ මහතා පැවසුවේ මෙම සිදුවීම සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් සිදුකරන බවය.
+The animal was repeated 03 days ago from the Ridiyagama Safari Park, with the objective of breaking into two female zoo creatures in the Dehiwala Zoo.
+
+The medicinal superhractor of the pharmaceutical employees is due to this death.
+
+Addressing a media briefing today, the Director General of the Dehiwala National Zoo said that an accelerated investigation into the incident.
 
 ◼️
 
 [Data](articles/8f10ad93.json)
 
+[Extended Data](ext_articles/8f10ad93.ext.json)
+
 ---
 
-### யாழில் வீதியில் பயணித்த இளைஞனை வழிமறித்து தாக்கிய இளைஞர்கள் விளக்கமறியலில்
+### Young people who traveled on the road in Jaffna
 
 *2024-03-14 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178732) · `ta`
 
-வீதியில் பயணித்த இளைஞனை வழிமறித்து தாக்கிய குற்றச்சாட்டில் கைதான 05 இளைஞர்களையும் எதிர்வரும் 26ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு , யாழ்.மேலதிக நீதவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+Jaffna Magistrate orders arrest of five youths for assaulting a young man on the road in Kopay. The victim lodged a complaint at the Kopay police station. The police investigated and arrested the youths. The case was remanded until the 26th.
 
-கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் வீதியில் பயணித்த தன்னை வழிமறித்து இளைஞர் குழு ஒன்று தாக்குதல் நடத்தியதாக , தாக்குதலுக்கு இலக்கான இளைஞன் கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்தார்.
+🟩
 
-முறைப்பட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் , ஐந்து இளைஞர்களை கைது செய்திருந்தனர்.
+The Jaffna Magistrate's Magistrate has ordered that all five youths arrested for allegedly assaulting the youth on the road.
 
-கைது செய்யப்பட்டவர்களை விசாரணைகளின் பின்னர் மேலதிக நீதவான் நீதிமன்றில் முற்படுத்தப்பட்ட வேளை , ஐவரையும் 26ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டது.
+The young man who was attacked by a youth group had lodged a complaint at the Kopay police station that a group of youth had attacked him on the road in the Kopay police division.
+
+According to the system, the police, who investigated the investigation, had arrested five youths.
+
+The Additional Magistrate's Court was asked to be remanded until the 26th of this month.
 
 ◼️
 
 [Data](articles/84761329.json)
 
+[Extended Data](ext_articles/84761329.ext.json)
+
 ---
 
-### පසමිතුරුකම් පසෙකලා චීනය තායිවානයෙන් උදව් ඉල්ලයි
+### Cylly, China requests help from Taiwan
 
 *2024-03-14 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194508) · `si`
 
-චීනය තායිවානයේ සහාය ඉල්ලා සිටින දුර්ලභ අවස්ථාවක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+China seeks Taiwan's help amidst a rare cooperation, following a Chinese fishing vessel's incident in the South China Sea near Taiwan. Taiwan's Coast Guard and other vessels have assisted in rescuing 119 people over three years. Taiwan, a self-governed state, is 128 km from China, but their relationship is complex, with historical tensions and recent political shifts.
 
-විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ මෙය පසමිතුරුකම් අමතක කර චීනය සහ තායිවානය සහයෝගයෙන් කටයුතු කරන දුර්ලභ අවස්ථාවක් ලෙසය.
+🟩
 
-ඒ දකුණු චීන මුහුදේ අයිතිය පිළිබඳ අතිශය සංවේදී වාතාවරණයක් තුළ චීන ධීවර යාත්‍රාවක් මුහුදුබත් වීමත් සමගය.
+China has reportedly claimed the rare occasion asking for assistance in Taiwan.
 
-තායිවානයේ පාලනය සහිත කින්මෙන් දිවයින් අසල මෙම චීන ධීවර යාත්‍රාව අනතුරට ලක්වීමෙන් එහි සිටි ධීවරයන් අතුරුදන් වී තිබුණි.
+Foreign media reports that this is a rare opportunity to forget this, and China and Taiwan are cooperating.
 
-මෙම අවස්ථාවේදී චීනය තායිවානයේ සහාය ඉල්ලා සිටීම නිසා තායිවානයේ වෙරළාරක්ෂක යාත්‍රා කිහිපයක් ජීවිතාරක්ෂක මෙහෙයුමට එක්වී තිබේ.
+The South China Sea ownership of the South China Sea is the surgery of a Chinese fishing vessel in an extremely sensitive environment.
 
-චීන - තායිවාන සහයෝගීතාව දුර්ලභ වුවත් මුහුදේ ජීවිතාරක්ෂක කටයුතුවලදී රටවල් දෙක එකමුතුව කටයුතු කිරීම අසාමාන්‍ය නොවන බව තායිවාන වෙරළාරක්ෂක ප්‍රධානී චව් ටේ වූ සඳහන් කළේය.
+Fishermen had disappeared by the Chinese fishing vessel near the islands of the Taiwan.
 
-ඔහු කියා සිටියේ පසුගිය වසර තුන තුළ චීනය හා තායිවානය එක්වී මුහුදේ අනතුරට ලක් වූ පුද්ගලයින් 119දෙනෙකු බේරාගත් බවය.
+At this point, China's support from Taiwan supporters, several Taiwan coastlever vessels have joined the lives of the lives of the Taiwan.
 
-චීන මව් භූමියේ සිට කිලෝමීටර් 128ක් පමණ ඈතින් තායිවාන සමුද්‍ර සන්ධියෙන් ඔබ්බේ පිහිටි තායිවාන දිවයින තම රටට අයත් ප්‍රාන්තයක් ලෙස චීනය සලකයි.
+Taiwane Coast Guard, Taiwan Coast Guard Special
+
+He said that 119 persons were rescued by China and Taiwan in the sea over the past three years.
+
+Taiwana is a state of Taiwan, which is located in the Taiwanehariya area about 128 miles [128 km] from the Chinese motherland.
+
+But in 1949, the Chinese Communist government is born to China, Taiwan is a country with a self-governance today.
 
 ...
 
 [Data](articles/ebdc332d.json)
+
+[Extended Data](ext_articles/ebdc332d.ext.json)
 
 ---
 
@@ -170,21 +258,27 @@ Accordingly, the SLRSMU had decided to call off the sudden trade union action sc
 
 ---
 
-### மட்டக்களப்பு - கல்முனை பிரதான வீதியில் பாரிய விபத்து
+### Massive accident on Batticaloa - Kalmunai main road
 
 *2024-03-14 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178729) · `ta`
 
-மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட மட்டக்களப்பு கல்முனை பிரதான வீதியின் மாங்காடு பகுதியில் வியாழக்கிழமை (14) பாரிய விபத்து ஒன்று இடம்பெற்றுள்ளது.
+A massive accident involving a bus from the Sri Lanka Transport Board (SLTB) on the Kalmunai-Batticaloa main road in Mangadu, Batticaloa, resulted in five injuries. The bus was traveling from Kalmunai to Batticaloa and crashed into an iron furniture field. The bus stop from Arul and a strap vehicle were damaged.
 
-கல்முனையிலிருந்து மட்டக்களப்பு நோக்கி சென்று கொண்டிருந்த இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ் ஒன்று வீதியருகில் இரும்பு தளபாடங்களுடன் நிறுத்தி வைக்கப்பட்டிருந்த பட்டா ரக வானத்தில் மோதுண்டத்தில் இவ்விபத்துச் சம்பவம் இடம்பெற்றுள்ளதாக களுவாஞ்சிகுடி பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இவ்விபத்துச் சம்பவத்தில் பஸ்ஸில் பயணித்தவர்களில் 5 பேருக்கு சிறு காயங்கள் ஏற்பட்டுள்ளதாகவும் தெய்வாதீனமா உயிர் சேதங்கள் ஏற்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+A massive accident occurred on Thursday (14) in the Mangadu area of Kalmunai main road in Batticaloa, belonging to the Kaluwanchikudi police division of the Batticaloa district.
 
-இந்நிலையில், இவ்விபத்துச் சம்பவத்தில் அருலிருந்து பஸ் தரிப்பிடம் முற்றாக உடைந்து சேதமடைந்துள்ளதுடன், பட்டா ரக வாகனமும், பஸ்ஸூம் பாரிய சேதம் அடைந்துள்ளன.
+A bus belonging to the Sri Lanka Transport Board (SLTB) from Kalmunai to Batticaloa has taken place in the field of iron furniture.
+
+Five of the bus passengers were injured in the incident and the Divinama was not affected by the casualties, police said.
+
+In this case, the bus stop from Arul has been completely damaged and the strap vehicle has been damaged.
 
 ◼️
 
 [Data](articles/03e68b77.json)
+
+[Extended Data](ext_articles/03e68b77.ext.json)
 
 ---
 
@@ -297,6 +391,20 @@ According to police sources, the father of his 29-year-old son and the 15-year-o
 [Data](articles/25b3aaac.json)
 
 [Extended Data](ext_articles/25b3aaac.ext.json)
+
+---
+
+### කථානායකවරයාට එරෙහි විශ්වාසභංගය මාර්තු 19 ඡන්ද විමසීම 20 දා
+
+*2024-03-14 15:50:09* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහි-විශ්වාසභංගය-මාර්තු-19-ඡන්ද-විමසීම-20-දා/11-408615) · `si`
+
+කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව ලබන 19 සහ 20  විවාදයට  ගැනීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කොට ඇත. එය අද දින පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් හංස අබේරත්න මහතා තහවුරු කරයි.
+
+එසේම විවාදයේ දෙවැනි දිනය වන 20 වැනිදා ප.ව 4.30 ට පමණ විශ්වාසභංග යෝජනාවට  අදාළ ඡන්ද විමසීම පැවැත්වීමට ද තීරණය කොට ඇති බව ඒ මහතා වැඩි දුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/9dfee598.json)
 
 ---
 
@@ -2177,95 +2285,5 @@ Bruk's grandmother was sick for several months, and he did not participate in th
 [Data](articles/90e6cbb3.json)
 
 [Extended Data](ext_articles/90e6cbb3.ext.json)
-
----
-
-### China donates special explosive disposal equipment to SL Army
-
-*2024-03-14 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-donates-special-explosive-disposal-equipment-to-SL-Army/108-278843) · `en`
-
-Colombo, March 14 (Daily Mirror) - The Sri Lanka Army accepted a stock of special Explosive Ordnance Disposal Equipment, which had been gifted to the Ministry of Defence under the Chinese Military Grant scheme.
-
-The equipment was handed over to the Sri Lanka Army during a formal ceremony, headed by the Ambassador of the People’s Republic of China in Sri Lanka Qi Zhenhong, Defence Secretary, General Kamal Gunaratne and Army Commander Lieutenant General Vikum Liyanage at the Army Headquarters.
-
-The formal signing of documents related to the grant of equipment took place between Qi Zhenhong and Kamal Gunaratne.
-
-The Army said 18 REOD 4000 Explosive Ordnance Disposal medium robots, 18 REOD 400 Explosive Ordnance Disposal robots, 10 Anti Explosive Blankets and 10 Explotion Protection Tanks and Vehicles were symbolically handed over to the Defence Secretary, who then presented them to the Commander of the Sri Lanka Army.
-
-◼️
-
-[Data](articles/b97e622b.json)
-
-[Extended Data](ext_articles/b97e622b.ext.json)
-
----
-
-### In Vavuniya, a paddy -loaded vehicle crashed;One injury
-
-*2024-03-14 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178689) · `ta`
-
-In Vavuniya, a paddy-loaded vehicle crashed, injuring one person. The accident occurred on Wednesday evening near Puliyankulam, as the vehicle was traveling from Mullaitivu to Vavuniya.
-
-🟩
-
-One person was injured when a vehicle loaded with paddy bins in Puliyankulam in Vavuniya. The accident took place on Wednesday (13) evening.
-
-The vehicle of the Kenra rod, which was traveling from Mullaitivu to Vavuniya, crashed into the Puliyankulam junction and crashed into the road.
-
-A man was injured in the accident.
-
-◼️
-
-[Data](articles/a372adc0.json)
-
-[Extended Data](ext_articles/a372adc0.ext.json)
-
----
-
-### US House passes bill that could ban TikTok nationwide
-
-*2024-03-14 10:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-House-passes-bill-that-could-ban-TikTok-nationwide/108-278841) · `en`
-
-BBC - The US House of Representatives has passed a landmark bill that could see TikTok banned in America.
-
-It would give the social media giant's Chinese parent company, ByteDance, six months to sell its controlling stake or the app would be blocked in the US.
-
-While the bill passed overwhelmingly in a bipartisan vote, it still needs to clear the Senate and be signed by the president to become law.
-
-Lawmakers have long held concerns about China's influence over TikTok.
-
-TikTok is owned by Chinese company ByteDance, founded in 2012.
-
-The Beijing-based firm is registered in the Cayman Islands, and has offices across Europe and the US.
-
-If the bill does manage to secure approval in the Senate, President Joe Biden has promised to sign it as soon as it lands on his desk, which could prompt a diplomatic spat with China.
-
-...
-
-[Data](articles/2b7a8ada.json)
-
-[Extended Data](ext_articles/2b7a8ada.ext.json)
-
----
-
-### Shooting at Ambalangoda
-
-*2024-03-14 10:36:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பலாங்கொடையில்-துப்பாக்கிச்சூடு/175-334645) · `ta`
-
-Akambodi Sajith Saman Priyantha, a notorious drug trafficker, was shot dead in Ambalangoda. His family was inside, and bullets hit the house. Two suspects on a motorbike fled after the shooting.
-
-🟩
-
-The house of a famous underworld and drug trafficker in Ambalangoda, Akambodi Sajith Saman Priyantha, has been shot dead this morning.
-
-However, when Samankola's mother and three sisters were inside the house at the time, many bullets hit the walls and doors of the house.
-
-Two people on a motorbike fled after firing suspicious T-56 firing.
-
-◼️
-
-[Data](articles/4f6583ce.json)
-
-[Extended Data](ext_articles/4f6583ce.ext.json)
 
 ---

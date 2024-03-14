@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 19:35:05**
+As of **2024-03-14 19:51:02**
 
 ## Newspaper Stats
 
-*Scraped **12,931** Articles*
+*Scraped **12,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 694
 islandlk | 700
-adalk | 1,114
-adaderanalk | 1,556
-tamilmirrorlk | 1,576
-virakesarilk | 1,793
-dailymirrorlk | 1,973
+adalk | 1,116
+adaderanalk | 1,558
+tamilmirrorlk | 1,577
+virakesarilk | 1,794
+dailymirrorlk | 1,975
 adaderanasinhalalk | 2,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,929 (100.0%) of 12,931 articles have been extended.
+12,931 (99.9%) of 12,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Hundreds rescued from love scam centre in the Philippines
+
+*2024-03-14 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97961/hundreds-rescued-from-love-scam-centre-in-the-philippines) · `en`
+
+Hundreds of people have been rescued from a scam centre in the Philippines that made them pose as lovers online.
+
+Police said they raided the centre on Thursday and rescued 383 Filipinos, 202 Chinese and 73 other foreign nationals.
+
+The centre, which is about 100km north of Manila, was masquerading as an online gambling firm, they said.
+
+South East Asia has become a hub for scam centres where the scammers themselves are often entrapped and forced into criminal activity.
+
+Young and tech-savvy victims are often lured into running these illegal operations, which range from money laundering and crypto fraud to so-called love scams. The latter are also known as “pig butchering” scams, named after the farming practice of fattening pigs before slaughtering them.
+
+...
+
+[Data](articles/d113ea23.json)
+
+---
+
+### கெஹலிய ரம்புக்வெல்லவுக்கு மீண்டும் விளக்கமறியல்!
+
+*2024-03-14 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178751) · `ta`
+
+தரமற்ற ஊசி மருந்துகளை இறக்குமதி செய்ததாக குற்றம் சாட்டப்பட்ட முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, முன்னாள் அமைச்சின் செயலாளர் மற்றும் நால்வரின் பிணை மனுவை மாளிகாகந்த நீதிவான் நீதிமன்றம் மீண்டும் நிராகரித்துள்ளது.
+
+மேலும், பொதுச் சொத்துச் சட்ட விதிகளின் கீழ் வழக்கு முடியும்வரை அவர்களை விளக்கமறியலில் வைக்க உத்தரவிட்ட நீதிவான் வழக்கு மீண்டும் மார்ச் 28ஆம் விசாரணைக்கு எடுக்கப்படும் எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f22eb4c8.json)
+
+---
+
+### “30 நாட்களுக்குள் சம்பள உயர்வு கிடைக்கப்பெறும்” ஜீவன்
+
+*2024-03-14 19:29:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/30-நாட்களுக்குள்-சம்பள-உயர்வு-கிடைக்கப்பெறும்-ஜீவன்/76-334677) · `ta`
+
+மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு எதிர்வரும் 30 நாட்களுக்குள் சம்பள உயர்வு கிடைக்கப்பெறும். நாட்சம்பளமாக ஆயிரத்து 700 ரூபாவை பெறமுடியும் என்று இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+
+அத்துடன், மலையக தமிழர்கள் தமது தேசிய அடையாளத்தை சனத்தொகை கணக்கெடுப்பின்போது மலையகத் தமிழர் என வெளிப்படுத்துவதற்கான ஏற்பாட்டை உள்வாங்குவதற்கு ஜனாதிபதி இணக்கம் தெரிவித்துள்ளார் எனவும் அமைச்சர் கூறினார்.
+
+தலவாக்கலை ஒலிரூட் தோட்டத்தில் தீயினால் பாதிக்கப்பட்டு தற்காலிக குடில்களில் வசித்த குடும்பங்களுக்கு, குடிநீர், மின்சாரம், உட்கட்டமைப்பு உட்பட சகல வசதிகளுடன் கூடிய தனி வீடுகள், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரும், இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளருமான ஜீவன் தொண்டமானால் இன்று (14.03.2024) வழங்கி வைக்கப்பட்டன.
+
+இந்நிகழ்வில் பிரதம அதிதியாக கலந்துக் கொண்டு உரையாற்றிய அவர் மேலும் கூறியவை வருமாறு,
+
+...
+
+[Data](articles/085d67de.json)
+
+---
+
+### 107 new and amended Bills presented to Parliament in 2022/23 - State Minister
+
+*2024-03-14 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97960/107-new-and-amended-bills-presented-to-parliament-in-202223-state-minister-) · `en`
+
+Anuradha Jayaratne, the State Minister of Justice and Prison Affairs, hinted at the potential submission of 107 newly revised bills to Parliament between 2022 and 2023.
+
+Moreover, the Minister pointed out that in 2023, the agriculture and industry sectors together produced earnings worth 116 million rupees, thanks to the labour contributions of inmates.
+
+These statements were made by the State Minister during a press briefing held at the Presidential Media Centre today (14), focusing on the theme “Collective Path to a Stable Country”.
+
+Expressing his views further State Minister of Justice and Prison Affairs Anuradha Jayaratne;
+
+In 2022, Parliament successfully submitted 29 new bills, followed by an impressive 78 new bills in 2023, resulting in a total of 107 bills. This milestone marks the largest number of bills to be amended in the history of the Ministry of Justice, reflecting a significant legislative effort and commitment to addressing various legal matters and reforms.
+
+...
+
+[Data](articles/f7c7c39f.json)
+
+---
 
 ### United Petroleum Australia to commence operations mid-2024 in Sri Lanka
 
@@ -48,23 +120,37 @@ On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka
 
 [Data](articles/c917dcbe.json)
 
+[Extended Data](ext_articles/c917dcbe.ext.json)
+
 ---
 
-### පිළිකා නාශක ඖෂධයක් ගැන ආන්දෝලනාත්මක හෙළිදරව්වක්
+### There is a controversial revelation about a cancer
 
 *2024-03-14 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194517) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් වංචාවට අදාළ ප්‍රශ්නගත ඖෂධ සැපයුම්කරු විසින් සපයා ඇති පිළිකා නාශක ඖෂධයක් ද ප්‍රමිතියෙන් තොර බවට වාර්තාවකින් තහවුරු වූ බව අද (14) අධිකරණයේදී අනාවරණය විය.
+A court revealed a report of substandard antibodies from a pharmaceutical supplier. Six suspects, including Dr. Thusitha Sudarshana, were ordered by Maligakanda Magistrate. The case involves the former Minister of Health, Keheliya Rambukwella, and the Deputy Director of the Medical Supplies Unit. The Deputy Solicitor General General of Lakithgi is involved in further investigations. The case highlights the provision of unqualified medicine to locals, with the suspects accused of supplying human emiolobourine and a solution without antibodies. Bail applications were rejected, and the former Health Minister and others were ordered to surrender to security forces.
 
-මේ අතර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් වංචාවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 6 දෙනෙකු නඩු විභාගය අවසන් වනතුරු රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+🟩
 
-ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනෝග්ලොබියුලීන් එන්නත් මිලදී ගැනීමේ සිද්ධියට අදාළව වෛද්‍ය සැපයුම් ඒකකයේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය තුසිත සුදර්ශන මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ රාත්‍රියේ අත්අඩංගුවට ගනු ලැබීය.
+It was revealed in court today that a report that had been provided by the questionable pharmaceutical supplier for substandard antibodies.
 
-විදෙස්ගතව සිට ඊයේ දිවයිනට පැමිණි වෛද්‍යවරයා ප්‍රකාශයක් ලබාගැනීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවීමෙන් පසු අත්අඩංගුවට ගෙන තිබූ අතර, මොහු ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළ ප්‍රසම්පාදන ක්‍රියාවලියේ ඇගයීම් කමිටු සාමාජිකයෙක් ලෙස ද කටයුතු කළ අයෙකි.
+Meanwhile, Maligakanda Magistrate today ordered that six suspects including the priority of the substandard antibodies and six suspects.
+
+Deputy Director of the Medical Supplies Unit, Dr. Thusitha Sudarshana was arrested by the Criminal Investigations Department (CID).
+
+The doctor who had been abroad yesterday and the doctor who had arrived in the island had been summoned to the CID to obtain a statement.
+
+The suspect was produced before the Maligakkanda Magistrate this afternoon at the Maligakkanda Magistrate this afternoon when the case was taken up with a standstill.
+
+The former Minister of Health, Keheliya Rambukwella and the suspects were produced before the court.
+
+The Deputy Solicitor General General of Lakithgi gathered in the court regarding further investigations.
 
 ...
 
 [Data](articles/c2bdfd4b.json)
+
+[Extended Data](ext_articles/c2bdfd4b.ext.json)
 
 ---
 
@@ -92,6 +178,24 @@ It has also been asked to care about adults and patients in the homes and not to
 
 ---
 
+### Dry weather affects reservoirs
+
+*2024-03-14 19:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-affects-reservoirs/108-278861) · `en`
+
+The water levels of the hydropower reservoirs used for hydropower generation have been dwindling fast due to the prevailing dry weather.
+
+Engineers in charge of Maussakele and Castlereigh reservoirs said the water levels in the two reservoirs have reduced by 25 percent.
+
+They said the water level in Castelreigh reservoir stood at 24.5 feet below spill level and that of Maussakele reservoir 22.8 ft below spill level. They pointed out that the reservoirs would be further affected if the dry weather persisted.
+
+They also said that steps have been taken to prevent any impact on the power supply.
+
+◼️
+
+[Data](articles/08634678.json)
+
+---
+
 ### United Petroleum of Australia to start Sri Lanka operations by mid this year
 
 *2024-03-14 19:00:00* · [`economynextcom`](https://economynext.com/united-petroleum-of-australia-to-start-sri-lanka-operations-by-mid-this-year-154683/) · `en`
@@ -107,6 +211,24 @@ Sri Lanka last year awarded retail fuel licenses to three foreign firms – Chin
 [Data](articles/cf0492b8.json)
 
 [Extended Data](ext_articles/cf0492b8.ext.json)
+
+---
+
+### මාලිමාව හා අයි.එම්.එෆ්. අතර හමුවක් ෂැංග්‍රීලා හෝටලයේදී
+
+*2024-03-14 18:56:45* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-හා-අයි-එම්-එෆ්--අතර-හමුවක්-ෂැංග්‍රීලා-හෝටලයේදී/11-408619) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාවේ මෙහෙයුම් ප්‍රධානී පීටර් බෘෘවර් ඇතුළු කණ්ඩායමක් සහ ජාතික ජන බලවේගයේ නියෝජිතයන් අතර සාකච්ඡාවක් අද (14) පෙරවරුවේ කොළඹ ශ්‍රැංගිලා හෝටලයේදී පැවැත්විණි.
+
+මෙම හමුවේදී ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණයේ සහ වංචා දූෂණ වැළැක්වීමට අදාළ ක්‍රියාවලීන්හි ප්‍රගතිය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා වු  අතර ජනතාවට මෙතෙක් ලබා දී නොමැති තාක්ෂණ සහායක වාර්තාව පිළිබඳවද ජාතික ජන බලවේගයේ නියෝජිතයින්  විමසීම් සිදු කර තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල නියෝජනය කරමින් පීටර් බෲවර් මහතාට අමතරව ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජ්‍ය නේවාසික නියෝජිත සර්වත් ජහාන් සහ කැට්සියරිනා ස්විඩ්සෙන්කා  Katsiaryna Svieydzenka සහ මානවී අබේවික්‍රම යන මහත්මීහුද සාකච්ඡාවට එක්ව සිටියහ.
+
+මේ හමුව සඳහා ජාතික ජන බලවේගය නියෝජනය කරමින් ජාතික විධායක සභික පාර්ලිමේන්තු මන්ත්‍රී  විජිත හේරත්, ජාතික විධායක සභික මුදිත නානායක්කාර සහ ආර්ථික කවුන්සිලයේ සාමාජිකයින් වන මහාචාර්ය අනිල් ජයන්ත, මහාචාර්ය සීතා බණ්ඩාර, ආචාර්ය හර්ෂණ සූරියප්පෙරුම සහ සුනිල් හඳුන්නෙත්ති යන  මහත්ම මහත්මිහු සහභාගි වූහ..
+
+◼️
+
+[Data](articles/16ed222a.json)
 
 ---
 
@@ -393,6 +515,18 @@ The Maligakanda Magistrate's Court has ordered that the case will be taken up on
 [Data](articles/ee939bab.json)
 
 [Extended Data](ext_articles/ee939bab.ext.json)
+
+---
+
+### Court refuses bail for Keheliya
+
+*2024-03-14 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-refuses-bail-for-Keheliya/108-278862) · `en`
+
+Colombo, March 14 (Daily Mirror) -  The Maligakanda Magistrate’s Court today rejected the bail applications filed on behalf of former Health Minister Keheliya Rambukwella and five others in connection with the alleged import of substandard Immunoglobulin injections.
+
+◼️
+
+[Data](articles/1b8df8c2.json)
 
 ---
 
@@ -1926,6 +2060,28 @@ The audience member also alluded to assets allegedly stolen by the leadership of
 
 ---
 
+### උඩවලව ජලාශයේ වලව දකුණු ඉවුර ඇළ පුනරුත්තාපනය කරයි
+
+*2024-03-14 13:09:37* · [`adalk`](https://www.ada.lk/breaking_news/උඩවලව-ජලාශයේ-වලව-දකුණු-ඉවුර-ඇළ-පුනරුත්තාපනය-කරයි/11-408606) · `si`
+
+උඩවලව ජලාශයේ  සිට ඇඹිලිපිටිය  හරහා අගුණකොළපැලැස්ස  දක්වා වන, වලව දකුණු ඉවුර ප්‍රධාන ඇළ, වසර  පනහකට පසු  පුනරුත්ථාපනය කෙරේ.
+
+වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ගේ ප්‍රධානත්වයෙන් පසුගියදා (12)  චන්ද්‍රිකා වැව  ගඟේයාය කොට්ඨාසයේ දී  මෙම  ව්‍යාපෘතිය ආරම්භ කරනු ලැබුවාය.
+
+ලෝක බැංකුවේ ජාත්‍යන්තර සංවර්ධන අරමුදල මඟින් හිමිවන  රුපියල් මිලියන 157 ක්  ව්‍යාපෘතිය සඳහා වැය කෙරේ.
+
+උඩවලව සිට  අගුණකොළපැලැස්ස  දක්වා  දිවෙන මෙම  ප්‍රධාන  ඇළ මාර්ගය  දිගින් කිලෝමීටර් 50 ක් පමණ වේ. එයින් ඇඹිලිපිටිය  දක්වා  කිලෝමීටර්  16 ක්  මෙලෙස, දෙවන අදියර යටතේ  ප්‍රතිසංස්කරණය  කිරීම ට  සැලසුම් කර තිබේ.
+
+වසරක් ඇතුළත  පුනරුත්ථාපන කටයුතු අවසන් කිරීමට නියමිත අතර මේ මඟින් චන්ද්‍රිකා වැව, මුරවැසිහේන, අගුණකොළපැලැස්ස යන මහවැලි  කොට්ඨාස  තුන ආවරණය  කරමින් හෙක්ටයාර් 12000 ක් සඳහා  යල මහ දෙකන්නයේ ම ජලය සැපයීමට හැකියාව ලැබේ.
+
+පුනරුත්ථාපන කටයුතු ශ්‍රී ලංකා මහවැලි අධිකාරියේ  පූර්ණ අධීක්ෂණය මත  සිදුකෙරේ. ව
+
+◼️
+
+[Data](articles/2543ee6f.json)
+
+---
+
 ### Sri Lanka’s sugar, milk powder consumption hurting people, economy: Minister
 
 *2024-03-14 13:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-sugar-milk-powder-consumption-hurting-people-economy-minister-154620/) · `en`
@@ -2133,181 +2289,5 @@ The accident had occurred when the Thirimanne travels took place in the opposite
 [Data](articles/5cdffee6.json)
 
 [Extended Data](ext_articles/5cdffee6.ext.json)
-
----
-
-### Decision on the no-confidenceability of the speaker
-
-*2024-03-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194496) · `si`
-
-Party leaders decided to debate no-confidence motion against Speaker Mahinda Yapa Abeywardena on March 19-20.
-
-🟩
-
-The party leaders have decided to hand over the no-confidence motion to the opposition proposal against Speaker Mahinda Yapa Abeywardena.
-
-They have decided to debate on March 19 and 20.
-
-The leaders of the party decided this evening today evening.
-
-◼️
-
-[Data](articles/0d0f9dec.json)
-
-[Extended Data](ext_articles/0d0f9dec.ext.json)
-
----
-
-### Central Highway Reconstruction: Important Notice for Drivers
-
-*2024-03-14 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/178697) · `ta`
-
-The Central Expressway will undergo 14-day reconstruction from Thursday, affecting the 56.9 km stretch between Mirigama and Kurunegala. Motorists are advised to use the 56.2 km road as an alternative. Travelers from Kurunegala to Meerigama should take the 57.4 km route on the right of the high-speed road, use the emergency route, and return to their path. Only one lane will be open for motorists during this period.
-
-🟩
-
-The Central Expressway will be rehabilitated for 14 days from Thursday (14), police said.
-
-Accordingly, the Road Development Authority will carry out the reconstruction work from 56.9 km to 56.9 km to 56.9 km from the Mirigama - Kurunegala area on the Central Expressway.
-
-Special road plans have been formulated for motorists traveling from Mirigama to Kurunegala to use the Central Expressway to use the 56.2 -kilometer road before the emergency.
-
-Travelers from Kurunegala to Meerigama are advised to travel the 57.4 kilometer route on the right of the high -speed road and then use the emergency route and return to the desired path.
-
-Arrangements have been made to use only one lane of motorists during the rehabilitation of the central high -speed road.
-
-◼️
-
-[Data](articles/356eead6.json)
-
-[Extended Data](ext_articles/356eead6.ext.json)
-
----
-
-### Will the water level make a cut below 25 percent?
-
-*2024-03-14 12:24:02* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මට්ටම-සියයට-25ක්-පහළ-බසි--විදුළි-කප්පාදුවක්-සිදුවෙයිද-/11-408603) · `si`
-
-Water levels in two reservoirs and Castlerees have dropped to 25% due to dry weather in Central Magadal. Maussakele Hakasaleri reservoirs' fishing levels are now 24 and 22 feet.
-
-🟩
-
-The water level of the two reservoirs and Castlerees, along with the dry weather, has declined to 25% with the dry weather in the Central Magadal.
-
-The fishing level of two reservoirs of the Maussakele Hakasaleri reservoirs under the National Hydro Power System have been held today (14) today, the engineers charged to 24 and 22 feet. \
-
-◼️
-
-[Data](articles/1e45d1d9.json)
-
-[Extended Data](ext_articles/1e45d1d9.ext.json)
-
----
-
-### Will the water level make a 25% lower basie-dried basie delegation?
-
-*2024-03-14 12:24:02* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මට්ටම-25%ක්-පහළ-බසි--විදුළි-කප්පාදුවක්-සිදුවෙයිද-/11-408603) · `si`
-
-Water levels in two reservoirs and Castlerees, affected by dry weather, have dropped 25%. Fishing levels in Maussakele Hakasaleri reservoirs are now 24 and 22 feet.
-
-🟩
-
-The water level of the two reservoirs and Castlerees, along with the dry weather, has declined to 25% with the dry weather in the Central Magadal.
-
-The fishing level of two reservoirs of the Maussakele Hakasaleri reservoirs under the National Hydro Power System have been held today (14) today, the engineers charged to 24 and 22 feet. \
-
-◼️
-
-[Data](articles/91fd55a8.json)
-
-[Extended Data](ext_articles/91fd55a8.ext.json)
-
----
-
-### The President will be given 50 million
-
-*2024-03-14 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194495) · `si`
-
-The President has decided to provide Rs. 50 crores to the Paddy Marketing Board, with at least two paddy stores in every district to be purchased.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the President has decided to provide Rs. 50 crores to the Paddy Marketing Board.
-
-Accordingly, at least two paddy stores at least in every district will be purchased at least two paddy stores in every district.
-
-◼️
-
-[Data](articles/d207f703.json)
-
-[Extended Data](ext_articles/d207f703.ext.json)
-
----
-
-### Disk. Navy assistance for kidnapping young man;Video release
-
-*2024-03-14 12:17:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டு-இளைஞனை-கடத்த-கடற்படையினர்-உதவி-காணொளி-வெளியீடு/175-334659) · `ta`
-
-Video footage released shows the Navy's involvement in the kidnapping and murder of a young man, accused by his wife. The couple was abducted by a violent gang in a naval camp, where the man was tortured and killed. The wife claims the Navy attacked her husband's abductors, but police investigations are ongoing.
-
-🟩
-
-Video footage of the Navy has been released, as the wife of the murderer has accused the navy of kidnapping and killing the Vaddukoddai youth.
-
-The young man and his wife were returning to his house on Monday (11) with his wife, who was abducted by a violent gang in a naval camp in the Ponnalai Pal area, and was abducted in a vehicle and was subjected to the worst torture and assassinated.
-
-The violent mob had fled the sidenkanei area of the abducted young man.
-
-The wife of the murdered youth said that when the violent gang tried to abduct himself, he went to the naval camp for assistance and that the navy was attacked and chased away by her husband's assassination.
-
-In this case, the police were carrying out intensive investigations, and investigators obtained the surveillance camera videos fitted in the naval camp.
-
-In the video, the youth and wife are running to the camp, where the navy attacked them, and the violent mob kidnapped the husband and wife in front of the Navy's eye.
-
-...
-
-[Data](articles/91175f31.json)
-
-[Extended Data](ext_articles/91175f31.ext.json)
-
----
-
-### National People’s Power to meet IMF delegation today
-
-*2024-03-14 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97944/national-peoples-power-to-meet-imf-delegation-today) · `en`
-
-The National People’s Power (NPP) is expected to meet the visiting team of the International Monetary Fund (IMF) on Thursday (14 March).
-
-According to Sunil Handunnetti, a member of the NPP’s Economic Council, the discussion will focus on addressing the economic pressures and burden imposed on the people of the country by the government.
-
-In a separate development, Human Rights Watch has urged the IMF to request the Sri Lankan government to withdraw the proposed Non-Governmental Organisations (NGOs) (Registration and Supervision) Bill and to ban of the Online Safety Act.
-
-In a letter addressed to the IMF, Human Rights Watch further emphasized the need to request the Government of Sri Lanka to amend the Anti-Terrorism Bill, so as to ensure compliance with human rights standards.
-
-...
-
-[Data](articles/20246125.json)
-
-[Extended Data](ext_articles/20246125.ext.json)
-
----
-
-### The no -confidence motion against the Speaker on the 19th and 20th!
-
-*2024-03-14 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178698) · `ta`
-
-The Parliamentary Affairs Committee will discuss the Opposition's no-confidence motion against Speaker Mahinda Yapa Abeywardena on the 19th and 20th. A referendum will be held at 4.30 pm on the 20th.
-
-🟩
-
-The Parliamentary Affairs Committee has decided to discuss the no -confidence motion put forward by the Opposition against Speaker Mahinda Yapa Abeywardena on the 19th and 20th of this month.
-
-The referendum on the motion will be held at 4.30 pm on the 20th.
-
-◼️
-
-[Data](articles/8fa96937.json)
-
-[Extended Data](ext_articles/8fa96937.ext.json)
 
 ---

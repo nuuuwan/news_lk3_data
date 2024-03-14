@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 00:02:52**
+As of **2024-03-15 00:17:53**
 
 ## Newspaper Stats
 
-*Scraped **12,965** Articles*
+*Scraped **12,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,35 @@ islandlk | 700
 adalk | 1,118
 adaderanalk | 1,563
 tamilmirrorlk | 1,579
-virakesarilk | 1,801
-dailymirrorlk | 1,978
+virakesarilk | 1,802
+dailymirrorlk | 1,980
 adaderanasinhalalk | 2,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,963 (100.0%) of 12,965 articles have been extended.
+12,965 (100.0%) of 12,968 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-15 (Friday)
+
+### அஸ்வெசும நலன்புரித் திட்டம் இரண்டாம் கட்டம் : விண்ணப்பங்கள் எதிர்வரும் 22 ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் - நிதி அமைச்சு
+
+*2024-03-15 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178759) · `ta`
+
+அஸ்வெசும நலன்புரி திட்டத்தின் இரண்டாம் கட்டத்துக்கு விண்ணப்பிக்கும் காலவகாசம் எதிர்வரும் 22 ஆம் திகதி (சனிக்கிழமை) வரை நீடிக்கப்பட்டுள்ளது.இரண்டாம் கட்டத்துக்காக இதுவரையில் 130,000 விண்ணப்பங்கள் கிடைக்கப்பெற்றுள்ளதாக நிதி பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+அஸ்வெசும நலன்புரித் திட்டத்தில் முதலாம் கட்ட பெயர் பட்டியல் வெளியானதை தொடர்ந்து கிடைக்கப்பெற்ற 1,227000 முறைப்பாடுகள் மற்றும் மேன்முறையீட்டில் 212,000 முறைப்பாடு மற்றும் மேன்முறையீடுகள் ஒரு தரப்பினரால் தொடர்ந்து தாக்கல் செய்யப்பட்டுள்ளன.
+
+இதற்கமைய 966,000 முறைப்பாடுகள் மற்றும் மேன்முறையீடுகள் முறையாக கிடைக்கப் பெற்றுள்ளன.749,000 முறைப்பாடுகள் மற்றும் மேன்முறையீடுகள் பரிசீலனை செய்யப்பட்டுள்ளதுடன்,மேலும் 2 இலட்சமளவிலான முறைப்பாடுகள் மற்றும் மேன்முறையீடுகள் பரிசீலனை செய்யப்படவுள்ளன.
+
+...
+
+[Data](articles/45affb9d.json)
+
+---
 
 ### 2024-03-14 (Thursday)
 
@@ -46,21 +64,61 @@ Taking to ‘X’ (formerly Twitter), State Minister of Finance Shehan Semasingh
 
 [Data](articles/cdf16c67.json)
 
+[Extended Data](ext_articles/cdf16c67.ext.json)
+
 ---
 
-### ஜப்பானில் சக்தி வாய்ந்த நிலநடுக்கம் - சுனாமி எச்சரிக்கையால் மக்கள் அச்சம்
+### Powerful earthquake in Japan - people fear by tsunami warning
 
 *2024-03-14 23:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-சக்தி-வாய்ந்த-நிலநடுக்கம்-சுனாமி-எச்சரிக்கையால்-மக்கள்-அச்சம்/50-334691) · `ta`
 
-ஜப்பானில் சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. இது ரிக்டர் அளவில் 6 ஆக பதிவாகி உள்ளது.
+A 6.0 Richter scale earthquake in Japan triggered a tsunami warning, causing fear among people.
 
-சக்தி வாய்ந்த நிலநடுக்கத்தை தொடர்ந்து சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது. சுனாமி எச்சரிக்கையை தொடர்ந்து மக்கள் அச்சமடைந்தனர்.
+🟩
 
-இது ரிக்டரில் 3.9 ஆக பதிவாகியுள்ளது. திருப்பதியில் இருந்து 58 கிலோமீட்டர் தொலைவில், 10 கிலோமீட்டர் ஆழத்தில் நில அதிர்வு ஏற்பட்டது. இந்த நில அதிர்வு இரவு 8.43 மணி அளவில் உணரப்பட்டுள்ளது. R
+Powerful earthquake in Japan. It has been recorded at 6 in the Richter scale.
+
+Tsunami warning has been issued following a powerful earthquake. People were terrified following the tsunami warning.
+
+It has been recorded in the Richter 3.9. The earthquake occurred at a depth of 10 kilometers at a distance of 58 kilometers from Tirupati. This earthquake is felt at 8.43 pm. Remble
 
 ◼️
 
 [Data](articles/e8161878.json)
+
+[Extended Data](ext_articles/e8161878.ext.json)
+
+---
+
+### Magnitude 5.8 earthquake hits Japan’s Fukushima
+
+*2024-03-14 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Magnitude-5-8-earthquake-hits-Japans-Fukushima/107-278882) · `en`
+
+Reuters: An earthquake with a preliminary magnitude of 5.8 hit eastern Japan early on Friday, the Japan Meteorological Agency said.
+
+The epicentre of the earthquake was off the coast of Fukushima prefecture, where strong tremors were recorded, the agency said, adding that a tsunami warning had not been issued.
+
+◼️
+
+[Data](articles/766db0f2.json)
+
+---
+
+### Sri Lanka refutes US claims of Chinese military base
+
+*2024-03-14 23:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-refutes-US-claims-of-Chinese-military-base/108-278863) · `en`
+
+Sri Lanka has refuted recent claims from US intelligence that there are potential plans for a Chinese military base to be established on its soil.
+
+State Defence Minister Premitha Bandara Tennakoon told Daily Mirror that Sri Lanka has not engaged in any discussions with foreign governments, including China, regarding the establishment of a military base within its borders.
+
+“Sri Lanka has not held discussions with any foreign government including China for a possible establishment of a military base here in Sri Lanka,” the State Minister said in response to a question on the US claims.
+
+In its annual threat assessment 2024 report this week, the US Intelligence Community said that China is exploring the possibility of establishing military facilities in various countries including Sri Lanka, in a bid to bolster their power projection capabilities and safeguard national interests.
+
+...
+
+[Data](articles/d1322db3.json)
 
 ---
 
@@ -2215,89 +2273,5 @@ Steps have been taken to protect the quality of fish production for the developm
 [Data](articles/3491b5ad.json)
 
 [Extended Data](ext_articles/3491b5ad.ext.json)
-
----
-
-### No one thought the economy could be rebuilt
-
-*2024-03-14 14:00:30* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-නැවත-ගොඩනැඟීමට-හැකිවේ-යැයි-කිසිවෙකු-සිතුවේ-නැහැ/11-408611) · `si`
-
-President Wickremesinghe highlighted the potential of the newly vested Environmental Park to strengthen the economy, emphasizing its role in tourism, flood control, and agriculture. The park, costing Rs 440 million, includes features like a lake, walking lanes, and solar-powered electricity. It aims to boost local income and protect the environment, with plans to develop tourism in Galle and other areas.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the country's economy could be strengthened by bringing the restriction campaign to the sea.
-
-The President was addressing the House after the Environmental Park was vested with the public yesterday (13) after being handed over to the public yesterday.
-
-The park commenced in 2021, the park of 14 acres has been built.
-
-The project has been planned by the Ministry of Industry and Health Minister Ramesh Pathirana.
-
-The estimated cost for the project is Rs 440 million. The garden is equipped with a lake, walking lanes, iron bridges, children's parks, stalls, environmental systems and supply electricity to solar power.
-
-A program to marke the agriculture crops and other products of the people of the area.
-
-A boat service to Wakuraka and Galle a boat service from Wakwella and Galle.
-
-The gardens also controlling the floods faced by the people of Opathagoda, Holuwagoda.
-
-...
-
-[Data](articles/b477784a.json)
-
-[Extended Data](ext_articles/b477784a.ext.json)
-
----
-
-### Discussion with the IMF representatives of NPP leaders
-
-*2024-03-14 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194501) · `si`
-
-Discussion on Sri Lanka's debt and corruption with IMF representatives, NPP leaders, and National Power representatives at Sriungila Hotel, Colombo. Topics included preventing corruption and public assistance reports. Attendees included Peter Broover, Prof. Anil Jayanthi, and others.
-
-🟩
-
-Sri Lanka's operations heads, head of Sri Lanka's operations, MP Peter Broover and representatives of the National Power were held at the Sriungila Hotel in Colombo.
-
-At the meeting, Sri Lanka's debt and corruption has been discussed at length and corruption to prevent corruption to prevent corruption in Sri Lanka and the representatives of the national protocol of the National Folk Council have been inquired about the public assistant report.
-
-In addition to Peter Brewer representing the International Monetary Fund, Mr. Swarky, Snorrise Swark, Swark, Swark, and Swaker Swedsetra and Husbandy were also present.
-
-Prof. Anil Jayanthi, Professor Sehaha Bandara, Dr. Shadap Bandara, Dr. Harshana Surakiyadhe and Sunil Handunneththi were also present at the meeting.
-
-◼️
-
-[Data](articles/cac8ec65.json)
-
-[Extended Data](ext_articles/cac8ec65.ext.json)
-
----
-
-### “Cherin River Park” Environmental Gardens Opening
-
-*2024-03-14 13:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செரின்-ரிவர்-பார்க்-சூழலியல்-பூங்கா-திறப்பு/175-334665) · `ta`
-
-President Ranil Wickremesinghe highlighted the potential of the tourism industry in the South, particularly in Galle, at the opening of the Cherin River Park Ecological Gardens. The park, built on 14 acres, aims to enhance tourism and the economy, with a budget of 440 million rupees. It includes ecological structures, agricultural sales, and flood control, with plans for expansion.
-
-🟩
-
-President Ranil Wickremesinghe has stressed that the tourism industry that is limited to the coast can be brought into the country and strengthen the economy.
-
-The President pointed out that the South has a unique place to improve the country's tourism industry and that Galle is planning to develop as a major tourist city.
-
-President Ranil Wickremesinghe made this statement at the opening of the "Cherin River Park" Ecological Gardens for the public on Wednesday afternoon.
-
-“The park, which was started by 2021, was built on 14 acres of barren land.
-
-The project was implemented by the Minister of Industry and Health Ramesh Pathrana and the project was prepared by the Urban Development Authority and the construction of the Sri Lanka Land Recovery and Development Corporation.
-
-The assessment of the project is 440 million rupees. The park is located in the pond, sidewalks, iron bridges, children's parks, trade centers and environmental structures and is available from sunlight.
-
-...
-
-[Data](articles/af0d1aca.json)
-
-[Extended Data](ext_articles/af0d1aca.ext.json)
 
 ---

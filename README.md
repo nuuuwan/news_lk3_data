@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 14:33:15**
+As of **2024-03-14 14:50:18**
 
 ## Newspaper Stats
 
-*Scraped **12,857** Articles*
+*Scraped **12,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,547
 tamilmirrorlk | 1,571
 virakesarilk | 1,781
 dailymirrorlk | 1,963
-adaderanasinhalalk | 2,030
+adaderanasinhalalk | 2,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,857 (100.0%) of 12,857 articles have been extended.
+12,857 (100.0%) of 12,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයේ සැකකරුවන් අධිකරණයට
+
+*2024-03-14 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194502) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් 11 දෙනා අද (14) තංගල්ල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
+
+සුදු පැහැති ඩිෆෙන්ඩර් රථයකින් ගමන් කරමින් සිටි පුද්ගලයින් 5 දෙනෙකු ඉලක්ක කර කොළ පැහැති කැබ් රථයකින් පැමිණි පිරිසක් විසින් මෙම වෙඩිතැබීම සිදුකර පළාගොස් තිබුණි.
+
+මෙම වෙඩිතැබීමෙන් මියගිය පිරිස අතර අපේ ජනබල පක්ෂයේ නායක, සමන් පෙරේරා ද සිටී.
+
+◼️
+
+[Data](articles/44f90dbe.json)
+
+---
 
 ### Discussion with the IMF representatives of NPP leaders
 
@@ -2207,27 +2223,5 @@ ADL secured the Open Gateway Challenge GLOMO Award, a new category in 2024, mark
 [Data](articles/6533c5fd.json)
 
 [Extended Data](ext_articles/6533c5fd.ext.json)
-
----
-
-### New Director General/CEO at Civil Aviation Authority
-
-*2024-03-14 04:59:21* · [`dailyftlk`](https://www.ft.lk/business/New-Director-General-CEO-at-Civil-Aviation-Authority/34-759468) · `en`
-
-Air Vice Marshal (Retd.) H.M.S.K.B. Kotakadeniya receives his letter of appointment from Minister Nimal Siripala de Silva
-
-The Civil Aviation Authority of Sri Lanka (CAASL) has announced the appointment of Air Vice Marshal (Retd) H. M. S. K. B. Kotakadeniya as the new Director-General and Chief Executive.
-
-The appointment letter was presented by Ports, Shipping and Aviation Minister Nimal Siripala de Silva yesterday, after receiving the Cabinet approval.
-
-A ceremony commemorating the occasion was held in the presence of Ports, Shipping and Aviation Ministry Secretary K. D. S. Ruwanchandra.
-
-Prior to assuming the position of Director General,  Kotakadeniya  served as a Board Director of CAASL from 12 August 2022, where his contributions were instrumental in shaping the direction of civil aviation in Sri Lanka.
-
-...
-
-[Data](articles/b82b87b5.json)
-
-[Extended Data](ext_articles/b82b87b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 00:49:00**
+As of **2024-03-15 01:02:59**
 
 ## Newspaper Stats
 
-*Scraped **12,970** Articles*
+*Scraped **12,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,579
 virakesarilk | 1,802
-dailymirrorlk | 1,980
+dailymirrorlk | 1,981
 adaderanasinhalalk | 2,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,970 (100.0%) of 12,970 articles have been extended.
+12,970 (100.0%) of 12,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### Suzuki recalls over 32,000 Wagon R vehicles
+
+*2024-03-15 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suzuki-recalls-over-32-000-Wagon-R-vehicles/108-278873) · `en`
+
+The owners of the affected vehicles are urged to visit https://suzuki.lk/wagonrrecall/index.html on computers or mobile phones and input their respective chassis number and check if their vehicle is part of the recall.
+
+This website will provide detailed information on the recall process and instructions on how owners are to proceed.
+
+Safety recall affects approximately 32,500 Suzuki Wagon R vehicles in Sri Lanka
+
+Suzuki Motor Corporation Japan has announced a safety recall related to the fuel system of the Japanese Suzuki Wagon R model range.
+
+As the sole distributor of Suzuki vehicles in Sri Lanka, Associated Motorways (Private) Limited (AMW) is taking active steps to ensure the safety and satisfaction of Suzuki Wagon R owners.
+
+...
+
+[Data](articles/f9c182b7.json)
+
+---
 
 ### Ashemu Welfare Program Second Stage: Applications will be accepted till the 22nd of this month - Ministry of Finance
 
@@ -2249,27 +2269,5 @@ In his adderess, he said efforts to address climate change have a long history, 
 [Data](articles/f21212ff.json)
 
 [Extended Data](ext_articles/f21212ff.ext.json)
-
----
-
-### Adverseness
-
-*2024-03-14 14:22:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உணவு-ஒவ்வாமையால்-அறுவர்-பாதிப்பு/76-334668) · `ta`
-
-A group of students at Namunukula school were hospitalized due to food allergies after consuming a meal of sorcerers, gangun lettuce, lentils, and tuber fries. Six students were admitted, with three in critical condition.
-
-🟩
-
-Namunukula police said that a group of students of the school have been admitted to the Pasara District Hospital on Thursday (14) due to food allergies.
-
-The police said that they were admitted to the hospital after they had a combination of sorcerers, gangun lettuce, lentils and tuber fries provided by the school.
-
-In a hospital report, there are 6 students and 3 students and their condition is not worrisome.
-
-◼️
-
-[Data](articles/f935ca16.json)
-
-[Extended Data](ext_articles/f935ca16.ext.json)
 
 ---

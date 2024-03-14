@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 05:17:50**
+As of **2024-03-14 05:37:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,726 (99.9%) of 12,733 articles have been extended.
+12,733 (100.0%) of 12,733 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Several key individuals, including former Health Minister Keheliya Rambukwella, 
 
 [Data](articles/0db37a21.json)
 
+[Extended Data](ext_articles/0db37a21.ext.json)
+
 ---
 
 ### New High Commissioner of Pakistan to Sri Lanka
@@ -57,6 +59,8 @@ The Government of the Islamic Republic of Pakistan with the concurrence of the G
 ◼️
 
 [Data](articles/fd2d7e1d.json)
+
+[Extended Data](ext_articles/fd2d7e1d.ext.json)
 
 ---
 
@@ -71,6 +75,8 @@ Rev. Don Wimal Siri was appointed as the fourth Bishop of Chilaw diocese last De
 ◼️
 
 [Data](articles/0e549405.json)
+
+[Extended Data](ext_articles/0e549405.ext.json)
 
 ---
 
@@ -87,6 +93,8 @@ ADL secured the Open Gateway Challenge GLOMO Award, a new category in 2024, mark
 ...
 
 [Data](articles/6533c5fd.json)
+
+[Extended Data](ext_articles/6533c5fd.ext.json)
 
 ---
 
@@ -108,6 +116,8 @@ Prior to assuming the position of Director General,  Kotakadeniya  served as a
 
 [Data](articles/b82b87b5.json)
 
+[Extended Data](ext_articles/b82b87b5.ext.json)
+
 ---
 
 ### IMF reviews CEB and CPC operations
@@ -126,6 +136,8 @@ State Minister of Finance Shehan Semasinghe along with officials from the Power 
 
 [Data](articles/0c39c7a9.json)
 
+[Extended Data](ext_articles/0c39c7a9.ext.json)
+
 ---
 
 ### Construction Expo 2024 by CIOB kicks off tomorrow
@@ -141,6 +153,8 @@ This will be the ideal event to source new products, networking with new contact
 ...
 
 [Data](articles/6fb1e27c.json)
+
+[Extended Data](ext_articles/6fb1e27c.ext.json)
 
 ---
 

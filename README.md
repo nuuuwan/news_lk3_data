@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 19:17:58**
+As of **2024-03-14 19:35:05**
 
 ## Newspaper Stats
 
-*Scraped **12,929** Articles*
+*Scraped **12,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,79 @@ dailyftlk | 663
 economynextcom | 694
 islandlk | 700
 adalk | 1,114
-adaderanalk | 1,555
+adaderanalk | 1,556
 tamilmirrorlk | 1,576
 virakesarilk | 1,793
 dailymirrorlk | 1,973
-adaderanasinhalalk | 2,044
+adaderanasinhalalk | 2,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,927 (100.0%) of 12,929 articles have been extended.
+12,929 (100.0%) of 12,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### හෙට දිනයේත් උෂ්ණත්වය ඉහළට
+### United Petroleum Australia to commence operations mid-2024 in Sri Lanka
+
+*2024-03-14 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97959/united-petroleum-australia-to-commence-operations-mid-2024-in-sri-lanka) · `en`
+
+United Petroleum Australia, who entered into Sri Lanka’s petroleum retail operations last month, plans to obtain their licence to commence operations mid-2024, Power and Energy Minister Kanchana Wijesekera stated.
+
+Taking to ‘X’ (formerly Twitter), the Minister revealed that the Australian-owned petroleum retailer and importer plans to sign an agreement with the Board of Investment (BOI) and obtain the relevant licence later this year.
+
+Chief Financial Officer (CFO) of the United Petroleum Group, Nigel Simonsz, visited the Ministry on Thursday (14 March), and updated those present on their plans anticipated schedule as to when retail operations will commence in Sri Lanka.
+
+On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka’s Ministry of Power and Energy to supply petroleum products into the local market.
+
+...
+
+[Data](articles/c917dcbe.json)
+
+---
+
+### පිළිකා නාශක ඖෂධයක් ගැන ආන්දෝලනාත්මක හෙළිදරව්වක්
+
+*2024-03-14 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194517) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් වංචාවට අදාළ ප්‍රශ්නගත ඖෂධ සැපයුම්කරු විසින් සපයා ඇති පිළිකා නාශක ඖෂධයක් ද ප්‍රමිතියෙන් තොර බවට වාර්තාවකින් තහවුරු වූ බව අද (14) අධිකරණයේදී අනාවරණය විය.
+
+මේ අතර ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් වංචාවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 6 දෙනෙකු නඩු විභාගය අවසන් වනතුරු රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+ප්‍රමිතියෙන් තොර හියුමන් ඉමියුනෝග්ලොබියුලීන් එන්නත් මිලදී ගැනීමේ සිද්ධියට අදාළව වෛද්‍ය සැපයුම් ඒකකයේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය තුසිත සුදර්ශන මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ රාත්‍රියේ අත්අඩංගුවට ගනු ලැබීය.
+
+විදෙස්ගතව සිට ඊයේ දිවයිනට පැමිණි වෛද්‍යවරයා ප්‍රකාශයක් ලබාගැනීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවීමෙන් පසු අත්අඩංගුවට ගෙන තිබූ අතර, මොහු ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළ ප්‍රසම්පාදන ක්‍රියාවලියේ ඇගයීම් කමිටු සාමාජිකයෙක් ලෙස ද කටයුතු කළ අයෙකි.
+
+...
+
+[Data](articles/c2bdfd4b.json)
+
+---
+
+### Tomorrow the temperature
 
 *2024-03-14 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194516) · `si`
 
-හෙට (15) දිනයේ දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of high temperatures in the North-Western, North-Central, Eastern provinces, and parts of Colombo, Gampaha, Moneragala, Mannar, Mullaitivu, and Vavuniya districts tomorrow. It advises people to drink water, rest in the shade, and care for adults and patients at home.
 
-එහි සඳහන් වන්නේ,වයඹ, උතුරු-මැද, නැගෙනහිර පළාත් සහ කොළඹ, ගම්පහ, මොණරාගල, මන්නාරම, මුලතිව් සහ වවුනියාව දිස්ත්‍රික්කවල ඇතැම් ස්ථාන සඳහා උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+🟩
 
-මේ අතර වැඩබිම් තුළ සිටින පුද්ගලයින් ප්‍රමාණවත් ලෙස ජලය පානය කරන්න ලෙසත් සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+The Department of Meteorology announces that the temperature of several parts of the island will continue to focus on a level of focus on tomorrow (15).
 
-එමෙන්ම නිවෙස් තුළ සිටින වැඩිහිටි සහ රෝගී පුද්ගලයින් පිළිබඳව ද සැලකිලිමත් වෙන ලෙසත් වාහන තුළ කුඩා ළමුන් තනිවම රඳවා නොයන ලෙසත් දැනුම් දී තිබේ.
+It states that temperatures should be paid to some places in the North-Western, North-Central, Eastern provinces and parts of Colombo, Gampaha, Moneragala, Mannar, Mullaitivu and Vavuniya districts.
+
+Meanwhile, the Department of Meteorology requests the people in the workplaces to drink adequate water and rest in the shade.
+
+It has also been asked to care about adults and patients in the homes and not to be held on their own lives.
 
 ◼️
 
 [Data](articles/73117575.json)
+
+[Extended Data](ext_articles/73117575.ext.json)
 
 ---
 
@@ -63,6 +105,8 @@ Sri Lanka last year awarded retail fuel licenses to three foreign firms – Chin
 ...
 
 [Data](articles/cf0492b8.json)
+
+[Extended Data](ext_articles/cf0492b8.ext.json)
 
 ---
 
@@ -2265,55 +2309,5 @@ The referendum on the motion will be held at 4.30 pm on the 20th.
 [Data](articles/8fa96937.json)
 
 [Extended Data](ext_articles/8fa96937.ext.json)
-
----
-
-### President orders immediate allocation of Rs. 500 mn for paddy purchase
-
-*2024-03-14 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/97943/president-orders-immediate-allocation-of-rs-500-mn-for-paddy-purchase-) · `en`
-
-President Ranil Wickremesinghe has ordered the immediate allocation of Rs. 500 million for the purchase of paddy, Minister of Agriculture Mahinda Amaraweera said.
-
-The Agriculture Minister stated that accordingly, at least two paddy purchasing centres will be set up for purchasing paddy in each district.
-
-◼️
-
-[Data](articles/4bb7500e.json)
-
-[Extended Data](ext_articles/4bb7500e.ext.json)
-
----
-
-### How to book Railway Seats from Today
-
-*2024-03-14 12:06:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5q14wpl5zo) · `si`
-
-From March 14, the Railway Department allows online reservation of railway seats. Passengers can book seats up to a month in advance. The new system enables 100% online reservation via the Railway Department website or mobile app. Seat reservations can also be made by calling Mobitel, Hutch, and Airtel. Public servants can reserve seats for free. The maximum number of seats one can reserve online is 5. For large numbers of seats, reservations can be made in the next three months.
-
-🟩
-
-The Railway Department says that the railway seat reservation from today (March 14) can be fulfilled.
-
-Accordingly, the railway seats will be reserved today (March 14) to the online system.
-
-The Railway Department states that the previous allocation of the railway seats were to be completed for the convenience of passengers.
-
-Accordingly, passengers will allow passengers to book a previous seat a month before.
-
-How does the new procedure of separating railway seats operate?
-
-Railway Seat Seat Reservation in Sri Lanka (March 14). J. The BBC's BBC told the BBC.
-
-"The railway seats were given the opportunity to go to the railway stations and to book the other."
-
-"But now 100% of the online methodology and train is enabled to reserve seats."
-
-"Therefore, the reservation of the seats on the Railway Department website can be reserved in the mobile phone app." He said.
-
-...
-
-[Data](articles/795b8b4a.json)
-
-[Extended Data](ext_articles/795b8b4a.ext.json)
 
 ---

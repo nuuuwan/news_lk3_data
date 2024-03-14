@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 21:52:27**
+As of **2024-03-14 22:04:03**
 
 ## Newspaper Stats
 
-*Scraped **12,952** Articles*
+*Scraped **12,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,131 @@ dailyftlk | 663
 economynextcom | 695
 islandlk | 700
 adalk | 1,118
-adaderanalk | 1,559
+adaderanalk | 1,560
 tamilmirrorlk | 1,578
 virakesarilk | 1,798
-dailymirrorlk | 1,975
-adaderanasinhalalk | 2,049
+dailymirrorlk | 1,977
+adaderanasinhalalk | 2,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,948 (100.0%) of 12,952 articles have been extended.
+12,952 (100.0%) of 12,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### යාපනයේ සුපිරි පන්දුයවන්නා දෝනි හමුවෙයි
+### Navy to probe conduct of personnel during abduction of couple in Jaffna
 
-*2024-03-14 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194521) · `si`
+*2024-03-14 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97963/navy-to-probe-conduct-of-personnel-during-abduction-of-couple-in-jaffna-) · `en`
 
-යාපනය ශාන්ත ජෝන් විද්‍යාලයේ 17 හැවිරිදි ක්‍රීඩක කුගදාස් මතුලාන් පාසල් තරගයකදී යොමු කළ විශිෂ්ඨ පන්දුවක් ඉකුත්දා සමාජ මාධ්‍ය ඔස්සේ වේගයෙන් සංසරණය විය.
+The Sri Lanka Navy is set to launch a comprehensive investigation into the conduct of several naval personnel during a recent incident involving the abduction of a couple near the Ponnalai Naval Post in Vaddukoddai, Jaffna.
 
-ලසිත් මාලිංගගේ ඉරියව්වට සමාන ඉරියව්වකින් පන්දු යවන මෙම ක්‍රීඩකයා යොමු කළ යෝකර් පන්දුවක් කෙලින්ම කඩුල්ලේ වදින අයුරු එහි සටහන්වී තිබුණි.
+During an inquiry made by Ada Derana, Media Spokesman for the Navy Captain Gayan Wickramasuriya asserted that strict measures will be taken in the event any navy personnel are found guilty of any wrongdoing.
 
-මෙම සුපිරි පන්දුව යොමු කළ එම පාසල් ක්‍රීඩකයා මහේන්ද්‍ර සිං දෝනිගේ ආරාධනාවකට අනුව මේ වනවිට දැල තුළ පන්දුයැවීම සඳහා චෙන්නායි කණ්ඩායම සමග එක්වී ඇති බව වාර්තා වෙයි.
+On 11 March, a couple was violently assaulted and abducted by a group of individuals near the Ponnalai Naval Post in Vaddukoddai, Jaffna, following which the husband was found hacked to death.
 
 ◼️
 
-[Data](articles/f70c3cb5.json)
+[Data](articles/f7ca772a.json)
 
 ---
 
-### மேற்குவங்க முதல்வர் மம்தா பனர்ஜி விபத்தில் சிக்கி பலத்த காயம்!
+### ටිපර් රථයක් නතර කරගැනීමට පොලීසිය වෙඩිතබයි
 
-*2024-03-14 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178755) · `ta`
+*2024-03-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194522) · `si`
 
-இந்தியாவின் மேற்கு வங்க முதல்வர் மம்தா பானர்ஜி விபத்தில் சிக்கி பலத்த காயமடைந்துள்ளார் என திரிணாமுல் காங்கிரஸ் வியாழக்கிழமை (14) தெரிவித்துள்ளது.
+පොලිස් අණ නොතකා ධාවනය කළ ටිපර් රථයකට වෙඩිතබා සැකකරු අත්අඩංගුවට ගැනීමට පොලීසිය අද (14) සමත්විය.
+
+ඔඩ්ඩුසුඩාන් පොලීසිය පැවසුවේ ටිපර් රථයේ රෝදයන්ට වෙඩිතබා රථය නතරකර ගැනීමට පොලීසිය සමත්වූ බවය.
+
+මෙම මෙහෙයුමට පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකාය එක්වී තිබේ.
+
+පොලීසිය සඳහන් කළේ අදාළ ටිපර් රථය පොලිස් නිලධාරීන් අනතුරට පත්කරගෙන යෑමට උත්සාහ කළ බවය.
+
+අත්අඩංගුවට ගත් සැකකරු මුලතිව් මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/aea0e7a3.json)
+
+---
+
+### West Bengal Chief Minister Mamta Banerjee
+
+*2024-03-14 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178755) · `ta`
+
+West Bengal's Chief Minister Mamta Banerjee was seriously injured in an accident, according to Trinamool Congress.
+
+🟩
+
+India's West Bengal Chief Minister Mamta Banerjee was seriously injured in the accident, Trinamool Congress said on Thursday (14).
 
 ◼️
 
 [Data](articles/c73a9a77.json)
 
+[Extended Data](ext_articles/c73a9a77.ext.json)
+
 ---
 
-### வட்டுக்கோட்டையில் தம்பதி கடத்தல்: கடற்படையினரிடம் விசாரணை!
+### Dhoni meets in Jaffna
 
-*2024-03-14 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178754) · `ta`
+*2024-03-14 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194521) · `si`
 
-யாழ்ப்பாணம், வட்டுக்கோட்டை பொன்னாலை கடற்படைச் சாவடிக்கு அருகாமையில் தம்பதி கடத்தப்பட்டு ஒருவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் கடற்படையினர் நடந்து கொண்ட விதம் குறித்து முழுமையான விசாரணைகளை மேற்கொள்ள கடற்படை தீர்மானித்துள்ளது.
+Dhoni meets 17-year-old Kugadas in Jaffna. Kugadas, a sportsman from Kumbali, was quickly circulated. He was noted for hitting the wicket directly. Dhoni, a school player, has reportedly joined the Chennai team to bowl.
 
-சம்பந்தப்பட்ட கடற்படை வீரர்கள் குற்றவாளிகள் என நிரூபிக்கப்பட்டால், கடுமையான நடவடிக்கை எடுக்கப்படும் என்றும் கூறினார்.
+🟩
+
+A 17-year-old sportsman Kugades, a 17-year-old sports Kugadas, was rapidly circulated in the 17-year-old Kumbali.
+
+It was noted that the Yakker, which was directed to the wicket directly in the wicket.
+
+The school player, which was presented by Mahendra Singh Dhoni, has reportedly joined the Chennai team to bowl the net.
+
+◼️
+
+[Data](articles/f70c3cb5.json)
+
+[Extended Data](ext_articles/f70c3cb5.ext.json)
+
+---
+
+### Couples kidnapping in Vaddukoddai
+
+*2024-03-14 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178754) · `ta`
+
+The Navy is investigating the abduction and murder of naval personnel near Vaddukoddai, Jaffna. If found guilty, severe action will be taken against the naval soldiers involved.
+
+🟩
+
+The Navy has decided to conduct a thorough investigation into the manner in which the Navy was abducted and murdered near the Ponnalai Naval Board of Vaddukoddai, Jaffna.
+
+He said that if the relevant naval soldiers were proven guilty, strict action would be taken.
 
 ◼️
 
 [Data](articles/2d1f98be.json)
+
+[Extended Data](ext_articles/2d1f98be.ext.json)
+
+---
+
+### Drought risk looms large
+
+*2024-03-14 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drought-risk-looms-large/108-278864) · `en`
+
+Amidst growing concerns over an anticipated drought, the Defence Ministry has announced plans to mitigate potential damages, according to an official statement released yesterday.
+
+Forecasts from the Meteorological Department indicate that while there may be sporadic rainfall expected towards the end of March and into April, it is projected to be of diminished volume, exacerbating the looming drought conditions. In response, the Disaster Management Centre has proactively devised strategies to confront the impending crisis.
+
+State Minister of Defence Premitha Bandara Tennakoon, underscored the grave consequences of the dry spell, highlighting the heightened risks of wildlife poaching and forest fires. Tennakoon issued a stern plea to citizens, urging them to abstain from engaging in such harmful activities.
+
+...
+
+[Data](articles/a7ba05a2.json)
 
 ---
 
@@ -91,6 +161,8 @@ The central Mediterranean is one of the world’s deadliest migration routes. Ac
 ...
 
 [Data](articles/3fb4b3e5.json)
+
+[Extended Data](ext_articles/3fb4b3e5.ext.json)
 
 ---
 
@@ -1496,6 +1568,26 @@ Japanese civil code rules that limit marriage to those of opposite sexes are "un
 
 ---
 
+### Japan’s same-sex marriage bar is unconstitutional, high court says
+
+*2024-03-14 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Japans-same-sex-marriage-bar-is-unconstitutional-high-court-says/107-278856) · `en`
+
+TOKYO, March 14 (Reuters) - Japan's bar on same-sex marriage is unconstitutional, the high court in the northern city of Sapporo said on Thursday, the first such ruling by an appeals court on a matter that has divided the lower levels of the judiciary.
+
+Japan is the only Group of Seven nation without legal protection for same-sex unions. Although backed by 70% of the public, they are opposed by the conservative Liberal Democratic Party of Prime Minister Fumio Kishida.
+
+Japanese civil code rules that limit marriage to those of opposite sexes are "unconstitutional" and "discriminatory", the Sapporo High Court said in its ruling, but dismissed the plaintiffs' claim for damages from the government.
+
+"Enacting same-sex marriage does not seem to cause disadvantages or harmful effects," the court said.
+
+"I thought the ruling might be a conservative one, but it ended up exceeding my expectations," one plaintiff, who did not disclose his name, told reporters after the ruling. "I couldn't help but cry."
+
+...
+
+[Data](articles/5c741f83.json)
+
+---
+
 ### Resolution to carry out the union struggle
 
 *2024-03-14 15:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-போராட்டத்தை-முன்னெடுக்க-தீர்மானம்/175-334670) · `ta`
@@ -2205,99 +2297,5 @@ Police Inspector JSK Weerasinghe, the Superintendent of Police in charge of the 
 [Data](articles/2a09b410.json)
 
 [Extended Data](ext_articles/2a09b410.ext.json)
-
----
-
-### The father who killed two children
-
-*2024-03-14 13:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இரு-பிள்ளைகளை-கொன்று-விட்டு-தன்னுயிரை-மாய்க்க-முயன்ற-தந்தை/74-334663) · `ta`
-
-A 63-year-old man killed two children in Ampara, then himself. The victims were 29 and 15, and their mother died five months ago. The incident was investigated by Police Inspector JSK Weerasinghe.
-
-🟩
-
-The incident took place in the Ampara, Periyar Nilawana Police Division.
-
-The funeral took place on Thursday (14) at the home of the Big Neelavana Muslim Division Pakitul Saliya Road.
-
-He has killed two depressed children. He was admitted to the Kalmunai Resource Hospital for treatment.
-
-Muhammad Mirza Mohammed Khalil (age-63) has been admitted for treatment. Muhammad Khalil Mohammed Rikas (age 29) and Muhammad Khalil Fatima Basmia (age-15) died. The mother of the children died five months ago.
-
-Police Inspector JSK Weerasinghe, the Superintendent of Police in charge of the police station, has gone to the scene and carried out investigations.
-
-◼️
-
-[Data](articles/5464aaf5.json)
-
-[Extended Data](ext_articles/5464aaf5.ext.json)
-
----
-
-### NPP will seek mandate to amend and continue IMF agreement: Vijitha
-
-*2024-03-14 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-will-seek-mandate-to-amend-and-continue-IMF-agreement-Vijitha/108-278849) · `en`
-
-Colombo, March 14 (Daily Mirror)- The National People's Power (NPP) will seek a mandate to continue the IMF agreement after making amendments on conditions detrimental to the people, NPP MP Vijitha Herath said today.
-
-He told a news conference that the NPP representatives met the IMF delegation this morning and briefed them on the NPP's stance on the agreement.
-
-He said the NPP will go before the people and seek a mandate to remove detrimental proposals in the agreement such as exorbitant taxes, price hikes in goods and services and selling state property.
-
-The MP said they briefed the IMF delegation on the actions to be taken with regard to the IMF agreement.
-
-"It is good that the IMF team is aware of what the NPP government will do," he said.
-
-◼️
-
-[Data](articles/dffe7605.json)
-
-[Extended Data](ext_articles/dffe7605.ext.json)
-
----
-
-### Dathers and son cuts neck
-
-*2024-03-14 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194500) · `si`
-
-A father attempted suicide in Periyaiyurvely, Ampara, and his son, 29, killed him. The father had previously tried suicide, and both children have speech difficulties.
-
-🟩
-
-Father who tried to commit suicide was reported from the Periyaiyurvely area in Ampara.
-
-His son, who has cut off the neck, is 29 years old and daughter is 15 years old.
-
-The father of the two children had also tried to commit suicide by cutting down and he was admitted to Kalmunai Hospital for treatment.
-
-It is also reported that his two children suffer from speech difficulty.
-
-◼️
-
-[Data](articles/f3b3cf25.json)
-
-[Extended Data](ext_articles/f3b3cf25.ext.json)
-
----
-
-### State Vesak Festival in Matale
-
-*2024-03-14 13:14:27* · [`adalk`](https://www.ada.lk/religion/රාජ්‍ය-වෙසක්-උත්සවය-මාතලේදී/4-408607) · `si`
-
-The Ministry of Buddha Sasana and Cultural Affairs will host the state Vesak Festival in Matale, featuring religious cultural programs from April 21 to 26 at the Pallepola Mallevana Raja Maha Viharaya.
-
-🟩
-
-The Ministry of Buddha Sasana and Cultural Affairs has decided to hold the state Vesak Festival this year.
-
-The initial discussion of various religious cultural programs for a period of five days from Vesak (21) to five days (26) from Vesak.
-
-The inauguration ceremony was held at the Pallepola Mallevana Raja Maha Viharaya in the Anuradhapura Raja Maha Viharaya, Matale.The discussion was discussed in the conducting programs such as programs such as programs.
-
-◼️
-
-[Data](articles/2991db69.json)
-
-[Extended Data](ext_articles/2991db69.ext.json)
 
 ---

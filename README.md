@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 18:33:24**
+As of **2024-03-14 18:51:39**
 
 ## Newspaper Stats
 
-*Scraped **12,914** Articles*
+*Scraped **12,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 700
-adalk | 1,113
+adalk | 1,114
 adaderanalk | 1,555
-tamilmirrorlk | 1,575
-virakesarilk | 1,792
+tamilmirrorlk | 1,576
+virakesarilk | 1,793
 dailymirrorlk | 1,973
-adaderanasinhalalk | 2,042
+adaderanasinhalalk | 2,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,913 (100.0%) of 12,914 articles have been extended.
+12,914 (100.0%) of 12,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### රාජ්‍ය වෙසක් උත්සවය මාතලේට
+
+*2024-03-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194515) · `si`
+
+මෙවර රාජ්‍ය වෙසක් උත්සවය මාතලේ දිස්ත්‍රික්කය කේන්ද්‍ර කරගනිමින් පැවැත්වීමට තීරණය කර ඇති අතර ඒ පිළිබඳව මූලික සාකච්ඡාව මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදී අද (14) පැවැත්විණි.
+
+බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය විදුර වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙම අවස්ථාවට සමස්ත ලංකා ශාසනාරක්ෂක බල මණ්ඩලයේ සභාපති තුම්මුල්ලේ සීලක්කන්ද හිමි, ලේඛකාධිකාරී මුගුණුවෙල අනුරුද්ධ හිමි එක්ව සිටියේය.
+
+රාජ්‍ය වෙසක් උත්සවයේ සමාරම්භක උලෙළ මාතලේ ධර්මරාජ පිරිවෙන් පරිශ්‍රයේදී  දී පැවැත්වෙන අතර එහි සමාප්ති උලෙළ මාතලේ අනුරුද්ධ අරණේදී පැවැත්වීමට මෙහිදී  තීරණය කෙරිණි.
+
+...
+
+[Data](articles/68f67bd2.json)
+
+---
+
+### டூனா மீனுக்கு நிர்ணய விலை மற்றும் முறையான கொள்கைத் திட்டம் அவசியம்: பலநாள் படகு உரிமையாளர்கள் கோரிக்கை
+
+*2024-03-14 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178745) · `ta`
+
+மீன் ஏற்றுமதியாளர்கள் தங்களது உற்பத்திகளுக்கு நியாயமான நிர்ணய விலையொன்றை வகுத்து அதனை செயற்படுத்த  வேண்டுமெனவும் அத்துடன் இதற்காக தேசிய கொள்கைத் திட்டமொன்று  வகுக்கப்பட வேண்டுமெனவும் பலநாள்  மீன்பிடிப் படகு உரிமையாளர்கள் தெரிவித்துள்ளனர்.
+
+கடற்றொழில் அமைச்சில் புதன்கிழமை (13) கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போதே அவர்கள் இவ்வாறு தெரிவித்தனர்.
+
+எரிபொருள் விலையேற்றம், ஐஸ் விலை அதிகரிப்பு, கடற்றொழில் உபகரணங்களின் விலை அதிகரிப்பு, வற் விரி விதிப்பு மற்றும் இடைத் தரகர்களின் தலையீடு காரணமாக தாங்கள் கடுமையாக பாதிக்கப்பட்டுள்ளதாகவும் அதனால் தங்களால் பிடிக்கப்படும் டூனா மீன்களுக்கு ஆகக் குறைந்தது கிலோ ஒன்றுக்கு 2000 ரூபா விலை நிர்ணயிக்கப்படுவதுடன் இதன் பொருட்டு தேசியக் கொள்கையொன்று வகுக்கப்பட வேண்டுமெனவும் தெரிவித்தனர்.
+
+...
+
+[Data](articles/c81fce65.json)
+
+---
 
 ### Niluka Karunaratne's retirement and Foundation
 
@@ -197,6 +229,22 @@ The Maligakanda Magistrate's Court has ordered that the case will be taken up on
 [Data](articles/ee939bab.json)
 
 [Extended Data](ext_articles/ee939bab.ext.json)
+
+---
+
+### விளையாட்டில் தோற்ற 7 வயதுச் சிறுமி துஷ்பிரயோகம்
+
+*2024-03-14 17:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விளையாட்டில்-தோற்ற-7-வயதுச்-சிறுமி-துஷ்பிரயோகம்/73-334675) · `ta`
+
+மட்டக்களப்பு - வாகரையில் 7 வயது சிறுமி ஒருவரை பாலியல் துஸ்பிரயோகம் மேற்கொண்ட சம்பவம் தொடர்பாக கைது செய்யப்பட்ட 4 சிறுவர் உட்பட 5 பேரில்   4 சிறுவர்களையும்  பிணையில் விடுவித்ததுடன் 18 வயதுயை ஒருவரை எதிர்வரும் 27 ம் திகதிவரை விளக்கமறியலில் வைக்குமாறு வாழைச்சேனை நீதவான் நீதிமன்ற நீதவான் நேற்று புதன்கிழமை (13) உத்தரவிட்டார்.
+
+வாகரை பொலிஸ் பிரிவிலுள்ள பிரதேசத்தில் கணவனை இழந்த தாயார் ஒருவர் அவரது 7 வயது  சிறுமியை வீட்டில் தனியாக விட்டுவிட்டு தினமும் வேலைக்கு சென்றுவரும் நிலையில் சிறுமியுடன் அந்தபகுதியைச் சேர்ந்த 11 சிறுவனுடன் விளையாட்டில் தோல்வியடைந்த  தண்டனை என்ற ரீதியில் சிறுமியை பாலியல் துஸ்பிரயோகம் மோற்கொண்டுள்ளார்.
+
+இதனை தொடர்ந்து குறித்த சிறுவன் எனைய 14,15,18 வயதுடைய நண்பர்களுக்கும் இந்த சூட்சமத்தை தெரிவித்துள்ளதையடுத்து குறித்த சிறுமியுடன் தனிதனியாக சிறுவர்கள் சென்று  விளையாட்டு என்ற பேர்வையில் பாலியல் துஸ்பிரயோகம் மேற்கொண்டுள்ள நிலையில் இதனை அவதானித்த அந்தபகுதி இளைஞன் ஒருவர் சிறுமியின் தாயாருக்கு தெரியப்படுத்தியுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/a8ca637f.json)
 
 ---
 
@@ -1526,6 +1574,22 @@ It is also reported that his two children suffer from speech difficulty.
 
 ---
 
+### රාජ්‍ය වෙසක් උත්සවය මාතලේදී
+
+*2024-03-14 13:14:27* · [`adalk`](https://www.ada.lk/religion/රාජ්‍ය-වෙසක්-උත්සවය-මාතලේදී/4-408607) · `si`
+
+මෙවර රාජ්‍ය වෙසක් උත්සවය මාතලේ දිස්ත්‍රික්කය මූලික කරගනිමින් පැවැත්වීමට බුද්ධ ශාසන හා සංස්කෘතික කටයුතු අමාත්‍යාංශය මගින් තීරණය කර තිබේ.
+
+එම වැඩසටහන යටතේ වෙසක් (21) දින සිට (26)දින පහක් පුරාවට විවිධ ආගමික සංස්කෘතික වැඩසටහන් පැවැත්වීම පිළිබඳව මූලික සාකච්ඡාව බුද්ධ ශාසනා සංස්කෘතික කටයුතු අමාත්‍යය විදුර වික්‍රමනායක මහතාගේ ප්‍රධානත්වයෙන් මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදී අද (14) වන දින පැවැත්විය.
+
+එම වැඩසටහනේ සමාරම්භක උත්සවය මාතලේ කලල්පිටිය පුරාණ රජ මහා විහාරස්ථානයේදී පැවැත්වීමට හා සමාප්ති උත්සවය පල්ලෙපොල මිල්ලවානා රජමහා විහාරස්ථානයේදී පැවැත්වීමට තීරණය කෙරුණු අතර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 11  හි විහාරස්ථාන 11ක් සංවර්ධනය කිරීම වෙසක් බැති ගී පහන් කූඩු ,වෙසක් තොරණ ,පාරිසරික හා සංස්කෘතික අංගයන් හා පිණ්ඩපාත වැඩසටහන් ලේ දන්දීමේ වැඩසටහන් ආදී විශේෂ වැඩසටහන් පරිදිපැවැත්වීමට,සර්ව ආගමික අංග ඇතුළත් පෙරහැරක් පැවැත්වීම කෙරෙහි මෙහිදී සාකච්ඡා කෙරුණි.
+
+◼️
+
+[Data](articles/2991db69.json)
+
+---
+
 ### Sri Lankan student in court murder
 
 *2024-03-14 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194499) · `si`
@@ -2239,93 +2303,5 @@ In this struggle against state injustice, we kindly urge all Tamils, religious o
 [Data](articles/f123e25f.json)
 
 [Extended Data](ext_articles/f123e25f.ext.json)
-
----
-
-### New Director General appointed to Civil Aviation Authority
-
-*2024-03-14 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97941/new-director-general-appointed-to-civil-aviation-authority) · `en`
-
-Air Vice Marshal (Retd) H.M.S.K.B Kotakadeniya has been appointed as the new Director General and Chief Executive Officer of the Civil Aviation Authority of Sri Lanka (CAASL).
-
-This appointment comes in the wake of the retirement of the former Director General of Civil Aviation.
-
-The official appointment letter was presented to Air Vice Marshal Kotakadeniya by Minister of Ports, Shipping, and Aviation Nimal Siripala de Silva following the approval of the Cabinet of Ministers for the appointment.
-
-Before assuming the role of Director General of Civil Aviation, H.M.S.K.B Kotakadeniya served as a Board Director of CAASL since 12 August 2022. His extensive experience and strategic vision make him well-suited to lead the aviation sector into a new era of growth and development of the aviation industry in Sri Lanka, the CAASL said in a statement.
-
-◼️
-
-[Data](articles/7ef3de48.json)
-
-[Extended Data](ext_articles/7ef3de48.ext.json)
-
----
-
-### Gift the bombs from the Chinese military
-
-*2024-03-14 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178691) · `ta`
-
-Under the Chinese Military Aid Scheme, Sri Lanka received military equipment, including bombs, from the Chinese Ministry of Defense. The items were presented to Sri Lanka's Chinese Ambassador, Defense Secretary, and Army Commander. The equipment includes ROO 4000, 10 protective robes, and 10 safety rods against explosives.
-
-🟩
-
-Under the Chinese Military Aid Scheme, the Ministry of Defense has gifted bombs.
-
-The equipment has been handed over to Sri Lanka's Chinese Ambassador Cue Senhong, Defense Secretary Retired General Kamal Gunaratne and Army Commander Lieutenant General Vikku Liyanage on Wednesday.
-
-General Kamal Gunarathana signed a document for obtaining equipment at the event at the Army Headquarters and signed the document.
-
-The reod 4000, the ROO 4000, which is thus identified in the equipment constituencies, and the 10 -fold robs that can be protected from explosives, 10 protective robes that protect them from explosives, 10 safety rods and explosives from ammunition.It is noteworthy that machines are included.
-
-◼️
-
-[Data](articles/bf9054c2.json)
-
-[Extended Data](ext_articles/bf9054c2.ext.json)
-
----
-
-### “Pay with bank card to get packs”
-
-*2024-03-14 11:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதிகளைப்-பெற-வங்கி-அட்டை-மூலம்-பணம்-செலுத்தவும்/175-334651) · `ta`
-
-The Postal Department of Sri Lanka warns against financial fraud via SMS, where fraudsters demand money for packages under the guise of the Postal Department. They use names like Sri Lanka Postal, SL Post, and the official website. The Department clarifies that it does not request bank card details for package permits and advises the public not to share their details with fake SMSs.
-
-🟩
-
-The Postal Department of Sri Lanka has warned the public regarding financial fraud through SMS demanding money through bank cards to issue packages sent in its name.
-
-In a statement issued by the Postal Department, the fraudsters have found that the bank card details were stolen by fraud.
-
-The Department further stated that the fraud is being carried out using the Sri Lanka Postal, Sri Lanka Postal Department, SL Post, and the official website of the Department.
-
-The Postal Department has made it clear that the bank does not request the details of the SMS and does not transmit the bank cards for the package permit.
-
-The public has been asked to avoid sharing their bank account or bank card details based on fake SMSs sent by fraudsters.
-
-◼️
-
-[Data](articles/5be6277e.json)
-
-[Extended Data](ext_articles/5be6277e.ext.json)
-
----
-
-### Another shooting reported in Ambalangoda
-
-*2024-03-14 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97940/another-shooting-reported-in-ambalangoda) · `en`
-
-An unidentified person has opened fire at the house of notorious drug trafficker and underworld criminal figure Agampodi Sajith Saman Priyantha alias “Saman Kolla” in the Ponaduwa area of Idantota, Ambalangoda early this morning (March 14).
-
-Police stated that no casualties or injuries were reported following the incident.
-
-However, it is reported that several gunshots have been fired at a wall and the door of the house, the police said, adding that the mother and three sisters of “Saman Kolla” were present in the house at the time of the incident.
-
-◼️
-
-[Data](articles/c491f07b.json)
-
-[Extended Data](ext_articles/c491f07b.ext.json)
 
 ---

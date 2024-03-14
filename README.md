@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 13:52:09**
+As of **2024-03-14 14:02:52**
 
 ## Newspaper Stats
 
-*Scraped **12,844** Articles*
+*Scraped **12,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,098
+adalk | 1,101
 adaderanalk | 1,546
-tamilmirrorlk | 1,568
-virakesarilk | 1,780
-dailymirrorlk | 1,961
-adaderanasinhalalk | 2,029
+tamilmirrorlk | 1,570
+virakesarilk | 1,781
+dailymirrorlk | 1,963
+adaderanasinhalalk | 2,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,843 (100.0%) of 12,844 articles have been extended.
+12,844 (99.9%) of 12,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### NPP නායකයින් IMF නියෝජිතයින් සමග කළ සාකච්ඡාව
+
+*2024-03-14 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194501) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාවේ මෙහෙයුම් ප්‍රධානී පීටර් බෘෘවර් ඇතුළු කණ්ඩායමක් සහ ජාතික ජන බලවේගයේ නියෝජිතයන් අතර සාකච්ඡාවක් අද (14) පෙරවරුවේ කොළඹ ශ්‍රැංගිලා හෝටලයේදී පැවැත්විණි.
+
+පැය එකහමාරක පමණ කාලයක් පැවති මෙම හමුවේදී ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණයේ සහ වංචා දූෂණ වැළැක්වීමට අදාළ ක්‍රියාවලීන්හි ප්‍රගතිය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා වී ඇති අතර ජනතාවට මෙතෙක් ලබා දී නොමැති තාක්ෂණ සහායක වාර්තාව පිළිබඳවද ජාතික ජන බලවේගයේ නියෝජිතයින් විසින් විමසීම් සිදුකර තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල නියෝජනය කරමින් පීටර් බෲවර් මහතාට අමතරව ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජ්‍ය නේවාසික නියෝජිත සර්වත් ජහාන් සහ කැට්සියරිනා ස්විඩ්සෙන්කා සහ මානවී අබේවික්‍රම යන මහත්මීහුද සාකච්ඡාවට එක්ව සිටියහ.
+
+මේ හමුව සඳහා ජාතික ජන බලවේගය නියෝජනය කරමින් ජාතික විධායක සභික පාර්ලිමේන්තු මන්ත්‍රී  විජිත හේරත්, ජාතික විධායක සභික මුදිත නානායක්කාර සහ ආර්ථික කවුන්සිලයේ සාමාජිකයින් වන මහාචාර්ය අනිල් ජයන්ත, මහාචාර්ය සීතා බණ්ඩාර, ආචාර්ය හර්ෂණ සූරියප්පෙරුම සහ සුනිල් හඳුන්නෙත්ති යන අය සහභාගි වූහ.
+
+◼️
+
+[Data](articles/cac8ec65.json)
+
+---
+
+### “செரின் ரிவர் பார்க்” சூழலியல் பூங்கா திறப்பு
+
+*2024-03-14 13:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செரின்-ரிவர்-பார்க்-சூழலியல்-பூங்கா-திறப்பு/175-334665) · `ta`
+
+கடற்கரையோரங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ள சுற்றுலாத்துறையை நாட்டிற்குள் கொண்டு வந்து பொருளாதாரத்தை வலுப்படுத்த முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+
+நாட்டின் சுற்றுலாத்துறையை மேம்படுத்துவதில் தென்பகுதிக்குத் தனித்துவமான இடம் உள்ளது என்றும் காலியை பிரதான சுற்றுலா நகரமாக அபிவிருத்தி செய்ய திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+காலி, ஹோலுவாகொட “செரின் ரிவர் பார்க்” சூழலியல் பூங்காவை புதன்கிழமை (13) பிற்பகல் மக்கள் பாவனைக்காக திறந்து வைக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+
+“2021 ஆம் ஆண்டு நிர்மாணப்பணிகள் ஆரம்பிக்கப்பட்ட இந்த பூங்கா 14 ஏக்கர் தரிசு நிலத்தில் உருவாக்கப்பட்டுள்ளது.
+
+கைத்தொழில் மற்றும் சுகாதார அமைச்சர் ரமேஷ் பத்திரனவின் தலைமையில் இந்தக் கருத்திட்டம் செயற்படுத்தப்பட்டதோடு, நகர அபிவிருத்தி அதிகார சபையினால் இதற்கான திட்டம் தயாரிக்கப்பட்டு, இலங்கை காணி மீட்பு மற்றும் அபிவிருத்திக் கூட்டுத்தாபனத்தினால் நிர்மாணப் பணிகள் மேற்கொள்ளப்பட்டது.
+
+...
+
+[Data](articles/af0d1aca.json)
+
+---
 
 ### CEB calls for proposals for 50MW wind farm facility in Mannar
 
@@ -45,6 +83,78 @@ He further noted that deadline to submit the relevant proposal will be on 09 May
 ◼️
 
 [Data](articles/ec4a2664.json)
+
+[Extended Data](ext_articles/ec4a2664.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-14 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178706) · `ta`
+
+இன்று வியாழக்கிழமை (மார்ச் 14) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 301.0130 ஆகவும் விற்பனை விலை ரூபா 310.6428 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f6efc149.json)
+
+---
+
+### විනිසුරුවරයෙකුගේ නිවසකටත් හොරු පනී
+
+*2024-03-14 13:23:36* · [`adalk`](https://www.ada.lk/breaking_news/විනිසුරුවරයෙකුගේ-නිවසකටත්-හොරු-පනී/11-408609) · `si`
+
+සිවිල් අභියාචනා මහාධිකරණ විනිසුරුවරයෙකුගේ පෞද්ගලික නිවසක තිබූ රේසින් වර්ගයේ පාපැදියක් ඇතුළු දේපළ තොගයක් සොරාගත් පුද්ගලයෙකු සොරා ගත් භාණ්ඩ ද සමඟ අත්අඩංගුවට ගත් බව කිරුළපන පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ නාරාහේන්පිට රාසික්වත්තේ පදිංචි 19 හැවිරිදි  පුද්ගලයෙකු බව පොලිසිය කියයි.
+
+විනිසුරුවරයාගේ නිවසට යාබදව ඉදිකරමින් පවතින තෙමහල් ගොඩනැගිල්ලක ආධාරයෙන් විනිසුරුවරයාගේ නිවසේ තෙවන මහලේ සඳළුතලයට ඇතුළුවී ඊට යාබදව ගබඩා කාමරයක තිබූ රුපියල් 250,000 වටිනා රේසින් වර්ගයේ පාපැදියක් හා කාර්යාල කාමරයේ තිබූ රුපියල් හතළිස් දහසක් වටිනා ෂර්ට් දෙකක් මෙසේ සොරාගෙන ගොස් තිබුණි.
+
+සොරාගත් පාපැදිය මිනිසුරුවරයාගේ ව්‍යායාම සඳහා භාවිතා කරන එකක් බැවින් සිද්ධිය වූ දිනට පසුදා ව්‍යායාම සඳහා බැහැරට ගෙන යාමට පාපැදිය සොයා බැලීමේදී තිබු තැන නොතිබීමෙන් සැකසිතී පරීක්ෂා කිරීමේදී කාර්යාල කාමරයේ තිබූ ෂර්ට් දෙකක්  ද සොරාගෙන ගොස් ඇති අයුරු අනාවරණය වීමත් සමග සිද්ධිය සම්බන්ධයෙන් පොලිසියේ පැමිණිල්ලක් කර තිබුනි.
+
+...
+
+[Data](articles/c06dfc28.json)
+
+---
+
+### இரு பிள்ளைகளை கொன்ற தந்தை
+
+*2024-03-14 13:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இரு-பிள்ளைகளை-கொன்று-விட்டு-தன்னுயிரை-மாய்க்க-முயன்ற-தந்தை/74-334663) · `ta`
+
+தனது இரு பிள்ளைகளையும் படுகொலை செய்துவிட்டு தன்னுயிரை மாய்க்க முயன்ற தந்தை காப்பாற்றப்பட்டுள்ள சம்பவம் அம்பாறை, பெரிய நீலாவணை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+பெரிய நீலாவணை முஸ்லீம் பிரிவு பாக்கியதுல் சாலியா வீதியில் உள்ள வீட்டில் இவ்வனர்த்தம், வியாழக்கிழமை (14) இடம்பெற்றுள்ளது.
+
+மனவளர்ச்சி குன்றிய இரு பிள்ளைகளை கொன்று விட்டே, தன்னுயிரை மாய்த்துக்கொள்ள முயன்றுள்ளார். இதன்போது படுகாயமடைந்த அவர், கல்முனை ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+படு காயமடைந்த முஹம்மது மிர்சா முகமது கலீல் (வயது-63)   சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார். முஹம்மது கலீல் முகம்மது றிகாஸ்(வயது-29) முஹம்மது கலீல் பாத்திமா பஸ்மியா(வயது-15) ஆகியோர்   உயிரிழந்தவர்களாவர். அந்த பிள்ளைகளின் தாய் கடந்த 5 மாதங்களுக்கு முன்னர் மரணமடைந்து விட்டார்.
+
+சம்பவம்  தொடர்பில்  பெரியநீலாவணை பொலிஸ் நிலையப் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஜே.எஸ்.கே.வீரசிங்க வழிநடத்தலில்    சம்பவ இடத்திற்கு பொலிஸார் சென்று விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/5464aaf5.json)
+
+---
+
+### NPP will seek mandate to amend and continue IMF agreement: Vijitha
+
+*2024-03-14 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-will-seek-mandate-to-amend-and-continue-IMF-agreement-Vijitha/108-278849) · `en`
+
+Colombo, March 14 (Daily Mirror)- The National People's Power (NPP) will seek a mandate to continue the IMF agreement after making amendments on conditions detrimental to the people, NPP MP Vijitha Herath said today.
+
+He told a news conference that the NPP representatives met the IMF delegation this morning and briefed them on the NPP's stance on the agreement.
+
+He said the NPP will go before the people and seek a mandate to remove detrimental proposals in the agreement such as exorbitant taxes, price hikes in goods and services and selling state property.
+
+The MP said they briefed the IMF delegation on the actions to be taken with regard to the IMF agreement.
+
+"It is good that the IMF team is aware of what the NPP government will do," he said.
+
+◼️
+
+[Data](articles/dffe7605.json)
 
 ---
 
@@ -330,6 +440,20 @@ Arrangements have been made to use only one lane of motorists during the rehabil
 
 ---
 
+### ජල මට්ටම 25%ක් පහළ බසි  විදුළි කප්පාදුවක් සිදුවෙයිද?
+
+*2024-03-14 12:24:02* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මට්ටම-25%ක්-පහළ-බසි--විදුළි-කප්පාදුවක්-සිදුවෙයිද-/11-408603) · `si`
+
+මධ්‍යම කදුකරයට මාසයකට ආසන්න කාලයක් තිසසේ පවතින වියලි කාලගුණයත් සමග මාවුස්සාකැලේ හා කාසල්රි යන ජලාශ දෙකේ ජල මට්ටම 25% දක්වා පහත බැස තිබේ.
+
+ජාතික ජල විදුලිබල පද්ධතියට අයත් ලක්ෂපාන ජලවිදුලිබලසංකිර්ණය යටතේ ඇති මාවුස්සාකැලේ හාකාසල්රි යන ජලාශ දෙකේ ජල මට්ටම අද (14) උදෑසන 06.00 වන විට පිටාර ම්ටමේ සිට පිළිවෙලින් අඩි 24 ක් සහ 22 ක් වශයෙන් පැවති බවට එම ජලාශ භාර ඉංජිනේරුවෝ පැවසුුහ.\
+
+◼️
+
+[Data](articles/91fd55a8.json)
+
+---
+
 ### The President will be given 50 million
 
 *2024-03-14 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194495) · `si`
@@ -544,6 +668,24 @@ The vote on the no-confidence motion will be taken up at 4.30 pm on the 20th.
 
 ---
 
+### SriLankan Airlines, Korean Air announce new codeshare partnership
+
+*2024-03-14 11:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-Korean-Air-announce-new-codeshare-partnership/108-278847) · `en`
+
+SriLankan Airlines and Korean Air have officially activated a new codeshare partnership effective 15 March 2024, presenting enhanced travel options and connections for customers of both airlines travelling between Colombo and Seoul.
+
+The new partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air, making it possible for passengers to travel on a single, SriLankan Airlines’ ticket between Colombo and Incheon via Singapore.
+
+At the same time, Korean Air will codeshare on flights operated by SriLankan Airlines between Colombo and the cities of Seoul Incheon, Singapore, Chennai in India, and Male in the Maldives.
+
+SriLankan Airlines currently operates a twice-weekly direct service between Colombo and Incheon. With SriLankan Airlines tapping into Korean Air’s extensive Far Eastern network through codeshare collaboration, passengers of SriLankan now have the choice of daily flights between Colombo and Seoul via Singapore.
+
+...
+
+[Data](articles/e08c4a10.json)
+
+---
+
 ### SriLankan Airlines, Korean Air activate codeshare partnership
 
 *2024-03-14 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97942/srilankan-airlines-korean-air-activate-codeshare-partnership) · `en`
@@ -585,6 +727,26 @@ Earlier, the PAA served as the Director General of Civil Aviation Authority and 
 [Data](articles/403acd45.json)
 
 [Extended Data](ext_articles/403acd45.ext.json)
+
+---
+
+### ’’පොල්’’ ඔ්නෙ කෙනෙක් කඩාගෙන යන්න
+
+*2024-03-14 11:19:47* · [`adalk`](https://www.ada.lk/breaking_news/’’පොල්’’-ඔ්නෙ-කෙනෙක්-කඩාගෙන-යන්න/11-408602) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+
+ගම්පහ දිස්ත්‍රික්කයෙහි පොල් වගාව තවත් වැඩි දියුනු කිරීමට පොල් වගාකිරීමේ මණ්ඩලය පියවර ගෙන ඇති බව එම මණ්ඩලයේ දිස්ත්‍රික් කළමනාකාර සමන් හේරත් මහතා විසින් පොල් වගා ප්‍රගතිය ඉදිරිපත් කළ අවස්ථාවේ දිසාපතිවරයා එසේ පැවසීය.
+
+පොල් මිල ගණන් ඉහළ ගොස් ඇති බැවින් ඉඩ ඇති  සෑම භූමි ප්‍රමාණයකම පොල් වගා කිරීමට රාජ්‍ය නිලධාරීන් පියවර ගන්නා ලෙසත් මේවායෙහි ඵලදාව කවුරුන් ගත්තද ප්‍රශ්ණයක් නොවන බව පැවසූ දිසාපතිවරයා , වගාකිරීම පිනිස අවශ්‍ය පොල් පැල පොල් වගා කිරීමේ මණ්ඩලයෙන් ලබා ගැනීමට කටයුතු කළ යුතු බවත් පැවසීය.
+
+මේ සදහා ප්‍රධාන කාර්යාලය වෙත දැනුම් දෙමින් පොල් පැල 1000 ක් පළමුවෙන් ලබාදීමට පියවර ගන්නා බව දිස්ත්‍රික් කළමනාකාරවරයා මෙහිදී ප්‍රකාශ කළේය
+
+ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+
+...
+
+[Data](articles/73f7d4d6.json)
 
 ---
 
@@ -2007,195 +2169,5 @@ A team of experts is planning to introduce a new deep sea fishing vessel with mo
 [Data](articles/e1cb1ed8.json)
 
 [Extended Data](ext_articles/e1cb1ed8.ext.json)
-
----
-
-### Increase in water use by 15 percent
-
-*2024-03-14 03:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-பாவனை-15-வீதத்தால்-அதிகரிப்பு/175-334639) · `ta`
-
-Water use increased by 15%, putting upland areas under low pressure. The National Water Supply and Drainage Board advises efficient water use, as no area has been cut off from water supply.
-
-🟩
-
-As a result, the National Water Supply and Drainage Board said that people living in the upland areas and the conclusions of the water supply structure are under low pressure.
-
-However, the council noted that the water supply has not been stopped to any area so far.
-
-The National Water Supply and Drainage Board has urged people to use water efficiently. (A)
-
-◼️
-
-[Data](articles/ddcbfcf7.json)
-
-[Extended Data](ext_articles/ddcbfcf7.ext.json)
-
----
-
-### Tourism port in Galle
-
-*2024-03-14 03:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-சுற்றுலா-துறைமுகம்/175-334638) · `ta`
-
-Galle's tourism port will be upgraded with investor support for improved ship and boat arrivals.
-
-🟩
-
-The Secretary of the Ministry of Ports, Shipping and Aviation, Ruwan Chandra, said that we will choose an appropriate investor to improve the port.
-
-The port will be upgraded to the arrival of ships and boats carrying tourists. (A)
-
-◼️
-
-[Data](articles/7e7029e5.json)
-
-[Extended Data](ext_articles/7e7029e5.ext.json)
-
----
-
-### Today's snowy situation
-
-*2024-03-14 03:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பனிமூட்டமான-நிலைமை/175-334637) · `ta`
-
-Expected rain/thunderstorms in Western, Sabaragamuwa, and Southern Provinces tonight. Snowy mornings in Sabaragamuwa, Central, Uva Provinces, Galle, and Matara districts. Hot climate expected elsewhere.
-
-🟩
-
-The Department of Meteorology has said that rain or thunderstorms are expected in the Western, Sabaragamuwa and Southern Provinces this evening or night.
-
-However, the department said it could expect a hot climate in other parts of the country.
-
-The Department of Meteorology has announced that there will be a snowy situation in the morning in the mornings in the Sabaragamuwa, Central and Uva Provinces and Galle and Matara districts.. (A)
-
-◼️
-
-[Data](articles/a30e8f76.json)
-
-[Extended Data](ext_articles/a30e8f76.ext.json)
-
----
-
-### Accident in Kandy: Woman killed
-
-*2024-03-14 03:08:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-கோர-விபத்து-பெண்-பலி/175-334636) · `ta`
-
-A young woman died in a Kandy accident involving a motorcycle and Otto. The collision occurred at 6 pm in Minippe, Kandy, as she returned home. The motorcycle was severely damaged, and the Otto driver and two passengers were injured.
-
-🟩
-
-A young woman has died in a collision with motorcycle and Otto.
-
-The accident took place at 6 pm yesterday in Minippe area, Kandy.
-
-The woman who was working in a private company was returning home on a motorbike and collided with Otto.
-
-The woman died on the spot. The motorcycle has also been severely damaged.
-
-Otto driver and two women who were traveling in it were admitted to the hospital with injuries. (A)
-
-◼️
-
-[Data](articles/df5abad8.json)
-
-[Extended Data](ext_articles/df5abad8.ext.json)
-
----
-
-### New IPS publication explores trade wars in EV supply chains and Sri Lanka’s graphite industry
-
-*2024-03-14 02:21:25* · [`dailyftlk`](https://www.ft.lk/business/New-IPS-publication-explores-trade-wars-in-EV-supply-chains-and-Sri-Lanka-s-graphite-industry/34-759446) · `en`
-
-The authors of the publication (from left) Dr. Asanka Wijesinghe, Malisha Weerasinghe and Chaya Dissanayake
-
-Sri Lanka is poised to benefit from the global trend towards electric vehicles (EVs), leveraging its top-quality vein graphite crucial for EV battery manufacturing.
-
-The country’s commitment to sustainability and quality standards places it strategically in the non-China graphite export market, boosted by US industrial policies favouring domestic assembly and non-China sources.
-
-A new IPS study highlights Sri Lanka’s opportunity to become part of the EV battery supply chain. It suggests focusing on upstream activities including exporting battery-grade graphite and anodes, and strengthening Research and Development to enhance its strategic position in the non-China graphite export sector, thus attracting investment and ensuring sustainability.
-
-...
-
-[Data](articles/d0d34356.json)
-
-[Extended Data](ext_articles/d0d34356.ext.json)
-
----
-
-### How to liberate an addiction to a addictive to a computer games or computer games?
-
-*2024-03-14 02:03:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c720jp779x5o) · `si`
-
-Addressing computer game addiction involves understanding its signs, such as neglecting daily activities and prioritizing gaming over social interactions. Psychologists suggest gradual reduction of gaming time and distancing from devices. Parents should be patient and supportive, possibly limiting internet access and encouraging alternative activities. Medical and psychological intervention may be necessary.
-
-🟩
-
-How to liberate an addiction to a addictive to a computer games or computer games?
-
-Do you know that your child's association is a risk that your child's life can be lost by a mobile phone to your child to eat or silence?
-
-To understand it, let's look at the true event that explains below.
-
-The parents of a 19 year old resident of Panadura are facing a tragedy experience.
-
-His mother explained the life of his son.
-
-"Son beat games until morning. The morning doesn't get up. Don't eat. Nothing can do anything because you don't get up in the morning. He put him in a computer caust. It can't go. There is no way to go to work. We couldn't imagine what to do. "
-
-All the characteristics of the child, computer games have made the daily life of computer games.
-
-It is because trying to remove the computer or mobile phone to commit suicide.
-
-A 15-year-old student was arrested in the resident of the house in August, Matara in August, Matara in the rescue of a mobile phone addicted to the mother.
-
-...
-
-[Data](articles/7a9a4888.json)
-
-[Extended Data](ext_articles/7a9a4888.ext.json)
-
----
-
-### Sri Lanka grappling with severe clove production decline
-
-*2024-03-14 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-grappling-with-severe-clove-production-decline/108-278811) · `en`
-
-Sri Lanka is currently experiencing a severe decline in clove production, Mirror Business learns.
-
-The experts attribute the downfall to the heavy rainfall towards the end of August last year, causing premature shedding of the clove buds. Consequently, the seasonal cultivation cycle, which was anticipated to commence between December and January, has been adversely affected.
-
-Speaking to Mirror Business, Export Agriculture Industries Director General A.P.P. Disna shared that the country is projected to achieve only 20 percent of its annual clove production, with the export quantities likely to plummet to below 1000 tonnes.
-
-“Cloves exhibit a cyclic pattern of abundant yields every three years. In a favourable season, we can export between 4000 and 6000 tonnes of cloves. Last year, we had good production. But this year, the overall production is roughly forecasted to be just 600-700 tonnes,” Disna revealed.
-
-...
-
-[Data](articles/28478d27.json)
-
-[Extended Data](ext_articles/28478d27.ext.json)
-
----
-
-### ‘The silent killer’ – economic consequences of an overvalued exchange rate
-
-*2024-03-14 01:41:59* · [`dailyftlk`](https://www.ft.lk/columns/The-silent-killer-economic-consequences-of-an-overvalued-exchange-rate/4-759445) · `en`
-
-...
-
-[Data](articles/4fff28e8.json)
-
-[Extended Data](ext_articles/4fff28e8.ext.json)
-
----
-
-### Sri Lanka leaders should get best political economy practices from top economies in the world
-
-*2024-03-14 01:21:41* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-leaders-should-get-best-political-economy-practices-from-top-economies-in-the-world/4-759444) · `en`
-
-Sri Lanka needs to be a modern nation that still preserves its Sri Lankan culture and identity. The importance of individual liberty lies at the heart of Social Market Economy and classical liberalism›s political theory. The recent Government interventions gravely threaten this liberty. For this reason, the rule of law should always serve as a constraint on governments. Creating a business environment conducive to producers and consumers, protecting people›s rights, and insulating them from outside pressure should be the primary responsibility of the Government
-
-...
-
-[Data](articles/6f20b0a4.json)
-
-[Extended Data](ext_articles/6f20b0a4.ext.json)
 
 ---

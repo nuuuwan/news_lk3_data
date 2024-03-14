@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 01:33:25**
+As of **2024-03-15 01:51:03**
 
 ## Newspaper Stats
 
-*Scraped **12,971** Articles*
+*Scraped **12,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 700
 adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,579
-virakesarilk | 1,802
+virakesarilk | 1,803
 dailymirrorlk | 1,981
 adaderanasinhalalk | 2,051
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,971 (100.0%) of 12,971 articles have been extended.
+12,971 (100.0%) of 12,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### டக் டிக் டோஸ் திரைப்படம் இலங்கை முழுவதும் வெளியாகிறது
+
+*2024-03-15 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178760) · `ta`
+
+ஈழத்தில் உருவாகியுள்ள "டக் டிக் டோஸ்" திரைப்படம் கடந்த சிவராத்திரி அன்று யாழ்ப்பாணத்தில் உள்ள மூன்று திரையரங்குகளில் வெளியாகி வெற்றிகரமாக ஓடி பலரின் வரவேற்பை பெற்ற நிலையில் வெள்ளிக்கிழமை (15) முதல் இலங்கையின் ஏனைய பாகங்களில் உள்ள  திரையரங்குகளில் திரைப்படவுள்ளது.
+
+கொழும்பு PVR திரையரங்கில் மாலை 4.45 மணிக்கும் , கொழும்பு தெமட்டகொட றீகல் திரையரங்கில் காலை 10.15 மணிக்கும் , யாழ்ப்பாணம் றீகல் திரையரங்கில் மாலை 4 மணிக்கும், வவுனியா அமுதா திரையரங்கில் மாலை 06.30 மணிக்கும் கல்முனை GK திரையரங்கில் மாலை 06.30 மணிக்கும் கண்டி KCC திரையரங்கு , மருதானை சினிசிட்டி திரையரங்கில் இரவு 10.30 மணிக்கும் மற்றும் திருகோணமலை நெல்சன் திரையரங்கிலும் திரையிடப்படவுள்ளது.
+
+அதேவேளை எதிர்வரும் 17ஆம் திகதி சுவிஸ் Liestal மாநிலத்தில் உள்ள KINOORIS திரையரங்கில் மாலை 4.30 மணிக்கு திரையிடப்படவுள்ளது.
+
+...
+
+[Data](articles/dbe1ff8a.json)
+
+---
 
 ### Suzuki recalls over 32,000 Wagon R vehicles
 
@@ -2255,21 +2271,5 @@ The General Secretary of the union said that a discussion with the Transport Min
 [Data](articles/1cec7c4d.json)
 
 [Extended Data](ext_articles/1cec7c4d.ext.json)
-
----
-
-### Industrialized nations should acknowledge contributions to climate change
-
-*2024-03-14 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Industrialized-nations-should-acknowledge-contributions-to-climate-change/108-278851) · `en`
-
-India, March 14 (Daily Mirror) - United Republican Front (URF) leader Patali Champika Ranawaka, addressing an international summit in India, said it is imperative for industrialized nations to acknowledge their historical contributions to climate change and take responsibility for mitigating its effects, including compensating affected countries for their losses.
-
-In his adderess, he said efforts to address climate change have a long history, marked by milestones such as the Club of Rome declaration in 1968 and the Rio Convention in 1992, which led to the establishment of the United Nations Framework Convention on Climate Change (UNFCCC).
-
-...
-
-[Data](articles/f21212ff.json)
-
-[Extended Data](ext_articles/f21212ff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 08:50:52**
+As of **2024-03-14 09:03:07**
 
 ## Newspaper Stats
 
-*Scraped **12,771** Articles*
+*Scraped **12,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 661
 economynextcom | 680
 islandlk | 699
-adalk | 1,090
+adalk | 1,091
 adaderanalk | 1,537
 tamilmirrorlk | 1,554
 virakesarilk | 1,766
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,767 (100.0%) of 12,771 articles have been extended.
+12,771 (100.0%) of 12,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### දකුණේ තවත් වෙඩිල්ලක්
+### Another shower in the South
 
 *2024-03-14 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194488) · `si`
 
-අම්බලන්ගොඩ පොලිස් වසමේ ඉඩන්තොට පොනදුව ප්‍රදෙශයේ, මත්කුඩු ජාවාරමේ නිරත පාතල සාමාජික අගම්පොඩි සජිත් සමන් පියන්ත නොහොත් 'සමන්කොල්ලා' නැමැත්තාගේ නිවසට අද (14) අලුයම ⁣වෙඩි ප්‍රහරයක් එල්ල වී ඇත.
+In Ambalangoda, Pirada Piyakadi Saman Paparati, known as 'Samankulla', has been admitted to 'Samankulla's' house.
+
+🟩
+
+In the Ambalangoda police division, Pirada Piyakadi Saman Paparati, Samankulla, 'Samankulla' has been admitted to the house of 'Samankulla'.
 
 ◼️
 
 [Data](articles/1091d526.json)
+
+[Extended Data](ext_articles/1091d526.ext.json)
 
 ---
 
@@ -60,23 +66,31 @@ The picture is varied. Some countries, like Cambodia, Malawi and Mongolia, have 
 
 [Data](articles/95486539.json)
 
+[Extended Data](ext_articles/95486539.ext.json)
+
 ---
 
-### ගාල්ල ගැන ජනපතිගේ අවධානය
+### President's attention on Galle
 
 *2024-03-14 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194487) · `si`
 
-ගාල්ල මෙරට ප්‍රධාන සංචාරක නගරය බවට පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe aims to transform Galle into a major tourist city, removing government offices from Galle Fort and focusing on hotel restoration and tourism development. He highlights the potential for significant revenue, aiming for $200-$300 per tourist, up from the current $100.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ සංචාරක ව්‍යාපාරය දියුණු කිරීම සඳහා විශේෂ වැඩසටහන් රැසක් මේ වන විටත් ක්‍රියාවට නංවා ඇති බවය.
+🟩
 
-ගාල්ල කොටුව ආශ්‍රිතව පවතින රජයේ කාර්යාල රැසක් එම ස්ථානවලින් ඉවත් කර සංචාරක ආකර්ෂණය වැඩි කිරීම සඳහා වැඩපිළිවෙලක් සකස් කර ඇති බව ජනාධිපතිවරයා පවසයි.
+President Ranil Wickremesinghe says he will be converted into the main tourist city in Galle.
 
-ගාල්ල හෝලුවාගොඩ ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේය.
+The President points out that many special programs have already been implemented to develop the tourism industry.
+
+The President has said that many government offices in the Galle Fort have been removed and a program to increase tourist attraction.
+
+President Ranil Wickremesinghe made this statement participating at a function in the Holuwagoda, Galle.
 
 ...
 
 [Data](articles/2f68baa6.json)
+
+[Extended Data](ext_articles/2f68baa6.ext.json)
 
 ---
 
@@ -93,6 +107,8 @@ The People's Liberation Army (PLA) will continue to pursue the establishment of 
 ...
 
 [Data](articles/e65d4cfe.json)
+
+[Extended Data](ext_articles/e65d4cfe.ext.json)
 
 ---
 
@@ -1336,6 +1352,22 @@ The Minister further said that Microsoft Corporation is working together with th
 
 ---
 
+### වෙළඳපොලේ වම්බටු කන්නේ බලාගෙනයි
+
+*2024-03-13 19:29:50* · [`adalk`](https://www.ada.lk/breaking_news/වෙළඳපොලේ-වම්බටු-කන්නේ-බලාගෙනයි/11-408597) · `si`
+
+වෙළෙඳ පොළේ අළෙවි කිරීමට තිබෙන වම්බටුවල මිනිසාට අහිතකර කෘමිනාශක පවතින  බවට විශේෂ පරීක්ෂණයකින් හෙළි වී ඇති බව ශ්‍රී ලංකා ජයවර්ධනපුර විශ්වවිද්‍යාලයේ ආහාර විද්‍යා හා තාක්ෂණ අධ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ කථිකාචාර්ය ආචාර්ය පියුම්ද ඒ.
+
+අබේසුන්දර මහතා විසින් තාක්ෂණ අධ්‍යයනය විසින් කරන ලද පර්යේෂණයකදී අනාවරණය වී ඇති බව පෙරේදා (12දා) ඔහු සමග කරන ලද විමසීමකදී සඳහන් කරන ලදී. වෙළෙඳ පොළෙන් ලබා ගත් නැවුම් වම්බටු සාම්පල්වල 28%ක මිනිසාට අහිතකර  කෘමිනාශක අවශේෂව තිබෙන බව කථිකාචාර්ය පියුම් ද ඒ. අබේසුන්දර මහතා පවසන ලදී.
+
+ඔහු පරිසර යුක්ති කේන්ද්‍රයට සඳහන් කර ඇත්තේ, එළවළු සහ පලතුරු සිසිල් ජලයෙන් සෝදනවා වෙනුවට ඊට විනාකිරි හෝ ලුණු එකතු කර සේදීමෙන් මෙම පලිබෝධනාශක ඉවත් කිරීමේ හැකියාව පවතින බවයි.මෙහිදී ආචාර්යවරයා තවදුරටත් සඳහන් කළේ, එළවළු සහ පලතුරුවල පිටතින් ඇති පොත්ත ඉවත් කිරීම මගින් පහසුවෙන්ම විෂ රසායනිකයන් ආහාර මතින් ඉවත් කිරීමේ හැකියාව පවතින බවයි.
+
+◼️
+
+[Data](articles/172ad548.json)
+
+---
+
 ### A body of a rubber estate
 
 *2024-03-13 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194476) · `si`
@@ -2227,23 +2259,5 @@ Increased investor participation due to lower rates was causing the market to pi
 [Data](articles/f6dcc3b2.json)
 
 [Extended Data](ext_articles/f6dcc3b2.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-13 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/178651) · `ta`
-
-The US dollar's purchase price was Rs 301.7622, and the sales price was Rs 311.0041, as per the Central Bank's Wednesday (March 13) release.
-
-🟩
-
-The US dollar purchasing price was Rs 301.7622 and the sales price were 311.0041 based on the currency exchange rate released by the Central Bank on Wednesday (March 13).
-
-◼️
-
-[Data](articles/a933936a.json)
-
-[Extended Data](ext_articles/a933936a.ext.json)
 
 ---

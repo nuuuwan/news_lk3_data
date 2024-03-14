@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 09:03:07**
+As of **2024-03-14 09:17:56**
 
 ## Newspaper Stats
 
-*Scraped **12,772** Articles*
+*Scraped **12,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 680
 islandlk | 699
 adalk | 1,091
 adaderanalk | 1,537
-tamilmirrorlk | 1,554
+tamilmirrorlk | 1,557
 virakesarilk | 1,766
 dailymirrorlk | 1,951
 adaderanasinhalalk | 2,017
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,017
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,771 (100.0%) of 12,772 articles have been extended.
+12,772 (100.0%) of 12,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,18 @@ President Ranil Wickremesinghe made this statement participating at a function i
 [Data](articles/2f68baa6.json)
 
 [Extended Data](ext_articles/2f68baa6.ext.json)
+
+---
+
+### உயர்ஸ்தானிகரை சந்தித்தார் பசில்
+
+*2024-03-14 08:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்ஸ்தானிகரை-சந்தித்தார்-பசில்/175-334641) · `ta`
+
+பொதுஜன பெரமுனவின் ஸ்தாபகரான பசில் ராஜபக்ஷ,. இலங்கைக்கான  இந்திய உயர்ஸ்தானிகர் ஸ்ரீ சந்தோஷ் ஜா வை சந்தித்து கலந்துரையாடினார்
+
+◼️
+
+[Data](articles/5857e42a.json)
 
 ---
 
@@ -517,6 +529,38 @@ Addressing a press conference yesterday, SLUNBA Chairperson Tania Abeysundara sa
 [Data](articles/0df51385.json)
 
 [Extended Data](ext_articles/0df51385.ext.json)
+
+---
+
+### ’மீன்பிடி துறைக்கு நவீன கப்பல் விரைவில் அறிமுகம்’
+
+*2024-03-14 03:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடி-துறைக்கு-நவீன-கப்பல்-விரைவில்-அறிமுகம்/175-334640) · `ta`
+
+மீன்பிடித் தொழிலுக்கு நவீன தொழில்நுட்பம் மற்றும் நவீன செயற்பாட்டு முறைகளுடன் கூடிய புதிய ஆழ்கடல் கப்பலை அறிமுகப்படுத்தத் திட்டமிடப்பட்டுள்ளது என்று  கடல் தொழில் இராஜாங்க அமைச்சர் பியல் நிசாந்த டி சில்வா தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் பியல் நிசாந்த இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+மீன்பிடி தொழில்துறையின் வளர்ச்சிக்காக, மீன்களின் தரத்தை பாதுகாக்க முயற்சி மேற்கொள்ளப்பட்டுள்ளது. எரிபொருள் விலை அதிகரிப்பு மற்றும் மீன்பிடி உபகரணங்களின் விலை அதிகரிப்பு காரணமாக மீனவர்களின் வருமானத்தில் ஓரளவு பாதிப்பு ஏற்பட்டுள்ளது. ஆனால் நிலைமையை தணிக்க தேவையான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/e1cb1ed8.json)
+
+---
+
+### நீர் பாவனை 15 வீதத்தால் அதிகரிப்பு
+
+*2024-03-14 03:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-பாவனை-15-வீதத்தால்-அதிகரிப்பு/175-334639) · `ta`
+
+இதன்காரணமாக மேட்டுநிலப் பகுதிகள் மற்றும் நீர் விநியோகக் கட்டமைப்பின் முடிவிடங்களில் வாழும் மக்களுக்கு குறைந்த அழுத்தத்தில் நீர் விநியோகிக்கப்படுவதாக தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
+
+எவ்வாறாயினும், இதுவரை எந்தவொரு பகுதிக்கும் நீர் விநியோகம் நிறுத்தப்படவில்லை என சபை குறிப்பிட்டுள்ளது.
+
+இதனால் நீரை சிக்கனமாகப் பயன்படுத்துமாறு தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை மக்களை கேட்டுக்கொண்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/ddcbfcf7.json)
 
 ---
 
@@ -1352,19 +1396,25 @@ The Minister further said that Microsoft Corporation is working together with th
 
 ---
 
-### වෙළඳපොලේ වම්බටු කන්නේ බලාගෙනයි
+### Eggplant eating eggplant in the market
 
 *2024-03-13 19:29:50* · [`adalk`](https://www.ada.lk/breaking_news/වෙළඳපොලේ-වම්බටු-කන්නේ-බලාගෙනයි/11-408597) · `si`
 
-වෙළෙඳ පොළේ අළෙවි කිරීමට තිබෙන වම්බටුවල මිනිසාට අහිතකර කෘමිනාශක පවතින  බවට විශේෂ පරීක්ෂණයකින් හෙළි වී ඇති බව ශ්‍රී ලංකා ජයවර්ධනපුර විශ්වවිද්‍යාලයේ ආහාර විද්‍යා හා තාක්ෂණ අධ්‍යයන අංශයේ ජ්‍යෙෂ්ඨ කථිකාචාර්ය ආචාර්ය පියුම්ද ඒ.
+A Sri Lankan university student found pesticide residues in market eggplants, suggesting washing the vegetable's bark could remove these harmful substances.
 
-අබේසුන්දර මහතා විසින් තාක්ෂණ අධ්‍යයනය විසින් කරන ලද පර්යේෂණයකදී අනාවරණය වී ඇති බව පෙරේදා (12දා) ඔහු සමග කරන ලද විමසීමකදී සඳහන් කරන ලදී. වෙළෙඳ පොළෙන් ලබා ගත් නැවුම් වම්බටු සාම්පල්වල 28%ක මිනිසාට අහිතකර  කෘමිනාශක අවශේෂව තිබෙන බව කථිකාචාර්ය පියුම් ද ඒ. අබේසුන්දර මහතා පවසන ලදී.
+🟩
 
-ඔහු පරිසර යුක්ති කේන්ද්‍රයට සඳහන් කර ඇත්තේ, එළවළු සහ පලතුරු සිසිල් ජලයෙන් සෝදනවා වෙනුවට ඊට විනාකිරි හෝ ලුණු එකතු කර සේදීමෙන් මෙම පලිබෝධනාශක ඉවත් කිරීමේ හැකියාව පවතින බවයි.මෙහිදී ආචාර්යවරයා තවදුරටත් සඳහන් කළේ, එළවළු සහ පලතුරුවල පිටතින් ඇති පොත්ත ඉවත් කිරීම මගින් පහසුවෙන්ම විෂ රසායනිකයන් ආහාර මතින් ඉවත් කිරීමේ හැකියාව පවතින බවයි.
+A special investigation has revealed that man in the market, the Food Science and Technology Student Division of the Sri Lanka Jayawardenapura University, Sri Lanka's Food Science and Technology Student.
+
+When Abeysundara was revealed in a research conducted by the technology study, was revealed in response to him on Monday (12). Lecturer is the remains of an adverse pesticide residums in fresh eggplant samples obtained from the market. Mr. Abeysundara said.
+
+He has said that the pesticides were able to remove the pesticides, instead of washing the bark on the outside of the vegetable and fruits, instead of washing the bark on the outside of vegetables and fruits.The ability to be removed is.
 
 ◼️
 
 [Data](articles/172ad548.json)
+
+[Extended Data](ext_articles/172ad548.ext.json)
 
 ---
 
@@ -2175,89 +2225,5 @@ The status of 36% of the commitments are classified as ‘unknown’, which mean
 [Data](articles/585e1e6d.json)
 
 [Extended Data](ext_articles/585e1e6d.ext.json)
-
----
-
-### The Israeli leader shows another goal
-
-*2024-03-13 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194466) · `si`
-
-Israeli PM Benjamin Netanyahu announces military operation in South Gaza, despite international criticism. Operation Rapa aims to remove civilians without damage. Netanyahu's statement was made to Israeli supporters in Washington, USA, highlighting the organization's financial support to President Joe Biden.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyahuu says that the country's military operation is to be implemented anyway, the last loyal site of Palestinians in the South Gaza.
-
-About 1.5 million Palestinians, including the people of the northern and central areas of the Gaza, is currently underway.
-
-Netanyahudu said he was talking about the operation of Rapa, that the ruffa operation could be completed after the removal of civilians with no damage.
-
-Israeli Prime Minister Benjamin Netanyahu made this statement focused on video technology to the Israeli support that supported Israel in Washington in Washington, USA.
-
-The organization has contributed millions of dollars to the President Joe Biday.
-
-◼️
-
-[Data](articles/3ce507a5.json)
-
-[Extended Data](ext_articles/3ce507a5.ext.json)
-
----
-
-### The punishment given to a girl who was abused
-
-*2024-03-13 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194464) · `si`
-
-A Nuwara Eliya High Court sentenced a man to serious imprisonment for abusing a girl. The court ordered compensation of Rs. 5 lakhs, with an additional three years in prison if not paid. The accused also received a three-month sentence and a fine of Rs. 15,000.
-
-🟩
-
-The Nuwara Eliya High Court has been sentenced to a serious imprisonment for a person who was convicted of abuse of a girl's girl.
-
-The prison was sentenced to a resident of Nanu Oya area.
-
-Nuwara Eliya High Court Judge Viraj Weerasuriya had issued the order after the suspect was produced before courts.
-
-The parents' parents had lodged a complaint with the Nanu Oya Police in the year 2011 to abuse the suspect.
-
-The judge was delivered to the suspect, leaving the suspect, to pay a compensation of Rs. 5 lakhs.
-
-The suspect was sentenced to three years additional prison if he does not pay the money.
-
-The accused was also sentenced to a three-month sentence in addition to the Court of Justice to pay a fine of Rs. 15,000.
-
-The court granted the court to consider the evidence against the defendant who had been entrusted with the 13 year.
-
-◼️
-
-[Data](articles/91df4bbf.json)
-
-[Extended Data](ext_articles/91df4bbf.ext.json)
-
----
-
-### Sri Lanka stocks close up 1-pct, Hayleys and subsidiary attract interest
-
-*2024-03-13 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-hayleys-and-subsidiary-attract-interest-154527/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 1 percent, or 111.50 points, at 11,286; while the S&P SL20 Index closed up 1.16 percent, or 36.75 points, at 3,218.
-
-Turnover was at 1.9 billion. Both Hayleys Plc (up at 85.30), and its subsidiary Hayleys Fabric Plc (down at 40.50), saw active volumes being traded (179mn and 104mn respectively).
-
-“There is consolidating happening, prices are improving across the board,” market participants said.
-
-The capital goods sector contributed 478mn million to the day’s turnover. Other sectors that attracted interest were banks (400mn), diversified financials (258mn), and food, beverage and tobacco (380).
-
-Increased investor participation due to lower rates was causing the market to pick up, market participants said.
-
-“There is interest coming in as can be seen by the volumes; mainly driven by banks.”
-
-...
-
-[Data](articles/f6dcc3b2.json)
-
-[Extended Data](ext_articles/f6dcc3b2.ext.json)
 
 ---

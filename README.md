@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 09:52:05**
+As of **2024-03-14 10:02:55**
 
 ## Newspaper Stats
 
-*Scraped **12,779** Articles*
+*Scraped **12,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,96 @@ newsfirstlk | 363
 dailyftlk | 661
 economynextcom | 680
 islandlk | 699
-adalk | 1,091
+adalk | 1,092
 adaderanalk | 1,537
 tamilmirrorlk | 1,557
 virakesarilk | 1,768
 dailymirrorlk | 1,952
-adaderanasinhalalk | 2,018
+adaderanasinhalalk | 2,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,776 (100.0%) of 12,779 articles have been extended.
+12,779 (100.0%) of 12,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### குளவி தாக்குதலுக்குள்ளான குடும்பஸ்தர் வைத்தியசாலையில் அனுமதி
+### ළහිරු තිරිමාන අනතුරක
+
+*2024-03-14 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194491) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායමේ හිටපු ක්‍රිකට් ක්‍රීඩක ළහිරු තිරිමාන්න ගමන් ගත් මෝටර් රථය අනුරාධපුරයේ, තිරප්පනේ ප්‍රදේශයේ දී ලොරියක ගැටී අනතුරක් සිදුව තිබේ.
+
+ඉන් ළහිරු තිරිමාන සුළු තුවාල ලබා ඇති බව පොලිස් ප්‍රකාශකයෙක් පැවසීය.
+
+◼️
+
+[Data](articles/def4e727.json)
+
+---
+
+### උතුරු කොරියානු නායකයා යුද ටැංකියක් පදවයි
+
+*2024-03-14 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194490) · `si`
+
+උතුරු කොරියාව විසින් නිෂ්පාදනය කරන ලද නවීන මාදිලියේ යුද ටැංකියක් හමුදා අභ්‍යාසයකදී පැදවීමට එරට ජනාධිපති කිම් ජොන්ග් අන් කටයුතු කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+දකුණු කොරියාව සහ අමෙරිකාව පසුගිය දින කිහිපයේදී ඒකාබද්ධ යුද අභ්‍යාසයක් සිදුකළ අතර එයට ප්‍රතිචාර ලෙස උතුරු කොරියාව සිය ශක්තිය ප්‍රදර්ශනය කර ඇති බව සඳහන් ය.
+
+නව යුද ටැංකියේ ප්‍රහාරක හැකියාව ගැන උතුරු කොරියානු නායකයා සංතෝෂ වී තිබුණි.
+
+◼️
+
+[Data](articles/97af0b29.json)
+
+---
+
+### Admission
 
 *2024-03-14 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178678) · `ta`
 
-புதுக்குடியிருப்பில் நேற்று புதன்கிழமை (13) குடும்பஸ்தர் ஒருவர் குளவித் தாக்குதலுக்கு இலக்கான நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+A family member in Pudukkudiyiruppu was attacked and admitted to the hospital. Over 30 wasps were also admitted. The family was initially treated at the Pudukkudiyiruppu Divisional Hospital before being transferred to the Mullaitivu District Hospital for further treatment.
 
-முல்லைத்தீவு புதுக்குடியிருப்பு கைவேலி பகுதியிலுள்ள குடும்பஸ்தர் ஒருவருக்கு நேற்று மாலை 30 ற்கும் மேற்பட்ட குளவிகள் தாக்கிய நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் அப்பகுதியிலிருந்து காற்றில் கலைந்த குளவி வீட்டிலிருந்த செல்லையா பரமலிங்கம் 62 வயதுடைய குடும்பஸ்தர் மீது கொட்டியுள்ளது.
+🟩
 
-இதையடுத்து அவரை உடனடியாக புதுக்குடியிருப்பு பிரதேச  வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு மாற்றப்பட்டு சிகிச்சை பெற்று வருவதாக வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன.
+A family member in Pudukkudiyiruppu on Wednesday (13) has been admitted to the Pudukkudiyiruppu hospital after being attacked.
+
+More than 30 wasps have been admitted to the Pudukkudiyiruppu hospital after a family of Kaveli in the Mullaitivu Pudukkudiyiruppu area has been admitted to the Pudukkudiyiruppu hospital.
+
+He was immediately admitted to the Pudukkudiyiruppu Divisional Hospital and was transferred to the Mullaitivu District Hospital for further treatment, hospital sources said.
 
 ◼️
 
 [Data](articles/f021548b.json)
 
+[Extended Data](ext_articles/f021548b.ext.json)
+
 ---
 
-### ටික්ටොක් ගැන අමෙරිකාවෙන් තීරණයක්
+### America's decision about Ticktock
 
 *2024-03-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194489) · `si`
 
-"ටික්ටොක්" සමාජ මාධ්‍ය තහනම් කිරීම සඳහා වන පනත් කෙටුම්පත අමෙරිකා එක්සත් නියෝජිත මන්ත්‍රී මණ්ඩලය විසින් සම්මත කර තිබේ.
+The US has passed a bill banning "Ticktock," requiring it to remove its US branch within six months or face a block.
 
-අදාළ පනත් කෙටුම්පත බහුතර ඡන්දයෙන් සම්මත වී ඇති අතර එය නීතියක් බවට පත්වීම සඳහා සෙනට් සභාවේ අනුමැතිය හිමිවිය යුතු බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අදාළ පනතට අනුව "ටික්ටොක්" මව් සමාගමේ අමෙරිකානු ශාඛාව ඉවත් කර ගැනීම සඳහා මාස 6ක කාලයක් ලබාදීමට නියමිතව තිබේ.
+The Bill for the banning of the "Ticktock" banning the Bill has been passed by the United States of America.
 
-එසේ ඉවත් කරගත නොගතහොත් අමෙරිකාව තුළ "ටික්ටොක්" යෙදුම අවහිර වනු ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the relevant Bill has been passed by the majority of votes, and it should be approved by the Senate to become a law.
+
+According to the Act, Tiktock is scheduled to be given six months to remove the American branch of the American branch.
+
+Foreign media reports that the US will block the "Ticktock" app in the United States if not removed.
 
 ◼️
 
 [Data](articles/9d6765c5.json)
+
+[Extended Data](ext_articles/9d6765c5.ext.json)
 
 ---
 
@@ -79,6 +121,8 @@ The President in his latest X message said he will submit the reports to Parliam
 ...
 
 [Data](articles/645b2987.json)
+
+[Extended Data](ext_articles/645b2987.ext.json)
 
 ---
 
@@ -1440,6 +1484,24 @@ She is an alumnus of Royal College and holds a Bachelor of Science in Physics at
 
 ---
 
+### මෑත කාලයේ වැඩිම ක්ෂය රෝගීන් පසුගිය වසරේදී
+
+*2024-03-13 19:44:05* · [`adalk`](https://www.ada.lk/breaking_news/මෑත-කාලයේ-වැඩිම-ක්ෂය-රෝගීන්-පසුගිය-වසරේදී/11-408598) · `si`
+
+පසුගිය වසර තුළදී ක්ෂය රෝගීන් 9358 දෙනෙකු මෙරටින් වාර්තා වී ඇති අතර එය මෑත කාලය තුළ මෙරටින් වාර්තා වූ වැඩිම රෝගීන් සංඛ්‍යාව වන බවට සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේදී ඊයේ (13දා) පැවති මාධ්‍ය හමුවකදී අනාවරණය විය.
+
+එසේම මේ වනවිට හඳුනාගත් ක්ෂය රෝගීන්ගෙන් දිනකට දෙදෙනෙකු මිය යන බවද එහිදී අවධාරණය කෙරිණ.
+
+ඒ අනුව බස්නාහිර පළාත තුළින් වැඩිම ක්ෂය රෝගීන් සංඛ්‍යාවක් හඳුනාගෙන ඇත. එහිදී කොළඹ මහ නගර සභා සීමාව තුළින් වැඩිම රෝගීන් පිරිසක් හඳුනාගෙන ඇති බවද සඳහන්ය.
+
+මේ මස 24 වැනිදාට යෙදෙන ලෝක ක්ෂය රෝග දිනය වෙනුවෙන් මෙම මාධ්‍ය හමුව පැවති අතර ඊට එක්වෙමින් ක්ෂය රෝග මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂ, වෛද්‍ය ප්‍රමිතා ශාන්තිලතා මහත්මිය සඳහන් කර සිටියේ සියලු දිස්ත්‍රික් ළය සායන සහ රජයේ සෞඛ්‍ය ආයතනවලදී ක්ෂය රෝග සඳහා වූ පරීක්ෂණ නොමිලේ සිදු කරවා ගත හැකි බවයි.
+
+...
+
+[Data](articles/3e2a391e.json)
+
+---
+
 ### Sri Lanka failed to fulfill the promises of IMF
 
 *2024-03-13 19:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-உறுதிமொழிகளை-நிறைவேற்றத்-தவறிய-இலங்கை/175-334619) · `ta`
@@ -2149,77 +2211,5 @@ Onward legal action regarding the arrested suspect and the seized stock of canna
 [Data](articles/2c161d53.json)
 
 [Extended Data](ext_articles/2c161d53.ext.json)
-
----
-
-### Elderly Sri Lankan couple found dead near Melbourne home
-
-*2024-03-13 17:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elderly-Sri-Lankan-couple-found-dead-near-Melbourne-home/108-278785) · `en`
-
-Melbourne, March 13 (Daily Mail)- An elderly Sri Lankan couple who died together outside their home may have been overcome by Melbourne’s blistering heatwave, Daily Mail Australia reported.
-
-The bodies of Doyne Caspersz and his wife Marlene were found outside their home on Antigoni Court, Warrandyte about 9.30am on Tuesday.
-
-Daily Mail Australia has been told CCTV captured their sad demise on Sunday, when temperatures soared in Warrandyte to 38C.
-
-It remains unknown why the beloved couple decided to leave their home, which is located in a wealthy Melbourne neighbourhood.
-
-Melbourne had been within the grips of a shocking heatwave, which saw temperatures climb to 36C on Monday as the couple remained undiscovered outside their property.
-
-A detective at the scene on Tuesday told Daily Mail Australia the couple’s death had been nothing more than a tragic accident.
-
-...
-
-[Data](articles/15423d9a.json)
-
-[Extended Data](ext_articles/15423d9a.ext.json)
-
----
-
-### Ayurvedic medical students protest in Colombo
-
-*2024-03-13 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178661) · `ta`
-
-Ayurvedic medical students in Colombo protested against the Ministry of Health, demanding limited medical exercises and concessions, halting reckless doctor registration.
-
-🟩
-
-A demonstration was held in front of the Ministry of Health on Wednesday by Ayurvedic medical students.
-
-The reckless registration for Ayurvedic doctors immediately stopped and demanded that they provide limited medical exercises with concessions.
-
-◼️
-
-[Data](articles/faab233d.json)
-
-[Extended Data](ext_articles/faab233d.ext.json)
-
----
-
-### Sri Lanka rupee closes at 306.10/20 to the US dollar
-
-*2024-03-13 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-306-10-20-to-the-us-dollar-154531/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 306.10/20 to the US dollar in the spot forex market on Wednesday, slightly stronger from 306.50/60 on Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 11.30/40 percent from 11.35/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.95/12.05 percent from 11.90/12.15 percent.
-
-A bond maturing on 15.12.2028 closed at 12.15/20 percent from 12.15/25 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/50 percent from 12.30/50 percent.
-
-A bond maturing on 15.05.2030 closed at 12.20/50 percent from 12.30/55 percent.
-
-A bond maturing on 15.03.2031 closed at 12.20/45 percent from 12.30/55 percent.
-
-A bond maturing on 01.07.2032 closed stable at 12.50/80 percent. (Colombo/Mar13/2024)
-
-◼️
-
-[Data](articles/3a6cee0d.json)
-
-[Extended Data](ext_articles/3a6cee0d.ext.json)
 
 ---

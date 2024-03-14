@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 00:17:53**
+As of **2024-03-15 00:33:10**
 
 ## Newspaper Stats
 
-*Scraped **12,968** Articles*
+*Scraped **12,970** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 122
+colombotelegraphcom | 123
 bbccomsinhala | 146
 dbsjeyarajcom | 186
 newsfirstlk | 363
@@ -16,7 +16,7 @@ dailyftlk | 663
 economynextcom | 695
 islandlk | 700
 adalk | 1,118
-adaderanalk | 1,563
+adaderanalk | 1,564
 tamilmirrorlk | 1,579
 virakesarilk | 1,802
 dailymirrorlk | 1,980
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,965 (100.0%) of 12,968 articles have been extended.
+12,968 (100.0%) of 12,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### அஸ்வெசும நலன்புரித் திட்டம் இரண்டாம் கட்டம் : விண்ணப்பங்கள் எதிர்வரும் 22 ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் - நிதி அமைச்சு
+### Ashemu Welfare Program Second Stage: Applications will be accepted till the 22nd of this month - Ministry of Finance
 
 *2024-03-15 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178759) · `ta`
 
-அஸ்வெசும நலன்புரி திட்டத்தின் இரண்டாம் கட்டத்துக்கு விண்ணப்பிக்கும் காலவகாசம் எதிர்வரும் 22 ஆம் திகதி (சனிக்கிழமை) வரை நீடிக்கப்பட்டுள்ளது.இரண்டாம் கட்டத்துக்காக இதுவரையில் 130,000 விண்ணப்பங்கள் கிடைக்கப்பெற்றுள்ளதாக நிதி பொருளாதார உறுதிப்பாடு மற்றும் தேசிய கொள்கைகள் இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+The Ashemu Welfare Program's second stage deadline is extended to the 22nd. 1,227,000 complaints and 212,000 appeals were filed, with 966,000 properly received. 10,000 people were deemed unworthy of welfare payments.
 
-அஸ்வெசும நலன்புரித் திட்டத்தில் முதலாம் கட்ட பெயர் பட்டியல் வெளியானதை தொடர்ந்து கிடைக்கப்பெற்ற 1,227000 முறைப்பாடுகள் மற்றும் மேன்முறையீட்டில் 212,000 முறைப்பாடு மற்றும் மேன்முறையீடுகள் ஒரு தரப்பினரால் தொடர்ந்து தாக்கல் செய்யப்பட்டுள்ளன.
+🟩
 
-இதற்கமைய 966,000 முறைப்பாடுகள் மற்றும் மேன்முறையீடுகள் முறையாக கிடைக்கப் பெற்றுள்ளன.749,000 முறைப்பாடுகள் மற்றும் மேன்முறையீடுகள் பரிசீலனை செய்யப்பட்டுள்ளதுடன்,மேலும் 2 இலட்சமளவிலான முறைப்பாடுகள் மற்றும் மேன்முறையீடுகள் பரிசீலனை செய்யப்படவுள்ளன.
+The term of applying for the second phase of the Aswezum Welfare Program has been extended till the 22nd (Saturday).
+
+1,227,000 complaints and 212,000 complaints and appeals have been filed by one party following the release of the first phase of the name list of the Aswesum Welfare Program.
+
+Accordingly, 966,000 complaints and appeals have been properly received.
+
+Through complaints and appeals, 10,000 people have been ranked unworthy of receiving welfare payments.
+
+◼️
+
+[Data](articles/45affb9d.json)
+
+[Extended Data](ext_articles/45affb9d.ext.json)
+
+---
+
+### China gifts explosives disposal equipment to Sri Lanka
+
+*2024-03-15 00:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97967/china-gifts-explosives-disposal-equipment-to-sri-lanka) · `en`
+
+Sri Lanka’s Ministry of Defence received a stock of special Explosive Ordnance Disposal Equipment under the Chinese Military Grant scheme on Wednesday (13 March).
+
+The consignment was officially handed over at a formal ceremony held at the Army Headquarters, headed by Qi Zhenhong, the Ambassador of the People’s Republic of China in Sri Lanka and General (Retd) Kamal Gunaratne, Secretary to the Ministry of Defence.
+
+The formal signing of documents related to the grant of equipment took place between Ambassador Qi Zhenhong and Kamal Gunaratne, following the presentation of a video documentary displaying existing bonds of goodwill and understanding that prevail between militaries in both countries, the army said.
 
 ...
 
-[Data](articles/45affb9d.json)
+[Data](articles/567cabea.json)
 
 ---
 
@@ -102,6 +126,8 @@ The epicentre of the earthquake was off the coast of Fukushima prefecture, where
 
 [Data](articles/766db0f2.json)
 
+[Extended Data](ext_articles/766db0f2.ext.json)
+
 ---
 
 ### Sri Lanka refutes US claims of Chinese military base
@@ -119,6 +145,8 @@ In its annual threat assessment 2024 report this week, the US Intelligence Commu
 ...
 
 [Data](articles/d1322db3.json)
+
+[Extended Data](ext_articles/d1322db3.ext.json)
 
 ---
 
@@ -911,6 +939,18 @@ In addition, the project should be formulated to withdraw the fuel tax, and that
 [Data](articles/c81fce65.json)
 
 [Extended Data](ext_articles/c81fce65.ext.json)
+
+---
+
+### Climate Justice: Time For The Global South To Unite
+
+*2024-03-14 18:18:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/climate-justice-time-for-the-global-south-to-unite/) · `en`
+
+During my journey to Mizoram, I had a layover at New Delhi airport for approximately five hours, providing me with an opportunity to peruse the latest book authored by India’s External Affairs Minister, Honourable Jaishankar, titled “Why Bharat Matters”. This brought back memories of my visit to Delhi in 2015, when I served as the Minister of Power and Energy alongside our President, Excellency Maithripala Sirisena. During that visit, we engaged in fruitful bilateral discussions with Excellency the Prime Minister Modi, External Affairs Secretary Mr. Jaishankar, and other esteemed ministers. Reflecting on India’s economic growth from USD 2.1 trillion to USD 3.4 trillion over nine years, I realized the potential impact of a pragmatic foreign policy, as outlined in Honourable Jaishankar’s book, on this impressive growth trajectory.
+
+...
+
+[Data](articles/84efef62.json)
 
 ---
 
@@ -2227,51 +2267,5 @@ In a hospital report, there are 6 students and 3 students and their condition is
 [Data](articles/f935ca16.json)
 
 [Extended Data](ext_articles/f935ca16.ext.json)
-
----
-
-### SriLankan to fly daily to Seoul with Korean Air code share
-
-*2024-03-14 14:19:00* · [`economynextcom`](https://economynext.com/srilankan-to-fly-daily-to-seoul-with-korean-air-code-share-154633/) · `en`
-
-ECONOMYNEXT – State-run SriLankan Airlines said it will increase its twice weekly flights from Colombo to Seoul to seven days a week with a code share agreement with Korean Air, with a connection in Singapore.
-
-“The passenger traffic between the two cities continues to exceed our expectations,” Richard Nuttall, Chief Executive Officer of SriLankan Airlines said in a statement.
-
-The partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air.
-
-Korean Air will codeshare on flights operated by SriLankan Airlines between Colombo and Seoul Incheon; Singapore; Chennai in India; and Male in the Maldives.
-
-The collaboration will allow SriLankan Airlines to access Korean Air’s far eastern network, and Korean Air will gain access to SriLankan Airlines’ network in the Indian subcontinent, according to the statement. (Colombo/March/2024)
-
-◼️
-
-[Data](articles/a21cce18.json)
-
-[Extended Data](ext_articles/a21cce18.ext.json)
-
----
-
-### Modern technological multi-day vessel
-
-*2024-03-14 14:07:38* · [`adalk`](https://www.ada.lk/breaking_news/නවීන-තාක්ෂණයෙන්-යුත්-බහුදින-යාත්‍රාවක්/11-408612) · `si`
-
-The fisheries industry is introducing a modern vessel with advanced technology. Minister Piyal Nishantha de Silva announced this at a press conference. The vessel aims to improve fish production quality and alleviate income impacts from rising fuel and equipment prices. A committee is working on a new operating methodology for the industry. The World Food Organization has initiated pilot projects, including a new OFRP vessel. The Ministry has discussed introducing mechanical and solar boats, and a veil monitoring system has been installed on multi-day fishing vessels. Predictive fish plot analysis is being developed using vessel surveillance data. The Fisheries Act is being updated, focusing on time changes and broader program solutions. The Fisheries Department has discussed the lorenso son 4 vessel, subject to Seychelles's laws. President Ranil Wickremesinghe has urged the Ministry of External Affairs to take legal action against Seychelles to bring fishermen to Sri Lanka.
-
-🟩
-
-Fisheries Minister Piyal Nishantha de Silva said that the fisheries vessel vessel vessel with modern technology and modern operating system is scheduled to be introduced to the fisheries industry.
-
-President Ranil Wickremesinghe has informed the Ministry of External Affairs to take action to bring fishermen in the vessel very soon as soon as the fishermen were in the vessel.
-
-State Minister of Fisheries Piyal Nishantha de Silva made this statement participating at a press conference held yesterday (13) at the Presidential Media Center yesterday.
-
-Steps have been taken to protect the quality of fish production for the development of fisheries industry. Fuel prices and fishing equipment prices have made affect the income of the fishing. But it should be said that steps are being taken to alleviate the situation.
-
-...
-
-[Data](articles/3491b5ad.json)
-
-[Extended Data](ext_articles/3491b5ad.ext.json)
 
 ---

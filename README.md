@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 22:17:53**
+As of **2024-03-14 22:34:10**
 
 ## Newspaper Stats
 
-*Scraped **12,957** Articles*
+*Scraped **12,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ dailyftlk | 663
 economynextcom | 695
 islandlk | 700
 adalk | 1,118
-adaderanalk | 1,561
+adaderanalk | 1,562
 tamilmirrorlk | 1,578
 virakesarilk | 1,798
-dailymirrorlk | 1,977
-adaderanasinhalalk | 2,050
+dailymirrorlk | 1,978
+adaderanasinhalalk | 2,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,956 (100.0%) of 12,957 articles have been extended.
+12,957 (100.0%) of 12,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Police open fire on tipper truck for failing to stop at checkpoint
+
+*2024-03-14 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97965/police-open-fire-on-tipper-truck-for-failing-to-stop-at-checkpoint-) · `en`
+
+The Mullaitivu Police arrested the driver of a tipper truck on Thursday evening (14 March), after he failed to comply with a signal to stop at a police checkpoint in the Oddusuddan area.
+
+Oddusuddan Police reported that both police officers and personnel from the Special Task Force (STF) had halted the tipper truck by shooting at its wheels, alleging that the suspect driver had also endangered the safety of police personnel during the incident.
+
+Accordingly, the suspect is due to be produced before the Mullaitivu Magistrate’s Court.
+
+◼️
+
+[Data](articles/7af6ee55.json)
+
+---
+
+### ජපානයේ ප්‍රබල භූ කම්පනයක්
+
+*2024-03-14 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194523) · `si`
+
+ජපානයේ ෆුකුෂිමා හිදී රික්ටර් මාපකයේ 5.8ක ප්‍රබලත්වයෙන් යුතු භූ කම්පනයක් සිදුවී තිබේ.
+
+ජපාන කාලගුණ විද්‍යා ඒජන්සිය පවසන පරිදි භූ කම්පනය සිදුවී ඇත්තේ ෆුකුෂිමා ප්‍රාන්තයේ වෙරළට ඔබ්බෙන් කිලෝමීටර් 50ක් අභ්‍යන්තරයෙනි.
+
+සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර නොමැති බවද එම ඒජන්සිය පවසයි.
+
+◼️
+
+[Data](articles/e8006a71.json)
+
+---
+
+### Sri Lanka look to bounce back in second ODI
+
+*2024-03-14 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-look-to-bounce-back-in-second-ODI/108-278867) · `en`
+
+Mar. 14 - Bangladesh and Sri Lanka will clash in the second One Day International (ODI) at the Zahur Ahmed Chowdhury Stadium in Chattogram, tomorrow.
+
+The visitors would aim to square the series 1-1 after losing the opener by six wickets on Wednesday at the same venue.
+
+Bangladesh chased down their target of 256 runs successfully in the first ODI with Skipper Najmul Shanto and Mushfiqur Rahim getting them home.
+
+It remains to be seen if the series goes into the decider as Sri Lanka will be determined to bounce back.
+
+Defending a subpar target of 256, Sri Lanka did well to reduce Bangladesh to 23 for three but then a pair of partnerships - first between Shanto and Mahmudullah and then Shanto and Mushfiqur - took the game away from the visitors.
+
+They were assisted by the fact that their bowlers had earlier done extremely well to reel the Lankans in after a fast start and eventually bowl them out inside 49 overs.
+
+...
+
+[Data](articles/cf6424fb.json)
+
+---
 
 ### Magnitude 5.8 earthquake hits Japan’s Fukushima
 
@@ -43,6 +97,8 @@ The epicentre of the earthquake was off the coast of Fukushima prefecture, where
 ◼️
 
 [Data](articles/2668b8bc.json)
+
+[Extended Data](ext_articles/2668b8bc.ext.json)
 
 ---
 
@@ -2225,77 +2281,5 @@ He further noted that deadline to submit the relevant proposal will be on 09 May
 [Data](articles/ec4a2664.json)
 
 [Extended Data](ext_articles/ec4a2664.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-14 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178706) · `ta`
-
-Today's US dollar to Rs. exchange rate is not provided.
-
-🟩
-
-The US dollar purchasing price was Rs.
-
-◼️
-
-[Data](articles/f6efc149.json)
-
-[Extended Data](ext_articles/f6efc149.ext.json)
-
----
-
-### Thieves a house of a judge
-
-*2024-03-14 13:23:36* · [`adalk`](https://www.ada.lk/breaking_news/විනිසුරුවරයෙකුගේ-නිවසකටත්-හොරු-පනී/11-408609) · `si`
-
-A 19-year-old from Rasikwatta, Narahenpita, allegedly stole a stock of revenues, including from a Civil Appeal High Court, using a bicycle and a three-wheeler. The suspect, addicted to ice, fled but was arrested after hiding in a house.
-
-🟩
-
-Kirulapana Police say that a person who stole a person who stole a stock of revenues including a Civil Appeal High Court.
-
-The suspect is a 19 year old resident of Rasikwatta, Narahenpita.
-
-With the help of a three storied building that is being built adjacent to the judge's house, a racing bicyclist in the judge, and two hundred rucks worth Rs.
-
-The police had lodged a complaint with the incident in connection with the incident in search of two shirts in the office room when the storm was used for the exercise of the bicycle.
-
-Accordingly, when a person who stole the robbery motorcycle, the motorcycle was driven by a person who was at the wheel near the wheel near the wheel.
-
-According to the police, the police had received the stores' photo while he had gone to the shop and contacted the owner, and the suspect had fled the three-wheeler from the spot.
-
-...
-
-[Data](articles/c06dfc28.json)
-
-[Extended Data](ext_articles/c06dfc28.ext.json)
-
----
-
-### 13 in Sevanagala Sugar Factory suspended
-
-*2024-03-14 13:23:00* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-සීනි-කම්හලේ-13කගේ-වැඩ-තහනම්/11-408608) · `si`
-
-Sevanagala Sugar Factory: 13 employees, including the Chairman, suspended after a dispute over bonuses. The Chairman was rescued by police, and the culprit, a political appointee, was identified by CCTV. A formal investigation will determine the fate of the employees.
-
-🟩
-
-Seventh Sugar Chairman and a group of employees of the Sevanagala Sugar Industry and a group of executive officers had to work out on the occasion.
-
-The employees have been speaking to increase the bonus given to the year, while the Chairman arrived at Sevanagala Sugar Industries and had been launched into four hours in the room.
-
-The police intervened and rescued the Chairman and the group.They have been identified and prohibited by CCTV cameras.
-
-It is revealed that a person who was appointed to a political appointment of Lanka Sugar Company has taken the height of employees and has done this action.
-
-The Chairman added that the right employees will be re-employed after a formal investigation
-
-◼️
-
-[Data](articles/8afa31c2.json)
-
-[Extended Data](ext_articles/8afa31c2.ext.json)
 
 ---

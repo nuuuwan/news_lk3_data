@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 23:33:57**
+As of **2024-03-14 23:52:27**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,962 (100.0%) of 12,963 articles have been extended.
+12,963 (100.0%) of 12,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### வெடுக்குநாறிமலை விவகாரம் : பாராளுமன்ற அமர்வு புறக்கணிப்பு தொடர்பாக கலந்துரையாடியதன் பின்னரே தீர்மானம் - தமிழ் பாராளுமன்ற உறுப்பினர்கள்
+### Resolution after discussing the boycott of the parliamentary session - Tamil MPs
 
 *2024-03-14 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178758) · `ta`
 
-வெடுக்குநாறிமலை விவகாரம் உள்ளடங்கலாக தமிழ்மக்களுக்கு எதிராக அரசாங்கத்தினால் பிரயோகிக்கப்படும் இன, மத, கலாசார ரீதியிலான ஒடுக்குமுறைகளைக் கண்டித்து தமிழ் எம்.பிக்கள் பாராளுமன்ற அமர்வைப் புறக்கணிக்கவேண்டுமென முன்வைக்கப்பட்டிருக்கும் கோரிக்கை தொடர்பில் கலந்துரையாடியதன் பின்னரேயே ஒருமித்த தீர்மானமொன்றை மேற்கொள்ளமுடியுமென தமிழ் பாராளுமன்ற உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+Tamil MPs discuss boycott of parliamentary session, demanding government accountability for oppression, including Vidunarimalai issue. Police arrest eight, including temple, for disrupting pilgrims' worship. Civil society protests lead to boycott call. President Wickremesinghe agrees to set up a special committee to investigate. TNA leader CV Vigneswaran invites MPs to a meeting on Saturday. TNA President MA Sumanthiran, in Colombo, expresses readiness to respond to legal issues but awaits a resolution on boycott. TNA parliamentarian S. Gajendran and Dharmalingam Siddharthan also express willingness to participate in the meeting after discussing the boycott.
 
-வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த வெள்ளிக்கிழமை சிவராத்திரி தினத்தன்று பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக 8 பேர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+🟩
+
+The Tamil MPs have said that the Tamil MPs will be able to make a consensus only after discussing the demands of the Tamil MPs to boycott the parliamentary session, condemning the ethnic, religious and cultural oppression used by the government, including the Vidunarimalai issue.
+
+The police were disrupted by the pilgrims who were engaged in pooja on Friday at the Adilingeswarar Temple in Vettu Nirimalai in Vavuniya district and forgotten to continue the worship at night.. Eight people were arrested by the police, including the temple.
+
+During the protests carried out by civil society representatives last Monday, the Tamil MPs were urged to boycott the parliamentary session.. President Ranil Wickremesinghe has agreed to the request made by Minister Douglas Devananda to set up a special committee and investigate the matter.
 
 ...
 
 [Data](articles/3992518e.json)
+
+[Extended Data](ext_articles/3992518e.ext.json)
 
 ---
 

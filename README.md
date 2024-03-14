@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 09:33:23**
+As of **2024-03-14 09:52:05**
 
 ## Newspaper Stats
 
-*Scraped **12,776** Articles*
+*Scraped **12,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,87 @@ islandlk | 699
 adalk | 1,091
 adaderanalk | 1,537
 tamilmirrorlk | 1,557
-virakesarilk | 1,767
-dailymirrorlk | 1,951
-adaderanasinhalalk | 2,017
+virakesarilk | 1,768
+dailymirrorlk | 1,952
+adaderanasinhalalk | 2,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,775 (100.0%) of 12,776 articles have been extended.
+12,776 (100.0%) of 12,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### சனிட்டரி நப்கின்கள் உள்ளிட்ட மாதவிடாய்கால உபயோகப்பொருட்களுக்கான வரிகளை முற்றாக நீக்குங்கள் - அரசாங்கத்தை வலியுறுத்துகிறது இலங்கை குடும்பத்திட்ட சங்கம்
+### குளவி தாக்குதலுக்குள்ளான குடும்பஸ்தர் வைத்தியசாலையில் அனுமதி
+
+*2024-03-14 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178678) · `ta`
+
+புதுக்குடியிருப்பில் நேற்று புதன்கிழமை (13) குடும்பஸ்தர் ஒருவர் குளவித் தாக்குதலுக்கு இலக்கான நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+
+முல்லைத்தீவு புதுக்குடியிருப்பு கைவேலி பகுதியிலுள்ள குடும்பஸ்தர் ஒருவருக்கு நேற்று மாலை 30 ற்கும் மேற்பட்ட குளவிகள் தாக்கிய நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் அப்பகுதியிலிருந்து காற்றில் கலைந்த குளவி வீட்டிலிருந்த செல்லையா பரமலிங்கம் 62 வயதுடைய குடும்பஸ்தர் மீது கொட்டியுள்ளது.
+
+இதையடுத்து அவரை உடனடியாக புதுக்குடியிருப்பு பிரதேச  வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு மாற்றப்பட்டு சிகிச்சை பெற்று வருவதாக வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/f021548b.json)
+
+---
+
+### ටික්ටොක් ගැන අමෙරිකාවෙන් තීරණයක්
+
+*2024-03-14 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194489) · `si`
+
+"ටික්ටොක්" සමාජ මාධ්‍ය තහනම් කිරීම සඳහා වන පනත් කෙටුම්පත අමෙරිකා එක්සත් නියෝජිත මන්ත්‍රී මණ්ඩලය විසින් සම්මත කර තිබේ.
+
+අදාළ පනත් කෙටුම්පත බහුතර ඡන්දයෙන් සම්මත වී ඇති අතර එය නීතියක් බවට පත්වීම සඳහා සෙනට් සභාවේ අනුමැතිය හිමිවිය යුතු බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අදාළ පනතට අනුව "ටික්ටොක්" මව් සමාගමේ අමෙරිකානු ශාඛාව ඉවත් කර ගැනීම සඳහා මාස 6ක කාලයක් ලබාදීමට නියමිතව තිබේ.
+
+එසේ ඉවත් කරගත නොගතහොත් අමෙරිකාව තුළ "ටික්ටොක්" යෙදුම අවහිර වනු ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/9d6765c5.json)
+
+---
+
+### IMF technical assistance reports will be submitted  to Parliament: President
+
+*2024-03-14 09:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-technical-assistance-reports-will-be-submitted-to-Parliament-President/108-278821) · `en`
+
+Colombo, March 14 (Daily Mirror) - President Ranil Wickremesinghe yesterday said that he will submit the IMF technical assistance reports to Parliament soon.
+
+The President in his latest X message said he will submit the reports to Parliament following a request by TNA MP M.A. Sumanthiran during talks on Tuesday. The President met TNA MPs on Tuesday to dicuss the IMF assistance programme.
+
+"MP Sumanthiran voiced a key concern regarding the availability of the IMF technical assistance reports. I committed to releasing these reports to the TNA and Parliament. We discussed further how our government remains dedicated to following a structured roadmap for economic stability," the President said.
+
+...
+
+[Data](articles/645b2987.json)
+
+---
+
+### Eliminate taxes for menstrual use, including Saturni Nabkins - Emphasizing the Government
 
 *2024-03-14 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178676) · `ta`
 
-நாடளாவிய ரீதியிலுள்ள பெண்களின் உடல் மற்றும் உளவியல் சுகாதாரத்தில் 'மாதவிடாய் வறுமை' நிலை மிகமோசமான தாக்கத்தை ஏற்படுத்துவதாக சுட்டிக்காட்டியிருக்கும் இலங்கை குடும்பத்திட்ட சங்கம், சனிட்டரி நப்கின்கள் உள்ளடங்கலாக மாதவிடாய்கால உபயோகப்பொருட்கள் அனைத்துக்குமான வரிகளை முற்றாக நீக்கவேண்டுமென அரசாங்கத்தை வலியுறுத்தியுள்ளது.
+The Sri Lanka Family Association calls for the government to eliminate taxes on menstrual products, including Saturni Nabkins, to address 'menstrual poverty' impacting women's health. This issue was discussed at an International Women's Day event, aiming to pressure the government to restructure taxes on menstrual materials. Internationally, 'Period Poverty' highlights the inability of women to afford essential menstrual products, affecting over half of Sri Lanka's population. The association argues that taxing menstrual products, especially for large-income families, negatively impacts women's hygiene and social inclusion. The recent Value Service Amendment has increased the tax on Saturni Nabkins, raising prices by 92%. MP Harsha de Silva supports eliminating these taxes, suggesting they raise minimal income and proposing free distribution to school children.
 
-சர்வதேச மகளிர் தினத்தை முன்னிட்டு இலங்கை குடும்பத்திட்ட சங்கத்தினால் கடந்த வாரம் 'Axe the Period Tax' எனும் தலைப்பிலான கலந்துரையாடல் நிகழ்வொன்று கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது. நாடளாவிய ரீதியிலுள்ள பெண்களின் மாதவிடாய்கால சுகாதார நலனை உறுதிப்படுத்தும் வகையில் சனிட்டரி நப்கின்கள் உள்ளடங்கலாக மாதவிடாய்கால உபயோகப்பொருட்களுக்குரிய அனைத்து வரிகளையும் நீக்குவதற்கான கொள்கை மறுசீரமைப்பை மேற்கொள்ளுமாறு அரசாங்கத்துக்கு அழுத்தம் வழங்குவதே இக்கலந்துரையாடலின் பிரதான நோக்கமாகக் காணப்பட்டது.
+🟩
+
+The Sri Lanka Family Association, which has pointed out that 'menstrual poverty' is the most impact on the physical and psychological health of women nationwide, has urged the government to completely eliminate taxes on menstrual use, including Saturni Nabkins.
+
+A discussion was held last week at the Bandaranaike Memorial International Conference Hall in Colombo on the International Women's Day. The main objective of the investigation was to put pressure on the government to restructure the policy reorganization of all taxes on menstrual material, including Saturni Nabkins, to ensure the menstrual health of women nationwide.
 
 ...
 
 [Data](articles/b35f39a6.json)
+
+[Extended Data](ext_articles/b35f39a6.ext.json)
 
 ---
 
@@ -2165,77 +2221,5 @@ A bond maturing on 01.07.2032 closed stable at 12.50/80 percent. (Colombo/Mar13/
 [Data](articles/3a6cee0d.json)
 
 [Extended Data](ext_articles/3a6cee0d.ext.json)
-
----
-
-### Russia is ready for nuclear war - Putin warns
-
-*2024-03-13 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194467) · `si`
-
-Russian President Putin warns of readiness for nuclear war, stating that a US military presence in Ukraine could escalate tensions, but he vows not to initiate a nuclear conflict.
-
-🟩
-
-Russian President Vladimire Putin warns Russia that Russia is ready for nuclear war.
-
-He said that if the US sent the army to Ukraine, he could increase the war significantly.
-
-Putin said he would not expedite the atmosphere of a nuclear war and that he would not see a nuclear weapons for conflicts in Ukraine.
-
-He was speaking to the Russian election between March 15-17.
-
-He said that if the US sent the army to Ukraine, he believes as a handful of work in Russia.
-
-◼️
-
-[Data](articles/64965c58.json)
-
-[Extended Data](ext_articles/64965c58.ext.json)
-
----
-
-### Hunger
-
-*2024-03-13 17:03:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறிமலையில்-கைதானோர்-உண்ணாவிரதம்/72-334617) · `ta`
-
-During Shivaratri rituals in Vedukkunniimalai, eight individuals, including the temple priest, were arrested and jailed. They began a hunger strike, refusing food, especially when taken to court.
-
-🟩
-
-Those arrested and jailed during the Shivaratri rituals in Vedukkunniimalai have jumped into a hunger strike.
-
-The Vavuniya Justice on Tuesday (12) issued an order on Tuesday (12) that eight persons, including the temple pussy, who were arrested on the occasion of Shivaratri on the last Shivaratri day at the Vettu Nirimalai Temple in Vavuniya.
-
-Subsequently, they were detained at the Vavuniya Explanation Prison on Tuesday evening.
-
-They have not taken food, especially when they are taken to court. In this case, they refused to eat food on Wednesday.
-
-In the eight people arrested, the temple was launched by the temple, T.Madimukarasa, T.Thilchelvan, D. Kindiyan, S. Thavapalasingham and Vinayagamoorthy.
-
-◼️
-
-[Data](articles/b70ecbb7.json)
-
-[Extended Data](ext_articles/b70ecbb7.ext.json)
-
----
-
-### Sri Lanka failed 16 IMF agreements, latest deal must be honoured: minister
-
-*2024-03-13 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-violated-16-imf-agreements-latest-deal-must-be-honoured-minister-154526/) · `en`
-
-ECONOMYNEXT — Sri Lanka violated all 16 of its past agreements with the International Monetary Fund (IMF) and if the current agreement is also not honoured, the situation could get macabre, according to Transport Minister Bandula Gunawardena.
-
-“The previous 16 agreements with the IMF were all violated. It was after violating the agreements that the country went bankrupt. If we violate the agreement again even after bankruptcy, the country will not last. Besides killing each other, there will be no alternative,” Gunawardena said speaking to reporters.
-
-“So no matter how much we don’t like it, the government of Sri Lanka must take the country on the path of debt restructuring and in accordance with the IMF pact,” he said.
-
-Opposition parties in Sri Lanka this week boycotted a meeting called by President Ranil Wickremesinghe to discuss the IMF programme ahead of its second review by the international lender.
-
-...
-
-[Data](articles/91d5bc2a.json)
-
-[Extended Data](ext_articles/91d5bc2a.ext.json)
 
 ---

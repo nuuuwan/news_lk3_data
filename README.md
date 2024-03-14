@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 06:53:25**
+As of **2024-03-14 07:16:15**
 
 ## Newspaper Stats
 
-*Scraped **12,751** Articles*
+*Scraped **12,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,089
 adaderanalk | 1,534
 tamilmirrorlk | 1,553
 virakesarilk | 1,766
-dailymirrorlk | 1,944
+dailymirrorlk | 1,948
 adaderanasinhalalk | 2,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,742 (99.9%) of 12,751 articles have been extended.
+12,748 (99.9%) of 12,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Canada to strengthen mental health safeguards
+
+*2024-03-14 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Canada-to-strengthen-mental-health-safeguards/108-278819) · `en`
+
+Colombo, March 14 (Daily Mirror) - In the wake of a Sri Lankan family killed in Canada and a 19-year-old Sri Lankan national being charged for it, the Canadian authorities will put more attention to safeguards already in place on the mental health of students, according to a diplomatic source.
+
+Febrio De-Zoysa, who is believed to be in Canada as a student, was charged with six counts of first-degree murder and one count of attempted murder, Ottawa police said in a post on X. Six Sri Lankans were stabbed to death in the home they lived in together, including a 2 1/2-month-old girl and three other young children.
+
+The incident has triggered fears in the minds of Sri Lankans whether Canada will toughen visa regulations for them in the future following this incident. A diplomatic source, however, confirmed that Canada would not do so because this was just a one-off incident.
+
+...
+
+[Data](articles/9a1375f9.json)
+
+---
 
 ### Finest Dentistry on Wheels...
 
@@ -41,6 +57,8 @@ A noteworthy achievement in dental care in Sri Lanka was revealed with the lates
 ◼️
 
 [Data](articles/d4704893.json)
+
+[Extended Data](ext_articles/d4704893.ext.json)
 
 ---
 
@@ -57,6 +75,8 @@ The petitioners noted that the President and the Constitutional Council have fai
 ...
 
 [Data](articles/09b89a61.json)
+
+[Extended Data](ext_articles/09b89a61.ext.json)
 
 ---
 
@@ -186,19 +206,45 @@ This will be the ideal event to source new products, networking with new contact
 
 ---
 
-### இன்று பனிமூட்டமான நிலைமை
+### Loan defaulters push for extended parate suspension
+
+*2024-03-14 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Loan-defaulters-push-for-extended-parate-suspension/108-278814) · `en`
+
+Sri Lanka United National Businesses Alliance says 10-month suspension is not enough
+
+Calls on govt. to step up efforts in creating an environment to get maximum benefit during concessionary period
+
+The loan defaulters, who were recently successful in putting the parate rights on hold, yesterday made a fresh appeal to the authorities, urging them to extend the suspension for three years.
+
+While thanking the authorities for suspending the parate rights of banks until December 15 of this year, the Sri Lanka United National Businesses Alliance (SLUNBA) requested the government to extend the suspension further, so that they have some breathing space to recover the losses incurred thus far.
+
+Addressing a press conference yesterday, SLUNBA Chairperson Tania Abeysundara said that suspending the parate rights for 10 months is only a temporary concession and it is not enough.
+
+...
+
+[Data](articles/0df51385.json)
+
+---
+
+### Today's snowy situation
 
 *2024-03-14 03:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பனிமூட்டமான-நிலைமை/175-334637) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களில் இன்று மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Expected rain/thunderstorms in Western, Sabaragamuwa, and Southern Provinces tonight. Snowy mornings in Sabaragamuwa, Central, Uva Provinces, Galle, and Matara districts. Hot climate expected elsewhere.
 
-எவ்வாறாயினும், நாட்டின் ஏனைய பகுதிகளில் வெப்பமான காலநிலையை எதிர்பார்க்க முடியும் என அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-அத்துடன், சபரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் பனிமூட்டமான நிலைமை காணப்படும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (a)
+The Department of Meteorology has said that rain or thunderstorms are expected in the Western, Sabaragamuwa and Southern Provinces this evening or night.
+
+However, the department said it could expect a hot climate in other parts of the country.
+
+The Department of Meteorology has announced that there will be a snowy situation in the morning in the mornings in the Sabaragamuwa, Central and Uva Provinces and Galle and Matara districts.. (A)
 
 ◼️
 
 [Data](articles/a30e8f76.json)
+
+[Extended Data](ext_articles/a30e8f76.ext.json)
 
 ---
 
@@ -248,6 +294,24 @@ A new IPS study highlights Sri Lanka’s opportunity to become part of the EV ba
 
 ---
 
+### Sri Lanka grappling with severe clove production decline
+
+*2024-03-14 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-grappling-with-severe-clove-production-decline/108-278811) · `en`
+
+Sri Lanka is currently experiencing a severe decline in clove production, Mirror Business learns.
+
+The experts attribute the downfall to the heavy rainfall towards the end of August last year, causing premature shedding of the clove buds. Consequently, the seasonal cultivation cycle, which was anticipated to commence between December and January, has been adversely affected.
+
+Speaking to Mirror Business, Export Agriculture Industries Director General A.P.P. Disna shared that the country is projected to achieve only 20 percent of its annual clove production, with the export quantities likely to plummet to below 1000 tonnes.
+
+“Cloves exhibit a cyclic pattern of abundant yields every three years. In a favourable season, we can export between 4000 and 6000 tonnes of cloves. Last year, we had good production. But this year, the overall production is roughly forecasted to be just 600-700 tonnes,” Disna revealed.
+
+...
+
+[Data](articles/28478d27.json)
+
+---
+
 ### Sri Lanka leaders should get best political economy practices from top economies in the world
 
 *2024-03-14 01:21:41* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-leaders-should-get-best-political-economy-practices-from-top-economies-in-the-world/4-759444) · `en`
@@ -259,6 +323,26 @@ Sri Lanka needs to be a modern nation that still preserves its Sri Lankan cultur
 [Data](articles/6f20b0a4.json)
 
 [Extended Data](ext_articles/6f20b0a4.ext.json)
+
+---
+
+### Consumer confidence marks slight improvement in February
+
+*2024-03-14 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Consumer-confidence-marks-slight-improvement-in-February/108-278813) · `en`
+
+The consumer confidence in Sri Lanka saw a slight improvement in February.
+
+According to the Institute for Health Policy (IHP), this is driven by a recovery of the public expectations of the country’s situation in the next 12 months, coupled with the recovery of the buying conditions.
+
+In February, all three of the IHP’s Consumer Confidence indices, which are generated from its Sri Lanka Opinion Tracker Survey (SLOTS), improved.
+
+The Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and national economy, gained six points to 22 points. The Index of Consumer Expectations (ICE), which tracks future perceptions, increased seven points to 28 points. The Index of Current Conditions (ICC), a measure of perceptions of the current conditions, also increased four points to 13 points.
+
+Despite the improvement, the IHP noted that the consumer confidence remains at net pessimistic levels.
+
+...
+
+[Data](articles/c05ec360.json)
 
 ---
 
@@ -492,19 +576,27 @@ They are pictured in the respective months they celebrate their birthdays.
 
 ---
 
-### சிங்கள பௌத்தவாதத்தை மீண்டும் புதுப்பிக்க கோட்டா முயற்சி ; புத்தகம் எழுதுவது பயனற்றது - ஓமல்பே சோபித தேரர்
+### Kota attempts to renew Sinhala Buddhism;Writing the book is useless - Omalpe Sobhitha Thera
 
 *2024-03-13 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178635) · `ta`
 
-நாட்டை வங்குரோத்து நிலைக்கு தள்ளிய கோட்டாபய ராஜபக்ஷ சிங்கள பௌத்த கொள்கைகளை மீண்டும் தீவிரப்படுத்த முயற்சிக்கிறார். புத்தகம் எழுதுவது பயனற்றது. நாட்டு மக்கள் மிக தெளிவாக உள்ளார்கள் என்பதையும்,உயிரச்சுறுத்தல் ஏற்பட்ட போது நாட்டை விட்டு வெளியேறுவதற்கான வசதிகளை ஏற்படுத்திக் கொடுக்க நான் முன்னிலையாகியதையும் கோட்டாபய ராஜபக்ஷ மறந்து விட கூடாது என தேசிய பேரவை அமைப்பின் தலைவர் ஓமல்பே சோபித தேரர் தெரிவித்தார்.
+Omalpe Sobhitha Thera criticizes Gotabhaya Rajapakse's Sinhala Buddhist policies and his handling of the 2020 economic crisis, stating that writing a book is futile. Thera highlights the people's clear stance against Rajapakse and his administration, emphasizing the need for Rajapakse to acknowledge the economic crisis's impact.
 
-எம்பிலிப்பிட்டியவில் திங்கட்கிழமை (11) மாலை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கோட்டாபய ராஜபக்ஷ வெளியிட்டுள்ள  புத்தகத்தில் அவரது சிங்கள பௌத்த இருப்பை இல்லாதொழிக்க நான் முன்னிலையில் இருந்து செயற்பட்டுள்ளதாக குறிப்பிடப்பட்டுள்ளது.கோட்டாபய ராஜபக்ஷவின் தவறான தீர்மானங்கள் மற்றும் செயற்பாடுகள் என்பனவற்றால் தான் அவரது சிங்கள பௌத்த உறுதிப்பாடு இல்லாமல் போனது.
+Gotabhaya Rajapakse, who has put the country into a bankruptcy, is trying to intensify Sinhala Buddhist policies. Writing the book is useless. National Council Chairman Omalpe Sobhitha Thera said that Gotabhaya Rajapakse should not forget that the people are very clear and that I am presenting the facilities to leave the country in the event of a life -threatening.
+
+He made this statement during a media briefing held at Embilipitiya on Monday evening.
+
+In the book published by Gotabhaya Rajapaksa, I am noted that I have acted from his presence to eliminate his Sinhala Buddhist existence.
+
+In 2020, the economic crisis should be held responsible for the Sri Lanka PA. The people affected by the economic crisis took to the streets to protest the government.
 
 ...
 
 [Data](articles/e631fcfb.json)
+
+[Extended Data](ext_articles/e631fcfb.ext.json)
 
 ---
 
@@ -1167,6 +1259,8 @@ Gotabaya Rajapaksa released a statement on March 6th that his book will be launc
 ...
 
 [Data](articles/a6667b87.json)
+
+[Extended Data](ext_articles/a6667b87.ext.json)
 
 ---
 
@@ -2175,103 +2269,5 @@ The State Minister of Education A. Aravindh Kumar mentioned during the meeting t
 [Data](articles/bab97670.json)
 
 [Extended Data](ext_articles/bab97670.ext.json)
-
----
-
-### "Cheer River Park", which will be handed over to the people today
-
-*2024-03-13 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178629) · `ta`
-
-"Cherin River Park in Holugoda, a 14-acre project by the Urban Development Authority, opens today. It features a lake, solar-powered systems, and plans for agricultural sales. Future boat services will boost tourism, and it aims to mitigate flooding in the area. Dr. Ramesh Pathirana will attend."
-
-🟩
-
-The Galle, Holuvagoda "Cherin River Park" Environmental Park will be handed over to the public at 5.00 pm today (13) at 5.00 pm.
-
-Cherin River Park has constructed in Holugoda, far from Galle City. The park, which began in 2021, is a barren land of 14 acres.
-
-Plans have been prepared by the Urban Development Authority under the Ministry of Urban Development and Housing.
-
-The Holuvagoda Serin River Park Lake, sidewalks, tunnels, children's parks, shop blocks, environmental systems and operates with solar power.
-
-It also implements a plan to sell agricultural crops and other goods to the people.
-
-In the future, the boat service will be held from the park to Wakwella, Vattareka and Galle, giving priority to the tourism industry.
-
-In addition, the park has to control the flood situation faced by the people of Holugoda and Obadha area for decades.
-
-Minister of Health and Industry Dr. Ramesh Pathirana will also attend the event.
-
-◼️
-
-[Data](articles/bb9605bb.json)
-
-[Extended Data](ext_articles/bb9605bb.ext.json)
-
----
-
-### Two women arrested for abusing their father
-
-*2024-03-13 15:09:37* · [`adalk`](https://www.ada.lk/breaking_news/තම-පියා-අතවර-කළ-බවට-බොරු-පැමිණිලි-කළ-කතුන්-දෙදෙනෙකු-අත්අඩංගුවට/11-408589) · `si`
-
-Two women in Panadura arrested for abusing their father. Cousin arrested them, and police investigated further on orders from the Panadura Chief Magistrate.
-
-🟩
-
-The Panadura South Police say her cousin was arrested by her father and her relatives who had complained to a relative of a cousin.
-
-Police have arrested two and 22-year-old women in Panadura and 22Police said.
-
-Accordingly, 14 days after the suspect was arrested and submitted to the Panadura Magistrate's Court.. The police investigated further investigations have been identified as the police investigated further investigations on orders from the Panadura Chief Magistrate.
-
-According to a woman officer who had stated that he had not had to do such annoyance, she was investigating that she had not suffered such annoyance in the long interrogation.
-
-The two suspects were arrested in connection with the police station. The suspects were to be produced before the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/999237cf.json)
-
-[Extended Data](ext_articles/999237cf.ext.json)
-
----
-
-### Canadian High Commissioner meets Anura Dissanayake
-
-*2024-03-13 15:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Canadian-High-Commissioner-meets-Anura-Dissanayake/108-278779) · `en`
-
-Colombo, March 13 (Daily Mirror)- Canadian High Commissioner Eric Walsh met National People's Power (NPP) leader Anura Kumara Dissanayake at the JVP Headquaters today where they discussed the economic and politcal situation in Sri Lanka.
-
-Second Secretary (Political) Patrick Pickering and NPP MP Vijitha Herath also joined the meeting.
-
-The dicussion focused on matters related to the current social, economic and political situation in Sri Lanka.
-
-They also discussed the NPP's plans towards upholding national harmony.
-
-The Canadian High Commissioner congratulated Dissanayake on his upcoming visit to Canada to meet the Sri Lankan community there.
-
-◼️
-
-[Data](articles/965cefaf.json)
-
-[Extended Data](ext_articles/965cefaf.ext.json)
-
----
-
-### Sri Lanka’s CPA files petition in apex court against police chief’s appointment
-
-*2024-03-13 15:01:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpa-files-petition-in-apex-court-against-police-chiefs-appointment-154521/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s Centre for Policy Alternatives (CPA) has filed a petition in the Supreme Court challenging the constitutionality of the appointment of Deshabandu Thennakoon as Inspector General of Police (IGP).
-
-The petition was filed by  CPA Executive Director Paikiasothy Saravanamuttu against the presidential appointment of Tennakoon, CPA said in a statement.
-
-“Article 41C of the 1978 Constitution of Sri Lanka provides that such an appointment by the President cannot occur without approval from the Constitutional Council of Sri Lanka. According to Article 41E, that approval should have at least five votes in favour. The Leader of the Opposition, who is a member of the Council, has alleged that the Council did not approve the appointment of the IGP with the minimum five votes,” the organisation said.
-
-...
-
-[Data](articles/b22313f0.json)
-
-[Extended Data](ext_articles/b22313f0.ext.json)
 
 ---

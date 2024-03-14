@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 01:02:59**
+As of **2024-03-15 01:18:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,970 (100.0%) of 12,971 articles have been extended.
+12,971 (100.0%) of 12,971 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ As the sole distributor of Suzuki vehicles in Sri Lanka, Associated Motorways (P
 ...
 
 [Data](articles/f9c182b7.json)
+
+[Extended Data](ext_articles/f9c182b7.ext.json)
 
 ---
 

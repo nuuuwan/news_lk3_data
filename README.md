@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 17:17:53**
+As of **2024-03-14 17:34:00**
 
 ## Newspaper Stats
 
-*Scraped **12,903** Articles*
+*Scraped **12,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,111
-adaderanalk | 1,554
+adalk | 1,112
+adaderanalk | 1,555
 tamilmirrorlk | 1,575
 virakesarilk | 1,790
 dailymirrorlk | 1,972
-adaderanasinhalalk | 2,039
+adaderanasinhalalk | 2,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,899 (100.0%) of 12,903 articles have been extended.
+12,903 (100.0%) of 12,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### අස්වැසුම අයදුම්පත් කැඳවීම දීර්ඝ කෙරේ
+
+*2024-03-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194511) · `si`
+
+අස්වැසුම සුබ සාධක ප්‍රතිලාභ වැඩසටහනේ දෙවැනි අදියර සඳහා අයදුම්පත් කැඳවීමේ දිනය මාර්තු 22 දක්වා දීර්ඝ කර තිබේ.
+
+මේ වනවිට නව අයදුම්පත් 130,000ක් දෙවැනි වටය සඳහා දත්ත පද්ධතිය වෙත ලැබී ඇත.
+
+තවත් අයදුම්පත් ප්‍රමාණයක් ප්‍රාදේශීය ලේකම් කාර්යාල මගින් දත්ත පද්ධතිය වෙත ඇතුළත් කළ යුතුව ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/659de605.json)
+
+---
+
+### Expert committee to be appointed to tackle construction sector challenges
+
+*2024-03-14 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/97956/expert-committee-to-be-appointed-to-tackle-construction-sector-challenges) · `en`
+
+President Ranil Wickremesinghe announced that an expert committee would be appointed to investigate and propose solutions for the prevailing economic challenges, particularly within the construction sector.
+
+This declaration was made during a discussion held at the Presidential Secretariat yesterday (13), attended by industrialists from the construction sector, the President’s Media Division (PMD) said.
+
+Wickremesinghe also emphasized the inclusion of experts from the Ministry of Finance, Ministry of Urban Development, and Housing in this committee formation process. Furthermore, he assured relief for industrialists across various sectors through debt restructuring by the following year.
+
+...
+
+[Data](articles/6ffa3845.json)
+
+---
 
 ### Drug lord ‘Shiran Basik’ acquitted over contradictory police testimonies
 
@@ -48,23 +80,37 @@ Moreover, despite a police officer’s assertion that the raid was prompted by a
 
 [Data](articles/aadd68c2.json)
 
+[Extended Data](ext_articles/aadd68c2.ext.json)
+
 ---
 
-### මරණ දඬුවම නියම වූ සිවරාජා ට අභියාචනාධිකරණයෙන් නිදහස
+### The Court of Appeal was released from the Court of Appeal
 
 *2024-03-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194510) · `si`
 
-මරණීය දණ්ඩනය නියමවී සිටි වේළුපිල්ලයන් ත්‍යගරාජා හෙවත් සිවරාජා නමැති විත්තිකරුවකු එම දඬුවමෙන් නිදොස් කොට නිදහස් කරන ලෙස අභියාචනාධිකරණය නියෝග කළේය.
+The Court of Appeal acquitted Sivarajah, previously sentenced to death for a 2014 dispute in Ruwanwella, after a petition by Mrs. Menakea Wijesundara and Ms. Meanuka Wijesundara. The High Court's decision was criticized for not analyzing the testimony.
 
-2014 වසරේ රුවන්වැල්ල ප්‍රදේශයේ ඇතිවූ පුද්ගලික ආරවුලකින් අනතුරුව පුද්ගලයෙකුට පිහි ඇනුමක් සිදුකර ඝාතනය කිරීමේ චෝදනාවට වරදකරුවී සැකකරුට මරණීය දණ්ඩනය නියමවී තිබුණි.
+🟩
 
-එම විත්තිකරු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව අභියාචනාධිකරණ විනිසුරු මේනකා විජේසුන්දර මහත්මියගේ එකඟත්වය මත විනිසුරු විකුම් කළුආරච්චි මහතා විසින් මෙම තීන්දුව ලබාදුනි.
+The Court of Appeal ordered a defendant called Sivarajah or Sivaraja, who was sentenced to death.
 
-2014 වසරේ පෙබරවාරි මස 07 වනදා රුවන්වැල්ල ප්‍රදේශයේදී ඇති වූ පෞද්ගලික ආරවුලකින් අනතුරුව ආරුමුගම් චන්ද්‍රසේකරන් නමැත්තෙකුත්ගේ පපුවට පිහි ඇනුමක් සිදුකර මරාදැමීම සම්බන්ධයෙන් විත්තිකරුවන් දෙදෙනෙකුට එරෙහිව නීතිපතිවරයා විසින් කෑගල්ල මහාධිකරණය හමුවේ අධිචෝදනා ගොනු කර තිබුණි.
+The suspect had been sentenced to death for a personal dispute in Ruwanwella in 2014.
+
+Judge Numarachchi has been given the verdict on the agreement of Mrs. Menakea Wijesundara, the Court of Appeal Judge Ms. Meanuka Wijesundara after hearing a petition filed by the defendant.
+
+The Attorney General was indicted by the Attorney General against two defendants in the Kegalle High Court regarding a private dispute in Ruwanwella, 2014.
+
+After an extended trial, the decision of the Ranla Alagapillean Illagearajah, the complaint, was sentenced to death by the complaint.
+
+The High Court Judge ordered the across the across the name of Milwagan Manojan, designated as another actor.
+
+The accused called the Court of Appeal to issue an order to acquit himself a decree in the death penalty prescribed by him.
 
 ...
 
 [Data](articles/bd75b209.json)
+
+[Extended Data](ext_articles/bd75b209.ext.json)
 
 ---
 
@@ -81,6 +127,8 @@ Taking to ‘X’ (formerly Twitter), the State Minister disclosed that the disc
 ◼️
 
 [Data](articles/f125d899.json)
+
+[Extended Data](ext_articles/f125d899.ext.json)
 
 ---
 
@@ -394,17 +442,23 @@ According to police sources, the father of his 29-year-old son and the 15-year-o
 
 ---
 
-### කථානායකවරයාට එරෙහි විශ්වාසභංගය මාර්තු 19 ඡන්ද විමසීම 20 දා
+### Constitutionality against Speaker March 19 Elections on the 20th
 
 *2024-03-14 15:50:09* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහි-විශ්වාසභංගය-මාර්තු-19-ඡන්ද-විමසීම-20-දා/11-408615) · `si`
 
-කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව ලබන 19 සහ 20  විවාදයට  ගැනීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කොට ඇත. එය අද දින පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ වැඩබලන මහලේකම් හංස අබේරත්න මහතා තහවුරු කරයි.
+The No-confidence motion against the Speaker will debate on March 19 and 20, with voting for the resolution set for 4:30 pm on March 20.
 
-එසේම විවාදයේ දෙවැනි දිනය වන 20 වැනිදා ප.ව 4.30 ට පමණ විශ්වාසභංග යෝජනාවට  අදාළ ඡන්ද විමසීම පැවැත්වීමට ද තීරණය කොට ඇති බව ඒ මහතා වැඩි දුරටත් දන්වා සිටියි.
+🟩
+
+The No-confidence motion against Speaker has decided to debate 19 and 20. Acting Secretary General of Parliament confirmed that it was decided in the Committee on Parliamentary Affairs.
+
+He also said that the second day of the debate has also been decided to hold the voting for the no-confidence resolution at 4.30 pm on the 20th.
 
 ◼️
 
 [Data](articles/9dfee598.json)
+
+[Extended Data](ext_articles/9dfee598.ext.json)
 
 ---
 
@@ -412,13 +466,13 @@ According to police sources, the father of his 29-year-old son and the 15-year-o
 
 *2024-03-14 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97950/bail-rejected-for-keheliya-ex-health-secretary-and-4-others) · `en`
 
-Maligakanda Magistrate’s Court has once again rejected bail for former Minister of Health Keheliya Rambukwella, former Ministry secretary and 04 others until conclusion of the case over the import of substandard human Immunoglobulin vials.
+Maligakanda Magistrate’s Court has once again rejected bail for former Minister of Health Keheliya Rambukwella, former Ministry secretary and 04 others accused over the import of substandard human Immunoglobulin vials.
+
+Furthermore, the magistrate who ordered them to be remanded in custody until conclusion of the case under the provisions of the Public Property Act, also ordered the case to be recalled on March 28, 2024.
 
 Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
 
 The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
 
 ...
 
@@ -971,6 +1025,28 @@ Steps have been taken to protect the quality of fish production for the developm
 [Data](articles/3491b5ad.json)
 
 [Extended Data](ext_articles/3491b5ad.ext.json)
+
+---
+
+### ආර්ථිකය නැවත ගොඩනැඟීමට හැකිවේ යැයි කිසිවෙකු සිතුවේ නැහැ
+
+*2024-03-14 14:00:30* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-නැවත-ගොඩනැඟීමට-හැකිවේ-යැයි-කිසිවෙකු-සිතුවේ-නැහැ/11-408611) · `si`
+
+මුහුදුකරයට සීමා වී තිබෙන සංචාරක ව්‍යාපාරය රට තුළට ගෙන ඒමෙන් ජනතාවගේ ආර්ථිකය ශක්තිමත් කළහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ගාල්ල, හෝලුවාගොඩ ඉදි කළ “සෙරින් රිවර් පාර්ක්” පාරිසරික උද්‍යානය ඊයේ (13) පස්වරුවේ ජනතා අයිතියට පවරා දීමෙන් අනතුරුව පැවති උත්සව සභාව අමතමිනි.
+
+2021 වසරේදී ඉදිකිරීම් ඇරඹූණු මෙම උද්‍යානය අක්කර 14ක විශාලත්වයකින් යුතු පුරන්වූ කෙත් යායක ඉදිකර තිබේ.
+
+කර්මාන්ත සහ සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතාගේ මූලිකත්වයෙන් ක්‍රියාත්මක මෙම ව්‍යාපෘතියේ සැලසුම් නාගරික සංවර්ධන අධිකාරිය විසින් සකස්කර ඇති අතර ශ්‍රී ලංකා ඉඩම් ගොඩකිරීමේ සංස්ථාව විසින් ඉදිකිරීම් කටයුතු සිදුකර තිබේ.
+
+ව්‍යාපෘතිය සඳහා ඇස්තමේන්තුගත මුදල රුපියල් මිලියන 440කි. වැවක්, ඇවිදින මංතීරු, යකඩ පාලම්, ළමා උද්‍යාන, වෙළඳ කුටි, පරිසර පද්ධති ආදියෙන් මෙම උද්‍යානය සමන්විත වන අතර ඒ සඳහා විදුලිය ලබාදීම ‍සූර්ය බලශක්තියෙන් සිදු කෙරේ.
+
+ප්‍රදේශයේ ජනතාවගේ කෘෂිකාර්මික භෝග හා අනෙකුත් නිෂ්පාදන අළෙවි කිරීමේ වැඩපිළිවෙක්ද මේ හරහා ක්‍රියාත්මක කිරීමට නියමිතය.
+
+...
+
+[Data](articles/b477784a.json)
 
 ---
 
@@ -2207,83 +2283,5 @@ The car crashed into the accident and crashed away from the lorry road. Remble
 [Data](articles/5e4adef3.json)
 
 [Extended Data](ext_articles/5e4adef3.ext.json)
-
----
-
-### Mullaitivu - Pudukudiyiruppu special testing action
-
-*2024-03-14 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178687) · `ta`
-
-Police and STF conducted a special inspection in Mullaitivu Pudukkudiyiruppu, focusing on drug and underworld activities, without recovering any suspicious items.
-
-🟩
-
-Police and Special Task Force (STF) were engaged in a special inspection of the Mullaitivu Pudukkudiyiruppu area.
-
-A special traffic inspection operation was carried out on Wednesday evening in Pudukkudiyiruppu area as part of a specialist in the country, which is being carried out by the police to curb the activities of drugs and underworld groups in the country.
-
-However, the police and the Special Task Force (STF) were involved in the inspection and no suspicious items were recovered.
-
-◼️
-
-[Data](articles/47494863.json)
-
-[Extended Data](ext_articles/47494863.ext.json)
-
----
-
-### “Don't sign in English forms”
-
-*2024-03-14 10:48:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆங்கிலப்-படிவங்களில்-கையொப்பமிட-வேண்டாம்/175-334647) · `ta`
-
-SLUNBA advises against signing bank contracts in English, citing language barriers and SME lending issues. Banks' parades suspended until Dec 15, leading to concerns over property acquisition. SMEs demand immediate closure of banks unable to lend.
-
-🟩
-
-The Sri Lanka United National Business Federation (SLUNBA) has urged traders and the public to avoid signing the relevant bank contract forms if bank contract forms are not provided in Sinhala.
-
-Commenting on the media, Slunba Deputy Chairman Susantha Liyanarachchi urged not to sign English credit contracts from today.
-
-After the Cabinet decided to suspend banks' parades until December 15, banks have acquired the property of the people.
-
-"Since small and medium enterprises (SMES) are not lending because they are running a significant number of banks within the country, they have asked the president to issue notes to close those banks immediately," he said.
-
-In a statement issued by the Sri Lanka Bankers Association, Liyanarachchi said the banks should be closed if they are unable to do business with SMEs.
-
-◼️
-
-[Data](articles/971bd0e7.json)
-
-[Extended Data](ext_articles/971bd0e7.ext.json)
-
----
-
-### An England Prabal is quitting the IPL tournament
-
-*2024-03-14 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194492) · `si`
-
-England's Prabal quits IPL due to grandfather's death. Delhi Capitals, bought at IPL Auction, yet to announce replacement. Prabal's absence was due to his grandfather's passing, a shock since childhood.
-
-🟩
-
-A powerful batsman of the England team has left the Indian Premier League.
-
-He made an announcement that he decided to leave the tournament due to his grandfather's death.
-
-The Delhi Cesitals team was taken to the Indian Paddy Ceylon Tax at the recently held Indian Premier League Auction.
-
-However, Delhi Cesitals team has not yet officially reported the player who is being replaced by Brwk.
-
-The British batsman said that his grandfather died last month.
-
-Brub, then, that death was a great deal of shock to her grandfather since childhood.
-
-Bruk's grandmother was sick for several months, and he did not participate in the five-match Test series with India.
-
-◼️
-
-[Data](articles/90e6cbb3.json)
-
-[Extended Data](ext_articles/90e6cbb3.ext.json)
 
 ---

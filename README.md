@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 19:02:56**
+As of **2024-03-14 19:17:58**
 
 ## Newspaper Stats
 
-*Scraped **12,927** Articles*
+*Scraped **12,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,58 @@ bbccomsinhala | 146
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 663
-economynextcom | 693
+economynextcom | 694
 islandlk | 700
 adalk | 1,114
 adaderanalk | 1,555
 tamilmirrorlk | 1,576
 virakesarilk | 1,793
 dailymirrorlk | 1,973
-adaderanasinhalalk | 2,043
+adaderanasinhalalk | 2,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,918 (99.9%) of 12,927 articles have been extended.
+12,927 (100.0%) of 12,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### හෙට දිනයේත් උෂ්ණත්වය ඉහළට
+
+*2024-03-14 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194516) · `si`
+
+හෙට (15) දිනයේ දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එහි සඳහන් වන්නේ,වයඹ, උතුරු-මැද, නැගෙනහිර පළාත් සහ කොළඹ, ගම්පහ, මොණරාගල, මන්නාරම, මුලතිව් සහ වවුනියාව දිස්ත්‍රික්කවල ඇතැම් ස්ථාන සඳහා උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමේ පවතින බවය.
+
+මේ අතර වැඩබිම් තුළ සිටින පුද්ගලයින් ප්‍රමාණවත් ලෙස ජලය පානය කරන්න ලෙසත් සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+එමෙන්ම නිවෙස් තුළ සිටින වැඩිහිටි සහ රෝගී පුද්ගලයින් පිළිබඳව ද සැලකිලිමත් වෙන ලෙසත් වාහන තුළ කුඩා ළමුන් තනිවම රඳවා නොයන ලෙසත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/73117575.json)
+
+---
+
+### United Petroleum of Australia to start Sri Lanka operations by mid this year
+
+*2024-03-14 19:00:00* · [`economynextcom`](https://economynext.com/united-petroleum-of-australia-to-start-sri-lanka-operations-by-mid-this-year-154683/) · `en`
+
+ECONOMYNEXT – United Petroleum of Australia, which signed an agreement with the Ministry of Power and Energy last month to enter petroleum retail operations in the island, hopes to start operations by mid this year, minister Kanchana Wijesekera said.
+
+“Its group CFO, Nigel Simonsz visited the Ministry to update on their plans and schedule to begin retail operations through the 150 fuel stations allocated to them. They plan to sign the agreement with the BOI and obtain the license to operate by mid this year,” Wijesekera said on X (twitter).
+
+Sri Lanka last year awarded retail fuel licenses to three foreign firms – China’s Sinopec, United Petroleum Australia and US-based RM Parks to reduce the state-owned Ceylon Petroleum Corporation’s (CPC) pressure on finding foreign currency for the country’s whole fuel import.
+
+...
+
+[Data](articles/cf0492b8.json)
+
+---
 
 ### State Vesak Festival in Matale
 
@@ -126,6 +160,8 @@ Some of the projects have already obtained provisional approvals, environment cl
 
 [Data](articles/6e66a81f.json)
 
+[Extended Data](ext_articles/6e66a81f.ext.json)
+
 ---
 
 ### Order ban 23 dog doggings in India
@@ -206,6 +242,8 @@ A bond maturing on 01.07.2032 closed at 12.55/75 percent from 12.50/80 percent. 
 
 [Data](articles/47091d99.json)
 
+[Extended Data](ext_articles/47091d99.ext.json)
+
 ---
 
 ### Reconciliation applications extended
@@ -245,6 +283,8 @@ In an exclusive interview given to the privately owned NewsFirst network on Thur
 ...
 
 [Data](articles/1ea19e53.json)
+
+[Extended Data](ext_articles/1ea19e53.ext.json)
 
 ---
 
@@ -404,6 +444,8 @@ Central Banks Governing Board Member Manil Jayasinghe and Founder of Kapruka, Du
 
 [Data](articles/b57d6fd3.json)
 
+[Extended Data](ext_articles/b57d6fd3.ext.json)
+
 ---
 
 ### Govt and IRCON discuss progress of railway track enhancement in Anuradhapura
@@ -489,6 +531,8 @@ The consumer durables and apparel sector also saw some interest (134mn) as local
 ...
 
 [Data](articles/4367c72e.json)
+
+[Extended Data](ext_articles/4367c72e.ext.json)
 
 ---
 
@@ -1052,6 +1096,8 @@ All IHP Sri Lanka Opinion Tracker Survey (SLOTS) consumer confidence indices ran
 
 [Data](articles/8cf75564.json)
 
+[Extended Data](ext_articles/8cf75564.ext.json)
+
 ---
 
 ### Forty murder of shocked
@@ -1367,6 +1413,8 @@ The collaboration will allow SriLankan Airlines to access Korean Air’s far eas
 ◼️
 
 [Data](articles/a21cce18.json)
+
+[Extended Data](ext_articles/a21cce18.ext.json)
 
 ---
 
@@ -1830,6 +1878,8 @@ The audience member also alluded to assets allegedly stolen by the leadership of
 
 [Data](articles/cd39bd50.json)
 
+[Extended Data](ext_articles/cd39bd50.ext.json)
+
 ---
 
 ### Sri Lanka’s sugar, milk powder consumption hurting people, economy: Minister
@@ -1849,6 +1899,8 @@ Pathirana, a physician, asked doctors to advise their patients to cut down on su
 ...
 
 [Data](articles/4d978295.json)
+
+[Extended Data](ext_articles/4d978295.ext.json)
 
 ---
 
@@ -2263,51 +2315,5 @@ Railway Seat Seat Reservation in Sri Lanka (March 14). J. The BBC's BBC told the
 [Data](articles/795b8b4a.json)
 
 [Extended Data](ext_articles/795b8b4a.ext.json)
-
----
-
-### Motion: 19 - 20 Discussion
-
-*2024-03-14 12:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நம்பிக்கையில்லா-பிரேரணை-19-20-விவாதம்/175-334657) · `ta`
-
-The Parliamentary Affairs Committee will discuss the opposition's no-confidence motion against Speaker Mahinda Yapa Abeywardena on the 19th and 20th. A referendum will be held at 4.30 pm on the 20th.
-
-🟩
-
-The Parliamentary Affairs Committee has decided to discuss the no -confidence motion put forward by the opposition parties against Speaker Mahinda Yapa Abeywardena on the 19th and 20th of this month.
-
-The referendum on the motion will be held at 4.30 pm on the 20th.
-
-◼️
-
-[Data](articles/2a509613.json)
-
-[Extended Data](ext_articles/2a509613.ext.json)
-
----
-
-### Student who won the Nilakshan Memorial Gold Medal
-
-*2024-03-14 11:51:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலக்சன்-ஞாபகார்த்த-தங்கப்பதக்கத்தை-வென்ற-மாணவி/175-334656) · `ta`
-
-Krishnaraja Selva wins the Nilakshan Memorial Gold Medal at the 37th Graduation Ceremony of the University of Jaffna. Nilakshan, a journalist, was assassinated in 2007. The award, given annually to a Jaffna University specialist, commemorates Nilakshan's legacy.
-
-🟩
-
-At the 37th Graduation Ceremony of the University of Jaffna, the Jaffna University Media Student and Journalist Amara Sahadevan Nilakshan Memorial Gold Medal will be awarded to Krishnaraja Selva this year.
-
-The 37th graduation ceremony of the University of Jaffna will be held on Thursday (14) and will be held on Wednesday (15) and Saturday (6).
-
-Nilakshan, who was studying as a journalist at the University of Jaffna and working as a journalist, was assassinated by armed men at his home at 5 am on the first day of August 2007.
-
-The "Moon Fund", which is being carried out by the high -quality students of the 2004 students who learned to be held in Jaffna, in memory of the land, is given annually to a specialist in the Jaffna University.
-
-During the 10th anniversary of the Nilakshan's 10th anniversary held in 2017, the Fund of the Jaffna University was handed over to the Jaffna University Faculty of Arts. The Amara Sahadevan Nilakshan Memorial Gold Medal has been awarded for the past five years.
-
-◼️
-
-[Data](articles/b279ab58.json)
-
-[Extended Data](ext_articles/b279ab58.ext.json)
 
 ---

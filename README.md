@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 21:03:13**
+As of **2024-03-14 21:17:57**
 
 ## Newspaper Stats
 
-*Scraped **12,945** Articles*
+*Scraped **12,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 695
 islandlk | 700
-adalk | 1,116
+adalk | 1,118
 adaderanalk | 1,558
 tamilmirrorlk | 1,578
 virakesarilk | 1,796
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,047
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,944 (100.0%) of 12,945 articles have been extended.
+12,945 (100.0%) of 12,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### රැඳවියන්ගේ ශ්‍රමයෙන් රුපියල් මිලියන 116ක් උපයයි
+### Attain labor earns Rs 116 million
 
 *2024-03-14 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194519) · `si`
 
-2022 සහ 2023 යන වර්ෂවලදී සංශෝධිත නව පනත් 107ක් පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට හැකිවූ බව අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතා පැවසීය.
+Attain Labor earned Rs 116 million in 2023, thanks to 107 revised bills submitted to parliament. Anura Jayaratne, State Minister of Justice and Prison, highlighted inmate contributions to agriculture and industry. The government plans to address prison congestion and food issues with legislation expected in 2024.
 
-2023 වර්ෂයේදී රැඳවියන්ගේ ශ්‍රම දායකත්වයෙන් කෘෂිකර්ම සහ කර්මාන්ත අංශය මගින් රුපියල් මිලියන 116ක් උපයා ගැනීමට හැකියාව ලැබී තිබෙන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතා මේ බව සඳහන් කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (14) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ය.
+The Hon. Anura Jayaratne said that 107 revised bills were submitted to parliament in the years 2022 and 2023.
 
-"බන්ධනාගාරවල සිටින රැඳවියන් රටට වැඩ ඇති පිරිසක් බවට පත් කිරීමට හැකියාව ලැබී තිබෙනවා. රාජ්‍ය සහ පෞද්ගලික අංශයේ දායකත්වය සමගින් රැඳවියන් බන්ධනාගාර තුළ සිටම රැකියා සඳහා යොමු කිරීමට කටයුතු කරනු ලැබුවා. ඒ අනුව වැලිකඩ, මහර, අගුණකොලපැළැස්ස යන බන්ධනාගාර ආශ්‍රිතව මෙම ව්‍යාපෘතීන් ක්‍රියාත්මකයි. සපත්තු, කොයිල් සහ ආහාර මෙමඟින් නිෂ්පාදනය කෙරෙනවා."
+In the year 2023, the inmates have enabled the inmate of the agriculture and the industry to earn Rs. 116 million.
+
+State Minister of Justice and Prison Anura Jayaratne made this observation at a press conference held today (14) at the Presidential Media Center.
+
+"The inmates of prisons have been able to make the country to work. With the contribution of the public and private sector, inmates have been directed to work in prison. Accordingly, these projects are being carried out in the Welikada, Mahara and AurakanakolaPake prisoners. These are produced by shoes, coile and food. "
 
 ...
 
 [Data](articles/d9adee83.json)
+
+[Extended Data](ext_articles/d9adee83.ext.json)
 
 ---
 
@@ -242,6 +248,24 @@ Whatever the case, you get a thousand 700 rupees within the next 30 days. But ou
 
 ---
 
+### මිනිපේ ගොවීන්ගේ තීරණය
+
+*2024-03-14 19:27:36* · [`adalk`](https://www.ada.lk/breaking_news/මිනිපේ-ගොවීන්ගේ-තීරණය/11-408621) · `si`
+
+රටේ පවතින ලොකු ලූනු හිගයට පිළියමක් ලෙසඑළඹෙන යල කන්නයේ වී අස්වනු නෙළා ගත් පසු මිණිපේ මහා වාරි ව්‍යාපාරයේ 03හා 04 පියවර තුළ ලොකු ලූණු වගා කිරීම සුදුසු බව මිණිපේ කන්න රැස්වීමේදී තීරණය වී තිබේ .
+
+ඒ අනුව එම වගාවට සුදුසු ඉඩම් හඳුනා ගැනීම හා ඉල්ලුමට සරිලන ලොකු ලූණු බීජ ගොවියන් වෙත ලබා දෙන ලෙස අන්තර් පළාත් කෘෂිකර්ම දෙපාර්තමේන්තුවට දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතා උපදෙස් ලබාදී ඇති අතර ගොවියන්ද ඊට ඉහළ ප්‍රතිචාරයක් දක්වා තිබේ .
+
+ලොකු ලූණු වගා කිරීම පිළිබඳ ඉදිරිපත් වූ මෙම එකඟතාවයට එළැඹී ඇත්තේ ඊයේ (13දා) මහනුවර දිස්ත්‍රික් ලේකම් චන්දන තෙන්නකෝන් මහතාගේ ප්‍රධානත්වයෙන් මිණිපේ ප්‍රාදේශීය ලේකම් කාර්යාලයේදී පැවති කන්න රැස්වීමේදීය .
+
+ඒ අනුව මෙවර යල කන්නයේ අස්වනු නෙලීමෙන් පසු විල්ගමුව හා හෙට්ටිපොළ ප්‍රාදේශීය ලේකම් කොට්ඨාශවල තෝරාගත් කුඹුරු ඉඩම් තුළ ලොකු ලූණු වගා කිරීමට එහි සියලු ගොවි සංගම් නියෝජිතයන් එකඟ වී තිබේ .
+
+◼️
+
+[Data](articles/20f5a7b6.json)
+
+---
+
 ### 107 new and amended Bills presented to Parliament in 2022/23 - State Minister
 
 *2024-03-14 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97960/107-new-and-amended-bills-presented-to-parliament-in-202223-state-minister-) · `en`
@@ -281,6 +305,22 @@ On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka
 [Data](articles/c917dcbe.json)
 
 [Extended Data](ext_articles/c917dcbe.ext.json)
+
+---
+
+### කියනදේ තේරුම්ගන්න නොහැකි දේශපාලඥයින් ගැන කනගාටුයි
+
+*2024-03-14 19:13:21* · [`adalk`](https://www.ada.lk/breaking_news/කියනදේ-තේරුම්ගන්න-නොහැකි-දේශපාලඥයින්-ගැන-කනගාටුයි/11-408620) · `si`
+
+කියනදේ තේරුම්ගැනීමට සමහර දේශපාලකයින්ට අවබෝධයක් නැතිවීම ගැන කණගාටුවට කරුණක් බව පාර්ලිමේන්තු මන්ත්‍රී හර්ෂද සිල්වා මහතා පැවැසීය.
+
+"මම IMF එකත් එක්ක විපක්ෂයට සාකච්ඡාවක් ඉල්ලුවා කියල මට චෝදනා කරන්න කලින් මම පාර්ලිමේන්තුවේ කිව්වේ මොකක්ද කියල හරියට නැවත වරක් බලන්න. මම කරපු ඉල්ලීම මේ වීඩියෝවේ තියනවා. ඒ ඉල්ලීම අකුරක් නෑර මෙහෙමයි.
+
+මුදල් ඇමතිවරයා, ජනාධිපතිවරයා මෙතන ඉන්න නිසා මම කැමතියි එකක් අහන්න. මෙතනදී අපිට ඔහු සමග සම්බන්ධ වෙන්න හැකියාවක් නෑ කමිටුව හැටියට. ගරු මුදල් ඇමතිතුමා, ජනාධිපතිතුමා, ජාත්‍යන්තර ණය ප්‍රතිව්‍යුහගත කිරීම මේ දවස්වල කරගෙන යනවා. ඡන්දෙට තව තියෙන්නේ මාස කිහිපයයි. එතකොට ඊළඟට පත්වෙන ආණ්ඩුව බැඳී සිටිනවා ණය හිමියන් සමග එකතුවෙන වැඩපිළිවෙළ ඉදිරියට අරගෙන යන්න. ඒ නිසා, පාර්ලිමේන්තුව නියෝජනය කරන සියලු පක්ෂ සමග සාකච්ඡා කරල මෙවැනි එකඟතාවයකට ආවොත් හොඳයි කියල මම යෝජනා කරනවා. මොකද ඔබතුමා තව කොච්චර කාලයක් ඉන්නවද කියල අපිට හරියට කියන්න බෑ.
+
+...
+
+[Data](articles/392db930.json)
 
 ---
 
@@ -2277,57 +2317,5 @@ Pathirana, a physician, asked doctors to advise their patients to cut down on su
 [Data](articles/4d978295.json)
 
 [Extended Data](ext_articles/4d978295.ext.json)
-
----
-
-### Zebra dies of Dehiwala two
-
-*2024-03-14 13:04:28* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොටින්-දෙහිවලට-ගෙනා-සීබ්‍රා-මියයයි/11-408605) · `si`
-
-A zebra died at the Hambantota Safari Park, Dehiwala, and National Zoo. It was moved to Pelawan Park for treatment but died. The Department of Zoo (PS) and the Department of National Zoological Gardens protested the incident. The Sri Lanka Public Zoological Gardens Association's president criticized the handling of the zebra's death, highlighting the need for better medical care for animals.
-
-🟩
-
-Sudden sources say that the 13 Night died in the Hambantota Safari Park, Dehiwala and National Zoo.
-
-This animal is taken to the Pelawan Park to the Pelatu Park and the demarked in the Dehiwala Zoo to be treated with a shortage of illnesses.Worked.
-
-Meanwhile, the Department of Zoo (PS) said that the incident has escalated the sickness that night and died.
-
-Accordingly, the zoo is due to take place with the zoological division of the zoo, including the post mortem examination of the animal.. ‌
-
-The Department of National Zoological Gardens were conducting protest in protest of the death of the animal.
-
-The President of the Sri Lanka Public Zoological Gardens Association, Mr. Krishantha Christopher said:
-
-...
-
-[Data](articles/97b05496.json)
-
-[Extended Data](ext_articles/97b05496.ext.json)
-
----
-
-### Giraff, who was brought to the Dehiwalai in Hambantota
-
-*2024-03-14 13:04:28* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොටින්-දෙහිවලට-ගෙනා-ජිරාෆ්-මියයයි/11-408605) · `si`
-
-A giraffe at Dehiwala Safari Park in Hambantota died suddenly, escalating a sickness. The zoo is conducting a post-mortem examination.
-
-🟩
-
-Sudden sources say that the 13 Night died in the Hambantota Safari Park, Dehiwala and National Zoo.
-
-This animal is taken to the Masage Exhibition to the Marperatta Park and is treated to be treated at the Dehiwala Zoo to be treated for a sickness in the event of a sudden situation.Worked.
-
-Meanwhile, the Department of Zoo (PS) said that the incident has escalated the sickness that night and died.
-
-Accordingly, the zoo is due to take place with the zoological division of the zoo, including the post mortem examination of the animal.. ‌
-
-◼️
-
-[Data](articles/e83a8a79.json)
-
-[Extended Data](ext_articles/e83a8a79.ext.json)
 
 ---

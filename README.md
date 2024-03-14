@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 16:17:38**
+As of **2024-03-14 16:35:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,036
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,880 (99.9%) of 12,890 articles have been extended.
+12,890 (100.0%) of 12,890 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,25 +42,33 @@ IndiGo, India’s preferred airline, has announced new direct flights between Mu
 
 [Data](articles/4582a104.json)
 
+[Extended Data](ext_articles/4582a104.ext.json)
+
 ---
 
-### විදුලිබල මණ්ඩලය තවත් ගිවිසුමකට අත්සන් තබයි
+### The Electricity Board signs another agreement
 
 *2024-03-14 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194507) · `si`
 
-හම්බන්තොට, ගොන්නෝරුව බිම්ගත සූර්ය පැනල බලශක්ති ව්‍යාපෘතිය සංවර්ධනය සඳහා අදාළ ගිවිසුම අත්සන් කර තිබේ.
+The Electricity Board signs an agreement for the Hambantota, Gonnoruwa solar power project, comprising 13 power plants and 5 megawatts, with a total capacity of 150 MW. A $150 million investment will develop the project under a new business structure (SPPA) under the standard electricity purchase of the Electricity Board (SPA). Construction is set to start by May and connect to the national grid by 2025.
 
-ආයෝජකයන් 17 දෙනෙකුගෙන් සමන්විතව එම ව්‍යාපෘතිය මෙගාවොට් 10 බැගින් බලාගාර 13ක්, මෙගාවොට් 5 බැගින් බලාගාර 4කින් සමන්විත බව සඳහන් වේ.
+🟩
 
-ඒ අනුව මෙගාවොට් 150ක සමස්ථ ධාරිතාවයක් එමගින් නිෂ්පාදනය කිරීමට නියමිතය.
+The agreement has been signed for development of Hambantota, Gonnoruwa lading solar power project.
 
-විදුලිබල මණ්ඩලයේ සම්මත විදුලිය මිලදී ගැනීමේ ගිවිසුම (SPPA) යටතේ නව ව්‍යාපාර ව්‍යුහයකින් අ‍මෙරිකානු ඩොලර් මිලියන 150ක ආයෝජකකින් මෙම ව්‍යාපෘතිය සහ එයට අවශ්‍ය සම්ප්‍රේෂණ පහසුකම් හා ජාල පද්ධතිය ද ආයෝජකයන් විසින් සංවර්ධන කරනු ලැබේ.
+It is said that the project was comprised of 13 power plants and five power plants, consisting of 17 investors, which consists of 13 power plants and 5 megawatts.
 
-මෙම වසරේ මැයි මස වන විට ව්‍යාපෘතියේ ඉදිකිරීම් කටයුතු ආරම්භ කිරීමට බලාපොරොතු වන අතර, 2025 වසරේ දී ජාතික විදුලිබල පද්ධතියට සම්බන්ධ කිරීමට නියමිත බව සඳහන් වේ.
+Accordingly, there is a total capacity of 150 MW.
+
+Investors, a $ 150 million investor, the project and the transfer of transmission facilities and network system will be developed by US $ 150 million in a new business structure (SPPA) under the standard electricity purchase of the Electricity Board (SPA).
+
+By May this year, the construction work of the project is to commence and is to be connected to the national grid in 2025.
 
 ◼️
 
 [Data](articles/2407ca75.json)
+
+[Extended Data](ext_articles/2407ca75.ext.json)
 
 ---
 
@@ -84,39 +92,55 @@ Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of 
 
 [Data](articles/a3f81888.json)
 
+[Extended Data](ext_articles/a3f81888.ext.json)
+
 ---
 
-### ශිරාන් බාසික් නිදොස් කොට නිදහස්
+### Shiran baasic acquitted
 
 *2024-03-14 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194506) · `si`
 
-ප්‍රධාන පෙළේ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු බව පැවසූ මොහොමඩ් ශිරාන් බාසික් නැමැත්තා නිදොස් කොට නිදහස් කිරීමට කොළඹ මහාධිකරණය අද (14) නියෝග කර තිබේ.
+Mohamed Shiran Barqi, a leading drug dealer, was acquitted by the Colombo High Court due to contradictions in witness testimonies from the Police Narcotics Bureau. The case involved a 4.53 gram heroin arrest at the Edmonton Housing Complex on January 11, 2011, but the suspect claimed to have been arrested with his child. The judge found the evidence inappropriate for conviction, and the defendant had fled Dubai.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් ලබාදුන් සාක්ෂිවල ඇති බලවත් පරස්පරතා හේතුවෙන් ඔහුව නිදොස් කොට නිදහස් කරන බවට මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා නියෝග කර තිබේ.
+🟩
 
-සැකකරු 2011 වසරේ ජනවාරි මස 11 වනදා කිරුළපන එඩ්මන්ටන් නිවාස සංකීර්ණය අසළදී හෙරොයින් ග්‍රෑම් 4.53ක ප්‍රමාණයක් සමග අත්අඩංගුවට ගත් බව පැමිණිල්ලෙන් කියැවිණි.
+The Colombo High Court today (14) has been acquitted to acquit Mohamed Shiran Barqi, a leading drug dealer.
 
-ප්‍රථමයෙන් සඳහන් කර තිබුණේ ඔහු තනිව අත්අඩංගුවට ගත් බවට වුවද පසුව අදාළ පොලිස් නිලධාරීන් පවසා ඇත්තේ ඔහුගේ දරුවා සමග සිටියදී සැකකරු අත්අඩංගුවට ගත් බවය.
+High Court Judge Manjula Tilakaratne has been acquitted due to the powerful contradictions in the witnesses of the Police Narcotics Bureau.
 
-එසේම තමාට ලද දුරකථන ඇමතුමකට අනුව අදාළ වැටලීම කළ බවට පොලිස් නිලධාරියෙකු විසින් අධිකරණය හමුවේ පවසා තිබුණද එම දුරකථන අංකය වසර එකහමාරකට පමණ පෙර විසන්ධි කර ඇති බවට සාක්ෂි සහිතව විත්තියේ නීතිඥවරයා අධිකරණය හමුවේ පෙන්වා දී තිබුණි.
+The suspect had arrested that the suspect was arrested with a 4.53 gram of heroin at the Edmonton Housing Complex near the Edmton Housing Complex at the Edmton Housing Complex on January 11, 2011.
 
-එම සාක්ෂි අනුව විත්ත්කිඅරු වරදකරු කිරීම නුසුදුසු බවට විනිසුරුවරයා එහිදී නිගමනයකට එළඹ තිබුණි.
+Although he had been arrested alone, he was later arrested and later said that the suspect was arrested while with his child.
+
+Although a police officer had told the court that the telephone number was disconnected around one year and a half ago, the accused the accused was reported in court.
+
+The judge had come to a conclusion that the evidence was inappropriate to convict the conviction.
+
+The evidence examination was held without him as a result of the defendant had fled the Dubai State.
 
 ...
 
 [Data](articles/4139bf0a.json)
 
+[Extended Data](ext_articles/4139bf0a.ext.json)
+
 ---
 
-### පියෙක් තම පුතාගේ සහ දියනියගේ ගෙල කපා මරලා
+### A father cut down his son's neck
 
 *2024-03-14 15:51:38* · [`adalk`](https://www.ada.lk/breaking_news/පියෙක්-තම-පුතාගේ-සහ-දියනියගේ-ගෙල-කපා-මරලා/11-408616) · `si`
 
-කල්මුණේ මරදමුණේ පෙරියනීලවනියේ පියකු තම 29 හැවිරිදි පුතාගේ සහ 15 හැවිරිදි දැරියගේ බෙල්ලා කපා මරා දමා පියද තම ගෙල කපාගෙන මේ වන විට රෝහල්ගතව  ඇතැයිද  පොලිස් ආරංචිමාර්ග පවසයි.
+A father severely injured his 15-year-old son, hospitalizing both father and son.
+
+🟩
+
+According to police sources, the father of his 29-year-old son and the 15-year-old son and the father had been hospitalized, police sources said.
 
 ◼️
 
 [Data](articles/25b3aaac.json)
+
+[Extended Data](ext_articles/25b3aaac.ext.json)
 
 ---
 
@@ -208,23 +232,33 @@ The bail requests have been identified as the Court today (14).
 
 ---
 
-### எவரெஸ்ட் உச்சியை அடைந்த ஜயந்திக்கு சர்வதேச ஒலிம்பிக் குழுவின் விருது
+### The International Olympic Committee Award for Jayanthi reaching Everest
 
 *2024-03-14 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178723) · `ta`
 
-எவரெஸ்ட் சிகரத்தின் உச்சியை அடைந்த முதல் இலங்கையரான ஜயந்தி குரு உத்தும்பால, சர்வதேச ஒலிம்பிக் குழுவின்  பாலின சமத்துவம், பல்வகைமை மற்றும் உள்ளடக்கல் சம்பியன்களுக்கான 2023 ஆசிய விருதை வென்றுள்ளார்.
+Jayanthi Guru Utumbala, the first Sri Lankan to climb Everest, won the 2023 Asian Award for Gender Equality, Diversity, and Control from the International Olympic Committee. She's celebrated for promoting gender equality in sports and has been active in combating gender-based violence.
 
-விளையாட்டுத்துறையிலும், விளையாட்டுக்களின் ஊடாகவும் பாலின சமத்துவம், பல்வகைமை மற்றும் உள்ளடக்கல்  ஆகியவற்றை ஊக்குவிப்பதில் சிறந்த பங்களிப்பை வழங்கியவர்களை கௌரவிப்பதற்காக சர்வதேச ஒலிம்பிக்குழு வருடாந்தம் விருது வழங்கிவருகிறது.
+🟩
 
-2000 ஆம் ஆண்டில் ஆரம்பிக்கப்பட்ட இவ்விருது  2021 ஆம் ஆண்டுவரை  இவ்விருது பெண்கள் மற்றும் விளையாட்டு விருது என அழைக்கப்பட்டது. பின்னர் பாலின சமத்துவம், பல்வகைமை, உள்ளடக்கல் சம்பியன்கள் விருது  (GEDI Champions Awards) என இவ்விருது பெயர் மாற்றம் செய்யப்பட்டது.
+Jayanthi Guru Utumbala, the first Sri Lankan to reach the peak of Mount Everest, has won the 2023 Asian Award for the Gender Equality, Diversity and Control Championships of the International Olympic Committee.
 
-வருடாந்தம் உலகளாவிய ரீதியில் ஒருவருக்கும், ஆசியா, ஆபிரிக்கா, ஐரோப்பா, அமெரிக்கா, ஓஷியானியா ஆகிய கண்டங்களிலிருந்து தலா ஒருவருக்குமாக 6 விருதுகள் வழங்கப்படுகின்றன.
+The International Olympic Group is awarded the Annual Award to honor those who have made the best contribution to promoting gender equality, diversity and content through sports and sports.
 
-2016 ஆம் ஆண்டில், எவரெஸ்ட் சிகரத்தின் உச்சியை அடைந்த முதல் இலங்கையர் எனும் சாதனையைப் படைத்தவர் ஜயந்தி.
+Launched in 2000, this year was called the Women and Sports Award until 2021. This was later renamed as Gender Equality, Diversity and Gedi Champions Awards.
+
+There are 6 awards annually to one person from the continents of Asia, Africa, Europe, the United States and Osiania.
+
+In 2016, Jayanthi was the first Sri Lankan to reach the peak of Mount Everest.
+
+Jayanthi, who has more than 20 years of experience in Malayat, has a long -term experience in women's rights.
+
+She is a Diploma in Women's Education and a Mudumani Degree in Gender Studies.
 
 ...
 
 [Data](articles/1a02ac58.json)
+
+[Extended Data](ext_articles/1a02ac58.ext.json)
 
 ---
 
@@ -316,41 +350,57 @@ The General Secretary of the Association said that a discussion will be held wit
 
 ---
 
-### யாழில் கசிப்புடன் கைதான இளைஞனுக்கு 09 மாத சிறை
+### A young man who was arrested in Jaffna
 
 *2024-03-14 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178722) · `ta`
 
-யாழில் கசிப்புடன் கைதான 19 வயது இளைஞனுக்கு 50 ஆயிரம் ரூபாய் தண்டமும் 09 மாத சிறைத்தண்டனையும் விதிக்கப்பட்டுள்ளது.
+A 19-year-old in Jaffna was arrested, sentenced to 50,000 rupees and 9 months in prison for charges related to Kopay police division.
 
-கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கசிப்புடன் குறித்த இளைஞன் கைது செய்யப்பட்ட நிலையில் நேற்றைய தினம் புதன்கிழமை யாழ்.மேலதிக நீதவான் நீதிமன்றில் முற்படுத்தப்பட்டார்.
+🟩
 
-நீதிமன்ற விசாரணைகளின் போது , இளைஞன் தன் மீதான குற்றச்சாட்டை ஏற்றுக்கொண்டதை அடுத்து  50 ஆயிரம் ரூபாய் தண்டமும் 09 மாத சிறைத்தண்டனையும் விதிக்கப்பட்டுள்ளது.
+A 19 -year -old youth who was arrested in Jaffna has been sentenced to 50 thousand rupees and imprisonment.
 
-குறித்த இளைஞன் முன்னரும் கசிப்புடன் கைதாகி , நீதிமன்றால் தண்டிக்கப்பட்டவர் என்பதும் குறிப்பிடத்தக்கது.
+The youth was arrested on Wednesday at the Jaffna Magistrate's Court after the youth was arrested in connection with the Kopay police division.
+
+During the court hearing, the youth was sentenced to 50 thousand rupees and a 9 -month imprisonment after the youth accepted the charge.
+
+It is noteworthy that the young man was arrested and prosecuted by the court.
 
 ◼️
 
 [Data](articles/0bef53c1.json)
 
+[Extended Data](ext_articles/0bef53c1.ext.json)
+
 ---
 
-### மூன்றாவது நாளாக தொடரும் உண்ணாவிரதம் ; சட்டத்தரணிகள் பார்வையிட்டனர்
+### Fasting that continues for the third day;Attorneys visited
 
 *2024-03-14 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178721) · `ta`
 
-வெடுக்குநாறிமலையில் சிவராத்திரி வழிபாடுகளில் ஈடுபட்டபோது கைதுசெய்யப்பட்டு சிறையில் அடைக்கப்பட்டவர்களின் உண்ணாவிரத போராட்டம்  இன்று மூன்றாவது நாளாகவும் முன்னெடுக்கப்பட்டு வருகின்றது. அவர்களை வவுனியா சட்டத்தரணிகள் சிலர் இன்று வியாழக்கிழமை (14) பார்வையிட்டனர்.
+Arrested individuals engaged in Shivaratri rituals are on a hunger strike for justice, visited by lawyers. Vavuniya Justice ordered detention until 19th, and they are in Vavuniya Explanation Prison. The strike, which began yesterday, is on its third day. Among the eight, the temple, Thamikamarasa, Thamizhelvan, T. Kindiyan, S. Thavapalasingham, and Vinayagamoorthy are fasting. Despite this, they will eat food as usual, and Vavuniya lawyers Consius and Dilipkan confirmed their fasting.
 
-வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று  கைதுசெய்யப்பட்ட ஆலயபூசகர் உள்ளிட்ட 8 பேரையும் எதிர்வரும் 19 ஆம் திகதி வரை விளக்கமறியலில் வைக்க வவுனியா நீதிமன்று நேற்றுமுன்தினம் உத்தரவு பிறப்பித்தது.
+🟩
 
-இதனையடுத்து அவர்கள் வவுனியா விளக்கமறியல் சிறைச்சாலையில் அடைக்கப்பட்டனர். இந்நிலையில் தமக்கான நீதி வழங்கக்கோரி அவர்கள் உண்ணாவிரத போராட்டத்தில் ஈடுபட்டுவருகின்றனர்.
+The hunger strike of those arrested and imprisoned while engaged in Shivaratri rituals. They were visited by some Vavuniya lawyers today (14).
 
-நேற்றுமுன்தினம் தொடங்கிய குறித்த உண்ணாவிரத போராட்டம் இன்று மூன்றாவது நாளாகவும் நீடித்து வருகின்றது.
+The Vavuniya Justice of Vavuniya yesterday issued an order to be kept in detention till the 19th of this month.
 
-கைதுசெய்யப்பட்ட எட்டுபேரில் ஆலயபூசாரியார் த.மதிமுகராசா மற்றும்து தமிழ்ச்செல்வன், தி.கிந்துயன்,சு.தவபாலசிங்கம், விநாயகமூர்த்தி ஆகியோரே உண்ணாவிரத போராட்டத்தினை முன்னெடுத்துள்ளனர்.
+Subsequently they were imprisoned at the Vavuniya Explanation Prison. In this case, they are engaged in a hunger strike to provide their justice.
 
-...
+The hunger strike, which began yesterday, continues for the third day.
+
+Among the eight of the arrested, the temple, the temple, the Thamikamarasa and the Thamizhelvan, T. Kindiyan, S. Thavapalasingham and Vinayagamoorthy have launched a hunger strike.
+
+At the same time, the Department of Prisons was informed yesterday that they would eat food as usual.
+
+Following this, Vavuniya lawyers Consius and Dilipkan visited the prison today. They had confirmed that they were fasting.
+
+◼️
 
 [Data](articles/f6bdaf40.json)
+
+[Extended Data](ext_articles/f6bdaf40.ext.json)
 
 ---
 
@@ -470,35 +520,51 @@ The Forest burning is increasing the disasters, such as water springs, and the w
 
 ---
 
-### அலவத்துகொடையில் குடிநீர் கோரி மக்கள் ஆர்ப்பாட்டம்
+### Demonstration of people demanding drinking water
 
 *2024-03-14 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178713) · `ta`
 
-அக்குறணை பிரதேச சபை எல்லைக்குட்பட்ட  அலவத்துகொடை நகரில் இன்று வியாழக்கிழமை (14) குடிநீர் கோரி ஆர்ப்பாட்டம் இடம்பெற்றுள்ளது.
+A demonstration in Alawatukoda town, bordering Akurana Pradeshiya Sabha, highlighted a drinking water shortage affecting over 300 families in four villages, with no action from authorities.
 
-அலவத்துகொடை சய்ஸ்டன் உட்பட நான்கு கிராமங்களில் சுமார் 300க்கும் அதிகமான குடும்பங்கள் பாரிய குடிநீர் தட்டுப்பாட்டுக்கு முகம் கொடுத்துள்ளதாகவும் தமக்கு குடி நீரை பெற்றுத்தர அதிகாரிகள் எவ்வித நடவடிக்கையையும் எடுக்கவில்லை என்றும் தெரிவித்துள்ளனர்.
+🟩
+
+A demonstration was held today (14) in Alawatukoda town on the border of Akurana Pradeshiya Sabha.
+
+More than 300 families in four villages, including Alawatukoda Syston, have faced a massive drinking water shortage and that the authorities have not taken any action to get drinking water.
 
 ◼️
 
 [Data](articles/92cf255d.json)
 
+[Extended Data](ext_articles/92cf255d.ext.json)
+
 ---
 
-### யாழில் இளைஞன் கடத்தப்பட்டு கொலை செய்தமைக்கு கடற்படையும் உடந்தை என்பது உறுதியாகியுள்ளது!
+### It is certain that the navy is complicit in the abduction and murder of a youth in Jaffna!
 
 *2024-03-14 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178717) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை இளைஞனை கடத்தி கொலை செய்வதற்கு கடற்படையினரும் ஒரு வகையில் காரணம் என கொலை செய்யப்பட்டவரின் மனைவி குற்றம் சாட்டியுள்ள நிலையில், இளைஞனை கடத்துவதற்கு கடற்படையினர் உதவும் வீடியோ காட்சிகள் தற்போது வெளியாகியுள்ளன.
+Video footage reveals the navy's involvement in the abduction and murder of a youth in Jaffna. The youth and his wife were kidnapped by a violent gang in a naval camp, where they were tortured and killed. The wife claims her husband sought help at the camp, leading to the navy's attack and the gang's escape. Police investigations are ongoing, with surveillance videos showing the abduction.
 
-தனது மனைவியுடன் காரைநகர் பகுதிக்கு திங்கட்கிழமை (11) மோட்டார் சைக்கிளில் சென்று விட்டு , தனது வீடு நோக்கி திரும்பிக்கொண்டிருந்த இளைஞனையும், அவரது மனைவியையும் பொன்னாலை பால பகுதியில் உள்ள கடற்படை முகாமிற்கு அருகில் வைத்து, வன்முறை கும்பல் ஒன்றினால் வாகனத்தில் கடத்தி செல்லப்பட்டு, இளைஞன் மிக மோசமான சித்திரவதைக்கு உள்ளாக்கப்பட்டு, படுகொலை செய்யப்பட்டார்.
+🟩
 
-கடத்தி சென்ற இளைஞனின் மனைவியை சித்தன்கேணி பகுதியில் இறக்கி விட்டு வன்முறை கும்பல் தப்பி சென்று இருந்தது.
+Video footage of the Navy has been released as the wife of the murderer has been accused of kidnapping and killing a youth of Vaddukoddai in Jaffna.
 
-வன்முறை கும்பல் தம்மை வழிமறித்து ,தாக்கி கடத்த முற்பட்ட வேளை , தாம் உதவி கோரி கடற்படை முகாமிற்கு சென்ற வேளை அங்கிருந்த கடற்படையினர் தம்மை தாக்கி விரட்டினர் எனவும் , தனது கணவரின் படுகொலைக்கு கடற்படையினரும் காரணம் என படுகொலை செய்யப்பட்ட இளைஞனின் மனைவி தெரிவித்து இருந்தார்.
+The young man and his wife were returning to his house on Monday (11) with his wife, who was abducted by a violent gang in a naval camp in the Ponnalai Pal area, and was abducted in a vehicle and was subjected to the worst torture and assassinated.
+
+The violent mob had fled the sidenkanei area of the abducted young man.
+
+The wife of the murdered youth said that when the violent gang tried to abduct himself, he went to the naval camp for assistance and that the navy was attacked and chased away by her husband's assassination.
+
+In this case, the police were carrying out intensive investigations, and investigators obtained the surveillance camera videos fitted in the naval camp.
+
+In the video, the youth and wife are running to the camp, where the navy attacked them, and the violent mob kidnapped the husband and wife in front of the Navy's eye.
 
 ...
 
 [Data](articles/46bc3a02.json)
+
+[Extended Data](ext_articles/46bc3a02.ext.json)
 
 ---
 

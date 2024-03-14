@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 15:51:35**
+As of **2024-03-14 16:03:10**
 
 ## Newspaper Stats
 
-*Scraped **12,877** Articles*
+*Scraped **12,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,104 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,107
-adaderanalk | 1,548
+adalk | 1,108
+adaderanalk | 1,549
 tamilmirrorlk | 1,575
 virakesarilk | 1,781
-dailymirrorlk | 1,970
+dailymirrorlk | 1,971
 adaderanasinhalalk | 2,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,866 (99.9%) of 12,877 articles have been extended.
+12,877 (100.0%) of 12,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### “இலங்கையில் நடந்தது பாகிஸ்தானிலும் நடக்கும்’’
+### Bail rejected for Keheliya, ex-Health Secretary and 4 others
+
+*2024-03-14 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97950/bail-rejected-for-keheliya-ex-health-secretary-and-4-others) · `en`
+
+Maligakanda Magistrate’s Court has once again rejected bail for former Minister of Health Keheliya Rambukwella, former Ministry secretary and 04 others until conclusion of the case over the import of substandard human Immunoglobulin vials.
+
+Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/f47e3071.json)
+
+---
+
+### Expert forecasts lengthy legal battle in Ottawa mass killing
+
+*2024-03-14 15:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expert-forecasts-lengthy-legal-battle-in-Ottawa-mass-killing/108-278857) · `en`
+
+March 14 - A criminal law expert has shed light on the potentially lengthy legal journey ahead for the case involving Febrio De-Zoysa, the 19-year-old Sri Lankan national accused of a brutal attack in Barrhaven, Ottawa.
+
+Daphne Gilbert, a professor of criminal law at the University of Ottawa, suggests that the legal proceedings could span two to three years as they wind through the complexities of the court system.
+
+Gilbert emphasizes the likelihood of extensive psychiatric evaluations for the accused, aimed at determining his mental fitness to stand trial. Given the seriousness of the charges, it's crucial to assess De-Zoysa's capacity to comprehend the legal proceedings and assist in his defense.
+
+The 19-year-old Sri Lankan national currently sits in Ottawa’s Innes Road jail, facing six charges of first-degree murder and one count of attempted murder.
+
+...
+
+[Data](articles/c5c03f22.json)
+
+---
+
+### “The mobile phone in Pakistan in Sri Lanka
 
 *2024-03-14 15:33:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கையில்-நடந்தது-பாகிஸ்தானிலும்-நடக்கும்/50-334672) · `ta`
 
-‛‛பணவீக்கத்தின் புதிய அலை தோன்றியதும் நாட்டில் மக்கள் தெருக்களில் இறங்கி போராடும் நிலை ஏற்படும்; இலங்கையில் நடந்தது போன்று பாகிஸ்தானிலும் நடக்கும்'' என பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான்கான் கூறியுள்ளார்.
+Imran Khan predicts a new wave of inflation in Pakistan, leading to street protests, similar to Sri Lanka. Despite no majority in the recent election, Nawaz Sharif and Bhutto's party form an alliance, with Shebas Sharif as PM and Asif Ali Zardari as President. Khan claims his predictions about the PTI's expulsion in the 2024 election are true, blaming voters for the change not being accepted.
 
-பாகிஸ்தான் பார்லிமென்டிற்கு சமீபத்தில் நடந்த பொதுத்தேர்தலில் யாருக்கும் பெரும்பான்மை கிடைக்கவில்லை. எனினும் முன்னாள் பிரதமரும், தெஹ்ரீக்-இ-இன்சாப் கட்சியின் (பி.டி.ஐ.) தலைவருமான இம்ரான் கானின் ஆதரவு பெற்றவர்கள் சுயேட்சையாக போட்டியிட்டு கணிசமான உறுப்பினர்கள் உள்ளனர்.
+🟩
 
-இதனையடுத்து நவாஸ் ஷெரீப் கட்சியும், பூட்டோவின் கட்சியும் கூட்டணி அமைத்து ஆட்சி பொறுப்பேற்றது. அதில் பாகிஸ்தான் பிரதமராக ஷெபாஸ் ஷெரீப், அதிபராக ஆசிப் அலி ஜர்தாரி தேர்வு செய்யப்பட்டனர்.
+“When the new wave of inflation emerges, people will fight the streets of the country;As well as in Sri Lanka, Pakistan will happen in Pakistan, ”former Pakistani Prime Minister Imran Khan said.
 
-இந்த நிலையில் ராவல்பிண்டியில் உள்ள அடியலா சிறையில் இம்ரான் கான் செய்தியாளர்களிடம் கூறியதாவது:
+No one got a majority in the recent general election for Pakistan Parliament. However, the supporters of Imran Khan, the former prime minister and the leader of the Tehreek-e-Insaf Party (PTI), are in considerable members who contested independently.
 
-என்னுடைய அனைத்து கணிப்புகளும் உண்மையென நிரூபிக்கப்பட்டு உள்ளன. 2024 பொது தேர்தலில், பி.டி.ஐ., கட்சியானது திட்டமிட்டே வெளியேற்றப்பட்டது. ஆனால் வாக்காளர்கள், ஓட்டுப்பதிவு நாளில் இதற்கு பழி தீர்த்தனர். எனினும், அந்த மாற்றம் ஏற்கப்படவில்லை.
+Subsequently, Nawaz Sharif and Bhutto's party formed an alliance and took over. Shebas Sharif as Pakistani Prime Minister and Asif Ali Zardari was elected as the President.
+
+Imran Khan told reporters at Adiyala Prison in Rawalpindi:
+
+All my predictions have been proven to be true. In the 2024 general election, the PTI party was deliberately expelled. But voters blamed for this day. However, that change has not been accepted.
 
 ...
 
 [Data](articles/d3a56e9c.json)
 
+[Extended Data](ext_articles/d3a56e9c.ext.json)
+
 ---
 
-### කෙහෙළිය ඇතුළු 4 දෙනෙකුට නඩුව අවසන් වනතෙක් ඇප ලබාදීම ප්‍රතික්ෂේප කරයි
+### Foreen Keheliya and 4 including Keheliya rejects bail too
 
 *2024-03-14 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194505) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල සහ හිටපු අමාත්‍යාංශ ලේකම්වරුන් 4 දෙනෙකුට එරෙහි එන්නත් නඩුව අවසන් වන තෙක් ඇප ලබාදීම අධිකරණය අද (14) ප්‍රතික්ෂේප කළේය.
+The Court rejected bail for Keheliya Rambukwella, former Health Minister, and four others until the end of their case.
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, හිටපු සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා සහ තවත් සැකකරුවන් සිව්දෙනෙකුගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කළ මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නඩු විභාගය අවසන් වනතෙක් ඔවුන් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර තිබේ.
+🟩
 
-ඒ අදාළ ඇප ඉල්ලීම් අධිකරණය හමුවේ අද (14) සලකා බැලූ අවස්ථාවේදීය.
+The Court today (14) the Court rejected the bail until the end of the injection case against former Minister of Health Keheliya Rambukwella and former Ministry Secretaries.
+
+The Maligakanda Magistrate's Court has ordered to be remanded until the bail of former Minister of Health, Keheliya Rambukwella, former Health Ministry Secretary and four other suspects.
+
+The bail requests have been identified as the Court today (14).
 
 ◼️
 
 [Data](articles/d5bfec54.json)
+
+[Extended Data](ext_articles/d5bfec54.ext.json)
 
 ---
 
@@ -84,25 +132,33 @@ Alexander contracted polio in 1952, when he was 6. He became paralyzed from the 
 
 [Data](articles/5ad35af5.json)
 
+[Extended Data](ext_articles/5ad35af5.ext.json)
+
 ---
 
-### ”NPP அரசாங்கம் என்ன செய்யும் என்பதை IMF குழு அறிந்திருப்பது நல்லது
+### “It is good for the IMF team to know what the NPP government will do
 
 *2024-03-14 15:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கம்-என்ன-செய்யும்-என்பதை-IMF-குழு-அறிந்திருப்பது-நல்லது/175-334671) · `ta`
 
-மக்களுக்குப் பாதகமான நிபந்தனைகளில் திருத்தங்களைச் செய்து சர்வதேச நாணய நிதியத்தின் உடன்படிக்கையைத் தொடர தேசிய மக்கள் சக்தி (NPP) ஆணை கோரும் என்று NPP பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் இன்று தெரிவித்தார்.
+NPP Parliamentarian Vijitha Herath said the NPP will amend the IMF Agreement to address adverse conditions, eliminate harmful proposals like excessive taxes, and seek a decree to protect the people.
 
-NPP பிரதிநிதிகள் இன்று காலை IMF பிரதிநிதிகளை சந்தித்து ஒப்பந்தம் தொடர்பான NPP இன் நிலைப்பாடு குறித்து அவர்களுக்கு விளக்கியதாக அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+🟩
 
-NPP மக்கள் முன் சென்று ஒப்பந்தத்தில் உள்ள அதிகப்படியான வரிகள், பொருட்கள் மற்றும் சேவைகளின் விலையேற்றம் மற்றும் அரச சொத்துக்களை விற்பனை செய்தல் போன்ற தீங்கு விளைவிக்கும் முன்மொழிவுகளை நீக்குவதற்கான ஆணையை கோரும் என்றார்.
+NPP Parliamentarian Vijitha Herath today said that the National People's Power (NPP) order will be asked to continue the International Monetary Fund Agreement by amendments to the people's adverse conditions.
 
-சர்வதேச நாணய நிதியத்தின் உடன்படிக்கை தொடர்பாக எடுக்கப்பட வேண்டிய நடவடிக்கைகள் குறித்து சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கு விளக்கமளித்ததாக எம்.பி.
+He said at a media briefing that the NPP delegation met with IMF representatives this morning and explained to them the NP's position on the contract.
 
-"NPP அரசாங்கம் என்ன செய்யும் என்பதை IMF குழு அறிந்திருப்பது நல்லது," என்று அவர் கூறினார்.
+He said the NPP would go to the people and demand a decree to eliminate harmful proposals such as excessive taxes, goods and services and sale of state assets.
+
+The MP has explained to the representatives of the International Monetary Fund on the steps to be taken on the International Monetary Fund Agreement.
+
+"It is good for the IMF to know what the NPP government will do," he said.
 
 ◼️
 
 [Data](articles/4e0f14a0.json)
+
+[Extended Data](ext_articles/4e0f14a0.ext.json)
 
 ---
 
@@ -123,6 +179,8 @@ Japanese civil code rules that limit marriage to those of opposite sexes are "un
 ...
 
 [Data](articles/3fa223b3.json)
+
+[Extended Data](ext_articles/3fa223b3.ext.json)
 
 ---
 
@@ -190,6 +248,8 @@ He was admitted in a critical condition to the Kalmunai Hospital.
 
 [Data](articles/0fb4b8e3.json)
 
+[Extended Data](ext_articles/0fb4b8e3.ext.json)
+
 ---
 
 ### Converting vehicles to EV
@@ -201,6 +261,8 @@ A programme was held by Vega Innovations to convert fuel-burning vehicles, inclu
 ◼️
 
 [Data](articles/6c0af7a8.json)
+
+[Extended Data](ext_articles/6c0af7a8.ext.json)
 
 ---
 
@@ -232,6 +294,24 @@ He joins history as the man who lived the most effective manner with the aid of 
 
 ---
 
+### කැලෑ ගිනි තැබීම තුළින් ජල උල්පත් සිඳී යාමේ අවදානමක්
+
+*2024-03-14 14:51:34* · [`adalk`](https://www.ada.lk/breaking_news/කැලෑ-ගිනි-තැබීම-තුළින්-ජල-උල්පත්-සිඳී-යාමේ-අවදානමක්/11-408614) · `si`
+
+කැලෑ ගිනි තැබීම් ඉහළ යමින් තිබෙන බවත් ඊයේ (13දා) අවසන් වූ සතියක කාලය තුළදී  ස්ථාන 23ක කැලෑ ගිනි තැබීමේ සිදුවීම් වාර්තා වී තිබෙන බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කරයි.
+
+ගිනි තැබීම නිවා දැමීමට ආපදා කළමනාකරණ මධ්‍යස්ථාන සේවකයන්ට හා ත්‍රිවිධ හමුදාවට විශාල කැපකිරීමක් සිදු කිරීමට සිදුව තිබෙන බවත් මීට අමතරව විශාල මුදලක් දැරීමටත් සිදුව තිබෙන බවත් එම මධ්‍යස්ථානය පෙන්වා දෙයි.
+
+මේ වන විට දිවයිනේ බොහෝ ප්‍රදේශවල වියළි කාලගුණ තත්ත්වයක් ඇති වී තිබෙන බවත් එවන් තත්ත්වයක් තුළ යම් ප්‍රදේශයක ගිනි ගැනීමක් සිදු වූ විට එය කඩිනමින් පැතිර යන බවත් මේ නිසා මෙවැනි ක්‍රියා සිදුනොකරන ලෙසත් ඉල්ලා සිටියි‍.
+
+කැලෑබද ප්‍රදේශවල ගිනි තැබීම් නිසා පවතින වියළි කාලගුණ තත්ත්වයේ බලපෑම් තවදුරටත් ඉහළ යන බවත් මේ නිසා මෙවැනි සිද්ධියක් දුටු වහාම ඒ පිළිබඳව 117 දුරකථන අංකය ඔස්සේ ආපදා කළමනාකරණ මධ්‍යස්ථානයට දැනුම් දෙන ලෙසත් ඉල්ලා සිටියි.
+
+...
+
+[Data](articles/f141939b.json)
+
+---
+
 ### CEB calls for proposals for 50MW Wind Farm facility in Mannar
 
 *2024-03-14 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-calls-for-proposals-for-50MW-Wind-Farm-facility-in-Mannar/108-278853) · `en`
@@ -247,6 +327,8 @@ The Minister said the deadline to submit proposals is 9th May 2024.
 ◼️
 
 [Data](articles/5bccfd65.json)
+
+[Extended Data](ext_articles/5bccfd65.ext.json)
 
 ---
 
@@ -306,6 +388,8 @@ The General Secretary of the union said that a discussion with the Transport Min
 
 [Data](articles/1cec7c4d.json)
 
+[Extended Data](ext_articles/1cec7c4d.ext.json)
+
 ---
 
 ### Industrialized nations should acknowledge contributions to climate change
@@ -319,6 +403,8 @@ In his adderess, he said efforts to address climate change have a long history, 
 ...
 
 [Data](articles/f21212ff.json)
+
+[Extended Data](ext_articles/f21212ff.ext.json)
 
 ---
 
@@ -449,6 +535,8 @@ Accordingly, the Ruhunu Kumari express train arriving from Matara stopped at the
 ◼️
 
 [Data](articles/2794f036.json)
+
+[Extended Data](ext_articles/2794f036.ext.json)
 
 ---
 
@@ -2157,65 +2245,5 @@ President Ranil Wickremesinghe made this statement participating at a function i
 [Data](articles/2f68baa6.json)
 
 [Extended Data](ext_articles/2f68baa6.ext.json)
-
----
-
-### Basil met the High Commissioner
-
-*2024-03-14 08:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்ஸ்தானிகரை-சந்தித்தார்-பசில்/175-334641) · `ta`
-
-Basil Rajapaksa, PA founder, met Indian High Commissioner to Sri Lanka, Sri Santosh Ja.
-
-🟩
-
-Basil Rajapaksa, founder of PA. Indian High Commissioner to Sri Lanka met Sri Santosh Ja
-
-◼️
-
-[Data](articles/5857e42a.json)
-
-[Extended Data](ext_articles/5857e42a.ext.json)
-
----
-
-### China pursuing a military base in Sri Lanka: US claims
-
-*2024-03-14 08:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-pursuing-a-military-base-in-Sri-Lanka-US-claims/108-278820) · `en`
-
-China is reportedly exploring the possibility of establishing military facilities in various countries, including Sri Lanka, in a bid to bolster their power projection capabilities and safeguard national interests, a latest report by US Intelligence Community revealed.
-
-The People's Liberation Army (PLA) will continue to pursue the establishment of overseas military installations and access agreements in an attempt to project power and protect China’s interests abroad,” the annual threat assessment of the US Intelligence Community 2024 stated this week.
-
-“Beyond developing its military base in Djibouti and its military facility at Ream Naval Base in Cambodia, Beijing reportedly is considering pursuing military facilities in multiple locations, including—but not limited to—Burma, Cuba, Equatorial Guinea, Pakistan, Seychelles, Sri Lanka, Tajikistan, Tanzania, and the UAE,” it said.
-
-...
-
-[Data](articles/e65d4cfe.json)
-
-[Extended Data](ext_articles/e65d4cfe.ext.json)
-
----
-
-### Tuber patients report up by 14 percent
-
-*2024-03-14 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194486) · `si`
-
-Tuberculosis cases in Sri Lanka have risen by 14%, according to Tuba Disease Control and Fraud Disease. Dr. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Kader, a Community Health Specialist, emphasizes free identification tests and treatment across districts, aiming to eliminate the disease by 2035.
-
-🟩
-
-Tuberculosis cases have increased by 14 percent in Sri Lanka, says Tuba Disease Control and Fraud Disease.
-
-Community Health Specialist Dr. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Palindt Patients.
-
-Speaking at a media brief in the Health Promotion Bureau, Dr. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Kader.
-
-"We are taking free identification test and treatment for this disease.. Especially in every district, there are clinics clinics. Also, he has provided all the necessary facilities for treatment. And by 2035, the necessary arrangements are scheduled to eliminate the disease. We need to reduce patients by 90% to eliminate the need, and the death number should be reduced by 95%. It also expects to reduce the cost of a tuberculosis. "
-
-◼️
-
-[Data](articles/17e03474.json)
-
-[Extended Data](ext_articles/17e03474.ext.json)
 
 ---

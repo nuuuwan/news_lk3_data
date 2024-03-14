@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 14:02:52**
+As of **2024-03-14 14:17:47**
 
 ## Newspaper Stats
 
-*Scraped **12,853** Articles*
+*Scraped **12,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,101
-adaderanalk | 1,546
-tamilmirrorlk | 1,570
+adalk | 1,103
+adaderanalk | 1,547
+tamilmirrorlk | 1,571
 virakesarilk | 1,781
 dailymirrorlk | 1,963
 adaderanasinhalalk | 2,030
@@ -26,47 +26,77 @@ adaderanasinhalalk | 2,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,844 (99.9%) of 12,853 articles have been extended.
+12,853 (100.0%) of 12,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### NPP නායකයින් IMF නියෝජිතයින් සමග කළ සාකච්ඡාව
+### Discussion with the IMF representatives of NPP leaders
 
 *2024-03-14 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194501) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාවේ මෙහෙයුම් ප්‍රධානී පීටර් බෘෘවර් ඇතුළු කණ්ඩායමක් සහ ජාතික ජන බලවේගයේ නියෝජිතයන් අතර සාකච්ඡාවක් අද (14) පෙරවරුවේ කොළඹ ශ්‍රැංගිලා හෝටලයේදී පැවැත්විණි.
+Discussion on Sri Lanka's debt and corruption with IMF representatives, NPP leaders, and National Power representatives at Sriungila Hotel, Colombo. Topics included preventing corruption and public assistance reports. Attendees included Peter Broover, Prof. Anil Jayanthi, and others.
 
-පැය එකහමාරක පමණ කාලයක් පැවති මෙම හමුවේදී ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණයේ සහ වංචා දූෂණ වැළැක්වීමට අදාළ ක්‍රියාවලීන්හි ප්‍රගතිය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා වී ඇති අතර ජනතාවට මෙතෙක් ලබා දී නොමැති තාක්ෂණ සහායක වාර්තාව පිළිබඳවද ජාතික ජන බලවේගයේ නියෝජිතයින් විසින් විමසීම් සිදුකර තිබේ.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල නියෝජනය කරමින් පීටර් බෲවර් මහතාට අමතරව ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජ්‍ය නේවාසික නියෝජිත සර්වත් ජහාන් සහ කැට්සියරිනා ස්විඩ්සෙන්කා සහ මානවී අබේවික්‍රම යන මහත්මීහුද සාකච්ඡාවට එක්ව සිටියහ.
+Sri Lanka's operations heads, head of Sri Lanka's operations, MP Peter Broover and representatives of the National Power were held at the Sriungila Hotel in Colombo.
 
-මේ හමුව සඳහා ජාතික ජන බලවේගය නියෝජනය කරමින් ජාතික විධායක සභික පාර්ලිමේන්තු මන්ත්‍රී  විජිත හේරත්, ජාතික විධායක සභික මුදිත නානායක්කාර සහ ආර්ථික කවුන්සිලයේ සාමාජිකයින් වන මහාචාර්ය අනිල් ජයන්ත, මහාචාර්ය සීතා බණ්ඩාර, ආචාර්ය හර්ෂණ සූරියප්පෙරුම සහ සුනිල් හඳුන්නෙත්ති යන අය සහභාගි වූහ.
+At the meeting, Sri Lanka's debt and corruption has been discussed at length and corruption to prevent corruption to prevent corruption in Sri Lanka and the representatives of the national protocol of the National Folk Council have been inquired about the public assistant report.
+
+In addition to Peter Brewer representing the International Monetary Fund, Mr. Swarky, Snorrise Swark, Swark, Swark, and Swaker Swedsetra and Husbandy were also present.
+
+Prof. Anil Jayanthi, Professor Sehaha Bandara, Dr. Shadap Bandara, Dr. Harshana Surakiyadhe and Sunil Handunneththi were also present at the meeting.
 
 ◼️
 
 [Data](articles/cac8ec65.json)
 
+[Extended Data](ext_articles/cac8ec65.ext.json)
+
 ---
 
-### “செரின் ரிவர் பார்க்” சூழலியல் பூங்கா திறப்பு
+### “Cherin River Park” Environmental Gardens Opening
 
 *2024-03-14 13:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செரின்-ரிவர்-பார்க்-சூழலியல்-பூங்கா-திறப்பு/175-334665) · `ta`
 
-கடற்கரையோரங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ள சுற்றுலாத்துறையை நாட்டிற்குள் கொண்டு வந்து பொருளாதாரத்தை வலுப்படுத்த முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe highlighted the potential of the tourism industry in the South, particularly in Galle, at the opening of the Cherin River Park Ecological Gardens. The park, built on 14 acres, aims to enhance tourism and the economy, with a budget of 440 million rupees. It includes ecological structures, agricultural sales, and flood control, with plans for expansion.
 
-நாட்டின் சுற்றுலாத்துறையை மேம்படுத்துவதில் தென்பகுதிக்குத் தனித்துவமான இடம் உள்ளது என்றும் காலியை பிரதான சுற்றுலா நகரமாக அபிவிருத்தி செய்ய திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-காலி, ஹோலுவாகொட “செரின் ரிவர் பார்க்” சூழலியல் பூங்காவை புதன்கிழமை (13) பிற்பகல் மக்கள் பாவனைக்காக திறந்து வைக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+President Ranil Wickremesinghe has stressed that the tourism industry that is limited to the coast can be brought into the country and strengthen the economy.
 
-“2021 ஆம் ஆண்டு நிர்மாணப்பணிகள் ஆரம்பிக்கப்பட்ட இந்த பூங்கா 14 ஏக்கர் தரிசு நிலத்தில் உருவாக்கப்பட்டுள்ளது.
+The President pointed out that the South has a unique place to improve the country's tourism industry and that Galle is planning to develop as a major tourist city.
 
-கைத்தொழில் மற்றும் சுகாதார அமைச்சர் ரமேஷ் பத்திரனவின் தலைமையில் இந்தக் கருத்திட்டம் செயற்படுத்தப்பட்டதோடு, நகர அபிவிருத்தி அதிகார சபையினால் இதற்கான திட்டம் தயாரிக்கப்பட்டு, இலங்கை காணி மீட்பு மற்றும் அபிவிருத்திக் கூட்டுத்தாபனத்தினால் நிர்மாணப் பணிகள் மேற்கொள்ளப்பட்டது.
+President Ranil Wickremesinghe made this statement at the opening of the "Cherin River Park" Ecological Gardens for the public on Wednesday afternoon.
+
+“The park, which was started by 2021, was built on 14 acres of barren land.
+
+The project was implemented by the Minister of Industry and Health Ramesh Pathrana and the project was prepared by the Urban Development Authority and the construction of the Sri Lanka Land Recovery and Development Corporation.
+
+The assessment of the project is 440 million rupees. The park is located in the pond, sidewalks, iron bridges, children's parks, trade centers and environmental structures and is available from sunlight.
 
 ...
 
 [Data](articles/af0d1aca.json)
+
+[Extended Data](ext_articles/af0d1aca.ext.json)
+
+---
+
+### Father attempts suicide after murdering son and daughter
+
+*2024-03-14 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97948/father-attempts-suicide-after-murdering-son-and-daughter) · `en`
+
+A 63-year-old man has been admitted to the Kalmunai Hospital in critical condition due to allegedly attempting to take his own life after hacking his two children to death at Periya Nilaveli in Ampara.
+
+According to police, the victims were his 29-year-old son and 15-year-old daughter, who both suffered from speech impediments.
+
+The suspect had reportedly attempted to slit his own throat following the double murder.
+
+◼️
+
+[Data](articles/cac0761b.json)
 
 ---
 
@@ -88,39 +118,75 @@ He further noted that deadline to submit the relevant proposal will be on 09 May
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-03-14 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178706) · `ta`
 
-இன்று வியாழக்கிழமை (மார்ச் 14) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 301.0130 ஆகவும் விற்பனை விலை ரூபா 310.6428 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's US dollar to Rs. exchange rate is not provided.
+
+🟩
+
+The US dollar purchasing price was Rs.
 
 ◼️
 
 [Data](articles/f6efc149.json)
 
+[Extended Data](ext_articles/f6efc149.ext.json)
+
 ---
 
-### විනිසුරුවරයෙකුගේ නිවසකටත් හොරු පනී
+### Thieves a house of a judge
 
 *2024-03-14 13:23:36* · [`adalk`](https://www.ada.lk/breaking_news/විනිසුරුවරයෙකුගේ-නිවසකටත්-හොරු-පනී/11-408609) · `si`
 
-සිවිල් අභියාචනා මහාධිකරණ විනිසුරුවරයෙකුගේ පෞද්ගලික නිවසක තිබූ රේසින් වර්ගයේ පාපැදියක් ඇතුළු දේපළ තොගයක් සොරාගත් පුද්ගලයෙකු සොරා ගත් භාණ්ඩ ද සමඟ අත්අඩංගුවට ගත් බව කිරුළපන පොලිසිය පවසයි.
+A 19-year-old from Rasikwatta, Narahenpita, allegedly stole a stock of revenues, including from a Civil Appeal High Court, using a bicycle and a three-wheeler. The suspect, addicted to ice, fled but was arrested after hiding in a house.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ නාරාහේන්පිට රාසික්වත්තේ පදිංචි 19 හැවිරිදි  පුද්ගලයෙකු බව පොලිසිය කියයි.
+🟩
 
-විනිසුරුවරයාගේ නිවසට යාබදව ඉදිකරමින් පවතින තෙමහල් ගොඩනැගිල්ලක ආධාරයෙන් විනිසුරුවරයාගේ නිවසේ තෙවන මහලේ සඳළුතලයට ඇතුළුවී ඊට යාබදව ගබඩා කාමරයක තිබූ රුපියල් 250,000 වටිනා රේසින් වර්ගයේ පාපැදියක් හා කාර්යාල කාමරයේ තිබූ රුපියල් හතළිස් දහසක් වටිනා ෂර්ට් දෙකක් මෙසේ සොරාගෙන ගොස් තිබුණි.
+Kirulapana Police say that a person who stole a person who stole a stock of revenues including a Civil Appeal High Court.
 
-සොරාගත් පාපැදිය මිනිසුරුවරයාගේ ව්‍යායාම සඳහා භාවිතා කරන එකක් බැවින් සිද්ධිය වූ දිනට පසුදා ව්‍යායාම සඳහා බැහැරට ගෙන යාමට පාපැදිය සොයා බැලීමේදී තිබු තැන නොතිබීමෙන් සැකසිතී පරීක්ෂා කිරීමේදී කාර්යාල කාමරයේ තිබූ ෂර්ට් දෙකක්  ද සොරාගෙන ගොස් ඇති අයුරු අනාවරණය වීමත් සමග සිද්ධිය සම්බන්ධයෙන් පොලිසියේ පැමිණිල්ලක් කර තිබුනි.
+The suspect is a 19 year old resident of Rasikwatta, Narahenpita.
+
+With the help of a three storied building that is being built adjacent to the judge's house, a racing bicyclist in the judge, and two hundred rucks worth Rs.
+
+The police had lodged a complaint with the incident in connection with the incident in search of two shirts in the office room when the storm was used for the exercise of the bicycle.
+
+Accordingly, when a person who stole the robbery motorcycle, the motorcycle was driven by a person who was at the wheel near the wheel near the wheel.
+
+According to the police, the police had received the stores' photo while he had gone to the shop and contacted the owner, and the suspect had fled the three-wheeler from the spot.
 
 ...
 
 [Data](articles/c06dfc28.json)
 
+[Extended Data](ext_articles/c06dfc28.ext.json)
+
+---
+
+### සෙවනගල සීනි කම්හලේ 13කගේ වැඩ තහනම්
+
+*2024-03-14 13:23:00* · [`adalk`](https://www.ada.lk/breaking_news/සෙවනගල-සීනි-කම්හලේ-13කගේ-වැඩ-තහනම්/11-408608) · `si`
+
+ලංකා සීනි සමාගමට අයත් සෙවනගල සීනි කර්මාන්තායතනයේ සේවකයින් පිරිසක් ඉකුත් හත්වෙනිදා සභාපතිවරයා ඇතුළු විධායක නිලධාරීන් පිරිසක් කාර්යාල අඩස්සියේ තබාගැනීමේ සිද්ධිය සම්බන්ධයෙන් ඉකුත් (13) වෙනිදා සේවකයින් 13 දෙනෙකුගේ වැඩතහනම් කිරීමට සිදුවූ බව ලංකා සීනි සමාගමේ සභාපති විශ්‍රාමික මේජර් ජෙනරාල් සාරද සමරකෝන් මහතා පැවසීය.
+
+2023 වර්ෂයට ලබාදෙන ප්‍රසාද දීමනා වැඩිකරන ලෙස ඉල්ලමින් සේවක පිරිස වැඩවර්ජනයක් නිරතවූ අතර සභාපතිවරයා සෙවනගල සීනි කර්මාන්තායතනයට පැමිණි අවස්ථාවේදී සභාපතිවරයා ඇතුළු විධායක නිලධාරීන් පැය හතරක කාලයක් කාමරයටකට දමා සිරකොට තිබිණි.
+
+පොලීසිය මැදිහත්වී සභාපතිවරයා ඇතුළු පිරිස ඉන් මුදවාගනු ලැබීය. සී.සී.ටී.වී කැමරා දර්ශන අනුව එම පිරිස හඳුනාගෙන මෙලෙස වැඩ තහනම්කර තිබේ.
+
+ලංකා සීනි සමාගමේ දේශපාලන පත්වීමක් ලද පුද්ගලයෙකු සේවක සේවිකාවන් උස ගන්වා මෙම ක්‍රියාව සිදුකර ඇති බව හෙළිවී ඇත.
+
+විධිමත් පරීක්ෂණයකින් පසුව නිවැරදි සේවකයින් යළි සේවයේ පිහිටුවීමට පියවරගන්න බැව් සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේය
+
+◼️
+
+[Data](articles/8afa31c2.json)
+
 ---
 
 ### இரு பிள்ளைகளை கொன்ற தந்தை
 
-*2024-03-14 13:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இரு-பிள்ளைகளை-கொன்று-விட்டு-தன்னுயிரை-மாய்க்க-முயன்ற-தந்தை/74-334663) · `ta`
+*2024-03-14 13:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இரு-பிள்ளைகளை-கொன்ற-தந்தை/74-334663) · `ta`
 
 தனது இரு பிள்ளைகளையும் படுகொலை செய்துவிட்டு தன்னுயிரை மாய்க்க முயன்ற தந்தை காப்பாற்றப்பட்டுள்ள சம்பவம் அம்பாறை, பெரிய நீலாவணை பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
 
@@ -134,7 +200,33 @@ He further noted that deadline to submit the relevant proposal will be on 09 May
 
 ◼️
 
+[Data](articles/2a09b410.json)
+
+---
+
+### The father who killed two children
+
+*2024-03-14 13:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இரு-பிள்ளைகளை-கொன்று-விட்டு-தன்னுயிரை-மாய்க்க-முயன்ற-தந்தை/74-334663) · `ta`
+
+A 63-year-old man killed two children in Ampara, then himself. The victims were 29 and 15, and their mother died five months ago. The incident was investigated by Police Inspector JSK Weerasinghe.
+
+🟩
+
+The incident took place in the Ampara, Periyar Nilawana Police Division.
+
+The funeral took place on Thursday (14) at the home of the Big Neelavana Muslim Division Pakitul Saliya Road.
+
+He has killed two depressed children. He was admitted to the Kalmunai Resource Hospital for treatment.
+
+Muhammad Mirza Mohammed Khalil (age-63) has been admitted for treatment. Muhammad Khalil Mohammed Rikas (age 29) and Muhammad Khalil Fatima Basmia (age-15) died. The mother of the children died five months ago.
+
+Police Inspector JSK Weerasinghe, the Superintendent of Police in charge of the police station, has gone to the scene and carried out investigations.
+
+◼️
+
 [Data](articles/5464aaf5.json)
+
+[Extended Data](ext_articles/5464aaf5.ext.json)
 
 ---
 
@@ -155,6 +247,8 @@ The MP said they briefed the IMF delegation on the actions to be taken with rega
 ◼️
 
 [Data](articles/dffe7605.json)
+
+[Extended Data](ext_articles/dffe7605.ext.json)
 
 ---
 
@@ -440,9 +534,9 @@ Arrangements have been made to use only one lane of motorists during the rehabil
 
 ---
 
-### ජල මට්ටම 25%ක් පහළ බසි  විදුළි කප්පාදුවක් සිදුවෙයිද?
+### ජල මට්ටම සියයට 25ක් පහළ බසි  විදුළි කප්පාදුවක් සිදුවෙයිද?
 
-*2024-03-14 12:24:02* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මට්ටම-25%ක්-පහළ-බසි--විදුළි-කප්පාදුවක්-සිදුවෙයිද-/11-408603) · `si`
+*2024-03-14 12:24:02* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මට්ටම-සියයට-25ක්-පහළ-බසි--විදුළි-කප්පාදුවක්-සිදුවෙයිද-/11-408603) · `si`
 
 මධ්‍යම කදුකරයට මාසයකට ආසන්න කාලයක් තිසසේ පවතින වියලි කාලගුණයත් සමග මාවුස්සාකැලේ හා කාසල්රි යන ජලාශ දෙකේ ජල මට්ටම 25% දක්වා පහත බැස තිබේ.
 
@@ -450,7 +544,27 @@ Arrangements have been made to use only one lane of motorists during the rehabil
 
 ◼️
 
+[Data](articles/1e45d1d9.json)
+
+---
+
+### Will the water level make a 25% lower basie-dried basie delegation?
+
+*2024-03-14 12:24:02* · [`adalk`](https://www.ada.lk/breaking_news/ජල-මට්ටම-25%ක්-පහළ-බසි--විදුළි-කප්පාදුවක්-සිදුවෙයිද-/11-408603) · `si`
+
+Water levels in two reservoirs and Castlerees, affected by dry weather, have dropped 25%. Fishing levels in Maussakele Hakasaleri reservoirs are now 24 and 22 feet.
+
+🟩
+
+The water level of the two reservoirs and Castlerees, along with the dry weather, has declined to 25% with the dry weather in the Central Magadal.
+
+The fishing level of two reservoirs of the Maussakele Hakasaleri reservoirs under the National Hydro Power System have been held today (14) today, the engineers charged to 24 and 22 feet. \
+
+◼️
+
 [Data](articles/91fd55a8.json)
+
+[Extended Data](ext_articles/91fd55a8.ext.json)
 
 ---
 
@@ -684,6 +798,8 @@ SriLankan Airlines currently operates a twice-weekly direct service between Colo
 
 [Data](articles/e08c4a10.json)
 
+[Extended Data](ext_articles/e08c4a10.ext.json)
+
 ---
 
 ### SriLankan Airlines, Korean Air activate codeshare partnership
@@ -730,23 +846,31 @@ Earlier, the PAA served as the Director General of Civil Aviation Authority and 
 
 ---
 
-### ’’පොල්’’ ඔ්නෙ කෙනෙක් කඩාගෙන යන්න
+### '' Coconut 'and break down someone
 
 *2024-03-14 11:19:47* · [`adalk`](https://www.ada.lk/breaking_news/’’පොල්’’-ඔ්නෙ-කෙනෙක්-කඩාගෙන-යන්න/11-408602) · `si`
 
-ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+The Government Agent Lalinda Gamage and Government Manager Saman Herath emphasize the importance of coconut cultivation in Gampaha District. The Coconut Cultivation Board is working to improve cultivation, with government officials committed to expanding it. The District Management plans to distribute 1000 coconut seedlings.
 
-ගම්පහ දිස්ත්‍රික්කයෙහි පොල් වගාව තවත් වැඩි දියුනු කිරීමට පොල් වගාකිරීමේ මණ්ඩලය පියවර ගෙන ඇති බව එම මණ්ඩලයේ දිස්ත්‍රික් කළමනාකාර සමන් හේරත් මහතා විසින් පොල් වගා ප්‍රගතිය ඉදිරිපත් කළ අවස්ථාවේ දිසාපතිවරයා එසේ පැවසීය.
+🟩
 
-පොල් මිල ගණන් ඉහළ ගොස් ඇති බැවින් ඉඩ ඇති  සෑම භූමි ප්‍රමාණයකම පොල් වගා කිරීමට රාජ්‍ය නිලධාරීන් පියවර ගන්නා ලෙසත් මේවායෙහි ඵලදාව කවුරුන් ගත්තද ප්‍රශ්ණයක් නොවන බව පැවසූ දිසාපතිවරයා , වගාකිරීම පිනිස අවශ්‍ය පොල් පැල පොල් වගා කිරීමේ මණ්ඩලයෙන් ලබා ගැනීමට කටයුතු කළ යුතු බවත් පැවසීය.
+The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
 
-මේ සදහා ප්‍රධාන කාර්යාලය වෙත දැනුම් දෙමින් පොල් පැල 1000 ක් පළමුවෙන් ලබාදීමට පියවර ගන්නා බව දිස්ත්‍රික් කළමනාකාරවරයා මෙහිදී ප්‍රකාශ කළේය
+The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
 
-ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+He said that the government officials should take steps to take steps to take steps to cultivate the coconut cultivation in every land, which they have gone up.
+
+The District Management said that steps will be taken to provide 1000 coconut seedlings in announcing the headquarters.
+
+The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
+
+The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
 
 ...
 
 [Data](articles/73f7d4d6.json)
+
+[Extended Data](ext_articles/73f7d4d6.ext.json)
 
 ---
 
@@ -2085,89 +2209,5 @@ Prior to assuming the position of Director General,  Kotakadeniya  served as a
 [Data](articles/b82b87b5.json)
 
 [Extended Data](ext_articles/b82b87b5.ext.json)
-
----
-
-### IMF reviews CEB and CPC operations
-
-*2024-03-14 04:56:36* · [`dailyftlk`](https://www.ft.lk/business/IMF-reviews-CEB-and-CPC-operations/34-759467) · `en`
-
-The International Monetary Fund (IMF) Senior Mission Chief for Sri Lanka Peter Breuer and other officials yesterday met with the Power and Energy Ministry to review the progress of the reforms of the Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC).
-
-Taking to ‘X’ Power and Energy Minister Kanchana Wijesekera announced that they discussed key matters related to the sector.
-
-“Matters on recent tariff reduction in the electricity sector, CEB and CPC balance sheets of 2023, current financial position of CEB, accounting principles and standards adopted, BSTA filling automation, dispatch audit to be conducted, outstanding payments, forecast for 2024, CPC pricing formula and CPC operations was briefed and discussed,” he added.
-
-State Minister of Finance Shehan Semasinghe along with officials from the Power and Energy Ministry, Finance Ministry, CEB, CPC also participated in the discussion.
-
-◼️
-
-[Data](articles/0c39c7a9.json)
-
-[Extended Data](ext_articles/0c39c7a9.ext.json)
-
----
-
-### Construction Expo 2024 by CIOB kicks off tomorrow
-
-*2024-03-14 04:56:11* · [`dailyftlk`](https://www.ft.lk/business/Construction-Expo-2024-by-CIOB-kicks-off-tomorrow/34-759466) · `en`
-
-Ceylon Institute of Builders (CIOB) organised “Construction Expo 2024”,the most inclusive exhibition will be held from 15 to 17 March at the Sirimavo Bandaranaike Memorial Exhibition Centre in the BMICH.
-
-As a proven platform for the promotion of the Construction Industry in Sri Lanka, “Construction Expo 2024 by CIOB” will showcase the latest technology and development added to the building and construction sector with renowned industry experts, stakeholders and decision makers in attendance.
-
-This will be the ideal event to source new products, networking with new contacts and business opportunities. Trade visitors from Sri Lanka and the neighbouring countries are expected to utilise the event to exhibit their inventive products with new features and visitors will also be looking for the latest, inventive products to improve their building industry projects.
-
-...
-
-[Data](articles/6fb1e27c.json)
-
-[Extended Data](ext_articles/6fb1e27c.ext.json)
-
----
-
-### Loan defaulters push for extended parate suspension
-
-*2024-03-14 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Loan-defaulters-push-for-extended-parate-suspension/108-278814) · `en`
-
-Sri Lanka United National Businesses Alliance says 10-month suspension is not enough
-
-Calls on govt. to step up efforts in creating an environment to get maximum benefit during concessionary period
-
-The loan defaulters, who were recently successful in putting the parate rights on hold, yesterday made a fresh appeal to the authorities, urging them to extend the suspension for three years.
-
-While thanking the authorities for suspending the parate rights of banks until December 15 of this year, the Sri Lanka United National Businesses Alliance (SLUNBA) requested the government to extend the suspension further, so that they have some breathing space to recover the losses incurred thus far.
-
-Addressing a press conference yesterday, SLUNBA Chairperson Tania Abeysundara said that suspending the parate rights for 10 months is only a temporary concession and it is not enough.
-
-...
-
-[Data](articles/0df51385.json)
-
-[Extended Data](ext_articles/0df51385.ext.json)
-
----
-
-### Modern Shipping to the Fisheries Department
-
-*2024-03-14 03:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடி-துறைக்கு-நவீன-கப்பல்-விரைவில்-அறிமுகம்/175-334640) · `ta`
-
-The fisheries industry plans to introduce a modern deep sea ship to enhance operations and protect fish quality amid rising costs.
-
-🟩
-
-Minister of Marine Industry, Piel Nishantha de Silva, said that the fisheries industry is planned to introduce a new deep sea ship with modern technology and modern operations.
-
-State Minister Piel Nishantha said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-For the development of the fishing industry, efforts have been made to protect the quality of fish. Due to the increase in fuel prices and the increase in the price of fishing equipment. But necessary steps are being taken to alleviate the situation.
-
-A team of experts is planning to introduce a new deep sea fishing vessel with modern technology and modern operating systems for the fishing industry.. Once its work is completed, the new fishing shipping process will begin. The aim is to maintain the stable fishing industry by managing fishing entries. (A)
-
-◼️
-
-[Data](articles/e1cb1ed8.json)
-
-[Extended Data](ext_articles/e1cb1ed8.ext.json)
 
 ---

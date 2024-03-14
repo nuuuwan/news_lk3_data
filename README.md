@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 02:49:25**
+As of **2024-03-15 03:03:03**
 
 ## Newspaper Stats
 
-*Scraped **12,975** Articles*
+*Scraped **12,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,84 @@ adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,579
 virakesarilk | 1,806
-dailymirrorlk | 1,981
+dailymirrorlk | 1,984
 adaderanasinhalalk | 2,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,974 (100.0%) of 12,975 articles have been extended.
+12,975 (100.0%) of 12,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### வெடுக்குநாறிமலையில் எண்மர் கைது விவகாரம் : மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடளித்தும் அதிகாரிகள் எவரும் சிறைச்சாலைக்கு சமுகமளிக்கவில்லை - எஸ்.கஜேந்திரன்
+### Nation building, Zen and art of Motorcycle maintenance’ - EDITORIAL
+
+*2024-03-15 02:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Nation-building-Zen-and-art-of-Motorcycle-maintenance-EDITORIAL/172-278889) · `en`
+
+These are days when parents have to motivate children with positive thoughts and help them envisage victory after being engaged in a struggle. We are in an era where we have to make a struggle to live, study, find food, retain jobs and stand up for what’s right. For this we must ensure that our loved ones engaged in the struggle to live and prosper emerge as victors.
+
+But there can be people out there who dedicate some time from their lives to defeat evil. There are citizens of this country who would want to defeat this ‘unelected’ regime; where its present president came to power not through the vote of the citizens, but from support inside the parliament. There are citizens in this nation who’d want to change this regime and install a new one after an election. And those who contribute to that change might not even stand in public with the winners, but prefer to play watchdog because ‘power’ has the potential to corrupt lawmakers.
+
+...
+
+[Data](articles/3e104430.json)
+
+---
+
+### None of the arrest of the Human Rights Commission
 
 *2024-03-15 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178763) · `ta`
 
-சிவராத்திரி தினத்தன்று வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் பொலிஸாரால் கைதுசெய்யப்பட்ட எண்மரில் ஐவர் உண்ணாவிரதப்போராட்டத்தில் ஈடுபட்டுவருகின்றனர். இவ்விவகாரம் குறித்து இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடளித்துள்ள போதிலும், இதுவரையில் அதிகாரிகள் எவரும் சிறைச்சாலைக்கு சமுகமளிக்கவில்லை என  தமிழ்த்தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் எஸ்.கஜேந்திரன் குற்றஞ்சாட்டியுள்ளார்.
+On Shivaratri, five people at Athilingeswarar Temple in Vettu Nirimalai engaged in a hunger strike, leading to police arresting eight, including the temple. TNA's S. Kajendran accused the Sri Lanka Human Rights Commission of lodging a complaint. Despite health issues, the arrested were not visited by a doctor. S. Gajendran criticized the prison department for lying about the hunger strike's duration and the absence of any Human Rights Commission officials in prison.
 
-வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த வெள்ளிக்கிழமை சிவராத்திரி தினத்தன்று பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக 8 பேர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+🟩
+
+On the day of Shivaratri, five people are engaged in a hunger strike at the Athilingeswarar Temple at Vettu Nirimalai. The Tamil National Alliance (TNA) parliamentarian S. Kajendran has accused the Human Rights Commission of Sri Lanka of lodging a complaint with the Human Rights Commission.
+
+The police were disrupted by the pilgrims who were engaged in pooja on Friday at the Adilingeswarar Temple in Vettu Nirimalai, Vavuniya district and forgotten to continue the worship at night.. Eight people were arrested by the police, including the temple.
+
+The explanation of the eight persons arrested in the above has been extended till the 19th of this month, with Tilakanathan Kindujan, Subramaniam Tavabalasingham, Durairasa Thamizhelvan, Thambrasa Mathimukarasa and Rasaratnam Vinayagamoorthy for the past three days.
 
 ...
 
 [Data](articles/1994fed8.json)
+
+[Extended Data](ext_articles/1994fed8.ext.json)
+
+---
+
+### Gaza famine: Food aid before the slaughter
+
+*2024-03-15 02:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gaza-famine-Food-aid-before-the-slaughter/172-278888) · `en`
+
+Displaced Palestinians gather to collect food donated by a charity before an iftar meal, the breaking of the fast, on the first day of the Muslim holy fasting month of Ramadan in Rafah. AFP
+
+Just as the people sentenced to death are fed their best meal before they are executed, the Gaza Strip’s people, in the midst of a deadly famine, are being fed meals sent by the United States before they are slaughtered by Israel. Whatever is sent is not the best. But taste is not an option when survival is at stake.
+
+The United States is completing a pier in the seas off the Gaza coast to send much-denied food aid. Its genocide-committing ally, Israel, also says it is trying to “flood” Gaza with aid, unable to withstand mounting international pressure, including some harsh criticism from its hardcore allies. Among them is the European Union, which stands by Israel and stomachs its war crimes with a high tolerance bar that is not seen in its human rights witch hunt against countries like Sri Lanka.
+
+...
+
+[Data](articles/de3f3997.json)
+
+---
+
+### Ushering in a new era for marketing
+
+*2024-03-15 02:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ushering-in-a-new-era-for-marketing/172-278887) · `en`
+
+In the era of digital marketing, sensational campaigns often find a home on social media platforms
+
+This new marketing strategy can leave a strong emotional imprint that can enhance brand recognition and engagement
+
+‘Sensational marketing’ is a term that is not widely recognised or defined in the field of marketing. However, it could refer to a marketing approach that aims to create excitement, generate attention and provoke strong emotional responses from the target audience. Such an approach may be used to make a product or service stand out in a crowded marketplace or to create a memorable marketing campaign. Here is an introduction to the concept of sensational marketing.
+
+...
+
+[Data](articles/a2ab8d10.json)
 
 ---
 
@@ -2219,73 +2273,5 @@ The Forest burning is increasing the disasters, such as water springs, and the w
 [Data](articles/f141939b.json)
 
 [Extended Data](ext_articles/f141939b.ext.json)
-
----
-
-### Demonstration of people demanding drinking water
-
-*2024-03-14 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178713) · `ta`
-
-A demonstration in Alawatukoda town, bordering Akurana Pradeshiya Sabha, highlighted a drinking water shortage affecting over 300 families in four villages, with no action from authorities.
-
-🟩
-
-A demonstration was held today (14) in Alawatukoda town on the border of Akurana Pradeshiya Sabha.
-
-More than 300 families in four villages, including Alawatukoda Syston, have faced a massive drinking water shortage and that the authorities have not taken any action to get drinking water.
-
-◼️
-
-[Data](articles/92cf255d.json)
-
-[Extended Data](ext_articles/92cf255d.ext.json)
-
----
-
-### It is certain that the navy is complicit in the abduction and murder of a youth in Jaffna!
-
-*2024-03-14 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178717) · `ta`
-
-Video footage reveals the navy's involvement in the abduction and murder of a youth in Jaffna. The youth and his wife were kidnapped by a violent gang in a naval camp, where they were tortured and killed. The wife claims her husband sought help at the camp, leading to the navy's attack and the gang's escape. Police investigations are ongoing, with surveillance videos showing the abduction.
-
-🟩
-
-Video footage of the Navy has been released as the wife of the murderer has been accused of kidnapping and killing a youth of Vaddukoddai in Jaffna.
-
-The young man and his wife were returning to his house on Monday (11) with his wife, who was abducted by a violent gang in a naval camp in the Ponnalai Pal area, and was abducted in a vehicle and was subjected to the worst torture and assassinated.
-
-The violent mob had fled the sidenkanei area of the abducted young man.
-
-The wife of the murdered youth said that when the violent gang tried to abduct himself, he went to the naval camp for assistance and that the navy was attacked and chased away by her husband's assassination.
-
-In this case, the police were carrying out intensive investigations, and investigators obtained the surveillance camera videos fitted in the naval camp.
-
-In the video, the youth and wife are running to the camp, where the navy attacked them, and the violent mob kidnapped the husband and wife in front of the Navy's eye.
-
-...
-
-[Data](articles/46bc3a02.json)
-
-[Extended Data](ext_articles/46bc3a02.ext.json)
-
----
-
-### CEB calls for proposals for 50MW Wind Farm facility in Mannar
-
-*2024-03-14 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-calls-for-proposals-for-50MW-Wind-Farm-facility-in-Mannar/108-278853) · `en`
-
-Colombo, March 14 (Daily Mirror)- The Ministry of Power and Energy and the CEB have called for proposals on International Competitive Bidding (ICB) for a 50MW Wind Farm facility in Mannar, Power and Energy Minister Kanchana Wijesekara said today.
-
-The Minister said requests for the proposals have been advertised.
-
-"The ICB calls for suitable developers with the financial and technical ability to develop a 50MW Wind Farm Facility in Mannar on a Build, Own and Operate (BOO) Basis," he posted in X.
-
-The Minister said the deadline to submit proposals is 9th May 2024.
-
-◼️
-
-[Data](articles/5bccfd65.json)
-
-[Extended Data](ext_articles/5bccfd65.ext.json)
 
 ---

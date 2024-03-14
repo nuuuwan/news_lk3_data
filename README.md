@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 21:33:51**
+As of **2024-03-14 21:52:27**
 
 ## Newspaper Stats
 
-*Scraped **12,948** Articles*
+*Scraped **12,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,109 @@ dailyftlk | 663
 economynextcom | 695
 islandlk | 700
 adalk | 1,118
-adaderanalk | 1,558
+adaderanalk | 1,559
 tamilmirrorlk | 1,578
-virakesarilk | 1,796
+virakesarilk | 1,798
 dailymirrorlk | 1,975
-adaderanasinhalalk | 2,048
+adaderanasinhalalk | 2,049
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,947 (100.0%) of 12,948 articles have been extended.
+12,948 (100.0%) of 12,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### ලොවම මවිත කරවමින් ටයිටැනික් යළි ගොඩගනී
+### යාපනයේ සුපිරි පන්දුයවන්නා දෝනි හමුවෙයි
+
+*2024-03-14 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194521) · `si`
+
+යාපනය ශාන්ත ජෝන් විද්‍යාලයේ 17 හැවිරිදි ක්‍රීඩක කුගදාස් මතුලාන් පාසල් තරගයකදී යොමු කළ විශිෂ්ඨ පන්දුවක් ඉකුත්දා සමාජ මාධ්‍ය ඔස්සේ වේගයෙන් සංසරණය විය.
+
+ලසිත් මාලිංගගේ ඉරියව්වට සමාන ඉරියව්වකින් පන්දු යවන මෙම ක්‍රීඩකයා යොමු කළ යෝකර් පන්දුවක් කෙලින්ම කඩුල්ලේ වදින අයුරු එහි සටහන්වී තිබුණි.
+
+මෙම සුපිරි පන්දුව යොමු කළ එම පාසල් ක්‍රීඩකයා මහේන්ද්‍ර සිං දෝනිගේ ආරාධනාවකට අනුව මේ වනවිට දැල තුළ පන්දුයැවීම සඳහා චෙන්නායි කණ්ඩායම සමග එක්වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/f70c3cb5.json)
+
+---
+
+### மேற்குவங்க முதல்வர் மம்தா பனர்ஜி விபத்தில் சிக்கி பலத்த காயம்!
+
+*2024-03-14 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178755) · `ta`
+
+இந்தியாவின் மேற்கு வங்க முதல்வர் மம்தா பானர்ஜி விபத்தில் சிக்கி பலத்த காயமடைந்துள்ளார் என திரிணாமுல் காங்கிரஸ் வியாழக்கிழமை (14) தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c73a9a77.json)
+
+---
+
+### வட்டுக்கோட்டையில் தம்பதி கடத்தல்: கடற்படையினரிடம் விசாரணை!
+
+*2024-03-14 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178754) · `ta`
+
+யாழ்ப்பாணம், வட்டுக்கோட்டை பொன்னாலை கடற்படைச் சாவடிக்கு அருகாமையில் தம்பதி கடத்தப்பட்டு ஒருவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் கடற்படையினர் நடந்து கொண்ட விதம் குறித்து முழுமையான விசாரணைகளை மேற்கொள்ள கடற்படை தீர்மானித்துள்ளது.
+
+சம்பந்தப்பட்ட கடற்படை வீரர்கள் குற்றவாளிகள் என நிரூபிக்கப்பட்டால், கடுமையான நடவடிக்கை எடுக்கப்படும் என்றும் கூறினார்.
+
+◼️
+
+[Data](articles/2d1f98be.json)
+
+---
+
+### Sixty migrants feared drowned crossing Mediterranean from Libya
+
+*2024-03-14 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97962/sixty-migrants-feared-drowned-crossing-mediterranean-from-libya) · `en`
+
+As many as 60 people are feared to have drowned on a vessel carrying migrants across the Mediterranean from Libya to Italy or Malta, the operators of a charity rescue group said on Thursday.
+
+SOS Mediterranee said it rescued 25 people in a “very weak” condition in coordination with the Italian Coast Guard on Wednesday and that two unconscious people were flown to Sicily by helicopter.
+
+The central Mediterranean is one of the world’s deadliest migration routes. According to the U.N. migration agency (IOM), almost 2,500 migrants died or went missing attempting the crossing last year, and 226 since the start of 2024.
+
+“The survivors departed from Zawiya, Libya, seven days before they were rescued,” SOS Mediterranee posted on the social media platform X.
+
+“Their engine broke after three days, leaving their boat lost (and) adrift without water and food for days. Survivors report that at least 60 people perished on the way, including women and at least one child,” it added.
+
+...
+
+[Data](articles/3fb4b3e5.json)
+
+---
+
+### Titanic recovering the world amazing
 
 *2024-03-14 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194520) · `si`
 
-කිසිදා ගිල්විය නොහැකි යැයි පැවසූ සුඛෝපභෝගී ටයිටැනික් නෞකාව පුද්ගලයින් 1500කට මරු කැඳවමින් 1912 වසරේ අප්‍රේල් 15 වැනිදා අත්ලාන්තික් සාගරයේ ගිලී ගියේ දැවැන්ත අයිස් කුට්ටියක ගැටී අනතුරට ලක්වීමෙනි.
+The Titanic, once a symbol of luxury and tragedy, is now being recreated by a billionaire. This unique ship, designed by New York's Port of Sadalampton, began its recovery nearly 10 years ago. Costing between $500 million and Rs., it can accommodate 2,345 passengers, with half of the first-class cabins now on sale.
 
-ලොවම මවිත කරවමින් එම නෞකාවට සමාන පෙනුමැති නෞකාවක් නිපදවීමට පෙරමුණ ගෙන සිටින්නේ ඔස්ට්‍රේලියානු ජාතික ක්ලයිව් පාර්මර් නම් බිලියනපතියෙකි.
+🟩
 
-මීට වසර 10කට පමණ පෙර සිට මෙම සුවිශේෂී නෞකාව යළි නිර්මාණය කිරීමේ මෙහෙයුම ඇරඹුණි.
+The luxury Titanic, who said, 1500 people were killed in a huge iceberg, clashing 1500 people.
 
-ටයිටැනික් ටූ නම් මෙම නෞකාව 2027 වසරේ දී ටයිටැනික් නෞකාව ගමන් කළ සදම්ප්ටන් වරායේ සිට නිව්යෝර්ක් බලා යාත්‍රා කරවීම ඔහුගේ සැලසුම වී තිබේ.
+Amazing the world is a billionaire to produce the same vessel, a billionaire.
 
-තට්ටු නවයකින් යුත් නෞකාව ඉදිකිරීමට ඔස්ට්‍රේලියානු ඩොලර් මිලියන 500 ත් බිලියනයත් අතර මුදලක් වැයකිරීමට නියමිතය.
+Nearly 10 years ago, this unique ship began to recover.
 
-මගීන් 2,345කට ගමන් කළ හැකි මෙම නෞකාවේ මංගල ගමන සඳහා පළමු පන්තියේ මැදිරිවලින් අඩක්ම මේ වන විටත් අලෙවි වීම විශේෂත්වයකි.
+The ship was the design of New York from the Port of Sadalampton, who traveled to Titanic.
+
+The cost of nine-story ship is to be spent between $ 500 million and a sum of Rs.
+
+Half of the first class of the first class of the first class of the ship, which can travel to 2,345 passengers, is now being sold.
 
 ◼️
 
 [Data](articles/aabd2075.json)
+
+[Extended Data](ext_articles/aabd2075.ext.json)
 
 ---
 
@@ -2231,103 +2299,5 @@ The inauguration ceremony was held at the Pallepola Mallevana Raja Maha Viharaya
 [Data](articles/2991db69.json)
 
 [Extended Data](ext_articles/2991db69.ext.json)
-
----
-
-### Sri Lankan student in court murder
-
-*2024-03-14 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194499) · `si`
-
-Fibri de Zoysa, a Sri Lankan student, is accused of six first-degree murder charges in Canada. Six Sri Lankans were killed in a Canadian house. Fibri was arrested and charged. Google suspended a YouTube channel for conducting a 19-year-old Sri Lankan schoolgirl's training, following the tragic murder.
-
-🟩
-
-Sri Lankan student who was in custody killed in Canada and the police are to be produced before the Ottawa Court today (14).
-
-The Sri Lankan student named Fibri de Zoysa was produced before the court on Thursday, where he was officially accused of six first level murder accusations and accused of attempting.
-
-Six Sri Lankans were violently assassinated in the house of the house of Canada, Canada, and six members of the house was married in the house on Wednesday night.
-
-An 19-year-old Sri Lankan student of Sri Lankan student of the 19-year-old Sri Lankan student, Frerabrio de Zoysa, was arrested by the Ottawa police.
-
-The suspect was produced before the court on Thursday, where he was officially charged with official charges and accusations accused of murder.
-
-Fibri de Zoysa is to be produced before the Ottawa Court today.
-
-Meanwhile, Google has taken steps to suspend the youtube channel, who was conducting the 19-year-old Sri Lankan schoolgirl train.
-
-...
-
-[Data](articles/833d5496.json)
-
-[Extended Data](ext_articles/833d5496.ext.json)
-
----
-
-### Ottawa mass killing: Sri Lankan student to face lengthy legal battle; Google terminates suspect’s YouTube channel
-
-*2024-03-14 13:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/97946/ottawa-mass-killing-sri-lankan-student-to-face-lengthy-legal-battle-google-terminates-suspects-youtube-channel) · `en`
-
-The 19-year-old Sri Lankan student Febrio De-Zoysa, who was charged with the mass killing in Ottawa’s Barrhaven on March 06, is expected to produce before the court again today (March 14).
-
-De-Zoysa, who was living with the victims at the time, is currently housed in Ottawa’s Innes Road jail while facing six charges of first-degree murder and one count of attempted murder.
-
-Meanwhile, the 19-year-old was reportedly known for posting videos of the video game ‘Minecraft’ on YouTube, however, Google has taken steps to terminate the YouTube channel associated with the suspect citing that if a user’s off-platform behaviour harms the YouTube community, they may take action in accordance with YouTube’s creator responsibility guidelines.
-
-Foreign media reports claim that the case could take two to three years to work its way through the court system, according to criminal law experts.
-
-...
-
-[Data](articles/33e20412.json)
-
-[Extended Data](ext_articles/33e20412.ext.json)
-
----
-
-### Sri Lanka debt so high, recovered stolen assets won’t cover it: president
-
-*2024-03-14 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-so-high-recovered-stolen-assets-wont-cover-it-president-154619/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s debt is so high that even the world’s richest person would struggle to help out, President Ranil Wickremesinghe said, noting that recovering stolen assets from a few individuals would not cover the total accumulated debt.
-
-Wickremesinghe was responding to a question asked by an audience member at an event in Colombo on Wednesday March 13 who suggested that recovering stolen funds could significantly ease Sri Lanka’s debt burden.
-
-“Firstly, if you look at our debt, I don’t think we can do that even if we go to the richest person in the world. We have taken that much debt. If someone says you can take back the money that one or two persons took out of Sri Lanka and solve this, that is utterly false,” said Wickremesinghe.
-
-The audience member also alluded to assets allegedly stolen by the leadership of the previous administration.
-
-...
-
-[Data](articles/cd39bd50.json)
-
-[Extended Data](ext_articles/cd39bd50.ext.json)
-
----
-
-### Southern bank canal rehabilitates in Udawalawe Reservoir
-
-*2024-03-14 13:09:37* · [`adalk`](https://www.ada.lk/breaking_news/උඩවලව-ජලාශයේ-වලව-දකුණු-ඉවුර-ඇළ-පුනරුත්තාපනය-කරයි/11-408606) · `si`
-
-The Southern Bank Canal in Udawalawe Reservoir, Sri Lanka, is being rehabilitated after 50 years, with a budget of Rs. 157 million from the International Development Fund. The project, initiated by the Minister of Irrigation, Wildlife and Forestry, involves renovating 16 km of the 50 km canal from Udawalawe to Angunakolapelessa, under the supervision of the Mahaweli Authority of Sri Lanka.
-
-🟩
-
-The main canal is rehabilitated after fifty years after the Udawalawe Reservoir to Angunakolapelessa through Embilipitiya.
-
-The project was started at the Chandrika Wewa River Division under the patronage of the Minister of Irrigation, Wildlife and Forestry Pavithra Wanniarachchi.
-
-The International Development Fund will be spent by the International Development Fund Rs. 157 million.
-
-The main canal runs from Udawalawe to Angunakolapelessa, about 50 km long. It plans to renovate 16 km from the second phase to Embilipitiya.
-
-The rehabilitation will be completed within a year, with Chandrika Wewa, Auratshana, Angunakolapelessa.
-
-Rehabilitation will be carried out with the full supervision of the Mahaweli Authority of Sri Lanka. In
-
-◼️
-
-[Data](articles/2543ee6f.json)
-
-[Extended Data](ext_articles/2543ee6f.ext.json)
 
 ---

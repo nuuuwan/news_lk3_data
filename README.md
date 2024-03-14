@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 07:16:15**
+As of **2024-03-14 07:31:18**
 
 ## Newspaper Stats
 
-*Scraped **12,755** Articles*
+*Scraped **12,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 680
 islandlk | 699
 adalk | 1,089
 adaderanalk | 1,534
-tamilmirrorlk | 1,553
+tamilmirrorlk | 1,554
 virakesarilk | 1,766
-dailymirrorlk | 1,948
-adaderanasinhalalk | 2,010
+dailymirrorlk | 1,949
+adaderanasinhalalk | 2,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,748 (99.9%) of 12,755 articles have been extended.
+12,748 (99.9%) of 12,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### IMF නියෝජිතයින් අද ජාතික ජන බලවේගය හමුවෙයි
+
+*2024-03-14 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194484) · `si`
+
+දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අද (14) දින හමුවීමට බලාපොරොත්තු වන බව ජාතික ජන බලවේගය පවසයි.
+
+එහි ආර්ථික කවුන්සිලයේ සාමාජික සුනිල් හඳුන්නෙත්ති මහතා පැවසුවේ අද පෙරවරු 10.00ට එම හමුව සිදුවනු ඇති බවය.
+
+ආණ්ඩුව විසින් ජනතාව මත පටවා ඇති ආර්ථික පීඩනය සම්බන්ධයෙන් එහිදි අවධානය යොමුකිරීමට කටයුතු කරන බව සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේය.
+
+මේ අතර යෝජිත රාජ්‍ය නොවන සංවිධාන ලියාපදිංචි කිරීමේ සහ අධීක්ෂණ පනත් කෙටුම්පත ඉවත දමන ලෙසත් ඔන්ලයින් ආරක්ෂණ පනතට තහනමක් පනවන ලෙසත් ශ්‍රී ලංකා රජයෙන් ඉල්ලීමක් කරන ලෙස හියුමන් රයිට්ස් වොච් සංවිධානය ජාත්‍යන්තර මුල්‍ය අරමුදලට දැනුම් දී තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල වෙත ලිපියක් යොමුකරමින් හියුමන් රයිට්ස් වොච් සංවිධානය පෙන්වාදෙන්නේ මානව හිමිකම් ප්‍රමිතීන්ට ගරු කරන බව සහතික කිරීම සඳහා ත්‍රස්ත විරෝධී පනත් කෙටුම්පත සංශෝධනය කරන ලෙසට ද ශ්‍රී ලංකා රජයෙන් ඉල්ලීමක් කළ යුතු බවය.
+
+...
+
+[Data](articles/22330224.json)
+
+---
+
+### Indian High Commissioner meets Basil
+
+*2024-03-14 07:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-meets-Basil/108-278823) · `en`
+
+High Commissioner of India to Sri Lanka met former Finance Minister and Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa yesterday.
+
+During the discussion, they exchanged views on bilateral relations, political developments and other subjects of mutual interest.
+
+◼️
+
+[Data](articles/42b7bf5e.json)
+
+---
+
+### දකුණේ පාතාලය මඩින්න පොලිස්පතිගෙන් විශේෂ සැලසුමක්
+
+*2024-03-14 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194483) · `si`
+
+දකුණු පළාතේ පසුගිය දිනවල සිදුවු අපරාධ යළිත් සිදුනොවන ලෙසට අවශ්‍ය සියලු ක්‍රියාමාර්ග ගන්නා ලෙස පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා උපදෙස් ලබා දී තිබේ.
+
+පළාත්භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා සහ පොලිස් විශේෂ කාර්යය බළකා නිලධාරීන්ට අදාළ උපදෙස් ලබා දී ඇති බව වාර්තා වේ.
+
+ගාල්ල සහ ඇල්පිටිය පොලිස් කොට්ඨාශවල පසුගිය දිනවල සිදුවු වෙඩි තැබීමේ සිදුවීම් සම්බන්ධයෙන් සොයා බැලීම සඳහා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අදාළ ප්‍රදේශවල ඊයේ (13) සංචාරයක නිරත වු අතර අනතුරුව කොස්ගොඩ පොලිස් ස්ථානයේදී ගාල්ල සහ ඇල්පිටිය කොට්ඨාශවල ජ්‍යේෂ්ඨ පොලිස් නිලධාරීන් කැඳවා සාකච්ඡාවක් ද පවත්වනු ලැබීය.
+
+එහිදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව, අපරාධ වාර්තා කොට්ඨාශය, කොළඹ අපරාධ කොට්ඨාශය, ප්‍රජා පොලිස් කොට්ඨාශය, පොලිස් විශේෂ කාර්යය බළකාය හා බුද්ධි අංශ ඇතුළු සියලු නිලධාරීන් කැඳවා මෙම අපරාධ විසඳීමේ දී එකිනෙක සම්බන්ධීකරණය වීම, තොරතුරු හුවමාරු කරගැනීම හා නිලධාරින් කටයුතු කළ යුතු ආකාරය පිළිබඳව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් නියෝග ලබා දී ඇති බව වාර්තා වේ.
+
+...
+
+[Data](articles/832721a8.json)
+
+---
 
 ### Canada to strengthen mental health safeguards
 
@@ -45,6 +97,22 @@ The incident has triggered fears in the minds of Sri Lankans whether Canada will
 ...
 
 [Data](articles/9a1375f9.json)
+
+---
+
+### බස්නාහිර ඇතුළු පළාත් කිහිපයකට තැන තැන වැසි
+
+*2024-03-14 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194481) · `si`
+
+බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල, මාතර සහ අනුරාධපුර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/1305206e.json)
 
 ---
 
@@ -223,6 +291,20 @@ Addressing a press conference yesterday, SLUNBA Chairperson Tania Abeysundara sa
 ...
 
 [Data](articles/0df51385.json)
+
+---
+
+### காலியில் சுற்றுலா துறைமுகம்
+
+*2024-03-14 03:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-சுற்றுலா-துறைமுகம்/175-334638) · `ta`
+
+துறைமுகத்தை மேம்படுத்துவதற்கு பொருத்தமான முதலீட்டாளர் ஒருவரை தெரிவு செய்யவுள்ளோம் என துறைமுகங்கள், கப்பல் போக்குவரத்து மற்றும் விமான சேவைகள் அமைச்சின் செயலாளர் ருவன் சந்திர தெரிவித்துள்ளார்.
+
+சுற்றுலாப் பயணிகளை ஏற்றிச்செல்லும் கப்பல்கள் மற்றும் படகுகள் வருகை தரும் வகையில் துறைமுகம் மேம்படுத்தப்படும் என்றும் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/7e7029e5.json)
 
 ---
 
@@ -754,7 +836,7 @@ The Senior Deputy Inspector General of the Southern Province, the Galle DIG and 
 
 *2024-03-13 21:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deputy-Director-of-Medical-Supplies-Division-arrested/108-278795) · `en`
 
-Colombo, March 13 (daily Mirror)- Deputy Director of the Medical Supplies Division Dr. Thusitha Sudarshana has been arrested by the Crimial Investigation Department (CID).
+Colombo, March 13 (daily Mirror)- Deputy Director of the Medical Supplies Division Dr. Thusitha Sudarshana has been arrested by the Criminal Investigation Department (CID).
 
 He has been arrested by the CID after recording a statement in connection with the import of substandard human Immunoglobulin injections.
 
@@ -2167,107 +2249,5 @@ The petition stated that the appointment of Patriot Thenkoon is illegal, arbitra
 [Data](articles/29aef43d.json)
 
 [Extended Data](ext_articles/29aef43d.ext.json)
-
----
-
-### AI to be included to ICT curriculum from Grade 08
-
-*2024-03-13 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97925/ai-to-be-included-to-ict-curriculum-from-grade-08) · `en`
-
-Measures have been taken to revise the current Information and Communication Technology (ICT) curriculum in Sri Lanka’s schools for students from Grade 08 onwards.
-
-Accordingly, the subject of Artificial Intelligence (AI) will be introduced into the prevailing ICT curriculum for the students of aforesaid grades in schools, Minister of Education Susil Premajayantha said.
-
-The pilot project for launching the new curriculum will commence on March 19, with the participation of 17 schools.
-
-Premajayantha assured that Microsoft Corporation has joined hands with the Ministry of Education in order to provide the relevant subject knowledge for Sri Lankan students according international standards.
-
-The Education Minister expressed these views while joining the commemoration event held to mark the 100th anniversary of the Girls’ High School, Mount Lavinia.
-
-◼️
-
-[Data](articles/c3559f58.json)
-
-[Extended Data](ext_articles/c3559f58.ext.json)
-
----
-
-### Chinese woman who left her child with Sri Lankan nanny arrested at BIA
-
-*2024-03-13 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinese-woman-who-left-her-child-with-Sri-Lankan-nanny-arrested-at-BIA/108-278782) · `en`
-
-Katunayake, March 13 (Daily Mirror)- A Chinese woman who attempted to leave her younger daughter aged three and half with her Sri Lankan nanny and flee from the country was arrested at the Katunayake International Airport by the Airport Police last night when she was about to board the plane.
-
-Investigations revealed that the 35 year-old Chinese woman had been living with her mother and two daughters in a rented house in Dubai and earned her living as a dancer in night clubs.
-
-The Sri Lankan nanny employed by her to look after the younger daughter was a 53 year-old woman from Potuhera in Kurunegala. She had returned to the country recently after the expiry of her visa, but the little child who loved her more than the mother was taken ill after separating from her and could not be consoled.
-
-...
-
-[Data](articles/cf325041.json)
-
-[Extended Data](ext_articles/cf325041.ext.json)
-
----
-
-### Minister warns of imposing price control on eggs
-
-*2024-03-13 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-warns-of-imposing-price-control-on-eggs/108-278781) · `en`
-
-Colombo, March 13 (Daily Mirror) - In a bid to provide eggs at a reasonable price ahead of the upcoming festive season, Agriculture Minister Mahinda Amaraweera said a controlled price will be imposed in light of soaring prices.
-
-This was raised during a discussion held between the Agriculture Minister and representatives of the All Ceylon Egg Producers' Association today (13).
-
-During the discussion, the existing prices of eggs were taken into consideration, highlighting the need to further bring down the prices, which is currently at Rs. 48.
-
-Egg producers also expressed their willingness to reduce the prices as they have already noticed a downward trend in the price.
-
-However, the Minister asserted that a controlled price would be imposed if the egg producers failed to reduce prices.
-
-◼️
-
-[Data](articles/778afb4e.json)
-
-[Extended Data](ext_articles/778afb4e.ext.json)
-
----
-
-### Canadian High Commissioner - Anuragumara Meeting
-
-*2024-03-13 15:23:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கனேடிய-உயர்ஸ்தானிகர்-அநுரகுமார-சந்திப்பு/175-334613) · `ta`
-
-Canadian High Commissioner Eric Walsh met with National People's Power Leader Anura Kumara Dissanayake to discuss Sri Lanka's social, economic, and political conditions, as well as the National People's Power's projects for national reconciliation.
-
-🟩
-
-Canadian High Commissioner Eric Walsh met with National People's Power Leader Anura Kumara Dissanayake at the JVP headquarters today.
-
-The focus was on Sri Lanka's current social, economic and political conditions.
-
-The projects of the National People's Power have also been discussed to uphold national reconciliation.
-
-◼️
-
-[Data](articles/ad013ed8.json)
-
-[Extended Data](ext_articles/ad013ed8.ext.json)
-
----
-
-### S. Korea assures more higher education opportunities to Sri Lankan students
-
-*2024-03-13 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/97924/s-korea-assures-more-higher-education-opportunities-to-sri-lankan-students) · `en`
-
-The Ambassador of South Korea, Miyon Lee who met the Speaker of the Parliament Mahinda Yapa Abeywardana recently in Parliament, stated that she hopes to provide more opportunities for Sri Lankan students to pursue higher education in South Korea.
-
-Furthermore, a Korean education exhibition is planned to be held this June with the support of the Ministry of Education and the universities in Sri Lanka, the South Korean envoy assured.
-
-The State Minister of Education A. Aravindh Kumar mentioned during the meeting that it is necessary to increase teaching Korean language in schools in Sri Lanka and requested to be provided with the necessary support required for this. The Ambassador asserted that the necessary support would be provided in the future, the Parliamentary Communications Department said in a statement.
-
-...
-
-[Data](articles/bab97670.json)
-
-[Extended Data](ext_articles/bab97670.ext.json)
 
 ---

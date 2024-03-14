@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 19:51:02**
+As of **2024-03-14 20:05:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,931 (99.9%) of 12,939 articles have been extended.
+12,939 (100.0%) of 12,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,37 +50,55 @@ Young and tech-savvy victims are often lured into running these illegal operatio
 
 [Data](articles/d113ea23.json)
 
+[Extended Data](ext_articles/d113ea23.ext.json)
+
 ---
 
-### கெஹலிய ரம்புக்வெல்லவுக்கு மீண்டும் விளக்கமறியல்!
+### Re -explanation for Keheliya Rambukwella!
 
 *2024-03-14 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178751) · `ta`
 
-தரமற்ற ஊசி மருந்துகளை இறக்குமதி செய்ததாக குற்றம் சாட்டப்பட்ட முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல, முன்னாள் அமைச்சின் செயலாளர் மற்றும் நால்வரின் பிணை மனுவை மாளிகாகந்த நீதிவான் நீதிமன்றம் மீண்டும் நிராகரித்துள்ளது.
+Keheliya Rambukwella, former Health Minister, accused of importing substandard injections, rejects bail plea of former secretary and remands case under Public Property Act.
 
-மேலும், பொதுச் சொத்துச் சட்ட விதிகளின் கீழ் வழக்கு முடியும்வரை அவர்களை விளக்கமறியலில் வைக்க உத்தரவிட்ட நீதிவான் வழக்கு மீண்டும் மார்ச் 28ஆம் விசாரணைக்கு எடுக்கப்படும் எனவும் தெரிவித்தார்.
+🟩
+
+Former Health Minister Keheliya Rambukwella, who has been accused of importing substandard injections, has rejected the bail plea of the former secretary of the former Ministry and four.
+
+He also said that the judicial case ordered to be remanded until the case was completed under the Public Property Act.
 
 ◼️
 
 [Data](articles/f22eb4c8.json)
 
+[Extended Data](ext_articles/f22eb4c8.ext.json)
+
 ---
 
-### “30 நாட்களுக்குள் சம்பள உயர்வு கிடைக்கப்பெறும்” ஜீவன்
+### “Salary increase within 30 days” Jeevan
 
 *2024-03-14 19:29:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/30-நாட்களுக்குள்-சம்பள-உயர்வு-கிடைக்கப்பெறும்-ஜீவன்/76-334677) · `ta`
 
-மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு எதிர்வரும் 30 நாட்களுக்குள் சம்பள உயர்வு கிடைக்கப்பெறும். நாட்சம்பளமாக ஆயிரத்து 700 ரூபாவை பெறமுடியும் என்று இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman, CWC General Secretary, announced a Rs. 1000 pay hike for plantation workers within 30 days. He also highlighted efforts to recognize Tamil national identity in the census and criticized political accusations of favoritism in housing schemes.
 
-அத்துடன், மலையக தமிழர்கள் தமது தேசிய அடையாளத்தை சனத்தொகை கணக்கெடுப்பின்போது மலையகத் தமிழர் என வெளிப்படுத்துவதற்கான ஏற்பாட்டை உள்வாங்குவதற்கு ஜனாதிபதி இணக்கம் தெரிவித்துள்ளார் எனவும் அமைச்சர் கூறினார்.
+🟩
 
-தலவாக்கலை ஒலிரூட் தோட்டத்தில் தீயினால் பாதிக்கப்பட்டு தற்காலிக குடில்களில் வசித்த குடும்பங்களுக்கு, குடிநீர், மின்சாரம், உட்கட்டமைப்பு உட்பட சகல வசதிகளுடன் கூடிய தனி வீடுகள், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சரும், இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளருமான ஜீவன் தொண்டமானால் இன்று (14.03.2024) வழங்கி வைக்கப்பட்டன.
+Hill plantation workers will get a pay hike within the next 30 days. Jeevan Thondaman, General Secretary of the CWC and Minister of Water Supply and Estate Infrastructure Development, said that a thousand rupees can be obtained for Rs.
 
-இந்நிகழ்வில் பிரதம அதிதியாக கலந்துக் கொண்டு உரையாற்றிய அவர் மேலும் கூறியவை வருமாறு,
+The Minister also said that the President has agreed to take up the arrangement to reveal their national identity as the Tamil people during the census.
+
+Jeevan Thondamal, the Minister of Development and General Secretary of the Ceylon Workers Congress, has been provided with all the amenities, including drinking water, electricity and infrastructure, and the general secretary of the Ceylon Workers Congress.
+
+Addressing the gathering as the chief guest at the event, he added.
+
+“We have stressed that it is difficult to get a thousand rupees.. They said we lied on that day. But what's going on today?
+
+Whatever the case, you get a thousand 700 rupees within the next 30 days. But our goal is a permanent solution mechanism.
 
 ...
 
 [Data](articles/085d67de.json)
+
+[Extended Data](ext_articles/085d67de.ext.json)
 
 ---
 
@@ -101,6 +119,8 @@ In 2022, Parliament successfully submitted 29 new bills, followed by an impressi
 ...
 
 [Data](articles/f7c7c39f.json)
+
+[Extended Data](ext_articles/f7c7c39f.ext.json)
 
 ---
 
@@ -194,6 +214,8 @@ They also said that steps have been taken to prevent any impact on the power sup
 
 [Data](articles/08634678.json)
 
+[Extended Data](ext_articles/08634678.ext.json)
+
 ---
 
 ### United Petroleum of Australia to start Sri Lanka operations by mid this year
@@ -214,21 +236,27 @@ Sri Lanka last year awarded retail fuel licenses to three foreign firms – Chin
 
 ---
 
-### මාලිමාව හා අයි.එම්.එෆ්. අතර හමුවක් ෂැංග්‍රීලා හෝටලයේදී
+### Company and IMF. Meeting at Shanghrila Hotel
 
 *2024-03-14 18:56:45* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-හා-අයි-එම්-එෆ්--අතර-හමුවක්-ෂැංග්‍රීලා-හෝටලයේදී/11-408619) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාවේ මෙහෙයුම් ප්‍රධානී පීටර් බෘෘවර් ඇතුළු කණ්ඩායමක් සහ ජාතික ජන බලවේගයේ නියෝජිතයන් අතර සාකච්ඡාවක් අද (14) පෙරවරුවේ කොළඹ ශ්‍රැංගිලා හෝටලයේදී පැවැත්විණි.
+Sri Lanka's operations heads, including MP Peter Broover and representatives of the National Power, met at the Sriungila Hotel in Colombo to discuss restructuring progress and corruption. Peter Broover, representing the IMF, and other IMF officials were present. Professors and doctors from Sri Lanka also attended.
 
-මෙම හමුවේදී ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගතකරණයේ සහ වංචා දූෂණ වැළැක්වීමට අදාළ ක්‍රියාවලීන්හි ප්‍රගතිය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා වු  අතර ජනතාවට මෙතෙක් ලබා දී නොමැති තාක්ෂණ සහායක වාර්තාව පිළිබඳවද ජාතික ජන බලවේගයේ නියෝජිතයින්  විමසීම් සිදු කර තිබේ.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල නියෝජනය කරමින් පීටර් බෲවර් මහතාට අමතරව ජාත්‍යන්තර මුල්‍ය අරමුදලේ නියෝජ්‍ය නේවාසික නියෝජිත සර්වත් ජහාන් සහ කැට්සියරිනා ස්විඩ්සෙන්කා  Katsiaryna Svieydzenka සහ මානවී අබේවික්‍රම යන මහත්මීහුද සාකච්ඡාවට එක්ව සිටියහ.
+Sri Lanka's operations heads, head of Sri Lanka's operations, MP Peter Broover and representatives of the National Power were held at the Sriungila Hotel in Colombo.
 
-මේ හමුව සඳහා ජාතික ජන බලවේගය නියෝජනය කරමින් ජාතික විධායක සභික පාර්ලිමේන්තු මන්ත්‍රී  විජිත හේරත්, ජාතික විධායක සභික මුදිත නානායක්කාර සහ ආර්ථික කවුන්සිලයේ සාමාජිකයින් වන මහාචාර්ය අනිල් ජයන්ත, මහාචාර්ය සීතා බණ්ඩාර, ආචාර්ය හර්ෂණ සූරියප්පෙරුම සහ සුනිල් හඳුන්නෙත්ති යන  මහත්ම මහත්මිහු සහභාගි වූහ..
+In this meeting, Sri Lankan dealers discussed progress on the progress of the restructuring and corruption of corruption and the delegates of the national propancies have been inquired about the technical assistant report.
+
+In addition to Peter Brewer representing the International Monetary Fund, Petor Brewer, the International Monetary Fund Skark, Swark, Katsiaryna Sviewka and Hygie Abeywickrama were also present.
+
+Prof. Anil Jayanthi, Professor, Seetha Bandara, Dr. Shadap Bandara and Sunil Handunnetuma and Dr. Harshana Soiyapperuma and Sunil Handunnetti were present.
 
 ◼️
 
 [Data](articles/16ed222a.json)
+
+[Extended Data](ext_articles/16ed222a.ext.json)
 
 ---
 
@@ -527,6 +555,8 @@ Colombo, March 14 (Daily Mirror) -  The Maligakanda Magistrate’s Court today 
 ◼️
 
 [Data](articles/1b8df8c2.json)
+
+[Extended Data](ext_articles/1b8df8c2.ext.json)
 
 ---
 
@@ -2060,25 +2090,31 @@ The audience member also alluded to assets allegedly stolen by the leadership of
 
 ---
 
-### උඩවලව ජලාශයේ වලව දකුණු ඉවුර ඇළ පුනරුත්තාපනය කරයි
+### Southern bank canal rehabilitates in Udawalawe Reservoir
 
 *2024-03-14 13:09:37* · [`adalk`](https://www.ada.lk/breaking_news/උඩවලව-ජලාශයේ-වලව-දකුණු-ඉවුර-ඇළ-පුනරුත්තාපනය-කරයි/11-408606) · `si`
 
-උඩවලව ජලාශයේ  සිට ඇඹිලිපිටිය  හරහා අගුණකොළපැලැස්ස  දක්වා වන, වලව දකුණු ඉවුර ප්‍රධාන ඇළ, වසර  පනහකට පසු  පුනරුත්ථාපනය කෙරේ.
+The Southern Bank Canal in Udawalawe Reservoir, Sri Lanka, is being rehabilitated after 50 years, with a budget of Rs. 157 million from the International Development Fund. The project, initiated by the Minister of Irrigation, Wildlife and Forestry, involves renovating 16 km of the 50 km canal from Udawalawe to Angunakolapelessa, under the supervision of the Mahaweli Authority of Sri Lanka.
 
-වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ගේ ප්‍රධානත්වයෙන් පසුගියදා (12)  චන්ද්‍රිකා වැව  ගඟේයාය කොට්ඨාසයේ දී  මෙම  ව්‍යාපෘතිය ආරම්භ කරනු ලැබුවාය.
+🟩
 
-ලෝක බැංකුවේ ජාත්‍යන්තර සංවර්ධන අරමුදල මඟින් හිමිවන  රුපියල් මිලියන 157 ක්  ව්‍යාපෘතිය සඳහා වැය කෙරේ.
+The main canal is rehabilitated after fifty years after the Udawalawe Reservoir to Angunakolapelessa through Embilipitiya.
 
-උඩවලව සිට  අගුණකොළපැලැස්ස  දක්වා  දිවෙන මෙම  ප්‍රධාන  ඇළ මාර්ගය  දිගින් කිලෝමීටර් 50 ක් පමණ වේ. එයින් ඇඹිලිපිටිය  දක්වා  කිලෝමීටර්  16 ක්  මෙලෙස, දෙවන අදියර යටතේ  ප්‍රතිසංස්කරණය  කිරීම ට  සැලසුම් කර තිබේ.
+The project was started at the Chandrika Wewa River Division under the patronage of the Minister of Irrigation, Wildlife and Forestry Pavithra Wanniarachchi.
 
-වසරක් ඇතුළත  පුනරුත්ථාපන කටයුතු අවසන් කිරීමට නියමිත අතර මේ මඟින් චන්ද්‍රිකා වැව, මුරවැසිහේන, අගුණකොළපැලැස්ස යන මහවැලි  කොට්ඨාස  තුන ආවරණය  කරමින් හෙක්ටයාර් 12000 ක් සඳහා  යල මහ දෙකන්නයේ ම ජලය සැපයීමට හැකියාව ලැබේ.
+The International Development Fund will be spent by the International Development Fund Rs. 157 million.
 
-පුනරුත්ථාපන කටයුතු ශ්‍රී ලංකා මහවැලි අධිකාරියේ  පූර්ණ අධීක්ෂණය මත  සිදුකෙරේ. ව
+The main canal runs from Udawalawe to Angunakolapelessa, about 50 km long. It plans to renovate 16 km from the second phase to Embilipitiya.
+
+The rehabilitation will be completed within a year, with Chandrika Wewa, Auratshana, Angunakolapelessa.
+
+Rehabilitation will be carried out with the full supervision of the Mahaweli Authority of Sri Lanka. In
 
 ◼️
 
 [Data](articles/2543ee6f.json)
+
+[Extended Data](ext_articles/2543ee6f.ext.json)
 
 ---
 

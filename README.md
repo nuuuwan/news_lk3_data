@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 07:53:59**
+As of **2024-03-14 08:17:40**
 
 ## Newspaper Stats
 
-*Scraped **12,764** Articles*
+*Scraped **12,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,92 @@ adalk | 1,090
 adaderanalk | 1,536
 tamilmirrorlk | 1,554
 virakesarilk | 1,766
-dailymirrorlk | 1,949
-adaderanasinhalalk | 2,014
+dailymirrorlk | 1,950
+adaderanasinhalalk | 2,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,758 (100.0%) of 12,764 articles have been extended.
+12,765 (100.0%) of 12,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### අද සිට දුම්රිය ආසන වෙන්කිරීම ඔන්ලයින් ක්‍රමයට පමණයි
+### Tuber patients report up by 14 percent
 
-*2024-03-14 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194485) · `si`
+*2024-03-14 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194486) · `si`
 
-අද (14) දිනයේ සිට දුම්රිය ආසන වෙන්කිරීම සම්පුර්ණයෙන්ම මාර්ගගත ක්‍රමය ඔස්සේ සිදුකළ හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Tuberculosis cases in Sri Lanka have risen by 14%, according to Tuba Disease Control and Fraud Disease. Dr. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Kader, a Community Health Specialist, emphasizes free identification tests and treatment across districts, aiming to eliminate the disease by 2035.
 
-ඒ අනුව අද රාත්‍රී 7 සිට මාර්ගගත ක්‍රමය ඔස්සේ දුම්රිය ආසන වෙන් කිරීම සිදුකළ හැකි බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-ආසන වෙන් කිරීමේ දී මේ දක්වා 40%ක ප්‍රතිශතයක් පමණක් මාර්ගගත ක්‍රමය ඔස්සේ සිදුකිරීමට අවස්ථාව සලසා දී තිබු අතර අද සිට එය සම්පුර්ණයෙන්ම මාර්ගගත ක්‍රමය ඔස්සේ පමණක් සිදුවනු ඇත.
+Tuberculosis cases have increased by 14 percent in Sri Lanka, says Tuba Disease Control and Fraud Disease.
 
-මාර්ගගත ක්‍රමය ඔස්සේ ආසන වෙන් කිරීමෙන් පසු දුම්රිය ස්ථානයට පැමිණ ප්‍රවේශ පත්‍රයක් ලබාගැනීමට මගීන්ට පෙර සිදුවුවද අද සිට ආසන වෙන් කිරීමේ පත්‍රිකාවේ ඡායාරූපයක් සන්තකයේ තබාගැනීම පමණක් ප්‍රමාණවත් බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+Community Health Specialist Dr. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Palindt Patients.
 
-මීට අමතරව රාජ්‍ය සේවකයින් සඳහා හිමිවන නිදහස් බලපත්‍රය වෙන් කිරීමේ අවස්ථාවද මාර්ගත ක්‍රමය ඔස්සේ සිදුකිරීමට දුම්රිය දෙපාර්තමේන්තුව අවස්ථාව සලසා දී තිබේ.
+Speaking at a media brief in the Health Promotion Bureau, Dr. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Ms. Kader.
 
-ඒ සඳහා කිසිදු අය කිරීමක් සිදුකිරීමට තීරණය කර නොමැති අතර එලෙස මුදල් අය කිරීමක් සිදුවන බවට සිදුවන ප්‍රචාර අසත්‍යය බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+"We are taking free identification test and treatment for this disease.. Especially in every district, there are clinics clinics. Also, he has provided all the necessary facilities for treatment. And by 2035, the necessary arrangements are scheduled to eliminate the disease. We need to reduce patients by 90% to eliminate the need, and the death number should be reduced by 95%. It also expects to reduce the cost of a tuberculosis. "
+
+◼️
+
+[Data](articles/17e03474.json)
+
+[Extended Data](ext_articles/17e03474.ext.json)
+
+---
+
+### After deal went sour between Excise and liquor manufacturers: Harsha De Silva
+
+*2024-03-14 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-deal-went-sour-between-Excise-and-liquor-manufacturers-Harsha-De-Silva/108-278818) · `en`
+
+Colombo, March 14 (Daily Mirror) - The series of raids made in the North and East over the weekend to seize a large stock of liquor bottles with forged security stickers was over a deal that went sour between the Excise and liquor manufacturers, Opposition MP Harsha de Silva said.
+
+Samagi Jana Balawegaya Parliamentarian Dr. Harsha de Silva addressing the media said yesterday that a dispute in a payment between certain Excise officials and some liquor manufacturers had led to the raids.
+
+He said that neither the information related to the raids made in the North and East nor the suspects arrested in the cases were revealed by the Excise, as the detections were made to pressure the errant liquor manufacturers and to demand money to settle it afterwards.
+
+“We will never let this kind of thing to happen in the future and will not let these errant manufacturers come into a settlement by paying bribes to Excise officials,” Dr. De Silva said.
 
 ...
 
+[Data](articles/f0bfaaef.json)
+
+---
+
+### Railway seat reservation from today is only for online
+
+*2024-03-14 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194485) · `si`
+
+The Railway Department has fully implemented online seat reservations starting today. Seats can be reserved from 7 pm. A photo of the seat separating leaf is required for a ticket. Public servants can get a free license. No charges are decided. A new train, "Dunhinda Odi," is introduced to promote tourism, adding to the two previously introduced trains.
+
+🟩
+
+The Railway Department says that the railway seat reservation can be fully implemented from today (14).
+
+Accordingly, railway seats can be reserved on the online system from 7 pm today.
+
+The seat reservations have been made to take place on the online system, and today it will only be fully online.
+
+The Department of Railways said that it is sufficient to have a photo of the seat separating leaf to get a ticket before the online system.
+
+In addition, the Railway Department has given the opportunity to separate the free license to be allocated for public servants.
+
+The Railway Department states that no charge has been decided to do so.
+
+Meanwhile, the Railway Department says that a new train named "Dunhinda Odi 'is introduced to promote the tourism industry.
+
+The trains will be added from Colombo Fort to Badulla to Badulla.
+
+Previously, two trains have been introduced to develop the tourism industry by the train.
+
+◼️
+
 [Data](articles/9bf01efd.json)
+
+[Extended Data](ext_articles/9bf01efd.ext.json)
 
 ---
 
@@ -69,6 +123,8 @@ Underscoring the need to find new avenues to further improve trade and investmen
 ...
 
 [Data](articles/4211bc11.json)
+
+[Extended Data](ext_articles/4211bc11.ext.json)
 
 ---
 
@@ -157,6 +213,8 @@ Mainly fair weather will prevail in the sea areas around the island, the Meteoro
 ◼️
 
 [Data](articles/3aa6b956.json)
+
+[Extended Data](ext_articles/3aa6b956.ext.json)
 
 ---
 
@@ -1228,19 +1286,27 @@ The highest temperature in the last 24 hours, the highest temperature was 37.9 d
 
 ---
 
-### වරාය නගරයේ තීරු බදු රහිත සාප්පු සංකීර්ණයේ නීති ගැන පාර්ශව දෙකක් ගැටෙයි
+### Two parties collide at the laws of the duty-free shopping mall
 
 *2024-03-13 19:15:11* · [`adalk`](https://www.ada.lk/breaking_news/වරාය-නගරයේ-තීරු-බදු-රහිත-සාප්පු-සංකීර්ණයේ-නීති-ගැන-පාර්ශව-දෙකක්-ගැටෙයි/11-408596) · `si`
 
-කොළඹ වරාය නගරයේ ස්ථාපිත කිරීමට නියමිත තීරු බදු රහිත සාප්පු සංකීර්ණයකට අදාළව නීති සෑදීමේදී  නීතිපතිවරයාගේ මතය සහ කොමිෂන් සභාවේ මතය එකිනෙකට වෙනස් බැවින් ඒ සම්බන්ධ එක් තීරණයකට පැමිණීම සදහා කඩිනමින් මැදිහත්වන ලෙස රජයේ මුදල් පිළිබඳ කාරක සභාව ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශ ලේකම්වරයාට දැනුම් දුන්නේය.
+The Committee on Finance Promotion discussed the Colombo Port City's establishment, with the Acting Secretary of the Ministry of Investment Promotion submitting new regulations for a tax-free shopping complex. The Attorney General's opinion was challenged, and the Commission's power to resonate was questioned. The committee also addressed the impact of the purchasing process on the duty-free shopping mall and the tax implications. The Commissioner Chairman suggested the Cime on the Installation of the Trimming Shopping Mall as a significant development. The Chairman of the Committees criticized the Economic Commission's attendance and proposed that all members and commissions should participate in discussions. The committee also discussed the appointment of a permanent Director General and the need for legalizing the temporary permit process.
 
-පාර්ලිමේන්තු මන්ත්‍රී ගරු ආචාර්ය හර්ෂ ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව ඊයේ (12) රැස්වූ අවස්ථාවේදී  තීරු බදු රහිත සාප්පු සංකීර්ණයක් ස්ථාපිත කිරීම  සදහා වරාය නගරය ආර්ථික කොමිෂන් සභාව සතු නෛතික බලය පිළිබඳව ද අවධානය යොමුවූ අතර එහිදි මෙම දැනුම්දීම සිදුකරන ලදී.
+🟩
 
-තීරු බදු රහිත සාප්පු සංකීර්ණයකට අදාල නව රෙගුලාසි අනුමතිය සදහා කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇති බව ද ආයෝජන ප්‍රවර්ධන අමාත්‍යාංශයේ වැඩබලන ලේකම් අනෝජා හේරත් මහත්මිය  පැවසීය. තීරු බදු රහිත භාණ්ඩ ඩොලර් 5000ක් දක්වා නියම කිරීමට කොමිෂන් සභාවට බලය නැති බව  නීතිපතිවරයා විසින් දන්වා ඇති බව ද කාරක සභා සභාපතිවරයා මෙහිදී පැවසීය.
+The Committee on Finance Promotion was informed of the Secretary to the Ministry to reach out to a decision to be established in relation to the establishment of the Colombo Port City.
+
+When the Committee on Finance Member of Parliament (MP) was chaired by Hon.
+
+Acting Secretary of the Ministry of Investment Promotion (Acting Secretary) said that the new regulations had been submitted to the Cabinet for a tax free shopping complex.. The Attorney General has told the Commission that the Commission has not been able to specify up to $ 5,000.
+
+The Hon. Dr. Harsha de Silva has been told by a private legal authority to provide legal authority to the Finance Company of the Port City Commission by a private legal force of the Port Town.He said. It was also discussed that the Attorney General's opinion was wrong and that it was problematic and that the laws of legislation was problematic.
 
 ...
 
 [Data](articles/d9ac5207.json)
+
+[Extended Data](ext_articles/d9ac5207.ext.json)
 
 ---
 
@@ -2201,61 +2267,5 @@ At the same time, the judge ruled that the victim should be paid a compensation 
 [Data](articles/b4d07695.json)
 
 [Extended Data](ext_articles/b4d07695.ext.json)
-
----
-
-### Who won the final decision?
-
-*2024-03-13 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194461) · `si`
-
-Joe Biden won the Georgia primary, while Donald Trump won the Washington State Primary. Both are confirmed for the national conferences.
-
-🟩
-
-The party state elections will be held on the day to be held next November.
-
-The present president Joe Biden has won the Democotic parties candidate.
-
-He was able to win the Georgia primary election yesterday.
-
-And the Reprikan partitioning candidacy has won former President Donald Trump.
-
-It is because he is the prediction that he will win the Washington State Primary election.
-
-However, their candidate is officially confirmed in the national conferences of the national conferences.
-
-The 2019 Candidates who came to the US presidential election are eligible for the presidential election.
-
-◼️
-
-[Data](articles/acc12b1b.json)
-
-[Extended Data](ext_articles/acc12b1b.ext.json)
-
----
-
-### "Eggs will be imposed on prices"
-
-*2024-03-13 15:57:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைக்கு-விலைக்-கட்டுப்பாடு-விதிக்கப்படும்/175-334615) · `ta`
-
-Agriculture Minister Mahinda Amaraweera announced a price restriction on eggs to ensure fair pricing ahead of the festive season. Discussions with the All Ceylon Egg Producers Association highlighted the need for price reduction. Egg manufacturers also expressed their desire for price reduction. The Minister promised to implement a control price if producers fail to reduce prices.
-
-🟩
-
-Agriculture Minister Mahinda Amaraweera has said that the price restriction will be implemented in an effort to provide eggs at fair prices ahead of the festive season.
-
-The matter was made during a discussion held today (13) between the Agriculture Minister and representatives of the All Ceylon Egg Producers Association.
-
-During the discussion, existing egg prices were taken up for review and currently Rs.. Emphasized the need to further reduce the price of 48
-
-Egg manufacturers have also expressed their desire to reduce the price as they have already observed the price.
-
-However, the Minister promised that if the price of egg producers failed to reduce the price, the control price would be implemented.
-
-◼️
-
-[Data](articles/3a73cb84.json)
-
-[Extended Data](ext_articles/3a73cb84.ext.json)
 
 ---

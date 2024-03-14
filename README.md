@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 05:37:21**
+As of **2024-03-14 05:55:51**
 
 ## Newspaper Stats
 
-*Scraped **12,733** Articles*
+*Scraped **12,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 185
 newsfirstlk | 363
 dailyftlk | 660
 economynextcom | 680
-islandlk | 686
+islandlk | 699
 adalk | 1,089
 adaderanalk | 1,534
 tamilmirrorlk | 1,552
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,733 (100.0%) of 12,733 articles have been extended.
+12,733 (99.9%) of 12,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -395,6 +395,122 @@ Lahiru Kumara broke the partnership by removing Mahmudullah for 37, but Najmul a
 [Data](articles/015beb1d.json)
 
 [Extended Data](ext_articles/015beb1d.ext.json)
+
+---
+
+### Home remedies for Glowing Skin
+
+*2024-03-13 23:04:00* · [`islandlk`](http://island.lk/home-remedies-for-glowing-skin/) · `en`
+
+No doubt, we all love to have glowing skins, the ladies, especially, and with that in mind, this week I’ve decided to give them a choice.
+
+All the items mentioned are freely available, so let’s move into action….
+
+Take a few pieces of ripe papaya and, add one teaspoon of Sandalwood powder, and one teaspoon of honey. Mix these ingredients to get a paste-like consistency.
+
+Apply the paste all over the face and neck and leave it for 20 minutes. Rinse off with cool water. Repeat this once every week.
+
+Overall, this face pack acts as an anti-ageing and skin firming pack which helps you get a glowing skin.
+
+Apply pure honey evenly on a clear and damp face and massage it thoroughly for a few minutes. Then, wash it off with lukewarm water. Do this on every alternative day.
+
+Honey will reduce blemishes and make the skin soft and healthy
+
+...
+
+[Data](articles/a8828216.json)
+
+---
+
+### Calendar girl…
+
+*2024-03-13 23:02:00* · [`islandlk`](http://island.lk/calendar-girl/) · `en`
+
+Neil Sedaka’s big hit of the sixties, ‘Calendar Girl’, came to mind when I was told that Rozanne Diasz, and her senior colleagues, in the modelling scene, had worked on a project to bring out a calendar, featuring the senior models.
+
+According to Rozanne, the 2024 calendar was their very first attempt at doing something unique for the senior models.
+
+“It was a kind of a trial effort and the response that came our way was very encouraging and we now plan to make the calendar a reality for the year 2025 – as a desk and wall calendar.
+
+The 2024 effort features Rozanne herself, Dannielle Kerkoven, Geraldine D’ Rozario, Koshi Edirisuriya, Nilusha Fernando, Nilu Senanayake and Rozelle Sheril Plunkett.
+
+They are pictured in the respective months they celebrate their birthdays.
+
+“Since we did all this at short notice we didn’t get a birthday girl model for each month of the year, but it will be a totally different scene when we come out with our desk and wall calendar for 2025.”
+
+...
+
+[Data](articles/2aa72e74.json)
+
+---
+
+### “Sky-high Sundowns by Marina Square”
+
+*2024-03-13 22:37:00* · [`islandlk`](http://island.lk/sky-high-sundowns-by-marina-square/) · `en`
+
+Marina Square – Uptown Colombo announced the launch of “Sky-High Sundowns,” a series of exclusive investor forums aimed at exploring the dynamic real estate market of today and offering attendees a keen understanding of the pertinent factors at play in the current real estate investment landscape of the country.
+
+The series was launched against the backdrop of the stunning ocean, Colombo harbour and city skyline views that the development is privy to at an event recently. Through the interactive discussions, show-arounds, and expert insights facilitated, attendees were afforded the opportunity to gain invaluable perspective for investors looking to maximise their returns and mitigate risks while staying ahead of the curve in the ever-evolving real estate sector.
+
+...
+
+[Data](articles/c593ee85.json)
+
+---
+
+### Sheraton Colombo Hotel welcomes guests to a new era of hospitality
+
+*2024-03-13 22:34:00* · [`islandlk`](http://island.lk/sheraton-colombo-hotel-welcomes-guests-to-a-new-era-of-hospitality/) · `en`
+
+The stunning new Sheraton Colombo Hotel, part of Marriott Bonvoy’s portfolio of over 30 extraordinary brands opened its doors recently. Strategically situated in the central hub of Colombo’s business and shopping district, the new 320-room hotel boasts the brand’s signature warm hospitality amidst a beautifully designed property. With over two decades as an experienced hospitality professional with a passion for operational excellence and guest engagement, Sheraton Colombo Hotel General Manager Rahul Maini shares insights into the hotel’s signature experiences and commitment to providing superior hospitality.
+
+Q: What inspired Colombo as the location of the new Sheraton Hotel, and how does it contribute to the overall guest experience?
+
+...
+
+[Data](articles/a43eaf58.json)
+
+---
+
+### National planning symposium to explore insights and challenges for a promising future
+
+*2024-03-13 22:33:00* · [`islandlk`](http://island.lk/national-planning-symposium-to-explore-insights-and-challenges-for-a-promising-future/) · `en`
+
+A Symposium on National Planning is set to take place at the Bandaranaike Memorial International Conference Hall (BMICH) on March 19, 2024. This highly anticipated event aims to bring together policymakers, economists, and political representatives to gain valuable insights into the significance of national planning, its challenges, and future prospects.
+
+The symposium will consist of engaging sessions covering various aspects of national planning. The event will kick off with a session titled “National Planning Today – Insights from Experts,” where authoritative figures, including R H W A Kumarasiri, Director General of National Planning, will share their experiences and perspectives on the current state of national planning. This session will provide profound insights into the critical role of planning in shaping the future of the nation.
+
+...
+
+[Data](articles/75329805.json)
+
+---
+
+### Rs. 10 lakhs sponsorship for a kidney transplant every month
+
+*2024-03-13 22:30:00* · [`islandlk`](http://island.lk/rs-10-lakhs-sponsorship-for-a-kidney-transplant-every-month/) · `en`
+
+Melstacorp PLC, one of the largest and most diversified Sri Lankan conglomerates under the leadership of business tycoon Deshamanya Harry Jayawardena, has introduced a groundbreaking Corporate Social Responsibility (CSR) initiative through the Urology and Kidney Transplant Center at Melsta Hospitals Ragama – wherein Melstacorp will sponsor 10 lakhs rupees (Rs.1,000,000) every month for a deserving kidney patient undergoing Kidney transplantation at Melsta Hospitals Ragama.
+
+...
+
+[Data](articles/783ed1a8.json)
+
+---
+
+### Fresh buying interest in LOLC Group shares triggers bullish trend in bourse
+
+*2024-03-13 22:26:00* · [`islandlk`](http://island.lk/fresh-buying-interest-in-lolc-group-shares-triggers-bullish-trend-in-bourse/) · `en`
+
+The stock market witnessed a bullish trend throughout yesterday, mainly due to the LOLC Group witnessing fresh buying interest for its companies. This had a ripple effect on other stocks as well, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 111.5 points while S and P SL20 rose by 42.9 points. The turnover stood at Rs 1.97 billion with five crossings.
+
+Those crossings were reported in Sunshine Holdings, which crossed 1.5 million shares to the tune of Rs 87 million; its shares traded at Rs 58, HNB 300,000 shares crossed for Rs 50.3 million and its shares traded at Rs 167.50, Hayleys 500,000 shares crossed for Rs 41.5 million and its shares sold at Rs 83, DFCC 500,000 shares crossed to the tune of Rs 36.25 million; its shares fetched Rs 72.50 and Hayleys Fabrics 600,000 shares crossed for Rs 24.2 million; its shares traded at Rs 40.50.
+
+...
+
+[Data](articles/b1534a37.json)
 
 ---
 
@@ -2189,165 +2305,5 @@ He is the only brother of Thilakarathne's brother, as the golden age of the ruli
 [Data](articles/5968ff2f.json)
 
 [Extended Data](ext_articles/5968ff2f.ext.json)
-
----
-
-### A new change to grade 8
-
-*2024-03-13 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194458) · `si`
-
-"Schools introduce AI stream in IT curriculum for Grade 8. Pilot project starts March 19. National Institute of Education partners with Ministry of Education to raise knowledge standards. Minister Susil Premajayantha highlights this at Mount Lavinia Girls' School."
-
-🟩
-
-Steps have been taken to amend the Information Technology Curriculum for High Grades 8 of schools.
-
-Minister of Education Susil Premajayantha said that the artificial intelligence stream of the IT is introduced is to introduce artificial intelligence stream.
-
-Its pilot project is to be started by the 19th of March.
-
-According to the Minister of Education, the National Institute of Education is partners with the Ministry of Education and the children of Sri Lanka will be able to provide the subject knowledge knowledge to international standards.
-
-The Minister expressed his views to the commemorative ceremony of the Mount Lavinia Girls' School to complete his year.
-
-◼️
-
-[Data](articles/a5800000.json)
-
-[Extended Data](ext_articles/a5800000.ext.json)
-
----
-
-### Space One rocket explodes soon after launch in Japan
-
-*2024-03-13 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Space-One-rocket-explodes-soon-after-launch-in-Japan/108-278777) · `en`
-
-March 13 (Guardian) - A rocket made by a Japanese company has exploded seconds after it was launched with the goal of putting a satellite into orbit.
-
-Tokyo-based Space One’s 18-metre Kairos rocket blasted off from the company’s launch pad in the Wakayama region of western Japan, carrying a small government test satellite, on Wednesday.
-
-Seconds later the solid-fuelled rocket exploded in flames, sending smoke billowing into the remote mountainous area, live footage showed. “The launch of the first Kairos rocket was executed, but we took a measure to abort the flight,” Space One said in a statement, adding that “details are being investigated”.
-
-The Smart Lander for Investigating Moon, better known as Slim, on the lunar surface.
-
-Japan’s moon lander survives two-week lunar night after wonky landing
-
-...
-
-[Data](articles/310d6837.json)
-
-[Extended Data](ext_articles/310d6837.ext.json)
-
----
-
-### Suspect arrested with haul of various drugs including heroin
-
-*2024-03-13 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/97923/suspect-arrested-with-haul-of-various-drugs-including-heroin) · `en`
-
-Modara Police have arrested a suspect along with a large consignment of drugs estimated to be worth over Rs. 30 million, including heroin.
-
-Reportedly, 1.5kg of heroin, 7kg of Kerala cannabis, 1kg of ingredients used in narcotic pills and a machine used for making pills have been seized from the possession of the arrestee.
-
-A suspect has been arrested together with a stock of drugs worth over Rs. 30 million and a machine used in drug production
-
-Police said that the suspect, who was arrested in the Bogaha Junction area in Modara during a search carried out based on a tip-off received by police, was known by the alias “Suduwa”.
-
-Police have also taken custody of 1 kilogram and 500 grams of heroin, 7 kilograms of Kerala cannabis, 950 grams of various raw materials used in the production of intoxicating pills, a machine used in drug production, an electric scale and a cash register.
-
-...
-
-[Data](articles/318ecf56.json)
-
-[Extended Data](ext_articles/318ecf56.ext.json)
-
----
-
-### Racketener trapped in Modara
-
-*2024-03-13 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194457) · `si`
-
-A person was arrested in Modara with 1.5kg heroin and 7kg Kerala cannabis, and a suspected alcohol production machine was found.
-
-🟩
-
-Modara Police say that a person has been arrested with various types of drugs.
-
-According to the police, he held 1.5 kilograms of heroin and 7kg of Kerala cannabis.
-
-Meanwhile, police have also found a machine that was suspected to be used for the production of alcohol.
-
-◼️
-
-[Data](articles/72444321.json)
-
-[Extended Data](ext_articles/72444321.ext.json)
-
----
-
-### SriLankan Airlines state bank debt of $210mn and Rs31.4bn to tax payer
-
-*2024-03-13 14:07:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-state-bank-debt-of-210mn-and-rs31-4bn-to-tax-payer-154508/) · `en`
-
-ECONOMYNEXT – The government has decided to take over 210 million in dollar loans and 41.4 billion in rupee loans taken by SrilLankan Airlines from state-run Bank of Ceylon and Peoples’ Bank, Sri Lanka’s State-Owned Enterprises Restructuring Unit said.
-
-According to a March 04 cabinet decision the following loans will be take over by the government.
-
-105 million dollar and 12.9 billion rupees of Treasury guaranteed loans from Bank of Ceylon
-
-105 million dollars and 18.5 billion rupees of loans from Peoples’ Bank
-
-A defaulted 175 million dollar treasury guaranteed bond which is due for settlement in June 2024 will remain on the books of the airline.
-
-Any proceeds from a case filed against Airbus SE, by the airline following a procurement scandal will be transferred to the government.
-
-Sri Lanka is in the process of privatizing the airline. (Colombo/Mar14/2024)
-
-◼️
-
-[Data](articles/3300495e.json)
-
-[Extended Data](ext_articles/3300495e.ext.json)
-
----
-
-### Two women arrested for breaking the bundle
-
-*2024-03-13 14:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/உண்டியலை-உடைத்த-பெண்கள்-இருவர்-கைது/95-334607) · `ta`
-
-Two women arrested for breaking money at Nalvarama Bodhimalu Vihara in Colombo. Arrested by banana police, handed over to plantation police. Suspect from Chilaw.
-
-🟩
-
-Two women have been arrested for allegedly breaking money at the Nalvarama Bodhimalu Vihara in front of the Pudukkadai court complex in Colombo, police said.
-
-The incident took place at around 12.50 pm on Wednesday (13). The banana police officers who were on duty in front of the court have arrested the two suspects and handed over the two suspects to the banana plantation police.
-
-The suspect is from Chilaw, police said.
-
-The woman who entered the Vihara, broke the bundle and paid the money and gave it to another woman.
-
-◼️
-
-[Data](articles/989b0bf1.json)
-
-[Extended Data](ext_articles/989b0bf1.ext.json)
-
----
-
-### Young Journalists’ Association challenges IGP’s appointment
-
-*2024-03-13 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Young-Journalists-Association-challenges-IGPs-appointment/108-278776) · `en`
-
-Colombo, March 13 (Daily Mirror) -  The Young Journalists’ Association of Sri Lanka today filed a fundamental rights petition before the Supreme Court seeking an order to quash the appointment of Deshabandu Tennakoon as the Inspector General of Police.
-
-On behalf of the Young Journalists’ Association of Sri Lanka, its President Tharindu Jayawardhana, Secretary M.F.M. Fazeer, Convenor Shalika Wimalasena, Treasurer Nirosh Maithree, Committee Member Tharindu Uduwaragedara, Vice President B. Niroshkumar and member Reka Nilukshi filed this petition
-
-stating that the appointment of Deshabandu Tennakoon as IGP is illegal, arbitrary, irrational and contrary to and in violation of the provisions of the Constitution.
-
-◼️
-
-[Data](articles/c9043848.json)
-
-[Extended Data](ext_articles/c9043848.ext.json)
 
 ---

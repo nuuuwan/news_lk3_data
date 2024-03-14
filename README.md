@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 02:33:33**
+As of **2024-03-15 02:49:25**
 
 ## Newspaper Stats
 
-*Scraped **12,974** Articles*
+*Scraped **12,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 700
 adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,579
-virakesarilk | 1,805
+virakesarilk | 1,806
 dailymirrorlk | 1,981
 adaderanasinhalalk | 2,051
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,974 (100.0%) of 12,974 articles have been extended.
+12,974 (100.0%) of 12,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### வெடுக்குநாறிமலையில் எண்மர் கைது விவகாரம் : மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடளித்தும் அதிகாரிகள் எவரும் சிறைச்சாலைக்கு சமுகமளிக்கவில்லை - எஸ்.கஜேந்திரன்
+
+*2024-03-15 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178763) · `ta`
+
+சிவராத்திரி தினத்தன்று வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் பொலிஸாரால் கைதுசெய்யப்பட்ட எண்மரில் ஐவர் உண்ணாவிரதப்போராட்டத்தில் ஈடுபட்டுவருகின்றனர். இவ்விவகாரம் குறித்து இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடளித்துள்ள போதிலும், இதுவரையில் அதிகாரிகள் எவரும் சிறைச்சாலைக்கு சமுகமளிக்கவில்லை என  தமிழ்த்தேசிய மக்கள் முன்னணியின் பாராளுமன்ற உறுப்பினர் எஸ்.கஜேந்திரன் குற்றஞ்சாட்டியுள்ளார்.
+
+வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த வெள்ளிக்கிழமை சிவராத்திரி தினத்தன்று பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக 8 பேர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+
+...
+
+[Data](articles/1994fed8.json)
+
+---
 
 ### India, China and Japan, which offer millions of funds for the development of the North - need to be used properly - Minister Douglas
 
@@ -2273,25 +2287,5 @@ The Minister said the deadline to submit proposals is 9th May 2024.
 [Data](articles/5bccfd65.json)
 
 [Extended Data](ext_articles/5bccfd65.ext.json)
-
----
-
-### Education Minister Bashalanawa
-
-*2024-03-14 14:35:35* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යපන-ඇමති-බාසිලෝනාවල/11-408613) · `si`
-
-Education Minister Susil Premajayantha attended the Mobile World Congress-2.24, where global leaders in digitization and communication technology were discussed.
-
-🟩
-
-Minister of Education Susil Premajayantha was attended by the Mobile World Congress-2.24, the world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world.
-
-Future and its future, "digital DNA 'this year's annual conference this year's conference this year's annual conference this year's annual conference.In the conference, a platform was built to explore the latest development of digitization and communication technology to see global leaders and technologies in the face of global leaders.
-
-◼️
-
-[Data](articles/540a6d51.json)
-
-[Extended Data](ext_articles/540a6d51.ext.json)
 
 ---

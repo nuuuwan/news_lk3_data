@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 17:53:48**
+As of **2024-03-14 18:09:21**
 
 ## Newspaper Stats
 
@@ -26,49 +26,63 @@ adaderanasinhalalk | 2,042
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,906 (100.0%) of 12,910 articles have been extended.
+12,910 (100.0%) of 12,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### ඉන්දියාවේ සුනඛ වර්ග 23ක් තහනම් කරමින් නියෝගයක්
+### Order ban 23 dog doggings in India
 
 *2024-03-14 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194514) · `si`
 
-මිනිස් ජීවිතවලට අනතුරුදායක ලෙස හඳුනාගෙන ඇති සුනඛ වර්ග 23ක් සුරතල් සතුන් ලෙස ඇති කිරීම, අභිජනනය කිරීම සහ විකිණීම තහනම් කරමින් ඉන්දියාවේ මධ්‍යම රජය විසින් ප්‍රාන්ත සියල්ල වෙත නියෝගයක් නිකුත් කර ඇත.
+India bans 23 hazardous dog breeds, including Pitbull Terrier, American Bulldog, Rottweiler, and Mastiffs, due to threats to human life. Existing pets must be treated to prevent further breeding.
 
-එම ලයිස්තුවේ Pitbull Terrier, American Bulldog, Rottweiler සහ Mastiffs යන සුනඛ වර්ග ද සඳහන් වෙයි.
+🟩
 
-සුරතලයට ඇති කරන සමහර සුනඛ විශේෂ හේතුවෙන් මිනිසුන්ට ඇතිව තිබෙන තර්ජන හේතුවෙන් එවැනි තීරණයක් ගැනීමට බලධාරීන් තීරණය කර ඇති බව වාර්තා වෙයි.
+The central government of India has issued an order to all states by banning 23 hazardous dogs to be developed and selling dangerously to human life.
 
-දැනටමත් සුරතල් සතුන් ලෙස මෙම ලැයිස්තුවට අයත් සුනඛ වර්ග සිටීනම් එම සුනඛයින්ගෙන් තවදුරටත් බෝවීම වැළැක්වීම සඳහා අවශ්‍ය ප්‍රතිකාර සිදුකළ යුතු බවදට නියෝග කර ඇති බව සඳහන් වේ.
+The list is also mentioned in the list Pitbull Terrier, American Bulldog, Rottweiler and Mastifs.
 
-Pitbull Terrier, Tosa Inu, American Staffordshire Terrier, Fila Brasileiro, Dogo Argentino, American Bulldog, Boerboel Kangal, Central Asian Shepherd Dog,Caucasian Shepherd Dog, South Russian Shepherd Dog, Tornjak, Sarplaninac, Japanese Tosa, Akita, Mastiffs, Terriers, Rhodesian Ridgeback, Wolf Dogs, Canario, Akbash Dog, Moscow Guard Dog, Cane Corso, Bandog.
+It is reported that the authorities have decided to make such a decision due to the threats caused by some of the pets.
+
+It is said that if there are already pets, it is ordered that they should be treated to prevent further breeding from these dogs.
+
+Pitbull Terrier, Tosa Inu, American Staffordshire Terrier, American Bullod, CAUCASIAN SHEPHERD Dog, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak , Sarplanac, Tosa, Akita, Mastifs, Terriers, RhodesianRidgeback, Wolf Dogs, Canario, Akbash Dog, Moscow Guard dog, cane corso, bandog.
 
 ◼️
 
 [Data](articles/c21f6109.json)
 
+[Extended Data](ext_articles/c21f6109.ext.json)
+
 ---
 
-### ලංකාවේ විද්‍යුත් ත්‍රිරෝද රථ
+### Electronic three-wheeler in Sri Lanka
 
 *2024-03-14 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194513) · `si`
 
-ශ්‍රී ලංකාවේ ප්‍රථම වරට විදුලි ත්‍රිරෝද රථ නිෂ්පාදන කර්මාන්තශාලාවක් මරදාන දුම්රිය දෙපාර්තමේන්තු බඩු ගබඩා පරිශ්‍රයේදී විවෘත කර තිබේ.
+Sri Lanka's first three-wheeler factory, Vehicle Elektrateq, opened at Railway Department premises. It uses advanced technology for full production, including machinery and batteries. The factory aims to convert 100-wheelers to electricity with private funding. Transport Minister Bandula Gunawardena emphasized the transition to electric transportation, including registration and color coding for identification.
 
-සම්පූර්ණයෙන්ම මෙරටදී නිෂ්පාදනය කෙරෙන වේගා සමාගමේ ELEKTRATEQ ත්‍රිරෝද රථයේ සම්පුර්ණ නිෂ්පාදන ක්‍රියාවලිය මෙම නිෂ්පාදන කර්මාන්තශාලා පරිශ්‍රයේදී සිදු කෙරේ.
+🟩
 
-අති නවීන තාක්ෂණය යටතේ ස්වයංක්‍රීයව ක්‍රියාත්මක වන තහඩු කැපීම, නැවීම සඳහා යොදාගැනෙන යන්ත්‍ර, බැටරි නිෂ්පාදන යන්ත්‍ර ඇතුළු තාක්ෂණික උපාංග රාශියකින් මෙම කර්මාන්ත ශාලාව සමන්විතය.
+Sri Lanka's first first three-wheeler manufacturing factory has been opened at the Railway Department premises.
 
-මීට අමතරව දැනට භාවිතයේ පවතින පෙට්‍රල් භාවිතයෙන් ධාවනය වන ත්‍රිරෝද රථයක් පැය දෙකක කාලයක් ඇතුළත සම්පූර්ණයෙන්ම විදුලියට පරිවර්තනය කරදීමට අවශ්‍ය සම්පූර්ණ පහසුකම් මෙම කර්මාන්ත ශාලාව සතුවීම විශේෂත්වයකි.
+The full production process of the Vehicle Elektrateq Three Wheeler manufactured in Sri Lanka is the full manufacturing process in the factory premises.
 
-මේ වනවිටත් පෞද්ගලික මූල්‍ය ආයතනයක් සමඟ ඒකාබද්ධව එක් මසක් තුළ ත්‍රීරෝද රථ සියයක් විදුලියට පරිවර්තනය කිරීමේ ව්‍යාපෘතියක් මෙම කර්මාන්තශාලාවේ ක්‍රියාත්මක වීම විශේෂත්වයකි.
+The factory consists of many technology, including machinery, batteries, batteries used for the cutting plate, which is automatically operating under the state-of-the-art technology.
+
+In addition, this factory has the full facilities that need to translate a three-wheeler using a three-hour-use petrol within two hours.
+
+It is noteworthy that a project to translate its 100-wheelers to electricity with a private financial institution is a project.
+
+Transport Minister Bandula Gunawardena said that the necessary steps to be translated to translator in passenger transportation services in the Makumbura multi-day transport center in the future.
 
 ...
 
 [Data](articles/41474085.json)
+
+[Extended Data](ext_articles/41474085.ext.json)
 
 ---
 
@@ -112,17 +126,23 @@ Wickremesinghe also emphasized the inclusion of experts from the Ministry of Fin
 
 ---
 
-### නඩුව අවසන් වනතෙක් කෙහෙළියට ඇප නෑ
+### The case is not bailed to the case
 
 *2024-03-14 17:07:43* · [`adalk`](https://www.ada.lk/breaking_news/නඩුව-අවසන්-වනතෙක්-කෙහෙළියට-ඇප-නෑ/11-408617) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, හිටපු සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා සහ තවත් සැකකරුවන් සිව්දෙනෙකුගේ ඇප ඉල්ලීම අද 14දා සලකා බැලූ අවස්ථාවේදී ප්‍රතික්ෂේප කළ මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නඩු විභාගය අවසන් වනතෙක් ඔවුන් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර තිබේ.
+The Maligakanda Magistrate's Court remanded the bail of the Secretary to the Secretary of former Health Minister Keheliya Rambukwella and four others, setting the case for March 28.
 
-නැවත එම නඩුව මාර්තු 28 වනදා කැඳවන බවට මාළිගාකන්ද මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+🟩
+
+The Maligakanda Magistrate's Court today has been remanded to remand the bail of the Secretary to the Secretary of former Health Minister Keheliya Rambukwella, former Health Ministry Secretary and four other suspects.
+
+The Maligakanda Magistrate's Court has ordered that the case will be taken up on March 28.
 
 ◼️
 
 [Data](articles/ee939bab.json)
+
+[Extended Data](ext_articles/ee939bab.ext.json)
 
 ---
 
@@ -883,6 +903,8 @@ LankaPay announced the sixth edition of LankaPay Technnovation Awards - Sri Lank
 ◼️
 
 [Data](articles/7829818e.json)
+
+[Extended Data](ext_articles/7829818e.ext.json)
 
 ---
 

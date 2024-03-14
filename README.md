@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 23:52:27**
+As of **2024-03-15 00:02:52**
 
 ## Newspaper Stats
 
-*Scraped **12,963** Articles*
+*Scraped **12,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 663
 economynextcom | 695
 islandlk | 700
 adalk | 1,118
-adaderanalk | 1,562
-tamilmirrorlk | 1,578
+adaderanalk | 1,563
+tamilmirrorlk | 1,579
 virakesarilk | 1,801
 dailymirrorlk | 1,978
 adaderanasinhalalk | 2,051
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,963 (100.0%) of 12,963 articles have been extended.
+12,963 (100.0%) of 12,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Govt ready to discuss progress of IMF program,  creditors’ talks with opposition - State Minister
+
+*2024-03-14 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97966/govt-ready-to-discuss-progress-of-imf-program-creditors-talks-with-opposition-state-minister) · `en`
+
+The government says it is ready to discuss with the opposition the progress of the discussions with Sri Lanka’s creditors and the programme of the International Monetary Fund (IMF).
+
+Taking to ‘X’ (formerly Twitter), State Minister of Finance Shehan Semasinghe revealed that as per the request made by Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva, the government is willing to provide any additional information in this regard, however, he added that they “will not be able to disclose any market sensitive information”.
+
+“Although the opposition deliberately missed out the discussion facilitated with good faith on alternative proposals including debt restructuring, the government is once again ready to facilitate another opportunity”, Semasinghe said, emphasizing the importance for the opposition too, to act in good faith.
+
+◼️
+
+[Data](articles/cdf16c67.json)
+
+---
+
+### ஜப்பானில் சக்தி வாய்ந்த நிலநடுக்கம் - சுனாமி எச்சரிக்கையால் மக்கள் அச்சம்
+
+*2024-03-14 23:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-சக்தி-வாய்ந்த-நிலநடுக்கம்-சுனாமி-எச்சரிக்கையால்-மக்கள்-அச்சம்/50-334691) · `ta`
+
+ஜப்பானில் சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. இது ரிக்டர் அளவில் 6 ஆக பதிவாகி உள்ளது.
+
+சக்தி வாய்ந்த நிலநடுக்கத்தை தொடர்ந்து சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது. சுனாமி எச்சரிக்கையை தொடர்ந்து மக்கள் அச்சமடைந்தனர்.
+
+இது ரிக்டரில் 3.9 ஆக பதிவாகியுள்ளது. திருப்பதியில் இருந்து 58 கிலோமீட்டர் தொலைவில், 10 கிலோமீட்டர் ஆழத்தில் நில அதிர்வு ஏற்பட்டது. இந்த நில அதிர்வு இரவு 8.43 மணி அளவில் உணரப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/e8161878.json)
+
+---
 
 ### Resolution after discussing the boycott of the parliamentary session - Tamil MPs
 
@@ -2267,45 +2299,5 @@ The assessment of the project is 440 million rupees. The park is located in the 
 [Data](articles/af0d1aca.json)
 
 [Extended Data](ext_articles/af0d1aca.ext.json)
-
----
-
-### Oral diseases of 03 out of 03
-
-*2024-03-14 13:41:02* · [`adalk`](https://www.ada.lk/breaking_news/04-න්-03-ට-මුඛ-රෝග--සැලකිළිමත්-වන්න/11-408610) · `si`
-
-Health Secretary Palitha Mahipala emphasized the need to enhance the National Health Services' dental health services, highlighting that 3.5 billion globally suffer from oral diseases, with three developing countries most affected.
-
-🟩
-
-Health Secretary Palitha Mahipala pointed out to strengthen the National Health Services (World Bank) equipment to strengthen the primary health care system of the Ministry of Health today (14) to strengthen dental health services..
-
-Speaking at the meeting, he said that about 3.5 billion in the world had undergone various oral diseases and three of the developing countries had contracted oral diseases.
-
-◼️
-
-[Data](articles/3c3ea0c5.json)
-
-[Extended Data](ext_articles/3c3ea0c5.ext.json)
-
----
-
-### Vulve oral diseases for 3 of four
-
-*2024-03-14 13:41:02* · [`adalk`](https://www.ada.lk/breaking_news/04-න්-03-කට-මුඛ-රෝග--සැලකිළිමත්-වන්න/11-408610) · `si`
-
-Health Secretary Palitha Mahipala emphasized the need to enhance the National Health Services' dental health services, highlighting that 3.5 billion globally suffer from oral diseases, with three developing countries most affected.
-
-🟩
-
-Health Secretary Palitha Mahipala pointed out to strengthen the National Health Services (World Bank) equipment to strengthen the primary health care system of the Ministry of Health today (14) to strengthen dental health services..
-
-Speaking at the meeting, he said that about 3.5 billion in the world had undergone various oral diseases and three of the developing countries had contracted oral diseases.
-
-◼️
-
-[Data](articles/c5707967.json)
-
-[Extended Data](ext_articles/c5707967.ext.json)
 
 ---

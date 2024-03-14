@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 22:34:10**
+As of **2024-03-14 22:50:14**
 
 ## Newspaper Stats
 
-*Scraped **12,960** Articles*
+*Scraped **12,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 700
 adalk | 1,118
 adaderanalk | 1,562
 tamilmirrorlk | 1,578
-virakesarilk | 1,798
+virakesarilk | 1,800
 dailymirrorlk | 1,978
 adaderanasinhalalk | 2,051
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,957 (100.0%) of 12,960 articles have been extended.
+12,960 (100.0%) of 12,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### ஜப்பானில் சக்தி வாய்ந்த நிலநடுக்கம் ; சுனாமி எச்சரிக்கை!
+
+*2024-03-14 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/178757) · `ta`
+
+ஜப்பானில் சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது. இது ரிக்டர் அளவில் 6 ஆக பதிவாகி உள்ளதாக  வானிலை மற்றும் புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+
+இதை தொடர்ந்து ஆந்திர மாநிலம் திருப்பதியில் குறைந்த அளவிலான நில அதிர்வு உணரப்பட்டது. இது ரிக்டரில் 3.9 ஆக பதிவாகியுள்ளது.
+
+திருப்பதிலிருந்து 58 கிலோமீட்டர் தொலைவில், 10 கிலோமீட்டர் ஆழத்தில் நில அதிர்வு ஏற்பட்டது. இந்த நில அதிர்வு இரவு 8.43 மணி அளவில் உணரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c2bfb49c.json)
+
+---
 
 ### Police open fire on tipper truck for failing to stop at checkpoint
 
@@ -46,21 +62,49 @@ Accordingly, the suspect is due to be produced before the Mullaitivu Magistrate�
 
 [Data](articles/7af6ee55.json)
 
+[Extended Data](ext_articles/7af6ee55.ext.json)
+
 ---
 
-### ජපානයේ ප්‍රබල භූ කම්පනයක්
+### A powerful earthquake in Japan
 
 *2024-03-14 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194523) · `si`
 
-ජපානයේ ෆුකුෂිමා හිදී රික්ටර් මාපකයේ 5.8ක ප්‍රබලත්වයෙන් යුතු භූ කම්පනයක් සිදුවී තිබේ.
+A powerful earthquake occurred 50 km off the coast of Fukushima, Japan, but no tsunami warning was issued.
 
-ජපාන කාලගුණ විද්‍යා ඒජන්සිය පවසන පරිදි භූ කම්පනය සිදුවී ඇත්තේ ෆුකුෂිමා ප්‍රාන්තයේ වෙරළට ඔබ්බෙන් කිලෝමීටර් 50ක් අභ්‍යන්තරයෙනි.
+🟩
 
-සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර නොමැති බවද එම ඒජන්සිය පවසයි.
+A round of earthquake on Fukushima in Fukushima, Japan's rock has taken place.
+
+According to the Japanese Meteorological Agency, the earthquake has occurred with 50 miles [50 km] beyond the coast of Fukushima.
+
+The agency has not issued a tsunami warning.
 
 ◼️
 
 [Data](articles/e8006a71.json)
+
+[Extended Data](ext_articles/e8006a71.ext.json)
+
+---
+
+### ஒட்டுசுட்டானில் மேற்கொள்ளப்பட்ட விசேட சுற்றி வளைப்பு : வெடிவைத்து பிடிக்கப்பட்டு டிப்பர்
+
+*2024-03-14 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178756) · `ta`
+
+முல்லைத்தீவு ஒட்டுசுட்டான் பகுதியில் பொலிஸார் மற்றும் விஷேட அதிரடி படையினர் இணைந்து விஷேட சோதனை நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+
+நாட்டில் போதைப்பொருள் மற்றும் பாதாள உலகக் குழுக்களின் செயற்பாடுகளை கட்டுப்படுத்துவதற்காக பொலிஸாரால் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் விசேட நடவடிக்கையான ‘யுக்திய’வின் ஒரு பகுதியாகவே ஒட்டிசுட்டான் பிரதேசத்தில் விசேட போக்குவரத்து சோதனை நடவடிக்கை வியாழக்கிழமை (14) மாலை முன்னெடுக்கப்பட்டிருந்தது.
+
+இதன் போது மாங்குளம் வீதி ஊடாக ஒட்டிசுட்டான் நோக்கி பயணித்த டிப்பர் வாகனத்தை மறித்தபோது அது நிக்காமல் பயணித்துள்ளது. புதுக்குடியிருப்பு நோக்கி பயணித்த டிப்பர் வாகனத்தை கற்சிலைமடு பகுதியில் வைத்து துப்பாக்கியால் சில்லுக்கு சுட்டு பிடித்துள்ளார்கள்
+
+இந்த சம்பவம் அந்த பகுதியில் பரபரப்பினை ஏற்படுத்தியுள்ளது மேலதிக விசாரணைகளை ஒட்டிசுட்டான் பொலிசார் மேற்கொண்டு வருகிறனர்.
+
+எனினும் குறித்த  நடவடிக்கையில் பொலிஸார், விஷேட அதிரடி படையினர் ஆகியோர் இச்சோதனை நடவடிக்கையில் ஈடுபட்டிருந்ததுடன்  எதுவிதமான சந்தேகத்திற்கிடமான பொருட்களும் மீட்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1e3adf11.json)
 
 ---
 
@@ -83,6 +127,8 @@ They were assisted by the fact that their bowlers had earlier done extremely wel
 ...
 
 [Data](articles/cf6424fb.json)
+
+[Extended Data](ext_articles/cf6424fb.ext.json)
 
 ---
 
@@ -2245,41 +2291,5 @@ Accordingly, the Ruhunu Kumari express train arriving from Matara stopped at the
 [Data](articles/2794f036.json)
 
 [Extended Data](ext_articles/2794f036.ext.json)
-
----
-
-### Father attempts suicide after murdering son and daughter
-
-*2024-03-14 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97948/father-attempts-suicide-after-murdering-son-and-daughter) · `en`
-
-A 63-year-old man has been admitted to the Kalmunai Hospital in critical condition due to allegedly attempting to take his own life after hacking his two children to death at Periya Nilaveli in Ampara.
-
-According to police, the victims were his 29-year-old son and 15-year-old daughter, who were both identified as children with special needs.
-
-The suspect had reportedly attempted to slit his own throat following the double murder.
-
-◼️
-
-[Data](articles/cac0761b.json)
-
-[Extended Data](ext_articles/cac0761b.ext.json)
-
----
-
-### CEB calls for proposals for 50MW wind farm facility in Mannar
-
-*2024-03-14 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97947/ceb-calls-for-proposals-for-50mw-wind-farm-facility-in-mannar-) · `en`
-
-Proposals on International Competitive Bidding (ICB) for a 50 MW wind farm facility in Mannar have been called for by the Ministry of Power and Energy and the Ceylon Electricity Board (CEB).
-
-Accordingly, the ICB calls for suitable developers with the financial and technical ability to develop a 50MW wind farm facility in Mannar on a Build, Own and Operate (BOO) basis, Power and Energy Minister Kanchana Wijesekera said on ‘X’ (formerly Twitter).
-
-He further noted that deadline to submit the relevant proposal will be on 09 May, immediately after which the proposals will be opened at the office of the CEB Deputy General Manager of Renewable Energy Procurement and Performance Monitoring, in the presence of the authorised representatives of the project proponents.
-
-◼️
-
-[Data](articles/ec4a2664.json)
-
-[Extended Data](ext_articles/ec4a2664.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 10:18:10**
+As of **2024-03-14 10:33:39**
 
 ## Newspaper Stats
 
-*Scraped **12,786** Articles*
+*Scraped **12,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 122
 bbccomsinhala | 145
 dbsjeyarajcom | 186
 newsfirstlk | 363
-dailyftlk | 662
+dailyftlk | 663
 economynextcom | 680
 islandlk | 699
 adalk | 1,092
-adaderanalk | 1,537
+adaderanalk | 1,538
 tamilmirrorlk | 1,557
-virakesarilk | 1,768
+virakesarilk | 1,770
 dailymirrorlk | 1,955
 adaderanasinhalalk | 2,020
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 2,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,782 (100.0%) of 12,786 articles have been extended.
+12,786 (100.0%) of 12,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### தென்னிலங்கையில் தொடரும் துப்பாக்கிப் பிரயோகங்கள் ; இன்று அம்பலாங்கொடையில்...
+
+*2024-03-14 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178684) · `ta`
+
+அம்பலாங்கொடை பொலிஸ் பிரிவிற்குட்பட்ட இடந்தோட்டை பொனதுவ பிரதேசத்தில் துப்பாக்கிப் பிரயோக சம்பவம் ஒன்று பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும் பாதாள உலகக் குழு உறுப்பினரான 'சமன்கொல்லா' என்ற அகம்பொடி சஜித் சமன் பியந்தவின் வீட்டின் மீதே இன்று வியாழக்கிழமை (14) காலை துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளது.
+
+பல தோட்டாக்கள் வீட்டின் சுவர் மற்றும் கதவுகளைத் தாக்கியுள்ளதுடன் சம்பவத்தின் போது வீட்டில் சமன்கொல்லவின் தாயும் மூன்று சகோதரிகளும் இருந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/02677429.json)
+
+---
+
+### Lahiru Thirimanne injured in road accident in A’pura
+
+*2024-03-14 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97939/lahiru-thirimanne-injured-in-road-accident-in-apura) · `en`
+
+Former Sri Lankan cricketer Lahiru Thirimanna has been hospitalized following a road accident in Thrippane, Anuradapura, the Police said.
+
+Accordingly, he has been admitted to Anuradhapura Teaching Hospital with minor injuries sustained in the accident, according to police.
+
+◼️
+
+[Data](articles/844e29f0.json)
+
+---
+
+### Admission
+
+*2024-03-14 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178678) · `ta`
+
+A family member in Pudukkudiyiruppu was attacked and admitted to the hospital. Over 30 wasps were also admitted. The family was initially treated at the Pudukkudiyiruppu Divisional Hospital before being transferred to the Mullaitivu District Hospital for further treatment.
+
+🟩
+
+A family member in Pudukkudiyiruppu on Wednesday (13) has been admitted to the Pudukkudiyiruppu hospital after being attacked.
+
+More than 30 wasps have been admitted to the Pudukkudiyiruppu hospital after a family of Kaveli in the Mullaitivu Pudukkudiyiruppu area has been admitted to the Pudukkudiyiruppu hospital.
+
+He was immediately admitted to the Pudukkudiyiruppu Divisional Hospital and was transferred to the Mullaitivu District Hospital for further treatment, hospital sources said.
+
+◼️
+
+[Data](articles/f021548b.json)
+
+[Extended Data](ext_articles/f021548b.ext.json)
+
+---
+
+### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை ; சந்தேகநபர்களை பொலிஸ் காவலில் வைத்து விசாரிக்க அனுமதி
+
+*2024-03-14 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178680) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை இளைஞன் படுகொலை சம்பவத்துடன் தொடர்புடைய குற்றச்சாட்டில் கைதான ஐவரையும் 24 மணி நேரம் பொலிஸ் தடுப்பு காவலில் தடுத்து வைத்து விசாரணைகளை முன்னெடுக்க மல்லாகம் நீதவான் நீதிமன்று அனுமதி வழங்கியுள்ளது.
+
+காரைநகர் பகுதிக்கு சென்று விட்டு, வீடு திரும்பிக்கொண்டிருந்த கணவன் மனைவியை பொன்னாலை பாலத்திற்கு அருகில் வைத்து இரு வாகனத்தில் வன்முறை கும்பல் கடத்தி சென்று கணவனை தாக்கி படுகாயம் ஏற்படுத்திய நிலையில் கணவன்  வைத்தியசாலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார் , கிளிநொச்சி பகுதியில் தலைமறைவாக இருந்த அராலி பகுதியை சேர்ந்த நான்கு சந்தேக நபர்களை கைது செய்தனர்.
+
+கைது செய்யப்பட்ட நபர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் , அராலி பகுதியில் ஆட்களற்ற வீடொன்றில் இருந்து கடத்தலுக்கு பயன்படுத்திய காரை பொலிஸார் மீட்டனர்.
+
+...
+
+[Data](articles/65c9e8d9.json)
+
+---
 
 ### Lahiru Thirimana in danger
 
@@ -71,6 +141,8 @@ This year, the government allowed buses to be imported to transport tourists, he
 ...
 
 [Data](articles/3d76d3a2.json)
+
+[Extended Data](ext_articles/3d76d3a2.ext.json)
 
 ---
 
@@ -114,6 +186,8 @@ Due to this online system comuters need not stand in queues at railway stations 
 
 [Data](articles/329e0889.json)
 
+[Extended Data](ext_articles/329e0889.ext.json)
+
 ---
 
 ### Gunshots fired at a house in Ambalangoda
@@ -132,27 +206,7 @@ Two individuals had reportedly arrived on a motorcycle, opened fire with a suspe
 
 [Data](articles/3965906b.json)
 
----
-
-### Admission
-
-*2024-03-14 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178678) · `ta`
-
-A family member in Pudukkudiyiruppu was attacked and admitted to the hospital. Over 30 wasps were also admitted. The family was initially treated at the Pudukkudiyiruppu Divisional Hospital before being transferred to the Mullaitivu District Hospital for further treatment.
-
-🟩
-
-A family member in Pudukkudiyiruppu on Wednesday (13) has been admitted to the Pudukkudiyiruppu hospital after being attacked.
-
-More than 30 wasps have been admitted to the Pudukkudiyiruppu hospital after a family of Kaveli in the Mullaitivu Pudukkudiyiruppu area has been admitted to the Pudukkudiyiruppu hospital.
-
-He was immediately admitted to the Pudukkudiyiruppu Divisional Hospital and was transferred to the Mullaitivu District Hospital for further treatment, hospital sources said.
-
-◼️
-
-[Data](articles/f021548b.json)
-
-[Extended Data](ext_articles/f021548b.ext.json)
+[Extended Data](ext_articles/3965906b.ext.json)
 
 ---
 
@@ -604,6 +658,8 @@ The Government of the Islamic Republic of Pakistan with the concurrence of the G
 
 [Data](articles/3483778b.json)
 
+[Extended Data](ext_articles/3483778b.ext.json)
+
 ---
 
 ### New High Commissioner of Pakistan to Sri Lanka
@@ -921,6 +977,16 @@ Speaking to Mirror Business, Export Agriculture Industries Director General A.P.
 [Data](articles/28478d27.json)
 
 [Extended Data](ext_articles/28478d27.ext.json)
+
+---
+
+### ‘The silent killer’ – economic consequences of an overvalued exchange rate
+
+*2024-03-14 01:41:59* · [`dailyftlk`](https://www.ft.lk/columns/The-silent-killer-economic-consequences-of-an-overvalued-exchange-rate/4-759445) · `en`
+
+...
+
+[Data](articles/4fff28e8.json)
 
 ---
 
@@ -2069,143 +2135,5 @@ Deshabandu Tennakoon said that the underworld groups abroad has been identified.
 [Data](articles/274fa0f6.json)
 
 [Extended Data](ext_articles/274fa0f6.ext.json)
-
----
-
-### The import of vehicles is happening
-
-*2024-03-13 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194470) · `si`
-
-It seems like you've shared a comprehensive overview of various economic, social, and political issues facing Sri Lanka, including the impact of foreign debt, the need for economic recovery programs, challenges in the education sector, issues related to self-employment and entrepreneurship, nutritional support for athletes, and the broader economic landscape. This is a complex and multifaceted issue that requires a nuanced approach to address.
-
-
-
-Given the breadth of the topics you've covered, it's clear that addressing these issues will require a multi-pronged strategy that includes:
-
-
-
-1. **Economic Recovery and Stabilization**: Implementing programs that directly support the economy, such as providing financial relief to low-income households, investing in infrastructure, and promoting self-employment and entrepreneurship. This could involve measures like providing bank loans to self-employed individuals, especially those in the tourism sector, which is already showing signs of improvement.
-
-
-
-2. **Education and Skills Development**: Addressing the challenges in the education sector, including the recruitment of teachers and the provision of adequate resources for students. This could involve implementing programs to recruit scholars in the teaching profession and ensuring that educational institutions in remote areas have the necessary facilities and resources.
-
-
-
-3. **Health and Nutrition**: Ensuring that athletes and other individuals have access to proper nutrition and healthcare. This includes providing medical advice, necessary clothing, and increasing training places. The government's role in supporting the nutritional status of school players and athletes is crucial.
-
-
-
-4. **Digital Economy and Infrastructure**: Moving towards a digital economy and improving infrastructure, especially in rural areas. This involves leveraging modern technology to enhance the development of the country and ensuring that the benefits of digital transformation are accessible to all.
-
-
-
-5. **Addressing Corruption and Economic Mismanagement**: Taking steps to eliminate corruption and address past economic mismanagement. This includes implementing laws to prevent future instances of cheating and establishing an independent commission to investigate and prosecute those involved in corruption.
-
-
-
-6. **Promoting Industries and Entrepreneurship**: Supporting industries like film art and tourism, which have the potential to contribute significantly to the economy. This involves providing incentives and protecting these industries from external threats.
-
-
-
-7. **Addressing Tax and Price Issues**: Addressing the concerns related to high taxes on essential items like sanitary towels and the devaluation of the rupee. This requires a careful balance between revenue generation and ensuring affordability for essential goods and services.
-
-
-
-In conclusion, addressing the economic and social challenges facing Sri Lanka requires a comprehensive and integrated approach that considers the interconnectedness of these issues. It's crucial to involve various stakeholders, including the private sector, in developing and implementing these strategies to ensure sustainable and inclusive growth.
-
-🟩
-
-President Ranil Wickremesinghe says that the vehicles are expected to import from next year.
-
-The President expressed these views: "United Youth Youth Unity, Youth Joining Young One of the Youth Our Future" participated in a friendly meeting.
-
-The questions and answers to the President Ranil Wickremesinghe were given the answers to the President.
-
-Do you focus on loosing the import of private vehicles this year?
-
-We hope to progress it from next year. I am aware of the problems that exist in the car market. But still our payment balance is not good. We have allowed all the car imports. If the import of motor vehicles, the country has the ability to back the country again. But from next year's step, we hope to import essential vehicles first. We have been allowed to import buses used for transportation this year.
-
-Meanwhile, President Ranil Wickremesinghe added that the political promises given to the acquisition had to be severely affected by the people of the country.
-
-...
-
-[Data](articles/128a9803.json)
-
-[Extended Data](ext_articles/128a9803.ext.json)
-
----
-
-### Sri Lankan innings are limited to 255 runs
-
-*2024-03-13 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194469) · `si`
-
-Sri Lanka scored 255 runs in 48 overs in the first match of a three-day cricket tournament against Bangladesh, winning the toss and choosing to bat first.
-
-🟩
-
-The first match of the three-day cricket tournament between the Sri Lanka team and Bangladesh will be held.
-
-The Sri Lankan team won the toss and elected to bat first.
-
-Accordingly, Sri Lanka scored 255 runs for the loss of 48 overs.
-
-◼️
-
-[Data](articles/290c0b6e.json)
-
-[Extended Data](ext_articles/290c0b6e.ext.json)
-
----
-
-### Sri Lanka to import sailfish from Singapore
-
-*2024-03-13 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-sailfish-from-singapore-154543/) · `en`
-
-ECONOMYNEXT – Sri Lanka will import sailfish (thalapath) from Singapore, State Minister for Fisheries Piyal Nishantha De Silva said.
-
-“The local fisherman’s catch from the seas around Sri Lanka does not meet even 5 percent of our domestic requirement for thalapath,” De Silva told reporters on Tuesday.
-
-“In such a situation, the Fisheries Corporation will import sailfish (thalapath) and other fish varieties such as sprats, dried fish (karawala), marlin (koppara) as required, to meet local demand.”
-
-De Silva said the aim was to supply good quality fish at a good price to consumers without negatively impacting local fisherman.
-
-“We will be importing fish from Singapore, through the Ceylon Fisheries Corporation,” De Silva said. “This is necessary to meet the consumption needs, especially from hospitals.”
-
-SriLankans need state permission to import some foods. The country has a heavy economic nationalist ideology, partly driven by monetary instability (to save foreign exchange). (Colombo/Mar13/2024)
-
-◼️
-
-[Data](articles/d6235b90.json)
-
-[Extended Data](ext_articles/d6235b90.ext.json)
-
----
-
-### If you come, be careful if this text comes
-
-*2024-03-13 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194468) · `si`
-
-The Postal Department of Sri Lanka warns the public against sharing confidential information via SMS, revealing a scam using the official website to charge for parcels. The department clarifies it does not inquire into credit card information. For more information, contact 1950 to 011 26872229, 011 233007, 011 2330072.
-
-🟩
-
-Information has revealed information on a racket that is directed by the Postal Department name.
-
-The Postal Department issues an announcement to the public to avoid providing his confidential information to such SMS.
-
-It has been revealed that a SMS issued by a SMS issued by a SMS issued by a SMS issued by the Sri Lanka Post to pay for a parcel will be sent to the public.
-
-The racket is being implemented by using the official website of the Postal Department of Sri Lanka, Sri Lanka Postal Department, SL Post, Sri Lanka Post.
-
-Accordingly, the Postal Department says that a credit card information inquiry by his department does not conduct a credit card information inquiry by the credit cards.
-
-Also, if you want to ask further information, the Department of Postal Department can be obtained by calling the Department of Postal Services 1950 to 011 26872229, 011 233007, 011 2330072.
-
-◼️
-
-[Data](articles/2d6dde33.json)
-
-[Extended Data](ext_articles/2d6dde33.ext.json)
 
 ---

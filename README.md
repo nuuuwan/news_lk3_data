@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 12:50:59**
+As of **2024-03-14 13:02:57**
 
 ## Newspaper Stats
 
-*Scraped **12,835** Articles*
+*Scraped **12,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,84 +15,168 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 684
 islandlk | 699
-adalk | 1,096
+adalk | 1,097
 adaderanalk | 1,543
 tamilmirrorlk | 1,568
 virakesarilk | 1,779
 dailymirrorlk | 1,961
-adaderanasinhalalk | 2,026
+adaderanasinhalalk | 2,027
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,828 (99.9%) of 12,835 articles have been extended.
+12,835 (100.0%) of 12,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
 
-### දුම්රියක් පීලි පනී
+### මිනිසුන් යටකර මරා දැමූ බීමත් රියදුරා
+
+*2024-03-14 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194498) · `si`
+
+බීමත් ටැක්සි රථ රියදුරෙක් ඉන්දියාවේ නවදිල්ලිය හි කඩවීදියක වේගයෙන් රිය ධාවනය කර සිදුකළ අනතුරකින් පුද්ගලයෙක් මියගොස් තවත් 15 දෙනෙක් තුවාල ලබා තිබේ.
+
+එම පුද්ගලයා මෝටර් රථය කඩවීදිය දෙසට ධාවනය කරන අයුරු එහි වූ CCTV කැමරාවක ද සටහන්ව තිබිණි.
+
+අනතුරින් 22 හැවිරිදි කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇති අතර, සෙසු පිරිස බරපතළ තුවාල ලබා රෝහල්ගත කර ඇත.
+
+අනතුර සිදුවීමෙන් අනතුරුව කුපිත වූ ජනතාව මෝටර් රථයට ප්‍රහාර එල්ල කරන අයුරුද විදෙස් මාධ්‍ය වාර්තා කර තිබිණී.
+
+◼️
+
+[Data](articles/953858a3.json)
+
+---
+
+### A train jumps derails
 
 *2024-03-14 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194497) · `si`
 
-බෙලිඅත්ත සිට මරදාන දක්වා ධාවනය වෙමින් තිබූ දුම්රියක් කොම්පඤ්ඤවීදිය දුම්රිය ස්ථානය අසලදී පීලිපැනීමට ලක්වී තිබේ.
+A train from Beliatta to Maradana derailed at Slave Island Railway Station, interrupting coastal railway traffic.
 
-ඒ හේතුවෙන් මුහුදුබඩ දුම්රිය  මාර්ගයේ දුම්රිය ගමනාගමනයට බාධා එල්ල වී ඇති බව වාර්තා වෙයි.
+🟩
+
+A train traveling from Beliatta to Maradana has been identified at Slave Island Railway Station.
+
+As a result, train traffic on the coastal railway line has been interrupted.
 
 ◼️
 
 [Data](articles/08fe7571.json)
 
+[Extended Data](ext_articles/08fe7571.ext.json)
+
 ---
 
-### கரையோரங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ள சுற்றுலாத்துறையை நாட்டுக்குள் கொண்டு வந்து பொருளாதாரத்தை பலப்படுத்த முடியும் - ஜனாதிபதி
+### Tourism that is limited to coastalities can be brought into the country and strengthen the economy - the president
 
 *2024-03-14 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178700) · `ta`
 
-கடற்கரையோரங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ள சுற்றுலாத்துறையை நாட்டிற்குள் கொண்டு வந்து பொருளாதாரத்தை வலுப்படுத்த முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe emphasized the importance of expanding tourism beyond coastal areas to boost the economy, highlighting Galle's potential as a major tourist city. He opened the Cherin River Park, an ecological garden project costing 440 million rupees, aimed at economic development and environmental protection. The project also aims to alleviate flooding in Holugoda and Obadha. Wickremesinghe stressed the need for environmental protection laws and the development of Galle as a tourist attraction, noting that tourism is a key income sector. He also mentioned efforts to improve cinnamon yield and tea cultivation, and the relocation of government offices from Galle Fort to enhance tourism.
 
-நாட்டின் சுற்றுலாத்துறையை மேம்படுத்துவதில் தென்பகுதிக்குத் தனித்துவமான இடம் உள்ளது என்றும் காலியை பிரதான சுற்றுலா நகரமாக அபிவிருத்தி செய்ய திட்டமிடப்பட்டுள்ளதாகவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+🟩
 
-காலி, ஹோலுவாகொட "செரின் ரிவர் பார்க்" சூழலியல் பூங்காவை நேற்று (13) பிற்பகல் மக்கள் பாவனைக்காக திறந்து வைக்கும் நிகழ்விலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+President Ranil Wickremesinghe has urged the tourism industry that has been limited to the coasts and strengthen the economy.
 
-"2021 ஆம் ஆண்டு நிர்மாணப்பணிகள் ஆரம்பிக்கப்பட்ட இந்த பூங்கா 14 ஏக்கர் தரிசு நிலத்தில் உருவாக்கப்பட்டுள்ளது.
+The President pointed out that the South has a unique place to improve the country's tourism industry and that Galle is planning to develop as a major tourist city.
 
-கைத்தொழில் மற்றும் சுகாதார அமைச்சர் ரமேஷ் பத்திரனவின் தலைமையில் இந்தக் கருத்திட்டம் செயற்படுத்தப்பட்டதோடு,நகர அபிவிருத்தி அதிகார சபையினால் இதற்கான திட்டம் தயாரிக்கப்பட்டு, இலங்கை காணி மீட்பு மற்றும் அபிவிருத்திக் கூட்டுத்தாபனத்தினால் நிர்மாணப் பணிகள் மேற்கொள்ளப்பட்டது.
+President Ranil Wickremesinghe made this statement at the opening of the "Cherin River Park" Ecological Gardens for the public for use yesterday afternoon.
+
+“The park, which was started by 2021, was built on 14 acres of barren land.
+
+The project was implemented by the Minister of Industry and Health Ramesh Pathrana and the project was prepared by the Urban Development Authority and the construction of the Sri Lanka Land Recovery and Development Corporation.
+
+The assessment of the project is 440 million rupees. The park is located in the pond, sidewalks, iron bridges, children's parks, trade centers and environmental structures and is available from sunlight.
 
 ...
 
 [Data](articles/bf4d7b7c.json)
 
+[Extended Data](ext_articles/bf4d7b7c.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංගය ගැන තීරණයක් ගනී
+### ළහිරු තිරිමාන්න රිය අනතුරකට ලක්වේ
+
+*2024-03-14 12:32:07* · [`adalk`](https://www.ada.lk/breaking_news/ළහිරු-තිරිමාන්න-රිය-අනතුරකට-ලක්වේ/11-408604) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක ලහිරු තිරිමාන්න අනුරාධපුර, තිරිප්පනේ මාර්ගයේ 117 කණුව ප්‍රදේශයේදී සිදුවු රිය අනතුරකින්  සුළු තුවාල ලබා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව පොලිසිය පවසයි.
+
+අද 14දා පෙරවරු 07.45 ට පමණ තිරිමාන්න ගමන් ගත් මෝටර් රථය ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය සඳහන් කළේය. මෝටර් රථයේ ගමන් ගත් තවත් පුද්ගලයින් තිදෙනෙකු, ලොරි රථයේ රියදුරු සහ තවත් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර ඇති බව සඳහන් කලේය.
+
+◼️
+
+[Data](articles/5cdffee6.json)
+
+---
+
+### Decision on the no-confidenceability of the speaker
 
 *2024-03-14 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194496) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහිව විපක්ෂය විසින් බාරදුන් විශ්වාසභංග යෝජනාව සම්බන්ධයෙන් පක්ෂ නායකයින් තීරණයක් ගෙන තිබේ.
+Party leaders decided to debate no-confidence motion against Speaker Mahinda Yapa Abeywardena on March 19-20.
 
-ඔවුන් තීරණය කර ඇත්තේ අදාළ යෝජනාව මාර්තු 19 සහ 20 යන දෙදින තුළ විවාදයට ගැනීමට ය.
+🟩
 
-එහි ඡන්ද විමසීම 20 වනදා සවස පැවැත්වීමට ද අද (14) රැස්වූ පක්ෂ නායකයෝ තීරණය කළහ.
+The party leaders have decided to hand over the no-confidence motion to the opposition proposal against Speaker Mahinda Yapa Abeywardena.
+
+They have decided to debate on March 19 and 20.
+
+The leaders of the party decided this evening today evening.
 
 ◼️
 
 [Data](articles/0d0f9dec.json)
 
+[Extended Data](ext_articles/0d0f9dec.ext.json)
+
 ---
 
-### ජනපති කෝටි 50ක් ලබාදෙයි
+### Central Highway Reconstruction: Important Notice for Drivers
+
+*2024-03-14 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/178697) · `ta`
+
+The Central Expressway will undergo 14-day reconstruction from Thursday, affecting the 56.9 km stretch between Mirigama and Kurunegala. Motorists are advised to use the 56.2 km road as an alternative. Travelers from Kurunegala to Meerigama should take the 57.4 km route on the right of the high-speed road, use the emergency route, and return to their path. Only one lane will be open for motorists during this period.
+
+🟩
+
+The Central Expressway will be rehabilitated for 14 days from Thursday (14), police said.
+
+Accordingly, the Road Development Authority will carry out the reconstruction work from 56.9 km to 56.9 km to 56.9 km from the Mirigama - Kurunegala area on the Central Expressway.
+
+Special road plans have been formulated for motorists traveling from Mirigama to Kurunegala to use the Central Expressway to use the 56.2 -kilometer road before the emergency.
+
+Travelers from Kurunegala to Meerigama are advised to travel the 57.4 kilometer route on the right of the high -speed road and then use the emergency route and return to the desired path.
+
+Arrangements have been made to use only one lane of motorists during the rehabilitation of the central high -speed road.
+
+◼️
+
+[Data](articles/356eead6.json)
+
+[Extended Data](ext_articles/356eead6.ext.json)
+
+---
+
+### The President will be given 50 million
 
 *2024-03-14 12:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194495) · `si`
 
-වී අලෙවි මණ්ඩලයට වී මිලදීගැනීම සඳහා ජනාධිපතිවරයාගේ නියමයෙන් රුපියල් කෝටි 50ක මුදලක් ලබාදීමට තීරණය කර ඇති බව කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+The President has decided to provide Rs. 50 crores to the Paddy Marketing Board, with at least two paddy stores in every district to be purchased.
 
-මේ අනුව හෙට (15) සිට අවම වශයෙන් සෑම දිස්ත්‍රික්කයකම අවම වශයෙන් වී ගබඩා දෙකක් බැගින් වී මිලදීගැනීම සඳහා විවෘතව තබන බව අමාත්‍යවරයා සඳහන් කළේය.
+🟩
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the President has decided to provide Rs. 50 crores to the Paddy Marketing Board.
+
+Accordingly, at least two paddy stores at least in every district will be purchased at least two paddy stores in every district.
 
 ◼️
 
 [Data](articles/d207f703.json)
+
+[Extended Data](ext_articles/d207f703.ext.json)
 
 ---
 
@@ -140,6 +224,8 @@ In a letter addressed to the IMF, Human Rights Watch further emphasized the need
 
 [Data](articles/20246125.json)
 
+[Extended Data](ext_articles/20246125.ext.json)
+
 ---
 
 ### The no -confidence motion against the Speaker on the 19th and 20th!
@@ -174,6 +260,8 @@ The Agriculture Minister stated that accordingly, at least two paddy purchasing 
 
 [Data](articles/4bb7500e.json)
 
+[Extended Data](ext_articles/4bb7500e.ext.json)
+
 ---
 
 ### Motion: 19 - 20 Discussion
@@ -193,32 +281,6 @@ The referendum on the motion will be held at 4.30 pm on the 20th.
 [Data](articles/2a509613.json)
 
 [Extended Data](ext_articles/2a509613.ext.json)
-
----
-
-### Central Highway Reconstruction: Important Notice for Drivers
-
-*2024-03-14 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178697) · `ta`
-
-The Central Expressway will undergo 14-day reconstruction from Thursday, affecting the 56.9 km stretch between Mirigama and Kurunegala. Motorists are advised to use the 56.2 km road as an alternative. Travelers from Kurunegala to Meerigama should take the 57.4 km route on the right of the high-speed road, use the emergency route, and return to their path. Only one lane will be open for motorists during this period.
-
-🟩
-
-The Central Expressway will be rehabilitated for 14 days from Thursday (14), police said.
-
-Accordingly, the Road Development Authority will carry out the reconstruction work from 56.9 km to 56.9 km to 56.9 km from the Mirigama - Kurunegala area on the Central Expressway.
-
-Special road plans have been formulated for motorists traveling from Mirigama to Kurunegala to use the Central Expressway to use the 56.2 -kilometer road before the emergency.
-
-Travelers from Kurunegala to Meerigama are advised to travel the 57.4 kilometer route on the right of the high -speed road and then use the emergency route and return to the desired path.
-
-Arrangements have been made to use only one lane of motorists during the rehabilitation of the central high -speed road.
-
-◼️
-
-[Data](articles/356eead6.json)
-
-[Extended Data](ext_articles/356eead6.ext.json)
 
 ---
 
@@ -356,23 +418,31 @@ Earlier, the PAA served as the Director General of Civil Aviation Authority and 
 
 ---
 
-### ’’පොල්’’ ඔනෙකෙනෙක් කඩාගෙන යන්න
+### "Coconut '' coconut '' 'break down in one
 
 *2024-03-14 11:19:47* · [`adalk`](https://www.ada.lk/breaking_news/’’පොල්’’-ඔනෙකෙනෙක්-කඩාගෙන-යන්න/11-408602) · `si`
 
-ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+The Government Agent Lalinda Gamage and Government Manager Saman Herath emphasize the importance of coconut cultivation in Gampaha District. The Coconut Cultivation Board is working to improve cultivation, and the District Management plans to distribute 1000 coconut seedlings.
 
-ගම්පහ දිස්ත්‍රික්කයෙහි පොල් වගාව තවත් වැඩි දියුනු කිරීමට පොල් වගාකිරීමේ මණ්ඩලය පියවර ගෙන ඇති බව එම මණ්ඩලයේ දිස්ත්‍රික් කළමනාකාර සමන් හේරත් මහතා විසින් පොල් වගා ප්‍රගතිය ඉදිරිපත් කළ අවස්ථාවේ දිසාපතිවරයා එසේ පැවසීය.
+🟩
 
-පොල් මිල ගණන් ඉහළ ගොස් ඇති බැවින් ඉඩ ඇති  සෑම භූමි ප්‍රමාණයකම පොල් වගා කිරීමට රාජ්‍ය නිලධාරීන් පියවර ගන්නා ලෙසත් මේවායෙහි ඵලදාව කවුරුන් ගත්තද ප්‍රශ්ණයක් නොවන බව පැවසූ දිසාපතිවරයා , වගාකිරීම පිනිස අවශ්‍ය පොල් පැල පොල් වගා කිරීමේ මණ්ඩලයෙන් ලබා ගැනීමට කටයුතු කළ යුතු බවත් පැවසීය.
+The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
 
-මේ සදහා ප්‍රධාන කාර්යාලය වෙත දැනුම් දෙමින් පොල් පැල 1000 ක් පළමුවෙන් ලබාදීමට පියවර ගන්නා බව දිස්ත්‍රික් කළමනාකාරවරයා මෙහිදී ප්‍රකාශ කළේය
+The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
 
-ගම්පහ දිස්ත්‍රික්කයේ රාජ්‍ය ආයතන භූමි සහ නිල නිවාස භූමි ආදියෙහි ඉඩ ඇති සෑම කොටසකම පොල් වගා කිරීම සුදුසු බව දිසාපති ලලින්ද ගමගේ මහතා දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී සදහන් කළේය.
+He said that the government officials should take steps to take steps to take steps to cultivate the coconut cultivation in every land, which they have gone up.
+
+The District Management said that steps will be taken to provide 1000 coconut seedlings in announcing the headquarters.
+
+The Government Agent Lalinda Gamage stated that it is appropriate to cultivate coconut cultivation in every part of the Gampaha District, the land and quarters of the land.
+
+The Government Manager Saman Herath said that the Coconut Cultivation Board has taken steps to improve the coconut cultivation in the Gampaha district.
 
 ...
 
 [Data](articles/f75054b3.json)
+
+[Extended Data](ext_articles/f75054b3.ext.json)
 
 ---
 
@@ -2095,45 +2165,5 @@ Also he said Sri Lanka should be a stakeholder of fast developing Indian states 
 [Data](articles/0977544f.json)
 
 [Extended Data](ext_articles/0977544f.ext.json)
-
----
-
-### The Conspiracy: Gotabaya’s Mein Kampf could incite ethnic, religious conflict
-
-*2024-03-13 23:35:14* · [`dailyftlk`](https://www.ft.lk/columns/The-Conspiracy-Gotabaya-s-Mein-Kampf-could-incite-ethnic-religious-conflict/4-759442) · `en`
-
-“…The point I made about the Aragalaya being fundamentally, an anti-Sinhalese and anti-Buddhist enterprise from the beginning to the end”
-
-Dr. Colvin R. de Silva’s position on the executive presidency was slightly more nuanced than the flat denunciation by Dr. N.M. Perera. While criticising the 1978 Constitution, he took pains in a contribution to the Lanka Guardian magazine to emphasise that the Jayewardene presidential system, though deriving from the Gaullist model of France, has significant accretions and distortions which brought it more into line with those of Francophone Africa. Colvin pointed explicitly to the tyrant Jean-Bedel Bokassa of the Central African Republic. He quipped that the main danger of the over-concentration of power in the 1978 Jayewardene Constitution is that “someday we may not only have to suffer a bad president but also a mad president”.
-
-...
-
-[Data](articles/462d216d.json)
-
-[Extended Data](ext_articles/462d216d.ext.json)
-
----
-
-### Bangladesh beat Sri Lanka in the first match
-
-*2024-03-13 23:08:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலாவது-போட்டியில்-இலங்கையை-வீழ்த்தியது-பங்களாதேஷ்/44-334634) · `ta`
-
-Bangladesh won the first ODI against Sri Lanka by 6 wickets, while Sri Lanka lost by 255 runs in Chittagong.
-
-🟩
-
-Bangladesh won by 6 wickets in the first one -day international cricket match between Sri Lanka and Bangladesh.
-
-The Sri Lankan team won the match in Chittagong and won by 255 runs for the loss of all wickets in 48.5 overs.
-
-Bangladesh were bowled out for 256 runs and reached the target by the Bangladesh team lost 4 wickets in 44.4 overs.
-
-Accordingly, the three -match ODI series is zero in the presence of Bangladesh.. Remble
-
-◼️
-
-[Data](articles/cc973b90.json)
-
-[Extended Data](ext_articles/cc973b90.ext.json)
 
 ---

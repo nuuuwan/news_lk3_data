@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 02:18:05**
+As of **2024-03-15 02:33:33**
 
 ## Newspaper Stats
 
@@ -26,43 +26,63 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,972 (100.0%) of 12,974 articles have been extended.
+12,974 (100.0%) of 12,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### வடக்கின் அபிவிருத்திக்கென பல மில்லியன் நிதியை வழங்கும் இந்தியா, சீனா, ஜப்பான் நாடுகள் : சந்தரப்பங்களை சரியாக பயன்படுத்திக்கொள்வது அவசியம் - அமைச்சர் டக்ளஸ்
+### India, China and Japan, which offer millions of funds for the development of the North - need to be used properly - Minister Douglas
 
 *2024-03-15 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178762) · `ta`
 
-வடபகுதியின் பல்வேறு அபிவிருத்தி நடவடிக்கைகள் மற்றும் பாதுகாப்பு நடவடிக்கைகளுக்காகப் பல மில்லியன் நிதியை வழங்க சீனா, இந்தியா, மற்றும் ஜப்பான் ஆகிய நாடுகள் முன்வந்துள்ளதாகத் தெரிவித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா, கிடைக்கப்பெறும் சந்தர்ப்பத்தைச் சரியானதாக பயன்படுத்திக்கொள்வது அவசியம் எனவும் தெரிவித்துள்ளார்.
+India, China, and Japan have pledged millions for North's development, with China offering 1500 million, India 3000 million, and Japan 415 million. These funds aim for development, security, and relief.
 
-பாரிய பொருளாதார நெருக்கடியை நாடு சந்தித்திருந்தாலும் தற்போதுள்ள அரசின் சரியான அரசியல் வழிநடத்தல் காரணமாக அந்த நிலையிலிருந்து நாடு தற்போது மீண்டு வருகின்ற நிலையில் வடக்கின் அபிவிருத்திக்கு இன்றைய அரசு அதிகளவான முக்கியத்துவம் கொடுத்து வருகின்றது.
+🟩
 
-அதன் அடிப்படையில் வெளிநாடுகளுடன் நாம் குறித்த நாடுகளுடன் ஏற்படுத்திக்கொண்டுள்ள இராஜதந்திர நடவடிக்கைகளின் பயனாக வடக்கின் அபிவிருத்திக்காக சீனா 1500 மில்லியன் நிதியை வழங்க முன்வந்துள்ளது.
+Minister Douglas Devananda has said that China, India and Japan have come forward to provide millions of funds for various development and security measures in the North.
 
-குறித்த 1500 மில்லியனில் வீட்டுத்திட்டத்துக்காக 500 மில்லியனும், மக்களுக்கு அரிசி வழங்குவதற்காக 500 மில்லியனும், கடற்றொழிலாளர்களுக்கான வலை வழங்குவதற்காக 500 மில்லியனும் வழங்கப்படுகின்றது.
+Despite the massive economic crisis, the present government is giving much importance to the development of the North as the country is now recovering from the situation due to the proper political guidance of the existing state.
+
+On the basis of this, China has offered to provide 1500 million funds for the development of the North as a benefit of diplomatic measures we have with foreign countries.
+
+500 million for the housing scheme at 1500 million, 500 million to provide rice to the people, and 500 million to the fishermen's web.
+
+Prime Minister Dinesh Gunawardena is on his way to China on the 22nd of this month. I hope the Prime Minister will go to China next week.
+
+At the same time, the Government of India has offered to provide 3000 million funds for the development of the North.
 
 ...
 
 [Data](articles/fb7d26c7.json)
 
+[Extended Data](ext_articles/fb7d26c7.ext.json)
+
 ---
 
-### திருக்கேதீஸ்வரம் புதைகுழி: காபன் பரிசோதனை தாமதமாகும்?
+### Thirukkadeeswaram Burial: Gabbon Test is delayed?
 
 *2024-03-15 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178761) · `ta`
 
-ஒரு தசாப்தத்திற்கு முன்னர் வடக்கின் மன்னார் பிரதேசத்தில் கண்டறியப்பட்ட மனித புதைகுழியில் இருந்து தோண்டி எடுக்கப்பட்ட மனித எலும்புகள் தொடர்பான காபன் பரிசோதனைகள் மேலும் தாமதமாகுமென இந்த வழக்கில் காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் சார்பில் முன்னிலையாகும் சடடத்தரணிகள் தெரிவிக்கின்றனர்.
+The Gabbon Test for the Thirukkadeeswaram burial is delayed. Relatives of missing persons suspect the bones found in Mannar are their kin. The case was heard on March 14, with delays in funding for the C14 examination. Dr. Tanjaya Vaidyarathna is ready to conduct the C-4 Carbon Dating Test, which requires samples sent to a US Laboratory. The samples are stored in court documents. The relatives of the disappeared express suspicion that the bones may be their kin.
 
-மன்னார் திருக்கேதீஸ்வரம் ஆலய வளாக மனித புதைகுழி குறித்த வழக்கு விசாரணை கடந்த திங்கட்கிழமை (மார்ச் 14) மன்னார் நீதவான் நீதிமன்ற நீதிபதி முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+🟩
 
-வழக்கு விசாரணைகளில் நிறைவில் ஊடகங்களுக்கு கருத்து வெளியிட்ட காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் சார்பில் நீதிமன்றில் முன்னிலையாகும் சடடத்தரணி வி. எஸ். நிரஞ்சன் நிதியை பெற்றுக்கொடுப்பது குறித்த செயற்பாட்டில் காணாமல்போனோர் குறித்த அலுவலகத்தின் பணிகள் தாமதமடைவதாக குறிப்பிட்டார்.
+Saddhars on behalf of the relatives of the missing persons say that the human bones related to the excavation from the human burial ground in the Mannar area of the North one decade ago.
+
+The case of the Mannar Thiruketheeswaram temple complex was taken up for hearing in the presence of the Mannar Magistrate's Court on Monday (March 14).
+
+Commenting on the trial of the case. S.. Niranjan noted that the office of the missing persons was delayed in the process of receiving funds.
+
+“As the C14 examination was to be sent, the price of the missing persons was sought by the Office of the Disappeared to provide funds for the funds.. The case will be called on May 13, as they have been unable to provide their answer today (March 11).
+
+Attorney Niranjan further stated that when the case was taken up for hearing on February 14, he pointed out that the demand for funds was issued to the office of the missing persons and therefore they were in disrepair.
 
 ...
 
 [Data](articles/c033c44b.json)
+
+[Extended Data](ext_articles/c033c44b.ext.json)
 
 ---
 

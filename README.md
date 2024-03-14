@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 10:50:35**
+As of **2024-03-14 11:02:54**
 
 ## Newspaper Stats
 
-*Scraped **12,791** Articles*
+*Scraped **12,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,116 @@ newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 680
 islandlk | 699
-adalk | 1,092
+adalk | 1,093
 adaderanalk | 1,538
 tamilmirrorlk | 1,557
-virakesarilk | 1,770
-dailymirrorlk | 1,956
-adaderanasinhalalk | 2,020
+virakesarilk | 1,774
+dailymirrorlk | 1,957
+adaderanasinhalalk | 2,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,790 (100.0%) of 12,791 articles have been extended.
+12,791 (99.9%) of 12,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### முல்லைத்தீவு - புதுக்குடியிருப்பில் விஷேட சோதனை நடவடிக்கை
+
+*2024-03-14 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/178687) · `ta`
+
+முல்லைத்தீவு புதுக்குடியிருப்பு பகுதியில் பொலிஸார் மற்றும் விஷேட அதிரடி படையினர் இணைந்து விஷேட சோதனை நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+
+நாட்டில் போதைப்பொருள் மற்றும் பாதாள உலகக் குழுக்களின் செயற்பாடுகளை கட்டுப்படுத்துவதற்காக பொலிஸாரால் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் விசேட நடவடிக்கையான ‘யுக்திய’வின் ஒரு பகுதியாகவே புதுக்குடியிருப்பு பிரதேசத்தில் விசேட போக்குவரத்து சோதனை நடவடிக்கை நேற்று புதன்கிழமை (13) மாலை முன்னெடுக்கப்பட்டிருந்தது.
+
+எனினும் குறித்த  நடவடிக்கையில் பொலிஸார், விஷேட அதிரடி படையினர் ஆகியோர் இச்சோதனை நடவடிக்கையில் ஈடுபட்டிருந்ததுடன்  எதுவிதமான சந்தேகத்திற்கிடமான பொருட்களும் மீட்கப்படவில்லை என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/47494863.json)
+
+---
+
+### එංගලන්ත ප්‍රබලයෙක් IPL තරගාවලියෙන් ඉවත්වෙයි
+
+*2024-03-14 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194492) · `si`
+
+එංගලන්ත කණ්ඩායමේ ප්‍රබල පිතිකරුවෙක් එළඹෙන ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියෙන් ඉවත් වී තිබේ.
+
+සිය මිත්තනියගේ මරණය හේතුවෙන් තරගාවලියෙන් ඉවත්වීමට තමා තීරණය කළ බව නිවේදනයක් නිකුත් කරමින් ඔහු පැවසීය.
+
+පසුගියදා පැවති ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රීඩක වෙන්දේසියේදී දිල්ලි කැපිටල්ස් කණ්ඩායම විසින් ඉන්දීය රුපියල් කෝටි 4කට හැරී බෘෘක් ව මිලදී ගනු ලැබීය.
+
+කෙසේවෙතත් හැරී බෘෘක් වෙනුවට කණ්ඩායමට ඇතුළත් කෙරෙන ක්‍රීඩකයා පිළිබඳ දිල්ලි කැපිටල්ස් කණ්ඩායම මෙතෙක් නිල වශයෙන් වාර්තා කර නොමැත.
+
+සිය මිත්තනිය පසුගිය මාසයේ මියගිය බැවින් තමා එම තීරණය ගත් බවත් එංගලන්ත පිතිකරුවා පැවසීය.
+
+තමා කුඩා කාලයේ පටන් සිය මිත්තනිය තමාගේ සෙවණැල්ල මෙන් කටයුතු කළ බව බෘෘක්, එබැවින් එම මරණය තමාට බෙහෙවින් කම්පාව ඇතිකළ සිදුවීමක් බවත් කීය.
+
+බෘෘක් ගේ මිත්තනිය මාස කිහිපයක් අසනීපව සිටි අතර එබැවින් ඔහු ඉන්දියාව සමග පැවති තරග 5කින් සමන්විත ටෙස්ට් තරගාවලියට ද සහභාගී නොවීය.
+
+◼️
+
+[Data](articles/90e6cbb3.json)
+
+---
+
+### வவுனியாவில் நெல் ஏற்றிச்சென்ற வாகனம் குடைசாய்ந்தது ; ஒருவர் காயம்
+
+*2024-03-14 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178689) · `ta`
+
+வவுனியா புளியங்குளம் பகுதியில் நெல் மூடைகளை ஏற்றிச்சென்ற வாகனம் குடைசாய்ந்து விபத்திற்குள்ளானதில் ஒருவர் காயமடைந்தார். குறித்த விபத்து புதன்கிழமை (13) மாலை இடம்பெற்றது.
+
+முல்லைத்தீவிலிருந்து நெல் மூடைகளை ஏற்றிக்கொண்டு வவுனியா நோக்கிவந்துகொண்டிருந்த கென்ரர் ரக வாகனம் புளியங்குளம் சந்திக்கு அண்மையில் சென்றுகொண்டிருந்த போது வீதியை விட்டு விலகி குடைசாய்ந்து விபத்திற்குள்ளானது.
+
+விபத்தில் வாகனத்தில் பயணித்த ஒருவர் காயமடைந்தார்.வாகனத்தின் முன்சக்கரம் வெடித்ததில் குறித்த விபத்து இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/a372adc0.json)
+
+---
+
+### US House passes bill that could ban TikTok nationwide
+
+*2024-03-14 10:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-House-passes-bill-that-could-ban-TikTok-nationwide/108-278841) · `en`
+
+BBC - The US House of Representatives has passed a landmark bill that could see TikTok banned in America.
+
+It would give the social media giant's Chinese parent company, ByteDance, six months to sell its controlling stake or the app would be blocked in the US.
+
+While the bill passed overwhelmingly in a bipartisan vote, it still needs to clear the Senate and be signed by the president to become law.
+
+Lawmakers have long held concerns about China's influence over TikTok.
+
+TikTok is owned by Chinese company ByteDance, founded in 2012.
+
+The Beijing-based firm is registered in the Cayman Islands, and has offices across Europe and the US.
+
+If the bill does manage to secure approval in the Senate, President Joe Biden has promised to sign it as soon as it lands on his desk, which could prompt a diplomatic spat with China.
+
+...
+
+[Data](articles/2b7a8ada.json)
+
+---
+
+### லஹிரு திரிமான்ன பயணித்த கார் லொறியுடன்  மோதி  விபத்து!
+
+*2024-03-14 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/178686) · `ta`
+
+அநுராதபுரம், திரப்பன பகுதியில் இலங்கையின் முன்னாள் கிரிக்கெற் வீரர் லஹிரு திரிமான்ன பயணித்த கார், லொறியுடன்  மோதி விபத்துக்குள்ளானது.
+
+விபத்தில் காரில் பயணித்த மூவரும் லொறியின் சாரதியும் மற்றுமொருவரும் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இந்த விபத்து இன்று வியாழக்கிழமை (14) காலை 7.45 மணியளவில் இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/317dae60.json)
+
+---
 
 ### Do not sign English bank agreement forms: Business Alliance urges public
 
@@ -50,11 +144,27 @@ According to the statement issued by the Sri Lanka Bankers Association, they hav
 
 [Data](articles/6f15f79d.json)
 
+[Extended Data](ext_articles/6f15f79d.ext.json)
+
+---
+
+### பசில் மற்றும் ஹக்கீமை சந்தித்தார் இந்தியத் தூதுவர் சந்தோஷ் ஜா
+
+*2024-03-14 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178685) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் பசில் ராஜபக்ச மற்றும் ஸ்ரீ லங்கா முஸ்லிம் காங்கிரசின் தலைவர் ரவூப் ஹக்கீம் ஆகியோரை இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா புதன்கிழமை (13) தனித்தனியாக சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இந்த சந்திப்பின்போது அரசியல் நடவடிக்கைகள் உள்ளிட்ட பல்வேறு  விடயங்கள் குறித்து ஆராயப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9400045a.json)
+
 ---
 
 ### Continuing shootings in South Sri Lanka;Today in Ambalangoda ...
 
-*2024-03-14 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178684) · `ta`
+*2024-03-14 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178684) · `ta`
 
 A shooting incident in Ponatuwa, Ambalangoda, targeted Sajith Saman Piyantha, a member of the 'Samankolla' underworld group, on Thursday morning. Bullets hit the house and its occupants, including his mother and three sisters.
 
@@ -81,6 +191,10 @@ It is noteworthy that many bullets attacked the walls and doors of the house and
 Former Sri Lankan cricketer Lahiru Thirimanna has been hospitalized following a road accident in Thrippane, Anuradapura, the Police said.
 
 Accordingly, he has been admitted to Anuradhapura Teaching Hospital with minor injuries sustained in the accident, according to police.
+
+Police mentioned that the car in which Thirimanne was travelling had collided with a lorry arriving from the opposite direction at around 07.45 a.m. this morning (14).
+
+Three other individuals travelling in the car, the driver of the lorry and another person have been injured and hospitalized, Ada Derana reporter said.
 
 ◼️
 
@@ -503,6 +617,22 @@ Underscoring the need to find new avenues to further improve trade and investmen
 [Data](articles/4211bc11.json)
 
 [Extended Data](ext_articles/4211bc11.ext.json)
+
+---
+
+### ,ලබන වසරේ සිට පියවරෙන් පියවර මෝටර් රථ ආනයනයට අවසර
+
+*2024-03-14 07:18:48* · [`adalk`](https://www.ada.lk/breaking_news/-ලබන-වසරේ-සිට-පියවරෙන්-පියවර-මෝටර්-රථ-ආනයනයට-අවසර/11-408599) · `si`
+
+ලබන වසරේ සිට ක්‍රමානුකූලව මෝටර් රථ ආනයනය කිරීමට කටයුතු කරන බව ජනපති රනිල් වික්‍රමසිංහ මහතා පවසයි. ඔහු පෙන්වා දෙන්නේ මෝටර් රථ ආනයනයට මේ අවස්ථාවේදී අවසර ලබාදුනහොත් රට ආපස්සට ගමන් කරනු ඇති බවයි. තරුණ හමුවක් අතර තුර ජනපතිවරයාට යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු  මේ බව පැවැසීය.
+
+"ලබන වසරේ සිට අපි එය ක්‍රමානුකූලව සිදු කිරීමට බලාපොරොත්තු වෙනවා. මෝටර් රථ වෙළඳපොලේ පවතින ගැටළු පිළිබඳ මම දැනුවත්. නමුත් තවමත් අපගේ ගෙවුම් ශේෂය යහපත් තත්ත්වයක නැහැ. අපි මෝටර් රථ ආනයනය හැර අනෙක් සියල්ලට ඉඩ දී තිබෙනවා.
+
+මොටර් රථ ආනයනයනය සිදු වුවහොත් නැවත රට ආපස්සට ගමන් කිරීමට හැකියාව තිබෙනවා. නමුත් ලබන වසරේ සිට පියවරෙන් පියවර, මුලින්ම අත්‍යවශ්‍ය වාහන වර්ග ආනයනය කිරීමට අපි බලාපොරොත්තු වෙනවා. මේ වසරේ සංචාරකයින් ප්‍රවාහන සඳහා යොදා ගන්නා බස් රථ ආනයනයට අප අවසර දී තිබෙනවා."
+
+◼️
+
+[Data](articles/accfe335.json)
 
 ---
 
@@ -1987,169 +2117,5 @@ The incident occurred when the people who had been repaired at the specified mot
 [Data](articles/4a23a3ed.json)
 
 [Extended Data](ext_articles/4a23a3ed.ext.json)
-
----
-
-### There is no such thing for free
-
-*2024-03-13 18:37:11* · [`adalk`](https://www.ada.lk/breaking_news/නොමිලයේ-කියලා-දෙයක්-නෑ/11-408593) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of building a strong economy over free services, highlighting the need for a positive future. He addressed youth concerns, including the high cost of mobile phones and online service charges, and the introduction of online education. He also discussed the economic crisis caused by free services, the government's efforts to recover from it, and the importance of careful action during challenging times.
-
-🟩
-
-President Ranil Wickremesinghe said that the political promises of the country had not understood the truth of the country due to the political promises of the country had to be severely affected.
-
-He emphasized that he was not prepared to do that wrongdoing and that everyone should act to build a positive future.
-
-President Ranil Wickremesinghe said that "United Youth Youth Conducting Youth". The meeting was held yesterday (12) at the Postalistics.
-
-The President said that we should take to an expensive economy in building the economy of the country.
-
-A large number of youths representing various fields were also present at the meeting and submit their problems directly to the President.
-
-The President, who was responding to all those questions, joined the youths with a friendly story with the youths.
-
-Neomal Perera, Advisory Neomal Perera, was aimed at the President's arrival by President Ranil Wickremesinghe on behalf of this discourse.
-
-...
-
-[Data](articles/ca49c455.json)
-
-[Extended Data](ext_articles/ca49c455.ext.json)
-
----
-
-### Govt to gradually allow essential vehicle imports starting next year - President
-
-*2024-03-13 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97929/govt-to-gradually-allow-essential-vehicle-imports-starting-next-year-president-) · `en`
-
-President Ranil Wickremesinghe underscored the consequences of political promises made without a comprehensive understanding of the country’s economy, highlighting the resulting hardships faced by the people.
-
-In a departure from such approaches, the President emphasized the importance of facing reality and working collectively towards a positive future for the nation.
-
-The President made these remarks during his presence in a convivial gathering organized by the United Youth Union, titled “Future of the Youth,” held yesterday (12) at Thaprobane Entertainment.
-
-“The collapse of our country’s economy can largely be attributed to the unsustainable practice of providing everything for free. This approach ultimately burdens someone else, leading to economic instability,” he said, responding to a question on increasing prices of mobile phones and internet service charges.
-
-...
-
-[Data](articles/72211f83.json)
-
-[Extended Data](ext_articles/72211f83.ext.json)
-
----
-
-### Gotabaya Rajapaksa’s  Book “The  Conspiracy” is  a Banal Conspiracy Theory  Repetition  Without Substantive Proof to Bolster it.
-
-*2024-03-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83773) · `en`
-
-The Mountains have laboured and brought forth a mouse!. Former Sri Lankan President Nandasena  Gotabaya Rajapaksa has after many poya days reportedly authored a  book. The political grapevine had been buzzing for several months that a book  by the ex-president known popularly as Gota and Gotabaya was in progress. It was supposedly a bombshell book with explosive revelations. The book belied such expectations..It was a damp squib!
-
-Gotabaya Rajapaksa released a statement on March 6th that his book will be launched on March 7th 2024. He also posted on X as follows – My book “The Conspiracy to oust me from the Presidency” will be available in English and Sinhala at leading bookstores from tomorrow, Thursday, March 7th, 2024. The firsthand experience of an internationally sponsored regime change operation.”
-
-...
-
-[Data](articles/a6667b87.json)
-
-[Extended Data](ext_articles/a6667b87.ext.json)
-
----
-
-### Second edition of ‘SIRIMAVO - Steering the Destiny of a Nation’ published
-
-*2024-03-13 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Second-edition-of-SIRIMAVO-Steering-the-Destiny-of-a-Nation-published/108-278787) · `en`
-
-The Bandaranaike Museum Committee has taken step to publish the second limited edition of the Pictorial Biography; ‘SIRIMAVO - Steering the Destiny of a Nation’ in collaboration with the Sarasavi Bookshop and it is now available for sale, the Bandaranaike Museum Committee said.
-
-It said the book was published due to various request from the public here and abroad.
-
-The first edition of this book showcasing rare archival photographs depicting the remarkable public life of Mrs. Sirimavo Bandaranaike, who made history in July 1960 as the world’s first woman Prime Minister, was released in March 2022 as a limited publication, and was sold out within few months, the Committee said in a statement.
-
-This coffee table book, ‘SIRIMAVO- Steering the Destiny of a Nation’ presents the remarkable story of Sirimavo Bandaranaike, an extraordinary Prime Minister who pioneered new paths in both national and international arenas.
-
-Emphasizing photographs, it offers a fresh perspective on her impactful legacy.
-
-...
-
-[Data](articles/e9629765.json)
-
-[Extended Data](ext_articles/e9629765.ext.json)
-
----
-
-### Kavan Ratnayaka appointed chairman of Sri Lanka’s Bank of Ceylon
-
-*2024-03-13 18:12:00* · [`economynextcom`](https://economynext.com/kavan-ratnayaka-appointed-chairman-of-sri-lankas-bank-of-ceylon-154546/) · `en`
-
-ECONOMYNEXT – Kavan Ratnayaka has been appointed to succeed Ronald C Perera PC as chairman of the Bank of Ceylon with effect from March 14, BoC said in a stock exchange filing.
-
-Ratnayaka currently serves on the Board of KBSL (Pvt) Ltd and Agility Innovations (Pvt) Limited, and is a Trustee of the Jayam Wijeratnam Trust and of the Dialog Foundation.
-
-He has previously functioned as the chairman of the National Development Bank PLC (NDB), the Sri Lanka Ports Authority (SLPA), the Sri Lanka Tourism Development Authority (SLTDA), and Associated Newspapers of Ceylon Ltd (ANCL).
-
-He has also served as the group chief corporate officer of Cargills Ceylon PLC and of Dialog Axiata PLC, the chief executive officer of Dialog Broadband Networks (DBN) and as IBM Sri Lanka’s country general manager.
-
-He has served as a committee member of the Ceylon Chamber of Commerce (CCC), a council member of the Employers Federation of Ceylon (EFC), and as president of the American Chamber of Commerce (AMCHAM).
-
-...
-
-[Data](articles/62f050ba.json)
-
-[Extended Data](ext_articles/62f050ba.ext.json)
-
----
-
-### Credit card data dating data that is called Sri Lanka Post
-
-*2024-03-13 17:59:28* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-තැපෑල-කියා-ණය-කාඩ්පත්-දත්ත-සොරා-ගැනීමේ-ජාවාරමක්/11-408592) · `si`
-
-Sri Lanka Post's Master General RP warns against sharing credit card data via SMS for parcel fees. The PostCorganization, involving postgraduates and the Department of Postal Services, emphasizes that credit card inquiries are not conducted by the Sri Lanka Postal Department. For more information, contact Postal Department's Support Service at 1950, IT 011-2542104, 011-2335978, 011-2335972, 011-2330072.
-
-🟩
-
-Master General RP has sent a borrowing SMS to inform the public as a SMS issued by the Sri Lanka Post to pay fees for a parcel.. Says Sankumara.
-
-The PostCorganization is also implemented using the post of Postgraduates using the Department of Postal Department using the Department of Postal Department, SLMC, SL Post, SL Post, Sri Lanka Post.
-
-He says that the Credit Card Inquiry is not conducted by the Sri Lanka Postal Department, a credit card information is not conducted by the SMS.
-
-A sum of money is requested not to give his credit card data or a text message or otherwise to a text message to the public.
-
-More information on this is the help of the Postal Department's Support Service 1950, IT 011-2542104, 011-2335978, 011-2335972, 011-2330072.
-
-◼️
-
-[Data](articles/eaf338d3.json)
-
-[Extended Data](ext_articles/eaf338d3.ext.json)
-
----
-
-### Petitions of Police
-
-*2024-03-13 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194472) · `si`
-
-The Supreme Court today heard petitions by Chief Inspectors seeking promotions to Assistant Superintendent of Police. Issued by Gamini Amarasekera, Yasantha Kodagoda, and Mahinda Samayawardena, the Inspector General of Police (IGP) and the National Police Commission were ordered to object. The case will be heard on the 10th and 11th.
-
-🟩
-
-The Supreme Court today (13) was permitted to be heard today (13) the fundamental rights petitions filed by a group of Chief Inspectors.
-
-The petitions have been filed as a promotions for the office of Assistant Superintendent of Police in the year.
-
-The order has been issued by Gamini Amarasekera, Yasantha Kodagoda and Mahinda Samayawardena.
-
-Accordingly, the Inspector General of Police (IGP) had ordered the IGP and the National Police Commission, who had been named as respondents to file the objections to these petitions.
-
-The panel of judges have been ordered to be heard on the 10th and 11 of the petitions.
-
-Deputy Solicitor General Nirmalan Wigneswaran appeared for the respondents before the petition, he said that 230 Assistants of Assistant Superintendents of the Court are present.
-
-◼️
-
-[Data](articles/53050420.json)
-
-[Extended Data](ext_articles/53050420.ext.json)
 
 ---

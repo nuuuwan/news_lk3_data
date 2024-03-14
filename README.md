@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 22:04:03**
+As of **2024-03-14 22:17:53**
 
 ## Newspaper Stats
 
-*Scraped **12,956** Articles*
+*Scraped **12,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 663
 economynextcom | 695
 islandlk | 700
 adalk | 1,118
-adaderanalk | 1,560
+adaderanalk | 1,561
 tamilmirrorlk | 1,578
 virakesarilk | 1,798
 dailymirrorlk | 1,977
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,952 (100.0%) of 12,956 articles have been extended.
+12,956 (100.0%) of 12,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### Magnitude 5.8 earthquake hits Japan’s Fukushima
+
+*2024-03-14 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97964/magnitude-58-earthquake-hits-japans-fukushima) · `en`
+
+An earthquake with a preliminary magnitude of 5.8 hit eastern Japan early on Friday, the Japan Meteorological Agency said.
+
+The epicentre of the earthquake was off the coast of Fukushima prefecture, where strong tremors were recorded, the agency said, adding that a tsunami warning had not been issued.
+
+◼️
+
+[Data](articles/2668b8bc.json)
+
+---
 
 ### Navy to probe conduct of personnel during abduction of couple in Jaffna
 
@@ -46,25 +60,33 @@ On 11 March, a couple was violently assaulted and abducted by a group of individ
 
 [Data](articles/f7ca772a.json)
 
+[Extended Data](ext_articles/f7ca772a.ext.json)
+
 ---
 
-### ටිපර් රථයක් නතර කරගැනීමට පොලීසිය වෙඩිතබයි
+### Police are shocked to stop a tipper
 
 *2024-03-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194522) · `si`
 
-පොලිස් අණ නොතකා ධාවනය කළ ටිපර් රථයකට වෙඩිතබා සැකකරු අත්අඩංගුවට ගැනීමට පොලීසිය අද (14) සමත්විය.
+Police arrested a shopkeeper for allegedly shooting at officers, stopping the incident. The suspect will face charges in Mullaitivu Magistrate's Court.
 
-ඔඩ්ඩුසුඩාන් පොලීසිය පැවසුවේ ටිපර් රථයේ රෝදයන්ට වෙඩිතබා රථය නතරකර ගැනීමට පොලීසිය සමත්වූ බවය.
+🟩
 
-මෙම මෙහෙයුමට පොලීසිය සහ පොලිස් විශේෂ කාර්ය බළකාය එක්වී තිබේ.
+Police have arrested the shopkeeper to arrest the shot in the police orders.
 
-පොලීසිය සඳහන් කළේ අදාළ ටිපර් රථය පොලිස් නිලධාරීන් අනතුරට පත්කරගෙන යෑමට උත්සාහ කළ බවය.
+The Oddusuddan Police said that the police were able to stop the shot of tipper.
 
-අත්අඩංගුවට ගත් සැකකරු මුලතිව් මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව වාර්තා වෙයි.
+Police and the STF have joined the police and the STF.
+
+Police said the tipper tried to crash the police officers.
+
+The suspect is to be produced before the Mullaitivu Magistrate's Court.
 
 ◼️
 
 [Data](articles/aea0e7a3.json)
+
+[Extended Data](ext_articles/aea0e7a3.ext.json)
 
 ---
 
@@ -141,6 +163,8 @@ State Minister of Defence Premitha Bandara Tennakoon, underscored the grave cons
 ...
 
 [Data](articles/a7ba05a2.json)
+
+[Extended Data](ext_articles/a7ba05a2.ext.json)
 
 ---
 
@@ -1586,6 +1610,8 @@ Japanese civil code rules that limit marriage to those of opposite sexes are "un
 
 [Data](articles/5c741f83.json)
 
+[Extended Data](ext_articles/5c741f83.ext.json)
+
 ---
 
 ### Resolution to carry out the union struggle
@@ -2271,31 +2297,5 @@ The Chairman added that the right employees will be re-employed after a formal i
 [Data](articles/8afa31c2.json)
 
 [Extended Data](ext_articles/8afa31c2.ext.json)
-
----
-
-### The father who killed two children
-
-*2024-03-14 13:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இரு-பிள்ளைகளை-கொன்ற-தந்தை/74-334663) · `ta`
-
-A 63-year-old man killed two children in Ampara, Sri Lanka, and was admitted for treatment. The victims, aged 29 and 15, and their mother, who died five months ago, were mourned at their home. Police investigations are ongoing.
-
-🟩
-
-The incident took place in the Ampara, Periyar Nilawana Police Division.
-
-The funeral took place on Thursday (14) at the home of the Big Neelavana Muslim Division Pakitul Saliya Road.
-
-He has killed two depressed children. He was admitted to the Kalmunai Resource Hospital for treatment.
-
-Muhammad Mirza Mohammed Khalil (age-63) has been admitted for treatment. Muhammad Khalil Mohammed Rikas (age 29) and Muhammad Khalil Fatima Basmia (age-15) died. The mother of the children died five months ago.
-
-Police Inspector JSK Weerasinghe, the Superintendent of Police in charge of the police station, has gone to the scene and carried out investigations.
-
-◼️
-
-[Data](articles/2a09b410.json)
-
-[Extended Data](ext_articles/2a09b410.ext.json)
 
 ---

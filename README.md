@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-14 23:17:48**
+As of **2024-03-14 23:33:57**
 
 ## Newspaper Stats
 
-*Scraped **12,962** Articles*
+*Scraped **12,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 700
 adalk | 1,118
 adaderanalk | 1,562
 tamilmirrorlk | 1,578
-virakesarilk | 1,800
+virakesarilk | 1,801
 dailymirrorlk | 1,978
 adaderanasinhalalk | 2,051
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,962 (100.0%) of 12,962 articles have been extended.
+12,962 (100.0%) of 12,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-14 (Thursday)
+
+### வெடுக்குநாறிமலை விவகாரம் : பாராளுமன்ற அமர்வு புறக்கணிப்பு தொடர்பாக கலந்துரையாடியதன் பின்னரே தீர்மானம் - தமிழ் பாராளுமன்ற உறுப்பினர்கள்
+
+*2024-03-14 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178758) · `ta`
+
+வெடுக்குநாறிமலை விவகாரம் உள்ளடங்கலாக தமிழ்மக்களுக்கு எதிராக அரசாங்கத்தினால் பிரயோகிக்கப்படும் இன, மத, கலாசார ரீதியிலான ஒடுக்குமுறைகளைக் கண்டித்து தமிழ் எம்.பிக்கள் பாராளுமன்ற அமர்வைப் புறக்கணிக்கவேண்டுமென முன்வைக்கப்பட்டிருக்கும் கோரிக்கை தொடர்பில் கலந்துரையாடியதன் பின்னரேயே ஒருமித்த தீர்மானமொன்றை மேற்கொள்ளமுடியுமென தமிழ் பாராளுமன்ற உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+
+வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த வெள்ளிக்கிழமை சிவராத்திரி தினத்தன்று பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக 8 பேர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+
+...
+
+[Data](articles/3992518e.json)
+
+---
 
 ### Powerful earthquake in Japan;Tsunami Warning!
 
@@ -2285,23 +2299,5 @@ Speaking at the meeting, he said that about 3.5 billion in the world had undergo
 [Data](articles/c5707967.json)
 
 [Extended Data](ext_articles/c5707967.ext.json)
-
----
-
-### Derailement delays trains on coastal line
-
-*2024-03-14 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailement-delays-trains-on-coastal-line/108-278850) · `en`
-
-Colombo, March 14 (Daily Mirror) - Up and down train services between the Secretariat Halt and Colombo Fort on the coastal line has been disrupted due to a derailment, the Railways Department said.
-
-The Ruhunu Kumari intercity express train derailed between the Secretariat station and Colombo Fort station this evening at 2.30 p.m.
-
-Accordingly, the Ruhunu Kumari express train arriving from Matara stopped at the Secretariat station. The train is scheduled to leave for Matara from Secretariat station at 2.30 p.m. as the Galu Kumari express train.
-
-◼️
-
-[Data](articles/2794f036.json)
-
-[Extended Data](ext_articles/2794f036.ext.json)
 
 ---

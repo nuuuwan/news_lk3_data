@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 17:33:45**
+As of **2024-03-15 17:53:35**
 
 ## Newspaper Stats
 
-*Scraped **13,111** Articles*
+*Scraped **13,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 702
 islandlk | 711
-adalk | 1,126
-adaderanalk | 1,578
+adalk | 1,127
+adaderanalk | 1,579
 tamilmirrorlk | 1,597
 virakesarilk | 1,819
 dailymirrorlk | 2,005
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,110 (100.0%) of 13,111 articles have been extended.
+13,111 (100.0%) of 13,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### Over 3,000 families facing drinking water shortage, DMC urges to contact hotline for assistance
+
+*2024-03-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97981/over-3000-families-facing-drinking-water-shortage-dmc-urges-to-contact-hotline-for-assistance-) · `en`
+
+Residents in areas facing drinking water issues have been urged to promptly contact the Disaster Management Center (DMC) on hotline 117 for assistance, in view of the ongoing arid weather conditions.
+
+Speaking in this regard, Deputy Director of the DMC, Pradeep Kodippili, also stated that area residents could also contact their nearest Grama Niladari Officer in a bid to resolve the matter.
+
+Reports have revealed that as of now, nearly 3,000 families in the Kegalle and Kurunegala districts are grappling with drinking water shortages.
+
+Accordingly, Kodippili assured that collaborative efforts are underway with the National Disaster Relief Service Center and water transportation units to ensure that affected communities receive timely support and solutions to alleviate their drinking water challenges.
+
+◼️
+
+[Data](articles/eb8e0989.json)
+
+---
 
 ### Drink Water or Inform 117 Number
 
@@ -63,6 +81,8 @@ President Ranil Wickremesinghe and Professor Maithree Wickramasinghe were the  
 ...
 
 [Data](articles/f1a9efb2.json)
+
+[Extended Data](ext_articles/f1a9efb2.ext.json)
 
 ---
 
@@ -455,6 +475,20 @@ People who staged a protest in front of the police station for about half an hou
 [Data](articles/63bc4fd9.json)
 
 [Extended Data](ext_articles/63bc4fd9.ext.json)
+
+---
+
+### හිරු TV සහ රෙනෝ සිලවා, නිළි මහේෂිගෙන් කෝටි 2000ක් ඉල්ලයි
+
+*2024-03-15 15:01:10* · [`adalk`](https://www.ada.lk/breaking_news/හිරු-TV-සහ-රෙනෝ-සිලවා--නිළි-මහේෂිගෙන්-කෝටි-2000ක්-ඉල්ලයි/11-408630) · `si`
+
+හිරු TV ආයතනයට සහ එහි සභාපති රේනෝ සිල්වාට අපහාස වන ලෙස සමාජ මාධ්‍ය ඔස්සේ ප්‍රකාශ සිදු කිරීම සම්බන්ධයෙන් මහේෂි මදුශංකා නමැති රංගන ශිල්පිනියට එන්තරවාසි භාර දීමට හිරු TV සහ රේනෝ සිල්වා මහතා වෙනුවෙන් ඔහුගේ නීතිඥ සමාගම කටයුතු කර තිබෙනවා.
+
+ඒ අනුව හිරු TV හි කීර්ති නාමයට සිදුව ඇති හානිය වෙනුවෙන් රුපියල් බිලියන 10ක් සහ රේනෝ සිල්වා මහතාගේ කීර්ති නාමයට සිදුව ඇති අපහාසය වෙනුවෙන් රුපියල් බිලියන 10ක වන්දි මුදල් ඉල්ලමිනුයි මෙසේ එන්තරවාසි භාර දීමට කටයුතු කර ඇත්තේ.
+
+◼️
+
+[Data](articles/ae6d11e6.json)
 
 ---
 
@@ -2195,45 +2229,5 @@ At a time when millions of hard-working heads of ordinary families and parents a
 [Data](articles/b945da1d.json)
 
 [Extended Data](ext_articles/b945da1d.ext.json)
-
----
-
-### IRD warns nearly 1,000 companies
-
-*2024-03-15 05:37:54* · [`dailyftlk`](https://www.ft.lk/opinion/IRD-warns-nearly-1-000-companies/14-759506) · `en`
-
-It was reported that the Commissioner General Sepalika Chandrasekara has said that about 1,000 companies have been issued notice by the Inland Revenue Department (IRD) to pay up their tax arrears amounting to more than Rs. 160 billion in six months or face seizure of bank accounts and property.
-
-I would like to know from the Commissioner how feasible it is to execute the above decision, if the company resorts to or is faced with any one or more of the following situations:
-
-1. If the bank balance of the company is very low/nil and not substantial enough to recover the tax arrears, or if the money is totally withdrawn before the account is blocked.
-
-2. If the company has taken a huge overdraft and thereby already indebted to the bank
-
-3. If the property has been already mortgaged requiring parate execution
-
-4. If the company deliberately goes into bankruptcy and declares so before seizure by IRD
-
-...
-
-[Data](articles/860dd85e.json)
-
-[Extended Data](ext_articles/860dd85e.ext.json)
-
----
-
-### First ever India-Sri Lanka Joint Working Group firms up cooperation in renewable energy
-
-*2024-03-15 05:34:02* · [`dailyftlk`](https://www.ft.lk/news/First-ever-India-Sri-Lanka-Joint-Working-Group-firms-up-cooperation-in-renewable-energy/56-759503) · `en`
-
-The first meeting of the Joint Working Group (JWG) on renewable energy constituted under the MoU on Cooperation in the field of Renewable Energy signed between the Governments of India and Sri Lanka in July 2023 during the visit of the President of Sri Lanka to India, was held on 11 March in Colombo.
-
-The meeting was co-chaired by Secretary, Ministry of New and Renewable Energy from the Indian side Bhupinder Singh Bhalla and Secretary, Ministry of Power and Energy from the Sri Lankan side Dr. Sulakshana Jayawardena. The High Commissioner of India to Sri Lanka Santosh Jha also attended the meeting.
-
-...
-
-[Data](articles/d7fad1b6.json)
-
-[Extended Data](ext_articles/d7fad1b6.ext.json)
 
 ---

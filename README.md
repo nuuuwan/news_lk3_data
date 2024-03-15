@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 20:17:50**
+As of **2024-03-15 20:33:32**
 
 ## Newspaper Stats
 
-*Scraped **13,129** Articles*
+*Scraped **13,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,128
-adaderanalk | 1,580
-tamilmirrorlk | 1,597
+adaderanalk | 1,581
+tamilmirrorlk | 1,598
 virakesarilk | 1,824
 dailymirrorlk | 2,009
 adaderanasinhalalk | 2,076
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,127 (100.0%) of 13,129 articles have been extended.
+13,129 (100.0%) of 13,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### மாடலிங் துறை :போலி வைத்தியர் கைது
+
+*2024-03-15 20:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாடலிங்-துறை-போலி-வைத்தியர்-கைது/76-334720) · `ta`
+
+மாடலிங் துறையில் இணைத்துக்கொள்ளப்படுவர் என முகப்புத்தகத்தில் விளம்பரம் செய்து இளம் யுவதிகளை ஹோட்டலுக்கு அழைத்த கண்டி ரஜவெல்லையைச் சேர்ந்த போலி வைத்தியர் கைது செய்யப்பட்டார்.
+
+யுவதிகள் 15 பேர், இரகசிய பொலிஸுக்கு செய்த முறைப்பாட்டு அமையவே போலி வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
+
+பேஸ்புக்கில் விளம்பரம் செய்த சந்தேகநபர், மாடலிங் துறையில் யுவதிகளை இணைத்துக்கொள்வதாக, அவர்களின் புகைப்படங்களை பெற்று வீடியோவும் எடுத்து, தேர்ந்தெடுக்கப்பட்ட யுவதிகளை தனித்தனியாக நேர்முகத் தேர்வுக்கு அழைத்துள்ளார்.
+
+வைத்தியர் போல தன்னை இனங்காட்டிக்கொண்ட சந்தேகநபர், யுவதிகளின் நிர்வாண புகைப்படங்களை பெற்று அவர்களை அச்சுறுத்தி, பல்வேறான துன்புறுத்தலுக்கு உட்படுத்தியுள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5379341b.json)
+
+---
+
+### Adani Green Energy officials meet with Minister Kanchana
+
+*2024-03-15 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97982/adani-green-energy-officials-meet-with-minister-kanchana) · `en`
+
+Minister of Power and Energy Kanchana Wijesekera has met with two senior officials of Adani Green Energy.
+
+Sagar Adani, the Executive Director of Adani Green Energy and Anil Sardana, the Managing Director and CEO of Adani Energy Solutions called on Wijesekera at the Ministry of Power & Energy on Thursday (March 14).
+
+The visiting officials are in Sri Lanka to participate in the negotiations and discussions on the power purchase agreement for the Mannar and Pooneryn 484 MW wind energy project.
+
+The project expects to add 250 MW in Mannar and 234 MW in Pooneryn to the national grid, the minister said in a post on his X handle (formerly Twitter).
+
+◼️
+
+[Data](articles/3a018611.json)
+
+---
 
 ### Senior officials of Adani Green Energy meet with Minister Kanchana
 
@@ -48,17 +84,25 @@ The project expects to add 250 MW in Mannar and 234 MW in Pooneryn to the nation
 
 [Data](articles/6fea5511.json)
 
+[Extended Data](ext_articles/6fea5511.ext.json)
+
 ---
 
-### ඩොලරය 300 සීමාවට - වාසිය පාරිභෝගිකයාට නෑ
+### The dollar 300 limits - the consumer doesn't have
 
 *2024-03-15 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194551) · `si`
 
-මේ වසරේ ගතවූ මාස තුන තුළ අමෙරිකානු ඩොලරයට සාපේක්ෂව රුපියල 5.6 %කින් ශක්තිමත් වී තිබෙන අතර අද (15) එහි ගැනුම් මිල රුපියල් 300ක් බවට පත්විය.
+The rupee's value has risen by 5.6% against the US dollar and increased by Rs. 300 in the last three months.
+
+🟩
+
+The rupee has been strengthened by 5.6% over the US dollar in the last three months and has been increased by Rs. 300.
 
 ◼️
 
 [Data](articles/1beda89b.json)
+
+[Extended Data](ext_articles/1beda89b.ext.json)
 
 ---
 
@@ -2259,47 +2303,5 @@ Big onion importers said Pakistan had set limits on imports of big onions. Howev
 [Data](articles/7b19c87d.json)
 
 [Extended Data](ext_articles/7b19c87d.ext.json)
-
----
-
-### More information about the tipper that has not worked with police orders
-
-*2024-03-15 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194528) · `si`
-
-A tipper failed to stop for police stakes and was shot dead yesterday.
-
-🟩
-
-A tipper unable to stop two police stakes was shot dead yesterday (14).
-
-◼️
-
-[Data](articles/d0fea1e0.json)
-
-[Extended Data](ext_articles/d0fea1e0.ext.json)
-
----
-
-### China's opinion on US president
-
-*2024-03-15 07:54:18* · [`adalk`](https://www.ada.lk/breaking_news/ඊළඟ-ඇමෙරිකානු-ජනපති-ගැන-චීනයේ-මතය/11-408623) · `si`
-
-China views the next US president as crucial for Chinese-American relations, despite the election of Joe Biden and Donald Trump. The Ministry of External Affairs expects the relationship to remain peaceful and cooperative, regardless of the outcome.
-
-🟩
-
-Although someone is the next American president, China assumes that he is expected to be fulfilled in Chinese-American both Chinese.
-
-US President Joe Biday and former President Donald Trump have been resorted to the presidential election this year. The Ministry spokesman Wellin expressed the above query in response to a query raised by the Chinese Ministry of External Affairs.
-
-The presidential election in the United States is an internal affair of the country, he added that China was not in the policy of China.
-
-It is expected that China is expected to be referred to the two-country relationship, peaceful co-existence, and common victories, even though they are elected as the next President in America.
-
-◼️
-
-[Data](articles/b58a941e.json)
-
-[Extended Data](ext_articles/b58a941e.ext.json)
 
 ---

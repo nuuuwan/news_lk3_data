@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 09:52:15**
+As of **2024-03-15 10:03:01**
 
 ## Newspaper Stats
 
-*Scraped **13,037** Articles*
+*Scraped **13,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,73 @@ adaderanalk | 1,567
 tamilmirrorlk | 1,585
 virakesarilk | 1,807
 dailymirrorlk | 1,994
-adaderanasinhalalk | 2,057
+adaderanasinhalalk | 2,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,035 (100.0%) of 13,037 articles have been extended.
+13,037 (100.0%) of 13,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### දුම්රිය ප්‍රමාදයක්
+### දෙවන එක්දින ක්‍රිකට් තරගය අද
+
+*2024-03-15 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194531) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (15) පැවැත්වීමට නියමිතව තිබේ.
+
+චිතගොන් හි පැවැත්වෙන තරගය මෙරට වේලාවෙන් පස්වරු 2.00ට ආරම්භ වීමට නියමිතය.
+
+අද තරගයේදී බොහෝදුරට ශ්‍රී ලංකා කණ්ඩායමේ එක් වෙනස්කමක් සිදුවනු ඇති බව පැවසෙයි.
+
+දෙරට අතර පැවැති පළමු එක්දින ක්‍රිකට් තරගයෙන් කඩුළු 6ක ජයක් හිමිකරගත් බංග්ලාදේශ කණ්ඩායම තරග තුනකින් සමන්විත එක්දින තරගාවලියේ තරග 1ට 0ක් ලෙස ඉදිරියෙන් පසුවෙයි.
+
+◼️
+
+[Data](articles/00d76959.json)
+
+---
+
+### Train delay
 
 *2024-03-15 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194530) · `si`
 
-හුණුපිටිය දුම්රිය ස්ථානය ආසන්නයේ සංඥා පද්ධතියේ හටගත් දෝෂයක් නිසා ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයේ ප්‍රමාදයක් සිදුවී තිබේ.
+"Train delay at Hunupitiya Railway Station due to signal system error."
+
+🟩
+
+An error in the signal system near the Hunupitiya Railway Station, a delay in the main road has been delayed due to an error.
 
 ◼️
 
 [Data](articles/f3dec6de.json)
 
+[Extended Data](ext_articles/f3dec6de.ext.json)
+
 ---
 
-### சில இடங்களில் இடியுடன் கூடிய மழைக்கு வாய்ப்பு
+### Chance for thunderstorms in some places
 
 *2024-03-15 09:29:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-334699) · `ta`
 
-மாலை அல்லது இரவு வேளையில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of possible rain or thunderstorms in the evening or night, with expected rainfall in Western, Sabaragamuwa, Southern, and Central Provinces. Morning snow is forecasted in parts of Sabaragamuwa, Central, Uva provinces, and Galle and Matara districts.
 
-மேல், சப்ரகமுவ, தென் மற்றும் மத்திய மாகாணங்களில் மழை பெய்யக் கூடும் என திணைக்களம்  கூறியுள்ளது.
+🟩
 
-சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology said that rain or thunderstorms could occur in some places in the evening or night.
+
+The Department said that rainfall is expected in the Western, Sabaragamuwa, Southern and Central Provinces.
+
+In the morning, the snow is expected in some parts of the Sabaragamuwa, Central and Uva provinces and Galle and Matara districts.
 
 ◼️
 
 [Data](articles/1fd6290a.json)
+
+[Extended Data](ext_articles/1fd6290a.ext.json)
 
 ---
 
@@ -2097,31 +2127,5 @@ The All Share Price Index went up by 31 points, while S and P SL20 moved to 14.1
 [Data](articles/18accd9f.json)
 
 [Extended Data](ext_articles/18accd9f.ext.json)
-
----
-
-### State Vesak Festival in Matale
-
-*2024-03-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194515) · `si`
-
-The State Vesak Festival in Matale district will be inaugurated at Dharmaraja Pirivena on May 21, featuring religious and cultural programs, including temple development, environmental conservation, and health initiatives.
-
-🟩
-
-The State Vesak Festival has decided to hold the state Vesak Festival in Matale district and the main discussion was held today (14) at the Matale District Secretariat.
-
-The All Ceylon Association, Religious and Cultural Affairs Vidura Wickramanayaka was present at the event.
-
-The inauguration of the State Vesak Festival will be held at the Dharmaraja Pirivena premises at the Matale Dharmaraja Pirivena premises.
-
-Accordingly, various religious programs will be held from May on May 21 to May 21, and in parallel cultural programs to the State Vesak Festival on May 21, the Environmental Conservation and Good Health Hit Pinchi on May 23, May 23, May 23Vesak Poya Day Program on May 24, Evaluation Programs on May 24th of May.
-
-Also, there are many programs such as the development of 11 temples in the 11 Divisional Secretariat Divisions in the Matale District, Vesak, Pandana, Environmental Donor and Cultural Ecological and Pandakanda Programs.
-
-◼️
-
-[Data](articles/68f67bd2.json)
-
-[Extended Data](ext_articles/68f67bd2.ext.json)
 
 ---

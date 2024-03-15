@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 19:17:43**
+As of **2024-03-15 19:34:15**
 
 ## Newspaper Stats
 
-*Scraped **13,123** Articles*
+*Scraped **13,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 702
 islandlk | 711
-adalk | 1,127
+adalk | 1,128
 adaderanalk | 1,579
 tamilmirrorlk | 1,597
-virakesarilk | 1,822
+virakesarilk | 1,823
 dailymirrorlk | 2,008
 adaderanasinhalalk | 2,075
 
@@ -26,31 +26,57 @@ adaderanasinhalalk | 2,075
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,122 (100.0%) of 13,123 articles have been extended.
+13,123 (100.0%) of 13,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### සමූහ ඝාතනයෙන් බේරුණු ධනුෂ්ක සුවය ලබයි
+### இந்துக்களின் சமரில் பலமான நிலையில் யாழ். இந்து : பம்பலப்பிட்டி இந்து 80க்கு சுருண்டது; யாழ். இந்து 150 - 4  விக்.
+
+*2024-03-15 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178824) · `ta`
+
+யாழ்ப்பாணம் இந்து கல்லூரி மைதானத்தில் இன்று வெள்ளிக்கிழமை (15) ஆரம்பமான பம்பலப்பிட்டி இந்து - யாழ். இந்து கல்லூரிகளுக்கு இடையிலான 13ஆவது இந்துக்களின் பெருஞ் சமர் கிரிக்கெட் போட்டியில் யாழ். இந்து அணி பலம்வாய்ந்த நிலையில் இருக்கிறது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த பம்பலப்பட்டி, இந்து அணி அதன் முதல் இன்னிங்ஸில் மிக மோசமாகத் துடுப்பெடுத்தாடி சகல விக்கெட்களையும் இழந்து வெறும் 80 ஓட்டங்களைப் பெற்றது.
+
+அவர்களில் மத்திய வரிசை துடுப்பாட்ட வீரர் முத்துக்குமார் அபிஷேக் 14 ஓட்டங்களை அதிகபட்சமாக பெற்றார்.
+
+அவரை விட ஸ்ரீ நிதுசன் 12 ஓட்டங்களையும் ராமராஜ் டிலோஜன் 11 ஓட்டங்களையும் அணித் தலைவர் பாலா தாருஞ்சன் 10 ஓட்டங்களையும் பெற்றனர். பம்பலப்பிட்டி இந்துவின் மொத்த எண்ணிக்கையில் 13 உதரிகளே இரண்டாவது அதிககூடிய எண்ணிக்கையாக இருந்தது.
+
+...
+
+[Data](articles/0891fc22.json)
+
+---
+
+### Dhanushka recover from the massacre
 
 *2024-03-15 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194550) · `si`
 
-කැනඩාවේ ඔටාවා නුවරට තදාසන්න බාහීවන් ප්‍රදේශයේ සිය නිවසේ දී ප්‍රහාරයකට ලක්ව තුවාල ලබා රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටි ධනුෂ්ක වික්‍රමසිංහ අද (15) රෝහලෙන් පිටව යාමට නියමිතව තිබේ.
+Dhanushka Wickremasinghe, recovering from a massacre, is leaving the hospital today. The Sri Lankan youth accused of the crime is in court, with the trial lasting only 4 minutes. The suspect, Fibri de Zoysa, is accused of six murders and attempted murder. His mental state is a concern for Canadian law experts. The family's funeral is scheduled for Sunday.
 
-මේ අතර, ශ්‍රී ලාංකික පවුලක සාමාජිකයින් 05 දෙනෙකු ඇතුළු 06 දෙනෙකුට මරු කැඳවූ ඔටාවා සමූහ ඝාතනයේ සැකකාර ශ්‍රී ලාංකික තරුණයා ඔටාවා අධිකරණය හමුවට දෙවැනි දිනටත් ඉදිරිපත් කෙරුණි.
+🟩
 
-දුරකථනය ඔස්සේ සැකකරු අධිකරණය හා සම්බන්ධ වූ අතර නඩු විභාගය පැවතියේ විනාඩි 4ක කාලයක් පමණයි.
+Dhanushka Wickremasinghe is due to leave the hospital today (15), who is being treated in the house of the Kandyan area in Canada.
 
-කැනඩා මාධ්‍ය වාර්තා කළේ, මූලික විමර්ශනවලදී ඔටාවා පොලිස් නිලධාරීන්ට වැරදුණු වින්දිතයින්ගේ නම්වල දෝෂ නිවැරදි කිරීමට පියවර ගෙන තිබුණත් චෝදනාවල කිසිදු සංශෝධනයක් සිදුව නොතිබූ බවය.
+Meanwhile, the Sri Lankan youth who killed five members including five members of a Sri Lankan family presented the Ottawa court to the second day.
 
-මෙම නඩුව වාර්තා කිරීමට විශාල මාධ්‍යවේදීන් පිරිසක් අධිකරණ පරිශ්‍රයට රැස්ව සිටියත් සැකකාර 19 හැවිරිදි ශ්‍රී ලාංකික තරුණයා අධිකරණයට රැගෙන ආවේ නැහැ.
+The suspect was associated with the court and the trial was only for 4 minutes.
 
-මේ වන විට ඔටාවාහි කාලෙටන් රැඳවුම් මධ්‍යස්ථානයේ රඳවා සිටින සැකකාර ෆෙබ්‍රියෝ ද සොයිසා පළමුවෙන් අධිකරණය හමුවේ තම අනන්‍යතාව ප්‍රකාශ කළේය.
+Canada media reports that the founders of the victims were corrected in the precedent workers who were wrong in the victims were the amendment of allegations.
+
+Although a large number of journalists were gathered to the court premises to report the case, the 19-year-old Sri Lankan youth was brought to court.
+
+The suspect Fibri de Zoysa has first stated his identity in the courts.
+
+But when his name and birthday cliff express, the corresponding officer had told him to tell him that it was clearly loud.
 
 ...
 
 [Data](articles/77fdd923.json)
+
+[Extended Data](ext_articles/77fdd923.ext.json)
 
 ---
 
@@ -453,6 +479,24 @@ Applications submitted prior to 12 p.m today will not be accepted and will not b
 [Data](articles/cbe86c33.json)
 
 [Extended Data](ext_articles/cbe86c33.ext.json)
+
+---
+
+### විද්‍යාපීඨවලට බඳවා ගැනීමට අයදුම්පත් කැඳවයි
+
+*2024-03-15 16:10:49* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාපීඨවලට-බඳවා-ගැනීමට-අයදුම්පත්-කැඳවයි/11-408631) · `si`
+
+2021/2022  අධ්‍යයන වර්ෂයේ උසස් පෙළ විභාග ප්‍රතිඵල මත ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ශික්‍ෂණලාභීන් ඇතුළත් කර ගැනීමට අදාළ අයදුම්පත් කැඳවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය පියවර ගෙන ඇත.
+
+ඒ අනුව මීට අදාළ ගැසට් නිවේදනය ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ අංක 2376 දරන 2024.03.15 වන සිකුරාදා ගැසට් පත්‍රයේ පළ කර තිබේ. මාර්ගගත ක්‍රමය (Online)  ඔස්සේ මේ සඳහා අයදුම්පත් ඉදිරිපත් කළ යුතු අතර අයදුම්පත් අතරින් සුදුස්සන් තෝරා ගැනීම ද මාර්ගගත ක්‍රමය ඔස්සේ ම මෙවර සිදු කරනු ලබයි.
+
+2024.03.15 දින දහවල් 12.00න් පසුව මාර්ගගත ක්‍රමවේදය ඔස්සේ මේ සඳහා අයදුම් කළ හැකි අතර අයදුම්  කිරීමේ කාල සීමාව 2024.04.05 දිනයෙන් අවසන් වේ.
+
+2024.03.15 දින දහවල් 12.00ට පෙර ඇතුළත් කර ඇති අයදුම්පත් සලකා නොබැලෙන බැවින් එම අයදුම්කරුවන් නැවත මාර්ගගත ක්‍රමය ඔස්සේ අයදුම් කළ යුතු ය.
+
+◼️
+
+[Data](articles/29d2c786.json)
 
 ---
 
@@ -2263,47 +2307,5 @@ Winds will be easterly or variable in direction and wind speed will be 20-30 kmp
 [Data](articles/42235915.json)
 
 [Extended Data](ext_articles/42235915.ext.json)
-
----
-
-### President hints at vehicle import resumption; importers warn of possible cost increase
-
-*2024-03-15 07:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-hints-at-vehicle-import-resumption-importers-warn-of-possible-cost-increase/108-278885) · `en`
-
-President Ranil Wickremesinghe yesterday hinted at a possible gradual resumption of private vehicle imports starting next year. However, local vehicle importers have warned that this development may not necessarily translate into positive news for buyers.
-
-While the relaxation could breathe new life into the stagnant motor sector, importers have expressed concerns that duty structures for imported vehicles may see a significant increase.
-
-In January, the government revised the duty structure, resulting in a significant rise in vehicle import costs. Despite the potential allowance for vehicle imports, importers caution that substantial restrictions may remain, implying it is too early to celebrate the statement made by the President.
-
-The Vehicle Importers Association of Sri Lanka’s survey indicates that local market prices are poised to climb alongside the resumption of imports.
-
-...
-
-[Data](articles/8a5df6d2.json)
-
-[Extended Data](ext_articles/8a5df6d2.ext.json)
-
----
-
-### New expedition to Titanic wreckage could get go-ahead after Titan tragedy
-
-*2024-03-15 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/New-expedition-to-Titanic-wreckage-could-get-go-ahead-after-Titan-tragedy/107-278891) · `en`
-
-A planned expedition to the resting place of the Titanic could get the go-ahead after plans were scaled back in the aftermath of the fatal Titan implosion last year.
-
-The US government is seeking more information on the revised plans for the expedition, which is scheduled to go ahead in May, Kent Porter, an assistant US attorney, told a federal judge in Virginia on Wednesday
-
-Mr Porter did add that the US has yet not determined whether the new plans would break the law.
-
-RMS Titanic Inc., the Georgia-based company that owns salvage rights to the shipwreck, initially wanted to try and recover freestanding objects inside the vessel, take images inside the ship’s hull and retrieve artefacts from the debris field.
-
-However, the US Government pushed back against the plan by filing a legal challenge in August last year.
-
-...
-
-[Data](articles/9115e9ee.json)
-
-[Extended Data](ext_articles/9115e9ee.ext.json)
 
 ---

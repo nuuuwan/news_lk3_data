@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 18:33:44**
+As of **2024-03-15 18:51:32**
 
 ## Newspaper Stats
 
-*Scraped **13,119** Articles*
+*Scraped **13,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 711
 adalk | 1,127
 adaderanalk | 1,579
 tamilmirrorlk | 1,597
-virakesarilk | 1,820
+virakesarilk | 1,821
 dailymirrorlk | 2,007
 adaderanasinhalalk | 2,074
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,074
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,116 (100.0%) of 13,119 articles have been extended.
+13,119 (100.0%) of 13,120 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,28 @@ Numerous credible firsthand accounts have emerged of Russian authorities transpo
 ...
 
 [Data](articles/e223f4da.json)
+
+[Extended Data](ext_articles/e223f4da.ext.json)
+
+---
+
+### யாழ். வட்டுக்கோட்டை இளைஞர் கடத்திக் கொலை: குற்றச்சாட்டில் கைதான நால்வருக்கு 28ஆம் திகதி வரை விளக்கமறியல்
+
+*2024-03-15 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178819) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி படுகொலை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்டவர்களில் நால்வரை எதிர்வரும் 28ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு மல்லாகம் நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+கடந்த திங்கட்கிழமை தனது மனைவியுடன் காரைநகருக்கு மோட்டார் சைக்கிளில் சென்று விட்டு வீடு திரும்பியவர்களை பொன்னாலை பால பகுதியில் உள்ள கடற்படையின் முகாம் முன்பாக வைத்து வன்முறை கும்பல் கடத்தி சென்றது.
+
+கணவனை ஒரு வாகனத்திலும், மனைவியை ஒரு வாகனத்திலும் கடத்திய வன்முறை கும்பல், மனைவியை சித்தங்கேணி பகுதியில் இறக்கி விட்டு சென்றது. கணவனை கடத்தி சென்றவர்கள் கணவனை கடுமையான சித்திரவதைக்கு உள்ளாக்கி படுகாயங்களுடன் வட்டுக்கோட்டை வைத்திய சாலை முன்பாக வீசி சென்றனர்.
+
+படுகாயத்துடன் காணப்பட்டவரை வைத்தியசாலை பணியாளர்கள் மீட்டு யாழ். போதனாவில் அனுமதித்த நிலையில் உயிரிழந்தார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார் வட்டுக்கோட்டையில் ஒரு இளைஞனை கைது செய்தனர். அதேவேளை கிளிநொச்சியில் பதுங்கியிருந்த அராலி பகுதியை சேர்ந்த நான்கு பேரை கைது செய்தனர்.
+
+...
+
+[Data](articles/6775d155.json)
 
 ---
 
@@ -63,6 +85,8 @@ People are also advised to wear lightweight, loose-fitting, and light-colored cl
 ...
 
 [Data](articles/e0f42c87.json)
+
+[Extended Data](ext_articles/e0f42c87.ext.json)
 
 ---
 
@@ -1224,23 +1248,31 @@ Since the respondent has not been exposed to the respondents, he is released fro
 
 ---
 
-### 'මම ලියන හැටි': දර්ශනා ශම්මි විජේතිලක
+### 'How I Write': Pharna Shammy Wijethilaka
 
 *2024-03-15 11:43:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd14xnmdye9o) · `si`
 
-දර්ශනා ශම්මි විජේතිලක යනු වර්තමාන සිංහල සාහිත්‍ය හඳුනන පාඨකයාට කිසිසේත්ම හැඳින්වීමක් අවශ්‍ය නවකතාකාරියක නොවේ.
+Pharna Shammy Wijethilaka's writing process involves identifying disadvantages and writing from personal experiences. She discusses the challenges of starting a novel, the importance of building the novel before writing, and the transformation of characters during the writing process.
 
-දෙවත, ගිරග සසල විය, නිසල දියවත, මන්දාරම් උයන, අසනග වැසි, විසඹසර වැනි ඇගේ නවකතා පාඨකයන් අතර සේම විචාරකයන් සහ සාහිත්‍ය විනිශ්චය මණ්ඩල තුළ ද නිරන්තර සම්භාවනාවට පාත්‍ර වී ඇත.
+🟩
 
-මා ඇය සමග කතාබහක යෙදෙන්නේ නවකතාකාරියක ලෙස ඇය ලේඛනයේ යෙදෙන විට ඇයට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඇයටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+Dhamnah Shammy Wijethilaka is no longer an introduction to the current Sinhala literary reader.
 
-මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය. හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+Her vows, such as disadvantage, such as the disadvantage, such as disadvantages, such as the disadvantage, the disadvantage, and the disadvantage, such as the disadvantage, mandalas, mandaram garden, disadvantage, and disadvantage have been identified.
 
-ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
+
+The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and writes from this linkker '(2014) and are the ones who have faced the experiences I faced. It is well known for all writer's writing process.
+
+Where writing, how to write, how to write, and the joy of writing, the writer's abstinence. The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
 
 ...
 
 [Data](articles/f5015ce6.json)
+
+[Extended Data](ext_articles/f5015ce6.ext.json)
 
 ---
 
@@ -2253,21 +2285,5 @@ There has been a lot of criticism about Sri Lanka’s 17th IMF program from peop
 [Data](articles/9b7cd83a.json)
 
 [Extended Data](ext_articles/9b7cd83a.ext.json)
-
----
-
-### Appointment of a tax ombudsman: The time is apt
-
-*2024-03-15 06:05:47* · [`dailyftlk`](https://www.ft.lk/columns/Appointment-of-a-tax-ombudsman-The-time-is-apt/4-759511) · `en`
-
-Due to the current economic environment, it is understood that tax revenue collection should be enhanced to increase the Tax to GDP ratio. However, the Government should take precaution to ensure this endeavour to enhance tax revenue does not lead to harassment or unfairness to the taxpayer.
-
-There are many knowledgeable tax officers who understand both sides of the fence and act professionally by respecting the Rule of Law and the Taxpayer Rights. However, due to heightened pressure from the Ministry of Finance and Parliamentary Committees one could lose track of respecting the rights of the other party. What is the recourse available to a taxpayer if tax officers transgress the Rule of Law to exercise their power without respecting the legal rights of the taxpayer?
-
-...
-
-[Data](articles/0ddd96dc.json)
-
-[Extended Data](ext_articles/0ddd96dc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 23:03:42**
+As of **2024-03-15 23:17:53**
 
 ## Newspaper Stats
 
-*Scraped **13,145** Articles*
+*Scraped **13,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 702
 islandlk | 711
 adalk | 1,130
 adaderanalk | 1,584
-tamilmirrorlk | 1,599
+tamilmirrorlk | 1,600
 virakesarilk | 1,828
-dailymirrorlk | 2,010
+dailymirrorlk | 2,013
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,145 (100.0%) of 13,145 articles have been extended.
+13,145 (100.0%) of 13,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### Sri Lanka's best win in the second match with Bangladesh
+
+*2024-03-15 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178828) · `ta`
+
+Sri Lanka wins the 2nd ODI against Bangladesh, balancing the series 1-1.
+
+🟩
+
+The Sri Lankan team has recorded a win in the second one -day cricket match between Sri Lanka and Bangladesh.
+
+With its success, the series, which has 3 ODIs, has balanced the series 1-1.
+
+◼️
+
+[Data](articles/f834cd45.json)
+
+[Extended Data](ext_articles/f834cd45.ext.json)
+
+---
+
+### வென்றது இலங்கை அணி
+
+*2024-03-15 22:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்றது-இலங்கை-அணி/175-334722) · `ta`
+
+இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கிடையிலான இரண்டாவது ஒருநாள் சர்வதேச கிரிக்கெட் போட்டியில் இலங்கை அணி வெற்றி பெற்றுள்ளது.
+
+போட்டியின் நாணய சுழற்சியில் வெற்றி பெற்ற இலங்கை அணி முதலில் களத்தடுப்பில் ஈடுபட தீர்மானித்தது.
+
+இதற்கமைய, முதலில் துடுப்பாடிய பங்களாதேஷ் அணி நிர்ணயிக்கப்பட்ட 50 ஓவர்கள் நிறைவில் 07 விக்கெட்டுக்களை இழந்து 286 ஓட்டங்களை பெற்றுக்கொண்டது.
+
+இந்தநிலையில், 287 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி துடுப்பெடுத்தாடிய இலங்கை அணி 47.1 ஓவர்கள் நிறைவில் 07 விக்கெட்டுக்களை இழந்து வெற்றி இலக்கை அடைந்தது. R
+
+◼️
+
+[Data](articles/c7796a50.json)
+
+---
+
+### Sri Lanka beat Bangladesh by 3 wickets
+
+*2024-03-15 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-beat-Bangladesh-by-3-wickets/108-278963) · `en`
+
+Sri Lanka beat Bangladesh by three wickets in the second game of the three-match ODI series at the Zahur Ahmed Chowdhury Stadium in Chattogram on Friday (March 15).
+
+Bangladesh managed a challenging total of 286 runs with loss of seven wickets in 50 overs.
+
+Towhid Hridoy smashed a 96-run innings to take the team to the total.
+
+In reply, Sri Lanka reached the target with loss of seven wickets.
+
+◼️
+
+[Data](articles/d654abfb.json)
+
+---
 
 ### Online Railway Seat Seat Reservation
 
@@ -53,26 +109,6 @@ Accordingly, the train reservations have been allocated to the railway station, 
 [Data](articles/b20537c9.json)
 
 [Extended Data](ext_articles/b20537c9.ext.json)
-
----
-
-### Sri Lanka's best win in the second match with Bangladesh
-
-*2024-03-15 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178828) · `ta`
-
-Sri Lanka wins the 2nd ODI against Bangladesh, balancing the series 1-1.
-
-🟩
-
-The Sri Lankan team has recorded a win in the second one -day cricket match between Sri Lanka and Bangladesh.
-
-With its success, the series, which has 3 ODIs, has balanced the series 1-1.
-
-◼️
-
-[Data](articles/f834cd45.json)
-
-[Extended Data](ext_articles/f834cd45.ext.json)
 
 ---
 
@@ -115,6 +151,30 @@ Chasing a target of 287, Sri Lankan players won the match in 47.1 balls.
 [Data](articles/652d2a06.json)
 
 [Extended Data](ext_articles/652d2a06.ext.json)
+
+---
+
+### Funeral for Sri Lankan family slain in Ottawa to be held on Sunday
+
+*2024-03-15 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Funeral-for-Sri-Lankan-family-slain-in-Ottawa-to-be-held-on-Sunday/108-278952) · `en`
+
+OTTAWA — A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
+
+In a news release Thursday, the Buddhist Congress of Canada (BCC) said the multi-faith service will be at 1 p.m. at the Infinity Convention Centre on Gibford Drive south of Ottawa's core.
+
+Four children and two adults were killed in a townhouse in the Ottawa suburb of Barrhaven March 6.
+
+Police identified five of the victims as a family of newcomers to Canada from Sri Lanka.
+
+35-year-old Darshani Dilanthika Ekanayake, was killed along with her four young children — daughters Kelly, who was two months old; Ranaya, 3; and Ashwini, 4 — and son Inuka, 7.
+
+The body of another man, 40-year-old Gamini Amarakoon, was also found at the scene.
+
+There was one survivor — Dhanushka Wickramasinghe, who was injured with an edged weapon and taken to hospital.
+
+...
+
+[Data](articles/c1543af7.json)
 
 ---
 
@@ -559,6 +619,20 @@ Reports also indicate that the regions of Kegalle and Kurunegala districts are p
 [Data](articles/c9de79df.json)
 
 [Extended Data](ext_articles/c9de79df.ext.json)
+
+---
+
+### Russia turns to Ukrainian teens to bolster its forces
+
+*2024-03-15 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Russia-turns-to-Ukrainian-teens-to-bolster-its-forces/107-278930) · `en`
+
+March 15 (CNN) -  Russia’s war machine is going to horrific lengths to try to erase Ukrainian identity and bolster its own military ranks – by deporting Ukrainian teenagers to Russia, indoctrinating them with propaganda, and attempting to conscript them into the Russian armed forces to fight against their own country.
+
+Numerous credible firsthand accounts have emerged of Russian authorities transporting Ukrainian children without parents or guardians from occupied areas like Mariupol to cities across Russia. There, the children are placed with Russian foster families, forced to attend pro-Russian schools, made to watch nationalistic videos praising Vladimir Putin, and taught that Ukraine does not truly exist as a nation.
+
+...
+
+[Data](articles/6e76bc72.json)
 
 ---
 
@@ -2229,99 +2303,5 @@ Accordingly, Bangladesh leads to 1 - 0 in a one -day series with 3 matches.
 [Data](articles/802866fc.json)
 
 [Extended Data](ext_articles/802866fc.ext.json)
-
----
-
-### Tuna kilo per month. Asks for a price of 2000
-
-*2024-03-15 10:17:48* · [`adalk`](https://www.ada.lk/breaking_news/ටූනා-කිලෝවට-රු--2000ක-මිලක්-ඉල්ලයි/11-408624) · `si`
-
-Fisheries Minister Douglas Devananda, on 3/13/2012, discussed tuna pricing with fish exporters and multi-day fishing boat associations. He emphasized the need for a fair price, acknowledgment of fishing vessels' certificates, and a system to replace fuel. The Board of Investment of Sri Lanka (BOI) is involved in ensuring fairness between fishing vessels and exporters.
-
-🟩
-
-Multimediangront Thera also requests that there is a certificate of the cars and acknowledged policy for fishing fishing vessels.
-
-The comments were made by Fisheries Minister Douglas Devananda on 13.03.2012 with a group of fish exporters' association and multi-day fishing boat Association.
-
-Multimedian-boat owners were asked to give a reasonable price for the fish they caught.
-
-The association representatives have become more heavily difficult for the busy transplant and the intervention of the fish, ice and fishing equipment, and the intervention of the fish, which is largely resulted in a fish.It was also said that the purpose should be made and accepted by it.
-
-It is also said that a system to be prepared to re-be replaced with the fuel and to create a covenant between exporters and multimed fishermen. In the face of the present situation, hundreds of multi-day fishing vessels do not go to sea, they have to leave the job if they don't go to sea.
-
-...
-
-[Data](articles/bbce6931.json)
-
-[Extended Data](ext_articles/bbce6931.ext.json)
-
----
-
-### Control Pricing for Large Onion
-
-*2024-03-15 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178767) · `ta`
-
-To control the price of large onions during the festive season, importers and the Commerce Minister agreed on a price range of 450-500 rupees. Despite Pakistan's restrictions, they import from Holland and Turkey.
-
-🟩
-
-Steps have been taken to reduce the price of big onions during the upcoming festive season.
-
-A discussion was held on Thursday (14) between the importers and the Commerce Minister on the provision of essential commodities to the people during the festive season.
-
-In it, importers agreed to sell large onions in their stockpile between 450 rupees and 500 rupees.
-
-Discussions with essential commodities have been successful and they have agreed to provide their goods to the local market at competitive rates.
-
-Importers said Pakistan has imposed restrictions on large onions imports.However, they said they were importing large onions from other countries such as Holland and Turkey and they were ready to offer the onion at the festive season.
-
-◼️
-
-[Data](articles/1187c143.json)
-
-[Extended Data](ext_articles/1187c143.ext.json)
-
----
-
-### Signal failure disrupts train operations on Main Line
-
-*2024-03-15 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97972/signal-failure-disrupts-train-operations-on-main-line) · `en`
-
-Train services on the Main Line have been disrupted by a signal failure at the Hunupitiya railway station, Ada Derana learns.
-
-Accordingly, trains plying on the Main Line are experiencing delays.
-
-◼️
-
-[Data](articles/452ce6e2.json)
-
-[Extended Data](ext_articles/452ce6e2.ext.json)
-
----
-
-### Elections should not be overcome - the first parliamentary election should be held - Basil
-
-*2024-03-15 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178772) · `ta`
-
-Basil Rajapakse opposes postponement of Sri Lanka's presidential and general elections, questions government function under PA, criticizes Keheliya Rambukwella's role, and advocates for a parliamentary election first.
-
-🟩
-
-Former Finance Minister Basil Rajapakse has said that he strongly opposed the postponement of the presidential election and the general election in Sri Lanka.
-
-He has also questioned whether the government is actually functioning under the PA, though it is reported that the Sri Lankan PA is currently in power.
-
-Basil Rajapaksa has said that Keheliya Rambukwella, who had previously found the Sri Lanka PA, was not the minister of the Sri Lanka PA.
-
-Basilrajapaksa has appealed for a parliamentary election before any other election.
-
-Basilrajapaksa has said that if a parliamentary election is held after the presidential election, a vote will not express their true wishes if one wins the presidential election.
-
-◼️
-
-[Data](articles/e9631912.json)
-
-[Extended Data](ext_articles/e9631912.ext.json)
 
 ---

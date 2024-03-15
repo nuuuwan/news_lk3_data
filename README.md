@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 02:18:04**
+As of **2024-03-16 02:33:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,187 (100.0%) of 13,188 articles have been extended.
+13,188 (100.0%) of 13,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Several Senior Officials including District Secretary Thejani Tilakaratne and Se
 ◼️
 
 [Data](articles/a83fbe9d.json)
+
+[Extended Data](ext_articles/a83fbe9d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 15:18:03**
+As of **2024-03-15 15:33:16**
 
 ## Newspaper Stats
 
-*Scraped **13,087** Articles*
+*Scraped **13,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,126
 adaderanalk | 1,574
 tamilmirrorlk | 1,593
 virakesarilk | 1,817
-dailymirrorlk | 1,999
+dailymirrorlk | 2,000
 adaderanasinhalalk | 2,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,081 (100.0%) of 13,087 articles have been extended.
+13,087 (100.0%) of 13,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,33 @@ The Gaza conflict has displaced most of the enclave’s 2.3 million population. 
 
 [Data](articles/f36aabe9.json)
 
+[Extended Data](ext_articles/f36aabe9.ext.json)
+
 ---
 
-### வெடுக்குநாறி மலையில் கைதானவர்களை விடுவிக்கக் கோரி ஆர்ப்பாட்டம்
+### Demonstration demanding the release of those arrested on the hill
 
 *2024-03-15 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178801) · `ta`
 
-வெடுக்குநாறி மலை ஆதி சிவன் ஆலயத்தில் கைது செய்யப்பட்ட பூசகர்  உள்ளிட்ட 8 பேரையும் விடுவிக்கக கோரியும், பொலிஸாரின் அராஜகத்தை கண்டித்தும் வவுனியா, நெடுங்கேணியில் ஆர்ப்பாட்டம் பேரணி ஒன்று இன்று வெள்ளிக்கிழமை (15) முன்னெடுக்கப்பட்டது.
+A demonstration in Nedungeni, Vavuniya, demanded the release of eight, including a priest, arrested at Adi Shiva Temple. Protesters marched through Nedungeni, protested at Vavuniya North Divisional Secretariat, and blocked the Nedungeni police station, raising slogans against the police and Forest Department. The protest ended at the bus station, with slogans against police anarchy and calls to stop Buddhism. TNA parliamentarians and civil activists were present.
 
-நெடுங்கேணி நகர சந்தியில் ஆரம்பித்த கண்டன ஆர்ப்பாட்ட பேரணி, நெடுங்கேணி - புளியங்குளம் வீதி ஊடாக சென்று வவுனியா வடக்கு பிரதேச செயலகத்தின் வாயிலில் ஆர்ப்பாட்டம் இடம்பெற்றதுடன், உதவிப் பிரதேச செயலாளரிடம் கண்டன மகஜர் ஒன்றும் கையளிக்கப்பட்டது.
+🟩
 
-அதனைத்தொடர்ந்து அங்கிருந்து பேரணியாக சென்ற ஆர்ப்பாட்டக்காரார்கள் வனவளத் திணைக்கள அலுவலக வாயிலில் நின்று வனவளத் திணைக்களத்திற்கு எதிராக கோசங்களை எழுப்பியதுடன், பின்னர் அங்கிருந்து சென்று நெடுங்கேணி பொலிஸ் நிலையத்தை முற்றுகையிட்டனர்.
+A demonstration rally was held today (15) in Nedungeni, Vavuniya, demanding the release of eight persons including the priest who was arrested at the Adi Shiva Temple at the Adi Shiva Temple.
+
+The protest march, which began at Nedungeni town junction, went through the Nedungeni -Puliyankulam road and held a demonstration at the Vavuniya North Divisional Secretariat and handed over to the Assistant Divisional Secretary.
+
+The protesters then stood at the Gate of the Forest Department and raised slogans against the Forest Department and then went from there and blocked the Nedungeni police station.
+
+At this time, the police officers attempted to talk to the demonstrators, but the protesters raised the slogans against the police.. There was tension in the area and the police were on duty at the police station.
+
+People who staged a protest in front of the police station for about half an hour and then went from there and completed the demonstration at the bus station.
 
 ...
 
 [Data](articles/63bc4fd9.json)
+
+[Extended Data](ext_articles/63bc4fd9.ext.json)
 
 ---
 
@@ -116,15 +128,21 @@ President Ranil Wickremesinghe has stated at an event organized by the United Yo
 
 ---
 
-### උතුරට රු. මිලියන 4900 ක්
+### North Rs. 4900 million
 
 *2024-03-15 14:21:46* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-රු--මිලියන-4900-ක්/11-408629) · `si`
 
-උතුරු පළාතේ සංවර්ධනයට හා ආරක්ෂාව වෙනුවෙන් ඉන්දියාව, චීනය හා ජපානය වැනි රටවල් රුපියල් මිලියන 4900කට අධික මූල්‍යාධාර ලබා දීමට ඉදිරිපත්වී ඇති බවත්, එම උපකාර අප රටේ සංවර්ධනය වෙනුවෙන් නිසියාකාරව යොදා ගත යතු බව පසු ගියදා ප්‍රවෘත්ති නිවේදනයක් නිකුත්කරමින් ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා ප්‍රකාශ කර ඇත. අදාල මුදල් ලැබීම් පිළිබඳව ගිවිසුම් ඒ ඒ රට සමගින් අත්සන් තබන බවත් වැඩි දුරටත් පැවසීය
+Douglas Devananda, Fisheries Minister, allocates 4900 million rupees for Northern Province development and security, signing agreements with a foreign country.
+
+🟩
+
+Fisheries Minister Douglas Devananda has issued a press release to provide over 4900 million rupees for development and security in the Northern Province.. The agreements on receipts are signed with that country with that country
 
 ◼️
 
 [Data](articles/69a80967.json)
+
+[Extended Data](ext_articles/69a80967.ext.json)
 
 ---
 
@@ -192,21 +210,41 @@ It has also been asked whether the accused will be excited at the courtship of h
 
 ---
 
-### හම්බන්තොට මහ  රෝහලේ නිර්වින්දන වෛද්‍යවරිිය නොදන්වා රට ගිහින්
+### 'Construction Expo 2024'
+
+*2024-03-15 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Construction-Expo-2024/110-278917) · `en`
+
+“Construction Expo 2024” organized by the Ceylon Institute of Builders (CIOB) will be held from March 15 to 17 at the Sirimavo Bandaranaike Memorial Exhibition Hall at the BMICH. This is an excellent opportunity for new product sourcing, networking with new contacts and business opportunities, the latest technology added to the building and construction industry, etc. to promote the construction industry in Sri Lanka. Pix by Kithisiri De Mel
+
+◼️
+
+[Data](articles/7260c419.json)
+
+---
+
+### The anesthesiologist at Hambantota General Hospital has gone to the country
 
 *2024-03-15 13:53:04* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-මහ--රෝහලේ-නිර්වින්දන-වෛද්‍යවරිිය-නොදන්වා-රට-ගිහින්/11-408628) · `si`
 
-හම්බන්තොට දිස්ත්‍රික් මහ රොහලේ සේවය කළ වැඩබලන නිර්වින්දන විශේෂඥ වෛද්‍යවරිය කිසිදු නීත්‍යානුකූල දැනුම්දීමකින් තොරව පෙරේදා (13 ) හදිසියේ විදෙස්ගත වීම හේතුවෙන් රෝහලේ වැඩකටයුතුවලට බාධා ඇති වී ඇති බව හම්බන්තොට රෝහලේ කාර්‍ය මණ්ඩලය කියයි.
+The anesthesiologist at Hambantota General Hospital is abroad, leaving the hospital without an anesthetist. The acting anesthetist from Kandy was also abroad without notice. The hospital faces difficulties due to the absence of anesthetists, restricting surgeries and lacking expertise in blood transfusion.
 
-මෙම වෛද්‍යවරිය පසුගිය 12 වැනිදා සිට 16 වැනිදා දක්වා අනියම් නිවාඩු අනුමත කරවාගෙන සිට ඇති බවත් ඇය 13 වැනිදා විදෙස්ගත වී ඇත. ඇය විදෙස්ගත වූ බවට පසුව වට්ස්ඇප් පණිවුඩයක් මගින් රෝහල් බලධාරින්ට දන්වා ඇති බවද රෝහලේ කාර්‍ය මණ්ඩලය පවසයි.
+🟩
 
-මෙම වෛද්‍යවරිය විදෙස්ගත වී ඇත්තේ කිසිදු විදෙස් නිවාඩු අනුමත කරවාගැනීමකින් තොරව බවත් හම්බන්තොට දිස්ත්‍රික් මහ රෝහලේ ශල්‍යාගාර 5ක් සහ දැඩි සත්කාර 2ක් ක්‍රියාත්මක වන අතර දැනට රෝහලේ සේවය කිරීමට සිටින්නේ එක් වැඩබලන නිර්වින්දන විශේෂඥ වෛද්‍යවරයකු පමණ බවත් රෝහල් කාර්‍ය මණ්ඩලය පවසයි.
+The acting anesthetist worked at Hambantota District at the Kandy district was abruptly abruptly abroad due to no legal notice.
 
-හම්බන්තොට මහ රෝහලේ සේවය කළ එකම නිර්වින්දන විශේෂඥ වෛද්‍යවරයා ද ඉකුත් වසරේ අගෝස්තු 12 වැනිදා මේ ලෙසටම හදිසියේ විදෙස්ගත වී තිබුණි. ඔහු දින කිහිපයක නිවාඩුවක් ලබාගන්නා බව දන්වමින් විදෙස්ගතව තිබූ අතර පසුව වට්ස්ඇප් පණිවුඩයක් මගින් මේ බව රෝහල් බලධාරින්ට දන්වා තබා ඇත
+The doctor has approved casual leave from the 12th to the 16th to the 16th of her 13th. The staff of the hospital say that she has informed the hospital authorities after she was abroad.
+
+The doctor is abroad that no foreign leave is approved without any foreign leave and two intensified women and 2 intensive care of the Hambantota district and currently serving at the hospital.
+
+The only anesthetist worked at the Hambantota General Hospital was also abroad on August 12 last year. The hospital authorities have been abroad, informing him that he will get a few days vacation.
+
+Once he was abroad, hospital authorities have faced a severe difficulty at the hospital.
 
 ...
 
 [Data](articles/65acaa11.json)
+
+[Extended Data](ext_articles/65acaa11.ext.json)
 
 ---
 
@@ -290,6 +328,8 @@ Eight individuals including former Health Minister Keheliya Rambukwella, former 
 
 [Data](articles/687b29be.json)
 
+[Extended Data](ext_articles/687b29be.ext.json)
+
 ---
 
 ### In the 2023 inmates Rs. Rs. 116 earn
@@ -338,21 +378,29 @@ Sri Lanka won the advantage of the coin, and they decided to give Bangladesh to 
 
 ---
 
-### ඉදිකිරීම් ක්ෂේත්‍රයේ ගැටලු විසඳීමට ජනපතිගෙන් විද්වත් කමිටුවක්
+### President appoints panel to solve the problems of the construction industry
 
 *2024-03-15 13:35:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-ගැටලු-විසඳීමට-ජනපතිගෙන්-විද්වත්-කමිටුවක්/11-408626) · `si`
 
-ඉදිකිරීම් ක්ෂේත්‍රයේ මතුව ඇති ගැටලු නිසි ලෙස අධ්‍යයනය කර, පවතින ආර්ථික තත්ත්වය හමුවේ එම ගැටලුවලට ලබාදිය හැකි විසඳුම් පිළිබඳ සොයා බලා වාර්තා කිරීමට විද්වත් කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a committee to address construction industry issues, aiming to improve economic conditions and promote construction services. The committee will include industry experts and government officials.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඉදිකිරීම් ක්ෂේත්‍රයේ නියුතු කර්මාන්තකරුවන් සමඟ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+🟩
 
-මුදල් අමාත්‍යාංශයේ, නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම්වරුන් ඇතුළත්වන පරිදි ක්ෂේත්‍රයේ ප්‍රවීණයන්ගෙන් සමන්විතව මෙම විද්වත් කමිටුව පත් කිරීමට පියවර ගන්නා බවද ජනාධිපතිවරයා සඳහන් කළේය.
+President Ranil Wickremesinghe said that a committee will be appointed to investigate the problems in the construction industry and reporting the problems that can be found in the current economic situation.
 
-එමෙන්ම ණය ප්‍රතිව්‍යුහගතකරණ කටයුතු අවසන් වීමත් සමඟ ලබන වසර වන විට සියලු ක්ෂේත්‍රවල කර්මාන්තකරුවන් ධෛර්යමත් වන අන්දමේ සහන ලැබෙනු ඇති බව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
+President Ranil Wickremesinghe made this statement at the Presidential Secretariat with industrialists engaged in the field of construction.
+
+The Committee will take the appointment of the industry experts with the field of the Ministry of Urban Development and Housing Secretaries.
+
+President Ranil Wickremesinghe said that with the end of the debt reconciliation, the prosecutors would be encouraged in all fields by next year.
+
+The President's attention was drawn to the prevailing economic conditions and the problems faced by the parties in the field and resumed projects, creating a friendly environment, promote construction services, alternative funding and contractDiscussions were also discussed in advisory issues.
 
 ...
 
 [Data](articles/fa690ec0.json)
+
+[Extended Data](ext_articles/fa690ec0.ext.json)
 
 ---
 
@@ -2147,33 +2195,5 @@ The professor said that cinnamon was founded in the country as a plant in the co
 [Data](articles/68d189dc.json)
 
 [Extended Data](ext_articles/68d189dc.ext.json)
-
----
-
-### India, China and Japan, which offer millions of funds for the development of the North - need to be used properly - Minister Douglas
-
-*2024-03-15 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178762) · `ta`
-
-India, China, and Japan have pledged millions for North's development, with China offering 1500 million, India 3000 million, and Japan 415 million. These funds aim for development, security, and relief.
-
-🟩
-
-Minister Douglas Devananda has said that China, India and Japan have come forward to provide millions of funds for various development and security measures in the North.
-
-Despite the massive economic crisis, the present government is giving much importance to the development of the North as the country is now recovering from the situation due to the proper political guidance of the existing state.
-
-On the basis of this, China has offered to provide 1500 million funds for the development of the North as a benefit of diplomatic measures we have with foreign countries.
-
-500 million for the housing scheme at 1500 million, 500 million to provide rice to the people, and 500 million to the fishermen's web.
-
-Prime Minister Dinesh Gunawardena is on his way to China on the 22nd of this month. I hope the Prime Minister will go to China next week.
-
-At the same time, the Government of India has offered to provide 3000 million funds for the development of the North.
-
-...
-
-[Data](articles/fb7d26c7.json)
-
-[Extended Data](ext_articles/fb7d26c7.ext.json)
 
 ---

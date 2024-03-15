@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 12:17:47**
+As of **2024-03-15 12:33:19**
 
 ## Newspaper Stats
 
@@ -26,27 +26,53 @@ adaderanasinhalalk | 2,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,063 (100.0%) of 13,064 articles have been extended.
+13,064 (100.0%) of 13,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### ආචාර ධර්ම උල්ලංඝනය කළේ යැයි චෝදනා ලබා සිටි නීතිඥවරයා නිදහස්
+### Signal Disorder: Train Services Delay in Pratana Religion
+
+*2024-03-15 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178774) · `ta`
+
+Signal disorder delays train services on the Prathana route between Kelani and Hunupitiya stations.
+
+🟩
+
+The rail control room said that there was a sign of signal between Kelani and Hunupitiya railway stations.
+
+Due to this, the railway control room said that the train services have been delayed in the Prathana route.
+
+◼️
+
+[Data](articles/55ecab80.json)
+
+[Extended Data](ext_articles/55ecab80.ext.json)
+
+---
+
+### Lawyer who was accused of violating the ethics
 
 *2024-03-15 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194536) · `si`
 
-කොළඹ වාණිජ මහාධිකරණය විසින් නිකුත් කළ තහනම් නියෝගයක් භාරදීමේදී නීතිඥ ආචාර ධර්ම උල්ලංඝනය කළේ යැයි චෝදනා ලබා සිටි නීතිඥවරයෙකු එම චෝදනාවලින් නිදහස් කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද නියෝග කළා.
+The Supreme Court exempted a lawyer accused of ethics violations at the Central Court, citing no evidence of wrongdoing.
 
-2022 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් රුසියනු ඒරොෆ්ලෝට් ගුවන් යානයක් ශ්‍රී ලංකාවෙන් පිටව යාම වළක්වාලමින් නිකුත්කළ නියෝගයක් කටුනායක බණ්ඩාරනායක ගුවන් තොටුපොළේ ගුවන් පාලක මැදිරියට ගොස් භාරදීමේදී නීතිඥ ආචාර ධර්ම උල්ලංඝනය කළේ යැයි එම නීතිඥවරයාට චෝදනා එල්ලකර තිබුණි.
+🟩
 
-ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් එම තීන්දුව ලබාදුන්නේය.
+The Supreme Court today ordered the exemption of a lawyer who was accused of violating lawyers' ethics in charge of the Central Court.
 
-අදාළ සිද්ධියේදී වගඋත්තරකාර නීතිඥවරයා නීතිඥ ආචාර ධර්ම උල්ලංඝනය කර ඇති බවට කරුණු අනාවරණ වී නොමැති හෙයින් ඔහු එම චෝදනාවෙන් නිදහස් කරන බවත් නඩු තීන්දුවේ සඳහන් විය.
+The lawyer was accused of leaving the Air Control Cards at Bandaranaike International Airlines in Katunayake.
+
+It was the verdict by Mr. Geeranya, who is a Supreme Court Bench.
+
+Since the respondent has not been exposed to the respondents, he is released from the charges that he has not been revealed that he has violated lawyers' ethics in the incident.
 
 ◼️
 
 [Data](articles/c219b527.json)
+
+[Extended Data](ext_articles/c219b527.ext.json)
 
 ---
 
@@ -329,26 +355,6 @@ Bahiddha-Nukara, who is also the Deputy Prime Minister of Thailand, agreed to fa
 [Data](articles/cb775095.json)
 
 [Extended Data](ext_articles/cb775095.ext.json)
-
----
-
-### Signal Disorder: Train Services Delay in Pratana Religion
-
-*2024-03-15 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178774) · `ta`
-
-Signal disorder delays train services on the Prathana route between Kelani and Hunupitiya stations.
-
-🟩
-
-The rail control room said that there was a sign of signal between Kelani and Hunupitiya railway stations.
-
-Due to this, the railway control room said that the train services have been delayed in the Prathana route.
-
-◼️
-
-[Data](articles/55ecab80.json)
-
-[Extended Data](ext_articles/55ecab80.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 06:16:46**
+As of **2024-03-15 06:53:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,984 (99.9%) of 13,001 articles have been extended.
+12,997 (100.0%) of 13,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ I would like to know from the Commissioner how feasible it is to execute the abo
 
 [Data](articles/860dd85e.json)
 
+[Extended Data](ext_articles/860dd85e.ext.json)
+
 ---
 
 ### First ever India-Sri Lanka Joint Working Group firms up cooperation in renewable energy
@@ -65,6 +67,8 @@ The meeting was co-chaired by Secretary, Ministry of New and Renewable Energy fr
 ...
 
 [Data](articles/d7fad1b6.json)
+
+[Extended Data](ext_articles/d7fad1b6.ext.json)
 
 ---
 
@@ -84,6 +88,8 @@ The installation captures the essence of the pervasive issue of abuse experience
 
 [Data](articles/177ef45e.json)
 
+[Extended Data](ext_articles/177ef45e.ext.json)
+
 ---
 
 ### Philately cover today to mark 135th anniversary of Maliyadeva College, Kurunegala
@@ -97,6 +103,8 @@ In order to celebrate the 135th anniversary of Maliyadeva College, Kurunegala, a
 ...
 
 [Data](articles/2d1336d2.json)
+
+[Extended Data](ext_articles/2d1336d2.ext.json)
 
 ---
 
@@ -114,6 +122,8 @@ Brandix said it continues to lead efforts to inspire and empower women across al
 
 [Data](articles/976ddc48.json)
 
+[Extended Data](ext_articles/976ddc48.ext.json)
+
 ---
 
 ### Sri Lanka moves closer to renewable energy goals with ‘Project Apollo’
@@ -125,6 +135,8 @@ Ceylon Energy Ltd. Founder/Chairman Madusanka Fernando, CEB Chairman N. S. Ilang
 ...
 
 [Data](articles/32d6012d.json)
+
+[Extended Data](ext_articles/32d6012d.ext.json)
 
 ---
 
@@ -141,6 +153,8 @@ The new partnership enables SriLankan Airlines to codeshare on flights operated 
 ...
 
 [Data](articles/0d4a157d.json)
+
+[Extended Data](ext_articles/0d4a157d.ext.json)
 
 ---
 
@@ -162,6 +176,8 @@ Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday e
 
 [Data](articles/20e1002f.json)
 
+[Extended Data](ext_articles/20e1002f.ext.json)
+
 ---
 
 ### Semasinghe warns of stability risks without continuity in Govt. programs
@@ -182,6 +198,8 @@ Semasinghe also criticised the Opposition’s stance on negotiations with the In
 
 [Data](articles/65900667.json)
 
+[Extended Data](ext_articles/65900667.ext.json)
+
 ---
 
 ### BASL expresses concern over growing vacancies in superior courts
@@ -197,6 +215,8 @@ The recent retirement of a judge of the Supreme Court has further exacerbated th
 ...
 
 [Data](articles/d962b3a0.json)
+
+[Extended Data](ext_articles/d962b3a0.ext.json)
 
 ---
 
@@ -216,6 +236,8 @@ Abeywardena is also accused of allowing the Third Reading of the Online Safety B
 
 [Data](articles/81158a2c.json)
 
+[Extended Data](ext_articles/81158a2c.ext.json)
+
 ---
 
 ### Applications deadline for Aswesuma phase 2 extended till 22 March
@@ -233,6 +255,8 @@ During the second phase of ‘Aswesuma’, benefits are anticipated to be extend
 ◼️
 
 [Data](articles/8b99e70b.json)
+
+[Extended Data](ext_articles/8b99e70b.ext.json)
 
 ---
 
@@ -1287,6 +1311,8 @@ Among the attendees at the simple but august ceremony were senior members of the
 ...
 
 [Data](articles/b61311ac.json)
+
+[Extended Data](ext_articles/b61311ac.ext.json)
 
 ---
 

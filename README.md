@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 13:33:31**
+As of **2024-03-15 13:52:07**
 
 ## Newspaper Stats
 
-*Scraped **13,070** Articles*
+*Scraped **13,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 699
 islandlk | 711
-adalk | 1,121
+adalk | 1,122
 adaderanalk | 1,571
 tamilmirrorlk | 1,592
 virakesarilk | 1,815
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,069 (100.0%) of 13,070 articles have been extended.
+13,070 (100.0%) of 13,071 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -211,6 +211,20 @@ Following the new development, the navy says it has intercepted a total of 16 In
 [Data](articles/fff75dda.json)
 
 [Extended Data](ext_articles/fff75dda.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයක උෂ්ණත්වය තවදුරටත් ඉහලට
+
+*2024-03-15 11:30:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයක-උෂ්ණත්වය-තවදුරටත්-ඉහලට/11-408625) · `si`
+
+අද (15) දිනයේත් දිස්ත්‍ත්‍රික්ක කිහිපයකම උෂ්ණත්වය අවධානයට යොමුකල යුතු මට්ටමක් දක්වා ඉහළ යනු ඇති බව කාළගුණ විද්‍යා ‌දෙපාර්ථමේන්තුව දන්වා සිටිනවා.
+
+උතුරුමැද , වයඹ , නැගෙනහිර පාලාත් හා කොළඹ, ගම්පහ, මුලතිවු , වවුනියාව,මොනරාගල සහ මන්නාරම යන දිස්ත්‍රික්කවල ඇතැම් ස්ථාන වල උෂ්ණත්වය අවධානයට යොමුකල යුතු මට්ටමේ පවතින බව අවධාරනය කර සිටියි.
+
+◼️
+
+[Data](articles/2dcdd880.json)
 
 ---
 
@@ -988,21 +1002,29 @@ Initiative investigations have revealed that the casualty had been killed by her
 
 ---
 
-### අදානිගේ සුළං බලාගාර ව්‍යාපෘතිය ගැන ජනතාවගේ වාචික අදහස් විමසන්න පරිසර අධිකාරිය තීරණය කරයි
+### Environmental Authority has decided to consult the verbal views of the people of the Vani's wind power plant project
 
 *2024-03-15 07:39:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwen9prd4wo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, අදානි හරිත බලශක්ති ශ්‍රී ලංකා සමාගම අවශ්‍ය අනුමැතීන් ලබා දීම සඳහා ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරිය මෙම ව්‍යාපෘතියේ, ව්‍යාපෘති යෝජකයා ලෙස කටයුතු කරයි.
+The Environmental Authority is consulting public opinions on the Vani wind power plant project in Sri Lanka. The Sri Lanka Sustainable Energy Authority, the project proponent, aims to approve the project. The Central Environmental Authority (CEA) is also involved, accepting written comments until March 6. Public concerns include potential threats and water crises due to winds in Mannar. The project aims to generate 70% of Sri Lanka's electricity by 2030.
 
-අදානිගේ සුළං බලාගාර ව්‍යාපෘතිය ගැන ජනතාවගේ වාචික අදහස් විමසන්න පරිසර අධිකාරිය තීරණය කරයි
+🟩
 
-අදානි හරිත බලශක්ති ශ්‍රී ලංකා සමාගම ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති සුළං බලාගාර ව්‍යාපෘතිය සම්බන්ධයෙන් ජනතාවගේ වාචික අදහස් විමසීමට (Public hearing) මධ්‍යම පරිසර අධිකාරිය තීරණය කර තිබේ.
+The Sri Lanka Sustainable Energy Authority is the Project Proponent of the project to provide the approval approval for the Heading Head, Rajapakse Heading, Sri Lanka (SLBF).
 
-ඒ ගැන ලිඛිත අදහස් දැක්වීම සඳහා මාර්තු 06 තෙක් ඉඩ ලබා දී තිබුණි.
+Environmental Authority has decided to consult the verbal views of the people of the Vani's wind power plant project
+
+The Central Environmental Authority (CEA) has decided to promptly inquired about the verbal views of the wind power plant projects plan to implement Sri Lanka.
+
+The written comment was allowed until March 6.
+
+"We have written written comments that are interested in science, environmental organizations and environmental organizations and this.. We now have these comments to the Sri Lanka Sustainable Tests Authority, the Sri Lankan Sustainable Courtesy authority and submit technical explanations. The people asked us to give a chance to comment verbal. We hopefully give it a chance. "The Deputy Director General of Environmental Management and Evaluation Division. S Gamage told BBC Sinhala service.
 
 ...
 
 [Data](articles/60eaa820.json)
+
+[Extended Data](ext_articles/60eaa820.ext.json)
 
 ---
 
@@ -2141,29 +2163,5 @@ However, the police and the Special Task Force (STF) were involved in the inspec
 [Data](articles/1e3adf11.json)
 
 [Extended Data](ext_articles/1e3adf11.ext.json)
-
----
-
-### Sri Lanka look to bounce back in second ODI
-
-*2024-03-14 22:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-look-to-bounce-back-in-second-ODI/108-278867) · `en`
-
-Mar. 14 - Bangladesh and Sri Lanka will clash in the second One Day International (ODI) at the Zahur Ahmed Chowdhury Stadium in Chattogram, tomorrow.
-
-The visitors would aim to square the series 1-1 after losing the opener by six wickets on Wednesday at the same venue.
-
-Bangladesh chased down their target of 256 runs successfully in the first ODI with Skipper Najmul Shanto and Mushfiqur Rahim getting them home.
-
-It remains to be seen if the series goes into the decider as Sri Lanka will be determined to bounce back.
-
-Defending a subpar target of 256, Sri Lanka did well to reduce Bangladesh to 23 for three but then a pair of partnerships - first between Shanto and Mahmudullah and then Shanto and Mushfiqur - took the game away from the visitors.
-
-They were assisted by the fact that their bowlers had earlier done extremely well to reel the Lankans in after a fast start and eventually bowl them out inside 49 overs.
-
-...
-
-[Data](articles/cf6424fb.json)
-
-[Extended Data](ext_articles/cf6424fb.ext.json)
 
 ---

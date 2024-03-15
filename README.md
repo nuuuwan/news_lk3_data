@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 03:02:55**
+As of **2024-03-16 03:17:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,188 (100.0%) of 13,189 articles have been extended.
+13,189 (100.0%) of 13,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### ஓவியக் கண்காட்சிகளை பார்வையிட்டார் ஜனாதிபதி
+### The President visited the painting exhibitions
 
 *2024-03-16 02:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓவியக்-கண்காட்சிகளை-பார்வையிட்டார்-ஜனாதிபதி/175-334735) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க கொழும்பு 07, லயனல் வென்ட் கலையரங்கில் இரண்டு மூத்த ஓவியர்களான இரோமி விஜேவர்தன மற்றும் வின்ஸ்டன் சுலுதாகொட ஆகியோரின் ஏற்பாட்டில் இடம்பெற்ற ஓவியக் கண்காட்சிகளைப் பார்வையிட்டார்.
+President Ranil Wickremesinghe attended painting exhibitions by Iromi Wijewardena and Winston Suludagoda, celebrating Wijewardena's 50th anniversary and Suludagoda's 34th exhibition. The theme was 'Celebration of Women', showcasing a range of subjects including daily life, global crises, and religious lifestyles.
 
-இரோமி விஜேவர்தனவின் கலை வாழ்க்கையின் 50 ஆவது ஆண்டு நிறைவை முன்னிட்டு’Celebration of women’ எனும் தொனிப்பொருளில் ஓவியக் கண்காட்சி ஏற்பாடு செய்யப்பட்டிருந்ததுடன், உள்நாட்டிலும் வெளிநாட்டிலும் ஓவியக் கண்காட்சிகளை நடாத்தும் வின்ஸ்டன் சுலுதாகொட தனது 34 ஆவது ஓவியக் கண்காட்சியை ‘பாவனவக சாந்திய'(தியானத்தின் அமைதி) என்ற தலைப்பில் ஏற்பாடு செய்திருந்தார்.
+🟩
 
-46 வருடங்களாக ஓவியத் துறையில் ஈடுபட்டு வரும் வின்ஸ்டன், வெளிநாடுகளிலும் தனது ஓவியங்களைக் காட்சிப்படுத்தியுள்ளார்.
+President Ranil Wickremesinghe visited the Colombo 07, Lionel Vental Gallery and visited the painting exhibitions organized by two senior painters Iromi Wijewardena and Winston Suludagoda.
 
-அன்றாட வாழ்க்கை உறவுகள், உலகளாவிய நெருக்கடிகள், மத வாழ்க்கை முறைகள் உள்ளிட்ட பல வண்ணமயமான ஓவியங்கள் இந்த ஓவியக் கண்காட்சிகளில் இடம்பெற்றிருந்தன. ஓவியக் கண்காட்சிகளைப் பார்வையிட வந்த மக்களுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்ட ஜனாதிபதி, சில குழு புகைப்படங்களிலும் இணைந்து கொண்டார்.
+The painting exhibition was organized under the theme 'Celebration of Women' on the 50th anniversary of the artistic life of Iromi Wijewardena and organized his 34th painting exhibition at Vinston Suluthagoda, who has organized his 34th painting exhibition at home and abroad.
+
+Winston, who has been in the field of painting for 46 years, has also shown his paintings abroad.
+
+The paintings were featured in a variety of colorful paintings, including daily life relationships, global crises and religious lifestyle.. The president, who was involved in a friendly conversation with the people who came to visit the painting exhibitions, also joined some team photographs.
 
 ◼️
 
 [Data](articles/2c657125.json)
+
+[Extended Data](ext_articles/2c657125.ext.json)
 
 ---
 

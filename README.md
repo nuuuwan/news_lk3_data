@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 16:02:51**
+As of **2024-03-15 16:18:04**
 
 ## Newspaper Stats
 
-*Scraped **13,095** Articles*
+*Scraped **13,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,575
 tamilmirrorlk | 1,595
 virakesarilk | 1,818
 dailymirrorlk | 2,001
-adaderanasinhalalk | 2,069
+adaderanasinhalalk | 2,070
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,093 (100.0%) of 13,095 articles have been extended.
+13,095 (100.0%) of 13,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### වනඅලි ප්‍රහාරයෙන් විදෙස් ජාතිකයෙක් මරුට
+
+*2024-03-15 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194545) · `si`
+
+පොතුවිල් සංගමන්කන්ද ප්‍රදේශයේ දී වනඅලි ප්‍රහාරයකට ලක්වීමෙන් විදෙස් ජාතිකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+අද (15) උදෑසන සංගමන්කන්ද මනචේනි කැලෑවල ප්‍රදේශයේ දී අදාළ විදෙස් ජාතිකයා වනඅලි ප්‍රහාරයට ලක්ව ඇති බව වාර්තා වේ.
+
+ඔහු එම ප්‍රදේශයේ හෝටලයක නවාතැන් ගෙන සිටි අයෙකු බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+
+මේ අතර මැදවච්චිය ලිදවැව ප්‍රදේශයේදී ද වනඅලි ප්‍රහාරයකට ලක්වීමෙන් 61 හැවිරිදි පුද්ගලයෙකු මියගොස් තිබේ.
+
+වගා කටයුතු සිදුකරමින් සිටික අතරතුර ඔහු මෙම අනතුරට ලක්ව ඇති බව පොලීසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/a5c6571a.json)
+
+---
 
 ### Keheliya seeks bail
 
@@ -47,6 +67,8 @@ The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten ot
 ◼️
 
 [Data](articles/c476993d.json)
+
+[Extended Data](ext_articles/c476993d.ext.json)
 
 ---
 
@@ -80,19 +102,25 @@ He said that the Guinness World record was certified as a highly weighting blueb
 
 ---
 
-### பிணையில் விடுவிக்குமாறு கோரி மேல் நீதிமன்றத்தில் மனு
+### Petition in the High Court demanding the release of bail
 
 *2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணையில்-விடுவிக்குமாறு-கோரி-மேல்-நீதிமன்றத்தில்-மனு/175-334718) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல, தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி தனது சட்டத்தரணிகள் ஊடாக இன்று (15) கொழும்பு மேல் நீதிமன்றில் மனுவொன்றை சமர்ப்பித்துள்ளார்.
+Former Minister Keheliya Rambukwella filed a bail petition in the Colombo High Court, following denial by the House Magistrate's Court for the purchase of substandard vaccines.
 
-தரமற்ற தடுப்பு மருந்துகளை கொள்வனவு செய்தமை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள ரம்புக்வெல்லவை பிணையில் விடுவிக்க மாளிகாகந்த நீதவான் நீதிமன்றம் நேற்று (14) மறுத்துள்ளதுடன், வழக்கு விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டுள்ளது.
+🟩
 
-இந்த நிலையில், தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி ரம்புக்வெல்ல இந்த மனுவை சமர்ப்பித்துள்ளார்.
+Former Minister Keheliya Rambukwella, who has been interrogated, filed a petition in the Colombo High Court today (15) through his lawyers demanding the release of him on bail.
+
+The House Magistrate's Court yesterday (14) denied the release of Rambukwella, which was kept in detail for the purchase of substandard vaccines and ordered to be kept in detention until the trial is over.
+
+In this case, Rambukwella has submitted the petition demanding the release of him on bail.
 
 ◼️
 
 [Data](articles/e34f9ceb.json)
+
+[Extended Data](ext_articles/e34f9ceb.ext.json)
 
 ---
 
@@ -2195,31 +2223,5 @@ The President also stated that the Ministry of Finance, Urban Development and Ho
 [Data](articles/360e1fb1.json)
 
 [Extended Data](ext_articles/360e1fb1.ext.json)
-
----
-
-### Plantation workers can pay 1700 rupees
-
-*2024-03-15 03:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களுக்கு-1700-ரூபா-வழங்க-முடியும்/175-334692) · `ta`
-
-Minister Jeevan Thondaman announced upcountry plantation workers will receive 1700 rupees daily salary and a salary increase in 30 days. He met with 24 families in Talawakelle Hallirut estate, providing them with facilities, water, and infrastructure development. The President supports the Tamils' national identity in the hill country. Land rights for 1.76 million families will start on Amarar Arumugan Thondaman's birthday.
-
-🟩
-
-Minister Jeevan Thondaman said that upcountry plantation workers can be paid 1700 rupees as a daily salary and a salary increase within the next 30 days.
-
-Jeevan Thondaman was presented yesterday to 24 families who lived in the Talawakelle Hallirut estate and lived in temporary huts, with all the facilities, water, water and plantation infrastructure Development Minister and General Secretary of the Ceylon Workers Congress.
-
-In addition, they have been given a special 'address' and a postal box to place them in front of the houses.
-
-The President has agreed to embrace the arrangement of the upcountry Tamils to reveal their national identity as a hill country.
-
-Soumiyapoomi land rights to be given to one million 76 thousand families in the hill country will begin on the birthday of Amarar Arumugan Thondaman. (A)
-
-◼️
-
-[Data](articles/fce96626.json)
-
-[Extended Data](ext_articles/fce96626.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 01:03:52**
+As of **2024-03-16 01:18:03**
 
 ## Newspaper Stats
 
-*Scraped **13,183** Articles*
+*Scraped **13,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,121 @@ islandlk | 711
 adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
-virakesarilk | 1,831
-dailymirrorlk | 2,019
+virakesarilk | 1,834
+dailymirrorlk | 2,020
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,165 (99.9%) of 13,183 articles have been extended.
+13,165 (99.8%) of 13,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### மன்னார் தீவுப் பகுதியில் அதிக அளவில் தென்னை மரத்தை தாக்கி வரும் 'வெண் ஈ  நோய்' தாக்கத்தை கட்டுப்படுத்த நடவடிக்கை
+
+*2024-03-16 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178834) · `ta`
+
+வடக்கு மாகாணத்தில் தென்னை மரங்களில் ஏற்பட்டுள்ள 'வெண் ஈ நோய்' தாக்கம் மன்னார் மாவட்டத்திலும் குறிப்பாக மன்னார் தீவுப் பகுதியில் அதிகரித்துக் காணப்படுகிறது.
+
+இந்த நிலையில்  பயிர் பாதுகாப்பு சேவை நிலைய  அதிகாரிகள் வெள்ளிக்கிழமை (15) மன்னாருக்கு வருகை தந்து மன்னாரிலும் குறித்த நோய் தாக்கம் தொடர்பாக தெளிவு படுத்தி கட்டுப்படுத்துவதற்கான நடவடிக்கையை  முன்னெடுத்தனர்.
+
+மன்னார் மாவட்டச் செயலகத்தின் வளாகத்திலும் நோய் தாக்கத்திற்கு உள்ளான தென்னை மரங்களில் நோய் தாக்கத்தை கட்டுப்படுத்தும் ஒட்டுண்ணிகள் விடப்பட்டது.
+
+மன்னார் மாவட்ட செயலகத்தில் குறித்த நோயின் தாக்கம் தொடர்பிலும் வருகை தந்த அதிகாரிகளினால் விளக்கமளிக்கப்பட்டு குறித்த நோயை கட்டுப்படுத்துவதற்கான தீவிர நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+மேலும்  மன்னார் நகரப் பகுதியில் அடையாளம் காணப்பட்ட கிராமங்களிலும்,   தலைமன்னார்  பகுதியிலும் குறித்த நோயை கட்டுப்படுத்தும் ஒட்டுண்ணிகள் தென்னை மரங்களில் விடப்பட்டுள்ளது.
+
+குறிப்பாக கரையோர பிரதேச பகுதிகளில் குறித்த நோயின் தாக்கம் அதிகமாக காணப்படுவதாக வருகை தந்த அதிகாரிகள் தெரிவித்தனர்.
+
+...
+
+[Data](articles/dbf2d13d.json)
+
+---
+
+### அநீதிக்கு எதிராக அணிதிரளுமாறு வேலன் சுவாமிகள் அழைப்பு!
+
+*2024-03-16 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178833) · `ta`
+
+அநீதிக்கு எதிராக சனிக்கிழமை (16) காலை 10 மணிக்கு வவுனியா கந்தசுவாமி ஆலயத்தின் முன்பாக வடகிழக்கு மக்களை அணிதிரளுமாறு வேலன் சுவாமிகள் அழைப்புவிடுத்துள்ளார்.
+
+கடந்த மகாசிவராத்திரி தினத்தில் வெடுக்குநாறிமலையில் வழிபாடுகளில் ஈடுபட்டிருந்த ஆலயத்தின் நிர்வாகிகள்மீதும், சிவ பக்தர்கள் மீதும் பொலிஸார் நடத்திய வன்முறைகளை எதிர்த்தும், கைதுசெய்யப்பட்டு சிறையிலடைக்கப்பட்டுள்ளவர்களை விடுவிக்கக்கோரியும் குறித்த போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+சனிக்கிழமை (16) காலை 10.00 மணிக்கு வவுனியா கந்தசுவாமி ஆலயத்தின் முன்பாக குறித்த போராட்டம்  ஆரம்பிக்கப்படவுள்ளது.
+
+அநீதிக்கு எதிரான இந்தப் போராட்டத்தில், அனைத்துத் தமிழ் மக்கள், சமயம்சார்ந்த அமைப்புக்கள், தமிழ் அரசியல்வாதிகள், தமிழ் உணர்வாளர்கள், சிவில் சமூகத்தினர், பல்கலைக்கழக மாணவர்கள், என அனைவரையும், கலந்துகொள்ளுமாறு வேண்டுகோள் விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ff1cf292.json)
+
+---
+
+### Trinity towards the Interesting decision - Antonian Samar
+
+*2024-03-16 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
+
+Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
+
+🟩
+
+The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
+
+Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
+
+St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
+
+Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
+
+St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
+
+However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
+
+Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
+
+...
+
+[Data](articles/0cc93c42.json)
+
+[Extended Data](ext_articles/0cc93c42.ext.json)
+
+---
+
+### Gota’s book and conspiracy theories
+
+*2024-03-16 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gotas-book-and-conspiracy-theories/172-278977) · `en`
+
+Former President Gotabaya Rajapaksa’s book ‘The Conspiracy to oust me from Presidency” which was launched recently did not evoke much interest or create any stir among the people as its name suggests to do.
+
+Nor did it reveal any hidden facts or details about any incident that would have contributed to his ouster. However, the book is said to have been sold like hot cake due to the curiosity about what it could have contained.
+
+Hence, unlike the commotion that was created in September last year by the Channel 4 documentary which suggested a purported link between the State Intelligence Service (SIS) and the National Thowheed Jama’ath (NTJ), the terrorist organization that was behind the Easter Sunday terrorist attacks in 2019, the book seems to have now almost been forgotten even by Rajapaksa’s friends.
+
+...
+
+[Data](articles/c279dd78.json)
+
+---
+
+### யாழ். நவக்கிரி பகுதியில் வீடொன்றில் நிறுத்தி வைக்கப்பட்டிருந்த மோட்டார் சைக்கிள்கள் தீயிட்டு எரிப்பு
+
+*2024-03-16 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178832) · `ta`
+
+யாழ்ப்பாணம் நவக்கிரி பகுதியில் வீடொன்றில் நிறுத்தி வைக்கப்பட்டிருந்த மோட்டார் சைக்கிள்கள் தீயிட்டு எரிக்கப்பட்டுள்ளன.
+
+வீட்டினுள் நிறுத்தி வைக்கப்பட்டிருந்த மோட்டார் சைக்கிளை வெள்ளிக்கிழமை (16) அதிகாலை 1:30 மணியளவில் மோட்டார் சைக்கிளில் வந்த மூவர் பெற்றோர் குண்டு வீசி தீயிட்டு எரித்து வீட்டில் ஜன்னல்கள் கதவுகள் என்பவற்றையும் கூரிய ஆயுதங்களால் உடைத்து சேதமாக்கியுள்ளனர்.
+
+வீட்டில் உள்ளவர்கள் உறங்கிக் கொண்டிருந்த வேளை கூரிய ஆயுதங்களுடன் வந்த மூவர் தமது வீட்டை உடைத்து மோட்டார் சைக்கிளையும் தீயிட்டு எரித்ததாக வீட்டின் உரிமையாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0df8dc05.json)
+
+---
 
 ### Easter Sunday, nightmares of past and fears for the future
 
@@ -295,36 +397,6 @@ For ancient history we are dependent on those who recorded them, in times when l
 ...
 
 [Data](articles/66baa55e.json)
-
----
-
-### Trinity towards the Interesting decision - Antonian Samar
-
-*2024-03-15 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
-
-Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
-
-🟩
-
-The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
-
-Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
-
-St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
-
-Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
-
-St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
-
-However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
-
-Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
-
-...
-
-[Data](articles/0cc93c42.json)
-
-[Extended Data](ext_articles/0cc93c42.ext.json)
 
 ---
 
@@ -2071,105 +2143,5 @@ Fisheries Minister Douglas Devananda has issued a press release to provide over 
 [Data](articles/69a80967.json)
 
 [Extended Data](ext_articles/69a80967.ext.json)
-
----
-
-### Authorities who put the safety of their children
-
-*2024-03-15 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194542) · `si`
-
-In Kandy, a tunnel built for student safety near Dharmaraja College remains unused, despite concerns over its purpose. Parents have opened it before authorities, highlighting the need for its use to protect children from road accidents.
-
-🟩
-
-The news has been reported from Kandy due to the non-opening of a tunnel built for the safety of school children.
-
-The tunnel has been built in front of Dharmaraja College, Kandy Vithankumbura road in Kandy.
-
-The tunnel has been constructed for the transition of the students safely.
-
-However, many years after its construction, the people charged that the wet has not been used to use it.
-
-"It's been about three years since this ending this. Was in danger. That was exactly the yellow torn. No one has given an alternative yet. "
-
-Due to this, the parents of the school children, including the parents, open the tunnel before the authorities.
-
-"It's been a long time done work. I don't understand if you have. "
-
-"When you cross the road, children can accident. It's very good if you open this to the children's safety. "
-
-◼️
-
-[Data](articles/f2cc82e4.json)
-
-[Extended Data](ext_articles/f2cc82e4.ext.json)
-
----
-
-### Interested in the murder suspect's mental state of the Ottawa
-
-*2024-03-15 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194541) · `si`
-
-A 19-year-old Sri Lankan youth is accused in an Ottawa mass murder. Felgio de Zoysa, detained, appeared in court, revealing his name and birthday. The Canadian media reported on the Sri Lankan family members killed. The case is complex, with the suspect's mental state under scrutiny. The next hearing is on the 28th.
-
-🟩
-
-The 19-year-old Sri Lankan youth in the Ottawa mass murder took place in the Ottawa group murder yesterday.
-
-Law experts point out about the murdering incident.
-
-The suspect Felgio de Zoysa has already been detained at the Ottaah Keleton Detention Center and said his name and birthday when he appeared before the court.
-
-The Canadian Media said that the names of the Sri Lankan family members who were killed in the courts examination were to correct the bugs of the Sri Lankan family.
-
-The allegations have not been read before the court yesterday.
-
-The suspect has been selected for answering the courts at the courts and the next case has been held on the 28th.
-
-The suspects have been accused of six criminal murder accusations and accused of mine with the suspect Felgio de Zoysa.
-
-It has also been asked whether the accused will be excited at the courtship of his mental condition.
-
-...
-
-[Data](articles/305c9207.json)
-
-[Extended Data](ext_articles/305c9207.ext.json)
-
----
-
-### Sri Lanka spends Rs 4 Bn on prisoners, house arrest bill to be presented soon
-
-*2024-03-15 14:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-spends-rs-4-bn-on-prisoners-house-arrest-bill-to-be-presented-soon-154752/) · `en`
-
-ECONOMYNEXT — Sri Lanka spends 4 billion rupees a year holding prisoners and is now planning to enact new house arrest legislation in 2024 as a solution to overcrowding in prisons, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
-
-Jayaratne told reporters on Thursday March 14 that the country’s prison population stands at 30,793 individuals which far exceeds its capacity of 12,000.
-
-Amendments to laws such as the Bail Act are also being considered to address this, he said.
-
-A committee headed by Supreme Court Justice Yasantha Kodagoda had submitted a report on house arrest, after which cabinet approval was obtained for a draft bill which is now being formulated by the Legal Draftsman, according to Jayaratne.
-
-“We plan to present this house arrest bill to parliament in 2024 and make it a law. Consequent to this law, people convicted of civil offences can serve their sentence in their home instead of being imprisoned,” he said.
-
-...
-
-[Data](articles/31e730e9.json)
-
-[Extended Data](ext_articles/31e730e9.ext.json)
-
----
-
-### 'Construction Expo 2024'
-
-*2024-03-15 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Construction-Expo-2024/110-278917) · `en`
-
-“Construction Expo 2024” organized by the Ceylon Institute of Builders (CIOB) will be held from March 15 to 17 at the Sirimavo Bandaranaike Memorial Exhibition Hall at the BMICH. This is an excellent opportunity for new product sourcing, networking with new contacts and business opportunities, the latest technology added to the building and construction industry, etc. to promote the construction industry in Sri Lanka. Pix by Kithisiri De Mel
-
-◼️
-
-[Data](articles/7260c419.json)
-
-[Extended Data](ext_articles/7260c419.ext.json)
 
 ---

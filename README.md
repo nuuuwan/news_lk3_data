@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 18:20:45**
+As of **2024-03-15 18:33:44**
 
 ## Newspaper Stats
 
-*Scraped **13,116** Articles*
+*Scraped **13,119** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 123
-bbccomsinhala | 148
+bbccomsinhala | 149
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 681
@@ -19,32 +19,72 @@ adalk | 1,127
 adaderanalk | 1,579
 tamilmirrorlk | 1,597
 virakesarilk | 1,820
-dailymirrorlk | 2,005
+dailymirrorlk | 2,007
 adaderanasinhalalk | 2,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,115 (100.0%) of 13,116 articles have been extended.
+13,116 (100.0%) of 13,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### ගෝඨාභය පත්කළ කොමිසමක නිර්දේශවලට එරෙහිව ගොනුකළ පෙත්සම් ගැන ශ්‍රේෂ්ඨාධිකරණ දුන් නියෝගය
+### Russia turns to Ukrainian teens to bolster its forces
+
+*2024-03-15 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russia-turns-to-Ukrainian-teens-to-bolster-its-forces/108-278930) · `en`
+
+March 15 (CNN) -  Russia’s war machine is going to horrific lengths to try to erase Ukrainian identity and bolster its own military ranks – by deporting Ukrainian teenagers to Russia, indoctrinating them with propaganda, and attempting to conscript them into the Russian armed forces to fight against their own country.
+
+Numerous credible firsthand accounts have emerged of Russian authorities transporting Ukrainian children without parents or guardians from occupied areas like Mariupol to cities across Russia. There, the children are placed with Russian foster families, forced to attend pro-Russian schools, made to watch nationalistic videos praising Vladimir Putin, and taught that Ukraine does not truly exist as a nation.
+
+...
+
+[Data](articles/e223f4da.json)
+
+---
+
+### Heat advisory issued for multiple provinces, districts
+
+*2024-03-15 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-issued-for-multiple-provinces-districts/108-278929) · `en`
+
+Colombo, March 15 (Daily Mirror) -  As temperatures soar in parts of Sri Lanka, authorities warn of an impending rise in the heat index, particularly in regions spanning the North-Eestern, North-Central and Eastern Provinces, as well as in the Colombo, Gampaha, Moneragala, Mannar, Mullaitivu, Vavuniya and Hambantota districts.
+
+The heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution.'
+
+This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
+
+As such, people are advised to prioritize hydration and take frequent breaks in shaded areas to prevent heat-related illnesses.
+
+People are also advised to wear lightweight, loose-fitting, and light-colored clothing to help stay cool in the sweltering conditions.
+
+...
+
+[Data](articles/e0f42c87.json)
+
+---
+
+### Supreme Court order against the recommendations of a Commission appointed by Gotabhaya
 
 *2024-03-15 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194549) · `si`
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පාලන සමයේ පත්කළ දේශපාලන පළිගැනීම් පිළිබඳ සොයා බැලූ කොමිසමේ නිර්දේශ හා සොයා ගැනීම් බලරහිත කිරීමේ නියෝග නිකුත් කරන ලෙස ඉල්ලා ගොනුකළ පෙත්සම් විභාගය අවසන් කර තිබේ.
+The Supreme Court postponed its verdict on petitions filed by the Commission's recommendations, led by Presidential Secretary Traviis Padmini Ranawaka.
 
-අප අධිකරණ වාර්තාකරු පැවසුවේ එහි තීන්දුව ප්‍රකාශය කිරීම ශ්‍රේෂ්ඨාධිකරණය විසින් කල් තැබූ බවයි.
+🟩
 
-ජනාධිපති ලේකම් සමන් ඒකනායක, හිටපු නාවික හමුදාපති ට්‍රැවීස් සින්නයියා, හිටපු මහාධිකරණ විනිසුරු පද්මිණි රණවක ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The Petitions filed by the Commission's recommendations and guaranteed political provisions have been completed to issue the recommendations of the Commission.
+
+According to our judiciary reporter, the Supreme Court postponed the decision to make its verdict.
+
+The petitions were presented by the Presidential Secretary, Former Navy Commander Traviis Padmini Ranawaka and several others.
 
 ◼️
 
 [Data](articles/7ece0433.json)
+
+[Extended Data](ext_articles/7ece0433.ext.json)
 
 ---
 
@@ -1184,6 +1224,26 @@ Since the respondent has not been exposed to the respondents, he is released fro
 
 ---
 
+### 'මම ලියන හැටි': දර්ශනා ශම්මි විජේතිලක
+
+*2024-03-15 11:43:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd14xnmdye9o) · `si`
+
+දර්ශනා ශම්මි විජේතිලක යනු වර්තමාන සිංහල සාහිත්‍ය හඳුනන පාඨකයාට කිසිසේත්ම හැඳින්වීමක් අවශ්‍ය නවකතාකාරියක නොවේ.
+
+දෙවත, ගිරග සසල විය, නිසල දියවත, මන්දාරම් උයන, අසනග වැසි, විසඹසර වැනි ඇගේ නවකතා පාඨකයන් අතර සේම විචාරකයන් සහ සාහිත්‍ය විනිශ්චය මණ්ඩල තුළ ද නිරන්තර සම්භාවනාවට පාත්‍ර වී ඇත.
+
+මා ඇය සමග කතාබහක යෙදෙන්නේ නවකතාකාරියක ලෙස ඇය ලේඛනයේ යෙදෙන විට ඇයට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඇයටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය. හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/f5015ce6.json)
+
+---
+
 ### Fifteen Indian fishermen apprehended while poaching in Sri Lankan waters
 
 *2024-03-15 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97974/fifteen-indian-fishermen-apprehended-while-poaching-in-sri-lankan-waters) · `en`
@@ -2209,55 +2269,5 @@ There are many knowledgeable tax officers who understand both sides of the fence
 [Data](articles/0ddd96dc.json)
 
 [Extended Data](ext_articles/0ddd96dc.ext.json)
-
----
-
-### Parliament to become elders’ home if current trend persists: Anunayake Thera
-
-*2024-03-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-to-become-elders-home-if-current-trend-persists-Anunayake-Thera/108-278890) · `en`
-
-Getambe, March 15 (Daily Mirror) - The Anunayake of the Ramanya Nikaya Most Venerable Kappitiyagoda Sirivimala Thera stated yesterday that if the current trend persists, the entire parliament will soon resemble an elders' home and also emphasized the importance of elderly members stepping down to allow the youth the opportunity to contribute to the country's development.
-
-The Anunayake Thera emphasized this, when former Minister of Sports, MP Roshan Ranasinghe yesterday (14) visited him at the Getambe Temple.
-
-...
-
-[Data](articles/96993694.json)
-
-[Extended Data](ext_articles/96993694.ext.json)
-
----
-
-### Adani Mannar wind project - addressing concerns expressed
-
-*2024-03-15 06:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Adani-Mannar-wind-project-addressing-concerns-expressed/4-759510) · `en`
-
-This narrative is a follow up to the article by the writer titled, ‘Adani wind project in Mannar and ecological threats’ published in the DFT on 06 March 2024 (https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216)The intent is to address specific items covered by the 27 February WNPS hosted Media Conference panelists. Presented below are views - expressed in simple terms - of a person familiar with the wind industry:
-
-1.    Why wind project in Mannar - why not alternative sites with lower ecological impact
-
-...
-
-[Data](articles/334b9d41.json)
-
-[Extended Data](ext_articles/334b9d41.ext.json)
-
----
-
-### CCC urges collaborative approach to address parate suspension concerns
-
-*2024-03-15 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CCC-urges-collaborative-approach-to-address-parate-suspension-concerns/108-278884) · `en`
-
-The Ceylon Chamber of Commerce (CCC) yesterday expressed “deep concerns” about the government’s move to suspend parate execution, and called for a collaborative solution to address this growing issue.
-
-The CCC stated that while it understands that certain businesses, essentially in the SME sector need to be supported in the current economic climate, providing that support in the form of curtailing credit recovery measures is not necessarily the best method of supporting these industries.
-
-“The Chamber is concerned about the potential impact on the overall financial market as a result of the cancellation of the parate execution law,” it said in a statement to the media.
-
-...
-
-[Data](articles/b803e51e.json)
-
-[Extended Data](ext_articles/b803e51e.ext.json)
 
 ---

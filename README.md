@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 18:09:02**
+As of **2024-03-15 18:20:45**
 
 ## Newspaper Stats
 
-*Scraped **13,115** Articles*
+*Scraped **13,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,579
 tamilmirrorlk | 1,597
 virakesarilk | 1,820
 dailymirrorlk | 2,005
-adaderanasinhalalk | 2,073
+adaderanasinhalalk | 2,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,113 (100.0%) of 13,115 articles have been extended.
+13,115 (100.0%) of 13,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### ගෝඨාභය පත්කළ කොමිසමක නිර්දේශවලට එරෙහිව ගොනුකළ පෙත්සම් ගැන ශ්‍රේෂ්ඨාධිකරණ දුන් නියෝගය
+
+*2024-03-15 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194549) · `si`
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පාලන සමයේ පත්කළ දේශපාලන පළිගැනීම් පිළිබඳ සොයා බැලූ කොමිසමේ නිර්දේශ හා සොයා ගැනීම් බලරහිත කිරීමේ නියෝග නිකුත් කරන ලෙස ඉල්ලා ගොනුකළ පෙත්සම් විභාගය අවසන් කර තිබේ.
+
+අප අධිකරණ වාර්තාකරු පැවසුවේ එහි තීන්දුව ප්‍රකාශය කිරීම ශ්‍රේෂ්ඨාධිකරණය විසින් කල් තැබූ බවයි.
+
+ජනාධිපති ලේකම් සමන් ඒකනායක, හිටපු නාවික හමුදාපති ට්‍රැවීස් සින්නයියා, හිටපු මහාධිකරණ විනිසුරු පද්මිණි රණවක ඇතුළු පිරිසක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/7ece0433.json)
+
+---
 
 ### The world's largest blueberry fruit on the Australian farm
 
@@ -62,45 +78,57 @@ He said that the Guinness World record was certified as a highly weighting blueb
 
 ---
 
-### யானை தாக்கி சுற்றுலாப் பயணி பலி
+### Elephant attack
 
 *2024-03-15 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178799) · `ta`
 
-பொத்துவில், மணல்சேனை, கோமாரி  பகுதியில்  வெளிநாட்டு சுற்றுலாப் பயணி ஒருவர் காட்டு யானை தாக்கி உயிரிழந்துள்ளார்.
+An Italian tourist died in Pottuvil, Manalsenai, Komari area from an elephant attack. Two Italians were targeted on a motorcycle. The deceased is 50-year-old Ginjino Paulo. Pottuvil Police are investigating under Superintendent Wehitha Devapiya.
 
-கோமாரி பகுதியில் இரண்டு இத்தாலிய சுற்றுலாப் பயணிகள் மோட்டார் சைக்கிளில் சென்ற போது  யானை தாக்குதலுக்கு இலக்காகியுள்ளார்கள்.
+🟩
 
-இந்நிலையில், காயமடைந்தவர்கள்  1990 என்ற அவசர நோயாளர் காவு  வண்டி மூலம் பொத்துவில் ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டபோது ஒரு சுற்றுலா பயணி உயிரிழந்துள்ளார்.
+A foreign tourist in Pottuvil, Manalsenai, Komari area has died of a wild elephant.
 
-உயிரிழந்தவர் இத்தாலிய சுற்றுலாப் பயணியான  50 வயதுடைய ஜிஞ்சினோ பாலோ என்பவர் என தெரியவந்துள்ளது.
+Two Italian tourists in the Komari area were targeted for an elephant attack when they went on a motorcycle.
 
-பொலிஸ் அத்தியட்சகர் வெஹித தேவபியவின் பணிப்புரையின் பேரில் பொத்துவில் பொலிஸ் நிலைய பொறுப்பதிகாரி கமல் செனவிரத்ன மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றார்.
+In this case, a tourist died when the injured were taken to Pottuvil Resource Hospital by an emergency patient, 1990.
+
+The deceased is the 50 -year -old Ginjino Paulo, an Italian tourist.
+
+Pottuvil Police Officer Kamal Seneviratne is conducting further inquiries on the directives of the Superintendent of Police Wehitha Devapiya.
 
 ◼️
 
 [Data](articles/9d169bd9.json)
 
+[Extended Data](ext_articles/9d169bd9.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට දැවැන්ත ඉලක්කයක්
+### Massive target of Sri Lanka
 
 *2024-03-15 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194548) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය මේ වන විට පැවැත්වෙයි.
+In the 2nd ODI, Sri Lanka won the toss and chose to bat first. Bangladesh scored 286/7 in 50 overs, with Tawild Rido's 96 not out, including 5 fours and 4 sixes, in 102 balls.
 
-එහි කාසියේ වාසිය ශ්‍රී ලංකා කණ්ඩායමට හිමි වූ අතර පළමුවෙන් පන්දුවට පහර දීමට ඔවුන් බංග්ලාදේශයට අරාධනා කළේය.
+🟩
 
-ඒ අනුව බංග්ලාදේශ කණ්ඩායම සිය පන්දුවාර 50 දී කඩුලු 7ක් දැවී ලකුණු 286 ක් රැස් කළේය.
+The second ODI match between the Tourism Sri Lanka and the Bangladesh team is currently underway.
 
-බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් විශිෂ්ට ඉනිමක් ක්‍රීඩා කළ තව්හිද් රිඩෝයි නොදැවී ලකුණු 96ක් රැස්කළේය.
+The Sri Lankan team won the advantage of its coin, and they invited Bangladesh to bat first.
 
-ඔහු ඉනිමේ අවසන් පන්දු දෙකට දැවැන්ත 6 පහර දෙකක් එල්ල කිරීම විශේෂත්වයකි.
+Accordingly, Bangladesh scored 286 runs for the loss of 7 wickets in their allotted 50 overs.
 
-රිඩෝයි පන්දු 102කට මුහුණදුන් අතර ඔහුගේ ඉනිමට 6 පහර 5ක් සහ 4 පහර 3ක් ඇතුළත් විය.
+Tawild Rido, playing a great innings on Bangladesh team, scored 96 not out.
+
+He is a huge 6 bowlers of the innings.
+
+Ridoi faced 102 balls and his innings included 5 hits and 4 hits.
 
 ◼️
 
 [Data](articles/a1f0405b.json)
+
+[Extended Data](ext_articles/a1f0405b.ext.json)
 
 ---
 
@@ -2231,21 +2259,5 @@ The CCC stated that while it understands that certain businesses, essentially in
 [Data](articles/b803e51e.json)
 
 [Extended Data](ext_articles/b803e51e.ext.json)
-
----
-
-### What does it mean to revive planning?
-
-*2024-03-15 05:55:56* · [`dailyftlk`](https://www.ft.lk/columns/What-does-it-mean-to-revive-planning/4-759509) · `en`
-
-We cannot generate a more critical concept of planning until we take seriously the conflict of interests and ideologies that will inevitably shape any possible recovery for Sri Lanka today
-
-Despite claims of a ‘free market’, the leverage that these actors have over much of the global supply chain means that large swathes of the market are in fact held under a kind of private dictatorship. Accordingly, the question is not whether to plan. Instead, we must ask whether we prefer a form of planning that works in a democratic way with an explicit understanding of the public good, versus one that does not
-
-...
-
-[Data](articles/54fd51f7.json)
-
-[Extended Data](ext_articles/54fd51f7.ext.json)
 
 ---

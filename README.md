@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 12:33:19**
+As of **2024-03-15 12:50:08**
 
 ## Newspaper Stats
 
-*Scraped **13,064** Articles*
+*Scraped **13,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ dailyftlk | 681
 economynextcom | 699
 islandlk | 711
 adalk | 1,121
-adaderanalk | 1,570
-tamilmirrorlk | 1,591
+adaderanalk | 1,571
+tamilmirrorlk | 1,592
 virakesarilk | 1,814
 dailymirrorlk | 1,997
-adaderanasinhalalk | 2,061
+adaderanasinhalalk | 2,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,064 (100.0%) of 13,064 articles have been extended.
+13,064 (100.0%) of 13,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### දරුවන් දෙදෙනෙකුට මව ව අහිමි කළ ඝාතනය
+
+*2024-03-15 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194537) · `si`
+
+සීදූව ප්‍රදේශයේ බෝඩිං කාමරයක් තුළදී 27 හැවිරිදි දෙදරු මවක් ව ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් තොරතුරු රැසක් හෙළිවී ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය සැක කරන්නේ, මෙම ඝාතනය සිදුකර ඇත්තේ, ඇය කලක සිට අනියම් ඇසුරක් පැවැත්වූ බවට සැකකෙරෙන 22 හැවිරිදි තරුණයෙකු විසින් බවයි.
+
+එම ඝාතනයෙන් පසු සැකකරු සම්පූර්ණ සිද්ධිය සිය මිතුරෙකුට පාපොච්චාරණය කර ඇති බව පොලීසිය පැවසීය.
+
+රද්දොළුව, මුතුවාඩිය පාරේ පිහිටි එම බෝඩිං කාමරයකදී 27 හැවිරිදි දෙදරු මව ව ඝාතනය කර තිබුණේ, පෙරේදා රාත්‍රියේදී බව පොලීසිය කීය.
+
+ඝාතනය කර තිබුණේ අනුරාධපුර, පමුගොල්ලෑව ප්‍රදේශයේ පදිංචිව සිටි දෙදරු මවක් වන දිලිනි සසිකලා ප්‍රියභාෂිනී නම් කාන්තාවකි.
+
+22 හැවිරිදි තරුණයෙක් එම ඝාතනය සිදුකර ඇති බව පොලීසිය සැක කරයි.
+
+එම තරුණයා සීදුවේ පිහිටි මියගිය කාන්තාව ජීවත් වූ බෝඩිං කාමරයට  අවස්ථා කිහිපයකදීම පැමිණ ඇති බවට මූලික පරීක්ෂණවලදී අනාවරණ වී තිබුණි.
+
+ඝාතන සිද්ධියෙන් පසු බෝඩිං කාමරයට ගිය පොලිසියට නිරීක්ෂණය වී තිබුණේ, තොණ්ඩුවක් ද එම කාමරය තුළ සකසා තිබූ ආකාරයකි.
+
+ඝාතනයෙන් පසු සැකකරු ද සිය දිවි නසාගැනීමේ සූදානමක් තිබෙන්නට ඇති බව පොලීසිය සැකපළකරයි.
+
+...
+
+[Data](articles/dae8f64a.json)
+
+---
+
+### Harsha denies requesting meeting with IMF, says ‘Don’t play politics with our economy’
+
+*2024-03-15 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97975/harsha-denies-requesting-meeting-with-imf-says-dont-play-politics-with-our-economy) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva has refuted recent claims that he requested for a meeting with the visiting delegation of the International Monetary Fund (IMF).
+
+Taking to ‘X’ (formerly Twitter) in response to a statement made by State Minister of Finance Shehan Semasinghe, the SJB MP stated that he had merely requested for the Opposition to be involved in the External Debt Restructure (EDR).
+
+MP Dr. Harsha de Silva further highlighted that he had made a request in this regard given the crucial importance of the Opposition being made aware of such facts and figures in the event they are elected as the next government.
+
+“Never requested an IMF meeting (deal finalized). My request: Opposition involved in EDR (crucial for when we take over next Govt.)I have never reneged my responsibility and continue to work for #lka, even in Opp. Don’t play politics with our economy”, the MP’s statement on ‘X’ read.
+
+...
+
+[Data](articles/954c6b7c.json)
+
+---
+
+### பெண்களின் உரிமை மீறப்படுவதை அனுமதிக்கக் கூடாது
+
+*2024-03-15 12:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களின்-உரிமை-மீறப்படுவதை-அனுமதிக்கக்-கூடாது/175-334709) · `ta`
+
+2019 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில், இந்நாட்டில் பெண்கள் தொடர்ச்சியாக எதிர்நோக்கும் சுகாதாரப் பிரச்சினைக்கு நிலையான தீர்வு காணப்பட வேண்டும் என்ற நிலைப்பாட்டில் ஐக்கிய மக்கள் சக்தி இருந்தது. இதன் விளைவாக, இன்று செலின் அறக்கட்டளை சுகாதார வசதிகள் இல்லாத சுகாதார வறுமையால் பாதிக்கப்பட்ட பெண்களுக்காக மிக முக்கியமானதொரு திட்டத்தை முன்வைத்துள்ளது.
+
+ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் 2019 ஆம் ஆண்டு வாக்குறுதியளித்தபடி ஸ்கொட்லாந்து நியுசிலாந்து போல, நிதிப் பிரச்சினைகளால் சுகாதார தேவைகளை பூர்த்தி செய்ய முடியாத பெண்களுக்கு எமது அரசாங்கத்தின் ஊடாக இந்த சுகாதார உபகரணங்கள் வழங்கப்படும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்
+
+...
+
+[Data](articles/18e8e16c.json)
+
+---
 
 ### Signal Disorder: Train Services Delay in Pratana Religion
 
@@ -2091,65 +2151,5 @@ The suspect is to be produced before the Mullaitivu Magistrate's Court.
 [Data](articles/aea0e7a3.json)
 
 [Extended Data](ext_articles/aea0e7a3.ext.json)
-
----
-
-### West Bengal Chief Minister Mamta Banerjee
-
-*2024-03-14 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178755) · `ta`
-
-West Bengal's Chief Minister Mamta Banerjee was seriously injured in an accident, according to Trinamool Congress.
-
-🟩
-
-India's West Bengal Chief Minister Mamta Banerjee was seriously injured in the accident, Trinamool Congress said on Thursday (14).
-
-◼️
-
-[Data](articles/c73a9a77.json)
-
-[Extended Data](ext_articles/c73a9a77.ext.json)
-
----
-
-### Dhoni meets in Jaffna
-
-*2024-03-14 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194521) · `si`
-
-Dhoni meets 17-year-old Kugadas in Jaffna. Kugadas, a sportsman from Kumbali, was quickly circulated. He was noted for hitting the wicket directly. Dhoni, a school player, has reportedly joined the Chennai team to bowl.
-
-🟩
-
-A 17-year-old sportsman Kugades, a 17-year-old sports Kugadas, was rapidly circulated in the 17-year-old Kumbali.
-
-It was noted that the Yakker, which was directed to the wicket directly in the wicket.
-
-The school player, which was presented by Mahendra Singh Dhoni, has reportedly joined the Chennai team to bowl the net.
-
-◼️
-
-[Data](articles/f70c3cb5.json)
-
-[Extended Data](ext_articles/f70c3cb5.ext.json)
-
----
-
-### Couples kidnapping in Vaddukoddai
-
-*2024-03-14 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178754) · `ta`
-
-The Navy is investigating the abduction and murder of naval personnel near Vaddukoddai, Jaffna. If found guilty, severe action will be taken against the naval soldiers involved.
-
-🟩
-
-The Navy has decided to conduct a thorough investigation into the manner in which the Navy was abducted and murdered near the Ponnalai Naval Board of Vaddukoddai, Jaffna.
-
-He said that if the relevant naval soldiers were proven guilty, strict action would be taken.
-
-◼️
-
-[Data](articles/2d1f98be.json)
-
-[Extended Data](ext_articles/2d1f98be.ext.json)
 
 ---

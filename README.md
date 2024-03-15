@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 16:48:14**
+As of **2024-03-15 17:02:56**
 
 ## Newspaper Stats
 
-*Scraped **13,104** Articles*
+*Scraped **13,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,75 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,126
-adaderanalk | 1,576
+adaderanalk | 1,577
 tamilmirrorlk | 1,597
-virakesarilk | 1,818
-dailymirrorlk | 2,002
+virakesarilk | 1,819
+dailymirrorlk | 2,005
 adaderanasinhalalk | 2,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,097 (99.9%) of 13,104 articles have been extended.
+13,104 (100.0%) of 13,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### හොන්ඩා සහ නිසාන් සමාගම් තීරණයක් ගනී
+### Hamas presents ceasefire proposal detailing exchange of hostages, prisoners
+
+*2024-03-15 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97979/hamas-presents-ceasefire-proposal-detailing-exchange-of-hostages-prisoners) · `en`
+
+Hamas has presented a Gaza ceasefire proposal to mediators and the U.S. that includes the release of Israeli hostages in exchange for freedom for Palestinian prisoners, 100 of whom are serving life sentences, according to a proposal seen by Reuters.
+
+Hamas said the initial release of Israelis would include women, children, elderly and ill hostages in return for the release of 700-1,000 Palestinians held in Israeli prisons, according to the proposal. The release of Israeli “female recruits” is included.
+
+Israeli Prime Minister Benjamin Netanyahu’s office said on Thursday a new Gaza truce proposal presented by Hamas to mediators was still based on “unrealistic demands”.
+
+His office said an update on the issue would be handed to the war cabinet and extended security cabinet on Friday.
+
+...
+
+[Data](articles/7f0c1e6e.json)
+
+---
+
+### Honda and Nissan make a company decision
 
 *2024-03-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194546) · `si`
 
-විද්‍යුත් වාහන නිෂ්පාදනය වැඩි දියුණු කිරීම සඳහා මෙන්ම ස්වංක්‍රීය තාක්ෂණය ඊට එකතු කිරීම සඳහා එක්ව කටයුතු කිරීමට හොන්ඩා සහ නිසාන් යන සමාගම් තීරණය කර තිබේ.
+Honda and Nissan, Japan's 2nd and 3rd largest carmakers, plan to enhance electric production and collect self-technology, aiming for future technological advancements.
 
-ජපානයේ ටෝකියෝ නුවර පැවති මාධ්‍ය සාකච්ඡාවකට එක්වෙමින් එම සමාගම් දෙකෙහි ප්‍රධානීන් මේ බව ප්‍රකාශ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ජපානයේ දෙවන සහ තෙවන විශාලතම මෝටර් රථ නිෂ්පාදකයින් වන මෙම සමාගම් දෙක ඉදිරියේ දී තාක්ෂණයෙන් වැඩි දියුණු වූ විද්‍යුත් වාහන නිර්මාණය කිරීමට කටයුතු කරනු ඇති බව විදෙස් මාධ්‍යවල වැඩිදුරටත් දැක්වේ.
+Honda and Nissan has decided to improve electrical production as well as to collect self-technology.
+
+The heads of the two companies said that the heads of the two companies were speaking at a media briefing in Tokyo, Japan.
+
+The two companies, the second and third largest car manufacturers of Japan, will create technology improved technology in the future.
 
 ◼️
 
 [Data](articles/6d94b922.json)
+
+[Extended Data](ext_articles/6d94b922.ext.json)
+
+---
+
+### ICC to make stop clock rule permanent in ODIs and T20Is
+
+*2024-03-15 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-to-make-stop-clock-rule-permanent-in-ODIs-and-T20Is/108-278927) · `en`
+
+Mar. 15 (ICC) - The International Cricket Council (ICC) is set to implement the stop clock rule permanently, following a successful trial period, making it a standard feature in international cricket, says a report.
+
+According to Cricbuzz, the rule which was initially introduced on an experimental basis in December 2023, has now been approved for implementation in all white-ball cricket, including Twenty20 Internationals (T20Is) and One-Day Internationals (ODIs), starting with the upcoming T20 World Cup in June.
+
+The stop clock rule aims to ensure the timely completion of matches by requiring the fielding team to commence the next over within 60 seconds of the previous one ending. An electronic clock will be displayed between overs, with umpires responsible for enforcing the rule. Fielding teams will receive two warnings before facing a five-run penalty for subsequent violations.
+
+...
+
+[Data](articles/50db05e8.json)
 
 ---
 
@@ -63,6 +103,42 @@ The trade unions representing a wide range of health sector professionals – in
 ...
 
 [Data](articles/3447b066.json)
+
+[Extended Data](ext_articles/3447b066.ext.json)
+
+---
+
+### யுக்திய நடவடிக்கையில் 944 பேர் கைது!
+
+*2024-03-15 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178810) · `ta`
+
+யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலயத்திற்குள் பொலிஸாரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது போதைப்பொருள் குற்றங்கள் தொடர்பில் 944  பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேக நபர்களின் சொத்துக்கள் தொடர்பில்  விசாரணைகள்  மேற்கொள்ளப்படவுள்ளதாகவும்,  போதைப்பொருளுக்கு அடிமையானவர்கள்  புனர்வாழ்வு மையத்துக்கு  அனுப்பப்படவுள்ளதாகவும்  பொலிஸார் தெரிவித்தனர்.
+
+மேலும்,  மேல் மற்றும் தெற்கு மாகாணங்களில் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பிலும் போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளதுடன்  சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/89a92bee.json)
+
+---
+
+### Applications open for National Colleges
+
+*2024-03-15 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-open-for-National-Colleges/108-278926) · `en`
+
+The Education Ministry has taken steps to accept applications for the admission of students to the National Colleges of Education based on the results of the Advaned Level examination in the academic year 2021/2022
+
+Candidates should send in their applications via the online system and selections will be done through the online system.
+
+The closing date for online applications is April 5 and applicantions can be sent from 01 p.m today.
+
+Applications submitted prior to 12 p.m today will not be accepted and will not be considered, the Ministry said.
+
+◼️
+
+[Data](articles/cbe86c33.json)
 
 ---
 
@@ -164,19 +240,25 @@ He said that the Guinness World record was certified as a highly weighting blueb
 
 ---
 
-### பிணை கோரி  மனு
+### Bail petition
 
 *2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணை-கோரி-மனு/175-334718) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல, தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி தனது சட்டத்தரணிகள் ஊடாக இன்று (15) கொழும்பு மேல் நீதிமன்றில் மனுவொன்றை சமர்ப்பித்துள்ளார்.
+Keheliya Rambukwella, a former Minister, filed a bail petition in the Colombo High Court today, after being denied bail by the House Magistrate's Court for allegedly purchasing substandard vaccines.
 
-தரமற்ற தடுப்பு மருந்துகளை கொள்வனவு செய்தமை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள ரம்புக்வெல்லவை பிணையில் விடுவிக்க மாளிகாகந்த நீதவான் நீதிமன்றம் நேற்று (14) மறுத்துள்ளதுடன், வழக்கு விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டுள்ளது.
+🟩
 
-இந்த நிலையில், தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி ரம்புக்வெல்ல இந்த மனுவை சமர்ப்பித்துள்ளார்.
+Former Minister Keheliya Rambukwella, who has been interrogated, filed a petition in the Colombo High Court today (15) through his lawyers demanding the release of him on bail.
+
+The House Magistrate's Court yesterday (14) denied the release of Rambukwella, which was kept in detail for the purchase of substandard vaccines and ordered to be kept in detention until the trial is over.
+
+In this case, Rambukwella has submitted the petition demanding the release of him on bail.
 
 ◼️
 
 [Data](articles/7961826e.json)
+
+[Extended Data](ext_articles/7961826e.ext.json)
 
 ---
 
@@ -300,6 +382,8 @@ About 105 engineers have resigned and about 54 have taken leave, Parakramasinghe
 
 [Data](articles/68f127f4.json)
 
+[Extended Data](ext_articles/68f127f4.ext.json)
+
 ---
 
 ### Demonstration demanding the release of those arrested on the hill
@@ -376,21 +460,27 @@ The Gaza conflict has displaced most of the enclave’s 2.3 million population. 
 
 ---
 
-### 159 பொறியியலாளர்கள்  வெளியேற்றம்
+### 159 Engineers Exit
 
 *2024-03-15 14:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/159-பொறியியலாளர்கள்-வெளியேற்றம்/175-334716) · `ta`
 
-இலங்கை மின்சார சபையில் பணிபுரிந்த 159 பொறியியலாளர்கள் இரண்டு வருடங்களுக்குள் வெளிநாடு சென்றுள்ளதாகவும் 105 பொறியியலாளர்கள் தமது சேவையை விட்டு விலகியுள்ளதுடன் மேலும் 54 பேர் உத்தியோகபூர்வ விடுமுறை பெற்று சென்றுள்ளதாக இலங்கை மின்சார சபையின் பொறியியலாளர்கள் சங்கத்தின் தலைவர் தனுஷ்க பராக்கிரமசிங்க இன்று (15) தெரிவித்தார்.
+159 engineers left the Ceylon Electricity Board, with 105 resigning and 54 on official holidays. Experienced engineers' departure threatens a crisis. Many abroad for vacation are seeking permanent residency, with salaries ranging from $4,000 to $8,000 a month.
 
-நிர்வாக சபையில் பணிபுரிந்து மிகவும் சிக்கலான கடமைகளில் ஈடுபட்ட அனுபவம் வாய்ந்த பொறியியலாளர்கள் தமது பணியை மேலும் துறந்தால் இலங்கை மின்சார சபை கடும் நெருக்கடிக்கு உள்ளாகும் நிலை ஏற்படும்.
+🟩
 
-விடுமுறையில் வெளிநாட்டில் இருக்கும் ஏராளமான பொறியாளர்கள் தங்களுடைய நிரந்தர வதிவிட அனுமதிப் பத்திரம் பெறுவதற்காக பல்வேறு நாடுகளுக்குச் சென்றுள்ளதாகவும் அதன் காரணமாக அவர்கள் மீண்டும் பணிக்கு வருவார்கள் என்ற நம்பிக்கை இல்லை என்றும் தெரியவந்துள்ளது.
+Dhanushka Parakramasinghe, president of the Ceylon Electricity Board (CEB) Engineers Association, said that 159 engineers who worked at the Ceylon Electricity Board had gone abroad within two years and 105 engineers had left their service and 54 more official holidays had been received.
 
-வெளிநாட்டில் ஒரு புதிய பொறியாளர் மாதம் சுமார் 4,000 டாலர்கள் சம்பளம் பெறுவதாகவும், அனுபவம் வாய்ந்த பொறியாளர் சில நாடுகளில் மாதம் 6,000 முதல் 8,000 டாலர்கள் வரை சம்பளம் பெறலாம் என்றும் அவர் கூறினார்.
+If the experienced engineers who work in the Administrative Council and the most complex duties are further renounced, the Ceylon Electricity Board will be in severe crisis.
+
+It has been revealed that a large number of engineers abroad on vacation have gone to various countries to obtain their permanent residency permit and do not believe that they will work again.
+
+He said that a new engineer abroad will receive a salary of about $ 4,000 a month and the experienced engineer can get a salary of $ 6,000 to $ 8,000 a month.
 
 ◼️
 
 [Data](articles/40d992de.json)
+
+[Extended Data](ext_articles/40d992de.ext.json)
 
 ---
 
@@ -539,6 +629,8 @@ A committee headed by Supreme Court Justice Yasantha Kodagoda had submitted a re
 ...
 
 [Data](articles/31e730e9.json)
+
+[Extended Data](ext_articles/31e730e9.ext.json)
 
 ---
 
@@ -906,6 +998,8 @@ Semasinghe tweeted Friday March 15 that this apparent lack of transparency is a 
 
 [Data](articles/686c4ec9.json)
 
+[Extended Data](ext_articles/686c4ec9.ext.json)
+
 ---
 
 ### Lawyer who was accused of violating the ethics
@@ -1069,6 +1163,26 @@ Speaking to the media after the meeting, Minister Nalin Fernando said the discus
 [Data](articles/8e0d7ffe.json)
 
 [Extended Data](ext_articles/8e0d7ffe.ext.json)
+
+---
+
+### Vehicle prices set to increase after import resumptions next year: Importers
+
+*2024-03-15 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Vehicle-prices-set-to-increase-after-import-resumptions-next-year-Importers/155-278914) · `en`
+
+Colombo, March 15 (Daily Mirror) - Local vehicle importers claimed that the current market prices of vehicles would increase after the proposed resumption of vehicle imports from next year due to the chang in the duty structure.
+
+They said the government had implemented a significant change in the duty structure in January, resulting in a substantial increase in the marginal cost of importing vehicles.
+
+The importers also claimed that vehicles would be imported under huge restrictions.
+
+According to the survey conducted by the association, the existing local market prices of vehicles would increase after the import of new vehicles.
+
+Addressing a gathering organized by the United Youth Union, titled "Future of the Youth," held this week at Taprobane Entertainment, President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting next year.
+
+...
+
+[Data](articles/9d5688e7.json)
 
 ---
 
@@ -2109,99 +2223,5 @@ In order to celebrate the 135th anniversary of Maliyadeva College, Kurunegala, a
 [Data](articles/2d1336d2.json)
 
 [Extended Data](ext_articles/2d1336d2.ext.json)
-
----
-
-### Brandix first to commit to UN program on Gender-based Violence and Women in Leadership
-
-*2024-03-15 05:24:30* · [`dailyftlk`](https://www.ft.lk/business/Brandix-first-to-commit-to-UN-program-on-Gender-based-Violence-and-Women-in-Leadership/34-759500) · `en`
-
-Group Managing Director Hasitha Premaratne (centre) signs Brandix’s commitment to the United Nations program on Gender-based Violence and Women in Leadership, flanked by Chief People Officer Sahad Mukthar (right) and Senior General Manager Corporate Finance Nishani Aponso
-
-Apparel giant Brandix, has become the first private sector entity from Sri Lanka to commit to the United Nations program on Gender-based Violence and Women in Leadership and has been recognised as a leading Achiever by the United Nations Women’s Empowerment Principles (WEP) Gender Gap Analysis survey.
-
-Brandix said it continues to lead efforts to inspire and empower women across all walks and leads the way by converting policy into practice. At Brandix 80% of the Group’s workforce consists of women, and its facility in India is recognised as the single largest employer of women in the country.
-
-...
-
-[Data](articles/976ddc48.json)
-
-[Extended Data](ext_articles/976ddc48.ext.json)
-
----
-
-### Sri Lanka moves closer to renewable energy goals with ‘Project Apollo’
-
-*2024-03-15 05:23:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-moves-closer-to-renewable-energy-goals-with-Project-Apollo/34-759499) · `en`
-
-Ceylon Energy Ltd. Founder/Chairman Madusanka Fernando, CEB Chairman N. S. Ilangakoon, Minister of Power and Energy Hon. Kanchana Wijesekera
-
-...
-
-[Data](articles/32d6012d.json)
-
-[Extended Data](ext_articles/32d6012d.ext.json)
-
----
-
-### SriLankan Airlines and Korean Air announce new codeshare partnership
-
-*2024-03-15 05:20:43* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-and-Korean-Air-announce-new-codeshare-partnership/34-759498) · `en`
-
-SriLankan Airlines and Korean Air have officially activated a new codeshare partnership effective 15 March 2024, presenting enhanced travel options and connections for customers of both airlines travelling between Colombo and Seoul.
-
-SriLankan Airlines CEO Richard Nuttall said: “We are delighted to launch our first-ever codeshare partnership with Korean Air and boost the connectivity between Colombo and Seoul. The passenger traffic between the two cities continues to exceed our expectations, and the partnership will only help us grow our presence in this route in a manner that is fast and economical for the airline and give more reasons for customers to choose SriLankan Airlines.”
-
-The new partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air, making it possible for passengers to travel on a single, SriLankan Airlines’ ticket between Colombo and Incheon via Singapore.
-
-...
-
-[Data](articles/0d4a157d.json)
-
-[Extended Data](ext_articles/0d4a157d.ext.json)
-
----
-
-### Mujibur highlights severe governance breakdown
-
-*2024-03-15 05:19:20* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-highlights-severe-governance-breakdown/56-759497) · `en`
-
-Points out Govt. failure to enact transparency, promote good governance, combat corruption, uphold the rule of law and ensure judicial independence
-
-Says CIABOC has withdrawn at least 48 cases filed against Govt. MPs, Ministers and associates
-
-Slams President’s move to appoint two persons accused of corruption as State Ministers
-
-Stresses Govt. lacks a program to effectively combat fraud and corruption though expected by IMF
-
-Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday emphasised the significant breakdown in governance, pointing out the current Government’s failure to enact transparency, promote good governance, combat fraud and corruption, uphold the rule of law, ensure judicial independence which are essential components for effective governance.
-
-...
-
-[Data](articles/20e1002f.json)
-
-[Extended Data](ext_articles/20e1002f.ext.json)
-
----
-
-### Semasinghe warns of stability risks without continuity in Govt. programs
-
-*2024-03-15 05:17:54* · [`dailyftlk`](https://www.ft.lk/news/Semasinghe-warns-of-stability-risks-without-continuity-in-Govt-programs/56-759496) · `en`
-
-State Minister of Finance Shehan Semasinghe yesterday underscored the criticality of continuity in Government programs to sustain the hard-earned progress made by the country.
-
-Speaking to the media at the inauguration of the swimming pool at Anuradhapura St. Joseph’s College, he highlighted the fragility of the economy’s stability should governance transition without a cohesive plan.
-
-Semasinghe warned that a leadership change lacking a clear strategy could potentially plunge the country into a deeper crisis than experienced in recent history.
-
-He stressed the imperative for future administrations to uphold and advance the ongoing development agenda to prevent such regression.
-
-Semasinghe also criticised the Opposition’s stance on negotiations with the International Monetary Fund (IMF), asserting that their avoidance of such talks signifies a lack of foresight and financial prudence.
-
-...
-
-[Data](articles/65900667.json)
-
-[Extended Data](ext_articles/65900667.ext.json)
 
 ---

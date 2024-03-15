@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 23:33:32**
+As of **2024-03-15 23:52:22**
 
 ## Newspaper Stats
 
-*Scraped **13,150** Articles*
+*Scraped **13,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 149
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 681
-economynextcom | 702
+economynextcom | 708
 islandlk | 711
 adalk | 1,130
-adaderanalk | 1,584
+adaderanalk | 1,585
 tamilmirrorlk | 1,600
-virakesarilk | 1,829
+virakesarilk | 1,830
 dailymirrorlk | 2,013
 adaderanasinhalalk | 2,079
 
@@ -26,27 +26,69 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,149 (100.0%) of 13,150 articles have been extended.
+13,150 (99.9%) of 13,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### யாழில் கூரிய ஆயுதங்களுடன் பிடிக்கப்பட்ட வாள் வெட்டுக் குழு!
+### சுவாரஸ்மற்ற முடிவை நோக்கி ட்ரினிட்டி - அன்தோனியன் சமர்
+
+*2024-03-15 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
+
+கண்டி அஸ்கிரிய மைதானத்தில் நடைபெற்றுவரும் ட்ரினிட்டி - அன்தோனியன் 105ஆவது (மலையக) நீலவர்ணங்களின் பெருஞ் சமர் சுவாரஸ்யமற்ற முடிவை நோக்கி நகர்வதாக முதல் நாள் ஆட்டம் காட்டுகிறது.
+
+ஒருவேளை, திரித்துவ அணியை இரண்டு தடவைகள் குறைந்த எண்ணிக்கைகளுக்கு புனித அந்தோனியார் ஆட்டம் இழக்கச் செய்தால் போட்டியில் சுவாரஸ்யம் ஏற்பட வாய்ப்புள்ளது.
+
+வெள்ளிக்கிழமை (15) ஆரம்பமான இப் போட்டியில் முழு நாளும் துடுப்பெடுத்தாடிய புனித அந்தோனியார் அணி, போதிய வெளிச்சமின்மை காரணமாக ஆட்டம் நிறுத்தப்பட்டபோது அதன் முதல் இன்னிங்ஸில் 9 விக்கெட்களை இழந்து 232 ஓட்டங்களைப் பெற்றிருந்தது.
+
+பெரும்பாலும் புனித அந்தோனியார் அணி தனது முதல் இன்னிங்ஸை இத்தோடு நிறுத்திக்கொண்டு இரண்டாம் நாள்  (16) காலையில் திரித்துவம் அணிக்கு துடுப்பெடுத்தாட வாய்ப்பு அளிக்கும் என எதிர்பார்க்கப்படுகிறது.
+
+ஆரம்ப வீரர் தினுர கனேகொட (0) திரித்துவம் அணி வீரர் மனுல குலரட்னவின் முதல் ஓவரிலேயே ஆட்டம் இழந்ததால் புனித அந்தோனியார் அணி தடுமாற்றத்தை எதிர்கொண்டது.
+
+...
+
+[Data](articles/0cc93c42.json)
+
+---
+
+### Responsibly managing govt-funded benefits can significantly contribute to economy - President
+
+*2024-03-15 23:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97986/responsibly-managing-govt-funded-benefits-can-significantly-contribute-to-economy-president) · `en`
+
+President Ranil Wickremesinghe on Friday (March 15) urged all local government officials to wholeheartedly commit themselves to ensuring that the benefits provided to the people through government funding for development activities are effectively utilized.
+
+By responsibly managing these resources, officials can contribute significantly to bolstering the national economy, he added.
+
+The President further requested active participation from all local government officials in supporting the success of programs such as “Aswesuma,” “Urumaya,” and Agricultural Modernization initiatives, alongside the “Kadurarata Dashakaya” program. He emphasized that the collective benefits derived from these endeavours will significantly contribute to the enhancement of the national economy.
+
+...
+
+[Data](articles/67a2ce4e.json)
+
+---
+
+### Sword Cutting Group captured with sharp weapons in Jaffna!
 
 *2024-03-15 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178829) · `ta`
 
-யாழ்ப்பாணத்தில் வெள்ளிக்கிழமை (15) அதிகாலை முச்சக்கர வண்டியில் பயணித்த வாள்வெட்டுக் கும்பல் ஒன்று கைது செய்யப்பட்டுள்ளது.
+A sword gang in Jaffna was arrested by the Special Task Force, with five members detained for carrying sharp weapons.
 
-யாழ்ப்பாண நகருக்கு அண்மையாக வெள்ளிக்கிழமை (15) அதிகாலை 2 மணியளவில் முச்சக்கர வண்டியில் பயணித்த 5 பேர் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டு, யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+🟩
 
-யாழ்ப்பாணம் மத்யூஸ் வீதியை சேர்ந்த 25 வயதான முச்சக்கர வண்டி சாரதி, கொக்குவிலை சேர்ந்த 25 வயதான இளைஞன், யாழ்ப்பாண நகரத்தை சேர்ந்த 20 வயதான இளைஞன், குருநகரை சேர்ந்த 26 வயதான இளைஞன், வண்ணார்பண்ணையை சேர்ந்த 19 வயதான இளைஞன் ஆகியோர் கைது செய்யப்பட்டனர்.
+A sword gang has been arrested in Jaffna on Friday morning (15).
 
-அவர்கள் பயணித்த முச்சக்கர வண்டிக்குள் இருந்து வாள், இரும்பு கம்பி, இரும்பு குழாய் என்பன மீட்கப்பட்டன.
+Five people have been arrested by the Special Task Force and handed over to the Jaffna Police Station on Friday (15) at around 2 am.
+
+A 25 -year -old three -wheeler driver from Mathews Road in Jaffna, a 25 -year -old youth from Kokuvil, 20 -year -old youth from Jaffna, 26 -year -old youth from Kurunagar and 19 -year -old youth from Varnarpanai have been arrested.
+
+The sword, the iron rod and the iron pipe were recovered from the three -wheeler they traveled.
 
 ◼️
 
 [Data](articles/9f625930.json)
+
+[Extended Data](ext_articles/9f625930.ext.json)
 
 ---
 
@@ -342,6 +384,24 @@ About 3,000 families in Kegalle and Kurunegala districts are facing a drinking w
 
 ---
 
+### Sri Lanka study finds public preference for authoritarianism
+
+*2024-03-15 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-study-finds-public-preference-for-authoritarianism-154769/) · `en`
+
+ECONOMYNEXT – A survey has found that 1 in 10 Sri Lankans show a preference for authoritarianism, a phenomenon last observed to be high in 2018, a survey on democracy and reconciliation conducted by the Centre for Policy Alternatives (CPA) has found.
+
+“Though more than three-quarter of Sri Lankans show preference for democratic governance over other types of governance, the recent survey findings are that one 1 of every 10 Sri Lankans agree that ‘In certain situations, a dictatorial government can be preferable to a democratic one’,” the survey found.
+
+The CPA, a policy think-tank based in Colombo, conducted its social indicator survey titled ‘Survey on Democracy and Reconciliation in Sri Lanka’ for the eighth year in January, with 1,350 participants across 25 districts in the island.
+
+“The survey series shows that this support for dictatorial government was high during 2018 amidst the political chaos of the Sirisena-Wickremesinghe government.”
+
+...
+
+[Data](articles/94ea17fc.json)
+
+---
+
 ### World Cup 2026 T20 in India, Sri Lanka;Balance Days to the final round of the 2024 T20 World Cup
 
 *2024-03-15 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178827) · `ta`
@@ -541,6 +601,42 @@ Accordingly, the Supreme Court three-judge-bench comprising Justices Preethi Pad
 [Data](articles/7e05af06.json)
 
 [Extended Data](ext_articles/7e05af06.ext.json)
+
+---
+
+### Sri Lanka GDP grows 4.5-pct in fourth quarter, down 2.3-pct in 2023
+
+*2024-03-15 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-4-5-pct-in-fourth-quarter-down-2-3-pct-in-2023-154837/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross domestic product grew 4.5 percent in the fourth quarter of 2023, the state statistics office said, while the economy was estimated to have shrunk 2.3 percent in the full year.
+
+In the fourth quarter of 2023 Agriculture grew 0.6 percent, Industry 7.9 percent and and Services 2.8 percent.
+
+The economy contracted 12.4 percent in the fourth quarter of 2022, amid monetary instability.
+
+In 2022 Sri Lanka went through the worst currency collapse since the creation of the central bank in 1950, after rates cuts to target potential output, leading to a steep economic contraction.
+
+Monetary stability was restored in the final quarter of 2022, helping economic activities recover.
+
+In the full year 2023, agricultural activities expanded by 2.6 percent, Industry contracted by 9.2 percent and services contracted 0.2 percent
+
+the Gross Domestic Product fourth quarter of 2023 at current prices increased to 7,303,758 million rupees from 6,521,664 million in 2022. (Colombo/Mar15/2024)
+
+◼️
+
+[Data](articles/a2ebce72.json)
+
+---
+
+### Sri Lanka’s Litro Gas sale draws Vitol, Bharat Petro, China Aero among 14 investors
+
+*2024-03-15 19:07:00* · [`economynextcom`](https://economynext.com/sri-lankas-litro-gas-sale-draws-vitol-bharat-petro-china-aero-among-14-investors-154843/) · `en`
+
+ECONOMYNEXT – Fourteen investors have expressed interest in the divestiture of Litro Gas Lanka Ltd and Litro Gas Terminal (Pvt) Ltd, Sri Lanka’s State Owned Enterprises Restructuring Unit said.
+
+◼️
+
+[Data](articles/9708394f.json)
 
 ---
 
@@ -884,6 +980,44 @@ Accordingly, Kodippili assured that collaborative efforts are underway with the 
 
 ---
 
+### Developing India-Sri Lanka trade relations crucial: President
+
+*2024-03-15 17:13:00* · [`economynextcom`](https://economynext.com/developing-india-sri-lanka-trade-relations-crucial-president-154812/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s immediate focus should be on enhancing relations with India, President Ranil Wickremesinghe has said.
+
+“We aim to foster comprehensive ties between our two nations, particularly in the realms of transportation and energy,” Wickremesinghe said at a ceremony organized by the Sri Lanka India Society in Colombo on Thursday attended by Indian High Commissioner to Sri Lanka Santosh Jha.
+
+“There is a profound religious and cultural bond between Sri Lanka and India, and we share a common heritage.
+
+“We are both democracies with a shared British legal system. However, we have unfortunately overlooked the trade and economic relationship between Sri Lanka and India.”
+
+Wickremesinghe said the country must strategically leverage Sri Lanka’s advantageous position to benefit South India. “Our objective is to secure advantages for Sri Lanka and provide additional renewable energy resources for South India.”
+
+...
+
+[Data](articles/74d60d0d.json)
+
+---
+
+### Sri Lanka rupee closes at 305.20/25 to the US dollar
+
+*2024-03-15 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-305-20-25-to-the-us-dollar-154814/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 305.20/25 to the US dollar in the spot forex market on Friday, slightly stronger from 305.50/55 on Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 11.30/40 percent from 11.30/35 percent.
+
+A bond maturing on 15.09.2027 closed at 11.85/95 percent down from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar15/2024)
+
+◼️
+
+[Data](articles/d5f2bb89.json)
+
+---
+
 ### Drink Water or Inform 117 Number
 
 *2024-03-15 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194547) · `si`
@@ -959,6 +1093,28 @@ The two companies, the second and third largest car manufacturers of Japan, will
 [Data](articles/6d94b922.json)
 
 [Extended Data](ext_articles/6d94b922.ext.json)
+
+---
+
+### Sri Lanka stocks close up, Hayleys Fabric draws interest
+
+*2024-03-15 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-hayleys-fabric-draws-interest-154806/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.17 percent, or 18.79 points, at 11,336; while the S&P SL20 Index closed up 0.46 percent, or 14.75 points, at 3,245.
+
+Hayleys Fabric Plc saw the most active trade volumes (133mn) of the day and the share closed up at 44.30. The company has observed a significant rise in fabric exports compared to previous years, Managing Director and Chief Executive of Hayleys Fabric Plc Rohan Goonetilleke told Echelon this week.
+
+Group company Singer (Sri Lanka) Plc also saw fairly high turnover (46mn), and the share closed up at 16.10.
+
+Other companies that saw investor interest were Softlogic Capital Plc (61mn), which closed up at 7.20; and Richard Pieris and Company Plc (55mn) which closed flat at 22.00.
+
+The capital goods sector contributed 349mn to the day’s turnover. Other sectors that attracted interest were banks (176mn), and food, beverage and tobacco (173).
+
+...
+
+[Data](articles/9920a88e.json)
 
 ---
 
@@ -2127,189 +2283,5 @@ Addressing a gathering organized by the United Youth Union, titled "Future of th
 [Data](articles/9d5688e7.json)
 
 [Extended Data](ext_articles/9d5688e7.ext.json)
-
----
-
-### Vehicle prices set to increase after import resumptions next year: Importers
-
-*2024-03-15 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-prices-set-to-increase-after-import-resumptions-next-year-Importers/108-278914) · `en`
-
-Colombo, March 15 (Daily Mirror) - Local vehicle importers claimed that the current market prices of vehicles would increase after the proposed resumption of vehicle imports from next year due to the chang in the duty structure.
-
-They said the government had implemented a significant change in the duty structure in January, resulting in a substantial increase in the marginal cost of importing vehicles.
-
-The importers also claimed that vehicles would be imported under huge restrictions.
-
-According to the survey conducted by the association, the existing local market prices of vehicles would increase after the import of new vehicles.
-
-Addressing a gathering organized by the United Youth Union, titled "Future of the Youth," held this week at Taprobane Entertainment, President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting next year.
-
-...
-
-[Data](articles/a5b1b553.json)
-
-[Extended Data](ext_articles/a5b1b553.ext.json)
-
----
-
-### Thailand support to bring Sri Lankans to the country
-
-*2024-03-15 10:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-நாட்டுக்கு-அழைத்து-வர-தாய்லாந்து-ஆதரவு/175-334704) · `ta`
-
-Thailand supports Sri Lankans rescued from Myanmar's cybercrime zone, with 56 identified and eight rescued. The Thai Foreign Minister agrees to facilitate their return, as requested by Sri Lanka's Minister of State for External Affairs.
-
-🟩
-
-There has been a telephone discussion between Thailand's Foreign Minister and President's Attorney Ali Chapari on the immediate return of Sri Lankans rescued from the cybercrime area in Myanmar.
-
-The Myanmar government has recently announced that there are 56 Sri Lankans in Myanmar's cybercrime zone and eight of them have been rescued.
-
-It is reported that the Minister of State for External Affairs Ali Sabri has requested the Thai Foreign Minister to give the necessary support to bring the persons to Sri Lanka.
-
-Accordingly, the Minister of Foreign Affairs of Thailand has agreed to provide the related facilities.. Remble
-
-◼️
-
-[Data](articles/ffff4b8a.json)
-
-[Extended Data](ext_articles/ffff4b8a.ext.json)
-
----
-
-### Boat in the sea for several days;Many immigrants kill without food water
-
-*2024-03-15 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178775) · `ta`
-
-A boat carrying immigrants was stranded in the Mediterranean for days, leading to many deaths due to lack of food and water. After the boat's engine failed, an NGO and the Italian Coast Guard launched a rescue operation. Two survivors were found unconscious and hospitalized.
-
-🟩
-
-Many immigrants have died without food, as the boat dinghy in the middle of the ocean has been left in the middle of the Mediterranean Sea.
-
-Three days after the sailing of the boat, its engine was damaged and that they were survived in the Mediterranean.
-
-They did not drown in the sea and died due to lack of food, they said.
-
-The NGO, which has observed a particular boat with television, has launched a rescue operation along with the Italian Coast Guard.
-
-The two men were found unconscious and they were admitted to the hospital.
-
-The SOSS spokesman said that the survivors said that the food and drinking water were quickly exhausted due to the tragedy of the boat as they had been drowned in the sea for a week.
-
-Many people died in the boat. Many people died.
-
-◼️
-
-[Data](articles/d196f4f7.json)
-
-[Extended Data](ext_articles/d196f4f7.ext.json)
-
----
-
-### Train services delay
-
-*2024-03-15 10:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-தாமதம்/175-334703) · `ta`
-
-Train services delayed due to signal disorder between Kelani and Hunupitiya stations.
-
-🟩
-
-A signal disorder occurred between Kelani and Hunupitiya railway stations this morning.
-
-Due to this, the Railway Control Room said that the main road train services have been delayed.
-
-◼️
-
-[Data](articles/811ec353.json)
-
-[Extended Data](ext_articles/811ec353.ext.json)
-
----
-
-### Action to bring Sri Lankans
-
-*2024-03-15 10:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-அழைத்துவர-நடவடிக்கை/175-334702) · `ta`
-
-Thailand's Foreign Minister discusses with Sri Lanka's Minister Ali Sabri about rescuing 56 Sri Lankans trapped in Myanmar's Cyber Crime Zone. Eight have been saved, and Thailand is asked to help repatriate them. Thailand's Foreign Affairs Minister agrees to assist.
-
-🟩
-
-A discussion has taken place between Thailand's Foreign Minister and Minister Ali Sabri on this issue.
-
-The Myanmar government recently said that there are 56 Sri Lankans in the Myanmar Cyber Crime Zone and eight of them have been rescued.
-
-At this juncture, Thailand has been asked to support them to bring them to Sri Lanka.
-
-It is reported that the Minister of Foreign Affairs of Thailand has agreed to take action in this regard.
-
-◼️
-
-[Data](articles/8434ed9d.json)
-
-[Extended Data](ext_articles/8434ed9d.ext.json)
-
----
-
-### Firing in Mullaithivu
-
-*2024-03-15 10:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-துப்பாக்கிச்சூடு/72-334701) · `ta`
-
-A suspect was arrested for shooting a tipper vehicle in Mullaitivu-Oddusutan, and the vehicle was stopped by police. The suspect will face charges in the Mullaitivu Magistrate's Court.
-
-🟩
-
-The suspect has been arrested yesterday (14) as the Tipper vehicle has been shot dead in the Mullaitivu - Oddusutan area.
-
-Oddusutan police said that they had shot and stopped the tipper wheels.
-
-The arrested suspect is to be produced before the Mullaitivu Magistrate's Court. Remble
-
-◼️
-
-[Data](articles/2680aff9.json)
-
-[Extended Data](ext_articles/2680aff9.ext.json)
-
----
-
-### Sri Lanka, Thailand discuss early implementation of FTA, Myanmar detainees
-
-*2024-03-15 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-thailand-discuss-early-implementation-of-fta-myanmar-detainees-154726/) · `en`
-
-ECONOMYNEXT – The Foreign Minister of Thailand has agreed to work on early implementation of the Sri Lanka-Thailand Free Trade Agreement (SLSFTA) and reciprocal visa free arrangement between the two countries, Minister of Foreign Affairs M U M Ali Sabry said.
-
-“I spoke with the Foreign Minister of Thailand HE Parnpree Bahiddha-Nukara over the phone last morning to request assistance to facilitate the early repatriation of rescued Sri Lankans currently in the Myawaddy area in Myanmar. The Foreign Minister agreed to assist in the repatriation,” Sabry said on X (twitter).
-
-The eight Sri Lankans under Myanmar government protection are receiving necessary assistance from the Sri Lanka Embassy in Yangon, he said, the Ministry is also working on the rescue and repatriation of the remaining Sri Lankans trapped in the Myawaddy area.
-
-Bahiddha-Nukara, who is also the Deputy Prime Minister of Thailand, agreed to facilitate the repatriation of the rescued Sri Lankans via Thailand.
-
-...
-
-[Data](articles/cb775095.json)
-
-[Extended Data](ext_articles/cb775095.ext.json)
-
----
-
-### As we treat us, we consider this too - Premalal Jayasekara
-
-*2024-03-15 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194533) · `si`
-
-"Premalal Jayasekara emphasizes the importance of supporting the President, stating that as we treat others, we should treat ourselves. He highlights the President's leadership in building the country and the need for unity, asserting that we must make decisions for the betterment of the nation."
-
-🟩
-
-State Minister Premalal Jayasekara says that the President will have to support the President at this time.
-
-Commenting to the media, Ports and Aviation Premalal Jayasekara stated that
-
-"The President is the leader who has taken steps to build the country at the time. We have to support the race. We don't have other leaders. The relative .... If you consider that the matter is considered, we too have to take some decisions. Because we treat us as we treat. "
-
-◼️
-
-[Data](articles/fb4a74b9.json)
-
-[Extended Data](ext_articles/fb4a74b9.ext.json)
 
 ---

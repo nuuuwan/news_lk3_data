@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 15:03:05**
+As of **2024-03-15 15:18:03**
 
 ## Newspaper Stats
 
-*Scraped **13,081** Articles*
+*Scraped **13,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 699
 islandlk | 711
-adalk | 1,123
-adaderanalk | 1,572
+adalk | 1,126
+adaderanalk | 1,574
 tamilmirrorlk | 1,593
-virakesarilk | 1,816
+virakesarilk | 1,817
 dailymirrorlk | 1,999
 adaderanasinhalalk | 2,067
 
@@ -26,27 +26,71 @@ adaderanasinhalalk | 2,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,080 (100.0%) of 13,081 articles have been extended.
+13,081 (100.0%) of 13,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### 159 பொறியியலாளர்கள் நாட்டிலிருந்து வெளியேற்றம்
+### Israeli strikes killed at least 29, injured over 150 in Gaza awaiting aid: Palestinian officials
+
+*2024-03-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97977/israeli-strikes-killed-at-least-29-injured-over-150-in-gaza-awaiting-aid-palestinian-officials) · `en`
+
+At least 29 Palestinians were killed while awaiting aid in two separate Israeli attacks in the Gaza Strip on Thursday, Gaza’s health ministry said.
+
+In the first incident, Palestinian health officials in the Hamas-ruled strip said eight people were killed in an airstrike on an aid distribution centre in Al-Nuseirat camp in the central Gaza Strip.
+
+Later, at least 21 people were killed and more than 150 wounded by Israeli gunfire at a crowd awaiting aid trucks at a northern Gaza roundabout, Gaza’s health ministry said.
+
+In a statement, Israel’s military denied attacking aid centres, describing the reports as “false.”
+
+“As the IDF assesses the incident with the thoroughness that it deserves, we urge the media to do the same and only rely on credible information,” the statement said.
+
+The Gaza conflict has displaced most of the enclave’s 2.3 million population. Chaotic scenes and deadly incidents have taken place during aid distributions as desperately hungry people scrambled for food.
+
+...
+
+[Data](articles/f36aabe9.json)
+
+---
+
+### வெடுக்குநாறி மலையில் கைதானவர்களை விடுவிக்கக் கோரி ஆர்ப்பாட்டம்
+
+*2024-03-15 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178801) · `ta`
+
+வெடுக்குநாறி மலை ஆதி சிவன் ஆலயத்தில் கைது செய்யப்பட்ட பூசகர்  உள்ளிட்ட 8 பேரையும் விடுவிக்கக கோரியும், பொலிஸாரின் அராஜகத்தை கண்டித்தும் வவுனியா, நெடுங்கேணியில் ஆர்ப்பாட்டம் பேரணி ஒன்று இன்று வெள்ளிக்கிழமை (15) முன்னெடுக்கப்பட்டது.
+
+நெடுங்கேணி நகர சந்தியில் ஆரம்பித்த கண்டன ஆர்ப்பாட்ட பேரணி, நெடுங்கேணி - புளியங்குளம் வீதி ஊடாக சென்று வவுனியா வடக்கு பிரதேச செயலகத்தின் வாயிலில் ஆர்ப்பாட்டம் இடம்பெற்றதுடன், உதவிப் பிரதேச செயலாளரிடம் கண்டன மகஜர் ஒன்றும் கையளிக்கப்பட்டது.
+
+அதனைத்தொடர்ந்து அங்கிருந்து பேரணியாக சென்ற ஆர்ப்பாட்டக்காரார்கள் வனவளத் திணைக்கள அலுவலக வாயிலில் நின்று வனவளத் திணைக்களத்திற்கு எதிராக கோசங்களை எழுப்பியதுடன், பின்னர் அங்கிருந்து சென்று நெடுங்கேணி பொலிஸ் நிலையத்தை முற்றுகையிட்டனர்.
+
+...
+
+[Data](articles/63bc4fd9.json)
+
+---
+
+### 159 Engineers Exit from the country
 
 *2024-03-15 14:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/159-பொறியியலாளர்கள்-நாட்டிலிருந்து-வெளியேற்றம்/175-334716) · `ta`
 
-இலங்கை மின்சார சபையில் பணிபுரிந்த 159 பொறியியலாளர்கள் இரண்டு வருடங்களுக்குள் வெளிநாடு சென்றுள்ளதாகவும் 105 பொறியியலாளர்கள் தமது சேவையை விட்டு விலகியுள்ளதுடன் மேலும் 54 பேர் உத்தியோகபூர்வ விடுமுறை பெற்று சென்றுள்ளதாக இலங்கை மின்சார சபையின் பொறியியலாளர்கள் சங்கத்தின் தலைவர் தனுஷ்க பராக்கிரமசிங்க இன்று (15) தெரிவித்தார்.
+159 engineers left Ceylon Electricity Board, 105 resigned, 54 on official holidays. Experienced engineers' departure threatens a crisis. Many abroad for residency, not planning to return. New engineers abroad earn $4,000/month, experienced $6,000-$8,000/month.
 
-நிர்வாக சபையில் பணிபுரிந்து மிகவும் சிக்கலான கடமைகளில் ஈடுபட்ட அனுபவம் வாய்ந்த பொறியியலாளர்கள் தமது பணியை மேலும் துறந்தால் இலங்கை மின்சார சபை கடும் நெருக்கடிக்கு உள்ளாகும் நிலை ஏற்படும்.
+🟩
 
-விடுமுறையில் வெளிநாட்டில் இருக்கும் ஏராளமான பொறியாளர்கள் தங்களுடைய நிரந்தர வதிவிட அனுமதிப் பத்திரம் பெறுவதற்காக பல்வேறு நாடுகளுக்குச் சென்றுள்ளதாகவும் அதன் காரணமாக அவர்கள் மீண்டும் பணிக்கு வருவார்கள் என்ற நம்பிக்கை இல்லை என்றும் தெரியவந்துள்ளது.
+Dhanushka Parakramasinghe, president of the Ceylon Electricity Board (CEB) Engineers Association, said that 159 engineers who worked at the Ceylon Electricity Board had gone abroad within two years and 105 engineers had left their service and 54 more official holidays had been received.
 
-வெளிநாட்டில் ஒரு புதிய பொறியாளர் மாதம் சுமார் 4,000 டாலர்கள் சம்பளம் பெறுவதாகவும், அனுபவம் வாய்ந்த பொறியாளர் சில நாடுகளில் மாதம் 6,000 முதல் 8,000 டாலர்கள் வரை சம்பளம் பெறலாம் என்றும் அவர் கூறினார்.
+If the experienced engineers who work in the Administrative Council and the most complex duties are further renounced, the Ceylon Electricity Board will be in severe crisis.
+
+It has been revealed that a large number of engineers abroad on vacation have gone to various countries to obtain their permanent residency permit and do not believe that they will work again.
+
+He said that a new engineer abroad will receive a salary of about $ 4,000 a month and the experienced engineer can get a salary of $ 6,000 to $ 8,000 a month.
 
 ◼️
 
 [Data](articles/88b1be35.json)
+
+[Extended Data](ext_articles/88b1be35.ext.json)
 
 ---
 
@@ -69,6 +113,18 @@ President Ranil Wickremesinghe has stated at an event organized by the United Yo
 [Data](articles/d6691476.json)
 
 [Extended Data](ext_articles/d6691476.ext.json)
+
+---
+
+### උතුරට රු. මිලියන 4900 ක්
+
+*2024-03-15 14:21:46* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-රු--මිලියන-4900-ක්/11-408629) · `si`
+
+උතුරු පළාතේ සංවර්ධනයට හා ආරක්ෂාව වෙනුවෙන් ඉන්දියාව, චීනය හා ජපානය වැනි රටවල් රුපියල් මිලියන 4900කට අධික මූල්‍යාධාර ලබා දීමට ඉදිරිපත්වී ඇති බවත්, එම උපකාර අප රටේ සංවර්ධනය වෙනුවෙන් නිසියාකාරව යොදා ගත යතු බව පසු ගියදා ප්‍රවෘත්ති නිවේදනයක් නිකුත්කරමින් ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතා ප්‍රකාශ කර ඇත. අදාල මුදල් ලැබීම් පිළිබඳව ගිවිසුම් ඒ ඒ රට සමගින් අත්සන් තබන බවත් වැඩි දුරටත් පැවසීය
+
+◼️
+
+[Data](articles/69a80967.json)
 
 ---
 
@@ -136,6 +192,24 @@ It has also been asked whether the accused will be excited at the courtship of h
 
 ---
 
+### හම්බන්තොට මහ  රෝහලේ නිර්වින්දන වෛද්‍යවරිිය නොදන්වා රට ගිහින්
+
+*2024-03-15 13:53:04* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-මහ--රෝහලේ-නිර්වින්දන-වෛද්‍යවරිිය-නොදන්වා-රට-ගිහින්/11-408628) · `si`
+
+හම්බන්තොට දිස්ත්‍රික් මහ රොහලේ සේවය කළ වැඩබලන නිර්වින්දන විශේෂඥ වෛද්‍යවරිය කිසිදු නීත්‍යානුකූල දැනුම්දීමකින් තොරව පෙරේදා (13 ) හදිසියේ විදෙස්ගත වීම හේතුවෙන් රෝහලේ වැඩකටයුතුවලට බාධා ඇති වී ඇති බව හම්බන්තොට රෝහලේ කාර්‍ය මණ්ඩලය කියයි.
+
+මෙම වෛද්‍යවරිය පසුගිය 12 වැනිදා සිට 16 වැනිදා දක්වා අනියම් නිවාඩු අනුමත කරවාගෙන සිට ඇති බවත් ඇය 13 වැනිදා විදෙස්ගත වී ඇත. ඇය විදෙස්ගත වූ බවට පසුව වට්ස්ඇප් පණිවුඩයක් මගින් රෝහල් බලධාරින්ට දන්වා ඇති බවද රෝහලේ කාර්‍ය මණ්ඩලය පවසයි.
+
+මෙම වෛද්‍යවරිය විදෙස්ගත වී ඇත්තේ කිසිදු විදෙස් නිවාඩු අනුමත කරවාගැනීමකින් තොරව බවත් හම්බන්තොට දිස්ත්‍රික් මහ රෝහලේ ශල්‍යාගාර 5ක් සහ දැඩි සත්කාර 2ක් ක්‍රියාත්මක වන අතර දැනට රෝහලේ සේවය කිරීමට සිටින්නේ එක් වැඩබලන නිර්වින්දන විශේෂඥ වෛද්‍යවරයකු පමණ බවත් රෝහල් කාර්‍ය මණ්ඩලය පවසයි.
+
+හම්බන්තොට මහ රෝහලේ සේවය කළ එකම නිර්වින්දන විශේෂඥ වෛද්‍යවරයා ද ඉකුත් වසරේ අගෝස්තු 12 වැනිදා මේ ලෙසටම හදිසියේ විදෙස්ගත වී තිබුණි. ඔහු දින කිහිපයක නිවාඩුවක් ලබාගන්නා බව දන්වමින් විදෙස්ගතව තිබූ අතර පසුව වට්ස්ඇප් පණිවුඩයක් මගින් මේ බව රෝහල් බලධාරින්ට දන්වා තබා ඇත
+
+...
+
+[Data](articles/65acaa11.json)
+
+---
+
 ### Tourist killed by jumbo
 
 *2024-03-15 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-killed-by-jumbo/108-278916) · `en`
@@ -198,6 +272,26 @@ Eight individuals including former Health Minister Keheliya Rambukwella, former 
 
 ---
 
+### Keheliya submits bail application to high court
+
+*2024-03-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97976/keheliya-submits-bail-application-to-high-court) · `en`
+
+Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
+
+Accordingly, the bail application has been fixed for consideration on March 18 (Monday).
+
+The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, former health secretary and 4 other accused in the case on Thursday (March 14).
+
+Furthermore, the magistrate ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
+
+Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
+
+...
+
+[Data](articles/687b29be.json)
+
+---
+
 ### In the 2023 inmates Rs. Rs. 116 earn
 
 *2024-03-15 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-රැඳවියෝ-රු--මි--116ක්-උපයති/11-408627) · `si`
@@ -241,6 +335,24 @@ Sri Lanka won the advantage of the coin, and they decided to give Bangladesh to 
 [Data](articles/15385c76.json)
 
 [Extended Data](ext_articles/15385c76.ext.json)
+
+---
+
+### ඉදිකිරීම් ක්ෂේත්‍රයේ ගැටලු විසඳීමට ජනපතිගෙන් විද්වත් කමිටුවක්
+
+*2024-03-15 13:35:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-ගැටලු-විසඳීමට-ජනපතිගෙන්-විද්වත්-කමිටුවක්/11-408626) · `si`
+
+ඉදිකිරීම් ක්ෂේත්‍රයේ මතුව ඇති ගැටලු නිසි ලෙස අධ්‍යයනය කර, පවතින ආර්ථික තත්ත්වය හමුවේ එම ගැටලුවලට ලබාදිය හැකි විසඳුම් පිළිබඳ සොයා බලා වාර්තා කිරීමට විද්වත් කමිටුවක් පත් කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඉදිකිරීම් ක්ෂේත්‍රයේ නියුතු කර්මාන්තකරුවන් සමඟ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+
+මුදල් අමාත්‍යාංශයේ, නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ ලේකම්වරුන් ඇතුළත්වන පරිදි ක්ෂේත්‍රයේ ප්‍රවීණයන්ගෙන් සමන්විතව මෙම විද්වත් කමිටුව පත් කිරීමට පියවර ගන්නා බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+එමෙන්ම ණය ප්‍රතිව්‍යුහගතකරණ කටයුතු අවසන් වීමත් සමඟ ලබන වසර වන විට සියලු ක්ෂේත්‍රවල කර්මාන්තකරුවන් ධෛර්යමත් වන අන්දමේ සහන ලැබෙනු ඇති බව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/fa690ec0.json)
 
 ---
 
@@ -2063,137 +2175,5 @@ At the same time, the Government of India has offered to provide 3000 million fu
 [Data](articles/fb7d26c7.json)
 
 [Extended Data](ext_articles/fb7d26c7.ext.json)
-
----
-
-### Thirukkadeeswaram Burial: Gabbon Test is delayed?
-
-*2024-03-15 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178761) · `ta`
-
-The Gabbon Test for the Thirukkadeeswaram burial is delayed. Relatives of missing persons suspect the bones found in Mannar are their kin. The case was heard on March 14, with delays in funding for the C14 examination. Dr. Tanjaya Vaidyarathna is ready to conduct the C-4 Carbon Dating Test, which requires samples sent to a US Laboratory. The samples are stored in court documents. The relatives of the disappeared express suspicion that the bones may be their kin.
-
-🟩
-
-Saddhars on behalf of the relatives of the missing persons say that the human bones related to the excavation from the human burial ground in the Mannar area of the North one decade ago.
-
-The case of the Mannar Thiruketheeswaram temple complex was taken up for hearing in the presence of the Mannar Magistrate's Court on Monday (March 14).
-
-Commenting on the trial of the case. S.. Niranjan noted that the office of the missing persons was delayed in the process of receiving funds.
-
-“As the C14 examination was to be sent, the price of the missing persons was sought by the Office of the Disappeared to provide funds for the funds.. The case will be called on May 13, as they have been unable to provide their answer today (March 11).
-
-Attorney Niranjan further stated that when the case was taken up for hearing on February 14, he pointed out that the demand for funds was issued to the office of the missing persons and therefore they were in disrepair.
-
-...
-
-[Data](articles/c033c44b.json)
-
-[Extended Data](ext_articles/c033c44b.ext.json)
-
----
-
-### Duck Dick Dose movie is released all over Sri Lanka
-
-*2024-03-15 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178760) · `ta`
-
-"Duck Dick Dose" premieres in Jaffna and Colombo, with a Swiss screening. Directed by Raj Sivaraj, it follows "Buddhist Men."
-
-🟩
-
-The film "Duck Dick Dose" in Eelam will be released in three theaters in Jaffna on the last Shivaratri and will be successful in the other parts of Sri Lanka since Friday (15).
-
-Colombo PVR Theater at 4.45 pm, 10.15 am at the Dematagoda Reagal Theater in Colombo To be screened.
-
-Meanwhile, the Kinooris Theater in the Swiss Liestal State will be screened at 4.30 pm on the 17th.
-
-Following the film "Buddhist Men", which was produced by the youth of Eelam, the film is being directed by Raj Sivaraj, directed by the film "Duck Dick Dose".
-
-◼️
-
-[Data](articles/dbe1ff8a.json)
-
-[Extended Data](ext_articles/dbe1ff8a.ext.json)
-
----
-
-### Suzuki recalls over 32,000 Wagon R vehicles
-
-*2024-03-15 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suzuki-recalls-over-32-000-Wagon-R-vehicles/108-278873) · `en`
-
-The owners of the affected vehicles are urged to visit https://suzuki.lk/wagonrrecall/index.html on computers or mobile phones and input their respective chassis number and check if their vehicle is part of the recall.
-
-This website will provide detailed information on the recall process and instructions on how owners are to proceed.
-
-Safety recall affects approximately 32,500 Suzuki Wagon R vehicles in Sri Lanka
-
-Suzuki Motor Corporation Japan has announced a safety recall related to the fuel system of the Japanese Suzuki Wagon R model range.
-
-As the sole distributor of Suzuki vehicles in Sri Lanka, Associated Motorways (Private) Limited (AMW) is taking active steps to ensure the safety and satisfaction of Suzuki Wagon R owners.
-
-...
-
-[Data](articles/f9c182b7.json)
-
-[Extended Data](ext_articles/f9c182b7.ext.json)
-
----
-
-### Ashemu Welfare Program Second Stage: Applications will be accepted till the 22nd of this month - Ministry of Finance
-
-*2024-03-15 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178759) · `ta`
-
-The Ashemu Welfare Program's second stage deadline is extended to the 22nd. 1,227,000 complaints and 212,000 appeals were filed, with 966,000 properly received. 10,000 people were deemed unworthy of welfare payments.
-
-🟩
-
-The term of applying for the second phase of the Aswezum Welfare Program has been extended till the 22nd (Saturday).
-
-1,227,000 complaints and 212,000 complaints and appeals have been filed by one party following the release of the first phase of the name list of the Aswesum Welfare Program.
-
-Accordingly, 966,000 complaints and appeals have been properly received.
-
-Through complaints and appeals, 10,000 people have been ranked unworthy of receiving welfare payments.
-
-◼️
-
-[Data](articles/45affb9d.json)
-
-[Extended Data](ext_articles/45affb9d.ext.json)
-
----
-
-### First Lady stresses need for women empowerment for economic growth
-
-*2024-03-15 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-Lady-stresses-need-for-women-empowerment-for-economic-growth/108-278881) · `en`
-
-At a time where repeated global calls are made towards women’s inclusivity for economic success, First Lady Prof. Maithree Wickremesinghe called for women economic empowerment, highlighting its pivotal role in driving inclusive growth and prosperity.
-
-Addressing the Women’s Leadership Forum 2024 organised by the Women’s Chamber of Industry and Commerce yesterday, the First Lady in her keynote speech chose to shed light on many multifaceted barriers faced by women hindering their participation in economic activity.
-
-“One of the enormous challenges faced by Sri Lanka today is the inequality in the distribution of opportunities, resources, incomes and wealth.  Therefore inclusivity is extremely pertinent,” Prof. Wickremesinghe said.
-
-...
-
-[Data](articles/488ded2c.json)
-
-[Extended Data](ext_articles/488ded2c.ext.json)
-
----
-
-### China gifts explosives disposal equipment to Sri Lanka
-
-*2024-03-15 00:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97967/china-gifts-explosives-disposal-equipment-to-sri-lanka) · `en`
-
-Sri Lanka’s Ministry of Defence received a stock of special Explosive Ordnance Disposal Equipment under the Chinese Military Grant scheme on Wednesday (13 March).
-
-The consignment was officially handed over at a formal ceremony held at the Army Headquarters, headed by Qi Zhenhong, the Ambassador of the People’s Republic of China in Sri Lanka and General (Retd) Kamal Gunaratne, Secretary to the Ministry of Defence.
-
-The formal signing of documents related to the grant of equipment took place between Ambassador Qi Zhenhong and Kamal Gunaratne, following the presentation of a video documentary displaying existing bonds of goodwill and understanding that prevail between militaries in both countries, the army said.
-
-...
-
-[Data](articles/567cabea.json)
-
-[Extended Data](ext_articles/567cabea.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 20:33:32**
+As of **2024-03-15 20:50:25**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,129 (100.0%) of 13,131 articles have been extended.
+13,131 (100.0%) of 13,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### மாடலிங் துறை :போலி வைத்தியர் கைது
+### Department of Modeling: Fake Doctor Arrested
 
 *2024-03-15 20:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாடலிங்-துறை-போலி-வைத்தியர்-கைது/76-334720) · `ta`
 
-மாடலிங் துறையில் இணைத்துக்கொள்ளப்படுவர் என முகப்புத்தகத்தில் விளம்பரம் செய்து இளம் யுவதிகளை ஹோட்டலுக்கு அழைத்த கண்டி ரஜவெல்லையைச் சேர்ந்த போலி வைத்தியர் கைது செய்யப்பட்டார்.
+A fake doctor from Rajawelli, Kandy, was arrested for advertising young girls on Facebook, leading to harassment complaints from 15 women.
 
-யுவதிகள் 15 பேர், இரகசிய பொலிஸுக்கு செய்த முறைப்பாட்டு அமையவே போலி வைத்தியர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-பேஸ்புக்கில் விளம்பரம் செய்த சந்தேகநபர், மாடலிங் துறையில் யுவதிகளை இணைத்துக்கொள்வதாக, அவர்களின் புகைப்படங்களை பெற்று வீடியோவும் எடுத்து, தேர்ந்தெடுக்கப்பட்ட யுவதிகளை தனித்தனியாக நேர்முகத் தேர்வுக்கு அழைத்துள்ளார்.
+A fake doctor from Rajawelli, Kandy, has been arrested for advertising young girls to the hotel for advertising in the homepage.
 
-வைத்தியர் போல தன்னை இனங்காட்டிக்கொண்ட சந்தேகநபர், யுவதிகளின் நிர்வாண புகைப்படங்களை பெற்று அவர்களை அச்சுறுத்தி, பல்வேறான துன்புறுத்தலுக்கு உட்படுத்தியுள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+The fake doctor has been arrested on a complaint lodged by 15 women.
+
+The suspect, who advertised on Facebook, has received their photos and taken video of women, and has invited the selected girls to interview separately.
+
+Investigations have been found that the suspect who identified himself as a doctor has received naked photos of young girls and threatened them and subjected to various harassment.
 
 ◼️
 
 [Data](articles/5379341b.json)
+
+[Extended Data](ext_articles/5379341b.ext.json)
 
 ---
 
@@ -54,17 +60,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-15 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97982/adani-green-energy-officials-meet-with-minister-kanchana) · `en`
 
-Minister of Power and Energy Kanchana Wijesekera has met with two senior officials of Adani Green Energy.
+Two senior officials of Adani Green Energy have held talks with Minister of Power and Energy Kanchana Wijesekera on Thursday (March 14).
 
-Sagar Adani, the Executive Director of Adani Green Energy and Anil Sardana, the Managing Director and CEO of Adani Energy Solutions called on Wijesekera at the Ministry of Power & Energy on Thursday (March 14).
+Sagar Adani, the Executive Director of Adani Green Energy and Anil Sardana, the Managing Director and CEO of Adani Energy Solutions called on Wijesekera at the Ministry of Power & Energy.
 
-The visiting officials are in Sri Lanka to participate in the negotiations and discussions on the power purchase agreement for the Mannar and Pooneryn 484 MW wind energy project.
+The visiting officials are in Sri Lanka to participate in the negotiations and discussions on the power purchase agreement for the Mannar and Pooneryn 484 MW wind energy project, the minister said in a post on his X handle (formerly Twitter).
 
-The project expects to add 250 MW in Mannar and 234 MW in Pooneryn to the national grid, the minister said in a post on his X handle (formerly Twitter).
+The project expects to add 250 MW in Mannar and 234 MW in Pooneryn to the national grid.
 
 ◼️
 
 [Data](articles/3a018611.json)
+
+[Extended Data](ext_articles/3a018611.ext.json)
 
 ---
 

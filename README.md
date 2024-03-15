@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 14:49:55**
+As of **2024-03-15 15:03:05**
 
 ## Newspaper Stats
 
-*Scraped **13,080** Articles*
+*Scraped **13,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 699
 islandlk | 711
 adalk | 1,123
 adaderanalk | 1,572
-tamilmirrorlk | 1,592
+tamilmirrorlk | 1,593
 virakesarilk | 1,816
 dailymirrorlk | 1,999
 adaderanasinhalalk | 2,067
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,079 (100.0%) of 13,080 articles have been extended.
+13,080 (100.0%) of 13,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### அடுத்த ஆண்டு மீண்டும் வாகன இறக்குமதியை ஆரம்பித்த பிறகு விலை அதிகரிக்கும் - இறக்குமதியாளர்கள்
+### 159 பொறியியலாளர்கள் நாட்டிலிருந்து வெளியேற்றம்
+
+*2024-03-15 14:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/159-பொறியியலாளர்கள்-நாட்டிலிருந்து-வெளியேற்றம்/175-334716) · `ta`
+
+இலங்கை மின்சார சபையில் பணிபுரிந்த 159 பொறியியலாளர்கள் இரண்டு வருடங்களுக்குள் வெளிநாடு சென்றுள்ளதாகவும் 105 பொறியியலாளர்கள் தமது சேவையை விட்டு விலகியுள்ளதுடன் மேலும் 54 பேர் உத்தியோகபூர்வ விடுமுறை பெற்று சென்றுள்ளதாக இலங்கை மின்சார சபையின் பொறியியலாளர்கள் சங்கத்தின் தலைவர் தனுஷ்க பராக்கிரமசிங்க இன்று (15) தெரிவித்தார்.
+
+நிர்வாக சபையில் பணிபுரிந்து மிகவும் சிக்கலான கடமைகளில் ஈடுபட்ட அனுபவம் வாய்ந்த பொறியியலாளர்கள் தமது பணியை மேலும் துறந்தால் இலங்கை மின்சார சபை கடும் நெருக்கடிக்கு உள்ளாகும் நிலை ஏற்படும்.
+
+விடுமுறையில் வெளிநாட்டில் இருக்கும் ஏராளமான பொறியாளர்கள் தங்களுடைய நிரந்தர வதிவிட அனுமதிப் பத்திரம் பெறுவதற்காக பல்வேறு நாடுகளுக்குச் சென்றுள்ளதாகவும் அதன் காரணமாக அவர்கள் மீண்டும் பணிக்கு வருவார்கள் என்ற நம்பிக்கை இல்லை என்றும் தெரியவந்துள்ளது.
+
+வெளிநாட்டில் ஒரு புதிய பொறியாளர் மாதம் சுமார் 4,000 டாலர்கள் சம்பளம் பெறுவதாகவும், அனுபவம் வாய்ந்த பொறியாளர் சில நாடுகளில் மாதம் 6,000 முதல் 8,000 டாலர்கள் வரை சம்பளம் பெறலாம் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/88b1be35.json)
+
+---
+
+### After starting vehicle imports next year - the price will increase - importers
 
 *2024-03-15 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178785) · `ta`
 
-நாட்டில் வரி கட்டமைப்பில் ஏற்பட்டுள்ள மாற்றம் காரணமாக அடுத்த ஆண்டு முதல் வாகனங்கள் இறக்குமதியை மீண்டும் ஆரம்பிக்கவுள்ள நிலையில், வாகனங்களின் தற்போதைய சந்தை விலை அதிகரிக்கும் என உள்ளூர் வாகன இறக்குமதியாளர்கள் தெரிவித்துள்ளனர்.
+Due to a tax structure change, local importers predict a price increase in vehicle imports starting next year. President Ranil Wickremesinghe confirmed the resumption of essential vehicle imports, which will likely raise local market prices.
 
-புதிய வாகனங்களை இறக்குமதி செய்ததன் பின்னர் வாகனங்களின் தற்போதைய உள்ளூர் சந்தை விலைகள் அதிகரிக்கும் என சங்கம் நடத்திய ஆய்வில் தெரியவந்துள்ளது.
+🟩
 
-அடுத்த ஆண்டு முதல் அத்தியாவசிய வாகன இறக்குமதியை படிப்படியாக அனுமதிக்க உத்தேசித்துள்ளதாக ஐக்கிய இளைஞர் சங்கத்தினால் ஏற்பாடு செய்யப்பட்ட நிகழ்வொன்றில்  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Local importers have said that the current market price of vehicles will increase as the imports of vehicles will be resumed from next year due to a change in the tax structure in the country.
+
+A study conducted by the association revealed that the current local market prices of the vehicles would increase after the importation of new vehicles.
+
+President Ranil Wickremesinghe has stated at an event organized by the United Youth Association that it intends to allow the importation of essential vehicle imports from next year.
 
 ◼️
 
 [Data](articles/d6691476.json)
+
+[Extended Data](ext_articles/d6691476.ext.json)
 
 ---
 
@@ -2171,25 +2195,5 @@ The formal signing of documents related to the grant of equipment took place bet
 [Data](articles/567cabea.json)
 
 [Extended Data](ext_articles/567cabea.ext.json)
-
----
-
-### 2024-03-14 (Thursday)
-
-### Govt ready to discuss progress of IMF program,  creditors’ talks with opposition - State Minister
-
-*2024-03-14 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97966/govt-ready-to-discuss-progress-of-imf-program-creditors-talks-with-opposition-state-minister) · `en`
-
-The government says it is ready to discuss with the opposition the progress of the discussions with Sri Lanka’s creditors and the programme of the International Monetary Fund (IMF).
-
-Taking to ‘X’ (formerly Twitter), State Minister of Finance Shehan Semasinghe revealed that as per the request made by Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva, the government is willing to provide any additional information in this regard, however, he added that they “will not be able to disclose any market sensitive information”.
-
-“Although the opposition deliberately missed out the discussion facilitated with good faith on alternative proposals including debt restructuring, the government is once again ready to facilitate another opportunity”, Semasinghe said, emphasizing the importance for the opposition too, to act in good faith.
-
-◼️
-
-[Data](articles/cdf16c67.json)
-
-[Extended Data](ext_articles/cdf16c67.ext.json)
 
 ---

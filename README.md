@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 18:51:32**
+As of **2024-03-15 19:02:51**
 
 ## Newspaper Stats
 
-*Scraped **13,120** Articles*
+*Scraped **13,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ islandlk | 711
 adalk | 1,127
 adaderanalk | 1,579
 tamilmirrorlk | 1,597
-virakesarilk | 1,821
-dailymirrorlk | 2,007
+virakesarilk | 1,822
+dailymirrorlk | 2,008
 adaderanasinhalalk | 2,074
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,119 (100.0%) of 13,120 articles have been extended.
+13,120 (100.0%) of 13,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### இந்திய படகுகளின் அத்துமீறல்களைக் கட்டுப்படுத்தக் கோரி கடற்றொழிலாளர்களால் 19 ஆம் திகதி உணவு தவிர்ப்புப் போராட்டம்
+
+*2024-03-15 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178823) · `ta`
+
+இந்திய இழுவைமடிப் படகுகளின் அத்துமீறல்களைக் கட்டுப்படுத்தக் கோரி யாழ். இந்தியத் துணைத் தூதரகம் முன்பு கடற்றொழிலாளர்கள் உணவு தவிர்ப்புப் போராட்டத்தில் ஈடுபட முடிவு செய்துள்ளனர்.
+
+யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர் கூட்டுறவுச் சங்கங்களின் சம்மேளனத்தில் வெள்ளிக்கிழமை (15) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது யாழ். மாவட்ட கடற்றொழிலாளர் கிராமிய அமைப்புக்களின் தலைவர் செல்லத்துரை நற்குணம் மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவித்ததாவது:
+
+எமது யாழ்ப்பாண மாவட்ட கடற்பரப்பில் இந்திய மீனவர்களின் அத்துமீறல் தொடர்ச்சியாக அதிகரித்து வருகிறது.
+
+இந்திய மீனவர்கள் எமது வாழ்வாதாரத்தையும்  தொழிலையும்  தொடர்ச்சியாக அழித்து வரும் நிலையில் இலங்கை அரசாங்கத்திடமும் இந்திய அரசாங்கத்திடமும் எமது ஆதங்கங்களை வெளிப்படுத்தியும் எவ்வித நடவடிக்கையும் மேற்கொள்ளப்படவில்லை.
+
+அண்மையில் இந்தியச் சட்டவிரோத  மீன்பிடியாளர்களைக் கட்டுப்படுத்துமாறு கோரி இலங்கை கடல் எல்லையை முற்றுகையிட்டு போராட்டம் நடத்தினோம். யாழ்ப்பாண இந்தியத் துணைத் தூதரகத்திடம் கோரிக்கை மனு கையளித்தோம். ஆனால், பயன் ஏதும் ஏற்படவில்லை.
+
+...
+
+[Data](articles/de81d223.json)
+
+---
+
+### Sri Lanka introduces hotline for drinking water shortages
+
+*2024-03-15 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-introduces-hotline-for-drinking-water-shortages/108-278931) · `en`
+
+Colombo, March 15 (Daily Mirror) -As Sri Lanka grapples with arid weather conditions, residents in areas facing drinking water issues have been urged to reach out to the hotline 117 introduced by the Disaster Management Center (DMC).
+
+The DMC hotline stands ready to address concerns related to water shortages exacerbated by the ongoing dry spell.
+
+Pradeep Kodippili, Deputy Director of the DMC, emphasized the importance of swift action in addressing the pressing issue of drinking water scarcity.
+
+He encouraged affected residents to utilize the hotline to report their situations promptly.
+
+In addition, Kodippili highlighted the role of Grama Niladari Officers, urging residents to contact them as another avenue to seek resolution for water-related challenges.
+
+Reports indicate that the regions of Kegalle and Kurunegala districts are particularly affected, with nearly 3,000 families currently facing drinking water shortages.
+
+◼️
+
+[Data](articles/c9de79df.json)
+
+---
 
 ### Russia turns to Ukrainian teens to bolster its forces
 
@@ -48,23 +90,31 @@ Numerous credible firsthand accounts have emerged of Russian authorities transpo
 
 ---
 
-### யாழ். வட்டுக்கோட்டை இளைஞர் கடத்திக் கொலை: குற்றச்சாட்டில் கைதான நால்வருக்கு 28ஆம் திகதி வரை விளக்கமறியல்
+### Yall. Vaddukoddai youth kidnapping
 
 *2024-03-15 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178819) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி படுகொலை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்டவர்களில் நால்வரை எதிர்வரும் 28ஆம் திகதி வரையில் விளக்கமறியலில் வைக்குமாறு மல்லாகம் நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+A violent gang abducted a youth in Vaddukoddai, Jaffna, and murdered him. The gang tortured and killed the youth, leading to the arrest of four suspects from Arali, who were hiding in Kilinochchi. The Mallakam Magistrate's Court ordered the detention of these suspects for further investigation.
 
-கடந்த திங்கட்கிழமை தனது மனைவியுடன் காரைநகருக்கு மோட்டார் சைக்கிளில் சென்று விட்டு வீடு திரும்பியவர்களை பொன்னாலை பால பகுதியில் உள்ள கடற்படையின் முகாம் முன்பாக வைத்து வன்முறை கும்பல் கடத்தி சென்றது.
+🟩
 
-கணவனை ஒரு வாகனத்திலும், மனைவியை ஒரு வாகனத்திலும் கடத்திய வன்முறை கும்பல், மனைவியை சித்தங்கேணி பகுதியில் இறக்கி விட்டு சென்றது. கணவனை கடத்தி சென்றவர்கள் கணவனை கடுமையான சித்திரவதைக்கு உள்ளாக்கி படுகாயங்களுடன் வட்டுக்கோட்டை வைத்திய சாலை முன்பாக வீசி சென்றனர்.
+The Mallakam Magistrate's Court has ordered four of the arrested persons for allegedly abducting and murdering a youth in Vaddukoddai, Jaffna.
 
-படுகாயத்துடன் காணப்பட்டவரை வைத்தியசாலை பணியாளர்கள் மீட்டு யாழ். போதனாவில் அனுமதித்த நிலையில் உயிரிழந்தார்.
+Last Monday, a violent gang was abducted by his wife in front of the Navy's camp in the Ponnalai area.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார் வட்டுக்கோட்டையில் ஒரு இளைஞனை கைது செய்தனர். அதேவேளை கிளிநொச்சியில் பதுங்கியிருந்த அராலி பகுதியை சேர்ந்த நான்கு பேரை கைது செய்தனர்.
+Violent gang abducted her husband in a vehicle and his wife in a vehicle. Husbands abducted by her husband were severely tortured and threw in front of the Vaddukoddai hospital with serious injuries.
+
+Hospital staff rescued the injured. He died in the teaching.
+
+Police have arrested a youth in Vaddukoddai who investigated the incident. Meanwhile, four people from Arali, who were hiding in Kilinochchi, were arrested.
+
+The arrested persons should be held at the Mallakam Magistrate's Court last Wednesday and further investigations to four arrested in Kilinochchi. So they applied for the House to investigate them for 48 hours.
 
 ...
 
 [Data](articles/6775d155.json)
+
+[Extended Data](ext_articles/6775d155.ext.json)
 
 ---
 
@@ -2245,45 +2295,5 @@ However, the US Government pushed back against the plan by filing a legal challe
 [Data](articles/9326675c.json)
 
 [Extended Data](ext_articles/9326675c.ext.json)
-
----
-
-### Weather today
-
-*2024-03-15 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194524) · `si`
-
-Today, night showers or thundershowers expected in Western, Sabaragamuwa, Southern, and Central provinces. Morning showers in Galle and Uva provinces, Galle and Matara districts.
-
-🟩
-
-Showers or thundershowers will occur at night in the evening today (15).
-
-The latest announcement issued by the Department appeared in the Western, Sabaragamuwa, Southern and Central provinces.
-
-Some locations are expected in the morning and in the Galle and Uva provinces and in some places in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/5cb15ec8.json)
-
-[Extended Data](ext_articles/5cb15ec8.ext.json)
-
----
-
-### Questions to those questioning Sri Lanka’s IMF program
-
-*2024-03-15 06:10:12* · [`dailyftlk`](https://www.ft.lk/columns/Questions-to-those-questioning-Sri-Lanka-s-IMF-program/4-759512) · `en`
-
-Becoming an export oriented economy is a good solution but it is a long term solution as we cannot become an export oriented economy overnight either as that takes years to materialise.
-
-The pause in repayment of external debt (except multilateral debt) for nearly 2 years is largely due to the creditors being reassured that the IMF is there.
-
-There has been a lot of criticism about Sri Lanka’s 17th IMF program from people of various backgrounds. They have made all kinds of accusations against the IMF program and criticised it. I agree that the IMF program is not the perfect solution. But the question is, what is the alternative? I am yet to see anyone who has offered a sensible alternative to the IMF.
-
-...
-
-[Data](articles/9b7cd83a.json)
-
-[Extended Data](ext_articles/9b7cd83a.ext.json)
 
 ---

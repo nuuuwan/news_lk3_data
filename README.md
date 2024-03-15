@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 19:02:51**
+As of **2024-03-15 19:17:43**
 
 ## Newspaper Stats
 
-*Scraped **13,122** Articles*
+*Scraped **13,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,65 @@ adaderanalk | 1,579
 tamilmirrorlk | 1,597
 virakesarilk | 1,822
 dailymirrorlk | 2,008
-adaderanasinhalalk | 2,074
+adaderanasinhalalk | 2,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,120 (100.0%) of 13,122 articles have been extended.
+13,122 (100.0%) of 13,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### இந்திய படகுகளின் அத்துமீறல்களைக் கட்டுப்படுத்தக் கோரி கடற்றொழிலாளர்களால் 19 ஆம் திகதி உணவு தவிர்ப்புப் போராட்டம்
+### සමූහ ඝාතනයෙන් බේරුණු ධනුෂ්ක සුවය ලබයි
+
+*2024-03-15 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194550) · `si`
+
+කැනඩාවේ ඔටාවා නුවරට තදාසන්න බාහීවන් ප්‍රදේශයේ සිය නිවසේ දී ප්‍රහාරයකට ලක්ව තුවාල ලබා රෝහල්ගතව ප්‍රතිකාර ලබමින් සිටි ධනුෂ්ක වික්‍රමසිංහ අද (15) රෝහලෙන් පිටව යාමට නියමිතව තිබේ.
+
+මේ අතර, ශ්‍රී ලාංකික පවුලක සාමාජිකයින් 05 දෙනෙකු ඇතුළු 06 දෙනෙකුට මරු කැඳවූ ඔටාවා සමූහ ඝාතනයේ සැකකාර ශ්‍රී ලාංකික තරුණයා ඔටාවා අධිකරණය හමුවට දෙවැනි දිනටත් ඉදිරිපත් කෙරුණි.
+
+දුරකථනය ඔස්සේ සැකකරු අධිකරණය හා සම්බන්ධ වූ අතර නඩු විභාගය පැවතියේ විනාඩි 4ක කාලයක් පමණයි.
+
+කැනඩා මාධ්‍ය වාර්තා කළේ, මූලික විමර්ශනවලදී ඔටාවා පොලිස් නිලධාරීන්ට වැරදුණු වින්දිතයින්ගේ නම්වල දෝෂ නිවැරදි කිරීමට පියවර ගෙන තිබුණත් චෝදනාවල කිසිදු සංශෝධනයක් සිදුව නොතිබූ බවය.
+
+මෙම නඩුව වාර්තා කිරීමට විශාල මාධ්‍යවේදීන් පිරිසක් අධිකරණ පරිශ්‍රයට රැස්ව සිටියත් සැකකාර 19 හැවිරිදි ශ්‍රී ලාංකික තරුණයා අධිකරණයට රැගෙන ආවේ නැහැ.
+
+මේ වන විට ඔටාවාහි කාලෙටන් රැඳවුම් මධ්‍යස්ථානයේ රඳවා සිටින සැකකාර ෆෙබ්‍රියෝ ද සොයිසා පළමුවෙන් අධිකරණය හමුවේ තම අනන්‍යතාව ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/77fdd923.json)
+
+---
+
+### Food Avoiding Struggle on the 19th by fishermen demanding control of Indian boats
 
 *2024-03-15 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178823) · `ta`
 
-இந்திய இழுவைமடிப் படகுகளின் அத்துமீறல்களைக் கட்டுப்படுத்தக் கோரி யாழ். இந்தியத் துணைத் தூதரகம் முன்பு கடற்றொழிலாளர்கள் உணவு தவிர்ப்புப் போராட்டத்தில் ஈடுபட முடிவு செய்துள்ளனர்.
+Fishermen in Jaffna demand control over Indian boats, citing increasing violations. Despite protests and petitions, no action has been taken. They plan a food avoidance struggle on the 19th, urging support from other districts.
 
-யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர் கூட்டுறவுச் சங்கங்களின் சம்மேளனத்தில் வெள்ளிக்கிழமை (15) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது யாழ். மாவட்ட கடற்றொழிலாளர் கிராமிய அமைப்புக்களின் தலைவர் செல்லத்துரை நற்குணம் மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவித்ததாவது:
+🟩
 
-எமது யாழ்ப்பாண மாவட்ட கடற்பரப்பில் இந்திய மீனவர்களின் அத்துமீறல் தொடர்ச்சியாக அதிகரித்து வருகிறது.
+Jaffna demanding control of Indian boats. The Indian Embassy has previously decided to engage in a food avoidance struggle.
 
-இந்திய மீனவர்கள் எமது வாழ்வாதாரத்தையும்  தொழிலையும்  தொடர்ச்சியாக அழித்து வரும் நிலையில் இலங்கை அரசாங்கத்திடமும் இந்திய அரசாங்கத்திடமும் எமது ஆதங்கங்களை வெளிப்படுத்தியும் எவ்வித நடவடிக்கையும் மேற்கொள்ளப்படவில்லை.
+Jaffna District Fishermen's Co -operative Societies Federation at a press conference held on Friday (15). District Fisheries Chairperson of Rural Organizations. He added:
 
-அண்மையில் இந்தியச் சட்டவிரோத  மீன்பிடியாளர்களைக் கட்டுப்படுத்துமாறு கோரி இலங்கை கடல் எல்லையை முற்றுகையிட்டு போராட்டம் நடத்தினோம். யாழ்ப்பாண இந்தியத் துணைத் தூதரகத்திடம் கோரிக்கை மனு கையளித்தோம். ஆனால், பயன் ஏதும் ஏற்படவில்லை.
+The violation of Indian fishermen in the waters of our Jaffna district is continuously increasing.
+
+As Indian fishermen continue to destroy our livelihood and business, no action has been taken to express our resources to the Sri Lankan government and the Indian government.
+
+Recently we staged a protest against the Sri Lankan waters demanding the control of Indian illegal fishermen. We have filed a petition with the Jaffna Indian Embassy in Jaffna. But, there was no benefit.
+
+In this context, we have decided to engage in a continuous food avoidance struggle before the Indian Consulate in Jaffna on Tuesday the 19th.
 
 ...
 
 [Data](articles/de81d223.json)
+
+[Extended Data](ext_articles/de81d223.ext.json)
 
 ---
 
@@ -66,11 +96,13 @@ He encouraged affected residents to utilize the hotline to report their situatio
 
 In addition, Kodippili highlighted the role of Grama Niladari Officers, urging residents to contact them as another avenue to seek resolution for water-related challenges.
 
-Reports indicate that the regions of Kegalle and Kurunegala districts are particularly affected, with nearly 3,000 families currently facing drinking water shortages.
+Reports also indicate that the regions of Kegalle and Kurunegala districts are particularly affected, with nearly 3,000 families currently facing drinking water shortages.
 
 ◼️
 
 [Data](articles/c9de79df.json)
+
+[Extended Data](ext_articles/c9de79df.ext.json)
 
 ---
 
@@ -2273,27 +2305,5 @@ However, the US Government pushed back against the plan by filing a legal challe
 [Data](articles/9115e9ee.json)
 
 [Extended Data](ext_articles/9115e9ee.ext.json)
-
----
-
-### New expedition to Titanic wreckage could get go-ahead after Titan tragedy
-
-*2024-03-15 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-expedition-to-Titanic-wreckage-could-get-go-ahead-after-Titan-tragedy/108-278891) · `en`
-
-A planned expedition to the resting place of the Titanic could get the go-ahead after plans were scaled back in the aftermath of the fatal Titan implosion last year.
-
-The US government is seeking more information on the revised plans for the expedition, which is scheduled to go ahead in May, Kent Porter, an assistant US attorney, told a federal judge in Virginia on Wednesday
-
-Mr Porter did add that the US has yet not determined whether the new plans would break the law.
-
-RMS Titanic Inc., the Georgia-based company that owns salvage rights to the shipwreck, initially wanted to try and recover freestanding objects inside the vessel, take images inside the ship’s hull and retrieve artefacts from the debris field.
-
-However, the US Government pushed back against the plan by filing a legal challenge in August last year.
-
-...
-
-[Data](articles/9326675c.json)
-
-[Extended Data](ext_articles/9326675c.ext.json)
 
 ---

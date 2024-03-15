@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 16:33:10**
+As of **2024-03-15 16:48:14**
 
 ## Newspaper Stats
 
-*Scraped **13,097** Articles*
+*Scraped **13,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,58 @@ bbccomsinhala | 148
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 681
-economynextcom | 699
+economynextcom | 702
 islandlk | 711
 adalk | 1,126
-adaderanalk | 1,575
-tamilmirrorlk | 1,595
+adaderanalk | 1,576
+tamilmirrorlk | 1,597
 virakesarilk | 1,818
 dailymirrorlk | 2,002
-adaderanasinhalalk | 2,070
+adaderanasinhalalk | 2,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,096 (100.0%) of 13,097 articles have been extended.
+13,097 (99.9%) of 13,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### හොන්ඩා සහ නිසාන් සමාගම් තීරණයක් ගනී
+
+*2024-03-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194546) · `si`
+
+විද්‍යුත් වාහන නිෂ්පාදනය වැඩි දියුණු කිරීම සඳහා මෙන්ම ස්වංක්‍රීය තාක්ෂණය ඊට එකතු කිරීම සඳහා එක්ව කටයුතු කිරීමට හොන්ඩා සහ නිසාන් යන සමාගම් තීරණය කර තිබේ.
+
+ජපානයේ ටෝකියෝ නුවර පැවති මාධ්‍ය සාකච්ඡාවකට එක්වෙමින් එම සමාගම් දෙකෙහි ප්‍රධානීන් මේ බව ප්‍රකාශ කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ජපානයේ දෙවන සහ තෙවන විශාලතම මෝටර් රථ නිෂ්පාදකයින් වන මෙම සමාගම් දෙක ඉදිරියේ දී තාක්ෂණයෙන් වැඩි දියුණු වූ විද්‍යුත් වාහන නිර්මාණය කිරීමට කටයුතු කරනු ඇති බව විදෙස් මාධ්‍යවල වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/6d94b922.json)
+
+---
+
+### Suspended health trade union action to resume next week?
+
+*2024-03-15 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97978/suspended-health-trade-union-action-to-resume-next-week) · `en`
+
+The suspended health trade union action will be resumed from March 19 (Tuesday), says the Convenor of the Health Service Trade Unions Ravi Kumudesh.
+
+Addressing a media briefing in Colombo, Kumudesh said the authorities failed to provide them with satisfactory solutions to the issues facing the health sector workers.
+
+He urged the finance ministry to intervene without delay to address these issues.
+
+The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have been engaging in strikes time and time again over the past few months urging the government to provide them with an allowance similar to that of the DAT (Disturbance, Availability and Transport) allowance given to doctors.
+
+...
+
+[Data](articles/3447b066.json)
+
+---
 
 ### Conductor arrested for pickpocketing
 
@@ -49,6 +83,8 @@ Police suspect the conductor for his involvement in similar previous incidents.
 ◼️
 
 [Data](articles/3e491eca.json)
+
+[Extended Data](ext_articles/3e491eca.ext.json)
 
 ---
 
@@ -125,6 +161,22 @@ He said that the Guinness World record was certified as a highly weighting blueb
 [Data](articles/2ce88e20.json)
 
 [Extended Data](ext_articles/2ce88e20.ext.json)
+
+---
+
+### பிணை கோரி  மனு
+
+*2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணை-கோரி-மனு/175-334718) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல, தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி தனது சட்டத்தரணிகள் ஊடாக இன்று (15) கொழும்பு மேல் நீதிமன்றில் மனுவொன்றை சமர்ப்பித்துள்ளார்.
+
+தரமற்ற தடுப்பு மருந்துகளை கொள்வனவு செய்தமை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள ரம்புக்வெல்லவை பிணையில் விடுவிக்க மாளிகாகந்த நீதவான் நீதிமன்றம் நேற்று (14) மறுத்துள்ளதுடன், வழக்கு விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டுள்ளது.
+
+இந்த நிலையில், தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி ரம்புக்வெல்ல இந்த மனுவை சமர்ப்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/7961826e.json)
 
 ---
 
@@ -230,6 +282,26 @@ If the presidential election will be won, the President's Putin Soviet Farin bec
 
 ---
 
+### Sri Lanka CEB experienced staff in alarming exodus after inflation, taxes: Union
+
+*2024-03-15 15:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-experienced-staff-in-alarming-exodus-after-inflation-taxes-union-154770/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board is losing qualified engineers at an alarming rate, after a currency collapse and new progressive taxes slapped on the debased salary, and they are not coming back, union officials said.
+
+Ceylon Electricity Board has a cadre of around 1,000 engineers but they have been usually managing with lower levels of around 900, they said.
+
+Since 2022, about 150 have left the CEB for foreign countries, leading to serious gaps in some branches with engineering staff down to about 750, Dhanushka Parakramasinghe, President of the CEB Engineers Union told reporters in Colombo.
+
+Sri Lanka’s rupee collapsed from 200 to 330 to the US dollar in 2022 after two years of money printed by macro-economists to target ‘potential output’ using ‘data driven’ monetary policy, followed by a float failure with a surrender rule.
+
+About 105 engineers have resigned and about 54 have taken leave, Parakramasinghe said.
+
+...
+
+[Data](articles/68f127f4.json)
+
+---
+
 ### Demonstration demanding the release of those arrested on the hill
 
 *2024-03-15 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178801) · `ta`
@@ -301,6 +373,24 @@ The Gaza conflict has displaced most of the enclave’s 2.3 million population. 
 [Data](articles/f36aabe9.json)
 
 [Extended Data](ext_articles/f36aabe9.ext.json)
+
+---
+
+### 159 பொறியியலாளர்கள்  வெளியேற்றம்
+
+*2024-03-15 14:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/159-பொறியியலாளர்கள்-வெளியேற்றம்/175-334716) · `ta`
+
+இலங்கை மின்சார சபையில் பணிபுரிந்த 159 பொறியியலாளர்கள் இரண்டு வருடங்களுக்குள் வெளிநாடு சென்றுள்ளதாகவும் 105 பொறியியலாளர்கள் தமது சேவையை விட்டு விலகியுள்ளதுடன் மேலும் 54 பேர் உத்தியோகபூர்வ விடுமுறை பெற்று சென்றுள்ளதாக இலங்கை மின்சார சபையின் பொறியியலாளர்கள் சங்கத்தின் தலைவர் தனுஷ்க பராக்கிரமசிங்க இன்று (15) தெரிவித்தார்.
+
+நிர்வாக சபையில் பணிபுரிந்து மிகவும் சிக்கலான கடமைகளில் ஈடுபட்ட அனுபவம் வாய்ந்த பொறியியலாளர்கள் தமது பணியை மேலும் துறந்தால் இலங்கை மின்சார சபை கடும் நெருக்கடிக்கு உள்ளாகும் நிலை ஏற்படும்.
+
+விடுமுறையில் வெளிநாட்டில் இருக்கும் ஏராளமான பொறியாளர்கள் தங்களுடைய நிரந்தர வதிவிட அனுமதிப் பத்திரம் பெறுவதற்காக பல்வேறு நாடுகளுக்குச் சென்றுள்ளதாகவும் அதன் காரணமாக அவர்கள் மீண்டும் பணிக்கு வருவார்கள் என்ற நம்பிக்கை இல்லை என்றும் தெரியவந்துள்ளது.
+
+வெளிநாட்டில் ஒரு புதிய பொறியாளர் மாதம் சுமார் 4,000 டாலர்கள் சம்பளம் பெறுவதாகவும், அனுபவம் வாய்ந்த பொறியாளர் சில நாடுகளில் மாதம் 6,000 முதல் 8,000 டாலர்கள் வரை சம்பளம் பெறலாம் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/40d992de.json)
 
 ---
 
@@ -429,6 +519,26 @@ It has also been asked whether the accused will be excited at the courtship of h
 [Data](articles/305c9207.json)
 
 [Extended Data](ext_articles/305c9207.ext.json)
+
+---
+
+### Sri Lanka spends Rs 4 Bn on prisoners, house arrest bill to be presented soon
+
+*2024-03-15 14:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-spends-rs-4-bn-on-prisoners-house-arrest-bill-to-be-presented-soon-154752/) · `en`
+
+ECONOMYNEXT — Sri Lanka spends 4 billion rupees a year holding prisoners and is now planning to enact new house arrest legislation in 2024 as a solution to overcrowding in prisons, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
+
+Jayaratne told reporters on Thursday March 14 that the country’s prison population stands at 30,793 individuals which far exceeds its capacity of 12,000.
+
+Amendments to laws such as the Bail Act are also being considered to address this, he said.
+
+A committee headed by Supreme Court Justice Yasantha Kodagoda had submitted a report on house arrest, after which cabinet approval was obtained for a draft bill which is now being formulated by the Legal Draftsman, according to Jayaratne.
+
+“We plan to present this house arrest bill to parliament in 2024 and make it a law. Consequent to this law, people convicted of civil offences can serve their sentence in their home instead of being imprisoned,” he said.
+
+...
+
+[Data](articles/31e730e9.json)
 
 ---
 
@@ -779,6 +889,22 @@ Due to this, the railway control room said that the train services have been del
 [Data](articles/55ecab80.json)
 
 [Extended Data](ext_articles/55ecab80.ext.json)
+
+---
+
+### Opposition’s lack of transparency on amendments to Sri Lanka IMF deal questioned
+
+*2024-03-15 11:55:00* · [`economynextcom`](https://economynext.com/oppositions-lack-of-transparency-on-amendments-to-sri-lanka-imf-deal-questioned-154733/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s opposition parties that have promised amendments to the government’s agreement with the International Monetary Fund (IMF) upon their election has not revealed the amendments they propose, State Minister of Shehan Semasinghe said.
+
+Semasinghe tweeted Friday March 15 that this apparent lack of transparency is a cause for concern.
+
+“Although the opposition political parties who opposed the International Monetary Fund’s programme, which had a major impact on the recovery and stabilisation of the economy, announced that it would be amended after reaching office. However no indication has been made available on the specific proposed amendments. A clear statement of what the proposed amendments could create a debate about its success or failure, practicality and credibility. But no one yet knows what those amendments are. Why has this happened this way? A concern,” he said.
+
+...
+
+[Data](articles/686c4ec9.json)
 
 ---
 
@@ -2077,155 +2203,5 @@ Semasinghe also criticised the Opposition’s stance on negotiations with the In
 [Data](articles/65900667.json)
 
 [Extended Data](ext_articles/65900667.ext.json)
-
----
-
-### BASL expresses concern over growing vacancies in superior courts
-
-*2024-03-15 05:16:30* · [`dailyftlk`](https://www.ft.lk/news/BASL-expresses-concern-over-growing-vacancies-in-superior-courts/56-759495) · `en`
-
-The Bar Association of Sri Lanka (BASL) in a statement yesterday expressed its deep concern over the increasing number of vacancies in the Superior Courts, which has now reached a critical point that significantly hampers the functionality and the integrity of the justice system.
-
-The statement issued by BASL President Kaushalya Nawaratne PC and Secretary Isuru Balapatabendi also said the following.
-
-The recent retirement of a judge of the Supreme Court has further exacerbated the situation by creating an additional vacancy in the Supreme Court. This comes at a time when there is already an ongoing impasse between the Constitutional Council and the Executive over the appointment to fill an existing vacancy within the same court. The delay in resolving these appointments is not only undermining the efficiency of our appellate courts but also eroding public confidence in the legal system›s ability to deliver timely justice.
-
-...
-
-[Data](articles/d962b3a0.json)
-
-[Extended Data](ext_articles/d962b3a0.ext.json)
-
----
-
-### Parliament to debate no-confidence motion against Speaker on 19-20 March
-
-*2024-03-15 05:16:12* · [`dailyftlk`](https://www.ft.lk/news/Parliament-to-debate-no-confidence-motion-against-Speaker-on-19-20-March/56-759494) · `en`
-
-The motion of no confidence brought against Speaker of the House Mahinda Yapa Abeywardena is set to be debated in Parliament on the 19 and 20 March with a vote to follow.
-
-The main opposition party, Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara announced that the move was following yesterday’s party leaders’ meeting.
-
-The no-confidence motion alleges that the Speaker had ignored the Supreme Court’s recommendations pertaining to Sections 13, 17, 20, 33 (6), 34 (1), 35 (1), 21, 22 and 33 of the Online Safety Bill.
-
-Abeywardena is also accused of allowing the Third Reading of the Online Safety Bill to be passed without a vote and disregarding the Chief Opposition Whip’s call for a division at the Committee Stage.
-
-...
-
-[Data](articles/81158a2c.json)
-
-[Extended Data](ext_articles/81158a2c.ext.json)
-
----
-
-### Applications deadline for Aswesuma phase 2 extended till 22 March
-
-*2024-03-15 05:14:37* · [`dailyftlk`](https://www.ft.lk/news/Applications-deadline-for-Aswesuma-phase-2-extended-till-22-March/56-759493) · `en`
-
-The deadline to submit applications for the second phase of the “Aswasuma” welfare benefit program has been extended from 15 to 22 March 2024.
-
-Taking to ‘X’ State Minister of Finance Shehan Semasinghe posted that 130,000 new applications have been received so far and that more applications which have been handed over physically need to be entered in the data system by the Divisional Secretariats.
-
-Families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, as earlier announced by the Welfare Benefits Board (WBB).
-
-During the second phase of ‘Aswesuma’, benefits are anticipated to be extended to 2.4 million families.
-
-◼️
-
-[Data](articles/8b99e70b.json)
-
-[Extended Data](ext_articles/8b99e70b.ext.json)
-
----
-
-### Govt. forgoes Rs. 23.94bn in taxes for BOI companies
-
-*2024-03-15 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-forgoes-Rs-23-94bn-in-taxes-for-BOI-companies/108-278883) · `en`
-
-The Treasury’s tax expenditure statement revealed that the government has foregone over Rs. 23 billion in corporate tax revenue in 2022 due to concessions granted to Board of Investment (BOI) approved companies.
-
-According to the statement, the highest tax concessions, amounting to Rs.8.5 billion were enjoyed by the manufacturing sector, followed by Rs.5.42 billion by power and Rs. 5.2 billion by the apparel sector.
-
-In terms of number of ventures, 170 firms in the manufacturing sector were entitled for tax concessions while 23 from the service and utility sector, and 94 from the tourism sector were entitled to tax benefits.
-
-The taxable income for BOI companies as per the statement was Rs. 168 billion. The highest, Rs. 77 billion in manufacturing, Rs. 50 billion in the apparel sector, and Rs. 22 billion in the power sector.
-
-The ‘tax expenditure’ is based on a 24 percent rate for the first nine months of 2022/2023 financial year and 30 percent for the remainder of the period.
-
-◼️
-
-[Data](articles/83d44138.json)
-
-[Extended Data](ext_articles/83d44138.ext.json)
-
----
-
-### 107 New Bill in Parliament
-
-*2024-03-15 03:47:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/107-புதிய-சட்டமூலங்கள்-பாராளுமன்றத்தில்/175-334696) · `ta`
-
-In 2022 and 2023, 107 new bills were submitted to Parliament, with 29 in 2022 and 78 in 2023. Minister of Justice Anuradha Jayaratne highlighted significant amendments during this period.
-
-🟩
-
-Minister of Justice and Prison Affairs Anuradha Jayaratne said that in 2022 and 2023, 107 new bills were submitted to Parliament.
-
-The Minister of State has stated that in 2023, the agriculture and industry have been able to earn 116 million rupees.
-
-Speaking at a press conference held at the Presidential Media Center yesterday, Minister of Justice and Prison Affairs Anuradha Jayaratne said this. As he further stated,
-
-29 new Bill in 2022 and 78 new Bill in 2023 were able to be submitted to Parliament. Accordingly, 107 Bill were submitted. He said that in the history of the Ministry of Justice, a large number of bills have been amended during this period. (A)
-
-◼️
-
-[Data](articles/c28e07a5.json)
-
-[Extended Data](ext_articles/c28e07a5.ext.json)
-
----
-
-### Funds for paddy purchasing
-
-*2024-03-15 03:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-கொள்வனவிற்காக-நிதி-ஒதுக்கீடு/175-334695) · `ta`
-
-President Ranil Wickremesinghe allocates Rs 50 crore for paddy purchases, with Agriculture Minister Mahinda Amaraweera confirming the President's direct involvement.
-
-🟩
-
-President Ranil Wickremesinghe has agreed to allocate Rs 50 crore for paddy purchases.
-
-Accordingly, it has been decided to buy paddy from two paddy hospitals in all districts from today.
-
-Agriculture Minister Mahinda Amaraweera has said that although the Finance Ministry has been asked to pay Rs.
-
-The Minister of Agriculture said that the President was directly involved in this issue and decided to allocate Rs 50 crore funds.. (A)
-
-◼️
-
-[Data](articles/4f0c5173.json)
-
-[Extended Data](ext_articles/4f0c5173.ext.json)
-
----
-
-### The echo of the popular struggle is handed over to the President
-
-*2024-03-15 03:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-போராட்டத்தின்-எதிரொலி-நூல்-ஜனாதிபதியிடம்-கையளிப்பு/175-334694) · `ta`
-
-President Ranil Wickremesinghe received a summary of the struggle from Narahenpitti Abayaramabadi, Sanganayaka Thera, and Venusal of Colombo University. Ananda Thera's story highlighted the disappearance of Sinhala medicine and the Geneva crisis.
-
-🟩
-
-Narahenpitti Abayaramabadi, Western Province Chief Sanganayaka Thera and Venusal of Colombo University. President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe at the Presidential Office yesterday afternoon.
-
-Earlier, Ananda Thera had published a true story of the relentless struggle, the disappearance of Sinhala medicine, the nightmaking character, the echoes of the Geneva crisis, the run -hearted and the outside of the darkness.
-
-Ketamanne Gunananda Thera, Member of Parliament Vajira Abeywardena and President's Secretary Saman Ekanayake also participated in the event.. (A)
-
-◼️
-
-[Data](articles/63a82d7d.json)
-
-[Extended Data](ext_articles/63a82d7d.ext.json)
 
 ---

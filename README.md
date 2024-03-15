@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 11:52:13**
+As of **2024-03-15 12:03:05**
 
 ## Newspaper Stats
 
-*Scraped **13,061** Articles*
+*Scraped **13,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 147
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 681
-economynextcom | 697
+economynextcom | 699
 islandlk | 711
 adalk | 1,121
 adaderanalk | 1,570
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,059 (100.0%) of 13,061 articles have been extended.
+13,061 (100.0%) of 13,063 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,11 +44,13 @@ Having spotted illegal fishing activities off the Kovilan Lighthouse in Karainag
 
 The seized Indian vessel and the fishermen were subsequently brought ashore to the Kankesanturai Harbour and are slated to be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
 
-With this recent apprehension, the Navy said the number of Indian poaching trawlers it has intercepted in Sri Lankan waters thus far in 2024 now stands at 16. As many as 125 Indian fishermen were also apprehended in these operations.
+Following the new development, the navy says it has intercepted a total of 16 Indian fishing trawlers thus far in 2024 for trespassing in Sri Lankan waters. As many as 125 Indian fishermen were also apprehended in these operations.
 
 ◼️
 
 [Data](articles/fff75dda.json)
+
+[Extended Data](ext_articles/fff75dda.ext.json)
 
 ---
 
@@ -292,6 +294,24 @@ The arrested suspect is to be produced before the Mullaitivu Magistrate's Court.
 
 ---
 
+### Sri Lanka, Thailand discuss early implementation of FTA, Myanmar detainees
+
+*2024-03-15 10:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-thailand-discuss-early-implementation-of-fta-myanmar-detainees-154726/) · `en`
+
+ECONOMYNEXT – The Foreign Minister of Thailand has agreed to work on early implementation of the Sri Lanka-Thailand Free Trade Agreement (SLSFTA) and reciprocal visa free arrangement between the two countries, Minister of Foreign Affairs M U M Ali Sabry said.
+
+“I spoke with the Foreign Minister of Thailand HE Parnpree Bahiddha-Nukara over the phone last morning to request assistance to facilitate the early repatriation of rescued Sri Lankans currently in the Myawaddy area in Myanmar. The Foreign Minister agreed to assist in the repatriation,” Sabry said on X (twitter).
+
+The eight Sri Lankans under Myanmar government protection are receiving necessary assistance from the Sri Lanka Embassy in Yangon, he said, the Ministry is also working on the rescue and repatriation of the remaining Sri Lankans trapped in the Myawaddy area.
+
+Bahiddha-Nukara, who is also the Deputy Prime Minister of Thailand, agreed to facilitate the repatriation of the rescued Sri Lankans via Thailand.
+
+...
+
+[Data](articles/cb775095.json)
+
+---
+
 ### Signal Disorder: Train Services Delay in Pratana Religion
 
 *2024-03-15 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178774) · `ta`
@@ -356,21 +376,29 @@ Accordingly, Bangladesh leads to 1 - 0 in a one -day series with 3 matches.
 
 ---
 
-### ටූනා කිලෝවට රු. 2000ක මිලක් ඉල්ලයි
+### Tuna kilo per month. Asks for a price of 2000
 
 *2024-03-15 10:17:48* · [`adalk`](https://www.ada.lk/breaking_news/ටූනා-කිලෝවට-රු--2000ක-මිලක්-ඉල්ලයි/11-408624) · `si`
 
-ටුනා මසුන් සදහා සහතික මිලකුත්, බහු දින ධීවර යාත්‍රාවල ධීවර කටයුතු සදහා පිළිගත් ප්‍රතිපත්තියකුත් අවශ්‍ය බව බහු දින යාත්‍රා හිමියන් ඉල්ලයි.
+Fisheries Minister Douglas Devananda, on 3/13/2012, discussed tuna pricing with fish exporters and multi-day fishing boat associations. He emphasized the need for a fair price, acknowledgment of fishing vessels' certificates, and a system to replace fuel. The Board of Investment of Sri Lanka (BOI) is involved in ensuring fairness between fishing vessels and exporters.
 
-මත්ස්‍ය අපනයන කරුවන්ගේ සංගම් හා  බහු දින ධීවර යාත්‍රා හිමියන්ගේ සංගමයේ නියොජිත පිරිසක් සමග 2024.03.13 දින ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතාගේ ප්‍රධානත්වයෙන් ධීවර අමාත්‍යංශයේ පැවති සාකච්ඡාවකදි මෙම අදහස් ප්‍රකාශ කරන ලදි.
+🟩
 
-තමන් අල්ලා ගන්නා මත්ස්‍යන් සදහා සාධාරණ මිලක් ලබා දිය යුතු බව බහු දින යාත්‍රා හිමිකරුවන් විසින් ඉල්ලා සිටින ලදි.
+Multimediangront Thera also requests that there is a certificate of the cars and acknowledged policy for fishing fishing vessels.
 
-මේහිදි අදහස් දැක්වු සංගම් නියොජිතයන් ඉන්ධන, අයිස් හා  ධීවර ආම්පන්න මිල වැඩි විම, වැට් බද්ධ හා අතර මැදියන්ගේ මැදිහත් විම නිසා තමත් දැඩි ලෙස අසිරු තාවයන්ට  පත්වි ඇති බවත්, එම නිසා තමත් විසින් නෙලා ගන්නා ටුනා මත්ස්‍යයන් සදහා අඩුම වශයෙන් Kg 1 රු.2000/ මිලක් නියම කලයුතු  බවත් ඒ පිලිබදව පිළිගත් ප්‍රතිපත්තියක් හදුන්වා දිය යුතු බවද පවසන ලදි.
+The comments were made by Fisheries Minister Douglas Devananda on 13.03.2012 with a group of fish exporters' association and multi-day fishing boat Association.
+
+Multimedian-boat owners were asked to give a reasonable price for the fish they caught.
+
+The association representatives have become more heavily difficult for the busy transplant and the intervention of the fish, ice and fishing equipment, and the intervention of the fish, which is largely resulted in a fish.It was also said that the purpose should be made and accepted by it.
+
+It is also said that a system to be prepared to re-be replaced with the fuel and to create a covenant between exporters and multimed fishermen. In the face of the present situation, hundreds of multi-day fishing vessels do not go to sea, they have to leave the job if they don't go to sea.
 
 ...
 
 [Data](articles/bbce6931.json)
+
+[Extended Data](ext_articles/bbce6931.ext.json)
 
 ---
 
@@ -463,6 +491,26 @@ Subsequently, the Navy has taken steps to hand over the Indian fishermen to the 
 [Data](articles/a2780311.json)
 
 [Extended Data](ext_articles/a2780311.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 305.23/28 to the US dollar
+
+*2024-03-15 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-305-23-28-to-the-us-dollar-154717/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 305.23/28 to the US dollar in the spot forex market on Friday, slightly stronger from 305.50/55 on Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.30/35 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.00 percent down from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at percent from 12.10/15 percent.
+
+The Colombo Stock Market opened up; the All Share Price Index was up 0.08 percent at 11,327, and the S&P SL20 was up 0.32 percent at 3,240. (Colombo/Mar15/2024)
+
+◼️
+
+[Data](articles/43a0b3f0.json)
 
 ---
 
@@ -2093,55 +2141,5 @@ State Minister of Defence Premitha Bandara Tennakoon, underscored the grave cons
 [Data](articles/a7ba05a2.json)
 
 [Extended Data](ext_articles/a7ba05a2.ext.json)
-
----
-
-### Sixty migrants feared drowned crossing Mediterranean from Libya
-
-*2024-03-14 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/97962/sixty-migrants-feared-drowned-crossing-mediterranean-from-libya) · `en`
-
-As many as 60 people are feared to have drowned on a vessel carrying migrants across the Mediterranean from Libya to Italy or Malta, the operators of a charity rescue group said on Thursday.
-
-SOS Mediterranee said it rescued 25 people in a “very weak” condition in coordination with the Italian Coast Guard on Wednesday and that two unconscious people were flown to Sicily by helicopter.
-
-The central Mediterranean is one of the world’s deadliest migration routes. According to the U.N. migration agency (IOM), almost 2,500 migrants died or went missing attempting the crossing last year, and 226 since the start of 2024.
-
-“The survivors departed from Zawiya, Libya, seven days before they were rescued,” SOS Mediterranee posted on the social media platform X.
-
-“Their engine broke after three days, leaving their boat lost (and) adrift without water and food for days. Survivors report that at least 60 people perished on the way, including women and at least one child,” it added.
-
-...
-
-[Data](articles/3fb4b3e5.json)
-
-[Extended Data](ext_articles/3fb4b3e5.ext.json)
-
----
-
-### Titanic recovering the world amazing
-
-*2024-03-14 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194520) · `si`
-
-The Titanic, once a symbol of luxury and tragedy, is now being recreated by a billionaire. This unique ship, designed by New York's Port of Sadalampton, began its recovery nearly 10 years ago. Costing between $500 million and Rs., it can accommodate 2,345 passengers, with half of the first-class cabins now on sale.
-
-🟩
-
-The luxury Titanic, who said, 1500 people were killed in a huge iceberg, clashing 1500 people.
-
-Amazing the world is a billionaire to produce the same vessel, a billionaire.
-
-Nearly 10 years ago, this unique ship began to recover.
-
-The ship was the design of New York from the Port of Sadalampton, who traveled to Titanic.
-
-The cost of nine-story ship is to be spent between $ 500 million and a sum of Rs.
-
-Half of the first class of the first class of the first class of the ship, which can travel to 2,345 passengers, is now being sold.
-
-◼️
-
-[Data](articles/aabd2075.json)
-
-[Extended Data](ext_articles/aabd2075.ext.json)
 
 ---

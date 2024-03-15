@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 22:04:52**
+As of **2024-03-15 22:17:51**
 
 ## Newspaper Stats
 
-*Scraped **13,141** Articles*
+*Scraped **13,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,129
-adaderanalk | 1,583
+adaderanalk | 1,584
 tamilmirrorlk | 1,599
-virakesarilk | 1,827
+virakesarilk | 1,828
 dailymirrorlk | 2,010
 adaderanasinhalalk | 2,078
 
@@ -26,23 +26,63 @@ adaderanasinhalalk | 2,078
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,140 (100.0%) of 13,141 articles have been extended.
+13,141 (100.0%) of 13,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### ශ්‍රී ලංකාවට සුපිරි ජයක්
+### பங்களாதேஷுடனான இரண்டாவது போட்டியில் இலங்கைக்கு சிறப்பான வெற்றி
+
+*2024-03-15 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178828) · `ta`
+
+சுற்றுலா இலங்கை அணிக்கும் பங்களாதேஷ் அணிக்கும் இடையிலான இரண்டாவது ஒரு நாள் கிரிக்கெட் போட்டியில் இலங்கை அணி  வெற்றியை பதிவு செய்துள்ளது.
+
+இதன் வெற்றியின் மூலம் 3  ஒரு நாள் கிரிக்கெட் போட்டிகள் கொண்ட இந்த தொடரை 1-1 என்ற ரீதியில் சமப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/f834cd45.json)
+
+---
+
+### Over 400 Sri Lankan nurses currently serving in Singapore - High Commission reveals
+
+*2024-03-15 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97985/over-400-sri-lankan-nurses-currently-serving-in-singapore-high-commission-reveals) · `en`
+
+The High Commission of Sri Lanka in Singapore has revealed that over 400 Sri Lankan nurses currently work in Singapore.
+
+A group of 100 nurses arrived at the Changi Airport in Singapore on Friday (15 March), under an ongoing collaboration with Singapore’s Ministry of Health Holdings, making this the largest group of nurses to be deployed to Singapore simultaneously.
+
+Under the ongoing collaboration, nurses from Sri Lanka get the opportunity to serve within the Singapore healthcare system for a period of two years.
+
+The Singaporean Government also provides air tickets for both ways and accommodation free of charge. Apart from the wages a one-time relocation allowance of SGD 1,000/- is given to each person.
+
+Issuing a statement on the matter, the High Commission said, “This comprehensive support package is expected to ensure the well-being and success of foreign healthcare professionals”, adding that so far, over 420 nurses have been sent to Singapore under this programme.
+
+...
+
+[Data](articles/a77a8ff3.json)
+
+---
+
+### Superbid from Sri Lanka
 
 *2024-03-15 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194554) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති දෙවැනි එක්දින ජාත්‍යන්තර තරගයෙන් තියුණු ජයක් වාර්තා කිරීමට සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Superbid from Sri Lanka won against Sri Lanka and Bangladesh, achieving a target of 287 in 47.1 balls.
 
-ලකුණු 287ක ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා ක්‍රීඩකයෝ පන්දු ඕවර 47.1 කදී තරගය ජයග්‍රහණය කිරීමට සමත්වූහ.
+🟩
+
+Tourist Sri Lanka beat Sri Lanka and Bangladesh.
+
+Chasing a target of 287, Sri Lankan players won the match in 47.1 balls.
 
 ◼️
 
 [Data](articles/652d2a06.json)
+
+[Extended Data](ext_articles/652d2a06.ext.json)
 
 ---
 
@@ -2275,47 +2315,5 @@ The Colombo Stock Market opened up; the All Share Price Index was up 0.08 percen
 [Data](articles/43a0b3f0.json)
 
 [Extended Data](ext_articles/43a0b3f0.ext.json)
-
----
-
-### China's site in Sri Lanka?Sri Lanka rejected information from the US intelligence unit
-
-*2024-03-15 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178770) · `ta`
-
-Sri Lanka rejects US reports on China's military sites plans. Defense Minister Premitha Bandara Tennakoon denies any talks with China for bases in Sri Lanka, calling US intelligence information incorrect. China is expanding its military presence globally, with US agencies estimating a worldwide military by 2049.
-
-🟩
-
-Sri Lanka has rejected reports by US intelligence agencies that China is planning to create military sites in Sri Lanka.
-
-Defense Minister Premitha Bandara Tennakoon has said that there are no talks with China, including China, to set up bases within the limits of Sri Lanka.
-
-The Minister said that the information of the US intelligence agencies is wrong.
-
-He said that Sri Lanka would not allow any country to be set up under its territory. China is investigating military structures in many countries, including Sri Lanka.
-
-US intelligence agencies have said that China, which is engaged in further strengthening its military site in Zibuti and its naval base in Cambodia, is trying to create its sites in many countries, including Sri Lanka.
-
-US intelligence agencies estimate that by 2049, China is planning to make the Chinese military worldwide by 2049.
-
-...
-
-[Data](articles/6c1a0f92.json)
-
-[Extended Data](ext_articles/6c1a0f92.ext.json)
-
----
-
-### Signal failure delays train on main line
-
-*2024-03-15 09:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Signal-failure-delays-train-on-main-line/108-278913) · `en`
-
-Train services on the main line will be delayed due to a signal failure between Kelaniya and Hunupitiya railway stations this morning, the Railways Control Room said.
-
-◼️
-
-[Data](articles/97027228.json)
-
-[Extended Data](ext_articles/97027228.ext.json)
 
 ---

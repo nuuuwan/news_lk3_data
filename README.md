@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 00:02:58**
+As of **2024-03-15 23:52:22**
 
 ## Newspaper Stats
 
-*Scraped **13,162** Articles*
+*Scraped **13,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,18 @@ adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
 virakesarilk | 1,830
-dailymirrorlk | 2,017
+dailymirrorlk | 2,013
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,150 (99.9%) of 13,162 articles have been extended.
+13,150 (99.9%) of 13,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
-
-### Asgiriya Chapter Anunayaka Thera calls for fair and just rule
-
-*2024-03-15 23:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asgiriya-Chapter-Anunayaka-Thera-calls-for-fair-and-just-rule/108-278973) · `en`
-
-Colombo, March 15 - Anunayaka of the Asgiriya Chapter Ven. Wendaruwe Upali Thera said it would rain in the due season bringing a bumper harvest and making the people happier, fuller and pleasanter provided the country had just rulers at the helm.
-
-Addressing the Special Conference of the Mahasangha of the Asgiriya Chapter held at Manelwatta Maha Vihara Conference Hall in Kelaniya the Ven. Thera pointed out the march forward of the country could be ensured by establishing a fair and just rule in the country and not through politically motivated activities.
-
-The conference was held under the chairmanship of Ven. Wendaruwe Upali Thera.
-
-...
-
-[Data](articles/82c42ad4.json)
-
----
 
 ### சுவாரஸ்மற்ற முடிவை நோக்கி ட்ரினிட்டி - அன்தோனியன் சமர்
 
@@ -105,18 +89,6 @@ The sword, the iron rod and the iron pipe were recovered from the three -wheeler
 [Data](articles/9f625930.json)
 
 [Extended Data](ext_articles/9f625930.ext.json)
-
----
-
-### Despite hot weather...
-
-*2024-03-15 22:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Despite-hot-weather/110-278919) · `en`
-
-People in urban areas of Colombo engaged in work during the daytime despite the hot weather. Some labourers were also transporting goods in Pettah to earn their living, persevering the the heat.
-
-◼️
-
-[Data](articles/a6e6dcd9.json)
 
 ---
 
@@ -181,30 +153,6 @@ In reply, Sri Lanka reached the target with loss of seven wickets.
 [Data](articles/d654abfb.json)
 
 [Extended Data](ext_articles/d654abfb.ext.json)
-
----
-
-### Nissanka ton helps Sri Lanka level Bangladesh series
-
-*2024-03-15 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nissanka-ton-helps-Sri-Lanka-level-Bangladesh-series/108-278963) · `en`
-
-Chittagong, Mar. 15 - Opener Pathum Nissanka struck 114 off 113 balls to steer Sri Lanka to a three-wicket victory over Bangladesh and level their three-match ODI series in Chittagong on Friday.
-
-Sri Lanka were teetering on 43-3 before Nissanka finally found a worthy partner in Charith Asalanka, who scored 91.
-
-The pair put on 185 in their fourth-wicket partnership to guide the tourists to 287-7 in the 48th over, after Wanindu Hasaranga's 4-45 helped restrict Bangladesh.
-
-Their stand was broken soon after Nissanka hit his sixth ODI century, when Mehidy Hasan forced him to hoist a catch to Liton Das at deep-midwicket.
-
-Asalanka departed the next over when he nicked through to the 'keeper from Taskin Ahmed.
-
-Dunith Wellalage and Hasaranga kept their composure to put on 34 runs for the seventh wicket and edge Sri Lanka closer.
-
-Wellalage hit Bangladesh captain Najmul Hossain Shanto to cover for a double to complete the win with 3.5 overs to spare.
-
-...
-
-[Data](articles/fcda9486.json)
 
 ---
 
@@ -1324,24 +1272,6 @@ The police said that he had been inaugurated while he was conducting cultivation
 
 ### Keheliya seeks bail
 
-*2024-03-15 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-seeks-bail/155-278921) · `en`
-
-Colombo, March 15 (Daily Mirror)- Former Health Minister Keheliya Rambukwella, currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, has sought bail from the Colombo High Court.
-
-Filing a bail application through a lawyer, the former Health Minister is requesting the Colombo High Court that he be released on whatever bail conditions court deems fit.
-
-In his application, Keheliya Rambukwella alleged that the Maligakanda Magistrate, on a number of occasions has refused to grant bail and made remand orders without reasonable grounds.
-
-The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten others till March 28 in connection with this incident.
-
-◼️
-
-[Data](articles/991252f8.json)
-
----
-
-### Keheliya seeks bail
-
 *2024-03-15 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-seeks-bail/108-278921) · `en`
 
 Colombo, March 15 (Daily Mirror)- Former Health Minister Keheliya Rambukwella, currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, has sought bail from the Colombo High Court.
@@ -2255,5 +2185,103 @@ As a member of the National People's Power, I, I, I, Elder Nanayakkara, Members 
 [Data](articles/c1655427.json)
 
 [Extended Data](ext_articles/c1655427.ext.json)
+
+---
+
+### 60 migrants drowned in sea
+
+*2024-03-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194535) · `si`
+
+60 migrants drowned in Mediterranean; vessel carrying unauthorized refugees from Libya to Europe sank. 25 rescued. Operation by Italian Coast Guard and volunteers.
+
+🟩
+
+It is reported that 60 people have been killed in a criminal incident of an unauthorized migrant vessel sailing in the Mediterranean.
+
+The victims were a vessel carrying unauthorized refugees from Libya to Europe.
+
+Foreign media reports that the vessel was traveling to Italy or Malta.
+
+The victims were able to rescue 25 people from the crash.
+
+Voluntary concessionary service teams have carried out this rescue operation with the assistance of the Italian Coast Guard.
+
+The Mediterranean is considered as the most dangerous sea round of the world traveling unauthorized migrants.
+
+According to the United Nations refugee service, about 2,500 of unauthorized migrants who try to come to Europe die.
+
+226 immigrants have died due to accidents in the Mediterranean this year.
+
+◼️
+
+[Data](articles/33975654.json)
+
+[Extended Data](ext_articles/33975654.ext.json)
+
+---
+
+### Ottawa mass killing: Lawyer says accused Sri Lankan student is in protective custody
+
+*2024-03-15 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97973/ottawa-mass-killing-lawyer-says-accused-sri-lankan-student-is-in-protective-custody-) · `en`
+
+Febrio De-Zoysa, the teenager accused in the brutal killing of six Sri Lankans in Ottawa, is now held in protective custody, his lawyer Ewan Lyttle has said.
+
+“I can comment that he’s in protective custody. He’s doing OK,” Lyttle was quoted as saying by Canadian media reports. Inmates are often held in protective custody to shield them from other prisoners.
+
+Lyttle’s comments came after De-Zoysa made a brief court appearance that took place by phone on Thursday (March 14).
+
+De-Zoysa’s matter was adjourned until March 28, to give Lyttle time to receive and begin reviewing disclosure from the Crown, a process he suggested would span months.
+
+According to Ottawa Police, De-Zoysa had come to Canada as an international student and had been living with the victims, who were also newcomers from Sri Lanka.
+
+...
+
+[Data](articles/46bca398.json)
+
+[Extended Data](ext_articles/46bca398.ext.json)
+
+---
+
+### Compliance with big onion prices
+
+*2024-03-15 10:52:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காய-விலை-தொடர்பில்-இணக்கப்பாடு/175-334705) · `ta`
+
+Big onion importers agreed to price their stockings between 450 and 500 rupees, discussing with the Ministry of Commerce and Essential Mobile to ensure essential commodities are available during New Year. Minister Nalin Fernando confirmed the meeting was successful.
+
+🟩
+
+Large onion importers agreed to grant their stockings between 450 and 500 rupees.
+
+A discussion was held yesterday in the Ministry between the importers and the Commerce of the Essential Mobile, the provision of essential commodities to the people during the New Year.
+
+Speaking to the media after the meeting, Minister Nalin Fernando said the discussion was successful.
+
+◼️
+
+[Data](articles/8e0d7ffe.json)
+
+[Extended Data](ext_articles/8e0d7ffe.ext.json)
+
+---
+
+### Vehicle prices set to increase after import resumptions next year: Importers
+
+*2024-03-15 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Vehicle-prices-set-to-increase-after-import-resumptions-next-year-Importers/155-278914) · `en`
+
+Colombo, March 15 (Daily Mirror) - Local vehicle importers claimed that the current market prices of vehicles would increase after the proposed resumption of vehicle imports from next year due to the chang in the duty structure.
+
+They said the government had implemented a significant change in the duty structure in January, resulting in a substantial increase in the marginal cost of importing vehicles.
+
+The importers also claimed that vehicles would be imported under huge restrictions.
+
+According to the survey conducted by the association, the existing local market prices of vehicles would increase after the import of new vehicles.
+
+Addressing a gathering organized by the United Youth Union, titled "Future of the Youth," held this week at Taprobane Entertainment, President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting next year.
+
+...
+
+[Data](articles/9d5688e7.json)
+
+[Extended Data](ext_articles/9d5688e7.ext.json)
 
 ---

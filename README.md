@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 07:16:25**
+As of **2024-03-15 07:32:04**
 
 ## Newspaper Stats
 
-*Scraped **13,001** Articles*
+*Scraped **13,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 675
 economynextcom | 695
-islandlk | 710
+islandlk | 711
 adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,580
 virakesarilk | 1,806
 dailymirrorlk | 1,984
-adaderanasinhalalk | 2,051
+adaderanasinhalalk | 2,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,001 (100.0%) of 13,001 articles have been extended.
+13,001 (100.0%) of 13,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### අද කාලගුණය
+
+*2024-03-15 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194524) · `si`
+
+අද (15) දිනයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව, දකුණු සහ මධ්‍යම පළාත්වල මෙලෙස වැසි ඇතිවිය හැකි බවය.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/5cb15ec8.json)
+
+---
 
 ### IRD warns nearly 1,000 companies
 
@@ -1374,6 +1390,22 @@ Prof. Anil Jayanthi, Professor, Seetha Bandara, Dr. Shadap Bandara and Sunil Han
 
 ---
 
+### Lanka IOC and banking sector stocks propel bourse to positive trajectory
+
+*2024-03-14 18:55:00* · [`islandlk`](http://island.lk/lanka-ioc-and-banking-sector-stocks-propel-bourse-to-positive-trajectory/) · `en`
+
+While the stock market kicked off on a positive note yesterday, it subsequently slowed down but towards the latter part of the day it bounced back due to noticeable share movements on Lanka IOC and banking sector stocks, market analysts said.
+
+During the day, LOLC Group shares were under tremendous selling pressure, which was the main reason for the market to slow down. Both indices moved upwards, though, amid a satisfactory turnover level.
+
+The All Share Price Index went up by 31 points, while S and P SL20 moved to 14.16 points. Turnover stood at Rs 1.92 billion with three crossings. Those crossings were reported in Vallibel One, which crossed 1 million shares to the tune of Rs 50 million; its shares traded at Rs 50, HNB 205,000 shares crossed for Rs 33.9 million; its shares traded at Rs 165.50 and CIC (Non- Voting) 500,000 shares crossed for Rs 25 million and its shares sold at Rs 50.
+
+...
+
+[Data](articles/18accd9f.json)
+
+---
+
 ### State Vesak Festival in Matale
 
 *2024-03-14 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194515) · `si`
@@ -2167,45 +2199,5 @@ He also said that the second day of the debate has also been decided to hold the
 [Data](articles/9dfee598.json)
 
 [Extended Data](ext_articles/9dfee598.ext.json)
-
----
-
-### Bail rejected for Keheliya, ex-Health Secretary and 4 others
-
-*2024-03-14 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97950/bail-rejected-for-keheliya-ex-health-secretary-and-4-others) · `en`
-
-Maligakanda Magistrate’s Court has once again rejected bail for former Minister of Health Keheliya Rambukwella, former Ministry secretary and 04 others accused over the import of substandard human Immunoglobulin vials.
-
-Furthermore, the magistrate who ordered them to be remanded in custody until conclusion of the case under the provisions of the Public Property Act, also ordered the case to be recalled on March 28, 2024.
-
-Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-...
-
-[Data](articles/f47e3071.json)
-
-[Extended Data](ext_articles/f47e3071.ext.json)
-
----
-
-### Expert forecasts lengthy legal battle in Ottawa mass killing
-
-*2024-03-14 15:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expert-forecasts-lengthy-legal-battle-in-Ottawa-mass-killing/108-278857) · `en`
-
-March 14 - A criminal law expert has shed light on the potentially lengthy legal journey ahead for the case involving Febrio De-Zoysa, the 19-year-old Sri Lankan national accused of a brutal attack in Barrhaven, Ottawa.
-
-Daphne Gilbert, a professor of criminal law at the University of Ottawa, suggests that the legal proceedings could span two to three years as they wind through the complexities of the court system.
-
-Gilbert emphasizes the likelihood of extensive psychiatric evaluations for the accused, aimed at determining his mental fitness to stand trial. Given the seriousness of the charges, it's crucial to assess De-Zoysa's capacity to comprehend the legal proceedings and assist in his defense.
-
-The 19-year-old Sri Lankan national currently sits in Ottawa’s Innes Road jail, facing six charges of first-degree murder and one count of attempted murder.
-
-...
-
-[Data](articles/c5c03f22.json)
-
-[Extended Data](ext_articles/c5c03f22.ext.json)
 
 ---

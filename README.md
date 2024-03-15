@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 05:37:02**
+As of **2024-03-15 06:16:46**
 
 ## Newspaper Stats
 
-*Scraped **12,987** Articles*
+*Scraped **13,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 123
 bbccomsinhala | 146
 dbsjeyarajcom | 186
 newsfirstlk | 363
-dailyftlk | 663
+dailyftlk | 675
 economynextcom | 695
-islandlk | 708
+islandlk | 710
 adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,580
@@ -26,11 +26,215 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,979 (99.9%) of 12,987 articles have been extended.
+12,984 (99.9%) of 13,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### IRD warns nearly 1,000 companies
+
+*2024-03-15 05:37:54* · [`dailyftlk`](https://www.ft.lk/opinion/IRD-warns-nearly-1-000-companies/14-759506) · `en`
+
+It was reported that the Commissioner General Sepalika Chandrasekara has said that about 1,000 companies have been issued notice by the Inland Revenue Department (IRD) to pay up their tax arrears amounting to more than Rs. 160 billion in six months or face seizure of bank accounts and property.
+
+I would like to know from the Commissioner how feasible it is to execute the above decision, if the company resorts to or is faced with any one or more of the following situations:
+
+1. If the bank balance of the company is very low/nil and not substantial enough to recover the tax arrears, or if the money is totally withdrawn before the account is blocked.
+
+2. If the company has taken a huge overdraft and thereby already indebted to the bank
+
+3. If the property has been already mortgaged requiring parate execution
+
+4. If the company deliberately goes into bankruptcy and declares so before seizure by IRD
+
+...
+
+[Data](articles/860dd85e.json)
+
+---
+
+### First ever India-Sri Lanka Joint Working Group firms up cooperation in renewable energy
+
+*2024-03-15 05:34:02* · [`dailyftlk`](https://www.ft.lk/news/First-ever-India-Sri-Lanka-Joint-Working-Group-firms-up-cooperation-in-renewable-energy/56-759503) · `en`
+
+The first meeting of the Joint Working Group (JWG) on renewable energy constituted under the MoU on Cooperation in the field of Renewable Energy signed between the Governments of India and Sri Lanka in July 2023 during the visit of the President of Sri Lanka to India, was held on 11 March in Colombo.
+
+The meeting was co-chaired by Secretary, Ministry of New and Renewable Energy from the Indian side Bhupinder Singh Bhalla and Secretary, Ministry of Power and Energy from the Sri Lankan side Dr. Sulakshana Jayawardena. The High Commissioner of India to Sri Lanka Santosh Jha also attended the meeting.
+
+...
+
+[Data](articles/d7fad1b6.json)
+
+---
+
+### Ogilvy Sri Lanka and Women in Need unveil ‘Masterpiece of Abuse’ art installation
+
+*2024-03-15 05:32:14* · [`dailyftlk`](https://www.ft.lk/news/Ogilvy-Sri-Lanka-and-Women-in-Need-unveil-Masterpiece-of-Abuse-art-installation/56-759502) · `en`
+
+Ground-breaking initiative uses local newspaper cuttings documenting instances of abuse and harassment against women to mark International Women’s Day
+
+In a poignant tribute, Ogilvy Sri Lanka, in partnership with Women in Need (WIN), revealed ‘Masterpiece of Abuse’, an art installation, designed to raise awareness and support for survivors of abuse on International Women’s Day.
+
+Crafted from local newspaper cuttings documenting instances of abuse and harassment against women, this forsaken art serves as a powerful symbol of the harsh realities faced by women. It stands in stark contrast to the celebratory and empowering messages that often dominate media platforms exclusively on Women’s Day.
+
+The installation captures the essence of the pervasive issue of abuse experienced by women across the island. By depicting the harsh realities of survivors, it seeks to illuminate the often-overlooked struggles that persist, urging society to confront this pressing issue head-on.
+
+...
+
+[Data](articles/177ef45e.json)
+
+---
+
+### Philately cover today to mark 135th anniversary of Maliyadeva College, Kurunegala
+
+*2024-03-15 05:28:54* · [`dailyftlk`](https://www.ft.lk/news/Philately-cover-today-to-mark-135th-anniversary-of-Maliyadeva-College-Kurunegala/56-759501) · `en`
+
+The stamp and FDC issued in 1988 to celebrate centenary of Maliyadeva College
+
+In order to celebrate the 135th anniversary of Maliyadeva College, Kurunegala, a special commemorative cover (philately cover) would be issued today at the school premises. This special cover has a uniqueness to it. It would be the first of its kind to be released inside a very special book. Not only would this be of utmost value and importance to philatelists, but the book would also comprise the first day cover (FDC) issued in 1988 to commemorate the 100th anniversary of the College (in limited quantity) and the recently released cover to celebrate 100 years of scouting at the College.
+
+...
+
+[Data](articles/2d1336d2.json)
+
+---
+
+### Brandix first to commit to UN program on Gender-based Violence and Women in Leadership
+
+*2024-03-15 05:24:30* · [`dailyftlk`](https://www.ft.lk/business/Brandix-first-to-commit-to-UN-program-on-Gender-based-Violence-and-Women-in-Leadership/34-759500) · `en`
+
+Group Managing Director Hasitha Premaratne (centre) signs Brandix’s commitment to the United Nations program on Gender-based Violence and Women in Leadership, flanked by Chief People Officer Sahad Mukthar (right) and Senior General Manager Corporate Finance Nishani Aponso
+
+Apparel giant Brandix, has become the first private sector entity from Sri Lanka to commit to the United Nations program on Gender-based Violence and Women in Leadership and has been recognised as a leading Achiever by the United Nations Women’s Empowerment Principles (WEP) Gender Gap Analysis survey.
+
+Brandix said it continues to lead efforts to inspire and empower women across all walks and leads the way by converting policy into practice. At Brandix 80% of the Group’s workforce consists of women, and its facility in India is recognised as the single largest employer of women in the country.
+
+...
+
+[Data](articles/976ddc48.json)
+
+---
+
+### Sri Lanka moves closer to renewable energy goals with ‘Project Apollo’
+
+*2024-03-15 05:23:12* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-moves-closer-to-renewable-energy-goals-with-Project-Apollo/34-759499) · `en`
+
+Ceylon Energy Ltd. Founder/Chairman Madusanka Fernando, CEB Chairman N. S. Ilangakoon, Minister of Power and Energy Hon. Kanchana Wijesekera
+
+...
+
+[Data](articles/32d6012d.json)
+
+---
+
+### SriLankan Airlines and Korean Air announce new codeshare partnership
+
+*2024-03-15 05:20:43* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-and-Korean-Air-announce-new-codeshare-partnership/34-759498) · `en`
+
+SriLankan Airlines and Korean Air have officially activated a new codeshare partnership effective 15 March 2024, presenting enhanced travel options and connections for customers of both airlines travelling between Colombo and Seoul.
+
+SriLankan Airlines CEO Richard Nuttall said: “We are delighted to launch our first-ever codeshare partnership with Korean Air and boost the connectivity between Colombo and Seoul. The passenger traffic between the two cities continues to exceed our expectations, and the partnership will only help us grow our presence in this route in a manner that is fast and economical for the airline and give more reasons for customers to choose SriLankan Airlines.”
+
+The new partnership enables SriLankan Airlines to codeshare on flights operated between Singapore and Seoul Incheon by Korean Air, making it possible for passengers to travel on a single, SriLankan Airlines’ ticket between Colombo and Incheon via Singapore.
+
+...
+
+[Data](articles/0d4a157d.json)
+
+---
+
+### Mujibur highlights severe governance breakdown
+
+*2024-03-15 05:19:20* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-highlights-severe-governance-breakdown/56-759497) · `en`
+
+Points out Govt. failure to enact transparency, promote good governance, combat corruption, uphold the rule of law and ensure judicial independence
+
+Says CIABOC has withdrawn at least 48 cases filed against Govt. MPs, Ministers and associates
+
+Slams President’s move to appoint two persons accused of corruption as State Ministers
+
+Stresses Govt. lacks a program to effectively combat fraud and corruption though expected by IMF
+
+Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday emphasised the significant breakdown in governance, pointing out the current Government’s failure to enact transparency, promote good governance, combat fraud and corruption, uphold the rule of law, ensure judicial independence which are essential components for effective governance.
+
+...
+
+[Data](articles/20e1002f.json)
+
+---
+
+### Semasinghe warns of stability risks without continuity in Govt. programs
+
+*2024-03-15 05:17:54* · [`dailyftlk`](https://www.ft.lk/news/Semasinghe-warns-of-stability-risks-without-continuity-in-Govt-programs/56-759496) · `en`
+
+State Minister of Finance Shehan Semasinghe yesterday underscored the criticality of continuity in Government programs to sustain the hard-earned progress made by the country.
+
+Speaking to the media at the inauguration of the swimming pool at Anuradhapura St. Joseph’s College, he highlighted the fragility of the economy’s stability should governance transition without a cohesive plan.
+
+Semasinghe warned that a leadership change lacking a clear strategy could potentially plunge the country into a deeper crisis than experienced in recent history.
+
+He stressed the imperative for future administrations to uphold and advance the ongoing development agenda to prevent such regression.
+
+Semasinghe also criticised the Opposition’s stance on negotiations with the International Monetary Fund (IMF), asserting that their avoidance of such talks signifies a lack of foresight and financial prudence.
+
+...
+
+[Data](articles/65900667.json)
+
+---
+
+### BASL expresses concern over growing vacancies in superior courts
+
+*2024-03-15 05:16:30* · [`dailyftlk`](https://www.ft.lk/news/BASL-expresses-concern-over-growing-vacancies-in-superior-courts/56-759495) · `en`
+
+The Bar Association of Sri Lanka (BASL) in a statement yesterday expressed its deep concern over the increasing number of vacancies in the Superior Courts, which has now reached a critical point that significantly hampers the functionality and the integrity of the justice system.
+
+The statement issued by BASL President Kaushalya Nawaratne PC and Secretary Isuru Balapatabendi also said the following.
+
+The recent retirement of a judge of the Supreme Court has further exacerbated the situation by creating an additional vacancy in the Supreme Court. This comes at a time when there is already an ongoing impasse between the Constitutional Council and the Executive over the appointment to fill an existing vacancy within the same court. The delay in resolving these appointments is not only undermining the efficiency of our appellate courts but also eroding public confidence in the legal system›s ability to deliver timely justice.
+
+...
+
+[Data](articles/d962b3a0.json)
+
+---
+
+### Parliament to debate no-confidence motion against Speaker on 19-20 March
+
+*2024-03-15 05:16:12* · [`dailyftlk`](https://www.ft.lk/news/Parliament-to-debate-no-confidence-motion-against-Speaker-on-19-20-March/56-759494) · `en`
+
+The motion of no confidence brought against Speaker of the House Mahinda Yapa Abeywardena is set to be debated in Parliament on the 19 and 20 March with a vote to follow.
+
+The main opposition party, Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara announced that the move was following yesterday’s party leaders’ meeting.
+
+The no-confidence motion alleges that the Speaker had ignored the Supreme Court’s recommendations pertaining to Sections 13, 17, 20, 33 (6), 34 (1), 35 (1), 21, 22 and 33 of the Online Safety Bill.
+
+Abeywardena is also accused of allowing the Third Reading of the Online Safety Bill to be passed without a vote and disregarding the Chief Opposition Whip’s call for a division at the Committee Stage.
+
+...
+
+[Data](articles/81158a2c.json)
+
+---
+
+### Applications deadline for Aswesuma phase 2 extended till 22 March
+
+*2024-03-15 05:14:37* · [`dailyftlk`](https://www.ft.lk/news/Applications-deadline-for-Aswesuma-phase-2-extended-till-22-March/56-759493) · `en`
+
+The deadline to submit applications for the second phase of the “Aswasuma” welfare benefit program has been extended from 15 to 22 March 2024.
+
+Taking to ‘X’ State Minister of Finance Shehan Semasinghe posted that 130,000 new applications have been received so far and that more applications which have been handed over physically need to be entered in the data system by the Divisional Secretariats.
+
+Families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, as earlier announced by the Welfare Benefits Board (WBB).
+
+During the second phase of ‘Aswesuma’, benefits are anticipated to be extended to 2.4 million families.
+
+◼️
+
+[Data](articles/8b99e70b.json)
+
+---
 
 ### Plantation workers can pay 1700 rupees
 
@@ -1070,6 +1274,22 @@ Sri Lanka last year awarded retail fuel licenses to three foreign firms – Chin
 
 ---
 
+### Epitome of administrative excellence
+
+*2024-03-14 18:58:00* · [`islandlk`](http://island.lk/epitome-of-administrative-excellence/) · `en`
+
+The late Ray Forbes encompassed within himself administrative excellence and profound humanity. On account of these rare qualities he endeared himself to the staff and students of the Bandaranaike Centre for International Studies (BCIS), Colombo, for well over a decade.
+
+The above sentiments were expressed with regard to the former Director of the BCIS, Ray Forbes, by every speaker who was invited to comment on his life and times at a special commomerative ceremony held at the BCIS auditorium on March 7th. The event was presided over by the Chairperson of the BCIS, former President Chandrika Bandaranaike Kumaratunga.
+
+Among the attendees at the simple but august ceremony were senior members of the BCIS management, diplomats, members of the BCIS staff, past and present, and former and present students of the BCIS.
+
+...
+
+[Data](articles/b61311ac.json)
+
+---
+
 ### HNB General Insurance partners with SampathCards to make insurance easy with 0% interest payment plans
 
 *2024-03-14 18:58:00* · [`islandlk`](http://island.lk/hnb-general-insurance-partners-with-sampathcards-to-make-insurance-easy-with-0-interest-payment-plans/) · `en`
@@ -1081,6 +1301,24 @@ Through this partnership, Sampath Bank Credit Cardholders can now enjoy the conv
 ...
 
 [Data](articles/cdd8aedc.json)
+
+[Extended Data](ext_articles/cdd8aedc.ext.json)
+
+---
+
+### ‘Port City’s new commission will have only a few boxes to tick, a lot of hard work already done’
+
+*2024-03-14 18:57:00* · [`islandlk`](http://island.lk/port-citys-new-commission-will-have-only-a-few-boxes-to-tick-a-lot-of-hard-work-already-done/) · `en`
+
+Saliya Wickramasuriya-Member of Colombo Port City Economic Commission said in Colombo on Wednesday that the new Port City Commission to be appointed at the end of the tenure of the current one would only have a few boxes to tick, in getting its work completed as a fully-fledged functional body going forward.
+
+“Up to this point, the current commission has done a lot of hard work to attract foreign investments and the new one would have to pick things up from there. But if the new members decide to start things from the beginning, the current regulatory framework would have to be changed significantly,” he said responding to a question from The Island Financial Review.
+
+He went on to say that if the new commission gets the support of the government at inter-ministerial level, the new members’ work would be quite smooth in getting the task completed.
+
+...
+
+[Data](articles/678fc39f.json)
 
 ---
 
@@ -1181,6 +1419,8 @@ President Ranil Wickremesinghe announced that an expert committee would be appoi
 ...
 
 [Data](articles/a058efe1.json)
+
+[Extended Data](ext_articles/a058efe1.ext.json)
 
 ---
 
@@ -1939,329 +2179,5 @@ The 19-year-old Sri Lankan national currently sits in Ottawa’s Innes Road jail
 [Data](articles/c5c03f22.json)
 
 [Extended Data](ext_articles/c5c03f22.ext.json)
-
----
-
-### “The mobile phone in Pakistan in Sri Lanka
-
-*2024-03-14 15:33:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இலங்கையில்-நடந்தது-பாகிஸ்தானிலும்-நடக்கும்/50-334672) · `ta`
-
-Imran Khan predicts a new wave of inflation in Pakistan, leading to street protests, similar to Sri Lanka. Despite no majority in the recent election, Nawaz Sharif and Bhutto's party form an alliance, with Shebas Sharif as PM and Asif Ali Zardari as President. Khan claims his predictions about the PTI's expulsion in the 2024 election are true, blaming voters for the change not being accepted.
-
-🟩
-
-“When the new wave of inflation emerges, people will fight the streets of the country;As well as in Sri Lanka, Pakistan will happen in Pakistan, ”former Pakistani Prime Minister Imran Khan said.
-
-No one got a majority in the recent general election for Pakistan Parliament. However, the supporters of Imran Khan, the former prime minister and the leader of the Tehreek-e-Insaf Party (PTI), are in considerable members who contested independently.
-
-Subsequently, Nawaz Sharif and Bhutto's party formed an alliance and took over. Shebas Sharif as Pakistani Prime Minister and Asif Ali Zardari was elected as the President.
-
-Imran Khan told reporters at Adiyala Prison in Rawalpindi:
-
-All my predictions have been proven to be true. In the 2024 general election, the PTI party was deliberately expelled. But voters blamed for this day. However, that change has not been accepted.
-
-...
-
-[Data](articles/d3a56e9c.json)
-
-[Extended Data](ext_articles/d3a56e9c.ext.json)
-
----
-
-### Foreen Keheliya and 4 including Keheliya rejects bail too
-
-*2024-03-14 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194505) · `si`
-
-The Court rejected bail for Keheliya Rambukwella, former Health Minister, and four others until the end of their case.
-
-🟩
-
-The Court today (14) the Court rejected the bail until the end of the injection case against former Minister of Health Keheliya Rambukwella and former Ministry Secretaries.
-
-The Maligakanda Magistrate's Court has ordered to be remanded until the bail of former Minister of Health, Keheliya Rambukwella, former Health Ministry Secretary and four other suspects.
-
-The bail requests have been identified as the Court today (14).
-
-◼️
-
-[Data](articles/d5bfec54.json)
-
-[Extended Data](ext_articles/d5bfec54.ext.json)
-
----
-
-### The International Olympic Committee Award for Jayanthi reaching Everest
-
-*2024-03-14 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178723) · `ta`
-
-Jayanthi Guru Utumbala, the first Sri Lankan to climb Everest, won the 2023 Asian Award for Gender Equality, Diversity, and Control from the International Olympic Committee. She's celebrated for promoting gender equality in sports and has been active in combating gender-based violence.
-
-🟩
-
-Jayanthi Guru Utumbala, the first Sri Lankan to reach the peak of Mount Everest, has won the 2023 Asian Award for the Gender Equality, Diversity and Control Championships of the International Olympic Committee.
-
-The International Olympic Group is awarded the Annual Award to honor those who have made the best contribution to promoting gender equality, diversity and content through sports and sports.
-
-Launched in 2000, this year was called the Women and Sports Award until 2021. This was later renamed as Gender Equality, Diversity and Gedi Champions Awards.
-
-There are 6 awards annually to one person from the continents of Asia, Africa, Europe, the United States and Osiania.
-
-In 2016, Jayanthi was the first Sri Lankan to reach the peak of Mount Everest.
-
-Jayanthi, who has more than 20 years of experience in Malayat, has a long -term experience in women's rights.
-
-She is a Diploma in Women's Education and a Mudumani Degree in Gender Studies.
-
-...
-
-[Data](articles/1a02ac58.json)
-
-[Extended Data](ext_articles/1a02ac58.ext.json)
-
----
-
-### Texas man who lived seven decades in iron lung dies at age 78
-
-*2024-03-14 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/97949/texas-man-who-lived-seven-decades-in-iron-lung-dies-at-age-78) · `en`
-
-Confined to an iron lung after contracting polio as a child, Paul Alexander managed to train himself to breathe on his own for part of the day, earned a law degree, wrote a book about his life, built a big following on social media and inspired people around the globe with his positive outlook.
-
-Alexander died Monday at the age of 78 at a Dallas hospital, said Daniel Spinks, a longtime friend. He said Alexander had recently been hospitalized after being diagnosed with COVID-19 but he did not know the cause of death.
-
-Alexander contracted polio in 1952, when he was 6. He became paralyzed from the neck down and he began using an iron lung, a cylinder that encased his body as the air pressure in the chamber forced air into and out of his lungs. He had millions of views on his TikTok account.
-
-“He loved to laugh,” Spinks said. “He was just one of the bright stars of this world.”
-
-...
-
-[Data](articles/5ad35af5.json)
-
-[Extended Data](ext_articles/5ad35af5.ext.json)
-
----
-
-### “It is good for the IMF team to know what the NPP government will do
-
-*2024-03-14 15:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கம்-என்ன-செய்யும்-என்பதை-IMF-குழு-அறிந்திருப்பது-நல்லது/175-334671) · `ta`
-
-NPP Parliamentarian Vijitha Herath said the NPP will amend the IMF Agreement to address adverse conditions, eliminate harmful proposals like excessive taxes, and seek a decree to protect the people.
-
-🟩
-
-NPP Parliamentarian Vijitha Herath today said that the National People's Power (NPP) order will be asked to continue the International Monetary Fund Agreement by amendments to the people's adverse conditions.
-
-He said at a media briefing that the NPP delegation met with IMF representatives this morning and explained to them the NP's position on the contract.
-
-He said the NPP would go to the people and demand a decree to eliminate harmful proposals such as excessive taxes, goods and services and sale of state assets.
-
-The MP has explained to the representatives of the International Monetary Fund on the steps to be taken on the International Monetary Fund Agreement.
-
-"It is good for the IMF to know what the NPP government will do," he said.
-
-◼️
-
-[Data](articles/4e0f14a0.json)
-
-[Extended Data](ext_articles/4e0f14a0.ext.json)
-
----
-
-### Japan’s same-sex marriage bar is unconstitutional, high court says
-
-*2024-03-14 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-same-sex-marriage-bar-is-unconstitutional-high-court-says/108-278856) · `en`
-
-TOKYO, March 14 (Reuters) - Japan's bar on same-sex marriage is unconstitutional, the high court in the northern city of Sapporo said on Thursday, the first such ruling by an appeals court on a matter that has divided the lower levels of the judiciary.
-
-Japan is the only Group of Seven nation without legal protection for same-sex unions. Although backed by 70% of the public, they are opposed by the conservative Liberal Democratic Party of Prime Minister Fumio Kishida.
-
-Japanese civil code rules that limit marriage to those of opposite sexes are "unconstitutional" and "discriminatory", the Sapporo High Court said in its ruling, but dismissed the plaintiffs' claim for damages from the government.
-
-"Enacting same-sex marriage does not seem to cause disadvantages or harmful effects," the court said.
-
-"I thought the ruling might be a conservative one, but it ended up exceeding my expectations," one plaintiff, who did not disclose his name, told reporters after the ruling. "I couldn't help but cry."
-
-...
-
-[Data](articles/3fa223b3.json)
-
-[Extended Data](ext_articles/3fa223b3.ext.json)
-
----
-
-### Japan’s same-sex marriage bar is unconstitutional, high court says
-
-*2024-03-14 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Japans-same-sex-marriage-bar-is-unconstitutional-high-court-says/107-278856) · `en`
-
-TOKYO, March 14 (Reuters) - Japan's bar on same-sex marriage is unconstitutional, the high court in the northern city of Sapporo said on Thursday, the first such ruling by an appeals court on a matter that has divided the lower levels of the judiciary.
-
-Japan is the only Group of Seven nation without legal protection for same-sex unions. Although backed by 70% of the public, they are opposed by the conservative Liberal Democratic Party of Prime Minister Fumio Kishida.
-
-Japanese civil code rules that limit marriage to those of opposite sexes are "unconstitutional" and "discriminatory", the Sapporo High Court said in its ruling, but dismissed the plaintiffs' claim for damages from the government.
-
-"Enacting same-sex marriage does not seem to cause disadvantages or harmful effects," the court said.
-
-"I thought the ruling might be a conservative one, but it ended up exceeding my expectations," one plaintiff, who did not disclose his name, told reporters after the ruling. "I couldn't help but cry."
-
-...
-
-[Data](articles/5c741f83.json)
-
-[Extended Data](ext_articles/5c741f83.ext.json)
-
----
-
-### Resolution to carry out the union struggle
-
-*2024-03-14 15:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-போராட்டத்தை-முன்னெடுக்க-தீர்மானம்/175-334670) · `ta`
-
-The Sri Lanka Railway Principals Association (SLRSMU) plans a surprise trade union protest at 4 pm today against the uninformed seat booking system. A discussion with the Ministry of Transport's Secretary is scheduled for 2.30 pm.
-
-🟩
-
-The Sri Lanka Railway Principals Association (SLRSMU) has decided to carry out a sudden trade union protest at 4 pm today, protesting against the seat booking system that has been implemented without any information to the railway principals.
-
-The General Secretary of the Association said that a discussion will be held with the Secretary of the Ministry of Transport at 2.30 pm today.
-
-◼️
-
-[Data](articles/517fb0e1.json)
-
-[Extended Data](ext_articles/517fb0e1.ext.json)
-
----
-
-### A young man who was arrested in Jaffna
-
-*2024-03-14 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178722) · `ta`
-
-A 19-year-old in Jaffna was arrested, sentenced to 50,000 rupees and 9 months in prison for charges related to Kopay police division.
-
-🟩
-
-A 19 -year -old youth who was arrested in Jaffna has been sentenced to 50 thousand rupees and imprisonment.
-
-The youth was arrested on Wednesday at the Jaffna Magistrate's Court after the youth was arrested in connection with the Kopay police division.
-
-During the court hearing, the youth was sentenced to 50 thousand rupees and a 9 -month imprisonment after the youth accepted the charge.
-
-It is noteworthy that the young man was arrested and prosecuted by the court.
-
-◼️
-
-[Data](articles/0bef53c1.json)
-
-[Extended Data](ext_articles/0bef53c1.ext.json)
-
----
-
-### Fasting that continues for the third day;Attorneys visited
-
-*2024-03-14 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178721) · `ta`
-
-Arrested individuals engaged in Shivaratri rituals are on a hunger strike for justice, visited by lawyers. Vavuniya Justice ordered detention until 19th, and they are in Vavuniya Explanation Prison. The strike, which began yesterday, is on its third day. Among the eight, the temple, Thamikamarasa, Thamizhelvan, T. Kindiyan, S. Thavapalasingham, and Vinayagamoorthy are fasting. Despite this, they will eat food as usual, and Vavuniya lawyers Consius and Dilipkan confirmed their fasting.
-
-🟩
-
-The hunger strike of those arrested and imprisoned while engaged in Shivaratri rituals. They were visited by some Vavuniya lawyers today (14).
-
-The Vavuniya Justice of Vavuniya yesterday issued an order to be kept in detention till the 19th of this month.
-
-Subsequently they were imprisoned at the Vavuniya Explanation Prison. In this case, they are engaged in a hunger strike to provide their justice.
-
-The hunger strike, which began yesterday, continues for the third day.
-
-Among the eight of the arrested, the temple, the temple, the Thamikamarasa and the Thamizhelvan, T. Kindiyan, S. Thavapalasingham and Vinayagamoorthy have launched a hunger strike.
-
-At the same time, the Department of Prisons was informed yesterday that they would eat food as usual.
-
-Following this, Vavuniya lawyers Consius and Dilipkan visited the prison today. They had confirmed that they were fasting.
-
-◼️
-
-[Data](articles/f6bdaf40.json)
-
-[Extended Data](ext_articles/f6bdaf40.ext.json)
-
----
-
-### Sri Lanka consumer confidence improves in February: survey
-
-*2024-03-14 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-improves-in-february-survey-154645/) · `en`
-
-ECONOMYNEXT — All indices of consumer confidence run by the Institute for Health Policy (IHP), an independent research institute in Sri Lanka, improved in February.
-
-The institute said in a statement its Index of Consumer Sentiment (ICS), the broadest measure of the public’s view of their personal economic status and the national economy gained 6 points to 22 points. The Index of Consumer Expectations (ICE), which tracks future perceptions increased 7 points to 28 points. The Index of Current Conditions (ICC), a measure of perceptions of current conditions, also increased 4 points to 13 points.
-
-“Indices were boosted by a recovery in public expectations of the country’s situation in the next 12 months and the recovery of buying conditions,” the IHP said.
-
-All IHP Sri Lanka Opinion Tracker Survey (SLOTS) consumer confidence indices range from zero to a potential maximum of 100, with levels below 50 indicating net pessimism.
-
-...
-
-[Data](articles/8cf75564.json)
-
-[Extended Data](ext_articles/8cf75564.ext.json)
-
----
-
-### Forty murder of shocked
-
-*2024-03-14 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194504) · `si`
-
-In Palanayal, a couple was abducted by a group, leading to the arrest of five suspects. The Wadukkotte police are investigating. The couple was attacked near Ponna Mala Junction, and the victim died after being injured.
-
-🟩
-
-Five persons have been arrested on suspicion of abducting a couple abducted by a group of persons who were abducted by a group of people in Palanayal junction.
-
-The Wadukkotte police have commenced further investigations with the suspects to the Mallakam Court.
-
-The man was abducted by a group of people in Kadukkotte, Kadukkotte, Kadukkotte and a group of people had been abducted and killed by sharp weapons.
-
-When the deceased and his wife was traveling with a motorcycle, a group of resentment with the deceased was near a car near Ponna Mala Junction.
-
-The deceased has been turned to the motorbike and has been driven to the Navy checkpoint.
-
-They came after them and had been abducted with the deceased and his wife with the motorcycle, and later laid at Sitthiki Junction.
-
-The victim was later seriously injured and later died on admission to the Jaffna hospital.
-
-◼️
-
-[Data](articles/0a5afe35.json)
-
-[Extended Data](ext_articles/0a5afe35.ext.json)
-
----
-
-### Father kills son, daughter in Ampara
-
-*2024-03-14 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Father-kills-son-daughter-in-Ampara/108-278855) · `en`
-
-Ampara, March 14 (Daily Mirror)- A father has hacked to death his 29 year-old son and a 14 year-old girl in the Periyaneelavanai area in Ampara this morning.
-
-The father had attempted to commit suicide by slitting his neck with a sharp weapon which he had used to kill his son and daughter.
-
-He was admitted in a critical condition to the Kalmunai Hospital.
-
-◼️
-
-[Data](articles/0fb4b8e3.json)
-
-[Extended Data](ext_articles/0fb4b8e3.ext.json)
-
----
-
-### Converting vehicles to EV
-
-*2024-03-14 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Converting-vehicles-to-EV/110-278854) · `en`
-
-A programme was held by Vega Innovations to convert fuel-burning vehicles, including three-wheelers, to electric at the eShift Charging Station in Colombo 7. Transport Minister Bandula Gunawardana participated in the event. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/6c0af7a8.json)
-
-[Extended Data](ext_articles/6c0af7a8.ext.json)
 
 ---

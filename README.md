@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 08:33:39**
+As of **2024-03-15 08:52:04**
 
 ## Newspaper Stats
 
-*Scraped **13,022** Articles*
+*Scraped **13,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 695
 islandlk | 711
 adalk | 1,119
 adaderanalk | 1,565
-tamilmirrorlk | 1,582
+tamilmirrorlk | 1,583
 virakesarilk | 1,806
 dailymirrorlk | 1,992
-adaderanasinhalalk | 2,053
+adaderanasinhalalk | 2,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,017 (100.0%) of 13,022 articles have been extended.
+13,022 (100.0%) of 13,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### පොලිස් අණ නොතකා ධාවනය වූ ටිපර් රථය ගැන තවත් තොරතුරු
+
+*2024-03-15 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194528) · `si`
+
+පොලීසි දෙකකින් නතර කරගැනීමට නොහැකි වූ ටිපර් රථයක් ඊයේ (14) ඔඩ්ඩුසුඩාන් පොලිස් නිලධාරීන් වෙඩිතබා නතර කරගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/d0fea1e0.json)
+
+---
+
+### බෝතල් කටුවකින් කපා කාන්තාවක් ඝාතනය කරයි
+
+*2024-03-15 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194527) · `si`
+
+කුලී කාමරයක් තුළ තිබී ඝාතනය කරන ලද කාන්තා මළසිරුරක් සොයාගෙන ඇත.
+
+පොලීසිය සඳහන් කළේ සීදූව මුතුවාඩිය ප්‍රදේශයේ කාමරයක් තුළ 26 හැවිරිදි තරුණ කාන්තා සිරුරක් මෙලෙස සොයාගත් බවය.
+
+අනියම් පුරුෂයා සමග ඊයේ (14) රාත්‍රියේ ඇතිවූ ආරවුලක් හේතුවෙන් අනියම් පුරුෂයා විසින් ඇයගේ ගෙල බෝතල් කටුවකින් කපා ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී පොලීසියට අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/ba6dfd3c.json)
+
+---
 
 ### Suspect's suspect remanded again
 
@@ -252,6 +280,8 @@ As Sri Lanka grapples with a severe economic crisis, the need for a transformati
 
 [Data](articles/d72477f2.json)
 
+[Extended Data](ext_articles/d72477f2.ext.json)
+
 ---
 
 ### Wages of sin latest addition to never ending fiascos at CBSL
@@ -265,6 +295,8 @@ At a time when millions of hard-working heads of ordinary families and parents a
 ...
 
 [Data](articles/b945da1d.json)
+
+[Extended Data](ext_articles/b945da1d.ext.json)
 
 ---
 
@@ -518,35 +550,65 @@ The ‘tax expenditure’ is based on a 24 percent rate for the first nine month
 
 ---
 
-### ’மக்கள் போராட்டத்தின் எதிரொலி’ நூல் ஜனாதிபதியிடம் கையளிப்பு
+### நெல் கொள்வனவிற்காக நிதி ஒதுக்கீடு
+
+*2024-03-15 03:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-கொள்வனவிற்காக-நிதி-ஒதுக்கீடு/175-334695) · `ta`
+
+நெல் கொள்வனவிற்காக 50 கோடி ரூபா நிதியை ஒதுக்க ஜனாதிபதி ரணில் விக்கிரமசிங்க இணக்கம் தெரிவித்துள்ளார்.
+
+இதனடிப்படையில், இன்று முதல் அனைத்து மாவட்டங்களிலும் இரு நெற்களஞ்சியசாலைகளிலிருந்து நெல் கொள்வனவு செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+
+நெல் கொள்வனவிற்காக 2 பில்லியன் ரூபாவை வழங்குமாறு நிதியமைச்சிடம் கோரிக்கை விடுக்கப்பட்டிருந்தாலும் அவர்களிடமிருந்து ஆக்கபூர்வமான பதில் எதுவும் வழங்கப்படவில்லையென விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்திருந்தார்.
+
+இந்த விடயத்தில் ஜனாதிபதி நேரடியாக தொடர்புபட்டதாகவும் இதற்கமைவாகவே 50 கோடி ரூபா நிதியை ஒதுக்கீடு செய்ய தீர்மானித்ததாகவும் விவசாய அமைச்சர் குறிப்பிட்டார். (a)
+
+◼️
+
+[Data](articles/4f0c5173.json)
+
+---
+
+### The echo of the popular struggle is handed over to the President
 
 *2024-03-15 03:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-போராட்டத்தின்-எதிரொலி-நூல்-ஜனாதிபதியிடம்-கையளிப்பு/175-334694) · `ta`
 
-நாரஹேன்பிட்டி அபயாராமாதிபதி, மேல் மாகாண பிரதம சங்கநாயக்க தேரரும் கொழும்பு பல்கலைக்கழகத்தின் வேந்தருமான வண. கலாநிதி முருத்தெட்டுவே ஆனந்த தேரரால் எழுதப்பட்ட 'மக்கள் போராட்டத்தின் எதிரொலிகள்' (ஜனஅரகலயே தோங்காரய) எனும் நூல் நேற்றுப் பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது.
+President Ranil Wickremesinghe received a summary of the struggle from Narahenpitti Abayaramabadi, Sanganayaka Thera, and Venusal of Colombo University. Ananda Thera's story highlighted the disappearance of Sinhala medicine and the Geneva crisis.
 
-இதற்கு முன்னர் முருத்தெட்டுவே ஆனந்த தேரர், ‘இடைவிடாத போராட்டத்தின் உண்மைக் கதை’, ‘சிங்கள மருத்துவத்தின் மறைவு’, ‘நைடிங்கேள் குணாதிசயம்’, ‘ஜெனிவா நெருக்கடியின் எதிரொலிகள்’, ‘ரன் ஹிய’ மற்றும் ‘இருளுக்கு வெளியே’ ஆகிய நூல்களையும் வெளியிட்டுள்ளார்.
+🟩
 
-கெடமான்னே குணானந்த தேரர், பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோரும் இந்நூல் கையளிக்கும் நிகழ்வில் கலந்துகொண்டனர். (a)
+Narahenpitti Abayaramabadi, Western Province Chief Sanganayaka Thera and Venusal of Colombo University. President Ranil Wickremesinghe was handed over to President Ranil Wickremesinghe at the Presidential Office yesterday afternoon.
+
+Earlier, Ananda Thera had published a true story of the relentless struggle, the disappearance of Sinhala medicine, the nightmaking character, the echoes of the Geneva crisis, the run -hearted and the outside of the darkness.
+
+Ketamanne Gunananda Thera, Member of Parliament Vajira Abeywardena and President's Secretary Saman Ekanayake also participated in the event.. (A)
 
 ◼️
 
 [Data](articles/63a82d7d.json)
 
+[Extended Data](ext_articles/63a82d7d.ext.json)
+
 ---
 
-### நிர்மாணத்துறை பிரச்சினைகளைத் தீர்க்க நிபுணர் குழு
+### Expert Panel to solve construction issues
 
 *2024-03-15 03:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணத்துறை-பிரச்சினைகளைத்-தீர்க்க-நிபுணர்-குழு/175-334693) · `ta`
 
-நிர்மாணத் துறையில் ஏற்பட்டுள்ள பிரச்சினைகளை உரிய முறையில் ஆராய்ந்து தற்போதைய பொருளாதார நிலைமையில் அப்பிரச்சினைகளுக்கு வழங்கக்கூடிய தீர்வுகளைக் கண்டறிந்து அறிக்கை சமர்ப்பிக்க நிபுணர் குழுவொன்று நியமிக்க இருப்பதாக ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+Expert panel to address construction issues, appointed by President Ranil Wickremesinghe, with input from Ministry of Finance, Urban Development, and Housing Ministry.
 
-நிர்மாணத்துறையில் உள்ள கைத்தொழில்துறையினருடன் ஜனாதிபதி அலுவலகத்தில் நேற்று முன்தினம் நடைபெற்ற கலந்துரையாடலில் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+🟩
 
-நிதி அமைச்சு, நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சு என்பவற்றின் செயலாளர்களை உள்ளடக்கி, துறைசார் நிபுணர்களைக் கொண்ட இந்த நிபுணர் குழுவை நியமிக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி குறிப்பிட்டார். (a)
+Ranil Wickremesinghe said that a panel of experts will be appointed to submit a report to the issues that can be addressed in the current economic situation and submit a report.
+
+President Ranil Wickremesinghe made this statement at a discussion held at the Presidential Office yesterday with the industrial sector in the construction industry.
+
+The President also stated that the Ministry of Finance, Urban Development and Housing Ministry will take steps to appoint this panel of experts with departmental experts.. (A)
 
 ◼️
 
 [Data](articles/360e1fb1.json)
+
+[Extended Data](ext_articles/360e1fb1.ext.json)
 
 ---
 
@@ -1326,19 +1388,25 @@ They have been working directly and through our party members in the war -affect
 
 ---
 
-### ආනයනික භාණ්ඩ කිහිපයක මිල පහළට
+### Prices of several imported goods down
 
 *2024-03-14 20:13:48* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-භාණ්ඩ-කිහිපයක-මිල-පහළට/11-408622) · `si`
 
-ආනයනික සුදු සීනි ,පරිප්පු, තිරිඟු පිටි තොග  මිල අඩු කර ඇතැයි අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ආනයනකරුවෝ පවසති . ඒ අනුව  සුදු සීනි කිලෝවක තොග මිල රුපියල් 300 සිට 265 දක්වා ද , තිරිඟු පිටි කිලෝවක් රුපියල් 190 සිට 175 දක්වා සහ පරිප්පු  කිලෝවක් රුපියල් 350 සිට 285 දක්වාද  අඩුකර ඇතැයි ඔවුහු පවසති  .
+Prices of imported goods like white sugar, dhal, and wheat flour have decreased, with white sugar now at Rs. 300 per kilo. Importers claim to have enough supply for consumers. Some supermarkets and retail stores reported price reductions.
 
-මේ වන විට අවශ්‍ය තරම් සුදු සීනි, තිරිඟු පිටි සහ පරිප්පු තොග තමන් සතුව පවතින බවත්, එළඹෙන උත්සව සමයේදී පාරිභෝගික ජනතාවට කිසිදු බාධකයකින් තොරව එම අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය මිලදී ගැනීමට හැකි බවත්  ආනයනකරුවෝ  කියා සිටිති  .
+🟩
 
-මේ අතර   සුදු සීනි , පරිප්පු සහ තිරිඟු පිටි තොග මිල අඩුවී තිබුණද ඇතැම් සුපිරි වෙළෙඳසැල්වල සහ සිල්ලර වෙළඳසැල්වල එම භාණ්ඩවල මිල අඩුවී නැතැයිද වාර්තාවේ  .
+Essential food items say that the imported white sugar, dhal, wheat flour have been reduced. Accordingly, the bulk price of a kilo of white sugar has been reduced to Rs. 300 to Rs.
+
+The importers say they have enough white sugar, wheat flour and lentils as much as the consumers in the coming season.
+
+Meanwhile, it is reported that the prices of white sugar, dhal and wheat flour were reduced but some supermarkets and retail stores were reported.
 
 ◼️
 
 [Data](articles/f75de5eb.json)
+
+[Extended Data](ext_articles/f75de5eb.ext.json)
 
 ---
 
@@ -2047,63 +2115,5 @@ Wickremesinghe also emphasized the inclusion of experts from the Ministry of Fin
 [Data](articles/6ffa3845.json)
 
 [Extended Data](ext_articles/6ffa3845.ext.json)
-
----
-
-### The case is not bailed to the case
-
-*2024-03-14 17:07:43* · [`adalk`](https://www.ada.lk/breaking_news/නඩුව-අවසන්-වනතෙක්-කෙහෙළියට-ඇප-නෑ/11-408617) · `si`
-
-The Maligakanda Magistrate's Court remanded the bail of the Secretary to the Secretary of former Health Minister Keheliya Rambukwella and four others, setting the case for March 28.
-
-🟩
-
-The Maligakanda Magistrate's Court today has been remanded to remand the bail of the Secretary to the Secretary of former Health Minister Keheliya Rambukwella, former Health Ministry Secretary and four other suspects.
-
-The Maligakanda Magistrate's Court has ordered that the case will be taken up on March 28.
-
-◼️
-
-[Data](articles/ee939bab.json)
-
-[Extended Data](ext_articles/ee939bab.ext.json)
-
----
-
-### Court refuses bail for Keheliya
-
-*2024-03-14 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-refuses-bail-for-Keheliya/108-278862) · `en`
-
-Colombo, March 14 (Daily Mirror) -  The Maligakanda Magistrate’s Court today rejected the bail applications filed on behalf of former Health Minister Keheliya Rambukwella and five others in connection with the alleged import of substandard Immunoglobulin injections.
-
-◼️
-
-[Data](articles/1b8df8c2.json)
-
-[Extended Data](ext_articles/1b8df8c2.ext.json)
-
----
-
-### 7 -year -old girl abuse in the game
-
-*2024-03-14 17:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/விளையாட்டில்-தோற்ற-7-வயதுச்-சிறுமி-துஷ்பிரயோகம்/73-334675) · `ta`
-
-A 7-year-old girl was sexually abused in Batticaloa. The accused, including a 18-year-old man, were released on bail. The victim's mother reported the abuse, leading to the arrest of five individuals.
-
-🟩
-
-The Valaichenai Magistrate's Court on Wednesday (13) ordered that a 7 -year -old girl in the Batticaloa - Vaharakarai raped a 7 -year -old girl was released on bail of four children, including four children, and a 18 -year -old man was remanded until the 27th of this month.
-
-A mother who lost her husband in the Vaharai police division has left her 7 -year -old girl at home and goes to work every day.
-
-Initial investigations by the police revealed that a young man was informed by the girl's mother, who had been sexually abused by the girl, who had been sexually abused by the girl, who had been sexually abused by the girl.
-
-The victim's mother then appealed to the police and arrested five persons, including an 11 -year -old man, a 14 -year -old and a 15 -year -old man, on Wednesday (13).
-
-...
-
-[Data](articles/a8ca637f.json)
-
-[Extended Data](ext_articles/a8ca637f.ext.json)
 
 ---

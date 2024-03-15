@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 21:03:08**
+As of **2024-03-15 21:18:08**
 
 ## Newspaper Stats
 
-*Scraped **13,133** Articles*
+*Scraped **13,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,128
-adaderanalk | 1,582
+adaderanalk | 1,583
 tamilmirrorlk | 1,599
-virakesarilk | 1,824
-dailymirrorlk | 2,009
+virakesarilk | 1,826
+dailymirrorlk | 2,010
 adaderanasinhalalk | 2,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,131 (100.0%) of 13,133 articles have been extended.
+13,133 (100.0%) of 13,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### SC delays verdict on petitions against recommendations of PCoI on political victimisation
+
+*2024-03-15 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97984/sc-delays-verdict-on-petitions-against-recommendations-of-pcoi-on-political-victimisation) · `en`
+
+The Supreme Court on Friday (15) concluded the hearing of petitions seeking the annulment of recommendations and findings of the Presidential Commission of Inquiry (PCoI) appointed by former President Gotabaya Rajapaksa to investigate alleged incidents of political victimisation.
+
+Despite concluding the hearing, however, the Supreme Court deferred announcing its decision.
+
+The petitions were filed by President’s Secretary Saman Ekanayake, former Navy Commander Travis Sinniah, former High Court Judge Padmini Ranawaka, and others.
+
+◼️
+
+[Data](articles/38aa5b1f.json)
+
+---
 
 ### Public funeral for Ottawa mass killing victims on Sunday
 
@@ -54,19 +70,99 @@ There was one survivor — Dhanushka Wickramasinghe, who was injured with an edg
 
 [Data](articles/332f467c.json)
 
+[Extended Data](ext_articles/332f467c.ext.json)
+
 ---
 
-### குடிநீர் இல்லையென்றால் 117 க்கு அழைக்கவும்
+### Minister orders inquiry into male zebra’s death at Dehiwala Zoo
+
+*2024-03-15 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-orders-inquiry-into-male-zebras-death-at-Dehiwala-Zoo/108-278950) · `en`
+
+Colombo, March 15 (Daily Mirror) -  Wildlife and Forest Conservation Minister Pavithra Wanniarachchi has ordered an inquiry into the unexpected death of the only male zebra at the National Zoological Garden in Dehiwala.
+
+It was reported that the zebra died while being brought from Ridiyagama Safari Park to Dehiwala Zoo for breeding purposes four days earlier.
+
+The zebra was received by the county from China via an animal exchange programme six years ago, and it was taken to the Ridiyagama Safari Park.
+
+The male zebra was brought to the Dehiwala zoo for breeding purposes, and there are only two female zebras living in the zoo.
+
+The Dehiwala Zoo employees claimed that the zebra died due to overdosing on some medicines given to it while on its way to the zoo. The employees held a protest at the Dehiwala Zoo, demanding an impartial inquiry over the sudden death of the only zebra.
+
+...
+
+[Data](articles/ac3a2373.json)
+
+---
+
+### Call 117 if there is no drinking water
 
 *2024-03-15 20:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-இல்லையென்றால்-117-க்கு-அழைக்கவும்/175-334721) · `ta`
 
-குடிநீர் தட்டுப்பாடு காணப்படும் பகுதிகளில் உள்ள மக்கள் 117 என்ற இலக்கம் ஊடாக மாவட்ட இடர் முகாமைத்துவ மத்திய நிலையத்துக்கு தகவல் வழங்க முடியும்.
+Dial 117 for water shortage info. 3,000 families in Kegalle and Kurunegala districts affected.
 
-கேகாலை மற்றும் குருநாகல் மாவட்டங்களில் சுமார் 3,000 குடும்பங்கள் குடிநீர் பிரச்சினையை எதிர்கொண்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
+
+People in the areas where drinking water shortage can be informed by the District Risk Management Center through the number 117.
+
+About 3,000 families in Kegalle and Kurunegala districts are facing a drinking water problem.
 
 ◼️
 
 [Data](articles/2f85be52.json)
+
+[Extended Data](ext_articles/2f85be52.ext.json)
+
+---
+
+### இந்தியா, இலங்கையில் கூட்டாக 2026 ரி20 உலகக் கிண்ணம்; 2024 ரி20 உலகக் கிண்ண இறுதிச் சுற்றுக்கு இருப்பு நாட்கள்
+
+*2024-03-15 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178827) · `ta`
+
+ஐசிசியினால் ஏற்கனவே தீர்மானிக்கப்பட்டவாறு 2026 ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியை இந்தியாவும் இலங்கையும் கூட்டாக நடத்தும் என்பதை ஐசிசி மீண்டும் உறுதிசெய்துள்ளது.
+
+இந்த வருடம் மேற்கிந்தியத் தீவுகளிலும் ஐக்கிய அமெரிக்காவிலும் கூட்டாக நடைபெறவுள்ள ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் முதல் எட்டு இடங்களைப் பெறும் நாடுகள், வரவேற்பு நாடுகளான இந்தியாவுடனும் இலங்கையுடனும் இயல்பாகவே 2026 ரி20 உலகக் கிண்ணப் போட்டியில் பங்குபற்ற தகுதிபெறும்.
+
+வரவேற்பு நாடுகளின் நிரல்படுத்தல்களைப் பொறுத்து இரண்டு முதல் நான்கு வரையான மற்றைய அணிகள் தீர்மானிக்கப்படும்.
+
+எஞ்சிய 8 நாடுகள் பிராந்திய தகுதிகாண் சுற்றுகள் மூலம் ரி20 உலகக் கிண்ணத்தில் இணையும்.
+
+இது இவ்வாறிருக்க, இந்த வருடம் நடைபெறவுள்ள ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண அரை இறுதி மற்றும் இறுதிப் போட்டிகளுக்கு இருப்பு (ரிசேர்வ்) நாட்கள் ஒதுக்கப்பட்டுள்ளதாக இன்றைய ஐசிசி சபைக் கூட்டத்தில் அறிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/16392a77.json)
+
+---
+
+### Jaffna in a strong position of the Hindus. Hindu: Bambalapitiya curled up to Hindu 80;Yall. Hindu 150 - 4 wig.
+
+*2024-03-15 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178824) · `ta`
+
+Bambalapitiya Hindu, in Jaffna, scored 80 in the first innings, with Muthukumar Abhishek (14), Sri Nitusan (12), Ramaraj Diljan (11), and Bala Darunjan (10) contributing. Sudarshan Subarman took 3 wickets. In reply, they lost 4 wickets and scored 150, with Krishnarajan Parasith and Jagadeesan Bhavanan sharing 69 runs.
+
+🟩
+
+Bambalapitiya Hindu - Jaffna. Jaffna Cricket in the 13th Hindus between Hindu Colleges. The Hindu team is strong.
+
+Bambalapatti, who decided to bat first in the upting match, scored just 80 runs for the loss of all wickets in its first innings.
+
+Among them, Muthukumar Abhishek scored 14 runs.
+
+Sri Nitusan scored 12 runs, Ramaraj Diljan 11 and team captain Bala Darunjan scored 10 runs. The total number of Bambalapitiya Hindu was the second highest number of the second.
+
+In the bowling, Sudarshan Subarman took 3 wickets in 14 overs, including 5 overs, Srijayanthan Hariharan took 3 wickets for 36 runs in 17 overs, while Yogalan Sarujan took 2 wickets for 3 runs in 9.1 overs.
+
+In reply, Bambalapitiya Hindu first day, at the end of the first day of the game, losing 4 wickets and scoring 150 runs.
+
+Krishnarajan Parasith and Jagadeesan Bhavanan shared 69 runs and made the outstanding start.
+
+Subsequently, Lokeswaran Priyanthan (19) and Anton Vidushan (2) were out for less.
+
+...
+
+[Data](articles/0891fc22.json)
+
+[Extended Data](ext_articles/0891fc22.ext.json)
 
 ---
 
@@ -152,6 +248,22 @@ The rupee has been strengthened by 5.6% over the US dollar in the last three mon
 
 ---
 
+### நுகர்வோரின் உரிமைகளை பாதுகாக்கும் எந்த வேலைத்திட்டமும் நுகர்வோர் அதிகாரசபையிடம் இல்லை - அசேல சம்பத் குற்றச்சாட்டு
+
+*2024-03-15 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178826) · `ta`
+
+பொருட்களின் விலை குறைக்கப்பட்டாலும் அதன் நன்மை நுகர்வோருக்குச் சென்றடைவதில்லை. இதனை சரி செய்வதற்கான எந்த வேலைத்திட்டமும் நுகர்வோர் அதிகார சபையிடம் இல்லை. அத்துடன் நுகர்வோர் அதிகாரசபைக்கு  பணிப்பாளர், தலைவர் ஒருவர் இல்லாமலே உலக நுகர்வோர் உரிமைகள் தினத்தை இன்று நாங்கள் கொண்டாடி வருவதையிட்டு வெட்கப்பட வேண்டும் என தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத் தெரிவித்தார்.
+
+உலக நுகர்வோர் உரிமைகள் தினத்தை முன்னிட்டு தேசிய நுகர்வோர் முன்னணி வெள்ளிக்கிழமை (15) கொழும்பில் ஏற்பாடு செய்திருந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+டொலரின் பெருமதி அதிகரித்திருந்தபோது பொருட்களின் விலை அதிகரிக்கப்பட்டது. தற்போது டொலரின் பெருமதி குறைந்து வருகின்றபோதும் பொருட்களின் விலை அவ்வாறே இருந்து வருகிறது. என்றாலும் இதுதொடர்பாக தேடிப்பார்த்து நுகர்வோருக்கு நிவாரணம் வழங்க   எமது நுகர்வோர் அதிகார சபைக்கு முடியாமல் போயிருக்கிறது..
+
+...
+
+[Data](articles/09e4ccd1.json)
+
+---
+
 ### Court hearing on the Commission appointed Kota
 
 *2024-03-15 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178825) · `ta`
@@ -185,38 +297,6 @@ Accordingly, the Supreme Court three-judge-bench comprising Justices Preethi Pad
 [Data](articles/7e05af06.json)
 
 [Extended Data](ext_articles/7e05af06.ext.json)
-
----
-
-### Jaffna in a strong position of the Hindus. Hindu: Bambalapitiya curled up to Hindu 80;Yall. Hindu 150 - 4 wig.
-
-*2024-03-15 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178824) · `ta`
-
-Bambalapitiya Hindu, in Jaffna, scored 80 in the first innings, with Muthukumar Abhishek (14), Sri Nitusan (12), Ramaraj Diljan (11), and Bala Darunjan (10) contributing. Sudarshan Subarman took 3 wickets. In reply, they lost 4 wickets and scored 150, with Krishnarajan Parasith and Jagadeesan Bhavanan sharing 69 runs.
-
-🟩
-
-Bambalapitiya Hindu - Jaffna. Jaffna Cricket in the 13th Hindus between Hindu Colleges. The Hindu team is strong.
-
-Bambalapatti, who decided to bat first in the upting match, scored just 80 runs for the loss of all wickets in its first innings.
-
-Among them, Muthukumar Abhishek scored 14 runs.
-
-Sri Nitusan scored 12 runs, Ramaraj Diljan 11 and team captain Bala Darunjan scored 10 runs. The total number of Bambalapitiya Hindu was the second highest number of the second.
-
-In the bowling, Sudarshan Subarman took 3 wickets in 14 overs, including 5 overs, Srijayanthan Hariharan took 3 wickets for 36 runs in 17 overs, while Yogalan Sarujan took 2 wickets for 3 runs in 9.1 overs.
-
-In reply, Bambalapitiya Hindu first day, at the end of the first day of the game, losing 4 wickets and scoring 150 runs.
-
-Krishnarajan Parasith and Jagadeesan Bhavanan shared 69 runs and made the outstanding start.
-
-Subsequently, Lokeswaran Priyanthan (19) and Anton Vidushan (2) were out for less.
-
-...
-
-[Data](articles/0891fc22.json)
-
-[Extended Data](ext_articles/0891fc22.ext.json)
 
 ---
 
@@ -2211,101 +2291,5 @@ The Sri Lanka Embassies in Yangon and Bangkok are working together closely to en
 [Data](articles/8657cf69.json)
 
 [Extended Data](ext_articles/8657cf69.ext.json)
-
----
-
-### Thailand's support to bring in Myanmar
-
-*2024-03-15 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194529) · `si`
-
-Thailand supports Myanmar in rescuing 8 Sri Lankans involved in cyber crimes, with the Foreign Minister Ali Sabri and the Minister of External Affairs discussing the issue over the phone. The Ministry of External Affairs also highlights cooperation in renewable energy and fishing.
-
-🟩
-
-The Minister of Foreign Affairs and External Affairs Minister Ali Sabri has discussed a discussion against the exemplant of Sri Lankan cyber crimes.
-
-The discussion had been held between the two sides through the telephone.
-
-In Myanmar Crimes Zone, there have been 56 Sri Lankans in the cyber cricket issue and has officially rescue 8.
-
-Foreign Minister Ali Sabri has asked the Minister of External Affairs to support them to bring them to Sri Lanka.
-
-Accordingly, the Foreign Minister has agreed to provide relevant facilities.
-
-The Ministry of External Affairs has said that foreign ministers have taken the attention of foreign ministers in the dialogue, renewable energy and fishing cooperation in the areas of renewable energy and fisheries.
-
-◼️
-
-[Data](articles/dc76b037.json)
-
-[Extended Data](ext_articles/dc76b037.ext.json)
-
----
-
-### Does the United States provide a positive return to the Sri Lankan military?- Sri Lanka Analyst Alan Keenan Review of International Crisis Monitoring Committee
-
-*2024-03-15 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178765) · `ta`
-
-Alan Keenan criticizes US for supporting Sri Lankan military, which he sees as partially responsible for regional issues. US activities, including surveillance aircraft demonstrations and cooperation on security and humanitarian aid, are highlighted. Keenan's criticism focuses on the lack of accountability.
-
-🟩
-
-Sri Lanka's Analyst Alan Keenan, Sri Lanka Analyst of the International Crisis Monitor, has criticized the US for reapping the Sri Lankan military to the Sri Lankan military, from "at least partially responsible configuration" from the issue of 'the most important partner in the Indo -Pacific Regional Marine Sea'.
-
-The US Defense Department, the US Mental Corps in Colombo and the Sri Lanka Air Force held a preview of surveillance aircraft at Ratmalana from 12 to 14 this month to further expand the Sri Lankan Sea Regional Awareness and Life.
-
-US Ambassador to Sri Lanka, Julie Sung, who has posted a post on his official X site, has stated on the US -owned aircraft during the US -owned aircraft to expand the Sri Lankan waters resource security, overcome illegal trafficking, monitor the unique economic zone and to ensure seawater security.
-
-...
-
-[Data](articles/a375e59f.json)
-
-[Extended Data](ext_articles/a375e59f.ext.json)
-
----
-
-### Sri Lanka’s Port City attracts fund manager interest
-
-*2024-03-15 08:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-port-city-attracts-fund-manager-interest-154706/) · `en`
-
-ECONOMYNEXT – Global fund managers have approached Colombo’s Port City regulators proposing to set up a fund that will finances its real estate and businesses, Saliya Wickramasuriya, a member of its regulatory commission said.
-
-The Colombo Port City to be renamed, International Financial and Technological City, is awaiting the construction of buildings (vertical development) for businesses to operate.
-
-The first half a dozen land blocks reclaimed from the sea has already been transferred to developers.In the meantime several businesses have been allowed to start operations by locating themsevelse outside the zone.
-
-A fund dedicated to investing in the zone, does not require any specific approval from the Colombo  Port City Economic Commssion.
-
-“This a vision of somebody else, but we like it,” Wickramasuriya said. “They are interested because they see the potential, and see what is required to unlock the potential.”
-
-...
-
-[Data](articles/634d58eb.json)
-
-[Extended Data](ext_articles/634d58eb.ext.json)
-
----
-
-### Suspect charged in mass killing of Sri Lankan family in protective custody
-
-*2024-03-15 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-charged-in-mass-killing-of-Sri-Lankan-family-in-protective-custody/108-278905) · `en`
-
-OTTAWA, March 15 (Canadian Press) - The 19-year-old charged with killing six people in an Ottawa suburb last week is being held in protective custody, his lawyer said Thursday.
-
-Febrio De-Zoysa was arrested March 6 and is charged with six counts of first-degree murder and one count of attempted murder.
-
-"I can comment that he's in protective custody. He's doing OK," his lawyer, Ewan Lyttle, told reporters after a brief court appearance that took place by phone.
-
-De-Zoysa's matter was adjourned until March 28 to give Lyttle time to receive and begin reviewing disclosure from the Crown, a process he suggested would take months.
-
-Police say De-Zoysa, who came to Canada as an international student, had been living with the victims, who were also newcomers from Sri Lanka.
-
-They included 35-year-old Darshani Ekanayake, her husband Dhanushka Wickramasinghe and their four children.
-
-...
-
-[Data](articles/603007c9.json)
-
-[Extended Data](ext_articles/603007c9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 17:02:56**
+As of **2024-03-15 17:17:39**
 
 ## Newspaper Stats
 
-*Scraped **13,109** Articles*
+*Scraped **13,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 1,577
 tamilmirrorlk | 1,597
 virakesarilk | 1,819
 dailymirrorlk | 2,005
-adaderanasinhalalk | 2,071
+adaderanasinhalalk | 2,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,104 (100.0%) of 13,109 articles have been extended.
+13,109 (100.0%) of 13,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### බොන්න වතුර නැත්නම් 117 අංකයට දැනුම් දෙන්න
+
+*2024-03-15 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194547) · `si`
+
+පානීය ජල ගැටලු ඇති ප්‍රදේශවල ජනතාවට වහාම 117 දුරකථන අංකය ඔස්සේ දිස්ත්‍රික් ආපදා කළමනාකරණ මධ්‍යස්ථානයට දැනුම් දෙන ලෙස ඉල්ලීමක් කරයි.
+
+◼️
+
+[Data](articles/5df39ed0.json)
+
+---
 
 ### Hamas presents ceasefire proposal detailing exchange of hostages, prisoners
 
@@ -47,6 +59,8 @@ His office said an update on the issue would be handed to the war cabinet and ex
 ...
 
 [Data](articles/7f0c1e6e.json)
+
+[Extended Data](ext_articles/7f0c1e6e.ext.json)
 
 ---
 
@@ -86,6 +100,8 @@ The stop clock rule aims to ensure the timely completion of matches by requiring
 
 [Data](articles/50db05e8.json)
 
+[Extended Data](ext_articles/50db05e8.ext.json)
+
 ---
 
 ### Suspended health trade union action to resume next week?
@@ -108,19 +124,25 @@ The trade unions representing a wide range of health sector professionals – in
 
 ---
 
-### யுக்திய நடவடிக்கையில் 944 பேர் கைது!
+### 944 arrested
 
 *2024-03-15 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178810) · `ta`
 
-யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலயத்திற்குள் பொலிஸாரால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது போதைப்பொருள் குற்றங்கள் தொடர்பில் 944  பேர் கைது செய்யப்பட்டுள்ளனர்.
+944 arrested in drug raid; suspects' assets investigated, addicts sent to rehab. Drugs seized in Western and Southern Provinces.
 
-சந்தேக நபர்களின் சொத்துக்கள் தொடர்பில்  விசாரணைகள்  மேற்கொள்ளப்படவுள்ளதாகவும்,  போதைப்பொருளுக்கு அடிமையானவர்கள்  புனர்வாழ்வு மையத்துக்கு  அனுப்பப்படவுள்ளதாகவும்  பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மேலும்,  மேல் மற்றும் தெற்கு மாகாணங்களில் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பிலும் போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளதுடன்  சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+944 people have been arrested in connection with drug offenses during a raid carried out by the police within the last 24 hours under the strategy.
+
+Investigations into the assets of the suspects will be investigated and the drug addicts will be sent to the rehabilitation center, police said.
+
+In addition, drugs have been seized and the suspects have been arrested in the surrounding surrounding of the Western and Southern Provinces, police said.
 
 ◼️
 
 [Data](articles/89a92bee.json)
+
+[Extended Data](ext_articles/89a92bee.ext.json)
 
 ---
 
@@ -139,6 +161,8 @@ Applications submitted prior to 12 p.m today will not be accepted and will not b
 ◼️
 
 [Data](articles/cbe86c33.json)
+
+[Extended Data](ext_articles/cbe86c33.ext.json)
 
 ---
 
@@ -1184,6 +1208,8 @@ Addressing a gathering organized by the United Youth Union, titled "Future of th
 
 [Data](articles/9d5688e7.json)
 
+[Extended Data](ext_articles/9d5688e7.ext.json)
+
 ---
 
 ### Vehicle prices set to increase after import resumptions next year: Importers
@@ -2207,21 +2233,5 @@ The installation captures the essence of the pervasive issue of abuse experience
 [Data](articles/177ef45e.json)
 
 [Extended Data](ext_articles/177ef45e.ext.json)
-
----
-
-### Philately cover today to mark 135th anniversary of Maliyadeva College, Kurunegala
-
-*2024-03-15 05:28:54* · [`dailyftlk`](https://www.ft.lk/news/Philately-cover-today-to-mark-135th-anniversary-of-Maliyadeva-College-Kurunegala/56-759501) · `en`
-
-The stamp and FDC issued in 1988 to celebrate centenary of Maliyadeva College
-
-In order to celebrate the 135th anniversary of Maliyadeva College, Kurunegala, a special commemorative cover (philately cover) would be issued today at the school premises. This special cover has a uniqueness to it. It would be the first of its kind to be released inside a very special book. Not only would this be of utmost value and importance to philatelists, but the book would also comprise the first day cover (FDC) issued in 1988 to commemorate the 100th anniversary of the College (in limited quantity) and the recently released cover to celebrate 100 years of scouting at the College.
-
-...
-
-[Data](articles/2d1336d2.json)
-
-[Extended Data](ext_articles/2d1336d2.ext.json)
 
 ---

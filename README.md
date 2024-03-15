@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 01:33:35**
+As of **2024-03-16 01:51:54**
 
 ## Newspaper Stats
 
@@ -83,6 +83,36 @@ In this struggle against injustice, all the Tamil people, religious organization
 [Data](articles/ff1cf292.json)
 
 [Extended Data](ext_articles/ff1cf292.ext.json)
+
+---
+
+### Trinity towards the Interesting decision - Antonian Samar
+
+*2024-03-16 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
+
+Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
+
+🟩
+
+The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
+
+Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
+
+St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
+
+Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
+
+St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
+
+However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
+
+Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
+
+...
+
+[Data](articles/0cc93c42.json)
+
+[Extended Data](ext_articles/0cc93c42.ext.json)
 
 ---
 
@@ -411,36 +441,6 @@ For ancient history we are dependent on those who recorded them, in times when l
 [Data](articles/66baa55e.json)
 
 [Extended Data](ext_articles/66baa55e.ext.json)
-
----
-
-### Trinity towards the Interesting decision - Antonian Samar
-
-*2024-03-15 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
-
-Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
-
-🟩
-
-The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
-
-Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
-
-St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
-
-Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
-
-St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
-
-However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
-
-Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
-
-...
-
-[Data](articles/0cc93c42.json)
-
-[Extended Data](ext_articles/0cc93c42.ext.json)
 
 ---
 

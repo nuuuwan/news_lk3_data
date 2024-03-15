@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 12:50:08**
+As of **2024-03-15 13:03:13**
 
 ## Newspaper Stats
 
-*Scraped **13,067** Articles*
+*Scraped **13,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,45 +18,65 @@ islandlk | 711
 adalk | 1,121
 adaderanalk | 1,571
 tamilmirrorlk | 1,592
-virakesarilk | 1,814
-dailymirrorlk | 1,997
+virakesarilk | 1,815
+dailymirrorlk | 1,998
 adaderanasinhalalk | 2,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,064 (100.0%) of 13,067 articles have been extended.
+13,067 (100.0%) of 13,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### දරුවන් දෙදෙනෙකුට මව ව අහිමි කළ ඝාතනය
+### வங்கிகளில் அமெரிக்க டொலரின் பெறுமதி 300 ரூபாவாக குறைந்தது
+
+*2024-03-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178791) · `ta`
+
+அதன்படி, இன்று வெள்ளிக்கிழமை (மார்ச் 16) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 300.6026 ஆகவும் விற்பனை விலை ரூபா 310.2053 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7d9c171a.json)
+
+---
+
+### The murder of mother lost two children
 
 *2024-03-15 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194537) · `si`
 
-සීදූව ප්‍රදේශයේ බෝඩිං කාමරයක් තුළදී 27 හැවිරිදි දෙදරු මවක් ව ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් තොරතුරු රැසක් හෙළිවී ඇති බව පොලීසිය පවසයි.
+A 27-year-old mother was murdered in Raddol, with police suspecting a 22-year-old youth involved. The suspect confessed to a friend.
 
-පොලීසිය සැක කරන්නේ, මෙම ඝාතනය සිදුකර ඇත්තේ, ඇය කලක සිට අනියම් ඇසුරක් පැවැත්වූ බවට සැකකෙරෙන 22 හැවිරිදි තරුණයෙකු විසින් බවයි.
+🟩
 
-එම ඝාතනයෙන් පසු සැකකරු සම්පූර්ණ සිද්ධිය සිය මිතුරෙකුට පාපොච්චාරණය කර ඇති බව පොලීසිය පැවසීය.
+Police say that many information has been revealed in the bodding room in Seeduwa, police said.
 
-රද්දොළුව, මුතුවාඩිය පාරේ පිහිටි එම බෝඩිං කාමරයකදී 27 හැවිරිදි දෙදරු මව ව ඝාතනය කර තිබුණේ, පෙරේදා රාත්‍රියේදී බව පොලීසිය කීය.
+The police suspect that the murder was committed by a 22 year old youth who was involved in a casual since her earlier.
 
-ඝාතනය කර තිබුණේ අනුරාධපුර, පමුගොල්ලෑව ප්‍රදේශයේ පදිංචිව සිටි දෙදරු මවක් වන දිලිනි සසිකලා ප්‍රියභාෂිනී නම් කාන්තාවකි.
+The suspect had confessed to a friend after the assassination, police said.
 
-22 හැවිරිදි තරුණයෙක් එම ඝාතනය සිදුකර ඇති බව පොලීසිය සැක කරයි.
+The 27-year-old mother of two was murdered in a boarding room on the rudden road in Raddol.
 
-එම තරුණයා සීදුවේ පිහිටි මියගිය කාන්තාව ජීවත් වූ බෝඩිං කාමරයට  අවස්ථා කිහිපයකදීම පැමිණ ඇති බවට මූලික පරීක්ෂණවලදී අනාවරණ වී තිබුණි.
+Dilini is a woman named Dilini is a woman named Dilini, a resident of Pamgollawa, Anuradhapura.
 
-ඝාතන සිද්ධියෙන් පසු බෝඩිං කාමරයට ගිය පොලිසියට නිරීක්ෂණය වී තිබුණේ, තොණ්ඩුවක් ද එම කාමරය තුළ සකසා තිබූ ආකාරයකි.
+The police suspect that a 22-year-old youth has committed the murder.
 
-ඝාතනයෙන් පසු සැකකරු ද සිය දිවි නසාගැනීමේ සූදානමක් තිබෙන්නට ඇති බව පොලීසිය සැකපළකරයි.
+Preliminary investigations have revealed that the young man had arrived at the Bedding Room, who died in the bed of the dead.
+
+After the murder, the police visited the boogon room was inspected in the room.
+
+The suspect was also planning to commit suicide after the assassination.
+
+The suspect had been exhausted in this room on the 13th and the owner of the boarding room had been seen the next morning.
 
 ...
 
 [Data](articles/dae8f64a.json)
+
+[Extended Data](ext_articles/dae8f64a.ext.json)
 
 ---
 
@@ -76,19 +96,47 @@ MP Dr. Harsha de Silva further highlighted that he had made a request in this re
 
 [Data](articles/954c6b7c.json)
 
+[Extended Data](ext_articles/954c6b7c.ext.json)
+
 ---
 
-### பெண்களின் உரிமை மீறப்படுவதை அனுமதிக்கக் கூடாது
+### 15 Indian fishermen nabbed with trawler
+
+*2024-03-15 12:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/15-Indian-fishermen-nabbed-with-trawler/108-278915) · `en`
+
+Jaffna, March 15 (Daily Mirror)- The Sri Lanka Navy has apprehended fifteen Indian fishermen along with a fishing trawler while they were poaching in Sri Lankan waters off the Kovilan Lighthouse in Karainagar early this morning.
+
+The fishermen and the trawler were brought to the Kankesanthurai Harbour and will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
+
+With this recent apprehension, the Navy has seized a total of 16 Indian poaching trawlers and 125 Indian fishermen in Sri Lankan waters in 2024, and subsequently had handed them over to authorities for legal proceedings.
+
+The Navy said they continue to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign trawlers, taking into account the impact of those practices on the livelihoods of local fishermen.
+
+◼️
+
+[Data](articles/b940f8c7.json)
+
+---
+
+### Should not be allowed to violate women's rights
 
 *2024-03-15 12:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களின்-உரிமை-மீறப்படுவதை-அனுமதிக்கக்-கூடாது/175-334709) · `ta`
 
-2019 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில், இந்நாட்டில் பெண்கள் தொடர்ச்சியாக எதிர்நோக்கும் சுகாதாரப் பிரச்சினைக்கு நிலையான தீர்வு காணப்பட வேண்டும் என்ற நிலைப்பாட்டில் ஐக்கிய மக்கள் சக்தி இருந்தது. இதன் விளைவாக, இன்று செலின் அறக்கட்டளை சுகாதார வசதிகள் இல்லாத சுகாதார வறுமையால் பாதிக்கப்பட்ட பெண்களுக்காக மிக முக்கியமானதொரு திட்டத்தை முன்வைத்துள்ளது.
+In 2019, the United People's Power addressed women's health issues, promising financial aid for those unable to afford healthcare. The Celine Foundation's program aims to provide health equipment to women, focusing on national production and economic development. Opposition Leader Sajith Premadasa highlighted the importance of protecting women's health and reducing healthcare costs. Despite women constituting 52% of the population, the program's implementation has been hindered by a male-centered social structure. The right to violate women's health rights should not be tolerated. The program, promised by the United People's Power Government, aims to tax women for healthcare, creating employment opportunities.
 
-ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் 2019 ஆம் ஆண்டு வாக்குறுதியளித்தபடி ஸ்கொட்லாந்து நியுசிலாந்து போல, நிதிப் பிரச்சினைகளால் சுகாதார தேவைகளை பூர்த்தி செய்ய முடியாத பெண்களுக்கு எமது அரசாங்கத்தின் ஊடாக இந்த சுகாதார உபகரணங்கள் வழங்கப்படும் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்
+🟩
+
+In the 2019 presidential election, the United People's Power was in the position that women were constantly resolved in the health problems faced by women in the country.. As a result, the Celine Foundation today presented a very important program for women affected by health poverty.
+
+The Opposition Leader said that the health equipment will be provided to women who are unable to meet health problems due to financial problems, as in 2019, as promised in the United People's Power Government.
+
+It is not only a welfare, but also the focus of national production, combining the objectives of promoting these production businesses, which contribute to the economic development of income and ensure the health care of women.. The Leader of the Opposition pointed out that this would protect women's health and reduce unnecessary health costs.
 
 ...
 
 [Data](articles/18e8e16c.json)
+
+[Extended Data](ext_articles/18e8e16c.ext.json)
 
 ---
 
@@ -2107,49 +2155,5 @@ The epicentre of the earthquake was off the coast of Fukushima prefecture, where
 [Data](articles/2668b8bc.json)
 
 [Extended Data](ext_articles/2668b8bc.ext.json)
-
----
-
-### Navy to probe conduct of personnel during abduction of couple in Jaffna
-
-*2024-03-14 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97963/navy-to-probe-conduct-of-personnel-during-abduction-of-couple-in-jaffna-) · `en`
-
-The Sri Lanka Navy is set to launch a comprehensive investigation into the conduct of several naval personnel during a recent incident involving the abduction of a couple near the Ponnalai Naval Post in Vaddukoddai, Jaffna.
-
-During an inquiry made by Ada Derana, Media Spokesman for the Navy Captain Gayan Wickramasuriya asserted that strict measures will be taken in the event any navy personnel are found guilty of any wrongdoing.
-
-On 11 March, a couple was violently assaulted and abducted by a group of individuals near the Ponnalai Naval Post in Vaddukoddai, Jaffna, following which the husband was found hacked to death.
-
-◼️
-
-[Data](articles/f7ca772a.json)
-
-[Extended Data](ext_articles/f7ca772a.ext.json)
-
----
-
-### Police are shocked to stop a tipper
-
-*2024-03-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194522) · `si`
-
-Police arrested a shopkeeper for allegedly shooting at officers, stopping the incident. The suspect will face charges in Mullaitivu Magistrate's Court.
-
-🟩
-
-Police have arrested the shopkeeper to arrest the shot in the police orders.
-
-The Oddusuddan Police said that the police were able to stop the shot of tipper.
-
-Police and the STF have joined the police and the STF.
-
-Police said the tipper tried to crash the police officers.
-
-The suspect is to be produced before the Mullaitivu Magistrate's Court.
-
-◼️
-
-[Data](articles/aea0e7a3.json)
-
-[Extended Data](ext_articles/aea0e7a3.ext.json)
 
 ---

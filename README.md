@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 10:03:01**
+As of **2024-03-15 10:17:46**
 
 ## Newspaper Stats
 
-*Scraped **13,038** Articles*
+*Scraped **13,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,89 @@ islandlk | 711
 adalk | 1,119
 adaderanalk | 1,567
 tamilmirrorlk | 1,585
-virakesarilk | 1,807
-dailymirrorlk | 1,994
+virakesarilk | 1,809
+dailymirrorlk | 1,995
 adaderanasinhalalk | 2,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,037 (100.0%) of 13,038 articles have been extended.
+13,038 (100.0%) of 13,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### දෙවන එක්දින ක්‍රිකට් තරගය අද
+### 15 தமிழக மீனவர்கள் கைது
+
+*2024-03-15 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178771) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 15 தமிழக மீனவர்கள் கைது செய்யப்பட்டுள்ளதுடன், ஒரு படகும் கைப்பற்றப்பட்டது.
+
+யாழ்ப்பாணம் - காரைநகர் கடற்பரப்பில் கடற்படையினர் மேற்கொண்ட சோதனை நடவடிக்கையின் போதே மீனவர்கள் இன்று வெள்ளிக்கிழமை (15) அதிகாலை கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டுள்ள இந்திய மீனவர்களை காங்கேசன்துறை கடற்படை முகாமிற்கு அழைத்துச் சென்று விசாரணைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+அதனையடுத்து, இந்திய மீனவர்களை மயிலிட்டி துறைமுகத்தில் கடற்றொழில் நீரியல் வளத்துறை திணைக்கள அதிகாரிகளிடம் ஒப்படைக்க கடற்படையினர் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/a2780311.json)
+
+---
+
+### இலங்கையில் சீனாவின்இராணுவதளம்? அமெரிக்க புலனாய்வு பிரிவினரின் தகவலை நிராகரித்தது  இலங்கை
+
+*2024-03-15 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178770) · `ta`
+
+இலங்கையில் இராணுவதளங்களை உருவாக்குவதற்கு சீனா திட்டமிடுகின்றது என அமெரிக்காவின் புலனாய்வுபிரிவுகள் வெளியிட்டுள்ள தகவலை இலங்கை நிராகரித்துள்ளது.
+
+இலங்கையின்   எல்லைக்குள் தளங்களை அமைப்பது தொடர்பில் சீனா உட்பட எந்த நாட்டுடனும் பேச்சுவார்த்தைகள் இடம்பெறவில்லை என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னக்கோன் தெரிவித்துள்ளார்.
+
+அமெரிக்காவின் புலனாய்வு அமைப்புகளின் தகவல் தவறானது இதனை நாங்கள் முற்றாக நிராகரிக்கின்றோம் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+இலங்கை தனது எல்லைக்குள் எந்த சூழ்நிலையிலும்  எந்தநாடும் தளங்களை அமைப்பதற்கு அனுமதிக்காது எனவும் அவர் தெரிவித்துள்ளார்.இலங்கை உட்பட பல நாடுகளில் இராணுவ கட்டமைப்புகளை ஏற்படுத்துவது குறித்து சீனா ஆராய்ந்து வருகின்றது என அமெரிக்க புலனாய்வு பிரிவினர் தமது சமீபத்தைய அறிக்கையில் தெரிவித்துள்ளதாக ஐஏஎன்எஸ் செய்தி வெளியிட்டுள்ளது.
+
+...
+
+[Data](articles/6c1a0f92.json)
+
+---
+
+### Signal failure delays train on main line
+
+*2024-03-15 09:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Signal-failure-delays-train-on-main-line/108-278913) · `en`
+
+Train services on the main line will be delayed due to a signal failure between Kelaniya and Hunupitiya railway stations this morning, the Railways Control Room said.
+
+◼️
+
+[Data](articles/97027228.json)
+
+---
+
+### Second ODI match today
 
 *2024-03-15 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194531) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (15) පැවැත්වීමට නියමිතව තිබේ.
+Today's 2nd ODI between Sri Lanka Tourism and Bangladesh starts at 2:00 pm. Sri Lanka aims for a different outcome, following Bangladesh's victory in the first match.
 
-චිතගොන් හි පැවැත්වෙන තරගය මෙරට වේලාවෙන් පස්වරු 2.00ට ආරම්භ වීමට නියමිතය.
+🟩
 
-අද තරගයේදී බොහෝදුරට ශ්‍රී ලංකා කණ්ඩායමේ එක් වෙනස්කමක් සිදුවනු ඇති බව පැවසෙයි.
+The second ODI match between the Sri Lanka Tourism and Bangladesh will be held today (15).
 
-දෙරට අතර පැවැති පළමු එක්දින ක්‍රිකට් තරගයෙන් කඩුළු 6ක ජයක් හිමිකරගත් බංග්ලාදේශ කණ්ඩායම තරග තුනකින් සමන්විත එක්දින තරගාවලියේ තරග 1ට 0ක් ලෙස ඉදිරියෙන් පසුවෙයි.
+The game of Chittagon will commence at 2.00 pm.
+
+It is said that the Sri Lankan team will most likely have a different difference in the match today.
+
+Bangladesh won the first one-day cricket match between the two countries in the first one-day cricket match.
 
 ◼️
 
 [Data](articles/00d76959.json)
+
+[Extended Data](ext_articles/00d76959.ext.json)
 
 ---
 
@@ -2067,65 +2121,5 @@ Through this partnership, Sampath Bank Credit Cardholders can now enjoy the conv
 [Data](articles/cdd8aedc.json)
 
 [Extended Data](ext_articles/cdd8aedc.ext.json)
-
----
-
-### ‘Port City’s new commission will have only a few boxes to tick, a lot of hard work already done’
-
-*2024-03-14 18:57:00* · [`islandlk`](http://island.lk/port-citys-new-commission-will-have-only-a-few-boxes-to-tick-a-lot-of-hard-work-already-done/) · `en`
-
-Saliya Wickramasuriya-Member of Colombo Port City Economic Commission said in Colombo on Wednesday that the new Port City Commission to be appointed at the end of the tenure of the current one would only have a few boxes to tick, in getting its work completed as a fully-fledged functional body going forward.
-
-“Up to this point, the current commission has done a lot of hard work to attract foreign investments and the new one would have to pick things up from there. But if the new members decide to start things from the beginning, the current regulatory framework would have to be changed significantly,” he said responding to a question from The Island Financial Review.
-
-He went on to say that if the new commission gets the support of the government at inter-ministerial level, the new members’ work would be quite smooth in getting the task completed.
-
-...
-
-[Data](articles/678fc39f.json)
-
-[Extended Data](ext_articles/678fc39f.ext.json)
-
----
-
-### Company and IMF. Meeting at Shanghrila Hotel
-
-*2024-03-14 18:56:45* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-හා-අයි-එම්-එෆ්--අතර-හමුවක්-ෂැංග්‍රීලා-හෝටලයේදී/11-408619) · `si`
-
-Sri Lanka's operations heads, including MP Peter Broover and representatives of the National Power, met at the Sriungila Hotel in Colombo to discuss restructuring progress and corruption. Peter Broover, representing the IMF, and other IMF officials were present. Professors and doctors from Sri Lanka also attended.
-
-🟩
-
-Sri Lanka's operations heads, head of Sri Lanka's operations, MP Peter Broover and representatives of the National Power were held at the Sriungila Hotel in Colombo.
-
-In this meeting, Sri Lankan dealers discussed progress on the progress of the restructuring and corruption of corruption and the delegates of the national propancies have been inquired about the technical assistant report.
-
-In addition to Peter Brewer representing the International Monetary Fund, Petor Brewer, the International Monetary Fund Skark, Swark, Katsiaryna Sviewka and Hygie Abeywickrama were also present.
-
-Prof. Anil Jayanthi, Professor, Seetha Bandara, Dr. Shadap Bandara and Sunil Handunnetuma and Dr. Harshana Soiyapperuma and Sunil Handunnetti were present.
-
-◼️
-
-[Data](articles/16ed222a.json)
-
-[Extended Data](ext_articles/16ed222a.ext.json)
-
----
-
-### Lanka IOC and banking sector stocks propel bourse to positive trajectory
-
-*2024-03-14 18:55:00* · [`islandlk`](http://island.lk/lanka-ioc-and-banking-sector-stocks-propel-bourse-to-positive-trajectory/) · `en`
-
-While the stock market kicked off on a positive note yesterday, it subsequently slowed down but towards the latter part of the day it bounced back due to noticeable share movements on Lanka IOC and banking sector stocks, market analysts said.
-
-During the day, LOLC Group shares were under tremendous selling pressure, which was the main reason for the market to slow down. Both indices moved upwards, though, amid a satisfactory turnover level.
-
-The All Share Price Index went up by 31 points, while S and P SL20 moved to 14.16 points. Turnover stood at Rs 1.92 billion with three crossings. Those crossings were reported in Vallibel One, which crossed 1 million shares to the tune of Rs 50 million; its shares traded at Rs 50, HNB 205,000 shares crossed for Rs 33.9 million; its shares traded at Rs 165.50 and CIC (Non- Voting) 500,000 shares crossed for Rs 25 million and its shares sold at Rs 50.
-
-...
-
-[Data](articles/18accd9f.json)
-
-[Extended Data](ext_articles/18accd9f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 09:17:59**
+As of **2024-03-15 09:33:29**
 
 ## Newspaper Stats
 
-*Scraped **13,031** Articles*
+*Scraped **13,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 147
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 681
-economynextcom | 695
+economynextcom | 697
 islandlk | 711
 adalk | 1,119
-adaderanalk | 1,566
-tamilmirrorlk | 1,583
+adaderanalk | 1,567
+tamilmirrorlk | 1,584
 virakesarilk | 1,807
 dailymirrorlk | 1,994
 adaderanasinhalalk | 2,056
@@ -26,45 +26,99 @@ adaderanasinhalalk | 2,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,026 (100.0%) of 13,031 articles have been extended.
+13,031 (100.0%) of 13,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### මියන්මාරයෙන් බේරාගත් ශ්‍රී ලාංකිකයන් ගේන්න තායිලන්තයේ සහාය
+### Thailand agrees to facilitate repatriation of Sri Lankans rescued from Myanmar cyber slave camp
+
+*2024-03-15 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97971/thailand-agrees-to-facilitate-repatriation-of-sri-lankans-rescued-from-myanmar-cyber-slave-camp) · `en`
+
+Foreign Affairs Minister Ali Sabry has requested assistance from the Deputy Prime Minister and Minister of Foreign Affairs of Thailand Parnpree Bahiddha-Nukara to facilitate the early repatriation of rescued Sri Lankan nationals currently in the Myawaddy area in Myanmar.
+
+The request was communicated during a telephone conversation that took place on Thursday morning (March 14), the Foreign Affairs Ministry said in a statement.
+
+Accordingly, the Thai Foreign Minister has agreed to facilitate the repatriation of the rescued Sri Lankans via Thailand.
+
+The ministry a total of 8 Sri Lankans who are currently under the Myanmar government protection in the Myawaddy area in Myanmar have been provided with required assistance including meals and basic necessities with the facilitation of the Embassy of Sri Lanka in Yangon.
+
+The Sri Lanka Embassies in Yangon and Bangkok are working together closely to ensure the safe and early repatriation of the Sri Lankans.
+
+...
+
+[Data](articles/8657cf69.json)
+
+---
+
+### Thailand's support to bring in Myanmar
 
 *2024-03-15 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194529) · `si`
 
-මියන්මාරයේ සයිබර් අපරාධ කලාපයෙන් බේරාගත් ශ්‍රී ලාංකිකයන් කඩිනමින් දිවයිනට ගෙන්වා ගැනීම සම්බන්ධයෙන් වූ සාකච්ඡාවක් තායිලන්ත විදේශ කටයුතු අමාත්‍යවරයා සහ මෙරට විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතීඥ  අලි සබ්රි මහතා අතර සිදුවී තිබේ.
+Thailand supports Myanmar in rescuing 8 Sri Lankans involved in cyber crimes, with the Foreign Minister Ali Sabri and the Minister of External Affairs discussing the issue over the phone. The Ministry of External Affairs also highlights cooperation in renewable energy and fishing.
 
-දුරකථන මාර්ගයෙන් දෙපාර්ශ්වය අතර මෙම සාකච්ඡාව පවත්වා ඇති බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-මියන්මාරයේ සයිබර් අපරාධ කලාපයේ ශ්‍රී ලාංකිකයන් 56 දෙනෙකු සිටින අතර ඉන් 8 දෙනෙකු බේරාගැනීමට හැකිවූ බව මියන්මාර රජය පසුගියදා නිල වශයෙන් ප්‍රකාශ කළේය.
+The Minister of Foreign Affairs and External Affairs Minister Ali Sabri has discussed a discussion against the exemplant of Sri Lankan cyber crimes.
 
-ඒ අනුව එම පිරිස ශ්‍රී ලංකාවට ගෙන්වා ගැනීම සඳහා අවශ්‍ය සහාය ලබාදෙන ලෙස විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා විසින් තායිලන්ත විදේශ කටයුතු අමාත්‍යවරයාගෙන් ඉල්ලීමක් සිදුකර ඇති බව සඳහන් ය.
+The discussion had been held between the two sides through the telephone.
 
-ඒ අනුව ඊට අදාළ පහසුකම් සැපයීමට තායිලන්ත විදේශ අමාත්‍යවරයා සිය එකඟතාව පළකර ඇති බව වාර්තා වෙයි.
+In Myanmar Crimes Zone, there have been 56 Sri Lankans in the cyber cricket issue and has officially rescue 8.
 
-තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුම, අන්‍යොන්‍ය වීසා රහිත විධිවිධාන රටවල්, පුනර්ජනනීය බලශක්ති සහ ධීවර යන ක්ෂේත්‍රවල සහයෝගීතාව ශක්තිමත් කිරීම සම්බන්ධයෙන් මෙම සංවාදයේදී විදේශ අමාත්‍යවරුන්ගේ අවධානයට ලක්වී ඇති බව විදේශ කටයුතු අමාත්‍යංශය වැඩිදුරටත් පැවසීය.
+Foreign Minister Ali Sabri has asked the Minister of External Affairs to support them to bring them to Sri Lanka.
+
+Accordingly, the Foreign Minister has agreed to provide relevant facilities.
+
+The Ministry of External Affairs has said that foreign ministers have taken the attention of foreign ministers in the dialogue, renewable energy and fishing cooperation in the areas of renewable energy and fisheries.
 
 ◼️
 
 [Data](articles/dc76b037.json)
 
+[Extended Data](ext_articles/dc76b037.ext.json)
+
 ---
 
-### இலங்கை இராணுவத்துக்கு நேர்மறை மீள்வரைவிலக்கணம் வழங்குகிறதா அமெரிக்கா? - சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் இலங்கை ஆய்வாளர் அலன் கீனன் விமர்சனம்
+### Does the United States provide a positive return to the Sri Lankan military?- Sri Lanka Analyst Alan Keenan Review of International Crisis Monitoring Committee
 
 *2024-03-15 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178765) · `ta`
 
-'குறைந்தபட்சம் பகுதியளவிலான பொறுப்புக்கூறலையேனும் உறுதிசெய்யவேண்டிய நிலையில் இருக்கும் பிரச்சினைக்குரிய கட்டமைப்பு' எனும் நிலையிலிருந்து தற்போது 'இந்திய - பசுபிக் பிராந்திய கடற்பாதுகாப்பில் மிகமுக்கிய பங்காளி' எனும் நிலையை நோக்கி அமெரிக்கா இலங்கை இராணுவத்துக்கு மீள்வரைவிலக்கணம் வழங்குவதாக சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் இலங்கை ஆய்வாளர் அலன் கீனன் விமர்சித்துள்ளார்.
+Alan Keenan criticizes US for supporting Sri Lankan military, which he sees as partially responsible for regional issues. US activities, including surveillance aircraft demonstrations and cooperation on security and humanitarian aid, are highlighted. Keenan's criticism focuses on the lack of accountability.
 
-இலங்கையின் கடற்பிராந்தியம்சார் விழிப்புணர்வு மற்றும் இயலுமையை மேலும் விரிவுபடுத்தும் நோக்கில் அமெரிக்கப் பாதுகாப்புத் திணைக்களம், கொழும்பிலுள்ள அமெரிக்கத்தூதரகம் மற்றும் இலங்கை விமானப்படை என்பன இணைந்து இம்மாதம் 12 - 14 ஆம் திகதி வரை இரத்மலானையில் அமைந்துள்ள இலங்கை விமானப்படைத்தளத்தில் கண்காணிப்பு விமானங்களின் முன்னோட்டமொன்றை நடாத்தியிருந்தன.
+🟩
+
+Sri Lanka's Analyst Alan Keenan, Sri Lanka Analyst of the International Crisis Monitor, has criticized the US for reapping the Sri Lankan military to the Sri Lankan military, from "at least partially responsible configuration" from the issue of 'the most important partner in the Indo -Pacific Regional Marine Sea'.
+
+The US Defense Department, the US Mental Corps in Colombo and the Sri Lanka Air Force held a preview of surveillance aircraft at Ratmalana from 12 to 14 this month to further expand the Sri Lankan Sea Regional Awareness and Life.
+
+US Ambassador to Sri Lanka, Julie Sung, who has posted a post on his official X site, has stated on the US -owned aircraft during the US -owned aircraft to expand the Sri Lankan waters resource security, overcome illegal trafficking, monitor the unique economic zone and to ensure seawater security.
 
 ...
 
 [Data](articles/a375e59f.json)
+
+[Extended Data](ext_articles/a375e59f.ext.json)
+
+---
+
+### Sri Lanka’s Port City attracts fund manager interest
+
+*2024-03-15 08:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-port-city-attracts-fund-manager-interest-154706/) · `en`
+
+ECONOMYNEXT – Global fund managers have approached Colombo’s Port City regulators proposing to set up a fund that will finances its real estate and businesses, Saliya Wickramasuriya, a member of its regulatory commission said.
+
+The Colombo Port City to be renamed, International Financial and Technological City, is awaiting the construction of buildings (vertical development) for businesses to operate.
+
+The first half a dozen land blocks reclaimed from the sea has already been transferred to developers.In the meantime several businesses have been allowed to start operations by locating themsevelse outside the zone.
+
+A fund dedicated to investing in the zone, does not require any specific approval from the Colombo  Port City Economic Commssion.
+
+“This a vision of somebody else, but we like it,” Wickramasuriya said. “They are interested because they see the potential, and see what is required to unlock the potential.”
+
+...
+
+[Data](articles/634d58eb.json)
 
 ---
 
@@ -88,6 +142,8 @@ They included 35-year-old Darshani Ekanayake, her husband Dhanushka Wickramasing
 
 [Data](articles/603007c9.json)
 
+[Extended Data](ext_articles/603007c9.ext.json)
+
 ---
 
 ### Sri Lanka, Indonesia launch negotiations for Preferential Trade Agreement
@@ -108,6 +164,8 @@ Balasuriya and Sambuaga said they are hopeful that the PTA negotiations would be
 
 [Data](articles/04c4db18.json)
 
+[Extended Data](ext_articles/04c4db18.ext.json)
+
 ---
 
 ### Big onion importers set price range after talks with Trade Minister
@@ -125,6 +183,8 @@ Big onion importers said Pakistan had set limits on imports of big onions. Howev
 ...
 
 [Data](articles/7b19c87d.json)
+
+[Extended Data](ext_articles/7b19c87d.ext.json)
 
 ---
 
@@ -658,6 +718,24 @@ The ‘tax expenditure’ is based on a 24 percent rate for the first nine month
 
 ---
 
+### 107 புதிய சட்டமூலங்கள் பாராளுமன்றத்தில்
+
+*2024-03-15 03:47:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/107-புதிய-சட்டமூலங்கள்-பாராளுமன்றத்தில்/175-334696) · `ta`
+
+2022 மற்றும் 2023 ஆம் ஆண்டுகளில் 107 புதிய சட்டமூலங்களை பாராளுமன்றத்தில் சமர்ப்பிக்க முடிந்ததாக நீதி மற்றும் சிறைச்சாலை விவகார இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன தெரிவித்தார்.
+
+2023 ஆம் ஆண்டில் கைதிகளின் உழைப்புடன் விவசாயம் மற்றும் கைத்தொழில் துறை மூலம் 116 மில்லியன் ரூபா வருமானத்தைப் பெற முடிந்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற செய்தியாளர் மாநாட்டில் உரையாற்றும் போதே நீதி மற்றும் சிறைச்சாலை விவகார இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன இதனைக் குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+2022 ஆம் ஆண்டு 29 புதிய சட்டமூலங்களையும், 2023 ஆம் ஆண்டு 78 புதிய சட்டமூலங்களையும் பாராளுமன்றத்தில் சமர்ப்பிக்க முடிந்தது. அதன்படி, 107 சட்டமூலங்கள் சமர்ப்பிக்கப்பட்டன. நீதி அமைச்சின் வரலாற்றில் இக்காலப்பகுதியிலே அதிக எண்ணிக்கையிலான சட்டமூலங்கள் திருத்தப்பட்டுள்ளன என்றார். (a)
+
+◼️
+
+[Data](articles/c28e07a5.json)
+
+---
+
 ### Funds for paddy purchasing
 
 *2024-03-15 03:43:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-கொள்வனவிற்காக-நிதி-ஒதுக்கீடு/175-334695) · `ta`
@@ -843,6 +921,22 @@ Out of the 18.3 million debit cards in circulation, only six transactions were r
 [Data](articles/11b03d90.json)
 
 [Extended Data](ext_articles/11b03d90.ext.json)
+
+---
+
+### Sri Lanka may consider hangwomen if execution starts: State Minister
+
+*2024-03-15 02:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-consider-hangwomen-if-execution-starts-state-minister-154699/) · `en`
+
+ECONOMYNEXT – Sri Lanka may consider hangwomen for executioner posts for the first time in its history if capital punishment is resumed in future instead of current hangmen who have no work at all, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
+
+Sri Lanka hired two hangmen in July 2019 for executions in the country that has never seen penalty in 44 years. The hangmen, who are near their 40 years with a basic monthly salary of Rs. 24,250 ($80), have yet to be trained for execution because Sri Lanka has not seen any.
+
+“I don’t see any reason why a woman can’t be in that position. But since it’s not in the practice, that question has not come to us. But, one day if we start this execution and it comes to the ministry, we would consider it as long as the woman is fit and even we do consider they are fit,” Jayaratne told reporters at a media briefing in Colombo on Thursday (14).
+
+...
+
+[Data](articles/c15c2e1c.json)
 
 ---
 
@@ -2027,93 +2121,5 @@ During my journey to Mizoram, I had a layover at New Delhi airport for approxima
 [Data](articles/84efef62.json)
 
 [Extended Data](ext_articles/84efef62.ext.json)
-
----
-
-### President appoints expert committee to tackle construction sector issues
-
-*2024-03-14 18:16:00* · [`islandlk`](http://island.lk/president-appoints-expert-committee-to-tackle-construction-sector-issues/) · `en`
-
-President Ranil Wickremesinghe announced that an expert committee would be appointed to investigate and propose solutions for the prevailing economic challenges, particularly within the construction sector. This declaration was made during a discussion held at the Presidential Secretariat on Wednesday (13), attended by industrialists from the construction sector. President Wickremesinghe emphasized the inclusion of experts from the Ministry of Finance, Ministry of Urban Development, and Housing in this committee formation process. Furthermore, he assured relief for industrialists across various sectors through debt restructuring by next year.
-
-...
-
-[Data](articles/a058efe1.json)
-
-[Extended Data](ext_articles/a058efe1.ext.json)
-
----
-
-### Niluka Karunaratne's retirement and Foundation
-
-*2024-03-14 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178743) · `ta`
-
-Niluka Karunaratne, Sri Lanka's top badminton player, announced his retirement and launched the Nilakku Karunaratne Forum to support athletes. He won the National Badminton Champion title at 16, participated in the Olympic Games, and secured over 30 international medals.
-
-🟩
-
-Sri Lanka's leading Badminton player and Olympian Nilaka Karunaratne recently announced his retirement and launched his name on the same day.
-
-Karunaratne officially announced his retirement in October last year at the headquarters of the International Olympic Committee in Luasen, Switzerland.
-
-However, during the ceremony held at Hemasiri Fernando Auditorium (March 7) at the Olympic House, he announced his retirement.
-
-At the age of 8, Niluka Karunaratne, who began to engage in Badminton's game at the age of 8, won the first National Badminton Champion title at the age of 16 at the age of 16.
-
-Last year, the national and international Buttminton life of Nilukka, who is still self -sufficient, ended the record of the National Badminton Champion title at a very young age.
-
-Niluka Karunaratne, who has participated in the National and International Budminton Tournament for over 22 years, has participated in the Olympic Games of London 2012, Rio 2016 and Tokyo 2020.
-
-...
-
-[Data](articles/33d38501.json)
-
-[Extended Data](ext_articles/33d38501.ext.json)
-
----
-
-### Sri Lanka evaluating 49 private renewable energy deals
-
-*2024-03-14 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-evaluating-49-private-renewable-energy-deals-154614/) · `en`
-
-ECONOMYNEXT – Sri Lanka is evaluating 49 proposals which were shortlisted out of 535 that responded to an expressions of interest called for renewable projects of more than 50 Mega Watts, Energy Minister Kanchana Wijesekera said.
-
-“The then Ministry of Power in 2021 called for Expression of Interest from suitable investors and developers for RE projects of more than 50MW to be developed islandwide,” Kanchana Wijesekera said on x (twitter).
-
-Some of the projects have already obtained provisional approvals, environment clearances, land clearances, approvals from other government agencies, letters of intent from CEB and energy permits, Wijesekera said.
-
-“The government plans to integrate all the projects that receive approvals by 2030 to the national grid,” Wijesekera said.
-
-...
-
-[Data](articles/6e66a81f.json)
-
-[Extended Data](ext_articles/6e66a81f.ext.json)
-
----
-
-### Order ban 23 dog doggings in India
-
-*2024-03-14 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194514) · `si`
-
-India bans 23 hazardous dog breeds, including Pitbull Terrier, American Bulldog, Rottweiler, and Mastiffs, due to threats to human life. Existing pets must be treated to prevent further breeding.
-
-🟩
-
-The central government of India has issued an order to all states by banning 23 hazardous dogs to be developed and selling dangerously to human life.
-
-The list is also mentioned in the list Pitbull Terrier, American Bulldog, Rottweiler and Mastifs.
-
-It is reported that the authorities have decided to make such a decision due to the threats caused by some of the pets.
-
-It is said that if there are already pets, it is ordered that they should be treated to prevent further breeding from these dogs.
-
-Pitbull Terrier, Tosa Inu, American Staffordshire Terrier, American Bullod, CAUCASIAN SHEPHERD Dog, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak, Tornjak , Sarplanac, Tosa, Akita, Mastifs, Terriers, RhodesianRidgeback, Wolf Dogs, Canario, Akbash Dog, Moscow Guard dog, cane corso, bandog.
-
-◼️
-
-[Data](articles/c21f6109.json)
-
-[Extended Data](ext_articles/c21f6109.ext.json)
 
 ---

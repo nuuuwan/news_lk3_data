@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 10:33:45**
+As of **2024-03-15 10:51:14**
 
 ## Newspaper Stats
 
-*Scraped **13,046** Articles*
+*Scraped **13,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,73 @@ islandlk | 711
 adalk | 1,120
 adaderanalk | 1,568
 tamilmirrorlk | 1,585
-virakesarilk | 1,811
+virakesarilk | 1,812
 dailymirrorlk | 1,996
-adaderanasinhalalk | 2,058
+adaderanasinhalalk | 2,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,041 (100.0%) of 13,046 articles have been extended.
+13,046 (100.0%) of 13,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### பெரிய வெங்காயத்திற்கான கட்டுப்பாட்டு விலை நிர்ணயம்
+### சமிக்ஞை கோளாறு : பிராதன மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+
+*2024-03-15 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178774) · `ta`
+
+களனி மற்றும் ஹுனுப்பிட்டிய ரயில் நிலையங்களுக்கு இடையில் சமிக்ஞையில் கோளாறு ஏற்பட்டதாக ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+இதன் காரணமாக பிராதன மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகியுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/55ecab80.json)
+
+---
+
+### අපිට සලකන විදියට තමයි අපිත් සලකන්නේ - ප්‍රේමලාල් ජයසේකර
+
+*2024-03-15 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194533) · `si`
+
+මෙම අවස්ථාවේදී ජනාධිපතිවරයා වෙත සහයෝගය ලබාදීමට සිදුවෙන බව පොදුජන පෙරමුණේ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, රාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් වරාය හා ගුවන් සේවා ර‍ාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා සඳහන් කළේ,
+
+"ජනාධිපතිවරයා තමයි මේ වෙලාවේ රට ගොඩගන්න කටයුතු කරපු නායකයා. එතුමට සහයෝගය දෙන්න වෙනවා අපිට. වෙන නායකයෝ කියලා අය අපිට නෑ ඉතින්. ඥාතිකමටයි.... හිතවත්කමටයි කියලා තවත් පක්ෂයකින් සලකනවා නම් අපිටත් ඉතින් යම් යම් තීන්දු ගන්න වෙනවා. මොකද අපිට සලකන විදියට තමයි අපිත් සලකන්නේ."
+
+◼️
+
+[Data](articles/fb4a74b9.json)
+
+---
+
+### Control Pricing for Large Onion
 
 *2024-03-15 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178767) · `ta`
 
-எதிர்வரும் பண்டிகை காலத்தில் பெரிய வெங்காயத்தின் விலையை குறைக்கும் வகையில் கட்டுப்பாட்டு விலையை நிர்ணயிக்க நடவடிக்கை எடுப்பட்டுள்ளது.
+To control the price of large onions during the festive season, importers and the Commerce Minister agreed on a price range of 450-500 rupees. Despite Pakistan's restrictions, they import from Holland and Turkey.
 
-பண்டிகை காலத்தில் மக்களுக்கு அத்தியாவசிய பொருட்களை வழங்குவது தொடர்பில் அத்தியாவசிய பொருட்கள்  இறக்குமதியாளர்களுக்கும் வர்த்தக அமைச்சருக்கும் இடையில் கலந்துரையாடல் ஒன்று  நேற்று வியாழக்கிழமை (14) நடைபெற்றது.
+🟩
 
-அதில், இறக்குமதியாளர்கள் தங்களுடைய கையிருப்பிலுள்ள பெரிய வெங்காயத்தை 450 ரூபா மற்றும்  500 ரூபாவிற்கு இடையில் விற்பனை செய்ய இணக்கம் தெரிவித்துள்ளனர்.
+Steps have been taken to reduce the price of big onions during the upcoming festive season.
 
-அத்தியாவசிய பொருட்கள் இறக்குமதியாளர்களுடனான கலந்துரையாடல் வெற்றியடைந்துள்ளதுடன்,  போட்டி விலையில் தமது பொருட்களை உள்ளூர் சந்தைக்கு வழங்குவதற்கு இணக்கம் தெரிவித்துள்ளனர்.
+A discussion was held on Thursday (14) between the importers and the Commerce Minister on the provision of essential commodities to the people during the festive season.
 
-பெரிய வெங்காயம் இறக்குமதிக்கு பாகிஸ்தான் கட்டுப்பாடுகளை விதித்துள்ளதாக இறக்குமதியாளர்கள் தெரிவித்தனர்.  எனினும், ஒல்லாந்து மற்றும் துருக்கி ஆகிய பிற நாடுகளில் இருந்து பெரிய வெங்காயத்தை இறக்குமதி செய்வதோடு, கையிருப்பிலுள்ள வெங்காயத்தை பண்டிகைக் காலங்களில் குறைந்த விலையில்  வழங்க தயாராக உள்ளதாக அவர்கள் தெரிவித்தனர் என தெரிவித்துள்ளார்.
+In it, importers agreed to sell large onions in their stockpile between 450 rupees and 500 rupees.
+
+Discussions with essential commodities have been successful and they have agreed to provide their goods to the local market at competitive rates.
+
+Importers said Pakistan has imposed restrictions on large onions imports.However, they said they were importing large onions from other countries such as Holland and Turkey and they were ready to offer the onion at the festive season.
 
 ◼️
 
 [Data](articles/1187c143.json)
+
+[Extended Data](ext_articles/1187c143.ext.json)
 
 ---
 
@@ -64,25 +100,33 @@ Accordingly, trains plying on the Main Line are experiencing delays.
 
 [Data](articles/452ce6e2.json)
 
+[Extended Data](ext_articles/452ce6e2.ext.json)
+
 ---
 
-### தேர்தல்களை பிற்போடக்கூடாது - நாடாளுமன்ற தேர்தலையே முதலில் நடத்தவேண்டும் - பசில்
+### Elections should not be overcome - the first parliamentary election should be held - Basil
 
 *2024-03-15 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178772) · `ta`
 
-இலங்கையில் ஜனாதிபதி தேர்தலையும் பொதுத்தேர்தலையும் ஒத்திவைப்பதை கடுமையாக எதிர்ப்பதாக  முன்னாள் நிதியமைச்சர்  பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+Basil Rajapakse opposes postponement of Sri Lanka's presidential and general elections, questions government function under PA, criticizes Keheliya Rambukwella's role, and advocates for a parliamentary election first.
 
-தற்போது ஆட்சியி;ல் உள்ளது ஸ்ரீலங்கா பொதுஜனபெரமுன அரசாங்கம் என தெரிவிக்கப்படுகின்ற போதிலும் அரசாங்கம் உண்மையில் பொதுஜனபெரமுனவின் கீழ் செயற்படுகின்றதா எனவும் அவர் கேள்வி எழுப்பியுள்ளார்.
+🟩
 
-ஒருசில அமைச்சர்களே ஸ்ரீலங்கா பொதுஜனபெரமுனவின் அலுவலகத்திற்கு   செல்கின்றனர் முன்னர் ஸ்ரீலங்க பொதுஜனபெரமுனவின் காணப்பட்ட கெஹெலிய ரம்புக்வெல தற்போது அமைச்சர் பதவியை வகிக்கவில்லை எனவும் பசில் ராஜபக்ச தெரிவித்துள்ளார்.
+Former Finance Minister Basil Rajapakse has said that he strongly opposed the postponement of the presidential election and the general election in Sri Lanka.
 
-வேறு எந்த தேர்தலிற்கு முன்பாகவும் நாடாளுமன்ற தேர்தலை நடத்தவேண்டும் என பசில்ராஜபக்ச வேண்டுகோள் விடுத்துள்ளார்.
+He has also questioned whether the government is actually functioning under the PA, though it is reported that the Sri Lankan PA is currently in power.
 
-ஜனாதிபதி தேர்தலிற்கு பின்னர் நாடாளுமன்ற தேர்தலை நடத்தினால் அதுமக்களின் உண்மையான விருப்பத்தை வெளிப்படுத்தாது ஒரு வாக்கினால் ஒருவர் ஜனாதிபதி தேர்தலில் வெற்றிபெற்றால் அவரது கட்சியே அதிகாரத்தை கைப்பற்றும் என பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+Basil Rajapaksa has said that Keheliya Rambukwella, who had previously found the Sri Lanka PA, was not the minister of the Sri Lanka PA.
+
+Basilrajapaksa has appealed for a parliamentary election before any other election.
+
+Basilrajapaksa has said that if a parliamentary election is held after the presidential election, a vote will not express their true wishes if one wins the presidential election.
 
 ◼️
 
 [Data](articles/e9631912.json)
+
+[Extended Data](ext_articles/e9631912.ext.json)
 
 ---
 
@@ -394,21 +438,27 @@ A tipper unable to stop two police stakes was shot dead yesterday (14).
 
 ---
 
-### ඊළඟ ඇමෙරිකානු ජනපති ගැන චීනයේ මතය
+### China's opinion on US president
 
 *2024-03-15 07:54:18* · [`adalk`](https://www.ada.lk/breaking_news/ඊළඟ-ඇමෙරිකානු-ජනපති-ගැන-චීනයේ-මතය/11-408623) · `si`
 
-මීළඟ ඇමරිකානු ජනාධිපතිවරයා ලෙස කවුරුන් තේරී පත් වුව ද, චීන-ඇමරිකානු දෙපාර්ශ්වයට මෙන්ම ලෝකයට වඩා යහපතක් ඉටු වනු ඇතැයි බලාපොරොත්තු වන බව චීනය කියාසිටී.
+China views the next US president as crucial for Chinese-American relations, despite the election of Joe Biden and Donald Trump. The Ministry of External Affairs expects the relationship to remain peaceful and cooperative, regardless of the outcome.
 
-ඇමරිකානු ජනාධිපති ජෝ බයිඩන් සහ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මෙවර ජනාධිපතිවරණයට අපේක්ෂකයන් ලෙස ඉදිරිපත් වන බවට වාර්තා පළ වී ඇත. චීන විදේශ අමාත්‍යාංශයේ පැවති නිත්‍ය මාධ්‍ය හමුවේ දී මේ පිළිබඳව නැගුණු පැනයකට පිළිතුරු දෙමින් අමාත්‍යංශ ප්‍රකාශක වං වෙන්බින් මහතා ඉහත අදහස් පළකළේය.
+🟩
 
-ඇමරිකාවේ ජනාධිපතිවරණය එරට අභ්‍යන්තර කටයුත්තක් වන අතර, වෙනත් රටක අභ්‍යන්තර කටයුතුවලට මැදිහත් වීම චීනයේ පිළිවෙත නොවන බව ද හෙතෙම පැවසීය.
+Although someone is the next American president, China assumes that he is expected to be fulfilled in Chinese-American both Chinese.
 
-ඇමරිකාවේ මීළඟ ජනාධිපතිවරයා ලෙස කවුරුන් තේරී පත් වුව ද, අන්‍යෝන්‍ය ගෞරවය, සාමකාමී සහජීවනය සහ පොදු ජයග්‍රහණ සහිත සහයෝගීතාව යන මූලධර්මවලට අනුකූලව දෙරට සබඳතාව ස්ථාවර, යහපත් සහ තිරසර දිශාවකට යොමුකරනු ඇතැයි චීනය අපේක්ෂා කරන බව ද වං වෙන්බින් මහතා කියාසිටියේය.
+US President Joe Biday and former President Donald Trump have been resorted to the presidential election this year. The Ministry spokesman Wellin expressed the above query in response to a query raised by the Chinese Ministry of External Affairs.
+
+The presidential election in the United States is an internal affair of the country, he added that China was not in the policy of China.
+
+It is expected that China is expected to be referred to the two-country relationship, peaceful co-existence, and common victories, even though they are elected as the next President in America.
 
 ◼️
 
 [Data](articles/b58a941e.json)
+
+[Extended Data](ext_articles/b58a941e.ext.json)
 
 ---
 
@@ -515,6 +565,8 @@ However, the US Government pushed back against the plan by filing a legal challe
 ...
 
 [Data](articles/9115e9ee.json)
+
+[Extended Data](ext_articles/9115e9ee.ext.json)
 
 ---
 
@@ -2083,57 +2135,5 @@ On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka
 [Data](articles/c917dcbe.json)
 
 [Extended Data](ext_articles/c917dcbe.ext.json)
-
----
-
-### Sorry about the politicians who cannot understand
-
-*2024-03-14 19:13:21* · [`adalk`](https://www.ada.lk/breaking_news/කියනදේ-තේරුම්ගන්න-නොහැකි-දේශපාලඥයින්-ගැන-කනගාටුයි/11-408620) · `si`
-
-Politicians criticized for not understanding the need to discuss international debt restructuring with Parliament before accusing the opposition of discussing it with the IMF.
-
-🟩
-
-Sadly, the politicians have not been able to understand:
-
-"Before I accused the opposition, I was asked what I said in Parliament before I was accused of a discussion with the IMF. I've got the request I've done in this video. This is how it is a letter.
-
-Minister Minister, because the President is here, I'd like to ask one. Here we cannot connect to him as the Committee. The Hon. Minister, President, is going to restructuring international debt these days. There is more months for the election. Then the government is bound to proceed with the lenders to take action. Therefore, I propose that if you come to this agreement to discuss with all parties representing Parliament,. Because we can't tell us how long you're there.
-
-...
-
-[Data](articles/392db930.json)
-
-[Extended Data](ext_articles/392db930.ext.json)
-
----
-
-### There is a controversial revelation about a cancer
-
-*2024-03-14 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194517) · `si`
-
-A court revealed a report of substandard antibodies from a pharmaceutical supplier. Six suspects, including Dr. Thusitha Sudarshana, were ordered by Maligakanda Magistrate. The case involves the former Minister of Health, Keheliya Rambukwella, and the Deputy Director of the Medical Supplies Unit. The Deputy Solicitor General General of Lakithgi is involved in further investigations. The case highlights the provision of unqualified medicine to locals, with the suspects accused of supplying human emiolobourine and a solution without antibodies. Bail applications were rejected, and the former Health Minister and others were ordered to surrender to security forces.
-
-🟩
-
-It was revealed in court today that a report that had been provided by the questionable pharmaceutical supplier for substandard antibodies.
-
-Meanwhile, Maligakanda Magistrate today ordered that six suspects including the priority of the substandard antibodies and six suspects.
-
-Deputy Director of the Medical Supplies Unit, Dr. Thusitha Sudarshana was arrested by the Criminal Investigations Department (CID).
-
-The doctor who had been abroad yesterday and the doctor who had arrived in the island had been summoned to the CID to obtain a statement.
-
-The suspect was produced before the Maligakkanda Magistrate this afternoon at the Maligakkanda Magistrate this afternoon when the case was taken up with a standstill.
-
-The former Minister of Health, Keheliya Rambukwella and the suspects were produced before the court.
-
-The Deputy Solicitor General General of Lakithgi gathered in the court regarding further investigations.
-
-...
-
-[Data](articles/c2bdfd4b.json)
-
-[Extended Data](ext_articles/c2bdfd4b.ext.json)
 
 ---

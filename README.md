@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 10:17:46**
+As of **2024-03-15 10:33:45**
 
 ## Newspaper Stats
 
-*Scraped **13,041** Articles*
+*Scraped **13,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,126 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 697
 islandlk | 711
-adalk | 1,119
-adaderanalk | 1,567
+adalk | 1,120
+adaderanalk | 1,568
 tamilmirrorlk | 1,585
-virakesarilk | 1,809
-dailymirrorlk | 1,995
+virakesarilk | 1,811
+dailymirrorlk | 1,996
 adaderanasinhalalk | 2,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,038 (100.0%) of 13,041 articles have been extended.
+13,041 (100.0%) of 13,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### 15 தமிழக மீனவர்கள் கைது
+### பெரிய வெங்காயத்திற்கான கட்டுப்பாட்டு விலை நிர்ணயம்
+
+*2024-03-15 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178767) · `ta`
+
+எதிர்வரும் பண்டிகை காலத்தில் பெரிய வெங்காயத்தின் விலையை குறைக்கும் வகையில் கட்டுப்பாட்டு விலையை நிர்ணயிக்க நடவடிக்கை எடுப்பட்டுள்ளது.
+
+பண்டிகை காலத்தில் மக்களுக்கு அத்தியாவசிய பொருட்களை வழங்குவது தொடர்பில் அத்தியாவசிய பொருட்கள்  இறக்குமதியாளர்களுக்கும் வர்த்தக அமைச்சருக்கும் இடையில் கலந்துரையாடல் ஒன்று  நேற்று வியாழக்கிழமை (14) நடைபெற்றது.
+
+அதில், இறக்குமதியாளர்கள் தங்களுடைய கையிருப்பிலுள்ள பெரிய வெங்காயத்தை 450 ரூபா மற்றும்  500 ரூபாவிற்கு இடையில் விற்பனை செய்ய இணக்கம் தெரிவித்துள்ளனர்.
+
+அத்தியாவசிய பொருட்கள் இறக்குமதியாளர்களுடனான கலந்துரையாடல் வெற்றியடைந்துள்ளதுடன்,  போட்டி விலையில் தமது பொருட்களை உள்ளூர் சந்தைக்கு வழங்குவதற்கு இணக்கம் தெரிவித்துள்ளனர்.
+
+பெரிய வெங்காயம் இறக்குமதிக்கு பாகிஸ்தான் கட்டுப்பாடுகளை விதித்துள்ளதாக இறக்குமதியாளர்கள் தெரிவித்தனர்.  எனினும், ஒல்லாந்து மற்றும் துருக்கி ஆகிய பிற நாடுகளில் இருந்து பெரிய வெங்காயத்தை இறக்குமதி செய்வதோடு, கையிருப்பிலுள்ள வெங்காயத்தை பண்டிகைக் காலங்களில் குறைந்த விலையில்  வழங்க தயாராக உள்ளதாக அவர்கள் தெரிவித்தனர் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1187c143.json)
+
+---
+
+### Signal failure disrupts train operations on Main Line
+
+*2024-03-15 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97972/signal-failure-disrupts-train-operations-on-main-line) · `en`
+
+Train services on the Main Line have been disrupted by a signal failure at the Hunupitiya railway station, Ada Derana learns.
+
+Accordingly, trains plying on the Main Line are experiencing delays.
+
+◼️
+
+[Data](articles/452ce6e2.json)
+
+---
+
+### தேர்தல்களை பிற்போடக்கூடாது - நாடாளுமன்ற தேர்தலையே முதலில் நடத்தவேண்டும் - பசில்
+
+*2024-03-15 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178772) · `ta`
+
+இலங்கையில் ஜனாதிபதி தேர்தலையும் பொதுத்தேர்தலையும் ஒத்திவைப்பதை கடுமையாக எதிர்ப்பதாக  முன்னாள் நிதியமைச்சர்  பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+
+தற்போது ஆட்சியி;ல் உள்ளது ஸ்ரீலங்கா பொதுஜனபெரமுன அரசாங்கம் என தெரிவிக்கப்படுகின்ற போதிலும் அரசாங்கம் உண்மையில் பொதுஜனபெரமுனவின் கீழ் செயற்படுகின்றதா எனவும் அவர் கேள்வி எழுப்பியுள்ளார்.
+
+ஒருசில அமைச்சர்களே ஸ்ரீலங்கா பொதுஜனபெரமுனவின் அலுவலகத்திற்கு   செல்கின்றனர் முன்னர் ஸ்ரீலங்க பொதுஜனபெரமுனவின் காணப்பட்ட கெஹெலிய ரம்புக்வெல தற்போது அமைச்சர் பதவியை வகிக்கவில்லை எனவும் பசில் ராஜபக்ச தெரிவித்துள்ளார்.
+
+வேறு எந்த தேர்தலிற்கு முன்பாகவும் நாடாளுமன்ற தேர்தலை நடத்தவேண்டும் என பசில்ராஜபக்ச வேண்டுகோள் விடுத்துள்ளார்.
+
+ஜனாதிபதி தேர்தலிற்கு பின்னர் நாடாளுமன்ற தேர்தலை நடத்தினால் அதுமக்களின் உண்மையான விருப்பத்தை வெளிப்படுத்தாது ஒரு வாக்கினால் ஒருவர் ஜனாதிபதி தேர்தலில் வெற்றிபெற்றால் அவரது கட்சியே அதிகாரத்தை கைப்பற்றும் என பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e9631912.json)
+
+---
+
+### 15 Tamil Nadu fishermen arrested
 
 *2024-03-15 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178771) · `ta`
 
-இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 15 தமிழக மீனவர்கள் கைது செய்யப்பட்டுள்ளதுடன், ஒரு படகும் கைப்பற்றப்பட்டது.
+15 Tamil Nadu fishermen arrested during a marine raid near Jaffna. Boat seized. Investigations ongoing at Kankesanthurai Naval Base. Navy to hand over fishermen to Fisheries Department.
 
-யாழ்ப்பாணம் - காரைநகர் கடற்பரப்பில் கடற்படையினர் மேற்கொண்ட சோதனை நடவடிக்கையின் போதே மீனவர்கள் இன்று வெள்ளிக்கிழமை (15) அதிகாலை கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டுள்ள இந்திய மீனவர்களை காங்கேசன்துறை கடற்படை முகாமிற்கு அழைத்துச் சென்று விசாரணைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+15 Tamil Nadu fishermen have been arrested and a boat was seized.
 
-அதனையடுத்து, இந்திய மீனவர்களை மயிலிட்டி துறைமுகத்தில் கடற்றொழில் நீரியல் வளத்துறை திணைக்கள அதிகாரிகளிடம் ஒப்படைக்க கடற்படையினர் நடவடிக்கை எடுத்துள்ளனர்.
+Fishermen have been arrested this morning (15) during a raid conducted by the Marines on the Jaffna -Karainagar seas.
+
+Investigations are being carried out by taking the arrested Indian fishermen to the Kankesanthurai Naval Base.
+
+Subsequently, the Navy has taken steps to hand over the Indian fishermen to the Department of Fisheries and Aquatic Resources.
 
 ◼️
 
 [Data](articles/a2780311.json)
 
+[Extended Data](ext_articles/a2780311.ext.json)
+
 ---
 
-### இலங்கையில் சீனாவின்இராணுவதளம்? அமெரிக்க புலனாய்வு பிரிவினரின் தகவலை நிராகரித்தது  இலங்கை
+### China's site in Sri Lanka?Sri Lanka rejected information from the US intelligence unit
 
 *2024-03-15 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178770) · `ta`
 
-இலங்கையில் இராணுவதளங்களை உருவாக்குவதற்கு சீனா திட்டமிடுகின்றது என அமெரிக்காவின் புலனாய்வுபிரிவுகள் வெளியிட்டுள்ள தகவலை இலங்கை நிராகரித்துள்ளது.
+Sri Lanka rejects US reports on China's military sites plans. Defense Minister Premitha Bandara Tennakoon denies any talks with China for bases in Sri Lanka, calling US intelligence information incorrect. China is expanding its military presence globally, with US agencies estimating a worldwide military by 2049.
 
-இலங்கையின்   எல்லைக்குள் தளங்களை அமைப்பது தொடர்பில் சீனா உட்பட எந்த நாட்டுடனும் பேச்சுவார்த்தைகள் இடம்பெறவில்லை என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னக்கோன் தெரிவித்துள்ளார்.
+🟩
 
-அமெரிக்காவின் புலனாய்வு அமைப்புகளின் தகவல் தவறானது இதனை நாங்கள் முற்றாக நிராகரிக்கின்றோம் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+Sri Lanka has rejected reports by US intelligence agencies that China is planning to create military sites in Sri Lanka.
 
-இலங்கை தனது எல்லைக்குள் எந்த சூழ்நிலையிலும்  எந்தநாடும் தளங்களை அமைப்பதற்கு அனுமதிக்காது எனவும் அவர் தெரிவித்துள்ளார்.இலங்கை உட்பட பல நாடுகளில் இராணுவ கட்டமைப்புகளை ஏற்படுத்துவது குறித்து சீனா ஆராய்ந்து வருகின்றது என அமெரிக்க புலனாய்வு பிரிவினர் தமது சமீபத்தைய அறிக்கையில் தெரிவித்துள்ளதாக ஐஏஎன்எஸ் செய்தி வெளியிட்டுள்ளது.
+Defense Minister Premitha Bandara Tennakoon has said that there are no talks with China, including China, to set up bases within the limits of Sri Lanka.
+
+The Minister said that the information of the US intelligence agencies is wrong.
+
+He said that Sri Lanka would not allow any country to be set up under its territory. China is investigating military structures in many countries, including Sri Lanka.
+
+US intelligence agencies have said that China, which is engaged in further strengthening its military site in Zibuti and its naval base in Cambodia, is trying to create its sites in many countries, including Sri Lanka.
+
+US intelligence agencies estimate that by 2049, China is planning to make the Chinese military worldwide by 2049.
 
 ...
 
 [Data](articles/6c1a0f92.json)
+
+[Extended Data](ext_articles/6c1a0f92.ext.json)
 
 ---
 
@@ -77,6 +147,8 @@ Train services on the main line will be delayed due to a signal failure between 
 ◼️
 
 [Data](articles/97027228.json)
+
+[Extended Data](ext_articles/97027228.ext.json)
 
 ---
 
@@ -322,6 +394,24 @@ A tipper unable to stop two police stakes was shot dead yesterday (14).
 
 ---
 
+### ඊළඟ ඇමෙරිකානු ජනපති ගැන චීනයේ මතය
+
+*2024-03-15 07:54:18* · [`adalk`](https://www.ada.lk/breaking_news/ඊළඟ-ඇමෙරිකානු-ජනපති-ගැන-චීනයේ-මතය/11-408623) · `si`
+
+මීළඟ ඇමරිකානු ජනාධිපතිවරයා ලෙස කවුරුන් තේරී පත් වුව ද, චීන-ඇමරිකානු දෙපාර්ශ්වයට මෙන්ම ලෝකයට වඩා යහපතක් ඉටු වනු ඇතැයි බලාපොරොත්තු වන බව චීනය කියාසිටී.
+
+ඇමරිකානු ජනාධිපති ජෝ බයිඩන් සහ හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් මෙවර ජනාධිපතිවරණයට අපේක්ෂකයන් ලෙස ඉදිරිපත් වන බවට වාර්තා පළ වී ඇත. චීන විදේශ අමාත්‍යාංශයේ පැවති නිත්‍ය මාධ්‍ය හමුවේ දී මේ පිළිබඳව නැගුණු පැනයකට පිළිතුරු දෙමින් අමාත්‍යංශ ප්‍රකාශක වං වෙන්බින් මහතා ඉහත අදහස් පළකළේය.
+
+ඇමරිකාවේ ජනාධිපතිවරණය එරට අභ්‍යන්තර කටයුත්තක් වන අතර, වෙනත් රටක අභ්‍යන්තර කටයුතුවලට මැදිහත් වීම චීනයේ පිළිවෙත නොවන බව ද හෙතෙම පැවසීය.
+
+ඇමරිකාවේ මීළඟ ජනාධිපතිවරයා ලෙස කවුරුන් තේරී පත් වුව ද, අන්‍යෝන්‍ය ගෞරවය, සාමකාමී සහජීවනය සහ පොදු ජයග්‍රහණ සහිත සහයෝගීතාව යන මූලධර්මවලට අනුකූලව දෙරට සබඳතාව ස්ථාවර, යහපත් සහ තිරසර දිශාවකට යොමුකරනු ඇතැයි චීනය අපේක්ෂා කරන බව ද වං වෙන්බින් මහතා කියාසිටියේය.
+
+◼️
+
+[Data](articles/b58a941e.json)
+
+---
+
 ### A woman is cut off with a bottle
 
 *2024-03-15 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194527) · `si`
@@ -405,6 +495,26 @@ The Vehicle Importers Association of Sri Lanka’s survey indicates that local m
 [Data](articles/8a5df6d2.json)
 
 [Extended Data](ext_articles/8a5df6d2.ext.json)
+
+---
+
+### New expedition to Titanic wreckage could get go-ahead after Titan tragedy
+
+*2024-03-15 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/New-expedition-to-Titanic-wreckage-could-get-go-ahead-after-Titan-tragedy/107-278891) · `en`
+
+A planned expedition to the resting place of the Titanic could get the go-ahead after plans were scaled back in the aftermath of the fatal Titan implosion last year.
+
+The US government is seeking more information on the revised plans for the expedition, which is scheduled to go ahead in May, Kent Porter, an assistant US attorney, told a federal judge in Virginia on Wednesday
+
+Mr Porter did add that the US has yet not determined whether the new plans would break the law.
+
+RMS Titanic Inc., the Georgia-based company that owns salvage rights to the shipwreck, initially wanted to try and recover freestanding objects inside the vessel, take images inside the ship’s hull and retrieve artefacts from the debris field.
+
+However, the US Government pushed back against the plan by filing a legal challenge in August last year.
+
+...
+
+[Data](articles/9115e9ee.json)
 
 ---
 
@@ -542,7 +652,7 @@ The CCC stated that while it understands that certain businesses, essentially in
 
 We cannot generate a more critical concept of planning until we take seriously the conflict of interests and ideologies that will inevitably shape any possible recovery for Sri Lanka today
 
-It is fitting that the epigraph to Godfrey Gunatilleke’s now classic piece, “The Lessons of National Planning,” in the edited collection ‘Economic Policy in Sri Lanka’, opens with the following line attributed to former US President Harry Truman: “There is nothing new in the world except the history you do not know.” Pointing to the unknown unsettles categorical assertions that planning has failed. Of course, for a small country like Sri Lanka struggling to achieve key developmental goals, the legacy of planning remains contested.
+Despite claims of a ‘free market’, the leverage that these actors have over much of the global supply chain means that large swathes of the market are in fact held under a kind of private dictatorship. Accordingly, the question is not whether to plan. Instead, we must ask whether we prefer a form of planning that works in a democratic way with an explicit understanding of the public good, versus one that does not
 
 ...
 
@@ -2025,101 +2135,5 @@ The Deputy Solicitor General General of Lakithgi gathered in the court regarding
 [Data](articles/c2bdfd4b.json)
 
 [Extended Data](ext_articles/c2bdfd4b.ext.json)
-
----
-
-### Tomorrow the temperature
-
-*2024-03-14 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194516) · `si`
-
-The Department of Meteorology warns of high temperatures in the North-Western, North-Central, Eastern provinces, and parts of Colombo, Gampaha, Moneragala, Mannar, Mullaitivu, and Vavuniya districts tomorrow. It advises people to drink water, rest in the shade, and care for adults and patients at home.
-
-🟩
-
-The Department of Meteorology announces that the temperature of several parts of the island will continue to focus on a level of focus on tomorrow (15).
-
-It states that temperatures should be paid to some places in the North-Western, North-Central, Eastern provinces and parts of Colombo, Gampaha, Moneragala, Mannar, Mullaitivu and Vavuniya districts.
-
-Meanwhile, the Department of Meteorology requests the people in the workplaces to drink adequate water and rest in the shade.
-
-It has also been asked to care about adults and patients in the homes and not to be held on their own lives.
-
-◼️
-
-[Data](articles/73117575.json)
-
-[Extended Data](ext_articles/73117575.ext.json)
-
----
-
-### Dry weather affects reservoirs
-
-*2024-03-14 19:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dry-weather-affects-reservoirs/108-278861) · `en`
-
-The water levels of the hydropower reservoirs used for hydropower generation have been dwindling fast due to the prevailing dry weather.
-
-Engineers in charge of Maussakele and Castlereigh reservoirs said the water levels in the two reservoirs have reduced by 25 percent.
-
-They said the water level in Castelreigh reservoir stood at 24.5 feet below spill level and that of Maussakele reservoir 22.8 ft below spill level. They pointed out that the reservoirs would be further affected if the dry weather persisted.
-
-They also said that steps have been taken to prevent any impact on the power supply.
-
-◼️
-
-[Data](articles/08634678.json)
-
-[Extended Data](ext_articles/08634678.ext.json)
-
----
-
-### United Petroleum of Australia to start Sri Lanka operations by mid this year
-
-*2024-03-14 19:00:00* · [`economynextcom`](https://economynext.com/united-petroleum-of-australia-to-start-sri-lanka-operations-by-mid-this-year-154683/) · `en`
-
-ECONOMYNEXT – United Petroleum of Australia, which signed an agreement with the Ministry of Power and Energy last month to enter petroleum retail operations in the island, hopes to start operations by mid this year, minister Kanchana Wijesekera said.
-
-“Its group CFO, Nigel Simonsz visited the Ministry to update on their plans and schedule to begin retail operations through the 150 fuel stations allocated to them. They plan to sign the agreement with the BOI and obtain the license to operate by mid this year,” Wijesekera said on X (twitter).
-
-Sri Lanka last year awarded retail fuel licenses to three foreign firms – China’s Sinopec, United Petroleum Australia and US-based RM Parks to reduce the state-owned Ceylon Petroleum Corporation’s (CPC) pressure on finding foreign currency for the country’s whole fuel import.
-
-...
-
-[Data](articles/cf0492b8.json)
-
-[Extended Data](ext_articles/cf0492b8.ext.json)
-
----
-
-### Epitome of administrative excellence
-
-*2024-03-14 18:58:00* · [`islandlk`](http://island.lk/epitome-of-administrative-excellence/) · `en`
-
-The late Ray Forbes encompassed within himself administrative excellence and profound humanity. On account of these rare qualities he endeared himself to the staff and students of the Bandaranaike Centre for International Studies (BCIS), Colombo, for well over a decade.
-
-The above sentiments were expressed with regard to the former Director of the BCIS, Ray Forbes, by every speaker who was invited to comment on his life and times at a special commomerative ceremony held at the BCIS auditorium on March 7th. The event was presided over by the Chairperson of the BCIS, former President Chandrika Bandaranaike Kumaratunga.
-
-Among the attendees at the simple but august ceremony were senior members of the BCIS management, diplomats, members of the BCIS staff, past and present, and former and present students of the BCIS.
-
-...
-
-[Data](articles/b61311ac.json)
-
-[Extended Data](ext_articles/b61311ac.ext.json)
-
----
-
-### HNB General Insurance partners with SampathCards to make insurance easy with 0% interest payment plans
-
-*2024-03-14 18:58:00* · [`islandlk`](http://island.lk/hnb-general-insurance-partners-with-sampathcards-to-make-insurance-easy-with-0-interest-payment-plans/) · `en`
-
-HNB General Insurance, a leading provider of insurance solutions in Sri Lanka, announced a collaborative partnership with Sampath Bank to offer customers 12-month 0% interest payment plans on both motor and non-motor insurance policies. This marks HNB General Insurance’s collaboration with a non-group member bank, significantly expanding its reach and making insurance more accessible for a wider audience across Sri Lanka.
-
-Through this partnership, Sampath Bank Credit Cardholders can now enjoy the convenience of budget-friendly installments on their insurance premiums. With no upfront interest charges, customers can spread the cost of their motor, home, travel, medical, or any other non-motor insurance policy over a year, easing financial constraints and making essential coverage more achievable.
-
-...
-
-[Data](articles/cdd8aedc.json)
-
-[Extended Data](ext_articles/cdd8aedc.ext.json)
 
 ---

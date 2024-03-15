@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 22:33:21**
+As of **2024-03-15 22:50:43**
 
 ## Newspaper Stats
 
-*Scraped **13,144** Articles*
+*Scraped **13,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 702
 islandlk | 711
-adalk | 1,129
+adalk | 1,130
 adaderanalk | 1,584
 tamilmirrorlk | 1,599
 virakesarilk | 1,828
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,143 (100.0%) of 13,144 articles have been extended.
+13,144 (100.0%) of 13,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### Online දුම්රිය ආසන වෙන්කිරීමේ අවුලක්
+### Online Railway Seat Seat Reservation
 
 *2024-03-15 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194555) · `si`
 
-දුර ගමන් සේවා දුම්රියවල ආසන වෙන්කිරීම සඳහා අලුතෙන් හඳුන්වා මාර්ගගත ක්‍රමවේදය ගැටලු සහගත බව දුම්රිය මගීන් චෝදනා කරති.
+Sri Lanka Railways' new online seat reservation system for long-distance services has faced criticism, with some passengers unable to secure seats.
 
-කොටුව දුම්රිය ස්ථානයට පැමිණ සිටි මගීන් රැසක් අද මේ හේතුවෙන් අපහසුතාවට පත්ව සිටියේය.
+🟩
 
-ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව සාමාන්‍ය මගීන් සහ රාජ්‍ය සේවකයින් සඳහා ප්‍රවේශ පත්‍ර වෙන්කරවා ගැනීමේ ක්‍රියාවලිය ඩිජිටල්කරණය කිරීමට පියවරක් ලෙස පසුගියදා පළමුවරට මාර්ගගත ප්‍රවේශපත්‍ර ලබාගැනීමේ සහ මාර්ගගතව දුම්රිය ආසන වෙන්කිරීමේ ක්‍රමයක් හඳුන්වා දුන්නේය.
+Railway passengers allege that the newly introduced online method is problematic for the reservation of seats in long distance services.
 
-ඒ අනුව එලෙස ඔන්ලයින් ආසන වෙන්කරගත් මගීන්ට ටිකට්පත් වෙන්වී තිබුණද දුම්රිය ස්ථානයට පැමිණ ආසන වෙන්කරවා ගැනීමට පැමිණි පසු ඇතැම් මගීන්ට දැන්ගන්නට ලැබී ඇත්තේ තමන්ට ආසනයක් වෙන්ව නොමැති බවය.
+There were many passengers in the Fort Railway Station
+
+The Sri Lanka Railways has recently introduced a railway seat reservation system as a step to the first time to dig up the process of booking tickets for ordinary passengers and public servants.
+
+Accordingly, the train reservations have been allocated to the railway station, some passengers have not been able to have a seat.
 
 ◼️
 
 [Data](articles/b20537c9.json)
+
+[Extended Data](ext_articles/b20537c9.ext.json)
 
 ---
 
@@ -109,6 +115,22 @@ Chasing a target of 287, Sri Lankan players won the match in 47.1 balls.
 [Data](articles/652d2a06.json)
 
 [Extended Data](ext_articles/652d2a06.ext.json)
+
+---
+
+### අර්ජුනගේ හා මහානාමගේ වාර්තාවක් චරිත් හා පැතුම් බිඳ දමති
+
+*2024-03-15 21:23:47* · [`adalk`](https://www.ada.lk/sports/අර්ජුනගේ-හා-මහානාමගේ-වාර්තාවක්-චරිත්-හා-පැතුම්-බිඳ-දමති/9-408633) · `si`
+
+එක්දින ක්‍රිකට් තරග වලදී ශ්‍රී ලංකාව වෙනුවෙන් සිව්වැනි කඩුල්ල වෙනුවෙන් පිහිටවූ වැඩිම ලකුණු සබඳතාවට හිමි වාර්තාවට හිමිකම් කීමට චරිත් අසලංක හා පැතුම් නිශ්ශංක අද සමත්වූයේය.
+
+මීට පෙර එම සබඳතාව සඳහා ශ්‍රී ලංකාව වෙනුවෙන් හිමිකම් කීවේ හිටපු නායක අර්ජුන රණතුංග හා රොෂාන් මහානාමයි. ඔවුන් දෙපළ 1997 දී බටහිර ඉන්දීය කොදෙව් කණ්ඩායම වෙනුවෙන් සිව්වැනි කඩුල්ල වෙනුවෙන් නොබිඳුණු ලකුණු 171ක සබඳතාවක් පිහිටුවීමට සමත්ව තිබුණි.
+
+කෙසේ වෙතත් අද දිනයේදී චරිත් හා පැතුම් බංග්ලාදේශයට එරෙහිව පස්වැනි කඩුල්ල වෙනුවෙන් ලකුණු 185ක සාර්ථක සබඳතාවක් පවත්වමින් අර්ජුනගේ හා මහානාමගේ අවුරුදු 27ක් පැරණි වාර්තාව බිද දැමීමට සමත්වූහ.
+
+◼️
+
+[Data](articles/fd08ef27.json)
 
 ---
 
@@ -2295,29 +2317,5 @@ Basilrajapaksa has said that if a parliamentary election is held after the presi
 [Data](articles/e9631912.json)
 
 [Extended Data](ext_articles/e9631912.ext.json)
-
----
-
-### 15 Tamil Nadu fishermen arrested
-
-*2024-03-15 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178771) · `ta`
-
-15 Tamil Nadu fishermen arrested during a marine raid near Jaffna. Boat seized. Investigations ongoing at Kankesanthurai Naval Base. Navy to hand over fishermen to Fisheries Department.
-
-🟩
-
-15 Tamil Nadu fishermen have been arrested and a boat was seized.
-
-Fishermen have been arrested this morning (15) during a raid conducted by the Marines on the Jaffna -Karainagar seas.
-
-Investigations are being carried out by taking the arrested Indian fishermen to the Kankesanthurai Naval Base.
-
-Subsequently, the Navy has taken steps to hand over the Indian fishermen to the Department of Fisheries and Aquatic Resources.
-
-◼️
-
-[Data](articles/a2780311.json)
-
-[Extended Data](ext_articles/a2780311.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 07:32:04**
+As of **2024-03-15 07:52:41**
 
 ## Newspaper Stats
 
-*Scraped **13,003** Articles*
+*Scraped **13,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,145 @@ dailyftlk | 675
 economynextcom | 695
 islandlk | 711
 adalk | 1,118
-adaderanalk | 1,564
+adaderanalk | 1,565
 tamilmirrorlk | 1,580
 virakesarilk | 1,806
-dailymirrorlk | 1,984
-adaderanasinhalalk | 2,052
+dailymirrorlk | 1,992
+adaderanasinhalalk | 2,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,001 (100.0%) of 13,003 articles have been extended.
+13,003 (99.9%) of 13,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### අද කාලගුණය
+### සය පුද්ගල ඝාතනයේ සැකකරු යළි රිමාන්ඩ්
+
+*2024-03-15 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194526) · `si`
+
+කැනඩාවේ, ඔටාවාහී ශ්‍රී ලාංකිකයින් 6 දෙනෙකු ඝාතනය කිරීමේ සිද්ධියට අදාළ නඩු විභාගය යළි කැඳවා තිබේ.
+
+එම ඝාතන සම්බන්ධයෙන් මේ වනවිට චෝදනා එල්ලවී සිටින්නේ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු වන ෆෙබ්‍රියෝ ද සොයිසා වෙතය.
+
+ඔහුව ඊයේ (14) දිනයේදී යළි රක්ෂිත බන්ධනාගාරගත කෙරුණු අතර නඩු විභාගය එළඹෙන 28 වනදා යළි කැඳවීමට නියමිතය.
+
+◼️
+
+[Data](articles/0b09e7bf.json)
+
+---
+
+### Evening showers likely in some areas, dry weather expected elsewhere
+
+*2024-03-15 07:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97969/evening-showers-likely-in-some-areas-dry-weather-expected-elsewhere) · `en`
+
+Showers or thundershowers may occur at several places in Western, Sabaragamuwa, Southern and Central provinces in the evening or at night.
+
+However, mainly dry weather will prevail elsewhere on the island.
+
+Misty conditions can be expected in parts of Sabaragamuwa, Central and Uva provinces and Galle and Matara districts in the morning.
+
+Mainly fair weather will prevail in the sea areas around the island.
+
+Winds will be easterly or variable in direction and wind speed will be 20-30 kmph.
+
+◼️
+
+[Data](articles/42235915.json)
+
+---
+
+### President hints at vehicle import resumption; importers warn of possible cost increase
+
+*2024-03-15 07:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-hints-at-vehicle-import-resumption-importers-warn-of-possible-cost-increase/108-278885) · `en`
+
+President Ranil Wickremesinghe yesterday hinted at a possible gradual resumption of private vehicle imports starting next year. However, local vehicle importers have warned that this development may not necessarily translate into positive news for buyers.
+
+While the relaxation could breathe new life into the stagnant motor sector, importers have expressed concerns that duty structures for imported vehicles may see a significant increase.
+
+In January, the government revised the duty structure, resulting in a significant rise in vehicle import costs. Despite the potential allowance for vehicle imports, importers caution that substantial restrictions may remain, implying it is too early to celebrate the statement made by the President.
+
+The Vehicle Importers Association of Sri Lanka’s survey indicates that local market prices are poised to climb alongside the resumption of imports.
+
+...
+
+[Data](articles/8a5df6d2.json)
+
+---
+
+### New expedition to Titanic wreckage could get go-ahead after Titan tragedy
+
+*2024-03-15 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-expedition-to-Titanic-wreckage-could-get-go-ahead-after-Titan-tragedy/108-278891) · `en`
+
+A planned expedition to the resting place of the Titanic could get the go-ahead after plans were scaled back in the aftermath of the fatal Titan implosion last year.
+
+The US government is seeking more information on the revised plans for the expedition, which is scheduled to go ahead in May, Kent Porter, an assistant US attorney, told a federal judge in Virginia on Wednesday
+
+Mr Porter did add that the US has yet not determined whether the new plans would break the law.
+
+RMS Titanic Inc., the Georgia-based company that owns salvage rights to the shipwreck, initially wanted to try and recover freestanding objects inside the vessel, take images inside the ship’s hull and retrieve artefacts from the debris field.
+
+However, the US Government pushed back against the plan by filing a legal challenge in August last year.
+
+...
+
+[Data](articles/9326675c.json)
+
+---
+
+### Weather today
 
 *2024-03-15 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194524) · `si`
 
-අද (15) දිනයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today, night showers or thundershowers expected in Western, Sabaragamuwa, Southern, and Central provinces. Morning showers in Galle and Uva provinces, Galle and Matara districts.
 
-එම දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව, දකුණු සහ මධ්‍යම පළාත්වල මෙලෙස වැසි ඇතිවිය හැකි බවය.
+🟩
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers or thundershowers will occur at night in the evening today (15).
+
+The latest announcement issued by the Department appeared in the Western, Sabaragamuwa, Southern and Central provinces.
+
+Some locations are expected in the morning and in the Galle and Uva provinces and in some places in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/5cb15ec8.json)
+
+[Extended Data](ext_articles/5cb15ec8.ext.json)
+
+---
+
+### Parliament to become elders’ home if current trend persists: Anunayake Thera
+
+*2024-03-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-to-become-elders-home-if-current-trend-persists-Anunayake-Thera/108-278890) · `en`
+
+Getambe, March 15 (Daily Mirror) - The Anunayake of the Ramanya Nikaya Most Venerable Kappitiyagoda Sirivimala Thera stated yesterday that if the current trend persists, the entire parliament will soon resemble an elders' home and also emphasized the importance of elderly members stepping down to allow the youth the opportunity to contribute to the country's development.
+
+The Anunayake Thera emphasized this, when former Minister of Sports, MP Roshan Ranasinghe yesterday (14) visited him at the Getambe Temple.
+
+...
+
+[Data](articles/96993694.json)
+
+---
+
+### CCC urges collaborative approach to address parate suspension concerns
+
+*2024-03-15 06:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CCC-urges-collaborative-approach-to-address-parate-suspension-concerns/108-278884) · `en`
+
+The Ceylon Chamber of Commerce (CCC) yesterday expressed “deep concerns” about the government’s move to suspend parate execution, and called for a collaborative solution to address this growing issue.
+
+The CCC stated that while it understands that certain businesses, essentially in the SME sector need to be supported in the current economic climate, providing that support in the form of curtailing credit recovery measures is not necessarily the best method of supporting these industries.
+
+“The Chamber is concerned about the potential impact on the overall financial market as a result of the cancellation of the parate execution law,” it said in a statement to the media.
+
+...
+
+[Data](articles/b803e51e.json)
 
 ---
 
@@ -276,6 +386,26 @@ During the second phase of ‘Aswesuma’, benefits are anticipated to be extend
 
 ---
 
+### Govt. forgoes Rs. 23.94bn in taxes for BOI companies
+
+*2024-03-15 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-forgoes-Rs-23-94bn-in-taxes-for-BOI-companies/108-278883) · `en`
+
+The Treasury’s tax expenditure statement revealed that the government has foregone over Rs. 23 billion in corporate tax revenue in 2022 due to concessions granted to Board of Investment (BOI) approved companies.
+
+According to the statement, the highest tax concessions, amounting to Rs.8.5 billion were enjoyed by the manufacturing sector, followed by Rs.5.42 billion by power and Rs. 5.2 billion by the apparel sector.
+
+In terms of number of ventures, 170 firms in the manufacturing sector were entitled for tax concessions while 23 from the service and utility sector, and 94 from the tourism sector were entitled to tax benefits.
+
+The taxable income for BOI companies as per the statement was Rs. 168 billion. The highest, Rs. 77 billion in manufacturing, Rs. 50 billion in the apparel sector, and Rs. 22 billion in the power sector.
+
+The ‘tax expenditure’ is based on a 24 percent rate for the first nine months of 2022/2023 financial year and 30 percent for the remainder of the period.
+
+◼️
+
+[Data](articles/83d44138.json)
+
+---
+
 ### Plantation workers can pay 1700 rupees
 
 *2024-03-15 03:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோட்டத்-தொழிலாளர்களுக்கு-1700-ரூபா-வழங்க-முடியும்/175-334692) · `ta`
@@ -373,6 +503,24 @@ This new marketing strategy can leave a strong emotional imprint that can enhanc
 [Data](articles/a2ab8d10.json)
 
 [Extended Data](ext_articles/a2ab8d10.ext.json)
+
+---
+
+### Sri Lankans still reluctant to embrace non-cash transactions
+
+*2024-03-15 02:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-still-reluctant-to-embrace-non-cash-transactions/108-278886) · `en`
+
+Reluctance despite high ownership of debit cards and mobile penetration
+
+Despite high ownership of debit cards and mobile penetration, Sri Lankans are still reluctant to embrace non-cash transactions, industry experts said, which indicate that more work remains to be done to build confidence in this space.
+
+According to Mastercard Sri Lanka Director Mahesha Amarasuriya, currently only less than five transactions are conducted from a Point of Sale (POS) terminal on average per day.  The country had 111,205 POS terminals as of September last year. Similarly, on average, less than five transactions are recorded by a QR merchant per quarter of a financial year.
+
+Out of the 18.3 million debit cards in circulation, only six transactions were recorded per debit card on average for the whole year.
+
+...
+
+[Data](articles/11b03d90.json)
 
 ---
 
@@ -500,6 +648,22 @@ Through complaints and appeals, 10,000 people have been ranked unworthy of recei
 
 ---
 
+### First Lady stresses need for women empowerment for economic growth
+
+*2024-03-15 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-Lady-stresses-need-for-women-empowerment-for-economic-growth/108-278881) · `en`
+
+At a time where repeated global calls are made towards women’s inclusivity for economic success, First Lady Prof. Maithree Wickremesinghe called for women economic empowerment, highlighting its pivotal role in driving inclusive growth and prosperity.
+
+Addressing the Women’s Leadership Forum 2024 organised by the Women’s Chamber of Industry and Commerce yesterday, the First Lady in her keynote speech chose to shed light on many multifaceted barriers faced by women hindering their participation in economic activity.
+
+“One of the enormous challenges faced by Sri Lanka today is the inequality in the distribution of opportunities, resources, incomes and wealth.  Therefore inclusivity is extremely pertinent,” Prof. Wickremesinghe said.
+
+...
+
+[Data](articles/488ded2c.json)
+
+---
+
 ### China gifts explosives disposal equipment to Sri Lanka
 
 *2024-03-15 00:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97967/china-gifts-explosives-disposal-equipment-to-sri-lanka) · `en`
@@ -573,6 +737,24 @@ The epicentre of the earthquake was off the coast of Fukushima prefecture, where
 [Data](articles/766db0f2.json)
 
 [Extended Data](ext_articles/766db0f2.ext.json)
+
+---
+
+### Sri Lanka refutes US claims of Chinese military base
+
+*2024-03-14 23:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-refutes-US-claims-of-Chinese-military-base/155-278863) · `en`
+
+Sri Lanka has refuted recent claims from US intelligence that there are potential plans for a Chinese military base to be established on its soil.
+
+State Defence Minister Premitha Bandara Tennakoon told Daily Mirror that Sri Lanka has not engaged in any discussions with foreign governments, including China, regarding the establishment of a military base within its borders.
+
+“Sri Lanka has not held discussions with any foreign government including China for a possible establishment of a military base here in Sri Lanka,” the State Minister said in response to a question on the US claims.
+
+In its annual threat assessment 2024 report this week, the US Intelligence Community said that China is exploring the possibility of establishing military facilities in various countries including Sri Lanka, in a bid to bolster their power projection capabilities and safeguard national interests.
+
+...
+
+[Data](articles/bfc9b65f.json)
 
 ---
 
@@ -1404,6 +1586,8 @@ The All Share Price Index went up by 31 points, while S and P SL20 moved to 14.1
 
 [Data](articles/18accd9f.json)
 
+[Extended Data](ext_articles/18accd9f.ext.json)
+
 ---
 
 ### State Vesak Festival in Matale
@@ -1971,233 +2155,5 @@ The Additional Magistrate's Court was asked to be remanded until the 26th of thi
 [Data](articles/84761329.json)
 
 [Extended Data](ext_articles/84761329.ext.json)
-
----
-
-### Cylly, China requests help from Taiwan
-
-*2024-03-14 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194508) · `si`
-
-China seeks Taiwan's help amidst a rare cooperation, following a Chinese fishing vessel's incident in the South China Sea near Taiwan. Taiwan's Coast Guard and other vessels have assisted in rescuing 119 people over three years. Taiwan, a self-governed state, is 128 km from China, but their relationship is complex, with historical tensions and recent political shifts.
-
-🟩
-
-China has reportedly claimed the rare occasion asking for assistance in Taiwan.
-
-Foreign media reports that this is a rare opportunity to forget this, and China and Taiwan are cooperating.
-
-The South China Sea ownership of the South China Sea is the surgery of a Chinese fishing vessel in an extremely sensitive environment.
-
-Fishermen had disappeared by the Chinese fishing vessel near the islands of the Taiwan.
-
-At this point, China's support from Taiwan supporters, several Taiwan coastlever vessels have joined the lives of the lives of the Taiwan.
-
-Taiwane Coast Guard, Taiwan Coast Guard Special
-
-He said that 119 persons were rescued by China and Taiwan in the sea over the past three years.
-
-Taiwana is a state of Taiwan, which is located in the Taiwanehariya area about 128 miles [128 km] from the Chinese motherland.
-
-But in 1949, the Chinese Communist government is born to China, Taiwan is a country with a self-governance today.
-
-...
-
-[Data](articles/ebdc332d.json)
-
-[Extended Data](ext_articles/ebdc332d.ext.json)
-
----
-
-### Application deadline for second phase of ‘Aswasuma’ extended
-
-*2024-03-14 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97953/application-deadline-for-second-phase-of-aswasuma-extended-) · `en`
-
-The deadline to submit applications for the second phase of the “Aswasuma” welfare benefit program has been extended until March 22, 2024, State Minister of Finance Shehan Semasinghe said.
-
-Taking to ‘X’ (formerly Twitter) to announce this, Semasinghe highlighted that so far 130,000 new applications have been received in the system and that more applications which have been handed over physically need to be entered in the data system by the Divisional Secretariats.
-
-The acceptance of applications for the second phase of ‘Aswesuma’ program commenced on February 15. Accordingly, the families that could not submit applications during the first phase or did not participate in the housing information census can apply during the new phase, as earlier announced by the Welfare Benefits Board (WBB).
-
-During the second phase of ‘Aswesuma’, benefits are anticipated to be extended to 2.4 million families.
-
-◼️
-
-[Data](articles/187f9b81.json)
-
-[Extended Data](ext_articles/187f9b81.ext.json)
-
----
-
-### Railway trade unions call off strike
-
-*2024-03-14 16:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-trade-unions-call-off-strike/108-278859) · `en`
-
-Colombo, March 14 (Daily Mirror) - The Sri Lanka Railways Station Masters' Union (SLRSMU) has decided to call off the sudden trade union action following discussions with the Transport Ministry Secretary.
-
-The union said favorable solutions were given by the Ministry secretary to the existing problems.
-
-Accordingly, the SLRSMU had decided to call off the sudden trade union action scheduled for 4 p.m. in protest of the seat reservation system without providing any information to the station masters.
-
-◼️
-
-[Data](articles/5c3ae4d0.json)
-
-[Extended Data](ext_articles/5c3ae4d0.ext.json)
-
----
-
-### Massive accident on Batticaloa - Kalmunai main road
-
-*2024-03-14 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178729) · `ta`
-
-A massive accident involving a bus from the Sri Lanka Transport Board (SLTB) on the Kalmunai-Batticaloa main road in Mangadu, Batticaloa, resulted in five injuries. The bus was traveling from Kalmunai to Batticaloa and crashed into an iron furniture field. The bus stop from Arul and a strap vehicle were damaged.
-
-🟩
-
-A massive accident occurred on Thursday (14) in the Mangadu area of Kalmunai main road in Batticaloa, belonging to the Kaluwanchikudi police division of the Batticaloa district.
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) from Kalmunai to Batticaloa has taken place in the field of iron furniture.
-
-Five of the bus passengers were injured in the incident and the Divinama was not affected by the casualties, police said.
-
-In this case, the bus stop from Arul has been completely damaged and the strap vehicle has been damaged.
-
-◼️
-
-[Data](articles/03e68b77.json)
-
-[Extended Data](ext_articles/03e68b77.ext.json)
-
----
-
-### IndiGo announces new direct flights between Mumbai and Colombo
-
-*2024-03-14 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/97952/indigo-announces-new-direct-flights-between-mumbai-and-colombo) · `en`
-
-IndiGo, India’s preferred airline, has announced new direct flights between Mumbai and Colombo starting April 12, 2024. These flights will operate three times a week on Tuesday, Thursday, and Friday, and play a key role in enhancing connectivity between the financial capital of India – Mumbai, and the capital of Sri Lanka. With this new connection, Mumbai has become the fourth destination in India with direct connectivity to Colombo, after Bengaluru, Hyderabad, and Chennai.
-
-...
-
-[Data](articles/4582a104.json)
-
-[Extended Data](ext_articles/4582a104.ext.json)
-
----
-
-### The Electricity Board signs another agreement
-
-*2024-03-14 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194507) · `si`
-
-The Electricity Board signs an agreement for the Hambantota, Gonnoruwa solar power project, comprising 13 power plants and 5 megawatts, with a total capacity of 150 MW. A $150 million investment will develop the project under a new business structure (SPPA) under the standard electricity purchase of the Electricity Board (SPA). Construction is set to start by May and connect to the national grid by 2025.
-
-🟩
-
-The agreement has been signed for development of Hambantota, Gonnoruwa lading solar power project.
-
-It is said that the project was comprised of 13 power plants and five power plants, consisting of 17 investors, which consists of 13 power plants and 5 megawatts.
-
-Accordingly, there is a total capacity of 150 MW.
-
-Investors, a $ 150 million investor, the project and the transfer of transmission facilities and network system will be developed by US $ 150 million in a new business structure (SPPA) under the standard electricity purchase of the Electricity Board (SPA).
-
-By May this year, the construction work of the project is to commence and is to be connected to the national grid in 2025.
-
-◼️
-
-[Data](articles/2407ca75.json)
-
-[Extended Data](ext_articles/2407ca75.ext.json)
-
----
-
-### Beliatta mass shooting: 11 suspects further remanded
-
-*2024-03-14 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97951/beliatta-mass-shooting-11-suspects-further-remanded) · `en`
-
-The 11 suspects who were arrested in connection with the recent killing of five people at Beliatta in Hambantota District have been ordered to be further remanded in custody.
-
-The relevant suspects had been produced before the Tangalle Magistrate’s Court today (14).
-
-Accordingly, Tangalle Chief Magistrate Hemantha Pushpakumara ordered the suspects to be remanded further until March 28, 2024.
-
-On 22 January, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta interchange of the Southern Expressway.
-
-In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he succumbed to injuries shortly after.
-
-Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP), Saman Perera.
-
-◼️
-
-[Data](articles/a3f81888.json)
-
-[Extended Data](ext_articles/a3f81888.ext.json)
-
----
-
-### Shiran baasic acquitted
-
-*2024-03-14 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194506) · `si`
-
-Mohamed Shiran Barqi, a leading drug dealer, was acquitted by the Colombo High Court due to contradictions in witness testimonies from the Police Narcotics Bureau. The case involved a 4.53 gram heroin arrest at the Edmonton Housing Complex on January 11, 2011, but the suspect claimed to have been arrested with his child. The judge found the evidence inappropriate for conviction, and the defendant had fled Dubai.
-
-🟩
-
-The Colombo High Court today (14) has been acquitted to acquit Mohamed Shiran Barqi, a leading drug dealer.
-
-High Court Judge Manjula Tilakaratne has been acquitted due to the powerful contradictions in the witnesses of the Police Narcotics Bureau.
-
-The suspect had arrested that the suspect was arrested with a 4.53 gram of heroin at the Edmonton Housing Complex near the Edmton Housing Complex at the Edmton Housing Complex on January 11, 2011.
-
-Although he had been arrested alone, he was later arrested and later said that the suspect was arrested while with his child.
-
-Although a police officer had told the court that the telephone number was disconnected around one year and a half ago, the accused the accused was reported in court.
-
-The judge had come to a conclusion that the evidence was inappropriate to convict the conviction.
-
-The evidence examination was held without him as a result of the defendant had fled the Dubai State.
-
-...
-
-[Data](articles/4139bf0a.json)
-
-[Extended Data](ext_articles/4139bf0a.ext.json)
-
----
-
-### A father cut down his son's neck
-
-*2024-03-14 15:51:38* · [`adalk`](https://www.ada.lk/breaking_news/පියෙක්-තම-පුතාගේ-සහ-දියනියගේ-ගෙල-කපා-මරලා/11-408616) · `si`
-
-A father severely injured his 15-year-old son, hospitalizing both father and son.
-
-🟩
-
-According to police sources, the father of his 29-year-old son and the 15-year-old son and the father had been hospitalized, police sources said.
-
-◼️
-
-[Data](articles/25b3aaac.json)
-
-[Extended Data](ext_articles/25b3aaac.ext.json)
-
----
-
-### Constitutionality against Speaker March 19 Elections on the 20th
-
-*2024-03-14 15:50:09* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහි-විශ්වාසභංගය-මාර්තු-19-ඡන්ද-විමසීම-20-දා/11-408615) · `si`
-
-The No-confidence motion against the Speaker will debate on March 19 and 20, with voting for the resolution set for 4:30 pm on March 20.
-
-🟩
-
-The No-confidence motion against Speaker has decided to debate 19 and 20. Acting Secretary General of Parliament confirmed that it was decided in the Committee on Parliamentary Affairs.
-
-He also said that the second day of the debate has also been decided to hold the voting for the no-confidence resolution at 4.30 pm on the 20th.
-
-◼️
-
-[Data](articles/9dfee598.json)
-
-[Extended Data](ext_articles/9dfee598.ext.json)
 
 ---

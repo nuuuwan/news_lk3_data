@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 20:02:59**
+As of **2024-03-15 20:17:50**
 
 ## Newspaper Stats
 
-*Scraped **13,127** Articles*
+*Scraped **13,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,128
-adaderanalk | 1,579
+adaderanalk | 1,580
 tamilmirrorlk | 1,597
 virakesarilk | 1,824
 dailymirrorlk | 2,009
-adaderanasinhalalk | 2,075
+adaderanasinhalalk | 2,076
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,127 (100.0%) of 13,127 articles have been extended.
+13,127 (100.0%) of 13,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### Senior officials of Adani Green Energy meet with Minister Kanchana
+
+*2024-03-15 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97982/senior-officials-of-adani-green-energy-meet-with-minister-kanchana) · `en`
+
+Minister of Power and Energy Kanchana Wijesekera has met with two senior officials of Adani Green Energy.
+
+Sagar Adani, the Executive Director of Adani Green Energy and Anil Sardana, the Managing Director and CEO of Adani Energy Solutions called on Wijesekera at the Ministry of Power & Energy on Thursday (March 14).
+
+The visiting officials are in Sri Lanka to participate in the negotiations and discussions on the power purchase agreement for the Mannar and Pooneryn 484 MW wind energy project.
+
+The project expects to add 250 MW in Mannar and 234 MW in Pooneryn to the national grid, the minister said in a post on his X handle (formerly Twitter).
+
+◼️
+
+[Data](articles/6fea5511.json)
+
+---
+
+### ඩොලරය 300 සීමාවට - වාසිය පාරිභෝගිකයාට නෑ
+
+*2024-03-15 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194551) · `si`
+
+මේ වසරේ ගතවූ මාස තුන තුළ අමෙරිකානු ඩොලරයට සාපේක්ෂව රුපියල 5.6 %කින් ශක්තිමත් වී තිබෙන අතර අද (15) එහි ගැනුම් මිල රුපියල් 300ක් බවට පත්විය.
+
+◼️
+
+[Data](articles/1beda89b.json)
+
+---
 
 ### Court hearing on the Commission appointed Kota
 
@@ -2271,53 +2301,5 @@ It is expected that China is expected to be referred to the two-country relation
 [Data](articles/b58a941e.json)
 
 [Extended Data](ext_articles/b58a941e.ext.json)
-
----
-
-### A woman is cut off with a bottle
-
-*2024-03-15 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194527) · `si`
-
-A 26-year-old woman was found dead in Pedapura, killed by neck bottles.
-
-🟩
-
-The body of women who were killed in a rental room was found.
-
-The police said that a 26-year-old woman body was found in a room in Pedapura.
-
-Initiative investigations have revealed that the casualty had been killed by her neck bottles by the illicit yesterday (14).
-
-◼️
-
-[Data](articles/ba6dfd3c.json)
-
-[Extended Data](ext_articles/ba6dfd3c.ext.json)
-
----
-
-### Environmental Authority has decided to consult the verbal views of the people of the Vani's wind power plant project
-
-*2024-03-15 07:39:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwen9prd4wo) · `si`
-
-The Environmental Authority is consulting public opinions on the Vani wind power plant project in Sri Lanka. The Sri Lanka Sustainable Energy Authority, the project proponent, aims to approve the project. The Central Environmental Authority (CEA) is also involved, accepting written comments until March 6. Public concerns include potential threats and water crises due to winds in Mannar. The project aims to generate 70% of Sri Lanka's electricity by 2030.
-
-🟩
-
-The Sri Lanka Sustainable Energy Authority is the Project Proponent of the project to provide the approval approval for the Heading Head, Rajapakse Heading, Sri Lanka (SLBF).
-
-Environmental Authority has decided to consult the verbal views of the people of the Vani's wind power plant project
-
-The Central Environmental Authority (CEA) has decided to promptly inquired about the verbal views of the wind power plant projects plan to implement Sri Lanka.
-
-The written comment was allowed until March 6.
-
-"We have written written comments that are interested in science, environmental organizations and environmental organizations and this.. We now have these comments to the Sri Lanka Sustainable Tests Authority, the Sri Lankan Sustainable Courtesy authority and submit technical explanations. The people asked us to give a chance to comment verbal. We hopefully give it a chance. "The Deputy Director General of Environmental Management and Evaluation Division. S Gamage told BBC Sinhala service.
-
-...
-
-[Data](articles/60eaa820.json)
-
-[Extended Data](ext_articles/60eaa820.ext.json)
 
 ---

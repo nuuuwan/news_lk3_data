@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 11:03:09**
+As of **2024-03-15 11:17:54**
 
 ## Newspaper Stats
 
-*Scraped **13,055** Articles*
+*Scraped **13,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ islandlk | 711
 adalk | 1,120
 adaderanalk | 1,569
 tamilmirrorlk | 1,591
-virakesarilk | 1,812
-dailymirrorlk | 1,996
-adaderanasinhalalk | 2,059
+virakesarilk | 1,814
+dailymirrorlk | 1,997
+adaderanasinhalalk | 2,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,048 (99.9%) of 13,055 articles have been extended.
+13,055 (100.0%) of 13,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### அரச வளங்களை விற்பனைசெய்தல் பற்றிய வாசகங்களை எமது ஆட்சியின்கீழ் மீண்டும் திருத்துவோம் - விஜித ஹேரத்
+
+*2024-03-15 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178779) · `ta`
+
+அரச வளங்களை விற்பனைசெய்தல் பற்றிய வாசகங்களை எமது ஆட்சியின்கீழ் மீண்டும் திருத்துவோம் என மக்கள் விடுதலை முன்னணியின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் தெரிவித்தார்.
+
+கொழும்பு ஷெங்ரில்லா ஹோட்டலில் வியாழக்கிழமை (14) காலை சர்வதேச நாணய நிதியம் மற்றும் தேசிய மக்கள் சக்தி பிரதிநிதிகளுக்கிடையில் நடைபெற்ற கலந்துரையாடலிலே இதனை அவர் தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் என்றவகையில் நானும் முதித்த நாணயக்காரவும், பொருளாதாரப் பேரவையின் அங்கத்தவர்களான கலாநிதி ஹர்ஷண சூரியப்பெரும, பேராசிரியர் அனில் ஜயந்த, பேராசிரியர் சீதா பண்டார மற்றும் சுனில் ஹந்துன்னெத்தியும் பங்கேற்றோம். நாணய நிதியத்தின் பீற்றர் புறூவரும் மூன்று பிரதிநிதிகளும் கலந்துகொண்டனர். இந்த கலந்துரையாடலின் அடிப்படை சாரத்தை மக்களுக்கு அறிவிப்பதற்காக  இந்த செய்தியாளர் சந்திப்பினை நடாத்துகிறோம்.
+
+...
+
+[Data](articles/c1655427.json)
+
+---
+
+### සංක්‍රමණිකයින් 60ක් මුහුදේ ගිලී මරුට
+
+*2024-03-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194535) · `si`
+
+මධ්‍යධරණී මුහුදේ යාත්‍රා කරමින් තිබූ අනවසර සංක්‍රමණික යාත්‍රාවක් ගිලී යෑමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් 60 දෙනෙක් මියගොස් ඇතැයි වාර්තා වෙයි.
+
+මෙලෙස අනතුරට ලක්වී ඇත්තේ ලිබියාවේ සිට යුරෝපය බලා යාත්‍රා කරමින් සිටි අනවසර සරණාගතයින් රැගත් යාත්‍රාවකි.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ ඉතාලිය හෝ මෝල්ටාව බලා එම යාත්‍රාව ගමන් කරමින් පැවති බවය.
+
+අනතුරට ලක්වී සිටි පිරිසෙන් පුද්ගලයින් 25 දෙනෙක් මුදාගැනීමට හැකිවී තිබේ.
+
+ස්වේච්ඡා සහන සේවා කණ්ඩායම් මෙම මුදාගැනීමේ මෙහෙයුම සිදුකර තිබුණේ ඉතාලි වෙරළාරක්ෂක සේවායේ ද සහායෙනි.
+
+මධ්‍යධරණී මුහුද සැලකෙන්නේ, අනවසර සංක්‍රමණිකයින් ගමන් කරන ලොව වඩාත් භයානකම මුහුදු මාර්ගය ලෙසය.
+
+එක්සත් ජාතීන්ගේ සරණාගත සේවයට අනුව ඒ ඔස්සේ යුරෝපයට පැමිණීමට උත්සාහ කරන අනවසර සංක්‍රමණිකයින්ගෙන් 2,500ක් පමණ අතුරුදන් හෝ මියයයි.
+
+මේ වසර තුළ මධ්‍යධරණී මුහුදේ සිදුවූ අනතුරුවලින් මියගොස් ඇති සංක්‍රමණිකයින් ගණන 226කි.
+
+◼️
+
+[Data](articles/33975654.json)
+
+---
 
 ### Ottawa mass killing: Lawyer says accused Sri Lankan student is in protective custody
 
@@ -50,87 +92,161 @@ According to Ottawa Police, De-Zoysa had come to Canada as an international stud
 
 [Data](articles/46bca398.json)
 
+[Extended Data](ext_articles/46bca398.ext.json)
+
 ---
 
-### பெரிய வெங்காய விலை தொடர்பில் இணக்கப்பாடு
+### Compliance with big onion prices
 
 *2024-03-15 10:52:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காய-விலை-தொடர்பில்-இணக்கப்பாடு/175-334705) · `ta`
 
-பெரிய வெங்காய இறக்குமதியாளர்கள் தங்களுடைய கையிருப்புகளை 450 முதல் 500ரூபாய்க்கு இடையில் வழங்குவதற்கு இணக்கம் தெரிவித்தனர்.
+Big onion importers agreed to price their stockings between 450 and 500 rupees, discussing with the Ministry of Commerce and Essential Mobile to ensure essential commodities are available during New Year. Minister Nalin Fernando confirmed the meeting was successful.
 
-புத்தாண்டு காலத்தில் மக்களுக்கு அத்தியாவசிய பொருட்களை வழங்குவது தொடர்பில், அத்தியாவசிய பொருட்கள் இறக்குமதியாளர்களுக்கும் வர்த்த அமைச்சருக்கும் இடையில் நேற்று அமைச்சில் கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+🟩
 
-இந்த சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த அமைச்சர் நளின் பெர்னாண்டோ, கலந்துரையாடல் வெற்றியடைந்துள்ளதாக கூறினார்.
+Large onion importers agreed to grant their stockings between 450 and 500 rupees.
+
+A discussion was held yesterday in the Ministry between the importers and the Commerce of the Essential Mobile, the provision of essential commodities to the people during the New Year.
+
+Speaking to the media after the meeting, Minister Nalin Fernando said the discussion was successful.
 
 ◼️
 
 [Data](articles/8e0d7ffe.json)
 
+[Extended Data](ext_articles/8e0d7ffe.ext.json)
+
 ---
 
-### இலங்கையர்களை நாட்டுக்கு அழைத்து வர தாய்லாந்து ஆதரவு
+### Vehicle prices set to increase after import resumptions next year: Importers
+
+*2024-03-15 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-prices-set-to-increase-after-import-resumptions-next-year-Importers/108-278914) · `en`
+
+Colombo, March 15 (Daily Mirror) - Local vehicle importers claimed that the current market prices of vehicles would increase after the proposed resumption of vehicle imports from next year due to the chang in the duty structure.
+
+They said the government had implemented a significant change in the duty structure in January, resulting in a substantial increase in the marginal cost of importing vehicles.
+
+The importers also claimed that vehicles would be imported under huge restrictions.
+
+According to the survey conducted by the association, the existing local market prices of vehicles would increase after the import of new vehicles.
+
+Addressing a gathering organized by the United Youth Union, titled "Future of the Youth," held this week at Taprobane Entertainment, President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting next year.
+
+...
+
+[Data](articles/a5b1b553.json)
+
+---
+
+### Thailand support to bring Sri Lankans to the country
 
 *2024-03-15 10:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-நாட்டுக்கு-அழைத்து-வர-தாய்லாந்து-ஆதரவு/175-334704) · `ta`
 
-மியான்மரில் சைபர் கிரைம் பகுதியில் இருந்து மீட்கப்பட்ட இலங்கையர்கள் உடனடியாக நாடு திரும்புவது தொடர்பாக தாய்லாந்தின் வெளிவிவகார அமைச்சருக்கும், ஜனாதிபதி சட்டத்தரணி அலி சப்ரிக்கும் இடையில் தொலைபேசி ஊடாக கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+Thailand supports Sri Lankans rescued from Myanmar's cybercrime zone, with 56 identified and eight rescued. The Thai Foreign Minister agrees to facilitate their return, as requested by Sri Lanka's Minister of State for External Affairs.
 
-மியன்மாரின் சைபர் கிரைம் வலயத்தில் 56 இலங்கையர்கள் இருப்பதாகவும் அவர்களில் 8 பேர் மீட்கப்பட்டுள்ளதாகவும் மியன்மார் அரசாங்கம் அண்மையில் உத்தியோகபூர்வமாக அறிவித்துள்ளது.
+🟩
 
-இதன்படி குறித்த நபர்களை இலங்கைக்கு அழைத்து வருவதற்கு தேவையான ஆதரவை வழங்குமாறு தாய்லாந்து வெளிவிவகார அமைச்சரிடம் வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி கோரிக்கை விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+There has been a telephone discussion between Thailand's Foreign Minister and President's Attorney Ali Chapari on the immediate return of Sri Lankans rescued from the cybercrime area in Myanmar.
 
-அதன்படி, இது தொடர்பான வசதிகளை வழங்க தாய்லாந்து வெளிவிவகார அமைச்சர் இணக்கம் தெரிவித்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+The Myanmar government has recently announced that there are 56 Sri Lankans in Myanmar's cybercrime zone and eight of them have been rescued.
+
+It is reported that the Minister of State for External Affairs Ali Sabri has requested the Thai Foreign Minister to give the necessary support to bring the persons to Sri Lanka.
+
+Accordingly, the Minister of Foreign Affairs of Thailand has agreed to provide the related facilities.. Remble
 
 ◼️
 
 [Data](articles/ffff4b8a.json)
 
+[Extended Data](ext_articles/ffff4b8a.ext.json)
+
 ---
 
-### ரயில் சேவைகள் தாமதம்
+### பழுதடைந்த நிலையில் பல நாட்கள் கடலில் தத்தளித்த படகு ; உணவு நீர் இன்றி  குடியேற்றவாசிகள் பலர் பலி - மத்திய தரை கடலில் துயரம்
+
+*2024-03-15 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/178775) · `ta`
+
+மத்தியதரை கடலில் இயந்திரம் பழுதடைந்ததை தொடர்ந்து படகுdinghy  நடுக்கடலில் பல நாட்கள் தத்தளித்ததால் குடியேற்றவாசிகள் பலர் உணவு நீரின்றி உயிரிழந்துள்ளனர்.
+
+படகு பயணத்தை ஆரம்பித்து மூன்று நாட்களின் பின்னர் அதன் இயந்திரம் பழுதடைந்ததாகவும் இதனால் தாங்கள் நடுக்கடலில் தத்தளித்ததாகவும் உயிருடன் மீட்கப்பட்ட குடியேற்றவாசிகள் தெரிவித்துள்ளனர்.
+
+அவர்கள் கடலில் மூழ்கி இறக்கவில்லை உணவு குடிநீர் இன்மையால் உயிரிழந்தனர் என அவர்கள் தெரிவித்துள்ளனர்.
+
+குறிப்பிட்ட படகினை தொலைக்காட்டிகளை வைத்து அவதானித்த அரசசார்பற்ற அமைப்பு இத்தாலிய கடலோர காவல்படையினருடன் சேர்ந்து மீட்பு நடவடிக்கையை முன்னெடுத்துள்ளது.
+
+இருவர் மயக்கமடைந்த நிலையில் காணப்பட்டனர் அவர்கள் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர் ஏனைய 23 பேரை எங்களின்கப்பலில்  வைத்திருக்கின்றோம் எனவும் அந்த அமைப்பு தெரிவித்துள்ளது.
+
+ஒருவாரகாலமாக கடலில் தத்தளித்ததால் படகில் இருந்தவர்கள் பெரும் துயரத்தில் சிக்குண்டனர் உணவும் குடிநீரும் விரைவில் தீர்ந்துவிட்டது என உயிர்தப்பியவர்கள் தெரிவித்தனர் என எஸ்ஓஸ்எஸ் அமைப்பின்  பேச்சாளர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d196f4f7.json)
+
+---
+
+### Train services delay
 
 *2024-03-15 10:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-தாமதம்/175-334703) · `ta`
 
-களனி மற்றும் ஹுனுப்பிட்டிய ரயில் நிலையங்களுக்கு இடையில் இன்று காலை சமிக்ஞை கோளாறு ஏற்பட்டுள்ளது.
+Train services delayed due to signal disorder between Kelani and Hunupitiya stations.
 
-இதன் காரணமாக பிரதான பாதையின் ரயில் சேவைகள் தாமதமாகியுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+🟩
+
+A signal disorder occurred between Kelani and Hunupitiya railway stations this morning.
+
+Due to this, the Railway Control Room said that the main road train services have been delayed.
 
 ◼️
 
 [Data](articles/811ec353.json)
 
+[Extended Data](ext_articles/811ec353.ext.json)
+
 ---
 
-### இலங்கையர்களை அழைத்துவர நடவடிக்கை
+### Action to bring Sri Lankans
 
 *2024-03-15 10:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-அழைத்துவர-நடவடிக்கை/175-334702) · `ta`
 
-இந்த விடயம் தொடர்பில் தாய்லாந்தின் வெளிவிவகார அமைச்சருக்கும், அமைச்சர் அலி சப்ரிக்கும் இடையில் கலந்துரையாடல் இடம்பெற்றுள்ளது.
+Thailand's Foreign Minister discusses with Sri Lanka's Minister Ali Sabri about rescuing 56 Sri Lankans trapped in Myanmar's Cyber Crime Zone. Eight have been saved, and Thailand is asked to help repatriate them. Thailand's Foreign Affairs Minister agrees to assist.
 
-மியன்மாரின் சைபர் கிரைம் வலயத்தில் 56 இலங்கையர்கள் இருப்பதாகவும் அவர்களில் 8 பேர் மீட்கப்பட்டுள்ளதாகவும் மியன்மார் அரசாங்கம் அண்மையில் கூறியது.
+🟩
 
-இந்த நிலையில், அவர்களை இலங்கைக்கு அழைத்து வருவதற்கு தேவையான ஆதரவை வழங்குமாறு தாய்லாந்திடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+A discussion has taken place between Thailand's Foreign Minister and Minister Ali Sabri on this issue.
 
-இது தொடர்பில் நடவடிக்கை எடுக்க தாய்லாந்து வெளிவிவகார அமைச்சர் இணக்கம் தெரிவித்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+The Myanmar government recently said that there are 56 Sri Lankans in the Myanmar Cyber Crime Zone and eight of them have been rescued.
+
+At this juncture, Thailand has been asked to support them to bring them to Sri Lanka.
+
+It is reported that the Minister of Foreign Affairs of Thailand has agreed to take action in this regard.
 
 ◼️
 
 [Data](articles/8434ed9d.json)
 
+[Extended Data](ext_articles/8434ed9d.ext.json)
+
 ---
 
-### முல்லைத்தீவில் துப்பாக்கிச்சூடு
+### Firing in Mullaithivu
 
 *2024-03-15 10:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-துப்பாக்கிச்சூடு/72-334701) · `ta`
 
-முல்லைத்தீவு - ஒட்டுசுட்டான் பகுதியில் பொலிஸாரின் உத்தரவை மீறிச் சென்ற டிப்பர் வாகனம் மீது துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ள நிலையில், தொடர்ந்து பொலிஸார் சந்தேகநபரை நேற்று (14) கைது செய்துள்ளனர்.
+A suspect was arrested for shooting a tipper vehicle in Mullaitivu-Oddusutan, and the vehicle was stopped by police. The suspect will face charges in the Mullaitivu Magistrate's Court.
 
-டிப்பரின் சக்கரங்களில் துப்பாக்கிச் சூடு நடத்தி அதனை தடுத்து நிறுத்தியதாக ஒட்டுசுட்டான் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் முல்லைத்தீவு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+The suspect has been arrested yesterday (14) as the Tipper vehicle has been shot dead in the Mullaitivu - Oddusutan area.
+
+Oddusutan police said that they had shot and stopped the tipper wheels.
+
+The arrested suspect is to be produced before the Mullaitivu Magistrate's Court. Remble
 
 ◼️
 
 [Data](articles/2680aff9.json)
+
+[Extended Data](ext_articles/2680aff9.ext.json)
 
 ---
 
@@ -176,19 +292,25 @@ Commenting to the media, Ports and Aviation Premalal Jayasekara stated that
 
 ---
 
-### இலங்கை - பங்களாதேஷ்  மோதும் இரண்டாவது ஒருநாள் போட்டி இன்று!
+### Sri Lanka - Bangladesh's second ODI match today!
 
 *2024-03-15 10:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-பங்களாதேஷ்-மோதும்-இரண்டாவது-ஒருநாள்-போட்டி-இன்று/44-334700) · `ta`
 
-இலங்கை மற்றும் பங்களாதேஷ் அணிகள் மோதும் 2ஆவது ஒரு நாள் கிரிக்கெட் போட்டி சிட்டகொங்கில்  இன்று (15) பிற்பகல் 2 மணிக்கு தொடங்க உள்ளது.
+Sri Lanka vs Bangladesh, 2nd ODI today at 2 pm. Bangladesh won 1st match by 6 wickets, leading 1-0 in 3-match series.
 
-முதலாவது ஒரு நாள் கிரிக்கெட் போட்டியில் 6 விக்கெட் வித்தியாசத்தில் பங்களாதேஷ் அணி வெற்றிப்பெற்றது.
+🟩
 
-அதனடபடி, 3 போட்டிகள் கொண்ட ஒரு நாள் தொடரில் 1 - 0 என்ற அடிப்படையில் பங்களாதேஷ் முன்னிலை வகிக்கின்றது.
+The 2nd one -day cricket match between Sri Lanka and Bangladesh will start at 2 pm today (15).
+
+Bangladesh won by 6 wickets in the first one -day cricket match.
+
+Accordingly, Bangladesh leads to 1 - 0 in a one -day series with 3 matches.
 
 ◼️
 
 [Data](articles/802866fc.json)
+
+[Extended Data](ext_articles/802866fc.ext.json)
 
 ---
 
@@ -2013,93 +2135,5 @@ The abduction of the day was recorded at a CCTV camera near the navy checkpoint.
 [Data](articles/12015b08.json)
 
 [Extended Data](ext_articles/12015b08.ext.json)
-
----
-
-### Sri Lanka Tamil State Party branches are not allowed in the diaspora - Tamil National Alliance General Secretary
-
-*2024-03-14 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178753) · `ta`
-
-The TNA general secretary states that Sri Lankan Tamil state party branches are not permitted in the diaspora, despite the party's branches operating in Sri Lanka. The party supports legal activities within the country, including projects in war-affected areas. No permission has been granted for branches outside Sri Lanka.
-
-🟩
-
-The Tamil National Alliance (TNA) general secretary has said that the branches of the Sri Lankan Tamil state party have not been granted permission to form in the migration.
-
-The branches of the Sri Lankan Tamil state party have long been functioning in the North, Eastern Province and Colombo District.
-
-At the same time, the members of the Sri Lanka Tamil State Party and the supporters of the Diaspora have been adopting the legal limits of the country in support of the political activities of the Sri Lankan Tamil state.
-
-They have been working directly and through our party members in the war -affected people and the people of the war, the people who have been affected by the war and the natural disasters, and the projects such as education, health and economic development projects.. We are grateful on behalf of our people for that. The party is ready to work with the diaspora relations that we want to accept our party's policies.
-
-...
-
-[Data](articles/96454903.json)
-
-[Extended Data](ext_articles/96454903.ext.json)
-
----
-
-### Prices of several imported goods down
-
-*2024-03-14 20:13:48* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-භාණ්ඩ-කිහිපයක-මිල-පහළට/11-408622) · `si`
-
-Prices of imported goods like white sugar, dhal, and wheat flour have decreased, with white sugar now at Rs. 300 per kilo. Importers claim to have enough supply for consumers. Some supermarkets and retail stores reported price reductions.
-
-🟩
-
-Essential food items say that the imported white sugar, dhal, wheat flour have been reduced. Accordingly, the bulk price of a kilo of white sugar has been reduced to Rs. 300 to Rs.
-
-The importers say they have enough white sugar, wheat flour and lentils as much as the consumers in the coming season.
-
-Meanwhile, it is reported that the prices of white sugar, dhal and wheat flour were reduced but some supermarkets and retail stores were reported.
-
-◼️
-
-[Data](articles/f75de5eb.json)
-
-[Extended Data](ext_articles/f75de5eb.ext.json)
-
----
-
-### Keheliya's bail demand rejection
-
-*2024-03-14 20:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-பிணை-கோரிக்கை-நிராகரிப்பு/175-334678) · `ta`
-
-Keheliya Rambukwella's bail plea rejected; case to be heard on March 28, ordered for interrogation under Public Property Act.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella, the former Secretary of the Ministry of Health and the four -member bail plea has been rejected by the Magistrate's Court.
-
-He also said that the judicial case will be taken up for hearing on March 28, who ordered them to be interrogated until the case is completed under the Public Property Act.. Remble
-
-◼️
-
-[Data](articles/14b6a887.json)
-
-[Extended Data](ext_articles/14b6a887.ext.json)
-
----
-
-### Sri Lanka’s International Financial City awaiting banking regulations
-
-*2024-03-14 20:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-international-financial-city-awaiting-banking-regulations-154648/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Port City, which will soon be renamed as the International Financial and Technological City, is awaiting Central Bank clearance for its banking regulations, Saliya Wickramasuriya, a member of its regulatory commission said.
-
-The Colombo Port City is a multi-currency special economic zone (dollarized) that will be free of exchange controls. Some of the laws in the country, such as the Employment Termination Act, apply to the special economic area.
-
-In several other listed laws it has to recommend exemptions which have to be approved by the Minister or President.
-
-The Port City Commission has to work with the relevant agency in charge of the law, like the Central bank in relation to banking, the Department of Immigration for visas or Customs in preparing special regulations to apply within its jurisdiction.
-
-Banks operating within the special economic zone will be licensed by either the central bank or the country it is incorporated in.
-
-...
-
-[Data](articles/ff9cd528.json)
-
-[Extended Data](ext_articles/ff9cd528.ext.json)
 
 ---

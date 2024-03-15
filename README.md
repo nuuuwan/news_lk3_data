@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 21:52:26**
+As of **2024-03-15 22:04:52**
 
 ## Newspaper Stats
 
-*Scraped **13,140** Articles*
+*Scraped **13,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,583
 tamilmirrorlk | 1,599
 virakesarilk | 1,827
 dailymirrorlk | 2,010
-adaderanasinhalalk | 2,077
+adaderanasinhalalk | 2,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,138 (100.0%) of 13,140 articles have been extended.
+13,140 (100.0%) of 13,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### ශ්‍රී ලංකාවට සුපිරි ජයක්
+
+*2024-03-15 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194554) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති දෙවැනි එක්දින ජාත්‍යන්තර තරගයෙන් තියුණු ජයක් වාර්තා කිරීමට සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+ලකුණු 287ක ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා ක්‍රීඩකයෝ පන්දු ඕවර 47.1 කදී තරගය ජයග්‍රහණය කිරීමට සමත්වූහ.
+
+◼️
+
+[Data](articles/652d2a06.json)
+
+---
 
 ### Thilini accepted the offense
 
@@ -348,19 +362,27 @@ Accordingly, the Supreme Court three-judge-bench comprising Justices Preethi Pad
 
 ---
 
-### 69 ලක්ෂයේ ආණ්ඩුව විසින් නැවැත්වූ වැඩක් මෛත්‍රී කියයි
+### 69 The government stopped by the government
 
 *2024-03-15 19:05:07* · [`adalk`](https://www.ada.lk/breaking_news/69-ලක්ෂයේ-ආණ්ඩුව-විසින්-නැවැත්වූ-වැඩක්-මෛත්‍රී-කියයි/11-408632) · `si`
 
-තමන් ජනාධිපති ධුරය දරන කාලේ ඉන්දීය රජයෙන් ලැබුණු ත්‍යාගයක් විදිහට පොළොන්නරුවේ ඉදි කරනු ලැබූ තෛයි භාෂාපාසලේ වැඩ කටයුතු හැට නව ලක්ෂයේ ආණ්ඩුව ආවට පස්සේ නැවතුන බවත් එම වැඩ කටයුතු නැවත පටන් ගැනීමට හැකිවීම පිළිබඳව ඉන්දීය රජයට තමන් ස්තුතිවන්ත වන බව හිටපු ජනාධිපති මෛත්‍රිපාල සිරසේන මහතා අද (15) පොළොන්නරුවේදී ප්‍රකාශ කළේය.
+The Indian government aids Sri Lanka in resuming work in Polonnaruwa, with a $250 million grant for school projects. Former President Maithripala Sirisena, now an MP, thanks the Indian government and promises to complete the remaining $250 million this year.
 
-ඉන්දියානු ශ්‍රී ලංකා නියෝජ්‍ය මහ කොමසාරිස් එල්දොස් මැතිව් පුන්නූස් මහතා අද (15) පෙරවරුවේ හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ආරාධනයකට අනුව වැඩ නවතා දමා ඇති මෙම තෛයි භාෂා පාසලේ නිරීක්ෂණ චාරිකාවකට එක් වූ අතර එම චාරිකාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් පළ කරමින් හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා මේ බව පැවසීය.
+🟩
 
-මේ අනුව ඉදිරි මාස හයක් ඇතුළත මෙම පාසලේ වැඩ කටයුතු අවසන් කිරීම සඳහා මිලියන 250 ක මුදලක් ද ඉන්දීය රජයෙන් ලැබෙන බව හිටපු ජනාධිපතිවරයා මෙහිදී ප්‍රකාශ කළේය
+Former President Maithripala Siriseena in Polonnaruwa today (15) in Polonnaruwa that the government is thankful to the Indian government to be able to resume the work in Polonnaruwa while he was present at the presidency.Said.
+
+Deputy High Commissioner of India has been opened to the invitation of former President Maithripala Sirisena today (15), a tour of the former President Maithripala Sirisena today (15th), MP Maithripala Sirisena addressing the media.said.
+
+Accordingly, the Indian government has received 250 million rupees to end the work of the school within the next six months.
+
+As a request I made the president of my first Indian tour of the school, I was awarded to Sri Lanka as a prize of the President as a prize of the President as a tyranish school.After 60,000 the government returned to the 2019, the covard had an effectiveness, but the government was interested in the government.
 
 ...
 
 [Data](articles/4633f7c1.json)
+
+[Extended Data](ext_articles/4633f7c1.ext.json)
 
 ---
 
@@ -590,21 +612,29 @@ Pottuvil Police Officer Kamal Seneviratne is conducting further inquiries on the
 
 ---
 
-### தேசிய வளங்களை விற்பனை செய்து எமது நிர்வாணத்தை முழு உலகுக்கும் காட்சிப்படுத்த வேண்டாம் - அஸ்கிரி அனுநாயக்க வெடருவே உபாலி தேரர்
+### Do not sell national resources and show our nakedness to the whole world - Asgiri Anunayaka
 
 *2024-03-15 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178809) · `ta`
 
-ஆட்சியாளர்கள் அனைத்து விடயங்களையும் அரசியல் மயமாக்காமல் சிறந்த அரச நிர்வாகத்தையும் நாட்டுக்குள் ஏற்படுத்த வேண்டும். அரச பொறிமுறைகள் தர்மத்துடன் இணைந்து செயற்படும்போதுதான் நாடு செழிப்பாகும் என  அஸ்கிரி அனுநாயக்க வெடருவே உபாலி தேரர் தெரிவித்தார்.
+Asgiri Anunayaka emphasizes the importance of not selling national resources and maintaining cultural integrity. He advocates for state administration without politicization, focusing on charity and cooperation for prosperity.
 
-தேசிய வளங்கள் வெளிநாடுகளுக்கு விற்பனை செய்வதற்கு எதிராக தேசிய பிக்குகள் அமைப்பு வியாழக்கிழமை (14) களனியில் ஏற்பாடு செய்திருந்த மஹா சங்க சம்மேளனத்தில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டின் அனைத்து விடயங்களையும் அரசியல்மயமாக்காமல் சிறந்த அரச நிர்வாகத்தையும் நாட்டுக்குள் ஏற்படுத்த வேண்டும். காலத்துக்கு தேவையான மழை பெய்து விவசாயம் செழிப்புற்று நல்ல அறுவடையை பெற்றுக்கொள்வதற்கு  அரச பொறிமுறைகள் தர்மத்துடன் செயற்டவேண்டும்.  நாட்டின் பெறுமதிமிக்க வளங்களை விற்பனை செய்து, அதனை செய்ய முடியாது.
+The rulers must make the best state administration into the country without politicizing all matters. Asgiri Anunayaka Vidhuve Upali Thera said that the country is prosperous when the state mechanisms work together with charity.
 
-அத்துடன் நாங்கள் அணிந்திருக்கும் ஆடையை விற்பனை செய்ய முயற்சிக்க வேண்டாம் அவ்வாறு விற்பனை செய்தால் எமது நிர்வாணம் முழு உலகுக்கும் வெளிச்சமாகும். அதனால் எமது மேலான கலாசாரத்தை பாதுகாத்துக்கொள்வதே எமக்கு முக்கியமாகும்.
+He said this while participating in the Maha Sangam Federation held in Kelaniya on Thursday (14) against the sale of national resources overseas.
+
+The best state administration should be placed in the country without politicizing all matters of the country. State mechanisms must be done with charity for the timely rainfall and agriculture prosperous.It is not possible to sell the country's valuable resources.
+
+And don't try to sell the dress we are wearing. So it is important to us to protect our superior culture.
+
+It is a national crime to sell the country's resources overseas. Therefore, the rulers should advise the news that these matters should be carried out by the state administration.
 
 ...
 
 [Data](articles/2c2f9914.json)
+
+[Extended Data](ext_articles/2c2f9914.ext.json)
 
 ---
 
@@ -2287,29 +2317,5 @@ Train services on the main line will be delayed due to a signal failure between 
 [Data](articles/97027228.json)
 
 [Extended Data](ext_articles/97027228.ext.json)
-
----
-
-### Second ODI match today
-
-*2024-03-15 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194531) · `si`
-
-Today's 2nd ODI between Sri Lanka Tourism and Bangladesh starts at 2:00 pm. Sri Lanka aims for a different outcome, following Bangladesh's victory in the first match.
-
-🟩
-
-The second ODI match between the Sri Lanka Tourism and Bangladesh will be held today (15).
-
-The game of Chittagon will commence at 2.00 pm.
-
-It is said that the Sri Lankan team will most likely have a different difference in the match today.
-
-Bangladesh won the first one-day cricket match between the two countries in the first one-day cricket match.
-
-◼️
-
-[Data](articles/00d76959.json)
-
-[Extended Data](ext_articles/00d76959.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 12:03:05**
+As of **2024-03-15 12:17:47**
 
 ## Newspaper Stats
 
-*Scraped **13,063** Articles*
+*Scraped **13,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,570
 tamilmirrorlk | 1,591
 virakesarilk | 1,814
 dailymirrorlk | 1,997
-adaderanasinhalalk | 2,060
+adaderanasinhalalk | 2,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,061 (100.0%) of 13,063 articles have been extended.
+13,063 (100.0%) of 13,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### ආචාර ධර්ම උල්ලංඝනය කළේ යැයි චෝදනා ලබා සිටි නීතිඥවරයා නිදහස්
+
+*2024-03-15 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194536) · `si`
+
+කොළඹ වාණිජ මහාධිකරණය විසින් නිකුත් කළ තහනම් නියෝගයක් භාරදීමේදී නීතිඥ ආචාර ධර්ම උල්ලංඝනය කළේ යැයි චෝදනා ලබා සිටි නීතිඥවරයෙකු එම චෝදනාවලින් නිදහස් කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද නියෝග කළා.
+
+2022 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් රුසියනු ඒරොෆ්ලෝට් ගුවන් යානයක් ශ්‍රී ලංකාවෙන් පිටව යාම වළක්වාලමින් නිකුත්කළ නියෝගයක් කටුනායක බණ්ඩාරනායක ගුවන් තොටුපොළේ ගුවන් පාලක මැදිරියට ගොස් භාරදීමේදී නීතිඥ ආචාර ධර්ම උල්ලංඝනය කළේ යැයි එම නීතිඥවරයාට චෝදනා එල්ලකර තිබුණි.
+
+ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් එම තීන්දුව ලබාදුන්නේය.
+
+අදාළ සිද්ධියේදී වගඋත්තරකාර නීතිඥවරයා නීතිඥ ආචාර ධර්ම උල්ලංඝනය කර ඇති බවට කරුණු අනාවරණ වී නොමැති හෙයින් ඔහු එම චෝදනාවෙන් නිදහස් කරන බවත් නඩු තීන්දුවේ සඳහන් විය.
+
+◼️
+
+[Data](articles/c219b527.json)
+
+---
 
 ### Fifteen Indian fishermen apprehended while poaching in Sri Lankan waters
 
@@ -310,6 +328,8 @@ Bahiddha-Nukara, who is also the Deputy Prime Minister of Thailand, agreed to fa
 
 [Data](articles/cb775095.json)
 
+[Extended Data](ext_articles/cb775095.ext.json)
+
 ---
 
 ### Signal Disorder: Train Services Delay in Pratana Religion
@@ -511,6 +531,8 @@ The Colombo Stock Market opened up; the All Share Price Index was up 0.08 percen
 ◼️
 
 [Data](articles/43a0b3f0.json)
+
+[Extended Data](ext_articles/43a0b3f0.ext.json)
 
 ---
 
@@ -2123,23 +2145,5 @@ He said that if the relevant naval soldiers were proven guilty, strict action wo
 [Data](articles/2d1f98be.json)
 
 [Extended Data](ext_articles/2d1f98be.ext.json)
-
----
-
-### Drought risk looms large
-
-*2024-03-14 21:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Drought-risk-looms-large/108-278864) · `en`
-
-Amidst growing concerns over an anticipated drought, the Defence Ministry has announced plans to mitigate potential damages, according to an official statement released yesterday.
-
-Forecasts from the Meteorological Department indicate that while there may be sporadic rainfall expected towards the end of March and into April, it is projected to be of diminished volume, exacerbating the looming drought conditions. In response, the Disaster Management Centre has proactively devised strategies to confront the impending crisis.
-
-State Minister of Defence Premitha Bandara Tennakoon, underscored the grave consequences of the dry spell, highlighting the heightened risks of wildlife poaching and forest fires. Tennakoon issued a stern plea to citizens, urging them to abstain from engaging in such harmful activities.
-
-...
-
-[Data](articles/a7ba05a2.json)
-
-[Extended Data](ext_articles/a7ba05a2.ext.json)
 
 ---

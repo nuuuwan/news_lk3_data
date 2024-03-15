@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 00:18:03**
+As of **2024-03-16 00:33:18**
 
 ## Newspaper Stats
 
-*Scraped **13,162** Articles*
+*Scraped **13,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 711
 adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
-virakesarilk | 1,830
+virakesarilk | 1,831
 dailymirrorlk | 2,017
 adaderanasinhalalk | 2,079
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,162 (100.0%) of 13,162 articles have been extended.
+13,162 (100.0%) of 13,163 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-16 (Saturday)
+
+### Francophonie 2024 – மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோரின் இசை நிகழ்ச்சி
+
+*2024-03-16 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178831) · `ta`
+
+இலங்கை மற்றும் மாலைதீவுகளுக்கான சுவிட்சர்லாந்து தூதரகம், International Organization of la Francophonie உடன் இணைந்து, கொழும்பு மற்றும் அஹங்கம பகுதிகளில் இசை நிகழ்ச்சியொன்றை ஏற்பாடு செய்யவுள்ளது. வருடாந்த பிரெஞ்சு மொழி மற்றும் Francophonie கலாசாரங்கள் போன்றவற்றுடன் சுவிஸ் இசைக் கலைஞர்களான மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோருடன் Francophonie 2024 ஐ கொண்டாடும் நோக்கில், ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+அறிமுக நிகழ்வு மார்ச் மாதம் 16ஆம் திகதி பி.ப. 7 மணி முதல் கொழும்பு ‘Alliance Française de Colombo இல் நடைபெறும். அதனைத் தொடர்ந்து, மார்ச் 17 ஆம் திகதி பி.ப. 7.00 மணி முதல் TRAX அஹங்கமவிலும் நடைபெறும். குறித்த நிகழ்வுகளை அனைவராலும் இலவசமாக கண்டுகளிக்க முடியும்.
+
+Master classes களும் மார்ச் மாதம் 16 ஆம் திகதி கட்புல, அரங்கேற்றக் கலைகள் பல்கலைக்கழகத்திலும், மார்ச் 19ஆம் திகதி உருகுணை பல்கலைக்கழகத்திலும் நடைபெறும்.
+
+...
+
+[Data](articles/be7db8b7.json)
+
+---
 
 ### 2024-03-15 (Friday)
 
@@ -2265,27 +2283,5 @@ In North Central, North-Western, Eastern, East, Vavuniya, Mullaitivu, Vavuniya, 
 [Data](articles/2dcdd880.json)
 
 [Extended Data](ext_articles/2dcdd880.ext.json)
-
----
-
-### We will re -revise the words of the sale of state resources under our rule - Vijitha Herath
-
-*2024-03-15 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178779) · `ta`
-
-JVP's Vijitha Herath announced a revision of state resource sale terms. Discussions with the IMF and National People's Power Representatives focused on restructuring domestic and foreign loans, addressing corruption, and the government's handling of debt and resources.
-
-🟩
-
-The Janatha Vimukthi Peramuna (JVP) parliamentarian Vijitha Herath said that we will re -revise the words of the sale of state resources under our rule.
-
-He was speaking at a discussion held at the Shengrilla Hotel in Colombo on Thursday morning between the International Monetary Fund and the National People's Power Representatives.
-
-As a member of the National People's Power, I, I, I, Elder Nanayakkara, Members of the Economic Forum, Dr. Harshana Suriyapperuma, Professor Anil Jayantha, Professor Sita Bandara and Sunil Handunnethi participated in the event.. Three representatives of the Monetary Fund. We are holding this press conference to announce the basic essence of this discussion.
-
-...
-
-[Data](articles/c1655427.json)
-
-[Extended Data](ext_articles/c1655427.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 16:18:04**
+As of **2024-03-15 16:33:10**
 
 ## Newspaper Stats
 
-*Scraped **13,096** Articles*
+*Scraped **13,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,62 @@ adalk | 1,126
 adaderanalk | 1,575
 tamilmirrorlk | 1,595
 virakesarilk | 1,818
-dailymirrorlk | 2,001
+dailymirrorlk | 2,002
 adaderanasinhalalk | 2,070
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,095 (100.0%) of 13,096 articles have been extended.
+13,096 (100.0%) of 13,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### වනඅලි ප්‍රහාරයෙන් විදෙස් ජාතිකයෙක් මරුට
+### Conductor arrested for pickpocketing
+
+*2024-03-15 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Conductor-arrested-for-pickpocketing/108-278922) · `en`
+
+Colombo, March 15 (Daily Mirror)- The conductor of a private bus on the Moratuwa – Pettah route 101 was arrested on suspicion of picking pocket.
+
+It is alleged that he was caught red handed when he stole the wallet of a passenger and a fellow passenger who had noticed it had revealed it to the owner. The passengers caught and handed him over to the police.
+
+Investigations revealed that the suspect was a drug addict and that he had resorted to stealing the money and valuables of passengers.
+
+The passenger who faced the incident was from Gampaha area travelling to Moratuwa.
+
+Police suspect the conductor for his involvement in similar previous incidents.
+
+◼️
+
+[Data](articles/3e491eca.json)
+
+---
+
+### Forest killed in clashes
 
 *2024-03-15 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194545) · `si`
 
-පොතුවිල් සංගමන්කන්ද ප්‍රදේශයේ දී වනඅලි ප්‍රහාරයකට ලක්වීමෙන් විදෙස් ජාතිකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+An overseas national was killed in clashes in Pottuvil Sangankanda, attacked by a local nationality. Another was killed in Lidwewa while conducting cultivation.
 
-අද (15) උදෑසන සංගමන්කන්ද මනචේනි කැලෑවල ප්‍රදේශයේ දී අදාළ විදෙස් ජාතිකයා වනඅලි ප්‍රහාරයට ලක්ව ඇති බව වාර්තා වේ.
+🟩
 
-ඔහු එම ප්‍රදේශයේ හෝටලයක නවාතැන් ගෙන සිටි අයෙකු බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+An overseas have died after being attacked by Ven. Pottuvil Sangankanda area.
 
-මේ අතර මැදවච්චිය ලිදවැව ප්‍රදේශයේදී ද වනඅලි ප්‍රහාරයකට ලක්වීමෙන් 61 හැවිරිදි පුද්ගලයෙකු මියගොස් තිබේ.
+It is reported that the relevant national national is attacked by the relevant nationality in Manichani in Manichani, this morning (15).
 
-වගා කටයුතු සිදුකරමින් සිටික අතරතුර ඔහු මෙම අනතුරට ලක්ව ඇති බව පොලීසිය පැවසුවේය.
+The Ada Derana reporter said he was staying at a hotel in the area.
+
+Meanwhile, Medawachchiya was also killed in the Lidwewa area.
+
+The police said that he had been inaugurated while he was conducting cultivation.
 
 ◼️
 
 [Data](articles/a5c6571a.json)
+
+[Extended Data](ext_articles/a5c6571a.ext.json)
 
 ---
 
@@ -2201,27 +2227,5 @@ Ketamanne Gunananda Thera, Member of Parliament Vajira Abeywardena and President
 [Data](articles/63a82d7d.json)
 
 [Extended Data](ext_articles/63a82d7d.ext.json)
-
----
-
-### Expert Panel to solve construction issues
-
-*2024-03-15 03:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணத்துறை-பிரச்சினைகளைத்-தீர்க்க-நிபுணர்-குழு/175-334693) · `ta`
-
-Expert panel to address construction issues, appointed by President Ranil Wickremesinghe, with input from Ministry of Finance, Urban Development, and Housing Ministry.
-
-🟩
-
-Ranil Wickremesinghe said that a panel of experts will be appointed to submit a report to the issues that can be addressed in the current economic situation and submit a report.
-
-President Ranil Wickremesinghe made this statement at a discussion held at the Presidential Office yesterday with the industrial sector in the construction industry.
-
-The President also stated that the Ministry of Finance, Urban Development and Housing Ministry will take steps to appoint this panel of experts with departmental experts.. (A)
-
-◼️
-
-[Data](articles/360e1fb1.json)
-
-[Extended Data](ext_articles/360e1fb1.ext.json)
 
 ---

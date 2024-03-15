@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 19:34:15**
+As of **2024-03-15 19:50:44**
 
 ## Newspaper Stats
 
-*Scraped **13,125** Articles*
+*Scraped **13,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,77 @@ islandlk | 711
 adalk | 1,128
 adaderanalk | 1,579
 tamilmirrorlk | 1,597
-virakesarilk | 1,823
-dailymirrorlk | 2,008
+virakesarilk | 1,824
+dailymirrorlk | 2,009
 adaderanasinhalalk | 2,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,123 (100.0%) of 13,125 articles have been extended.
+13,125 (100.0%) of 13,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### இந்துக்களின் சமரில் பலமான நிலையில் யாழ். இந்து : பம்பலப்பிட்டி இந்து 80க்கு சுருண்டது; யாழ். இந்து 150 - 4  விக்.
+### கோட்டா நியமித்த ஆணைக்குழு தொடர்பான நீதிமன்ற விசாரணை நிறைவு!
+
+*2024-03-15 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178825) · `ta`
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்க்ஷவின் ஆட்சிக் காலத்தில் நியமிக்கப்பட்ட அரசியல் பழிவாங்கல்கள் தொடர்பில் விசாரணை நடத்திய ஆணைக்குழுவின் பரிந்துரைகள் மற்றும் முடிவுகளை இரத்துச் செய்யுமாறு கோரி தாக்கல் செய்யப்பட்ட மனு மீதான விசாரணை நிறைவடைந்துள்ளது.
+
+ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க, முன்னாள் கடற்படைத் தளபதி ட்ரவிஸ் சின்னையா, முன்னாள் உயர் நீதிமன்ற நீதிபதி பத்மினி ரணவக்க மற்றும் பலர் இந்த மனுக்களை சமர்ப்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/074f8a3b.json)
+
+---
+
+### Lawyer discharged from alleged professional misconduct
+
+*2024-03-15 19:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lawyer-discharged-from-alleged-professional-misconduct/108-278932) · `en`
+
+Colombo, March 15 (Daily Mirror) - The Supreme Court ruled that a lawyer involved in the controversies surrounding the prevention of a Russian Aeroflot flight from taking off from within the territorial jurisdiction of Sri Lanka following a court order, has not committed any act which would amount to conduct unworthy of an Attorney-at-Law.
+
+Accordingly, the Supreme Court three-judge-bench comprising Justices Preethi Padman Surasena, Achala Wengappuli and Mahinda Samayawardhena decided to discharge the rule issued against the respondent Attorney-at-Law citing that he has not committed any act of deceit, malpractice or offence as set out in Section 42(2) of the Judicature Act No. 02 of 1978 read with the Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules 1988.
+
+...
+
+[Data](articles/7e05af06.json)
+
+---
+
+### Jaffna in a strong position of the Hindus. Hindu: Bambalapitiya curled up to Hindu 80;Yall. Hindu 150 - 4 wig.
 
 *2024-03-15 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178824) · `ta`
 
-யாழ்ப்பாணம் இந்து கல்லூரி மைதானத்தில் இன்று வெள்ளிக்கிழமை (15) ஆரம்பமான பம்பலப்பிட்டி இந்து - யாழ். இந்து கல்லூரிகளுக்கு இடையிலான 13ஆவது இந்துக்களின் பெருஞ் சமர் கிரிக்கெட் போட்டியில் யாழ். இந்து அணி பலம்வாய்ந்த நிலையில் இருக்கிறது.
+Bambalapitiya Hindu, in Jaffna, scored 80 in the first innings, with Muthukumar Abhishek (14), Sri Nitusan (12), Ramaraj Diljan (11), and Bala Darunjan (10) contributing. Sudarshan Subarman took 3 wickets. In reply, they lost 4 wickets and scored 150, with Krishnarajan Parasith and Jagadeesan Bhavanan sharing 69 runs.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த பம்பலப்பட்டி, இந்து அணி அதன் முதல் இன்னிங்ஸில் மிக மோசமாகத் துடுப்பெடுத்தாடி சகல விக்கெட்களையும் இழந்து வெறும் 80 ஓட்டங்களைப் பெற்றது.
+🟩
 
-அவர்களில் மத்திய வரிசை துடுப்பாட்ட வீரர் முத்துக்குமார் அபிஷேக் 14 ஓட்டங்களை அதிகபட்சமாக பெற்றார்.
+Bambalapitiya Hindu - Jaffna. Jaffna Cricket in the 13th Hindus between Hindu Colleges. The Hindu team is strong.
 
-அவரை விட ஸ்ரீ நிதுசன் 12 ஓட்டங்களையும் ராமராஜ் டிலோஜன் 11 ஓட்டங்களையும் அணித் தலைவர் பாலா தாருஞ்சன் 10 ஓட்டங்களையும் பெற்றனர். பம்பலப்பிட்டி இந்துவின் மொத்த எண்ணிக்கையில் 13 உதரிகளே இரண்டாவது அதிககூடிய எண்ணிக்கையாக இருந்தது.
+Bambalapatti, who decided to bat first in the upting match, scored just 80 runs for the loss of all wickets in its first innings.
+
+Among them, Muthukumar Abhishek scored 14 runs.
+
+Sri Nitusan scored 12 runs, Ramaraj Diljan 11 and team captain Bala Darunjan scored 10 runs. The total number of Bambalapitiya Hindu was the second highest number of the second.
+
+In the bowling, Sudarshan Subarman took 3 wickets in 14 overs, including 5 overs, Srijayanthan Hariharan took 3 wickets for 36 runs in 17 overs, while Yogalan Sarujan took 2 wickets for 3 runs in 9.1 overs.
+
+In reply, Bambalapitiya Hindu first day, at the end of the first day of the game, losing 4 wickets and scoring 150 runs.
+
+Krishnarajan Parasith and Jagadeesan Bhavanan shared 69 runs and made the outstanding start.
+
+Subsequently, Lokeswaran Priyanthan (19) and Anton Vidushan (2) were out for less.
 
 ...
 
 [Data](articles/0891fc22.json)
+
+[Extended Data](ext_articles/0891fc22.ext.json)
 
 ---
 
@@ -482,21 +524,27 @@ Applications submitted prior to 12 p.m today will not be accepted and will not b
 
 ---
 
-### විද්‍යාපීඨවලට බඳවා ගැනීමට අයදුම්පත් කැඳවයි
+### Applications called for enrollment to Colleges of Education
 
 *2024-03-15 16:10:49* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාපීඨවලට-බඳවා-ගැනීමට-අයදුම්පත්-කැඳවයි/11-408631) · `si`
 
-2021/2022  අධ්‍යයන වර්ෂයේ උසස් පෙළ විභාග ප්‍රතිඵල මත ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ශික්‍ෂණලාභීන් ඇතුළත් කර ගැනීමට අදාළ අයදුම්පත් කැඳවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය පියවර ගෙන ඇත.
+The Ministry of Education Sri Lanka calls for student enrollment in national education institutes for the upcoming academic year. Applications must be submitted online after 12.03.2003.
 
-ඒ අනුව මීට අදාළ ගැසට් නිවේදනය ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ අංක 2376 දරන 2024.03.15 වන සිකුරාදා ගැසට් පත්‍රයේ පළ කර තිබේ. මාර්ගගත ක්‍රමය (Online)  ඔස්සේ මේ සඳහා අයදුම්පත් ඉදිරිපත් කළ යුතු අතර අයදුම්පත් අතරින් සුදුස්සන් තෝරා ගැනීම ද මාර්ගගත ක්‍රමය ඔස්සේ ම මෙවර සිදු කරනු ලබයි.
+🟩
 
-2024.03.15 දින දහවල් 12.00න් පසුව මාර්ගගත ක්‍රමවේදය ඔස්සේ මේ සඳහා අයදුම් කළ හැකි අතර අයදුම්  කිරීමේ කාල සීමාව 2024.04.05 දිනයෙන් අවසන් වේ.
+The Ministry of Education has taken steps to call for the participation of students to admit the teaching of national education institutes on the year Academic year.
 
-2024.03.15 දින දහවල් 12.00ට පෙර ඇතුළත් කර ඇති අයදුම්පත් සලකා නොබැලෙන බැවින් එම අයදුම්කරුවන් නැවත මාර්ගගත ක්‍රමය ඔස්සේ අයදුම් කළ යුතු ය.
+Accordingly, the gazette notification has been published in the Gazette on Friday, No. 2373 of the Democratic Socialist Republic of Sri Lanka.. The application should be submitted along with online method (online) and selecting the eligibility for the applications.
+
+This can be applied through online methods after 12.03.2003.
+
+Applicants should apply for online system, as applications included before 12.03 pm.
 
 ◼️
 
 [Data](articles/29d2c786.json)
+
+[Extended Data](ext_articles/29d2c786.ext.json)
 
 ---
 
@@ -2263,49 +2311,5 @@ The written comment was allowed until March 6.
 [Data](articles/60eaa820.json)
 
 [Extended Data](ext_articles/60eaa820.ext.json)
-
----
-
-### Suspect's suspect remanded again
-
-*2024-03-15 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194526) · `si`
-
-Suspect remanded again in trial for killing 6 Sri Lankans in Canada. Accused of killing 19-year-old student Fibri. Trial resumes on 28th.
-
-🟩
-
-The trial has been recalled to the killing of 6 Sri Lankans in Canada.
-
-The allegations have been accused of the killings on the 19-year-old Sri Lankan students, Fibri, a 19-year-old Sri Lankan student.
-
-He was remanded again yesterday (14) and the trial is to be taken up again on the 28th.
-
-◼️
-
-[Data](articles/0b09e7bf.json)
-
-[Extended Data](ext_articles/0b09e7bf.ext.json)
-
----
-
-### Evening showers likely in some areas, dry weather expected elsewhere
-
-*2024-03-15 07:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/97969/evening-showers-likely-in-some-areas-dry-weather-expected-elsewhere) · `en`
-
-Showers or thundershowers may occur at several places in Western, Sabaragamuwa, Southern and Central provinces in the evening or at night.
-
-However, mainly dry weather will prevail elsewhere on the island.
-
-Misty conditions can be expected in parts of Sabaragamuwa, Central and Uva provinces and Galle and Matara districts in the morning.
-
-Mainly fair weather will prevail in the sea areas around the island.
-
-Winds will be easterly or variable in direction and wind speed will be 20-30 kmph.
-
-◼️
-
-[Data](articles/42235915.json)
-
-[Extended Data](ext_articles/42235915.ext.json)
 
 ---

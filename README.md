@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 19:50:44**
+As of **2024-03-15 20:02:59**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,075
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,125 (100.0%) of 13,127 articles have been extended.
+13,127 (100.0%) of 13,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### கோட்டா நியமித்த ஆணைக்குழு தொடர்பான நீதிமன்ற விசாரணை நிறைவு!
+### Court hearing on the Commission appointed Kota
 
 *2024-03-15 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178825) · `ta`
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்க்ஷவின் ஆட்சிக் காலத்தில் நியமிக்கப்பட்ட அரசியல் பழிவாங்கல்கள் தொடர்பில் விசாரணை நடத்திய ஆணைக்குழுவின் பரிந்துரைகள் மற்றும் முடிவுகளை இரத்துச் செய்யுமாறு கோரி தாக்கல் செய்யப்பட்ட மனு மீதான விசாரணை நிறைவடைந்துள்ளது.
+The Commission's court hearing on political revenge during former President Gotabhaya Rajapakse's reign concluded, with petitions submitted by President Saman Ekanayake, former Navy Commander Travis Chinnaiah, and others.
 
-ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க, முன்னாள் கடற்படைத் தளபதி ட்ரவிஸ் சின்னையா, முன்னாள் உயர் நீதிமன்ற நீதிபதி பத்மினி ரணவக்க மற்றும் பலர் இந்த மனுக்களை சமர்ப்பித்துள்ளனர்.
+🟩
+
+The hearing of the petition filed by the Commission to investigate the political revenge appointed during the reign of former President Gotabhaya Rajapakse has been completed.
+
+President of the President Saman Ekanayake, former Navy Commander Travis Chinnaiah, former High Court Judge Padmini Ranawaka and many others have submitted the petitions.
 
 ◼️
 
 [Data](articles/074f8a3b.json)
+
+[Extended Data](ext_articles/074f8a3b.ext.json)
 
 ---
 
@@ -57,6 +63,8 @@ Accordingly, the Supreme Court three-judge-bench comprising Justices Preethi Pad
 ...
 
 [Data](articles/7e05af06.json)
+
+[Extended Data](ext_articles/7e05af06.ext.json)
 
 ---
 

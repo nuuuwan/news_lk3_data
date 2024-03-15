@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 17:17:39**
+As of **2024-03-15 17:33:45**
 
 ## Newspaper Stats
 
-*Scraped **13,110** Articles*
+*Scraped **13,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,126
-adaderanalk | 1,577
+adaderanalk | 1,578
 tamilmirrorlk | 1,597
 virakesarilk | 1,819
 dailymirrorlk | 2,005
@@ -26,21 +26,43 @@ adaderanasinhalalk | 2,072
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,109 (100.0%) of 13,110 articles have been extended.
+13,110 (100.0%) of 13,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### බොන්න වතුර නැත්නම් 117 අංකයට දැනුම් දෙන්න
+### Drink Water or Inform 117 Number
 
 *2024-03-15 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194547) · `si`
 
-පානීය ජල ගැටලු ඇති ප්‍රදේශවල ජනතාවට වහාම 117 දුරකථන අංකය ඔස්සේ දිස්ත්‍රික් ආපදා කළමනාකරණ මධ්‍යස්ථානයට දැනුම් දෙන ලෙස ඉල්ලීමක් කරයි.
+For water issues, contact 117.
+
+🟩
+
+People with drinking water problems are immediately requested to inform the District Disaster Management Center through 117.
 
 ◼️
 
 [Data](articles/5df39ed0.json)
+
+[Extended Data](ext_articles/5df39ed0.ext.json)
+
+---
+
+### ‘Boosting Indo-Sri Lankan trade relations crucial for mutual gains’ – President
+
+*2024-03-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97980/boosting-indo-sri-lankan-trade-relations-crucial-for-mutual-gains-president-) · `en`
+
+President Ranil Wickremesinghe underscored the critical importance of fortifying the extensive trade and economic ties between Sri Lanka and India promptly to ensure mutual advantages for both nations.
+
+He expressed these views during his presence at a special commemoration ceremony organized by the Sri Lanka India Society in Colombo yesterday (14). This event was arranged to mark the 76th Independence Day of Sri Lanka and the 75th Republic Day of India, signifying the historical and diplomatic significance of the occasion.
+
+President Ranil Wickremesinghe and Professor Maithree Wickramasinghe were the  chief guests at this event. Their attendance was complemented by the presence of Mr. Santosh Jha, the Indian High Commissioner to Sri Lanka, who graced the event as a special guest, underscoring the warm relations between the two neighbouring nations.
+
+...
+
+[Data](articles/f1a9efb2.json)
 
 ---
 
@@ -2213,25 +2235,5 @@ The meeting was co-chaired by Secretary, Ministry of New and Renewable Energy fr
 [Data](articles/d7fad1b6.json)
 
 [Extended Data](ext_articles/d7fad1b6.ext.json)
-
----
-
-### Ogilvy Sri Lanka and Women in Need unveil ‘Masterpiece of Abuse’ art installation
-
-*2024-03-15 05:32:14* · [`dailyftlk`](https://www.ft.lk/news/Ogilvy-Sri-Lanka-and-Women-in-Need-unveil-Masterpiece-of-Abuse-art-installation/56-759502) · `en`
-
-Ground-breaking initiative uses local newspaper cuttings documenting instances of abuse and harassment against women to mark International Women’s Day
-
-In a poignant tribute, Ogilvy Sri Lanka, in partnership with Women in Need (WIN), revealed ‘Masterpiece of Abuse’, an art installation, designed to raise awareness and support for survivors of abuse on International Women’s Day.
-
-Crafted from local newspaper cuttings documenting instances of abuse and harassment against women, this forsaken art serves as a powerful symbol of the harsh realities faced by women. It stands in stark contrast to the celebratory and empowering messages that often dominate media platforms exclusively on Women’s Day.
-
-The installation captures the essence of the pervasive issue of abuse experienced by women across the island. By depicting the harsh realities of survivors, it seeks to illuminate the often-overlooked struggles that persist, urging society to confront this pressing issue head-on.
-
-...
-
-[Data](articles/177ef45e.json)
-
-[Extended Data](ext_articles/177ef45e.ext.json)
 
 ---

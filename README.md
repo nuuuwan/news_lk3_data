@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 05:17:40**
+As of **2024-03-15 05:37:02**
 
 ## Newspaper Stats
 
-*Scraped **12,979** Articles*
+*Scraped **12,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 663
 economynextcom | 695
-islandlk | 700
+islandlk | 708
 adalk | 1,118
 adaderanalk | 1,564
 tamilmirrorlk | 1,580
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,051
 
 Extensions include translations and NER (Named Entity Recognition).
 
-12,979 (100.0%) of 12,979 articles have been extended.
+12,979 (99.9%) of 12,987 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1070,6 +1070,20 @@ Sri Lanka last year awarded retail fuel licenses to three foreign firms – Chin
 
 ---
 
+### HNB General Insurance partners with SampathCards to make insurance easy with 0% interest payment plans
+
+*2024-03-14 18:58:00* · [`islandlk`](http://island.lk/hnb-general-insurance-partners-with-sampathcards-to-make-insurance-easy-with-0-interest-payment-plans/) · `en`
+
+HNB General Insurance, a leading provider of insurance solutions in Sri Lanka, announced a collaborative partnership with Sampath Bank to offer customers 12-month 0% interest payment plans on both motor and non-motor insurance policies. This marks HNB General Insurance’s collaboration with a non-group member bank, significantly expanding its reach and making insurance more accessible for a wider audience across Sri Lanka.
+
+Through this partnership, Sampath Bank Credit Cardholders can now enjoy the convenience of budget-friendly installments on their insurance premiums. With no upfront interest charges, customers can spread the cost of their motor, home, travel, medical, or any other non-motor insurance policy over a year, easing financial constraints and making essential coverage more achievable.
+
+...
+
+[Data](articles/cdd8aedc.json)
+
+---
+
 ### Company and IMF. Meeting at Shanghrila Hotel
 
 *2024-03-14 18:56:45* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාව-හා-අයි-එම්-එෆ්--අතර-හමුවක්-ෂැංග්‍රීලා-හෝටලයේදී/11-408619) · `si`
@@ -1155,6 +1169,18 @@ During my journey to Mizoram, I had a layover at New Delhi airport for approxima
 [Data](articles/84efef62.json)
 
 [Extended Data](ext_articles/84efef62.ext.json)
+
+---
+
+### President appoints expert committee to tackle construction sector issues
+
+*2024-03-14 18:16:00* · [`islandlk`](http://island.lk/president-appoints-expert-committee-to-tackle-construction-sector-issues/) · `en`
+
+President Ranil Wickremesinghe announced that an expert committee would be appointed to investigate and propose solutions for the prevailing economic challenges, particularly within the construction sector. This declaration was made during a discussion held at the Presidential Secretariat on Wednesday (13), attended by industrialists from the construction sector. President Wickremesinghe emphasized the inclusion of experts from the Ministry of Finance, Ministry of Urban Development, and Housing in this committee formation process. Furthermore, he assured relief for industrialists across various sectors through debt restructuring by next year.
+
+...
+
+[Data](articles/a058efe1.json)
 
 ---
 
@@ -2237,47 +2263,5 @@ A programme was held by Vega Innovations to convert fuel-burning vehicles, inclu
 [Data](articles/6c0af7a8.json)
 
 [Extended Data](ext_articles/6c0af7a8.ext.json)
-
----
-
-### Man Iron lung is a man dies
-
-*2024-03-14 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194503) · `si`
-
-Booul Alexander, the "Man in Iron Lung," lived 78 years with a lung machine after being paralyzed by polio at 6. He died in Dallas, USA, and is remembered for his effective use of the machine, including speaking and reading.
-
-🟩
-
-Booul Alexander was killed as the man in iron lungs, "Man in Iron Lung ', who was in a machine for more than 70 years.
-
-He was 78 years old when he died at a hospital in Dallas in the United States.
-
-Paul was the pollio virus at the age of 6 and was paralyzed.
-
-Then his body's lower part of his body was in danger and since then he lived with the help of the lung machine.
-
-The use of his mouth and a book in the pasanging and a book engaged in the document have also been given a law degree from the University of Texas.
-
-He joins history as the man who lived the most effective manner with the aid of a lung machine.
-
-◼️
-
-[Data](articles/922388c2.json)
-
-[Extended Data](ext_articles/922388c2.ext.json)
-
----
-
-### Vision beyond borders...
-
-*2024-03-14 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vision-beyond-borders/110-278860) · `en`
-
-LankaPay announced the sixth edition of LankaPay Technnovation Awards - Sri Lanka's pioneering and the only payment technology innovation awards to recognize the Payment Technology innovators. The de facto recognition standard and one of the most looked forward to events amongst the country's banking fraternity kicked off with the much-awaited online poll for the 'Most Popular Digital Payment Product of the Year' on 09th February 2024. The grand finale is scheduled to be held on 20th March 2024 at the Shangri-la Hotel, Colombo. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/7829818e.json)
-
-[Extended Data](ext_articles/7829818e.ext.json)
 
 ---

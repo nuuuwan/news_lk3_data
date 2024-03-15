@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 09:02:57**
+As of **2024-03-15 09:17:59**
 
 ## Newspaper Stats
 
-*Scraped **13,026** Articles*
+*Scraped **13,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,117 @@ dailyftlk | 681
 economynextcom | 695
 islandlk | 711
 adalk | 1,119
-adaderanalk | 1,565
+adaderanalk | 1,566
 tamilmirrorlk | 1,583
-virakesarilk | 1,806
-dailymirrorlk | 1,992
-adaderanasinhalalk | 2,055
+virakesarilk | 1,807
+dailymirrorlk | 1,994
+adaderanasinhalalk | 2,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,025 (100.0%) of 13,026 articles have been extended.
+13,026 (100.0%) of 13,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### මියන්මාරයෙන් බේරාගත් ශ්‍රී ලාංකිකයන් ගේන්න තායිලන්තයේ සහාය
+
+*2024-03-15 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194529) · `si`
+
+මියන්මාරයේ සයිබර් අපරාධ කලාපයෙන් බේරාගත් ශ්‍රී ලාංකිකයන් කඩිනමින් දිවයිනට ගෙන්වා ගැනීම සම්බන්ධයෙන් වූ සාකච්ඡාවක් තායිලන්ත විදේශ කටයුතු අමාත්‍යවරයා සහ මෙරට විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතීඥ  අලි සබ්රි මහතා අතර සිදුවී තිබේ.
+
+දුරකථන මාර්ගයෙන් දෙපාර්ශ්වය අතර මෙම සාකච්ඡාව පවත්වා ඇති බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+
+මියන්මාරයේ සයිබර් අපරාධ කලාපයේ ශ්‍රී ලාංකිකයන් 56 දෙනෙකු සිටින අතර ඉන් 8 දෙනෙකු බේරාගැනීමට හැකිවූ බව මියන්මාර රජය පසුගියදා නිල වශයෙන් ප්‍රකාශ කළේය.
+
+ඒ අනුව එම පිරිස ශ්‍රී ලංකාවට ගෙන්වා ගැනීම සඳහා අවශ්‍ය සහාය ලබාදෙන ලෙස විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා විසින් තායිලන්ත විදේශ කටයුතු අමාත්‍යවරයාගෙන් ඉල්ලීමක් සිදුකර ඇති බව සඳහන් ය.
+
+ඒ අනුව ඊට අදාළ පහසුකම් සැපයීමට තායිලන්ත විදේශ අමාත්‍යවරයා සිය එකඟතාව පළකර ඇති බව වාර්තා වෙයි.
+
+තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුම, අන්‍යොන්‍ය වීසා රහිත විධිවිධාන රටවල්, පුනර්ජනනීය බලශක්ති සහ ධීවර යන ක්ෂේත්‍රවල සහයෝගීතාව ශක්තිමත් කිරීම සම්බන්ධයෙන් මෙම සංවාදයේදී විදේශ අමාත්‍යවරුන්ගේ අවධානයට ලක්වී ඇති බව විදේශ කටයුතු අමාත්‍යංශය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/dc76b037.json)
+
+---
+
+### இலங்கை இராணுவத்துக்கு நேர்மறை மீள்வரைவிலக்கணம் வழங்குகிறதா அமெரிக்கா? - சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் இலங்கை ஆய்வாளர் அலன் கீனன் விமர்சனம்
+
+*2024-03-15 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178765) · `ta`
+
+'குறைந்தபட்சம் பகுதியளவிலான பொறுப்புக்கூறலையேனும் உறுதிசெய்யவேண்டிய நிலையில் இருக்கும் பிரச்சினைக்குரிய கட்டமைப்பு' எனும் நிலையிலிருந்து தற்போது 'இந்திய - பசுபிக் பிராந்திய கடற்பாதுகாப்பில் மிகமுக்கிய பங்காளி' எனும் நிலையை நோக்கி அமெரிக்கா இலங்கை இராணுவத்துக்கு மீள்வரைவிலக்கணம் வழங்குவதாக சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் இலங்கை ஆய்வாளர் அலன் கீனன் விமர்சித்துள்ளார்.
+
+இலங்கையின் கடற்பிராந்தியம்சார் விழிப்புணர்வு மற்றும் இயலுமையை மேலும் விரிவுபடுத்தும் நோக்கில் அமெரிக்கப் பாதுகாப்புத் திணைக்களம், கொழும்பிலுள்ள அமெரிக்கத்தூதரகம் மற்றும் இலங்கை விமானப்படை என்பன இணைந்து இம்மாதம் 12 - 14 ஆம் திகதி வரை இரத்மலானையில் அமைந்துள்ள இலங்கை விமானப்படைத்தளத்தில் கண்காணிப்பு விமானங்களின் முன்னோட்டமொன்றை நடாத்தியிருந்தன.
+
+...
+
+[Data](articles/a375e59f.json)
+
+---
+
+### Suspect charged in mass killing of Sri Lankan family in protective custody
+
+*2024-03-15 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-charged-in-mass-killing-of-Sri-Lankan-family-in-protective-custody/108-278905) · `en`
+
+OTTAWA, March 15 (Canadian Press) - The 19-year-old charged with killing six people in an Ottawa suburb last week is being held in protective custody, his lawyer said Thursday.
+
+Febrio De-Zoysa was arrested March 6 and is charged with six counts of first-degree murder and one count of attempted murder.
+
+"I can comment that he's in protective custody. He's doing OK," his lawyer, Ewan Lyttle, told reporters after a brief court appearance that took place by phone.
+
+De-Zoysa's matter was adjourned until March 28 to give Lyttle time to receive and begin reviewing disclosure from the Crown, a process he suggested would take months.
+
+Police say De-Zoysa, who came to Canada as an international student, had been living with the victims, who were also newcomers from Sri Lanka.
+
+They included 35-year-old Darshani Ekanayake, her husband Dhanushka Wickramasinghe and their four children.
+
+...
+
+[Data](articles/603007c9.json)
+
+---
+
+### Sri Lanka, Indonesia launch negotiations for Preferential Trade Agreement
+
+*2024-03-15 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97970/sri-lanka-indonesia-launch-negotiations-for-preferential-trade-agreement-) · `en`
+
+Sri Lanka and Indonesia officially kicked off the negotiations for the Preferential Trade Agreement (PTA) on Thursday (March 14).
+
+The negotiations were formally launched by Sri Lanka’s State Minister of Foreign Affairs, Tharaka Balasuriya and Indonesia’s Vice Minister of Trade, Jerry Sambuaga in a virtual meeting.
+
+The ministers have conveyed that the commencement of the Sri Lanka-Indonesia PTA negotiations would serve as a step towards a Free Trade Agreement (FTA).
+
+They agreed that both countries are keen to strengthen bilateral trade relations and achieve meaningful market access under the proposed PTA.
+
+Balasuriya and Sambuaga said they are hopeful that the PTA negotiations would be conducted expeditiously and agreed that the first round of negotiations will commence at the earliest mutually agreed date.
+
+◼️
+
+[Data](articles/04c4db18.json)
+
+---
+
+### Big onion importers set price range after talks with Trade Minister
+
+*2024-03-15 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Big-onion-importers-set-price-range-after-talks-with-Trade-Minister/108-278904) · `en`
+
+Colombo, March 15 (Daily Mirror) - Following a discussion with the Trade Minister, big onion importers agreed to provide their stocks at a price between Rs. 450 and Rs. 500.
+
+A discussion was held yesterday between essential goods importers and the Minister at the Ministry over the matter of providing essential goods for people during the new year season.
+
+After the meeting, Minister Nalin Fernando addressed the media and said the discussions with the essential goods importers were successful, and they agreed to provide their goods to the local market at a competitive rate.
+
+Big onion importers said Pakistan had set limits on imports of big onions. However, they said that they are ready to import big onions from other countries like Holland and Turkey and supply stocks at a low price during the festive season.
+
+...
+
+[Data](articles/7b19c87d.json)
+
+---
 
 ### More information about the tipper that has not worked with police orders
 
@@ -750,25 +846,31 @@ Out of the 18.3 million debit cards in circulation, only six transactions were r
 
 ---
 
-### වසර 200කට පසුව ලෝකයට ගිය 'සිලෝන් සිනමන්' අනන්‍යතාවය
+### 200 years later, 'Ceylon Cinnamon' identity
 
 *2024-03-15 01:59:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkdr55g7v1o) · `si`
 
-මෙරට දේශපාලනයේ විවිධ අවස්ථාවල ප්‍රධාන මාතෘකාවක් වු කුරුඳු ශ්‍රී ලංකාවේ කෘෂි කාර්මික අපනයන කාණ්ඩයේ, කුළුබඩු අතර ප්‍රධාන තැනක් ගන්නා බෝගයකි.
+Cinnamon, a major crop in Sri Lanka, has been a political and economic focal point. In 2018, a conflict named the 'cinnamon poke' sparked controversy. The army's involvement in university demonstrations and the history of cinnamon cultivation and trade are topics of debate. Professor Nirmal Ranjith Devasiri of the University of Colombo discusses the origins of cinnamon in Sri Lanka, its significance during the Portuguese invasion, and the challenges faced by cinnamon cultivators. Professor Pradeepa Bandaranaike's genetic studies on cinnamon have identified unique strains, potentially increasing its global market demand. The Cinnamon Development Department, headquartered in Galle, aims to regulate cinnamon cultivation and improve productivity.
 
-2018 වසරේ දී එකම දේශපාලන පක්ෂයක දෙපිරිසක් අතර ඇති වු ගැටුමක දි එක් පාර්ශවයක් විසින් අනෙක් පාර්ශවයට කුරුඳු පොලුවලින් පහර දීම හේතුවෙන් ඔවුන්ව හඳුන්වනු ලැබුවේ ‘කුරුඳු පොලු හමුදාව’ ලෙස ය.
+🟩
 
-පසුගිය වසරේ දී විශ්ව විද්‍යාල සිසුන්ගේ උද්ඝෝෂණයකට හමුදාව කුරුඳු පොලු රැගෙන පැමිණ තිබු බවට සමාජ මාධ්‍ය ඔස්සේ ඡායාරූප සංසරණය වු අතර ඒ පිළිබඳව ද සමාජයේ දැඩි කතා බහක් ඇති විය.
+Cinnamon is a major crop between the spices and spices in Sri Lanka, the main topic of the country's politics.
 
-ඉන් නොනැවති කුරුඳු ගැන ආන්දෝලනය යළිත් වරක් දේශපාලන කරලියට පැමිණ ඇති අතර ඒ හරහා මෙරට කුරුඳු වගාවේ හා වෙළඳාමේ ඉතිහාසය ගැන සමාජ මාධ්‍ය තුළ වාද විවාද සිදුවන අයුරු ද දක්නට ලැබේ.
+The 'cinnamon poke' was called the 'cinnamon base' in a conflict between two groups of political parties in 2018.
 
-ලංකාවේ යටත් විජිත සමයේ කුරුඳු ඉතිහාසය සම්බන්ධව අධ්‍යනය කර තිබෙන කොළඹ විශ්ව විද්‍යාලයේ ඉතිහාස අධ්‍යන අංශයේ මහාචර්ය නිර්මාල් රංජිත් දේවසිරිගෙන් කුරුඳු හා සම්බන්ධ ඉතිහාසය ගැන බීබීසී සිංහල විමසා සිටියේය.
+Last year, the army was circulated along the social media that the army had taken into a demonstration of university students.
 
-ඉබේ වැවෙන ශාකයක් ලෙස මෙරට පරිසරය තුළ කුරුඳු ව්‍යප්ත වී තිබු බව මෙන්ම එකල ද ඒ සඳහා වෙළදපොළක් තිබු බව මහාචාර්යවරයා කියා සිටියේය.
+The controversy about the continuous incident is once again debated in social media about the history of cinnamon cultivation and trade in Sri Lanka.
+
+BBC inquired about history of Cinnamon Nirmal Ranjith Devasiriin, the history of the University of Colombo, which has studied the history of Cinnamon, in Sri Lanka.
+
+The professor said that cinnamon was founded in the country as a plant in the country as a planting plant.
 
 ...
 
 [Data](articles/68d189dc.json)
+
+[Extended Data](ext_articles/68d189dc.ext.json)
 
 ---
 
@@ -2013,129 +2115,5 @@ Pitbull Terrier, Tosa Inu, American Staffordshire Terrier, American Bullod, CAUC
 [Data](articles/c21f6109.json)
 
 [Extended Data](ext_articles/c21f6109.ext.json)
-
----
-
-### Electronic three-wheeler in Sri Lanka
-
-*2024-03-14 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194513) · `si`
-
-Sri Lanka's first three-wheeler factory, Vehicle Elektrateq, opened at Railway Department premises. It uses advanced technology for full production, including machinery and batteries. The factory aims to convert 100-wheelers to electricity with private funding. Transport Minister Bandula Gunawardena emphasized the transition to electric transportation, including registration and color coding for identification.
-
-🟩
-
-Sri Lanka's first first three-wheeler manufacturing factory has been opened at the Railway Department premises.
-
-The full production process of the Vehicle Elektrateq Three Wheeler manufactured in Sri Lanka is the full manufacturing process in the factory premises.
-
-The factory consists of many technology, including machinery, batteries, batteries used for the cutting plate, which is automatically operating under the state-of-the-art technology.
-
-In addition, this factory has the full facilities that need to translate a three-wheeler using a three-hour-use petrol within two hours.
-
-It is noteworthy that a project to translate its 100-wheelers to electricity with a private financial institution is a project.
-
-Transport Minister Bandula Gunawardena said that the necessary steps to be translated to translator in passenger transportation services in the Makumbura multi-day transport center in the future.
-
-...
-
-[Data](articles/41474085.json)
-
-[Extended Data](ext_articles/41474085.ext.json)
-
----
-
-### Sri Lanka rupee closes at 305.50/55 to the US dollar
-
-*2024-03-14 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-305-50-55-to-the-us-dollar-154664/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 305.50/55 to the US dollar in the spot forex market on Thursday, slightly stronger from 306.10/20 on Wednesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 11.30/35 percent down from 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.05 percent down from 11.95/12.05 percent.
-
-A bond maturing on 15.12.2028 closed at 12.10/15 percent down from 12.15/20 percent.
-
-A bond maturing on 15.07.2029 closed at 12.20/40 percent down from 12.20/50 percent.
-
-A bond maturing on 15.05.2030 closed at 12.25/45 percent from 12.20/50 percent.
-
-A bond maturing on 15.03.2031 closed at 12.30/50 percent up from 12.20/45 percent.
-
-A bond maturing on 01.07.2032 closed at 12.55/75 percent from 12.50/80 percent. (Colombo/Mar14/2024)
-
-◼️
-
-[Data](articles/47091d99.json)
-
-[Extended Data](ext_articles/47091d99.ext.json)
-
----
-
-### Reconciliation applications extended
-
-*2024-03-14 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194511) · `si`
-
-The second phase of the revenue welfare program's application deadline has been extended. The data system is ready for new applications, and additional applications will be added through Divisional Secretariats.
-
-🟩
-
-The date of calling for applications has been extended to the second phase of the revenue welfare program.
-
-The data system has been received for the second round of new applications.
-
-It is reported that another quantity of applications should be included in the database through Divisional Secretariats.
-
-◼️
-
-[Data](articles/659de605.json)
-
-[Extended Data](ext_articles/659de605.ext.json)
-
----
-
-### Basil wants general election first for a “balanced” Sri Lanka parliament
-
-*2024-03-14 17:13:00* · [`economynextcom`](https://economynext.com/basil-wants-general-election-first-for-a-balanced-sri-lanka-parliament-154658/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s next parliament will be a more balanced one if parliamentary elections are held before a presidential election and won’t result in any one party monopolising political power, Sri Lanka Podujana Peramuna (SLPP) national organiser Basil Rajapaksa said.
-
-In an exclusive interview given to the privately owned NewsFirst network on Thursday March 14 , Rajapaksa said power should not be concentrated around one party.
-
-“The party that wins the presidential election may secure unlimited power. I don’t think that’s a good situation. So before that, so as not to be influenced by the result of the presidential election, if the parliamentary election is held first, that will result in a more balanced parliament,” he said.
-
-“No one will be washed away or disappear. This was why the proportional representation system was introduced. We showed that that was of no use,” he added.
-
-...
-
-[Data](articles/1ea19e53.json)
-
-[Extended Data](ext_articles/1ea19e53.ext.json)
-
----
-
-### Bail for 4 boys who sexually abused the girl in Vaharai;Hypoalology
-
-*2024-03-14 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178737) · `ta`
-
-A 13-year-old girl in Vaharai was sexually abused by three boys. The mother, who lost her husband, left her 7-year-old daughter alone and went to work. Initial investigations led to the arrest of five, including an 11-year-old, a 14-year-old, and a 15-year-old. The 18-year-old was released on bail until the 27th.
-
-🟩
-
-The Valaichenai Magistrate's Court on Wednesday (13) ordered that the 18 -year -old youth be released on bail until the 27th of this month.
-
-A mother who lost her husband in the Vaharai police division has left her 7 -year -old daughter alone and went to work with a girl.
-
-Initial investigations revealed that the boy's 14,15 and 18 -year -old boy had been sexually abused and a young man who observed the area was informed by the girl's mother.
-
-The victim's mother then appealed to the police and arrested five persons, including an 11 -year -old man, a 14 -year -old man and a 15 -year -old man, yesterday (13).
-
-The arrested persons were produced before the Valaichenai Magistrate's Court and the magistrate ordered the 18 -year -old to be remanded until the 27th of this month.
-
-◼️
-
-[Data](articles/6e50011a.json)
-
-[Extended Data](ext_articles/6e50011a.ext.json)
 
 ---

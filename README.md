@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 07:52:41**
+As of **2024-03-15 08:07:29**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,003 (99.9%) of 13,013 articles have been extended.
+13,013 (100.0%) of 13,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### සය පුද්ගල ඝාතනයේ සැකකරු යළි රිමාන්ඩ්
+### Suspect's suspect remanded again
 
 *2024-03-15 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194526) · `si`
 
-කැනඩාවේ, ඔටාවාහී ශ්‍රී ලාංකිකයින් 6 දෙනෙකු ඝාතනය කිරීමේ සිද්ධියට අදාළ නඩු විභාගය යළි කැඳවා තිබේ.
+Suspect remanded again in trial for killing 6 Sri Lankans in Canada. Accused of killing 19-year-old student Fibri. Trial resumes on 28th.
 
-එම ඝාතන සම්බන්ධයෙන් මේ වනවිට චෝදනා එල්ලවී සිටින්නේ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු වන ෆෙබ්‍රියෝ ද සොයිසා වෙතය.
+🟩
 
-ඔහුව ඊයේ (14) දිනයේදී යළි රක්ෂිත බන්ධනාගාරගත කෙරුණු අතර නඩු විභාගය එළඹෙන 28 වනදා යළි කැඳවීමට නියමිතය.
+The trial has been recalled to the killing of 6 Sri Lankans in Canada.
+
+The allegations have been accused of the killings on the 19-year-old Sri Lankan students, Fibri, a 19-year-old Sri Lankan student.
+
+He was remanded again yesterday (14) and the trial is to be taken up again on the 28th.
 
 ◼️
 
 [Data](articles/0b09e7bf.json)
+
+[Extended Data](ext_articles/0b09e7bf.ext.json)
 
 ---
 
@@ -66,6 +72,8 @@ Winds will be easterly or variable in direction and wind speed will be 20-30 kmp
 
 [Data](articles/42235915.json)
 
+[Extended Data](ext_articles/42235915.ext.json)
+
 ---
 
 ### President hints at vehicle import resumption; importers warn of possible cost increase
@@ -83,6 +91,8 @@ The Vehicle Importers Association of Sri Lanka’s survey indicates that local m
 ...
 
 [Data](articles/8a5df6d2.json)
+
+[Extended Data](ext_articles/8a5df6d2.ext.json)
 
 ---
 
@@ -103,6 +113,8 @@ However, the US Government pushed back against the plan by filing a legal challe
 ...
 
 [Data](articles/9326675c.json)
+
+[Extended Data](ext_articles/9326675c.ext.json)
 
 ---
 
@@ -140,6 +152,8 @@ The Anunayake Thera emphasized this, when former Minister of Sports, MP Roshan R
 
 [Data](articles/96993694.json)
 
+[Extended Data](ext_articles/96993694.ext.json)
+
 ---
 
 ### CCC urges collaborative approach to address parate suspension concerns
@@ -155,6 +169,8 @@ The CCC stated that while it understands that certain businesses, essentially in
 ...
 
 [Data](articles/b803e51e.json)
+
+[Extended Data](ext_articles/b803e51e.ext.json)
 
 ---
 
@@ -404,6 +420,8 @@ The ‘tax expenditure’ is based on a 24 percent rate for the first nine month
 
 [Data](articles/83d44138.json)
 
+[Extended Data](ext_articles/83d44138.ext.json)
+
 ---
 
 ### Plantation workers can pay 1700 rupees
@@ -521,6 +539,8 @@ Out of the 18.3 million debit cards in circulation, only six transactions were r
 ...
 
 [Data](articles/11b03d90.json)
+
+[Extended Data](ext_articles/11b03d90.ext.json)
 
 ---
 
@@ -662,6 +682,8 @@ Addressing the Women’s Leadership Forum 2024 organised by the Women’s Chambe
 
 [Data](articles/488ded2c.json)
 
+[Extended Data](ext_articles/488ded2c.ext.json)
+
 ---
 
 ### China gifts explosives disposal equipment to Sri Lanka
@@ -755,6 +777,8 @@ In its annual threat assessment 2024 report this week, the US Intelligence Commu
 ...
 
 [Data](articles/bfc9b65f.json)
+
+[Extended Data](ext_articles/bfc9b65f.ext.json)
 
 ---
 

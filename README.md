@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 23:52:22**
+As of **2024-03-16 00:18:03**
 
 ## Newspaper Stats
 
-*Scraped **13,158** Articles*
+*Scraped **13,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,64 @@ adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
 virakesarilk | 1,830
-dailymirrorlk | 2,013
+dailymirrorlk | 2,017
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,150 (99.9%) of 13,158 articles have been extended.
+13,162 (100.0%) of 13,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### சுவாரஸ்மற்ற முடிவை நோக்கி ட்ரினிட்டி - அன்தோனியன் சமர்
+### Asgiriya Chapter Anunayaka Thera calls for fair and just rule
+
+*2024-03-15 23:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asgiriya-Chapter-Anunayaka-Thera-calls-for-fair-and-just-rule/108-278973) · `en`
+
+Colombo, March 15 - Anunayaka of the Asgiriya Chapter Ven. Wendaruwe Upali Thera said it would rain in the due season bringing a bumper harvest and making the people happier, fuller and pleasanter provided the country had just rulers at the helm.
+
+Addressing the Special Conference of the Mahasangha of the Asgiriya Chapter held at Manelwatta Maha Vihara Conference Hall in Kelaniya the Ven. Thera pointed out the march forward of the country could be ensured by establishing a fair and just rule in the country and not through politically motivated activities.
+
+The conference was held under the chairmanship of Ven. Wendaruwe Upali Thera.
+
+...
+
+[Data](articles/82c42ad4.json)
+
+[Extended Data](ext_articles/82c42ad4.ext.json)
+
+---
+
+### Trinity towards the Interesting decision - Antonian Samar
 
 *2024-03-15 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
 
-கண்டி அஸ்கிரிய மைதானத்தில் நடைபெற்றுவரும் ட்ரினிட்டி - அன்தோனியன் 105ஆவது (மலையக) நீலவர்ணங்களின் பெருஞ் சமர் சுவாரஸ்யமற்ற முடிவை நோக்கி நகர்வதாக முதல் நாள் ஆட்டம் காட்டுகிறது.
+Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
 
-ஒருவேளை, திரித்துவ அணியை இரண்டு தடவைகள் குறைந்த எண்ணிக்கைகளுக்கு புனித அந்தோனியார் ஆட்டம் இழக்கச் செய்தால் போட்டியில் சுவாரஸ்யம் ஏற்பட வாய்ப்புள்ளது.
+🟩
 
-வெள்ளிக்கிழமை (15) ஆரம்பமான இப் போட்டியில் முழு நாளும் துடுப்பெடுத்தாடிய புனித அந்தோனியார் அணி, போதிய வெளிச்சமின்மை காரணமாக ஆட்டம் நிறுத்தப்பட்டபோது அதன் முதல் இன்னிங்ஸில் 9 விக்கெட்களை இழந்து 232 ஓட்டங்களைப் பெற்றிருந்தது.
+The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
 
-பெரும்பாலும் புனித அந்தோனியார் அணி தனது முதல் இன்னிங்ஸை இத்தோடு நிறுத்திக்கொண்டு இரண்டாம் நாள்  (16) காலையில் திரித்துவம் அணிக்கு துடுப்பெடுத்தாட வாய்ப்பு அளிக்கும் என எதிர்பார்க்கப்படுகிறது.
+Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
 
-ஆரம்ப வீரர் தினுர கனேகொட (0) திரித்துவம் அணி வீரர் மனுல குலரட்னவின் முதல் ஓவரிலேயே ஆட்டம் இழந்ததால் புனித அந்தோனியார் அணி தடுமாற்றத்தை எதிர்கொண்டது.
+St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
+
+Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
+
+St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
+
+However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
+
+Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
 
 ...
 
 [Data](articles/0cc93c42.json)
+
+[Extended Data](ext_articles/0cc93c42.ext.json)
 
 ---
 
@@ -65,6 +93,8 @@ The President further requested active participation from all local government o
 ...
 
 [Data](articles/67a2ce4e.json)
+
+[Extended Data](ext_articles/67a2ce4e.ext.json)
 
 ---
 
@@ -89,6 +119,20 @@ The sword, the iron rod and the iron pipe were recovered from the three -wheeler
 [Data](articles/9f625930.json)
 
 [Extended Data](ext_articles/9f625930.ext.json)
+
+---
+
+### Despite hot weather...
+
+*2024-03-15 22:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Despite-hot-weather/110-278919) · `en`
+
+People in urban areas of Colombo engaged in work during the daytime despite the hot weather. Some labourers were also transporting goods in Pettah to earn their living, persevering the the heat.
+
+◼️
+
+[Data](articles/a6e6dcd9.json)
+
+[Extended Data](ext_articles/a6e6dcd9.ext.json)
 
 ---
 
@@ -153,6 +197,32 @@ In reply, Sri Lanka reached the target with loss of seven wickets.
 [Data](articles/d654abfb.json)
 
 [Extended Data](ext_articles/d654abfb.ext.json)
+
+---
+
+### Nissanka ton helps Sri Lanka level Bangladesh series
+
+*2024-03-15 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nissanka-ton-helps-Sri-Lanka-level-Bangladesh-series/108-278963) · `en`
+
+Chittagong, Mar. 15 - Opener Pathum Nissanka struck 114 off 113 balls to steer Sri Lanka to a three-wicket victory over Bangladesh and level their three-match ODI series in Chittagong on Friday.
+
+Sri Lanka were teetering on 43-3 before Nissanka finally found a worthy partner in Charith Asalanka, who scored 91.
+
+The pair put on 185 in their fourth-wicket partnership to guide the tourists to 287-7 in the 48th over, after Wanindu Hasaranga's 4-45 helped restrict Bangladesh.
+
+Their stand was broken soon after Nissanka hit his sixth ODI century, when Mehidy Hasan forced him to hoist a catch to Liton Das at deep-midwicket.
+
+Asalanka departed the next over when he nicked through to the 'keeper from Taskin Ahmed.
+
+Dunith Wellalage and Hasaranga kept their composure to put on 34 runs for the seventh wicket and edge Sri Lanka closer.
+
+Wellalage hit Bangladesh captain Najmul Hossain Shanto to cover for a double to complete the win with 3.5 overs to spare.
+
+...
+
+[Data](articles/fcda9486.json)
+
+[Extended Data](ext_articles/fcda9486.ext.json)
 
 ---
 
@@ -400,6 +470,8 @@ The CPA, a policy think-tank based in Colombo, conducted its social indicator su
 
 [Data](articles/94ea17fc.json)
 
+[Extended Data](ext_articles/94ea17fc.ext.json)
+
 ---
 
 ### World Cup 2026 T20 in India, Sri Lanka;Balance Days to the final round of the 2024 T20 World Cup
@@ -626,6 +698,8 @@ the Gross Domestic Product fourth quarter of 2023 at current prices increased to
 
 [Data](articles/a2ebce72.json)
 
+[Extended Data](ext_articles/a2ebce72.ext.json)
+
 ---
 
 ### Sri Lanka’s Litro Gas sale draws Vitol, Bharat Petro, China Aero among 14 investors
@@ -637,6 +711,8 @@ ECONOMYNEXT – Fourteen investors have expressed interest in the divestiture of
 ◼️
 
 [Data](articles/9708394f.json)
+
+[Extended Data](ext_articles/9708394f.ext.json)
 
 ---
 
@@ -998,6 +1074,8 @@ Wickremesinghe said the country must strategically leverage Sri Lanka’s advant
 
 [Data](articles/74d60d0d.json)
 
+[Extended Data](ext_articles/74d60d0d.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes at 305.20/25 to the US dollar
@@ -1015,6 +1093,8 @@ A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar15/
 ◼️
 
 [Data](articles/d5f2bb89.json)
+
+[Extended Data](ext_articles/d5f2bb89.ext.json)
 
 ---
 
@@ -1115,6 +1195,8 @@ The capital goods sector contributed 349mn to the day’s turnover. Other sector
 ...
 
 [Data](articles/9920a88e.json)
+
+[Extended Data](ext_articles/9920a88e.ext.json)
 
 ---
 
@@ -1267,6 +1349,26 @@ The police said that he had been inaugurated while he was conducting cultivation
 [Data](articles/a5c6571a.json)
 
 [Extended Data](ext_articles/a5c6571a.ext.json)
+
+---
+
+### Keheliya seeks bail
+
+*2024-03-15 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-seeks-bail/155-278921) · `en`
+
+Colombo, March 15 (Daily Mirror)- Former Health Minister Keheliya Rambukwella, currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, has sought bail from the Colombo High Court.
+
+Filing a bail application through a lawyer, the former Health Minister is requesting the Colombo High Court that he be released on whatever bail conditions court deems fit.
+
+In his application, Keheliya Rambukwella alleged that the Maligakanda Magistrate, on a number of occasions has refused to grant bail and made remand orders without reasonable grounds.
+
+The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten others till March 28 in connection with this incident.
+
+◼️
+
+[Data](articles/991252f8.json)
+
+[Extended Data](ext_articles/991252f8.ext.json)
 
 ---
 
@@ -2185,103 +2287,5 @@ As a member of the National People's Power, I, I, I, Elder Nanayakkara, Members 
 [Data](articles/c1655427.json)
 
 [Extended Data](ext_articles/c1655427.ext.json)
-
----
-
-### 60 migrants drowned in sea
-
-*2024-03-15 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194535) · `si`
-
-60 migrants drowned in Mediterranean; vessel carrying unauthorized refugees from Libya to Europe sank. 25 rescued. Operation by Italian Coast Guard and volunteers.
-
-🟩
-
-It is reported that 60 people have been killed in a criminal incident of an unauthorized migrant vessel sailing in the Mediterranean.
-
-The victims were a vessel carrying unauthorized refugees from Libya to Europe.
-
-Foreign media reports that the vessel was traveling to Italy or Malta.
-
-The victims were able to rescue 25 people from the crash.
-
-Voluntary concessionary service teams have carried out this rescue operation with the assistance of the Italian Coast Guard.
-
-The Mediterranean is considered as the most dangerous sea round of the world traveling unauthorized migrants.
-
-According to the United Nations refugee service, about 2,500 of unauthorized migrants who try to come to Europe die.
-
-226 immigrants have died due to accidents in the Mediterranean this year.
-
-◼️
-
-[Data](articles/33975654.json)
-
-[Extended Data](ext_articles/33975654.ext.json)
-
----
-
-### Ottawa mass killing: Lawyer says accused Sri Lankan student is in protective custody
-
-*2024-03-15 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97973/ottawa-mass-killing-lawyer-says-accused-sri-lankan-student-is-in-protective-custody-) · `en`
-
-Febrio De-Zoysa, the teenager accused in the brutal killing of six Sri Lankans in Ottawa, is now held in protective custody, his lawyer Ewan Lyttle has said.
-
-“I can comment that he’s in protective custody. He’s doing OK,” Lyttle was quoted as saying by Canadian media reports. Inmates are often held in protective custody to shield them from other prisoners.
-
-Lyttle’s comments came after De-Zoysa made a brief court appearance that took place by phone on Thursday (March 14).
-
-De-Zoysa’s matter was adjourned until March 28, to give Lyttle time to receive and begin reviewing disclosure from the Crown, a process he suggested would span months.
-
-According to Ottawa Police, De-Zoysa had come to Canada as an international student and had been living with the victims, who were also newcomers from Sri Lanka.
-
-...
-
-[Data](articles/46bca398.json)
-
-[Extended Data](ext_articles/46bca398.ext.json)
-
----
-
-### Compliance with big onion prices
-
-*2024-03-15 10:52:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காய-விலை-தொடர்பில்-இணக்கப்பாடு/175-334705) · `ta`
-
-Big onion importers agreed to price their stockings between 450 and 500 rupees, discussing with the Ministry of Commerce and Essential Mobile to ensure essential commodities are available during New Year. Minister Nalin Fernando confirmed the meeting was successful.
-
-🟩
-
-Large onion importers agreed to grant their stockings between 450 and 500 rupees.
-
-A discussion was held yesterday in the Ministry between the importers and the Commerce of the Essential Mobile, the provision of essential commodities to the people during the New Year.
-
-Speaking to the media after the meeting, Minister Nalin Fernando said the discussion was successful.
-
-◼️
-
-[Data](articles/8e0d7ffe.json)
-
-[Extended Data](ext_articles/8e0d7ffe.ext.json)
-
----
-
-### Vehicle prices set to increase after import resumptions next year: Importers
-
-*2024-03-15 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Vehicle-prices-set-to-increase-after-import-resumptions-next-year-Importers/155-278914) · `en`
-
-Colombo, March 15 (Daily Mirror) - Local vehicle importers claimed that the current market prices of vehicles would increase after the proposed resumption of vehicle imports from next year due to the chang in the duty structure.
-
-They said the government had implemented a significant change in the duty structure in January, resulting in a substantial increase in the marginal cost of importing vehicles.
-
-The importers also claimed that vehicles would be imported under huge restrictions.
-
-According to the survey conducted by the association, the existing local market prices of vehicles would increase after the import of new vehicles.
-
-Addressing a gathering organized by the United Youth Union, titled "Future of the Youth," held this week at Taprobane Entertainment, President Ranil Wickremesinghe said that he hopes to gradually relax the import of private vehicles starting next year.
-
-...
-
-[Data](articles/9d5688e7.json)
-
-[Extended Data](ext_articles/9d5688e7.ext.json)
 
 ---

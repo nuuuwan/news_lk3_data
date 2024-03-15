@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 17:53:35**
+As of **2024-03-15 18:09:02**
 
 ## Newspaper Stats
 
-*Scraped **13,113** Articles*
+*Scraped **13,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ islandlk | 711
 adalk | 1,127
 adaderanalk | 1,579
 tamilmirrorlk | 1,597
-virakesarilk | 1,819
+virakesarilk | 1,820
 dailymirrorlk | 2,005
-adaderanasinhalalk | 2,072
+adaderanasinhalalk | 2,073
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,111 (100.0%) of 13,113 articles have been extended.
+13,113 (100.0%) of 13,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### The world's largest blueberry fruit on the Australian farm
+
+*2024-03-15 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178792) · `ta`
+
+The Costa Group's Etterna Blueberry, the world's largest, weighs 20.4 grams and is 10 times larger than normal blueberries. Seized in November, it broke the Guinness World Record after 12 weeks, yielding 20 or more fruits from a single tree.
+
+🟩
+
+In November last year, the blueberry fruit was seized and maintained in the freezer.
+
+It is about 4 meters wide and 20.4 grams and is 10 times larger than normal blueberries.
+
+This new type of Etterna Blueberry has been created by the Costa Group to address the question of large blueberry fruit found in the consumers.
+
+Ederna race continues to yield good yields. But recently, their farm in Corinth, in the North New South Wales, has given a huge yield.
+
+Our crew observed that some of the trees were soaked in the trees and were shocked when they were weighing.
+
+In it, the world's largest blueberry fruit was the largest fruit. That morning we snatched 20 or more fruits. They broke the previous world record.
+
+He said that the Guinness World record was certified as a highly weighting blueberry fruit in the Guinness World record this week after 12 weeks.
+
+◼️
+
+[Data](articles/2ce88e20.json)
+
+[Extended Data](ext_articles/2ce88e20.ext.json)
+
+---
+
+### யானை தாக்கி சுற்றுலாப் பயணி பலி
+
+*2024-03-15 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178799) · `ta`
+
+பொத்துவில், மணல்சேனை, கோமாரி  பகுதியில்  வெளிநாட்டு சுற்றுலாப் பயணி ஒருவர் காட்டு யானை தாக்கி உயிரிழந்துள்ளார்.
+
+கோமாரி பகுதியில் இரண்டு இத்தாலிய சுற்றுலாப் பயணிகள் மோட்டார் சைக்கிளில் சென்ற போது  யானை தாக்குதலுக்கு இலக்காகியுள்ளார்கள்.
+
+இந்நிலையில், காயமடைந்தவர்கள்  1990 என்ற அவசர நோயாளர் காவு  வண்டி மூலம் பொத்துவில் ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டபோது ஒரு சுற்றுலா பயணி உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவர் இத்தாலிய சுற்றுலாப் பயணியான  50 வயதுடைய ஜிஞ்சினோ பாலோ என்பவர் என தெரியவந்துள்ளது.
+
+பொலிஸ் அத்தியட்சகர் வெஹித தேவபியவின் பணிப்புரையின் பேரில் பொத்துவில் பொலிஸ் நிலைய பொறுப்பதிகாரி கமல் செனவிரத்ன மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றார்.
+
+◼️
+
+[Data](articles/9d169bd9.json)
+
+---
+
+### ශ්‍රී ලංකාවට දැවැන්ත ඉලක්කයක්
+
+*2024-03-15 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194548) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය මේ වන විට පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය ශ්‍රී ලංකා කණ්ඩායමට හිමි වූ අතර පළමුවෙන් පන්දුවට පහර දීමට ඔවුන් බංග්ලාදේශයට අරාධනා කළේය.
+
+ඒ අනුව බංග්ලාදේශ කණ්ඩායම සිය පන්දුවාර 50 දී කඩුලු 7ක් දැවී ලකුණු 286 ක් රැස් කළේය.
+
+බංග්ලාදේශ කණ්ඩායම වෙනුවෙන් විශිෂ්ට ඉනිමක් ක්‍රීඩා කළ තව්හිද් රිඩෝයි නොදැවී ලකුණු 96ක් රැස්කළේය.
+
+ඔහු ඉනිමේ අවසන් පන්දු දෙකට දැවැන්ත 6 පහර දෙකක් එල්ල කිරීම විශේෂත්වයකි.
+
+රිඩෝයි පන්දු 102කට මුහුණදුන් අතර ඔහුගේ ඉනිමට 6 පහර 5ක් සහ 4 පහර 3ක් ඇතුළත් විය.
+
+◼️
+
+[Data](articles/a1f0405b.json)
+
+---
 
 ### Over 3,000 families facing drinking water shortage, DMC urges to contact hotline for assistance
 
@@ -47,6 +119,8 @@ Accordingly, Kodippili assured that collaborative efforts are underway with the 
 ◼️
 
 [Data](articles/eb8e0989.json)
+
+[Extended Data](ext_articles/eb8e0989.ext.json)
 
 ---
 
@@ -276,36 +350,6 @@ The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten ot
 
 ---
 
-### The world's largest blueberry fruit on the Australian farm
-
-*2024-03-15 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178792) · `ta`
-
-The Costa Group's Etterna Blueberry, the world's largest, weighs 20.4 grams and is 10 times larger than normal blueberries. Seized in November, it broke the Guinness World Record after 12 weeks, yielding 20 or more fruits from a single tree.
-
-🟩
-
-In November last year, the blueberry fruit was seized and maintained in the freezer.
-
-It is about 4 meters wide and 20.4 grams and is 10 times larger than normal blueberries.
-
-This new type of Etterna Blueberry has been created by the Costa Group to address the question of large blueberry fruit found in the consumers.
-
-Ederna race continues to yield good yields. But recently, their farm in Corinth, in the North New South Wales, has given a huge yield.
-
-Our crew observed that some of the trees were soaked in the trees and were shocked when they were weighing.
-
-In it, the world's largest blueberry fruit was the largest fruit. That morning we snatched 20 or more fruits. They broke the previous world record.
-
-He said that the Guinness World record was certified as a highly weighting blueberry fruit in the Guinness World record this week after 12 weeks.
-
-◼️
-
-[Data](articles/2ce88e20.json)
-
-[Extended Data](ext_articles/2ce88e20.ext.json)
-
----
-
 ### Bail petition
 
 *2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணை-கோரி-மனு/175-334718) · `ta`
@@ -478,17 +522,23 @@ People who staged a protest in front of the police station for about half an hou
 
 ---
 
-### හිරු TV සහ රෙනෝ සිලවා, නිළි මහේෂිගෙන් කෝටි 2000ක් ඉල්ලයි
+### Hiru TV and Reeno blew 2000 million
 
 *2024-03-15 15:01:10* · [`adalk`](https://www.ada.lk/breaking_news/හිරු-TV-සහ-රෙනෝ-සිලවා--නිළි-මහේෂිගෙන්-කෝටි-2000ක්-ඉල්ලයි/11-408630) · `si`
 
-හිරු TV ආයතනයට සහ එහි සභාපති රේනෝ සිල්වාට අපහාස වන ලෙස සමාජ මාධ්‍ය ඔස්සේ ප්‍රකාශ සිදු කිරීම සම්බන්ධයෙන් මහේෂි මදුශංකා නමැති රංගන ශිල්පිනියට එන්තරවාසි භාර දීමට හිරු TV සහ රේනෝ සිල්වා මහතා වෙනුවෙන් ඔහුගේ නීතිඥ සමාගම කටයුතු කර තිබෙනවා.
+Hiru TV and Raynor Silva received 2000 million from their attorney company, enhancing their reputation.
 
-ඒ අනුව හිරු TV හි කීර්ති නාමයට සිදුව ඇති හානිය වෙනුවෙන් රුපියල් බිලියන 10ක් සහ රේනෝ සිල්වා මහතාගේ කීර්ති නාමයට සිදුව ඇති අපහාසය වෙනුවෙන් රුපියල් බිලියන 10ක වන්දි මුදල් ඉල්ලමිනුයි මෙසේ එන්තරවාසි භාර දීමට කටයුතු කර ඇත්තේ.
+🟩
+
+His attorney company has acted on behalf of Hiru Tv and Raynor Silva to hand over to Hiru TV and its Chairman Raynor Silva.
+
+Accordingly, the reputation of Rs.
 
 ◼️
 
 [Data](articles/ae6d11e6.json)
+
+[Extended Data](ext_articles/ae6d11e6.ext.json)
 
 ---
 
@@ -2197,37 +2247,5 @@ Despite claims of a ‘free market’, the leverage that these actors have over 
 [Data](articles/54fd51f7.json)
 
 [Extended Data](ext_articles/54fd51f7.ext.json)
-
----
-
-### Revitalising Sri Lanka through Social Solidarity Economy
-
-*2024-03-15 05:49:11* · [`dailyftlk`](https://www.ft.lk/columns/Revitalising-Sri-Lanka-through-Social-Solidarity-Economy/4-759508) · `en`
-
-By embracing the principles of the SSE, the nation can chart a course towards a more just, inclusive, and sustainable future
-
-As Sri Lanka grapples with a severe economic crisis, the need for a transformative economic model has never been more apparent. Decades of neoliberal policies since 1977 have left the nation facing rising inequality and vulnerability to global economic shifts. Previous experiments with socialist policies encountered challenges, stifling innovation and individual entrepreneurship. It’s time for a paradigm shift, and the Social Solidarity Economy (SSE) emerges as a beacon of hope for a more inclusive, equitable, and sustainable future.
-
-...
-
-[Data](articles/d72477f2.json)
-
-[Extended Data](ext_articles/d72477f2.ext.json)
-
----
-
-### Wages of sin latest addition to never ending fiascos at CBSL
-
-*2024-03-15 05:45:02* · [`dailyftlk`](https://www.ft.lk/columns/Wages-of-sin-latest-addition-to-never-ending-fiascos-at-CBSL/4-759507) · `en`
-
-It is difficult to find another instance in the history of central banking where the head of that bank with conscienceless audacity abused the constitutional independence of that institution to raise unilaterally the wages of his staff to such a height, between 36 and 79%, and made them an un-imitable elite of officers to be envied by the rest of the community of public servants. This is one of many and multiplying horror stories one hears almost daily from paradise Sri Lanka.
-
-At a time when millions of hard-working heads of ordinary families and parents are found skipping meals or eating smaller portions to feed their children, when 30% of five-year-old children are found malnourished, and when the danger of starvation is knocking at the doors of the poorest, the unconscionable act of munificence by the big chief Dr. Nandalal Weerasinghe (NW) fits into the proverbial robbery of Peter to pay Paul. The Central Bank’s notoriety continues unabated.
-
-...
-
-[Data](articles/b945da1d.json)
-
-[Extended Data](ext_articles/b945da1d.ext.json)
 
 ---

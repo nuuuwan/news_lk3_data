@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 00:33:18**
+As of **2024-03-16 00:48:11**
 
 ## Newspaper Stats
 
-*Scraped **13,163** Articles*
+*Scraped **13,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,74 @@ adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
 virakesarilk | 1,831
-dailymirrorlk | 2,017
+dailymirrorlk | 2,019
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,162 (100.0%) of 13,163 articles have been extended.
+13,163 (100.0%) of 13,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### Francophonie 2024 – மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோரின் இசை நிகழ்ச்சி
+### Easter Sunday, nightmares of past and fears for the future
+
+*2024-03-16 00:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Easter-Sunday-nightmares-of-past-and-fears-for-the-future/172-278976) · `en`
+
+On the 31th of this month Catholics and Christians of all denomination will celebrate Easter Sunday. The festival without a doubt brings to mind the Easter Sunday bombing of 2019.
+
+On Easter of 2019, terrorists exploded their deadly caches of explosives in three churches where Christians were celebrating what to the community was the most sacred of Christian festivals. Separately on the same day, in three five star hotels members of the same terrorist group carried out similar attacks on guests having their Easter breakfast.
+
+To-date no one knows why these misguided souls chose that date to perform their ‘mischief’. The intelligence services of the US, UK, India, China, Israel Pakistan et al arrived in the country within hours of the bombing.
+
+However, it was thanks to the immediate action taken by Malcolm Cardinal Ranjith, -the head of the Catholic Church in Sri Lanka- any further bloodshed was averted.
+
+...
+
+[Data](articles/c0f45474.json)
+
+---
+
+### “Col” Karuna’s Eastern Tiger  revolt against LTTE 20 years ago
+
+*2024-03-16 00:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Col-Karunas-Eastern-Tiger-revolt-against-LTTE-20-years-ago/172-278975) · `en`
+
+Karuna projected himself as the “Eastern national leader”, second only to Prabhakaran in the Tiger hierarchy
+
+Karuna kept LTTE resistance alive during the days of the IPKF. He and his former deputy Reagan led the counter offensive against the ill-fated Tamil National Army after the withdrawal of the IPKF
+
+Twenty years have passed and much water has flown under the bridge since the eastern tiger revolt. Nevertheless the episode that fragmented the LTTE, remains an important chapter in the history of the ethnic conflict
+
+The Liberation Tigers of Tamil Eelam(LTTE) organization fought the armed forces of Sri Lanka for 33 years in pursuance of its political goal of establishing a separate state  called Tamil Eelam in the Northern and Eastern provinces of the Island.
+
+...
+
+[Data](articles/5e5b18b1.json)
+
+---
+
+### Francophonie 2024 - Mark Ayman Marc Aymon and Milla Beson Milla Besson
 
 *2024-03-16 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178831) · `ta`
 
-இலங்கை மற்றும் மாலைதீவுகளுக்கான சுவிட்சர்லாந்து தூதரகம், International Organization of la Francophonie உடன் இணைந்து, கொழும்பு மற்றும் அஹங்கம பகுதிகளில் இசை நிகழ்ச்சியொன்றை ஏற்பாடு செய்யவுள்ளது. வருடாந்த பிரெஞ்சு மொழி மற்றும் Francophonie கலாசாரங்கள் போன்றவற்றுடன் சுவிஸ் இசைக் கலைஞர்களான மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோருடன் Francophonie 2024 ஐ கொண்டாடும் நோக்கில், ஏற்பாடு செய்யப்பட்டுள்ளது.
+Switzerland and the Maldives, with the International Organization of La Francophonie, will host a concert in Colombo and Ahangama for Francophonie 2024, featuring Swiss musicians Mark Ayman Marc Aymon and Milla Beson Milla Besson. The event includes master classes and the release of "Glaneurs," showcasing Swiss cultural heritage.
 
-அறிமுக நிகழ்வு மார்ச் மாதம் 16ஆம் திகதி பி.ப. 7 மணி முதல் கொழும்பு ‘Alliance Française de Colombo இல் நடைபெறும். அதனைத் தொடர்ந்து, மார்ச் 17 ஆம் திகதி பி.ப. 7.00 மணி முதல் TRAX அஹங்கமவிலும் நடைபெறும். குறித்த நிகழ்வுகளை அனைவராலும் இலவசமாக கண்டுகளிக்க முடியும்.
+🟩
 
-Master classes களும் மார்ச் மாதம் 16 ஆம் திகதி கட்புல, அரங்கேற்றக் கலைகள் பல்கலைக்கழகத்திலும், மார்ச் 19ஆம் திகதி உருகுணை பல்கலைக்கழகத்திலும் நடைபெறும்.
+The Switzerland Embassy for Sri Lanka and the Maldives will organize a concert in Colombo and Ahangama, along with the International Organization of La Francophonie.. The annual French language and Francophonie cultures are organized with Swiss musicians Mark Ayman Marc Aymon and Milla Beson Milla Besson for celebrating Francophonie 2024.
+
+The launch event was on March 16th.. The Alliance Française de Colombo will be held from 7am to Colombo. Subsequently, on March 17,. TRAX AGAGAMA will be held from 7.00 pm. The events can be seen free of charge.
+
+Master Classes will also be held on the 16th of March at the University of Kattupula and the University of March at the University of Urugunai on March 19.
 
 ...
 
 [Data](articles/be7db8b7.json)
+
+[Extended Data](ext_articles/be7db8b7.ext.json)
 
 ---
 
@@ -2241,47 +2283,5 @@ The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariy
 [Data](articles/f5015ce6.json)
 
 [Extended Data](ext_articles/f5015ce6.ext.json)
-
----
-
-### Fifteen Indian fishermen apprehended while poaching in Sri Lankan waters
-
-*2024-03-15 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97974/fifteen-indian-fishermen-apprehended-while-poaching-in-sri-lankan-waters) · `en`
-
-Sri Lanka Navy says it has apprehended 15 Indian fishermen who were poaching in the sea areas off Jaffna.
-
-The Indian fishermen were taken into custody during a special operation mounted by the Northern Naval Command deployed Fast Attack Craft to chase away a cluster of Indian poaching trawlers from Sri Lankan waters in the early hours of Friday (March 15).
-
-Having spotted illegal fishing activities off the Kovilan Lighthouse in Karainagar, the naval personnel managed to impound an Indian trawler with 15 fishermen aboard.
-
-The seized Indian vessel and the fishermen were subsequently brought ashore to the Kankesanturai Harbour and are slated to be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
-
-Following the new development, the navy says it has intercepted a total of 16 Indian fishing trawlers thus far in 2024 for trespassing in Sri Lankan waters. As many as 125 Indian fishermen were also apprehended in these operations.
-
-◼️
-
-[Data](articles/fff75dda.json)
-
-[Extended Data](ext_articles/fff75dda.ext.json)
-
----
-
-### Temperatures of several areas
-
-*2024-03-15 11:30:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයක-උෂ්ණත්වය-තවදුරටත්-ඉහලට/11-408625) · `si`
-
-The Department of Meteorology has increased the focus on temperatures in North Central, North-Western, Eastern, East, Vavuniya, Mullaitivu, and Mannar districts today.
-
-🟩
-
-The Department of Meteorology has informed that several districts will increase to a level of focus on a few districts today (15).
-
-In North Central, North-Western, Eastern, East, Vavuniya, Mullaitivu, Vavuniya, Mullaitivu, and Mannar districts are understood.
-
-◼️
-
-[Data](articles/2dcdd880.json)
-
-[Extended Data](ext_articles/2dcdd880.ext.json)
 
 ---

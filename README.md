@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 02:02:54**
+As of **2024-03-16 02:18:04**
 
 ## Newspaper Stats
 
-*Scraped **13,187** Articles*
+*Scraped **13,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
 virakesarilk | 1,834
-dailymirrorlk | 2,020
+dailymirrorlk | 2,021
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,187 (100.0%) of 13,187 articles have been extended.
+13,187 (100.0%) of 13,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### State Wesak festival to be held in Matale
+
+*2024-03-16 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Wesak-festival-to-be-held-in-Matale/108-278960) · `en`
+
+The state Wesak festival this year is to be held in Matale District in a grand way.
+
+A meeting to make preliminary arrangement for the festival was held at the District Secretariat under the chairmanship of Minister of Buddha Sasana, and Cultural Affairs Vidura Wickramanayake. He said the celebrations would take place in Matale town and eleven divisions in the district from May 21 to 27.
+
+State Minister of Defence Premitha Bandara Tennakoon said the Ministry of Defence would take steps to detail the police and the security forces to provide security to all place of Buddhist worship in the district during the festival. He said at least ten security and police personnel would be detailed to each place of worship.
+
+Several Senior Officials including District Secretary Thejani Tilakaratne and Secretary to the Ministry Buddha Sasana and Cultural Affairs Somaratne Vidanapathirana were present at the occasion.
+
+◼️
+
+[Data](articles/a83fbe9d.json)
+
+---
 
 ### Action to control the impact of the 'White E disease' that attacks the large amount of coconut tree in the Mannar island
 
@@ -2183,23 +2201,5 @@ President Ranil Wickremesinghe has stated at an event organized by the United Yo
 [Data](articles/d6691476.json)
 
 [Extended Data](ext_articles/d6691476.ext.json)
-
----
-
-### North Rs. 4900 million
-
-*2024-03-15 14:21:46* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-රු--මිලියන-4900-ක්/11-408629) · `si`
-
-Douglas Devananda, Fisheries Minister, allocates 4900 million rupees for Northern Province development and security, signing agreements with a foreign country.
-
-🟩
-
-Fisheries Minister Douglas Devananda has issued a press release to provide over 4900 million rupees for development and security in the Northern Province.. The agreements on receipts are signed with that country with that country
-
-◼️
-
-[Data](articles/69a80967.json)
-
-[Extended Data](ext_articles/69a80967.ext.json)
 
 ---

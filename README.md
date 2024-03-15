@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 20:50:25**
+As of **2024-03-15 21:03:08**
 
 ## Newspaper Stats
 
-*Scraped **13,131** Articles*
+*Scraped **13,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 681
 economynextcom | 702
 islandlk | 711
 adalk | 1,128
-adaderanalk | 1,581
-tamilmirrorlk | 1,598
+adaderanalk | 1,582
+tamilmirrorlk | 1,599
 virakesarilk | 1,824
 dailymirrorlk | 2,009
 adaderanasinhalalk | 2,076
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,076
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,131 (100.0%) of 13,131 articles have been extended.
+13,131 (100.0%) of 13,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### Public funeral for Ottawa mass killing victims on Sunday
+
+*2024-03-15 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97983/public-funeral-for-ottawa-mass-killing-victims-on-sunday-) · `en`
+
+A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
+
+In a news release Thursday, the Buddhist Congress of Canada (BCC) said the multi-faith service will be at 1 p.m. at the Infinity Convention Centre on Gibford Drive south of Ottawa’s core.
+
+Four children and two adults were killed in a townhouse in the Ottawa suburb of Barrhaven March 6.
+
+Police identified five of the victims as a family of newcomers to Canada from Sri Lanka.
+
+35-year-old Darshani Dilanthika Ekanayake, was killed along with her four young children — daughters Kelly, who was two months old; Ranaya, 3; and Ashwini, 4 — and son Inuka, 7.
+
+The body of another man, 40-year-old Gamini Amarakoon, was also found at the scene.
+
+There was one survivor — Dhanushka Wickramasinghe, who was injured with an edged weapon and taken to hospital.
+
+...
+
+[Data](articles/332f467c.json)
+
+---
+
+### குடிநீர் இல்லையென்றால் 117 க்கு அழைக்கவும்
+
+*2024-03-15 20:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-இல்லையென்றால்-117-க்கு-அழைக்கவும்/175-334721) · `ta`
+
+குடிநீர் தட்டுப்பாடு காணப்படும் பகுதிகளில் உள்ள மக்கள் 117 என்ற இலக்கம் ஊடாக மாவட்ட இடர் முகாமைத்துவ மத்திய நிலையத்துக்கு தகவல் வழங்க முடியும்.
+
+கேகாலை மற்றும் குருநாகல் மாவட்டங்களில் சுமார் 3,000 குடும்பங்கள் குடிநீர் பிரச்சினையை எதிர்கொண்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/2f85be52.json)
+
+---
 
 ### Department of Modeling: Fake Doctor Arrested
 
@@ -2269,47 +2307,5 @@ They included 35-year-old Darshani Ekanayake, her husband Dhanushka Wickramasing
 [Data](articles/603007c9.json)
 
 [Extended Data](ext_articles/603007c9.ext.json)
-
----
-
-### Sri Lanka, Indonesia launch negotiations for Preferential Trade Agreement
-
-*2024-03-15 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/97970/sri-lanka-indonesia-launch-negotiations-for-preferential-trade-agreement-) · `en`
-
-Sri Lanka and Indonesia officially kicked off the negotiations for the Preferential Trade Agreement (PTA) on Thursday (March 14).
-
-The negotiations were formally launched by Sri Lanka’s State Minister of Foreign Affairs, Tharaka Balasuriya and Indonesia’s Vice Minister of Trade, Jerry Sambuaga in a virtual meeting.
-
-The ministers have conveyed that the commencement of the Sri Lanka-Indonesia PTA negotiations would serve as a step towards a Free Trade Agreement (FTA).
-
-They agreed that both countries are keen to strengthen bilateral trade relations and achieve meaningful market access under the proposed PTA.
-
-Balasuriya and Sambuaga said they are hopeful that the PTA negotiations would be conducted expeditiously and agreed that the first round of negotiations will commence at the earliest mutually agreed date.
-
-◼️
-
-[Data](articles/04c4db18.json)
-
-[Extended Data](ext_articles/04c4db18.ext.json)
-
----
-
-### Big onion importers set price range after talks with Trade Minister
-
-*2024-03-15 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Big-onion-importers-set-price-range-after-talks-with-Trade-Minister/108-278904) · `en`
-
-Colombo, March 15 (Daily Mirror) - Following a discussion with the Trade Minister, big onion importers agreed to provide their stocks at a price between Rs. 450 and Rs. 500.
-
-A discussion was held yesterday between essential goods importers and the Minister at the Ministry over the matter of providing essential goods for people during the new year season.
-
-After the meeting, Minister Nalin Fernando addressed the media and said the discussions with the essential goods importers were successful, and they agreed to provide their goods to the local market at a competitive rate.
-
-Big onion importers said Pakistan had set limits on imports of big onions. However, they said that they are ready to import big onions from other countries like Holland and Turkey and supply stocks at a low price during the festive season.
-
-...
-
-[Data](articles/7b19c87d.json)
-
-[Extended Data](ext_articles/7b19c87d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 15:51:12**
+As of **2024-03-15 16:02:51**
 
 ## Newspaper Stats
 
-*Scraped **13,093** Articles*
+*Scraped **13,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,102 +17,162 @@ economynextcom | 699
 islandlk | 711
 adalk | 1,126
 adaderanalk | 1,575
-tamilmirrorlk | 1,594
+tamilmirrorlk | 1,595
 virakesarilk | 1,818
-dailymirrorlk | 2,000
+dailymirrorlk | 2,001
 adaderanasinhalalk | 2,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,088 (100.0%) of 13,093 articles have been extended.
+13,093 (100.0%) of 13,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### அவுஸ்திரேலிய பண்ணையில் உலகின் மிகப்பெரிய புளூபெர்ரி பழம்
+### Keheliya seeks bail
 
-*2024-03-15 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178792) · `ta`
+*2024-03-15 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-seeks-bail/108-278921) · `en`
 
-கடந்த ஆண்டு நவம்பர் மாதம் புளூபெர்ரி பழம்  பறிக்கப்பட்டு  உறைவிப்பான் பெட்டியில் (freezer) வைத்து பேணப்பட்டது.
+Colombo, March 15 (Daily Mirror)- Former Health Minister Keheliya Rambukwella, currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, has sought bail from the Colombo High Court.
 
-இது சுமார் 4 சென்றி மீற்றர் அகலமும் 20.4 கிராம் நிறையும் கொண்டதோடு, சாதாரண புளூபெர்ரியை விட 10 மடங்கு பெரிதாகும்.
+Filing a bail application through a lawyer, the former Health Minister is requesting the Colombo High Court that he be released on whatever bail conditions court deems fit.
 
-நுகர்வோரிடம் காணப்பட்ட பெரிய புளூபெர்ரி பழங்களுக்கான கேள்வியை நிவர்த்தி செய்வதற்காக கோஸ்டா குழுமத்தால் இந்த புதிய வகை எடெர்னா புளுபெர்ரி உருவாக்கப்பட்டுள்ளது.
+In his application, Keheliya Rambukwella alleged that the Maligakanda Magistrate, on a number of occasions has refused to grant bail and made remand orders without reasonable grounds.
 
-எடெர்னா இனம் தொடர்ந்து நல்ல விளைச்சலை தருகிறது. ஆனால் அண்மையில் வடக்கு நியூ சவுத் வேல்ஸில் உள்ள கொரிண்டியில் உள்ள அவர்களின் பண்ணையில் ஒரு மகத்தான விளைச்சலைத் தந்துள்ளது.
+The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten others till March 28 in connection with this incident.
 
-மரங்களில் சில பெரிய புளூபெர்ரி பழங்கள் காய்த்து கிடந்ததை எங்கள் குழுவினர்  அவதானித்து அவற்றை பறித்து எடை போடும் போது அதிர்ச்சி அடைந்தனர்.
+◼️
 
-அதில், உலகிலேயே மிகப்பெரிய புளூபெர்ரி பழம் என்ற சாதனையை முறியடித்த பழம் பெரியதாக இருந்தது. அன்று காலையில் நாங்கள் 20 அல்லது அதற்கு மேற்பட்ட பழங்களை பறித்தோம் அவைகள் முந்தைய உலக சாதனையை முறியடித்திருந்தது.
-
-...
-
-[Data](articles/2ce88e20.json)
+[Data](articles/c476993d.json)
 
 ---
 
-### சுகாதார ஊழியர்கள் மீண்டும் வேலை நிறுத்தம்?
+### The world's largest blueberry fruit on the Australian farm
+
+*2024-03-15 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178792) · `ta`
+
+The Costa Group's Etterna Blueberry, the world's largest, weighs 20.4 grams and is 10 times larger than normal blueberries. Seized in November, it broke the Guinness World Record after 12 weeks, yielding 20 or more fruits from a single tree.
+
+🟩
+
+In November last year, the blueberry fruit was seized and maintained in the freezer.
+
+It is about 4 meters wide and 20.4 grams and is 10 times larger than normal blueberries.
+
+This new type of Etterna Blueberry has been created by the Costa Group to address the question of large blueberry fruit found in the consumers.
+
+Ederna race continues to yield good yields. But recently, their farm in Corinth, in the North New South Wales, has given a huge yield.
+
+Our crew observed that some of the trees were soaked in the trees and were shocked when they were weighing.
+
+In it, the world's largest blueberry fruit was the largest fruit. That morning we snatched 20 or more fruits. They broke the previous world record.
+
+He said that the Guinness World record was certified as a highly weighting blueberry fruit in the Guinness World record this week after 12 weeks.
+
+◼️
+
+[Data](articles/2ce88e20.json)
+
+[Extended Data](ext_articles/2ce88e20.ext.json)
+
+---
+
+### பிணையில் விடுவிக்குமாறு கோரி மேல் நீதிமன்றத்தில் மனு
+
+*2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணையில்-விடுவிக்குமாறு-கோரி-மேல்-நீதிமன்றத்தில்-மனு/175-334718) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல, தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி தனது சட்டத்தரணிகள் ஊடாக இன்று (15) கொழும்பு மேல் நீதிமன்றில் மனுவொன்றை சமர்ப்பித்துள்ளார்.
+
+தரமற்ற தடுப்பு மருந்துகளை கொள்வனவு செய்தமை தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ள ரம்புக்வெல்லவை பிணையில் விடுவிக்க மாளிகாகந்த நீதவான் நீதிமன்றம் நேற்று (14) மறுத்துள்ளதுடன், வழக்கு விசாரணை முடியும் வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டுள்ளது.
+
+இந்த நிலையில், தம்மை பிணையில் விடுவிக்க உத்தரவிடுமாறு கோரி ரம்புக்வெல்ல இந்த மனுவை சமர்ப்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/e34f9ceb.json)
+
+---
+
+### Strike for health workers again?
 
 *2024-03-15 15:36:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-மீண்டும்-வேலை-நிறுத்தம்/175-334717) · `ta`
 
-மீண்டும் தொழிற்சங்க நடவடிக்கைகளை ஆரம்பிக்க உள்ளதாக சுகாதார நிபுணர்கள் சங்கத்தின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+Health Experts Association president Ravi Kumudesh announced a new strike for health workers, set to start on the 19th, if the Finance Ministry fails to address their issues.
 
-கொழும்பில் இன்று (15) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இதனைக் கூறினார்.
+🟩
 
-சுகாதார ஊழியர்களின் பிரச்சினைகளை தீர்க்க நிதியமைச்சு விரைவில் நடவடிக்கை எடுக்கப்படாவிட்டால் எதிர்வரும் 19 ஆம் திகதி முதல் தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படும் என அவர் கூறியுள்ளார்.
+Ravi Kumudesh, president of the Health Experts Association, said that the trade union activities are to be launched again.
+
+He said this while speaking to the media in Colombo today (15).
+
+He said the trade union action would be taken from the 19th of this month if the Finance Ministry would not take action to solve the problems of health workers.
 
 ◼️
 
 [Data](articles/d229bb6e.json)
 
+[Extended Data](ext_articles/d229bb6e.ext.json)
+
 ---
 
-### ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ඇතුළත් වීමට අයදුම්පත් කැඳවයි
+### Applications called for National Colleges of Education
 
 *2024-03-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194544) · `si`
 
-2021/2022  අධ්‍යයන වර්ෂයේ උසස් පෙළ විභාග ප්‍රතිඵල මත ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ශික්‍ෂණලාභීන් ඇතුළත් කර ගැනීමට අදාළ අයදුම්පත් කැඳවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය පියවර ගෙන ඇත.
+The Ministry of Education in Sri Lanka is inviting student applications for national education institutes for the upcoming academic year. Applications are submitted online, with eligibility determined through the same system. The application period ends today at 12:00 PM.
 
-ඒ අනුව මීට අදාළ ගැසට් නිවේදනය ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ අංක 2376 දරන අද (15) ගැසට් පත්‍රයේ පළ කර තිබේ.
+🟩
 
-මාර්ගගත ක්‍රමය ඔස්සේ මේ සඳහා අයදුම්පත් ඉදිරිපත් කළ යුතු අතර අයදුම්පත් අතරින් සුදුස්සන් තෝරා ගැනීම ද මාර්ගගත ක්‍රමය ඔස්සේ ම මෙවර සිදුකරනු ලබයි.
+The Ministry of Education has taken steps to call for the participation of students to admit the teaching of national education institutes on the year Academic year.
 
-අද දහවල් 12න් පසුව මාර්ගගත ක්‍රමවේදය ඔස්සේ මේ සඳහා අයදුම් කළ හැකි අතර අයදුම් කිරීමේ කාල සීමාව 2024.04.05 දිනයෙන් අවසන් වේ.
+Accordingly, the gazette notification has been published in the Gazette No. 2376 of the Democratic Socialist Republic of Sri Lanka.
 
-අද දහවල් 12.00ට පෙර ඇතුළත් කර ඇති අයදුම්පත් සලකා නොබැලෙන බැවින් එම අයදුම්කරුවන් නැවත මාර්ගගත ක්‍රමය ඔස්සේ අයදුම් කළ යුතු ය.
+Applications should be submitted along with the online system and selecting the eligible on the applications will also be made through the online system.
+
+This can be applied through online method after 12 in the afternoon and the application period will end on day to date.
+
+Applicants should apply to the return of the applicants since the application is included in the past 12.00 pm today.
 
 ◼️
 
 [Data](articles/3ef1b828.json)
 
+[Extended Data](ext_articles/3ef1b828.ext.json)
+
 ---
 
-### පුටින්ගේ බලාපොරොත්තු සඵල වෙයි ද?
+### Is Putin's hopes fail?
 
 *2024-03-15 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194543) · `si`
 
-පස්වැනි වරටත් රුසියානු ජනාධිපතිධුරය ඉල්ලා සිටින ව්ලැදිමීර් පුටින්ට නියත ජයග්‍රහණයක් ලැබෙනු ඇතැයි අපේක්ෂිත 2024 රුසියානු ජනාධිපතිවරණය මේ වන විට ආරම්භ වී තිබේ.
+Putin seeks 5th term victory in Russia's presidential election. For the first time, online voting is available in 29 regions. Sri Lanka's 71-year-old President Mahinda Rajapaksa, re-elected since 2000, faces Putin. Despite challenges, Putin's rule is approved by 85% of Russians, and he has no main opponents.
 
-විදේශයන්හි සිටින රුසියානුවන්ට ද එම රටවල රුසියානු තානාපති කාර්යාලය වෙත ගොස් ඡන්දය ප්‍රකාශ කළ හැකිවීම විශේෂත්වයකි.
+🟩
 
-කලාප 29ක පළමුවරට ඡන්දය පාවිච්චි කරන්නන්ට මාර්ගගත ක්‍රමයට ද ඡන්දය ප්‍රකාශ කිරීමට අවස්ථාව ලබාදී තිබේ.
+The Russian presidential election has already begun that the Vladimir Putin is seeking a constant victory for the fifth time.
 
-බොහෝ ප්‍රදේශවල පෙරවරු 8.00 සිට රාත්‍රී 8 දක්වා ඡන්දය ප්‍රකාශ කිරීම සිදුකෙරේ.
+The Russian Embassy of the Russian Embassy in the area and the Russian Embassy in the area have also been voted to the Russian embassy.
 
-2000 වසරේ සිට රුසියාවේ බලය හොබවන 71 හැවිරිදි ජනාධිපති පුටින් 2004, 2012 සහ 2018 වසරවලදී නැවත තේරී පත්විය.
+For the first time in 29 regions, voters have been given the opportunity to vote for the online system.
 
-2021 වසරේදී ජනපති පුටින් අත්සන් තැබූ නියෝගයකට අනුව ඔහුට තවත් ජනාධිපතිධුර කාල දෙකකට තරග කළ හැකිය.
+In many areas, the voting will be voted from 8:00 am to 8 pm.
 
-ඒ අනුව ජීවත්ව සිටියොත් 2036 වසර වනතුරු ඔහුට රුසියානු ජනාධිපතිධුරය දැරීමේ අවස්ථාවක් පවතී.
+The 71-year-old President of Sri Lanka was re-elected to the year 2000 in Russia since the year 2000, 2012 and 2018.
 
-මෙවර ජනාධිපතිවරණය ජයගතහොත් ජනපති පුටින් සෝවියට් සමූහාණ්ඩුවේ නායකයෙකු වූ ජෝසප් ස්ටාලින්ට පසු වැඩිම කාලයක් රුසියාව පාලනය කළ නායකයා බවට පත්වේ.
+According to an order on the orders of the President of Poutin in 2021, he could compete for two years.
+
+According to the year 2036, there is a chance to carry the Russian presidenger until 2036.
+
+If the presidential election will be won, the President's Putin Soviet Farin became the highest number of Russia after Joseph Stalin, a leader of the Soviet Union.
 
 ...
 
 [Data](articles/eaec54c9.json)
+
+[Extended Data](ext_articles/eaec54c9.ext.json)
 
 ---
 
@@ -142,7 +202,7 @@ People who staged a protest in front of the police station for about half an hou
 
 ---
 
-### Israeli strikes killed at least 29, injured over 150 in Gaza awaiting aid: Palestinian officials
+### Israeli strikes killed at least 29, injured over 150 awaiting aid in Gaza: Palestinian officials
 
 *2024-03-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97977/israeli-strikes-killed-at-least-29-injured-over-150-awaiting-aid-in-gaza-palestinian-officials) · `en`
 
@@ -161,6 +221,8 @@ The Gaza conflict has displaced most of the enclave’s 2.3 million population. 
 ...
 
 [Data](articles/de29e8f0.json)
+
+[Extended Data](ext_articles/de29e8f0.ext.json)
 
 ---
 
@@ -424,13 +486,9 @@ Eight individuals including former Health Minister Keheliya Rambukwella, former 
 
 Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
 
-Accordingly, the bail application has been fixed for consideration on March 18 (Monday).
+The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, former health secretary and 4 other accused in the case on Thursday (March 14). Furthermore, the magistrate had ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
 
-The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, former health secretary and 4 other accused in the case on Thursday (March 14).
-
-Furthermore, the magistrate ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
-
-Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
+In his bail application filed through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him is unlawful. He also sought the High Court to release him on bail subjected to any condition.
 
 ...
 
@@ -2163,43 +2221,5 @@ Soumiyapoomi land rights to be given to one million 76 thousand families in the 
 [Data](articles/fce96626.json)
 
 [Extended Data](ext_articles/fce96626.ext.json)
-
----
-
-### Nation building, Zen and art of Motorcycle maintenance’ - EDITORIAL
-
-*2024-03-15 02:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Nation-building-Zen-and-art-of-Motorcycle-maintenance-EDITORIAL/172-278889) · `en`
-
-These are days when parents have to motivate children with positive thoughts and help them envisage victory after being engaged in a struggle. We are in an era where we have to make a struggle to live, study, find food, retain jobs and stand up for what’s right. For this we must ensure that our loved ones engaged in the struggle to live and prosper emerge as victors.
-
-But there can be people out there who dedicate some time from their lives to defeat evil. There are citizens of this country who would want to defeat this ‘unelected’ regime; where its present president came to power not through the vote of the citizens, but from support inside the parliament. There are citizens in this nation who’d want to change this regime and install a new one after an election. And those who contribute to that change might not even stand in public with the winners, but prefer to play watchdog because ‘power’ has the potential to corrupt lawmakers.
-
-...
-
-[Data](articles/3e104430.json)
-
-[Extended Data](ext_articles/3e104430.ext.json)
-
----
-
-### None of the arrest of the Human Rights Commission
-
-*2024-03-15 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/178763) · `ta`
-
-On Shivaratri, five people at Athilingeswarar Temple in Vettu Nirimalai engaged in a hunger strike, leading to police arresting eight, including the temple. TNA's S. Kajendran accused the Sri Lanka Human Rights Commission of lodging a complaint. Despite health issues, the arrested were not visited by a doctor. S. Gajendran criticized the prison department for lying about the hunger strike's duration and the absence of any Human Rights Commission officials in prison.
-
-🟩
-
-On the day of Shivaratri, five people are engaged in a hunger strike at the Athilingeswarar Temple at Vettu Nirimalai. The Tamil National Alliance (TNA) parliamentarian S. Kajendran has accused the Human Rights Commission of Sri Lanka of lodging a complaint with the Human Rights Commission.
-
-The police were disrupted by the pilgrims who were engaged in pooja on Friday at the Adilingeswarar Temple in Vettu Nirimalai, Vavuniya district and forgotten to continue the worship at night.. Eight people were arrested by the police, including the temple.
-
-The explanation of the eight persons arrested in the above has been extended till the 19th of this month, with Tilakanathan Kindujan, Subramaniam Tavabalasingham, Durairasa Thamizhelvan, Thambrasa Mathimukarasa and Rasaratnam Vinayagamoorthy for the past three days.
-
-...
-
-[Data](articles/1994fed8.json)
-
-[Extended Data](ext_articles/1994fed8.ext.json)
 
 ---

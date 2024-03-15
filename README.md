@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 14:03:36**
+As of **2024-03-15 14:17:52**
 
 ## Newspaper Stats
 
-*Scraped **13,075** Articles*
+*Scraped **13,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,76 +19,122 @@ adalk | 1,123
 adaderanalk | 1,571
 tamilmirrorlk | 1,592
 virakesarilk | 1,815
-dailymirrorlk | 1,998
+dailymirrorlk | 1,999
 adaderanasinhalalk | 2,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,071 (100.0%) of 13,075 articles have been extended.
+13,075 (100.0%) of 13,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### කෙහෙළිය ගෙන් මහාධිකරණයට ඇප අයදුම්පතක්
+### Tourist killed by jumbo
+
+*2024-03-15 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-killed-by-jumbo/108-278916) · `en`
+
+A foreign tourist was trampled to death by a wild elephant at Manachchena, Komariya in  Potuwil last morning.
+
+Investigations revealed that the Italian tourist Ginchino Paulo (50), with another Italian tourist had been riding on motorcycles in the Komariya area when he had met with the accident.
+
+The injured had been rushed to the Potuwil Base Hospital by the 1990 ambulance service, only to be pronnounded dead.
+
+The body was despatched to the Ampara General Hospital for a postmortem examination.
+
+OIC Potuwil Police CI Kamal Seneviratne is conducting further investigations on the instructions of ASP Wehitha Devapiya.
+
+◼️
+
+[Data](articles/fced5cd4.json)
+
+---
+
+### Keheliya court bail application to High Court
 
 *2024-03-15 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194540) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් වංචාව සම්බන්ධයෙන් විමර්ශනවලට අදාළව රක්ෂිත බන්ධනාගාරගතව සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා මහධිකරණයට ඇප අයදුම්පතක් ඉදිරිපත් කර තිබේ.
+Keheliya Rambukwella, former Health Minister, submitted a bail application to the High Court.
+
+🟩
+
+Former Health Minister Keheliya Rambukwella has submitted a bail application to the High Court.
 
 ◼️
 
 [Data](articles/3cd9ea35.json)
 
+[Extended Data](ext_articles/3cd9ea35.ext.json)
+
 ---
 
-### 2023දී රැඳවියෝ රු. මි. 116ක් උපයති
+### In the 2023 inmates Rs. Rs. 116 earn
 
 *2024-03-15 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-රැඳවියෝ-රු--මි--116ක්-උපයති/11-408627) · `si`
 
-2022 සහ 2023 යන වර්ෂවල දී සංශෝධිත නව පනත් 107ක් පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට හැකිවූ බව අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතා පැවසීය.
+In 2023, inmates earned Rs. 116 million, with 107 new bills passed to improve justice. Prison labor contributed to the economy, and efforts to reduce prison congestion and food problems are underway. The bail act will be amended to manage inmate numbers, and rehabilitation programs for drug users are expanding.
 
-2023 වර්ෂයේදී රැදවියන්ගේ ශ්‍රම දායකත්වයෙන් කෘෂිකර්ම සහ කර්මාන්ත අංශය මඟින් රුපියල් මිලියන 116ක් උපයා ගැනීමට හැකියාව ලැබී තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Hon.
 
-2022 වසරේ දී නව පනත් 29 ක් සහ 2023 වර්ෂයේ දී නව පනත් 78ක් පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට හැකියාව ලැබී තිබෙනවා. ඒ අනුව නව පනත් සහ සංශෝධිත පනත් සමස්ත සංඛ්‍යාව 107ක් වනවා. මෙය අධිකරණ අමාත්‍යාංශයේ ඉතිහාසයේ සංශෝධනය කර ගැනීමට හැකිවූ වැඩිම පනත් සංඛ්‍යාව ලෙස හැඳින්විය හැකියි.
+In the year 2023, the labor of the detainees of the inmates have been able to earn Rs. 116 million.
+
+State Minister of Justice and Prison Anura Jayaratne made this statement participating at a press conference at the Presidential Media Center forum.
+
+In 2022, 29 new bills have been able to present 78 new bills in Parliament in 2023. Accordingly, the new statutes and the amended Acts have 107. This is the highest number of bills to revise the Ministry of Justice.
+
+Also, the prisoners in prisons have been able to make the country to work. Steps were taken to direct the prison in prison with the contribution of the public and private sector.. Accordingly, these projects are being carried out in the Welikada, Mahara and AurakanakolaPake prisoners. These are produced by shoes, coyl and food.
 
 ...
 
 [Data](articles/be1e317d.json)
 
+[Extended Data](ext_articles/be1e317d.ext.json)
+
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-03-15 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194539) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (15) පැවැත්වෙයි.
+Sri Lanka won the coin toss in the 2nd ODI vs Bangladesh, deciding to bat first.
 
-එහි කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව බංග්ලාදේශයට ලබාදීමටය.
+🟩
+
+The second ODI match between the Sri Lanka Tourism and Bangladesh will be held today (15).
+
+Sri Lanka won the advantage of the coin, and they decided to give Bangladesh to bat first.
 
 ◼️
 
 [Data](articles/15385c76.json)
 
+[Extended Data](ext_articles/15385c76.ext.json)
+
 ---
 
-### 19 වනදා සිට යළිත් සෞඛ්‍ය වර්ජනයක් ?
+### Is it a health strike from the 19rd?
 
 *2024-03-15 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194538) · `si`
 
-එළඹෙන 19 වනදා සිට නැවත වෘත්තීය ක්‍රියාමර්ග ආරම්භ කරන බව සෞඛ්‍ය වෘත්තිය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා පවසයි.
+UPFA's Ravi Kudakay announced a health strike starting 19th due to unresolved health worker issues.
 
-සෞඛ්‍ය සේවකයින්ගේ ගැටලු විසඳීම සඳහා මුදල් අමාත්‍යාංශය කඩිනමින් මැදිහත් නොවන්නේ නම් මෙම තීරණය ගන්නා බව ඔහු වැඩිදුරටත් පැවසීය.
+🟩
 
-අද (15) කොළඹදී මාධ්‍ය වෙත ප්‍රකාශයක් ලබාදෙමින් ඔහු වැඩිදුරටත් සඳහන් කළේ බලධාරීන්ගෙන් සිය ගැටලුවලට බලාපොරොත්තු වුණු ප්‍රතිචාරය නොලැබුණු බවය.
+The convener of the UPFA, Ravi Kudakay, says it will commence professional operations from the upcoming 19th.
+
+He added that if the Ministry of Finance does not intervene to solve health workers' problems, this decision will be taken.
+
+He added that a statement to the media in Colombo today (15th), he added that the authorities had not responded to their problems.
 
 ◼️
 
 [Data](articles/70edc122.json)
+
+[Extended Data](ext_articles/70edc122.ext.json)
 
 ---
 
@@ -2119,27 +2165,5 @@ In its annual threat assessment 2024 report this week, the US Intelligence Commu
 [Data](articles/d1322db3.json)
 
 [Extended Data](ext_articles/d1322db3.ext.json)
-
----
-
-### Resolution after discussing the boycott of the parliamentary session - Tamil MPs
-
-*2024-03-14 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178758) · `ta`
-
-Tamil MPs discuss boycott of parliamentary session, demanding government accountability for oppression, including Vidunarimalai issue. Police arrest eight, including temple, for disrupting pilgrims' worship. Civil society protests lead to boycott call. President Wickremesinghe agrees to set up a special committee to investigate. TNA leader CV Vigneswaran invites MPs to a meeting on Saturday. TNA President MA Sumanthiran, in Colombo, expresses readiness to respond to legal issues but awaits a resolution on boycott. TNA parliamentarian S. Gajendran and Dharmalingam Siddharthan also express willingness to participate in the meeting after discussing the boycott.
-
-🟩
-
-The Tamil MPs have said that the Tamil MPs will be able to make a consensus only after discussing the demands of the Tamil MPs to boycott the parliamentary session, condemning the ethnic, religious and cultural oppression used by the government, including the Vidunarimalai issue.
-
-The police were disrupted by the pilgrims who were engaged in pooja on Friday at the Adilingeswarar Temple in Vettu Nirimalai in Vavuniya district and forgotten to continue the worship at night.. Eight people were arrested by the police, including the temple.
-
-During the protests carried out by civil society representatives last Monday, the Tamil MPs were urged to boycott the parliamentary session.. President Ranil Wickremesinghe has agreed to the request made by Minister Douglas Devananda to set up a special committee and investigate the matter.
-
-...
-
-[Data](articles/3992518e.json)
-
-[Extended Data](ext_articles/3992518e.ext.json)
 
 ---

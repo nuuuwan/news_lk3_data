@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 13:17:36**
+As of **2024-03-15 13:33:31**
 
 ## Newspaper Stats
 
-*Scraped **13,069** Articles*
+*Scraped **13,070** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 123
-bbccomsinhala | 147
+bbccomsinhala | 148
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 681
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,069 (100.0%) of 13,069 articles have been extended.
+13,069 (100.0%) of 13,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -985,6 +985,24 @@ Initiative investigations have revealed that the casualty had been killed by her
 [Data](articles/ba6dfd3c.json)
 
 [Extended Data](ext_articles/ba6dfd3c.ext.json)
+
+---
+
+### අදානිගේ සුළං බලාගාර ව්‍යාපෘතිය ගැන ජනතාවගේ වාචික අදහස් විමසන්න පරිසර අධිකාරිය තීරණය කරයි
+
+*2024-03-15 07:39:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwen9prd4wo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, අදානි හරිත බලශක්ති ශ්‍රී ලංකා සමාගම අවශ්‍ය අනුමැතීන් ලබා දීම සඳහා ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරිය මෙම ව්‍යාපෘතියේ, ව්‍යාපෘති යෝජකයා ලෙස කටයුතු කරයි.
+
+අදානිගේ සුළං බලාගාර ව්‍යාපෘතිය ගැන ජනතාවගේ වාචික අදහස් විමසන්න පරිසර අධිකාරිය තීරණය කරයි
+
+අදානි හරිත බලශක්ති ශ්‍රී ලංකා සමාගම ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති සුළං බලාගාර ව්‍යාපෘතිය සම්බන්ධයෙන් ජනතාවගේ වාචික අදහස් විමසීමට (Public hearing) මධ්‍යම පරිසර අධිකාරිය තීරණය කර තිබේ.
+
+ඒ ගැන ලිඛිත අදහස් දැක්වීම සඳහා මාර්තු 06 තෙක් ඉඩ ලබා දී තිබුණි.
+
+...
+
+[Data](articles/60eaa820.json)
 
 ---
 
@@ -2147,21 +2165,5 @@ They were assisted by the fact that their bowlers had earlier done extremely wel
 [Data](articles/cf6424fb.json)
 
 [Extended Data](ext_articles/cf6424fb.ext.json)
-
----
-
-### Magnitude 5.8 earthquake hits Japan’s Fukushima
-
-*2024-03-14 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/97964/magnitude-58-earthquake-hits-japans-fukushima) · `en`
-
-An earthquake with a preliminary magnitude of 5.8 hit eastern Japan early on Friday, the Japan Meteorological Agency said.
-
-The epicentre of the earthquake was off the coast of Fukushima prefecture, where strong tremors were recorded, the agency said, adding that a tsunami warning had not been issued.
-
-◼️
-
-[Data](articles/2668b8bc.json)
-
-[Extended Data](ext_articles/2668b8bc.ext.json)
 
 ---

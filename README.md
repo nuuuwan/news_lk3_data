@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 21:18:08**
+As of **2024-03-15 21:33:22**
 
 ## Newspaper Stats
 
-*Scraped **13,137** Articles*
+*Scraped **13,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,583
 tamilmirrorlk | 1,599
 virakesarilk | 1,826
 dailymirrorlk | 2,010
-adaderanasinhalalk | 2,076
+adaderanasinhalalk | 2,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,133 (100.0%) of 13,137 articles have been extended.
+13,137 (100.0%) of 13,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### වරද පිළිගත් තිළිණිට අධිකරණයෙන් දැඩි අවවාද
+
+*2024-03-15 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194553) · `si`
+
+අධිකරණ නියෝග කඩ කිරීම් තුනක් සම්බන්ධයෙන් ගොනුකළ නඩුවක වරද පිළිගත් ව්‍යාපාරිකාවක් වන තිළිණි ප්‍රියමාලි දැඩි අවවාද මත මුදාහැරීමට කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා අද (15) නියෝග කළේය.
+
+සැකකාරියට රුපියල් 1,500ක දඩ මුදලක් නියම කළ මහෙස්ත්‍රාත්වරයා එය නොගාවන්නේ නම් සති දෙකක සිරදඩුවම් නියම කළේය.
+
+කෝටිපති ව්‍යාපාරිකයන්ගෙන් මුදල් වංචා කළ බවට චෝදනා එල්ල වන ව්‍යාපාරිකාවක් වන තිළිණි ප්‍රියමාලිට රන් මාලයක් ගෙන නැවත ලබා නොදුන් බවට වන නඩුකරයක දී තිබු ඇප කොන්දේසියක් කඩ කරමින් දින තුනක් පොලීසියට වාර්තා නොකිරීම මත කොටුව පොලීසිය විසින් අධිකරණයට කරුණූ දැක්වීමෙන් අනතුරුව ඇය ලබන 22 දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස මහෙස්ත්‍රාත්වරයා නියෝග කර තිබූ අතර එම නියෝගයෙන් අනතුරුව මෝසමක් ගොනුකරමින් ඇය වෙනුවෙන් පෙනී සිටි නිතිඥ කිංස්ලි හෙට්ටිආරච්චි මහතා ප්‍රමුඛ නිතිඥ මඩුල්ල අධිකරණයෙන් සමාව ගෙන ඇය සිටින බවට කළ දැනුම් දීම මත මහෙස්ත්‍රාත්වරයා ඇය පෙර ඇප මත මුදාහරින ලෙස නියෝග කළේය.
+
+ඇය වෙනුවෙන් කරුණු දක්වමින් මුල් උත්තරවාදය ඉල්ලා අස් කරගන්නා බවත් නැවත මෙවැනි වැරිද සිදුනොකිරිමට වග බලාගන්නා බවත් නිතිඥ මඩුල්ල අධිකරණයට දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/d896cd08.json)
+
+---
 
 ### SC delays verdict on petitions against recommendations of PCoI on political victimisation
 
@@ -45,6 +63,8 @@ The petitions were filed by President’s Secretary Saman Ekanayake, former Navy
 ◼️
 
 [Data](articles/38aa5b1f.json)
+
+[Extended Data](ext_articles/38aa5b1f.ext.json)
 
 ---
 
@@ -92,6 +112,8 @@ The Dehiwala Zoo employees claimed that the zebra died due to overdosing on some
 
 [Data](articles/ac3a2373.json)
 
+[Extended Data](ext_articles/ac3a2373.ext.json)
+
 ---
 
 ### Call 117 if there is no drinking water
@@ -114,23 +136,33 @@ About 3,000 families in Kegalle and Kurunegala districts are facing a drinking w
 
 ---
 
-### இந்தியா, இலங்கையில் கூட்டாக 2026 ரி20 உலகக் கிண்ணம்; 2024 ரி20 உலகக் கிண்ண இறுதிச் சுற்றுக்கு இருப்பு நாட்கள்
+### World Cup 2026 T20 in India, Sri Lanka;Balance Days to the final round of the 2024 T20 World Cup
 
 *2024-03-15 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178827) · `ta`
 
-ஐசிசியினால் ஏற்கனவே தீர்மானிக்கப்பட்டவாறு 2026 ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியை இந்தியாவும் இலங்கையும் கூட்டாக நடத்தும் என்பதை ஐசிசி மீண்டும் உறுதிசெய்துள்ளது.
+India and Sri Lanka will host the 2026 T20 World Cup. Top eight from the 2024 West Indies and U.S. T20 World Cup qualify. Two to four more teams will be added based on host countries' plans. The remaining eight will qualify through regional rounds. The ICC Board announced the 2026 R20 World Cup semi-finals and finals. Matches will have at least 5 overs for the second batting team in League and Super 8 rounds, but 10 overs in knockout matches.
 
-இந்த வருடம் மேற்கிந்தியத் தீவுகளிலும் ஐக்கிய அமெரிக்காவிலும் கூட்டாக நடைபெறவுள்ள ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் முதல் எட்டு இடங்களைப் பெறும் நாடுகள், வரவேற்பு நாடுகளான இந்தியாவுடனும் இலங்கையுடனும் இயல்பாகவே 2026 ரி20 உலகக் கிண்ணப் போட்டியில் பங்குபற்ற தகுதிபெறும்.
+🟩
 
-வரவேற்பு நாடுகளின் நிரல்படுத்தல்களைப் பொறுத்து இரண்டு முதல் நான்கு வரையான மற்றைய அணிகள் தீர்மானிக்கப்படும்.
+The ICC has once again confirmed that India and Sri Lanka will jointly host the 2026 T20 World Cup cricket match as it has already been decided by the ICC.
 
-எஞ்சிய 8 நாடுகள் பிராந்திய தகுதிகாண் சுற்றுகள் மூலம் ரி20 உலகக் கிண்ணத்தில் இணையும்.
+The top eight countries in the T20 World Cup in the West Indies and the United States this year will be qualified for the 2026 T20 World Cup in the 2026 T20 World Cup with welcome countries such as India and Sri Lanka.
 
-இது இவ்வாறிருக்க, இந்த வருடம் நடைபெறவுள்ள ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண அரை இறுதி மற்றும் இறுதிப் போட்டிகளுக்கு இருப்பு (ரிசேர்வ்) நாட்கள் ஒதுக்கப்பட்டுள்ளதாக இன்றைய ஐசிசி சபைக் கூட்டத்தில் அறிவிக்கப்பட்டது.
+Two to four other teams will be determined depending on the programs of the reception countries.
 
-...
+The remaining 8 countries will join the R20 World Cup through regional qualifying rounds.
+
+It was announced at today's ICC Board at the ICC men's R20 World Cup semi -finals and finals to be held this year.
+
+It has also been decided to throw at least five overs for the second batting team to determine the end of the match during the League Round and Super 8 round.
+
+However, the ICC has also announced that the second batting team should be thrown at least 10 overs to set the end of the game in the knockout matches.
+
+◼️
 
 [Data](articles/16392a77.json)
+
+[Extended Data](ext_articles/16392a77.ext.json)
 
 ---
 
@@ -248,19 +280,25 @@ The rupee has been strengthened by 5.6% over the US dollar in the last three mon
 
 ---
 
-### நுகர்வோரின் உரிமைகளை பாதுகாக்கும் எந்த வேலைத்திட்டமும் நுகர்வோர் அதிகாரசபையிடம் இல்லை - அசேல சம்பத் குற்றச்சாட்டு
+### The Consumer Authority has no program to protect the rights of the consumer - Azale Sampath charges
 
 *2024-03-15 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178826) · `ta`
 
-பொருட்களின் விலை குறைக்கப்பட்டாலும் அதன் நன்மை நுகர்வோருக்குச் சென்றடைவதில்லை. இதனை சரி செய்வதற்கான எந்த வேலைத்திட்டமும் நுகர்வோர் அதிகார சபையிடம் இல்லை. அத்துடன் நுகர்வோர் அதிகாரசபைக்கு  பணிப்பாளர், தலைவர் ஒருவர் இல்லாமலே உலக நுகர்வோர் உரிமைகள் தினத்தை இன்று நாங்கள் கொண்டாடி வருவதையிட்டு வெட்கப்பட வேண்டும் என தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத் தெரிவித்தார்.
+Azala Sampath criticizes the Consumer Authority for failing to protect consumer rights, despite reduced goods prices not benefiting consumers. The authority lacks programs to address these issues, leading to increased profits for traders at the expense of consumers.
 
-உலக நுகர்வோர் உரிமைகள் தினத்தை முன்னிட்டு தேசிய நுகர்வோர் முன்னணி வெள்ளிக்கிழமை (15) கொழும்பில் ஏற்பாடு செய்திருந்த நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-டொலரின் பெருமதி அதிகரித்திருந்தபோது பொருட்களின் விலை அதிகரிக்கப்பட்டது. தற்போது டொலரின் பெருமதி குறைந்து வருகின்றபோதும் பொருட்களின் விலை அவ்வாறே இருந்து வருகிறது. என்றாலும் இதுதொடர்பாக தேடிப்பார்த்து நுகர்வோருக்கு நிவாரணம் வழங்க   எமது நுகர்வோர் அதிகார சபைக்கு முடியாமல் போயிருக்கிறது..
+Although the price of goods has been reduced, its benefit does not reach consumers. The Consumer Authority has no program to correct this. National Consumer Front leader Azala Sampath said that we should be ashamed of World Consumer Rights Day today without a Director and Chairman of the Consumer Authority.
+
+He was speaking at a function organized by the National Consumer Front on Friday (15) in Colombo on the occasion of World Consumer Rights Day.
+
+As the dollar's giant increased the price of goods increased. Even though the dollar is currently declining. However, our Consumer Authority has not been able to find relief to the consumers.
 
 ...
 
 [Data](articles/09e4ccd1.json)
+
+[Extended Data](ext_articles/09e4ccd1.ext.json)
 
 ---
 
@@ -2269,27 +2307,5 @@ In the morning, the snow is expected in some parts of the Sabaragamuwa, Central 
 [Data](articles/1fd6290a.json)
 
 [Extended Data](ext_articles/1fd6290a.ext.json)
-
----
-
-### Thailand agrees to facilitate repatriation of Sri Lankans rescued from Myanmar cyber slave camp
-
-*2024-03-15 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97971/thailand-agrees-to-facilitate-repatriation-of-sri-lankans-rescued-from-myanmar-cyber-slave-camp) · `en`
-
-Foreign Affairs Minister Ali Sabry has requested assistance from Deputy Prime Minister and Minister of Foreign Affairs of Thailand Parnpree Bahiddha-Nukara to facilitate the early repatriation of rescued Sri Lankan nationals currently in the Myawaddy area in Myanmar.
-
-The request was communicated during a telephone conversation that took place on Thursday morning (March 14), the Foreign Affairs Ministry said in a statement.
-
-Accordingly, the Thai Foreign Minister has agreed to facilitate the repatriation of the Sri Lankans rescued from the cyber slave camp in Myawaddy via Thailand.
-
-According to the ministry, a total of 8 Sri Lankans who are currently under the Myanmar government protection in Myawaddy have been provided with required assistance including meals and basic necessities with the facilitation of the Embassy of Sri Lanka in Yangon.
-
-The Sri Lanka Embassies in Yangon and Bangkok are working together closely to ensure the safe and early repatriation of the Sri Lankans.
-
-...
-
-[Data](articles/8657cf69.json)
-
-[Extended Data](ext_articles/8657cf69.ext.json)
 
 ---

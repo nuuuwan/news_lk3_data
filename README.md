@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 14:17:52**
+As of **2024-03-15 14:33:32**
 
 ## Newspaper Stats
 
-*Scraped **13,076** Articles*
+*Scraped **13,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ dailyftlk | 681
 economynextcom | 699
 islandlk | 711
 adalk | 1,123
-adaderanalk | 1,571
+adaderanalk | 1,572
 tamilmirrorlk | 1,592
 virakesarilk | 1,815
 dailymirrorlk | 1,999
-adaderanasinhalalk | 2,065
+adaderanasinhalalk | 2,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,075 (100.0%) of 13,076 articles have been extended.
+13,076 (100.0%) of 13,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### දරුවන්ගේ ආරක්ෂාව තුට්ටු දෙකට දැමූ බලධාරීන්
+
+*2024-03-15 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194542) · `si`
+
+පාසල් දරුවන්ගේ ආරක්ෂාව වෙනුවෙන් ඉදිකළ උමං මාර්ගයක් වසර ගණනාවක් තිස්සේ විවෘත නොකිරීම හේතුවෙන් පාසල් සිසුන්ට ජීවිත අවදානමක්ද සහිතව මාර්ගයක් හරහා ගමන් කිරීමට සිදුවීමේ පුවතක් මහනුවරින් වාර්තා වුණි.
+
+මේ මහනුවර තැන්නේකුඹුර මාර්ගයේ මහනුවර ධර්මරාජ විදුහල සහ ඩි එස් සේනානායක විදුහල් ඉදිරිපිට ඉදිකර ඇති ඇති උමං මාර්ගයයි.
+
+සිසුන්ට ආරක්ෂිතව පාර මාරුවීම සඳහා මෙම උමං මාර්ගය ඉදිකර තිබේ.
+
+නමුත්, එහි ඉදිකිරීම් අවසන් වී වසර කිහිපයක් ගතවී ඇතත් මේ වන තෙත් එය භාවිතා කිරීමට ඉඩසලසා නොමැති බවට ජනතාව චෝදනවා කරයි.
+
+"මේක ඉවර කරලා අවුරුදු තුනක් විතර වෙනවා. මෙතෙන අනතුරකුත් වුණා. ඒ වුණෙත් හරියටම කහ ඉරේ. තාම කිසිම කෙනෙක් විකල්පයක් දීලා නෑ."
+
+ඒ හේතුවෙන් පාසල් දරුවන්ගේ මව්පියන් ඇතුළු ජනතාව අදාළ බලධාරීන්ගෙන් ඉල්ලා තවත් අනතුරක් සිදුවීමට පෙර උමං මාර්ගය විවෘත කර දෙන ලෙසයි.
+
+"සෑහෙන කාලයක් වෙනවා වැඩ ඉවර කරලා. මොකට තියාගෙන ඉන්නවද කියලා මට නම් තේරෙන්නේ නෑ."
+
+"පාර හරහා පනිද්දි ළමයින්ට අනතුරු වෙන්න පුළුවන්. ළමයින්ගේ ආරක්ෂාවට මේක විවෘත කරනවා නම් ගොඩක් හොඳයි.."
+
+◼️
+
+[Data](articles/f2cc82e4.json)
+
+---
+
+### ඔටාවා ඝාතන සැකකරුගේ මානසික තත්ත්වය ගැන දැඩි අවධානයක්
+
+*2024-03-15 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194541) · `si`
+
+ශ්‍රී ලාංකික එකම පවුලක සාමාජිකයින් 05 දෙනෙකු ඇතුළු 06 දෙනෙකුට මරු කැඳවූ ඔටාවා සමූහ ඝාතනයේ සැකකාර 19 හැවිරිදි ශ්‍රී ලාංකික තරුණයා ඔටාවා අධිකරණය හමුවේ ඊයේ දුරකථනය ඔස්සේ පෙනී සිටියේය.
+
+ඝාතන සිද්ධිය සම්බන්ධයෙන් එරට නීති විශාරදයින් පෙන්වා දෙන්නේ සැකකරුගේ මානසික තත්ත්වය පිළිබඳ පුළුල් ඇගයීමක් සිදුකළ යුතු බවය.
+
+සැකකාර ෆෙබ්‍රියෝ ද සොයිසා මේ වනවිට ඔටාවාහී කාලෙටන් රැඳවුම් මධ්‍යස්ථානයේ රඳවා ඇති අතර ඔහු උසාවිය හමුවේ පෙනී සිටින අවස්ථාවේදී ඔහුගේ නම සහ උපන්දිනය කෙඳිරිලි හඬින් පවසද්දී, විශෝධන නිලධාරියා ඔහුට පැහැදිලි උස් හඬින් එය පවසන ලෙසට ප්‍රකාශකර තිබුණි.
+
+අධිකරණ විභාගයේදී ඝාතනයට ලක්වු ශ්‍රී ලාංකික පවුලේ සාමාජිකයන්ගේ නම්වල දෝෂ නිවැරදි කිරීමට පියවර ගැනුණු අතර, එහිදී චෝදනාවල වෙනසක් සිදුනොකෙරෙනු බව කැනේඩියානු මාධ්‍ය සඳහන් කළේය.
+
+එමෙන්ම ඔහුට එරෙහිව නඩු පැවරීමට අදාළ චෝදනා ඊයේ අධිකරණය ඉදිරියේ නැවතත් කියවා නොමැත.
+
+අධිකරණ විභාගයේදී පිළිතුරු ලබාදීම සඳහා සැකකරු ඉංග්‍රීසි භාෂාව තෝරාගෙන ඇති අතර මීළඟ නඩු විභාගය ලබන 28 වනදා පැවැත්වීමට අධිකරණය නියෝග කර තිබේ.
+
+...
+
+[Data](articles/305c9207.json)
+
+---
 
 ### Tourist killed by jumbo
 
@@ -50,6 +98,8 @@ OIC Potuwil Police CI Kamal Seneviratne is conducting further investigations on 
 
 [Data](articles/fced5cd4.json)
 
+[Extended Data](ext_articles/fced5cd4.ext.json)
+
 ---
 
 ### Keheliya court bail application to High Court
@@ -67,6 +117,26 @@ Former Health Minister Keheliya Rambukwella has submitted a bail application to 
 [Data](articles/3cd9ea35.json)
 
 [Extended Data](ext_articles/3cd9ea35.ext.json)
+
+---
+
+### Keheliya submits bail application to high court
+
+*2024-03-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97976/keheliya-files-bail-application-before-hc) · `en`
+
+Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
+
+Accordingly, the bail application has been fixed for consideration on March 18 (Monday).
+
+The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, former health secretary and 4 other accused in the case on Thursday (March 14).
+
+Furthermore, the magistrate ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
+
+Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
+
+...
+
+[Data](articles/2d230d04.json)
 
 ---
 
@@ -2109,61 +2179,5 @@ It has been recorded in the Richter 3.9. The earthquake occurred at a depth of 1
 [Data](articles/e8161878.json)
 
 [Extended Data](ext_articles/e8161878.ext.json)
-
----
-
-### Magnitude 5.8 earthquake hits Japan’s Fukushima
-
-*2024-03-14 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Magnitude-5-8-earthquake-hits-Japans-Fukushima/107-278882) · `en`
-
-Reuters: An earthquake with a preliminary magnitude of 5.8 hit eastern Japan early on Friday, the Japan Meteorological Agency said.
-
-The epicentre of the earthquake was off the coast of Fukushima prefecture, where strong tremors were recorded, the agency said, adding that a tsunami warning had not been issued.
-
-◼️
-
-[Data](articles/766db0f2.json)
-
-[Extended Data](ext_articles/766db0f2.ext.json)
-
----
-
-### Sri Lanka refutes US claims of Chinese military base
-
-*2024-03-14 23:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-refutes-US-claims-of-Chinese-military-base/155-278863) · `en`
-
-Sri Lanka has refuted recent claims from US intelligence that there are potential plans for a Chinese military base to be established on its soil.
-
-State Defence Minister Premitha Bandara Tennakoon told Daily Mirror that Sri Lanka has not engaged in any discussions with foreign governments, including China, regarding the establishment of a military base within its borders.
-
-“Sri Lanka has not held discussions with any foreign government including China for a possible establishment of a military base here in Sri Lanka,” the State Minister said in response to a question on the US claims.
-
-In its annual threat assessment 2024 report this week, the US Intelligence Community said that China is exploring the possibility of establishing military facilities in various countries including Sri Lanka, in a bid to bolster their power projection capabilities and safeguard national interests.
-
-...
-
-[Data](articles/bfc9b65f.json)
-
-[Extended Data](ext_articles/bfc9b65f.ext.json)
-
----
-
-### Sri Lanka refutes US claims of Chinese military base
-
-*2024-03-14 23:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-refutes-US-claims-of-Chinese-military-base/108-278863) · `en`
-
-Sri Lanka has refuted recent claims from US intelligence that there are potential plans for a Chinese military base to be established on its soil.
-
-State Defence Minister Premitha Bandara Tennakoon told Daily Mirror that Sri Lanka has not engaged in any discussions with foreign governments, including China, regarding the establishment of a military base within its borders.
-
-“Sri Lanka has not held discussions with any foreign government including China for a possible establishment of a military base here in Sri Lanka,” the State Minister said in response to a question on the US claims.
-
-In its annual threat assessment 2024 report this week, the US Intelligence Community said that China is exploring the possibility of establishing military facilities in various countries including Sri Lanka, in a bid to bolster their power projection capabilities and safeguard national interests.
-
-...
-
-[Data](articles/d1322db3.json)
-
-[Extended Data](ext_articles/d1322db3.ext.json)
 
 ---

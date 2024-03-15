@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 08:17:46**
+As of **2024-03-15 08:33:39**
 
 ## Newspaper Stats
 
-*Scraped **13,021** Articles*
+*Scraped **13,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 695
 islandlk | 711
-adalk | 1,118
+adalk | 1,119
 adaderanalk | 1,565
 tamilmirrorlk | 1,582
 virakesarilk | 1,806
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,013 (99.9%) of 13,021 articles have been extended.
+13,017 (100.0%) of 13,022 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,6 +152,8 @@ Sri Lanka’s debt is a staggering 128% of GDP and half of it is external debt w
 
 [Data](articles/9b7cd83a.json)
 
+[Extended Data](ext_articles/9b7cd83a.ext.json)
+
 ---
 
 ### Appointment of a tax ombudsman: The time is apt
@@ -165,6 +167,8 @@ There are many knowledgeable tax officers who understand both sides of the fence
 ...
 
 [Data](articles/0ddd96dc.json)
+
+[Extended Data](ext_articles/0ddd96dc.ext.json)
 
 ---
 
@@ -198,6 +202,8 @@ The intent is to address specific items covered by the 27 February WNPS hosted M
 
 [Data](articles/334b9d41.json)
 
+[Extended Data](ext_articles/334b9d41.ext.json)
+
 ---
 
 ### CCC urges collaborative approach to address parate suspension concerns
@@ -229,6 +235,8 @@ It is fitting that the epigraph to Godfrey Gunatilleke’s now classic piece, �
 ...
 
 [Data](articles/54fd51f7.json)
+
+[Extended Data](ext_articles/54fd51f7.ext.json)
 
 ---
 
@@ -1318,6 +1326,22 @@ They have been working directly and through our party members in the war -affect
 
 ---
 
+### ආනයනික භාණ්ඩ කිහිපයක මිල පහළට
+
+*2024-03-14 20:13:48* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-භාණ්ඩ-කිහිපයක-මිල-පහළට/11-408622) · `si`
+
+ආනයනික සුදු සීනි ,පරිප්පු, තිරිඟු පිටි තොග  මිල අඩු කර ඇතැයි අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ආනයනකරුවෝ පවසති . ඒ අනුව  සුදු සීනි කිලෝවක තොග මිල රුපියල් 300 සිට 265 දක්වා ද , තිරිඟු පිටි කිලෝවක් රුපියල් 190 සිට 175 දක්වා සහ පරිප්පු  කිලෝවක් රුපියල් 350 සිට 285 දක්වාද  අඩුකර ඇතැයි ඔවුහු පවසති  .
+
+මේ වන විට අවශ්‍ය තරම් සුදු සීනි, තිරිඟු පිටි සහ පරිප්පු තොග තමන් සතුව පවතින බවත්, එළඹෙන උත්සව සමයේදී පාරිභෝගික ජනතාවට කිසිදු බාධකයකින් තොරව එම අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය මිලදී ගැනීමට හැකි බවත්  ආනයනකරුවෝ  කියා සිටිති  .
+
+මේ අතර   සුදු සීනි , පරිප්පු සහ තිරිඟු පිටි තොග මිල අඩුවී තිබුණද ඇතැම් සුපිරි වෙළෙඳසැල්වල සහ සිල්ලර වෙළඳසැල්වල එම භාණ්ඩවල මිල අඩුවී නැතැයිද වාර්තාවේ  .
+
+◼️
+
+[Data](articles/f75de5eb.json)
+
+---
+
 ### Keheliya's bail demand rejection
 
 *2024-03-14 20:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-பிணை-கோரிக்கை-நிராகரிப்பு/175-334678) · `ta`
@@ -2081,25 +2105,5 @@ The victim's mother then appealed to the police and arrested five persons, inclu
 [Data](articles/a8ca637f.json)
 
 [Extended Data](ext_articles/a8ca637f.ext.json)
-
----
-
-### Drug lord ‘Shiran Basik’ acquitted over contradictory police testimonies
-
-*2024-03-14 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97955/drug-lord-shiran-basik-acquitted-over-contradictory-police-testimonies-) · `en`
-
-Large-scale drug trafficker Mohommed Shiran Basik was acquitted from a drug case against him on orders of the Colombo High Court on Thursday (14 March).
-
-Colombo High Court Judge Manjula Thilakaratne ordered the defendant’s acquittal citing significant contradictions in the testimonies provided by officers of the Police Narcotics Bureau (PNB).
-
-According to the complaint, Basik was apprehended on 11 January 2011, near the Edmonton housing scheme in Kirulapana with 4.53 grams of heroin. Initially, it was reported that he was arrested alone, but later police officials claimed he was with his child at the time of arrest.
-
-Moreover, despite a police officer’s assertion that the raid was prompted by a tip-off received by the police from a certain phone number, evidence presented by the defense revealed that the phone number in question had been disconnected approximately one and a half years prior.
-
-...
-
-[Data](articles/aadd68c2.json)
-
-[Extended Data](ext_articles/aadd68c2.ext.json)
 
 ---

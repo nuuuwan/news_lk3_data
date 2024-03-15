@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 00:48:11**
+As of **2024-03-16 01:03:52**
 
 ## Newspaper Stats
 
-*Scraped **13,165** Articles*
+*Scraped **13,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 123
 bbccomsinhala | 149
 dbsjeyarajcom | 186
 newsfirstlk | 363
-dailyftlk | 681
+dailyftlk | 699
 economynextcom | 708
 islandlk | 711
 adalk | 1,130
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,163 (100.0%) of 13,165 articles have been extended.
+13,165 (99.9%) of 13,183 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,38 @@ However, it was thanks to the immediate action taken by Malcolm Cardinal Ranjith
 
 [Data](articles/c0f45474.json)
 
+[Extended Data](ext_articles/c0f45474.ext.json)
+
+---
+
+### Sri Lanka celebrates IORA Day under its chairmanship at Galle Face Green
+
+*2024-03-16 00:22:21* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-celebrates-IORA-Day-under-its-chairmanship-at-Galle-Face-Green/56-759576) · `en`
+
+The Indian Ocean Rim Association (IORA) Day was commemorated under the aegis of Sri Lanka’s chairmanship at the Galle Face Green overlooking the Indian Ocean on 10 March.
+
+Sri Lanka is the current chair of IORA which consists of 23 Member States and 12 Dialogue Partners.  IORA celebrates its 27th anniversary this year.
+
+The IORA Day celebrated under the theme “Ensuring a Sustainable Indian Ocean for Future Generations” was jointly organised by the Ministry of Foreign Affairs, the Ministry of Education and the Sri Lanka Navy. The theme chosen underscores the importance Sri Lanka places on preserving the Oceans’ health for the benefit of the future generations.
+
+...
+
+[Data](articles/75b2588a.json)
+
+---
+
+### US Peace Corps Volunteers sworn in, marking historic return to Sri Lanka
+
+*2024-03-16 00:21:30* · [`dailyftlk`](https://www.ft.lk/news/US-Peace-Corps-Volunteers-sworn-in-marking-historic-return-to-Sri-Lanka/56-759575) · `en`
+
+US Ambassador Julie Chung, Peace Corps Director Carol Spahn, and First Lady Professor Maithree Wickremesinghe join US Peace Corps Volunteers, school directors and counterparts at the Peace Corps swearing in ceremony in Colombo on March 6
+
+Peace Corps Volunteers learned Sri Lankan culture, Sinhala or Tamil for the past three months before they go out to their schools to teach English for the next two years
+
+...
+
+[Data](articles/c7e05795.json)
+
 ---
 
 ### “Col” Karuna’s Eastern Tiger  revolt against LTTE 20 years ago
@@ -65,6 +97,72 @@ The Liberation Tigers of Tamil Eelam(LTTE) organization fought the armed forces 
 ...
 
 [Data](articles/5e5b18b1.json)
+
+[Extended Data](ext_articles/5e5b18b1.ext.json)
+
+---
+
+### Sri Lanka Federation of University Women celebrates International Women’s Day
+
+*2024-03-16 00:20:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Federation-of-University-Women-celebrates-International-Women-s-Day/56-759574) · `en`
+
+The Sri Lanka Federation of University Women (SLFUW) launched an ambitious program for ’International Women’s Day long before 8 March, with a series of projects in line with this year’s UN theme of ‘Invest in Women Accelerate Progress.’
+
+SLFUW President Colonel Dr. Udula Krishnaratne explained that in practical terms this means, ‘Inspire the inclusion of women in every field to forge a better world.’ This conveys the need to ‘provide women and girls with access to quality education and training.’
+
+Thus, the SLFUW has planned to award 16 Scholarships to underprivileged female undergraduates from State Universities, of which one was awarded in advance on 27 February, to a student in dire circumstances due to health problems in the family. The other 15 scholarships will be awarded to coincide with IWD celebrations.
+
+A Career Guidance Course for university students will also be carried out to develop their personality and social skills, thereby enhancing their prospects of employment.
+
+...
+
+[Data](articles/fd848b1d.json)
+
+---
+
+### Prison Hospital Welikada conducts health camp
+
+*2024-03-16 00:19:45* · [`dailyftlk`](https://www.ft.lk/news/Prison-Hospital-Welikada-conducts-health-camp/56-759573) · `en`
+
+In a proactive move towards ensuring the well-being of inmates of Prison Complex Welikada, the Prison Hospital Welikada conducted a successful health camp for cataract surgery for the third time on 23 February.
+
+This initiative aimed at providing and improving the health and quality of life of inmates.
+
+The surgeries were conducted by consultant eye surgeon, Dr. M.D.S. Gunathilaka and the medical team of the National Eye Hospital. This team also provides great service for conducting monthly eye clinics at the Prison Hospital.
+
+This was a great idea of the Medical Officer in Charge of Prison Hospital, Welikada Dr. Gayani Tiskumara, consultant eye surgeon and the medical staff of the hospital.
+
+Lenses and other medical items were donated by V. Sarveshwaran , who is a well-known volunteer.
+
+...
+
+[Data](articles/664606dc.json)
+
+---
+
+### Indian High Commissioner visits Southern Province
+
+*2024-03-16 00:19:08* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-visits-Southern-Province/56-759572) · `en`
+
+Indian High Commissioner Santosh Jha became the first Indian High Commissioner in recent times to undertake a standalone visit to Southern Province, as he held diverse engagements in Galle, Matara and Hambantota Districts on 6 to 7 March.
+
+The High Commissioner met the Governor of the Province Dr. Willie Gamage on 6 March and highlighted several projects undertaken by Government of India (GOI) in the region. He also expressed willingness to carry out more projects for the benefit of the people in the Province through grant assistance as well as investments. The Governor thanked the High Commissioner for GOI’s diverse initiatives.
+
+...
+
+[Data](articles/f5de84d0.json)
+
+---
+
+### Computer lab with personal computers to Katumuluwa Junior School
+
+*2024-03-16 00:18:22* · [`dailyftlk`](https://www.ft.lk/news/Computer-lab-with-personal-computers-to-Katumuluwa-Junior-School/56-759571) · `en`
+
+The 1978 Science Faculty alumni batch of the University of Peradeniya recently came together to make a lasting impact on education in a rural area. They raised funds and embarked on a mission to donate a fully-equipped computer lab with personal computers to Katumuluwa Junior School, Kanaththewawa in Wariyapola. The project, which cost Rs. 1.2 million, represents not just a donation of hardware and software, but a commitment to empowering the young with the tools they need to succeed in this digital age. This computer lab would provide students with access to modern educational resources and opportunities. It was a moment of thoughtful significance for both the donors and
+
+◼️
+
+[Data](articles/395f37c9.json)
 
 ---
 
@@ -92,6 +190,68 @@ Master Classes will also be held on the 16th of March at the University of Kattu
 
 ### 2024-03-15 (Friday)
 
+### Current Govt. not SLPP says Basil
+
+*2024-03-15 23:55:08* · [`dailyftlk`](https://www.ft.lk/news/Current-Govt-not-SLPP-says-Basil/56-759559) · `en`
+
+SLPP founder Basil Rajapaksa says current Govt. cannot be unequivocally labelled as being led by his party
+
+Notes only four SLPP district leaders have been appointed as cabinet ministers
+
+Stresses five out of nine provinces lack SLPP ministerial representation
+
+Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa this week suggested that despite the SLPP’s majority support, the current Government cannot be unequivocally labelled as being led by the party.
+
+In a televised interview upon his return to the country, Rajapaksa highlighted that only four district leaders of the SLPP have been appointed as cabinet ministers, prompting him to have doubts about whether this Government is genuinely led by the SLPP.
+
+...
+
+[Data](articles/3e88253b.json)
+
+---
+
+### Janaka Ratnayake proposes price stability plan for goods and services
+
+*2024-03-15 23:54:10* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-proposes-price-stability-plan-for-goods-and-services/56-759558) · `en`
+
+Accuses current Govt. of failing Sri Lanka’s consumers by failing to manage prices of goods and services
+
+Says ongoing mismanagement is creating constant state of hardship for consumers
+
+Calls for urgent need for change in leadership to address these pressing issues
+
+Claims Govt. formed by his party will ensure price stability of 20 essential items for five years
+
+Presidential hopeful and former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL) Janaka Ratnayake accused the current Government of failing the country’s consumers yesterday.
+
+Addressing a press conference to mark the World Consumer Rights Day, Ratnayake said the Government has failed to manage the prices of essential goods and services leaving the population struggling.
+
+“Price management of basic necessities has been non-existent leaving the population struggling,” he said.
+
+...
+
+[Data](articles/5158644f.json)
+
+---
+
+### Keheliya submits bail application to High Court
+
+*2024-03-15 23:53:00* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-submits-bail-application-to-High-Court/56-759557) · `en`
+
+Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
+
+The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, and six other accused in the case on Thursday.
+
+In his bail application filed through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him is unlawful. He also sought the High Court to release him on bail subjected to any condition.
+
+On Thursday, Maligakanda Magistrate Lochani Abeywickrama overruled the accused’ bail pleas and detained them indefinitely under the provisions of the Public Property Act and fixed the case to be recalled on 28 March.
+
+◼️
+
+[Data](articles/c1d8481f.json)
+
+---
+
 ### Asgiriya Chapter Anunayaka Thera calls for fair and just rule
 
 *2024-03-15 23:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asgiriya-Chapter-Anunayaka-Thera-calls-for-fair-and-just-rule/108-278973) · `en`
@@ -107,6 +267,34 @@ The conference was held under the chairmanship of Ven. Wendaruwe Upali Thera.
 [Data](articles/82c42ad4.json)
 
 [Extended Data](ext_articles/82c42ad4.ext.json)
+
+---
+
+### Understanding sovereign debt responses in the context of global climate negotiations
+
+*2024-03-15 23:51:23* · [`dailyftlk`](https://www.ft.lk/columns/Understanding-sovereign-debt-responses-in-the-context-of-global-climate-negotiations/4-759556) · `en`
+
+2024 is a pivotal year for finance under the global climate negotiation process and presents an opportunity to further highlight the climate-debt nexus
+
+Around the world, countries are facing mounting debt, debt distress, and debt default. As governments are working towards green growth, sustainable development, poverty reduction, adaptation, and mechanisms to address climate-induced loss and damage, they are in danger of accumulating unsustainable debt or becoming unable to service existing debt. As stated in the IMF’s 2023 Annual Report, “debt vulnerabilities and risks remain elevated, with 15% of low-income countries currently in debt distress and 45% of low-income countries and 25% of emerging market economies at high risk of debt distress.”
+
+...
+
+[Data](articles/d6a6f96d.json)
+
+---
+
+### A leap of faith awaits
+
+*2024-03-15 23:47:51* · [`dailyftlk`](https://www.ft.lk/columns/A-leap-of-faith-awaits/4-759553) · `en`
+
+The NPP promises to reverse a historical trend. Everybody else has failed. We have reached a dead end
+
+For ancient history we are dependent on those who recorded them, in times when literacy was limited only to a handful. Very few of those present then could have challenged the veracity of the words being carved on stone, and if the carving had the king’s endorsement none would dare! For ancient history we are dependent on limited sources, one or two stone carvings or surviving scrolls. Even these scanty histories were rarely contemporaneous, the recorder writing about events happening few generations back, based on what has been passed from mouth to mouth. We do not know whether the exacting academic standards of today were demanded of the recorders then
+
+...
+
+[Data](articles/66baa55e.json)
 
 ---
 
@@ -137,6 +325,112 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 [Data](articles/0cc93c42.json)
 
 [Extended Data](ext_articles/0cc93c42.ext.json)
+
+---
+
+### CA Sri Lanka forum debate challenges and explores solutions to SOE restructuring
+
+*2024-03-15 23:34:20* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-forum-debate-challenges-and-explores-solutions-to-SOE-restructuring/34-759544) · `en`
+
+From left: Arjuna Herath, Suresh Shah, Reyaz Mihular and Dr. Indrajit Coomaraswamy
+
+Stepping up in its standing as the National Body of Accountants and as a leading professional body, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) took the initiative to bring together experts to focus on the highly debated restructuring process of State-Owned Enterprises (SOEs).
+
+The enlightening forum held recently, in collaboration with the Ministry of Finance, Economic Stabilisation, and National Policies, served as a pertinent platform that brought together prominent figures representing the Government, industry and corporate to discuss and debate critical issues and explore potential solutions related to SOE restructuring in the country.
+
+...
+
+[Data](articles/26b77bb0.json)
+
+---
+
+### Adani Power MD meets BOI
+
+*2024-03-15 23:33:07* · [`dailyftlk`](https://www.ft.lk/business/Adani-Power-MD-meets-BOI/34-759543) · `en`
+
+Adani Power Managing Director Anil Sardana met with the Board of Investment Chairman Dinesh Weerakkody and officials to discuss the progress of their projects in Sri Lanka. Colombo West International Terminal (CWIT) CEO Harikrishnan Sundaram also participated
+
+◼️
+
+[Data](articles/dc999ce0.json)
+
+---
+
+### ComBank opens newly built Kegalle branch
+
+*2024-03-15 23:32:37* · [`dailyftlk`](https://www.ft.lk/business/ComBank-opens-newly-built-Kegalle-branch/34-759542) · `en`
+
+Commercial Bank Chairman Prof. Ananda Jayawardane flanked by the bank’s Managing Director/CEO Sanath Manatunge and Chief Operating Officer S. Prabagar at the formal opening of the new building in the presence of members of the bank’s senior and corporate management
+
+The Commercial Bank of Ceylon recently moved its Kegalle branch to a spacious new two storey building at the same location, designed to better serve customers in this bustling municipality.
+
+The branch at No. 186, Main Street, Kegalle, is a fully-fledged banking operation that also offers two Automated Teller Machines (ATM) and two Cash Recycler Machines (CRM) to provide round-the-clock digital services to customers.
+
+...
+
+[Data](articles/89e199f9.json)
+
+---
+
+### HNB and ICC collaborate to offer tailored home financing
+
+*2024-03-15 23:31:57* · [`dailyftlk`](https://www.ft.lk/business/HNB-and-ICC-collaborate-to-offer-tailored-home-financing/34-759541) · `en`
+
+HNB Mortgage Advisor/Junior Executive Chamila Jayawickrama, Home and Personal Loans Manager Sampath Dodanwala, Personal Financial
+
+Services Manager Asitha Fernando, Personal Financial Services AGM Kanchana Karunagama, ICC Managing Director/CEO Namal Siri Peiris, Executive Finance Director Nalin Sriyantha Fernando, Property Development General Manager Roshani Perera, Marketing Head Randula Jayasooriya and Sales Administration Assistant Manager Prabanjana Abayadeera
+
+Reiterating its efforts to bring the best possible deals to customers investing in their dream home, HNB PLC, entered into a Memorandum of Understanding (MoU) with the International Construction Consortium Ltd. (ICC), to offer exclusive financial solutions to prospective homeowners of the developer’s latest project, the Residencies Kotte, located in the capital city of Sri Lanka.
+
+...
+
+[Data](articles/090a145e.json)
+
+---
+
+### Phoenix Industries relaunches extensive PVC range under Super PVC brand
+
+*2024-03-15 23:31:18* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-Industries-relaunches-extensive-PVC-range-under-Super-PVC-brand/34-759540) · `en`
+
+Sri Lankan household products company Phoenix Industries hosted an evening event at their Makandura factory to re-launch their wide-ranging PVC product line under the new Super PVC brand.
+
+The enhanced Super PVC range includes UPVC and CPVC pipes and fittings, FAB bends, solvent cements, cable management tubes and hardware items used for construction and home upgrades.
+
+Phoenix Industries has elevated the range’s branding to better represent the exceptional strength, durability and performance that Super PVC offers contractors, project managers and general households.
+
+With the re-brand, Phoenix aims to further build its leadership position nationwide as the top supplier of PVC solutions through both retail partnerships and Phoenix’s own showrooms.
+
+...
+
+[Data](articles/912d5de8.json)
+
+---
+
+### SLT-Mobitel presents Rs. 1 m to January’s ‘Fibre Elite Rewards’ winner
+
+*2024-03-15 23:30:49* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-presents-Rs-1-m-to-January-s-Fibre-Elite-Rewards-winner/34-759539) · `en`
+
+SLT-Mobitel awarded Rs. 1,000,000 to C.K. Abeynayake, who purchased a new fibre connection in January, as part of its ‘Fibre Elite Rewards’ promotion. He was presented the grand prize at a recent ceremony by SLT-Mobitel Chief Marketing Officer Prabhath Dahanayake and SLT Deputy Chief Marketing Officer Rohana Ellawala. In addition to the cash prize, SLT-Mobitel presents 10 lucky users who registered for a fibre connection the chance to walk away weekly with 100GB of data each. Here C.K. Abeynayake receiving his prize from SLT-Mobitel Group Chief Marketing Officer Prabhath Dahanayake and SLT Deputy Chief Marketing Officer Rohana Ellawala
+
+◼️
+
+[Data](articles/df1120ef.json)
+
+---
+
+### INSEE Ecocycle introduces internationally accredited analytical services
+
+*2024-03-15 23:30:17* · [`dailyftlk`](https://www.ft.lk/business/INSEE-Ecocycle-introduces-internationally-accredited-analytical-services/34-759538) · `en`
+
+INSEE Ecocycle Lanka General Manager Sujith Gunawardhana (right) with Board of Investment Executive Director Lawrance Madapatha
+
+INSEE Ecocycle, Sri Lanka’s leading total waste management solutions provider, has expanded its portfolio by setting up a state-of-the-art analytical laboratory for industries prioritising environmental sustainability and regulatory compliance.
+
+The newly established laboratory offers a comprehensive range of analytical services, including wastewater testing, organic fertiliser testing, fuel testing, heavy metal analysis, and waste analysis. These services are tailored to provide industries with precise, reliable, and accredited solutions to their analytical requirements.
+
+...
+
+[Data](articles/886b48b8.json)
 
 ---
 
@@ -1877,411 +2171,5 @@ A committee headed by Supreme Court Justice Yasantha Kodagoda had submitted a re
 [Data](articles/7260c419.json)
 
 [Extended Data](ext_articles/7260c419.ext.json)
-
----
-
-### The anesthesiologist at Hambantota General Hospital has gone to the country
-
-*2024-03-15 13:53:04* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-මහ--රෝහලේ-නිර්වින්දන-වෛද්‍යවරිිය-නොදන්වා-රට-ගිහින්/11-408628) · `si`
-
-The anesthesiologist at Hambantota General Hospital is abroad, leaving the hospital without an anesthetist. The acting anesthetist from Kandy was also abroad without notice. The hospital faces difficulties due to the absence of anesthetists, restricting surgeries and lacking expertise in blood transfusion.
-
-🟩
-
-The acting anesthetist worked at Hambantota District at the Kandy district was abruptly abruptly abroad due to no legal notice.
-
-The doctor has approved casual leave from the 12th to the 16th to the 16th of her 13th. The staff of the hospital say that she has informed the hospital authorities after she was abroad.
-
-The doctor is abroad that no foreign leave is approved without any foreign leave and two intensified women and 2 intensive care of the Hambantota district and currently serving at the hospital.
-
-The only anesthetist worked at the Hambantota General Hospital was also abroad on August 12 last year. The hospital authorities have been abroad, informing him that he will get a few days vacation.
-
-Once he was abroad, hospital authorities have faced a severe difficulty at the hospital.
-
-...
-
-[Data](articles/65acaa11.json)
-
-[Extended Data](ext_articles/65acaa11.ext.json)
-
----
-
-### Tourist killed by jumbo
-
-*2024-03-15 13:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-killed-by-jumbo/108-278916) · `en`
-
-A foreign tourist was trampled to death by a wild elephant at Manachchena, Komariya in  Potuwil last morning.
-
-Investigations revealed that the Italian tourist Ginchino Paulo (50), with another Italian tourist had been riding on motorcycles in the Komariya area when he had met with the accident.
-
-The injured had been rushed to the Potuwil Base Hospital by the 1990 ambulance service, only to be pronnounded dead.
-
-The body was despatched to the Ampara General Hospital for a postmortem examination.
-
-OIC Potuwil Police CI Kamal Seneviratne is conducting further investigations on the instructions of ASP Wehitha Devapiya.
-
-◼️
-
-[Data](articles/fced5cd4.json)
-
-[Extended Data](ext_articles/fced5cd4.ext.json)
-
----
-
-### Keheliya court bail application to High Court
-
-*2024-03-15 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194540) · `si`
-
-Keheliya Rambukwella, former Health Minister, submitted a bail application to the High Court.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella has submitted a bail application to the High Court.
-
-◼️
-
-[Data](articles/3cd9ea35.json)
-
-[Extended Data](ext_articles/3cd9ea35.ext.json)
-
----
-
-### Keheliya submits bail application to high court
-
-*2024-03-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97976/keheliya-files-bail-application-before-hc) · `en`
-
-Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
-
-Accordingly, the bail application has been fixed for consideration on March 18 (Monday).
-
-The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, former health secretary and 4 other accused in the case on Thursday (March 14).
-
-Furthermore, the magistrate ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
-
-Eight individuals including former Health Minister Keheliya Rambukwella, former Health Ministry Secretary Janaka Chandragupta and Additional Secretary of the Health Ministry Dr. Saman Ratnayake currently remain under remand custody following their arrest in connection with the case.
-
-...
-
-[Data](articles/2d230d04.json)
-
-[Extended Data](ext_articles/2d230d04.ext.json)
-
----
-
-### Keheliya submits bail application to high court
-
-*2024-03-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/97976/keheliya-submits-bail-application-to-high-court) · `en`
-
-Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
-
-The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, former health secretary and 4 other accused in the case on Thursday (March 14). Furthermore, the magistrate had ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
-
-In his bail application filed through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him is unlawful. He also sought the High Court to release him on bail subjected to any condition.
-
-...
-
-[Data](articles/687b29be.json)
-
-[Extended Data](ext_articles/687b29be.ext.json)
-
----
-
-### In the 2023 inmates Rs. Rs. 116 earn
-
-*2024-03-15 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-රැඳවියෝ-රු--මි--116ක්-උපයති/11-408627) · `si`
-
-In 2023, inmates earned Rs. 116 million, with 107 new bills passed to improve justice. Prison labor contributed to the economy, and efforts to reduce prison congestion and food problems are underway. The bail act will be amended to manage inmate numbers, and rehabilitation programs for drug users are expanding.
-
-🟩
-
-The Hon.
-
-In the year 2023, the labor of the detainees of the inmates have been able to earn Rs. 116 million.
-
-State Minister of Justice and Prison Anura Jayaratne made this statement participating at a press conference at the Presidential Media Center forum.
-
-In 2022, 29 new bills have been able to present 78 new bills in Parliament in 2023. Accordingly, the new statutes and the amended Acts have 107. This is the highest number of bills to revise the Ministry of Justice.
-
-Also, the prisoners in prisons have been able to make the country to work. Steps were taken to direct the prison in prison with the contribution of the public and private sector.. Accordingly, these projects are being carried out in the Welikada, Mahara and AurakanakolaPake prisoners. These are produced by shoes, coyl and food.
-
-...
-
-[Data](articles/be1e317d.json)
-
-[Extended Data](ext_articles/be1e317d.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-03-15 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194539) · `si`
-
-Sri Lanka won the coin toss in the 2nd ODI vs Bangladesh, deciding to bat first.
-
-🟩
-
-The second ODI match between the Sri Lanka Tourism and Bangladesh will be held today (15).
-
-Sri Lanka won the advantage of the coin, and they decided to give Bangladesh to bat first.
-
-◼️
-
-[Data](articles/15385c76.json)
-
-[Extended Data](ext_articles/15385c76.ext.json)
-
----
-
-### President appoints panel to solve the problems of the construction industry
-
-*2024-03-15 13:35:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිකිරීම්-ක්ෂේත්‍රයේ-ගැටලු-විසඳීමට-ජනපතිගෙන්-විද්වත්-කමිටුවක්/11-408626) · `si`
-
-President Ranil Wickremesinghe announced a committee to address construction industry issues, aiming to improve economic conditions and promote construction services. The committee will include industry experts and government officials.
-
-🟩
-
-President Ranil Wickremesinghe said that a committee will be appointed to investigate the problems in the construction industry and reporting the problems that can be found in the current economic situation.
-
-President Ranil Wickremesinghe made this statement at the Presidential Secretariat with industrialists engaged in the field of construction.
-
-The Committee will take the appointment of the industry experts with the field of the Ministry of Urban Development and Housing Secretaries.
-
-President Ranil Wickremesinghe said that with the end of the debt reconciliation, the prosecutors would be encouraged in all fields by next year.
-
-The President's attention was drawn to the prevailing economic conditions and the problems faced by the parties in the field and resumed projects, creating a friendly environment, promote construction services, alternative funding and contractDiscussions were also discussed in advisory issues.
-
-...
-
-[Data](articles/fa690ec0.json)
-
-[Extended Data](ext_articles/fa690ec0.ext.json)
-
----
-
-### Is it a health strike from the 19rd?
-
-*2024-03-15 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194538) · `si`
-
-UPFA's Ravi Kudakay announced a health strike starting 19th due to unresolved health worker issues.
-
-🟩
-
-The convener of the UPFA, Ravi Kudakay, says it will commence professional operations from the upcoming 19th.
-
-He added that if the Ministry of Finance does not intervene to solve health workers' problems, this decision will be taken.
-
-He added that a statement to the media in Colombo today (15th), he added that the authorities had not responded to their problems.
-
-◼️
-
-[Data](articles/70edc122.json)
-
-[Extended Data](ext_articles/70edc122.ext.json)
-
----
-
-### The value of the US dollar in banks is down to 300 rupees
-
-*2024-03-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178791) · `ta`
-
-The US dollar's value in banks is 300 rupees, with a sales price of 310.2053 rupees, based on the Central Bank's exchange rate on March 16.
-
-🟩
-
-Accordingly, the US $ 300.6026 and the sales price were 310.2053 based on the Central Bank's currency exchange rate on Friday (March 16).
-
-◼️
-
-[Data](articles/7d9c171a.json)
-
-[Extended Data](ext_articles/7d9c171a.ext.json)
-
----
-
-### The murder of mother lost two children
-
-*2024-03-15 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194537) · `si`
-
-A 27-year-old mother was murdered in Raddol, with police suspecting a 22-year-old youth involved. The suspect confessed to a friend.
-
-🟩
-
-Police say that many information has been revealed in the bodding room in Seeduwa, police said.
-
-The police suspect that the murder was committed by a 22 year old youth who was involved in a casual since her earlier.
-
-The suspect had confessed to a friend after the assassination, police said.
-
-The 27-year-old mother of two was murdered in a boarding room on the rudden road in Raddol.
-
-Dilini is a woman named Dilini is a woman named Dilini, a resident of Pamgollawa, Anuradhapura.
-
-The police suspect that a 22-year-old youth has committed the murder.
-
-Preliminary investigations have revealed that the young man had arrived at the Bedding Room, who died in the bed of the dead.
-
-After the murder, the police visited the boogon room was inspected in the room.
-
-The suspect was also planning to commit suicide after the assassination.
-
-The suspect had been exhausted in this room on the 13th and the owner of the boarding room had been seen the next morning.
-
-...
-
-[Data](articles/dae8f64a.json)
-
-[Extended Data](ext_articles/dae8f64a.ext.json)
-
----
-
-### Harsha denies requesting meeting with IMF, says ‘Don’t play politics with our economy’
-
-*2024-03-15 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97975/harsha-denies-requesting-meeting-with-imf-says-dont-play-politics-with-our-economy) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva has refuted recent claims that he requested for a meeting with the visiting delegation of the International Monetary Fund (IMF).
-
-Taking to ‘X’ (formerly Twitter) in response to a statement made by State Minister of Finance Shehan Semasinghe, the SJB MP stated that he had merely requested for the Opposition to be involved in the External Debt Restructure (EDR).
-
-MP Dr. Harsha de Silva further highlighted that he had made a request in this regard given the crucial importance of the Opposition being made aware of such facts and figures in the event they are elected as the next government.
-
-“Never requested an IMF meeting (deal finalized). My request: Opposition involved in EDR (crucial for when we take over next Govt.)I have never reneged my responsibility and continue to work for #lka, even in Opp. Don’t play politics with our economy”, the MP’s statement on ‘X’ read.
-
-...
-
-[Data](articles/954c6b7c.json)
-
-[Extended Data](ext_articles/954c6b7c.ext.json)
-
----
-
-### 15 Indian fishermen nabbed with trawler
-
-*2024-03-15 12:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/15-Indian-fishermen-nabbed-with-trawler/108-278915) · `en`
-
-Jaffna, March 15 (Daily Mirror)- The Sri Lanka Navy has apprehended fifteen Indian fishermen along with a fishing trawler while they were poaching in Sri Lankan waters off the Kovilan Lighthouse in Karainagar early this morning.
-
-The fishermen and the trawler were brought to the Kankesanthurai Harbour and will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
-
-With this recent apprehension, the Navy has seized a total of 16 Indian poaching trawlers and 125 Indian fishermen in Sri Lankan waters in 2024, and subsequently had handed them over to authorities for legal proceedings.
-
-The Navy said they continue to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign trawlers, taking into account the impact of those practices on the livelihoods of local fishermen.
-
-◼️
-
-[Data](articles/b940f8c7.json)
-
-[Extended Data](ext_articles/b940f8c7.ext.json)
-
----
-
-### Should not be allowed to violate women's rights
-
-*2024-03-15 12:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களின்-உரிமை-மீறப்படுவதை-அனுமதிக்கக்-கூடாது/175-334709) · `ta`
-
-In 2019, the United People's Power addressed women's health issues, promising financial aid for those unable to afford healthcare. The Celine Foundation's program aims to provide health equipment to women, focusing on national production and economic development. Opposition Leader Sajith Premadasa highlighted the importance of protecting women's health and reducing healthcare costs. Despite women constituting 52% of the population, the program's implementation has been hindered by a male-centered social structure. The right to violate women's health rights should not be tolerated. The program, promised by the United People's Power Government, aims to tax women for healthcare, creating employment opportunities.
-
-🟩
-
-In the 2019 presidential election, the United People's Power was in the position that women were constantly resolved in the health problems faced by women in the country.. As a result, the Celine Foundation today presented a very important program for women affected by health poverty.
-
-The Opposition Leader said that the health equipment will be provided to women who are unable to meet health problems due to financial problems, as in 2019, as promised in the United People's Power Government.
-
-It is not only a welfare, but also the focus of national production, combining the objectives of promoting these production businesses, which contribute to the economic development of income and ensure the health care of women.. The Leader of the Opposition pointed out that this would protect women's health and reduce unnecessary health costs.
-
-...
-
-[Data](articles/18e8e16c.json)
-
-[Extended Data](ext_articles/18e8e16c.ext.json)
-
----
-
-### Signal Disorder: Train Services Delay in Pratana Religion
-
-*2024-03-15 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178774) · `ta`
-
-Signal disorder delays train services on the Prathana route between Kelani and Hunupitiya stations.
-
-🟩
-
-The rail control room said that there was a sign of signal between Kelani and Hunupitiya railway stations.
-
-Due to this, the railway control room said that the train services have been delayed in the Prathana route.
-
-◼️
-
-[Data](articles/55ecab80.json)
-
-[Extended Data](ext_articles/55ecab80.ext.json)
-
----
-
-### Opposition’s lack of transparency on amendments to Sri Lanka IMF deal questioned
-
-*2024-03-15 11:55:00* · [`economynextcom`](https://economynext.com/oppositions-lack-of-transparency-on-amendments-to-sri-lanka-imf-deal-questioned-154733/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s opposition parties that have promised amendments to the government’s agreement with the International Monetary Fund (IMF) upon their election has not revealed the amendments they propose, State Minister of Shehan Semasinghe said.
-
-Semasinghe tweeted Friday March 15 that this apparent lack of transparency is a cause for concern.
-
-“Although the opposition political parties who opposed the International Monetary Fund’s programme, which had a major impact on the recovery and stabilisation of the economy, announced that it would be amended after reaching office. However no indication has been made available on the specific proposed amendments. A clear statement of what the proposed amendments could create a debate about its success or failure, practicality and credibility. But no one yet knows what those amendments are. Why has this happened this way? A concern,” he said.
-
-...
-
-[Data](articles/686c4ec9.json)
-
-[Extended Data](ext_articles/686c4ec9.ext.json)
-
----
-
-### Lawyer who was accused of violating the ethics
-
-*2024-03-15 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194536) · `si`
-
-The Supreme Court exempted a lawyer accused of ethics violations at the Central Court, citing no evidence of wrongdoing.
-
-🟩
-
-The Supreme Court today ordered the exemption of a lawyer who was accused of violating lawyers' ethics in charge of the Central Court.
-
-The lawyer was accused of leaving the Air Control Cards at Bandaranaike International Airlines in Katunayake.
-
-It was the verdict by Mr. Geeranya, who is a Supreme Court Bench.
-
-Since the respondent has not been exposed to the respondents, he is released from the charges that he has not been revealed that he has violated lawyers' ethics in the incident.
-
-◼️
-
-[Data](articles/c219b527.json)
-
-[Extended Data](ext_articles/c219b527.ext.json)
-
----
-
-### 'How I Write': Pharna Shammy Wijethilaka
-
-*2024-03-15 11:43:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd14xnmdye9o) · `si`
-
-Pharna Shammy Wijethilaka's writing process involves identifying disadvantages and writing from personal experiences. She discusses the challenges of starting a novel, the importance of building the novel before writing, and the transformation of characters during the writing process.
-
-🟩
-
-Dhamnah Shammy Wijethilaka is no longer an introduction to the current Sinhala literary reader.
-
-Her vows, such as disadvantage, such as the disadvantage, such as disadvantages, such as the disadvantage, the disadvantage, and the disadvantage, such as the disadvantage, mandalas, mandaram garden, disadvantage, and disadvantage have been identified.
-
-When she talked to her as a novel, she to understand her feelings and writing when she was in a note.
-
-The questions I hear in this discussion is currently published by the 'History of Nimna' (2019) and writes from this linkker '(2014) and are the ones who have faced the experiences I faced. It is well known for all writer's writing process.
-
-Where writing, how to write, how to write, and the joy of writing, the writer's abstinence. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-...
-
-[Data](articles/f5015ce6.json)
-
-[Extended Data](ext_articles/f5015ce6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 08:07:29**
+As of **2024-03-15 08:17:46**
 
 ## Newspaper Stats
 
-*Scraped **13,013** Articles*
+*Scraped **13,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 123
 bbccomsinhala | 146
 dbsjeyarajcom | 186
 newsfirstlk | 363
-dailyftlk | 675
+dailyftlk | 681
 economynextcom | 695
 islandlk | 711
 adalk | 1,118
 adaderanalk | 1,565
-tamilmirrorlk | 1,580
+tamilmirrorlk | 1,582
 virakesarilk | 1,806
 dailymirrorlk | 1,992
 adaderanasinhalalk | 2,053
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,013 (100.0%) of 13,013 articles have been extended.
+13,013 (99.9%) of 13,021 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -140,6 +140,34 @@ Some locations are expected in the morning and in the Galle and Uva provinces an
 
 ---
 
+### Questions to those questioning Sri Lanka’s IMF program
+
+*2024-03-15 06:10:12* · [`dailyftlk`](https://www.ft.lk/columns/Questions-to-those-questioning-Sri-Lanka-s-IMF-program/4-759512) · `en`
+
+There has been a lot of criticism about Sri Lanka’s 17th IMF program from people of various backgrounds. They have made all kinds of accusations against the IMF program and criticised it. I agree that the IMF program is not the perfect solution. But the question is, what is the alternative? I am yet to see anyone who has offered a sensible alternative to the IMF.
+
+Sri Lanka’s debt is a staggering 128% of GDP and half of it is external debt which is in foreign currency. Sri Lanka could not have repaid its debt if it had not defaulted. The debt has to be restructured. The bilateral creditors and the international sovereign bondholders may not have agreed to restructure Sri Lanka’s debt without the IMF. People may point out that Argentina restructured parts of its external debt in 2005 and 2010 without an IMF program. But these are exceptions and nearly a decade later in 2018, Argentina was back again on an IMF program.
+
+...
+
+[Data](articles/9b7cd83a.json)
+
+---
+
+### Appointment of a tax ombudsman: The time is apt
+
+*2024-03-15 06:05:47* · [`dailyftlk`](https://www.ft.lk/columns/Appointment-of-a-tax-ombudsman-The-time-is-apt/4-759511) · `en`
+
+Due to the current economic environment, it is understood that tax revenue collection should be enhanced to increase the Tax to GDP ratio. However, the Government should take precaution to ensure this endeavour to enhance tax revenue does not lead to harassment or unfairness to the taxpayer.
+
+There are many knowledgeable tax officers who understand both sides of the fence and act professionally by respecting the Rule of Law and the Taxpayer Rights. However, due to heightened pressure from the Ministry of Finance and Parliamentary Committees one could lose track of respecting the rights of the other party. What is the recourse available to a taxpayer if tax officers transgress the Rule of Law to exercise their power without respecting the legal rights of the taxpayer?
+
+...
+
+[Data](articles/0ddd96dc.json)
+
+---
+
 ### Parliament to become elders’ home if current trend persists: Anunayake Thera
 
 *2024-03-15 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-to-become-elders-home-if-current-trend-persists-Anunayake-Thera/108-278890) · `en`
@@ -153,6 +181,22 @@ The Anunayake Thera emphasized this, when former Minister of Sports, MP Roshan R
 [Data](articles/96993694.json)
 
 [Extended Data](ext_articles/96993694.ext.json)
+
+---
+
+### Adani Mannar wind project - addressing concerns expressed
+
+*2024-03-15 06:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Adani-Mannar-wind-project-addressing-concerns-expressed/4-759510) · `en`
+
+This narrative is a follow up to the article by the writer titled, ‘Adani wind project in Mannar and ecological threats’ published in the DFT on 06 March 2024 (https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216)
+
+The intent is to address specific items covered by the 27 February WNPS hosted Media Conference panelists. Presented below are views - expressed in simple terms - of a person familiar with the wind industry:
+
+1.    Why wind project in Mannar - why not alternative sites with lower ecological impact
+
+...
+
+[Data](articles/334b9d41.json)
 
 ---
 
@@ -171,6 +215,48 @@ The CCC stated that while it understands that certain businesses, essentially in
 [Data](articles/b803e51e.json)
 
 [Extended Data](ext_articles/b803e51e.ext.json)
+
+---
+
+### What does it mean to revive planning?
+
+*2024-03-15 05:55:56* · [`dailyftlk`](https://www.ft.lk/columns/What-does-it-mean-to-revive-planning/4-759509) · `en`
+
+We cannot generate a more critical concept of planning until we take seriously the conflict of interests and ideologies that will inevitably shape any possible recovery for Sri Lanka today
+
+It is fitting that the epigraph to Godfrey Gunatilleke’s now classic piece, “The Lessons of National Planning,” in the edited collection ‘Economic Policy in Sri Lanka’, opens with the following line attributed to former US President Harry Truman: “There is nothing new in the world except the history you do not know.” Pointing to the unknown unsettles categorical assertions that planning has failed. Of course, for a small country like Sri Lanka struggling to achieve key developmental goals, the legacy of planning remains contested.
+
+...
+
+[Data](articles/54fd51f7.json)
+
+---
+
+### Revitalising Sri Lanka through Social Solidarity Economy
+
+*2024-03-15 05:49:11* · [`dailyftlk`](https://www.ft.lk/columns/Revitalising-Sri-Lanka-through-Social-Solidarity-Economy/4-759508) · `en`
+
+By embracing the principles of the SSE, the nation can chart a course towards a more just, inclusive, and sustainable future
+
+As Sri Lanka grapples with a severe economic crisis, the need for a transformative economic model has never been more apparent. Decades of neoliberal policies since 1977 have left the nation facing rising inequality and vulnerability to global economic shifts. Previous experiments with socialist policies encountered challenges, stifling innovation and individual entrepreneurship. It’s time for a paradigm shift, and the Social Solidarity Economy (SSE) emerges as a beacon of hope for a more inclusive, equitable, and sustainable future.
+
+...
+
+[Data](articles/d72477f2.json)
+
+---
+
+### Wages of sin latest addition to never ending fiascos at CBSL
+
+*2024-03-15 05:45:02* · [`dailyftlk`](https://www.ft.lk/columns/Wages-of-sin-latest-addition-to-never-ending-fiascos-at-CBSL/4-759507) · `en`
+
+It is difficult to find another instance in the history of central banking where the head of that bank with conscienceless audacity abused the constitutional independence of that institution to raise unilaterally the wages of his staff to such a height, between 36 and 79%, and made them an un-imitable elite of officers to be envied by the rest of the community of public servants. This is one of many and multiplying horror stories one hears almost daily from paradise Sri Lanka.
+
+At a time when millions of hard-working heads of ordinary families and parents are found skipping meals or eating smaller portions to feed their children, when 30% of five-year-old children are found malnourished, and when the danger of starvation is knocking at the doors of the poorest, the unconscionable act of munificence by the big chief Dr. Nandalal Weerasinghe (NW) fits into the proverbial robbery of Peter to pay Paul. The Central Bank’s notoriety continues unabated.
+
+...
+
+[Data](articles/b945da1d.json)
 
 ---
 
@@ -421,6 +507,38 @@ The ‘tax expenditure’ is based on a 24 percent rate for the first nine month
 [Data](articles/83d44138.json)
 
 [Extended Data](ext_articles/83d44138.ext.json)
+
+---
+
+### ’மக்கள் போராட்டத்தின் எதிரொலி’ நூல் ஜனாதிபதியிடம் கையளிப்பு
+
+*2024-03-15 03:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-போராட்டத்தின்-எதிரொலி-நூல்-ஜனாதிபதியிடம்-கையளிப்பு/175-334694) · `ta`
+
+நாரஹேன்பிட்டி அபயாராமாதிபதி, மேல் மாகாண பிரதம சங்கநாயக்க தேரரும் கொழும்பு பல்கலைக்கழகத்தின் வேந்தருமான வண. கலாநிதி முருத்தெட்டுவே ஆனந்த தேரரால் எழுதப்பட்ட 'மக்கள் போராட்டத்தின் எதிரொலிகள்' (ஜனஅரகலயே தோங்காரய) எனும் நூல் நேற்றுப் பிற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது.
+
+இதற்கு முன்னர் முருத்தெட்டுவே ஆனந்த தேரர், ‘இடைவிடாத போராட்டத்தின் உண்மைக் கதை’, ‘சிங்கள மருத்துவத்தின் மறைவு’, ‘நைடிங்கேள் குணாதிசயம்’, ‘ஜெனிவா நெருக்கடியின் எதிரொலிகள்’, ‘ரன் ஹிய’ மற்றும் ‘இருளுக்கு வெளியே’ ஆகிய நூல்களையும் வெளியிட்டுள்ளார்.
+
+கெடமான்னே குணானந்த தேரர், பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன, ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோரும் இந்நூல் கையளிக்கும் நிகழ்வில் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/63a82d7d.json)
+
+---
+
+### நிர்மாணத்துறை பிரச்சினைகளைத் தீர்க்க நிபுணர் குழு
+
+*2024-03-15 03:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணத்துறை-பிரச்சினைகளைத்-தீர்க்க-நிபுணர்-குழு/175-334693) · `ta`
+
+நிர்மாணத் துறையில் ஏற்பட்டுள்ள பிரச்சினைகளை உரிய முறையில் ஆராய்ந்து தற்போதைய பொருளாதார நிலைமையில் அப்பிரச்சினைகளுக்கு வழங்கக்கூடிய தீர்வுகளைக் கண்டறிந்து அறிக்கை சமர்ப்பிக்க நிபுணர் குழுவொன்று நியமிக்க இருப்பதாக ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நிர்மாணத்துறையில் உள்ள கைத்தொழில்துறையினருடன் ஜனாதிபதி அலுவலகத்தில் நேற்று முன்தினம் நடைபெற்ற கலந்துரையாடலில் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+நிதி அமைச்சு, நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சு என்பவற்றின் செயலாளர்களை உள்ளடக்கி, துறைசார் நிபுணர்களைக் கொண்ட இந்த நிபுணர் குழுவை நியமிக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி குறிப்பிட்டார். (a)
+
+◼️
+
+[Data](articles/360e1fb1.json)
 
 ---
 
@@ -1983,201 +2101,5 @@ Moreover, despite a police officer’s assertion that the raid was prompted by a
 [Data](articles/aadd68c2.json)
 
 [Extended Data](ext_articles/aadd68c2.ext.json)
-
----
-
-### The Court of Appeal was released from the Court of Appeal
-
-*2024-03-14 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194510) · `si`
-
-The Court of Appeal acquitted Sivarajah, previously sentenced to death for a 2014 dispute in Ruwanwella, after a petition by Mrs. Menakea Wijesundara and Ms. Meanuka Wijesundara. The High Court's decision was criticized for not analyzing the testimony.
-
-🟩
-
-The Court of Appeal ordered a defendant called Sivarajah or Sivaraja, who was sentenced to death.
-
-The suspect had been sentenced to death for a personal dispute in Ruwanwella in 2014.
-
-Judge Numarachchi has been given the verdict on the agreement of Mrs. Menakea Wijesundara, the Court of Appeal Judge Ms. Meanuka Wijesundara after hearing a petition filed by the defendant.
-
-The Attorney General was indicted by the Attorney General against two defendants in the Kegalle High Court regarding a private dispute in Ruwanwella, 2014.
-
-After an extended trial, the decision of the Ranla Alagapillean Illagearajah, the complaint, was sentenced to death by the complaint.
-
-The High Court Judge ordered the across the across the name of Milwagan Manojan, designated as another actor.
-
-The accused called the Court of Appeal to issue an order to acquit himself a decree in the death penalty prescribed by him.
-
-...
-
-[Data](articles/bd75b209.json)
-
-[Extended Data](ext_articles/bd75b209.ext.json)
-
----
-
-### Lanka Pay to recognize Sri Lanka’s financial innovators
-
-*2024-03-14 16:51:00* · [`economynextcom`](https://economynext.com/lanka-pay-to-recognize-sri-lankas-financial-innovators-154657/) · `en`
-
-ECONOMYNEXT – LankaPay, which runs Sri Lanka’s payment infrastructure, said it will announce the winners of its financial innovation awards next week.
-
-Lanka Pay Chief Executive Channa de Silva said awards will prioritize customer convenience.
-
-Lanka Pay’s Technovation awards will recognize banking and non-banking firms that had come up with innovative solutions.
-
-There will be awards will include ones for the most innovative bank, best bank for retail payments and best mobile application for retail payments.
-
-Central Banks Governing Board Member Manil Jayasinghe and Founder of Kapruka, Dulith Herath are among the judges. (Colombo/Mar14/2024)
-
-◼️
-
-[Data](articles/b57d6fd3.json)
-
-[Extended Data](ext_articles/b57d6fd3.ext.json)
-
----
-
-### Govt and IRCON discuss progress of railway track enhancement in Anuradhapura
-
-*2024-03-14 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97954/govt-and-ircon-discuss-progress-of-railway-track-enhancement-in-anuradhapura-) · `en`
-
-Discussions pertaining to the progress of the upgrading of the railway track between Maho and Anuradhapura were held at the Anuradhapura District Secretariat on Thursday (14 March).
-
-Accordingly, a discussion on the progress of the construction work thus far was held between State Minister of Finance Shehan Semasinghe, representatives of India’s Ircon International (IRCON) and government authorities.
-
-Taking to ‘X’ (formerly Twitter), the State Minister disclosed that the discussion focused on identifying and resolving issues hindering the construction work. As such, the parties deliberated on taking appropriate actions to ensure the timely completion of the project and its successful implementation, he said.
-
-◼️
-
-[Data](articles/f125d899.json)
-
-[Extended Data](ext_articles/f125d899.ext.json)
-
----
-
-### Wetland Mountain Affairs: Human Rights Commission is also supporting illegal arrests?- Gajendran MP
-
-*2024-03-14 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178736) · `ta`
-
-MP Selvarajah Gajendran questions the Human Rights Commission's support for illegal arrests, citing poor conditions and lack of medical attention for prisoners, including a fasting priest. He criticizes the Commission for not visiting the prisoners and suggests diplomatic pressure is needed.
-
-🟩
-
-The question arises as to whether the Human Rights Commission is also supporting illegal arrests and allegations, said Selvarajah Gajendran, Member of Parliament of the Tamil National People's Front.
-
-He said this while speaking to the media after visiting prisoners, including the priest of the Vedukkunni Mountain Temple, who was fasting at the Vavuniya Prison on Thursday (14).. As he further stated,
-
-I went to the prison and visited 8 people. 5 of them are fasting for the 3rd day. Their demand is that false cases be withdrawn and their release. Their physical condition worsens. Some people have diseases such as asma, diabetes and blood pressure. They are not under appropriate medical examination. Human Rights Commission officials have not yet visited them. The Human Rights Commission has not yet visited the Human Rights Commission. The question arises as to whether the Human Rights Commission is also supporting illegal arrests and charges.
-
-...
-
-[Data](articles/3c2aaaec.json)
-
-[Extended Data](ext_articles/3c2aaaec.ext.json)
-
----
-
-### Minister Jeevan Thondaman handed over houses at Olairud estate!
-
-*2024-03-14 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178735) · `ta`
-
-Minister Jeevan Thondaman provided 24 families with permanent houses, amenities, and infrastructure at Olairud estate, a significant improvement from previous temporary huts.
-
-🟩
-
-Jeevan Thondamal, the Minister of Ceylon Workers Congress, and General Secretary of the Ceylon Workers Congress, were provided with all the amenities, including drinking water, electricity and infrastructure.
-
-In addition, they were given an exclusive 'address' and a letter box to be placed in front of the houses.
-
-A program to set up separate houses for 24 families who lived in temporary huts and lived in temporary huts was implemented through the Ministry of Water Supply and Garden Infrastructure.
-
-Infrastructure facilities have not been provided for housing projects in the past. However, the Minister directed the departmental officials to provide all infrastructure, including drinking water, electricity and street, and that the entrepreneurs should be handed over to the people.
-
-...
-
-[Data](articles/24565bd8.json)
-
-[Extended Data](ext_articles/24565bd8.ext.json)
-
----
-
-### Sri Lanka stocks close up driven by interest in construction, consumer sectors
-
-*2024-03-14 16:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-interest-in-construction-consumer-sectors-154649/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 10.27 percent, or 31.02 points, at 11,317; while the S&P SL20 Index closed up 0.39 percent, or 12.41 points, at 3,230.
-
-Vallibel One Plc saw the most active trade volumes (157mn) and the share closed up at 50.00. This was mostly boosted by trades in underlying group companies including Royal Ceramics Lanka Plc (up at 31.90), and Sampath Bank Plc (up at 77.90).
-
-“There is retail investor interest in the construction sector, which is picking up,” market participants said.
-
-The capital goods sector contributed 549mn million to the day’s turnover. Other sectors that attracted interest were food, beverage and tobacco (334), and banks (277mn).
-
-The consumer durables and apparel sector also saw some interest (134mn) as local apparel firms saw new orders come in, after competitor marker Vietnam was filled up with orders, market participants said.
-
-...
-
-[Data](articles/4367c72e.json)
-
-[Extended Data](ext_articles/4367c72e.ext.json)
-
----
-
-### The Male Zebra of the National Zoo is the final
-
-*2024-03-14 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194509) · `si`
-
-The male zebra at the National Zoo died last night, allegedly due to drugs in its transport. Employees protested, and the zebra was part of an exchange program from China. It was moved from the Ridiyagama Safari Park to the Dehiwala Zoo to breed with female zebras. The zoo's director general announced an investigation.
-
-🟩
-
-The only men of the Sri Lanka National Zoo was unfortunately dead last night.
-
-Zoo employees allege that the death of drugs provided in transporting the animal.
-
-Zoo workers engaged in protest in front of Dehiwala Zoo, conducting a formal investigation into the matter,
-
-The male zebra had received six years ago in China six years ago, under an animal exchange program.
-
-A time ago the animal had been taken to the Ridiyagama Safari Park
-
-The animal was repeated 03 days ago from the Ridiyagama Safari Park, with the objective of breaking into two female zoo creatures in the Dehiwala Zoo.
-
-The medicinal superhractor of the pharmaceutical employees is due to this death.
-
-Addressing a media briefing today, the Director General of the Dehiwala National Zoo said that an accelerated investigation into the incident.
-
-◼️
-
-[Data](articles/8f10ad93.json)
-
-[Extended Data](ext_articles/8f10ad93.ext.json)
-
----
-
-### Young people who traveled on the road in Jaffna
-
-*2024-03-14 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178732) · `ta`
-
-Jaffna Magistrate orders arrest of five youths for assaulting a young man on the road in Kopay. The victim lodged a complaint at the Kopay police station. The police investigated and arrested the youths. The case was remanded until the 26th.
-
-🟩
-
-The Jaffna Magistrate's Magistrate has ordered that all five youths arrested for allegedly assaulting the youth on the road.
-
-The young man who was attacked by a youth group had lodged a complaint at the Kopay police station that a group of youth had attacked him on the road in the Kopay police division.
-
-According to the system, the police, who investigated the investigation, had arrested five youths.
-
-The Additional Magistrate's Court was asked to be remanded until the 26th of this month.
-
-◼️
-
-[Data](articles/84761329.json)
-
-[Extended Data](ext_articles/84761329.ext.json)
 
 ---

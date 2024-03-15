@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 13:52:07**
+As of **2024-03-15 14:03:36**
 
 ## Newspaper Stats
 
-*Scraped **13,071** Articles*
+*Scraped **13,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 699
 islandlk | 711
-adalk | 1,122
+adalk | 1,123
 adaderanalk | 1,571
 tamilmirrorlk | 1,592
 virakesarilk | 1,815
 dailymirrorlk | 1,998
-adaderanasinhalalk | 2,062
+adaderanasinhalalk | 2,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,070 (100.0%) of 13,071 articles have been extended.
+13,071 (100.0%) of 13,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### කෙහෙළිය ගෙන් මහාධිකරණයට ඇප අයදුම්පතක්
+
+*2024-03-15 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194540) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් වංචාව සම්බන්ධයෙන් විමර්ශනවලට අදාළව රක්ෂිත බන්ධනාගාරගතව සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා මහධිකරණයට ඇප අයදුම්පතක් ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/3cd9ea35.json)
+
+---
+
+### 2023දී රැඳවියෝ රු. මි. 116ක් උපයති
+
+*2024-03-15 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-රැඳවියෝ-රු--මි--116ක්-උපයති/11-408627) · `si`
+
+2022 සහ 2023 යන වර්ෂවල දී සංශෝධිත නව පනත් 107ක් පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට හැකිවූ බව අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතා පැවසීය.
+
+2023 වර්ෂයේදී රැදවියන්ගේ ශ්‍රම දායකත්වයෙන් කෘෂිකර්ම සහ කර්මාන්ත අංශය මඟින් රුපියල් මිලියන 116ක් උපයා ගැනීමට හැකියාව ලැබී තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය අනුරාධ ජයරත්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්  ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+2022 වසරේ දී නව පනත් 29 ක් සහ 2023 වර්ෂයේ දී නව පනත් 78ක් පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට හැකියාව ලැබී තිබෙනවා. ඒ අනුව නව පනත් සහ සංශෝධිත පනත් සමස්ත සංඛ්‍යාව 107ක් වනවා. මෙය අධිකරණ අමාත්‍යාංශයේ ඉතිහාසයේ සංශෝධනය කර ගැනීමට හැකිවූ වැඩිම පනත් සංඛ්‍යාව ලෙස හැඳින්විය හැකියි.
+
+...
+
+[Data](articles/be1e317d.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-03-15 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194539) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන එක්දින ක්‍රිකට් තරගය අද (15) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව බංග්ලාදේශයට ලබාදීමටය.
+
+◼️
+
+[Data](articles/15385c76.json)
+
+---
+
+### 19 වනදා සිට යළිත් සෞඛ්‍ය වර්ජනයක් ?
+
+*2024-03-15 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194538) · `si`
+
+එළඹෙන 19 වනදා සිට නැවත වෘත්තීය ක්‍රියාමර්ග ආරම්භ කරන බව සෞඛ්‍ය වෘත්තිය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් මහතා පවසයි.
+
+සෞඛ්‍ය සේවකයින්ගේ ගැටලු විසඳීම සඳහා මුදල් අමාත්‍යාංශය කඩිනමින් මැදිහත් නොවන්නේ නම් මෙම තීරණය ගන්නා බව ඔහු වැඩිදුරටත් පැවසීය.
+
+අද (15) කොළඹදී මාධ්‍ය වෙත ප්‍රකාශයක් ලබාදෙමින් ඔහු වැඩිදුරටත් සඳහන් කළේ බලධාරීන්ගෙන් සිය ගැටලුවලට බලාපොරොත්තු වුණු ප්‍රතිචාරය නොලැබුණු බවය.
+
+◼️
+
+[Data](articles/70edc122.json)
+
+---
 
 ### The value of the US dollar in banks is down to 300 rupees
 
@@ -214,17 +274,23 @@ Following the new development, the navy says it has intercepted a total of 16 In
 
 ---
 
-### ප්‍රදේශ කිහිපයක උෂ්ණත්වය තවදුරටත් ඉහලට
+### Temperatures of several areas
 
 *2024-03-15 11:30:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රදේශ-කිහිපයක-උෂ්ණත්වය-තවදුරටත්-ඉහලට/11-408625) · `si`
 
-අද (15) දිනයේත් දිස්ත්‍ත්‍රික්ක කිහිපයකම උෂ්ණත්වය අවධානයට යොමුකල යුතු මට්ටමක් දක්වා ඉහළ යනු ඇති බව කාළගුණ විද්‍යා ‌දෙපාර්ථමේන්තුව දන්වා සිටිනවා.
+The Department of Meteorology has increased the focus on temperatures in North Central, North-Western, Eastern, East, Vavuniya, Mullaitivu, and Mannar districts today.
 
-උතුරුමැද , වයඹ , නැගෙනහිර පාලාත් හා කොළඹ, ගම්පහ, මුලතිවු , වවුනියාව,මොනරාගල සහ මන්නාරම යන දිස්ත්‍රික්කවල ඇතැම් ස්ථාන වල උෂ්ණත්වය අවධානයට යොමුකල යුතු මට්ටමේ පවතින බව අවධාරනය කර සිටියි.
+🟩
+
+The Department of Meteorology has informed that several districts will increase to a level of focus on a few districts today (15).
+
+In North Central, North-Western, Eastern, East, Vavuniya, Mullaitivu, Vavuniya, Mullaitivu, and Mannar districts are understood.
 
 ◼️
 
 [Data](articles/2dcdd880.json)
+
+[Extended Data](ext_articles/2dcdd880.ext.json)
 
 ---
 
@@ -2075,93 +2141,5 @@ During the protests carried out by civil society representatives last Monday, th
 [Data](articles/3992518e.json)
 
 [Extended Data](ext_articles/3992518e.ext.json)
-
----
-
-### Powerful earthquake in Japan;Tsunami Warning!
-
-*2024-03-14 22:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/178757) · `ta`
-
-A 6.0 magnitude earthquake struck Japan, followed by a 3.9 magnitude quake in Andhra Pradesh, Tirupati. Both occurred at 8.43 pm.
-
-🟩
-
-Powerful earthquake in Japan. It has been recorded at 6 in the Richter scale, the weather and geological research center said.
-
-This was followed by a low -level earthquake in Andhra Pradesh Tirupati. It was recorded at 3.9 in the Richter.
-
-The earthquake occurred at a depth of 10 kilometers at a distance of 58 kilometers from Tirupati. The earthquake is felt at 8.43 pm.
-
-◼️
-
-[Data](articles/c2bfb49c.json)
-
-[Extended Data](ext_articles/c2bfb49c.ext.json)
-
----
-
-### Police open fire on tipper truck for failing to stop at checkpoint
-
-*2024-03-14 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97965/police-open-fire-on-tipper-truck-for-failing-to-stop-at-checkpoint-) · `en`
-
-The Mullaitivu Police arrested the driver of a tipper truck on Thursday evening (14 March), after he failed to comply with a signal to stop at a police checkpoint in the Oddusuddan area.
-
-Oddusuddan Police reported that both police officers and personnel from the Special Task Force (STF) had halted the tipper truck by shooting at its wheels, alleging that the suspect driver had also endangered the safety of police personnel during the incident.
-
-Accordingly, the suspect is due to be produced before the Mullaitivu Magistrate’s Court.
-
-◼️
-
-[Data](articles/7af6ee55.json)
-
-[Extended Data](ext_articles/7af6ee55.ext.json)
-
----
-
-### A powerful earthquake in Japan
-
-*2024-03-14 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194523) · `si`
-
-A powerful earthquake occurred 50 km off the coast of Fukushima, Japan, but no tsunami warning was issued.
-
-🟩
-
-A round of earthquake on Fukushima in Fukushima, Japan's rock has taken place.
-
-According to the Japanese Meteorological Agency, the earthquake has occurred with 50 miles [50 km] beyond the coast of Fukushima.
-
-The agency has not issued a tsunami warning.
-
-◼️
-
-[Data](articles/e8006a71.json)
-
-[Extended Data](ext_articles/e8006a71.ext.json)
-
----
-
-### Special surroundings carried out in Oddusuttan: Explosive Tipper
-
-*2024-03-14 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178756) · `ta`
-
-In Oddusuttan, a police and STF inspection led to a tipper vehicle being shot dead on Mankulam road, sparking concern. Despite the incident, no suspicious items were found.
-
-🟩
-
-Police and Special Task Force (STF) were engaged in a special inspection process in the Mullaitivu Oddusutan area.
-
-A special traffic inspection operation was carried out on Thursday evening (14) as part of the Yukthiwa area, which is being carried out by the police across the country to curb the activities of drugs and underworld groups in the country.
-
-During this time, it was traveled by a tipper vehicle that was traveling towards Otisuttan through the Mankulam road.. The tipper vehicle traveling towards Pudukkudiyiruppu was shot dead by a firearm
-
-The incident has caused a stir in the area.
-
-However, the police and the Special Task Force (STF) were involved in the inspection and no suspicious items were recovered.
-
-◼️
-
-[Data](articles/1e3adf11.json)
-
-[Extended Data](ext_articles/1e3adf11.ext.json)
 
 ---

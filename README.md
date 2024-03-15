@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 22:17:51**
+As of **2024-03-15 22:33:21**
 
 ## Newspaper Stats
 
-*Scraped **13,143** Articles*
+*Scraped **13,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,53 @@ adaderanalk | 1,584
 tamilmirrorlk | 1,599
 virakesarilk | 1,828
 dailymirrorlk | 2,010
-adaderanasinhalalk | 2,078
+adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,141 (100.0%) of 13,143 articles have been extended.
+13,143 (100.0%) of 13,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### பங்களாதேஷுடனான இரண்டாவது போட்டியில் இலங்கைக்கு சிறப்பான வெற்றி
+### Online දුම්රිය ආසන වෙන්කිරීමේ අවුලක්
+
+*2024-03-15 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194555) · `si`
+
+දුර ගමන් සේවා දුම්රියවල ආසන වෙන්කිරීම සඳහා අලුතෙන් හඳුන්වා මාර්ගගත ක්‍රමවේදය ගැටලු සහගත බව දුම්රිය මගීන් චෝදනා කරති.
+
+කොටුව දුම්රිය ස්ථානයට පැමිණ සිටි මගීන් රැසක් අද මේ හේතුවෙන් අපහසුතාවට පත්ව සිටියේය.
+
+ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව සාමාන්‍ය මගීන් සහ රාජ්‍ය සේවකයින් සඳහා ප්‍රවේශ පත්‍ර වෙන්කරවා ගැනීමේ ක්‍රියාවලිය ඩිජිටල්කරණය කිරීමට පියවරක් ලෙස පසුගියදා පළමුවරට මාර්ගගත ප්‍රවේශපත්‍ර ලබාගැනීමේ සහ මාර්ගගතව දුම්රිය ආසන වෙන්කිරීමේ ක්‍රමයක් හඳුන්වා දුන්නේය.
+
+ඒ අනුව එලෙස ඔන්ලයින් ආසන වෙන්කරගත් මගීන්ට ටිකට්පත් වෙන්වී තිබුණද දුම්රිය ස්ථානයට පැමිණ ආසන වෙන්කරවා ගැනීමට පැමිණි පසු ඇතැම් මගීන්ට දැන්ගන්නට ලැබී ඇත්තේ තමන්ට ආසනයක් වෙන්ව නොමැති බවය.
+
+◼️
+
+[Data](articles/b20537c9.json)
+
+---
+
+### Sri Lanka's best win in the second match with Bangladesh
 
 *2024-03-15 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/178828) · `ta`
 
-சுற்றுலா இலங்கை அணிக்கும் பங்களாதேஷ் அணிக்கும் இடையிலான இரண்டாவது ஒரு நாள் கிரிக்கெட் போட்டியில் இலங்கை அணி  வெற்றியை பதிவு செய்துள்ளது.
+Sri Lanka wins the 2nd ODI against Bangladesh, balancing the series 1-1.
 
-இதன் வெற்றியின் மூலம் 3  ஒரு நாள் கிரிக்கெட் போட்டிகள் கொண்ட இந்த தொடரை 1-1 என்ற ரீதியில் சமப்படுத்தியுள்ளது.
+🟩
+
+The Sri Lankan team has recorded a win in the second one -day cricket match between Sri Lanka and Bangladesh.
+
+With its success, the series, which has 3 ODIs, has balanced the series 1-1.
 
 ◼️
 
 [Data](articles/f834cd45.json)
+
+[Extended Data](ext_articles/f834cd45.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ Issuing a statement on the matter, the High Commission said, “This comprehensi
 ...
 
 [Data](articles/a77a8ff3.json)
+
+[Extended Data](ext_articles/a77a8ff3.ext.json)
 
 ---
 
@@ -2293,27 +2319,5 @@ Subsequently, the Navy has taken steps to hand over the Indian fishermen to the 
 [Data](articles/a2780311.json)
 
 [Extended Data](ext_articles/a2780311.ext.json)
-
----
-
-### Sri Lanka rupee opens at 305.23/28 to the US dollar
-
-*2024-03-15 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-305-23-28-to-the-us-dollar-154717/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 305.23/28 to the US dollar in the spot forex market on Friday, slightly stronger from 305.50/55 on Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted stable at 11.30/35 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.90/12.00 percent down from 11.90/12.05 percent.
-
-A bond maturing on 15.12.2028 was quoted stable at percent from 12.10/15 percent.
-
-The Colombo Stock Market opened up; the All Share Price Index was up 0.08 percent at 11,327, and the S&P SL20 was up 0.32 percent at 3,240. (Colombo/Mar15/2024)
-
-◼️
-
-[Data](articles/43a0b3f0.json)
-
-[Extended Data](ext_articles/43a0b3f0.ext.json)
 
 ---

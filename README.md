@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 10:51:14**
+As of **2024-03-15 11:03:09**
 
 ## Newspaper Stats
 
-*Scraped **13,048** Articles*
+*Scraped **13,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 681
 economynextcom | 697
 islandlk | 711
 adalk | 1,120
-adaderanalk | 1,568
-tamilmirrorlk | 1,585
+adaderanalk | 1,569
+tamilmirrorlk | 1,591
 virakesarilk | 1,812
 dailymirrorlk | 1,996
 adaderanasinhalalk | 2,059
@@ -26,39 +26,169 @@ adaderanasinhalalk | 2,059
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,046 (100.0%) of 13,048 articles have been extended.
+13,048 (99.9%) of 13,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### சமிக்ஞை கோளாறு : பிராதன மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+### Ottawa mass killing: Lawyer says accused Sri Lankan student is in protective custody
+
+*2024-03-15 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97973/ottawa-mass-killing-lawyer-says-accused-sri-lankan-student-is-in-protective-custody-) · `en`
+
+Febrio De-Zoysa, the teenager accused in the brutal killing of six Sri Lankans in Ottawa, is now held in protective custody, his lawyer Ewan Lyttle has said.
+
+“I can comment that he’s in protective custody. He’s doing OK,” Lyttle was quoted as saying by Canadian media reports. Inmates are often held in protective custody to shield them from other prisoners.
+
+Lyttle’s comments came after De-Zoysa made a brief court appearance that took place by phone on Thursday (March 14).
+
+De-Zoysa’s matter was adjourned until March 28, to give Lyttle time to receive and begin reviewing disclosure from the Crown, a process he suggested would span months.
+
+According to Ottawa Police, De-Zoysa had come to Canada as an international student and had been living with the victims, who were also newcomers from Sri Lanka.
+
+...
+
+[Data](articles/46bca398.json)
+
+---
+
+### பெரிய வெங்காய விலை தொடர்பில் இணக்கப்பாடு
+
+*2024-03-15 10:52:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காய-விலை-தொடர்பில்-இணக்கப்பாடு/175-334705) · `ta`
+
+பெரிய வெங்காய இறக்குமதியாளர்கள் தங்களுடைய கையிருப்புகளை 450 முதல் 500ரூபாய்க்கு இடையில் வழங்குவதற்கு இணக்கம் தெரிவித்தனர்.
+
+புத்தாண்டு காலத்தில் மக்களுக்கு அத்தியாவசிய பொருட்களை வழங்குவது தொடர்பில், அத்தியாவசிய பொருட்கள் இறக்குமதியாளர்களுக்கும் வர்த்த அமைச்சருக்கும் இடையில் நேற்று அமைச்சில் கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+
+இந்த சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த அமைச்சர் நளின் பெர்னாண்டோ, கலந்துரையாடல் வெற்றியடைந்துள்ளதாக கூறினார்.
+
+◼️
+
+[Data](articles/8e0d7ffe.json)
+
+---
+
+### இலங்கையர்களை நாட்டுக்கு அழைத்து வர தாய்லாந்து ஆதரவு
+
+*2024-03-15 10:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-நாட்டுக்கு-அழைத்து-வர-தாய்லாந்து-ஆதரவு/175-334704) · `ta`
+
+மியான்மரில் சைபர் கிரைம் பகுதியில் இருந்து மீட்கப்பட்ட இலங்கையர்கள் உடனடியாக நாடு திரும்புவது தொடர்பாக தாய்லாந்தின் வெளிவிவகார அமைச்சருக்கும், ஜனாதிபதி சட்டத்தரணி அலி சப்ரிக்கும் இடையில் தொலைபேசி ஊடாக கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+
+மியன்மாரின் சைபர் கிரைம் வலயத்தில் 56 இலங்கையர்கள் இருப்பதாகவும் அவர்களில் 8 பேர் மீட்கப்பட்டுள்ளதாகவும் மியன்மார் அரசாங்கம் அண்மையில் உத்தியோகபூர்வமாக அறிவித்துள்ளது.
+
+இதன்படி குறித்த நபர்களை இலங்கைக்கு அழைத்து வருவதற்கு தேவையான ஆதரவை வழங்குமாறு தாய்லாந்து வெளிவிவகார அமைச்சரிடம் வெளிவிவகார அமைச்சர் ஜனாதிபதி சட்டத்தரணி அலி சப்ரி கோரிக்கை விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அதன்படி, இது தொடர்பான வசதிகளை வழங்க தாய்லாந்து வெளிவிவகார அமைச்சர் இணக்கம் தெரிவித்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/ffff4b8a.json)
+
+---
+
+### ரயில் சேவைகள் தாமதம்
+
+*2024-03-15 10:43:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-தாமதம்/175-334703) · `ta`
+
+களனி மற்றும் ஹுனுப்பிட்டிய ரயில் நிலையங்களுக்கு இடையில் இன்று காலை சமிக்ஞை கோளாறு ஏற்பட்டுள்ளது.
+
+இதன் காரணமாக பிரதான பாதையின் ரயில் சேவைகள் தாமதமாகியுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/811ec353.json)
+
+---
+
+### இலங்கையர்களை அழைத்துவர நடவடிக்கை
+
+*2024-03-15 10:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களை-அழைத்துவர-நடவடிக்கை/175-334702) · `ta`
+
+இந்த விடயம் தொடர்பில் தாய்லாந்தின் வெளிவிவகார அமைச்சருக்கும், அமைச்சர் அலி சப்ரிக்கும் இடையில் கலந்துரையாடல் இடம்பெற்றுள்ளது.
+
+மியன்மாரின் சைபர் கிரைம் வலயத்தில் 56 இலங்கையர்கள் இருப்பதாகவும் அவர்களில் 8 பேர் மீட்கப்பட்டுள்ளதாகவும் மியன்மார் அரசாங்கம் அண்மையில் கூறியது.
+
+இந்த நிலையில், அவர்களை இலங்கைக்கு அழைத்து வருவதற்கு தேவையான ஆதரவை வழங்குமாறு தாய்லாந்திடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இது தொடர்பில் நடவடிக்கை எடுக்க தாய்லாந்து வெளிவிவகார அமைச்சர் இணக்கம் தெரிவித்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/8434ed9d.json)
+
+---
+
+### முல்லைத்தீவில் துப்பாக்கிச்சூடு
+
+*2024-03-15 10:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-துப்பாக்கிச்சூடு/72-334701) · `ta`
+
+முல்லைத்தீவு - ஒட்டுசுட்டான் பகுதியில் பொலிஸாரின் உத்தரவை மீறிச் சென்ற டிப்பர் வாகனம் மீது துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ள நிலையில், தொடர்ந்து பொலிஸார் சந்தேகநபரை நேற்று (14) கைது செய்துள்ளனர்.
+
+டிப்பரின் சக்கரங்களில் துப்பாக்கிச் சூடு நடத்தி அதனை தடுத்து நிறுத்தியதாக ஒட்டுசுட்டான் பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் முல்லைத்தீவு நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/2680aff9.json)
+
+---
+
+### Signal Disorder: Train Services Delay in Pratana Religion
 
 *2024-03-15 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178774) · `ta`
 
-களனி மற்றும் ஹுனுப்பிட்டிய ரயில் நிலையங்களுக்கு இடையில் சமிக்ஞையில் கோளாறு ஏற்பட்டதாக ரயில் கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+Signal disorder delays train services on the Prathana route between Kelani and Hunupitiya stations.
 
-இதன் காரணமாக பிராதன மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகியுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+🟩
+
+The rail control room said that there was a sign of signal between Kelani and Hunupitiya railway stations.
+
+Due to this, the railway control room said that the train services have been delayed in the Prathana route.
 
 ◼️
 
 [Data](articles/55ecab80.json)
 
+[Extended Data](ext_articles/55ecab80.ext.json)
+
 ---
 
-### අපිට සලකන විදියට තමයි අපිත් සලකන්නේ - ප්‍රේමලාල් ජයසේකර
+### As we treat us, we consider this too - Premalal Jayasekara
 
 *2024-03-15 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194533) · `si`
 
-මෙම අවස්ථාවේදී ජනාධිපතිවරයා වෙත සහයෝගය ලබාදීමට සිදුවෙන බව පොදුජන පෙරමුණේ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, රාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා පවසයි.
+"Premalal Jayasekara emphasizes the importance of supporting the President, stating that as we treat others, we should treat ourselves. He highlights the President's leadership in building the country and the need for unity, asserting that we must make decisions for the betterment of the nation."
 
-මාධ්‍ය වෙත අදහස් දක්වමින් වරාය හා ගුවන් සේවා ර‍ාජ්‍ය අමාත්‍ය ප්‍රේමලාල් ජයසේකර මහතා සඳහන් කළේ,
+🟩
 
-"ජනාධිපතිවරයා තමයි මේ වෙලාවේ රට ගොඩගන්න කටයුතු කරපු නායකයා. එතුමට සහයෝගය දෙන්න වෙනවා අපිට. වෙන නායකයෝ කියලා අය අපිට නෑ ඉතින්. ඥාතිකමටයි.... හිතවත්කමටයි කියලා තවත් පක්ෂයකින් සලකනවා නම් අපිටත් ඉතින් යම් යම් තීන්දු ගන්න වෙනවා. මොකද අපිට සලකන විදියට තමයි අපිත් සලකන්නේ."
+State Minister Premalal Jayasekara says that the President will have to support the President at this time.
+
+Commenting to the media, Ports and Aviation Premalal Jayasekara stated that
+
+"The President is the leader who has taken steps to build the country at the time. We have to support the race. We don't have other leaders. The relative .... If you consider that the matter is considered, we too have to take some decisions. Because we treat us as we treat. "
 
 ◼️
 
 [Data](articles/fb4a74b9.json)
+
+[Extended Data](ext_articles/fb4a74b9.ext.json)
+
+---
+
+### இலங்கை - பங்களாதேஷ்  மோதும் இரண்டாவது ஒருநாள் போட்டி இன்று!
+
+*2024-03-15 10:25:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இலங்கை-பங்களாதேஷ்-மோதும்-இரண்டாவது-ஒருநாள்-போட்டி-இன்று/44-334700) · `ta`
+
+இலங்கை மற்றும் பங்களாதேஷ் அணிகள் மோதும் 2ஆவது ஒரு நாள் கிரிக்கெட் போட்டி சிட்டகொங்கில்  இன்று (15) பிற்பகல் 2 மணிக்கு தொடங்க உள்ளது.
+
+முதலாவது ஒரு நாள் கிரிக்கெட் போட்டியில் 6 விக்கெட் வித்தியாசத்தில் பங்களாதேஷ் அணி வெற்றிப்பெற்றது.
+
+அதனடபடி, 3 போட்டிகள் கொண்ட ஒரு நாள் தொடரில் 1 - 0 என்ற அடிப்படையில் பங்களாதேஷ் முன்னிலை வகிக்கின்றது.
+
+◼️
+
+[Data](articles/802866fc.json)
 
 ---
 
@@ -618,9 +748,11 @@ Some locations are expected in the morning and in the Galle and Uva provinces an
 
 *2024-03-15 06:10:12* · [`dailyftlk`](https://www.ft.lk/columns/Questions-to-those-questioning-Sri-Lanka-s-IMF-program/4-759512) · `en`
 
-There has been a lot of criticism about Sri Lanka’s 17th IMF program from people of various backgrounds. They have made all kinds of accusations against the IMF program and criticised it. I agree that the IMF program is not the perfect solution. But the question is, what is the alternative? I am yet to see anyone who has offered a sensible alternative to the IMF.
+Becoming an export oriented economy is a good solution but it is a long term solution as we cannot become an export oriented economy overnight either as that takes years to materialise.
 
-Sri Lanka’s debt is a staggering 128% of GDP and half of it is external debt which is in foreign currency. Sri Lanka could not have repaid its debt if it had not defaulted. The debt has to be restructured. The bilateral creditors and the international sovereign bondholders may not have agreed to restructure Sri Lanka’s debt without the IMF. People may point out that Argentina restructured parts of its external debt in 2005 and 2010 without an IMF program. But these are exceptions and nearly a decade later in 2018, Argentina was back again on an IMF program.
+The pause in repayment of external debt (except multilateral debt) for nearly 2 years is largely due to the creditors being reassured that the IMF is there.
+
+There has been a lot of criticism about Sri Lanka’s 17th IMF program from people of various backgrounds. They have made all kinds of accusations against the IMF program and criticised it. I agree that the IMF program is not the perfect solution. But the question is, what is the alternative? I am yet to see anyone who has offered a sensible alternative to the IMF.
 
 ...
 
@@ -666,9 +798,7 @@ The Anunayake Thera emphasized this, when former Minister of Sports, MP Roshan R
 
 *2024-03-15 06:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Adani-Mannar-wind-project-addressing-concerns-expressed/4-759510) · `en`
 
-This narrative is a follow up to the article by the writer titled, ‘Adani wind project in Mannar and ecological threats’ published in the DFT on 06 March 2024 (https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216)
-
-The intent is to address specific items covered by the 27 February WNPS hosted Media Conference panelists. Presented below are views - expressed in simple terms - of a person familiar with the wind industry:
+This narrative is a follow up to the article by the writer titled, ‘Adani wind project in Mannar and ecological threats’ published in the DFT on 06 March 2024 (https://www.ft.lk/columns/Adani-wind-project-in-Mannar-and-ecological-threats/4-759216)The intent is to address specific items covered by the 27 February WNPS hosted Media Conference panelists. Presented below are views - expressed in simple terms - of a person familiar with the wind industry:
 
 1.    Why wind project in Mannar - why not alternative sites with lower ecological impact
 
@@ -1971,169 +2101,5 @@ Banks operating within the special economic zone will be licensed by either the 
 [Data](articles/ff9cd528.json)
 
 [Extended Data](ext_articles/ff9cd528.ext.json)
-
----
-
-### IOC Gender Equality, Diversity and Content Champion
-
-*2024-03-14 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178752) · `ta`
-
-Jyanthi Guru-Uthumbala of Sri Lanka and Katrina Adams of the US were awarded for promoting gender equality and diversity in sports. Jyanthi, a mountaineer and activist, was the first to scale Everest and is a key figure in sports policy.
-
-🟩
-
-The Asian Award of Gender Equality, Plurality and Content Champion has been awarded to Sri Lanka's Jaiti Guru-Uthumbala. Katrina Adams, United States, has been named the World Award.
-
-Both Jyanthi Guru-Uthumbala and Katrina Adams are working tirelessly to combine gender equality and diversity in the sports industry.
-
-The two awards were presented on International Women's Day on International Women's Day.
-
-The first Sri Lankan trekking Jyanthi Guru-Uthumbbala was the top of the mountain of Everest.
-
-Jyanthi, who has been vocal for the rights of girls and women, is the first chairman of the Appeal Committee for the Protection Sports Policy initiated by the National Olympic Committee.
-
-Jyanthi Guru-Uthumbbala has been working as a women's rights activist for over 20 years and is a mountaineer.
-
-...
-
-[Data](articles/92ef7453.json)
-
-[Extended Data](ext_articles/92ef7453.ext.json)
-
----
-
-### Hundreds rescued from love scam centre in the Philippines
-
-*2024-03-14 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/97961/hundreds-rescued-from-love-scam-centre-in-the-philippines) · `en`
-
-Hundreds of people have been rescued from a scam centre in the Philippines that made them pose as lovers online.
-
-Police said they raided the centre on Thursday and rescued 383 Filipinos, 202 Chinese and 73 other foreign nationals.
-
-The centre, which is about 100km north of Manila, was masquerading as an online gambling firm, they said.
-
-South East Asia has become a hub for scam centres where the scammers themselves are often entrapped and forced into criminal activity.
-
-Young and tech-savvy victims are often lured into running these illegal operations, which range from money laundering and crypto fraud to so-called love scams. The latter are also known as “pig butchering” scams, named after the farming practice of fattening pigs before slaughtering them.
-
-...
-
-[Data](articles/d113ea23.json)
-
-[Extended Data](ext_articles/d113ea23.ext.json)
-
----
-
-### Re -explanation for Keheliya Rambukwella!
-
-*2024-03-14 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/178751) · `ta`
-
-Keheliya Rambukwella, former Health Minister, accused of importing substandard injections, rejects bail plea of former secretary and remands case under Public Property Act.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella, who has been accused of importing substandard injections, has rejected the bail plea of the former secretary of the former Ministry and four.
-
-He also said that the judicial case ordered to be remanded until the case was completed under the Public Property Act.
-
-◼️
-
-[Data](articles/f22eb4c8.json)
-
-[Extended Data](ext_articles/f22eb4c8.ext.json)
-
----
-
-### “Salary increase within 30 days” Jeevan
-
-*2024-03-14 19:29:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/30-நாட்களுக்குள்-சம்பள-உயர்வு-கிடைக்கப்பெறும்-ஜீவன்/76-334677) · `ta`
-
-Jeevan Thondaman, CWC General Secretary, announced a Rs. 1000 pay hike for plantation workers within 30 days. He also highlighted efforts to recognize Tamil national identity in the census and criticized political accusations of favoritism in housing schemes.
-
-🟩
-
-Hill plantation workers will get a pay hike within the next 30 days. Jeevan Thondaman, General Secretary of the CWC and Minister of Water Supply and Estate Infrastructure Development, said that a thousand rupees can be obtained for Rs.
-
-The Minister also said that the President has agreed to take up the arrangement to reveal their national identity as the Tamil people during the census.
-
-Jeevan Thondamal, the Minister of Development and General Secretary of the Ceylon Workers Congress, has been provided with all the amenities, including drinking water, electricity and infrastructure, and the general secretary of the Ceylon Workers Congress.
-
-Addressing the gathering as the chief guest at the event, he added.
-
-“We have stressed that it is difficult to get a thousand rupees.. They said we lied on that day. But what's going on today?
-
-Whatever the case, you get a thousand 700 rupees within the next 30 days. But our goal is a permanent solution mechanism.
-
-...
-
-[Data](articles/085d67de.json)
-
-[Extended Data](ext_articles/085d67de.ext.json)
-
----
-
-### The decision of the Minipe farmers
-
-*2024-03-14 19:27:36* · [`adalk`](https://www.ada.lk/breaking_news/මිනිපේ-ගොවීන්ගේ-තීරණය/11-408621) · `si`
-
-Minipe farmers decide to grow big onions in the Great Onion Irrigation during Yala Season 03 and 04, with the Inter-Provincial Department of Agriculture's support. The Divisional Secretariat of Minipen Minipe agrees, and all farmerial union representatives in Wilgamuwa and Hettipola Divisional Secretariats will cultivate big onions in selected paddy fields after this year's harvest.
-
-🟩
-
-The meeting is determined to cultivate big onions within the Great Onion Great Irrigation of the Yala Season 03 and 04, the Great Onion Half of the country.
-
-The Inter-Provincial Department of Agriculture Chandana Tennakoon has responded to the Department of Agriculture to identify the land and the demand to be given to the demand.
-
-The agreement on the cultivation of big onions was at the meeting of the Divisional Secretariat at the Minipen Minipe.
-
-Accordingly, all its farmerial union representatives have agreed to cultivate big onions within the selected paddy fields in the Wilgamuwa and Hettipola Divisional Secretariats following harvesting this year.
-
-◼️
-
-[Data](articles/20f5a7b6.json)
-
-[Extended Data](ext_articles/20f5a7b6.ext.json)
-
----
-
-### 107 new and amended Bills presented to Parliament in 2022/23 - State Minister
-
-*2024-03-14 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97960/107-new-and-amended-bills-presented-to-parliament-in-202223-state-minister-) · `en`
-
-Anuradha Jayaratne, the State Minister of Justice and Prison Affairs, hinted at the potential submission of 107 newly revised bills to Parliament between 2022 and 2023.
-
-Moreover, the Minister pointed out that in 2023, the agriculture and industry sectors together produced earnings worth 116 million rupees, thanks to the labour contributions of inmates.
-
-These statements were made by the State Minister during a press briefing held at the Presidential Media Centre today (14), focusing on the theme “Collective Path to a Stable Country”.
-
-Expressing his views further State Minister of Justice and Prison Affairs Anuradha Jayaratne;
-
-In 2022, Parliament successfully submitted 29 new bills, followed by an impressive 78 new bills in 2023, resulting in a total of 107 bills. This milestone marks the largest number of bills to be amended in the history of the Ministry of Justice, reflecting a significant legislative effort and commitment to addressing various legal matters and reforms.
-
-...
-
-[Data](articles/f7c7c39f.json)
-
-[Extended Data](ext_articles/f7c7c39f.ext.json)
-
----
-
-### United Petroleum Australia to commence operations mid-2024 in Sri Lanka
-
-*2024-03-14 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/97959/united-petroleum-australia-to-commence-operations-mid-2024-in-sri-lanka) · `en`
-
-United Petroleum Australia, who entered into Sri Lanka’s petroleum retail operations last month, plans to obtain their licence to commence operations mid-2024, Power and Energy Minister Kanchana Wijesekera stated.
-
-Taking to ‘X’ (formerly Twitter), the Minister revealed that the Australian-owned petroleum retailer and importer plans to sign an agreement with the Board of Investment (BOI) and obtain the relevant licence later this year.
-
-Chief Financial Officer (CFO) of the United Petroleum Group, Nigel Simonsz, visited the Ministry on Thursday (14 March), and updated those present on their plans anticipated schedule as to when retail operations will commence in Sri Lanka.
-
-On 22 February, United Petroleum of Australia signed an agreement with Sri Lanka’s Ministry of Power and Energy to supply petroleum products into the local market.
-
-...
-
-[Data](articles/c917dcbe.json)
-
-[Extended Data](ext_articles/c917dcbe.ext.json)
 
 ---

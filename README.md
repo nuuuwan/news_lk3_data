@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 15:33:16**
+As of **2024-03-15 15:51:12**
 
 ## Newspaper Stats
 
-*Scraped **13,088** Articles*
+*Scraped **13,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,153 @@ dailyftlk | 681
 economynextcom | 699
 islandlk | 711
 adalk | 1,126
-adaderanalk | 1,574
-tamilmirrorlk | 1,593
-virakesarilk | 1,817
+adaderanalk | 1,575
+tamilmirrorlk | 1,594
+virakesarilk | 1,818
 dailymirrorlk | 2,000
-adaderanasinhalalk | 2,067
+adaderanasinhalalk | 2,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,087 (100.0%) of 13,088 articles have been extended.
+13,088 (100.0%) of 13,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### அவுஸ்திரேலிய பண்ணையில் உலகின் மிகப்பெரிய புளூபெர்ரி பழம்
+
+*2024-03-15 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178792) · `ta`
+
+கடந்த ஆண்டு நவம்பர் மாதம் புளூபெர்ரி பழம்  பறிக்கப்பட்டு  உறைவிப்பான் பெட்டியில் (freezer) வைத்து பேணப்பட்டது.
+
+இது சுமார் 4 சென்றி மீற்றர் அகலமும் 20.4 கிராம் நிறையும் கொண்டதோடு, சாதாரண புளூபெர்ரியை விட 10 மடங்கு பெரிதாகும்.
+
+நுகர்வோரிடம் காணப்பட்ட பெரிய புளூபெர்ரி பழங்களுக்கான கேள்வியை நிவர்த்தி செய்வதற்காக கோஸ்டா குழுமத்தால் இந்த புதிய வகை எடெர்னா புளுபெர்ரி உருவாக்கப்பட்டுள்ளது.
+
+எடெர்னா இனம் தொடர்ந்து நல்ல விளைச்சலை தருகிறது. ஆனால் அண்மையில் வடக்கு நியூ சவுத் வேல்ஸில் உள்ள கொரிண்டியில் உள்ள அவர்களின் பண்ணையில் ஒரு மகத்தான விளைச்சலைத் தந்துள்ளது.
+
+மரங்களில் சில பெரிய புளூபெர்ரி பழங்கள் காய்த்து கிடந்ததை எங்கள் குழுவினர்  அவதானித்து அவற்றை பறித்து எடை போடும் போது அதிர்ச்சி அடைந்தனர்.
+
+அதில், உலகிலேயே மிகப்பெரிய புளூபெர்ரி பழம் என்ற சாதனையை முறியடித்த பழம் பெரியதாக இருந்தது. அன்று காலையில் நாங்கள் 20 அல்லது அதற்கு மேற்பட்ட பழங்களை பறித்தோம் அவைகள் முந்தைய உலக சாதனையை முறியடித்திருந்தது.
+
+...
+
+[Data](articles/2ce88e20.json)
+
+---
+
+### சுகாதார ஊழியர்கள் மீண்டும் வேலை நிறுத்தம்?
+
+*2024-03-15 15:36:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-மீண்டும்-வேலை-நிறுத்தம்/175-334717) · `ta`
+
+மீண்டும் தொழிற்சங்க நடவடிக்கைகளை ஆரம்பிக்க உள்ளதாக சுகாதார நிபுணர்கள் சங்கத்தின் தலைவர் ரவி குமுதேஷ் தெரிவித்துள்ளார்.
+
+கொழும்பில் இன்று (15) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இதனைக் கூறினார்.
+
+சுகாதார ஊழியர்களின் பிரச்சினைகளை தீர்க்க நிதியமைச்சு விரைவில் நடவடிக்கை எடுக்கப்படாவிட்டால் எதிர்வரும் 19 ஆம் திகதி முதல் தொழிற்சங்க நடவடிக்கை முன்னெடுக்கப்படும் என அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/d229bb6e.json)
+
+---
+
+### ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ඇතුළත් වීමට අයදුම්පත් කැඳවයි
+
+*2024-03-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194544) · `si`
+
+2021/2022  අධ්‍යයන වර්ෂයේ උසස් පෙළ විභාග ප්‍රතිඵල මත ජාතික අධ්‍යාපන විද්‍යාපීඨවලට ශික්‍ෂණලාභීන් ඇතුළත් කර ගැනීමට අදාළ අයදුම්පත් කැඳවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය පියවර ගෙන ඇත.
+
+ඒ අනුව මීට අදාළ ගැසට් නිවේදනය ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ අංක 2376 දරන අද (15) ගැසට් පත්‍රයේ පළ කර තිබේ.
+
+මාර්ගගත ක්‍රමය ඔස්සේ මේ සඳහා අයදුම්පත් ඉදිරිපත් කළ යුතු අතර අයදුම්පත් අතරින් සුදුස්සන් තෝරා ගැනීම ද මාර්ගගත ක්‍රමය ඔස්සේ ම මෙවර සිදුකරනු ලබයි.
+
+අද දහවල් 12න් පසුව මාර්ගගත ක්‍රමවේදය ඔස්සේ මේ සඳහා අයදුම් කළ හැකි අතර අයදුම් කිරීමේ කාල සීමාව 2024.04.05 දිනයෙන් අවසන් වේ.
+
+අද දහවල් 12.00ට පෙර ඇතුළත් කර ඇති අයදුම්පත් සලකා නොබැලෙන බැවින් එම අයදුම්කරුවන් නැවත මාර්ගගත ක්‍රමය ඔස්සේ අයදුම් කළ යුතු ය.
+
+◼️
+
+[Data](articles/3ef1b828.json)
+
+---
+
+### පුටින්ගේ බලාපොරොත්තු සඵල වෙයි ද?
+
+*2024-03-15 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194543) · `si`
+
+පස්වැනි වරටත් රුසියානු ජනාධිපතිධුරය ඉල්ලා සිටින ව්ලැදිමීර් පුටින්ට නියත ජයග්‍රහණයක් ලැබෙනු ඇතැයි අපේක්ෂිත 2024 රුසියානු ජනාධිපතිවරණය මේ වන විට ආරම්භ වී තිබේ.
+
+විදේශයන්හි සිටින රුසියානුවන්ට ද එම රටවල රුසියානු තානාපති කාර්යාලය වෙත ගොස් ඡන්දය ප්‍රකාශ කළ හැකිවීම විශේෂත්වයකි.
+
+කලාප 29ක පළමුවරට ඡන්දය පාවිච්චි කරන්නන්ට මාර්ගගත ක්‍රමයට ද ඡන්දය ප්‍රකාශ කිරීමට අවස්ථාව ලබාදී තිබේ.
+
+බොහෝ ප්‍රදේශවල පෙරවරු 8.00 සිට රාත්‍රී 8 දක්වා ඡන්දය ප්‍රකාශ කිරීම සිදුකෙරේ.
+
+2000 වසරේ සිට රුසියාවේ බලය හොබවන 71 හැවිරිදි ජනාධිපති පුටින් 2004, 2012 සහ 2018 වසරවලදී නැවත තේරී පත්විය.
+
+2021 වසරේදී ජනපති පුටින් අත්සන් තැබූ නියෝගයකට අනුව ඔහුට තවත් ජනාධිපතිධුර කාල දෙකකට තරග කළ හැකිය.
+
+ඒ අනුව ජීවත්ව සිටියොත් 2036 වසර වනතුරු ඔහුට රුසියානු ජනාධිපතිධුරය දැරීමේ අවස්ථාවක් පවතී.
+
+මෙවර ජනාධිපතිවරණය ජයගතහොත් ජනපති පුටින් සෝවියට් සමූහාණ්ඩුවේ නායකයෙකු වූ ජෝසප් ස්ටාලින්ට පසු වැඩිම කාලයක් රුසියාව පාලනය කළ නායකයා බවට පත්වේ.
+
+...
+
+[Data](articles/eaec54c9.json)
+
+---
+
+### Demonstration demanding the release of those arrested on the hill
+
+*2024-03-15 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178801) · `ta`
+
+A demonstration in Nedungeni, Vavuniya, demanded the release of eight, including a priest, arrested at Adi Shiva Temple. Protesters marched through Nedungeni, protested at Vavuniya North Divisional Secretariat, and blocked the Nedungeni police station, raising slogans against the police and Forest Department. The protest ended at the bus station, with slogans against police anarchy and calls to stop Buddhism. TNA parliamentarians and civil activists were present.
+
+🟩
+
+A demonstration rally was held today (15) in Nedungeni, Vavuniya, demanding the release of eight persons including the priest who was arrested at the Adi Shiva Temple at the Adi Shiva Temple.
+
+The protest march, which began at Nedungeni town junction, went through the Nedungeni -Puliyankulam road and held a demonstration at the Vavuniya North Divisional Secretariat and handed over to the Assistant Divisional Secretary.
+
+The protesters then stood at the Gate of the Forest Department and raised slogans against the Forest Department and then went from there and blocked the Nedungeni police station.
+
+At this time, the police officers attempted to talk to the demonstrators, but the protesters raised the slogans against the police.. There was tension in the area and the police were on duty at the police station.
+
+People who staged a protest in front of the police station for about half an hour and then went from there and completed the demonstration at the bus station.
+
+...
+
+[Data](articles/63bc4fd9.json)
+
+[Extended Data](ext_articles/63bc4fd9.ext.json)
+
+---
+
+### Israeli strikes killed at least 29, injured over 150 in Gaza awaiting aid: Palestinian officials
+
+*2024-03-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97977/israeli-strikes-killed-at-least-29-injured-over-150-awaiting-aid-in-gaza-palestinian-officials) · `en`
+
+At least 29 Palestinians were killed while awaiting aid in two separate Israeli attacks in the Gaza Strip on Thursday, Gaza’s health ministry said.
+
+In the first incident, Palestinian health officials in the Hamas-ruled strip said eight people were killed in an airstrike on an aid distribution centre in Al-Nuseirat camp in the central Gaza Strip.
+
+Later, at least 21 people were killed and more than 150 wounded by Israeli gunfire at a crowd awaiting aid trucks at a northern Gaza roundabout, Gaza’s health ministry said.
+
+In a statement, Israel’s military denied attacking aid centres, describing the reports as “false.”
+
+“As the IDF assesses the incident with the thoroughness that it deserves, we urge the media to do the same and only rely on credible information,” the statement said.
+
+The Gaza conflict has displaced most of the enclave’s 2.3 million population. Chaotic scenes and deadly incidents have taken place during aid distributions as desperately hungry people scrambled for food.
+
+...
+
+[Data](articles/de29e8f0.json)
+
+---
 
 ### Israeli strikes killed at least 29, injured over 150 in Gaza awaiting aid: Palestinian officials
 
@@ -53,32 +185,6 @@ The Gaza conflict has displaced most of the enclave’s 2.3 million population. 
 [Data](articles/f36aabe9.json)
 
 [Extended Data](ext_articles/f36aabe9.ext.json)
-
----
-
-### Demonstration demanding the release of those arrested on the hill
-
-*2024-03-15 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178801) · `ta`
-
-A demonstration in Nedungeni, Vavuniya, demanded the release of eight, including a priest, arrested at Adi Shiva Temple. Protesters marched through Nedungeni, protested at Vavuniya North Divisional Secretariat, and blocked the Nedungeni police station, raising slogans against the police and Forest Department. The protest ended at the bus station, with slogans against police anarchy and calls to stop Buddhism. TNA parliamentarians and civil activists were present.
-
-🟩
-
-A demonstration rally was held today (15) in Nedungeni, Vavuniya, demanding the release of eight persons including the priest who was arrested at the Adi Shiva Temple at the Adi Shiva Temple.
-
-The protest march, which began at Nedungeni town junction, went through the Nedungeni -Puliyankulam road and held a demonstration at the Vavuniya North Divisional Secretariat and handed over to the Assistant Divisional Secretary.
-
-The protesters then stood at the Gate of the Forest Department and raised slogans against the Forest Department and then went from there and blocked the Nedungeni police station.
-
-At this time, the police officers attempted to talk to the demonstrators, but the protesters raised the slogans against the police.. There was tension in the area and the police were on duty at the police station.
-
-People who staged a protest in front of the police station for about half an hour and then went from there and completed the demonstration at the bus station.
-
-...
-
-[Data](articles/63bc4fd9.json)
-
-[Extended Data](ext_articles/63bc4fd9.ext.json)
 
 ---
 
@@ -219,6 +325,8 @@ It has also been asked whether the accused will be excited at the courtship of h
 ◼️
 
 [Data](articles/7260c419.json)
+
+[Extended Data](ext_articles/7260c419.ext.json)
 
 ---
 
@@ -2093,107 +2201,5 @@ The explanation of the eight persons arrested in the above has been extended til
 [Data](articles/1994fed8.json)
 
 [Extended Data](ext_articles/1994fed8.ext.json)
-
----
-
-### Gaza famine: Food aid before the slaughter
-
-*2024-03-15 02:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gaza-famine-Food-aid-before-the-slaughter/172-278888) · `en`
-
-Displaced Palestinians gather to collect food donated by a charity before an iftar meal, the breaking of the fast, on the first day of the Muslim holy fasting month of Ramadan in Rafah. AFP
-
-Just as the people sentenced to death are fed their best meal before they are executed, the Gaza Strip’s people, in the midst of a deadly famine, are being fed meals sent by the United States before they are slaughtered by Israel. Whatever is sent is not the best. But taste is not an option when survival is at stake.
-
-The United States is completing a pier in the seas off the Gaza coast to send much-denied food aid. Its genocide-committing ally, Israel, also says it is trying to “flood” Gaza with aid, unable to withstand mounting international pressure, including some harsh criticism from its hardcore allies. Among them is the European Union, which stands by Israel and stomachs its war crimes with a high tolerance bar that is not seen in its human rights witch hunt against countries like Sri Lanka.
-
-...
-
-[Data](articles/de3f3997.json)
-
-[Extended Data](ext_articles/de3f3997.ext.json)
-
----
-
-### Ushering in a new era for marketing
-
-*2024-03-15 02:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ushering-in-a-new-era-for-marketing/172-278887) · `en`
-
-In the era of digital marketing, sensational campaigns often find a home on social media platforms
-
-This new marketing strategy can leave a strong emotional imprint that can enhance brand recognition and engagement
-
-‘Sensational marketing’ is a term that is not widely recognised or defined in the field of marketing. However, it could refer to a marketing approach that aims to create excitement, generate attention and provoke strong emotional responses from the target audience. Such an approach may be used to make a product or service stand out in a crowded marketplace or to create a memorable marketing campaign. Here is an introduction to the concept of sensational marketing.
-
-...
-
-[Data](articles/a2ab8d10.json)
-
-[Extended Data](ext_articles/a2ab8d10.ext.json)
-
----
-
-### Sri Lankans still reluctant to embrace non-cash transactions
-
-*2024-03-15 02:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-still-reluctant-to-embrace-non-cash-transactions/108-278886) · `en`
-
-Reluctance despite high ownership of debit cards and mobile penetration
-
-Despite high ownership of debit cards and mobile penetration, Sri Lankans are still reluctant to embrace non-cash transactions, industry experts said, which indicate that more work remains to be done to build confidence in this space.
-
-According to Mastercard Sri Lanka Director Mahesha Amarasuriya, currently only less than five transactions are conducted from a Point of Sale (POS) terminal on average per day.  The country had 111,205 POS terminals as of September last year. Similarly, on average, less than five transactions are recorded by a QR merchant per quarter of a financial year.
-
-Out of the 18.3 million debit cards in circulation, only six transactions were recorded per debit card on average for the whole year.
-
-...
-
-[Data](articles/11b03d90.json)
-
-[Extended Data](ext_articles/11b03d90.ext.json)
-
----
-
-### Sri Lanka may consider hangwomen if execution starts: State Minister
-
-*2024-03-15 02:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-consider-hangwomen-if-execution-starts-state-minister-154699/) · `en`
-
-ECONOMYNEXT – Sri Lanka may consider hangwomen for executioner posts for the first time in its history if capital punishment is resumed in future instead of current hangmen who have no work at all, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
-
-Sri Lanka hired two hangmen in July 2019 for executions in the country that has never seen penalty in 44 years. The hangmen, who are near their 40 years with a basic monthly salary of Rs. 24,250 ($80), have yet to be trained for execution because Sri Lanka has not seen any.
-
-“I don’t see any reason why a woman can’t be in that position. But since it’s not in the practice, that question has not come to us. But, one day if we start this execution and it comes to the ministry, we would consider it as long as the woman is fit and even we do consider they are fit,” Jayaratne told reporters at a media briefing in Colombo on Thursday (14).
-
-...
-
-[Data](articles/c15c2e1c.json)
-
-[Extended Data](ext_articles/c15c2e1c.ext.json)
-
----
-
-### 200 years later, 'Ceylon Cinnamon' identity
-
-*2024-03-15 01:59:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkdr55g7v1o) · `si`
-
-Cinnamon, a major crop in Sri Lanka, has been a political and economic focal point. In 2018, a conflict named the 'cinnamon poke' sparked controversy. The army's involvement in university demonstrations and the history of cinnamon cultivation and trade are topics of debate. Professor Nirmal Ranjith Devasiri of the University of Colombo discusses the origins of cinnamon in Sri Lanka, its significance during the Portuguese invasion, and the challenges faced by cinnamon cultivators. Professor Pradeepa Bandaranaike's genetic studies on cinnamon have identified unique strains, potentially increasing its global market demand. The Cinnamon Development Department, headquartered in Galle, aims to regulate cinnamon cultivation and improve productivity.
-
-🟩
-
-Cinnamon is a major crop between the spices and spices in Sri Lanka, the main topic of the country's politics.
-
-The 'cinnamon poke' was called the 'cinnamon base' in a conflict between two groups of political parties in 2018.
-
-Last year, the army was circulated along the social media that the army had taken into a demonstration of university students.
-
-The controversy about the continuous incident is once again debated in social media about the history of cinnamon cultivation and trade in Sri Lanka.
-
-BBC inquired about history of Cinnamon Nirmal Ranjith Devasiriin, the history of the University of Colombo, which has studied the history of Cinnamon, in Sri Lanka.
-
-The professor said that cinnamon was founded in the country as a plant in the country as a planting plant.
-
-...
-
-[Data](articles/68d189dc.json)
-
-[Extended Data](ext_articles/68d189dc.ext.json)
 
 ---

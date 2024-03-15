@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 11:33:28**
+As of **2024-03-15 11:52:13**
 
 ## Newspaper Stats
 
-*Scraped **13,059** Articles*
+*Scraped **13,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 681
 economynextcom | 697
 islandlk | 711
-adalk | 1,120
-adaderanalk | 1,569
+adalk | 1,121
+adaderanalk | 1,570
 tamilmirrorlk | 1,591
 virakesarilk | 1,814
 dailymirrorlk | 1,997
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,059 (100.0%) of 13,059 articles have been extended.
+13,059 (100.0%) of 13,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
+
+### Fifteen Indian fishermen apprehended while poaching in Sri Lankan waters
+
+*2024-03-15 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/97974/fifteen-indian-fishermen-apprehended-while-poaching-in-sri-lankan-waters) · `en`
+
+Sri Lanka Navy says it has apprehended 15 Indian fishermen who were poaching in the sea areas off Jaffna.
+
+The Indian fishermen were taken into custody during a special operation mounted by the Northern Naval Command deployed Fast Attack Craft to chase away a cluster of Indian poaching trawlers from Sri Lankan waters in the early hours of Friday (March 15).
+
+Having spotted illegal fishing activities off the Kovilan Lighthouse in Karainagar, the naval personnel managed to impound an Indian trawler with 15 fishermen aboard.
+
+The seized Indian vessel and the fishermen were subsequently brought ashore to the Kankesanturai Harbour and are slated to be handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
+
+With this recent apprehension, the Navy said the number of Indian poaching trawlers it has intercepted in Sri Lankan waters thus far in 2024 now stands at 16. As many as 125 Indian fishermen were also apprehended in these operations.
+
+◼️
+
+[Data](articles/fff75dda.json)
+
+---
 
 ### We will re -revise the words of the sale of state resources under our rule - Vijitha Herath
 
@@ -333,6 +353,24 @@ Accordingly, Bangladesh leads to 1 - 0 in a one -day series with 3 matches.
 [Data](articles/802866fc.json)
 
 [Extended Data](ext_articles/802866fc.ext.json)
+
+---
+
+### ටූනා කිලෝවට රු. 2000ක මිලක් ඉල්ලයි
+
+*2024-03-15 10:17:48* · [`adalk`](https://www.ada.lk/breaking_news/ටූනා-කිලෝවට-රු--2000ක-මිලක්-ඉල්ලයි/11-408624) · `si`
+
+ටුනා මසුන් සදහා සහතික මිලකුත්, බහු දින ධීවර යාත්‍රාවල ධීවර කටයුතු සදහා පිළිගත් ප්‍රතිපත්තියකුත් අවශ්‍ය බව බහු දින යාත්‍රා හිමියන් ඉල්ලයි.
+
+මත්ස්‍ය අපනයන කරුවන්ගේ සංගම් හා  බහු දින ධීවර යාත්‍රා හිමියන්ගේ සංගමයේ නියොජිත පිරිසක් සමග 2024.03.13 දින ධීවර අමාත්‍ය ඩග්ලස් දේවානන්දා මහතාගේ ප්‍රධානත්වයෙන් ධීවර අමාත්‍යංශයේ පැවති සාකච්ඡාවකදි මෙම අදහස් ප්‍රකාශ කරන ලදි.
+
+තමන් අල්ලා ගන්නා මත්ස්‍යන් සදහා සාධාරණ මිලක් ලබා දිය යුතු බව බහු දින යාත්‍රා හිමිකරුවන් විසින් ඉල්ලා සිටින ලදි.
+
+මේහිදි අදහස් දැක්වු සංගම් නියොජිතයන් ඉන්ධන, අයිස් හා  ධීවර ආම්පන්න මිල වැඩි විම, වැට් බද්ධ හා අතර මැදියන්ගේ මැදිහත් විම නිසා තමත් දැඩි ලෙස අසිරු තාවයන්ට  පත්වි ඇති බවත්, එම නිසා තමත් විසින් නෙලා ගන්නා ටුනා මත්ස්‍යයන් සදහා අඩුම වශයෙන් Kg 1 රු.2000/ මිලක් නියම කලයුතු  බවත් ඒ පිලිබදව පිළිගත් ප්‍රතිපත්තියක් හදුන්වා දිය යුතු බවද පවසන ලදි.
+
+...
+
+[Data](articles/bbce6931.json)
 
 ---
 
@@ -2105,57 +2143,5 @@ Half of the first class of the first class of the first class of the ship, which
 [Data](articles/aabd2075.json)
 
 [Extended Data](ext_articles/aabd2075.ext.json)
-
----
-
-### Attain labor earns Rs 116 million
-
-*2024-03-14 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194519) · `si`
-
-Attain Labor earned Rs 116 million in 2023, thanks to 107 revised bills submitted to parliament. Anura Jayaratne, State Minister of Justice and Prison, highlighted inmate contributions to agriculture and industry. The government plans to address prison congestion and food issues with legislation expected in 2024.
-
-🟩
-
-The Hon. Anura Jayaratne said that 107 revised bills were submitted to parliament in the years 2022 and 2023.
-
-In the year 2023, the inmates have enabled the inmate of the agriculture and the industry to earn Rs. 116 million.
-
-State Minister of Justice and Prison Anura Jayaratne made this observation at a press conference held today (14) at the Presidential Media Center.
-
-"The inmates of prisons have been able to make the country to work. With the contribution of the public and private sector, inmates have been directed to work in prison. Accordingly, these projects are being carried out in the Welikada, Mahara and AurakanakolaPake prisoners. These are produced by shoes, coile and food. "
-
-...
-
-[Data](articles/d9adee83.json)
-
-[Extended Data](ext_articles/d9adee83.ext.json)
-
----
-
-### Investigation into the role of Shipping soldiers
-
-*2024-03-14 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194518) · `si`
-
-The Navy is investigating the abduction of a couple near Wadukkotte Naval Checkpoint, with the suspects assaulting and hacking to death the man. The incident was recorded on CCTV.
-
-🟩
-
-The Navy has decided to conduct a complete investigation into the manner in which a couple was abducted near the Naval Checkpoint in Wadukkotte.
-
-Navy Media Center for National Securityari Media Director Captain Gayan Wickramasuriya said this in response to Ada Derana.
-
-Speaking further, the Navy Media Director said that the highest action would be taken if the Navy soldiers were guilty.
-
-The navy lineage at Palanayale Junction was reportedly assaulted by a group of people informs and abducted.
-
-The man had been hacked to death after the abduction.
-
-The abduction of the day was recorded at a CCTV camera near the navy checkpoint.
-
-◼️
-
-[Data](articles/12015b08.json)
-
-[Extended Data](ext_articles/12015b08.ext.json)
 
 ---

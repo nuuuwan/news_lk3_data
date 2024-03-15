@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 13:03:13**
+As of **2024-03-15 13:17:36**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,067 (100.0%) of 13,069 articles have been extended.
+13,069 (100.0%) of 13,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
-### வங்கிகளில் அமெரிக்க டொலரின் பெறுமதி 300 ரூபாவாக குறைந்தது
+### The value of the US dollar in banks is down to 300 rupees
 
 *2024-03-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178791) · `ta`
 
-அதன்படி, இன்று வெள்ளிக்கிழமை (மார்ச் 16) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 300.6026 ஆகவும் விற்பனை விலை ரூபா 310.2053 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's value in banks is 300 rupees, with a sales price of 310.2053 rupees, based on the Central Bank's exchange rate on March 16.
+
+🟩
+
+Accordingly, the US $ 300.6026 and the sales price were 310.2053 based on the Central Bank's currency exchange rate on Friday (March 16).
 
 ◼️
 
 [Data](articles/7d9c171a.json)
+
+[Extended Data](ext_articles/7d9c171a.ext.json)
 
 ---
 
@@ -115,6 +121,8 @@ The Navy said they continue to conduct regular patrols and operations in Sri Lan
 ◼️
 
 [Data](articles/b940f8c7.json)
+
+[Extended Data](ext_articles/b940f8c7.ext.json)
 
 ---
 

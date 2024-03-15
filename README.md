@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-15 09:33:29**
+As of **2024-03-15 09:52:15**
 
 ## Newspaper Stats
 
-*Scraped **13,035** Articles*
+*Scraped **13,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,68 @@ economynextcom | 697
 islandlk | 711
 adalk | 1,119
 adaderanalk | 1,567
-tamilmirrorlk | 1,584
+tamilmirrorlk | 1,585
 virakesarilk | 1,807
 dailymirrorlk | 1,994
-adaderanasinhalalk | 2,056
+adaderanasinhalalk | 2,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,031 (100.0%) of 13,035 articles have been extended.
+13,035 (100.0%) of 13,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-15 (Friday)
 
+### දුම්රිය ප්‍රමාදයක්
+
+*2024-03-15 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194530) · `si`
+
+හුණුපිටිය දුම්රිය ස්ථානය ආසන්නයේ සංඥා පද්ධතියේ හටගත් දෝෂයක් නිසා ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනයේ ප්‍රමාදයක් සිදුවී තිබේ.
+
+◼️
+
+[Data](articles/f3dec6de.json)
+
+---
+
+### சில இடங்களில் இடியுடன் கூடிய மழைக்கு வாய்ப்பு
+
+*2024-03-15 09:29:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-334699) · `ta`
+
+மாலை அல்லது இரவு வேளையில் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ, தென் மற்றும் மத்திய மாகாணங்களில் மழை பெய்யக் கூடும் என திணைக்களம்  கூறியுள்ளது.
+
+சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/1fd6290a.json)
+
+---
+
 ### Thailand agrees to facilitate repatriation of Sri Lankans rescued from Myanmar cyber slave camp
 
 *2024-03-15 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/97971/thailand-agrees-to-facilitate-repatriation-of-sri-lankans-rescued-from-myanmar-cyber-slave-camp) · `en`
 
-Foreign Affairs Minister Ali Sabry has requested assistance from the Deputy Prime Minister and Minister of Foreign Affairs of Thailand Parnpree Bahiddha-Nukara to facilitate the early repatriation of rescued Sri Lankan nationals currently in the Myawaddy area in Myanmar.
+Foreign Affairs Minister Ali Sabry has requested assistance from Deputy Prime Minister and Minister of Foreign Affairs of Thailand Parnpree Bahiddha-Nukara to facilitate the early repatriation of rescued Sri Lankan nationals currently in the Myawaddy area in Myanmar.
 
 The request was communicated during a telephone conversation that took place on Thursday morning (March 14), the Foreign Affairs Ministry said in a statement.
 
-Accordingly, the Thai Foreign Minister has agreed to facilitate the repatriation of the rescued Sri Lankans via Thailand.
+Accordingly, the Thai Foreign Minister has agreed to facilitate the repatriation of the Sri Lankans rescued from the cyber slave camp in Myawaddy via Thailand.
 
-The ministry a total of 8 Sri Lankans who are currently under the Myanmar government protection in the Myawaddy area in Myanmar have been provided with required assistance including meals and basic necessities with the facilitation of the Embassy of Sri Lanka in Yangon.
+According to the ministry, a total of 8 Sri Lankans who are currently under the Myanmar government protection in Myawaddy have been provided with required assistance including meals and basic necessities with the facilitation of the Embassy of Sri Lanka in Yangon.
 
 The Sri Lanka Embassies in Yangon and Bangkok are working together closely to ensure the safe and early repatriation of the Sri Lankans.
 
 ...
 
 [Data](articles/8657cf69.json)
+
+[Extended Data](ext_articles/8657cf69.ext.json)
 
 ---
 
@@ -119,6 +149,8 @@ A fund dedicated to investing in the zone, does not require any specific approva
 ...
 
 [Data](articles/634d58eb.json)
+
+[Extended Data](ext_articles/634d58eb.ext.json)
 
 ---
 
@@ -718,21 +750,27 @@ The ‘tax expenditure’ is based on a 24 percent rate for the first nine month
 
 ---
 
-### 107 புதிய சட்டமூலங்கள் பாராளுமன்றத்தில்
+### 107 New Bill in Parliament
 
 *2024-03-15 03:47:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/107-புதிய-சட்டமூலங்கள்-பாராளுமன்றத்தில்/175-334696) · `ta`
 
-2022 மற்றும் 2023 ஆம் ஆண்டுகளில் 107 புதிய சட்டமூலங்களை பாராளுமன்றத்தில் சமர்ப்பிக்க முடிந்ததாக நீதி மற்றும் சிறைச்சாலை விவகார இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன தெரிவித்தார்.
+In 2022 and 2023, 107 new bills were submitted to Parliament, with 29 in 2022 and 78 in 2023. Minister of Justice Anuradha Jayaratne highlighted significant amendments during this period.
 
-2023 ஆம் ஆண்டில் கைதிகளின் உழைப்புடன் விவசாயம் மற்றும் கைத்தொழில் துறை மூலம் 116 மில்லியன் ரூபா வருமானத்தைப் பெற முடிந்துள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று  நடைபெற்ற செய்தியாளர் மாநாட்டில் உரையாற்றும் போதே நீதி மற்றும் சிறைச்சாலை விவகார இராஜாங்க அமைச்சர் அனுராத ஜயரத்ன இதனைக் குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+Minister of Justice and Prison Affairs Anuradha Jayaratne said that in 2022 and 2023, 107 new bills were submitted to Parliament.
 
-2022 ஆம் ஆண்டு 29 புதிய சட்டமூலங்களையும், 2023 ஆம் ஆண்டு 78 புதிய சட்டமூலங்களையும் பாராளுமன்றத்தில் சமர்ப்பிக்க முடிந்தது. அதன்படி, 107 சட்டமூலங்கள் சமர்ப்பிக்கப்பட்டன. நீதி அமைச்சின் வரலாற்றில் இக்காலப்பகுதியிலே அதிக எண்ணிக்கையிலான சட்டமூலங்கள் திருத்தப்பட்டுள்ளன என்றார். (a)
+The Minister of State has stated that in 2023, the agriculture and industry have been able to earn 116 million rupees.
+
+Speaking at a press conference held at the Presidential Media Center yesterday, Minister of Justice and Prison Affairs Anuradha Jayaratne said this. As he further stated,
+
+29 new Bill in 2022 and 78 new Bill in 2023 were able to be submitted to Parliament. Accordingly, 107 Bill were submitted. He said that in the history of the Ministry of Justice, a large number of bills have been amended during this period. (A)
 
 ◼️
 
 [Data](articles/c28e07a5.json)
+
+[Extended Data](ext_articles/c28e07a5.ext.json)
 
 ---
 
@@ -937,6 +975,8 @@ Sri Lanka hired two hangmen in July 2019 for executions in the country that has 
 ...
 
 [Data](articles/c15c2e1c.json)
+
+[Extended Data](ext_articles/c15c2e1c.ext.json)
 
 ---
 
@@ -2083,43 +2123,5 @@ Also, there are many programs such as the development of 11 temples in the 11 Di
 [Data](articles/68f67bd2.json)
 
 [Extended Data](ext_articles/68f67bd2.ext.json)
-
----
-
-### Tuna fish is required for the price and formal policy plan: several days of boat owners request
-
-*2024-03-14 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178745) · `ta`
-
-Boat owners demand fair pricing and national policy for tuna fish, impacted by fuel, ice, and equipment costs. Discussion at Ministry of Fisheries led by Minister Douglas Devananda. They suggest withdrawing fuel tax, forming agreements with fishermen, and considering cancellation of inactive export permits.
-
-🟩
-
-Many days of fishing boat owners have said that fish exporters should set up a fair price for their products and implement it and form a national policy plan.
-
-They were speaking at a discussion held at the Ministry of Fisheries on Wednesday (13) chaired by Minister of Fisheries Douglas Devananda.
-
-They said that they were severely affected by fuel prices, ice prices, Ice prices, fisheries equipment, and the intervention of intermediaries, so that they were priced at least 2000 rupees per kg.
-
-In addition, the project should be formulated to withdraw the fuel tax, and that a memorandum of understanding should be made between exporters and deep sea fishermen and that hundreds of deep sea fishermen do not go to sea in the present situation.
-
-...
-
-[Data](articles/c81fce65.json)
-
-[Extended Data](ext_articles/c81fce65.ext.json)
-
----
-
-### Climate Justice: Time For The Global South To Unite
-
-*2024-03-14 18:18:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/climate-justice-time-for-the-global-south-to-unite/) · `en`
-
-During my journey to Mizoram, I had a layover at New Delhi airport for approximately five hours, providing me with an opportunity to peruse the latest book authored by India’s External Affairs Minister, Honourable Jaishankar, titled “Why Bharat Matters”. This brought back memories of my visit to Delhi in 2015, when I served as the Minister of Power and Energy alongside our President, Excellency Maithripala Sirisena. During that visit, we engaged in fruitful bilateral discussions with Excellency the Prime Minister Modi, External Affairs Secretary Mr. Jaishankar, and other esteemed ministers. Reflecting on India’s economic growth from USD 2.1 trillion to USD 3.4 trillion over nine years, I realized the potential impact of a pragmatic foreign policy, as outlined in Honourable Jaishankar’s book, on this impressive growth trajectory.
-
-...
-
-[Data](articles/84efef62.json)
-
-[Extended Data](ext_articles/84efef62.ext.json)
 
 ---

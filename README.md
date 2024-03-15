@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 01:03:52**
+As of **2024-03-16 01:33:35**
 
 ## Newspaper Stats
 
-*Scraped **13,183** Articles*
+*Scraped **13,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,113 @@ islandlk | 711
 adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,600
-virakesarilk | 1,831
-dailymirrorlk | 2,019
+virakesarilk | 1,834
+dailymirrorlk | 2,020
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,165 (99.9%) of 13,183 articles have been extended.
+13,187 (100.0%) of 13,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Action to control the impact of the 'White E disease' that attacks the large amount of coconut tree in the Mannar island
+
+*2024-03-16 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178834) · `ta`
+
+"Crop Protection Service Officers in Mannar Island, Northern Province, are taking measures to control the spread of 'White E disease' affecting coconut trees. They've visited the Mannar District Secretariat and other areas, distributing parasites to mitigate the disease's impact. Officials are actively involved in controlling the disease, which is causing significant damage to coconut trees and other vegetation."
+
+🟩
+
+The impact of the 'white E disease' in coconut trees in the Northern Province is increasing in the Mannar district, especially in the Mannar Islands.
+
+In this backdrop, Crop Protection Service Officers visited Mannar on Friday (15) and took steps to clarify and control the impact of the disease in Mannar.
+
+The campus of the Mannar District Secretariat has also been left with parasites that control the impact of the disease.
+
+The impact of the disease at the Mannar District Secretariat has been explained by the officials who have been attended by the officials who have been briefed and taken serious action to control the disease.
+
+In the villages of Mannar city and in the Talaimannar area, parasites have been left in coconut trees.
+
+Visitors said the prevalence of the disease in the coastal areas, especially in the coastal areas, said.
+
+The impact of the coconut trees has been made clear to other trees. As a result, the beneficial trees are completely losing their use.
+
+...
+
+[Data](articles/dbf2d13d.json)
+
+[Extended Data](ext_articles/dbf2d13d.ext.json)
+
+---
+
+### Velan Swamis invite to mobilize against injustice!
+
+*2024-03-16 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178833) · `ta`
+
+Velan Swamis call for mobilization against injustice at Kandaswamy Temple, Vavuniya, on Mahasivaratri day. Protest against police violence and release of temple executives.
+
+🟩
+
+Velan Swamis called on the people of the Northeast to mobilize in front of the Kandaswamy Temple in Vavuniya at 10 am on Saturday (16) at 10 am against injustice.
+
+On the day of the last Mahasivaratri day, a struggle to protest the violence by the police and the release of the temple's executives and the Shiva devotees will be carried out on the occasion of worship at Vittukkanarimalai.
+
+The protest will begin in front of the Kandaswamy Temple in Vavuniya at 10.00 am on Saturday (16).
+
+In this struggle against injustice, all the Tamil people, religious organizations, Tamil politicians, Tamil sentiments, civil society, university students, and all of them are appealed to them.
+
+◼️
+
+[Data](articles/ff1cf292.json)
+
+[Extended Data](ext_articles/ff1cf292.ext.json)
+
+---
+
+### Gota’s book and conspiracy theories
+
+*2024-03-16 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gotas-book-and-conspiracy-theories/172-278977) · `en`
+
+Former President Gotabaya Rajapaksa’s book ‘The Conspiracy to oust me from Presidency” which was launched recently did not evoke much interest or create any stir among the people as its name suggests to do.
+
+Nor did it reveal any hidden facts or details about any incident that would have contributed to his ouster. However, the book is said to have been sold like hot cake due to the curiosity about what it could have contained.
+
+Hence, unlike the commotion that was created in September last year by the Channel 4 documentary which suggested a purported link between the State Intelligence Service (SIS) and the National Thowheed Jama’ath (NTJ), the terrorist organization that was behind the Easter Sunday terrorist attacks in 2019, the book seems to have now almost been forgotten even by Rajapaksa’s friends.
+
+...
+
+[Data](articles/c279dd78.json)
+
+[Extended Data](ext_articles/c279dd78.ext.json)
+
+---
+
+### Yall. Motorcycles parked in a house in Navakiri area
+
+*2024-03-16 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178832) · `ta`
+
+Motorcycles in Navakiri, Jaffna, set on fire by three men with sharp weapons, targeting a previously bombed motorcycle.
+
+🟩
+
+Motorcycles parked in a house in Navakiri area in Jaffna have been set on fire.
+
+At 1:30 am on Friday (16) at 1:30 am, the parents of the motorcycle bombed the motorcycle, which had been bombed and broken into the windows and doors in the house with sharp weapons.
+
+The owner of the house said that the three men who had come home had a sharp weapon while they were sleeping in the house and set fire to a motorcycle.
+
+◼️
+
+[Data](articles/0df8dc05.json)
+
+[Extended Data](ext_articles/0df8dc05.ext.json)
+
+---
 
 ### Easter Sunday, nightmares of past and fears for the future
 
@@ -66,6 +160,8 @@ The IORA Day celebrated under the theme “Ensuring a Sustainable Indian Ocean f
 
 [Data](articles/75b2588a.json)
 
+[Extended Data](ext_articles/75b2588a.ext.json)
+
 ---
 
 ### US Peace Corps Volunteers sworn in, marking historic return to Sri Lanka
@@ -79,6 +175,8 @@ Peace Corps Volunteers learned Sri Lankan culture, Sinhala or Tamil for the past
 ...
 
 [Data](articles/c7e05795.json)
+
+[Extended Data](ext_articles/c7e05795.ext.json)
 
 ---
 
@@ -118,6 +216,8 @@ A Career Guidance Course for university students will also be carried out to dev
 
 [Data](articles/fd848b1d.json)
 
+[Extended Data](ext_articles/fd848b1d.ext.json)
+
 ---
 
 ### Prison Hospital Welikada conducts health camp
@@ -138,6 +238,8 @@ Lenses and other medical items were donated by V. Sarveshwaran , who is a well-k
 
 [Data](articles/664606dc.json)
 
+[Extended Data](ext_articles/664606dc.ext.json)
+
 ---
 
 ### Indian High Commissioner visits Southern Province
@@ -152,6 +254,8 @@ The High Commissioner met the Governor of the Province Dr. Willie Gamage on 6 Ma
 
 [Data](articles/f5de84d0.json)
 
+[Extended Data](ext_articles/f5de84d0.ext.json)
+
 ---
 
 ### Computer lab with personal computers to Katumuluwa Junior School
@@ -163,6 +267,8 @@ The 1978 Science Faculty alumni batch of the University of Peradeniya recently c
 ◼️
 
 [Data](articles/395f37c9.json)
+
+[Extended Data](ext_articles/395f37c9.ext.json)
 
 ---
 
@@ -208,6 +314,8 @@ In a televised interview upon his return to the country, Rajapaksa highlighted t
 
 [Data](articles/3e88253b.json)
 
+[Extended Data](ext_articles/3e88253b.ext.json)
+
 ---
 
 ### Janaka Ratnayake proposes price stability plan for goods and services
@@ -232,6 +340,8 @@ Addressing a press conference to mark the World Consumer Rights Day, Ratnayake s
 
 [Data](articles/5158644f.json)
 
+[Extended Data](ext_articles/5158644f.ext.json)
+
 ---
 
 ### Keheliya submits bail application to High Court
@@ -249,6 +359,8 @@ On Thursday, Maligakanda Magistrate Lochani Abeywickrama overruled the accused�
 ◼️
 
 [Data](articles/c1d8481f.json)
+
+[Extended Data](ext_articles/c1d8481f.ext.json)
 
 ---
 
@@ -282,6 +394,8 @@ Around the world, countries are facing mounting debt, debt distress, and debt de
 
 [Data](articles/d6a6f96d.json)
 
+[Extended Data](ext_articles/d6a6f96d.ext.json)
+
 ---
 
 ### A leap of faith awaits
@@ -295,6 +409,8 @@ For ancient history we are dependent on those who recorded them, in times when l
 ...
 
 [Data](articles/66baa55e.json)
+
+[Extended Data](ext_articles/66baa55e.ext.json)
 
 ---
 
@@ -342,6 +458,8 @@ The enlightening forum held recently, in collaboration with the Ministry of Fina
 
 [Data](articles/26b77bb0.json)
 
+[Extended Data](ext_articles/26b77bb0.ext.json)
+
 ---
 
 ### Adani Power MD meets BOI
@@ -353,6 +471,8 @@ Adani Power Managing Director Anil Sardana met with the Board of Investment Chai
 ◼️
 
 [Data](articles/dc999ce0.json)
+
+[Extended Data](ext_articles/dc999ce0.ext.json)
 
 ---
 
@@ -370,6 +490,8 @@ The branch at No. 186, Main Street, Kegalle, is a fully-fledged banking operatio
 
 [Data](articles/89e199f9.json)
 
+[Extended Data](ext_articles/89e199f9.ext.json)
+
 ---
 
 ### HNB and ICC collaborate to offer tailored home financing
@@ -385,6 +507,8 @@ Reiterating its efforts to bring the best possible deals to customers investing 
 ...
 
 [Data](articles/090a145e.json)
+
+[Extended Data](ext_articles/090a145e.ext.json)
 
 ---
 
@@ -404,6 +528,8 @@ With the re-brand, Phoenix aims to further build its leadership position nationw
 
 [Data](articles/912d5de8.json)
 
+[Extended Data](ext_articles/912d5de8.ext.json)
+
 ---
 
 ### SLT-Mobitel presents Rs. 1 m to January’s ‘Fibre Elite Rewards’ winner
@@ -415,6 +541,8 @@ SLT-Mobitel awarded Rs. 1,000,000 to C.K. Abeynayake, who purchased a new fibre 
 ◼️
 
 [Data](articles/df1120ef.json)
+
+[Extended Data](ext_articles/df1120ef.ext.json)
 
 ---
 
@@ -431,6 +559,8 @@ The newly established laboratory offers a comprehensive range of analytical serv
 ...
 
 [Data](articles/886b48b8.json)
+
+[Extended Data](ext_articles/886b48b8.ext.json)
 
 ---
 
@@ -2071,105 +2201,5 @@ Fisheries Minister Douglas Devananda has issued a press release to provide over 
 [Data](articles/69a80967.json)
 
 [Extended Data](ext_articles/69a80967.ext.json)
-
----
-
-### Authorities who put the safety of their children
-
-*2024-03-15 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194542) · `si`
-
-In Kandy, a tunnel built for student safety near Dharmaraja College remains unused, despite concerns over its purpose. Parents have opened it before authorities, highlighting the need for its use to protect children from road accidents.
-
-🟩
-
-The news has been reported from Kandy due to the non-opening of a tunnel built for the safety of school children.
-
-The tunnel has been built in front of Dharmaraja College, Kandy Vithankumbura road in Kandy.
-
-The tunnel has been constructed for the transition of the students safely.
-
-However, many years after its construction, the people charged that the wet has not been used to use it.
-
-"It's been about three years since this ending this. Was in danger. That was exactly the yellow torn. No one has given an alternative yet. "
-
-Due to this, the parents of the school children, including the parents, open the tunnel before the authorities.
-
-"It's been a long time done work. I don't understand if you have. "
-
-"When you cross the road, children can accident. It's very good if you open this to the children's safety. "
-
-◼️
-
-[Data](articles/f2cc82e4.json)
-
-[Extended Data](ext_articles/f2cc82e4.ext.json)
-
----
-
-### Interested in the murder suspect's mental state of the Ottawa
-
-*2024-03-15 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194541) · `si`
-
-A 19-year-old Sri Lankan youth is accused in an Ottawa mass murder. Felgio de Zoysa, detained, appeared in court, revealing his name and birthday. The Canadian media reported on the Sri Lankan family members killed. The case is complex, with the suspect's mental state under scrutiny. The next hearing is on the 28th.
-
-🟩
-
-The 19-year-old Sri Lankan youth in the Ottawa mass murder took place in the Ottawa group murder yesterday.
-
-Law experts point out about the murdering incident.
-
-The suspect Felgio de Zoysa has already been detained at the Ottaah Keleton Detention Center and said his name and birthday when he appeared before the court.
-
-The Canadian Media said that the names of the Sri Lankan family members who were killed in the courts examination were to correct the bugs of the Sri Lankan family.
-
-The allegations have not been read before the court yesterday.
-
-The suspect has been selected for answering the courts at the courts and the next case has been held on the 28th.
-
-The suspects have been accused of six criminal murder accusations and accused of mine with the suspect Felgio de Zoysa.
-
-It has also been asked whether the accused will be excited at the courtship of his mental condition.
-
-...
-
-[Data](articles/305c9207.json)
-
-[Extended Data](ext_articles/305c9207.ext.json)
-
----
-
-### Sri Lanka spends Rs 4 Bn on prisoners, house arrest bill to be presented soon
-
-*2024-03-15 14:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-spends-rs-4-bn-on-prisoners-house-arrest-bill-to-be-presented-soon-154752/) · `en`
-
-ECONOMYNEXT — Sri Lanka spends 4 billion rupees a year holding prisoners and is now planning to enact new house arrest legislation in 2024 as a solution to overcrowding in prisons, State Minister of Justice and Prison Affairs Anuradha Jayaratne said.
-
-Jayaratne told reporters on Thursday March 14 that the country’s prison population stands at 30,793 individuals which far exceeds its capacity of 12,000.
-
-Amendments to laws such as the Bail Act are also being considered to address this, he said.
-
-A committee headed by Supreme Court Justice Yasantha Kodagoda had submitted a report on house arrest, after which cabinet approval was obtained for a draft bill which is now being formulated by the Legal Draftsman, according to Jayaratne.
-
-“We plan to present this house arrest bill to parliament in 2024 and make it a law. Consequent to this law, people convicted of civil offences can serve their sentence in their home instead of being imprisoned,” he said.
-
-...
-
-[Data](articles/31e730e9.json)
-
-[Extended Data](ext_articles/31e730e9.ext.json)
-
----
-
-### 'Construction Expo 2024'
-
-*2024-03-15 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Construction-Expo-2024/110-278917) · `en`
-
-“Construction Expo 2024” organized by the Ceylon Institute of Builders (CIOB) will be held from March 15 to 17 at the Sirimavo Bandaranaike Memorial Exhibition Hall at the BMICH. This is an excellent opportunity for new product sourcing, networking with new contacts and business opportunities, the latest technology added to the building and construction industry, etc. to promote the construction industry in Sri Lanka. Pix by Kithisiri De Mel
-
-◼️
-
-[Data](articles/7260c419.json)
-
-[Extended Data](ext_articles/7260c419.ext.json)
 
 ---

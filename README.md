@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 14:49:15**
+As of **2024-03-16 15:02:55**
 
 ## Newspaper Stats
 
-*Scraped **13,264** Articles*
+*Scraped **13,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,60 @@ adalk | 1,131
 adaderanalk | 1,599
 tamilmirrorlk | 1,610
 virakesarilk | 1,847
-dailymirrorlk | 2,035
+dailymirrorlk | 2,036
 adaderanasinhalalk | 2,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,262 (100.0%) of 13,264 articles have been extended.
+13,264 (100.0%) of 13,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களுக்கு நீதி கோரி வவுனியாவில் ஆர்ப்பாட்டம்
+### Gotabaya lacked basic management skills: Ven. Muruththettuwe Ananda Thera
 
-*2024-03-16 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178868) · `ta`
+*2024-03-16 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabaya-lacked-basic-management-skills-Ven-Muruththettuwe-Ananda-Thera/108-278995) · `en`
 
-வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களுக்கு நீதி கோரி இன்று சனிக்கிழமை (16) ஆர்ப்பாட்ட பேரணி ஒன்று முன்னெடுக்கப்பட்டது.
+Former President Gotabaya Rajapaksa did not have the management skills of even a small child, Chief Sanganayaka of the Western Province and chief incumbent of the Abhayarama, Most Ven. Muruththettuwe Ananda Thera said.
 
-இதன்போது வவுனியா பழைய பஸ் நிலையத்திற்கு முன்பாக ஒன்று கூடி ஆர்ப்பாட்டத்தில் ஈடுபட்டததுடன், அங்கிருந்து பேரணியாக வவுனியா மணிக்கூட்டு கோபுர வீதியூடாக வவுனியா நகரை அடைந்து அங்கிருந்து இலுப்பையடியினை சென்றடைந்திருந்தது.
+He said this while attending the launch of the book titled Echo of People's Struggle (Aragalaye Donkaraya) yesterday.
 
-இதன்போது தொல்பொருள் திணைக்களத்தின் முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டதுடன் அங்கிருந்து பேரணியாக வவுனியா சிறைச்சாலையின் முன்பாக சென்று நிறைவடைந்திருந்தது.
+Former President Mahinda Rajapaksa and Speaker Mahinda Yapa Abeywardena were present on this occasion.
 
-இதன்போது ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் ' பொலிஸ் அராஜகம் ஒழிக, வெடுக்குநாறி எங்கள் சொத்து, கைது செய்யப்பட்டவர்களை வசிடுதலை செய், வழிபாட்டு உரிமையை தடுக்காதே, சிவ வழிபாட்டை தடை செய்யாதே, வடக்கு - கிழக்கு தமிழர் தாயகம், பொய் வழக்கு போடாதே, பௌத்தமயமாக்கலை உடனே நிறுத்து'' என எழுதப்பட்ட சுலோக அட்டைகளை ஏந்தியிருந்ததுடன் கோசங்களையும் எழுப்பினர்.
+"Mahinda Rajapaksa did not receive such a response from the people and he still has the respect of the people," he said.
+
+Ven. Ananda Thera further said that the Maha Sangha, including him, worked hard with huge dedication to make Gotabaya Rajapaksa the President. However, the Rajapaksas' respect was destroyed due to Gotabaya's administrative incompetence.
+
+◼️
+
+[Data](articles/2ad35918.json)
+
+---
+
+### Demonstration in Vavuniya seeking justice
+
+*2024-03-16 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178868) · `ta`
+
+A rally in Vavuniya demanded justice for arrests on Vedukkuni hill, starting at the old bus station, passing through Vavuniya Manukkuttu Tower to Iluppaiyadi, and ending at the Vavuniya Prison. Protesters carried slogans against police anarchy, property rights, and religious freedom.
+
+🟩
+
+A demonstration rally was held on Saturday (16) demanding justice for those arrested on the Vedukkuni hill.
+
+The protest was held in front of the old bus station in Vavuniya and the rally had reached the Vavuniya city through the Vavuniya Manukkuttu Tower and reached Iluppaiyadi.
+
+The demonstration was held in front of the Archaeological Department and the rally was completed in front of the Vavuniya Prison.
+
+The protesters carried the slogans, such as' the police anarchy, our property, our property, our arrests, do not prevent worship, do not prevent the worship of Shiva, the North -East Tamil homeland, do not lie, stop Buddhism. "
 
 ◼️
 
 [Data](articles/c6848635.json)
+
+[Extended Data](ext_articles/c6848635.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Industrial production expanded 7.9% from a year ago, while services sector rose 
 ...
 
 [Data](articles/19472419.json)
+
+[Extended Data](ext_articles/19472419.ext.json)
 
 ---
 
@@ -2119,23 +2147,5 @@ The briefing opened with welcome remarks from Anuk De Silva, Head of Corporate A
 [Data](articles/25ed6396.json)
 
 [Extended Data](ext_articles/25ed6396.ext.json)
-
----
-
-### Responsibly managing govt-funded benefits can significantly contribute to economy - President
-
-*2024-03-15 23:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97986/responsibly-managing-govt-funded-benefits-can-significantly-contribute-to-economy-president) · `en`
-
-President Ranil Wickremesinghe on Friday (March 15) urged all local government officials to wholeheartedly commit themselves to ensuring that the benefits provided to the people through government funding for development activities are effectively utilized.
-
-By responsibly managing these resources, officials can contribute significantly to bolstering the national economy, he added.
-
-The President further requested active participation from all local government officials in supporting the success of programs such as “Aswesuma,” “Urumaya,” and Agricultural Modernization initiatives, alongside the “Kadurarata Dashakaya” program. He emphasized that the collective benefits derived from these endeavours will significantly contribute to the enhancement of the national economy.
-
-...
-
-[Data](articles/67a2ce4e.json)
-
-[Extended Data](ext_articles/67a2ce4e.ext.json)
 
 ---

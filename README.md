@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 08:51:14**
+As of **2024-03-16 09:02:53**
 
 ## Newspaper Stats
 
-*Scraped **13,212** Articles*
+*Scraped **13,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,588
-tamilmirrorlk | 1,604
+adaderanalk | 1,589
+tamilmirrorlk | 1,605
 virakesarilk | 1,834
 dailymirrorlk | 2,025
 adaderanasinhalalk | 2,083
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,209 (100.0%) of 13,212 articles have been extended.
+13,212 (100.0%) of 13,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ However, the situation at the hospital has changed over the past years, with hos
 
 [Data](articles/0a452098.json)
 
+[Extended Data](ext_articles/0a452098.ext.json)
+
 ---
 
 ### Dry weather expected to prevail in many areas today
@@ -59,6 +61,28 @@ Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva
 ◼️
 
 [Data](articles/0cfbf3c6.json)
+
+[Extended Data](ext_articles/0cfbf3c6.ext.json)
+
+---
+
+### Hot, dry weather expected in many parts of the island today
+
+*2024-03-16 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97988/hot-dry-weather-expected-in-many-parts-of-the-island-today) · `en`
+
+Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts in the evening or at night, the Department of Meteorology says.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts in the morning.
+
+Meanwhile, in an advisory issued last evening, the Meteorology Department cautioned that high atmospheric temperatures would prevail in North Central, North Western and Eastern provinces as well as in Colombo, Gampaha, Monaragala, Mannar, Mullaitivu, Vavuniya and Hambantota districts today.
+
+Accordingly, the heat index, the temperature felt on human body, is likely to go up to ‘Caution Level’ in aforementioned areas.
+
+Under this level of temperature, fatigue is possible with prolonged exposure and activity, and continuing activity could result in heat cramps.
+
+...
+
+[Data](articles/379e2673.json)
 
 ---
 
@@ -161,6 +185,8 @@ Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to 
 ...
 
 [Data](articles/a516b9d9.json)
+
+[Extended Data](ext_articles/a516b9d9.ext.json)
 
 ---
 
@@ -291,6 +317,22 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 [Data](articles/0cc93c42.json)
 
 [Extended Data](ext_articles/0cc93c42.ext.json)
+
+---
+
+### ’அரச பணத்தை உரிய முறையில் செலவு செய்க’
+
+*2024-03-16 03:23:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-பணத்தை-உரிய-முறையில்-செலவு-செய்க/175-334739) · `ta`
+
+அபிவிருத்திக்காக அரசாங்கம் வழங்கும் நிதியை உரிய முறையில் செலவழித்து அதன் மூலம் தேசிய பொருளாதாரத்தை வலுப்படுத்தி, மக்களுக்கு நன்மைகளை வழங்க அர்ப்பணிப்புடன் செயற்படுங்கள் என  ஜனாதிபதி ரணில் விக்கிரமசிங்க அனைத்து பிரதேச செயலாளர்களிடமும் கேட்டுக்கொண்டார்.
+
+அரசாங்கத்தினால் அமுல்படுத்தப்படும் அபிவிருத்தி வேலைத் திட்டங்களின் முன்னேற்றம் தொடர்பாக அனைத்து மாவட்ட செயலாளர்களுடனும், பிரதேச செயலாளர்களுடனும் நேற்று கொழும்பு இலங்கை மன்றக் கல்லூரியில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி இவ்வாறு  குறிப்பிட்டார்.
+
+'வலுவான எதிர்காலத்திற்கான முன்னுரை – 2024' என்ற தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்டிருந்த இக்கூட்டத்தில், அரசாங்கத்தினால் நடைமுறைப்படுத்தப்பட்டுள்ள அபிவிருத்தித் திட்டங்கள் மற்றும் அவற்றை நடைமுறைப்படுத்துவதில் ஏற்பட்டுள்ள சிக்கல்கள் தொடர்பில் விரிவாக ஆராயப்பட்டது. (a)
+
+◼️
+
+[Data](articles/34ebc652.json)
 
 ---
 
@@ -2089,51 +2131,5 @@ His office said an update on the issue would be handed to the war cabinet and ex
 [Data](articles/7f0c1e6e.json)
 
 [Extended Data](ext_articles/7f0c1e6e.ext.json)
-
----
-
-### Honda and Nissan make a company decision
-
-*2024-03-15 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194546) · `si`
-
-Honda and Nissan, Japan's 2nd and 3rd largest carmakers, plan to enhance electric production and collect self-technology, aiming for future technological advancements.
-
-🟩
-
-Honda and Nissan has decided to improve electrical production as well as to collect self-technology.
-
-The heads of the two companies said that the heads of the two companies were speaking at a media briefing in Tokyo, Japan.
-
-The two companies, the second and third largest car manufacturers of Japan, will create technology improved technology in the future.
-
-◼️
-
-[Data](articles/6d94b922.json)
-
-[Extended Data](ext_articles/6d94b922.ext.json)
-
----
-
-### Sri Lanka stocks close up, Hayleys Fabric draws interest
-
-*2024-03-15 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-hayleys-fabric-draws-interest-154806/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.17 percent, or 18.79 points, at 11,336; while the S&P SL20 Index closed up 0.46 percent, or 14.75 points, at 3,245.
-
-Hayleys Fabric Plc saw the most active trade volumes (133mn) of the day and the share closed up at 44.30. The company has observed a significant rise in fabric exports compared to previous years, Managing Director and Chief Executive of Hayleys Fabric Plc Rohan Goonetilleke told Echelon this week.
-
-Group company Singer (Sri Lanka) Plc also saw fairly high turnover (46mn), and the share closed up at 16.10.
-
-Other companies that saw investor interest were Softlogic Capital Plc (61mn), which closed up at 7.20; and Richard Pieris and Company Plc (55mn) which closed flat at 22.00.
-
-The capital goods sector contributed 349mn to the day’s turnover. Other sectors that attracted interest were banks (176mn), and food, beverage and tobacco (173).
-
-...
-
-[Data](articles/9920a88e.json)
-
-[Extended Data](ext_articles/9920a88e.ext.json)
 
 ---

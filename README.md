@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 20:33:14**
+As of **2024-03-16 20:49:20**
 
 ## Newspaper Stats
 
-*Scraped **13,300** Articles*
+*Scraped **13,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,606
+adaderanalk | 1,607
 tamilmirrorlk | 1,620
 virakesarilk | 1,852
 dailymirrorlk | 2,040
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,300 (100.0%) of 13,300 articles have been extended.
+13,300 (100.0%) of 13,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### New mobile application designed to promote beach cleanliness
+
+*2024-03-16 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98000/new-mobile-application-designed-to-promote-beach-cleanliness) · `en`
+
+A meeting was convened at the Presidential Secretariat, on Friday (15) chaired by Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka, to discuss the launch of a new mobile application “Beach Clean-up Coordination App” aimed at enhancing the cleanliness and waste management on beaches.
+
+The introduction of this mobile application is facilitated through the intervention of the Coastal Conservation Protection Authority. It aims to formalize coordination among institutions and organizations engaged in the sustainable development of coastal and marine environments.
+
+Ratnayaka emphasized the importance of commitment from all institutions responsible for ensuring the sustainability of ocean and coastal areas in maintaining cleanliness. He highlighted that the new mobile application will serve as a tool to facilitate these activities effectively.
+
+...
+
+[Data](articles/b6766ce1.json)
+
+---
 
 ### Popular Star, Ravi Riester's song to Indian cinema
 
@@ -2321,19 +2337,5 @@ The paintings were featured in a variety of colorful paintings, including daily 
 [Data](articles/2c657125.json)
 
 [Extended Data](ext_articles/2c657125.ext.json)
-
----
-
-### A Leap Of Faith Awaits
-
-*2024-03-16 02:03:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-leap-of-faith-awaits/) · `en`
-
-“What did the others know of history? Passing ripples, little eddies, and breaking waves. They wondered at the changing forms of the surface and could not explain them. But we had descended into the depths, into the formless, anonymous masses, which at all times constituted the substance of history; and we were the first to discover her laws of motion. We had discovered the laws of her inertia, of the slow changing of the molecular structure, and, her sudden eruptions…” – Darkness at Noon- Arthur Koestler
-
-...
-
-[Data](articles/0afd46ae.json)
-
-[Extended Data](ext_articles/0afd46ae.ext.json)
 
 ---

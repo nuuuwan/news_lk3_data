@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 13:02:58**
+As of **2024-03-16 13:17:57**
 
 ## Newspaper Stats
 
-*Scraped **13,248** Articles*
+*Scraped **13,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 709
-islandlk | 719
+islandlk | 720
 adalk | 1,131
 adaderanalk | 1,594
 tamilmirrorlk | 1,610
 virakesarilk | 1,844
-dailymirrorlk | 2,031
+dailymirrorlk | 2,033
 adaderanasinhalalk | 2,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,248 (100.0%) of 13,248 articles have been extended.
+13,248 (100.0%) of 13,251 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,46 @@ According to researchers, bird birds who pretend to be first bird birds have bee
 [Data](articles/a02569e6.json)
 
 [Extended Data](ext_articles/a02569e6.ext.json)
+
+---
+
+### Aaqib Javed appointed as fast bowling coach of national team
+
+*2024-03-16 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Aaqib-Javed-appointed-as-fast-bowling-coach-of-national-team/108-278992) · `en`
+
+Colombo, March 16 (Daily Mirror) - Sri Lanka Cricket appointed former Pakistan pace bowler Aaqib Javed as the national team’s ‘fast bowling coach.’
+
+He will work with the national team until the completion of the ICC Men’s T20 World Cup, which is scheduled to be held in the West Indies and USA during June 2024.
+
+Javed, apart from a successful international career where he played 163 ODIs and 22 test matches for Pakistan, captured a tally of 236 international wickets. A member of Pakistan’s
+
+1992 World Cup-winning team, Javed has worked for several national teams in different coaching capacities.
+
+Among those stints are working as the bowling coach of the Pakistan national team, serving as the coach of the UAE national team, and also working with the Afghanistan national team
+
+During his tenure as coach, the UAE National Team has obtained ODI and T20I status, made the ICC Men’s 50 Over World Cup in 2015, and also featured in the qualifiers for the ICC
+
+...
+
+[Data](articles/0a95e5f1.json)
+
+---
+
+### Governemnt’s poor management creates issues for consumers
+
+*2024-03-16 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governemnts-poor-management-creates-issues-for-consumers/108-278990) · `en`
+
+Colombo, March 16 (Daily Mirror) - 'World Consumer Rights Day' is relevant to countries like Sri Lanka, where there are no policies or rights for consumers, presidential candidate Janaka Ratnayake said.
+
+Addressing the media, he said Consumer Rights Day was declared to protect the rights of consumers around the world.
+
+"But in Sri Lanka, there is no such rights for consumers. The country cannot manage the prices of fuel, electricity, water and other essential commodities and goods," he said.
+
+"We are living in a country with poor management. The current government cannot manage even the price of an egg in the local market. Every week, there will be a topic to be discussed regarding essential commodities. During the past few weeks, discussions have been held on egg prices; during the last week, it was about big onions. I cannot imagine what will be the topic next week," Ratnayake said.
+
+...
+
+[Data](articles/5d75294a.json)
 
 ---
 
@@ -1796,6 +1836,20 @@ The All Share Price Index went up by 18.79 points, while the S and P SL 20 rose 
 
 ---
 
+### Standard Chartered’s global research team offers economic perspectives for global and Sri Lankan markets
+
+*2024-03-15 23:27:00* · [`islandlk`](http://island.lk/standard-chartereds-global-research-team-offers-economic-perspectives-for-global-and-sri-lankan-markets/) · `en`
+
+Standard Chartered Bank’s Global Research team conducted its 2024 H1 Global Research Briefing (GRB) in Sri Lanka recently, themed ‘A soft landing, with risks’. The event took place on 4 March at the Galle Face Hotel Colombo and was attended by corporate, commercial and institutional banking clients of the Bank. It provided a valuable platform for participants to gain insights on the global and Sri Lankan economic outlooks for the first half of 2024.
+
+The briefing opened with welcome remarks from Anuk De Silva, Head of Corporate Affairs, Brand & Marketing at Standard Chartered Sri Lanka, followed by an opening address by Bingumal Thewarathanthri, CEO of Standard Chartered Sri Lanka. Central Bank Governor, Dr. Nandalal Weerasinghe, delivered the keynote speech.
+
+...
+
+[Data](articles/25ed6396.json)
+
+---
+
 ### Responsibly managing govt-funded benefits can significantly contribute to economy - President
 
 *2024-03-15 23:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97986/responsibly-managing-govt-funded-benefits-can-significantly-contribute-to-economy-president) · `en`
@@ -2097,73 +2151,5 @@ There was one survivor — Dhanushka Wickramasinghe, who was injured with an edg
 [Data](articles/c1543af7.json)
 
 [Extended Data](ext_articles/c1543af7.ext.json)
-
----
-
-### Arjuna and Mahanama record breaks Chirith and wishes
-
-*2024-03-15 21:23:47* · [`adalk`](https://www.ada.lk/sports/අර්ජුනගේ-හා-මහානාමගේ-වාර්තාවක්-චරිත්-හා-පැතුම්-බිඳ-දමති/9-408633) · `si`
-
-Arjuna Ranatunga and Roshan Mahanama set a record for the fourth wicket in ODI cricket, but Charith and Wishesi achieved a higher score for the fifth wicket against Bangladesh.
-
-🟩
-
-Charith, Siddhass and Wishes were won to claim the highest score for the fourth wicket for Sri Lanka in the ODI cricket matches.
-
-Former Leader Arjuna Ranatunga and Roshan Mahanama. The two were the four-fourth-running mark of the fourth wicket for the West Indies in 1997.
-
-However, Charith and Wishesi have a successful relationship for the fifth wicket against Bangladesh in the fifth wicket against the fifth wicket against Bangladesh.
-
-◼️
-
-[Data](articles/fd08ef27.json)
-
-[Extended Data](ext_articles/fd08ef27.ext.json)
-
----
-
-### Thilini accepted the offense
-
-*2024-03-15 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194553) · `si`
-
-Thilini Gamage ordered the release of three court violations, including Priyarai, accused of defrauding a bail node. Madulla, the Attorney-at-Law, was informed of the withdrawal of the original Uruddist. The case will be reconsidered on July 26.
-
-🟩
-
-Fort Magistrate Thilina Gamage today (15) ordered the release of three court violations.
-
-The magistrate who set a fine of Rs. 1,500 a fine of Rs.
-
-Priyarai, a businessman, who has been accused of defrauding a bail node that the bail was filed by the millionaire businessmen, was not reported to three days.The Magistrate ordered that the Attorney-at-Law Madulla court on the occasion of filing a motion and was released on bail.
-
-Attorney-at-Law Madulla was informed that the original Uruddist was withdrawn for her.
-
-The three-day medical reports were presented in accordance with the court orders, and he admit the guilty of the judiciary and releasing the suspect.
-
-The case was taken up again on July 26.
-
-◼️
-
-[Data](articles/d896cd08.json)
-
-[Extended Data](ext_articles/d896cd08.ext.json)
-
----
-
-### SC delays verdict on petitions against recommendations of PCoI on political victimisation
-
-*2024-03-15 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/97984/sc-delays-verdict-on-petitions-against-recommendations-of-pcoi-on-political-victimisation) · `en`
-
-The Supreme Court on Friday (15) concluded the hearing of petitions seeking the annulment of recommendations and findings of the Presidential Commission of Inquiry (PCoI) appointed by former President Gotabaya Rajapaksa to investigate alleged incidents of political victimisation.
-
-Despite concluding the hearing, however, the Supreme Court deferred announcing its decision.
-
-The petitions were filed by President’s Secretary Saman Ekanayake, former Navy Commander Travis Sinniah, former High Court Judge Padmini Ranawaka, and others.
-
-◼️
-
-[Data](articles/38aa5b1f.json)
-
-[Extended Data](ext_articles/38aa5b1f.ext.json)
 
 ---

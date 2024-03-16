@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 14:33:25**
+As of **2024-03-16 14:49:15**
 
 ## Newspaper Stats
 
-*Scraped **13,262** Articles*
+*Scraped **13,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,598
+adaderanalk | 1,599
 tamilmirrorlk | 1,610
-virakesarilk | 1,846
+virakesarilk | 1,847
 dailymirrorlk | 2,035
 adaderanasinhalalk | 2,092
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,092
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,261 (100.0%) of 13,262 articles have been extended.
+13,262 (100.0%) of 13,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களுக்கு நீதி கோரி வவுனியாவில் ஆர்ப்பாட்டம்
+
+*2024-03-16 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178868) · `ta`
+
+வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களுக்கு நீதி கோரி இன்று சனிக்கிழமை (16) ஆர்ப்பாட்ட பேரணி ஒன்று முன்னெடுக்கப்பட்டது.
+
+இதன்போது வவுனியா பழைய பஸ் நிலையத்திற்கு முன்பாக ஒன்று கூடி ஆர்ப்பாட்டத்தில் ஈடுபட்டததுடன், அங்கிருந்து பேரணியாக வவுனியா மணிக்கூட்டு கோபுர வீதியூடாக வவுனியா நகரை அடைந்து அங்கிருந்து இலுப்பையடியினை சென்றடைந்திருந்தது.
+
+இதன்போது தொல்பொருள் திணைக்களத்தின் முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டதுடன் அங்கிருந்து பேரணியாக வவுனியா சிறைச்சாலையின் முன்பாக சென்று நிறைவடைந்திருந்தது.
+
+இதன்போது ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்கள் ' பொலிஸ் அராஜகம் ஒழிக, வெடுக்குநாறி எங்கள் சொத்து, கைது செய்யப்பட்டவர்களை வசிடுதலை செய், வழிபாட்டு உரிமையை தடுக்காதே, சிவ வழிபாட்டை தடை செய்யாதே, வடக்கு - கிழக்கு தமிழர் தாயகம், பொய் வழக்கு போடாதே, பௌத்தமயமாக்கலை உடனே நிறுத்து'' என எழுதப்பட்ட சுலோக அட்டைகளை ஏந்தியிருந்ததுடன் கோசங்களையும் எழுப்பினர்.
+
+◼️
+
+[Data](articles/c6848635.json)
+
+---
+
+### Sri Lanka’s economy expands for a second straight quarter
+
+*2024-03-16 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97994/sri-lankas-economy-expands-for-a-second-straight-quarter) · `en`
+
+Sri Lanka’s economy expanded for a second straight quarter as industrial activity picked up pace, buoyed by an International Monetary Fund bailout and lower interest rates.
+
+Gross domestic product rose 4.5% in the three months to December from a year ago, the Statistics Department said Friday. That’s higher than the median forecast of 3.7% growth in a Bloomberg survey of economists, and compares with a print of 1.6% in the July-September period. For the year, the economy clocked a contraction of 2.3%.
+
+The expansion comes as the South Asian nation seeks to win an initial approval for the next tranche of a $3 billion IMF loan program. Authorities are aiming to complete restructuring the nation’s debt by June, a key condition to keep funds from the bailout flowing. Negotiations with dollar bondholders over the terms of recast are underway.
+
+Industrial production expanded 7.9% from a year ago, while services sector rose 2.8%, the data showed.
+
+...
+
+[Data](articles/19472419.json)
+
+---
 
 ### A revelation of the Dhanushka saved from the ethnic incident
 
@@ -167,6 +203,8 @@ The hotline, introduced under the instructions of the President, was launched in
 ◼️
 
 [Data](articles/2e784279.json)
+
+[Extended Data](ext_articles/2e784279.ext.json)
 
 ---
 
@@ -2099,49 +2137,5 @@ The President further requested active participation from all local government o
 [Data](articles/67a2ce4e.json)
 
 [Extended Data](ext_articles/67a2ce4e.ext.json)
-
----
-
-### Heritance Ayurveda named ‘Best Ayurveda Resort Sri Lanka’ at the FIT Health & Wellness Awards
-
-*2024-03-15 23:27:00* · [`islandlk`](http://island.lk/heritance-ayurveda-named-best-ayurveda-resort-sri-lanka-at-the-fit-health-wellness-awards/) · `en`
-
-Heritance Ayurveda, a leading wellness destination renowned for its authentic Ayurvedic experiences, is thrilled to announce its recent accolade as the ‘Best Ayurveda Resort Sri Lanka’ at the prestigious 9th FIT Health & Wellness Awards held in Berlin. The award ceremony was organised by Fit Reisen and held in conjunction with ITB trade fair (the world’s largest tourism trade fair).
-
-Heritance Ayurveda is part of Heritance Hotels and Resorts brand, the flagship brand of the premier Sri Lankan hospitality chain Aitken Spence Hotels.
-
-The recognition comes as a testament to Heritance Ayurveda’s unwavering commitment to providing unparalleled wellness experiences to its guests. This esteemed award is based on the overwhelmingly positive feedback received from the valued customers of Fit Reisen, who have experienced the transformative benefits of our Ayurvedic treatments and therapies firsthand.
-
-Share market remains in positive territory as blue chips take centre stage
-
-...
-
-[Data](articles/8fd7a798.json)
-
-[Extended Data](ext_articles/8fd7a798.ext.json)
-
----
-
-### Sword Cutting Group captured with sharp weapons in Jaffna!
-
-*2024-03-15 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/178829) · `ta`
-
-A sword gang in Jaffna was arrested by the Special Task Force, with five members detained for carrying sharp weapons.
-
-🟩
-
-A sword gang has been arrested in Jaffna on Friday morning (15).
-
-Five people have been arrested by the Special Task Force and handed over to the Jaffna Police Station on Friday (15) at around 2 am.
-
-A 25 -year -old three -wheeler driver from Mathews Road in Jaffna, a 25 -year -old youth from Kokuvil, 20 -year -old youth from Jaffna, 26 -year -old youth from Kurunagar and 19 -year -old youth from Varnarpanai have been arrested.
-
-The sword, the iron rod and the iron pipe were recovered from the three -wheeler they traveled.
-
-◼️
-
-[Data](articles/9f625930.json)
-
-[Extended Data](ext_articles/9f625930.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 20:17:47**
+As of **2024-03-16 20:33:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,101
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,298 (100.0%) of 13,300 articles have been extended.
+13,300 (100.0%) of 13,300 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,8 @@ He said the NPP will resolve issues of the Tamils such as language issue, land i
 ◼️
 
 [Data](articles/b76dd302.json)
+
+[Extended Data](ext_articles/b76dd302.ext.json)
 
 ---
 
@@ -368,21 +370,29 @@ Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing 
 
 ---
 
-### வெடுக்குநாறிமலை சம்பவம் தொடர்பில் விசாரணைக் குழுவை அமையுங்கள் - ஜனாதிபதி ரணிலிடம் எழுத்துமூலமான கோரிக்கை வழங்கினார் டக்ளஸ்
+### Douglas issued a written request to President Ranil
 
 *2024-03-16 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178888) · `ta`
 
-வெடுக்குநாறிமலைச் சம்பவம் தொடர்பில் விசாரணைக்குழுவினை அமைப்பதற்கு ஏற்கனவே அமைச்சரவைக் கூட்டத்தில் கோரிக்கை விடுக்கப்பட்ட நிலையில் அதற்கான எழுத்துமூலமான ஆவணத்தினை அமைச்சர் டக்ளஸ் தேவானந்தா ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடத்தில் கையளித்துள்ளார்.
+Minister Douglas Devananda has requested President Ranil Wickremesinghe to form an inquiry committee on the Vidunarimalai incident, criticizing police actions during Sivaratri at the Adivasivan Temple and the eviction of worshipers from Vedukkuni Mountain. He highlighted the need for reconciliation and urged the President to act swiftly.
 
-இந்நிலையில் குறித்த விடயம் சம்பந்தமாக கருத்து வெளியிட்ட அவர், வெடுக்குநாறி ஆதிசிவன் ஆலயத்தில் சிவாரத்திரி தினத்தன்று வழிபாடுகளைச் செய்வதற்காகச் சென்றவர்கள் மீது பொலிஸார் தாக்குதல் நடத்தியமையானது மிகப்பெரும் தவறாகும்.
+🟩
 
-வெடுக்குநாறி மலையில் ஏற்கனவே வழிபாடுகளை மேற்கொள்வதற்கான அனுமதிகள் உள்ள நிலையில்ரூபவ் இரவில் வழிபடமுடியாது என்று பொலிஸார் தடைகளை ஏற்படுத்த முடியாது.
+Minister Douglas Devananda has handed over the written document to President Ranil Wickremesinghe as the Cabinet meeting has already been asked to set up an inquiry committee on the Vidunarimalai incident.
 
-சிவராத்திரி என்பது சிவனுக்கு இரவில் பூசை வழிபாடுகளை முன்னெடுப்பதேயாகும். ஆகவே அந்த மரபுகளை மாற்றியமைப்பது முரணான விடயமாகும்.
+Commenting on the matter, he said that the police attack on those who went to worship on the day of Sivaratri at the Adivasivan Temple at the Adivasivan Temple.
+
+The police cannot put up obstacles that the permission to worship on the Vedukkuni Mountain cannot be worshiped at night.
+
+Shivaratri is to carry out the worship of Lord Shiva at night. It is therefore contradictory to change those traditions.
+
+It is not acceptable that the police carried out attacks on those who went to the worshipers of the worshipers, and the system that evicted them and the pooja was not accepted.. This is the process that affects the Reconciliation. I had already revealed this issue at a Cabinet meeting held last week.
 
 ...
 
 [Data](articles/980865a1.json)
+
+[Extended Data](ext_articles/980865a1.ext.json)
 
 ---
 

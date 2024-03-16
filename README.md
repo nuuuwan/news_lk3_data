@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 22:03:03**
+As of **2024-03-16 22:18:03**
 
 ## Newspaper Stats
 
-*Scraped **13,304** Articles*
+*Scraped **13,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,608
 tamilmirrorlk | 1,620
 virakesarilk | 1,852
 dailymirrorlk | 2,040
-adaderanasinhalalk | 2,103
+adaderanasinhalalk | 2,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,304 (100.0%) of 13,304 articles have been extended.
+13,304 (100.0%) of 13,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### ඉන්දීය පාර්ලිමේන්තු මැතිවරණයට දින නියමවෙයි
+
+*2024-03-16 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194584) · `si`
+
+එම මැතිවරණයේ පළමු අදියර අප්‍රේල් 19 වනදා ආරම්භ වන අතර දෙවන අදියර ආරම්භ වන්නේ අප්‍රේල් 26 වනදාය.
+
+ඉන් අනතුරුව 03 වන අදියර මැයි 07 වනදාත්,  04 වන අදියර මැයි 13 වනදාත්, 05 වන අදියර මැයි 20 වනදාත්, 06 වන අදියර මැයි 25 වනදාත්, 07 වන අදියර ජුනි 01 වනදාත් පැවැත්වීමට සියලු කටයුතු සූදානම් කර ඇත.
+
+පසුව ඡන්ද ගණන් කිරීමේ කටයුතු ජුනි මස 04 වනදා සිට සිදුකරන බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/db187c21.json)
+
+---
 
 ### Suspect injured in the murder of two in boarding room
 
@@ -2331,29 +2347,5 @@ The meeting, organized under the theme of 'Strong Futures - 2024', examined the 
 [Data](articles/34ebc652.json)
 
 [Extended Data](ext_articles/34ebc652.ext.json)
-
----
-
-### Indo -Indo -Sri Lanka relationship to strengthen
-
-*2024-03-16 03:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இலங்கை-உறவை-பலப்படுத்த-வேண்டும்/175-334738) · `ta`
-
-President Ranil Wickremesinghe called for stronger trade and economic ties between Sri Lanka and India, emphasizing the countries' religious and cultural bonds. He highlighted the need to focus on trade and economic relations, which have been overlooked.
-
-🟩
-
-President Ranil Wickremesinghe urged the two countries to strengthen the comprehensive trade and economic ties between Sri Lanka and India.
-
-The President said this while addressing a special event organized by the Sri Lanka Indian Association in Colombo yesterday to mark the 76th Independence Day of Sri Lanka and the 75th Indian Republic of India.. He further stated that
-
-There is a religious and cultural binding between Sri Lanka and India. And our two countries have a common tradition.
-
-The 75th anniversary is celebrated with the vision of the Indian Prime Minister Narendra Modi and Indian Prime Minister Narendra Modi. We are committed to continuously carrying out a visionary report that strengthens the relationship between India and Sri Lanka.
-
-...
-
-[Data](articles/6052283e.json)
-
-[Extended Data](ext_articles/6052283e.ext.json)
 
 ---

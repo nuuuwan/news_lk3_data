@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 07:52:32**
+As of **2024-03-16 08:02:48**
 
 ## Newspaper Stats
 
-*Scraped **13,206** Articles*
+*Scraped **13,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,85 @@ adaderanalk | 1,586
 tamilmirrorlk | 1,603
 virakesarilk | 1,834
 dailymirrorlk | 2,024
-adaderanasinhalalk | 2,082
+adaderanasinhalalk | 2,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,201 (100.0%) of 13,206 articles have been extended.
+13,206 (100.0%) of 13,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### ජනාධිපතිවරණය ට පොහොට්ටුවෙන් අපේක්ෂකයෙක් ?
+### පොලීසියේ ලොකු පුටුවල වෙනසක් - දකුණ භාර SDIGත් මාරු කෙරේ
+
+*2024-03-16 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194559) · `si`
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරු 08 දෙනෙකු අතුළු පොලිස් නිලධාරීන් පිරිසකට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවීම් ලබා දී තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පැවසුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරු 08 දෙනෙක්, නියෝජ්‍ය පොලිස්පතිවරයෙක්, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරු 08 දෙනෙක් සහ පොලිස් අධිකාරීවරයෙක් මෙලෙස ස්ථාන මාරු කර ඇති බවය.
+
+අපරාධ හා රථවාහන දිසාව භාරව කටයුතු කළ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා උතුරුමැද පළාතටත්, දකුණු පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස කටයුතු කළ එස්. සී . මැදවත්ත මහතා පුහුණු හා උසස් පුහුණු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙසත් මාරුක‍ර යවා තිබේ.
+
+උතුරු පළාත භාර ‍ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස කටයුතු කළ කේ. පී. එම් .ගුණරත්න මහතා බස්නාහිර පළාතටත්, ප්‍රජා පොලිස් සංචාරක හා ආයෝජන තනතුරේ කටයුතු කළ එස්.ඩබ්ලිව්.එම් සේනාරත්ත මහතා දකුණු පළාත භාර ජ්‍යෙෂ්ඨ නියොජ්‍ය පොලිස්පති ලෙස මාරු කර යවා ඇත.
+
+...
+
+[Data](articles/8b474553.json)
+
+---
+
+### A candidate for the presidential election?
 
 *2024-03-16 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194558) · `si`
 
-ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට සැලසුම් කර ඇති බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+Mahinda Rajapaksa predicts Sri Lanka Crown Front's defeat in future presidential election, without naming the candidate.
 
-ඊයේ (15) පැවති උත්සවයකින් අනතුරුව මාධ්‍යවේදීන්  නැගූ ප්‍රශ්න කිහිපයකට පිළිතුරු දෙමින් මහින්ද රාජපක්ෂ මහතා මේ බව පැවසීය.
+🟩
 
-එහිදී ඔහු සඳහන් කළේ ඉදිරියේ පැවැත්වීමට නියමිත මැතිවරණයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණ නියත වශයෙන් ජයගන්නා බවය.
+Former President Mahinda Rajapaksa says that the Sri Lankan General Front is scheduled to be tabled in the Sri Lanka Campaign Candidation for the presidential election.
 
-‍නමුත් තවමත් එම අපේක්ෂක‍යා කවුරුන්ද යන්න නම් කර ‍නොමැති බවත් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+He was responding to a few questions posed by journalists after a function held yesterday (15).
+
+He said that the Sri Lanka Crown Front will be overcome in the future.
+
+However, former President Mahinda Rajapaksa further stated that the candidate has not been named.
 
 ◼️
 
 [Data](articles/086250da.json)
 
+[Extended Data](ext_articles/086250da.ext.json)
+
 ---
 
-### පොලිස්පති පත්කිරීමට එරෙහිව FR පෙත්සමක්
+### FR petition against IGP
 
 *2024-03-16 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194557) · `si`
 
-පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා පත් කිරීම අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සමක් සලකාබැලීම සඳහා අප්‍රේල් මස 02 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+The Supreme Court appointed Deshabandu Tennakoon as IGP, despite a petition by Professor Savitri Gunasekara arguing the appointment wasn't constitutionally approved. The court ordered respondents to respond by April 2.
 
-මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය විසින් එම පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
 
-එම පෙත්සම ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ  ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවා තිබුණි.
+The Supreme Court has ordered the appointment of Deshabandu Tennakoon as the IGP.
 
-එහිදී ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියෝග කළේ වගඋත්තරකරුවන්ට නොතිසි යැවීමට පියවර ගන්නා ලෙසය.
+The petition was presented by Professor Savitri Gunasekara.
 
-අනතුරුව පෙත්සම සලකාබැලීම සඳහා අප්‍රේල් මස 02 වනදා කැඳවන ලෙස අධිකරණය නියෝග කර ඇත.
+The petition was convened before the three-member Judge Bench.
 
-පෙත්සම්කාරිය කියා සිටින්නේ පොලිස්පතිවරයා වශයෙන් පත් කිරීම සඳහා ජනාධිපතිවරයා විසින් නිර්දේශ කරනු ලැබූ දේශබන්දු තෙන්නකෝන් මහතාගේ නාම යෝජනාව ආණ්ඩුක්‍රම ව්‍යස්ථාදායක සභාව විසින් විධිමත් ආකාරයෙන් අනුමත කර නොමැති බවය.
+The Maradulla ordered the Supreme Court Badulla were ordered to be taken to respondents notice.
+
+The court ordered to be summoned on April 2 to consider the petition.
+
+The petitioner claims that the nomination of Deshabandu Tennakoon, which was recommended by the President to appoint as IGP, has not been properly approved by the Constitution.
 
 ◼️
 
 [Data](articles/6d796086.json)
+
+[Extended Data](ext_articles/6d796086.ext.json)
 
 ---
 
@@ -87,6 +117,8 @@ Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC)
 ◼️
 
 [Data](articles/a5fdbfa0.json)
+
+[Extended Data](ext_articles/a5fdbfa0.ext.json)
 
 ---
 
@@ -109,6 +141,8 @@ The source said 25 recently recruited diplomats had been referred to the Public 
 ◼️
 
 [Data](articles/54f0afba.json)
+
+[Extended Data](ext_articles/54f0afba.ext.json)
 
 ---
 
@@ -198,19 +232,25 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 
 ---
 
-### கல்வியியற்கல்லூரிகளுக்கு விண்ணப்பங்கள் கோரல்
+### Applications for academic colleges
 
 *2024-03-16 02:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியியற்கல்லூரிகளுக்கு-விண்ணப்பங்கள்-கோரல்/175-334737) · `ta`
 
-2021 மற்றும் 2022 ஆம் ஆண்டுகளுக்கான உயர்தரப் பரீட்சை பெறுபேறுகளுக்கு அமைவாக மாணவர்களை கல்வியற்கல்லூரிகளுக்கு உள்வாங்குவதற்கான விண்ணப்பங்கள் கோரப்பட்டுள்ளன.
+Academic colleges are accepting applications for 2021 and 2022 GCE A/L exams, starting from yesterday, with a deadline on the 5th of next month.
 
-நேற்று முதல் மாணவர்கள் தமது விண்ணப்பங்களை சமர்ப்பிக்க முடியும் என கல்வியமைச்சு தெரிவித்துள்ளது.
+🟩
 
-அத்துடன், அடுத்த மாதம் 5 ஆம் திகதியுடன் விண்ணப்பங்களை சமர்ப்பிப்பதற்கான காலம் நிறைவடையவுள்ளதாகவும் கல்வி அமைச்சு குறிப்பிட்டுள்ளது. (a)
+Applications have been requested for the admission of students to academic schools in accordance with the GCE A / L examination for 2021 and 2022.
+
+Students can submit their applications from yesterday, the Ministry of Education said.
+
+The Ministry of Education has stated that the time for submission of applications will be completed on the 5th of next month.. (A)
 
 ◼️
 
 [Data](articles/a115aa6d.json)
+
+[Extended Data](ext_articles/a115aa6d.ext.json)
 
 ---
 
@@ -2099,27 +2139,5 @@ Applicants should apply for online system, as applications included before 12.03
 [Data](articles/29d2c786.json)
 
 [Extended Data](ext_articles/29d2c786.ext.json)
-
----
-
-### Conductor arrested for pickpocketing
-
-*2024-03-15 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Conductor-arrested-for-pickpocketing/108-278922) · `en`
-
-Colombo, March 15 (Daily Mirror)- The conductor of a private bus on the Moratuwa – Pettah route 101 was arrested on suspicion of picking pocket.
-
-It is alleged that he was caught red handed when he stole the wallet of a passenger and a fellow passenger who had noticed it had revealed it to the owner. The passengers caught and handed him over to the police.
-
-Investigations revealed that the suspect was a drug addict and that he had resorted to stealing the money and valuables of passengers.
-
-The passenger who faced the incident was from Gampaha area travelling to Moratuwa.
-
-Police suspect the conductor for his involvement in similar previous incidents.
-
-◼️
-
-[Data](articles/3e491eca.json)
-
-[Extended Data](ext_articles/3e491eca.ext.json)
 
 ---

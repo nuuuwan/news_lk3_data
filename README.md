@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 09:33:36**
+As of **2024-03-16 09:52:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,214 (100.0%) of 13,217 articles have been extended.
+13,217 (100.0%) of 13,217 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,31 @@ Senior DIG K. P. M. Gunaratne has been transferred from the position of Senior D
 
 [Data](articles/5ed115c4.json)
 
+[Extended Data](ext_articles/5ed115c4.ext.json)
+
 ---
 
-### ඔටාවා ඛේදවාචකය - අවසන් කටයුතු හෙට
+### The funeral tomorrow
 
 *2024-03-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194560) · `si`
 
-කැනඩාවේ ඔටාවා නුවරට තදාසන්න බාහීවන් ප්‍රදේශයේ සිය නිවසේ දී ඝාතනයට ලක්වූ ලාංකික පවුලේ සාමාජිකයින්ගේ අවසන් කටයුතු හෙට (17) සිදුකිරීමට නියමිත බව දැනුම් දී තිබේ.
+A funeral for Sri Lankan family members killed in Canada is scheduled for tomorrow at 1:00 PM, organized by Buddhist activities in Canada. It's open to the public and multi-religious, with the family's father, Dhanushka Wickremasinghe, expected to attend.
 
-කැනඩාවේ බෞද්ධ කටයුතු කොංග්‍රසය විසින් මෙම කටයුතු සංවිධානය කර ඇති අතර එරට ‍වෙලාවෙන් පස්වරු 01.00 එම කටයුතු සිදුකරන බව සඳහන් වේ.
+🟩
 
-එය බහු ආගමික, මහජනයා සඳහා විවෘත කටයුත්තක් ලෙස සංවිධානය කර ඇත.
+The funeral of the Sri Lankan family members who were killed in their home in the house of Canada to be held tomorrow (17).
 
-අවසන් කටයුතු සඳහා ප්‍රහාරයකට මුහුණ දුන් එම පවුලේ පියා වන ධනුෂ්ක වික්‍රමසිංහ ද සහභාගීවීමට නියමිතය.
+The activities have been organized by Buddhist activities in Canada and 01.00 pm in the country.
+
+It is organized as an open purpose for multi-religious and public.
+
+The father of the family, Dhanushka Wickremasinghe, is also expected to attend a funeral.
 
 ◼️
 
 [Data](articles/a0d92dec.json)
+
+[Extended Data](ext_articles/a0d92dec.ext.json)
 
 ---
 
@@ -571,6 +579,8 @@ The 14 REOIs were received from Epdesa Pte Ltd – Singapore, Bharat Petroleum C
 ...
 
 [Data](articles/5c0f1239.json)
+
+[Extended Data](ext_articles/5c0f1239.ext.json)
 
 ---
 

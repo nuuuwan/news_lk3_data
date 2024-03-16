@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 02:18:13**
+As of **2024-03-17 02:33:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,315 (100.0%) of 13,316 articles have been extended.
+13,316 (100.0%) of 13,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### 18 பொலிஸ் அதிகாரிகளுக்கு இடமாற்றம்
+### Transfer to 18 police officers
 
 *2024-03-17 01:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-பொலிஸ்-அதிகாரிகளுக்கு-இடமாற்றம்/175-334777) · `ta`
 
-சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர்கள் 8 பேர் உள்ளிட்ட 18 பொலிஸ் அதிகாரிகளுக்கு இடமாற்றம் வழங்கப்பட்டுள்ளது.
+18 police officers transferred: 8 senior chiefs, 8 senior deputies, 1 deputy, and 8 superintendents promoted. Directive from Inspector General of Police.
 
-தேசிய பொலிஸ் ஆணைக்குழுவின் தீர்மானத்திற்கு அமைவாக, இடமாற்றம் மற்றும் புதிய நியமனங்களுக்கு பொலிஸ்மா அதிபர் பணிப்புரை விடுத்ததாக பொலிஸ் ஊடகப்பிரிவு குறிப்பிட்டுள்ளது.
+🟩
 
-இதன் படி, சிரேஷ்ட பிரதி பொலிஸ்மா அதிபர்கள் 08 பேர் மற்றும் பிரதி பொலிஸ்மா அதிபர் ஒருவருக்கு இடமாற்றம் வழங்கப்பட்டுள்ளது.
+Eight police officers, including eight senior police chiefs, have been transferred.
 
-அத்துடன், சிரேஷ்ட பொலிஸ் அத்தியட்சகர்கள் 8 பேருக்கு இடமாற்றம் மற்றும் பதவி உயர்வு வழங்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு குறிப்பிட்டுள்ளது. (a)
+According to the Police Media Division, the Inspector General of Police has issued a directive for relocation and new appointments in accordance with the resolution of the National Police Commission.
+
+Accordingly, eight Senior Deputy Inspector General of Police and a Deputy Inspector General of Police have been transferred.
+
+In addition, eight senior police superintendents have been transferred and promoted, the Police Media Division said. (A)
 
 ◼️
 
 [Data](articles/a6cc6cca.json)
+
+[Extended Data](ext_articles/a6cc6cca.ext.json)
 
 ---
 

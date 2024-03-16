@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 12:03:04**
+As of **2024-03-16 12:17:54**
 
 ## Newspaper Stats
 
-*Scraped **13,240** Articles*
+*Scraped **13,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 719
 adalk | 1,131
 adaderanalk | 1,594
 tamilmirrorlk | 1,610
-virakesarilk | 1,838
+virakesarilk | 1,841
 dailymirrorlk | 2,031
 adaderanasinhalalk | 2,087
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,087
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,236 (100.0%) of 13,240 articles have been extended.
+13,240 (100.0%) of 13,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### அரச வெசாக் பண்டிகை இவ்வருடம் மாத்தளையில் நடாத்த தீர்மானம்
+
+*2024-03-16 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178845) · `ta`
+
+2024 ஆம் ஆண்டின் அரச வெசாக் பண்டிகை மாத்தளையில் நடாத்துவதற்கு அரசு தீர்மானித்துள்ளது.
+
+வெசாக் பண்டிகைக்கான  ஏற்பாடுகளை மேற்கொள்வதற்கான கூட்டம் புத்தசாசன மற்றும் கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க தலைமையில் மாவட்ட செயலகத்தில் இடம்பெற்றது.
+
+இதன்போது, மே 21 முதல் 27 வரை மாத்தளை நகரத்திலும் மாவட்டத்தின் பதினொரு பிரிவுகளிலும் கொண்டாட்டங்கள் நடைபெறும் புத்தசாசன, மத மற்றும் கலாசார விவகாரங்களுக்கான அமைச்சர் விதுர விக்கிரமநாயக்க தெரிவித்துள்ளார்.
+
+வெசாக் பண்டிகையின் போது மாவட்டத்தில் உள்ள அனைத்து பௌத்த வழிபாட்டுத் தலங்களுக்கும் பாதுகாப்பை வழங்குவதற்கு பொலிஸார் மற்றும் பாதுகாப்புப் பிரிவினரின் விபரங்களை வழங்க பாதுகாப்பு அமைச்சு நடவடிக்கை எடுக்கும்.
+
+அத்துடன், ஒவ்வொரு வழிபாட்டுத் தலத்துக்கும் குறைந்தது பத்து பாதுகாப்புப் பணியாளர்கள் மற்றும் பொலிஸார் பொறுப்பாக இருப்பார்கள் என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3a0af882.json)
+
+---
 
 ### Reservoir water capacities decrease to 70%, no issues with electricity generation
 
@@ -48,27 +68,35 @@ The total electricity generation for yesterday was 49.46 GWh, and 25.6% of the e
 
 [Data](articles/0b260444.json)
 
+[Extended Data](ext_articles/0b260444.ext.json)
+
 ---
 
-### බිරිඳගේ ගෙලට කතුරෙන් පහරදුන් සැමියා පොලීසියට එයි
+### The husband who attacked the wife's nephew
 
 *2024-03-16 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194564) · `si`
 
-වත්තල නගරයේ පිහිටි වෛද්‍ය පරීක්ෂණ ආයතනයක සේවය කරමින් සිටි කාන්තාවකට තියුණු ආයුධයකින් පහරදී බරපතළ තුවාල සිදුකර තිබේ.
+A 24-year-old woman from Maskeliya was severely injured at her job in Wattala. Her husband attacked her, assaulting her neck. He was arrested by Wattala Police.
 
-පහරදීමෙන් බරපතළ තුවාල ලැබූ එම කාන්තාව මේ වනවිට ප්‍රතිකාර ගනිමින් සිටින බව පොලීසිය පවසයි.
+🟩
 
-මෙලෙස පහරකෑමට ලක්වී ඇත්තේ 24 හැවිරිදි මස්කෙළිය ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+A woman who was working in a Medical Testing Company in Wattala was severely injured and injured.
 
-ඊයේ (15) උදෑසන මෙම කාන්තාව සේවය කරමින් සිටි වෛද්‍ය පරීක්ෂණ ආයතනය වෙත පැමිණ ඇති ඇයගේ සැමියා ඇයත් සමඟ අරවුලක් ඇති කරගෙන තිබේ.
+The woman who was seriously injured in the attack is being treated.
 
-පසුව එය දුරදිගයාමත් සමගම එම ස්ථානයේම තිබු කතුරකින් සැකකාර සැමියා ඇයගේ ගෙල ප්‍රදේශයට පහරදී ඇති බව පොලිස් විමර්ශනවලදී හෙළිවී ඇත.
+The victim was a resident of the 24-year-old Maskeliya area.
 
-පසුව සැකකරු වත්තල පොලීසිය වෙත ඉදිරිපත්වී ඇති අතර එහිදී ඔහුව අත්අඩංගුවට ගෙන තිබේ.
+Her husband had come to the Medical Testing Company of the woman yesterday morning (15).
+
+Police investigations have revealed that at the scene of the scene after the distance, he had assaulted her neck area.
+
+The suspect had come to Wattala Police and he was arrested.
 
 ◼️
 
 [Data](articles/00d04a6e.json)
+
+[Extended Data](ext_articles/00d04a6e.ext.json)
 
 ---
 
@@ -172,6 +200,24 @@ If any political party does not come forward to support those policies, they wil
 
 ---
 
+### யாழ். வட்டுக்கோட்டை இளைஞன் கொலை ; கடற்படையின் செயற்பாடுகள் தொடர்பில் விசாரணைகளை ஆரம்பித்த மனித உரிமைகள் ஆணைக்குழு
+
+*2024-03-16 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178844) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை இளம் குடும்பஸ்தர் கொலை தொடர்பில் கடற்படையினரின் செயற்பாடுகள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகம் தனது விசாரணைகளை  வெள்ளிக்கிழமை (15) ஆரம்பித்துள்ளது.
+
+வட்டுக்கோட்டை - மாவடி பகுதியைச் சேர்ந்த தவச்செல்வம் பவித்திரன் (வயது 23) என்ற குடும்பஸ்தர் குழு ஒன்றினால் கடத்தப்பட்டு சித்திரவதை செய்யப்பட்டு கொலை செய்யப்பட்டார்.
+
+குறித்த சம்பவத்துடன் கடற்டையினரின் செயற்பாடுகள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகம் ஊடகங்களில் வெளியாகிய செய்திகள் மற்றும் காணொளிகளின் அடிப்படையில் தனது சொந்தப் பிரேரணையாக எடுத்து குறித்த விசாரணைகளை ஆரம்பித்துள்ளது.
+
+கொலை செய்யப்பட்ட குடும்பஸ்தரும் அவரது மனைவியும் காரைநகரில் இருந்து வட்டுக்கோட்டை - மாவடியில் உள்ள வீட்டுக்கு சென்றுகொண்டிருந்தவேளை பொன்னாலை கடற்படை முகாமுக்கு அருகாமையில் இரண்டு கார்களில் ஆயுதங்களுடன் நின்ற சிலர் அவர்களை வழி மறித்தனர்.
+
+...
+
+[Data](articles/fdf841e2.json)
+
+---
+
 ### Death on the mountain of Sivanolipada person in Wellawatte
 
 *2024-03-16 11:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெள்ளவத்தை-நபர்-சிவனொளிபாத-மலையில்-மரணம்/76-334743) · `ta`
@@ -272,27 +318,29 @@ Madurankuliya Police are conducting further investigations.
 
 ---
 
-### Water usage increases by 15%; use sparingly: Water Board
+### மீள்வலுசக்தி திட்டத்திற்காக அதானி இலஞ்சம் வழங்கினாரா? - அமெரிக்கா விசாரணை
 
-*2024-03-16 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-usage-increases-by-15-use-sparingly-Water-Board/108-278988) · `en`
+*2024-03-16 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178842) · `ta`
 
-Colombo, March 16 (Daily Mirror) - Due to the current dry weather, the usage of water has increased by 15%, and the National Water Supply and Drainage Board (NWS&DB) requests that consumers use water sparingly, NWS&DB Deputy General Manager Anuja Kaluarachchi said.
+இந்தியாவின் ஆதானி குழுமங்களின் தலைவர் கவுதம் அதானி இலஞ்சம்வழங்கினாரா என்பது குறித்து அமெரிக்கா விசாரணைகளை ஆரம்பித்துள்ளது.
 
-She told the media that water is currently being released from six water supply systems in Hatton, Gampalawatta, Urubokka, Pussellawa, Pussella and Kotagala for the requirements of the consumers.
+கவுதம அதானியின் நிறுவனம் இலஞ்சம் வழங்கும்; நடவடிக்கைகளில் ஈடுபட்டதா என்பது குறித்தும் அந்த நிறுவனத்தின் ஸ்தாபகர் கவுதம் அதானியின் நடவடிக்கைகள் குறித்தும் அமெரிக்கா விசாரணைகளை ஆரம்பித்துள்ளது.
 
-Meanwhile, the Disaster Management Centre (DMC) said that three thousand families in Kegalle and Kurunegala are facing drinking water problems.
+எரிசக்தி திட்டமொன்மொன்றிற்காக இந்திய அதிகாரிகளிற்கு கவுதம் அதானியின் நிறுவனம் அல்லது அதனுடன் தொடர்புட்டவர்கள் இலஞ்சம் வழங்கினார்களா என்பது குறித்து விசாரணைகள் இடம்பெறுகின்றன.
+
+இந்தியாவின் மீளவலுசக்தி நிறுவனமான அசுரே பவர் குறித்தே விசாரணைகள் இடம்பெறுகின்றன.இதேவேளை எங்களுக்கு விசாரணைகள் குறித்து எதுவும் தெரியாது என கௌதம்  அதானி மின்னஞ்சல் அறிக்கையில் தெரிவித்துள்ளார்.
+
+எங்கள் வர்த்தக குழுமம் உயர் தராதரங்களின் அடிப்படையில் செயற்படுகின்றது என அவர் தெரிவித்துள்ளார்.
 
 ◼️
 
-[Data](articles/2a095c56.json)
-
-[Extended Data](ext_articles/2a095c56.ext.json)
+[Data](articles/7a27340a.json)
 
 ---
 
 ### Dehiwala, Ratmalana, Moratuwa, Panadura, Waduvai, Waskaduwa Area
 
-*2024-03-16 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178841) · `ta`
+*2024-03-16 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178841) · `ta`
 
 The National Water Supply and Drainage Board faces challenges in providing water to Dehiwala, Ratmalana, Moratuwa, Panadura, Vadduwa, and Waskaduwa due to severe drought and increased irrigation. They've called for water users' support and understanding to conserve water.
 
@@ -311,6 +359,24 @@ Therefore, the National Water Supply and Drainage Board has called for the suppo
 [Data](articles/477547c9.json)
 
 [Extended Data](ext_articles/477547c9.ext.json)
+
+---
+
+### Water usage increases by 15%; use sparingly: Water Board
+
+*2024-03-16 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-usage-increases-by-15-use-sparingly-Water-Board/108-278988) · `en`
+
+Colombo, March 16 (Daily Mirror) - Due to the current dry weather, the usage of water has increased by 15%, and the National Water Supply and Drainage Board (NWS&DB) requests that consumers use water sparingly, NWS&DB Deputy General Manager Anuja Kaluarachchi said.
+
+She told the media that water is currently being released from six water supply systems in Hatton, Gampalawatta, Urubokka, Pussellawa, Pussella and Kotagala for the requirements of the consumers.
+
+Meanwhile, the Disaster Management Centre (DMC) said that three thousand families in Kegalle and Kurunegala are facing drinking water problems.
+
+◼️
+
+[Data](articles/2a095c56.json)
+
+[Extended Data](ext_articles/2a095c56.ext.json)
 
 ---
 
@@ -789,6 +855,8 @@ Wickremesinghe is considering to contest under a grand coalition in the presiden
 ...
 
 [Data](articles/1e2effbc.json)
+
+[Extended Data](ext_articles/1e2effbc.ext.json)
 
 ---
 
@@ -1786,17 +1854,23 @@ Accordingly, the train reservations have been allocated to the railway station, 
 
 ---
 
-### දෙවැනි එක්දින තරගය ලංකාව ජය ගනියි
+### Sri Lanka wins second ODI
 
 *2024-03-15 22:01:54* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-එක්දින-තරගය-ලංකාව-ජය-ගනියි/9-408634) · `si`
 
-සත්කාරක බංග්ලාදේශ කණ්ඩායම කඩුලු 3කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති දෙවැනි එක්දින තරගය ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය ඒ අනුව තරග තුනකින් සමන්විත එක්දින තරගාවලිය 1-1ක් ලෙස දෙරටට විවෘත විය.
+Sri Lanka wins the 2nd ODI against Bangladesh by 3 wickets, with Bangladesh scoring 286/7 and Sri Lanka achieving the target in 47.1 overs.
 
-මුලින්ම පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායම කඩුලු 7ට ලකුණු 286ක් රැස්කළ අතර ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 47.1කදී කඩුලු හතක් දැවී එම ඉලක්කය පසුකර ගියේය.
+🟩
+
+The Sri Lankan team was able to win the second ODI between the two countries by defeating the Host Bangladesh by 3 wickets.
+
+Bangladesh scored 286 runs for the loss of 07 wickets while Sri Lanka won the target for seven wickets in 47.1 overs.
 
 ◼️
 
 [Data](articles/7152d484.json)
+
+[Extended Data](ext_articles/7152d484.ext.json)
 
 ---
 
@@ -2077,81 +2151,5 @@ However, the ICC has also announced that the second batting team should be throw
 [Data](articles/16392a77.json)
 
 [Extended Data](ext_articles/16392a77.ext.json)
-
----
-
-### Jaffna in a strong position of the Hindus. Hindu: Bambalapitiya curled up to Hindu 80;Yall. Hindu 150 - 4 wig.
-
-*2024-03-15 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/178824) · `ta`
-
-Bambalapitiya Hindu, in Jaffna, scored 80 in the first innings, with Muthukumar Abhishek (14), Sri Nitusan (12), Ramaraj Diljan (11), and Bala Darunjan (10) contributing. Sudarshan Subarman took 3 wickets. In reply, they lost 4 wickets and scored 150, with Krishnarajan Parasith and Jagadeesan Bhavanan sharing 69 runs.
-
-🟩
-
-Bambalapitiya Hindu - Jaffna. Jaffna Cricket in the 13th Hindus between Hindu Colleges. The Hindu team is strong.
-
-Bambalapatti, who decided to bat first in the upting match, scored just 80 runs for the loss of all wickets in its first innings.
-
-Among them, Muthukumar Abhishek scored 14 runs.
-
-Sri Nitusan scored 12 runs, Ramaraj Diljan 11 and team captain Bala Darunjan scored 10 runs. The total number of Bambalapitiya Hindu was the second highest number of the second.
-
-In the bowling, Sudarshan Subarman took 3 wickets in 14 overs, including 5 overs, Srijayanthan Hariharan took 3 wickets for 36 runs in 17 overs, while Yogalan Sarujan took 2 wickets for 3 runs in 9.1 overs.
-
-In reply, Bambalapitiya Hindu first day, at the end of the first day of the game, losing 4 wickets and scoring 150 runs.
-
-Krishnarajan Parasith and Jagadeesan Bhavanan shared 69 runs and made the outstanding start.
-
-Subsequently, Lokeswaran Priyanthan (19) and Anton Vidushan (2) were out for less.
-
-...
-
-[Data](articles/0891fc22.json)
-
-[Extended Data](ext_articles/0891fc22.ext.json)
-
----
-
-### Department of Modeling: Fake Doctor Arrested
-
-*2024-03-15 20:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாடலிங்-துறை-போலி-வைத்தியர்-கைது/76-334720) · `ta`
-
-A fake doctor from Rajawelli, Kandy, was arrested for advertising young girls on Facebook, leading to harassment complaints from 15 women.
-
-🟩
-
-A fake doctor from Rajawelli, Kandy, has been arrested for advertising young girls to the hotel for advertising in the homepage.
-
-The fake doctor has been arrested on a complaint lodged by 15 women.
-
-The suspect, who advertised on Facebook, has received their photos and taken video of women, and has invited the selected girls to interview separately.
-
-Investigations have been found that the suspect who identified himself as a doctor has received naked photos of young girls and threatened them and subjected to various harassment.
-
-◼️
-
-[Data](articles/5379341b.json)
-
-[Extended Data](ext_articles/5379341b.ext.json)
-
----
-
-### Adani Green Energy officials meet with Minister Kanchana
-
-*2024-03-15 20:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/97982/adani-green-energy-officials-meet-with-minister-kanchana) · `en`
-
-Two senior officials of Adani Green Energy have held talks with Minister of Power and Energy Kanchana Wijesekera on Thursday (March 14).
-
-Sagar Adani, the Executive Director of Adani Green Energy and Anil Sardana, the Managing Director and CEO of Adani Energy Solutions called on Wijesekera at the Ministry of Power & Energy.
-
-The visiting officials are in Sri Lanka to participate in the negotiations and discussions on the power purchase agreement for the Mannar and Pooneryn 484 MW wind energy project, the minister said in a post on his X handle (formerly Twitter).
-
-The project expects to add 250 MW in Mannar and 234 MW in Pooneryn to the national grid.
-
-◼️
-
-[Data](articles/3a018611.json)
-
-[Extended Data](ext_articles/3a018611.ext.json)
 
 ---

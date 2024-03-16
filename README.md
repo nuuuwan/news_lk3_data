@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 15:02:55**
+As of **2024-03-16 15:17:59**
 
 ## Newspaper Stats
 
-*Scraped **13,265** Articles*
+*Scraped **13,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 1,599
 tamilmirrorlk | 1,610
 virakesarilk | 1,847
 dailymirrorlk | 2,036
-adaderanasinhalalk | 2,092
+adaderanasinhalalk | 2,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,264 (100.0%) of 13,265 articles have been extended.
+13,265 (100.0%) of 13,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කරයි
+
+*2024-03-16 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194571) · `si`
+
+අද (16) උදෑසන කාලයේදී වැලිගම උයන්කන්ද ප්‍රදේශයේදී පුද්ගලයෙකුව ඝාතනය කර තිබේ.
+
+තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+මියගිය පුද්ගලයා සහ සැකකරු සංචාරක හෝටල් දෙකක් පවත්වාගෙන යන අතර අද දින හෝටල් දෙකට යාබදව වෙරළ ආසන්නයේ පිහිටි ගසක් කැපීම හේතුවෙන් ඇතිවූ ආරවුලක් දුරදිග යෑමෙන් සැකකරුගේ බිරිඳ, දරුවන් සහ ඥාතීන් විසින් මරණකරුට පහරදී තිබේ.
+
+එම අවස්ථාවේදී සැකකරු විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බව හෙළිවී ඇත.
+
+◼️
+
+[Data](articles/067bf79a.json)
+
+---
+
+### Demonstration in Vavuniya seeking justice
+
+*2024-03-16 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178868) · `ta`
+
+A rally in Vavuniya demanded justice for arrests on Vedukkuni hill, starting at the old bus station, passing through Vavuniya Manukkuttu Tower to Iluppaiyadi, and ending at the Vavuniya Prison. Protesters carried slogans against police anarchy, property rights, and religious freedom.
+
+🟩
+
+A demonstration rally was held on Saturday (16) demanding justice for those arrested on the Vedukkuni hill.
+
+The protest was held in front of the old bus station in Vavuniya and the rally had reached the Vavuniya city through the Vavuniya Manukkuttu Tower and reached Iluppaiyadi.
+
+The demonstration was held in front of the Archaeological Department and the rally was completed in front of the Vavuniya Prison.
+
+The protesters carried the slogans, such as' the police anarchy, our property, our property, our arrests, do not prevent worship, do not prevent the worship of Shiva, the North -East Tamil homeland, do not lie, stop Buddhism. "
+
+◼️
+
+[Data](articles/c6848635.json)
+
+[Extended Data](ext_articles/c6848635.ext.json)
+
+---
 
 ### Gotabaya lacked basic management skills: Ven. Muruththettuwe Ananda Thera
 
@@ -50,29 +92,7 @@ Ven. Ananda Thera further said that the Maha Sangha, including him, worked hard 
 
 [Data](articles/2ad35918.json)
 
----
-
-### Demonstration in Vavuniya seeking justice
-
-*2024-03-16 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178868) · `ta`
-
-A rally in Vavuniya demanded justice for arrests on Vedukkuni hill, starting at the old bus station, passing through Vavuniya Manukkuttu Tower to Iluppaiyadi, and ending at the Vavuniya Prison. Protesters carried slogans against police anarchy, property rights, and religious freedom.
-
-🟩
-
-A demonstration rally was held on Saturday (16) demanding justice for those arrested on the Vedukkuni hill.
-
-The protest was held in front of the old bus station in Vavuniya and the rally had reached the Vavuniya city through the Vavuniya Manukkuttu Tower and reached Iluppaiyadi.
-
-The demonstration was held in front of the Archaeological Department and the rally was completed in front of the Vavuniya Prison.
-
-The protesters carried the slogans, such as' the police anarchy, our property, our property, our arrests, do not prevent worship, do not prevent the worship of Shiva, the North -East Tamil homeland, do not lie, stop Buddhism. "
-
-◼️
-
-[Data](articles/c6848635.json)
-
-[Extended Data](ext_articles/c6848635.ext.json)
+[Extended Data](ext_articles/2ad35918.ext.json)
 
 ---
 
@@ -2131,21 +2151,5 @@ The All Share Price Index went up by 18.79 points, while the S and P SL 20 rose 
 [Data](articles/245e451c.json)
 
 [Extended Data](ext_articles/245e451c.ext.json)
-
----
-
-### Standard Chartered’s global research team offers economic perspectives for global and Sri Lankan markets
-
-*2024-03-15 23:27:00* · [`islandlk`](http://island.lk/standard-chartereds-global-research-team-offers-economic-perspectives-for-global-and-sri-lankan-markets/) · `en`
-
-Standard Chartered Bank’s Global Research team conducted its 2024 H1 Global Research Briefing (GRB) in Sri Lanka recently, themed ‘A soft landing, with risks’. The event took place on 4 March at the Galle Face Hotel Colombo and was attended by corporate, commercial and institutional banking clients of the Bank. It provided a valuable platform for participants to gain insights on the global and Sri Lankan economic outlooks for the first half of 2024.
-
-The briefing opened with welcome remarks from Anuk De Silva, Head of Corporate Affairs, Brand & Marketing at Standard Chartered Sri Lanka, followed by an opening address by Bingumal Thewarathanthri, CEO of Standard Chartered Sri Lanka. Central Bank Governor, Dr. Nandalal Weerasinghe, delivered the keynote speech.
-
-...
-
-[Data](articles/25ed6396.json)
-
-[Extended Data](ext_articles/25ed6396.ext.json)
 
 ---

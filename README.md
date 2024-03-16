@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 18:08:54**
+As of **2024-03-16 18:20:12**
 
 ## Newspaper Stats
 
-*Scraped **13,287** Articles*
+*Scraped **13,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,131
 adaderanalk | 1,602
 tamilmirrorlk | 1,619
 virakesarilk | 1,850
-dailymirrorlk | 2,038
+dailymirrorlk | 2,039
 adaderanasinhalalk | 2,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,286 (100.0%) of 13,287 articles have been extended.
+13,287 (100.0%) of 13,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### New mobile application promoting beach cleanliness to be launched
+
+*2024-03-16 17:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-mobile-application-promoting-beach-cleanliness-to-be-launched/108-279000) · `en`
+
+Colombo, March 16 (Daily Mirror)- Steps have been taken to launch a new mobile application "Beach Clean-up Coordination APP" aimed at enhancing the cleanliness and waste management on beaches, Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka said.
+
+This was revealed during a discussion at the Presidential Secretariat.
+
+The introduction of this mobile application is facilitated through the intervention of the Coastal Conservation Protection Authority, the President's Media Division (PMD) said.
+
+It aims to formalize coordination among institutions and organizations engaged in the sustainable development of coastal and marine environments.
+
+Sagala Ratnayaka emphasized the importance of commitment from all institutions responsible for ensuring the sustainability of ocean and coastal areas in maintaining cleanliness.
+
+He highlighted that the new mobile application will serve as a tool to facilitate these activities effectively, the PMD said.
+
+...
+
+[Data](articles/3aa9aca8.json)
+
+---
 
 ### Dermatologists raise concerns about skin diseases as extreme heat prevails
 
@@ -47,6 +69,8 @@ Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing 
 ...
 
 [Data](articles/4620955c.json)
+
+[Extended Data](ext_articles/4620955c.ext.json)
 
 ---
 
@@ -2257,21 +2281,5 @@ Lenses and other medical items were donated by V. Sarveshwaran , who is a well-k
 [Data](articles/664606dc.json)
 
 [Extended Data](ext_articles/664606dc.ext.json)
-
----
-
-### Indian High Commissioner visits Southern Province
-
-*2024-03-16 00:19:08* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-visits-Southern-Province/56-759572) · `en`
-
-Indian High Commissioner Santosh Jha became the first Indian High Commissioner in recent times to undertake a standalone visit to Southern Province, as he held diverse engagements in Galle, Matara and Hambantota Districts on 6 to 7 March.
-
-The High Commissioner met the Governor of the Province Dr. Willie Gamage on 6 March and highlighted several projects undertaken by Government of India (GOI) in the region. He also expressed willingness to carry out more projects for the benefit of the people in the Province through grant assistance as well as investments. The Governor thanked the High Commissioner for GOI’s diverse initiatives.
-
-...
-
-[Data](articles/f5de84d0.json)
-
-[Extended Data](ext_articles/f5de84d0.ext.json)
 
 ---

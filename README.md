@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 17:03:04**
+As of **2024-03-16 17:18:02**
 
 ## Newspaper Stats
 
-*Scraped **13,284** Articles*
+*Scraped **13,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,53 @@ adaderanalk | 1,600
 tamilmirrorlk | 1,619
 virakesarilk | 1,850
 dailymirrorlk | 2,038
-adaderanasinhalalk | 2,096
+adaderanasinhalalk | 2,097
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,283 (100.0%) of 13,284 articles have been extended.
+13,284 (100.0%) of 13,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### “என்னை நிம்மதியாக போக விடுங்கள் சகோதரர்களே”
+### පොලිස් නිලධාරීන් දෙදෙනෙකුගේ වැඩ තහනම්
+
+*2024-03-16 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194576) · `si`
+
+අම්බලන්ගොඩ පොලිස් ස්ථානයට අනුයුක්ත පොලිස් කොස්තාපල්වරුන් දෙදෙනෙකුගේ වැඩ තහනම් කර තිබේ.
+
+රාජකාරිය පැහැර හැරීමේ චෝදනාව යටතේ ඔවුන් දෙදෙනා වැඩ තහනමට ලක් කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා පැවසීය.
+
+සංවිධානාත්මක අපරාධකරුවෙකු හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ‘‘සමන් කොල්ලා‘‘ යන අයගේ නිවසට පසුගියදා වෙඩි ප්‍රහාරයක් එල්ලවු අතර ඒ සම්බන්ධයෙන් පොලිස් හදිසි ඇමතුම් අංශයට ලද පණිවුඩය පිළිබඳව මූලස්ථාන පොලිස් පරීක්ෂකවරයා දැනුවත් නොකිරීම මෙම වැඩතහනමට හේතුවී තිබේ.
+
+මෙලෙස වැඩ තහනමට ලක්වී ඇත්තේ එම අවස්ථාවේ අම්බලන්ගොඩ පොලිස් ස්ථානයේ දුරකථන ක්‍රියාකරු සහ පරිගණක ක්‍රියාකරු ලෙස සේවය කළ පොලිස් කොස්තාපල්වරුන් දෙදෙනාය.
+
+◼️
+
+[Data](articles/7cc27902.json)
+
+---
+
+### "Let me go peacefully, brothers"
 
 *2024-03-16 16:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/என்னை-நிம்மதியாக-போக-விடுங்கள்-சகோதரர்களே/73-334760) · `ta`
 
-வடமராட்சி கிழக்கு நாகர் கோவில் கடற்பகுதியில் அந்தியெட்டிக் கிரியை நிறைவேற்றப்பட்ட மிதவை ஒன்று இன்று காலை கரையொதுங்கியுள்ளது.
+"Parameswari - let me go in peace, brothers. A float in the Vadamarachchi East Nagar Temple has been fulfilled this morning."
 
-“பரமேஸ்வரி - என்னை நிம்மதியாக போக விடுங்கள் சகோதரர்களே”  போன்ற வாசகங்கள் எழுதப்பட்டுள்ளது.
+🟩
+
+A float in the Vadamarachchi East Nagar Temple is a float that has been fulfilled this morning.
+
+The words "Parameswari - let me go in peace, brothers".
 
 ◼️
 
 [Data](articles/b7990228.json)
+
+[Extended Data](ext_articles/b7990228.ext.json)
 
 ---
 
@@ -2241,29 +2265,5 @@ Master Classes will also be held on the 16th of March at the University of Kattu
 [Data](articles/be7db8b7.json)
 
 [Extended Data](ext_articles/be7db8b7.ext.json)
-
----
-
-### 2024-03-15 (Friday)
-
-### Current Govt. not SLPP says Basil
-
-*2024-03-15 23:55:08* · [`dailyftlk`](https://www.ft.lk/news/Current-Govt-not-SLPP-says-Basil/56-759559) · `en`
-
-SLPP founder Basil Rajapaksa says current Govt. cannot be unequivocally labelled as being led by his party
-
-Notes only four SLPP district leaders have been appointed as cabinet ministers
-
-Stresses five out of nine provinces lack SLPP ministerial representation
-
-Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa this week suggested that despite the SLPP’s majority support, the current Government cannot be unequivocally labelled as being led by the party.
-
-In a televised interview upon his return to the country, Rajapaksa highlighted that only four district leaders of the SLPP have been appointed as cabinet ministers, prompting him to have doubts about whether this Government is genuinely led by the SLPP.
-
-...
-
-[Data](articles/3e88253b.json)
-
-[Extended Data](ext_articles/3e88253b.ext.json)
 
 ---

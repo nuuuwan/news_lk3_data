@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 02:04:05**
+As of **2024-03-17 02:18:13**
 
 ## Newspaper Stats
 
-*Scraped **13,315** Articles*
+*Scraped **13,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 710
 islandlk | 720
 adalk | 1,136
 adaderanalk | 1,610
-tamilmirrorlk | 1,620
+tamilmirrorlk | 1,621
 virakesarilk | 1,853
 dailymirrorlk | 2,041
 adaderanasinhalalk | 2,104
@@ -26,9 +26,29 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,315 (100.0%) of 13,315 articles have been extended.
+13,315 (100.0%) of 13,316 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-17 (Sunday)
+
+### 18 பொலிஸ் அதிகாரிகளுக்கு இடமாற்றம்
+
+*2024-03-17 01:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-பொலிஸ்-அதிகாரிகளுக்கு-இடமாற்றம்/175-334777) · `ta`
+
+சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர்கள் 8 பேர் உள்ளிட்ட 18 பொலிஸ் அதிகாரிகளுக்கு இடமாற்றம் வழங்கப்பட்டுள்ளது.
+
+தேசிய பொலிஸ் ஆணைக்குழுவின் தீர்மானத்திற்கு அமைவாக, இடமாற்றம் மற்றும் புதிய நியமனங்களுக்கு பொலிஸ்மா அதிபர் பணிப்புரை விடுத்ததாக பொலிஸ் ஊடகப்பிரிவு குறிப்பிட்டுள்ளது.
+
+இதன் படி, சிரேஷ்ட பிரதி பொலிஸ்மா அதிபர்கள் 08 பேர் மற்றும் பிரதி பொலிஸ்மா அதிபர் ஒருவருக்கு இடமாற்றம் வழங்கப்பட்டுள்ளது.
+
+அத்துடன், சிரேஷ்ட பொலிஸ் அத்தியட்சகர்கள் 8 பேருக்கு இடமாற்றம் மற்றும் பதவி உயர்வு வழங்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a6cc6cca.json)
+
+---
 
 ### 2024-03-16 (Saturday)
 
@@ -2361,33 +2381,5 @@ However, former President Mahinda Rajapaksa further stated that the candidate ha
 [Data](articles/086250da.json)
 
 [Extended Data](ext_articles/086250da.ext.json)
-
----
-
-### FR petition against IGP
-
-*2024-03-16 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194557) · `si`
-
-The Supreme Court appointed Deshabandu Tennakoon as IGP, despite a petition by Professor Savitri Gunasekara arguing the appointment wasn't constitutionally approved. The court ordered respondents to respond by April 2.
-
-🟩
-
-The Supreme Court has ordered the appointment of Deshabandu Tennakoon as the IGP.
-
-The petition was presented by Professor Savitri Gunasekara.
-
-The petition was convened before the three-member Judge Bench.
-
-The Maradulla ordered the Supreme Court Badulla were ordered to be taken to respondents notice.
-
-The court ordered to be summoned on April 2 to consider the petition.
-
-The petitioner claims that the nomination of Deshabandu Tennakoon, which was recommended by the President to appoint as IGP, has not been properly approved by the Constitution.
-
-◼️
-
-[Data](articles/6d796086.json)
-
-[Extended Data](ext_articles/6d796086.ext.json)
 
 ---

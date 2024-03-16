@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 16:02:51**
+As of **2024-03-16 16:18:06**
 
 ## Newspaper Stats
 
-*Scraped **13,276** Articles*
+*Scraped **13,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,599
-tamilmirrorlk | 1,614
+adaderanalk | 1,600
+tamilmirrorlk | 1,616
 virakesarilk | 1,850
 dailymirrorlk | 2,037
 adaderanasinhalalk | 2,095
@@ -26,27 +26,89 @@ adaderanasinhalalk | 2,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,274 (100.0%) of 13,276 articles have been extended.
+13,276 (100.0%) of 13,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### තෙවන තරගයට පෙර බංගලියන්ගේ වෙනසක්
+### ஜே.வி.பிக்கு கிளிநொச்சியில் தனிநபர் எதிர்ப்பு
+
+*2024-03-16 16:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜே-வி-பிக்கு-கிளிநொச்சியில்-தனிநபர்-எதிர்ப்பு/71-334757) · `ta`
+
+கிளிநொச்சியில் இன்று நடைபெற்ற தேசிய மக்கள் சக்தியின்    மாநாட்டை எதிர்த்து தனிநபர் ஒருவர் போராட்டம் ஒன்றை நடத்தியுள்ளார்.
+
+குறித்த போராட்டமானது இன்றையதினம் (16.03.2024) கிளிநொச்சியில் தேசிய மக்கள் சக்தியின்  மாநாடு நடைபெறும் மண்டபத்திற்கு எதிரே முன்னெடுக்கப்பட்டுள்ளது.
+
+போராட்டக்காரர் ஏந்தியுள்ள பதாதைகளில் 'இணைந்த வடக்கு கிழக்கை நீதிமன்றம் வரை சென்று பிரித்த பெருமை ஜேவிபியையே சாரும்' மற்றும் 'சொந்த இனத்தையே அழித்த ஜேவிபி எங்கள் இனத்துக்கு எவ்வாறு தீர்வு தரும்' போன்ற வாசகங்கள் குறிப்பிடப்பட்டுள்ளன.
+
+கரைச்சி பிரதேச சபையின் முன்னாள் உறுப்பினர் சண்முகம் ஜீவராஜ் இவ்வாறு எதிர்ப்பினை வெளியிட்டிருந்தார்.
+
+மக்கள் சந்திப்பு இடம்பெற்ற பகுதியை அண்மித்து A-9 வீதியில் இவ்வாறு அவர் பதாதைகளை கட்டி எதிர்ப்பில் ஈடுபட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/72ccd0e9.json)
+
+---
+
+### President looks into issues facing gem and jewellery sector, promises concessions
+
+*2024-03-16 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97995/president-looks-into-issues-facing-gem-and-jewellery-sector-promises-concessions) · `en`
+
+President Ranil Wickremesinghe has unveiled plans to provide concessions to those who engaged in the gems and jewellery sector.
+
+This initiative comes in response to the challenges faced by the industry, with the President emphasizing the importance of addressing these issues to support those involved in the field, the President’s Media Division (PMD) said.
+
+By offering solutions to the problems within the industry, relief will be extended to its stakeholders, ensuring their continued growth and prosperity.
+
+The President, clarifying that immediate changes to the tax policy are not feasible, noted that efforts, however, would be made to devise an effective system to enhance the gem and jewellery industry.
+
+Wickremesinghe directed officials to develop a viable system aimed at bolstering the gem and jewellery industry. He instructed them to collaborate with both the public and private sectors to draft a proposal addressing these issues within two weeks.
+
+...
+
+[Data](articles/c534d79e.json)
+
+---
+
+### Change of bungalls before the third match
 
 *2024-03-16 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194574) · `si`
 
-ශ්‍රී ලංකාව සමග පැවැත්වෙන තෙවන එක්දින ක්‍රිකට් තරගයෙන් බංග්ලාදේශ කණ්ඩායමේ ආරම්භක පිතිකරු ලිටන් දාස් ඉවත් කර තිබේ.
+Litton Das replaces Bangladesh's founding batsman for the 3rd ODI against Sri Lanka. Jacker to join the team. Bangladesh participates in Dhaka Premier League.
 
-එරට ක්‍රිකට් කළමනාකාරීත්වය විසින් ඔහු ඩකා ප්‍රිමියර් ලීග් තරගාවලිය සඳහා සහභාගී කරවීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+🟩
 
-ජකීර් අලී ව ඔහු වෙනුවට බංග්ලාදේශ කණ්ඩායමට කැඳවීමට නියමිතව ඇති බව සඳහන් ය.
+Litton Das has removed the founding batsman of the Bangladesh team from the third one day cricket match with Sri Lanka.
 
-ශ්‍රී ලංකා කණ්ඩායම සමග පැවැත්වෙන එක්දින ක්‍රිකට් තරගාවලියේ පළමු සහ දෙවන තරගයන් හීදී ලිටන් දාස් ලකුණු නොලබා දැවී ගියේය.
+It is reported that the cricket management has decided to participate in the Dhaka Premier League.
+
+It is said that Jacker is scheduled to be summoned to the Bangladesh team.
+
+Litton Das was bowled out for the first and second matches of the One Day Cricket Tournament with the Sri Lankan team.
 
 ◼️
 
 [Data](articles/eeb365cd.json)
+
+[Extended Data](ext_articles/eeb365cd.ext.json)
+
+---
+
+### ரஷிய தேர்தலில் விறுவிறுப்பு: மீண்டும் புட்டின் ஜனாதிபதியாக   வாய்ப்பு
+
+*2024-03-16 15:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷிய-தேர்தலில்-விறுவிறுப்பு-மீண்டும்-புட்டின்-ஜனாதிபதியாக-வாய்ப்பு/50-334756) · `ta`
+
+ரஷியாவில் புதிய ஜனாதிபதியை தேர்வு செய்வதற்கான தேர்தல்  வெள்ளிக்கிழமை (15) தொடங்கியது. இந்த தேர்தல் இன்றும், நாளையும் நடக்கிறது. உக்ரேனுடான மத்தியில் ரஷியா முழுவதிலும் அமைதியாக வாக்குப்பதிவு நடைபெற்று வருகிறது.
+
+நாடு முழுவதும் 1 லட்சம் வாக்குச்சாவடிகள் அமைக்கப்பட்டு ஜனாதிபதி தேர்தல் தொடங்கியுள்ளது. காலை முதல் மக்கள் ஆர்வமுடன் வாக்களித்து வருகின்றனர். ரஷ்ய பகுதிகள் மற்றும் ரஷ்யாவுடன் இணைக்கப்பட்ட உக்ரேன் பகுதிகளில் உள்ள மக்கள் முதல் முறையாக இந்த தேர்தலில் வாக்களிக்கின்றனர்.
+
+இந்த தேர்தலில் நான்குமுனை போட்டி நிலவுகிறது. ஜனாதிபதி  புட்டின்  சுயேட்சையாக போட்டியிடும் சூழலில் கம்யூனிஸ்ட் கட்சி, தேசிய சுதந்திர ஜனநாயக கட்சி,  புதிய மக்கள் கட்சி ஆகியவை களத்தில் உள்ளன. வலுவான எதிர்க்கட்சி வேட்பாளர் இல்லாததால்  புட்டின்  5-வது முறையாக அதிபராக வெற்றி பெறுவார் என்று எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/30ed3adc.json)
 
 ---
 
@@ -120,27 +182,33 @@ Vadamarachchi East Maruthankeni. A fisherman who went to the sea in the early ho
 
 ---
 
-### මත්ද්‍රව්‍ය භාවිත කරන බස් රියදුරන් අත්අඩංගුවට
+### Bus drivers arrested
 
 *2024-03-16 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194572) · `si`
 
-බස්නාහිර පළාත් බුද්ධි නිලධාරීන්ගෙන් ලද තොරතුරක් මත වේල්ලවීදිය පොලීසිය අද (16) විශේෂ මෙහෙයුමක් සිදුකර තිබුණි.
+Vellawese police arrested eight individuals, including drug dealers, near Colombo bus stands. The operation was based on intelligence from the Western Province.
 
-එහිදී හෙරොයින්, අයිස් මත්ද්‍රව්‍ය සහ තවත් මත්ද්‍රව්‍ය වර්ග භාවිත කරන පෞද්ගලික බස් රියදුරන් සහ කොන්දොස්තරවරුන් ඇතුළු පුද්ගලයින් 08 දෙනෙකු පමණ අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-කොළඹ බැස්ටියන් මාවත සහ ගුණසිංහපුර බස් නැවතුම්පොළ ආශ්‍රිතව මෙම වැටලීම් සිදුකර ඇත.
+The Vellawese police had conducted a special operation today (16) on information received from Western Province intelligence.
 
-මෙම පුද්ගලයා අත්අඩංගුවට ගැනීමෙන් පසුව ඔහුගේ ජංගම දුරකථනයට ගැණුම්කරුවන් විශාල පිරිසකගෙන්  ඇමතුම් ලැබුණු බව වේල්ලවීදිය පොලිසිය පවසයි.
+There have been about eight persons including heroin, ice drugs and other drugs and other drugs.
 
-එම පුද්ගලයාගේ ජංගම දුරකථනයට ලැබුණු ඇමතුම් අනුව පොලීසිය විසින් අදාළ පුද්ගලයන්ව හඳුනාගෙන ඇත.
+The raids have been carried out along the Bastian Mawatha and Gunasinghepura bus stand in Colombo.
 
-පොලීසිය සඳහන් කළේ සිවිල් ඇඳුමින් සැරසුණු පොලිස් නිලධාරින් අදාළ මත්ද්‍රව්‍ය අලෙවිකරු සමග ගොස් බස් රියදුරන් සහ කොන්දොස්තරවරුන් අත්අඩංගුවට ගත් බවය.
+After the arrest of the man, the Welella Street Sweesi police said.
 
-මත්ද්‍රව්‍යවලට ඇබ්බැහි වී සිටින රියදුරුන් හා කොන්දොස්තරවරුන් දිනකට රුපියල් 1,200 සිට රුපියල් 2,400 දක්වා මුදල්වලට මෙම මත්ද්‍රව්‍ය රැගෙන පාවිච්චි කිරීමට පුරුදුවී සිටින බවද මෙහිදී හෙළිවී තිබේ.
+The police have identified the individuals by the call received by the person's mobile phone.
+
+Police said the police were arrested with the drug and conductors with the drug dealer in civilian clothes.
+
+Drug addicts have been used to use the drug from Rs. 1,200 per day to Rs. 2,400 per day.
 
 ◼️
 
 [Data](articles/8de9a650.json)
+
+[Extended Data](ext_articles/8de9a650.ext.json)
 
 ---
 
@@ -2167,53 +2235,5 @@ For ancient history we are dependent on those who recorded them, in times when l
 [Data](articles/66baa55e.json)
 
 [Extended Data](ext_articles/66baa55e.ext.json)
-
----
-
-### Kala Pola 2024 – A spectacular celebration of Sri Lankan visual art
-
-*2024-03-15 23:35:00* · [`islandlk`](http://island.lk/kala-pola-2024-a-spectacular-celebration-of-sri-lankan-visual-art/) · `en`
-
-Kala Pola 2024 – Sri Lanka’s Annual Open Air Art Fair – held on February 18th along Ananda Coomaraswamy Mawatha, Colombo 7 brought success for both artists and visitors alike, generating estimated sales of approximately Rs. 51 million, excluding commissioned artwork.
-
-Commemorating its 31st year, Kala Pola is Sri Lanka’s largest and longest-running platform for artists and sculptors to showcase their talent and connect with buyers, industry professionals, and the artist community. A long-term collaboration of the George Keyt Foundation and John Keells Group, the event drew a tremendous response, attracting 368 artists and an estimated 38,000 visitors (including both footfall and vehicular presence in the event area).
-
-...
-
-[Data](articles/75b6e6da.json)
-
-[Extended Data](ext_articles/75b6e6da.ext.json)
-
----
-
-### Unilever and IDB partner to uplift SMEs and livelihoods
-
-*2024-03-15 23:35:00* · [`islandlk`](http://island.lk/unilever-and-idb-partner-to-uplift-smes-and-livelihoods/) · `en`
-
-Unilever Sri Lanka and the Industrial Development Board (IDB) signed a three-year memorandum of understanding to uplift SMEs in Sri Lanka. This is a public private partnership between Unilever and the IDB to jointly support the growth and development of 20 Micro Small & Medium Scale entrepreneurs in Sri Lanka every year through the Industrial Development Fund (IDF). The IDF, under the supervision of the Industrial Development Board, and conforming to guidelines of the Central Bank of Sri Lanka provides financial capital in the form of low interest, repayable loans to Micro, Small and Medium Enterprises (MSMEs), enabling them to commence or expand local manufacturing in sectors prioritized by the Ministry of Industries to fuel an export-oriented economy. The first batch of loans were handed over to 10 female micro entrepreneurs at the occasion of the International Women’s Day on the 12th of March 2024.
-
-...
-
-[Data](articles/96886e84.json)
-
-[Extended Data](ext_articles/96886e84.ext.json)
-
----
-
-### CA Sri Lanka forum debate challenges and explores solutions to SOE restructuring
-
-*2024-03-15 23:34:20* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-forum-debate-challenges-and-explores-solutions-to-SOE-restructuring/34-759544) · `en`
-
-From left: Arjuna Herath, Suresh Shah, Reyaz Mihular and Dr. Indrajit Coomaraswamy
-
-Stepping up in its standing as the National Body of Accountants and as a leading professional body, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) took the initiative to bring together experts to focus on the highly debated restructuring process of State-Owned Enterprises (SOEs).
-
-The enlightening forum held recently, in collaboration with the Ministry of Finance, Economic Stabilisation, and National Policies, served as a pertinent platform that brought together prominent figures representing the Government, industry and corporate to discuss and debate critical issues and explore potential solutions related to SOE restructuring in the country.
-
-...
-
-[Data](articles/26b77bb0.json)
-
-[Extended Data](ext_articles/26b77bb0.ext.json)
 
 ---

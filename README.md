@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 22:50:28**
+As of **2024-03-17 00:47:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,305 (100.0%) of 13,308 articles have been extended.
+13,308 (100.0%) of 13,308 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Reportedly, one of the detainees, a 50-year-old Indonesian, had been working as 
 ...
 
 [Data](articles/879181f4.json)
+
+[Extended Data](ext_articles/879181f4.ext.json)
 
 ---
 
@@ -73,6 +75,8 @@ The BJP, led by Mr Modi, had won a staggering 303 of the 543 seats in the 2019 e
 ...
 
 [Data](articles/665d4de1.json)
+
+[Extended Data](ext_articles/665d4de1.ext.json)
 
 ---
 
@@ -1237,6 +1241,8 @@ The hotline, introduced under the instructions of the President, was launched in
 ◼️
 
 [Data](articles/84b2e7fc.json)
+
+[Extended Data](ext_articles/84b2e7fc.ext.json)
 
 ---
 

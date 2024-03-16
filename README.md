@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 12:33:10**
+As of **2024-03-16 12:49:05**
 
 ## Newspaper Stats
 
-*Scraped **13,244** Articles*
+*Scraped **13,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ islandlk | 719
 adalk | 1,131
 adaderanalk | 1,594
 tamilmirrorlk | 1,610
-virakesarilk | 1,841
+virakesarilk | 1,844
 dailymirrorlk | 2,031
-adaderanasinhalalk | 2,088
+adaderanasinhalalk | 2,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,243 (100.0%) of 13,244 articles have been extended.
+13,244 (100.0%) of 13,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### கடல் தொழிலுக்கு சென்ற மீனவர் மாயம் ; தேடும் பணி தீவிரம்
+
+*2024-03-16 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178852) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கிழக்கு மருதங்கேணியை சேர்ந்த கடற்தொழிலாளர் ஒருவர் இன்று சனிக்கிழமை (16) அதிகாலை  கடலில் தொழிலுக்கு சென்ற நிலையில்  இன்னும் கரை திரும்பாமல் காணாமல் போயுள்ளார் அவர் சென்ற தெப்பம் மட்டும்  கரையொதுங்கி உள்ளது.
+
+மருதங்கேணி வடக்கைச் சேர்ந்த 60 வயதுடைய  முத்துச்சாமி தவராசா  என்பவரே  காணாமல் போயுள்ளார். காணமல் போனவரை தேடும்பணியில்  மீனவர்களும் கடற்படையினரும்  ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7a4e6dc4.json)
+
+---
+
+### ඇන්ටාක්ටිකාවේ කලාප රැසක කුරුලු උණ
+
+*2024-03-16 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194566) · `si`
+
+ඇන්ටාක්ටිකාවේ කලාප රැසක කුරුලු උණ ව්‍යාප්ත වෙමින් පවතින බව විදෙස් මාධ්‍ය පවසයි.
+
+ඒ හේතුවෙන් එහි පවතින පෙන්ගුයින් ජනපදවලට වැඩි බලපෑමක් එල්ලවී ඇති බවද මෙම වාර්තාවල වැඩිදුරටත් දැක්වෙයි.
+
+ඇන්ටාක්ටිකාව පුරා කුරුලු උණ රෝගය එනම් H5N1 වෛරසය ව්‍යාප්ත වෙමින් පවතින බව වාර්තා වූයේ පසුගිය මාසයේදීය.
+
+එතැන් පටන් එය මුහුදු ලිහිණියන් වැනි කුරුල්ලන් අතර මෙන්ම පෙන්ගුයින් සත්ත්වයින් අතර ද ව්‍යාප්ත වෙමින් පවතින බවටද ඉන් අනතුරුව වාර්තා විය.
+
+මෙය මාරාන්තික තත්ත්වයක් වීමේ අවදානමක් පවතින බව විද්‍යාඥයින් මේ වනවිට අනාවැකි පළකර ඇත.
+
+පර්යේෂකයින්ට අනුව අන්ටාක්ටිකාවෙන් පළමුවරට කුරුලු උණ වැලඳුණු කුරුල්ලන් හ﻿ඳුනාගෙන ඇත්තේ ඇන්ටාක්ටිකා ප්‍රධාන භූමියෙනි.
+
+◼️
+
+[Data](articles/a02569e6.json)
+
+---
+
+### மனிதாபிமான பொருட்களுடன் காசாவை சென்றடைந்தது கப்பல்- மனிதாபிமான நெருக்கடிக்கு தீர்வை காண்பதற்கு தொடர்ந்தும் முயற்சி
+
+*2024-03-16 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178850) · `ta`
+
+பட்டினியின் பிடியில் காசா சிக்குண்டுள்ளதாகஐநா எச்சரித்துள்ள நிலையில் சைப்பிரசிலிருந்து இந்த கப்பல் 200 தொன் மனிதாபிமான பொருட்களுடன் செவ்வாய்கிழமை புறப்பட்டது.
+
+தற்காலிகமாக உருவாக்கப்பட்ட ஜெட்டிகளை பயன்படுத்தி கிரேன்களில் இருந்து பொருட்கள் இறக்கப்பட்டு லொறிகளில் ஏற்றப்படுவதை காண்பிக்கும் படங்கள் வெளியாகியுள்ளன.
+
+காசாவிற்குள் தரைமார்க்கமாகவும் ஆகாயமார்க்கமாகவும் மனிதாபிமான பொருட்களை விநியோகிப்பது கடினமானதாக காணப்படுகின்ற நிலையில் இந்த முயற்சி இடம்பெறுகின்றமை குறிப்பிடத்தக்கது.
+
+உணவுகளை வழங்கிய வேர்ல்ட் சென்ரல் கிட்ச்சன் ஐக்கிய அரபு இராச்சியத்தின்  உதவியுடன் இந்த நடவடிக்கையை முன்னெடுத்துள்ளது.
+
+◼️
+
+[Data](articles/fdd0d412.json)
+
+---
+
+### யாழில் கரையொதுங்கிய மிதவையால் பரபரப்பு!
+
+*2024-03-16 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178849) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கிழக்கு நாகர் கோவில் கடற்பகுதியில் அந்தியெட்டிக்கிரியை நிறைவேற்றப்பட்ட மிதவை ஒன்று இன்று சனிக்கிழமை (16) காலை கரையொதுங்கியுள்ளது.
+
+“பரமேஸ்வரி..., என்னை நிம்மதியாக போக விடுங்கள் சகோதரர்களே!, Let me go in peace brothers.” போன்ற வாசகங்கள் எழுதப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/66c3a3b2.json)
+
+---
 
 ### State Vesak Festival
 
@@ -58,17 +126,23 @@ Defense Minister Premit Bandara Tennakoon said that at least ten security person
 
 ---
 
-### ශ්‍රී ලංකා කණ්ඩායමට අලුත් වේගපන්දු පුහුණුකරුවෙක්
+### New fast bowl trainee for Sri Lankan team
 
 *2024-03-16 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194565) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ වේගපන්දු යවන පුහුණුකරු ලෙස පාකිස්තානයේ හිටපු වේගපන්දු යවන ක්‍රීඩක අකීබ් ජාවෙඩ් පත්කර ඇත.
+Arch Jawward, former fast bowler, is now the Sri Lankan cricket team's fast bowler coach, with the ICC's T20 team assisting until the World Cup ends.
 
-2024 ICC පිරිමි T20 ලෝක කුසලාන තරගාවලිය අවසන් වන තෙක් ඔහු ශ්‍රී ලංකා කණ්ඩායම සමග කටයුතු කරනු ඇති බව වාර්තා වෙයි.
+🟩
+
+Former fast bowler, Arch Jawward was appointed as the fast bowler coach of the Sri Lankan cricket team.
+
+It is reported that the ICC's T20 will work with the Sri Lankan team until the end of the World Cup.
 
 ◼️
 
 [Data](articles/dfcb4ce5.json)
+
+[Extended Data](ext_articles/dfcb4ce5.ext.json)
 
 ---
 
@@ -2067,93 +2141,5 @@ The petitions were filed by President’s Secretary Saman Ekanayake, former Navy
 [Data](articles/38aa5b1f.json)
 
 [Extended Data](ext_articles/38aa5b1f.ext.json)
-
----
-
-### Public funeral for Ottawa mass killing victims on Sunday
-
-*2024-03-15 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/97983/public-funeral-for-ottawa-mass-killing-victims-on-sunday-) · `en`
-
-A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
-
-In a news release Thursday, the Buddhist Congress of Canada (BCC) said the multi-faith service will be at 1 p.m. at the Infinity Convention Centre on Gibford Drive south of Ottawa’s core.
-
-Four children and two adults were killed in a townhouse in the Ottawa suburb of Barrhaven March 6.
-
-Police identified five of the victims as a family of newcomers to Canada from Sri Lanka.
-
-35-year-old Darshani Dilanthika Ekanayake, was killed along with her four young children — daughters Kelly, who was two months old; Ranaya, 3; and Ashwini, 4 — and son Inuka, 7.
-
-The body of another man, 40-year-old Gamini Amarakoon, was also found at the scene.
-
-There was one survivor — Dhanushka Wickramasinghe, who was injured with an edged weapon and taken to hospital.
-
-...
-
-[Data](articles/332f467c.json)
-
-[Extended Data](ext_articles/332f467c.ext.json)
-
----
-
-### Minister orders inquiry into male zebra’s death at Dehiwala Zoo
-
-*2024-03-15 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-orders-inquiry-into-male-zebras-death-at-Dehiwala-Zoo/108-278950) · `en`
-
-Colombo, March 15 (Daily Mirror) -  Wildlife and Forest Conservation Minister Pavithra Wanniarachchi has ordered an inquiry into the unexpected death of the only male zebra at the National Zoological Garden in Dehiwala.
-
-It was reported that the zebra died while being brought from Ridiyagama Safari Park to Dehiwala Zoo for breeding purposes four days earlier.
-
-The zebra was received by the county from China via an animal exchange programme six years ago, and it was taken to the Ridiyagama Safari Park.
-
-The male zebra was brought to the Dehiwala zoo for breeding purposes, and there are only two female zebras living in the zoo.
-
-The Dehiwala Zoo employees claimed that the zebra died due to overdosing on some medicines given to it while on its way to the zoo. The employees held a protest at the Dehiwala Zoo, demanding an impartial inquiry over the sudden death of the only zebra.
-
-...
-
-[Data](articles/ac3a2373.json)
-
-[Extended Data](ext_articles/ac3a2373.ext.json)
-
----
-
-### Call 117 if there is no drinking water
-
-*2024-03-15 20:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-இல்லையென்றால்-117-க்கு-அழைக்கவும்/175-334721) · `ta`
-
-Dial 117 for water shortage info. 3,000 families in Kegalle and Kurunegala districts affected.
-
-🟩
-
-People in the areas where drinking water shortage can be informed by the District Risk Management Center through the number 117.
-
-About 3,000 families in Kegalle and Kurunegala districts are facing a drinking water problem.
-
-◼️
-
-[Data](articles/2f85be52.json)
-
-[Extended Data](ext_articles/2f85be52.ext.json)
-
----
-
-### Sri Lanka study finds public preference for authoritarianism
-
-*2024-03-15 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-study-finds-public-preference-for-authoritarianism-154769/) · `en`
-
-ECONOMYNEXT – A survey has found that 1 in 10 Sri Lankans show a preference for authoritarianism, a phenomenon last observed to be high in 2018, a survey on democracy and reconciliation conducted by the Centre for Policy Alternatives (CPA) has found.
-
-“Though more than three-quarter of Sri Lankans show preference for democratic governance over other types of governance, the recent survey findings are that one 1 of every 10 Sri Lankans agree that ‘In certain situations, a dictatorial government can be preferable to a democratic one’,” the survey found.
-
-The CPA, a policy think-tank based in Colombo, conducted its social indicator survey titled ‘Survey on Democracy and Reconciliation in Sri Lanka’ for the eighth year in January, with 1,350 participants across 25 districts in the island.
-
-“The survey series shows that this support for dictatorial government was high during 2018 amidst the political chaos of the Sirisena-Wickremesinghe government.”
-
-...
-
-[Data](articles/94ea17fc.json)
-
-[Extended Data](ext_articles/94ea17fc.ext.json)
 
 ---

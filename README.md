@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 18:33:12**
+As of **2024-03-16 18:50:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,098
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,288 (100.0%) of 13,290 articles have been extended.
+13,290 (100.0%) of 13,290 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ The international food insecurity watchdog, the IPC, is expected to report soon 
 
 [Data](articles/83cc6637.json)
 
+[Extended Data](ext_articles/83cc6637.ext.json)
+
 ---
 
-### 2027 දී 2018 තත්ත්වය යළි උදා කරගන්න ඕනේ - ජනපති
+### The 2018 situation has to be replaced in 2027 - President
 
 *2024-03-16 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194578) · `si`
 
-2027 වසරේදි 2018 වසරේ මෙරට තිබු ආර්ථික තත්ත්වය යළි උදා කරගැනීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe aims to overcome Sri Lanka's 2018 economic situation by 2027, targeting 2% economic growth annually. Discussions in Colombo focused on development programs and future challenges, aiming for 2% growth by 2024, with a goal to achieve this before 2019.
 
-ඊයේ කොළඹ පැවති වැඩසටහනකදී ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ මේ වසරේදී 2%ක ආර්ථික වර්ධනයක් ද බලාපොරොත්තු වන බවය.
+🟩
 
-රජය ක්‍රියාත්මක කර ඇති සංවර්ධන වැඩසටහන්වල ප්‍රගතිය පිළිබඳ දිස්ත්‍රික් ලේකම්වරු සහ ප්‍රාදේශීය ලේකම්වරුන් සමග ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ කොළඹදී සාකච්ඡාවක නිරත වුණි.
+President Ranil Wickremesinghe says that in 2027, the year 2018 will be aiming to have to overcome the economic situation in Sri Lanka.
 
-"සවිමත් අනාගතයට පෙරවදනක් – 2024" යන තේමාව යටතේ සංවිධානය කර තිබූ මෙම හමුවේදී රජය විසින් ක්‍රියාවට නංවා ඇති සංවර්ධන වැඩසටහන් සහ ඒවා ක්‍රියාත්මක කිරීමේදී මතුව ඇති ගැටලු පිළිබඳව දීර්ඝ ලෙස සාකච්ඡාවට ලක් කෙරුණි.
+The President added that this year also expects a 2% economic growth this year.
 
-"අප මෙම 2024 වසරේදී 2%ක ආර්ථික වර්ධනයක් ලබා ගැනීමට අපේක්ෂා කරනවා. අප මෙම වසරේදී 2%ක ආර්ථික වර්ධනයක් ලබාගත්ත ද 2019 වසරේ පැවති තත්ත්වයට පැමිණීමට තව වසර දෙක තුනක් පමණ ගතවනු ඇති. කෙසේ වෙතත් 2027 වසරට හෝ ඊට පෙර එම ඉලක්කය වෙත ළඟා වීම මගේ අරමුණයි."
+President Ranil Wickremesinghe held a discussion in Colombo yesterday with the progress of the development programs implemented by the government.
+
+The meeting was organized under the theme of "the strongest future - 2024" The meeting was organized by the government, the development programs implemented by the government and the problems of the government were discussed at length.
+
+"We are looking to achieve 2% economic growth in this 2024. Although we have achieved 2% economic growth this year, it will take about two to three years to come to the year 2019. However, it is my goal to reach that goal of 2027 before. "
 
 ◼️
 
 [Data](articles/17942c89.json)
+
+[Extended Data](ext_articles/17942c89.ext.json)
 
 ---
 

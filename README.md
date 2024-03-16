@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 13:17:57**
+As of **2024-03-16 13:33:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,248 (100.0%) of 13,251 articles have been extended.
+13,251 (100.0%) of 13,251 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,6 +100,8 @@ During his tenure as coach, the UAE National Team has obtained ODI and T20I stat
 
 [Data](articles/0a95e5f1.json)
 
+[Extended Data](ext_articles/0a95e5f1.ext.json)
+
 ---
 
 ### Governemnt’s poor management creates issues for consumers
@@ -117,6 +119,8 @@ Addressing the media, he said Consumer Rights Day was declared to protect the ri
 ...
 
 [Data](articles/5d75294a.json)
+
+[Extended Data](ext_articles/5d75294a.ext.json)
 
 ---
 
@@ -1847,6 +1851,8 @@ The briefing opened with welcome remarks from Anuk De Silva, Head of Corporate A
 ...
 
 [Data](articles/25ed6396.json)
+
+[Extended Data](ext_articles/25ed6396.ext.json)
 
 ---
 

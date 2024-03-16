@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 06:16:38**
+As of **2024-03-16 06:52:25**
 
 ## Newspaper Stats
 
-*Scraped **13,195** Articles*
+*Scraped **13,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,49 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 708
-islandlk | 717
+islandlk | 719
 adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,601
 virakesarilk | 1,834
-dailymirrorlk | 2,021
+dailymirrorlk | 2,023
 adaderanasinhalalk | 2,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,195 (100.0%) of 13,195 articles have been extended.
+13,195 (100.0%) of 13,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### A possible alliance?
+
+*2024-03-16 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/A-possible-alliance/110-278974) · `en`
+
+Former President Chandrika  Bandaranaike Kumaratunga in conversation with SJB Leader Sajith  Premadasa at a Bleedgood project launch on Thursday. However, other  possible allies seem to be absent. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/2e83f641.json)
+
+---
+
+### Senior CID officers to be transferred over links to underworld drug dealer
+
+*2024-03-16 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-CID-officers-to-be-transferred-over-links-to-underworld-drug-dealer/108-278964) · `en`
+
+The Police Headquarters is reportedly in the process of revamping the Criminal Investigation Department (CID) and accordingly, a group of police officers including high-ranking officers within the CID, is set to be transferred over alleged ties with notorious underworld drug dealer Nadun Chinthaka alias ‘Harak Kata’, the Daily Mirror learns.
+
+Nadun Chinthaka and one of his accomplices Salindu Malshika alias “Kudu Salindu,” were arrested in Madagascar on March 01, 2023 in a joint operation by INTERPOL, Malagasy law enforcement authorities, and Customs officials.
+
+...
+
+[Data](articles/884d5ece.json)
+
+---
 
 ### Trinity towards the Interesting decision - Antonian Samar
 
@@ -635,6 +661,20 @@ The newly established laboratory offers a comprehensive range of analytical serv
 [Data](articles/886b48b8.json)
 
 [Extended Data](ext_articles/886b48b8.ext.json)
+
+---
+
+### LOLC champions female diversity and leadership
+
+*2024-03-15 23:28:00* · [`islandlk`](http://island.lk/lolc-champions-female-diversity-and-leadership/) · `en`
+
+LOLC Holdings PLC, the premier multinational conglomerate spanning over 25 countries across Asia, Africa, and Australia, proudly celebrated International Women’s Day under the theme, “Count Her In.”
+
+This year’s commemoration of women within the LOLC Group highlighted the organization’s commitment to female diversity and leadership, uniting the extraordinary achievements, resilience, and leadership spirit of its female staff. The focal point of this year’s International Women’s Day was the symposium held at LOLC’s head office, featuring two impactful sessions: “LOLC Spotlights” and the “LOLC Panel Discussion.”
+
+...
+
+[Data](articles/1f6a9f5b.json)
 
 ---
 
@@ -2091,85 +2131,5 @@ Applicants should apply to the return of the applicants since the application is
 [Data](articles/3ef1b828.json)
 
 [Extended Data](ext_articles/3ef1b828.ext.json)
-
----
-
-### Is Putin's hopes fail?
-
-*2024-03-15 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194543) · `si`
-
-Putin seeks 5th term victory in Russia's presidential election. For the first time, online voting is available in 29 regions. Sri Lanka's 71-year-old President Mahinda Rajapaksa, re-elected since 2000, faces Putin. Despite challenges, Putin's rule is approved by 85% of Russians, and he has no main opponents.
-
-🟩
-
-The Russian presidential election has already begun that the Vladimir Putin is seeking a constant victory for the fifth time.
-
-The Russian Embassy of the Russian Embassy in the area and the Russian Embassy in the area have also been voted to the Russian embassy.
-
-For the first time in 29 regions, voters have been given the opportunity to vote for the online system.
-
-In many areas, the voting will be voted from 8:00 am to 8 pm.
-
-The 71-year-old President of Sri Lanka was re-elected to the year 2000 in Russia since the year 2000, 2012 and 2018.
-
-According to an order on the orders of the President of Poutin in 2021, he could compete for two years.
-
-According to the year 2036, there is a chance to carry the Russian presidenger until 2036.
-
-If the presidential election will be won, the President's Putin Soviet Farin became the highest number of Russia after Joseph Stalin, a leader of the Soviet Union.
-
-...
-
-[Data](articles/eaec54c9.json)
-
-[Extended Data](ext_articles/eaec54c9.ext.json)
-
----
-
-### Sri Lanka CEB experienced staff in alarming exodus after inflation, taxes: Union
-
-*2024-03-15 15:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-experienced-staff-in-alarming-exodus-after-inflation-taxes-union-154770/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board is losing qualified engineers at an alarming rate, after a currency collapse and new progressive taxes slapped on the debased salary, and they are not coming back, union officials said.
-
-Ceylon Electricity Board has a cadre of around 1,000 engineers but they have been usually managing with lower levels of around 900, they said.
-
-Since 2022, about 150 have left the CEB for foreign countries, leading to serious gaps in some branches with engineering staff down to about 750, Dhanushka Parakramasinghe, President of the CEB Engineers Union told reporters in Colombo.
-
-Sri Lanka’s rupee collapsed from 200 to 330 to the US dollar in 2022 after two years of money printed by macro-economists to target ‘potential output’ using ‘data driven’ monetary policy, followed by a float failure with a surrender rule.
-
-About 105 engineers have resigned and about 54 have taken leave, Parakramasinghe said.
-
-...
-
-[Data](articles/68f127f4.json)
-
-[Extended Data](ext_articles/68f127f4.ext.json)
-
----
-
-### Demonstration demanding the release of those arrested on the hill
-
-*2024-03-15 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/178801) · `ta`
-
-A demonstration in Nedungeni, Vavuniya, demanded the release of eight, including a priest, arrested at Adi Shiva Temple. Protesters marched through Nedungeni, protested at Vavuniya North Divisional Secretariat, and blocked the Nedungeni police station, raising slogans against the police and Forest Department. The protest ended at the bus station, with slogans against police anarchy and calls to stop Buddhism. TNA parliamentarians and civil activists were present.
-
-🟩
-
-A demonstration rally was held today (15) in Nedungeni, Vavuniya, demanding the release of eight persons including the priest who was arrested at the Adi Shiva Temple at the Adi Shiva Temple.
-
-The protest march, which began at Nedungeni town junction, went through the Nedungeni -Puliyankulam road and held a demonstration at the Vavuniya North Divisional Secretariat and handed over to the Assistant Divisional Secretary.
-
-The protesters then stood at the Gate of the Forest Department and raised slogans against the Forest Department and then went from there and blocked the Nedungeni police station.
-
-At this time, the police officers attempted to talk to the demonstrators, but the protesters raised the slogans against the police.. There was tension in the area and the police were on duty at the police station.
-
-People who staged a protest in front of the police station for about half an hour and then went from there and completed the demonstration at the bus station.
-
-...
-
-[Data](articles/63bc4fd9.json)
-
-[Extended Data](ext_articles/63bc4fd9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 22:33:18**
+As of **2024-03-16 22:50:28**
 
 ## Newspaper Stats
 
-*Scraped **13,305** Articles*
+*Scraped **13,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,608
+adaderanalk | 1,610
 tamilmirrorlk | 1,620
 virakesarilk | 1,852
-dailymirrorlk | 2,040
+dailymirrorlk | 2,041
 adaderanasinhalalk | 2,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,305 (100.0%) of 13,305 articles have been extended.
+13,305 (100.0%) of 13,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Over 150 illegal immigrants including Sri Lankans apprehended in Malaysia
+
+*2024-03-16 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98003/over-150-illegal-immigrants-including-sri-lankans-apprehended-in-malaysia) · `en`
+
+As many as 158 illegal immigrants including Sri Lankans were detained in Malaysia for residing there without valid visas or permits and overstaying their allowed duration, foreign media reported.
+
+Citing Perak Immigration Director Meor Hezbullah Meor Abdul Malik, the Malaysian National News Agency ‘Bernama’ said the illegal immigrants were apprehended during a raid conducted at the Bercham Flats in Perak.
+
+Among the detainees were 83 men, 54 women, 8 boys and 3 girls – all aged between 9 and 60 years hailing from Indonesia, Nepal, Myanmar, China, Pakistan, Sri Lanka and Vietnam.
+
+“Most of these individuals were renting apartments from local landlords. Approximately 560 units in 15 blocks were inspected during the operation,” he was quoted as saying on Saturday (March 15).
+
+Reportedly, one of the detainees, a 50-year-old Indonesian, had been working as a house cleaner without a permit for a year.
+
+...
+
+[Data](articles/879181f4.json)
+
+---
+
+### India to hold world’s biggest election in seven stages from April
+
+*2024-03-16 22:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-to-hold-worlds-biggest-election-in-seven-stages-from-April/107-279003) · `en`
+
+India, March 16 (BBC) - India's general election will take place in seven phases over April and May, the Election Commission says.
+
+The results will be announced on 4 June, Chief Election Commissioner Rajiv Kumar told a news conference.
+
+With some 968 million eligible voters, India's election will be the largest the world has seen.
+
+Opinion polls predict a win for Narendra Modi's Bharatiya Janata Party (BJP) and its allies, which is eyeing a record third term in power.
+
+More than two dozen opposition parties, including the Congress, have formed a coalition bloc - called the Indian National Developmental Inclusive Alliance or INDIA - to take on the BJP at this election.
+
+India's lower house has 543 elected seats and any party or a coalition needs a minimum of 272 MPs to form a government.
+
+The BJP, led by Mr Modi, had won a staggering 303 of the 543 seats in the 2019 election. This year, the party says its target is to win at least 370 seats.
+
+...
+
+[Data](articles/665d4de1.json)
+
+---
 
 ### Day will be set up to the Indian parliamentary election
 
@@ -1180,6 +1224,22 @@ The hotline, introduced under the instructions of the President, was launched in
 
 ---
 
+### Police launch emergency call centre dedicated to Tamil-speaking people
+
+*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/police-launch-emergency-call-centre-dedicated-to-tamil-speaking-people) · `en`
+
+An Emergency call centre dedicated to the Tamil-speaking community, especially in the North and the East, was launched in Vavuniya on Saturday (March 16).
+
+The police media division said the Tamil-speaking community can contact the call centre via hotline 107 to seek assistance of any sort.
+
+The hotline, introduced under the instructions of the President, was launched in Vavuniya by Public Security Minister Tiran Alles and Inspector General of Police (IGP) Deshabandu Tennakoon at the office of the Vavuniya Senior Superintendent of Police (SSP).
+
+◼️
+
+[Data](articles/84b2e7fc.json)
+
+---
+
 ### Emergency hotline launched in Vaviniya for Tamil-speaking people
 
 *2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/emergency-hotline-launched-in-vaviniya-for-tamil-speaking-people) · `en`
@@ -2285,73 +2345,5 @@ Former President Chandrika  Bandaranaike Kumaratunga in conversation with SJB L
 [Data](articles/2e83f641.json)
 
 [Extended Data](ext_articles/2e83f641.ext.json)
-
----
-
-### Senior CID officers to be transferred over links to underworld drug dealer
-
-*2024-03-16 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-CID-officers-to-be-transferred-over-links-to-underworld-drug-dealer/108-278964) · `en`
-
-The Police Headquarters is reportedly in the process of revamping the Criminal Investigation Department (CID) and accordingly, a group of police officers including high-ranking officers within the CID, is set to be transferred over alleged ties with notorious underworld drug dealer Nadun Chinthaka alias ‘Harak Kata’, the Daily Mirror learns.
-
-Nadun Chinthaka and one of his accomplices Salindu Malshika alias “Kudu Salindu,” were arrested in Madagascar on March 01, 2023 in a joint operation by INTERPOL, Malagasy law enforcement authorities, and Customs officials.
-
-...
-
-[Data](articles/884d5ece.json)
-
-[Extended Data](ext_articles/884d5ece.ext.json)
-
----
-
-### Trinity towards the Interesting decision - Antonian Samar
-
-*2024-03-16 05:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
-
-Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
-
-🟩
-
-The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
-
-Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
-
-St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
-
-Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
-
-St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
-
-However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
-
-Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
-
-...
-
-[Data](articles/0cc93c42.json)
-
-[Extended Data](ext_articles/0cc93c42.ext.json)
-
----
-
-### Expenditure Government Money
-
-*2024-03-16 03:23:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-பணத்தை-உரிய-முறையில்-செலவு-செய்க/175-334739) · `ta`
-
-President Ranil Wickremesinghe urged Divisional Secretaries to use government funds for development, aiming to strengthen the economy and benefit the people. This was discussed at the Sri Lanka Forum College, Colombo, focusing on improving government development programs.
-
-🟩
-
-President Ranil Wickremesinghe has asked all the Divisional Secretaries to spend the funds provided by the government for development and thereby strengthen the national economy and dedicate the benefits to the people.
-
-The President made these comments during a discussion held at the Sri Lanka Forum College, Colombo yesterday with all District Secretaries and Divisional Secretaries on the improvement of the development programs implemented by the government.
-
-The meeting, organized under the theme of 'Strong Futures - 2024', examined the development projects implemented by the government and the problems in implementing them.. (A)
-
-◼️
-
-[Data](articles/34ebc652.json)
-
-[Extended Data](ext_articles/34ebc652.ext.json)
 
 ---

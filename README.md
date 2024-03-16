@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 20:02:54**
+As of **2024-03-16 20:17:47**
 
 ## Newspaper Stats
 
-*Scraped **13,298** Articles*
+*Scraped **13,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,43 +18,53 @@ islandlk | 720
 adalk | 1,131
 adaderanalk | 1,606
 tamilmirrorlk | 1,620
-virakesarilk | 1,851
-dailymirrorlk | 2,039
+virakesarilk | 1,852
+dailymirrorlk | 2,040
 adaderanasinhalalk | 2,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,296 (100.0%) of 13,298 articles have been extended.
+13,298 (100.0%) of 13,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### දෙරණෙන් බිහිවූ ජනප්‍රිය තරුව රවී රොයිස්ටර්ගේ ගීතයක් ඉන්දීය සිනමාවට
+### Popular Star, Ravi Riester's song to Indian cinema
 
 *2024-03-16 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194581) · `si`
 
-දෙරණෙන් බිහිවූ ජනප්‍රිය තරුවක් පසුගියදා මෙරට නාමය ජාත්‍යන්තර වේදිකාවට ගෙනයාමට සමත් විය.
+Ravi Riester, a star from Adarana, elevated Indian cinema with his song, "Passa," featuring Ravi, Dimithri, and Vijay Anthony. The song, launched by Think Music India, gained over 90 million YouTube views and was featured in "ROMEO," Indika Vijay Anthony's latest film. Riester's participation in Derana Dream Star Season 8 and his contributions to television songs on Derana further cemented his popularity.
 
-ඒ, දෙරණ ඩ්‍රීම් ස්ටාර් සීසන් 8 අදියරට සහභාගී වී ඉන් අතිශය ජනප්‍රියත්වයක් ලැබූ ගායක රවී රොයිස්ටර්ගේ ගීතයක් ඉන්දියාවේ සිනමාපටයක් සඳහා තෝරා ගැනීමත් සමගය.
+🟩
 
-"Passa" ගීතය ඇසෙද්දීම ඔබට මතක් වෙන්නේ නව පරපුරේ ජනප්‍රිය ගායකයින් වන රවී රොයිස්ටර් සහ දිමිත්‍රී ය.
+A popular star that was born in Adarana recently managed to move the country's name to the international stage.
 
-Youtube අවකාශයේ මෙම ගීතය නැරඹුම්වාර සංඛ්‍යාව ලක්ෂ 90කට අධික සංඛ්‍යාවකට උරුමකම් කියයි.
+The Derana Dream Star Season 8 stages of the 8 stages of the 8 stages of the 8 stages of the psychological selection of Sinhalese psychological philanthropy.
 
-ඒ අනුව ශ්‍රී ලංකාව තුළ අතිශය ජනප්‍රිය වූ එම ගීතය මේ වනවිට ඉන්දියාවේත් ජනප්‍රිය වෙමින් තිබේ.
+The "Passa" that the song "Passa" is Ravi, Ravi, and Dimithri, the most popular singers.
 
-ඒ, ඉන්දියානු ජනප්‍රිය නළු විජේ ඇන්තනීගේ නවතම සිනමා නිර්මාණය වන "Romeo" චිත්‍රපටයේ එක් ගීතයක් ලෙසට මෙම ගීතය තෝරා ගැනීමත් එක්ක.
+The number of visitors in the YouTube space is inherited to over 90 million visitors.
 
-ලොව සුප්‍රසිද්ධ සංගීත සන්නාමයක් වන Think Music India සමග එක්ව රවී රොයිස්ටර්ගේ මෙම ගීතය දමිළ භාෂාවෙන් ''Vethala'' යන නමින් පසුගියදා එළිදැක්විය.
+Accordingly, the song in Sri Lanka is now popular in India.
 
-විශේෂත්වය වන්නේ එම ගීතයේ පද රචනය ජනප්‍රිය නළු විජේ ඇන්තනී විසින් සිදුකරද්දී එය දමිළ භාෂාවෙන් ගායනා කිරීමට රවී රොයිස්ටර්ටම අවස්ථා ලැබීමය.
+It is with the selection of this song as one of the latest films in the "ROMEO", which is the latest film of Indika Vijay Anthony.
+
+The song was recently launched with the world's well-known music brand Think Music India.
+
+The specialty is Ravi Roncer to sing the lyrics of the song by Vijay Anthony.
+
+The "vetel" was released to YouTube space and crossed the 2 million-million visitors within 2 days.
+
+Ravi Royrster was popular with the participation in the Derana Dream Star Season 8.
 
 ...
 
 [Data](articles/a2ba8773.json)
+
+[Extended Data](ext_articles/a2ba8773.ext.json)
 
 ---
 
@@ -75,6 +85,26 @@ Nearly 970 million voters – more than the entire population of the United Stat
 [Data](articles/3d96e256.json)
 
 [Extended Data](ext_articles/3d96e256.ext.json)
+
+---
+
+### NPP government to include ministers representing North: Anura Kumara
+
+*2024-03-16 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-government-to-include-ministers-representing-North-Anura-Kumara/108-279001) · `en`
+
+Vavuniya, March 16 (Daily Mirror)- A future National People’s Power (NPP) government must include ministers representing the North, NPP Leader Anura Kumara Dissanayake said today.
+
+Speaking at the Vavuniya District convention, he said they were already having discussions with the moderate Tamil leaders who are not extremist or racist.
+
+"There must be ministers representing the north in a future NPP government. We are already having discussions with the moderate Tamil leaders who are not extremist or racist. They must be part of the NPP government," he said.
+
+He said the NPP will resolve issues of the Tamils such as language issue, land issue and said that they would introduce constitutional amendments so as to ensure political rights of the Tamils.
+
+"We will assure you that we will take steps to resolve the language issue. We will ensure the right to deal with the state in your language," he added.
+
+◼️
+
+[Data](articles/b76dd302.json)
 
 ---
 
@@ -197,6 +227,8 @@ High Commissioner Aziz said there is potential for increasing Buddhist pilgrims 
 ...
 
 [Data](articles/421fa1f6.json)
+
+[Extended Data](ext_articles/421fa1f6.ext.json)
 
 ---
 
@@ -333,6 +365,24 @@ Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing 
 [Data](articles/4f63ec29.json)
 
 [Extended Data](ext_articles/4f63ec29.ext.json)
+
+---
+
+### வெடுக்குநாறிமலை சம்பவம் தொடர்பில் விசாரணைக் குழுவை அமையுங்கள் - ஜனாதிபதி ரணிலிடம் எழுத்துமூலமான கோரிக்கை வழங்கினார் டக்ளஸ்
+
+*2024-03-16 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178888) · `ta`
+
+வெடுக்குநாறிமலைச் சம்பவம் தொடர்பில் விசாரணைக்குழுவினை அமைப்பதற்கு ஏற்கனவே அமைச்சரவைக் கூட்டத்தில் கோரிக்கை விடுக்கப்பட்ட நிலையில் அதற்கான எழுத்துமூலமான ஆவணத்தினை அமைச்சர் டக்ளஸ் தேவானந்தா ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடத்தில் கையளித்துள்ளார்.
+
+இந்நிலையில் குறித்த விடயம் சம்பந்தமாக கருத்து வெளியிட்ட அவர், வெடுக்குநாறி ஆதிசிவன் ஆலயத்தில் சிவாரத்திரி தினத்தன்று வழிபாடுகளைச் செய்வதற்காகச் சென்றவர்கள் மீது பொலிஸார் தாக்குதல் நடத்தியமையானது மிகப்பெரும் தவறாகும்.
+
+வெடுக்குநாறி மலையில் ஏற்கனவே வழிபாடுகளை மேற்கொள்வதற்கான அனுமதிகள் உள்ள நிலையில்ரூபவ் இரவில் வழிபடமுடியாது என்று பொலிஸார் தடைகளை ஏற்படுத்த முடியாது.
+
+சிவராத்திரி என்பது சிவனுக்கு இரவில் பூசை வழிபாடுகளை முன்னெடுப்பதேயாகும். ஆகவே அந்த மரபுகளை மாற்றியமைப்பது முரணான விடயமாகும்.
+
+...
+
+[Data](articles/980865a1.json)
 
 ---
 
@@ -2275,55 +2325,5 @@ The paintings were featured in a variety of colorful paintings, including daily 
 [Data](articles/0afd46ae.json)
 
 [Extended Data](ext_articles/0afd46ae.ext.json)
-
----
-
-### State Wesak festival to be held in Matale
-
-*2024-03-16 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Wesak-festival-to-be-held-in-Matale/108-278960) · `en`
-
-The state Wesak festival this year is to be held in Matale District in a grand way.
-
-A meeting to make preliminary arrangement for the festival was held at the District Secretariat under the chairmanship of Minister of Buddha Sasana, and Cultural Affairs Vidura Wickramanayake. He said the celebrations would take place in Matale town and eleven divisions in the district from May 21 to 27.
-
-State Minister of Defence Premitha Bandara Tennakoon said the Ministry of Defence would take steps to detail the police and the security forces to provide security to all place of Buddhist worship in the district during the festival. He said at least ten security and police personnel would be detailed to each place of worship.
-
-Several Senior Officials including District Secretary Thejani Tilakaratne and Secretary to the Ministry Buddha Sasana and Cultural Affairs Somaratne Vidanapathirana were present at the occasion.
-
-◼️
-
-[Data](articles/a83fbe9d.json)
-
-[Extended Data](ext_articles/a83fbe9d.ext.json)
-
----
-
-### Action to control the impact of the 'White E disease' that attacks the large amount of coconut tree in the Mannar island
-
-*2024-03-16 00:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/178834) · `ta`
-
-"Crop Protection Service Officers in Mannar Island, Northern Province, are taking measures to control the spread of 'White E disease' affecting coconut trees. They've visited the Mannar District Secretariat and other areas, distributing parasites to mitigate the disease's impact. Officials are actively involved in controlling the disease, which is causing significant damage to coconut trees and other vegetation."
-
-🟩
-
-The impact of the 'white E disease' in coconut trees in the Northern Province is increasing in the Mannar district, especially in the Mannar Islands.
-
-In this backdrop, Crop Protection Service Officers visited Mannar on Friday (15) and took steps to clarify and control the impact of the disease in Mannar.
-
-The campus of the Mannar District Secretariat has also been left with parasites that control the impact of the disease.
-
-The impact of the disease at the Mannar District Secretariat has been explained by the officials who have been attended by the officials who have been briefed and taken serious action to control the disease.
-
-In the villages of Mannar city and in the Talaimannar area, parasites have been left in coconut trees.
-
-Visitors said the prevalence of the disease in the coastal areas, especially in the coastal areas, said.
-
-The impact of the coconut trees has been made clear to other trees. As a result, the beneficial trees are completely losing their use.
-
-...
-
-[Data](articles/dbf2d13d.json)
-
-[Extended Data](ext_articles/dbf2d13d.ext.json)
 
 ---

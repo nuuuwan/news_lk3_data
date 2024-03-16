@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 16:33:20**
+As of **2024-03-16 16:47:58**
 
 ## Newspaper Stats
 
-*Scraped **13,280** Articles*
+*Scraped **13,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,98 @@ economynextcom | 709
 islandlk | 720
 adalk | 1,131
 adaderanalk | 1,600
-tamilmirrorlk | 1,617
+tamilmirrorlk | 1,618
 virakesarilk | 1,850
-dailymirrorlk | 2,037
-adaderanasinhalalk | 2,095
+dailymirrorlk | 2,038
+adaderanasinhalalk | 2,096
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,279 (100.0%) of 13,280 articles have been extended.
+13,280 (100.0%) of 13,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### தமிழில் முறையிட இலக்கம் அறிமுகம்
+### කැනඩාවේ නිවසක් ගිනිගෙන තිදෙනෙක් මරුට
+
+*2024-03-16 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194575) · `si`
+
+කැනඩාවේ ඔන්ටාරියෝ හි නිවසක හටගත් ගින්නකින් පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+
+මෙලෙස මරණයට පත්වී ඇත්තේ ඉන්දියානු සම්භවය සහිත එකම පවුලේ මව, පියා සහ දියණිය බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මෙම ගින්න නිවා දැමීමෙන් පසුව පුද්ගල මළසිරුරු තුනක් හමුවී තිබුණි.
+
+කෙසේ වුවද ඔවුන්ගේ අනන්‍යතාව තහවුරු කරගැනීමට බලධාරීන් සමත්වී තිබුණේ නැති බවද වාර්තා වෙයි.
+
+මෙම ගින්න අනතුරක් නොවන බවත් සැක කටයුතු ගින්නක් බවත් කැනඩා පොලීසිය පවසා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/51382e71.json)
+
+---
+
+### உணவு தவிர்ப்பு போராட்டம் நிறைவு
+
+*2024-03-16 16:27:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உணவு-தவிர்ப்பு-போராட்டம்-நிறைவு/71-334759) · `ta`
+
+வவுனியா விளக்கமறியல் சிறைச்சாலையில் உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டு வந்த வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில்  கைது செய்யப்பட்ட 5 பேரின் உணவு தவிர்ப்பு போராட்டம் நேற்று முடித்து வைக்கப்பட்டது.
+
+வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் சிவராத்திரி வழிபாட்டில் ஈடுபட்டிருந்த போது கடந்த 8 ஆம் திகதி நெடுங்கேணி பொலிஸாரால் ஆலய பூசகர் உள்ளிட்ட 8 பேர் கைது செய்யப்பட்டிருந்தனர்.
+
+அவர்களில் 5 பேர் கடந்த செவ்வாய்கிழமை முதல் உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+இந்நிலையில், வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களை விடுவிக்கக் கோரியும், பொலிஸ் அராஜகத்தை கண்டித்தும் வவுனியாவில் ஆர்ப்பாட்ட பேரணி ஒன்று இடம்பெற்றிருந்தது.
+
+...
+
+[Data](articles/1c01e603.json)
+
+---
+
+### Introduction to Appeals in Tamil
 
 *2024-03-16 16:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழில்-முறையிட-இலக்கம்-அறிமுகம்/175-334758) · `ta`
 
-தமிழில் முறைப்பாடுகளை சமர்ப்பிப்பதற்கான புதிய இலக்கமொன்றை அறிமுகப்படுத்தும் நடவடிக்கை  பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் தலைமையில் சனிக்கிழமை (16) இடம்பெற்றது.
+Public Security Minister Tran Ales and Inspector General of Police Deshpandu Thennakoon were detained on Saturday. The police have enabled Tamil-speaking people in the North and East to lodge complaints via a 107 number.
 
-இதன்படி 107 என்ற குறுகிய இலக்கத்தின் ஊடாக  தமிழ் மொழியிலும் முறைப்பாடுகளை சமர்ப்பிக்க சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-வடக்கு, கிழக்கு மாகாணங்களில் வாழும் தமிழ் இனத்தவர்கள் நேரடியாக பொலிஸில் முறைப்பாடு செய்வதற்கு இந்த வசதி ஏற்படுத்தப்பட்டுள்ளதாக  நிஹால் தல்துவ தெரிவித்தார்.
+Public Security Minister Tran Ales and Inspector General of Police Deshpandu Thennakoon were held on Saturday (16).
+
+According to the police media spokesman Nihal Dalduwa, the police spokesman said that the opportunity to submit complaints in Tamil in Tamil through a short number of 107.
+
+Nihal Talduwa said that the Tamil people living in the Northern and Eastern Provinces have been facilitated directly to the police.
 
 ◼️
 
 [Data](articles/4f59d2f5.json)
+
+[Extended Data](ext_articles/4f59d2f5.ext.json)
+
+---
+
+### Survey reveals growing preference for authoritarianism among Sri Lankans
+
+*2024-03-16 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Survey-reveals-growing-preference-for-authoritarianism-among-Sri-Lankans/108-278998) · `en`
+
+Colombo, March 16 (Daily Mirror) - A recent survey conducted by the Centre for Policy Alternatives (CPA) has unearthed concerning trends regarding democratic governance in Sri Lanka.
+
+The survey, titled ‘Survey on Democracy and Reconciliation in Sri Lanka,’ involved 1,350 participants across 25 districts in January, shedding light on shifting attitudes toward authoritarianism and declining trust in democratic institutions.
+
+According to the findings, approximately 1 in 10 Sri Lankans expressed a preference for authoritarian rule, marking a significant increase since 2018.
+
+Despite the majority favoring democratic governance, the survey highlighted a worrying sentiment that "In certain situations, a dictatorial government can be preferable to a democratic one."
+
+The CPA, a prominent policy think-tank based in Colombo, emphasized that the spike in support for authoritarianism coincided with the political upheaval during the Sirisena-Wickremesinghe government in 2018.
+
+...
+
+[Data](articles/e3307b9a.json)
 
 ---
 
@@ -2197,59 +2261,5 @@ Addressing a press conference to mark the World Consumer Rights Day, Ratnayake s
 [Data](articles/5158644f.json)
 
 [Extended Data](ext_articles/5158644f.ext.json)
-
----
-
-### Keheliya submits bail application to High Court
-
-*2024-03-15 23:53:00* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-submits-bail-application-to-High-Court/56-759557) · `en`
-
-Former Health Minister Keheliya Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, has submitted a bail application to the Colombo High Court.
-
-The new development comes after the Maligakanda Magistrate’s Court rejected bail for Rambukwella, and six other accused in the case on Thursday.
-
-In his bail application filed through his legal counsels, Rambukwella claimed that the Maligakanda Magistrate’s decision to reject bail for him is unlawful. He also sought the High Court to release him on bail subjected to any condition.
-
-On Thursday, Maligakanda Magistrate Lochani Abeywickrama overruled the accused’ bail pleas and detained them indefinitely under the provisions of the Public Property Act and fixed the case to be recalled on 28 March.
-
-◼️
-
-[Data](articles/c1d8481f.json)
-
-[Extended Data](ext_articles/c1d8481f.ext.json)
-
----
-
-### Asgiriya Chapter Anunayaka Thera calls for fair and just rule
-
-*2024-03-15 23:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asgiriya-Chapter-Anunayaka-Thera-calls-for-fair-and-just-rule/108-278973) · `en`
-
-Colombo, March 15 - Anunayaka of the Asgiriya Chapter Ven. Wendaruwe Upali Thera said it would rain in the due season bringing a bumper harvest and making the people happier, fuller and pleasanter provided the country had just rulers at the helm.
-
-Addressing the Special Conference of the Mahasangha of the Asgiriya Chapter held at Manelwatta Maha Vihara Conference Hall in Kelaniya the Ven. Thera pointed out the march forward of the country could be ensured by establishing a fair and just rule in the country and not through politically motivated activities.
-
-The conference was held under the chairmanship of Ven. Wendaruwe Upali Thera.
-
-...
-
-[Data](articles/82c42ad4.json)
-
-[Extended Data](ext_articles/82c42ad4.ext.json)
-
----
-
-### Understanding sovereign debt responses in the context of global climate negotiations
-
-*2024-03-15 23:51:23* · [`dailyftlk`](https://www.ft.lk/columns/Understanding-sovereign-debt-responses-in-the-context-of-global-climate-negotiations/4-759556) · `en`
-
-2024 is a pivotal year for finance under the global climate negotiation process and presents an opportunity to further highlight the climate-debt nexus
-
-Around the world, countries are facing mounting debt, debt distress, and debt default. As governments are working towards green growth, sustainable development, poverty reduction, adaptation, and mechanisms to address climate-induced loss and damage, they are in danger of accumulating unsustainable debt or becoming unable to service existing debt. As stated in the IMF’s 2023 Annual Report, “debt vulnerabilities and risks remain elevated, with 15% of low-income countries currently in debt distress and 45% of low-income countries and 25% of emerging market economies at high risk of debt distress.”
-
-...
-
-[Data](articles/d6a6f96d.json)
-
-[Extended Data](ext_articles/d6a6f96d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 10:17:55**
+As of **2024-03-16 10:33:15**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 2,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,217 (100.0%) of 13,222 articles have been extended.
+13,222 (100.0%) of 13,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### விக்டோரியா, ரன்தெனிகல நீர்தேக்கங்களில் நீர் வற்றுகிறது
+### Water dries in Victoria, Randenigala reservoirs
 
 *2024-03-16 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178839) · `ta`
 
-மத்திய மலைநாட்டில் நிலவும் கடும் வறட்சியான வானிலை காரணமாக விக்டோரியா மற்றும் ரன்தெனிகல நீர்த்தேக்கங்களில் இருந்து நாளொன்றுக்கு சுமார் எட்டு மில்லி மீற்றர் நீர் ஆவியாவதாக மத்திய மாகாண நீர்ப்பாசன பொறியியலாளர் திரு.தினேஷ் சுமனசேகர கூறுகிறார்.
+Victoria and Randenigala reservoirs in Victoria evaporate 8mm/day due to heavy weather, threatening future water shortages. Central Province Irrigation Engineer Mr. Dinesh Sumanasekara advises proper water management to mitigate this issue.
 
-மினிப்பே திட்டத்தின் கீழ் விவசாயம் மேற்கொள்வதற்காக நீர் பெறும் பிரதான நீர்த்தேக்கங்களின் மொத்த நீர் கொள்ளளவில் 88 வீதம் தற்போதுள்ள போதிலும், நீர் வற்றும் நிலை கானப்படுவதால்  எதிர்காலத்தில் விவசாய நடவடிக்கைகளில் நீர் தட்டுப்பாடு ஏற்படக் கூடும் எனவும் அவர் சுட்டிக்காட்டினார்.
+🟩
 
-எனவே, நீரை பயன்படுத்தும் போது  செய்யும் போது முறையான நீர் முகாமத்துவத்தை மேற்கொள்ள வேண்டும் எனவும் அவர் மேலும் தெரிவித்தார்.
+Central Province Irrigation Engineer Mr. Dinesh Sumanasekara says that about eight millimeters of water per day is evaporated from Victoria and Randenigala reservoirs due to heavy weather in the central hill country.
+
+He pointed out that although 88 percent of the total capacity of the major reservoirs to cultivate under the Minippe Scheme, the water is likely to cause water shortage in the future due to the water drowsiness.
+
+Therefore, when using the water, a proper water camp should be carried out, he added.
 
 ◼️
 
 [Data](articles/6beebf71.json)
 
+[Extended Data](ext_articles/6beebf71.ext.json)
+
 ---
 
-### சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர்கள் உட்பட 18 பொலிஸ் அதிகாரிகள் இடமாற்றம்
+### Transfer 18 police officers, including senior deputy police chiefs
 
 *2024-03-16 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178836) · `ta`
 
-சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர்கள் (SDIGs) உட்பட 18 சிரேஷ்ட பொலிஸ் அதிகாரிகள் உடனடியாக  அமுலுக்கு வரும் வகையில் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+18 senior police officers, including 8 SDIGs, a DIG, 8 SSPs, and an SP, have been transferred under the IGP of the National Police Commission. Key transfers include SSP EMMS to CID Thegideniya and SSP KGAK. Piyasekara to Kalutara.
 
-இந்த இடமாற்றங்கள் தேசிய பொலிஸ் ஆணைக்குழுவின் தீர்மானத்திற்கு அமைய பொலிஸ் மா அதிபர் (IGP) தேசபந்து தென்னக்கோனின் பணிப்புரையின் கீழ் வழங்கப்பட்டுள்ளன.
+🟩
 
-இடமாற்றம் செய்யப்பட்ட அதிகாரிகளில் 8 சிரேஷ்ட பிரதிப் பொலிஸ்மா அதிபர்கள் (SDIGக்கள்), ஒரு பிரதிப் பொலிஸ்மா அதிபர் (DIG),  8 மூத்த பொலிஸ் அத்தியட்சகர்கள் (SSPக்கள்) மற்றும் ஒரு பொலிஸ் அத்தியட்சகர் (SP) ஆகியோர் அடங்குவர்.
+18 senior police officers, including Senior Deputy Inspector General of Police (SDIGS), have been transferred to implementation.
 
-கல்கிசை பொலிஸ் பிரிவின் பொறுப்பதிகாரியாக (OIC) கடமையாற்றிய எஸ்எஸ்பி இ.எம்.எம்.எஸ். தெகிதெனிய, குற்றப் புலனாய்வு திணைக்களத்தின் (CID) பணிப்பாளராக மாற்றப்பட்டுள்ளார்.
+These transfers have been issued under the Directorate of the Police Inspector (IGP) of the National Police Commission.
 
-இந்நிலையில், தற்போதைய குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளர் எஸ்எஸ்பி கே.ஜி.ஏ.கே. பியசேகர களுத்துறை பொலிஸ் பிரிவிற்கு தலைமை தாங்குவதற்கு இடமாற்றம் செய்யப்பட்டுள்ளார்.
+The transferred officers include 8 Senior Deputy Inspector Generals of Police (SDIGs), a Deputy Inspector General of Police (DIG), 8 senior police superintendents (SSPs) and a Police Superintendent (SP).
 
-1. SDIG W. L. A. S. Priyantha Weerasuriya – From Crimes and Traffic Division to the North Central Province
+SSP EMMS, who is in charge of the Malkisa Police Division (OIC). He has been transferred to the Director of the Criminal Investigation Department (CID), Thegideniya.
+
+In this case, the Director of the current Criminal Investigation Department SSP KGAK. Piyasekara has been transferred to the Kalutara Police Division.
+
+௧. Ctrico. Under. A.. Ssh. Priyantha Weerasuriya - Prem Creams and Traffic Division to the North Central Provins
+
+௨. Chtiks. C. Medavatta - Prem Chaudenna Provins to Training & Hijiher Training Division
 
 ...
 
 [Data](articles/8205d187.json)
+
+[Extended Data](ext_articles/8205d187.ext.json)
 
 ---
 
@@ -90,23 +104,31 @@ If India and Sri Lanka finish in the top 8, six other teams will qualify for the
 
 [Data](articles/8e2fd4d5.json)
 
+[Extended Data](ext_articles/8e2fd4d5.ext.json)
+
 ---
 
-### டிக்டொக் செயலிக்கு எதிராக அமெரிக்காவில் சட்டம்
+### Law in the United States against the Dictok processor
 
 *2024-03-16 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178837) · `ta`
 
-டிக்டொக் செயலியை (Tik Tok) கட்டுப்படுத்துவது தொடர்பான சட்டமூலம் அமெரிக்க பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டது.
+A bill to control the Chinese processor, Dictok, was passed in the US Congress with 352 in favor and 65 against. It aims to protect individual rights and national security, not banning Dictok but its owner. Awaits President Biden's signature to become law.
 
-சீன செயலியான டிக்டொக் தனிநபர் உரிமை மற்றும் தேசிய பாதுகாப்புக்கு அச்சுறுத்தலாக உள்ளது என கூறி இந்தியா உள்பட பல நாடுகள் அதனை தடை செய்துள்ளன.
+🟩
 
-இந்நிலையில் தற்போது டிக்டொக் செயலியை கட்டுப்படுத்துவது தொடர்பான சட்டமூலம் அமெரிக்க பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டது. இதற்கு ஆதரவாக 352 பேரும், எதிராக 65 பேரும் வாக்களித்தனர். இதன் மூலம் இந்த சட்டமூலம் வெற்றிகரமாக நிறைவேறியது. ஜனாதிபதி ஜோ பைடன் கையெழுத்திட்ட பின்னர் இந்த சட்டமூலம் சட்டமாக மாறும் என்பது குறிப்பிடத்தக்கது.
+The bill on controlling the Tik tok was filed in the US Parliament.
 
-இந்த சட்டமூலம் டிக்டொக் செயலியை தடை செய்யாது எனவும், அதேசமயம் அதன் உரிமையாளரை கட்டுப்படுத்தி மக்களின் தனிநபர் உரிமையை பாதுகாக்க முடியும்' எனவும் தெரிவித்தார்.
+Several countries, including India, have banned the Chinese processor, Dictok, a threat to personal rights and national security.
+
+In this case, a bill to control the Dictock processor was filed in the US Parliament. 352 voted in favor of this and 65 voted against this. By this the bill was successfully passed. It is noteworthy that the bill will become a law after President Joe Bidan signed.
+
+He said that the bill would not be banned by the Dictok processor, while controlling its owner and protecting the individual rights of the people. ”
 
 ◼️
 
 [Data](articles/ae126b6d.json)
+
+[Extended Data](ext_articles/ae126b6d.ext.json)
 
 ---
 
@@ -125,6 +147,8 @@ The ICC Board met in Dubai this week and the future structure and context of int
 ◼️
 
 [Data](articles/9258bc17.json)
+
+[Extended Data](ext_articles/9258bc17.ext.json)
 
 ---
 

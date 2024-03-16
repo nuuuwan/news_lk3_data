@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 06:52:25**
+As of **2024-03-16 07:15:26**
 
 ## Newspaper Stats
 
-*Scraped **13,199** Articles*
+*Scraped **13,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 708
 islandlk | 719
 adalk | 1,130
 adaderanalk | 1,585
-tamilmirrorlk | 1,601
+tamilmirrorlk | 1,602
 virakesarilk | 1,834
 dailymirrorlk | 2,023
-adaderanasinhalalk | 2,079
+adaderanasinhalalk | 2,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,195 (100.0%) of 13,199 articles have been extended.
+13,199 (100.0%) of 13,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### අදත් ප්‍රදේශ රැසක උෂ්ණත්වය ඉහළට
+
+*2024-03-16 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194556) · `si`
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙන බව දැනුම් දී තිබේ.
+
+මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (16) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+වයඹ, උතුරු-මැද, නැගෙනහිර, පළාත් සහ කොළඹ, ගම්පහථ මෙණරාගල, මන්නාරම, මුලතිව්, වවුනියාව සහ හම්බන්තොට දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/6f49fb56.json)
+
+---
 
 ### A possible alliance?
 
@@ -41,6 +61,8 @@ Former President Chandrika  Bandaranaike Kumaratunga in conversation with SJB L
 ◼️
 
 [Data](articles/2e83f641.json)
+
+[Extended Data](ext_articles/2e83f641.ext.json)
 
 ---
 
@@ -55,6 +77,8 @@ Nadun Chinthaka and one of his accomplices Salindu Malshika alias “Kudu Salind
 ...
 
 [Data](articles/884d5ece.json)
+
+[Extended Data](ext_articles/884d5ece.ext.json)
 
 ---
 
@@ -85,6 +109,20 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 [Data](articles/0cc93c42.json)
 
 [Extended Data](ext_articles/0cc93c42.ext.json)
+
+---
+
+### 55 ஹெக்டேர் காடுகள் காட்டுத் தீயினால் அழிவு
+
+*2024-03-16 02:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/55-ஹெக்டேர்-காடுகள்-காட்டுத்-தீயினால்-அழிவு/175-334736) · `ta`
+
+கடந்த சில வாரங்களாக பதிவான காட்டுத் தீயினால் 55 ஹெக்டேர் காடுகள் அழிவடைந்துள்ளன என வனவள பாதுகாப்பு திணைக்களம் தெரிவித்துள்ளது.
+
+தற்போதைய சூழ்நிலையில் காட்டுத் தீயை தடுக்கும் வகையிலான விழிப்புணர்வு வாரத்தை எதிர்வரும் 25 ஆம் திகதி முதல் செயல்படுத்த திட்டமிடப்பட்டுள்ளதாகவும் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/841573d1.json)
 
 ---
 
@@ -675,6 +713,8 @@ This year’s commemoration of women within the LOLC Group highlighted the organ
 ...
 
 [Data](articles/1f6a9f5b.json)
+
+[Extended Data](ext_articles/1f6a9f5b.ext.json)
 
 ---
 
@@ -2083,53 +2123,5 @@ In this case, Rambukwella has submitted the petition demanding the release of hi
 [Data](articles/e34f9ceb.json)
 
 [Extended Data](ext_articles/e34f9ceb.ext.json)
-
----
-
-### Strike for health workers again?
-
-*2024-03-15 15:36:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-மீண்டும்-வேலை-நிறுத்தம்/175-334717) · `ta`
-
-Health Experts Association president Ravi Kumudesh announced a new strike for health workers, set to start on the 19th, if the Finance Ministry fails to address their issues.
-
-🟩
-
-Ravi Kumudesh, president of the Health Experts Association, said that the trade union activities are to be launched again.
-
-He said this while speaking to the media in Colombo today (15).
-
-He said the trade union action would be taken from the 19th of this month if the Finance Ministry would not take action to solve the problems of health workers.
-
-◼️
-
-[Data](articles/d229bb6e.json)
-
-[Extended Data](ext_articles/d229bb6e.ext.json)
-
----
-
-### Applications called for National Colleges of Education
-
-*2024-03-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194544) · `si`
-
-The Ministry of Education in Sri Lanka is inviting student applications for national education institutes for the upcoming academic year. Applications are submitted online, with eligibility determined through the same system. The application period ends today at 12:00 PM.
-
-🟩
-
-The Ministry of Education has taken steps to call for the participation of students to admit the teaching of national education institutes on the year Academic year.
-
-Accordingly, the gazette notification has been published in the Gazette No. 2376 of the Democratic Socialist Republic of Sri Lanka.
-
-Applications should be submitted along with the online system and selecting the eligible on the applications will also be made through the online system.
-
-This can be applied through online method after 12 in the afternoon and the application period will end on day to date.
-
-Applicants should apply to the return of the applicants since the application is included in the past 12.00 pm today.
-
-◼️
-
-[Data](articles/3ef1b828.json)
-
-[Extended Data](ext_articles/3ef1b828.ext.json)
 
 ---

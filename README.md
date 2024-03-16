@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 19:03:07**
+As of **2024-03-16 19:17:45**
 
 ## Newspaper Stats
 
-*Scraped **13,290** Articles*
+*Scraped **13,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,603
+adaderanalk | 1,604
 tamilmirrorlk | 1,619
 virakesarilk | 1,850
 dailymirrorlk | 2,039
-adaderanasinhalalk | 2,098
+adaderanasinhalalk | 2,099
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,290 (100.0%) of 13,290 articles have been extended.
+13,290 (100.0%) of 13,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### මෙවර මස්ටැංග්ස් කුසලානය ගල්කිස්ස ශාන්ත තෝමස් විද්‍යාලයට
+
+*2024-03-16 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194579) · `si`
+
+කොළඹ රාජකීය විද්‍යාලය සහ ගල්කිස්ස ශාන්ත තෝමස් විද්‍යාලය අතර පැවැති 47 වන මස්ටැංග්ස් කුසලාන එක්දින තරගය ජය ගැනීමට ගල්කිස්ස ශාන්ත තෝමස් විද්‍යාලය සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශාන්ත තෝමස් විද්‍යාලය නියමිත පන්දුවාර 50 තුළ කඩුලු 08 දැවී ලකුණු 256ක් රැස් කළේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ කොළඹ රාජකීය විද්‍යාලය පන්දුවාර 48යි පන්දුවක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු ලකුණු 226ක් පමණි.
+
+◼️
+
+[Data](articles/802e0404.json)
+
+---
+
+### Sri Lanka explores potential for increasing Buddhist pilgrims to Pakistan
+
+*2024-03-16 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97998/sri-lanka-explores-potential-for-increasing-buddhist-pilgrims-to-pakistan) · `en`
+
+New Pakistani High Commissioner Major General (Retd.) Faheem Ul Aziz has called on Prime Minister Dinesh Gunawardena at the Temple Trees on Friday (March 15).
+
+The new envoy thanked the Sri Lankan Prime Minister for his felicitations and best wishes sent to newly-elected Pakistan President Asif Ali Zardari and Prime Minister Shehbaz Sharif.
+
+PM Gunawardena extended gratitude to Pakistan for supporting Sri Lanka at international forums and for extending training facilities to the members of the Sri Lankan armed forces.
+
+He discussed the possibility of expanding bilateral ties in economic spheres, investments, tourism and industries.
+
+High Commissioner Aziz said there is potential for increasing Buddhist pilgrims to Pakistan as sufficient infrastructure facilities have been established in places of pilgrimage such as Thakshila and Gandhara region.
+
+...
+
+[Data](articles/243d4a97.json)
+
+---
 
 ### U.N. agency in Gaza says one in three children under 2 is acutely malnourished
 
@@ -2253,41 +2289,5 @@ The IORA Day celebrated under the theme “Ensuring a Sustainable Indian Ocean f
 [Data](articles/75b2588a.json)
 
 [Extended Data](ext_articles/75b2588a.ext.json)
-
----
-
-### US Peace Corps Volunteers sworn in, marking historic return to Sri Lanka
-
-*2024-03-16 00:21:30* · [`dailyftlk`](https://www.ft.lk/news/US-Peace-Corps-Volunteers-sworn-in-marking-historic-return-to-Sri-Lanka/56-759575) · `en`
-
-US Ambassador Julie Chung, Peace Corps Director Carol Spahn, and First Lady Professor Maithree Wickremesinghe join US Peace Corps Volunteers, school directors and counterparts at the Peace Corps swearing in ceremony in Colombo on March 6
-
-Peace Corps Volunteers learned Sri Lankan culture, Sinhala or Tamil for the past three months before they go out to their schools to teach English for the next two years
-
-...
-
-[Data](articles/c7e05795.json)
-
-[Extended Data](ext_articles/c7e05795.ext.json)
-
----
-
-### “Col” Karuna’s Eastern Tiger  revolt against LTTE 20 years ago
-
-*2024-03-16 00:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Col-Karunas-Eastern-Tiger-revolt-against-LTTE-20-years-ago/172-278975) · `en`
-
-Karuna projected himself as the “Eastern national leader”, second only to Prabhakaran in the Tiger hierarchy
-
-Karuna kept LTTE resistance alive during the days of the IPKF. He and his former deputy Reagan led the counter offensive against the ill-fated Tamil National Army after the withdrawal of the IPKF
-
-Twenty years have passed and much water has flown under the bridge since the eastern tiger revolt. Nevertheless the episode that fragmented the LTTE, remains an important chapter in the history of the ethnic conflict
-
-The Liberation Tigers of Tamil Eelam(LTTE) organization fought the armed forces of Sri Lanka for 33 years in pursuance of its political goal of establishing a separate state  called Tamil Eelam in the Northern and Eastern provinces of the Island.
-
-...
-
-[Data](articles/5e5b18b1.json)
-
-[Extended Data](ext_articles/5e5b18b1.ext.json)
 
 ---

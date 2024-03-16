@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 09:02:53**
+As of **2024-03-16 09:17:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,212 (100.0%) of 13,214 articles have been extended.
+13,214 (100.0%) of 13,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,8 @@ Under this level of temperature, fatigue is possible with prolonged exposure and
 ...
 
 [Data](articles/379e2673.json)
+
+[Extended Data](ext_articles/379e2673.ext.json)
 
 ---
 
@@ -320,19 +322,25 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 
 ---
 
-### ’அரச பணத்தை உரிய முறையில் செலவு செய்க’
+### Expenditure Government Money
 
 *2024-03-16 03:23:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-பணத்தை-உரிய-முறையில்-செலவு-செய்க/175-334739) · `ta`
 
-அபிவிருத்திக்காக அரசாங்கம் வழங்கும் நிதியை உரிய முறையில் செலவழித்து அதன் மூலம் தேசிய பொருளாதாரத்தை வலுப்படுத்தி, மக்களுக்கு நன்மைகளை வழங்க அர்ப்பணிப்புடன் செயற்படுங்கள் என  ஜனாதிபதி ரணில் விக்கிரமசிங்க அனைத்து பிரதேச செயலாளர்களிடமும் கேட்டுக்கொண்டார்.
+President Ranil Wickremesinghe urged Divisional Secretaries to use government funds for development, aiming to strengthen the economy and benefit the people. This was discussed at the Sri Lanka Forum College, Colombo, focusing on improving government development programs.
 
-அரசாங்கத்தினால் அமுல்படுத்தப்படும் அபிவிருத்தி வேலைத் திட்டங்களின் முன்னேற்றம் தொடர்பாக அனைத்து மாவட்ட செயலாளர்களுடனும், பிரதேச செயலாளர்களுடனும் நேற்று கொழும்பு இலங்கை மன்றக் கல்லூரியில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி இவ்வாறு  குறிப்பிட்டார்.
+🟩
 
-'வலுவான எதிர்காலத்திற்கான முன்னுரை – 2024' என்ற தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்டிருந்த இக்கூட்டத்தில், அரசாங்கத்தினால் நடைமுறைப்படுத்தப்பட்டுள்ள அபிவிருத்தித் திட்டங்கள் மற்றும் அவற்றை நடைமுறைப்படுத்துவதில் ஏற்பட்டுள்ள சிக்கல்கள் தொடர்பில் விரிவாக ஆராயப்பட்டது. (a)
+President Ranil Wickremesinghe has asked all the Divisional Secretaries to spend the funds provided by the government for development and thereby strengthen the national economy and dedicate the benefits to the people.
+
+The President made these comments during a discussion held at the Sri Lanka Forum College, Colombo yesterday with all District Secretaries and Divisional Secretaries on the improvement of the development programs implemented by the government.
+
+The meeting, organized under the theme of 'Strong Futures - 2024', examined the development projects implemented by the government and the problems in implementing them.. (A)
 
 ◼️
 
 [Data](articles/34ebc652.json)
+
+[Extended Data](ext_articles/34ebc652.ext.json)
 
 ---
 

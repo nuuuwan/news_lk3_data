@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 05:37:03**
+As of **2024-03-16 05:56:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,189 (100.0%) of 13,195 articles have been extended.
+13,195 (100.0%) of 13,195 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -500,6 +500,8 @@ Commemorating its 31st year, Kala Pola is Sri Lanka’s largest and longest-runn
 
 [Data](articles/75b6e6da.json)
 
+[Extended Data](ext_articles/75b6e6da.ext.json)
+
 ---
 
 ### Unilever and IDB partner to uplift SMEs and livelihoods
@@ -511,6 +513,8 @@ Unilever Sri Lanka and the Industrial Development Board (IDB) signed a three-yea
 ...
 
 [Data](articles/96886e84.json)
+
+[Extended Data](ext_articles/96886e84.ext.json)
 
 ---
 
@@ -646,6 +650,8 @@ The safety recall is a proactive measure to rectify fuel impurity blockages with
 
 [Data](articles/9447875d.json)
 
+[Extended Data](ext_articles/9447875d.ext.json)
+
 ---
 
 ### Share market remains in positive territory as blue chips take centre stage
@@ -659,6 +665,8 @@ The All Share Price Index went up by 18.79 points, while the S and P SL 20 rose 
 ...
 
 [Data](articles/245e451c.json)
+
+[Extended Data](ext_articles/245e451c.ext.json)
 
 ---
 
@@ -695,6 +703,8 @@ Share market remains in positive territory as blue chips take centre stage
 ...
 
 [Data](articles/8fd7a798.json)
+
+[Extended Data](ext_articles/8fd7a798.ext.json)
 
 ---
 

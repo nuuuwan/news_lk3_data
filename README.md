@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 14:17:54**
+As of **2024-03-16 14:33:25**
 
 ## Newspaper Stats
 
-*Scraped **13,261** Articles*
+*Scraped **13,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,597
+adaderanalk | 1,598
 tamilmirrorlk | 1,610
 virakesarilk | 1,846
 dailymirrorlk | 2,035
@@ -26,43 +26,57 @@ adaderanasinhalalk | 2,092
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,256 (100.0%) of 13,261 articles have been extended.
+13,261 (100.0%) of 13,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### ඔටාවා සිද්ධියෙන් දිවි බේරාගත් ධනුෂ්ක ගැන හෙළිදරව්වක්
+### A revelation of the Dhanushka saved from the ethnic incident
 
 *2024-03-16 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194570) · `si`
 
-කැනඩාවේදී ඝාතනයට ලක්වූ එකම පවුලේ ශ්‍රී ලාංකිකයින් 05 දෙනා ඇතුළු 6දෙනාගේ සිද්ධියේදී බරපතළ තුවාල ලබා රෝහල්ගත කෙරුණු ධනුෂ්ක වික්‍රමසිංහගේ තත්ත්වය ගැන මේ වනවිට අනාවරණය වී තිබේ.
+Dhanushka Wickremasinghe, hospitalized after the incident, is in serious condition. The funeral is tomorrow at OTZHA. Condolences to those affected. Dhanushka thanks Ottawa residents, Canadians, and Sri Lankans for their support.
 
-"මම හිතන්නේ ඔහු පීඩාවිඳින කම්පනයෙන් මිදීමට තවත් වසර ගණනාවක් ගත වෙයි. මානසික වශයෙන් හොඳ තත්ත්වයක් පසුනොවන බවයි මට කිව හැක්කේ."
+🟩
 
-මියගිය අයගේ අවමංගල්‍ය උත්සවය හෙට (17) පස්වරුවේ ඔටාවාහීදී පැවැත්වීමට නියමිතය.
+Dhanushka Wickremasinghe, who was hospitalized after the six Sri Lankans killed in Canada, has been taken seriously injured in the incident.
 
-අවමංගල්‍ය උත්සව අවස්ථාවට එක්වන ජනතාව වෙනුවෙන් ශෝක ප්‍රකාශයන් සටහන් තැබීමට අවස්ථාව උදාකර ඇති අතර ඔවුන් වාසය කළ නිවස අසල උද්‍යානයේ පසුගියදා පැවැති අනුස්මරණ අවස්ථාවේදී ජනතාව තැබු සටහන් සහ සෙල්ලම් භාණ්ඩ ඇතුළු දෑ හිල්ඩා ජයවර්ධනාරාම බෞද්ධ විහාරය වෙතට ලබාදීමටද නියමිතය.
+"I think he'll take more years to get rid of the shock he will suffer. I can say that it is not a mentally good condition. "
 
-"ඔටාවා ජනතාව එම අවස්ථාවේ ලබාදුන් සහාය මේ අවස්ථාවේදී ඔහුට ශක්තියක් ලබාදුන්නා. ඒ වගේම ධනුෂ්කට ඔටාවා ජනතාව ලබාදුන් සහාය වගේම කැනේඩියානුවන් ලබාදුන් සහාය සහ ශ්‍රී ලාංකිකයන් ලබාදුන් සහාය වෙනුවෙන් ඔහු ස්තූතියද පළකර සිටියා."
+The funeral will be held tomorrow (17) at the OTZHA.
+
+The condolences have been given to the people who join the funerals and the people who lived in the park near the garden near the recent past.
+
+"The support of the people of the Ottawa gave him the strength. He also thanked the support of Dhanush and support the support of Canadians and support Sri Lankans. "
 
 ◼️
 
 [Data](articles/a16dd342.json)
 
+[Extended Data](ext_articles/a16dd342.ext.json)
+
 ---
 
-### வீட்டின் அருகே பாரிய குளத்தில் போதிய நீர் இருந்தும் நீரின்றி அல்லலூரும் மக்கள்
+### There is insufficient water in the massive pond near the house
 
 *2024-03-16 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178858) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் பாரிய நீர்ப்பாசன குளங்களில் ஒன்றாகிய முத்துஐயன்கட்டு குளத்தில் தற்போது 23 அடி நீர்மட்டம் காணப்படுகிறது. முன்னைய  காலங்களை விட இவ் வருடம் குளம் முழுதாக நிரம்பி குளத்தில் தேவையான நீர் காணப்படுகின்றது. ஆனால் உரிய வகையில் தமக்கான நீர் விநியோகம் இடம்பெறாமை காரணமாக தங்களுடைய வான் பயிர்கள் அனைத்தும் அழிவடைவதாகவும் அத்தோடு தங்களுடைய கிணற்றில் குடிநீர் கூட இல்லாத நிலை   ஏற்பட்டுள்ளதாகவும் இருப்பினும் தமக்கு நீரை திறந்து தருவதற்கு உரிய அதிகாரிகளை அனுகியும் இதுவரை எந்த தீர்வும் எட்டவில்லை என மக்கள் அங்கலாய்க்கின்றனர்.
+The Muthuiyankattu pond in Mullaitivu district is unusually full, but residents claim their crops and wells are dry. Despite demands, authorities haven't opened the water. Former officials Sivapragasam Sivamohan and Durairasa Ravikaran have been involved. People are impacted by water shortages, and there's a demand for water in areas not yet serviced by contractors. The government plans to address this by the 31st, but residents are frustrated with the delay and destruction of their crops.
 
-குளத்து கட்டில் இருந்து  300 மீட்டர் தூரத்தில் உள்ள காணியில் உள்ள கிணற்றில்  குடிநீருக்கு கூட தண்ணீர் இல்லாத இக்கட்டான நிலைமை இருந்தும் அதிகாரிகள் கண்மூடித்தனமாக இருக்கின்றதாக மக்கள் குற்றம்  சுமத்துகின்றனர். இவ்வாறான  நிலையில் மக்கள் தமக்கான நீரை பெற்று தருமாறு பல்வேறு கோரிக்கைகளை விடுத்த பின்னணியிலும்  இதற்கான முடிவுகள் எட்டப்படாத நிலை காணப்படுகிது.
+🟩
+
+The Muthuiyankattu pond, which is one of the massive irrigation ponds in the Mullaitivu district, is currently 23 feet of water level. This year, the pond is full of water than the previous times, the water is found in the pond. But people are claiming that all their air crops are destroyed due to their lack of water supply and that there is no drinking water in their wells, but there has been no solution to the authorities to open the water.
+
+People allege that the authorities are indiscriminately despite the lack of water for drinking water in a well in a well in the land, about 300 meters from the pond cot.. In this case, the results of this have not been reached in the wake of various demands for the people to get their water.
+
+In this backdrop, former parliamentarian Sivapragasam Sivamohan and former Northern Provincial Council member Durairasa Ravikaran have been informed of their positions.
 
 ...
 
 [Data](articles/fdc9ae82.json)
+
+[Extended Data](ext_articles/fdc9ae82.ext.json)
 
 ---
 
@@ -110,27 +124,49 @@ Also, the Minister said that it is no longer productive to cultivate fallow padd
 
 ---
 
-### දැඩි උණුසුම් කාලගුණය නිසා චර්ම රෝග
+### Dermatologist because of severe warm weather
 
 *2024-03-16 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194568) · `si`
 
-මේ දිනවල ශ්‍රී ලංකාවට දැඩි උණුසුම් කාලගුණ තත්ත්වයක් බලපා තිබේ.
+Sri Lanka's severe weather conditions pose a risk of dermatitis. Experts warn of skin changes due to sun exposure and burns. Infections from food, sweat, and skin products can exacerbate conditions. Allergies may increase with warm weather, especially in children. Medical advice is advised against seeking pharmacy treatments for fungal infections, as they can worsen. It's unwise for children to learn to avoid sun exposure, as adults struggle with these conditions.
 
-දිවයිනේ සියලුම දිස්ත්‍රික්ක සඳහා මෙම තත්ත්වය බලපා ඇති අතර කුරුණෑගල, රත්නපුර, අනුරාධපුර දිස්ත්‍රික්කවල ඊයේ (15) දිනයේත් පැවතියේ ඉහළ උණුසුම් කාලගුණයකි.
+🟩
 
-එම අධික උණුසුම් කාලගුණ තත්ත්වයත් සමග චර්ම රෝග ඇතිවීමේ අවදානමක් පවතින බව විශේෂඥ වෛද්‍යවරු පෙන්වා දෙයි.
+Heavy hostile weather conditions have been affected by Sri Lanka.
 
-හිරුඑළිය සම මතට සෘජුවම පතිතවීම හේතුවෙන් සමෙහි යම් යම් වෙනස්කම් ඇතිවිය හැකි අතර මෙහිදී සම පිළිස්සීමකට ලක්වීමේ ස්වභාවයක් දැකගත හැකිය.
+This situation has been affected by all the country's districts and has been inaugurated in the Kurunegala, Ratnapura and Anuradhapura districts yesterday (15).
 
-සම මත සුදු පැහැති ලප ඇතිවීම, සම කැසීමකට ලක්වීම, දහදිය දැමීම හේතුවෙන් සැරව බිබිලි තත්ත්වයක් ඇතිවීම, දහදිය වැඩිවශයෙන් එකතුවන ස්තානවල රවුම් හැඩැති දිලීර තත්ත්වයක් ඇතිවීම මෙම ආසාදිත තත්ත්වයන් ලෙස හඳුනාගෙන තිබේ.
+Specialist doctors point out that there is a risk of dermark with such heavy weather conditions.
 
-මීට අමතරව සමෙහි දැනට පවතින ආසාත්මික තත්ත්වයන්ගේ වැඩිවීමක්ද උණුසුම් කාලගුණයත් සමග ඇතිවිය හැකි බව විශේෂඥයින් පෙන්වා දෙයි.
+The skin can cause some changes to the skin due to the skin of the sun and a nature of being burned.
 
-විශේෂයෙන් කුඩා දරුවන් මෙම තත්ත්වයට වැඩි වශයෙන් ගොදුරුවීමේ අවධානමක් පවතින අතර ඒ පිළිබඳව වෛද්‍ය උපදෙස් ලබාගැනීම අනිවාර්ය බව චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ඉන්දිරා කහවිට මහත්මිය පැවසුවාය.
+These infected conditions have been identified as a healthy quality of placing foods, which occur in the skin, and sweat due to sweetness due to whatever skin razzling, skin razor and sweat.
+
+Experts say that there is an increase in the existing allergic objectives of the present, and with warm weather.
+
+In particular, young children have a risk of this situation, and the medical advice is inevitable to seek medical advice.
 
 ...
 
 [Data](articles/e36fa120.json)
+
+[Extended Data](ext_articles/e36fa120.ext.json)
+
+---
+
+### Emergency call centre dedicated to Tamil-speaking people launched
+
+*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/emergency-call-centre-dedicated-to-tamil-speaking-people-launched) · `en`
+
+An Emergency call centre dedicated to the Tamil-speaking community, especially in the North and the East, was launched in Vavuniya on Saturday (March 16).
+
+The police media division said the Tamil-speaking community can contact the call centre via hotline 107 to seek assistance of any sort.
+
+The hotline, introduced under the instructions of the President, was launched in Vavuniya by Public Security Minister Tiran Alles and Inspector General of Police (IGP) Deshabandu Tennakoon at the office of the Vavuniya Senior Superintendent of Police (SSP).
+
+◼️
+
+[Data](articles/2e784279.json)
 
 ---
 
@@ -180,19 +216,27 @@ The hotline, introduced under the instructions of the President, was launched in
 
 [Data](articles/c55c9ffe.json)
 
+[Extended Data](ext_articles/c55c9ffe.ext.json)
+
 ---
 
-### දෙමළ භාෂාවෙන් පොලිස් සහාය ලබාගැනීමට 107 අමතන්න
+### Call 107 to obtain police support in Tamil
 
 *2024-03-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194567) · `si`
 
-දෙමළ භාෂාවෙන් පැමිණිළි ඉදිරිපත් කිරීම සඳහා 107 පොලිස් හදිසි ඇමතුම් අංකය හඳුන්වා දී තිබේ.
+The 107 emergency number allows Tamil-speaking individuals in the North and East to report complaints to the police.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය වැඩිදුරටත් සඳහන් කළේ විශේෂයෙන් උතුරු නැගෙනහිර ජනතාවට ඒ ඔස්සේ දෙමළ භාෂාවෙන් පොලිස් සහාය ලබාගත හැකි බවය.
+🟩
+
+The 107 police emergency number has been introduced to submit the complaints in Tamil.
+
+The Police Media Division said that the people of the North and East can obtain police assistance in Tamil and language.
 
 ◼️
 
 [Data](articles/bee11ffa.json)
+
+[Extended Data](ext_articles/bee11ffa.ext.json)
 
 ---
 
@@ -2099,19 +2143,5 @@ The sword, the iron rod and the iron pipe were recovered from the three -wheeler
 [Data](articles/9f625930.json)
 
 [Extended Data](ext_articles/9f625930.ext.json)
-
----
-
-### Despite hot weather...
-
-*2024-03-15 22:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Despite-hot-weather/110-278919) · `en`
-
-People in urban areas of Colombo engaged in work during the daytime despite the hot weather. Some labourers were also transporting goods in Pettah to earn their living, persevering the the heat.
-
-◼️
-
-[Data](articles/a6e6dcd9.json)
-
-[Extended Data](ext_articles/a6e6dcd9.ext.json)
 
 ---

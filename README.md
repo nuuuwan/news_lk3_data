@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 19:17:45**
+As of **2024-03-16 19:33:13**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,099
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,290 (100.0%) of 13,292 articles have been extended.
+13,292 (100.0%) of 13,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### මෙවර මස්ටැංග්ස් කුසලානය ගල්කිස්ස ශාන්ත තෝමස් විද්‍යාලයට
+### Mustalings Trophy to St. Thomas' College, Mount Lavinia
 
 *2024-03-16 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194579) · `si`
 
-කොළඹ රාජකීය විද්‍යාලය සහ ගල්කිස්ස ශාන්ත තෝමස් විද්‍යාලය අතර පැවැති 47 වන මස්ටැංග්ස් කුසලාන එක්දින තරගය ජය ගැනීමට ගල්කිස්ස ශාන්ත තෝමස් විද්‍යාලය සමත් විය.
+St. Thomas' College, Mount Lavinia, won the Mustalings Trophy against Royal College, Colombo, by scoring 256 runs in 50 overs, while Royal College was bowled out for 226 runs.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශාන්ත තෝමස් විද්‍යාලය නියමිත පන්දුවාර 50 තුළ කඩුලු 08 දැවී ලකුණු 256ක් රැස් කළේය.
+🟩
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ කොළඹ රාජකීය විද්‍යාලය පන්දුවාර 48යි පන්දුවක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු ලකුණු 226ක් පමණි.
+Royal College, Colombo and St. Thomas' College, Mount Lavinia
+
+St. Thomas' scored 256 runs for the loss of 8 wickets in the 50 overs.
+
+In reply, Royal College, Colombo, was bowled out for 226 runs in the event.
 
 ◼️
 
 [Data](articles/802e0404.json)
+
+[Extended Data](ext_articles/802e0404.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ High Commissioner Aziz said there is potential for increasing Buddhist pilgrims 
 ...
 
 [Data](articles/243d4a97.json)
+
+[Extended Data](ext_articles/243d4a97.ext.json)
 
 ---
 

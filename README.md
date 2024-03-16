@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 11:17:53**
+As of **2024-03-16 11:33:33**
 
 ## Newspaper Stats
 
-*Scraped **13,229** Articles*
+*Scraped **13,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,82 @@ economynextcom | 708
 islandlk | 719
 adalk | 1,130
 adaderanalk | 1,593
-tamilmirrorlk | 1,606
+tamilmirrorlk | 1,608
 virakesarilk | 1,838
 dailymirrorlk | 2,029
-adaderanasinhalalk | 2,085
+adaderanasinhalalk | 2,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,227 (100.0%) of 13,229 articles have been extended.
+13,229 (100.0%) of 13,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### வெள்ளவத்தை நபர் சிவனொளிபாத மலையில் மரணம்
+### மொட்டு கட்சியில் இருந்து ஜனாதிபதி வேட்பாளர்
+
+*2024-03-16 11:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-334745) · `ta`
+
+ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளர் ஒருவரை களமிறக்க திட்டமிடப்பட்டுள்ளதாக முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+நேற்று (15) ஊடகவியலாளர்கள் எழுப்பிய  கேள்விகளுக்கு பதிலளிக்கும் போதே மஹிந்த ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார்.
+
+எதிர்காலத்தில் நடைபெறவுள்ள தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன நிச்சயம் வெற்றிபெறும் என அவர் இதன்போது குறிப்பிட்டுள்ளார்.
+
+எனினும், வேட்பாளர் இன்னும் பெயரிடப்படவில்லை என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/2054c6cf.json)
+
+---
+
+### தயாசிறி தலைமையில் புதிய கட்சி
+
+*2024-03-16 11:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறி-தலைமையில்-புதிய-கட்சி/175-334744) · `ta`
+
+பாராளுமன்ற  உறுப்பினர் தயாசிறி ஜயசேகர தலைமையில் புதிய அரசியல் அமைப்பு ஒன்று கொழும்பில் எதிர்வரும் 20ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது.
+
+18 அரசியல் கட்சிகள் மற்றும் முப்பது சிவில் அமைப்புகள் மற்றும் தொழிற்சங்கங்களின் பங்கேற்புடன் உருவாக்கப்படும் இந்த புதிய அமைப்புக்கு மனுஷிய ஜனதா சந்தனயா (மனிதநேய மக்கள் கூட்டணி) என பெயரிடப்பட்டுள்ளது.
+
+பல மனித உரிமைகள் சிவில் ஆர்வலர் வழக்கறிஞர்கள் மற்றும் மத அமைப்புகள் மனிதநேய மக்கள் கூட்டணிக்கு ஆதரவளிப்பதாக அதன் தலைவர்கள் கூறுகின்றனர்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலை எதிர்கொள்ளும் வகையில் புதிய கூட்டணி உருவாக்கப்படுவதாகவும், ஜனாதிபதித் தேர்தலில் கொள்கைகளுக்கு இணங்கும் அரசியல் கட்சிக்கு ஆதரவளிக்க எதிர்பார்ப்பதாகவும் அவர்கள் குறிப்பிடுகின்றனர்.
+
+எந்தவொரு அரசியல் கட்சியும் அந்தக் கொள்கைகளுக்கு ஆதரவளிக்க முன்வராவிட்டால்  தயாசிறி ஜயசேகரவை ஜனாதிபதி வேட்பாளராக நியமித்து ஜனாதிபதித் தேர்தலில் போட்டியிடுவோம் என்றும் அவர்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/b8590bcb.json)
+
+---
+
+### Death on the mountain of Sivanolipada person in Wellawatte
 
 *2024-03-16 11:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெள்ளவத்தை-நபர்-சிவனொளிபாத-மலையில்-மரணம்/76-334743) · `ta`
 
-ஹட்டன்- நல்லத்தண்ணி வழியாக சிவனொளிபாத மலைக்கு தரிசனம் செய்ய  சென்று கொண்டிருந்த வேளையில் ரது பலம் பகுதியில்   திடீர் சுகவீனம் அடைந்தவர் மரணமடைந்துள்ளார்.
+Narayanan Sabu, 73, from Wellawatte, died on Sivanolipada hill. Relatives were at Maskeliya District Hospital. Body will be tested at Tikoya-Klangan Base Hospital.
 
-கொழும்பு 06, வெள்ளவத்தை, பெரகும்பா வீதியில் வசிக்கும் 73 வயதுடைய  நாராயணன் சாபு என்பவரே மரணமடைந்துள்ளார்.
+🟩
 
-திடீர் சுகயீனமடைந்த அவரை அவரது உறவினர்கள்    மஸ்கெலியா மாவட்ட   வைத்தியசாலையில் அனுமதித்தனர் எனினும்,  15.03.2024 அன்று இரவு 12.35 மணிக்கு அவர் உயிரிழந்ததாக மஸ்கெலியா வைத்தியசாலை தெரிவித்துள்ளது.
+Hatton- Nallathani was on his way to the Sivanolipada hill to visit the hill.
 
-அவரது உடலம்  உடற் கூற்று பரிசோதனைக்காக டிக்கோயா- கிளங்கன் ஆதார வைத்திய சாலைக்கு கொண்டு செல்ல பட்டு வைத்தியசாலையில் உடற் கூற்று பரிசோதனை நடத்தப்பட உள்ளது.
+Narayanan Sabu, a 73 -year -old Narayanan Sabu, who lives on Perakumba Road, Wellawatte, Colombo 06, has died.
 
-சிவனொளிபாதமலை பருவக்காலம் இவ்வருடம் ஆரம்பமானது முதல் இதுவரை சிவனொளி பாதமலைக்கு தரிசனம் செய்யவந்தவர்களில் அறுவர் மரணமடைந்துள்ளனர் என்பது குறிப்பிடத்தக்கது.
+His relatives were admitted to the Maskeliya District Hospital, but he died at 12.35 pm on 15.03.2024, Maskeliya Hospital said.
+
+The body is to be carried out at the Silk Hospital to take her body to the Tikoya-Klangan Base Hospital for a body test.
+
+It is noteworthy that the Sivanoli Padamalai has died since the beginning of the Sivanolipadamalai season.
 
 ◼️
 
 [Data](articles/85495b83.json)
+
+[Extended Data](ext_articles/85495b83.ext.json)
 
 ---
 
@@ -73,6 +117,28 @@ Earlier this month, His Eminence Malcolm Cardinal Ranjith, the Young Journalists
 ◼️
 
 [Data](articles/4fec7874.json)
+
+[Extended Data](ext_articles/4fec7874.ext.json)
+
+---
+
+### නිවසට වතුර ගෙන ඒමට ගිය 6 හැවිරිදි දැරිය ළිඳට බිලි
+
+*2024-03-16 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194562) · `si`
+
+මදුරන්කුලිය විරුතොඩේ ප්‍රදේශයේදී ළිඳකට වැටී දියේ ගිලී‍මෙන් දැරියක් මියගොස් තිබේ.
+
+පුත්තලම රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී එම දැරිය මියගොස් ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ 06 හැවිරිදි විරුතොඩේ මදුරන්කුලි ප්‍රදේශයේ පදිංචිව සිටි කුඩා දැරියකි.
+
+මෙම දැරිය ඊයේ (15) උදෑසන කාලයේ සිය නිවස අසල පිහිටි ළිඳෙන් පනිට්ටුවක් ආධාරයෙන් වතුර ගැනීමට යාමේදී ළිඳට වැටී ඇති බව පොලීසිය සිදුකළ විමර්ශනවලදී හෙළිවී තිබේ.
+
+කෙසෙවෙතත් වැඩිදුර විමර්ශන කටයුතු මදුරන්කුලිය පොලීසිය විසින් සිදුකරන බව සඳහන් ය.
+
+◼️
+
+[Data](articles/dbc30835.json)
 
 ---
 
@@ -2059,87 +2125,5 @@ As a request I made the president of my first Indian tour of the school, I was a
 [Data](articles/4633f7c1.json)
 
 [Extended Data](ext_articles/4633f7c1.ext.json)
-
----
-
-### Dhanushka recover from the massacre
-
-*2024-03-15 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194550) · `si`
-
-Dhanushka Wickremasinghe, recovering from a massacre, is leaving the hospital today. The Sri Lankan youth accused of the crime is in court, with the trial lasting only 4 minutes. The suspect, Fibri de Zoysa, is accused of six murders and attempted murder. His mental state is a concern for Canadian law experts. The family's funeral is scheduled for Sunday.
-
-🟩
-
-Dhanushka Wickremasinghe is due to leave the hospital today (15), who is being treated in the house of the Kandyan area in Canada.
-
-Meanwhile, the Sri Lankan youth who killed five members including five members of a Sri Lankan family presented the Ottawa court to the second day.
-
-The suspect was associated with the court and the trial was only for 4 minutes.
-
-Canada media reports that the founders of the victims were corrected in the precedent workers who were wrong in the victims were the amendment of allegations.
-
-Although a large number of journalists were gathered to the court premises to report the case, the 19-year-old Sri Lankan youth was brought to court.
-
-The suspect Fibri de Zoysa has first stated his identity in the courts.
-
-But when his name and birthday cliff express, the corresponding officer had told him to tell him that it was clearly loud.
-
-...
-
-[Data](articles/77fdd923.json)
-
-[Extended Data](ext_articles/77fdd923.ext.json)
-
----
-
-### Food Avoiding Struggle on the 19th by fishermen demanding control of Indian boats
-
-*2024-03-15 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178823) · `ta`
-
-Fishermen in Jaffna demand control over Indian boats, citing increasing violations. Despite protests and petitions, no action has been taken. They plan a food avoidance struggle on the 19th, urging support from other districts.
-
-🟩
-
-Jaffna demanding control of Indian boats. The Indian Embassy has previously decided to engage in a food avoidance struggle.
-
-Jaffna District Fishermen's Co -operative Societies Federation at a press conference held on Friday (15). District Fisheries Chairperson of Rural Organizations. He added:
-
-The violation of Indian fishermen in the waters of our Jaffna district is continuously increasing.
-
-As Indian fishermen continue to destroy our livelihood and business, no action has been taken to express our resources to the Sri Lankan government and the Indian government.
-
-Recently we staged a protest against the Sri Lankan waters demanding the control of Indian illegal fishermen. We have filed a petition with the Jaffna Indian Embassy in Jaffna. But, there was no benefit.
-
-In this context, we have decided to engage in a continuous food avoidance struggle before the Indian Consulate in Jaffna on Tuesday the 19th.
-
-...
-
-[Data](articles/de81d223.json)
-
-[Extended Data](ext_articles/de81d223.ext.json)
-
----
-
-### Sri Lanka introduces hotline for drinking water shortages
-
-*2024-03-15 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-introduces-hotline-for-drinking-water-shortages/108-278931) · `en`
-
-Colombo, March 15 (Daily Mirror) -As Sri Lanka grapples with arid weather conditions, residents in areas facing drinking water issues have been urged to reach out to the hotline 117 introduced by the Disaster Management Center (DMC).
-
-The DMC hotline stands ready to address concerns related to water shortages exacerbated by the ongoing dry spell.
-
-Pradeep Kodippili, Deputy Director of the DMC, emphasized the importance of swift action in addressing the pressing issue of drinking water scarcity.
-
-He encouraged affected residents to utilize the hotline to report their situations promptly.
-
-In addition, Kodippili highlighted the role of Grama Niladari Officers, urging residents to contact them as another avenue to seek resolution for water-related challenges.
-
-Reports also indicate that the regions of Kegalle and Kurunegala districts are particularly affected, with nearly 3,000 families currently facing drinking water shortages.
-
-◼️
-
-[Data](articles/c9de79df.json)
-
-[Extended Data](ext_articles/c9de79df.ext.json)
 
 ---

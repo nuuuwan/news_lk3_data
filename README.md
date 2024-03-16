@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 17:53:35**
+As of **2024-03-16 18:08:54**
 
 ## Newspaper Stats
 
-*Scraped **13,286** Articles*
+*Scraped **13,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,601
+adaderanalk | 1,602
 tamilmirrorlk | 1,619
 virakesarilk | 1,850
 dailymirrorlk | 2,038
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,285 (100.0%) of 13,286 articles have been extended.
+13,286 (100.0%) of 13,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Dermatologists raise concerns about skin diseases as extreme heat prevails
+
+*2024-03-16 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97996/dermatologists-raise-concerns-about-skin-diseases-as-extreme-heat-prevails) · `en`
+
+Dermatologists have raised concerns about risks of skin diseases stemming from the sweltering heat and urged the members of the public to take preventive measures.
+
+Commenting on the matter, skin care and cosmetic consultant dermatologist, Dr. Indira Kahawita advised people to avoid direct exposure to sunlight, to prevent sunburns, heat rash, sunspots, irritation, pus blisters and other conditions.
+
+She also encouraged seeking medical advice and refraining from taking over-the-counter medicines for fungal infections on the skin exacerbated by warm weather conditions.
+
+Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing children to direct sunlight and letting them engage in strenuous outdoor activities during high atmospheric temperatures.
+
+...
+
+[Data](articles/4620955c.json)
+
+---
 
 ### Dermatologists raise concerns about skin diseases as sweltering heat prevails
 
@@ -47,6 +65,8 @@ Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing 
 ...
 
 [Data](articles/4f63ec29.json)
+
+[Extended Data](ext_articles/4f63ec29.ext.json)
 
 ---
 
@@ -2253,19 +2273,5 @@ The High Commissioner met the Governor of the Province Dr. Willie Gamage on 6 Ma
 [Data](articles/f5de84d0.json)
 
 [Extended Data](ext_articles/f5de84d0.ext.json)
-
----
-
-### Computer lab with personal computers to Katumuluwa Junior School
-
-*2024-03-16 00:18:22* · [`dailyftlk`](https://www.ft.lk/news/Computer-lab-with-personal-computers-to-Katumuluwa-Junior-School/56-759571) · `en`
-
-The 1978 Science Faculty alumni batch of the University of Peradeniya recently came together to make a lasting impact on education in a rural area. They raised funds and embarked on a mission to donate a fully-equipped computer lab with personal computers to Katumuluwa Junior School, Kanaththewawa in Wariyapola. The project, which cost Rs. 1.2 million, represents not just a donation of hardware and software, but a commitment to empowering the young with the tools they need to succeed in this digital age. This computer lab would provide students with access to modern educational resources and opportunities. It was a moment of thoughtful significance for both the donors and
-
-◼️
-
-[Data](articles/395f37c9.json)
-
-[Extended Data](ext_articles/395f37c9.ext.json)
 
 ---

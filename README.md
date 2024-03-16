@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 20:49:20**
+As of **2024-03-16 21:02:51**
 
 ## Newspaper Stats
 
-*Scraped **13,301** Articles*
+*Scraped **13,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,607
 tamilmirrorlk | 1,620
 virakesarilk | 1,852
 dailymirrorlk | 2,040
-adaderanasinhalalk | 2,101
+adaderanasinhalalk | 2,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,300 (100.0%) of 13,301 articles have been extended.
+13,301 (100.0%) of 13,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### මුදලට ක්‍රිකට් තරග පාවාදෙන්න බලපෑම් කළ දෙදෙනාට රටින් පිටවීම තහනම්
+
+*2024-03-16 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194582) · `si`
+
+මේ දිනවල පල්ලෙකැලේ ක්‍රිකට් ක්‍රිඩාංගණයේදී පැවැත්වෙන ලෙජන්ඩ්ස් ක්‍රිකට් තරගාවලිය අතරවාරයේදී ක්‍රීඩකයින්ට තරග පාවාදීමට බලපෑම් කළ බව කියන ඉන්දීය කළමනාකරුවෙකු වන යෝනි පටේල් සහ ඔහුගේ සහායක පැචලෝඩියා ආකාෂ්ට දිවයිනෙන් පිටත්වීමට තහනම් නියෝගයක් නිකුත් කර තිබේ.
+
+ඒ ක්‍රීඩා වැරදිවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ පොලිස් විමර්ශන ඒකකය මගින් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ පැමිණිල්ලකට අනුවය.
+
+මෙම ඉන්දීය ජාතිකයින් මෙසේ මුදලට තරග පාවාදීමට ඇරයුම් කර ඇත්තේ ශ්‍රී ලංකා හිටපු ක්‍රිකට් ක්‍රීඩක සහ වත්මන් ශ්‍රී ලංකා තේරීම් කමිටු සභාපති උපුල් තරංගට සහ නවසීලන්ත හිටපු ක්‍රිකට් ක්‍රීඩක නීල් බෘෘම්ටය.
+
+මෙම සිදුවීම සම්බන්ධයෙන් උපුල් තරංග සහ නීල් බෘෘම් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ වංචා සහ දූෂණ විමර්ශන ඒකකයටද දැනුවත් කර තිබේ.
+
+◼️
+
+[Data](articles/116af267.json)
+
+---
 
 ### New mobile application designed to promote beach cleanliness
 
@@ -45,6 +63,8 @@ Ratnayaka emphasized the importance of commitment from all institutions responsi
 ...
 
 [Data](articles/b6766ce1.json)
+
+[Extended Data](ext_articles/b6766ce1.ext.json)
 
 ---
 
@@ -2313,29 +2333,5 @@ The Department has stated that the week is scheduled to be implemented from the 
 [Data](articles/841573d1.json)
 
 [Extended Data](ext_articles/841573d1.ext.json)
-
----
-
-### The President visited the painting exhibitions
-
-*2024-03-16 02:44:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓவியக்-கண்காட்சிகளை-பார்வையிட்டார்-ஜனாதிபதி/175-334735) · `ta`
-
-President Ranil Wickremesinghe attended painting exhibitions by Iromi Wijewardena and Winston Suludagoda, celebrating Wijewardena's 50th anniversary and Suludagoda's 34th exhibition. The theme was 'Celebration of Women', showcasing a range of subjects including daily life, global crises, and religious lifestyles.
-
-🟩
-
-President Ranil Wickremesinghe visited the Colombo 07, Lionel Vental Gallery and visited the painting exhibitions organized by two senior painters Iromi Wijewardena and Winston Suludagoda.
-
-The painting exhibition was organized under the theme 'Celebration of Women' on the 50th anniversary of the artistic life of Iromi Wijewardena and organized his 34th painting exhibition at Vinston Suluthagoda, who has organized his 34th painting exhibition at home and abroad.
-
-Winston, who has been in the field of painting for 46 years, has also shown his paintings abroad.
-
-The paintings were featured in a variety of colorful paintings, including daily life relationships, global crises and religious lifestyle.. The president, who was involved in a friendly conversation with the people who came to visit the painting exhibitions, also joined some team photographs.
-
-◼️
-
-[Data](articles/2c657125.json)
-
-[Extended Data](ext_articles/2c657125.ext.json)
 
 ---

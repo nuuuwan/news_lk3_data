@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 11:33:33**
+As of **2024-03-16 11:52:04**
 
 ## Newspaper Stats
 
-*Scraped **13,232** Articles*
+*Scraped **13,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,105 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,593
-tamilmirrorlk | 1,608
+adaderanalk | 1,594
+tamilmirrorlk | 1,610
 virakesarilk | 1,838
-dailymirrorlk | 2,029
+dailymirrorlk | 2,030
 adaderanasinhalalk | 2,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,229 (100.0%) of 13,232 articles have been extended.
+13,232 (100.0%) of 13,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### மொட்டு கட்சியில் இருந்து ஜனாதிபதி வேட்பாளர்
+### செல்வா  வழியில் செல்ல  தீர்மானம்
+
+*2024-03-16 11:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/செல்வா-வழியில்-செல்ல-தீர்மானம்/73-334747) · `ta`
+
+மட்டக்களப்பு மாவட்ட தொடர்ந்து தமிழரசுக் கட்சியினர் ஓரணியில் ஒற்றுமையாக செயற்பட்டு தந்தை செல்வாவின் வழியில் செல்ல உள்ளதாக மட்டக்களப்பு மாவட்ட செயற்குழுவில் ஏகமனதாக தீர்மானம் நிறைவேற்றப்பட்டுள்ளது.
+
+இது குறித்து  மட்டக்களப்பு பொது நூலக கேட்போர் கூடத்தில்  வெள்ளிக்கிழமை (15) மாலை இலங்கை தமிழரசுக்கட்சியின் மாவட்ட செயற்குழு கூட்டம் நடைபெற்றது.
+
+இலங்கை தமிழரசுக்கட்சியின் மாவட்ட கிளை தலைவரும் பாராளுமன்ற உறுப்பினருமான இரா.சாணக்கியன் தலைமையில் நடைபெற்ற இந்த கூட்டத்தில் மாவட்ட செயற்குழு உறுப்பினர்கள் கலந்துகொண்டனர்.
+
+இதன்போது தமிழரசுக்கட்சியின் செயற்பாடுகள் குறித்து பல்வேறுவாதப்பிரதிவாதங்கள் நடைபெற்ற நிலையில் கட்சியினை ஒற்றுமையுடன் முன்கொண்டுசெல்வதற்கு அனைவரும் ஒன்றுபட்டு செயற்படுவதற்கு தீர்மானிக்கப்பட்டதாக கூட்டம் நிறைவுபெற்றதன் பின்னர் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் தெரிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/cad6355e.json)
+
+---
+
+### Online ஆசன முன்பதிவில் சிக்கல்
+
+*2024-03-16 11:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Online-ஆசன-முன்பதிவில்-சிக்கல்/175-334746) · `ta`
+
+தொலைதூர ரயில்களில் ஆசன முன்பதிவு செய்ய புதிதாக அறிமுகப்படுத்தப்பட்டுள்ள இணையவழி முறை சிக்கலை ஏற்படுத்துவதாக ரயில் பயணிகள் குற்றம் சாட்டியுள்ளனர்.
+
+இதனால் கோட்டை ரயில் நிலையத்திற்கு வந்த பயணிகள் பலர் நேற்று அசௌகரியங்களுக்கு உள்ளாகினர்.
+
+சாதாரண பயணிகள் மற்றும் அரசாங்க ஊழியர்களுக்கான டிக்கெட் முன்பதிவு செயல்முறையை டிஜிட்டல் மயமாக்கும் நடவடிக்கையாக இலங்கை ரயில்வே சமீபத்தில் முதல் இணையவழி டிக்கெட் மற்றும் இணையவழி ரயில் ஆசன முன்பதிவு முறையை அறிமுகப்படுத்தியது.
+
+அதன்படி, இணையவழி முறையில் ஆசன முன்பதிவு செய்த பயணிகளுக்கு டிக்கெட் ஒதுக்கப்பட்டாலும், ஆசன முன்பதிவு செய்ய ரயில் நிலையத்திற்கு வந்த பின், சில பயணிகளுக்கு ஆசன ஒதுக்கீடு செய்யப்படவில்லை என தகவல் வெளியாகியுள்ளது. R
+
+◼️
+
+[Data](articles/e8566441.json)
+
+---
+
+### Presidential candidate from the bud party
 
 *2024-03-16 11:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-334745) · `ta`
 
-ஜனாதிபதித் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளர் ஒருவரை களமிறக்க திட்டமிடப்பட்டுள்ளதாக முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+Mahinda Rajapaksa plans to run a candidate for the Sri Lanka PA, predicting a win in future elections, but the candidate's name is yet to be announced.
 
-நேற்று (15) ஊடகவியலாளர்கள் எழுப்பிய  கேள்விகளுக்கு பதிலளிக்கும் போதே மஹிந்த ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-எதிர்காலத்தில் நடைபெறவுள்ள தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுன நிச்சயம் வெற்றிபெறும் என அவர் இதன்போது குறிப்பிட்டுள்ளார்.
+Former President Mahinda Rajapakse has said that he is planning to field a candidate of the Sri Lanka PA.
 
-எனினும், வேட்பாளர் இன்னும் பெயரிடப்படவில்லை என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மேலும் தெரிவித்துள்ளார். R
+Responding to questions raised by journalists yesterday (15), Mahinda Rajapaksa said this.
+
+He said that the Sri Lanka PA would definitely win the future elections.
+
+However, former President Mahinda Rajapakse added that the candidate has not yet been named. Remble
 
 ◼️
 
 [Data](articles/2054c6cf.json)
 
+[Extended Data](ext_articles/2054c6cf.ext.json)
+
 ---
 
-### தயாசிறி தலைமையில் புதிய கட்சி
+### New party headed by Dayasiri
 
 *2024-03-16 11:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறி-தலைமையில்-புதிய-கட்சி/175-334744) · `ta`
 
-பாராளுமன்ற  உறுப்பினர் தயாசிறி ஜயசேகர தலைமையில் புதிய அரசியல் அமைப்பு ஒன்று கொழும்பில் எதிர்வரும் 20ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது.
+A new political organization, Manushya Janata Sandanaya, led by MP Dayasiri Jayasekara, is launching in Colombo on the 20th. It's backed by 18 political parties and 30 civil organizations. The alliance aims to support a presidential candidate, possibly Dayasiri, if other parties don't support their policies.
 
-18 அரசியல் கட்சிகள் மற்றும் முப்பது சிவில் அமைப்புகள் மற்றும் தொழிற்சங்கங்களின் பங்கேற்புடன் உருவாக்கப்படும் இந்த புதிய அமைப்புக்கு மனுஷிய ஜனதா சந்தனயா (மனிதநேய மக்கள் கூட்டணி) என பெயரிடப்பட்டுள்ளது.
+🟩
 
-பல மனித உரிமைகள் சிவில் ஆர்வலர் வழக்கறிஞர்கள் மற்றும் மத அமைப்புகள் மனிதநேய மக்கள் கூட்டணிக்கு ஆதரவளிப்பதாக அதன் தலைவர்கள் கூறுகின்றனர்.
+A new political organization headed by MP Dayasiri Jayasekara is to be launched in Colombo on the 20th.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலை எதிர்கொள்ளும் வகையில் புதிய கூட்டணி உருவாக்கப்படுவதாகவும், ஜனாதிபதித் தேர்தலில் கொள்கைகளுக்கு இணங்கும் அரசியல் கட்சிக்கு ஆதரவளிக்க எதிர்பார்ப்பதாகவும் அவர்கள் குறிப்பிடுகின்றனர்.
+The new organization, which is created with the participation of 18 political parties and thirty civil organizations and trade unions, is named as the Manushya Janata Sandanaya (Humanitarian People's Alliance).
 
-எந்தவொரு அரசியல் கட்சியும் அந்தக் கொள்கைகளுக்கு ஆதரவளிக்க முன்வராவிட்டால்  தயாசிறி ஜயசேகரவை ஜனாதிபதி வேட்பாளராக நியமித்து ஜனாதிபதித் தேர்தலில் போட்டியிடுவோம் என்றும் அவர்கள் தெரிவிக்கின்றனர்.
+Many human rights civil activists and religious organizations say that its leaders say they support the Humanitarian People's Alliance.
+
+They say that a new coalition is being formed to face the upcoming presidential election and is expecting to support the political party in the presidential election.
+
+If any political party does not come forward to support those policies, they will nominate Dayasiri Jayasekara as the presidential candidate and contest the presidential election.
 
 ◼️
 
 [Data](articles/b8590bcb.json)
+
+[Extended Data](ext_articles/b8590bcb.ext.json)
 
 ---
 
@@ -122,23 +170,49 @@ Earlier this month, His Eminence Malcolm Cardinal Ranjith, the Young Journalists
 
 ---
 
-### නිවසට වතුර ගෙන ඒමට ගිය 6 හැවිරිදි දැරිය ළිඳට බිලි
+### FR challenging IGP Tennakoon’s appointment fixed for consideration
+
+*2024-03-16 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97991/fr-challenging-igp-tennakoons-appointment-fixed-for-consideration) · `en`
+
+The Supreme Court on Friday (March 15) fixed a fundamental rights (FR) petition filed against the appointment of IGP Deshabandu Tennakoon to be taken up for consideration on April 02. The petition had been filed by Prof. Savitri Gunasekara earlier this month.
+
+When the petition was called before a 3-member Supreme Court judge bench led by Justice Preethi Padman Surasena, the petitioning party was ordered to send notices to the respondents.
+
+Subsequently, the petition was fixed for consideration on April 02.
+
+The petitioner has sought a Supreme Court ruling invalidating the appointment of the police chief.
+
+The Speaker of Parliament, the members of the Constitutional Council (CC), IGP Tennakoon and several others have been named as the respondents of the petition.
+
+...
+
+[Data](articles/8114f879.json)
+
+---
+
+### 6-year-old girl who went to bring water to the house was killed
 
 *2024-03-16 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194562) · `si`
 
-මදුරන්කුලිය විරුතොඩේ ප්‍රදේශයේදී ළිඳකට වැටී දියේ ගිලී‍මෙන් දැරියක් මියගොස් තිබේ.
+A 6-year-old girl from Madurankuliya died after falling into a well and was killed during treatment at Puttalam Hospital.
 
-පුත්තලම රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී එම දැරිය මියගොස් ඇත.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ 06 හැවිරිදි විරුතොඩේ මදුරන්කුලි ප්‍රදේශයේ පදිංචිව සිටි කුඩා දැරියකි.
+A girl has died after falling into a well in Viranthadipa area in Madurankuliya.
 
-මෙම දැරිය ඊයේ (15) උදෑසන කාලයේ සිය නිවස අසල පිහිටි ළිඳෙන් පනිට්ටුවක් ආධාරයෙන් වතුර ගැනීමට යාමේදී ළිඳට වැටී ඇති බව පොලීසිය සිදුකළ විමර්ශනවලදී හෙළිවී තිබේ.
+The girl was killed while receiving treatment at the Puttalam Hospital.
 
-කෙසෙවෙතත් වැඩිදුර විමර්ශන කටයුතු මදුරන්කුලිය පොලීසිය විසින් සිදුකරන බව සඳහන් ය.
+The deceased has been identified as a six year old girl, a six-year-old Wareheragoda Madurankuli.
+
+Investigations have revealed that the girl had fallen into the well when the girl had fallen into the well with the help of his home from the well of her house.
+
+Madurankuliya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/dbc30835.json)
+
+[Extended Data](ext_articles/dbc30835.ext.json)
 
 ---
 
@@ -1682,6 +1756,30 @@ Chasing a target of 287, Sri Lankan players won the match in 47.1 balls.
 
 ### Funeral for Sri Lankan family slain in Ottawa to be held on Sunday
 
+*2024-03-15 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Funeral-for-Sri-Lankan-family-slain-in-Ottawa-to-be-held-on-Sunday/107-278952) · `en`
+
+OTTAWA — A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
+
+In a news release Thursday, the Buddhist Congress of Canada (BCC) said the multi-faith service will be at 1 p.m. at the Infinity Convention Centre on Gibford Drive south of Ottawa's core.
+
+Four children and two adults were killed in a townhouse in the Ottawa suburb of Barrhaven March 6.
+
+Police identified five of the victims as a family of newcomers to Canada from Sri Lanka.
+
+35-year-old Darshani Dilanthika Ekanayake, was killed along with her four young children — daughters Kelly, who was two months old; Ranaya, 3; and Ashwini, 4 — and son Inuka, 7.
+
+The body of another man, 40-year-old Gamini Amarakoon, was also found at the scene.
+
+There was one survivor — Dhanushka Wickramasinghe, who was injured with an edged weapon and taken to hospital.
+
+...
+
+[Data](articles/8aa75c2d.json)
+
+---
+
+### Funeral for Sri Lankan family slain in Ottawa to be held on Sunday
+
 *2024-03-15 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Funeral-for-Sri-Lankan-family-slain-in-Ottawa-to-be-held-on-Sunday/108-278952) · `en`
 
 OTTAWA — A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
@@ -2045,85 +2143,5 @@ President of the President Saman Ekanayake, former Navy Commander Travis Chinnai
 [Data](articles/074f8a3b.json)
 
 [Extended Data](ext_articles/074f8a3b.ext.json)
-
----
-
-### Lawyer discharged from alleged professional misconduct
-
-*2024-03-15 19:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lawyer-discharged-from-alleged-professional-misconduct/108-278932) · `en`
-
-Colombo, March 15 (Daily Mirror) - The Supreme Court ruled that a lawyer involved in the controversies surrounding the prevention of a Russian Aeroflot flight from taking off from within the territorial jurisdiction of Sri Lanka following a court order, has not committed any act which would amount to conduct unworthy of an Attorney-at-Law.
-
-Accordingly, the Supreme Court three-judge-bench comprising Justices Preethi Padman Surasena, Achala Wengappuli and Mahinda Samayawardhena decided to discharge the rule issued against the respondent Attorney-at-Law citing that he has not committed any act of deceit, malpractice or offence as set out in Section 42(2) of the Judicature Act No. 02 of 1978 read with the Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules 1988.
-
-...
-
-[Data](articles/7e05af06.json)
-
-[Extended Data](ext_articles/7e05af06.ext.json)
-
----
-
-### Sri Lanka GDP grows 4.5-pct in fourth quarter, down 2.3-pct in 2023
-
-*2024-03-15 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-4-5-pct-in-fourth-quarter-down-2-3-pct-in-2023-154837/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross domestic product grew 4.5 percent in the fourth quarter of 2023, the state statistics office said, while the economy was estimated to have shrunk 2.3 percent in the full year.
-
-In the fourth quarter of 2023 Agriculture grew 0.6 percent, Industry 7.9 percent and and Services 2.8 percent.
-
-The economy contracted 12.4 percent in the fourth quarter of 2022, amid monetary instability.
-
-In 2022 Sri Lanka went through the worst currency collapse since the creation of the central bank in 1950, after rates cuts to target potential output, leading to a steep economic contraction.
-
-Monetary stability was restored in the final quarter of 2022, helping economic activities recover.
-
-In the full year 2023, agricultural activities expanded by 2.6 percent, Industry contracted by 9.2 percent and services contracted 0.2 percent
-
-the Gross Domestic Product fourth quarter of 2023 at current prices increased to 7,303,758 million rupees from 6,521,664 million in 2022. (Colombo/Mar15/2024)
-
-◼️
-
-[Data](articles/a2ebce72.json)
-
-[Extended Data](ext_articles/a2ebce72.ext.json)
-
----
-
-### Sri Lanka’s Litro Gas sale draws Vitol, Bharat Petro, China Aero among 14 investors
-
-*2024-03-15 19:07:00* · [`economynextcom`](https://economynext.com/sri-lankas-litro-gas-sale-draws-vitol-bharat-petro-china-aero-among-14-investors-154843/) · `en`
-
-ECONOMYNEXT – Fourteen investors have expressed interest in the divestiture of Litro Gas Lanka Ltd and Litro Gas Terminal (Pvt) Ltd, Sri Lanka’s State Owned Enterprises Restructuring Unit said.
-
-◼️
-
-[Data](articles/9708394f.json)
-
-[Extended Data](ext_articles/9708394f.ext.json)
-
----
-
-### 69 The government stopped by the government
-
-*2024-03-15 19:05:07* · [`adalk`](https://www.ada.lk/breaking_news/69-ලක්ෂයේ-ආණ්ඩුව-විසින්-නැවැත්වූ-වැඩක්-මෛත්‍රී-කියයි/11-408632) · `si`
-
-The Indian government aids Sri Lanka in resuming work in Polonnaruwa, with a $250 million grant for school projects. Former President Maithripala Sirisena, now an MP, thanks the Indian government and promises to complete the remaining $250 million this year.
-
-🟩
-
-Former President Maithripala Siriseena in Polonnaruwa today (15) in Polonnaruwa that the government is thankful to the Indian government to be able to resume the work in Polonnaruwa while he was present at the presidency.Said.
-
-Deputy High Commissioner of India has been opened to the invitation of former President Maithripala Sirisena today (15), a tour of the former President Maithripala Sirisena today (15th), MP Maithripala Sirisena addressing the media.said.
-
-Accordingly, the Indian government has received 250 million rupees to end the work of the school within the next six months.
-
-As a request I made the president of my first Indian tour of the school, I was awarded to Sri Lanka as a prize of the President as a prize of the President as a tyranish school.After 60,000 the government returned to the 2019, the covard had an effectiveness, but the government was interested in the government.
-
-...
-
-[Data](articles/4633f7c1.json)
-
-[Extended Data](ext_articles/4633f7c1.ext.json)
 
 ---

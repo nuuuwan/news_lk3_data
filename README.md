@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 07:41:51**
+As of **2024-03-16 07:52:32**
 
 ## Newspaper Stats
 
-*Scraped **13,203** Articles*
+*Scraped **13,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,585
+adaderanalk | 1,586
 tamilmirrorlk | 1,603
 virakesarilk | 1,834
 dailymirrorlk | 2,024
-adaderanasinhalalk | 2,080
+adaderanasinhalalk | 2,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,201 (100.0%) of 13,203 articles have been extended.
+13,201 (100.0%) of 13,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### ජනාධිපතිවරණය ට පොහොට්ටුවෙන් අපේක්ෂකයෙක් ?
+
+*2024-03-16 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194558) · `si`
+
+ජනාධිපතිවරණය සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් අපේක්ෂකයෙකු ඉදිරිපත් කිරීමට සැලසුම් කර ඇති බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+ඊයේ (15) පැවති උත්සවයකින් අනතුරුව මාධ්‍යවේදීන්  නැගූ ප්‍රශ්න කිහිපයකට පිළිතුරු දෙමින් මහින්ද රාජපක්ෂ මහතා මේ බව පැවසීය.
+
+එහිදී ඔහු සඳහන් කළේ ඉදිරියේ පැවැත්වීමට නියමිත මැතිවරණයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණ නියත වශයෙන් ජයගන්නා බවය.
+
+‍නමුත් තවමත් එම අපේක්ෂක‍යා කවුරුන්ද යන්න නම් කර ‍නොමැති බවත් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/086250da.json)
+
+---
+
+### පොලිස්පති පත්කිරීමට එරෙහිව FR පෙත්සමක්
+
+*2024-03-16 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194557) · `si`
+
+පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා පත් කිරීම අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සමක් සලකාබැලීම සඳහා අප්‍රේල් මස 02 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබේ.
+
+මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය විසින් එම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+එම පෙත්සම ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ  ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවා තිබුණි.
+
+එහිදී ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියෝග කළේ වගඋත්තරකරුවන්ට නොතිසි යැවීමට පියවර ගන්නා ලෙසය.
+
+අනතුරුව පෙත්සම සලකාබැලීම සඳහා අප්‍රේල් මස 02 වනදා කැඳවන ලෙස අධිකරණය නියෝග කර ඇත.
+
+පෙත්සම්කාරිය කියා සිටින්නේ පොලිස්පතිවරයා වශයෙන් පත් කිරීම සඳහා ජනාධිපතිවරයා විසින් නිර්දේශ කරනු ලැබූ දේශබන්දු තෙන්නකෝන් මහතාගේ නාම යෝජනාව ආණ්ඩුක්‍රම ව්‍යස්ථාදායක සභාව විසින් විධිමත් ආකාරයෙන් අනුමත කර නොමැති බවය.
+
+◼️
+
+[Data](articles/6d796086.json)
+
+---
+
+### 18 police officers including SDIGs transferred; new CID director appointed
+
+*2024-03-16 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97987/18-police-officers-including-sdigs-transferred-new-cid-director-appointed) · `en`
+
+A total of 18 senior police officers including Senior Deputy Generals of Police (SDIGs) have been transferred with immediate effect.
+
+The transfers were made under the directives of Inspector General of Police (IGP) Deshabandu Tennakoon, pursuant to a decision made by the National Police Commission.
+
+Among the transferred officers are 8 Senior Deputy Generals of Police (SDIGs), one Deputy General of Police (DIG), 8 Senior Superintendent of Police (SSPs) and one Superintendent of Police (SP).
+
+Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC) of the Mount Lavinia Police Division has been moved to the Criminal Investigation Department (CID) as its director.
+
+◼️
+
+[Data](articles/a5fdbfa0.json)
+
+---
 
 ### Absence of defence attaché hinders efforts to nab criminals abroad
 
@@ -2063,71 +2121,5 @@ Police suspect the conductor for his involvement in similar previous incidents.
 [Data](articles/3e491eca.json)
 
 [Extended Data](ext_articles/3e491eca.ext.json)
-
----
-
-### Forest killed in clashes
-
-*2024-03-15 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194545) · `si`
-
-An overseas national was killed in clashes in Pottuvil Sangankanda, attacked by a local nationality. Another was killed in Lidwewa while conducting cultivation.
-
-🟩
-
-An overseas have died after being attacked by Ven. Pottuvil Sangankanda area.
-
-It is reported that the relevant national national is attacked by the relevant nationality in Manichani in Manichani, this morning (15).
-
-The Ada Derana reporter said he was staying at a hotel in the area.
-
-Meanwhile, Medawachchiya was also killed in the Lidwewa area.
-
-The police said that he had been inaugurated while he was conducting cultivation.
-
-◼️
-
-[Data](articles/a5c6571a.json)
-
-[Extended Data](ext_articles/a5c6571a.ext.json)
-
----
-
-### Keheliya seeks bail
-
-*2024-03-15 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Keheliya-seeks-bail/155-278921) · `en`
-
-Colombo, March 15 (Daily Mirror)- Former Health Minister Keheliya Rambukwella, currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, has sought bail from the Colombo High Court.
-
-Filing a bail application through a lawyer, the former Health Minister is requesting the Colombo High Court that he be released on whatever bail conditions court deems fit.
-
-In his application, Keheliya Rambukwella alleged that the Maligakanda Magistrate, on a number of occasions has refused to grant bail and made remand orders without reasonable grounds.
-
-The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten others till March 28 in connection with this incident.
-
-◼️
-
-[Data](articles/991252f8.json)
-
-[Extended Data](ext_articles/991252f8.ext.json)
-
----
-
-### Keheliya seeks bail
-
-*2024-03-15 15:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliya-seeks-bail/108-278921) · `en`
-
-Colombo, March 15 (Daily Mirror)- Former Health Minister Keheliya Rambukwella, currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, has sought bail from the Colombo High Court.
-
-Filing a bail application through a lawyer, the former Health Minister is requesting the Colombo High Court that he be released on whatever bail conditions court deems fit.
-
-In his application, Keheliya Rambukwella alleged that the Maligakanda Magistrate, on a number of occasions has refused to grant bail and made remand orders without reasonable grounds.
-
-The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten others till March 28 in connection with this incident.
-
-◼️
-
-[Data](articles/c476993d.json)
-
-[Extended Data](ext_articles/c476993d.ext.json)
 
 ---

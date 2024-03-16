@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 15:33:24**
+As of **2024-03-16 15:51:27**
 
 ## Newspaper Stats
 
-*Scraped **13,266** Articles*
+*Scraped **13,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,144 @@ economynextcom | 709
 islandlk | 720
 adalk | 1,131
 adaderanalk | 1,599
-tamilmirrorlk | 1,610
-virakesarilk | 1,847
-dailymirrorlk | 2,036
+tamilmirrorlk | 1,614
+virakesarilk | 1,850
+dailymirrorlk | 2,037
 adaderanasinhalalk | 2,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,266 (100.0%) of 13,266 articles have been extended.
+13,266 (99.9%) of 13,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### ஜனநாயக மக்கள் காங்கிரஸ் - ஐக்கிய சுதந்திர  கட்சி இணைந்து புதிய கூட்டணி
+
+*2024-03-16 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/178877) · `ta`
+
+ஜனநாயக மக்கள் காங்கிரஸ் மற்றும் ஐக்கிய சுதந்திர  கட்சி ஆகியவை இணைந்து புதிய கூட்டணி ஒன்றை அமைக்கும் உடன்படிக்கையை கொழும்பில் கைச்சாத்திட்டுள்ளது.
+
+இதற்கான நிகழ்வு கொழும்பு பம்பலப்பிட்டி லூரிஸ் வீதியில் அமைந்துள்ள ஜனநாயக மக்கள் காங்கிரஸ் தலையங்கத்தில் வெள்ளிக்கிழமை நேற்று (15) இடம் பெற்றதாக ஐக்கிய சுதந்திர கட்சி பொது செயலாளர் சவேரியார் ஜேசுதாஸ் தெரிவித்தார்.
+
+இதன்போது இடம்பெற்ற கைச்சாத்து நிகழ்வில் ஜனநாயக மக்கள் காங்கிரஸ் தலைவர் பிரபா கணேஷன் மற்றும் அக்கட்சியின் பொது செயலாளர் கங்காதரன் சுரேஷ் ஆகியோர் அடங்கிய குழுவினர் கலந்து கொண்டனர்.
+
+அதேபோல ஐக்கிய சுதந்திர கட்சி தலைவர் சோம் கோச் மற்றும் கட்சியின் பொது செயலாளர் சவேரியார் ஜேசுதாஸ் உள்ளிட்ட தேசிய சபை உறுப்பினராகளும்  கலந்து கொண்டு புதிய கூட்டணிக்கான உடன்படிக்கையை கைச்சாத்திட்டதாக சவேரியார் ஜேசுதாஸ் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/56e5c8a2.json)
+
+---
+
+### தெப்பம் ஒதுங்கியது மீனவர் மாயம்
+
+*2024-03-16 15:28:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/தெப்பம்-ஒதுங்கியது-மீனவர்-மாயம்/71-334754) · `ta`
+
+வடமராட்சி கிழக்கு மருதங்கேணியை சேர்ந்த. கடற்தொழிலாளர் ஒருவர் சனிக்கிழமை (16) அதிகாலை  கடலில் தொழிலுக்கு சென்ற  மீனவர்  இன்னும் கரை திரும்பாமல் காணாமல் போயுள்ளார்.எனினும், அவர் சென்ற தெப்பம் மட்டும்  கரை ஒதுங்கி உள்ளது
+
+மருதங்கேணி வடக்கைச் சேர்ந்த 60 வயதுடைய  முத்துச்சாமி தவராசா  என்பவரே  காணாமல் போயுள்ளார் காணாமல் போனவரை தேடும்பணியில்  மீனவர்களும் கடற்படையினரும்  ஈடுபட்டுள்ளனர்
+
+◼️
+
+[Data](articles/4c600b59.json)
+
+---
+
+### வெப்பத்தால் மக்களுக்கு ஏற்பட்டுள்ள கடும் பாதிப்பு
+
+*2024-03-16 15:20:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பத்தால்-மக்களுக்கு-ஏற்பட்டுள்ள-கடும்-பாதிப்பு/175-334753) · `ta`
+
+நாடளாவிய ரீதியில் அனைத்து மாவட்டங்கலும் வெப்பமான வானிலையால் பாதிக்கப்பட்டுள்ளதுடன் குருநாகல், இரத்தினபுரி, அனுராதபுரம் ஆகிய மாவட்டங்களில் நேற்று (15) கடும் வெப்பமான வானலை காணப்பட்டது.
+
+கடும் வெப்பமான வானிலையுடன் தோல் நோய்கள் ஏற்படும் அபாயம் உள்ளதாக நிபுணர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+சூரிய ஒளி நேரடியாக தோலின் மீது படுவதால் சருமத்தில் சில மாற்றங்கள் ஏற்படக்கூடும், இதன்போது தோலில் எரிகாயங்கள் ஏற்படலாம்.
+
+தோலில் வெள்ளைப் புள்ளிகள் இருப்பது, தோல் அரிப்பு, வியர்வையால் சீழ் கொப்புளங்கள், வியர்வை தேங்கி மார்பகங்களில் உருண்டை வடிவ பூஞ்சை போன்றவை இந்த தொற்று நிலைகளாக அடையாளம் காணப்படுகின்றன.
+
+மேலும், தற்போது காணப்படும் தோல் ஒவ்வாமை வெப்பமான வானிலை காரணமாக அதிகரிக்கக்கூடும் என  நிபுணர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+குறிப்பாக சிறு பிள்ளைகள் இந்த நோயினால் அதிகம் பாதிக்கப்படும் அபாயம் உள்ளதாகவும், இது குறித்து மருத்துவ ஆலோசனை பெறுவது கட்டாயம் என்றும் தோல் நோய் நிபுணர் வைத்தியர் இந்திரா கஹவிட்ட தெரிவித்தார். R
+
+◼️
+
+[Data](articles/f078e731.json)
+
+---
+
+### தனியார் பஸ்ஸில் பணப்பையை திருடியவரை நையப்புடைத்து பொலிஸாரிடம் ஒப்படைத்த பயணிகள்
+
+*2024-03-16 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178873) · `ta`
+
+மொரட்டுவை மற்றும் புறக்கோட்டைக்கு இடையிலான இலக்கம் 101 பயணிகள் பஸ்ஸில் பணப்பையை திருடிய குற்றச்சாட்டில் பஸ் நடத்துனர் கைது செய்யப்பட்டுள்ளார்.
+
+பயணியொருவரின் பணப்பையை பஸ் நடத்துனர் திருடியதை மற்ற பயணியொருவர் கண்டு தெரியப்படுத்தியதை அடுத்து சந்தேக நபரை பயணிகள் நையப்புடைத்து பொலிஸாரிடம் ஒப்படைத்துள்ளார்கள்.
+
+சந்தேக நபர் போதைப்பொருள் பாவனைக்கு அடிமையானவர் எனவும், பயணிகளின் பணம் மற்றும் பெறுமதியான பொருட்களை கொள்ளையடிக்கும் நடவடிக்கையில் ஈடுபட்டுள்ளதாக பொலிஸாரின் விசாரணைகளில் தெரியவந்துள்ளது.
+
+மொரட்டுவை நோக்கி பயணித்த கம்பஹா பகுதியைச் சேர்ந்த பயணியின் பணப்பையே இவ்வாறு திருடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6247164b.json)
+
+---
+
+### அரசியல் வெறுத்துவிட்டது – முன்னாள் ஜனாதிபதி சந்திரிகா
+
+*2024-03-16 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178872) · `ta`
+
+நிகழ்வொன்றில் நாட்டின் தற்போதைய நிலைமை குறித்து கருத்து தெரிவிக்குமாறு  கேள்வி எழுப்ப்பட்டவேளை அவர் இதனை தெரிவித்துள்ளார்.
+
+அரசியல் குறி;த்து கேள்வி எழுப்பப்பட்டவேளை எனக்கு அரசியல் குறித்து வெறுப்புஏற்பட்டுவிட்டது என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f551b364.json)
+
+---
+
+### Bangladesh drop Litton from squad for third Sri Lanka ODI
+
+*2024-03-16 15:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-drop-Litton-from-squad-for-third-Sri-Lanka-ODI/108-278997) · `en`
+
+March 16, (ESPNcricinfo) - Bangladesh have dropped Litton Das for the third ODI against Sri Lanka. He has been released from the squad on advice from the team management to play in the ongoing Dhaka Premier League.
+
+Bangladesh have replaced him with wicketkeeper-batter Jaker Ali who scored an impressive 68 in the first T20I against Sri Lanka. He has 84 List A appearances and has racked up 1918 runs at an average of 34.87.
+
+It is the first time that Litton has lost his place since 2021 when he was dropped for a T20I series against Pakistan.
+
+Litton was out without scoring in the first two ODIs against Sri Lanka, and also failed to impress in the T20I series against them, registering scores of 0, 36 and 7 in the three matches.
+
+From the start of the 2023 ODI World Cup, Litton has scored just 313 runs in 14 ODIs at an average of 24.07. He has crossed the 50-run mark just twice in that time.
+
+...
+
+[Data](articles/c1a7d34c.json)
+
+---
+
+### புதிய கூட்டணிக்கு கைச்சாத்து
+
+*2024-03-16 15:02:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதிய-கூட்டணிக்கு-கைச்சாத்து/76-334751) · `ta`
+
+ஜனநாயக மக்கள் காங்கிரஸ் மற்றும் ஐக்கிய சுதந்திர  கட்சி ஆகியவை இணைந்து புதிய கூட்டணி ஒன்றை அமைக்கும் உடன்படிக்கையை கொழும்பில் கைச்சாத்திட்டுள்ளது.
+
+இதற்கான நிகழ்வு கொழும்பு பம்பலப்பிட்டி லூரிஸ் வீதியில் அமைந்துள்ள ஜனநாயக மக்கள் காங்கிரஸ் தலையங்கத்தில் (15.03.2024) இடம்பெற்றதாக ஐக்கிய சுதந்திர கட்சி பொது செயலாளர் சவேரியார் ஜேசுதாஸ் தெரிவித்தார்.
+
+இதன்போது இடம்பெற்ற கைச்சாத்து நிகழ்வில் ஜனநாயக மக்கள் காங்கிரஸ் தலைவர் பிரபா கணேசன் மற்றும் அக்கட்சியின் பொது செயலாளர் கங்காதரன் சுரேஷ் ஆகியோர் அடங்கிய குழுவினர் கலந்து கொண்டனர்.
+
+அதேபோல ஐக்கிய சுதந்திர கட்சி தலைவர் சோம் கோச் மற்றும் கட்சியின் பொது செயலாளர் சவேரியார் ஜேசுதாஸ் உள்ளிட்ட தேசிய சபை உறுப்பினர்களும்  கலந்து கொண்டு புதிய கூட்டணிக்கான உடன்படிக்கையை  கைச்சாத்திட்டதாக சவேரியார் ஜேசுதாஸ் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/3043d9a9.json)
+
+---
 
 ### A person is hit with a sharp object
 
@@ -2039,123 +2163,5 @@ The branch at No. 186, Main Street, Kegalle, is a fully-fledged banking operatio
 [Data](articles/89e199f9.json)
 
 [Extended Data](ext_articles/89e199f9.ext.json)
-
----
-
-### HNB and ICC collaborate to offer tailored home financing
-
-*2024-03-15 23:31:57* · [`dailyftlk`](https://www.ft.lk/business/HNB-and-ICC-collaborate-to-offer-tailored-home-financing/34-759541) · `en`
-
-HNB Mortgage Advisor/Junior Executive Chamila Jayawickrama, Home and Personal Loans Manager Sampath Dodanwala, Personal Financial
-
-Services Manager Asitha Fernando, Personal Financial Services AGM Kanchana Karunagama, ICC Managing Director/CEO Namal Siri Peiris, Executive Finance Director Nalin Sriyantha Fernando, Property Development General Manager Roshani Perera, Marketing Head Randula Jayasooriya and Sales Administration Assistant Manager Prabanjana Abayadeera
-
-Reiterating its efforts to bring the best possible deals to customers investing in their dream home, HNB PLC, entered into a Memorandum of Understanding (MoU) with the International Construction Consortium Ltd. (ICC), to offer exclusive financial solutions to prospective homeowners of the developer’s latest project, the Residencies Kotte, located in the capital city of Sri Lanka.
-
-...
-
-[Data](articles/090a145e.json)
-
-[Extended Data](ext_articles/090a145e.ext.json)
-
----
-
-### Phoenix Industries relaunches extensive PVC range under Super PVC brand
-
-*2024-03-15 23:31:18* · [`dailyftlk`](https://www.ft.lk/business/Phoenix-Industries-relaunches-extensive-PVC-range-under-Super-PVC-brand/34-759540) · `en`
-
-Sri Lankan household products company Phoenix Industries hosted an evening event at their Makandura factory to re-launch their wide-ranging PVC product line under the new Super PVC brand.
-
-The enhanced Super PVC range includes UPVC and CPVC pipes and fittings, FAB bends, solvent cements, cable management tubes and hardware items used for construction and home upgrades.
-
-Phoenix Industries has elevated the range’s branding to better represent the exceptional strength, durability and performance that Super PVC offers contractors, project managers and general households.
-
-With the re-brand, Phoenix aims to further build its leadership position nationwide as the top supplier of PVC solutions through both retail partnerships and Phoenix’s own showrooms.
-
-...
-
-[Data](articles/912d5de8.json)
-
-[Extended Data](ext_articles/912d5de8.ext.json)
-
----
-
-### SLT-Mobitel presents Rs. 1 m to January’s ‘Fibre Elite Rewards’ winner
-
-*2024-03-15 23:30:49* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-presents-Rs-1-m-to-January-s-Fibre-Elite-Rewards-winner/34-759539) · `en`
-
-SLT-Mobitel awarded Rs. 1,000,000 to C.K. Abeynayake, who purchased a new fibre connection in January, as part of its ‘Fibre Elite Rewards’ promotion. He was presented the grand prize at a recent ceremony by SLT-Mobitel Chief Marketing Officer Prabhath Dahanayake and SLT Deputy Chief Marketing Officer Rohana Ellawala. In addition to the cash prize, SLT-Mobitel presents 10 lucky users who registered for a fibre connection the chance to walk away weekly with 100GB of data each. Here C.K. Abeynayake receiving his prize from SLT-Mobitel Group Chief Marketing Officer Prabhath Dahanayake and SLT Deputy Chief Marketing Officer Rohana Ellawala
-
-◼️
-
-[Data](articles/df1120ef.json)
-
-[Extended Data](ext_articles/df1120ef.ext.json)
-
----
-
-### INSEE Ecocycle introduces internationally accredited analytical services
-
-*2024-03-15 23:30:17* · [`dailyftlk`](https://www.ft.lk/business/INSEE-Ecocycle-introduces-internationally-accredited-analytical-services/34-759538) · `en`
-
-INSEE Ecocycle Lanka General Manager Sujith Gunawardhana (right) with Board of Investment Executive Director Lawrance Madapatha
-
-INSEE Ecocycle, Sri Lanka’s leading total waste management solutions provider, has expanded its portfolio by setting up a state-of-the-art analytical laboratory for industries prioritising environmental sustainability and regulatory compliance.
-
-The newly established laboratory offers a comprehensive range of analytical services, including wastewater testing, organic fertiliser testing, fuel testing, heavy metal analysis, and waste analysis. These services are tailored to provide industries with precise, reliable, and accredited solutions to their analytical requirements.
-
-...
-
-[Data](articles/886b48b8.json)
-
-[Extended Data](ext_articles/886b48b8.ext.json)
-
----
-
-### LOLC champions female diversity and leadership
-
-*2024-03-15 23:28:00* · [`islandlk`](http://island.lk/lolc-champions-female-diversity-and-leadership/) · `en`
-
-LOLC Holdings PLC, the premier multinational conglomerate spanning over 25 countries across Asia, Africa, and Australia, proudly celebrated International Women’s Day under the theme, “Count Her In.”
-
-This year’s commemoration of women within the LOLC Group highlighted the organization’s commitment to female diversity and leadership, uniting the extraordinary achievements, resilience, and leadership spirit of its female staff. The focal point of this year’s International Women’s Day was the symposium held at LOLC’s head office, featuring two impactful sessions: “LOLC Spotlights” and the “LOLC Panel Discussion.”
-
-...
-
-[Data](articles/1f6a9f5b.json)
-
-[Extended Data](ext_articles/1f6a9f5b.ext.json)
-
----
-
-### Safety Recall announced on over 32,000 Suzuki WagonR vehicles
-
-*2024-03-15 23:28:00* · [`islandlk`](http://island.lk/safety-recall-announced-on-over-32000-suzuki-wagonr-vehicles/) · `en`
-
-Suzuki Motor Corporation Japan has announced a Safety recall related to the fuel system of the Japanese Suzuki WagonR model range. As the sole distributor of Suzuki vehicles in Sri Lanka, Associated Motorways (Private) Limited (AMW) is taking active steps to ensure the safety and satisfaction of Suzuki WagonR owners.
-
-The safety recall is a proactive measure to rectify fuel impurity blockages within the fuel system, specifically to address inaccurate fuel readings in the Instrument Cluster Panel. Unattended, this could lead to engine stalling due to a lack of proper warning indications for insufficient fuel. Affected models include the Suzuki WagonR Premium, Suzuki WagonR FX/FZ, Suzuki Spacia and the Suzuki Stingray.
-
-...
-
-[Data](articles/9447875d.json)
-
-[Extended Data](ext_articles/9447875d.ext.json)
-
----
-
-### Share market remains in positive territory as blue chips take centre stage
-
-*2024-03-15 23:27:00* · [`islandlk`](http://island.lk/share-market-remains-in-positive-territory-as-blue-chips-take-centre-stage/) · `en`
-
-The stock market was driven mainly yesterday by a few blue chip companies, including Lanka IOC, Hayley s Fabrics and Hema’s Holdings. Both indices were on an upward trend.
-
-The All Share Price Index went up by 18.79 points, while the S and P SL 20 rose by 19.01 points. Turnover stood at Rs 1.62 billion with two crossings. Those crossings were reported in Union Chemical, which crossed 54000 shares to the tune of Rs 29.36 million; its shares traded at Rs 540 and CIC (Non- Voting) 548,000 shares crossed for Rs 27.4 million; its shares traded at Rs 50.
-
-...
-
-[Data](articles/245e451c.json)
-
-[Extended Data](ext_articles/245e451c.ext.json)
 
 ---

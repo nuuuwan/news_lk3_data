@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 14:02:54**
+As of **2024-03-16 14:17:54**
 
 ## Newspaper Stats
 
-*Scraped **13,256** Articles*
+*Scraped **13,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,77 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,596
+adaderanalk | 1,597
 tamilmirrorlk | 1,610
-virakesarilk | 1,845
+virakesarilk | 1,846
 dailymirrorlk | 2,035
-adaderanasinhalalk | 2,089
+adaderanasinhalalk | 2,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,253 (100.0%) of 13,256 articles have been extended.
+13,256 (100.0%) of 13,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### கோட்டாபய நிர்வாகத்திறன் அற்றவர் – மகிந்த முன்னிலையில் கடுமையாக விமர்சித்த பௌத்தமதகுரு
+### ඔටාවා සිද්ධියෙන් දිවි බේරාගත් ධනුෂ්ක ගැන හෙළිදරව්වක්
+
+*2024-03-16 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194570) · `si`
+
+කැනඩාවේදී ඝාතනයට ලක්වූ එකම පවුලේ ශ්‍රී ලාංකිකයින් 05 දෙනා ඇතුළු 6දෙනාගේ සිද්ධියේදී බරපතළ තුවාල ලබා රෝහල්ගත කෙරුණු ධනුෂ්ක වික්‍රමසිංහගේ තත්ත්වය ගැන මේ වනවිට අනාවරණය වී තිබේ.
+
+"මම හිතන්නේ ඔහු පීඩාවිඳින කම්පනයෙන් මිදීමට තවත් වසර ගණනාවක් ගත වෙයි. මානසික වශයෙන් හොඳ තත්ත්වයක් පසුනොවන බවයි මට කිව හැක්කේ."
+
+මියගිය අයගේ අවමංගල්‍ය උත්සවය හෙට (17) පස්වරුවේ ඔටාවාහීදී පැවැත්වීමට නියමිතය.
+
+අවමංගල්‍ය උත්සව අවස්ථාවට එක්වන ජනතාව වෙනුවෙන් ශෝක ප්‍රකාශයන් සටහන් තැබීමට අවස්ථාව උදාකර ඇති අතර ඔවුන් වාසය කළ නිවස අසල උද්‍යානයේ පසුගියදා පැවැති අනුස්මරණ අවස්ථාවේදී ජනතාව තැබු සටහන් සහ සෙල්ලම් භාණ්ඩ ඇතුළු දෑ හිල්ඩා ජයවර්ධනාරාම බෞද්ධ විහාරය වෙතට ලබාදීමටද නියමිතය.
+
+"ඔටාවා ජනතාව එම අවස්ථාවේ ලබාදුන් සහාය මේ අවස්ථාවේදී ඔහුට ශක්තියක් ලබාදුන්නා. ඒ වගේම ධනුෂ්කට ඔටාවා ජනතාව ලබාදුන් සහාය වගේම කැනේඩියානුවන් ලබාදුන් සහාය සහ ශ්‍රී ලාංකිකයන් ලබාදුන් සහාය වෙනුවෙන් ඔහු ස්තූතියද පළකර සිටියා."
+
+◼️
+
+[Data](articles/a16dd342.json)
+
+---
+
+### வீட்டின் அருகே பாரிய குளத்தில் போதிய நீர் இருந்தும் நீரின்றி அல்லலூரும் மக்கள்
+
+*2024-03-16 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178858) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் பாரிய நீர்ப்பாசன குளங்களில் ஒன்றாகிய முத்துஐயன்கட்டு குளத்தில் தற்போது 23 அடி நீர்மட்டம் காணப்படுகிறது. முன்னைய  காலங்களை விட இவ் வருடம் குளம் முழுதாக நிரம்பி குளத்தில் தேவையான நீர் காணப்படுகின்றது. ஆனால் உரிய வகையில் தமக்கான நீர் விநியோகம் இடம்பெறாமை காரணமாக தங்களுடைய வான் பயிர்கள் அனைத்தும் அழிவடைவதாகவும் அத்தோடு தங்களுடைய கிணற்றில் குடிநீர் கூட இல்லாத நிலை   ஏற்பட்டுள்ளதாகவும் இருப்பினும் தமக்கு நீரை திறந்து தருவதற்கு உரிய அதிகாரிகளை அனுகியும் இதுவரை எந்த தீர்வும் எட்டவில்லை என மக்கள் அங்கலாய்க்கின்றனர்.
+
+குளத்து கட்டில் இருந்து  300 மீட்டர் தூரத்தில் உள்ள காணியில் உள்ள கிணற்றில்  குடிநீருக்கு கூட தண்ணீர் இல்லாத இக்கட்டான நிலைமை இருந்தும் அதிகாரிகள் கண்மூடித்தனமாக இருக்கின்றதாக மக்கள் குற்றம்  சுமத்துகின்றனர். இவ்வாறான  நிலையில் மக்கள் தமக்கான நீரை பெற்று தருமாறு பல்வேறு கோரிக்கைகளை விடுத்த பின்னணியிலும்  இதற்கான முடிவுகள் எட்டப்படாத நிலை காணப்படுகிது.
+
+...
+
+[Data](articles/fdc9ae82.json)
+
+---
+
+### Buddhist Criticism
 
 *2024-03-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178864) · `ta`
 
-பௌத்தமதகுரு ஒருவர் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ச முன்னிலையில் மற்றுமொரு முன்னாள் ஜனாதிபதி கோட்டாபயவை கடுமையா சாடியுள்ளார்.
+Buddhist criticism of Gotabhaya Rajapaksa, a former President, for betraying the country and people, highlighted by Ananda Nayaka Thera. Gotabhaya accused of surrounding himself with beneficiaries.
 
-மகி;ந்த ராஜபக்சமுன்னிலையில் உரையாற்றிய முருத்தெட்டுவே ஆனந்த நாயக்க தேரர் மிகப்பெரும்பான்மை  வாக்குகளால் தெரிவு செய்யப்பட்ட கோட்டாபய ராஜபக்ச நாட்டிற்கும் மக்களிற்கும் துரோகமிழைத்தார் என  குறிப்பிட்டுள்ளார்.
+🟩
 
-கோட்டபயவிடம் நிர்வாகத்திறமையிருக்கவில்லை தனக்கு யாரால் நன்மை கிடைக்கும் என கருதினாரோ அவர்களையே கோட்டபய தன்னை சுற்றிவைத்திருந்தார் எனவும்  பௌத்மதகுரு தெரிவித்துள்ளார்.
+In the presence of a Buddhist President Mahinda Rajapaksa, another former President Gotabhaya has been harshly.
 
-கோட்டாபய தவறான பாதையில்  செல்கின்றார் என நாங்கள் பல தடவை அவரிடம் தெரிவித்தோம் அதற்காரணமாகவே அவர் வீழ்ச்சியடைந்தார் நாங்கள் இன்று எதிர்கொள்ளும் நிலைமைக்கு அவரின் நிர்வாகத்திறன் இன்மையே காரணம் எனவும் பௌத்தமதகுரு தெரிவித்துள்ளார்.
+Speaking at the Mahi Rajapaksa, Ananda Nayaka Thera said that Gotabhaya Rajapaksa, who was elected by the majority of the votes, betrayed the country and the people.
+
+Gotabhaya said that Gotabhaya had surrounded himself who thought he would benefit from Gotabhaya.
+
+Buddhism said that we have reported to him many times that Gotabhaya is on the wrong path. He has fallen.
 
 ◼️
 
 [Data](articles/6bd95df0.json)
+
+[Extended Data](ext_articles/6bd95df0.ext.json)
 
 ---
 
@@ -65,6 +105,32 @@ Also, the Minister said that it is no longer productive to cultivate fallow padd
 ...
 
 [Data](articles/033b9807.json)
+
+[Extended Data](ext_articles/033b9807.ext.json)
+
+---
+
+### දැඩි උණුසුම් කාලගුණය නිසා චර්ම රෝග
+
+*2024-03-16 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194568) · `si`
+
+මේ දිනවල ශ්‍රී ලංකාවට දැඩි උණුසුම් කාලගුණ තත්ත්වයක් බලපා තිබේ.
+
+දිවයිනේ සියලුම දිස්ත්‍රික්ක සඳහා මෙම තත්ත්වය බලපා ඇති අතර කුරුණෑගල, රත්නපුර, අනුරාධපුර දිස්ත්‍රික්කවල ඊයේ (15) දිනයේත් පැවතියේ ඉහළ උණුසුම් කාලගුණයකි.
+
+එම අධික උණුසුම් කාලගුණ තත්ත්වයත් සමග චර්ම රෝග ඇතිවීමේ අවදානමක් පවතින බව විශේෂඥ වෛද්‍යවරු පෙන්වා දෙයි.
+
+හිරුඑළිය සම මතට සෘජුවම පතිතවීම හේතුවෙන් සමෙහි යම් යම් වෙනස්කම් ඇතිවිය හැකි අතර මෙහිදී සම පිළිස්සීමකට ලක්වීමේ ස්වභාවයක් දැකගත හැකිය.
+
+සම මත සුදු පැහැති ලප ඇතිවීම, සම කැසීමකට ලක්වීම, දහදිය දැමීම හේතුවෙන් සැරව බිබිලි තත්ත්වයක් ඇතිවීම, දහදිය වැඩිවශයෙන් එකතුවන ස්තානවල රවුම් හැඩැති දිලීර තත්ත්වයක් ඇතිවීම මෙම ආසාදිත තත්ත්වයන් ලෙස හඳුනාගෙන තිබේ.
+
+මීට අමතරව සමෙහි දැනට පවතින ආසාත්මික තත්ත්වයන්ගේ වැඩිවීමක්ද උණුසුම් කාලගුණයත් සමග ඇතිවිය හැකි බව විශේෂඥයින් පෙන්වා දෙයි.
+
+විශේෂයෙන් කුඩා දරුවන් මෙම තත්ත්වයට වැඩි වශයෙන් ගොදුරුවීමේ අවධානමක් පවතින අතර ඒ පිළිබඳව වෛද්‍ය උපදෙස් ලබාගැනීම අනිවාර්ය බව චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ඉන්දිරා කහවිට මහත්මිය පැවසුවාය.
+
+...
+
+[Data](articles/e36fa120.json)
 
 ---
 
@@ -95,6 +161,38 @@ The hotline, introduced under the instructions of the President, was launched by
 ◼️
 
 [Data](articles/a76a56b2.json)
+
+[Extended Data](ext_articles/a76a56b2.ext.json)
+
+---
+
+### Emergency call centre launched for Tamil-speaking people in North, East
+
+*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/emergency-call-centre-launched-for-tamil-speaking-people-in-north-east) · `en`
+
+An Emergency call centre has been introduced for the Tamil-speaking community in the North and East, the police media division said.
+
+Accordingly, the Tamil-speaking community can contact the hotline 107 to seek any assistance.
+
+The hotline, introduced under the instructions of the President, was launched in Vavuniya by Public Security Minister Tiran Alles and Inspector General of Police (IGP) Deshabandu Tennakoon on Saturday morning (March 16).
+
+◼️
+
+[Data](articles/c55c9ffe.json)
+
+---
+
+### දෙමළ භාෂාවෙන් පොලිස් සහාය ලබාගැනීමට 107 අමතන්න
+
+*2024-03-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194567) · `si`
+
+දෙමළ භාෂාවෙන් පැමිණිළි ඉදිරිපත් කිරීම සඳහා 107 පොලිස් හදිසි ඇමතුම් අංකය හඳුන්වා දී තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය වැඩිදුරටත් සඳහන් කළේ විශේෂයෙන් උතුරු නැගෙනහිර ජනතාවට ඒ ඔස්සේ දෙමළ භාෂාවෙන් පොලිස් සහාය ලබාගත හැකි බවය.
+
+◼️
+
+[Data](articles/bee11ffa.json)
 
 ---
 
@@ -2015,119 +2113,5 @@ People in urban areas of Colombo engaged in work during the daytime despite the 
 [Data](articles/a6e6dcd9.json)
 
 [Extended Data](ext_articles/a6e6dcd9.ext.json)
-
----
-
-### Sri Lanka's best win in the second match with Bangladesh
-
-*2024-03-15 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178828) · `ta`
-
-Sri Lanka wins the 2nd ODI against Bangladesh, balancing the series 1-1.
-
-🟩
-
-The Sri Lankan team has recorded a win in the second one -day cricket match between Sri Lanka and Bangladesh.
-
-With its success, the series, which has 3 ODIs, has balanced the series 1-1.
-
-◼️
-
-[Data](articles/f834cd45.json)
-
-[Extended Data](ext_articles/f834cd45.ext.json)
-
----
-
-### Winning the Sri Lankan team
-
-*2024-03-15 22:21:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்றது-இலங்கை-அணி/175-334722) · `ta`
-
-Sri Lanka won the 2nd ODI against Bangladesh, who scored 286/7 in 50 overs. Sri Lanka reached 287/7 in 47.1 overs, winning the currency cycle.
-
-🟩
-
-Sri Lanka won the second ODI match between Sri Lanka and Bangladesh.
-
-The Sri Lankan team, which won the currency cycle of the tournament, decided to take the field first.
-
-The Bangladesh team, who first won the toss and elected to bat, scored 286 runs for the loss of 7 wickets in 50 overs.
-
-In the meantime, the Sri Lankan team scored 287 runs and reached the target by losing 07 wickets in 47.1 overs.. Remble
-
-◼️
-
-[Data](articles/c7796a50.json)
-
-[Extended Data](ext_articles/c7796a50.ext.json)
-
----
-
-### Sri Lanka beat Bangladesh by 3 wickets
-
-*2024-03-15 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-beat-Bangladesh-by-3-wickets/108-278963) · `en`
-
-Sri Lanka beat Bangladesh by three wickets in the second game of the three-match ODI series at the Zahur Ahmed Chowdhury Stadium in Chattogram on Friday (March 15).
-
-Bangladesh managed a challenging total of 286 runs with loss of seven wickets in 50 overs.
-
-Towhid Hridoy smashed a 96-run innings to take the team to the total.
-
-In reply, Sri Lanka reached the target with loss of seven wickets.
-
-◼️
-
-[Data](articles/d654abfb.json)
-
-[Extended Data](ext_articles/d654abfb.ext.json)
-
----
-
-### Nissanka ton helps Sri Lanka level Bangladesh series
-
-*2024-03-15 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nissanka-ton-helps-Sri-Lanka-level-Bangladesh-series/108-278963) · `en`
-
-Chittagong, Mar. 15 - Opener Pathum Nissanka struck 114 off 113 balls to steer Sri Lanka to a three-wicket victory over Bangladesh and level their three-match ODI series in Chittagong on Friday.
-
-Sri Lanka were teetering on 43-3 before Nissanka finally found a worthy partner in Charith Asalanka, who scored 91.
-
-The pair put on 185 in their fourth-wicket partnership to guide the tourists to 287-7 in the 48th over, after Wanindu Hasaranga's 4-45 helped restrict Bangladesh.
-
-Their stand was broken soon after Nissanka hit his sixth ODI century, when Mehidy Hasan forced him to hoist a catch to Liton Das at deep-midwicket.
-
-Asalanka departed the next over when he nicked through to the 'keeper from Taskin Ahmed.
-
-Dunith Wellalage and Hasaranga kept their composure to put on 34 runs for the seventh wicket and edge Sri Lanka closer.
-
-Wellalage hit Bangladesh captain Najmul Hossain Shanto to cover for a double to complete the win with 3.5 overs to spare.
-
-...
-
-[Data](articles/fcda9486.json)
-
-[Extended Data](ext_articles/fcda9486.ext.json)
-
----
-
-### Online Railway Seat Seat Reservation
-
-*2024-03-15 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194555) · `si`
-
-Sri Lanka Railways' new online seat reservation system for long-distance services has faced criticism, with some passengers unable to secure seats.
-
-🟩
-
-Railway passengers allege that the newly introduced online method is problematic for the reservation of seats in long distance services.
-
-There were many passengers in the Fort Railway Station
-
-The Sri Lanka Railways has recently introduced a railway seat reservation system as a step to the first time to dig up the process of booking tickets for ordinary passengers and public servants.
-
-Accordingly, the train reservations have been allocated to the railway station, some passengers have not been able to have a seat.
-
-◼️
-
-[Data](articles/b20537c9.json)
-
-[Extended Data](ext_articles/b20537c9.ext.json)
 
 ---

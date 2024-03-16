@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 07:15:26**
+As of **2024-03-16 07:30:22**
 
 ## Newspaper Stats
 
-*Scraped **13,201** Articles*
+*Scraped **13,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,66 @@ economynextcom | 708
 islandlk | 719
 adalk | 1,130
 adaderanalk | 1,585
-tamilmirrorlk | 1,602
+tamilmirrorlk | 1,603
 virakesarilk | 1,834
-dailymirrorlk | 2,023
+dailymirrorlk | 2,024
 adaderanasinhalalk | 2,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,199 (100.0%) of 13,201 articles have been extended.
+13,201 (100.0%) of 13,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### අදත් ප්‍රදේශ රැසක උෂ්ණත්වය ඉහළට
+### Absence of defence attaché hinders efforts to nab criminals abroad
+
+*2024-03-16 07:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Absence-of-defence-attaché-hinders-efforts-to-nab-criminals-abroad/108-278962) · `en`
+
+The absence of a defence attaché at the Sri Lankan mission in the United Arab Emirates (UAE) has dealt a blow to Sri Lanka’s efforts in nabbing organized criminals operating from there, the Daily Mirror learns.
+
+Sri Lanka has ramped up efforts to arrest its criminals hiding overseas - mostly in the UAE.
+
+However, its efforts have been hampered since the absence of a defence attaché.
+
+Asked about the situation, a top diplomatic source said the government would take steps to make necessary appointments to its missions abroad.
+
+Currently, Sri Lanka runs short of 100 diplomats of the approved cadre.
+
+The source said 25 recently recruited diplomats had been referred to the Public Service Commission for approval, but the process had been delayed for more than three months.
+
+◼️
+
+[Data](articles/54f0afba.json)
+
+---
+
+### The temperature in many areas today
 
 *2024-03-16 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194556) · `si`
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Sabaragamuwa, Central provinces, and Galle, Matara districts. Temperature focus in several areas. High heat in North Western, North-central, Colombo, Kalutara, Mullaitivu, Vavuniya, Hambantota districts. Health advice includes water restrictions and avoiding outdoor stress.
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙන බව දැනුම් දී තිබේ.
+🟩
 
-මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (16) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts, the Met Department said.
 
-වයඹ, උතුරු-මැද, නැගෙනහිර, පළාත් සහ කොළඹ, ගම්පහථ මෙණරාගල, මන්නාරම, මුලතිව්, වවුනියාව සහ හම්බන්තොට දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+In some places, in some places, in the Galle and Uva provinces, in some locations, are expected to look forward to the morning in the Galle and Matara districts.
 
-මෙහිදි ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවන ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
+Meanwhile, the Department of Meteorology states that the temperature of several areas in the island will continue to focus on today (16).
+
+The heat of the human body will be at a level of focus on the human body in the North Western, North-central and Colombo, Kalutara, Mullaitivu, Mullaitivu, Vavuniya and Hambantota districts.
+
+Drinking water, innovative water, the rest of the shade, which should be followed by the health advice, including restricting the stressing outdoors.
 
 ◼️
 
 [Data](articles/6f49fb56.json)
+
+[Extended Data](ext_articles/6f49fb56.ext.json)
 
 ---
 
@@ -112,17 +140,39 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 
 ---
 
-### 55 ஹெக்டேர் காடுகள் காட்டுத் தீயினால் அழிவு
+### கல்வியியற்கல்லூரிகளுக்கு விண்ணப்பங்கள் கோரல்
+
+*2024-03-16 02:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியியற்கல்லூரிகளுக்கு-விண்ணப்பங்கள்-கோரல்/175-334737) · `ta`
+
+2021 மற்றும் 2022 ஆம் ஆண்டுகளுக்கான உயர்தரப் பரீட்சை பெறுபேறுகளுக்கு அமைவாக மாணவர்களை கல்வியற்கல்லூரிகளுக்கு உள்வாங்குவதற்கான விண்ணப்பங்கள் கோரப்பட்டுள்ளன.
+
+நேற்று முதல் மாணவர்கள் தமது விண்ணப்பங்களை சமர்ப்பிக்க முடியும் என கல்வியமைச்சு தெரிவித்துள்ளது.
+
+அத்துடன், அடுத்த மாதம் 5 ஆம் திகதியுடன் விண்ணப்பங்களை சமர்ப்பிப்பதற்கான காலம் நிறைவடையவுள்ளதாகவும் கல்வி அமைச்சு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a115aa6d.json)
+
+---
+
+### 55 hectares of forests destroyed by wildfire
 
 *2024-03-16 02:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/55-ஹெக்டேர்-காடுகள்-காட்டுத்-தீயினால்-அழிவு/175-334736) · `ta`
 
-கடந்த சில வாரங்களாக பதிவான காட்டுத் தீயினால் 55 ஹெக்டேர் காடுகள் அழிவடைந்துள்ளன என வனவள பாதுகாப்பு திணைக்களம் தெரிவித்துள்ளது.
+Wildfire destroys 55 hectares of forests. The Forest Department plans to implement measures from the 25th to prevent future wildfires.
 
-தற்போதைய சூழ்நிலையில் காட்டுத் தீயை தடுக்கும் வகையிலான விழிப்புணர்வு வாரத்தை எதிர்வரும் 25 ஆம் திகதி முதல் செயல்படுத்த திட்டமிடப்பட்டுள்ளதாகவும் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
+🟩
+
+55 hectares of forests have been destroyed due to wildfire recorded over the past few weeks, the Forest Department said.
+
+The Department has stated that the week is scheduled to be implemented from the 25th of this month to prevent wildfire in the current situation.. (A)
 
 ◼️
 
 [Data](articles/841573d1.json)
+
+[Extended Data](ext_articles/841573d1.ext.json)
 
 ---
 
@@ -2079,49 +2129,5 @@ The Maligakanda Magistrate’s Court yesterday (14) remanded Keheliya and ten ot
 [Data](articles/c476993d.json)
 
 [Extended Data](ext_articles/c476993d.ext.json)
-
----
-
-### Bail petition
-
-*2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணை-கோரி-மனு/175-334718) · `ta`
-
-Keheliya Rambukwella, a former Minister, filed a bail petition in the Colombo High Court today, after being denied bail by the House Magistrate's Court for allegedly purchasing substandard vaccines.
-
-🟩
-
-Former Minister Keheliya Rambukwella, who has been interrogated, filed a petition in the Colombo High Court today (15) through his lawyers demanding the release of him on bail.
-
-The House Magistrate's Court yesterday (14) denied the release of Rambukwella, which was kept in detail for the purchase of substandard vaccines and ordered to be kept in detention until the trial is over.
-
-In this case, Rambukwella has submitted the petition demanding the release of him on bail.
-
-◼️
-
-[Data](articles/7961826e.json)
-
-[Extended Data](ext_articles/7961826e.ext.json)
-
----
-
-### Petition in the High Court demanding the release of bail
-
-*2024-03-15 15:39:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணையில்-விடுவிக்குமாறு-கோரி-மேல்-நீதிமன்றத்தில்-மனு/175-334718) · `ta`
-
-Former Minister Keheliya Rambukwella filed a bail petition in the Colombo High Court, following denial by the House Magistrate's Court for the purchase of substandard vaccines.
-
-🟩
-
-Former Minister Keheliya Rambukwella, who has been interrogated, filed a petition in the Colombo High Court today (15) through his lawyers demanding the release of him on bail.
-
-The House Magistrate's Court yesterday (14) denied the release of Rambukwella, which was kept in detail for the purchase of substandard vaccines and ordered to be kept in detention until the trial is over.
-
-In this case, Rambukwella has submitted the petition demanding the release of him on bail.
-
-◼️
-
-[Data](articles/e34f9ceb.json)
-
-[Extended Data](ext_articles/e34f9ceb.ext.json)
 
 ---

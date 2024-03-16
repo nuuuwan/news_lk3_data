@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 12:17:54**
+As of **2024-03-16 12:33:10**
 
 ## Newspaper Stats
 
-*Scraped **13,243** Articles*
+*Scraped **13,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,55 @@ adaderanalk | 1,594
 tamilmirrorlk | 1,610
 virakesarilk | 1,841
 dailymirrorlk | 2,031
-adaderanasinhalalk | 2,087
+adaderanasinhalalk | 2,088
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,240 (100.0%) of 13,243 articles have been extended.
+13,243 (100.0%) of 13,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### அரச வெசாக் பண்டிகை இவ்வருடம் மாத்தளையில் நடாத்த தீர்மானம்
+### State Vesak Festival
 
 *2024-03-16 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178845) · `ta`
 
-2024 ஆம் ஆண்டின் அரச வெசாக் பண்டிகை மாத்தளையில் நடாத்துவதற்கு அரசு தீர்மானித்துள்ளது.
+The government will host the royal Vesak festival in Matale from May 21 to 27, with security for Buddhist places of worship provided by the Defense Ministry.
 
-வெசாக் பண்டிகைக்கான  ஏற்பாடுகளை மேற்கொள்வதற்கான கூட்டம் புத்தசாசன மற்றும் கலாசார அலுவல்கள் அமைச்சர் விதுர விக்கிரமநாயக்க தலைமையில் மாவட்ட செயலகத்தில் இடம்பெற்றது.
+🟩
 
-இதன்போது, மே 21 முதல் 27 வரை மாத்தளை நகரத்திலும் மாவட்டத்தின் பதினொரு பிரிவுகளிலும் கொண்டாட்டங்கள் நடைபெறும் புத்தசாசன, மத மற்றும் கலாசார விவகாரங்களுக்கான அமைச்சர் விதுர விக்கிரமநாயக்க தெரிவித்துள்ளார்.
+The government has decided to hold the royal Vesak festival of 2024 at the Matale.
 
-வெசாக் பண்டிகையின் போது மாவட்டத்தில் உள்ள அனைத்து பௌத்த வழிபாட்டுத் தலங்களுக்கும் பாதுகாப்பை வழங்குவதற்கு பொலிஸார் மற்றும் பாதுகாப்புப் பிரிவினரின் விபரங்களை வழங்க பாதுகாப்பு அமைச்சு நடவடிக்கை எடுக்கும்.
+The meeting was held at the District Secretariat chaired by Buddha Sasana and Cultural Affairs Minister Vidura Wickramanayake.
 
-அத்துடன், ஒவ்வொரு வழிபாட்டுத் தலத்துக்கும் குறைந்தது பத்து பாதுகாப்புப் பணியாளர்கள் மற்றும் பொலிஸார் பொறுப்பாக இருப்பார்கள் என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் தெரிவித்தார்.
+Minister of Buddha Sasana, Religious and Cultural Affairs, Vidura Wickramanayake said the celebrations were held in the city of Matale from May 21 to 27 and the eleven sections of the district.
+
+The Defense Ministry will take steps to provide details of the police and the security forces to provide security to all Buddhist places of worship in the district during the Vesak festival.
+
+Defense Minister Premit Bandara Tennakoon said that at least ten security personnel and police are responsible for every worship.
 
 ◼️
 
 [Data](articles/3a0af882.json)
+
+[Extended Data](ext_articles/3a0af882.ext.json)
+
+---
+
+### ශ්‍රී ලංකා කණ්ඩායමට අලුත් වේගපන්දු පුහුණුකරුවෙක්
+
+*2024-03-16 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194565) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ වේගපන්දු යවන පුහුණුකරු ලෙස පාකිස්තානයේ හිටපු වේගපන්දු යවන ක්‍රීඩක අකීබ් ජාවෙඩ් පත්කර ඇත.
+
+2024 ICC පිරිමි T20 ලෝක කුසලාන තරගාවලිය අවසන් වන තෙක් ඔහු ශ්‍රී ලංකා කණ්ඩායම සමග කටයුතු කරනු ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/dfcb4ce5.json)
 
 ---
 
@@ -200,21 +220,29 @@ If any political party does not come forward to support those policies, they wil
 
 ---
 
-### யாழ். வட்டுக்கோட்டை இளைஞன் கொலை ; கடற்படையின் செயற்பாடுகள் தொடர்பில் விசாரணைகளை ஆரம்பித்த மனித உரிமைகள் ஆணைக்குழு
+### Yall. Vaddukoddai youth murder;Human Rights Commission started investigations into the activities of the Navy
 
 *2024-03-16 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178844) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை இளம் குடும்பஸ்தர் கொலை தொடர்பில் கடற்படையினரின் செயற்பாடுகள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகம் தனது விசாரணைகளை  வெள்ளிக்கிழமை (15) ஆரம்பித்துள்ளது.
+The Human Rights Commission of Sri Lanka's Jaffna Regional Office has begun an investigation into the Navy's involvement in the murder of Tawachelvam Pavitran, a 23-year-old from Vaddukoddai. Pavitran was abducted and killed by a family group. The investigation follows reports of the Navy's involvement in the incident, including the use of weapons and the abduction of Pavitran and his wife.
 
-வட்டுக்கோட்டை - மாவடி பகுதியைச் சேர்ந்த தவச்செல்வம் பவித்திரன் (வயது 23) என்ற குடும்பஸ்தர் குழு ஒன்றினால் கடத்தப்பட்டு சித்திரவதை செய்யப்பட்டு கொலை செய்யப்பட்டார்.
+🟩
 
-குறித்த சம்பவத்துடன் கடற்டையினரின் செயற்பாடுகள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாண பிராந்திய அலுவலகம் ஊடகங்களில் வெளியாகிய செய்திகள் மற்றும் காணொளிகளின் அடிப்படையில் தனது சொந்தப் பிரேரணையாக எடுத்து குறித்த விசாரணைகளை ஆரம்பித்துள்ளது.
+The Jaffna Regional Office of the Human Rights Commission of Sri Lanka has launched its inquiry on Friday (15) in connection with the activities of the Navy in connection with the murder of a young family member of Vaddukoddai in Jaffna.
 
-கொலை செய்யப்பட்ட குடும்பஸ்தரும் அவரது மனைவியும் காரைநகரில் இருந்து வட்டுக்கோட்டை - மாவடியில் உள்ள வீட்டுக்கு சென்றுகொண்டிருந்தவேளை பொன்னாலை கடற்படை முகாமுக்கு அருகாமையில் இரண்டு கார்களில் ஆயுதங்களுடன் நின்ற சிலர் அவர்களை வழி மறித்தனர்.
+Tawachelvam Pavitran (age 23) from Vaddukoddai - Mavadi area was abducted and murdered by a family group.
+
+The Jaffna Regional Office of the Human Rights Commission of Sri Lanka has launched its own proposal on the news and videos of the Sri Lanka Human Rights Commission in connection with the incident.
+
+While the murdered family and his wife were traveling from Karainagar to Vaddukoddai - Mavadi, some of the weapons in two cars near the Ponnalai Naval Base.
+
+Both escaped and logged in into the naval camp. In this case, the Marines chased them out. When they came out, the team went from there to load his wife in a car and the person in the next car.
 
 ...
 
 [Data](articles/fdf841e2.json)
+
+[Extended Data](ext_articles/fdf841e2.ext.json)
 
 ---
 
@@ -318,23 +346,29 @@ Madurankuliya Police are conducting further investigations.
 
 ---
 
-### மீள்வலுசக்தி திட்டத்திற்காக அதானி இலஞ்சம் வழங்கினாரா? - அமெரிக்கா விசாரணை
+### Did Adani bribe for a re -enactment project?- Investigate America
 
 *2024-03-16 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178842) · `ta`
 
-இந்தியாவின் ஆதானி குழுமங்களின் தலைவர் கவுதம் அதானி இலஞ்சம்வழங்கினாரா என்பது குறித்து அமெரிக்கா விசாரணைகளை ஆரம்பித்துள்ளது.
+The US is investigating if Gautam Adani's company bribed for an energy plan in India, focusing on Azure Power.
 
-கவுதம அதானியின் நிறுவனம் இலஞ்சம் வழங்கும்; நடவடிக்கைகளில் ஈடுபட்டதா என்பது குறித்தும் அந்த நிறுவனத்தின் ஸ்தாபகர் கவுதம் அதானியின் நடவடிக்கைகள் குறித்தும் அமெரிக்கா விசாரணைகளை ஆரம்பித்துள்ளது.
+🟩
 
-எரிசக்தி திட்டமொன்மொன்றிற்காக இந்திய அதிகாரிகளிற்கு கவுதம் அதானியின் நிறுவனம் அல்லது அதனுடன் தொடர்புட்டவர்கள் இலஞ்சம் வழங்கினார்களா என்பது குறித்து விசாரணைகள் இடம்பெறுகின்றன.
+The US has launched an investigation into whether Gautam Adani has bribed India's Adani Group.
 
-இந்தியாவின் மீளவலுசக்தி நிறுவனமான அசுரே பவர் குறித்தே விசாரணைகள் இடம்பெறுகின்றன.இதேவேளை எங்களுக்கு விசாரணைகள் குறித்து எதுவும் தெரியாது என கௌதம்  அதானி மின்னஞ்சல் அறிக்கையில் தெரிவித்துள்ளார்.
+Gautama Adani's company bribe;The US has begun investigations into the actions of the company's founder Gautam Adani.
 
-எங்கள் வர்த்தக குழுமம் உயர் தராதரங்களின் அடிப்படையில் செயற்படுகின்றது என அவர் தெரிவித்துள்ளார்.
+Investigations are underway to whether Gautam Adani's company or its associates have bribed the Indian authorities for an energy plan.
+
+Investigations are underway into India's recovery company Azure Power.
+
+Our business team is working on the basis of high standards, he said.
 
 ◼️
 
 [Data](articles/7a27340a.json)
+
+[Extended Data](ext_articles/7a27340a.ext.json)
 
 ---
 
@@ -2121,35 +2155,5 @@ The CPA, a policy think-tank based in Colombo, conducted its social indicator su
 [Data](articles/94ea17fc.json)
 
 [Extended Data](ext_articles/94ea17fc.ext.json)
-
----
-
-### World Cup 2026 T20 in India, Sri Lanka;Balance Days to the final round of the 2024 T20 World Cup
-
-*2024-03-15 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/178827) · `ta`
-
-India and Sri Lanka will host the 2026 T20 World Cup. Top eight from the 2024 West Indies and U.S. T20 World Cup qualify. Two to four more teams will be added based on host countries' plans. The remaining eight will qualify through regional rounds. The ICC Board announced the 2026 R20 World Cup semi-finals and finals. Matches will have at least 5 overs for the second batting team in League and Super 8 rounds, but 10 overs in knockout matches.
-
-🟩
-
-The ICC has once again confirmed that India and Sri Lanka will jointly host the 2026 T20 World Cup cricket match as it has already been decided by the ICC.
-
-The top eight countries in the T20 World Cup in the West Indies and the United States this year will be qualified for the 2026 T20 World Cup in the 2026 T20 World Cup with welcome countries such as India and Sri Lanka.
-
-Two to four other teams will be determined depending on the programs of the reception countries.
-
-The remaining 8 countries will join the R20 World Cup through regional qualifying rounds.
-
-It was announced at today's ICC Board at the ICC men's R20 World Cup semi -finals and finals to be held this year.
-
-It has also been decided to throw at least five overs for the second batting team to determine the end of the match during the League Round and Super 8 round.
-
-However, the ICC has also announced that the second batting team should be thrown at least 10 overs to set the end of the game in the knockout matches.
-
-◼️
-
-[Data](articles/16392a77.json)
-
-[Extended Data](ext_articles/16392a77.ext.json)
 
 ---

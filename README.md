@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 16:18:06**
+As of **2024-03-16 16:33:20**
 
 ## Newspaper Stats
 
-*Scraped **13,279** Articles*
+*Scraped **13,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 709
 islandlk | 720
 adalk | 1,131
 adaderanalk | 1,600
-tamilmirrorlk | 1,616
+tamilmirrorlk | 1,617
 virakesarilk | 1,850
 dailymirrorlk | 2,037
 adaderanasinhalalk | 2,095
@@ -26,29 +26,51 @@ adaderanasinhalalk | 2,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,276 (100.0%) of 13,279 articles have been extended.
+13,279 (100.0%) of 13,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### ஜே.வி.பிக்கு கிளிநொச்சியில் தனிநபர் எதிர்ப்பு
+### தமிழில் முறையிட இலக்கம் அறிமுகம்
+
+*2024-03-16 16:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழில்-முறையிட-இலக்கம்-அறிமுகம்/175-334758) · `ta`
+
+தமிழில் முறைப்பாடுகளை சமர்ப்பிப்பதற்கான புதிய இலக்கமொன்றை அறிமுகப்படுத்தும் நடவடிக்கை  பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் தலைமையில் சனிக்கிழமை (16) இடம்பெற்றது.
+
+இதன்படி 107 என்ற குறுகிய இலக்கத்தின் ஊடாக  தமிழ் மொழியிலும் முறைப்பாடுகளை சமர்ப்பிக்க சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+வடக்கு, கிழக்கு மாகாணங்களில் வாழும் தமிழ் இனத்தவர்கள் நேரடியாக பொலிஸில் முறைப்பாடு செய்வதற்கு இந்த வசதி ஏற்படுத்தப்பட்டுள்ளதாக  நிஹால் தல்துவ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4f59d2f5.json)
+
+---
+
+### Anti -Personal Anti -Personal In Kilinochchi for JVP
 
 *2024-03-16 16:06:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜே-வி-பிக்கு-கிளிநொச்சியில்-தனிநபர்-எதிர்ப்பு/71-334757) · `ta`
 
-கிளிநொச்சியில் இன்று நடைபெற்ற தேசிய மக்கள் சக்தியின்    மாநாட்டை எதிர்த்து தனிநபர் ஒருவர் போராட்டம் ஒன்றை நடத்தியுள்ளார்.
+In Kilinochchi, an individual protested against the National People's Power Conference, demanding the JVP's involvement in the North and East's court and solutions for the nation. Shanmugam Jeevaraj, a former Karachi Pradeshiya Sabha member, led the protest.
 
-குறித்த போராட்டமானது இன்றையதினம் (16.03.2024) கிளிநொச்சியில் தேசிய மக்கள் சக்தியின்  மாநாடு நடைபெறும் மண்டபத்திற்கு எதிரே முன்னெடுக்கப்பட்டுள்ளது.
+🟩
 
-போராட்டக்காரர் ஏந்தியுள்ள பதாதைகளில் 'இணைந்த வடக்கு கிழக்கை நீதிமன்றம் வரை சென்று பிரித்த பெருமை ஜேவிபியையே சாரும்' மற்றும் 'சொந்த இனத்தையே அழித்த ஜேவிபி எங்கள் இனத்துக்கு எவ்வாறு தீர்வு தரும்' போன்ற வாசகங்கள் குறிப்பிடப்பட்டுள்ளன.
+An individual has staged a protest against the National People's Power Conference held in Kilinochchi today.
 
-கரைச்சி பிரதேச சபையின் முன்னாள் உறுப்பினர் சண்முகம் ஜீவராஜ் இவ்வாறு எதிர்ப்பினை வெளியிட்டிருந்தார்.
+The struggle has been launched in front of the National People's Power Conference Hall in Kilinochchi today (16.03.2024).
 
-மக்கள் சந்திப்பு இடம்பெற்ற பகுதியை அண்மித்து A-9 வீதியில் இவ்வாறு அவர் பதாதைகளை கட்டி எதிர்ப்பில் ஈடுபட்டிருந்தமை குறிப்பிடத்தக்கது.
+In the posts carried out by the protesters, the words 'The JVP will go up to the court of the North and East' and 'how to solve our nation' and 'how to solve our nation'.
+
+Shanmugam Jeevaraj, a former member of the Karachi Pradeshiya Sabha, issued the protest.
+
+It is noteworthy that he was involved in a protest on the A-9 road near the people's meeting.
 
 ◼️
 
 [Data](articles/72ccd0e9.json)
+
+[Extended Data](ext_articles/72ccd0e9.ext.json)
 
 ---
 
@@ -69,6 +91,8 @@ Wickremesinghe directed officials to develop a viable system aimed at bolstering
 ...
 
 [Data](articles/c534d79e.json)
+
+[Extended Data](ext_articles/c534d79e.ext.json)
 
 ---
 
@@ -96,19 +120,27 @@ Litton Das was bowled out for the first and second matches of the One Day Cricke
 
 ---
 
-### ரஷிய தேர்தலில் விறுவிறுப்பு: மீண்டும் புட்டின் ஜனாதிபதியாக   வாய்ப்பு
+### Russian polls: Putin is the president again
 
 *2024-03-16 15:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷிய-தேர்தலில்-விறுவிறுப்பு-மீண்டும்-புட்டின்-ஜனாதிபதியாக-வாய்ப்பு/50-334756) · `ta`
 
-ரஷியாவில் புதிய ஜனாதிபதியை தேர்வு செய்வதற்கான தேர்தல்  வெள்ளிக்கிழமை (15) தொடங்கியது. இந்த தேர்தல் இன்றும், நாளையும் நடக்கிறது. உக்ரேனுடான மத்தியில் ரஷியா முழுவதிலும் அமைதியாக வாக்குப்பதிவு நடைபெற்று வருகிறது.
+Russian elections for president are underway, with Putin expected to win his 5th term. Despite Ukraine's involvement, voting is proceeding smoothly. Putin's victory is anticipated due to weak opposition.
 
-நாடு முழுவதும் 1 லட்சம் வாக்குச்சாவடிகள் அமைக்கப்பட்டு ஜனாதிபதி தேர்தல் தொடங்கியுள்ளது. காலை முதல் மக்கள் ஆர்வமுடன் வாக்களித்து வருகின்றனர். ரஷ்ய பகுதிகள் மற்றும் ரஷ்யாவுடன் இணைக்கப்பட்ட உக்ரேன் பகுதிகளில் உள்ள மக்கள் முதல் முறையாக இந்த தேர்தலில் வாக்களிக்கின்றனர்.
+🟩
 
-இந்த தேர்தலில் நான்குமுனை போட்டி நிலவுகிறது. ஜனாதிபதி  புட்டின்  சுயேட்சையாக போட்டியிடும் சூழலில் கம்யூனிஸ்ட் கட்சி, தேசிய சுதந்திர ஜனநாயக கட்சி,  புதிய மக்கள் கட்சி ஆகியவை களத்தில் உள்ளன. வலுவான எதிர்க்கட்சி வேட்பாளர் இல்லாததால்  புட்டின்  5-வது முறையாக அதிபராக வெற்றி பெறுவார் என்று எதிர்பார்க்கப்படுகிறது.
+Elections to elect a new president in Russia started on Friday (15). This election is going on today and tomorrow. In the midst of Ukraine, the entire Russia voting is being held.
+
+1 lakh polling stations across the country have been set up by the presidential election. People have been eagerly voting since morning. People in Ukraine regions and Russia are voting for the first time in this election.
+
+There is a fourth rivalry in this election. The Communist Party, the National Freedom Democratic Party and the New People's Party are in the context of President Putin's independent contest. Putin is expected to win the 5th time due to lack of strong opposition candidate.
+
+Russian President Vladimir Putin will rule for the 5th time. About 86 percent of the poll conducted by the Moscow Levada Center support Putin. It is noteworthy that Putin, who is one of the world's most powerful leaders, has been in office for nearly 20 years as Russia's president.
 
 ...
 
 [Data](articles/30ed3adc.json)
+
+[Extended Data](ext_articles/30ed3adc.ext.json)
 
 ---
 
@@ -2219,21 +2251,5 @@ Around the world, countries are facing mounting debt, debt distress, and debt de
 [Data](articles/d6a6f96d.json)
 
 [Extended Data](ext_articles/d6a6f96d.ext.json)
-
----
-
-### A leap of faith awaits
-
-*2024-03-15 23:47:51* · [`dailyftlk`](https://www.ft.lk/columns/A-leap-of-faith-awaits/4-759553) · `en`
-
-The NPP promises to reverse a historical trend. Everybody else has failed. We have reached a dead end
-
-For ancient history we are dependent on those who recorded them, in times when literacy was limited only to a handful. Very few of those present then could have challenged the veracity of the words being carved on stone, and if the carving had the king’s endorsement none would dare! For ancient history we are dependent on limited sources, one or two stone carvings or surviving scrolls. Even these scanty histories were rarely contemporaneous, the recorder writing about events happening few generations back, based on what has been passed from mouth to mouth. We do not know whether the exacting academic standards of today were demanded of the recorders then
-
-...
-
-[Data](articles/66baa55e.json)
-
-[Extended Data](ext_articles/66baa55e.ext.json)
 
 ---

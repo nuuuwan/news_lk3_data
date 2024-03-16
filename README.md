@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 19:50:17**
+As of **2024-03-16 20:02:54**
 
 ## Newspaper Stats
 
-*Scraped **13,296** Articles*
+*Scraped **13,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,605
+adaderanalk | 1,606
 tamilmirrorlk | 1,620
 virakesarilk | 1,851
 dailymirrorlk | 2,039
-adaderanasinhalalk | 2,100
+adaderanasinhalalk | 2,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,292 (100.0%) of 13,296 articles have been extended.
+13,296 (100.0%) of 13,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### දෙරණෙන් බිහිවූ ජනප්‍රිය තරුව රවී රොයිස්ටර්ගේ ගීතයක් ඉන්දීය සිනමාවට
+
+*2024-03-16 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194581) · `si`
+
+දෙරණෙන් බිහිවූ ජනප්‍රිය තරුවක් පසුගියදා මෙරට නාමය ජාත්‍යන්තර වේදිකාවට ගෙනයාමට සමත් විය.
+
+ඒ, දෙරණ ඩ්‍රීම් ස්ටාර් සීසන් 8 අදියරට සහභාගී වී ඉන් අතිශය ජනප්‍රියත්වයක් ලැබූ ගායක රවී රොයිස්ටර්ගේ ගීතයක් ඉන්දියාවේ සිනමාපටයක් සඳහා තෝරා ගැනීමත් සමගය.
+
+"Passa" ගීතය ඇසෙද්දීම ඔබට මතක් වෙන්නේ නව පරපුරේ ජනප්‍රිය ගායකයින් වන රවී රොයිස්ටර් සහ දිමිත්‍රී ය.
+
+Youtube අවකාශයේ මෙම ගීතය නැරඹුම්වාර සංඛ්‍යාව ලක්ෂ 90කට අධික සංඛ්‍යාවකට උරුමකම් කියයි.
+
+ඒ අනුව ශ්‍රී ලංකාව තුළ අතිශය ජනප්‍රිය වූ එම ගීතය මේ වනවිට ඉන්දියාවේත් ජනප්‍රිය වෙමින් තිබේ.
+
+ඒ, ඉන්දියානු ජනප්‍රිය නළු විජේ ඇන්තනීගේ නවතම සිනමා නිර්මාණය වන "Romeo" චිත්‍රපටයේ එක් ගීතයක් ලෙසට මෙම ගීතය තෝරා ගැනීමත් එක්ක.
+
+ලොව සුප්‍රසිද්ධ සංගීත සන්නාමයක් වන Think Music India සමග එක්ව රවී රොයිස්ටර්ගේ මෙම ගීතය දමිළ භාෂාවෙන් ''Vethala'' යන නමින් පසුගියදා එළිදැක්විය.
+
+විශේෂත්වය වන්නේ එම ගීතයේ පද රචනය ජනප්‍රිය නළු විජේ ඇන්තනී විසින් සිදුකරද්දී එය දමිළ භාෂාවෙන් ගායනා කිරීමට රවී රොයිස්ටර්ටම අවස්ථා ලැබීමය.
+
+...
+
+[Data](articles/a2ba8773.json)
+
+---
 
 ### India to hold seven-phase general election starting April 19, results in June
 
@@ -48,45 +74,65 @@ Nearly 970 million voters – more than the entire population of the United Stat
 
 [Data](articles/3d96e256.json)
 
+[Extended Data](ext_articles/3d96e256.ext.json)
+
 ---
 
-### නිරූපණ අවස්ථා පෙන්වා තරුණියන් ගෙන්වා ගත් සූපවේදියා අත්අඩංගුවට
+### Chef is arrested for importing demonstrators
 
 *2024-03-16 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194580) · `si`
 
-නිරූපණ ක්ෂේත්‍රයේ අවස්ථා ලබාදෙන බව පවසා තරුණියන්ට ලිංගික අතරවර කළ සූපවේදියෙකු සීගිරිය ප්‍රදේශයේදී හෝටලයක් තුළදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A chef in Sigiriya is arrested for allegedly abusing a 20-25 year old. The case involves a Sri Lankan student studying in China, who was lured to Sri Lanka for demonstrations. She was tricked into sending nude photos, which were then used to blackmail her. The suspect, a resident of Rajamalawatta, Kandy, claimed to be a doctor and threatened the girl.
 
-සැකකරු විසින් වයස අවුරුදු 20ත් 25ත් අතර තරුණියන් 30 දෙනෙකුට පමණ අතවර කර ඇති බවට සැක කරන බව විමර්ශන නිලධාරීන් පවසයි.
+🟩
 
-චීනයේ මෝස්තර නිරූපණය හදාරන ලාංකික තරුණියක් පසුගිය දෙසැම්බර් මාසයේදී කෙටි නිවාඩුවක් සඳහා දිවයිනට පැමිණ තිබුණි.
+A chef has been arrested by the Computer Criminal Investigation Department in Sigiriya in the Sigiriya area in the Sigiriya area.
 
-එහිදී ඇය සිය මවට පවසා ඇත්තේ, තමන් හදාරන පාඨමාලාවෙන් ඉහළට යෑම සඳහා මෙරටදී නිරූපණ ක්ෂේත්‍රයේ නිරතවිය යුතු බවය.
+Investigations personnel say that the suspect has been abused between 20 and 25 years old.
 
-අනතුරුව ඇයගේ මව විසින් ෆේස්බුක් හරහා සිදුකළ සොයාබැලීමේදී නදීෂා බණ්ඩාර නම් ගිණුමක් මගින් නිරූපන ක්ෂේත්‍රයේ අවස්ථා ඇති බවට දැන්වීම් පළ කර ඇති අයුරු දැක තිබුණි.
+A Sri Lankan student who studies China's designing Chinese was to the island on a short vacation in December.
 
-පසුව එම ගිණුම සම්බන්ධ කරගෙන ඇති අතර එහිදී නදීෂා බණ්ඩාර නමින් පෙනී සිටි අය පවසා ඇත්තේ, අදාළ තරුණියගේ හැඳුනුම්පතෙහි ඡායා පිටපත් හා පිංතූර කිහිපයක් එවන ලෙසය.
+She had told his mother that she should engage in the field of demonstration in Sri Lanka to promote his course.
 
-ඒ අතරතුර එම තරුණියගේ නිරුවත් ඡායාරූප විවිධ ඉරියව්වලින් සිට එවන ලෙස අදාළ ගිණුම හිමි පුද්ගලයා විසින් පණිවිඩයක් මගින් පවසා ඇත.
+Later, when her mother was conducted through Facebook, Nadeesha Bandara had an advertisement in the field of demonstration.
+
+The account was later associated with Nadeesha Bandara said that Nadeesha Bandara has said that he sent photocopies and photographs of the girl.
+
+Meanwhile, a message has said that the account ownership of the girl's nude photos from different postures.
+
+The young girl sent photos have been informed later that he must refer to a doctor to test her senses.
+
+Later, a person who appeared as a girl told her to have no fear and see the doctor.
 
 ...
 
 [Data](articles/765cdc49.json)
 
+[Extended Data](ext_articles/765cdc49.ext.json)
+
 ---
 
-### வெடுக்குநாறி விவகாரம் :தமிழ் கட்சிகள் அதிரடி தீர்மானம்
+### Tamil parties Action Resolution
 
 *2024-03-16 19:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வெடுக்குநாறி-விவகாரம்-தமிழ்-கட்சிகள்-அதிரடி-தீர்மானம்/71-334763) · `ta`
 
-வெடுக்குநாறிமலை ஆதி சிவன் ஆலயத்தில் கைது செய்யப்பட்டவர்களின் விடுதலை தொடர்பில் ஜனாதிபதியை சந்திப்பதற்கு தமிழ் கட்சிகளின் தலைவர்கள் தீர்மானித்துள்ளனர்.
+Tamil leaders, including LTTE's Siddharthan and Wigneswaran, met President to discuss the release of those arrested at Vettu Nirimalai. The case is due for hearing on Tuesday, with Wickremesinghe expected to attend.
 
-யாழ்ப்பாணத்தில் உள்ள பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் இல்லத்தில் சனிக்கிழமை (16) இடம்பெற்ற கலந்துரையாடலில் குறித்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட 8 நபர்களின் வழக்கு நீதிமன்றத்தில் எதிர்வரும் 19ஆம் திகதி செவ்வாய்க்கிழமை விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ள நிலையில் அதற்கு முதல் நாள் எதிர்வரும் 18ஆம் திகதி திங்கட்கிழமை ஜானாதிபதி ரணில் விக்ரமசிங்கவை சந்திக்கவுள்ளதாக தெரிவித்துள்ளனர்.
+Leaders of Tamil parties have decided to meet the President on the release of those arrested at the Adi Shiva Temple at Vettu Nirimalai.
 
-...
+Parliamentarian CV Wigneswaran said that a decision has been taken at a discussion held at the residence of Parliamentarian CV Wigneswaran in Jaffna on Saturday (16).
+
+The case of eight persons arrested is due to be taken up for hearing on Tuesday, 19th, and the first day of the day is to be met with Janathatri Ranil Wickremesinghe.
+
+At the meeting, Dharmalingam Siddharthan, President of the Liberation Tigers of Tamil Eelam (LTTE), Tamil People's Alliance leader CV Wigneswaran, Liberation Tigers of Tamil Eelam (LTTE) leader Selvam Adakkalanathan, Eelam People's Revolutionary Liberation Front leader Suresh PremachandranIt is noteworthy that Venthan and others were present.
+
+◼️
 
 [Data](articles/9d4fa459.json)
+
+[Extended Data](ext_articles/9d4fa459.ext.json)
 
 ---
 
@@ -131,6 +177,26 @@ High Commissioner Aziz said there is potential for increasing Buddhist pilgrims 
 [Data](articles/243d4a97.json)
 
 [Extended Data](ext_articles/243d4a97.ext.json)
+
+---
+
+### Sri Lanka explores potential to increase Buddhist pilgrims to Pakistan
+
+*2024-03-16 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97998/sri-lanka-explores-potential-to-increase-buddhist-pilgrims-to-pakistan) · `en`
+
+New Pakistani High Commissioner Major General (Retd.) Faheem Ul Aziz has called on Prime Minister Dinesh Gunawardena at the Temple Trees on Friday (March 15).
+
+The new envoy thanked the Sri Lankan Prime Minister for his felicitations and best wishes sent to newly-elected Pakistan President Asif Ali Zardari and Prime Minister Shehbaz Sharif.
+
+PM Gunawardena extended gratitude to Pakistan for supporting Sri Lanka at international forums and for extending training facilities to the members of the Sri Lankan armed forces.
+
+He discussed the possibility of expanding bilateral ties in economic spheres, investments, tourism and industries.
+
+High Commissioner Aziz said there is potential for increasing Buddhist pilgrims to Pakistan as sufficient infrastructure facilities have been established in places of pilgrimage such as Thakshila and Gandhara region.
+
+...
+
+[Data](articles/421fa1f6.json)
 
 ---
 
@@ -182,19 +248,27 @@ The meeting was organized under the theme of "the strongest future - 2024" The m
 
 ---
 
-### இந்திய அரசாங்கத்தின் 250 மில்லியன் ரூபா நிதியுதவியில் கதுருவலையில் மும்மொழி  தேசிய பாடசாலை
+### 250 million rupees of the Government of India
 
 *2024-03-16 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178875) · `ta`
 
-முன்னாள் ஜனாதிபதி  மைத்திரிபால சிறிசேன ஜனாதிபதியாகப் பதவியேற்றதன் பின்னர் இந்தியாவுக்கு மேற்கொண்ட முதலாவது உத்தியோகபூர்வ விஜயத்தின் போது, இந்திய அரசாங்கத்தின் நன்கொடையாக 2017ஆம் ஆண்டு ஆரம்பிக்கப்பட்ட கதுருவலை மும்மொழி  தேசிய பாடசாலையின் நிர்மாணப் பணிகள் சில காரணிகளால் இடைநிறுத்தப்பட்டன.
+The Government of India will pay 250 million rupees to complete the Kadaruvalai National School in Sri Lanka, following a request from Indian Prime Minister Narendra Modi and a visit by officials to assess the project's status.
 
-குறிப்பாக  இப்பாடசாலையின் பணிகளை முடிக்க நிதி ஒதுக்கீடு செய்யுமாறு ஏற்கனவே உள்ள அரசிடம் பலமுறை கோரிக்கை விடுத்தும் சாதகமான பதில் கிடைக்கவில்லை.  இதன்படி, முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, இந்தியப் பிரதமர் நரேந்திர மோடியிடம் விடுத்த விசேட கோரிக்கைக்கு அமைய, மும்மொழி தேசிய பாடசாலையை நிறைவு செய்வதற்கு நிதி ஒதுக்குவதற்கு விருப்பம் தெரிவித்திருந்தார்.
+🟩
 
-இதனையடுத்து, இப்பாடசாலையின் தற்போதைய நிலையினை அறிந்து கொள்வதற்காக  இலங்கையிலுள்ள இந்திய உயர்ஸ்தானிகராலயத்தின் வேலைத்திட்டங்களுக்கான ஆலோசகர்  எல்டோஸ் மெத்யூ புன்னூஸ் மற்றும் அரச அதிகாரிகள் வெள்ளிக்கிழமை (15) கண்காணிப்பு விஜயமொன்றை மேற்கொண்டனர்.
+During the first official visit to India after the former President Maithripala Sirisena was sworn in as president, the construction of the Kadaruvalai National School, which began in 2017, was suspended for some factors.
 
-...
+In particular, the existing government has repeatedly asked the existing government to allocate funds to complete the work of the school.Accordingly, former President Maithripala Sirisena expressed his desire to allocate funds for the completion of the trilingual national school in accordance with a special request made by Indian Prime Minister Narendra Modi.
+
+Subsequently, Eldos Mathew Bunnuz and State Officers made a surveillance visit to the Indian High Commission's programs in Sri Lanka to learn about the current status of the school.
+
+Accordingly, it has been announced that the Government of India will be paid 250 million rupees to complete the work of the school within the next six months.
+
+◼️
 
 [Data](articles/293f7788.json)
+
+[Extended Data](ext_articles/293f7788.ext.json)
 
 ---
 
@@ -2251,47 +2325,5 @@ The impact of the coconut trees has been made clear to other trees. As a result,
 [Data](articles/dbf2d13d.json)
 
 [Extended Data](ext_articles/dbf2d13d.ext.json)
-
----
-
-### Velan Swamis invite to mobilize against injustice!
-
-*2024-03-16 00:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178833) · `ta`
-
-Velan Swamis call for mobilization against injustice at Kandaswamy Temple, Vavuniya, on Mahasivaratri day. Protest against police violence and release of temple executives.
-
-🟩
-
-Velan Swamis called on the people of the Northeast to mobilize in front of the Kandaswamy Temple in Vavuniya at 10 am on Saturday (16) at 10 am against injustice.
-
-On the day of the last Mahasivaratri day, a struggle to protest the violence by the police and the release of the temple's executives and the Shiva devotees will be carried out on the occasion of worship at Vittukkanarimalai.
-
-The protest will begin in front of the Kandaswamy Temple in Vavuniya at 10.00 am on Saturday (16).
-
-In this struggle against injustice, all the Tamil people, religious organizations, Tamil politicians, Tamil sentiments, civil society, university students, and all of them are appealed to them.
-
-◼️
-
-[Data](articles/ff1cf292.json)
-
-[Extended Data](ext_articles/ff1cf292.ext.json)
-
----
-
-### 14 potential investors show interest in LGL and LGT divestiture
-
-*2024-03-16 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/14-potential-investors-show-interest-in-LGL-and-LGT-divestiture/108-278982) · `en`
-
-Fourteen potential investors have shown interest in the strategic divestiture of Litro Gas Lanka Ltd (LGL) and Litro Gas Terminals (Pvt.) Ltd (LGT), the State-Owned Enterprises Restructuring Unit said.
-
-The Requests for Expression of Interest (REOIs) were considered by the Opening Committee appointed by the Special Cabinet-Appointed Negotiating Committee.
-
-The 14 REOIs were received from Epdesa Pte Ltd – Singapore, Bharat Petroleum Cop. Ltd – India, Ayaz Anonim Sirketi – Republic of Turkey, Siam Gas and Petrochemicals Public Company Limited – Thailand, BGN Int DMCC – UAE, Confidence Petroleum India Limited – India, OQ Trading Limited – UAE, Tristar Group – UAE, Laugfs Gas PLC – Sri Lanka, United Petroleum Holdings – Malaysia, Vitol Asia Pte Ltd – Singapore, Infinity NGC – Sri Lanka, China National Aero Techno – Sri Lanka and Consulting Engineers & Contractors – Sri Lanka.
-
-...
-
-[Data](articles/5c0f1239.json)
-
-[Extended Data](ext_articles/5c0f1239.ext.json)
 
 ---

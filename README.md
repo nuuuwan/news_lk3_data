@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 11:02:49**
+As of **2024-03-16 11:17:53**
 
 ## Newspaper Stats
 
-*Scraped **13,227** Articles*
+*Scraped **13,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,592
-tamilmirrorlk | 1,605
+adaderanalk | 1,593
+tamilmirrorlk | 1,606
 virakesarilk | 1,838
 dailymirrorlk | 2,029
 adaderanasinhalalk | 2,085
@@ -26,11 +26,55 @@ adaderanasinhalalk | 2,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,226 (100.0%) of 13,227 articles have been extended.
+13,227 (100.0%) of 13,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### வெள்ளவத்தை நபர் சிவனொளிபாத மலையில் மரணம்
+
+*2024-03-16 11:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெள்ளவத்தை-நபர்-சிவனொளிபாத-மலையில்-மரணம்/76-334743) · `ta`
+
+ஹட்டன்- நல்லத்தண்ணி வழியாக சிவனொளிபாத மலைக்கு தரிசனம் செய்ய  சென்று கொண்டிருந்த வேளையில் ரது பலம் பகுதியில்   திடீர் சுகவீனம் அடைந்தவர் மரணமடைந்துள்ளார்.
+
+கொழும்பு 06, வெள்ளவத்தை, பெரகும்பா வீதியில் வசிக்கும் 73 வயதுடைய  நாராயணன் சாபு என்பவரே மரணமடைந்துள்ளார்.
+
+திடீர் சுகயீனமடைந்த அவரை அவரது உறவினர்கள்    மஸ்கெலியா மாவட்ட   வைத்தியசாலையில் அனுமதித்தனர் எனினும்,  15.03.2024 அன்று இரவு 12.35 மணிக்கு அவர் உயிரிழந்ததாக மஸ்கெலியா வைத்தியசாலை தெரிவித்துள்ளது.
+
+அவரது உடலம்  உடற் கூற்று பரிசோதனைக்காக டிக்கோயா- கிளங்கன் ஆதார வைத்திய சாலைக்கு கொண்டு செல்ல பட்டு வைத்தியசாலையில் உடற் கூற்று பரிசோதனை நடத்தப்பட உள்ளது.
+
+சிவனொளிபாதமலை பருவக்காலம் இவ்வருடம் ஆரம்பமானது முதல் இதுவரை சிவனொளி பாதமலைக்கு தரிசனம் செய்யவந்தவர்களில் அறுவர் மரணமடைந்துள்ளனர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/85495b83.json)
+
+---
+
+### Petition challenging IGP Tennakoon’s appointment fixed for consideration
+
+*2024-03-16 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97991/petition-challenging-igp-tennakoons-appointment-fixed-for-consideration) · `en`
+
+The Supreme Court on Friday (March 15) fixed a petition filed against the appointment of IGP Deshabandu Tennakoon to be taken up for consideration on April 02.
+
+The petition had been filed by Prof. Savitri Gunasekara earlier this month.
+
+When the petition was called before a 3-member Supreme Court judge bench led by Justice Preethi Padman Surasena, the petitioning party was ordered to send notices to the respondents.
+
+Subsequently, the petition was fixed for consideration on April 02.
+
+The petitioner has sought a Supreme Court ruling invalidating the appointment of the police chief.
+
+The Speaker of Parliament, the members of the Constitutional Council, IGP Tennakoon and several others have been named as the respondents of the petition.
+
+Earlier this month, His Eminence Malcolm Cardinal Ranjith, the Young Journalists’ Association, the Centre for Policy Alternatives, Niroshan Padukka of Samagi Jana Balawegaya (SJB) also put forward petitions, challenging the appointment of IGP Tennakoon.
+
+◼️
+
+[Data](articles/4fec7874.json)
+
+---
 
 ### Water usage increases by 15%; use sparingly: Water Board
 
@@ -45,6 +89,8 @@ Meanwhile, the Disaster Management Centre (DMC) said that three thousand familie
 ◼️
 
 [Data](articles/2a095c56.json)
+
+[Extended Data](ext_articles/2a095c56.ext.json)
 
 ---
 
@@ -2095,37 +2141,5 @@ Reports also indicate that the regions of Kegalle and Kurunegala districts are p
 [Data](articles/c9de79df.json)
 
 [Extended Data](ext_articles/c9de79df.ext.json)
-
----
-
-### Russia turns to Ukrainian teens to bolster its forces
-
-*2024-03-15 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Russia-turns-to-Ukrainian-teens-to-bolster-its-forces/107-278930) · `en`
-
-March 15 (CNN) -  Russia’s war machine is going to horrific lengths to try to erase Ukrainian identity and bolster its own military ranks – by deporting Ukrainian teenagers to Russia, indoctrinating them with propaganda, and attempting to conscript them into the Russian armed forces to fight against their own country.
-
-Numerous credible firsthand accounts have emerged of Russian authorities transporting Ukrainian children without parents or guardians from occupied areas like Mariupol to cities across Russia. There, the children are placed with Russian foster families, forced to attend pro-Russian schools, made to watch nationalistic videos praising Vladimir Putin, and taught that Ukraine does not truly exist as a nation.
-
-...
-
-[Data](articles/6e76bc72.json)
-
-[Extended Data](ext_articles/6e76bc72.ext.json)
-
----
-
-### Russia turns to Ukrainian teens to bolster its forces
-
-*2024-03-15 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russia-turns-to-Ukrainian-teens-to-bolster-its-forces/108-278930) · `en`
-
-March 15 (CNN) -  Russia’s war machine is going to horrific lengths to try to erase Ukrainian identity and bolster its own military ranks – by deporting Ukrainian teenagers to Russia, indoctrinating them with propaganda, and attempting to conscript them into the Russian armed forces to fight against their own country.
-
-Numerous credible firsthand accounts have emerged of Russian authorities transporting Ukrainian children without parents or guardians from occupied areas like Mariupol to cities across Russia. There, the children are placed with Russian foster families, forced to attend pro-Russian schools, made to watch nationalistic videos praising Vladimir Putin, and taught that Ukraine does not truly exist as a nation.
-
-...
-
-[Data](articles/e223f4da.json)
-
-[Extended Data](ext_articles/e223f4da.ext.json)
 
 ---

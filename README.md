@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 00:47:49**
+As of **2024-03-17 01:02:55**
 
 ## Newspaper Stats
 
-*Scraped **13,308** Articles*
+*Scraped **13,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 149
 dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 699
-economynextcom | 709
+economynextcom | 710
 islandlk | 720
-adalk | 1,131
+adalk | 1,136
 adaderanalk | 1,610
 tamilmirrorlk | 1,620
 virakesarilk | 1,852
@@ -26,11 +26,79 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,308 (100.0%) of 13,308 articles have been extended.
+13,308 (100.0%) of 13,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### පොලිසියේ ලොකු පුටු මාරුවක්
+
+*2024-03-16 22:41:40* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-ලොකු-පුටු-මාරුවක්/11-408639) · `si`
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරු අට දෙනෙක් ඇතුව නිලධාරීහු පිරිසකට වහාම ක්‍රියාත්මකවන පරීදී ස්ථාන මාරු සිදු කර ඇතැයි පොලිස් මූලස්ථානය පවසයි.
+
+ජාතික පොලිස් කොම්ෂන් නිර්දේශ අනුව වහාම ක්‍රියාත්මක කිරීමට පොලිස්පති දේශබන්දු දෙන්නකෝන් මහතා මෙම නියෝග කර තිබේ.
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  ඩබ්ලිව්.එල්.ඒ.එස්. ප්‍රියන්ත වීරසූරිය උතුරු මැද පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති සජීව මැදවත්ත මහතා පුහුණු හා උසස් පුහුණු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ආර්.එල් කොඩිතුවක්කු අපරාධ හා රථවාහන ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති පොලිස්පති එම්.ඩී.ආර්.එස්. දමින්ද සහායක සේවා ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති කේ.පී.එම්. ගුණරත්න බස්නාහිර පළාත් භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති කේ.වී.ඩී.ජේ කරවිට ප්‍රජා පොලිස් සංචාරක හා ආයෝජන ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  එස්.ඩබ්ලිව්.එම්. සේනාරත්න දකුණු පළාත් භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙසත,
+
+...
+
+[Data](articles/e5a283ba.json)
+
+---
+
+### මේ මොහොතේ බදු ප්‍රතිපත්තියේ වෙනසක් කරන්න බෑ
+
+*2024-03-16 22:32:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-මොහොතේ-බදු-ප්‍රතිපත්තියේ-වෙනසක්-කරන්න-බෑ/11-408638) · `si`
+
+මැණික් හා ස්වර්ණාභරණ කර්මාන්තය ආශ්‍රිතව මතුව ඇති ගැටළුවලට විසඳුම් ලබා දෙමින් එම ක්ෂේත්‍රයේ නිරතවූවන්ට සහන ලබා දීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+මේ මොහොතේ බදු ප්‍රතිපත්තියේ වෙනසක් සිදු කළ නොහැකි නමුත් මැණික් හා ස්වර්ණාභරණ කර්මාන්තය ශක්තිමත් කිරීම වෙනුවෙන් සුදුසු ක්‍රමවේදයක් සකස් කරන බව සඳහන් කළ ජනාධිපතිවරයා රාජ්‍ය සහ පෞද්ගලික දෙඅංශයේම දායකත්වයෙන් මෙම ගැටළු විසඳා ගැනීමට අදාළ යෝජනාවලියක් සකස් කර සති දෙකක් ඇතුළත ලබා දෙන ලෙස ද නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රයේ නිරතවූවන් සමඟ ඊයේ (15) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදී ය.
+
+මැණික් හා ස්වර්ණාභරණ කර්මාන්තයට බලපා ඇති රජයේ නව බදු ප්‍රතිපත්ති පිළිබඳ ගැටළු ඇතුළු කර්මාන්තය ආශ්‍රිත මතුව ඇති වෙනත් ගැටළු පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ මෙරට මැණික් කර්මාන්තය ආශ්‍රිත අපනයනය වැඩි කිරීමට මෙන්ම අගය එකතු කිරීම් කෙරෙහි ද අවධානය යොමු කළ යුතු බවයි.
+
+...
+
+[Data](articles/92a2d54c.json)
+
+---
+
+### ඇඟළුම් කර්මාන්තය පිළිබඳ විශාල බලාපොරොත්තුවක් තබන්න බැහැ
+
+*2024-03-16 22:27:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇඟළුම්-කර්මාන්තය-පිළිබඳ-විශාල-බලාපොරොත්තුවක්-තබන්න-බැහැ/11-408637) · `si`
+
+සංවර්ධන කටයුතු සඳහා රජය ලබා දෙන මුදල් නිසි ලෙස වැය කරමින් එහි ප්‍රතිලාභ ජනතාවටත්, රටටත් ලබා දෙන්න
+
+– දිස්ත්‍රික් ලේකම්වරු සහ ප්‍රදේශීය ලේකම්වරු සමඟ පැවති හමුවේ දී ජනපති අවධාරණය කරයි.
+
+සංවර්ධන කටයුතු සඳහා රජය ලබා දෙන මුදල් නිසි ලෙස වැය කරමින් ජනතාවට එම ප්‍රතිලාභ ලබා දීමටත්, එමඟින් ජාතික ආර්ථිකය ශක්තිමත් කිරීමටත් කැපවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සියලු ප්‍රාදේශීය රාජ්‍ය නිලධාරීන්ගෙන් ඉල්ලා සිටියේය.
+
+එසේම ජනතාව වෙනුවෙන් ක්‍රියාත්මක කර ඇති “අස්වැසුම” “උරුමය” සහ කෘෂි නවීකරණ වැඩසටහන මෙන්ම “කදුරට දශකය” වැඩසටහන සාර්ථක කර ගැනීම වෙනුවෙන් සක්‍රීයව දායකවන ලෙස ද ඉල්ලා සිටි ජනාධිපතිවරයා මෙම සියලු වැඩසටහන්වල ප්‍රතිලාභ නැවත ජාතික ආර්ථිකයට එක් වන බව ද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ රජය ක්‍රියාත්මක කර ඇති සංවර්ධන වැඩසටහන්වල ප්‍රගතිය පිළිබඳ දිස්ත්‍රික් ලේකම්වරු සහ ප්‍රාදේශීය ලේකම්වරුන් සමග කොළඹ පදනම් ආයතනයේ දී පැවති සාකච්ඡාවේදීය.
+
+...
+
+[Data](articles/0a59629c.json)
+
+---
 
 ### Over 150 illegal immigrants including Sri Lankans apprehended in Malaysia
 
@@ -51,6 +119,22 @@ Reportedly, one of the detainees, a 50-year-old Indonesian, had been working as 
 [Data](articles/879181f4.json)
 
 [Extended Data](ext_articles/879181f4.ext.json)
+
+---
+
+### අප්‍රේල් අවසන්වීමට ප්‍රථමව ග්‍රාමසේවා නිලධාරීන් 2002ක්
+
+*2024-03-16 22:20:01* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-අවසන්වීමට-ප්‍රථමව-ග්‍රාමසේවා-නිලධාරීන්-2002ක්/11-408636) · `si`
+
+පුරප්පාඩුව පවතින ග්‍රාමසේවා වසම් 2002ක් වෙනුවෙන් ග්‍රාම නිලධාරීන් බඳවා ගැනීම සඳහා වන සම්මුඛ පරීක්ෂණ මේ දිනවල පැවැත්වෙන බවත් එළඹෙන අප්‍රේල් මාසය අවසන් වීමට පෙර ඔවුන් සේවයේ පිහිටුවීමට කටයුතු කරන බවත් ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ රට ගොඩනඟන වැඩ පිළිවෙල ඔස්සේ තවත් වසර දෙකක් හෝ ඉදිරියට ගමන් කිරීමට හැකි වුවහොත් බිඳවැටුණු ආර්ථිකය ගොඩනඟමින් සංවර්ධිත රටක් නිර්මාණය කළ හැකි බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/c3f97035.json)
 
 ---
 
@@ -729,6 +813,34 @@ It is noteworthy that he was involved in a protest on the A-9 road near the peop
 [Data](articles/72ccd0e9.json)
 
 [Extended Data](ext_articles/72ccd0e9.ext.json)
+
+---
+
+### Sri Lanka’s low grown Ceylon teas fall, high growns up
+
+*2024-03-16 16:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-low-grown-ceylon-teas-fall-high-growns-up-154866/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea price averages fell at an auction on March 12-13, with Low Growns continuing to weaken, while High and Medium Growns slightly gained, industry data showed.
+
+Sri Lankan tea prices have moved up in 2024 both in rupee and US dollar terms.
+
+The national weekly sale average fell by 5.66 rupees to 1338.73 rupees a kilogram this week, from 1344.39 rupees week industry data published by Ceylon Tea Brokers showed.
+
+The weekly average was 4.36 dollars a kilo, up from 4.47 dollars a week earlier.
+
+Prices have gained from an average of 3.66 US dollar a kilo seen at the last auction in December.
+
+The weekly average of Sri Lanka’s highest priced tea, the Low Grown, fell by 10.16 rupees to 1387.38 rupees.
+
+BOP1 Select bests maintained during the week, while bests, below bests and poorer sorts fell irregularly.
+
+OP1 Select bests fell, while bests and below bests maintained. Poorer sorts of OP1 fell.
+
+OPA Select bests together with bests fell, whilst poorer sorts maintained and gained.
+
+...
+
+[Data](articles/eb5ab56a.json)
 
 ---
 
@@ -1566,6 +1678,20 @@ The suspect had come to Wattala Police and he was arrested.
 
 ---
 
+### වියළි කාලගුණය තවදුරටත්
+
+*2024-03-16 11:39:37* · [`adalk`](https://www.ada.lk/breaking_news/වියළි-කාලගුණය-තවදුරටත්/11-408635) · `si`
+
+දිවයිනේ ස්ථාන ස්වල්පයක ඇතැවිය හැකි හැරෙන්නට සෙසු ප්‍ර දේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිමට ඉඩ ඇති බව එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/8662b176.json)
+
+---
+
 ### Resolution
 
 *2024-03-16 11:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/செல்வா-வழியில்-செல்ல-தீர்மானம்/73-334747) · `ta`
@@ -2221,135 +2347,5 @@ Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to 
 [Data](articles/0df11c82.json)
 
 [Extended Data](ext_articles/0df11c82.ext.json)
-
----
-
-### 18 police officers including SDIGs transferred; CID gets new director
-
-*2024-03-16 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97987/18-police-officers-including-sdigs-transferred-cid-gets-new-director) · `en`
-
-A total of 18 senior police officers including Senior Deputy Generals of Police (SDIGs) have been transferred with immediate effect.
-
-The transfers were made under the directives of Inspector General of Police (IGP) Deshabandu Tennakoon, pursuant to a decision made by the National Police Commission.
-
-Among the transferred officers are 8 Senior Deputy Generals of Police (SDIGs), one Deputy General of Police (DIG), 8 Senior Superintendent of Police (SSPs) and one Superintendent of Police (SP).
-
-Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC) of the Mount Lavinia Police Division has been moved to the Criminal Investigation Department (CID) as its director.
-
-Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to lead the Kalutara Police Division.
-
-1. SDIG W. L. A. S. Priyantha Weerasuriya – From Crimes and Traffic Division to the North Central Province
-
-2. SDIG S. C. Medawatta – From Southern Province to Training & Higher Training Division
-
-...
-
-[Data](articles/a516b9d9.json)
-
-[Extended Data](ext_articles/a516b9d9.ext.json)
-
----
-
-### 18 police officers including SDIGs transferred; new CID director appointed
-
-*2024-03-16 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97987/18-police-officers-including-sdigs-transferred-new-cid-director-appointed) · `en`
-
-A total of 18 senior police officers including Senior Deputy Generals of Police (SDIGs) have been transferred with immediate effect.
-
-The transfers were made under the directives of Inspector General of Police (IGP) Deshabandu Tennakoon, pursuant to a decision made by the National Police Commission.
-
-Among the transferred officers are 8 Senior Deputy Generals of Police (SDIGs), one Deputy General of Police (DIG), 8 Senior Superintendent of Police (SSPs) and one Superintendent of Police (SP).
-
-Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC) of the Mount Lavinia Police Division has been moved to the Criminal Investigation Department (CID) as its director.
-
-◼️
-
-[Data](articles/a5fdbfa0.json)
-
-[Extended Data](ext_articles/a5fdbfa0.ext.json)
-
----
-
-### Absence of defence attaché hinders efforts to nab criminals abroad
-
-*2024-03-16 07:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Absence-of-defence-attaché-hinders-efforts-to-nab-criminals-abroad/108-278962) · `en`
-
-The absence of a defence attaché at the Sri Lankan mission in the United Arab Emirates (UAE) has dealt a blow to Sri Lanka’s efforts in nabbing organized criminals operating from there, the Daily Mirror learns.
-
-Sri Lanka has ramped up efforts to arrest its criminals hiding overseas - mostly in the UAE.
-
-However, its efforts have been hampered since the absence of a defence attaché.
-
-Asked about the situation, a top diplomatic source said the government would take steps to make necessary appointments to its missions abroad.
-
-Currently, Sri Lanka runs short of 100 diplomats of the approved cadre.
-
-The source said 25 recently recruited diplomats had been referred to the Public Service Commission for approval, but the process had been delayed for more than three months.
-
-◼️
-
-[Data](articles/54f0afba.json)
-
-[Extended Data](ext_articles/54f0afba.ext.json)
-
----
-
-### The temperature in many areas today
-
-*2024-03-16 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194556) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, Central provinces, and Galle, Matara districts. Temperature focus in several areas. High heat in North Western, North-central, Colombo, Kalutara, Mullaitivu, Vavuniya, Hambantota districts. Health advice includes water restrictions and avoiding outdoor stress.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts, the Met Department said.
-
-In some places, in some places, in the Galle and Uva provinces, in some locations, are expected to look forward to the morning in the Galle and Matara districts.
-
-Meanwhile, the Department of Meteorology states that the temperature of several areas in the island will continue to focus on today (16).
-
-The heat of the human body will be at a level of focus on the human body in the North Western, North-central and Colombo, Kalutara, Mullaitivu, Mullaitivu, Vavuniya and Hambantota districts.
-
-Drinking water, innovative water, the rest of the shade, which should be followed by the health advice, including restricting the stressing outdoors.
-
-◼️
-
-[Data](articles/6f49fb56.json)
-
-[Extended Data](ext_articles/6f49fb56.ext.json)
-
----
-
-### Sri Lanka IMF program may become extended amid elections: sources
-
-*2024-03-16 06:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-program-may-become-extended-amid-elections-sources-154835/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s International Monetary Fund program could slow down in the second half of 2024 after the current review is completed, as elections make it more difficult to maintain the pace of reforms, government sources said.
-
-An IMF mission is in SriLanka for the second review of a bailout that has pushed up taxes, and stabilized the external sector which was shattered by 2020 rate cuts.
-
-President Ranil Wickremesinghe’s popularity has declined amid electricity price hikes while middle class wage earners were hit by high progressive taxes on a low base, on top of cascading social security levy and a required needed value added tax.
-
-Wickremesinghe is considering to contest under a grand coalition in the presidential poll which has to be held in one month from September 18 this year, his allies have told EconomyNext.
-
-...
-
-[Data](articles/1e2effbc.json)
-
-[Extended Data](ext_articles/1e2effbc.ext.json)
-
----
-
-### A possible alliance?
-
-*2024-03-16 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/A-possible-alliance/110-278974) · `en`
-
-Former President Chandrika  Bandaranaike Kumaratunga in conversation with SJB Leader Sajith  Premadasa at a Bleedgood project launch on Thursday. However, other  possible allies seem to be absent. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/2e83f641.json)
-
-[Extended Data](ext_articles/2e83f641.ext.json)
 
 ---

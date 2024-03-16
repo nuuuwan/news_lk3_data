@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 09:17:59**
+As of **2024-03-16 09:33:36**
 
 ## Newspaper Stats
 
-*Scraped **13,214** Articles*
+*Scraped **13,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,130
 adaderanalk | 1,589
 tamilmirrorlk | 1,605
 virakesarilk | 1,834
-dailymirrorlk | 2,025
-adaderanasinhalalk | 2,083
+dailymirrorlk | 2,027
+adaderanasinhalalk | 2,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,214 (100.0%) of 13,214 articles have been extended.
+13,214 (100.0%) of 13,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Eighteen Police officers including 8 Senior DIGs and CID Director transferred
+
+*2024-03-16 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eighteen-Police-officers-including-8-Senior-DIGs-and-CID-Director-transferred/108-278986) · `en`
+
+Colombo, March 16 (Daily Mirror) - Eighteen police officers including 8 senior DIGs and the Director of the Criminal Investigations Department (CID), have been transferred with immediate effect, the police said.
+
+Accordingly, 08 Senior DIGs, one DIG, 08 Senior Superintendents of Police (SSP), and one Superintendent of Police (SP) have been transferred.
+
+SSP K.G.A.K. Piyasekara, the Director of CID, has been transferred to the Kalutara Division, while Mount Lavinia Division SSP E.M.M.S. Dehideniya has been transferred as Director of CID.
+
+Senior DIG K. P. M. Gunaratne has been transferred from the position of Senior DIG in charge of the Northern Province to Senior DIG in charge of the Western Province.
+
+...
+
+[Data](articles/5ed115c4.json)
+
+---
+
+### ඔටාවා ඛේදවාචකය - අවසන් කටයුතු හෙට
+
+*2024-03-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194560) · `si`
+
+කැනඩාවේ ඔටාවා නුවරට තදාසන්න බාහීවන් ප්‍රදේශයේ සිය නිවසේ දී ඝාතනයට ලක්වූ ලාංකික පවුලේ සාමාජිකයින්ගේ අවසන් කටයුතු හෙට (17) සිදුකිරීමට නියමිත බව දැනුම් දී තිබේ.
+
+කැනඩාවේ බෞද්ධ කටයුතු කොංග්‍රසය විසින් මෙම කටයුතු සංවිධානය කර ඇති අතර එරට ‍වෙලාවෙන් පස්වරු 01.00 එම කටයුතු සිදුකරන බව සඳහන් වේ.
+
+එය බහු ආගමික, මහජනයා සඳහා විවෘත කටයුත්තක් ලෙස සංවිධානය කර ඇත.
+
+අවසන් කටයුතු සඳහා ප්‍රහාරයකට මුහුණ දුන් එම පවුලේ පියා වන ධනුෂ්ක වික්‍රමසිංහ ද සහභාගීවීමට නියමිතය.
+
+◼️
+
+[Data](articles/a0d92dec.json)
+
+---
 
 ### ICU crisis at Colombo Hospital, have to accept janitorial support: Dr. Bellana
 
@@ -519,6 +555,22 @@ In this struggle against injustice, all the Tamil people, religious organization
 [Data](articles/ff1cf292.json)
 
 [Extended Data](ext_articles/ff1cf292.ext.json)
+
+---
+
+### 14 potential investors show interest in LGL and LGT divestiture
+
+*2024-03-16 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/14-potential-investors-show-interest-in-LGL-and-LGT-divestiture/108-278982) · `en`
+
+Fourteen potential investors have shown interest in the strategic divestiture of Litro Gas Lanka Ltd (LGL) and Litro Gas Terminals (Pvt.) Ltd (LGT), the State-Owned Enterprises Restructuring Unit said.
+
+The Requests for Expression of Interest (REOIs) were considered by the Opening Committee appointed by the Special Cabinet-Appointed Negotiating Committee.
+
+The 14 REOIs were received from Epdesa Pte Ltd – Singapore, Bharat Petroleum Cop. Ltd – India, Ayaz Anonim Sirketi – Republic of Turkey, Siam Gas and Petrochemicals Public Company Limited – Thailand, BGN Int DMCC – UAE, Confidence Petroleum India Limited – India, OQ Trading Limited – UAE, Tristar Group – UAE, Laugfs Gas PLC – Sri Lanka, United Petroleum Holdings – Malaysia, Vitol Asia Pte Ltd – Singapore, Infinity NGC – Sri Lanka, China National Aero Techno – Sri Lanka and Consulting Engineers & Contractors – Sri Lanka.
+
+...
+
+[Data](articles/5c0f1239.json)
 
 ---
 
@@ -2083,61 +2135,5 @@ A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar15/
 [Data](articles/d5f2bb89.json)
 
 [Extended Data](ext_articles/d5f2bb89.ext.json)
-
----
-
-### Drink Water or Inform 117 Number
-
-*2024-03-15 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194547) · `si`
-
-For water issues, contact 117.
-
-🟩
-
-People with drinking water problems are immediately requested to inform the District Disaster Management Center through 117.
-
-◼️
-
-[Data](articles/5df39ed0.json)
-
-[Extended Data](ext_articles/5df39ed0.ext.json)
-
----
-
-### ‘Boosting Indo-Sri Lankan trade relations crucial for mutual gains’ – President
-
-*2024-03-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/97980/boosting-indo-sri-lankan-trade-relations-crucial-for-mutual-gains-president-) · `en`
-
-President Ranil Wickremesinghe underscored the critical importance of fortifying the extensive trade and economic ties between Sri Lanka and India promptly to ensure mutual advantages for both nations.
-
-He expressed these views during his presence at a special commemoration ceremony organized by the Sri Lanka India Society in Colombo yesterday (14). This event was arranged to mark the 76th Independence Day of Sri Lanka and the 75th Republic Day of India, signifying the historical and diplomatic significance of the occasion.
-
-President Ranil Wickremesinghe and Professor Maithree Wickramasinghe were the  chief guests at this event. Their attendance was complemented by the presence of Mr. Santosh Jha, the Indian High Commissioner to Sri Lanka, who graced the event as a special guest, underscoring the warm relations between the two neighbouring nations.
-
-...
-
-[Data](articles/f1a9efb2.json)
-
-[Extended Data](ext_articles/f1a9efb2.ext.json)
-
----
-
-### Hamas presents ceasefire proposal detailing exchange of hostages, prisoners
-
-*2024-03-15 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/97979/hamas-presents-ceasefire-proposal-detailing-exchange-of-hostages-prisoners) · `en`
-
-Hamas has presented a Gaza ceasefire proposal to mediators and the U.S. that includes the release of Israeli hostages in exchange for freedom for Palestinian prisoners, 100 of whom are serving life sentences, according to a proposal seen by Reuters.
-
-Hamas said the initial release of Israelis would include women, children, elderly and ill hostages in return for the release of 700-1,000 Palestinians held in Israeli prisons, according to the proposal. The release of Israeli “female recruits” is included.
-
-Israeli Prime Minister Benjamin Netanyahu’s office said on Thursday a new Gaza truce proposal presented by Hamas to mediators was still based on “unrealistic demands”.
-
-His office said an update on the issue would be handed to the war cabinet and extended security cabinet on Friday.
-
-...
-
-[Data](articles/7f0c1e6e.json)
-
-[Extended Data](ext_articles/7f0c1e6e.ext.json)
 
 ---
